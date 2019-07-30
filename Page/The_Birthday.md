@@ -1,5 +1,4 @@
-**The
-Birthday**是[日本](../Page/日本.md "wikilink")[摇滚乐队](https://zh.wikipedia.org/wiki/摇滚乐队 "wikilink")，2006年结成。为[日本环球音乐旗下艺人](https://zh.wikipedia.org/wiki/日本环球音乐 "wikilink")。
+**The Birthday**是[日本](../Page/日本.md "wikilink")[摇滚乐队](https://zh.wikipedia.org/wiki/摇滚乐队 "wikilink")，2006年结成。为[日本环球音乐旗下艺人](https://zh.wikipedia.org/wiki/日本环球音乐 "wikilink")。
 
 ## 成员
 
@@ -9,32 +8,23 @@ Birthday**是[日本](../Page/日本.md "wikilink")[摇滚乐队](https://zh.wik
 
   - （，），担任鼓手。前the michelle gun elephant、、、qyb成员。2007年发布单行本《》\[1\]。
 
-  - （，），担任吉他。2011年1月加入。前，[MY LITTLE
-    LOVER成员](https://zh.wikipedia.org/wiki/MY_LITTLE_LOVER "wikilink")。
+  - （，），担任吉他。2011年1月加入。前，[MY LITTLE LOVER成员](https://zh.wikipedia.org/wiki/MY_LITTLE_LOVER "wikilink")。
 
 ### 前成员
 
-  - （，），担任吉他手。2010年9月退出。前成员。与CHIBA在ROSSO时就一同共事，退出The
-    Birthday后又与CHIBA共同结成THE GOLDEN WET FINGER乐队。
+  - （，），担任吉他手。2010年9月退出。前成员。与CHIBA在ROSSO时就一同共事，退出The Birthday后又与CHIBA共同结成THE GOLDEN WET FINGER乐队。
 
 ## 简介
 
-2006年6月，CHIBA和今井所在的ROSSO乐队活动休止，二人随即与平井和KUHARA结成The
-Birthday乐队。当年8月即发售第一张单曲《stupid》，10月发售第一张专辑《Rollers
-Romantics》。
+2006年6月，CHIBA和今井所在的ROSSO乐队活动休止，二人随即与平井和KUHARA结成The Birthday乐队。当年8月即发售第一张单曲《stupid》，10月发售第一张专辑《Rollers Romantics》。
 
-2009年7月25日参加[FUJI ROCK
-FESTIVAL时](https://zh.wikipedia.org/wiki/FUJI_ROCK_FESTIVAL "wikilink")，为纪念在7月22日逝世的曾共事于THEE
-MICHELLE GUN ELEPHANT的，在演出一开始CHIBA就说：“今天的演出献给我们的最好的朋友安部太”\[2\]。
+2009年7月25日参加[FUJI ROCK FESTIVAL时](https://zh.wikipedia.org/wiki/FUJI_ROCK_FESTIVAL "wikilink")，为纪念在7月22日逝世的曾共事于THEE MICHELLE GUN ELEPHANT的，在演出一开始CHIBA就说：“今天的演出献给我们的最好的朋友安部太”\[2\]。
 
-2010年9月1日，今井宣布退出乐队，8月6日的[ROCK IN JAPAN FESTIVAL
-2010成为创始成员们最后的一场演出](https://zh.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink")\[3\]。
+2010年9月1日，今井宣布退出乐队，8月6日的[ROCK IN JAPAN FESTIVAL 2010成为创始成员们最后的一场演出](https://zh.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink")\[3\]。
 
-2011年1月，经事务所社长介绍，前[My Little
-Lover的吉他手藤井謙二加入乐队](../Page/My_Little_Lover.md "wikilink")\[4\]。根据CHIBA说，藤井曾是ROSSO第二期的吉他手候选之一\[5\]。
+2011年1月，经事务所社长介绍，前[My Little Lover的吉他手藤井謙二加入乐队](../Page/My_Little_Lover.md "wikilink")\[4\]。根据CHIBA说，藤井曾是ROSSO第二期的吉他手候选之一\[5\]。
 
-2015年9月15日，庆祝结成10周年的纪念演唱会在[日本武道馆举行](https://zh.wikipedia.org/wiki/日本武道馆 "wikilink")\[6\]。隔日9月16日精选专辑《GOLD
-TRASH》发售\[7\]。
+2015年9月15日，庆祝结成10周年的纪念演唱会在[日本武道馆举行](https://zh.wikipedia.org/wiki/日本武道馆 "wikilink")\[6\]。隔日9月16日精选专辑《GOLD TRASH》发售\[7\]。
 
 ## 作品
 
@@ -555,8 +545,7 @@ UMCK-1519</p></td>
 
 #### 其他CD
 
-1.  《The Birthday meets Love Grocer at On-U Sound Mixed by Adrian
-    Sherwood》（2009年5月13日、TERNG-083）\[22\]
+1.  《The Birthday meets Love Grocer at On-U Sound Mixed by Adrian Sherwood》（2009年5月13日、TERNG-083）\[22\]
 
 ### DVD
 
@@ -657,9 +646,7 @@ UMBK-9293(DVD)</p></td>
   - 2011年9月3日〜11月7日 - The Birthday 『I'M JUST A DOG TOUR '11』\[43\]
   - 2012年4月14日〜20日 - Quattro×Quattro Tour '12
   - 2012年9月22日〜12月19日 - The Birthday Tour 2012『VISION』
-  - 2013年4月30日〜05月20日 - The Birthday & [MANNISH
-    BOYS](https://zh.wikipedia.org/wiki/MANNISH_BOYS "wikilink")
-    presents 『WEEKEND LOVERS'13』
+  - 2013年4月30日〜05月20日 - The Birthday & [MANNISH BOYS](https://zh.wikipedia.org/wiki/MANNISH_BOYS "wikilink") presents 『WEEKEND LOVERS'13』
   - 2013年9月14日〜10月12日 - Black Doctor Fight Again 12 Nights
   - 2013年12月5日〜13日 - Quattro×Quattro Tour'13
   - 2014年5月31日〜10月7日 - COME TOGETHER TOUR 2014
@@ -678,9 +665,7 @@ UMBK-9293(DVD)</p></td>
   -
   -
   -
-[Category:日本摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本摇滚乐团 "wikilink")
-[Category:環球唱片旗下藝人](https://zh.wikipedia.org/wiki/Category:環球唱片旗下藝人 "wikilink")
-[Category:2006年成立的音乐团体](https://zh.wikipedia.org/wiki/Category:2006年成立的音乐团体 "wikilink")
+[Category:日本摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本摇滚乐团 "wikilink") [Category:環球唱片旗下藝人](https://zh.wikipedia.org/wiki/Category:環球唱片旗下藝人 "wikilink") [Category:2006年成立的音乐团体](https://zh.wikipedia.org/wiki/Category:2006年成立的音乐团体 "wikilink")
 
 1.
 

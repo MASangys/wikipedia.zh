@@ -22,23 +22,18 @@
       - 联邦情报局 （AFI） - *Agencia Federal de Inteligencia*
           - 国家情报学校 （ENI） - *Escuela Nacional de Inteligencia*
           - 司法监督局 （DOJ） - *DireccióndeObservaciones Judiciales*
-          - 联邦反毒品服务 （SEFECONAR） - *Servicio Federal de Lucha
-            contraelNarcotráfico*
+          - 联邦反毒品服务 （SEFECONAR） - *Servicio Federal de Lucha contraelNarcotráfico*
           - 阿根廷国家警察情报 （SIGN） - *科技智慧德拉全国宪兵队阿根廷*
   - [国防部](https://zh.wikipedia.org/wiki/阿根廷国防部 "wikilink")
       - 国家战略军事情报局 （DNIEM） - *国际民主政策研究所*
   - 司法部
-      - Federal Penitentiary Service Intelligence - *Inteligencia del
-        Servicio Penitenciario Federal*
+      - Federal Penitentiary Service Intelligence - *Inteligencia del Servicio Penitenciario Federal*
       - 机场安全警察情报 - *Inteligencia delaPolicíadeSeguridad Aeroportuaria*
   - 内政部
-      - 国家刑事情报局 （DNIC） - *国家* 刑事司法局 （ *DirecciónNacionalde Inteligencia
-        Criminal）*
+      - 国家刑事情报局 （DNIC） - *国家* 刑事司法局 （ *DirecciónNacionalde Inteligencia Criminal）*
       - 阿根廷联邦警察情报局 - *Inteligencia delaPolicía联邦阿根廷*
-      - 布宜诺斯艾利斯警察情报局 （SIPBA）（布宜诺斯艾利斯警察情报局） - *Inteligencia
-        delaPolicíaBonaerense*
-      - 阿根廷海军地区情报局 （SIPN） - *Inteligencia de la Prefectura Naval
-        Argentina*
+      - 布宜诺斯艾利斯警察情报局 （SIPBA）（布宜诺斯艾利斯警察情报局） - *Inteligencia delaPolicíaBonaerense*
+      - 阿根廷海军地区情报局 （SIPN） - *Inteligencia de la Prefectura Naval Argentina*
   - 经济部
       - 金融情报室 （UIF） - *Unidad de Inteligencia Financiera*
   - 武装部队联合总参谋部情报部 （J-2）
@@ -66,8 +61,7 @@
   - BundesministeriumfürLandesverteidigungund Sport（BMLVS） ： *联邦国防部*
       - Abwehramt（AWA）： *军事保护办公室*
       - Heeresnachrichtenamt （海航）： *陆军情报局*
-  - [BundesministeriumfürInneres（BMI）](https://zh.wikipedia.org/wiki/聯邦內政部_\(奧地利\) "wikilink")
-    ： *联邦内政部*
+  - [BundesministeriumfürInneres（BMI）](https://zh.wikipedia.org/wiki/聯邦內政部_\(奧地利\) "wikilink") ： *联邦内政部*
       - 德国 *联邦保护宪法和反恐怖主义办公室*
 
 ### [阿塞拜疆](../Page/阿塞拜疆足球超級聯賽.md "wikilink") \[1\]
@@ -121,8 +115,7 @@
 ### [巴西](../Page/巴西.md "wikilink")
 
   - 巴西情报局 （ABIN）
-  - [联邦警察局](https://zh.wikipedia.org/wiki/联邦警察_\(巴西\) "wikilink")
-    （DPF）（反间谍机构）
+  - [联邦警察局](https://zh.wikipedia.org/wiki/联邦警察_\(巴西\) "wikilink") （DPF）（反间谍机构）
   - 陆军情报中心（CIE）
   - 海军情报中心 （CIM）
   - 航空情报中心 （CIA）（空军情报）
@@ -134,12 +127,9 @@
 
 ### [保加利亚](https://zh.wikipedia.org/wiki/保加利亚 "wikilink")
 
-  - Държавнаагенция“Разузнаване”（ [DAR](https://www.dar.bg/en) ）（ 国家情报局
-    ） - 在保加利亚部长理事会的监督下监督情报收集服务
-  - 国家安全局 （ [DANS](http://www.dans.bg/index.php?lang=en) ） -
-    保加利亚部长理事会监督下的国家安全部门Държавнаагенциязанационалнасигурност
-  - Служба“Военнаинформация”（ [CVI](http://dis.mod.bg/) ）（军事情报局） -
-    根据国防部监督
+  - Държавнаагенция“Разузнаване”（ [DAR](https://www.dar.bg/en) ）（ 国家情报局 ） - 在保加利亚部长理事会的监督下监督情报收集服务
+  - 国家安全局 （ [DANS](http://www.dans.bg/index.php?lang=en) ） - 保加利亚部长理事会监督下的国家安全部门Държавнаагенциязанационалнасигурност
+  - Служба“Военнаинформация”（ [CVI](http://dis.mod.bg/) ）（军事情报局） - 根据国防部监督
 
 ### [缅甸](https://zh.wikipedia.org/wiki/缅甸 "wikilink")
 
@@ -150,27 +140,22 @@
 
 ### [加拿大](../Page/加拿大.md "wikilink")
 
-  - [加拿大安全情报局](https://zh.wikipedia.org/wiki/加拿大安全情報局 "wikilink") - *服务*
-    [加拿大安全局](https://zh.wikipedia.org/wiki/加拿大安全情報局 "wikilink") （CSIS /
-    SCRS）
+  - [加拿大安全情报局](https://zh.wikipedia.org/wiki/加拿大安全情報局 "wikilink") - *服务* [加拿大安全局](https://zh.wikipedia.org/wiki/加拿大安全情報局 "wikilink") （CSIS / SCRS）
   - 通信安全机构 （CSE）
   - 加拿大军队情报司令部 （DND）
-      - [加拿大军队国家反情报部队](http://www.forces.gc.ca/en/about-policies-standards-defence-admin-orders-directives-8000/8002-2.page)
-        （DND）由加拿大军队军事警察小组运作
+      - [加拿大军队国家反情报部队](http://www.forces.gc.ca/en/about-policies-standards-defence-admin-orders-directives-8000/8002-2.page) （DND）由加拿大军队军事警察小组运作
       - 联合特遣部队X.
   - 加拿大刑事情报局 （CISC）由（皇家骑警）领导
   - 加拿大金融交易和报告分析中心 （FINTRAC）
   - 加拿大全球事务部 （GAC）情报分析与安全局和经济情报局
-  - [加拿大皇家骑警](../Page/皇家加拿大騎警.md "wikilink") （RCMP） -
-    协助其他情报机构，但其安全局的前情报部门已转移到CSIS
+  - [加拿大皇家骑警](../Page/皇家加拿大騎警.md "wikilink") （RCMP） - 协助其他情报机构，但其安全局的前情报部门已转移到CSIS
   - [加拿大边境服务局](https://zh.wikipedia.org/wiki/加拿大边境服务局 "wikilink") （CBSA）
 
 ### [智利](../Page/智利.md "wikilink")
 
   - 内政部
       - 国家情报局 （ANI） - *Agencia Nacional de Inteligencia*
-      - Carabineros Intelligence Departament （DIPOLCAR） -
-        *DireccióndeInteligencia de Carabineros*
+      - Carabineros Intelligence Departament （DIPOLCAR） - *DireccióndeInteligencia de Carabineros*
       - 警察情报部门 - *Jefatura de Inteligencia Policial*
   - 国防部
       - 国防情报部门 （DID） - *DireccióndeInteligencia de la Defensa*
@@ -182,8 +167,7 @@
 
   - [国家安全部](../Page/中华人民共和国国家安全部.md "wikilink") （MSS）
   - [人民解放军](../Page/中国人民解放军.md "wikilink")
-      - [人民解放军战略支援部队](../Page/中国人民解放军战略支援部队.md "wikilink")
-        ，特别是第3部门（“3PLA”）。 \[4\] \[5\]
+      - [人民解放军战略支援部队](../Page/中国人民解放军战略支援部队.md "wikilink") ，特别是第3部门（“3PLA”）。 \[4\] \[5\]
 
 ### [哥伦比亚](../Page/哥伦比亚.md "wikilink")
 
@@ -219,12 +203,10 @@
 
   - 塞浦路斯情报局 （独联体）（ΚυπριακήΥπηρεσίαΠληροφοριών）（ΚΥΠ），（前中央情报局 - KYP）
 
-### [捷克共和国](../Page/捷克.md "wikilink")
+### [捷克](../Page/捷克.md "wikilink")共和国
 
-  - [安全信息服务](../Page/安全情报服务.md "wikilink")
-    （Bezpečnostníinformačníslužba，BIS）
-  - [对外关系和信息办公室](../Page/国外事务情报处.md "wikilink")
-    （Úřadprozahraničnístyky，一个信息，ÚZSI）
+  - [安全信息服务](../Page/安全情报服务.md "wikilink") （Bezpečnostníinformačníslužba，BIS）
+  - [对外关系和信息办公室](../Page/国外事务情报处.md "wikilink") （Úřadprozahraničnístyky，一个信息，ÚZSI）
   - [国防部](https://zh.wikipedia.org/wiki/捷克共和国国防部 "wikilink")
       - 军事情报 （Vojenskézpravodajství，VZ）
 
@@ -234,7 +216,7 @@
   - 丹麦国防情报局 （Forsvarets Efterretningstjeneste（FE））。
   - 陆军情报中心 （HærensEfterretningscenter（HEC））。
 
-### [多明尼加共和国](../Page/多明尼加.md "wikilink")
+### [多明尼加](../Page/多明尼加.md "wikilink")共和国
 
   - Deadamento Nacional de Investigaciones （DNI）（国家调查部）
 
@@ -266,20 +248,16 @@
       - 芬兰安全情报局 （Supo） - *Suojelupoliisi / Skyddspolisen*
       - 国家调查局 （NBI） - *Keskusrikospoliisi / Centralkriminalpolisen*
   - 国防部
-      - 芬兰国防情报局 - *Puolustusvoimien tiedustelulaitos（PVTIEDL）* /
-        *Försvarsmaktensunderrättelsetjänst*
-      - 情报部门（芬兰） - *Pääesikunnopenususteluosasto（PE
-        TIEDOS）/Huvudstabensunderrättelseavdelning）*
+      - 芬兰国防情报局 - *Puolustusvoimien tiedustelulaitos（PVTIEDL）* / *Försvarsmaktensunderrättelsetjänst*
+      - 情报部门（芬兰） - *Pääesikunnopenususteluosasto（PE TIEDOS）/Huvudstabensunderrättelseavdelning）*
 
 ### [法国](https://zh.wikipedia.org/wiki/法国 "wikilink")
 
   - [内政部](https://zh.wikipedia.org/wiki/法国内政部 "wikilink")
-      - [对内安全总局](../Page/对内安全总局.md "wikilink") （DGSI;
-        *方向兴业德拉安全公司intérieure）* -国内反恐和反间谍情报。
+      - [对内安全总局](../Page/对内安全总局.md "wikilink") （DGSI; *方向兴业德拉安全公司intérieure）* -国内反恐和反间谍情报。
       - 司法警察中央局 （DCPJ; *警察司法中心* ） - 有组织的犯罪情报。
   - [国防部](../Page/法國軍隊部.md "wikilink")
-      - [对外安全总局](../Page/对外安全总局.md "wikilink")（DGSE;向国家安全局提出*指导* ） -
-        与国家安全有关的外国情报。
+      - [对外安全总局](../Page/对外安全总局.md "wikilink")（DGSE;向国家安全局提出*指导* ） - 与国家安全有关的外国情报。
       - 保护和国防安全的局 （DPSD; *方向德拉保护等德拉安全公司德拉防御* ） -涉及国家安全的外国情报。
       - 军事情报局 （DRM; 军事情报 *指导* ） - 军事情报。
 
@@ -299,12 +277,9 @@
 #### [联邦](../Page/德国.md "wikilink")
 
   - [Bundeskanzleramt](../Page/德国总理府.md "wikilink") ： *联邦总理府*
-      - [Bundesnachrichtendienst](../Page/德國聯邦情報局.md "wikilink") （BND）：
-        *联邦情报局*
-  - [Bundesministerium des Innern](../Page/德国联邦内政、建设和家园部.md "wikilink")
-    （BMI）： *联邦内政部*
-      - [BundesamtfürVerfassungsschutz](../Page/联邦宪法保卫局.md "wikilink")
-        （BfV）： *联邦宪法保护办公室*
+      - [Bundesnachrichtendienst](../Page/德國聯邦情報局.md "wikilink") （BND）： *联邦情报局*
+  - [Bundesministerium des Innern](../Page/德国联邦内政、建设和家园部.md "wikilink") （BMI）： *联邦内政部*
+      - [BundesamtfürVerfassungsschutz](../Page/联邦宪法保卫局.md "wikilink") （BfV）： *联邦宪法保护办公室*
   - [联邦国防军](../Page/德國聯邦國防軍.md "wikilink") ： *联邦国防军*
       - MilitärischerAbschirmdienst （MAD）： *军事反情报局*
 
@@ -324,17 +299,15 @@
 ### [希腊](../Page/希腊.md "wikilink")
 
   - [公民保护部](../Page/希腊公共秩序与公民保护部.md "wikilink")
-      - [国家情报局](../Page/希腊国家情报局.md "wikilink") （ΕΥΠ） -
-        *ΕθνικήΥπηρεσίαΠληροφοριών*
+      - [国家情报局](../Page/希腊国家情报局.md "wikilink") （ΕΥΠ） - *ΕθνικήΥπηρεσίαΠληροφοριών*
   - 希腊国防总参谋部
       - E科 - 情报科
 
 ### [海地](../Page/海地.md "wikilink")
 
-  - [服务D'智能国家](https://zh.wikipedia.org/wiki/国家智力服务中心 "wikilink")
-    （SIN）（国家情报局）
+  - [服务D'智能国家](https://zh.wikipedia.org/wiki/国家智力服务中心 "wikilink") （SIN）（国家情报局）
 
-### [香港特区](../Page/香港.md "wikilink")
+### [香港](../Page/香港.md "wikilink")特区
 
   - [香港警务处刑事情报科](../Page/香港警務處.md "wikilink")（CIB）
   - 香港警务处及香港[海关联合金融情报组](../Page/香港海關.md "wikilink")（JFIU）
@@ -349,11 +322,8 @@
 
 ### [冰岛](../Page/冰岛.md "wikilink")
 
-  - GreiningardeildRíkislögreglustjóra
-    （GRLS）（国家安全局）（原名*EftirgrennslanadeildLögreglunnar*和*Útlendingaeftirlitið*
-    ）
-  - GreiningardeildVarnarmálastofnunarÍslands
-    （GVMSÍ）（军事情报局）（原名：冰岛情报局（IIS））
+  - GreiningardeildRíkislögreglustjóra （GRLS）（国家安全局）（原名*EftirgrennslanadeildLögreglunnar*和*Útlendingaeftirlitið* ）
+  - GreiningardeildVarnarmálastofnunarÍslands （GVMSÍ）（军事情报局）（原名：冰岛情报局（IIS））
   - SkattrannsóknarstjóriRíkisins （国家税务调查警察）
 
 ### [印度](../Page/印度.md "wikilink")
@@ -396,11 +366,7 @@
 
   - Badan Intelijen Negara （BIN）（国家情报局）
   - **[印度尼西亚国家武装部队](../Page/印度尼西亞國民軍.md "wikilink")**
-      - [Badan Intelijen
-        Strategis](https://zh.wikipedia.org/wiki/:id:Badan_Intelijen_Strategis "wikilink")
-        （
-        [BAIS](https://zh.wikipedia.org/wiki/:id:Badan_Intelijen_Strategis "wikilink")
-        ）（战略情报局）
+      - [Badan Intelijen Strategis](https://zh.wikipedia.org/wiki/:id:Badan_Intelijen_Strategis "wikilink") （ [BAIS](https://zh.wikipedia.org/wiki/:id:Badan_Intelijen_Strategis "wikilink") ）（战略情报局）
   - **信号情报**
       - [Lembaga Sandi Negara](http://www.lemsaneg.go.id/) （LEMSANEG）
   - **印尼国家警察**
@@ -433,8 +399,7 @@
   - 伊朗安全警察 （PAVA）
   - 伊朗警察情报保护组织 （SAHEFANAJA）
 
-**[国防部和武装部队后勤部](https://zh.wikipedia.org/wiki/伊朗国防和武装部队后勤部 "wikilink")**
-：
+**[国防部和武装部队后勤部](https://zh.wikipedia.org/wiki/伊朗国防和武装部队后勤部 "wikilink")** ：
 
   - 国防部情报保护组织 （SAHEFAVEDJA）
 
@@ -453,8 +418,7 @@
 
   - 军事情报局 （G2）
   - 通信和信息服务团 （CIS）SIGINT部分
-  - [陆军游骑兵联队](https://zh.wikipedia.org/wiki/愛爾蘭陸軍遊騎兵 "wikilink")
-    （ARW）情报科
+  - [陆军游骑兵联队](https://zh.wikipedia.org/wiki/愛爾蘭陸軍遊騎兵 "wikilink") （ARW）情报科
 
 **国内警察情报** （ *[GardaSíochána](../Page/愛爾蘭和平衛隊.md "wikilink")* ）
 
@@ -474,12 +438,9 @@
 
   - Agenzia Informazioni e Sicurezza Interna （AISI）：“内部信息和安全机构”（国内情报机构）。
   - Agenzia Informazioni e Sicurezza Esterna （AISE）：“外部信息和安全机构”（外国情报机构）。
-  - Dipratimento delle Informazioni per la Sicurezza
-    （DIS）：“安全信息部”（分类数据管理，AISI和AISE的人员培训）。
-  - Comitato Interministeriale per la Sicurezza della Repubblica
-    （CISR）：“共和国安全部际委员会”（联合情报监督委员会）。
-  - Centro Intelligence Interforze （CII）：“Interforce
-    Intelligence中心”（军事情报）。
+  - Dipratimento delle Informazioni per la Sicurezza （DIS）：“安全信息部”（分类数据管理，AISI和AISE的人员培训）。
+  - Comitato Interministeriale per la Sicurezza della Repubblica （CISR）：“共和国安全部际委员会”（联合情报监督委员会）。
+  - Centro Intelligence Interforze （CII）：“Interforce Intelligence中心”（军事情报）。
 
 ### [牙买加](../Page/牙买加.md "wikilink")
 
@@ -514,15 +475,11 @@
 
 ### [约旦](../Page/约旦.md "wikilink")
 
-  - Da'irat al-Mukhabarat al-'Ammah （GID）（
-    [综合情报部门](https://web.archive.org/web/20080307171605/http://www.gid.gov.jo/en/home.html)
-    ）
+  - Da'irat al-Mukhabarat al-'Ammah （GID）（ [综合情报部门](https://web.archive.org/web/20080307171605/http://www.gid.gov.jo/en/home.html) ）
 
 ### [哈萨克斯坦](../Page/哈萨克斯坦.md "wikilink")
 
-  - Komitet Natsional'noi Bezopasnosti -
-    KNB（КомитетНациональнойБезопасности -
-    КНБРК）（Ultyq Qaupzizdyq Kamitetti）（ 国家安全办公室 ，涵盖反恐，禁毒，反间谍）
+  - Komitet Natsional'noi Bezopasnosti - KNB（КомитетНациональнойБезопасности - КНБРК）（Ultyq Qaupzizdyq Kamitetti）（ 国家安全办公室 ，涵盖反恐，禁毒，反间谍）
   - Syrbar - Syrtqy Barlau Qizmetti （综合情报局）
   - Sluzhba Ohrany Prezidenta SOP （总统安保服务）
 
@@ -577,25 +534,14 @@
 
 ### [立陶宛](https://zh.wikipedia.org/wiki/立陶宛 "wikilink")
 
-  - Valstybes Saugumo Departamentas （
-    [VSD](https://web.archive.org/web/20120830035736/http://www.vsd.lt/DefaultEN.aspx)
-    ）（国家安全部）
-  - Antrasisoperttyviniųtarnybųdunamentas（AOTD）prieKraštoapsaugosministerijos
-    （
-    [AOTD](http://www.kam.lt/en/structure_and_contacts/kontaktai_eng/11.html)
-    ）（国防部下属第二调查部门）
+  - Valstybes Saugumo Departamentas （ [VSD](https://web.archive.org/web/20120830035736/http://www.vsd.lt/DefaultEN.aspx) ）（国家安全部）
+  - Antrasisoperttyviniųtarnybųdunamentas（AOTD）prieKraštoapsaugosministerijos （ [AOTD](http://www.kam.lt/en/structure_and_contacts/kontaktai_eng/11.html) ）（国防部下属第二调查部门）
 
 ### [卢森堡](../Page/卢森堡.md "wikilink")
 
-  - Luxembourgeois de l'ÉtatLuxembourgeois
-    /LëtzebuergerStaatlëchenNoriichtendéngscht服务（SREL， *卢森堡国家情报局*
-    ，即国土情报局）
-  - Haut Commissariat
-    delaSécuritéExtérieure/HéichkommissariatfirususwäertegSëcherheet（HCSE，
-    *外部安全高级委员会* ，即外国情报局）
-  - Service de Renseignement de
-    l'ArméeLuxembourgeoise/NoriichtendéngschtvunderLëtzebuergerArméi（SRAL，
-    *卢森堡陆军情报局* ，即军事情报局）
+  - Luxembourgeois de l'ÉtatLuxembourgeois /LëtzebuergerStaatlëchenNoriichtendéngscht服务（SREL， *卢森堡国家情报局* ，即国土情报局）
+  - Haut Commissariat delaSécuritéExtérieure/HéichkommissariatfirususwäertegSëcherheet（HCSE， *外部安全高级委员会* ，即外国情报局）
+  - Service de Renseignement de l'ArméeLuxembourgeoise/NoriichtendéngschtvunderLëtzebuergerArméi（SRAL， *卢森堡陆军情报局* ，即军事情报局）
 
 ### [澳门特区](../Page/澳門.md "wikilink")
 
@@ -612,8 +558,7 @@
 
   - 马来西亚特别部门 ， 特别部门 \[6\]
   - 国防工作人员情报司 \[7\]
-  - 皇家情报部队（Kor Risik DiRaja） ， [军事情报部门](../Page/軍事情報.md "wikilink") ，
-    [马来西亚武装部队](../Page/马来西亚武装部队.md "wikilink")
+  - 皇家情报部队（Kor Risik DiRaja） ， [军事情报部门](../Page/軍事情報.md "wikilink") ， [马来西亚武装部队](../Page/马来西亚武装部队.md "wikilink")
   - 总理府研究部 （马来西亚外部情报组织） \[8\]
   - 首席政府安全办公室 （CGSO）
 
@@ -627,22 +572,17 @@
   - 墨西哥联邦政府
       - 民间机构
           - 墨西哥司法部长（PGR）
-              - 司法部长的犯罪 - 战斗规划，分析和信息中心 （CENAPI / PGR -
-                CentrodePlaneación，AnálisiseInformaciónparael a la
-                delincuencia）
+              - 司法部长的犯罪 - 战斗规划，分析和信息中心 （CENAPI / PGR - CentrodePlaneación，AnálisiseInformaciónparael a la delincuencia）
               - 司法部有组织犯罪特别调查办公室 （SEIDO / PGR）
           - 内政部（SEGOB）
               - 国家安全委员会（CNS）
                   - 联邦警察
-                      - 联邦警察情报部门 （Intenggencia部门 - CNS / Policia
-                        Federal）
+                      - 联邦警察情报部门 （Intenggencia部门 - CNS / Policia Federal）
               - 国家安全和调查中心 （CISEN）
       - 军事机构
           - SEDENA
-              - 国防情报人员第二部 （SEDENA S-2 - Seccion 2da：Inteligencia del
-                Estado市长）
-              - 军事情报 - 国防部 （Inteligencia Militar - SEDENA / Ejercito y
-                Fuerza Aerea）
+              - 国防情报人员第二部 （SEDENA S-2 - Seccion 2da：Inteligencia del Estado市长）
+              - 军事情报 - 国防部 （Inteligencia Militar - SEDENA / Ejercito y Fuerza Aerea）
           - SEMAR
               - 海军情报 - 海军部 （Inteligencia Naval - SEMAR / Marina Armada）
 
@@ -675,13 +615,10 @@
 
   - Algemene Inlichtingen- en Veiligheidsdienst （AIVD）（综合情报和安全局）
   - Militaire Inlichtingen- en Veiligheidsdienst （MIVD）（军事情报和安全局）
-  - Fiscale Inlichtingen- en Opsporingsdienst-Economische Controledienst
-    （FIOD-ECD）（财政情报和调查服务 - 财务控制服务）
+  - Fiscale Inlichtingen- en Opsporingsdienst-Economische Controledienst （FIOD-ECD）（财政情报和调查服务 - 财务控制服务）
   - 联合Sigint网络单元 （JSCU）
-  - 团队刑事情报（TCI）
-    国家警察和[皇家Marechaussee刑事情报单位](../Page/荷蘭皇家憲兵隊.md "wikilink")
-  - NationaleCoördinatorTerrorismebestrijdingen Veiligheid
-    （NCTV）（国家反恐与安全协调员），用于分析威胁和协调反恐措施
+  - 团队刑事情报（TCI） 国家警察和[皇家Marechaussee刑事情报单位](../Page/荷蘭皇家憲兵隊.md "wikilink")
+  - NationaleCoördinatorTerrorismebestrijdingen Veiligheid （NCTV）（国家反恐与安全协调员），用于分析威胁和协调反恐措施
 
 ### [新西兰](../Page/新西兰.md "wikilink")
 
@@ -710,14 +647,12 @@
 
   - 安全和反间谍管理局 （ *Uprava za bezbednost i kontrarazuznavanje* ）（警察厅）
   - 情报局 （ *Agencija za Razuznavanje* ）（民事机构） [IA](http://www.ia.gov.mk/)
-  - 安全和情报部门 （ *Voenalovžbazarazuznuvanje i bezbednost* ）（军事机构）
-    [1](https://web.archive.org/web/20120209043429/http://www.morm.gov.mk/portal/?page_id=4779&lang=mk)
+  - 安全和情报部门 （ *Voenalovžbazarazuznuvanje i bezbednost* ）（军事机构） [1](https://web.archive.org/web/20120209043429/http://www.morm.gov.mk/portal/?page_id=4779&lang=mk)
 
 ### [挪威](../Page/挪威.md "wikilink")
 
   - Nasjonal sikkerhetsmyndighet （NSM）（国家安全局）
-  - [Politiets sikkerhetstjeneste](../Page/挪威警察保安局.md "wikilink")
-    （PST）（警察安全局）
+  - [Politiets sikkerhetstjeneste](../Page/挪威警察保安局.md "wikilink") （PST）（警察安全局）
   - Etterretningstjenesten （NIS）（挪威情报局）
   - Forsvarets sikkerhetstjeneste （FOST） - 挪威国防安全局（NORDSS）
 
@@ -746,29 +681,22 @@
       - 国家问责局（NAB）
       - 巴基斯坦证券交易委员会（SECP）
 
-### [巴勒斯坦国](../Page/巴勒斯坦.md "wikilink")
+### [巴勒斯坦](../Page/巴勒斯坦.md "wikilink")国
 
   - [巴勒斯坦总统府](https://zh.wikipedia.org/wiki/巴勒斯坦总统 "wikilink")
-      - 一般情报\[“al-Mukhabarat al-'Amah” -
-        “المخابراتالعامة”\]（负责收集巴勒斯坦外交使团的信息和安全）
+      - 一般情报\[“al-Mukhabarat al-'Amah” - “المخابراتالعامة”\]（负责收集巴勒斯坦外交使团的信息和安全）
   - 巴勒斯坦内政部 - 内部安全部队（ISF）
-      - 巴勒斯坦预防性安全 \[“Al-'am al-wiqa'i” -
-        “الأمنالوقائي”\]（内部情报组织，其任务是保护[巴勒斯坦国的内部安全](../Page/巴勒斯坦.md "wikilink")）
+      - 巴勒斯坦预防性安全 \[“Al-'am al-wiqa'i” - “الأمنالوقائي”\]（内部情报组织，其任务是保护[巴勒斯坦](../Page/巴勒斯坦.md "wikilink")国的内部安全）
   - 巴勒斯坦内政部 - 国家安全部队 （NSF）
-      - 军事情报\[“al-Astakhabarat al-'Askariyah” -
-        “الاستخباراتالعسكرية”\]（负责收集外部军事情报）
-          - 军警\[“al-Shurta al-'Askariyah” -
-            “الشرطةالعسكرية”\]（负责监督国家安全人员和执法。
-            它由军事情报部门监督。
+      - 军事情报\[“al-Astakhabarat al-'Askariyah” - “الاستخباراتالعسكرية”\]（负责收集外部军事情报）
+          - 军警\[“al-Shurta al-'Askariyah” - “الشرطةالعسكرية”\]（负责监督国家安全人员和执法。 它由军事情报部门监督。
 
 ### [巴拿马](../Page/巴拿马.md "wikilink")
 
   - Consejo deSeguridadPúblicayDefensa Nacional （CSPDN）（安全，国防和情报主要政府实体）
-  - 国家警察情报局 （DNIP） - 国家警察情报局 （DireciónNacionalde **Inteligencia
-    Policial）**
+  - 国家警察情报局 （DNIP） - 国家警察情报局 （DireciónNacionalde **Inteligencia Policial）**
   - Direccion de Investigacion Judicial （DIJ）
-  - Direccion General de Analisis e Inteligencia Estrategica （DGAIE）
-    \[14\]
+  - Direccion General de Analisis e Inteligencia Estrategica （DGAIE） \[14\]
   - Servicio Nacional de Inteligencia y Seguridad （SENIS） \[15\]
 
 ### [巴布亚新几内亚](../Page/巴布亚新几内亚.md "wikilink")
@@ -795,14 +723,11 @@
   - AgencjaBezpieczeństwaWewnętrznego （ABW）（内部安全局）
   - SłużbaWywiaduWojskowego （SWW）（军事情报局）
   - SłużbaKontrwywiaduWojskowego （SKW）（军事反情报局）
-  - [Centralne Biuro
-    Antykorupcyjne](https://zh.wikipedia.org/wiki/中央廉政局 "wikilink")
-    （CBA）（中央反腐[败局](https://zh.wikipedia.org/wiki/中央廉政局 "wikilink") ）
+  - [Centralne Biuro Antykorupcyjne](https://zh.wikipedia.org/wiki/中央廉政局 "wikilink") （CBA）（中央反腐[败局](https://zh.wikipedia.org/wiki/中央廉政局 "wikilink") ）
 
 ### [葡萄牙](../Page/葡萄牙.md "wikilink")
 
-  - [SistemadeInformaçõesdaRepúblicaPortuguesa](../Page/葡萄牙共和國情報系統.md "wikilink")
-    （SIRP）（葡萄牙共和国情报系统）
+  - [SistemadeInformaçõesdaRepúblicaPortuguesa](../Page/葡萄牙共和國情報系統.md "wikilink") （SIRP）（葡萄牙共和国情报系统）
       - ServiçodeInformaçõesdeSegurança （SIS）（安全情报局）
       - ServiçodeInformaçõesEstratégicasdeDefesa （SIED）（国防战略情报局）
   - 炫酷德InformaçõesËSegurançaMilitares （CISMIL）（军事情报和安全局）
@@ -829,26 +754,20 @@ ServiciuldeProtecţieşiPază，缩写为SPP
 （DGIA） - *DirecţiaGeneralădeInformaţiiaApărării*
 
   - [内政和行政改革部](https://zh.wikipedia.org/wiki/罗马尼亚内政部 "wikilink")
-      - 信息和内部保护总局 （DGIPI） -
-        *DirecţiaGeneralădeInformaţiişiProtecţieInternă* ，俗名 -
-        Doişi-un sfert
+      - 信息和内部保护总局 （DGIPI） - *DirecţiaGeneralădeInformaţiişiProtecţieInternă* ，俗名 - Doişi-un sfert
 
-### [俄罗斯联邦](../Page/俄罗斯.md "wikilink")
+### [俄罗斯](../Page/俄罗斯.md "wikilink")联邦
 
-  - [联邦安全局](../Page/聯邦安全局.md "wikilink") （FSB） -
-    *Федеральнаяслужбабезопасности*
+  - [联邦安全局](../Page/聯邦安全局.md "wikilink") （FSB） - *Федеральнаяслужбабезопасности*
   - [外国情报局](../Page/對外情報局.md "wikilink") （SVR） - *СлужбаВнешнейРазведки*
-  - [主要情报局](../Page/格鲁乌.md "wikilink") （GRU） -
-    *ГлавноеРазведывательноеУправление*
-  - [联邦保护局](../Page/联邦警卫局.md "wikilink") （FSO） -
-    *Федеральнаяслужбаохраны*
+  - [主要情报局](../Page/格鲁乌.md "wikilink") （GRU） - *ГлавноеРазведывательноеУправление*
+  - [联邦保护局](../Page/联邦警卫局.md "wikilink") （FSO） - *Федеральнаяслужбаохраны*
       - 俄罗斯特殊通信服务处 - *Службаспециальнойсвязииинформации*
 
 ### [沙特阿拉伯](../Page/沙特阿拉伯.md "wikilink")
 
   - 政治和安全事务委员会 （CPSA） - مجلسالشؤونالسياسيةوالأمنية
-  - [综合情报总统](../Page/沙特情报总局.md "wikilink") （GIP） -
-    رئاسةالاستخباراتالعامة
+  - [综合情报总统](../Page/沙特情报总局.md "wikilink") （GIP） - رئاسةالاستخباراتالعامة
   - 国家安全总统 （PSS） - رئاسةأمنالدولة
       - [Mabahith](../Page/沙特调查总局.md "wikilink") （GDI） - المباحثالعامة
   - 沙特阿拉伯国防部 （MOD） - وزارةالدفاع
@@ -867,15 +786,13 @@ ServiciuldeProtecţieşiPază，缩写为SPP
   - 沙特皇家卫队 （SRG） - رئاسةالحرسالملكي
       - 沙特皇家卫队情报委员会 - هيئةاستخباراتالحرسالملكيالسعودي
   - 国家网络安全委员会\[16\] （NCSC） - الهيئةالوطنيةللأمنالسيبراني
-  - [沙特阿拉伯金融管理局](../Page/沙烏地阿拉伯貨幣局.md "wikilink") （SAMA） -
-    مؤسسةالنقدالعربيالسعودي
+  - [沙特阿拉伯金融管理局](../Page/沙烏地阿拉伯貨幣局.md "wikilink") （SAMA） - مؤسسةالنقدالعربيالسعودي
       - 反洗钱委员会（AMLC） - اللجنةالدائمةلمكافحةغسلالاموال
 
 ### [塞尔维亚](../Page/塞尔维亚.md "wikilink")
 
   - 国民
-      - 国家安全委员会和分类信息保护办公室 -
-        *КанцеларијаСаветазанационалнубезбедностизаштитутајнихподатака*
+      - 国家安全委员会和分类信息保护办公室 - *КанцеларијаСаветазанационалнубезбедностизаштитутајнихподатака*
 
 <!-- end list -->
 
@@ -902,11 +819,8 @@ ServiciuldeProtecţieşiPază，缩写为SPP
 ### [斯洛文尼亚](../Page/斯洛文尼亚.md "wikilink")
 
   - SlovenskaObveščevalno-Varnostna Agencija （SOVA）（斯洛文尼亚情报和安全局）
-  - ObveščevalnoVarnostnaSlužba （OVS）（
-    \[[http://www.mo.gov.si/en/about_the_ministry/organization/intelligence_and_security_service/\]斯洛文尼亚国防部情报和安全局](http://www.mo.gov.si/en/about_the_ministry/organization/intelligence_and_security_service/%5D斯洛文尼亚国防部情报和安全局)）
-  - 将军štabSV - Sektorzaobveščevalnezadeve - J2 （GŠSV-J2）（
-    [2](http://www.slovenskavojska.si/en/structure/general-staff/)
-    （总参谋部SAF - 情报事务科 - J2）
+  - ObveščevalnoVarnostnaSlužba （OVS）（ \[[http://www.mo.gov.si/en/about_the_ministry/organization/intelligence_and_security_service/\]斯洛文尼亚国防部情报和安全局](http://www.mo.gov.si/en/about_the_ministry/organization/intelligence_and_security_service/%5D斯洛文尼亚国防部情报和安全局)）
+  - 将军štabSV - Sektorzaobveščevalnezadeve - J2 （GŠSV-J2）（ [2](http://www.slovenskavojska.si/en/structure/general-staff/) （总参谋部SAF - 情报事务科 - J2）
   - Nacionalni Preiskovalni urad （NPU）
 
 ### [索马里](../Page/索马里.md "wikilink")
@@ -975,9 +889,7 @@ ServiciuldeProtecţieşiPază，缩写为SPP
 ### [瑞士](https://zh.wikipedia.org/wiki/瑞士 "wikilink")
 
   - 联邦国防部，民防和体育部
-      - Nachrichtendienst des Bundes （NDB）联邦情报局，截至2010年1月1日，由战略情报服务
-        （SND）合并 - *Strategischer Nachrichtendienst*和分析与预防服务 （DAP） -
-        *DienstfürAnalyzeundPrävention*
+      - Nachrichtendienst des Bundes （NDB）联邦情报局，截至2010年1月1日，由战略情报服务 （SND）合并 - *Strategischer Nachrichtendienst*和分析与预防服务 （DAP） - *DienstfürAnalyzeundPrävention*
   - [瑞士武装部队](../Page/瑞士軍事.md "wikilink")
       - 军事情报局 （MND） - *MilitärischerNachrichtendienst*
   - [联邦司法和警察局](../Page/瑞士聯邦司法警察部.md "wikilink")
@@ -995,19 +907,15 @@ ServiciuldeProtecţieşiPază，缩写为SPP
   - 一般战略
       - [国家安全局](../Page/中華民國國家安全局.md "wikilink") ，国家安全委员会
   - 国内
-      - 司法部[调查局](../Page/法務部調查局.md "wikilink") （
-        [MJIB](../Page/法務部調查局.md "wikilink") ）
+      - 司法部[调查局](../Page/法務部調查局.md "wikilink") （ [MJIB](../Page/法務部調查局.md "wikilink") ）
       - [国家警察厅](../Page/內政部警政署.md "wikilink") ，内政部
   - 半军事化
       - [海岸警卫队管理](https://zh.wikipedia.org/wiki/海洋委員會海巡署 "wikilink")
   - 军事
       - 所有服务单位
-          - [国防部](https://zh.wikipedia.org/wiki/中華民國國防部 "wikilink")
-            [军警司令部](../Page/中華民國憲兵.md "wikilink")
-          - 军事情报局，总参谋部，
-            [国防部](https://zh.wikipedia.org/wiki/中華民國國防部 "wikilink")
-          - 军事安全总队，总参谋部，
-            [国防部](https://zh.wikipedia.org/wiki/中華民國國防部 "wikilink")
+          - [国防部](https://zh.wikipedia.org/wiki/中華民國國防部 "wikilink") [军警司令部](../Page/中華民國憲兵.md "wikilink")
+          - 军事情报局，总参谋部， [国防部](https://zh.wikipedia.org/wiki/中華民國國防部 "wikilink")
+          - 军事安全总队，总参谋部， [国防部](https://zh.wikipedia.org/wiki/中華民國國防部 "wikilink")
           - [国防部政治局总局](https://zh.wikipedia.org/wiki/中華民國國防部 "wikilink")
       - 单个分支单位
           - 陆军司令部情报部（S2）
@@ -1016,8 +924,7 @@ ServiciuldeProtecţieşiPază，缩写为SPP
 
 ### [塔吉克斯坦](../Page/塔吉克斯坦.md "wikilink")
 
-  - Кумитаидавлатииамниятимилли（КДАМ），俄语：Государственныйкомитетнациональнойбезопасности（ГКНБ），英语：
-    国家安全委员会 （SCNS）
+  - Кумитаидавлатииамниятимилли（КДАМ），俄语：Государственныйкомитетнациональнойбезопасности（ГКНБ），英语： 国家安全委员会 （SCNS）
 
 ### [坦桑尼亚](../Page/坦桑尼亚.md "wikilink")
 
@@ -1026,8 +933,7 @@ ServiciuldeProtecţieşiPază，缩写为SPP
 ### [泰国](../Page/泰国.md "wikilink")
 
   - 国家情报局 （NIA）隶属总理办公室
-  - [特别调查局](https://zh.wikipedia.org/wiki/特别调查局_\(泰国\) "wikilink") （DSI）
-    司法部
+  - [特别调查局](https://zh.wikipedia.org/wiki/特别调查局_\(泰国\) "wikilink") （DSI） 司法部
   - 总理办公室下的内部安全行动司令部 （ISOC）
   - [犯罪抑制司](../Page/泰国皇家警察.md "wikilink") （CSD） \[17\]和泰国皇家警察特别处
 
@@ -1035,8 +941,7 @@ ServiciuldeProtecţieşiPază，缩写为SPP
 
   - [国家安全委员会](../Page/土耳其國家安全委員會.md "wikilink") （MGK）（伞式组织）
       - 土耳其共和国总理府副秘书处
-          - [国家情报组织](https://zh.wikipedia.org/wiki/土耳其國家情報局 "wikilink")
-            （MİT）（半依赖（主要），外国情报，反间谍和特殊行动）
+          - [国家情报组织](https://zh.wikipedia.org/wiki/土耳其國家情報局 "wikilink") （MİT）（半依赖（主要），外国情报，反间谍和特殊行动）
               - 战略分析理事会
               - 反情报局
               - 外部业务局
@@ -1049,8 +954,7 @@ ServiciuldeProtecţieşiPază，缩写为SPP
           - 海军情报局（半依赖，军事情报）
           - 空军情报局（半依赖，军事情报）
           - 海岸警卫队情报局（半依赖，军事情报）
-          - [宪兵情报局和反恐怖主义局](https://zh.wikipedia.org/wiki/土耳其情報與反恐憲兵隊 "wikilink")
-            （非官方，作为JİTEM）（半依赖，军事执法）（2005年至今，正式称为JİT（宪兵情报组织））
+          - [宪兵情报局和反恐怖主义局](https://zh.wikipedia.org/wiki/土耳其情報與反恐憲兵隊 "wikilink") （非官方，作为JİTEM）（半依赖，军事执法）（2005年至今，正式称为JİT（宪兵情报组织））
       - 警察情报局（半依赖，执法）
       - 其他部委办公室
           - 财政部，金融犯罪调查股（MASAK）（半依赖，财务监督）
@@ -1068,8 +972,7 @@ ServiciuldeProtecţieşiPază，缩写为SPP
   - 国家调查局 （NBI）
   - 国家财务监督服务  （金融情报室）
   - 外部秘密机构 （ESC）
-  - [乌克兰安全局](../Page/烏克蘭國家安全局.md "wikilink")  Sluzhba Bezpeky
-    Ukrayiny（SBU）
+  - [乌克兰安全局](../Page/烏克蘭國家安全局.md "wikilink")  Sluzhba Bezpeky Ukrayiny（SBU）
 
 ### [阿拉伯联合酋长国](../Page/阿拉伯联合酋长国.md "wikilink")
 
@@ -1129,18 +1032,11 @@ MISS（原DMI - 国防军事情报局）现在是军事情报安全局
 
 ### [乌拉圭](../Page/乌拉圭.md "wikilink")
 
-  - Servicio de Inteligencia y Contraespionaje del Estado -
-    国家情报和反间谍服务\[27\] <sup>\[
-    *[<span title="per WP:CIRCULAR (December 2017)">更好 资源 需要</span>](https://zh.wikipedia.org/wiki/Wikipedia:可供查證 "wikilink")*
-    \]\[
-    *[<span title="per WP:CIRCULAR (December 2017)">更好 资源 需要</span>](https://zh.wikipedia.org/wiki/Wikipedia:可供查證 "wikilink")*
-    \]</sup>
+  - Servicio de Inteligencia y Contraespionaje del Estado - 国家情报和反间谍服务\[27\] <sup>\[ *[<span title="per WP:CIRCULAR (December 2017)">更好 资源 需要</span>](https://zh.wikipedia.org/wiki/Wikipedia:可供查證 "wikilink")* \]\[ *[<span title="per WP:CIRCULAR (December 2017)">更好 资源 需要</span>](https://zh.wikipedia.org/wiki/Wikipedia:可供查證 "wikilink")* \]</sup>
 
 ### [乌兹别克斯坦](../Page/乌兹别克斯坦.md "wikilink")
 
-  - Davlat Xavfsizlik
-    Xizmati，Службагосударственнойбезопасности（СГБ）（国家安全局
-    ）
+  - Davlat Xavfsizlik Xizmati，Службагосударственнойбезопасности（СГБ）（国家安全局 ）
 
 ### [委内瑞拉](../Page/委內瑞拉.md "wikilink")
 
@@ -1151,8 +1047,7 @@ MISS（原DMI - 国防军事情报局）现在是军事情报安全局
 ### [越南](https://zh.wikipedia.org/wiki/越南 "wikilink")
 
   - [国防部（越南）](../Page/越南国防部.md "wikilink")
-      - [TổngcụcTìnhbáoQuânđội](../Page/越南国防部国防情报总局.md "wikilink")
-        （Tổngcục2，或TC2）（军事情报总局或第二总局）
+      - [TổngcụcTìnhbáoQuânđội](../Page/越南国防部国防情报总局.md "wikilink") （Tổngcục2，或TC2）（军事情报总局或第二总局）
   - [公安部（越南）](../Page/越南公安部.md "wikilink")
       - TổngcụcAnninh（TổngcụcI）（安全总局或第一总署）
       - TổngcụcTìnhbáoCôngan（TổngcụcV，或TC V）（公安部情报总局或第五总务部）
@@ -1180,13 +1075,10 @@ MISS（原DMI - 国防军事情报局）现在是军事情报安全局
 
 ## 外部链接
 
-  - [世界情报和安全机构](https://fas.org/irp/world/index.html) ，
-    [FAS](../Page/美國科學家聯盟.md "wikilink")
+  - [世界情报和安全机构](https://fas.org/irp/world/index.html) ， [FAS](../Page/美國科學家聯盟.md "wikilink")
   - [地图：安全服务，欧洲和世界](https://maps.google.com/maps/ms?msid=213453800155104174853.00049f647b96d3cdcba19&msa=0&ll=24.527135,12.304688&spn=143.185831,10.898438)
 
-[Category:各國情報機構](https://zh.wikipedia.org/wiki/Category:各國情報機構 "wikilink")
-[Category:情報機構](https://zh.wikipedia.org/wiki/Category:情報機構 "wikilink")
-[Category:各国相关列表](https://zh.wikipedia.org/wiki/Category:各国相关列表 "wikilink")
+[Category:各國情報機構](https://zh.wikipedia.org/wiki/Category:各國情報機構 "wikilink") [Category:情報機構](https://zh.wikipedia.org/wiki/Category:情報機構 "wikilink") [Category:各国相关列表](https://zh.wikipedia.org/wiki/Category:各国相关列表 "wikilink")
 
 1.
 
@@ -1212,16 +1104,13 @@ MISS（原DMI - 国防军事情报局）现在是军事情报安全局
 
 13.
 
-14. RicardoA.LópezPolo， [INTELIGENCIA
-    ESTRATEGICA](https://fas.org/irp/world/panama/lopez.pdf)
+14. RicardoA.LópezPolo， [INTELIGENCIA ESTRATEGICA](https://fas.org/irp/world/panama/lopez.pdf)
 
 15. [REPÚBLICADANPANAMÁÓRGANOGEECUUTIVO](https://web.archive.org/web/20090319215423/http://www.presidencia.gob.pa/decretosleyesseguridad/Decreto%20Ley%20que%20reorganiza%20el%20Consejo%20de%20Seguridad%20%20P%C3%BAblica%20y%20el%20Servicio%20Nal.%20de%20Inteligencia.pdf)
 
 16. <http://www.arabnews.com/node/1186926/saudi-arabia>
 
-17.  Bangkok Post: Learning English channel - เรียนภาษาอังกฤษจากคำศัพท์
-    "กองบังคับการปราบปราม"|url=[http://www.bangkokpost.com/learning/meaning/Crime+Suppression+Division+(CSD)|work=Bangkok](http://www.bangkokpost.com/learning/meaning/Crime+Suppression+Division+\(CSD\)%7Cwork=Bangkok)
-    Post}}
+17.  Bangkok Post: Learning English channel - เรียนภาษาอังกฤษจากคำศัพท์ "กองบังคับการปราบปราม"|url=[http://www.bangkokpost.com/learning/meaning/Crime+Suppression+Division+(CSD)|work=Bangkok](http://www.bangkokpost.com/learning/meaning/Crime+Suppression+Division+\(CSD\)%7Cwork=Bangkok) Post}}
 
 18.
 

@@ -1,8 +1,6 @@
 \-- This module implements .
 
-local mHatnote = require('Module:Hatnote') local yesno =
-require('Module:Yesno') local mTableTools -- lazily initialise local
-mArguments -- lazily initialise
+local mHatnote = require('Module:Hatnote') local yesno = require('Module:Yesno') local mTableTools -- lazily initialise local mArguments -- lazily initialise
 
 local p = {}
 

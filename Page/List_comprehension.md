@@ -1,5 +1,4 @@
-**list comprehension**是程序设计语言的一类语法结构，用于基于描述创建一个列表（list）数据结构。相当于数学上的
-*[集合建構式符號](../Page/集合建構式符號.md "wikilink")*。但不同于与函数。
+**list comprehension**是程序设计语言的一类语法结构，用于基于描述创建一个列表（list）数据结构。相当于数学上的 *[集合建構式符號](../Page/集合建構式符號.md "wikilink")*。但不同于与函数。
 
 list comprehension没有统一的中文译法。有译作列表生成、列表构建、列表理解等。
 
@@ -60,11 +59,7 @@ Python语言的语法示例：
 
 ### C++
 
-C
-++没有直接支持列表推导的任何语言特性，但[运算符重载](../Page/运算符重载.md "wikilink")（例如，重载|，\>\>，\>\>
-=）已成功用于为“嵌入式”查询[领域特定语言提供表达式语法](https://zh.wikipedia.org/wiki/领域特定语言 "wikilink")。
-或者，可以使用[erase-remove
-idiom来构造列表推导以选择容器中的元素](https://zh.wikipedia.org/wiki/erase-remove_idiom "wikilink")，并使用STL算法for_each来转换它们。
+C ++没有直接支持列表推导的任何语言特性，但[运算符重载](../Page/运算符重载.md "wikilink")（例如，重载|，\>\>，\>\> =）已成功用于为“嵌入式”查询[领域特定语言提供表达式语法](https://zh.wikipedia.org/wiki/领域特定语言 "wikilink")。 或者，可以使用[erase-remove idiom来构造列表推导以选择容器中的元素](https://zh.wikipedia.org/wiki/erase-remove_idiom "wikilink")，并使用STL算法for_each来转换它们。
 
 ``` cpp
 #include <algorithm>
@@ -105,12 +100,8 @@ int main()
 
 ## 外部链接
 
-  - SQL-like set operations with list comprehension one-liners in the
-    [Python
-    Cookbook](http://aspn.activestate.com/ASPN/Cookbook/Python/Recipe/159974)
-  - [Discussion on list comprehensions in Scheme and related
-    constructs](http://lambda-the-ultimate.org/classic/message11326.html)
-  - [List Comprehensions across
-    languages](http://langexplr.blogspot.com/2007/02/list-comprehensions-across-languages_18.html)
+  - SQL-like set operations with list comprehension one-liners in the [Python Cookbook](http://aspn.activestate.com/ASPN/Cookbook/Python/Recipe/159974)
+  - [Discussion on list comprehensions in Scheme and related constructs](http://lambda-the-ultimate.org/classic/message11326.html)
+  - [List Comprehensions across languages](http://langexplr.blogspot.com/2007/02/list-comprehensions-across-languages_18.html)
 
 [Category:程序结构](https://zh.wikipedia.org/wiki/Category:程序结构 "wikilink")

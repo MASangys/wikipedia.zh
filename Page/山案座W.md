@@ -1,5 +1,4 @@
-'''山案座W '''（W
-Men）是在南天[山案座](../Page/山案座.md "wikilink")[大麥哲倫星系內一顆不尋常的](https://zh.wikipedia.org/wiki/大麥哲倫星系 "wikilink")[黃超巨星](https://zh.wikipedia.org/wiki/黃超巨星 "wikilink")。它是一顆[北冕座R型變星](../Page/北冕座R型變星.md "wikilink")，光度會週期性的降低好幾個星等。
+'''山案座W '''（W Men）是在南天[山案座](../Page/山案座.md "wikilink")[大麥哲倫星系內一顆不尋常的](https://zh.wikipedia.org/wiki/大麥哲倫星系 "wikilink")[黃超巨星](https://zh.wikipedia.org/wiki/黃超巨星 "wikilink")。它是一顆[北冕座R型變星](../Page/北冕座R型變星.md "wikilink")，光度會週期性的降低好幾個星等。
 
 山案座W位於鄰近的[大麥哲倫星系南邊缺乏金屬的邊緣地區](https://zh.wikipedia.org/wiki/大麥哲倫星系 "wikilink")，距離地球很遠\[1\]。儘管它有很高的[亮度](https://zh.wikipedia.org/wiki/亮度 "wikilink")，但它最亮時的[視星等只有](https://zh.wikipedia.org/wiki/視星等 "wikilink")+13.8<sup>m</sup>\[2\]，對小[望遠鏡來說是太黯淡了](https://zh.wikipedia.org/wiki/望遠鏡 "wikilink")。依據計算得知它的半徑是太陽的61倍\[3\]。
 
@@ -7,14 +6,7 @@ Men）是在南天[山案座](../Page/山案座.md "wikilink")[大麥哲倫星�
 
 ## 參考資料
 
-[Category:大麥哲倫星系的恆星](https://zh.wikipedia.org/wiki/Category:大麥哲倫星系的恆星 "wikilink")
-[Category:大麥哲倫星系](https://zh.wikipedia.org/wiki/Category:大麥哲倫星系 "wikilink")
-[Category:山案座](https://zh.wikipedia.org/wiki/Category:山案座 "wikilink")
-[Category:北冕座R變星](https://zh.wikipedia.org/wiki/Category:北冕座R變星 "wikilink")
-[Category:F型超巨星](https://zh.wikipedia.org/wiki/Category:F型超巨星 "wikilink")
-[Category:銀河系外恆星](https://zh.wikipedia.org/wiki/Category:銀河系外恆星 "wikilink")
-[Category:變星命名的恆星](https://zh.wikipedia.org/wiki/Category:變星命名的恆星 "wikilink")
-[Category:2微米巡天天體](https://zh.wikipedia.org/wiki/Category:2微米巡天天體 "wikilink")
+[Category:大麥哲倫星系的恆星](https://zh.wikipedia.org/wiki/Category:大麥哲倫星系的恆星 "wikilink") [Category:大麥哲倫星系](https://zh.wikipedia.org/wiki/Category:大麥哲倫星系 "wikilink") [Category:山案座](https://zh.wikipedia.org/wiki/Category:山案座 "wikilink") [Category:北冕座R變星](https://zh.wikipedia.org/wiki/Category:北冕座R變星 "wikilink") [Category:F型超巨星](https://zh.wikipedia.org/wiki/Category:F型超巨星 "wikilink") [Category:銀河系外恆星](https://zh.wikipedia.org/wiki/Category:銀河系外恆星 "wikilink") [Category:變星命名的恆星](https://zh.wikipedia.org/wiki/Category:變星命名的恆星 "wikilink") [Category:2微米巡天天體](https://zh.wikipedia.org/wiki/Category:2微米巡天天體 "wikilink")
 
 1.
 2.

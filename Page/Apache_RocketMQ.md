@@ -1,12 +1,10 @@
-**RocketMQ**\[1\]是一个分布式消息和流数据平台，具有低延迟、高性能、高可靠性、万亿级容量和灵活的可扩展性。RocketMQ是2012年[阿里巴巴开源的第三代分布式消息中间件](../Page/阿里巴巴集团.md "wikilink")，2016年11月21日，阿里巴巴向[Apache软件基金会捐赠了RocketMQ](../Page/Apache软件基金会.md "wikilink")；第二年2月20日，Apache软件基金会宣布Apache
-RocketMQ成为顶级项目。
+**RocketMQ**\[1\]是一个分布式消息和流数据平台，具有低延迟、高性能、高可靠性、万亿级容量和灵活的可扩展性。RocketMQ是2012年[阿里巴巴开源的第三代分布式消息中间件](../Page/阿里巴巴集团.md "wikilink")，2016年11月21日，阿里巴巴向[Apache软件基金会](../Page/Apache软件基金会.md "wikilink")捐赠了RocketMQ；第二年2月20日，Apache软件基金会宣布Apache RocketMQ成为顶级项目。
 
 ## 历史
 
 RocketMQ的发展可分为三个阶段。\[2\]
 
-第一代在数据传输中使用push模式，在数据存储中使用[关系型数据库](../Page/关系数据库.md "wikilink")。它展现了消息传递的低延迟，并且满足了具有分布式事务的典型电子商务平台\[3\]
-的用途。
+第一代在数据传输中使用push模式，在数据存储中使用[关系型数据库](../Page/关系数据库.md "wikilink")。它展现了消息传递的低延迟，并且满足了具有分布式事务的典型电子商务平台\[3\] 的用途。
 
 第二代在数据传输中使用pull模式，在数据存储中使用[文件系统](../Page/文件系统.md "wikilink")。它更注重稳定性和可靠性，并显示出与第一代响应时间和[Kafka日志收集相当的性能](https://zh.wikipedia.org/wiki/Apache_Kafka "wikilink")。
 
@@ -26,8 +24,7 @@ RocketMQ的发展可分为三个阶段。\[2\]
 
 [<File:Rmq-structure.png>](https://zh.wikipedia.org/wiki/File:Rmq-structure.png "fig:File:Rmq-structure.png")
 
-RocketMQ由四部分组成：命名服务器（Name
-Server）、代理（Broker）、生产者（Producer）和消费者（Consumer），其中每一个都可以水平扩展而没有单点故障，如上图所示。
+RocketMQ由四部分组成：命名服务器（Name Server）、代理（Broker）、生产者（Producer）和消费者（Consumer），其中每一个都可以水平扩展而没有单点故障，如上图所示。
 
 ### 命名服务器集群
 
@@ -57,8 +54,7 @@ Apache RocketMQ至少可以应用到以下五个方面：
 
 ## 社区维护
 
-RocketMQ团队为活跃社区做了很多工作。聚会、研讨会、ApacheCon和Code
-Marathon定期在北京、深圳、杭州等地举行，以吸引新的贡献者和提交者。OpenMessaging基准测试套件目前可用于RocketMQ，它使RocketMQ与分布式消息传递的全球标准保持同步。\[6\]对于版本管理，采用了一系列标准化的软件开发过程。最新版本是4.2.0，4.3.0即将推出。可在[此处](https://github.com/apache/rocketmq)获取更多信息。
+RocketMQ团队为活跃社区做了很多工作。聚会、研讨会、ApacheCon和Code Marathon定期在北京、深圳、杭州等地举行，以吸引新的贡献者和提交者。OpenMessaging基准测试套件目前可用于RocketMQ，它使RocketMQ与分布式消息传递的全球标准保持同步。\[6\]对于版本管理，采用了一系列标准化的软件开发过程。最新版本是4.2.0，4.3.0即将推出。可在[此处](https://github.com/apache/rocketmq)获取更多信息。
 
 ## 获奖
 
@@ -79,12 +75,10 @@ Marathon定期在北京、深圳、杭州等地举行，以吸引新的贡献者
 ## 外部链接
 
   - [Apache RocketMQ网站](https://rocketmq.apache.org/)
-  - [Apache RocketMQ
-    Externals](https://github.com/apache/rocketmq-externals)
+  - [Apache RocketMQ Externals](https://github.com/apache/rocketmq-externals)
   - [基于RocketMQ的MQTT协议消息推送服务器](https://ieeexplore.ieee.org/document/8089955/)
 
-[Category:Apache软件基金会项目](https://zh.wikipedia.org/wiki/Category:Apache软件基金会项目 "wikilink")
-[Category:有未审阅翻译的页面](https://zh.wikipedia.org/wiki/Category:有未审阅翻译的页面 "wikilink")
+[Category:Apache软件基金会项目](https://zh.wikipedia.org/wiki/Category:Apache软件基金会项目 "wikilink") [Category:有未审阅翻译的页面](https://zh.wikipedia.org/wiki/Category:有未审阅翻译的页面 "wikilink")
 
 1.
 2.

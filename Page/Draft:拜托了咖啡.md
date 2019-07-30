@@ -1,8 +1,4 @@
-***拜托了咖啡*** (韩语: 커피야, 부탁해;
-[RR](https://zh.wikipedia.org/wiki/文化观光部2000年式 "wikilink"):
-**'Keopiya, Bootakhae**'; lit. *Coffee,
-Please*)是2018年[韩国电视剧](../Page/韓國電視劇.md "wikilink")，由[龙俊亨](../Page/龍俊亨.md "wikilink")，金敏英和蔡舒辰主演。它于2018年12月1日首播，并于星期六和星期日在Channel
-A，19:40 [KST时段播出](../Page/韩国标准时.md "wikilink")。
+***拜托了咖啡*** (韩语: 커피야, 부탁해; [RR](https://zh.wikipedia.org/wiki/文化观光部2000年式 "wikilink"): **'Keopiya, Bootakhae**'; lit. *Coffee, Please*)是2018年[韩国电视剧](../Page/韓國電視劇.md "wikilink")，由[龙俊亨](../Page/龍俊亨.md "wikilink")，金敏英和蔡舒辰主演。它于2018年12月1日首播，并于星期六和星期日在Channel A，19:40 [KST时段播出](../Page/韩国标准时.md "wikilink")。
 
 **條目名稱**是
 

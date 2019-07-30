@@ -54,7 +54,7 @@ That's Right插曲</p></td>
 <td><p>懸崖邊的繪里子</p></td>
 <td><p>2010年</p></td>
 <td><p>西島（客串）</p></td>
-<td><p><a href="../Page/不屈的心.md" title="wikilink">不屈的心主題歌</a></p></td>
+<td><p><a href="../Page/不屈的心.md" title="wikilink">不屈的心</a>主題歌</p></td>
 </tr>
 <tr class="odd">
 <td><p>朝日電視台</p></td>
@@ -650,7 +650,7 @@ MUSIC</p></td>
 <tr class="odd">
 <td><p>6月20日</p></td>
 <td><p>我們的音樂 Our Music</p></td>
-<td><p>ウィーアー！（與<a href="../Page/北谷洋.md" title="wikilink">北谷洋合唱</a>。）</p></td>
+<td><p>ウィーアー！（與<a href="../Page/北谷洋.md" title="wikilink">北谷洋</a>合唱。）</p></td>
 <td></td>
 </tr>
 <tr class="even">

@@ -10,7 +10,7 @@
 <mapframe text="旧金山市区" width="250" height="250" zoom="13" longitude="-122.3988" latitude="37.8013" lang="zh"/>
 ```
 
-其中，*width*和*height*属性用于设置地图的宽度和长度，*zoom*属性用于设置地图的缩放比例。*longitude*和*latitude*属性分别为地图中心的[经度和](../Page/经度.md "wikilink")[纬度](../Page/纬度.md "wikilink")，*lang*属性为地图显示的语言。此外，您还可以使用*align*属性设置地图的控制地图的对齐方式是居左（left）、居右（right）或是居中（center）。
+其中，*width*和*height*属性用于设置地图的宽度和长度，*zoom*属性用于设置地图的缩放比例。*longitude*和*latitude*属性分别为地图中心的[经度](../Page/经度.md "wikilink")和[纬度](../Page/纬度.md "wikilink")，*lang*属性为地图显示的语言。此外，您还可以使用*align*属性设置地图的控制地图的对齐方式是居左（left）、居右（right）或是居中（center）。
 
 
 
@@ -71,8 +71,7 @@ latitude="37.81032643553478">
 <maplink zoom="13" longitude="-122.3995" latitude="37.8103" />
 ```
 
-\<maplink\>可以通过设置"text"属性来自定义链接的文本。
-<maplink text="请点击这里" zoom="13" longitude="-122.3995" latitude="37.8103" />
+\<maplink\>可以通过设置"text"属性来自定义链接的文本。 <maplink text="请点击这里" zoom="13" longitude="-122.3995" latitude="37.8103" />
 
 ``` xml
 <maplink text="请点击这里" zoom="13" longitude="-122.3995" latitude="37.8103" />
@@ -246,12 +245,7 @@ latitude="37.80151060070086"> {
 
 } </mapframe>
 
-\<maplink\> 会创建一个链接，当单击时显示全屏幕地图。链接文本可以用text属性设置。如果没有设置属性，链接文本为相应坐标 (如:
-<maplink zoom=5 latitude=12.3 longitude=45.6/>)。如果使用了GeoJSON,
-可设置*marker-symbol*键的值为“-number”或“-letter”。设置为“-number”的标地会以1,2,3,4...递增，
-and \<tvar|minusletter2\>\<code
-设置为“-letter”的标地会以[字母表a](../Page/拉丁字母.md "wikilink"),b,c,d...z的顺序显示。
-
+\<maplink\> 会创建一个链接，当单击时显示全屏幕地图。链接文本可以用text属性设置。如果没有设置属性，链接文本为相应坐标 (如: <maplink zoom=5 latitude=12.3 longitude=45.6/>)。如果使用了GeoJSON, 可设置*marker-symbol*键的值为“-number”或“-letter”。设置为“-number”的标地会以1,2,3,4...递增， and \<tvar|minusletter2\>\<code 设置为“-letter”的标地会以[字母表a](../Page/拉丁字母.md "wikilink"),b,c,d...z的顺序显示。
 
 ``` xml
 <mapframe text="Several groups of automatic counters" width="350" height="350" zoom="13" longitude="-122.39902496337889"
@@ -419,17 +413,11 @@ latitude="37.80151060070086">
 </mapframe>
 ```
 
-If GeoJSON has more than one counter, the value of the first one will be
-shown as the link text. Optionally, editors may
+If GeoJSON has more than one counter, the value of the first one will be shown as the link text. Optionally, editors may
 
-add a suffix to have multiple counters on the page at the same time.
-This way \<tvar|numbermuseum\>`‑number‑museum`\</\> will have different
-counter from \<tvar|numberbar\>`‑number‑bar`\</\>.
+add a suffix to have multiple counters on the page at the same time. This way \<tvar|numbermuseum\>`‑number‑museum`\</\> will have different counter from \<tvar|numberbar\>`‑number‑bar`\</\>.
 
-It would make sense to use a distinct color for each counting group. All
-data added via \<tvar|maplink\>`<maplink>`\</\> will also be shown in
-all maps inserted with \<tvar|mapframe\>`<mapframe>`\</\>, unless the
-\<tvar|group\>`group`\</\> attribute is used. </translate>
+It would make sense to use a distinct color for each counting group. All data added via \<tvar|maplink\>`<maplink>`\</\> will also be shown in all maps inserted with \<tvar|mapframe\>`<mapframe>`\</\>, unless the \<tvar|group\>`group`\</\> attribute is used. </translate>
 
 ``` xml
 {{see
@@ -455,53 +443,35 @@ all maps inserted with \<tvar|mapframe\>`<mapframe>`\</\>, unless the
 </maplink>
 ```
 
-<translate> The attributes \<tvar|zoom\>`zoom`\</\>,
-\<tvar|latitude\>`latitude`\</\>, and \<tvar|
+<translate> The attributes \<tvar|zoom\>`zoom`\</\>, \<tvar|latitude\>`latitude`\</\>, and \<tvar|
 
-longitude\>`longitude`\</\> control the location of the popup map. Use
-\<tvar|text\>`text`\</\> for the text of the link (could be any valid
-wikitext markup). Use \<tvar|group\>`group`\</\> to add the contents of
-this tag to the named group (see below).
+longitude\>`longitude`\</\> control the location of the popup map. Use \<tvar|text\>`text`\</\> for the text of the link (could be any valid wikitext markup). Use \<tvar|group\>`group`\</\> to add the contents of this tag to the named group (see below).
 
 ## Groups
 
 </translate>
 
-<translate> For use on the Wikivoyage project, there is a need to show a
-map whose data is defined somewhere else on the page. For
+<translate> For use on the Wikivoyage project, there is a need to show a map whose data is defined somewhere else on the page. For
 
-example, there may be multiple points of interest (POI) defined with
-\<tvar|maplink\>`<maplink>`\</\> tags, and one common map on the side of
-the page that shows them all.
+example, there may be multiple points of interest (POI) defined with \<tvar|maplink\>`<maplink>`\</\> tags, and one common map on the side of the page that shows them all.
 
-The grouping concept allows editors to share data between multiple
-\<tvar|mapframe\>`<mapframe>`\</\> and \<tvar|maplink\>`<maplink>`\</\>
+The grouping concept allows editors to share data between multiple \<tvar|mapframe\>`<mapframe>`\</\> and \<tvar|maplink\>`<maplink>`\</\>
 
 tags.
 
-By default, the data inside the \<tvar|mapframe\>`<mapframe>`\</\> or
-\<tvar|maplink\>`<maplink>`\</\> tag is shown only for that one tag, and
-will not be shown anywhere else.
+By default, the data inside the \<tvar|mapframe\>`<mapframe>`\</\> or \<tvar|maplink\>`<maplink>`\</\> tag is shown only for that one tag, and will not be shown anywhere else.
 
-If \<tvar|mapframe\>`<mapframe>`\</\> or
-\<tvar|maplink\>`<maplink>`\</\> specify the
-\<tvar|group\>`group="..."`\</\> attribute, the
+If \<tvar|mapframe\>`<mapframe>`\</\> or \<tvar|maplink\>`<maplink>`\</\> specify the \<tvar|group\>`group="..."`\</\> attribute, the
 
-data inside those tags will be placed into a named group, together with
-all the other data by the same group name. As a
+data inside those tags will be placed into a named group, together with all the other data by the same group name. As a
 
-result, any tags with the same group name will show the same map data,
-and each tag may incrementally add data to the
+result, any tags with the same group name will show the same map data, and each tag may incrementally add data to the
 
 group.
 
-A tag may also show other groups, regardless if it belongs to a group or
-not, by specifying the \<tvar|show\>`show="..."`\</\> attribute.
-Comma-separated multiple group names may be specified. The group name
-may only
+A tag may also show other groups, regardless if it belongs to a group or not, by specifying the \<tvar|show\>`show="..."`\</\> attribute. Comma-separated multiple group names may be specified. The group name may only
 
-contain lower case English letters. This matrix shows what data will be
-shown for each tag. </translate>
+contain lower case English letters. This matrix shows what data will be shown for each tag. </translate>
 
 ``` xml numberLines
 <maplink>                               -- shows 1
@@ -520,31 +490,23 @@ shown for each tag. </translate>
 
 ## <translate> External data</translate>
 
-<mapframe text="Alaska" width=300 height=300 zoom=3 longitude=-152.58 latitude=64.01>
-{
+<mapframe text="Alaska" width=300 height=300 zoom=3 longitude=-152.58 latitude=64.01> {
 
 ` "type": "ExternalData",`
 ` "service": "geoshape",`
 ` "ids": "Q797"`
 
-} </mapframe> <translate> In addition to drawing polygons using GeoJSON,
-you may also get outlines of the well known geographical objects by
-their
+} </mapframe> <translate> In addition to drawing polygons using GeoJSON, you may also get outlines of the well known geographical objects by their
 
-Wikidata ID if they are marked as such in the OpenStreetMap database.
-For example, Wikidata item for Alaska is
+Wikidata ID if they are marked as such in the OpenStreetMap database. For example, Wikidata item for Alaska is
 
-[Q797](https://zh.wikipedia.org/wiki/wikidata:Q797 "wikilink"), and we
-can draw it on the map by using "external data" reference. More than one
-ID may be specified
+[Q797](https://zh.wikipedia.org/wiki/wikidata:Q797 "wikilink"), and we can draw it on the map by using "external data" reference. More than one ID may be specified
 
 separated by a comma.</translate>
 
-<translate> **Note:** Wikidata IDs are relatively new to the OSM
-community. There are only about 40,000 polygons with IDs. To add
+<translate> **Note:** Wikidata IDs are relatively new to the OSM community. There are only about 40,000 polygons with IDs. To add
 
-more, visit <https://www.openstreetmap.org/> and add `Wikidata` tag with
-the `Q` value. The data should
+more, visit <https://www.openstreetmap.org/> and add `Wikidata` tag with the `Q` value. The data should
 
 become available to Kartographer within 2 days.</translate>
 
@@ -574,8 +536,7 @@ become available to Kartographer within 2 days.</translate>
 `   "stroke-width": 8`
 ` }`
 
-} </mapframe> For external data, you can also add styles and titles,
-using the **properties** keyword.
+} </mapframe> For external data, you can also add styles and titles, using the **properties** keyword.
 
 ``` xml
 <mapframe text="Interstate Highway I-696" width=300 height=300>
@@ -593,13 +554,11 @@ using the **properties** keyword.
 </mapframe>
 ```
 
-The main style keys are: "stroke" (color), "stroke-width",
-"stroke-opacity", "fill" (color), "fill-opacity".
+The main style keys are: "stroke" (color), "stroke-width", "stroke-opacity", "fill" (color), "fill-opacity".
 
 ### Combining multiple data types
 
-<mapframe text="Caderousse city wall" width="300" height="300" zoom="15" longitude="4.75600" latitude="44.10200" >
-\[
+<mapframe text="Caderousse city wall" width="300" height="300" zoom="15" longitude="4.75600" latitude="44.10200" > \[
 
 ` {`
 `   "type": "ExternalData",`
@@ -625,8 +584,7 @@ The main style keys are: "stroke" (color), "stroke-width",
 `   }`
 ` }`
 
-\] </mapframe> You can also combine ExternalData, Feature, and
-FeatureCollection together in the same <mapframe> or <maplink>
+\] </mapframe> You can also combine ExternalData, Feature, and FeatureCollection together in the same <mapframe> or <maplink>
 
 element
 
@@ -677,12 +635,8 @@ SELECT ?id ?head
 ` (SAMPLE(?img) as ?img) `
 ` (min(?partyId) as ?party) `
 ` (if(?party = '0', '#800000', if(?party = '1', '#000080', '#008000')) as ?fill)`
-` (concat('`[`wikipedia:',``   ``substr(str(?link),31,500),``
- ``'{{!}}',``   ``?headLabel,``
- ``'`](https://zh.wikipedia.org/wiki/wikipedia:',_substr\(str\(?link\),31,500\),_'{{!}}',_?headLabel,_' "wikilink")`') as ?title)`
-` (concat(?stateLabel, '\\n', '`[`File:',``   ``substr(str(?img),``
- ``52,``   ``500),``
- ``'{{!}}200px`](https://zh.wikipedia.org/wiki/File:',_substr\(str\(?img\),_52,_500\),_'{{!}}200px "fig:File:', substr(str(?img), 52, 500), '{{!}}200px")`') as ?description)`
+` (concat('`[`wikipedia:',``   ``substr(str(?link),31,500),``   ``'{{!}}',``   ``?headLabel,``   ``'`](https://zh.wikipedia.org/wiki/wikipedia:',_substr\(str\(?link\),31,500\),_'{{!}}',_?headLabel,_' "wikilink")`') as ?title)`
+` (concat(?stateLabel, '\\n', '`[`File:',``   ``substr(str(?img),``   ``52,``   ``500),``   ``'{{!}}200px`](https://zh.wikipedia.org/wiki/File:',_substr\(str\(?img\),_52,_500\),_'{{!}}200px "fig:File:', substr(str(?img), 52, 500), '{{!}}200px")`') as ?description)`
 
 WHERE {
 
@@ -701,24 +655,17 @@ WHERE {
 ` ?link schema:about ?head .`
 ` ?link schema:isPartOf <`<https://en.wikipedia.org/>`> .`
 
-} GROUP BY ?id ?head ?headLabel ?link ?stateLabel "} </mapframe>
-<translate> While this helps with the simple use cases when the Wikidata
-ID is well known, sometimes you may want to get a list of IDs
+} GROUP BY ?id ?head ?headLabel ?link ?stateLabel "} </mapframe> <translate> While this helps with the simple use cases when the Wikidata ID is well known, sometimes you may want to get a list of IDs
 
-as a result of a Wikidata query. A SPARQL query gets a list of all US
-states in the ID column of the result, and geoshapes
+as a result of a Wikidata query. A SPARQL query gets a list of all US states in the ID column of the result, and geoshapes
 
-service adds the geometrical outlines for each state. All other columns
-in the SPARQL query result become values in the
+service adds the geometrical outlines for each state. All other columns in the SPARQL query result become values in the
 
-"properties" object. The "fill" column changes the color of the state.
-The "title" column shows state governor's name, and
+"properties" object. The "fill" column changes the color of the state. The "title" column shows state governor's name, and
 
-"description" has wiki markup to show the state name and the governor's
-picture. To edit this query, copy the query
+"description" has wiki markup to show the state name and the governor's picture. To edit this query, copy the query
 
-parameter after the "\#" symbol at
-**https://query.wikidata.org/\#...**:</translate>
+parameter after the "\#" symbol at **https://query.wikidata.org/\#...**:</translate>
 
 ``` xml
 <mapframe latitude="52" longitude="-110" zoom="3" width="500" height="500" text="Governors of US states with their party

@@ -1,11 +1,8 @@
-**Eclipse Vert.x**
-是一个[事件驱动的](../Page/事件驅動程式設計.md "wikilink")[应用程序框架](https://zh.wikipedia.org/wiki/Application_framework "wikilink")，其支持多种编程语言，并运行于Java虚拟机中。<ref>
+**Eclipse Vert.x** 是一个[事件驱动的](../Page/事件驅動程式設計.md "wikilink")[应用程序框架](https://zh.wikipedia.org/wiki/軟體框架 "wikilink")，其支持多种编程语言，并运行于Java虚拟机中。<ref>
 
 <div>
 
-[Wait, vert.x – JVM Polyglot Alternative to
-Node.js](http://www.infoq.com/news/2012/05/vertx)，Dio
-Synodinos，2012-05-04，InfoQ
+[Wait, vert.x – JVM Polyglot Alternative to Node.js](http://www.infoq.com/news/2012/05/vertx)，Dio Synodinos，2012-05-04，InfoQ
 
 </div>
 
@@ -13,29 +10,23 @@ Synodinos，2012-05-04，InfoQ
 
 <div>
 
-[Vert.x – an asynchronous, event-driven Java web
-framework](http://www.h-online.com/developer/features/Vert-x-an-asynchronous-event-driven-Java-web-framework-1615383.html)，Eberhard
-Wolff，2012-06-20，hDeveloper
+[Vert.x – an asynchronous, event-driven Java web framework](http://www.h-online.com/developer/features/Vert-x-an-asynchronous-event-driven-Java-web-framework-1615383.html)，Eberhard Wolff，2012-06-20，hDeveloper
 
 </div>
 
 </ref>
 
-在其他编程语言中，与其类似的有[Node.js](../Page/Node.js.md "wikilink")（适用于[JavaScript](../Page/JavaScript.md "wikilink")）、[Twisted](https://zh.wikipedia.org/wiki/Twisted_\(software\) "wikilink")（适用于[Python](../Page/Python.md "wikilink")）、[Perl
-Object
-Environment](https://zh.wikipedia.org/wiki/Perl_Object_Environment "wikilink")（适用于[Perl](../Page/Perl.md "wikilink")）、[libevent](https://zh.wikipedia.org/wiki/libevent "wikilink")（适用于[C](https://zh.wikipedia.org/wiki/C语言 "wikilink")）、reactPHP（适用于[PHP](../Page/PHP.md "wikilink")）、amphp（适用于PHP）及[EventMachine](https://zh.wikipedia.org/wiki/EventMachine "wikilink")（适用于[Ruby](../Page/Ruby.md "wikilink")）。
+在其他编程语言中，与其类似的有[Node.js](../Page/Node.js.md "wikilink")（适用于[JavaScript](../Page/JavaScript.md "wikilink")）、[Twisted](https://zh.wikipedia.org/wiki/Twisted "wikilink")（适用于[Python](../Page/Python.md "wikilink")）、[Perl Object Environment](https://zh.wikipedia.org/wiki/Perl_Object_Environment "wikilink")（适用于[Perl](../Page/Perl.md "wikilink")）、[libevent](https://zh.wikipedia.org/wiki/libevent "wikilink")（适用于[C](https://zh.wikipedia.org/wiki/C语言 "wikilink")）、reactPHP（适用于[PHP](../Page/PHP.md "wikilink")）、amphp（适用于PHP）及[EventMachine](https://zh.wikipedia.org/wiki/EventMachine "wikilink")（适用于[Ruby](../Page/Ruby.md "wikilink")）。
 
-自2.1.4版本始，Vert.x以[Java](../Page/Java.md "wikilink")、[JavaScript](../Page/JavaScript.md "wikilink")、[Groovy](../Page/Groovy.md "wikilink")、[Ruby](../Page/Ruby.md "wikilink")、[Python](../Page/Python.md "wikilink")、[Scala](../Page/Scala.md "wikilink")、[Clojure及](https://zh.wikipedia.org/wiki/Clojure "wikilink")[Ceylon编程语言公开其API](https://zh.wikipedia.org/wiki/Ceylon_\(programming_language\) "wikilink")。
+自2.1.4版本始，Vert.x以[Java](../Page/Java.md "wikilink")、[JavaScript](../Page/JavaScript.md "wikilink")、[Groovy](../Page/Groovy.md "wikilink")、[Ruby](../Page/Ruby.md "wikilink")、[Python](../Page/Python.md "wikilink")、[Scala](../Page/Scala.md "wikilink")、[Clojure](../Page/Clojure.md "wikilink")及[Ceylon编程语言公开其API](https://zh.wikipedia.org/wiki/Ceylon_\(programming_language\) "wikilink")。
 
-自3.6.0版本始，Vert.x以[Java](../Page/Java.md "wikilink")、[JavaScript](../Page/JavaScript.md "wikilink")、[Groovy](../Page/Groovy.md "wikilink")、[Ruby](../Page/Ruby.md "wikilink")、[Scala](../Page/Scala.md "wikilink")、[Kotlin及](../Page/Kotlin.md "wikilink")[Ceylon编程语言公开其API](https://zh.wikipedia.org/wiki/Ceylon_\(programming_language\) "wikilink")。
+自3.6.0版本始，Vert.x以[Java](../Page/Java.md "wikilink")、[JavaScript](../Page/JavaScript.md "wikilink")、[Groovy](../Page/Groovy.md "wikilink")、[Ruby](../Page/Ruby.md "wikilink")、[Scala](../Page/Scala.md "wikilink")、[Kotlin](../Page/Kotlin.md "wikilink")及[Ceylon编程语言公开其API](https://zh.wikipedia.org/wiki/Ceylon_\(programming_language\) "wikilink")。
 
 ## 历史
 
-2011年，在[VMware工作的](../Page/VMware.md "wikilink") Tim Fox 开始开发Vert.x。
+2011年，在[VMware](../Page/VMware.md "wikilink")工作的 Tim Fox 开始开发Vert.x。
 
-Tim Fox
-最初将项目命名为“Node.x”，该名称由[Node.js的命名衍生而来](../Page/Node.js.md "wikilink")，其中“x”表示新项目支持多种编程语言，而非仅支持JavaScript。该项目后来改名为“Vert.x”以避免潜在的法律问题，因为“Node”是
-Joyent Inc. 拥有的商标<ref>
+Tim Fox 最初将项目命名为“Node.x”，该名称由[Node.js](../Page/Node.js.md "wikilink")的命名衍生而来，其中“x”表示新项目支持多种编程语言，而非仅支持JavaScript。该项目后来改名为“Vert.x”以避免潜在的法律问题，因为“Node”是 Joyent Inc. 拥有的商标<ref>
 
 <div>
 
@@ -49,8 +40,7 @@ Joyent Inc. 拥有的商标<ref>
 
 <div>
 
-["VMware's dealings with Vert.x founder should serve as a
-warning."](https://www.theregister.co.uk/2013/01/14/opensource_ownership/)
+["VMware's dealings with Vert.x founder should serve as a warning."](https://www.theregister.co.uk/2013/01/14/opensource_ownership/)
 
 </div>
 
@@ -58,27 +48,23 @@ warning."](https://www.theregister.co.uk/2013/01/14/opensource_ownership/)
 
 <div>
 
-["Who controls Vert.x: Red Hat, VMware, or
-neither?"](http://www.infoworld.com/d/open-source-software/who-controls-vertx-red-hat-vmware-or-neither-210549)
+["Who controls Vert.x: Red Hat, VMware, or neither?"](http://www.infoworld.com/d/open-source-software/who-controls-vertx-red-hat-vmware-or-neither-210549)
 
 </div>
 
 </ref>获得Vert.x商标、域名、博客、GitHub帐户及Google Group的控制权。
 
-与其他各方讨论后，2013年1月，VMware同意将项目和相关IP转移到[Eclipse基金会这一中立的法律实体中](../Page/Eclipse基金会.md "wikilink")，以使Vert.x社区获得最大收益。
-<ref>
+与其他各方讨论后，2013年1月，VMware同意将项目和相关IP转移到[Eclipse基金会](../Page/Eclipse基金会.md "wikilink")这一中立的法律实体中，以使Vert.x社区获得最大收益。 <ref>
 
 <div>
 
-["Vert.x Joining Eclipse
-Foundation"](http://www.infoq.com/news/2013/01/vertx-eclipse/)
+["Vert.x Joining Eclipse Foundation"](http://www.infoq.com/news/2013/01/vertx-eclipse/)
 
 </div>
 
 </ref>
 
-2013年8月，Core Vert.x
-项目完成了向Eclipse基金会的迁移。Vert.x技术栈中的其他项目并未迁移至Eclipse，但因Eclipse基金会的默认而继续使用“Vert.x”商标。
+2013年8月，Core Vert.x 项目完成了向Eclipse基金会的迁移。Vert.x技术栈中的其他项目并未迁移至Eclipse，但因Eclipse基金会的默认而继续使用“Vert.x”商标。
 
 2014年5月，Vert.x在JAX创新奖中荣获“最具创新性的Java技术”奖。 <ref>
 
@@ -102,14 +88,11 @@ Foundation"](http://www.infoq.com/news/2013/01/vertx-eclipse/)
 
 ## 架构
 
-Vert.x使用底层I/O库[Netty](https://zh.wikipedia.org/wiki/Netty_\(software\) "wikilink")
-。 <ref>
+Vert.x使用底层I/O库[Netty](https://zh.wikipedia.org/wiki/Netty_\(software\) "wikilink") 。 <ref>
 
 <div>
 
-[vert.x – JVM Polyglot Alternative to
-Node.js](http://www.infoq.com/news/2012/05/vertx)，Dio
-Synodinos，2012-05-04，InfoQ
+[vert.x – JVM Polyglot Alternative to Node.js](http://www.infoq.com/news/2012/05/vertx)，Dio Synodinos，2012-05-04，InfoQ
 
 </div>
 
@@ -141,7 +124,7 @@ public class Server extends AbstractVerticle {
 }
 ```
 
-同一服务器的[JavaScript版本如下](../Page/JavaScript.md "wikilink")：
+同一服务器的[JavaScript](../Page/JavaScript.md "wikilink")版本如下：
 
 ``` javascript
 vertx.createHttpServer()
@@ -163,9 +146,4 @@ vertx.createHttpServer()
 ## 外部链接
 
   -
-[Category:Java虚拟机](https://zh.wikipedia.org/wiki/Category:Java虚拟机 "wikilink")
-[Category:自由發展元件與函式庫](https://zh.wikipedia.org/wiki/Category:自由發展元件與函式庫 "wikilink")
-[Category:事件_(计算机)](https://zh.wikipedia.org/wiki/Category:事件_\(计算机\) "wikilink")
-[Category:跨平台軟體](https://zh.wikipedia.org/wiki/Category:跨平台軟體 "wikilink")
-[Category:使用过时图像语法的页面](https://zh.wikipedia.org/wiki/Category:使用过时图像语法的页面 "wikilink")
-[Category:有未审阅翻译的页面](https://zh.wikipedia.org/wiki/Category:有未审阅翻译的页面 "wikilink")
+[Category:Java虚拟机](https://zh.wikipedia.org/wiki/Category:Java虚拟机 "wikilink") [Category:自由發展元件與函式庫](https://zh.wikipedia.org/wiki/Category:自由發展元件與函式庫 "wikilink") [Category:事件_(计算机)](https://zh.wikipedia.org/wiki/Category:事件_\(计算机\) "wikilink") [Category:跨平台軟體](https://zh.wikipedia.org/wiki/Category:跨平台軟體 "wikilink") [Category:使用过时图像语法的页面](https://zh.wikipedia.org/wiki/Category:使用过时图像语法的页面 "wikilink") [Category:有未审阅翻译的页面](https://zh.wikipedia.org/wiki/Category:有未审阅翻译的页面 "wikilink")

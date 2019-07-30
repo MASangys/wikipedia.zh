@@ -8,18 +8,11 @@ require('Module:No globals')
 
 local DebugHelper = {} local ScribuntoUnit = {}
 
-\-- The cfg table contains all localisable strings and configuration, to
-make it -- easier to port this module to another wiki. local cfg =
-mw.loadData('Module:ScribuntoUnit/config')
+\-- The cfg table contains all localisable strings and configuration, to make it -- easier to port this module to another wiki. local cfg = mw.loadData('Module:ScribuntoUnit/config')
 
 -----
 
-\-- Concatenates keys and values, ideal for displaying a template
-argument table. -- @param keySeparator glue between key and value
-(defaults to " = ") -- @param separator glue between different key-value
-pairs (defaults to ", ") -- @example concatWithKeys({a = 1, b = 2, c =
-3}, ' =\> ', ', ') =\> "a =\> 1, b =\> 2, c =\> 3" -- function
-DebugHelper.concatWithKeys(table, keySeparator, separator)
+\-- Concatenates keys and values, ideal for displaying a template argument table. -- @param keySeparator glue between key and value (defaults to " = ") -- @param separator glue between different key-value pairs (defaults to ", ") -- @example concatWithKeys({a = 1, b = 2, c = 3}, ' =\> ', ', ') =\> "a =\> 1, b =\> 2, c =\> 3" -- function DebugHelper.concatWithKeys(table, keySeparator, separator)
 
 `   keySeparator = keySeparator or ' = '`
 `   separator = separator or ', '`
@@ -47,10 +40,7 @@ end
 
 -----
 
-\-- Compares two tables recursively (non-table values are handled
-correctly as well). -- @param ignoreMetatable if false, t1.__eq is
-used for the comparison -- function DebugHelper.deepCompare(t1, t2,
-ignoreMetatable)
+\-- Compares two tables recursively (non-table values are handled correctly as well). -- @param ignoreMetatable if false, t1.__eq is used for the comparison -- function DebugHelper.deepCompare(t1, t2, ignoreMetatable)
 
 `   local type1 = type(t1)`
 `   local type2 = type(t2)`
@@ -85,18 +75,13 @@ end
 
 -----
 
-\-- Raises an error with stack information -- @param details a table
-with error details -- - should have a 'text' key which is the error
-message to display -- - a 'trace' key will be added with the stack data
--- - and a 'source' key with file/line number -- - a metatable will be
-added for error handling -- function DebugHelper.raise(details, level)
+\-- Raises an error with stack information -- @param details a table with error details -- - should have a 'text' key which is the error message to display -- - a 'trace' key will be added with the stack data -- - and a 'source' key with file/line number -- - a metatable will be added for error handling -- function DebugHelper.raise(details, level)
 
 `   level = (level or 1) + 1`
 `   details.trace = debug.traceback('', level)`
 `   details.source = string.match(details.trace, '^%s*stack traceback:%s*(%S*: )')`
 
-\-- setmetatable(details, { -- __tostring: function() return
-details.text end -- })
+\-- setmetatable(details, { -- __tostring: function() return details.text end -- })
 
 `   error(details, level)`
 
@@ -104,8 +89,7 @@ end
 
 -----
 
-\-- when used in a test, that test gets ignored, and the skipped count
-increases by one. -- function ScribuntoUnit:markTestSkipped()
+\-- when used in a test, that test gets ignored, and the skipped count increases by one. -- function ScribuntoUnit:markTestSkipped()
 
 `   DebugHelper.raise({ScribuntoUnit = true, skipped = true}, 3)`
 
@@ -113,8 +97,7 @@ end
 
 -----
 
-\-- Checks that the input is true -- @param message optional description
-of the test -- function ScribuntoUnit:assertTrue(actual, message)
+\-- Checks that the input is true -- @param message optional description of the test -- function ScribuntoUnit:assertTrue(actual, message)
 
 `   if not actual then`
 `       DebugHelper.raise({ScribuntoUnit = true, text = string.format("Failed to assert that %s is true", tostring(actual)), message = message}, 2)`
@@ -124,9 +107,7 @@ end
 
 -----
 
-\-- Checks that the input is false -- @param message optional
-description of the test -- function ScribuntoUnit:assertFalse(actual,
-message)
+\-- Checks that the input is false -- @param message optional description of the test -- function ScribuntoUnit:assertFalse(actual, message)
 
 `   if actual then`
 `       DebugHelper.raise({ScribuntoUnit = true, text = string.format("Failed to assert that %s is false", tostring(actual)), message = message}, 2)`
@@ -136,10 +117,7 @@ end
 
 -----
 
-\-- Checks an input string contains the expected string -- @param
-message optional description of the test -- @param plain search is made
-with a plain string instead of a ustring pattern -- function
-ScribuntoUnit:assertStringContains(pattern, s, plain, message)
+\-- Checks an input string contains the expected string -- @param message optional description of the test -- @param plain search is made with a plain string instead of a ustring pattern -- function ScribuntoUnit:assertStringContains(pattern, s, plain, message)
 
 `   if type(pattern) ~= 'string' then`
 `       DebugHelper.raise({`
@@ -167,10 +145,7 @@ end
 
 -----
 
-\-- Checks an input string doesn't contain the expected string -- @param
-message optional description of the test -- @param plain search is made
-with a plain string instead of a ustring pattern -- function
-ScribuntoUnit:assertNotStringContains(pattern, s, plain, message)
+\-- Checks an input string doesn't contain the expected string -- @param message optional description of the test -- @param plain search is made with a plain string instead of a ustring pattern -- function ScribuntoUnit:assertNotStringContains(pattern, s, plain, message)
 
 `   if type(pattern) ~= 'string' then`
 `       DebugHelper.raise({`
@@ -200,10 +175,7 @@ end
 
 -----
 
-\-- Checks that an input has the expected value. -- @param message
-optional description of the test -- @example assertEquals(4, add(2,2),
-"2+2 should be 4") -- function ScribuntoUnit:assertEquals(expected,
-actual, message)
+\-- Checks that an input has the expected value. -- @param message optional description of the test -- @example assertEquals(4, add(2,2), "2+2 should be 4") -- function ScribuntoUnit:assertEquals(expected, actual, message)
 
 `   if type(expected) == 'number' and type(actual) == 'number' then`
 `       self:assertWithinDelta(expected, actual, 1e-8, message)`
@@ -222,10 +194,7 @@ end
 
 -----
 
-\-- Checks that 'actual' is within 'delta' of 'expected'. -- @param
-message optional description of the test -- @example assertEquals(1/3,
-9/3, "9/3 should be 1/3", 0.000001) function
-ScribuntoUnit:assertWithinDelta(expected, actual, delta, message)
+\-- Checks that 'actual' is within 'delta' of 'expected'. -- @param message optional description of the test -- @example assertEquals(1/3, 9/3, "9/3 should be 1/3", 0.000001) function ScribuntoUnit:assertWithinDelta(expected, actual, delta, message)
 
 `   if type(expected) ~= "number" then`
 `       DebugHelper.raise({`
@@ -261,10 +230,7 @@ end
 
 -----
 
-\-- Checks that a table has the expected value (including sub-tables).
--- @param message optional description of the test -- @example
-assertDeepEquals(, partition(odd, {1,2,3,4})) function
-ScribuntoUnit:assertDeepEquals(expected, actual, message)
+\-- Checks that a table has the expected value (including sub-tables). -- @param message optional description of the test -- @example assertDeepEquals(, partition(odd, {1,2,3,4})) function ScribuntoUnit:assertDeepEquals(expected, actual, message)
 
 `   if not DebugHelper.deepCompare(expected, actual) then`
 `       if type(expected) == 'table' then`
@@ -286,10 +252,7 @@ end
 
 -----
 
-\-- Checks that a wikitext gives the expected result after processing.
--- @param message optional description of the test -- @example
-assertResultEquals("Hello world", "") function
-ScribuntoUnit:assertResultEquals(expected, text, message)
+\-- Checks that a wikitext gives the expected result after processing. -- @param message optional description of the test -- @example assertResultEquals("Hello world", "") function ScribuntoUnit:assertResultEquals(expected, text, message)
 
 `   local frame = self.frame`
 `   local actual = frame:preprocess(text)`
@@ -308,10 +271,7 @@ end
 
 -----
 
-\-- Checks that two wikitexts give the same result after processing. --
-@param message optional description of the test -- @example
-assertSameResult("", "") function ScribuntoUnit:assertSameResult(text1,
-text2, message)
+\-- Checks that two wikitexts give the same result after processing. -- @param message optional description of the test -- @example assertSameResult("", "") function ScribuntoUnit:assertSameResult(text1, text2, message)
 
 `   local frame = self.frame`
 `   local processed1 = frame:preprocess(text1)`
@@ -332,10 +292,7 @@ end
 
 -----
 
-\-- Checks that a template gives the expected output. -- @param message
-optional description of the test -- @example assertTemplateEquals("Hello
-world", "concat", {"Hello", "world"}) function
-ScribuntoUnit:assertTemplateEquals(expected, template, args, message)
+\-- Checks that a template gives the expected output. -- @param message optional description of the test -- @example assertTemplateEquals("Hello world", "concat", {"Hello", "world"}) function ScribuntoUnit:assertTemplateEquals(expected, template, args, message)
 
 `   local frame = self.frame`
 `   local actual = frame:expandTemplate{ title = template, args = args}`
@@ -355,10 +312,7 @@ end
 
 -----
 
-\-- Checks whether a function throws an error -- @param fn the function
-to test -- @param expectedMessage optional the expected error message --
-@param message optional description of the test function
-ScribuntoUnit:assertThrows(fn, expectedMessage, message)
+\-- Checks whether a function throws an error -- @param fn the function to test -- @param expectedMessage optional the expected error message -- @param message optional description of the test function ScribuntoUnit:assertThrows(fn, expectedMessage, message)
 
 `   local succeeded, actualMessage = pcall(fn)`
 `   if succeeded then`
@@ -389,9 +343,7 @@ end
 
 -----
 
-\-- Creates a new test suite. -- @param o a table with test functions
-(alternatively, the functions can be added later to the returned suite)
--- function ScribuntoUnit:new(o)
+\-- Creates a new test suite. -- @param o a table with test functions (alternatively, the functions can be added later to the returned suite) -- function ScribuntoUnit:new(o)
 
 `   o = o or {}`
 `   setmetatable(o, {__index = self})`
@@ -414,9 +366,7 @@ end
 
 -----
 
-\-- Runs a single testcase -- @param name test nume -- @param test
-function containing assertions -- function ScribuntoUnit:runTest(suite,
-name, test)
+\-- Runs a single testcase -- @param name test nume -- @param test function containing assertions -- function ScribuntoUnit:runTest(suite, name, test)
 
 `   local success, details = pcall(test, suite)`
 `   `
@@ -443,8 +393,7 @@ end
 
 -----
 
-\-- Runs all tests and displays the results. -- function
-ScribuntoUnit:runSuite(suite, frame)
+\-- Runs all tests and displays the results. -- function ScribuntoUnit:runSuite(suite, frame)
 
 `   self:init(frame)`
 `   local names = {}`
@@ -469,10 +418,7 @@ end
 
 -----
 
-\-- \#invoke entry point for running the tests. -- Can be called without
-a frame, in which case it will use mw.log for output -- @param
-displayMode see displayResults() -- function ScribuntoUnit:run(suite,
-frame)
+\-- \#invoke entry point for running the tests. -- Can be called without a frame, in which case it will use mw.log for output -- @param displayMode see displayResults() -- function ScribuntoUnit:run(suite, frame)
 
 `   local testData = self:runSuite(suite, frame)`
 `   if frame and frame.args then`
@@ -485,8 +431,7 @@ end
 
 -----
 
-\-- Displays test results -- @param displayMode: 'table', 'log' or
-'short' -- function ScribuntoUnit:displayResults(testData, displayMode)
+\-- Displays test results -- @param displayMode: 'table', 'log' or 'short' -- function ScribuntoUnit:displayResults(testData, displayMode)
 
 `   if displayMode == 'table' then`
 `       return self:displayResultsAsTable(testData)`

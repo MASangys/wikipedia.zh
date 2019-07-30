@@ -529,11 +529,11 @@
 | 3rd  | 2007年9月19日 | **[AROUND](../Page/AROUND_\(AAA專輯\).md "wikilink")**\[46\]                                       | 8                                       | [Red Soul同步](../Page/Red_Soul.md "wikilink")                                  | 4張細碟8首單曲+4首原創      |
 | 4th  | 2009年2月11日 | **[depArture](https://zh.wikipedia.org/wiki/depArture "wikilink")**（啟程）\[47\]                    | 4                                       | [啟程之歌](../Page/啟程之歌_\(AAA單曲\).md "wikilink")                                  | 3張細碟6首單曲+7首原創      |
 | 5th  | 2010年2月17日 | **[HEARTFUL](../Page/HEARTFUL.md "wikilink")**（全心全意）\[48\]                                       | 3                                       | [Heart and Soul](../Page/Heart_and_Soul_\(AAA單曲\).md "wikilink")              | 3張細碟4首單曲+10首原創     |
-| 6th  | 2011年2月16日 | **[Buzz Communication](../Page/Buzz_Communication.md "wikilink")**（引領風潮）\[49\]                   | 4                                       | [重要的事同步](../Page/重要的事.md "wikilink")                                          | 4張細碟10首單曲+4首原創     |
+| 6th  | 2011年2月16日 | **[Buzz Communication](../Page/Buzz_Communication.md "wikilink")**（引領風潮）\[49\]                   | 4                                       | [重要的事](../Page/重要的事.md "wikilink")同步                                          | 4張細碟10首單曲+4首原創     |
 | 7th  | 2012年8月22日 | **[777 ～TRIPLE SEVEN～](../Page/777_～TRIPLE_SEVEN～.md "wikilink")**\[50\]                         | 2                                       | [777 ～We can sing a song\!～](../Page/777_～We_can_sing_a_song!～.md "wikilink") | 4張細碟7首單曲+6首原創+1首特別 |
 | 8th  | 2013年9月18日 | **[Eighth Wonder](https://zh.wikipedia.org/wiki/Eighth_Wonder_\(AAA\) "wikilink")**（第八個奇蹟）\[51\] | 1                                       | [戀歌與雨天](../Page/戀歌與雨天.md "wikilink")                                          | 5張細碟9首單曲+5首原創+2首隱藏 |
 | 9th  | 2014年10月1日 | **[GOLD SYMPHONY](../Page/GOLD_SYMPHONY.md "wikilink")**（黃金樂章）                                   | 1                                       | [說再見之前](../Page/說再見之前.md "wikilink")                                          | 4張細碟6首單曲+4首原創      |
-| 10th | 2015年9月16日 | **[AAA 10th ANNIVERSARY BEST](../Page/AAA_10th_ANNIVERSARY_BEST.md "wikilink")**                 | 1                                       | [深愛著，卻不能愛同步](../Page/深愛著，卻不能愛.md "wikilink")                                  | 8張細碟8首單曲+2首新曲      |
+| 10th | 2015年9月16日 | **[AAA 10th ANNIVERSARY BEST](../Page/AAA_10th_ANNIVERSARY_BEST.md "wikilink")**                 | 1                                       | [深愛著，卻不能愛](../Page/深愛著，卻不能愛.md "wikilink")同步                                  | 8張細碟8首單曲+2首新曲      |
 | 11th | 2017年2月22日 | **[WAY OF GLORY](../Page/WAY_OF_GLORY.md "wikilink")**                                           | 1                                       | [MAGIC](../Page/MAGIC_\(AAA單曲\).md "wikilink")                                | 3張細碟6首單曲+6首新曲      |
 | 12th | 2018年8月29日 | **[COLOR A LIFE](../Page/COLOR_A_LIFE.md "wikilink")**                                           | 1                                       | [LIFE](../Page/LIFE_\(AAA單曲\).md "wikilink")                                  | 2張細碟2首單曲           |
 |      |            |                                                                                                  |                                         |                                                                               |                    |
@@ -581,7 +581,7 @@
 <td><p>2015年9月16日</p></td>
 <td><p><strong><a href="../Page/AAA_10th_ANNIVERSARY_BEST.md" title="wikilink">AAA 10th ANNIVERSARY BEST</a></strong></p></td>
 <td><p>1</p></td>
-<td><p><a href="../Page/深愛著，卻不能愛.md" title="wikilink">深愛著，卻不能愛同步</a></p></td>
+<td><p><a href="../Page/深愛著，卻不能愛.md" title="wikilink">深愛著，卻不能愛</a>同步</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -622,7 +622,7 @@
 <td><p>2006年9月13日</p></td>
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/ALL/2" title="wikilink">ALL/2</a></strong>[55]</p></td>
 <td><p>12</p></td>
-<td><p><a href="../Page/&quot;Q&quot;.md" title="wikilink">"Q"先行</a></p></td>
+<td><p><a href="../Page/&quot;Q&quot;.md" title="wikilink">"Q"</a>先行</p></td>
 <td><p>5張細碟5首單曲+1首原創</p></td>
 </tr>
 <tr class="odd">
@@ -1151,237 +1151,81 @@
 
 [Category:AAA](https://zh.wikipedia.org/wiki/Category:AAA "wikilink")
 
-1.  [「ＢＬＯＯＤ　ｏｎ　ＦＩＲＥ」
-    ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/music/613293/1/).ORICON
-    STYLE/2014年1月9日校对.
-2.  [「Ｆｒｉｄａｙ　Ｐａｒｔｙ」
-    ＡＡＡ](http://contents.oricon.co.jp/prof/artist/373048/products/music/616232/1/).ORICON
-    STYLE/2014年1月9日校对.
-3.  [「きれいな空」
-    ＡＡＡ](http://contents.oricon.co.jp/prof/artist/373048/products/music/621363/1/).ORICON
-    STYLE/2014年1月9日校对.
-4.  [「ＤＲＡＧＯＮ　ＦＩＲＥ」
-    ＡＡＡ](http://contents.oricon.co.jp/prof/artist/373048/products/music/625385/1/).ORICON
-    STYLE/2014年1月9日校对.
-5.  [「ハレルヤ」
-    ＡＡＡ](http://contents.oricon.co.jp/prof/artist/373048/products/music/636531/1/).ORICON
-    STYLE/2014年1月9日校对.
-6.  [「Ｓｈａｌａｌａ　キボウの歌」
-    ＡＡＡ](http://contents.oricon.co.jp/prof/artist/373048/products/music/639478/1/).ORICON
-    STYLE/2014年1月9日校对.
-7.  [「ハリケーン・リリ，ボストン・マリ」
-    ＡＡＡ](http://contents.oricon.co.jp/prof/artist/373048/products/music/648107/1/).ORICON
-    STYLE/2014年1月9日校对.
-8.  [「ソウルエッジボーイ／キモノジェットガール」
-    ＡＡＡ](http://contents.oricon.co.jp/prof/artist/373048/products/music/657614/1/).ORICON
-    STYLE/2014年1月9日校对.
-9.  [「Ｌｅｔ　ｉｔ　ｂｅａｔ！」
-    ＡＡＡ](http://contents.oricon.co.jp/prof/artist/373048/products/music/663089/1/).ORICON
-    STYLE/2014年1月9日校对.
-10. [「“Ｑ”」
-    ＡＡＡ](http://contents.oricon.co.jp/prof/artist/373048/products/music/666164/1/).ORICON
-    STYLE/2014年1月9日校对.
-11. [「チューインガム」
-    ＡＡＡ](http://contents.oricon.co.jp/prof/artist/373048/products/music/681863/1/).ORICON
-    STYLE/2014年1月9日校对.
-12. [「Ｂｌａｃｋ　＆　Ｗｈｉｔｅ」
-    ＡＡＡ](http://contents.oricon.co.jp/prof/artist/373048/products/music/686060/1/).ORICON
-    STYLE/2014年1月9日校对.
-13. [「Ｇｅｔ　チュー！／ＳＨＥの事実」
-    ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/music/701407/1/).ORICON
-    STYLE/2014年1月9日校对.
-14. [「唇からロマンチカ／Ｔｈａｔ’ｓ　Ｒｉｇｈｔ」
-    ＡＡＡ](http://contents.oricon.co.jp/prof/artist/373048/products/music/705879/1/).ORICON
-    STYLE/2014年1月9日校对.
-15. [「夏もの」
-    ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/music/714861/1/).ORICON
-    STYLE/2014年1月9日校对.
-16. [「Ｒｅｄ　Ｓｏｕｌ」
-    ＡＡＡ](http://contents.oricon.co.jp/prof/artist/373048/products/music/723393/1/).ORICON
-    STYLE/2014年1月9日校对.
-17. [「ＭＩＲＡＧＥ」
-    ＡＡＡ](http://contents.oricon.co.jp/prof/artist/373048/products/music/743437/1/).ORICON
-    STYLE/2014年1月9日校对.
-18. [「ＢＥＹＯＮＤ～カラダノカナタ」
-    ＡＡＡ](http://contents.oricon.co.jp/prof/artist/373048/products/music/755275/1/).ORICON
-    STYLE/2014年1月9日校对.
-19. [「ＭＵＳＩＣ！！！／ＺＥＲＯ」
-    ＡＡＡ](http://contents.oricon.co.jp/prof/artist/373048/products/music/772894/1/).ORICON
-    STYLE/2014年1月9日校对.
-20. [「旅ダチノウタ」
-    ＡＡＡ](http://contents.oricon.co.jp/prof/artist/373048/products/music/782295/1/).ORICON
-    STYLE/2014年1月9日校对.
-21. [「Ｓｕｍｍｅｒ　Ｒｅｖｏｌｕｔｉｏｎ／Ｂｒｅａｋ　Ｄｏｗｎ／Ｂｒｅａｋ　ｙｏｕｒ　ｎａｍｅ」
-    ＡＡＡ／西風雲](http://www.oricon.co.jp/prof/artist/485198/products/music/825503/1/).ORICON
-    STYLE/2014年1月9日校对.
-22. [「Ｈｉｄｅ－ａｗａｙ」
-    ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/music/839054/1/).ORICON
-    STYLE/2014年1月9日校对.
-23. [「Ｈｅａｒｔ　ａｎｄ　Ｓｏｕｌ（女メンバーヴァージョン（Ｃｖｅｒ．））」
-    ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/music/859793/1/).ORICON
-    STYLE/2014年1月9日校对.
-24. [「Ｄｒｅａｍ　Ａｆｔｅｒ　Ｄｒｅａｍ　～夢から醒めた夢～／逢いたい理由」
-    ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/music/864092/1).ORICON
-    STYLE/2014年1月9日校对.
-25. [「負けない心」
-    ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/music/879713/1/).ORICON
-    STYLE/2014年1月9日校对.
-26. [「Ｅｎｄｌｅｓｓ　Ｆｉｇｈｔｅｒｓ／ＰＡＲＡＤＩＳＥ（ポケモンスマッシュ！盤）」
-    ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/music/892226/1/).ORICON
-    STYLE/2014年1月9日校对.
-27. [「ダイジナコト（完全限定生産盤）（ジャケットＣ）」
-    ＡＡＡ](http://contents.oricon.co.jp/prof/artist/373048/products/music/901622/1/).ORICON
-    STYLE/2014年1月9日校对.
-28. [「Ｎｏ　ｃｒｙ　Ｎｏ　ｍｏｒｅ」
-    ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/music/912457/1/).ORICON
-    STYLE/2014年1月9日校对.
-29. [「Ｉ４Ｕ／ＣＡＬＬ（完全限定生産盤）（「劇場版テニスの王子様」盤）」
-    ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/music/927067/1/).ORICON
-    STYLE/2014年1月9日校对.
-30. [「Ｃｈａｒｇｅ　＆　Ｇｏ！／Ｌｉｇｈｔｓ」
-    ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/music/937312/1/).ORICON
-    STYLE/2014年1月9日校对.
-31. [「ＳＡＩＬＩＮＧ」
-    ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/music/949925/1/).ORICON
-    STYLE/2014年1月9日校对.
-32. [「Ｓｔｉｌｌ　Ｌｏｖｅ　Ｙｏｕ」
-    ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/music/961062/1/).ORICON
-    STYLE/2014年1月9日校对.
-33. [「７７７　～Ｗｅ　ｃａｎ　ｓｉｎｇ　ａ　ｓｏｎｇ！～（完全限定生産盤）」
-    ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/music/974173/1/).ORICON
-    STYLE/2014年1月9日校对.
-34. [「虹」
-    ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/music/988454/1/).ORICON
-    STYLE/2014年1月9日校对.
-35. [「Ｍｉｓｓ　ｙｏｕ／ほほえみの咲く場所」
-    ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/music/1002245/1/).ORICON
-    STYLE/2014年1月9日校对.
-36. [「ＰＡＲＴＹ　ＩＴ　ＵＰ」
-    ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/music/1010249/1/).ORICON
-    STYLE/2014年1月9日校对.
-37. [「Ｌｏｖｅ　Ｉｓ　Ｉｎ　Ｔｈｅ　Ａｉｒ」
-    ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/music/1023601/1/).ORICON
-    STYLE/2014年1月9日校对.
-38. [「恋音と雨空」
-    ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/music/1034693/1/).ORICON
-    STYLE/2014年1月9日校对.
-39. [「Ｌｏｖｅ」
-    ＡＡＡ](http://www.oricon.co.jp/prof/373048/products/music/1060426/1/).ORICON
-    STYLE/2015年3月14日校对.
-40. [「Ｗａｋｅ　ｕｐ！」
-    ＡＡＡ](http://www.oricon.co.jp/prof/373048/products/music/1077330/1/).ORICON
-    STYLE/2015年3月14日校对.
-41. [「さよならの前に」
-    ＡＡＡ](http://www.oricon.co.jp/prof/373048/products/music/1086206/1/).ORICON
-    STYLE/2015年3月14日校对.
-42. [「Ｉ’ｌｌ　ｂｅ　ｔｈｅｒｅ」
-    ＡＡＡ](http://www.oricon.co.jp/prof/373048/products/music/1109249/1/).ORICON
-    STYLE/2015年3月14日校对.
-43. [「Ｌｉｌ’　Ｉｎｆｉｎｉｔｙ」
-    ＡＡＡ](http://www.oricon.co.jp/prof/373048/products/music/1109249/1/).ORICON
-    STYLE/2015年3月14日校对.
-44. [「 ＡＴＴＡＣＫ」
-    ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/music/628620/1/)－ORICON
-    STYLE－2014年1月11日校对.
-45. [「ＡＬＬ」
-    ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/music/683812/1/)－ORICON
-    STYLE－2014年1月11日校对.
-46. [「ＡＲＯＵＮＤ」
-    ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/music/723390/1/)－ORICON
-    STYLE－2014年1月11日校对.
-47. [「ｄｅｐＡｒｔｕｒｅ」
-    ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/music/801122/1/)－ORICON
-    STYLE－2014年1月11日校对.
-48. [「ＨＥＡＲＴＦＵＬ」
-    ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/music/854133/1/)－ORICON
-    STYLE－2014年1月11日校对.
-49. [「Ｂｕｚｚ　Ｃｏｍｍｕｎｉｃａｔｉｏｎ」
-    ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/music/901632/1/)－ORICON
-    STYLE－2014年1月11日校对.
-50. [「７７７　～ＴＲＩＰＬＥ　ＳＥＶＥＮ～」
-    ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/music/979329/1/)－ORICON
-    STYLE－2014年1月11日校对.
-51. [「Ｅｉｇｈｔｈ　Ｗｏｎｄｅｒ」
-    ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/music/1037459/1/)－ORICON
-    STYLE－2014年1月11日校对.
-52. [「ＡＴＴＡＣＫ　ＡＬＬ　ＡＲＯＵＮＤ」
-    ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/music/750938/1/)－ORICON
-    STYLE－2014年1月11日校对.
-53. [「＃ＡＡＡＢＥＳＴ」
-    ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/music/927470/1/)－ORICON
-    STYLE－2014年1月11日校对.
-54. [「Ａｎｏｔｈｅｒ　ｓｉｄｅ　ｏｆ　＃ＡＡＡＢＥＳＴ（ＤＶＤ付）」
-    ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/music/953510/1/)－ORICON
-    STYLE－2014年1月11日校对.
-55. [「ＡＬＬ／２」
-    ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/music/668604/1/)－ORICON
-    STYLE－2014年1月11日校对.
-56. [「ａｌｏｈＡＡＡ！」
-    ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/music/696462/1/)－ORICON
-    STYLE－2014年1月11日校对.
-57. [「ＣＨＯＩＣＥ　ＩＳ　ＹＯＵＲＳ」
-    ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/music/763504/1/)－ORICON
-    STYLE－2014年1月11日校对.
-58. [「ＲＥＭＩＸ　ＡＴＴＡＣＫ」
-    ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/music/639470/1/)－ORICON
-    STYLE－2014年1月11日校对.
-59. [「Ｄｒｉｖｉｎｇ　ＭＩＸ」
-    ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/music/1051568/1/)－ORICON
-    STYLE－2014年1月11日校对.
-60. [「ＣＣＣ－ＣＨＡＬＬＥＮＧＥ　ＣＯＶＥＲ　ＣＯＬＬＥＣＴＩＯＮ－」
-    ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/music/691988/1/)－ORICON
-    STYLE－2014年1月11日校对.
-61. [「Ｂａｌｌａｄ　Ｃｏｌｌｅｃｔｉｏｎ」
-    ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/music/1010245/1/)－ORICON
-    STYLE－2014年1月11日校对.
-62. [「１ｓｔ　ＡＴＴＡＣＫ　ａｔ　ＳＨＩＢＵＹＡ－ＡＸ」
-    ＡＡＡ](http://contents.oricon.co.jp/prof/artist/373048/products/cinema/639408/1/)-ORICON
-    STYLE/2014年1月11日校对.
-63. [「２ｎｄ　ＡＴＴＡＣＫ　ａｔ　Ｚｅｐｐ　Ｔｏｋｙｏ　ｏｎ　２９ｔｈ　ｏｆ　Ｊｕｎｅ　２００６」
-    ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/cinema/671090/1/)-ORICON
-    STYLE/2014年1月11日校对.
-64. [「１ｓｔ　Ａｎｎｉｖｅｒｓａｒｙ　Ｌｉｖｅ－３ｒｄ　ＡＴＴＡＣＫ　０６０９１３－ａｔ　日本武道館」
-    ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/cinema/683765/1/)-ORICON
-    STYLE/2014年1月11日校对.
-65. [「Ｃｈａｎｎｅｌ＠×ＡＡＡ」
-    ＡＡＡ](http://contents.oricon.co.jp/prof/artist/373048/products/cinema/696355/1/)-ORICON
-    STYLE/2014年1月11日校对.
-66. [「ＡＡＡ　ＴＯＵＲ　２００７　４ｔｈ　ＡＴＴＡＣＫ　ａｔ　ＳＨＩＢＵＹＡ－ＡＸ　ｏｎ　４ｔｈ　ｏｆ　Ａｐｒｉｌ」
-    ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/cinema/714012/1/)-ORICON
-    STYLE/2014年1月11日校对.
-67. [「ＡＡＡ　２ｎｄ　Ａｎｎｉｖｅｒｓａｒｙ　Ｌｉｖｅ－５ｔｈ　ＡＴＴＡＣＫ　０７０９２２－日本武道館（スペシャル盤）」
-    ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/cinema/743250/1/)-ORICON
-    STYLE/2014年1月11日校对.
-68. [「ＡＡＡ　ＴＯＵＲ　２００８－ＡＴＴＡＣＫ　ＡＬＬ　ＡＲＯＵＮＤ－ａｔ　ＮＨＫ　ＨＡＬＬ　ｏｎ　４ｔｈ　ｏｆ　Ａｐｒｉｌ」
-    ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/cinema/772840/1/)-ORICON
-    STYLE/2014年1月11日校对.
-69. [「ＡＡＡ　３ｒｄ　Ａｎｎｉｖｅｒｓａｒｙ　Ｌｉｖｅ　０８０９２２－０８０９２３　日本武道館（スペシャル盤）」
-    ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/cinema/796463/1/)-ORICON
-    STYLE/2014年1月11日校对.
-70. [「Ｃｈａｎｎｅｌ＠×ＡＡＡ　其の弐」
-    ＡＡＡ](http://contents.oricon.co.jp/prof/artist/373048/products/cinema/804488/1/)-ORICON
-    STYLE/2014年1月11日校对.
-71. [「ＡＡＡ　ＴＯＵＲ　２００９－Ａ　ｄｅｐＡｒｔｕｒｅ　ｐＡｒｔｙ－」
-    ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/cinema/830191/1/)-ORICON
-    STYLE/2014年1月11日校对.
-72. [「ＡＡＡ　４ｔｈ　Ａｎｎｉｖｅｒｓａｒｙ　ＬＩＶＥ　０９０９２２　ａｔ　Ｙｏｋｏｈａｍａ　Ａｒｅｎａ」
-    ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/cinema/857351/1/)-ORICON
-    STYLE/2014年1月11日校对.
-73. [「ＡＡＡ　Ｈｅａｒｔ　ｔｏ　■　ＴＯＵＲ　２０１０」
-    ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/cinema/883834/1/)-ORICON
-    STYLE/2014年1月11日校对.
-74. [「ＡＡＡ　５ｔｈ　Ａｎｎｉｖｅｒｓａｒｙ　ＬＩＶＥ　２０１００９１２　ａｔ　Ｙｏｋｏｈａｍａ　Ａｒｅｎａ」
-    ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/cinema/904889/1/)-ORICON
-    STYLE/2014年1月11日校对.
-75. [「ＡＡＡ　ＢＵＺＺ　ＣＯＭＭＵＮＩＣＡＴＩＯＮ　ＴＯＵＲ　２０１１　ＤＥＬＵＸＥ　ＥＤＩＴＩＯＮ」
-    ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/cinema/940279/1/)-ORICON
-    STYLE/2014年1月11日校对.
-76. [「ＡＡＡ　６ｔｈ　Ａｎｎｉｖｅｒｓａｒｙ　Ｔｏｕｒ　２０１１．９．２８　ａｔ　Ｚｅｐｐ　Ｔｏｋｙｏ」
-    ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/cinema/949879/1/)-ORICON
-    STYLE/2014年1月11日校对.
-77. [「ＡＡＡ　ＴＯＵＲ　２０１２　－７７７－　ＴＲＩＰＬＥ　ＳＥＶＥＮ」
-    ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/cinema/1002303/1/)-ORICON
-    STYLE/2014年1月11日校对.
-78. [「ＡＡＡ　ＴＯＵＲ　２０１３　Ｅｉｇｈｔｈ　Ｗｏｎｄｅｒ」
-    ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/cinema/1055643/1/)-ORICON
-    STYLE/2015年3月15日校对.
+1.  [「ＢＬＯＯＤ　ｏｎ　ＦＩＲＥ」 ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/music/613293/1/).ORICON STYLE/2014年1月9日校对.
+2.  [「Ｆｒｉｄａｙ　Ｐａｒｔｙ」 ＡＡＡ](http://contents.oricon.co.jp/prof/artist/373048/products/music/616232/1/).ORICON STYLE/2014年1月9日校对.
+3.  [「きれいな空」 ＡＡＡ](http://contents.oricon.co.jp/prof/artist/373048/products/music/621363/1/).ORICON STYLE/2014年1月9日校对.
+4.  [「ＤＲＡＧＯＮ　ＦＩＲＥ」 ＡＡＡ](http://contents.oricon.co.jp/prof/artist/373048/products/music/625385/1/).ORICON STYLE/2014年1月9日校对.
+5.  [「ハレルヤ」 ＡＡＡ](http://contents.oricon.co.jp/prof/artist/373048/products/music/636531/1/).ORICON STYLE/2014年1月9日校对.
+6.  [「Ｓｈａｌａｌａ　キボウの歌」 ＡＡＡ](http://contents.oricon.co.jp/prof/artist/373048/products/music/639478/1/).ORICON STYLE/2014年1月9日校对.
+7.  [「ハリケーン・リリ，ボストン・マリ」 ＡＡＡ](http://contents.oricon.co.jp/prof/artist/373048/products/music/648107/1/).ORICON STYLE/2014年1月9日校对.
+8.  [「ソウルエッジボーイ／キモノジェットガール」 ＡＡＡ](http://contents.oricon.co.jp/prof/artist/373048/products/music/657614/1/).ORICON STYLE/2014年1月9日校对.
+9.  [「Ｌｅｔ　ｉｔ　ｂｅａｔ！」 ＡＡＡ](http://contents.oricon.co.jp/prof/artist/373048/products/music/663089/1/).ORICON STYLE/2014年1月9日校对.
+10. [「“Ｑ”」 ＡＡＡ](http://contents.oricon.co.jp/prof/artist/373048/products/music/666164/1/).ORICON STYLE/2014年1月9日校对.
+11. [「チューインガム」 ＡＡＡ](http://contents.oricon.co.jp/prof/artist/373048/products/music/681863/1/).ORICON STYLE/2014年1月9日校对.
+12. [「Ｂｌａｃｋ　＆　Ｗｈｉｔｅ」 ＡＡＡ](http://contents.oricon.co.jp/prof/artist/373048/products/music/686060/1/).ORICON STYLE/2014年1月9日校对.
+13. [「Ｇｅｔ　チュー！／ＳＨＥの事実」 ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/music/701407/1/).ORICON STYLE/2014年1月9日校对.
+14. [「唇からロマンチカ／Ｔｈａｔ’ｓ　Ｒｉｇｈｔ」 ＡＡＡ](http://contents.oricon.co.jp/prof/artist/373048/products/music/705879/1/).ORICON STYLE/2014年1月9日校对.
+15. [「夏もの」 ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/music/714861/1/).ORICON STYLE/2014年1月9日校对.
+16. [「Ｒｅｄ　Ｓｏｕｌ」 ＡＡＡ](http://contents.oricon.co.jp/prof/artist/373048/products/music/723393/1/).ORICON STYLE/2014年1月9日校对.
+17. [「ＭＩＲＡＧＥ」 ＡＡＡ](http://contents.oricon.co.jp/prof/artist/373048/products/music/743437/1/).ORICON STYLE/2014年1月9日校对.
+18. [「ＢＥＹＯＮＤ～カラダノカナタ」 ＡＡＡ](http://contents.oricon.co.jp/prof/artist/373048/products/music/755275/1/).ORICON STYLE/2014年1月9日校对.
+19. [「ＭＵＳＩＣ！！！／ＺＥＲＯ」 ＡＡＡ](http://contents.oricon.co.jp/prof/artist/373048/products/music/772894/1/).ORICON STYLE/2014年1月9日校对.
+20. [「旅ダチノウタ」 ＡＡＡ](http://contents.oricon.co.jp/prof/artist/373048/products/music/782295/1/).ORICON STYLE/2014年1月9日校对.
+21. [「Ｓｕｍｍｅｒ　Ｒｅｖｏｌｕｔｉｏｎ／Ｂｒｅａｋ　Ｄｏｗｎ／Ｂｒｅａｋ　ｙｏｕｒ　ｎａｍｅ」 ＡＡＡ／西風雲](http://www.oricon.co.jp/prof/artist/485198/products/music/825503/1/).ORICON STYLE/2014年1月9日校对.
+22. [「Ｈｉｄｅ－ａｗａｙ」 ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/music/839054/1/).ORICON STYLE/2014年1月9日校对.
+23. [「Ｈｅａｒｔ　ａｎｄ　Ｓｏｕｌ（女メンバーヴァージョン（Ｃｖｅｒ．））」 ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/music/859793/1/).ORICON STYLE/2014年1月9日校对.
+24. [「Ｄｒｅａｍ　Ａｆｔｅｒ　Ｄｒｅａｍ　～夢から醒めた夢～／逢いたい理由」 ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/music/864092/1).ORICON STYLE/2014年1月9日校对.
+25. [「負けない心」 ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/music/879713/1/).ORICON STYLE/2014年1月9日校对.
+26. [「Ｅｎｄｌｅｓｓ　Ｆｉｇｈｔｅｒｓ／ＰＡＲＡＤＩＳＥ（ポケモンスマッシュ！盤）」 ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/music/892226/1/).ORICON STYLE/2014年1月9日校对.
+27. [「ダイジナコト（完全限定生産盤）（ジャケットＣ）」 ＡＡＡ](http://contents.oricon.co.jp/prof/artist/373048/products/music/901622/1/).ORICON STYLE/2014年1月9日校对.
+28. [「Ｎｏ　ｃｒｙ　Ｎｏ　ｍｏｒｅ」 ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/music/912457/1/).ORICON STYLE/2014年1月9日校对.
+29. [「Ｉ４Ｕ／ＣＡＬＬ（完全限定生産盤）（「劇場版テニスの王子様」盤）」 ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/music/927067/1/).ORICON STYLE/2014年1月9日校对.
+30. [「Ｃｈａｒｇｅ　＆　Ｇｏ！／Ｌｉｇｈｔｓ」 ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/music/937312/1/).ORICON STYLE/2014年1月9日校对.
+31. [「ＳＡＩＬＩＮＧ」 ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/music/949925/1/).ORICON STYLE/2014年1月9日校对.
+32. [「Ｓｔｉｌｌ　Ｌｏｖｅ　Ｙｏｕ」 ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/music/961062/1/).ORICON STYLE/2014年1月9日校对.
+33. [「７７７　～Ｗｅ　ｃａｎ　ｓｉｎｇ　ａ　ｓｏｎｇ！～（完全限定生産盤）」 ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/music/974173/1/).ORICON STYLE/2014年1月9日校对.
+34. [「虹」 ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/music/988454/1/).ORICON STYLE/2014年1月9日校对.
+35. [「Ｍｉｓｓ　ｙｏｕ／ほほえみの咲く場所」 ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/music/1002245/1/).ORICON STYLE/2014年1月9日校对.
+36. [「ＰＡＲＴＹ　ＩＴ　ＵＰ」 ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/music/1010249/1/).ORICON STYLE/2014年1月9日校对.
+37. [「Ｌｏｖｅ　Ｉｓ　Ｉｎ　Ｔｈｅ　Ａｉｒ」 ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/music/1023601/1/).ORICON STYLE/2014年1月9日校对.
+38. [「恋音と雨空」 ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/music/1034693/1/).ORICON STYLE/2014年1月9日校对.
+39. [「Ｌｏｖｅ」 ＡＡＡ](http://www.oricon.co.jp/prof/373048/products/music/1060426/1/).ORICON STYLE/2015年3月14日校对.
+40. [「Ｗａｋｅ　ｕｐ！」 ＡＡＡ](http://www.oricon.co.jp/prof/373048/products/music/1077330/1/).ORICON STYLE/2015年3月14日校对.
+41. [「さよならの前に」 ＡＡＡ](http://www.oricon.co.jp/prof/373048/products/music/1086206/1/).ORICON STYLE/2015年3月14日校对.
+42. [「Ｉ’ｌｌ　ｂｅ　ｔｈｅｒｅ」 ＡＡＡ](http://www.oricon.co.jp/prof/373048/products/music/1109249/1/).ORICON STYLE/2015年3月14日校对.
+43. [「Ｌｉｌ’　Ｉｎｆｉｎｉｔｙ」 ＡＡＡ](http://www.oricon.co.jp/prof/373048/products/music/1109249/1/).ORICON STYLE/2015年3月14日校对.
+44. [「 ＡＴＴＡＣＫ」 ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/music/628620/1/)－ORICON STYLE－2014年1月11日校对.
+45. [「ＡＬＬ」 ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/music/683812/1/)－ORICON STYLE－2014年1月11日校对.
+46. [「ＡＲＯＵＮＤ」 ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/music/723390/1/)－ORICON STYLE－2014年1月11日校对.
+47. [「ｄｅｐＡｒｔｕｒｅ」 ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/music/801122/1/)－ORICON STYLE－2014年1月11日校对.
+48. [「ＨＥＡＲＴＦＵＬ」 ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/music/854133/1/)－ORICON STYLE－2014年1月11日校对.
+49. [「Ｂｕｚｚ　Ｃｏｍｍｕｎｉｃａｔｉｏｎ」 ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/music/901632/1/)－ORICON STYLE－2014年1月11日校对.
+50. [「７７７　～ＴＲＩＰＬＥ　ＳＥＶＥＮ～」 ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/music/979329/1/)－ORICON STYLE－2014年1月11日校对.
+51. [「Ｅｉｇｈｔｈ　Ｗｏｎｄｅｒ」 ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/music/1037459/1/)－ORICON STYLE－2014年1月11日校对.
+52. [「ＡＴＴＡＣＫ　ＡＬＬ　ＡＲＯＵＮＤ」 ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/music/750938/1/)－ORICON STYLE－2014年1月11日校对.
+53. [「＃ＡＡＡＢＥＳＴ」 ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/music/927470/1/)－ORICON STYLE－2014年1月11日校对.
+54. [「Ａｎｏｔｈｅｒ　ｓｉｄｅ　ｏｆ　＃ＡＡＡＢＥＳＴ（ＤＶＤ付）」 ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/music/953510/1/)－ORICON STYLE－2014年1月11日校对.
+55. [「ＡＬＬ／２」 ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/music/668604/1/)－ORICON STYLE－2014年1月11日校对.
+56. [「ａｌｏｈＡＡＡ！」 ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/music/696462/1/)－ORICON STYLE－2014年1月11日校对.
+57. [「ＣＨＯＩＣＥ　ＩＳ　ＹＯＵＲＳ」 ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/music/763504/1/)－ORICON STYLE－2014年1月11日校对.
+58. [「ＲＥＭＩＸ　ＡＴＴＡＣＫ」 ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/music/639470/1/)－ORICON STYLE－2014年1月11日校对.
+59. [「Ｄｒｉｖｉｎｇ　ＭＩＸ」 ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/music/1051568/1/)－ORICON STYLE－2014年1月11日校对.
+60. [「ＣＣＣ－ＣＨＡＬＬＥＮＧＥ　ＣＯＶＥＲ　ＣＯＬＬＥＣＴＩＯＮ－」 ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/music/691988/1/)－ORICON STYLE－2014年1月11日校对.
+61. [「Ｂａｌｌａｄ　Ｃｏｌｌｅｃｔｉｏｎ」 ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/music/1010245/1/)－ORICON STYLE－2014年1月11日校对.
+62. [「１ｓｔ　ＡＴＴＡＣＫ　ａｔ　ＳＨＩＢＵＹＡ－ＡＸ」 ＡＡＡ](http://contents.oricon.co.jp/prof/artist/373048/products/cinema/639408/1/)-ORICON STYLE/2014年1月11日校对.
+63. [「２ｎｄ　ＡＴＴＡＣＫ　ａｔ　Ｚｅｐｐ　Ｔｏｋｙｏ　ｏｎ　２９ｔｈ　ｏｆ　Ｊｕｎｅ　２００６」 ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/cinema/671090/1/)-ORICON STYLE/2014年1月11日校对.
+64. [「１ｓｔ　Ａｎｎｉｖｅｒｓａｒｙ　Ｌｉｖｅ－３ｒｄ　ＡＴＴＡＣＫ　０６０９１３－ａｔ　日本武道館」 ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/cinema/683765/1/)-ORICON STYLE/2014年1月11日校对.
+65. [「Ｃｈａｎｎｅｌ＠×ＡＡＡ」 ＡＡＡ](http://contents.oricon.co.jp/prof/artist/373048/products/cinema/696355/1/)-ORICON STYLE/2014年1月11日校对.
+66. [「ＡＡＡ　ＴＯＵＲ　２００７　４ｔｈ　ＡＴＴＡＣＫ　ａｔ　ＳＨＩＢＵＹＡ－ＡＸ　ｏｎ　４ｔｈ　ｏｆ　Ａｐｒｉｌ」 ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/cinema/714012/1/)-ORICON STYLE/2014年1月11日校对.
+67. [「ＡＡＡ　２ｎｄ　Ａｎｎｉｖｅｒｓａｒｙ　Ｌｉｖｅ－５ｔｈ　ＡＴＴＡＣＫ　０７０９２２－日本武道館（スペシャル盤）」 ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/cinema/743250/1/)-ORICON STYLE/2014年1月11日校对.
+68. [「ＡＡＡ　ＴＯＵＲ　２００８－ＡＴＴＡＣＫ　ＡＬＬ　ＡＲＯＵＮＤ－ａｔ　ＮＨＫ　ＨＡＬＬ　ｏｎ　４ｔｈ　ｏｆ　Ａｐｒｉｌ」 ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/cinema/772840/1/)-ORICON STYLE/2014年1月11日校对.
+69. [「ＡＡＡ　３ｒｄ　Ａｎｎｉｖｅｒｓａｒｙ　Ｌｉｖｅ　０８０９２２－０８０９２３　日本武道館（スペシャル盤）」 ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/cinema/796463/1/)-ORICON STYLE/2014年1月11日校对.
+70. [「Ｃｈａｎｎｅｌ＠×ＡＡＡ　其の弐」 ＡＡＡ](http://contents.oricon.co.jp/prof/artist/373048/products/cinema/804488/1/)-ORICON STYLE/2014年1月11日校对.
+71. [「ＡＡＡ　ＴＯＵＲ　２００９－Ａ　ｄｅｐＡｒｔｕｒｅ　ｐＡｒｔｙ－」 ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/cinema/830191/1/)-ORICON STYLE/2014年1月11日校对.
+72. [「ＡＡＡ　４ｔｈ　Ａｎｎｉｖｅｒｓａｒｙ　ＬＩＶＥ　０９０９２２　ａｔ　Ｙｏｋｏｈａｍａ　Ａｒｅｎａ」 ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/cinema/857351/1/)-ORICON STYLE/2014年1月11日校对.
+73. [「ＡＡＡ　Ｈｅａｒｔ　ｔｏ　■　ＴＯＵＲ　２０１０」 ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/cinema/883834/1/)-ORICON STYLE/2014年1月11日校对.
+74. [「ＡＡＡ　５ｔｈ　Ａｎｎｉｖｅｒｓａｒｙ　ＬＩＶＥ　２０１００９１２　ａｔ　Ｙｏｋｏｈａｍａ　Ａｒｅｎａ」 ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/cinema/904889/1/)-ORICON STYLE/2014年1月11日校对.
+75. [「ＡＡＡ　ＢＵＺＺ　ＣＯＭＭＵＮＩＣＡＴＩＯＮ　ＴＯＵＲ　２０１１　ＤＥＬＵＸＥ　ＥＤＩＴＩＯＮ」 ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/cinema/940279/1/)-ORICON STYLE/2014年1月11日校对.
+76. [「ＡＡＡ　６ｔｈ　Ａｎｎｉｖｅｒｓａｒｙ　Ｔｏｕｒ　２０１１．９．２８　ａｔ　Ｚｅｐｐ　Ｔｏｋｙｏ」 ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/cinema/949879/1/)-ORICON STYLE/2014年1月11日校对.
+77. [「ＡＡＡ　ＴＯＵＲ　２０１２　－７７７－　ＴＲＩＰＬＥ　ＳＥＶＥＮ」 ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/cinema/1002303/1/)-ORICON STYLE/2014年1月11日校对.
+78. [「ＡＡＡ　ＴＯＵＲ　２０１３　Ｅｉｇｈｔｈ　Ｗｏｎｄｅｒ」 ＡＡＡ](http://www.oricon.co.jp/prof/artist/373048/products/cinema/1055643/1/)-ORICON STYLE/2015年3月15日校对.

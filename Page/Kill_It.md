@@ -1,6 +1,4 @@
-《**Kill It**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")
-[OCN於](https://zh.wikipedia.org/wiki/OCN "wikilink")2019年3月23日起播出的[經典系列週末電視劇](../Page/OCN_Original_Series.md "wikilink")。由《[百日的郎君](../Page/百日的郎君.md "wikilink")》的南成宇導演執導，孫賢秀、崔明鎮作家共同執筆。本劇講述爲了尋找家人而殺人的殺手和爲了揭開戀人死亡之謎而追捕他的刑警。這兩位需要互相較勁的男女，在不得不向對方開槍的命運中，所上演的追擊愛情故事。
-\[1\]\[2\]\[3\]\[4\]\[5\]
+《**Kill It**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink") [OCN於](https://zh.wikipedia.org/wiki/OCN "wikilink")2019年3月23日起播出的[經典系列週末電視劇](../Page/OCN_Original_Series.md "wikilink")。由《[百日的郎君](../Page/百日的郎君.md "wikilink")》的南成宇導演執導，孫賢秀、崔明鎮作家共同執筆。本劇講述爲了尋找家人而殺人的殺手和爲了揭開戀人死亡之謎而追捕他的刑警。這兩位需要互相較勁的男女，在不得不向對方開槍的命運中，所上演的追擊愛情故事。 \[1\]\[2\]\[3\]\[4\]\[5\]
 
 台灣由[愛奇藝台灣站](https://zh.wikipedia.org/wiki/愛奇藝台灣站 "wikilink")3月24日起每周日一上午10點獨家跟播。
 
@@ -287,10 +285,7 @@
 
   - [OCN官方網站](http://program.tving.com/ocn/killit/)
 
-[Category:2019年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2019年韓國電視劇集 "wikilink")
-[Category:OCN_Original_Series](https://zh.wikipedia.org/wiki/Category:OCN_Original_Series "wikilink")
-[Category:OCN電視劇](https://zh.wikipedia.org/wiki/Category:OCN電視劇 "wikilink")
-[Category:殺手主角題材作品](https://zh.wikipedia.org/wiki/Category:殺手主角題材作品 "wikilink")
+[Category:2019年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2019年韓國電視劇集 "wikilink") [Category:OCN_Original_Series](https://zh.wikipedia.org/wiki/Category:OCN_Original_Series "wikilink") [Category:OCN電視劇](https://zh.wikipedia.org/wiki/Category:OCN電視劇 "wikilink") [Category:殺手主角題材作品](https://zh.wikipedia.org/wiki/Category:殺手主角題材作品 "wikilink")
 
 1.
 2.

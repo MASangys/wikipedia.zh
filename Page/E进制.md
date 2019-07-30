@@ -1,8 +1,8 @@
-**e进制**是以[自然對數的](../Page/自然對數.md "wikilink")[底數](https://zh.wikipedia.org/wiki/底數 "wikilink")——[e作為](https://zh.wikipedia.org/wiki/e_\(常數\) "wikilink")[進位制](https://zh.wikipedia.org/wiki/進位制 "wikilink")[底數的](https://zh.wikipedia.org/wiki/底數 "wikilink")[进制](https://zh.wikipedia.org/wiki/进制 "wikilink")。類似於[三进制](https://zh.wikipedia.org/wiki/三进制 "wikilink")，通常使用0、1、2三个数字來表達，但由於除了0、1和2之外大部分的整數在e进制中皆需要用[無窮小數來表示](https://zh.wikipedia.org/wiki/無窮小數 "wikilink")，因此不是一個實用的進位制，但在[底數經濟度模型中](../Page/底數經濟度.md "wikilink")，e进制被認為是最高效率的進位制\[1\]\[2\]。
+**e进制**是以[自然對數](../Page/自然對數.md "wikilink")的[底數](https://zh.wikipedia.org/wiki/底數 "wikilink")——[e作為](https://zh.wikipedia.org/wiki/e_\(常數\) "wikilink")[進位制](https://zh.wikipedia.org/wiki/進位制 "wikilink")[底數的](https://zh.wikipedia.org/wiki/底數 "wikilink")[进制](https://zh.wikipedia.org/wiki/进制 "wikilink")。類似於[三进制](https://zh.wikipedia.org/wiki/三进制 "wikilink")，通常使用0、1、2三个数字來表達，但由於除了0、1和2之外大部分的整數在e进制中皆需要用[無窮小數來表示](https://zh.wikipedia.org/wiki/無窮小數 "wikilink")，因此不是一個實用的進位制，但在[底數經濟度](../Page/底數經濟度.md "wikilink")模型中，e进制被認為是最高效率的進位制\[1\]\[2\]。
 
 ## 性質
 
-在e进制中，[自然對數的行為與十進制中的](../Page/自然對數.md "wikilink")[常用對數類似](../Page/常用對數.md "wikilink")\[3\]，例如：
+在e进制中，[自然對數](../Page/自然對數.md "wikilink")的行為與十進制中的[常用對數](../Page/常用對數.md "wikilink")類似\[3\]，例如：
 
 \[\ln 1_{\left(e\right)} = 0\]
 
@@ -14,15 +14,13 @@
 
 ## e进制效率
 
-在[底數經濟度模型中](../Page/底數經濟度.md "wikilink")，e进制被認為是最高效率的進位制。
+在[底數經濟度](../Page/底數經濟度.md "wikilink")模型中，e进制被認為是最高效率的進位制。
 
-當一個數用\(x\)進位（\(x>0, x \in \mathbb{R}\)）表達時，每個位數需要\(x\)種符號表達，若要表達一個n位數字要儲存的元素\(N(x)\)
-は：
+當一個數用\(x\)進位（\(x>0, x \in \mathbb{R}\)）表達時，每個位數需要\(x\)種符號表達，若要表達一個n位數字要儲存的元素\(N(x)\) は：
 
 \[N(x) = nx\] 而\(x\)進制系統中表示的n位數的資訊量\(I\)（\(I>x\)）則有：
 
-\[I = x^n \Leftrightarrow n = \log_{x}I = \frac{\ln I}{\ln x}\]
-因此，在\(x\)進制系統中以n位數能表示I的信息量所需的存儲元素數\(N(x)\)為：
+\[I = x^n \Leftrightarrow n = \log_{x}I = \frac{\ln I}{\ln x}\] 因此，在\(x\)進制系統中以n位數能表示I的信息量所需的存儲元素數\(N(x)\)為：
 
 \[N(x) = nx = \ln I \cdot \frac{x}{\ln x}\] 在
 
@@ -65,14 +63,10 @@ e進制中，除了0、1和2之外，其他[整數皆需要以無窮不循環小
 
 常见无理数的*e*进制表示如下：
 
-  - [π](https://zh.wikipedia.org/wiki/Pi "wikilink") ≈ 10.1010 0202 0002
-    1111 2002 0101 1200 0101 ...<sub>(*e*)</sub>
-  - *[e](https://zh.wikipedia.org/wiki/e_\(数学常数\) "wikilink")* =
-    10<sub>(*e*)</sub> （在此計數系統為整數）
-  - [√2](https://zh.wikipedia.org/wiki/根号2 "wikilink") ≈ 1.1002 1101
-    1011 1211 2000 1121 0000 0001 ...<sub>(*e*)</sub>
-  - [φ](https://zh.wikipedia.org/wiki/黄金分割 "wikilink") = (1+√5)/2 ≈
-    1.1120 2012 1110 0100 2000 0201 2001 1100 ...<sub>(*e*)</sub>
+  - [π](https://zh.wikipedia.org/wiki/Pi "wikilink") ≈ 10.1010 0202 0002 1111 2002 0101 1200 0101 ...<sub>(*e*)</sub>
+  - *[e](https://zh.wikipedia.org/wiki/e_\(数学常数\) "wikilink")* = 10<sub>(*e*)</sub> （在此計數系統為整數）
+  - [√2](https://zh.wikipedia.org/wiki/根号2 "wikilink") ≈ 1.1002 1101 1011 1211 2000 1121 0000 0001 ...<sub>(*e*)</sub>
+  - [φ](https://zh.wikipedia.org/wiki/黄金分割 "wikilink") = (1+√5)/2 ≈ 1.1120 2012 1110 0100 2000 0201 2001 1100 ...<sub>(*e*)</sub>
 
 ## 參見
 

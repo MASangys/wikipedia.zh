@@ -1,13 +1,8 @@
-**《TAEYEON, Butterfly
-Kiss》**是韓國女子組合[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[太妍個人首場演唱會](https://zh.wikipedia.org/wiki/金太妍 "wikilink")。
+**《TAEYEON, Butterfly Kiss》**是韓國女子組合[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[太妍個人首場演唱會](https://zh.wikipedia.org/wiki/金太妍 "wikilink")。
 
 ## 概要
 
-2016年3月26日[SM娛樂曾表示](../Page/SM娛樂.md "wikilink")[太妍將在](https://zh.wikipedia.org/wiki/金太妍 "wikilink")4月23-24日，舉辦個人演唱會《TAEYEON,
-Butterfly
-Kiss》。\[1\]\[2\]3月30日[SM娛樂在](../Page/SM娛樂.md "wikilink")[少女時代透過官網公告](https://zh.wikipedia.org/wiki/少女時代 "wikilink")，「原定4月23-24日舉行的《TAEYEON,
-Butterfly
-Kiss》演唱會，因為企劃公司方面的原因，將暫時延期。」並向媒體表示「為了提高公演的完整度，預計會延後到下半年舉行，我們會盡快公告變更後的公演日期，請粉絲多多諒解。」\[3\]\[4\]5月24日[SM娛樂確定](../Page/SM娛樂.md "wikilink")[太妍個人演唱會](https://zh.wikipedia.org/wiki/金太妍 "wikilink")7月9-10日會在首爾舉行，8月6-7日會在釜山開唱。\[5\]\[6\]
+2016年3月26日[SM娛樂](../Page/SM娛樂.md "wikilink")曾表示[太妍將在](https://zh.wikipedia.org/wiki/金太妍 "wikilink")4月23-24日，舉辦個人演唱會《TAEYEON, Butterfly Kiss》。\[1\]\[2\]3月30日[SM娛樂](../Page/SM娛樂.md "wikilink")在[少女時代透過官網公告](https://zh.wikipedia.org/wiki/少女時代 "wikilink")，「原定4月23-24日舉行的《TAEYEON, Butterfly Kiss》演唱會，因為企劃公司方面的原因，將暫時延期。」並向媒體表示「為了提高公演的完整度，預計會延後到下半年舉行，我們會盡快公告變更後的公演日期，請粉絲多多諒解。」\[3\]\[4\]5月24日[SM娛樂](../Page/SM娛樂.md "wikilink")確定[太妍個人演唱會](https://zh.wikipedia.org/wiki/金太妍 "wikilink")7月9-10日會在首爾舉行，8月6-7日會在釜山開唱。\[5\]\[6\]
 
 ## 演出時間表
 
@@ -83,9 +78,7 @@ Kiss》演唱會，因為企劃公司方面的原因，將暫時延期。」並�
 
 <!-- end list -->
 
-  - [SM
-    Entertainment](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")、Dream
-    Maker Entertainment
+  - [SM Entertainment](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")、Dream Maker Entertainment
 
 <!-- end list -->
 
@@ -93,9 +86,7 @@ Kiss》演唱會，因為企劃公司方面的原因，將暫時延期。」並�
 
 <!-- end list -->
 
-  - [SM
-    Entertainment](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")、Dream
-    Maker Entertainment
+  - [SM Entertainment](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")、Dream Maker Entertainment
 
 <!-- end list -->
 

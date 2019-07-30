@@ -2,12 +2,10 @@
 
 ## 注释
 
-  - 本文对[球坐标使用标准符号](https://zh.wikipedia.org/wiki/球坐标系 "wikilink")[ISO
-    80000-2](https://zh.wikipedia.org/wiki/ISO_80000-2 "wikilink")，它取代了[ISO
-    31-11](https://zh.wikipedia.org/wiki/ISO_31-11#坐标系 "wikilink")，（部分其他来源可能有着颠倒θ和φ的定义）：
+  - 本文对[球坐标使用标准符号](https://zh.wikipedia.org/wiki/球坐标系 "wikilink")[ISO 80000-2](https://zh.wikipedia.org/wiki/ISO_80000-2 "wikilink")，它取代了[ISO 31-11](https://zh.wikipedia.org/wiki/ISO_31-11#坐标系 "wikilink")，（部分其他来源可能有着颠倒θ和φ的定义）：
       - 极角表示为θ：它是在z轴与连接原点和目标点的径向向量之间的角度。
       - [方位角表示为φ](https://zh.wikipedia.org/wiki/方位角 "wikilink")：它是在x轴与径向向量在xy面上的投影之间的角度。
-  - 函数可以用于替代数学函数。这是由于它的[定义域和](../Page/定义域.md "wikilink")[像的缘故](https://zh.wikipedia.org/wiki/像_\(数学\) "wikilink")，经典arctan函数的像为，而atan2定义的像为。
+  - 函数可以用于替代数学函数。这是由于它的[定义域](../Page/定义域.md "wikilink")和[像的缘故](https://zh.wikipedia.org/wiki/像_\(数学\) "wikilink")，经典arctan函数的像为，而atan2定义的像为。
 
 ## 坐标转换
 
@@ -306,8 +304,7 @@
 
 ## 直角坐标系推导
 
-[<File:Nabla>
-cartesian.svg](https://zh.wikipedia.org/wiki/File:Nabla_cartesian.svg "fig:File:Nabla cartesian.svg")
+[<File:Nabla> cartesian.svg](https://zh.wikipedia.org/wiki/File:Nabla_cartesian.svg "fig:File:Nabla cartesian.svg")
 
 \(\begin{align}\operatorname{div} \mathbf A = \lim_{V\to 0} \frac{\iint_{\partial V} \mathbf A \cdot d\mathbf{S}}{\iiint_V dV}
 
@@ -323,8 +320,7 @@ cartesian.svg](https://zh.wikipedia.org/wiki/File:Nabla_cartesian.svg "fig:File:
 
 ## 圆柱坐标系推导
 
-[<File:Nabla>
-cylindrical2.svg](https://zh.wikipedia.org/wiki/File:Nabla_cylindrical2.svg "fig:File:Nabla cylindrical2.svg")
+[<File:Nabla> cylindrical2.svg](https://zh.wikipedia.org/wiki/File:Nabla_cylindrical2.svg "fig:File:Nabla cylindrical2.svg")
 
 \[\begin{align}
 \operatorname{div} \mathbf A &= \lim_{V\to 0} \frac{\iint_{\partial V} \mathbf A \cdot d\mathbf{S}}{\iiint_V dV} \\
@@ -357,8 +353,7 @@ cylindrical2.svg](https://zh.wikipedia.org/wiki/File:Nabla_cylindrical2.svg "fig
 
 ## 球坐标系推导
 
-[<File:Nabla>
-spherical2.svg](https://zh.wikipedia.org/wiki/File:Nabla_spherical2.svg "fig:File:Nabla spherical2.svg")
+[<File:Nabla> spherical2.svg](https://zh.wikipedia.org/wiki/File:Nabla_spherical2.svg "fig:File:Nabla spherical2.svg")
 
 \(\begin{align}\operatorname{div} \mathbf A &= \lim_{V\to 0} \frac{\iint_{\partial V} \mathbf A \cdot d\mathbf{S}}{\iiint_V dV} \\
 &= \frac{A_r(r+dr)(r+dr)d\theta\, (r+dr)\sin\theta d\phi - A_r(r)rd\theta\, r\sin\theta d\phi + A_\theta(\theta+d\theta)\sin(\theta + d\theta)\,r dr d\phi - A_\theta(\theta)\sin(\theta)\,r dr d\phi + A_\phi(\phi + d\phi) (r + dr/2)dr d\theta - A_\phi(\phi)(r + dr/2)dr d\theta}{dr\,rd\theta\,r\sin\theta d\phi} \\
@@ -391,7 +386,7 @@ spherical2.svg](https://zh.wikipedia.org/wiki/File:Nabla_spherical2.svg "fig:Fil
 
 \[{\partial\boldsymbol\vec{r} \over \partial u}={\partial{s} \over \partial u}{\boldsymbol\hat{u}}\]
 
-这里的*s*是[弧长参数](../Page/弧长.md "wikilink")。
+这里的*s*是[弧长](../Page/弧长.md "wikilink")参数。
 
 对于两组坐标系\(u_i\)和\(v_j\)，依据[链式法则](../Page/链式法则.md "wikilink")：
 
@@ -412,15 +407,10 @@ spherical2.svg](https://zh.wikipedia.org/wiki/File:Nabla_spherical2.svg "fig:Fil
 
 ## 外部链接
 
-  - [Maxima Computer Algebra system
-    scripts](http://www.csulb.edu/~woollett/) to generate some of these
-    operators in cylindrical and spherical coordinates.
-  - [Curl, Divergence, and Gradient in Cylindrical and Spherical
-    Coordinate
-    Systems](https://ece.illinois.edu/webooks/nnrao2009/12%20Rao%20Fundamentals%202009%20appB.pdf).
+  - [Maxima Computer Algebra system scripts](http://www.csulb.edu/~woollett/) to generate some of these operators in cylindrical and spherical coordinates.
+  - [Curl, Divergence, and Gradient in Cylindrical and Spherical Coordinate Systems](https://ece.illinois.edu/webooks/nnrao2009/12%20Rao%20Fundamentals%202009%20appB.pdf).
 
-[Category:向量分析](https://zh.wikipedia.org/wiki/Category:向量分析 "wikilink")
-[Category:坐标系](https://zh.wikipedia.org/wiki/Category:坐标系 "wikilink")
+[Category:向量分析](https://zh.wikipedia.org/wiki/Category:向量分析 "wikilink") [Category:坐标系](https://zh.wikipedia.org/wiki/Category:坐标系 "wikilink")
 
 1.
 

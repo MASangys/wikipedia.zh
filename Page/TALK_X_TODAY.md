@@ -1,16 +1,8 @@
-《**TALK X TODAY**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Big
-Hit娛樂公司旗下](../Page/Big_Hit娛樂.md "wikilink")[男子音樂團體](https://zh.wikipedia.org/wiki/男子音樂團體 "wikilink")[TOMORROW
-X
-TOGETHER的第一個](https://zh.wikipedia.org/wiki/TOMORROW_X_TOGETHER "wikilink")[真人實境秀](../Page/真人實境秀.md "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")。\[1\]是由TOMORROW
-X TOGETHER親自掌鏡拍攝出道前的日常紀錄節目，並由團員親自打上字幕。\[2\]節目於[V
-LIVE播出在韓國時間](../Page/NAVER.md "wikilink")2019年3月11日晚上8點一次公開5集，並於3月12日公開最後一集，總共6集。
+《**TALK X TODAY**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Big Hit娛樂公司旗下](../Page/Big_Hit娛樂.md "wikilink")[男子音樂團體](https://zh.wikipedia.org/wiki/男子音樂團體 "wikilink")[TOMORROW X TOGETHER的第一個](https://zh.wikipedia.org/wiki/TOMORROW_X_TOGETHER "wikilink")[真人實境秀](../Page/真人實境秀.md "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")。\[1\]是由TOMORROW X TOGETHER親自掌鏡拍攝出道前的日常紀錄節目，並由團員親自打上字幕。\[2\]節目於[V LIVE播出在韓國時間](../Page/NAVER.md "wikilink")2019年3月11日晚上8點一次公開5集，並於3月12日公開最後一集，總共6集。
 
 ## 節目簡介
 
-TALK X TODAY主要為紀錄2019年1月初至3月出道前TOMORROW X
-TOGETHER的日常，內容包括個人VLOG、團體VLOG、練習花絮及與製作人Slow
-Rabbit在錄音室製作與準備出道迷你專輯《[The Dream Chapter:
-STAR](https://zh.wikipedia.org/wiki/The_Dream_Chapter:_STAR "wikilink")》的過程
+TALK X TODAY主要為紀錄2019年1月初至3月出道前TOMORROW X TOGETHER的日常，內容包括個人VLOG、團體VLOG、練習花絮及與製作人Slow Rabbit在錄音室製作與準備出道迷你專輯《[The Dream Chapter: STAR](https://zh.wikipedia.org/wiki/The_Dream_Chapter:_STAR "wikilink")》的過程
 
 ## 演出成員
 
@@ -186,16 +178,10 @@ STAR](https://zh.wikipedia.org/wiki/The_Dream_Chapter:_STAR "wikilink")》的過
 
 ## 外部連結
 
-  - [TOMORROW X
-    TOGETHER](https://www.vlive.tv/video/117383/playlist/)的[V
-    LIVE頻道](../Page/NAVER.md "wikilink")
-  - [TOMORROW X
-    TOGETHER](https://www.youtube.com/playlist?list=PLcZxoPUYVQX1dffyKtyNYpWWl40COUDz2)的[YouTube頻道](../Page/YouTube.md "wikilink")
+  - [TOMORROW X TOGETHER](https://www.vlive.tv/video/117383/playlist/)的[V LIVE頻道](../Page/NAVER.md "wikilink")
+  - [TOMORROW X TOGETHER](https://www.youtube.com/playlist?list=PLcZxoPUYVQX1dffyKtyNYpWWl40COUDz2)的[YouTube](../Page/YouTube.md "wikilink")頻道
 
-[Category:TXT](https://zh.wikipedia.org/wiki/Category:TXT "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:真人秀節目](https://zh.wikipedia.org/wiki/Category:真人秀節目 "wikilink")
-[Category:偶像節目](https://zh.wikipedia.org/wiki/Category:偶像節目 "wikilink")
+[Category:TXT](https://zh.wikipedia.org/wiki/Category:TXT "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:真人秀節目](https://zh.wikipedia.org/wiki/Category:真人秀節目 "wikilink") [Category:偶像節目](https://zh.wikipedia.org/wiki/Category:偶像節目 "wikilink")
 
 1.
 2.

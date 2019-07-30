@@ -1,4 +1,4 @@
-**JR野江站**（）是一個位於[日本](../Page/日本.md "wikilink")[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")[大阪市](../Page/大阪市.md "wikilink")[城東區野江](../Page/城東區_\(大阪市\).md "wikilink")，屬於[西日本旅客鐵道](../Page/西日本旅客鐵道.md "wikilink")（JR西日本）[大阪東線的](../Page/大阪東線.md "wikilink")[鐵路車站](https://zh.wikipedia.org/wiki/鐵路車站 "wikilink")\[1\]。車站編號是**JR-F06**。
+**JR野江站**（）是一個位於[日本](../Page/日本.md "wikilink")[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")[大阪市](../Page/大阪市.md "wikilink")[城東區野江](../Page/城東區_\(大阪市\).md "wikilink")，屬於[西日本旅客鐵道](../Page/西日本旅客鐵道.md "wikilink")（JR西日本）[大阪東線](../Page/大阪東線.md "wikilink")的[鐵路車站](https://zh.wikipedia.org/wiki/鐵路車站 "wikilink")\[1\]。車站編號是**JR-F06**。
 
 ## 歷史
 
@@ -7,8 +7,7 @@
 
 ## 車站構造
 
-[Jr-noe-home.jpg](https://zh.wikipedia.org/wiki/File:Jr-noe-home.jpg "fig:Jr-noe-home.jpg")
-對向式月台2面2線的高架車站，可對應8節編組。各月台設有[升降機](https://zh.wikipedia.org/wiki/升降機 "wikilink")1座，[扶手電梯各月台](https://zh.wikipedia.org/wiki/扶手電梯 "wikilink")2座（上下）共計4座。
+[Jr-noe-home.jpg](https://zh.wikipedia.org/wiki/File:Jr-noe-home.jpg "fig:Jr-noe-home.jpg") 對向式月台2面2線的高架車站，可對應8節編組。各月台設有[升降機](https://zh.wikipedia.org/wiki/升降機 "wikilink")1座，[扶手電梯各月台](https://zh.wikipedia.org/wiki/扶手電梯 "wikilink")2座（上下）共計4座。
 
 不設置[綠窗口](../Page/綠窗口.md "wikilink")，只設置。
 
@@ -38,7 +37,7 @@
 
 ## 轉乘路線
 
-  - [京阪電車](https://zh.wikipedia.org/wiki/京阪電車 "wikilink")[京阪本線野江站](../Page/京阪本線.md "wikilink")：步行距離約160公尺
+  - [京阪電車](https://zh.wikipedia.org/wiki/京阪電車 "wikilink")[京阪本線](../Page/京阪本線.md "wikilink")野江站：步行距離約160公尺
   - [大阪地下鐵](https://zh.wikipedia.org/wiki/大阪地下鐵 "wikilink")[谷町線](https://zh.wikipedia.org/wiki/谷町線 "wikilink")[野江內代站](../Page/野江內代站.md "wikilink")：步行距離約600公尺
 
 ## 相鄰車站
@@ -66,9 +65,6 @@
 ## 外部連結
 
   -
-[Category:城東區鐵路車站_(大阪市)](https://zh.wikipedia.org/wiki/Category:城東區鐵路車站_\(大阪市\) "wikilink")
-[Category:日本鐵路車站_Je](https://zh.wikipedia.org/wiki/Category:日本鐵路車站_Je "wikilink")
-[Category:大阪東線車站](https://zh.wikipedia.org/wiki/Category:大阪東線車站 "wikilink")
-[Category:2019年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:2019年啟用的鐵路車站 "wikilink")
+[Category:城東區鐵路車站_(大阪市)](https://zh.wikipedia.org/wiki/Category:城東區鐵路車站_\(大阪市\) "wikilink") [Category:日本鐵路車站_Je](https://zh.wikipedia.org/wiki/Category:日本鐵路車站_Je "wikilink") [Category:大阪東線車站](https://zh.wikipedia.org/wiki/Category:大阪東線車站 "wikilink") [Category:2019年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:2019年啟用的鐵路車站 "wikilink")
 
 1.

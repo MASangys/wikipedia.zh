@@ -1,6 +1,6 @@
 《**Light**》是中国组合[火箭少女101的歌曲](https://zh.wikipedia.org/wiki/火箭少女101 "wikilink")，收录于她们的首张迷你专辑《撞》。这首歌曲是由[吴青峰和欧中建共同创作](https://zh.wikipedia.org/wiki/吴青峰 "wikilink")。作为专辑的第二支单曲，于2018年9月14日发行。《Light》是一首带有民谣元素的[流行歌曲](https://zh.wikipedia.org/wiki/华语流行音乐 "wikilink")。
 
-2018年9月24至25日，火箭少女101与许倬尔在[北京](https://zh.wikipedia.org/wiki/北京 "wikilink")[凯迪拉克中心合作举办了同名艺术展](../Page/凯迪拉克中心.md "wikilink")。\[1\]
+2018年9月24至25日，火箭少女101与许倬尔在[北京](https://zh.wikipedia.org/wiki/北京 "wikilink")[凯迪拉克中心](../Page/凯迪拉克中心.md "wikilink")合作举办了同名艺术展。\[1\]
 
 ## 发行和创作
 
@@ -10,7 +10,7 @@
 
 ## 打榜
 
-歌曲发行后空降由你音乐榜第六位。\[11\]第二期升至第二位。\[12\]以及[QQ音乐内地巅峰榜第六十二位](../Page/QQ音乐.md "wikilink")，\[13\]第二周跌出榜单。
+歌曲发行后空降由你音乐榜第六位。\[11\]第二期升至第二位。\[12\]以及[QQ音乐](../Page/QQ音乐.md "wikilink")内地巅峰榜第六十二位，\[13\]第二周跌出榜单。
 
 ## 音乐视频
 
@@ -26,10 +26,8 @@
 
 <!-- end list -->
 
-  - 录制于RMB
-    Studio（[中国](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")[北京](../Page/北京市.md "wikilink")）
-  - 母带制作于821
-    Sound（[韩国](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[首尔](https://zh.wikipedia.org/wiki/首尔 "wikilink")）
+  - 录制于RMB Studio（[中国](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")[北京](../Page/北京市.md "wikilink")）
+  - 母带制作于821 Sound（[韩国](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[首尔](https://zh.wikipedia.org/wiki/首尔 "wikilink")）
 
 <!-- end list -->
 
@@ -57,7 +55,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>中国排行榜（<a href="../Page/QQ音乐.md" title="wikilink">QQ音乐内地巅峰榜</a>）[21]</p></td>
+<td><p>中国排行榜（<a href="../Page/QQ音乐.md" title="wikilink">QQ音乐</a>内地巅峰榜）[21]</p></td>
 <td><p>61</p></td>
 </tr>
 <tr class="even">
@@ -69,10 +67,7 @@
 
 ## 参考文献
 
-[Category:2018年歌曲](https://zh.wikipedia.org/wiki/Category:2018年歌曲 "wikilink")
-[Category:2018年单曲](https://zh.wikipedia.org/wiki/Category:2018年单曲 "wikilink")
-[Category:火箭少女101歌曲](https://zh.wikipedia.org/wiki/Category:火箭少女101歌曲 "wikilink")
-[Category:吴青峰创作的歌曲](https://zh.wikipedia.org/wiki/Category:吴青峰创作的歌曲 "wikilink")
+[Category:2018年歌曲](https://zh.wikipedia.org/wiki/Category:2018年歌曲 "wikilink") [Category:2018年单曲](https://zh.wikipedia.org/wiki/Category:2018年单曲 "wikilink") [Category:火箭少女101歌曲](https://zh.wikipedia.org/wiki/Category:火箭少女101歌曲 "wikilink") [Category:吴青峰创作的歌曲](https://zh.wikipedia.org/wiki/Category:吴青峰创作的歌曲 "wikilink")
 
 1.
 

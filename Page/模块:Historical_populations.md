@@ -1,5 +1,4 @@
-\-- -- This template implements  -- local p = {} local lang =
-mw.getContentLanguage()
+\-- -- This template implements  -- local p = {} local lang = mw.getContentLanguage()
 
 local function ifexist(page)
 
@@ -41,9 +40,7 @@ local function formatnum(num)
 
 end
 
-\-- this function creates an array with the {year, population, percent
-change} local function getpoprow(year, popstr, pyear, ppopstr, linktype,
-percentages, current_year)
+\-- this function creates an array with the {year, population, percent change} local function getpoprow(year, popstr, pyear, ppopstr, linktype, percentages, current_year)
 
 `   local pop, popref = splitnumandref( popstr or '')`
 `   local ppop, ppopref = splitnumandref( ppopstr or '')`
@@ -55,34 +52,27 @@ percentages, current_year)
 `   if( linktype == 'US' or linktype == 'USA' ) then`
 `       if( (yearnum or 0) >= 1790 and yearnum <= current_year and math.fmod(math.floor(yearnum), 10) == 0) then`
 `           if( yearnum < current_year ) then`
-`               year = '`[`'``   ``..``   ``year``   ``..``
- ``'`](https://zh.wikipedia.org/wiki/'_.._tostring\(yearnum\)_.._'年美国人口普查 "wikilink")`'`
+`               year = '`[`'``   ``..``   ``year``   ``..``   ``'`](https://zh.wikipedia.org/wiki/'_.._tostring\(yearnum\)_.._'年美国人口普查 "wikilink")`'`
 `           elseif( ifexist(tostring(yearnum) .. '年美国人口普查') ) then`
-`               year = '`[`'``   ``..``   ``year``   ``..``
- ``'`](https://zh.wikipedia.org/wiki/'_.._tostring\(yearnum\)_.._'年美国人口普查 "wikilink")`'`
+`               year = '`[`'``   ``..``   ``year``   ``..``   ``'`](https://zh.wikipedia.org/wiki/'_.._tostring\(yearnum\)_.._'年美国人口普查 "wikilink")`'`
 `           end`
 `       end`
 `   end`
 `   if( linktype == 'CN' or linktype == 'CHN' ) then`
 `       if( (yearnum or 0) == 1953) then`
-`           year = '`[`'``   ``..``   ``year``   ``..``
- ``'`](https://zh.wikipedia.org/wiki/'_.._tostring\(yearnum\)_.._'年中国大陆人口普查 "wikilink")`'`
+`           year = '`[`'``   ``..``   ``year``   ``..``   ``'`](https://zh.wikipedia.org/wiki/'_.._tostring\(yearnum\)_.._'年中国大陆人口普查 "wikilink")`'`
 `       end`
 `       if( (yearnum or 0) == 1964) then`
-`           year = '`[`'``   ``..``   ``year``   ``..``
- ``'`](https://zh.wikipedia.org/wiki/'_.._tostring\(yearnum\)_.._'年中国大陆人口普查 "wikilink")`'`
+`           year = '`[`'``   ``..``   ``year``   ``..``   ``'`](https://zh.wikipedia.org/wiki/'_.._tostring\(yearnum\)_.._'年中国大陆人口普查 "wikilink")`'`
 `       end`
 `       if( (yearnum or 0) == 1982) then`
-`           year = '`[`'``   ``..``   ``year``   ``..``
- ``'`](https://zh.wikipedia.org/wiki/'_.._tostring\(yearnum\)_.._'年中国大陆人口普查 "wikilink")`'`
+`           year = '`[`'``   ``..``   ``year``   ``..``   ``'`](https://zh.wikipedia.org/wiki/'_.._tostring\(yearnum\)_.._'年中国大陆人口普查 "wikilink")`'`
 `       end`
 `       if( (yearnum or 0) >= 1990 and yearnum <= current_year and math.fmod(math.floor(yearnum), 10) == 0) then`
 `           if( yearnum < current_year ) then`
-`               year = '`[`'``   ``..``   ``year``   ``..``
- ``'`](https://zh.wikipedia.org/wiki/'_.._tostring\(yearnum\)_.._'年中国大陆人口普查 "wikilink")`'`
+`               year = '`[`'``   ``..``   ``year``   ``..``   ``'`](https://zh.wikipedia.org/wiki/'_.._tostring\(yearnum\)_.._'年中国大陆人口普查 "wikilink")`'`
 `           elseif( ifexist(tostring(yearnum) .. '年中国大陆人口普查') ) then`
-`               year = '`[`'``   ``..``   ``year``   ``..``
- ``'`](https://zh.wikipedia.org/wiki/'_.._tostring\(yearnum\)_.._'年中国大陆人口普查 "wikilink")`'`
+`               year = '`[`'``   ``..``   ``year``   ``..``   ``'`](https://zh.wikipedia.org/wiki/'_.._tostring\(yearnum\)_.._'年中国大陆人口普查 "wikilink")`'`
 `           end`
 `       end`
 `   end`
@@ -111,8 +101,7 @@ percentages, current_year)
 
 end
 
-\-- this function creates an array with table header labels local
-function getheadrow(percentages, popname, yearname, percentname)
+\-- this function creates an array with table header labels local function getheadrow(percentages, popname, yearname, percentname)
 
 `   -- year cell    `
 `   if(yearname == '') then`
@@ -135,9 +124,7 @@ function getheadrow(percentages, popname, yearname, percentname)
 
 end
 
-\-- this function renders the population table in a vertical format
-local function rendervertical(data, head, title, footnote, alignfn,
-class, style, width, shading, percol, cols)
+\-- this function renders the population table in a vertical format local function rendervertical(data, head, title, footnote, alignfn, class, style, width, shading, percol, cols)
 
 `   -- define a couple helper functions`
 `   local function addrowcell(trow, tag, text, align, shading)`
@@ -284,9 +271,7 @@ class, style, width, shading, percol, cols)
 
 end
 
-\-- this function renders the population table in a horizontal format
-local function renderhorizontal(data, head, title, footnote, alignfn,
-class, style, width, shading, perrow, rows)
+\-- this function renders the population table in a horizontal format local function renderhorizontal(data, head, title, footnote, alignfn, class, style, width, shading, perrow, rows)
 
 `   local row`
 `   local cell`

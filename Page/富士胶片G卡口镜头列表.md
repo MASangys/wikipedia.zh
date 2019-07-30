@@ -1,5 +1,4 @@
-富士胶片G卡口（）是伴随富士胶片GFX
-50S推出，于2017年诞生的[镜头接环类型](https://zh.wikipedia.org/wiki/镜头卡口 "wikilink")。定位于使用中画幅规格的数码无反，外接环直径76.5mm，卡口直径65.0mm，具有26.7mm[法兰距](https://zh.wikipedia.org/wiki/法兰距 "wikilink")。
+富士胶片G卡口（）是伴随富士胶片GFX 50S推出，于2017年诞生的[镜头接环类型](https://zh.wikipedia.org/wiki/镜头卡口 "wikilink")。定位于使用中画幅规格的数码无反，外接环直径76.5mm，卡口直径65.0mm，具有26.7mm[法兰距](https://zh.wikipedia.org/wiki/法兰距 "wikilink")。
 
 本条目列制富士胶片原厂与第三方厂家生产的G卡口镜头，及可用接环等产品。
 
@@ -36,8 +35,7 @@
 
 ## 转接环
 
-富士胶片为G卡口提供转接环，可以使用GX645AF系统（H卡口）上的 Sper EBC Fujinon HC
-镜头或[哈苏镜头](../Page/哈苏.md "wikilink")，但没有[自动对焦](../Page/自动对焦.md "wikilink")\[11\]；或用于[大画幅相机的镜头](https://zh.wikipedia.org/wiki/大画幅相机 "wikilink")：
+富士胶片为G卡口提供转接环，可以使用GX645AF系统（H卡口）上的 Sper EBC Fujinon HC 镜头或[哈苏](../Page/哈苏.md "wikilink")镜头，但没有[自动对焦](../Page/自动对焦.md "wikilink")\[11\]；或用于[大画幅相机的镜头](https://zh.wikipedia.org/wiki/大画幅相机 "wikilink")：
 
   - H MOUNT ADAPTER G
   - 技术相机接环 （） \[12\]
@@ -67,9 +65,7 @@
 
   -
   -
-[Category:镜头](https://zh.wikipedia.org/wiki/Category:镜头 "wikilink")
-[Category:富士](https://zh.wikipedia.org/wiki/Category:富士 "wikilink")
-[Category:富士胶片镜头](https://zh.wikipedia.org/wiki/Category:富士胶片镜头 "wikilink")
+[Category:镜头](https://zh.wikipedia.org/wiki/Category:镜头 "wikilink") [Category:富士](https://zh.wikipedia.org/wiki/Category:富士 "wikilink") [Category:富士胶片镜头](https://zh.wikipedia.org/wiki/Category:富士胶片镜头 "wikilink")
 
 1.
 2.

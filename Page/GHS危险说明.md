@@ -1,17 +1,14 @@
-**危险说明**是[全球化学品统一](https://zh.wikipedia.org/wiki/全球化学品统一分类和标签制度 "wikilink")[分类和标签制度](https://zh.wikipedia.org/wiki/全球化学品统一分类和标签制度 "wikilink")（GHS）的一部分。它们旨在形成一套关于化学物质和混合物危害的标准化短语，可以翻译成不同的语言。\[1\]
-\[2\]因此，它们与众所周知的[R-短语具有相同的目的](../Page/警示性質標準詞列表.md "wikilink")，并旨在取代R-短语。
+**危险说明**是[全球化学品统一](https://zh.wikipedia.org/wiki/全球化学品统一分类和标签制度 "wikilink")[分类和标签制度](https://zh.wikipedia.org/wiki/全球化学品统一分类和标签制度 "wikilink")（GHS）的一部分。它们旨在形成一套关于化学物质和混合物危害的标准化短语，可以翻译成不同的语言。\[1\] \[2\]因此，它们与众所周知的[R-短语具有相同的目的](../Page/警示性質標準詞列表.md "wikilink")，并旨在取代R-短语。
 
 危险说明是全球统一制度下容器标签的关键要素之一，同时还有： \[3\]
 
   - 产品的标识
   - 一个或多个[危险象形图](../Page/GHS危險象形符號圖.md "wikilink")（ *必要时* ）
   - 提示词- **危险**或**警告**- 必要时
-  - [防范说明](../Page/GHS防范说明.md "wikilink")
-    ，说明应如何处理产品以最大限度地降低使用者（以及其他人和一般环境）的风险
+  - [防范说明](../Page/GHS防范说明.md "wikilink") ，说明应如何处理产品以最大限度地降低使用者（以及其他人和一般环境）的风险
   - 供应商的身份（可能是制造商或进口商）。
 
-每个危险说明都指定一个代码，以字母H开头，后跟三位数字。与相关危险相对应的语句按代码编号组合在一起，因此编号不是连续的。该代码用于参考目的，例如帮助翻译，但*实际短语*
-应出现在标签和[安全数据表上](../Page/材料安全性数据表.md "wikilink")。 \[4\]
+每个危险说明都指定一个代码，以字母H开头，后跟三位数字。与相关危险相对应的语句按代码编号组合在一起，因此编号不是连续的。该代码用于参考目的，例如帮助翻译，但*实际短语* 应出现在标签和[安全数据表上](../Page/材料安全性数据表.md "wikilink")。 \[4\]
 
 ## 物理危害
 
@@ -132,7 +129,7 @@
 
 ### 欧洲联盟
 
-[欧盟通过CLP法规实施了GHS](../Page/欧洲联盟.md "wikilink")。尽管如此，基于[危险物质指令的旧系统并行使用至](../Page/危险物质指令.md "wikilink")2015年6月。根据CLP规则，在GHS下没有简单等价物的一些R-短语被保留：\[5\]该编号反映了先前R-短语的编号。
+[欧盟通过CLP法规实施了GHS](../Page/欧洲联盟.md "wikilink")。尽管如此，基于[危险物质指令](../Page/危险物质指令.md "wikilink")的旧系统并行使用至2015年6月。根据CLP规则，在GHS下没有简单等价物的一些R-短语被保留：\[5\]该编号反映了先前R-短语的编号。
 
 #### 物理特性
 
@@ -158,8 +155,7 @@
 
 #### 其他欧盟危险声明
 
-CLP法规也保留了一些旨在用于十分具体的情况的其他危险说明。\[6\]
-请注意，在这种情况下，如果不包括“EU”前缀，则欧盟特定危险说明的编号可与GHS危险说明一致。
+CLP法规也保留了一些旨在用于十分具体的情况的其他危险说明。\[6\] 请注意，在这种情况下，如果不包括“EU”前缀，则欧盟特定危险说明的编号可与GHS危险说明一致。
 
   - EUH201：含有铅。 不应在易被儿童咀嚼或吸吮的表面上使用。
       - EUH201A：警告！ 含有铅。
@@ -177,8 +173,7 @@ CLP法规也保留了一些旨在用于十分具体的情况的其他危险说�
 
 ### 澳大利亚
 
-GHS于2012年1月1日在[澳大利亚通过](../Page/澳大利亚.md "wikilink")，并且在自2017年1月1日起采用统一的工作健康和安全法（维多利亚州和西澳大利亚州除外）的州和地区成为强制性要求。\[7\]
-制定危险化学品安全数据表的国家行为守则\[8\]包括12项澳大利亚特定的GHS危害声明，详细如下：
+GHS于2012年1月1日在[澳大利亚](../Page/澳大利亚.md "wikilink")通过，并且在自2017年1月1日起采用统一的工作健康和安全法（维多利亚州和西澳大利亚州除外）的州和地区成为强制性要求。\[7\] 制定危险化学品安全数据表的国家行为守则\[8\]包括12项澳大利亚特定的GHS危害声明，详细如下：
 
 #### 物理危险说明
 
@@ -203,17 +198,13 @@ GHS于2012年1月1日在[澳大利亚通过](../Page/澳大利亚.md "wikilink")
 
 ### 新西兰
 
-截至2009年3月，新西兰有关“1996年有害物质和新生物法”的相关法规未规定危险说明所需的确切措辞。
-但是，新西兰分类系统包括三类环境危害，未列入GHS
-Rev.2：
+截至2009年3月，新西兰有关“1996年有害物质和新生物法”的相关法规未规定危险说明所需的确切措辞。 但是，新西兰分类系统包括三类环境危害，未列入GHS Rev.2：
 
   - 对土壤环境的生态毒性
   - 对陆地脊椎动物的生态毒性
   - 对陆地无脊椎动物的生态毒性
 
-这些分别是新西兰分类方案的9.2-9.4类，并根据危害程度分为子类。 \[9\]
-9.2D子类中的物质（“在土壤环境中有轻微危害的物质”）不需要危险说明，而其他子类中的物质则需要指出一般危险程度和一般危险类型。
-\[10\]
+这些分别是新西兰分类方案的9.2-9.4类，并根据危害程度分为子类。 \[9\] 9.2D子类中的物质（“在土壤环境中有轻微危害的物质”）不需要危险说明，而其他子类中的物质则需要指出一般危险程度和一般危险类型。 \[10\]
 
 ## 注释
 
@@ -233,20 +224,10 @@ Rev.2：
 
   - [23种欧洲语言中的化学危害和预防措辞](http://schoolscout24.de/cgi-bin/keminaco/hppinput.cgi)
 
-[Category:全球统一制度](https://zh.wikipedia.org/wiki/Category:全球统一制度 "wikilink")
-[Category:有未审阅翻译的页面](https://zh.wikipedia.org/wiki/Category:有未审阅翻译的页面 "wikilink")
+[Category:全球统一制度](https://zh.wikipedia.org/wiki/Category:全球统一制度 "wikilink") [Category:有未审阅翻译的页面](https://zh.wikipedia.org/wiki/Category:有未审阅翻译的页面 "wikilink")
 
-1.  The [United
-    Nations](https://zh.wikipedia.org/wiki/United_Nations "wikilink")
-    has published the list of GHS hazard statements in all UN official
-    languages (Arabic, Chinese, English, French, Russian, Spanish): it
-    can be found in Annex 3 of GHS Rev.2 for the corresponding language.
-2.  A list of translations into all the [European
-    Union](https://zh.wikipedia.org/wiki/European_Union "wikilink")
-    official languages can be found in Annex III to the [CLP
-    Regulation](https://zh.wikipedia.org/wiki/CLP_Regulation "wikilink"),
-    on pages 146–91 of the official English-language version for the GHS
-    statements and pages 192–209 for the EU-specific statements.
+1.  The [United Nations](https://zh.wikipedia.org/wiki/United_Nations "wikilink") has published the list of GHS hazard statements in all UN official languages (Arabic, Chinese, English, French, Russian, Spanish): it can be found in Annex 3 of GHS Rev.2 for the corresponding language.
+2.  A list of translations into all the [European Union](https://zh.wikipedia.org/wiki/European_Union "wikilink") official languages can be found in Annex III to the [CLP Regulation](https://zh.wikipedia.org/wiki/CLP_Regulation "wikilink"), on pages 146–91 of the official English-language version for the GHS statements and pages 192–209 for the EU-specific statements.
 3.  Part 1, section 1.4.10.5.2, GHS Rev.2
 4.  Part 1, section 1.4.10.5.2(b)(ii), GHS Rev.2
 5.  Annex III, CLP Regulation, pp. 192–200.

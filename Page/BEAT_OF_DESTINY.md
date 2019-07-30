@@ -1,19 +1,14 @@
-《**BEAT OF
-DESTINY**》是[日本雙人音樂團體](../Page/日本.md "wikilink")[TWO-MIX的第](https://zh.wikipedia.org/wiki/TWO-MIX "wikilink")11張單曲。1998年5月8日由[King
-Records發行](../Page/國王唱片.md "wikilink")。
+《**BEAT OF DESTINY**》是[日本](../Page/日本.md "wikilink")雙人音樂團體[TWO-MIX的第](https://zh.wikipedia.org/wiki/TWO-MIX "wikilink")11張單曲。1998年5月8日由[King Records發行](../Page/國王唱片.md "wikilink")。
 
 ## 解說
 
-標題曲「BEAT OF
-DESTINY」曾被[朝日電視台綜藝節目](../Page/朝日電視台.md "wikilink")《[火焰挑戰者](../Page/火焰挑戰者.md "wikilink")》當片尾主題曲、以及企業形象廣告歌曲使用。
+標題曲「BEAT OF DESTINY」曾被[朝日電視台](../Page/朝日電視台.md "wikilink")綜藝節目《[火焰挑戰者](../Page/火焰挑戰者.md "wikilink")》當片尾主題曲、以及企業形象廣告歌曲使用。
 
-《BEAT OF
-DESTINY》是TWO-MIX史上使用超過100波段的音數完成的單曲。雖然只花幾十秒完成，但是該歌曲讓[TWO-MIX第一次在](https://zh.wikipedia.org/wiki/TWO-MIX "wikilink")[PV中亮相](../Page/音樂錄影帶.md "wikilink")。
+《BEAT OF DESTINY》是TWO-MIX史上使用超過100波段的音數完成的單曲。雖然只花幾十秒完成，但是該歌曲讓[TWO-MIX第一次在](https://zh.wikipedia.org/wiki/TWO-MIX "wikilink")[PV中亮相](../Page/音樂錄影帶.md "wikilink")。
 
 TWO-MIX單曲以往A面歌曲大多經過重新編曲（混音），但是這首歌曲卻是沒有經過重新混音的舞曲\[1\]。
 
-至於B面收錄歌曲「」則請了RED
-MONSTER的[田代隆廣進行重新混音](https://zh.wikipedia.org/wiki/田代隆廣 "wikilink")。
+至於B面收錄歌曲「」則請了RED MONSTER的[田代隆廣進行重新混音](https://zh.wikipedia.org/wiki/田代隆廣 "wikilink")。
 
 ## 收錄歌曲
 
@@ -98,7 +93,6 @@ Orchestra: <a href="https://zh.wikipedia.org/wiki/華沙國家愛樂樂團" titl
   -
 ## 注釋
 
-[Category:1998年單曲](https://zh.wikipedia.org/wiki/Category:1998年單曲 "wikilink")
-[Category:King_Records歌曲](https://zh.wikipedia.org/wiki/Category:King_Records歌曲 "wikilink")
+[Category:1998年單曲](https://zh.wikipedia.org/wiki/Category:1998年單曲 "wikilink") [Category:King_Records歌曲](https://zh.wikipedia.org/wiki/Category:King_Records歌曲 "wikilink")
 
 1.  另外沒有經過重新混音之舞曲的單曲包含「」、「」。

@@ -1,5 +1,4 @@
-《**Muse on
-Music**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Lovelyz的第一張樂器伴奏專輯](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")，於2018年9月10日发布。这张专辑包含33首曲目，收录于来自之前的8张专辑。Lovelyz是[K-pop中首次发行樂器伴奏專輯的女子团体](../Page/韓國流行音樂.md "wikilink")。\[1\]\[2\]
+《**Muse on Music**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Lovelyz的第一張樂器伴奏專輯](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")，於2018年9月10日发布。这张专辑包含33首曲目，收录于来自之前的8张专辑。Lovelyz是[K-pop中首次发行樂器伴奏專輯的女子团体](../Page/韓國流行音樂.md "wikilink")。\[1\]\[2\]
 
 ## 背景及回歸日程
 
@@ -21,10 +20,43 @@ Music**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音
 
 ## 曲目
 
-{{Track listing | full_width = yes | collapsed = no | headline =
-DAY（白天）版本 | total_length = 36:38 | music_credits = yes |
-arranger_credits = y
+## 相关视频
+
+| 年份   | 發佈日期  | 版本                                                                                                 |
+| ---- | ----- | -------------------------------------------------------------------------------------------------- |
+| 2018 | 9月10日 | [Lovelyz Instrumental Album 《Muse on Music》 Unboxing](https://www.youtube.com/watch?v=NtLNPueUdGk) |
+|      |       |                                                                                                    |
+
+## 成績
+
+### 榜單成績
+
+| 地區  | 榜單                                                           | 類型      | 停留時間 | 最高位置            | 銷量    | 參考資料 |
+| --- | ------------------------------------------------------------ | ------- | ---- | --------------- | ----- | ---- |
+| 韓國  | [Gaon榜](https://zh.wikipedia.org/wiki/Gaon_Chart "wikilink") | 专辑榜     | 週榜   | 2018年9月9日－9月15日 | \#9   |      |
+| 專輯榜 | 月榜                                                           | 2018年9月 | \#24 | 6,714           | \[4\] |      |
+|     |                                                              |         |      |                 |       |      |
+
+## 發行歷史
+
+|  |
+|  |
+|  |
+|  |
+|  |
+
+## 銷售及認證
+
+| 排行榜        | 銷量     |
+| ---------- | ------ |
+| Gaon Chart | 2018   |
+| 總共         | 6,714+ |
+
+## 參考資料
+
+[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:Lovelyz音乐专辑](https://zh.wikipedia.org/wiki/Category:Lovelyz音乐专辑 "wikilink") [Category:2018年音樂專輯](https://zh.wikipedia.org/wiki/Category:2018年音樂專輯 "wikilink")
 
 1.
 2.
 3.
+4.

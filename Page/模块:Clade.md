@@ -1,24 +1,12 @@
-\--[NOTE: this module contains functions for generating the table
-structure of the clade tree: The main function is called by the template
-using the {{invoke}} instruction; the three main functions are:
-p.main(frame) - opens and closes table, loops through the children of
-node, main is invoked once and controls the rest, calling ...
-p.addTaxon(childNumber, nodeLeaf) - the nuts and bolts; code dealing
-with each child node p.addLabel(childNumber) - adds the label text now
-used
-templatestyles](https://zh.wikipedia.org/wiki/NOTE:_this_module_contains_functions_for_generating_the_table_structure_of_the_clade_tree:_The_main_function_is_called_by_the_template_using_the_{{invoke}}_instruction;_the_three_main_functions_are:_p.main\(frame\)_-_opens_and_closes_table,_loops_through_the_children_of_node,_main_is_invoked_once_and_controls_the_rest,_calling_..._p.addTaxon\(childNumber,_nodeLeaf\)_-_the_nuts_and_bolts;_code_dealing_with_each_child_node_p.addLabel\(childNumber\)_-_adds_the_label_text_now_used_templatestyles "wikilink")
+\--[NOTE: this module contains functions for generating the table structure of the clade tree: The main function is called by the template using the {{invoke}} instruction; the three main functions are: p.main(frame) - opens and closes table, loops through the children of node, main is invoked once and controls the rest, calling ... p.addTaxon(childNumber, nodeLeaf) - the nuts and bolts; code dealing with each child node p.addLabel(childNumber) - adds the label text now used templatestyles](https://zh.wikipedia.org/wiki/NOTE:_this_module_contains_functions_for_generating_the_table_structure_of_the_clade_tree:_The_main_function_is_called_by_the_template_using_the_{{invoke}}_instruction;_the_three_main_functions_are:_p.main\(frame\)_-_opens_and_closes_table,_loops_through_the_children_of_node,_main_is_invoked_once_and_controls_the_rest,_calling_..._p.addTaxon\(childNumber,_nodeLeaf\)_-_the_nuts_and_bolts;_code_dealing_with_each_child_node_p.addLabel\(childNumber\)_-_adds_the_label_text_now_used_templatestyles "wikilink")
 
 local p = {}
 
-\--\[\[============================== main function
-=========================== -- main function, which will generate the
-table structure of the tree
+\--\[\[============================== main function =========================== -- main function, which will generate the table structure of the tree
 
-Test version: Usage:
-{{\#invoke:Module:Sandbox/Jts1882/CladeN|main|style= }} Template:CladeN
+Test version: Usage: {{\#invoke:Module:Sandbox/Jts1882/CladeN|main|style= }} Template:CladeN
 
-Release version: Usage: {{\#invoke:Clade|main|style= }} Template:Clade
-\]\]
+Release version: Usage: {{\#invoke:Clade|main|style= }} Template:Clade \]\]
 
 function p.main(frame)
 
@@ -319,13 +307,7 @@ return cladeString end
 
 -----
 
-\--[function getCladeTreeInfo() this preprocessing loop gets information
-about the whole structure (number of nodes, leaves etc) it makes a
-redundant calls to the templates through transclusion, but doen't affect
-the template depths; it provides the global lastNode that is used to
-limit the main while loop
---](https://zh.wikipedia.org/wiki/function_getCladeTreeInfo\(\)_this_preprocessing_loop_gets_information_about_the_whole_structure_\(number_of_nodes,_leaves_etc\)_it_makes_a_redundant_calls_to_the_templates_through_transclusion,_but_doen't_affect_the_template_depths;_it_provides_the_global_lastNode_that_is_used_to_limit_the_main_while_loop_-- "wikilink")
-function p.getCladeTreeInfo()
+\--[function getCladeTreeInfo() this preprocessing loop gets information about the whole structure (number of nodes, leaves etc) it makes a redundant calls to the templates through transclusion, but doen't affect the template depths; it provides the global lastNode that is used to limit the main while loop --](https://zh.wikipedia.org/wiki/function_getCladeTreeInfo\(\)_this_preprocessing_loop_gets_information_about_the_whole_structure_\(number_of_nodes,_leaves_etc\)_it_makes_a_redundant_calls_to_the_templates_through_transclusion,_but_doen't_affect_the_template_depths;_it_provides_the_global_lastNode_that_is_used_to_limit_the_main_while_loop_-- "wikilink") function p.getCladeTreeInfo()
 
 `   -- enable proprocessing loop`
 `   local childNumber = 0`
@@ -373,9 +355,7 @@ function p.getCladeTreeInfo()
 
 end
 
-\--[code for placing TemplateStyles from the module source: Anomie
-(CC-0)
-https://phabricator.wikimedia.org/T200442](https://zh.wikipedia.org/wiki/code_for_placing_TemplateStyles_from_the_module_source:_Anomie_\(CC-0\)_https://phabricator.wikimedia.org/T200442 "wikilink")
+\--[code for placing TemplateStyles from the module source: Anomie (CC-0) https://phabricator.wikimedia.org/T200442](https://zh.wikipedia.org/wiki/code_for_placing_TemplateStyles_from_the_module_source:_Anomie_\(CC-0\)_https://phabricator.wikimedia.org/T200442 "wikilink")
 
 function p.templateStyle( frame, src )
 

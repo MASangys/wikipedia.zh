@@ -1,5 +1,4 @@
-**股票互換**（英語：Stock
-swap）是一種股權資產交換成另一種股權的過程\[1\]，常發生在合併或收購公司的期間。股票交換提供以股票[交換價值](https://zh.wikipedia.org/wiki/交換價值 "wikilink")，而不是現金支付的機會。
+**股票互換**（英語：Stock swap）是一種股權資產交換成另一種股權的過程\[1\]，常發生在合併或收購公司的期間。股票交換提供以股票[交換價值](https://zh.wikipedia.org/wiki/交換價值 "wikilink")，而不是現金支付的機會。
 
 <table>
 <tbody>
@@ -14,8 +13,7 @@ swap）是一種股權資產交換成另一種股權的過程\[1\]，常發生�
 
 ## 概述
 
-收購公司主要使用自己的[股票作為現金來購買其他企業主體的股權](../Page/股票.md "wikilink")。
-被收購公司的每個[股東將從收單公司收到預期數量的](https://zh.wikipedia.org/wiki/股東 "wikilink")[股份](https://zh.wikipedia.org/wiki/股份 "wikilink")。在交換發生之前，各方必須準確評估其公司，以便計算公平交換比率。評估公司是一件非常複雜的事，不僅需要確定公平的市場價值，還需要確定投資和內在價值。
+收購公司主要使用自己的[股票](../Page/股票.md "wikilink")作為現金來購買其他企業主體的股權。 被收購公司的每個[股東將從收單公司收到預期數量的](https://zh.wikipedia.org/wiki/股東 "wikilink")[股份](https://zh.wikipedia.org/wiki/股份 "wikilink")。在交換發生之前，各方必須準確評估其公司，以便計算公平交換比率。評估公司是一件非常複雜的事，不僅需要確定公平的市場價值，還需要確定投資和內在價值。
 
 <table>
 <tbody>
@@ -28,10 +26,7 @@ swap）是一種股權資產交換成另一種股權的過程\[1\]，常發生�
 </tbody>
 </table>
 
-收購公司可能還需要以股票形式增加一點額外獎勵，以確保被收購公司的董事會批准收購。在所有評估完成後，雙方將對於交換比率達成共識。
-該比率會決定每個人從接管公司獲得到的股份數量。當此股票交換實現時，股東將獲得新股份並擁有新公司的股份。有些時候，股票交換協議不允許新股東在一段時間內出售新股票，以避免股價突然下跌。
-這是用於打擊惡意收購的股東權益計劃或[毒丸防禦的一種形式](https://zh.wikipedia.org/wiki/毒丸防御 "wikilink")。
-當所有事情匯集在一起並且公平時，收購才會繼續進行下去。
+收購公司可能還需要以股票形式增加一點額外獎勵，以確保被收購公司的董事會批准收購。在所有評估完成後，雙方將對於交換比率達成共識。 該比率會決定每個人從接管公司獲得到的股份數量。當此股票交換實現時，股東將獲得新股份並擁有新公司的股份。有些時候，股票交換協議不允許新股東在一段時間內出售新股票，以避免股價突然下跌。 這是用於打擊惡意收購的股東權益計劃或[毒丸防禦的一種形式](https://zh.wikipedia.org/wiki/毒丸防御 "wikilink")。 當所有事情匯集在一起並且公平時，收購才會繼續進行下去。
 
 <table>
 <tbody>
@@ -48,16 +43,11 @@ swap）是一種股權資產交換成另一種股權的過程\[1\]，常發生�
 
 ## 範例
 
-例如，在2010年，兩家公司聚集在一起組建了GenOn Energy，Mirant 和 RRI
-Energy。Mirant的股東每持有Mirant的股份即可獲得2.885股的RRI股份。
-這股股票交換使Mirant股東有更具吸引力的報價來促進收購，從而說服Mirant的董事會允許收購。再舉個一個例子，2014年，韓國互聯網巨頭Daum
-Communications與Kakao Corp合併，以股票互換協議形成Daum Kakao。
-合併比率約為1.14，因此被視為Kakao的[借殼上市](../Page/借殼上市.md "wikilink")。最後一個範例，在2017年，[迪士尼宣布將以](https://zh.wikipedia.org/wiki/迪士尼 "wikilink")52億美元的全股票交易收購[21世紀福克斯的大部分資產](../Page/21世纪.md "wikilink")（如果包括債務，則為66億美元）。被收購公司股東擁有合併後公司25％的股份，而迪士尼股東擁有75％的股權。
+例如，在2010年，兩家公司聚集在一起組建了GenOn Energy，Mirant 和 RRI Energy。Mirant的股東每持有Mirant的股份即可獲得2.885股的RRI股份。 這股股票交換使Mirant股東有更具吸引力的報價來促進收購，從而說服Mirant的董事會允許收購。再舉個一個例子，2014年，韓國互聯網巨頭Daum Communications與Kakao Corp合併，以股票互換協議形成Daum Kakao。 合併比率約為1.14，因此被視為Kakao的[借殼上市](../Page/借殼上市.md "wikilink")。最後一個範例，在2017年，[迪士尼宣布將以](https://zh.wikipedia.org/wiki/迪士尼 "wikilink")52億美元的全股票交易收購[21世紀福克斯的大部分資產](../Page/21世纪.md "wikilink")（如果包括債務，則為66億美元）。被收購公司股東擁有合併後公司25％的股份，而迪士尼股東擁有75％的股權。
 
 ## 內部交換
 
-股票互換也可以在公司內部發生。[星巴克過去曾使用過這種策略](https://zh.wikipedia.org/wiki/星巴克 "wikilink")，因為他們向員工提供的股票期權價格降低，以至於他們的股票變得毫無價值，就在此時，星巴克提供了一個轉換選項。
-該公司允許員工的股票，以獲得更高價值的股票。\[2\]\[3\]\[4\]\[5\]
+股票互換也可以在公司內部發生。[星巴克過去曾使用過這種策略](https://zh.wikipedia.org/wiki/星巴克 "wikilink")，因為他們向員工提供的股票期權價格降低，以至於他們的股票變得毫無價值，就在此時，星巴克提供了一個轉換選項。 該公司允許員工的股票，以獲得更高價值的股票。\[2\]\[3\]\[4\]\[5\]
 
 <table>
 <tbody>
@@ -73,16 +63,10 @@ Communications與Kakao Corp合併，以股票互換協議形成Daum Kakao。
 
 ## 參考資料
 
-[Category:Accounting_terminology](https://zh.wikipedia.org/wiki/Category:Accounting_terminology "wikilink")
-[Category:Corporate_finance](https://zh.wikipedia.org/wiki/Category:Corporate_finance "wikilink")
-[Category:Mergers_and_acquisitions](https://zh.wikipedia.org/wiki/Category:Mergers_and_acquisitions "wikilink")
+[Category:Accounting_terminology](https://zh.wikipedia.org/wiki/Category:Accounting_terminology "wikilink") [Category:Corporate_finance](https://zh.wikipedia.org/wiki/Category:Corporate_finance "wikilink") [Category:Mergers_and_acquisitions](https://zh.wikipedia.org/wiki/Category:Mergers_and_acquisitions "wikilink")
 
 1.
-2.  Investopedia. Division of IAC. 2014. Web. July 21st, 2014.
-    <http://www.investopedia.com/terms/s/swap.asp>
-3.  US Legal. US Legal Incorporated. Web. July 21st, 2014.
-    <http://defenitions.uslegal.com/s/stock-swap>.
-4.  Bates, Thomas, and David Kidwell, and Robert Parino. Fundamentals of
-    Corporate Finance. New Jersey: John Wiley and Sons, 2012. Print
-5.  Merrit, Cam. Demand Media. The Nest. Web. July 21st, 2014.
-    <http://budgetting.thenest.com/stock-> swaps-work-22564.html
+2.  Investopedia. Division of IAC. 2014. Web. July 21st, 2014. <http://www.investopedia.com/terms/s/swap.asp>
+3.  US Legal. US Legal Incorporated. Web. July 21st, 2014. <http://defenitions.uslegal.com/s/stock-swap>.
+4.  Bates, Thomas, and David Kidwell, and Robert Parino. Fundamentals of Corporate Finance. New Jersey: John Wiley and Sons, 2012. Print
+5.  Merrit, Cam. Demand Media. The Nest. Web. July 21st, 2014. <http://budgetting.thenest.com/stock-> swaps-work-22564.html

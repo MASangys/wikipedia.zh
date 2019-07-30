@@ -1,6 +1,4 @@
-是Cabbage
-Soft在2018年11月30日\[1\]發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。2019年9月26日由dramatic
-create發售[PlayStation 4版本](../Page/PlayStation_4.md "wikilink")\[2\]。
+是Cabbage Soft在2018年11月30日\[1\]發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。2019年9月26日由dramatic create發售[PlayStation 4版本](../Page/PlayStation_4.md "wikilink")\[2\]。
 
 ## 故事簡介
 
@@ -14,10 +12,94 @@ create發售[PlayStation 4版本](../Page/PlayStation_4.md "wikilink")\[2\]。
     全名為「渡良瀨修」，是日本小鎮的建造者渡良瀨惣一的兒子，因為聽聞父親想要毀滅小鎮而以音樂教師的身分進入小鎮，並成功阻止小鎮毀滅。
     之後在小鎮破滅計劃的發起者柊義道、柊咲夜兄妹的策畫下被強迫服用失去記憶的藥物「繆斯」，並在咲夜的安排下以聖亞雷亞學園學生的身分渡過從2018年11月28日開始的日子。12月2日時和悠音一起吃了生命與智慧之果，因而在12月25日的火災中得以回到12月2日當天。即使得以回到過去，但在柊家兄妹取得先機的情況仍失敗了十次。第十一次在悠音的提議下回到2018年1月27日展開調查，並藉由多次的失敗經驗推斷出咲夜是小鎮破滅計劃的主使者之一，後來受林果幫助服用了反繆斯後恢復了記憶，且因為咲夜不參與該次的計劃，終於成功阻止大火的發生。
   -
-    全名為「天城悠音」
+    全名為「天城悠音」，和修同年的女孩，個性純真善良，對於初次見面且失憶的修能夠毫無芥蒂的幫助他。擅於唱歌。
+    12月2日得到生命與智慧之果時吃了能回溯時間的生命之果，但本人並不會留下回溯前的記憶。第十一次發動能力時讓修回到2018年1月27日，但這超出常識範圍的行動已嚴重消耗自己的生命，在該次與修相處時被奪走了言語的能力，因此也不能在文化祭時唱歌，成功阻止義道的計劃後原本將要消失，但在修的援助及不死果實「黃金的蘋果」出現下，得以不用消失並重回小鎮。
+  -
+    全名為「冰室桐繪」，和修同年的女孩，體型嬌小，總是充滿活力。興趣是拍攝電影，並喜歡使用爆炸場面來營造臨場感。自己雖然不參與電影演出，但實際上擁有高明的演技。
+  -
+    全名為「真霧言葉」，比修大一歲的女孩，成績優秀的優等生。繪畫能力相當高明，不時會請修擔任自己的人體模特兒。
+  -
+    全名為「柊咲夜」，比修小一歲的女孩。個性冷淡且不常顯露感情。擅長設計服裝。
+    與哥哥柊義道在2017年食用了當年的生命與智慧之果，在哥哥主要策劃的小鎮破滅計劃被修多次阻止後，想到了讓修服用失去記憶的藥物「繆斯」的方法來讓修無力化，並讓小鎮破滅計劃得以成功。
+    實際上並不想看到小鎮毀壞，但因為義道只要失敗就會使用回溯能力且無力阻止，所以只得盡力幫忙哥哥的計劃。
+  -
+    全名為「柊義道」，咲夜的哥哥，戴著眼鏡的男性。擁有高明的美術手腕但不如天才林果而感到沮喪。後來渡良瀨惣一來到了小鎮，並讓他看了義大利的小鎮遭到燒毀時所畫的「克羅薩的失樂園」，讓義道開始想讓這個場面在日本的小鎮重現。
+    與咲夜食用了2017年的生命與智慧之果，但發動時間回溯的義道並沒有保持當時的記憶，所以讓小鎮起火的方法都是由留有記憶的咲夜安排。在修回溯的第十一次時因為咲夜不再干涉該計劃，使得自己一心追求的場面被阻止。
+  -
+    全名為「神埼林果」，比修大一歲的女孩，和言葉是好朋友。本身是藝術天才，後來因為得知小鎮將要面臨的破滅，而被小鎮的相關人員強迫服用繆斯並送往外界，與修便是在外面認識。修第十一次回溯時收到了修傳的簡訊，在修得知小鎮的真相，並受相關人員脅迫時出面救了修，並讓修服用了恢復記憶的反繆斯。事情全部解決後重新回到了小鎮。
+  -
+    聖亞雷亞學園的教師，性格認真，聽到黃色笑話時會面紅耳赤。
 
-<!-- end list -->
+## 主題曲
+
+  - 片頭曲「」\[4\]\[5\]
+    作詞：、a.k.a.dRESS，作曲、編曲：a.k.a.dRESS，主唱：[ave;new](https://zh.wikipedia.org/wiki/ave;new "wikilink") feat.[佐倉紗織](../Page/佐倉紗織.md "wikilink")
+  - 片尾曲「」\[6\]
+    作詞：，作曲、編曲：橋咲透，主唱：solfa feat.
+
+## 漫畫
+
+於《[月刊Comic Alive](../Page/月刊Comic_Alive.md "wikilink")》2018年10月號\[7\]至2019年2月號連載。由作畫。
+
+<table>
+<thead>
+<tr class="header">
+<th><p>冊數</p></th>
+<th><p><a href="../Page/KADOKAWA.md" title="wikilink">KADOKAWA</a></p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>發售日期</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
+</tr>
+<tr class="even">
+<td><p>1</p></td>
+<td><p>2019年1月23日[8]</p></td>
+</tr>
+</tbody>
+</table>
+
+## 網路廣播
+
+以《Amazing Grace〜極光之夜〜》為標題的[網路廣播](https://zh.wikipedia.org/wiki/網路廣播 "wikilink")，2018年10月5日至12月14日在[音泉](../Page/音泉.md "wikilink")放送，每周星期五更新。主持人為相模戀（飾演林果）與（飾演咲夜）\[9\]。
+
+## 評價
+
+《Amazing Grace -你的屬性是什麼顏色？-》在Getchu.com舉辦的美少女遊戲大賞2018中獲得綜合部門第5名\[10\]、劇本部門第2名\[11\]、音樂部門第3名\[12\]、角色部門悠音第10名\[13\]。於2018年度「[萌系遊戲大賞](../Page/萌系遊戲大賞.md "wikilink")」獲得劇本賞\[14\]。
+
+## 參考資料
+
+## 外部連結
+
+  - [Amazing Grace -你的屬性是什麼顏色？-遊戲官網](http://cabbage-soft.com/)
+  - [PS4版本遊戲官網](http://dramaticcreate.com/amegure/)
+
+[Category:2018年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2018年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:2019年電子遊戲](https://zh.wikipedia.org/wiki/Category:2019年電子遊戲 "wikilink") [Category:PlayStation_4遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_4遊戲 "wikilink")
 
 1.
+
 2.
+
 3.
+
+4.
+
+5.
+
+6.
+7.
+
+8.
+
+9.
+
+10.
+
+11.
+
+12.
+
+13.
+
+14.

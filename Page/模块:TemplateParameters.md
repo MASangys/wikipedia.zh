@@ -125,8 +125,7 @@ function p.listArguments(frame)
 `           for k,v in pairs(farg.args) do`
 `               if(type(v) ~= type(tonumber) and type(v) ~= type({}))then`
 `                   flag = true`
-`                   body = body .. '*:' .. "`**`"``   ``..``   ``k``
- ``..``   ``"`**` : " .. tostring(v) .. '\n'`
+`                   body = body .. '*:' .. "`**`"``   ``..``   ``k``   ``..``   ``"`**` : " .. tostring(v) .. '\n'`
 `               end`
 `           end`
 `       end`
@@ -135,8 +134,7 @@ function p.listArguments(frame)
 `   if frame ~= mw.getCurrentFrame() and type(frame) == type({}) then`
 `       body = body .. '*' .. "函數呼叫參數:" .. '\n'`
 `       for k,v in pairs(frame) do`
-`           body = body .. '*:' .. "`**`"``   ``..``   ``k``   ``..``
- ``"`**` : " .. v .. '\n'`
+`           body = body .. '*:' .. "`**`"``   ``..``   ``k``   ``..``   ``"`**` : " .. v .. '\n'`
 `       end`
 `   end`
 `   local this_arg = frame.args`
@@ -226,7 +224,7 @@ end
 `   end`
 `   if args["delnowiki"] then`
 `       if type(yesno) ~= type(tonumber) then yesno = require('Module:Yesno') end`
-`       if yesno(args["delnowiki"] or 'no') then local delnowiki=require('Module:Delcat').delnowiki --備用`
+`       if yesno(args["delnowiki"] or 'no') then --local delnowiki=require('Module:Delcat').delnowiki --備用`
 `           input_str = mw.text.unstripNoWiki( input_str )`
 `       end`
 `   end`
@@ -389,12 +387,7 @@ function p._findNullArgument(str, args)
 
 end
 
-\--格式化字串的處理，會將特殊的  轉換 function p._getEscapeString(str) str =
-mw.ustring.gsub(mw.ustring.gsub(mw.ustring.gsub(mw.ustring.gsub(mw.ustring.gsub(mw.ustring.gsub(mw.ustring.gsub(mw.ustring.gsub(mw.ustring.gsub(mw.ustring.gsub(mw.ustring.gsub(mw.ustring.gsub(mw.ustring.gsub(mw.ustring.gsub(str,
-"%%", "%%%%"), "%\]", "%\]"), "%{", "%{"), "%}", "%}"), "%\[", "%\["),
-"%)", "%)"), "%-", "%-"), "%^", "%^"), "%$", "%$"), "%(", "%("), "%.",
-"%."), "%\*", "%\*"), "%+", "%+"), "%|", "%|"); return str; end function
-p._getFormatingStringByArgument(str, args)
+\--格式化字串的處理，會將特殊的  轉換 function p._getEscapeString(str) str = mw.ustring.gsub(mw.ustring.gsub(mw.ustring.gsub(mw.ustring.gsub(mw.ustring.gsub(mw.ustring.gsub(mw.ustring.gsub(mw.ustring.gsub(mw.ustring.gsub(mw.ustring.gsub(mw.ustring.gsub(mw.ustring.gsub(mw.ustring.gsub(mw.ustring.gsub(str, "%%", "%%%%"), "%\]", "%\]"), "%{", "%{"), "%}", "%}"), "%\[", "%\["), "%)", "%)"), "%-", "%-"), "%^", "%^"), "%$", "%$"), "%(", "%("), "%.", "%."), "%\*", "%\*"), "%+", "%+"), "%|", "%|"); return str; end function p._getFormatingStringByArgument(str, args)
 
 `   local result = str or "*``\n"`
 `   for k,v in pairs(args) do`
@@ -459,7 +452,7 @@ function p.pass_spstr(frame)
 `   local input_text = args['code'] or ''`
 `   if args["delnowiki"] then`
 `       if type(yesno) ~= type(tonumber) then yesno = require('Module:Yesno') end`
-`       if yesno(args["delnowiki"] or 'no') then local delnowiki=require('Module:Delcat').delnowiki --備用`
+`       if yesno(args["delnowiki"] or 'no') then --local delnowiki=require('Module:Delcat').delnowiki --備用`
 `           input_text = mw.text.unstripNoWiki( input_text )`
 `       end`
 `   end`

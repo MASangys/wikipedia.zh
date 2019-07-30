@@ -1,17 +1,10 @@
-**[Cry me a
-river](../Page/Cry_Me_A_River_\(茱莉·倫敦1956年的迷你專輯\).md "wikilink")**
-是[Jive唱片在](https://zh.wikipedia.org/wiki/Jive唱片 "wikilink")2002年11月推出的[當代節奏藍調單曲](https://zh.wikipedia.org/wiki/當代節奏藍調 "wikilink")，[賈斯汀·汀布萊克是](https://zh.wikipedia.org/wiki/賈斯汀·汀布萊克 "wikilink")[填詞人之一](../Page/詞曲作家.md "wikilink")，而單曲則是由[提姆巴蘭所製作](../Page/提姆巴蘭.md "wikilink")。此曲在2002年12月先達到[主流四十強單曲榜第](https://zh.wikipedia.org/wiki/主流四十強單曲榜 "wikilink")37名\[1\]，然後在2003年2月最高達到第3名\[2\]。此曲的銷量已超過120萬次
-\[3\]。
+**[Cry me a river](../Page/Cry_Me_A_River_\(茱莉·倫敦1956年的迷你專輯\).md "wikilink")** 是[Jive唱片在](https://zh.wikipedia.org/wiki/Jive唱片 "wikilink")2002年11月推出的[當代節奏藍調單曲](https://zh.wikipedia.org/wiki/當代節奏藍調 "wikilink")，[賈斯汀·汀布萊克是](https://zh.wikipedia.org/wiki/賈斯汀·汀布萊克 "wikilink")[填詞人之一](../Page/詞曲作家.md "wikilink")，而單曲則是由[提姆巴蘭](../Page/提姆巴蘭.md "wikilink")所製作。此曲在2002年12月先達到[主流四十強單曲榜第](https://zh.wikipedia.org/wiki/主流四十強單曲榜 "wikilink")37名\[1\]，在2003年2月最高達到第3名\[2\]。此曲的銷量已超過120萬次 \[3\]。
 
 ## 背景
 
-這首歌曲的歌詞創作靈感来自他與[布蘭妮·斯皮爾斯](../Page/布蘭妮·斯皮爾斯.md "wikilink")
-结束於2002年\[4\]的浪漫關係\[5\]。他最初的說法比較模稜兩可。在2011年12月，他承認他跟
-布蘭妮·斯皮爾斯 吵架後才開始填詞: "我在进行并不舒服的对话。我走進錄音室，提姆巴蘭能看到我在發怒。"
-[提姆巴蘭回想起自己對他說](../Page/提姆巴蘭.md "wikilink"): "老兄,
-別擔心。"然後他說:"我不敢相信，她對我做出這種事" \[6\]
+這首歌曲的歌詞創作靈感来自他與[布蘭妮·斯皮爾斯](../Page/布蘭妮·斯皮爾斯.md "wikilink") 结束於2002年\[4\]的浪漫關係\[5\]。他最初的說法比較模稜兩可。在2011年12月，他承認他跟 布蘭妮·斯皮爾斯 吵架後才開始填詞: "我在进行并不舒服的对话。我走進錄音室，提姆巴蘭能看到我在發怒。" [提姆巴蘭](../Page/提姆巴蘭.md "wikilink")回想起自己對他說: "老兄, 別擔心。"然後他說:"我不敢相信，她對我做出這種事" \[6\]
 
-## [歌詞譯文](https://zh.wikipedia.org/wiki/歌詞 "wikilink")
+## [歌詞譯文](https://zh.wikipedia.org/wiki/歌詞 "wikilink")()
 
 妳沒必要說 妳做了什麼
 我已經知道了, 我在他那發現了
@@ -24,9 +17,11 @@ river](../Page/Cry_Me_A_River_\(茱莉·倫敦1956年的迷你專輯\).md "wikil
 
 ## 另見
 
-  - [What Goes Around... Comes
-    Around](../Page/What_Goes_Around..._Comes_Around.md "wikilink")
+  - [What Goes Around... Comes Around](../Page/What_Goes_Around..._Comes_Around.md "wikilink")
 
+## 外部链接
+
+  -
 ## 外部链接
 
 [Category:2002年單曲](https://zh.wikipedia.org/wiki/Category:2002年單曲 "wikilink")

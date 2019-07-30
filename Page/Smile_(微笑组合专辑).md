@@ -1,5 +1,4 @@
-***Smile（微笑）***是瑞典流行乐队[Smile.dk的首张专辑](../Page/微笑組合.md "wikilink")。
-该专辑在日本达成金唱片销量， \[1\]而Smile.dk于1998年在香港获得“最佳国际女子乐队组合”。 <ref>
+***Smile（微笑）***是瑞典流行乐队[Smile.dk的首张专辑](../Page/微笑組合.md "wikilink")。 该专辑在日本达成金唱片销量， \[1\]而Smile.dk于1998年在香港获得“最佳国际女子乐队组合”。 <ref>
 
 <div>
 
@@ -31,8 +30,6 @@
 
 </references>
 
-[Category:Smile.dk](https://zh.wikipedia.org/wiki/Category:Smile.dk "wikilink")
-[Category:1998年音樂專輯](https://zh.wikipedia.org/wiki/Category:1998年音樂專輯 "wikilink")
-[Category:有未审阅翻译的页面](https://zh.wikipedia.org/wiki/Category:有未审阅翻译的页面 "wikilink")
+[Category:Smile.dk](https://zh.wikipedia.org/wiki/Category:Smile.dk "wikilink") [Category:1998年音樂專輯](https://zh.wikipedia.org/wiki/Category:1998年音樂專輯 "wikilink") [Category:有未审阅翻译的页面](https://zh.wikipedia.org/wiki/Category:有未审阅翻译的页面 "wikilink")
 
 1.

@@ -19,7 +19,20 @@
   -
   -
   -
-  - {{Cite book|last= Jütting |first= Kerstin |title="Grow Up, 007\!" –
-    James Bond over the decades: formula vs.
-    innovation|url=<https://books.google.com/books?id=MzuVat9N7bQC&lpg=PP1&pg=PP1#v=onepage&q&f=false>
-    |publisher= GR
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+[Category:007](https://zh.wikipedia.org/wiki/Category:007 "wikilink") [Category:文学角色](https://zh.wikipedia.org/wiki/Category:文学角色 "wikilink") [Category:虛構特務與間諜](https://zh.wikipedia.org/wiki/Category:虛構特務與間諜 "wikilink") [Category:虛構英國人](https://zh.wikipedia.org/wiki/Category:虛構英國人 "wikilink") [Category:虛構英國軍人](https://zh.wikipedia.org/wiki/Category:虛構英國軍人 "wikilink") [Category:虛構海軍人物](https://zh.wikipedia.org/wiki/Category:虛構海軍人物 "wikilink") [Category:諜報小說](https://zh.wikipedia.org/wiki/Category:諜報小說 "wikilink") [Category:電影角色](https://zh.wikipedia.org/wiki/Category:電影角色 "wikilink")

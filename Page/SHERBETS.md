@@ -1,10 +1,4 @@
-**SHERBETS**（シャーベッツ）是原[BLANKEY JET
-CITY乐队成员](../Page/Blankey_Jet_City.md "wikilink")组建的4人[另类摇滚](../Page/另类摇滚.md "wikilink")[乐队](https://zh.wikipedia.org/wiki/乐队 "wikilink")。BLANKEY
-JET
-CITY在1996年起以**SHERBET**（シャーベット）的名义活动，当时其音乐以不插电乐器为主，而1998年起，则结成了现在风格的新生SHERBETS乐队。2000年BLANKEY
-JET
-CITY乐队解散後，乐队更加活跃，但在2002年乐队组建后，乐队便终止了活动。2005年再次活動。当年，浅井同时参与JUDE和SHERBETS二乐队的活动，十分忙。乐队代言人浅井将乐队SHERBETS称做“宝物”。
-2011年在《FREE》发行前，他在杂志上曾经发表过乐队要解散的言论，但之后就将其撤回了。在那之后乐队继续紧锣密鼓地活动着。
+**SHERBETS**（シャーベッツ）是原[BLANKEY JET CITY乐队成员](../Page/Blankey_Jet_City.md "wikilink")组建的4人[另类摇滚](../Page/另类摇滚.md "wikilink")[乐队](https://zh.wikipedia.org/wiki/乐队 "wikilink")。BLANKEY JET CITY在1996年起以**SHERBET**（シャーベット）的名义活动，当时其音乐以不插电乐器为主，而1998年起，则结成了现在风格的新生SHERBETS乐队。2000年BLANKEY JET CITY乐队解散後，乐队更加活跃，但在2002年乐队组建后，乐队便终止了活动。2005年再次活動。当年，浅井同时参与JUDE和SHERBETS二乐队的活动，十分忙。乐队代言人浅井将乐队SHERBETS称做“宝物”。 2011年在《FREE》发行前，他在杂志上曾经发表过乐队要解散的言论，但之后就将其撤回了。在那之后乐队继续紧锣密鼓地活动着。
 
 ## 成员
 
@@ -1139,11 +1133,8 @@ BVBR-11112:通常盤DVD</p></td>
 
 ### 出演演唱会
 
-  - 2000年8月12日 - [ROCK IN JAPAN
-    FESTIVAL](https://zh.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink")
-    2000
-  - 2001年7月27日 - [FUJI ROCK FESTIVAL](../Page/日本富士搖滾音樂祭.md "wikilink")
-    '01
+  - 2000年8月12日 - [ROCK IN JAPAN FESTIVAL](https://zh.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink") 2000
+  - 2001年7月27日 - [FUJI ROCK FESTIVAL](../Page/日本富士搖滾音樂祭.md "wikilink") '01
   - 2001年8月11日 -  2001
   - 2001年8月18日 -  2001 in EZO
   - 2001年8月25日 - '01
@@ -1165,15 +1156,13 @@ BVBR-11112:通常盤DVD</p></td>
   - 2012年5月18日 -  Presents "MOTORAMA 01"
   - 2012年7月21日 - JOIN ALIVE 2012
   - 2012年8月25日 - RockDaze\! 2012
-  - 2014年12月11日 - SEXY STONES RECORDS 15th Before Anniversary Special
-    Thanks\! - SSR history and the future -
+  - 2014年12月11日 - SEXY STONES RECORDS 15th Before Anniversary Special Thanks\! - SSR history and the future -
   - 2016年6月7日 - J-WAVE TOKYO REAL-EYES "LIVE SUPERNOVA 野音DX"
   - 2016年7月8日 - NiPPoN RockS
   - 2016年9月18日 - Ready Steady George\!\! presents "Radio Riot"
   - 2016年12月19日 - LONDON NITE X'mas Special 2015
   - 2016年4月??日 - ARABAKI ROCK FEST.16
-  - 2016年7月24日 - [FUJI ROCK
-    FESTIVAL](../Page/日本富士搖滾音樂祭.md "wikilink")'16
+  - 2016年7月24日 - [FUJI ROCK FESTIVAL](../Page/日本富士搖滾音樂祭.md "wikilink")'16
 
 ## 扩展链接
 
@@ -1182,7 +1171,4 @@ BVBR-11112:通常盤DVD</p></td>
   - [SHERBETS | SonyMusic](http://www.sonymusic.co.jp/artist/sherbets/)
 
   -
-[Category:日本摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本摇滚乐团 "wikilink")
-[Category:日本富士搖滾音樂祭參加歌手](https://zh.wikipedia.org/wiki/Category:日本富士搖滾音樂祭參加歌手 "wikilink")
-[Category:1996年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1996年成立的音樂團體 "wikilink")
-[Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://zh.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink")
+[Category:日本摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本摇滚乐团 "wikilink") [Category:日本富士搖滾音樂祭參加歌手](https://zh.wikipedia.org/wiki/Category:日本富士搖滾音樂祭參加歌手 "wikilink") [Category:1996年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1996年成立的音樂團體 "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://zh.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink")

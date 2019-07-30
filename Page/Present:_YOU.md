@@ -1,22 +1,12 @@
-《**Present:
-YOU**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[GOT7的第三張韓語正規專輯](../Page/GOT7.md "wikilink")。由[JYP娛樂製作](../Page/JYP娛樂.md "wikilink")，唱片公司為iRiver，於2018年9月17日發行。共收錄十五首曲目加一首純音樂，主打歌為《Lullaby》。12月3日，發行改版專輯
-\<Present : YOU\> \&ME Edition，主打歌為《MiRACLE》。
+《**Present: YOU**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[GOT7](../Page/GOT7.md "wikilink")的第三張韓語正規專輯。由[JYP娛樂](../Page/JYP娛樂.md "wikilink")製作，唱片公司為iRiver，於2018年9月17日發行。共收錄十五首曲目加一首純音樂，主打歌為《Lullaby》。12月3日，發行改版專輯 \<Present : YOU\> \&ME Edition，主打歌為《MiRACLE》。
 
 ## 背景
 
-早在2018年8月24號的「Eyes On
-You」世界巡迴演唱會香港場上，GOT7就以影片形式預告將在9月回歸以正規專輯回歸，並公佈新專輯名字叫《**Present:
-YOU**》。在8月29日官方，透過推特、臉書發佈回歸的概念照，並公佈回歸日期。\[1\]30日公開專輯曲目清單，公佈專輯會收錄每個成員的個人演唱歌曲和除了韓文版外另外三種語言的主打曲。31日，陸續公開成員個人及小組預告照，並在9月1日發佈了四種不同語言的主打曲歌詞預告。9月7日，陸續公開每個成員的個人演唱歌曲MV。9月16日，韓國時間晚上11時在Vlive以直播形式進行回歸倒數，並提前公佈了收錄曲
-I Am Me　。在17日韓國時間晚上6時公開主打曲Lullaby的MV和所以歌曲的音源，並在晚上8時在電視節目《GOT7 COMEBACK
-SHOW》中首次公開新舞台，這也是他們第一次在電視節目中公開最初舞台。
+早在2018年8月24號的「Eyes On You」世界巡迴演唱會香港場上，GOT7就以影片形式預告將在9月回歸以正規專輯回歸，並公佈新專輯名字叫《**Present: YOU**》。在8月29日官方，透過推特、臉書發佈回歸的概念照，並公佈回歸日期。\[1\]30日公開專輯曲目清單，公佈專輯會收錄每個成員的個人演唱歌曲和除了韓文版外另外三種語言的主打曲。31日，陸續公開成員個人及小組預告照，並在9月1日發佈了四種不同語言的主打曲歌詞預告。9月7日，陸續公開每個成員的個人演唱歌曲MV。9月16日，韓國時間晚上11時在Vlive以直播形式進行回歸倒數，並提前公佈了收錄曲 I Am Me　。在17日韓國時間晚上6時公開主打曲Lullaby的MV和所以歌曲的音源，並在晚上8時在電視節目《GOT7 COMEBACK SHOW》中首次公開新舞台，這也是他們第一次在電視節目中公開最初舞台。
 
 #### 改版專輯《 \<Present : YOU\> \&ME Edition》
 
-11月16日,公布將於12月3日發行改版專輯 \<Present : YOU\> \&ME Edition
-。19日,公佈新曲預告。21日,公開專輯收錄曲目除了主打曲《MiRACLE》外.另收錄了11首新曲,當中有9首歌曲是演唱會特別舞台的錄音室版本。12月3日韓國時間5時，在Vlive直播《\<Present
-: YOU\> \&ME Edition COUNTDOWN
-LIVE》，並在直播中率先公佈及演唱主打曲《MiRACLE》MV和演唱收錄曲《Take
-Me To You》。韓國時間6時，公開新專輯音源並發行專輯。
+11月16日,公布將於12月3日發行改版專輯 \<Present : YOU\> \&ME Edition 。19日,公佈新曲預告。21日,公開專輯收錄曲目除了主打曲《MiRACLE》外.另收錄了11首新曲,當中有9首歌曲是演唱會特別舞台的錄音室版本。12月3日韓國時間5時，在Vlive直播《\<Present : YOU\> \&ME Edition COUNTDOWN LIVE》，並在直播中率先公佈及演唱主打曲《MiRACLE》MV和演唱收錄曲《Take Me To You》。韓國時間6時，公開新專輯音源並發行專輯。
 
 ## 發行版本
 
@@ -133,11 +123,7 @@ Me To You》。韓國時間6時，公開新專輯音源並發行專輯。
   -
   -
   -
-[Category:2018年音樂專輯](https://zh.wikipedia.org/wiki/Category:2018年音樂專輯 "wikilink")
-[Category:GOT7音樂專輯](https://zh.wikipedia.org/wiki/Category:GOT7音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:2018年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2018年Gaon專輯週榜冠軍作品 "wikilink")
-[Category:2018年Gaon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2018年Gaon專輯月榜冠軍作品 "wikilink")
+[Category:2018年音樂專輯](https://zh.wikipedia.org/wiki/Category:2018年音樂專輯 "wikilink") [Category:GOT7音樂專輯](https://zh.wikipedia.org/wiki/Category:GOT7音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:2018年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2018年Gaon專輯週榜冠軍作品 "wikilink") [Category:2018年Gaon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2018年Gaon專輯月榜冠軍作品 "wikilink")
 
 1.
 2.

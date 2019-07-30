@@ -1,8 +1,6 @@
 require('Module:No globals')
 
-local p = {} local ac_conf = require('Module:Authority control').conf
-local currentTitle = mw.title.getCurrentTitle() local title =
-currentTitle.text local isCat = (currentTitle.namespace == 14)
+local p = {} local ac_conf = require('Module:Authority control').conf local currentTitle = mw.title.getCurrentTitle() local title = currentTitle.text local isCat = (currentTitle.namespace == 14)
 
 local function whichTOC( frame )
 
@@ -44,8 +42,7 @@ end
 `           local txWPCat = frame:expandTemplate{ title = 'Wikipedia category', args = { hidden = 'yes', tracking = 'yes' } }`
 `           local txTOC = whichTOC( frame )`
 `           local outString = txCatExplain..txCatMore..txEmptyCat..txWPCat..txTOC..'\n'..`
-`                   '本分类中的页面应该只能由`[`Module:Authority``
- ``control添加`](https://zh.wikipedia.org/wiki/Module:Authority_control "wikilink")`。'..`
+`                   '本分类中的页面应该只能由`[`Module:Authority``   ``control添加`](https://zh.wikipedia.org/wiki/Module:Authority_control "wikilink")`。'..`
 `                   ''..`
 `                   ''`
 `           return outString`
@@ -65,8 +62,7 @@ end
 `           local txWPCat = frame:expandTemplate{ title = 'Wikipedia category', args = { hidden = 'yes', tracking = 'yes' } }`
 `           local txTOC = whichTOC( frame )`
 `           local outString = txCatMore..txEmptyCat..txWPCat..txTOC..'\n'..`
-`                   '本分类中的页面应该只能由`[`Module:Authority``
- ``control添加`](https://zh.wikipedia.org/wiki/Module:Authority_control "wikilink")`。'..`
+`                   '本分类中的页面应该只能由`[`Module:Authority``   ``control添加`](https://zh.wikipedia.org/wiki/Module:Authority_control "wikilink")`。'..`
 `                   ''..`
 `                   ''`
 `           return outString`
@@ -87,8 +83,7 @@ end
 `           local txWPCat = frame:expandTemplate{ title = 'Wikipedia category', args = { hidden = 'yes', tracking = 'yes' } }`
 `           local txTOC = whichTOC( frame )`
 `           local outString = txCatExplain..txCatMore..txEmptyCat..txWPCat..txTOC..'\n'..`
-`                   '本分类中的页面应该只能由`[`Module:Authority``
- ``control添加`](https://zh.wikipedia.org/wiki/Module:Authority_control "wikilink")`。'..`
+`                   '本分类中的页面应该只能由`[`Module:Authority``   ``control添加`](https://zh.wikipedia.org/wiki/Module:Authority_control "wikilink")`。'..`
 `                   ''..`
 `                   ''`
 `           return outString`
@@ -110,8 +105,7 @@ end
 `           local txDirtyCat = frame:expandTemplate{ title = 'Polluted category' }`
 `           local txTOC = whichTOC( frame )`
 `           local outString = txCatMore..txEmptyCat..txWPCat..txDirtyCat..txTOC..'\n'..`
-`                   '本分类中的页面应该只能由`[`Module:Authority``
- ``control添加`](https://zh.wikipedia.org/wiki/Module:Authority_control "wikilink")`。'..`
+`                   '本分类中的页面应该只能由`[`Module:Authority``   ``control添加`](https://zh.wikipedia.org/wiki/Module:Authority_control "wikilink")`。'..`
 `                   ''..`
 `                   ''`
 `           return outString`
@@ -143,22 +137,4 @@ end
 
 return p
 
-[Category:Pages_with_authority_control_information](https://zh.wikipedia.org/wiki/Category:Pages_with_authority_control_information "wikilink")
-[Category:Pages_with_VIAF_identifiers](https://zh.wikipedia.org/wiki/Category:Pages_with_VIAF_identifiers "wikilink")
-[Category:包含规范控制信息的页面](https://zh.wikipedia.org/wiki/Category:包含规范控制信息的页面 "wikilink")
-[Category:Miscellaneous_pages_with_authority_control_information](https://zh.wikipedia.org/wiki/Category:Miscellaneous_pages_with_authority_control_information "wikilink")
-[Category:Miscellaneous_pages_with_VIAF_identifiers](https://zh.wikipedia.org/wiki/Category:Miscellaneous_pages_with_VIAF_identifiers "wikilink")
-[Category:包含'..id..'标识符的页面](https://zh.wikipedia.org/wiki/Category:包含'..id..'标识符的页面 "wikilink")
-[Category:包含规范控制信息的其他页面](https://zh.wikipedia.org/wiki/Category:包含规范控制信息的其他页面 "wikilink")
-[Category:User_pages_with_authority_control_information](https://zh.wikipedia.org/wiki/Category:User_pages_with_authority_control_information "wikilink")
-[Category:User_pages_with_VIAF_identifiers](https://zh.wikipedia.org/wiki/Category:User_pages_with_VIAF_identifiers "wikilink")
-[Category:包含'..id..'标识符的页面](https://zh.wikipedia.org/wiki/Category:包含'..id..'标识符的页面 "wikilink")
-[Category:包含规范控制信息的用户页](https://zh.wikipedia.org/wiki/Category:包含规范控制信息的用户页 "wikilink")
-[Category:Wikipedia_articles_with_authority_control_information](https://zh.wikipedia.org/wiki/Category:Wikipedia_articles_with_authority_control_information "wikilink")
-[Category:Wikipedia_articles_with_VIAF_identifiers](https://zh.wikipedia.org/wiki/Category:Wikipedia_articles_with_VIAF_identifiers "wikilink")
-[Category:包含'..id..'标识符的页面](https://zh.wikipedia.org/wiki/Category:包含'..id..'标识符的页面 "wikilink")
-[Category:包含规范控制信息的维基百科条目](https://zh.wikipedia.org/wiki/Category:包含规范控制信息的维基百科条目 "wikilink")
-[Category:Wikipedia_articles_with_faulty_authority_control_information](https://zh.wikipedia.org/wiki/Category:Wikipedia_articles_with_faulty_authority_control_information "wikilink")
-[Category:Wikipedia_articles_with_faulty_authority_control_identifiers_(VIAF)](https://zh.wikipedia.org/wiki/Category:Wikipedia_articles_with_faulty_authority_control_identifiers_\(VIAF\) "wikilink")
-[Category:包含'..id..'标识符的页面](https://zh.wikipedia.org/wiki/Category:包含'..id..'标识符的页面 "wikilink")
-[Category:包含错误规范控制信息的维基百科条目](https://zh.wikipedia.org/wiki/Category:包含错误规范控制信息的维基百科条目 "wikilink")
+[Category:Pages_with_authority_control_information](https://zh.wikipedia.org/wiki/Category:Pages_with_authority_control_information "wikilink") [Category:Pages_with_VIAF_identifiers](https://zh.wikipedia.org/wiki/Category:Pages_with_VIAF_identifiers "wikilink") [Category:包含规范控制信息的页面](https://zh.wikipedia.org/wiki/Category:包含规范控制信息的页面 "wikilink") [Category:Miscellaneous_pages_with_authority_control_information](https://zh.wikipedia.org/wiki/Category:Miscellaneous_pages_with_authority_control_information "wikilink") [Category:Miscellaneous_pages_with_VIAF_identifiers](https://zh.wikipedia.org/wiki/Category:Miscellaneous_pages_with_VIAF_identifiers "wikilink") [Category:包含'..id..'标识符的页面](https://zh.wikipedia.org/wiki/Category:包含'..id..'标识符的页面 "wikilink") [Category:包含规范控制信息的其他页面](https://zh.wikipedia.org/wiki/Category:包含规范控制信息的其他页面 "wikilink") [Category:User_pages_with_authority_control_information](https://zh.wikipedia.org/wiki/Category:User_pages_with_authority_control_information "wikilink") [Category:User_pages_with_VIAF_identifiers](https://zh.wikipedia.org/wiki/Category:User_pages_with_VIAF_identifiers "wikilink") [Category:包含'..id..'标识符的页面](https://zh.wikipedia.org/wiki/Category:包含'..id..'标识符的页面 "wikilink") [Category:包含规范控制信息的用户页](https://zh.wikipedia.org/wiki/Category:包含规范控制信息的用户页 "wikilink") [Category:Wikipedia_articles_with_authority_control_information](https://zh.wikipedia.org/wiki/Category:Wikipedia_articles_with_authority_control_information "wikilink") [Category:Wikipedia_articles_with_VIAF_identifiers](https://zh.wikipedia.org/wiki/Category:Wikipedia_articles_with_VIAF_identifiers "wikilink") [Category:包含'..id..'标识符的页面](https://zh.wikipedia.org/wiki/Category:包含'..id..'标识符的页面 "wikilink") [Category:包含规范控制信息的维基百科条目](https://zh.wikipedia.org/wiki/Category:包含规范控制信息的维基百科条目 "wikilink") [Category:Wikipedia_articles_with_faulty_authority_control_information](https://zh.wikipedia.org/wiki/Category:Wikipedia_articles_with_faulty_authority_control_information "wikilink") [Category:Wikipedia_articles_with_faulty_authority_control_identifiers_(VIAF)](https://zh.wikipedia.org/wiki/Category:Wikipedia_articles_with_faulty_authority_control_identifiers_\(VIAF\) "wikilink") [Category:包含'..id..'标识符的页面](https://zh.wikipedia.org/wiki/Category:包含'..id..'标识符的页面 "wikilink") [Category:包含错误规范控制信息的维基百科条目](https://zh.wikipedia.org/wiki/Category:包含错误规范控制信息的维基百科条目 "wikilink")

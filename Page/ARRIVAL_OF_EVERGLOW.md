@@ -1,13 +1,10 @@
-《**ARRIVAL OF
-EVERGLOW**》是[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[女子組合](../Page/女子音乐组合.md "wikilink")[EVERGLOW作為出道作品的首張單曲專輯](../Page/EVERGLOW.md "wikilink")，由[乐华娱乐於](../Page/乐华娱乐.md "wikilink")2019年3月18日發行，主打歌曲為《봉봉쇼콜라(Bon
-Bon Chocolat)》。\[1\]\[2\]
+《**ARRIVAL OF EVERGLOW**》是[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[女子組合](../Page/女子音乐组合.md "wikilink")[EVERGLOW](../Page/EVERGLOW.md "wikilink")作為出道作品的首張單曲專輯，由[乐华娱乐](../Page/乐华娱乐.md "wikilink")於2019年3月18日發行，主打歌曲為《봉봉쇼콜라(Bon Bon Chocolat)》。\[1\]\[2\]
 
 ## 日程
 
 3月7日，透過官方Instagram 宣布將於3月18日發行出道專輯《ARRIVAL OF EVERGLOW》\[3\]。
 
-3月18日下午6点，发布《[봉봉쇼콜라 (Bon Bon
-Chocolat)](https://www.youtube.com/watch?v=HvGql8HwOIM)》官方MV。\[4\]
+3月18日下午6点，发布《[봉봉쇼콜라 (Bon Bon Chocolat)](https://www.youtube.com/watch?v=HvGql8HwOIM)》官方MV。\[4\]
 
 ## 曲目
 
@@ -138,8 +135,7 @@ Chocolat)](https://www.youtube.com/watch?v=HvGql8HwOIM)》官方MV。\[4\]
 
 ## 參考
 
-[Category:2019年單曲](https://zh.wikipedia.org/wiki/Category:2019年單曲 "wikilink")
-[Category:EVERGLOW](https://zh.wikipedia.org/wiki/Category:EVERGLOW "wikilink")
+[Category:2019年單曲](https://zh.wikipedia.org/wiki/Category:2019年單曲 "wikilink") [Category:EVERGLOW](https://zh.wikipedia.org/wiki/Category:EVERGLOW "wikilink")
 
 1.
 2.

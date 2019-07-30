@@ -1,5 +1,4 @@
-《**daily
-news**》為[日本女歌手](../Page/日本.md "wikilink")[華原朋美的第](../Page/華原朋美.md "wikilink")13張單曲，為其最後一首由[小室哲哉製作的單曲](../Page/小室哲哉.md "wikilink")。
+《**daily news**》為[日本](../Page/日本.md "wikilink")女歌手[華原朋美](../Page/華原朋美.md "wikilink")的第13張單曲，為其最後一首由[小室哲哉](../Page/小室哲哉.md "wikilink")製作的單曲。
 
 ## 說明
 
@@ -15,9 +14,4 @@ news**》為[日本女歌手](../Page/日本.md "wikilink")[華原朋美的第](
 2.  daily news \[Intensive Remix\]
 3.  daily news \[Instrumental\]
 
-[Category:華原朋美歌曲](https://zh.wikipedia.org/wiki/Category:華原朋美歌曲 "wikilink")
-[Category:1998年單曲](https://zh.wikipedia.org/wiki/Category:1998年單曲 "wikilink")
-[Category:小室哲哉創作的詞曲](https://zh.wikipedia.org/wiki/Category:小室哲哉創作的詞曲 "wikilink")
-[Category:日本華納音樂歌曲](https://zh.wikipedia.org/wiki/Category:日本華納音樂歌曲 "wikilink")
-[Category:NHK紅白歌合戰演唱歌曲](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰演唱歌曲 "wikilink")
-[Category:飲料廣告歌曲](https://zh.wikipedia.org/wiki/Category:飲料廣告歌曲 "wikilink")
+[Category:華原朋美歌曲](https://zh.wikipedia.org/wiki/Category:華原朋美歌曲 "wikilink") [Category:1998年單曲](https://zh.wikipedia.org/wiki/Category:1998年單曲 "wikilink") [Category:小室哲哉創作的詞曲](https://zh.wikipedia.org/wiki/Category:小室哲哉創作的詞曲 "wikilink") [Category:日本華納音樂歌曲](https://zh.wikipedia.org/wiki/Category:日本華納音樂歌曲 "wikilink") [Category:NHK紅白歌合戰演唱歌曲](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰演唱歌曲 "wikilink") [Category:飲料廣告歌曲](https://zh.wikipedia.org/wiki/Category:飲料廣告歌曲 "wikilink")

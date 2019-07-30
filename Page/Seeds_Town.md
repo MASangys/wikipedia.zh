@@ -1,0 +1,5 @@
+**Seeds Town** is a children's picture book by Guangxi Normal University Press in January 2019. The author is Chinese children's book writer Zhang Hejun. The drawing is Ukrainian illustrator Nikola Lomakin and color expert Lyudmila Osipo. baby.
+
+The Seeds Town series tells the story of Mr. Verne and the seeds from all over the world living at the entrance to the heart of the earth. The residents of Guoren Town are seeds from various countries. Their personality and hobbies are different. The greatest pleasure is to help the children on the earth to fulfill their wishes. Their common point is full of imagination and love. A world full of love and desire, facing challenges for dreams. Parents reading such a magic book to their children will show them the power of the world's diversity and good wishes. \[1\] Former Ukrainian beauty prime minister encourages children around the world to pursue dreams through Seeds Town
+
+1.  <https://www.takefoto.cn/viewnews-1803363.html>

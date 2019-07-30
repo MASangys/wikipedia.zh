@@ -1,11 +1,4 @@
-**三星Galaxy Camera
-2**是一款[傻瓜相機](https://zh.wikipedia.org/wiki/傻瓜相機 "wikilink")，是一款基於[Android的](../Page/Android.md "wikilink")[移動設備](https://zh.wikipedia.org/wiki/移動設備 "wikilink")。
-Galaxy Camera 2於2014年在內華達州拉斯維加斯舉行的消費者電子展上宣布，採用[Android Jelly
-Bean操作系統](../Page/Android_Jelly_Bean.md "wikilink")，1.6
-GHz四核[Exynos](https://zh.wikipedia.org/wiki/Exynos "wikilink")
-4412處理器和2GB
-[RAM](https://zh.wikipedia.org/wiki/RAM "wikilink")\[1\]。 Galaxy
-Camera 2是三星Galaxy相機的繼承者。\[2\]\[3\]\[4\]
+**三星Galaxy Camera 2**是一款[傻瓜相機](https://zh.wikipedia.org/wiki/傻瓜相機 "wikilink")，是一款基於[Android](../Page/Android.md "wikilink")的[移動設備](https://zh.wikipedia.org/wiki/移動設備 "wikilink")。 Galaxy Camera 2於2014年在內華達州拉斯維加斯舉行的消費者電子展上宣布，採用[Android Jelly Bean操作系統](../Page/Android_Jelly_Bean.md "wikilink")，1.6 GHz四核[Exynos](https://zh.wikipedia.org/wiki/Exynos "wikilink") 4412處理器和2GB [RAM](https://zh.wikipedia.org/wiki/RAM "wikilink")\[1\]。 Galaxy Camera 2是三星Galaxy相機的繼承者。\[2\]\[3\]\[4\]
 
 ## 較前代產品的變化
 
@@ -25,13 +18,9 @@ RAM升至2GB、增加了NFC、電池容量升至2000 mAh、重量輕了17克。�
 
 ## 外部連結
 
-  - [Samsung CCTV
-    Camera](https://datavox.in/samsung-cctv-cochin-kerala/)
+  - [Samsung CCTV Camera](https://datavox.in/samsung-cctv-cochin-kerala/)
 
-[Category:三星數位相機](https://zh.wikipedia.org/wiki/Category:三星數位相機 "wikilink")
-[Category:三星Galaxy](https://zh.wikipedia.org/wiki/Category:三星Galaxy "wikilink")
-[Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink")
-[Category:2014年面世的相機](https://zh.wikipedia.org/wiki/Category:2014年面世的相機 "wikilink")
+[Category:三星數位相機](https://zh.wikipedia.org/wiki/Category:三星數位相機 "wikilink") [Category:三星Galaxy](https://zh.wikipedia.org/wiki/Category:三星Galaxy "wikilink") [Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink") [Category:2014年面世的相機](https://zh.wikipedia.org/wiki/Category:2014年面世的相機 "wikilink")
 
 1.
 2.

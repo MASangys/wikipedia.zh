@@ -101,8 +101,7 @@
 
 ## 脚注
 
-[Category:2018年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2018年韓國電視劇集 "wikilink")
-[Category:KBS特輯電視劇](https://zh.wikipedia.org/wiki/Category:KBS特輯電視劇 "wikilink")
+[Category:2018年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2018年韓國電視劇集 "wikilink") [Category:KBS特輯電視劇](https://zh.wikipedia.org/wiki/Category:KBS特輯電視劇 "wikilink")
 
 1.  [1](https://en.wikipedia.org/wiki/To._Jenny)
 2.  [2](https://ko.wikipedia.org/wiki/투_제니)

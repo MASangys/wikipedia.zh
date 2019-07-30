@@ -1,5 +1,4 @@
-《**維多利亞 Victoria
-One**》\[1\]是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[古巨基的個人音樂專輯](../Page/古巨基.md "wikilink")，於2018年12月11日推出。
+《**維多利亞 Victoria One**》\[1\]是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[古巨基](../Page/古巨基.md "wikilink")的個人音樂專輯，於2018年12月11日推出。
 
 ## 曲目列表
 
@@ -21,11 +20,6 @@ One**》\[1\]是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md
 
 ## 參考文獻
 
-[Category:古巨基音樂專輯](https://zh.wikipedia.org/wiki/Category:古巨基音樂專輯 "wikilink")
-[Category:2018年音樂專輯](https://zh.wikipedia.org/wiki/Category:2018年音樂專輯 "wikilink")
-[Category:2018年迷你專輯](https://zh.wikipedia.org/wiki/Category:2018年迷你專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
-[Category:英皇娛樂音樂專輯](https://zh.wikipedia.org/wiki/Category:英皇娛樂音樂專輯 "wikilink")
+[Category:古巨基音樂專輯](https://zh.wikipedia.org/wiki/Category:古巨基音樂專輯 "wikilink") [Category:2018年音樂專輯](https://zh.wikipedia.org/wiki/Category:2018年音樂專輯 "wikilink") [Category:2018年迷你專輯](https://zh.wikipedia.org/wiki/Category:2018年迷你專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:英皇娛樂音樂專輯](https://zh.wikipedia.org/wiki/Category:英皇娛樂音樂專輯 "wikilink")
 
 1.

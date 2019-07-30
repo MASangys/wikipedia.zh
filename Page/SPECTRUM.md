@@ -21,18 +21,13 @@ Dongkyu及Hwarang已完成兵役。
 
 Dongkyu曾是男團[Under dog成員](../Page/Under_dog.md "wikilink")。
 
-2017年10月，Jaehan以MMO娛樂練習生身份參與《[PRODUCE 101
-第二季](../Page/PRODUCE_101_第二季.md "wikilink")》，最終排名第81名，未能透過節目出道。
+2017年10月，Jaehan以MMO娛樂練習生身份參與《[PRODUCE 101 第二季](../Page/PRODUCE_101_第二季.md "wikilink")》，最終排名第81名，未能透過節目出道。
 
 2017年10月，Dongyoon以WYNN練習生身份參與《[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")》，最終排名第21名，未能透過節目出道。
 
 ## 參考文獻
 
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:2018年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2018年成立的音樂團體 "wikilink")
-[Category:2018年韓國建立](https://zh.wikipedia.org/wiki/Category:2018年韓國建立 "wikilink")
+[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2018年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2018年成立的音樂團體 "wikilink") [Category:2018年韓國建立](https://zh.wikipedia.org/wiki/Category:2018年韓國建立 "wikilink")
 
 1.
 2.

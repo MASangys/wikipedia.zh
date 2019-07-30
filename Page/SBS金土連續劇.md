@@ -2,7 +2,7 @@
 
 ## 簡介
 
-此時段前身為[SBS週末特別計劃劇時段](../Page/SBS週末特別計劃劇.md "wikilink")（於每周六8時50分至11時10分播映）。該時段曾於2016年10月因收視率低迷而廢除，後於2018年3月恢復。然則，由於在恢復後的收視率依然不理想，遠低於同時段競爭的[MBC週末特別計劃劇](../Page/MBC週末特別計劃連續劇.md "wikilink")。因此，SBS於2019年2月再度廢除週末特別計劃劇時段於週六連播四集的安排，改為金土連續劇時段於星期五、六晚上10時至11時各播放兩集。SBS金土連續劇時段首部電視劇為《[熱血祭司](../Page/熱血祭司.md "wikilink")》\[1\]。
+此時段前身為[SBS週末特別計劃劇](../Page/SBS週末特別計劃劇.md "wikilink")時段（於每周六8時50分至11時10分播映）。該時段曾於2016年10月因收視率低迷而廢除，後於2018年3月恢復。然則，由於在恢復後的收視率依然不理想，遠低於同時段競爭的[MBC週末特別計劃劇](../Page/MBC週末特別計劃連續劇.md "wikilink")。因此，SBS於2019年2月再度廢除週末特別計劃劇時段於週六連播四集的安排，改為金土連續劇時段於星期五、六晚上10時至11時各播放兩集。SBS金土連續劇時段首部電視劇為《[熱血祭司](../Page/熱血祭司.md "wikilink")》\[1\]。
 
 ## 電視劇列表
 
@@ -55,7 +55,7 @@
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>2019年7月19日－<br />
-2019年9月</p></td>
+2019年9月7日</p></td>
 <td style="text-align: center;"><p><a href="../Page/醫生約翰.md" title="wikilink">醫生約翰</a><br />
 </p></td>
 <td style="text-align: center;"><p>32</p></td>
@@ -65,9 +65,9 @@
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p>2019年9月日－<br />
-2019年月日</p></td>
-<td style="text-align: center;"><p>-{<a href="../Page/VAGABOND_(電視劇).md" title="wikilink">VAGABOND</a>}-<br />
+<td style="text-align: center;"><p>2019年9月27日－<br />
+2019年11月16日</p></td>
+<td style="text-align: center;"><p><a href="../Page/VAGABOND_(電視劇).md" title="wikilink">VAGABOND</a><br />
 </p></td>
 <td style="text-align: center;"><p>32</p></td>
 <td style="text-align: center;"><p><a href="../Page/李昇基.md" title="wikilink">李昇基</a>、<a href="https://zh.wikipedia.org/wiki/裴秀智" title="wikilink">裴秀智</a></p></td>
@@ -117,9 +117,6 @@
 
   - [韓國SBS官方網站](https://programs.sbs.co.kr/)
 
-[Category:動態列表](https://zh.wikipedia.org/wiki/Category:動態列表 "wikilink")
-[Category:SBS金土連續劇](https://zh.wikipedia.org/wiki/Category:SBS金土連續劇 "wikilink")
-[Category:韓國電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:韓國電視台電視劇列表 "wikilink")
-[Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink")
+[Category:動態列表](https://zh.wikipedia.org/wiki/Category:動態列表 "wikilink") [Category:SBS金土連續劇](https://zh.wikipedia.org/wiki/Category:SBS金土連續劇 "wikilink") [Category:韓國電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:韓國電視台電視劇列表 "wikilink") [Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink")
 
 1.

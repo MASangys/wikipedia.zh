@@ -1,5 +1,4 @@
-《**BLUE;S**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[MAMAMOO的第八張韓語迷你專輯](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink")，此專輯為「四季系列」的第三季節。由Rainbow
-Bridge World企劃製作，透過Kakao M於2018年11月29日發行，主打曲為《Wind flower》。
+《**BLUE;S**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[MAMAMOO的第八張韓語迷你專輯](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink")，此專輯為「四季系列」的第三季節。由Rainbow Bridge World企劃製作，透過Kakao M於2018年11月29日發行，主打曲為《Wind flower》。
 
 ## 背景
 
@@ -9,8 +8,7 @@ Bridge World企劃製作，透過Kakao M於2018年11月29日發行，主打曲�
 
 專輯名稱「BLUE;S」取自組合成員頌樂於四季系列計畫中的代表色藍色。本張專輯概念，以秋天離別氛圍為出發，專輯內含的6首歌，皆選以「離別」作為題材，展現有別於以往的感性形象。
 
-主打歌《Wind flower》是一首以感性的吉他演奏為主的 R\&B
-曲風，歌詞描寫與戀人分手後，傷心、孤單的心情，以及希望曾經一起相處過的美好回憶可以全部隨風而逝，展開全新的開始。\[2\]
+主打歌《Wind flower》是一首以感性的吉他演奏為主的 R\&B 曲風，歌詞描寫與戀人分手後，傷心、孤單的心情，以及希望曾經一起相處過的美好回憶可以全部隨風而逝，展開全新的開始。\[2\]
 
 ## 曲目
 
@@ -120,15 +118,10 @@ Bridge World企劃製作，透過Kakao M於2018年11月29日發行，主打曲�
   -
 ## 參考文獻
 
-[Category:2018年音樂專輯](https://zh.wikipedia.org/wiki/Category:2018年音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:Mamamoo音樂專輯](https://zh.wikipedia.org/wiki/Category:Mamamoo音樂專輯 "wikilink")
-[Category:2018年迷你專輯](https://zh.wikipedia.org/wiki/Category:2018年迷你專輯 "wikilink")
+[Category:2018年音樂專輯](https://zh.wikipedia.org/wiki/Category:2018年音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:Mamamoo音樂專輯](https://zh.wikipedia.org/wiki/Category:Mamamoo音樂專輯 "wikilink") [Category:2018年迷你專輯](https://zh.wikipedia.org/wiki/Category:2018年迷你專輯 "wikilink")
 
-1.  [MAMAMOO
-    陪你一整年！閃電宣布「本月底發行新專輯」](https://www.koreastardaily.com/tc/news/111023)
-2.  [MAMAMOO 攜迷你八輯回歸，主打歌《Wind flower》MV
-    公開](https://www.kpopn.com/2018/11/30/mamamoo-8th-mini-album-blue-s-title-wind-flower-mv/)
+1.  [MAMAMOO 陪你一整年！閃電宣布「本月底發行新專輯」](https://www.koreastardaily.com/tc/news/111023)
+2.  [MAMAMOO 攜迷你八輯回歸，主打歌《Wind flower》MV 公開](https://www.kpopn.com/2018/11/30/mamamoo-8th-mini-album-blue-s-title-wind-flower-mv/)
 3.
 4.
 5.

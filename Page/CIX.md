@@ -1,4 +1,6 @@
-**CIX**（韓語：**씨아이엑스**），為韓國[C9娛樂旗下的五人男子團體](https://zh.wikipedia.org/wiki/C9娛樂 "wikilink")。成員包括[BX](../Page/李炳坤.md "wikilink")、[昇勳](../Page/金昇勳.md "wikilink")、龍熙、[珍映及炫晳](https://zh.wikipedia.org/wiki/裴珍映 "wikilink")。2019年7月23月以第一張迷你專輯正式出道。
+**CIX**（韓語：**씨아이엑스**），為韓國[C9娛樂旗下的五人男子團體](https://zh.wikipedia.org/wiki/C9娛樂 "wikilink")。成員包括[BX](../Page/李炳坤.md "wikilink")、[昇勳](../Page/金昇勳.md "wikilink")、龍熙、[珍映及炫晳](https://zh.wikipedia.org/wiki/裴珍映 "wikilink")。2019年7月23日以第一張迷你專輯《HELLO》主打曲《Movie Star》正式出道。
+
+團體口號為：「In X\!大家好，我們是CIX。」
 
 ## 團體資料
 
@@ -8,29 +10,28 @@
 
 ### 成員列表
 
-| 成員列表                            |
-| ------------------------------- |
-| 藝名                              |
-| 漢字                              |
-| [BX](../Page/李炳坤.md "wikilink") |
-| [昇勳](../Page/金昇勳.md "wikilink") |
-| 龍熙                              |
-| [珍映](../Page/裵珍映.md "wikilink") |
-| 炫晳                              |
-| 世訓                              |
+  - 粗體字為隊長。
+
+| 成員列表                                |
+| ----------------------------------- |
+| 藝名                                  |
+| 漢字                                  |
+| **[BX](../Page/李炳坤.md "wikilink")** |
+| [昇勳](../Page/金昇勳.md "wikilink")     |
+| 龍熙                                  |
+| [珍映](../Page/裵珍映.md "wikilink")     |
+| 炫晳                                  |
+| 世訓                                  |
 
 ## 活動經歷
 
 ### 個人經歷
 
-**[BX](../Page/李炳坤.md "wikilink")**：前[YG娛樂練習生](../Page/YG娛樂.md "wikilink")。曾出演《[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")》獲得第9名，為出道組成員、《[YG寶石盒](../Page/YG寶石盒.md "wikilink")》。
+**[BX](../Page/李炳坤.md "wikilink")**：前[YG娛樂](../Page/YG娛樂.md "wikilink")練習生。曾出演《[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")》(獲得第9名，為出道組成員)、《[YG寶石盒](../Page/YG寶石盒.md "wikilink")》。
 
-**[昇勳](../Page/金昇勳.md "wikilink")**：2009年11歲時，加入[Cube娛樂練習約六年](../Page/Cube娛樂.md "wikilink")，2016年，加入[YG娛樂練習約三年](../Page/YG娛樂.md "wikilink")。曾出演《[Stray
-Kids](https://zh.wikipedia.org/wiki/Stray_Kids_\(電視節目\) "wikilink")》、《[YG寶石盒](../Page/YG寶石盒.md "wikilink")》。\[1\]
+**[昇勳](../Page/金昇勳.md "wikilink")**：2009年11歲時，加入[Cube娛樂](../Page/Cube娛樂.md "wikilink")練習約六年，2016年，加入[YG娛樂](../Page/YG娛樂.md "wikilink")練習約三年。曾出演《[Stray Kids](https://zh.wikipedia.org/wiki/Stray_Kids_\(電視節目\) "wikilink")》、《[YG寶石盒](../Page/YG寶石盒.md "wikilink")》。\[1\]
 
-**[珍映](https://zh.wikipedia.org/wiki/珍映 "wikilink")**：曾出演《[PRODUCE
-101第二季](https://zh.wikipedia.org/wiki/PRODUCE_101第二季 "wikilink")》，前[Wanna
-One成員](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")。\[2\]\[3\]
+**[珍映](https://zh.wikipedia.org/wiki/珍映 "wikilink")**：曾出演《[PRODUCE 101第二季](https://zh.wikipedia.org/wiki/PRODUCE_101第二季 "wikilink")》，前[Wanna One成員](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")。\[2\]\[3\]
 
 ### 出道前
 
@@ -43,6 +44,14 @@ One成員](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")。\[2\]\[3\]
 ### 出道後
 
 2019年6月26日，宣布團體將在7月23日發行首張迷你專輯出道，7月24日舉行出道Showcase。\[7\]
+
+7月5日，公佈首張迷你專輯《HELLO》的時程表。
+
+## 音樂作品
+
+### 迷你專輯
+
+  - 《HELLO Chapter 1. Hello Stranger》（19.07.23）
 
 ## 影視作品
 
@@ -92,12 +101,7 @@ One成員](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")。\[2\]\[3\]
   -
   -
   -
-[Category:2019年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2019年成立的音樂團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:C9BOYZ](https://zh.wikipedia.org/wiki/Category:C9BOYZ "wikilink")
-[Category:2019年韓國建立](https://zh.wikipedia.org/wiki/Category:2019年韓國建立 "wikilink")
+[Category:2019年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2019年成立的音樂團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:C9BOYZ](https://zh.wikipedia.org/wiki/Category:C9BOYZ "wikilink") [Category:2019年韓國建立](https://zh.wikipedia.org/wiki/Category:2019年韓國建立 "wikilink")
 
 1.
 2.

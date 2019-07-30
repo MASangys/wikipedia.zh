@@ -1,7 +1,4 @@
-《**狄仁杰：锦蔷薇**》(英语: *Detective Di: The Silk Rose Murders*)为一款由[Nupixo
-Games开发并由](https://zh.wikipedia.org/wiki/Nupixo_Games "wikilink")[Nupixo
-Games](https://zh.wikipedia.org/wiki/Nupixo_Games "wikilink"),[WhisperGames共同发行的](https://zh.wikipedia.org/wiki/WhisperGames "wikilink")[冒险](https://zh.wikipedia.org/wiki/冒险 "wikilink")[解谜游戏](https://zh.wikipedia.org/wiki/益智 "wikilink")。曾于2015年2月25日至2015年3月27日在[Kickstarter](../Page/Kickstarter.md "wikilink")上进行为期30天的[众筹](https://zh.wikipedia.org/wiki/众筹 "wikilink")\[1\]。目前游戏已于2019年5月2日（[北京时间](../Page/北京时间.md "wikilink")）在[Microsoft
-Windows发布](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。
+《**狄仁杰：锦蔷薇**》(英语: *Detective Di: The Silk Rose Murders*)为一款由[Nupixo Games开发并由](https://zh.wikipedia.org/wiki/Nupixo_Games "wikilink")[Nupixo Games](https://zh.wikipedia.org/wiki/Nupixo_Games "wikilink"),[WhisperGames共同发行的](https://zh.wikipedia.org/wiki/WhisperGames "wikilink")[冒险](https://zh.wikipedia.org/wiki/冒险 "wikilink")[解谜游戏](https://zh.wikipedia.org/wiki/益智 "wikilink")。曾于2015年2月25日至2015年3月27日在[Kickstarter](../Page/Kickstarter.md "wikilink")上进行为期30天的[众筹](https://zh.wikipedia.org/wiki/众筹 "wikilink")\[1\]。目前游戏已于2019年5月2日（[北京时间](../Page/北京时间.md "wikilink")）在[Microsoft Windows发布](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。
 
 ## 游戏背景
 

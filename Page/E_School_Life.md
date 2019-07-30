@@ -1,4 +1,4 @@
-是[HOOKSOFT在](../Page/HOOKSOFT.md "wikilink")2019年5月31日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]。
+是[HOOKSOFT](../Page/HOOKSOFT.md "wikilink")在2019年5月31日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]。
 
 ## 故事簡介
 
@@ -44,11 +44,7 @@
 
   - [E School Life遊戲官網](http://www.hook-net.jp/eschoollife/)
 
-[Category:2019年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2019年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink")
+[Category:2019年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2019年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink")
 
 1.
 

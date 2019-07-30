@@ -1,0 +1,88 @@
+### 演出作品
+
+
+電視動畫
+
+**2012年**
+
+  - [Aikatsu！偶像活動！](../Page/Aikatsu！偶像活動！.md "wikilink")（中山優奈、久世若葉、早瀨小夏）
+  - [來自新世界](../Page/來自新世界.md "wikilink")（美鈴）
+  - [鄰座的怪同學](../Page/鄰座的怪同學.md "wikilink")（女學生E）
+
+**2013年**
+
+  - [靈裝戰士](../Page/靈裝戰士.md "wikilink")（綠翡翠<sup>[\[7](https://zh.wikipedia.org/wiki/Special:MobileCite/55184101#cite%20note-7 "wikilink")\]</sup>）
+  - [銀河機攻隊 莊嚴皇子](../Page/銀河機攻隊_莊嚴皇子.md "wikilink")（蘿娜）
+  - [銀之匙 Silver Spoon](https://zh.wikipedia.org/wiki/銀之匙_Silver_Spoon "wikilink")（女學生B）
+  - [我要成為世界最強偶像](https://zh.wikipedia.org/wiki/我要成為世界最強偶像 "wikilink")（早瀨愛華<sup>[\[8](https://zh.wikipedia.org/wiki/Special:MobileCite/55184101#cite%20note-8 "wikilink")\]</sup>）
+  - [科學超電磁砲](../Page/科學超電磁砲.md "wikilink")S（女子）
+  - [超次元戰記 戰機少女](../Page/超次元戰記_戰機少女.md "wikilink")（國民B）
+  - [記錄的地平線](../Page/記錄的地平線.md "wikilink")（莉莉雅娜）
+  - [寶石寵物 Happiness](../Page/寶石寵物_Happiness.md "wikilink")（女學生）
+
+**2014年**
+
+  - [Blade & Soul](https://zh.wikipedia.org/wiki/Blade_&_Soul "wikilink")（**琴·葉月**<sup>[\[9](https://zh.wikipedia.org/wiki/Special:MobileCite/55184101#cite%20note-9 "wikilink")\]</sup>）
+  - [魔法科高中的劣等生](https://zh.wikipedia.org/wiki/魔法科高中的劣等生 "wikilink")（光井穗香）
+  - [LoveLive\!第二季](https://zh.wikipedia.org/wiki/LoveLive! "wikilink")（1年級生A、同學）
+  - [一週的朋友](../Page/一週的朋友.md "wikilink")（**藤宮香織**<sup>[\[10](https://zh.wikipedia.org/wiki/Special:MobileCite/55184101#cite%20note-10 "wikilink")\]</sup>）
+  - [東京喰種](../Page/東京喰種.md "wikilink")（**霧嶋董香**<sup>[\[11](https://zh.wikipedia.org/wiki/Special:MobileCite/55184101#cite%20note-11 "wikilink")\]</sup>）
+  - [ALDNOAH.ZERO](../Page/ALDNOAH.ZERO.md "wikilink")（**婭賽蘭·沃斯·艾露西亞**<sup>[\[12](https://zh.wikipedia.org/wiki/Special:MobileCite/55184101#cite%20note-12 "wikilink")\]</sup>）
+  - [斬！赤紅之瞳](../Page/斬！赤紅之瞳.md "wikilink")（**赤瞳**<sup>[\[13](https://zh.wikipedia.org/wiki/Special:MobileCite/55184101#cite%20note-13 "wikilink")\]</sup>）
+  - [魔彈之王與戰姬](../Page/魔彈之王與戰姬.md "wikilink")（少女）
+  - [愚者信長](../Page/愚者信長.md "wikilink")（操作員B）
+  - [七大罪](../Page/七大罪_\(漫畫\).md "wikilink")（**伊麗莎白**<sup>[\[14](https://zh.wikipedia.org/wiki/Special:MobileCite/55184101#cite%20note-14 "wikilink")\]</sup>）
+
+**2015年**
+
+  - [東京喰種](../Page/東京喰種.md "wikilink")√A（**霧嶋董香**）
+  - [ALDNOAH.ZERO](../Page/ALDNOAH.ZERO.md "wikilink") 第2期（**婭賽蘭·沃斯·艾露西亞**）
+  - [電波教師](../Page/電波教師.md "wikilink")（叶美奈子）
+  - [可塑性記憶](../Page/可塑性記憶.md "wikilink")（**艾拉**）
+  - [Punch Line](../Page/Punch_Line.md "wikilink")（**成木野美香丹**）
+  - [NINJA SLAYER忍者殺手](../Page/NINJA_SLAYER忍者殺手.md "wikilink")（**矢本·小季**）
+  - [Classroom☆Crisis](../Page/Classroom☆Crisis.md "wikilink")（**白崎伊莉絲**）
+  - [魔物娘的同居日常](../Page/魔物娘的同居日常.md "wikilink")（**米婭**）
+
+**2016年**
+
+  - [Divine Gate](https://zh.wikipedia.org/wiki/Divine_Gate "wikilink")（**小紫**）
+  - [為美好的世界獻上祝福！](../Page/為美好的世界獻上祝福！.md "wikilink")（**阿克婭**）
+  - [文豪Stray Dogs](../Page/文豪Stray_Dogs.md "wikilink") 第一期（愛麗絲）
+  - [高校艦隊](../Page/高校艦隊.md "wikilink")（**知名萌香**）
+  - [龍族拼圖X](../Page/龍族拼圖X.md "wikilink")（**索尼婭**）
+  - [Qualidea Code](../Page/Qualidea_Code.md "wikilink")（八重垣青生）
+  - [七大罪 聖戰的預兆](../Page/七大罪_\(漫畫\).md "wikilink")（**伊麗莎白**、幼年的班<sup>[\[15](https://zh.wikipedia.org/wiki/Special:MobileCite/55184101#cite%20note-15 "wikilink")\]</sup>）
+  - [WWW.WORKING\!\!](https://zh.wikipedia.org/wiki/WORKING!!_\(網絡漫畫\) "wikilink")（**鎌倉志保**）
+  - 文豪Stray Dogs 第二期（愛麗絲）
+  - [終末的伊澤塔](../Page/終末的伊澤塔.md "wikilink")（白色魔女、佐菲）
+
+**2017年**
+
+  - [亞人醬有話要說](../Page/亞人醬有話要說.md "wikilink")（克魯茲<sup>[\[16](https://zh.wikipedia.org/wiki/Special:MobileCite/55184101#cite%20note-16 "wikilink")\]</sup>）
+  - [Hand Shakers](../Page/Hand_Shakers.md "wikilink")（高槻結）
+  - [為美好的世界獻上祝福！](../Page/為美好的世界獻上祝福！.md "wikilink")2（**阿克婭**）
+  - [沒有藥給我的哥哥！-快把我哥帶走-](../Page/快把我哥帶走.md "wikilink")（**時秒**、學生）
+  - [Re:CREATORS](../Page/Re:CREATORS.md "wikilink")（**鹿屋瑠偉**<sup>[\[17](https://zh.wikipedia.org/wiki/Special:MobileCite/55184101#cite%20note-17 "wikilink")\]</sup>、主持人〈雨宮天〉）
+  - [戰鬥女子學園](../Page/戰鬥女子學園.md "wikilink")（**成海遙香**）
+  - [悠久持有者：魔法老師！ 第2部](https://zh.wikipedia.org/wiki/悠久持有者 "wikilink")（春日美柑）
+
+**2018年**
+
+  - [七大罪 戒律的復活](https://zh.wikipedia.org/wiki/七大罪_戒律的復活 "wikilink")（**伊麗莎白**）
+  - [新幹線戰士](../Page/新幹線戰士.md "wikilink")（**三原雙葉**）
+  - [OVERLORD II](../Page/OVERLORD_\(小說\).md "wikilink")（寇兒修·露露）
+  - [沒有心跳的少女 BEATLESS](../Page/沒有心跳的少女_BEATLESS.md "wikilink")（**梅忒黛**）
+  - [牙鬥獸娘](../Page/牙鬥獸娘.md "wikilink")（**宇崎瞳〈蜜獾〉**）
+  - 東京喰種:re（**霧島董香**）
+  - [刃牙](../Page/刃牙.md "wikilink")（松本梢江<sup>[\[18](https://zh.wikipedia.org/wiki/Special:MobileCite/55184101#cite%20note-18 "wikilink")\]</sup>）
+  - [青春豬頭少年不會夢到兔女郎學姊](https://zh.wikipedia.org/wiki/青春期豬頭 "wikilink")（廣川卯月）
+  - 東京喰種:re 第2期（**霧島董香**）
+  - [叛逆性百萬亞瑟王](../Page/叛逆性百萬亞瑟王.md "wikilink")（**團長亞瑟**<sup>[\[19](https://zh.wikipedia.org/wiki/Special:MobileCite/55184101#cite%20note-19 "wikilink")\]</sup>）
+
+**2019年**
+
+  - [異世界四重奏](../Page/異世界四重奏.md "wikilink")（**阿克婭**<sup>[\[20](https://zh.wikipedia.org/wiki/Special:MobileCite/55184101#cite%20note-20 "wikilink")\]</sup>）
+  - [流汗吧！健身少女](../Page/流汗吧！健身少女.md "wikilink")（**奏流院朱美**<sup>[\[21](https://zh.wikipedia.org/wiki/Special:MobileCite/55184101#cite%20note-21 "wikilink")\]</sup>）
+
+`OVA`

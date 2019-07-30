@@ -1,5 +1,4 @@
-《**The
-Banker**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC於](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2019年3月27日起播出的[水木連續劇](../Page/MBC水木迷你連續劇.md "wikilink")。改編自日本人氣漫畫《監査役野崎修平》，由《[拖旅行箱的女人](../Page/拖旅行箱的女人.md "wikilink")》的[李在珍導演執導](../Page/李在珍_\(導演\).md "wikilink")，徐恩貞、吳惠蘭、裴尚旭作家共同執筆。此劇講述在金錢和權力聚集的龐大銀行腐敗和不合理情況下，爲維護正義而奮鬥的人們的故事。\[1\]\[2\]
+《**The Banker**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC於](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2019年3月27日起播出的[水木連續劇](../Page/MBC水木迷你連續劇.md "wikilink")。改編自日本人氣漫畫《監査役野崎修平》，由《[拖旅行箱的女人](../Page/拖旅行箱的女人.md "wikilink")》的[李在珍導演執導](../Page/李在珍_\(導演\).md "wikilink")，徐恩貞、吳惠蘭、裴尚旭作家共同執筆。此劇講述在金錢和權力聚集的龐大銀行腐敗和不合理情況下，爲維護正義而奮鬥的人們的故事。\[1\]\[2\]
 
 ## 演員陣容
 
@@ -376,13 +375,9 @@ Banker**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilin
 
 ## 同時段競爭作品
 
-  - [KBS](../Page/韓國放送公社.md "wikilink")
-    [水木連續劇](../Page/KBS水木連續劇.md "wikilink")：《[監獄醫生](../Page/監獄醫生.md "wikilink")》
-  - [SBS](../Page/SBS_\(韓國\).md "wikilink")
-    [水木連續劇](../Page/SBS水木連續劇.md "wikilink")：《[Big
-    Issue](../Page/Big_Issue.md "wikilink")》、《[絕對達令](../Page/絕對達令_\(韓國電視劇\).md "wikilink")》
-  - [tvN](../Page/TVN.md "wikilink")
-    [水木連續劇](../Page/TvN水木連續劇.md "wikilink")：《[觸及真心](../Page/觸及真心.md "wikilink")》、《[她的私生活](../Page/她的私生活.md "wikilink")》
+  - [KBS](../Page/韓國放送公社.md "wikilink") [水木連續劇](../Page/KBS水木連續劇.md "wikilink")：《[監獄醫生](../Page/監獄醫生.md "wikilink")》
+  - [SBS](../Page/SBS_\(韓國\).md "wikilink") [水木連續劇](../Page/SBS水木連續劇.md "wikilink")：《[Big Issue](../Page/Big_Issue.md "wikilink")》、《[絕對達令](../Page/絕對達令_\(韓國電視劇\).md "wikilink")》
+  - [tvN](../Page/TVN.md "wikilink") [水木連續劇](../Page/TvN水木連續劇.md "wikilink")：《[觸及真心](../Page/觸及真心.md "wikilink")》、《[她的私生活](../Page/她的私生活.md "wikilink")》
 
 ## 參考資料
 
@@ -392,10 +387,7 @@ Banker**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilin
   - [韓國MBC官方網站](http://content.mbc.co.kr/program/drama/3384205_64286.html)
   - [The Banker-NAVER](https://m.entertain.naver.com/tvBrand/8912276)
 
-[Category:2019年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2019年韓國電視劇集 "wikilink")
-[Category:日本漫畫改編韓國電視劇](https://zh.wikipedia.org/wiki/Category:日本漫畫改編韓國電視劇 "wikilink")
-[Category:銀行題材作品](https://zh.wikipedia.org/wiki/Category:銀行題材作品 "wikilink")
-[Category:經濟電視劇](https://zh.wikipedia.org/wiki/Category:經濟電視劇 "wikilink")
+[Category:2019年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2019年韓國電視劇集 "wikilink") [Category:日本漫畫改編韓國電視劇](https://zh.wikipedia.org/wiki/Category:日本漫畫改編韓國電視劇 "wikilink") [Category:銀行題材作品](https://zh.wikipedia.org/wiki/Category:銀行題材作品 "wikilink") [Category:經濟電視劇](https://zh.wikipedia.org/wiki/Category:經濟電視劇 "wikilink")
 
 1.
 2.

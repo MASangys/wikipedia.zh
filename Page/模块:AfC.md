@@ -1,7 +1,6 @@
 local p = {}
 
-local diffString =
-'[%s](https://zh.wikipedia.org/wiki/Special:Diff/%s "wikilink")'
+local diffString = '[%s](https://zh.wikipedia.org/wiki/Special:Diff/%s "wikilink")'
 
 function p.row(frame)
 
@@ -180,8 +179,7 @@ function p.printuser(user)
 
 <td>
 
-[%s](https://zh.wikipedia.org/wiki/User:%s "wikilink")
-([t](https://zh.wikipedia.org/wiki/User_talk:%s "wikilink"))
+[%s](https://zh.wikipedia.org/wiki/User:%s "wikilink") ([t](https://zh.wikipedia.org/wiki/User_talk:%s "wikilink"))
 
 </td>
 

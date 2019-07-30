@@ -1,5 +1,4 @@
-**G·L·莫瑞**（G. L.
-Murray，），是一名英格蘭女子[羽球運動員](https://zh.wikipedia.org/wiki/羽球 "wikilink")。
+**G·L·莫瑞**（G. L. Murray，），是一名英格蘭女子[羽球運動員](https://zh.wikipedia.org/wiki/羽球 "wikilink")。
 
 G·L·莫瑞是羽球運動早期最重要的選手之一。她曾經贏得4次[全英羽球錦標賽冠軍](https://zh.wikipedia.org/wiki/全英羽球錦標賽 "wikilink")，包括3次女子雙打（1907年至1909年，均搭配[梅莉爾·盧卡斯](https://zh.wikipedia.org/wiki/梅莉爾·盧卡斯 "wikilink")）和1次混合雙打（1907年，搭配[喬治·艾倫·湯姆斯](https://zh.wikipedia.org/wiki/喬治·艾倫·湯姆斯 "wikilink")）。她也曾贏得5次[蘇格蘭羽球公開賽冠軍](https://zh.wikipedia.org/wiki/蘇格蘭羽球公開賽 "wikilink")，以及2次[英格蘭南部羽球錦標賽冠軍](https://zh.wikipedia.org/wiki/英格蘭南部羽球錦標賽 "wikilink")。
 

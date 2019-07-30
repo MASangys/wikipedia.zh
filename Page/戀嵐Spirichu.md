@@ -1,4 +1,4 @@
-是[Parasol在](../Page/Parasol.md "wikilink")2019年5月31日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]。
+是[Parasol](../Page/Parasol.md "wikilink")在2019年5月31日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]。
 
 ## 故事簡介
 
@@ -31,8 +31,7 @@
   - 牡丹片尾曲「」\[6\]
     作詞：天咲麗，作曲、編曲：橋咲透，主唱：solfa feat.
   - 辻郷翼片尾曲「Burning Sun」\[7\]
-    作詞：天咲麗，作曲、編曲：，主唱：solfa
-    feat.[nao](https://zh.wikipedia.org/wiki/nao_\(歌手\) "wikilink")
+    作詞：天咲麗，作曲、編曲：，主唱：solfa feat.[nao](https://zh.wikipedia.org/wiki/nao_\(歌手\) "wikilink")
   - 九鬼瑞穗片尾曲「promise」\[8\]
     作詞：天咲麗，作曲、編曲：橋咲透，主唱：solfa feat.[霜月遙](../Page/霜月遙.md "wikilink")
   - 艾莉賽片尾曲「」\[9\]\[10\]
@@ -44,11 +43,7 @@
 
   - [戀嵐Spirichu遊戲官網](http://www.parasol-soft.com/product/renran/index.html)
 
-[Category:2019年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2019年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink")
+[Category:2019年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2019年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink")
 
 1.
 

@@ -1,89 +1,64 @@
-**EMPiRE**（エンパイア）是[日本的](../Page/日本.md "wikilink")[女子偶像團體](../Page/偶像_\(日本\).md "wikilink")。
-2017年結成。隸屬於WACK。唱片公司為avex trax。
+**EMPiRE**（エンパイア）是日本的音樂團體、[日本](../Page/日本.md "wikilink")的[女子偶像團體](../Page/偶像_\(日本\).md "wikilink")。
+2017年結成。隸屬於WACK。唱片公司為avex trax。他們的粉絲被官方稱為「**エージェント**」。
 
 ## 概要
 
-2017年4月2日於[橫濱紅磚倉庫活動廣舉行的](../Page/橫濱紅磚倉庫.md "wikilink")「[WACK
-EXHiBiTiON](../Page/WACK_EXHiBiTiON.md "wikilink")」中，WACK宣布展開與[愛貝克思娛樂合作的偶像計畫](../Page/愛貝克思娛樂.md "wikilink")「Project
-aW」，成員除了徵選合格者GAMIYASAKI（ガミヤサキ，現YUKA
-EMPiRE）與MOMOKOGUMIinc（モモコグミinc，現YU-Ki
-EMPiRE）之外。還將舉行追加成員徵選\[1\]。
+2017年4月2日於[橫濱紅磚倉庫](../Page/橫濱紅磚倉庫.md "wikilink")活動廣舉行的「[WACK EXHiBiTiON](../Page/WACK_EXHiBiTiON.md "wikilink")」中，WACK宣布展開與[愛貝克思娛樂](../Page/愛貝克思娛樂.md "wikilink")合作的偶像計畫「Project aW」，成員除了徵選合格者GAMIYASAKI（ガミヤサキ，現YUKA EMPiRE）與MOMOKOGUMIinc（モモコグミinc，現YU-Ki EMPiRE）之外。還將舉行追加成員徵選\[1\]。
 
-8月23日於舉行的[BiSH活動](../Page/BiSH.md "wikilink")「TOKYO BiSH
-SHiNE」開演前，成員五人蒙面上場宣布團體名為「EMPiRE」，並表示個人[推特追隨者超過](https://zh.wikipedia.org/wiki/推特 "wikilink")1萬人才公布真實面貌\[2\]。9月4日、YUiNA
-EMPiRE首布公開樣貌\[3\]\[4\]。9月28日，公布全部成員樣貌\[5\]。
+8月23日於舉行的[BiSH](../Page/BiSH.md "wikilink")活動「TOKYO BiSH SHiNE」開演前，成員五人蒙面上場宣布團體名為「EMPiRE」，並表示個人[推特追隨者超過](https://zh.wikipedia.org/wiki/推特 "wikilink")1萬人才公布真實面貌\[2\]。9月4日、YUiNA EMPiRE首布公開樣貌\[3\]\[4\]。9月28日，公布全部成員樣貌\[5\]。
 
 ## 沿革
 
-**2017年**
+### 2017年
 
-  - 4月2日 – 宣布[愛貝克思娛樂與WACK的共同計劃](../Page/愛貝克思娛樂.md "wikilink")「Project
-    aW」\[6\]。
-  - 8月23日 – 「TOKYO BiSH
-    SHiNE」開演前登場宣布團體名。開設官方網站、[推特帳號](https://zh.wikipedia.org/wiki/推特 "wikilink")\[7\]。
+  - 4月2日 – 宣布[愛貝克思娛樂](../Page/愛貝克思娛樂.md "wikilink")與WACK的共同計劃「Project aW」\[6\]。
+  - 8月23日 – 「TOKYO BiSH SHiNE」開演前登場宣布團體名。開設官方網站、[推特帳號](https://zh.wikipedia.org/wiki/推特 "wikilink")\[7\]。
   - 9月4日 – YUiNA EMPiRE公開樣貌\[8\]\[9\]。
   - 9月28日 – 公布全部成員樣貌\[10\]。
   - 10月6日 – 第一首歌曲「EMPiRE is COMiNG」在官方網站免費下載\[11\]。
-  - 10月12日 – MAYU EMPiRE作詞的第二首歌曲「TOKYO
-    MOONLiGHT」在官方網站免費下載。成立官方歌迷俱樂部「EMPiRE
-    CORE」\[12\]。
-  - 11月21日 - 成員參與演出的beat mints boyz a.k.a.
-    松隈ケンタ×JxSxK新歌《スパーク》音樂錄影帶於YouTube公開\[13\]。
-  - 11月23日 - 於東京morph-tokyo舉行「EMPiRE CORE」會員限定演唱會。表演前舉行「EMPiRE
-    CORE」會員追加年會費投標，投標額前五名會員成為「ROYAL
-    EMPiRE」，並與成員進行豪華轎車約會。另還宣布歌迷總稱「Agent」（エージェント），以及表演條約「EMPiRE3條」（「EMPiRE3カ条」）－表演中可拍攝、不能錄影錄音、禁止Lift,
-    Dive, surf等危險行為\[14\]。
-  - 12月6日 – BiSH、、[GANG
-    PARADE](../Page/GANG_PARADE.md "wikilink")、EMPiRE的經紀公司WACK，以及為WACK旗下藝人製作樂曲的所屬公司，推出3周年紀念專輯《WACK
-    & SCRAMBLES WORKS》\[15\]。同日，SoundCloud上架《EMPiRE is COMiNG\[New
-    Mix\]》、《アカルイミライ》、《TOKYO
-    MOONLiGHT》音源，YouTube公開《アカルイミライ》音樂錄影帶。成立免費歌迷俱樂部「EMPiRE
-    DROiD」\[16\]。
+  - 10月12日 – MAYU EMPiRE作詞的第二首歌曲「TOKYO MOONLiGHT」在官方網站免費下載。成立官方歌迷俱樂部「EMPiRE CORE」\[12\]。
+  - 11月21日 - 成員參與演出的beat mints boyz a.k.a. 松隈ケンタ×JxSxK新歌《スパーク》音樂錄影帶於YouTube公開\[13\]。
+  - 11月23日 - 於東京morph-tokyo舉行「EMPiRE CORE」會員限定演唱會。表演前舉行「EMPiRE CORE」會員追加年會費投標，投標額前五名會員成為「ROYAL EMPiRE」，並與成員進行豪華轎車約會。另還宣布歌迷總稱「Agent」（エージェント），以及表演條約「EMPiRE3條」（「EMPiRE3カ条」）－表演中可拍攝、不能錄影錄音、禁止Lift, Dive, surf等危險行為\[14\]。
+  - 12月6日 – BiSH、、[GANG PARADE](../Page/GANG_PARADE.md "wikilink")、EMPiRE的經紀公司WACK，以及為WACK旗下藝人製作樂曲的所屬公司，推出3周年紀念專輯《WACK & SCRAMBLES WORKS》\[15\]。同日，SoundCloud上架《EMPiRE is COMiNG\[New Mix\]》、《アカルイミライ》、《TOKYO MOONLiGHT》音源，YouTube公開《アカルイミライ》音樂錄影帶。成立免費歌迷俱樂部「EMPiRE DROiD」\[16\]。
   - 12月8日 – 演出WACK主辦的「WACKのフェス。」。首次在一般民眾前表演\[17\]。
 
-**2018年**
+### 2018年
 
-  - 1月30日 – 擔任BiSH全國巡迴「BiSH pUBLic imAGE LiMiTEd TOUR」的東京Zepp
-    Toky場開場嘉賓\[18\]。
-  - 2月22日 – YouTube公開《Buttocks beat\!
-    beat\!》音樂錄影帶。SoundCloud同時開放《Buttocks beat\!
-    beat\!》全曲試聽\[19\]。
-  - 3月18日 - WACK其下團體於大阪舉行「WACK
-    EXHiBiTiON」。發表3月12日至18日的合宿型徵選「WACK合同徵選2018」結果，EMPiRE新增MICHIHAYASHIRIO（ミチハヤシリオ，現MiKiNA
-    EMPiRE）、YAYA EIGHTPRINCR（ヤヤ・エイトプリンス，現MAHO EMPiRE）兩名成員。同時，YUiNA
-    EMPiRE移籍至BiS籍。宣布5月1日於東京[Mynavi
-    BLITZ赤坂公開新成員](../Page/赤坂BLITZ.md "wikilink")\[20\]。
+  - 1月30日 – 擔任BiSH全國巡迴「BiSH pUBLic imAGE LiMiTEd TOUR」的東京Zepp Toky場開場嘉賓\[18\]。
+  - 2月22日 – YouTube公開《Buttocks beat\! beat\!》音樂錄影帶。SoundCloud同時開放《Buttocks beat\! beat\!》全曲試聽\[19\]。
+  - 3月18日 - WACK其下團體於大阪舉行「WACK EXHiBiTiON」。發表3月12日至18日的合宿型徵選「WACK合同徵選2018」結果，EMPiRE新增MICHIHAYASHIRIO（ミチハヤシリオ，現MiKiNA EMPiRE）、YAYA EIGHTPRINCR（ヤヤ・エイトプリンス，現MAHO EMPiRE）兩名成員。同時，YUiNA EMPiRE移籍至BiS籍。宣布5月1日於東京[Mynavi BLITZ赤坂公開新成員](../Page/赤坂BLITZ.md "wikilink")\[20\]。
 
 <!-- end list -->
 
   - 4月11日 - 發行首張原創專輯《THE EMPiRE STRiKES START\!\!》\[21\]。
-  - 5月1日 - 東京Mynavi BLITZ赤坂舉醒首場單獨演唱會「THE EMPiRE STRiKES
-    START\!\!」。宣布7月啟動巡迴表演「EMPiRE NEXT EDiTiON
-    TOUR」，9月發行迷你專輯\[22\]。
+  - 5月1日 - 東京Mynavi BLITZ赤坂舉醒首場單獨演唱會「THE EMPiRE STRiKES START\!\!」。宣布7月啟動巡迴表演「EMPiRE NEXT EDiTiON TOUR」，9月發行迷你專輯\[22\]。
+  - 7月26日 -
   - 8月4日 - 演出\[23\]。
+  - 8月29日 -
   - 9月5日 - 發行《EMPiRE originals》。
+  - 9月9日 -
+  - 11月3日～12月28日 –
 
-**2019年**
+### 2019年
 
-  - 1月3日 –
-    [赤坂BLITZ舉行](../Page/赤坂BLITZ.md "wikilink")「WACKなりの甲子園」，同時宣佈「WACK合宿型徵選2019」的公布，而EMPiRE亦首次一同參與，最後決定由MAYU
-    EMPiRE參加。
-  - 1月29日 – YouTube公開《SUCCESS
-    STORY》音樂錄影帶。同時兩小時候之後YUKA亦宣布她將於3月4日在EMPiRE和畢業，以便集中學習。
+  - 1月3日 – [赤坂BLITZ](../Page/赤坂BLITZ.md "wikilink")舉行「WACKなりの甲子園」，同時宣佈「WACK合宿型徵選2019」的公布，而EMPiRE亦首次一同參與，最後決定由MAYU EMPiRE參加。
+  - 1月29日 – YouTube公開《SUCCESS STORY》音樂錄影帶。同時兩小時候之後YUKA亦宣布她將於3月4日在EMPiRE和[WACK畢業](https://zh.wikipedia.org/wiki/WACK "wikilink")，以便集中學習。
   - 2月27日 – 發行首張單曲《ピアス》。
-  - 3月3日 –3月4日 – 神奈川・Yokohama Bay Hall 「EMPiRE 24小時派對 EMPiRE presents
-    TWENTY FOUR HOUR PARTY PEOPLE」YUKA正式畢業。
+  - 3月3日 –3月4日 – 神奈川・Yokohama Bay Hall 「EMPiRE 24小時派對 EMPiRE presents TWENTY FOUR HOUR PARTY PEOPLE」YUKA正式畢業。
   - 3月4日 – 披露新曲「SELFiSH PEOPLE」新曲「SELFiSH PEOPLE」，並再次成為5人体制。
   - 3月26日 –3月30日 – MAYU EMPiRE將作為導師參加「WACK合宿型徵選2019」。
-  - 3月30日 –發表3月24日至30日的合宿型徵選「WACK合宿型徵選2019」結果，EMPiRE新增TERAYAMA
-    YUFU（テラヤマユフ，現NOW EMPiRE）一名成員。
-  - 4月21日 - TERAYAMA YUFU（NOW EMPiRE）將參加福岡・DRUM SON舉行的「NEW EMPiRE
-    TOUR」正式加入予定，EMPiRE並再次成為6人体制。
+  - 3月30日 –發表3月24日至30日的合宿型徵選「WACK合宿型徵選2019」結果，EMPiRE新增TERAYAMA YUFU（テラヤマユフ，現NOW EMPiRE）一名成員。
+  - 4月21日 - TERAYAMA YUFU（NOW EMPiRE）將參加福岡・DRUM SON舉行的「NEW EMPiRE TOUR」正式加入予定，EMPiRE並再次成為6人体制。
   - 6月9日 – YouTube公開《SUCCESS STORY》音樂錄影帶。
-  - 7月11日 - 「NEW EMPiRE TOUR」追加公演，命名為「NEW EMPiRE TOUR
-    "EVOLUTiONS"」並於[赤坂BLITZ舉行](../Page/赤坂BLITZ.md "wikilink")。是第三度在赤坂舉行演唱會亦是NOW
-    EMPiRE首場赤坂赤坂BLITZ的演唱會。
+  - 7月11日 - 「NEW EMPiRE TOUR」追加公演，命名為「NEW EMPiRE TOUR "EVOLUTiONS"」並於[赤坂BLITZ](../Page/赤坂BLITZ.md "wikilink")舉行。是第三度在赤坂舉行演唱會亦是NOW EMPiRE首場赤坂赤坂BLITZ的演唱會。也是EMPiRE最後在赤坂BLITZ的舉行演唱會。
   - 7月17日 - 發行第二張單曲《SUCCESS STORY》。
+  - 10月 日 - 發行第三張單曲。
+  - 12月 日 - 發行第二張專輯。
+
+### 2020年
+
+  - 1月 日 -
+  - 3月 日 -
 
 ## 成員
 
@@ -125,7 +100,7 @@ Project AW徵選合格者。<br />
 </tr>
 <tr class="odd">
 <td><p>MiDORiKO EMPiRE</p></td>
-<td></td>
+<td><p>ドリ</p></td>
 <td></td>
 <td></td>
 <td><p>Project AW徵選合格者。<br />
@@ -137,7 +112,7 @@ Project AW徵選合格者。<br />
 <tr class="even">
 <td><p>MAHO EMPiRE<ref name="natalie279739">{{Cite web |url=<a href="https://natalie.mu/music/news/279739">https://natalie.mu/music/news/279739</a> |title=EMPiRE、新メンバーTwitter開設＆新体制音源の無料配信スタート |work=音楽ナタリー |publisher=株式会社ナターシャ |date=2018-04-25</p></td>
 <td><p><a href="https://twitter.com/mayu_empire">MAYU EMPiRE</a>|accessdate=2018-04-25}}</ref></p></td>
-<td></td>
+<td><p>まほ</p></td>
 <td></td>
 <td></td>
 <td><p>WACK合同徵選2018合格者。徵選時的名字為「ヤヤ・エイトプリンス」。<br />
@@ -147,7 +122,7 @@ Project AW徵選合格者。<br />
 </tr>
 <tr class="odd">
 <td><p>MiKiNA EMPiRE[27]</p></td>
-<td></td>
+<td><p>みきな</p></td>
 <td></td>
 <td></td>
 <td><p>WACK合同徵選2018合格者。徵選時的名字為「ミチハヤシリオ」。<br />
@@ -206,12 +181,12 @@ Project AW徵選合格者。<br />
 </tr>
 <tr class="even">
 <td><p>YUKA EMPiRE</p></td>
-<td></td>
+<td><p>ゆか</p></td>
 <td><p>3月14日[30]</p></td>
 <td></td>
 <td><p>WACK徵選2017合格者。徵選時的名字為「ガミヤサキ」。<br />
 2017年8月23日開始活動。<br />
-2019年於3月4日在EMPiRE和畢業。<br />
+2019年於3月4日在EMPiRE和<a href="https://zh.wikipedia.org/wiki/WACK" title="wikilink">WACK畢業</a>。<br />
 為EMPiRE的（創始成員）<br />
 </p></td>
 <td><p><a href="https://twitter.com/intent/follow?screen_name=YUKA_EMPiRE">YUKA EMPiRE</a></p></td>
@@ -223,11 +198,12 @@ Project AW徵選合格者。<br />
 
 在列表中、▲代表加入、▼代表離開・畢業
 
-| 期間                      | 成員                                                                                             | 備註 |
-| ----------------------- | ---------------------------------------------------------------------------------------------- | -- |
-| 2017年8月23日 - 2018年4月30日 | YUKA EMPiRE、YU-Ki EMPiRE、MiDORiKO EMPiRE、MAYU EMPiRE、YUiNA EMPiRE                              |    |
-| 2018年5月1日 - 2019年3月3日   | YUKA EMPiRE、YU-Ki EMPiRE、MiDORiKO EMPiRE、MAYU EMPiRE、▼YUiNA EMPiRE、▲MAHO EMPiRE、▲MiKiNA EMPiRE |    |
-| 2019年3月4日 -             | ▼YUKA EMPiRE、YU-Ki EMPiRE、MiDORiKO EMPiRE、MAYU EMPiRE、MAHO EMPiRE、MiKiNA EMPiRE、▲NOW EMPiRE    |    |
+| 期間                      | 成員                                                                                             | 備註                                                |
+| ----------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------- |
+| 2017年8月23日 - 2018年4月30日 | YUKA EMPiRE、YU-Ki EMPiRE、MiDORiKO EMPiRE、MAYU EMPiRE、YUiNA EMPiRE                              |                                                   |
+| 2018年5月1日 - 2019年3月3日   | YUKA EMPiRE、YU-Ki EMPiRE、MiDORiKO EMPiRE、MAYU EMPiRE、▼YUiNA EMPiRE、▲MAHO EMPiRE、▲MiKiNA EMPiRE | YUiNA EMPiRE在EMPiRE畢業，MAHO EMPiRE、MiKiNA EMPiRE加入 |
+| 2019年3月4日 - 2019年4月20日  | ▼YUKA EMPiRE、YU-Ki EMPiRE、MiDORiKO EMPiRE、MAYU EMPiRE、MAHO EMPiRE、MiKiNA EMPiRE                | YUKA EMPiRE在EMPiRE和WACK畢業                         |
+| 2019年4月21日 -            | YU-Ki EMPiRE、MiDORiKO EMPiRE、MAYU EMPiRE、MAHO EMPiRE、MiKiNA EMPiRE、▲NOW EMPiRE                 |                                                   |
 
 ## 作品
 
@@ -336,7 +312,7 @@ AVCD-94509<br />
 </ol>
 <div class="NavFrame collapsed" style="clear:both;border:0;">
 <div class="NavHead" style="text-align:center;">
-<p>初回限定豪華盤 DVD（全24曲）</p>
+<p>初回限定豪華盤</p>
 </div>
 <div class="NavContent" style="text-align:left;">
 <p>2019.03.03.04 at EMPiRE presents TWENTY FOUR HOUR PARTY PEOPLE</p>
@@ -685,7 +661,7 @@ AVTD-93976<br />
 <tbody>
 <tr class="odd">
 <td><p>Black to the dreamlight</p></td>
-<td><p><a href="../Page/東京電視台.md" title="wikilink">東京電視台系列動畫</a>《<a href="https://zh.wikipedia.org/wiki/黑色五葉草#電視動畫" title="wikilink">黑色五葉草</a>》第3片尾曲[33]</p></td>
+<td><p><a href="../Page/東京電視台.md" title="wikilink">東京電視台</a>系列動畫《<a href="https://zh.wikipedia.org/wiki/黑色五葉草#電視動畫" title="wikilink">黑色五葉草</a>》第3片尾曲[33]</p></td>
 <td><p>《'''THE EMPiRE STRiKES START</p></td>
 </tr>
 <tr class="even">
@@ -700,7 +676,7 @@ AVTD-93976<br />
 </tr>
 <tr class="even">
 <td><p>ピアス</p></td>
-<td><p><a href="../Page/東京電視台.md" title="wikilink">東京電視台系列動畫</a>《<a href="../Page/FAIRY_TAIL_(動畫).md" title="wikilink">FAIRY TAIL魔導少年</a>》第3季第2片尾曲</p></td>
+<td><p><a href="../Page/東京電視台.md" title="wikilink">東京電視台</a>系列動畫《<a href="../Page/FAIRY_TAIL_(動畫).md" title="wikilink">FAIRY TAIL魔導少年</a>》第3季第2片尾曲</p></td>
 <td><p>《<strong>ピアス</strong>》</p></td>
 </tr>
 <tr class="odd">
@@ -718,13 +694,11 @@ AVTD-93976<br />
 **粗體**為撥送中。※為網路廣播。
 
   - 《**GIRLS・GIRLS・GIRLS FREE ALL EMPiRE**》（2018年 - 、）\[34\]
-  - 《TS ONE UNITED THE EMPiRE STRiKES START\!\!》（2018年、※）\[35\] -
-    2018年4月
+  - 《TS ONE UNITED THE EMPiRE STRiKES START\!\!》（2018年、※）\[35\] - 2018年4月
 
 ### 電影
 
-  - 《The Documentary of WACK オーディション～オーケストラ物語～》 - 演出 -
-    YU-Ki、YUKA、MAYU、YUiNA
+  - 《The Documentary of WACK オーディション～オーケストラ物語～》 - 演出 - YU-Ki、YUKA、MAYU、YUiNA
 
 ### 電視
 
@@ -767,6 +741,23 @@ AVTD-93976<br />
 | 2019年12月15日                                   | 山形 山形ミュージック昭和Session                 |                       |                                   |
 | 2019年12月19日                                   | 東京 Zepp DiverCity                    |                       |                                   |
 
+### WAgg THE NEW RiCE
+
+| 演唱會名                          | 日期                      | 場地                      | 備註 |
+| ----------------------------- | ----------------------- | ----------------------- | -- |
+| WAgg THE NEW RiCE with EMPiRE | 2018年10月8日              | 大阪・LIVE SQUARE 2nd LINE |    |
+| 2018年10月14日                   | 東京・TSUTAYA O-WEST       |                         |    |
+| 2018年10月21日                   | 宮城・enn 2nd              |                         |    |
+| 2018年10月28日                   | 愛知・DAYTRIVE             |                         |    |
+| 2018年11月3日                    | 大阪・ROCKTOWN             |                         |    |
+| 2018年11月11日                   | 愛知・X-HALL -ZEN-         |                         |    |
+| 2018年11月18日                   | 北海道・COLONY              |                         |    |
+| 2018年11月23日                   | 宮城・SENDAI CLUB JUNK BOX |                         |    |
+| 2018年12月2日                    | 愛知・X-HALL -ZEN-         |                         |    |
+| 2018年12月9日                    | 新潟・柳都SHOW\!CASE         |                         |    |
+| 2018年12月24日                   | 宮城・SENDAI CLUB JUNK BOX |                         |    |
+| 2018年12月28日                   | 東京・WWW X                |                         |    |
+
 ### 活動
 
 #### 2017年
@@ -775,8 +766,7 @@ AVTD-93976<br />
 
 #### 2018年
 
-  - 3月8日 – 「でらWACKのフェス。powered by
-    BOMBER-E」（名古屋）※WACK/[メ〜テレ主辦](../Page/名古屋電視台.md "wikilink")
+  - 3月8日 – 「でらWACKのフェス。powered by BOMBER-E」（名古屋）※WACK/[メ〜テレ主辦](../Page/名古屋電視台.md "wikilink")
   - 3月18日 - 「WACK EXHiBiTiON」（大阪）※WACK所屬團體演出，並發表「WACK合同徵選2018」結果\[39\]
 
 #### 2019年
@@ -798,8 +788,7 @@ AVTD-93976<br />
 ## 外部連結
 
   -
-[Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink")
-[Category:愛貝克思集團藝人](https://zh.wikipedia.org/wiki/Category:愛貝克思集團藝人 "wikilink")
+[Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink") [Category:愛貝克思集團藝人](https://zh.wikipedia.org/wiki/Category:愛貝克思集團藝人 "wikilink")
 
 1.
 

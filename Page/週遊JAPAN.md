@@ -1,4 +1,4 @@
-《**週遊JAPAN**》是[中華電視公司監製及首播的旅遊節目](../Page/中華電視公司.md "wikilink")。2018年9月16日至12月16日每週日00:10-01:10播出，共13集。
+《**週遊JAPAN**》是[中華電視公司](../Page/中華電視公司.md "wikilink")監製及首播的旅遊節目。2018年9月16日至12月16日每週日00:10-01:10播出，共13集。
 
 ## 簡介
 
@@ -207,14 +207,12 @@
 ## 外部連結
 
 [華視《週遊JAPAN》官方網站](https://shows.cts.com.tw/shows_prog/variety/152.html)
-\[<https://www.facebook.com/%E9%80%B1%E9%81%8Ajapan-1092573107586639>“
-華視《週遊JAPAN》官方臉書專頁\]
+\[<https://www.facebook.com/%E9%80%B1%E9%81%8Ajapan-1092573107586639>“ 華視《週遊JAPAN》官方臉書專頁\]
 
 ## 節目的變遷
 
 [Category:華視電視節目](https://zh.wikipedia.org/wiki/Category:華視電視節目 "wikilink")
 
-1.  [《週遊JAPAN》開播
-    吳怡霈等四姝擔綱主持](https://www.epochtimes.com/b5/18/9/12/n10708756.htm/amp/)
+1.  [《週遊JAPAN》開播 吳怡霈等四姝擔綱主持](https://www.epochtimes.com/b5/18/9/12/n10708756.htm/amp/)
 2.  第2集在伊豆東區，第3集在伊豆西區
 3.  第9集是加賀山線，第10集是加賀海線

@@ -1,5 +1,4 @@
-**廣川茉音**（；），藝名為**MAY**（）。[日本女歌手](../Page/日本.md "wikilink")，是韓國女子組合[Cherry
-Bullet成員之一](../Page/Cherry_Bullet.md "wikilink")，隊內擔當領舞。
+**廣川茉音**（；），藝名為**MAY**（）。[日本](../Page/日本.md "wikilink")女歌手，是韓國女子組合[Cherry Bullet成員之一](../Page/Cherry_Bullet.md "wikilink")，隊內擔當領舞。
 
 ## 預告照
 
@@ -60,7 +59,4 @@ Bullet成員之一](../Page/Cherry_Bullet.md "wikilink")，隊內擔當領舞。
 
   - [FNC Academy](http://fncacademy.com)
 
-[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink")
-[Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink")
-[Category:Cherry_Bullet](https://zh.wikipedia.org/wiki/Category:Cherry_Bullet "wikilink")
-[Category:東京都出身人物](https://zh.wikipedia.org/wiki/Category:東京都出身人物 "wikilink")
+[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink") [Category:Cherry_Bullet](https://zh.wikipedia.org/wiki/Category:Cherry_Bullet "wikilink") [Category:東京都出身人物](https://zh.wikipedia.org/wiki/Category:東京都出身人物 "wikilink")

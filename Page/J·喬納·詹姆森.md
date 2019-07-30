@@ -1,11 +1,10 @@
-**小約翰·喬納·詹姆森**（）是[漫威漫畫中的虛構角色](../Page/漫威漫畫.md "wikilink")，由作家[史丹·李和藝術家](../Page/史丹·李.md "wikilink")[史蒂夫·迪特科創作](../Page/史蒂夫·迪特科.md "wikilink")。小約翰·喬納·詹姆森首次於《》\#1中登場。
+**小約翰·喬納·詹姆森**（）是[漫威漫畫](../Page/漫威漫畫.md "wikilink")中的虛構角色，由作家[史丹·李](../Page/史丹·李.md "wikilink")和藝術家[史蒂夫·迪特科](../Page/史蒂夫·迪特科.md "wikilink")創作。小約翰·喬納·詹姆森首次於《》\#1中登場。
 
 ## 人物
 
 J·喬納·詹姆森是《[號角日報](../Page/號角日報.md "wikilink")》的[總編輯](https://zh.wikipedia.org/wiki/總編輯 "wikilink")。兒子是一名[太空人](https://zh.wikipedia.org/wiki/太空人 "wikilink")。詹姆森非常討厭[蜘蛛人](../Page/蜘蛛人.md "wikilink")，認為他是一名罪犯，並一直在有關蜘蛛人的新聞上抹黑他。但是詹姆森並不知道，他聘請的攝影師彼得·帕克正是蜘蛛人的真實身份。
 
-在2009年的故事線中，詹姆森成為[紐約市市長](https://zh.wikipedia.org/wiki/紐約市市長 "wikilink")，並成立「反蜘蛛小隊」（Anti-Spider
-Squad）捕捉蜘蛛人。
+在2009年的故事線中，詹姆森成為[紐約市市長](https://zh.wikipedia.org/wiki/紐約市市長 "wikilink")，並成立「反蜘蛛小隊」（Anti-Spider Squad）捕捉蜘蛛人。
 
 ## 其他媒體
 
@@ -18,7 +17,7 @@ Squad）捕捉蜘蛛人。
   - 《》：由[愛德華·阿斯納配音](https://zh.wikipedia.org/wiki/愛德華·阿斯納 "wikilink")。
   - 《》：由配音。
   - 《》：由配音\[1\]。
-  - 《[終極蜘蛛俠](https://zh.wikipedia.org/wiki/終極蜘蛛俠_\(動畫\) "wikilink")》：由[J·K·西蒙斯配音](../Page/J·K·西蒙斯.md "wikilink")。
+  - 《[終極蜘蛛俠](https://zh.wikipedia.org/wiki/終極蜘蛛俠_\(動畫\) "wikilink")》：由[J·K·西蒙斯](../Page/J·K·西蒙斯.md "wikilink")配音。
   - 《[復仇者聯盟：史上最強英雄戰隊](../Page/復仇者聯盟：史上最強英雄戰隊.md "wikilink")》：由J·K·西蒙斯配音。
   - 《》：由J·K·西蒙斯配音。
   - 《》：由J·K·西蒙斯配音。
@@ -28,7 +27,7 @@ Squad）捕捉蜘蛛人。
 
 #### 蜘蛛人三部曲
 
-  - 《[蜘蛛人](../Page/蜘蛛人_\(電影\).md "wikilink")》、《[蜘蛛人2](../Page/蜘蛛人2.md "wikilink")》和《[蜘蛛人3](../Page/蜘蛛人3.md "wikilink")》，由[J·K·西蒙斯飾演](../Page/J·K·西蒙斯.md "wikilink")。
+  - 《[蜘蛛人](../Page/蜘蛛人_\(電影\).md "wikilink")》、《[蜘蛛人2](../Page/蜘蛛人2.md "wikilink")》和《[蜘蛛人3](../Page/蜘蛛人3.md "wikilink")》，由[J·K·西蒙斯](../Page/J·K·西蒙斯.md "wikilink")飾演。
 
 #### 驚奇再起系列
 
@@ -36,11 +35,11 @@ Squad）捕捉蜘蛛人。
 
 #### 漫威電影宇宙
 
-  - 《[蜘蛛人：離家日](../Page/蜘蛛人：離家日.md "wikilink")》，由J·K·西蒙斯飾演，於[片尾彩蛋中出場](../Page/片尾彩蛋.md "wikilink")\[3\]。
+  - 《[蜘蛛人：離家日](../Page/蜘蛛人：離家日.md "wikilink")》，再度由《蜘蛛人三部曲》中飾演同角色的J·K·西蒙斯飾演，於[片尾彩蛋](../Page/片尾彩蛋.md "wikilink")中出場\[3\]。
 
 #### 動畫電影
 
-  - 《[蜘蛛人：新宇宙](../Page/蜘蛛人：新宇宙.md "wikilink")》，由[史丹·李配音](../Page/史丹·李.md "wikilink")，於片尾彩蛋中出場。該角色為1967年動畫《蜘蛛人》裡的角色。
+  - 《[蜘蛛人：新宇宙](../Page/蜘蛛人：新宇宙.md "wikilink")》，由[史丹·李](../Page/史丹·李.md "wikilink")配音，於片尾彩蛋中出場。該角色為1967年動畫《蜘蛛人》裡的角色。
 
 ### 遊戲
 
@@ -57,7 +56,7 @@ Squad）捕捉蜘蛛人。
   - 《》
   - 《》，由配音。
   - 《》，由配音。
-  - 《[樂高漫威超級英雄](https://zh.wikipedia.org/wiki/樂高漫威超級英雄 "wikilink")》，由[約翰·迪·馬吉歐配音](../Page/約翰·迪·馬吉歐.md "wikilink")\[5\]。
+  - 《[樂高漫威超級英雄](https://zh.wikipedia.org/wiki/樂高漫威超級英雄 "wikilink")》，由[約翰·迪·馬吉歐](../Page/約翰·迪·馬吉歐.md "wikilink")配音\[5\]。
   - 《[蜘蛛人：驚奇再起2](../Page/蜘蛛人：驚奇再起2_\(遊戲\).md "wikilink")》，由弗瑞德·塔塔薛瑞配音。
   - 《》，由配音。
   - 《》，由凱爾·赫伯特配音。
@@ -68,23 +67,11 @@ Squad）捕捉蜘蛛人。
 
 ## 外部連結
 
-  - [J. Jonah Jameson](http://comicbookdb.com/character.php?ID=388)
-    漫畫書數據庫
-  - [J. Jonah
-    Jameson](https://www.superherodb.com/j-jonah-jameson/10-11955/)
-    超級英雄數據庫
-  - [J Jonah Jameson](https://www.marvel.com/characters/j-jonah-jameson)
-    Marvel.com
+  - [J. Jonah Jameson](http://comicbookdb.com/character.php?ID=388) 漫畫書數據庫
+  - [J. Jonah Jameson](https://www.superherodb.com/j-jonah-jameson/10-11955/) 超級英雄數據庫
+  - [J Jonah Jameson](https://www.marvel.com/characters/j-jonah-jameson) Marvel.com
 
-[Category:1963年首次亮相的漫畫角色](https://zh.wikipedia.org/wiki/Category:1963年首次亮相的漫畫角色 "wikilink")
-[Category:由斯坦·李创作的角色](https://zh.wikipedia.org/wiki/Category:由斯坦·李创作的角色 "wikilink")
-[Category:由史蒂夫·迪特科創作的角色](https://zh.wikipedia.org/wiki/Category:由史蒂夫·迪特科創作的角色 "wikilink")
-[Category:來自紐約市的虛構角色](https://zh.wikipedia.org/wiki/Category:來自紐約市的虛構角色 "wikilink")
-[Category:虛構記者](https://zh.wikipedia.org/wiki/Category:虛構記者 "wikilink")
-[Category:虛構虐待兒童受害者](https://zh.wikipedia.org/wiki/Category:虛構虐待兒童受害者 "wikilink")
-[Category:超級英雄電視角色](https://zh.wikipedia.org/wiki/Category:超級英雄電視角色 "wikilink")
-[Category:超級英雄電影角色](https://zh.wikipedia.org/wiki/Category:超級英雄電影角色 "wikilink")
-[Category:蜘蛛俠角色](https://zh.wikipedia.org/wiki/Category:蜘蛛俠角色 "wikilink")
+[Category:1963年首次亮相的漫畫角色](https://zh.wikipedia.org/wiki/Category:1963年首次亮相的漫畫角色 "wikilink") [Category:由斯坦·李创作的角色](https://zh.wikipedia.org/wiki/Category:由斯坦·李创作的角色 "wikilink") [Category:由史蒂夫·迪特科創作的角色](https://zh.wikipedia.org/wiki/Category:由史蒂夫·迪特科創作的角色 "wikilink") [Category:來自紐約市的虛構角色](https://zh.wikipedia.org/wiki/Category:來自紐約市的虛構角色 "wikilink") [Category:虛構記者](https://zh.wikipedia.org/wiki/Category:虛構記者 "wikilink") [Category:虛構虐待兒童受害者](https://zh.wikipedia.org/wiki/Category:虛構虐待兒童受害者 "wikilink") [Category:超級英雄電視角色](https://zh.wikipedia.org/wiki/Category:超級英雄電視角色 "wikilink") [Category:超級英雄電影角色](https://zh.wikipedia.org/wiki/Category:超級英雄電影角色 "wikilink") [Category:蜘蛛俠角色](https://zh.wikipedia.org/wiki/Category:蜘蛛俠角色 "wikilink")
 
 1.
 2.

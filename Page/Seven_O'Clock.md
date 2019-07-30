@@ -1,7 +1,4 @@
-**Seven
-O'Clock**(；），為STARO娛樂於2017年推出的男子組合，最初成員HanGyeom(A-Day)、Hyun、2soul、JeongGyu、Vann及TaeYoung，2018年9月19日所屬社聲明經紀公司從STARO娛樂改為FOREST
-Network，同日宣佈，Vaan因個人原因退團，後以5人形式活動。\[1\]
-2019年2月18日，宣布加入來自香港的新成員Andy(中韓混血兒)。\[2\]
+**Seven O'Clock**(；），為STARO娛樂於2017年推出的男子組合，最初成員HanGyeom(A-Day)、Hyun、2soul、JeongGyu、Vann及TaeYoung，2018年9月19日所屬社聲明經紀公司從STARO娛樂改為FOREST Network，同日宣佈，Vaan因個人原因退團，後以5人形式活動。\[1\] 2019年2月18日，宣布加入來自香港的新成員Andy(中韓混血兒)。\[2\]
 
 ## 成員資料
 
@@ -80,28 +77,22 @@ Network，同日宣佈，Vaan因個人原因退團，後以5人形式活動。\[
 
   - [Seven O'clock官方網站](http://seven-oclock.com/)
 
-  - Seven O'clock [l
-    官方Facebook](https://www.facebook.com/SEVENOCLOCKofficial/)
+  - Seven O'clock [l 官方Facebook](https://www.facebook.com/SEVENOCLOCKofficial/)
 
   - Seven O'clock [官方Twitter](https://twitter.com/7OC_official)
 
-  - Seven O'clock
-    [官方Youtube](https://www.youtube.com/channel/UC2bB4TIQIIzuWVpF0YwrC0w)
+  - Seven O'clock [官方Youtube](https://www.youtube.com/channel/UC2bB4TIQIIzuWVpF0YwrC0w)
 
   - [Seven O'clock官方Instagram](https://www.instagram.com/7oc_official/)
 
-      - [Han Gyeom
-        Instagram](https://www.instagram.com/songhangyeom_aday.soc/)
+      - [Han Gyeom Instagram](https://www.instagram.com/songhangyeom_aday.soc/)
       - [HYUN Instagram](https://www.instagram.com/hyun.soc/)
       - [2Soul nstagram](https://www.instagram.com/2soul.soc/)
       - [Jeong Gyu Instagram](https://www.instagram.com/jeonggyu.soc/)
       - [Tae-young Instagram](https://www.instagram.com/taeyoung.soc/)
       - [Andy Instagram](https://www.instagram.com/andylui.soc/)
 
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:2017年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年成立的音樂團體 "wikilink")
+[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2017年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年成立的音樂團體 "wikilink")
 
 1.
 2.

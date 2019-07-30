@@ -1,4 +1,4 @@
-《**grapefruits**》，是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[可苦可樂的第](../Page/可苦可樂.md "wikilink")2張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。2002年8月28日發行。
+《**grapefruits**》，是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[可苦可樂](../Page/可苦可樂.md "wikilink")的第2張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。2002年8月28日發行。
 
 ## 簡介
 
@@ -16,8 +16,7 @@
 4.  **[希望之歌](https://zh.wikipedia.org/wiki/希望之歌/太陽 "wikilink")**（）
 5.  **GRAPEFRUITS DAYS**
 6.  **小渕君的狗狗之歌**（）
-7.  **[YOU（grapefruits
-    mix）](https://zh.wikipedia.org/wiki/YOU/miss_you "wikilink")**
+7.  **[YOU（grapefruits mix）](https://zh.wikipedia.org/wiki/YOU/miss_you "wikilink")**
 8.  **雨傘**（）
 9.  **[太陽](https://zh.wikipedia.org/wiki/希望之歌/太陽 "wikilink")**
 10. **[光](../Page/寶島_\(可苦可樂單曲\).md "wikilink")**
@@ -28,5 +27,4 @@
 
   - [grapefruits](https://wmg.jp/kobukuro/discography/550/)
 
-[Category:可苦可樂音樂專輯](https://zh.wikipedia.org/wiki/Category:可苦可樂音樂專輯 "wikilink")
-[Category:2002年音樂專輯](https://zh.wikipedia.org/wiki/Category:2002年音樂專輯 "wikilink")
+[Category:可苦可樂音樂專輯](https://zh.wikipedia.org/wiki/Category:可苦可樂音樂專輯 "wikilink") [Category:2002年音樂專輯](https://zh.wikipedia.org/wiki/Category:2002年音樂專輯 "wikilink")

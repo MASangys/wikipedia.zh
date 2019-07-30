@@ -18,41 +18,30 @@ SOLIDEMO([日語](../Page/日语.md "wikilink"):ソリディーモ)，於2013年
 
   - 4月17日-SOLIDEMO成軍。
   - 6月12日-SOLIDEMO對外宣布成軍\[3\]。
-  - 6月13日-第一首歌曲『**Come Back to
-    Me**』於[Youtube公開](../Page/YouTube.md "wikilink")。
-  - 6月17日-Ameba Studio成軍發表節目『SOLIDEMO特別放送』演出後，接著演出付費的『限定放送』。第二首歌曲『**Love
-    you**』於[Youtube公開](../Page/YouTube.md "wikilink")。
-  - 7月3日-於[涉谷的SHIBUYA](../Page/澀谷.md "wikilink")
-    DESEO舉辦第一場LIVE演出「SOLIDEMO LIVE
-    vol.1」。販售會場限定CD『SOLIDEMO』。
+  - 6月13日-第一首歌曲『**Come Back to Me**』於[Youtube公開](../Page/YouTube.md "wikilink")。
+  - 6月17日-Ameba Studio成軍發表節目『SOLIDEMO特別放送』演出後，接著演出付費的『限定放送』。第二首歌曲『**Love you**』於[Youtube公開](../Page/YouTube.md "wikilink")。
+  - 7月3日-於[涉谷的SHIBUYA](../Page/澀谷.md "wikilink") DESEO舉辦第一場LIVE演出「SOLIDEMO LIVE vol.1」。販售會場限定CD『SOLIDEMO』。
   - 8月3日-於a-nation的island舞台演出，之後也參與了大阪、東京舉辦的stadium fes.的演出。
   - 10月25日-11月4日-全員參與[舞台劇](https://zh.wikipedia.org/wiki/舞台劇 "wikilink")『私のホストちゃん』演出。
   - 11月7日-於SOLIDEMO LIVE vol.14第一次演唱新歌『**Next to you**』。
   - 11月21日-於SOLIDEMO LIVE vol.15第一次演唱新歌『**サヨナラと言えなくて**』。
-  - 12月8日-於SOLIDEMO LIVE SPECIAL 第1部【SOLIDEMO LIVE 〜NEW
-    SONG〜】發表2014年春天正式出道\[4\]。第一次演唱出道曲『**THE ONE**』。
+  - 12月8日-於SOLIDEMO LIVE SPECIAL 第1部【SOLIDEMO LIVE 〜NEW SONG〜】發表2014年春天正式出道\[4\]。第一次演唱出道曲『**THE ONE**』。
 
 2014年
 
   - 1月16日-於TwitCasting宣布第一張單曲『**THE ONE**』將在4月16日發行。
-  - 2月14日-於MENS NA-TION VALENTINE -SOLIDEMO LIVE
-    VALENTINE第一次演唱新歌『**Could U Be My Girl?**』。
+  - 2月14日-於MENS NA-TION VALENTINE -SOLIDEMO LIVE VALENTINE第一次演唱新歌『**Could U Be My Girl?**』。
   - 3月25日-公佈新歌『**ギミギミLOVE**』將成為朝日電視台的深夜日劇『私のホストちゃんS』的主題曲\[5\]。
-  - 3月27日-SOLIDEMO官方facebook[粉絲專頁成立](../Page/粉絲專頁.md "wikilink")。
-  - 4月10日-新歌『Heroine』確定成為[富士電視台的日劇](../Page/富士電視台.md "wikilink")『[時尚惡魔](../Page/FIRST_CLASS.md "wikilink")\~First
-    Class』的主題曲。
+  - 3月27日-SOLIDEMO官方facebook[粉絲專頁](../Page/粉絲專頁.md "wikilink")成立。
+  - 4月10日-新歌『Heroine』確定成為[富士電視台](../Page/富士電視台.md "wikilink")的日劇『[時尚惡魔](../Page/FIRST_CLASS.md "wikilink")\~First Class』的主題曲。
   - 4月16日-出道單曲「**THE ONE**」正式發行。
-  - 5月10日、11日-COOL JAPAN×TGC「TOKYO GIRLS TOWN」企劃第一彈『THAILAND COMIC CON
-    2014』，於[泰國演出](../Page/泰国.md "wikilink")\[6\]。
-  - 6月18日-於[巴西](../Page/巴西.md "wikilink")[世界盃足球賽期間在巴西的nakata](../Page/國際足協世界盃.md "wikilink").net
-    Cafe Sao Paulo（Octavio cafe）表演\[7\]。
+  - 5月10日、11日-COOL JAPAN×TGC「TOKYO GIRLS TOWN」企劃第一彈『THAILAND COMIC CON 2014』，於[泰國演出](../Page/泰国.md "wikilink")\[6\]。
+  - 6月18日-於[巴西](../Page/巴西.md "wikilink")[世界盃足球賽期間在巴西的nakata](../Page/國際足協世界盃.md "wikilink").net Cafe Sao Paulo（Octavio cafe）表演\[7\]。
   - 6月20日-第一個節目『ソリ旅\!Road to BRAZIL〜日本の誇りを学ぶ旅〜』\[8\]於富士電視台Dlife播放。
   - 7月16日-Ameba Studio的直播節目「ソリ生！」\[9\]開始播放。
-  - 8月14日-於a-nation island powerd by inゼリー的paradise stage Asia
-    Progress〜from a-nation〜演出。8月14日至20日於resort stage演出<sub>。</sub>
+  - 8月14日-於a-nation island powerd by inゼリー的paradise stage Asia Progress〜from a-nation〜演出。8月14日至20日於resort stage演出<sub>。</sub>
   - 9月17日-第2張單曲「**Heroine**」正式發行。
-  - 10月8日-公佈新歌『**Rafflesia**』將成為富士電視台日劇『[時尚惡魔2](../Page/FIRST_CLASS.md "wikilink")\~First
-    Class2』的片頭曲\[10\]。
+  - 10月8日-公佈新歌『**Rafflesia**』將成為富士電視台日劇『[時尚惡魔2](../Page/FIRST_CLASS.md "wikilink")\~First Class2』的片頭曲\[10\]。
   - 10月30日-獲得第3屆Golden Bird新人獎\[11\]。
   - 11月20日-獲得第56屆閃耀！日本唱片大獎新人獎\[12\]。
 
@@ -61,13 +50,12 @@ SOLIDEMO([日語](../Page/日语.md "wikilink"):ソリディーモ)，於2013年
   - 1月14日-第3張單曲「**Rafflesia**」正式發行。
   - 1月23日-於Ameba Studio的直播節目「ソリ生！」宣布，隊長渡部俊英更改藝名為シュネル(SCHNELL)\[13\]。
   - 3月14日、15日-第一次的粉絲旅行『旅ディーモvol.1〜湯けむりバスツアー〜』。
-  - 3月23日-新歌『**Girlfriend**』確定成為[AKB48](../Page/AKB48.md "wikilink")[渡邊麻友主演](../Page/渡邊麻友.md "wikilink")，由關西電視台製作、富士電視台播放的日劇『戦う\!書店ガール』插曲\[14\]。
+  - 3月23日-新歌『**Girlfriend**』確定成為[AKB48](../Page/AKB48.md "wikilink")[渡邊麻友](../Page/渡邊麻友.md "wikilink")主演，由關西電視台製作、富士電視台播放的日劇『戦う\!書店ガール』插曲\[14\]。
   - 4月9日-東京定期LIVE的固定表演會場確定更改為TOKYO FM HALL。
   - 4月18日-SOLIDEMO 1st ANNIVERSARY LIVE\[15\]。
   - 6月17日-第4張單曲「**Girlfriend**」正式發行。
   - 8月2日-確定擔任「a-nation stadium fes.」的開場表演嘉賓\[16\]。
-  - 8月19日-確定演唱Play
-    Station的遊戲「[戰國BASARA](../Page/戰國BASARA系列.md "wikilink")」10周年記念主題曲「時を超えて」\[17\]。
+  - 8月19日-確定演唱Play Station的遊戲「[戰國BASARA](../Page/戰國BASARA系列.md "wikilink")」10周年記念主題曲「時を超えて」\[17\]。
   - 8月28日-確定參加於[洛杉磯舉辦的JAPAN](../Page/洛杉矶.md "wikilink") EXPO。
   - 9月16日-於Ameba Studio的直播節目「ソリ生！」宣布粉絲名稱為『collars』\[18\]。
   - 10月21日-首張專輯「**8 collars**」正式發行。
@@ -90,10 +78,10 @@ SOLIDEMO([日語](../Page/日语.md "wikilink"):ソリディーモ)，於2013年
   - 4月12日-第7張單曲「**Happiness** 」正式發行。
   - 4月15日-於中野SUN PLAZA舉辦SOLIDEMO 3rd ANNIVERSARY LIVE\[20\]。
   - 5月31日-冠名節目「ソリディーモの冠番組」DVD發行。
-  - 6月28日-シュネル、向山毅與韓國團體[2AM的](../Page/2AM.md "wikilink")[昶旻合作的數位單曲](../Page/李昶旻.md "wikilink")「**逢いたい…**」發行。
+  - 6月28日-シュネル、向山毅與韓國團體[2AM](../Page/2AM.md "wikilink")的[昶旻合作的數位單曲](../Page/李昶旻.md "wikilink")「**逢いたい…**」發行。
   - 8月22日-第一場名古屋定期LIVE。
   - 8月23日-DVD「SOLIDEMO 3rd ANNIVERSARY LIVE」發行。
-  - 9月13日-手島章斗、佐々木和也與韓國團體[U-KISS的JUN合作的數位單曲](../Page/U-KISS.md "wikilink")「**ABSTRACT**」\[21\]發行。
+  - 9月13日-手島章斗、佐々木和也與韓國團體[U-KISS](../Page/U-KISS.md "wikilink")的JUN合作的數位單曲「**ABSTRACT**」\[21\]發行。
   - 9月27日-冠名節目「ソリディーモの冠番組2」DVD發行。
 
 2018年
@@ -102,7 +90,7 @@ SOLIDEMO([日語](../Page/日语.md "wikilink"):ソリディーモ)，於2013年
   - 2月1日-SOLIDEMO UNIT LIVE vol.1「シュネル、手島章斗」於表参道GROUND舉辦。
   - 2月22日-第一場大阪定期LIVE。
   - 3月14日-SOLIDEMO UNIT LIVE vol.2「向山毅、佐々木和也」於表参道GROUND舉辦。
-  - 4月2日-向山毅、手島章斗擔任台灣[三立電視台直播節目](../Page/三立電視.md "wikilink")「安安大明星」的專訪來賓\[22\]。
+  - 4月2日-向山毅、手島章斗擔任台灣[三立電視](../Page/三立電視.md "wikilink")台直播節目「安安大明星」的專訪來賓\[22\]。
   - 4月12日-シュネル第1次的個人售票模仿秀「新宿シュネル座 ものまねnight！」。\[23\]
   - 4月30日-SOLIDEMO 4th Anniversary Live。
   - 5月10日-第一場北海道定期LIVE。
@@ -158,16 +146,15 @@ SOLIDEMO的副隊長，暱稱「たけちゃん」，高中畢業後就到東京
 
 在出道前一直是愛貝克思演藝學校avex artist academy的學員，
 
-2009年與[Da-iCE的大野雄大等人](../Page/Da-iCE.md "wikilink")，為了參加當時有名的無伴奏歌唱比賽節目ハモネプ而組成「腹筋学園」。
+2009年與[Da-iCE](../Page/Da-iCE.md "wikilink")的大野雄大等人，為了參加當時有名的無伴奏歌唱比賽節目ハモネプ而組成「腹筋学園」。
 
-2011年參與[朝日電視台深夜日劇](../Page/朝日電視台.md "wikilink")「私のホストちゃん〜しちにんのホスト〜」，飾演
-園城葵\[28\]。
+2011年參與[朝日電視台](../Page/朝日電視台.md "wikilink")深夜日劇「私のホストちゃん〜しちにんのホスト〜」，飾演 園城葵\[28\]。
 
 之後也以個人名義「TAKE」\[29\]進行音樂活動。
 
 非常喜歡[韓國男子團體](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[東方神起](../Page/東方神起.md "wikilink")\[30\]。對中文感興趣，出道前就開始學習中文。
 
-2015年12月被任命為家鄉福岡[北九州市的觀光大使](../Page/北九州市.md "wikilink")。\[31\]
+2015年12月被任命為家鄉福岡[北九州市](../Page/北九州市.md "wikilink")的觀光大使。\[31\]
 
 ### 佐々木和也
 
@@ -197,12 +184,11 @@ SOLIDEMO的副隊長，暱稱「たけちゃん」，高中畢業後就到東京
 
 暱稱「けいたん」，專長為[田徑及繪畫](../Page/田径.md "wikilink")，喜歡[將棋](../Page/将棋_\(日本\).md "wikilink")、健身。
 
-學生時期曾於國民體育大會出賽，得到[跳高項目的亞軍](../Page/跳高.md "wikilink")(紀錄是2m07cm)，
+學生時期曾於國民體育大會出賽，得到[跳高](../Page/跳高.md "wikilink")項目的亞軍(紀錄是2m07cm)，
 
 現為田徑十項全能的大分縣紀錄保持人(6627分)。\[34\]
 
-擁有將棋1級、[書法七段的檢定證書](../Page/书法.md "wikilink")，其繪畫作品曾獲選做為第24回全國高中將棋
-龍王戦的海報。
+擁有將棋1級、[書法七段的檢定證書](../Page/书法.md "wikilink")，其繪畫作品曾獲選做為第24回全國高中將棋 龍王戦的海報。
 
 對於運動很拿手，卻很常受傷，2017年夏天因[阿基里斯腱斷裂而暫停工作半年](../Page/跟腱.md "wikilink")。\[35\]
 
@@ -232,7 +218,7 @@ SOLIDEMO的副隊長，暱稱「たけちゃん」，高中畢業後就到東京
 
 喜歡喝咖啡，最喜歡的咖啡店是星巴克。
 
-喜歡BTS[防彈少年團等韓國偶像團體](../Page/防彈少年團.md "wikilink")、崇拜的演員是[水嶋ヒロ](../Page/水嶋斐呂.md "wikilink")。\[39\]
+喜歡BTS[防彈少年團](../Page/防彈少年團.md "wikilink")等韓國偶像團體、崇拜的演員是[水嶋ヒロ](../Page/水嶋斐呂.md "wikilink")。\[39\]
 
 ### 木全寛幸
 
@@ -258,8 +244,7 @@ SOLIDEMO的副隊長，暱稱「たけちゃん」，高中畢業後就到東京
 
 從中學開始嚮往演藝圈，於是參加許多經紀公司的試鏡，高2時被MEN'S NON-NO錄取。\[43\]\[44\]
 
-2010年3月開始擔任MEN'S
-NON-NO的專屬模特兒，與人氣演員[坂口健太郎同期](../Page/坂口健太郎.md "wikilink")。\[45\]
+2010年3月開始擔任MEN'S NON-NO的專屬模特兒，與人氣演員[坂口健太郎](../Page/坂口健太郎.md "wikilink")同期。\[45\]
 
 2013年因SOLIDEMO製作人的挖角而加入SOLIDEMO，同時兼顧團體活動與模特兒的工作，
 
@@ -269,7 +254,7 @@ NON-NO的專屬模特兒，與人氣演員[坂口健太郎同期](../Page/坂口
 
 有1個姊姊1個妹妹，全家人身高都很高。\[47\]
 
-參與過真人版[火影忍者舞台劇](../Page/火影忍者.md "wikilink")「NARUTO-ナルト-」～暁の調べ，飾演「重吾」，海外曾到過上海、新加坡演出。\[48\]
+參與過真人版[火影忍者](../Page/火影忍者.md "wikilink")舞台劇「NARUTO-ナルト-」～暁の調べ，飾演「重吾」，海外曾到過上海、新加坡演出。\[48\]
 
 ### 手島章斗
 
@@ -402,8 +387,7 @@ NON-NO的專屬模特兒，與人氣演員[坂口健太郎同期](../Page/坂口
 
   - [SOLIDEMO OFFICIAL WEB SITE](http://solidemo.jp/)
   - [SOLIDEMO official mobile Collars](https://solidemo-collars.jp/)
-  - [SOLIDEMO](https://avex-management.jp/artists/artist/SDEMO) - avex
-    management Web
+  - [SOLIDEMO](https://avex-management.jp/artists/artist/SDEMO) - avex management Web
   - [SOLIDEMO官方部落格](http://ameblo.jp/solidemo/)
   - [YouTube SOLIDEMO STUDIO](http://www.youtube.com/user/SOLIDEMOst)
   - [SOLIDEMO官方YouTube](https://www.youtube.com/channel/UClqDWR0S6dXITb46lhQuojQ)
@@ -452,19 +436,13 @@ NON-NO的專屬模特兒，與人氣演員[坂口健太郎同期](../Page/坂口
 3.
 4.
 5.
-6.
-    Musicman-net|accessdate=2018-08-24|work=www.musicman-net.com|language=ja}}
-7.
-    Musicman-net|accessdate=2018-08-24|work=www.musicman-net.com|language=ja}}
-8.
-    Musicman-net|accessdate=2018-08-24|work=www.musicman-net.com|language=ja}}
-9.
-    Musicman-net|accessdate=2018-08-24|work=www.musicman-net.com|language=ja}}
+6.   Musicman-net|accessdate=2018-08-24|work=www.musicman-net.com|language=ja}}
+7.   Musicman-net|accessdate=2018-08-24|work=www.musicman-net.com|language=ja}}
+8.   Musicman-net|accessdate=2018-08-24|work=www.musicman-net.com|language=ja}}
+9.   Musicman-net|accessdate=2018-08-24|work=www.musicman-net.com|language=ja}}
 10.  BARKS|newspaper=BARKS|accessdate=2018-08-24|language=ja}}
-11.
-    Musicman-net|accessdate=2018-08-24|work=www.musicman-net.com|language=ja}}
-12.
-    Musicman-net|accessdate=2018-08-24|work=www.musicman-net.com|language=ja}}
+11.  Musicman-net|accessdate=2018-08-24|work=www.musicman-net.com|language=ja}}
+12.  Musicman-net|accessdate=2018-08-24|work=www.musicman-net.com|language=ja}}
 13.  BARKS|newspaper=BARKS|accessdate=2018-08-24|language=ja}}
 14.  BARKS|newspaper=BARKS|accessdate=2018-08-24|language=ja}}
 15.  BARKS|newspaper=BARKS|accessdate=2018-08-24|language=ja}}
@@ -484,8 +462,7 @@ NON-NO的專屬模特兒，與人氣演員[坂口健太郎同期](../Page/坂口
 29.
 30.
 31.
-32.
-    Musicman-net|accessdate=2018-08-29|work=www.musicman-net.com|language=ja}}
+32.  Musicman-net|accessdate=2018-08-29|work=www.musicman-net.com|language=ja}}
 33.
 34.
 35.

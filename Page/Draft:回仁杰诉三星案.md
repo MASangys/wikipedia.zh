@@ -1,18 +1,9 @@
-**回仁杰诉三星案**又被称为三星炸机案，是指[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[公民](../Page/公民.md "wikilink")回仁杰对[三星集团发起的](https://zh.wikipedia.org/wiki/三星集团 "wikilink")[民事诉讼](https://zh.wikipedia.org/wiki/民事诉讼 "wikilink")。在该案中，三星集团被控在2016年三星[Galaxy
-Note
-7手机爆炸门事件中](https://zh.wikipedia.org/wiki/Galaxy_Note_7 "wikilink")，在明知手机[电池](../Page/电池.md "wikilink")存在隐患的情形下仍然继续发售，并在对中国各地所发生的多起爆炸事件进行调查之前，就对外发布了Galaxy
-Note 7可以安全使用的公告，存在[欺诈行为](https://zh.wikipedia.org/wiki/欺诈 "wikilink")。
+**回仁杰诉三星案**又被称为三星炸机案，是指[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[公民](../Page/公民.md "wikilink")回仁杰对[三星集团发起的](https://zh.wikipedia.org/wiki/三星集团 "wikilink")[民事诉讼](https://zh.wikipedia.org/wiki/民事诉讼 "wikilink")。在该案中，三星集团被控在2016年三星[Galaxy Note 7手机爆炸门事件中](https://zh.wikipedia.org/wiki/Galaxy_Note_7 "wikilink")，在明知手机[电池](../Page/电池.md "wikilink")存在隐患的情形下仍然继续发售，并在对中国各地所发生的多起爆炸事件进行调查之前，就对外发布了Galaxy Note 7可以安全使用的公告，存在[欺诈行为](https://zh.wikipedia.org/wiki/欺诈 "wikilink")。
 
 ## 案件背景
 
-在2016年8月19日，三星集团发布了Galaxy Note 7手机。但在发售不久之后，Note
-7就在全球各地发生了不同程度的发热、起火和爆炸事件。截至2016年9月1日，三星已经在世界范围内收到了35起燃损报告\[1\]\[2\]。在9月2日，三星启动了全球[召回计划](https://zh.wikipedia.org/wiki/召回 "wikilink")，但召回计划不涵盖中国大陆地区。三星宣称中国大陆所发售的Note
-7使用的电池和问题电池批次不同，消费者可以放心购买和使用\[3\]。在9月14日，三星再次发布公告，称将针对有电池隐患的Note
-7手机“主动更换Galaxy Note7测试体验机”，并再次宣称“自9月1日起在中国市场发售的Galaxy
-Note7国行版本，由于采用了不同的电池供应商”，故不会对中国大陆发售的手机进行更换，强调中国用户可以放心购买和使用\[4\]。
-在三星接连发布两次公告后，原告回仁杰于2016年9月25日在[京东商城购买了一台Galaxy](https://zh.wikipedia.org/wiki/京东 "wikilink")
-Note
-7手机，但该台手机在正常充电的情况下，于9月26日冒烟燃烧并损坏了周围的电子设备。事故发生后，回仁杰通过[中央电视台的](https://zh.wikipedia.org/wiki/中央电视台 "wikilink")《消费者主张》栏目，委托中国泰尔实验室对事故手机的燃烧原因进行调查。泰尔实验室于10月17日出具了检验报告，报告称“样品未发现外部加热痕迹，样品的热损毁由电池自燃所致，电池由右下角的位置开始燃烧”\[5\]。
+在2016年8月19日，三星集团发布了Galaxy Note 7手机。但在发售不久之后，Note 7就在全球各地发生了不同程度的发热、起火和爆炸事件。截至2016年9月1日，三星已经在世界范围内收到了35起燃损报告\[1\]\[2\]。在9月2日，三星启动了全球[召回计划](https://zh.wikipedia.org/wiki/召回 "wikilink")，但召回计划不涵盖中国大陆地区。三星宣称中国大陆所发售的Note 7使用的电池和问题电池批次不同，消费者可以放心购买和使用\[3\]。在9月14日，三星再次发布公告，称将针对有电池隐患的Note 7手机“主动更换Galaxy Note7测试体验机”，并再次宣称“自9月1日起在中国市场发售的Galaxy Note7国行版本，由于采用了不同的电池供应商”，故不会对中国大陆发售的手机进行更换，强调中国用户可以放心购买和使用\[4\]。
+在三星接连发布两次公告后，原告回仁杰于2016年9月25日在[京东商城购买了一台Galaxy](https://zh.wikipedia.org/wiki/京东 "wikilink") Note 7手机，但该台手机在正常充电的情况下，于9月26日冒烟燃烧并损坏了周围的电子设备。事故发生后，回仁杰通过[中央电视台的](https://zh.wikipedia.org/wiki/中央电视台 "wikilink")《消费者主张》栏目，委托中国泰尔实验室对事故手机的燃烧原因进行调查。泰尔实验室于10月17日出具了检验报告，报告称“样品未发现外部加热痕迹，样品的热损毁由电池自燃所致，电池由右下角的位置开始燃烧”\[5\]。
 
 ## 事故升级
 
@@ -42,7 +33,7 @@ Note
 
 ## 参考资料
 
-\<\!--- 參見 <https:/>
+[:Category:用条目向导创建的草稿](https://zh.wikipedia.org/wiki/Category:用条目向导创建的草稿 "wikilink")
 
 1.
 2.

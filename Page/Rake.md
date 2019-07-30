@@ -1,14 +1,12 @@
-**Rake**是一款软件任务管理及[組建自動化工具](../Page/組建自動化.md "wikilink")。用户可指定任务、描述依赖关系及分组命名空间中的任务。
+**Rake**是一款软件任务管理及[組建自動化](../Page/組建自動化.md "wikilink")工具。用户可指定任务、描述依赖关系及分组命名空间中的任务。
 
-此软件与[SCons和](../Page/SCons.md "wikilink")[Make类似](../Page/Make.md "wikilink")，但有着诸多差异。Rake使用[Ruby编写](../Page/Ruby.md "wikilink")，使用以Ruby语法编写的Rakefile（与Make中的Makefile等同）。此软件由编写。
+此软件与[SCons](../Page/SCons.md "wikilink")和[Make](../Page/Make.md "wikilink")类似，但有着诸多差异。Rake使用[Ruby](../Page/Ruby.md "wikilink")编写，使用以Ruby语法编写的Rakefile（与Make中的Makefile等同）。此软件由编写。
 
-Rake使用Ruby的[匿名函数块来定义多个任务并允许用户使用Ruby语法](../Page/匿名函数.md "wikilink")。它拥有共同任务库，例如：控制文件任务的函数及移除已编译文件（即“clean”任务）的库。与Make相似的是，Rake同样可以根据模式来合成任务，例如：根据文件名自动构建文件编译任务。Rake现已成为Ruby
-1.9后标准库的一部分。
+Rake使用Ruby的[匿名函数](../Page/匿名函数.md "wikilink")块来定义多个任务并允许用户使用Ruby语法。它拥有共同任务库，例如：控制文件任务的函数及移除已编译文件（即“clean”任务）的库。与Make相似的是，Rake同样可以根据模式来合成任务，例如：根据文件名自动构建文件编译任务。Rake现已成为Ruby 1.9后标准库的一部分。
 
 ## 示例
 
-下方是一个简单的用于构建[C语言](https://zh.wikipedia.org/wiki/C语言 "wikilink") “Hellow,
-world\!”程序的Rake脚本。
+下方是一个简单的用于构建[C语言](https://zh.wikipedia.org/wiki/C语言 "wikilink") “Hellow, world\!”程序的Rake脚本。
 
 ``` ruby
   file 'hello.o' => 'hello.c' do
@@ -19,8 +17,7 @@ world\!”程序的Rake脚本。
   end
 ```
 
-要查看更多示例，请参见[Rakefile
-文件格式](http://www.ruby-doc.org/core-1.9.3/doc/rake/rakefile_rdoc.html)文档。
+要查看更多示例，请参见[Rakefile 文件格式](http://www.ruby-doc.org/core-1.9.3/doc/rake/rakefile_rdoc.html)文档。
 
 ### 规则
 
@@ -98,16 +95,12 @@ end
   - [Rake文档](http://docs.seattlerb.org/rake/)
 
   -
-  - 由[马丁·福勒撰写的](../Page/马丁·福勒.md "wikilink")[使用Rake构建语言](http://martinfowler.com/articles/rake.html)
+  - 由[马丁·福勒](../Page/马丁·福勒.md "wikilink")撰写的[使用Rake构建语言](http://martinfowler.com/articles/rake.html)
 
-  - railsenvy.com上的[Ruby on Rails
-    Rake教程](https://web.archive.org/web/20071024171055/http://www.railsenvy.com/2007/6/11/ruby-on-rails-rake-tutorial)
+  - railsenvy.com上的[Ruby on Rails Rake教程](https://web.archive.org/web/20071024171055/http://www.railsenvy.com/2007/6/11/ruby-on-rails-rake-tutorial)
 
   - railscasts.com上的[自定义Rake任务](http://railscasts.com/episodes/66)
 
   - lukaszwrobel.pl上的[Rake教程](http://lukaszwrobel.pl/blog/rake-tutorial)
 
-[Category:程序设计工具](https://zh.wikipedia.org/wiki/Category:程序设计工具 "wikilink")
-[Category:自动化构建](https://zh.wikipedia.org/wiki/Category:自动化构建 "wikilink")
-[Category:使用MIT许可证的软件](https://zh.wikipedia.org/wiki/Category:使用MIT许可证的软件 "wikilink")
-[Category:Ruby](https://zh.wikipedia.org/wiki/Category:Ruby "wikilink")
+[Category:程序设计工具](https://zh.wikipedia.org/wiki/Category:程序设计工具 "wikilink") [Category:自动化构建](https://zh.wikipedia.org/wiki/Category:自动化构建 "wikilink") [Category:使用MIT许可证的软件](https://zh.wikipedia.org/wiki/Category:使用MIT许可证的软件 "wikilink") [Category:Ruby](https://zh.wikipedia.org/wiki/Category:Ruby "wikilink")

@@ -1,6 +1,4 @@
-**We In The
-Zone**（），團名有「我們在這兒展現我們獨特的音樂」的意思，是[韓國春娛樂](https://zh.wikipedia.org/wiki/韓國 "wikilink")(Choon
-Entertainment)於2019年推出的五人男子組合，成員包括晭妟、Eson、憼憲、[始炫](../Page/金始炫.md "wikilink")、玟。
+**We In The Zone**（），團名有「我們在這兒展現我們獨特的音樂」的意思，是[韓國春娛樂](https://zh.wikipedia.org/wiki/韓國 "wikilink")(Choon Entertainment)於2019年推出的五人男子組合，成員包括晭妟、Eson、憼憲、[始炫](../Page/金始炫.md "wikilink")、玟。
 
 ## 成員資料
 
@@ -19,11 +17,9 @@ Entertainment)於2019年推出的五人男子組合，成員包括晭妟、Eson�
 
 ### 出道前
 
-2018年12月，公開出道前組合「WITZ」及表演影音，成員包括Jimyoung、Eson及Kyeongheon\[1\]\[2\]，
-通過《WITZ Moment》、《Your Friendly WITZ》真人騷，讓粉絲認識他們\[3\]。
+2018年12月，公開出道前組合「WITZ」及表演影音，成員包括Jimyoung、Eson及Kyeongheon\[1\]\[2\]， 通過《WITZ Moment》、《Your Friendly WITZ》真人騷，讓粉絲認識他們\[3\]。
 
-2019年4月27日，春娛樂宣佈WITZ更名為We In The
-Zone﹐並加入金始炫及個人資料未公開的新成員Min，預計上半年出道\[4\]。
+2019年4月27日，春娛樂宣佈WITZ更名為We In The Zone﹐並加入金始炫及個人資料未公開的新成員Min，預計上半年出道\[4\]。
 
 2019年5月15日，釋出出道曲的團體相片\[5\]。
 
@@ -50,7 +46,7 @@ Zone﹐並加入金始炫及個人資料未公開的新成員Min，預計上半�
 <ul>
 <li>發行日期：2019年5月27日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
-<li>銷量：2,125 +[8]</li>
+<li>銷量：6,393 +[8]</li>
 </ul></td>
 <td></td>
 </tr>
@@ -81,11 +77,7 @@ Zone﹐並加入金始炫及個人資料未公開的新成員Min，預計上半�
   -
   -
   -
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:2019年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2019年成立的音樂團體 "wikilink")
-[Category:2019年韓國建立](https://zh.wikipedia.org/wiki/Category:2019年韓國建立 "wikilink")
+[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2019年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2019年成立的音樂團體 "wikilink") [Category:2019年韓國建立](https://zh.wikipedia.org/wiki/Category:2019年韓國建立 "wikilink")
 
 1.
 2.
@@ -94,5 +86,4 @@ Zone﹐並加入金始炫及個人資料未公開的新成員Min，預計上半�
 5.
 6.
 7.
-8.  \[<http://mobile.gaonchart.co.kr/musicAlbum.gaon?nationGbn=T&serviceGbn=&termGbn=month>.
-    2019年GAON 5月專輯榜70位\]
+8.

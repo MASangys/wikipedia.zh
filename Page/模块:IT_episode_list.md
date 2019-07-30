@@ -1,9 +1,6 @@
 local p = {}
 
-local getArgs local yesno = require('Module:Yesno') local mm =
-require('Module:Math') local contrast_ratio = require('Module:Color
-contrast')._ratio local HTMLcolor = mw.loadData( 'Module:Color
-contrast/colors' )
+local getArgs local yesno = require('Module:Yesno') local mm = require('Module:Math') local contrast_ratio = require('Module:Color contrast')._ratio local HTMLcolor = mw.loadData( 'Module:Color contrast/colors' )
 
 function p.sublist(frame)
 
@@ -349,6 +346,4 @@ end
 
 return p
 
-[Category:使用默认线条颜色的剧集列表](https://zh.wikipedia.org/wiki/Category:使用默认线条颜色的剧集列表 "wikilink")
-[Category:行偏差的剧集列表](https://zh.wikipedia.org/wiki/Category:行偏差的剧集列表 "wikilink")
-[Category:使用無效顏色的劇集列表](https://zh.wikipedia.org/wiki/Category:使用無效顏色的劇集列表 "wikilink")
+[Category:使用默认线条颜色的剧集列表](https://zh.wikipedia.org/wiki/Category:使用默认线条颜色的剧集列表 "wikilink") [Category:行偏差的剧集列表](https://zh.wikipedia.org/wiki/Category:行偏差的剧集列表 "wikilink") [Category:使用無效顏色的劇集列表](https://zh.wikipedia.org/wiki/Category:使用無效顏色的劇集列表 "wikilink")

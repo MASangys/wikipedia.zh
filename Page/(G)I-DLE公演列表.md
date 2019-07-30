@@ -1,4 +1,4 @@
-**(G)I-DLE公演列表**主要列举韩国女子音乐组合[(G)I-DLE及成员个人历年举行的演唱会](../Page/\(G\)I-DLE.md "wikilink")、参与的国内外公开演出活动。
+**(G)I-DLE公演列表**主要列举韩国女子音乐组合[(G)I-DLE](../Page/\(G\)I-DLE.md "wikilink")及成员个人历年举行的演唱会、参与的国内外公开演出活动。
 
 ## Showcase
 
@@ -6,7 +6,7 @@
 | ---------- | --------------------------------------------------------------------------- | ---------------------------------------------------------------------- | -- |
 | 2018年5月2日  | [(G)I-DLE出道Showcase](https://www.youtube.com/watch?v=Uqhm7vq3u1Y)           | 首尔Blue Square                                                          |    |
 | 2019年2月26日 | [(G)I-DLE迷你二辑《I made》Showcase](https://www.youtube.com/watch?v=nXQJhTa6HXs) | 首尔Blue Square                                                          |    |
-| 2019年6月26日 | (G)I-DLE《Uh-Oh》Showcase                                                     | 首尔Blue Square                                                          |    |
+| 2019年6月26日 | (G)I-DLE《Uh-Oh》Showcase\[1\]                                                | 首尔Blue Square                                                          |    |
 | 2019年7月23日 | (G)I-DLE日本出道Showcase                                                        | [东京](../Page/东京.md "wikilink")[赤坂BLITZ](../Page/赤坂BLITZ.md "wikilink") |    |
 
 ## 参与演唱会
@@ -62,13 +62,13 @@
 | 8月5日   | 商演                                                                        | 纽约                                                             |                                                                   |
 | 8月18日  | 全球区块链精英论坛(中韩)文化之夜                                                         | 首尔KBS Arena                                                    |                                                                   |
 | 10月2日  | 淑明女大校庆                                                                    | 首尔[淑明女子大学](https://zh.wikipedia.org/wiki/淑明女子大学 "wikilink")    |                                                                   |
-| 10月5日  | 中央大校庆\[1\]                                                                | 首尔[中央大学](https://zh.wikipedia.org/wiki/中央大学_\(韩国\) "wikilink") |                                                                   |
+| 10月5日  | 中央大校庆\[2\]                                                                | 首尔[中央大学](https://zh.wikipedia.org/wiki/中央大学_\(韩国\) "wikilink") |                                                                   |
 | 10月16日 | [SBS两点出逃Cultwo Show公开演出](https://www.youtube.com/watch?v=D2p2htqV5EE)     | 首尔[新村星光广场](https://zh.wikipedia.org/wiki/新村_\(首尔\) "wikilink") |                                                                   |
 | 11月3日  | 英雄联盟S8全球总决赛开幕式                                                            | [仁川文鹤竞技场](https://zh.wikipedia.org/wiki/仁川文鹤竞技场 "wikilink")    | [2018年11月3日LOL](http://www.youtube.com/watch?v=p9oDlvOV3qs)，美延、小娟 |
 | 11月24日 | POSCO音乐会：盛开的梦想                                                            | 首尔POSCO中心                                                      |                                                                   |
 | 11月28日 | [第3届亚洲明星盛典颁奖典礼](https://zh.wikipedia.org/wiki/亚洲明星盛典 "wikilink")          | 仁川南洞体育馆                                                        | [2018年11月28日MTN](https://www.youtube.com/watch?v=7gsh-LL1mHg)     |
-| 12月1日  | [第10届甜瓜音乐奖颁奖典礼](https://zh.wikipedia.org/wiki/甜瓜音乐奖 "wikilink")           | 首尔[高尺天空巨蛋球场](../Page/高尺天空巨蛋.md "wikilink")                     | [2018年12月1日JTBC](https://www.youtube.com/watch?v=20W_slJ7wuk)     |
-| 12月10日 | [第20届Mnet亚洲音乐大奖颁奖典礼](https://zh.wikipedia.org/wiki/Mnet亚洲音乐大奖 "wikilink") | 首尔[东大门设计广场](../Page/东大门设计广场.md "wikilink")                     | 2018年12月10日Mnet\[2\]                                              |
+| 12月1日  | [第10届甜瓜音乐奖颁奖典礼](https://zh.wikipedia.org/wiki/甜瓜音乐奖 "wikilink")           | 首尔[高尺天空巨蛋](../Page/高尺天空巨蛋.md "wikilink")球场                     | [2018年12月1日JTBC](https://www.youtube.com/watch?v=20W_slJ7wuk)     |
+| 12月10日 | [第20届Mnet亚洲音乐大奖颁奖典礼](https://zh.wikipedia.org/wiki/Mnet亚洲音乐大奖 "wikilink") | 首尔[东大门设计广场](../Page/东大门设计广场.md "wikilink")                     | 2018年12月10日Mnet\[3\]                                              |
 | 12月20日 | [第1届韩国大众音乐奖颁奖典礼](https://zh.wikipedia.org/wiki/韩国大众音乐奖 "wikilink")        | 首尔                                                             | 2018年12月20日GYAO\!                                                 |
 
 <table>
@@ -84,7 +84,7 @@
 <tr class="odd">
 <td><p>1月5日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/金唱片奖" title="wikilink">第33届金唱片奖颁奖典礼</a></p></td>
-<td><p>首尔<a href="../Page/高尺天空巨蛋.md" title="wikilink">高尺天空巨蛋球场</a></p></td>
+<td><p>首尔<a href="../Page/高尺天空巨蛋.md" title="wikilink">高尺天空巨蛋</a>球场</p></td>
 <td><p>2019年1月5日JTBC</p></td>
 </tr>
 <tr class="even">
@@ -113,7 +113,7 @@
 </tr>
 <tr class="even">
 <td><p>4月21日</p></td>
-<td><p>第47届[3]</p></td>
+<td><p>第47届[4]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/宜宁郡" title="wikilink">宜宁</a></p></td>
 <td></td>
 </tr>
@@ -125,7 +125,7 @@
 </tr>
 <tr class="even">
 <td><p>5月5日</p></td>
-<td><p>[4]</p></td>
+<td><p>[5]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/义王市" title="wikilink">义王왕송못동로</a>(월암동) 일원</p></td>
 <td><p>雨琦缺席</p></td>
 </tr>
@@ -155,12 +155,12 @@
 </tr>
 <tr class="odd">
 <td><p>5月15日</p></td>
-<td><p>庆熙大学校庆[5]</p></td>
+<td><p>庆熙大学校庆[6]</p></td>
 <td><p>首尔<a href="https://zh.wikipedia.org/wiki/庆熙大学" title="wikilink">庆熙大学</a></p></td>
 <td><p>雨琦缺席</p></td>
 </tr>
 <tr class="even">
-<td><p>檀国大学校庆[6]</p></td>
+<td><p>檀国大学校庆[7]</p></td>
 <td><p>首尔<a href="https://zh.wikipedia.org/wiki/檀国大学" title="wikilink">檀国大学</a></p></td>
 <td></td>
 <td></td>
@@ -173,13 +173,13 @@
 </tr>
 <tr class="even">
 <td><p>5月16日</p></td>
-<td><p>东园科学技术大学校校庆[7]</p></td>
+<td><p>东园科学技术大学校校庆[8]</p></td>
 <td><p><a href="../Page/梁山市.md" title="wikilink">梁山</a></p></td>
 <td><p>雨琦缺席</p></td>
 </tr>
 <tr class="odd">
 <td><p>5月17日</p></td>
-<td><p>光云大学校庆[8]</p></td>
+<td><p>光云大学校庆[9]</p></td>
 <td><p>首尔<a href="../Page/光云大学.md" title="wikilink">光云大学</a></p></td>
 <td></td>
 </tr>
@@ -191,7 +191,7 @@
 </tr>
 <tr class="odd">
 <td><p>5月22日</p></td>
-<td><p>第23届东亚放送艺术大学歌谣祭[9]</p></td>
+<td><p>第23届东亚放送艺术大学歌谣祭[10]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/安城市_(韩国)" title="wikilink">安城</a></p></td>
 <td></td>
 </tr>
@@ -203,8 +203,8 @@
 </tr>
 <tr class="odd">
 <td><p>5月28日</p></td>
-<td><p>大真大学校庆[10]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/抱川市" title="wikilink">抱川</a></p></td>
+<td><p>大真大学校庆[11]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/抱川市" title="wikilink">抱川</a><a href="https://zh.wikipedia.org/wiki/大真大学" title="wikilink">大真大学</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -238,29 +238,16 @@
 
 {{(G)I-DLE}}
 
-[Category:Cube娛樂](https://zh.wikipedia.org/wiki/Category:Cube娛樂 "wikilink")
-[Category:(G)I-DLE](https://zh.wikipedia.org/wiki/Category:\(G\)I-DLE "wikilink")
+[Category:Cube娛樂](https://zh.wikipedia.org/wiki/Category:Cube娛樂 "wikilink") [Category:(G)I-DLE](https://zh.wikipedia.org/wiki/Category:\(G\)I-DLE "wikilink")
 
-1.  [LATATA](https://www.youtube.com/watch?v=kRlDzBqFWpE)、[MAZE](https://www.youtube.com/watch?v=Uvz9X0tlK6U)、[Light
-    My Body
-    Up](https://www.youtube.com/watch?v=1cLfhypo7xU)、[HANN](https://www.youtube.com/watch?v=X8BHzcPbWK4).
-    Youtube mang2goon. October 5, 2019.
-2.  [Supermagic](https://www.youtube.com/watch?v=gj8gSfYBPPc)、[HANN
-    Intro+LATATA](https://www.youtube.com/watch?v=aYUbYL2cDS0). Mnet.
-    December 10, 2018.
-3.  [HANN](https://www.youtube.com/watch?v=u8NOIisBKLQ)、[LATATA](https://www.youtube.com/watch?v=q5S4KUa_y7c)、[MAZE](https://www.youtube.com/watch?v=Bs4B5vFzSOY)、[Senorita](https://www.youtube.com/watch?v=OIohrF40LlQ).
-    Youtube fancam ecu. April 21, 2019.
-4.  [Senorita](https://www.youtube.com/watch?v=AxYiUwTtVFY)、[HANN](https://www.youtube.com/watch?v=qOdI1EBsSYw)、[MAZE](https://www.youtube.com/watch?v=3GxNlKfNqfg)、[LATATA](https://www.youtube.com/watch?v=LIs9nIz6EK0).
-    Youtube Mera. May 5, 2019.
-5.  [Senorita](https://www.youtube.com/watch?v=4p2v4esvLc4)、[HANN](https://www.youtube.com/watch?v=pNiQynbDkZo)、[MAZE](https://www.youtube.com/watch?v=RxVSMHjSVMw)、[LATATA](https://www.youtube.com/watch?v=Mag6z7EcXQw).
-    Youtube Johnny. May 15, 2019.
-6.  [Senorita](https://www.youtube.com/watch?v=96so_nL-Wcc)、[HANN](https://www.youtube.com/watch?v=900Q1Agqc6g)、[MAZE](https://www.youtube.com/watch?v=aUQm_5Wskbw)、[LATATA](https://www.youtube.com/watch?v=Qb_XjaXB2b4).
-    Youtube Johnny. May 15, 2019.
-7.  [Senorita](https://www.youtube.com/watch?v=k0rI-kWn6qQ)、[HANN](https://www.youtube.com/watch?v=MkVpB4WGmmo)、[MAZE](https://www.youtube.com/watch?v=ne1AtygvCCc)、[LATATA](https://www.youtube.com/watch?v=x3498EVJFHU).
-    Youtube 팔도조선 KPOP. May 16, 2019.
-8.  [LATATA](https://www.youtube.com/watch?v=eV2X1shiLU4)、[Senorita](https://www.youtube.com/watch?v=sp4yRBun8cA)、[HANN](https://www.youtube.com/watch?v=EAwde6SS_Jc)、[MAZE](https://www.youtube.com/watch?v=-KThkUsX5RI).
-    Youtube Spinel CAM. May 17, 2019.
-9.  [HANN](https://www.youtube.com/watch?v=-jWmocBf6ZM)、[Senorita](https://www.youtube.com/watch?v=HJtehiCp3SY)、[MAZE](https://www.youtube.com/watch?v=CqpsbbRReWk)、[LATATA](https://www.youtube.com/watch?v=0yE0_WZ9ooc).
-    Youtube JJA GA. May 22, 2019.
-10. [Senorita](https://www.youtube.com/watch?v=dgW6AbEkf9E)、[HANN](https://www.youtube.com/watch?v=pTb8BnelKUo)、[MAZE](https://www.youtube.com/watch?v=ueSS6Q_SxPk)、[LATATA](https://www.youtube.com/watch?v=kbBAwB8kSG8).
-    Youtube dorappi2000. May 28, 2019.
+1.  [(G)I-DLE Uh-Oh Showcase Part.1](https://www.youtube.com/watch?v=PltWcpjgWXA&t)、[(G)I-DLE Uh-Oh Showcase Part.2](https://www.youtube.com/watch?v=tgRRnmsMLZ4)、[(G)I-DLE Uh-Oh Showcase Part.3](https://www.youtube.com/watch?v=bvhoZVfaHRc&t). TongTongTV. June 26,2018.
+2.  [LATATA](https://www.youtube.com/watch?v=kRlDzBqFWpE)、[MAZE](https://www.youtube.com/watch?v=Uvz9X0tlK6U)、[Light My Body Up](https://www.youtube.com/watch?v=1cLfhypo7xU)、[HANN](https://www.youtube.com/watch?v=X8BHzcPbWK4). Youtube mang2goon. October 5, 2019.
+3.  [Supermagic](https://www.youtube.com/watch?v=gj8gSfYBPPc)、[HANN Intro+LATATA](https://www.youtube.com/watch?v=aYUbYL2cDS0). Mnet. December 10, 2018.
+4.  [HANN](https://www.youtube.com/watch?v=u8NOIisBKLQ)、[LATATA](https://www.youtube.com/watch?v=q5S4KUa_y7c)、[MAZE](https://www.youtube.com/watch?v=Bs4B5vFzSOY)、[Senorita](https://www.youtube.com/watch?v=OIohrF40LlQ). Youtube fancam ecu. April 21, 2019.
+5.  [Senorita](https://www.youtube.com/watch?v=AxYiUwTtVFY)、[HANN](https://www.youtube.com/watch?v=qOdI1EBsSYw)、[MAZE](https://www.youtube.com/watch?v=3GxNlKfNqfg)、[LATATA](https://www.youtube.com/watch?v=LIs9nIz6EK0). Youtube Mera. May 5, 2019.
+6.  [Senorita](https://www.youtube.com/watch?v=4p2v4esvLc4)、[HANN](https://www.youtube.com/watch?v=pNiQynbDkZo)、[MAZE](https://www.youtube.com/watch?v=RxVSMHjSVMw)、[LATATA](https://www.youtube.com/watch?v=Mag6z7EcXQw). Youtube Johnny. May 15, 2019.
+7.  [Senorita](https://www.youtube.com/watch?v=96so_nL-Wcc)、[HANN](https://www.youtube.com/watch?v=900Q1Agqc6g)、[MAZE](https://www.youtube.com/watch?v=aUQm_5Wskbw)、[LATATA](https://www.youtube.com/watch?v=Qb_XjaXB2b4). Youtube Johnny. May 15, 2019.
+8.  [Senorita](https://www.youtube.com/watch?v=k0rI-kWn6qQ)、[HANN](https://www.youtube.com/watch?v=MkVpB4WGmmo)、[MAZE](https://www.youtube.com/watch?v=ne1AtygvCCc)、[LATATA](https://www.youtube.com/watch?v=x3498EVJFHU). Youtube 팔도조선 KPOP. May 16, 2019.
+9.  [LATATA](https://www.youtube.com/watch?v=eV2X1shiLU4)、[Senorita](https://www.youtube.com/watch?v=sp4yRBun8cA)、[HANN](https://www.youtube.com/watch?v=EAwde6SS_Jc)、[MAZE](https://www.youtube.com/watch?v=-KThkUsX5RI). Youtube Spinel CAM. May 17, 2019.
+10. [HANN](https://www.youtube.com/watch?v=-jWmocBf6ZM)、[Senorita](https://www.youtube.com/watch?v=HJtehiCp3SY)、[MAZE](https://www.youtube.com/watch?v=CqpsbbRReWk)、[LATATA](https://www.youtube.com/watch?v=0yE0_WZ9ooc). Youtube JJA GA. May 22, 2019.
+11. [Senorita](https://www.youtube.com/watch?v=dgW6AbEkf9E)、[HANN](https://www.youtube.com/watch?v=pTb8BnelKUo)、[MAZE](https://www.youtube.com/watch?v=ueSS6Q_SxPk)、[LATATA](https://www.youtube.com/watch?v=kbBAwB8kSG8). Youtube dorappi2000. May 28, 2019.

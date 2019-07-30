@@ -1,5 +1,4 @@
-**Nevermind**（韓語：**네버마인드**），是TOEAST
-Music於2013年推出的四人男子樂隊，成員包括Changha、G.One、INO及Jihoon\[1\]。因公司資源不足，樂隊於2014年解散。
+**Nevermind**（韓語：**네버마인드**），是TOEAST Music於2013年推出的四人男子樂隊，成員包括Changha、G.One、INO及Jihoon\[1\]。因公司資源不足，樂隊於2014年解散。
 
 ## 成員資料
 
@@ -40,13 +39,6 @@ Music於2013年推出的四人男子樂隊，成員包括Changha、G.One、INO�
 
 ## 参考文章
 
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:2013年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2013年成立的音樂團體 "wikilink")
-[Category:已解散的男子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的男子演唱團體 "wikilink")
-[Category:2014年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年解散的音樂團體 "wikilink")
-[Category:2013年韓國建立](https://zh.wikipedia.org/wiki/Category:2013年韓國建立 "wikilink")
-[Category:2014年韓國廢除](https://zh.wikipedia.org/wiki/Category:2014年韓國廢除 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
+[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:2013年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2013年成立的音樂團體 "wikilink") [Category:已解散的男子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的男子演唱團體 "wikilink") [Category:2014年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年解散的音樂團體 "wikilink") [Category:2013年韓國建立](https://zh.wikipedia.org/wiki/Category:2013年韓國建立 "wikilink") [Category:2014年韓國廢除](https://zh.wikipedia.org/wiki/Category:2014年韓國廢除 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
 
 1.

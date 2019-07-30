@@ -1,6 +1,4 @@
-《**FLOWER**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[GFRIEND](../Page/GFRIEND.md "wikilink")2019年3月13日在[日本發行第二張日語單曲](../Page/日本.md "wikilink")，由[Source
-Music製作](https://zh.wikipedia.org/wiki/Source_Music "wikilink")，[King
-Records發行](../Page/國王唱片.md "wikilink")，於2019年3月13日推出，主打歌為〈FLOWER〉。
+《**FLOWER**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[GFRIEND](../Page/GFRIEND.md "wikilink")2019年3月13日在[日本](../Page/日本.md "wikilink")發行第二張日語單曲，由[Source Music製作](https://zh.wikipedia.org/wiki/Source_Music "wikilink")，[King Records發行](../Page/國王唱片.md "wikilink")，於2019年3月13日推出，主打歌為〈FLOWER〉。
 
 ## 背景
 
@@ -25,10 +23,7 @@ FLOWER MV Making
 ## 外部連結
 
   -
-[Category:2019年單曲](https://zh.wikipedia.org/wiki/Category:2019年單曲 "wikilink")
-[Category:GFRIEND歌曲](https://zh.wikipedia.org/wiki/Category:GFRIEND歌曲 "wikilink")
-[Category:GFRIEND音樂專輯](https://zh.wikipedia.org/wiki/Category:GFRIEND音樂專輯 "wikilink")
-[Category:日语歌曲](https://zh.wikipedia.org/wiki/Category:日语歌曲 "wikilink")
+[Category:2019年單曲](https://zh.wikipedia.org/wiki/Category:2019年單曲 "wikilink") [Category:GFRIEND歌曲](https://zh.wikipedia.org/wiki/Category:GFRIEND歌曲 "wikilink") [Category:GFRIEND音樂專輯](https://zh.wikipedia.org/wiki/Category:GFRIEND音樂專輯 "wikilink") [Category:日语歌曲](https://zh.wikipedia.org/wiki/Category:日语歌曲 "wikilink")
 
 1.
 2.

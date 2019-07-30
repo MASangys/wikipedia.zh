@@ -2,38 +2,39 @@
 
 ### 演唱會及Showcase
 
-| 日期                     | 活動名稱                                              | 舉行地點                                             | 備註                                                                            |
-| ---------------------- | ------------------------------------------------- | ------------------------------------------------ | ----------------------------------------------------------------------------- |
-| 2016年                  |                                                   |                                                  |                                                                               |
-| 7月3日                   | Guerrilla V Live 1                                | 樂天中洞店Hall                                        | 珍虎、洪碩、Yeo One、閆桉 \[1\]                                                        |
-| 7月9日                   | Guerrilla V Live 2                                | 樂天清涼里店Hall                                       | 珍虎、Hui、洪碩、Yeo One、閆桉 \[2\]                                                    |
-| 10月10日                 | The Museum of Pentagon Showcase                   | Some Sevit                                       | 《PENTAGON》 \[3\]                                                              |
-| 12月6日                  | Tentastic Vol.1 - Love Mini Concert               | Yes24 Live Hall                                  | 《FIVE SENSES》 \[4\]                                                           |
-| 12月10日                 | First Showcase in Japan                           | 豊洲PIT                                            | <ref name="info">\[<http://kanpen.asia/archives/16612> PENTAGON SHOWCASE 開催決定 |
-| 2017年                  |                                                   |                                                  |                                                                               |
-| 3月24日                  | Gorilla Special Mini Live & Talk                  | 品川Stellar Ball                                   | 《GORILLA》日版 兩場 \[5\]                                                          |
-| 4月1日                   | First Showcase in Bangkok                         | 曼谷Chaengwattana Hall                             | \[6\]                                                                         |
-| 4月8日                   | First Showcase in Taipei                          | 台北ATT Show Box                                   | \[7\]                                                                         |
-| 6月3日                   | First Showcase in Singapore                       | 新加坡嘉龍劇院                                          | \[8\]                                                                         |
-| 6月10－12日               | Tentastic Vol.2 - Trust Mini Concert              | Shinhan Card Fan Square Live Hall                | 《CEREMONY》 \[9\]                                                              |
-| 8月3日－4日、7－8日           | 2017 Tentastic Live Concert in Japan              | Zepp Osaka Bayside、豊洲PIT                         | \[10\]                                                                        |
-| 9月6日                   | Tentastic Vol.3 - Promise Mini Concert            | Yes24 Live Hall                                  | 《DEMO_01》 \[11\]                                                             |
-| 11月18日                 | 2017 Tentastic Live Concert in Tokyo              | 新宿文化館                                            | 兩場\[12\]                                                                      |
-| 11月23日                 | Tentastic Vol.4 - Dream Mini Concert              | Blue Square IMarket Hall                         | 《DEMO_02》 \[13\]                                                             |
-| 2018年                  |                                                   |                                                  |                                                                               |
-| 1月8日                   | Violet Special Mini Live 2018 in Nagoya           | Zepp Nagoya                                      | 《Violet》 兩場\[14\]                                                             |
-| 3月2日、3月4日              | Great Live Concert in Japan 2018 "Your White Day" | Zepp Osaka Bayside、Tokyo Akasaka Blitz           | 各兩場\[15\]                                                                     |
-| 3月17日                  | Magazine Ho Mini Live                             | HanaTour V Hall                                  | 珍虎 \[16\] \[17\]                                                              |
-| 4月1日                   | Tentastic Vol.5 - Miracle Mini Concert            | Blue Square IMarket Hall                         | 《SHINE》 、完結篇                                                                  |
-| 5月28日                  | Breakers Hui Mini Live                            | The Convent Live Pub Hongdae                     | Hui                                                                           |
-| 8月28日                  | Shine Special Mini Live                           | 松下IMPホール                                         | 《SHINE》日版 兩場                                                                  |
-| 11月25日                 | PENTAGon MOVINGon                                 | 中野サンプラザ                                          | 兩場\[18\]                                                                      |
-| 2019年                  |                                                   |                                                  |                                                                               |
-| 1月12日、1月14日、2月2日、2月10日 | The 1st Japan Zepp Tour - Dear Cosmo              | Zepp Nanba Osaka、Nagoya、Fukuoka、Daiba City Tokyo | 各兩場 & 演唱會M CARD \[19\]                                                        |
-| 1月19日                  | Mini Live Magazine Ho Vol. 2 - Ready Ho           | Ilchi Art Hall                                   | 珍虎                                                                            |
-| 3月27日                  | Genie:us Album Showcase                           |                                                  | 《Genie:us》                                                                    |
-| 4月27日、28日              | 2019 PENTAGON CONCERT - PRISM                     | Blue Square IMarket Hall                         |                                                                               |
-| 8月31日 - 11月2日          | 2019 PENTAGON WORLD TOUR - PRISM                  |                                                  | 15場                                                                           |
+| 日期                       | 活動名稱                                              | 舉行地點                                             | 備註                                                                            |
+| ------------------------ | ------------------------------------------------- | ------------------------------------------------ | ----------------------------------------------------------------------------- |
+| 2016年                    |                                                   |                                                  |                                                                               |
+| 7月3日                     | Guerrilla V Live 1                                | 樂天中洞店Hall                                        | 珍虎、洪碩、Yeo One、閆桉 \[1\]                                                        |
+| 7月9日                     | Guerrilla V Live 2                                | 樂天清涼里店Hall                                       | 珍虎、Hui、洪碩、Yeo One、閆桉 \[2\]                                                    |
+| 10月10日                   | The Museum of Pentagon Showcase                   | Some Sevit                                       | 《PENTAGON》 \[3\]                                                              |
+| 12月6日                    | Tentastic Vol.1 - Love Mini Concert               | Yes24 Live Hall                                  | 《FIVE SENSES》 \[4\]                                                           |
+| 12月10日                   | First Showcase in Japan                           | 豊洲PIT                                            | <ref name="info">\[<http://kanpen.asia/archives/16612> PENTAGON SHOWCASE 開催決定 |
+| 2017年                    |                                                   |                                                  |                                                                               |
+| 3月24日                    | Gorilla Special Mini Live & Talk                  | 品川Stellar Ball                                   | 《GORILLA》日版 兩場 \[5\]                                                          |
+| 4月1日                     | First Showcase in Bangkok                         | 曼谷Chaengwattana Hall                             | \[6\]                                                                         |
+| 4月8日                     | First Showcase in Taipei                          | 台北ATT Show Box                                   | \[7\]                                                                         |
+| 6月3日                     | First Showcase in Singapore                       | 新加坡嘉龍劇院                                          | \[8\]                                                                         |
+| 6月10－12日                 | Tentastic Vol.2 - Trust Mini Concert              | Shinhan Card Fan Square Live Hall                | 《CEREMONY》 \[9\]                                                              |
+| 8月3日－4日、7－8日             | 2017 Tentastic Live Concert in Japan              | Zepp Osaka Bayside、豊洲PIT                         | \[10\]                                                                        |
+| 9月6日                     | Tentastic Vol.3 - Promise Mini Concert            | Yes24 Live Hall                                  | 《DEMO_01》 \[11\]                                                             |
+| 11月18日                   | 2017 Tentastic Live Concert in Tokyo              | 新宿文化館                                            | 兩場\[12\]                                                                      |
+| 11月23日                   | Tentastic Vol.4 - Dream Mini Concert              | Blue Square IMarket Hall                         | 《DEMO_02》 \[13\]                                                             |
+| 2018年                    |                                                   |                                                  |                                                                               |
+| 1月8日                     | Violet Special Mini Live 2018 in Nagoya           | Zepp Nagoya                                      | 《Violet》 兩場\[14\]                                                             |
+| 3月2日、3月4日                | Great Live Concert in Japan 2018 "Your White Day" | Zepp Osaka Bayside、Tokyo Akasaka Blitz           | 各兩場\[15\]                                                                     |
+| 3月17日                    | Magazine Ho Mini Live                             | HanaTour V Hall                                  | 珍虎 \[16\] \[17\]                                                              |
+| 4月1日                     | Tentastic Vol.5 - Miracle Mini Concert            | Blue Square IMarket Hall                         | 《SHINE》 、完結篇                                                                  |
+| 5月28日                    | Breakers Hui Mini Live                            | The Convent Live Pub Hongdae                     | Hui                                                                           |
+| 8月28日                    | Shine Special Mini Live                           | 松下IMPホール                                         | 《SHINE》日版 兩場                                                                  |
+| 11月25日                   | PENTAGon MOVINGon                                 | 中野サンプラザ                                          | 兩場\[18\]                                                                      |
+| 2019年                    |                                                   |                                                  |                                                                               |
+| 1月12日、1月14日、2月2日、2月10日   | The 1st Japan Zepp Tour - Dear Cosmo              | Zepp Nanba Osaka、Nagoya、Fukuoka、Daiba City Tokyo | 各兩場 & 演唱會M CARD \[19\]                                                        |
+| 1月19日                    | Mini Live Magazine Ho Vol. 2 - Ready Ho           | Ilchi Art Hall                                   | 珍虎                                                                            |
+| 3月27日                    | Genie:us Album Showcase                           |                                                  | 《Genie:us》                                                                    |
+| 4月27日、28日                | 2019 PENTAGON CONCERT - PRISM                     | Blue Square IMarket Hall                         |                                                                               |
+| 4月27日、28日、8月31日 - 12月21日 | 2019 PENTAGON WORLD TOUR - PRISM                  |                                                  | 24場、閆桉缺席                                                                      |
+| 7月13日                    | PENTAGON Mnet Premiere Showcase                   | CJ E\&M Sangam                                   | 《Sum(me:r)》、4場                                                                |
 
 ### 見面會
 
@@ -111,37 +112,21 @@
 
 ## 參考資料
 
-[Category:Cube娛樂](https://zh.wikipedia.org/wiki/Category:Cube娛樂 "wikilink")
-[Category:PENTAGON](https://zh.wikipedia.org/wiki/Category:PENTAGON "wikilink")
+[Category:Cube娛樂](https://zh.wikipedia.org/wiki/Category:Cube娛樂 "wikilink") [Category:PENTAGON](https://zh.wikipedia.org/wiki/Category:PENTAGON "wikilink")
 
-1.  [PENTAGON Guerrilla Live V Live 1](http://www.vlive.tv/video/10721)
-    2016-7-3
-2.  [PENTAGON Guerrilla Live V Live 2](http://www.vlive.tv/video/10997)
-    2016-7-9
-3.  [PENTAGON 將在10月10日正式出道](http://kpopn.niusnews.com/=K381q0u1)
-    2016-9-30
-4.  [Pentagon 12月6日辦演唱會](http://www.allthatstar.com/tw/view.php?action=5212&postID=289529)
-    2016-11-14
-5.  [PENTAGON日本首專發行演唱會門票售罄力證大勢](http://tw.fansyes.com/Content/20170216/kns9blhi1az7g.shtml)
-    2017-2-16
-6.  [Pentagon First Showcase in
-    Bangkok 2017](https://www.billboard-thailand.com/pentagon-first-showcase-in-bangkok-2017)
-     2017-1-16
-7.  [PENTAGON：台灣粉絲漂亮得不要不要的](http://kpopn.niusnews.com/=K1xo4x42)
-    2017-4-9
-8.  [PENTAGON First Showcase in Singapore
-    Reschedule](https://www.facebook.com/ThreeAngles/posts/1223645414379134)
-    2017-2-10
-9.  [TENTASTIC
-    Vol.2](http://entertain.naver.com/read?oid=112&aid=0002919253)
-    2017-5-12
-10. [2017 TENTASTIC LIVE CONCERT](http://pentagonfan.com/news/n000286)
-    2017-6-12
-11. [Demo_01 Comeback Showcase](http://www.vlive.tv/video/40944)
-    2017-8-25
+1.  [PENTAGON Guerrilla Live V Live 1](http://www.vlive.tv/video/10721) 2016-7-3
+2.  [PENTAGON Guerrilla Live V Live 2](http://www.vlive.tv/video/10997) 2016-7-9
+3.  [PENTAGON 將在10月10日正式出道](http://kpopn.niusnews.com/=K381q0u1) 2016-9-30
+4.  [Pentagon 12月6日辦演唱會](http://www.allthatstar.com/tw/view.php?action=5212&postID=289529) 2016-11-14
+5.  [PENTAGON日本首專發行演唱會門票售罄力證大勢](http://tw.fansyes.com/Content/20170216/kns9blhi1az7g.shtml) 2017-2-16
+6.  [Pentagon First Showcase in Bangkok 2017](https://www.billboard-thailand.com/pentagon-first-showcase-in-bangkok-2017)  2017-1-16
+7.  [PENTAGON：台灣粉絲漂亮得不要不要的](http://kpopn.niusnews.com/=K1xo4x42) 2017-4-9
+8.  [PENTAGON First Showcase in Singapore Reschedule](https://www.facebook.com/ThreeAngles/posts/1223645414379134) 2017-2-10
+9.  [TENTASTIC Vol.2](http://entertain.naver.com/read?oid=112&aid=0002919253) 2017-5-12
+10. [2017 TENTASTIC LIVE CONCERT](http://pentagonfan.com/news/n000286) 2017-6-12
+11. [Demo_01 Comeback Showcase](http://www.vlive.tv/video/40944) 2017-8-25
 12.
-13. [Tentastic Vol.4 Dream Mini
-    Concert](http://www.vlive.tv/video/49018) 2017-11-23
+13. [Tentastic Vol.4 Dream Mini Concert](http://www.vlive.tv/video/49018) 2017-11-23
 14.
 15.
 16.
@@ -149,44 +134,22 @@
 18.
 19.
 20.
-21. [KFM KPop
-    concert](http://www.newsen.com/news_view.php?uid=201610142104322810)
-    2016-10-14
-22. [Seoul Super Dream Concert
-    PENTAGON](https://www.youtube.com/watch?v=dSOyiAeEpE4) 2016-11-27
-23. [TV5 New Year Countdown 2017
-    PENTAGON](https://www.youtube.com/watch?v=xCNnDWzQvr8) 2016-12-31
-24. [KCON 2017 JAPAN x M COUNTDOWN PENTAGON Rising
-    Sun](https://www.youtube.com/watch?v=5ogPsS3i6jY) 2017-3-19
-25. [idol
-    CON](https://www.soompi.com/2017/05/27/mnets-idolcon-day-2-features-performances-oh-girl-block-bs-bastarz-plus-fan-signings-workshops)
-    2017-5-27
-26. [SUPER POP CON PENTAGON Critical
-    Beauty](https://www.youtube.com/watch?v=ar1n_Yw2Zek) 2017-5-13
-27. [2017 1st SORIBADA BEST K-MUSIC AWARDS PENTAGON Like
-    This](https://www.youtube.com/watch?v=yUJtUSBhJFU) 2017-9-20
-28. [KCON 2017 AUSTRALIA](https://www.facebook.com/LetsKCONAustralia)
-    2017-8-8
-29. [10th Korean Music
-    Festival](https://www.youtube.com/watch?v=fvMZeZjeb3Q) 2017-6-9
-30. [MU:CON 2017](http://www.mucon.kr/fairContents.do?FAIRMENU_IDX=4011&hl=ENG)
-    2017-9-27
-31. [Fandom School Korean Music
-    Festival 2017](http://blog.naver.com/kmf4you) 2017-9-5
-32. [Kriesha Chu Showcase Dream Of
-    Paradise](http://www.vlive.tv/video/53400) 2018-1-3
-33. [10th KPOP
-    FESTIVAL 2018](https://twitter.com/NPO_JKCA/status/940825091381911552)
-    2017-12-13
-34. [10th K-POP FESTIVAL 2018 PRE-EVENT PENTAGON SPECIAL
-    LIVE](http://www.kbsworld.ne.jp/event/jcom_snowfes2018.php)
-    2018-1-29
-35. [K-POP
-    Connectedコンサート](http://gttourkorea.com/japanese/viewtopic.php?p=324203)
-     2018-1-13
-36. [KCON 2018 JAPAN x M
-    COUNTDOWN|](https://twitter.com/kconjapan/status/970581538562719744)
-    2018-3-13
+21. [KFM KPop concert](http://www.newsen.com/news_view.php?uid=201610142104322810) 2016-10-14
+22. [Seoul Super Dream Concert PENTAGON](https://www.youtube.com/watch?v=dSOyiAeEpE4) 2016-11-27
+23. [TV5 New Year Countdown 2017 PENTAGON](https://www.youtube.com/watch?v=xCNnDWzQvr8) 2016-12-31
+24. [KCON 2017 JAPAN x M COUNTDOWN PENTAGON Rising Sun](https://www.youtube.com/watch?v=5ogPsS3i6jY) 2017-3-19
+25. [idol CON](https://www.soompi.com/2017/05/27/mnets-idolcon-day-2-features-performances-oh-girl-block-bs-bastarz-plus-fan-signings-workshops) 2017-5-27
+26. [SUPER POP CON PENTAGON Critical Beauty](https://www.youtube.com/watch?v=ar1n_Yw2Zek) 2017-5-13
+27. [2017 1st SORIBADA BEST K-MUSIC AWARDS PENTAGON Like This](https://www.youtube.com/watch?v=yUJtUSBhJFU) 2017-9-20
+28. [KCON 2017 AUSTRALIA](https://www.facebook.com/LetsKCONAustralia) 2017-8-8
+29. [10th Korean Music Festival](https://www.youtube.com/watch?v=fvMZeZjeb3Q) 2017-6-9
+30. [MU:CON 2017](http://www.mucon.kr/fairContents.do?FAIRMENU_IDX=4011&hl=ENG) 2017-9-27
+31. [Fandom School Korean Music Festival 2017](http://blog.naver.com/kmf4you) 2017-9-5
+32. [Kriesha Chu Showcase Dream Of Paradise](http://www.vlive.tv/video/53400) 2018-1-3
+33. [10th KPOP FESTIVAL 2018](https://twitter.com/NPO_JKCA/status/940825091381911552) 2017-12-13
+34. [10th K-POP FESTIVAL 2018 PRE-EVENT PENTAGON SPECIAL LIVE](http://www.kbsworld.ne.jp/event/jcom_snowfes2018.php) 2018-1-29
+35. [K-POP Connectedコンサート](http://gttourkorea.com/japanese/viewtopic.php?p=324203)  2018-1-13
+36. [KCON 2018 JAPAN x M COUNTDOWN|](https://twitter.com/kconjapan/status/970581538562719744) 2018-3-13
 37.
 38.
 39.

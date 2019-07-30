@@ -217,77 +217,50 @@
         上述应重写为
           -
             `{{lang-grc|Ἀθῆναι|translit=Athênai}}` →
-        A similar condition may exist for languages that have multiple
-        writing systems, where the second is not a transliteration of
-        the first but the actual text as written in the 'other' writing
-        system. For such templates, consider writing:
+        A similar condition may exist for languages that have multiple writing systems, where the second is not a transliteration of the first but the actual text as written in the 'other' writing system. For such templates, consider writing:
           -
-            `{{lang-xx|<first text>|italic=<yes|no>|rtl=<yes|no>}}
-            {{lang|xx|<second text>}}`
+            `{{lang-xx|<first text>|italic=<yes|no>|rtl=<yes|no>}} {{lang|xx|<second text>}}`
 2.  `text`包含斜体标记以重写 模板设定的默认斜体标记（请参阅模板文档 §用法 部分中的设置框 ）
       -
 
           -
-            `{{lang-sco|''Dumbairton''}}` – 'Dumbairton'
-            是一个适当的名称，所以不应该用斜体
+            `{{lang-sco|''Dumbairton''}}` – 'Dumbairton' 是一个适当的名称，所以不应该用斜体
             上述应重写为
               -
                 `{{lang-sco|Dumbairton|italic=no}}` →
 
-        for languages like Kurdish that use more than one script and
-        where the template default is to italicize
+        for languages like Kurdish that use more than one script and where the template default is to italicize
 
           -
-            `{{lang-ku|هه‌ڵپه‌ركێ}}` – `text` holds a script that should
-            not be italicized
+            `{{lang-ku|هه‌ڵپه‌ركێ}}` – `text` holds a script that should not be italicized
             the above should be rewritten:
               -
                 `{{lang-ku|هه‌ڵپه‌ركێ|italic=no|rtl=yes}}` →
                   -
-                    (it is prudent to set  to `yes` or `no` so that the
-                    template includes the correct html markup in the
-                    rendering)
+                    (it is prudent to set  to `yes` or `no` so that the template includes the correct html markup in the rendering)
 
-        when `text` holds Latin transliterations of right-to-left
-        languages like Arabic (no Arabic script), consider setting  so
-        that the template removes the default right-to-left html markup
-        from the rendering and automatically renders in italics:
+        when `text` holds Latin transliterations of right-to-left languages like Arabic (no Arabic script), consider setting  so that the template removes the default right-to-left html markup from the rendering and automatically renders in italics:
 
           -
             `{{lang-ar|''min sallaf es-sabt lāqā el-ḥadd qiddāmūh''}}`
             the above could be rewritten:
               -
-                `{{lang-ar|min sallaf es-sabt lāqā el-ḥadd
-                qiddāmūh|script=Latn}}` →
-            but, consider using the perhaps more semantically correct
-            instead:
+                `{{lang-ar|min sallaf es-sabt lāqā el-ḥadd qiddāmūh|script=Latn}}` →
+            but, consider using the perhaps more semantically correct  instead:
               -
-                `[[Romanization_of_Arabic|Arabic]]: ''{{transl|ar|min
-                sallaf es-sabt lāqā el-ḥadd qiddāmūh}}''` →
-                [Arabic](https://zh.wikipedia.org/wiki/Romanization_of_Arabic "wikilink"):
-                **
-3.  `text` includes italic wiki markup to 'turn off' italics for an
-    inserted English-language conjunction between two non-English words
-    or phrases:
+                `[[Romanization_of_Arabic|Arabic]]: ''{{transl|ar|min sallaf es-sabt lāqā el-ḥadd qiddāmūh}}''` → [Arabic](https://zh.wikipedia.org/wiki/Romanization_of_Arabic "wikilink"): **
+3.  `text` includes italic wiki markup to 'turn off' italics for an inserted English-language conjunction between two non-English words or phrases:
       -
-        in this example, an English-language conjunction, 'or', is
-        inserted between two Lithuanian phrases; English is not
-        Lithuanian so does not belong inside of the  template:
+        in this example, an English-language conjunction, 'or', is inserted between two Lithuanian phrases; English is not Lithuanian so does not belong inside of the  template:
           -
-            `{{lang-lt|Rusijos lietuvių seimas Petrograde'' or ''Visos
-            Rusijos lietuvių seimas}}`
+            `{{lang-lt|Rusijos lietuvių seimas Petrograde'' or ''Visos Rusijos lietuvių seimas}}`
         the above should be rewritten:
           -
-            `{{lang-lt|Rusijos lietuvių seimas Petrograde}} or
-            {{lang|lt|Visos Rusijos lietuvių seimas}}` →  or
-4.  When the template is  or ...}}, consider removing the template; this
-    is the English Wikipedia, it is not usually necessary to identify
-    English text in the English Wikipedia as being English.
+            `{{lang-lt|Rusijos lietuvių seimas Petrograde}} or {{lang|lt|Visos Rusijos lietuvių seimas}}` →  or
+4.  When the template is  or ...}}, consider removing the template; this is the English Wikipedia, it is not usually necessary to identify English text in the English Wikipedia as being English.
 5.  Sometimes the inclusion of italic markup is just wrong.
       -
-        For example, Cyrillic text is generally not to be rendered in
-        italic font; see
-        [MOS:FOREIGNITALIC](https://zh.wikipedia.org/wiki/MOS:FOREIGNITALIC "wikilink").
+        For example, Cyrillic text is generally not to be rendered in italic font; see [MOS:FOREIGNITALIC](https://zh.wikipedia.org/wiki/MOS:FOREIGNITALIC "wikilink").
           -
             `{{lang-uk|''Українська Народна Міліція''}}`
         the above should be rewritten:

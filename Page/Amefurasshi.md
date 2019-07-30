@@ -1,14 +1,10 @@
-**Amefurasshi**（[日语](../Page/日语.md "wikilink")：アメフラっシ）是隶属于[星尘传播的由五名成员组成的女子偶像组合](../Page/星塵傳播.md "wikilink")。与[桃色幸运草Z等星辰传播旗下组合共同组成](../Page/桃色幸運草Z.md "wikilink")[STARDUST
-PLANET](https://zh.wikipedia.org/wiki/星塵傳播#STARDUST_PLANET "wikilink")\[1\]。
+**Amefurasshi**（[日语](../Page/日语.md "wikilink")：アメフラっシ）是隶属于[星尘传播的由五名成员组成的女子偶像组合](../Page/星塵傳播.md "wikilink")。与[桃色幸运草Z等星辰传播旗下组合共同组成](../Page/桃色幸運草Z.md "wikilink")[STARDUST PLANET](https://zh.wikipedia.org/wiki/星塵傳播#STARDUST_PLANET "wikilink")\[1\]。
 
 ## 概要
 
-[3B
-junior在包含前子团体](../Page/3B_junior.md "wikilink")和的、于2018年11月8日举办的演唱会上宣布了将由3B
-junior的成员中将继续演艺活动的5人组成的新偶像组合アメフラっシ\[2\]\[3\]。由桃色幸运草Z的原经纪人古屋智美担任经纪人。
+[3B junior在包含前子团体](../Page/3B_junior.md "wikilink")和的、于2018年11月8日举办的演唱会上宣布了将由3B junior的成员中将继续演艺活动的5人组成的新偶像组合アメフラっシ\[2\]\[3\]。由桃色幸运草Z的原经纪人古屋智美担任经纪人。
 
-关于「アメフラっシ」一名的由来，因为アメフラっシ是由3B
-junior「细胞分裂」而来，曾拟定Ameba（日语：アメーバ，即[变形虫](https://zh.wikipedia.org/wiki/变形虫 "wikilink")）这一名称，但因已有一同名社交网站[Ameba存在而作罢](../Page/Ameba.md "wikilink")，因而选用了侯补计划中的名称「アメフラシ」（即[海鹿](../Page/海鹿科.md "wikilink")，因为属于软体动物的海鹿没有特定形状而被选为侯选名称）。由于直接采用此名称不够可爱，故在「ラ」和「シ」之间加入促音「っ」组成了现在的名称。
+关于「アメフラっシ」一名的由来，因为アメフラっシ是由3B junior「细胞分裂」而来，曾拟定Ameba（日语：アメーバ，即[变形虫](https://zh.wikipedia.org/wiki/变形虫 "wikilink")）这一名称，但因已有一同名社交网站[Ameba](../Page/Ameba.md "wikilink")存在而作罢，因而选用了侯补计划中的名称「アメフラシ」（即[海鹿](../Page/海鹿科.md "wikilink")，因为属于软体动物的海鹿没有特定形状而被选为侯选名称）。由于直接采用此名称不够可爱，故在「ラ」和「シ」之间加入促音「っ」组成了现在的名称。
 
 ## 成员
 
@@ -378,13 +374,10 @@ M2.Rain Makers</p></td>
 
   - [アメフラっシ](http://amefurashi.jp/) - 官方网站
   - [アメフラっシ](https://lineblog.me/amefurashi/) - 官方博客
-  - [アメフラっシ](https://twitter.com/amefurasshi)（**@amefurasshi**）-
-    官方Twitter
-  - [アメフラっシ](https://www.youtube.com/channel/UCZkXAt-jwYmXhnKWjXbopPQ) -
-    官方Youtube频道
+  - [アメフラっシ](https://twitter.com/amefurasshi)（**@amefurasshi**）- 官方Twitter
+  - [アメフラっシ](https://www.youtube.com/channel/UCZkXAt-jwYmXhnKWjXbopPQ) - 官方Youtube频道
 
-[Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink")
-[Category:有未审阅翻译的页面](https://zh.wikipedia.org/wiki/Category:有未审阅翻译的页面 "wikilink")
+[Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink") [Category:有未审阅翻译的页面](https://zh.wikipedia.org/wiki/Category:有未审阅翻译的页面 "wikilink")
 
 1.
 2.

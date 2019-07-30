@@ -22,10 +22,8 @@
 ### MV
 
   - 《[李拾壹&三李團-食住花生](https://zh.wikipedia.org/wiki/李拾壹&三李團-食住花生 "wikilink")》
-  - 《[K-391 & Alan Walker - Ignite (feat.Julie Bergan &
-    Seungri)](https://zh.wikipedia.org/wiki/K-391_&_Alan_Walker_-_Ignite_\(feat.Julie_Bergan_&_Seungri\) "wikilink")》
-  - 《[RU- You are my
-    everthing](https://zh.wikipedia.org/wiki/RU-_You_are_my_everthing "wikilink")》
+  - 《[K-391 & Alan Walker - Ignite (feat.Julie Bergan & Seungri)](https://zh.wikipedia.org/wiki/K-391_&_Alan_Walker_-_Ignite_\(feat.Julie_Bergan_&_Seungri\) "wikilink")》
+  - 《[RU- You are my everthing](https://zh.wikipedia.org/wiki/RU-_You_are_my_everthing "wikilink")》
 
 ## 參考來源
 
@@ -41,5 +39,4 @@
   -
   -
   -
-\[\[Category:洪姓|Category:洪姓\]\] \[\[Category:香港男演员|Category:香港男演员\]\]
-\[\[Category:香港模特兒|Category:香港模特兒\]\]
+\[\[Category:洪姓|Category:洪姓\]\] \[\[Category:香港男演员|Category:香港男演员\]\] \[\[Category:香港模特兒|Category:香港模特兒\]\]

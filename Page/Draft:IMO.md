@@ -1,13 +1,11 @@
 **IMO**，又写作“imo”，是一个全球免费的视频和通话社交平台，IMO用户既能自由的发消息和打电话，又能分享他们生活的瞬间。\[1\]
 
-IMO于2014年由来自硅谷的创业团队发表\[2\]，后被总部位于新加坡的海外视频社交网络公司Bigo收购（该公司于2019年3月被YY完全收购）\[3\]。截止2019年，imo已经连接了全球超过2.1亿用户和他们的朋友及家人。\[4\]
-\[5\]
+IMO于2014年由来自硅谷的创业团队发表\[2\]，后被总部位于新加坡的海外视频社交网络公司Bigo收购（该公司于2019年3月被YY完全收购）\[3\]。截止2019年，imo已经连接了全球超过2.1亿用户和他们的朋友及家人。\[4\] \[5\]
 
 ## 支持平台
 
   - 手机：[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")、[安卓系统](https://zh.wikipedia.org/wiki/安卓 "wikilink")\[6\]
-  - PC：[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")\[7\]、[mac
-    OS系统](https://zh.wikipedia.org/wiki/mac_OS "wikilink")\[8\]
+  - PC：[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")\[7\]、[mac OS系统](https://zh.wikipedia.org/wiki/mac_OS "wikilink")\[8\]
 
 ## 主要功能
 

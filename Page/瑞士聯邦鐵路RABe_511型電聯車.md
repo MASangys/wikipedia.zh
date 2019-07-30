@@ -1,7 +1,6 @@
-**RABe
-511型電聯車**為[瑞士施泰德公司研製的雙層電聯車](https://zh.wikipedia.org/wiki/瑞士 "wikilink")，主要由[瑞士聯邦鐵路使用](../Page/瑞士聯邦鐵路.md "wikilink")，於2011年開始營運。
+**RABe 511型電聯車**為[瑞士施泰德公司研製的雙層電聯車](https://zh.wikipedia.org/wiki/瑞士 "wikilink")，主要由[瑞士聯邦鐵路](../Page/瑞士聯邦鐵路.md "wikilink")使用，於2011年開始營運。
 
-## 海外輸出
+## 使用國
 
 <table>
 <thead>
@@ -159,9 +158,7 @@
 4.
 
 5.
-6.  [SBB bestellt weitere 24
-    RegioExpress-Doppelstockzüge.](https://archive.is/20120715002139/http://mct.sbb.ch/mct/konzern_dienstleistungen/konzern_medien.htm?cmd=E2B9CC475D6FBB37CC850CB4B45B8227)
-    Press release of SBB. Retrieved on 17. April 2010.
+6.  [SBB bestellt weitere 24 RegioExpress-Doppelstockzüge.](https://archive.is/20120715002139/http://mct.sbb.ch/mct/konzern_dienstleistungen/konzern_medien.htm?cmd=E2B9CC475D6FBB37CC850CB4B45B8227) Press release of SBB. Retrieved on 17. April 2010.
 
 7.
 

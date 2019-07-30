@@ -1,12 +1,12 @@
-**英雄联盟职业联赛2019年夏季赛**，是在2019年夏季在[中国内地举行的](../Page/中国内地.md "wikilink")[英雄联盟职业联赛](../Page/英雄联盟职业联赛.md "wikilink")
+**英雄联盟职业联赛2019年夏季赛**，是在2019年夏季在[中国内地](../Page/中国内地.md "wikilink")举行的[英雄联盟职业联赛](../Page/英雄联盟职业联赛.md "wikilink")
 
 ## 赛制\[1\]
 
   - 16支队伍同為一组。
   - 职业联赛分为两部分：常规赛和季后赛。
-  - 常规赛实行[主客场制](https://zh.wikipedia.org/wiki/主客場制 "wikilink")，为单[循环赛制BO](../Page/循环赛.md "wikilink")3；即每支战队都会迎战其他战队各1場，合计15場。
+  - 常规赛实行[主客场制](https://zh.wikipedia.org/wiki/主客場制 "wikilink")，为单[循环赛](../Page/循环赛.md "wikilink")制BO3；即每支战队都会迎战其他战队各1場，合计15場。
   - 前8名进入季后赛；无降级机制。
-  - 季后赛为[单败淘汰制冒泡赛制BO](../Page/单败淘汰制.md "wikilink")5。
+  - 季后赛为[单败淘汰制](../Page/单败淘汰制.md "wikilink")冒泡赛制BO5。
 
 ## 赛程
 
@@ -95,7 +95,6 @@
 
 ## 参考资料
 
-[Category:英雄联盟职业联赛](https://zh.wikipedia.org/wiki/Category:英雄联盟职业联赛 "wikilink")
-[Category:2019年中国体育](https://zh.wikipedia.org/wiki/Category:2019年中国体育 "wikilink")
+[Category:英雄联盟职业联赛](https://zh.wikipedia.org/wiki/Category:英雄联盟职业联赛 "wikilink") [Category:2019年中国体育](https://zh.wikipedia.org/wiki/Category:2019年中国体育 "wikilink")
 
 1.

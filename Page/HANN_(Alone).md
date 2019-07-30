@@ -1,12 +1,10 @@
-《**HANN**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[(G)I-DLE](../Page/\(G\)I-DLE.md "wikilink")
-首張數位單曲，於2018年8月14日推出。
+《**HANN**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[(G)I-DLE](../Page/\(G\)I-DLE.md "wikilink") 首張數位單曲，於2018年8月14日推出。
 
 ## 簡介
 
 ### 預告
 
-8月1日，Cube娛樂相關人士表示，[(G)I-DLE](../Page/\(G\)I-DLE.md "wikilink")
-正在加緊籌備專輯中，預計於8月中旬回歸。\[1\]
+8月1日，Cube娛樂相關人士表示，[(G)I-DLE](../Page/\(G\)I-DLE.md "wikilink") 正在加緊籌備專輯中，預計於8月中旬回歸。\[1\]
 
 8月5日，官方社群帳號發佈Whistle版本預告。\[2\]
 
@@ -268,9 +266,7 @@
   -
 {{(G)I-DLE}}
 
-[Category:(G)I-DLE](https://zh.wikipedia.org/wiki/Category:\(G\)I-DLE "wikilink")
-[Category:2018年单曲](https://zh.wikipedia.org/wiki/Category:2018年单曲 "wikilink")
-[Category:2018年歌曲](https://zh.wikipedia.org/wiki/Category:2018年歌曲 "wikilink")
+[Category:(G)I-DLE](https://zh.wikipedia.org/wiki/Category:\(G\)I-DLE "wikilink") [Category:2018年单曲](https://zh.wikipedia.org/wiki/Category:2018年单曲 "wikilink") [Category:2018年歌曲](https://zh.wikipedia.org/wiki/Category:2018年歌曲 "wikilink")
 
 1.
 2.

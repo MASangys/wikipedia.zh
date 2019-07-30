@@ -1,6 +1,4 @@
-**学术诚信** （）,是学术界的[道德准则](../Page/道德.md "wikilink") 或
-规范。该词由"学术完整性"的始祖提出\[1\]
-。其中包括如避免[作弊](../Page/作弊.md "wikilink")[剽窃](../Page/抄袭.md "wikilink")；保持一定的学术标准；在研究和[学术出版方面的诚信和严谨等多个方面](../Page/学术出版.md "wikilink")。\[2\]
+**学术诚信** （）,是学术界的[道德](../Page/道德.md "wikilink")准则 或 规范。该词由"学术完整性"的始祖提出\[1\] 。其中包括如避免[作弊](../Page/作弊.md "wikilink")[剽窃](../Page/抄袭.md "wikilink")；保持一定的学术标准；在研究和[学术出版](../Page/学术出版.md "wikilink")方面的诚信和严谨等多个方面。\[2\]
 
 ## 违反学术道德的形式
 
@@ -18,15 +16,11 @@
 
 ## 历史演变
 
-在18世纪后期，学术诚信与美国南方的密切相关，着重于责任，骄傲，权力和自尊。\[3\]
-学术诚信仅仅与个人的社会地位和外在表现有关。任何学术不诚实行为都是为了维护他们的好名声而被视为达到目的的必要手段。
+在18世纪后期，学术诚信与美国南方的密切相关，着重于责任，骄傲，权力和自尊。\[3\] 学术诚信仅仅与个人的社会地位和外在表现有关。任何学术不诚实行为都是为了维护他们的好名声而被视为达到目的的必要手段。
 
-直到19世纪末，当大学的目标发生变化时，学术诚信的概念才发生变化。这个时代的学者被要求通过原创研究来教学和创作。
-这种演变对促进整个学术机构的团结非常重要，并鼓励学生互相追究不诚实行为的责任。它还允许学生通过彼此的自我监控感受到自己的能力。
+直到19世纪末，当大学的目标发生变化时，学术诚信的概念才发生变化。这个时代的学者被要求通过原创研究来教学和创作。 这种演变对促进整个学术机构的团结非常重要，并鼓励学生互相追究不诚实行为的责任。它还允许学生通过彼此的自我监控感受到自己的能力。
 
-[信息技术的进步给学术诚信带来了挑战](../Page/信息技术.md "wikilink")，特别是在互联网上的[剽窃](https://zh.wikipedia.org/wiki/剽窃 "wikilink")
-and use of poor-quality sources found on the
-internet.\[4\]信息技术也增加了合作写作的机会，引发了作者身份正确归属的问题。\[5\]
+[信息技术](../Page/信息技术.md "wikilink")的进步给学术诚信带来了挑战，特别是在互联网上的[剽窃](https://zh.wikipedia.org/wiki/剽窃 "wikilink") and use of poor-quality sources found on the internet.\[4\]信息技术也增加了合作写作的机会，引发了作者身份正确归属的问题。\[5\]
 
 ## 对大学的影响
 
@@ -36,11 +30,9 @@ internet.\[4\]信息技术也增加了合作写作的机会，引发了作者身
 
 ## 参考文献
 
-[Category:学术](https://zh.wikipedia.org/wiki/Category:学术 "wikilink")
-[Category:教育道德争议](https://zh.wikipedia.org/wiki/Category:教育道德争议 "wikilink")
+[Category:学术](https://zh.wikipedia.org/wiki/Category:学术 "wikilink") [Category:教育道德争议](https://zh.wikipedia.org/wiki/Category:教育道德争议 "wikilink")
 
-1.  Donald McCabe (Obituary). (2016). Star-Ledger. Retrieved from
-    <http://obits.nj.com/obituaries/starledger/obituary.aspx?pid=181490279>
+1.  Donald McCabe (Obituary). (2016). Star-Ledger. Retrieved from <http://obits.nj.com/obituaries/starledger/obituary.aspx?pid=181490279>
 2.
 3.
 4.

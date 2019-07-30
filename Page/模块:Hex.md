@@ -1,9 +1,6 @@
-local hex = {} local getArgs = require("Module:Arguments").getArgs local
-RESOLUTION = 12 -- I have no idea how many places the floating point is
-good to, this is just a guess.
+local hex = {} local getArgs = require("Module:Arguments").getArgs local RESOLUTION = 12 -- I have no idea how many places the floating point is good to, this is just a guess.
 
-\-- initialize conversion arrays; these should remain in scope for
-individual conversions local d2h = mw.loadData("Module:Hex/data table")
+\-- initialize conversion arrays; these should remain in scope for individual conversions local d2h = mw.loadData("Module:Hex/data table")
 
 \-- functions for other modules to use
 
@@ -180,9 +177,7 @@ hex._hexdump = function(text)
 
 <div style="position:relative;display:inline;">
 
-'..(hex._d2hbyte(stringtable\[i\]) or
-"\`")..'<span style="position:absolute;color:red;top:-11px;left:3px;font-size:85%;">'
-.. caption .. '</span>
+'..(hex._d2hbyte(stringtable\[i\]) or "\`")..'<span style="position:absolute;color:red;top:-11px;left:3px;font-size:85%;">' .. caption .. '</span>
 
 </div>
 

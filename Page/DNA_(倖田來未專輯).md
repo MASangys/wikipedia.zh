@@ -1,4 +1,4 @@
-《**DNA**》為[日本女歌手](../Page/日本.md "wikilink")[倖田來未於](../Page/倖田來未.md "wikilink")2018年8月22日發行的第16張原創專輯。
+《**DNA**》為[日本](../Page/日本.md "wikilink")女歌手[倖田來未](../Page/倖田來未.md "wikilink")於2018年8月22日發行的第16張原創專輯。
 
 ## 簡介
 
@@ -42,7 +42,7 @@
 
 ## 銷售榜單
 
-  - [Oricon公信榜專輯榜](../Page/Oricon公信榜.md "wikilink")
+  - [Oricon公信榜](../Page/Oricon公信榜.md "wikilink")專輯榜
 
 | 發行日期       | 榜單 | 最高名次   | 銷量     | 銷量總計   | 在榜周數 |
 | ---------- | -- | ------ | ------ | ------ | ---- |
@@ -52,25 +52,22 @@
 | 半年榜（2018）  |    |        |        |        |      |
 | 年榜（2018）   | \- | \-     |        |        |      |
 
-  - [LINE
-    MUSIC專輯日榜首日第](https://zh.wikipedia.org/wiki/LINE_MUSIC "wikilink")1
+  - [LINE MUSIC專輯日榜首日第](https://zh.wikipedia.org/wiki/LINE_MUSIC "wikilink")1
   - [Recochoku專輯日榜首日第](https://zh.wikipedia.org/wiki/Recochoku "wikilink")2
-  - [日本公告牌週榜第](../Page/日本公告牌.md "wikilink")3 銷量16,176 (8/20-8/26)
+  - [日本公告牌](../Page/日本公告牌.md "wikilink")週榜第3 銷量16,176 (8/20-8/26)
 
 ## 商業搭配
 
   - 〈Guess Who Is Back〉
-      - [東京電視台動畫](../Page/東京電視台.md "wikilink")《[黑色五葉草](https://zh.wikipedia.org/wiki/黑色五葉草 "wikilink")》第4季片頭曲\[2\]
+      - [東京電視台](../Page/東京電視台.md "wikilink")動畫《[黑色五葉草](https://zh.wikipedia.org/wiki/黑色五葉草 "wikilink")》第4季片頭曲\[2\]
   - 〈Dangerous〉
-      - 手機遊戲《[黑色五葉草](https://zh.wikipedia.org/wiki/黑色五葉草 "wikilink")
-        夢幻騎士團》主題曲
+      - 手機遊戲《[黑色五葉草](https://zh.wikipedia.org/wiki/黑色五葉草 "wikilink") 夢幻騎士團》主題曲
 
 ## 參考資料
 
 ## 外部連結
 
-[分類:倖田來未音樂專輯](https://zh.wikipedia.org/wiki/分類:倖田來未音樂專輯 "wikilink")
-[分類:2018年音樂專輯](https://zh.wikipedia.org/wiki/分類:2018年音樂專輯 "wikilink")
+[分類:倖田來未音樂專輯](https://zh.wikipedia.org/wiki/分類:倖田來未音樂專輯 "wikilink") [分類:2018年音樂專輯](https://zh.wikipedia.org/wiki/分類:2018年音樂專輯 "wikilink")
 
 1.
 2.

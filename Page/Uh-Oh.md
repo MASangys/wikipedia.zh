@@ -1,12 +1,10 @@
-《**Uh-Oh**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[(G)I-DLE第二張數位單曲](../Page/\(G\)I-DLE.md "wikilink")，於2019年6月26日推出。
+《**Uh-Oh**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[(G)I-DLE](../Page/\(G\)I-DLE.md "wikilink")第二張數位單曲，於2019年6月26日推出。
 
 ## 簡介
 
 ### 預告
 
-6月13日，Cube娛樂相關人士表示，(G)I-DLE
-確定於6月26日以數位單曲《Uh-Oh》回歸，並釋出將進行MV拍攝的消息。此次依然是由隊長小娟親自創作的歌曲，以
-(G)I-DLE 獨特色彩重新詮釋 90 年代的復古風情，是一首難得一見的 Boom Bap 歌曲。\[1\]
+6月13日，Cube娛樂相關人士表示，(G)I-DLE 確定於6月26日以數位單曲《Uh-Oh》回歸，並釋出將進行MV拍攝的消息。此次依然是由隊長小娟親自創作的歌曲，以 (G)I-DLE 獨特色彩重新詮釋 90 年代的復古風情，是一首難得一見的 Boom Bap 歌曲。\[1\]
 
 6月16日，官方社群帳號發布首波回歸預告照。\[2\]6月17日，陸續公開了個人及團體概念照，沙漠與古董車構成的背景充滿復古氛圍，成員們更以深髮色或濃烈的妝容，大展過去至今從未示人的狂野魅力。\[3\]\[4\]\[5\]
 
@@ -54,7 +52,7 @@
 </tr>
 <tr class="even">
 <td><p><strong>Bugs</strong></p></td>
-<td><p>*1</p></td>
+<td><p><strong>1</strong></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Soribada</strong></p></td>
@@ -66,11 +64,11 @@
 </tr>
 <tr class="odd">
 <td><p><strong>Naver</strong></p></td>
-<td><p>*1</p></td>
+<td><p><strong>1</strong></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Flo</strong></p></td>
-<td><p>*27</p></td>
+<td><p>*26</p></td>
 </tr>
 <tr class="odd">
 <td><ul>
@@ -146,37 +144,85 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>最高名次：</p></td>
+<td><p>7月9日</p></td>
+</tr>
+<tr class="odd">
+<td><p>7月16日</p></td>
+</tr>
+<tr class="even">
+<td><p>最高名次：1</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/MBC_Plus_Media.md" title="wikilink">MBC Music</a></p></td>
 </tr>
 <tr class="even">
-<td><p>最高名次：</p></td>
+<td><p>7月3日</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Mnet媒體.md" title="wikilink">Mnet</a></p></td>
+<td><p>7月10日</p></td>
 </tr>
 <tr class="even">
-<td><p>最高名次：</p></td>
+<td><p>7月17日</p></td>
+</tr>
+<tr class="odd">
+<td><p>最高名次：3</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/Mnet媒體.md" title="wikilink">Mnet</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>7月4日</p></td>
+</tr>
+<tr class="even">
+<td><p>7月11日</p></td>
+</tr>
+<tr class="odd">
+<td><p>7月18日</p></td>
+</tr>
+<tr class="even">
+<td><p>最高名次：3</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS2" title="wikilink">KBS2</a></p></td>
 </tr>
 <tr class="even">
-<td><p>最高名次：</p></td>
+<td><p>7月5日</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
+<td><p>7月12日</p></td>
 </tr>
 <tr class="even">
-<td><p>最高名次：</p></td>
+<td><p>7月19日</p></td>
+</tr>
+<tr class="odd">
+<td><p>最高名次：13</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>7月6日</p></td>
+</tr>
+<tr class="even">
+<td><p>7月13日</p></td>
+</tr>
+<tr class="odd">
+<td><p>7月20日</p></td>
+</tr>
+<tr class="even">
+<td><p>最高名次：10</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
 </tr>
 <tr class="even">
-<td><p>最高名次：</p></td>
+<td><p>7月14日</p></td>
+</tr>
+<tr class="odd">
+<td><p>7月21日</p></td>
+</tr>
+<tr class="even">
+<td><p>最高名次：5</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -229,9 +275,7 @@
   -
 {{(G)I-DLE}}
 
-[Category:(G)I-DLE](https://zh.wikipedia.org/wiki/Category:\(G\)I-DLE "wikilink")
-[Category:2019年单曲](https://zh.wikipedia.org/wiki/Category:2019年单曲 "wikilink")
-[Category:2019年歌曲](https://zh.wikipedia.org/wiki/Category:2019年歌曲 "wikilink")
+[Category:(G)I-DLE](https://zh.wikipedia.org/wiki/Category:\(G\)I-DLE "wikilink") [Category:2019年单曲](https://zh.wikipedia.org/wiki/Category:2019年单曲 "wikilink") [Category:2019年歌曲](https://zh.wikipedia.org/wiki/Category:2019年歌曲 "wikilink")
 
 1.
 2.

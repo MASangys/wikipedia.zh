@@ -1,49 +1,42 @@
-{{藝人 | 姓名 = 陳秉立 | 類型 = 主持人 | 本名 = 陳文翔→陳秉立 | 圖片 = 阿翔.JPG | 英文名 = Aaron
-Chan | 綽號 = 阿翔 | 國籍 =  | 出生日期 =  | 出生地點 =
-[臺南市](https://zh.wikipedia.org/wiki/台南市_\(省轄市\) "wikilink") | 宗教信仰
-= 佛教 | 教育程度 = [中華藝校影劇科](../Page/高雄市私立中華藝術學校.md "wikilink") | 配偶 =
-**陳秉立**（），藝名**阿翔**，原名**陳文翔**，2007年改名為「陳秉立」，[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[台南人](https://zh.wikipedia.org/wiki/台南市 "wikilink")，[中華藝校影劇科畢業](https://zh.wikipedia.org/wiki/中華藝校 "wikilink")，與[浩子組成兩人搞笑團體](../Page/謝炘昊.md "wikilink")[浩角翔起](../Page/浩角翔起.md "wikilink")。除主持工作外，亦為[演員及](../Page/演員.md "wikilink")[歌手](../Page/歌手.md "wikilink")。2011年所屬團體浩角翔起以主持《[食尚玩家](../Page/食尚玩家.md "wikilink")》獲得[第46屆金鐘獎最佳綜藝節目主持人獎](https://zh.wikipedia.org/wiki/第46屆金鐘獎 "wikilink")。2018年以主持《[綜藝大集合](../Page/綜藝大集合.md "wikilink")》獲得[第53屆金鐘獎最佳綜藝節目主持人獎](https://zh.wikipedia.org/wiki/第53屆金鐘獎 "wikilink")。
+{{藝人 | 姓名 = 陳秉立 | 類型 = 主持人 | 本名 = 陳文翔→陳秉立 | 圖片 = 阿翔.JPG | 英文名 = Aaron Chan | 綽號 = 阿翔 | 國籍 =  | 出生日期 =  | 出生地點 = [臺南市](https://zh.wikipedia.org/wiki/台南市_\(省轄市\) "wikilink") | 宗教信仰 = 佛教 | 教育程度 = [中華藝校影劇科](../Page/高雄市私立中華藝術學校.md "wikilink") | 配偶 =  **陳秉立**（），藝名**阿翔**，原名**陳文翔**，2007年改名為「陳秉立」，[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[台南人](https://zh.wikipedia.org/wiki/台南市 "wikilink")，[中華藝校影劇科畢業](https://zh.wikipedia.org/wiki/中華藝校 "wikilink")，與[浩子組成兩人搞笑團體](../Page/謝炘昊.md "wikilink")[浩角翔起](../Page/浩角翔起.md "wikilink")。除主持工作外，亦為[演員](../Page/演員.md "wikilink")及[歌手](../Page/歌手.md "wikilink")。2011年所屬團體浩角翔起以主持《[食尚玩家](../Page/食尚玩家.md "wikilink")》獲得[第46屆金鐘獎最佳綜藝節目主持人獎](https://zh.wikipedia.org/wiki/第46屆金鐘獎 "wikilink")。2018年以主持《[綜藝大集合](../Page/綜藝大集合.md "wikilink")》獲得[第53屆金鐘獎最佳綜藝節目主持人獎](https://zh.wikipedia.org/wiki/第53屆金鐘獎 "wikilink")。
 
 ## 演藝生涯
 
 ### 出道及組團初期
 
-阿翔從中華藝校影劇科畢業後，考進藝工隊服役，2003年從藝工隊退伍，到[八大電視台當燈光師](https://zh.wikipedia.org/wiki/八大電視台 "wikilink")\[1\]。後來被經紀人兼塑身老師張淳淳相中，但當時阿翔認為演藝圈收入不穩定，有所猶豫。於是張淳淳找阿翔到她公司工作，為她賣健身器材，同時也讓阿翔兼職接通告。這期間，阿翔參加[緯來綜合台的](../Page/緯來綜合台.md "wikilink")《電視笑話冠軍》，一路過關斬將，順利成為該節目盟主之一，並曾經擊敗未來的搭檔浩子。\[2\]\[3\]
+阿翔從中華藝校影劇科畢業後，考進藝工隊服役，2003年從藝工隊退伍，到[八大電視台當燈光師](https://zh.wikipedia.org/wiki/八大電視台 "wikilink")\[1\]。後來被經紀人兼塑身老師張淳淳相中，但當時阿翔認為演藝圈收入不穩定，有所猶豫。於是張淳淳找阿翔到她公司工作，為她賣健身器材，同時也讓阿翔兼職接通告。這期間，阿翔參加[緯來綜合台](../Page/緯來綜合台.md "wikilink")的《電視笑話冠軍》，一路過關斬將，順利成為該節目盟主之一，並曾經擊敗未來的搭檔浩子。\[2\]\[3\]
 
-2004年，由於[淡水](../Page/淡水區.md "wikilink")[漁人碼頭餐廳的表演](https://zh.wikipedia.org/wiki/漁人碼頭 "wikilink")，與節目中認識的[浩子合作搭檔](https://zh.wikipedia.org/wiki/浩子 "wikilink")，因此組成[浩角翔起](../Page/浩角翔起.md "wikilink")。[浩角翔起組成頭兩年](../Page/浩角翔起.md "wikilink")，名氣不足的兩人只有零星通告可接。不過阿翔一直有正職工作，就算通告少經濟上影響不大。當時[浩子收入不穩定](../Page/謝炘昊.md "wikilink")，阿翔也幫忙介紹他組裝跑步機的工作。\[4\]\[5\]\[6\]
+2004年，由於[淡水](../Page/淡水區.md "wikilink")[漁人碼頭餐廳的表演](https://zh.wikipedia.org/wiki/漁人碼頭 "wikilink")，與節目中認識的[浩子合作搭檔](https://zh.wikipedia.org/wiki/浩子 "wikilink")，因此組成[浩角翔起](../Page/浩角翔起.md "wikilink")。[浩角翔起](../Page/浩角翔起.md "wikilink")組成頭兩年，名氣不足的兩人只有零星通告可接。不過阿翔一直有正職工作，就算通告少經濟上影響不大。當時[浩子收入不穩定](../Page/謝炘昊.md "wikilink")，阿翔也幫忙介紹他組裝跑步機的工作。\[4\]\[5\]\[6\]
 
-2006年，[浩角翔起被百是傳播公司的製作人兼經紀人黃義雄簽下](../Page/浩角翔起.md "wikilink")，逐漸得到主持及演出的機會，之後，兩人藉由《[綜藝大集合](../Page/綜藝大集合.md "wikilink")》、《大家來說笑》、《[食尚玩家](../Page/食尚玩家.md "wikilink")》一步步累積知名度。
+2006年，[浩角翔起](../Page/浩角翔起.md "wikilink")被百是傳播公司的製作人兼經紀人黃義雄簽下，逐漸得到主持及演出的機會，之後，兩人藉由《[綜藝大集合](../Page/綜藝大集合.md "wikilink")》、《大家來說笑》、《[食尚玩家](../Page/食尚玩家.md "wikilink")》一步步累積知名度。
 
 ### 2009\~2015
 
 2009年，《[食尚玩家](../Page/食尚玩家.md "wikilink")》節目人氣小有斬獲，於是打鐵趁熱，推出主持人合輯《食尚玩家之食神歸位大便當》，[浩子參與歌曲的製作](../Page/謝炘昊.md "wikilink")，阿翔也替主打歌編舞。
 
-2010年，[浩角翔起參與](../Page/浩角翔起.md "wikilink")[民視](https://zh.wikipedia.org/wiki/民視 "wikilink")《[新兵日記](https://zh.wikipedia.org/wiki/新兵日記 "wikilink")》演出，阿翔於劇中飾演菜鳥新兵並且為戲剃髮。由於此劇的高收視率，使[浩角翔起除原先綜藝上的觀眾外](../Page/浩角翔起.md "wikilink")，也得到廣泛的大眾知名度，廣告代言與通告大有斬獲。\[7\][2010年12月](../Page/2010年12月.md "wikilink")，阿翔獲[高雄市](../Page/高雄市.md "wikilink")[教育局頒發](https://zh.wikipedia.org/wiki/教育局 "wikilink")「高雄市99年度技職教育名人」。\[8\]
+2010年，[浩角翔起](../Page/浩角翔起.md "wikilink")參與[民視](https://zh.wikipedia.org/wiki/民視 "wikilink")《[新兵日記](https://zh.wikipedia.org/wiki/新兵日記 "wikilink")》演出，阿翔於劇中飾演菜鳥新兵並且為戲剃髮。由於此劇的高收視率，使[浩角翔起](../Page/浩角翔起.md "wikilink")除原先綜藝上的觀眾外，也得到廣泛的大眾知名度，廣告代言與通告大有斬獲。\[7\][2010年12月](../Page/2010年12月.md "wikilink")，阿翔獲[高雄市](../Page/高雄市.md "wikilink")[教育局頒發](https://zh.wikipedia.org/wiki/教育局 "wikilink")「高雄市99年度技職教育名人」。\[8\]
 
-2011年，[浩角翔起以主持](../Page/浩角翔起.md "wikilink")《[食尚玩家](../Page/食尚玩家.md "wikilink")》獲得[第46屆金鐘獎綜藝節目主持人獎](https://zh.wikipedia.org/wiki/第46屆金鐘獎 "wikilink")。同年11月7日，阿翔與交往近四年、暱稱為小公主的女友龔淑卿結婚，團員[浩子為婚禮主持人](../Page/謝炘昊.md "wikilink")。\[9\]同年12月，[食尙玩家推出由](https://zh.wikipedia.org/wiki/食尙玩家 "wikilink")[浩角翔起](../Page/浩角翔起.md "wikilink")、[莎莎兩組主持人合著的美食書](../Page/鍾欣愉.md "wikilink")《ㄨ丫係食尚玩家》。\[10\]
+2011年，[浩角翔起](../Page/浩角翔起.md "wikilink")以主持《[食尚玩家](../Page/食尚玩家.md "wikilink")》獲得[第46屆金鐘獎綜藝節目主持人獎](https://zh.wikipedia.org/wiki/第46屆金鐘獎 "wikilink")。同年11月7日，阿翔與交往近四年、暱稱為小公主的女友龔淑卿結婚，團員[浩子為婚禮主持人](../Page/謝炘昊.md "wikilink")。\[9\]同年12月，[食尙玩家推出由](https://zh.wikipedia.org/wiki/食尙玩家 "wikilink")[浩角翔起](../Page/浩角翔起.md "wikilink")、[莎莎兩組主持人合著的美食書](../Page/鍾欣愉.md "wikilink")《ㄨ丫係食尚玩家》。\[10\]
 
-2012年4月，[浩角翔起發行EP專輯](../Page/浩角翔起.md "wikilink")《笑一個》。2012年11月2日，長女小泡芙誕生。2013年8月底，[浩角翔起客串](../Page/浩角翔起.md "wikilink")2014年賀歲片[鐵獅玉玲瓏](../Page/鐵獅玉玲瓏.md "wikilink")，阿翔飾演少年時期的[許效舜一角](../Page/許效舜.md "wikilink")。
+2012年4月，[浩角翔起](../Page/浩角翔起.md "wikilink")發行EP專輯《笑一個》。2012年11月2日，長女小泡芙誕生。2013年8月底，[浩角翔起](../Page/浩角翔起.md "wikilink")客串2014年賀歲片[鐵獅玉玲瓏](../Page/鐵獅玉玲瓏.md "wikilink")，阿翔飾演少年時期的[許效舜](../Page/許效舜.md "wikilink")一角。
 
 2014年2月中旬，[浩子為了在女兒上幼稚園前多陪孩子](../Page/謝炘昊.md "wikilink")，選擇退出《[綜藝大集合](../Page/綜藝大集合.md "wikilink")》，而阿翔則繼續主持。\[11\]同年4月，發行《發發發狂想曲》EP。
 
-2015年1月23日，長子布朗尼誕生。同年2月，在賀歲片[大囍臨門中飾演賣菜翔](https://zh.wikipedia.org/wiki/大囍臨門 "wikilink")，在國片沙西米中飾演配角。同年5月，為司法院拍攝微電影《裁量之間》，飾演觀審員。5月底，[浩角翔起首挑大樑](../Page/浩角翔起.md "wikilink")，主演國片[傻瓜向錢衝](../Page/傻瓜向錢衝.md "wikilink")，阿翔飾演主角之一的阿寶。同年9月25日，發行第三張EP專輯《萬萬人迷》。12月起，在馬來西亞[Astro
-AEC的搞笑選秀節目](../Page/Astro_AEC.md "wikilink")《搞笑之王》第二季中擔任評審，負責比賽講評並指導參賽者。\[12\]\[13\]
+2015年1月23日，長子布朗尼誕生。同年2月，在賀歲片[大囍臨門中飾演賣菜翔](https://zh.wikipedia.org/wiki/大囍臨門 "wikilink")，在國片沙西米中飾演配角。同年5月，為司法院拍攝微電影《裁量之間》，飾演觀審員。5月底，[浩角翔起](../Page/浩角翔起.md "wikilink")首挑大樑，主演國片[傻瓜向錢衝](../Page/傻瓜向錢衝.md "wikilink")，阿翔飾演主角之一的阿寶。同年9月25日，發行第三張EP專輯《萬萬人迷》。12月起，在馬來西亞[Astro AEC的搞笑選秀節目](../Page/Astro_AEC.md "wikilink")《搞笑之王》第二季中擔任評審，負責比賽講評並指導參賽者。\[12\]\[13\]
 
 ### 2016\~至今
 
-2016年12月29日，浩子在浩角翔起官方臉書上，宣布暫別演藝圈一年。\[14\]\[15\]2017年年初，浩角翔起完成先前接下的尾牙通告後，浩子暫別演藝圈回歸家庭，阿翔則暫時單飛。\[16\]2017年6月20日，於節目改版之際，與[張立東和](../Page/張立東.md "wikilink")[楊昇達一同加入](../Page/楊昇達.md "wikilink")[《國光幫幫忙之大哥是對的》主持群行列](https://zh.wikipedia.org/wiki/國光幫幫忙 "wikilink")。\[17\]2017年8月，預計與[康康及](https://zh.wikipedia.org/wiki/康晉榮 "wikilink")[徐懷鈺一同主持](../Page/徐懷鈺.md "wikilink")[衛視中文台的](../Page/衛視中文台.md "wikilink")[歌神請上車第二季](../Page/歌神請上車.md "wikilink")。
+2016年12月29日，浩子在浩角翔起官方臉書上，宣布暫別演藝圈一年。\[14\]\[15\]2017年年初，浩角翔起完成先前接下的尾牙通告後，浩子暫別演藝圈回歸家庭，阿翔則暫時單飛。\[16\]2017年6月20日，於節目改版之際，與[張立東](../Page/張立東.md "wikilink")和[楊昇達](../Page/楊昇達.md "wikilink")一同加入[《國光幫幫忙之大哥是對的》主持群行列](https://zh.wikipedia.org/wiki/國光幫幫忙 "wikilink")。\[17\]2017年8月，預計與[康康及](https://zh.wikipedia.org/wiki/康晉榮 "wikilink")[徐懷鈺](../Page/徐懷鈺.md "wikilink")一同主持[衛視中文台](../Page/衛視中文台.md "wikilink")的[歌神請上車](../Page/歌神請上車.md "wikilink")第二季。
 
 ## 個人生活
 
 阿翔從小愛打棒球，就讀[建興國中](https://zh.wikipedia.org/wiki/台南市立建興國民中學 "wikilink")\[18\]時與[郭泓志](../Page/郭泓志.md "wikilink")、[林恩宇同屆](https://zh.wikipedia.org/wiki/林恩宇 "wikilink")，雖然阿翔非棒球隊出身，但受校風影響也愛打球。阿翔從小也是死忠[兄弟象球迷](https://zh.wikipedia.org/wiki/兄弟象 "wikilink")，國中時為[兄弟象台南區官方啦啦隊後援會一員](https://zh.wikipedia.org/wiki/兄弟象 "wikilink")，在場邊帶動球迷喊加油口號。
 出道後阿翔加入J-Star棒球隊，自2007年起，連年以J-Star[二壘手身份](https://zh.wikipedia.org/wiki/二壘手 "wikilink")，出席明星公益棒球賽。2011年台南明星公益棒球賽中，獲選為單場MVP。
-2013年，[浩角翔起受邀為](../Page/浩角翔起.md "wikilink")[中華職棒明星賽主持人](../Page/中華職棒明星賽.md "wikilink")。\[19\]2013年9月14日，[浩角翔起在](../Page/浩角翔起.md "wikilink")[新莊棒球場擔任](https://zh.wikipedia.org/wiki/新莊棒球場 "wikilink")[兄弟象開球嘉賓](https://zh.wikipedia.org/wiki/兄弟象 "wikilink")。\[20\]2014年，[浩角翔起再次主持](../Page/浩角翔起.md "wikilink")[中華職棒明星賽](../Page/中華職棒明星賽.md "wikilink")。\[21\]2015年11月28日，參與元老OB明星公益棒球賽比賽，作為先發投手解決一人次後即退下擔任二壘手，阿丰加入不加入阿翔棒球隊。
+2013年，[浩角翔起](../Page/浩角翔起.md "wikilink")受邀為[中華職棒明星賽](../Page/中華職棒明星賽.md "wikilink")主持人。\[19\]2013年9月14日，[浩角翔起](../Page/浩角翔起.md "wikilink")在[新莊棒球場擔任](https://zh.wikipedia.org/wiki/新莊棒球場 "wikilink")[兄弟象開球嘉賓](https://zh.wikipedia.org/wiki/兄弟象 "wikilink")。\[20\]2014年，[浩角翔起](../Page/浩角翔起.md "wikilink")再次主持[中華職棒明星賽](../Page/中華職棒明星賽.md "wikilink")。\[21\]2015年11月28日，參與元老OB明星公益棒球賽比賽，作為先發投手解決一人次後即退下擔任二壘手，阿丰加入不加入阿翔棒球隊。
 
 ## 爭議事件
 
-2019年6月8日，已婚的阿翔被[鏡週刊報導與藝人](../Page/鏡週刊.md "wikilink")[謝忻在台北街頭擁吻](../Page/謝忻.md "wikilink")，被該周刊記者拍下照片為證\[22\]。6月17日，阿翔的妻子Grace首次公開表示「換我為你撐傘」，原諒阿翔\<ref
-name=Grace婚變後首度發文"撕裂傷口般的痛" 忍痛原諒阿翔:換我為你撐傘│記者
-李宜蕙│【LIVE大現場】20190617│三立新聞台'\></ref>。
+2019年6月8日，已婚的阿翔被[鏡週刊](../Page/鏡週刊.md "wikilink")報導與藝人[謝忻](../Page/謝忻.md "wikilink")在台北街頭擁吻，被該周刊記者拍下照片為證\[22\]。6月17日，阿翔的妻子Grace首次公開表示「換我為你撐傘」，原諒阿翔\<ref name=Grace婚變後首度發文"撕裂傷口般的痛" 忍痛原諒阿翔:換我為你撐傘│記者 李宜蕙│【LIVE大現場】20190617│三立新聞台'\></ref>。
 
 ## 影視作品
 
@@ -122,7 +115,7 @@ Call Me Handsome (Season 3)</p></td>
 | --------------------------------------- | ----------------------------------------------------- | ------------------------------------ |
 | 首播                                      | 劇名                                                    | 角色                                   |
 | 2010年                                   | [愛你一萬年](../Page/愛你一萬年_\(電影\).md "wikilink")           | 吳奇峰友人                                |
-| 2014年                                   | [鐵獅玉玲瓏](../Page/鐵獅玉玲瓏.md "wikilink")                  | [許效舜少年時期](../Page/許效舜.md "wikilink") |
+| 2014年                                   | [鐵獅玉玲瓏](../Page/鐵獅玉玲瓏.md "wikilink")                  | [許效舜](../Page/許效舜.md "wikilink")少年時期 |
 | 2015年                                   | [大囍臨門](https://zh.wikipedia.org/wiki/大囍臨門 "wikilink") | 賣菜翔                                  |
 | [沙西米](../Page/沙西米_\(電影\).md "wikilink") | A片店熟客                                                 |                                      |
 | 2016年                                   | [傻瓜向錢衝](../Page/傻瓜向錢衝.md "wikilink")                  | 阿寶                                   |
@@ -139,13 +132,7 @@ Call Me Handsome (Season 3)</p></td>
 
 ### 電視金鐘獎
 
-|- |2011年 |《[食尚玩家](../Page/食尚玩家.md "wikilink")》
-|[第46屆金鐘獎綜藝節目主持人獎](https://zh.wikipedia.org/wiki/第46屆金鐘獎 "wikilink")
-| |- |2017年 |《[綜藝大集合](../Page/綜藝大集合.md "wikilink")》
-|[第52屆金鐘獎綜藝節目主持人獎](https://zh.wikipedia.org/wiki/第52屆金鐘獎 "wikilink")
-| |- |2018年 |《[綜藝大集合](../Page/綜藝大集合.md "wikilink")》
-|[第53屆金鐘獎綜藝節目主持人獎](https://zh.wikipedia.org/wiki/第53屆金鐘獎 "wikilink")
-| |- |}
+|- |2011年 |《[食尚玩家](../Page/食尚玩家.md "wikilink")》 |[第46屆金鐘獎綜藝節目主持人獎](https://zh.wikipedia.org/wiki/第46屆金鐘獎 "wikilink") | |- |2017年 |《[綜藝大集合](../Page/綜藝大集合.md "wikilink")》 |[第52屆金鐘獎綜藝節目主持人獎](https://zh.wikipedia.org/wiki/第52屆金鐘獎 "wikilink") | |- |2018年 |《[綜藝大集合](../Page/綜藝大集合.md "wikilink")》 |[第53屆金鐘獎綜藝節目主持人獎](https://zh.wikipedia.org/wiki/第53屆金鐘獎 "wikilink") | |- |}
 
 ## 參考資料
 
@@ -160,18 +147,9 @@ Call Me Handsome (Season 3)</p></td>
   -
   -
   -
-[Category:台灣綜藝節目主持人](https://zh.wikipedia.org/wiki/Category:台灣綜藝節目主持人 "wikilink")
-[Category:臺灣電視男演員](https://zh.wikipedia.org/wiki/Category:臺灣電視男演員 "wikilink")
-[Category:臺灣電影男演員](https://zh.wikipedia.org/wiki/Category:臺灣電影男演員 "wikilink")
-[Category:陳姓](https://zh.wikipedia.org/wiki/Category:陳姓 "wikilink")
-[Category:金鐘獎綜藝節目主持人獲得者](https://zh.wikipedia.org/wiki/Category:金鐘獎綜藝節目主持人獲得者 "wikilink")
-[Category:台南市人](https://zh.wikipedia.org/wiki/Category:台南市人 "wikilink")
-[Category:中華藝術學校校友](https://zh.wikipedia.org/wiki/Category:中華藝術學校校友 "wikilink")
-[Category:臺南市立建興國民中學校友](https://zh.wikipedia.org/wiki/Category:臺南市立建興國民中學校友 "wikilink")
-[Category:台湾佛教徒](https://zh.wikipedia.org/wiki/Category:台湾佛教徒 "wikilink")
+[Category:台灣綜藝節目主持人](https://zh.wikipedia.org/wiki/Category:台灣綜藝節目主持人 "wikilink") [Category:臺灣電視男演員](https://zh.wikipedia.org/wiki/Category:臺灣電視男演員 "wikilink") [Category:臺灣電影男演員](https://zh.wikipedia.org/wiki/Category:臺灣電影男演員 "wikilink") [Category:陳姓](https://zh.wikipedia.org/wiki/Category:陳姓 "wikilink") [Category:金鐘獎綜藝節目主持人獲得者](https://zh.wikipedia.org/wiki/Category:金鐘獎綜藝節目主持人獲得者 "wikilink") [Category:台南市人](https://zh.wikipedia.org/wiki/Category:台南市人 "wikilink") [Category:中華藝術學校校友](https://zh.wikipedia.org/wiki/Category:中華藝術學校校友 "wikilink") [Category:臺南市立建興國民中學校友](https://zh.wikipedia.org/wiki/Category:臺南市立建興國民中學校友 "wikilink") [Category:台湾佛教徒](https://zh.wikipedia.org/wiki/Category:台湾佛教徒 "wikilink")
 
-1.  [2011-06-04
-    天才衝衝衝](https://www.youtube.com/watch?v=lqMNLZEC_70&t=15m30s)
+1.  [2011-06-04 天才衝衝衝](https://www.youtube.com/watch?v=lqMNLZEC_70&t=15m30s)
 2.
 3.
 4.
@@ -188,7 +166,7 @@ Call Me Handsome (Season 3)</p></td>
 15.
 16.
 17.
-18. [台南市立建興國民中學設有普通班及棒球隊](https://zh.wikipedia.org/wiki/台南市立建興國民中學 "wikilink")，而棒球隊校友有[王建民](https://zh.wikipedia.org/wiki/王建民 "wikilink")、[郭泓志](../Page/郭泓志.md "wikilink")、[胡金龍](../Page/胡金龍.md "wikilink")、[羅錦龍](../Page/羅錦龍.md "wikilink")、[林恩宇](https://zh.wikipedia.org/wiki/林恩宇 "wikilink")、[郭嚴文等知名球員](../Page/郭嚴文.md "wikilink")，為台南傳統棒球勁旅。
+18. [台南市立建興國民中學設有普通班及棒球隊](https://zh.wikipedia.org/wiki/台南市立建興國民中學 "wikilink")，而棒球隊校友有[王建民](https://zh.wikipedia.org/wiki/王建民 "wikilink")、[郭泓志](../Page/郭泓志.md "wikilink")、[胡金龍](../Page/胡金龍.md "wikilink")、[羅錦龍](../Page/羅錦龍.md "wikilink")、[林恩宇](https://zh.wikipedia.org/wiki/林恩宇 "wikilink")、[郭嚴文](../Page/郭嚴文.md "wikilink")等知名球員，為台南傳統棒球勁旅。
 19.
 20.
 21.

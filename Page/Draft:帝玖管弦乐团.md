@@ -6,13 +6,9 @@
 
 ## 组织历史
 
-帝玖管弦乐团成立至2018年，已发布3个ACG管弦乐作品：2016哔哩哔哩拜年祭《Magnificent
-Bilibili》（管弦乐合奏版）、2017年B站首个ACG管弦乐企划【“Imperial
-OW”主题联奏】以及2018年的交响组曲「君の名は。」，和部分系列企划：儿童节，陪你重温童年的旋律、小魔女学园OST『シャリオのテーマ』
+帝玖管弦乐团成立至2018年，已发布3个ACG管弦乐作品：2016哔哩哔哩拜年祭《Magnificent Bilibili》（管弦乐合奏版）、2017年B站首个ACG管弦乐企划【“Imperial OW”主题联奏】以及2018年的交响组曲「君の名は。」，和部分系列企划：儿童节，陪你重温童年的旋律、小魔女学园OST『シャリオのテーマ』
 
-帝玖管弦乐团在2017年夏受邀参加在上海梅赛德斯－奔驰文化中心举办的[Bilibili Macro Link
-2017和在上海世博展览馆举办的](https://zh.wikipedia.org/wiki/Bilibili_Macro_Link/Bilibili_Macro_Link_2017 "wikilink")[Bilibili
-World](https://zh.wikipedia.org/wiki/Bilibili_Macro_Link/Bilibili_World "wikilink")。
+帝玖管弦乐团在2017年夏受邀参加在上海梅赛德斯－奔驰文化中心举办的[Bilibili Macro Link 2017和在上海世博展览馆举办的](https://zh.wikipedia.org/wiki/Bilibili_Macro_Link/Bilibili_Macro_Link_2017 "wikilink")[Bilibili World](https://zh.wikipedia.org/wiki/Bilibili_Macro_Link/Bilibili_World "wikilink")。
 
 2018年5月20日，帝玖管弦乐团在北京中山音乐厅举行了帝玖「520！ACG」动漫交响音乐会。
 
@@ -87,8 +83,7 @@ World](https://zh.wikipedia.org/wiki/Bilibili_Macro_Link/Bilibili_World "wikilin
 <!-- end list -->
 
   - 弦上女装
-      - 最早见于 2016 年拜年祭，在 2018 年 5 月 20
-        日的专场演出中，在返场曲目之前，全体观众大喊“弦上！女装！弦上！女装！”
+      - 最早见于 2016 年拜年祭，在 2018 年 5 月 20 日的专场演出中，在返场曲目之前，全体观众大喊“弦上！女装！弦上！女装！”
           - 520返场安可中，不知哪位大佬带节奏高呼“弦上女装”，带起所有音乐会观众疯狂高呼“弦上女装”
           - 截止到2018年5月23日，弦上只戴过一次猫耳(而且是在彩排的时候）
           - 不过在帝玖管弦乐团在2019年2月8日0点28分发送的微博中，弦上在网友“煙花世界、”所发“弦上女装”的评论下回复“好好的别吵吵”，是弦上目前给予的最肯定的答复。
@@ -96,15 +91,13 @@ World](https://zh.wikipedia.org/wiki/Bilibili_Macro_Link/Bilibili_World "wikilin
 <!-- end list -->
 
   - 敲团
-      - 最早见于 2017 年初，因当时微博有一条“最快教你说北京话”，便利店 711
-        在文中的发音为“敲”，后被粉丝和乐团成员发现于是疯狂艾特团长柒佰壹拾壹，从此得名“敲团”
+      - 最早见于 2017 年初，因当时微博有一条“最快教你说北京话”，便利店 711 在文中的发音为“敲”，后被粉丝和乐团成员发现于是疯狂艾特团长柒佰壹拾壹，从此得名“敲团”
           - 然而 711 的名字来源并非便利店，而是她的 QQ 号后三位即为 711 (说再多也没用的就敲了）
 
 <!-- end list -->
 
   - 帝玖餐饮集团
-      - 出自 2018
-        拜年祭中果叔的表情包“丰收时刻”，详见[微博](https://weibo.com/5520076127/FELifCuIZ)
+      - 出自 2018 拜年祭中果叔的表情包“丰收时刻”，详见[微博](https://weibo.com/5520076127/FELifCuIZ)
 
 ## 乐团相关频道
 

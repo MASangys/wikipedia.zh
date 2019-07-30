@@ -4,15 +4,10 @@
 
 ## 主要剧情
 
-來自[M78星雲的二男一女的戰士為了追擊來到地球的巨大宇宙生物](../Page/M78.md "wikilink")一起來到了地球，他們跟美軍飛行部隊的3位飛官一體化，共同打擊降落在世界各地進行破壞的ー維護世界的和平。
+來自[M78](../Page/M78.md "wikilink")星雲的二男一女的戰士為了追擊來到地球的巨大宇宙生物一起來到了地球，他們跟美軍飛行部隊的3位飛官一體化，共同打擊降落在世界各地進行破壞的ー維護世界的和平。
 
 他們是系列作中首次以3人小隊登場的超人力霸王，變身的方式跟超人力霸王傑克一樣不使用特殊道具，當他們遇到危機的時候便會依照自身的意識進行變身。跟其他的超人力霸王一樣，円谷也有幫USA三人組製作了專屬的皮套讓他們可以在舞台登場。
 
 目前也能夠在寫實版的、、這3部作品裏看到USA三人組以光之國宇宙警備隊員的身份與其他的超人力霸王兄弟們一起共演。
 
-[Category:超人力霸王系列電影作品](https://zh.wikipedia.org/wiki/Category:超人力霸王系列電影作品 "wikilink")
-[Category:PRODUCTION_REED](https://zh.wikipedia.org/wiki/Category:PRODUCTION_REED "wikilink")
-[Category:汉纳－巴伯拉动画](https://zh.wikipedia.org/wiki/Category:汉纳－巴伯拉动画 "wikilink")
-[Category:日本劇場動畫](https://zh.wikipedia.org/wiki/Category:日本劇場動畫 "wikilink")
-[Category:外星生命題材動畫電影](https://zh.wikipedia.org/wiki/Category:外星生命題材動畫電影 "wikilink")
-[Category:美國背景電影](https://zh.wikipedia.org/wiki/Category:美國背景電影 "wikilink")
+[Category:超人力霸王系列電影作品](https://zh.wikipedia.org/wiki/Category:超人力霸王系列電影作品 "wikilink") [Category:PRODUCTION_REED](https://zh.wikipedia.org/wiki/Category:PRODUCTION_REED "wikilink") [Category:汉纳－巴伯拉动画](https://zh.wikipedia.org/wiki/Category:汉纳－巴伯拉动画 "wikilink") [Category:日本劇場動畫](https://zh.wikipedia.org/wiki/Category:日本劇場動畫 "wikilink") [Category:外星生命題材動畫電影](https://zh.wikipedia.org/wiki/Category:外星生命題材動畫電影 "wikilink") [Category:美國背景電影](https://zh.wikipedia.org/wiki/Category:美國背景電影 "wikilink")

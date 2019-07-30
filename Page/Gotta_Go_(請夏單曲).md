@@ -1,15 +1,12 @@
-《**Gotta
-Go(已經12點)**》（[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink")：）是韓國歌手[請夏的第二張單曲](https://zh.wikipedia.org/wiki/請夏 "wikilink")，詞曲皆由[黑眼必勝與Jeon](../Page/黑眼必勝.md "wikilink")
-Goon共同製作，單曲於2019年1月2日發佈在各大數位音樂網站公開線上音源。
+《**Gotta Go(已經12點)**》（[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink")：）是韓國歌手[請夏的第二張單曲](https://zh.wikipedia.org/wiki/請夏 "wikilink")，詞曲皆由[黑眼必勝](../Page/黑眼必勝.md "wikilink")與Jeon Goon共同製作，單曲於2019年1月2日發佈在各大數位音樂網站公開線上音源。
 
 ## 背景
 
-2018年12月，[請夏所屬的經紀公司](https://zh.wikipedia.org/wiki/請夏 "wikilink")[M\&H娛樂宣布請夏將於明年](../Page/M&H娛樂.md "wikilink")1月回歸\[1\]。
+2018年12月，[請夏所屬的經紀公司](https://zh.wikipedia.org/wiki/請夏 "wikilink")[M\&H娛樂](../Page/M&H娛樂.md "wikilink")宣布請夏將於明年1月回歸\[1\]。
 
 ## 評價
 
-《Gotta
-Go(已經12點)》在推出之後取得不錯的成績，獲得韓國[Gaon數位榜當周第](../Page/Gaon音乐榜.md "wikilink")5的名次\[2\]。歌曲也是請夏Solo出道以來第一首獲得音樂節目冠軍的歌曲\[3\]，
+《Gotta Go(已經12點)》在推出之後取得不錯的成績，獲得韓國[Gaon數位榜當周第](../Page/Gaon音乐榜.md "wikilink")5的名次\[2\]。歌曲也是請夏Solo出道以來第一首獲得音樂節目冠軍的歌曲\[3\]，
 
 ## 曲目
 
@@ -140,8 +137,7 @@ Go(已經12點)》在推出之後取得不錯的成績，獲得韓國[Gaon數位
 
 ## 外部連結
 
-[Category:2019年單曲](https://zh.wikipedia.org/wiki/Category:2019年單曲 "wikilink")
-[Category:2019年歌曲](https://zh.wikipedia.org/wiki/Category:2019年歌曲 "wikilink")
+[Category:2019年單曲](https://zh.wikipedia.org/wiki/Category:2019年單曲 "wikilink") [Category:2019年歌曲](https://zh.wikipedia.org/wiki/Category:2019年歌曲 "wikilink")
 
 1.
 2.

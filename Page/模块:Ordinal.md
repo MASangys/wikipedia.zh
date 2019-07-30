@@ -1,18 +1,12 @@
-\--[This template will add the appropriate ordinal suffix to a given
-integer. Please do not modify this code without applying the changes
-first at Module:Ordinal/sandbox and testing at
-Module:Ordinal/sandbox/testcases and Module
-talk:Ordinal/sandbox/testcases.](https://zh.wikipedia.org/wiki/This_template_will_add_the_appropriate_ordinal_suffix_to_a_given_integer._Please_do_not_modify_this_code_without_applying_the_changes_first_at_Module:Ordinal/sandbox_and_testing_at_Module:Ordinal/sandbox/testcases_and_Module_talk:Ordinal/sandbox/testcases. "wikilink")
+\--[This template will add the appropriate ordinal suffix to a given integer. Please do not modify this code without applying the changes first at Module:Ordinal/sandbox and testing at Module:Ordinal/sandbox/testcases and Module talk:Ordinal/sandbox/testcases.](https://zh.wikipedia.org/wiki/This_template_will_add_the_appropriate_ordinal_suffix_to_a_given_integer._Please_do_not_modify_this_code_without_applying_the_changes_first_at_Module:Ordinal/sandbox_and_testing_at_Module:Ordinal/sandbox/testcases_and_Module_talk:Ordinal/sandbox/testcases. "wikilink")
 
 local p = {}
 
 local yesno = require('Module:Yesno') -- boolean value interpretation
 
-\--\[\[ This function converts an integer value into a numeral followed
-by ordinal indicator. The output string might contain HTML tags.
+\--\[\[ This function converts an integer value into a numeral followed by ordinal indicator. The output string might contain HTML tags.
 
-Usage: {{\#invoke:Ordinal|ordinal|1=|2=|sup=}}
-{{\#invoke:Ordinal|ordinal}} - uses the caller's parameters
+Usage: {{\#invoke:Ordinal|ordinal|1=|2=|sup=}} {{\#invoke:Ordinal|ordinal}} - uses the caller's parameters
 
 Parameters
 
@@ -50,8 +44,7 @@ function p._ordinal(n, d, sup)
 `       end`
 `   end`
 `   if sup then`
-`       suffix = "`<sup>`"``   ``..``   ``suffix``   ``..``
- ``"`</sup>`"`
+`       suffix = "`<sup>`"``   ``..``   ``suffix``   ``..``   ``"`</sup>`"`
 `   end`
 `   return n .. suffix`
 

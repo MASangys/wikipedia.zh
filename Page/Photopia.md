@@ -2,9 +2,7 @@
 
 ## 參考文獻
 
-[Category:1998年电子游戏](https://zh.wikipedia.org/wiki/Category:1998年电子游戏 "wikilink")
-[Category:文字冒險遊戲](https://zh.wikipedia.org/wiki/Category:文字冒險遊戲 "wikilink")
-[Category:美國開發電子遊戲](https://zh.wikipedia.org/wiki/Category:美國開發電子遊戲 "wikilink")
+[Category:1998年电子游戏](https://zh.wikipedia.org/wiki/Category:1998年电子游戏 "wikilink") [Category:文字冒險遊戲](https://zh.wikipedia.org/wiki/Category:文字冒險遊戲 "wikilink") [Category:美國開發電子遊戲](https://zh.wikipedia.org/wiki/Category:美國開發電子遊戲 "wikilink")
 
 1.
 2.

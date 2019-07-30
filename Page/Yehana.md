@@ -1,4 +1,4 @@
-**金藝媛**\[1\]（；），另有正名**金譽媛**\[2\]，藝名為**Yehana**（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Pledis娛樂旗下已解散](../Page/Pledis娛樂.md "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[PRISTIN的成員之一](https://zh.wikipedia.org/wiki/PRISTIN "wikilink")。
+**金藝媛**\[1\]（；），另有正名**金譽媛**\[2\]，藝名為**Yehana**（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Pledis娛樂](../Page/Pledis娛樂.md "wikilink")旗下已解散[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[PRISTIN的成員之一](https://zh.wikipedia.org/wiki/PRISTIN "wikilink")。
 
 ## 出道前
 
@@ -6,7 +6,7 @@
 
 ## PRISTIN
 
-2017年3月21日Yuha作為[PRISTIN的成員正式出道](https://zh.wikipedia.org/wiki/PRISTIN "wikilink")\[5\]，2019年5月23日官方宣布PRISTIN解散，但Yehana決定留在[Pledis娛樂](../Page/Pledis娛樂.md "wikilink")，繼續以個人藝人身分活動。
+2017年3月21日Yehana作為[PRISTIN的成員正式出道](https://zh.wikipedia.org/wiki/PRISTIN "wikilink")\[5\]，2019年5月23日官方宣布PRISTIN解散，但Yehana決定留在[Pledis娛樂](../Page/Pledis娛樂.md "wikilink")，繼續以個人藝人身分活動。
 
 ## 詞曲創作
 

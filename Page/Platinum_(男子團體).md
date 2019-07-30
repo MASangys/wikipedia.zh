@@ -1,6 +1,4 @@
-**Platinum**（韓語：**플래티넘**），是[韓國IN](https://zh.wikipedia.org/wiki/韓國 "wikilink")
-MEDIA A\&D於2019年推出的七人男子團體，成員包括Jess、Hagie、Woon Sub、Ha Jin、Cha
-Bin、RA.L及Sun Min。
+**Platinum**（韓語：**플래티넘**），是[韓國IN](https://zh.wikipedia.org/wiki/韓國 "wikilink") MEDIA A\&D於2019年推出的七人男子團體，成員包括Jess、Hagie、Woon Sub、Ha Jin、Cha Bin、RA.L及Sun Min。
 
 ## 成員資料
 
@@ -47,8 +45,4 @@ Bin、RA.L及Sun Min。
 
   - [Platinum](https://m.youtube.com/channel/UCINCRhzLF6wLuRxXouxel2Q)的官方Youtube
 
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:2019年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2019年成立的音樂團體 "wikilink")
-[Category:2019年韓國建立](https://zh.wikipedia.org/wiki/Category:2019年韓國建立 "wikilink")
+[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2019年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2019年成立的音樂團體 "wikilink") [Category:2019年韓國建立](https://zh.wikipedia.org/wiki/Category:2019年韓國建立 "wikilink")

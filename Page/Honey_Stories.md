@@ -1,5 +1,4 @@
-『**Honey Stories**』是2019年7月17日\[1\]，由[avex
-trax發售的](https://zh.wikipedia.org/wiki/avex_trax "wikilink")[宇野實彩子的首張專輯](https://zh.wikipedia.org/wiki/宇野實彩子 "wikilink")。
+《**Honey Stories**》是2019年7月17日\[1\]，由[avex trax發售的](https://zh.wikipedia.org/wiki/avex_trax "wikilink")[宇野實彩子的首張專輯](https://zh.wikipedia.org/wiki/宇野實彩子 "wikilink")。
 
 ## 收錄曲
 
@@ -34,7 +33,7 @@ trax發售的](https://zh.wikipedia.org/wiki/avex_trax "wikilink")[宇野實彩�
         <small>專輯新錄曲</small>
 12. **マイフレンド**
       -
-        <small>專輯新錄曲</small>
+        <small>專輯新錄曲,JALうの旅 in Hawaii廣告歌曲</small>
 13. **\#one_love_pop**
 
 
@@ -88,15 +87,12 @@ trax發售的](https://zh.wikipedia.org/wiki/avex_trax "wikilink")[宇野實彩�
   - MC2
   - NEWS UNO1
   - NEWS UNO2
-  - UNO MISAKO LIVE TOUR 2018-2019 "First love" 2019.2.7 NHK大廳
-    Backstage・Making
+  - UNO MISAKO LIVE TOUR 2018-2019 "First love" 2019.2.7 NHK大廳 Backstage・Making
 
 ## 脚注
 
 <references />
 
-[Category:2019年的專輯](https://zh.wikipedia.org/wiki/Category:2019年的專輯 "wikilink")
-[Category:Avex_Group的專輯](https://zh.wikipedia.org/wiki/Category:Avex_Group的專輯 "wikilink")
+[Category:2019年的專輯](https://zh.wikipedia.org/wiki/Category:2019年的專輯 "wikilink") [Category:Avex_Group的專輯](https://zh.wikipedia.org/wiki/Category:Avex_Group的專輯 "wikilink")
 
-1.  [宇野実彩子 (AAA)1stアルバム『Honey
-    Stories』が7/17（水）に発売決定！](https://avex.jp/aaa/news/detail.php?id=1072623)
+1.  [宇野実彩子 (AAA)1stアルバム『Honey Stories』が7/17（水）に発売決定！](https://avex.jp/aaa/news/detail.php?id=1072623)

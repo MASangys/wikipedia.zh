@@ -1,11 +1,8 @@
 local p = {}
 
-\--\[\[ 使用方法:
-{{\#invoke:Vau|ref|unit=组合名|distinction=识别号码|link=链接目的地|lang=语言代码|add=追加说明|group=ref标签group名}}
+\--\[\[ 使用方法: {{\#invoke:Vau|ref|unit=组合名|distinction=识别号码|link=链接目的地|lang=语言代码|add=追加说明|group=ref标签group名}}
 
-unit - 必须 distinction - 任意（默认值 ''） link - 任意（默认值 ''） lang - 任意（默认值 ''）
-add - 任意（默认值 ''） group - 任意（默认值 '成员'） list - 任意（默认值 ''） \]\] function
-p.ref(frame)
+unit - 必须 distinction - 任意（默认值 ''） link - 任意（默认值 ''） lang - 任意（默认值 ''） add - 任意（默认值 ''） group - 任意（默认值 '成员'） list - 任意（默认值 ''） \]\] function p.ref(frame)
 
 `   -- 获得参数`
 `   local unit = frame.args.unit`
@@ -18,9 +15,7 @@ p.ref(frame)
 `   `
 `   -- 创建非脚注部分`
 `   local noref = mw.text.nowiki(unit)`
-`   noref = (link == '') and noref or '`[`'``   ``..``   ``noref``
- ``..``
- ``'`](https://zh.wikipedia.org/wiki/'_.._link_..' "wikilink")`'`
+`   noref = (link == '') and noref or '`[`'``   ``..``   ``noref``   ``..``   ``'`](https://zh.wikipedia.org/wiki/'_.._link_..' "wikilink")`'`
 `   noref = (lang == '') and noref or '`<span lang="' .. lang .. '" xml:lang="' .. lang .. '">`-{' .. noref .. '}-`</span>`'`
 `   `
 `   -- 从组合列表中搜索组合名+识别号码`
@@ -60,8 +55,7 @@ p.ref(frame)
 
 <dd style="white-space:normal;">
 
-' .. member:gsub('</strong>$', '<small>如果使用可视编辑器进行编辑，请在“识别号码”字段指定`' ..
-table.concat(d_code, '`、`') .. '`。</small></strong>') .. '
+' .. member:gsub('</strong>$', '<small>如果使用可视编辑器进行编辑，请在“识别号码”字段指定`' .. table.concat(d_code, '`、`') .. '`。</small></strong>') .. '
 
 </dd>
 
@@ -71,9 +65,7 @@ table.concat(d_code, '`、`') .. '`。</small></strong>') .. '
 
 `       end`
 `   else`
-`       member = '`<strong class="error">`Vau定义错误: 组合' ..
-mw.text.nowiki(unit) ..
-'未定义。详情请参阅`[`Template:Vau#发生错误时`](https://zh.wikipedia.org/wiki/Template:Vau#发生错误时 "wikilink")`。`</strong>`'`
+`       member = '`<strong class="error">`Vau定义错误: 组合' .. mw.text.nowiki(unit) .. '未定义。详情请参阅`[`Template:Vau#发生错误时`](https://zh.wikipedia.org/wiki/Template:Vau#发生错误时 "wikilink")`。`</strong>`'`
 `   end`
 `   `
 `   -- 列表形式`

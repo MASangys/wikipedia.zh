@@ -2,8 +2,7 @@
 
 ## 概要
 
-在离现在不远的近未来，因为情报和影像技术的高度进化，偶像们的舞台LIVE变成了展现自己状态的表演，以1对1的战斗方式来获得评价的**表演战斗（パフォーマンスバトル）**逐渐成为主流。以描述偶像为成为顶峰而战的「**FORMULA
-VENUS（フォーミュラ ヴィーナス）**」的“偶像×热血故事”成为了本作的主题。
+在离现在不远的近未来，因为情报和影像技术的高度进化，偶像们的舞台LIVE变成了展现自己状态的表演，以1对1的战斗方式来获得评价的**表演战斗（パフォーマンスバトル）**逐渐成为主流。以描述偶像为成为顶峰而战的「**FORMULA VENUS（フォーミュラ ヴィーナス）**」的“偶像×热血故事”成为了本作的主题。
 
 ## 改编游戏
 
@@ -18,8 +17,7 @@ VENUS（フォーミュラ ヴィーナス）**」的“偶像×热血故事”�
 游戏最开始配信时准备的3名角色。在电视动画中也登场了。
 
   - 高野歌恋
-    [声](../Page/聲優.md "wikilink") -
-    [姫崎愛未](https://zh.wikipedia.org/wiki/姫崎愛未 "wikilink")\[1\]
+    [声](../Page/聲優.md "wikilink") - [姫崎愛未](https://zh.wikipedia.org/wiki/姫崎愛未 "wikilink")\[1\]
   - 更級美月
     声 - [田邊留依](../Page/田邊留依.md "wikilink")
   - 香島夕
@@ -27,7 +25,7 @@ VENUS（フォーミュラ ヴィーナス）**」的“偶像×热血故事”�
 
 #### 传奇角色
 
-以下2角色的声优是原[小貓俱樂部的成员](../Page/小貓俱樂部.md "wikilink")，同时也出席了游戏的发布会。\[2\]。
+以下2角色的声优是原[小貓俱樂部](../Page/小貓俱樂部.md "wikilink")的成员，同时也出席了游戏的发布会。\[2\]。
 
   - 新藤絵理
     声 - [新田恵利](../Page/新田惠利.md "wikilink")
@@ -36,34 +34,21 @@ VENUS（フォーミュラ ヴィーナス）**」的“偶像×热血故事”�
 
 ## 社交游戏
 
-《**VENUS PROJECT DREAMBEAT**》（ヴィーナス
-プロジェクトドリームビート）是2015年7月30日（[iOS版](../Page/IOS.md "wikilink")）、同年8月10日（[安卓版](../Page/Android.md "wikilink")）发布的游戏应用。此外，安卓版最开始适配的机型很少，为[Xperia
-Z3](../Page/Sony_Xperia_Z3.md "wikilink")・[Z4](../Page/Sony_Xperia_Z3+.md "wikilink")、[Nexus
-6](../Page/Nexus_6.md "wikilink")・[9](../Page/Nexus_9.md "wikilink")、[Sheild
-Tablet](../Page/Shield_Portable.md "wikilink")、[ZenFone
-2](../Page/華碩ZenFone_2.md "wikilink")，但版本更新后推荐的机种就增加了。
+《**VENUS PROJECT DREAMBEAT**》（ヴィーナス プロジェクトドリームビート）是2015年7月30日（[iOS版](../Page/IOS.md "wikilink")）、同年8月10日（[安卓版](../Page/Android.md "wikilink")）发布的游戏应用。此外，安卓版最开始适配的机型很少，为[Xperia Z3](../Page/Sony_Xperia_Z3.md "wikilink")・[Z4](../Page/Sony_Xperia_Z3+.md "wikilink")、[Nexus 6](../Page/Nexus_6.md "wikilink")・[9](../Page/Nexus_9.md "wikilink")、[Sheild Tablet](../Page/Shield_Portable.md "wikilink")、[ZenFone 2](../Page/華碩ZenFone_2.md "wikilink")，但版本更新后推荐的机种就增加了。
 
 ## 漫画
 
-在[網絡漫畫配信网站](../Page/網絡漫畫.md "wikilink")“”上，2015年4月21日起配信了全部5话。[長谷川光司作画](https://zh.wikipedia.org/wiki/長谷川光司 "wikilink")。6月16日截止前，在每月第1个、第3个礼拜二更新。单行本由[KADOKAWA](../Page/KADOKAWA.md "wikilink")
-[ASCII Media
-Works在](../Page/ASCII_Media_Works.md "wikilink")2015年6月26日发售。全1卷。
+在[網絡漫畫](../Page/網絡漫畫.md "wikilink")配信网站“”上，2015年4月21日起配信了全部5话。[長谷川光司作画](https://zh.wikipedia.org/wiki/長谷川光司 "wikilink")。6月16日截止前，在每月第1个、第3个礼拜二更新。单行本由[KADOKAWA](../Page/KADOKAWA.md "wikilink") [ASCII Media Works在](../Page/ASCII_Media_Works.md "wikilink")2015年6月26日发售。全1卷。
 
 ## 广播节目
 
-《**广播剧 VENUS
-PROJECT**》在2015年4月2日到9月24日在每礼拜四23点30分到45分在[大阪放送播出](../Page/大阪放送.md "wikilink")。4月3日到9月25日，也进行了网络广播。出演的有
-[姫崎愛未](https://zh.wikipedia.org/wiki/姫崎愛未 "wikilink")（高野歌恋）、[田辺留依](../Page/田邊留依.md "wikilink")（更級美月）、[根本流風](../Page/根本流風.md "wikilink")（香島夕）3位。
+《**广播剧 VENUS PROJECT**》在2015年4月2日到9月24日在每礼拜四23点30分到45分在[大阪放送](../Page/大阪放送.md "wikilink")播出。4月3日到9月25日，也进行了网络广播。出演的有 [姫崎愛未](https://zh.wikipedia.org/wiki/姫崎愛未 "wikilink")（高野歌恋）、[田辺留依](../Page/田邊留依.md "wikilink")（更級美月）、[根本流風](../Page/根本流風.md "wikilink")（香島夕）3位。
 
-《**女神ラジオ〜めがらじ**》则在2016年7月21日到10月27日在HiBiKi Radio
-Station播出\[3\]。每礼拜四更新。主持人是[秦佐和子](../Page/秦佐和子.md "wikilink")（原饰演エリコ）和
-[一宮朔](https://zh.wikipedia.org/wiki/一宮朔 "wikilink")。
+《**女神ラジオ〜めがらじ**》则在2016年7月21日到10月27日在HiBiKi Radio Station播出\[3\]。每礼拜四更新。主持人是[秦佐和子](../Page/秦佐和子.md "wikilink")（原饰演エリコ）和 [一宮朔](https://zh.wikipedia.org/wiki/一宮朔 "wikilink")。
 
 ## 电视节目
 
-2015年7月到9月放送。节目标题名与作品名《VENUS PROJECT》同，但节目播出时是综艺《**VENUS PROJECT
-TV**》和动画《**VENUS PROJECT -CLIMAX-**》（ヴィーナス プロジェクト
-クライマックス）交替播出的。此外，游戏和动画分别是用不同视点描绘的，动画的主要角色和游戏的不同。NICONICO的直播是在动画播放的22点之前30分钟开始的。在动画放映前，播放的是声优的节目。
+2015年7月到9月放送。节目标题名与作品名《VENUS PROJECT》同，但节目播出时是综艺《**VENUS PROJECT TV**》和动画《**VENUS PROJECT -CLIMAX-**》（ヴィーナス プロジェクト クライマックス）交替播出的。此外，游戏和动画分别是用不同视点描绘的，动画的主要角色和游戏的不同。NICONICO的直播是在动画播放的22点之前30分钟开始的。在动画放映前，播放的是声优的节目。
 
 ### 电视台
 
@@ -77,9 +62,7 @@ TV**》和动画《**VENUS PROJECT -CLIMAX-**》（ヴィーナス プロジェ�
 
   - MC
 
-:\*
-[美国龙虾](https://zh.wikipedia.org/wiki/アメリカザリガニ_\(お笑いコンビ\) "wikilink")（
-[柳原哲也](https://zh.wikipedia.org/wiki/柳原哲也 "wikilink")、）
+:\* [美国龙虾](https://zh.wikipedia.org/wiki/アメリカザリガニ_\(お笑いコンビ\) "wikilink")（ [柳原哲也](https://zh.wikipedia.org/wiki/柳原哲也 "wikilink")、）
 
   - 动画组
 
@@ -116,13 +99,11 @@ TV**》和动画《**VENUS PROJECT -CLIMAX-**》（ヴィーナス プロジェ�
 
   - 原惠理子（はら エリコ）
     声 - [秦佐和子](../Page/秦佐和子.md "wikilink")
-    本作主人公。以FORMULA
-    VENUS新人王为目标的偶像。17岁\[4\]。出身于儿童设施，现在独自生活。把作为偶像工作挣得的工资捐给了儿童设施，这有反哺的意味在里面。不过虽然心灵善良，但因一直远离社会，有“饿肚子的孩子”的称呼。到现在还是没有生过病的优良儿。
+    本作主人公。以FORMULA VENUS新人王为目标的偶像。17岁\[4\]。出身于儿童设施，现在独自生活。把作为偶像工作挣得的工资捐给了儿童设施，这有反哺的意味在里面。不过虽然心灵善良，但因一直远离社会，有“饿肚子的孩子”的称呼。到现在还是没有生过病的优良儿。
   - 流华·索瓦加斯基（るか ソバガスキー）
     声 - [飯田里穂](../Page/飯田里穗.md "wikilink")
     胜率达到第一位的新人王最有力的候选人。17歳。是日本-马兹西斯坦混血儿。7歳的时候跟随母亲从马兹西斯坦回国（日本）。
-    因为“像玻璃一样体弱”，一天只能唱五分钟歌，不过这超出了FORMULA
-    VENUS1分半钟的限制。反过来利用这点，为了提高附加值，她采用了只演唱一首歌的战略并取得了成功。然而，在和取得了八连胜的惠理子对战时，因过度疲劳而伤了嗓子。
+    因为“像玻璃一样体弱”，一天只能唱五分钟歌，不过这超出了FORMULA VENUS1分半钟的限制。反过来利用这点，为了提高附加值，她采用了只演唱一首歌的战略并取得了成功。然而，在和取得了八连胜的惠理子对战时，因过度疲劳而伤了嗓子。
     虽然赢了惠理子成了新人王，但因为喉咙受伤，还得长期休养。
   - 濡羽美烏（ぬれは みう）
     声 - [早瀬莉花](../Page/早瀨莉花.md "wikilink")
@@ -135,8 +116,7 @@ TV**》和动画《**VENUS PROJECT -CLIMAX-**》（ヴィーナス プロジェ�
     明日花的宿敌。在12年前惠理子见到的战斗中败给了明日花。
   - 河藤勇（かわとう いさみ）
     声 - [伊達朱里紗](../Page/伊達朱里紗.md "wikilink")
-    新人王候选人之一。典型的大阪姑娘。在第1回战斗的第1回合就被惠理子击败。其父親（声 -
-    [木内秀信](../Page/木内秀信.md "wikilink")）也来为她应援。
+    新人王候选人之一。典型的大阪姑娘。在第1回战斗的第1回合就被惠理子击败。其父親（声 - [木内秀信](../Page/木内秀信.md "wikilink")）也来为她应援。
   - 大森穗留须（おおもり ほるす）
     声 - [木村珠莉](../Page/木村珠莉.md "wikilink")
     新人王候选人之一。K罩杯。是从赛车女郎转业来的，年龄也是作为偶像的极限了。在第1回战斗第2回合被濡羽美乌击败。
@@ -148,9 +128,7 @@ TV**》和动画《**VENUS PROJECT -CLIMAX-**》（ヴィーナス プロジェ�
     新人王候选人之一。身着白大褂的理科系女子。在比试开始前投下原有的眼镜是惯例，在这之后会脱下白大褂而戴上新的眼镜，展现出兔女郎的姿态。在准决赛的第2回合被流华击败。被击败后，知道了流华所来自的马兹西斯坦的国家现状，参加了给当地送上千纸鹤的行动。
   - 小瀬路未（おぜ ろみ）
     声 - [小野早稀](../Page/小野早稀.md "wikilink")
-    新人王候选人之一。作为偶像组合Gothic13（ゴシック·サーティーン）的妹妹。受Gothic13的领导ー**下司麗**（姓是“しもつかさ”。声
-    -
-    [M・A・O](../Page/市道真央.md "wikilink")）虐待，左眼被刘海遮挡。被流华讨厌，所以在第1回战斗的第4回合因士气不足而被击败。
+    新人王候选人之一。作为偶像组合Gothic13（ゴシック·サーティーン）的妹妹。受Gothic13的领导ー**下司麗**（姓是“しもつかさ”。声 - [M・A・O](../Page/市道真央.md "wikilink")）虐待，左眼被刘海遮挡。被流华讨厌，所以在第1回战斗的第4回合因士气不足而被击败。
   - 教练
     声 - [子安武人](../Page/子安武人.md "wikilink")
     惠理子和美乌的教练，还是土佐野晶社长的丈夫。入院中。是有“魔鬼的土佐野”称呼的有名教练。全名是“土佐 とおる”（名字表记不明）。
@@ -210,12 +188,9 @@ TV**》和动画《**VENUS PROJECT -CLIMAX-**》（ヴィーナス プロジェ�
 
   - FORMULA VENUS
     是基于偶像的歌曲与舞蹈，制作的的战斗用虚拟替身，让其战斗决胜负的表演。也就是说，偶像是通过唱歌跳舞战斗的。而失败的偶像会感觉受到某种伤害，当场倒地或眼镜破碎。
-    这是由叫**VENUS
-    SYSTEM**的技术实现的。虽说已经普及到连海边旅馆的娱乐室都有此系统框体的程度，但因惠理子惊讶的发现其内登录有演歌，从而能得出这些框体和专业比赛用的框体有若干差异的结论。
+    这是由叫**VENUS SYSTEM**的技术实现的。虽说已经普及到连海边旅馆的娱乐室都有此系统框体的程度，但因惠理子惊讶的发现其内登录有演歌，从而能得出这些框体和专业比赛用的框体有若干差异的结论。
   - IRS
-    VENUS SYSTEM中生成的替身。其为**Incaration of Reflecting
-    skills**（インカレーション・オブ・リフレクティング・スキルズ）的缩写。但因英语里不存在
-    Incaration 这个单词，所以 **Incarnation**（インカネーション）有是错误拼写单词的可能性。
+    VENUS SYSTEM中生成的替身。其为**Incaration of Reflecting skills**（インカレーション・オブ・リフレクティング・スキルズ）的缩写。但因英语里不存在 Incaration 这个单词，所以 **Incarnation**（インカネーション）有是错误拼写单词的可能性。
     大多数IRS都是以人型或动物型战斗机器人的姿态出现的，但美乌的IRS确是以护士风的魔法少女的姿态出现的。其IRS的粉丝亦不少。
   - 马兹西斯坦
     流華的出身国。是北方寒冷的国家。在这个大贫困国的军队认识到贫困是最大的敌人的情况下，做出了让流華参与偶像活动的决策。
@@ -245,9 +220,7 @@ TV**》和动画《**VENUS PROJECT -CLIMAX-**》（ヴィーナス プロジェ�
 #### 主題歌
 
   - OP「Venus Drive\!\! 〜キミは燃えているか〜」
-    作詞 - 仰木日向 / 作曲 - 石塚玲依 / 編曲 - 伊藤翼 / 歌 -
-    原エリコ（[秦佐和子](../Page/秦佐和子.md "wikilink")）VS
-    高野歌恋（ [姫崎愛未](https://zh.wikipedia.org/wiki/姫崎愛未 "wikilink")）
+    作詞 - 仰木日向 / 作曲 - 石塚玲依 / 編曲 - 伊藤翼 / 歌 - 原エリコ（[秦佐和子](../Page/秦佐和子.md "wikilink")）VS 高野歌恋（ [姫崎愛未](https://zh.wikipedia.org/wiki/姫崎愛未 "wikilink")）
 
     第1話・第6話では不使用。
 
@@ -255,43 +228,31 @@ TV**》和动画《**VENUS PROJECT -CLIMAX-**》（ヴィーナス プロジェ�
 
 :;「ユメノツバサ」
 
-:: 作詞 - 仰木日向 / 作曲 - 若林タカツグ / 編曲 -  / 歌 -
-流華・ソバガスキー（[飯田里穂](../Page/飯田里穗.md "wikilink")）
+:: 作詞 - 仰木日向 / 作曲 - 若林タカツグ / 編曲 -  / 歌 - 流華・ソバガスキー（[飯田里穂](../Page/飯田里穗.md "wikilink")）
 
 :;「ユメノツバサ CLIMAX Final Version」（第6話）
 
   -
 
       -
-        作詞 - 仰木日向 / 作曲 - 若林タカツグ / 編曲 - ZENTA / 歌 - 原エリコ（秦佐和子）VS
-        流華・ソバガスキー（飯田里穂） VS
-        濡羽美烏（[早瀬莉花](../Page/早瀨莉花.md "wikilink")）
+        作詞 - 仰木日向 / 作曲 - 若林タカツグ / 編曲 - ZENTA / 歌 - 原エリコ（秦佐和子）VS 流華・ソバガスキー（飯田里穂） VS 濡羽美烏（[早瀬莉花](../Page/早瀨莉花.md "wikilink")）
 
 ##### 挿入歌
 
   - 「Venus Drive\!\! 〜キミは燃えているか〜 LegendBattle ShortVersion」（第1、2、4話）
-    作詞 - 仰木日向 / 作曲 - 石塚玲依 / 編曲 - 伊藤翼 / 歌 -
-    紅神明日花（[朴璐美](../Page/朴璐美.md "wikilink")） VS
-    黒城星（[宍戸留美](../Page/宍戶留美.md "wikilink")）
+    作詞 - 仰木日向 / 作曲 - 石塚玲依 / 編曲 - 伊藤翼 / 歌 - 紅神明日花（[朴璐美](../Page/朴璐美.md "wikilink")） VS 黒城星（[宍戸留美](../Page/宍戶留美.md "wikilink")）
   - 「天使の一撃 歌恋・夕 RookieBattle Version」（第1話）
-    作詞 - 下北沢がさつ / 作曲 - 伊豆一彦 / 編曲 - 伊藤政行 / 歌 - 高野歌恋（
-    [姫崎愛未](https://zh.wikipedia.org/wiki/姫崎愛未 "wikilink")） VS
-    香島夕（[根本流風](../Page/根本流風.md "wikilink")）
+    作詞 - 下北沢がさつ / 作曲 - 伊豆一彦 / 編曲 - 伊藤政行 / 歌 - 高野歌恋（ [姫崎愛未](https://zh.wikipedia.org/wiki/姫崎愛未 "wikilink")） VS 香島夕（[根本流風](../Page/根本流風.md "wikilink")）
   - 「天使の一撃」（第1、4話）
     作詞 - 下北沢がさつ / 作曲 - 伊豆一彦 / 編曲 - 伊藤政行 / 歌 - 高野歌恋（姫崎愛未）
   - 「青い風」（第2話）
-    作詞 - 仰木日向 / 作曲 - 若林タカツグ / 編曲 -  / 歌 -
-    原惠理子（[秦佐和子](../Page/秦佐和子.md "wikilink")）
+    作詞 - 仰木日向 / 作曲 - 若林タカツグ / 編曲 -  / 歌 - 原惠理子（[秦佐和子](../Page/秦佐和子.md "wikilink")）
   - 「Journey for life 美乌、惠理子 RookieBattle Version」（第2、4話）
     作詞 -  / 作曲・編曲 - 根岸貴幸 / 歌 - 濡羽美烏（早瀬莉花） VS 原惠理子（秦佐和子）
   - 「青い一秒 美月・歌恋 RookieBattle Version」（第2話）
-    作詞 - TOMO / 作曲・編曲 - 伊豆一彦 / 歌 -
-    更級美月（[田辺留依](../Page/田邊留依.md "wikilink")）
-    VS 高野歌恋（姫崎愛未）
+    作詞 - TOMO / 作曲・編曲 - 伊豆一彦 / 歌 - 更級美月（[田辺留依](../Page/田邊留依.md "wikilink")） VS 高野歌恋（姫崎愛未）
   - 「EVOLVE 勇・惠理子 RookieBattle Version」（第2話）
-    作詞 - 渡邉裕也 / 作曲 - 流歌 / 編曲 - ミライショウ / 歌 -
-    河藤勇（[伊達朱里紗](../Page/伊達朱里紗.md "wikilink")）
-    VS 原惠理子（秦佐和子）
+    作詞 - 渡邉裕也 / 作曲 - 流歌 / 編曲 - ミライショウ / 歌 - 河藤勇（[伊達朱里紗](../Page/伊達朱里紗.md "wikilink")） VS 原惠理子（秦佐和子）
   - 「1、2、3、4（ワンツースリーフォー）」（第2話）
     作詞 - 森晴彦 / 作曲 - 伊豆一彦 / 編曲 - タナカノブマサ / 歌 - 原惠理子（秦佐和子）
   - 「見果てぬ思い」（第3話）
@@ -299,29 +260,21 @@ TV**》和动画《**VENUS PROJECT -CLIMAX-**》（ヴィーナス プロジェ�
   - 「ONE STAGE」（第3話）
     作詞 - 仰木日向/ 作曲・編曲 - 伊藤翼 / 歌 - 流華・索瓦加斯基（飯田里穂）
   - 「アンブレラはいかが? 流華・エリコ RookieBattle Version」（第3話）
-    作詞 - TOMO / 作曲 - 伊豆一彦 / 編曲 - モリヒデオミ / 歌 - 流華・索瓦加斯基（飯田里穂） VS
-    原惠理子（秦佐和子）
+    作詞 - TOMO / 作曲 - 伊豆一彦 / 編曲 - モリヒデオミ / 歌 - 流華・索瓦加斯基（飯田里穂） VS 原惠理子（秦佐和子）
   - 「Shootin'Star ほるす・美烏 RookieBattle Version」（第3話）
-    作詞 - マイクスギヤマ / 作曲 - 曽根由希江 / 編曲 - 根岸貴幸 / 歌 -
-    和藤永（[木村珠莉](../Page/木村珠莉.md "wikilink")） VS
-    濡羽美烏（早瀬莉花）
+    作詞 - マイクスギヤマ / 作曲 - 曽根由希江 / 編曲 - 根岸貴幸 / 歌 - 和藤永（[木村珠莉](../Page/木村珠莉.md "wikilink")） VS 濡羽美烏（早瀬莉花）
   - 「Girl 路未・流華 RookieBattle Version」（第3話）
-    作詞 - 伊加ノブコ / 作曲 - 伊豆一彦 / 編曲 - タナカノブマサ / 歌 -
-    小瀬路未（[小野早稀](../Page/小野早稀.md "wikilink")）
-    VS 流華・索瓦加斯基（飯田里穂）
+    作詞 - 伊加ノブコ / 作曲 - 伊豆一彦 / 編曲 - タナカノブマサ / 歌 - 小瀬路未（[小野早稀](../Page/小野早稀.md "wikilink")） VS 流華・索瓦加斯基（飯田里穂）
   - 「Mint Flavor 濡羽美烏（CV:早瀬莉花）Version」（第4話）
     作詞 - TOMO / 作曲・編曲 -  / 歌 - 濡羽美烏（早瀬莉花）
   - 「Boy\&Girl Friend 蓮・流華 RookieBattle Version」（第5話）
-    作詞 - 森晴彦 / 作曲 - 奏多雅（Primo） / 編曲 -  from STRIKERS / 歌 -
-    鶴巻蓮（[中恵光城](../Page/中惠光城.md "wikilink")） VS
-    流華・索瓦加斯基（飯田里穂）
+    作詞 - 森晴彦 / 作曲 - 奏多雅（Primo） / 編曲 -  from STRIKERS / 歌 - 鶴巻蓮（[中恵光城](../Page/中惠光城.md "wikilink")） VS 流華・索瓦加斯基（飯田里穂）
   - 「クロック・マドモアゼル」（第5話）
     作詞 - 森晴彦 / 作曲・編曲 -  / 歌 - 香島夕（根本流風）
   - 「恋路川 歌恋・エリコ Outside Ring Battle Version」（第5話）
     作詞 - TOMO / 作曲 - 伊豆一彦 / 編曲 - タナカノブマサ / 歌 - 高野歌恋（姫崎愛未） VS 原惠理子（秦佐和子）
   - 「COIN 流華・エリコ RookieBattle Version」（第6話）
-    作詞 - 仰木日向 / 作曲 - 石塚玲依 / 編曲 - ZENTA / 歌 - 流華・索瓦加斯基（飯田里穂） VS
-    原惠理子（秦佐和子）
+    作詞 - 仰木日向 / 作曲 - 石塚玲依 / 編曲 - ZENTA / 歌 - 流華・索瓦加斯基（飯田里穂） VS 原惠理子（秦佐和子）
   - 「Venus Drive\!\! 〜キミは燃えているか〜 CLIMAX FinalBattle Version」（第6話）
     作詞 - 仰木日向 / 作曲 - 石塚玲依 / 編曲 - 伊藤翼 / 歌 - 原惠理子（秦佐和子） VS 流華・索瓦加斯基（飯田里穂）
 
@@ -407,29 +360,17 @@ TV**》和动画《**VENUS PROJECT -CLIMAX-**》（ヴィーナス プロジェ�
 
 ## 外部链接
 
-  - [VENUS
-    PROJECT公式サイト](https://web.archive.org/web/20160129021720/http://vproject.jp/)
-    - 閉鎖。2016年1月29日時点の[アーカイブ](../Page/互联网档案馆.md "wikilink")。
+  - [VENUS PROJECT公式サイト](https://web.archive.org/web/20160129021720/http://vproject.jp/) - 閉鎖。2016年1月29日時点の[アーカイブ](../Page/互联网档案馆.md "wikilink")。
 
-      - [VENUS PROJECT
-        最新ニュース](https://web.archive.org/web/20151117051937/https://venusproject.themedia.jp/)
+      - [VENUS PROJECT 最新ニュース](https://web.archive.org/web/20151117051937/https://venusproject.themedia.jp/)
       - [ゲーム「VENUS PROJECT」公式ブログ](http://venusproject.blog.jp/)
-      - [漫画「VENUS
-        PROJECT」](https://web.archive.org/web/20150627161416/http://comicdangan.com/manga/venus/)
-        - コミックダンガン
-      - [TVアニメ「VENUS PROJECT
-        -CLIMAX-」公式サイト](https://web.archive.org/web/20160202160835/http://vproject.jp/anime/)
-        - 閉鎖。2016年2月2日時点の[アーカイブ](../Page/互联网档案馆.md "wikilink")。
+      - [漫画「VENUS PROJECT」](https://web.archive.org/web/20150627161416/http://comicdangan.com/manga/venus/) - コミックダンガン
+      - [TVアニメ「VENUS PROJECT -CLIMAX-」公式サイト](https://web.archive.org/web/20160202160835/http://vproject.jp/anime/) - 閉鎖。2016年2月2日時点の[アーカイブ](../Page/互联网档案馆.md "wikilink")。
 
   -
-[Category:跨媒體製作](https://zh.wikipedia.org/wiki/Category:跨媒體製作 "wikilink")
-[Category:偶像題材電子遊戲](https://zh.wikipedia.org/wiki/Category:偶像題材電子遊戲 "wikilink")
-[Category:2015年电子游戏](https://zh.wikipedia.org/wiki/Category:2015年电子游戏 "wikilink")
-[Category:PlayStation_Vita游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita游戏 "wikilink")
-[Category:偶像漫畫](https://zh.wikipedia.org/wiki/Category:偶像漫畫 "wikilink")
+[Category:跨媒體製作](https://zh.wikipedia.org/wiki/Category:跨媒體製作 "wikilink") [Category:偶像題材電子遊戲](https://zh.wikipedia.org/wiki/Category:偶像題材電子遊戲 "wikilink") [Category:2015年电子游戏](https://zh.wikipedia.org/wiki/Category:2015年电子游戏 "wikilink") [Category:PlayStation_Vita游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita游戏 "wikilink") [Category:偶像漫畫](https://zh.wikipedia.org/wiki/Category:偶像漫畫 "wikilink")
 
 1.  九州を拠点とする[ローカルアイドルユニット](../Page/在地偶像.md "wikilink")「[LinQ](../Page/LinQ.md "wikilink")」に所属している。
-2.  [新田恵利&生稲晃子、アイドル育成ゲームで声優初挑戦](http://news.mynavi.jp/news/2015/03/06/584/)
-    - マイナビニュース（）、2015年3月6日
+2.  [新田恵利&生稲晃子、アイドル育成ゲームで声優初挑戦](http://news.mynavi.jp/news/2015/03/06/584/) - マイナビニュース（）、2015年3月6日
 3.
 4.  第6話で登場したネットニュースの記事より。

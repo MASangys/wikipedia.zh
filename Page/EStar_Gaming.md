@@ -1,10 +1,10 @@
-**eStar
-Gaming**，是中国一个职业电子竞技俱乐部。目前设有[王者荣耀](../Page/王者荣耀.md "wikilink")，[QQ飞车](../Page/QQ飞车.md "wikilink")，[绝地求生和](https://zh.wikipedia.org/wiki/绝地求生 "wikilink")[风暴英雄](../Page/风暴英雄.md "wikilink")。
+**eStar Gaming**，是中国一个职业电子竞技俱乐部。目前设有[王者荣耀](../Page/王者荣耀.md "wikilink")，[QQ飞车](../Page/QQ飞车.md "wikilink")，[绝地求生和](https://zh.wikipedia.org/wiki/绝地求生 "wikilink")[风暴英雄](../Page/风暴英雄.md "wikilink")。
+
+**eStar Gaming**是又中国著名电竞玩家XiaoOt所创立，起初是以[风暴英雄](../Page/风暴英雄.md "wikilink")为主。但因[风暴英雄](../Page/风暴英雄.md "wikilink")的影响力下降，导致俱乐部经营出现问题。为求维持俱乐部的运营，俱乐部决定开始设立其他游戏分部。
 
 ## 历史
 
-eStar全称为eStar
-Gaming，是一家中国电子竞技俱乐部。是由知名电竞选手孙力伟(xiaoOt)所创办的职业电竞俱乐部，于在2014正式成立，总部位于[武汉](https://zh.wikipedia.org/wiki/武汉 "wikilink")，2015年初为了发展所需要而将总部转至[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")。在初期estar只有[风暴英雄一个分部](../Page/风暴英雄.md "wikilink")，并在[中国获得多个冠军](https://zh.wikipedia.org/wiki/中国 "wikilink")。到了2017年因为运营问题而estar逐渐放弃[风暴英雄分部](../Page/风暴英雄.md "wikilink")，而在2016年因[王者荣耀盛行](../Page/王者荣耀.md "wikilink")，estar在2016年中正式成立[王者荣耀分部](../Page/王者荣耀.md "wikilink")。而在2016年7月estar获得首届[王者榮耀冠軍盃的总冠军](../Page/王者榮耀冠軍盃.md "wikilink")，estar成为[王者荣耀历史上首个全国冠军](../Page/王者荣耀.md "wikilink")。在2018年estar正式成立[QQ飞车分部](../Page/QQ飞车.md "wikilink")，但成绩却一般。而在2019年春季赛[KPL联赛eStar成功晋级总决赛在总决赛eStar以](https://zh.wikipedia.org/wiki/王者荣耀职业联赛 "wikilink")4比打败[RNG.M活动总冠军](https://zh.wikipedia.org/wiki/RNG "wikilink")，这是eStar[王者荣耀自](../Page/王者荣耀.md "wikilink")2016创建以来首个顶级联赛冠军。\[1\]\[2\]\[3\]\[4\]
+eStar全称为eStar Gaming，是一家中国电子竞技俱乐部。是由知名电竞选手孙力伟(xiaoOt)所创办的职业电竞俱乐部，于在2014正式成立，总部位于[武汉](https://zh.wikipedia.org/wiki/武汉 "wikilink")，2015年初为了发展所需要而将总部转至[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")。在初期estar只有[风暴英雄](../Page/风暴英雄.md "wikilink")一个分部，并在[中国获得多个冠军](https://zh.wikipedia.org/wiki/中国 "wikilink")。到了2017年因为运营问题而estar逐渐放弃[风暴英雄](../Page/风暴英雄.md "wikilink")分部，而在2016年因[王者荣耀](../Page/王者荣耀.md "wikilink")盛行，estar在2016年中正式成立[王者荣耀](../Page/王者荣耀.md "wikilink")分部。而在2016年7月estar获得首届[王者榮耀冠軍盃](../Page/王者榮耀冠軍盃.md "wikilink")的总冠军，estar成为[王者荣耀](../Page/王者荣耀.md "wikilink")历史上首个全国冠军。在2018年estar正式成立[QQ飞车](../Page/QQ飞车.md "wikilink")分部，但成绩却一般。而在2019年春季赛[KPL联赛eStar成功晋级总决赛在总决赛eStar以](https://zh.wikipedia.org/wiki/王者荣耀职业联赛 "wikilink")4比打败[RNG.M活动总冠军](https://zh.wikipedia.org/wiki/RNG "wikilink")，这是eStar[王者荣耀](../Page/王者荣耀.md "wikilink")自2016创建以来首个顶级联赛冠军。\[1\]\[2\]\[3\]\[4\]
 
 ## 队员名单(王者荣耀)
 

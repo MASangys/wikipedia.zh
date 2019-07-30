@@ -1,5 +1,4 @@
-\-- module timing individual functions -- @license (CC-BY-SA-3.0) --
-@copyright John Erling Blad \<jeblad@gmail.com\>
+\-- module timing individual functions -- @license (CC-BY-SA-3.0) -- @copyright John Erling Blad \<jeblad@gmail.com\>
 
 \-- @var The table holding this modules exported members local p = {
 
@@ -8,9 +7,7 @@
 
 }
 
-\-- access function for the number of items in each sets -- @param
-number new count of items in each set -- @return number of items in each
-set function p.count( num )
+\-- access function for the number of items in each sets -- @param number new count of items in each set -- @return number of items in each set function p.count( num )
 
 `   if num then`
 `       assert(num>0, "Value of 'num' can\'t be zero")`
@@ -20,8 +17,7 @@ set function p.count( num )
 
 end
 
-\-- access function for the number of sets -- @param number new count of
-sets -- @return number of sets function p.sets( num )
+\-- access function for the number of sets -- @param number new count of sets -- @return number of sets function p.sets( num )
 
 `   if num then`
 `       assert(num>0, "Value of 'sets' can\'t be zero")`
@@ -31,13 +27,7 @@ sets -- @return number of sets function p.sets( num )
 
 end
 
-\-- calculate the statistics for time series, and report mean and
-variance -- for some background on this calculation, see
-[w:en:average](https://zh.wikipedia.org/wiki/w:en:average "wikilink")
-and [w:en:Standard
-deviation](https://zh.wikipedia.org/wiki/w:en:Standard_deviation "wikilink")
--- @param table timing is a sequence of time differences -- @return
-table of mean and variance function p.stats( timing )
+\-- calculate the statistics for time series, and report mean and variance -- for some background on this calculation, see [w:en:average](https://zh.wikipedia.org/wiki/w:en:average "wikilink") and [w:en:Standard deviation](https://zh.wikipedia.org/wiki/w:en:Standard_deviation "wikilink") -- @param table timing is a sequence of time differences -- @return table of mean and variance function p.stats( timing )
 
 `   local minVal = timing[1]`
 `   local maxVal = timing[1]`
@@ -54,10 +44,7 @@ table of mean and variance function p.stats( timing )
 
 end
 
-\-- runner that iterates a provided function while taking the time for
-each chunk of iterations -- @param function func that is the kernel of
-the iterations -- @return table of runtime for the given function
-function p.runner(func, ...)
+\-- runner that iterates a provided function while taking the time for each chunk of iterations -- @param function func that is the kernel of the iterations -- @return table of runtime for the given function function p.runner(func, ...)
 
 `   -- measure the function`
 `   local time = {}`
@@ -75,22 +62,14 @@ function p.runner(func, ...)
 
 end
 
-\-- combine the measurements into a new form -- for some background on
-this calculation, see [w:en:Sum of normally distributed random
-variables](https://zh.wikipedia.org/wiki/w:en:Sum_of_normally_distributed_random_variables "wikilink")
--- @param table tick stats for the baseline -- @param table tack stats
-for the observed function -- @return table with the combined stats,
-shifted from variance to standard deviation function p.combine(tick,
-tack)
+\-- combine the measurements into a new form -- for some background on this calculation, see [w:en:Sum of normally distributed random variables](https://zh.wikipedia.org/wiki/w:en:Sum_of_normally_distributed_random_variables "wikilink") -- @param table tick stats for the baseline -- @param table tack stats for the observed function -- @return table with the combined stats, shifted from variance to standard deviation function p.combine(tick, tack)
 
 `   -- adjust the actual measurement for the baseline`
 `   return { tack[1] - tick[1], math.pow(tack[2] + tick[2], 0.5), tick[3], tick[4] }`
 
 end
 
-\-- formatter for the result produced by the runner -- @param table
-timing as a mean and a standard deviation -- @return string describing
-the result function p.report( timing )
+\-- formatter for the result produced by the runner -- @param table timing as a mean and a standard deviation -- @return string describing the result function p.report( timing )
 
 `   local messages = {}`
 `   messages['call-result'] = 'Each call was running for about $1 seconds.\n'`
@@ -124,8 +103,7 @@ the result function p.report( timing )
 
 end
 
-\-- a dummy function that is used for a baseline measure -- @return nil
-function p.nop()
+\-- a dummy function that is used for a baseline measure -- @return nil function p.nop()
 
 `   return nil`
 

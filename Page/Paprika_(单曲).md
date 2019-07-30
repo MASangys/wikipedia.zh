@@ -1,12 +1,4 @@
-数字单曲 | Recorded = 2018年 | Genre =
-[日本流行音乐](https://zh.wikipedia.org/wiki/日本流行音乐 "wikilink") |
-Length = 12分21秒 | Label =
-[索尼音乐唱片](../Page/Sony_Music_Records.md "wikilink") | Writer
-= [米津玄师](https://zh.wikipedia.org/wiki/米津玄师 "wikilink") | Producer =
-米津玄师 | Certification =
-\*[金唱片](../Page/金唱片.md "wikilink")（数字下载，RIAJ
-2019年2月\[1\]） | Chart position =  | Last single = 无 | This single =
-****
+数字单曲 | Recorded = 2018年 | Genre = [日本流行音乐](https://zh.wikipedia.org/wiki/日本流行音乐 "wikilink") | Length = 12分21秒 | Label = [索尼音乐唱片](../Page/Sony_Music_Records.md "wikilink") | Writer = [米津玄师](https://zh.wikipedia.org/wiki/米津玄师 "wikilink") | Producer = 米津玄师 | Certification = \*[金唱片](../Page/金唱片.md "wikilink")（数字下载，RIAJ 2019年2月\[1\]） | Chart position =  | Last single = 无 | This single = ****
 <small>（2018年）</small> | Next single = | Misc =  }}
 
 **《》**（，[国际音标](https://zh.wikipedia.org/wiki/国际音标 "wikilink")：）是由日本小学生组合[Foorin发行的一张单曲](https://zh.wikipedia.org/wiki/Foorin "wikilink")，该单曲由[米津玄师担任词曲作者并兼任制作人](https://zh.wikipedia.org/wiki/米津玄师 "wikilink")。《》于2018年8月15日由[索尼音乐唱片以](../Page/Sony_Music_Records.md "wikilink")[CD和数字单曲形式发行](https://zh.wikipedia.org/wiki/CD#音频CD "wikilink")。\[2\]\[3\]\[4\]
@@ -15,10 +7,9 @@ Length = 12分21秒 | Label =
 
 《Paprika》是小学生组合[Foorin的首支音乐作品](https://zh.wikipedia.org/wiki/Foorin "wikilink")，作品名因[红甜椒的可爱造型得名但和音乐内容及主题并无必然的联系](../Page/紅甜椒粉.md "wikilink")。\[5\]
 
-2018年7月19日，[YouTube上首先释出了该单曲的舞蹈音乐录影带](../Page/YouTube.md "wikilink")；随后在8月10日发布了名为“世界观音乐录影带”的视频。单曲由[米津玄师负责词曲制作及音乐制作](https://zh.wikipedia.org/wiki/米津玄师 "wikilink")；舞蹈则由和[菅原小春负责编排](../Page/菅原小春.md "wikilink")。\[6\]
+2018年7月19日，[YouTube](../Page/YouTube.md "wikilink")上首先释出了该单曲的舞蹈音乐录影带；随后在8月10日发布了名为“世界观音乐录影带”的视频。单曲由[米津玄师负责词曲制作及音乐制作](https://zh.wikipedia.org/wiki/米津玄师 "wikilink")；舞蹈则由和[菅原小春](../Page/菅原小春.md "wikilink")负责编排。\[6\]
 
-NHK将在8月到9月期间于其节目《》中播放该单曲。单曲表演的舞台由Foorin的舞蹈构成，同时[2020年夏季奥林匹克运动会吉祥物](../Page/2020年夏季奥林匹克运动会.md "wikilink")[Miraitowa和Someity也会出现](https://zh.wikipedia.org/wiki/Miraitowa和Someity "wikilink")。\[7\]
-同时该单曲也成为NHK的2020年东京奥运会应援曲。\[8\]
+NHK将在8月到9月期间于其节目《》中播放该单曲。单曲表演的舞台由Foorin的舞蹈构成，同时[2020年夏季奥林匹克运动会](../Page/2020年夏季奥林匹克运动会.md "wikilink")吉祥物[Miraitowa和Someity也会出现](https://zh.wikipedia.org/wiki/Miraitowa和Someity "wikilink")。\[7\] 同时该单曲也成为NHK的2020年东京奥运会应援曲。\[8\]
 
 ## 收录内容
 
@@ -88,13 +79,10 @@ NHK将在8月到9月期间于其节目《》中播放该单曲。单曲表演的
 
 ## 外部链接
 
-  - [《》](http://reissuerecords.net/2018/08/10/%E3%80%88%EF%BD%8E%EF%BD%88%EF%BD%8B%E3%80%892020%E5%BF%9C%E6%8F%B4%E3%82%BD%E3%83%B3%E3%82%B0%E3%81%AB%E3%80%81%E6%96%B0%E6%9B%B2%E3%80%8C%E3%83%91%E3%83%97%E3%83%AA%E3%82%AB%E3%80%8D%E3%82%92/)在Reissue
-    Records官网上的介绍
+  - [《》](http://reissuerecords.net/2018/08/10/%E3%80%88%EF%BD%8E%EF%BD%88%EF%BD%8B%E3%80%892020%E5%BF%9C%E6%8F%B4%E3%82%BD%E3%83%B3%E3%82%B0%E3%81%AB%E3%80%81%E6%96%B0%E6%9B%B2%E3%80%8C%E3%83%91%E3%83%97%E3%83%AA%E3%82%AB%E3%80%8D%E3%82%92/)在Reissue Records官网上的介绍
   - [《》](https://www.nhk.or.jp/tokyo2020/song/)在NHK官网上<sup>相关内容仅限日本地区用户浏览</sup>
 
-[Category:2018年单曲](https://zh.wikipedia.org/wiki/Category:2018年单曲 "wikilink")
-[Category:日本索尼音樂娛樂歌曲](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂歌曲 "wikilink")
-[Category:2020年夏季奧林匹克運動會](https://zh.wikipedia.org/wiki/Category:2020年夏季奧林匹克運動會 "wikilink")
+[Category:2018年单曲](https://zh.wikipedia.org/wiki/Category:2018年单曲 "wikilink") [Category:日本索尼音樂娛樂歌曲](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂歌曲 "wikilink") [Category:2020年夏季奧林匹克運動會](https://zh.wikipedia.org/wiki/Category:2020年夏季奧林匹克運動會 "wikilink")
 
 1.  [有料音楽配信認定](https://www.riaj.or.jp/f/data/cert/hs.html)
 

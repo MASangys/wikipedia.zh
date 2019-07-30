@@ -1,22 +1,63 @@
-《**劇場版 假面騎士ZI-O Over
-Quartzer**》（），是日本特攝節目《[假面騎士ZI-O](https://zh.wikipedia.org/wiki/假面騎士ZI-O "wikilink")》的獨立劇場版。日本地區預定於2019年7月26日上映。
+《**劇場版 假面騎士ZI-O Over Quartzer**》（），是日本特攝節目《[假面騎士ZI-O](https://zh.wikipedia.org/wiki/假面騎士ZI-O "wikilink")》的獨立劇場版。日本預定於2019年7月26日上映。
 
-此外《[超級戰隊系列](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")》的作品《[騎士龍戰隊龍裝者](../Page/騎士龍戰隊龍裝者.md "wikilink")》劇場版《[騎士龍戰隊龍裝者
-THE MOVIE
-時空穿梭！恐龍大恐慌\!\!](https://zh.wikipedia.org/wiki/騎士龍戰隊龍裝者_THE_MOVIE_時空穿梭！恐龍大恐慌!! "wikilink")》亦同步上映。
+此外《[超級戰隊系列](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")》的作品《[騎士龍戰隊龍裝者](../Page/騎士龍戰隊龍裝者.md "wikilink")》劇場版《[騎士龍戰隊龍裝者 THE MOVIE 時空穿梭！恐龍大恐慌\!\!](https://zh.wikipedia.org/wiki/騎士龍戰隊龍裝者_THE_MOVIE_時空穿梭！恐龍大恐慌!! "wikilink")》亦同步上映。
 
 本作劇場版的口號為「平成假面騎士，最終章。」
 
 ## 本作特色
 
-  - 本作劇場版為《[假面騎士ZI-O](https://zh.wikipedia.org/wiki/假面騎士ZI-O "wikilink")》的「真結局」。
+  - 本作继《[剧场版 假面骑士Build Be The One](https://zh.wikipedia.org/wiki/剧场版_假面骑士Build_Be_The_One "wikilink")》后，再次将TV本篇主题曲作为剧场版的主题。
+
+<!-- end list -->
+
+  - 本作繼《[劇場版 假面騎士EX-AID True·Ending](../Page/劇場版_假面騎士EX-AID_True·Ending.md "wikilink")》後，劇場版的時間線為TV本篇最後話之後，即為《[假面騎士ZI-O](https://zh.wikipedia.org/wiki/假面騎士ZI-O "wikilink")》的「真結局」，同時也是平成假面騎士的「The·紀念作」。\[1\]。
+
+<!-- end list -->
+
+  - 本作繼《[劇場版 假面騎士DECADE 全騎士 VS 大修卡](https://zh.wikipedia.org/wiki/劇場版_假面騎士DECADE_全騎士_VS_大修卡 "wikilink")》後，全平成假面騎士將再次齊聚，並且還是繼《假面騎士Wizard》最終話後，其最終形態一一具現。
+
+<!-- end list -->
+
+  - 本作繼《[劇場版 假面騎士Ghost 100個眼魂與Ghost命運的瞬間](https://zh.wikipedia.org/wiki/劇場版_假面騎士Ghost_100個眼魂與Ghost命運的瞬間 "wikilink")》後，暌違三年所登場的劇場版騎士人數增至一人以上，同其造型更參考了活跃於平成時代卻被歸類於昭和騎士的部分騎士\[2\]。
+
+<!-- end list -->
+
+  - 本作劇場版將叙述《[假面騎士Drive](../Page/假面騎士Drive.md "wikilink")》的物語，並且相關角色，例如飾演「假面騎士Mach / 詩島剛」的稻葉友將繼《[劇場版 假面騎士Drive SURPRISE FUTURE](https://zh.wikipedia.org/wiki/劇場版_假面騎士Drive_SURPRISE_FUTURE "wikilink")》後再度在劇場版上登場。\[3\]。
+
+<!-- end list -->
+
+  - 本作劇場版的首要惡役騎士——假面騎士Barlckxs的飾演者由TV本篇主題曲主唱之一——ISSA擔任。
+
+<!-- end list -->
+
+  - 下部系列作《[假面騎士ZERO-ONE](../Page/假面騎士ZERO-ONE.md "wikilink")》的主角騎士假面騎士Zero-One將在本作中先行登場。
 
 ## 故事概要
+
+  -
+    終於，那個時刻到來了……！“當收集所有手錶之時，霸道就會被展開”。
+
+<!-- end list -->
+
+  -
+    常磐庄吾 = 假面騎士ZI-O、他的存在是最好還是最壞？當時，出現了歷史的管理者——“Quartzer”。王誕生後隱藏著巨大的陰謀，庄吾、月津、月读、Woz等彼此交織的各自的想法，決定了一個未來。
+
+<!-- end list -->
+
+  -
+    世界會開始崩潰嗎？所謂的“逢魔时王”，還有“假面騎士ZI-O”！？
+
+<!-- end list -->
+
+  -
+    終於『假面騎士ZI-O』最大的謎將會揭開！！
 
 ## 用語
 
   - Quartzer
     原文： / *Quartzer*
+    本作敵役組織，稱作「時間的管理者」，由假面骑士Barlckxs担任首领。
+    另外「假面骑士Zonjis / 下弦」、「假面骑士Zamonas / 上弦」以及TV本篇的「假面骑士Woz / 黑Woz」也是該組織的一員，除了首領外所有人服裝與黑Woz的几乎一樣。
 
 ## 登場人物
 
@@ -25,39 +66,32 @@ THE MOVIE
 ****（飾）
 
   -
-    **假面騎士ZI-O**的變身者。
 
 ****（飾）
 
   -
-    **假面騎士Geiz**的變身者。
 
 ****（）
 
   -
-    來自50年後未來的少女
 
 ****（飾）
 
   -
-    **假面騎士Woz**的變身者。
 
-****（[生瀨勝久飾](../Page/生瀨勝久.md "wikilink")）
-
-  -
-    常磐莊吾的大叔父，也是時鐘店「」的店主。
-
-****（飾，[小山力也聲](../Page/小山力也.md "wikilink")）
+****（[生瀨勝久](../Page/生瀨勝久.md "wikilink")飾）
 
   -
-    2068年至2069年的常磐莊吾。
+
+****（飾，[小山力也](../Page/小山力也.md "wikilink")聲）
+
+  -
 
 ### 《假面騎士Drive》原登場人物
 
 ****（[稻葉友飾](https://zh.wikipedia.org/wiki/稻葉友 "wikilink")）
 
   -
-    **假面騎士Mach**的變身者。
 
 ****（聲）
 
@@ -68,31 +102,36 @@ THE MOVIE
 ****（飾）
 
   -
-    歷史中被稱為“魔王”的英雄
+    歷史中被稱為“魔王”的英雄。
 
 ****（飾）
 
   -
-    織田信長的家臣忍者
+    織田信長的家臣忍者。
 
-****（[齊藤秀翼飾](../Page/齊藤秀翼.md "wikilink")）
-
-  -
-    **假面騎士Zamonas**的變身者。
-
-****（[木瓜鈴木飾](https://zh.wikipedia.org/wiki/木瓜鈴木 "wikilink")）
+****（[蒼葉惠瑠飾](https://zh.wikipedia.org/wiki/蒼葉惠瑠 "wikilink")）
 
   -
-    **假面騎士Zonjis**的變身者。
 
 ****（[ISSA飾](https://zh.wikipedia.org/wiki/ISSA "wikilink")）
 
   -
-    **假面騎士Balrckx**的變身者。
+    **假面騎士Barlckxs**的變身者。
 
-****（、、、、[KENZO](https://zh.wikipedia.org/wiki/KENZO "wikilink")、飾）
+****（[齊藤秀翼](../Page/齊藤秀翼.md "wikilink")飾）
 
   -
+    **假面騎士Zamonas**的變身者，Quartzer的成員。
+
+****（[木瓜鈴木飾](https://zh.wikipedia.org/wiki/木瓜鈴木 "wikilink")）
+
+  -
+    **假面騎士Zonjis**的變身者，Quartzer的成員。
+
+****（聲）
+
+  -
+    **假面騎士ZERO-ONE**的變身者。
 
 ## 本作限定登場假面騎士/形態
 
@@ -104,11 +143,11 @@ THE MOVIE
 
 #### 變身模式
 
-### 假面騎士Balrckx
+### 假面騎士Barlckxs
 
   -
     變身者：Quartzer的首領（替身演員：、CV：ISSA）
-    原文： / *Kamen Rider Balrckx*
+    原文： / *Kamen Rider Barlckxs*
 
 #### 變身模式
 
@@ -149,7 +188,7 @@ THE MOVIE
   - 原作 - [石之森章太郎](../Page/石之森章太郎.md "wikilink")
   - 導演 - [田崎龍太](https://zh.wikipedia.org/wiki/田崎龍太 "wikilink")
   - 劇本 - [下山健人](../Page/下山健人.md "wikilink")
-  - 音樂 - [佐藤俊彦](https://zh.wikipedia.org/wiki/佐藤俊彦 "wikilink")
+  - 音樂 - [佐橋俊彦](https://zh.wikipedia.org/wiki/佐橋俊彦 "wikilink")
   - 動作導演 - [宮崎剛](https://zh.wikipedia.org/wiki/宮崎剛 "wikilink")（JAE）
   - 特攝導演 - [佛田洋](https://zh.wikipedia.org/wiki/佛田洋 "wikilink")（特攝研究所）
   - 發行 - [東映](../Page/東映.md "wikilink")
@@ -163,5 +202,8 @@ THE MOVIE
 
 ## 参考资料
 
-[Category:假面騎士系列電影作品](https://zh.wikipedia.org/wiki/Category:假面騎士系列電影作品 "wikilink")
-[Category:2019年日本電影](https://zh.wikipedia.org/wiki/Category:2019年日本電影 "wikilink")
+[Category:假面騎士系列電影作品](https://zh.wikipedia.org/wiki/Category:假面騎士系列電影作品 "wikilink") [Category:2019年日本電影](https://zh.wikipedia.org/wiki/Category:2019年日本電影 "wikilink")
+
+1.
+2.  即假面騎士Black RX、假面騎士·真、假面騎士ZO、假面騎士J 和假面騎士Amazons的三名騎士
+3.

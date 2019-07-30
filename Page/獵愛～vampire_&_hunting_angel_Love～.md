@@ -1,7 +1,4 @@
-《**獵愛～vampire & hunting angel
-Love～**》，[長鴻出版社旗下](../Page/長鴻出版社.md "wikilink")
-Think & Write
-系列的[輕小說](../Page/輕小說.md "wikilink")，作者[九祐小姬](https://zh.wikipedia.org/wiki/九祐小姬 "wikilink")，繪者Uily，2019年1月出版第一冊。\[1\]
+《**獵愛～vampire & hunting angel Love～**》，[長鴻出版社](../Page/長鴻出版社.md "wikilink")旗下 Think & Write 系列的[輕小說](../Page/輕小說.md "wikilink")，作者[九祐小姬](https://zh.wikipedia.org/wiki/九祐小姬 "wikilink")，繪者Uily，2019年1月出版第一冊。\[1\]
 
 ## 故事大綱
 
@@ -15,7 +12,7 @@ Think & Write
 
 **伊莎蓓兒**（種族：獵天使）
 
-暱稱「蓓兒」，獵天使大神官阿洛費德克之女（[雙胞胎妹妹](../Page/雙胞胎.md "wikilink")），漫畫驅魔神探的瘋狂愛好者，擅長槍法。外貌鮮少有獵天使一族的特徵，也不具備獵天使一族的特殊能力，因常被譏笑為「雞翅膀蓓兒」而感到自卑不已。性格外柔內剛，感情用事，兼之好勝固執，因與父親感情不睦，隻身搬到人類的都市居住。人類蘇結花與殭魔女葛蕾塔為其至交好友。
+暱稱「蓓兒」，獵天使大神官阿洛費德克之女（[雙胞胎](../Page/雙胞胎.md "wikilink")妹妹），漫畫驅魔神探的瘋狂愛好者，擅長槍法。外貌鮮少有獵天使一族的特徵，也不具備獵天使一族的特殊能力，因常被譏笑為「雞翅膀蓓兒」而感到自卑不已。性格外柔內剛，感情用事，兼之好勝固執，因與父親感情不睦，隻身搬到人類的都市居住。人類蘇結花與殭魔女葛蕾塔為其至交好友。
 
 **布萊德．安．法斯特**（種族：混種吸血鬼）
 
@@ -35,7 +32,7 @@ Think & Write
 
 **伊萊**（種族：獵天使）
 
-獵天使大神官阿洛費德克之子（[雙胞胎兄長](../Page/雙胞胎.md "wikilink")），外號「巨翼伊萊」，戰鬥能力高強。性格高傲自負，十分疼愛妹妹伊莎蓓兒。
+獵天使大神官阿洛費德克之子（[雙胞胎](../Page/雙胞胎.md "wikilink")兄長），外號「巨翼伊萊」，戰鬥能力高強。性格高傲自負，十分疼愛妹妹伊莎蓓兒。
 
 **南條優斗**（種族：人類）
 
@@ -94,11 +91,7 @@ Think & Write
 
 <references />
 
-[Category:台灣輕小說](https://zh.wikipedia.org/wiki/Category:台灣輕小說 "wikilink")
-[Category:奇幻小說](https://zh.wikipedia.org/wiki/Category:奇幻小說 "wikilink")
-[Category:虛擬世界背景作品](https://zh.wikipedia.org/wiki/Category:虛擬世界背景作品 "wikilink")
-[Category:吸血鬼題材小說](https://zh.wikipedia.org/wiki/Category:吸血鬼題材小說 "wikilink")
-[Category:2019年小說](https://zh.wikipedia.org/wiki/Category:2019年小說 "wikilink")
+[Category:台灣輕小說](https://zh.wikipedia.org/wiki/Category:台灣輕小說 "wikilink") [Category:奇幻小說](https://zh.wikipedia.org/wiki/Category:奇幻小說 "wikilink") [Category:虛擬世界背景作品](https://zh.wikipedia.org/wiki/Category:虛擬世界背景作品 "wikilink") [Category:吸血鬼題材小說](https://zh.wikipedia.org/wiki/Category:吸血鬼題材小說 "wikilink") [Category:2019年小說](https://zh.wikipedia.org/wiki/Category:2019年小說 "wikilink")
 
 1.
 

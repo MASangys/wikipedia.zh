@@ -1,7 +1,4 @@
-《**Look At
-Me**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBCevery](https://zh.wikipedia.org/wiki/MBC "wikilink")1電視台2018年推出的綜藝節目，由[金栽經](../Page/金栽經.md "wikilink")（[Rainbow](../Page/Rainbow_\(音樂團體\).md "wikilink")）\[1\]、[Lizzy](../Page/Lizzy_\(韓國歌手\).md "wikilink")（[After
-School](../Page/After_School.md "wikilink")）\[2\]、[南寶拉](../Page/南寶拉.md "wikilink")、[Sowon](../Page/Sowon.md "wikilink")（[GFRIEND](../Page/GFRIEND.md "wikilink")）共同主持\[3\]，節目主軸為向觀眾傳達最新美妝情報的Beauty
-curating show。
+《**Look At Me**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBCevery](https://zh.wikipedia.org/wiki/MBC "wikilink")1電視台2018年推出的綜藝節目，由[金栽經](../Page/金栽經.md "wikilink")（[Rainbow](../Page/Rainbow_\(音樂團體\).md "wikilink")）\[1\]、[Lizzy](../Page/Lizzy_\(韓國歌手\).md "wikilink")（[After School](../Page/After_School.md "wikilink")）\[2\]、[南寶拉](../Page/南寶拉.md "wikilink")、[Sowon](../Page/Sowon.md "wikilink")（[GFRIEND](../Page/GFRIEND.md "wikilink")）共同主持\[3\]，節目主軸為向觀眾傳達最新美妝情報的Beauty curating show。
 
 ## 各集內容
 
@@ -57,9 +54,7 @@ curating show。
 
   - \[ 官方網站\]
 
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:MBCevery1](https://zh.wikipedia.org/wiki/Category:MBCevery1 "wikilink")
+[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:MBCevery1](https://zh.wikipedia.org/wiki/Category:MBCevery1 "wikilink")
 
 1.
 2.

@@ -1,5 +1,4 @@
-《**The
-hit**》（），為韓國[KBS電視台於](https://zh.wikipedia.org/wiki/KBS "wikilink")2019年推出的綜藝節目\[1\]，由[宋恩伊](../Page/宋恩伊.md "wikilink")、[金信英等人共同主持](../Page/金信英.md "wikilink")\[2\]，節目主軸為將選出曾經風靡一時的熱門歌以及各個音樂人的主打歌，將兩首歌糅合成同一首歌曲，由歌手們展開競演，節目將包含選擇各個音樂人代表主打歌的過程以及分組、歌曲的制作到整個舞台的演出過程\[3\]\[4\]。
+《**The hit**》（），為韓國[KBS電視台於](https://zh.wikipedia.org/wiki/KBS "wikilink")2019年推出的綜藝節目\[1\]，由[宋恩伊](../Page/宋恩伊.md "wikilink")、[金信英](../Page/金信英.md "wikilink")等人共同主持\[2\]，節目主軸為將選出曾經風靡一時的熱門歌以及各個音樂人的主打歌，將兩首歌糅合成同一首歌曲，由歌手們展開競演，節目將包含選擇各個音樂人代表主打歌的過程以及分組、歌曲的制作到整個舞台的演出過程\[3\]\[4\]。
 
 ## 各集內容
 
@@ -109,9 +108,7 @@ hit**》（），為韓國[KBS電視台於](https://zh.wikipedia.org/wiki/KBS "w
 
   - [官方網站](http://program.kbs.co.kr/2tv/enter/thehit/pc/)
 
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:KBS](https://zh.wikipedia.org/wiki/Category:KBS "wikilink")
+[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:KBS](https://zh.wikipedia.org/wiki/Category:KBS "wikilink")
 
 1.
 2.

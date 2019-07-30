@@ -6,7 +6,6 @@ B吧H牧場的座標為\[1\]，而該地的平均海拔高度為239米（即784�
 
 ## 參考文獻
 
-[Category:加利福尼亞州非建制地區](https://zh.wikipedia.org/wiki/Category:加利福尼亞州非建制地區 "wikilink")
-[Category:河濱縣非建制地區_(加利福尼亞州)](https://zh.wikipedia.org/wiki/Category:河濱縣非建制地區_\(加利福尼亞州\) "wikilink")
+[Category:加利福尼亞州非建制地區](https://zh.wikipedia.org/wiki/Category:加利福尼亞州非建制地區 "wikilink") [Category:河濱縣非建制地區_(加利福尼亞州)](https://zh.wikipedia.org/wiki/Category:河濱縣非建制地區_\(加利福尼亞州\) "wikilink")
 
 1.

@@ -1,11 +1,8 @@
-**《TAEYEON Concert
-"PERSONA"》**是韓國女子組合[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[太妍個人第二次演唱會](https://zh.wikipedia.org/wiki/金太妍 "wikilink")。
+**《TAEYEON Concert "PERSONA"》**是韓國女子組合[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[太妍個人第二次演唱會](https://zh.wikipedia.org/wiki/金太妍 "wikilink")。
 
 ## 概要
 
-2017年4月7日[SM娛樂透過官網公開](../Page/SM娛樂.md "wikilink")[少女時代成員](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[太妍即將於](https://zh.wikipedia.org/wiki/金太妍 "wikilink")5/12-14日在首爾奧林匹克公園奧林匹克大廳舉辦單獨演唱會TAEYEON
-solo concert
-PERSONA。[太妍這次的巡迴演出將以首爾為起點](https://zh.wikipedia.org/wiki/金太妍 "wikilink")，陸續於香港、台北、曼谷等地與當地的粉絲們見面。\[1\]\[2\]
+2017年4月7日[SM娛樂](../Page/SM娛樂.md "wikilink")透過官網公開[少女時代成員](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[太妍即將於](https://zh.wikipedia.org/wiki/金太妍 "wikilink")5/12-14日在首爾奧林匹克公園奧林匹克大廳舉辦單獨演唱會TAEYEON solo concert PERSONA。[太妍這次的巡迴演出將以首爾為起點](https://zh.wikipedia.org/wiki/金太妍 "wikilink")，陸續於香港、台北、曼谷等地與當地的粉絲們見面。\[1\]\[2\]
 
 ## 巡迴時間表
 
@@ -131,9 +128,7 @@ PERSONA。[太妍這次的巡迴演出將以首爾為起點](https://zh.wikipedi
 
 <!-- end list -->
 
-  - [SM
-    Entertainment](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")、Dream
-    Maker Entertainment
+  - [SM Entertainment](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")、Dream Maker Entertainment
 
 <!-- end list -->
 
@@ -147,8 +142,7 @@ PERSONA。[太妍這次的巡迴演出將以首爾為起點](https://zh.wikipedi
 
 ## 參考資料
 
-[Category:韓國演唱會](https://zh.wikipedia.org/wiki/Category:韓國演唱會 "wikilink")
-[Category:2017年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2017年巡迴演唱會 "wikilink")
+[Category:韓國演唱會](https://zh.wikipedia.org/wiki/Category:韓國演唱會 "wikilink") [Category:2017年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2017年巡迴演唱會 "wikilink")
 
 1.
 2.

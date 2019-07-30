@@ -1,5 +1,4 @@
-**House Of
-Strings**是[日本](../Page/日本.md "wikilink")[音樂組合](../Page/音樂組合.md "wikilink")「[B'z](../Page/B'z.md "wikilink")」的[吉他手](https://zh.wikipedia.org/wiki/吉他手 "wikilink")[松本孝弘主要以吉他手為中心](../Page/松本孝弘.md "wikilink")，為弦樂器演奏者所成立的[唱片公司](../Page/唱片公司.md "wikilink")。
+**House Of Strings**是[日本](../Page/日本.md "wikilink")[音樂組合](../Page/音樂組合.md "wikilink")「[B'z](../Page/B'z.md "wikilink")」的[吉他手](https://zh.wikipedia.org/wiki/吉他手 "wikilink")[松本孝弘](../Page/松本孝弘.md "wikilink")主要以吉他手為中心，為弦樂器演奏者所成立的[唱片公司](../Page/唱片公司.md "wikilink")。
 
 ## 設立目的
 
@@ -7,12 +6,8 @@ Strings**是[日本](../Page/日本.md "wikilink")[音樂組合](../Page/音樂�
 
 日語原文
 
-  - 誠如上述，當初是一間以新生優秀吉他手輩出為目的而設立的唱片公司，但除了[BREAKERZ的SHINPEI職業出道以外沒有顯著的實績](../Page/BREAKERZ.md "wikilink")。迄今為止發行的所有作品皆包含松本的名義，尤其是除了「」以外，其餘皆為松本的個人名義作品。因此原本即會帶給人這是松本專用的個人唱片公司的強烈印象。
-  - HP更新從2006年開始進入停擺狀態，2010年與[Larry
-    Carlton共同製作的](https://zh.wikipedia.org/wiki/Larry_Carlton "wikilink")「」亦是由[VERMILLION
-    RECORDS發行處理](../Page/VERMILLION_RECORDS.md "wikilink")，導致「House Of
-    Strings」這間唱片公司的存在被實質地抹消了。但在2011年，以「TAKE YOUR
-    PICK」獲得[葛萊美獎為契機](../Page/葛萊美獎.md "wikilink")，2012年久違地更新了HP，並公佈發行「」。此後便成為了獨攬松本個人的官方網站。
+  - 誠如上述，當初是一間以新生優秀吉他手輩出為目的而設立的唱片公司，但除了[BREAKERZ](../Page/BREAKERZ.md "wikilink")的SHINPEI職業出道以外沒有顯著的實績。迄今為止發行的所有作品皆包含松本的名義，尤其是除了「」以外，其餘皆為松本的個人名義作品。因此原本即會帶給人這是松本專用的個人唱片公司的強烈印象。
+  - HP更新從2006年開始進入停擺狀態，2010年與[Larry Carlton共同製作的](https://zh.wikipedia.org/wiki/Larry_Carlton "wikilink")「」亦是由[VERMILLION RECORDS發行處理](../Page/VERMILLION_RECORDS.md "wikilink")，導致「House Of Strings」這間唱片公司的存在被實質地抹消了。但在2011年，以「TAKE YOUR PICK」獲得[葛萊美獎](../Page/葛萊美獎.md "wikilink")為契機，2012年久違地更新了HP，並公佈發行「」。此後便成為了獨攬松本個人的官方網站。
 
 ## 作品
 
@@ -87,8 +82,7 @@ Strings**是[日本](../Page/日本.md "wikilink")[音樂組合](../Page/音樂�
 
 <!-- end list -->
 
-  - 『第27屆[日本金唱片大獎](../Page/日本金唱片大獎.md "wikilink")』年度最佳樂器專輯（Instrumental
-    Album of the Year）『Strings Of My Soul』\[2\]
+  - 『第27屆[日本金唱片大獎](../Page/日本金唱片大獎.md "wikilink")』年度最佳樂器專輯（Instrumental Album of the Year）『Strings Of My Soul』\[2\]
 
 ## 腳註
 
@@ -108,9 +102,7 @@ Strings**是[日本](../Page/日本.md "wikilink")[音樂組合](../Page/音樂�
 
   - [House Of Strings Official Website](http://www.houseofstrings.jp/)
 
-[Category:日本唱片公司](https://zh.wikipedia.org/wiki/Category:日本唱片公司 "wikilink")
-[Category:Being](https://zh.wikipedia.org/wiki/Category:Being "wikilink")
-[Category:B'z](https://zh.wikipedia.org/wiki/Category:B'z "wikilink")
+[Category:日本唱片公司](https://zh.wikipedia.org/wiki/Category:日本唱片公司 "wikilink") [Category:Being](https://zh.wikipedia.org/wiki/Category:Being "wikilink") [Category:B'z](https://zh.wikipedia.org/wiki/Category:B'z "wikilink")
 
 1.  B'z官方粉絲俱樂部會報『be with\! vol.101』12p
 2.

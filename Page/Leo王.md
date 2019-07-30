@@ -1,8 +1,4 @@
-{{藝人 | 姓名 = 王之佑 | 類型 = 男歌手 | 圖片 = | 圖片尺寸 = | 圖片簡介 = | 英文名 = Leo | 綽號 = |
-其他藝名 = | 國籍 =  | 出生日期 =  | 出生地點 =
-
-**Leo王**（，），本名**王之佑**，臺灣[高雄人](https://zh.wikipedia.org/wiki/高雄 "wikilink")，臺灣搖滾和[饒舌男歌手](../Page/饒舌.md "wikilink")，是龐克搖滾樂團[巨大的轟鳴主唱及嘻哈饒舌演唱組合](../Page/巨大的轟鳴.md "wikilink")[夜貓組成員](https://zh.wikipedia.org/wiki/夜貓組 "wikilink")。2017年結婚。2019年以專輯《無病呻吟
-有情抒情》獲得[第30屆金曲獎](https://zh.wikipedia.org/wiki/第30屆金曲獎 "wikilink")[最佳國語男歌手獎](https://zh.wikipedia.org/wiki/最佳國語男歌手獎_\(金曲獎\) "wikilink")\[1\]。
+**Leo王**（，），本名**王之佑**，來自臺灣[高雄的搖滾和](https://zh.wikipedia.org/wiki/高雄 "wikilink")[饒舌](../Page/饒舌.md "wikilink")男歌手，是龐克搖滾樂團[巨大的轟鳴](../Page/巨大的轟鳴.md "wikilink")主唱及嘻哈饒舌演唱組合[夜貓組成員](https://zh.wikipedia.org/wiki/夜貓組 "wikilink")。2017年結婚。2019年以專輯《無病呻吟 有情抒情》獲得[第30屆金曲獎](https://zh.wikipedia.org/wiki/第30屆金曲獎 "wikilink")[最佳國語男歌手獎](https://zh.wikipedia.org/wiki/最佳國語男歌手獎_\(金曲獎\) "wikilink")\[1\]。
 
 ## 音樂作品
 
@@ -331,16 +327,6 @@
 
 [Category:台灣華語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:台灣華語流行音樂歌手 "wikilink")
 
-[Category:台灣饒舌歌手](https://zh.wikipedia.org/wiki/Category:台灣饒舌歌手 "wikilink")
-[Category:台灣嘻哈歌手](https://zh.wikipedia.org/wiki/Category:台灣嘻哈歌手 "wikilink")
-[Category:台灣嘻哈音樂家](https://zh.wikipedia.org/wiki/Category:台灣嘻哈音樂家 "wikilink")
-[Category:台灣搖滾歌手](https://zh.wikipedia.org/wiki/Category:台灣搖滾歌手 "wikilink")
-[Category:台灣創作歌手](https://zh.wikipedia.org/wiki/Category:台灣創作歌手 "wikilink")
-[Category:台灣男歌手](https://zh.wikipedia.org/wiki/Category:台灣男歌手 "wikilink")
-[Category:金曲獎最佳國語男歌手獎獲得者](https://zh.wikipedia.org/wiki/Category:金曲獎最佳國語男歌手獎獲得者 "wikilink")
-[Category:國立臺灣大學校友](https://zh.wikipedia.org/wiki/Category:國立臺灣大學校友 "wikilink")
-[Category:高雄市人](https://zh.wikipedia.org/wiki/Category:高雄市人 "wikilink")
-[Category:王姓](https://zh.wikipedia.org/wiki/Category:王姓 "wikilink")
+[Category:台灣饒舌歌手](https://zh.wikipedia.org/wiki/Category:台灣饒舌歌手 "wikilink") [Category:台灣嘻哈歌手](https://zh.wikipedia.org/wiki/Category:台灣嘻哈歌手 "wikilink") [Category:台灣嘻哈音樂家](https://zh.wikipedia.org/wiki/Category:台灣嘻哈音樂家 "wikilink") [Category:台灣搖滾歌手](https://zh.wikipedia.org/wiki/Category:台灣搖滾歌手 "wikilink") [Category:台灣創作歌手](https://zh.wikipedia.org/wiki/Category:台灣創作歌手 "wikilink") [Category:台灣男歌手](https://zh.wikipedia.org/wiki/Category:台灣男歌手 "wikilink") [Category:金曲獎最佳國語男歌手獎獲得者](https://zh.wikipedia.org/wiki/Category:金曲獎最佳國語男歌手獎獲得者 "wikilink") [Category:國立臺灣大學校友](https://zh.wikipedia.org/wiki/Category:國立臺灣大學校友 "wikilink") [Category:高雄市人](https://zh.wikipedia.org/wiki/Category:高雄市人 "wikilink") [Category:王姓](https://zh.wikipedia.org/wiki/Category:王姓 "wikilink")
 
-1.  [金曲獎／嘻哈當道！Leo王獲歌王
-    首入圍打敗李榮浩、謝震廷](https://tw.news.yahoo.com/%E9%87%91%E6%9B%B2%E7%8D%8E-leo%E7%8E%8B%E7%8D%B2%E6%AD%8C%E7%8E%8B%E6%89%93%E6%95%97%E6%9D%8E%E6%A6%AE%E6%B5%A9%E8%AC%9D%E9%9C%87%E5%BB%B7-150136929.html)
+1.  [金曲獎／嘻哈當道！Leo王獲歌王 首入圍打敗李榮浩、謝震廷](https://tw.news.yahoo.com/%E9%87%91%E6%9B%B2%E7%8D%8E-leo%E7%8E%8B%E7%8D%B2%E6%AD%8C%E7%8E%8B%E6%89%93%E6%95%97%E6%9D%8E%E6%A6%AE%E6%B5%A9%E8%AC%9D%E9%9C%87%E5%BB%B7-150136929.html)

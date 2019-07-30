@@ -1,31 +1,22 @@
-**Maker Chef 3D設計廚藝公開比賽**（簡稱：Maker
-Chef）是由主辦單位WEWALab「電創坊」於2017年在香港透過創客活動平台Maker
-Faire Hong
-Kong舉辦全球首個結合傳統烹飪與3D打印技術的比賽\[1\]。目前已舉辦第二屆比賽，設有學界及公開組別，以意念設計、電腦3D繪圖、打印及後工序處理等方面評分\[2\]。
+**Maker Chef 3D設計廚藝公開比賽**（簡稱：Maker Chef）是由主辦單位WEWALab「電創坊」於2017年在香港透過創客活動平台Maker Faire Hong Kong舉辦全球首個結合傳統烹飪與3D打印技術的比賽\[1\]。目前已舉辦第二屆比賽，設有學界及公開組別，以意念設計、電腦3D繪圖、打印及後工序處理等方面評分\[2\]。
 
 ## 理念
 
-主辦單位希望以烹飪角度將3D列印融入其中，讓參賽者從中體驗3D列印技術及應用。Maker Chef
-奉行「make-to-design」理念，鼓勵懂3D
-繪圖人士發揮廚藝上的創意，做到有設計之餘，亦要「色、香、味」俱全，四種元素集於一身。
+主辦單位希望以烹飪角度將3D列印融入其中，讓參賽者從中體驗3D列印技術及應用。Maker Chef 奉行「make-to-design」理念，鼓勵懂3D 繪圖人士發揮廚藝上的創意，做到有設計之餘，亦要「色、香、味」俱全，四種元素集於一身。
 
 ## 比賽过程
 
-Maker Chef 第一及第二屆均以製作3D曲奇為比賽題材，參賽者自由想出一個主題，然後進行製作。把曲奇餅的材料攪拌混合，放入3D
-食物打印機製作出成品，然後加工，評判以設計、創意、食材及味道等方面評分。\[3\]
-[替代=](https://zh.wikipedia.org/wiki/File:3d_printed_cookies.jpg "fig:替代=")
+Maker Chef 第一及第二屆均以製作3D曲奇為比賽題材，參賽者自由想出一個主題，然後進行製作。把曲奇餅的材料攪拌混合，放入3D 食物打印機製作出成品，然後加工，評判以設計、創意、食材及味道等方面評分。\[3\] [替代=](https://zh.wikipedia.org/wiki/File:3d_printed_cookies.jpg "fig:替代=")
 
 會場提供的3D食物打印機設有三組食材料管，參賽者可放置三種材料，製作多元化的參賽食品。利用3D列印的原理，印出繁複、規律紋路或客製化文字等效果。基於食物衛生及安全考慮，比賽場地經過主辦單位的嚴格挑選，而採用的3D食物打印機亦有安全品質認証，用的打印料管為食用級，而打印平台都防刮耐磨，避免殘留髒汙。\[4\]
 
-[替代=](https://zh.wikipedia.org/wiki/File:3D_food_printer.jpg "fig:替代=")
-3D食物打印的製作過程：參賽者先用電腦3D設計軟件繪圖，再將繪畫好的3D食物模型檔案輸入3D食物打印機並讀取模型的長度、闊度及厚度等參數。參賽者將預先攪拌好的食物材料放入食材料管，按設計模型逐層地打印出來，造出各種食品形狀。最後打印完成的食物(曲奇)經焗爐烤焗完成。\[5\]
+[替代=](https://zh.wikipedia.org/wiki/File:3D_food_printer.jpg "fig:替代=") 3D食物打印的製作過程：參賽者先用電腦3D設計軟件繪圖，再將繪畫好的3D食物模型檔案輸入3D食物打印機並讀取模型的長度、闊度及厚度等參數。參賽者將預先攪拌好的食物材料放入食材料管，按設計模型逐層地打印出來，造出各種食品形狀。最後打印完成的食物(曲奇)經焗爐烤焗完成。\[5\]
 
 ## 過去活動
 
 ### 第一屆
 
-第一屆3D設計廚藝公開比賽舉辦於2017年3月至4月期間\[6\]，比賽地點為香港理工大學賽馬會創新樓。組別分為小學及初中組、高中及大專組和公開組，總共24隊參賽隊伍。比賽總分為100分，其50%評分考量點為設計及創意方面
-(細緻度、技巧、意念及創意)；另外50%為食材及味道 (味道、衛生、溝通技巧及專業形象、配搭、外觀及創意)。
+第一屆3D設計廚藝公開比賽舉辦於2017年3月至4月期間\[6\]，比賽地點為香港理工大學賽馬會創新樓。組別分為小學及初中組、高中及大專組和公開組，總共24隊參賽隊伍。比賽總分為100分，其50%評分考量點為設計及創意方面 (細緻度、技巧、意念及創意)；另外50%為食材及味道 (味道、衛生、溝通技巧及專業形象、配搭、外觀及創意)。
 
 2017年3月18日為前哨會，主辦機構向所有參賽者發佈比賽時間、地點、評分準則、所需物資等詳情。
 
@@ -37,8 +28,7 @@ Maker Chef 第一及第二屆均以製作3D曲奇為比賽題材，參賽者自�
 
 ### 第二屆
 
-第二屆3D設計廚藝公開比賽舉辦於2018年3月至7月期間\[7\]。初賽地點為香港生產力促進局知創空間，決賽地點為香港理工大學賽馬會創新樓。組別分為小學組、中學組、大專組及公開組，總共60隊參賽隊伍。比賽總分為100分，其50%評分考量點為設計及創意方面
-(主題概念、3D 打印比例、細緻度、技巧、意念及創意)；另外50%為食材及味道 (味道、衛生、溝通技巧及專業形象、配搭、外觀及創意)\[8\]。
+第二屆3D設計廚藝公開比賽舉辦於2018年3月至7月期間\[7\]。初賽地點為香港生產力促進局知創空間，決賽地點為香港理工大學賽馬會創新樓。組別分為小學組、中學組、大專組及公開組，總共60隊參賽隊伍。比賽總分為100分，其50%評分考量點為設計及創意方面 (主題概念、3D 打印比例、細緻度、技巧、意念及創意)；另外50%為食材及味道 (味道、衛生、溝通技巧及專業形象、配搭、外觀及創意)\[8\]。
 
 2018年3月3日及17日為前哨會，主辦機構向所有參賽者發佈比賽時間、地點、評分準則、所需物資等詳情。
 
@@ -118,21 +108,15 @@ Maker Chef 第一及第二屆均以製作3D曲奇為比賽題材，參賽者自�
 | 安慰獎                       | DoughNUT                      | If Van Gogh was a baker            |                             |        |
 | 安慰獎                       | 陳麗玲百周年B隊                      | 因為愛                                |                             |        |
 
-[替代=](https://zh.wikipedia.org/wiki/File:3d_printing_cookies_winners.jpg "fig:替代=")
-[替代=](https://zh.wikipedia.org/wiki/File:3d_food_preparation.jpg "fig:替代=")
+[替代=](https://zh.wikipedia.org/wiki/File:3d_printing_cookies_winners.jpg "fig:替代=") [替代=](https://zh.wikipedia.org/wiki/File:3d_food_preparation.jpg "fig:替代=")
 
 ## 媒體報導
 
-1.  香港電台節目《日常8點半》訪問 Maker Chef
-    3D設計廚藝公開比賽得獎者分享利用3D食物打印機列印曲奇的心得及訪問香港三維打印協會副部長Michael
-    Wong更會同大家講解3D食物打印科技的應用。\[15\]
-2.  無線電視 TVB 科技及技術發展的專題資訊節目《創科導航》拍攝隊伍現身第一屆 Maker Chef
-    3D設計廚藝公開比賽現場，拍攝當天比賽活動情況及花絮。\[16\]
+1.  香港電台節目《日常8點半》訪問 Maker Chef 3D設計廚藝公開比賽得獎者分享利用3D食物打印機列印曲奇的心得及訪問香港三維打印協會副部長Michael Wong更會同大家講解3D食物打印科技的應用。\[15\]
+2.  無線電視 TVB 科技及技術發展的專題資訊節目《創科導航》拍攝隊伍現身第一屆 Maker Chef 3D設計廚藝公開比賽現場，拍攝當天比賽活動情況及花絮。\[16\]
 3.  香港經濟日報刊登專題報導《廚藝比賽 科技美食雙結合》，報導第二屆Maker Chef 3D設計廚藝公開比賽。\[17\]
-4.  UNWIRE.HK 生活科技媒體刊登報導 《全球首次 3D 食物打印比賽》，報導第一屆Maker Chef
-    3D設計廚藝公開比賽。\[18\]
-5.  PCM 電子科技媒體刊登專題報導《3D 食物打印機　體驗 CAD/CAM 流程》, 訪問Maker Chef
-    3D設計廚藝公開比賽其中參賽學校師生分享心得。\[19\]
+4.  UNWIRE.HK 生活科技媒體刊登報導 《全球首次 3D 食物打印比賽》，報導第一屆Maker Chef 3D設計廚藝公開比賽。\[18\]
+5.  PCM 電子科技媒體刊登專題報導《3D 食物打印機　體驗 CAD/CAM 流程》, 訪問Maker Chef 3D設計廚藝公開比賽其中參賽學校師生分享心得。\[19\]
 
 ## 相關條目
 
@@ -150,22 +134,17 @@ Maker Chef 第一及第二屆均以製作3D曲奇為比賽題材，參賽者自�
 ### 影片
 
   - [Maker Chef 3D設計廚藝公開比賽影片](http://wewalab.com/videos/)
-  - [TVB節目:「創科導航」: 全球首次Maker
-    Chef 3D設計廚藝公開比賽](http://wewalab.com/videos/)
+  - [TVB節目:「創科導航」: 全球首次Maker Chef 3D設計廚藝公開比賽](http://wewalab.com/videos/)
   - [香港電台電視節目「日常8點半」：3D打印未來](https://www.rthk.hk/tv/dtt31/programme/830mag_5/episode/524487)
 
 ### 報導連結
 
-  - [HKET:
-    食物打印機膺世紀創意發明](https://ps.hket.com/article/2181822/%E9%A3%9F%E7%89%A9%E6%89%93%E5%8D%B0%E6%A9%9F%E3%80%80%E8%86%BA%E4%B8%96%E7%B4%80%E5%89%B5%E6%84%8F%E7%99%BC%E6%98%8E)
-  - [UNWIRE HK: WEWALab「電創坊」主辦全球首創3D設計廚藝公開比賽獲HKT education
-    全力支持](https://unwire.hk/2017/04/21/maker-chef-3d-food-printing-contest/3d-%E6%89%93%E5%8D%B0/)
+  - [HKET: 食物打印機膺世紀創意發明](https://ps.hket.com/article/2181822/%E9%A3%9F%E7%89%A9%E6%89%93%E5%8D%B0%E6%A9%9F%E3%80%80%E8%86%BA%E4%B8%96%E7%B4%80%E5%89%B5%E6%84%8F%E7%99%BC%E6%98%8E)
+  - [UNWIRE HK: WEWALab「電創坊」主辦全球首創3D設計廚藝公開比賽獲HKT education 全力支持](https://unwire.hk/2017/04/21/maker-chef-3d-food-printing-contest/3d-%E6%89%93%E5%8D%B0/)
   - [TVB節目:「創科導航」-全球首次Maker Chef 3D設計廚藝公開比賽](http://wewalab.com/videos/)
   - [香港電台電視節目「日常8點半」：3D打印未來](https://www.rthk.hk/tv/dtt31/programme/830mag_5/episode/524487)
-  - [香港經濟日報: 廚藝比賽
-    科技美食雙結合](https://ps.hket.com/article/2182512/%E3%80%90%E9%A3%9F%E7%89%A9%E7%AF%87%E3%80%91%E5%BB%9A%E8%97%9D%E6%AF%94%E8%B3%BD%20%E7%A7%91%E6%8A%80%E7%BE%8E%E9%A3%9F%E9%9B%99%E7%B5%90%E5%90%88)
-  - [PCM: 3D 食物打印機　體驗 CAD/CAM
-    流程](https://www.pcmarket.com.hk/2017/05/29/3d-%E9%A3%9F%E7%89%A9%E6%89%93%E5%8D%B0%E6%A9%9F-%E9%AB%94%E9%A9%97-cadcam-%E6%B5%81%E7%A8%8B/)
+  - [香港經濟日報: 廚藝比賽 科技美食雙結合](https://ps.hket.com/article/2182512/%E3%80%90%E9%A3%9F%E7%89%A9%E7%AF%87%E3%80%91%E5%BB%9A%E8%97%9D%E6%AF%94%E8%B3%BD%20%E7%A7%91%E6%8A%80%E7%BE%8E%E9%A3%9F%E9%9B%99%E7%B5%90%E5%90%88)
+  - [PCM: 3D 食物打印機　體驗 CAD/CAM 流程](https://www.pcmarket.com.hk/2017/05/29/3d-%E9%A3%9F%E7%89%A9%E6%89%93%E5%8D%B0%E6%A9%9F-%E9%AB%94%E9%A9%97-cadcam-%E6%B5%81%E7%A8%8B/)
 
 [Category:3D打印](https://zh.wikipedia.org/wiki/Category:3D打印 "wikilink")
 
@@ -190,8 +169,7 @@ Maker Chef 第一及第二屆均以製作3D曲奇為比賽題材，參賽者自�
 
 11.
 
-12.
-    可藝中學|url=[https://www.hongai.edu.hk/activities_and_achievements/2016_2017/achievements_outside_school/20170325|work=www.hongai.edu.hk|accessdate=2019-04-23](https://www.hongai.edu.hk/activities_and_achievements/2016_2017/achievements_outside_school/20170325%7Cwork=www.hongai.edu.hk%7Caccessdate=2019-04-23)}}
+12.  可藝中學|url=[https://www.hongai.edu.hk/activities_and_achievements/2016_2017/achievements_outside_school/20170325|work=www.hongai.edu.hk|accessdate=2019-04-23](https://www.hongai.edu.hk/activities_and_achievements/2016_2017/achievements_outside_school/20170325%7Cwork=www.hongai.edu.hk%7Caccessdate=2019-04-23)}}
 
 13.
 
@@ -201,8 +179,7 @@ Maker Chef 第一及第二屆均以製作3D曲奇為比賽題材，參賽者自�
 
 16.
 
-17.  地產站 Property
-    Station|url=[https://ps.hket.com/article/2182512/%E3%80%90%E9%A3%9F%E7%89%A9%E7%AF%87%E3%80%91%E5%BB%9A%E8%97%9D%E6%AF%94%E8%B3%BD%20%E7%A7%91%E6%8A%80%E7%BE%8E%E9%A3%9F%E9%9B%99%E7%B5%90%E5%90%88|work=ps.hket.com|accessdate=2019-04-24](https://ps.hket.com/article/2182512/%E3%80%90%E9%A3%9F%E7%89%A9%E7%AF%87%E3%80%91%E5%BB%9A%E8%97%9D%E6%AF%94%E8%B3%BD%20%E7%A7%91%E6%8A%80%E7%BE%8E%E9%A3%9F%E9%9B%99%E7%B5%90%E5%90%88%7Cwork=ps.hket.com%7Caccessdate=2019-04-24)}}
+17.  地產站 Property Station|url=[https://ps.hket.com/article/2182512/%E3%80%90%E9%A3%9F%E7%89%A9%E7%AF%87%E3%80%91%E5%BB%9A%E8%97%9D%E6%AF%94%E8%B3%BD%20%E7%A7%91%E6%8A%80%E7%BE%8E%E9%A3%9F%E9%9B%99%E7%B5%90%E5%90%88|work=ps.hket.com|accessdate=2019-04-24](https://ps.hket.com/article/2182512/%E3%80%90%E9%A3%9F%E7%89%A9%E7%AF%87%E3%80%91%E5%BB%9A%E8%97%9D%E6%AF%94%E8%B3%BD%20%E7%A7%91%E6%8A%80%E7%BE%8E%E9%A3%9F%E9%9B%99%E7%B5%90%E5%90%88%7Cwork=ps.hket.com%7Caccessdate=2019-04-24)}}
 
 18.
 

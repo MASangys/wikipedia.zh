@@ -1,5 +1,4 @@
-**漢諾威CL攻擊機**是在[第一次世界大戰時由德國](https://zh.wikipedia.org/wiki/第一次世界大戰 "wikilink")[漢諾威飛機公司](https://zh.wikipedia.org/wiki/漢諾威飛機公司 "wikilink")(德文:Hannoversche
-Waggonfabrik)研製的雙翼攻擊機，CL原本是指比一般偵察機（代號為C）輕巧的雙座機，原本是用作為偵察機提供直接的護航，但後來發展成為對地攻擊機尤其以其後座機槍作為居高臨下的機槍火力點。
+**漢諾威CL攻擊機**是在[第一次世界大戰時由德國](https://zh.wikipedia.org/wiki/第一次世界大戰 "wikilink")[漢諾威飛機公司](https://zh.wikipedia.org/wiki/漢諾威飛機公司 "wikilink")(德文:Hannoversche Waggonfabrik)研製的雙翼攻擊機，CL原本是指比一般偵察機（代號為C）輕巧的雙座機，原本是用作為偵察機提供直接的護航，但後來發展成為對地攻擊機尤其以其後座機槍作為居高臨下的機槍火力點。
 
 漢諾威公司原是一家專門從事製造火車車廂的工廠，當[第一次世界大戰爆發後的](https://zh.wikipedia.org/wiki/第一次世界大戰 "wikilink")1915年開始生產飛機零件，1916年開始成立飛機研製部門，漢諾威公司造飛機的優勢是由於要造火車車廂而存有大批木材和大批熟手的木匠，漢諾威CL攻擊機也因此被稱為飛行車廂。
 
@@ -32,19 +31,18 @@ Waggonfabrik)研製的雙翼攻擊機，CL原本是指比一般偵察機（代�
 
 ## 發展簡史和設計特點
 
-1916年在西線戰場，[信天翁C偵察機等雙座偵察機面對著重大的損失](../Page/信天翁C偵察機.md "wikilink")，偵察機部隊需要一種屬於他們自己的護航戰鬥機，因為單座戰鬥機並不是隨傳隨到，德國軍方開出要求：
+1916年在西線戰場，[信天翁C偵察機](../Page/信天翁C偵察機.md "wikilink")等雙座偵察機面對著重大的損失，偵察機部隊需要一種屬於他們自己的護航戰鬥機，因為單座戰鬥機並不是隨傳隨到，德國軍方開出要求：
 
   - 採用160至180匹馬力的發動機
   - 重量要比一般雙座偵察機輕150至200公斤
 
 應軍方要求的是兩間公司，漢諾威和哈巴斯特，後來兩間公司的出品都能滿足在3000米之下的空戰和在機翼下掛載炸彈的能力，經過評比後發現兩者都是不相伯仲，漢諾威CL攻擊機比[哈巴斯特CL攻擊機的速度和後座機槍的射擊靈活度較佳](https://zh.wikipedia.org/wiki/哈巴斯特CL攻擊機 "wikilink")，哈巴斯特CL攻擊機的飛行機動性和座艙舒適度又比漢諾威CL攻擊機要好，結果雙方都獲得採用。
 
-漢諾威CL攻擊機如同[信天翁D戰鬥機一樣採用水滴以減少空氣阻力](../Page/信天翁D戰鬥機.md "wikilink")，而其最特別就是有上下兩層的水平尾翼。
+漢諾威CL攻擊機如同[信天翁D戰鬥機](../Page/信天翁D戰鬥機.md "wikilink")一樣採用水滴以減少空氣阻力，而其最特別就是有上下兩層的水平尾翼。
 
 ## 實戰
 
-1917年8月，漢諾威CL攻擊機開始裝備部隊並且成立了護航中隊，面對[協約國的單座戰鬥機時](../Page/協約國.md "wikilink")，漢諾威CL攻擊機的空戰能力也不輸給它們，之後也有裝備給狩獵中隊以和德國人自己的單座戰鬥機相比，得出的結論就是:
-非常靈活，在速度和爬升率方面和單座的[信天翁D戰鬥機相當](../Page/信天翁D戰鬥機.md "wikilink")。
+1917年8月，漢諾威CL攻擊機開始裝備部隊並且成立了護航中隊，面對[協約國](../Page/協約國.md "wikilink")的單座戰鬥機時，漢諾威CL攻擊機的空戰能力也不輸給它們，之後也有裝備給狩獵中隊以和德國人自己的單座戰鬥機相比，得出的結論就是: 非常靈活，在速度和爬升率方面和單座的[信天翁D戰鬥機](../Page/信天翁D戰鬥機.md "wikilink")相當。
 
 漢諾威CL攻擊機之後也用於夜間空戰去截擊企圖借黑夜去偷襲德軍佔區的英法轟炸機。
 
@@ -76,6 +74,4 @@ Waggonfabrik)研製的雙翼攻擊機，CL原本是指比一般偵察機（代�
 
   - 第一次世界大戰軍機裝備全史(1917-1918)，陶力著，吉林文化出版社，ISBN 978-7-5472-2954-5
 
-[Category:德國戰鬥機](https://zh.wikipedia.org/wiki/Category:德國戰鬥機 "wikilink")
-[Category:雙翼機](https://zh.wikipedia.org/wiki/Category:雙翼機 "wikilink")
-[Category:第一次世界大戰飛機](https://zh.wikipedia.org/wiki/Category:第一次世界大戰飛機 "wikilink")
+[Category:德國戰鬥機](https://zh.wikipedia.org/wiki/Category:德國戰鬥機 "wikilink") [Category:雙翼機](https://zh.wikipedia.org/wiki/Category:雙翼機 "wikilink") [Category:第一次世界大戰飛機](https://zh.wikipedia.org/wiki/Category:第一次世界大戰飛機 "wikilink")

@@ -1,27 +1,20 @@
-**FreeSync**是用于[LCD显示器的自适应同步技术的品牌名称](../Page/液晶显示器.md "wikilink")，其支持动态，旨在减少由于内容的[帧速率未对齐而导致的画面撕裂和延迟](../Page/帧率.md "wikilink")。
-\[1\]
+**FreeSync**是用于[LCD显示器的自适应同步技术的品牌名称](../Page/液晶显示器.md "wikilink")，其支持动态，旨在减少由于内容的[帧速率未对齐而导致的画面撕裂和延迟](../Page/帧率.md "wikilink")。 \[1\]
 
-FreeSync由[AMD开发](../Page/超威半导体.md "wikilink")，并于2014年首次发布，与[Nvidia的专有技术](../Page/英伟达.md "wikilink")[G-Sync为竞争关系](../Page/Nvidia_G-Sync.md "wikilink")。
-\[2\]该技术为免版税、免费使用，且没有性能损失。 \[3\]
+FreeSync由[AMD开发](../Page/超威半导体.md "wikilink")，并于2014年首次发布，与[Nvidia的专有技术](../Page/英伟达.md "wikilink")[G-Sync为竞争关系](../Page/Nvidia_G-Sync.md "wikilink")。 \[2\]该技术为免版税、免费使用，且没有性能损失。 \[3\]
 
 ## 概述
 
 FreeSync动态地调整显示刷新率到可变的帧速率，因为渲染复杂游戏内容时有着不均匀的GPU负载，而固定的视频内容使用的较低的23.97/24/29.97/30帧每秒。这有助于消除由于视频接口必须完成当前帧而导致的卡顿延迟，以及在传输过程中启动新帧（[垂直同步关闭](../Page/類比電視.md "wikilink")）所导致的[畫面撕裂](../Page/畫面撕裂.md "wikilink")。支持的最大刷新率范围为9-240Hz。\[4\]FreeSync可以通过[即插即用自动启用](https://zh.wikipedia.org/wiki/即插即用 "wikilink")，使其对操作系统和最终用户透明。
 
-不同刷新率之间可以无缝转换，用户不会察觉。同步机制使视频接口保持像素时钟速率，但动态调整[垂直空白間隙](https://zh.wikipedia.org/wiki/垂直空白間隙 "wikilink")。监视器将保持显示当前接收到的图像，直到一个新帧呈递给显卡的[帧缓冲器](../Page/帧缓冲器.md "wikilink")，然后立即开始传输新图像。这种简单机制提供了低延迟且平滑的监视器，基本无间断的观看体验，同时降低了时序控制器（TCON）和显示面板接口的实现复杂性。它还有助于在不接收新图像时降低面板的刷新率，从而延长电池续航。
-\[5\]
+不同刷新率之间可以无缝转换，用户不会察觉。同步机制使视频接口保持像素时钟速率，但动态调整[垂直空白間隙](https://zh.wikipedia.org/wiki/垂直空白間隙 "wikilink")。监视器将保持显示当前接收到的图像，直到一个新帧呈递给显卡的[帧缓冲器](../Page/帧缓冲器.md "wikilink")，然后立即开始传输新图像。这种简单机制提供了低延迟且平滑的监视器，基本无间断的观看体验，同时降低了时序控制器（TCON）和显示面板接口的实现复杂性。它还有助于在不接收新图像时降低面板的刷新率，从而延长电池续航。 \[5\]
 
 ## 自适应同步
 
-[VESA宣布自适应同步](https://zh.wikipedia.org/wiki/VESA "wikilink")（Adaptive-Sync）是[DisplayPort](../Page/DisplayPort.md "wikilink")
-1.2a规范的一个组成部分；FreeSync是一种硬件-软件解决方案，它使用DisplayPort自适应同步协议来实现流畅、无撕裂且低延迟的游戏体验。\[6\]FreeSync也已在[HDMI接口上实现](../Page/HDMI.md "wikilink")。
-\[7\]
+[VESA宣布自适应同步](https://zh.wikipedia.org/wiki/VESA "wikilink")（Adaptive-Sync）是[DisplayPort](../Page/DisplayPort.md "wikilink") 1.2a规范的一个组成部分；FreeSync是一种硬件-软件解决方案，它使用DisplayPort自适应同步协议来实现流畅、无撕裂且低延迟的游戏体验。\[6\]FreeSync也已在[HDMI](../Page/HDMI.md "wikilink")接口上实现。 \[7\]
 
 ## FreeSync 2 HDR
 
-2017年1月，AMD宣布推出第二代FreeSync。技术要求包括：移除最低帧速率、设置屏幕[延迟最大值等](../Page/延迟_\(工程学\).md "wikilink")。FreeSync
-2还支持[宽色域色彩空间](../Page/色域.md "wikilink")（使色彩量增加一倍）和增加的显示亮度，使显卡[驱动程序和应用软件能直接支持](../Page/驱动程序.md "wikilink")显示。显示器的/用于色彩原色和最大/最小亮度的[EDID元数据在写入](../Page/EDID.md "wikilink")[帧缓冲器时用于](../Page/帧缓冲器.md "wikilink")[色调映射环节的调整](../Page/色调映射.md "wikilink")，从而减少操作系统层面[色彩管理以及视频接口电路上的色彩空间和传输功能](../Page/色彩管理.md "wikilink")（EOTF）的处理环节，进而减少输出延迟。
-\[8\] \[9\]
+2017年1月，AMD宣布推出第二代FreeSync。技术要求包括：移除最低帧速率、设置屏幕[延迟最大值等](../Page/延迟_\(工程学\).md "wikilink")。FreeSync 2还支持[宽色域色彩空间](../Page/色域.md "wikilink")（使色彩量增加一倍）和增加的显示亮度，使显卡[驱动程序](../Page/驱动程序.md "wikilink")和应用软件能直接支持显示。显示器的/用于色彩原色和最大/最小亮度的[EDID](../Page/EDID.md "wikilink")元数据在写入[帧缓冲器](../Page/帧缓冲器.md "wikilink")时用于[色调映射](../Page/色调映射.md "wikilink")环节的调整，从而减少操作系统层面[色彩管理](../Page/色彩管理.md "wikilink")以及视频接口电路上的色彩空间和传输功能（EOTF）的处理环节，进而减少输出延迟。 \[8\] \[9\]
 
 ## FreeSync显示器列表
 
@@ -3703,14 +3696,10 @@ NVidia 10系列和20系列GPU，使用驱动程序417.71或更高版本<ref>
 
 ## 外部链接
 
-  - [Freesync
-    Monitors](https://www.amd.com/en/products/freesync-monitors)
-  - [AMD FreeSync
-    homepage](https://www.amd.com/en/technologies/free-sync)
+  - [Freesync Monitors](https://www.amd.com/en/products/freesync-monitors)
+  - [AMD FreeSync homepage](https://www.amd.com/en/technologies/free-sync)
 
-[Category:影片和電影技術](https://zh.wikipedia.org/wiki/Category:影片和電影技術 "wikilink")
-[Category:電腦顯示標準](https://zh.wikipedia.org/wiki/Category:電腦顯示標準 "wikilink")
-[Category:有未审阅翻译的页面](https://zh.wikipedia.org/wiki/Category:有未审阅翻译的页面 "wikilink")
+[Category:影片和電影技術](https://zh.wikipedia.org/wiki/Category:影片和電影技術 "wikilink") [Category:電腦顯示標準](https://zh.wikipedia.org/wiki/Category:電腦顯示標準 "wikilink") [Category:有未审阅翻译的页面](https://zh.wikipedia.org/wiki/Category:有未审阅翻译的页面 "wikilink")
 
 1.
 
@@ -3760,11 +3749,7 @@ NVidia 10系列和20系列GPU，使用驱动程序417.71或更高版本<ref>
 
 24.
 
-25.  EPA ENERGY STAR
-    |url=<http://www.energystar.gov/productfinder/product/certified-displays/details/2251521>
-    |website=www.energystar.gov |accessdate=5 March 2016 |deadurl=yes
-    |archiveurl=<https://web.archive.org/web/20160308073246/https://www.energystar.gov/productfinder/product/certified-displays/details/2251521>
-    |archivedate=8 March 2016 |df= }}
+25.  EPA ENERGY STAR |url=<http://www.energystar.gov/productfinder/product/certified-displays/details/2251521> |website=www.energystar.gov |accessdate=5 March 2016 |deadurl=yes |archiveurl=<https://web.archive.org/web/20160308073246/https://www.energystar.gov/productfinder/product/certified-displays/details/2251521> |archivedate=8 March 2016 |df= }}
 
 26.
 
@@ -3848,25 +3833,17 @@ NVidia 10系列和20系列GPU，使用驱动程序417.71或更高版本<ref>
 
 66.
 
-67.  HP® Official Store
-    |url=<https://store.hp.com/UKStore/Merch/Product.aspx?id=3KS64AA&opt=ABU&sel=MTO>
-    |website=store.hp.com |accessdate=25 November 2018}}
+67.  HP® Official Store |url=<https://store.hp.com/UKStore/Merch/Product.aspx?id=3KS64AA&opt=ABU&sel=MTO> |website=store.hp.com |accessdate=25 November 2018}}
 
-68.  HP® Official Store
-    |url=<https://store.hp.com/UKStore/Merch/Product.aspx?id=1AT01AA&opt=ABU&sel=MTO>
-    |website=store.hp.com |access-date=6 September 2018}}
+68.  HP® Official Store |url=<https://store.hp.com/UKStore/Merch/Product.aspx?id=1AT01AA&opt=ABU&sel=MTO> |website=store.hp.com |access-date=6 September 2018}}
 
-69.  HP® Official Store
-    |url=<http://store.hp.com/us/en/pdp/hp-envy-27-27-inch-display>
-    |website=store.hp.com |access-date=1 September 2017}}
+69.  HP® Official Store |url=<http://store.hp.com/us/en/pdp/hp-envy-27-27-inch-display> |website=store.hp.com |access-date=1 September 2017}}
 
 70.
 
 71.
 
-72.  HP® Official Store
-    |url=<https://store.hp.com/UKStore/Merch/Product.aspx?id=V1M69AA&opt=ABU&sel=MTO>
-    |website=store.hp.com |access-date=10 September 2018}}
+72.  HP® Official Store |url=<https://store.hp.com/UKStore/Merch/Product.aspx?id=V1M69AA&opt=ABU&sel=MTO> |website=store.hp.com |access-date=10 September 2018}}
 
 73.
 
@@ -4046,11 +4023,7 @@ NVidia 10系列和20系列GPU，使用驱动程序417.71或更高版本<ref>
 
 162.
 
-163.  EPA ENERGY STAR
-     |url=<http://www.energystar.gov/productfinder/product/certified-displays/details/2251521>
-     |website=www.energystar.gov |accessdate=5 March 2016 |deadurl=yes
-     |archiveurl=<https://web.archive.org/web/20160308073246/https://www.energystar.gov/productfinder/product/certified-displays/details/2251521>
-     |archivedate=8 March 2016 |df= }}
+163.  EPA ENERGY STAR |url=<http://www.energystar.gov/productfinder/product/certified-displays/details/2251521> |website=www.energystar.gov |accessdate=5 March 2016 |deadurl=yes |archiveurl=<https://web.archive.org/web/20160308073246/https://www.energystar.gov/productfinder/product/certified-displays/details/2251521> |archivedate=8 March 2016 |df= }}
 
 164.
 
@@ -4134,25 +4107,17 @@ NVidia 10系列和20系列GPU，使用驱动程序417.71或更高版本<ref>
 
 204.
 
-205.  HP® Official Store
-     |url=<https://store.hp.com/UKStore/Merch/Product.aspx?id=3KS64AA&opt=ABU&sel=MTO>
-     |website=store.hp.com |accessdate=25 November 2018}}
+205.  HP® Official Store |url=<https://store.hp.com/UKStore/Merch/Product.aspx?id=3KS64AA&opt=ABU&sel=MTO> |website=store.hp.com |accessdate=25 November 2018}}
 
-206.  HP® Official Store
-     |url=<https://store.hp.com/UKStore/Merch/Product.aspx?id=1AT01AA&opt=ABU&sel=MTO>
-     |website=store.hp.com |access-date=6 September 2018}}
+206.  HP® Official Store |url=<https://store.hp.com/UKStore/Merch/Product.aspx?id=1AT01AA&opt=ABU&sel=MTO> |website=store.hp.com |access-date=6 September 2018}}
 
-207.  HP® Official Store
-     |url=<http://store.hp.com/us/en/pdp/hp-envy-27-27-inch-display>
-     |website=store.hp.com |access-date=1 September 2017}}
+207.  HP® Official Store |url=<http://store.hp.com/us/en/pdp/hp-envy-27-27-inch-display> |website=store.hp.com |access-date=1 September 2017}}
 
 208.
 
 209.
 
-210.  HP® Official Store
-     |url=<https://store.hp.com/UKStore/Merch/Product.aspx?id=V1M69AA&opt=ABU&sel=MTO>
-     |website=store.hp.com |access-date=10 September 2018}}
+210.  HP® Official Store |url=<https://store.hp.com/UKStore/Merch/Product.aspx?id=V1M69AA&opt=ABU&sel=MTO> |website=store.hp.com |access-date=10 September 2018}}
 
 211.
 

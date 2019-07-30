@@ -1,12 +1,6 @@
-《**NU'EST
-W的L.O.Λ.E便當**》（）於2018年8月27日首播，10月18日終映，共16集。由[NU'EST官方V](../Page/NU'EST.md "wikilink")
-live頻道\[1\]與YOCLUB X IDOL V
-live頻道\[2\]共同播出，為[韓國V](https://zh.wikipedia.org/wiki/韓國 "wikilink")
-live上獨家播放的網路綜藝節目\[3\]。
+《**NU'EST W的L.O.Λ.E便當**》（）於2018年8月27日首播，10月18日終映，共16集。由[NU'EST](../Page/NU'EST.md "wikilink")官方V live頻道\[1\]與YOCLUB X IDOL V live頻道\[2\]共同播出，為[韓國V](https://zh.wikipedia.org/wiki/韓國 "wikilink") live上獨家播放的網路綜藝節目\[3\]。
 
-NU'EST
-W為了報答粉絲L.O.Λ.E的愛，與KBS飲食紀錄片《料理人類》李旭正PD合作，親自準備「逆朝貢便當」，希望能傳達自己對L.O.Λ.E的心意\[4\]。《NU'EST的L.O.Λ.E便當》將NU'EST
-W學習、準備L.O.Λ.E便當並配送的過程，如實地記錄下來。
+NU'EST W為了報答粉絲L.O.Λ.E的愛，與KBS飲食紀錄片《料理人類》李旭正PD合作，親自準備「逆朝貢便當」，希望能傳達自己對L.O.Λ.E的心意\[4\]。《NU'EST的L.O.Λ.E便當》將NU'EST W學習、準備L.O.Λ.E便當並配送的過程，如實地記錄下來。
 
 ## 播放頻道
 
@@ -25,7 +19,7 @@ W學習、準備L.O.Λ.E便當並配送的過程，如實地記錄下來。
 | 7   | 2018年9月17日             | NU'EST W完全體料理試作囉！\[16\] | NU'EST W到了「麵談」工作室開始料理試作，Ren展現與料理奮鬥的過程。                                                                                                 |
 | 8   | 2018年9月20日             | NU'EST W與預告相遇！\[17\]    | NU'EST W同心協力完成料理試作後，四人分別錄製《NU'EST的L.O.Λ.E便當》的預告。                                                                                       |
 | 9   | 2018年9月24日             | NU'EST W招待朋友！─1\[18\]   | NU'EST W清掃「麵談」工作室後，回國的李旭正PD給予最後的任務─NU'EST W招待朋友試吃料理並接受評價。                                                                              |
-| 10  | 2018年9月27日             | NU'EST W招待朋友！─2\[19\]   | NU'EST W邀請[許卿煥與](../Page/許卿煥.md "wikilink")[BTOB的](../Page/BTOB.md "wikilink")[Peniel試吃料理](../Page/辛東根.md "wikilink")，並請他們評價自己親手準備的料理。 |
+| 10  | 2018年9月27日             | NU'EST W招待朋友！─2\[19\]   | NU'EST W邀請[許卿煥](../Page/許卿煥.md "wikilink")與[BTOB](../Page/BTOB.md "wikilink")的[Peniel試吃料理](../Page/辛東根.md "wikilink")，並請他們評價自己親手準備的料理。 |
 | 11  | 2018年10月1日             | NU'EST W掛念粉絲服務！\[20\]   | NU'EST W招待朋友後展現個人才藝；在「麵談」工作室閱讀粉絲的L.O.Λ.E便當申請信，選擇四名粉絲親自配送L.O.Λ.E便當。                                                                     |
 | 12  | 2018年10月4日             | NU'EST W初次配送便當囉！\[21\]  | NU'EST W第一次配送L.O.Λ.E便當的對象是由白虎所選擇的，丈夫因為結婚十週年紀念與感謝妻子育兒的辛苦，所以替是白虎粉絲的妻子提出申請。                                                               |
 | 13  | 2018年10月8日             | NU'EST W第二次配送便當囉！\[22\] | 由Ren選出了第二名粉絲，為了幫助待業中的粉絲解除壓力，JR、Aron與Ren一起前往KTV配送L.O.Λ.E便當囉。                                                                            |
@@ -76,8 +70,7 @@ W學習、準備L.O.Λ.E便當並配送的過程，如實地記錄下來。
 
 ## 參考資料
 
-[Category:NU'EST](https://zh.wikipedia.org/wiki/Category:NU'EST "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
+[Category:NU'EST](https://zh.wikipedia.org/wiki/Category:NU'EST "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
 
 1.
 2.

@@ -1,6 +1,4 @@
-**ONE Team Esports** 前身為**Samsung Taiwan Esports
-(**成立於2017年7月26日)，因[國泰金控跟](https://zh.wikipedia.org/wiki/國泰金控 "wikilink")[台灣三星共同合作贊助](https://zh.wikipedia.org/wiki/臺灣三星 "wikilink")\[1\]，自2018年7月1日起，正式更名為**ONE
-Team Esports**。團隊理念：我們相信在傳說戰場上，團結是贏得勝利的關鍵。ONE Team每位成員會互相carry，永不放棄。
+**ONE Team Esports** 前身為**Samsung Taiwan Esports (**成立於2017年7月26日)，現況由[國泰金控獨家贊助](https://zh.wikipedia.org/wiki/國泰金控 "wikilink")\[1\]，自2018年7月1日起，正式更名為**ONE Team Esports**。團隊理念：我們相信在傳說戰場上，團結是贏得勝利的關鍵。ONE Team是世界最強，在2019奪得世界冠軍
 
 ## 傳說對決
 
@@ -9,13 +7,15 @@ Team Esports**。團隊理念：我們相信在傳說戰場上，團結是贏得
   - 2017年傳說對決職業聯盟聯賽(GCS)夏季賽亞軍，並取得同年傳說對決亞洲盃國際錦標賽(AIC)臺灣代表權。
   - 2017年傳說對決亞洲盃國際錦標賽(AIC)，與[越南的](https://zh.wikipedia.org/wiki/越南 "wikilink")[PROARMY並列季軍](https://zh.wikipedia.org/wiki/PROARMY "wikilink")。\[2\]
   - 2018年傳說對決職業聯盟聯賽(GCS)春季賽第四名。
+  - 2018年傳說對決職業聯盟聯賽(GCS)夏季賽第六名。
+  - 2019年傳說對決職業聯盟聯賽(GCS)春季賽第三名。
+  - 2019年傳說對決職業聯盟(GCS)AWC資格賽冠軍。
 
 ### 國際賽事出賽紀錄
 
   - 2017年傳說對決亞洲盃國際錦標賽(AIC)
       - 教練：S.T PoChu
-      - 選手：S.T XianYo (打野)、S.T Hualin (中路)、S.T Ting (魔龍)、S.T Lover
-        (凱薩)、S.T Scott (輔助)、S.T Sky (打野)
+      - 選手：S.T XianYo (打野)、S.T Hualin (中路)、S.T Ting (魔龍)、S.T Lover (凱薩)、S.T Scott (輔助)、S.T Sky (打野)
       - 成果：與[越南的](https://zh.wikipedia.org/wiki/越南 "wikilink")[PROARMY並列季軍](https://zh.wikipedia.org/wiki/PROARMY "wikilink")
   - 2018年傳說對決世界盃(AWC)外卡隊
       - 選手：S.T XianYo (打野)、S.T Hualin (中路)
@@ -26,6 +26,13 @@ Team Esports**。團隊理念：我們相信在傳說戰場上，團結是贏得
       - 教練：ONE_PoChu
       - 選手：ONE_Ting (魔龍)、ONE_Lover (凱薩)、ONE_Fanta (輔助)
       - 成果：香港資格賽冠軍.亞運電競示範賽傳說對決項目銀牌
+
+<!-- end list -->
+
+  - 2019 AWC世界大賽（Arena of Valor World Cup）臺灣外卡隊
+      - 教練：ONE_Ting
+      - 選手：ONE_Kid (凱薩)、ONE_XianYo (打野)、ONE_Hualin (中路)、ONE_Tura (魔龍)、ONE_Fanta (輔助)、ONE_YuXiao (凱薩)
+      - 成果：八強
 
 ### 隊伍名單
 
@@ -84,22 +91,10 @@ Team Esports**。團隊理念：我們相信在傳說戰場上，團結是贏得
 <td><p>前<a href="https://zh.wikipedia.org/wiki/AHQ" title="wikilink">AHQ魔龍輸出</a></p></td>
 </tr>
 <tr class="even">
-<td><p>ONE_Aydan</p></td>
-<td><p>教練</p></td>
-<td></td>
-<td><p>前<a href="../Page/J戰隊.md" title="wikilink">J戰隊教練</a></p></td>
-</tr>
-<tr class="odd">
 <td><p>ONE_Tura</p></td>
 <td><p>打野、凱撒</p></td>
 <td></td>
 <td><p>校園傳說2018 S2冠軍隊伍成員</p></td>
-</tr>
-<tr class="even">
-<td><p>ONE_GoDDog</p></td>
-<td><p>中路、魔龍輸出</p></td>
-<td></td>
-<td><p>前<a href="https://zh.wikipedia.org/wiki/AHQ" title="wikilink">AHQ中路</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>ONE_Kid</p></td>
@@ -162,7 +157,19 @@ Team Esports**。團隊理念：我們相信在傳說戰場上，團結是贏得
 <td><p>ONE_DinDin</p></td>
 <td><p>魔龍輸出</p></td>
 <td></td>
-<td><p>前<a href="../Page/SMG戰隊.md" title="wikilink">SMG戰隊魔龍輸出選手</a></p></td>
+<td><p>前<a href="../Page/SMG戰隊.md" title="wikilink">SMG戰隊</a>魔龍輸出選手</p></td>
+</tr>
+<tr class="odd">
+<td><p>ONE_Aydan</p></td>
+<td><p>教練</p></td>
+<td></td>
+<td><p>前<a href="https://zh.wikipedia.org/wiki/J-Team戰隊" title="wikilink">J-Team戰隊教練</a></p></td>
+</tr>
+<tr class="even">
+<td><p>ONE_GoDDog</p></td>
+<td><p>中路、魔龍輸出</p></td>
+<td></td>
+<td><p>前<a href="https://zh.wikipedia.org/wiki/AHQ" title="wikilink">AHQ中路</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>

@@ -1,5 +1,4 @@
-\-- This module implements  local q = {} local Navbox =
-require('Module:Navbox')
+\-- This module implements  local q = {} local Navbox = require('Module:Navbox')
 
 \-- helper functions local function concatstrings(s)
 

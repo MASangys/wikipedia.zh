@@ -1,10 +1,8 @@
-《**愛x死x機器人**》（）是一部[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[獨立單元](https://zh.wikipedia.org/wiki/獨立單元劇 "wikilink")[成人動畫](../Page/成人動畫.md "wikilink")[電視影集](https://zh.wikipedia.org/wiki/電視影集 "wikilink")\[1\]，由、[大衛·芬奇](https://zh.wikipedia.org/wiki/大衛·芬奇 "wikilink")、珍妮佛·米勒和[提姆·米勒製作](../Page/提姆·米勒.md "wikilink")\[2\]。每集都由不同國家的團隊所製作\[3\]。
+《**愛x死x機器人**》（）是一部[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[獨立單元](https://zh.wikipedia.org/wiki/獨立單元劇 "wikilink")[成人動畫](../Page/成人動畫.md "wikilink")[電視影集](https://zh.wikipedia.org/wiki/電視影集 "wikilink")\[1\]，由、[大衛·芬奇](https://zh.wikipedia.org/wiki/大衛·芬奇 "wikilink")、珍妮佛·米勒和[提姆·米勒](../Page/提姆·米勒.md "wikilink")製作\[2\]。每集都由不同國家的團隊所製作\[3\]。
 
-該劇定於2019年3月15日在[Netflix首播](../Page/Netflix.md "wikilink")，共18集\[4\]。每一集都是獨立的短篇故事，單集片長
-6 到 15 分鐘不等。
+該劇定於2019年3月15日在[Netflix](../Page/Netflix.md "wikilink")首播，共18集\[4\]。每一集都是獨立的短篇故事，單集片長 6 到 15 分鐘不等。
 
-不一定每集都跟機器人有關，整體是暴力佔 50%、科技佔 20%、色情和心理恐懼各
-15%。動畫製作則包括了[2D手繪動畫](https://zh.wikipedia.org/wiki/2D電腦圖形 "wikilink")，[3D](https://zh.wikipedia.org/wiki/3D電腦圖形 "wikilink")[電腦動畫以及](https://zh.wikipedia.org/wiki/電腦動畫 "wikilink")[擴增實境拍攝等等不同的手法以及藝術風格](../Page/擴增實境.md "wikilink")。
+不一定每集都跟機器人有關，整體是暴力佔 50%、科技佔 20%、色情和心理恐懼各 15%。動畫製作則包括了[2D手繪動畫](https://zh.wikipedia.org/wiki/2D電腦圖形 "wikilink")，[3D](https://zh.wikipedia.org/wiki/3D電腦圖形 "wikilink")[電腦動畫以及](https://zh.wikipedia.org/wiki/電腦動畫 "wikilink")[擴增實境](../Page/擴增實境.md "wikilink")拍攝等等不同的手法以及藝術風格。
 
 ## 集數列表
 
@@ -152,7 +150,7 @@ Rémi Kozyra, Maxime Luère</p></td>
 <td><p>16分</p></td>
 </tr>
 <tr class="odd">
-<td><p>Blue Goose 的機組人員 - Thom，Suzy 和 Ray - 正在執行超越<a href="../Page/天鷹座.md" title="wikilink">天鷹座裂縫的任務</a>，但路線圖標示出錯導致出乎意料之外的事情發生。</p></td>
+<td><p>Blue Goose 的機組人員 - Thom，Suzy 和 Ray - 正在執行超越<a href="../Page/天鷹座.md" title="wikilink">天鷹座</a>裂縫的任務，但路線圖標示出錯導致出乎意料之外的事情發生。</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -212,7 +210,7 @@ Rémi Kozyra, Maxime Luère</p></td>
 <td><p>16分</p></td>
 </tr>
 <tr class="odd">
-<td><p>在<a href="../Page/海軍陸戰隊.md" title="wikilink">海軍陸戰隊中</a>，有兩個擁有<a href="https://zh.wikipedia.org/wiki/超自然力量" title="wikilink">超自然力量的摯友</a>，他們必須在<a href="../Page/阿富汗.md" title="wikilink">阿富汗與他們自己的同類作戰</a>。</p></td>
+<td><p>在<a href="../Page/海軍陸戰隊.md" title="wikilink">海軍陸戰隊</a>中，有兩個擁有<a href="https://zh.wikipedia.org/wiki/超自然力量" title="wikilink">超自然力量的摯友</a>，他們必須在<a href="../Page/阿富汗.md" title="wikilink">阿富汗</a>與他們自己的同類作戰。</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -390,14 +388,7 @@ Rémi Kozyra, Maxime Luère</p></td>
 
   -
   -
-[Category:2010年代美國動畫影集](https://zh.wikipedia.org/wiki/Category:2010年代美國動畫影集 "wikilink")
-[Category:2019年開播的美國電視影集](https://zh.wikipedia.org/wiki/Category:2019年開播的美國電視影集 "wikilink")
-[Category:美國成人動畫](https://zh.wikipedia.org/wiki/Category:美國成人動畫 "wikilink")
-[Category:美國動畫影集](https://zh.wikipedia.org/wiki/Category:美國動畫影集 "wikilink")
-[Category:美國動作電視劇](https://zh.wikipedia.org/wiki/Category:美國動作電視劇 "wikilink")
-[Category:美國科幻電視劇](https://zh.wikipedia.org/wiki/Category:美國科幻電視劇 "wikilink")
-[Category:Netflix原創節目](https://zh.wikipedia.org/wiki/Category:Netflix原創節目 "wikilink")
-[Category:单元剧](https://zh.wikipedia.org/wiki/Category:单元剧 "wikilink")
+[Category:2010年代美國動畫影集](https://zh.wikipedia.org/wiki/Category:2010年代美國動畫影集 "wikilink") [Category:2019年開播的美國電視影集](https://zh.wikipedia.org/wiki/Category:2019年開播的美國電視影集 "wikilink") [Category:美國成人動畫](https://zh.wikipedia.org/wiki/Category:美國成人動畫 "wikilink") [Category:美國動畫影集](https://zh.wikipedia.org/wiki/Category:美國動畫影集 "wikilink") [Category:美國動作電視劇](https://zh.wikipedia.org/wiki/Category:美國動作電視劇 "wikilink") [Category:美國科幻電視劇](https://zh.wikipedia.org/wiki/Category:美國科幻電視劇 "wikilink") [Category:Netflix原創節目](https://zh.wikipedia.org/wiki/Category:Netflix原創節目 "wikilink") [Category:单元剧](https://zh.wikipedia.org/wiki/Category:单元剧 "wikilink")
 
 1.
 2.

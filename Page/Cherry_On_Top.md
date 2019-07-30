@@ -1,7 +1,4 @@
-**Cherry On
-Top**（），是[韓國United](https://zh.wikipedia.org/wiki/韓國 "wikilink")
-Creative於2018年推出的四人[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")，成員包括U、Ian、Yoonseul及Naye。
-團名Cherry On Top的意思是指蛋糕頂上放置的櫻桃來命名的。\[1\]
+**Cherry On Top**（），是[韓國United](https://zh.wikipedia.org/wiki/韓國 "wikilink") Creative於2018年推出的四人[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")，成員包括U、Ian、Yoonseul及Naye。 團名Cherry On Top的意思是指蛋糕頂上放置的櫻桃來命名的。\[1\]
 
 ## 團體資料
 
@@ -74,14 +71,8 @@ Creative於2018年推出的四人[女子音樂組合](https://zh.wikipedia.org/w
 
   -
   -
-  - [CHERRY ON TOP](https://story.kakao.com/_aWaM68)的[KAKAO
-    STORY](../Page/Kakao.md "wikilink")
+  - [CHERRY ON TOP](https://story.kakao.com/_aWaM68)的[KAKAO STORY](../Page/Kakao.md "wikilink")
 
-[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:2018年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2018年成立的音樂團體 "wikilink")
-[Category:2018年韓國建立](https://zh.wikipedia.org/wiki/Category:2018年韓國建立 "wikilink")
+[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2018年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2018年成立的音樂團體 "wikilink") [Category:2018年韓國建立](https://zh.wikipedia.org/wiki/Category:2018年韓國建立 "wikilink")
 
-1.  [“걸그룹 이름이 ‘케이크 위 체리’, 평생 기억에 남는 거죠”
-    \[인터뷰](https://www.tvreport.co.kr/?c=news&m=newsview&idx=1084696)\]
+1.  [“걸그룹 이름이 ‘케이크 위 체리’, 평생 기억에 남는 거죠” \[인터뷰](https://www.tvreport.co.kr/?c=news&m=newsview&idx=1084696)\]

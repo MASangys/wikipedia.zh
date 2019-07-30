@@ -12,8 +12,4 @@
 
 ## 外部連結
 
-[:Category:使用创建条目精灵建立的页面](https://zh.wikipedia.org/wiki/Category:使用创建条目精灵建立的页面 "wikilink")
-[:Category:詩人](https://zh.wikipedia.org/wiki/Category:詩人 "wikilink")
-[:Category:台灣詩人](https://zh.wikipedia.org/wiki/Category:台灣詩人 "wikilink")
-[:Category:台灣日治時期人物](https://zh.wikipedia.org/wiki/Category:台灣日治時期人物 "wikilink")
-[:Category:吳姓](https://zh.wikipedia.org/wiki/Category:吳姓 "wikilink")
+[:Category:使用创建条目精灵建立的页面](https://zh.wikipedia.org/wiki/Category:使用创建条目精灵建立的页面 "wikilink") [:Category:詩人](https://zh.wikipedia.org/wiki/Category:詩人 "wikilink") [:Category:台灣詩人](https://zh.wikipedia.org/wiki/Category:台灣詩人 "wikilink") [:Category:台灣日治時期人物](https://zh.wikipedia.org/wiki/Category:台灣日治時期人物 "wikilink") [:Category:吳姓](https://zh.wikipedia.org/wiki/Category:吳姓 "wikilink")

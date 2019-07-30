@@ -1,11 +1,8 @@
-《**LIVE 2004
-〜en〜**》是[日本](../Page/日本.md "wikilink")[音樂組合](../Page/音樂組合.md "wikilink")[B'z主唱](../Page/B'z.md "wikilink")[稻葉浩志的影像作品](../Page/稻葉浩志.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[12月22日發售](../Page/12月22日.md "wikilink")。
+《**LIVE 2004 〜en〜**》是[日本](../Page/日本.md "wikilink")[音樂組合](../Page/音樂組合.md "wikilink")[B'z](../Page/B'z.md "wikilink")主唱[稻葉浩志](../Page/稻葉浩志.md "wikilink")的影像作品。[2004年](../Page/2004年.md "wikilink")[12月22日](../Page/12月22日.md "wikilink")發售。
 
 ## 概要
 
-收錄了稻葉浩志首次SOLO巡迴演唱會『Inaba Koshi LIVE 2004
-〜en〜』模樣的影像作品。以[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")・[VHS](../Page/VHS.md "wikilink")
-2種形態發售。
+收錄了稻葉浩志首次SOLO巡迴演唱會『Inaba Koshi LIVE 2004 〜en〜』模樣的影像作品。以[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")・[VHS](../Page/VHS.md "wikilink") 2種形態發售。
 
 ## 成員
 
@@ -71,5 +68,4 @@
 ## 外部連結
 
   -
-[Category:演唱會](https://zh.wikipedia.org/wiki/Category:演唱會 "wikilink")
-[Category:2004年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2004年音樂相關影像作品 "wikilink")
+[Category:演唱會](https://zh.wikipedia.org/wiki/Category:演唱會 "wikilink") [Category:2004年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2004年音樂相關影像作品 "wikilink")

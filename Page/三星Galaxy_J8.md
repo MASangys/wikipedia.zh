@@ -1,30 +1,18 @@
-**Samsung Galaxy J8**
-是[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[三星电子设计](https://zh.wikipedia.org/wiki/三星电子 "wikilink")、开发和销售的一款基于系统的[三星Galaxy
-J系列](https://zh.wikipedia.org/wiki/三星Galaxy_J系列 "wikilink")[智能手机](../Page/智能手机.md "wikilink")。其于2018年7月发布，同年8月开始销售。Samsung
-Galaxy J8也同时作为[Samsung Galaxy J7
-(2017)的继承者](https://zh.wikipedia.org/wiki/三星Galaxy_J7_\(2017\) "wikilink")。
+**Samsung Galaxy J8** 是[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[三星电子设计](https://zh.wikipedia.org/wiki/三星电子 "wikilink")、开发和销售的一款基于系统的[三星Galaxy J系列](https://zh.wikipedia.org/wiki/三星Galaxy_J系列 "wikilink")[智能手机](../Page/智能手机.md "wikilink")。其于2018年7月发布，同年8月开始销售。Samsung Galaxy J8也同时作为[Samsung Galaxy J7 (2017)的继承者](https://zh.wikipedia.org/wiki/三星Galaxy_J7_\(2017\) "wikilink")。
 
 ## 概要
 
-Samsung Galaxy J8操作系統使用[Android 8.0
-Oreo](../Page/Android.md "wikilink")，採用了[高通](../Page/高通.md "wikilink")[骁龙](https://zh.wikipedia.org/wiki/高通骁龙 "wikilink")[450](https://zh.wikipedia.org/wiki/高通驍龍元件列表#Snapdragon_450 "wikilink")8核心處理器和[Adreno
-560图像处理器](../Page/Adreno.md "wikilink")。
+Samsung Galaxy J8操作系統使用[Android 8.0 Oreo](../Page/Android.md "wikilink")，採用了[高通](../Page/高通.md "wikilink")[骁龙](https://zh.wikipedia.org/wiki/高通骁龙 "wikilink")[450](https://zh.wikipedia.org/wiki/高通驍龍元件列表#Snapdragon_450 "wikilink")8核心處理器和[Adreno 560图像处理器](../Page/Adreno.md "wikilink")。
 
-显示屏方面，Samsung Galaxy J8採用6.0英寸1440p Super
-AMOLED顯示屏，寬高比為18.5：9，同时搭载三星的Infinity
-Display。
+显示屏方面，Samsung Galaxy J8採用6.0英寸1440p Super AMOLED顯示屏，寬高比為18.5：9，同时搭载三星的Infinity Display。
 
-Samsung Galaxy J8有32或64GB的存儲選項。32GB的机型拥有3GB RAM；64GB的机型则有4GB
-RAM。所有型號都有三个SIM卡插槽和一個microSD卡插槽，可以最大限度地將手機存儲空間擴大到接近256GB的存儲空間。
+Samsung Galaxy J8有32或64GB的存儲選項。32GB的机型拥有3GB RAM；64GB的机型则有4GB RAM。所有型號都有三个SIM卡插槽和一個microSD卡插槽，可以最大限度地將手機存儲空間擴大到接近256GB的存儲空間。
 
-音响方面，Samsung Galaxy J8配有3.5 mm耳機插孔以及支持Dolby
-Atmos的[AKG調諧立體聲揚聲器](../Page/AKG.md "wikilink")。
+音响方面，Samsung Galaxy J8配有3.5 mm耳機插孔以及支持Dolby Atmos的[AKG](../Page/AKG.md "wikilink")調諧立體聲揚聲器。
 
 相機系統是雙攝像頭設置，指紋傳感器已經移動到攝像機設置下方，就像S9和S9+一樣。
 
-Samsung Galaxy
-J8共有5种解锁方法，即[指纹解锁](https://zh.wikipedia.org/wiki/指纹 "wikilink")、[脸部识别解锁](https://zh.wikipedia.org/wiki/脸 "wikilink")、混合密码解锁、PIN码解锁以及九宫格解锁。此外，用户也可通过三星内置的Samsung
-KNOX和Samsung Secure Folder功能对任何一个手机内档案或文件夹进行加密保护。
+Samsung Galaxy J8共有5种解锁方法，即[指纹解锁](https://zh.wikipedia.org/wiki/指纹 "wikilink")、[脸部识别解锁](https://zh.wikipedia.org/wiki/脸 "wikilink")、混合密码解锁、PIN码解锁以及九宫格解锁。此外，用户也可通过三星内置的Samsung KNOX和Samsung Secure Folder功能对任何一个手机内档案或文件夹进行加密保护。
 
 ## 版本
 
@@ -33,8 +21,8 @@ KNOX和Samsung Secure Folder功能对任何一个手机内档案或文件夹进�
 Samsung Galaxy J8 共有3个不同版本的型号，不同地区销售不同型号。
 
   - SM-J810F/DS（国际版）
-  - SM-J810Y/DS（[亚洲版](../Page/亚洲.md "wikilink")）
-  - SM-J810G/DS（[印度特别版](../Page/印度.md "wikilink")）
+  - SM-J810Y/DS（[亚洲](../Page/亚洲.md "wikilink")版）
+  - SM-J810G/DS（[印度](../Page/印度.md "wikilink")特别版）
 
 ### 颜色
 
@@ -75,7 +63,7 @@ Samsung Galaxy J8 共有3个不同版本的型号，不同地区销售不同型�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Android.md" title="wikilink">Android系统原厂版本</a></p></td>
+<td><p><a href="../Page/Android.md" title="wikilink">Android</a>系统原厂版本</p></td>
 <td><p><a href="../Page/Android.md" title="wikilink">Android 8.0 Oreo</a></p></td>
 <td></td>
 <td></td>
@@ -182,8 +170,4 @@ Samsung Galaxy J8 共有3个不同版本的型号，不同地区销售不同型�
 
 ## 参考资料
 
-[Category:2018年面世的手機](https://zh.wikipedia.org/wiki/Category:2018年面世的手機 "wikilink")
-[Category:平板手机](https://zh.wikipedia.org/wiki/Category:平板手机 "wikilink")
-[Category:三星Galaxy](https://zh.wikipedia.org/wiki/Category:三星Galaxy "wikilink")
-[Category:三星手機](https://zh.wikipedia.org/wiki/Category:三星手機 "wikilink")
-[Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink")
+[Category:2018年面世的手機](https://zh.wikipedia.org/wiki/Category:2018年面世的手機 "wikilink") [Category:平板手机](https://zh.wikipedia.org/wiki/Category:平板手机 "wikilink") [Category:三星Galaxy](https://zh.wikipedia.org/wiki/Category:三星Galaxy "wikilink") [Category:三星手機](https://zh.wikipedia.org/wiki/Category:三星手機 "wikilink") [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink")

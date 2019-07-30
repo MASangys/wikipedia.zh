@@ -1,4 +1,4 @@
-在[社会科学中](../Page/社会科学.md "wikilink")，特别是在[语言学中](../Page/语言学.md "wikilink")，**合作原则**描述了人们在共同的社会环境中如何实现有效的会话交际，听者和说话者如何合作，如何相互接受对方以特定的方式被理解。根据[保羅·格萊斯的](https://zh.wikipedia.org/wiki/保羅·格萊斯 "wikilink")[语用论](../Page/语用学.md "wikilink")，我们有四个格言。
+在[社会科学](../Page/社会科学.md "wikilink")中，特别是在[语言学](../Page/语言学.md "wikilink")中，**合作原则**描述了人们在共同的社会环境中如何实现有效的会话交际，听者和说话者如何合作，如何相互接受对方以特定的方式被理解。根据[保羅·格萊斯的](https://zh.wikipedia.org/wiki/保羅·格萊斯 "wikilink")[语用论](../Page/语用学.md "wikilink")，我们有四个格言。
 
 ## 格莱斯的格言
 
@@ -52,9 +52,6 @@
 
   - 在那里格莱斯介绍了他的格言。
 
-[Category:原則](https://zh.wikipedia.org/wiki/Category:原則 "wikilink")
-[Category:语言哲学](https://zh.wikipedia.org/wiki/Category:语言哲学 "wikilink")
-[Category:語用學](https://zh.wikipedia.org/wiki/Category:語用學 "wikilink")
+[Category:原則](https://zh.wikipedia.org/wiki/Category:原則 "wikilink") [Category:语言哲学](https://zh.wikipedia.org/wiki/Category:语言哲学 "wikilink") [Category:語用學](https://zh.wikipedia.org/wiki/Category:語用學 "wikilink")
 
-1.  For arguments that Grice's maxim is best understood in terms of
-    knowledge, see
+1.  For arguments that Grice's maxim is best understood in terms of knowledge, see

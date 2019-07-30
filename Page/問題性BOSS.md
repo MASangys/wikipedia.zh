@@ -1,5 +1,4 @@
-《**問題性BOSS**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN電視台播出的](https://zh.wikipedia.org/wiki/tvN "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")，由[申東燁](../Page/申東燁.md "wikilink")、[張東民主持](../Page/張東民.md "wikilink")，[鄭俊鎬](../Page/鄭俊鎬.md "wikilink")、、[Tony
-An](https://zh.wikipedia.org/wiki/Tony_An "wikilink")、[李天熙參與演出](../Page/李天熙.md "wikilink")。節目主軸為觀察韓國代表藝人CEO職場生活的辦公室型真人秀，展示藝人不是放送人而是事業家的一面，以及把他們當做老闆的職場人之間的“同床異夢”\[1\]\[2\]\[3\]。
+《**問題性BOSS**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN電視台播出的](https://zh.wikipedia.org/wiki/tvN "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")，由[申東燁](../Page/申東燁.md "wikilink")、[張東民](../Page/張東民.md "wikilink")主持，[鄭俊鎬](../Page/鄭俊鎬.md "wikilink")、、[Tony An](https://zh.wikipedia.org/wiki/Tony_An "wikilink")、[李天熙](../Page/李天熙.md "wikilink")參與演出。節目主軸為觀察韓國代表藝人CEO職場生活的辦公室型真人秀，展示藝人不是放送人而是事業家的一面，以及把他們當做老闆的職場人之間的“同床異夢”\[1\]\[2\]\[3\]。
 
 ## 節目成員
 
@@ -54,8 +53,6 @@ An](https://zh.wikipedia.org/wiki/Tony_An "wikilink")、[李天熙參與演出](
 </tr>
 </tbody>
 </table>
-
-## 節目列表
 
 ## 收視率
 
@@ -137,9 +134,7 @@ An](https://zh.wikipedia.org/wiki/Tony_An "wikilink")、[李天熙參與演出](
   - [韓國tvN官方網站](http://program.tving.com/tvn/celebceo/)
   - [問題性BOSS-NAVER](https://m.entertain.naver.com/tvBrand/9352100)
 
-[Category:tvN](https://zh.wikipedia.org/wiki/Category:tvN "wikilink")
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
+[Category:tvN](https://zh.wikipedia.org/wiki/Category:tvN "wikilink") [Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
 
 1.
 2.

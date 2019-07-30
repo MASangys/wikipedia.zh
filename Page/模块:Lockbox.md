@@ -1,8 +1,6 @@
 local export = {}
 
-\-- XXX: OUTRAGEOUS ABUSE OF SCRIBUNTO API -- Generates a transclusion
-without incrementing the "expensive function" count local
-generate_transclusion do
+\-- XXX: OUTRAGEOUS ABUSE OF SCRIBUNTO API -- Generates a transclusion without incrementing the "expensive function" count local generate_transclusion do
 
 `   local mock_title = mw.title.new(mw.title.getCurrentTitle().id)`
 `   local getContent = mock_title.getContent`
@@ -75,25 +73,17 @@ function export.lock(frame)
 `               -- a template.`
 `               if item:sub(1, 1) == ':' then`
 `                   generate_transclusion(title)`
-`                   table.insert(transclusion_list, '* `[`'``   ``..``
- ``prefixed_text``   ``..``
- ``'`](https://zh.wikipedia.org/wiki/'_.._prefixed_text_.._' "wikilink")`')`
+`                   table.insert(transclusion_list, '* `[`'``   ``..``   ``prefixed_text``   ``..``   ``'`](https://zh.wikipedia.org/wiki/'_.._prefixed_text_.._' "wikilink")`')`
 `               else`
 `                   generate_transclusion('Template:' .. prefixed_text)`
-`                   table.insert(transclusion_list, '* `[`Template:'``
- ``..``   ``prefixed_text``   ``..``
- ``'`](https://zh.wikipedia.org/wiki/Template:'_.._prefixed_text_.._' "wikilink")`')`
+`                   table.insert(transclusion_list, '* `[`Template:'``   ``..``   ``prefixed_text``   ``..``   ``'`](https://zh.wikipedia.org/wiki/Template:'_.._prefixed_text_.._' "wikilink")`')`
 `               end`
 `           elseif ns == 6 or ns == 14 then -- File or Category namespace`
 `               generate_transclusion(title)`
-`               table.insert(transclusion_list, '* `[`:'``   ``..``
- ``prefixed_text``   ``..``
- ``'`](https://zh.wikipedia.org/wiki/:'_.._prefixed_text_.._' "wikilink")`')`
+`               table.insert(transclusion_list, '* `[`:'``   ``..``   ``prefixed_text``   ``..``   ``'`](https://zh.wikipedia.org/wiki/:'_.._prefixed_text_.._' "wikilink")`')`
 `           else`
 `               generate_transclusion(title)`
-`               table.insert(transclusion_list, '* `[`'``   ``..``
- ``prefixed_text``   ``..``
- ``'`](https://zh.wikipedia.org/wiki/'_.._prefixed_text_.._' "wikilink")`')`
+`               table.insert(transclusion_list, '* `[`'``   ``..``   ``prefixed_text``   ``..``   ``'`](https://zh.wikipedia.org/wiki/'_.._prefixed_text_.._' "wikilink")`')`
 `           end`
 `       else`
 `           warnings[#warnings + 1] = make_wikitext_warning(string.format(`
@@ -118,3 +108,9 @@ function export.lock(frame)
 `           end`
 `           ret = ret .. table.concat(warnings, '\n') .. '\n\n'`
 `       end`
+`       return ret .. table.concat(transclusion_list, '\n')`
+`   end`
+
+end
+
+return export

@@ -1,5 +1,4 @@
-**吕志和奖**（），全称为「吕志和奖 -
-世界文明奖」，是一个国际奖项，由香港[嘉华集团主席](https://zh.wikipedia.org/wiki/嘉华集团 "wikilink")[吕志和于](https://zh.wikipedia.org/wiki/吕志和 "wikilink")2015年9月24日设立，該奖项主要是为了表彰为世界文明发展作出杰出贡献的人士或团体\[1\]。「吕志和奖」每年会设立三个奖项类别：持续发展奖、人类福祉奖和正能量奖\[2\]，而每位得奖者均获得现金2,000万[港元](../Page/港元.md "wikilink")（约256万[美元](../Page/美元.md "wikilink")）\[3\]\[4\]。它由一个三层架构组织选拔所产生，包括奖项理事会、奖项推荐委员会及三个奖项类别的遴选专责小组，获奖者须得到三个阶段评审一致同意最终选出\[5\]。
+**吕志和奖**（），全称为「吕志和奖 - 世界文明奖」，是一个国际奖项，由香港[嘉华集团主席](https://zh.wikipedia.org/wiki/嘉华集团 "wikilink")[吕志和于](https://zh.wikipedia.org/wiki/吕志和 "wikilink")2015年9月24日设立，該奖项主要是为了表彰为世界文明发展作出杰出贡献的人士或团体\[1\]。「吕志和奖」每年会设立三个奖项类别：持续发展奖、人类福祉奖和正能量奖\[2\]，而每位得奖者均获得现金2,000万[港元](../Page/港元.md "wikilink")（约256万[美元](../Page/美元.md "wikilink")）\[3\]\[4\]。它由一个三层架构组织选拔所产生，包括奖项理事会、奖项推荐委员会及三个奖项类别的遴选专责小组，获奖者须得到三个阶段评审一致同意最终选出\[5\]。
 
 ## 奖项类型
 
@@ -53,10 +52,10 @@
 |                                                                                                                                                      |                                                                      |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
 | 吕志和博士（[大紫荊勳賢](https://zh.wikipedia.org/wiki/大紫荊勳賢 "wikilink")、[MBE](https://zh.wikipedia.org/wiki/员佐勋章 "wikilink")、[JP](../Page/太平紳士.md "wikilink")） | 「吕志和奖」创办人及董事会主席暨奖项理事会主席                                              |
-| [董建华](https://zh.wikipedia.org/wiki/董建华 "wikilink")（大紫荆勋贤）                                                                                           | [中国人民政治协商会议第](../Page/中国人民政治协商会议.md "wikilink")13届全国委员会副主席           |
-| [玛哈·扎克里·诗琳通公主殿下](https://zh.wikipedia.org/wiki/玛哈·扎克里·诗琳通 "wikilink")                                                                                | [泰国](../Page/泰国.md "wikilink")[扎克里王朝公主](../Page/扎克里王朝.md "wikilink") |
+| [董建华](https://zh.wikipedia.org/wiki/董建华 "wikilink")（大紫荆勋贤）                                                                                           | [中国人民政治协商会议](../Page/中国人民政治协商会议.md "wikilink")第13届全国委员会副主席           |
+| [玛哈·扎克里·诗琳通公主殿下](https://zh.wikipedia.org/wiki/玛哈·扎克里·诗琳通 "wikilink")                                                                                | [泰国](../Page/泰国.md "wikilink")[扎克里王朝](../Page/扎克里王朝.md "wikilink")公主 |
 | 詹姆斯·沃尔芬森爵士                                                                                                                                           | Wolfensohn & Company, LLC主席                                          |
-| 罗云·道格拉斯·威廉斯博士                                                                                                                                        | [剑桥大学莫德林学院院长](../Page/剑桥大学莫德林学院.md "wikilink")                       |
+| 罗云·道格拉斯·威廉斯博士                                                                                                                                        | [剑桥大学莫德林学院](../Page/剑桥大学莫德林学院.md "wikilink")院长                       |
 |                                                                                                                                                      |                                                                      |
 
 ### 奖项推荐委员会
@@ -66,10 +65,10 @@
 |                                                                                                             |                                                                                         |
 | ----------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | [刘遵义](https://zh.wikipedia.org/wiki/刘遵义 "wikilink")                                                         | 「吕志和奖」奖项推荐委员会主席及[香港中文大学蓝饶富暨蓝凯丽经济学讲座教授](https://zh.wikipedia.org/wiki/香港中文大学 "wikilink") |
-| 科林·卢卡斯爵士（[BBS](https://zh.wikipedia.org/wiki/銅紫荊星章 "wikilink")）                                             | [牛津大学荣休校长](../Page/牛津大学.md "wikilink")                                                  |
-| 莫言博士                                                                                                        | 2012年[诺贝尔文学奖得奖者](../Page/诺贝尔文学奖.md "wikilink")                                          |
-| 海瑟尔·门罗－布鲁姆博士（[OC](https://zh.wikipedia.org/wiki/加拿大勳章 "wikilink")、OQ、[FRSC](../Page/加拿大皇家學會.md "wikilink")） | [加拿大退休金计划投资委员会主席及](../Page/加拿大.md "wikilink")[麦吉尔大学荣誉校长](../Page/麦吉尔大学.md "wikilink")   |
-| 姚期智教授                                                                                                       | [清华大学交叉信息研究院院长](../Page/清华大学交叉信息研究院.md "wikilink")                                      |
+| 科林·卢卡斯爵士（[BBS](https://zh.wikipedia.org/wiki/銅紫荊星章 "wikilink")）                                             | [牛津大学](../Page/牛津大学.md "wikilink")荣休校长                                                  |
+| 莫言博士                                                                                                        | 2012年[诺贝尔文学奖](../Page/诺贝尔文学奖.md "wikilink")得奖者                                          |
+| 海瑟尔·门罗－布鲁姆博士（[OC](https://zh.wikipedia.org/wiki/加拿大勳章 "wikilink")、OQ、[FRSC](../Page/加拿大皇家學會.md "wikilink")） | [加拿大](../Page/加拿大.md "wikilink")退休金计划投资委员会主席及[麦吉尔大学](../Page/麦吉尔大学.md "wikilink")荣誉校长   |
+| 姚期智教授                                                                                                       | [清华大学交叉信息研究院](../Page/清华大学交叉信息研究院.md "wikilink")院长                                      |
 | 叶文心教授                                                                                                       | [伯克莱加州大学校长高级中国顾问](https://zh.wikipedia.org/wiki/伯克莱加州大学 "wikilink")                     |
 |                                                                                                             |                                                                                         |
 
@@ -96,7 +95,7 @@
 <td><ul>
 <li>玛格丽特·列维教授</li>
 <li>詹姆士·莫理斯教授</li>
-<li><a href="../Page/辛世文.md" title="wikilink">辛世文教授</a></li>
+<li><a href="../Page/辛世文.md" title="wikilink">辛世文</a>教授</li>
 <li>彼得·蒂默教授</li>
 <li>约阿希姆‧冯·布劳恩教授</li>
 </ul></td>
@@ -105,7 +104,7 @@
 <li>马克·迪布尔教授</li>
 <li><a href="https://zh.wikipedia.org/wiki/叶玉如" title="wikilink">叶玉如教授</a></li>
 <li><a href="https://zh.wikipedia.org/wiki/卢煜明" title="wikilink">卢煜明教授</a></li>
-<li><a href="../Page/饶子和.md" title="wikilink">饶子和教授</a></li>
+<li><a href="../Page/饶子和.md" title="wikilink">饶子和</a>教授</li>
 </ul></td>
 <td><ul>
 <li>菲利普·克雷文爵士</li>
@@ -134,7 +133,7 @@
 <td><ul>
 <li>玛莎·卡戈博士</li>
 <li>加雷斯·埃文斯教授</li>
-<li><a href="../Page/金耀基.md" title="wikilink">金耀基教授</a></li>
+<li><a href="../Page/金耀基.md" title="wikilink">金耀基</a>教授</li>
 <li>柯蒂斯·科尔哈斯</li>
 <li><a href="../Page/林瑞麟.md" title="wikilink">林瑞麟</a></li>
 </ul></td>
@@ -146,7 +145,7 @@
 <li>帕萨·达斯古普塔爵士</li>
 <li><a href="https://zh.wikipedia.org/wiki/陆恭蕙" title="wikilink">陆恭蕙教授</a></li>
 <li>詹姆斯·斯威尼教授</li>
-<li><a href="../Page/徐扬生.md" title="wikilink">徐扬生教授</a></li>
+<li><a href="../Page/徐扬生.md" title="wikilink">徐扬生</a>教授</li>
 </ul></td>
 <td><ul>
 <li>鲍达民先生</li>

@@ -95,10 +95,7 @@
 </tbody>
 </table>
 
-**德黑兰-库姆-伊斯法罕高速铁路**是[伊朗第一条真正意义上的](https://zh.wikipedia.org/wiki/伊朗 "wikilink")[高速铁路](../Page/高速鐵路.md "wikilink")，它目前还处于施工当中。\[1\]
-这条铁路建成后会缩短来往[德黑兰和](../Page/德黑兰.md "wikilink")[伊斯法罕的通勤时间](../Page/伊斯法罕.md "wikilink")，其中铁路线经过伊朗又一大城市[库姆](../Page/库姆.md "wikilink")。
-它穿过[伊玛目·霍梅尼国际机场](../Page/伊玛目霍梅尼国际机场.md "wikilink")，这个机场也是伊朗最主要的国际机场之一。因为高铁线连接着伊斯法罕和库姆，所以乘坐这条高铁线上行驶的高速列车就可以快速地来往于库姆和伊斯法罕这两个大城市，这样既缩短了通勤时间又使其旅途更为简便。\[2\]
-[中国铁路工程集团是这条线路的土木工程负责队伍](../Page/中国铁路工程集团.md "wikilink")。
+**德黑兰-库姆-伊斯法罕高速铁路**是[伊朗第一条真正意义上的](https://zh.wikipedia.org/wiki/伊朗 "wikilink")[高速铁路](../Page/高速鐵路.md "wikilink")，它目前还处于施工当中。\[1\] 这条铁路建成后会缩短来往[德黑兰](../Page/德黑兰.md "wikilink")和[伊斯法罕](../Page/伊斯法罕.md "wikilink")的通勤时间，其中铁路线经过伊朗又一大城市[库姆](../Page/库姆.md "wikilink")。 它穿过[伊玛目·霍梅尼国际机场](../Page/伊玛目霍梅尼国际机场.md "wikilink")，这个机场也是伊朗最主要的国际机场之一。因为高铁线连接着伊斯法罕和库姆，所以乘坐这条高铁线上行驶的高速列车就可以快速地来往于库姆和伊斯法罕这两个大城市，这样既缩短了通勤时间又使其旅途更为简便。\[2\] [中国铁路工程集团](../Page/中国铁路工程集团.md "wikilink")是这条线路的土木工程负责队伍。
 
 ## 线路提议历史
 
@@ -106,16 +103,14 @@
 
 后来，在接受德黑兰–马什哈德铁路电气化和提速至200km/h（本地列车）和250km/h（EMU）这个提议后。2006年，德黑兰-伊斯法罕高速铁路的提议团队也开始寻找新的铁路建设公司。
 
-在那时可行的技术和建设标准下，把这段高速铁路的最高限速提至350km/h是很容易的。而这项提议是由道路运输大臣提出的。
-当这项计划移交给轨道顾问的时候，设计师又开始重新寻找新的可适应350km/h标准的轨道路径形状。最终发现从库姆到伊斯法罕的70%地理状况是可以适应新的设计时速要求。
+在那时可行的技术和建设标准下，把这段高速铁路的最高限速提至350km/h是很容易的。而这项提议是由道路运输大臣提出的。 当这项计划移交给轨道顾问的时候，设计师又开始重新寻找新的可适应350km/h标准的轨道路径形状。最终发现从库姆到伊斯法罕的70%地理状况是可以适应新的设计时速要求。
 
 ## 车站
 
   - [德黑兰站](../Page/德黑蘭站.md "wikilink")
-  - [伊玛目·霍梅尼国际机场2号和3号航站楼铁路站](https://zh.wikipedia.org/wiki/Imam_Khomeini_International_Airport_Terminal_2_and_3_Railway_Station "wikilink")
-    (计划中)
-  - [库姆站](../Page/库姆.md "wikilink") (计划中)
-  - [伊斯法罕贝站](../Page/伊斯法罕.md "wikilink")(计划中)
+  - [伊玛目·霍梅尼国际机场2号和3号航站楼铁路站](https://zh.wikipedia.org/wiki/Imam_Khomeini_International_Airport_Terminal_2_and_3_Railway_Station "wikilink") (计划中)
+  - [库姆](../Page/库姆.md "wikilink")站 (计划中)
+  - [伊斯法罕](../Page/伊斯法罕.md "wikilink")贝站(计划中)
 
 ## 脚注
 
@@ -123,9 +118,7 @@
 
 </references>
 
-[Category:伊朗铁路](https://zh.wikipedia.org/wiki/Category:伊朗铁路 "wikilink")
-[Category:伊斯法罕省交通](https://zh.wikipedia.org/wiki/Category:伊斯法罕省交通 "wikilink")
-[Category:伊斯法罕交通](https://zh.wikipedia.org/wiki/Category:伊斯法罕交通 "wikilink")
+[Category:伊朗铁路](https://zh.wikipedia.org/wiki/Category:伊朗铁路 "wikilink") [Category:伊斯法罕省交通](https://zh.wikipedia.org/wiki/Category:伊斯法罕省交通 "wikilink") [Category:伊斯法罕交通](https://zh.wikipedia.org/wiki/Category:伊斯法罕交通 "wikilink")
 
 1.
 2.

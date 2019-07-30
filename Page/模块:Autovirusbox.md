@@ -1,12 +1,6 @@
-require('Module:No globals') local ItalicTitle = require('Module:Italic
-title') local p = {} -- functions made public local l = {} -- internal
-functions, kept separate
+require('Module:No globals') local ItalicTitle = require('Module:Italic title') local p = {} -- functions made public local l = {} -- internal functions, kept separate
 
-\--
-=============================================================================
--- main implements Template:Virusbox; see the documentation of that
-template -- for details. --
-=============================================================================
+\-- ============================================================================= -- main implements Template:Virusbox; see the documentation of that template -- for details. -- =============================================================================
 
 function p.main(frame)
 
@@ -51,8 +45,7 @@ function p.main(frame)
 `       else`
 `           name = targetTaxon`
 `           if italicsRequired then`
-`               name = "`*`"``   ``..``   ``targetTaxon``   ``..``
- ``"`*`"`
+`               name = "`*`"``   ``..``   ``targetTaxon``   ``..``   ``"`*`"`
 `           end`
 `       end`
 `   end`
@@ -99,11 +92,7 @@ function p.main(frame)
 `         parent = autoTaxon,`
 `         bold_first = boldFirst,`
 
-\--[authority = authority, parent_authority = parentAuthority,
-grandparent_authority = gparentAuthority, grandparent_authority =
-gparentAuthority, greatgrandparent_authority = ggparentAuthority,
-greatgreatgrandparent_authority = gggparentAuthority, offset =
-tostring(offset),](https://zh.wikipedia.org/wiki/authority_=_authority,_parent_authority_=_parentAuthority,_grandparent_authority_=_gparentAuthority,_grandparent_authority_=_gparentAuthority,_greatgrandparent_authority_=_ggparentAuthority,_greatgreatgrandparent_authority_=_gggparentAuthority,_offset_=_tostring\(offset\), "wikilink")
+\--[authority = authority, parent_authority = parentAuthority, grandparent_authority = gparentAuthority, grandparent_authority = gparentAuthority, greatgrandparent_authority = ggparentAuthority, greatgreatgrandparent_authority = gggparentAuthority, offset = tostring(offset),](https://zh.wikipedia.org/wiki/authority_=_authority,_parent_authority_=_parentAuthority,_grandparent_authority_=_gparentAuthority,_grandparent_authority_=_gparentAuthority,_greatgrandparent_authority_=_ggparentAuthority,_greatgreatgrandparent_authority_=_gggparentAuthority,_offset_=_tostring\(offset\), "wikilink")
 
 `         image = args['image'] or '',`
 `         image_upright = args['image_upright'] or '',`
@@ -139,17 +128,9 @@ tostring(offset),](https://zh.wikipedia.org/wiki/authority_=_authority,_parent_a
 
 end
 
-\--
-=============================================================================
--- paramChk checks the taxon-specifying parameters for consistency,
-selecting -- the target taxon (the taxon that is the target of the
-taxobox), the -- infra-taxon (the taxon below species level), if any,
-and the 'auto-taxon', -- the taxon that is the entry point into the
-automated taxobox system. --
-=============================================================================
+\-- ============================================================================= -- paramChk checks the taxon-specifying parameters for consistency, selecting -- the target taxon (the taxon that is the target of the taxobox), the -- infra-taxon (the taxon below species level), if any, and the 'auto-taxon', -- the taxon that is the entry point into the automated taxobox system. -- =============================================================================
 
-function l.paramChk(frame, taxon, parent, species, strain, serotype,
-virus)
+function l.paramChk(frame, taxon, parent, species, strain, serotype, virus)
 
 `   -- set target taxon and infra-taxon`
 `   local infraTaxon = ''`

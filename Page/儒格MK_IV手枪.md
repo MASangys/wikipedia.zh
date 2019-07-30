@@ -1,5 +1,4 @@
-**儒格Ⅳ型**（）是[美国武器制造商](../Page/美国.md "wikilink")[斯特姆-儒格公司生产的一系列使用](https://zh.wikipedia.org/wiki/斯特姆-儒格公司 "wikilink")[.22
-LR](../Page/.22_LR.md "wikilink")[凸缘底火子弹的](https://zh.wikipedia.org/wiki/凸缘底火 "wikilink")[半自动手枪](https://zh.wikipedia.org/wiki/半自动手枪 "wikilink")，是著名的[儒格标准型系列的第四代产品](https://zh.wikipedia.org/wiki/儒格标准型 "wikilink")。
+**儒格Ⅳ型**（）是[美国](../Page/美国.md "wikilink")武器制造商[斯特姆-儒格公司生产的一系列使用](https://zh.wikipedia.org/wiki/斯特姆-儒格公司 "wikilink")[.22 LR](../Page/.22_LR.md "wikilink")[凸缘底火子弹的](https://zh.wikipedia.org/wiki/凸缘底火 "wikilink")[半自动手枪](https://zh.wikipedia.org/wiki/半自动手枪 "wikilink")，是著名的[儒格标准型系列的第四代产品](https://zh.wikipedia.org/wiki/儒格标准型 "wikilink")。
 
 ## 与儒格Ⅲ型的不同
 
@@ -22,9 +21,7 @@ LR](../Page/.22_LR.md "wikilink")[凸缘底火子弹的](https://zh.wikipedia.or
 
 ## 参考资料
 
-[Category:美國半自動手槍](https://zh.wikipedia.org/wiki/Category:美國半自動手槍 "wikilink")
-[Category:半自動手槍](https://zh.wikipedia.org/wiki/Category:半自動手槍 "wikilink")
-[Category:.22_LR口徑槍械](https://zh.wikipedia.org/wiki/Category:.22_LR口徑槍械 "wikilink")
+[Category:美國半自動手槍](https://zh.wikipedia.org/wiki/Category:美國半自動手槍 "wikilink") [Category:半自動手槍](https://zh.wikipedia.org/wiki/Category:半自動手槍 "wikilink") [Category:.22_LR口徑槍械](https://zh.wikipedia.org/wiki/Category:.22_LR口徑槍械 "wikilink")
 
 1.
 

@@ -1,8 +1,4 @@
-**PLT**，是韓國Planetarium
-Records於2018年推出的六人男子合作團體，成員包括Kei.G、June、Moti、P.ODD、Gaho及Villain。Kei.G作為團體一員卻鮮少出現於宣傳與影片中，但專輯里的intro和outro都出自于他。6位成員原本皆為獨立歌手，在Planetarium
-Records的推動下組成了團體PLT并在2018年1月3日以《Blah》作為首張專輯《PLANETARIUM CASE
-\#01》的主打歌出道。2019年2月起，團體前往[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")、[俄羅斯](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")[莫斯科](../Page/莫斯科.md "wikilink")、[西班牙](../Page/西班牙.md "wikilink")[馬德里](https://zh.wikipedia.org/wiki/馬德里 "wikilink")、[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")[巴黎及](../Page/巴黎.md "wikilink")[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[柏林舉行第一次歐洲巡迥演唱會](../Page/柏林.md "wikilink")，主題為《We
-Go Holic》\[1\]\[2\]。
+**PLT**，是韓國Planetarium Records於2018年推出的六人男子合作團體，成員包括Kei.G、June、Moti、P.ODD、Gaho及Villain。Kei.G作為團體一員卻鮮少出現於宣傳與影片中，但專輯里的intro和outro都出自于他。6位成員原本皆為獨立歌手，在Planetarium Records的推動下組成了團體PLT并在2018年1月3日以《Blah》作為首張專輯《PLANETARIUM CASE \#01》的主打歌出道。2019年2月起，團體前往[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")、[俄羅斯](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")[莫斯科](../Page/莫斯科.md "wikilink")、[西班牙](../Page/西班牙.md "wikilink")[馬德里](https://zh.wikipedia.org/wiki/馬德里 "wikilink")、[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")[巴黎](../Page/巴黎.md "wikilink")及[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[柏林](../Page/柏林.md "wikilink")舉行第一次歐洲巡迥演唱會，主題為《We Go Holic》\[1\]\[2\]。
 
 ## 成員資料
 
@@ -164,11 +160,7 @@ Go Holic》\[1\]\[2\]。
 
 ## 參考文獻
 
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:2018年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2018年成立的音樂團體 "wikilink")
-[Category:2018年韓國建立](https://zh.wikipedia.org/wiki/Category:2018年韓國建立 "wikilink")
+[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2018年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2018年成立的音樂團體 "wikilink") [Category:2018年韓國建立](https://zh.wikipedia.org/wiki/Category:2018年韓國建立 "wikilink")
 
 1.
 2.

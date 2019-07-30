@@ -1,4 +1,4 @@
-《**罪案心理小组X**》（），2018年[中国刑侦剧](https://zh.wikipedia.org/wiki/中国 "wikilink")。本剧改编自作家摸底牌的小说《诡案追凶》，由[张超](../Page/张超_\(歌手\).md "wikilink")、[米露](../Page/米露.md "wikilink")、[李晨浩](../Page/李晨浩.md "wikilink")、[王润泽领衔主演](https://zh.wikipedia.org/wiki/王润泽 "wikilink")\[1\]\[2\]，[搜狐视频于](../Page/搜狐视频.md "wikilink")2018年11月22日首播。\[3\]
+《**罪案心理小组X**》（），2018年[中国刑侦剧](https://zh.wikipedia.org/wiki/中国 "wikilink")。本剧改编自作家摸底牌的小说《诡案追凶》，由[张超](../Page/张超_\(歌手\).md "wikilink")、[米露](../Page/米露.md "wikilink")、[李晨浩](../Page/李晨浩.md "wikilink")、[王润泽领衔主演](https://zh.wikipedia.org/wiki/王润泽 "wikilink")\[1\]\[2\]，[搜狐视频](../Page/搜狐视频.md "wikilink")于2018年11月22日首播。\[3\]
 
 ## 播出时间
 
@@ -57,12 +57,8 @@
 ## 外部连结
 
   -
-[Category:中文連續劇](https://zh.wikipedia.org/wiki/Category:中文連續劇 "wikilink")
-[Category:2018年中国网络剧](https://zh.wikipedia.org/wiki/Category:2018年中国网络剧 "wikilink")
-[Category:中國網路小說改編電視劇](https://zh.wikipedia.org/wiki/Category:中國網路小說改編電視劇 "wikilink")
+[Category:中文連續劇](https://zh.wikipedia.org/wiki/Category:中文連續劇 "wikilink") [Category:2018年中国网络剧](https://zh.wikipedia.org/wiki/Category:2018年中国网络剧 "wikilink") [Category:中國網路小說改編電視劇](https://zh.wikipedia.org/wiki/Category:中國網路小說改編電視劇 "wikilink")
 
-1.  [张超新剧开机
-    《犯罪心理小组X》化身毒舌教授](http://ent.163.com/17/0627/10/CNUB7L0E000380EN.html)
-2.  [《犯罪心理小组X》杀青
-    米露变身“暴走萝莉”](http://ent.163.com/17/0829/11/CT0LH7EQ00038793.html)
+1.  [张超新剧开机 《犯罪心理小组X》化身毒舌教授](http://ent.163.com/17/0627/10/CNUB7L0E000380EN.html)
+2.  [《犯罪心理小组X》杀青 米露变身“暴走萝莉”](http://ent.163.com/17/0829/11/CT0LH7EQ00038793.html)
 3.  [搜狐自制网剧《罪案心理小组X》定档11.22](http://ent.huanqiu.com/yuleyaowen/2018-11/13496414.html)

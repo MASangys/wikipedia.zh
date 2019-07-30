@@ -1,6 +1,4 @@
-**Tropical**（），是LUK
-Factory旗下的韩国女子音乐团体，分别为：[恩率](../Page/Bambino.md "wikilink")、Jeong
-Hyun、Joo Eun、Ji Won 四名成員。组合于2018年8月30日携單曲《Mwah》正式出道。
+**Tropical**（），是LUK Factory旗下的韩国女子音乐团体，分别为：[恩率](../Page/Bambino.md "wikilink")、Jeong Hyun、Joo Eun、Ji Won 四名成員。组合于2018年8月30日携單曲《Mwah》正式出道。
 
 ## 成員資料
 
@@ -59,10 +57,7 @@ Hyun、Joo Eun、Ji Won 四名成員。组合于2018年8月30日携單曲《Mwah
   -
   - V LIVE上的[LUKfactory 官方 V Live 頻道](https://channels.vlive.tv/C5B72F)
 
-[Category:2018年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2018年成立的音樂團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
-[Category:Tropical_(group)](https://zh.wikipedia.org/wiki/Category:Tropical_\(group\) "wikilink")
+[Category:2018年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2018年成立的音樂團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:Tropical_(group)](https://zh.wikipedia.org/wiki/Category:Tropical_\(group\) "wikilink")
 
 1.
 2.

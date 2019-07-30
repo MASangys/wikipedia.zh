@@ -1,15 +1,12 @@
-local p = {} local origArgs local periodicTable_tlcss = '' local
-periodicTable_math_group1 = '' local error = require( 'Module:Error' )
+local p = {} local origArgs local periodicTable_tlcss = '' local periodicTable_math_group1 = '' local error = require( 'Module:Error' )
 
 p.utils = require( 'Module:PeriodicTable/utils' )
 
-local roman = require( 'Module:Roman' ) local yesno = require(
-'Module:Yesno' )
+local roman = require( 'Module:Roman' ) local yesno = require( 'Module:Yesno' )
 
 local lib_arg = {} local templateParameters = {}
 
-local element_layers = {'K','L','M','N','O','P','Q'} local
-element_layers_max =
+local element_layers = {'K','L','M','N','O','P','Q'} local element_layers_max =
 
 function p.fillElementData(frame)
 
@@ -49,14 +46,10 @@ function p.fillElementData(frame)
 `       elseif type(value) == type(0) then eleargs[propetry] = tostring(value) end`
 `   end`
 
-`   if type(element.Z)==type("0") then eleargs.Symbol =  '`[`'``
- ``..``   ``element.Symbol``   ``..``
- ``'`](https://zh.wikipedia.org/wiki/'_.._element.page_.._' "wikilink")`'  end`
+`   if type(element.Z)==type("0") then eleargs.Symbol =  '`[`'``   ``..``   ``element.Symbol``   ``..``   ``'`](https://zh.wikipedia.org/wiki/'_.._element.page_.._' "wikilink")`'  end`
 
 `   if element.page then `
-`       eleargs.NameWithLink = '`[`'``   ``..``   ``element.name``
- ``..``
- ``'`](https://zh.wikipedia.org/wiki/'_.._element.page_.._' "wikilink")`'`
+`       eleargs.NameWithLink = '`[`'``   ``..``   ``element.name``   ``..``   ``'`](https://zh.wikipedia.org/wiki/'_.._element.page_.._' "wikilink")`'`
 `   else`
 `       eleargs.NameWithLink =  element.name`
 `   end`
@@ -157,14 +150,10 @@ mw.log(delnowiki)
 `       elseif type(value) == type(0) then eleargs[propetry] = tostring(value) end`
 `   end`
 
-`   if type(element.Z)==type("0") then eleargs.Symbol =  '`[`'``
- ``..``   ``element.Symbol``   ``..``
- ``'`](https://zh.wikipedia.org/wiki/'_.._element.page_.._' "wikilink")`'  end`
+`   if type(element.Z)==type("0") then eleargs.Symbol =  '`[`'``   ``..``   ``element.Symbol``   ``..``   ``'`](https://zh.wikipedia.org/wiki/'_.._element.page_.._' "wikilink")`'  end`
 
 `   if element.page then `
-`       eleargs.NameWithLink = '`[`'``   ``..``   ``element.name``
- ``..``
- ``'`](https://zh.wikipedia.org/wiki/'_.._element.page_.._' "wikilink")`'`
+`       eleargs.NameWithLink = '`[`'``   ``..``   ``element.name``   ``..``   ``'`](https://zh.wikipedia.org/wiki/'_.._element.page_.._' "wikilink")`'`
 `   else`
 `       eleargs.NameWithLink =  element.name`
 `   end`
@@ -360,8 +349,7 @@ end
 
 -----
 
-function p.renderTemplatePeriodicTable(number, mark, markele, rtype,
-pmodel)
+function p.renderTemplatePeriodicTable(number, mark, markele, rtype, pmodel)
 
 `   option = {}`
 `   local has_119 = (number >= 119)`
@@ -494,8 +482,7 @@ pmodel)
 
 end
 
-function p.renderArticlePeriodicTable(number, mark, markele, rtype,
-pmodel, option)
+function p.renderArticlePeriodicTable(number, mark, markele, rtype, pmodel, option)
 
 `   transitionBelow=yesno(option.transitionBelow or 'no')`
 `   lanthanideBelow=yesno(option.lanthanideBelow or 'yes')`
@@ -940,8 +927,7 @@ end
 
 -----
 
-function p._renderTemplateElementTable_Extended(start_id, end_id,
-ele_series, pred, mark, markele, number, rtype, option)
+function p._renderTemplateElementTable_Extended(start_id, end_id, ele_series, pred, mark, markele, number, rtype, option)
 
 `   local body = ''`
 `   local old_eleid=start_id`
@@ -976,8 +962,7 @@ ele_series, pred, mark, markele, number, rtype, option)
 `   end`
 `   return body`
 
-end function p._renderNavElementTable_Extended(start_id, end_id,
-ele_series, pred, mark, markele, number, rtype)
+end function p._renderNavElementTable_Extended(start_id, end_id, ele_series, pred, mark, markele, number, rtype)
 
 `   local body = ''`
 `   local old_eleid=start_id`
@@ -1019,9 +1004,8 @@ function p.elementDataPreview(frame)
 `   -- For calling from #invoke.`
 `   local pframe = frame:getParent()`
 `   local args = {}`
-`   for k, v in pairs( frame.args ) do`
-`       args[k] = v;       `
-`   end`
+`   for k, v in pairs( pframe.args ) do args[k] = v end`
+`   for k, v in pairs( frame.args ) do args[k] = v end`
 `   periodicTable_tlcss = frame:callParserFunction{ name = '#tag:templatestyles', args = { '', src='元素週期表/styles.css' } }`
 `   local st='' if (args[1] and args[1] ~= '') then st = string.gsub(args[1] , "%s$", "") end`
 `   local ed='' if (args[2] and args[2] ~= '') then ed = string.gsub(args[2] , "%s$", "") end`
@@ -1077,9 +1061,7 @@ end function p._elementDataPreviewRow(value, cols)
 `                       periodicTable_tlcss_inserted = true`
 `                   end`
 `               end body = body .. ' || '`
-`               if value.page then body = body .. '`[`'``   ``..``
- ``value.page``   ``..``
- ``'`](https://zh.wikipedia.org/wiki/'_.._value.page_.._' "wikilink")`' end body = body .. ' || '`
+`               if value.page then body = body .. '`[`'``   ``..``   ``value.page``   ``..``   ``'`](https://zh.wikipedia.org/wiki/'_.._value.page_.._' "wikilink")`' end body = body .. ' || '`
 `               if value.Symbol then body = body .. value.Symbol end body = body .. ' || '`
 `               `
 `               if cols['種類'] then`
@@ -1139,9 +1121,7 @@ end function p._elementDataPreviewRow(value, cols)
 `                       if tonumber(value.Z or -2) >= 173 then iterator={name={"週期未定"},page='未發現元素列表#周期未定'} end`
 `                       local lprefix = ' '; local lpostfix = ''; local lmiddle = ''`
 `                       if iterator then`
-`                           if iterator.page then lprefix = ' `[`';``
- ``lpostfix``   ``=``
- ``'`](https://zh.wikipedia.org/wiki/';_lpostfix_=_' "wikilink")`'; lmiddle = iterator.page .. '|' end`
+`                           if iterator.page then lprefix = ' `[`';``   ``lpostfix``   ``=``   ``'`](https://zh.wikipedia.org/wiki/';_lpostfix_=_' "wikilink")`'; lmiddle = iterator.page .. '|' end`
 `                       end`
 `                       body = body .. lprefix .. lmiddle .. tostring(value.period) .. lpostfix`
 `                   else`
@@ -1162,9 +1142,7 @@ end function p._elementDataPreviewRow(value, cols)
 `                       body = body .. ' `</span>` '`
 `                       if iterator and iterator.name and iterator.name[1] then`
 `                           if iterator.page then`
-`                               body = body .. '`[`'``   ``..``
- ``iterator.page``   ``..``
- ``'`](https://zh.wikipedia.org/wiki/'_.._iterator.page_.._' "wikilink")`'`
+`                               body = body .. '`[`'``   ``..``   ``iterator.page``   ``..``   ``'`](https://zh.wikipedia.org/wiki/'_.._iterator.page_.._' "wikilink")`'`
 `                           else`
 `                               body = body .. iterator.name[1]`
 `                           end`
@@ -1180,9 +1158,7 @@ end function p._elementDataPreviewRow(value, cols)
 `                       local iterator = p.utils.getSeriesData(value.block .. ' block')`
 `                       if iterator then`
 `                           if iterator.page then`
-`                               body = body .. '`[`'``   ``..``
- ``iterator.page``   ``..``
- ``'`](https://zh.wikipedia.org/wiki/'_.._iterator.page_.._' "wikilink")`'`
+`                               body = body .. '`[`'``   ``..``   ``iterator.page``   ``..``   ``'`](https://zh.wikipedia.org/wiki/'_.._iterator.page_.._' "wikilink")`'`
 `                           else`
 `                               body = body .. (iterator.name or {value.block})[1]`
 `                           end`
@@ -1193,9 +1169,7 @@ end function p._elementDataPreviewRow(value, cols)
 `               if cols['性質'] then`
 `                   if seriesdata then `
 `                       if seriesdata.page then`
-`                           body = body .. '`[`'``   ``..``
- ``seriesdata.page``   ``..``
- ``'`](https://zh.wikipedia.org/wiki/'_.._seriesdata.page_.._' "wikilink")`'`
+`                           body = body .. '`[`'``   ``..``   ``seriesdata.page``   ``..``   ``'`](https://zh.wikipedia.org/wiki/'_.._seriesdata.page_.._' "wikilink")`'`
 `                       else`
 `                           if seriesdata.name then body = body .. seriesdata.name[1] end`
 `                       end`
@@ -1241,9 +1215,7 @@ end function p._elementDataPreviewRow(value, cols)
 `               if cols['同位素'] then`
 `                   if not (value.NotElement == true) then`
 `                       if value.isotopePage then `
-`                           body = body .. '`[`'``   ``..``
- ``value.isotopePage``   ``..``
- ``'`](https://zh.wikipedia.org/wiki/'_.._value.isotopePage_.._' "wikilink")`' `
+`                           body = body .. '`[`'``   ``..``   ``value.isotopePage``   ``..``   ``'`](https://zh.wikipedia.org/wiki/'_.._value.isotopePage_.._' "wikilink")`' `
 `                       else`
 `                           body = body .. value.name .. '的同位素'`
 `                       end`
@@ -1254,9 +1226,7 @@ end function p._elementDataPreviewRow(value, cols)
 `                               if first_iso then first_iso = false else iso_str = iso_str .. "、 " end`
 `                               if isotope_iterator.name then`
 `                                   if isotope_iterator.page then`
-`                                       iso_str = iso_str .. '`[`'``
- ``..``   ``isotope_iterator.name``   ``..``
- ``'`](https://zh.wikipedia.org/wiki/'_.._isotope_iterator.page_.._' "wikilink")`' `
+`                                       iso_str = iso_str .. '`[`'``   ``..``   ``isotope_iterator.name``   ``..``   ``'`](https://zh.wikipedia.org/wiki/'_.._isotope_iterator.page_.._' "wikilink")`' `
 `                                   else`
 `                                       iso_str = iso_str .. isotope_iterator.name`
 `                                   end`
@@ -1271,8 +1241,7 @@ end function p._elementDataPreviewRow(value, cols)
 `           end`
 `   return body`
 
-end function p._elementDataPreview(start_id, end_id, no_head, withZ,
-no_start_end, cols)
+end function p._elementDataPreview(start_id, end_id, no_head, withZ, no_start_end, cols)
 
 `   local body = ''`
 `   if not no_start_end then body = body .. '{| class="wikitable sortable" \n' end`
@@ -1340,9 +1309,7 @@ function p.renderPeriodicTablePeriodHeader(period)
 `   local iterator = p.utils.p_data.period_data[period]`
 `   local lprefix = ' '; local lpostfix = ''; local lmiddle = ''`
 `   if iterator then`
-`       if iterator.page then lprefix = ' `[`';``   ``lpostfix``
- ``=``
- ``'`](https://zh.wikipedia.org/wiki/';_lpostfix_=_' "wikilink")`'; lmiddle = iterator.page .. '|' end`
+`       if iterator.page then lprefix = ' `[`';``   ``lpostfix``   ``=``   ``'`](https://zh.wikipedia.org/wiki/';_lpostfix_=_' "wikilink")`'; lmiddle = iterator.page .. '|' end`
 `   end`
 `   return body .. lprefix .. lmiddle .. tostring(period) .. lpostfix .. '\n'`
 
@@ -1354,9 +1321,7 @@ function p.renderArticlePeriodicTablePeriodHeader(period)
 `   local iterator = p.utils.p_data.period_data[period]`
 `   local lprefix = ' '; local lpostfix = ''; local lmiddle = ''`
 `   if iterator then`
-`       if iterator.page then lprefix = ' `[`';``   ``lpostfix``
- ``=``
- ``'`](https://zh.wikipedia.org/wiki/';_lpostfix_=_' "wikilink")`'; lmiddle = iterator.page .. '|' end`
+`       if iterator.page then lprefix = ' `[`';``   ``lpostfix``   ``=``   ``'`](https://zh.wikipedia.org/wiki/';_lpostfix_=_' "wikilink")`'; lmiddle = iterator.page .. '|' end`
 `   end`
 `   return body .. lprefix .. lmiddle .. tostring(period) .. lpostfix .. '\n'`
 
@@ -1379,8 +1344,7 @@ function render_period_head(periodhead,period_it)
 
 end
 
-function
-render_period_middle(periodmiddle,period_it,spans_data,all_group)
+function render_period_middle(periodmiddle,period_it,spans_data,all_group)
 
 `   body = ''`
 `   if(periodmiddle)then`
@@ -1446,11 +1410,10 @@ function p.renderPeriodicTableGroupHeader(has_119, pmodel)
 `                   group_text = string.upper(roman.getRomam(test_index) .. iterator.group_type) .. '`
 `' .. tostring(index)`
 `               else`
-`                   group_text = error.error({[1]="羅馬數字模組錯誤：疑似有人誤刪`[`模块:Roman中的getRomam函數`](../Page/模块:Roman.md "wikilink")`。"})`
+`                   group_text = error.error({[1]="羅馬數字模組錯誤：疑似有人誤刪`[`模块:Roman`](../Page/模块:Roman.md "wikilink")中的getRomam函數`。"})`
 `               end`
 `           end`
-`           body = body .. ' `[`'``   ``..``   ``group_text``   ``..``
- ``'`](https://zh.wikipedia.org/wiki/'_.._iterator.page_.._' "wikilink")`' .. '\n'`
+`           body = body .. ' `[`'``   ``..``   ``group_text``   ``..``   ``'`](https://zh.wikipedia.org/wiki/'_.._iterator.page_.._' "wikilink")`' .. '\n'`
 `           if (pmodel~='noLanthanide') then`
 `               if has_119 and ((pmodel~='nefedov' and index == 2) or (pmodel=='nefedov' and index == 3)) then body = body .. '|\n' end`
 `           end`
@@ -1461,8 +1424,7 @@ function p.renderPeriodicTableGroupHeader(has_119, pmodel)
 
 end
 
-function p.renderArticlePeriodicTableGroupHeader(has_119, pmodel,
-lanthanideBelow)
+function p.renderArticlePeriodicTableGroupHeader(has_119, pmodel, lanthanideBelow)
 
 `   local body = '|-\n|  \n'`
 `   if lanthanideBelow==true then body = "|- align=\"center\" valign=\"bottom\" style=\"margin:auto\"\n|width=\"1.2%\"|`**`族→`**`\n" end`
@@ -1498,11 +1460,10 @@ lanthanideBelow)
 `                   group_text = string.upper(roman.getRomam(test_index) .. iterator.group_type) .. '`
 `' .. tostring(index)`
 `               else`
-`                   group_text = error.error({[1]="羅馬數字模組錯誤：疑似有人誤刪`[`模块:Roman中的getRomam函數`](../Page/模块:Roman.md "wikilink")`。"})`
+`                   group_text = error.error({[1]="羅馬數字模組錯誤：疑似有人誤刪`[`模块:Roman`](../Page/模块:Roman.md "wikilink")中的getRomam函數`。"})`
 `               end`
 `           end`
-`           body = body .. ' `[`'``   ``..``   ``group_text``   ``..``
- ``'`](https://zh.wikipedia.org/wiki/'_.._iterator.page_.._' "wikilink")`' .. '\n'`
+`           body = body .. ' `[`'``   ``..``   ``group_text``   ``..``   ``'`](https://zh.wikipedia.org/wiki/'_.._iterator.page_.._' "wikilink")`' .. '\n'`
 `           if (lanthanideBelow~=true) then`
 `               if has_119 and ((pmodel~='nefedov' and index == 2) or (pmodel=='nefedov' and index == 3)) then body = body .. '|\n' end`
 `           end`
@@ -1526,8 +1487,7 @@ function p.renderNavElementColHeader(span)
 
 end
 
-function
-p._templatePeriodicTableElementCell(element,span,mark,markele,number,rtype,option)
+function p._templatePeriodicTableElementCell(element,span,mark,markele,number,rtype,option)
 
 `   local predicted = false`
 `   local otheratt = ''`
@@ -1555,9 +1515,7 @@ p._templatePeriodicTableElementCell(element,span,mark,markele,number,rtype,optio
 
 end
 
-function
-p._articlePeriodicTableElementCell(element,span,mark,markele,number,rtype,option,
-lanthanideBelow)
+function p._articlePeriodicTableElementCell(element,span,mark,markele,number,rtype,option, lanthanideBelow)
 
 `   local predicted = false`
 `   local otheratt = ''`
@@ -1590,8 +1548,7 @@ lanthanideBelow)
 
 end
 
-function
-p._isotopePeriodicTableElementCell(element,span,number,rtype,option)
+function p._isotopePeriodicTableElementCell(element,span,number,rtype,option)
 
 `   local is_lanthanide_below = (mw.ustring.lower(rtype) == 'lanthanide below')`
 `   local otheratt = ''`
@@ -1635,8 +1592,7 @@ function p._navElementCell(element,mark,markele,number,rtype)
 
 end
 
-function
-p.renderTemplatePeriodicTableElementCell(element,span,styleclass,otheratt,mark,option)
+function p.renderTemplatePeriodicTableElementCell(element,span,styleclass,otheratt,mark,option)
 
 `   local body = '|'`
 `   mark_style='border:2px solid black; margin:-2px;';`
@@ -1658,8 +1614,7 @@ p.renderTemplatePeriodicTableElementCell(element,span,styleclass,otheratt,mark,o
 `   if display_name then`
 `       if element.Z > 118 then display_name = tostring(element.Z or 0) end`
 `       if element.page then `
-`           body = body .. '`[`'``   ``..``   ``display_name``   ``..``
- ``'`](https://zh.wikipedia.org/wiki/'_.._element.page_.._' "wikilink")`'`
+`           body = body .. '`[`'``   ``..``   ``display_name``   ``..``   ``'`](https://zh.wikipedia.org/wiki/'_.._element.page_.._' "wikilink")`'`
 `       else`
 `           body = body ..  display_name`
 `       end`
@@ -1668,8 +1623,7 @@ p.renderTemplatePeriodicTableElementCell(element,span,styleclass,otheratt,mark,o
 
 end
 
-function
-p.renderArticlePeriodicTableElementCell(element,span,styleclass,otheratt,mark,option)
+function p.renderArticlePeriodicTableElementCell(element,span,styleclass,otheratt,mark,option)
 
 `   local body = '|'`
 `   mark_style='border:2px solid black; margin:-2px;';`
@@ -1694,14 +1648,10 @@ p.renderArticlePeriodicTableElementCell(element,span,styleclass,otheratt,mark,op
 `       elseif type(value) == type(0) then eleargs[propetry] = tostring(value) end`
 `   end`
 
-`   if type(element.Z)==type("0") then eleargs.Symbol =  '`[`'``
- ``..``   ``element.Symbol``   ``..``
- ``'`](https://zh.wikipedia.org/wiki/'_.._element.page_.._' "wikilink")`'  end`
+`   if type(element.Z)==type("0") then eleargs.Symbol =  '`[`'``   ``..``   ``element.Symbol``   ``..``   ``'`](https://zh.wikipedia.org/wiki/'_.._element.page_.._' "wikilink")`'  end`
 
 `   if element.page then `
-`       eleargs.NameWithLink = '`[`'``   ``..``   ``element.name``
- ``..``
- ``'`](https://zh.wikipedia.org/wiki/'_.._element.page_.._' "wikilink")`'`
+`       eleargs.NameWithLink = '`[`'``   ``..``   ``element.name``   ``..``   ``'`](https://zh.wikipedia.org/wiki/'_.._element.page_.._' "wikilink")`'`
 `   else`
 `       eleargs.NameWithLink =  element.name`
 `   end`
@@ -1739,8 +1689,7 @@ p.renderArticlePeriodicTableElementCell(element,span,styleclass,otheratt,mark,op
 
 end
 
-function
-p.renderIsotopePeriodicTableElementCell(element,span,styleclass,otheratt,option)
+function p.renderIsotopePeriodicTableElementCell(element,span,styleclass,otheratt,option)
 
 `   local body = '|'`
 `   local classtype=option.class_type`
@@ -1770,9 +1719,7 @@ p.renderIsotopePeriodicTableElementCell(element,span,styleclass,otheratt,option)
 `       "style=\"width:82%;height:82%;float:none;\" class=\"vectorMenu " .. styleclass .. "\">"`
 `   if option and option.index == true then`
 `       if element.page then `
-`           body = body .. '`[`'``   ``..``   ``tostring(element.Z``
- ``or``   ``'')``   ``..``
- ``'`](https://zh.wikipedia.org/wiki/'_.._element.page_.._' "wikilink")
+`           body = body .. '`[`'``   ``..``   ``tostring(element.Z``   ``or``   ``'')``   ``..``   ``'`](https://zh.wikipedia.org/wiki/'_.._element.page_.._' "wikilink")
 `'`
 `       else`
 `           body = body .. tostring(element.Z or '') .. '`
@@ -1781,9 +1728,7 @@ p.renderIsotopePeriodicTableElementCell(element,span,styleclass,otheratt,option)
 `   end`
 `   if element.Symbol then`
 `       if element.isotopePage then `
-`           body = body .. '`[`'``   ``..``   ``element.Symbol``
- ``..``
- ``'`](https://zh.wikipedia.org/wiki/'_.._element.isotopePage_.._' "wikilink")`'`
+`           body = body .. '`[`'``   ``..``   ``element.Symbol``   ``..``   ``'`](https://zh.wikipedia.org/wiki/'_.._element.isotopePage_.._' "wikilink")`'`
 `       else`
 `           body = body .. element.Symbol`
 `       end`
@@ -1794,9 +1739,7 @@ p.renderIsotopePeriodicTableElementCell(element,span,styleclass,otheratt,option)
 `       for v, isotope in ipairs(element.Isotope) do`
 `           if isotope.page then`
 `               has_iso = true`
-`               isotope_str = isotope_str .. '*' .. '`[`'``   ``..``
- ``isotope.name``   ``..``
- ``'`](https://zh.wikipedia.org/wiki/'_.._isotope.page_.._' "wikilink")`\n'`
+`               isotope_str = isotope_str .. '*' .. '`[`'``   ``..``   ``isotope.name``   ``..``   ``'`](https://zh.wikipedia.org/wiki/'_.._isotope.page_.._' "wikilink")`\n'`
 `           end`
 `       end`
 `       if has_iso then`
@@ -1850,9 +1793,7 @@ function p.renderNavElementCell(element,styleclass,mark,rtype)
 `   local divstyle = styles`
 `   if mark then divstyle = divstyle .. mark_style end`
 `   divatt = divatt .. ' style=\"' .. divstyle .. '\"'`
-`   body = body .. '<div title=\"' .. ele_desc .. '\" ' .. divatt .. '>`[`'``
- ``..``   ``ele_desc``   ``..``
- ``'`](https://zh.wikipedia.org/wiki/File:Transparent.gif "fig:' .. ele_desc .. '")
+`   body = body .. '<div title=\"' .. ele_desc .. '\" ' .. divatt .. '>`[`'``   ``..``   ``ele_desc``   ``..``   ``'`](https://zh.wikipedia.org/wiki/File:Transparent.gif "fig:' .. ele_desc .. '")
 
 </div>
 

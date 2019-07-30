@@ -6,16 +6,14 @@
 
 ## 参考资料
 
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
-[Category:巴哈馬總督](https://zh.wikipedia.org/wiki/Category:巴哈馬總督 "wikilink")
+[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:巴哈馬總督](https://zh.wikipedia.org/wiki/Category:巴哈馬總督 "wikilink")
 
 1.
 2.
 3.
 4.
 5.
-6.
-    Bahamaspress.com|url=[http://bahamaspress.com/2019/06/17/the-cabinet-office-announces-the-honourable-cornelius-a-smith-to-serve-as-the-11th-governor-general-in-an-independent-bahamas/|last=media|language=en-US|access-date=2019-06-27](http://bahamaspress.com/2019/06/17/the-cabinet-office-announces-the-honourable-cornelius-a-smith-to-serve-as-the-11th-governor-general-in-an-independent-bahamas/%7Clast=media%7Clanguage=en-US%7Caccess-date=2019-06-27)}}
+6.   Bahamaspress.com|url=[http://bahamaspress.com/2019/06/17/the-cabinet-office-announces-the-honourable-cornelius-a-smith-to-serve-as-the-11th-governor-general-in-an-independent-bahamas/|last=media|language=en-US|access-date=2019-06-27](http://bahamaspress.com/2019/06/17/the-cabinet-office-announces-the-honourable-cornelius-a-smith-to-serve-as-the-11th-governor-general-in-an-independent-bahamas/%7Clast=media%7Clanguage=en-US%7Caccess-date=2019-06-27)}}
 7.
 8.
 9.

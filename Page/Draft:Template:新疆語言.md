@@ -11,8 +11,7 @@
 
 }}
 
-|group7 = [印欧语系](../Page/印欧语系.md "wikilink") |list7 =
-[瓦罕语](../Page/瓦罕语.md "wikilink"){{\`}}{{\`}}{{\`}}{{\`}}
+|group7 = [印欧语系](../Page/印欧语系.md "wikilink") |list7 = [瓦罕语](../Page/瓦罕语.md "wikilink"){{\`}}{{\`}}{{\`}}{{\`}}
 
 ` |group2 = `[`吐火罗语族`](https://zh.wikipedia.org/wiki/吐火罗语族 "wikilink")
 ` |list2 = `
@@ -21,14 +20,11 @@
 
 }}
 
-|group8 = [混合語言](../Page/混合语.md "wikilink") |list8 =
-[誒話](../Page/誒話.md "wikilink"){{\`}}[五屯话](https://zh.wikipedia.org/wiki/五屯话 "wikilink"){{\`}}{{\`}}{{\`}}{{\`}}[貓家話](https://zh.wikipedia.org/wiki/貓家話 "wikilink"){{\`}}[富馬話](../Page/富馬話.md "wikilink"){{\`}}[托茂語](https://zh.wikipedia.org/wiki/托茂語 "wikilink"){{\`}}[伶話](https://zh.wikipedia.org/wiki/伶話 "wikilink"){{\`}}[酉水话](../Page/酉水话.md "wikilink"){{\`}}{{\`}}
+|group8 = [混合語言](../Page/混合语.md "wikilink") |list8 = [誒話](../Page/誒話.md "wikilink"){{\`}}[五屯话](https://zh.wikipedia.org/wiki/五屯话 "wikilink"){{\`}}{{\`}}{{\`}}{{\`}}[貓家話](https://zh.wikipedia.org/wiki/貓家話 "wikilink"){{\`}}[富馬話](../Page/富馬話.md "wikilink"){{\`}}[托茂語](https://zh.wikipedia.org/wiki/托茂語 "wikilink"){{\`}}[伶話](https://zh.wikipedia.org/wiki/伶話 "wikilink"){{\`}}[酉水话](../Page/酉水话.md "wikilink"){{\`}}{{\`}}
 
 |group9 = 語系不明 |list9 = {{\`}}{{\`}}
 
-|group10 = [辅助语言](https://zh.wikipedia.org/wiki/辅助语言 "wikilink") |list10
-=
-[南](https://zh.wikipedia.org/wiki/中国南方手语 "wikilink")）{{\`}}[维吾尔语手语](https://zh.wikipedia.org/wiki/维吾尔语手语 "wikilink"){{\`}}[蒙古手语](https://zh.wikipedia.org/wiki/蒙古手语 "wikilink")
+|group10 = [辅助语言](https://zh.wikipedia.org/wiki/辅助语言 "wikilink") |list10 = [南](https://zh.wikipedia.org/wiki/中国南方手语 "wikilink")）{{\`}}[维吾尔语手语](https://zh.wikipedia.org/wiki/维吾尔语手语 "wikilink"){{\`}}[蒙古手语](https://zh.wikipedia.org/wiki/蒙古手语 "wikilink")
 
 ` |group2 = `[`-{zh-cn:盲文;zh-hk:點字;zh-sg:盲文;zh-tw:盲文}-`](../Page/盲文.md "wikilink")
 ` |list2 = `[`现行盲文`](https://zh.wikipedia.org/wiki/现行盲文 "wikilink")``{{`}}``[`汉语双拼盲文`](https://zh.wikipedia.org/wiki/汉语双拼盲文 "wikilink")
@@ -46,9 +42,7 @@
 
 }}<noinclude>  </noinclude>
 
-[Category:各国语言导航模板](https://zh.wikipedia.org/wiki/Category:各国语言导航模板 "wikilink")
-[Category:中国语言](https://zh.wikipedia.org/wiki/Category:中国语言 "wikilink")
-[Category:中国语言导航模板](https://zh.wikipedia.org/wiki/Category:中国语言导航模板 "wikilink")
+[Category:各国语言导航模板](https://zh.wikipedia.org/wiki/Category:各国语言导航模板 "wikilink") [Category:中国语言](https://zh.wikipedia.org/wiki/Category:中国语言 "wikilink") [Category:中国语言导航模板](https://zh.wikipedia.org/wiki/Category:中国语言导航模板 "wikilink")
 
 1.
 2.  此语系已不再被学术界广泛承认。

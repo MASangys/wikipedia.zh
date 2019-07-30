@@ -8,8 +8,7 @@ CNAME记录必须指向另一个域名，而不能是IP地址。
 
 《RFC 1034》详细定义了CNAME记录的标准，并在《RFC 2181》的第十节中做了进一步规范。
 
-CNAME记录在域名系统中的使用有诸多限制。当一个DNS解析服务器在查询各类记录时遇到一则CNAME记录时，它会立即重启查询，查询所映射到域名的对应记录。（除非是要查询CNAME记录本身，在那种情况下会返回所映射到的域名。）CNAME记录所映射的域名可以是域名服务中的任何域名。在同一服务器上，在远程服务器上，甚至在属于不同DNS
-zone（解析空间）的服务器上，都可以。
+CNAME记录在域名系统中的使用有诸多限制。当一个DNS解析服务器在查询各类记录时遇到一则CNAME记录时，它会立即重启查询，查询所映射到域名的对应记录。（除非是要查询CNAME记录本身，在那种情况下会返回所映射到的域名。）CNAME记录所映射的域名可以是域名服务中的任何域名。在同一服务器上，在远程服务器上，甚至在属于不同DNS zone（解析空间）的服务器上，都可以。
 
 假设有下述DNS zone：
 
@@ -35,9 +34,7 @@ zone（解析空间）的服务器上，都可以。
 ### 限制
 
   - CNAME记录总是指向另一则域名，而非IP地址。
-  - 有CNAME记录的域名不能有其他任何记录（MX记录、A记录等，《RFC 1034》第3.6.2节、《RFC 1912》第 2.4节)
-    唯一的例外是在使用DNSSEC的情况下，这时可以设置相关的DNSSEC相关记录，比如RRSIG，NSEC等（《RFC
-    2181》第10.1节）
+  - 有CNAME记录的域名不能有其他任何记录（MX记录、A记录等，《RFC 1034》第3.6.2节、《RFC 1912》第 2.4节) 唯一的例外是在使用DNSSEC的情况下，这时可以设置相关的DNSSEC相关记录，比如RRSIG，NSEC等（《RFC 2181》第10.1节）
   - 为了保证效率，应当避免将CNAME记录指向其他的CNAME记录，但并非不可以。因此，可以通过CNAME记录创造无法被解析的循环，比如：
 
 `foo.example.com.  CNAME  bar.example.com.`
@@ -53,8 +50,7 @@ zone（解析空间）的服务器上，都可以。
 
 ## DNAME记录
 
-**DNAME记录**，即**代理名称记录**，由《RFC 6672》定义（原《RFC
-2672》已经废弃）。一条DNAME记录会将某个域名的整个解析子树映射到另一域名，而CNAME只映射设定的域名，不映射子域名。如同CNAME一样，在DNS查询过程中，会查找所映射到的新域名的地址。域名解析服务器会为每一个被查询的子域名生成一则CNAME记录。为某个域名设置DNAME记录和为该域名的所有子域名设置CNAME记录的效果是一样的。
+**DNAME记录**，即**代理名称记录**，由《RFC 6672》定义（原《RFC 2672》已经废弃）。一条DNAME记录会将某个域名的整个解析子树映射到另一域名，而CNAME只映射设定的域名，不映射子域名。如同CNAME一样，在DNS查询过程中，会查找所映射到的新域名的地址。域名解析服务器会为每一个被查询的子域名生成一则CNAME记录。为某个域名设置DNAME记录和为该域名的所有子域名设置CNAME记录的效果是一样的。
 
 例如下述记录：
 
@@ -83,15 +79,10 @@ zone（解析空间）的服务器上，都可以。
 
 ## 外部链接
 
-  - [RFC 1912 is wrong](http://mengwong.com/misc/rfc1912-is-wrong.html)
-    [Meng Weng
-    Wong](https://zh.wikipedia.org/wiki/Meng_Weng_Wong "wikilink")'s
-    analysis of CNAME restrictions (from
-    [web.archive.org](https://web.archive.org/web/20120531234306/http://mengwong.com/misc/rfc1912-is-wrong.html)).
+  - [RFC 1912 is wrong](http://mengwong.com/misc/rfc1912-is-wrong.html) [Meng Weng Wong](https://zh.wikipedia.org/wiki/Meng_Weng_Wong "wikilink")'s analysis of CNAME restrictions (from [web.archive.org](https://web.archive.org/web/20120531234306/http://mengwong.com/misc/rfc1912-is-wrong.html)).
   - RFC 2219 – Use of DNS Aliases for Network Services （为网络服务使用DNS别名）
 
-[Category:DNS记录类型](https://zh.wikipedia.org/wiki/Category:DNS记录类型 "wikilink")
-[Category:域名](https://zh.wikipedia.org/wiki/Category:域名 "wikilink")
+[Category:DNS记录类型](https://zh.wikipedia.org/wiki/Category:DNS记录类型 "wikilink") [Category:域名](https://zh.wikipedia.org/wiki/Category:域名 "wikilink")
 
 1.
 2.

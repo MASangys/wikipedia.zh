@@ -1,25 +1,21 @@
-**C\&K**是[日本的二人歌唱组合](../Page/日本.md "wikilink")，2008年出道。是[日本环球音乐旗下艺人](https://zh.wikipedia.org/wiki/日本环球音乐 "wikilink")。
+**C\&K**是[日本](../Page/日本.md "wikilink")的二人歌唱组合，2008年出道。是[日本环球音乐旗下艺人](https://zh.wikipedia.org/wiki/日本环球音乐 "wikilink")。
 
 ## 成员
 
-  - CLIEVY（Super High Tone
-    Voice），出生于[栃木县](https://zh.wikipedia.org/wiki/栃木县 "wikilink")[小山市](https://zh.wikipedia.org/wiki/小山市 "wikilink")。
-  - KEEN（Silky
-    Voice），出生于[鹿儿岛县](../Page/鹿儿岛县.md "wikilink")[鹿屋市](../Page/鹿屋市.md "wikilink")。
+  - CLIEVY（Super High Tone Voice），出生于[栃木县](https://zh.wikipedia.org/wiki/栃木县 "wikilink")[小山市](https://zh.wikipedia.org/wiki/小山市 "wikilink")。
+  - KEEN（Silky Voice），出生于[鹿儿岛县](../Page/鹿儿岛县.md "wikilink")[鹿屋市](../Page/鹿屋市.md "wikilink")。
 
 ## 经历
 
 二人在大学时期就结成了组合，以[湘南和](https://zh.wikipedia.org/wiki/湘南_\(日本\) "wikilink")[横滨为中心活动](https://zh.wikipedia.org/wiki/横滨 "wikilink")。
 
-2008年6月，第一张迷你专辑《CK
-island》发售，该唱片获得[Oricon地下榜第](../Page/Oricon公信榜.md "wikilink")10位。
+2008年6月，第一张迷你专辑《CK island》发售，该唱片获得[Oricon地下榜第](../Page/Oricon公信榜.md "wikilink")10位。
 
 2010年8月，在日本环球音乐发售第一张单曲《梅雨季结束宣言》而主流出道。此后开始全国巡回演唱会。
 
 2011年3月，第三张单曲《不想在我身边吗？》获得累计超过10万次下载量。9月第一张完整专辑《CK A-YANKA\!\!\!》发售。
 
-2013年1月，第7张单曲《爱的歌\~我和你和我们的日子\~》发售，首次在[YouTube上传了音乐录像](../Page/YouTube.md "wikilink")，独特的声线引起了广泛关注，该曲也成为[日本电视台](https://zh.wikipedia.org/wiki/日本电视台 "wikilink")“Happy
-Music”节目开场曲。
+2013年1月，第7张单曲《爱的歌\~我和你和我们的日子\~》发售，首次在[YouTube](../Page/YouTube.md "wikilink")上传了音乐录像，独特的声线引起了广泛关注，该曲也成为[日本电视台](https://zh.wikipedia.org/wiki/日本电视台 "wikilink")“Happy Music”节目开场曲。
 
 2013年10月，CLIEYV公布结婚。
 
@@ -31,12 +27,11 @@ Music”节目开场曲。
 
 2017年伴随单曲《Y》和专辑《55》发售，开展了一系列以登上[红白歌会为目标的演唱会活动](https://zh.wikipedia.org/wiki/红白歌会 "wikilink")，包括在二人各自家乡所举办的1万人免费演唱会\[3\]和15000人演唱会\[4\]。
 
-2018年5月，CLIEVY为[桃色幸運草Z作词作曲的歌曲](../Page/桃色幸運草Z.md "wikilink")《幸运草与钻石》收录在桃草的精选专辑中发售\[5\]。
+2018年5月，CLIEVY为[桃色幸運草Z](../Page/桃色幸運草Z.md "wikilink")作词作曲的歌曲《幸运草与钻石》收录在桃草的精选专辑中发售\[5\]。
 
-2018年8月，第16张专辑《电视剧》发售，该歌曲被用作[波瑠主演的电视剧](../Page/波瑠.md "wikilink")《》的主题曲，也是C\&K歌曲第一次搭配电视剧。
+2018年8月，第16张专辑《电视剧》发售，该歌曲被用作[波瑠](../Page/波瑠.md "wikilink")主演的电视剧《》的主题曲，也是C\&K歌曲第一次搭配电视剧。
 
-2018年10月8日在[TOKYO DOME CITY
-HALL举办的演唱会中](https://zh.wikipedia.org/wiki/TOKYO_DOME_CITY_HALL "wikilink")，CLIEVY因不慎而双脚[根骨骨折](https://zh.wikipedia.org/wiki/根骨 "wikilink")，导致新专辑《TEN》的延期发售，此后的演唱会和电视演出也都取消或延期\[6\]。
+2018年10月8日在[TOKYO DOME CITY HALL举办的演唱会中](https://zh.wikipedia.org/wiki/TOKYO_DOME_CITY_HALL "wikilink")，CLIEVY因不慎而双脚[根骨骨折](https://zh.wikipedia.org/wiki/根骨 "wikilink")，导致新专辑《TEN》的延期发售，此后的演唱会和电视演出也都取消或延期\[6\]。
 
 ## 作品
 
@@ -381,9 +376,7 @@ HALL举办的演唱会中](https://zh.wikipedia.org/wiki/TOKYO_DOME_CITY_HALL "w
   -
   -
   -
-[Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink")
-[Category:雷鬼歌手](https://zh.wikipedia.org/wiki/Category:雷鬼歌手 "wikilink")
-[Category:環球唱片旗下藝人](https://zh.wikipedia.org/wiki/Category:環球唱片旗下藝人 "wikilink")
+[Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink") [Category:雷鬼歌手](https://zh.wikipedia.org/wiki/Category:雷鬼歌手 "wikilink") [Category:環球唱片旗下藝人](https://zh.wikipedia.org/wiki/Category:環球唱片旗下藝人 "wikilink")
 
 1.
 2.

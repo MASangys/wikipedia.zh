@@ -1,11 +1,4 @@
-**第戎·以赛亚·麦克法兰**（**Dijon Isaiah McFarlane**，1990年6月5日 -
-），艺名**马斯塔德**（**Mustard**；其旧艺名**DJ马斯塔德** (**DJ
-Mustard**)
-更为知名），是一位来自[美国](../Page/美国.md "wikilink")[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")[洛杉矶的唱片制作人](../Page/洛杉矶.md "wikilink")、DJ和舞台助场伴唱。他是来自[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[康普顿的饶舌歌手](https://zh.wikipedia.org/wiki/康普顿_\(加利福尼亚州\) "wikilink")[YG的合作者](../Page/YG_\(饶舌歌手\).md "wikilink")，自2011年进入主流乐坛以来，他一直为嘻哈和R\&B艺人制作单曲。马斯塔德的制作风格被描述为一种快节奏、面向俱乐部、动人而又有基本旋律的嘻哈风格。这种风格在2010年代初期发展成为[西海岸嘻哈的现代制作风格](../Page/西海岸嘻哈.md "wikilink")，他称之为“ratchet
-music”。\[1\]\[2\]\[3\]\[4\]马斯塔德的几乎所有作品的开始或结束处都有标签，其为[YG的声音](../Page/YG_\(饶舌歌手\).md "wikilink")[采样](https://zh.wikipedia.org/wiki/取樣_\(音樂\) "wikilink")“Mustard
-on the beat, hoe\!”（YG在二人早期合作作品“I'm
-Good”的结尾处所说）\[5\]以及重复并伴以拍声的“hey”\[6\]。马斯塔德的首张专辑《10
-Summers》于2014年8月26日发布。
+**第戎·以赛亚·麦克法兰**（**Dijon Isaiah McFarlane**，），艺名**马斯塔德**（**Mustard**；其旧艺名**DJ马斯塔德** (**DJ Mustard**) 更为知名），是一位来自[美国](../Page/美国.md "wikilink")[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")[洛杉矶](../Page/洛杉矶.md "wikilink")的唱片制作人、DJ和舞台助场伴唱。他是来自[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[康普顿的饶舌歌手](https://zh.wikipedia.org/wiki/康普顿_\(加利福尼亚州\) "wikilink")[YG的合作者](../Page/YG_\(饶舌歌手\).md "wikilink")，自2011年进入主流乐坛以来，他一直为嘻哈和R\&B艺人制作单曲。马斯塔德的制作风格被描述为一种快节奏、面向俱乐部、动人而又有基本旋律的嘻哈风格。这种风格在2010年代初期发展成为[西海岸嘻哈](../Page/西海岸嘻哈.md "wikilink")的现代制作风格，他称之为“ratchet music”。\[1\]\[2\]\[3\]\[4\]马斯塔德的几乎所有作品的开始或结束处都有标签，其为[YG的声音](../Page/YG_\(饶舌歌手\).md "wikilink")[采样](https://zh.wikipedia.org/wiki/取樣_\(音樂\) "wikilink")“Mustard on the beat, hoe\!”（YG在二人早期合作作品“I'm Good”的结尾处所说）\[5\]以及重复并伴以拍声的“hey”\[6\]。马斯塔德的首张专辑《10 Summers》于2014年8月26日发布。
 
 ## 早年生活
 
@@ -240,12 +233,7 @@ Hot</a><br />
 
 ## 参考
 
-[Category:西海岸嘻哈音乐人](https://zh.wikipedia.org/wiki/Category:西海岸嘻哈音乐人 "wikilink")
-[Category:美國嘻哈音樂製作人](https://zh.wikipedia.org/wiki/Category:美國嘻哈音樂製作人 "wikilink")
-[Category:非洲裔美國音樂製作人](https://zh.wikipedia.org/wiki/Category:非洲裔美國音樂製作人 "wikilink")
-[Category:21世紀美國音樂家](https://zh.wikipedia.org/wiki/Category:21世紀美國音樂家 "wikilink")
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
-[Category:1990年出生](https://zh.wikipedia.org/wiki/Category:1990年出生 "wikilink")
+[Category:西海岸嘻哈音乐人](https://zh.wikipedia.org/wiki/Category:西海岸嘻哈音乐人 "wikilink") [Category:美國嘻哈音樂製作人](https://zh.wikipedia.org/wiki/Category:美國嘻哈音樂製作人 "wikilink") [Category:非洲裔美國音樂製作人](https://zh.wikipedia.org/wiki/Category:非洲裔美國音樂製作人 "wikilink") [Category:21世紀美國音樂家](https://zh.wikipedia.org/wiki/Category:21世紀美國音樂家 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
 
 1.
 2.

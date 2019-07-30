@@ -1,8 +1,6 @@
 local p = {}
 
-local ustring = mw.ustring local libraryUtil = require "libraryUtil"
-local checkType = libraryUtil.checkType local checkTypeMulti =
-libraryUtil.checkTypeMulti
+local ustring = mw.ustring local libraryUtil = require "libraryUtil" local checkType = libraryUtil.checkType local checkTypeMulti = libraryUtil.checkTypeMulti
 
 local iterableTypes = { "table", "string" }
 
@@ -30,8 +28,7 @@ local _checkCache = {} local function _check(funcName, expectType)
 
 end
 
-\-- Iterate over UTF-8-encoded codepoints in string. local function
-iterString(str)
+\-- Iterate over UTF-8-encoded codepoints in string. local function iterString(str)
 
 `   local iter = string.gmatch(str, "[%z\1-\127\194-\244][\128-\191]*")`
 `   local i = 0`
@@ -47,11 +44,7 @@ iterString(str)
 
 end
 
-\-- funcName and startArg are for argument type-checking. -- The varargs
-(...) can be either an iterator and its optional state and start --
-value, or an iterable type, in which case the function calls the
-appropriate -- iterator generator function. local function
-getIteratorTriplet(funcName, startArg, ...)
+\-- funcName and startArg are for argument type-checking. -- The varargs (...) can be either an iterator and its optional state and start -- value, or an iterable type, in which case the function calls the appropriate -- iterator generator function. local function getIteratorTriplet(funcName, startArg, ...)
 
 `   local t = type(...)`
 `   if t == "function" then`
@@ -76,17 +69,9 @@ function p.chain(func1, func2, ...)
 
 end
 
-\-- map(function(number) return number ^ 2 end, -- { 1, 2, 3 }) --\> {
-1, 4, 9 } -- map(function (char) return string.char(string.byte(char) -
-0x20) end, -- "abc") --\> { "A", "B", "C" } -- Two argument formats: --
-map(func, iterable) -- map(func, iterator\[, state\[, start_value\]\])
--- func is a function that takes a maximum of two return values of the
-iterator -- in reverse order. They are supplied in reverse order because
-the ipairs -- iterator returns the index before the value, but the value
-is most often more -- important than the index.
+\-- map(function(number) return number ^ 2 end, -- { 1, 2, 3 }) --\> { 1, 4, 9 } -- map(function (char) return string.char(string.byte(char) - 0x20) end, -- "abc") --\> { "A", "B", "C" } -- Two argument formats: -- map(func, iterable) -- map(func, iterator\[, state\[, start_value\]\]) -- func is a function that takes a maximum of two return values of the iterator -- in reverse order. They are supplied in reverse order because the ipairs -- iterator returns the index before the value, but the value is most often more -- important than the index.
 
-\-- Any need for map that retains original keys, rather than creating an
-array? function p.map(func, keepOriginalKeys, ...)
+\-- Any need for map that retains original keys, rather than creating an array? function p.map(func, keepOriginalKeys, ...)
 
 `   checkType("map", 1, func, "function")`
 `   `
@@ -157,9 +142,7 @@ end
 
 -----
 
-\-- From <http://lua-users.org/wiki/CurriedLua>. -- reverse(...) : take
-some tuple and return a tuple of elements in reverse order -- -- e.g.
-"reverse(1,2,3)" returns 3,2,1 local function reverse(...)
+\-- From <http://lua-users.org/wiki/CurriedLua>. -- reverse(...) : take some tuple and return a tuple of elements in reverse order -- -- e.g. "reverse(1,2,3)" returns 3,2,1 local function reverse(...)
 
 `   -- reverse args by building a function to do it, similar to the unpack() example`
 `   local function reverseHelper(acc, v, ...)`
@@ -203,8 +186,7 @@ end
 
 -----
 
-\-- some(function(val) return val % 2 == 0 end, -- { 2, 3, 5, 7, 11 })
---\> true function p.some(func, ...)
+\-- some(function(val) return val % 2 == 0 end, -- { 2, 3, 5, 7, 11 }) --\> true function p.some(func, ...)
 
 `   checkType("some", 1, func, "function")`
 `   `
@@ -219,8 +201,7 @@ end
 
 end
 
-\-- all(function(val) return val % 2 == 0 end, -- { 2, 4, 8, 10, 12 })
---\> true function p.all(func, ...)
+\-- all(function(val) return val % 2 == 0 end, -- { 2, 4, 8, 10, 12 }) --\> true function p.all(func, ...)
 
 `   checkType("some", 1, func, "function")`
 `   `
@@ -304,9 +285,7 @@ end
 
 end
 
-\-- Log input and output of function. -- Receives a function and returns
-a modified form of that function. function p.logReturnValues(func,
-prefix)
+\-- Log input and output of function. -- Receives a function and returns a modified form of that function. function p.logReturnValues(func, prefix)
 
 `   return function(...)`
 `       local inputValues = capture(...)`
@@ -325,8 +304,7 @@ end
 
 p.log = p.logReturnValues
 
-\-- Convenience function to make all functions in a table log their
-input and output. function p.logAll(t)
+\-- Convenience function to make all functions in a table log their input and output. function p.logAll(t)
 
 `   for k, v in pairs(t) do`
 `       if type(v) == "function" then`
@@ -337,9 +315,7 @@ input and output. function p.logAll(t)
 
 end
 
-\----- M E M O I Z A T I O N----- -- metamethod that does the work --
-Currently supports one argument and one return value. local func_key =
-{} local function callMethod(self, x)
+\----- M E M O I Z A T I O N----- -- metamethod that does the work -- Currently supports one argument and one return value. local func_key = {} local function callMethod(self, x)
 
 `   local output = self[x]`
 `   if not output then`

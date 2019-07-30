@@ -1,4 +1,4 @@
-**T-BOLAN**是活跃于1990年代的[日本摇滚乐队](../Page/日本.md "wikilink")。1990年结成，1999年解散。为[Being旗下艺人](../Page/Being_\(公司\).md "wikilink")。2012年活动再开\[1\]，2014年再度活动休止\[2\]\[3\]。2017年第三度开始活动\[4\]。从1991年结成至1995年的四年间完成了1700万枚唱片的销量\[5\]。
+**T-BOLAN**是活跃于1990年代的[日本](../Page/日本.md "wikilink")摇滚乐队。1990年结成，1999年解散。为[Being旗下艺人](../Page/Being_\(公司\).md "wikilink")。2012年活动再开\[1\]，2014年再度活动休止\[2\]\[3\]。2017年第三度开始活动\[4\]。从1991年结成至1995年的四年间完成了1700万枚唱片的销量\[5\]。
 
 ## 成员
 
@@ -31,16 +31,13 @@
 ### 出道前
 
   - 1987年，当时就读[东海大学的森友邀请青木组成了乐队](https://zh.wikipedia.org/wiki/东海大学 "wikilink")“prisoner”，同年11月在Being主办的BAD选拔中获得优胜。
-  - 1988年，以“BOLAN”的名义在Being旗下的地下唱片公司“YEAH”发表第一张EP《I WAITED FOR A
-    TIME》而地下出道，开始音乐活动。不久后森友因与其他成员对音乐的看法不同而退出BOLAN，转而加入其它数个乐队。在这过程中与五味、上野等相识。而BOLAN在森友退出后其他成员也相继退出，活动完全停止。
+  - 1988年，以“BOLAN”的名义在Being旗下的地下唱片公司“YEAH”发表第一张EP《I WAITED FOR A TIME》而地下出道，开始音乐活动。不久后森友因与其他成员对音乐的看法不同而退出BOLAN，转而加入其它数个乐队。在这过程中与五味、上野等相识。而BOLAN在森友退出后其他成员也相继退出，活动完全停止。
   - 1990年，青木选择再度与森友合作，并吸引尚在其他乐队中的五味和上野，四人组成T-BOLAN。
 
 ### 主流出道至解散
 
-  - 1991年7月，发布单曲《》，主流出道。此后发布的单曲都受到欢迎，1992年的单曲《Bye For
-    Now》获得百万销量，成为T-BOLAN的代表曲之一\[6\]。
-  - 1995年，在巡回演唱会“LIVE HEAVEN
-    '94〜'95”过程中，森友出现不明原因的发声障碍（后查明为精神性），喉咙状态持续不佳。最终场大阪的现场，在医生的要求下宣布取消演出。但在到场粉丝的呼喊和支持下森友还是进行了演唱并完成了演唱会。
+  - 1991年7月，发布单曲《》，主流出道。此后发布的单曲都受到欢迎，1992年的单曲《Bye For Now》获得百万销量，成为T-BOLAN的代表曲之一\[6\]。
+  - 1995年，在巡回演唱会“LIVE HEAVEN '94〜'95”过程中，森友出现不明原因的发声障碍（后查明为精神性），喉咙状态持续不佳。最终场大阪的现场，在医生的要求下宣布取消演出。但在到场粉丝的呼喊和支持下森友还是进行了演唱并完成了演唱会。
   - 1996年在发表了一张单曲后就没有任何音乐活动，实质进入休止状态。此后发售的精选专辑《SINGLES》获得百万销量。
   - 1999年，森友查明喉咙问题为精神性，医生表示“原因不明、治疗法也不明”。在这种情况下森友提出解散T-BOLAN\[7\]。
 
@@ -395,7 +392,7 @@
 <td><p>2013年4月10日</p></td>
 <td></td>
 <td><p>DVD</p></td>
-<td><p>与<a href="../Page/B.B.QUEENS.md" title="wikilink">B.B.QUEENS</a>、<a href="../Page/FIELD_OF_VIEW.md" title="wikilink">FIELD OF VIEW</a>、<a href="../Page/DEEN.md" title="wikilink">DEEN共演</a></p></td>
+<td><p>与<a href="../Page/B.B.QUEENS.md" title="wikilink">B.B.QUEENS</a>、<a href="../Page/FIELD_OF_VIEW.md" title="wikilink">FIELD OF VIEW</a>、<a href="../Page/DEEN.md" title="wikilink">DEEN</a>共演</p></td>
 </tr>
 <tr class="odd">
 <td><p>2014年3月21日<br />
@@ -423,20 +420,12 @@
 
 ## 外部链接
 
-  - [T-BOLAN Official Site - Being official
-    website](http://www.beinggiza.com/zain/t-bolan/)
+  - [T-BOLAN Official Site - Being official website](http://www.beinggiza.com/zain/t-bolan/)
   - [森友嵐士 Official Site](https://arashi.fanmo.jp/)
   - [五味孝氏 Official Site](http://gomitakashi.com/)
   - [青木和義 Official Blog](http://ameblo.jp/kazuyoshi-aoki/)
 
-[Category:日本摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本摇滚乐团 "wikilink")
-[Category:日本另类摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本另类摇滚乐团 "wikilink")
-[Category:日本硬式搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本硬式搖滾樂團 "wikilink")
-[Category:流行搖滾樂團](https://zh.wikipedia.org/wiki/Category:流行搖滾樂團 "wikilink")
-[Category:Being旗下藝人](https://zh.wikipedia.org/wiki/Category:Being旗下藝人 "wikilink")
-[Category:1990年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1990年成立的音樂團體 "wikilink")
-[Category:1999年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:1999年解散的音樂團體 "wikilink")
-[Category:2014年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年解散的音樂團體 "wikilink")
+[Category:日本摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本摇滚乐团 "wikilink") [Category:日本另类摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本另类摇滚乐团 "wikilink") [Category:日本硬式搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本硬式搖滾樂團 "wikilink") [Category:流行搖滾樂團](https://zh.wikipedia.org/wiki/Category:流行搖滾樂團 "wikilink") [Category:Being旗下藝人](https://zh.wikipedia.org/wiki/Category:Being旗下藝人 "wikilink") [Category:1990年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1990年成立的音樂團體 "wikilink") [Category:1999年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:1999年解散的音樂團體 "wikilink") [Category:2014年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年解散的音樂團體 "wikilink")
 
 1.
 

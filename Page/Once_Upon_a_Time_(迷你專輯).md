@@ -1,19 +1,14 @@
-《**ONCE UPON A TIME**》
-是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Lovelyz的第六張迷你專輯](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")，於2019年5月20日发布。该专辑共收入6首歌曲，主打歌曲为〈Beautiful
-Days〉。
+《**ONCE UPON A TIME**》 是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Lovelyz的第六張迷你專輯](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")，於2019年5月20日发布。该专辑共收入6首歌曲，主打歌曲为〈Beautiful Days〉。
 
 ## 背景及回歸日程
 
-2019年5月8日，[Woollim娱乐官方释出](https://zh.wikipedia.org/wiki/Woollim娱乐 "wikilink")《ONCE
-UPON A TIME》迷你专辑概念照，正式宣布Lovelyz即将于5月20日发行第六张迷你专辑回归\[1\]。
+2019年5月8日，[Woollim娱乐官方释出](https://zh.wikipedia.org/wiki/Woollim娱乐 "wikilink")《ONCE UPON A TIME》迷你专辑概念照，正式宣布Lovelyz即将于5月20日发行第六张迷你专辑回归\[1\]。
 
-5月9日，释出[Baby
-Soul](https://zh.wikipedia.org/wiki/Baby_Soul "wikilink")、[叡仁](../Page/鄭叡仁.md "wikilink")、[智爱](../Page/劉智愛.md "wikilink")、[Kei的第一波个人概念照](../Page/Kei.md "wikilink")\[2\]。
+5月9日，释出[Baby Soul](https://zh.wikipedia.org/wiki/Baby_Soul "wikilink")、[叡仁](../Page/鄭叡仁.md "wikilink")、[智爱](../Page/劉智愛.md "wikilink")、[Kei](../Page/Kei.md "wikilink")的第一波个人概念照\[2\]。
 
 5月10日，释出[美珠](../Page/李美珠.md "wikilink")、[洙正](../Page/柳洙正.md "wikilink")、[智秀](../Page/徐智秀.md "wikilink")、[JIN的第一波个人概念照](../Page/Jin_\(Lovelyz\).md "wikilink")\[3\]。
 
-5月13日，释出[美珠](../Page/李美珠.md "wikilink")、[Baby
-Soul](https://zh.wikipedia.org/wiki/Baby_Soul "wikilink")、[洙正](../Page/柳洙正.md "wikilink")、[Kei的第二波个人概念照](../Page/Kei.md "wikilink")\[4\]，释出专辑预览图及开放预购\[5\]。
+5月13日，释出[美珠](../Page/李美珠.md "wikilink")、[Baby Soul](https://zh.wikipedia.org/wiki/Baby_Soul "wikilink")、[洙正](../Page/柳洙正.md "wikilink")、[Kei](../Page/Kei.md "wikilink")的第二波个人概念照\[4\]，释出专辑预览图及开放预购\[5\]。
 
 5月14日，释出[叡仁](../Page/鄭叡仁.md "wikilink")、[智秀](../Page/徐智秀.md "wikilink")、[智爱](../Page/劉智愛.md "wikilink")、[JIN的第二波个人概念照](../Page/Jin_\(Lovelyz\).md "wikilink")\[6\]，宣布回归Showcase事项\[7\]。
 
@@ -25,15 +20,13 @@ Soul](https://zh.wikipedia.org/wiki/Baby_Soul "wikilink")、[洙正](../Page/柳
 
 5月18日，释出专辑曲目试听预告\[10\]。
 
-5月20日，举办回归Showcase，《ONCE UPON A TIME》正式发布，并公开专辑收录曲音源及主打歌〈Beautiful
-Days〉M/V。
+5月20日，举办回归Showcase，《ONCE UPON A TIME》正式发布，并公开专辑收录曲音源及主打歌〈Beautiful Days〉M/V。
 
 ## 概要
 
 ### 發行版本
 
-  - 一般版:内含封面(9款隨機1)、寫真冊80p、CD-R(9款隨機1)、Special
-    Letter(8款隨機1)、写真小卡(8款隨機1)、海報(2款隨機1)
+  - 一般版:内含封面(9款隨機1)、寫真冊80p、CD-R(9款隨機1)、Special Letter(8款隨機1)、写真小卡(8款隨機1)、海報(2款隨機1)
   - 限量版:内含抽取式硬盒、寫真冊200p、CD-R、感谢卡(8款隨機1)、寫真小卡(8款隨機1)、海報(2款隨機1)
 
 ## 曲目
@@ -230,9 +223,7 @@ Days〉M/V。
 
 ## 参考资料
 
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:Lovelyz音乐专辑](https://zh.wikipedia.org/wiki/Category:Lovelyz音乐专辑 "wikilink")
-[Category:2019年迷你專輯](https://zh.wikipedia.org/wiki/Category:2019年迷你專輯 "wikilink")
+[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:Lovelyz音乐专辑](https://zh.wikipedia.org/wiki/Category:Lovelyz音乐专辑 "wikilink") [Category:2019年迷你專輯](https://zh.wikipedia.org/wiki/Category:2019年迷你專輯 "wikilink")
 
 1.
 2.

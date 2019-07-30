@@ -1,19 +1,12 @@
-**ØZI**（1997年3月27日），本名**陳奕凡**，是一名台灣創作歌手，出生於[洛杉磯](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")，母親為知名歌手[葉璦菱](../Page/葉璦菱.md "wikilink")，自4歲就開始學習古典鋼琴、小提琴、吉他等樂器，14歲開始創作英文詞曲\[1\]，現為
-新樂園音樂有限公司 Forbidden Paradise 旗下藝人。
+**ØZI**（1997年3月27日），本名**陳奕凡**，是一名台灣創作歌手，出生於[洛杉磯](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")，母親為知名歌手[葉璦菱](../Page/葉璦菱.md "wikilink")，自4歲就開始學習古典鋼琴、小提琴、吉他等樂器，14歲開始創作英文詞曲\[1\]，現為 新樂園音樂有限公司 Forbidden Paradise 旗下藝人。
 
 ## 簡介
 
-2005年，開始在網路平台Youtube上發表音樂創作。
-2017年，釋出《TITLE 頭銜》及《ME INSTEAD 奪愛》等單曲受到注目，受到[蛋堡
-(音樂人)](../Page/蛋堡_\(音樂人\).md "wikilink")、[熊仔及](../Page/熊仔.md "wikilink")[陳星翰等歌壇前輩都推崇的嘻哈新人](../Page/陳星翰.md "wikilink")。\[2\]
-自創作的《天堂島》⼀曲於2017年於網路上發布MV後，成為個人首支發⽚前破百萬點擊單曲，同年受邀擔任[安那](../Page/安那.md "wikilink")〈蛤〉MV導演\[3\]，並於2017年受邀與龍虎門合作的嘻哈單曲《走到飛》中擔任饒唱歌手\[4\]，展現多方才能，在華語樂壇中被稱呼為「核彈級新人」\[5\]。
-2018年7月10日，發行首張個人專輯《ØZI: The
-Album》\[6\]。發片記者會媽媽[葉璦菱特地前來站台支持](../Page/葉璦菱.md "wikilink")。\[7\]
-\[8\]
-2019年，憑《ØZI: The
-Album》專輯入圍[第30屆金曲獎最佳新人獎](https://zh.wikipedia.org/wiki/第30屆金曲獎 "wikilink")、最佳國語男歌手獎、最佳單曲製作人獎、最佳編曲人獎、最佳國語專輯獎、年度專輯獎等六項大獎。\[9\]
-2019年6月29日，ØZI憑《ØZI: The
-Album》專輯獲得第30屆金曲獎[最佳新人獎](../Page/最佳新人獎_\(金曲獎\).md "wikilink")。\[10\]
+2015年，開始在網路平台Youtube上發表音樂創作。
+2017年，釋出《TITLE 頭銜》及《ME INSTEAD 奪愛》等單曲受到注目，受到[蛋堡 (音樂人)](../Page/蛋堡_\(音樂人\).md "wikilink")、[熊仔](../Page/熊仔.md "wikilink")及[陳星翰](../Page/陳星翰.md "wikilink")等歌壇前輩都推崇的嘻哈新人。\[2\] 自創作的《天堂島》⼀曲於2017年於網路上發布MV後，成為個人首支發⽚前破百萬點擊單曲，同年受邀擔任[安那](../Page/安那.md "wikilink")〈蛤〉MV導演\[3\]，並於2017年受邀與龍虎門合作的嘻哈單曲《走到飛》中擔任饒唱歌手\[4\]，展現多方才能，在華語樂壇中被稱呼為「核彈級新人」\[5\]。
+2018年7月10日，發行首張個人專輯《ØZI: The Album》\[6\]。發片記者會媽媽[葉璦菱](../Page/葉璦菱.md "wikilink")特地前來站台支持。\[7\] \[8\]
+2019年，憑《ØZI: The Album》專輯入圍[第30屆金曲獎最佳新人獎](https://zh.wikipedia.org/wiki/第30屆金曲獎 "wikilink")、最佳國語男歌手獎、最佳單曲製作人獎、最佳編曲人獎、最佳國語專輯獎、年度專輯獎等六項大獎。\[9\]
+2019年6月29日，ØZI憑《ØZI: The Album》專輯獲得第30屆金曲獎[最佳新人獎](../Page/最佳新人獎_\(金曲獎\).md "wikilink")。\[10\]
 
 ## 音樂作品
 
@@ -81,6 +74,7 @@ Forbidden Paradise</p></td>
 <th><p>詞</p></th>
 <th><p>曲</p></th>
 <th><p>編曲</p></th>
+<th><p>監製</p></th>
 <th><p>備註</p></th>
 </tr>
 </thead>
@@ -93,22 +87,34 @@ B.C.W｜Barry｜<a href="../Page/大支.md" title="wikilink">大支</a></p></td>
 <td><p><a href="../Page/呂士軒.md" title="wikilink">呂士軒</a>｜<a href="../Page/ØZI.md" title="wikilink">ØZI</a>｜<a href="../Page/吳卓源.md" title="wikilink">吳卓源</a>｜<a href="../Page/熊仔.md" title="wikilink">熊仔</a>｜<br />
 B.C.W｜Barry｜<a href="../Page/大支.md" title="wikilink">大支</a></p></td>
 <td><p><a href="../Page/剃刀蔣.md" title="wikilink">剃刀蔣</a></p></td>
+<td></td>
 <td><p><a href="../Page/中華音樂人交流協會.md" title="wikilink">中華音樂人交流協會</a><br />
 2017年度十大單曲之一</p></td>
 </tr>
 <tr class="even">
 <td><p>2018年10月</p></td>
 <td><p>曖</p></td>
-<td><p>孫盛希｜ØZI</p></td>
-<td><p>孫盛希｜米奇林｜ØZI</p></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/孫盛希" title="wikilink">孫盛希</a>｜<a href="../Page/ØZI.md" title="wikilink">ØZI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/孫盛希" title="wikilink">孫盛希</a>｜<a href="https://zh.wikipedia.org/wiki/米奇林" title="wikilink">米奇林</a>｜<a href="../Page/ØZI.md" title="wikilink">ØZI</a></p></td>
+<td><p>米奇林</p></td>
+<td><p>李欣芸</p></td>
 <td><p>收錄於 <a href="https://zh.wikipedia.org/wiki/孫盛希" title="wikilink">孫盛希</a> 的第四張個人專輯 <a href="../Page/希遊記.md" title="wikilink">希遊記</a> 之中</p></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>2019年4月</p></td>
+<td><p>No Joke</p></td>
+<td><p><a href="../Page/羅志祥.md" title="wikilink">羅志祥</a>｜<a href="https://zh.wikipedia.org/wiki/Tipsy_Kao" title="wikilink">Tipsy Kao</a></p></td>
+<td><p><a href="../Page/羅志祥.md" title="wikilink">羅志祥</a>｜<a href="../Page/陳星翰.md" title="wikilink">陳星翰</a>｜<a href="../Page/ØZI.md" title="wikilink">ØZI</a></p></td>
+<td><p><a href="../Page/陳星翰.md" title="wikilink">陳星翰</a>|<a href="https://zh.wikipedia.org/wiki/馬仕釗" title="wikilink">馬仕釗</a></p></td>
+<td><p>陳星翰</p></td>
+<td><p>收錄於 <a href="../Page/羅志祥.md" title="wikilink">羅志祥</a> 的第十二張個人專輯 <a href="../Page/No_Idea.md" title="wikilink">No Idea</a> 之中</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年7月</p></td>
+<td><p>House party 好事派對</p></td>
+<td><p><a href="../Page/ØZI.md" title="wikilink">ØZI</a></p></td>
+<td><p><a href="../Page/ØZI.md" title="wikilink">ØZI</a></p></td>
+<td><p><a href="../Page/剃刀蔣.md" title="wikilink">剃刀蔣</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -343,19 +349,9 @@ B.C.W｜Barry｜<a href="../Page/大支.md" title="wikilink">大支</a></p></td>
 
 <references />
 
-[Category:台灣作曲家](https://zh.wikipedia.org/wiki/Category:台灣作曲家 "wikilink")
-[Category:台灣作詞家](https://zh.wikipedia.org/wiki/Category:台灣作詞家 "wikilink")
+[Category:台灣作曲家](https://zh.wikipedia.org/wiki/Category:台灣作曲家 "wikilink") [Category:台灣作詞家](https://zh.wikipedia.org/wiki/Category:台灣作詞家 "wikilink")
 
-[Category:1997年出生](https://zh.wikipedia.org/wiki/Category:1997年出生 "wikilink")
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
-[Category:台灣饒舌歌手](https://zh.wikipedia.org/wiki/Category:台灣饒舌歌手 "wikilink")
-[Category:台灣嘻哈歌手](https://zh.wikipedia.org/wiki/Category:台灣嘻哈歌手 "wikilink")
-[Category:台灣嘻哈音樂家](https://zh.wikipedia.org/wiki/Category:台灣嘻哈音樂家 "wikilink")
-[Category:台灣華語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:台灣華語流行音樂歌手 "wikilink")
-[Category:台灣創作歌手](https://zh.wikipedia.org/wiki/Category:台灣創作歌手 "wikilink")
-[Category:台灣男歌手](https://zh.wikipedia.org/wiki/Category:台灣男歌手 "wikilink")
-[Category:台北人](https://zh.wikipedia.org/wiki/Category:台北人 "wikilink")
-[Category:陳姓](https://zh.wikipedia.org/wiki/Category:陳姓 "wikilink")
+[Category:1997年出生](https://zh.wikipedia.org/wiki/Category:1997年出生 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:台灣饒舌歌手](https://zh.wikipedia.org/wiki/Category:台灣饒舌歌手 "wikilink") [Category:台灣嘻哈歌手](https://zh.wikipedia.org/wiki/Category:台灣嘻哈歌手 "wikilink") [Category:台灣嘻哈音樂家](https://zh.wikipedia.org/wiki/Category:台灣嘻哈音樂家 "wikilink") [Category:台灣華語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:台灣華語流行音樂歌手 "wikilink") [Category:台灣創作歌手](https://zh.wikipedia.org/wiki/Category:台灣創作歌手 "wikilink") [Category:台灣男歌手](https://zh.wikipedia.org/wiki/Category:台灣男歌手 "wikilink") [Category:台北人](https://zh.wikipedia.org/wiki/Category:台北人 "wikilink") [Category:陳姓](https://zh.wikipedia.org/wiki/Category:陳姓 "wikilink")
 
 1.
 2.
@@ -366,8 +362,7 @@ B.C.W｜Barry｜<a href="../Page/大支.md" title="wikilink">大支</a></p></td>
 7.
 8.
 9.  [金曲獎第30屆完整入圍名單](https://www.cna.com.tw/news/firstnews/201905155002.aspx),中央社，2019年5月15日
-10. [ØZI獲金曲獎最佳新人
-    媽媽葉璦菱視訊分享喜悅](https://www.cna.com.tw/news/firstnews/201906295011.aspx),中央社，2019年6月29日
+10. [ØZI獲金曲獎最佳新人 媽媽葉璦菱視訊分享喜悅](https://www.cna.com.tw/news/firstnews/201906295011.aspx),中央社，2019年6月29日
 11.
 12.
 13.

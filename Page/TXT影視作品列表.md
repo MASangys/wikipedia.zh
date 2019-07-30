@@ -1,6 +1,4 @@
-《**TXT影視作品列表**》，主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂團體](https://zh.wikipedia.org/wiki/男子音樂團體 "wikilink")[TOMORROW
-X
-TOGETHER歷年參與之音樂錄影帶](../Page/TXT_\(組合\).md "wikilink")、各類電視節目、固定節目及主持作品。
+《**TXT影視作品列表**》，主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂團體](https://zh.wikipedia.org/wiki/男子音樂團體 "wikilink")[TOMORROW X TOGETHER歷年參與之音樂錄影帶](../Page/TXT_\(組合\).md "wikilink")、各類電視節目、固定節目及主持作品。
 
 ## 專屬節目
 
@@ -9,6 +7,7 @@ TOGETHER歷年參與之音樂錄影帶](../Page/TXT_\(組合\).md "wikilink")、
 | 年份          | 日期             | 頻道                                                    | 節目名稱                                                           | 集數 | 拍攝地點            | 備註               |
 | 2019年       | 3月4日           | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | 《TOMORROW X TOGETHER Debut Celebration Show presented by Mnet》 | 1  | 韓國              | 慶祝出道節目\[1\]\[2\] |
 | 3月11日－3月12日 | YouTube、V LIVE | 《[TALK X TODAY](../Page/TALK_X_TODAY.md "wikilink")》  | 6                                                              | 韓國 | 日常真人秀\[3\]\[4\] |                  |
+| 6月27日－8月15日 | Mnet           | 《ONE DREAM. TXT》                                      | 8                                                              | 美國 | 美國巡迴ShowCase記錄  |                  |
 
 ## 官方頻道單元
 
@@ -544,8 +543,7 @@ Cat &amp; Dog (Animal ver.)[20]</p></td>
 
 ## 參考文獻
 
-[Category:TXT](https://zh.wikipedia.org/wiki/Category:TXT "wikilink")
-[Category:作品列表](https://zh.wikipedia.org/wiki/Category:作品列表 "wikilink")
+[Category:TXT](https://zh.wikipedia.org/wiki/Category:TXT "wikilink") [Category:作品列表](https://zh.wikipedia.org/wiki/Category:作品列表 "wikilink")
 
 1.
 2.

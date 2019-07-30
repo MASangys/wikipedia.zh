@@ -1,5 +1,4 @@
-「**Stay
-Free**」是[日本](../Page/日本.md "wikilink")[音樂組合](../Page/音樂組合.md "wikilink")[B'z的主唱](../Page/B'z.md "wikilink")[稻葉浩志在](../Page/稻葉浩志.md "wikilink")[2014年](../Page/2014年.md "wikilink")[4月23日由](../Page/4月23日.md "wikilink")[Being發行的](../Page/Being_\(公司\).md "wikilink")[數位下載單曲](../Page/數位音樂下載.md "wikilink")。
+「**Stay Free**」是[日本](../Page/日本.md "wikilink")[音樂組合](../Page/音樂組合.md "wikilink")[B'z](../Page/B'z.md "wikilink")的主唱[稻葉浩志](../Page/稻葉浩志.md "wikilink")在[2014年](../Page/2014年.md "wikilink")[4月23日](../Page/4月23日.md "wikilink")由[Being發行的](../Page/Being_\(公司\).md "wikilink")[數位下載單曲](../Page/數位音樂下載.md "wikilink")。
 
 ## 概要
 
@@ -30,5 +29,4 @@ Free**」是[日本](../Page/日本.md "wikilink")[音樂組合](../Page/音樂�
 
 **引用日語原文**
 
-[Category:2014年單曲](https://zh.wikipedia.org/wiki/Category:2014年單曲 "wikilink")
-[Category:稻葉浩志歌曲](https://zh.wikipedia.org/wiki/Category:稻葉浩志歌曲 "wikilink")
+[Category:2014年單曲](https://zh.wikipedia.org/wiki/Category:2014年單曲 "wikilink") [Category:稻葉浩志歌曲](https://zh.wikipedia.org/wiki/Category:稻葉浩志歌曲 "wikilink")

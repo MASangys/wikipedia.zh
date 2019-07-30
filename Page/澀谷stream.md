@@ -7,15 +7,8 @@
 ## 外部連結
 
   -
-[Category:澀谷](https://zh.wikipedia.org/wiki/Category:澀谷 "wikilink")
-[Category:东京都摩天大楼](https://zh.wikipedia.org/wiki/Category:东京都摩天大楼 "wikilink")
-[Category:東京都都市更新地區](https://zh.wikipedia.org/wiki/Category:東京都都市更新地區 "wikilink")
-[Category:150米至199米高的摩天大樓](https://zh.wikipedia.org/wiki/Category:150米至199米高的摩天大樓 "wikilink")
-[Category:2018年完工建築物](https://zh.wikipedia.org/wiki/Category:2018年完工建築物 "wikilink")
-[Category:東急集團](https://zh.wikipedia.org/wiki/Category:東急集團 "wikilink")
+[Category:澀谷](https://zh.wikipedia.org/wiki/Category:澀谷 "wikilink") [Category:东京都摩天大楼](https://zh.wikipedia.org/wiki/Category:东京都摩天大楼 "wikilink") [Category:東京都都市更新地區](https://zh.wikipedia.org/wiki/Category:東京都都市更新地區 "wikilink") [Category:150米至199米高的摩天大樓](https://zh.wikipedia.org/wiki/Category:150米至199米高的摩天大樓 "wikilink") [Category:2018年完工建築物](https://zh.wikipedia.org/wiki/Category:2018年完工建築物 "wikilink") [Category:東急集團](https://zh.wikipedia.org/wiki/Category:東急集團 "wikilink")
 
-1.  [施設名称は「渋谷ストリーム」に　東横線旧渋谷駅跡地開発の詳細発表](http://www.shibukei.com/headline/11893/)
-    [シブヤ経済新聞](https://zh.wikipedia.org/wiki/シブヤ経済新聞 "wikilink")
-    2016.10.24
+1.  [施設名称は「渋谷ストリーム」に　東横線旧渋谷駅跡地開発の詳細発表](http://www.shibukei.com/headline/11893/) [シブヤ経済新聞](https://zh.wikipedia.org/wiki/シブヤ経済新聞 "wikilink") 2016.10.24
 
 2.

@@ -1,43 +1,24 @@
-《**Forever
-Young**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[BLACKPINK的歌曲](../Page/BLACKPINK.md "wikilink")，收錄於她們的首張韓語[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")《[Square
-Up](https://zh.wikipedia.org/wiki/Square_Up_\(迷你專輯\) "wikilink")》中，作為專輯的第二首主打歌曲由[Genie音樂發行於](../Page/Genie音樂.md "wikilink")2018年6月15日\[1\]。歌曲是由[泰迪](../Page/泰迪·朴.md "wikilink")、Future
-Bounce和R.Tee共同創作，泰迪亦是這首歌曲的主要製作人。發行後，該歌曲顯著的商業表現被[Gaon Chart
-K-POP大獎提名為](../Page/Gaon_Chart_K-POP大獎.md "wikilink")2018年的年度歌曲之一\[2\]\[3\]。截至2019年5月，《Forever
-Young》在[Spotify上擁有超過](../Page/Spotify.md "wikilink")8000萬流媒播放次數。
+《**Forever Young**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[BLACKPINK](../Page/BLACKPINK.md "wikilink")的歌曲，收錄於她們的首張韓語[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")《[Square Up](https://zh.wikipedia.org/wiki/Square_Up_\(迷你專輯\) "wikilink")》中，作為專輯的第二首主打歌曲由[Genie音樂](../Page/Genie音樂.md "wikilink")發行於2018年6月15日\[1\]。歌曲是由[泰迪](../Page/泰迪·朴.md "wikilink")、Future Bounce和R.Tee共同創作，泰迪亦是這首歌曲的主要製作人。發行後，該歌曲顯著的商業表現被[Gaon Chart K-POP大獎提名為](../Page/Gaon_Chart_K-POP大獎.md "wikilink")2018年的年度歌曲之一\[2\]\[3\]。截至2019年5月，《Forever Young》在[Spotify](../Page/Spotify.md "wikilink")上擁有超過8000萬流媒播放次數。
 
 ## 背景
 
-BLACKPINK早在出道前便已開始錄製《Forever Young》\[4\]，這首歌曲後來被收錄在2018年發行的專輯《[Square
-Up](https://zh.wikipedia.org/wiki/Square_Up_\(迷你專輯\) "wikilink")》中，並與《[Ddu-Du
-Ddu-Du](https://zh.wikipedia.org/wiki/Ddu-Du_Ddu-Du "wikilink")》同為專輯的主打歌曲\[5\]。2018年6月5日，[YG娛樂公開了這首歌曲的正式名稱](../Page/YG娛樂.md "wikilink")\[6\]，接著在6日及7日釋出分別由成員[Rosé和](../Page/Rosé_\(韓國歌手\).md "wikilink")[Jisoo擔當封面主角的動態預告海報](../Page/金智秀_\(歌手\).md "wikilink")，其預告的背景音樂便是使用了《Forever
-Young》的歌曲旋律\[7\]。在YG娛樂持續上載相關預告一段時間後，最終這首歌連同《Square
-Up》其它收錄曲在6月15日晚間6時通過[媒體播放器應用程式](https://zh.wikipedia.org/wiki/媒体播放器 "wikilink")[iTunes](https://zh.wikipedia.org/wiki/iTunes "wikilink")、音樂[串流媒體服務平臺](https://zh.wikipedia.org/wiki/串流媒體 "wikilink")[Spotify](../Page/Spotify.md "wikilink")、[Apple
-Music和韓國各大數位音樂網站公開線上音源](../Page/Apple_Music.md "wikilink")。
+BLACKPINK早在出道前便已開始錄製《Forever Young》\[4\]，這首歌曲後來被收錄在2018年發行的專輯《[Square Up](https://zh.wikipedia.org/wiki/Square_Up_\(迷你專輯\) "wikilink")》中，並與《[Ddu-Du Ddu-Du](https://zh.wikipedia.org/wiki/Ddu-Du_Ddu-Du "wikilink")》同為專輯的主打歌曲\[5\]。2018年6月5日，[YG娛樂](../Page/YG娛樂.md "wikilink")公開了這首歌曲的正式名稱\[6\]，接著在6日及7日釋出分別由成員[Rosé和](../Page/Rosé_\(韓國歌手\).md "wikilink")[Jisoo擔當封面主角的動態預告海報](../Page/金智秀_\(歌手\).md "wikilink")，其預告的背景音樂便是使用了《Forever Young》的歌曲旋律\[7\]。在YG娛樂持續上載相關預告一段時間後，最終這首歌連同《Square Up》其它收錄曲在6月15日晚間6時通過[媒體播放器應用程式](https://zh.wikipedia.org/wiki/媒体播放器 "wikilink")[iTunes](https://zh.wikipedia.org/wiki/iTunes "wikilink")、音樂[串流媒體服務平臺](https://zh.wikipedia.org/wiki/串流媒體 "wikilink")[Spotify](../Page/Spotify.md "wikilink")、[Apple Music和韓國各大數位音樂網站公開線上音源](../Page/Apple_Music.md "wikilink")。
 
 ## 構成
 
-《Forever
-Young》是一首以曲風為主軸的[流行舞曲](../Page/流行舞曲.md "wikilink")\[8\]，時長3分57秒\[9\]，歌曲的曲子由YG娛樂的音樂製作人[泰迪](../Page/泰迪·朴.md "wikilink")、Future
-Bounce和The Black
-Label音樂工作室製作人R.Tee共同作曲，泰迪也同時為這首歌[填詞](../Page/填詞.md "wikilink")\[10\]。
+《Forever Young》是一首以曲風為主軸的[流行舞曲](../Page/流行舞曲.md "wikilink")\[8\]，時長3分57秒\[9\]，歌曲的曲子由YG娛樂的音樂製作人[泰迪](../Page/泰迪·朴.md "wikilink")、Future Bounce和The Black Label音樂工作室製作人R.Tee共同作曲，泰迪也同時為這首歌[填詞](../Page/填詞.md "wikilink")\[10\]。
 
-在音樂性上，《Forever
-Young》的編曲方向與其它收錄曲較為不同，歌曲在前段、中段的主歌與副歌的節奏均屬優美、輕快，但在接近尾奏部分加入來做銜接，改以使用強烈的[電子舞曲元素](../Page/電子舞曲.md "wikilink")，使其形成了對比，打破了原本歌曲的架構\[11\]。歌詞方面則有著「無悔地讓青春燃燒」的含意\[12\]。
+在音樂性上，《Forever Young》的編曲方向與其它收錄曲較為不同，歌曲在前段、中段的主歌與副歌的節奏均屬優美、輕快，但在接近尾奏部分加入來做銜接，改以使用強烈的[電子舞曲](../Page/電子舞曲.md "wikilink")元素，使其形成了對比，打破了原本歌曲的架構\[11\]。歌詞方面則有著「無悔地讓青春燃燒」的含意\[12\]。
 
 ## 音樂影片
 
-與《Ddu-Du Ddu-Du》不同，YG娛樂並未對《Forever
-Young》另外拍攝[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")，僅準備了舞蹈練習影片。影片於2018年6月20日在BLACKPINK的[YouTube官方頻道上發佈](../Page/YouTube.md "wikilink")\[13\]。截至2019年5月，該影片在YouTube上擁有超過9500萬的觀看次數。
+與《Ddu-Du Ddu-Du》不同，YG娛樂並未對《Forever Young》另外拍攝[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")，僅準備了舞蹈練習影片。影片於2018年6月20日在BLACKPINK的[YouTube](../Page/YouTube.md "wikilink")官方頻道上發佈\[13\]。截至2019年6月，該影片在YouTube上擁有超過1億的觀看次數。
 
 ## 現場表演
 
-《Forever
-Young》是主要推廣的歌曲之一，不過起初BLACKPINK僅在發行後的第一週於[文化廣播公司](../Page/文化廣播公司.md "wikilink")（MBC）旗下節目《[Show\!
-音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")》和[SBS音樂放送節目](../Page/SBS_\(韓國\).md "wikilink")《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》演唱這首歌曲\[14\]，接著均著重宣傳《Ddu-Du
-Ddu-Du》，直至7月中旬才開始集中於《Forever Young》的宣傳\[15\]。
+《Forever Young》是主要推廣的歌曲之一，不過起初BLACKPINK僅在發行後的第一週於[文化廣播公司](../Page/文化廣播公司.md "wikilink")（MBC）旗下節目《[Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")》和[SBS音樂放送節目](../Page/SBS_\(韓國\).md "wikilink")《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》演唱這首歌曲\[14\]，接著均著重宣傳《Ddu-Du Ddu-Du》，直至7月中旬才開始集中於《Forever Young》的宣傳\[15\]。
 
-除了在國內演出之外，BLACKPINK也前往美國開展廣泛的宣傳活動，她們陸續在[環球音樂集團舉辦的](https://zh.wikipedia.org/wiki/環球音樂集團 "wikilink")[葛萊美週末品牌展示會](../Page/葛萊美獎.md "wikilink")\[16\]、談話性節目《[早安美國](../Page/早安美國.md "wikilink")》\[17\]、[科切拉音樂節等現場表演了](https://zh.wikipedia.org/wiki/科切拉音樂節 "wikilink")《Forever
-Young》。
+除了在國內演出之外，BLACKPINK也前往美國開展廣泛的宣傳活動，她們陸續在[環球音樂集團舉辦的](https://zh.wikipedia.org/wiki/環球音樂集團 "wikilink")[葛萊美週末品牌展示會](../Page/葛萊美獎.md "wikilink")\[16\]、談話性節目《[早安美國](../Page/早安美國.md "wikilink")》\[17\]、[科切拉音樂節等現場表演了](https://zh.wikipedia.org/wiki/科切拉音樂節 "wikilink")《Forever Young》。
 
 ## 商業成績
 
@@ -45,11 +26,9 @@ Young》。
 
   -
   -
-  - </ref>，僅次於《Ddu-Du Ddu-Du》之後。而根據MelOn公開的收聽人數，《Forever
-    Young》的音源在釋出後首24小時收聽人數達到577,188人\[18\]。
+  - </ref>，僅次於《Ddu-Du Ddu-Du》之後。而根據MelOn公開的收聽人數，《Forever Young》的音源在釋出後首24小時收聽人數達到577,188人\[18\]。
 
-一星期後，依據發行首週在韓國的銷售表現，《Forever
-Young》以50,664,973指數，空降[Gaon音樂榜](https://zh.wikipedia.org/wiki/Gaon音樂榜 "wikilink")[單曲週榜亞軍](../Page/2018年Gaon單曲冠軍作品列表.md "wikilink")\[19\]。歌曲也打入了《[告示牌](../Page/告示牌_\(雜誌\).md "wikilink")》在韓國開設的冠名音樂排行榜，登上了第2名的位置\[20\]。
+一星期後，依據發行首週在韓國的銷售表現，《Forever Young》以50,664,973指數，空降[Gaon音樂榜](https://zh.wikipedia.org/wiki/Gaon音樂榜 "wikilink")[單曲週榜亞軍](../Page/2018年Gaon單曲冠軍作品列表.md "wikilink")\[19\]。歌曲也打入了《[告示牌](../Page/告示牌_\(雜誌\).md "wikilink")》在韓國開設的冠名音樂排行榜，登上了第2名的位置\[20\]。
 
 ## 版本
 
@@ -238,9 +217,7 @@ Young》以50,664,973指數，空降[Gaon音樂榜](https://zh.wikipedia.org/wik
 
 ## 參考資料
 
-[Category:BLACKPINK歌曲](https://zh.wikipedia.org/wiki/Category:BLACKPINK歌曲 "wikilink")
-[Category:韓國歌曲](https://zh.wikipedia.org/wiki/Category:韓國歌曲 "wikilink")
-[Category:2018年歌曲](https://zh.wikipedia.org/wiki/Category:2018年歌曲 "wikilink")
+[Category:BLACKPINK歌曲](https://zh.wikipedia.org/wiki/Category:BLACKPINK歌曲 "wikilink") [Category:韓國歌曲](https://zh.wikipedia.org/wiki/Category:韓國歌曲 "wikilink") [Category:2018年歌曲](https://zh.wikipedia.org/wiki/Category:2018年歌曲 "wikilink")
 
 1.
 

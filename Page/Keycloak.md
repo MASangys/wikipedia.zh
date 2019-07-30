@@ -2,12 +2,9 @@
 
 ## 历史
 
-Keycloak的第一个生产版本发布于2014年9月，其开发始于大约一年前。2016年，红帽公司将其RH
-SSO产品由基于PicketLink框架，切换为基于Keycloak上游项目。\[2\]在此之前，PicketLink的代码已经被并入了Keycloak。\[3\]\[4\]
+Keycloak的第一个生产版本发布于2014年9月，其开发始于大约一年前。2016年，红帽公司将其RH SSO产品由基于PicketLink框架，切换为基于Keycloak上游项目。\[2\]在此之前，PicketLink的代码已经被并入了Keycloak。\[3\]\[4\]
 
-某种程度上，Keycloak现在也可以被认为是红帽公司JBoss SSO开源产品的一个替代，在这之前JBoss
-SSO是被PicketLink所取代的。\[5\]\[6\]JBoss.org是将旧的jbosssso子站点重定向到Keycloak网站的。JBoss这一名称是一个注册商标，红帽公司改变了其上游开源项目的名称，以避免使用JBoss，JBoss
-AS被更名为更具有辨识度的[WildFly](../Page/WildFly.md "wikilink")。
+某种程度上，Keycloak现在也可以被认为是红帽公司JBoss SSO开源产品的一个替代，在这之前JBoss SSO是被PicketLink所取代的。\[5\]\[6\]JBoss.org是将旧的jbosssso子站点重定向到Keycloak网站的。JBoss这一名称是一个注册商标，红帽公司改变了其上游开源项目的名称，以避免使用JBoss，JBoss AS被更名为更具有辨识度的[WildFly](../Page/WildFly.md "wikilink")。
 
 ## 功能
 
@@ -22,7 +19,7 @@ Keycloak的众多功能包括：
 
   - [LDAP集成](../Page/轻型目录访问协议.md "wikilink")
 
-  - [Kerberos代理](../Page/Kerberos.md "wikilink")
+  - [Kerberos](../Page/Kerberos.md "wikilink")代理
 
   - 多组织中，每个Realm可自定义皮肤
 
@@ -49,9 +46,7 @@ Keycloak有2个主要组件：
   - [官方网站](http://www.keycloak.org)
 
   -
-[Category:安全软件](https://zh.wikipedia.org/wiki/Category:安全软件 "wikilink")
-[Category:Java企业平台](https://zh.wikipedia.org/wiki/Category:Java企业平台 "wikilink")
-[Category:联邦身份](https://zh.wikipedia.org/wiki/Category:联邦身份 "wikilink")
+[Category:安全软件](https://zh.wikipedia.org/wiki/Category:安全软件 "wikilink") [Category:Java企业平台](https://zh.wikipedia.org/wiki/Category:Java企业平台 "wikilink") [Category:联邦身份](https://zh.wikipedia.org/wiki/Category:联邦身份 "wikilink")
 
 1.
 2.

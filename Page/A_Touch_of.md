@@ -1,5 +1,4 @@
-《**A Touch
-Of**》\[1\]是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[林奕匡的第](../Page/林奕匡.md "wikilink")8張音樂專輯，於2018年11月2日推出。
+《**A Touch Of**》\[1\]是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[林奕匡](../Page/林奕匡.md "wikilink")的第8張音樂專輯，於2018年11月2日推出。
 
 ## 曲目列表
 
@@ -21,9 +20,7 @@ Of**》\[1\]是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md 
 
 ## 參考文獻
 
-[Category:林奕匡音樂專輯](https://zh.wikipedia.org/wiki/Category:林奕匡音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
+[Category:林奕匡音樂專輯](https://zh.wikipedia.org/wiki/Category:林奕匡音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
 
 [Category:2018年音樂專輯](https://zh.wikipedia.org/wiki/Category:2018年音樂專輯 "wikilink")
 

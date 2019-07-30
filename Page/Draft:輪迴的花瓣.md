@@ -1,9 +1,8 @@
-《**輪迴的花瓣**》（）為日本漫畫家[小西幹久於](https://zh.wikipedia.org/wiki/小西幹久 "wikilink")[月刊Comic
-BLADE連載中的日本漫畫作品](../Page/月刊Comic_BLADE.md "wikilink")。
+《**輪迴的花瓣**》（）為日本漫畫家[小西幹久於](https://zh.wikipedia.org/wiki/小西幹久 "wikilink")[月刊Comic BLADE連載中的日本漫畫作品](../Page/月刊Comic_BLADE.md "wikilink")。
 
 ## 故事簡介
 
-主角扇寺東耶是個因自己處處比不上優秀的哥哥而感到自卑的人，導致他的很執著於獲得「才能」，並憎恨著所謂「天才」。直到他知曉有著能入手前世「才能」的道具「輪迴枝」...
+"輪迴之枝"是一個透過自刎而引導出前世才能的道具。主角扇寺東耶因緣際會下目睹了高中同學灰都使用了枝與費雪的戰鬥，東耶在其中得到了灰都的認可，並獲得了"輪迴之枝"引導出了前世的"才能"並參加了包含灰都在內由偉人們所組成的"偉人森林"，為了世界和平而迎接了一場又一場的戰鬥...
 
 ## 登場人物
 
@@ -25,7 +24,7 @@ BLADE連載中的日本漫畫作品](../Page/月刊Comic_BLADE.md "wikilink")。
 
   -
     女性。孤兒。有著外國人的外表。幼時曾習劍道，卻因沒有才能而使用輪迴枝將希望投注於前世。
-      - 輪迴者：[宮本武藏玄信](../Page/宮本武藏.md "wikilink")
+      - 輪迴者：[宮本武藏](../Page/宮本武藏.md "wikilink")玄信
         才能：
 
 <!-- end list -->
@@ -186,8 +185,7 @@ BLADE連載中的日本漫畫作品](../Page/月刊Comic_BLADE.md "wikilink")。
 
 <!-- end list -->
 
-  - 「如神一般的白軍」 －
-    可以想到一切戰略的才能。能夠操縱巨大西洋棋作為士兵按照自己意思控制。當西洋棋全滅時還可以使出戰力更加強大的特殊棋子。
+  - 「如神一般的白軍」 － 可以想到一切戰略的才能。能夠操縱巨大西洋棋作為士兵按照自己意思控制。當西洋棋全滅時還可以使出戰力更加強大的特殊棋子。
 
 <!-- end list -->
 
@@ -469,8 +467,7 @@ BLADE連載中的日本漫畫作品](../Page/月刊Comic_BLADE.md "wikilink")。
 
 ## 出版書籍
 
-日本方由[Mag
-Garden出版](../Page/Mag_Garden.md "wikilink")，現已出版5卷。台灣方面由[東立出版社代理發行](../Page/東立出版社.md "wikilink")，現已出版1卷。
+日本方由[Mag Garden出版](../Page/Mag_Garden.md "wikilink")\[1\]，現已出版9卷，至2018年2月，銷量已達70萬部\[2\]。台灣方面由[東立出版社](../Page/東立出版社.md "wikilink")代理發行\[3\]，現已出版1卷。
 
 <table>
 <thead>
@@ -525,9 +522,8 @@ Garden出版](../Page/Mag_Garden.md "wikilink")，現已出版5卷。台灣方�
 
 ## 相關
 
-  - [リィンカーネーションの花弁](http://comic.mag-garden.co.jp/reincarnation/)
-  - [東立出書單](http://www.tongli.com.tw/TNews_View.aspx?Tid=20160808084234)
-  - [累計70万部！
-    新感覚異能バトルで絶好調の『リィンカーネーションの花弁』を陰で支えたふたりとは？](https://ddnavi.com/interview/433991/a/)
-
 [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
+
+1.
+2.
+3.

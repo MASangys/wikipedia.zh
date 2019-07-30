@@ -62,7 +62,6 @@
 
 ## 外部連結
 
-[Category:NHK](https://zh.wikipedia.org/wiki/Category:NHK "wikilink")
-[Category:廣島市](https://zh.wikipedia.org/wiki/Category:廣島市 "wikilink")
+[Category:NHK](https://zh.wikipedia.org/wiki/Category:NHK "wikilink") [Category:廣島市](https://zh.wikipedia.org/wiki/Category:廣島市 "wikilink")
 
 1.

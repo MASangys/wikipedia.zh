@@ -2,7 +2,7 @@
 
 ## 概要
 
-為了紀念[多美卡超級系列誕生](../Page/多美卡超級系列.md "wikilink")10週年，更新了其世界觀與角色。故事描述2030年的多美卡小鎮，是個車輛與機器人共存的世代，並有被稱為「行動機器人」的機器人活躍著。
+為了紀念[多美卡超級系列](../Page/多美卡超級系列.md "wikilink")誕生10週年，更新了其世界觀與角色。故事描述2030年的多美卡小鎮，是個車輛與機器人共存的世代，並有被稱為「行動機器人」的機器人活躍著。
 
 ## 登場人物
 
@@ -59,9 +59,4 @@
 ## 外部連結
 
   -
-[Category:機器人動畫](https://zh.wikipedia.org/wiki/Category:機器人動畫 "wikilink")
-[Category:人命救助題材作品](https://zh.wikipedia.org/wiki/Category:人命救助題材作品 "wikilink")
-[Category:日本網路動畫](https://zh.wikipedia.org/wiki/Category:日本網路動畫 "wikilink")
-[Category:車輛題材作品](https://zh.wikipedia.org/wiki/Category:車輛題材作品 "wikilink")
-[Category:未來題材作品](https://zh.wikipedia.org/wiki/Category:未來題材作品 "wikilink")
-[Category:2010年代玩具](https://zh.wikipedia.org/wiki/Category:2010年代玩具 "wikilink")
+[Category:機器人動畫](https://zh.wikipedia.org/wiki/Category:機器人動畫 "wikilink") [Category:人命救助題材作品](https://zh.wikipedia.org/wiki/Category:人命救助題材作品 "wikilink") [Category:日本網路動畫](https://zh.wikipedia.org/wiki/Category:日本網路動畫 "wikilink") [Category:車輛題材作品](https://zh.wikipedia.org/wiki/Category:車輛題材作品 "wikilink") [Category:未來題材作品](https://zh.wikipedia.org/wiki/Category:未來題材作品 "wikilink") [Category:2010年代玩具](https://zh.wikipedia.org/wiki/Category:2010年代玩具 "wikilink")

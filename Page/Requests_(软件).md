@@ -1,5 +1,4 @@
-**Requests**是一个[Python](../Page/Python.md "wikilink") HTTP库，在[Apache
-2许可证下发布](../Page/Apache许可证.md "wikilink")。该项目的目标是使HTTP请求更简单，更人性化。当前版本是2.19.1\[1\]
+**Requests**是一个[Python](../Page/Python.md "wikilink") HTTP库，在[Apache 2许可证下发布](../Page/Apache许可证.md "wikilink")。该项目的目标是使HTTP请求更简单，更人性化。当前版本是2.19.1\[1\]
 
 ## 示例代码
 
@@ -27,9 +26,6 @@ u'{"type":"User"...'
 
 ## 参考文献
 
-[Category:使用Apache许可证的软件](https://zh.wikipedia.org/wiki/Category:使用Apache许可证的软件 "wikilink")
-[Category:用Python編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用Python編程的自由軟體 "wikilink")
-[Category:自由網路軟體](https://zh.wikipedia.org/wiki/Category:自由網路軟體 "wikilink")
-[Category:Python库](https://zh.wikipedia.org/wiki/Category:Python库 "wikilink")
+[Category:使用Apache许可证的软件](https://zh.wikipedia.org/wiki/Category:使用Apache许可证的软件 "wikilink") [Category:用Python編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用Python編程的自由軟體 "wikilink") [Category:自由網路軟體](https://zh.wikipedia.org/wiki/Category:自由網路軟體 "wikilink") [Category:Python库](https://zh.wikipedia.org/wiki/Category:Python库 "wikilink")
 
 1.

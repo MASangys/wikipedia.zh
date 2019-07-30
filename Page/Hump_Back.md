@@ -1,5 +1,4 @@
-**Hump
-Back**是[日本的](../Page/日本.md "wikilink")3人女性[摇滚乐队](https://zh.wikipedia.org/wiki/摇滚乐队 "wikilink")。2009年结成，2018年主流出道。现为[VAP旗下艺人](../Page/VAP.md "wikilink")。
+**Hump Back**是[日本](../Page/日本.md "wikilink")的3人女性[摇滚乐队](https://zh.wikipedia.org/wiki/摇滚乐队 "wikilink")。2009年结成，2018年主流出道。现为[VAP](../Page/VAP.md "wikilink")旗下艺人。
 
 ## 成员
 
@@ -34,7 +33,7 @@ Back**是[日本的](../Page/日本.md "wikilink")3人女性[摇滚乐队](https
 
 ## 经历
 
-乐队最初是作为[Chatmonchy的模仿乐队而在](../Page/Chatmonchy.md "wikilink")2009年高校的轻音乐部由林萌萌子、megu和yukki三人组成。
+乐队最初是作为[Chatmonchy](../Page/Chatmonchy.md "wikilink")的模仿乐队而在2009年高校的轻音乐部由林萌萌子、megu和yukki三人组成。
 
 2012年乐队参加了的选拔，通过了第三次筛选。同年8月第一张Demo唱片《say googd bye》发布。
 
@@ -42,8 +41,7 @@ Back**是[日本的](../Page/日本.md "wikilink")3人女性[摇滚乐队](https
 
 2015年4月发布第一张全国流通唱片《回去的路》（）。7月发布第三张Demo唱片《》（十七岁）。8月林萌萌子发布个人第一张弹唱唱片《等待朝霞的黎明》（）
 
-2016年2月，随着美咲的加入，乐队形成现有体制。8月与唱片公司WELL BUCKET
-RECORDS签约\[1\]。12月发布第一张迷你专辑《》（到了晚上）而出道\[2\]，同时举办6场专辑发售巡回演唱会。
+2016年2月，随着美咲的加入，乐队形成现有体制。8月与唱片公司WELL BUCKET RECORDS签约\[1\]。12月发布第一张迷你专辑《》（到了晚上）而出道\[2\]，同时举办6场专辑发售巡回演唱会。
 
 2017年11月发布第二张迷你专辑《hanamuke》\[3\]，以及林萌萌子的个人唱片《》（“橡皮借我。”）\[4\]。并举办30场专辑发售巡回\[5\]。
 
@@ -263,9 +261,7 @@ RECORDS签约\[1\]。12月发布第一张迷你专辑《》（到了晚上）而
 
   -
   -
-[Category:日本摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本摇滚乐团 "wikilink")
-[Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink")
-[Category:2009年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2009年成立的音樂團體 "wikilink")
+[Category:日本摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本摇滚乐团 "wikilink") [Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink") [Category:2009年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2009年成立的音樂團體 "wikilink")
 
 1.
 2.

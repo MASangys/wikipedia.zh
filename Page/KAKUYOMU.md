@@ -1,5 +1,4 @@
-**'カクヨム**是[KADOKAWA旗下的小說投稿網站](../Page/KADOKAWA.md "wikilink")。\[1\]
-登錄為作者即可在其上公開發表免費小說。
+**'カクヨム**是[KADOKAWA](../Page/KADOKAWA.md "wikilink")旗下的小說投稿網站。\[1\] 登錄為作者即可在其上公開發表免費小說。
 
 ## 主要功能
 
@@ -200,6 +199,16 @@
 <td><p>✔</p></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/魔法使是家裡蹲？" title="wikilink">魔法使是家裡蹲？</a></p></td>
+<td><p>小鳥屋エム</p></td>
+<td><p>戸部淑</p></td>
+<td><p><a href="https://kakuyomu.jp/works/1177354054882961557">魔法使いで引きこもり? ~モフモフ以外とも心を通わせよう物語~</a></p></td>
+<td><p>角川新文芸</p></td>
+<td><p>東立</p></td>
+<td></td>
+<td><p>✔</p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -217,14 +226,9 @@
 ## 外部連結
 
   - [カクヨム](https://kakuyomu.jp)
-  - [カクヨム運営公式](https://kakuyomu.jp/users/kakuyomu_official)
-    (@kakuyomu_official) - カクヨム
-  - カクヨムWeb小説コンテスト
-    ([第1回](https://kakuyomu.jp/contests/kakuyomu_web_novel_001)、[第2回](https://kakuyomu.jp/special/entry/kakuyomu_web_novel_002)、[第3回](https://kakuyomu.jp/special/entry/kakuyomu_web_novel_003)、[第4回](https://kakuyomu.jp/special/entry/kakuyomu_web_novel_004))
+  - [カクヨム運営公式](https://kakuyomu.jp/users/kakuyomu_official) (@kakuyomu_official) - カクヨム
+  - カクヨムWeb小説コンテスト ([第1回](https://kakuyomu.jp/contests/kakuyomu_web_novel_001)、[第2回](https://kakuyomu.jp/special/entry/kakuyomu_web_novel_002)、[第3回](https://kakuyomu.jp/special/entry/kakuyomu_web_novel_003)、[第4回](https://kakuyomu.jp/special/entry/kakuyomu_web_novel_004))
 
-[Category:小說投稿網站](https://zh.wikipedia.org/wiki/Category:小說投稿網站 "wikilink")
-[Category:日本網站](https://zh.wikipedia.org/wiki/Category:日本網站 "wikilink")
-[Category:KADOKAWA](https://zh.wikipedia.org/wiki/Category:KADOKAWA "wikilink")
-[Category:カクヨム](https://zh.wikipedia.org/wiki/Category:カクヨム "wikilink")
+[Category:小說投稿網站](https://zh.wikipedia.org/wiki/Category:小說投稿網站 "wikilink") [Category:日本網站](https://zh.wikipedia.org/wiki/Category:日本網站 "wikilink") [Category:KADOKAWA](https://zh.wikipedia.org/wiki/Category:KADOKAWA "wikilink") [Category:カクヨム](https://zh.wikipedia.org/wiki/Category:カクヨム "wikilink")
 
 1.

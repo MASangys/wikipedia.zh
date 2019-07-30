@@ -1,5 +1,4 @@
-《**呀〈KIBA〉～暗黑騎士鎧傳～**》（**原文**：呀-KIBA-
-〜暗黒騎士鎧伝〜）。特攝劇集《[牙狼](https://zh.wikipedia.org/wiki/牙狼GARO "wikilink")》系列的首部獨立角色外傳電影。[2011年](../Page/2011年.md "wikilink")[9月3日劇場版上映](../Page/9月3日.md "wikilink")，[2011年](../Page/2011年.md "wikilink")[9月7日DVD](../Page/9月7日.md "wikilink")\&Blu-ray版本發售。
+《**呀〈KIBA〉～暗黑騎士鎧傳～**》（**原文**：呀-KIBA- 〜暗黒騎士鎧伝〜）。特攝劇集《[牙狼](https://zh.wikipedia.org/wiki/牙狼GARO "wikilink")》系列的首部獨立角色外傳電影。[2011年](../Page/2011年.md "wikilink")[9月3日](../Page/9月3日.md "wikilink")劇場版上映，[2011年](../Page/2011年.md "wikilink")[9月7日](../Page/9月7日.md "wikilink")DVD\&Blu-ray版本發售。
 
 ## 本作概要
 
@@ -19,8 +18,7 @@
 
 ## 登場人物
 
-<big>**龍崎駈音 / 魔戒騎士 魃羅格（暗黑騎士 呀）**</big> <small>／龍崎駈音 /
-魔戒騎士バラゴ（暗黒騎士キバ）</small>
+<big>**龍崎駈音 / 魔戒騎士 魃羅格（暗黑騎士 呀）**</big> <small>／龍崎駈音 / 魔戒騎士バラゴ（暗黒騎士キバ）</small>
 
   - <small>[京本政樹](../Page/京本政樹.md "wikilink") 飾／ 飾（兒時）</small>
 
@@ -187,8 +185,6 @@
   - [官方網站](https://www.bandaivisual.co.jp/garo/information.html)
   - [牙狼PROJECT](http://garo-project.jp/index.html)
 
-[Category:牙狼〈GARO〉](https://zh.wikipedia.org/wiki/Category:牙狼〈GARO〉 "wikilink")
-[Category:2011年日本電影](https://zh.wikipedia.org/wiki/Category:2011年日本電影 "wikilink")
-[Category:特別劇集](https://zh.wikipedia.org/wiki/Category:特別劇集 "wikilink")
+[Category:牙狼〈GARO〉](https://zh.wikipedia.org/wiki/Category:牙狼〈GARO〉 "wikilink") [Category:2011年日本電影](https://zh.wikipedia.org/wiki/Category:2011年日本電影 "wikilink") [Category:特別劇集](https://zh.wikipedia.org/wiki/Category:特別劇集 "wikilink")
 
 1.  本作中，大河演員未參與演出，僅以牙狼型態登場。

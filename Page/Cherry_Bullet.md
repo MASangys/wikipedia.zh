@@ -1,8 +1,4 @@
-**Cherry
-Bullet**（；），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[FNC娛樂旗下的十人女子組合](../Page/FNC娛樂.md "wikilink")。成員從2018年11月21日依次公開
-：由六名韓國成員[海允](../Page/海允.md "wikilink")、[裕姝](../Page/裕姝.md "wikilink")、[未來](../Page/金京主.md "wikilink")、[紫蘿](../Page/紫蘿.md "wikilink")、[智媛](../Page/智媛.md "wikilink")、[彩麟](../Page/彩麟.md "wikilink")，三名日本成員[KOKORO](../Page/KOKORO.md "wikilink")、[莉美](https://zh.wikipedia.org/wiki/REMI_\(Cherry_Bullet\) "wikilink")、[MAY](../Page/MAY_\(Cherry_Bullet\).md "wikilink")，以及一名台灣成員[粼粼所組成](../Page/黃姿婷.md "wikilink")\[1\]\[2\]\[3\]。2019年1月21日以首張單曲專輯《[Let's
-Play Cherry
-Bullet](../Page/Let's_Play_Cherry_Bullet.md "wikilink")》正式出道\[4\]\[5\]。
+**Cherry Bullet**（；），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[FNC娛樂](../Page/FNC娛樂.md "wikilink")旗下的十人女子組合。成員從2018年11月21日依次公開 ：由六名韓國成員[海允](../Page/海允.md "wikilink")、[裕姝](../Page/裕姝.md "wikilink")、[未來](../Page/金京主.md "wikilink")、[紫蘿](../Page/紫蘿.md "wikilink")、[智媛](../Page/智媛.md "wikilink")、[彩麟](../Page/彩麟.md "wikilink")，三名日本成員[KOKORO](../Page/KOKORO.md "wikilink")、[莉美](https://zh.wikipedia.org/wiki/REMI_\(Cherry_Bullet\) "wikilink")、[MAY](../Page/MAY_\(Cherry_Bullet\).md "wikilink")，以及一名台灣成員[粼粼所組成](../Page/黃姿婷.md "wikilink")\[1\]\[2\]\[3\]。2019年1月21日以首張單曲專輯《[Let's Play Cherry Bullet](../Page/Let's_Play_Cherry_Bullet.md "wikilink")》正式出道\[4\]\[5\]。
 
 ## 團體資料
 
@@ -27,16 +23,14 @@ Bullet](../Page/Let's_Play_Cherry_Bullet.md "wikilink")》正式出道\[4\]\[5\]
 
 ### 團名由來
 
-「Cherry
-Bullet」是將Cherry（櫻桃）和Bullet（子彈）形成鮮明對比的詞，以櫻桃般可愛而又富有個性的魅力，狙擊大眾心的女子組合。
+「Cherry Bullet」是將Cherry（櫻桃）和Bullet（子彈）形成鮮明對比的詞，以櫻桃般可愛而又富有個性的魅力，狙擊大眾心的女子組合。
 
 ## 發展歷程
 
 ### 2017－2018年：出道前
 
   - 2017年8月22日、8月23日、10月4日，按順序公開裕姝、智媛、紫蘿的預告照。
-  - 2018年6月15日－8月31日，成員海允出演[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[選秀](https://zh.wikipedia.org/wiki/選秀 "wikilink")[節目](https://zh.wikipedia.org/wiki/節目 "wikilink")《[PRODUCE
-    48](../Page/PRODUCE_48.md "wikilink")》，進總決賽。最終以第19名落選。
+  - 2018年6月15日－8月31日，成員海允出演[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[選秀](https://zh.wikipedia.org/wiki/選秀 "wikilink")[節目](https://zh.wikipedia.org/wiki/節目 "wikilink")《[PRODUCE 48](../Page/PRODUCE_48.md "wikilink")》，進總決賽。最終以第19名落選。
   - 2018年11月20日，FNC官方twitter帳號上，公開了女子組合的組合名稱和Daum Cafe、官方SNS也正式開通。
 
 ### 2019年：出道準備、正式出道、首次回歸
@@ -83,9 +77,8 @@ Bullet」是將Cherry（櫻桃）和Bullet（子彈）形成鮮明對比的詞�
 <ul>
 <li>發行日期 ：2019年5月22日</li>
 <li>語言：韓語</li>
-<li>銷量：9,238+<ref></li>
-</ul>
-<p>[<a href="http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&amp;serviceGbn=&amp;targetTime=05&amp;hitYear=2019&amp;termGbn=month">2019年5月GAON專輯榜29位</a></ref></p></td>
+<li>銷量：12,991+[6]</li>
+</ul></td>
 <td></td>
 </tr>
 </tbody>
@@ -434,6 +427,14 @@ Bullet」是將Cherry（櫻桃）和Bullet（子彈）形成鮮明對比的詞�
 <td></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>6月30日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MBC標準FM" title="wikilink">MBC標準FM</a></p></td>
+<td><p>《》</p></td>
+<td><p>全體</p></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -561,15 +562,11 @@ Bullet」是將Cherry（櫻桃）和Bullet（子彈）形成鮮明對比的詞�
 
   - [FNC Academy](http://fncacademy.com)
 
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
-[Category:2019年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2019年成立的音樂團體 "wikilink")
-[Category:Cherry_Bullet](https://zh.wikipedia.org/wiki/Category:Cherry_Bullet "wikilink")
-[Category:2019年韓國建立](https://zh.wikipedia.org/wiki/Category:2019年韓國建立 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
+[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:2019年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2019年成立的音樂團體 "wikilink") [Category:Cherry_Bullet](https://zh.wikipedia.org/wiki/Category:Cherry_Bullet "wikilink") [Category:2019年韓國建立](https://zh.wikipedia.org/wiki/Category:2019年韓國建立 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
 
 1.
 2.
 3.
 4.
 5.
+6.  [2019年6月GAON專輯榜47位](http://mobile.gaonchart.co.kr/musicAlbum.gaon?nationGbn=T&serviceGbn=&termGbn=month)

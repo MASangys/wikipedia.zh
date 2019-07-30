@@ -61,8 +61,7 @@ M區站屬於架空車站，設有2層，地面為出入口\[4\]，一樓為公�
 
 工作日期間，紅線列車平時的班次平均為9分鐘一班，繁忙時段（早上7時至9時、晚上5時至7時）則縮短為平均5分鐘一班。假日期間，列車班次平均為10分鐘一班。從M區站開往印度尼西亞大酒店圓環站的首班車在每天上午5時開出，末班車在每天晚上11時25分開出，開往布陸斯谷站的首班車在每天上午5時22分開出，末班車在每天晚上11時47分開出。\[6\]
 
-乘客可在本站周圍換乘[雅加達專線巴士](https://zh.wikipedia.org/wiki/雅加達專線巴士 "wikilink")1號線、1C號線、6M號線、7B號線、S21號線、S22號線，S69號線、S70號線、S71號線、S74號線、S75號線、S77號線、S78號線、S610號線、S611號線、S619號線，S613號線、S609號線、S605A號線、S608號線、
-S616號線、S620號線、S63號線、S66號線、T57號線，以及經營的AC05號線、P4號線、C925號線、C57號線、C107號線、C300號線、P13號線、P13A號線、P15號線、P27號線、AC06號線、AC28號線、AC34號線、AC49號線、AC121號線、AC134號線、AC137A號線和AC05A號線。\[7\]
+乘客可在本站周圍換乘[雅加達專線巴士](https://zh.wikipedia.org/wiki/雅加達專線巴士 "wikilink")1號線、1C號線、6M號線、7B號線、S21號線、S22號線，S69號線、S70號線、S71號線、S74號線、S75號線、S77號線、S78號線、S610號線、S611號線、S619號線，S613號線、S609號線、S605A號線、S608號線、 S616號線、S620號線、S63號線、S66號線、T57號線，以及經營的AC05號線、P4號線、C925號線、C57號線、C107號線、C300號線、P13號線、P13A號線、P15號線、P27號線、AC06號線、AC28號線、AC34號線、AC49號線、AC121號線、AC134號線、AC137A號線和AC05A號線。\[7\]
 
 ## 參考資料
 
@@ -70,9 +69,7 @@ S616號線、S620號線、S63號線、S66號線、T57號線，以及經營的AC0
 
   - [雅加達地鐵公司：M區站](https://www.jakartamrt.co.id/proyek-dan-perkembangan/stasiun-dan-fasilitas/stasiun-blok-m/)
 
-
-[Category:雅加達地鐵車站](https://zh.wikipedia.org/wiki/Category:雅加達地鐵車站 "wikilink")
-[Category:2019年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:2019年啟用的鐵路車站 "wikilink")
+[Category:雅加達地鐵車站](https://zh.wikipedia.org/wiki/Category:雅加達地鐵車站 "wikilink") [Category:2019年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:2019年啟用的鐵路車站 "wikilink")
 
 1.
 

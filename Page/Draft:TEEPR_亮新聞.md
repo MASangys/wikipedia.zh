@@ -2,11 +2,9 @@
 
 《TEEPR亮新聞》為臺灣新媒體新聞網站，創立於2013年12月25日 (前身為《TEEPR趣味新聞》)
 
-《TEEPR亮新聞》是媒體和科技公司，是不以時事為主軸的網路新聞媒體，主要報導「讀者為中心」的軟性即時
-新聞、國際新聞、網路潮流時事、提供包括動物和商業等主題的新聞內容。
+《TEEPR亮新聞》是媒體和科技公司，是不以時事為主軸的網路新聞媒體，主要報導「讀者為中心」的軟性即時 新聞、國際新聞、網路潮流時事、提供包括動物和商業等主題的新聞內容。
 
-在2015年根據[Alexa
-Internet流量統計顯示](../Page/Alexa_Internet.md "wikilink")《TEEPR亮新聞》達到全球排名299名、台灣第8大網路平台。
+在2015年根據[Alexa Internet流量統計顯示](../Page/Alexa_Internet.md "wikilink")《TEEPR亮新聞》達到全球排名299名、台灣第8大網路平台。
 
 公司旗下同時涵蓋不同數位領域，除了新聞媒體網站外，還包括電子商城、社群專頁平台、即時新聞APP、
 
@@ -30,9 +28,7 @@ Internet流量統計顯示](../Page/Alexa_Internet.md "wikilink")《TEEPR亮新�
 
 <!-- end list -->
 
-  - TEEPR在YouTube上也有多個專門的頻道，《[TEEPR亮影片](https://www.youtube.com/channel/UCzAOdjLlfyW19t8PtG1f7MA)》23萬訂閱人數
-    《[TEEPR Entertainment
-    NEWS](https://www.youtube.com/channel/UCXdRvUovEANz8EZEe67e8Sg)》20萬訂閱人數
+  - TEEPR在YouTube上也有多個專門的頻道，《[TEEPR亮影片](https://www.youtube.com/channel/UCzAOdjLlfyW19t8PtG1f7MA)》23萬訂閱人數 《[TEEPR Entertainment NEWS](https://www.youtube.com/channel/UCXdRvUovEANz8EZEe67e8Sg)》20萬訂閱人數
 
 ## 歷史
 
@@ -44,13 +40,11 @@ Internet流量統計顯示](../Page/Alexa_Internet.md "wikilink")《TEEPR亮新�
 
 <!-- end list -->
 
-  - 2015年4月1日：愚人節發表了一篇愚人節性的文章新聞導致全臺灣媒體瘋狂報導「《玩命關頭8》機密開拍並公告最新宣傳照，連超知名台灣主持人也身兼一角！」\[1\]\[2\]\[3\]\[4\]\[5\]
-    \[6\]這篇文章獲得了超過47萬次的點閱率、豬哥亮經紀人出面澄清
+  - 2015年4月1日：愚人節發表了一篇愚人節性的文章新聞導致全臺灣媒體瘋狂報導「《玩命關頭8》機密開拍並公告最新宣傳照，連超知名台灣主持人也身兼一角！」\[1\]\[2\]\[3\]\[4\]\[5\] \[6\]這篇文章獲得了超過47萬次的點閱率、豬哥亮經紀人出面澄清
 
 <!-- end list -->
 
-  - 2015年11月：《TEEPR亮新聞》的Alexa Internet
-    流量統計排名達到全球299名、臺灣第8名、香港第8名、馬來西亞第5名。
+  - 2015年11月：《TEEPR亮新聞》的Alexa Internet 流量統計排名達到全球299名、臺灣第8名、香港第8名、馬來西亞第5名。
 
 <!-- end list -->
 
@@ -78,12 +72,9 @@ Internet流量統計顯示](../Page/Alexa_Internet.md "wikilink")《TEEPR亮新�
 
 <!-- end list -->
 
-  - ETtoday新聞雲TEEPR趣味影片
-    <https://www.ettoday.net/news/tag/TEEPR%E8%B6%A3%E5%91%B3%E5%BD%B1%E7%89%87/>
-  - 銘報即時新聞 【內容農場現象】真正的農場充滿無根據文章
-    <https://news.cts.com.tw/mol/campus/201503/201503261617963.html#.XIeWDIj7Q2w>
-  - 中時電子報
-    <https://www.chinatimes.com/realtimenews/20140426001995-260408>
+  - ETtoday新聞雲TEEPR趣味影片 <https://www.ettoday.net/news/tag/TEEPR%E8%B6%A3%E5%91%B3%E5%BD%B1%E7%89%87/>
+  - 銘報即時新聞 【內容農場現象】真正的農場充滿無根據文章 <https://news.cts.com.tw/mol/campus/201503/201503261617963.html#.XIeWDIj7Q2w>
+  - 中時電子報 <https://www.chinatimes.com/realtimenews/20140426001995-260408>
 
 ## 資料來源
 
@@ -94,9 +85,8 @@ Internet流量統計顯示](../Page/Alexa_Internet.md "wikilink")《TEEPR亮新�
   - TEEPR亮新聞
   - TEEPR亮新聞的Facebook專頁
   - TEEPR亮新聞的Instagram帳戶
-  - [YouTube上的](../Page/YouTube.md "wikilink")[TEEPR亮新聞頻道](https://www.youtube.com/channel/UCzAOdjLlfyW19t8PtG1f7MA)
-  - TEEPR Alexa Internet
-    2015年流量排名.http://www.teepr.net/wp-content/uploads/2019/03/Alexa-Ranking-299-TW-8th.jpg
+  - [YouTube](../Page/YouTube.md "wikilink")上的[TEEPR亮新聞頻道](https://www.youtube.com/channel/UCzAOdjLlfyW19t8PtG1f7MA)
+  - TEEPR Alexa Internet 2015年流量排名.http://www.teepr.net/wp-content/uploads/2019/03/Alexa-Ranking-299-TW-8th.jpg
 
 <!-- end list -->
 

@@ -1,8 +1,6 @@
-\-- This module implements
-[Template:Tracklist](https://zh.wikipedia.org/wiki/Template:Tracklist "wikilink")
+\-- This module implements [Template:Tracklist](https://zh.wikipedia.org/wiki/Template:Tracklist "wikilink")
 
-local yesno = require('Module:Yesno') local checkType =
-require('libraryUtil').checkType
+local yesno = require('Module:Yesno') local checkType = require('libraryUtil').checkType
 
 local SHOW_WARNINGS = false local INPUT_ERROR_CATEGORY = '输入错误的曲目表'
 
@@ -62,9 +60,7 @@ function Validation:getCategories()
 
 end
 
-\-- Validate a track length. If a track length is invalid, a warning is
-added. -- A type error is raised if the length is not of type string or
-nil. function Validation:validateLength(length)
+\-- Validate a track length. If a track length is invalid, a warning is added. -- A type error is raised if the length is not of type string or nil. function Validation:validateLength(length)
 
 `   checkType('validateLength', 1, length, 'string', true)`
 `   if length == nil then`
@@ -229,8 +225,7 @@ function Track:getLengthField()
 
 end
 
-\-- Note: called with single dot syntax function
-Track.makeSimpleCell(wikitext)
+\-- Note: called with single dot syntax function Track.makeSimpleCell(wikitext)
 
 `   return mw.html.create('td')`
 `       :css('vertical-align', 'top')`
@@ -344,8 +339,7 @@ end
 
 -----
 
-local TrackListing = {} TrackListing.__index = TrackListing
-addMixin(TrackListing, Validation)
+local TrackListing = {} TrackListing.__index = TrackListing addMixin(TrackListing, Validation)
 
 TrackListing.fields = {
 

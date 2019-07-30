@@ -62,10 +62,7 @@ GNT-0000</p></td>
 </tbody>
 </table>
 
-**00 Qan\[T\]** / **ELS-Q**\[1\]（量子型00 / ELS-Q）為日本科幻動畫作品《[劇場版 機動戰士高達00
--A wakening of the
-Trailblazer-](https://zh.wikipedia.org/wiki/劇場版_機動戰士高達00_-A_wakening_of_the_Trailblazer- "wikilink")》中登場的機動戰士（Mobile
-Suit），
+**00 Qan\[T\]** / **ELS-Q**\[1\]（量子型00 / ELS-Q）為日本科幻動畫作品《[劇場版 機動戰士高達00 -A wakening of the Trailblazer-](https://zh.wikipedia.org/wiki/劇場版_機動戰士高達00_-A_wakening_of_the_Trailblazer- "wikilink")》中登場的機動戰士（Mobile Suit），
 
 00 Raiser的後繼機。由純種變革者 剎那 · F · 塞爾所駕駛的最終機體。
 
@@ -85,8 +82,7 @@ Suit），
 
 
 
-  - GN Sword Bit，新開發的遠隔操縱6個浮遊組件，有分為A bit 、B bit 、C bit
-    不同形狀的浮遊劍，進行全方位獨立攻擊，
+  - GN Sword Bit，新開發的遠隔操縱6個浮遊組件，有分為A bit 、B bit 、C bit 不同形狀的浮遊劍，進行全方位獨立攻擊，
 
 GN Sword Bit劍身部分能生成鐳射刃，進一步加強攻擊能力，6組GN Sword Bit更可以與GN Sword V連結，
 
@@ -109,8 +105,7 @@ GN Sword Bit劍身部分能生成鐳射刃，進一步加強攻擊能力，6組G
 
 後得知ELS所生活的星球迎來了死亡，並想要找到其他生存的方法，
 
-剎那與ELS達成互相理解後，隨即進行量子跳躍星際航行前往ELS的母星故鄉，而**超大型ELS**則變成了剎那心中象徵和平的「花」
-向人類示意停止戰爭行為。
+剎那與ELS達成互相理解後，隨即進行量子跳躍星際航行前往ELS的母星故鄉，而**超大型ELS**則變成了剎那心中象徵和平的「花」 向人類示意停止戰爭行為。
 
 ## ELS-Q \[1\]
 
@@ -118,8 +113,7 @@ GN Sword Bit劍身部分能生成鐳射刃，進一步加強攻擊能力，6組G
 
 剎那自身也跟著ELS化，意味著變成了不老不死的生命體，也是名副其實的先驅者。
 
-由於和外星生命體花了很多時間交流（被認為是下落不明），剎那回到地球的時候已經是50年後的
-2364年（正好是其中一艘外宇宙航行艦「皇」\[4\]啟航的日子），
+由於和外星生命體花了很多時間交流（被認為是下落不明），剎那回到地球的時候已經是50年後的 2364年（正好是其中一艘外宇宙航行艦「皇」\[4\]啟航的日子），
 
 與瑪莉娜‧伊斯梅爾見面，各自表示互相理解後，剎那就回到宇宙中繼續旅途，相信是前往早前**Sakiburs**（前兆式）\[5\]在人類未曾到達的宙域中發現除了ELS之外的生命體的一顆行星。
 
@@ -135,8 +129,7 @@ ELS-Q的最後蹤影，就被模仿建造的非洲塔定點攝影機拍下來，
 
 雖然從外觀上沒有任何武裝配備。實質上，ELS-Q能運用自身的 **變異金屬性質** 自我修復受損部分 或 生成**小型ELS**作為武器，
 
-並擁有3種原始型態，分別有：四長條相連型、圓錐型、刀劍型，
-（如刀劍型的ELS，尾端部分能伸出手柄，以進行剎那·F·塞爾最擅長的的白刃戰）。\[6\]
+並擁有3種原始型態，分別有：四長條相連型、圓錐型、刀劍型， （如刀劍型的ELS，尾端部分能伸出手柄，以進行剎那·F·塞爾最擅長的的白刃戰）。\[6\]
 
 ## 參考資料
 
@@ -148,12 +141,8 @@ ELS-Q的最後蹤影，就被模仿建造的非洲塔定點攝影機拍下來，
 ## 外部連結
 
 1.  ELS Qan\[T\] [\[1](http://bookmarkurl.info/images/els/els-26.jpg)\]
-2.  00 Qan\[T\]
-    [\[2](https://vignette.wikia.nocookie.net/legendsofthemultiuniverse/images/d/df/Gundam_OO_Qan_-T-.jpg/revision/latest/scale-to-width-down/2000?cb=20180610015554)\]
-3.  ELS Qan\[T\]
-    [\[3](http://www.xiaot.com/data/attachment/forum/month_1104/11042100268e7755f2281ae7ec.jpg)\]
-4.  外宇宙航行艦「皇」
-    [\[4](https://vignette.wikia.nocookie.net/gundam/images/3/36/Sumeragi345.jpg/revision/latest?cb=20110129171244)\]
+2.  00 Qan\[T\] [\[2](https://vignette.wikia.nocookie.net/legendsofthemultiuniverse/images/d/df/Gundam_OO_Qan_-T-.jpg/revision/latest/scale-to-width-down/2000?cb=20180610015554)\]
+3.  ELS Qan\[T\] [\[3](http://www.xiaot.com/data/attachment/forum/month_1104/11042100268e7755f2281ae7ec.jpg)\]
+4.  外宇宙航行艦「皇」 [\[4](https://vignette.wikia.nocookie.net/gundam/images/3/36/Sumeragi345.jpg/revision/latest?cb=20110129171244)\]
 5.  Sakiburs [\[5](http://www.gundam00.net/SS/N/img/monthly.png)\]
-6.  小型ELS
-    [1](https://i.pinimg.com/originals/0c/e8/f6/0ce8f61a73e711742e08eddd2c1ff206.jpg%5B6%5D)
+6.  小型ELS [1](https://i.pinimg.com/originals/0c/e8/f6/0ce8f61a73e711742e08eddd2c1ff206.jpg%5B6%5D)

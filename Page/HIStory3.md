@@ -49,7 +49,7 @@
 
 ### 劇情大綱
 
-警民合作，共創「和諧」新社會！正義警察化身貼身保鑣，卻跌入黑道少主的甜蜜圈套。
+一場命案，兩死一傷，死了一個警察和一個黑道老大！ 背後隱藏什麼秘密？使得黑白兩道動作不斷？黑道少主唐毅設局追兇手報仇，正義刑警孟少飛追查命案真相卻在過程中逐步陷入「愛情圈套」。
 
 ### 演員列表
 
@@ -84,14 +84,14 @@
 <p><a href="../Page/卞慶華.md" title="wikilink">卞慶華</a></p></td>
 <td><center>
 <p>Jack 方亮典</p></td>
-<td><p>唐毅的得力左右手，也是唐毅的貼身保鑣，協助唐毅進行行天盟的漂白工作。真相是國際刑警科隊員臥底，個性亦正亦邪，當過傭兵的他，利益絕對是優先考量，無謂生死，只想享受當下，看盡人性的黑暗，為達目的在所不惜。 由於少飛糾纏著唐毅，因此認識被自己一騙再騙還是上當的傻子趙立安，他很好奇身為刑警的趙子，在看過這麼多現實險惡之後，居然還能抱持著人性本善的初衷？因此被他的單純吸引，為了守護這份純真，因此開始有定下來的念頭。</p></td>
+<td><p>唐毅的得力左右手，也是唐毅的貼身保鑣，協助唐毅進行行天盟的漂白工作。真相是國際刑警科隊員臥底，個性亦正亦邪，當過傭兵的他，利益絕對是優先考量，無謂生死，只想享受當下，看盡人性的黑暗，為達目的在所不惜。 由於少飛糾纏著唐毅，因此認識被自己一騙再騙還是上當的傻子趙立安，他很好奇身為刑警的趙子，在看過這麼多現實險惡之後，居然還能抱持著人性本善的初衷？因此被他的單純吸引，為了守護這份純真，因此開始有定下來的念頭。在第19集如願跟趙子交往</p></td>
 </tr>
 <tr class="odd">
 <td><center>
 <p><a href="../Page/陳廷軒_(演員).md" title="wikilink">陳廷軒</a></p></td>
 <td><center>
 <p>趙立安</p></td>
-<td><p>綽號趙子，偵三隊隊員，孟少飛的搭檔。外表無害的柴犬系男子。個性有點迷糊但天真樂觀，凡事看得開、善良過頭的老實人。功夫一般般，但擅長數位科技，跟少飛搭擋，一個用腦一個用武，合作無間。 就算身為刑警，看盡人性的黑暗面，雖會失落會受傷，但仍堅信著人性本善，每個人都有苦衷才會犯錯。有著純良性格之外，本身還是個大吃貨，被Jack的廚技深深吸引，成功圈走了他的胃也套住他的心。</p></td>
+<td><p>綽號趙子，偵三隊隊員，孟少飛的搭檔。外表無害的柴犬系男子。個性有點迷糊但天真樂觀，凡事看得開、善良過頭的老實人。功夫一般般，但擅長數位科技，跟少飛搭擋，一個用腦一個用武，合作無間。 就算身為刑警，看盡人性的黑暗面，雖會失落會受傷，但仍堅信著人性本善，每個人都有苦衷才會犯錯。有著純良性格之外，本身還是個大吃貨，被Jack的廚技深深吸引，成功圈走了他的胃也套住他的心。 在第19集跟Jack坦白心意，進而交往</p></td>
 </tr>
 <tr class="even">
 <td><center>
@@ -335,7 +335,6 @@
 <td><p><strong>演唱者</strong></p></td>
 <td><p><strong>作詞</strong></p></td>
 <td><p><strong>作曲</strong></p></td>
-<td><p><strong>備註</strong></p></td>
 </tr>
 <tr class="even">
 <td><p>主題曲</p></td>
@@ -343,14 +342,12 @@
 <td><p><a href="../Page/黃奕儒.md" title="wikilink">黃奕儒</a></p></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>片尾曲</p></td>
 <td><p>何妨</p></td>
-<td><p><a href="../Page/紀家盈.md" title="wikilink">家家Feat</a>.<a href="../Page/茄子蛋.md" title="wikilink">茄子蛋</a></p></td>
+<td><p><a href="../Page/紀家盈.md" title="wikilink">家家</a> Feat. <a href="../Page/茄子蛋.md" title="wikilink">茄子蛋</a></p></td>
 <td><p><a href="../Page/茄子蛋.md" title="wikilink">黃奇斌</a></p></td>
-<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -360,7 +357,6 @@
 <td><p>白吟洁</p></td>
 <td><p>李宏斌<br />
 吳周爍</p></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>成癮</p></td>
@@ -369,20 +365,17 @@
 方炯嘉</p></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>天使見證的愛情</p></td>
-<td><p><a href="../Page/蕭秉治.md" title="wikilink">蕭秉治Feat</a>.<a href="https://zh.wikipedia.org/wiki/劉艾立" title="wikilink">Erika</a></p></td>
+<td><p><a href="../Page/蕭秉治.md" title="wikilink">蕭秉治</a> Feat. <a href="https://zh.wikipedia.org/wiki/劉艾立" title="wikilink">Erika</a></p></td>
 <td><p><a href="../Page/蕭秉治.md" title="wikilink">蕭秉治</a></p></td>
-<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>我好想好想你</p></td>
 <td><p><a href="../Page/蕭秉治.md" title="wikilink">蕭秉治</a></p></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -393,12 +386,10 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>怎麼開始的</p></td>
 <td><p><a href="../Page/HUSH_(歌手).md" title="wikilink">HUSH</a></p></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -419,8 +410,6 @@
 ## 那一天
 
 ### 劇情大綱
-
-等待愛人歸來，盼望再一次的『奇蹟』 一份料理，讓兩人逐漸拾起多年前的記憶。
 
 ### 演員列表
 
@@ -518,12 +507,6 @@
 <td><center></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><center>
-<p>彭紫莛</p></td>
-<td><center></td>
-<td></td>
-</tr>
 </tbody>
 </table>
 
@@ -552,9 +535,16 @@
   - 2018年11月7日《圈套》開鏡。
   - 2019年1月25日《圈套》殺青。
   - 2019年4月11日《圈套》記者會。
+  - 2019年4月11日《圈套》試映會。
   - 2019年4月16日《圈套》開播。
   - 2019年5月16日《那一天》開鏡。
   - 2019年6月12日《圈套》完結篇。
+  - 2019年6月29日《圈套》臺北場見面會。
+  - 2019年6月29日《那一天》殺青。
+  - 2019年7月14日《圈套》成都場見面會。
+  - 2019年7月21日《圈套》杭州場見面會。
+  - 2019年8月18日《圈套》臺中場見面會。
+  - 2019年8月24日《圈套》首爾場見面會。
 
 ## 參考資料
 
@@ -563,18 +553,7 @@
   -
   -
   -
-[Category:台灣偶像劇](https://zh.wikipedia.org/wiki/Category:台灣偶像劇 "wikilink")
-[Category:台灣網路劇](https://zh.wikipedia.org/wiki/Category:台灣網路劇 "wikilink")
-[Category:台灣校園劇](https://zh.wikipedia.org/wiki/Category:台灣校園劇 "wikilink")
-[Category:2019年台灣電視劇集](https://zh.wikipedia.org/wiki/Category:2019年台灣電視劇集 "wikilink")
-[Category:單元劇](https://zh.wikipedia.org/wiki/Category:單元劇 "wikilink")
-[Category:警察主角題材電視劇](https://zh.wikipedia.org/wiki/Category:警察主角題材電視劇 "wikilink")
-[Category:黑幫題材電視劇](https://zh.wikipedia.org/wiki/Category:黑幫題材電視劇 "wikilink")
-[Category:犯罪電視劇](https://zh.wikipedia.org/wiki/Category:犯罪電視劇 "wikilink")
-[Category:台灣犯罪劇](https://zh.wikipedia.org/wiki/Category:台灣犯罪劇 "wikilink")
-[Category:料理電視劇](https://zh.wikipedia.org/wiki/Category:料理電視劇 "wikilink")
-[Category:男同性戀相關電視節目](https://zh.wikipedia.org/wiki/Category:男同性戀相關電視節目 "wikilink")
-[Category:台灣LGBT相關電視節目](https://zh.wikipedia.org/wiki/Category:台灣LGBT相關電視節目 "wikilink")
+[Category:台灣偶像劇](https://zh.wikipedia.org/wiki/Category:台灣偶像劇 "wikilink") [Category:台灣網路劇](https://zh.wikipedia.org/wiki/Category:台灣網路劇 "wikilink") [Category:台灣校園劇](https://zh.wikipedia.org/wiki/Category:台灣校園劇 "wikilink") [Category:2019年台灣電視劇集](https://zh.wikipedia.org/wiki/Category:2019年台灣電視劇集 "wikilink") [Category:單元劇](https://zh.wikipedia.org/wiki/Category:單元劇 "wikilink") [Category:警察主角題材電視劇](https://zh.wikipedia.org/wiki/Category:警察主角題材電視劇 "wikilink") [Category:黑幫題材電視劇](https://zh.wikipedia.org/wiki/Category:黑幫題材電視劇 "wikilink") [Category:犯罪電視劇](https://zh.wikipedia.org/wiki/Category:犯罪電視劇 "wikilink") [Category:台灣犯罪劇](https://zh.wikipedia.org/wiki/Category:台灣犯罪劇 "wikilink") [Category:料理電視劇](https://zh.wikipedia.org/wiki/Category:料理電視劇 "wikilink") [Category:男同性戀相關電視節目](https://zh.wikipedia.org/wiki/Category:男同性戀相關電視節目 "wikilink") [Category:台灣LGBT相關電視節目](https://zh.wikipedia.org/wiki/Category:台灣LGBT相關電視節目 "wikilink")
 
 1.  [BL台劇《越界》明年開拍電影版！　原班人馬全到齊](https://star.ettoday.net/news/1237876)，ETNEWS星光雲，2018年08月17日
 2.  [科技》HIStory主題店開賣「H卡」，為電影版募資](http://www.chinatimes.com/realtimenews/20180817002946-260410)，中時電子報，2018年08月17日

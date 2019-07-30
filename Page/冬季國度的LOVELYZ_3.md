@@ -1,31 +1,22 @@
-**冬季国度的LOVELYZ 3**（又称：冬日之国的LOVELYZ
-3）（）（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[Lovelyz於](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")2019年舉辦的第一次單獨巡迴演唱會。
+**冬季国度的LOVELYZ 3**（又称：冬日之国的LOVELYZ 3）（）（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[Lovelyz於](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")2019年舉辦的第一次單獨巡迴演唱會。
 
 ## 概述
 
 [Woollim娱乐于](https://zh.wikipedia.org/wiki/Woollim娱乐 "wikilink")2019年1月宣布举办Lovelyz的第四次单独演唱会。1月14日，官方在推特上公开第一波画报\[1\]。同日，在官咖中公布座位布局和详细页面指南\[2\]。1月21日，官方在推特上公开第二波画报\[3\]。同日，在官咖中公布官方周边商品線上預約購買指南\[4\]。1月24日，官方在Vlive专业上释出预览视频\[5\]。2月12日，官方释出预告视频\[6\]。
 
-2月18日，[Woollim娱乐宣布Lovelyz即将于](https://zh.wikipedia.org/wiki/Woollim娱乐 "wikilink")3月在亚洲举行巡回演唱会\[7\]。演唱会以[首尔为首站成功拉开序幕](https://zh.wikipedia.org/wiki/首尔 "wikilink")，接下来将会在[新加坡](../Page/新加坡.md "wikilink")、[台湾和](https://zh.wikipedia.org/wiki/台湾 "wikilink")[香港举行](../Page/香港.md "wikilink")，而这也是Lovelyz的第一次单独巡回演唱会\[8\]\[9\]。2月22日，官方释出Melon演唱会简报和幕后拍摄花絮照\[10\]\[11\]。演唱会于3月17日新加坡站、3月24日香港站和3月31日台北站结束后圆满画上句点\[12\]。4月4日，成员们通过官方微博发帖并写下感言，向新加坡、香港、台北和全球的Lovelinus们致谢\[13\]\[14\]。
+2月18日，[Woollim娱乐宣布Lovelyz即将于](https://zh.wikipedia.org/wiki/Woollim娱乐 "wikilink")3月在亚洲举行巡回演唱会\[7\]。演唱会以[首尔为首站成功拉开序幕](https://zh.wikipedia.org/wiki/首尔 "wikilink")，接下来将会在[新加坡](../Page/新加坡.md "wikilink")、[台湾和](https://zh.wikipedia.org/wiki/台湾 "wikilink")[香港](../Page/香港.md "wikilink")举行，而这也是Lovelyz的第一次单独巡回演唱会\[8\]\[9\]。2月22日，官方释出Melon演唱会简报和幕后拍摄花絮照\[10\]\[11\]。演唱会于3月17日新加坡站、3月24日香港站和3月31日台北站结束后圆满画上句点\[12\]。4月4日，成员们通过官方微博发帖并写下感言，向新加坡、香港、台北和全球的Lovelinus们致谢\[13\]\[14\]。
 
 ## 簡介
 
 ## 巡演事件
 
-首尔场：定于2月14日至17日于首尔延世大学大讲堂举行《LOVELYZ CONCERT – 겨울나라의
-러블리즈3》\[15\]。演唱会门票分1月14日的FanClub预售（有加入其粉丝俱乐部的会员可优先购买门票）和1月16日的一般门票销售，共分2次进行贩售。1月14日和17日，[Woollim娱乐表示](https://zh.wikipedia.org/wiki/Woollim娱乐 "wikilink")：演唱会门票FanClub预售及一般门票均在开卖后1分钟内售罄\[16\]\[17\]。2月18日，[Woollim娱乐宣布Lovelyz首尔演唱会完美落幕](https://zh.wikipedia.org/wiki/Woollim娱乐 "wikilink")\[18\]\[19\]\[20\]\[21\]\[22\]。
+首尔场：定于2月14日至17日于首尔延世大学大讲堂举行《LOVELYZ CONCERT – 겨울나라의 러블리즈3》\[15\]。演唱会门票分1月14日的FanClub预售（有加入其粉丝俱乐部的会员可优先购买门票）和1月16日的一般门票销售，共分2次进行贩售。1月14日和17日，[Woollim娱乐表示](https://zh.wikipedia.org/wiki/Woollim娱乐 "wikilink")：演唱会门票FanClub预售及一般门票均在开卖后1分钟内售罄\[16\]\[17\]。2月18日，[Woollim娱乐宣布Lovelyz首尔演唱会完美落幕](https://zh.wikipedia.org/wiki/Woollim娱乐 "wikilink")\[18\]\[19\]\[20\]\[21\]\[22\]。
 
-新加坡场：定于3月17日于Zepp@BIGBOX举行《LOVELYZ CONCERT IN SINGAPORE – LOVELYZ 3 OF
-WINTER
-WORLD》\[23\]。演唱会门票于2月23日全面进行贩售。3月18日，[Woollim娱乐宣布Lovelyz新加坡演唱会完美落幕](https://zh.wikipedia.org/wiki/Woollim娱乐 "wikilink")\[24\]\[25\]\[26\]\[27\]。主办单位策划了许多惊喜活动，而[Kei在成员们和粉丝们的陪同下提前庆祝](../Page/Kei.md "wikilink")25岁生日\[28\]\[29\]\[30\]\[31\]。附上新加坡演唱会相关采访\[32\]和现场拍摄照\[33\]\[34\]\[35\]\[36\]\[37\]\[38\]。
+新加坡场：定于3月17日于Zepp@BIGBOX举行《LOVELYZ CONCERT IN SINGAPORE – LOVELYZ 3 OF WINTER WORLD》\[23\]。演唱会门票于2月23日全面进行贩售。3月18日，[Woollim娱乐宣布Lovelyz新加坡演唱会完美落幕](https://zh.wikipedia.org/wiki/Woollim娱乐 "wikilink")\[24\]\[25\]\[26\]\[27\]。主办单位策划了许多惊喜活动，而[Kei](../Page/Kei.md "wikilink")在成员们和粉丝们的陪同下提前庆祝25岁生日\[28\]\[29\]\[30\]\[31\]。附上新加坡演唱会相关采访\[32\]和现场拍摄照\[33\]\[34\]\[35\]\[36\]\[37\]\[38\]。
 
-香港场：定于3月23日于皇室堡地下中庭举行《皇室堡 x LOVELYZ 2019 CONCERT IN HONG KONG – LOVELYZ
-3 OF WINTER WORLD》記者會\[39\]。定于3月24日于亚洲国际博览馆 RUNWAY 11举行《LOVELYZ CONCERT
-IN HONG KONG – LOVELYZ 3 OF WINTER
-WORLD》\[40\]。演唱会门票于2月28日全面进行贩售。3月25日，[Woollim娱乐宣布Lovelyz香港演唱会完美落幕](https://zh.wikipedia.org/wiki/Woollim娱乐 "wikilink")\[41\]\[42\]\[43\]\[44\]。附上香港记者会相关采访\[45\]\[46\]\[47\]\[48\]\[49\]\[50\]和演唱会现场拍摄照\[51\]\[52\]\[53\]。
+香港场：定于3月23日于皇室堡地下中庭举行《皇室堡 x LOVELYZ 2019 CONCERT IN HONG KONG – LOVELYZ 3 OF WINTER WORLD》記者會\[39\]。定于3月24日于亚洲国际博览馆 RUNWAY 11举行《LOVELYZ CONCERT IN HONG KONG – LOVELYZ 3 OF WINTER WORLD》\[40\]。演唱会门票于2月28日全面进行贩售。3月25日，[Woollim娱乐宣布Lovelyz香港演唱会完美落幕](https://zh.wikipedia.org/wiki/Woollim娱乐 "wikilink")\[41\]\[42\]\[43\]\[44\]。附上香港记者会相关采访\[45\]\[46\]\[47\]\[48\]\[49\]\[50\]和演唱会现场拍摄照\[51\]\[52\]\[53\]。
 
-台湾场：定于3月31日于TICC台北国际会议中心举行《LOVELYZ CONCERT IN TAIPEI – LOVELYZ 3 OF
-WINTER
-WORLD》\[54\]。演唱会门票于3月2日全面进行贩售。4月1日，[Woollim娱乐宣布Lovelyz台湾演唱会完美落幕](https://zh.wikipedia.org/wiki/Woollim娱乐 "wikilink")\[55\]\[56\]\[57\]\[58\]。附上台湾自由活动报道\[59\]\[60\]、演唱会新闻报道\[61\]\[62\]\[63\]、相关采访\[64\]\[65\]\[66\]\[67\]和现场拍摄照\[68\]\[69\]。
+台湾场：定于3月31日于TICC台北国际会议中心举行《LOVELYZ CONCERT IN TAIPEI – LOVELYZ 3 OF WINTER WORLD》\[54\]。演唱会门票于3月2日全面进行贩售。4月1日，[Woollim娱乐宣布Lovelyz台湾演唱会完美落幕](https://zh.wikipedia.org/wiki/Woollim娱乐 "wikilink")\[55\]\[56\]\[57\]\[58\]。附上台湾自由活动报道\[59\]\[60\]、演唱会新闻报道\[61\]\[62\]\[63\]、相关采访\[64\]\[65\]\[66\]\[67\]和现场拍摄照\[68\]\[69\]。
 
 ## 巡迴時間表
 
@@ -149,8 +140,7 @@ WORLD》\[54\]。演唱会门票于3月2日全面进行贩售。4月1日，[Wool
 
 <!-- end list -->
 
-  - [Lovelyz](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")（[Baby
-    Soul](https://zh.wikipedia.org/wiki/Baby_Soul "wikilink")、[智愛](../Page/劉智愛.md "wikilink")、[智秀](../Page/徐智秀.md "wikilink")、[美珠](../Page/李美珠.md "wikilink")、[Kei](../Page/Kei.md "wikilink")、[JIN](../Page/Jin_\(Lovelyz\).md "wikilink")、[洙正](https://zh.wikipedia.org/wiki/洙正 "wikilink")、[叡仁](../Page/鄭叡仁.md "wikilink")）
+  - [Lovelyz](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")（[Baby Soul](https://zh.wikipedia.org/wiki/Baby_Soul "wikilink")、[智愛](../Page/劉智愛.md "wikilink")、[智秀](../Page/徐智秀.md "wikilink")、[美珠](../Page/李美珠.md "wikilink")、[Kei](../Page/Kei.md "wikilink")、[JIN](../Page/Jin_\(Lovelyz\).md "wikilink")、[洙正](https://zh.wikipedia.org/wiki/洙正 "wikilink")、[叡仁](../Page/鄭叡仁.md "wikilink")）
 
 <!-- end list -->
 
@@ -158,8 +148,7 @@ WORLD》\[54\]。演唱会门票于3月2日全面进行贩售。4月1日，[Wool
 
 <!-- end list -->
 
-  - [Woollim
-    Entertainment](https://zh.wikipedia.org/wiki/Woollim_Entertainment "wikilink")
+  - [Woollim Entertainment](https://zh.wikipedia.org/wiki/Woollim_Entertainment "wikilink")
 
 <!-- end list -->
 
@@ -174,9 +163,7 @@ WORLD》\[54\]。演唱会门票于3月2日全面进行贩售。4月1日，[Wool
 
 ## 參考資料
 
-[Category:Lovelyz](https://zh.wikipedia.org/wiki/Category:Lovelyz "wikilink")
-[Category:演唱會](https://zh.wikipedia.org/wiki/Category:演唱會 "wikilink")
-[Category:巡迴音樂會](https://zh.wikipedia.org/wiki/Category:巡迴音樂會 "wikilink")
+[Category:Lovelyz](https://zh.wikipedia.org/wiki/Category:Lovelyz "wikilink") [Category:演唱會](https://zh.wikipedia.org/wiki/Category:演唱會 "wikilink") [Category:巡迴音樂會](https://zh.wikipedia.org/wiki/Category:巡迴音樂會 "wikilink")
 
 1.
 2.

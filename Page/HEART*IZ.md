@@ -1,18 +1,16 @@
-《**HEART\*IZ**》是[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[IZ\*ONE第二張韩语迷你專輯](../Page/IZ*ONE.md "wikilink")，由Off
-The Record娛樂製作，發行，於2019年4月1日推出，主打歌曲為《Violeta》。
+《**HEART\*IZ**》是[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[IZ\*ONE](../Page/IZ*ONE.md "wikilink")第二張韩语迷你專輯，由Off The Record娛樂製作，發行，於2019年4月1日推出，主打歌曲為《Violeta》。
 
 ## 背景
 
-2019年2月25日，[韓國日報報導](https://zh.wikipedia.org/wiki/韓國日報 "wikilink")[IZ\*ONE將於](../Page/IZ*ONE.md "wikilink")2019年4月回歸\[1\]。之後官方也正式發布IZ\*ONE將於4月1日發行第二張迷你專輯《HEART\*IZ》\[2\]。從3月23日開始，陸續釋出新專輯的預告影片\[3\]、團體成員的概念照與專輯的試聽\[4\]\[5\]\[6\]。
+2019年2月25日，[韓國日報報導](https://zh.wikipedia.org/wiki/韓國日報 "wikilink")[IZ\*ONE](../Page/IZ*ONE.md "wikilink")將於2019年4月回歸\[1\]。之後官方也正式發布IZ\*ONE將於4月1日發行第二張迷你專輯《HEART\*IZ》\[2\]。從3月23日開始，陸續釋出新專輯的預告影片\[3\]、團體成員的概念照與專輯的試聽\[4\]\[5\]\[6\]。
 
-4月1日，韓國時間下午6時，公開以《Violeta》为主打的第二張迷你專輯《HEART\*IZ》全輯音源，並於同日舉行回歸Showcase\[7\]。除了舉行Showcase來宣傳本次的新專輯，還與[Mnet推出專屬節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")「HEART
-TO」\[8\]。
+4月1日，韓國時間下午6時，公開以《Violeta》为主打的第二張迷你專輯《HEART\*IZ》全輯音源，並於同日舉行回歸Showcase\[7\]。除了舉行Showcase來宣傳本次的新專輯，還與[Mnet推出專屬節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")「HEART TO」\[8\]。
 
 ## 製作
 
 本专辑與上一張專輯《[COLOR\*IZ](../Page/COLOR*IZ.md "wikilink")》一樣，由韓成洙擔任製作人\[9\]。專輯名稱《HEART\*IZ》由英文的「Heart（心）」與「IZ\*ONE（成員）」組合而成，代表著IZ\*ONE想透過專輯來傳遞心意。主打歌〈Violeta〉的概念取自童話《[快樂王子](https://zh.wikipedia.org/wiki/快樂王子 "wikilink")》，並帶有「希望大家能因為IZ\*ONE而了解自己是珍貴存在」的寓意在裡面\[10\]\[11\]，歌曲的創作包含了回報粉絲的支持與愛護\[12\]。
 
-專輯共收錄了8首歌曲，其中歌曲〈想变成一只猫〉和〈好心情莎哟娜啦〉曾收錄於日本出道单曲《[想要你說喜歡我](../Page/想要你說喜歡我.md "wikilink")》\[13\]，由於韓國粉絲的反應熱烈，因此專輯才收錄這兩首歌，而成員[金玟周與](../Page/金玟周.md "wikilink")[李彩演參與韓文歌詞的創作](../Page/李彩演.md "wikilink")\[14\]；〈Airplane〉則為系列节目前辈[李大輝贈送的自作曲](../Page/李大輝.md "wikilink")\[15\]\[16\]，歌曲象徵成員們將會活躍在寬廣如天空的舞台上\[17\]。
+專輯共收錄了8首歌曲，其中歌曲〈想变成一只猫〉和〈好心情莎哟娜啦〉曾收錄於日本出道单曲《[想要你說喜歡我](../Page/想要你說喜歡我.md "wikilink")》\[13\]，由於韓國粉絲的反應熱烈，因此專輯才收錄這兩首歌，而成員[金玟周](../Page/金玟周.md "wikilink")與[李彩演](../Page/李彩演.md "wikilink")參與韓文歌詞的創作\[14\]；〈Airplane〉則為系列节目前辈[李大輝](../Page/李大輝.md "wikilink")贈送的自作曲\[15\]\[16\]，歌曲象徵成員們將會活躍在寬廣如天空的舞台上\[17\]。
 
 ## 成績
 
@@ -20,8 +18,7 @@ TO」\[8\]。
 
 ### 銷售
 
-在專輯正式販售前，[Off The
-Record娛樂透露截止至](https://zh.wikipedia.org/wiki/Off_The_Record娛樂 "wikilink")2019年3月28日，透過線上預售的迷你二輯《HEART\*IZ》數量突破了20萬張\[27\]。除了在韓國的Yes24銷量榜上拿下第2名\[28\]，也獲得日本[淘兒唱片線上預購綜合榜單的第](../Page/淘兒唱片.md "wikilink")1名\[29\]。
+在專輯正式販售前，[Off The Record娛樂透露截止至](https://zh.wikipedia.org/wiki/Off_The_Record娛樂 "wikilink")2019年3月28日，透過線上預售的迷你二輯《HEART\*IZ》數量突破了20萬張\[27\]。除了在韓國的Yes24銷量榜上拿下第2名\[28\]，也獲得日本[淘兒唱片](../Page/淘兒唱片.md "wikilink")線上預購綜合榜單的第1名\[29\]。
 
 專輯在韓國Hanteo統計的首周銷量為132,109張，打破了先前[TWICE的紀錄成為第一個首周銷量超過](https://zh.wikipedia.org/wiki/TWICE "wikilink")13萬張的女子團體\[30\]\[31\]。為韓國[Gaon](../Page/Gaon音乐榜.md "wikilink")[第14週專輯銷售冠軍](../Page/2019年Gaon專輯冠軍作品列表.md "wikilink")\[32\]。而在日本，專輯首周售出14,667張\[33\]。
 
@@ -58,7 +55,7 @@ Record娛樂透露截止至](https://zh.wikipedia.org/wiki/Off_The_Record娛樂 
 
 | 〈Violeta〉音源成績（2019年）                                        | 峰值       |
 | ----------------------------------------------------------- | -------- |
-| 韓國[Melon週榜](../Page/Melon.md "wikilink")                    | 22\[34\] |
+| 韓國[Melon](../Page/Melon.md "wikilink")週榜                    | 22\[34\] |
 | 韓國[Mnet週榜](https://zh.wikipedia.org/wiki/Mnet "wikilink")   | 5\[35\]  |
 | 韓國Bugs週榜                                                    | 6\[36\]  |
 | 韓國Soribada週榜                                                | 9\[37\]  |
@@ -171,10 +168,7 @@ Record娛樂透露截止至](https://zh.wikipedia.org/wiki/Off_The_Record娛樂 
 
 ## 外部連結
 
-[Category:2019年音樂專輯](https://zh.wikipedia.org/wiki/Category:2019年音樂專輯 "wikilink")
-[Category:IZ\*ONE](https://zh.wikipedia.org/wiki/Category:IZ*ONE "wikilink")
-[Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink")
-[Category:2019年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2019年Gaon專輯週榜冠軍作品 "wikilink")
+[Category:2019年音樂專輯](https://zh.wikipedia.org/wiki/Category:2019年音樂專輯 "wikilink") [Category:IZ\*ONE](https://zh.wikipedia.org/wiki/Category:IZ*ONE "wikilink") [Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink") [Category:2019年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2019年Gaon專輯週榜冠軍作品 "wikilink")
 
 1.
 2.

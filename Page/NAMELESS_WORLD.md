@@ -1,13 +1,10 @@
-《**NAMELESS
-WORLD**》，是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[可苦可樂的第](../Page/可苦可樂.md "wikilink")5張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。
-2005年12月21日發行。
+《**NAMELESS WORLD**》，是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[可苦可樂](../Page/可苦可樂.md "wikilink")的第5張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。 2005年12月21日發行。
 
 ## 簡介
 
 前作《[MUSIC MAN SHIP](../Page/MUSIC_MAN_SHIP.md "wikilink")》約1年零1個月之後發行。
 
-收錄了《[只在這裡盛開的花](../Page/只在這裡盛開的花.md "wikilink")》和《[櫻花](../Page/櫻花_\(可苦可樂單曲\).md "wikilink")》兩首[單曲和高中足球的應援歌](https://zh.wikipedia.org/wiki/單曲 "wikilink")《[Starting
-Line](../Page/櫻花_\(可苦可樂單曲\).md "wikilink")》。B面曲中只有《[與未來相繫](../Page/櫻花_\(可苦可樂單曲\).md "wikilink")》（）未收錄。另外重新錄製了《六等星》。
+收錄了《[只在這裡盛開的花](../Page/只在這裡盛開的花.md "wikilink")》和《[櫻花](../Page/櫻花_\(可苦可樂單曲\).md "wikilink")》兩首[單曲和高中足球的應援歌](https://zh.wikipedia.org/wiki/單曲 "wikilink")《[Starting Line](../Page/櫻花_\(可苦可樂單曲\).md "wikilink")》。B面曲中只有《[與未來相繫](../Page/櫻花_\(可苦可樂單曲\).md "wikilink")》（）未收錄。另外重新錄製了《六等星》。
 
 專輯發售前邀請了著名女演員天海祐希和男演員速水直道作為電視廣告宣傳主角。分初回限定盤和通常盤兩個版本，初回盤附送DVD。
 
@@ -47,8 +44,7 @@ Line](../Page/櫻花_\(可苦可樂單曲\).md "wikilink")》。B面曲中只有
 
   - [NAMELESS WORLD](https://wmg.jp/kobukuro/discography/2921/)
 
-[Category:可苦可樂音樂專輯](https://zh.wikipedia.org/wiki/Category:可苦可樂音樂專輯 "wikilink")
-[Category:2005年音樂專輯](https://zh.wikipedia.org/wiki/Category:2005年音樂專輯 "wikilink")
+[Category:可苦可樂音樂專輯](https://zh.wikipedia.org/wiki/Category:可苦可樂音樂專輯 "wikilink") [Category:2005年音樂專輯](https://zh.wikipedia.org/wiki/Category:2005年音樂專輯 "wikilink")
 
 1.
 2.

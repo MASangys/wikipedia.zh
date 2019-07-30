@@ -1,12 +1,10 @@
-**Samsung Galaxy
-J5**是由[三星電子製造的一款](../Page/三星電子.md "wikilink")[Android](../Page/Android.md "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，在2015年發布。
+**Samsung Galaxy J5**是由[三星電子](../Page/三星電子.md "wikilink")製造的一款[Android](../Page/Android.md "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，在2015年發布。
 
 ## 技術規格
 
   - 後置攝像頭：1300萬像素
   - 前置攝像頭：500萬像素
-  - 內存：1.5[GB](https://zh.wikipedia.org/wiki/GB "wikilink")
-    [RAM](https://zh.wikipedia.org/wiki/RAM "wikilink")
+  - 內存：1.5[GB](https://zh.wikipedia.org/wiki/GB "wikilink") [RAM](https://zh.wikipedia.org/wiki/RAM "wikilink")
   - 存儲：16 GB
   - 電池：3000 mAh
   - 尺寸：5.5寸

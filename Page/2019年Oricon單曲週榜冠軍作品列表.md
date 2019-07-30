@@ -1,4 +1,4 @@
-**2019年Oricon單曲週榜冠軍作品列表**列出2019年度曾經登上[Oricon公信榜單曲週榜冠軍的](../Page/Oricon公信榜.md "wikilink")[單曲作品及其資料](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
+**2019年Oricon單曲週榜冠軍作品列表**列出2019年度曾經登上[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")單曲週榜冠軍的[單曲作品及其資料](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 ## 冠軍單曲列表
 
@@ -203,6 +203,27 @@
 <td><p>21.6</p></td>
 <td><p>1</p></td>
 </tr>
+<tr class="even">
+<td><p>7月15日</p></td>
+<td></td>
+<td><p><a href="../Page/防彈少年團.md" title="wikilink">防彈少年團</a></p></td>
+<td><p>62.0</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="odd">
+<td><p>7月22日</p></td>
+<td></td>
+<td><p>Kis-My-Ft2</p></td>
+<td><p>19.6</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="even">
+<td><p>7月29日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Do_Re_Mi_Sol_La_Si_Do" title="wikilink">Do Re Mi Sol La Si Do</a></p></td>
+<td><p>日向坂46</p></td>
+<td><p>44.8</p></td>
+<td><p>1</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -212,6 +233,4 @@
 
 ## 參考資料
 
-[Category:2019年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2019年Oricon單曲週榜冠軍作品 "wikilink")
-[Category:每年Oricon單曲週榜冠軍作品列表](https://zh.wikipedia.org/wiki/Category:每年Oricon單曲週榜冠軍作品列表 "wikilink")
-[Category:2019年音樂排行榜](https://zh.wikipedia.org/wiki/Category:2019年音樂排行榜 "wikilink")
+[Category:2019年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2019年Oricon單曲週榜冠軍作品 "wikilink") [Category:每年Oricon單曲週榜冠軍作品列表](https://zh.wikipedia.org/wiki/Category:每年Oricon單曲週榜冠軍作品列表 "wikilink") [Category:2019年音樂排行榜](https://zh.wikipedia.org/wiki/Category:2019年音樂排行榜 "wikilink")

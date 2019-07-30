@@ -145,8 +145,7 @@
 
 ## 參見
 
-  - [結合附加符號
-    (Unicode區段)](https://zh.wikipedia.org/wiki/結合附加符號 "wikilink")
+  - [結合附加符號 (Unicode區段)](https://zh.wikipedia.org/wiki/結合附加符號 "wikilink")
   - [組合字符](../Page/組合字符.md "wikilink")
   - [Unicode中的西里爾字母](../Page/Unicode中的西里爾字母.md "wikilink")
 

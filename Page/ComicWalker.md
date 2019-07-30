@@ -12,8 +12,7 @@ ComicWalker中的服務，包含閱讀漫畫之所有功能，均可免費使用
 
 有設定「刊登期限」之漫畫，會於集數一覽處標示刊登截止日期。未顯示之作品亦可能會因各種狀況而未經預告即終止刊登\[3\]。
 
-ComicWalker主要刊登KADOKAWA系漫畫雜誌上連載的作品，但是也有像[CROSSANGE
-天使與龍的輪舞](../Page/CROSSANGE_天使與龍的輪舞.md "wikilink")、[百無禁忌！女高中生私房話](../Page/百無禁忌！女高中生私房話.md "wikilink")等只在ComicWalker上連載的作品。
+ComicWalker主要刊登KADOKAWA系漫畫雜誌上連載的作品，但是也有像[CROSSANGE 天使與龍的輪舞](../Page/CROSSANGE_天使與龍的輪舞.md "wikilink")、[百無禁忌！女高中生私房話](../Page/百無禁忌！女高中生私房話.md "wikilink")等只在ComicWalker上連載的作品。
 
 主編是以擔任[Keroro軍曹](../Page/Keroro軍曹.md "wikilink")等作品的責任編輯而聞名的渡邊啓之，負責核心內容的製作人與編輯是由和首藤和仁負責。
 
@@ -25,8 +24,7 @@ ComicWalker主要刊登KADOKAWA系漫畫雜誌上連載的作品，但是也有�
 
   -
   -
-[Category:角川集團](https://zh.wikipedia.org/wiki/Category:角川集團 "wikilink")
-[Category:網路漫畫網站](https://zh.wikipedia.org/wiki/Category:網路漫畫網站 "wikilink")
+[Category:角川集團](https://zh.wikipedia.org/wiki/Category:角川集團 "wikilink") [Category:網路漫畫網站](https://zh.wikipedia.org/wiki/Category:網路漫畫網站 "wikilink")
 
 1.
 

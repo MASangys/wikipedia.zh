@@ -1,7 +1,6 @@
-**<big><big>李昭樺</big></big>**（**Lee
-Chao-Hua**，1975年12月7日－）兔將創意影業創辦人暨CEO，電影監製，視覺特效總監，3D立體電影總監，動畫視效總監。畢業於南加大電機工程碩士及劍橋大學資訊工程博士，於2011創立[兔將影業](../Page/兔將創意影業.md "wikilink")，致力於研發公司動畫特效技術、獨家3D製作技術，所帶領研發的圖學技術與世界首創雲端製作系統被廣泛應用在電影及動畫製作。\[1\]\[2\]
+**<big><big>李昭樺</big></big>**（**Lee Chao-Hua**，1975年12月7日－）兔將創意影業創辦人暨CEO，電影監製，視覺特效總監，3D立體電影總監，動畫視效總監。畢業於南加大電機工程碩士及劍橋大學資訊工程博士，於2011創立[兔將影業](../Page/兔將創意影業.md "wikilink")，致力於研發公司動畫特效技術、獨家3D製作技術，所帶領研發的圖學技術與世界首創雲端製作系統被廣泛應用在電影及動畫製作。\[1\]\[2\]
 
-曾擔任多部電影特效總監及3D立體視覺總監，包括《[十二生肖](https://movie.douban.com/subject/4212172/)》丶《[風暴](https://movie.douban.com/subject/20388198/)》丶《[五月天諾亞方舟](https://zh.wikipedia.org/wiki/五月天諾亞方舟 "wikilink")》丶《[天將雄師](https://zh.wikipedia.org/wiki/天將雄師 "wikilink")》丶《[捉妖記](https://zh.wikipedia.org/wiki/捉妖記 "wikilink")》丶《[黃飛鴻之英雄有夢](https://zh.wikipedia.org/wiki/黃飛鴻之英雄有夢 "wikilink")》丶《[功夫瑜伽](https://zh.wikipedia.org/wiki/功夫瑜伽 "wikilink")》等。2017年帶領兔將完成第一部好萊塢電影《[超凡戰隊](https://zh.wikipedia.org/wiki/金剛戰士_\(2017年電影\) "wikilink")》3D立體電影製作，並完成多部IP劇之特效製作，如劇版點擊突破五百億的《[三生三世十里桃花](https://zh.wikipedia.org/wiki/三生三世十里桃花_\(电视剧\) "wikilink")》等。2016年憑電影《[紅衣小女孩](../Page/紅衣小女孩.md "wikilink")》入圍金馬獎第53屆最佳視覺效果；\[3\]2017年憑電影《目擊者》再度入圍金馬獎第54屆最佳視覺效果；\[4\]2018年憑《[紅衣小女孩2](../Page/紅衣小女孩2.md "wikilink")》，入圍[第58屆亞太影展最佳視覺效果](../Page/第58屆亞太影展.md "wikilink")；而兔將承製視效的《[人面魚：紅衣小女孩外傳](../Page/人面魚：紅衣小女孩外傳.md "wikilink")》，於2019年獲得第21屆[台北電影獎](https://zh.wikipedia.org/wiki/台北電影獎 "wikilink")「最佳視覺效果」入圍。
+曾擔任多部電影特效總監及3D立體視覺總監，包括《[十二生肖](https://movie.douban.com/subject/4212172/)》丶《[風暴](https://movie.douban.com/subject/20388198/)》丶《[五月天諾亞方舟](https://zh.wikipedia.org/wiki/五月天諾亞方舟 "wikilink")》丶《[天將雄師](https://zh.wikipedia.org/wiki/天將雄師 "wikilink")》丶《[捉妖記](https://zh.wikipedia.org/wiki/捉妖記 "wikilink")》丶《[黃飛鴻之英雄有夢](https://zh.wikipedia.org/wiki/黃飛鴻之英雄有夢 "wikilink")》丶《[功夫瑜伽](https://zh.wikipedia.org/wiki/功夫瑜伽 "wikilink")》等。2017年帶領兔將完成第一部好萊塢電影《[超凡戰隊](https://zh.wikipedia.org/wiki/金剛戰士_\(2017年電影\) "wikilink")》3D立體電影製作，並完成多部IP劇之特效製作，如劇版點擊突破五百億的《[三生三世十里桃花](https://zh.wikipedia.org/wiki/三生三世十里桃花_\(电视剧\) "wikilink")》等。2016年憑電影《[紅衣小女孩](../Page/紅衣小女孩.md "wikilink")》入圍金馬獎第53屆最佳視覺效果；\[3\]2017年憑電影《目擊者》再度入圍金馬獎第54屆最佳視覺效果；\[4\]2018年憑《[紅衣小女孩2](../Page/紅衣小女孩2.md "wikilink")》，入圍[第58屆亞太影展](../Page/第58屆亞太影展.md "wikilink")最佳視覺效果；而兔將承製視效的《[人面魚：紅衣小女孩外傳](../Page/人面魚：紅衣小女孩外傳.md "wikilink")》，於2019年獲得第21屆[台北電影獎](https://zh.wikipedia.org/wiki/台北電影獎 "wikilink")「最佳視覺效果」入圍。
 
 ## 主要作品
 
@@ -90,23 +89,19 @@ Chao-Hua**，1975年12月7日－）兔將創意影業創辦人暨CEO，電影監
 
 \== 外部連結 ==
 
-  - 李昭樺
-    在[互聯網電影數據庫](https://zh.wikipedia.org/wiki/互聯網電影數據庫 "wikilink")（IMDb）上的資料**<small>（英文）</small>**
-  - 李昭樺在[豆瓣電影上的頁面](../Page/豆瓣.md "wikilink")**<small>（简体中文）</small>**
-  - 李昭樺在[时光网的頁面](../Page/时光网.md "wikilink")**<small>（简体中文）</small>**
+  - 李昭樺 在[互聯網電影數據庫](https://zh.wikipedia.org/wiki/互聯網電影數據庫 "wikilink")（IMDb）上的資料**<small>（英文）</small>**
+  - 李昭樺在[豆瓣](../Page/豆瓣.md "wikilink")電影上的頁面**<small>（简体中文）</small>**
+  - 李昭樺在[时光网](../Page/时光网.md "wikilink")的頁面**<small>（简体中文）</small>**
 
 ## 參考文獻
 
 1.  [財訊─華宇第二代》李昭樺兔將靠３Ｄ練兵　要當亞洲皮克斯](https://web.archive.org/web/20170912144639/http://www.wealth.com.tw/article_in.aspx?nid=6679)
-2.  [財訊─兔將讓人、妖逼真同台
-    五年拚出亞洲特效天王《捉妖記》、《紅衣小女孩》特效團隊　營收年年翻倍](https://web.archive.org/web/20170912144639/http://www.wealth.com.tw/article_in.aspx?nid=6679)
-3.  [專訪－台灣獨創3D技術
-    三人打造兩岸特效王國](https://www.gvm.com.tw/article.html?id=44454)
+2.  [財訊─兔將讓人、妖逼真同台 五年拚出亞洲特效天王《捉妖記》、《紅衣小女孩》特效團隊　營收年年翻倍](https://web.archive.org/web/20170912144639/http://www.wealth.com.tw/article_in.aspx?nid=6679)
+3.  [專訪－台灣獨創3D技術 三人打造兩岸特效王國](https://www.gvm.com.tw/article.html?id=44454)
 
 <!-- end list -->
 
-1.   台灣電影網 Taiwan
-    Cinema|accessdate=2019-05-15|last=台灣電影網|work=www.taiwancinema.com}}
+1.   台灣電影網 Taiwan Cinema|accessdate=2019-05-15|last=台灣電影網|work=www.taiwancinema.com}}
 2.   最懂投資的財經媒體|language=zh-TW}}
 3.
 4.
@@ -130,10 +125,8 @@ Chao-Hua**，1975年12月7日－）兔將創意影業創辦人暨CEO，電影監
 22.  遠見雜誌|accessdate=2019-05-17|last=遠見天下文化出版股份有限公司|work=遠見雜誌 - 前進的動力}}
 23.
 24.
-25.  台灣電影網 Taiwan
-    Cinema|accessdate=2019-05-17|last=台灣電影網|work=www.taiwancinema.com}}
-26.
-    ETtoday星光雲|accessdate=2019-05-16|last=ETtoday新聞雲|work=star.ettoday.net|language=zh-Hant}}
+25.  台灣電影網 Taiwan Cinema|accessdate=2019-05-17|last=台灣電影網|work=www.taiwancinema.com}}
+26.  ETtoday星光雲|accessdate=2019-05-16|last=ETtoday新聞雲|work=star.ettoday.net|language=zh-Hant}}
 27.
 28.
 29.

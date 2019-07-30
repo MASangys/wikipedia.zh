@@ -8,10 +8,7 @@
 
 (function() {
 
-var msg_button_label = '使用API刪除目標頁'; var msg_button_title =
-'使用API刪除目標頁'; var msg_delete_reason =
-'[G8](https://zh.wikipedia.org/wiki/WP:CSD#G8 "wikilink"): 删除以便移动'; var
-msg_delete_success = '成功刪除 '; var msg_delete_fail = '刪除時發生錯誤：';
+var msg_button_label = '使用API刪除目標頁'; var msg_button_title = '使用API刪除目標頁'; var msg_delete_reason = '[G8](https://zh.wikipedia.org/wiki/WP:CSD#G8 "wikilink"): 删除以便移动'; var msg_delete_success = '成功刪除 '; var msg_delete_fail = '刪除時發生錯誤：';
 
 if (document.getElementsByName("wpDeleteAndMove").length \< 1) {
 
@@ -44,8 +41,6 @@ var button = new OO.ui.ButtonWidget( {
 `       mw.notify(msg_delete_fail + e);`
 `   });`
 
-});
-$(document.getElementsByName('wpMove')\[0\].parentElement.parentElement).append(
-button.$element );
+}); $(document.getElementsByName('wpMove')\[0\].parentElement.parentElement).append( button.$element );
 
 })();

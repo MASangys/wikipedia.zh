@@ -1,5 +1,4 @@
-local p = {} ---------- Config data ---------- local namedColours =
-mw.loadData( 'Module:Box-header/colours' ) local modes = {
+local p = {} ---------- Config data ---------- local namedColours = mw.loadData( 'Module:Box-header/colours' ) local modes = {
 
 `   lightest = { sat=0.10, val=1.00 },`
 `   light    = { sat=0.15, val=0.95 },`
@@ -9,13 +8,9 @@ mw.loadData( 'Module:Box-header/colours' ) local modes = {
 `   content  = { sat=0.04, val=1.00 },`
 `   grey     = { sat=0.00 }`
 
-} local min_contrast_ratio_normal_text = 7 -- i.e 7:1 local
-min_contrast_ratio_large_text = 4.5 -- i.e. 4.5:1
+} local min_contrast_ratio_normal_text = 7 -- i.e 7:1 local min_contrast_ratio_large_text = 4.5 -- i.e. 4.5:1
 
-\-- Template parameter aliases -- Specify each as either a single value,
-or a table of values -- Aliases are checked left-to-right, i.e.
-\`\['one'\] = { 'two', 'three' }\` is equivalent to using \` }}} }}}\`
-in a template local parameterAliases = {
+\-- Template parameter aliases -- Specify each as either a single value, or a table of values -- Aliases are checked left-to-right, i.e. \`\['one'\] = { 'two', 'three' }\` is equivalent to using \` }}} }}}\` in a template local parameterAliases = {
 
 `   ['1'] = 1,`
 `   ['2'] = 2,`
@@ -23,11 +18,9 @@ in a template local parameterAliases = {
 
 }
 
-\---------- Dependecies ---------- local colourContrastModule =
-require('Module:Color contrast') local hex = require( 'luabit.hex' )
+\---------- Dependecies ---------- local colourContrastModule = require('Module:Color contrast') local hex = require( 'luabit.hex' )
 
-\---------- Utility functions ---------- local function getParam(args,
-parameter)
+\---------- Utility functions ---------- local function getParam(args, parameter)
 
 `   if args[parameter] then`
 `       return args[parameter]`
@@ -65,9 +58,7 @@ local function setCleanArgs(argsTable)
 
 end
 
-\-- Merge two tables into a new table. If the are any duplicate keys,
-the values from the second overwrite the values from the first. local
-function mergeTables(first, second)
+\-- Merge two tables into a new table. If the are any duplicate keys, the values from the second overwrite the values from the first. local function mergeTables(first, second)
 
 `   local merged = {}`
 `   for key, val in pairs(first) do`
@@ -105,8 +96,7 @@ local function normaliseHexTriplet(hexString)
 
 end
 
-\---------- Conversions ---------- local function
-decimalToPaddedHex(number)
+\---------- Conversions ---------- local function decimalToPaddedHex(number)
 
 `   local prefixedHex = hex.to_hex(tonumber(number)) -- prefixed with '0x'`
 `   local padding =  #prefixedHex == 3 and '0' or '' `
@@ -125,8 +115,7 @@ end local function hexTripletToRGB(hexTriplet)
 `   local R_hex, G_hex, B_hex = string.match(hexTriplet, '(%x%x)(%x%x)(%x%x)')`
 `   return hexToDecimal(R_hex), hexToDecimal(G_hex), hexToDecimal(B_hex)`
 
-end local function HSVtoRGB(H, S, V) -- per [HSL and
-HSV\#Converting_to_RGB](https://zh.wikipedia.org/wiki/HSL_and_HSV#Converting_to_RGB "wikilink")
+end local function HSVtoRGB(H, S, V) -- per [HSL and HSV\#Converting_to_RGB](https://zh.wikipedia.org/wiki/HSL_and_HSV#Converting_to_RGB "wikilink")
 
 `   local C = V * S`
 `   local H_prime = H / 60`
@@ -167,9 +156,7 @@ HSV\#Converting_to_RGB](https://zh.wikipedia.org/wiki/HSL_and_HSV#Converting_to_
 `   local B_255 = math.floor(B*255)`
 `   return R_255, G_255, B_255`
 
-end local function RGBtoHue(R_255, G_255, B_255) -- per [HSL and
-HSV\#Hue and
-chroma](https://zh.wikipedia.org/wiki/HSL_and_HSV#Hue_and_chroma "wikilink")
+end local function RGBtoHue(R_255, G_255, B_255) -- per [HSL and HSV\#Hue and chroma](https://zh.wikipedia.org/wiki/HSL_and_HSV#Hue_and_chroma "wikilink")
 
 `   local R = R_255/255`
 `   local G = G_255/255`
@@ -199,8 +186,7 @@ end local function nameToHexTriplet(name)
 
 end
 
-\---------- Choose colours ---------- local function calculateColours(H,
-S, V, minContrast)
+\---------- Choose colours ---------- local function calculateColours(H, S, V, minContrast)
 
 `   local bgColour = RGBtoHexTriplet(HSVtoRGB(H, S, V))`
 `   local textColour = colourContrastModule._greatercontrast({bgColour})`
@@ -259,8 +245,7 @@ local function normaliseMode(mode)
 `   end`
 `   return mw.ustring.lower(mode)`
 
-end ---------- Build output ---------- local function
-boxHeaderOuter(args)
+end ---------- Build output ---------- local function boxHeaderOuter(args)
 
 `   local baseStyle = {`
 `       clear = 'both',`
@@ -330,8 +315,7 @@ local function boxHeaderViewLink(args)
 `       :wikitext('view')`
 `   local linktext = tostring(tag)`
 `   local linktarget = ':' .. getParam(args, 'viewpage')`
-`   return "`<b>`·`</b>` `[`'``   ``..``   ``linktext``   ``..``
- ``'`](https://zh.wikipedia.org/wiki/"_.._linktarget_.._' "wikilink")` '`
+`   return "`<b>`·`</b>` `[`'``   ``..``   ``linktext``   ``..``   ``'`](https://zh.wikipedia.org/wiki/"_.._linktarget_.._' "wikilink")` '`
 
 end
 
@@ -418,8 +402,7 @@ end
 
 \---------- Main functions / entry points ----------
 
-\-- Entry point for templates (manually-specified colours) function
-p.boxHeader(frame)
+\-- Entry point for templates (manually-specified colours) function p.boxHeader(frame)
 
 `   local parent = frame.getParent(frame)`
 `   local parentArgs = parent.args`
@@ -435,8 +418,7 @@ p.boxHeader(frame)
 
 end
 
-\-- Entry point for modules (manually-specified colours) function
-p._boxHeader(_args, page)
+\-- Entry point for modules (manually-specified colours) function p._boxHeader(_args, page)
 
 `   local args = setCleanArgs(_args)`
 `   if page and not args.editpage then`
@@ -485,8 +467,7 @@ p._boxHeader(_args, page)
 
 end
 
-\-- Entry point for templates (automatically calculated colours)
-function p.autoColour(frame)
+\-- Entry point for templates (automatically calculated colours) function p.autoColour(frame)
 
 `   local parent = frame.getParent(frame)`
 `   local parentArgs = parent.args`
@@ -508,8 +489,7 @@ function p.autoColour(frame)
 
 end
 
-\-- Entry point for modules (automatically calculated colours) function
-p._autoColour(_args, generatedColour)
+\-- Entry point for modules (automatically calculated colours) function p._autoColour(_args, generatedColour)
 
 `   local args = setCleanArgs(_args)`
 `   local hue = generatedColour or findHue(getParam(args, 'colour'))`
@@ -531,7 +511,4 @@ end
 
 return p
 
-[Category:Box-header_with_insufficient_title_contrast](https://zh.wikipedia.org/wiki/Category:Box-header_with_insufficient_title_contrast "wikilink")
-[Category:Box-header_with_insufficient_body_contrast](https://zh.wikipedia.org/wiki/Category:Box-header_with_insufficient_body_contrast "wikilink")
-[Category:Box-header_with_insufficient_title_contrast](https://zh.wikipedia.org/wiki/Category:Box-header_with_insufficient_title_contrast "wikilink")
-[Category:Box-header_with_insufficient_body_contrast](https://zh.wikipedia.org/wiki/Category:Box-header_with_insufficient_body_contrast "wikilink")
+[Category:Box-header_with_insufficient_title_contrast](https://zh.wikipedia.org/wiki/Category:Box-header_with_insufficient_title_contrast "wikilink") [Category:Box-header_with_insufficient_body_contrast](https://zh.wikipedia.org/wiki/Category:Box-header_with_insufficient_body_contrast "wikilink") [Category:Box-header_with_insufficient_title_contrast](https://zh.wikipedia.org/wiki/Category:Box-header_with_insufficient_title_contrast "wikilink") [Category:Box-header_with_insufficient_body_contrast](https://zh.wikipedia.org/wiki/Category:Box-header_with_insufficient_body_contrast "wikilink")

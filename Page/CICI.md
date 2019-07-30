@@ -1,7 +1,14 @@
-**CICI**（），團名有「**C**ulture **IC**on of **I**nnovation」及「**C**an **I**
-**C**ome
-**I**n？」的意思\[1\]，是[韓國Upvote娛樂於](https://zh.wikipedia.org/wiki/韓國 "wikilink")2019年推出的四人男子組合，成員包括JL
-(제이엘）、Won (원)、Sunghyun (성현)及Haneul (하늘)\[2\]。
+**CICI**（），團名有「**C**ulture **IC**on of **I**nnovation」及「**C**an **I** **C**ome **I**n？」的意思\[1\]，是[韓國Upvote娛樂於](https://zh.wikipedia.org/wiki/韓國 "wikilink")2019年推出的四人男子組合，成員包括JL (제이엘）、Won (원)、Sunghyun (성현)及Haneul (하늘)\[2\]。
+
+## 成員資料
+
+| 成員            |
+| ------------- |
+| 藝名 / 本名       |
+| Won (원)       |
+| Haneul (하늘)   |
+| Sunghyun (성현) |
+| JL (제이엘)      |
 
 ## 音樂作品
 
@@ -36,11 +43,7 @@
   - [CICI](https://mobile.twitter.com/CICI_official_)的官方Twitter
   - [CICI](https://m.facebook.com/official.cici)的Facebook
 
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:2019年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2019年成立的音樂團體 "wikilink")
-[Category:2019年韓國建立](https://zh.wikipedia.org/wiki/Category:2019年韓國建立 "wikilink")
+[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2019年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2019年成立的音樂團體 "wikilink") [Category:2019年韓國建立](https://zh.wikipedia.org/wiki/Category:2019年韓國建立 "wikilink")
 
 1.
 2.

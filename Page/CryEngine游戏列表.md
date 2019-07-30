@@ -102,7 +102,7 @@
 <tr class="odd">
 <td><p><a href="../Page/末日之戰：獵殺悍將.md" title="wikilink">末日之戰：獵殺悍將</a></p></td>
 <td><p>2008</p></td>
-<td><p><a href="../Page/Crytek.md" title="wikilink">Crytek布达佩斯</a></p></td>
+<td><p><a href="../Page/Crytek.md" title="wikilink">Crytek</a>布达佩斯</p></td>
 <td><p><a href="../Page/艺电.md" title="wikilink">艺电</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Microsoft_Windows" title="wikilink">Microsoft Windows</a></p></td>
 </tr>
@@ -209,7 +209,7 @@
 <tr class="odd">
 <td><p><em>Fibble – Flick 'n' Roll</em></p></td>
 <td><p>2012</p></td>
-<td><p><a href="../Page/Crytek.md" title="wikilink">Crytek布达佩斯</a></p></td>
+<td><p><a href="../Page/Crytek.md" title="wikilink">Crytek</a>布达佩斯</p></td>
 <td><p><a href="../Page/Crytek.md" title="wikilink">Crytek</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/iOS" title="wikilink">iOS</a>, <a href="https://zh.wikipedia.org/wiki/Android_(operating_system)" title="wikilink">Android</a></p></td>
 </tr>
@@ -315,7 +315,7 @@
 <td><p><em>Riders of Icarus</em></p></td>
 <td><p>2016</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/娛美德" title="wikilink">娛美德</a></p></td>
-<td><p><a href="../Page/Nexon.md" title="wikilink">Nexon北美</a></p></td>
+<td><p><a href="../Page/Nexon.md" title="wikilink">Nexon</a>北美</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Microsoft_Windows" title="wikilink">Microsoft Windows</a></p></td>
 </tr>
 <tr class="odd">
@@ -349,7 +349,7 @@
 <tr class="odd">
 <td><p><em>The Collectables</em></p></td>
 <td><p>2014</p></td>
-<td><p><a href="../Page/Crytek.md" title="wikilink">Crytek布达佩斯</a></p></td>
+<td><p><a href="../Page/Crytek.md" title="wikilink">Crytek</a>布达佩斯</p></td>
 <td><p><a href="../Page/DeNA.md" title="wikilink">DeNA</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/iOS" title="wikilink">iOS</a>, <a href="https://zh.wikipedia.org/wiki/Android_(operating_system)" title="wikilink">Android</a></p></td>
 </tr>
@@ -412,7 +412,7 @@
 <tr class="even">
 <td><p><a href="../Page/战争前线.md" title="wikilink">战争前线</a></p></td>
 <td><p>2013</p></td>
-<td><p><a href="../Page/Crytek.md" title="wikilink">Crytek基辅</a></p></td>
+<td><p><a href="../Page/Crytek.md" title="wikilink">Crytek</a>基辅</p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Microsoft_Windows" title="wikilink">Microsoft Windows</a>, <a href="../Page/Xbox_360.md" title="wikilink">Xbox 360</a></p></td>
 </tr>

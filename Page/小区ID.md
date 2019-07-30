@@ -1,21 +1,13 @@
-GSM **小区ID**（Cell
-ID，也称CID）是一个全局唯一的号码，用于区分各个[基地收发机站](../Page/基站子系统.md "wikilink")（Base
-Transceiver
-Station，简称BTS）或者，如果不是在[GSM网络内的话](../Page/GSM.md "wikilink")，则区分一个[位置区码](https://zh.wikipedia.org/wiki/移动性管理#位置区 "wikilink")（Location
-Area Code，简称LAC）中的BTS的一个扇面（Sector）。
+GSM **小区ID**（Cell ID，也称CID）是一个全局唯一的号码，用于区分各个[基地收发机站](../Page/基站子系统.md "wikilink")（Base Transceiver Station，简称BTS）或者，如果不是在[GSM](../Page/GSM.md "wikilink")网络内的话，则区分一个[位置区码](https://zh.wikipedia.org/wiki/移动性管理#位置区 "wikilink")（Location Area Code，简称LAC）中的BTS的一个扇面（Sector）。
 
 在某些情况下，CID的第一位或最后一位数字代表该小区的扇面（Sector）ID：
 
   - 数值“0”表示全向天线，
   - 数值“1”，“2”，“3”用于区分双扇面（bisector）或三扇面（trisector）天线的不同扇面。
 
-在[UMTS中](https://zh.wikipedia.org/wiki/UMTS "wikilink")，小区ID（CID）和[UTRAN小区ID](https://zh.wikipedia.org/wiki/UTRAN "wikilink")（也被称为LCID）是有区别的。UTRAN小区ID（LCID）是把RNC-ID（一个12比特的数，[无线网络控制器的ID](https://zh.wikipedia.org/wiki/无线网络控制器 "wikilink")）和小区ID（一个12比特数，小区的唯一标识）串联起来。
-CID仍是原来的小区ID。二者串联后仍然是唯一的，但在一些小区ID数据库中可能会造成混淆，因为一些数据库存储CID，而另一些可能存储LCID。实际上有必要将二者分别单独存储，因为对于很多小区来说，RNC
-ID是相同的，CID才是唯一的。\[1\]\[2\]
+在[UMTS中](https://zh.wikipedia.org/wiki/UMTS "wikilink")，小区ID（CID）和[UTRAN小区ID](https://zh.wikipedia.org/wiki/UTRAN "wikilink")（也被称为LCID）是有区别的。UTRAN小区ID（LCID）是把RNC-ID（一个12比特的数，[无线网络控制器的ID](https://zh.wikipedia.org/wiki/无线网络控制器 "wikilink")）和小区ID（一个12比特数，小区的唯一标识）串联起来。 CID仍是原来的小区ID。二者串联后仍然是唯一的，但在一些小区ID数据库中可能会造成混淆，因为一些数据库存储CID，而另一些可能存储LCID。实际上有必要将二者分别单独存储，因为对于很多小区来说，RNC ID是相同的，CID才是唯一的。\[1\]\[2\]
 
-在GSM和CDMA网络中，一个有效的CID范围是0～65535(2<sup>16</sup>
-−1)，而在UMTS和[LTE网络中](https://zh.wikipedia.org/wiki/LTE "wikilink")，有效范围则是0～268,435,455(2<sup>28</sup>
-−1)。\[3\]
+在GSM和CDMA网络中，一个有效的CID范围是0～65535(2<sup>16</sup> −1)，而在UMTS和[LTE网络中](https://zh.wikipedia.org/wiki/LTE "wikilink")，有效范围则是0～268,435,455(2<sup>28</sup> −1)。\[3\]
 
 ## 小区ID数据库和服务
 
@@ -252,23 +244,18 @@ ID是相同的，CID才是唯一的。\[1\]\[2\]
 ## 外部链接
 
   - [Combain定位服务](https://combain.com/)：以API方式提供的云服务，用于定位无线设备。基于小区ID和WiFi。
-  - [来自无线实验室（Unwired
-    Lab）的LocationAPI](https://unwiredlabs.com/)：位置即API服务，通过WiFi、蜂窝信号塔和IP地址来定位设备。
-  - [谋智位置服务](https://location.services.mozilla.com/)
-    ：一个开放式服务，它可以让设备通过网络基础设施（例如WiFi接入点和蜂窝信号塔）来确定它们的位置
+  - [来自无线实验室（Unwired Lab）的LocationAPI](https://unwiredlabs.com/)：位置即API服务，通过WiFi、蜂窝信号塔和IP地址来定位设备。
+  - [谋智位置服务](https://location.services.mozilla.com/) ：一个开放式服务，它可以让设备通过网络基础设施（例如WiFi接入点和蜂窝信号塔）来确定它们的位置
   - [CellMapper](https://www.cellmapper.net/map)：蜂窝网络的覆盖范围和信号塔地图
   - [OpenCellID](https://opencellid.org)：一个开源项目，目的是创建一个全世界的小区ID以及它们所对应的位置的完整数据库。
   - [cellidfinder](https://cellidfinder.com/)：找到任何已知的小区ID的坐标。
   - [Navizon](https://www.navizon.com/)：以API方式提供的云服务，使用WiFi接入点和小区ID位置的一个全球性的数据库，来定位无线设备。
   - [openBmap](https://web.archive.org/web/20180601142241/http://www.openbmap.org/)：一个免费和开放的无线通信设施（例如蜂窝天线、WiFi接入点等）。
   - [minigps](http://minigps.net/map.html)：中国境内的小区ID的一些信息
-  - [Mylnikov GEO](https://www.mylnikov.org/archives/1059)：一个开源API项目。
-    它让我们得到移动信号塔的坐标，没有任何限制，并且完全免费的。
-    ([俄罗斯](https://zh.wikipedia.org/wiki/俄语 "wikilink"))
+  - [Mylnikov GEO](https://www.mylnikov.org/archives/1059)：一个开源API项目。 它让我们得到移动信号塔的坐标，没有任何限制，并且完全免费的。 ([俄罗斯](https://zh.wikipedia.org/wiki/俄语 "wikilink"))
   - [基站编号方案](http://people.csail.mit.edu/bkph/cellular_repeater_numerology.shtml)：关于蜂窝中继器的编号的讨论
 
-[Category:GSM標準](https://zh.wikipedia.org/wiki/Category:GSM標準 "wikilink")
-[Category:有未审阅翻译的页面](https://zh.wikipedia.org/wiki/Category:有未审阅翻译的页面 "wikilink")
+[Category:GSM標準](https://zh.wikipedia.org/wiki/Category:GSM標準 "wikilink") [Category:有未审阅翻译的页面](https://zh.wikipedia.org/wiki/Category:有未审阅翻译的页面 "wikilink")
 
 1.  <https://stackoverflow.com/questions/7240038/utran-cell-identity-returned-by-getcid>
 

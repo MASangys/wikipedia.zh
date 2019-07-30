@@ -1,6 +1,4 @@
-是由公司製作的[恐怖](../Page/恐怖遊戲.md "wikilink")[冒險遊戲](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")，2018年9月13日於[PlayStation
-Vita平台發售](../Page/PlayStation_Vita.md "wikilink")，2019年2月21日於[PlayStation
-4發售](../Page/PlayStation_4.md "wikilink")。本作是「心靈驚悚系列」的第二部作品，系列前作是《[死印](../Page/死印.md "wikilink")》。
+是由公司製作的[恐怖](../Page/恐怖遊戲.md "wikilink")[冒險遊戲](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")，2018年9月13日於[PlayStation Vita平台發售](../Page/PlayStation_Vita.md "wikilink")，2019年2月21日於[PlayStation 4發售](../Page/PlayStation_4.md "wikilink")。本作是「心靈驚悚系列」的第二部作品，系列前作是《[死印](../Page/死印.md "wikilink")》。
 
 ## 故事背景
 
@@ -8,8 +6,7 @@ Vita平台發售](../Page/PlayStation_Vita.md "wikilink")，2019年2月21日於[
 
 ## 遊玩方式
 
-[NG_screenshot.jpg](https://zh.wikipedia.org/wiki/File:NG_screenshot.jpg "fig:NG_screenshot.jpg")
-《NG》的系統基本上繼承自前作《死印》，遊戲方式大致上一樣是「調查」、「收集」與「選擇」，不過在細節上進行調整與創新。\[2\]
+[NG_screenshot.jpg](https://zh.wikipedia.org/wiki/File:NG_screenshot.jpg "fig:NG_screenshot.jpg") 《NG》的系統基本上繼承自前作《死印》，遊戲方式大致上一樣是「調查」、「收集」與「選擇」，不過在細節上進行調整與創新。\[2\]
 
   - 致命選擇
     與前作相似，每當在探索過程中陷入危機時，會出現一些行動選項，必須在一定時限內選擇正確的選項。「安全值」會隨時間減少，選到錯誤的選項也會扣除安全值，一旦數值歸零就會直接結束遊戲。
@@ -71,8 +68,7 @@ Vita平台發售](../Page/PlayStation_Vita.md "wikilink")，2019年2月21日於[
   -
     《死印》的角色，本作中以「[歐帕茲](../Page/歐帕茲.md "wikilink")」雜誌記者的身分登場，不過僅出現於書面與對話之中，她撰寫了一篇關於H市怪異事件的報導。
   -
-    《死印》的角色，不過本作中僅在電視節目上透露其名。偶像團體「Love &
-    Hero」的核心成員，首張單曲獲得了百萬銷量，被電視節目賦予「現代灰姑娘」的稱號。
+    《死印》的角色，不過本作中僅在電視節目上透露其名。偶像團體「Love & Hero」的核心成員，首張單曲獲得了百萬銷量，被電視節目賦予「現代灰姑娘」的稱號。
   -
     《死印》的主角，僅出現於角色對話之中。正與另一位前作角色「真下悟」一同前往海外追查怪異事件。
 
@@ -85,14 +81,7 @@ Vita平台發售](../Page/PlayStation_Vita.md "wikilink")，2019年2月21日於[
   - [《NG》遊戲官方網站](http://no-good.jp/)
   - [「心靈恐怖系列」官方網站](http://horror-game.jp/)
 
-[Category:2018年电子游戏](https://zh.wikipedia.org/wiki/Category:2018年电子游戏 "wikilink")
-[Category:PlayStation_Vita游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita游戏 "wikilink")
-[Category:PlayStation_4遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_4遊戲 "wikilink")
-[Category:恐怖遊戲](https://zh.wikipedia.org/wiki/Category:恐怖遊戲 "wikilink")
-[Category:冒險遊戲](https://zh.wikipedia.org/wiki/Category:冒險遊戲 "wikilink")
-[Category:吉祥寺_(武藏野市)背景作品](https://zh.wikipedia.org/wiki/Category:吉祥寺_\(武藏野市\)背景作品 "wikilink")
-[Category:都市傳說題材作品](https://zh.wikipedia.org/wiki/Category:都市傳說題材作品 "wikilink")
-[Category:日本開發電子遊戲](https://zh.wikipedia.org/wiki/Category:日本開發電子遊戲 "wikilink")
+[Category:2018年电子游戏](https://zh.wikipedia.org/wiki/Category:2018年电子游戏 "wikilink") [Category:PlayStation_Vita游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita游戏 "wikilink") [Category:PlayStation_4遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_4遊戲 "wikilink") [Category:恐怖遊戲](https://zh.wikipedia.org/wiki/Category:恐怖遊戲 "wikilink") [Category:冒險遊戲](https://zh.wikipedia.org/wiki/Category:冒險遊戲 "wikilink") [Category:吉祥寺_(武藏野市)背景作品](https://zh.wikipedia.org/wiki/Category:吉祥寺_\(武藏野市\)背景作品 "wikilink") [Category:都市傳說題材作品](https://zh.wikipedia.org/wiki/Category:都市傳說題材作品 "wikilink") [Category:日本開發電子遊戲](https://zh.wikipedia.org/wiki/Category:日本開發電子遊戲 "wikilink")
 
 1.
 2.

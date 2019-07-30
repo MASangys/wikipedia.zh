@@ -1,6 +1,4 @@
-**Favorite**（韩语：**페이버릿**）是A
-story娱乐旗下的韩国女子音乐团体，组合成员有6名，分别为：Seabom、Seoyeon、Gaeul、Sukyung、Junghee、Ahra。组合于2017年7月5日携迷你专辑《My
-Favorite》正式出道。\[1\]\[2\]<font color="#0645ad"></font>
+**Favorite**（韩语：**페이버릿**）是A story娱乐旗下的韩国女子音乐团体，组合成员有6名，分别为：Seabom、Seoyeon、Gaeul、Sukyung、Junghee、Ahra。组合于2017年7月5日携迷你专辑《My Favorite》正式出道。\[1\]\[2\]<font color="#0645ad"></font>
 
 ## 成员
 
@@ -65,11 +63,7 @@ Favorite》正式出道。\[1\]\[2\]<font color="#0645ad"></font>
 
 ## 参考资料
 
-[Category:2017年韓國建立](https://zh.wikipedia.org/wiki/Category:2017年韓國建立 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:2017年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年成立的音樂團體 "wikilink")
-[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
+[Category:2017年韓國建立](https://zh.wikipedia.org/wiki/Category:2017年韓國建立 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2017年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年成立的音樂團體 "wikilink") [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
 
 1.
 2.

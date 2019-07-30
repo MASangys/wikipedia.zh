@@ -1,5 +1,4 @@
-《**Genie:us**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子組合](https://zh.wikipedia.org/wiki/男子組合 "wikilink")[PENTAGON第八張迷你專輯](../Page/Pentagon_\(男子組合\).md "wikilink")，於2019年3月27日推出，主打歌曲為〈SHA
-LA LA〉。
+《**Genie:us**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子組合](https://zh.wikipedia.org/wiki/男子組合 "wikilink")[PENTAGON第八張迷你專輯](../Page/Pentagon_\(男子組合\).md "wikilink")，於2019年3月27日推出，主打歌曲為〈SHA LA LA〉。
 
 ## 簡介
 
@@ -15,8 +14,7 @@ LA LA〉。
 
 ### 正式發行
 
-3月27日，韓國時間下午6時，公開第八張迷你專輯《Genie:us》全輯音源及主打《SHA LA
-LA》，並於同日舉行回歸Showcase。\[6\]
+3月27日，韓國時間下午6時，公開第八張迷你專輯《Genie:us》全輯音源及主打《SHA LA LA》，並於同日舉行回歸Showcase。\[6\]
 
 ## 曲目
 
@@ -270,12 +268,12 @@ LA》，並於同日舉行回歸Showcase。\[6\]
 <tr class="odd">
 <td><p>Gaon Chart</p></td>
 <td><p>Genie:us</p></td>
-<td><p>39,875+</p></td>
+<td><p>40,160+</p></td>
 <td><p><ref>Gaon Album Chart專輯銷量排名《Genie:us》</p>
 <ul>
 <li><a href="http://www.gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&amp;serviceGbn=&amp;targetTime=04&amp;hitYear=2019&amp;termGbn=month">2019年GAON4月專輯榜15位</a></li>
-</ul>
-<p></ref></p></td>
+<li><p></ref></p></li>
+</ul></td>
 </tr>
 </tbody>
 </table>
@@ -302,9 +300,7 @@ LA》，並於同日舉行回歸Showcase。\[6\]
 
   -
   -
-[Category:PENTAGON](https://zh.wikipedia.org/wiki/Category:PENTAGON "wikilink")
-[Category:韓國音樂專辑](https://zh.wikipedia.org/wiki/Category:韓國音樂專辑 "wikilink")
-[Category:2019年音樂專輯](https://zh.wikipedia.org/wiki/Category:2019年音樂專輯 "wikilink")
+[Category:PENTAGON](https://zh.wikipedia.org/wiki/Category:PENTAGON "wikilink") [Category:韓國音樂專辑](https://zh.wikipedia.org/wiki/Category:韓國音樂專辑 "wikilink") [Category:2019年音樂專輯](https://zh.wikipedia.org/wiki/Category:2019年音樂專輯 "wikilink")
 
 1.
 2.

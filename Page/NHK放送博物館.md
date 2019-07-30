@@ -5,12 +5,8 @@
 ## 外部連結
 
   - [NHK放送博物館](http://www.nhk.or.jp/museum/)
-  - [それは「イ」の字から始まった ～テレビのはじまり～ -
-    マンガで読むNHKヒストリー](http://www.nhk.or.jp/archives/search/special/comic/?movie#vol05)
+  - [それは「イ」の字から始まった ～テレビのはじまり～ - マンガで読むNHKヒストリー](http://www.nhk.or.jp/archives/search/special/comic/?movie#vol05)
 
-[Category:NHK](https://zh.wikipedia.org/wiki/Category:NHK "wikilink")
-[Category:東京都博物館](https://zh.wikipedia.org/wiki/Category:東京都博物館 "wikilink")
-[Category:1956年建立的博物館](https://zh.wikipedia.org/wiki/Category:1956年建立的博物館 "wikilink")
-[Category:1968年完工建築物](https://zh.wikipedia.org/wiki/Category:1968年完工建築物 "wikilink")
+[Category:NHK](https://zh.wikipedia.org/wiki/Category:NHK "wikilink") [Category:東京都博物館](https://zh.wikipedia.org/wiki/Category:東京都博物館 "wikilink") [Category:1956年建立的博物館](https://zh.wikipedia.org/wiki/Category:1956年建立的博物館 "wikilink") [Category:1968年完工建築物](https://zh.wikipedia.org/wiki/Category:1968年完工建築物 "wikilink")
 
 1.

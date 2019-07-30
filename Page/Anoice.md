@@ -1,5 +1,4 @@
-**Anoice** 是源自東京，由4位多才多藝的樂器手組成的電影系樂器樂團。團員分別是 **Takahiro Kido**, **Yuki
-Murata**, **Utaka Fujiwara**, 和 **Tadashi Yoshikawa**.
+**Anoice** 是源自東京，由4位多才多藝的樂器手組成的電影系樂器樂團。團員分別是 **Takahiro Kido**, **Yuki Murata**, **Utaka Fujiwara**, 和 **Tadashi Yoshikawa**.
 
 ## 樂團成員
 
@@ -10,12 +9,7 @@ Murata**, **Utaka Fujiwara**, 和 **Tadashi Yoshikawa**.
 
 ## 簡介
 
-Anoice的第一張專輯 "Remmings" 在2006年於波士頓的Important Records發行。,
-2008年，Anoice創建了自己的唱片公司，Ricco Label。 2012年，在 Ricco
-Label，Important Records與Flowers Blossom In The
-Space的聯合錄製下，備受讚賞的3張專輯'The Black Rain' 誕生了。
-2015年，Anoice發行第4張於東京，倫敦，巴黎，華沙，莫斯科錄製的專輯。 2017年，Anoice透過1631錄音室發行了合輯
-'selected works' ，並由Universal Music發行.偶爾，Anoice也在歐洲或亞洲巡演。
+Anoice的第一張專輯 "Remmings" 在2006年於波士頓的Important Records發行。, 2008年，Anoice創建了自己的唱片公司，Ricco Label。 2012年，在 Ricco Label，Important Records與Flowers Blossom In The Space的聯合錄製下，備受讚賞的3張專輯'The Black Rain' 誕生了。 2015年，Anoice發行第4張於東京，倫敦，巴黎，華沙，莫斯科錄製的專輯。 2017年，Anoice透過1631錄音室發行了合輯 'selected works' ，並由Universal Music發行.偶爾，Anoice也在歐洲或亞洲巡演。
 
 此外，Anoice 的成員也參與其他的計劃。
 **Takahiro Kido** – 個人吉他演奏或為Anoice作曲.
@@ -26,12 +20,7 @@ Space的聯合錄製下，備受讚賞的3張專輯'The Black Rain' 誕生了。
 **mokyow** – 由Anoice 與鍵盤手Kenichi Kai組成的後搖滾樂團.
 **cru** – 由Takahiro Kido 與Yuki Murata組成的迷幻古典樂團.
 
-此外，Anoice 的成員也參與了許多不同的廣告配樂，例如：Armani, Louis Vuitton, Google, YAMAHA,
-TOYOTA, ASICS, TOTO, TORAY, ANA, TOSHIBA 等。另一方面，Anoice也為執導Shuchiku
-Films的Naotaro Endo與執導'Olivier Zahm: Digital Provocateur’ 的Can Evgin
-，為電影 “築地樂園” 配樂，另加上像NHK 與WOWOW的電視節目等. 有些影視作品還於Venice Film Festival,
-Prix Italia, National Arts Festival in japan 或 Cool Japan Matching Award
-獲獎。樂團作曲家Takahiro Kido 與 Yuki Murata 也在札幌國際短片節獲得最佳作曲獎。
+此外，Anoice 的成員也參與了許多不同的廣告配樂，例如：Armani, Louis Vuitton, Google, YAMAHA, TOYOTA, ASICS, TOTO, TORAY, ANA, TOSHIBA 等。另一方面，Anoice也為執導Shuchiku Films的Naotaro Endo與執導'Olivier Zahm: Digital Provocateur’ 的Can Evgin ，為電影 “築地樂園” 配樂，另加上像NHK 與WOWOW的電視節目等. 有些影視作品還於Venice Film Festival, Prix Italia, National Arts Festival in japan 或 Cool Japan Matching Award 獲獎。樂團作曲家Takahiro Kido 與 Yuki Murata 也在札幌國際短片節獲得最佳作曲獎。
 
 ## 音樂作品
 

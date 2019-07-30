@@ -49,4 +49,11 @@
 
   - [匿獅Lion Facebook專頁](https://www.facebook.com/lazylionhk/)
   - [匿獅Lion Instagram](https://www.instagram.com/lazylionhk/)
-  - \[<https://www.change4health.gov.hk/tc/sap>
+  - [邁向2025｜香港非傳染病防控策略及行動計劃](https://www.change4health.gov.hk/tc/saptowards2025/)
+
+## 參考資料
+
+  - [邁向2025｜香港非傳染病防控策略及行動計劃](https://www.change4health.gov.hk/tc/saptowards2025/)
+  - [匿獅Lion小檔案](https://www.change4health.gov.hk/tc/saptowards2025/news/lazylioncprofile.html)
+
+[分类:吉祥物](https://zh.wikipedia.org/wiki/分类:吉祥物 "wikilink")

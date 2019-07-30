@@ -1,6 +1,4 @@
-**NATURE**（）是[韓國n](https://zh.wikipedia.org/wiki/韓國 "wikilink").CH
-娛樂公司推出的女子組合，由[韓國籍成員Saebom](https://zh.wikipedia.org/wiki/韓國 "wikilink")、**Lu**、Chaebin、Loha、Uchae、Sunshine;[中國籍成員Aurora](../Page/中國.md "wikilink")、Gaga及[日本籍成員Haru組成](../Page/日本.md "wikilink")；於2018年8月3日出道。
-\[1\]\[2\]\[3\]官方粉絲名為「Leaf」。
+**NATURE**（）是[韓國n](https://zh.wikipedia.org/wiki/韓國 "wikilink").CH 娛樂公司推出的女子組合，由[韓國籍成員Saebom](https://zh.wikipedia.org/wiki/韓國 "wikilink")、**Lu**、Chaebin、Loha、Uchae、Sunshine;[中國](../Page/中國.md "wikilink")籍成員Aurora、Gaga及[日本](../Page/日本.md "wikilink")籍成員Haru組成；於2018年8月3日出道。 \[1\]\[2\]\[3\]官方粉絲名為「Leaf」。
 
 ## 團名由來
 
@@ -82,27 +80,21 @@
 
 ### 出道前
 
-2016年，Chaebin以MIDAS練習生名義參加《[PRODUCE
-101](../Page/PRODUCE_101.md "wikilink")》，最終排名第88名。
+2016年，Chaebin以MIDAS練習生名義參加《[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")》，最終排名第88名。
 
-2017年，Lu為前[Brave娛樂練習生](../Page/Brave娛樂.md "wikilink")。以本名林河英試鏡《[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")》未通過。
+2017年，Lu為前[Brave娛樂](../Page/Brave娛樂.md "wikilink")練習生。以本名林河英試鏡《[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")》未通過。
 
 ### 2018年：出道、首張單曲專輯、第二張單曲專輯、獲得第2屆 Soribada Best K-Music Awards新韓流新人賞
 
 2018年7月21日，據n.CH娛樂公司傳來消息，指旗下跨國九人女團NATURE將於8月初出道。\[4\]
 
-2018年8月3日，成員Yeolmae退出，改為八人團體出道，以出道專輯《心情很好》裡的《Allegro Cantabile (너의
-곁으로)在你身邊》一曲作為主打歌出道\[5\]\[6\]\[7\]。值得一提的是，此歌原曲為《[交響情人夢](../Page/交響情人夢.md "wikilink")》的片頭曲。\[8\]
+2018年8月3日，成員Yeolmae退出，改為八人團體出道，以出道專輯《心情很好》裡的《Allegro Cantabile (너의 곁으로)在你身邊》一曲作為主打歌出道\[5\]\[6\]\[7\]。值得一提的是，此歌原曲為《[交響情人夢](../Page/交響情人夢.md "wikilink")》的片頭曲。\[8\]
 
-2018年11月21日，發行第二張單曲專輯《썸&러브》回歸。\[9\]
-加入成員Loha。Loha為前[JYP娛樂練習生](../Page/JYP娛樂.md "wikilink")。
+2018年11月21日，發行第二張單曲專輯《썸&러브》回歸。\[9\] 加入成員Loha。Loha為前[JYP娛樂](../Page/JYP娛樂.md "wikilink")練習生。
 
 ### 2019年：單曲二輯後續曲、首張迷你專輯
 
-2019年1月15日，以《꿈꿨어(Dream About U)》高速回歸（為曖昧的後續曲） 。\[10\]
-2019年6月24日，宣佈於7月10日發行首張迷你專輯《I'm So
-Pretty》回歸，成員GaGa因學業缺席本次回歸。同日，釋出團體、Saebom、Sunshine概念照。
-6月25日，釋出Chaebin、Haru概念照。 6月26日，釋出Uchae、Roha概念照。 6月27日，釋出Aurora、Lu概念照。
+2019年1月15日，以《꿈꿨어(Dream About U)》高速回歸（為曖昧的後續曲） 。\[10\] 2019年6月24日，宣佈於7月10日發行首張迷你專輯《I'm So Pretty》回歸，成員GaGa因學業缺席本次回歸。 6月24至7月1日依序釋出團體、Saebom、Sunshine、Chaebin、Haru、Uchae、Roha、Aurora、Lu兩組概念照概念照。 7月3日，公開《I'm So Pretty》全輯歌單。 7月4日，公開MV Teaser 1。 7月8日，公開MV Teaser 2。 7月9日，公開《I'm So Pretty》全輯音源試聽。 7月10日中午，《I'm So Pretty》全輯音源公開。
 
 ## 音樂作品
 
@@ -119,7 +111,7 @@ Pretty》回歸，成員GaGa因學業缺席本次回歸。同日，釋出團體�
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p><strong>《기분 좋아》</strong></p>
+<td><p><strong>《I Feel Good》</strong></p>
 <ul>
 <li>發行日期 ：2018年8月3日</li>
 <li>語言：韓語</li>
@@ -130,7 +122,7 @@ Pretty》回歸，成員GaGa因學業缺席本次回歸。同日，釋出團體�
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
-<td><p><strong>《썸&amp;러브》</strong></p>
+<td><p><strong>《Som&amp;Love》</strong></p>
 <ul>
 <li>發行日期 ：2018年11月21日</li>
 <li>語言：韓語</li>
@@ -166,7 +158,7 @@ Pretty》回歸，成員GaGa因學業缺席本次回歸。同日，釋出團體�
 <li>語言：韓語</li>
 <li>銷量：</li>
 </ul></td>
-<td><p>{{Hidden|曲目</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -175,6 +167,22 @@ Pretty》回歸，成員GaGa因學業缺席本次回歸。同日，釋出團體�
 </tr>
 </tbody>
 </table>
+
+## 綜藝節目
+
+### 專屬節目
+
+| 日期                   | 電視台  | 節目名稱            | 參與成員       | 集數 | 備註 |
+| -------------------- | ---- | --------------- | ---------- | -- | -- |
+| 2019年5月31日－2019年7月5日 | Mnet | 《Naturereality》 | 全員(Gaga除外) | 6集 |    |
+|                      |      |                 |            |    |    |
+
+### 綜藝節目
+
+| 日期         | 電視台  | 節目名稱        | 參與成員       |
+| ---------- | ---- | ----------- | ---------- |
+| 2019年7月16日 | JTBC | 《Idol Room》 | 全員(Gaga除外) |
+|            |      |             |            |
 
 ## 獎項
 
@@ -275,11 +283,7 @@ Pretty》回歸，成員GaGa因學業缺席本次回歸。同日，釋出團體�
   -
 ## 參考資料
 
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
-[Category:2018年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2018年成立的音樂團體 "wikilink")
-[Category:2018年韓國建立](https://zh.wikipedia.org/wiki/Category:2018年韓國建立 "wikilink")
+[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:2018年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2018年成立的音樂團體 "wikilink") [Category:2018年韓國建立](https://zh.wikipedia.org/wiki/Category:2018年韓國建立 "wikilink")
 
 1.  <https://kprofiles.com/nature-members-profile/>
 2.

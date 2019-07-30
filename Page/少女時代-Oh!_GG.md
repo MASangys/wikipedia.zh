@@ -1,7 +1,4 @@
-**少女時代-Oh\! GG**（，
-）是韓國女子組合[少女時代的分隊](https://zh.wikipedia.org/wiki/少女時代 "wikilink")\[1\]，由[太妍](https://zh.wikipedia.org/wiki/金泰耎 "wikilink")
-、[珊妮](../Page/Sunny_\(少女時代\).md "wikilink")、[孝淵](https://zh.wikipedia.org/wiki/孝淵 "wikilink")、[俞利](../Page/俞利.md "wikilink")、[潤娥組成](https://zh.wikipedia.org/wiki/潤娥 "wikilink")\[2\]\[3\]，队长为[潤娥](https://zh.wikipedia.org/wiki/潤娥 "wikilink")\[4\]。2018年9月5日發行单曲《[Lil'
-Touch](https://zh.wikipedia.org/wiki/Lil'_Touch "wikilink")》正式出道\[5\] 。
+**少女時代-Oh\! GG**（， ）是韓國女子組合[少女時代的分隊](https://zh.wikipedia.org/wiki/少女時代 "wikilink")\[1\]，由[太妍](https://zh.wikipedia.org/wiki/金泰耎 "wikilink") 、[珊妮](../Page/Sunny_\(少女時代\).md "wikilink")、[孝淵](https://zh.wikipedia.org/wiki/孝淵 "wikilink")、[俞利](../Page/俞利.md "wikilink")、[潤娥組成](https://zh.wikipedia.org/wiki/潤娥 "wikilink")\[2\]\[3\]，队长为[潤娥](https://zh.wikipedia.org/wiki/潤娥 "wikilink")\[4\]。2018年9月5日發行单曲《[Lil' Touch](https://zh.wikipedia.org/wiki/Lil'_Touch "wikilink")》正式出道\[5\] 。
 
 ## 成員資料
 
@@ -46,25 +43,15 @@ Touch](https://zh.wikipedia.org/wiki/Lil'_Touch "wikilink")》正式出道\[5\] 
 
 ### 2018年：出道
 
-2018年8月2日，由报道称少女時代的新子團即將於2018下半年出道。8月27日，官方Facebook公布少女時代新子團《**少女時代-Oh\!
-GG**》即將於同年9月5日出道，並且出道作品為單曲《[Lil'
-Touch](https://zh.wikipedia.org/wiki/Lil'_Touch "wikilink")》，首波團體概念照同時公开。8月27日至9月3日，官方陸續公布團體與個人的概念照。9月4日，釋出《[Lil'
-Touch](https://zh.wikipedia.org/wiki/Lil'_Touch "wikilink")》M\\V預告。9月5日，《[Lil'
-Touch](https://zh.wikipedia.org/wiki/Lil'_Touch "wikilink")》韓國時間下午六點正式發布M\\V，並在各大音源榜公開完整專輯音源。截止至9月6日韓國時間凌晨0點《[Lil'
-Touch](https://zh.wikipedia.org/wiki/Lil'_Touch "wikilink")》登上Bug,Ment,Music
-Mates和Soribada榜1位，Genie,Olleh Music和Naver2位，Melon和Monkey3位。
+2018年8月2日，由报道称少女時代的新子團即將於2018下半年出道。8月27日，官方Facebook公布少女時代新子團《**少女時代-Oh\! GG**》即將於同年9月5日出道，並且出道作品為單曲《[Lil' Touch](https://zh.wikipedia.org/wiki/Lil'_Touch "wikilink")》，首波團體概念照同時公开。8月27日至9月3日，官方陸續公布團體與個人的概念照。9月4日，釋出《[Lil' Touch](https://zh.wikipedia.org/wiki/Lil'_Touch "wikilink")》M\\V預告。9月5日，《[Lil' Touch](https://zh.wikipedia.org/wiki/Lil'_Touch "wikilink")》韓國時間下午六點正式發布M\\V，並在各大音源榜公開完整專輯音源。截止至9月6日韓國時間凌晨0點《[Lil' Touch](https://zh.wikipedia.org/wiki/Lil'_Touch "wikilink")》登上Bug,Ment,Music Mates和Soribada榜1位，Genie,Olleh Music和Naver2位，Melon和Monkey3位。
 
-9月6日，《[Lil'
-Touch](https://zh.wikipedia.org/wiki/Lil'_Touch "wikilink")》MV在24小時內，突破902萬的點擊次數，是SM娛樂旗下團體，首日點擊最多的MV，此紀錄維持至同年11月3日\[7\]，《[Lil'
-Touch](https://zh.wikipedia.org/wiki/Lil'_Touch "wikilink")》也在台灣、香港、泰國、馬來西亞、菲律賓、越南、澳門、巴西、智利、墨西哥、瑞典、印尼、哥倫比亞、新加坡等共16區的iTunes綜合專輯榜摘冠，也於20區的iTunes綜合單曲榜摘冠。2019年4月10日《[Lil'
-Touch](https://zh.wikipedia.org/wiki/Lil'_Touch "wikilink")》點擊次數突破1億，為kpop第一支小分隊MV突破一億點擊率。
+9月6日，《[Lil' Touch](https://zh.wikipedia.org/wiki/Lil'_Touch "wikilink")》MV在24小時內，突破902萬的點擊次數，是SM娛樂旗下團體，首日點擊最多的MV，此紀錄維持至同年11月3日\[7\]，《[Lil' Touch](https://zh.wikipedia.org/wiki/Lil'_Touch "wikilink")》也在台灣、香港、泰國、馬來西亞、菲律賓、越南、澳門、巴西、智利、墨西哥、瑞典、印尼、哥倫比亞、新加坡等共16區的iTunes綜合專輯榜摘冠，也於20區的iTunes綜合單曲榜摘冠。2019年4月10日《[Lil' Touch](https://zh.wikipedia.org/wiki/Lil'_Touch "wikilink")》點擊次數突破1億，為kpop第一支小分隊MV突破一億點擊率。
 
 ## 音樂作品
 
 #### 單曲專輯
 
-  - 2018年：《[Lil'
-    Touch](https://zh.wikipedia.org/wiki/Lil'_Touch "wikilink")》
+  - 2018年：《[Lil' Touch](https://zh.wikipedia.org/wiki/Lil'_Touch "wikilink")》
 
 ### 音樂錄影帶（MV）
 
@@ -116,9 +103,7 @@ Touch](https://zh.wikipedia.org/wiki/Lil'_Touch "wikilink")》點擊次數突破
 
   -
 
-[Category:少女時代](https://zh.wikipedia.org/wiki/Category:少女時代 "wikilink")
-[Category:2018年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2018年成立的音樂團體 "wikilink")
-[Category:SM娛樂](https://zh.wikipedia.org/wiki/Category:SM娛樂 "wikilink")
+[Category:少女時代](https://zh.wikipedia.org/wiki/Category:少女時代 "wikilink") [Category:2018年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2018年成立的音樂團體 "wikilink") [Category:SM娛樂](https://zh.wikipedia.org/wiki/Category:SM娛樂 "wikilink")
 
 1.
 2.

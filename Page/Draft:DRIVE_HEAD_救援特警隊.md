@@ -2,9 +2,7 @@
 
 ## 故事簡介
 
-在不久之後的未來，救援特警隊「Hyper
-Rescue」為了應付超越人力所能及的災害與事故，以及複雜的犯罪事件，開發了集結警察、消防、救援於一身的機器人「Drive
-Head」。為了拯救人民於危難之中，Drive Head 將隨時準備好面對危機。事件發生，前往救援！
+在不久之後的未來，救援特警隊「Hyper Rescue」為了應付超越人力所能及的災害與事故，以及複雜的犯罪事件，開發了集結警察、消防、救援於一身的機器人「Drive Head」。為了拯救人民於危難之中，Drive Head 將隨時準備好面對危機。事件發生，前往救援！
 
 ## 登場人物
 
@@ -15,12 +13,10 @@ Head」。為了拯救人民於危難之中，Drive Head 將隨時準備好面�
     本作主角，Drive Head 一號音速攔截、Drive Head 一號馬克二號疾速旋風攔截的駕駛員。
   -
     配音員：[國立幸](../Page/國立幸.md "wikilink")（日本）；[連思宇](../Page/連思宇.md "wikilink")\[2\]（台灣）
-    Drive Head 二號烈焰克星、Drive Head 二號馬克二號勇氣烈焰克星、Drive Head
-    二號馬克三號大師烈焰克星（暫譯）的駕駛員。
+    Drive Head 二號烈焰克星、Drive Head 二號馬克二號勇氣烈焰克星、Drive Head 二號馬克三號大師烈焰克星（暫譯）的駕駛員。
   -
     配音員：[三澤紗千香](../Page/三澤紗千香.md "wikilink")（日本）；[張乃文](https://zh.wikipedia.org/wiki/張乃文 "wikilink")\[3\]（台灣）
-    Drive Head 三號白色希望、Drive Head 三號馬克二號白色水晶希望的駕駛員之一。於《DRIVE HEAD
-    2018》第6話起駕駛Drive Head 三號馬克二號白色珍珠希望。
+    Drive Head 三號白色希望、Drive Head 三號馬克二號白色水晶希望的駕駛員之一。於《DRIVE HEAD 2018》第6話起駕駛Drive Head 三號馬克二號白色珍珠希望。
   -
     配音員：[真堂圭](../Page/真堂圭.md "wikilink")（日本）；[穆宣名](../Page/穆宣名.md "wikilink")\[4\]（台灣）
     米可的雙胞胎弟弟，Drive Head 三號白色希望、Drive Head 三號馬克二號白色水晶希望的駕駛員之一。
@@ -177,8 +173,7 @@ Head」。為了拯救人民於危難之中，Drive Head 將隨時準備好面�
   -
     由石野人和米可其中一人駕駛，出動時由人和米可猜拳，贏者能夠駕駛白色希望，輸者只能開核心車。初次登場於第2話片尾，正式登場於第3話。
   -
-    白色希望的改良機，由石野人和米可共同駕駛，人坐前座，米可坐後座。第二季第6話起由人單獨駕駛。初次登場於第21話片尾，正式登場於第23話。《DRIVE
-    HEAD 2018》第6話起改由石野人單獨駕駛。
+    白色希望的改良機，由石野人和米可共同駕駛，人坐前座，米可坐後座。第二季第6話起由人單獨駕駛。初次登場於第21話片尾，正式登場於第23話。《DRIVE HEAD 2018》第6話起改由石野人單獨駕駛。
 
 ##### 馬克三號計劃
 
@@ -772,12 +767,7 @@ LEE DUK HO</p></td>
   -
   -
   -
-[Category:OLM](https://zh.wikipedia.org/wiki/Category:OLM "wikilink")
-[Category:2017年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2017年日本電視動畫 "wikilink")
-[Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
-[Category:TBS電視網動畫](https://zh.wikipedia.org/wiki/Category:TBS電視網動畫 "wikilink")
-[Category:機械人動畫](https://zh.wikipedia.org/wiki/Category:機械人動畫 "wikilink")
-[Category:小學背景動畫](https://zh.wikipedia.org/wiki/Category:小學背景動畫 "wikilink")
+[Category:OLM](https://zh.wikipedia.org/wiki/Category:OLM "wikilink") [Category:2017年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2017年日本電視動畫 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink") [Category:TBS電視網動畫](https://zh.wikipedia.org/wiki/Category:TBS電視網動畫 "wikilink") [Category:機械人動畫](https://zh.wikipedia.org/wiki/Category:機械人動畫 "wikilink") [Category:小學背景動畫](https://zh.wikipedia.org/wiki/Category:小學背景動畫 "wikilink")
 
 1.  <https://m.facebook.com/Goldenfilmltd/photos/a.2002061603373816.1073741829.1878929335687044/2081875948725714/?type=3>
 

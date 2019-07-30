@@ -1,29 +1,14 @@
-**基嫩·德坎·雷·杰克逊**（英语：**Keenon Daequan Ray Jackson**，1990年3月9日 -
-），\[1\]艺名**YG**，来自美国[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")[康普顿的说唱歌手和演员](https://zh.wikipedia.org/wiki/康普顿_\(加利福尼亚州\) "wikilink")。2009年，YG发布了首支单曲“Toot
-It and Boot It”，[Ty Dolla
-Sign客串献唱](https://zh.wikipedia.org/wiki/Ty_Dolla_Sign "wikilink")，在[Billboard百强单曲榜上排名第](../Page/告示牌百强单曲榜.md "wikilink")67。\[2\]单曲的成功使他签约了[Def
-Jam唱片公司](https://zh.wikipedia.org/wiki/Def_Jam唱片公司 "wikilink")。\[3\]在随后的几年中，YG发布了《The
-Real 4Fingaz》、《Just Re'd Up》、《Just Re'd Up 2》、《4 Hunnid Degreez》等数张混音带。
+**基嫩·德坎·雷·杰克逊**（英语：**Keenon Daequan Ray Jackson**，1990年3月9日 - ），\[1\]艺名**YG**，来自美国[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")[康普顿的说唱歌手和演员](https://zh.wikipedia.org/wiki/康普顿_\(加利福尼亚州\) "wikilink")。2009年，YG发布了首支单曲“Toot It and Boot It”，[Ty Dolla Sign客串献唱](https://zh.wikipedia.org/wiki/Ty_Dolla_Sign "wikilink")，在[Billboard百强单曲榜上排名第](../Page/告示牌百强单曲榜.md "wikilink")67。\[2\]单曲的成功使他签约了[Def Jam唱片公司](../Page/Def_Jam唱片公司.md "wikilink")。\[3\]在随后的几年中，YG发布了《The Real 4Fingaz》、《Just Re'd Up》、《Just Re'd Up 2》、《4 Hunnid Degreez》等数张混音带。
 
-2013年6月，YG与[杨·吉兹的厂牌CTE](../Page/杰伊·詹金斯.md "wikilink")
-World签署了一份协议。他发布于2013年的由[Rich Homie
-Quan客串的单曲](https://zh.wikipedia.org/wiki/Rich_Homie_Quan "wikilink")“My
-Nigga”在美国[Billboard百强单曲榜上排名第](../Page/告示牌百强单曲榜.md "wikilink")19，成为了他职业生涯中榜单排名最高的歌曲。随后他发布了单曲“Left,
-Right”和由[德雷克客串的单曲](../Page/德雷克_\(歌手\).md "wikilink")“Who Do You
-Love?”，作为他首张录音室专辑的先行曲。他的首张专辑《My Krazy Life》于2014年3月18日由Pu$haz
-Ink、CTE World和Def Jam发行，大获好评。2016年6月17日，YG发布了第二张录音室专辑《Still
-Brazy》，好评依旧。2018年8月3日，YG发布了普遍好评的第三张录音室专辑《Stay Dangerous》。
+2013年6月，YG与[杨·吉兹的厂牌CTE](../Page/杰伊·詹金斯.md "wikilink") World签署了一份协议。他发布于2013年的由[Rich Homie Quan客串的单曲](https://zh.wikipedia.org/wiki/Rich_Homie_Quan "wikilink")“My Nigga”在美国[Billboard百强单曲榜上排名第](../Page/告示牌百强单曲榜.md "wikilink")19，成为了他职业生涯中榜单排名最高的歌曲。随后他发布了单曲“Left, Right”和由[德雷克客串的单曲](../Page/德雷克_\(歌手\).md "wikilink")“Who Do You Love?”，作为他首张录音室专辑的先行曲。他的首张专辑《My Krazy Life》于2014年3月18日由Pu$haz Ink、CTE World和Def Jam发行，大获好评。2016年6月17日，YG发布了第二张录音室专辑《Still Brazy》，好评依旧。2018年8月3日，YG发布了普遍好评的第三张录音室专辑《Stay Dangerous》。
 
 ## 早年生活
 
-YG于1990年出生于[加利福尼亚州康普顿](https://zh.wikipedia.org/wiki/康普顿_\(加利福尼亚州\) "wikilink")。\[4\]\[5\]
-他的艺名YG意为“Young
-Gangster”（年轻的匪徒）。\[6\]2006年，16岁的YG加入了[血帮](../Page/血幫.md "wikilink")。\[7\]他的父亲因涉嫌税务欺诈而入狱。\[8\]
+YG于1990年出生于[加利福尼亚州康普顿](https://zh.wikipedia.org/wiki/康普顿_\(加利福尼亚州\) "wikilink")。\[4\]\[5\] 他的艺名YG意为“Young Gangster”（年轻的匪徒）。\[6\]2006年，16岁的YG加入了[血帮](../Page/血幫.md "wikilink")。\[7\]他的父亲因涉嫌税务欺诈而入狱。\[8\]
 
 ## 争议
 
-YG于2014年发布的首张录音室专辑《My Krazy Life》中有一首歌曲“遇见劫匪”（Meet the
-Flockers），其中有段歌词为：
+YG于2014年发布的首张录音室专辑《My Krazy Life》中有一首歌曲“遇见劫匪”（Meet the Flockers），其中有段歌词为：
 
 而歌曲MV中，两名歹徒进门时，镜头定格在一张华人四口之家的全家福上。两年后该歌曲在华人圈中被翻出，引起了华人强烈愤怒。美国华人全国委员会主席批评这首歌涉嫌鼓动针对华人小区的抢劫等犯罪活动，呼吁大家抗议举报。在加拿大一些华人网站上，有网友贴出如何到“YouTube”举报的详细教程，希望有尽可能多的华人发出反对声音。白宫请愿网站亦有华人发起要求将该音乐视频禁止，并对歌手YG展开调查的请愿。该请愿不到30天内已经集齐10万签名。随后，该歌曲MV在视频网站YouTube上被撤下。
 
@@ -35,7 +20,7 @@ Flockers），其中有段歌词为：
   - 《Stay Dangerous》 (2018年)
   - 《4Real 4Real》 (2019年)
 
-## 影片
+## 影视
 
 | 年份                              | 名称                        | 角色        | 注释         |
 | ------------------------------- | ------------------------- | --------- | ---------- |
@@ -87,7 +72,7 @@ Flockers），其中有段歌词为：
 <td><p>民众票选冠军奖 (People's Champ Award)</p></td>
 <td><p>单曲"My Nigga (Remix)"<br />
 <br />
-<small>(与<a href="../Page/小韋恩.md" title="wikilink">李尔·韦恩</a>、<a href="https://zh.wikipedia.org/wiki/妮琪·米娜" title="wikilink">妮琪·米娜</a>、<a href="../Page/米克·米尔.md" title="wikilink">米克·米尔和</a><a href="https://zh.wikipedia.org/wiki/Rich_Homie_Quan" title="wikilink">Rich Homie Quan</a>)</small></p></td>
+<small>(与<a href="../Page/小韋恩.md" title="wikilink">李尔·韦恩</a>、<a href="https://zh.wikipedia.org/wiki/妮琪·米娜" title="wikilink">妮琪·米娜</a>、<a href="../Page/米克·米尔.md" title="wikilink">米克·米尔</a>和<a href="https://zh.wikipedia.org/wiki/Rich_Homie_Quan" title="wikilink">Rich Homie Quan</a>)</small></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -143,14 +128,7 @@ Flockers），其中有段歌词为：
 
 ## 参考
 
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
-[Category:1990年出生](https://zh.wikipedia.org/wiki/Category:1990年出生 "wikilink")
-[Category:有未审阅翻译的页面](https://zh.wikipedia.org/wiki/Category:有未审阅翻译的页面 "wikilink")
-[Category:美国嘻哈歌手](https://zh.wikipedia.org/wiki/Category:美国嘻哈歌手 "wikilink")
-[Category:非裔美国男性饶舌歌手](https://zh.wikipedia.org/wiki/Category:非裔美国男性饶舌歌手 "wikilink")
-[Category:西海岸嘻哈音乐人](https://zh.wikipedia.org/wiki/Category:西海岸嘻哈音乐人 "wikilink")
-[Category:血帮](https://zh.wikipedia.org/wiki/Category:血帮 "wikilink")
-[Category:来自洛杉矶的饶舌歌手](https://zh.wikipedia.org/wiki/Category:来自洛杉矶的饶舌歌手 "wikilink")
+[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:1990年出生](https://zh.wikipedia.org/wiki/Category:1990年出生 "wikilink") [Category:有未审阅翻译的页面](https://zh.wikipedia.org/wiki/Category:有未审阅翻译的页面 "wikilink") [Category:美国嘻哈歌手](https://zh.wikipedia.org/wiki/Category:美国嘻哈歌手 "wikilink") [Category:非裔美国男性饶舌歌手](https://zh.wikipedia.org/wiki/Category:非裔美国男性饶舌歌手 "wikilink") [Category:西海岸嘻哈音乐人](https://zh.wikipedia.org/wiki/Category:西海岸嘻哈音乐人 "wikilink") [Category:血帮](https://zh.wikipedia.org/wiki/Category:血帮 "wikilink") [Category:来自洛杉矶的饶舌歌手](https://zh.wikipedia.org/wiki/Category:来自洛杉矶的饶舌歌手 "wikilink")
 
 1.
 2.

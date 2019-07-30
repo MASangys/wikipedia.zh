@@ -1,11 +1,8 @@
-《**Koshi Inaba LIVE 2014
-〜en-ball〜**》是[日本](../Page/日本.md "wikilink")[音樂組合](../Page/音樂組合.md "wikilink")[B'z主唱](../Page/B'z.md "wikilink")[稻葉浩志的第](../Page/稻葉浩志.md "wikilink")3張影像作品。[2015年](../Page/2015年.md "wikilink")[11月18日發售](../Page/11月18日.md "wikilink")。
+《**Koshi Inaba LIVE 2014 〜en-ball〜**》是[日本](../Page/日本.md "wikilink")[音樂組合](../Page/音樂組合.md "wikilink")[B'z](../Page/B'z.md "wikilink")主唱[稻葉浩志](../Page/稻葉浩志.md "wikilink")的第3張影像作品。[2015年](../Page/2015年.md "wikilink")[11月18日](../Page/11月18日.md "wikilink")發售。
 
 ## 内容
 
-將來自於在第5張SOLO專輯『[Singing
-Bird](../Page/Singing_Bird.md "wikilink")』發售後，於2014年6月僅在毅然舉行的10場公演，Premium
-Live『Koshi Inaba LIVE 2014 〜en-ball〜』中的6月20日最終場模樣完整收錄的影像作品\[1\]\[2\]。
+將來自於在第5張SOLO專輯『[Singing Bird](../Page/Singing_Bird.md "wikilink")』發售後，於2014年6月僅在毅然舉行的10公演Premium Live『Koshi Inaba LIVE 2014 〜en-ball〜』中的6月20日最終場模樣完整收錄的影像作品\[1\]\[2\]。
 
 ## 成員
 
@@ -25,7 +22,7 @@ Live『Koshi Inaba LIVE 2014 〜en-ball〜』中的6月20日最終場模樣完�
 
 1.  **[ジミーの朝](../Page/Singing_Bird.md "wikilink")**　
       -
-        稻葉的[原聲吉他獨奏獨唱](../Page/原聲吉他.md "wikilink")。
+        稻葉的[原聲吉他](../Page/原聲吉他.md "wikilink")獨奏獨唱。
 2.  **[THE RACE](../Page/Peace_Of_Mind.md "wikilink")**
 3.  **[CHAIN](https://zh.wikipedia.org/wiki/遠くまで "wikilink")**
 4.  **[Wonderland](../Page/Wonderland.md "wikilink")**
@@ -59,10 +56,7 @@ Live『Koshi Inaba LIVE 2014 〜en-ball〜』中的6月20日最終場模樣完�
 
 ## 腳註
 
-[Category:演唱會](https://zh.wikipedia.org/wiki/Category:演唱會 "wikilink")
-[Category:2015年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2015年音樂相關影像作品 "wikilink")
+[Category:演唱會](https://zh.wikipedia.org/wiki/Category:演唱會 "wikilink") [Category:2015年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2015年音樂相關影像作品 "wikilink")
 
-1.  「[B'z稲葉浩志「夢のような10日間をありがとう」感動のライブ作品詳細発表](http://www.billboard-japan.com/d_news/detail/31780/2)」[Billboard
-    JAPAN](https://zh.wikipedia.org/wiki/Billboard_JAPAN "wikilink")、2015年[9月18日](../Page/9月18日.md "wikilink")。
-2.  「[B'zの稲葉浩志、映像作品『Koshi Inaba LIVE 2014
-    〜en-ball〜』詳細発表](http://www.barks.jp/news/?id=1000119869)」，9月18日
+1.  「[B'z稲葉浩志「夢のような10日間をありがとう」感動のライブ作品詳細発表](http://www.billboard-japan.com/d_news/detail/31780/2)」[Billboard JAPAN](https://zh.wikipedia.org/wiki/Billboard_JAPAN "wikilink")、2015年[9月18日](../Page/9月18日.md "wikilink")。
+2.  「[B'zの稲葉浩志、映像作品『Koshi Inaba LIVE 2014 〜en-ball〜』詳細発表](http://www.barks.jp/news/?id=1000119869)」，9月18日

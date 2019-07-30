@@ -1,27 +1,18 @@
-**飛迅**（），本名**邱佳萱**，出身[臺灣](../Page/臺灣.md "wikilink")[新竹縣](../Page/新竹縣.md "wikilink")[竹北市](../Page/竹北市.md "wikilink")。是一名[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[主持人](https://zh.wikipedia.org/wiki/主持人 "wikilink")、[女演員](https://zh.wikipedia.org/wiki/女演員 "wikilink")。畢業於[大葉大學傳播藝術系](../Page/大葉大學.md "wikilink")。父親為新竹地方幫派幫主。獨特的風格，曾被多個國際知名品牌分享穿搭，因而參與許多饒舌歌手的MV演出。現為《[食尚玩家](../Page/食尚玩家.md "wikilink")》FB粉專直播主持人。大學時期參與《[大學生了沒](../Page/大學生了沒.md "wikilink")》成為固定班底，因服裝配色鮮明亮眼，被節目製作人取名為「飛迅」，並以此節目聞名。此外，自然不做作的表現讓人印象深刻，後來也成為《[同學！搞什麼鬼](https://zh.wikipedia.org/wiki/同學！搞什麼鬼 "wikilink")》固定班底、《[上班這黨事](../Page/上班這黨事.md "wikilink")》黨團，擁有許多忠實粉絲。熱衷於公益活動的她，同時是[呼嚕嚕愛心市集主辦人](https://zh.wikipedia.org/wiki/呼嚕嚕愛心市集 "wikilink")。
+**飛迅**（），本名**邱佳萱**，出身[臺灣](../Page/臺灣.md "wikilink")[新竹縣](../Page/新竹縣.md "wikilink")[竹北市](../Page/竹北市.md "wikilink")。是一名[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[主持人](https://zh.wikipedia.org/wiki/主持人 "wikilink")、[女演員](https://zh.wikipedia.org/wiki/女演員 "wikilink")。畢業於[大葉大學](../Page/大葉大學.md "wikilink")傳播藝術系。父親為新竹地方幫派幫主。獨特的風格，曾被多個國際知名品牌分享穿搭，因而參與許多饒舌歌手的MV演出。現為《[食尚玩家](../Page/食尚玩家.md "wikilink")》FB粉專直播主持人。大學時期參與《[大學生了沒](../Page/大學生了沒.md "wikilink")》成為固定班底，因服裝配色鮮明亮眼，被節目製作人取名為「飛迅」，並以此節目聞名。此外，自然不做作的表現讓人印象深刻，後來也成為《[同學！搞什麼鬼](https://zh.wikipedia.org/wiki/同學！搞什麼鬼 "wikilink")》固定班底、《[上班這黨事](../Page/上班這黨事.md "wikilink")》黨團，擁有許多忠實粉絲。熱衷於公益活動的她，同時是[呼嚕嚕愛心市集主辦人](https://zh.wikipedia.org/wiki/呼嚕嚕愛心市集 "wikilink")。
 
 ## 影視作品
 
 ### 電視節目通告
 
-  - [大學生了沒](../Page/大學生了沒.md "wikilink") 固定班底
-    ([中天綜合台](../Page/中天綜合台.md "wikilink"))
-  - [同學！搞什麼鬼](https://zh.wikipedia.org/wiki/同學！搞什麼鬼 "wikilink") 固定班底
-    ([八大綜合台](../Page/八大綜合台.md "wikilink"))
-  - [上班這檔事](https://zh.wikipedia.org/wiki/上班這檔事 "wikilink") 黨團
-    ([TVBS歡樂台](../Page/TVBS歡樂台.md "wikilink"))
-  - [爸媽冏很大](https://zh.wikipedia.org/wiki/爸媽冏很大 "wikilink")
-    ([公共電視台](https://zh.wikipedia.org/wiki/公共電視台 "wikilink"))
-  - [超愛美小姐](https://zh.wikipedia.org/wiki/超愛美小姐 "wikilink")
-    ([三立都會台or](../Page/三立都會台.md "wikilink")[MTV娛樂台](https://zh.wikipedia.org/wiki/MTV娛樂台 "wikilink"))
-  - [小明星大跟班](../Page/小明星大跟班.md "wikilink")
-    ([中天綜合台or](../Page/中天綜合台.md "wikilink")[中天娛樂台](../Page/中天娛樂台.md "wikilink"))
-  - [30卡卡](https://zh.wikipedia.org/wiki/30卡卡 "wikilink")
-    ([WinTV](../Page/WinTV.md "wikilink"))
-  - [麻辣天后傳](../Page/麻辣天后傳.md "wikilink")
-    ([中天綜合台](../Page/中天綜合台.md "wikilink"))
-  - [來自星星的事](../Page/來自星星的事.md "wikilink")
-    ([緯來綜合台](../Page/緯來綜合台.md "wikilink"))
+  - [大學生了沒](../Page/大學生了沒.md "wikilink") 固定班底 ([中天綜合台](../Page/中天綜合台.md "wikilink"))
+  - [同學！搞什麼鬼](https://zh.wikipedia.org/wiki/同學！搞什麼鬼 "wikilink") 固定班底 ([八大綜合台](../Page/八大綜合台.md "wikilink"))
+  - [上班這檔事](https://zh.wikipedia.org/wiki/上班這檔事 "wikilink") 黨團 ([TVBS歡樂台](../Page/TVBS歡樂台.md "wikilink"))
+  - [爸媽冏很大](https://zh.wikipedia.org/wiki/爸媽冏很大 "wikilink") ([公共電視台](https://zh.wikipedia.org/wiki/公共電視台 "wikilink"))
+  - [超愛美小姐](https://zh.wikipedia.org/wiki/超愛美小姐 "wikilink") ([三立都會台](../Page/三立都會台.md "wikilink")or[MTV娛樂台](https://zh.wikipedia.org/wiki/MTV娛樂台 "wikilink"))
+  - [小明星大跟班](../Page/小明星大跟班.md "wikilink") ([中天綜合台](../Page/中天綜合台.md "wikilink")or[中天娛樂台](../Page/中天娛樂台.md "wikilink"))
+  - [30卡卡](https://zh.wikipedia.org/wiki/30卡卡 "wikilink") ([WinTV](../Page/WinTV.md "wikilink"))
+  - [麻辣天后傳](../Page/麻辣天后傳.md "wikilink") ([中天綜合台](../Page/中天綜合台.md "wikilink"))
+  - [來自星星的事](../Page/來自星星的事.md "wikilink") ([緯來綜合台](../Page/緯來綜合台.md "wikilink"))
 
 ### 網路節目通告
 
@@ -35,9 +26,9 @@
 | 年份   | 節目名稱                                                        | 播出頻道        |
 | ---- | ----------------------------------------------------------- | ----------- |
 | 2017 | [飛迅の異想世界](https://zh.wikipedia.org/wiki/飛迅の異想世界 "wikilink") | 個人Youtube頻道 |
-| 2018 | [食尚玩家不推怎麼行](../Page/食尚玩家.md "wikilink")                     | 食尚玩家FB粉專    |
-| 2018 | [食尚玩家吃客聯盟](../Page/食尚玩家.md "wikilink")                      | 食尚玩家FB粉專    |
-| 2018 | [女人我最大小姐有事嗎](../Page/女人我最大.md "wikilink")                   | 女人我最大FB粉專   |
+| 2018 | [食尚玩家](../Page/食尚玩家.md "wikilink")不推怎麼行                     | 食尚玩家FB粉專    |
+| 2018 | [食尚玩家](../Page/食尚玩家.md "wikilink")吃客聯盟                      | 食尚玩家FB粉專    |
+| 2018 | [女人我最大](../Page/女人我最大.md "wikilink")小姐有事嗎                   | 女人我最大FB粉專   |
 | 2018 | [下午茶星聞](https://zh.wikipedia.org/wiki/下午茶星聞 "wikilink")     | 下午茶星聞FB粉專   |
 
 ### 音樂錄影帶
@@ -107,10 +98,6 @@
 
   -
   -
-\[\[Category:新竹人|H\]\] \[\[Category:邱姓|Category:邱姓\]\]
-\[\[Category:台灣主持人|Category:台灣主持人\]\]
-\[\[Category:台灣女演員|Category:台灣女演員\]\]
-\[\[Category:台灣電視女演員|Category:台灣電視女演員\]\]
-\[\[Category:台灣綜藝界人物|Category:台灣綜藝界人物\]\]
+\[\[Category:新竹人|H\]\] \[\[Category:邱姓|Category:邱姓\]\] \[\[Category:台灣主持人|Category:台灣主持人\]\] \[\[Category:台灣女演員|Category:台灣女演員\]\] \[\[Category:台灣電視女演員|Category:台灣電視女演員\]\] \[\[Category:台灣綜藝界人物|Category:台灣綜藝界人物\]\]
 
 ## 參考資料

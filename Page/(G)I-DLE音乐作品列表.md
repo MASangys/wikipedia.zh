@@ -1,4 +1,4 @@
-**(G)I-DLE音乐作品列表**主要记载韩国女子音乐组合[(G)I-DLE团体及成员发行的音乐作品](../Page/\(G\)I-DLE.md "wikilink")。迄今为止，团体共发行了2首单曲、2张迷你专辑，成员小娟发行了2首单曲。
+**(G)I-DLE音乐作品列表**主要记载韩国女子音乐组合[(G)I-DLE](../Page/\(G\)I-DLE.md "wikilink")团体及成员发行的音乐作品。迄今为止，团体共发行了2首单曲、2张迷你专辑，成员小娟发行了2首单曲。
 
 ## 韩语作品
 
@@ -188,18 +188,96 @@
 
 ### 其他歌曲
 
-| 发行日期        | 专辑名称/项目名称                                                                           | 歌曲名称            | 歌手                                                                                                                                                                                                              | 参与成员 |
-| ----------- | ----------------------------------------------------------------------------------- | --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
-| 2015年12月17日 | PRODUCE 101 - PICK ME                                                               | Pick Me\[10\]   | [PRODUCE 101](../Page/PRODUCE_101.md "wikilink")                                                                                                                                                                | 小娟   |
-| 2016年3月19日  | PRODUCE 101 - 35 Girls 5 Concepts\[11\]                                             | Don't Matter    | [华丽江山](https://zh.wikipedia.org/wiki/PRODUCE_101#第九集 "wikilink")                                                                                                                                                |      |
-| 2016年7月30日  | Unpretty Rapstar 3 Track 1\[12\]                                                    | She's Coming    | [Unpretty Rapstar 3](../Page/Unpretty_Rapstar_3.md "wikilink")                                                                                                                                                  |      |
-| 2016年8月20日  | Unpretty Rapstar 3 Track 3\[13\]                                                    | 可怕              | [NADA](https://zh.wikipedia.org/wiki/尹礼珍 "wikilink")、[田小娟](https://zh.wikipedia.org/wiki/田小娟 "wikilink")                                                                                                        |      |
-| 2016年9月17日  | Unpretty Rapstar 3 第一场公演\[14\]                                                      | 小朋友的一天          | [田小娟](https://zh.wikipedia.org/wiki/田小娟 "wikilink")(feat.Superbee)                                                                                                                                              |      |
-| 2016年9月24日  | Unpretty Rapstar 3 第一场公演 & 半决赛\[15\]                                                | 笑吧              | [田小娟](https://zh.wikipedia.org/wiki/田小娟 "wikilink")(feat.DAVII)                                                                                                                                                 |      |
-| 2018年9月28日  | [STATION X 0](https://zh.wikipedia.org/wiki/SM_STATION#第三季「STATION_X_0」 "wikilink") | Wow Thing\[16\] | [康瑟琪](https://zh.wikipedia.org/wiki/康瑟琪 "wikilink")、[黄恩妃](https://zh.wikipedia.org/wiki/黄恩妃 "wikilink")、[金请夏](https://zh.wikipedia.org/wiki/金请夏 "wikilink")、[田小娟](https://zh.wikipedia.org/wiki/田小娟 "wikilink") |      |
-| 2019年1月15日  | Hutazone\[17\]                                                                      | 你也是？我也是！        | [李旼赫](../Page/李旼赫.md "wikilink")(feat.[田小娟](https://zh.wikipedia.org/wiki/田小娟 "wikilink"))                                                                                                                      |      |
-| 2019年3月4日   | I Wanna Be正规一辑Repackage\[18\]                                                       | I Wanna Be      | [金起范](https://zh.wikipedia.org/wiki/Key_\(歌手\) "wikilink")(feat.[田小娟](https://zh.wikipedia.org/wiki/田小娟 "wikilink"))                                                                                            |      |
-| 2019年6月8日   | /                                                                                   | The loveless    | [田小娟](https://zh.wikipedia.org/wiki/田小娟 "wikilink")                                                                                                                                                             |      |
+<table>
+<thead>
+<tr class="header">
+<th><p>发行日期</p></th>
+<th><p>专辑名称/项目名称</p></th>
+<th><p>歌曲名称</p></th>
+<th><p>歌手</p></th>
+<th><p>参与成员</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2015年12月17日</p></td>
+<td><p>PRODUCE 101 - PICK ME</p></td>
+<td><p>Pick Me[10]</p></td>
+<td><p><a href="../Page/PRODUCE_101.md" title="wikilink">PRODUCE 101</a></p></td>
+<td><p>小娟</p></td>
+</tr>
+<tr class="even">
+<td><p>2016年3月19日</p></td>
+<td><p>PRODUCE 101 - 35 Girls 5 Concepts[11]</p></td>
+<td><p>Don't Matter</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/PRODUCE_101#第九集" title="wikilink">华丽江山</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2016年7月30日</p></td>
+<td><p>Unpretty Rapstar 3 Track 1[12]</p></td>
+<td><p>She's Coming</p></td>
+<td><p><a href="../Page/Unpretty_Rapstar_3.md" title="wikilink">Unpretty Rapstar 3</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2016年8月20日</p></td>
+<td><p>Unpretty Rapstar 3 Track 3[13]</p></td>
+<td><p>可怕</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/尹礼珍" title="wikilink">NADA</a>、<a href="https://zh.wikipedia.org/wiki/田小娟" title="wikilink">田小娟</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2016年9月17日</p></td>
+<td><p>Unpretty Rapstar 3 第一场公演[14]</p></td>
+<td><p>小朋友的一天</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/田小娟" title="wikilink">田小娟</a>(feat.Superbee)</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2016年9月24日</p></td>
+<td><p>Unpretty Rapstar 3 第一场公演 &amp; 半决赛[15]</p></td>
+<td><p>笑吧</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/田小娟" title="wikilink">田小娟</a>(feat.DAVII)</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2018年9月28日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SM_STATION#第三季「STATION_X_0」" title="wikilink">STATION X 0</a></p></td>
+<td><p>Wow Thing[16]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/康瑟琪" title="wikilink">康瑟琪</a>、<a href="https://zh.wikipedia.org/wiki/黄恩妃" title="wikilink">黄恩妃</a>、<a href="https://zh.wikipedia.org/wiki/金请夏" title="wikilink">金请夏</a>、<a href="https://zh.wikipedia.org/wiki/田小娟" title="wikilink">田小娟</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年1月15日</p></td>
+<td><p>Hutazone[17]</p></td>
+<td><p>你也是？我也是！</p></td>
+<td><p><a href="../Page/李旼赫.md" title="wikilink">李旼赫</a>(feat.<a href="https://zh.wikipedia.org/wiki/田小娟" title="wikilink">田小娟</a>)</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年3月4日</p></td>
+<td><p>I Wanna Be正规一辑Repackage[18]</p></td>
+<td><p>I Wanna Be</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Key_(歌手)" title="wikilink">金起范</a>(feat.<a href="https://zh.wikipedia.org/wiki/田小娟" title="wikilink">田小娟</a>)</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年6月8日</p></td>
+<td><p>/</p></td>
+<td><p>The loveless</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/田小娟" title="wikilink">田小娟</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年7月9日</p></td>
+<td><p>/</p></td>
+<td><p>Cart[19]</p></td>
+<td><p>、<a href="../Page/赵美延.md" title="wikilink">赵美延</a></p></td>
+<td><p>美延</p></td>
+</tr>
+</tbody>
+</table>
 
 ## 日语作品
 
@@ -216,7 +294,7 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>1st</strong></p></td>
-<td><p><strong>《<a href="https://zh.wikipedia.org/wiki/LATATA_（日语专辑）" title="wikilink">LATATA</a>》</strong>[19]</p>
+<td><p><strong>《<a href="https://zh.wikipedia.org/wiki/LATATA_（日语专辑）" title="wikilink">LATATA</a>》</strong>[20]</p>
 <ul>
 <li>发行日期：2019年7月31日</li>
 <li>语言：日语</li>
@@ -244,11 +322,18 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>2019年4月22日</p></td>
-<td><p>综艺《奔跑吧》主题曲</p></td>
-<td><p>造亿万吨光芒[20]</p></td>
+<td><p>2019年6月28日</p></td>
+<td><p>奔跑吧 第三季[21]</p></td>
+<td><p>造亿万吨光芒</p></td>
 <td></td>
 <td><p>雨琦</p></td>
+</tr>
+<tr class="even">
+<td><p>芭啦芭啦樱之花 (Live)</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -257,13 +342,13 @@
 
 | 发行日期                              | 专辑名称/项目名称                                   | 歌曲名称                                                                  | 歌手                                                                                                        | 参与成员   |
 | --------------------------------- | ------------------------------------------- | --------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ------ |
-| 2017年11月13日                       | Dance Party\!(English Ver.)-Kids song\[21\] | Hot Summer                                                            | [LINE FRIENDS](https://zh.wikipedia.org/wiki/连我 "wikilink")(Feat. [Minnie](../Page/Minnie.md "wikilink")) | Minnie |
+| 2017年11月13日                       | Dance Party\!(English Ver.)-Kids song\[22\] | Hot Summer                                                            | [LINE FRIENDS](https://zh.wikipedia.org/wiki/连我 "wikilink")(Feat. [Minnie](../Page/Minnie.md "wikilink")) | Minnie |
 | Morning Sunrise                   |                                             |                                                                       |                                                                                                           |        |
 | Dinosaur Song (Herbivore Ver.)    |                                             |                                                                       |                                                                                                           |        |
 | The Brush Brush Song              |                                             |                                                                       |                                                                                                           |        |
 | Oats, Peas, Beans and Barley Grow |                                             |                                                                       |                                                                                                           |        |
 | Clap Concert                      |                                             |                                                                       |                                                                                                           |        |
-| 2018年11月3日                        | K/DA                                        | [POP/STARS](https://zh.wikipedia.org/wiki/POP/STARS "wikilink")\[22\] | [Madison Beer](https://zh.wikipedia.org/wiki/麦迪逊·比尔 "wikilink")、(G)I-DLE、                                 | 美延、小娟  |
+| 2018年11月3日                        | K/DA                                        | [POP/STARS](https://zh.wikipedia.org/wiki/POP/STARS "wikilink")\[23\] | [Madison Beer](https://zh.wikipedia.org/wiki/麦迪逊·比尔 "wikilink")、(G)I-DLE、                                 | 美延、小娟  |
 
 ## 创作作品
 
@@ -517,62 +602,28 @@ Minnie（민니）在韩国音乐著作权家协会登记编号为[10022029](htt
 
 {{(G)I-DLE}}
 
-[Category:Cube娛樂](https://zh.wikipedia.org/wiki/Category:Cube娛樂 "wikilink")
-[Category:(G)I-DLE](https://zh.wikipedia.org/wiki/Category:\(G\)I-DLE "wikilink")
-[Category:作品列表](https://zh.wikipedia.org/wiki/Category:作品列表 "wikilink")
+[Category:Cube娛樂](https://zh.wikipedia.org/wiki/Category:Cube娛樂 "wikilink") [Category:(G)I-DLE](https://zh.wikipedia.org/wiki/Category:\(G\)I-DLE "wikilink") [Category:作品列表](https://zh.wikipedia.org/wiki/Category:作品列表 "wikilink")
 
-1.  [한(一)](https://www.melon.com/album/detail.htm?albumId=10194362).
-    Melon. August 14, 2018.
-2.  [Uh-Oh](https://www.melon.com/album/detail.htm?albumId=10300342).
-    Melon. June 26, 2019.
-3.  [I am](https://www.melon.com/album/detail.htm?albumId=10163578).
-    Melon. May 2, 2018.
-4.  [I made](https://www.melon.com/album/detail.htm?albumId=10255272).
-    Melon. February 26, 2019.
-5.  [Jelly](https://www.melon.com/album/detail.htm?albumId=10108914).
-    Melon. November 5, 2017.
-6.  [아이들 쏭](https://www.melon.com/album/detail.htm?albumId=10143163).
-    Melon. February 28, 2018.
-7.  [One](https://www.melon.com/album/detail.htm?albumId=10176463).
-    Melon. June 17, 2018.
-8.  [달려\!
-    (Relay)](https://www.melon.com/album/detail.htm?albumId=10223447).
-    Melon. November 19, 2018.
-9.  [그녀의 사생활 OST
-    Part 1](https://www.melon.com/album/detail.htm?albumId=10272961).
-    Melon. April 11, 2019.
-10. [PRODUCE 101 - PICK
-    ME](https://www.melon.com/album/detail.htm?albumId=2657476). Melon.
-    December 17, 2015.
-11. [PRODUCE 101 - 35 Girls 5
-    Concepts](https://www.melon.com/album/detail.htm?albumId=2674195).
-    Melon. March 19, 2016.
-12. [언프리티 랩스타 3
-    Track 1](https://www.melon.com/album/detail.htm?albumId=2701070).
-    Melon. July 30, 2016.
-13. [언프리티 랩스타 3
-    Track 3](https://www.melon.com/album/detail.htm?albumId=2705521).
-    Melon. August 20, 2016.
-14. [언프리티 랩스타 3 1차
-    공연](https://www.melon.com/album/detail.htm?albumId=2711208).
-    Melon. September 17, 2016.
-15. [언프리티 랩스타 3 1차 공연 & SEMI
-    FINAL](https://www.melon.com/album/detail.htm?albumId=10000804).
-    Melon. September 24, 2016.
-16. [Wow
-    Thing](https://www.melon.com/album/detail.htm?albumId=10207849).
-    Melon. September 28, 2018.
-17. [HUTAZONE](https://www.melon.com/album/detail.htm?albumId=10242529).
-    Melon. January 15, 2019.
-18. [I Wanna Be - The 1st Album
-    Repackage](https://www.melon.com/album/detail.htm?albumId=10256412).
-    Melon. March 4, 2019.
-19. [LATATA](https://sp.universal-music.co.jp/g-i-dle/latata/). 日本环球音乐.
-    July 31, 2019.
-20. [造亿万吨光芒](https://y.qq.com/n/yqq/album/004AkYC83vY8To.html). 腾讯音乐.
-    April 22, 2019.
-21. [Dance Party\! - 어린이
-    영어동요](http://www.melon.com/album/detail.htm?albumId=10110671).
-    Melon. November 13, 2017.
-22. [POP/STARS](https://www.melon.com/album/detail.htm?albumId=10218827).
-    Melon. November 4, 2018.
+1.  [한(一)](https://www.melon.com/album/detail.htm?albumId=10194362). Melon. August 14, 2018.
+2.  [Uh-Oh](https://www.melon.com/album/detail.htm?albumId=10300342). Melon. June 26, 2019.
+3.  [I am](https://www.melon.com/album/detail.htm?albumId=10163578). Melon. May 2, 2018.
+4.  [I made](https://www.melon.com/album/detail.htm?albumId=10255272). Melon. February 26, 2019.
+5.  [Jelly](https://www.melon.com/album/detail.htm?albumId=10108914). Melon. November 5, 2017.
+6.  [아이들 쏭](https://www.melon.com/album/detail.htm?albumId=10143163). Melon. February 28, 2018.
+7.  [One](https://www.melon.com/album/detail.htm?albumId=10176463). Melon. June 17, 2018.
+8.  [달려\! (Relay)](https://www.melon.com/album/detail.htm?albumId=10223447). Melon. November 19, 2018.
+9.  [그녀의 사생활 OST Part 1](https://www.melon.com/album/detail.htm?albumId=10272961). Melon. April 11, 2019.
+10. [PRODUCE 101 - PICK ME](https://www.melon.com/album/detail.htm?albumId=2657476). Melon. December 17, 2015.
+11. [PRODUCE 101 - 35 Girls 5 Concepts](https://www.melon.com/album/detail.htm?albumId=2674195). Melon. March 19, 2016.
+12. [언프리티 랩스타 3 Track 1](https://www.melon.com/album/detail.htm?albumId=2701070). Melon. July 30, 2016.
+13. [언프리티 랩스타 3 Track 3](https://www.melon.com/album/detail.htm?albumId=2705521). Melon. August 20, 2016.
+14. [언프리티 랩스타 3 1차 공연](https://www.melon.com/album/detail.htm?albumId=2711208). Melon. September 17, 2016.
+15. [언프리티 랩스타 3 1차 공연 & SEMI FINAL](https://www.melon.com/album/detail.htm?albumId=10000804). Melon. September 24, 2016.
+16. [Wow Thing](https://www.melon.com/album/detail.htm?albumId=10207849). Melon. September 28, 2018.
+17. [HUTAZONE](https://www.melon.com/album/detail.htm?albumId=10242529). Melon. January 15, 2019.
+18. [I Wanna Be - The 1st Album Repackage](https://www.melon.com/album/detail.htm?albumId=10256412). Melon. March 4, 2019.
+19. [Cart](https://www.melon.com/album/detail.htm?albumId=10305032). Melon. July 9, 2019.
+20. [LATATA](https://sp.universal-music.co.jp/g-i-dle/latata/). 日本环球音乐. July 31, 2019.
+21. [奔跑吧 第三季](https://y.qq.com/n/yqq/album/004AkYC83vY8To.html). 腾讯音乐. June 28, 2019.
+22. [Dance Party\! - 어린이 영어동요](http://www.melon.com/album/detail.htm?albumId=10110671). Melon. November 13, 2017.
+23. [POP/STARS](https://www.melon.com/album/detail.htm?albumId=10218827). Melon. November 4, 2018.

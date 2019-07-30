@@ -1,4 +1,4 @@
-是日本ARES有限公司（）的[成人遊戲品牌](../Page/日本成人遊戲.md "wikilink")。2001年由[同人遊戲社團](../Page/同人遊戲.md "wikilink")「兔子俱樂部」（）成立公司，2002年開始發售商業作品。\[1\]2008年公開自製[遊戲引擎](https://zh.wikipedia.org/wiki/遊戲引擎 "wikilink")「CatSystem2」。
+是日本ARES有限公司（）的[成人遊戲品牌](../Page/日本成人遊戲.md "wikilink")。2001年由[同人遊戲](../Page/同人遊戲.md "wikilink")社團「兔子俱樂部」（）成立公司，2002年開始發售商業作品。\[1\]2008年公開自製[遊戲引擎](https://zh.wikipedia.org/wiki/遊戲引擎 "wikilink")「CatSystem2」。
 
 ## 作品列表
 
@@ -23,16 +23,13 @@
 ### ういんどみるOasis
 
   - 2006年7月28日 - [はぴねす\! りらっくす](../Page/Happiness!.md "wikilink")
-  - 2009年1月30日 - [祝福のカンパネラ -la campanella della
-    benedizione-](https://zh.wikipedia.org/wiki/祝福的鐘聲 "wikilink")
-  - 2010年10月29日 - [祝祭のカンパネラ！ -la campanella di
-    festività-](https://zh.wikipedia.org/wiki/祝福的鐘聲 "wikilink")
+  - 2009年1月30日 - [祝福のカンパネラ -la campanella della benedizione-](https://zh.wikipedia.org/wiki/祝福的鐘聲 "wikilink")
+  - 2010年10月29日 - [祝祭のカンパネラ！ -la campanella di festività-](https://zh.wikipedia.org/wiki/祝福的鐘聲 "wikilink")
   - 2012年11月30日 - ウィッチズガーデン
   - 2014年5月30日 - はぴねす\! えもーしょん
   - 2014年11月28日 - 春風センセーション\!
   - 2016年4月28日 - [ウィザーズコンプレックス](../Page/Wizards_Complex.md "wikilink")
-  - 2019年2月22日 - [はぴねす\!2 Sakura
-    Celebration](../Page/Happiness!2_Sakura_Celebration.md "wikilink")
+  - 2019年2月22日 - [はぴねす\!2 Sakura Celebration](../Page/Happiness!2_Sakura_Celebration.md "wikilink")
 
 ## 參考來源
 
@@ -42,9 +39,7 @@
 
   -
   -
-[Category:日本成人遊戲公司](https://zh.wikipedia.org/wiki/Category:日本成人遊戲公司 "wikilink")
-[Category:2001年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2001年開業電子遊戲公司 "wikilink")
-[Category:豐島區公司](https://zh.wikipedia.org/wiki/Category:豐島區公司 "wikilink")
+[Category:日本成人遊戲公司](https://zh.wikipedia.org/wiki/Category:日本成人遊戲公司 "wikilink") [Category:2001年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2001年開業電子遊戲公司 "wikilink") [Category:豐島區公司](https://zh.wikipedia.org/wiki/Category:豐島區公司 "wikilink")
 
 1.
 2.

@@ -1,5 +1,4 @@
-**UMB世界三顆星國家隊錦標賽**（UMB World Three-cushion Championship for National
-Teams），是一個[開侖撞球職業錦標賽](../Page/開侖.md "wikilink")，採取[三顆星賽制](../Page/三顆星.md "wikilink")，由兩名選手組成國家隊。前三屆的比賽地點與時間並未固定，其後[世界撞球聯盟](../Page/世界撞球聯盟.md "wikilink")（UMB）決定改為每年一次，並且固定在[德國的](https://zh.wikipedia.org/wiki/德國 "wikilink")[菲爾森舉辦](../Page/菲爾森.md "wikilink")。
+**UMB世界三顆星國家隊錦標賽**（UMB World Three-cushion Championship for National Teams），是一個[開侖](../Page/開侖.md "wikilink")撞球職業錦標賽，採取[三顆星](../Page/三顆星.md "wikilink")賽制，由兩名選手組成國家隊。前三屆的比賽地點與時間並未固定，其後[世界撞球聯盟](../Page/世界撞球聯盟.md "wikilink")（UMB）決定改為每年一次，並且固定在[德國的](https://zh.wikipedia.org/wiki/德國 "wikilink")[菲爾森](../Page/菲爾森.md "wikilink")舉辦。
 
 ## 各屆優勝名單
 
@@ -674,5 +673,4 @@ Teams），是一個[開侖撞球職業錦標賽](../Page/開侖.md "wikilink")�
 
   - [官網](http://viersen.billiard-worldchampionship.org/)
 
-[Category:1981年建立的週期性體育事件](https://zh.wikipedia.org/wiki/Category:1981年建立的週期性體育事件 "wikilink")
-[Category:開侖撞球](https://zh.wikipedia.org/wiki/Category:開侖撞球 "wikilink")
+[Category:1981年建立的週期性體育事件](https://zh.wikipedia.org/wiki/Category:1981年建立的週期性體育事件 "wikilink") [Category:開侖撞球](https://zh.wikipedia.org/wiki/Category:開侖撞球 "wikilink")

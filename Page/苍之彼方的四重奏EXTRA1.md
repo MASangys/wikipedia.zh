@@ -1,5 +1,4 @@
-是由[sprite於](https://zh.wikipedia.org/wiki/sprite_\(遊戲品牌\) "wikilink")2017年6月30日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")
-\[1\]，《[蒼之彼方的四重奏](../Page/蒼之彼方的四重奏.md "wikilink")》的衍生作品。本作沿用前作的世界观和设定，以前作有坂真白的路线来展开，讲述了有坂真白和日向晶也的恋爱日常。
+是由[sprite於](https://zh.wikipedia.org/wiki/sprite_\(遊戲品牌\) "wikilink")2017年6月30日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink") \[1\]，《[蒼之彼方的四重奏](../Page/蒼之彼方的四重奏.md "wikilink")》的衍生作品。本作沿用前作的世界观和设定，以前作有坂真白的路线来展开，讲述了有坂真白和日向晶也的恋爱日常。2019年6月，HIKARI FIELD与NekoNyan联合宣布，将制作本作的中英文版合集。
 
 ## 故事介绍
 
@@ -56,8 +55,6 @@
 
   - [官方網站](http://aokana.net/extra1/)
 
-[Category:2017年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2017年日本成人遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
+[Category:2017年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2017年日本成人遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
 
 1.

@@ -1,4 +1,4 @@
-《**Co-Living同居時代**》（），是[隨身遊戲股份有限公司製作播出的網路](https://zh.wikipedia.org/wiki/隨身遊戲股份有限公司 "wikilink")[實境節目](https://zh.wikipedia.org/wiki/實境節目 "wikilink")，由[苗可麗](../Page/苗可麗.md "wikilink")、[許孟哲](../Page/許孟哲.md "wikilink")、[阿民](../Page/安安边缘子.md "wikilink")、[阿憲領銜主持](../Page/安安边缘子.md "wikilink")。節目由6位不同年齡層及不同生活圈的男女青年（石嘉睿、陳韋安、洪立成、林雅群、洪思語、-{R|袁子筑}-），一同住在一個屋簷下，激盪出不一樣的火花。\[1\][麥卡貝網路電視於](../Page/麥卡貝網路電視.md "wikilink")2019年3月11日首播。
+《**Co-Living同居時代**》（），是[隨身遊戲股份有限公司製作播出的網路](https://zh.wikipedia.org/wiki/隨身遊戲股份有限公司 "wikilink")[實境節目](https://zh.wikipedia.org/wiki/實境節目 "wikilink")，由[苗可麗](../Page/苗可麗.md "wikilink")、[許孟哲](../Page/許孟哲.md "wikilink")、[阿民](../Page/安安边缘子.md "wikilink")、[阿憲領銜主持](../Page/安安边缘子.md "wikilink")。節目由6位不同年齡層及不同生活圈的男女青年（石嘉睿、陳韋安、洪立成、林雅群、洪思語、-{R|袁子筑}-），一同住在一個屋簷下，激盪出不一樣的火花。\[1\][麥卡貝網路電視](../Page/麥卡貝網路電視.md "wikilink")於2019年3月11日首播。
 
 ## 播出時間
 
@@ -77,7 +77,7 @@
 | 2019年3月25日 | EP3                                                         | [阿民](https://zh.wikipedia.org/wiki/安安邊緣子 "wikilink")、[阿憲](https://zh.wikipedia.org/wiki/安安邊緣子 "wikilink")、六位小夥伴                                                                   |
 | 2019年4月1日  | EP4                                                         | [阿民](https://zh.wikipedia.org/wiki/安安邊緣子 "wikilink")、[阿憲](https://zh.wikipedia.org/wiki/安安邊緣子 "wikilink")、六位小夥伴                                                                   |
 | 2019年4月8日  | EP5                                                         | [阿民](https://zh.wikipedia.org/wiki/安安邊緣子 "wikilink")、[阿憲](https://zh.wikipedia.org/wiki/安安邊緣子 "wikilink")                                                                         |
-| 2019年4月15日 | [丘與樂現場演唱](../Page/丘與樂.md "wikilink")、花絮（洗碗&垃圾分組篇、人類圖、皇上的眼淚） | [阿民](https://zh.wikipedia.org/wiki/安安邊緣子 "wikilink")、[阿憲](https://zh.wikipedia.org/wiki/安安邊緣子 "wikilink")、六位小夥伴                                                                   |
+| 2019年4月15日 | [丘與樂](../Page/丘與樂.md "wikilink")現場演唱、花絮（洗碗&垃圾分組篇、人類圖、皇上的眼淚） | [阿民](https://zh.wikipedia.org/wiki/安安邊緣子 "wikilink")、[阿憲](https://zh.wikipedia.org/wiki/安安邊緣子 "wikilink")、六位小夥伴                                                                   |
 | 2019年4月22日 | EP6                                                         | [阿民](https://zh.wikipedia.org/wiki/安安邊緣子 "wikilink")、[阿憲](https://zh.wikipedia.org/wiki/安安邊緣子 "wikilink")、六位小夥伴                                                                   |
 | 2019年4月29日 | EP7、花絮（摩爾空間尋寶）                                              | [阿民](https://zh.wikipedia.org/wiki/安安邊緣子 "wikilink")、[阿憲](https://zh.wikipedia.org/wiki/安安邊緣子 "wikilink")、六位小夥伴                                                                   |
 | 2019年5月6日  | EP8、零食塔抖內、花絮（兒童樂園）                                          | [阿民](https://zh.wikipedia.org/wiki/安安邊緣子 "wikilink")、[阿憲](https://zh.wikipedia.org/wiki/安安邊緣子 "wikilink")、六位小夥伴                                                                   |
@@ -100,10 +100,6 @@
   -
   -
   -
-[Category:台灣綜藝節目](https://zh.wikipedia.org/wiki/Category:台灣綜藝節目 "wikilink")
-[Category:台灣實境節目](https://zh.wikipedia.org/wiki/Category:台灣實境節目 "wikilink")
-[Category:網路節目](https://zh.wikipedia.org/wiki/Category:網路節目 "wikilink")
-[Category:YouTube頻道](https://zh.wikipedia.org/wiki/Category:YouTube頻道 "wikilink")
-[Category:台視外購電視節目](https://zh.wikipedia.org/wiki/Category:台視外購電視節目 "wikilink")
+[Category:台灣綜藝節目](https://zh.wikipedia.org/wiki/Category:台灣綜藝節目 "wikilink") [Category:台灣實境節目](https://zh.wikipedia.org/wiki/Category:台灣實境節目 "wikilink") [Category:網路節目](https://zh.wikipedia.org/wiki/Category:網路節目 "wikilink") [Category:YouTube頻道](https://zh.wikipedia.org/wiki/Category:YouTube頻道 "wikilink") [Category:台視外購電視節目](https://zh.wikipedia.org/wiki/Category:台視外購電視節目 "wikilink")
 
 1.  [新實境秀節目《同居時代》新組合擦火花](https://www.ttv.com.tw/news/view/108030500030001/568)

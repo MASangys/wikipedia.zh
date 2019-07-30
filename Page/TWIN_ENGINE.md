@@ -1,18 +1,14 @@
-**株式會社TWIN
-ENGINE**（，）於2014年成立，是[日本一家負責企劃與宣傳的](../Page/日本.md "wikilink")[動畫製作公司](https://zh.wikipedia.org/wiki/動畫 "wikilink")。
+**株式會社TWIN ENGINE**（，）於2014年成立，是[日本](../Page/日本.md "wikilink")一家負責企劃與宣傳的[動畫製作公司](https://zh.wikipedia.org/wiki/動畫 "wikilink")。
 
 ## 沿革
 
-2014年10月1日，由[富士電視台深夜動畫時段](../Page/富士電視台.md "wikilink")「[noitaminA](https://zh.wikipedia.org/wiki/noitaminA "wikilink")」的前任編輯長從該電視台獨立、代表並成立TWIN
-ENGINE\[1\]\[2\]。
+2014年10月1日，由[富士電視台](../Page/富士電視台.md "wikilink")深夜動畫時段「[noitaminA](https://zh.wikipedia.org/wiki/noitaminA "wikilink")」的前任編輯長從該電視台獨立、代表並成立TWIN ENGINE\[1\]\[2\]。
 
-2015年9月初，電影動畫《[虐殺器官](../Page/虐殺器官.md "wikilink")》的製作包商[Manglobe歇業](../Page/Manglobe.md "wikilink")\[3\]，TWIN
-ENGINE繼承了該動畫製作的權利。同年11月19日，TWIN ENGINE成立子公司專門承包動畫的實質製作\[4\]。
+2015年9月初，電影動畫《[虐殺器官](../Page/虐殺器官.md "wikilink")》的製作包商[Manglobe](../Page/Manglobe.md "wikilink")歇業\[3\]，TWIN ENGINE繼承了該動畫製作的權利。同年11月19日，TWIN ENGINE成立子公司專門承包動畫的實質製作\[4\]。
 
 2016年4月7日，負責動畫宣傳的子公司株式會社RELATION成立，從此與株式會社CULTURE、EXZWAL株式會社三家一起專門負責動畫宣傳的業務\[5\]。
 
-此外，TWIN
-ENGINE當初承包的是[富士電視台深夜動畫時段](../Page/富士電視台.md "wikilink")「noitaminA」的動畫作品，2018年以降負責企劃朝富士電視台製播之外的動畫拓展。
+此外，TWIN ENGINE當初承包的是[富士電視台](../Page/富士電視台.md "wikilink")深夜動畫時段「noitaminA」的動畫作品，2018年以降負責企劃朝富士電視台製播之外的動畫拓展。
 
 ## 作品列表
 
@@ -192,10 +188,7 @@ ENGINE當初承包的是[富士電視台深夜動畫時段](../Page/富士電視
 
   - [株式會社TWIN ENGINE公式官網](http://www.twinengine.jp/)
 
-[Category:動畫產業公司](https://zh.wikipedia.org/wiki/Category:動畫產業公司 "wikilink")
-[Category:新宿區公司](https://zh.wikipedia.org/wiki/Category:新宿區公司 "wikilink")
-[Category:2014年成立的公司](https://zh.wikipedia.org/wiki/Category:2014年成立的公司 "wikilink")
-[Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink")
+[Category:動畫產業公司](https://zh.wikipedia.org/wiki/Category:動畫產業公司 "wikilink") [Category:新宿區公司](https://zh.wikipedia.org/wiki/Category:新宿區公司 "wikilink") [Category:2014年成立的公司](https://zh.wikipedia.org/wiki/Category:2014年成立的公司 "wikilink") [Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink")
 
 1.
 2.

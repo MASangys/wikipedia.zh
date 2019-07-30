@@ -1,6 +1,4 @@
-local mHatnote = require('Module:Hatnote') local mHatlist =
-require('Module:Hatnote list') local mArguments --initialize lazily
-local mTableTools = require('Module:TableTools') local p = {}
+local mHatnote = require('Module:Hatnote') local mHatlist = require('Module:Hatnote list') local mArguments --initialize lazily local mTableTools = require('Module:TableTools') local p = {}
 
 function p.redirectDistinguish (frame)
 
@@ -50,5 +48,4 @@ end
 
 return p
 
-[Category:顶注重定向需要审阅的条目](https://zh.wikipedia.org/wiki/Category:顶注重定向需要审阅的条目 "wikilink")
-[Category:无效重定向](https://zh.wikipedia.org/wiki/Category:无效重定向 "wikilink")
+[Category:顶注重定向需要审阅的条目](https://zh.wikipedia.org/wiki/Category:顶注重定向需要审阅的条目 "wikilink") [Category:无效重定向](https://zh.wikipedia.org/wiki/Category:无效重定向 "wikilink")

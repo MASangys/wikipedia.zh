@@ -1,5 +1,4 @@
-**《WEEKEND－TIFFANY》**（），是[SM娛樂演唱會品牌系列](../Page/SM娛樂.md "wikilink")《[THE
-AGIT](../Page/THE_AGIT.md "wikilink")》系列演唱會，韓國女子組合[少女時代成員](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[Tiffany為該系列第六位藝人](https://zh.wikipedia.org/wiki/黃美英 "wikilink")，\[1\]亦是首場個人的演唱會。\[2\][SM娛樂](../Page/SM娛樂.md "wikilink")6月1號宣布將在6月24日至26日追加三場，共舉行6場演出。\[3\]\[4\]
+**《WEEKEND－TIFFANY》**（），是[SM娛樂](../Page/SM娛樂.md "wikilink")演唱會品牌系列《[THE AGIT](../Page/THE_AGIT.md "wikilink")》系列演唱會，韓國女子組合[少女時代成員](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[Tiffany為該系列第六位藝人](https://zh.wikipedia.org/wiki/黃美英 "wikilink")，\[1\]亦是首場個人的演唱會。\[2\][SM娛樂](../Page/SM娛樂.md "wikilink")6月1號宣布將在6月24日至26日追加三場，共舉行6場演出。\[3\]\[4\]
 
 ## 演出時間表
 
@@ -197,9 +196,7 @@ AGIT](../Page/THE_AGIT.md "wikilink")》系列演唱會，韓國女子組合[少
 
 <!-- end list -->
 
-  - [SM
-    Entertainment](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")、Dream
-    Maker Entertainment
+  - [SM Entertainment](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")、Dream Maker Entertainment
 
 <!-- end list -->
 
@@ -207,9 +204,7 @@ AGIT](../Page/THE_AGIT.md "wikilink")》系列演唱會，韓國女子組合[少
 
 <!-- end list -->
 
-  - [SM
-    Entertainment](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")、Dream
-    Maker Entertainment
+  - [SM Entertainment](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")、Dream Maker Entertainment
 
 <!-- end list -->
 
@@ -231,7 +226,7 @@ AGIT](../Page/THE_AGIT.md "wikilink")》系列演唱會，韓國女子組合[少
 6.  自創曲，未發行歌曲。
 7.  電影《[仙履奇緣](../Page/仙履奇緣_\(2015年電影\).md "wikilink")》OST
 8.  電影《[小美人魚](https://zh.wikipedia.org/wiki/小美人魚 "wikilink")》OST
-9.  [韓國觀光公社短劇](../Page/韓國觀光公社.md "wikilink")《一天》OST
+9.  [韓國觀光公社](../Page/韓國觀光公社.md "wikilink")短劇《一天》OST
 10. 電視劇《[Blood](../Page/Blood_\(電視劇\).md "wikilink")》OST
 11. 電視劇《[自鳴鼓](../Page/自鳴鼓.md "wikilink")》OST
 12. 原唱：[寶兒](../Page/寶兒.md "wikilink")

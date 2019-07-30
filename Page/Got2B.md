@@ -1,5 +1,4 @@
-**Got2B**（韓語：'''
-'''），是[韓國SW娛樂於](https://zh.wikipedia.org/wiki/韓國 "wikilink")2013年推出的四人男子[R\&B團體](https://zh.wikipedia.org/wiki/R&B "wikilink")，成員包括崔東明、方錫元、李尚元及盧尚元\[1\]\[2\]。因公司資源不足，團體於同年解散。
+**Got2B**（韓語：''' '''），是[韓國SW娛樂於](https://zh.wikipedia.org/wiki/韓國 "wikilink")2013年推出的四人男子[R\&B團體](https://zh.wikipedia.org/wiki/R&B "wikilink")，成員包括崔東明、方錫元、李尚元及盧尚元\[1\]\[2\]。因公司資源不足，團體於同年解散。
 
 ## 音樂作品
 
@@ -29,14 +28,7 @@
 
 ## 参考文章
 
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:2013年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2013年成立的音樂團體 "wikilink")
-[Category:已解散的男子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的男子演唱團體 "wikilink")
-[Category:2013年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2013年解散的音樂團體 "wikilink")
-[Category:2013年韓國建立](https://zh.wikipedia.org/wiki/Category:2013年韓國建立 "wikilink")
-[Category:2013年韓國廢除](https://zh.wikipedia.org/wiki/Category:2013年韓國廢除 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
+[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:2013年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2013年成立的音樂團體 "wikilink") [Category:已解散的男子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的男子演唱團體 "wikilink") [Category:2013年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2013年解散的音樂團體 "wikilink") [Category:2013年韓國建立](https://zh.wikipedia.org/wiki/Category:2013年韓國建立 "wikilink") [Category:2013年韓國廢除](https://zh.wikipedia.org/wiki/Category:2013年韓國廢除 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
 
 1.
 2.

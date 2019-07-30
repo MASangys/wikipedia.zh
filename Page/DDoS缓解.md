@@ -9,9 +9,7 @@ DDoS缓解的第一步是通过定义“流量模式”来识别网络流量的�
 
 ## 参考文献
 
-[Category:网络安全](https://zh.wikipedia.org/wiki/Category:网络安全 "wikilink")
-[Category:阻斷服務攻擊](https://zh.wikipedia.org/wiki/Category:阻斷服務攻擊 "wikilink")
-[Category:網絡戰](https://zh.wikipedia.org/wiki/Category:網絡戰 "wikilink")
+[Category:网络安全](https://zh.wikipedia.org/wiki/Category:网络安全 "wikilink") [Category:阻斷服務攻擊](https://zh.wikipedia.org/wiki/Category:阻斷服務攻擊 "wikilink") [Category:網絡戰](https://zh.wikipedia.org/wiki/Category:網絡戰 "wikilink")
 
 1.
 2.

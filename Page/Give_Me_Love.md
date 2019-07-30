@@ -1,6 +1,4 @@
-「**Give Me Love**」
-是[Hey\!Say\!JUMP的第](../Page/Hey!_Say!_JUMP.md "wikilink")18张[单曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2016年12月14日由[J
-Storm发售](../Page/J_Storm.md "wikilink")。
+「**Give Me Love**」 是[Hey\!Say\!JUMP的第](../Page/Hey!_Say!_JUMP.md "wikilink")18张[单曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2016年12月14日由[J Storm发售](../Page/J_Storm.md "wikilink")。
 
 ## 收錄曲
 
@@ -52,9 +50,6 @@ Storm发售](../Page/J_Storm.md "wikilink")。
 
 ## 外部链接
 
-1.  [Give Me Love - J
-    Storm](https://www.j-storm.co.jp/heysayjump/discography/give-me-love)
+1.  [Give Me Love - J Storm](https://www.j-storm.co.jp/heysayjump/discography/give-me-love)
 
-[Category:Hey\!_Say\!_JUMP歌曲](https://zh.wikipedia.org/wiki/Category:Hey!_Say!_JUMP歌曲 "wikilink")
-[Category:2016年單曲](https://zh.wikipedia.org/wiki/Category:2016年單曲 "wikilink")
-[Category:富士月九劇主題曲](https://zh.wikipedia.org/wiki/Category:富士月九劇主題曲 "wikilink")
+[Category:Hey\!_Say\!_JUMP歌曲](https://zh.wikipedia.org/wiki/Category:Hey!_Say!_JUMP歌曲 "wikilink") [Category:2016年單曲](https://zh.wikipedia.org/wiki/Category:2016年單曲 "wikilink") [Category:富士月九劇主題曲](https://zh.wikipedia.org/wiki/Category:富士月九劇主題曲 "wikilink")

@@ -2,7 +2,7 @@
 
 ## 制备
 
-将[五氯化磷溶解在](../Page/五氯化磷.md "wikilink")[三氯化砷中](../Page/三氯化砷.md "wikilink")，滴加[三氟化砷](../Page/三氟化砷.md "wikilink")，析出的白色晶体即为\[PCl<sub>4</sub>\]\[PF<sub>6</sub>\]。\[2\]
+将[五氯化磷](../Page/五氯化磷.md "wikilink")溶解在[三氯化砷](../Page/三氯化砷.md "wikilink")中，滴加[三氟化砷](../Page/三氟化砷.md "wikilink")，析出的白色晶体即为\[PCl<sub>4</sub>\]\[PF<sub>6</sub>\]。\[2\]
 
 ## 性质
 
@@ -10,9 +10,7 @@
 
 ## 参考文献
 
-[Category:卤化磷](https://zh.wikipedia.org/wiki/Category:卤化磷 "wikilink")
-[Category:六氟磷酸盐](https://zh.wikipedia.org/wiki/Category:六氟磷酸盐 "wikilink")
-[Category:氯化合物](https://zh.wikipedia.org/wiki/Category:氯化合物 "wikilink")
+[Category:卤化磷](https://zh.wikipedia.org/wiki/Category:卤化磷 "wikilink") [Category:六氟磷酸盐](https://zh.wikipedia.org/wiki/Category:六氟磷酸盐 "wikilink") [Category:氯化合物](https://zh.wikipedia.org/wiki/Category:氯化合物 "wikilink")
 
 1.
 
@@ -21,7 +19,4 @@
 
 4.
 5.
-6.  Kolditz, Lothar. Fluorine-​containing compounds of the fifth main
-    group. III. Tetrachlorophosphorus fluoride, PCl4F. *Zeitschrift fuer
-    Anorganische und Allgemeine Chemie*, 1956. 286: 307-316. ISSN:
-    0044-2313.
+6.  Kolditz, Lothar. Fluorine-​containing compounds of the fifth main group. III. Tetrachlorophosphorus fluoride, PCl4F. *Zeitschrift fuer Anorganische und Allgemeine Chemie*, 1956. 286: 307-316. ISSN: 0044-2313.

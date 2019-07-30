@@ -1,4 +1,4 @@
-**房东的猫**是一个中国的[民谣](https://zh.wikipedia.org/wiki/民間音樂 "wikilink")[音乐组合](https://zh.wikipedia.org/wiki/音乐组合 "wikilink")，由王心怡（红鼻子小黑）和吴佩玲（少年佩）分别担任主唱和吉他手。组合在王心凌和吴佩玲于[中南财经政法大学就学期间于](../Page/中南财经政法大学.md "wikilink")2013年成立。
+**房东的猫**是一个中国的[民谣](https://zh.wikipedia.org/wiki/民間音樂 "wikilink")[音乐组合](https://zh.wikipedia.org/wiki/音乐组合 "wikilink")，由王心怡（红鼻子小黑）和吴佩玲（少年佩）分别担任主唱和吉他手。组合在王心凌和吴佩玲于[中南财经政法大学](../Page/中南财经政法大学.md "wikilink")就学期间于2013年成立。
 
 ## 历史
 

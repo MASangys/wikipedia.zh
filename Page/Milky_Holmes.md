@@ -1,25 +1,14 @@
-**Milky
-Holmes**（）是[日本的一个女性](../Page/日本.md "wikilink")[声优组合](https://zh.wikipedia.org/wiki/声优组合 "wikilink")，所属经纪公司为[响](../Page/響_\(經紀公司\).md "wikilink")，唱片公司为[武士道音乐](../Page/武士道_\(公司\).md "wikilink")。
+**Milky Holmes**（）是[日本](../Page/日本.md "wikilink")的一个女性[声优组合](https://zh.wikipedia.org/wiki/声优组合 "wikilink")，所属经纪公司为[响](../Page/響_\(經紀公司\).md "wikilink")，唱片公司为[武士道音乐](../Page/武士道_\(公司\).md "wikilink")。
 
 ## 历史
 
-Milky Holmes为多媒体系列作品《[侦探歌剧
-少女福尔摩斯](../Page/侦探歌剧_少女福尔摩斯.md "wikilink")》中主要人物[声优组成的团体](https://zh.wikipedia.org/wiki/声优 "wikilink")\[1\]。一般认为该组合于2010年2月6日举办的《Bushiroad
-card game
-LIVE2010》时进行的公开试音上正式结成\[2\]，但早在2009年12月，夏洛克·雪莉福德的声优[三森铃子](../Page/三森铃子.md "wikilink")、让崎妮洛的声优[德井青空和柯蒂妮娅](../Page/德井青空.md "wikilink")·格拉卡的声优[橘田泉就已经开始主持网络广播节目](../Page/橘田泉.md "wikilink")《Milky
-Holmes 侦探学院放送室》。
+Milky Holmes为多媒体系列作品《[侦探歌剧 少女福尔摩斯](../Page/侦探歌剧_少女福尔摩斯.md "wikilink")》中主要人物[声优组成的团体](https://zh.wikipedia.org/wiki/声优 "wikilink")\[1\]。一般认为该组合于2010年2月6日举办的《Bushiroad card game LIVE2010》时进行的公开试音上正式结成\[2\]，但早在2009年12月，夏洛克·雪莉福德的声优[三森铃子](../Page/三森铃子.md "wikilink")、让崎妮洛的声优[德井青空](../Page/德井青空.md "wikilink")和柯蒂妮娅·格拉卡的声优[橘田泉](../Page/橘田泉.md "wikilink")就已经开始主持网络广播节目《Milky Holmes 侦探学院放送室》。
 
-起初官方只确定了三森、德井、橘田三位主角声优，最后一位主角艾露克露·伯顿的声优则通过武士道举办的“寻找艾莉！”（）活动进行选拔\[3\]\[4\]。最终从来自日本全国七大赛区选出的8名参赛者中，[佐佐木未来被选为艾露克露](https://zh.wikipedia.org/wiki/佐佐木未来 "wikilink")·伯顿的声优。2010年6月23日，Milky
-Holmes发行了首张单曲《》，正式以歌手身份出道\[5\]。
+起初官方只确定了三森、德井、橘田三位主角声优，最后一位主角艾露克露·伯顿的声优则通过武士道举办的“寻找艾莉！”（）活动进行选拔\[3\]\[4\]。最终从来自日本全国七大赛区选出的8名参赛者中，[佐佐木未来被选为艾露克露](https://zh.wikipedia.org/wiki/佐佐木未来 "wikilink")·伯顿的声优。2010年6月23日，Milky Holmes发行了首张单曲《》，正式以歌手身份出道\[5\]。
 
-2013年1月24日，在“株式会社Dream come ture/Bushiroad合同发表会”上，官方正式公布了“侦探歌剧
-少女福尔摩斯”企划制作新作动画的消息，新角色——黑白双子（常盘和美与明神川爱丽丝）的人设公开。常盘和美的声优同时公布，为“寻找艾莉！”活动的亚军[寺川爱美](https://zh.wikipedia.org/wiki/寺川爱美 "wikilink")（同年年底艺名由本名“寺川爱美”改为“爱美”），爱丽丝的声优则通过活动选拔产生\[6\]。最终，同样曾经参加过“寻找艾莉！”活动的并进入大阪赛区半决赛的[伊藤彩沙被选为爱丽丝的声优](../Page/伊藤彩沙.md "wikilink")\[7\]。此后爱美与伊藤彩沙组成“Milky
-Holmes Feathers”，成为Milky Holmes的姊妹组合。Milky Holmes与Milky Holmes
-Feathers共同活动时，会使用“Milky Holmes Sisters”的名义。
+2013年1月24日，在“株式会社Dream come ture/Bushiroad合同发表会”上，官方正式公布了“侦探歌剧 少女福尔摩斯”企划制作新作动画的消息，新角色——黑白双子（常盘和美与明神川爱丽丝）的人设公开。常盘和美的声优同时公布，为“寻找艾莉！”活动的亚军[寺川爱美](https://zh.wikipedia.org/wiki/寺川爱美 "wikilink")（同年年底艺名由本名“寺川爱美”改为“爱美”），爱丽丝的声优则通过活动选拔产生\[6\]。最终，同样曾经参加过“寻找艾莉！”活动的并进入大阪赛区半决赛的[伊藤彩沙](../Page/伊藤彩沙.md "wikilink")被选为爱丽丝的声优\[7\]。此后爱美与伊藤彩沙组成“Milky Holmes Feathers”，成为Milky Holmes的姊妹组合。Milky Holmes与Milky Holmes Feathers共同活动时，会使用“Milky Holmes Sisters”的名义。
 
-2018年2月3日，“Milky Holmes Road to Final”企划公开，Milky
-Holmes将于2019年初解散，最后一场演出将于2019年2月在《侦探歌剧
-少女福尔摩斯》舞台[横滨举行](https://zh.wikipedia.org/wiki/横滨 "wikilink")。\[8\]
+2018年2月3日，“Milky Holmes Road to Final”企划公开，Milky Holmes将于2019年初解散，最后一场演出将于2019年2月在《侦探歌剧 少女福尔摩斯》舞台[横滨举行](https://zh.wikipedia.org/wiki/横滨 "wikilink")。\[8\]
 
 ## 成员
 
@@ -134,9 +123,7 @@ Holmes将于2019年初解散，最后一场演出将于2019年2月在《侦探�
       - [Milky Holmes](https://hibiki-cast.jp/hibiki_f/milky-holmes/)
       - [Feathers](https://hibiki-cast.jp/hibiki_f/feathers/)
 
-[Category:日本配音員團體](https://zh.wikipedia.org/wiki/Category:日本配音員團體 "wikilink")
-[Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")
-[Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink")
+[Category:日本配音員團體](https://zh.wikipedia.org/wiki/Category:日本配音員團體 "wikilink") [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink") [Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink")
 
 1.
 2.

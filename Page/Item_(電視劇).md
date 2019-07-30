@@ -1,9 +1,6 @@
 《**ITEM**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC於](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2019年2月11日起播出的[月火連續劇](../Page/MBC月火連續劇.md "wikilink")，由《[爸爸，我來伺候你](../Page/爸爸，我來伺候你.md "wikilink")》金成旭、朴美妍導演與《[救救我](../Page/救救我.md "wikilink")》鄭怡道作家合作打造。此劇講述命運交錯的首爾地方檢察官與廣域調查隊犯罪側寫師，在偵辦連續殺人案的過程當中，經歷與多項擁有特殊能力物品有關的離奇事件，從中逐步揭露其背後陰謀，並持續與幕後黑手展開正邪對決的故事。\[1\]\[2\]\[3\]
 
-台灣由[LINE
-TV](../Page/LINE_TV.md "wikilink")、[KKTV](../Page/KKTV.md "wikilink")
-、friDay影音、ELTA OTT、[LiTV 線上影視](../Page/LiTV_線上影視.md "wikilink")，每周二、三
-中午12點更新。香港[Viu於每周一](../Page/Viu.md "wikilink")、二深夜更新。
+台灣由[LINE TV](../Page/LINE_TV.md "wikilink")、[KKTV](../Page/KKTV.md "wikilink") 、friDay影音、ELTA OTT、[LiTV 線上影視](../Page/LiTV_線上影視.md "wikilink")，每周二、三 中午12點更新。香港[Viu](../Page/Viu.md "wikilink")於每周一、二深夜更新。
 
 ## 演員陣容
 
@@ -13,8 +10,8 @@ TV](../Page/LINE_TV.md "wikilink")、[KKTV](../Page/KKTV.md "wikilink")
 | ------------------------------------ | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
 | **演員**                               | **角色**     | **介紹**                                                                                                                                         |
 | [朱智勛](../Page/朱智勛.md "wikilink")     | 姜坤（舊名為金聖圭） | 首爾中央地方檢察廳刑事3部檢察官，充滿熱血及正義感。爲了拯救比自己的生命更珍貴的侄女多仁，不惜睹上自己的一切，投入與各種道具有關的神秘事件調查，並因此身陷陰謀之中。                                                             |
-| [金剛-{于}-](../Page/金剛于.md "wikilink") | 趙世皇        | 華元集團董事長，新一代年輕企業家。作爲集團的第三代繼承人，以創新進取的態度經營事業，卻同時擁有反社會人格，與過去起訴自己的姜坤重逢時，對之展開了殘忍的惡作劇。                                                                |
 | [陳世娫](../Page/陳世娫.md "wikilink")     | 申素英        | 首爾地方警察廳廣域調查隊罪犯側寫師。在韓國史上最慘烈的一次災難當中失去母親後，選擇成為讀懂嫌犯心理、解讀背後意義並加以具體呈現的犯罪側寫師。和纖細的外表不同，即使在可怕的犯罪現場，仍能冷靜判斷，同時發揮明察秋毫的洞見觀察，以及卓越的推理能力，拼湊出嫌犯的可能樣貌，推演背後的心理動機。 |
+| [金剛-{于}-](../Page/金剛于.md "wikilink") | 趙世皇        | 華元集團董事長，新一代年輕企業家。作爲集團的第三代繼承人，以創新進取的態度經營事業，卻同時擁有反社會人格，與過去起訴自己的姜坤重逢時，對之展開了殘忍的惡作劇。                                                                |
 | [金釉利](../Page/金釉利.md "wikilink")     | 韓宥娜        | 首爾中央地方檢察廳刑事7部檢察官。冀求真相，同時夢想成爲正義的檢察官，因而幫助同期檢察官姜坤，卻也因此知道了過去隱藏的祕密, 曾患心臟重症。為了守護家庭，她選擇屈服於趙世皇之下。                                                      |
 | [朴元相](../Page/朴元相.md "wikilink")     | 具東英        | 神父，野草天使院院長，對素英而言如同導師一般的神父。作爲一名前醫生，她和素英有着同樣的痛苦。                                                                                                 |
 |                                      |            |                                                                                                                                                |
@@ -431,14 +428,10 @@ TV](../Page/LINE_TV.md "wikilink")、[KKTV](../Page/KKTV.md "wikilink")
 
 ## 同時段競爭作品
 
-  - [KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")
-    [月火連續劇](../Page/KBS月火連續劇.md "wikilink")：《[鄰家律師趙德浩2：罪與罰](../Page/鄰家律師趙德浩2：罪與罰.md "wikilink")》、《[各位國民](../Page/各位國民.md "wikilink")》
-  - [SBS](../Page/SBS_\(韓國\).md "wikilink")
-    [月火連續劇](../Page/SBS月火連續劇.md "wikilink")：《[獬豸](../Page/獬豸_\(電視劇\).md "wikilink")》
-  - [tvN](../Page/TVN.md "wikilink")
-    [月火連續劇](../Page/TvN月火連續劇.md "wikilink")：《[成為王的男人](../Page/成為王的男人.md "wikilink")》、《[會讀心術的那小子](../Page/會讀心術的那小子.md "wikilink")》
-  - [JTBC](../Page/JTBC.md "wikilink")
-    [月火連續劇](../Page/JTBC月火連續劇.md "wikilink")：《[耀眼](../Page/耀眼.md "wikilink")》、《[加油吧！威基基2](https://zh.wikipedia.org/wiki/加油吧！威基基2 "wikilink")》
+  - [KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink") [月火連續劇](../Page/KBS月火連續劇.md "wikilink")：《[鄰家律師趙德浩2：罪與罰](../Page/鄰家律師趙德浩2：罪與罰.md "wikilink")》、《[各位國民](../Page/各位國民.md "wikilink")》
+  - [SBS](../Page/SBS_\(韓國\).md "wikilink") [月火連續劇](../Page/SBS月火連續劇.md "wikilink")：《[獬豸](../Page/獬豸_\(電視劇\).md "wikilink")》
+  - [tvN](../Page/TVN.md "wikilink") [月火連續劇](../Page/TvN月火連續劇.md "wikilink")：《[成為王的男人](../Page/成為王的男人.md "wikilink")》、《[會讀心術的那小子](../Page/會讀心術的那小子.md "wikilink")》
+  - [JTBC](../Page/JTBC.md "wikilink") [月火連續劇](../Page/JTBC月火連續劇.md "wikilink")：《[耀眼](../Page/耀眼.md "wikilink")》、《[加油吧！威基基2](https://zh.wikipedia.org/wiki/加油吧！威基基2 "wikilink")》
 
 ## 參考資料
 
@@ -448,10 +441,7 @@ TV](../Page/LINE_TV.md "wikilink")、[KKTV](../Page/KKTV.md "wikilink")
   - [韓國MBC官方網站](http://content.mbc.co.kr/program/drama/3350049_64286.html)
   - [ITEM-NAVER](https://m.entertain.naver.com/tvBrand/8733773)
 
-[Category:2019年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2019年韓國電視劇集 "wikilink")
-[Category:韓國奇幻劇](https://zh.wikipedia.org/wiki/Category:韓國奇幻劇 "wikilink")
-[Category:韓國犯罪劇](https://zh.wikipedia.org/wiki/Category:韓國犯罪劇 "wikilink")
-[Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink")
+[Category:2019年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2019年韓國電視劇集 "wikilink") [Category:韓國奇幻劇](https://zh.wikipedia.org/wiki/Category:韓國奇幻劇 "wikilink") [Category:韓國犯罪劇](https://zh.wikipedia.org/wiki/Category:韓國犯罪劇 "wikilink") [Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink")
 
 1.
 2.

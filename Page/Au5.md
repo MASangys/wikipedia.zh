@@ -1,65 +1,44 @@
-**奧斯汀·柯林斯**（Austin Collins, 藝名 Au5）
-是一位[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[唱片騎師而音樂製作人](https://zh.wikipedia.org/wiki/唱片騎師 "wikilink")，出生於[新澤西州](../Page/新泽西州.md "wikilink")。\[1\]'''
-柯林斯的藝名是從他名字頭三個英文字幕做成。
+**奧斯汀·柯林斯**（Austin Collins, 藝名 Au5） 是一位[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[唱片騎師而音樂製作人](https://zh.wikipedia.org/wiki/唱片騎師 "wikilink")，出生於[新澤西州](../Page/新泽西州.md "wikilink")。\[1\]''' 柯林斯的藝名是從他名字頭三個英文字幕做成。
 
-柯林斯在2014年內發表歌曲《Snowblind》而《Crossroad》在唱片公司
-[Monstercat](../Page/Monstercat.md "wikilink")
-上，各首達到超逾八百萬的觀看次數。他的作品最知名混合[迴響貝斯](../Page/迴響貝斯.md "wikilink")，[出神音樂](https://zh.wikipedia.org/wiki/出神音樂 "wikilink")，和[前衛浩室音樂的特性](https://zh.wikipedia.org/wiki/前衛浩室音樂 "wikilink")。
+柯林斯在2014年內發表歌曲《Snowblind》而《Crossroad》在唱片公司 [Monstercat](../Page/Monstercat.md "wikilink") 上，各首達到超逾八百萬的觀看次數。他的作品最知名混合[迴響貝斯](../Page/迴響貝斯.md "wikilink")，[出神音樂](https://zh.wikipedia.org/wiki/出神音樂 "wikilink")，和[前衛浩室音樂的特性](https://zh.wikipedia.org/wiki/前衛浩室音樂 "wikilink")。
 
 ## 早期生活
 
-從他四歲的時候，柯林斯受過鋼琴訓練，而聆聽過各種音樂類型。\[2\] 他八歲時候開始用 Easy Beat，一件簡單的
-，而在十一歲時接觸了数字音频工作站
-[库乐队](../Page/库乐队.md "wikilink")。開始 Au5
-的項目前，柯林斯曾經參與國幾個音樂團。\[3\]
+從他四歲的時候，柯林斯受過鋼琴訓練，而聆聽過各種音樂類型。\[2\] 他八歲時候開始用 Easy Beat，一件簡單的 ，而在十一歲時接觸了数字音频工作站 [库乐队](../Page/库乐队.md "wikilink")。開始 Au5 的項目前，柯林斯曾經參與幾個音樂團。\[3\]
 
 ## 職業生涯
 
 ### 2009-2011: 早期作品
 
-奧斯丁在2010年中發布他的首張專輯 《Minimality》，然後在2011年又發布了《Anchus
-Definy》。它們包括[出神音樂特色](https://zh.wikipedia.org/wiki/出神音樂 "wikilink")。
+奧斯丁在2010年中發布他的首張專輯 《Minimality》，然後在2011年又發布了《Anchus Definy》。它們包括[出神音樂特色](https://zh.wikipedia.org/wiki/出神音樂 "wikilink")。
 
 2012年奧斯丁與 I.Y.F.F.E 贏得了 Seven Lions 的重混比賽，通過首歌《Days To Come》。
 
 ### 2013-2015: 與Monstercat
 
-奧斯丁在2013年內開始在唱片公司 Monstercat 上發表歌曲。他第一個單曲是 《Sweet》，是與 Auratic 和
-I.Y.F.F.E 的合作。之後發表《Halcyon》，是與 Fractal 的合作。\[4\]
+奧斯丁在2013年內開始在唱片公司 Monstercat 上發表歌曲。他第一個單曲是 《Sweet》，是與 Auratic 和 I.Y.F.F.E 的合作。之後發表《Halcyon》，是與 Fractal 的合作。\[4\]
 
-Au5在 Monstercat 上的首次個人的迷你專輯是他的 《Blossom》，其中包括旋律音樂曲目“Blossom” 以
-“Moonland”。 後來於2013年12月2日在Monstercat上發布了一首四軌EP，名為 《Secret
-Weapon》，其中三首曲目上傳到Monstercat YouTube頻道。
+Au5在 Monstercat 上的首次個人的迷你專輯是他的 《Blossom》，其中包括旋律音樂曲目“Blossom” 以 “Moonland”。 後來於2013年12月2日在Monstercat上發布了一首四軌EP，名為 《Secret Weapon》，其中三首曲目上傳到Monstercat YouTube頻道。
 
 .\[5\]
 
-2014年3月，Monstercat發行了一首以Danyka
-Nadeau為主唱的[前衛浩室音樂歌曲](https://zh.wikipedia.org/wiki/前衛浩室音樂 "wikilink")《Follow
-You》，並於同年7月發行了混音EP。 奧斯汀後來發行了《Snowblind》，播放來自Tasha
-Baxter的主唱，這是一首帶有旋律和恍惚元素的[迴響貝斯歌曲](../Page/迴響貝斯.md "wikilink")。\[6\]
-它已經成為Au5最受歡迎的歌曲，在Beatport上排名第一，在YouTube上收集了超過800萬的觀看次數。
-後來發布了一個免費的自我發布的混音EP。
-之後發行了《Crossroad》，並結束了2014年的曲目。
+2014年3月，Monstercat發行了一首以Danyka Nadeau為主唱的[前衛浩室音樂歌曲](https://zh.wikipedia.org/wiki/前衛浩室音樂 "wikilink")《Follow You》，並於同年7月發行了混音EP。 奧斯汀後來發行了《Snowblind》，播放來自Tasha Baxter的主唱，這是一首帶有旋律和恍惚元素的[迴響貝斯](../Page/迴響貝斯.md "wikilink")歌曲。\[6\] 它已經成為Au5最受歡迎的歌曲，在Beatport上排名第一，在YouTube上收集了超過800萬的觀看次數。 後來發布了一個免費的自我發布的混音EP。 之後發行了《Crossroad》，並結束了2014年的曲目。
 
 ### 2016-2018: 《Freefall》跟其他項目
 
-奧斯汀於2016年在Gravitas唱片公司發行了一張名為《Freefall》的迷你專輯。\[7\]
-他於2017年底開始發行NoCopyrightSounds，其中抱括 《Lush》，與 Last Heroes
-合作。在同一個唱片公司上也發行了《Closer》。\[8\]
+奧斯汀於2016年在Gravitas唱片公司發行了一張名為《Freefall》的迷你專輯。\[7\] 他於2017年底開始發行NoCopyrightSounds，其中抱括 《Lush》，與 Last Heroes 合作。在同一個唱片公司上也發行了《Closer》。\[8\]
 
 ### 2019: 《Divinorum》
 
-內有十首全新歌曲，包括Stargate,Divinorum,Infinite Wings,Dragonfly,Lazerfunk,Drink
-me,Beautiful Sky,Mesmerize,Divine,The Void
+內有十首全新歌曲，包括Stargate,Divinorum,Infinite Wings,Dragonfly,Lazerfunk,Drink me,Beautiful Sky,Mesmerize,Divine,The Void
 
 ## 音樂風格
 
-眾所周知，柯林斯在他的[迴響貝斯音軌和其他地方都使用了](../Page/迴響貝斯.md "wikilink")[出神音樂的特色](https://zh.wikipedia.org/wiki/出神音樂 "wikilink")。
-他的音軌通常以強勁的低音線和大氣墊為特徵。他多次與Fractal和I.Y.F.F.E合作。
+眾所周知，柯林斯在他的[迴響貝斯](../Page/迴響貝斯.md "wikilink")音軌和其他地方都使用了[出神音樂的特色](https://zh.wikipedia.org/wiki/出神音樂 "wikilink")。 他的音軌通常以強勁的低音線和大氣墊為特徵。他多次與Fractal和I.Y.F.F.E合作。
 
 ## 個人生活
 
-奧斯丁正住在[丹佛](../Page/丹佛.md "wikilink")，[科羅拉多州內](../Page/科羅拉多州.md "wikilink")。
+奧斯丁正住在[丹佛](../Page/丹佛.md "wikilink")，[科羅拉多州](../Page/科羅拉多州.md "wikilink")內。
 
 ## 唱片目錄
 
@@ -202,22 +181,11 @@ me,Beautiful Sky,Mesmerize,Divine,The Void
 
 ## 參考資料
 
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
-[Category:1992年出生](https://zh.wikipedia.org/wiki/Category:1992年出生 "wikilink")
-[Category:Musicians_from_New_Jersey](https://zh.wikipedia.org/wiki/Category:Musicians_from_New_Jersey "wikilink")
-[Category:美國音樂製作人](https://zh.wikipedia.org/wiki/Category:美國音樂製作人 "wikilink")
-[Category:美國電子音樂家](https://zh.wikipedia.org/wiki/Category:美國電子音樂家 "wikilink")
-[Category:混音師](https://zh.wikipedia.org/wiki/Category:混音師 "wikilink")
-[Category:Dubstep_musicians](https://zh.wikipedia.org/wiki/Category:Dubstep_musicians "wikilink")
-[Category:Monstercat_artists](https://zh.wikipedia.org/wiki/Category:Monstercat_artists "wikilink")
+[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:1992年出生](https://zh.wikipedia.org/wiki/Category:1992年出生 "wikilink") [Category:Musicians_from_New_Jersey](https://zh.wikipedia.org/wiki/Category:Musicians_from_New_Jersey "wikilink") [Category:美國音樂製作人](https://zh.wikipedia.org/wiki/Category:美國音樂製作人 "wikilink") [Category:美國電子音樂家](https://zh.wikipedia.org/wiki/Category:美國電子音樂家 "wikilink") [Category:混音師](https://zh.wikipedia.org/wiki/Category:混音師 "wikilink") [Category:Dubstep_musicians](https://zh.wikipedia.org/wiki/Category:Dubstep_musicians "wikilink") [Category:Monstercat_artists](https://zh.wikipedia.org/wiki/Category:Monstercat_artists "wikilink")
 
 1.
-2.  Ben Gutnik，["EDM CHARTS’ EXCLUSIVE INTERVIEW |
-    Au5"](http://edmcharts.com/2013/04/14/edm-charts-exclusive-interview-au5/)
-    *EDM Charts*，April 14，2013
-3.  Aleks Zander，["Exclusive Interview With Ground-Breaking Artist –
-    "Au5″](http://myvipeeps.com/blog/interview-blog/interview-with-au5/)
-     *V.I.Peeps*，March 22，2014
+2.  Ben Gutnik，["EDM CHARTS’ EXCLUSIVE INTERVIEW | Au5"](http://edmcharts.com/2013/04/14/edm-charts-exclusive-interview-au5/) *EDM Charts*，April 14，2013
+3.  Aleks Zander，["Exclusive Interview With Ground-Breaking Artist – "Au5″](http://myvipeeps.com/blog/interview-blog/interview-with-au5/)  *V.I.Peeps*，March 22，2014
 4.
 5.  US Tour. [1](http://infected-mushroom.com/tour/)，February 21，2014
 6.

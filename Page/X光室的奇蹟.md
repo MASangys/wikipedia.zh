@@ -1,5 +1,4 @@
-《**X光室的奇蹟**》（）是由横幕智裕原作、作画的[日本漫画作品](../Page/日本漫画.md "wikilink")。於《[Grand
-Jump](https://zh.wikipedia.org/wiki/Grand_Jump "wikilink")》（[集英社](../Page/集英社.md "wikilink")）2015年22號開始連載\[1\]，漫画描述透過X光攝影拍攝出病理照片的放射科技師和負責影像診斷的放射科醫師的故事。
+《**X光室的奇蹟**》（）是由横幕智裕原作、作画的[日本漫画](../Page/日本漫画.md "wikilink")作品。於《[Grand Jump](https://zh.wikipedia.org/wiki/Grand_Jump "wikilink")》（[集英社](../Page/集英社.md "wikilink")）2015年22號開始連載\[1\]，漫画描述透過X光攝影拍攝出病理照片的放射科技師和負責影像診斷的放射科醫師的故事。
 
 電視劇於2019年在富士電視網「月9」上播映。
 
@@ -10,8 +9,7 @@ Jump](https://zh.wikipedia.org/wiki/Grand_Jump "wikilink")》（[集英社](../P
   - 五十嵐唯織（いがらし いおり）
     本作的主角。有醫師執照但是擔任放射科技師。 他有天才般的影像閱讀技術和感覺，但他不擅長社交。
   - 甘春杏（あまかす あん）
-    本作的女主角。甘春綜合醫院・放射科醫生。父親也是放射科醫生。認為技師只須負責拍照影像診斷是醫生的工作，但他通過與唯織的合作改變了想法。
-    跟唯織是青梅竹馬，但她已經不記得了。
+    本作的女主角。甘春綜合醫院・放射科醫生。父親也是放射科醫生。認為技師只須負責拍照影像診斷是醫生的工作，但他通過與唯織的合作改變了想法。 跟唯織是青梅竹馬，但她已經不記得了。
   - 廣瀨裕乃（ひろせ　ひろの）
     甘春綜合醫院・新人放射線技師。 雖然被周圍優秀的人所震撼，但很努力完成自己的工作。很擔心唯織。
   - 小野寺俊夫（おのでら　としお）
@@ -81,8 +79,7 @@ Jump](https://zh.wikipedia.org/wiki/Grand_Jump "wikilink")》（[集英社](../P
 
 #### 甘春綜合醫院
 
-  - 五十嵐唯織 -
-    [窪田正孝](https://zh.wikipedia.org/wiki/窪田正孝 "wikilink")（幼少期：金井凛空）
+  - 五十嵐唯織 - [窪田正孝](https://zh.wikipedia.org/wiki/窪田正孝 "wikilink")（幼少期：金井凛空）
   - 甘春杏 - [本田翼](../Page/本田翼.md "wikilink")（幼少期：大島美優）\[3\]
   - 廣瀨裕乃 - [廣瀨愛麗絲](../Page/廣瀨愛麗絲.md "wikilink")\[4\]
   - 軒下五郎 - [浜野謙太](https://zh.wikipedia.org/wiki/浜野謙太 "wikilink")
@@ -130,10 +127,7 @@ Jump](https://zh.wikipedia.org/wiki/Grand_Jump "wikilink")》（[集英社](../P
   - 原作 - 横幕智裕（原作）、（漫画）
   - 腳本 -
   - 音樂 - [服部隆之](../Page/服部隆之.md "wikilink")
-  - 主題歌 - [MAN WITH A
-    MISSION](../Page/MAN_WITH_A_MISSION.md "wikilink")「Remember
-    Me」（[Sony
-    Records](https://zh.wikipedia.org/wiki/Sony_Records "wikilink")）\[9\]
+  - 主題歌 - [MAN WITH A MISSION](../Page/MAN_WITH_A_MISSION.md "wikilink")「Remember Me」（[Sony Records](https://zh.wikipedia.org/wiki/Sony_Records "wikilink")）\[9\]
   - 醫療監修 - 戸﨑光宏、五月女康作
   - 監修 - 松本尚、原義明
   - 醫療指導 - 筑波メディカルセンター病院 放射線技術科、日本医科大学千葉北総病院 救命救急センター、太田黒崇信、阪本太吾
@@ -268,12 +262,7 @@ Jump](https://zh.wikipedia.org/wiki/Grand_Jump "wikilink")》（[集英社](../P
       -
 ## 節目變遷
 
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:醫療漫画](https://zh.wikipedia.org/wiki/Category:醫療漫画 "wikilink")
-[Category:放射線學](https://zh.wikipedia.org/wiki/Category:放射線學 "wikilink")
-[Category:2019年開播的日本電視劇集‎](https://zh.wikipedia.org/wiki/Category:2019年開播的日本電視劇集‎ "wikilink")
-[Category:日本漫畫改編日本電視劇](https://zh.wikipedia.org/wiki/Category:日本漫畫改編日本電視劇 "wikilink")
-[Category:醫學題材電視劇](https://zh.wikipedia.org/wiki/Category:醫學題材電視劇 "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:醫療漫画](https://zh.wikipedia.org/wiki/Category:醫療漫画 "wikilink") [Category:放射線學](https://zh.wikipedia.org/wiki/Category:放射線學 "wikilink") [Category:2019年開播的日本電視劇集‎](https://zh.wikipedia.org/wiki/Category:2019年開播的日本電視劇集‎ "wikilink") [Category:日本漫畫改編日本電視劇](https://zh.wikipedia.org/wiki/Category:日本漫畫改編日本電視劇 "wikilink") [Category:醫學題材電視劇](https://zh.wikipedia.org/wiki/Category:醫學題材電視劇 "wikilink")
 
 1.
 

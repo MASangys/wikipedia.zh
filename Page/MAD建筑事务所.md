@@ -1,5 +1,4 @@
-**MAD建筑事务所**()，或者叫**MAD
-Studio**，是一家位于[北京的建筑事务所](https://zh.wikipedia.org/wiki/北京 "wikilink")。
+**MAD建筑事务所**()，或者叫**MAD Studio**，是一家位于[北京的建筑事务所](https://zh.wikipedia.org/wiki/北京 "wikilink")。
 
 ## 历史
 
@@ -74,8 +73,6 @@ Studio**，是一家位于[北京的建筑事务所](https://zh.wikipedia.org/wi
 ## 外部链接
 
   -
-[Category:中国建筑师事务所](https://zh.wikipedia.org/wiki/Category:中国建筑师事务所 "wikilink")
-[Category:北京市公司](https://zh.wikipedia.org/wiki/Category:北京市公司 "wikilink")
-[Category:2004年成立的公司](https://zh.wikipedia.org/wiki/Category:2004年成立的公司 "wikilink")
+[Category:中国建筑师事务所](https://zh.wikipedia.org/wiki/Category:中国建筑师事务所 "wikilink") [Category:北京市公司](https://zh.wikipedia.org/wiki/Category:北京市公司 "wikilink") [Category:2004年成立的公司](https://zh.wikipedia.org/wiki/Category:2004年成立的公司 "wikilink")
 
 1.  [简介](http://www.i-mad.com/zh-hans/office/info-cn/)，官网。

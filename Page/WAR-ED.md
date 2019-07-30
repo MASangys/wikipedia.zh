@@ -1,17 +1,16 @@
-**WAR-ED**，[日本的摇滚乐队](../Page/日本.md "wikilink")，2010年结成，为[Being旗下艺人](../Page/Being_\(公司\).md "wikilink")。2015年宣布解散。乐队名由WAR（战争）和ED（过去式）组成，表达传递和平友爱的歌曲为主旨\[1\]。
+**WAR-ED**，[日本](../Page/日本.md "wikilink")的摇滚乐队，2010年结成，为[Being旗下艺人](../Page/Being_\(公司\).md "wikilink")。2015年宣布解散。乐队名由WAR（战争）和ED（过去式）组成，表达传递和平友爱的歌曲为主旨\[1\]。
 
 ## 成员
 
   - 山下慎司（，），主唱、吉他。乐队解散前唯一的初创成员。
-  - 岛津义贵（，），吉他、和声。岛津宗成的弟弟。前[Chicago
-    Poodle的支援乐手](../Page/Chicago_Poodle.md "wikilink")。
+  - 岛津义贵（，），吉他、和声。岛津宗成的弟弟。前[Chicago Poodle的支援乐手](../Page/Chicago_Poodle.md "wikilink")。
   - 岛津宗成（，），吉他、和声。岛津义贵的哥哥。
 
 ### 前成员
 
-  - （），贝斯。前成员。退出WAR-ED后与[大贺好修等组成](https://zh.wikipedia.org/wiki/大贺好修 "wikilink")[Sensation乐队](../Page/Sensation.md "wikilink")。
+  - （），贝斯。前成员。退出WAR-ED后与[大贺好修等组成](https://zh.wikipedia.org/wiki/大贺好修 "wikilink")[Sensation](../Page/Sensation.md "wikilink")乐队。
 
-  - 山口笃（），鼓。前[Naifu成员](../Page/Naifu.md "wikilink")。退出WAR-ED后组成乐队，2018年改名川村笃史加入[dps乐队](https://zh.wikipedia.org/wiki/dps "wikilink")。
+  - 山口笃（），鼓。前[Naifu](../Page/Naifu.md "wikilink")成员。退出WAR-ED后组成乐队，2018年改名川村笃史加入[dps乐队](https://zh.wikipedia.org/wiki/dps "wikilink")。
 
   - 鹤泽梦人（），吉他、和声。2017年因涉嫌虐待被逮捕，GIZA宣布与其解约\[2\]。
 
@@ -21,12 +20,9 @@
 
 ## 经历
 
-2010年4月乐队结成。11月出演[MINAMI
-WHEEL](https://zh.wikipedia.org/wiki/MINAMI_WHEEL "wikilink")
-2010音乐节\[3\]。
+2010年4月乐队结成。11月出演[MINAMI WHEEL](https://zh.wikipedia.org/wiki/MINAMI_WHEEL "wikilink") 2010音乐节\[3\]。
 
-2011年2月开始自身第一次巡回演唱会。6月在SAKAE SP-RING
-2011与[植田真梨惠等Being艺人共演](../Page/植田真梨惠.md "wikilink")\[4\]。
+2011年2月开始自身第一次巡回演唱会。6月在SAKAE SP-RING 2011与[植田真梨惠](../Page/植田真梨惠.md "wikilink")等Being艺人共演\[4\]。
 
 2011年7月发表首张唱片《CONSTRUCTION》，同时麻井和山口退出乐队，改为支援乐手身份，此时乐队为山下和鹤泽二人编成。
 
@@ -133,13 +129,9 @@ WHEEL](https://zh.wikipedia.org/wiki/MINAMI_WHEEL "wikilink")
 
   - [官方网站](https://web.archive.org/web/20170629003350/http://war-ed.com/)（2017年6月29日存档）
 
-[Category:Being旗下艺人](https://zh.wikipedia.org/wiki/Category:Being旗下艺人 "wikilink")
-[Category:日本摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本摇滚乐团 "wikilink")
-[Category:2010年成立的音乐团体](https://zh.wikipedia.org/wiki/Category:2010年成立的音乐团体 "wikilink")
-[Category:2015年解散的音乐团体](https://zh.wikipedia.org/wiki/Category:2015年解散的音乐团体 "wikilink")
+[Category:Being旗下艺人](https://zh.wikipedia.org/wiki/Category:Being旗下艺人 "wikilink") [Category:日本摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本摇滚乐团 "wikilink") [Category:2010年成立的音乐团体](https://zh.wikipedia.org/wiki/Category:2010年成立的音乐团体 "wikilink") [Category:2015年解散的音乐团体](https://zh.wikipedia.org/wiki/Category:2015年解散的音乐团体 "wikilink")
 
-1.   OKMusic |url=<https://okmusic.jp/news/31393> |website=okmusic.jp
-    |accessdate=2019-03-28}}
+1.   OKMusic |url=<https://okmusic.jp/news/31393> |website=okmusic.jp |accessdate=2019-03-28}}
 
 2.
 
@@ -148,5 +140,4 @@ WHEEL](https://zh.wikipedia.org/wiki/MINAMI_WHEEL "wikilink")
 4.
 
 5.
-6.   Special |url=<http://www.billboard-japan.com/special/detail/872>
-    |website=Billboard JAPAN |accessdate=2019-03-28 |language=ja}}
+6.   Special |url=<http://www.billboard-japan.com/special/detail/872> |website=Billboard JAPAN |accessdate=2019-03-28 |language=ja}}

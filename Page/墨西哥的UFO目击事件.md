@@ -1,10 +1,8 @@
-这是一个关于在[墨西哥目击](../Page/墨西哥.md "wikilink")[不明飞行物的列表](../Page/不明飞行物.md "wikilink")。
+这是一个关于在[墨西哥](../Page/墨西哥.md "wikilink")目击[不明飞行物](../Page/不明飞行物.md "wikilink")的列表。
 
 ## 1883年
 
-  - 1883年8月12日，墨西哥天文学家何塞·包尼牙(Jose Bonilla)在墨西哥的萨卡特卡斯天文台(Zacatecas
-    Observatory)观测太阳黑子活动时报告说，他称“看到300多个身份不明的黑暗物体在太阳面前穿过”。他以百分之一秒[曝光湿板拍摄多张](https://zh.wikipedia.org/wiki/曝光 "wikilink")[照片](../Page/包尼牙觀測.md "wikilink")。尽管后来发现这些物体实际上是高飞的大雁，但何塞·包尼牙通常是认为是最早拍摄过“不明飞行物”照片的人，\[1\]
-    一些不明飞行物文献将这些照片解释为外星人飞船或未解之谜。
+  - 1883年8月12日，墨西哥天文学家何塞·包尼牙(Jose Bonilla)在墨西哥的萨卡特卡斯天文台(Zacatecas Observatory)观测太阳黑子活动时报告说，他称“看到300多个身份不明的黑暗物体在太阳面前穿过”。他以百分之一秒[曝光湿板拍摄多张](https://zh.wikipedia.org/wiki/曝光 "wikilink")[照片](../Page/包尼牙觀測.md "wikilink")。尽管后来发现这些物体实际上是高飞的大雁，但何塞·包尼牙通常是认为是最早拍摄过“不明飞行物”照片的人，\[1\] 一些不明飞行物文献将这些照片解释为外星人飞船或未解之谜。
 
 ## 1974年
 
@@ -22,19 +20,9 @@
 
 ## 外部链接
 
-  - [MUFON - Last 20 UFO Sightings and
-    Pictures](http://mufoncms.com/cgi-bin/manage_sighting_reports.pl?mode=latest_reports)
+  - [MUFON - Last 20 UFO Sightings and Pictures](http://mufoncms.com/cgi-bin/manage_sighting_reports.pl?mode=latest_reports)
 
-[Category:UFO目击事件](https://zh.wikipedia.org/wiki/Category:UFO目击事件 "wikilink")
-[Category:UFO](https://zh.wikipedia.org/wiki/Category:UFO "wikilink")
-[Category:幽浮](https://zh.wikipedia.org/wiki/Category:幽浮 "wikilink")
-[Category:不明飞行物](https://zh.wikipedia.org/wiki/Category:不明飞行物 "wikilink")
-[Category:目击事件](https://zh.wikipedia.org/wiki/Category:目击事件 "wikilink")
-[Category:墨西哥](https://zh.wikipedia.org/wiki/Category:墨西哥 "wikilink")
-[Category:事件](https://zh.wikipedia.org/wiki/Category:事件 "wikilink")
-[Category:列表](https://zh.wikipedia.org/wiki/Category:列表 "wikilink")
-[Category:幽浮学](https://zh.wikipedia.org/wiki/Category:幽浮学 "wikilink")
-[Category:外星生命](https://zh.wikipedia.org/wiki/Category:外星生命 "wikilink")
+[Category:UFO目击事件](https://zh.wikipedia.org/wiki/Category:UFO目击事件 "wikilink") [Category:UFO](https://zh.wikipedia.org/wiki/Category:UFO "wikilink") [Category:幽浮](https://zh.wikipedia.org/wiki/Category:幽浮 "wikilink") [Category:不明飞行物](https://zh.wikipedia.org/wiki/Category:不明飞行物 "wikilink") [Category:目击事件](https://zh.wikipedia.org/wiki/Category:目击事件 "wikilink") [Category:墨西哥](https://zh.wikipedia.org/wiki/Category:墨西哥 "wikilink") [Category:事件](https://zh.wikipedia.org/wiki/Category:事件 "wikilink") [Category:列表](https://zh.wikipedia.org/wiki/Category:列表 "wikilink") [Category:幽浮学](https://zh.wikipedia.org/wiki/Category:幽浮学 "wikilink") [Category:外星生命](https://zh.wikipedia.org/wiki/Category:外星生命 "wikilink")
 
 1.
 2.

@@ -1,4 +1,4 @@
-是[新井圭一](../Page/新井圭一.md "wikilink")\[1\]所著的[日本漫畫](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")。於《[Morning](../Page/Morning_\(漫畫雜誌\).md "wikilink")》（[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")）從2016年44號開始正在連載中。單行本目前已經出版6冊。
+是[新井圭一](../Page/新井圭一.md "wikilink")\[1\]所著的[日本漫畫](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")。於《[Morning](../Page/Morning_\(漫畫雜誌\).md "wikilink")》（[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")）從2016年44號開始正在連載中。單行本目前已經出版8冊。
 
 作品描述圍繞著一名叫南雲美鳥的女大學生搬到一個叫「CITY」的城市定居下來之後，開始過著跟這裡的居民展開圍繞在她身上的笑中帶淚之搞笑漫畫作品。但是跟前作《[日常](../Page/日常.md "wikilink")》不一樣的是，此作可以看到類似[平行世界的描述](https://zh.wikipedia.org/wiki/平行宇宙 "wikilink")。
 
@@ -76,7 +76,7 @@
 <!-- end list -->
 
   -
-    長女。社會新鮮人。現職藝人（後述）的經紀人。
+    長女。社會人士。當紅藝人（後述）的經紀人。
 
 <!-- end list -->
 
@@ -128,8 +128,7 @@
 <!-- end list -->
 
   -
-    主將。守備位置是[後衛（Side
-    Back）](../Page/後衛_\(足球\).md "wikilink")。背號2號。泉理子後援會的1號會員｡
+    主將。守備位置是[後衛（Side Back）](../Page/後衛_\(足球\).md "wikilink")。背號2號。泉理子後援會的1號會員｡
 
 <!-- end list -->
 
@@ -206,9 +205,7 @@
 <!-- end list -->
 
   -
-    《週刊CITY》編輯部的社員。負責特別專欄。口頭禪是「」。是原作者新井連載該漫畫之前，已經在《[Helvetica
-    Standard](../Page/日常.md "wikilink")》登場的角色。此外《Helvetica
-    Standard》中設定的（株）香蕉不是漫畫雜誌出版社，而是事務用品公司。
+    《週刊CITY》編輯部的社員。負責特別專欄。口頭禪是「」。是原作者新井連載該漫畫之前，已經在《[Helvetica Standard](../Page/日常.md "wikilink")》登場的角色。此外《Helvetica Standard》中設定的（株）香蕉不是漫畫雜誌出版社，而是事務用品公司。
 
 <!-- end list -->
 
@@ -311,6 +308,11 @@
 <td><p>2019年3月22日[8]</p></td>
 <td><p>ISBN 978-4-06-514954-6</p></td>
 </tr>
+<tr class="odd">
+<td><p>8</p></td>
+<td><p>2019年7月23日[9]</p></td>
+<td><p>ISBN 978-4-06-516295-8</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -320,10 +322,9 @@
 
   - [CITY Morning官方網站 Moae](http://morning.moae.jp/lineup/693)
 
-[Category:搞笑漫畫](https://zh.wikipedia.org/wiki/Category:搞笑漫畫 "wikilink")
-[Category:Morning連載作品](https://zh.wikipedia.org/wiki/Category:Morning連載作品 "wikilink")
+[Category:搞笑漫畫](https://zh.wikipedia.org/wiki/Category:搞笑漫畫 "wikilink") [Category:Morning連載作品](https://zh.wikipedia.org/wiki/Category:Morning連載作品 "wikilink")
 
-1.  [東立出版社取得該漫畫作品的中文代理使用這譯名之前](../Page/東立出版社.md "wikilink")，並未有正式的中文譯名。
+1.  [東立出版社](../Page/東立出版社.md "wikilink")取得該漫畫作品的中文代理使用這譯名之前，並未有正式的中文譯名。
 2.
 3.
 4.
@@ -331,3 +332,4 @@
 6.
 7.
 8.
+9.

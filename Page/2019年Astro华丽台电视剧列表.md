@@ -1,4 +1,4 @@
-本列表內之「播放日期」，是指[马来西亚](../Page/马来西亚.md "wikilink")[Astro華麗台的播放日期](../Page/Astro華麗台.md "wikilink")。
+本列表內之「播放日期」，是指[马来西亚](../Page/马来西亚.md "wikilink")[Astro華麗台](../Page/Astro華麗台.md "wikilink")的播放日期。
 
 ## 星期一至五（非黃金時段）
 
@@ -134,8 +134,21 @@ Burning Flame III</p></td>
 <td style="text-align: center;"><p>32</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/王喜" title="wikilink">王　喜</a>、<a href="../Page/鄭嘉穎.md" title="wikilink">鄭嘉穎</a>、<a href="https://zh.wikipedia.org/wiki/黃宗澤" title="wikilink">黃宗澤</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/王心慰.md" title="wikilink">王心慰</a></p></td>
-<td style="text-align: center;"><p>主題音樂：烈火雄心3（<a href="../Page/鄧智偉.md" title="wikilink">鄧智偉作曲</a>）<br />
+<td style="text-align: center;"><p>主題音樂：烈火雄心3（<a href="../Page/鄧智偉.md" title="wikilink">鄧智偉</a>作曲）<br />
 插：有意（<a href="../Page/鄭嘉穎.md" title="wikilink">鄭嘉穎</a>、<a href="../Page/胡杏兒.md" title="wikilink">胡杏兒</a>）</p></td>
+<td style="text-align: center;"><p>外購劇（<a href="../Page/香港.md" title="wikilink">香港</a><a href="../Page/電視廣播有限公司.md" title="wikilink">TVB</a>）</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>11/07-<br />
+22/08</p></td>
+<td style="text-align: center;"><p><a href="../Page/萬凰之王.md" title="wikilink">萬凰之王</a><br />
+Curse of the Royal Harem</p></td>
+<td style="text-align: center;"><p>31</p></td>
+<td style="text-align: center;"><p><a href="../Page/宣萱.md" title="wikilink">宣　萱</a>、<a href="../Page/胡杏兒.md" title="wikilink">胡杏兒</a>、<a href="../Page/陳錦鴻.md" title="wikilink">陳錦鴻</a>、<br />
+<a href="../Page/黃淑儀.md" title="wikilink">黃淑儀</a>、<a href="https://zh.wikipedia.org/wiki/胡定欣" title="wikilink">胡定欣</a>、<a href="../Page/陳山聰.md" title="wikilink">陳山聰</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/莊偉建.md" title="wikilink">莊偉建</a></p></td>
+<td style="text-align: center;"><p>主：各安天命（<a href="../Page/關菊英.md" title="wikilink">關菊英</a>）<br />
+插：天造地設（<a href="../Page/胡杏兒.md" title="wikilink">胡杏兒</a>）</p></td>
 <td style="text-align: center;"><p>外購劇（<a href="../Page/香港.md" title="wikilink">香港</a><a href="../Page/電視廣播有限公司.md" title="wikilink">TVB</a>）</p></td>
 </tr>
 </tbody>
@@ -296,6 +309,19 @@ Watch Out Boss</p></td>
 <td style="text-align: center;"><p>外購劇（<a href="../Page/香港.md" title="wikilink">香港</a><a href="../Page/電視廣播有限公司.md" title="wikilink">TVB</a>）</p></td>
 </tr>
 <tr class="odd">
+<td style="text-align: center;"><p>19/07-<br />
+15/08</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/棟仁的時光" title="wikilink">棟仁的時光</a><br />
+Stealing Seconds</p></td>
+<td style="text-align: center;"><p>20</p></td>
+<td style="text-align: center;"><p><a href="../Page/袁偉豪.md" title="wikilink">袁偉豪</a>、<a href="https://zh.wikipedia.org/wiki/唐詩詠" title="wikilink">唐詩詠</a>、<a href="https://zh.wikipedia.org/wiki/朱晨麗" title="wikilink">朱晨麗</a>、<br />
+<a href="https://zh.wikipedia.org/wiki/胡鴻鈞" title="wikilink">胡鴻鈞</a>、<a href="https://zh.wikipedia.org/wiki/黃長興" title="wikilink">黃長興</a>、<a href="../Page/鄭敬基.md" title="wikilink">鄭敬基</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/葉鎮輝.md" title="wikilink">葉鎮輝</a></p></td>
+<td style="text-align: center;"><p>主：最難忘一天（<a href="https://zh.wikipedia.org/wiki/胡鴻鈞" title="wikilink">胡鴻鈞</a>）<br />
+尾：回到以前（<a href="../Page/菊梓喬.md" title="wikilink">菊梓喬</a>）</p></td>
+<td style="text-align: center;"><p>外購劇（<a href="../Page/香港.md" title="wikilink">香港</a><a href="../Page/電視廣播有限公司.md" title="wikilink">TVB</a>）</p></td>
+</tr>
+<tr class="even">
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
@@ -723,8 +749,7 @@ Police Tactical Unit 2019</p></td>
 ## 參考及連結
 
   - [Astro華麗台 官方網站](http://www.xuan.com.my/channels/wlt/)
-  - [Astro華麗台
-    官方節目表](https://whatson.astro.com.my/channels/astro-wah-lai-toi-hd/129/?cat=variety-entertainment&lang=chinese&stb=310)
+  - [Astro華麗台 官方節目表](https://whatson.astro.com.my/channels/astro-wah-lai-toi-hd/129/?cat=variety-entertainment&lang=chinese&stb=310)
   - [Astro華麗台 官方Facebook](https://web.facebook.com/WahLaiToi/)
 
 [Category:Astro華麗台電視劇列表](https://zh.wikipedia.org/wiki/Category:Astro華麗台電視劇列表 "wikilink")

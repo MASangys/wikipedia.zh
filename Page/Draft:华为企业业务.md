@@ -12,10 +12,8 @@
 
 2018年收入为744亿元人民币，突破百亿美元大关。迈入企业业务2.0时代。\[2\]
 
-2019年华为对企业业务的新定位是“Huawei
-Inside”，通过“无所不在的联接+数字平台+无所不及的智能”利用数字化来打造数字世界的底座，共建智能时代的新生态。\[3\]
+2019年华为对企业业务的新定位是“Huawei Inside”，通过“无所不在的联接+数字平台+无所不及的智能”利用数字化来打造数字世界的底座，共建智能时代的新生态。\[3\]
 
-1.
-    每经网|url=[http://www.nbd.com.cn/articles/1145945|work=www.nbd.com.cn|accessdate=2019-04-24](http://www.nbd.com.cn/articles/1145945%7Cwork=www.nbd.com.cn%7Caccessdate=2019-04-24)}}
+1.   每经网|url=[http://www.nbd.com.cn/articles/1145945|work=www.nbd.com.cn|accessdate=2019-04-24](http://www.nbd.com.cn/articles/1145945%7Cwork=www.nbd.com.cn%7Caccessdate=2019-04-24)}}
 2.
 3.

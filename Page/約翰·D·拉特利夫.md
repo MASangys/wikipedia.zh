@@ -1,4 +1,4 @@
-**約翰·D·拉特利夫**（，）是一名[美國獨立](https://zh.wikipedia.org/wiki/美國 "wikilink")[學者](https://zh.wikipedia.org/wiki/學者 "wikilink")，專門研究[迹象文学社和](../Page/迹象文学社.md "wikilink")[J·R·R·托爾金](../Page/J·R·R·托爾金.md "wikilink")\[1\]，曾編輯出版《[哈比人的歷史](../Page/哈比人的歷史.md "wikilink")》一書\[2\]。另編撰有不少與《[龍與地下城](https://zh.wikipedia.org/wiki/龍與地下城 "wikilink")》相關的書籍。
+**約翰·D·拉特利夫**（，）是一名[美國獨立](https://zh.wikipedia.org/wiki/美國 "wikilink")[學者](https://zh.wikipedia.org/wiki/學者 "wikilink")，專門研究[迹象文学社](../Page/迹象文学社.md "wikilink")和[J·R·R·托爾金](../Page/J·R·R·托爾金.md "wikilink")\[1\]，曾編輯出版《[哈比人的歷史](../Page/哈比人的歷史.md "wikilink")》一書\[2\]。另編撰有不少與《[龍與地下城](https://zh.wikipedia.org/wiki/龍與地下城 "wikilink")》相關的書籍。
 
 ## 生平
 
@@ -13,9 +13,7 @@
 ## 外部連結
 
   -
-[Category:獨立學者](https://zh.wikipedia.org/wiki/Category:獨立學者 "wikilink")
-[Category:馬凱特大學校友](https://zh.wikipedia.org/wiki/Category:馬凱特大學校友 "wikilink")
-[Category:托爾金專家](https://zh.wikipedia.org/wiki/Category:托爾金專家 "wikilink")
+[Category:獨立學者](https://zh.wikipedia.org/wiki/Category:獨立學者 "wikilink") [Category:馬凱特大學校友](https://zh.wikipedia.org/wiki/Category:馬凱特大學校友 "wikilink") [Category:托爾金專家](https://zh.wikipedia.org/wiki/Category:托爾金專家 "wikilink")
 
 1.
 2.

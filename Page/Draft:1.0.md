@@ -1,19 +1,16 @@
-**大江東去(藝術歌曲)** 是[青主創作於](https://zh.wikipedia.org/wiki/青主 "wikilink")1920
-年的[藝術歌曲](../Page/藝術歌曲.md "wikilink")，是中國近代第一首較具規模的歌曲創作。
+**大江東去(藝術歌曲)** 是[青主創作於](https://zh.wikipedia.org/wiki/青主 "wikilink")1920 年的[藝術歌曲](../Page/藝術歌曲.md "wikilink")，是中國近代第一首較具規模的歌曲創作。
 
 ## 作曲家與作曲起緣簡介
 
-曲作者廖尚果（又名黎[青主](https://zh.wikipedia.org/wiki/青主 "wikilink")），嚴格的說，青主並不是一個專職的音樂家，由於在[辛亥革命中](../Page/辛亥革命.md "wikilink")，身為廣東黃埔陸軍小學堂學生的廖尚果衝進[潮州府擊斃知府](https://zh.wikipedia.org/wiki/潮州 "wikilink")，因此，他以功臣資格受廣東政府派遣留學德國[柏林大學法學系](https://zh.wikipedia.org/wiki/柏林大學 "wikilink")，同時兼修鋼琴和[作曲理論](https://zh.wikipedia.org/wiki/作曲理論 "wikilink")，而〈大江東去〉正是此時期的作品。1930
-年，青主在上海他自辦的「X書店」，以有鋼琴伴奏的五線譜樂譜出版了這首歌曲，所以這首歌曲對國人的影響延後了十年。
+曲作者廖尚果（又名黎[青主](https://zh.wikipedia.org/wiki/青主 "wikilink")），嚴格的說，青主並不是一個專職的音樂家，由於在[辛亥革命](../Page/辛亥革命.md "wikilink")中，身為廣東黃埔陸軍小學堂學生的廖尚果衝進[潮州府擊斃知府](https://zh.wikipedia.org/wiki/潮州 "wikilink")，因此，他以功臣資格受廣東政府派遣留學德國[柏林大學法學系](https://zh.wikipedia.org/wiki/柏林大學 "wikilink")，同時兼修鋼琴和[作曲理論](https://zh.wikipedia.org/wiki/作曲理論 "wikilink")，而〈大江東去〉正是此時期的作品。1930 年，青主在上海他自辦的「X書店」，以有鋼琴伴奏的五線譜樂譜出版了這首歌曲，所以這首歌曲對國人的影響延後了十年。
 
-出版樂譜的封底附有「作曲者的話」，闡述了這首歌的緣起：1920年夏天，廖尚果與朋友泛舟湖上，遭遇狂風暴雨，雷雨中他們非常興奮。他回住所後，一面聽著外面風雨和波濤的聲音，一面忽得到這口樂歌的動機，思量一夜後，到了明天，吃過早餐，於是坐在鋼琴前，把昨夜得來的[動機](https://zh.wikipedia.org/wiki/動機 "wikilink")，接著蘇東坡那篇大江東去的詞句略為修理一下，隨即把它寫出來，這就是這首歌的緣起
-\[1\]。
+出版樂譜的封底附有「作曲者的話」，闡述了這首歌的緣起：1920年夏天，廖尚果與朋友泛舟湖上，遭遇狂風暴雨，雷雨中他們非常興奮。他回住所後，一面聽著外面風雨和波濤的聲音，一面忽得到這口樂歌的動機，思量一夜後，到了明天，吃過早餐，於是坐在鋼琴前，把昨夜得來的[動機](https://zh.wikipedia.org/wiki/動機 "wikilink")，接著蘇東坡那篇大江東去的詞句略為修理一下，隨即把它寫出來，這就是這首歌的緣起 \[1\]。
 
 他把這首歌寫成中國樂壇最夠水準的藝術歌之一，真為可媲美[舒伯特的](https://zh.wikipedia.org/wiki/舒伯特 "wikilink")「魔王」。
 
 ## 作詞家與詞簡介
 
-[北宋時期](../Page/北宋.md "wikilink")，文學家、政治家[蘇軾](https://zh.wikipedia.org/wiki/蘇軾 "wikilink")，既對[王安石急進的改革措施不滿](../Page/王安石.md "wikilink")，又不同意[司馬光盡廢新法](https://zh.wikipedia.org/wiki/司馬光 "wikilink")，被夾雜在新舊兩黨之間，仕途上經歷坎坷。元豐二年，速是因為作詩諷刺新法而被捕下獄，出獄後貶官[黃州](https://zh.wikipedia.org/wiki/黃州 "wikilink")，他懷才不遇，心情抑鬱，滋長了逃避現實的思想情緒，但由於他生性豁達，常常隨緣自適遊歷仿古。他眼見如畫的[長江](https://zh.wikipedia.org/wiki/長江 "wikilink")，赤壁壯觀景氣、耳聽濤聲，回想[三國時代的](https://zh.wikipedia.org/wiki/三國 "wikilink")[周瑜的英雄偉業](../Page/周瑜.md "wikilink")，寫下這首《[念奴嬌](https://zh.wikipedia.org/wiki/念奴嬌 "wikilink")·[赤壁懷古](https://zh.wikipedia.org/wiki/赤壁懷古 "wikilink")》。
+[北宋](../Page/北宋.md "wikilink")時期，文學家、政治家[蘇軾](https://zh.wikipedia.org/wiki/蘇軾 "wikilink")，既對[王安石](../Page/王安石.md "wikilink")急進的改革措施不滿，又不同意[司馬光盡廢新法](https://zh.wikipedia.org/wiki/司馬光 "wikilink")，被夾雜在新舊兩黨之間，仕途上經歷坎坷。元豐二年，速是因為作詩諷刺新法而被捕下獄，出獄後貶官[黃州](https://zh.wikipedia.org/wiki/黃州 "wikilink")，他懷才不遇，心情抑鬱，滋長了逃避現實的思想情緒，但由於他生性豁達，常常隨緣自適遊歷仿古。他眼見如畫的[長江](https://zh.wikipedia.org/wiki/長江 "wikilink")，赤壁壯觀景氣、耳聽濤聲，回想[三國時代的](https://zh.wikipedia.org/wiki/三國 "wikilink")[周瑜](../Page/周瑜.md "wikilink")的英雄偉業，寫下這首《[念奴嬌](https://zh.wikipedia.org/wiki/念奴嬌 "wikilink")·[赤壁懷古](https://zh.wikipedia.org/wiki/赤壁懷古 "wikilink")》。
 
 從歌詞的字裡行間，可領會的情景，竟是英雄豪傑，群集赤壁，各顯身手，鬥志昂揚，威風凜凜的史事，到如今故壘殘留，山河依舊，而風流人物，皆已作古，使人難免唏噓。聯想到自己不被賞識，滿懷抱負卻不得施展的處境，感嘆人生，但這種感慨和遺憾並非失望或頹廢，反而要向人們揭示：千古風流人物身名俱滅，但江山長在，歲月長留，當舉酒相酹。
 

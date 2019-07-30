@@ -1,5 +1,4 @@
-**Youla-Kucera参數化**（Youla–Kučera parametrization）也稱為**Youla参數化**（Youla
-parametrization）或是**YK参數化**，是[控制理论中一個](../Page/控制理论.md "wikilink")的公式，描述所有針對一受控體P的所有可能穩定回授控制器，表示為單一參數Q的函數。
+**Youla-Kucera参數化**（Youla–Kučera parametrization）也稱為**Youla参數化**（Youla parametrization）或是**YK参數化**，是[控制理论](../Page/控制理论.md "wikilink")中一個的公式，描述所有針對一受控體P的所有可能穩定回授控制器，表示為單一參數Q的函數。
 
 ## 細節
 
@@ -27,8 +26,7 @@ YK参數化是通用的結果，是控制理論的基礎結果，不過在新的
 
 其中待解的變數（X(s), Y(s)）也要是穩定proper函數。
 
-在找到穩定proper的X和Y後，可以定義穩定化控制器為\(C(s)=\frac{X(s)}{Y(s)}\)。在找到一個穩定化控制器後，可以用一個穩定proper的參數Q(s)來定義所有穩定化控制器，其集合為
-\(\left\{ \frac{X(s)+M(s)Q(s)}{Y(s) - N(s)Q(s)}, Q(s) \in \Omega \right\}\),
+在找到穩定proper的X和Y後，可以定義穩定化控制器為\(C(s)=\frac{X(s)}{Y(s)}\)。在找到一個穩定化控制器後，可以用一個穩定proper的參數Q(s)來定義所有穩定化控制器，其集合為 \(\left\{ \frac{X(s)+M(s)Q(s)}{Y(s) - N(s)Q(s)}, Q(s) \in \Omega \right\}\),
 
 ### 一般MIMO系統
 
@@ -60,30 +58,18 @@ YK参數化是通用的結果，是控制理論的基礎結果，不過在新的
 
 \[\mathbf{K_0(s)} = \mathbf{U} \mathbf{V}^{-1}\] 則所有的穩定控制器可以寫成
 
-\[\mathbf{K(s)} = (\mathbf{U}+\mathbf{M} \mathbf{Q}) (\mathbf{V}+\mathbf{N} \mathbf{Q})^{-1}\]
-其中Q是穩定且proper的函數\[2\]
+\[\mathbf{K(s)} = (\mathbf{U}+\mathbf{M} \mathbf{Q}) (\mathbf{V}+\mathbf{N} \mathbf{Q})^{-1}\] 其中Q是穩定且proper的函數\[2\]
 
 YK公式在工程上的重要性是若要找到符合特定準則的可穩定控制器，可以調整Q來符合想要的準則。
 
 ## 參考資料
 
-  - D. C. Youla, H. A. Jabri, J. J. Bongiorno: Modern Wiener-Hopf design
-    of optimal controllers: part II, IEEE Trans. Automat. Contr., AC-21
-    (1976) pp319–338
-  - V. Kučera: Stability of discrete linear feedback systems. In:
-    Proceedings of the 6th IFAC. World Congress, Boston, MA, USA,
-    (1975).
-  - C. A. Desoer, R.-W. Liu, J. Murray, R. Saeks. Feedback system
-    design: the fractional representation approach to analysis and
-    synthesis. IEEE Trans. Automat. Contr., AC-25 (3), (1980) pp399–412
-  - John Doyle, Bruce Francis, Allen Tannenbaum. Feedback control
-    theory. (1990).
-    [2](http://www.gest.unipd.it/~oboe/psc/testi/dft.pdf)
+  - D. C. Youla, H. A. Jabri, J. J. Bongiorno: Modern Wiener-Hopf design of optimal controllers: part II, IEEE Trans. Automat. Contr., AC-21 (1976) pp319–338
+  - V. Kučera: Stability of discrete linear feedback systems. In: Proceedings of the 6th IFAC. World Congress, Boston, MA, USA, (1975).
+  - C. A. Desoer, R.-W. Liu, J. Murray, R. Saeks. Feedback system design: the fractional representation approach to analysis and synthesis. IEEE Trans. Automat. Contr., AC-25 (3), (1980) pp399–412
+  - John Doyle, Bruce Francis, Allen Tannenbaum. Feedback control theory. (1990). [2](http://www.gest.unipd.it/~oboe/psc/testi/dft.pdf)
 
 [Category:控制理论](https://zh.wikipedia.org/wiki/Category:控制理论 "wikilink")
 
-1.  V. Kučera. A Method to Teach the Parameterization of All Stabilizing
-    Controllers. 18th IFAC World Congress. Italy, Milan,
-    2011.[1](http://www.nt.ntnu.no/users/skoge/prost/proceedings/ifac11-proceedings/data/html/papers/1148.pdf)
-2.  [Cellier: Lecture Notes on Numerical Methods for control,
-    Ch. 24](http://www.inf.ethz.ch/personal/cellier/Lect/NMC/Lect_nmc_index.html)
+1.  V. Kučera. A Method to Teach the Parameterization of All Stabilizing Controllers. 18th IFAC World Congress. Italy, Milan, 2011.[1](http://www.nt.ntnu.no/users/skoge/prost/proceedings/ifac11-proceedings/data/html/papers/1148.pdf)
+2.  [Cellier: Lecture Notes on Numerical Methods for control, Ch. 24](http://www.inf.ethz.ch/personal/cellier/Lect/NMC/Lect_nmc_index.html)

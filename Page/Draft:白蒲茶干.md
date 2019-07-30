@@ -38,24 +38,15 @@
 
 ## 相关活动与节目
 
-2014年，如皋白蒲茶干亮相南通乡村旅游节，被评为“乡村游十大名小吃”。 2018年4月23日，央视CCTV-10科教节目《文明密码》“豆腐传奇
-白蒲茶干”的节目播出。
+2014年，如皋白蒲茶干亮相南通乡村旅游节，被评为“乡村游十大名小吃”。 2018年4月23日，央视CCTV-10科教节目《文明密码》“豆腐传奇 白蒲茶干”的节目播出。
 
 ## 参考文献
 
-^人民网 \*
-[白蒲茶干](http://leaders.people.com.cn/GB/70158/80046/203340/12764067.html)
-^凤凰网江苏 \*
-[如皋白蒲茶干亮相2014南通乡村旅游节](http://js.ifeng.com/nt/news/detail_2014_10/20/3034261_0.shtml)
-^维基百科江苏省非物质文化遗产 \* [江苏省非物质文化遗产](../Page/江苏省非物质文化遗产.md "wikilink")
-^维基百科康熙帝南巡 \* [康熙帝南巡](../Page/康熙帝南巡.md "wikilink") ^中国文明网首页
-新华社记者许从军 \*
-[“只此一家”白蒲茶干：香从鲜中来](http://photo.kaiwind.com/mtjstp/201512/19/t20151219_3271372.shtml)
+^人民网 \* [白蒲茶干](http://leaders.people.com.cn/GB/70158/80046/203340/12764067.html) ^凤凰网江苏 \* [如皋白蒲茶干亮相2014南通乡村旅游节](http://js.ifeng.com/nt/news/detail_2014_10/20/3034261_0.shtml) ^维基百科江苏省非物质文化遗产 \* [江苏省非物质文化遗产](../Page/江苏省非物质文化遗产.md "wikilink") ^维基百科康熙帝南巡 \* [康熙帝南巡](../Page/康熙帝南巡.md "wikilink") ^中国文明网首页 新华社记者许从军 \* [“只此一家”白蒲茶干：香从鲜中来](http://photo.kaiwind.com/mtjstp/201512/19/t20151219_3271372.shtml)
 
 ## 外部链接
 
-  - [《文明密码》豆腐传奇
-    白蒲茶干](http://tv.cctv.com/2018/04/23/VIDE4HWuDKcH4rSk438EDQxI180423.shtml)
+  - [《文明密码》豆腐传奇 白蒲茶干](http://tv.cctv.com/2018/04/23/VIDE4HWuDKcH4rSk438EDQxI180423.shtml)
   - [如皋市人民政府—白蒲茶干](http://www.rugao.gov.cn/rgsrmzf/csms/content/8EF992EA268944D2B757BB94B75F4CD0_rg.html)
 
 <references />

@@ -1,10 +1,8 @@
-**那一夜我們在霓虹下起舞Neon Leon Live
-95**是[香港歌手](../Page/香港.md "wikilink")[黎明在](../Page/黎明.md "wikilink")[香港體育館](../Page/香港體育館.md "wikilink")（俗稱紅磡體育館）舉行的個人演唱會，於1995年11月2日至1995年11月27日期間舉行，合共演出二十六場\[1\]。
+**那一夜我們在霓虹下起舞Neon Leon Live 95**是[香港](../Page/香港.md "wikilink")歌手[黎明](../Page/黎明.md "wikilink")在[香港體育館](../Page/香港體育館.md "wikilink")（俗稱紅磡體育館）舉行的個人演唱會，於1995年11月2日至1995年11月27日期間舉行，合共演出二十六場\[1\]。
 
 ## 製作概念
 
-《那一夜我們在霓虹下起舞Neon Leon Live
-95》演唱會是由專人負責命名\[2\]，採用三面舞台的設計，從外國引進電腦科技器材及聘請技術人員負責演唱會的視聽效果\[3\]\[4\]。在籌備演唱會期間，黎明花了兩個月時間學習[結他](https://zh.wikipedia.org/wiki/結他 "wikilink")，準備以自彈自唱的形式演繹數首歌曲，並到[北京的](https://zh.wikipedia.org/wiki/北京 "wikilink")[中國音樂學院拜訪當時的聲學系主任](https://zh.wikipedia.org/wiki/中國音樂學院 "wikilink")[金鐵霖教授](https://zh.wikipedia.org/wiki/金鐵霖 "wikilink")，藉此提升自己的發聲技巧\[5\]。演唱會原定演出二十場，其後加開至二十六場\[6\]，是黎明歷年來場數最多的個人演唱會\[7\]\[8\]。
+《那一夜我們在霓虹下起舞Neon Leon Live 95》演唱會是由專人負責命名\[2\]，採用三面舞台的設計，從外國引進電腦科技器材及聘請技術人員負責演唱會的視聽效果\[3\]\[4\]。在籌備演唱會期間，黎明花了兩個月時間學習[結他](https://zh.wikipedia.org/wiki/結他 "wikilink")，準備以自彈自唱的形式演繹數首歌曲，並到[北京的](https://zh.wikipedia.org/wiki/北京 "wikilink")[中國音樂學院拜訪當時的聲學系主任](https://zh.wikipedia.org/wiki/中國音樂學院 "wikilink")[金鐵霖教授](https://zh.wikipedia.org/wiki/金鐵霖 "wikilink")，藉此提升自己的發聲技巧\[5\]。演唱會原定演出二十場，其後加開至二十六場\[6\]，是黎明歷年來場數最多的個人演唱會\[7\]\[8\]。
 
 ## 舉行情況
 

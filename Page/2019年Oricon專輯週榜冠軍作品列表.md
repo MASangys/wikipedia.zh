@@ -1,4 +1,4 @@
-**2019年Oricon專輯週榜冠軍作品列表**列出2019年度曾經登上[Oricon公信榜專輯週榜冠軍的](../Page/Oricon公信榜.md "wikilink")[專輯作品及其資料](../Page/音樂專輯.md "wikilink")。
+**2019年Oricon專輯週榜冠軍作品列表**列出2019年度曾經登上[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")專輯週榜冠軍的[專輯作品及其資料](../Page/音樂專輯.md "wikilink")。
 
 ## 冠軍專輯列表
 
@@ -116,7 +116,7 @@
 <tr class="odd">
 <td><p>4月1日</p></td>
 <td><p><a href="../Page/Best!_早安少女組。20th_Anniversary.md" title="wikilink">Best! 早安少女組。20th Anniversary</a></p></td>
-<td><p><a href="../Page/早安少女組。.md" title="wikilink">早安少女組。'19</a></p></td>
+<td><p><a href="../Page/早安少女組。.md" title="wikilink">早安少女組。</a>'19</p></td>
 <td><p>精選</p></td>
 <td><p>3.4</p></td>
 <td><p>1</p></td>
@@ -220,10 +220,42 @@
 <tr class="even">
 <td><p>7月1日</p></td>
 <td></td>
-<td><p>原創</p></td>
 <td><p><a href="../Page/King_&amp;_Prince.md" title="wikilink">King &amp; Prince</a></p></td>
+<td><p>原創</p></td>
 <td><p>46.8</p></td>
 <td><p>1</p></td>
+</tr>
+<tr class="odd">
+<td><p>7月8日</p></td>
+<td><p>{{link-ja|5×20 All the BEST</p></td>
+<td><p>1999-2019|5×20 All the BEST</p></td>
+<td><p>1999-2019}}</p></td>
+<td><p><a href="../Page/嵐.md" title="wikilink">嵐</a></p></td>
+<td><p>精選</p></td>
+</tr>
+<tr class="even">
+<td><p>7月15日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Strawberry_Love!" title="wikilink">Strawberry Love!</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/StPri" title="wikilink">StPri</a></p></td>
+<td><p>原創</p></td>
+<td><p>10.1</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="odd">
+<td><p>7月22日</p></td>
+<td></td>
+<td><p><a href="../Page/BUMP_OF_CHICKEN.md" title="wikilink">BUMP OF CHICKEN</a></p></td>
+<td><p>原創</p></td>
+<td><p>20.2</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="even">
+<td><p>7月29日</p></td>
+<td><p>5×20 All the BEST</p></td>
+<td><p>1999-2019</p></td>
+<td><p>嵐</p></td>
+<td><p>精選</p></td>
+<td><p>7.0</p></td>
 </tr>
 </tbody>
 </table>
@@ -234,6 +266,4 @@
 
 ## 參考資料
 
-[Category:2019年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2019年Oricon專輯週榜冠軍作品 "wikilink")
-[Category:每年Oricon專輯週榜冠軍作品列表](https://zh.wikipedia.org/wiki/Category:每年Oricon專輯週榜冠軍作品列表 "wikilink")
-[Category:2019年音樂排行榜](https://zh.wikipedia.org/wiki/Category:2019年音樂排行榜 "wikilink")
+[Category:2019年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2019年Oricon專輯週榜冠軍作品 "wikilink") [Category:每年Oricon專輯週榜冠軍作品列表](https://zh.wikipedia.org/wiki/Category:每年Oricon專輯週榜冠軍作品列表 "wikilink") [Category:2019年音樂排行榜](https://zh.wikipedia.org/wiki/Category:2019年音樂排行榜 "wikilink")

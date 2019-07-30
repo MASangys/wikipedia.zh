@@ -1,16 +1,6 @@
 <div id="contentSub">
 
-<span class="subpages">**Music
-Café節目列表**　**[2010年](../Page/Music_Café節目列表_\(2010年\).md "wikilink")
-- [2011年](../Page/Music_Café節目列表_\(2011年\).md "wikilink") -
-[2012年](../Page/Music_Café節目列表_\(2012年\).md "wikilink")** -
-**[2013年](../Page/Music_Café節目列表_\(2013年\).md "wikilink")** -
-**[2014年](../Page/Music_Café節目列表_\(2014年\).md "wikilink")** -
-**[2015年](../Page/Music_Café節目列表_\(2015年\).md "wikilink")** -
-**[2016年](../Page/Music_Café節目列表_\(2016年\).md "wikilink")** -
-**[2017年](../Page/Music_Café節目列表_\(2017年\).md "wikilink")** -
-**[2018年](../Page/Music_Café節目列表_\(2018年\).md "wikilink")** -
-**2019年**</span>
+<span class="subpages">**Music Café節目列表**　**[2010年](../Page/Music_Café節目列表_\(2010年\).md "wikilink") - [2011年](../Page/Music_Café節目列表_\(2011年\).md "wikilink") - [2012年](../Page/Music_Café節目列表_\(2012年\).md "wikilink")** - **[2013年](../Page/Music_Café節目列表_\(2013年\).md "wikilink")** - **[2014年](../Page/Music_Café節目列表_\(2014年\).md "wikilink")** - **[2015年](../Page/Music_Café節目列表_\(2015年\).md "wikilink")** - **[2016年](../Page/Music_Café節目列表_\(2016年\).md "wikilink")** - **[2017年](../Page/Music_Café節目列表_\(2017年\).md "wikilink")** - **[2018年](../Page/Music_Café節目列表_\(2018年\).md "wikilink")** - **2019年**</span>
 
 </div>
 
@@ -64,12 +54,20 @@ Café節目列表**　**[2010年](../Page/Music_Café節目列表_\(2010年\).md
 
 ## 6月
 
-| 集數  | J2首播日期 | 主題               | 嘉賓                                                                                                                           |
-| --- | ------ | ---------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| 423 | 6月1日   | 鍾舒祺、黃浩邦　忠於自己的音樂  | [鍾舒祺](../Page/鍾舒祺.md "wikilink")、[黃浩邦](../Page/黃浩邦.md "wikilink") |- style="background-color: \#FFFFFF" |                    |
-| 424 | 6月8日   | 陳嘉茵、吳嘉熙　跳唱歌手苦與樂  | [陳嘉茵](https://zh.wikipedia.org/wiki/陳嘉茵 "wikilink")、[吳嘉熙](../Page/吳嘉熙.md "wikilink") |- style="background-color: \#FFFFFF" | |
-| 425 | 6月15日  | 戴祖儀、林穎彤　新歌宣傳靠威嚇？ | [戴祖儀](../Page/戴祖儀.md "wikilink")、[林穎彤](../Page/林穎彤.md "wikilink") |- style="background-color: \#FFFFFF" |                    |
+| 集數  | J2首播日期 | 主題                | 嘉賓                                                                                                                                              |
+| --- | ------ | ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| 423 | 6月1日   | 鍾舒祺、黃浩邦　忠於自己的音樂   | [鍾舒祺](../Page/鍾舒祺.md "wikilink")、[黃浩邦](../Page/黃浩邦.md "wikilink") |- style="background-color: \#FFFFFF" |                                       |
+| 424 | 6月8日   | 陳嘉茵、吳嘉熙　跳唱歌手苦與樂   | [陳嘉茵](https://zh.wikipedia.org/wiki/陳嘉茵 "wikilink")、[吳嘉熙](../Page/吳嘉熙.md "wikilink") |- style="background-color: \#FFFFFF" |                    |
+| 425 | 6月15日  | 戴祖儀、林穎彤　新歌宣傳靠威嚇？  | [戴祖儀](../Page/戴祖儀.md "wikilink")、[林穎彤](../Page/林穎彤.md "wikilink") |- style="background-color: \#FFFFFF" |                                       |
+| 426 | 6月22日  | 鄭俊弘、林欣彤　分享新音樂     | [鄭俊弘](../Page/鄭俊弘.md "wikilink")、[林欣彤](../Page/林欣彤.md "wikilink") |- style="background-color: \#FFFFFF" |                                       |
+| 427 | 6月29日  | 羅凱鈴、鄒旻諾　Busker闖樂壇 | [羅凱鈴](https://zh.wikipedia.org/wiki/羅凱鈴 "wikilink")、[鄒旻諾](https://zh.wikipedia.org/wiki/鄒旻諾 "wikilink") |- style="background-color: \#FFFFFF" | |
 
-[Category:無綫電視節目列表](https://zh.wikipedia.org/wiki/Category:無綫電視節目列表 "wikilink")
-[Category:Music_Café](https://zh.wikipedia.org/wiki/Category:Music_Café "wikilink")
-[Category:2019年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2019年無綫電視節目 "wikilink")
+## 7月
+
+| 集數  | J2首播日期 | 主題              | 嘉賓                                                                                                                           |
+| --- | ------ | --------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| 428 | 7月6日   | 陳慧敏、廖仲謙　「巨聲幫」集合 | [陳慧敏](../Page/陳慧敏_\(歌手\).md "wikilink")、[廖仲謙](../Page/廖仲謙.md "wikilink") |- style="background-color: \#FFFFFF" |             |
+| 429 | 7月13日  | 黃妍、姜麗文　歌手也有粉絲時  | [黃　妍](../Page/黃妍.md "wikilink")、[姜麗文](../Page/姜麗文.md "wikilink") |- style="background-color: \#FFFFFF" |                     |
+| 430 | 7月20日  | 葉巧琳、鍾達茵　改變就是人生  | [葉巧琳](../Page/樂遊團.md "wikilink")、[鍾達茵](https://zh.wikipedia.org/wiki/鍾達茵 "wikilink") |- style="background-color: \#FFFFFF" | |
+
+[Category:無綫電視節目列表](https://zh.wikipedia.org/wiki/Category:無綫電視節目列表 "wikilink") [Category:Music_Café](https://zh.wikipedia.org/wiki/Category:Music_Café "wikilink") [Category:2019年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2019年無綫電視節目 "wikilink")

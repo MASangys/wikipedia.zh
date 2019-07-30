@@ -1,6 +1,4 @@
-**LUCENTE**（），是[韓國Noga](https://zh.wikipedia.org/wiki/韓國 "wikilink")
-Entertainment於2018年首次推出的韓國男子組合，由 U. Seong，Hero，Bao，Z.
-Hoo，Kogun，Parkha，Taejun七位成員所組成。
+**LUCENTE**（），是[韓國Noga](https://zh.wikipedia.org/wiki/韓國 "wikilink") Entertainment於2018年首次推出的韓國男子組合，由 U. Seong，Hero，Bao，Z. Hoo，Kogun，Parkha，Taejun七位成員所組成。
 
 LUCENTE是拉丁語及英語結合而成的，意思是『像星星一樣閃耀發光』\[1\]，粉絲名稱為LU. B (RU. B， 韓語：루비 意為紅寶石)。
 
@@ -12,9 +10,8 @@ LUCENTE是拉丁語及英語結合而成的，意思是『像星星一樣閃耀�
   - Z. Hoo曾為韓國街頭團體「DOB」一員。
   - Bao曾為男子團體「[LC9](../Page/LC9.md "wikilink")」的預備成員，團體在Bao成爲正式成員之前解散。
   - Kogun曾為男子團體「Zest」的成員。
-  - 朴河曾為男子團體「Nu'Bility」的成員，曾經參加《[PRODUCE 101
-    第二季](../Page/PRODUCE_101_第二季.md "wikilink")》和《[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")》。
-  - 太俊曾是[DSP媒體的練習生](../Page/DSP媒體.md "wikilink")。
+  - 朴河曾為男子團體「Nu'Bility」的成員，曾經參加《[PRODUCE 101 第二季](../Page/PRODUCE_101_第二季.md "wikilink")》和《[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")》。
+  - 太俊曾是[DSP媒體](../Page/DSP媒體.md "wikilink")的練習生。
 
 **出道后**
 
@@ -367,8 +364,7 @@ LUCENTE是拉丁語及英語結合而成的，意思是『像星星一樣閃耀�
       - [太俊 Twitter](https://twitter.com/Lucente_Taejun)
       - [朴河 Twitter](https://twitter.com/lucente_parkha)
 
-  - LUCENTE
-    [官方Youtube](https://www.youtube.com/channel/UC8Y-nF5yeax_oF8rzokXc6g)
+  - LUCENTE [官方Youtube](https://www.youtube.com/channel/UC8Y-nF5yeax_oF8rzokXc6g)
 
   - LUCENTE Instagram
 
@@ -381,10 +377,7 @@ LUCENTE是拉丁語及英語結合而成的，意思是『像星星一樣閃耀�
       - [太俊 Instagram](https://www.instagram.com/taeee_juni/)
       - [朴河 Instagram](https://www.instagram.com/pxxk_hx/)
 
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:2018年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2018年成立的音樂團體 "wikilink")
+[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2018年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2018年成立的音樂團體 "wikilink")
 
 1.
 2.

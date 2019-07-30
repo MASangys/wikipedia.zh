@@ -1,27 +1,20 @@
-Paradox Development
-Studio是一家成立于1995年的瑞典[电子游戏开发商](../Page/游戏开发者.md "wikilink")。它与其母公司，电子游戏发行商[Paradox
-Interactive](../Page/Paradox_Interactive.md "wikilink")，密切相关。它以其制作的大战略游戏[歐陸風雲系列](../Page/歐陸風雲IV.md "wikilink")、[鋼鐵雄心系列](../Page/鋼鐵雄心IV.md "wikilink")、[十字军之王系列](../Page/十字军之王II.md "wikilink")、[维多利亚系列和](../Page/维多利亚II.md "wikilink")[群星而闻名](../Page/群星_\(游戏\).md "wikilink")。
+Paradox Development Studio是一家成立于1995年的瑞典[电子游戏开发商](../Page/游戏开发者.md "wikilink")。它与其母公司，电子游戏发行商[Paradox Interactive](../Page/Paradox_Interactive.md "wikilink")，密切相关。它以其制作的大战略游戏[歐陸風雲系列](../Page/歐陸風雲IV.md "wikilink")、[鋼鐵雄心系列](../Page/鋼鐵雄心IV.md "wikilink")、[十字军之王系列](../Page/十字军之王II.md "wikilink")、[维多利亚系列和](../Page/维多利亚II.md "wikilink")[群星而闻名](../Page/群星_\(游戏\).md "wikilink")。
 
 ## 历史
 
-Paradox Development Studio的前身是瑞典桌游公司Target
-Games，自1995年以来一直是以PC为核心的大战略游戏开发商。
+Paradox Development Studio的前身是瑞典桌游公司Target Games，自1995年以来一直是以PC为核心的大战略游戏开发商。
 
 1999年，该公司分为两个独立的实体：专注于PC大战略游戏的Paradox Interactive和专注于制作桌游和角色扮演游戏的。
 
-2012年1月，该公司又分为两家公司，[Paradox
-Interactive和Paradox](../Page/Paradox_Interactive.md "wikilink")
-Development Studio。Paradox Interactive成为专注于各种类型PC游戏的发行商，Paradox
-Development Studio则成为专注于大战略游戏的开发工作室。
+2012年1月，该公司又分为两家公司，[Paradox Interactive和Paradox](../Page/Paradox_Interactive.md "wikilink") Development Studio。Paradox Interactive成为专注于各种类型PC游戏的发行商，Paradox Development Studio则成为专注于大战略游戏的开发工作室。
 
 该公司是第一批以大战略类型制作游戏的开发商之一，而工作室开发的大部分游戏都属于该类别。大战略游戏历史战略游戏，通常涵盖整个世界地图，包括经济，外交和战争等元素。
 
 ## 克劳塞维茨引擎
 
-2007年，Paradox开发工作室在[歐陸風雲III中推出了一款名为克劳塞维茨](../Page/歐陸風雲III.md "wikilink")（Clausewitz，以普鲁士将军[卡尔·冯·克劳塞维茨命名](../Page/卡尔·冯·克劳塞维茨.md "wikilink")）的专有游戏引擎，该引擎在其之后开发的每一款游戏中都有使用\[1\]。该引擎提供世界地图的部分或全部的3D视图，具体取决于所玩的游戏。是第一款使用克劳塞维茨2引擎的游戏。
+2007年，Paradox开发工作室在[歐陸風雲III](../Page/歐陸風雲III.md "wikilink")中推出了一款名为克劳塞维茨（Clausewitz，以普鲁士将军[卡尔·冯·克劳塞维茨](../Page/卡尔·冯·克劳塞维茨.md "wikilink")命名）的专有游戏引擎，该引擎在其之后开发的每一款游戏中都有使用\[1\]。该引擎提供世界地图的部分或全部的3D视图，具体取决于所玩的游戏。是第一款使用克劳塞维茨2引擎的游戏。
 
-该引擎旨在向任何希望修改文件以创建[模组的人开放](../Page/遊戲模組.md "wikilink")。
-因此，在这个引擎中制作的游戏可以用文本编辑器进行修改，并且它为Paradox的游戏发展出庞大的模组社区。\[2\]
+该引擎旨在向任何希望修改文件以创建[模组的人开放](../Page/遊戲模組.md "wikilink")。 因此，在这个引擎中制作的游戏可以用文本编辑器进行修改，并且它为Paradox的游戏发展出庞大的模组社区。\[2\]
 
 ## 开发游戏目录
 
@@ -311,15 +304,11 @@ Development Studio则成为专注于大战略游戏的开发工作室。
 
 ## 外部链接
 
-  - [Official
-    website](http://www.paradoxplaza.com/corporate/development-studio)
+  - [Official website](http://www.paradoxplaza.com/corporate/development-studio)
 
-[Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
-[Category:瑞典电子游戏公司](https://zh.wikipedia.org/wiki/Category:瑞典电子游戏公司 "wikilink")
-[Category:1995年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1995年開業電子遊戲公司 "wikilink")
+[Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink") [Category:瑞典电子游戏公司](https://zh.wikipedia.org/wiki/Category:瑞典电子游戏公司 "wikilink") [Category:1995年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1995年開業電子遊戲公司 "wikilink")
 
 1.
 2.
 3.
-4.  [Crusader Kings II](https://www.paradoxplaza.com/crusader-kings-2),
-    Paradox Plaza
+4.  [Crusader Kings II](https://www.paradoxplaza.com/crusader-kings-2), Paradox Plaza

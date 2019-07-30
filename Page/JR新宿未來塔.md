@@ -11,11 +11,6 @@
   - LUMINE 0 -
   - 駅ビルポータルサイト「駅パラ」 -
 
-[Category:新宿](https://zh.wikipedia.org/wiki/Category:新宿 "wikilink")
-[Category:新宿區摩天大樓](https://zh.wikipedia.org/wiki/Category:新宿區摩天大樓 "wikilink")
-[Category:JR東日本集團](https://zh.wikipedia.org/wiki/Category:JR東日本集團 "wikilink")
-[Category:2016年完工建築物](https://zh.wikipedia.org/wiki/Category:2016年完工建築物 "wikilink")
-[Category:150米至199米高的摩天大樓](https://zh.wikipedia.org/wiki/Category:150米至199米高的摩天大樓 "wikilink")
+[Category:新宿](https://zh.wikipedia.org/wiki/Category:新宿 "wikilink") [Category:新宿區摩天大樓](https://zh.wikipedia.org/wiki/Category:新宿區摩天大樓 "wikilink") [Category:JR東日本集團](https://zh.wikipedia.org/wiki/Category:JR東日本集團 "wikilink") [Category:2016年完工建築物](https://zh.wikipedia.org/wiki/Category:2016年完工建築物 "wikilink") [Category:150米至199米高的摩天大樓](https://zh.wikipedia.org/wiki/Category:150米至199米高的摩天大樓 "wikilink")
 
-1.  「JR新宿ミライナタワー開業、線路上からトレインビューも」 - [TBS
-    News](http://news.tbs.co.jp/newseye/tbs_newseye2733652.html)
+1.  「JR新宿ミライナタワー開業、線路上からトレインビューも」 - [TBS News](http://news.tbs.co.jp/newseye/tbs_newseye2733652.html)

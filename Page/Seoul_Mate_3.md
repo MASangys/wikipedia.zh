@@ -1,6 +1,4 @@
-《**Seoul
-Mate3**》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN電視台於](https://zh.wikipedia.org/wiki/tvN "wikilink")2019年7月1日推出的綜藝節目，是一檔邀請外國嘉賓到自己家中生活，一同累積回憶的全球home
-sharing真人秀節目\[1\]。
+《**Seoul Mate3**》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN電視台於](https://zh.wikipedia.org/wiki/tvN "wikilink")2019年7月1日推出的綜藝節目，是一檔邀請外國嘉賓到自己家中生活，一同累積回憶的全球home sharing真人秀節目\[1\]。
 
 ## 節目成員
 
@@ -62,8 +60,7 @@ sharing真人秀節目\[1\]。
 
 ## 收視率
 
-<small> 以下紀錄《**Seoul
-Mate3**》節目收視，收視最低的集數以表示，收視最高的集數以表示，而空格則表示該集的收視沒有相關數據。</small>
+<small> 以下紀錄《**Seoul Mate3**》節目收視，收視最低的集數以表示，收視最高的集數以表示，而空格則表示該集的收視沒有相關數據。</small>
 
 <table>
 <thead>
@@ -164,8 +161,7 @@ Mate3**》節目收視，收視最低的集數以表示，收視最高的集數�
   - [官方網站](http://program.m.tving.com/tvn/seoulmate3)
   - [Seoul Mate3-NAVER](https://m.entertain.naver.com/tvBrand/9793013)
 
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
+[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
 
 1.
 2.

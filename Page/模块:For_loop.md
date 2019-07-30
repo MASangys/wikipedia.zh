@@ -1,8 +1,6 @@
 \-- This module implements .
 
-local getArgs = require('Module:Arguments').getArgs local yesno =
-require('Module:Yesno') local makeTemplate = require('Module:Template
-invocation').invocation p = {}
+local getArgs = require('Module:Arguments').getArgs local yesno = require('Module:Yesno') local makeTemplate = require('Module:Template invocation').invocation p = {}
 
 function p.main(frame)
 

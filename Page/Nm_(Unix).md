@@ -1,13 +1,10 @@
-**`nm`**命令存在于多数后出版本的[Unix及](https://zh.wikipedia.org/wiki/Unix "wikilink")[类似的](https://zh.wikipedia.org/wiki/类Unix操作系统 "wikilink")[操作系统中](../Page/操作系统.md "wikilink")。`nm`被用来检查[二进制文件](https://zh.wikipedia.org/wiki/二进制文件 "wikilink")（包括[库](https://zh.wikipedia.org/wiki/函数库 "wikilink")，编译后的[目标模块](https://zh.wikipedia.org/wiki/目标文件 "wikilink")，共享目标文件，和独立[可执行文件](https://zh.wikipedia.org/wiki/可执行文件 "wikilink")）并显示这些文件的内容，或存储在其中的[元信息](../Page/元数据.md "wikilink")，特别是[符号表](../Page/符号表.md "wikilink")。来自`nm`的输出区分各种符号类型。例如，在一个目标文件所提供的[函数和它所需要的函数之间是有区别的](https://zh.wikipedia.org/wiki/子例程 "wikilink")。`nm`被用作[调试的辅助工具](https://zh.wikipedia.org/wiki/调试 "wikilink")，帮助解决名字冲突和[C++](../Page/C++.md "wikilink")[名称修饰引起的问题](https://zh.wikipedia.org/wiki/名称修饰 "wikilink")，和验证[工具链的其他部分](https://zh.wikipedia.org/wiki/工具链 "wikilink")。
+**`nm`**命令存在于多数后出版本的[Unix及](https://zh.wikipedia.org/wiki/Unix "wikilink")[类似的](https://zh.wikipedia.org/wiki/类Unix操作系统 "wikilink")[操作系统](../Page/操作系统.md "wikilink")中。`nm`被用来检查[二进制文件](https://zh.wikipedia.org/wiki/二进制文件 "wikilink")（包括[库](https://zh.wikipedia.org/wiki/函数库 "wikilink")，编译后的[目标模块](https://zh.wikipedia.org/wiki/目标文件 "wikilink")，共享目标文件，和独立[可执行文件](https://zh.wikipedia.org/wiki/可执行文件 "wikilink")）并显示这些文件的内容，或存储在其中的[元信息](../Page/元数据.md "wikilink")，特别是[符号表](../Page/符号表.md "wikilink")。来自`nm`的输出区分各种符号类型。例如，在一个目标文件所提供的[函数和它所需要的函数之间是有区别的](https://zh.wikipedia.org/wiki/子例程 "wikilink")。`nm`被用作[调试的辅助工具](https://zh.wikipedia.org/wiki/调试 "wikilink")，帮助解决名字冲突和[C++](../Page/C++.md "wikilink")[名称修饰引起的问题](https://zh.wikipedia.org/wiki/名称修饰 "wikilink")，和验证[工具链的其他部分](https://zh.wikipedia.org/wiki/工具链 "wikilink")。
 
-[GNU计划在](https://zh.wikipedia.org/wiki/GNU计划 "wikilink")[GNU
-Binutils包中提供了一个](../Page/GNU_Binutils.md "wikilink")`nm`的实现。[`objdump`](https://zh.wikipedia.org/wiki/objdump "wikilink")`
--t `和[`readelf`](https://zh.wikipedia.org/wiki/readelf "wikilink")`
--s `也可以查看目标文件的符号表。
+[GNU计划在](https://zh.wikipedia.org/wiki/GNU计划 "wikilink")[GNU Binutils包中提供了一个](../Page/GNU_Binutils.md "wikilink")`nm`的实现。[`objdump`](https://zh.wikipedia.org/wiki/objdump "wikilink")`  -t `和[`readelf`](https://zh.wikipedia.org/wiki/readelf "wikilink")`  -s `也可以查看目标文件的符号表。
 
 ## nm输出样例
 
-下面的例子展示了变量和函数在[全局](../Page/全局变量.md "wikilink")、[局部](https://zh.wikipedia.org/wiki/局部变量 "wikilink")、[外部](../Page/外部变量.md "wikilink")、[静态](../Page/静态变量.md "wikilink")、[自动和](../Page/自动变量.md "wikilink")[初始化的不同情况下的不同符号类型](../Page/初始化.md "wikilink")。
+下面的例子展示了变量和函数在[全局](../Page/全局变量.md "wikilink")、[局部](https://zh.wikipedia.org/wiki/局部变量 "wikilink")、[外部](../Page/外部变量.md "wikilink")、[静态](../Page/静态变量.md "wikilink")、[自动和](../Page/自动变量.md "wikilink")[初始化](../Page/初始化.md "wikilink")的不同情况下的不同符号类型。
 
 ``` c
 /*
@@ -63,8 +60,7 @@ void non_mangled_function(void)
 }
 ```
 
-如果上述代码使用了[gcc](https://zh.wikipedia.org/wiki/gcc "wikilink")
-C编译器来编译，`nm`命令的输出将是如下这样：
+如果上述代码使用了[gcc](https://zh.wikipedia.org/wiki/gcc "wikilink") C编译器来编译，`nm`命令的输出将是如下这样：
 
 ``` console
 $ nm test.o
@@ -104,8 +100,7 @@ $ nm test.o
 0000000000000008 d _ZZ15global_functioniE21local_static_var_init
 ```
 
-在二者输出之间的不同还展示了通过在C++代码中使用[extern
-"C"解决名称修饰问题的一个例子](https://zh.wikipedia.org/wiki/extern_"C" "wikilink")。
+在二者输出之间的不同还展示了通过在C++代码中使用[extern "C"解决名称修饰问题的一个例子](https://zh.wikipedia.org/wiki/extern_"C" "wikilink")。
 
 ## 参见
 
@@ -115,5 +110,4 @@ $ nm test.o
 ## 外部链接
 
   -
-[Category:Unix编程工具](https://zh.wikipedia.org/wiki/Category:Unix编程工具 "wikilink")
-[Category:Unix_SUS2008实用工具](https://zh.wikipedia.org/wiki/Category:Unix_SUS2008实用工具 "wikilink")
+[Category:Unix编程工具](https://zh.wikipedia.org/wiki/Category:Unix编程工具 "wikilink") [Category:Unix_SUS2008实用工具](https://zh.wikipedia.org/wiki/Category:Unix_SUS2008实用工具 "wikilink")

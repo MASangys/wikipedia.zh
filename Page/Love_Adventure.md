@@ -1,8 +1,4 @@
-《**LOVE
-ADVENTURE**》是[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[女子組合](../Page/女子音乐组合.md "wikilink")[Cherry
-Bullet作為回歸作品的第二張單曲專輯](../Page/Cherry_Bullet.md "wikilink")，由[FNC
-Entertainment於](../Page/FNC娛樂.md "wikilink")2019年5月22日發行，主打歌曲為《Really
-Really》。
+《**LOVE ADVENTURE**》是[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[女子組合](../Page/女子音乐组合.md "wikilink")[Cherry Bullet作為回歸作品的第二張單曲專輯](../Page/Cherry_Bullet.md "wikilink")，由[FNC Entertainment於](../Page/FNC娛樂.md "wikilink")2019年5月22日發行，主打歌曲為《Really Really》。
 
 ## 日程
 
@@ -172,7 +168,6 @@ Really》。
 
 ## 參考
 
-[Category:2019年單曲](https://zh.wikipedia.org/wiki/Category:2019年單曲 "wikilink")
-[Category:Cherry_Bullet](https://zh.wikipedia.org/wiki/Category:Cherry_Bullet "wikilink")
+[Category:2019年單曲](https://zh.wikipedia.org/wiki/Category:2019年單曲 "wikilink") [Category:Cherry_Bullet](https://zh.wikipedia.org/wiki/Category:Cherry_Bullet "wikilink")
 
 1.  <https://twitter.com/cherrybullet/status/1126502163260162048>

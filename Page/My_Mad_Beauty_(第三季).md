@@ -1,6 +1,4 @@
-《**My Mad Beauty
-(第三季)**》（），簡稱MMB3（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")頻道於2019年推出的綜藝節目\[1\]，由[朴娜勑](../Page/朴娜勑.md "wikilink")、[韓惠珍](../Page/韓惠珍_\(模特兒\).md "wikilink")、[美珠](../Page/李美珠.md "wikilink")（[Lovelyz](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")）、[有情](../Page/磪有情.md "wikilink")（[Weki
-Meki](../Page/Weki_Meki.md "wikilink")）等人共同主持\[2\]，節目主軸為新美妝潮流的分享與討論\[3\]\[4\]。
+《**My Mad Beauty (第三季)**》（），簡稱MMB3（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")頻道於2019年推出的綜藝節目\[1\]，由[朴娜勑](../Page/朴娜勑.md "wikilink")、[韓惠珍](../Page/韓惠珍_\(模特兒\).md "wikilink")、[美珠](../Page/李美珠.md "wikilink")（[Lovelyz](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")）、[有情](../Page/磪有情.md "wikilink")（[Weki Meki](../Page/Weki_Meki.md "wikilink")）等人共同主持\[2\]，節目主軸為新美妝潮流的分享與討論\[3\]\[4\]。
 
 ## 節目成員
 
@@ -72,9 +70,7 @@ Meki](../Page/Weki_Meki.md "wikilink")）等人共同主持\[2\]，節目主軸�
 
   - [官方網站](http://tv.jtbc.joins.com/plan/pr10011020)
 
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:JTBC](https://zh.wikipedia.org/wiki/Category:JTBC "wikilink")
+[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:JTBC](https://zh.wikipedia.org/wiki/Category:JTBC "wikilink")
 
 1.
 2.

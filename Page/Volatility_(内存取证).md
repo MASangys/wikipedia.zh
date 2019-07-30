@@ -1,8 +1,6 @@
-**Volatility**是一个用于[事件响应和](https://zh.wikipedia.org/wiki/事件响应 "wikilink")[恶意软件](../Page/恶意软件.md "wikilink")分析的[开源](https://zh.wikipedia.org/wiki/开源 "wikilink")[内存取证框架](https://zh.wikipedia.org/wiki/内存取证 "wikilink")。它是用[Python](../Page/Python.md "wikilink")编写的，支持[Microsoft
-Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，[macOS和](https://zh.wikipedia.org/wiki/macOS "wikilink")[Linux](../Page/Linux.md "wikilink")（从版本2.5\[1\]开始）。
+**Volatility**是一个用于[事件响应和](https://zh.wikipedia.org/wiki/事件响应 "wikilink")[恶意软件](../Page/恶意软件.md "wikilink")分析的[开源](https://zh.wikipedia.org/wiki/开源 "wikilink")[内存取证框架](https://zh.wikipedia.org/wiki/内存取证 "wikilink")。它是用[Python](../Page/Python.md "wikilink")编写的，支持[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，[macOS和](https://zh.wikipedia.org/wiki/macOS "wikilink")[Linux](../Page/Linux.md "wikilink")（从版本2.5\[1\]开始）。
 
-Volatility是由[计算机科学家和](https://zh.wikipedia.org/wiki/计算机科学家 "wikilink")[企业家](../Page/企业家.md "wikilink")Aaron
-Walters创建，借鉴了他在[内存取证方面所做的学术研究](https://zh.wikipedia.org/wiki/内存取证 "wikilink")。\[2\]\[3\]
+Volatility是由[计算机科学家和](https://zh.wikipedia.org/wiki/计算机科学家 "wikilink")[企业家](../Page/企业家.md "wikilink")Aaron Walters创建，借鉴了他在[内存取证方面所做的学术研究](https://zh.wikipedia.org/wiki/内存取证 "wikilink")。\[2\]\[3\]
 
 ## 操作系统支持
 
@@ -65,14 +63,8 @@ Volatility支持各种样本文件格式以及在这些格式之间进行转换�
 
 ## 参考文献
 
-\[\[Cate
+[Category:计算机取证](https://zh.wikipedia.org/wiki/Category:计算机取证 "wikilink")
 
 1.  <http://www.volatilityfoundation.org/#!25/c1f29>
-2.  Petroni, N. L., Walters, A., Fraser, T., & Arbaugh, W. A. (2006).
-    *FATKit: A framework for the extraction and analysis of digital
-    forensic data from volatile system memory*. Digital Investigation,
-    3(4), 197-210.
-3.  Walters, A., & Petroni, N. L. (2007). Volatools: Integrating
-    Volatile Memory into the Digital Investigation Process. [Black Hat
-    Briefings](https://zh.wikipedia.org/wiki/Black_Hat_Briefings "wikilink")
-    DC 2007, 1-18.
+2.  Petroni, N. L., Walters, A., Fraser, T., & Arbaugh, W. A. (2006). *FATKit: A framework for the extraction and analysis of digital forensic data from volatile system memory*. Digital Investigation, 3(4), 197-210.
+3.  Walters, A., & Petroni, N. L. (2007). Volatools: Integrating Volatile Memory into the Digital Investigation Process. [Black Hat Briefings](https://zh.wikipedia.org/wiki/Black_Hat_Briefings "wikilink") DC 2007, 1-18.

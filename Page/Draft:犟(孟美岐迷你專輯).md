@@ -24,8 +24,7 @@
 
   -
   -
-[Category:2019年迷你專輯](https://zh.wikipedia.org/wiki/Category:2019年迷你專輯 "wikilink")
-[Category:中國音樂專輯](https://zh.wikipedia.org/wiki/Category:中國音樂專輯 "wikilink")
+[Category:2019年迷你專輯](https://zh.wikipedia.org/wiki/Category:2019年迷你專輯 "wikilink") [Category:中國音樂專輯](https://zh.wikipedia.org/wiki/Category:中國音樂專輯 "wikilink")
 
 1.
 2.

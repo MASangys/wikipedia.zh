@@ -2,7 +2,7 @@
 
 ## 歷史
 
-於1945年創刋於法國的《[ELLE](../Page/ELLE.md "wikilink")》雜誌繼1987年於[香港發行後的第二年](../Page/香港.md "wikilink")，即1988年登陸中國的。由法國夥拍[上海世紀出版股份有限公司](https://zh.wikipedia.org/wiki/上海世紀出版集團 "wikilink")[譯文出版社](https://zh.wikipedia.org/wiki/上海譯文出版社 "wikilink")、中國體育報業總社及浙江《[睿士](https://zh.wikipedia.org/wiki/睿士 "wikilink")》雜誌社合作出版。從最開始的季刊、雙月刊然後發展到月刊。採編方式亦從購買並翻譯國際版權為主，轉形至約八成內容均由中國團隊獨立製作\[1\]。
+於1945年創刋於法國的《[ELLE](../Page/ELLE.md "wikilink")》雜誌繼1987年於[香港](../Page/香港.md "wikilink")發行後的第二年，即1988年登陸中國的。由法國夥拍[上海世紀出版股份有限公司](https://zh.wikipedia.org/wiki/上海世紀出版集團 "wikilink")[譯文出版社](https://zh.wikipedia.org/wiki/上海譯文出版社 "wikilink")、中國體育報業總社及浙江《[睿士](https://zh.wikipedia.org/wiki/睿士 "wikilink")》雜誌社合作出版。從最開始的季刊、雙月刊然後發展到月刊。採編方式亦從購買並翻譯國際版權為主，轉形至約八成內容均由中國團隊獨立製作\[1\]。
 
 2011年12月，《ELLE世界時裝之苑》為[赫斯特國際集團收購](https://zh.wikipedia.org/wiki/赫斯特國際集團 "wikilink")。2012年，雜誌改為半月刊\[2\]，為《ELLE》全球首個半月刊版本，但於2017年三月號起改回月刋\[3\]。
 
@@ -52,8 +52,7 @@
 
 ## 參考文獻
 
-[Category:中文杂志](https://zh.wikipedia.org/wiki/Category:中文杂志 "wikilink")
-[Category:時尚雜誌](https://zh.wikipedia.org/wiki/Category:時尚雜誌 "wikilink")
+[Category:中文杂志](https://zh.wikipedia.org/wiki/Category:中文杂志 "wikilink") [Category:時尚雜誌](https://zh.wikipedia.org/wiki/Category:時尚雜誌 "wikilink")
 
 1.
 

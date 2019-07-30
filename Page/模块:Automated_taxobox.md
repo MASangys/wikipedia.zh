@@ -1,19 +1,6 @@
-require('Module:No globals') local TaxonItalics =
-require('Module:TaxonItalics') local Autotaxobox =
-require('Module:Autotaxobox') local ItalicTitle = require('Module:Italic
-title') local p = {} -- functions made public local l = {} -- internal
-functions, kept separate
+require('Module:No globals') local TaxonItalics = require('Module:TaxonItalics') local Autotaxobox = require('Module:Autotaxobox') local ItalicTitle = require('Module:Italic title') local p = {} -- functions made public local l = {} -- internal functions, kept separate
 
-\--
-=============================================================================
--- automaticTaxobox implements Template:Automatic taxobox; see the
-documentation -- of that template for details. -- The following
-parameters present in the old template code version of --
-Template:Automatic taxobox were not used and have not been implemented:
--- image_caption_align -- image2_caption_align -- binomial2 --
-binomial2_authority -- binomial3 -- binomial3_authority -- binomial4
--- binomial4_authority --
-=============================================================================
+\-- ============================================================================= -- automaticTaxobox implements Template:Automatic taxobox; see the documentation -- of that template for details. -- The following parameters present in the old template code version of -- Template:Automatic taxobox were not used and have not been implemented: -- image_caption_align -- image2_caption_align -- binomial2 -- binomial2_authority -- binomial3 -- binomial3_authority -- binomial4 -- binomial4_authority -- =============================================================================
 
 function p.automaticTaxobox(frame)
 
@@ -170,14 +157,7 @@ function p.automaticTaxobox(frame)
 
 end
 
-\--
-=============================================================================
--- l.setfossilRange(frame, fossilRange, oldestFossil, youngestFossil)
-checks -- the parameters that determine the fossil range, returning an
-appropriate -- range. --
-=============================================================================
--- temporary public function for debugging function
-p.chkFossilRange(frame)
+\-- ============================================================================= -- l.setfossilRange(frame, fossilRange, oldestFossil, youngestFossil) checks -- the parameters that determine the fossil range, returning an appropriate -- range. -- ============================================================================= -- temporary public function for debugging function p.chkFossilRange(frame)
 
 `   local args = frame.args`
 `   local fossilRange = args['temporal_range'] or args['temporal range'] or args['fossil_range'] or args['fossil range'] or ''`
@@ -188,8 +168,7 @@ p.chkFossilRange(frame)
 
 end
 
-function l.setfossilRange(frame, fossilRange, oldestFossil,
-youngestFossil)
+function l.setfossilRange(frame, fossilRange, oldestFossil, youngestFossil)
 
 `   local res = ''`
 `   if fossilRange ~= '' then`
@@ -213,5 +192,4 @@ end
 
 return p
 
-[Category:Automatic_taxoboxes_using_binomial_parameter](https://zh.wikipedia.org/wiki/Category:Automatic_taxoboxes_using_binomial_parameter "wikilink")
-[Category:Automatic_taxoboxes_relying_on_page_title](https://zh.wikipedia.org/wiki/Category:Automatic_taxoboxes_relying_on_page_title "wikilink")
+[Category:Automatic_taxoboxes_using_binomial_parameter](https://zh.wikipedia.org/wiki/Category:Automatic_taxoboxes_using_binomial_parameter "wikilink") [Category:Automatic_taxoboxes_relying_on_page_title](https://zh.wikipedia.org/wiki/Category:Automatic_taxoboxes_relying_on_page_title "wikilink")

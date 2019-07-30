@@ -1,6 +1,6 @@
-**Wiki標記式語言**，又稱**Wiki語法**，包含了許多參數與關鍵字，可將[MediaWiki軟體內的頁面進行格式的編排](../Page/MediaWiki.md "wikilink")。關於如何閱讀這種標記式語言，以及如何儲存編輯，請參考[Help:編輯](https://zh.wikipedia.org/wiki/Help:編輯 "wikilink")。一般而言，這些語法可以不用重新撰寫而能夠複製與貼上。[Wikipedia:備忘單列出了關於本語法的相關提示](https://zh.wikipedia.org/wiki/Wikipedia:備忘單 "wikilink")。
+**Wiki標記式語言**，又稱**Wiki語法**，包含了許多參數與關鍵字，可將[MediaWiki](../Page/MediaWiki.md "wikilink")軟體內的頁面進行格式的編排。關於如何閱讀這種標記式語言，以及如何儲存編輯，請參考[Help:編輯](https://zh.wikipedia.org/wiki/Help:編輯 "wikilink")。一般而言，這些語法可以不用重新撰寫而能夠複製與貼上。[Wikipedia:備忘單列出了關於本語法的相關提示](https://zh.wikipedia.org/wiki/Wikipedia:備忘單 "wikilink")。
 
-除了Wiki標記式語言外，部分[HTML元素也能夠進行格式編排](../Page/HTML元素.md "wikilink")。相關資訊請參考[Help:HTML](https://zh.wikipedia.org/wiki/Help:HTML "wikilink")。
+除了Wiki標記式語言外，部分[HTML元素](../Page/HTML元素.md "wikilink")也能夠進行格式編排。相關資訊請參考[Help:HTML](https://zh.wikipedia.org/wiki/Help:HTML "wikilink")。
 
 ## 佈局
 
@@ -63,8 +63,7 @@ HTML等效語法：或。
 
 ### 文字置中
 
-模板也能達到上述語法的效果。如果要將表格置中，請參考[Help:表格\#表格居中](https://zh.wikipedia.org/wiki/Help:表格#表格居中 "wikilink")。
-請不要使用，因為該標籤已過時。
+模板也能達到上述語法的效果。如果要將表格置中，請參考[Help:表格\#表格居中](https://zh.wikipedia.org/wiki/Help:表格#表格居中 "wikilink")。 請不要使用，因為該標籤已過時。
 
 ### 文字靠右
 
@@ -84,8 +83,7 @@ HTML等效語法：或。
 
 如果需要列出術語及定義，請使用半形分號在術語之前。接者在定義前面放上半形冒號。這種格式可用於其他目的，例如車輛型號介紹等。
 
-**描述列表** （前稱**定義列表** ，也就是**關連列表**
-）由群組名稱與對應的值所組成。群組名稱（術語）為粗體，值（定義）則進行縮排。每個群組**必需**包含一個以上的定義。對於單一值或第一個值，可將「`:`」放置於「`;`」所在行之後──但隨後的值必需各自獨立成一行。
+**描述列表** （前稱**定義列表** ，也就是**關連列表** ）由群組名稱與對應的值所組成。群組名稱（術語）為粗體，值（定義）則進行縮排。每個群組**必需**包含一個以上的定義。對於單一值或第一個值，可將「`:`」放置於「`;`」所在行之後──但隨後的值必需各自獨立成一行。
 
 HTML等效語法： 、
 
@@ -93,8 +91,7 @@ HTML等效語法： 、
 
 ### 保留換行與空白
 
-MediaWiki預設無法使用單次換行，並將以空格為開頭的單行文字轉換成虛線文字方塊。HTML則無法使用多個空白。通常詩句、歌詞、格言、誓詞或類似內容會需要保留這些元素。[詩詞擴展元素增加了類HTML的](https://zh.wikipedia.org/wiki/mw:Extension:Poem "wikilink")標籤來保留換行與空白特色。這對標籤可以用在其他標籤當中，如；而提供較為方便的使用途徑。本標籤也適用[CSS風格](https://zh.wikipedia.org/wiki/H:CSS "wikilink")，如`<poem
-style="margin-left: 2em;">`。
+MediaWiki預設無法使用單次換行，並將以空格為開頭的單行文字轉換成虛線文字方塊。HTML則無法使用多個空白。通常詩句、歌詞、格言、誓詞或類似內容會需要保留這些元素。[詩詞擴展元素增加了類HTML的](https://zh.wikipedia.org/wiki/mw:Extension:Poem "wikilink")標籤來保留換行與空白特色。這對標籤可以用在其他標籤當中，如；而提供較為方便的使用途徑。本標籤也適用[CSS風格](https://zh.wikipedia.org/wiki/H:CSS "wikilink")，如`<poem style="margin-left: 2em;">`。
 
 詩詞以及其翻譯可以用兩側對照方式呈現，其對譯語言以`lang="xx"`標明。在最後一個兩側對照區段以後，必需使用模板來取消`"float:left;"`並回復成正常模式。請注意本方法不需要使用[表格](https://zh.wikipedia.org/wiki/#表格 "wikilink")，此法將會自己生成多個翻譯對照的欄位。
 
@@ -109,11 +106,7 @@ style="margin-left: 2em;">`。
     快去敲做日課的鐘！快去敲做日課的鐘！
     叮，叮，鐺。叮，叮，鐺。</poem>{{Clear|left}}</nowiki>
 
-**效果** <poem lang="fr" style="float:left;">Frère Jacques, frère Jacques,
-Dormez-vous? Dormez-vous? Sonnez les matines\! Sonnez les matines\!
-Ding, dang, dong. Ding, dang, dong.</poem>
-<poem style="margin-left:2em; float:left;">賈克修士，賈克修士， 您在睡覺嗎？您在睡覺嗎？
-快去敲做日課的鐘！快去敲做日課的鐘！ 叮，叮，鐺。叮，叮，鐺。</poem>
+**效果** <poem lang="fr" style="float:left;">Frère Jacques, frère Jacques, Dormez-vous? Dormez-vous? Sonnez les matines\! Sonnez les matines\! Ding, dang, dong. Ding, dang, dong.</poem> <poem style="margin-left:2em; float:left;">賈克修士，賈克修士， 您在睡覺嗎？您在睡覺嗎？ 快去敲做日課的鐘！快去敲做日課的鐘！ 叮，叮，鐺。叮，叮，鐺。</poem>
 
 ## 格式
 
@@ -227,23 +220,11 @@ New paragraph &lt;/kbd&gt;started here.</code></pre>
 
 ### 特殊字元
 
-Special characters can often be displayed using [numeric character
-references](https://zh.wikipedia.org/wiki/Numeric_character_reference "wikilink")
-or [character entity
-references](https://zh.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references "wikilink").
-See [Character encodings in
-HTML](https://zh.wikipedia.org/wiki/Character_encodings_in_HTML "wikilink")
-for more information. For example, `À` and `À` both render
-[À](../Page/À.md "wikilink")
-(A-[grave](https://zh.wikipedia.org/wiki/Grave_accent "wikilink")).
-[Percent-encoding](https://zh.wikipedia.org/wiki/Percent-encoding "wikilink")
-can't be used, as it works only in
-[URLs](https://zh.wikipedia.org/wiki/URL "wikilink").
+Special characters can often be displayed using [numeric character references](https://zh.wikipedia.org/wiki/Numeric_character_reference "wikilink") or [character entity references](https://zh.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references "wikilink"). See [Character encodings in HTML](https://zh.wikipedia.org/wiki/Character_encodings_in_HTML "wikilink") for more information. For example, `À` and `À` both render [À](../Page/À.md "wikilink") (A-[grave](https://zh.wikipedia.org/wiki/Grave_accent "wikilink")). [Percent-encoding](https://zh.wikipedia.org/wiki/Percent-encoding "wikilink") can't be used, as it works only in [URLs](https://zh.wikipedia.org/wiki/URL "wikilink").
 
 #### 變音符號
 
-[Diacritic](https://zh.wikipedia.org/wiki/Diacritic "wikilink") marks,
-using character entity references.
+[Diacritic](https://zh.wikipedia.org/wiki/Diacritic "wikilink") marks, using character entity references.
 
 <table>
 <thead>
@@ -305,65 +286,27 @@ The \[\[\#Pre|
 
 #### 單一數學方程式中插入空白
 
-  - Using **` `** to prevent line break is not needed; the  template
-    will prevent line breaks anyway; you can use  if you need an
-    explicit line break inside a formula.
+  - Using **` `** to prevent line break is not needed; the  template will prevent line breaks anyway; you can use  if you need an explicit line break inside a formula.
 
 #### 複雜方程式
 
-  - See [Help:Displaying a
-    formula](https://zh.wikipedia.org/wiki/Help:Displaying_a_formula "wikilink")
-    for how to use .
-  - A formula displayed on a line by itself should probably be indented
-    by using the colon (:) character.
+  - See [Help:Displaying a formula](https://zh.wikipedia.org/wiki/Help:Displaying_a_formula "wikilink") for how to use .
+  - A formula displayed on a line by itself should probably be indented by using the colon (:) character.
 
 ## 連結與網址
 
 ### 自由連結
 
-In [Wikipedia](https://zh.wikipedia.org/wiki/Wikipedia "wikilink") and
-some other [wikis](https://zh.wikipedia.org/wiki/wiki "wikilink"),
-**free links** are used in
-[wikitext](https://zh.wikipedia.org/wiki/wikitext "wikilink") markup to
-produce [internal
-links](https://zh.wikipedia.org/wiki/internal_link "wikilink") between
-pages, as opposed to the concept of
-[CamelCase](https://zh.wikipedia.org/wiki/CamelCase "wikilink") for the
-same purpose, which was used in the early days of Wikipedia – see
-[CamelCase and
-Wikipedia](https://zh.wikipedia.org/wiki/Wikipedia:CamelCase_and_Wikipedia "wikilink").
+In [Wikipedia](https://zh.wikipedia.org/wiki/Wikipedia "wikilink") and some other [wikis](https://zh.wikipedia.org/wiki/wiki "wikilink"), **free links** are used in [wikitext](https://zh.wikipedia.org/wiki/wikitext "wikilink") markup to produce [internal links](https://zh.wikipedia.org/wiki/internal_link "wikilink") between pages, as opposed to the concept of [CamelCase](https://zh.wikipedia.org/wiki/CamelCase "wikilink") for the same purpose, which was used in the early days of Wikipedia – see [CamelCase and Wikipedia](https://zh.wikipedia.org/wiki/Wikipedia:CamelCase_and_Wikipedia "wikilink").
 
-In [Wikipedia's markup
-language](https://zh.wikipedia.org/wiki/Wikipedia:How_to_edit_a_page#Wiki_markup "wikilink"),
-you create free links by putting double square brackets around text
-designating the title of the page you want to link to. Thus,
-`[[Texas|Texas]]` will be rendered as
-[Texas](https://zh.wikipedia.org/wiki/Texas "wikilink"). Optionally, you
-can use a [vertical
-bar](https://zh.wikipedia.org/wiki/vertical_bar "wikilink") (|) to
-customize the link title. For example, typing `[[Texas|Lone Star
-State]]` will produce [Lone Star
-State](https://zh.wikipedia.org/wiki/Texas "wikilink"), a link that is
-displayed as "<u>Lone Star State</u>" but in fact links to
-[Texas](https://zh.wikipedia.org/wiki/Texas "wikilink").
+In [Wikipedia's markup language](https://zh.wikipedia.org/wiki/Wikipedia:How_to_edit_a_page#Wiki_markup "wikilink"), you create free links by putting double square brackets around text designating the title of the page you want to link to. Thus, `[[Texas|Texas]]` will be rendered as [Texas](https://zh.wikipedia.org/wiki/Texas "wikilink"). Optionally, you can use a [vertical bar](https://zh.wikipedia.org/wiki/vertical_bar "wikilink") (|) to customize the link title. For example, typing `[[Texas|Lone Star State]]` will produce [Lone Star State](https://zh.wikipedia.org/wiki/Texas "wikilink"), a link that is displayed as "<u>Lone Star State</u>" but in fact links to [Texas](https://zh.wikipedia.org/wiki/Texas "wikilink").
 
 #### 連結至其他維基百科條目
 
-  - Internally, the first letter of the target page is automatically
-    capitalized and spaces are represented as underscores (typing an
-    underscore in the link has the same effect as typing a space, but is
-    not recommended).
-  - Thus the link hereafter is to the Web address
-    `en.wikipedia.org/wiki/Public_transport`, which is the Wikipedia
-    article with the name "Public transport". See also
-    [Canonicalization](https://zh.wikipedia.org/wiki/Help:Link#Conversion_to_canonical_form "wikilink").
-  - [A red
-    link](https://zh.wikipedia.org/wiki/Intentionally_permanent_red_link "wikilink")
-    is a page that doesn't exist yet; it can be created by clicking on
-    the link.
-  - [A link to its own
-    page](https://zh.wikipedia.org/wiki/Help:Self_link "wikilink") will
-    appear only as bold text.
+  - Internally, the first letter of the target page is automatically capitalized and spaces are represented as underscores (typing an underscore in the link has the same effect as typing a space, but is not recommended).
+  - Thus the link hereafter is to the Web address `en.wikipedia.org/wiki/Public_transport`, which is the Wikipedia article with the name "Public transport". See also [Canonicalization](https://zh.wikipedia.org/wiki/Help:Link#Conversion_to_canonical_form "wikilink").
+  - [A red link](https://zh.wikipedia.org/wiki/Intentionally_permanent_red_link "wikilink") is a page that doesn't exist yet; it can be created by clicking on the link.
+  - [A link to its own page](https://zh.wikipedia.org/wiki/Help:Self_link "wikilink") will appear only as bold text.
 
 #### 重命名連結
 
@@ -376,17 +319,8 @@ displayed as "<u>Lone Star State</u>" but in fact links to
 
 #### 自動重命名連結
 
-  - Simply typing the pipe character | after a link will automatically
-    rename the link in certain circumstances. The next time you open the
-    edit box you will see the expanded piped link. When
-    [previewing](https://zh.wikipedia.org/wiki/Help:Show_preview "wikilink")
-    your edits, you will not see the expanded form until you press
-    **Save** and **Edit** again. The same applies to [links to sections
-    within the same
-    page](https://zh.wikipedia.org/wiki/#link-to-section "wikilink").
-  - See [Pipe
-    trick](https://zh.wikipedia.org/wiki/Help:Pipe_trick "wikilink") for
-    details.
+  - Simply typing the pipe character | after a link will automatically rename the link in certain circumstances. The next time you open the edit box you will see the expanded piped link. When [previewing](https://zh.wikipedia.org/wiki/Help:Show_preview "wikilink") your edits, you will not see the expanded form until you press **Save** and **Edit** again. The same applies to [links to sections within the same page](https://zh.wikipedia.org/wiki/#link-to-section "wikilink").
+  - See [Pipe trick](https://zh.wikipedia.org/wiki/Help:Pipe_trick "wikilink") for details.
 
 | Description                                       | What you type                                | What it looks like                                                                                   |
 | ------------------------------------------------- | -------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
@@ -399,20 +333,13 @@ displayed as "<u>Lone Star State</u>" but in fact links to
 #### Blend link
 
   - Endings are blended into the link.
-      - *Exception*: a trailing
-        [apostrophe](https://zh.wikipedia.org/wiki/apostrophe "wikilink")
-        (') and any characters following the apostrophe are *not*
-        blended.
+      - *Exception*: a trailing [apostrophe](https://zh.wikipedia.org/wiki/apostrophe "wikilink") (') and any characters following the apostrophe are *not* blended.
   - Preferred style is to use this instead of a piped link, if possible.
   - Blending can be suppressed by using the \[\[\#Nowiki|
 
-Making a reference citing a printed or online source can be accomplished
-by using the  tags. Inside these tags details about the reference are
-added.
+Making a reference citing a printed or online source can be accomplished by using the  tags. Inside these tags details about the reference are added.
 
-Details about the citation can be provided using a structure provided by
-various templates; the table below lists some typical citation
-components.
+Details about the citation can be provided using a structure provided by various templates; the table below lists some typical citation components.
 
 <table>
 <thead>
@@ -495,48 +422,19 @@ components.
 
 ## Templates and transcluding pages
 
-Examples for templates: {{pad|...}}, {{math|...}}, {{as of|...}},
-{{edit}}
+Examples for templates: {{pad|...}}, {{math|...}}, {{as of|...}}, {{edit}}
 
-**[Templates](https://zh.wikipedia.org/wiki/Help:Template "wikilink")**
-are segments of wiki markup that are meant to be copied automatically
-("transcluded") into a page. You add them by putting the template's name
-in {{double braces}}. It is also possible to transclude other pages by
-using {{:colon and double braces}}.
+**[Templates](https://zh.wikipedia.org/wiki/Help:Template "wikilink")** are segments of wiki markup that are meant to be copied automatically ("transcluded") into a page. You add them by putting the template's name in {{double braces}}. It is also possible to transclude other pages by using {{:colon and double braces}}.
 
-There are three pairs of
-[tags](https://zh.wikipedia.org/wiki/html_element "wikilink") that can
-be used in [wikitext](https://zh.wikipedia.org/wiki/wikitext "wikilink")
-to control how transclusion affects parts of a template or article. They
-determine whether or not wikitext renders, either in its own article,
-which we will call "**here**", or in another article where it is
-transcluded, which we will call "**there**".
+There are three pairs of [tags](https://zh.wikipedia.org/wiki/html_element "wikilink") that can be used in [wikitext](https://zh.wikipedia.org/wiki/wikitext "wikilink") to control how transclusion affects parts of a template or article. They determine whether or not wikitext renders, either in its own article, which we will call "**here**", or in another article where it is transcluded, which we will call "**there**".
 
-  - '''\<noinclude\>: ''' the content **will not be rendered *there***.
-    These tags have no effect *here*.
-  - '''\<includeonly\>: ''' the content **will render only *there***,
-    and **will not render *here*** (like [invisible
-    ink](https://zh.wikipedia.org/wiki/invisible_ink "wikilink") made
-    visible by means of transclusion).
-  - '''\<onlyinclude\>: ''' the content **will render *here*** and
-    **will render *there***, but it will only render *there* what is
-    between these tags.
+  - '''\<noinclude\>: ''' the content **will not be rendered *there***. These tags have no effect *here*.
+  - '''\<includeonly\>: ''' the content **will render only *there***, and **will not render *here*** (like [invisible ink](https://zh.wikipedia.org/wiki/invisible_ink "wikilink") made visible by means of transclusion).
+  - '''\<onlyinclude\>: ''' the content **will render *here*** and **will render *there***, but it will only render *there* what is between these tags.
 
-There can be several such section
-"[elements](https://zh.wikipedia.org/wiki/HTML#Elements "wikilink")".
-Also, they can be nested. All possible renderings are achievable. For
-example, to render *there* one or more sections of the page *here* use
-**\<onlyinclude\>** tags. To append text *there*, wrap the addition in
-**\<includeonly\>** tags before, within, or after the section. To omit
-portions of the section, nest **\<noinclude\>** tags within it.
+There can be several such section "[elements](https://zh.wikipedia.org/wiki/HTML#Elements "wikilink")". Also, they can be nested. All possible renderings are achievable. For example, to render *there* one or more sections of the page *here* use **\<onlyinclude\>** tags. To append text *there*, wrap the addition in **\<includeonly\>** tags before, within, or after the section. To omit portions of the section, nest **\<noinclude\>** tags within it.
 
-If a page is transcluded without transclusion markup, it may cause an
-unintentional
-[categorization](https://zh.wikipedia.org/wiki/Help:Category#Putting_pages_in_categories "wikilink").
-Any page transcluding it will contain the same category as the original
-page. Wrap the category markup with **\<noinclude\>** tags to prevent
-incorrect categorization.  Some templates take *parameters*, as well,
-which you separate with the pipe character `|`.
+If a page is transcluded without transclusion markup, it may cause an unintentional [categorization](https://zh.wikipedia.org/wiki/Help:Category#Putting_pages_in_categories "wikilink"). Any page transcluding it will contain the same category as the original page. Wrap the category markup with **\<noinclude\>** tags to prevent incorrect categorization.  Some templates take *parameters*, as well, which you separate with the pipe character `|`.
 
 <table>
 <thead>
@@ -573,17 +471,11 @@ template itself: {{tl|H:title}}</code></pre></td>
 
 ## 討論頁與計畫頁面
 
-These are likely to be helpful on
-[talk](https://zh.wikipedia.org/wiki/Help:Using_talk_pages "wikilink")
-and [project
-pages](https://zh.wikipedia.org/wiki/Wikipedia:Project_namespace "wikilink").
+These are likely to be helpful on [talk](https://zh.wikipedia.org/wiki/Help:Using_talk_pages "wikilink") and [project pages](https://zh.wikipedia.org/wiki/Wikipedia:Project_namespace "wikilink").
 
 ### 簽名
 
-  - The *[tilde](https://zh.wikipedia.org/wiki/tilde "wikilink")*
-    character (\~) is used when signing a comment on a talk page. Your
-    username provides a link to your [user
-    page](https://zh.wikipedia.org/wiki/Wikipedia:user_page "wikilink").
+  - The *[tilde](https://zh.wikipedia.org/wiki/tilde "wikilink")* character (\~) is used when signing a comment on a talk page. Your username provides a link to your [user page](https://zh.wikipedia.org/wiki/Wikipedia:user_page "wikilink").
 
 <table>
 <thead>
@@ -614,10 +506,7 @@ pages](https://zh.wikipedia.org/wiki/Wikipedia:Project_namespace "wikilink").
 
 ### 連結至某個頁面的舊有修訂版本、修訂差異以及特定歷史頁面
 
-  - The external link function is mainly used for these. Open an old
-    revision or diff, and copy the
-    [URL](https://zh.wikipedia.org/wiki/URL "wikilink") from the address
-    bar, pasting it where you want it.
+  - The external link function is mainly used for these. Open an old revision or diff, and copy the [URL](https://zh.wikipedia.org/wiki/URL "wikilink") from the address bar, pasting it where you want it.
 
 | 程式碼                                                                                                                                     | 效果                                                                                                                                      |
 | --------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
@@ -629,18 +518,13 @@ pages](https://zh.wikipedia.org/wiki/Wikipedia:Project_namespace "wikilink").
 | -------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
 | `[[Special:Diff/330349143/330350877\|修訂版本330349143與330350877之間的差異]]` | [修訂版本330349143與330350877之間的差異](https://zh.wikipedia.org/wiki/Special:Diff/330349143/330350877 "wikilink") |
 
-  - If the diff intended to be shown is between an immediately previous
-    revision, the first parameter can be dropped.
+  - If the diff intended to be shown is between an immediately previous revision, the first parameter can be dropped.
 
 | 程式碼                                                                          | 效果                                                                                                                |
 | ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
 | `[[Special:Diff/330350877\|Diff between revisions 330349143 and 330350877]]` | [Diff between revisions 330349143 and 330350877](https://zh.wikipedia.org/wiki/Special:Diff/330350877 "wikilink") |
 
-  - For an old revision, you can also use a
-    [permalink](https://zh.wikipedia.org/wiki/Help:Permanent_link "wikilink").
-    Though here only the main text is guaranteed to be retained (images
-    and templates will be shown as they are today, not as they were at
-    the time).
+  - For an old revision, you can also use a [permalink](https://zh.wikipedia.org/wiki/Help:Permanent_link "wikilink"). Though here only the main text is guaranteed to be retained (images and templates will be shown as they are today, not as they were at the time).
 
 | 程式碼                                                   | 效果                                                                                         |
 | ----------------------------------------------------- | ------------------------------------------------------------------------------------------ |
@@ -648,8 +532,7 @@ pages](https://zh.wikipedia.org/wiki/Wikipedia:Project_namespace "wikilink").
 
 ### What links here, and recent changes linked
 
-  - The following markup can be used. For example, for the article
-    [Beetroot](https://zh.wikipedia.org/wiki/Beetroot "wikilink"):
+  - The following markup can be used. For example, for the article [Beetroot](https://zh.wikipedia.org/wiki/Beetroot "wikilink"):
 
 | What you type                                                                    | What it looks like                                                                                                    |
 | -------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
@@ -658,8 +541,7 @@ pages](https://zh.wikipedia.org/wiki/Wikipedia:Project_namespace "wikilink").
 
 ### 使用者編輯
 
-  - Link to a user's [contributions
-    page](https://zh.wikipedia.org/wiki/Help:User_contributions "wikilink").
+  - Link to a user's [contributions page](https://zh.wikipedia.org/wiki/Help:User_contributions "wikilink").
 
 | Description                                                        | What you type                                                                                                                      | What it looks like                                                                                                                                                      |
 | ------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -678,8 +560,7 @@ pages](https://zh.wikipedia.org/wiki/Wikipedia:Project_namespace "wikilink").
 
 ### 範例文字
 
-The  family of templates can be used on help pages and user pages to
-highlight e**x**ample te**x**t.
+The  family of templates can be used on help pages and user pages to highlight e**x**ample te**x**t.
 
 {{\!bxt|It does not work in mainspace, that is articles. }}
 
@@ -694,23 +575,14 @@ highlight e**x**ample te**x**t.
 
 ### Show deleted or inserted text
 
-  - When editing your own previous remarks in talk pages, it is
-    sometimes appropriate to mark up deleted or inserted content:
-      - It is best to indicate deleted content using the strike-through
-        markup .
-      - It is best to indicate inserted content using the underline
-        markup .
-  - When editing regular Wikipedia articles, just make your changes, and
-    do not mark them up in any special way. However, when the article
-    itself discusses deleted or inserted content, such as an amendment
-    to a statute:
-      - It is best to indicate deleted content using the strike-through
-        markup .
-      - It is best to indicate inserted content using the underline
-        markup .
+  - When editing your own previous remarks in talk pages, it is sometimes appropriate to mark up deleted or inserted content:
+      - It is best to indicate deleted content using the strike-through markup .
+      - It is best to indicate inserted content using the underline markup .
+  - When editing regular Wikipedia articles, just make your changes, and do not mark them up in any special way. However, when the article itself discusses deleted or inserted content, such as an amendment to a statute:
+      - It is best to indicate deleted content using the strike-through markup .
+      - It is best to indicate inserted content using the underline markup .
 
-Note:  and  (speced in HTML 3 & 4) are considerably more popular than
-and  (speced in HTML 5) on Wikipedia.
+Note:  and  (speced in HTML 3 & 4) are considerably more popular than  and  (speced in HTML 5) on Wikipedia.
 
 <table>
 <thead>
@@ -742,8 +614,7 @@ This is also possible with the } template.
 
 ##  Limiting formatting / escaping wiki markup
 
-A few different kinds of formatting will tell the wiki to display things
-as you typed them – what you see is what you get\!
+A few different kinds of formatting will tell the wiki to display things as you typed them – what you see is what you get\!
 
 <table>
 <thead>
@@ -825,68 +696,34 @@ to preserve formatting.
 
 ### 無Wiki模式
 
-In order for the software to interpret wiki markup, its parser first
-scans the page. When it sees its nowiki tags
+In order for the software to interpret wiki markup, its parser first scans the page. When it sees its nowiki tags
 
   -
 
-    ([escapes](https://zh.wikipedia.org/wiki/escape_character "wikilink")
-    all contained wiki markup), and
+    ([escapes](https://zh.wikipedia.org/wiki/escape_character "wikilink") all contained wiki markup), and
 
     (escapes the interpretations it is designed to "break"),
 
-it escapes its wikicode, so editors can document its markup *using* its
-markup.
+it escapes its wikicode, so editors can document its markup *using* its markup.
 
-Article editors can normalize the font of characters trailing
-`[[...]]outside` a wikilink, which would otherwise adhere to the
-wikilink font. They can also add line-spacing in the wikitext. Template
-editors: tag  works only on its source page, not the target; also
-`{{#tag:nowiki | `*`content`*`}}`, although it wraps that content in
-nowiki tags, it also does a [pre-save
-transform](https://zh.wikipedia.org/wiki/mw:Manual:Tag_extensions#How_do_I_render_wikitext_in_my_extension? "wikilink")
-on that content, which is entirely at odds with the intended purpose of
-nowiki for templates, subst, signatures, and the pipe-trick.
+Article editors can normalize the font of characters trailing `[[...]]outside` a wikilink, which would otherwise adhere to the wikilink font. They can also add line-spacing in the wikitext. Template editors: tag  works only on its source page, not the target; also `{{#tag:nowiki | `*`content`*`}}`, although it wraps that content in nowiki tags, it also does a [pre-save transform](https://zh.wikipedia.org/wiki/mw:Manual:Tag_extensions#How_do_I_render_wikitext_in_my_extension? "wikilink") on that content, which is entirely at odds with the intended purpose of nowiki for templates, subst, signatures, and the pipe-trick.
 
-The two kinds of nowiki operate in different ways to target content, but
-they both remove meaning (subtract rendering) of wiki markup, then
-disappear into the background font. Nowiki does nothing toward
-rendering, but it can add newlines to wikitext (for readability), just
-like the HTML comment (the preferred method) can. Unlike it does for
-wiki markup, nowiki does not remove the meaning of *character entities*,
-either
-[HTML](https://zh.wikipedia.org/wiki/HTML_character_entities "wikilink")
-or MediaWiki [special
-*characters*](https://zh.wikipedia.org/wiki/#Special_characters "wikilink").
+The two kinds of nowiki operate in different ways to target content, but they both remove meaning (subtract rendering) of wiki markup, then disappear into the background font. Nowiki does nothing toward rendering, but it can add newlines to wikitext (for readability), just like the HTML comment (the preferred method) can. Unlike it does for wiki markup, nowiki does not remove the meaning of *character entities*, either [HTML](https://zh.wikipedia.org/wiki/HTML_character_entities "wikilink") or MediaWiki [special *characters*](https://zh.wikipedia.org/wiki/#Special_characters "wikilink").
 
-There is only one meaning for what  contains, so it needs few examples;
-but the singular  tag "contains" *many* linkage structures, where it is
-expected between bracketing-pair characters or in the keyword area. So
-this section has *many* examples and few mis-examples.
+There is only one meaning for what  contains, so it needs few examples; but the singular  tag "contains" *many* linkage structures, where it is expected between bracketing-pair characters or in the keyword area. So this section has *many* examples and few mis-examples.
 
-For example, only at the beginning of a line (bol of wikitext, bol in a
-transclusion, or beginning of a table cell), do , ,  or  mean something.
+For example, only at the beginning of a line (bol of wikitext, bol in a transclusion, or beginning of a table cell), do , ,  or  mean something.
 
-The rest of the section consists of simple, live examples showing how a
-single nowiki tag escapes entire linkage structures, beyond
-[ wikilink ](https://zh.wikipedia.org/wiki/wikilink_\<nowiki_/\> "wikilink")
-and {{ template }}:
+The rest of the section consists of simple, live examples showing how a single nowiki tag escapes entire linkage structures, beyond [ wikilink ](https://zh.wikipedia.org/wiki/wikilink_\<nowiki_/\> "wikilink") and {{ template }}:
 
   -
-    [fullpagename](https://zh.wikipedia.org/wiki/''[[wp:fullpagename "wikilink")''
-    | *label* \]\]
+    [fullpagename](https://zh.wikipedia.org/wiki/''[[wp:fullpagename "wikilink")'' | *label* \]\]
     {{ *pagename* | *parameter* }}
     \[\[ *fullpagename* | {{ *pagename* }} \]\]
     {{ *pagename* | \[\[ *fullpagename* \]\] }}
     {{ *pagename* | {{ *pagename* }} }}
 
-Unless you use the two "balanced" nowiki tags, troubleshooting [strip
-marker](https://zh.wikipedia.org/wiki/help:strip_markers "wikilink")
-errors and template parameter-handling inconsistencies is a risk. Also,
-a rendering error may arise when two <kbd>\[\[...\]\]</kbd> square
-brackets are on the same line, or two <kbd>{{...}}</kbd> curly brackets
-are in the same section, but only when the two have the nowiki markup
-placed inconsistently.
+Unless you use the two "balanced" nowiki tags, troubleshooting [strip marker](https://zh.wikipedia.org/wiki/help:strip_markers "wikilink") errors and template parameter-handling inconsistencies is a risk. Also, a rendering error may arise when two <kbd>\[\[...\]\]</kbd> square brackets are on the same line, or two <kbd>{{...}}</kbd> curly brackets are in the same section, but only when the two have the nowiki markup placed inconsistently.
 
 #### Displaying wikilinks
 
@@ -903,16 +740,13 @@ placed inconsistently.
   -
     [page name](https://zh.wikipedia.org/wiki/wp:pagename "wikilink")
     \[\[ wp:pagename | page name \]\]
-    [page
-    name](https://zh.wikipedia.org/wiki/\<nowiki_/\>_wp:pagename "wikilink")
-    [page
-    name](https://zh.wikipedia.org/wiki/wp:pagename_\<nowiki_/\> "wikilink")
+    [page name](https://zh.wikipedia.org/wiki/\<nowiki_/\>_wp:pagename "wikilink")
+    [page name](https://zh.wikipedia.org/wiki/wp:pagename_\<nowiki_/\> "wikilink")
     \[\[ wp:pagename | page name \]\]
 
 </poem>
 
-For **nested structures**, escaping an inner structure escapes its outer
-structure too.
+For **nested structures**, escaping an inner structure escapes its outer structure too.
 
     [[wp:_{{_1x|pagename }}]]
     [[wp:_{<nowiki_/>{_1x|pagename }}]]
@@ -923,12 +757,9 @@ structure too.
 
   -
     [pagename }}](https://zh.wikipedia.org/wiki/wp:_{{_1x "wikilink")
-    [pagename
-    }}](https://zh.wikipedia.org/wiki/wp:_{\<nowiki_/\>{_1x "wikilink")
-    [pagename
-    }}](https://zh.wikipedia.org/wiki/wp:_{{\<nowiki_/\>_1x "wikilink")
-    [pagename
-    }}](https://zh.wikipedia.org/wiki/wp:_{{_1x_\<nowiki_/\> "wikilink")
+    [pagename }}](https://zh.wikipedia.org/wiki/wp:_{\<nowiki_/\>{_1x "wikilink")
+    [pagename }}](https://zh.wikipedia.org/wiki/wp:_{{\<nowiki_/\>_1x "wikilink")
+    [pagename }}](https://zh.wikipedia.org/wiki/wp:_{{_1x_\<nowiki_/\> "wikilink")
 
 </poem>
 
@@ -942,16 +773,14 @@ For **two, first pipes**, two nowiki tags are required:
 
   -
     [{{ 1x](https://zh.wikipedia.org/wiki/wp:_pagename "wikilink")
-    [{{ 1x
-    ](https://zh.wikipedia.org/wiki/wp:_pagename_\<nowiki_/\> "wikilink")
+    [{{ 1x ](https://zh.wikipedia.org/wiki/wp:_pagename_\<nowiki_/\> "wikilink")
     \[\[wp:_pagename|{{ 1x\]\]
 
 </poem>
 
 #### Displaying template calls
 
-For templates, put nowiki before the first pipe. If a parameter has a
-wikilink, put it in that, an inmost position.
+For templates, put nowiki before the first pipe. If a parameter has a wikilink, put it in that, an inmost position.
 
     {<nowiki />{ val | u=&gt; [[ms|ms]] | 49082 }}
     {{<nowiki /> val | u=&gt; [[ms|ms]] | 49082 }}
@@ -962,26 +791,19 @@ wikilink, put it in that, an inmost position.
 <poem>
 
   -
-    {{ val | u=\> [ms](https://zh.wikipedia.org/wiki/ms "wikilink") |
-    49082 }}
-    {{ val | u= \> [ms](https://zh.wikipedia.org/wiki/ms "wikilink") |
-    49082 }}
-    {{ val | u=\> [ms](https://zh.wikipedia.org/wiki/ms "wikilink") |
-    49082 }}
-    {{ val | u=\> [ms](https://zh.wikipedia.org/wiki/ms "wikilink") |
-    49082 }}
+    {{ val | u=\> [ms](https://zh.wikipedia.org/wiki/ms "wikilink") | 49082 }}
+    {{ val | u= \> [ms](https://zh.wikipedia.org/wiki/ms "wikilink") | 49082 }}
+    {{ val | u=\> [ms](https://zh.wikipedia.org/wiki/ms "wikilink") | 49082 }}
+    {{ val | u=\> [ms](https://zh.wikipedia.org/wiki/ms "wikilink") | 49082 }}
     {{ val | u= \> \[\[ ms \]\] | 49082 }}
 
 </poem>
 
 #### 顯示魔術字
 
-For input **parameters**, , , just write them out, unless they have a
-default (which goes behind their pipe): {{{1|default}}} →
-{{{1|default}}}
+For input **parameters**, , , just write them out, unless they have a default (which goes behind their pipe): {{{1|default}}} → {{{1|default}}}
 
-For a **parser function** nowiki goes between bracketing-pair
-characters, or anywhere before the : colon.
+For a **parser function** nowiki goes between bracketing-pair characters, or anywhere before the : colon.
 
     {{ #ifeq: inYes | inYes | outYes | outNo }}
     {<nowiki />{ #ifeq: inYes | inYes | outYes | outNo }}
@@ -1013,9 +835,7 @@ characters, or anywhere before the : colon.
 
 #### Displaying tags
 
-do not display; they are just markup. If you want them to, insert  after
-an  opening angle bracket; it goes only in the very front. Opening tags
-and closing tags must be treated separately.
+do not display; they are just markup. If you want them to, insert  after an  opening angle bracket; it goes only in the very front. Opening tags and closing tags must be treated separately.
 
     <span style=color:blue> Blue </span>
     <<nowiki />span style=color:blue> Blue <<nowiki />/span>
@@ -1033,12 +853,9 @@ and closing tags must be treated separately.
 
 Use template  instead of nowiki tags to display parser tags:
 
-**Character entities**, nowiki cannot escape. To escape HTML or special
-character entities, replace `&` with `&`. For example, `&lt;` → `<`
+**Character entities**, nowiki cannot escape. To escape HTML or special character entities, replace `&` with `&`. For example, `&lt;` → `<`
 
-To **display a nowiki tag**, you can (1) use , (2) replace the \< left
-angle bracket with its HTML character entity, or (3) nest nowiki tags in
-each other:
+To **display a nowiki tag**, you can (1) use , (2) replace the \< left angle bracket with its HTML character entity, or (3) nest nowiki tags in each other:
 
     {{ tag | nowiki }}
     <code>&lt; nowiki>...&lt;/ nowiki ></code>
@@ -1068,8 +885,7 @@ each other:
 
 </poem>
 
-Nowiki tags do not otherwise nest, so it is the second and fourth that
-displays:
+Nowiki tags do not otherwise nest, so it is the second and fourth that displays:
 
     1<nowiki>2<nowiki>3</nowiki>4</nowiki>
     <nowiki>{{!}}<nowiki></nowiki>{{!}}</nowiki>
@@ -1082,26 +898,19 @@ displays:
 
 </poem>
 
-These simply scan from left to right. The paired tags cannot overlap,
-because the very first pair-match nullifies any intervening tags inside.
-Unbalanced tags always display.
+These simply scan from left to right. The paired tags cannot overlap, because the very first pair-match nullifies any intervening tags inside. Unbalanced tags always display.
 
 Nowiki tags do not display table markup, use .
 
 ### Pre
 
-is a parser tag that emulates the HTML  tag. It defines preformatted
-text that is displayed in a fixed-width font and is enclosed in a dashed
-box. HTML and wiki markups are escaped and spaces and line breaks are
-preserved, but HTML entities are parsed.
+is a parser tag that emulates the HTML  tag. It defines preformatted text that is displayed in a fixed-width font and is enclosed in a dashed box. HTML and wiki markups are escaped and spaces and line breaks are preserved, but HTML entities are parsed.
 
-formatted text does not wrap, thus text may extend past the browser
-window:
+formatted text does not wrap, thus text may extend past the browser window:
 
     Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-To resolve this,  may use CSS styling to add wrapping or a horizontal
-scrollbar:
+To resolve this,  may use CSS styling to add wrapping or a horizontal scrollbar:
 
   - Wrapping:
   - Scroll bar:
@@ -1110,23 +919,12 @@ Alternatively, consider using  template or .
 
 ## 隱藏文字（註解）
 
-It's uncommonbut on occasion acceptable for notes to other editorsto add
-a hidden comment within the text of an article. These comments are
-visible only when editing or viewing the source of a page. Most comments
-should go on the appropriate [Talk
-page](https://zh.wikipedia.org/wiki/Wikipedia:Talk_page "wikilink"). The
-format is to surround the hidden text with "" and may cover several
-lines, e.g.:
+It's uncommonbut on occasion acceptable for notes to other editorsto add a hidden comment within the text of an article. These comments are visible only when editing or viewing the source of a page. Most comments should go on the appropriate [Talk page](https://zh.wikipedia.org/wiki/Wikipedia:Talk_page "wikilink"). The format is to surround the hidden text with "" and may cover several lines, e.g.:
 
 `<!-- An example of hidden comments`
 ` This won't be visible except in "edit" mode. -->`
 
-Another way to include a comment in the wiki markup uses the  template,
-which can be abbreviated as . This template "expands" to the empty
-string, generating no HTML output; it is visible only to people editing
-the wiki source. Thus  operates similarly to the comment . The main
-difference is that the template version can be nested, while attempting
-to nest HTML comments produces odd results.
+Another way to include a comment in the wiki markup uses the  template, which can be abbreviated as . This template "expands" to the empty string, generating no HTML output; it is visible only to people editing the wiki source. Thus  operates similarly to the comment . The main difference is that the template version can be nested, while attempting to nest HTML comments produces odd results.
 
 ## 變數
 
@@ -1257,52 +1055,25 @@ to nest HTML comments produces odd results.
 </tbody>
 </table>
 
-**** is the number of pages in the main namespace that contain a link
-and are not a redirect. This includes full articles, stubs containing a
-link, and disambiguation pages.
+**** is the number of pages in the main namespace that contain a link and are not a redirect. This includes full articles, stubs containing a link, and disambiguation pages.
 
-**** is the genitive (possessive) grammatical form of the month name, as
-used in some languages but not in English; **** is the nominative
-(subject) form, as usually seen in English.
+**** is the genitive (possessive) grammatical form of the month name, as used in some languages but not in English; **** is the nominative (subject) form, as usually seen in English.
 
-In languages where it makes a difference, you can use constructs like
-`{{grammar:case|word}}` to convert a word from the nominative case to
-some other case. For example,
-`{{grammar:genitive|{{CURRENTMONTHNAME}}}}` means the same as
-`{{CURRENTMONTHNAMEGEN}}`.
+In languages where it makes a difference, you can use constructs like `{{grammar:case|word}}` to convert a word from the nominative case to some other case. For example, `{{grammar:genitive|{{CURRENTMONTHNAME}}}}` means the same as `{{CURRENTMONTHNAMEGEN}}`.
 
 ## HTML
 
-許多[HTML標籤可用於Wiki標記式語言](../Page/HTML.md "wikilink")。You can check your
-HTML by using [markup
-validation](https://zh.wikipedia.org/wiki/Help:Markup_validation "wikilink").
+許多[HTML](../Page/HTML.md "wikilink")標籤可用於Wiki標記式語言。You can check your HTML by using [markup validation](https://zh.wikipedia.org/wiki/Help:Markup_validation "wikilink").
 
 ## 參見
 
-See the 'Coding wiki markup' section of the Help navigation navbox below
-for additional links.
+See the 'Coding wiki markup' section of the Help navigation navbox below for additional links.
 
-  - [Help:Magic
-    links](https://zh.wikipedia.org/wiki/Help:Magic_links "wikilink"):
-    magic links are automatic links for certain unique identifiers that
-    require no markup.
-  - [Wikipedia:Extended image
-    syntax](https://zh.wikipedia.org/wiki/Wikipedia:Extended_image_syntax "wikilink"):
-    advanced [visual file
-    markup](https://zh.wikipedia.org/wiki/Help:Visual_file_markup "wikilink").
-  - [Help:A quick guide to
-    templates](https://zh.wikipedia.org/wiki/Help:A_quick_guide_to_templates "wikilink"):
-    an introduction to
-    [templates](https://zh.wikipedia.org/wiki/Help:Template "wikilink").
-  - [Help:Substitution](https://zh.wikipedia.org/wiki/Help:Substitution "wikilink"):
-    substitution is an alternative way of including templates than
-    [transclusion](https://zh.wikipedia.org/wiki/Wikipedia:Transclusion "wikilink")
-  - [Help:Score](https://zh.wikipedia.org/wiki/Help:Score "wikilink"):
-    how to render musical scores.
-  - [Help:Displaying a
-    formula](https://zh.wikipedia.org/wiki/Help:Displaying_a_formula "wikilink"):
-    displaying mathematical formulae.
+  - [Help:Magic links](https://zh.wikipedia.org/wiki/Help:Magic_links "wikilink"): magic links are automatic links for certain unique identifiers that require no markup.
+  - [Wikipedia:Extended image syntax](https://zh.wikipedia.org/wiki/Wikipedia:Extended_image_syntax "wikilink"): advanced [visual file markup](https://zh.wikipedia.org/wiki/Help:Visual_file_markup "wikilink").
+  - [Help:A quick guide to templates](https://zh.wikipedia.org/wiki/Help:A_quick_guide_to_templates "wikilink"): an introduction to [templates](https://zh.wikipedia.org/wiki/Help:Template "wikilink").
+  - [Help:Substitution](https://zh.wikipedia.org/wiki/Help:Substitution "wikilink"): substitution is an alternative way of including templates than [transclusion](https://zh.wikipedia.org/wiki/Wikipedia:Transclusion "wikilink")
+  - [Help:Score](https://zh.wikipedia.org/wiki/Help:Score "wikilink"): how to render musical scores.
+  - [Help:Displaying a formula](https://zh.wikipedia.org/wiki/Help:Displaying_a_formula "wikilink"): displaying mathematical formulae.
 
-[Category:维基百科指南](https://zh.wikipedia.org/wiki/Category:维基百科指南 "wikilink")
-[Category:Wikipedia_editor_help](https://zh.wikipedia.org/wiki/Category:Wikipedia_editor_help "wikilink")
-[Category:維基百科文字幫助文檔](https://zh.wikipedia.org/wiki/Category:維基百科文字幫助文檔 "wikilink")
+[Category:维基百科指南](https://zh.wikipedia.org/wiki/Category:维基百科指南 "wikilink") [Category:Wikipedia_editor_help](https://zh.wikipedia.org/wiki/Category:Wikipedia_editor_help "wikilink") [Category:維基百科文字幫助文檔](https://zh.wikipedia.org/wiki/Category:維基百科文字幫助文檔 "wikilink")

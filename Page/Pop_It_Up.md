@@ -1,5 +1,4 @@
-《**Pop It
-Up**》是[陳偉霆](../Page/陳偉霆.md "wikilink")於2012年7月10日推出之第六張個人專輯，第一主打歌為《女皇》。
+《**Pop It Up**》是[陳偉霆](../Page/陳偉霆.md "wikilink")於2012年7月10日推出之第六張個人專輯，第一主打歌為《女皇》。
 
 ## 曲目
 
@@ -24,7 +23,4 @@ Up**》是[陳偉霆](../Page/陳偉霆.md "wikilink")於2012年7月10日推出�
 
 </div>
 
-[Category:陳偉霆](https://zh.wikipedia.org/wiki/Category:陳偉霆 "wikilink")
-[Category:陳偉霆音樂專輯](https://zh.wikipedia.org/wiki/Category:陳偉霆音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink")
+[Category:陳偉霆](https://zh.wikipedia.org/wiki/Category:陳偉霆 "wikilink") [Category:陳偉霆音樂專輯](https://zh.wikipedia.org/wiki/Category:陳偉霆音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink")

@@ -1,6 +1,4 @@
-**Ethash**是[以太坊上的加密貨幣的](../Page/以太坊.md "wikilink")[共識算法](https://zh.wikipedia.org/wiki/共識算法 "wikilink")，使用使用[工作量証明](../Page/工作量證明.md "wikilink")。\[1\]
-Ethash也使用Keccak，一種己標準化為[SHA-3的](../Page/SHA-3.md "wikilink")[散列函数](../Page/散列函數.md "wikilink")。
-但Ethash與[SHA-3並不相同](../Page/SHA-3.md "wikilink")，不應將兩者混淆。
+**Ethash**是[以太坊](../Page/以太坊.md "wikilink")上的加密貨幣的[共識算法](https://zh.wikipedia.org/wiki/共識算法 "wikilink")，使用使用[工作量証明](../Page/工作量證明.md "wikilink")。\[1\] Ethash也使用Keccak，一種己標準化為[SHA-3](../Page/SHA-3.md "wikilink")的[散列函数](../Page/散列函數.md "wikilink")。 但Ethash與[SHA-3](../Page/SHA-3.md "wikilink")並不相同，不應將兩者混淆。
 
 由版本1.0開始，Ethash已被設計為抵制[ASIC](../Page/特殊應用積體電路.md "wikilink")，主要方法為藉著極大量的隨機查表，加重記憶體的負載，ASIC無法再利用專用線路而加速。\[2\]
 
@@ -8,15 +6,13 @@ Ethash是從Dagger-Hashimoto算法改動而成的。<ref>
 
 <div>
 
-Vitalik Buterin的。
-[匕：存储器-难以计算、存储器的容易证实大的下行压力，现在长可替代](http://www.hashcash.org/papers/dagger.html)的。
-技术报告，hashcash.org 网站2013年。
+Vitalik Buterin的。 [匕：存储器-难以计算、存储器的容易证实大的下行压力，现在长可替代](http://www.hashcash.org/papers/dagger.html)的。 技术报告，hashcash.org 网站2013年。
 
 </div>
 
 </ref>\[3\]\[4\]Ethash使用一個初始值為1GB的[DAGdataset及一個初始值為](https://zh.wikipedia.org/wiki/有向无环图 "wikilink")16MB的假亂數表[cache](https://zh.wikipedia.org/wiki/cache "wikilink")，它們的內容每30000個區塊就會重新計算，這個30000區塊的間隔稱為epoch。每個epoch所產生的內容都會增大，因此1GB與16MB都只是初始值。
 
-[礦工會存儲整個dataset和cache](https://zh.wikipedia.org/wiki/礦工_\(數位貨幣\) "wikilink")，而輕客户端只需要存儲cache。礦工挖礦時將找到的[nonce填入區塊頭](https://zh.wikipedia.org/wiki/nonce "wikilink")，並需要以[SHA-3形式不斷查表尋求MIX值以計算該區塊的解](../Page/SHA-3.md "wikilink")。\[5\]
+[礦工會存儲整個dataset和cache](https://zh.wikipedia.org/wiki/礦工_\(數位貨幣\) "wikilink")，而輕客户端只需要存儲cache。礦工挖礦時將找到的[nonce填入區塊頭](https://zh.wikipedia.org/wiki/nonce "wikilink")，並需要以[SHA-3](../Page/SHA-3.md "wikilink")形式不斷查表尋求MIX值以計算該區塊的解。\[5\]
 
 ## 抵制ASIC的原因
 
@@ -28,8 +24,7 @@ Vitalik Buterin的。
 
 </references>
 
-[Category:密码学](https://zh.wikipedia.org/wiki/Category:密码学 "wikilink")
-[Category:有未审阅翻译的页面](https://zh.wikipedia.org/wiki/Category:有未审阅翻译的页面 "wikilink")
+[Category:密码学](https://zh.wikipedia.org/wiki/Category:密码学 "wikilink") [Category:有未审阅翻译的页面](https://zh.wikipedia.org/wiki/Category:有未审阅翻译的页面 "wikilink")
 
 1.
 

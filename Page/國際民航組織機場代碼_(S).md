@@ -849,5 +849,4 @@
 
 [Category:國際民航組織機場代碼](https://zh.wikipedia.org/wiki/Category:國際民航組織機場代碼 "wikilink")
 
-1.  [AIP Argentina - AD 1.3 INDICE DE AERODROMOS Y
-    HELIPUERTOS](http://ais.anac.gov.ar/descarga/aip-56463ad5f017f)
+1.  [AIP Argentina - AD 1.3 INDICE DE AERODROMOS Y HELIPUERTOS](http://ais.anac.gov.ar/descarga/aip-56463ad5f017f)

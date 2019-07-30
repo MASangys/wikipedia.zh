@@ -1,5 +1,4 @@
-《**Supermodel 2018
-Survival**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")於2018年推出的綜藝節目，由[徐章勳](https://zh.wikipedia.org/wiki/徐章勳 "wikilink")、[張允柱](../Page/張允柱.md "wikilink")、、[金秀路](../Page/金秀路.md "wikilink")、[Sunny](../Page/Sunny_\(少女時代\).md "wikilink")（[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")）等人共同主持\[1\]，節目主軸為發掘及培養橫跨模特兒、娛樂與演技領域的明星\[2\]。
+《**Supermodel 2018 Survival**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")於2018年推出的綜藝節目，由[徐章勳](https://zh.wikipedia.org/wiki/徐章勳 "wikilink")、[張允柱](../Page/張允柱.md "wikilink")、、[金秀路](../Page/金秀路.md "wikilink")、[Sunny](../Page/Sunny_\(少女時代\).md "wikilink")（[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")）等人共同主持\[1\]，節目主軸為發掘及培養橫跨模特兒、娛樂與演技領域的明星\[2\]。
 
 ## 播出時間
 
@@ -287,8 +286,7 @@ Brain Massage獎</p></td>
 
 ## 嘉賓
 
-第10集：[Weki
-Meki](../Page/Weki_Meki.md "wikilink")、[MOMOLAND](../Page/MOMOLAND.md "wikilink")（祝賀公演）
+第10集：[Weki Meki](../Page/Weki_Meki.md "wikilink")、[MOMOLAND](../Page/MOMOLAND.md "wikilink")（祝賀公演）
 
 ## 備註
 
@@ -298,9 +296,7 @@ Meki](../Page/Weki_Meki.md "wikilink")、[MOMOLAND](../Page/MOMOLAND.md "wikilin
 
   - [官方網站](https://programs.sbs.co.kr/plus/supermodel2018)
 
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:SBS](https://zh.wikipedia.org/wiki/Category:SBS "wikilink")
+[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:SBS](https://zh.wikipedia.org/wiki/Category:SBS "wikilink")
 
 1.
 2.

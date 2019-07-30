@@ -9,14 +9,9 @@
 
 ## 參考資料
 
-[Category:船底座](https://zh.wikipedia.org/wiki/Category:船底座 "wikilink")
-[Category:食雙星](https://zh.wikipedia.org/wiki/Category:食雙星 "wikilink")
-[Category:以變星命名法命名的天體](https://zh.wikipedia.org/wiki/Category:以變星命名法命名的天體 "wikilink")
+[Category:船底座](https://zh.wikipedia.org/wiki/Category:船底座 "wikilink") [Category:食雙星](https://zh.wikipedia.org/wiki/Category:食雙星 "wikilink") [Category:以變星命名法命名的天體](https://zh.wikipedia.org/wiki/Category:以變星命名法命名的天體 "wikilink")
 
 1.
-2.  \[<http://adsabs.harvard.edu/abs/2000ARA&A>..38..337C Theory of
-    Low-Mass Stars and Substellar Objects\], Gilles Chabrier and
-    Isabelle Baraffe, *Annual Review of Astronomy and Astrophysics*
-    **38** (2000), pp. 337–377.
+2.  \[<http://adsabs.harvard.edu/abs/2000ARA&A>..38..337C Theory of Low-Mass Stars and Substellar Objects\], Gilles Chabrier and Isabelle Baraffe, *Annual Review of Astronomy and Astrophysics* **38** (2000), pp. 337–377.
 
 3.

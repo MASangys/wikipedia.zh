@@ -1,5 +1,4 @@
-《**Shall We
-Chicken**》（），為韓國[JTBC](../Page/JTBC.md "wikilink")電視台於2019年推出的綜藝節目\[1\]，由、[李奎翰](../Page/李奎翰.md "wikilink")、[Sunny](../Page/Sunny_\(少女時代\).md "wikilink")（[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")）等人\[2\]共同主持，節目主軸為以雞肉為食材，尋找創新美味做法並製作新的雞肉料理的綜藝節目\[3\]\[4\]。
+《**Shall We Chicken**》（），為韓國[JTBC](../Page/JTBC.md "wikilink")電視台於2019年推出的綜藝節目\[1\]，由、[李奎翰](../Page/李奎翰.md "wikilink")、[Sunny](../Page/Sunny_\(少女時代\).md "wikilink")（[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")）等人\[2\]共同主持，節目主軸為以雞肉為食材，尋找創新美味做法並製作新的雞肉料理的綜藝節目\[3\]\[4\]。
 
 ## 各集內容
 
@@ -11,8 +10,7 @@ Chicken**》（），為韓國[JTBC](../Page/JTBC.md "wikilink")電視台於2019
 
 ## 收視率
 
-  - 以下紀錄《**Shall We
-    Chicken**》節目收視，收視最低的集數以表示，收視最高的集數以表示，而空格則表示該集的收視沒有相關數據。
+  - 以下紀錄《**Shall We Chicken**》節目收視，收視最低的集數以表示，收視最高的集數以表示，而空格則表示該集的收視沒有相關數據。
 
 <table>
 <thead>
@@ -93,7 +91,19 @@ Chicken**》（），為韓國[JTBC](../Page/JTBC.md "wikilink")電視台於2019
 </tbody>
 </table>
 
-\== 註釋與參考資料 =
+## 註釋與參考資料
+
+### 註釋
+
+### 參考資料
+
+## 外部連結
+
+  - [Shall We Chicken官方網站](http://tv.jtbc.joins.com/shallwechicken)
+  - [Shall We Chicken](https://tv.naver.com/jtbc.shallwechicken)[Naver TV頻道](https://zh.wikipedia.org/wiki/Naver_TV "wikilink")
+  - [Shall We Chicken](https://tv.kakao.com/channel/3312583)[Kakao TV頻道](../Page/Kakao.md "wikilink")
+
+[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:JTBC](https://zh.wikipedia.org/wiki/Category:JTBC "wikilink")
 
 1.
 2.

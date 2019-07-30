@@ -1,4 +1,4 @@
-***Ganawamaya***是[有袋類](../Page/有袋類.md "wikilink")之下的一個[属](https://zh.wikipedia.org/wiki/属 "wikilink")，其物種皆已滅絕。過往整個尖牙袋鼠科的物種都被歸為[粗尾袋鼠亞科的成員](../Page/粗尾袋鼠亞科.md "wikilink")，但現時這些屬都已從袋鼠科獨立出來。
+***Ganawamaya***是[有袋類](../Page/有袋類.md "wikilink")之下的一個[属](https://zh.wikipedia.org/wiki/属 "wikilink")，其物種皆已滅絕。過往整個尖牙袋鼠科的物種都被歸為[粗尾袋鼠亞科](../Page/粗尾袋鼠亞科.md "wikilink")的成員，但現時這些屬都已從袋鼠科獨立出來。
 
 ## 语源
 
@@ -14,17 +14,13 @@
 
 本屬包括下列三個物種：
 
-  - †*[Ganawamaya
-    acris](https://zh.wikipedia.org/wiki/Ganawamaya_acris "wikilink")*
-  - †*[Ganawamaya
-    aediculus](https://zh.wikipedia.org/wiki/Ganawamaya_aediculus "wikilink")*
-  - †*[Ganawamaya
-    ornata](https://zh.wikipedia.org/wiki/Ganawamaya_ornata "wikilink")*
+  - †*[Ganawamaya acris](https://zh.wikipedia.org/wiki/Ganawamaya_acris "wikilink")*
+  - †*[Ganawamaya aediculus](https://zh.wikipedia.org/wiki/Ganawamaya_aediculus "wikilink")*
+  - †*[Ganawamaya ornata](https://zh.wikipedia.org/wiki/Ganawamaya_ornata "wikilink")*
 
 ## 參考文獻
 
-  - [The Paleobiology
-    Database](http://paleodb.org/cgi-bin/bridge.pl?a=checkTaxonInfo&taxon_no=180390&is_real_user=1)
+  - [The Paleobiology Database](http://paleodb.org/cgi-bin/bridge.pl?a=checkTaxonInfo&taxon_no=180390&is_real_user=1)
 
 ## 外部連結
 

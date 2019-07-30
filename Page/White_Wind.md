@@ -1,7 +1,4 @@
-《**White
-Wind**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[MAMAMOO的第九張](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink")[韓語迷你專輯](https://zh.wikipedia.org/wiki/韓語 "wikilink")，此為「四季系列」企劃的最後一張專輯。由[Rainbow
-Bridge World企劃製作](../Page/Rainbow_Bridge_World.md "wikilink")，透過[Kakao
-M於](../Page/Kakao_M.md "wikilink")2019年3月14日發行，主打歌為《고고베베(gogobebe)》。
+《**White Wind**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[MAMAMOO的第九張](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink")[韓語迷你專輯](https://zh.wikipedia.org/wiki/韓語 "wikilink")，此為「四季系列」企劃的最後一張專輯。由[Rainbow Bridge World企劃製作](../Page/Rainbow_Bridge_World.md "wikilink")，透過[Kakao M於](../Page/Kakao_M.md "wikilink")2019年3月14日發行，主打歌為《고고베베(gogobebe)》。
 
 ## 背景
 
@@ -9,11 +6,7 @@ M於](../Page/Kakao_M.md "wikilink")2019年3月14日發行，主打歌為《고�
 
 ## 專輯與歌曲概念
 
-專輯名稱「White Wind」取自組合成員輝人於四季系列計畫中的代表色「白色」。\[2\]
-此張專輯共有七首歌曲，其中主打歌《고고베베(gogobebe)》是首強烈中毒性與色彩鮮豔的歌曲，且帶有MAMAMOO特有的愉快及爽快能量，其中「고고베베(gogobebe)」一詞靈感是來自於[金建模的歌](https://zh.wikipedia.org/wiki/金建模 "wikilink")「짱가(jjanga)」。特別的是，歌詞中「9/6」事實上是MAMAMOO出道日期「6月19日」的倒寫，而「9966=ggbb=gogobebe」。
-另外，其他六首歌包含表現等待命中戀人時心動的《Where R U》、像春天一樣的LOVE SONG《쟤가
-걔야》、輝人參與作詞且單獨演唱的《25》、心痛離別的《Bad
-bye》、柔和又甜蜜的告白歌曲《My Star》，以及最後一首為四人四色企劃的完結裝飾的Outro《4season》。\[3\]
+專輯名稱「White Wind」取自組合成員輝人於四季系列計畫中的代表色「白色」。\[2\] 此張專輯共有七首歌曲，其中主打歌《고고베베(gogobebe)》是首強烈中毒性與色彩鮮豔的歌曲，且帶有MAMAMOO特有的愉快及爽快能量，其中「고고베베(gogobebe)」一詞靈感是來自於[金建模的歌](https://zh.wikipedia.org/wiki/金建模 "wikilink")「짱가(jjanga)」。特別的是，歌詞中「9/6」事實上是MAMAMOO出道日期「6月19日」的倒寫，而「9966=ggbb=gogobebe」。 另外，其他六首歌包含表現等待命中戀人時心動的《Where R U》、像春天一樣的LOVE SONG《쟤가 걔야》、輝人參與作詞且單獨演唱的《25》、心痛離別的《Bad bye》、柔和又甜蜜的告白歌曲《My Star》，以及最後一首為四人四色企劃的完結裝飾的Outro《4season》。\[3\]
 
 ## 曲目
 
@@ -183,17 +176,11 @@ bye》、柔和又甜蜜的告白歌曲《My Star》，以及最後一首為四�
   -
 ## 參考文獻
 
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:Mamamoo音樂專輯](https://zh.wikipedia.org/wiki/Category:Mamamoo音樂專輯 "wikilink")
-[Category:2019年迷你專輯](https://zh.wikipedia.org/wiki/Category:2019年迷你專輯 "wikilink")
-[Category:2019年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2019年Gaon專輯週榜冠軍作品 "wikilink")
+[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:Mamamoo音樂專輯](https://zh.wikipedia.org/wiki/Category:Mamamoo音樂專輯 "wikilink") [Category:2019年迷你專輯](https://zh.wikipedia.org/wiki/Category:2019年迷你專輯 "wikilink") [Category:2019年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2019年Gaon專輯週榜冠軍作品 "wikilink")
 
-1.  [MAMAMOO
-    要回來啦！「四季四色」最後一張專輯將問世](https://www.koreastardaily.com/tc/news/114391)
-2.  [四人四色的 MAMAMOO！企劃壓軸專輯〈White
-    Wind〉概念照全到齊](https://www.koreastardaily.com/tc/news/114587)
-3.  [마마무 새 타이틀곡은 '고고베베'…유쾌X상쾌
-    에너지](https://entertain.naver.com/read?oid=311&aid=0000964708)
+1.  [MAMAMOO 要回來啦！「四季四色」最後一張專輯將問世](https://www.koreastardaily.com/tc/news/114391)
+2.  [四人四色的 MAMAMOO！企劃壓軸專輯〈White Wind〉概念照全到齊](https://www.koreastardaily.com/tc/news/114587)
+3.  [마마무 새 타이틀곡은 '고고베베'…유쾌X상쾌 에너지](https://entertain.naver.com/read?oid=311&aid=0000964708)
 4.
 5.
 6.

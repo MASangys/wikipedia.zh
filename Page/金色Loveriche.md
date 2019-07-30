@@ -1,6 +1,4 @@
-是[SAGA
-PLANETS在](../Page/SAGA_PLANETS.md "wikilink")2017年12月22日\[1\]發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。2019年2月22日發售續作《金色Loveriche
--Golden Time-》\[2\]。
+是[SAGA PLANETS在](../Page/SAGA_PLANETS.md "wikilink")2017年12月22日\[1\]發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。2019年2月22日發售續作《金色Loveriche -Golden Time-》\[2\]。
 
 ## 故事簡介
 
@@ -23,8 +21,7 @@ PLANETS在](../Page/SAGA_PLANETS.md "wikilink")2017年12月22日\[1\]發售的[�
     跟央路同年級的金髮太妹少女，經常在屋頂上抽菸且屢次被停學，更因為其不良的品性受到多數學生的畏懼。
     擁有絕對音感，這一點被身為電視台千金的城崎絢華注意到，使其以歌姬「瑪麗亞·畢曉普」的身份出道。
     實際上罹患先天性的腦瘤並影響生活作息，使得本身除了聽力外的感官都很弱，抽菸主要也是為了能夠感受稍微強烈的味道。在個人路線中因敵不過腦瘤的惡化而過世。
-    於續作Golden
-    Time的另一種結局中懷了央路的孩子使得腦瘤的情況發生了變化，後來在索爾提雷茱王國的全力協助下生下了名為真理亞的女孩，自身也平安活了下來，並在世界各地舉辦音樂會。
+    於續作Golden Time的另一種結局中懷了央路的孩子使得腦瘤的情況發生了變化，後來在索爾提雷茱王國的全力協助下生下了名為真理亞的女孩，自身也平安活了下來，並在世界各地舉辦音樂會。
 
 ### 其他角色
 
@@ -76,15 +73,9 @@ PLANETS在](../Page/SAGA_PLANETS.md "wikilink")2017年12月22日\[1\]發售的[�
 ## 外部連結
 
   - [金色Loveriche遊戲官網](http://sagaplanets.product.co.jp/works/kinkoi/)
-  - [金色Loveriche -Golden
-    Time-遊戲官網](http://sagaplanets.product.co.jp/works/kinkoigt/)
+  - [金色Loveriche -Golden Time-遊戲官網](http://sagaplanets.product.co.jp/works/kinkoigt/)
 
-[Category:2017年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2017年日本成人遊戲 "wikilink")
-[Category:2019年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2019年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
+[Category:2017年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2017年日本成人遊戲 "wikilink") [Category:2019年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2019年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
 
 1.
 

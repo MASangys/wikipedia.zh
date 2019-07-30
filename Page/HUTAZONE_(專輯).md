@@ -1,51 +1,33 @@
-《**HUTAZONE**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BTOB成員](../Page/BTOB.md "wikilink")[李旼赫](../Page/李旼赫.md "wikilink")（HUTA）的首張個人韓語正規專輯，於2019年1月15日發行。主打歌曲為《YA》及《今晚（With
-Melody）》（）兩首歌曲。\[1\]
+《**HUTAZONE**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BTOB](../Page/BTOB.md "wikilink")成員[李旼赫](../Page/李旼赫.md "wikilink")（HUTA）的首張個人韓語正規專輯，於2019年1月15日發行。主打歌曲為《YA》及《今晚（With Melody）》（）兩首歌曲。\[1\]
 
 ## 背景
 
-2019年1月2日，[Cube娛樂宣布旼赫於同年](../Page/Cube娛樂.md "wikilink")1月15日發行首張個人正規專輯，也是他第一次於韓國個人發表的專輯作品。
+2019年1月2日，[Cube娛樂](../Page/Cube娛樂.md "wikilink")宣布旼赫於同年1月15日發行首張個人正規專輯，也是他第一次於韓國個人發表的專輯作品。
 
 同年1月4日，釋出專輯預告照，並公開專輯名稱為《HUTAZONE》。\[2\] 韓國時間1月7日0時，公開專輯日程表。\[3\]
 
-韓國時間1月8日0時，公開曲目表，旼赫參與全專輯的作曲填詞。\[4\]
-韓國時間1月9、10日，分別公開專輯概念照。<ref>OFFICIALBTOB
-Twitter
+韓國時間1月8日0時，公開曲目表，旼赫參與全專輯的作曲填詞。\[4\] 韓國時間1月9、10日，分別公開專輯概念照。<ref>OFFICIALBTOB Twitter
 
   - 1/9
-    [1](https://twitter.com/OFFICIALBTOB/status/1082653170562727936)
-    [2](https://twitter.com/OFFICIALBTOB/status/1082653198576422913)
-    [3](https://twitter.com/OFFICIALBTOB/status/1082653231044612101)
-    [4](https://twitter.com/OFFICIALBTOB/status/1082653285910224896)
+    [1](https://twitter.com/OFFICIALBTOB/status/1082653170562727936) [2](https://twitter.com/OFFICIALBTOB/status/1082653198576422913) [3](https://twitter.com/OFFICIALBTOB/status/1082653231044612101) [4](https://twitter.com/OFFICIALBTOB/status/1082653285910224896)
   - 1/10
-    [5](https://twitter.com/OFFICIALBTOB/status/1083015564384038912)
-    [6](https://twitter.com/OFFICIALBTOB/status/1083015582646120449)
-    [7](https://twitter.com/OFFICIALBTOB/status/1083015608050933760)
-    [8](https://twitter.com/OFFICIALBTOB/status/1083015641458630656)
+    [5](https://twitter.com/OFFICIALBTOB/status/1083015564384038912) [6](https://twitter.com/OFFICIALBTOB/status/1083015582646120449) [7](https://twitter.com/OFFICIALBTOB/status/1083015608050933760) [8](https://twitter.com/OFFICIALBTOB/status/1083015641458630656)
 
 </ref>
 
 韓國時間1月11日0時，釋出「'HUTAZONE' PRE-ROLL」預告影像。韓國時間1月14日0時，釋出音源試聽影像。\[5\]
 
-韓國時間1月15日0時，公開M/V Teaser \[6\]；同日韓國時間6時，公開全專輯音源及主打曲《YA》完整版MV
-\[7\]；韓國時間9時，公開主打曲《YA》應援教學。\[8\] 1月16日，實體專輯正式發行。
-1月20日，發布《YA》的舞蹈版影像。1月24日，釋出練習室版舞蹈影像。1月29日，公開主打曲《今晚（With
-Melody）》應援教學。\[9\] 2月16日，公開主打曲《今晚（With Melody）》完整版MV。3月23日，公開主打曲《今晚（With
-Melody）》的Eye contact ver.版本MV。
+韓國時間1月15日0時，公開M/V Teaser \[6\]；同日韓國時間6時，公開全專輯音源及主打曲《YA》完整版MV \[7\]；韓國時間9時，公開主打曲《YA》應援教學。\[8\] 1月16日，實體專輯正式發行。 1月20日，發布《YA》的舞蹈版影像。1月24日，釋出練習室版舞蹈影像。1月29日，公開主打曲《今晚（With Melody）》應援教學。\[9\] 2月16日，公開主打曲《今晚（With Melody）》完整版MV。3月23日，公開主打曲《今晚（With Melody）》的Eye contact ver.版本MV。
 
-收錄曲《Purple Rain》曾於2017年8月10日Solo特別企劃《[PIECE OF
-BTOB](../Page/PIECE_OF_BTOB.md "wikilink")》發表。
+收錄曲《Purple Rain》曾於2017年8月10日Solo特別企劃《[PIECE OF BTOB](../Page/PIECE_OF_BTOB.md "wikilink")》發表。
 
-收錄曲《ALL DAY》是此前曾於2018年7月25日發行的日語單曲《[Summer
-Diary](../Page/夏天的日記_\(單曲\).md "wikilink")》中發表的歌曲，此次收錄的為韓文版本，韓文版此前亦曾於《[BTOB
-TIME -THIS IS
-US-](../Page/BTOB_TIME_-THIS_IS_US-.md "wikilink")》首次演唱。\[10\]
+收錄曲《ALL DAY》是此前曾於2018年7月25日發行的日語單曲《[Summer Diary](../Page/夏天的日記_\(單曲\).md "wikilink")》中發表的歌曲，此次收錄的為韓文版本，韓文版此前亦曾於《[BTOB TIME -THIS IS US-](../Page/BTOB_TIME_-THIS_IS_US-.md "wikilink")》首次演唱。\[10\]
 
 ## 曲目
 
 {{ Track listing
 
-| total_length = 36:53 | music_credits = yes | lyrics_credits = yes |
-arranger_credits = yes
+| total_length = 36:53 | music_credits = yes | lyrics_credits = yes | arranger_credits = yes
 
 | title1 = HUTAZONE | note1 = | music1 = 李旼赫
 梁承郁
@@ -58,8 +40,7 @@ fireBear | lyrics2 = 李旼赫 | arranger2 = 梁承郁
 fireBear | length2 = 3:13
 
 | title3 = 你也是？我也是！ ()
-| note3 = Feat. [小娟](https://zh.wikipedia.org/wiki/田小娟 "wikilink") of
-[(G)I-DLE](../Page/\(G\)I-DLE.md "wikilink") | music3 = 李旼赫
+| note3 = Feat. [小娟](https://zh.wikipedia.org/wiki/田小娟 "wikilink") of [(G)I-DLE](../Page/\(G\)I-DLE.md "wikilink") | music3 = 李旼赫
 梁承郁
 fireBear | lyrics3 = 李旼赫
 [田小娟](https://zh.wikipedia.org/wiki/田小娟 "wikilink") | arranger3 = 梁承郁
@@ -72,8 +53,7 @@ DJ AIN | lyrics4 = 李旼赫 | arranger4 = 梁承郁
 bymm | length4 = 3:50
 
 | title5 = 似夢 ()
-| note5 = Duet. [星材](../Page/陸星材.md "wikilink") of
-[BTOB](../Page/BTOB.md "wikilink") | music5 = 李旼赫
+| note5 = Duet. [星材](../Page/陸星材.md "wikilink") of [BTOB](../Page/BTOB.md "wikilink") | music5 = 李旼赫
 梁承郁
 joseph k | lyrics5 = 李旼赫 | arranger5 = 梁承郁
 joseph k | length5 = 4:33
@@ -88,14 +68,12 @@ joseph k | length6 = 1:40
 ZTO | lyrics7 = 李旼赫 | arranger7 = 梁承郁
 ZTO | length7 = 3:56
 
-| title8 = [ALL DAY](../Page/夏天的日記_\(單曲\).md "wikilink") | note8 = KOR
-ver. | music8 = 李旼赫
+| title8 = [ALL DAY](../Page/夏天的日記_\(單曲\).md "wikilink") | note8 = KOR ver. | music8 = 李旼赫
 梁承郁
 DJ AIN | lyrics8 = 李旼赫 | arranger8 = 梁承郁
 DJ AIN | length8 = 3:40
 
-| title9 = [Purple Rain](../Page/PIECE_OF_BTOB.md "wikilink") | note9 =
-Feat. [CHEEZE](../Page/CHEEZE.md "wikilink") | music9 = Jerry.L
+| title9 = [Purple Rain](../Page/PIECE_OF_BTOB.md "wikilink") | note9 = Feat. [CHEEZE](../Page/CHEEZE.md "wikilink") | music9 = Jerry.L
 李旼赫 | lyrics9 = 李旼赫 | arranger9 = Jerry.L
 李旼赫 | length9 = 3:18
 
@@ -407,13 +385,10 @@ With VALO</p></td>
 
 ## 外部連結
 
-  - [BTOB Official YouTube
-    Channel](https://www.youtube.com/channel/UCgB7A457ULlgm5c3948vr-w)
-  - [1theK Channel
-    BTOB](https://www.youtube.com/playlist?list=PLID4CZACkMJTYTBLU2rDe1HcJ3vTiaE5A)
+  - [BTOB Official YouTube Channel](https://www.youtube.com/channel/UCgB7A457ULlgm5c3948vr-w)
+  - [1theK Channel BTOB](https://www.youtube.com/playlist?list=PLID4CZACkMJTYTBLU2rDe1HcJ3vTiaE5A)
 
-[Category:2019年音樂專輯](https://zh.wikipedia.org/wiki/Category:2019年音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
+[Category:2019年音樂專輯](https://zh.wikipedia.org/wiki/Category:2019年音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
 
 1.
 2.
@@ -426,18 +401,10 @@ With VALO</p></td>
 9.
 10.
 11.
-12. [HUTA DAY '오늘 밤에'는 로맨틱 민혁이와
-    함께](https://twitter.com/OFFICIALBTOB/status/1099295249946406912)
-    OFFICIALBTOB Twitter
-13. [HUTA DAY '오늘 밤에'는 섹시한 민혁이와
-    함께](https://twitter.com/OFFICIALBTOB/status/1101829513166577664)
-    OFFICIALBTOB Twitter
-14. [HUTA DAY '오늘 밤에'는 큐티뽀짝한 민혁이와
-    함께](https://twitter.com/OFFICIALBTOB/status/1104366435709546502)
-    OFFICIALBTOB Twitter
-15. [HUTA DAY '오늘 밤에'는 귀요미 후디민혁이와
-    함께](https://twitter.com/OFFICIALBTOB/status/1106931795847598080)
-    OFFICIALBTOB Twitter
+12. [HUTA DAY '오늘 밤에'는 로맨틱 민혁이와 함께](https://twitter.com/OFFICIALBTOB/status/1099295249946406912) OFFICIALBTOB Twitter
+13. [HUTA DAY '오늘 밤에'는 섹시한 민혁이와 함께](https://twitter.com/OFFICIALBTOB/status/1101829513166577664) OFFICIALBTOB Twitter
+14. [HUTA DAY '오늘 밤에'는 큐티뽀짝한 민혁이와 함께](https://twitter.com/OFFICIALBTOB/status/1104366435709546502) OFFICIALBTOB Twitter
+15. [HUTA DAY '오늘 밤에'는 귀요미 후디민혁이와 함께](https://twitter.com/OFFICIALBTOB/status/1106931795847598080) OFFICIALBTOB Twitter
 16.
 17.
 18.

@@ -1,4 +1,4 @@
-RNDIS（，远程网络驱动接口规范）是一个通信协议。它是[微软公司的](https://zh.wikipedia.org/wiki/微软公司 "wikilink")，被大多数[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[Linux和](../Page/Linux.md "wikilink")[Unix系统所支持](https://zh.wikipedia.org/wiki/Unix "wikilink")。它主要使用[USB协议作为其下层传输](../Page/USB.md "wikilink")，它向上层提供虚拟的[以太网连接](../Page/以太网.md "wikilink")。
+RNDIS（，远程网络驱动接口规范）是一个通信协议。它是[微软公司的](https://zh.wikipedia.org/wiki/微软公司 "wikilink")，被大多数[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[Linux](../Page/Linux.md "wikilink")和[Unix系统所支持](https://zh.wikipedia.org/wiki/Unix "wikilink")。它主要使用[USB](../Page/USB.md "wikilink")协议作为其下层传输，它向上层提供虚拟的[以太网](../Page/以太网.md "wikilink")连接。
 
 ## 概况
 
@@ -19,11 +19,9 @@ RNDIS（，远程网络驱动接口规范）是一个通信协议。它是[微�
 
 ## 外部链接
 
-  - [Overview of Remote NDIS
-    (RNDIS)](https://docs.microsoft.com/en-us/windows-hardware/drivers/network/overview-of-remote-ndis--rndis-)
+  - [Overview of Remote NDIS (RNDIS)](https://docs.microsoft.com/en-us/windows-hardware/drivers/network/overview-of-remote-ndis--rndis-)
 
-[Category:微软API](https://zh.wikipedia.org/wiki/Category:微软API "wikilink")
-[Category:通信协议](https://zh.wikipedia.org/wiki/Category:通信协议 "wikilink")
+[Category:微软API](https://zh.wikipedia.org/wiki/Category:微软API "wikilink") [Category:通信协议](https://zh.wikipedia.org/wiki/Category:通信协议 "wikilink")
 
 1.
 2.

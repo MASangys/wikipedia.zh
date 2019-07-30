@@ -1,4 +1,4 @@
-**ASCA**（\[1\]），[日本女性](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")。本名大仓明日香\[2\]，出生于[爱知县](https://zh.wikipedia.org/wiki/爱知县 "wikilink")。2013年出道，为[日本索尼音乐娱乐旗下艺人](https://zh.wikipedia.org/wiki/日本索尼音乐娱乐 "wikilink")。
+**ASCA**（\[1\]），[日本](../Page/日本.md "wikilink")女性[歌手](../Page/歌手.md "wikilink")。本名大仓明日香\[2\]，出生于[爱知县](https://zh.wikipedia.org/wiki/爱知县 "wikilink")。2013年出道，为[日本索尼音乐娱乐旗下艺人](https://zh.wikipedia.org/wiki/日本索尼音乐娱乐 "wikilink")。
 
 ## 经历
 
@@ -128,17 +128,11 @@
   -
   -
   -
-[Category:爱知县出身人物](https://zh.wikipedia.org/wiki/Category:爱知县出身人物 "wikilink")
-[Category:日本女性流行音樂歌手](https://zh.wikipedia.org/wiki/Category:日本女性流行音樂歌手 "wikilink")
-[Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")
-[Category:日本索尼音樂娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂旗下藝人 "wikilink")
-[Category:Media_Factory旗下藝人](https://zh.wikipedia.org/wiki/Category:Media_Factory旗下藝人 "wikilink")
+[Category:爱知县出身人物](https://zh.wikipedia.org/wiki/Category:爱知县出身人物 "wikilink") [Category:日本女性流行音樂歌手](https://zh.wikipedia.org/wiki/Category:日本女性流行音樂歌手 "wikilink") [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink") [Category:日本索尼音樂娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂旗下藝人 "wikilink") [Category:Media_Factory旗下藝人](https://zh.wikipedia.org/wiki/Category:Media_Factory旗下藝人 "wikilink")
 
 1.
 2.
-3.   アニメイトタイムズ
-    |url=<https://www.animatetimes.com/news/details.php?id=1359619258>
-    |website=アニメイトタイムズ |accessdate=2019-03-10 |language=ja}}
+3.   アニメイトタイムズ |url=<https://www.animatetimes.com/news/details.php?id=1359619258> |website=アニメイトタイムズ |accessdate=2019-03-10 |language=ja}}
 4.
 5.
 6.

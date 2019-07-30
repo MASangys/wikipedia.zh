@@ -1,5 +1,4 @@
-《**LIGHT
-US**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子組合](https://zh.wikipedia.org/wiki/男子組合 "wikilink")[ONEUS首張迷你專輯](https://zh.wikipedia.org/wiki/ONEUS "wikilink")，於2019年1月9日推出，主打歌曲為〈Valkyrie〉。
+《**LIGHT US**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子組合](https://zh.wikipedia.org/wiki/男子組合 "wikilink")[ONEUS首張迷你專輯](https://zh.wikipedia.org/wiki/ONEUS "wikilink")，於2019年1月9日推出，主打歌曲為〈Valkyrie〉。
 
 ## 簡介
 
@@ -15,8 +14,7 @@ US**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子組合
 
 ### 正式發行
 
-1月9日，韓國時間下午6點，公開首張迷你專輯《LIGHT
-US》全輯音源及主打《Valkyrie》並於同日8點舉行出道演唱會，正式出道。\[3\]
+1月9日，韓國時間下午6點，公開首張迷你專輯《LIGHT US》全輯音源及主打《Valkyrie》並於同日8點舉行出道演唱會，正式出道。\[3\]
 
 ## 曲目
 
@@ -271,16 +269,12 @@ US》全輯音源及主打《Valkyrie》並於同日8點舉行出道演唱會，
   - [RBW官網](http://rbbridge.com/)
   - [ONEUS 官方Fan Cafe](http://cafe.daum.net/RBWBOYZ)
   - [ONEUS Twitter](https://twitter.com/official_ONEUS)
-  - [ONEUS
-    Youtube](https://www.youtube.com/channel/UCWTYf4xModfNsyq2NUYjF5g)
+  - [ONEUS Youtube](https://www.youtube.com/channel/UCWTYf4xModfNsyq2NUYjF5g)
   - [ONEUS Facebook](https://www.facebook.com/officialONEUS)
   - [ONEUS Instagram](https://www.instagram.com/official_oneus)
   - [ONEUS VLIVE](http://channels.vlive.tv/EDC22D/video)
 
-[Category:ONEUS](https://zh.wikipedia.org/wiki/Category:ONEUS "wikilink")
-[Category:2019年迷你專輯](https://zh.wikipedia.org/wiki/Category:2019年迷你專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:ONEUS音樂專輯](https://zh.wikipedia.org/wiki/Category:ONEUS音樂專輯 "wikilink")
+[Category:ONEUS](https://zh.wikipedia.org/wiki/Category:ONEUS "wikilink") [Category:2019年迷你專輯](https://zh.wikipedia.org/wiki/Category:2019年迷你專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:ONEUS音樂專輯](https://zh.wikipedia.org/wiki/Category:ONEUS音樂專輯 "wikilink")
 
 1.
 2.

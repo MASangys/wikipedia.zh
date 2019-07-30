@@ -6,19 +6,15 @@
 
 · 1982年成立建坤營造，主要經營方向為[公共工程](../Page/公共工程.md "wikilink")、營建工程。
 
-·
-1992年成立達永建設，營運方向為[投資興建](../Page/投资.md "wikilink")、[廣告](../Page/廣告.md "wikilink")[行銷及](https://zh.wikipedia.org/wiki/行銷 "wikilink")[不動產](../Page/不動產.md "wikilink")買賣。
+· 1992年成立達永建設，營運方向為[投資興建](../Page/投资.md "wikilink")、[廣告](../Page/廣告.md "wikilink")[行銷及](https://zh.wikipedia.org/wiki/行銷 "wikilink")[不動產](../Page/不動產.md "wikilink")買賣。
 
 · 1998年成立耀達建設，專注於投資興建及[廣告](../Page/廣告.md "wikilink")行銷。
 
 · 2011年成立達遠資產，主要經營方向為土地開發及[不動產](../Page/不動產.md "wikilink")租屋。
 
-·
-2013年規劃達永開發，主要經營方向為[都市更新及住宅開發](https://zh.wikipedia.org/wiki/都市更新 "wikilink")。
+· 2013年規劃達永開發，主要經營方向為[都市更新及住宅開發](https://zh.wikipedia.org/wiki/都市更新 "wikilink")。
 
-·
-2014年經營[飲食業](https://zh.wikipedia.org/wiki/飲食業 "wikilink")，旗下品牌有達永食堂、阿達阿永咖啡廳、ERC
-CAFÉ。
+· 2014年經營[飲食業](https://zh.wikipedia.org/wiki/飲食業 "wikilink")，旗下品牌有達永食堂、阿達阿永咖啡廳、ERC CAFÉ。
 
 ## 代表性建案
 
@@ -69,10 +65,16 @@ CAFÉ。
 
 <references />
 
-·
-[公司及分公司基本資料查詢](https://serv.gcis.nat.gov.tw/pub/cmpy/cmpyInfoListAction.do)
+· [公司及分公司基本資料查詢](https://serv.gcis.nat.gov.tw/pub/cmpy/cmpyInfoListAction.do)
 
-·
-[國城建設粉絲團](https://www.facebook.com/pg/kcntown/about/?ref=page_internal)
+· [國城建設粉絲團](https://www.facebook.com/pg/kcntown/about/?ref=page_internal)
 
-· \[https
+· [國城建設官網](https://www.ntown.com.tw/tw)
+
+## 外部連結
+
+· [台灣公司登記資料](https://gcis.nat.gov.tw/mainNew/subclassNAction.do?method=getFile&pk=23)
+
+· [經濟部商業司](../Page/經濟部商業司.md "wikilink")
+
+[Category:台灣建築公司](https://zh.wikipedia.org/wiki/Category:台灣建築公司 "wikilink") [Category:總部位於高雄市的工商業機構](https://zh.wikipedia.org/wiki/Category:總部位於高雄市的工商業機構 "wikilink") [Category:1982年成立的公司](https://zh.wikipedia.org/wiki/Category:1982年成立的公司 "wikilink")

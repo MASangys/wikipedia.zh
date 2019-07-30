@@ -1,4 +1,4 @@
-**特务机关NERV**（）是日本的一个灾害速报账号，由石森大贵及其所在的信息安全公司Gehirn所运营，名字取自日本动画《[新世纪福音战士](../Page/新世纪福音战士.md "wikilink")》中的虚构國際武裝組織「[聯合國直屬特務機關NERV](https://zh.wikipedia.org/wiki/聯合國直屬特務機關NERV "wikilink")」，运营于[推特和](https://zh.wikipedia.org/wiki/推特 "wikilink")[Mastodon上](../Page/Mastodon.md "wikilink")，主要用于播报[地震信息](../Page/地震.md "wikilink")，也有报道电车停运等信息。帐号从[日本气象厅等机构收集信息后使用程序自动进行分析生成图文报告播报](https://zh.wikipedia.org/wiki/日本气象厅 "wikilink")，其播报速度有时还比官方的[紧急地震速报快](../Page/紧急地震速报.md "wikilink")。
+**特务机关NERV**（）是日本的一个灾害速报账号，由石森大贵及其所在的信息安全公司Gehirn所运营，名字取自日本动画《[新世纪福音战士](../Page/新世纪福音战士.md "wikilink")》中的虚构國際武裝組織「[聯合國直屬特務機關NERV](https://zh.wikipedia.org/wiki/聯合國直屬特務機關NERV "wikilink")」，运营于[推特和](https://zh.wikipedia.org/wiki/推特 "wikilink")[Mastodon](../Page/Mastodon.md "wikilink")上，主要用于播报[地震](../Page/地震.md "wikilink")信息，也有报道电车停运等信息。帐号从[日本气象厅等机构收集信息后使用程序自动进行分析生成图文报告播报](https://zh.wikipedia.org/wiki/日本气象厅 "wikilink")，其播报速度有时还比官方的[紧急地震速报](../Page/紧急地震速报.md "wikilink")快。
 
 ## 历史
 
@@ -15,9 +15,7 @@
   -
   - [特务机关NERV](https://unnerv.jp/@UN_NERV)的Mastodon帐号
 
-[Category:推特帳戶](https://zh.wikipedia.org/wiki/Category:推特帳戶 "wikilink")
-[Category:日本組織](https://zh.wikipedia.org/wiki/Category:日本組織 "wikilink")
-[Category:地震预警系统](https://zh.wikipedia.org/wiki/Category:地震预警系统 "wikilink")
+[Category:推特帳戶](https://zh.wikipedia.org/wiki/Category:推特帳戶 "wikilink") [Category:日本組織](https://zh.wikipedia.org/wiki/Category:日本組織 "wikilink") [Category:地震预警系统](https://zh.wikipedia.org/wiki/Category:地震预警系统 "wikilink")
 
 1.
 2.

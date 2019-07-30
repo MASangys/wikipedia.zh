@@ -4,8 +4,7 @@
 
 ### 連載漫畫
 
-  - （[ASCII Media
-    Works](../Page/ASCII_Media_Works.md "wikilink")2007年3月號－2009年5月號）
+  - （[ASCII Media Works](../Page/ASCII_Media_Works.md "wikilink")2007年3月號－2009年5月號）
 
   - （[KADOKAWA](../Page/KADOKAWA.md "wikilink")）
 

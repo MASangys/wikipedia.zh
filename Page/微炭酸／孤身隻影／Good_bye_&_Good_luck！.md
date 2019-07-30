@@ -1,5 +1,4 @@
-《**「微炭酸／孤身隻影／Good bye & Good
-luck！**》（）是[日本女子偶像組合](../Page/日本.md "wikilink")[Juice=Juice的第](https://zh.wikipedia.org/wiki/Juice=Juice "wikilink")11张[单曲](../Page/单曲.md "wikilink")，於2019年2月13日由[hachama發售](https://zh.wikipedia.org/wiki/hachama "wikilink")。
+《**「微炭酸／孤身隻影／Good bye & Good luck！**》（）是[日本](../Page/日本.md "wikilink")女子偶像組合[Juice=Juice的第](https://zh.wikipedia.org/wiki/Juice=Juice "wikilink")11张[单曲](../Page/单曲.md "wikilink")，於2019年2月13日由[hachama發售](https://zh.wikipedia.org/wiki/hachama "wikilink")。
 
 ## 概要
 
@@ -7,9 +6,7 @@ luck！**》（）是[日本女子偶像組合](../Page/日本.md "wikilink")[Ju
 
 <!-- end list -->
 
-  - 此單曲有7個版本，分別有初回生產限定盤A、B、C、SP和通常盤A、B、C。「初回生產限定盤A」收錄了《微炭酸》的Music
-    Video；「初回生產限定盤B」收錄了《孤身隻影》的Music Video；「初回生產限定盤C」收錄了《Good bye &
-    Good luck！》的Music Video。
+  - 此單曲有7個版本，分別有初回生產限定盤A、B、C、SP和通常盤A、B、C。「初回生產限定盤A」收錄了《微炭酸》的Music Video；「初回生產限定盤B」收錄了《孤身隻影》的Music Video；「初回生產限定盤C」收錄了《Good bye & Good luck！》的Music Video。
 
 ## 收錄内容
 
@@ -36,5 +33,4 @@ luck！**》（）是[日本女子偶像組合](../Page/日本.md "wikilink")[Ju
   -
   -
   -
-[Category:Juice=Juice的單曲](https://zh.wikipedia.org/wiki/Category:Juice=Juice的單曲 "wikilink")
-[Category:2019年單曲](https://zh.wikipedia.org/wiki/Category:2019年單曲 "wikilink")
+[Category:Juice=Juice的單曲](https://zh.wikipedia.org/wiki/Category:Juice=Juice的單曲 "wikilink") [Category:2019年單曲](https://zh.wikipedia.org/wiki/Category:2019年單曲 "wikilink")

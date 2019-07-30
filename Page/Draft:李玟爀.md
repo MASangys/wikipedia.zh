@@ -1,5 +1,4 @@
-**李玟爀**\[1\]（，），藝名為為 **民赫**\[2\]\[3\]\[4\]（英语：**Minhyuk**），[Monsta
-X七位成員之一](https://zh.wikipedia.org/wiki/Monsta_X "wikilink")，擔任副唱、門面。
+**李玟爀**\[1\]（，），藝名為為 **民赫**\[2\]\[3\]\[4\]（英语：**Minhyuk**），[Monsta X七位成員之一](https://zh.wikipedia.org/wiki/Monsta_X "wikilink")，擔任副唱、門面。
 
 ## 經歷
 
@@ -7,13 +6,11 @@ X七位成員之一](https://zh.wikipedia.org/wiki/Monsta_X "wikilink")，擔任
 
 ### 練習生時期
 
-  - 2014年11月參與[STARSHIP娱乐](../Page/STARSHIP娛樂.md "wikilink")&有線電視[Mnet新偶像團真人選秀節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[NO.MERCY](../Page/NO.MERCY.md "wikilink")》\[7\]，於2015年2月順利取得最後名額獲選，以[MONSTA
-    X成功出道](https://zh.wikipedia.org/wiki/Monsta_X "wikilink")\[8\]。
+  - 2014年11月參與[STARSHIP娱乐](../Page/STARSHIP娛樂.md "wikilink")&有線電視[Mnet新偶像團真人選秀節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[NO.MERCY](../Page/NO.MERCY.md "wikilink")》\[7\]，於2015年2月順利取得最後名額獲選，以[MONSTA X成功出道](https://zh.wikipedia.org/wiki/Monsta_X "wikilink")\[8\]。
 
 ### 2015年至今
 
-  - 5月14日，以[MONSTA
-    X的身份出道](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")\[9\]。
+  - 5月14日，以[MONSTA X的身份出道](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")\[9\]。
 
 ## 影視作品
 
@@ -123,9 +120,7 @@ X七位成員之一](https://zh.wikipedia.org/wiki/Monsta_X "wikilink")，擔任
 
 ## 外部連結
 
-[L](https://zh.wikipedia.org/wiki/Category:韓國男歌手 "wikilink")
-[L](https://zh.wikipedia.org/wiki/Category:1993年出生 "wikilink")
-[M玟](https://zh.wikipedia.org/wiki/Category:李姓 "wikilink")
+[L](https://zh.wikipedia.org/wiki/Category:韓國男歌手 "wikilink") [L](https://zh.wikipedia.org/wiki/Category:1993年出生 "wikilink") [M玟](https://zh.wikipedia.org/wiki/Category:李姓 "wikilink")
 
 1.
 2.

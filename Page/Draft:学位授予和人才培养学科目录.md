@@ -48,11 +48,11 @@
 | 030110                                      | 军事法学                                                                                                      |                                                       |
 | 0302 [政治学](../Page/政治学.md "wikilink")       | 030201                                                                                                    | [政治学理论](../Page/政治哲学.md "wikilink")                   |
 | 030202                                      | 中外[政治制度](https://zh.wikipedia.org/wiki/政治制度 "wikilink")                                                   |                                                       |
-| 030203                                      | [科学社会主义与](../Page/科学社会主义.md "wikilink")[国际共产主义运动](https://zh.wikipedia.org/wiki/国际共产主义运动 "wikilink")      |                                                       |
+| 030203                                      | [科学社会主义](../Page/科学社会主义.md "wikilink")与[国际共产主义运动](https://zh.wikipedia.org/wiki/国际共产主义运动 "wikilink")      |                                                       |
 | 030204                                      | [中共党史](https://zh.wikipedia.org/wiki/中共党史 "wikilink")（含：党的学说与党的建设）                                        |                                                       |
 | 030206                                      | 国际政治                                                                                                      |                                                       |
 | 030207                                      | [国际关系](https://zh.wikipedia.org/wiki/国际关系 "wikilink")                                                     |                                                       |
-| 030208                                      | [外交学](../Page/外交.md "wikilink")                                                                           |                                                       |
+| 030208                                      | [外交](../Page/外交.md "wikilink")学                                                                           |                                                       |
 | 0303 社会学                                    | 030301                                                                                                    | [社会学](../Page/社会学.md "wikilink")                      |
 | 030302                                      | [人口学](../Page/人口学.md "wikilink")                                                                          |                                                       |
 | 030303                                      | [人类学](../Page/人类学.md "wikilink")                                                                          |                                                       |
@@ -62,7 +62,7 @@
 | 030403                                      | 中国少数民族经济                                                                                                  |                                                       |
 | 030404                                      | 中国少数民族史                                                                                                   |                                                       |
 | 030405                                      | 中国少数民族艺术                                                                                                  |                                                       |
-| 0305 [马克思主义理论](../Page/马克思主义.md "wikilink") | 030501                                                                                                    | 马克思主义基本原理                                             |
+| 0305 [马克思主义](../Page/马克思主义.md "wikilink")理论 | 030501                                                                                                    | 马克思主义基本原理                                             |
 | 030502                                      | 马克思主义发展史                                                                                                  |                                                       |
 | 030503                                      | 马克思主义中国化研究                                                                                                |                                                       |
 | 030504                                      | [国外马克思主义研究](../Page/西方马克思主义.md "wikilink")                                                                |                                                       |
@@ -100,7 +100,7 @@
 </tr>
 <tr class="even">
 <td><p>040106</p></td>
-<td><p><a href="../Page/高等教育.md" title="wikilink">高等教育学</a></p></td>
+<td><p><a href="../Page/高等教育.md" title="wikilink">高等教育</a>学</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -151,7 +151,7 @@
 </tr>
 <tr class="even">
 <td><p>040303</p></td>
-<td><p><a href="../Page/体育.md" title="wikilink">体育教育</a><a href="https://zh.wikipedia.org/wiki/运动教练" title="wikilink">训练学</a></p></td>
+<td><p><a href="../Page/体育.md" title="wikilink">体育</a>教育<a href="https://zh.wikipedia.org/wiki/运动教练" title="wikilink">训练学</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -201,7 +201,7 @@
 |                                                          |                                                                                                                    |                                       |
 | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------- |
 | 0601 [历史学](https://zh.wikipedia.org/wiki/历史学 "wikilink") | 060101                                                                                                             | [史学理论及史学史](../Page/史学史.md "wikilink") |
-| 060102                                                   | [考古学及](../Page/考古学.md "wikilink")[博物馆学](../Page/博物馆学.md "wikilink")                                                |                                       |
+| 060102                                                   | [考古学](../Page/考古学.md "wikilink")及[博物馆学](../Page/博物馆学.md "wikilink")                                                |                                       |
 | 060103                                                   | [历史地理学](https://zh.wikipedia.org/wiki/历史地理学 "wikilink")                                                            |                                       |
 | 060104                                                   | 历史文献学（含∶[敦煌学](https://zh.wikipedia.org/wiki/敦煌学 "wikilink")、[古文字学](https://zh.wikipedia.org/wiki/古文字学 "wikilink")） |                                       |
 | 060105                                                   | 专门史                                                                                                                |                                       |
@@ -300,7 +300,7 @@
 </tr>
 <tr class="even">
 <td><p>070305</p></td>
-<td><p><a href="../Page/高分子化学.md" title="wikilink">高分子化学与</a><a href="https://zh.wikipedia.org/wiki/高分子物理" title="wikilink">物理</a></p></td>
+<td><p><a href="../Page/高分子化学.md" title="wikilink">高分子化学</a>与<a href="https://zh.wikipedia.org/wiki/高分子物理" title="wikilink">物理</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -325,7 +325,7 @@
 </tr>
 <tr class="odd">
 <td><p>070503</p></td>
-<td><p><a href="../Page/地图学.md" title="wikilink">地图学与</a><a href="../Page/地理信息系统.md" title="wikilink">地理信息系统</a></p></td>
+<td><p><a href="../Page/地图学.md" title="wikilink">地图学</a>与<a href="../Page/地理信息系统.md" title="wikilink">地理信息系统</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -335,7 +335,7 @@
 </tr>
 <tr class="odd">
 <td><p>070602</p></td>
-<td><p><a href="../Page/大气物理学.md" title="wikilink">大气物理学与大气环境</a></p></td>
+<td><p><a href="../Page/大气物理学.md" title="wikilink">大气物理学</a>与大气环境</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -380,7 +380,7 @@
 </tr>
 <tr class="even">
 <td><p>070903</p></td>
-<td><p><a href="../Page/古生物学.md" title="wikilink">古生物学与</a><a href="https://zh.wikipedia.org/wiki/地层学" title="wikilink">地层学</a>（含：<a href="https://zh.wikipedia.org/wiki/古人类学" title="wikilink">古人类学</a>）</p></td>
+<td><p><a href="../Page/古生物学.md" title="wikilink">古生物学</a>与<a href="https://zh.wikipedia.org/wiki/地层学" title="wikilink">地层学</a>（含：<a href="https://zh.wikipedia.org/wiki/古人类学" title="wikilink">古人类学</a>）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -440,7 +440,7 @@
 </tr>
 <tr class="even">
 <td><p>071010</p></td>
-<td><p><a href="../Page/生物化学.md" title="wikilink">生物化学与</a><a href="../Page/分子生物学.md" title="wikilink">分子生物学</a></p></td>
+<td><p><a href="../Page/生物化学.md" title="wikilink">生物化学</a>与<a href="../Page/分子生物学.md" title="wikilink">分子生物学</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -460,7 +460,7 @@
 </tr>
 <tr class="even">
 <td><p>071102</p></td>
-<td><p><a href="../Page/系统分析.md" title="wikilink">系统分析与</a><a href="https://zh.wikipedia.org/wiki/系统整合" title="wikilink">集成</a></p></td>
+<td><p><a href="../Page/系统分析.md" title="wikilink">系统分析</a>与<a href="https://zh.wikipedia.org/wiki/系统整合" title="wikilink">集成</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -532,7 +532,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>0805 <a href="../Page/材料科学.md" title="wikilink">材料科学与工程</a></p></td>
+<td><p>0805 <a href="../Page/材料科学.md" title="wikilink">材料科学</a>与工程</p></td>
 <td><p>080501</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/材料物理学" title="wikilink">材料物理与</a><a href="../Page/固体化学.md" title="wikilink">化学</a></p></td>
 </tr>
@@ -558,7 +558,7 @@
 </tr>
 <tr class="odd">
 <td><p>080603</p></td>
-<td><p><a href="../Page/有色金属.md" title="wikilink">有色金属冶金</a></p></td>
+<td><p><a href="../Page/有色金属.md" title="wikilink">有色金属</a>冶金</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -663,7 +663,7 @@
 </tr>
 <tr class="even">
 <td><p>081104</p></td>
-<td><p><a href="../Page/模式识别.md" title="wikilink">模式识别与智能系统</a></p></td>
+<td><p><a href="../Page/模式识别.md" title="wikilink">模式识别</a>与智能系统</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -672,7 +672,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>0812 <a href="../Page/计算机科学.md" title="wikilink">计算机科学与技术</a></p></td>
+<td><p>0812 <a href="../Page/计算机科学.md" title="wikilink">计算机科学</a>与技术</p></td>
 <td><p>081201</p></td>
 <td><p>计算机系统结构</p></td>
 </tr>
@@ -698,7 +698,7 @@
 </tr>
 <tr class="odd">
 <td><p>081303</p></td>
-<td><p><a href="../Page/城市规划.md" title="wikilink">城市规划与</a><a href="../Page/城市设计.md" title="wikilink">设计</a>(含∶<a href="../Page/园林设计.md" title="wikilink">风景园林规划与设计</a>)</p></td>
+<td><p><a href="../Page/城市规划.md" title="wikilink">城市规划</a>与<a href="../Page/城市设计.md" title="wikilink">设计</a>(含∶<a href="../Page/园林设计.md" title="wikilink">风景园林规划与设计</a>)</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -739,7 +739,7 @@
 <tr class="odd">
 <td><p>0815 <a href="../Page/水利工程.md" title="wikilink">水利工程</a></p></td>
 <td><p>081501</p></td>
-<td><p><a href="../Page/水文学.md" title="wikilink">水文学及水资源</a></p></td>
+<td><p><a href="../Page/水文学.md" title="wikilink">水文学</a>及水资源</p></td>
 </tr>
 <tr class="even">
 <td><p>081502</p></td>
@@ -764,7 +764,7 @@
 <tr class="even">
 <td><p>0816 <a href="../Page/测绘学.md" title="wikilink">测绘科学与技术</a></p></td>
 <td><p>081601</p></td>
-<td><p><a href="../Page/大地测量学.md" title="wikilink">大地测量学与测量工程</a></p></td>
+<td><p><a href="../Page/大地测量学.md" title="wikilink">大地测量学</a>与测量工程</p></td>
 </tr>
 <tr class="odd">
 <td><p>081602</p></td>
@@ -1203,7 +1203,7 @@
 | 1001 [基础医学](https://zh.wikipedia.org/wiki/基础医学 "wikilink")                                    | 100101                                                                                                           | [人体解剖和](../Page/解剖学.md "wikilink")[组织胚胎学](../Page/胚胎学.md "wikilink")   |
 | 100102                                                                                        | [免疫学](../Page/免疫学.md "wikilink")                                                                                 |                                                                        |
 | 100103                                                                                        | [病原生物学](https://zh.wikipedia.org/wiki/医学微生物学 "wikilink")                                                         |                                                                        |
-| 100104                                                                                        | [病理学与](../Page/病理学.md "wikilink")[病理生理学](https://zh.wikipedia.org/wiki/病理生理学 "wikilink")                         |                                                                        |
+| 100104                                                                                        | [病理学](../Page/病理学.md "wikilink")与[病理生理学](https://zh.wikipedia.org/wiki/病理生理学 "wikilink")                         |                                                                        |
 | 100105                                                                                        | [法医学](https://zh.wikipedia.org/wiki/法医学 "wikilink")                                                              |                                                                        |
 | 100106                                                                                        | [放射医学](https://zh.wikipedia.org/wiki/影像诊断学 "wikilink")                                                           |                                                                        |
 | 100107                                                                                        | [航空、航天与](https://zh.wikipedia.org/wiki/航空医学 "wikilink")[航海医学](https://zh.wikipedia.org/wiki/航海医学 "wikilink")     |                                                                        |
@@ -1214,7 +1214,7 @@
 | 100205                                                                                        | [精神病与精神卫生学](../Page/精神病学.md "wikilink")                                                                          |                                                                        |
 | 100206                                                                                        | [皮肤病与](https://zh.wikipedia.org/wiki/皮肤病学 "wikilink")[性病学](https://zh.wikipedia.org/wiki/性感染疾病 "wikilink")       |                                                                        |
 | 100207                                                                                        | [影像医学与](../Page/醫學影像.md "wikilink")[核医学](../Page/核医学.md "wikilink")                                              |                                                                        |
-| 100208                                                                                        | 临床[检验](https://zh.wikipedia.org/wiki/检验医学 "wikilink")[诊断学](../Page/诊断.md "wikilink")                             |                                                                        |
+| 100208                                                                                        | 临床[检验](https://zh.wikipedia.org/wiki/检验医学 "wikilink")[诊断](../Page/诊断.md "wikilink")学                             |                                                                        |
 | 100209                                                                                        | [护理学](../Page/护理学.md "wikilink")                                                                                 |                                                                        |
 | 100210                                                                                        | [外科学](../Page/外科学.md "wikilink")                                                                                 |                                                                        |
 | 100211                                                                                        | [妇产科学](https://zh.wikipedia.org/wiki/妇产科学 "wikilink")                                                            |                                                                        |
@@ -1227,7 +1227,7 @@
 | 100218                                                                                        | [急诊医学](https://zh.wikipedia.org/wiki/急诊医学 "wikilink")                                                            |                                                                        |
 | 1003 [口腔医学](../Page/牙醫學.md "wikilink")                                                        | 100301                                                                                                           | 口腔基础医学                                                                 |
 | 100302                                                                                        | 口腔临床医学                                                                                                           |                                                                        |
-| 1004 [公共卫生与](../Page/公共卫生.md "wikilink")[预防医学](https://zh.wikipedia.org/wiki/预防医学 "wikilink") | 100401                                                                                                           | [流行病与](../Page/流行病学.md "wikilink")[卫生统计学](../Page/医学信息学.md "wikilink") |
+| 1004 [公共卫生](../Page/公共卫生.md "wikilink")与[预防医学](https://zh.wikipedia.org/wiki/预防医学 "wikilink") | 100401                                                                                                           | [流行病与](../Page/流行病学.md "wikilink")[卫生统计学](../Page/医学信息学.md "wikilink") |
 | 100402                                                                                        | 劳动卫生与学                                                                                                           |                                                                        |
 | 100403                                                                                        | [营养与](../Page/营养学.md "wikilink")[食品卫生学](https://zh.wikipedia.org/wiki/食品卫生 "wikilink")                           |                                                                        |
 | 100404                                                                                        | 儿少卫生与妇幼保健学                                                                                                       |                                                                        |
@@ -1252,7 +1252,7 @@
 | 100702                                                                                        | [药剂学](../Page/药剂学.md "wikilink")                                                                                 |                                                                        |
 | 100703                                                                                        | [生药学](../Page/生药学.md "wikilink")                                                                                 |                                                                        |
 | 100704                                                                                        | [药物分析学](https://zh.wikipedia.org/wiki/药物分析 "wikilink")                                                           |                                                                        |
-| 100705                                                                                        | [微生物药学与](../Page/微生物.md "wikilink")[生化药学](https://zh.wikipedia.org/wiki/生化药学 "wikilink")                         |                                                                        |
+| 100705                                                                                        | [微生物](../Page/微生物.md "wikilink")药学与[生化药学](https://zh.wikipedia.org/wiki/生化药学 "wikilink")                         |                                                                        |
 | 100706                                                                                        | [药理学](../Page/药理学.md "wikilink")                                                                                 |                                                                        |
 | 1008 [中药学](../Page/中药学.md "wikilink")                                                         | 100800                                                                                                           | ★                                                                      |
 |                                                                                               |                                                                                                                  |                                                                        |

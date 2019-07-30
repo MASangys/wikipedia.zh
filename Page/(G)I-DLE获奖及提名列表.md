@@ -1,4 +1,4 @@
-**(G)I-DLE获奖及提名列表**主要列举韩国女子音乐组合[(G)I-DLE出道至今于颁奖典礼](../Page/\(G\)I-DLE.md "wikilink")、音乐节目的获奖与提名，关于成员个人的获奖与荣誉详见各自条目。
+**(G)I-DLE获奖及提名列表**主要列举韩国女子音乐组合[(G)I-DLE](../Page/\(G\)I-DLE.md "wikilink")出道至今于颁奖典礼、音乐节目的获奖与提名，关于成员个人的获奖与荣誉详见各自条目。
 
 ## 韩国音乐颁奖典礼
 
@@ -493,144 +493,64 @@
 | 2018年       | 5月22日\[32\] | LATATA |
 | 5月29日\[33\] |             |        |
 | 9月4日\[34\]  | HANN        |        |
-| 2019年       | 7月2日        | Uh-Oh  |
+| 2019年       | 7月2日\[35\]  | Uh-Oh  |
 
 ### [Show Champion](../Page/Show_Champion.md "wikilink")
 
 | 年份    | 日期          | 歌曲名称     |
 | ----- | ----------- | -------- |
-| 2018年 | 8月29日\[35\] | HANN     |
-| 2019年 | 3月6日\[36\]  | Senorita |
+| 2018年 | 8月29日\[36\] | HANN     |
+| 2019年 | 3月6日\[37\]  | Senorita |
 
 ### [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")
 
 | 年份         | 日期          | 歌曲名称   |
 | ---------- | ----------- | ------ |
-| 2018年      | 5月24日\[37\] | LATATA |
-| 9月6日\[38\] | HANN        |        |
+| 2018年      | 5月24日\[38\] | LATATA |
+| 9月6日\[39\] | HANN        |        |
 
 ## 参考资料
 
 {{(G)I-DLE}}
 
-[Category:Cube娛樂](https://zh.wikipedia.org/wiki/Category:Cube娛樂 "wikilink")
-[Category:(G)I-DLE](https://zh.wikipedia.org/wiki/Category:\(G\)I-DLE "wikilink")
-[Category:韩语流行音乐家获奖列表](https://zh.wikipedia.org/wiki/Category:韩语流行音乐家获奖列表 "wikilink")
+[Category:Cube娛樂](https://zh.wikipedia.org/wiki/Category:Cube娛樂 "wikilink") [Category:(G)I-DLE](https://zh.wikipedia.org/wiki/Category:\(G\)I-DLE "wikilink") [Category:韩语流行音乐家获奖列表](https://zh.wikipedia.org/wiki/Category:韩语流行音乐家获奖列表 "wikilink")
 
-1.  [181106 Best New Female Artist: (G)I-DLE ((여자)아이들) @ 2018
-    MGA](https://www.youtube.com/watch?v=U-q-fAF1bZk). Skpb K-Music
-    Live. November 6, 2018.
-2.  [2018 MBC Plus X Genie Music Awards Announces Nominees + Voting
-    Begins](https://www.soompi.com/article/1238753wpp/2018-mbc-plus-x-genie-music-awards-announces-nominees-voting-begins).
-    soompi. October 1, 2018.
-3.  [181128 AAA ​Rookie of The Year: (G)I-DLE ((여자)아이들) CUT @ 2018 ASIA
-    ARTIST AWARDS](https://www.youtube.com/watch?v=nK8105vjI7U). Skpb
-    K-Music Live. November 28, 2018.
-4.  [2018 Asia Artist Awards - Popularity
-    Award第46名](https://www.asiaartistawards.com/vote/primaryVote.html).
-    Asia Artist Awards. October 31, 2018.
-5.  [181201 MMA Best New Artist (Female): (G)I-DLE ((여자)아이들) @ 2018
-    MelOn Music Award](https://www.youtube.com/watch?v=QDx_fQqgXjo).
-    Skpb K-Music Live. December 1, 2018.
-6.  ['2018 MAMA' under fire for giving 'Best New Female Artist' award to
-    IZ\*ONE over
-    (G)I-DLE](https://www.allkpop.com/article/2018/12/2018-mama-under-fire-for-giving-best-new-female-artist-award-to-izone-over-gi-dle).
-    allkpop. December 10, 2018.
-7.  [(여자)아이들 ‘베스트오브넥스트’ 수상 “곡 쓰느라 고생하는 소연
-    고마워”](http://www.newsen.com/news_view.php?uid=201812101642200710).
-    Newsen. December 10, 2018.
-8.  [2018 MAMA Announces Nominees + Voting
-    Begins](https://www.soompi.com/article/1255845wpp/2018-mama-announces-nominees-voting-begins).
-    soompi. November 1, 2018.
-9.  [(여자)아이들·더보이즈, 신인상 수상…올해 달군
-    파워신인](http://www.xportsnews.com/?ac=article_view&entry_id=1056333).
-    xportsnews. December 20, 2018.
-10. [(여자)아이들 신인상·송민호 베스트 힙합상 수상 \[33회
-    골든디스크](http://www.osen.co.kr/article/G1111060178)\]. OSEN.
-    January 5, 2019.
-11. [33rd Golden Disc Awards Announces
-    Nominees](https://www.soompi.com/article/1274787wpp/33rd-golden-disc-awards-announces-nominees).
-    soompi. December 7, 2018.
-12. [33rd Golden Disc Awards Opens Voting For Popularity
-    Award](https://www.soompi.com/article/1274861wpp/33rd-golden-disc-awards-opens-voting-popularity-award).
-    soompi. December 7, 2018.
-13. [网易云音乐 X 第33届韩国金唱片大赏 票选你最喜欢的K-POP
-    Star！](https://music.163.com/m/at/GoldenDiscAwards). 网易云音乐.
-    January 1, 2019.
-14. [28th Seoul Music Awards Announces Ceremony Details + Nominees For
-    Fan-Voted
-    Categories](https://www.soompi.com/article/1270297wpp/28th-seoul-music-awards-announces-ceremony-details-nominees-fan-voted-categories).
-    soompi. November 28, 2018.
-15. [‘2019 가온차트’ (여자)아이들-김하온, 음원부문 신인상
-    수상](http://news.newsway.co.kr/news/view?tp=1&ud=2019012319320586414).
-    newsway. January 23, 2019.
-16. [8th Gaon Chart Music Awards Reveals Award Categories And
-    Nominees](https://www.soompi.com/article/1283255wpp/8th-gaon-chart-music-awards-reveals-award-categories-nominees).
-    soompi. December 26, 2018.
-17. [‘더팩트 뮤직 어워즈’ 더보이즈-(여자)아이들-스트레이 키즈, 넥스트 리더상
-    수상](http://www.stardailynews.co.kr/news/articleView.html?idxno=240348).
-    Star Daily News. April 24, 2019.
-18. [Momoland, (G)I-DLE, and The Boyz awarded at the '2018 Brand of the
-    Year
-    Awards'\!](https://www.allkpop.com/article/2018/07/momoland-gi-dle-and-the-boyz-awarded-at-the-2018-brand-of-the-year-awards).
-    allkpop. July 24, 2018.
-19. [2018 MTV EMAs Announces
-    Nominees](https://www.soompi.com/article/1240787wpp/2018-mtv-emas-announces-nominees).
-    soopmi. October 5, 2018.
-20. [K/DA - POP/STARS Winner in
-    GAMES（Vocalists:(G)I-DLE）](https://shortyawards.com/11th/kda-popstars).
-    Shorty Awards. May 5, 2019.
-21. [Congratulations to @G_I_DLE for their win for Best In Games for
-    their work on
-    K/DA（奖杯：⋯⋯、(G)I-DLE）、⋯⋯）](https://twitter.com/Jeff__Benjamin/status/1125278002089222145).
-    twitter Jeff Benjamin. May 5, 2019.
-22. [여자아이들 '신인상 수상 영광이에요\~'(2019
-    아시아모델어워즈)](http://bntnews.hankyung.com/apps/news?popup=0&nid=04&c1=04&c2=04&c3=00&nkey=201906091955493&mode=sub_view).
-    bnt NEWS. June 9, 2019.
-23. [《2019偶像运动会》各项目金银铜牌总整理](http://www.sohu.com/a/293610795_825604).
-    搜狐娱乐. February 7, 2019.
-24. [\#2018서울의얼굴을찾습니다 시민의
-    PICK은?\!](https://twitter.com/seoulmania/status/1065929135241887744).
-    twitter 서울시. November 23, 2018.
-25. [(여자)아이들이 2019년 서울홍보대사로 선정된 소식
-    들으셨나요?](https://twitter.com/G_I_DLE/status/1095686301041324034).
-    twitter G_I_DLE. February 13, 2019.
-26. [대한당뇨병연합](https://www.facebook.com/permalink.php?story_fbid=2344494559119917&id=2278572002378840).
-    facebook 대한당뇨병연합. May 1, 2019.
-27. [11 AWARDS('Works Hard' Awards) 1 \[THE
-    SHOW 181204](https://www.youtube.com/watch?v=9ZvuKuyxkRU)\]. YouTube
-    The K-POP : SBS PLUS. December 4, 2018.
-28. [YouTube reveals Korea's 'Top 10 Rising Stars'
-    of 2018](https://www.allkpop.com/article/2018/12/youtube-reveals-korea-s-top-10-rising-stars-of-2018).
-    allkpop. December 22, 2018.
-29. [(여자)아이들 오피셜 유튜브 채널이 3위로 '2018 유튜브 리와인드' 라이징 스타 TOP10에
-    선정되었습니다\!](https://www.instagram.com/p/Brog-EDlBjF/).
-    ins official_g_i_dle. December 21, 2018.
-30. [10 Best New K-Pop Acts
-    of 2018](https://www.billboard.com/articles/columns/k-town/8491744/best-new-k-pop-acts-2018).
-    Billboard. December 29, 2018.
-31. [20190302 @ 2019 GLOBAL VLIVE ROOKIE
-    TOP 5](https://twitter.com/G_I_DLE/status/1101851635158929408).
-    twitter G_I_DLE. March 2, 2019.
-32. [(G)I-DLE, LATATA, THE SHOW CHOICE THE
-    SHOW 180522](https://www.youtube.com/watch?v=5c_fkBigU8o). The K-POP
-    : SBS PLUS. June 4, 2018.
-33. [(G)I-DLE, THE SHOW CHOICE THE
-    SHOW 180529](https://www.youtube.com/watch?v=tMToRgZ_b0s). The K-POP
-    : SBS PLUS. June 4, 2018.
-34. [(G)I-DLE, win\! THE SHOW CHOICE THE
-    SHOW 180904](https://www.youtube.com/watch?v=peohoUqGk6E). The K-POP
-    : SBS PLUS. September 4, 2018.
-35. [Showchampion behind EP.106 (G)I-DLE is the number one singer Encore
-    Song](https://www.youtube.com/watch?v=ZBteR4VaRqw). ALL THE K-POP.
-    September 5, 2018.
-36. [(여자)아이들 (G)I-DLE) 'Senorita'
-    No.1](https://www.youtube.com/watch?v=p-kJTnVbb5E). K-World Videos.
-    March 6, 2019.
-37. [Top in 4th of May, '(G)I-DLE' with 'LATATA', Encore Stage\! (in
-    Full) M COUNTDOWN 180](https://www.youtube.com/watch?v=oCJ5vOSwPzI).
-    Mnet K-POP. May 28, 2018.
-38. [Top in 1st of September, '(G)I-DLE' with 'HANN', Encore Stage\! (in
-    Full) M COUNTDOWN 180906
-    EP.586](https://www.youtube.com/watch?v=xlk1XCIRvNk). Mnet K-POP.
-    September 6, 2018.
+1.  [181106 Best New Female Artist: (G)I-DLE ((여자)아이들) @ 2018 MGA](https://www.youtube.com/watch?v=U-q-fAF1bZk). Skpb K-Music Live. November 6, 2018.
+2.  [2018 MBC Plus X Genie Music Awards Announces Nominees + Voting Begins](https://www.soompi.com/article/1238753wpp/2018-mbc-plus-x-genie-music-awards-announces-nominees-voting-begins). soompi. October 1, 2018.
+3.  [181128 AAA ​Rookie of The Year: (G)I-DLE ((여자)아이들) CUT @ 2018 ASIA ARTIST AWARDS](https://www.youtube.com/watch?v=nK8105vjI7U). Skpb K-Music Live. November 28, 2018.
+4.  [2018 Asia Artist Awards - Popularity Award第46名](https://www.asiaartistawards.com/vote/primaryVote.html). Asia Artist Awards. October 31, 2018.
+5.  [181201 MMA Best New Artist (Female): (G)I-DLE ((여자)아이들) @ 2018 MelOn Music Award](https://www.youtube.com/watch?v=QDx_fQqgXjo). Skpb K-Music Live. December 1, 2018.
+6.  ['2018 MAMA' under fire for giving 'Best New Female Artist' award to IZ\*ONE over (G)I-DLE](https://www.allkpop.com/article/2018/12/2018-mama-under-fire-for-giving-best-new-female-artist-award-to-izone-over-gi-dle). allkpop. December 10, 2018.
+7.  [(여자)아이들 ‘베스트오브넥스트’ 수상 “곡 쓰느라 고생하는 소연 고마워”](http://www.newsen.com/news_view.php?uid=201812101642200710). Newsen. December 10, 2018.
+8.  [2018 MAMA Announces Nominees + Voting Begins](https://www.soompi.com/article/1255845wpp/2018-mama-announces-nominees-voting-begins). soompi. November 1, 2018.
+9.  [(여자)아이들·더보이즈, 신인상 수상…올해 달군 파워신인](http://www.xportsnews.com/?ac=article_view&entry_id=1056333). xportsnews. December 20, 2018.
+10. [(여자)아이들 신인상·송민호 베스트 힙합상 수상 \[33회 골든디스크](http://www.osen.co.kr/article/G1111060178)\]. OSEN. January 5, 2019.
+11. [33rd Golden Disc Awards Announces Nominees](https://www.soompi.com/article/1274787wpp/33rd-golden-disc-awards-announces-nominees). soompi. December 7, 2018.
+12. [33rd Golden Disc Awards Opens Voting For Popularity Award](https://www.soompi.com/article/1274861wpp/33rd-golden-disc-awards-opens-voting-popularity-award). soompi. December 7, 2018.
+13. [网易云音乐 X 第33届韩国金唱片大赏 票选你最喜欢的K-POP Star！](https://music.163.com/m/at/GoldenDiscAwards). 网易云音乐. January 1, 2019.
+14. [28th Seoul Music Awards Announces Ceremony Details + Nominees For Fan-Voted Categories](https://www.soompi.com/article/1270297wpp/28th-seoul-music-awards-announces-ceremony-details-nominees-fan-voted-categories). soompi. November 28, 2018.
+15. [‘2019 가온차트’ (여자)아이들-김하온, 음원부문 신인상 수상](http://news.newsway.co.kr/news/view?tp=1&ud=2019012319320586414). newsway. January 23, 2019.
+16. [8th Gaon Chart Music Awards Reveals Award Categories And Nominees](https://www.soompi.com/article/1283255wpp/8th-gaon-chart-music-awards-reveals-award-categories-nominees). soompi. December 26, 2018.
+17. [‘더팩트 뮤직 어워즈’ 더보이즈-(여자)아이들-스트레이 키즈, 넥스트 리더상 수상](http://www.stardailynews.co.kr/news/articleView.html?idxno=240348). Star Daily News. April 24, 2019.
+18. [Momoland, (G)I-DLE, and The Boyz awarded at the '2018 Brand of the Year Awards'\!](https://www.allkpop.com/article/2018/07/momoland-gi-dle-and-the-boyz-awarded-at-the-2018-brand-of-the-year-awards). allkpop. July 24, 2018.
+19. [2018 MTV EMAs Announces Nominees](https://www.soompi.com/article/1240787wpp/2018-mtv-emas-announces-nominees). soopmi. October 5, 2018.
+20. [K/DA - POP/STARS Winner in GAMES（Vocalists:(G)I-DLE）](https://shortyawards.com/11th/kda-popstars). Shorty Awards. May 5, 2019.
+21. [Congratulations to @G_I_DLE for their win for Best In Games for their work on K/DA（奖杯：⋯⋯、(G)I-DLE）、⋯⋯）](https://twitter.com/Jeff__Benjamin/status/1125278002089222145). twitter Jeff Benjamin. May 5, 2019.
+22. [여자아이들 '신인상 수상 영광이에요\~'(2019 아시아모델어워즈)](http://bntnews.hankyung.com/apps/news?popup=0&nid=04&c1=04&c2=04&c3=00&nkey=201906091955493&mode=sub_view). bnt NEWS. June 9, 2019.
+23. [《2019偶像运动会》各项目金银铜牌总整理](http://www.sohu.com/a/293610795_825604). 搜狐娱乐. February 7, 2019.
+24. [\#2018서울의얼굴을찾습니다 시민의 PICK은?\!](https://twitter.com/seoulmania/status/1065929135241887744). twitter 서울시. November 23, 2018.
+25. [(여자)아이들이 2019년 서울홍보대사로 선정된 소식 들으셨나요?](https://twitter.com/G_I_DLE/status/1095686301041324034). twitter G_I_DLE. February 13, 2019.
+26. [대한당뇨병연합](https://www.facebook.com/permalink.php?story_fbid=2344494559119917&id=2278572002378840). facebook 대한당뇨병연합. May 1, 2019.
+27. [11 AWARDS('Works Hard' Awards) 1 \[THE SHOW 181204](https://www.youtube.com/watch?v=9ZvuKuyxkRU)\]. YouTube The K-POP : SBS PLUS. December 4, 2018.
+28. [YouTube reveals Korea's 'Top 10 Rising Stars' of 2018](https://www.allkpop.com/article/2018/12/youtube-reveals-korea-s-top-10-rising-stars-of-2018). allkpop. December 22, 2018.
+29. [(여자)아이들 오피셜 유튜브 채널이 3위로 '2018 유튜브 리와인드' 라이징 스타 TOP10에 선정되었습니다\!](https://www.instagram.com/p/Brog-EDlBjF/). ins official_g_i_dle. December 21, 2018.
+30. [10 Best New K-Pop Acts of 2018](https://www.billboard.com/articles/columns/k-town/8491744/best-new-k-pop-acts-2018). Billboard. December 29, 2018.
+31. [20190302 @ 2019 GLOBAL VLIVE ROOKIE TOP 5](https://twitter.com/G_I_DLE/status/1101851635158929408). twitter G_I_DLE. March 2, 2019.
+32. [(G)I-DLE, LATATA, THE SHOW CHOICE THE SHOW 180522](https://www.youtube.com/watch?v=5c_fkBigU8o). The K-POP : SBS PLUS. June 4, 2018.
+33. [(G)I-DLE, THE SHOW CHOICE THE SHOW 180529](https://www.youtube.com/watch?v=tMToRgZ_b0s). The K-POP : SBS PLUS. June 4, 2018.
+34. [(G)I-DLE, win\! THE SHOW CHOICE THE SHOW 180904](https://www.youtube.com/watch?v=peohoUqGk6E). The K-POP : SBS PLUS. September 4, 2018.
+35. [(G)I-DLE, THE SHOW CHOICE\! THE SHOW 190702](https://www.youtube.com/watch?v=Yu-YqJVQrPI). The K-POP. July 2, 2019.
+36. [Showchampion behind EP.106 (G)I-DLE is the number one singer Encore Song](https://www.youtube.com/watch?v=ZBteR4VaRqw). ALL THE K-POP. September 5, 2018.
+37. [(여자)아이들 (G)I-DLE) 'Senorita' No.1](https://www.youtube.com/watch?v=p-kJTnVbb5E). K-World Videos. March 6, 2019.
+38. [Top in 4th of May, '(G)I-DLE' with 'LATATA', Encore Stage\! (in Full) M COUNTDOWN 180](https://www.youtube.com/watch?v=oCJ5vOSwPzI). Mnet K-POP. May 28, 2018.
+39. [Top in 1st of September, '(G)I-DLE' with 'HANN', Encore Stage\! (in Full) M COUNTDOWN 180906 EP.586](https://www.youtube.com/watch?v=xlk1XCIRvNk). Mnet K-POP. September 6, 2018.

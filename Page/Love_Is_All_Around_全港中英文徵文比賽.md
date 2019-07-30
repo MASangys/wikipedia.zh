@@ -1,5 +1,4 @@
-**Love Is All Around全港中英文徵文比賽**全称;**愛、傳、城 Love Is All
-Around全港中英文徵文比賽**，由[香港新聞工作者聯會主辦](../Page/香港新聞工作者聯會.md "wikilink"),啟悟慈善基金贊助。\[1\]\[2\]\[3\]\[4\]\[5\]
+**Love Is All Around全港中英文徵文比賽**全称;**愛、傳、城 Love Is All Around全港中英文徵文比賽**，由[香港新聞工作者聯會](../Page/香港新聞工作者聯會.md "wikilink")主辦,啟悟慈善基金贊助。\[1\]\[2\]\[3\]\[4\]\[5\]
 
 ## 籌組委員會
 
@@ -180,11 +179,8 @@ Colin Touchin(指揮家、教育家)
 ## 参考资料
 
 1.  [新聞聯「愛傳城」徵文賽頒獎](http://paper.wenweipo.com/2018/06/25/AY1806250004.htm)，文匯報
-2.  [第一屆全港中英文徵文比賽
-    以“孝”為主題](http://hk.crntt.com/doc/1051/1/2/8/105112841.html?coluid=2&kindid=0&docid=105112841&mdate=0625170232)，中國評論新聞網
-3.  [徵文比賽參賽者參與活動
-    弘揚愛心傳承](https://3g.163.com/local/article/DLSNTG33043397SU.html)，網易
+2.  [第一屆全港中英文徵文比賽 以“孝”為主題](http://hk.crntt.com/doc/1051/1/2/8/105112841.html?coluid=2&kindid=0&docid=105112841&mdate=0625170232)，中國評論新聞網
+3.  [徵文比賽參賽者參與活動 弘揚愛心傳承](https://3g.163.com/local/article/DLSNTG33043397SU.html)，網易
 4.  [“愛、傳、城”全港中英文徵文比賽頒獎典禮隆重舉行](http://new.jdonline.com.hk/index.php?m=content&c=index&a=show&catid=23&id=39812)，經濟導報
-5.  [為母拔銀絲悟孝道
-    小四生徵文賽奪冠](http://std.stheadline.com/daily/article/detail/1824623-%E6%B8%AF%E8%81%9E-%E7%82%BA%E6%AF%8D%E6%8B%94%E9%8A%80%E7%B5%B2%E6%82%9F%E5%AD%9D%E9%81%93+%E5%B0%8F%E5%9B%9B%E7%94%9F%E5%BE%B5%E6%96%87%E8%B3%BD%E5%A5%AA%E5%86%A0)，星島日報
+5.  [為母拔銀絲悟孝道 小四生徵文賽奪冠](http://std.stheadline.com/daily/article/detail/1824623-%E6%B8%AF%E8%81%9E-%E7%82%BA%E6%AF%8D%E6%8B%94%E9%8A%80%E7%B5%B2%E6%82%9F%E5%AD%9D%E9%81%93+%E5%B0%8F%E5%9B%9B%E7%94%9F%E5%BE%B5%E6%96%87%E8%B3%BD%E5%A5%AA%E5%86%A0)，星島日報
 6.  [小學生寫“孝”反思親情勝物質](http://news.takungpao.com/paper/q/2018/0624/3579561_wap.html)，大公網

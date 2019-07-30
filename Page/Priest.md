@@ -1,11 +1,4 @@
-《**Priest**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")
-[OCN](https://zh.wikipedia.org/wiki/OCN "wikilink") 於 2018 年 11 月 24
-日起播出的[經典系列週末電視劇](../Page/OCN_Original_Series.md "wikilink")。由電影《[國家代表
-2](../Page/國家代表2.md "wikilink")》的金鍾鉉導演\[1\]與文萬世作家攜手合作打造的[醫療](https://zh.wikipedia.org/wiki/醫療 "wikilink")[驅魔劇](../Page/驅魔.md "wikilink")。本劇描寫
-2018
-年發生在韓國南部[天主教](../Page/天主教.md "wikilink")[醫院的超現實現象](../Page/醫院.md "wikilink")\[2\]。台灣由[KKTV](../Page/KKTV.md "wikilink")、[愛奇藝台灣站](https://zh.wikipedia.org/wiki/愛奇藝台灣站 "wikilink")
-自 11 月 25 日起，每週日、一播出。劇中修女驅魔時使用了一首拉丁文聖歌 (Victimae paschali laudes
-)及韓文聖歌(Christus Vincit, 그리스도 승리)。
+《**Priest**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink") [OCN](https://zh.wikipedia.org/wiki/OCN "wikilink") 於 2018 年 11 月 24 日起播出的[經典系列週末電視劇](../Page/OCN_Original_Series.md "wikilink")。由電影《[國家代表 2](../Page/國家代表2.md "wikilink")》的金鍾鉉導演\[1\]與文萬世作家攜手合作打造的[醫療](https://zh.wikipedia.org/wiki/醫療 "wikilink")[驅魔](../Page/驅魔.md "wikilink")劇。本劇描寫 2018 年發生在韓國南部[天主教](../Page/天主教.md "wikilink")[醫院](../Page/醫院.md "wikilink")的超現實現象\[2\]。台灣由[KKTV](../Page/KKTV.md "wikilink")、[愛奇藝台灣站](https://zh.wikipedia.org/wiki/愛奇藝台灣站 "wikilink") 自 11 月 25 日起，每週日、一播出。劇中修女驅魔時使用了一首拉丁文聖歌 (Victimae paschali laudes )及韓文聖歌(Christus Vincit, 그리스도 승리)。
 
 ## 演員陣容
 
@@ -27,7 +20,7 @@
 <td><p><a href="../Page/延宇振.md" title="wikilink">延宇振</a></p></td>
 <td><p>吳秀旻<br />
 聖名：彌額爾</p></td>
-<td><p>比起言語更在意行動，比起祈禱更重視實踐！個性豁達、懷抱強烈責任感，是不被承認的<a href="../Page/驅魔.md" title="wikilink">驅魔團體</a> 634 鳳凰會所屬的<a href="../Page/驅魔.md" title="wikilink">驅魔師</a>。孩提時光在教堂度過，信任並追隨如同父親般存在的文神父，長大後進入了神學院，接受文神父的指導成為一名<a href="../Page/驅魔.md" title="wikilink">驅魔司祭</a>。作為一名司祭，秀旻認為人生的答案就是天主，在任何邪惡的面前，充分展現他絕不退縮的魄力，得天獨厚的才能、彷彿是為了成為<a href="../Page/驅魔.md" title="wikilink">驅魔師才誕生</a>，雖然將<a href="../Page/驅魔.md" title="wikilink">驅魔視為自己的使命</a>，但在結識咸恩皓之後，才察覺自己的人生裡隱藏了很多的秘密。</p></td>
+<td><p>比起言語更在意行動，比起祈禱更重視實踐！個性豁達、懷抱強烈責任感，是不被承認的<a href="../Page/驅魔.md" title="wikilink">驅魔</a>團體 634 鳳凰會所屬的<a href="../Page/驅魔.md" title="wikilink">驅魔</a>師。孩提時光在教堂度過，信任並追隨如同父親般存在的文神父，長大後進入了神學院，接受文神父的指導成為一名<a href="../Page/驅魔.md" title="wikilink">驅魔</a>司祭。作為一名司祭，秀旻認為人生的答案就是天主，在任何邪惡的面前，充分展現他絕不退縮的魄力，得天獨厚的才能、彷彿是為了成為<a href="../Page/驅魔.md" title="wikilink">驅魔</a>師才誕生，雖然將<a href="../Page/驅魔.md" title="wikilink">驅魔</a>視為自己的使命，但在結識咸恩皓之後，才察覺自己的人生裡隱藏了很多的秘密。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/鄭柔美.md" title="wikilink">鄭柔美</a></p></td>
@@ -107,17 +100,17 @@
 <tr class="even">
 <td><p><a href="../Page/孫鐘鶴.md" title="wikilink">孫鐘鶴</a></p></td>
 <td><p>具道均</p></td>
-<td><p>窮極一生忙於搜查、屆退的熱血刑警，因為和家人有關的某個事件，開始接觸<a href="../Page/驅魔.md" title="wikilink">驅魔</a>，而後成為不被承認的<a href="../Page/驅魔.md" title="wikilink">驅魔團體</a> 634 鳳凰會成員。利用刑警職權之便，獲取附魔者的相關情報，負責警戒<a href="../Page/驅魔.md" title="wikilink">驅魔儀式現場</a>，是令該團體不被曝光的重要人物。</p></td>
+<td><p>窮極一生忙於搜查、屆退的熱血刑警，因為和家人有關的某個事件，開始接觸<a href="../Page/驅魔.md" title="wikilink">驅魔</a>，而後成為不被承認的<a href="../Page/驅魔.md" title="wikilink">驅魔</a>團體 634 鳳凰會成員。利用刑警職權之便，獲取附魔者的相關情報，負責警戒<a href="../Page/驅魔.md" title="wikilink">驅魔</a>儀式現場，是令該團體不被曝光的重要人物。</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>申美妍</p></td>
-<td><p>運營相當於 634 鳳凰會總部的畫廊的老闆。像是對待家人般照顧著 634 鳳凰會的成員們，扮演從海外進口<a href="../Page/驅魔.md" title="wikilink">驅魔所需要的裝備和聖物的角色</a>。過去曾得到文神父的幫助，因此得以展開全新的人生。在那之後，便對文神父懷抱超過神職人員、更深的感情。</p></td>
+<td><p>運營相當於 634 鳳凰會總部的畫廊的老闆。像是對待家人般照顧著 634 鳳凰會的成員們，扮演從海外進口<a href="../Page/驅魔.md" title="wikilink">驅魔</a>所需要的裝備和聖物的角色。過去曾得到文神父的幫助，因此得以展開全新的人生。在那之後，便對文神父懷抱超過神職人員、更深的感情。</p></td>
 </tr>
 <tr class="even">
 <td><p>劉　備</p></td>
 <td><p>鄭容弼</p></td>
-<td><p>具備天才般的駕駛實力、擁有緊急醫療救護資格的私人救護車司機。負責確認和維持附魔者在<a href="../Page/驅魔.md" title="wikilink">驅魔儀式前後的基本生命狀態</a>， 並在<a href="../Page/驅魔.md" title="wikilink">驅魔儀式結束後將附魔者送醫</a>，扮演 634 鳳凰會中 119 的角色。以覺得很帥為理由，而想成為<a href="../Page/驅魔.md" title="wikilink">驅魔司祭的不著邊際的老么</a>。</p></td>
+<td><p>具備天才般的駕駛實力、擁有緊急醫療救護資格的私人救護車司機。負責確認和維持附魔者在<a href="../Page/驅魔.md" title="wikilink">驅魔</a>儀式前後的基本生命狀態， 並在<a href="../Page/驅魔.md" title="wikilink">驅魔</a>儀式結束後將附魔者送醫，扮演 634 鳳凰會中 119 的角色。以覺得很帥為理由，而想成為<a href="../Page/驅魔.md" title="wikilink">驅魔</a>司祭的不著邊際的老么。</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -345,11 +338,7 @@
 
   - [OCN官方網站](http://program.tving.com/ocn/priest/)
 
-[Category:2018年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2018年韓國電視劇集 "wikilink")
-[Category:OCN_Original_Series](https://zh.wikipedia.org/wiki/Category:OCN_Original_Series "wikilink")
-[Category:OCN電視劇](https://zh.wikipedia.org/wiki/Category:OCN電視劇 "wikilink")
-[Category:醫院背景作品](https://zh.wikipedia.org/wiki/Category:醫院背景作品 "wikilink")
-[Category:驅魔題材作品](https://zh.wikipedia.org/wiki/Category:驅魔題材作品 "wikilink")
+[Category:2018年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2018年韓國電視劇集 "wikilink") [Category:OCN_Original_Series](https://zh.wikipedia.org/wiki/Category:OCN_Original_Series "wikilink") [Category:OCN電視劇](https://zh.wikipedia.org/wiki/Category:OCN電視劇 "wikilink") [Category:醫院背景作品](https://zh.wikipedia.org/wiki/Category:醫院背景作品 "wikilink") [Category:驅魔題材作品](https://zh.wikipedia.org/wiki/Category:驅魔題材作品 "wikilink")
 
 1.
 2.

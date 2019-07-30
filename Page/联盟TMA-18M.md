@@ -4,9 +4,23 @@
 
 ## 任务队员
 
-{{Spaceflight crew |terminology = 乘组人员 |references =\[3\] |position1 =
-指令长 |crew1_up
+### 后备队员
+
+## 轶闻
+
+[英国女歌手](https://zh.wikipedia.org/wiki/英国 "wikilink")[莎拉·布萊曼](../Page/莎拉·布萊曼.md "wikilink")原定于9月1日乘坐俄联盟TMA-18M飞船前往太空，在太空演唱歌曲，然后再乘坐[联盟TMA-16M](../Page/联盟TMA-16M.md "wikilink")飞船返回。然而由于家事缠身，她推迟了该计划\[3\]。
+
+联盟TMA-18M的返回舱目前在丹麦[赫爾辛格](../Page/赫爾辛格.md "wikilink")科技馆展出\[4\]。
+
+## 图集
+
+Soyuz TMA-18M launches on time from Baikonur.jpg|发射 Exp46 undock2.jpg|分离 Expedition 46 Landing (NHQ201603020002).jpg|返回舱降落 Expedition 46 Landing (NHQ201603020004).jpg|出舱后休息
+
+## 参考文献
+
+[Category:联盟计划](https://zh.wikipedia.org/wiki/Category:联盟计划 "wikilink") [Category:2015年航天](https://zh.wikipedia.org/wiki/Category:2015年航天 "wikilink")
 
 1.
 2.
 3.
+4.

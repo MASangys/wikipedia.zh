@@ -11,10 +11,6 @@
   - [《命运歌姬》官方网站](http://mygj.sdo.com/web3/index.html)
   - [《命运歌姬》官方新浪微博](https://weibo.com/u/5697386527)
 
-[Category:2018年电子游戏](https://zh.wikipedia.org/wiki/Category:2018年电子游戏 "wikilink")
-[Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink")
-[Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink")
-[Category:中国大陆开发电子游戏](https://zh.wikipedia.org/wiki/Category:中国大陆开发电子游戏 "wikilink")
-[Category:含付费内容的免费游戏](https://zh.wikipedia.org/wiki/Category:含付费内容的免费游戏 "wikilink")
+[Category:2018年电子游戏](https://zh.wikipedia.org/wiki/Category:2018年电子游戏 "wikilink") [Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink") [Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink") [Category:中国大陆开发电子游戏](https://zh.wikipedia.org/wiki/Category:中国大陆开发电子游戏 "wikilink") [Category:含付费内容的免费游戏](https://zh.wikipedia.org/wiki/Category:含付费内容的免费游戏 "wikilink")
 
 1.   TapTap发现好游戏|accessdate=2018-11-29|author=|date=|publisher=taptap}}

@@ -1,17 +1,10 @@
-《**Mix &
-Match**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[本月少女](../Page/本月少女.md "wikilink")（）在正式出道前第二個小分隊本月少女
-**ODD EYE CIRCLE**（）推出的首張迷你專輯，由Kim Lip、眞率及Choerry組成。由Blockberry
-Creative製作，VLENDING及WINDMILL ENT發行，於2017年9月21日推出。此張專輯包括主打歌曲《Girl
-Front》，共收錄五首歌。 10月31日，推出首張迷你專輯改版《Max ＆ Match》，包含主打曲《Sweet Crazy
-Love》共八首歌曲。
+《**Mix & Match**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[本月少女](../Page/本月少女.md "wikilink")（）在正式出道前第二個小分隊本月少女 **ODD EYE CIRCLE**（）推出的首張迷你專輯，由Kim Lip、眞率及Choerry組成。由Blockberry Creative製作，VLENDING及WINDMILL ENT發行，於2017年9月21日推出。此張專輯包括主打歌曲《Girl Front》，共收錄五首歌。 10月31日，推出首張迷你專輯改版《Max ＆ Match》，包含主打曲《Sweet Crazy Love》共八首歌曲。
 
 ## 簡介
 
-2017年8月30日，Blockberry Creative官方SNS公開新小分隊「本月少女 ODD EYE
-CIRCLE」的預告片\[1\]，由Kim Lip、眞率及Choerry組成\[2\]。
+2017年8月30日，Blockberry Creative官方SNS公開新小分隊「本月少女 ODD EYE CIRCLE」的預告片\[1\]，由Kim Lip、眞率及Choerry組成\[2\]。
 
-9月10日，官方公開一張寫有「Mix & Match」的预告照片\[3\]。9月12日，官方推特開始公開本月少女 ODD EYE
-CIRCLE團體及成員個人预告照片<ref>LOONA ODDEYECIRCLE teaser
+9月10日，官方公開一張寫有「Mix & Match」的预告照片\[3\]。9月12日，官方推特開始公開本月少女 ODD EYE CIRCLE團體及成員個人预告照片<ref>LOONA ODDEYECIRCLE teaser
 
   -
   -
@@ -21,23 +14,15 @@ CIRCLE團體及成員個人预告照片<ref>LOONA ODDEYECIRCLE teaser
   -
   -
   -
-  - </ref>。9月16日，官方宣布將於9月21日推出本月少女 ODD EYE CIRCLE的首張迷你專輯《Mix &
-    Match》。9月18-20日，分別上傳了主打曲《Girl
-    Front》預告、專輯預覽及洛杉磯預告。9月21日，正式公開專輯《Mix
-    & Match》的五首曲目音源，和主打曲《Girl Front》MV\[4\]，而MV中可見賢眞參與演出。專輯寫真及主打曲《Girl
-    Front》MV均在[美國](../Page/美国.md "wikilink")[洛杉磯取景](../Page/洛杉矶.md "wikilink")\[5\]。9月22日，《Mix
-    &
-    Match》得到美國iTunes韓國流行音樂專輯排行榜的第2位\[6\]，更於28日成為本月少女首張打入美國Billboard世界專輯榜第十位的專輯\[7\]\[8\]。
+  - </ref>。9月16日，官方宣布將於9月21日推出本月少女 ODD EYE CIRCLE的首張迷你專輯《Mix & Match》。9月18-20日，分別上傳了主打曲《Girl Front》預告、專輯預覽及洛杉磯預告。9月21日，正式公開專輯《Mix & Match》的五首曲目音源，和主打曲《Girl Front》MV\[4\]，而MV中可見賢眞參與演出。專輯寫真及主打曲《Girl Front》MV均在[美國](../Page/美国.md "wikilink")[洛杉磯取景](../Page/洛杉矶.md "wikilink")\[5\]。9月22日，《Mix & Match》得到美國iTunes韓國流行音樂專輯排行榜的第2位\[6\]，更於28日成為本月少女首張打入美國Billboard世界專輯榜第十位的專輯\[7\]\[8\]。
 
-10月23日，官方推出首張英文單曲《LOONATIC (English
-Ver.)》的歌詞版MV及音源，並於美國iTunes韓國流行音樂排行榜得到第三位\[9\]\[10\]\[11\]。。
+10月23日，官方推出首張英文單曲《LOONATIC (English Ver.)》的歌詞版MV及音源，並於美國iTunes韓國流行音樂排行榜得到第三位\[9\]\[10\]\[11\]。。
 
 11月2日，《Girl Front》MV播放量達到1,000,000次，官方按照約定，公開《Girl Front》舞蹈版MV。
 
 ## Max & Match
 
-2017年10月19日，Blockberry Creative開始公開本月少女 ODD EYE CIRCLE的第一張迷你專輯改版《Max &
-Match》的預告照片<ref>LOONA ODDEYECIRCLE Max & Match teaser
+2017年10月19日，Blockberry Creative開始公開本月少女 ODD EYE CIRCLE的第一張迷你專輯改版《Max & Match》的預告照片<ref>LOONA ODDEYECIRCLE Max & Match teaser
 
   -
   -
@@ -47,14 +32,9 @@ Match》的預告照片<ref>LOONA ODDEYECIRCLE Max & Match teaser
   -
   -
   -
-  - </ref>，專輯將於10月31日發售，包括主打曲為《Sweet Crazy Love》，共有四首新曲目。10月26及27日
-    ，公布了主打曲《Sweet Crazy Love》MV預告和專輯預覽。10月31日，官方公開《Max &
-    Match》專輯音源及主打曲《Sweet Crazy Love》MV。
+  - </ref>，專輯將於10月31日發售，包括主打曲為《Sweet Crazy Love》，共有四首新曲目。10月26及27日 ，公布了主打曲《Sweet Crazy Love》MV預告和專輯預覽。10月31日，官方公開《Max & Match》專輯音源及主打曲《Sweet Crazy Love》MV。
 
-11月1日，專輯《Max & Match》和主打曲《Sweet Crazy
-Love》分別得到美國iTunes韓國流行音樂專輯排行榜及美國iTunes韓國流行音樂排行榜第二位\[12\]。11月7日，《Max
-& Match》得到美國Billboard世界專輯榜第十一位。11月18日，主打曲《Sweet Crazy
-Love》於美國Billboard世界數位歌曲銷售榜得到十五位\[13\]。
+11月1日，專輯《Max & Match》和主打曲《Sweet Crazy Love》分別得到美國iTunes韓國流行音樂專輯排行榜及美國iTunes韓國流行音樂排行榜第二位\[12\]。11月7日，《Max & Match》得到美國Billboard世界專輯榜第十一位。11月18日，主打曲《Sweet Crazy Love》於美國Billboard世界數位歌曲銷售榜得到十五位\[13\]。
 
 12月14日，《Sweet Crazy Love》獲得Billboard評選為2017年度最佳韓語歌曲Top20的十二位\[14\]。
 
@@ -214,9 +194,7 @@ Love》於美國Billboard世界數位歌曲銷售榜得到十五位\[13\]。
 
 </references>
 
-[Category:本月少女](https://zh.wikipedia.org/wiki/Category:本月少女 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:2017年迷你專輯](https://zh.wikipedia.org/wiki/Category:2017年迷你專輯 "wikilink")
+[Category:本月少女](https://zh.wikipedia.org/wiki/Category:本月少女 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:2017年迷你專輯](https://zh.wikipedia.org/wiki/Category:2017年迷你專輯 "wikilink")
 
 1.
 

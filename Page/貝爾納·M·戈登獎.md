@@ -1,13 +1,9 @@
-**貝爾納·M·戈登獎**（）由[美國國家工程學院於](https://zh.wikipedia.org/wiki/美國國家工程學院 "wikilink")2001年設立。
-其目的是表彰「有效培養工程領導者的新教育模式和實驗」。\[1\]
-每年戈登獎頒發50萬美元獎金給獲獎者，其中獲獎者可以自已使用25萬美元，獲獎者所屬機構可以獲得25萬美元用於持續支持學術發展。\[2\]
-雖然戈登獎是相對較新的獎項，但在工程教育中，很多人認為它是美國工程教育的[諾貝爾獎](https://zh.wikipedia.org/wiki/諾貝爾獎 "wikilink")。\[3\]
+**貝爾納·M·戈登獎**（）由[美國國家工程學院於](https://zh.wikipedia.org/wiki/美國國家工程學院 "wikilink")2001年設立。 其目的是表彰「有效培養工程領導者的新教育模式和實驗」。\[1\] 每年戈登獎頒發50萬美元獎金給獲獎者，其中獲獎者可以自已使用25萬美元，獲獎者所屬機構可以獲得25萬美元用於持續支持學術發展。\[2\] 雖然戈登獎是相對較新的獎項，但在工程教育中，很多人認為它是美國工程教育的[諾貝爾獎](https://zh.wikipedia.org/wiki/諾貝爾獎 "wikilink")。\[3\]
 
 ## 入選準則
 
   - 被提名者要有能力開發出能創造和發展工程領導技能和態度的示範教學。同時必須重視的是：溝通技巧、團隊合作技巧、“實踐”經驗、創新能力和“趨動力”、具有分享、處理和解釋大量信息的能力並著重在跨領域應用。
-  - 具有上述重點領域所產生的具體影響及產生可轉移的創新教學模式。其他準則可以包括對參與學生產生的具體效果（在該領域成功就業的學生比例，積極為選修學生製造學習機會，追求更高的工程教育等
-    ）、學生對相關課程的評價和同儕認同新的教學方法及其獨特性。
+  - 具有上述重點領域所產生的具體影響及產生可轉移的創新教學模式。其他準則可以包括對參與學生產生的具體效果（在該領域成功就業的學生比例，積極為選修學生製造學習機會，追求更高的工程教育等 ）、學生對相關課程的評價和同儕認同新的教學方法及其獨特性。
   - 對機構內部的重大影響和/或其他機構引進此新式教學的具體成效。
   - 重視項目的成功。
   - 成功培養出工程領導者 - 提名者應該說明從創新中受益的個人，包括他們過去和現在的職位。
@@ -332,23 +328,18 @@
 
 ## 外部連結
 
-  - [Official Site of the Gordon
-    Prize](https://web.archive.org/web/20061207043011/http://www.nae.edu/nae/awardscom.nsf/weblinks/DWHT-4UJPVA?OpenDocument)
-  - [Bio for Dr. Eli Fromm, 2002 Gordon Prize
-    Recipient](https://web.archive.org/web/20051118095806/http://www.nae.edu/NAE/awardscom.nsf/weblinks/LRAO-57HK3U?OpenDocument)
-  - [Bio for Dr. Frank Barnes, 2004 Gordon Prize
-    Recipient](https://web.archive.org/web/20060103001324/http://www.nae.edu/nae/awardscom.nsf/weblinks/LRAO-5WEVPR?OpenDocument)
+  - [Official Site of the Gordon Prize](https://web.archive.org/web/20061207043011/http://www.nae.edu/nae/awardscom.nsf/weblinks/DWHT-4UJPVA?OpenDocument)
+  - [Bio for Dr. Eli Fromm, 2002 Gordon Prize Recipient](https://web.archive.org/web/20051118095806/http://www.nae.edu/NAE/awardscom.nsf/weblinks/LRAO-57HK3U?OpenDocument)
+  - [Bio for Dr. Frank Barnes, 2004 Gordon Prize Recipient](https://web.archive.org/web/20060103001324/http://www.nae.edu/nae/awardscom.nsf/weblinks/LRAO-5WEVPR?OpenDocument)
 
 ## 參考文獻
 
-[Category:學術榮譽](https://zh.wikipedia.org/wiki/Category:學術榮譽 "wikilink")
-[Category:以人名命名的獎項](https://zh.wikipedia.org/wiki/Category:以人名命名的獎項 "wikilink")
+[Category:學術榮譽](https://zh.wikipedia.org/wiki/Category:學術榮譽 "wikilink") [Category:以人名命名的獎項](https://zh.wikipedia.org/wiki/Category:以人名命名的獎項 "wikilink")
 
 1.
 
 2.
-3.  William A. Wulf and George M.C. Fisher "A Makeover for Engineering
-    Education" Issues in Science & Technology Spring 2002 p. 35-39.
+3.  William A. Wulf and George M.C. Fisher "A Makeover for Engineering Education" Issues in Science & Technology Spring 2002 p. 35-39.
 
 4.
 

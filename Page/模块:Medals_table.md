@@ -1,5 +1,4 @@
-require('Module:No globals') local getArgs =
-require('Module:Arguments').getArgs
+require('Module:No globals') local getArgs = require('Module:Arguments').getArgs
 
 local p = {}
 
@@ -52,13 +51,13 @@ function p.createTable(frame, args)
 `   if host ~= '' then`
 `       if args['name_' .. host] then`
 `           host = args['name_' .. host]`
-`           host = ' 主办国家/地区（' .. deflag(host) .. '）'`
+`           host = '主办国家/地区（' .. deflag(host) .. '）'`
 `       elseif host:match('^([A-Z][A-Z][A-Z])') then`
 `           host = frame:expandTemplate{title = flagTemplate, args = {host, event} }`
-`           host = ' 主办国家/地区（' .. deflag(host) .. '）'`
+`           host = '主办国家/地区（' .. deflag(host) .. '）'`
 `       end`
 `       host = host .. (args['host_note'] or '')`
-`       host = frame:expandTemplate{title = 'color box', args = {hostColor, ' * ', 'border=darkgray'}} .. host`
+`       host = frame:expandTemplate{title = 'color box', args = {hostColor, ' * ', 'border=darkgray'}} .. ' ' .. host`
 `   end`
 `   `
 `   local leading = ''`

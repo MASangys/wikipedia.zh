@@ -88,14 +88,11 @@
 
   - [Youtube](https://www.youtube.com/watch?v=BdjlnICvEH8)
 
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
+[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
 
 1.  CJ E\&M的遊戲頻道。
 2.
 3.
-4.  [召喚峽谷標準賽](https://zh.wikipedia.org/wiki/英雄联盟#召喚峽谷 "wikilink")，5vs.5
-    淘汰賽，團員都不在同一個偶像團體，每位選手的個人等級得超過銀級，隊長得是金級以上。玩家座位與專業選手相反（從左至右：輔助、下路ADC、中路、森林打野、上路）。準決賽是單場，決賽是三回兩勝。每位團員各獲得金、銀、銅牌。與專業賽一樣，分兩輪Pick/Ban分段，目標：攻破對方陣營。
-5.  又稱『吃雞游遊戲』。在開放式地圖裡的生存遊戲，分4人團體賽和6人個人賽（團隊裡其中3人對上另一組的3人，但擊殺最多人為勝出）最後生還者可獲得KFC烤雞禮卷，源自「Winner,
-    Winner, Chicken Dinner」而來
+4.  [召喚峽谷標準賽](https://zh.wikipedia.org/wiki/英雄联盟#召喚峽谷 "wikilink")，5vs.5 淘汰賽，團員都不在同一個偶像團體，每位選手的個人等級得超過銀級，隊長得是金級以上。玩家座位與專業選手相反（從左至右：輔助、下路ADC、中路、森林打野、上路）。準決賽是單場，決賽是三回兩勝。每位團員各獲得金、銀、銅牌。與專業賽一樣，分兩輪Pick/Ban分段，目標：攻破對方陣營。
+5.  又稱『吃雞游遊戲』。在開放式地圖裡的生存遊戲，分4人團體賽和6人個人賽（團隊裡其中3人對上另一組的3人，但擊殺最多人為勝出）最後生還者可獲得KFC烤雞禮卷，源自「Winner, Winner, Chicken Dinner」而來
 6.  職業[電競戰隊](https://zh.wikipedia.org/wiki/電子競技 "wikilink")（又稱「SK戰隊」），後來被收購改名為「Heroic戰隊」（[丹麥籍](https://zh.wikipedia.org/wiki/丹麥 "wikilink")）。該戰隊2016年8月26日成立，專長項目為電玩《絕對武力：全球攻勢》（CS:GO）。

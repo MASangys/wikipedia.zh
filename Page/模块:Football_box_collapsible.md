@@ -1,10 +1,6 @@
-\-- Implements [Template:Football box
-collapsible](https://zh.wikipedia.org/wiki/Template:Football_box_collapsible "wikilink")
-local p = {} local result_modules = 'Module:Football box
-collapsible/result/' local labels = {
+\-- Implements [Template:Football box collapsible](https://zh.wikipedia.org/wiki/Template:Football_box_collapsible "wikilink") local p = {} local result_modules = 'Module:Football box collapsible/result/' local labels = {
 
-`   ['penalties'] = '`[`-{zh:点球大战;``
- ``zh-tw:點球大戰;zh-hk:十二碼;zh-cn:点球大战;}-`](../Page/互射十二碼.md "wikilink")`',`
+`   ['penalties'] = '`[`-{zh:点球大战;``   ``zh-tw:點球大戰;zh-hk:十二碼;zh-cn:点球大战;}-`](../Page/互射十二碼.md "wikilink")`',`
 `   ['pen'] = '[[互射十二碼|-{zh:点球大战; zh-tw:點球大戰;zh-hk:十二碼;zh-cn:点球大战;}-]',`
 `   ['aet'] = '[[加时赛|-{zh:加时赛比分;zh-cn:加时赛比分;zh-hk:加時賽比分;zh-tw:延長賽比分;}-]',`
 `   ['agg'] = '總分',`
@@ -267,14 +263,10 @@ function p.main(frame)
 `   `
 `   -- notes`
 `   if isnotempty(args['note']) then`
-`       table.insert(notes, "`*`"``   ``..``   ``labels['note']``
- ``..``   ``"``   ``"``   ``..``   ``args['note']``   ``..``
- ``"`*`")`
+`       table.insert(notes, "`*`"``   ``..``   ``labels['note']``   ``..``   ``"``   ``"``   ``..``   ``args['note']``   ``..``   ``"`*`")`
 `   end`
 `   if isnotempty(args['seealso']) then`
-`       table.insert(notes, "`*`"``   ``..``   ``labels['seealso']``
- ``..``   ``"``   ``"``   ``..``   ``args['seealso']``   ``..``
- ``"`*`")`
+`       table.insert(notes, "`*`"``   ``..``   ``labels['seealso']``   ``..``   ``"``   ``"``   ``..``   ``args['seealso']``   ``..``   ``"`*`")`
 `   end`
 
 `   -- check if this is a one row table`
@@ -416,7 +408,4 @@ end
 
 return p
 
-[Category:使用Footballbox_collapsible模板但包含未知參數的條目](https://zh.wikipedia.org/wiki/Category:使用Footballbox_collapsible模板但包含未知參數的條目 "wikilink")
-[Category:使用Footballbox_collapsible模板但包含未知參數的條目](https://zh.wikipedia.org/wiki/Category:使用Footballbox_collapsible模板但包含未知參數的條目 "wikilink")
-[Category:使用Footballbox_collapsible模板但包含空白折疊參數的條目](https://zh.wikipedia.org/wiki/Category:使用Footballbox_collapsible模板但包含空白折疊參數的條目 "wikilink")
-[Category:使用Footballbox_collapsible模板且包含折疊參數的條目](https://zh.wikipedia.org/wiki/Category:使用Footballbox_collapsible模板且包含折疊參數的條目 "wikilink")
+[Category:使用Footballbox_collapsible模板但包含未知參數的條目](https://zh.wikipedia.org/wiki/Category:使用Footballbox_collapsible模板但包含未知參數的條目 "wikilink") [Category:使用Footballbox_collapsible模板但包含未知參數的條目](https://zh.wikipedia.org/wiki/Category:使用Footballbox_collapsible模板但包含未知參數的條目 "wikilink") [Category:使用Footballbox_collapsible模板但包含空白折疊參數的條目](https://zh.wikipedia.org/wiki/Category:使用Footballbox_collapsible模板但包含空白折疊參數的條目 "wikilink") [Category:使用Footballbox_collapsible模板且包含折疊參數的條目](https://zh.wikipedia.org/wiki/Category:使用Footballbox_collapsible模板且包含折疊參數的條目 "wikilink")

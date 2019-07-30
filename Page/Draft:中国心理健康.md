@@ -6,8 +6,7 @@
 
 ### 精神疾病患病率
 
-研究人员估计，中国约有1.73亿人患有精神疾病\[1\]。超过90％的精神障碍患者从未接受过治疗。缺乏关于精神疾病的政府数据使得很难估计特定精神障碍的患病率，因为中国自1993年以来没有进行过全国精神病学调查。\[2\][Bipolar_disorder_world_map_-_DALY_-_WHO2004.svg](https://zh.wikipedia.org/wiki/File:Bipolar_disorder_world_map_-_DALY_-_WHO2004.svg "fig:Bipolar_disorder_world_map_-_DALY_-_WHO2004.svg")患者对生活质量的影响。\]\]在2001年至2005年期间，对63,000名中国成年人进行的一项民间调查发现，16％的人口患有情绪障碍[情感障礙](../Page/情感障礙.md "wikilink")，其中6％患有严重抑郁症。[重度抑郁症](../Page/重度抑郁症.md "wikilink")\[3\]
-2007年，中国国家精神卫生中心主任刘进估计，大约50％的门诊入院是由于抑郁症。\[4\]
+研究人员估计，中国约有1.73亿人患有精神疾病\[1\]。超过90％的精神障碍患者从未接受过治疗。缺乏关于精神疾病的政府数据使得很难估计特定精神障碍的患病率，因为中国自1993年以来没有进行过全国精神病学调查。\[2\][Bipolar_disorder_world_map_-_DALY_-_WHO2004.svg](https://zh.wikipedia.org/wiki/File:Bipolar_disorder_world_map_-_DALY_-_WHO2004.svg "fig:Bipolar_disorder_world_map_-_DALY_-_WHO2004.svg")患者对生活质量的影响。\]\]在2001年至2005年期间，对63,000名中国成年人进行的一项民间调查发现，16％的人口患有情绪障碍[情感障礙](../Page/情感障礙.md "wikilink")，其中6％患有严重抑郁症。[重度抑郁症](../Page/重度抑郁症.md "wikilink")\[3\] 2007年，中国国家精神卫生中心主任刘进估计，大约50％的门诊入院是由于抑郁症。\[4\]
 
 1.
 

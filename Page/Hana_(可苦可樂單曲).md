@@ -1,12 +1,10 @@
-《**hana**》是[可苦可樂的第](../Page/可苦可樂.md "wikilink")4張[數位單曲](../Page/數位音樂下載.md "wikilink")。於2015年4月20日由[Warner
-Music
-Japan發售](https://zh.wikipedia.org/wiki/Warner_Music_Japan "wikilink")。
+《**hana**》是[可苦可樂](../Page/可苦可樂.md "wikilink")的第4張[數位單曲](../Page/數位音樂下載.md "wikilink")。於2015年4月20日由[Warner Music Japan發售](https://zh.wikipedia.org/wiki/Warner_Music_Japan "wikilink")。
 
 ## 簡介
 
 是可苦可樂專門為LOTTE Ghana巧克力所寫的歌曲。
 
-出演了廣告的女演員[土屋太鳳](../Page/土屋太鳳.md "wikilink")、[松井愛莉](https://zh.wikipedia.org/wiki/松井愛莉 "wikilink")、[廣瀨鈴亦出演了音樂錄影帶](../Page/廣瀨鈴.md "wikilink")。\[1\]
+出演了廣告的女演員[土屋太鳳](../Page/土屋太鳳.md "wikilink")、[松井愛莉](https://zh.wikipedia.org/wiki/松井愛莉 "wikilink")、[廣瀨鈴](../Page/廣瀨鈴.md "wikilink")亦出演了音樂錄影帶。\[1\]
 
 ## 收錄曲
 
@@ -24,8 +22,6 @@ Japan發售](https://zh.wikipedia.org/wiki/Warner_Music_Japan "wikilink")。
 
   - [hana](https://wmg.jp/kobukuro/discography/15302/)
 
-[Category:可苦可樂歌曲](https://zh.wikipedia.org/wiki/Category:可苦可樂歌曲 "wikilink")
-[Category:2015年單曲](https://zh.wikipedia.org/wiki/Category:2015年單曲 "wikilink")
-[Category:食品廣告歌曲](https://zh.wikipedia.org/wiki/Category:食品廣告歌曲 "wikilink")
+[Category:可苦可樂歌曲](https://zh.wikipedia.org/wiki/Category:可苦可樂歌曲 "wikilink") [Category:2015年單曲](https://zh.wikipedia.org/wiki/Category:2015年單曲 "wikilink") [Category:食品廣告歌曲](https://zh.wikipedia.org/wiki/Category:食品廣告歌曲 "wikilink")
 
 1.

@@ -1,12 +1,8 @@
 **此处改为条目主题**是一个
 
-Huawei Cloud (Chinese: 华为云; pinyin: huáwéiyún), also known as Huaweiyun,
-is a Chinese cloud computing company,\[1\] a subsidiary of Huawei.
+Huawei Cloud (Chinese: 华为云; pinyin: huáwéiyún), also known as Huaweiyun, is a Chinese cloud computing company,\[1\] a subsidiary of Huawei.
 
-HUAWEI CLOUD has partnered with Deutsche Telekom, Telefonica, Orange,
-and China Telecom to launch a number of public clouds\[2\],  including
-China Telecom Cloud, Open Telecom Cloud, Flexible Engine, and Telefonica
-Open Cloud, providing cloud services for customers around the world.
+HUAWEI CLOUD has partnered with Deutsche Telekom, Telefonica, Orange, and China Telecom to launch a number of public clouds\[2\],  including China Telecom Cloud, Open Telecom Cloud, Flexible Engine, and Telefonica Open Cloud, providing cloud services for customers around the world.
 
 ## 章节标题
 

@@ -1,5 +1,5 @@
-**GANG
-PARADE**（ギャングパレード）、日本的10人組女性偶像團體。WACK所属。簡稱為「**ギャンパレ**」。以**「大家的遊樂場」**為概念進行活動，其粉絲的統稱為**遊び人**，前身為プラ二メ、POP。
+**GANG PARADE**（ギャングパレード）是日本的音樂團體、[日本](../Page/日本.md "wikilink")的[女子偶像團體](../Page/偶像_\(日本\).md "wikilink")、日本的10人組女性偶像團體、以**「大家的遊樂場」**為概念進行活動。前身為「Pla2me」、「POP」。亦是首批簽約[WACK的女子偶像團體](https://zh.wikipedia.org/wiki/WACK "wikilink")。
+2014年結成。隸屬於WACK。唱片公司為T-Palette Records。他們的粉絲被官方稱為「遊び人」、「Playboys」。
 
 ## 概要
 
@@ -56,7 +56,7 @@ PARADE**（ギャングパレード）、日本的10人組女性偶像團體。W
 
 ## 作品
 
-排名為[Oricon公信榜最高名次](../Page/Oricon公信榜.md "wikilink")\[1\]。
+排名為[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")最高名次\[1\]。
 
 ### 單曲
 
@@ -765,8 +765,7 @@ AVCD-93765【通常盤】</p></td>
 
 ## 参考资料
 
-[Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink")
-[Category:2014年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年成立的音樂團體 "wikilink")
+[Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink") [Category:2014年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年成立的音樂團體 "wikilink")
 
 1.
 
@@ -787,8 +786,7 @@ AVCD-93765【通常盤】</p></td>
 9.
 
 10.
-11. 特典映像として、「CAN'T
-    STOP」のパフォーマンス中にステージ後方のモニターで流れた、メンバーの幼少期の写真で構成されたスペシャルムービーが収録されている。同映像は[エリザベス宮地が手掛けた](https://zh.wikipedia.org/wiki/エリザベス宮地 "wikilink")（）。
+11. 特典映像として、「CAN'T STOP」のパフォーマンス中にステージ後方のモニターで流れた、メンバーの幼少期の写真で構成されたスペシャルムービーが収録されている。同映像は[エリザベス宮地が手掛けた](https://zh.wikipedia.org/wiki/エリザベス宮地 "wikilink")（）。
 
 12.
 

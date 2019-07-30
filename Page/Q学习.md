@@ -30,10 +30,7 @@ Q-學習演算法，主要內容為計算狀態與行為對應的**品質函式*
 
 \[Q^{new}(s_{t},a_{t}) \leftarrow (1-\alpha) \cdot \underbrace{Q(s_{t},a_{t})}_{\text{old value}} + \underbrace{\alpha}_{\text{learning rate}} \cdot  \overbrace{\bigg( \underbrace{r_{t}}_{\text{reward}} + \underbrace{\gamma}_{\text{discount factor}} \cdot \underbrace{\max_{a}Q(s_{t+1}, a)}_{\text{estimate of optimal future value}} \bigg) }^{\text{learned value}}\]
 
-其中 \(r_{t}\) 代表從狀態 \(s_{t}\) 到狀態 \(s_{t+1}\) 所得到的獎勵值, \(\alpha\)
-為[學習率](https://zh.wikipedia.org/wiki/學習率 "wikilink")(\(0 < \alpha \le 1\))。\(\gamma\)
-為衰減系數(\(0 \le \gamma \le 1\))，當 \(\gamma\) 數值越大時，智慧型代理人便更加重視未來獲得的長期獎勵，
-\(\gamma\) 數值越小時，智慧代理人便更加短視近利，只在乎目前可獲得的獎勵。
+其中 \(r_{t}\) 代表從狀態 \(s_{t}\) 到狀態 \(s_{t+1}\) 所得到的獎勵值, \(\alpha\) 為[學習率](https://zh.wikipedia.org/wiki/學習率 "wikilink")(\(0 < \alpha \le 1\))。\(\gamma\) 為衰減系數(\(0 \le \gamma \le 1\))，當 \(\gamma\) 數值越大時，智慧型代理人便更加重視未來獲得的長期獎勵， \(\gamma\) 數值越小時，智慧代理人便更加短視近利，只在乎目前可獲得的獎勵。
 
 ## 实现
 
@@ -43,14 +40,13 @@ Q-學習演算法，主要內容為計算狀態與行為對應的**品質函式*
 
 *Q*-学习可以结合函数逼近。\[3\] 这使得在更大的状态空间中使用 Q-学习，即使状态空间是连续的。
 
-一个解决方案是以使用[人工神经网络来进行函数逼近](../Page/人工神经网络.md "wikilink")。\[4\]。函数逼近的方法在一些问题中会有很好的加速效果，某些时候算法可以通过早期经验的总结可以在一些未出现的状态中依然可以有很好的效果。
+一个解决方案是以使用[人工神经网络](../Page/人工神经网络.md "wikilink")来进行函数逼近。\[4\]。函数逼近的方法在一些问题中会有很好的加速效果，某些时候算法可以通过早期经验的总结可以在一些未出现的状态中依然可以有很好的效果。
 
 ## 变种
 
 ### 深度Q-学习
 
-该DeepMind系统使用一个深度[卷积神经网络](../Page/卷积神经网络.md "wikilink")。在使用非线性函数逼近的时候，强化学习经常会有不稳定性或者发散性：这种不稳定性来于当前的观测中有比较强的自相关。DeepMind
-通过使用经历回放，也就是每次学习的时候并不直接从最近的经历中学习，而是从之前的经历中随机采样来进行训练。
+该DeepMind系统使用一个深度[卷积神经网络](../Page/卷积神经网络.md "wikilink")。在使用非线性函数逼近的时候，强化学习经常会有不稳定性或者发散性：这种不稳定性来于当前的观测中有比较强的自相关。DeepMind 通过使用经历回放，也就是每次学习的时候并不直接从最近的经历中学习，而是从之前的经历中随机采样来进行训练。
 
 ## 参见
 
@@ -66,42 +62,21 @@ Q-學習演算法，主要內容為計算狀態與行為對應的**品質函式*
 
 ## 外部链接
 
-  - [Watkins, C.J.C.H. (1989). Learning from Delayed Rewards. PhD
-    thesis, Cambridge University, Cambridge,
-    England.](http://www.cs.rhul.ac.uk/~chrisw/thesis.html)
-  - [Strehl, Li, Wiewiora, Langford, Littman (2006). PAC model-free
-    reinforcement
-    learning](http://portal.acm.org/citation.cfm?id=1143955)
-  - [*Reinforcement Learning: An
-    Introduction*](https://web.archive.org/web/20050806080008/http://www.cs.ualberta.ca/~sutton/book/the-book.html)
-    by Richard Sutton and Andrew S. Barto, an online textbook. See ["6.5
-    Q-Learning: Off-Policy TD
-    Control"](https://web.archive.org/web/20081202105235/http://www.cs.ualberta.ca/~sutton/book/ebook/node65.html).
-  - [Piqle: a Generic Java Platform for Reinforcement
-    Learning](http://sourceforge.net/projects/piqle/)
-  - [Reinforcement Learning
-    Maze](http://ccl.northwestern.edu/netlogo/models/community/Reinforcement%20Learning%20Maze),
-    a demonstration of guiding an ant through a maze using *Q*-learning.
-  - [*Q*-learning work by Gerald
-    Tesauro](http://www.research.ibm.com/infoecon/paps/html/ijcai99_qnn/node4.html)
-  - [*Q*-learning work by Tesauro Citeseer
-    Link](https://web.archive.org/web/20080529074412/http://citeseer.comp.nus.edu.sg/352693.html)
-    - Doesn't work
-  - [*Q*-learning algorithm implemented in processing.org
-    language](https://web.archive.org/web/20090616122437/http://github.com/sandropaganotti/processing.org-q-learning-td-lambda-/tree/master)
-    - Doesn't work
-  - [JavaScript Example with Reward Driven RNN
-    learning](https://web.archive.org/web/20180420073911/https://gammastorm.github.io/SinglePages/Brain.html)
-  - [A Brain
-    Library](https://github.com/gammastorm/gammastorm.github.io/blob/master/myjs/Brain.js)
-  - [A Genetics Library used by the
-    Brain](https://github.com/gammastorm/gammastorm.github.io/blob/master/myjs/SelfGenetics.js)
+  - [Watkins, C.J.C.H. (1989). Learning from Delayed Rewards. PhD thesis, Cambridge University, Cambridge, England.](http://www.cs.rhul.ac.uk/~chrisw/thesis.html)
+  - [Strehl, Li, Wiewiora, Langford, Littman (2006). PAC model-free reinforcement learning](http://portal.acm.org/citation.cfm?id=1143955)
+  - [*Reinforcement Learning: An Introduction*](https://web.archive.org/web/20050806080008/http://www.cs.ualberta.ca/~sutton/book/the-book.html) by Richard Sutton and Andrew S. Barto, an online textbook. See ["6.5 Q-Learning: Off-Policy TD Control"](https://web.archive.org/web/20081202105235/http://www.cs.ualberta.ca/~sutton/book/ebook/node65.html).
+  - [Piqle: a Generic Java Platform for Reinforcement Learning](http://sourceforge.net/projects/piqle/)
+  - [Reinforcement Learning Maze](http://ccl.northwestern.edu/netlogo/models/community/Reinforcement%20Learning%20Maze), a demonstration of guiding an ant through a maze using *Q*-learning.
+  - [*Q*-learning work by Gerald Tesauro](http://www.research.ibm.com/infoecon/paps/html/ijcai99_qnn/node4.html)
+  - [*Q*-learning work by Tesauro Citeseer Link](https://web.archive.org/web/20080529074412/http://citeseer.comp.nus.edu.sg/352693.html) - Doesn't work
+  - [*Q*-learning algorithm implemented in processing.org language](https://web.archive.org/web/20090616122437/http://github.com/sandropaganotti/processing.org-q-learning-td-lambda-/tree/master) - Doesn't work
+  - [JavaScript Example with Reward Driven RNN learning](https://web.archive.org/web/20180420073911/https://gammastorm.github.io/SinglePages/Brain.html)
+  - [A Brain Library](https://github.com/gammastorm/gammastorm.github.io/blob/master/myjs/Brain.js)
+  - [A Genetics Library used by the Brain](https://github.com/gammastorm/gammastorm.github.io/blob/master/myjs/SelfGenetics.js)
 
 [Category:機器學習演算法](https://zh.wikipedia.org/wiki/Category:機器學習演算法 "wikilink")
 
-1.  Francisco S. Melo, ["Convergence of Q-learning: a simple
-    proof"](http://users.isr.ist.utl.pt/~mtjspaan/readingGroup/ProofQlearning.pdf)
-2.   Computational Neuroscience Lab|date=December 19,
-    2015|last=Matiisen|first=Tambet|language=en-US|website=neuro.cs.ut.ee|access-date=2018-04-06}}
+1.  Francisco S. Melo, ["Convergence of Q-learning: a simple proof"](http://users.isr.ist.utl.pt/~mtjspaan/readingGroup/ProofQlearning.pdf)
+2.   Computational Neuroscience Lab|date=December 19, 2015|last=Matiisen|first=Tambet|language=en-US|website=neuro.cs.ut.ee|access-date=2018-04-06}}
 3.
 4.

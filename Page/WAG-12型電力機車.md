@@ -10,8 +10,7 @@
 
 ### 研製
 
-按照上述合約，首5輛機車車體及轉向架散件將在法國貝爾福工廠生產，並於印度進行總裝，其餘795輛均在印度生產。首輛機車車體於2017年9月27日運抵印度霍爾迪亞港，並隨即送往馬德普拉機車車輛廠進行總裝，於同年10月11日送達。及後，首輛機車於2018年2月27日完工調試，並於同年4月10日由印度總理[莫迪主持下線儀式](https://zh.wikipedia.org/wiki/莫迪 "wikilink")\[2\]（而機車原訂於2月28日下線）。此等機車定名為**WAG-12型**，當中「W」代表闊軌、「A」代表受流電力格式為25千伏50赫茲交流電、「G」代表貨運專用；而阿爾斯通內部型號則為**Prima
-2 8T**，當中「2」代表第二代Prima系列機車、「8T」代表八軸機車。
+按照上述合約，首5輛機車車體及轉向架散件將在法國貝爾福工廠生產，並於印度進行總裝，其餘795輛均在印度生產。首輛機車車體於2017年9月27日運抵印度霍爾迪亞港，並隨即送往馬德普拉機車車輛廠進行總裝，於同年10月11日送達。及後，首輛機車於2018年2月27日完工調試，並於同年4月10日由印度總理[莫迪主持下線儀式](https://zh.wikipedia.org/wiki/莫迪 "wikilink")\[2\]（而機車原訂於2月28日下線）。此等機車定名為**WAG-12型**，當中「W」代表闊軌、「A」代表受流電力格式為25千伏50赫茲交流電、「G」代表貨運專用；而阿爾斯通內部型號則為**Prima 2 8T**，當中「2」代表第二代Prima系列機車、「8T」代表八軸機車。
 
 ### 運用
 
@@ -21,8 +20,7 @@
 
 ### 总体结构
 
-WAG-12型电力机车是雙節[重聯的八轴大功率干线货运用电力机车](../Page/機車重聯.md "wikilink")，车体采用框架式整体承载全钢箱型壳体焊接结构，车体侧墙采用平滑钢板，并设有维修门。车体两端各设有一个司机室，司机可在任何一端司机室对机车进行控制。司机室采用框架式焊接钢结构，前窗按印度鐵路標準另加鐵欄。车内设备采用模块化结构、两侧屏柜化布置，并设中间贯通走廊；车上并设有电水壶、[冰箱](../Page/冰箱.md "wikilink")、[微波炉](../Page/微波炉.md "wikilink")、[卫生间等生活设施](https://zh.wikipedia.org/wiki/卫生间 "wikilink")。每節机车近重聯處车顶设有两台单臂式[受电弓](https://zh.wikipedia.org/wiki/受电弓 "wikilink")，其他车顶外置设备包括[真空断路器](https://zh.wikipedia.org/wiki/断路器 "wikilink")、接地开关、避雷器、高压连接器等高压设备。机车采用独立通风方式，从侧墙过滤窗和车顶百叶窗吸入冷风，向发热部件冷却后从车底排出，并维持机械间呈[微正压](../Page/正壓.md "wikilink")，改善机车防尘效果及防寒性能。[机车轴式为](../Page/机车轴式.md "wikilink")[Bo-Bo](https://zh.wikipedia.org/wiki/Bo-Bo "wikilink")+Bo-Bo，持续功率为9000千瓦；机车轴重为22.5吨。[空气制动系统采用](../Page/空气制动.md "wikilink")[克諾爾公司的微机控制电空制动机](https://zh.wikipedia.org/wiki/克諾爾公司 "wikilink")\[4\]，具有空电联合制动、阶段缓解、断钩保护、备用制动等功能。另外，此等機車的運作溫度介乎於-50
-°C 至50 °C ，具一定抗寒抗熱能力。
+WAG-12型电力机车是雙節[重聯的八轴大功率干线货运用电力机车](../Page/機車重聯.md "wikilink")，车体采用框架式整体承载全钢箱型壳体焊接结构，车体侧墙采用平滑钢板，并设有维修门。车体两端各设有一个司机室，司机可在任何一端司机室对机车进行控制。司机室采用框架式焊接钢结构，前窗按印度鐵路標準另加鐵欄。车内设备采用模块化结构、两侧屏柜化布置，并设中间贯通走廊；车上并设有电水壶、[冰箱](../Page/冰箱.md "wikilink")、[微波炉](../Page/微波炉.md "wikilink")、[卫生间等生活设施](https://zh.wikipedia.org/wiki/卫生间 "wikilink")。每節机车近重聯處车顶设有两台单臂式[受电弓](https://zh.wikipedia.org/wiki/受电弓 "wikilink")，其他车顶外置设备包括[真空断路器](https://zh.wikipedia.org/wiki/断路器 "wikilink")、接地开关、避雷器、高压连接器等高压设备。机车采用独立通风方式，从侧墙过滤窗和车顶百叶窗吸入冷风，向发热部件冷却后从车底排出，并维持机械间呈[微正压](../Page/正壓.md "wikilink")，改善机车防尘效果及防寒性能。[机车轴式](../Page/机车轴式.md "wikilink")为[Bo-Bo](https://zh.wikipedia.org/wiki/Bo-Bo "wikilink")+Bo-Bo，持续功率为9000千瓦；机车轴重为22.5吨。[空气制动](../Page/空气制动.md "wikilink")系统采用[克諾爾公司的微机控制电空制动机](https://zh.wikipedia.org/wiki/克諾爾公司 "wikilink")\[4\]，具有空电联合制动、阶段缓解、断钩保护、备用制动等功能。另外，此等機車的運作溫度介乎於-50 °C 至50 °C ，具一定抗寒抗熱能力。
 
 ### 电气系统
 
@@ -45,10 +43,7 @@ HXD2B型电力机车采用了阿尔斯通公司开发的“Agate”微机网络�
 
 ## 參考資料
 
-[Category:印度铁路](https://zh.wikipedia.org/wiki/Category:印度铁路 "wikilink")
-[Category:阿尔斯通制铁路机车](https://zh.wikipedia.org/wiki/Category:阿尔斯通制铁路机车 "wikilink")
-[Category:Bo-Bo+Bo-Bo軸式機車](https://zh.wikipedia.org/wiki/Category:Bo-Bo+Bo-Bo軸式機車 "wikilink")
-[Category:25千伏50赫兹交流电力机车](https://zh.wikipedia.org/wiki/Category:25千伏50赫兹交流电力机车 "wikilink")
+[Category:印度铁路](https://zh.wikipedia.org/wiki/Category:印度铁路 "wikilink") [Category:阿尔斯通制铁路机车](https://zh.wikipedia.org/wiki/Category:阿尔斯通制铁路机车 "wikilink") [Category:Bo-Bo+Bo-Bo軸式機車](https://zh.wikipedia.org/wiki/Category:Bo-Bo+Bo-Bo軸式機車 "wikilink") [Category:25千伏50赫兹交流电力机车](https://zh.wikipedia.org/wiki/Category:25千伏50赫兹交流电力机车 "wikilink")
 
 1.  [阿爾斯通中標印度機車項目](https://www.railwaygazette.com/news/traction-rolling-stock/single-view/view/alstom-to-supply-800-electric-locos-to-indian-railways.html)
 2.  [莫迪主持新型機車下線儀式](https://www.business-standard.com/article/current-affairs/modi-to-launch-india-s-most-powerful-electric-locomotive-in-bihar-10-facts-118041000209_1.html)

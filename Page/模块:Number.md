@@ -1,9 +1,4 @@
-local getArgs = require('Module:Arguments').getArgs local p = {
-PrimeTable = {} } local numdata = nil
---[輸入一個數字n，檢查n是否為半完全數，如是列出最先搜到的和為自身之因數數列，否則輸出空陣列
-(一般Lua函數) 注意 : 此為指數時間複雜問題 --最差情況時間複雜度為 O(2^因數個數)
---呼叫時請謹慎](https://zh.wikipedia.org/wiki/輸入一個數字n，檢查n是否為半完全數，如是列出最先搜到的和為自身之因數數列，否則輸出空陣列_\(一般Lua函數\)_注意_:_此為指數時間複雜問題_--最差情況時間複雜度為_O\(2^因數個數\)_--呼叫時請謹慎 "wikilink")
-function p._checkSemiperfectNumber(input)
+local getArgs = require('Module:Arguments').getArgs local p = { PrimeTable = {} } local numdata = nil --[輸入一個數字n，檢查n是否為半完全數，如是列出最先搜到的和為自身之因數數列，否則輸出空陣列 (一般Lua函數) 注意 : 此為指數時間複雜問題 --最差情況時間複雜度為 O(2^因數個數) --呼叫時請謹慎](https://zh.wikipedia.org/wiki/輸入一個數字n，檢查n是否為半完全數，如是列出最先搜到的和為自身之因數數列，否則輸出空陣列_\(一般Lua函數\)_注意_:_此為指數時間複雜問題_--最差情況時間複雜度為_O\(2^因數個數\)_--呼叫時請謹慎 "wikilink") function p._checkSemiperfectNumber(input)
 
 `   local number = tonumber(input) or 0`
 `   if p.PrimeTable.table_max == nil then p.PrimeTable = require('Module:Factorization') end`
@@ -12,10 +7,7 @@ function p._checkSemiperfectNumber(input)
 
 end
 
-\--[輸入因數列表檢查數字是否為半完全數，如是列出最先搜到的和為自身之因數數列，否則輸出空陣列 (一般Lua函數) 注意 :
-此為指數時間複雜問題 --最差情況時間複雜度為 O(2^因數個數)
---呼叫時請謹慎](https://zh.wikipedia.org/wiki/輸入因數列表檢查數字是否為半完全數，如是列出最先搜到的和為自身之因數數列，否則輸出空陣列_\(一般Lua函數\)_注意_:_此為指數時間複雜問題_--最差情況時間複雜度為_O\(2^因數個數\)_--呼叫時請謹慎 "wikilink")
-function p._checkSemiperfectNumberByDivisor(input)
+\--[輸入因數列表檢查數字是否為半完全數，如是列出最先搜到的和為自身之因數數列，否則輸出空陣列 (一般Lua函數) 注意 : 此為指數時間複雜問題 --最差情況時間複雜度為 O(2^因數個數) --呼叫時請謹慎](https://zh.wikipedia.org/wiki/輸入因數列表檢查數字是否為半完全數，如是列出最先搜到的和為自身之因數數列，否則輸出空陣列_\(一般Lua函數\)_注意_:_此為指數時間複雜問題_--最差情況時間複雜度為_O\(2^因數個數\)_--呼叫時請謹慎 "wikilink") function p._checkSemiperfectNumberByDivisor(input)
 
 `   if xpcall(function()_=#input pairs(input) end,function(_)end) == true then`
 `       local flattern = function(a_table)`
@@ -85,10 +77,7 @@ function p._checkSemiperfectNumberByDivisor(input)
 
 end
 
-\--[檢查一個數字是否為半完全數，如是列出最先搜到的和為自身之因數數列，否則不輸出 (支援\#invoke:) 注意 : 此為指數時間複雜問題
---最差情況時間複雜度為 O(2^因數個數)
---呼叫時請謹慎](https://zh.wikipedia.org/wiki/檢查一個數字是否為半完全數，如是列出最先搜到的和為自身之因數數列，否則不輸出_\(支援#invoke:\)_注意_:_此為指數時間複雜問題_--最差情況時間複雜度為_O\(2^因數個數\)_--呼叫時請謹慎 "wikilink")
-function p.checkSemiperfectNumber(frame)
+\--[檢查一個數字是否為半完全數，如是列出最先搜到的和為自身之因數數列，否則不輸出 (支援\#invoke:) 注意 : 此為指數時間複雜問題 --最差情況時間複雜度為 O(2^因數個數) --呼叫時請謹慎](https://zh.wikipedia.org/wiki/檢查一個數字是否為半完全數，如是列出最先搜到的和為自身之因數數列，否則不輸出_\(支援#invoke:\)_注意_:_此為指數時間複雜問題_--最差情況時間複雜度為_O\(2^因數個數\)_--呼叫時請謹慎 "wikilink") function p.checkSemiperfectNumber(frame)
 
 `   local args`
 `   if frame == mw.getCurrentFrame() then`
@@ -104,9 +93,7 @@ function p.checkSemiperfectNumber(frame)
 
 end
 
-\--[列出一個或多個整數與因數相關的性質 (支援\#invoke:)
-運算速度較快，適合進行大量輸出，如1000個以下的數字](https://zh.wikipedia.org/wiki/列出一個或多個整數與因數相關的性質_\(支援#invoke:\)_運算速度較快，適合進行大量輸出，如1000個以下的數字 "wikilink")
-function p.numberDivisorInformation(frame)
+\--[列出一個或多個整數與因數相關的性質 (支援\#invoke:) 運算速度較快，適合進行大量輸出，如1000個以下的數字](https://zh.wikipedia.org/wiki/列出一個或多個整數與因數相關的性質_\(支援#invoke:\)_運算速度較快，適合進行大量輸出，如1000個以下的數字 "wikilink") function p.numberDivisorInformation(frame)
 
 `   -- For calling from #invoke.`
 `   local args`
@@ -330,17 +317,13 @@ function p.numberDivisorInformation(frame)
 `                               if tonumber(next_p) ~= nil then`
 `                                   if (next_p or number) - number == 2 then`
 `                                       is_printted = true`
-`                                       body = body .. '為（' .. number ..'、 `[`'``
- ``..``   ``next_p``
- ``..'`](https://zh.wikipedia.org/wiki/'_.._next_p_..' "wikilink")`）'`
+`                                       body = body .. '為（' .. number ..'、 `[`'``   ``..``   ``next_p``   ``..'`](https://zh.wikipedia.org/wiki/'_.._next_p_..' "wikilink")`）'`
 `                                   end`
 `   `
 `                                   if number - (last_p or number) == 2 then`
 `                                       if is_printted == true then body = body .. '以及' `
 `                                       else body = body .. '為' end`
-`                                       body = body .. '（`[`'``
- ``..``   ``last_p``
- ``..'`](https://zh.wikipedia.org/wiki/'_.._last_p_..' "wikilink")`、 ' .. number ..'）'`
+`                                       body = body .. '（`[`'``   ``..``   ``last_p``   ``..'`](https://zh.wikipedia.org/wiki/'_.._last_p_..' "wikilink")`、 ' .. number ..'）'`
 `                                   end`
 `                                   `
 `                                   body = body .. '\n'`
@@ -388,11 +371,7 @@ function p.numberDivisorInformation(frame)
 `                               if #simi_div > 0 then`
 `                                   buffer_text = ''`
 `                                   if div_sum ~= number then `
-`                                       buffer_text = "和為本身的其中一組因數為`[`"``
- ``..``   ``tostring(``   ``table.concat(simi_div,``
- ``"`](https://zh.wikipedia.org/wiki/"_.._tostring\(_table.concat\(simi_div,_" "wikilink")`、 `[`")``
- ``)``   ``..``
- ``"`](https://zh.wikipedia.org/wiki/"\)_\)_.._" "wikilink")`"`
+`                                       buffer_text = "和為本身的其中一組因數為`[`"``   ``..``   ``tostring(``   ``table.concat(simi_div,``   ``"`](https://zh.wikipedia.org/wiki/"_.._tostring\(_table.concat\(simi_div,_" "wikilink")`、 `[`")``   ``)``   ``..``   ``"`](https://zh.wikipedia.org/wiki/"\)_\)_.._" "wikilink")`"`
 `                                   end`
 `                                   body = print_information(body, number, "半完全数", "半完全數", nil, true, "**", buffer_text )`
 `                               else`
@@ -404,7 +383,7 @@ function p.numberDivisorInformation(frame)
 `                       --列印與因數平均數相關性質`
 `                       if math.abs(div_harmonic_avg - math.floor(div_harmonic_avg)) <= 1e-6 then`
 `                           body = print_information(body, number, "歐爾調和數", "欧尔调和数", nil, true, '*', `
-`                               "因數`[`调和平均数為`](../Page/调和平均数.md "wikilink")`" .. string.format("%d",math.floor(div_harmonic_avg)))`
+`                               "因數`[`调和平均数`](../Page/调和平均数.md "wikilink")為`" .. string.format("%d",math.floor(div_harmonic_avg)))`
 `                       end`
 `                       --列印與質因數相關性質`
 `                       if is_unusual ~= nil then `
@@ -416,7 +395,7 @@ function p.numberDivisorInformation(frame)
 `                       end`
 `                       if admirable_div ~= nil then `
 `                           body = print_information(body, number, "佩服數", "佩服数", nil, true, '*', `
-`                               "佩服`[`因數為`](../Page/因數.md "wikilink")`" .. tostring(admirable_div) )`
+`                               "佩服`[`因數`](../Page/因數.md "wikilink")為`" .. tostring(admirable_div) )`
 `                       end`
 `                       --列印無平方數因數的數之相關性質`
 `                       if exp_num == prime_count then `
@@ -444,11 +423,11 @@ function p.numberDivisorInformation(frame)
 `                   if is_prime ~= true then`
 `                       local num_digts = mw.ustring.len( mw.ustring.format( "%d",math.floor(math.abs(number)) ) ) `
 `                       if prime_digits == num_digts then`
-`                           body = print_information(body, number, "等數位數", "等数位数", nil, true, '*', nil, "`[`十进制的`](../Page/十进制.md "wikilink")`")`
+`                           body = print_information(body, number, "等數位數", "等数位数", nil, true, '*', nil, "`[`十进制`](../Page/十进制.md "wikilink")的`")`
 `                       elseif prime_digits < num_digts then`
-`                           body = print_information(body, number, "節儉數", "节俭数", nil, true, '*', nil, "`[`十进制的`](../Page/十进制.md "wikilink")`")`
+`                           body = print_information(body, number, "節儉數", "节俭数", nil, true, '*', nil, "`[`十进制`](../Page/十进制.md "wikilink")的`")`
 `                       elseif prime_digits > num_digts then`
-`                           body = print_information(body, number, "奢侈數", "奢侈数", nil, true, '*', nil, "`[`十进制的`](../Page/十进制.md "wikilink")`")`
+`                           body = print_information(body, number, "奢侈數", "奢侈数", nil, true, '*', nil, "`[`十进制`](../Page/十进制.md "wikilink")的`")`
 `                       end`
 `                   end`
 `               end`
@@ -637,7 +616,7 @@ function p._simpleComplexText(real, imag, can_math, frame)
 `       end`
 `       if is_gprime then body = body ..'*' .. '`[`高斯質數`](https://zh.wikipedia.org/wiki/高斯整數#作为唯一分解整环 "wikilink")`。\n'`
 `       elseif length > 1 then body = body ..'*' .. '`[`高斯`](https://zh.wikipedia.org/wiki/高斯整數#作为唯一分解整环 "wikilink")[`合数`](../Page/合数.md "wikilink")`。\n'`
-`           body = body ..'*:' .. '`[`高斯`](https://zh.wikipedia.org/wiki/高斯整數#作为唯一分解整环 "wikilink")[`整数分解為`](../Page/整数分解.md "wikilink")`，' .. gfactors_str ..'。\n'`
+`           body = body ..'*:' .. '`[`高斯`](https://zh.wikipedia.org/wiki/高斯整數#作为唯一分解整环 "wikilink")[`整数分解`](../Page/整数分解.md "wikilink")為`，' .. gfactors_str ..'。\n'`
 `       end`
 `   end`
 `   if numdata._is_integer(sq_real) and numdata._is_integer(sq_imag) then`
@@ -654,9 +633,9 @@ function p._simpleComplexText(real, imag, can_math, frame)
 
 `   local deg = math.deg(argument)`
 `   if numdata._is_integer(deg) then`
-`       body = body ..'*' .. '`[`幅角為`](../Page/幅角.md "wikilink")`' .. tostring(deg) .. '`[`度`](https://zh.wikipedia.org/wiki/度_\(角\) "wikilink")`。\n'`
+`       body = body ..'*' .. '`[`幅角`](../Page/幅角.md "wikilink")為`' .. tostring(deg) .. '`[`度`](https://zh.wikipedia.org/wiki/度_\(角\) "wikilink")`。\n'`
 `   else`
-`       body = body ..'*' .. '`[`幅角約為`](../Page/幅角.md "wikilink")`' .. string.format("%.4f",deg) .. '`[`度`](https://zh.wikipedia.org/wiki/度_\(角\) "wikilink")`。\n'`
+`       body = body ..'*' .. '`[`幅角`](../Page/幅角.md "wikilink")約為`' .. string.format("%.4f",deg) .. '`[`度`](https://zh.wikipedia.org/wiki/度_\(角\) "wikilink")`。\n'`
 `   end`
 
 `   return body`
@@ -769,7 +748,7 @@ end
 `   if p.PrimeTable.table_max == nil then p.PrimeTable = require('Module:Factorization') end`
 `   if (number or 0) > p.PrimeTable.limit or -(number or 0) > p.PrimeTable.limit then `
 `           return require("Module:Error").error({[1]="錯誤：無法處理數-{}-字 \'" .. (args[1] or args['1'] or args['start'] or args['end']) .. '\' ，'`
-`               .. '其`[`絕對值已超出支援的處理範圍`](https://zh.wikipedia.org/wiki/絕對值 "wikilink")`。'`
+`               .. '其`[`絕對值已超出支援的處理範圍`](https://zh.wikipedia.org/wiki/絕對值 "wikilink")`（35184372088831）。'`
 `           })`
 `   end`
 `   `
@@ -947,6 +926,4 @@ end
 
 return p
 
-[Category:使用高時間複雜度演算法的條目](https://zh.wikipedia.org/wiki/Category:使用高時間複雜度演算法的條目 "wikilink")
-[Category:使用自定義Module:Number語句的頁面](https://zh.wikipedia.org/wiki/Category:使用自定義Module:Number語句的頁面 "wikilink")
-[Category:使用自定義Module:Number語句的頁面](https://zh.wikipedia.org/wiki/Category:使用自定義Module:Number語句的頁面 "wikilink")
+[Category:使用高時間複雜度演算法的條目](https://zh.wikipedia.org/wiki/Category:使用高時間複雜度演算法的條目 "wikilink") [Category:使用自定義Module:Number語句的頁面](https://zh.wikipedia.org/wiki/Category:使用自定義Module:Number語句的頁面 "wikilink") [Category:使用自定義Module:Number語句的頁面](https://zh.wikipedia.org/wiki/Category:使用自定義Module:Number語句的頁面 "wikilink")

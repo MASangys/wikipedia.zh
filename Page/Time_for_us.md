@@ -1,84 +1,64 @@
-《**Time for
-us**》，是韓國女子演唱團體[GFRIEND于](../Page/GFRIEND.md "wikilink")2019年1月14日发布的第二張正規專輯，以〈해야
-(Sunrise)〉為主打歌。 經歷出道四周年與長達6個月的空白期，因此對於GFRIEND與粉絲意義重大。
+《**Time for us**》是韓國女子演唱團體[GFRIEND](../Page/GFRIEND.md "wikilink")于2019年1月14日发布的第二張正規專輯，以〈해야 (Sunrise)〉為主打歌。經歷出道四周年與長達6個月的空白期，因此對於GFRIEND與粉絲意義重大。
 
 ## 概要
 
-此次專輯主打曲《SUNRISE》由曾與 GFRIEND 合作《Time for the moon night》一曲的 No Joo Hwan 和
-Lee Won Jong 聯手打造，歌詞將喜歡的人比喻成還沒升起的太陽，描寫少女面對愛情心裡複雜的感情。\[1\]
+此次專輯主打曲《SUNRISE》由曾與 GFRIEND 合作《Time for the moon night》一曲的 No Joo Hwan 和 Lee Won Jong 聯手打造，歌詞將喜歡的人比喻成還沒升起的太陽，描寫少女面對愛情心裡複雜的感情。\[1\]
 
-此外，《Sunrise》為延續迷你6輯主打曲《[Time For The Moon
-Night](../Page/Time_For_The_Moon_Night.md "wikilink")》，與《[Sunny
-Summer](../Page/Sunny_Summer.md "wikilink")》合稱**太陽月亮三部曲**。
+此外，《Sunrise》為延續迷你6輯主打曲《[Time For The Moon Night](../Page/Time_For_The_Moon_Night.md "wikilink")》，與《[Sunny Summer](../Page/Sunny_Summer.md "wikilink")》合稱**太陽月亮三部曲**。
 
 ## 事件
 
 2018年12月17日，官方宣布，目標隔年1月以正規專輯回歸。
 
-24日，GFRIEND透過官方Facebook及Instagram宣布將於2019年1月14日發行第二張正規專輯《Time for
-us》，並同時公開預告畫報\[2\]，並宣布主打歌名為《해야 (Sunrise)》，而這也是 GFRIEND
-繼2016年7月發行正規一輯《LOL》後時隔兩年半再次推出正規專輯\[3\]。
+24日，GFRIEND透過官方Facebook及Instagram宣布將於2019年1月14日發行第二張正規專輯《Time for us》，並同時公開預告畫報\[2\]，並宣布主打歌名為《해야 (Sunrise)》，而這也是 GFRIEND 繼2016年7月發行正規一輯《LOL》後時隔兩年半再次推出正規專輯\[3\]。
 
-25日，在官方 Facebook 公開曲目表，包含主打歌《Sunrise
-(해야)》與其純伴奏版，還有她們首張日文單曲《Memoria》的韓文版在內，總共收錄13首歌曲\[4\]。
+25日，在官方 Facebook 公開曲目表，包含主打歌《Sunrise (해야)》與其純伴奏版，還有她們首張日文單曲《Memoria》的韓文版在內，總共收錄13首歌曲\[4\]。
 
 ### 宣傳照公開
 
-2018年12月26-27日，在官方 Facebook 及 Instagram
-上公開了成員Sowon、Eunha(26日\[5\])、Yuju、Yerin、Umji、SinB(27日\[6\])的「Daybreak」版個人和分組概念照。
+2018年12月26-27日，在官方 Facebook 及 Instagram 上公開了成員Sowon、Eunha(26日\[5\])、Yuju、Yerin、Umji、SinB(27日\[6\])的「Daybreak」版個人和分組概念照。
 
 28日，在官方 Facebook 上公開了「Daybreak」版團體概念照\[7\]。
 
 2019年1月1日，透過官方 Facebook 公開主打歌《SUNRISE (해야)》的動態海報\[8\]。
 
-2日-4日，在官方 Facebook
-上公開了成員睿隣、信飛(2日\[9\])、所願、嚴智(3日\[10\])、銀河、裕株(4日\[11\])的「Daytime」版個人、分組概念照。
+2日-4日，在官方 Facebook 上公開了成員睿隣、信飛(2日\[9\])、所願、嚴智(3日\[10\])、銀河、裕株(4日\[11\])的「Daytime」版個人、分組概念照。
 
 5日，在官方 Facebook 及 Instagram 上公開「Daytime」版的團體概念照\[12\]。
 
-7日-9日，在官方 Facebook
-上公開了成員所願、裕株(7日\[13\])、睿隣、銀河(8日\[14\])、信飛、嚴智(9日\[15\])的「Midnight」版個人、分組概念照。
+7日-9日，在官方 Facebook 上公開了成員所願、裕株(7日\[13\])、睿隣、銀河(8日\[14\])、信飛、嚴智(9日\[15\])的「Midnight」版個人、分組概念照。
 
 10日，在官方 Facebook 及 Instagram 上公開「Midnight」版的團體概念照\[16\]。
 
 ### 歌詞預告公開
 
-2018年12月29日，在官方 Facebook 上公開了 《You are not alone》、《L.U.V.（기적을
-넘어）》、《GLOW（만화경）》的部分歌詞照片\[17\]。
+2018年12月29日，在官方 Facebook 上公開了 《You are not alone》、《L.U.V.（기적을 넘어）》、《GLOW（만화경）》的部分歌詞照片\[17\]。
 
 30日，在官方 Facebook 上公開了 《Our Secret》、《Only 1》、《Truly Love》的部分歌詞照片\[18\]。
 
-2019年1月6日，在官方 Facebook 上公開了 《Show Up（보호색）》、《It's You（겨울, 끝）》、《A Starry
-Sky》、《Love Oh Love》、《Memoria》（韓文版）的部分歌詞照片\[19\]\[20\]。
+2019年1月6日，在官方 Facebook 上公開了 《Show Up（보호색）》、《It's You（겨울, 끝）》、《A Starry Sky》、《Love Oh Love》、《Memoria》（韓文版）的部分歌詞照片\[19\]\[20\]。
 
 1月11日，在官方 Facebook 上公開了主打歌《해야(Sunrise)》歌詞\[21\]。
 
 ### 預告片公開
 
-2019年1月5日，在官方 Facebook 及 Youtube 上公開主打歌《Sunrise (해야)》的 MV
-預告1。預告中，成員們在白天、黑夜交替的時間中，沉浸於感性的情緒，又與概念照展現出不一樣的魅力\[22\]。
+2019年1月5日，在官方 Facebook 及 Youtube 上公開主打歌《Sunrise (해야)》的 MV 預告1。預告中，成員們在白天、黑夜交替的時間中，沉浸於感性的情緒，又與概念照展現出不一樣的魅力\[22\]。
 
 12月27日及1月10日，GFRIEND 在《M\! Countdown》中透露主打歌《Sunrise (해야)》的重點舞蹈。
 
-1月12日，在官方 Facebook 及 Youtube 上公開主打歌《Sunrise (해야)》的 MV
-預告2。半分鐘左右的影片搭配著激昂弦樂伴奏，溫暖唯美的光影營造出夢幻氛圍\[23\]。
+1月12日，在官方 Facebook 及 Youtube 上公開主打歌《Sunrise (해야)》的 MV 預告2。半分鐘左右的影片搭配著激昂弦樂伴奏，溫暖唯美的光影營造出夢幻氛圍\[23\]。
 
 ### 獲得六個一位
 
-1月22日於《[The
-Show](https://zh.wikipedia.org/wiki/The_Show "wikilink")》中以8,617高分獲得**第一個一位**。
+1月22日於《[The Show](https://zh.wikipedia.org/wiki/The_Show "wikilink")》中以8,617高分獲得**第一個一位**。
 
-1月23日於《[Show
-Champion](../Page/Show_Champion.md "wikilink")》中獲得**第二個一位**。
+1月23日於《[Show Champion](../Page/Show_Champion.md "wikilink")》中獲得**第二個一位**。
 
-1月24日於《[M\!
-Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》中以7,653分獲得**第三個一位**。
+1月24日於《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》中以7,653分獲得**第三個一位**。
 
-1月25日於《[Music
-Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》中以5,600分獲得**第四個一位**。
+1月25日於《[Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》中以5,600分獲得**第四個一位**。
 
-1月26日於《[Show\!
-音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")》中以6,698分獲得**第五個一位**。
+1月26日於《[Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")》中以6,698分獲得**第五個一位**。
 
 1月27日於《[人氣歌謠](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")》中以7,594分獲得**第六個一位**。
 
@@ -123,7 +103,7 @@ Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》中以5,600分獲�
 | 1月18日                                                    | 해야 (Sunrise) Dance Practice ver.                           | [GFRIEND](https://www.youtube.com/watch?v=lRLpYD_Moa4) |
 |                                                          |                                                            |                                                        |
 
-### 主要音樂節目榜單排名
+## 主要音樂節目榜單排名
 
 <table>
 <thead>
@@ -175,31 +155,17 @@ Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》中以5,600分獲�
 
 ## 音源成績
 
-### 韓國音源榜
-
 | 排行榜（2019年） | 〈해야 (Sunrise)〉最高名次 |
 | ---------- | ------------------ |
 | 實時榜        | 日榜                 |
 | iChart     | 3                  |
 | Melon      | 6                  |
-| Mnet       | 2                  |
-| Bugs       | **1**              |
 | Genie      | 2                  |
+| Bugs       | **1**              |
+| Mnet       | 2                  |
 | Naver      | **1**              |
 | Soribada   | **1**              |
 |            |                    |
-
-### KKBOX排名
-
-| 地區排名 | 〈Sunrise〉最高名次 |
-| ---- | ------------- |
-| 新歌日榜 | 新歌週榜          |
-| 台灣   | **1**         |
-| 香港   | **1**         |
-| 馬來西亞 | **1**         |
-| 新加坡  | **1**         |
-| 日本   | **1**         |
-|      |               |
 
 ## 發行歷史
 
@@ -210,11 +176,7 @@ Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》中以5,600分獲�
 
 ## 參考資料
 
-[Category:GFRIEND](https://zh.wikipedia.org/wiki/Category:GFRIEND "wikilink")
-[Category:韩国音樂專輯](https://zh.wikipedia.org/wiki/Category:韩国音樂專輯 "wikilink")
-[Category:GFRIEND音乐专辑](https://zh.wikipedia.org/wiki/Category:GFRIEND音乐专辑 "wikilink")
-[Category:2019年音樂專輯](https://zh.wikipedia.org/wiki/Category:2019年音樂專輯 "wikilink")
-[Category:2019年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2019年Gaon數位下載週榜冠軍作品 "wikilink")
+[Category:GFRIEND](https://zh.wikipedia.org/wiki/Category:GFRIEND "wikilink") [Category:韩国音樂專輯](https://zh.wikipedia.org/wiki/Category:韩国音樂專輯 "wikilink") [Category:GFRIEND音乐专辑](https://zh.wikipedia.org/wiki/Category:GFRIEND音乐专辑 "wikilink") [Category:2019年音樂專輯](https://zh.wikipedia.org/wiki/Category:2019年音樂專輯 "wikilink") [Category:2019年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2019年Gaon數位下載週榜冠軍作品 "wikilink")
 
 1.
 2.

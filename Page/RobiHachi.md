@@ -1,12 +1,10 @@
-是由[STUDIO
-COMET公司製作原創SF的](../Page/STUDIO_COMET.md "wikilink")[電視動畫作品](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，\[1\]於[2019年](../Page/2019年.md "wikilink")4月起在[AT-X等電視台播放中](../Page/AT-X.md "wikilink")。
+是由[STUDIO COMET公司製作原創SF的](../Page/STUDIO_COMET.md "wikilink")[電視動畫作品](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，\[1\]於[2019年](../Page/2019年.md "wikilink")4月起在[AT-X](../Page/AT-X.md "wikilink")等電視台播放中。
 
-本作以[十返舍一九的](../Page/十返舍一九.md "wikilink")[滑稽本](https://zh.wikipedia.org/wiki/戲作#滑稽本 "wikilink")《[東海道中膝栗毛](../Page/東海道中膝栗毛.md "wikilink")》為藍本改編的SF動畫作品，包含的元素有人物的姓名、出身背景、個性以及地名等\[2\]。
+本作以[十返舍一九](../Page/十返舍一九.md "wikilink")的[滑稽本](https://zh.wikipedia.org/wiki/戲作#滑稽本 "wikilink")《[東海道中膝栗毛](../Page/東海道中膝栗毛.md "wikilink")》為藍本改編的SF動畫作品，包含的元素有人物的姓名、出身背景、個性以及地名等\[2\]。
 
 ## 劇情簡介
 
-G.C
-0051。半個世紀以來，人類與外星人建立了一個行星聯盟，現在是可以隨意享受太空旅行的時代。NEOTOKYO的有很多行星「伊斯坎達爾」的廣告。
+G.C 0051。半個世紀以來，人類與外星人建立了一個行星聯盟，現在是可以隨意享受太空旅行的時代。NEOTOKYO的有很多行星「伊斯坎達爾」的廣告。
 
 自由職業者**洛比·亞金**過著遇上各種不幸的事故後目前正被討債公司追捕日子。某日，被搶走包包的洛比受到**哈奇·基塔**這位青年的幫助，洛比作為回報請哈奇吃飯，吃飯時哈奇表示覺得世界很無趣，洛比表示因為哈奇太喜歡照著規矩來，才會覺得生活無聊。
 
@@ -55,11 +53,9 @@ G.C
 ## 主題曲
 
   - 片頭曲「」\[4\]（第1話－第12話）
-    作詞、作曲、編曲：[中山真斗](../Page/中山真斗.md "wikilink")；主唱：Hatchi（[河本啓佑](https://zh.wikipedia.org/wiki/河本啓佑 "wikilink")）
-    feat. Robby（[中井和哉](../Page/中井和哉.md "wikilink")）
+    作詞、作曲、編曲：[中山真斗](../Page/中山真斗.md "wikilink")；主唱：Hatchi（[河本啓佑](https://zh.wikipedia.org/wiki/河本啓佑 "wikilink")） feat. Robby（[中井和哉](../Page/中井和哉.md "wikilink")）
   - 片尾曲「」\[5\]（第2話－第11話）
-    作詞、作曲、編曲：yamazo；主唱：Allo（[木村昴](../Page/木村昴.md "wikilink")）\&Gras（[徳留慎乃佑](https://zh.wikipedia.org/wiki/徳留慎乃佑 "wikilink")）
-    feat.Yang（[杉田智和](../Page/杉田智和.md "wikilink")）
+    作詞、作曲、編曲：yamazo；主唱：Allo（[木村昴](../Page/木村昴.md "wikilink")）\&Gras（[徳留慎乃佑](https://zh.wikipedia.org/wiki/徳留慎乃佑 "wikilink")） feat.Yang（[杉田智和](../Page/杉田智和.md "wikilink")）
   - 插曲「」（第1話－第4話、第8話－第9話）
     作詞：[高松信司](../Page/高松信司.md "wikilink")；作曲、編曲：奥井康介；主唱：串田晃
 
@@ -213,8 +209,8 @@ G.C
 | -- | ------------- | --------- | ---------- |
 | BD | DVD           |           |            |
 | 1  | 2019年6月19日    | 第1話、第2話   | PCXG-50671 |
-| 2  | 預定2019年7月17日  | 第3話、第4話   | PCXG-50672 |
-| 4  | 預定2019年9月18日  | 第7話、第8話   | PCXG-50674 |
+| 2  | 2019年7月17日    | 第3話、第4話   | PCXG-50672 |
+| 3  | 預定2019年8月21日  | 第5話、第6話   | PCXG-50673 |
 | 5  | 預定2019年10月16日 | 第9話、第10話  | PCXG-50675 |
 | 6  | 預定2019年11月20日 | 第11話、第12話 | PCXG-50676 |
 
@@ -225,15 +221,7 @@ G.C
   - [電視動畫「RobiHachi」官方網站](https://robihachi.jp/)
 
   -
-[Category:2019年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2019年日本電視動畫 "wikilink")
-[Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
-[Category:UHF動畫](https://zh.wikipedia.org/wiki/Category:UHF動畫 "wikilink")
-[Category:AT-X動畫](https://zh.wikipedia.org/wiki/Category:AT-X動畫 "wikilink")
-[Category:STUDIO_COMET](https://zh.wikipedia.org/wiki/Category:STUDIO_COMET "wikilink")
-[Category:科幻動畫](https://zh.wikipedia.org/wiki/Category:科幻動畫 "wikilink")
-[Category:冒險動畫](https://zh.wikipedia.org/wiki/Category:冒險動畫 "wikilink")
-[Category:太空歌劇](https://zh.wikipedia.org/wiki/Category:太空歌劇 "wikilink")
-[Category:搞笑動畫](https://zh.wikipedia.org/wiki/Category:搞笑動畫 "wikilink")
+[Category:2019年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2019年日本電視動畫 "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink") [Category:UHF動畫](https://zh.wikipedia.org/wiki/Category:UHF動畫 "wikilink") [Category:AT-X動畫](https://zh.wikipedia.org/wiki/Category:AT-X動畫 "wikilink") [Category:STUDIO_COMET](https://zh.wikipedia.org/wiki/Category:STUDIO_COMET "wikilink") [Category:科幻動畫](https://zh.wikipedia.org/wiki/Category:科幻動畫 "wikilink") [Category:冒險動畫](https://zh.wikipedia.org/wiki/Category:冒險動畫 "wikilink") [Category:太空歌劇](https://zh.wikipedia.org/wiki/Category:太空歌劇 "wikilink") [Category:搞笑動畫](https://zh.wikipedia.org/wiki/Category:搞笑動畫 "wikilink")
 
 1.
 2.

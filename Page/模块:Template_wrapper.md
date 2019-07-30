@@ -1,14 +1,8 @@
 require('Module:No globals');
 
-local error_msg =
-'<span style=\"font-size:100%\" class=\"error\">\<code
-style=\\"color:inherit; border:inherit;
-padding:inherit;\\"\>|_template=</code> missing or empty</span>';
+local error_msg = '<span style=\"font-size:100%\" class=\"error\">\<code style=\\"color:inherit; border:inherit; padding:inherit;\\"\>|_template=</code> missing or empty</span>';
 
-\--[--------------------------\< I S _ I N _ T A B L E
-\>-------------------------------------------------------- scan through
-tbl looking for value; return true if found, false
-else](https://zh.wikipedia.org/wiki/--------------------------\<_I_S_I_N_T_A_B_L_E_\>--------------------------------------------------------_scan_through_tbl_looking_for_value;_return_true_if_found,_false_else "wikilink")
+\--[--------------------------\< I S _ I N _ T A B L E \>-------------------------------------------------------- scan through tbl looking for value; return true if found, false else](https://zh.wikipedia.org/wiki/--------------------------\<_I_S_I_N_T_A_B_L_E_\>--------------------------------------------------------_scan_through_tbl_looking_for_value;_return_true_if_found,_false_else "wikilink")
 
 local function is_in_table (tbl, value)
 
@@ -19,11 +13,7 @@ local function is_in_table (tbl, value)
 
 end
 
-\--[--------------------------\< A D D _ P A R A M E T E R
-\>---------------------------------------------------- adds parameter
-name and its value to args table according to the state of boolean list
-argument; kv pair for template execution; k=v string for template
-listing.](https://zh.wikipedia.org/wiki/--------------------------\<_A_D_D_P_A_R_A_M_E_T_E_R_\>----------------------------------------------------_adds_parameter_name_and_its_value_to_args_table_according_to_the_state_of_boolean_list_argument;_kv_pair_for_template_execution;_k=v_string_for_template_listing. "wikilink")
+\--[--------------------------\< A D D _ P A R A M E T E R \>---------------------------------------------------- adds parameter name and its value to args table according to the state of boolean list argument; kv pair for template execution; k=v string for template listing.](https://zh.wikipedia.org/wiki/--------------------------\<_A_D_D_P_A_R_A_M_E_T_E_R_\>----------------------------------------------------_adds_parameter_name_and_its_value_to_args_table_according_to_the_state_of_boolean_list_argument;_kv_pair_for_template_execution;_k=v_string_for_template_listing. "wikilink")
 
 local function add_parameter (k, v, args, list)
 
@@ -35,11 +25,9 @@ local function add_parameter (k, v, args, list)
 
 end
 
-\--\[\[--------------------------\< A L I A S _ M A P _ G E T
-\>----------------------------------------------------
+\--\[\[--------------------------\< A L I A S _ M A P _ G E T \>----------------------------------------------------
 
-returns a table of local template (parent frame) parameter names and the
-target template names that match where in \[key\]=<value> pairs where:
+returns a table of local template (parent frame) parameter names and the target template names that match where in \[key\]=<value> pairs where:
 
 `   [key] is local template parameter name (an alias)`
 `   `<value>` is target template parameter name (the canonical parameter name used in the working template)`
@@ -48,8 +36,7 @@ The parameter |_alias-map= has the form:
 
 `   |_alias-map=`<list>
 
-where <list> is a comma-separated list of alias / canonical parameter
-name pairs in the form
+where <list> is a comma-separated list of alias / canonical parameter name pairs in the form
 
 `   `<from>` : `<to>
 
@@ -82,14 +69,11 @@ local function alias_map_get (_alias_map)
 
 end
 
-\--\[\[--------------------------\< F R A M E _ A R G S _ G E T
-\>--------------------------------------------------
+\--\[\[--------------------------\< F R A M E _ A R G S _ G E T \>--------------------------------------------------
 
-Fetch the wrapper template's 'default' and control parameters; adds
-default parameters to args
+Fetch the wrapper template's 'default' and control parameters; adds default parameters to args
 
-returns content of |_template= parameter (name of the working
-template); nil else
+returns content of |_template= parameter (name of the working template); nil else
 
 \]\]
 
@@ -111,19 +95,15 @@ local function frame_args_get (frame_args, args, list)
 
 end
 
-\--\[=\[--------------------------\< P F R A M E _ A R G S _ G E T
-\>------------------------------------------------
+\--\[=\[--------------------------\< P F R A M E _ A R G S _ G E T \>------------------------------------------------
 
-Fetches the wrapper template's 'live' parameters; adds live parameters
-that aren't members of the exclude table to args table; positional
-parameters may not be excluded
+Fetches the wrapper template's 'live' parameters; adds live parameters that aren't members of the exclude table to args table; positional parameters may not be excluded
 
 no return value
 
 \]=\]
 
-local function pframe_args_get (pframe_args, args, exclude,
-_include_positional, list)
+local function pframe_args_get (pframe_args, args, exclude, _include_positional, list)
 
 `   for k, v in pairs (pframe_args) do`
 `       if 'string' == type (k) and not is_in_table (exclude, k) then           -- do not pass along excluded parameters`
@@ -147,12 +127,7 @@ _include_positional, list)
 
 end
 
-\--[--------------------------\< _ M A I N
-\>--------------------------------------------------------------------
-Collect the various default and live parameters into args styled
-according to boolean list. returns name of the working or listed
-template or nil for an error
-message](https://zh.wikipedia.org/wiki/--------------------------\<_M_A_I_N_\>--------------------------------------------------------------------_Collect_the_various_default_and_live_parameters_into_args_styled_according_to_boolean_list._returns_name_of_the_working_or_listed_template_or_nil_for_an_error_message "wikilink")
+\--[--------------------------\< _ M A I N \>-------------------------------------------------------------------- Collect the various default and live parameters into args styled according to boolean list. returns name of the working or listed template or nil for an error message](https://zh.wikipedia.org/wiki/--------------------------\<_M_A_I_N_\>--------------------------------------------------------------------_Collect_the_various_default_and_live_parameters_into_args_styled_according_to_boolean_list._returns_name_of_the_working_or_listed_template_or_nil_for_an_error_message "wikilink")
 
 local function _main (frame, args, list)
 
@@ -190,13 +165,7 @@ local function _main (frame, args, list)
 `   end`
 `   `
 
-\-- here we look for pframe parameters that are aliases of canonical
-parameter names; when found -- we replace the alias with the canonical.
-We do this here because the reuse_list works on -- canonical parameter
-names so first we convert alias parameter names to canonical names and
-then -- we remove those canonical names from the pframe table that are
-reused (provided to the working -- template through the frame args
-table)
+\-- here we look for pframe parameters that are aliases of canonical parameter names; when found -- we replace the alias with the canonical. We do this here because the reuse_list works on -- canonical parameter names so first we convert alias parameter names to canonical names and then -- we remove those canonical names from the pframe table that are reused (provided to the working -- template through the frame args table)
 
 `   for k, v in pairs (alias_map) do                                            -- k is alias name, v is canonical name`
 `       if pframe_args[k] then                                                  -- if pframe_args has parameter with alias name`
@@ -222,12 +191,7 @@ table)
 `       end`
 `   end`
 
-\-- pframe parameters that are _reused are 'reused' have the form
-something like this: --
-|chapter=[](https://zh.wikipedia.org/wiki/wikisource:{{{chapter}}} "wikilink")
--- where a parameter in the wrapping template is modified and then
-passed to the working template -- using the same parameter name (in this
-example |chapter=)
+\-- pframe parameters that are _reused are 'reused' have the form something like this: -- |chapter=[](https://zh.wikipedia.org/wiki/wikisource:{{{chapter}}} "wikilink") -- where a parameter in the wrapping template is modified and then passed to the working template -- using the same parameter name (in this example |chapter=)
 
 `                                                                               -- remove parameters that will be reused`
 `   for k, v in ipairs (reuse_list) do                                          -- k is numerical index, v is canonical parameter name to ignore`
@@ -242,10 +206,7 @@ example |chapter=)
 
 end
 
-\--[--------------------------\< W R A P
-\>----------------------------------------------------------------------
-Template entry point. Call this function to 'execute' the working
-template](https://zh.wikipedia.org/wiki/--------------------------\<_W_R_A_P_\>----------------------------------------------------------------------_Template_entry_point._Call_this_function_to_'execute'_the_working_template "wikilink")
+\--[--------------------------\< W R A P \>---------------------------------------------------------------------- Template entry point. Call this function to 'execute' the working template](https://zh.wikipedia.org/wiki/--------------------------\<_W_R_A_P_\>----------------------------------------------------------------------_Template_entry_point._Call_this_function_to_'execute'_the_working_template "wikilink")
 
 local function wrap (frame)
 
@@ -261,15 +222,7 @@ local function wrap (frame)
 
 end
 
-\--[--------------------------\< L I S T
-\>----------------------------------------------------------------------
-Template entry point. Call this function to 'display' the source for the
-working template. This function added as a result of a TfD here:
-Wikipedia:Templates_for_discussion/Log/2018_April_28\#Module:PassArguments
-This function replaces a similarly named function which was used in
-{{cite compare}} and {{cite compare2}} Values in the args table are
-numerically indexed strings in the form
-'name=value'](https://zh.wikipedia.org/wiki/--------------------------\<_L_I_S_T_\>----------------------------------------------------------------------_Template_entry_point._Call_this_function_to_'display'_the_source_for_the_working_template._This_function_added_as_a_result_of_a_TfD_here:_Wikipedia:Templates_for_discussion/Log/2018_April_28#Module:PassArguments_This_function_replaces_a_similarly_named_function_which_was_used_in_{{cite_compare}}_and_{{cite_compare2}}_Values_in_the_args_table_are_numerically_indexed_strings_in_the_form_'name=value' "wikilink")
+\--[--------------------------\< L I S T \>---------------------------------------------------------------------- Template entry point. Call this function to 'display' the source for the working template. This function added as a result of a TfD here: Wikipedia:Templates_for_discussion/Log/2018_April_28\#Module:PassArguments This function replaces a similarly named function which was used in {{cite compare}} and {{cite compare2}} Values in the args table are numerically indexed strings in the form 'name=value'](https://zh.wikipedia.org/wiki/--------------------------\<_L_I_S_T_\>----------------------------------------------------------------------_Template_entry_point._Call_this_function_to_'display'_the_source_for_the_working_template._This_function_added_as_a_result_of_a_TfD_here:_Wikipedia:Templates_for_discussion/Log/2018_April_28#Module:PassArguments_This_function_replaces_a_similarly_named_function_which_was_used_in_{{cite_compare}}_and_{{cite_compare2}}_Values_in_the_args_table_are_numerically_indexed_strings_in_the_form_'name=value' "wikilink")
 
 local function list (frame)
 
@@ -281,13 +234,11 @@ local function list (frame)
 `       return error_msg;                                                       -- emit error message and abandon if template name not present`
 `   end`
 
-`   return frame:preprocess (table.concat ({'{{', template, ' |',
-table.concat( args, ' |' ), '}}'}));    -- render the template`
+`   return frame:preprocess (table.concat ({'{{', template, ' |', table.concat( args, ' |' ), '}}'}));    -- render the template`
 
 end
 
-\--[--------------------------\< E X P O R T E D F U N C T I O N S
-\>------------------------------------------](https://zh.wikipedia.org/wiki/--------------------------\<_E_X_P_O_R_T_E_D_F_U_N_C_T_I_O_N_S_\>------------------------------------------ "wikilink")
+\--[--------------------------\< E X P O R T E D F U N C T I O N S \>------------------------------------------](https://zh.wikipedia.org/wiki/--------------------------\<_E_X_P_O_R_T_E_D_F_U_N_C_T_I_O_N_S_\>------------------------------------------ "wikilink")
 
 return {
 

@@ -1,5 +1,4 @@
-**GIRLS' GENERATION -PHANTASIA- WORLD
-TOUR**是韓國女子組合[少女時代第](https://zh.wikipedia.org/wiki/少女時代 "wikilink")4次亞洲巡迴演唱會。
+**GIRLS' GENERATION -PHANTASIA- WORLD TOUR**是韓國女子組合[少女時代第](https://zh.wikipedia.org/wiki/少女時代 "wikilink")4次亞洲巡迴演唱會。
 
 ## 巡迴時間表
 
@@ -73,8 +72,7 @@ TOUR**是韓國女子組合[少女時代第](https://zh.wikipedia.org/wiki/少�
 
 <!-- end list -->
 
-  - [少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")
-    （[太妍](../Page/太妍.md "wikilink")、[Sunny](https://zh.wikipedia.org/wiki/李順圭 "wikilink")、[Tiffany](https://zh.wikipedia.org/wiki/黃美英 "wikilink")、[孝淵](https://zh.wikipedia.org/wiki/金孝淵 "wikilink")、[Yuri](https://zh.wikipedia.org/wiki/權俞利 "wikilink")、[秀英](https://zh.wikipedia.org/wiki/崔秀英 "wikilink")、[潤娥](https://zh.wikipedia.org/wiki/潤娥 "wikilink")、[徐玄](https://zh.wikipedia.org/wiki/徐玄 "wikilink")）
+  - [少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink") （[太妍](../Page/太妍.md "wikilink")、[Sunny](https://zh.wikipedia.org/wiki/李順圭 "wikilink")、[Tiffany](https://zh.wikipedia.org/wiki/黃美英 "wikilink")、[孝淵](https://zh.wikipedia.org/wiki/金孝淵 "wikilink")、[Yuri](https://zh.wikipedia.org/wiki/權俞利 "wikilink")、[秀英](https://zh.wikipedia.org/wiki/崔秀英 "wikilink")、[潤娥](https://zh.wikipedia.org/wiki/潤娥 "wikilink")、[徐玄](https://zh.wikipedia.org/wiki/徐玄 "wikilink")）
 
 <!-- end list -->
 
@@ -82,9 +80,7 @@ TOUR**是韓國女子組合[少女時代第](https://zh.wikipedia.org/wiki/少�
 
 <!-- end list -->
 
-  - [SM
-    Entertainment](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")、Dream
-    Maker Entertainment
+  - [SM Entertainment](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")、Dream Maker Entertainment
 
 <!-- end list -->
 
@@ -107,6 +103,4 @@ TOUR**是韓國女子組合[少女時代第](https://zh.wikipedia.org/wiki/少�
   -
   -
 
-[Category:2015年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2015年巡迴演唱會 "wikilink")
-[Category:少女時代](https://zh.wikipedia.org/wiki/Category:少女時代 "wikilink")
-[Category:少女時代巡迴演唱會](https://zh.wikipedia.org/wiki/Category:少女時代巡迴演唱會 "wikilink")
+[Category:2015年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2015年巡迴演唱會 "wikilink") [Category:少女時代](https://zh.wikipedia.org/wiki/Category:少女時代 "wikilink") [Category:少女時代巡迴演唱會](https://zh.wikipedia.org/wiki/Category:少女時代巡迴演唱會 "wikilink")

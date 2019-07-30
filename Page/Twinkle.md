@@ -6,8 +6,7 @@
 
   - （1948-2015），英国创作型歌手
 
-  - [婷蔻·坎纳](../Page/婷蔻·坎纳.md "wikilink")（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：）
-    ，印度电影女演员
+  - [婷蔻·坎纳](../Page/婷蔻·坎纳.md "wikilink")（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：） ，印度电影女演员
 
   - ，真人秀*Sa Re Ga Ma Pa Challenge 2005*中的女选手
 
@@ -31,18 +30,14 @@
 
   - Twinkle，英国情景喜剧**反复出现的虚构人物
 
-  - Twinkle，由RA Salvatore的角色[Drizzt
-    Do'Urden携带的剑](../Page/崔斯特·杜垩登.md "wikilink")
+  - Twinkle，由RA Salvatore的角色[Drizzt Do'Urden携带的剑](../Page/崔斯特·杜垩登.md "wikilink")
 
   - Twinkles，一部出现在**的卡通大象
 
 ## 音乐
 
-  - [Twinkle (EP)](../Page/Twinkle_\(EP\).md "wikilink")
-    ，由少女时代小分队[少女时代-太蒂徐演唱的EP](https://zh.wikipedia.org/wiki/少女时代-太蒂徐 "wikilink")。
-      - [“Twinkle”（少女时代 -
-        TTS歌曲）](https://zh.wikipedia.org/wiki/Twinkle_\(EP\)#曲目 "wikilink")
-        ，上述EP主打歌
-  - [倖田來未和Show](../Page/倖田來未.md "wikilink") Luo的歌曲“Twinkle”
+  - [Twinkle (EP)](../Page/Twinkle_\(EP\).md "wikilink") ，由少女时代小分队[少女时代-太蒂徐演唱的EP](https://zh.wikipedia.org/wiki/少女时代-太蒂徐 "wikilink")。
+      - [“Twinkle”（少女时代 - TTS歌曲）](https://zh.wikipedia.org/wiki/Twinkle_\(EP\)#曲目 "wikilink") ，上述EP主打歌
+  - [倖田來未](../Page/倖田來未.md "wikilink")和Show Luo的歌曲“Twinkle”
   - “Twinkle”，1981年单曲
   - “Twinkle”，1996年单曲“

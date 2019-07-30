@@ -2,11 +2,9 @@
 
 这首歌被收录在[科乐美的](https://zh.wikipedia.org/wiki/科乐美 "wikilink")[音乐游戏](https://zh.wikipedia.org/wiki/音乐游戏 "wikilink")"[劲舞革命](https://zh.wikipedia.org/wiki/劲舞革命 "wikilink")"的第一个版本后，在瑞典以外的地区广受欢迎。为了纪念这首歌的流行，这首歌被重新混音到2008年的"劲舞革命X"中，用于庆祝该系列已发行10周年。\[1\]在2010年代，这首歌作为[中国制造的玩具手机流行歌曲也成为了](https://zh.wikipedia.org/wiki/中国制造 "wikilink")[-{zh-cn:网络梗;zh-tw:網路迷因;zh-hk:Meme}-](../Page/網路爆紅事物.md "wikilink")。
 
-2009年，这首歌由维罗妮卡和马林重新录制。该版本于2009年5月13日作为单曲发行，并被命名为"'Butterfly'09
-(联合部队航空特辑)”。
+2009年，这首歌由维罗妮卡和马林重新录制。该版本于2009年5月13日作为单曲发行，并被命名为"'Butterfly'09 (联合部队航空特辑)”。
 
-[南非的](https://zh.wikipedia.org/wiki/南非 "wikilink")[回答乐队在](../Page/回答樂團.md "wikilink")"劲舞革命X"中听过这首歌后，在他们的热门单曲"Enter
-the Ninja"中融合了这首歌的元素。\[2\]
+[南非的](https://zh.wikipedia.org/wiki/南非 "wikilink")[回答乐队在](../Page/回答樂團.md "wikilink")"劲舞革命X"中听过这首歌后，在他们的热门单曲"Enter the Ninja"中融合了这首歌的元素。\[2\]
 
 ## 歌曲MV
 

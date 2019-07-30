@@ -9,7 +9,6 @@
 
 ## 参考文献
 
-[Category:NICONICO動畫](https://zh.wikipedia.org/wiki/Category:NICONICO動畫 "wikilink")
-[Category:御宅族](https://zh.wikipedia.org/wiki/Category:御宅族 "wikilink")
+[Category:NICONICO動畫](https://zh.wikipedia.org/wiki/Category:NICONICO動畫 "wikilink") [Category:御宅族](https://zh.wikipedia.org/wiki/Category:御宅族 "wikilink")
 
 1.  [「優先視聴基準について」](http://help.nicovideo.jp/live/2009/06/post-27.html)

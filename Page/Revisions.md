@@ -1,4 +1,4 @@
-《**revisions**》是[白組製作的日本原創動畫](../Page/白組.md "wikilink")，[谷口悟朗監督](../Page/谷口悟朗.md "wikilink")，電視動畫於2019年1月10日首播\[1\]。
+《**revisions**》是[白組](../Page/白組.md "wikilink")製作的日本原創動畫，[谷口悟朗](../Page/谷口悟朗.md "wikilink")監督，電視動畫於2019年1月10日首播\[1\]。
 
 ## 登場人物
 
@@ -309,19 +309,8 @@
   - [電視動畫《revisions》官網](http://revisions.jp/)
 
   -
-  - [revisions
-    ｜月刊少年天狼星](http://shonen-sirius.com/series/sirius/revisions/)
+  - [revisions ｜月刊少年天狼星](http://shonen-sirius.com/series/sirius/revisions/)
 
-[Category:2019年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2019年日本電視動畫 "wikilink")
-[Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
-[Category:科幻動畫](https://zh.wikipedia.org/wiki/Category:科幻動畫 "wikilink")
-[Category:時間旅行動畫](https://zh.wikipedia.org/wiki/Category:時間旅行動畫 "wikilink")
-[Category:電腦動畫](https://zh.wikipedia.org/wiki/Category:電腦動畫 "wikilink")
-[Category:富士電視台動畫](https://zh.wikipedia.org/wiki/Category:富士電視台動畫 "wikilink")
-[Category:澀谷背景作品](https://zh.wikipedia.org/wiki/Category:澀谷背景作品 "wikilink")
-[Category:月刊少年天狼星](https://zh.wikipedia.org/wiki/Category:月刊少年天狼星 "wikilink")
-[Category:科幻漫畫](https://zh.wikipedia.org/wiki/Category:科幻漫畫 "wikilink")
-[Category:2018年小說](https://zh.wikipedia.org/wiki/Category:2018年小說 "wikilink")
-[Category:時間旅行題材小說](https://zh.wikipedia.org/wiki/Category:時間旅行題材小說 "wikilink")
+[Category:2019年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2019年日本電視動畫 "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink") [Category:科幻動畫](https://zh.wikipedia.org/wiki/Category:科幻動畫 "wikilink") [Category:時間旅行動畫](https://zh.wikipedia.org/wiki/Category:時間旅行動畫 "wikilink") [Category:電腦動畫](https://zh.wikipedia.org/wiki/Category:電腦動畫 "wikilink") [Category:富士電視台動畫](https://zh.wikipedia.org/wiki/Category:富士電視台動畫 "wikilink") [Category:澀谷背景作品](https://zh.wikipedia.org/wiki/Category:澀谷背景作品 "wikilink") [Category:月刊少年天狼星](https://zh.wikipedia.org/wiki/Category:月刊少年天狼星 "wikilink") [Category:科幻漫畫](https://zh.wikipedia.org/wiki/Category:科幻漫畫 "wikilink") [Category:2018年小說](https://zh.wikipedia.org/wiki/Category:2018年小說 "wikilink") [Category:時間旅行題材小說](https://zh.wikipedia.org/wiki/Category:時間旅行題材小說 "wikilink")
 
 1.

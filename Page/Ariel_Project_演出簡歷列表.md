@@ -1,9 +1,6 @@
-**Ariel Project
-演出簡歷列表**是[香港日系](../Page/香港.md "wikilink")[女子偶像組合Ariel](https://zh.wikipedia.org/wiki/女子偶像組合 "wikilink")
-Project 的演出歷程記錄。
+**Ariel Project 演出簡歷列表**是[香港](../Page/香港.md "wikilink")日系[女子偶像組合Ariel](https://zh.wikipedia.org/wiki/女子偶像組合 "wikilink") Project 的演出歷程記錄。
 
-有關本組合的最近期簡歷、成員簡介、音樂作品、及媒體報導/訪問內容，請參照**[Ariel
-Project](../Page/Ariel_Project.md "wikilink")**。
+有關本組合的最近期簡歷、成員簡介、音樂作品、及媒體報導/訪問內容，請參照**[Ariel Project](../Page/Ariel_Project.md "wikilink")**。
 
 ## 演出簡歷
 
@@ -302,9 +299,9 @@ Project](../Page/Ariel_Project.md "wikilink")**。
 <li>Orange Stage[21]</li>
 <li>Peach Stage[22]</li>
 </ul></td>
-<td><p><strong><em>首隊獲邀出演@JAM EXPO的香港Idol組合</em></strong> 參演組合多達175隊，包括<a href="../Page/櫸坂46.md" title="wikilink">欅坂46</a>、<a href="../Page/東京女子流.md" title="wikilink">東京女子流</a>、<a href="../Page/私立惠比壽中學.md" title="wikilink">私立惠比壽中學</a>、<a href="../Page/電波組.inc.md" title="wikilink">電波組.inc等</a></p>
+<td><p><strong><em>首隊獲邀出演@JAM EXPO的香港Idol組合</em></strong> 參演組合多達175隊，包括<a href="../Page/櫸坂46.md" title="wikilink">欅坂46</a>、<a href="../Page/東京女子流.md" title="wikilink">東京女子流</a>、<a href="../Page/私立惠比壽中學.md" title="wikilink">私立惠比壽中學</a>、<a href="../Page/電波組.inc.md" title="wikilink">電波組.inc</a>等</p>
 <p>首次穿上由Hinako設計的演出服</p>
-<p>Aoi成為首位能夠與<a href="../Page/櫸坂46.md" title="wikilink">欅坂46Center</a>—<a href="../Page/平手友梨奈.md" title="wikilink">平手友梨奈合照的香港人</a><sup><a href="https://zh.wikipedia.org/wiki/Ariel_Project#cite_note-:3-21" title="wikilink">[21</a>]</sup></p>
+<p>Aoi成為首位能夠與<a href="../Page/櫸坂46.md" title="wikilink">欅坂46Center</a>—<a href="../Page/平手友梨奈.md" title="wikilink">平手友梨奈</a>合照的香港人<sup><a href="https://zh.wikipedia.org/wiki/Ariel_Project#cite_note-:3-21" title="wikilink">[21</a>]</sup></p>
 <p>Seina及Nanami代表上台拍攝全場大合照</p>
 <p>Seina參與日本偶像專題雜誌《iSP》訪問及拍攝工作</p></td>
 <td></td>
@@ -729,7 +726,7 @@ Project](../Page/Ariel_Project.md "wikilink")**。
 </tr>
 <tr class="odd">
 <td><p>17</p></td>
-<td><p><strong><em>Nanami聯同另外7位日本偶像獲邀與<a href="../Page/電波組.inc.md" title="wikilink">電波組.inc成員</a><a href="../Page/成瀨瑛美.md" title="wikilink">成瀬瑛美組成Collaboration</a> Unit，將以<a href="../Page/電波組.inc.md" title="wikilink">電波組.inc的</a>「でんでんぱっしょん」為歌曲於@JAM EXPO 2017參演「EXPO Special JAM Session②」環節。</em></strong>成員們於本日進行首次練習[60] 其他參演成員包括：茜空(桜エビ～ず)、石井栞(Fullfull☆Pocket)、桜井ゆい(じぇるの！)、しふぉん(ゆるめるモ！)、中沖凜(アップアップガールズ(2))、眞城ゆうか(Chu☆Oh！Dolly)、松本ルナ(predia)</p></td>
+<td><p><strong><em>Nanami聯同另外7位日本偶像獲邀與<a href="../Page/電波組.inc.md" title="wikilink">電波組.inc</a>成員<a href="../Page/成瀨瑛美.md" title="wikilink">成瀬瑛美組成Collaboration</a> Unit，將以<a href="../Page/電波組.inc.md" title="wikilink">電波組.inc</a>的「でんでんぱっしょん」為歌曲於@JAM EXPO 2017參演「EXPO Special JAM Session②」環節。</em></strong>成員們於本日進行首次練習[60] 其他參演成員包括：茜空(桜エビ～ず)、石井栞(Fullfull☆Pocket)、桜井ゆい(じぇるの！)、しふぉん(ゆるめるモ！)、中沖凜(アップアップガールズ(2))、眞城ゆうか(Chu☆Oh！Dolly)、松本ルナ(predia)</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -793,7 +790,7 @@ Project](../Page/Ariel_Project.md "wikilink")**。
 <td><p>28</p></td>
 <td><p>SHOWROOM 直播室 (日本)</p></td>
 <td><p>「@JAM THE WORLD」SHOWROOM生放送[69]</p></td>
-<td><p><strong><em>首次身處日本SHOWROOM直播室參與生放送</em></strong> 節目主持是@JAM總製作人橋元惠一先生，同場嘉賓包括偶像組合愛乙女☆DOLL及<a href="../Page/SUPER☆GiRLS.md" title="wikilink">SUPER☆GiRLS成員內村莉彩</a></p></td>
+<td><p><strong><em>首次身處日本SHOWROOM直播室參與生放送</em></strong> 節目主持是@JAM總製作人橋元惠一先生，同場嘉賓包括偶像組合愛乙女☆DOLL及<a href="../Page/SUPER☆GiRLS.md" title="wikilink">SUPER☆GiRLS</a>成員內村莉彩</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -827,8 +824,8 @@ Project](../Page/Ariel_Project.md "wikilink")**。
 </tr>
 <tr class="odd">
 <td><p>23</p></td>
-<td><p><a href="../Page/電波組.inc.md" title="wikilink">電波組.inc冠名之綜藝電視節目</a>—<a href="../Page/電波之神神.md" title="wikilink">電波之神神</a> (日文：でんぱの神神) 第225集[72]</p></td>
-<td><p>由於Nanami在@JAM EXPO 2017期間獲邀與<a href="../Page/電波組.inc.md" title="wikilink">電波組.inc成員</a><a href="../Page/成瀨瑛美.md" title="wikilink">成瀬瑛美合組Unit演出</a>，所以她同時獲邀於節目內現身</p></td>
+<td><p><a href="../Page/電波組.inc.md" title="wikilink">電波組.inc</a>冠名之綜藝電視節目—<a href="../Page/電波之神神.md" title="wikilink">電波之神神</a> (日文：でんぱの神神) 第225集[72]</p></td>
+<td><p>由於Nanami在@JAM EXPO 2017期間獲邀與<a href="../Page/電波組.inc.md" title="wikilink">電波組.inc</a>成員<a href="../Page/成瀨瑛美.md" title="wikilink">成瀬瑛美合組Unit演出</a>，所以她同時獲邀於節目內現身</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1315,7 +1312,7 @@ Project](../Page/Ariel_Project.md "wikilink")**。
 <td><p>8</p></td>
 <td><p>淺草九スタch. (日本)</p></td>
 <td><p>《林愛夏のうにょうにょルーム》[110] 募集テーマ：テンションの上がる曲</p></td>
-<td><p>前<a href="../Page/Babyraids_Japan.md" title="wikilink">Babyraids JAPAN成員林愛夏邀請香港歌手</a><a href="../Page/吳業坤.md" title="wikilink">吳業坤到個人生放節目擔任嘉賓</a>；<strong><em>期間Hinako獲邀為他們擔任即時翻譯</em></strong>[111]</p></td>
+<td><p>前<a href="../Page/Babyraids_Japan.md" title="wikilink">Babyraids JAPAN成員林愛夏邀請香港歌手</a><a href="../Page/吳業坤.md" title="wikilink">吳業坤</a>到個人生放節目擔任嘉賓；<strong><em>期間Hinako獲邀為他們擔任即時翻譯</em></strong>[111]</p></td>
 </tr>
 <tr class="even">
 <td><p>12</p></td>
@@ -1465,7 +1462,7 @@ Project](../Page/Ariel_Project.md "wikilink")**。
 <td><p>3-5</p></td>
 <td><p>台場 青海(Aomi) 周邊區域 (日本)</p></td>
 <td><p>「夏に台場で會おう！」應援計劃[128]</p></td>
-<td><p><strong><em>6位成員於Tokyo Idol Festival 2018 (TIF2018)期間，在<a href="../Page/9nine.md" title="wikilink">9nine和</a><a href="../Page/Babyraids_Japan.md" title="wikilink">Babyraids JAPAN的物販攤位作協力合作和宣傳</a></em></strong></p></td>
+<td><p><strong><em>6位成員於Tokyo Idol Festival 2018 (TIF2018)期間，在<a href="../Page/9nine.md" title="wikilink">9nine</a>和<a href="../Page/Babyraids_Japan.md" title="wikilink">Babyraids JAPAN的物販攤位作協力合作和宣傳</a></em></strong></p></td>
 <td></td>
 </tr>
 <tr class="odd">

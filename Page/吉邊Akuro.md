@@ -8,8 +8,7 @@
 
 ### 連載漫畫
 
-  - （[SQUARE
-    ENIX](https://zh.wikipedia.org/wiki/SQUARE_ENIX "wikilink")2010年6月號－2014年9月號）
+  - （[SQUARE ENIX](https://zh.wikipedia.org/wiki/SQUARE_ENIX "wikilink")2010年6月號－2014年9月號）
 
   - （SQUARE ENIX2015年4月號－2015年6月號）
 
@@ -19,8 +18,7 @@
 
 ### 單篇漫畫
 
-  - （[SQUARE
-    ENIX](https://zh.wikipedia.org/wiki/SQUARE_ENIX "wikilink")）
+  - （[SQUARE ENIX](https://zh.wikipedia.org/wiki/SQUARE_ENIX "wikilink")）
 
   - （[芳文社](../Page/芳文社.md "wikilink")）
 
@@ -30,7 +28,6 @@
 
   -
   -
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
-[Category:日本漫画家](https://zh.wikipedia.org/wiki/Category:日本漫画家 "wikilink")
+[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:日本漫画家](https://zh.wikipedia.org/wiki/Category:日本漫画家 "wikilink")
 
 1.

@@ -2,7 +2,7 @@
 
 ## 生涯
 
-Kyla出生於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[印第安納州](https://zh.wikipedia.org/wiki/印第安納州 "wikilink")，在[洛杉磯長大](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")，2014年搬到[首爾居住](../Page/首爾.md "wikilink")。
+Kyla出生於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[印第安納州](https://zh.wikipedia.org/wiki/印第安納州 "wikilink")，在[洛杉磯長大](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")，2014年搬到[首爾](../Page/首爾.md "wikilink")居住。
 
 ## 出道前
 
@@ -10,7 +10,7 @@ Kyla出生於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[印第安
 
 ## PRISTIN
 
-2017年3月21日Kyla作為[PRISTIN的成員正式出道](https://zh.wikipedia.org/wiki/PRISTIN "wikilink")\[3\]2017年10月12日，[Pledis娛樂宣布](../Page/Pledis娛樂.md "wikilink")，Kyla因健康問題將暫時停止演藝活動，並返回[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")。2018年，被粉絲拍到在遊樂園當售票員\[4\]。2019年5月23日官方宣布PRISTIN解散，Kyla與Pledis解約。
+2017年3月21日Kyla作為[PRISTIN的成員正式出道](https://zh.wikipedia.org/wiki/PRISTIN "wikilink")\[3\]2017年10月12日，[Pledis娛樂](../Page/Pledis娛樂.md "wikilink")宣布，Kyla因健康問題將暫時停止演藝活動，並返回[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")。2018年，被粉絲拍到疑似在遊樂園當售票員\[4\]。2019年5月23日官方宣布PRISTIN解散，Kyla與Pledis解約。
 
 ## 詞曲創作
 
@@ -64,6 +64,11 @@ Kyla出生於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[印第安
 </table>
 
 ## 參考資料
+
+## 外部連結
+
+  -
+<!-- end list -->
 
 1.
 2.

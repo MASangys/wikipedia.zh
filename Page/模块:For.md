@@ -1,18 +1,13 @@
-local mArguments --initialize lazily local mHatlist =
-require('Module:Hatnote list') local mHatnote =
-require('Module:Hatnote') local yesNo = require('Module:Yesno') local p
-= {}
+local mArguments --initialize lazily local mHatlist = require('Module:Hatnote list') local mHatnote = require('Module:Hatnote') local yesNo = require('Module:Yesno') local p = {}
 
-\--Implements  from the frame --uses capitalized "For" to avoid
-collision with Lua reserved word "for" function p.For (frame)
+\--Implements  from the frame --uses capitalized "For" to avoid collision with Lua reserved word "for" function p.For (frame)
 
 `   mArguments = require('Module:Arguments')`
 `   return p._For(mArguments.getArgs(frame))`
 
 end
 
-\--Implements  but takes a manual arguments table function p._For
-(args)
+\--Implements  but takes a manual arguments table function p._For (args)
 
 `   local use = args[1]`
 `   if (not use) then`

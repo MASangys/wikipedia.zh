@@ -190,8 +190,7 @@
 3.  davfs2 project <http://savannah.nongnu.org/projects/davfs2>
 4.  daviX project: <http://dmc.web.cern.ch/projects/davix/home>
 5.  RaiDrive Homepage <https://www.raidrive.com>
-6.  webdavfs-367 source code from OS X 10.10.5
-    <http://opensource.apple.com/source/webdavfs/webdavfs-367/>
+6.  webdavfs-367 source code from OS X 10.10.5 <http://opensource.apple.com/source/webdavfs/webdavfs-367/>
 7.  MyWorkDrive WebDAV Server <https://www.myworkdrive.com/webdav>
 8.  <http://www.directnet-drive.net/>
 9.  <https://cwiki.apache.org/confluence/display/WINK/5+Apache+Wink+Server>

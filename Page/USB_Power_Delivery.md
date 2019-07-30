@@ -1,5 +1,4 @@
-**USB Power Delivery**（簡稱：**USB
-PD**）是[USB開發者論壇在](../Page/USB開發者論壇.md "wikilink")2012年7月5日發佈的[USB充電標準與技術](../Page/USB.md "wikilink")。
+**USB Power Delivery**（簡稱：**USB PD**）是[USB開發者論壇](../Page/USB開發者論壇.md "wikilink")在2012年7月5日發佈的[USB](../Page/USB.md "wikilink")充電標準與技術。
 
 ## 版本
 
@@ -7,8 +6,7 @@ PD**）是[USB開發者論壇在](../Page/USB開發者論壇.md "wikilink")2012�
 
 ### USB PD 1.0
 
-對供電能力設定五個級別\[1\]，向下相容[USB 2.0/3.0與BC
-1.0/1.1/1.2](../Page/USB.md "wikilink")\[2\]。
+對供電能力設定五個級別\[1\]，向下相容[USB 2.0/3.0與BC 1.0/1.1/1.2](../Page/USB.md "wikilink")\[2\]。
 
 | colspan = 4 | USB PD 修訂版1.0之1.3版充電規則 |
 | ------------------------------------ |
@@ -35,8 +33,7 @@ PD**）是[USB開發者論壇在](../Page/USB開發者論壇.md "wikilink")2012�
 
 ### USB PD 3.0
 
-[USBPowerDeliveryR30V12PowerRule.svg](https://zh.wikipedia.org/wiki/File:USBPowerDeliveryR30V12PowerRule.svg "fig:USBPowerDeliveryR30V12PowerRule.svg")
-加入可編程電源供應，可相容各家快充協定，最新可支援QC 4.0快充\[4\]\[5\]。
+[USBPowerDeliveryR30V12PowerRule.svg](https://zh.wikipedia.org/wiki/File:USBPowerDeliveryR30V12PowerRule.svg "fig:USBPowerDeliveryR30V12PowerRule.svg") 加入可編程電源供應，可相容各家快充協定，最新可支援QC 4.0快充\[4\]\[5\]。
 
 | colspan = 5 | USB PD 修訂版3.0之1.2版充電規則\[6\]       |
 | ----------------------------------------------- |
@@ -82,23 +79,17 @@ PD**）是[USB開發者論壇在](../Page/USB開發者論壇.md "wikilink")2012�
 
   - [usb.org - USB Type-C™ / USB PD](https://www.usb.org/usbc)
 
-[Category:USB](https://zh.wikipedia.org/wiki/Category:USB "wikilink")
-[Category:電源](https://zh.wikipedia.org/wiki/Category:電源 "wikilink")
-[Category:电池充电](https://zh.wikipedia.org/wiki/Category:电池充电 "wikilink")
+[Category:USB](https://zh.wikipedia.org/wiki/Category:USB "wikilink") [Category:電源](https://zh.wikipedia.org/wiki/Category:電源 "wikilink") [Category:电池充电](https://zh.wikipedia.org/wiki/Category:电池充电 "wikilink")
 
 1.  [GTrusted - USB Power Delivery](https://gtrusted.com/product/123441)
 
-2.  [USB Power
-    Delivery將促使3C與行動裝置充電標準趨於一統](https://www.digitimes.com.tw/iot/article.asp?cat=130&id=0000395752_3SP8WHN54KQHD63EAQXYJ)
+2.  [USB Power Delivery將促使3C與行動裝置充電標準趨於一統](https://www.digitimes.com.tw/iot/article.asp?cat=130&id=0000395752_3SP8WHN54KQHD63EAQXYJ)
 
-3.  [usb.org - USB PD
-    規格書](https://www.usb.org/document-library/usb-power-delivery)
+3.  [usb.org - USB PD 規格書](https://www.usb.org/document-library/usb-power-delivery)
 
-4.  [USB Type-C + Power
-    Delivery 3.0全面進攻](https://www.ctimes.com.tw/DispArt-tw.asp?O=HK2879M8EKWARASTDN)
+4.  [USB Type-C + Power Delivery 3.0全面進攻](https://www.ctimes.com.tw/DispArt-tw.asp?O=HK2879M8EKWARASTDN)
 
-5.  [3.0版規格增添認證功能 USB
-    PD相容性問題有解](http://www.2cm.com.tw/2cm/zh-tw/market/D7D1182AAFBA46F7BE1DC229AF20B56D)
+5.  [3.0版規格增添認證功能 USB PD相容性問題有解](http://www.2cm.com.tw/2cm/zh-tw/market/D7D1182AAFBA46F7BE1DC229AF20B56D)
 
 6.
 7.

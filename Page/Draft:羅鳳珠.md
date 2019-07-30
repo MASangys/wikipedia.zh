@@ -1,15 +1,12 @@
 -----
 
-羅鳳珠（Feng-ju
-Lo）（1955年6月2日－2015年8月22日），是華語文學數位化研究學者，畢生致力於人文與科技（圖書資訊及資訊科技）交叉領域的研究與教學，建置「網路展書讀」文史網站四十餘種，現為[台灣大學圖書館特色館藏](https://zh.wikipedia.org/wiki/台灣大學圖書館 "wikilink")（網址：http://speccoll.lib.ntu.edu.tw/node/114），免費提供研究、教學及文學愛好者使用。因[胰臟癌去世](https://zh.wikipedia.org/wiki/胰臟癌 "wikilink")。
+羅鳳珠（Feng-ju Lo）（1955年6月2日－2015年8月22日），是華語文學數位化研究學者，畢生致力於人文與科技（圖書資訊及資訊科技）交叉領域的研究與教學，建置「網路展書讀」文史網站四十餘種，現為[台灣大學圖書館特色館藏](https://zh.wikipedia.org/wiki/台灣大學圖書館 "wikilink")（網址：http://speccoll.lib.ntu.edu.tw/node/114），免費提供研究、教學及文學愛好者使用。因[胰臟癌去世](https://zh.wikipedia.org/wiki/胰臟癌 "wikilink")，享年六十。
 
 ## 人文與科技跨領域研究貢獻
 
-羅鳳珠專任於[元智大學中國語文學系副教授](../Page/元智大學.md "wikilink")，因其在人文與科技跨領域的傑出表現，長期協助[教育部](../Page/中華民國教育部.md "wikilink")、[國科會](https://zh.wikipedia.org/wiki/國科會 "wikilink")、[僑委會](https://zh.wikipedia.org/wiki/僑委會 "wikilink")、[文化部](https://zh.wikipedia.org/wiki/中華民國文化部 "wikilink")、[客委會](https://zh.wikipedia.org/wiki/客委會 "wikilink")、[臺北市政府等政府單位審查科技人文相關計畫申請案](../Page/臺北市政府.md "wikilink")，並先後獲選為[北京大學計算語言研究所訪問學人](https://zh.wikipedia.org/wiki/北京大學 "wikilink")、[中央研究院語言研究所訪問學人](https://zh.wikipedia.org/wiki/中央研究院 "wikilink")，擔任[中央研究院歷史語言研究所與](https://zh.wikipedia.org/wiki/中央研究院歷史語言研究所 "wikilink")[哈佛大學合作建置](https://zh.wikipedia.org/wiki/哈佛大學 "wikilink")
-Hartwell Database
-計畫小組顧問，以及獲[湖北大學邀請擔任客座教授](https://zh.wikipedia.org/wiki/湖北大學 "wikilink")。
+羅鳳珠專任於[元智大學](../Page/元智大學.md "wikilink")中國語文學系副教授，因其在人文與科技跨領域的傑出表現，長期協助[教育部](../Page/中華民國教育部.md "wikilink")、[國科會](https://zh.wikipedia.org/wiki/國科會 "wikilink")、[僑委會](https://zh.wikipedia.org/wiki/僑委會 "wikilink")、[文化部](https://zh.wikipedia.org/wiki/中華民國文化部 "wikilink")、[客委會](https://zh.wikipedia.org/wiki/客委會 "wikilink")、[臺北市政府](../Page/臺北市政府.md "wikilink")等政府單位審查科技人文相關計畫申請案，並先後獲選為[北京大學計算語言研究所訪問學人](https://zh.wikipedia.org/wiki/北京大學 "wikilink")、[中央研究院語言研究所訪問學人](https://zh.wikipedia.org/wiki/中央研究院 "wikilink")，擔任[中央研究院歷史語言研究所與](https://zh.wikipedia.org/wiki/中央研究院歷史語言研究所 "wikilink")[哈佛大學合作建置](https://zh.wikipedia.org/wiki/哈佛大學 "wikilink") Hartwell Database 計畫小組顧問，以及獲[湖北大學邀請擔任客座教授](https://zh.wikipedia.org/wiki/湖北大學 "wikilink")。
 
-她所建立的[《紅樓夢》網路教學研究資料中心](http://cls.lib.ntu.edu.tw/HLM/home.htm)，獲得中華民國[資訊月](../Page/資訊月.md "wikilink")「八十七年傑出資訊應用暨產品獎」，於1998年12月19日獲當時總統[李登輝先生于](../Page/李登輝.md "wikilink")[總統府召見嘉勉](../Page/中華民國總統府.md "wikilink")，也因此李總統在1999年3月27日受網站主持人羅鳳珠邀請參訪元智大學，參觀「《紅樓夢》網路教學研究資料中心」系統。自1998年起，她在中國文學數位化研究與電腦輔助教學的領域，陸續建立了許多教學研究網站，並獲得許多榮譽與獎項。
+她所建立的[《紅樓夢》網路教學研究資料中心](http://cls.lib.ntu.edu.tw/HLM/home.htm)，獲得中華民國[資訊月](../Page/資訊月.md "wikilink")「八十七年傑出資訊應用暨產品獎」，於1998年12月19日獲當時總統[李登輝](../Page/李登輝.md "wikilink")先生于[總統府召見嘉勉](../Page/中華民國總統府.md "wikilink")，也因此李總統在1999年3月27日受網站主持人羅鳳珠邀請參訪元智大學，參觀「《紅樓夢》網路教學研究資料中心」系統。自1998年起，她在中國文學數位化研究與電腦輔助教學的領域，陸續建立了許多教學研究網站，並獲得許多榮譽與獎項。
 
 <table>
 <thead>
@@ -46,7 +43,7 @@ Hartwell Database
 </tr>
 <tr class="even">
 <td><p>2002年</p></td>
-<td><p>4月3日獲選為2000年十大文學人，獲文建會頒發十大文學人紀念獎座。得獎報導：2002/03/26民生報[1]、2002-04-04/聯合報[2]、2002-04-04/民生報[3]。 溫柔在頌─唐詩三百首，榮獲「九十一年海華獎優良華語文教學軟體選拔活動」網頁組佳作。</p></td>
+<td><p>4月3日獲選為2000年十大文學人，獲文建會頒發十大文學人紀念獎座。得獎報導：2002/03/26民生報「選出2000年十大文學人發表會將頒年度紀念獎」[1]、2002-04-04/聯合報「歷來最重的文學年鑑出爐」[2]、2002-04-04/民生報「台灣文學2000年鑑發表文壇跨世紀　溫馨添紀錄」[3]。 溫柔在頌─唐詩三百首，榮獲「九十一年海華獎優良華語文教學軟體選拔活動」網頁組佳作。</p></td>
 </tr>
 <tr class="odd">
 <td><p>2004年</p></td>
@@ -54,17 +51,17 @@ Hartwell Database
 </tr>
 <tr class="even">
 <td><p>2005年</p></td>
-<td><p>榮獲第二十二屆「傑出資訊人才獎」（資訊教育或資訊學術研究類）。得獎報導：2005/12/05聯合報[4]。</p></td>
+<td><p>榮獲第二十二屆「傑出資訊人才獎」（資訊教育或資訊學術研究類）。得獎報導：2005/12/05聯合報「台灣資訊界的輝煌成就」[4]。</p></td>
 </tr>
 <tr class="odd">
 <td><p>2008年</p></td>
 <td><p>榮獲第二十五屆資訊月「傑出資訊應用暨產品獎」 得獎作品：「腹有詩書氣自華：唐宋詩詞資料庫」<br />
-（1.感謝國科會經費資助；2.感謝<a href="https://zh.wikipedia.org/wiki/中央研究院" title="wikilink">中央研究院鄭錦全</a><a href="../Page/中央研究院院士.md" title="wikilink">院士</a>、<a href="https://zh.wikipedia.org/wiki/中央研究院" title="wikilink">中央研究院范毅軍教授</a>、<a href="../Page/國立清華大學.md" title="wikilink">清華大學張智星老師</a>、<a href="../Page/大葉大學.md" title="wikilink">大葉大學許介彥老師</a>、<a href="../Page/臺北市立復興高級中學.md" title="wikilink">台北復興高中洪澤南老師</a>、優特資訊科技股份有限公司、清蔚科技股份有限公司參與及協助本網站建置。3.感謝元智大學提供配合款、研究空間以及所有行政支援。4.感謝所有將著作資料免費授權給我們使用的著作權人。）</p></td>
+（1.感謝國科會經費資助；2.感謝<a href="https://zh.wikipedia.org/wiki/中央研究院" title="wikilink">中央研究院鄭錦全</a><a href="../Page/中央研究院院士.md" title="wikilink">院士</a>、<a href="https://zh.wikipedia.org/wiki/中央研究院" title="wikilink">中央研究院范毅軍教授</a>、<a href="../Page/國立清華大學.md" title="wikilink">清華大學張智星老師</a>、<a href="../Page/大葉大學.md" title="wikilink">大葉大學</a>許介彥老師、<a href="../Page/臺北市立復興高級中學.md" title="wikilink">台北復興高中洪澤南老師</a>、優特資訊科技股份有限公司、清蔚科技股份有限公司參與及協助本網站建置。3.感謝元智大學提供配合款、研究空間以及所有行政支援。4.感謝所有將著作資料免費授權給我們使用的著作權人。）</p></td>
 </tr>
 <tr class="even">
 <td><p>2009年</p></td>
 <td><p>榮獲第二十六屆資訊月「傑出資訊應用暨產品獎」 得獎作品：「斯文脈脈永留香：台灣文學數位文物館」<br />
-（1.感謝<a href="https://zh.wikipedia.org/wiki/行政院文化建設委員會" title="wikilink">行政院文化建設委員會</a>、彰化縣文化局、<a href="https://zh.wikipedia.org/wiki/國立台灣文學館" title="wikilink">國立台灣文學館經費資助</a>；2.<a href="https://zh.wikipedia.org/wiki/中央研究院" title="wikilink">中央研究院GIS小組</a>、<a href="https://zh.wikipedia.org/wiki/中央研究院" title="wikilink">中央研究院范毅軍博士</a>、<a href="../Page/國立清華大學.md" title="wikilink">清華大學陳萬益教授</a>、<a href="../Page/東海大學_(台灣).md" title="wikilink">東海大學胡萬川教授</a>、<a href="https://zh.wikipedia.org/wiki/成功大學" title="wikilink">成功大學</a><a href="../Page/林瑞明.md" title="wikilink">林瑞明教授</a>、<a href="https://zh.wikipedia.org/wiki/美和技術學院" title="wikilink">美和技術學院鍾怡彥老師</a>、<a href="../Page/元智大學.md" title="wikilink">元智大學鍾彩焱教授</a>、鄭錦全院士、紀元文博士、Jeffrey Cuvillier先生、財團法人<a href="../Page/賴和.md" title="wikilink">賴和文教基金會</a>、財團法人<a href="../Page/鍾理和.md" title="wikilink">鍾理和文教基金會</a>、優特資訊科技股份有限公司、伊庭多媒體股份有限公司、典範數位科技有限公司、頑石創意公司，參與及協助本網站建置。3.感謝元智大學提供相關行政與配合款支持。4.感謝所有將著作資料免費授權給我們使用的著作權人。）</p></td>
+（1.感謝<a href="https://zh.wikipedia.org/wiki/行政院文化建設委員會" title="wikilink">行政院文化建設委員會</a>、彰化縣文化局、<a href="https://zh.wikipedia.org/wiki/國立台灣文學館" title="wikilink">國立台灣文學館經費資助</a>；2.<a href="https://zh.wikipedia.org/wiki/中央研究院" title="wikilink">中央研究院GIS小組</a>、<a href="https://zh.wikipedia.org/wiki/中央研究院" title="wikilink">中央研究院范毅軍博士</a>、<a href="../Page/國立清華大學.md" title="wikilink">清華大學陳萬益教授</a>、<a href="../Page/東海大學_(台灣).md" title="wikilink">東海大學胡萬川教授</a>、<a href="https://zh.wikipedia.org/wiki/成功大學" title="wikilink">成功大學</a><a href="../Page/林瑞明.md" title="wikilink">林瑞明</a>教授、<a href="https://zh.wikipedia.org/wiki/美和技術學院" title="wikilink">美和技術學院鍾怡彥老師</a>、<a href="../Page/元智大學.md" title="wikilink">元智大學</a>鍾彩焱教授、鄭錦全院士、紀元文博士、Jeffrey Cuvillier先生、財團法人<a href="../Page/賴和.md" title="wikilink">賴和</a>文教基金會、財團法人<a href="../Page/鍾理和.md" title="wikilink">鍾理和</a>文教基金會、優特資訊科技股份有限公司、伊庭多媒體股份有限公司、典範數位科技有限公司、頑石創意公司，參與及協助本網站建置。3.感謝元智大學提供相關行政與配合款支持。4.感謝所有將著作資料免費授權給我們使用的著作權人。）</p></td>
 </tr>
 <tr class="odd">
 <td><p>2010年</p></td>
@@ -89,22 +86,17 @@ Hartwell Database
 </tbody>
 </table>
 
-羅鳳珠在人文與科技應用領域中，歷年發表[學術會議論文共](https://zh.wikipedia.org/wiki/學術會議 "wikilink")97篇\[5\]，總計主持33件研究計畫、參與共同主持17件研究計畫，其中10件為[數位典藏國家型科技計畫](http://www.ndap.org.tw/)，總計50件（1993
-- 2015年）\[6\]，經費來源單位及件數如下：
+羅鳳珠在人文與科技應用領域中，歷年發表[學術會議論文共](https://zh.wikipedia.org/wiki/學術會議 "wikilink")97篇\[5\]，總計主持33件研究計畫、參與共同主持17件研究計畫，其中10件為[數位典藏國家型科技計畫](http://www.ndap.org.tw/)，總計50件（1993 - 2015年）\[6\]，經費來源單位及件數如下：
 
-  - [蔣經國國際學術交流基金會國際學術合作研究計畫](../Page/蔣經國國際學術交流基金會.md "wikilink")，計畫名稱：歷代語言知識庫建置計畫；計畫編號：RG013-D-09；參與學校：[元智大學](../Page/元智大學.md "wikilink")、[北京大學](https://zh.wikipedia.org/wiki/北京大學 "wikilink")、日本[早稻田大學](https://zh.wikipedia.org/wiki/早稻田大學 "wikilink")、[香港理工大學](../Page/香港理工大學.md "wikilink")、韓國[西江大學](https://zh.wikipedia.org/wiki/西江大學 "wikilink")。
-  - [國科會專題研究計畫](https://zh.wikipedia.org/wiki/國科會 "wikilink")：主持 8
-    件，共同主持3 件。
+  - [蔣經國國際學術交流基金會](../Page/蔣經國國際學術交流基金會.md "wikilink")國際學術合作研究計畫，計畫名稱：歷代語言知識庫建置計畫；計畫編號：RG013-D-09；參與學校：[元智大學](../Page/元智大學.md "wikilink")、[北京大學](https://zh.wikipedia.org/wiki/北京大學 "wikilink")、日本[早稻田大學](https://zh.wikipedia.org/wiki/早稻田大學 "wikilink")、[香港理工大學](../Page/香港理工大學.md "wikilink")、韓國[西江大學](https://zh.wikipedia.org/wiki/西江大學 "wikilink")。
+  - [國科會專題研究計畫](https://zh.wikipedia.org/wiki/國科會 "wikilink")：主持 8 件，共同主持3 件。
   - 國科會數位典藏與數位學習國家型科技計畫：主持 10 件，共同主持7 件。
   - 國科會專書寫作計畫：主持 1 件。
   - [教育部計畫](../Page/中華民國教育部.md "wikilink")：主持 4 件，共同主持3 件。
-  - [文化建設委員會計畫](https://zh.wikipedia.org/wiki/文化建設委員會 "wikilink")：主持 7
-    件，共同主持1 件。
-  - [國立台灣文學館計畫](https://zh.wikipedia.org/wiki/國立台灣文學館 "wikilink")：主持 2
-    件。
+  - [文化建設委員會計畫](https://zh.wikipedia.org/wiki/文化建設委員會 "wikilink")：主持 7 件，共同主持1 件。
+  - [國立台灣文學館計畫](https://zh.wikipedia.org/wiki/國立台灣文學館 "wikilink")：主持 2 件。
   - [僑委會計畫](https://zh.wikipedia.org/wiki/僑委會 "wikilink")：共同主持 2 件。
-  - [行政院](../Page/行政院.md "wikilink")[客委會計畫](https://zh.wikipedia.org/wiki/客委會 "wikilink")：共同主持
-    1 件。
+  - [行政院](../Page/行政院.md "wikilink")[客委會計畫](https://zh.wikipedia.org/wiki/客委會 "wikilink")：共同主持 1 件。
 
 ## 國際學術表現
 
@@ -120,23 +112,21 @@ Hartwell Database
 
   - 2000年5月30日，[新加坡大學](https://zh.wikipedia.org/wiki/新加坡大學 "wikilink")、[南洋理工大學主辦](https://zh.wikipedia.org/wiki/南洋理工大學 "wikilink")，第四屆全球華人教育資訊科技大會----新千年代的教與學，主講：「數碼時代華語文教學的挑戰」。
   - 2001年6月10日，第五屆全球華人學習科技研討會暨第十屆國際電腦輔助教學研討會，[中央大學主辦](https://zh.wikipedia.org/wiki/中央大學 "wikilink")，Panel：「大學及成人網路輔助學習經談」，講題：「以建立教學資源中心為觀念的網路輔助學習機制----以紅樓夢網路教學資料中心為例」。
-  - 2001年9月6日，[新加坡教育部主辦](../Page/新加坡教育部.md "wikilink")，「新加坡全國華文教學科技研討會」，主講『引新科技的「術」．入古文學的「心」』。
+  - 2001年9月6日，[新加坡教育部](../Page/新加坡教育部.md "wikilink")主辦，「新加坡全國華文教學科技研討會」，主講『引新科技的「術」．入古文學的「心」』。
   - 2001年9月7日，新加坡教育部主辦，「新加坡全國華文教學科技研討會」，主講「如何善用語料庫建構華文網路教學環境　以「文國尋寶記」為例」。
-  - 2005 年12 月8-10
-    日，第二屆文學與信息科技國際研討會，北京大學主辦，〈從「不能」到「能」：談文學數字化的研究教學與發展〉專題演講，會議地點：北京大學。
+  - 2005 年12 月8-10 日，第二屆文學與信息科技國際研討會，北京大學主辦，〈從「不能」到「能」：談文學數字化的研究教學與發展〉專題演講，會議地點：北京大學。
 
 （三）應邀於國際知名大學與研究機構演講
 
   - 1997年9月，應[北京師範大學中文系漢字與中文信息處理研究所邀請](https://zh.wikipedia.org/wiki/北京師範大學 "wikilink")，做「中國古籍數位化」之學術演講。
   - 1997年9月，應[內蒙古大學邀請](https://zh.wikipedia.org/wiki/內蒙古大學 "wikilink")，做有關「中國古籍數位化」之學術報告。
-  - 1997年10月，應美國[華盛頓大學東亞圖書館邀請](../Page/華盛頓大學.md "wikilink")，做「宋代名家詩系統」成果發表報告。
+  - 1997年10月，應美國[華盛頓大學](../Page/華盛頓大學.md "wikilink")東亞圖書館邀請，做「宋代名家詩系統」成果發表報告。
   - 1997年11月，應[北京大學計算語言所邀請](https://zh.wikipedia.org/wiki/北京大學 "wikilink")，做有關「中國古籍數位化」之學術報告。
   - 1998年5月1日，應[中央研究院漢籍電子文獻協調委員會邀請](https://zh.wikipedia.org/wiki/中央研究院 "wikilink")，於「人文計算研討會」以「音韻自動標注對詩學研究的意義」為題，做學術報告。
   - 1998年5月23-24日，應[故宮博物院邀請](https://zh.wikipedia.org/wiki/國立故宮博物院 "wikilink")，擔任由故宮博物院、[淡江大學舉辦之](https://zh.wikipedia.org/wiki/淡江大學 "wikilink")「第一屆中國文獻學學術研討會」引言人，報告電子四庫全書發展概況。
   - 1998年12月9日，應中央研究院文哲所邀請，於「世變中的文學世界系列座談會之四----唐宋文學研究的新趨勢」主講〈資訊科技對文史研究的衝擊----在網際網路建構「唐宋代文史綜合研究資料中心」的想法〉。
   - 1999年3月29日，中央研究院漢學研究網路環境的開發座談會，講題：古籍數位化在詩學研究上的發展方向與需求。
-  - 2001年2月23日，[香港城市大學](../Page/香港城市大學.md "wikilink")，「Chinese Language
-    Sciences Workshop : E -Education」，主講「從抽象到具象--談中國文學多媒體教學」。
+  - 2001年2月23日，[香港城市大學](../Page/香港城市大學.md "wikilink")，「Chinese Language Sciences Workshop : E -Education」，主講「從抽象到具象--談中國文學多媒體教學」。
   - 2002年7月23日，應北京大學計算語言研究所邀請，講題：古代文學地圖。
   - 2002年9月11日，應香港城市大學邀請演講，講題：以人物為主軸的歷史文化網數位資料庫設計—以蘇軾為例。
   - 2002年11月5日，應北京大學計算語言研究所邀請，講題：以人物為主軸的歷史文化網數位資料庫設計—以蘇軾為例。
@@ -264,6 +254,8 @@ Hartwell Database
 （四）[電子媒體報導：31次。](http://cls.lib.ntu.edu.tw/present.htm#%E5%AA%92%E9%AB%94%E7%9B%B8%E9%97%9C%E5%A0%B1%E5%B0%8E)
 
 ## 參考資料
+
+## 參考資料的報社網站無法查到當年相關報導資料，故無法提供原報社連結。兩岸文學與資訊跨領域學者皆希望將羅鳳珠教授此生的貢獻留在維基百科供後學參考，故請指導如何改善。非常感謝！
 
 1.
 2.

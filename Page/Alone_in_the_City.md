@@ -1,11 +1,8 @@
-《**Alone in the
-City**》，是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")[Dreamcatcher的第三張迷你專輯](../Page/Dreamcatcher.md "wikilink")，由[Happy
-Face娛樂製作及發行](../Page/Happy_Face娛樂.md "wikilink")，於2018年9月20日，推出共有6首歌曲，主打歌為《What》。
+《**Alone in the City**》，是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")[Dreamcatcher](../Page/Dreamcatcher.md "wikilink")的第三張迷你專輯，由[Happy Face娛樂製作及發行](../Page/Happy_Face娛樂.md "wikilink")，於2018年9月20日，推出共有6首歌曲，主打歌為《What》。
 
 ## 事件
 
-9月6日，透過官方 Facebook 公開**回歸行程表**，宣布即將在9月20日發行第三張迷你專輯《Alone In The
-City》回歸。\[1\]
+9月6日，透過官方 Facebook 公開**回歸行程表**，宣布即將在9月20日發行第三張迷你專輯《Alone In The City》回歸。\[1\]
 
 ### 造型照公开
 
@@ -25,8 +22,7 @@ City》回歸。\[1\]
 
 ### MV公开，回归初舞台
 
-9月20日，于韩国时间下午6时正式公开主打曲MV **\[ WHAT \]** ，并登上M
-COUNTDOWN作为此次打歌期首个回归初舞台台**。**
+9月20日，于韩国时间下午6时正式公开主打曲MV **\[ WHAT \]** ，并登上M COUNTDOWN作为此次打歌期首个回归初舞台台**。**
 
 ## 曲目表
 
@@ -138,8 +134,6 @@ COUNTDOWN作为此次打歌期首个回归初舞台台**。**
 
 ## 外部連結
 
-[Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink")
-[Category:2018年迷你專輯](https://zh.wikipedia.org/wiki/Category:2018年迷你專輯 "wikilink")
+[Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink") [Category:2018年迷你專輯](https://zh.wikipedia.org/wiki/Category:2018年迷你專輯 "wikilink")
 
-1.  [DREAM CATCHER 9/20
-    發行迷你三輯回歸，行程表公開](https://www.kpopn.com/2018/09/06/dream-catcher-mini-3th-album-schedule/)
+1.  [DREAM CATCHER 9/20 發行迷你三輯回歸，行程表公開](https://www.kpopn.com/2018/09/06/dream-catcher-mini-3th-album-schedule/)

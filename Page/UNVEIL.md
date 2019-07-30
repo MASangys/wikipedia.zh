@@ -1,5 +1,4 @@
-《**UNVEIL**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")9人男子組合[Stray
-Kids於每次回歸前所舉辦的Showcase](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")。
+《**UNVEIL**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")9人男子組合[Stray Kids於每次回歸前所舉辦的Showcase](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")。
 
 ## 概述
 
@@ -10,7 +9,7 @@ Kids於每次回歸前所舉辦的Showcase](https://zh.wikipedia.org/wiki/Stray_
 | **名稱**                                                                                         | **日期**      | **演唱會站次**                                                         | **演出場地**                                                | **觀賞人數**                            | **備註**               |
 | ---------------------------------------------------------------------------------------------- | ----------- | ----------------------------------------------------------------- | ------------------------------------------------------- | ----------------------------------- | -------------------- |
 | 《Stray Kids UNVEIL \[Op. 01 : [I am NOT](../Page/I_am_NOT_\(Stray_Kids迷你專輯\).md "wikilink")\]》 | 2018年3月25日  | 首爾站                                                               | [獎忠體育館](https://zh.wikipedia.org/wiki/獎忠體育館 "wikilink") | 3500\[2\]                           | 出道Showcase\[3\]\[4\] |
-| 《Stray Kids UNVEIL \[Op. 02 : [I am WHO](../Page/I_am_WHO_\(Stray_Kids迷你專輯\).md "wikilink")\]》 | 2018年8月5日   | [慶熙大學和平殿堂](../Page/慶熙大學.md "wikilink")                            |                                                         | 回歸Showcase\[5\]\[6\]\[7\]\[8\]\[9\] |                      |
+| 《Stray Kids UNVEIL \[Op. 02 : [I am WHO](../Page/I_am_WHO_\(Stray_Kids迷你專輯\).md "wikilink")\]》 | 2018年8月5日   | [慶熙大學](../Page/慶熙大學.md "wikilink")和平殿堂                            |                                                         | 回歸Showcase\[5\]\[6\]\[7\]\[8\]\[9\] |                      |
 | 《Stray Kids UNVEIL \[Op. 03 : [I am YOU](../Page/I_am_YOU_\(Stray_Kids迷你專輯\).md "wikilink")\]》 | 2018年10月21日 | [奧林匹克公園奧林匹克大廳](https://zh.wikipedia.org/wiki/首爾奧林匹克公園 "wikilink") |                                                         | 回歸Showcase\[10\]\[11\]\[12\]        |                      |
 | 《UNVEIL THE [MIROH](../Page/Clé_1:_Miroh.md "wikilink")》                                       | 2019年3月25日  | YES24 Live Hall                                                   |                                                         | 回歸Showcase\[13\]\[14\]\[15\]        |                      |
 
@@ -171,9 +170,7 @@ Kids於每次回歸前所舉辦的Showcase](https://zh.wikipedia.org/wiki/Stray_
 
 <!-- end list -->
 
-  - [Stray
-    Kids](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")（宇珍、方燦、Lee
-    Know、彰彬、鉉辰、Han、Felix、昇玟、I.N）
+  - [Stray Kids](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")（宇珍、方燦、Lee Know、彰彬、鉉辰、Han、Felix、昇玟、I.N）
 
 <!-- end list -->
 
@@ -181,8 +178,7 @@ Kids於每次回歸前所舉辦的Showcase](https://zh.wikipedia.org/wiki/Stray_
 
 <!-- end list -->
 
-  - [JYP
-    Entertainment](https://zh.wikipedia.org/wiki/JYP_Entertainment "wikilink")
+  - [JYP Entertainment](https://zh.wikipedia.org/wiki/JYP_Entertainment "wikilink")
 
 <!-- end list -->
 
@@ -190,8 +186,7 @@ Kids於每次回歸前所舉辦的Showcase](https://zh.wikipedia.org/wiki/Stray_
 
 <!-- end list -->
 
-  - \[Op. 02 : I am
-    WHO\]－、[美粒果sparkling](https://zh.wikipedia.org/wiki/美粒果 "wikilink")
+  - \[Op. 02 : I am WHO\]－、[美粒果sparkling](https://zh.wikipedia.org/wiki/美粒果 "wikilink")
   - \[Op. 03 : I am YOU\]－ Original
 
 ## 註釋與參考資料

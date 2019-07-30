@@ -1,12 +1,12 @@
-**凱旋**（）是一名[DC漫畫旗下的虛構](../Page/DC漫畫.md "wikilink")[超級英雄](https://zh.wikipedia.org/wiki/超級英雄 "wikilink")，最初登場於《[美國正義聯盟](https://zh.wikipedia.org/wiki/國際正義聯盟 "wikilink")》\#92（1994年9月），由、及創作，雖然該角的創作大多由所構想。此外，凱旋和名稱相似的[黃金時代英雄](../Page/漫畫的黃金時代.md "wikilink")是截然不同的角色（同屬DC漫畫）。
+**凱旋**（）是一名[DC漫畫](../Page/DC漫畫.md "wikilink")旗下的虛構[超級英雄](https://zh.wikipedia.org/wiki/超級英雄 "wikilink")，最初登場於《[美國正義聯盟](https://zh.wikipedia.org/wiki/國際正義聯盟 "wikilink")》\#92（1994年9月），由、及創作，雖然該角的創作大多由所構想。此外，凱旋和名稱相似的[黃金時代英雄](../Page/漫畫的黃金時代.md "wikilink")是截然不同的角色（同屬DC漫畫）。
 
-[正義聯盟原始領導人和創始成員的凱旋多年來一直迷失在時間流中並被盟友遺忘](../Page/正義聯盟.md "wikilink")。他在《》之後回到了現代並因失去了自己的地位而陷入掙扎。回歸後，他曾是的成員。
+[正義聯盟](../Page/正義聯盟.md "wikilink")原始領導人和創始成員的凱旋多年來一直迷失在時間流中並被盟友遺忘。他在《》之後回到了現代並因失去了自己的地位而陷入掙扎。回歸後，他曾是的成員。
 
 該角推出的幾年後，普利斯特透露，凱旋一角部分取自DC創意服務總監，「他的諷刺是：凱旋總是對的...這也是為何同胞英雄會那麼討厭他...而將總是對的尼爾寫在某處。他是的，在今天結束時，尼爾被證明是對的。最重要的是，這個事實讓許多工作人員無法理解。」\[1\]
 
 ## 歷史
 
-凱旋的本名為**威廉·麥金泰爾**（，有時拼寫為）被塑造成一名頭腦冷靜、傲慢、自大的人，他認為自己「否定了自己的命運」而成為地球上最偉大的英雄之一。透過在《美國正義聯盟》\#92、《正義聯盟特遣部隊》\#16和《國際正義聯盟》（第二卷）\#68中的[追溯](https://zh.wikipedia.org/wiki/追溯連貫性 "wikilink")，凱旋被表明一直是[正義聯盟的創始成員及領導者](../Page/正義聯盟.md "wikilink")，但之後發生了某事件而被眾人遺忘\[2\]。
+凱旋的本名為**威廉·麥金泰爾**（，有時拼寫為）被塑造成一名頭腦冷靜、傲慢、自大的人，他認為自己「否定了自己的命運」而成為地球上最偉大的英雄之一。透過在《美國正義聯盟》\#92、《正義聯盟特遣部隊》\#16和《國際正義聯盟》（第二卷）\#68中的[追溯](https://zh.wikipedia.org/wiki/追溯連貫性 "wikilink")，凱旋被表明一直是[正義聯盟](../Page/正義聯盟.md "wikilink")的創始成員及領導者，但之後發生了某事件而被眾人遺忘\[2\]。
 
 DC漫畫的粉絲最初不喜歡該角；作者克里斯多夫·普利斯特和編輯布萊恩·奧古斯丁決定讓角色們也不喜歡他來在故事中的發揮作用\[3\]。
 
@@ -16,21 +16,21 @@ DC漫畫的粉絲最初不喜歡該角；作者克里斯多夫·普利斯特和�
 
 ### 回歸
 
-十年後，因《》的結果，凱旋回到了現代。他最終加入了美國正義聯盟，特別是正義聯盟特遣部隊。凱旋在《正義聯盟特遣部隊》中，曾與建立起牢固的關係（同為[同性戀英雄](../Page/同性戀.md "wikilink")），並拯救了的生命\[7\]；雖然凱旋在事後表示她死於自己對於死亡的恐懼之中，且認為如果他不救她的話就會「看起來很糟」\[8\]。凱旋對於正義聯盟特遣部隊任務不頻繁而感到不滿意，並建立了屬於自己的第二個團隊，以鎖定暴力犯罪的肇事者並完全瓦解他們的組織\[9\]。他的態度最終讓自己被趕出正義聯盟特遣部隊。或能看出因凱旋時常沒有問過領導人[喬恩·瓊斯而擅自行動](https://zh.wikipedia.org/wiki/火星獵人 "wikilink")，卻遭對方開除\[10\]。
+十年後，因《》的結果，凱旋回到了現代。他最終加入了美國正義聯盟，特別是正義聯盟特遣部隊。凱旋在《正義聯盟特遣部隊》中，曾與建立起牢固的關係（同為[同性戀](../Page/同性戀.md "wikilink")英雄），並拯救了的生命\[7\]；雖然凱旋在事後表示她死於自己對於死亡的恐懼之中，且認為如果他不救她的話就會「看起來很糟」\[8\]。凱旋對於正義聯盟特遣部隊任務不頻繁而感到不滿意，並建立了屬於自己的第二個團隊，以鎖定暴力犯罪的肇事者並完全瓦解他們的組織\[9\]。他的態度最終讓自己被趕出正義聯盟特遣部隊。或能看出因凱旋時常沒有問過領導人[喬恩·瓊斯而擅自行動](https://zh.wikipedia.org/wiki/火星獵人 "wikilink")，卻遭對方開除\[10\]。
 
 在《正義聯盟特遣部隊》\#30中，凱旋收到了來自雕刻的黑色惡魔蠟燭，這能讓他重新獲得失去的十年（以他的靈魂作為交換）。但奈隆告訴他如果該蠟燭被點燃時，時間將會再次改變，這可能會消除他在正義聯盟特遣部隊大部分的時光。在《正義聯盟特遣部隊》最後一期的\#37中，凱旋試圖彌補喬恩並承認他對聯盟舉辦的聖誕派對之憤怒。沮喪和厭倦了自己失敗的職業生涯的他考慮點燃蠟燭，但吉普賽不知為何卻說服他離開蠟燭，並表示他救了她的生命。凱旋決定他的生命可能還有意義並回去與喬恩交談；但此時，光束俠與吉普賽無意中點燃了他的蠟燭以作為紀念。為此，凱旋取回了自己失去的十年，但發現聯盟卻和以往一樣，即使沒有他的存在，吉普賽仍然活著\[11\]。
 
 ### 墮落
 
-1990年代，在DC進行復活《》系列的期間，凱旋陷入了貧困和低潮，且將偷來的聯盟物品賣給了[超級反派以支付自己的租金](https://zh.wikipedia.org/wiki/超級反派 "wikilink")。此時，感到憤怒、痛苦和絕望的他受到了一個名為里克茲（）的邪惡五維生物的影響，而對他的前正義聯盟特遣部隊盟友光束俠與吉普賽進行精神控制，並襲擊了新改革的美國正義聯盟。他相信自己正利用此力量來擊潰幫前的美國正義聯盟，好使「他的」能介入其中，但里克茲卻只想摧毀這個世界。在[美國正義協會與美國正義聯盟的聯合下制服了凱旋](../Page/美國正義協會.md "wikilink")，而里克茲則被的結合成一個新的紫色雷霆\[12\]。
+1990年代，在DC進行復活《》系列的期間，凱旋陷入了貧困和低潮，且將偷來的聯盟物品賣給了[超級反派以支付自己的租金](https://zh.wikipedia.org/wiki/超級反派 "wikilink")。此時，感到憤怒、痛苦和絕望的他受到了一個名為里克茲（）的邪惡五維生物的影響，而對他的前正義聯盟特遣部隊盟友光束俠與吉普賽進行精神控制，並襲擊了新改革的美國正義聯盟。他相信自己正利用此力量來擊潰幫前的美國正義聯盟，好使「他的」能介入其中，但里克茲卻只想摧毀這個世界。在[美國正義協會](../Page/美國正義協會.md "wikilink")與美國正義聯盟的聯合下制服了凱旋，而里克茲則被的結合成一個新的紫色雷霆\[12\]。
 
-在他發動的攻擊中，凱旋表達了對聯盟所謂的精英主義上的不滿，並指責聯盟在「頭條新聞」回歸後無視他的團隊，以及（在《JLA》\#30中）聲稱[水行俠沒照顧好吉普賽](../Page/水行俠.md "wikilink")（吉普賽曾在「底特律」聯盟中與水行俠組隊），且忽視了她和自己在過去中的「夢想」。對於凱旋的聲明而感到震撼的[超人告訴他](../Page/超人.md "wikilink")，他是個「優秀的盟友」且如果他只是簡單地提問，那自己表達「隨時歡迎」的立場。
+在他發動的攻擊中，凱旋表達了對聯盟所謂的精英主義上的不滿，並指責聯盟在「頭條新聞」回歸後無視他的團隊，以及（在《JLA》\#30中）聲稱[水行俠](../Page/水行俠.md "wikilink")沒照顧好吉普賽（吉普賽曾在「底特律」聯盟中與水行俠組隊），且忽視了她和自己在過去中的「夢想」。對於凱旋的聲明而感到震撼的[超人](../Page/超人.md "wikilink")告訴他，他是個「優秀的盟友」且如果他只是簡單地提問，那自己表達「隨時歡迎」的立場。
 
 在該故事線結束時，[幽靈將凱旋凍結成冰並準備用錘子砸碎他](https://zh.wikipedia.org/wiki/幽靈_\(DC漫畫\) "wikilink")，但被感到同情的天使所阻止。被凍結的凱旋存放於正義聯盟總部中，象徵著「JLA的創始成員」以作為紀念\[13\]。該故事的作者後來摧毀了總部，但忘了交代凱旋的下場；幾年後，該角被證實已死亡\[14\]。
 
 ### 後來提及
 
-在凱旋去世幾年後，據透露，他留下了一名不知何時誕生的兒子強納森（）。在大學抗議建造[核子反應爐期間](https://zh.wikipedia.org/wiki/核子反應爐 "wikilink")，發瘋的強納森就曾表現出與他父親相似的超人類力量。並在橫衝直撞下殺死了包括女友克莉絲汀（）在內的十九人後，強納森遇見了超人及[少年悍將的](https://zh.wikipedia.org/wiki/少年悍將 "wikilink")[酷姬](https://zh.wikipedia.org/wiki/酷姬 "wikilink")。這兩個人利用酷姬的能力進入強納森的腦海中，並在那得知由於凱旋生前曾遭排除於時間流且之後又回歸於現代，加上[至尊小超人在](../Page/至尊小超人.md "wikilink")《[無限危機](https://zh.wikipedia.org/wiki/無限危機 "wikilink")》中引起的歷史變動而造成強納森陷入瘋狂。酷姬最後以化身為凱旋的形象而擊敗了強納森，同時以此說服了對方停止其殺戮行為。之後，強納森在一道耀眼的光芒中消失，且他在此後的下場如何也不得而知\[15\]。
+在凱旋去世幾年後，據透露，他留下了一名不知何時誕生的兒子強納森（）。在大學抗議建造[核子反應爐期間](https://zh.wikipedia.org/wiki/核子反應爐 "wikilink")，發瘋的強納森就曾表現出與他父親相似的超人類力量。並在橫衝直撞下殺死了包括女友克莉絲汀（）在內的十九人後，強納森遇見了超人及[少年悍將的](https://zh.wikipedia.org/wiki/少年悍將 "wikilink")[酷姬](https://zh.wikipedia.org/wiki/酷姬 "wikilink")。這兩個人利用酷姬的能力進入強納森的腦海中，並在那得知由於凱旋生前曾遭排除於時間流且之後又回歸於現代，加上[至尊小超人](../Page/至尊小超人.md "wikilink")在《[無限危機](https://zh.wikipedia.org/wiki/無限危機 "wikilink")》中引起的歷史變動而造成強納森陷入瘋狂。酷姬最後以化身為凱旋的形象而擊敗了強納森，同時以此說服了對方停止其殺戮行為。之後，強納森在一道耀眼的光芒中消失，且他在此後的下場如何也不得而知\[15\]。
 
 在與於《[極黑之夜](https://zh.wikipedia.org/wiki/極黑之夜 "wikilink")》的戰鬥中曾簡要提到了凱旋。光博士用嘲諷性的語氣形容像凱旋這樣厲害的那些英雄在去世後很快就被人遺忘，而他也表示這將是紀美代的命運\[16\]。
 
@@ -42,7 +42,7 @@ DC漫畫的粉絲最初不喜歡該角；作者克里斯多夫·普利斯特和�
 
 ## 能力
 
-雖然沒有的敘述，但能看出凱旋擁有能操縱[電磁](https://zh.wikipedia.org/wiki/電磁學 "wikilink")[波譜的超能力](https://zh.wikipedia.org/wiki/電磁波譜 "wikilink")。這種力量賦予他所謂的「360度的超感官」，或能利用電磁來達成[接觸感應的能力](../Page/接觸感應.md "wikilink")。凱旋憑藉這種能力能夠「聽見」[電視](https://zh.wikipedia.org/wiki/電視 "wikilink")、[無線電的信號及解析](https://zh.wikipedia.org/wiki/無線電 "wikilink")[通訊衛星](../Page/通訊衛星.md "wikilink")\[20\]。凱旋還能高超地操縱電磁能量；[超人表示](../Page/超人.md "wikilink")，凱旋甚至能藉由將從[細胞到其他身體部位中的](https://zh.wikipedia.org/wiki/細胞 "wikilink")[太陽能切斷來殺死超人](https://zh.wikipedia.org/wiki/太陽能 "wikilink")\[21\]。
+雖然沒有的敘述，但能看出凱旋擁有能操縱[電磁](https://zh.wikipedia.org/wiki/電磁學 "wikilink")[波譜的超能力](https://zh.wikipedia.org/wiki/電磁波譜 "wikilink")。這種力量賦予他所謂的「360度的超感官」，或能利用電磁來達成[接觸感應](../Page/接觸感應.md "wikilink")的能力。凱旋憑藉這種能力能夠「聽見」[電視](https://zh.wikipedia.org/wiki/電視 "wikilink")、[無線電的信號及解析](https://zh.wikipedia.org/wiki/無線電 "wikilink")[通訊衛星](../Page/通訊衛星.md "wikilink")\[20\]。凱旋還能高超地操縱電磁能量；[超人](../Page/超人.md "wikilink")表示，凱旋甚至能藉由將從[細胞到其他身體部位中的](https://zh.wikipedia.org/wiki/細胞 "wikilink")[太陽能切斷來殺死超人](https://zh.wikipedia.org/wiki/太陽能 "wikilink")\[21\]。
 
 凱旋也能利用電磁能量作為攻擊手段。如他會將能量儲存於手中並透過金屬線路來將其作為強大的電流釋放而出。此外，他的英雄服裝能為自己提供一定程度的保護，避免過強的能量傷到自身\[22\]。
 
@@ -52,21 +52,14 @@ DC漫畫的粉絲最初不喜歡該角；作者克里斯多夫·普利斯特和�
 
 ## 外部連結
 
-  - [Digital Priest archive of the script for Triumph
-    \#1](https://web.archive.org/web/20050309203819/http://phonogram.us/archive/scripts/triumph1.htm)
+  - [Digital Priest archive of the script for Triumph \#1](https://web.archive.org/web/20050309203819/http://phonogram.us/archive/scripts/triumph1.htm)
 
-  - [Christopher J. Priest essay on Triumph
-    (archived)](https://web.archive.org/web/20110717201406/http://www.digital-priest.com/comics/triumph.htm)
+  - [Christopher J. Priest essay on Triumph (archived)](https://web.archive.org/web/20110717201406/http://www.digital-priest.com/comics/triumph.htm)
 
-  - [Triumph at the DC Database
-    Project](https://zh.wikipedia.org/wiki/DCDatabase:William_MacIntyre_\(New_Earth\) "wikilink")
+  - [Triumph at the DC Database Project](https://zh.wikipedia.org/wiki/DCDatabase:William_MacIntyre_\(New_Earth\) "wikilink")
 
   -
-[Category:DC漫画作品](https://zh.wikipedia.org/wiki/Category:DC漫画作品 "wikilink")
-[Category:DC漫画超級英雄](https://zh.wikipedia.org/wiki/Category:DC漫画超級英雄 "wikilink")
-[Category:具有超人力气的DC漫画角色](https://zh.wikipedia.org/wiki/Category:具有超人力气的DC漫画角色 "wikilink")
-[Category:虛構雙性戀男性](https://zh.wikipedia.org/wiki/Category:虛構雙性戀男性 "wikilink")
-[Category:LGBT超級英雄](https://zh.wikipedia.org/wiki/Category:LGBT超級英雄 "wikilink")
+[Category:DC漫画作品](https://zh.wikipedia.org/wiki/Category:DC漫画作品 "wikilink") [Category:DC漫画超級英雄](https://zh.wikipedia.org/wiki/Category:DC漫画超級英雄 "wikilink") [Category:具有超人力气的DC漫画角色](https://zh.wikipedia.org/wiki/Category:具有超人力气的DC漫画角色 "wikilink") [Category:虛構雙性戀男性](https://zh.wikipedia.org/wiki/Category:虛構雙性戀男性 "wikilink") [Category:LGBT超級英雄](https://zh.wikipedia.org/wiki/Category:LGBT超級英雄 "wikilink")
 
 1.
 

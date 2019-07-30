@@ -4,7 +4,7 @@
 
   - ，在巴基斯坦的一家電視台
 
-  - **，使用[乌尔都语所出版的出版物](../Page/乌尔都语.md "wikilink")
+  - **，使用[乌尔都语](../Page/乌尔都语.md "wikilink")所出版的出版物
 
   - **，美國阿爾卑斯俱樂部所出版的出版物
 
@@ -14,23 +14,12 @@
 
 **AAJ** or **Aaj** may refer to:
 
-  - [*Aaj*
-    (film)](https://zh.wikipedia.org/wiki/Aaj_\(film\) "wikilink"), a
-    1987 film directed by Mahesh Bhatt
-  - [AAJ TV](https://zh.wikipedia.org/wiki/AAJ_TV "wikilink"), a
-    television station in Pakistan
-  - *[Daily Aaj](https://zh.wikipedia.org/wiki/Daily_Aaj "wikilink")*,
-    an Urdu publication
-  - *[American Alpine
-    Journal](https://zh.wikipedia.org/wiki/American_Alpine_Journal "wikilink")*,
-    a publication of the American Alpine Club
-  - [American Association for
-    Justice](https://zh.wikipedia.org/wiki/American_Association_for_Justice "wikilink"),
-    a U.S. legal organization (formerly Association of Trial Lawyers of
-    America, ATLA)
-  - [Cayana
-    Airstrip](https://zh.wikipedia.org/wiki/Cayana_Airstrip "wikilink")
-    (IATA code), Suriname
+  - [*Aaj* (film)](https://zh.wikipedia.org/wiki/Aaj_\(film\) "wikilink"), a 1987 film directed by Mahesh Bhatt
+  - [AAJ TV](https://zh.wikipedia.org/wiki/AAJ_TV "wikilink"), a television station in Pakistan
+  - *[Daily Aaj](https://zh.wikipedia.org/wiki/Daily_Aaj "wikilink")*, an Urdu publication
+  - *[American Alpine Journal](https://zh.wikipedia.org/wiki/American_Alpine_Journal "wikilink")*, a publication of the American Alpine Club
+  - [American Association for Justice](https://zh.wikipedia.org/wiki/American_Association_for_Justice "wikilink"), a U.S. legal organization (formerly Association of Trial Lawyers of America, ATLA)
+  - [Cayana Airstrip](https://zh.wikipedia.org/wiki/Cayana_Airstrip "wikilink") (IATA code), Suriname
 
 ## 可以看看
 

@@ -7,17 +7,13 @@ local p = {}
 local function makeWikitextError(msg)
 
 `   return string.format(`
-`       '`<strong class="error">`错误：%s（`[`Template:Category``   ``see``
- ``also`](https://zh.wikipedia.org/wiki/Template:Category_see_also "wikilink")`）`</strong>`',`
+`       '`<strong class="error">`错误：%s（`[`Template:Category``   ``see``   ``also`](https://zh.wikipedia.org/wiki/Template:Category_see_also "wikilink")`）`</strong>`',`
 `       msg`
 `   )`
 
 end
 
-\-- Gets the length of the sequence seq. Usually this should be done
-with the \# -- operator, but we need to work with tables that get their
-values through an -- __index metamethod. local function
-getSequenceLength(seq)
+\-- Gets the length of the sequence seq. Usually this should be done with the \# -- operator, but we need to work with tables that get their values through an -- __index metamethod. local function getSequenceLength(seq)
 
 `   local length = 0`
 `   for i in ipairs(seq) do`
@@ -27,21 +23,12 @@ getSequenceLength(seq)
 
 end
 
-\-- Given a table of options, returns a function that formats categories
-for -- those options. -- -- Options: -- project - a project code such as
-"fr" (for the French Wikipedia) -- showPrefix - a boolean value for
-whether to show the "Category:" prefix -- (and the project prefix if
-specified) -- -- This is implemented as a function generator rather than
-a simple function -- so that we can just process the options once,
-instead of every time we -- generate a category. local function
-newCategoryLinker(options)
+\-- Given a table of options, returns a function that formats categories for -- those options. -- -- Options: -- project - a project code such as "fr" (for the French Wikipedia) -- showPrefix - a boolean value for whether to show the "Category:" prefix -- (and the project prefix if specified) -- -- This is implemented as a function generator rather than a simple function -- so that we can just process the options once, instead of every time we -- generate a category. local function newCategoryLinker(options)
 
 `   local formatString`
 `   if options.project then`
 `       if options.showPrefix then`
-`           formatString = '`[`:'``   ``..``   ``options.project``
- ``..``
- ``':Category:%s`](https://zh.wikipedia.org/wiki/:'_.._options.project_.._':Category:%s "wikilink")`'`
+`           formatString = '`[`:'``   ``..``   ``options.project``   ``..``   ``':Category:%s`](https://zh.wikipedia.org/wiki/:'_.._options.project_.._':Category:%s "wikilink")`'`
 `       else`
 `           formatString = '`[`%s`](https://zh.wikipedia.org/wiki/:'_.._options.project_.._':Category:%s "wikilink")`'`
 `       end`

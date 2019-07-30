@@ -1,14 +1,10 @@
-} | headerstyle = background:\#DADCED; | labelstyle =
-background:\#DADCED; | datastyle = background:\#E6E8FA;
-text-align:center;
+} | headerstyle = background:\#DADCED; | labelstyle = background:\#DADCED; | datastyle = background:\#E6E8FA; text-align:center;
 
 | image = | caption =
 
-| label1 = 電視劇 | data1 = 2 | label2 = 綜藝節目主持 | data2 = 3 | label3 = 動畫配音
-| data3 = 2 | label4 = 音樂錄影帶 | data4 = 2 | label5 = 電影 | data5 = 1 |
-label6 = 單元劇/短劇 | data6 = 2 }}
+| label1 = 電視劇 | data1 = 2 | label2 = 綜藝節目主持 | data2 = 3 | label3 = 動畫配音 | data3 = 2 | label4 = 音樂錄影帶 | data4 = 2 | label5 = 電影 | data5 = 1 | label6 = 單元劇/短劇 | data6 = 2 }}
 
-本條目列舉[臺灣](../Page/臺灣.md "wikilink")[女子演唱團體](https://zh.wikipedia.org/wiki/女子演唱團體 "wikilink")[S.H.E參與演出的電影](../Page/S.H.E.md "wikilink")、劇集、音樂錄影帶和綜藝節目主持，而出版過的書籍亦有收入\[1\]。
+本條目列舉[臺灣](../Page/臺灣.md "wikilink")[女子演唱團體](https://zh.wikipedia.org/wiki/女子演唱團體 "wikilink")[S.H.E](../Page/S.H.E.md "wikilink")參與演出的電影、劇集、音樂錄影帶和綜藝節目主持，而出版過的書籍亦有收入\[1\]。
 
 ## 電視劇演出
 
@@ -129,7 +125,7 @@ label6 = 單元劇/短劇 | data6 = 2 }}
 
 | 年分    | 專輯                                                         | 曲目      | 演唱者                                | 備註                                       |
 | ----- | ---------------------------------------------------------- | ------- | ---------------------------------- | ---------------------------------------- |
-| 2002年 | [MAN](https://zh.wikipedia.org/wiki/MAN_\(專輯\) "wikilink") | 路人甲     | [動力火車](../Page/動力火車.md "wikilink") | 客串，與[張智成共同演出](../Page/張智成.md "wikilink") |
+| 2002年 | [MAN](https://zh.wikipedia.org/wiki/MAN_\(專輯\) "wikilink") | 路人甲     | [動力火車](../Page/動力火車.md "wikilink") | 客串，與[張智成](../Page/張智成.md "wikilink")共同演出 |
 | 2009年 | [感官/世界](https://zh.wikipedia.org/wiki/感官/世界 "wikilink")    | 看見什麼吃什麼 | [林宥嘉](../Page/林宥嘉.md "wikilink")   | 客串，以S.H.E的歌曲「女孩當自強」MV的形象出現               |
 |       |                                                            |         |                                    |                                          |
 
@@ -139,11 +135,11 @@ label6 = 單元劇/短劇 | data6 = 2 }}
 
 | 時間              | 頻道                                                | 節目                                                         | 備註                                                                                                                                                                                                                                                 |
 | --------------- | ------------------------------------------------- | ---------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2001年11月17日     | [中視](https://zh.wikipedia.org/wiki/中視 "wikilink") | [我猜我猜我猜猜猜](../Page/我猜我猜我猜猜猜.md "wikilink")                 | 代班主持，與[吳宗憲](../Page/吳宗憲.md "wikilink")、[柳翰雅共同主持](../Page/柳翰雅.md "wikilink")                                                                                                                                                                        |
-| 2002年2月2日-8月17日 | [中視](https://zh.wikipedia.org/wiki/中視 "wikilink") | [我猜我猜我猜猜猜](../Page/我猜我猜我猜猜猜.md "wikilink")                 | 首次參與主持綜藝節目，與[吳宗憲](../Page/吳宗憲.md "wikilink")、[柳翰雅共同主持](../Page/柳翰雅.md "wikilink")                                                                                                                                                                  |
-| 2003年2月         | [華視](https://zh.wikipedia.org/wiki/華視 "wikilink") | 羊羊得意 Young翻天                                               | 除夕夜特別節目，與[張小燕](../Page/張小燕_\(臺灣\).md "wikilink")、[黃子佼](../Page/黃子佼.md "wikilink")、[卜學亮](../Page/卜學亮.md "wikilink")、[羅志祥共同主持](../Page/羅志祥.md "wikilink")                                                                                            |
-| 2003年4月-2004年   | [華視](https://zh.wikipedia.org/wiki/華視 "wikilink") | [快樂星期天](../Page/快樂星期天.md "wikilink")                       | 與[張小燕](../Page/張小燕_\(臺灣\).md "wikilink")、[黃子佼](../Page/黃子佼.md "wikilink")、[卜學亮](../Page/卜學亮.md "wikilink")、[羅志祥](../Page/羅志祥.md "wikilink")、[張善為共同主持](../Page/張善為.md "wikilink")                                                                   |
-| 2005年10月17、18日  | [中天綜合台](../Page/中天綜合台.md "wikilink")              | [康熙來了之康永當家](https://zh.wikipedia.org/wiki/康永當家 "wikilink") | [徐熙娣因懷孕暫停主持工作](../Page/徐熙娣.md "wikilink")，《[康熙來了](../Page/康熙來了.md "wikilink")》暫時改為《[康永當家](https://zh.wikipedia.org/wiki/康永當家 "wikilink")》，並且由S.H.E擔任前兩集的代班[主持人與](https://zh.wikipedia.org/wiki/主持人 "wikilink")[蔡康永共同主持](../Page/蔡康永.md "wikilink") |
+| 2001年11月17日     | [中視](https://zh.wikipedia.org/wiki/中視 "wikilink") | [我猜我猜我猜猜猜](../Page/我猜我猜我猜猜猜.md "wikilink")                 | 代班主持，與[吳宗憲](../Page/吳宗憲.md "wikilink")、[柳翰雅](../Page/柳翰雅.md "wikilink")共同主持                                                                                                                                                                        |
+| 2002年2月2日-8月17日 | [中視](https://zh.wikipedia.org/wiki/中視 "wikilink") | [我猜我猜我猜猜猜](../Page/我猜我猜我猜猜猜.md "wikilink")                 | 首次參與主持綜藝節目，與[吳宗憲](../Page/吳宗憲.md "wikilink")、[柳翰雅](../Page/柳翰雅.md "wikilink")共同主持                                                                                                                                                                  |
+| 2003年2月         | [華視](https://zh.wikipedia.org/wiki/華視 "wikilink") | 羊羊得意 Young翻天                                               | 除夕夜特別節目，與[張小燕](../Page/張小燕_\(臺灣\).md "wikilink")、[黃子佼](../Page/黃子佼.md "wikilink")、[卜學亮](../Page/卜學亮.md "wikilink")、[羅志祥](../Page/羅志祥.md "wikilink")共同主持                                                                                            |
+| 2003年4月-2004年   | [華視](https://zh.wikipedia.org/wiki/華視 "wikilink") | [快樂星期天](../Page/快樂星期天.md "wikilink")                       | 與[張小燕](../Page/張小燕_\(臺灣\).md "wikilink")、[黃子佼](../Page/黃子佼.md "wikilink")、[卜學亮](../Page/卜學亮.md "wikilink")、[羅志祥](../Page/羅志祥.md "wikilink")、[張善為](../Page/張善為.md "wikilink")共同主持                                                                   |
+| 2005年10月17、18日  | [中天綜合台](../Page/中天綜合台.md "wikilink")              | [康熙來了之康永當家](https://zh.wikipedia.org/wiki/康永當家 "wikilink") | [徐熙娣](../Page/徐熙娣.md "wikilink")因懷孕暫停主持工作，《[康熙來了](../Page/康熙來了.md "wikilink")》暫時改為《[康永當家](https://zh.wikipedia.org/wiki/康永當家 "wikilink")》，並且由S.H.E擔任前兩集的代班[主持人與](https://zh.wikipedia.org/wiki/主持人 "wikilink")[蔡康永](../Page/蔡康永.md "wikilink")共同主持 |
 | 2007年2月3日-7月14日 | [中視](https://zh.wikipedia.org/wiki/中視 "wikilink") | [我猜我猜我猜猜猜](../Page/我猜我猜我猜猜猜.md "wikilink")                 | Selina、Hebe簽約半年，擔任女主持人；6月23日、30日、7月14日該集播出是由Ella為Hebe代班                                                                                                                                                                                            |
 | 2008年2月4日       | [中天綜合台](../Page/中天綜合台.md "wikilink")              | [康熙來了](../Page/康熙來了.md "wikilink")                         | Hebe、Ella與代班主持人Selina共同主持一集                                                                                                                                                                                                                        |
 |                 |                                                   |                                                            |                                                                                                                                                                                                                                                    |
@@ -165,7 +161,7 @@ label6 = 單元劇/短劇 | data6 = 2 }}
 <tr class="odd">
 <td><p>2001年</p></td>
 <td><p>《半熟卵女生宿舍》</p></td>
-<td><p><a href="../Page/聯經出版.md" title="wikilink">聯經出版公司</a></p></td>
+<td><p><a href="../Page/聯經出版.md" title="wikilink">聯經出版</a>公司</p></td>
 <td><p>ISBN 9570823178</p></td>
 </tr>
 <tr class="even">
@@ -247,8 +243,7 @@ label6 = 單元劇/短劇 | data6 = 2 }}
   -
   -
   -
-[Category:S.H.E](https://zh.wikipedia.org/wiki/Category:S.H.E "wikilink")
-[Category:女演員作品列表](https://zh.wikipedia.org/wiki/Category:女演員作品列表 "wikilink")
+[Category:S.H.E](https://zh.wikipedia.org/wiki/Category:S.H.E "wikilink") [Category:女演員作品列表](https://zh.wikipedia.org/wiki/Category:女演員作品列表 "wikilink")
 
 1.  成員的個人部分請參閱個人條目。
 2.

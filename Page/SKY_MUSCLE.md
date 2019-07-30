@@ -1,5 +1,4 @@
-《**偉大的運動場－SKY MUSCLE**》（），簡稱**SKY
-MUSCLE**，為韓國[JTBC電視台於](../Page/JTBC.md "wikilink")2019年推出的試播節目\[1\]，由[俞世潤](../Page/俞世潤.md "wikilink")、[朴娜勑](../Page/朴娜勑.md "wikilink")、[Amber](https://zh.wikipedia.org/wiki/劉逸雲 "wikilink")（[f(x)](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink")）、[權赫秀](../Page/權赫秀.md "wikilink")、[恩熙](../Page/恩熙_\(歌手\).md "wikilink")（[宇宙少女](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")）、[JooE](../Page/JooE.md "wikilink")（[MOMOLAND](../Page/MOMOLAND.md "wikilink")）\[2\]及知名健身教練梁致勝等人共同演出，節目主軸為演藝界「運動人代表們」變身為運動教練，與想要進行體力和身材管理的參加者們一起愉快地運動\[3\]\[4\]。
+《**偉大的運動場－SKY MUSCLE**》（），簡稱**SKY MUSCLE**，為韓國[JTBC](../Page/JTBC.md "wikilink")電視台於2019年推出的試播節目\[1\]，由[俞世潤](../Page/俞世潤.md "wikilink")、[朴娜勑](../Page/朴娜勑.md "wikilink")、[Amber](https://zh.wikipedia.org/wiki/劉逸雲 "wikilink")（[f(x)](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink")）、[權赫秀](../Page/權赫秀.md "wikilink")、[恩熙](../Page/恩熙_\(歌手\).md "wikilink")（[宇宙少女](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")）、[JooE](../Page/JooE.md "wikilink")（[MOMOLAND](../Page/MOMOLAND.md "wikilink")）\[2\]及知名健身教練梁致勝等人共同演出，節目主軸為演藝界「運動人代表們」變身為運動教練，與想要進行體力和身材管理的參加者們一起愉快地運動\[3\]\[4\]。
 
 ## 節目成員
 
@@ -59,7 +58,7 @@ MUSCLE**，為韓國[JTBC電視台於](../Page/JTBC.md "wikilink")2019年推出�
 <td><p><a href="../Page/JooE.md" title="wikilink">JooE</a></p></td>
 <td></td>
 <td></td>
-<td><p><a href="../Page/歌手.md" title="wikilink">歌手</a>（<a href="../Page/MOMOLAND.md" title="wikilink">MOMOLAND成員</a>）</p></td>
+<td><p><a href="../Page/歌手.md" title="wikilink">歌手</a>（<a href="../Page/MOMOLAND.md" title="wikilink">MOMOLAND</a>成員）</p></td>
 </tr>
 </tbody>
 </table>
@@ -183,9 +182,7 @@ MUSCLE**，為韓國[JTBC電視台於](../Page/JTBC.md "wikilink")2019年推出�
 
   - [官方網站](http://tv.jtbc.joins.com/skymuscle)
 
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:JTBC](https://zh.wikipedia.org/wiki/Category:JTBC "wikilink")
+[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:JTBC](https://zh.wikipedia.org/wiki/Category:JTBC "wikilink")
 
 1.
 2.

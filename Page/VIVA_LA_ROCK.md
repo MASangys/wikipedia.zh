@@ -1,21 +1,12 @@
-**VIVA LA ROCK**（全称：VIVA LA ROCK
-FESTIVAL；；简称：），是[日本的一个室内](../Page/日本.md "wikilink")[摇滚](../Page/摇滚.md "wikilink")[音乐节](https://zh.wikipedia.org/wiki/音樂節 "wikilink")。由音乐杂志社和演唱会运营商共同主办\[1\]。2014年首次举办，此后每年5月的[黄金周期间在](../Page/黄金周_\(日本\).md "wikilink")[埼玉超级竞技场进行为期](../Page/埼玉超級競技場.md "wikilink")3天的音乐节活动\[2\]。制作人为《》杂志主编、音乐评论家。VIVA
-LA
-ROCK已经发展成为[埼玉县史上最大规模的音乐节](https://zh.wikipedia.org/wiki/埼玉县 "wikilink")\[3\]\[4\]。
+**VIVA LA ROCK**（全称：VIVA LA ROCK FESTIVAL；；简称：），是[日本](../Page/日本.md "wikilink")的一个室内[摇滚](../Page/摇滚.md "wikilink")[音乐节](https://zh.wikipedia.org/wiki/音樂節 "wikilink")。由音乐杂志社和演唱会运营商共同主办\[1\]。2014年首次举办，此后每年5月的[黄金周期间在](../Page/黄金周_\(日本\).md "wikilink")[埼玉超级竞技场进行为期](../Page/埼玉超級競技場.md "wikilink")3天的音乐节活动\[2\]。制作人为《》杂志主编、音乐评论家。VIVA LA ROCK已经发展成为[埼玉县史上最大规模的音乐节](https://zh.wikipedia.org/wiki/埼玉县 "wikilink")\[3\]\[4\]。
 
 ## 简介
 
-VIVA LA
-ROCK是日本埼玉县境内首个大型摇滚音乐节，主题为“音乐的，来自音乐，为了音乐”。2014年第一届举办时预计每日出场20组艺人，到场观众20000人，会程3天共60组艺人，60000人观众的规模\[5\]。
+VIVA LA ROCK是日本埼玉县境内首个大型摇滚音乐节，主题为“音乐的，来自音乐，为了音乐”。2014年第一届举办时预计每日出场20组艺人，到场观众20000人，会程3天共60组艺人，60000人观众的规模\[5\]。
 
-音乐节除了常规演出外，还在会场外设置了无需门票即可进入的“VIVA LA GARDEN”（GARDEN
-STAGE所在场地）\[6\]；展示各种音乐的音乐同人市场“音店”；部分参演艺人的签名会或签售会；另外在日间的演出结束后夜间还将通宵举办“ALL
-NIGHT VIVA\!”演出\[7\]。
+音乐节除了常规演出外，还在会场外设置了无需门票即可进入的“VIVA LA GARDEN”（GARDEN STAGE所在场地）\[6\]；展示各种音乐的音乐同人市场“音店”；部分参演艺人的签名会或签售会；另外在日间的演出结束后夜间还将通宵举办“ALL NIGHT VIVA\!”演出\[7\]。
 
-VIVA LA ROCK利用[埼玉超级竞技场作为主场地](../Page/埼玉超級競技場.md "wikilink")，一层布置STAR
-STAGE、VIVA\! STAGE、CAVE STAGE共3个主演出舞台，二层作为主出入口并可连通VIVA LA
-GARDEN所在的，四层及五层用作签名会、音店、TALK STAGE、ALL NIGHT
-VIVA\!、餐饮及休息场所等。
+VIVA LA ROCK利用[埼玉超级竞技场作为主场地](../Page/埼玉超級競技場.md "wikilink")，一层布置STAR STAGE、VIVA\! STAGE、CAVE STAGE共3个主演出舞台，二层作为主出入口并可连通VIVA LA GARDEN所在的，四层及五层用作签名会、音店、TALK STAGE、ALL NIGHT VIVA\!、餐饮及休息场所等。
 
 2015年起发售“埼玉县限定门票”，提供给埼玉县当地居民以优惠的价格购买3日通票\[8\]。
 
@@ -25,9 +16,7 @@ VIVA\!、餐饮及休息场所等。
 
 ### 2013年
 
-为祝贺VIVA LA
-ROCK音乐节开办，2013年10月17日和18日在[东京](../Page/东京.md "wikilink")[台场](https://zh.wikipedia.org/wiki/台場 "wikilink")举办“VIVA
-LA ROCK ZERO”先行活动，共8组艺人出演\[10\]。
+为祝贺VIVA LA ROCK音乐节开办，2013年10月17日和18日在[东京](../Page/东京.md "wikilink")[台场](https://zh.wikipedia.org/wiki/台場 "wikilink")举办“VIVA LA ROCK ZERO”先行活动，共8组艺人出演\[10\]。
 
 <table>
 <thead>
@@ -54,8 +43,7 @@ LA ROCK ZERO”先行活动，共8组艺人出演\[10\]。
 
 ### 2014年
 
-2014年5月3日至5日，第一届VIVA LA
-ROCK音乐节开幕，共有63组艺人出演\[11\]。设置3个室内舞台，1个室外舞台\[12\]。当年到场观众约54000人\[13\]。开幕前一天还举行了前夜祭活动\[14\]。
+2014年5月3日至5日，第一届VIVA LA ROCK音乐节开幕，共有63组艺人出演\[11\]。设置3个室内舞台，1个室外舞台\[12\]。当年到场观众约54000人\[13\]。开幕前一天还举行了前夜祭活动\[14\]。
 
 <table>
 <thead>
@@ -226,9 +214,7 @@ ROCK音乐节开幕，共有63组艺人出演\[11\]。设置3个室内舞台，1
 
 ### 2015年
 
-继第一届VIVA LA ROCK举行先行活动之后，第二届VIVA LA
-ROCK也在2015年1月12日在东京[新木场](../Page/新木場.md "wikilink")举行“KICK
-OFF VIVA\!\!\!”先行活动\[15\]。共9组艺人出演。
+继第一届VIVA LA ROCK举行先行活动之后，第二届VIVA LA ROCK也在2015年1月12日在东京[新木场](../Page/新木場.md "wikilink")举行“KICK OFF VIVA\!\!\!”先行活动\[15\]。共9组艺人出演。
 
 <table>
 <thead>
@@ -250,11 +236,7 @@ OFF VIVA\!\!\!”先行活动\[15\]。共9组艺人出演。
 </tbody>
 </table>
 
-2015年5月3日至5日，第二届VIVA LA
-ROCK音乐节开幕，共有81组艺人出演\[16\]\[17\]。相比去年增加了一个演出舞台和一个访谈舞台。本届音乐节起主办方组建了VIVA
-LA J-ROCK ANTHEMS\!特别乐队，与各参演艺人组合演出一些经典歌曲\[18\]\[19\]。第三天终演后加开“AFTER
-VIVA\!\!\!”特别演出\[20\]。此外本届音乐节中，CAVE
-STAGE的演出将通过[手机应用对外进行](https://zh.wikipedia.org/wiki/手机应用 "wikilink")[现场直播](../Page/現場直播.md "wikilink")\[21\]。
+2015年5月3日至5日，第二届VIVA LA ROCK音乐节开幕，共有81组艺人出演\[16\]\[17\]。相比去年增加了一个演出舞台和一个访谈舞台。本届音乐节起主办方组建了VIVA LA J-ROCK ANTHEMS\!特别乐队，与各参演艺人组合演出一些经典歌曲\[18\]\[19\]。第三天终演后加开“AFTER VIVA\!\!\!”特别演出\[20\]。此外本届音乐节中，CAVE STAGE的演出将通过[手机应用对外进行](https://zh.wikipedia.org/wiki/手机应用 "wikilink")[现场直播](../Page/現場直播.md "wikilink")\[21\]。
 
 <table>
 <thead>
@@ -476,12 +458,7 @@ STAGE的演出将通过[手机应用对外进行](https://zh.wikipedia.org/wiki/
 
 ### 2016年
 
-2016年的VIVA LA
-ROCK因[埼玉超级竞技场的维修工程](../Page/埼玉超級競技場.md "wikilink")，所以延期至5月28日和29日举办\[22\]。共有58组艺人出演\[23\]。4月26日在东京[涉谷举办了](https://zh.wikipedia.org/wiki/涉谷 "wikilink")“SPICE
-presents「VIVA LA ROCK 2016 決起会\!」supported by LIVING ROOM CAFE by
-eplus”先行活动\[24\]。5月27日开幕前一天举办免费入场的前夜祭“FREE
-VIVA\!\!\!”\[25\]。与去年相同本届在CAVE
-STAGE的演出同样通过手机应用对外进行直播\[26\]。本届音乐节到场观众超过6万人\[27\]。
+2016年的VIVA LA ROCK因[埼玉超级竞技场的维修工程](../Page/埼玉超級競技場.md "wikilink")，所以延期至5月28日和29日举办\[22\]。共有58组艺人出演\[23\]。4月26日在东京[涉谷举办了](https://zh.wikipedia.org/wiki/涉谷 "wikilink")“SPICE presents「VIVA LA ROCK 2016 決起会\!」supported by LIVING ROOM CAFE by eplus”先行活动\[24\]。5月27日开幕前一天举办免费入场的前夜祭“FREE VIVA\!\!\!”\[25\]。与去年相同本届在CAVE STAGE的演出同样通过手机应用对外进行直播\[26\]。本届音乐节到场观众超过6万人\[27\]。
 
 <table>
 <thead>
@@ -595,10 +572,7 @@ STAGE的演出同样通过手机应用对外进行直播\[26\]。本届音乐节
 
 ### 2017年
 
-2017年4月13日举行了“VIVA LA ROCK 2017決起会！meets菅止戈男”先行活动\[28\]。5月3日至5日，第四届VIVA
-LA
-ROCK开幕，除了惯常的3天音乐节活动外，5月6日还将与[菅止戈男共同主办其出道](../Page/菅止戈男.md "wikilink")20周年纪念活动\[29\]。本届共有78组艺人出演\[30\]。本届活动中特别为埼玉县在住的[残障人士举办了慈善拍卖活动](https://zh.wikipedia.org/wiki/殘障人士 "wikilink")，包括众多艺人所使用的乐器、器材、服饰、私人物品等参加拍卖，拍卖收入378万余日元捐于埼玉县残疾人艺术节实行委员会\[31\]\[32\]。此外主办方还举办了20岁以下青少年参加的Teenage
-Saitama音乐大赛\[33\]，获胜者可以登上VIVA LA ROCK的舞台演出。
+2017年4月13日举行了“VIVA LA ROCK 2017決起会！meets菅止戈男”先行活动\[28\]。5月3日至5日，第四届VIVA LA ROCK开幕，除了惯常的3天音乐节活动外，5月6日还将与[菅止戈男](../Page/菅止戈男.md "wikilink")共同主办其出道20周年纪念活动\[29\]。本届共有78组艺人出演\[30\]。本届活动中特别为埼玉县在住的[残障人士举办了慈善拍卖活动](https://zh.wikipedia.org/wiki/殘障人士 "wikilink")，包括众多艺人所使用的乐器、器材、服饰、私人物品等参加拍卖，拍卖收入378万余日元捐于埼玉县残疾人艺术节实行委员会\[31\]\[32\]。此外主办方还举办了20岁以下青少年参加的Teenage Saitama音乐大赛\[33\]，获胜者可以登上VIVA LA ROCK的舞台演出。
 
 <table>
 <thead>
@@ -773,10 +747,7 @@ Saitama音乐大赛\[33\]，获胜者可以登上VIVA LA ROCK的舞台演出。
 
 ### 2018年
 
-曾于三年前举办的先行活动“KICK OFF
-VIVA\!\!\!”再度复活\[34\]，于2017年11月12日和2018年1月18日分别在[埼玉市](../Page/埼玉市.md "wikilink")和东京[惠比寿举办](https://zh.wikipedia.org/wiki/惠比寿 "wikilink")\[35\]。2018年5月3日至5日，第五届VIVA
-LA ROCK开幕，共80组艺人出演\[36\]。本届在5月6日增加了以偶像为主要参加群体的“VIVA LA
-POP\!”特别活动\[37\]，共有17组艺人参加\[38\]。
+曾于三年前举办的先行活动“KICK OFF VIVA\!\!\!”再度复活\[34\]，于2017年11月12日和2018年1月18日分别在[埼玉市](../Page/埼玉市.md "wikilink")和东京[惠比寿举办](https://zh.wikipedia.org/wiki/惠比寿 "wikilink")\[35\]。2018年5月3日至5日，第五届VIVA LA ROCK开幕，共80组艺人出演\[36\]。本届在5月6日增加了以偶像为主要参加群体的“VIVA LA POP\!”特别活动\[37\]，共有17组艺人参加\[38\]。
 
 <table>
 <thead>
@@ -988,10 +959,7 @@ POP\!”特别活动\[37\]，共有17组艺人参加\[38\]。
 
   - [VIVA LA POP](https://vivalapop.jp/)
 
-[Category:日本音乐节](https://zh.wikipedia.org/wiki/Category:日本音乐节 "wikilink")
-[Category:搖滾音樂節](https://zh.wikipedia.org/wiki/Category:搖滾音樂節 "wikilink")
-[Category:埼玉縣文化](https://zh.wikipedia.org/wiki/Category:埼玉縣文化 "wikilink")
-[Category:埼玉新都心](https://zh.wikipedia.org/wiki/Category:埼玉新都心 "wikilink")
+[Category:日本音乐节](https://zh.wikipedia.org/wiki/Category:日本音乐节 "wikilink") [Category:搖滾音樂節](https://zh.wikipedia.org/wiki/Category:搖滾音樂節 "wikilink") [Category:埼玉縣文化](https://zh.wikipedia.org/wiki/Category:埼玉縣文化 "wikilink") [Category:埼玉新都心](https://zh.wikipedia.org/wiki/Category:埼玉新都心 "wikilink")
 
 1.
 

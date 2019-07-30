@@ -1,9 +1,6 @@
-**CSUR**（ConScript Unicode
-Registry）是一个协调[Unicode](https://zh.wikipedia.org/wiki/Unicode "wikilink")[私人使用区中分配给](../Page/私人使用区.md "wikilink")的[码位的志愿项目](https://zh.wikipedia.org/wiki/码位 "wikilink")。\[1\]这个项目由创立，并由他和[叶密豪维护](https://zh.wikipedia.org/wiki/叶密豪 "wikilink")，然而这个项目已有数年未更新。这个项目与[统一码联盟官方并无关联](https://zh.wikipedia.org/wiki/统一码联盟 "wikilink")。
+**CSUR**（ConScript Unicode Registry）是一个协调[Unicode](https://zh.wikipedia.org/wiki/Unicode "wikilink")[私人使用区](../Page/私人使用区.md "wikilink")中分配给的[码位的志愿项目](https://zh.wikipedia.org/wiki/码位 "wikilink")。\[1\]这个项目由创立，并由他和[叶密豪维护](https://zh.wikipedia.org/wiki/叶密豪 "wikilink")，然而这个项目已有数年未更新。这个项目与[统一码联盟官方并无关联](https://zh.wikipedia.org/wiki/统一码联盟 "wikilink")。
 
-**UCSUR** （Under-ConScript Unicode
-Registry）是一个仿效CSUR，为尚未被CSUR支持的人工文字分配码位的项目。该项目由蕾貝卡·貝滕科特（Rebecca
-Bettencourt）运营。\[2\]
+**UCSUR** （Under-ConScript Unicode Registry）是一个仿效CSUR，为尚未被CSUR支持的人工文字分配码位的项目。该项目由蕾貝卡·貝滕科特（Rebecca Bettencourt）运营。\[2\]
 
 ## 支持的文字
 
@@ -95,7 +92,7 @@ CSUR和UCSUR包含了下列文字：
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/佛瑞吉.md" title="wikilink">佛瑞吉语文字</a></p></td>
+<td><p><a href="../Page/佛瑞吉.md" title="wikilink">佛瑞吉</a>语文字</p></td>
 <td><p>Timothy Miller</p></td>
 <td><p>align="center" data-sort-value="58880" | E600–E62F</p></td>
 <td></td>
@@ -259,13 +256,13 @@ CSUR和UCSUR包含了下列文字：
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/萧伯纳字母" title="wikilink">萧伯纳字母</a></p></td>
-<td><p>，受<a href="../Page/萧伯纳.md" title="wikilink">萧伯纳资助</a></p></td>
+<td><p>，受<a href="../Page/萧伯纳.md" title="wikilink">萧伯纳</a>资助</p></td>
 <td><p>align="center" data-sort-value="59136" | E700–E72F</p></td>
 <td><p>已废除，因其已被Unicode收录。<br />
 使用<a href="https://zh.wikipedia.org/wiki/萧伯纳字母_(Unicode区段)" title="wikilink">萧伯纳字母Unicode区段</a> （U+10450–U+1047F）。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/索来索语.md" title="wikilink">索来索语文字</a></p></td>
+<td><p><a href="../Page/索来索语.md" title="wikilink">索来索语</a>文字</p></td>
 <td></td>
 <td><p>align="center" data-sort-value="59248" | E770–E77F</p></td>
 <td></td>
@@ -368,12 +365,11 @@ CSUR和UCSUR包含了下列文字：
 
 仅有少数字体支持CSUR指定的码位：
 
-  - Constructium，一款基于[SIL
-    Gentium的](../Page/Gentium.md "wikilink")[比例字体](https://zh.wikipedia.org/wiki/比例字体 "wikilink")\[10\]
+  - Constructium，一款基于[SIL Gentium的](../Page/Gentium.md "wikilink")[比例字体](https://zh.wikipedia.org/wiki/比例字体 "wikilink")\[10\]
   - [Fairfax](https://zh.wikipedia.org/wiki/Fairfax "wikilink")，一款为文字编辑器和终端设计的[等宽字体](../Page/等宽字体.md "wikilink")\[11\]
   - [GNU Unifont](../Page/GNU_Unifont.md "wikilink")\[12\]
 
-曾有用户向Google提议，希望[Noto能支持CSUR和UCSUR](../Page/Noto.md "wikilink")，但被拒绝，理由是Noto仅为被Unicode收录的文字提供支持\[13\]。
+曾有用户向Google提议，希望[Noto](../Page/Noto.md "wikilink")能支持CSUR和UCSUR，但被拒绝，理由是Noto仅为被Unicode收录的文字提供支持\[13\]。
 
 ## 参见
 
@@ -382,14 +378,10 @@ CSUR和UCSUR包含了下列文字：
 
 ## 外部链接
 
-  - [ConScript Unicode
-    Registry](http://www.evertype.com/standards/csur/)
-  - [Under-ConScript Unicode
-    Registry](http://www.kreativekorp.com/ucsur/)
+  - [ConScript Unicode Registry](http://www.evertype.com/standards/csur/)
+  - [Under-ConScript Unicode Registry](http://www.kreativekorp.com/ucsur/)
 
-[Category:Unicode](https://zh.wikipedia.org/wiki/Category:Unicode "wikilink")
-[Category:人工语言](https://zh.wikipedia.org/wiki/Category:人工语言 "wikilink")
-[Category:信息技术组织](https://zh.wikipedia.org/wiki/Category:信息技术组织 "wikilink")
+[Category:Unicode](https://zh.wikipedia.org/wiki/Category:Unicode "wikilink") [Category:人工语言](https://zh.wikipedia.org/wiki/Category:人工语言 "wikilink") [Category:信息技术组织](https://zh.wikipedia.org/wiki/Category:信息技术组织 "wikilink")
 
 1.
 
@@ -414,6 +406,4 @@ CSUR和UCSUR包含了下列文字：
 
 12.
 
-13. [ConScript Unicode Registry Support · Issue \#883 ·
-    googlei18n/noto-fonts ·
-    GitHub](https://github.com/googlei18n/noto-fonts/issues/883)
+13. [ConScript Unicode Registry Support · Issue \#883 · googlei18n/noto-fonts · GitHub](https://github.com/googlei18n/noto-fonts/issues/883)

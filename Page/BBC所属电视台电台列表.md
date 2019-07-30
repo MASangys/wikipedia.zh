@@ -1,4 +1,4 @@
-**BBC所属电视台电台列表**列举的是[英国广播公司在](../Page/英国广播公司.md "wikilink")[联合王国境内所属的国家性](https://zh.wikipedia.org/wiki/联合王国 "wikilink")、区域性及地方性的[电视台与](../Page/电视台.md "wikilink")[电台](https://zh.wikipedia.org/wiki/电台 "wikilink")。
+**BBC所属电视台电台列表**列举的是[英国广播公司](../Page/英国广播公司.md "wikilink")在[联合王国境内所属的国家性](https://zh.wikipedia.org/wiki/联合王国 "wikilink")、区域性及地方性的[电视台](../Page/电视台.md "wikilink")与[电台](https://zh.wikipedia.org/wiki/电台 "wikilink")。
 
 ## BBC国内电视台
 
@@ -28,7 +28,7 @@
 
 <!-- end list -->
 
-  - [BBC电视苏格兰盖尔语台](../Page/英國廣播公司蘇格蘭蓋爾語頻道.md "wikilink")——[苏格兰盖尔语频道](../Page/苏格兰盖尔语.md "wikilink")。
+  - [BBC电视苏格兰盖尔语台](../Page/英國廣播公司蘇格蘭蓋爾語頻道.md "wikilink")——[苏格兰盖尔语](../Page/苏格兰盖尔语.md "wikilink")频道。
 
 <!-- end list -->
 
@@ -86,7 +86,7 @@
 <!-- end list -->
 
   - [BBC电视一台南部频道](../Page/英國廣播公司第一台.md "wikilink")
-      - ——针对[牛津郡播出的子频道](../Page/牛津郡.md "wikilink")。
+      - ——针对[牛津郡](../Page/牛津郡.md "wikilink")播出的子频道。
 
 <!-- end list -->
 
@@ -170,15 +170,15 @@
 
 <!-- end list -->
 
-  - [BBC波斯语频道](../Page/英国广播公司波斯语频道.md "wikilink")——BBC旗下面向欧洲、[伊朗](https://zh.wikipedia.org/wiki/伊朗 "wikilink")、[阿富汗及](../Page/阿富汗.md "wikilink")[塔吉克斯坦地区播出的](../Page/塔吉克斯坦.md "wikilink")[波斯语新闻频道](../Page/波斯语.md "wikilink")。
+  - [BBC波斯语频道](../Page/英国广播公司波斯语频道.md "wikilink")——BBC旗下面向欧洲、[伊朗](https://zh.wikipedia.org/wiki/伊朗 "wikilink")、[阿富汗](../Page/阿富汗.md "wikilink")及[塔吉克斯坦](../Page/塔吉克斯坦.md "wikilink")地区播出的[波斯语](../Page/波斯语.md "wikilink")新闻频道。
 
 <!-- end list -->
 
-  - [BBC美国台](../Page/英國廣播公司美國台.md "wikilink")——面向[美国播出的喜剧](../Page/美国.md "wikilink")、戏剧与生活资讯类节目的频道。
+  - [BBC美国台](../Page/英國廣播公司美國台.md "wikilink")——面向[美国](../Page/美国.md "wikilink")播出的喜剧、戏剧与生活资讯类节目的频道。
 
 <!-- end list -->
 
-  - [BBC加拿大台](../Page/BBC加拿大.md "wikilink")——面向[加拿大播出的喜剧](../Page/加拿大.md "wikilink")、戏剧与生活资讯类节目的频道。
+  - [BBC加拿大](../Page/BBC加拿大.md "wikilink")台——面向[加拿大](../Page/加拿大.md "wikilink")播出的喜剧、戏剧与生活资讯类节目的频道。
 
 <!-- end list -->
 
@@ -198,7 +198,7 @@
 
 <!-- end list -->
 
-  - ——播出[高清电视节目的频道](../Page/高清电视.md "wikilink")。
+  - ——播出[高清电视](../Page/高清电视.md "wikilink")节目的频道。
 
 <!-- end list -->
 
@@ -210,7 +210,7 @@
 
 <!-- end list -->
 
-  - [BBC英国电视台](../Page/BBC_UKTV.md "wikilink")——面向[澳大利亚与](../Page/澳大利亚.md "wikilink")[新西兰播出优质英国娱乐节目](../Page/新西兰.md "wikilink")。
+  - [BBC英国电视台](../Page/BBC_UKTV.md "wikilink")——面向[澳大利亚](../Page/澳大利亚.md "wikilink")与[新西兰](../Page/新西兰.md "wikilink")播出优质英国娱乐节目。
 
 <!-- end list -->
 
@@ -220,7 +220,7 @@
 
 ### 调频广播
 
-  - [BBC广播一台](https://zh.wikipedia.org/wiki/BBC广播一台 "wikilink")——主要播出、[舞曲和](../Page/舞曲.md "wikilink")[摇滚乐](../Page/摇滚乐.md "wikilink")。
+  - [BBC广播一台](https://zh.wikipedia.org/wiki/BBC广播一台 "wikilink")——主要播出、[舞曲](../Page/舞曲.md "wikilink")和[摇滚乐](../Page/摇滚乐.md "wikilink")。
 
 <!-- end list -->
 
@@ -236,7 +236,7 @@
 
 ### 调幅广播、数字广播与网络广播
 
-  - ——主要播出、[嘻哈音乐](../Page/嘻哈.md "wikilink")、[英伦地下乐和](../Page/Grime_\(音樂類型\).md "wikilink")。
+  - ——主要播出、[嘻哈](../Page/嘻哈.md "wikilink")音乐、[英伦地下乐和](../Page/Grime_\(音樂類型\).md "wikilink")。
 
 <!-- end list -->
 
@@ -330,5 +330,4 @@
   - [BBC电视台官方网站](https://www.bbc.co.uk/tv)
   - [UKTV官方网站](https://www.uktv.co.uk)
 
-[Category:英国广播公司电视](https://zh.wikipedia.org/wiki/Category:英国广播公司电视 "wikilink")
-[Category:英國廣播公司電台](https://zh.wikipedia.org/wiki/Category:英國廣播公司電台 "wikilink")
+[Category:英国广播公司电视](https://zh.wikipedia.org/wiki/Category:英国广播公司电视 "wikilink") [Category:英國廣播公司電台](https://zh.wikipedia.org/wiki/Category:英國廣播公司電台 "wikilink")

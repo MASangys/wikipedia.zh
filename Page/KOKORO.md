@@ -1,5 +1,4 @@
-**加藤心**（，；），藝名為**KOKORO**（）。[日本](../Page/日本.md "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")，是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Cherry
-Bullet成員之一](../Page/Cherry_Bullet.md "wikilink")。\[1\]
+**加藤心**（，；），藝名為**KOKORO**（）。[日本](../Page/日本.md "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")，是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Cherry Bullet成員之一](../Page/Cherry_Bullet.md "wikilink")。\[1\]
 
 ## 預告照
 
@@ -9,8 +8,7 @@ Bullet成員之一](../Page/Cherry_Bullet.md "wikilink")。\[1\]
 
 ## 綜藝節目
 
-僅列出KOKORO的個人參與綜藝，團體綜藝請參考[Cherry
-Bullet影視作品](../Page/Cherry_Bullet.md "wikilink")。
+僅列出KOKORO的個人參與綜藝，團體綜藝請參考[Cherry Bullet影視作品](../Page/Cherry_Bullet.md "wikilink")。
 
 | 年份    | 日期    | 電視台                                | 節目名稱                                           | 參與成員 | 備註     |
 | ----- | ----- | ---------------------------------- | ---------------------------------------------- | ---- | ------ |
@@ -59,8 +57,6 @@ Bullet影視作品](../Page/Cherry_Bullet.md "wikilink")。
 
   - [FNC Academy](http://fncacademy.com)
 
-[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink")
-[Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink")
-[Category:Cherry_Bullet](https://zh.wikipedia.org/wiki/Category:Cherry_Bullet "wikilink")
+[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink") [Category:Cherry_Bullet](https://zh.wikipedia.org/wiki/Category:Cherry_Bullet "wikilink")
 
 1.

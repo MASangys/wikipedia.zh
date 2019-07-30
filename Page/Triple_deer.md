@@ -1,6 +1,4 @@
-**Triple
-Deer**是一支来自[台湾的摇滚乐团](https://zh.wikipedia.org/wiki/台湾 "wikilink")，2012年成立于台湾[新竹](https://zh.wikipedia.org/wiki/新竹 "wikilink")，曲风为[后摇滚](https://zh.wikipedia.org/wiki/后摇滚 "wikilink")、[器乐摇滚](https://zh.wikipedia.org/wiki/器乐摇滚 "wikilink")\[1\]。Triple
-Deer现任成员共五人：冠宇（[吉他](../Page/吉他.md "wikilink")）、永纯（吉他）、Moto（[贝斯](https://zh.wikipedia.org/wiki/电贝斯 "wikilink")）、邵軒（[键盘](https://zh.wikipedia.org/wiki/键盘乐器 "wikilink")）、阿翔（[鼓](../Page/爵士鼓.md "wikilink")）。
+**Triple Deer**是一支来自[台湾的摇滚乐团](https://zh.wikipedia.org/wiki/台湾 "wikilink")，2012年成立于台湾[新竹](https://zh.wikipedia.org/wiki/新竹 "wikilink")，曲风为[后摇滚](https://zh.wikipedia.org/wiki/后摇滚 "wikilink")、[器乐摇滚](https://zh.wikipedia.org/wiki/器乐摇滚 "wikilink")\[1\]。Triple Deer现任成员共五人：冠宇（[吉他](../Page/吉他.md "wikilink")）、永纯（吉他）、Moto（[贝斯](https://zh.wikipedia.org/wiki/电贝斯 "wikilink")）、邵軒（[键盘](https://zh.wikipedia.org/wiki/键盘乐器 "wikilink")）、阿翔（[鼓](../Page/爵士鼓.md "wikilink")）。
 
 ## 经历
 
@@ -8,8 +6,7 @@ Deer现任成员共五人：冠宇（[吉他](../Page/吉他.md "wikilink")）�
 
 ## 录音室作品
 
-  - 2015年，发行同名[EP](https://zh.wikipedia.org/wiki/迷你专辑 "wikilink")《Triple
-    Deer》，是为首张[录音室作品](https://zh.wikipedia.org/wiki/录音室专辑 "wikilink")\[2\]。
+  - 2015年，发行同名[EP](https://zh.wikipedia.org/wiki/迷你专辑 "wikilink")《Triple Deer》，是为首张[录音室作品](https://zh.wikipedia.org/wiki/录音室专辑 "wikilink")\[2\]。
   - 2016年，发行[单曲](../Page/单曲.md "wikilink")《成为鲸鱼》。
   - 2017年，发行首张[专辑](https://zh.wikipedia.org/wiki/音乐专辑 "wikilink")《都市牧羊人》\[3\]。
 
@@ -19,11 +16,7 @@ Deer现任成员共五人：冠宇（[吉他](../Page/吉他.md "wikilink")）�
 
   - [Triple Deer的Facebook主页](https://www.facebook.com/TripleDeer/)
 
-[Category:台湾乐团](https://zh.wikipedia.org/wiki/Category:台湾乐团 "wikilink")
-[Category:台湾独立摇滚乐团](https://zh.wikipedia.org/wiki/Category:台湾独立摇滚乐团 "wikilink")
-[Category:台湾后摇滚乐团](https://zh.wikipedia.org/wiki/Category:台湾后摇滚乐团 "wikilink")
-[Category:2012年成立的音乐团体](https://zh.wikipedia.org/wiki/Category:2012年成立的音乐团体 "wikilink")
-[Category:2012年台湾建立](https://zh.wikipedia.org/wiki/Category:2012年台湾建立 "wikilink")
+[Category:台湾乐团](https://zh.wikipedia.org/wiki/Category:台湾乐团 "wikilink") [Category:台湾独立摇滚乐团](https://zh.wikipedia.org/wiki/Category:台湾独立摇滚乐团 "wikilink") [Category:台湾后摇滚乐团](https://zh.wikipedia.org/wiki/Category:台湾后摇滚乐团 "wikilink") [Category:2012年成立的音乐团体](https://zh.wikipedia.org/wiki/Category:2012年成立的音乐团体 "wikilink") [Category:2012年台湾建立](https://zh.wikipedia.org/wiki/Category:2012年台湾建立 "wikilink")
 
 1.
 2.

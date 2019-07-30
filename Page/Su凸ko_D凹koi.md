@@ -1,5 +1,4 @@
-**Su凸ko
-D凹koi**（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：****），日本的[女子樂團](https://zh.wikipedia.org/wiki/女子樂團 "wikilink")。
+**Su凸ko D凹koi**（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：****），日本的[女子樂團](https://zh.wikipedia.org/wiki/女子樂團 "wikilink")。
 
 ## 出道過程
 
@@ -24,10 +23,7 @@ D凹koi**（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：****）�
   -
   -
   -
-[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink")
-[Category:日本搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本搖滾樂團 "wikilink")
-[Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink")
-[Category:2010年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2010年成立的音樂團體 "wikilink")
+[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink") [Category:日本搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本搖滾樂團 "wikilink") [Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink") [Category:2010年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2010年成立的音樂團體 "wikilink")
 
 1.
 2.

@@ -1,9 +1,6 @@
-**SMIRAL**（），[日本由](../Page/日本.md "wikilink")[TOPMARSHAL營運的動畫](../Page/TOPMARSHAL.md "wikilink")、真人電影媒體公司\[1\]。
+**SMIRAL**（），[日本](../Page/日本.md "wikilink")由[TOPMARSHAL](../Page/TOPMARSHAL.md "wikilink")營運的動畫、真人電影媒體公司\[1\]。
 
-2016年7月成立後，展開動畫、真人作品、音樂及周邊商品的產業與經營。而投入動畫製作的「**SMIRAL animation**」是[Earth
-Star
-Entertainment將業務管理轉交SMIRAL之後建立的](../Page/Earth_Star_Entertainment.md "wikilink")\[2\]。因此，SMIRAL本身和EARTH
-STAR Entertainment和Top Partners彼此都是旗下兄弟企業\[3\]。
+2016年7月成立後，展開動畫、真人作品、音樂及周邊商品的產業與經營。而投入動畫製作的「**SMIRAL animation**」是[Earth Star Entertainment將業務管理轉交SMIRAL之後建立的](../Page/Earth_Star_Entertainment.md "wikilink")\[2\]。因此，SMIRAL本身和EARTH STAR Entertainment和Top Partners彼此都是旗下兄弟企業\[3\]。
 
 ## 作品
 
@@ -12,8 +9,7 @@ STAR Entertainment和Top Partners彼此都是旗下兄弟企業\[3\]。
 SMIRAL animation（<small></small>）名稱使用。
 
   -
-    2016年7月以前的作品請參照「[Earth Star
-    Entertainment\#動畫](https://zh.wikipedia.org/wiki/Earth_Star_Entertainment#動畫 "wikilink")」。
+    2016年7月以前的作品請參照「[Earth Star Entertainment\#動畫](https://zh.wikipedia.org/wiki/Earth_Star_Entertainment#動畫 "wikilink")」。
 
   - 2016年
 
@@ -39,8 +35,7 @@ SMIRAL animation（<small></small>）名稱使用。
   - [One Room](../Page/One_Room.md "wikilink") / Room Mate
 
   -
-  - [不要輸\!\!
-    惡之軍團！](https://zh.wikipedia.org/wiki/不要輸！！惡之軍團！ "wikilink")（負責BD販售）
+  - [不要輸\!\! 惡之軍團！](https://zh.wikipedia.org/wiki/不要輸！！惡之軍團！ "wikilink")（負責BD販售）
 
   - 庭球社（第9期）
 
@@ -94,10 +89,7 @@ SMIRAL PICTURES（<small></small>）名稱使用。
 
   -
 
-[Category:動畫產業公司](https://zh.wikipedia.org/wiki/Category:動畫產業公司 "wikilink")
-[Category:日本唱片公司](https://zh.wikipedia.org/wiki/Category:日本唱片公司 "wikilink")
-[Category:日本媒體公司](https://zh.wikipedia.org/wiki/Category:日本媒體公司 "wikilink")
-[Category:2016年成立的公司](https://zh.wikipedia.org/wiki/Category:2016年成立的公司 "wikilink")
+[Category:動畫產業公司](https://zh.wikipedia.org/wiki/Category:動畫產業公司 "wikilink") [Category:日本唱片公司](https://zh.wikipedia.org/wiki/Category:日本唱片公司 "wikilink") [Category:日本媒體公司](https://zh.wikipedia.org/wiki/Category:日本媒體公司 "wikilink") [Category:2016年成立的公司](https://zh.wikipedia.org/wiki/Category:2016年成立的公司 "wikilink")
 
 1.
 2.

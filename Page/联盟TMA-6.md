@@ -4,4 +4,10 @@
 
 ### 候补成员
 
-{{Spaceflight crew |terminology = 乘组人员 |references =<ref>{{Cite web|url=
+## 图集
+
+ISS-11 Launch.jpg Soyuz TMA-6 launch.jpg Soyuz TMA-6 iss010e24868.jpg Iss010e24877.jpg
+
+## 参考资料
+
+[Category:联盟计划](https://zh.wikipedia.org/wiki/Category:联盟计划 "wikilink") [Category:2005年航天](https://zh.wikipedia.org/wiki/Category:2005年航天 "wikilink")

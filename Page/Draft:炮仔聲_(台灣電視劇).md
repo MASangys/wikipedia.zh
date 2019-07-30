@@ -1,91 +1,1100 @@
-《**炮仔聲**》為2019年[三立台灣台](../Page/三立台灣台.md "wikilink")[八點檔連續劇](../Page/八點檔.md "wikilink")。
+<div style="display:none">
+
+</div>
+
+<div style="display:none">
+
+</div>
+
+《**炮仔聲**》為2018年[三立台灣台](../Page/三立台灣台.md "wikilink")[八點檔](../Page/八點檔.md "wikilink")連續劇，[映畫傳播](../Page/映畫傳播.md "wikilink")製作，播出前原定名為《**嫁給一個好人家**》\[1\]，2018年11月17日開鏡\[2\]\[3\]、11月22日正式開拍、12月25日舉行首映會、12月26日21:20開播。接檔《[金家好媳婦](../Page/金家好媳婦.md "wikilink")》於每週一至週五晚間八點播出。2019年2月4日至2月8日因適逢新年期間，播出新春特輯（第1～28集精華版），於2月11日起恢復正常，從第29集開始播出。
+
+## 劇情簡介
+
+「炮仔聲」故事靈感則是來自鄉土俗語「偷挽蔥，嫁好尪」，講述一個遲遲未婚的大齡女子，讓爸媽相當擔心婚姻問題，於是她的媽媽就去月老廟求籤詢問，結果月下老人說「要嫁好老公就要去拔蔥」，女主角只好順從媽媽意思，去偷拔人家的蔥，但因為個性內向害羞，意外碰到男主角之後發生一連串趣事。
+
+## 播出時間
+
+<table>
+<thead>
+<tr class="header">
+<th><p>頻道</p></th>
+<th><p>所在地</p></th>
+<th><p>播出日期</p></th>
+<th><p>播出時間</p></th>
+<th><p>備註</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="../Page/三立台灣台.md" title="wikilink">三立台灣台</a></p></td>
+<td></td>
+<td><p>2018年12月26日</p></td>
+<td><p>每週一至週四20:00 - 22:30</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>每週五20:00 - 22:15</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/三立戲劇台.md" title="wikilink">三立戲劇台</a></p></td>
+<td><p>2018年12月27日</p></td>
+<td><p>20:00 - 00:00（兩集連播）</p></td>
+<td><p>'''集數與<a href="../Page/三立台灣台.md" title="wikilink">三立台灣台</a>相同<br />
+但慢1小時播出</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2018年12月28日</p></td>
+<td><p>每週一至週五 21:00 - 23:30</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/Vidol.md" title="wikilink">Vidol</a></p></td>
+<td><p>2018年12月26日</p></td>
+<td><p>直播 每週一至週四 20:00 - 22:30<br />
+每週五 20:00 - 22:15</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/Astro歡喜台" title="wikilink">Astro歡喜台</a><br />
+<a href="https://zh.wikipedia.org/wiki/Astro歡喜台" title="wikilink">Astro歡喜台HD</a></p></td>
+<td></td>
+<td><p>2019年1月10日</p></td>
+<td><p>21:30 - 23:00</p></td>
+<td><p>'''與台灣同期播出</p></td>
+</tr>
+<tr class="odd">
+<td><p>2019年1月11日</p></td>
+<td><p>每週一至週五 21:30 - 00:00</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 演員列表
 
 ### 主要角色
 
-|                                    |        |        |          |
-| ---------------------------------- | ------ | ------ | -------- |
-| **演員**                             | **角色** | **介紹** | **登場集數** |
-| [巨石強森](../Page/巨石強森.md "wikilink") |        |        |          |
-| [葉星辰](../Page/葉星辰.md "wikilink")   | 戴雪琪    | 戴雪晴的妹妹 |          |
-|                                    |        |        |          |
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>演員</strong></p></td>
+<td><p><strong>角色</strong></p></td>
+<td><p><strong>介紹</strong></p></td>
+<td><p><strong>登場集數</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/陳冠霖.md" title="wikilink">陳冠霖</a></p></td>
+<td><p>林至明</p></td>
+<td><p>雅樂軒飯店執行長,世界集團代理董事長<br />
+吳家芸之夫<br />
+何辛蒂之前男友<br />
+楊阿梅之孫<br />
+林清隆、張蕙心之子<br />
+林至文、林姍姍同父異母之兄</p></td>
+<td><p>第1集～第30集<br />
+第35集～第37集<br />
+第41集～第46集<br />
+第51集<br />
+第59集至今</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/李燕_(臺灣藝人).md" title="wikilink">李　燕</a></p></td>
+<td><p>吳家芸</p></td>
+<td><p>雅樂軒飯店行銷部門組長<br />
+林至明之妻<br />
+劉大為之前女友<br />
+吳國輝、曾美茹之女<br />
+吳家璇、吳家雯之妹<br />
+吳家琇、吳家龍之姐<br />
+任雨棠、林小可之同事兼閨蜜<br />
+已懷有林至明的孩子</p></td>
+<td><p>第1集～第51集<br />
+第55集至今</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/陳志強_(藝人).md" title="wikilink">陳志強</a></p></td>
+<td><p>張正浩</p></td>
+<td><p>正浩、張醫師、渣男<br />
+本劇大反派<br />
+永信醫院總院心臟外科主任醫師<br />
+王妍熙之夫<br />
+吳家雯之前夫<br />
+陳玉燕之子<br />
+蔡韻如、羅安娜之合作對象<br />
+漸漸找回對吳家雯的愛</p></td>
+<td><p>第1集～第42集<br />
+第44集-第58集、第60集-第61集</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/吳婉君.md" title="wikilink">吳婉君</a></p></td>
+<td><p>吳家雯</p></td>
+<td><p>世界建設房屋行銷專員<br />
+張正浩之前妻<br />
+吳國輝、曾美茹之女<br />
+吳家璇之妹<br />
+吳家芸、吳家琇、吳家龍之姐<br />
+未來可能喜歡上林至文<br />
+已懷有張正浩的孩子<br />
+第57集在工地王妍熙倒入石灰導致眼睛失明<br />
+第62集眼睛已恢复正常</p></td>
+<td><p>第1集～第45集<br />
+第47集至今</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/王宇婕.md" title="wikilink">王宇婕</a></p></td>
+<td><p>王妍熙</p></td>
+<td><p>妍熙、小三、狐狸精<br />
+本劇超級大反派、做惡多端<br />
+張正浩之妻<br />
+王世昌之女<br />
+陳玉燕之媳婦<br />
+蔡韻如之好姊妹<br />
+吳家雯和羅安娜之死敵<br />
+第57集因虐待吳家雯的眼睛害到失明<br />
+第62集因叫人绑架吳家雯跟吳家芸</p></td>
+<td><p>第1集-第58集、第60集至今</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/陳珮騏.md" title="wikilink">陳珮騏</a></p></td>
+<td><p>吳家璇</p></td>
+<td><p>吳國輝、曾美茹之女<br />
+李啟明之妻，吳家雯、吳家芸、吳家琇、吳家龍之姐<br />
+目前在大陸陪丈夫發展事業，育有一子，精明能幹一手帶大家中的弟妹</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/江宏恩.md" title="wikilink">江宏恩</a></p></td>
+<td><p>江宏傑</p></td>
+<td><p>營運長<br />
+與蔡韻如在酒吧認識<br />
+疑似是卧底</p></td>
+<td><p>第55集<br />
+第57集～第59集<br />
+第61集</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/謝承均.md" title="wikilink">謝承均</a></p></td>
+<td><p>李啟明</p></td>
+<td><p>吳家璇之夫<br />
+目前在大陸發展事業</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### 吳家
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>演員</strong></p></td>
+<td><p><strong>角色</strong></p></td>
+<td><p><strong>介紹</strong></p></td>
+<td><p><strong>登場集數</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/林在培.md" title="wikilink">林在培</a></p></td>
+<td><p>吳國輝</p></td>
+<td><p>退休資深警官<br />
+曾美茹之夫<br />
+吳家璇、吳家雯、吳家芸、吳家琇、吳家龍之父</p></td>
+<td><p>第1集～第17集<br />
+第19集～第24集<br />
+第26集～第36集<br />
+第40集</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/劉美玲.md" title="wikilink">劉美玲</a></p></td>
+<td><p>曾美茹</p></td>
+<td><p>家庭主婦<br />
+吳國輝之妻<br />
+吳家璇、吳家雯、吳家芸、吳家琇、吳家龍之母</p></td>
+<td><p>第1集<br />
+第3集～第17集<br />
+第19集～第24集<br />
+第26集～第38集<br />
+第40集<br />
+第58集</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/陳珮騏.md" title="wikilink">陳珮騏</a></p></td>
+<td><p>吳家璇</p></td>
+<td><p>詳見<a href="https://zh.wikipedia.org/wiki/#主要角色" title="wikilink">主要角色</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/吳婉君.md" title="wikilink">吳婉君</a></p></td>
+<td><p>吳家雯</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/李燕_(臺灣藝人).md" title="wikilink">李　燕</a></p></td>
+<td><p>吳家芸</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>吳家琇</p></td>
+<td><p>吳國輝、曾美茹之女<br />
+吳家璇、吳家雯、吳家芸之妹<br />
+吳家龍之姐<br />
+提及碩士即將畢業回歸</p></td>
+<td><p>即將登場</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/吳東諺.md" title="wikilink">吳東諺</a></p></td>
+<td><p>吳家龍</p></td>
+<td><p>雅樂軒飯店甜點部蛋糕師傅<br />
+吳國輝、曾美茹之子<br />
+吳家璇、吳家雯、吳家芸、吳家琇之弟</p></td>
+<td><p>第1集～第4集<br />
+第7集<br />
+第9集～第19集<br />
+第31集～第37集<br />
+第39集～第43集<br />
+第45集～第49集</p></td>
+</tr>
+</tbody>
+</table>
+
+### 林家（世界企業、雅樂軒飯店）
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>演員</strong></p></td>
+<td><p><strong>角色</strong></p></td>
+<td><p><strong>介紹</strong></p></td>
+<td><p><strong>登場集數</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/張琴_(演員).md" title="wikilink">張　琴</a></p></td>
+<td><p>楊阿梅</p></td>
+<td><p>林清隆之母<br />
+林至明、林至文、林姗姗之祖母<br />
+患有高血壓</p></td>
+<td><p>第2集～第5集<br />
+第7集～第12集<br />
+第14集～第15集<br />
+第18集～第28集<br />
+第30集～第34集<br />
+第36集～第42集<br />
+第44集～第45集<br />
+第49集～第51集<br />
+第56集<br />
+第59集～第60集<br />
+第62集至今<br />
+</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/黃建群.md" title="wikilink">黃建群</a></p></td>
+<td><p>林清隆</p></td>
+<td><p>世界集團董事長<br />
+楊阿梅之子<br />
+張蕙心、姚明珠之夫<br />
+林至明、林至文、林姍姍之父</p></td>
+<td><p>第2集<br />
+第6集<br />
+第9集～第11集<br />
+第14集～第15集<br />
+第21集～第22集<br />
+第25集～第26集<br />
+第35集<br />
+第37集～第40集<br />
+第45集～第51集<br />
+第53集<br />
+第59集</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/丁寧_(演員)" title="wikilink">丁　寧</a></p></td>
+<td><p>張蕙心</p></td>
+<td><p>陳振雄之前女友<br />
+林清隆之妻<br />
+林至明之母</p></td>
+<td><p>第2集<br />
+第4集～第12集<br />
+第14集～第16集<br />
+第18集～第28集<br />
+第33集～第34集<br />
+第36集～第45集<br />
+第50集～第51集</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/何如芸.md" title="wikilink">何如芸</a></p></td>
+<td><p>姚明珠</p></td>
+<td><p>本劇大反派<br />
+林清隆之妻<br />
+林至文、林姗姗之母</p></td>
+<td><p>第5集～第7集<br />
+第9集～第12集<br />
+第14集～第15集<br />
+第19集<br />
+第21集～第23集<br />
+第25集～第26集<br />
+第43集～第46集<br />
+第49集～第51集<br />
+第53集～第60集</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/陳冠霖.md" title="wikilink">陳冠霖</a></p></td>
+<td><p>林至明</p></td>
+<td><p>詳見<a href="https://zh.wikipedia.org/wiki/#主要角色" title="wikilink">主要角色</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/李燕" title="wikilink">李燕</a></p></td>
+<td><p>吳家芸</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/陳宇風.md" title="wikilink">陳宇風</a></p></td>
+<td><p>林至文</p></td>
+<td><p>世界集團營銷部經理<br />
+楊阿梅之孫<br />
+林清隆、姚明珠之子<br />
+林至明同父異母之弟<br />
+林姍姍之兄<br />
+蔡韻如之夫<br />
+已漸漸喜歡上吳家雯</p></td>
+<td><p>第26集～第33集<br />
+第36集～第37集<br />
+第43集～第51集<br />
+第54集至今</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/陳曉菁" title="wikilink">陳曉菁</a></p></td>
+<td><p>蔡韻如</p></td>
+<td><p>本劇超級大反派、做惡多端<br />
+世界集團財務部經理<br />
+林至文之妻<br />
+蔡富貴、陳月霞之女<br />
+李寶娜之表姐<br />
+王妍熙之好姊妹<br />
+張正浩之合作對象<br />
+吳家雯之死敵<br />
+與江宏傑在酒吧認識，逐漸對他有好感</p></td>
+<td><p>第25集至今</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/林筳諭.md" title="wikilink">林筳諭</a></p></td>
+<td><p>林姍姍</p></td>
+<td><p>世界集團千金<br />
+金詠健之女友<br />
+楊阿梅之孫女<br />
+林清隆、姚明珠之女<br />
+林至明同父異母之妹<br />
+林至文之妹</p></td>
+<td><p>第3集～第7集<br />
+第9集～第12集<br />
+第14集～第16集<br />
+第19集～第47集<br />
+第53集～第59集</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### 徐家
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>演員</strong></p></td>
+<td><p><strong>角色</strong></p></td>
+<td><p><strong>介紹</strong></p></td>
+<td><p><strong>登場集數</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/梅芳.md" title="wikilink">梅　芳</a></p></td>
+<td><p>王麗紅</p></td>
+<td><p>徐夫人，徐太太<br />
+徐明強之母<br />
+徐佩琪之祖母<br />
+徐安安之外曾祖母</p></td>
+<td><p>第14集～第21集<br />
+第28集～第29集<br />
+第31集～第32集<br />
+第35集-第38集</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/徐亨_(演員).md" title="wikilink">徐　亨</a></p></td>
+<td><p>徐明強</p></td>
+<td><p>明强，徐先生，议员，徐议员，明强议员<br />
+昔日反派，已改邪歸正<br />
+王麗紅之独生子<br />
+徐佩琪之父<br />
+徐安安之外公<br />
+議員兼立委補選候選人</p></td>
+<td><p>第3-5集</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/陳子玄.md" title="wikilink">陳子玄</a></p></td>
+<td><p>徐佩琪</p></td>
+<td><p>徐明強之女兒<br />
+王麗紅之孫女<br />
+徐安安之母親<br />
+未來會喜歡上吳家龍</p></td>
+<td><p>第14集-第19集</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/何潔柔.md" title="wikilink">何潔柔</a></p></td>
+<td><p>徐安安</p></td>
+<td><p>安安<br />
+徐佩琪之独生女<br />
+徐明強之外孫女<br />
+王麗紅之外曾孫女</p></td>
+<td><p>第14集～第19集</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### 蔡家
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>演員</strong></p></td>
+<td><p><strong>角色</strong></p></td>
+<td><p><strong>介紹</strong></p></td>
+<td><p><strong>登場集數</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/何冠穎.md" title="wikilink">何冠穎</a></p></td>
+<td><p>蔡富貴</p></td>
+<td><p>富贵，蔡先生，富贵哥<br />
+李宝娜之姨夫<br />
+陳月霞之夫<br />
+蔡韵如之父<br />
+林至文之岳父<br />
+立委補選候選人<br />
+醫生診斷胃癌初期</p></td>
+<td><p>第46集～第48集<br />
+第52集～第58集</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/蘇意菁.md" title="wikilink">蘇意菁</a></p></td>
+<td><p>陳月霞</p></td>
+<td><p>月霞，蔡夫人<br />
+昔日超级大反派<br />
+李宝娜之阿姨<br />
+蔡富貴之妻<br />
+蔡韻如之母<br />
+林至文之岳母<br />
+紡織工廠之老闆娘</p></td>
+<td><p>第31集～第34集<br />
+第36集～第37集<br />
+第41集～第48集<br />
+第59集</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/陳曉菁" title="wikilink">陳曉菁</a></p></td>
+<td><p>蔡韻如</p></td>
+<td><p>蔡富贵，陈月霞之独生女，詳見<a href="https://zh.wikipedia.org/wiki/#林家（世界企業、雅樂軒飯店）" title="wikilink">林家</a></p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### 張家
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>演員</strong></p></td>
+<td><p><strong>角色</strong></p></td>
+<td><p><strong>介紹</strong></p></td>
+<td><p><strong>登場集數</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/劉秀雯.md" title="wikilink">劉秀雯</a></p></td>
+<td><p>陳玉燕</p></td>
+<td><p>玉燕，陈小姐，玉燕姐，张太太，阿姨，伯母，玉燕阿姨<br />
+张父，张母之媳妇<br />
+张天赐之妻<br />
+張正浩之母<br />
+王妍熙之婆婆<br />
+吴家雯之前婆婆<br />
+早餐店之老闆娘</p></td>
+<td><p>第1集～第14集<br />
+第16集～第17集<br />
+第20集～第21集<br />
+第23集～第27集<br />
+第30集～第36集<br />
+第41集～第42集<br />
+第46集～第53集</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/陳志強_(藝人).md" title="wikilink">陳志強</a></p></td>
+<td><p>張正浩</p></td>
+<td><p>张天赐，陈玉燕之独生子，詳見<a href="https://zh.wikipedia.org/wiki/#主要角色" title="wikilink">主要角色</a></p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### 王家
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>演員</strong></p></td>
+<td><p><strong>角色</strong></p></td>
+<td><p><strong>介紹</strong></p></td>
+<td><p><strong>登場集數</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/朱永德.md" title="wikilink">朱永德</a></p></td>
+<td><p>王世昌</p></td>
+<td><p>世昌，王先生，叔叔，伯父<br />
+昔日反派，已改邪歸正<br />
+王母之夫<br />
+王妍熙之父<br />
+張正浩之岳父<br />
+永信醫院股東之一</p></td>
+<td><ul>
+<li>第4集～第8集<br />
+第11集～第12集<br />
+第16集～第22集<br />
+第24集<br />
+第28集～第29集<br />
+第32集～第35集<br />
+第38集～第40集、第44集<br />
+第50集<br />
+第52集～第57集<br />
+第61集至今</li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/王宇婕.md" title="wikilink">王宇婕</a></p></td>
+<td><p>王妍熙</p></td>
+<td><p>王世昌，王母之独生女,詳見<a href="https://zh.wikipedia.org/wiki/#主要角色" title="wikilink">主要角色</a></p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ### 其他角色
 
-|                                                     |        |              |          |
-| --------------------------------------------------- | ------ | ------------ | -------- |
-| **演員**                                              | **角色** | **介紹**       | **登場集數** |
-| [夏語心](../Page/夏語心.md "wikilink")                    | 戴雪晴    | 戴雪琪的姐姐       |          |
-| [曾國城](../Page/曾國城.md "wikilink")                    | 戴國斗    | 戴雪琪的父親       |          |
-| [林美秀](https://zh.wikipedia.org/wiki/林美秀 "wikilink") | 蔡美嬌    | 戴雪琪的母親       |          |
-| [姚元浩](../Page/姚元浩.md "wikilink")                    | 林子承    | 林子慧的哥哥       |          |
-| [林逸欣](../Page/林逸欣.md "wikilink")                    | 林子慧    | 林子承的妹妹       |          |
-| [林可唯](../Page/林可唯.md "wikilink")                    | Amy    | 林子承的前女友      |          |
-| [龍劭華](../Page/龍劭華.md "wikilink")                    | 林富城    | 林子承、林子慧的父親   |          |
-| [梁以辰](../Page/梁以辰.md "wikilink")                    | 王詩雨    | 林子承的女友       |          |
-| [李運慶](../Page/李運慶.md "wikilink")                    | 王子哲    | 王詩雨同父異母的弟弟   |          |
-| [林思宇](https://zh.wikipedia.org/wiki/林思宇 "wikilink") | 邱玉姍    | 王子哲的女友       |          |
-| [吳欣芸](https://zh.wikipedia.org/wiki/吳欣芸 "wikilink") | 阿如     | 戴雪琪的閨蜜       |          |
-| [汪沛㼆](https://zh.wikipedia.org/wiki/汪沛㼆 "wikilink") | 艾咪     | 戴雪琪的同事       |          |
-| [潘奕如](../Page/潘奕如.md "wikilink")                    | 周香吟    | 蔡美嬌的死敵       |          |
-| [梅賢治](../Page/梅賢治.md "wikilink")                    | 李子健    | 周香吟的兒子       |          |
-| [臧芮軒](../Page/臧芮軒.md "wikilink")                    | 盈盈     | 李子健的女友       |          |
-| [王道南](../Page/王道南.md "wikilink")                    |        | 盈盈的父親        |          |
-| [胡佩蓮](../Page/胡佩蓮.md "wikilink")                    | 麗美     | 盈盈的母親        |          |
-| [米凱莉](../Page/米凱莉.md "wikilink")                    | 李麗花    | 蔡美嬌的國中同學     |          |
-| [蘇暐淇](../Page/蘇暐淇.md "wikilink")                    | 李小芸    | 李麗花的女兒       |          |
-| [王上豪](../Page/王上豪.md "wikilink")                    |        | 李小芸的男友       |          |
-| [王滿嬌](../Page/王滿嬌.md "wikilink")                    | 林青霞    | 李麗花、蔡美嬌的國中老師 |          |
-| [龍天翔](../Page/龍天翔.md "wikilink")                    |        | 林青霞的丈夫       |          |
-| [陳珮騏](../Page/陳珮騏.md "wikilink")                    | 美娜     | 林青霞的女兒       |          |
-| [董季鑫](https://zh.wikipedia.org/wiki/董季鑫 "wikilink") |        | 林青霞的兒子       |          |
-| [劉沛緹](https://zh.wikipedia.org/wiki/劉沛緹 "wikilink") |        |              |          |
-|                                                     |        |              |          |
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>演員</strong></p></td>
+<td><p><strong>角色</strong></p></td>
+<td><p><strong>介紹</strong></p></td>
+<td><p><strong>登場集數</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/林可唯.md" title="wikilink">林可唯</a></p></td>
+<td><p>任雨棠</p></td>
+<td><p>雅樂軒飯店行銷部門企劃員工<br />
+吳家芸、林小可之同事兼閨蜜</p></td>
+<td><p>第1集～第17集<br />
+第22集～第26集</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/許孟甯" title="wikilink">許孟甯</a></p></td>
+<td><p>林小可</p></td>
+<td><p>雅樂軒飯店行銷部門企劃員工<br />
+吳家芸、任雨棠之同事兼閨蜜</p></td>
+<td><ul>
+<li>第1集～第19集<br />
+第22集～第26集<br />
+第30集、第39集、第45集～第49集<br />
+第52集～第58集<br />
+第61集(夢裡)</li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/楚翔.md" title="wikilink">楚　翔</a></p></td>
+<td><p>凱　文</p></td>
+<td><p>林至明之司機特助<br />
+喜歡任雨棠<br />
+林家的得力助手</p></td>
+<td><p>第1集～第13集<br />
+第15集<br />
+第17集～第19集<br />
+第22集～第23集</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/苗真" title="wikilink">苗　真</a></p></td>
+<td><p>麗　玲</p></td>
+<td><p>沙龍店老闆娘<br />
+王妍熙之好姊妹<br />
+看不下去王妍熙的作為，出面幫助吳家雯</p></td>
+<td><p>第1集～第3集<br />
+第6集<br />
+第19集～第22集<br />
+第25集～第26集<br />
+第31集<br />
+第34集第36集<br />
+第53集-第54集</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/璟宣.md" title="wikilink">璟　宣</a></p></td>
+<td><p>李寶娜</p></td>
+<td><p>名媛<br />
+劉大為之前女友<br />
+蔡韻如之表妹<br />
+吳家雯之好姊妹</p></td>
+<td><p>第1集～第5集<br />
+第9集～第13集<br />
+第16集～第19集<br />
+第23集～第25集<br />
+第27集～第29集<br />
+第35集～第48集<br />
+第50集<br />
+第52集～第53集<br />
+第55集至今</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/吳懷中.md" title="wikilink">吳懷中</a></p></td>
+<td><p>蔡崇仁</p></td>
+<td><p>永信醫院急診部主任<br />
+張正浩之死敵</p></td>
+<td><ul>
+<li>第2集～第7集<br />
+第11集～第12集<br />
+第14集～第16集<br />
+第20集<br />
+第24集～第25集<br />
+第28集<br />
+第31集～第33集<br />
+第36集<br />
+第40集<br />
+第45集～第46集<br />
+第50集<br />
+第52集-第58集<br />
+第61集</li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/謝其文.md" title="wikilink">謝其文</a></p></td>
+<td><p>李冠軍</p></td>
+<td><p>雅樂軒飯店經理<br />
+吳家芸、吳家龍、任雨棠、林小可之上司</p></td>
+<td><ul>
+<li>第2集～第3集<br />
+第5集～第7集<br />
+第15集<br />
+第33集<br />
+第36集～第37集<br />
+第53集、第59集</li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/張維錫.md" title="wikilink">張維錫</a></p></td>
+<td><p>江晨恩</p></td>
+<td><p>永信醫院外科住院醫師<br />
+張正浩之學弟兼下屬</p></td>
+<td><p>第3集～第9集<br />
+第11集～第12集<br />
+第14集～第17集</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/詹佳儒.md" title="wikilink">詹佳儒</a></p></td>
+<td><p>招　財</p></td>
+<td><p>議員手下<br />
+徐明強之小弟</p></td>
+<td><ul>
+<li>第3集～第10集<br />
+第14集～第21集<br />
+第28集～第29集<br />
+第31集～第32集<br />
+第35集<br />
+第38集<br />
+第44集～第50集<br />
+第52集～第53集</li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/黃玉榮.md" title="wikilink">黃玉榮</a></p></td>
+<td><p>金詠健</p></td>
+<td><p>拳擊教練兼世界基金會執行長<br />
+林姍姍之男友</p></td>
+<td><p>第24集～第25集<br />
+第27集～第48集<br />
+第53集～第59集</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/倪齊民.md" title="wikilink">倪齊民</a></p></td>
+<td><p>陳振雄</p></td>
+<td><p>張蕙心之前男友</p></td>
+<td><p>第50集～第51集</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/游詩璟.md" title="wikilink">游詩璟</a></p></td>
+<td><p>甄凱欣</p></td>
+<td><p>新上任的營運長秘書</p></td>
+<td><p>第54集～第59集</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/許鈞鈞.md" title="wikilink">許鈞鈞</a></p></td>
+<td><p>羅安娜</p></td>
+<td><p>安娜、安娜阿姨<br />
+王世昌之女友<br />
+張正浩之阿姨、合作對象<br />
+王妍熙之阿姨、死敵<br />
+因家裡正在裝修所以暫時住進王家</p></td>
+<td><p>第61集至今</p></td>
+</tr>
+<tr class="odd">
+<td><p>待查</p></td>
+<td></td>
+<td><p>王研熙之手下<br />
+聽王研熙的話將吳家雯跟吳家芸綁到倉庫的箱子裡面</p></td>
+<td><p>第63集</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
-### 客串角色
+### 特別客串
 
-|        |        |        |          |
-| ------ | ------ | ------ | -------- |
-| **演員** | **角色** | **介紹** | **登場集數** |
-|        |        |        |          |
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>演員</strong></p></td>
+<td><p><strong>角色</strong></p></td>
+<td><p><strong>介紹</strong></p></td>
+<td><p><strong>登場集數</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/陳思蓉_(演員)" title="wikilink">陳思蓉</a></p></td>
+<td><p>媒人婆</p></td>
+<td><p>雅樂軒飯店之媒人婆<br />
+替紹峰跟芬芬、至明跟家芸作媒的人。遇見韻如及陳月嬌問起家芸是否平安，告訴他們家芸有拜別父親的事情。</p></td>
+<td><p>第1集<br />
+第22集<br />
+第26集<br />
+第43集～第44集</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/陳慕義.md" title="wikilink">陳慕義</a></p></td>
+<td><p>廟　公</p></td>
+<td><p>廟公<br />
+替家芸算婚姻及感情的人</p></td>
+<td><p>第1集</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/王豪.md" title="wikilink">王　豪</a></p></td>
+<td><p>張忠賢</p></td>
+<td><p>里長伯<br />
+陳玉燕之老顧客</p></td>
+<td><p>第1集～第2集<br />
+第4集</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/李國禎_(演員)" title="wikilink">李國禎</a></p></td>
+<td><p>阿　義</p></td>
+<td><p>售出房子之房東<br />
+正浩與家雯要求降一百萬向自己買房子，卻看不起他們，後與正浩他們簽約。與代書聯合起來欺騙家雯與正浩，使張家的房屋被抵押，家雯為了追捕自己而受傷。</p></td>
+<td><p>第2集<br />
+第13集</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/鍾亞翰" title="wikilink">鍾亞翰</a></p></td>
+<td><p>進　寶</p></td>
+<td><p>本劇反派<br />
+議員手下<br />
+徐明強之小弟<br />
+提及回南部照顧母親</p></td>
+<td><p>第3集～第7集</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/林書葶.md" title="wikilink">林書葶</a></p></td>
+<td><p>李　妮</p></td>
+<td><p>辛蒂之貼身助理</p></td>
+<td><p>第6集</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/徐愷" title="wikilink">徐　愷</a></p></td>
+<td><p>Andrew</p></td>
+<td><p>辛蒂之摯友<br />
+同為國際大提琴家</p></td>
+<td><p>第6集</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/張世賢.md" title="wikilink">張世賢</a></p></td>
+<td><p>簡維民</p></td>
+<td><p>本劇反派<br />
+永信醫院南部分院婦產科醫師、王妍熙手下<br />
+看扁張正浩，認為張正浩是在總院做壞事而被調職來南部分院。曾與張正浩因病人的病情而起爭執。聽從王妍熙指使，綁架吳家芸、吳家雯。</p></td>
+<td><p>第8集～第11集<br />
+第61集至今</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/四方_(演員)" title="wikilink">四　方</a></p></td>
+<td><p>劉大師</p></td>
+<td><p>風水師<br />
+專門替林家看風水的大師，替林至明與吳家芸看八字。替兩人看日子，卻沖到屬羊的人。替蔡韻如看生小孩的日子。</p></td>
+<td><p>第21集～第22集<br />
+第30集</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/李英宏_(演員)" title="wikilink">李英宏</a></p></td>
+<td><p>小　廖</p></td>
+<td><p>醫美診所院長<br />
+養老院院長<br />
+張正浩醫學院之同學，靠著老婆的幫忙當上醫美診所之院長，以前就讀醫學院的時候不認真常翹課，受到王妍熙的請求阻止正浩媽逃出養老院。</p></td>
+<td><p>第23集<br />
+第52集</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/陳明勇" title="wikilink">陳明勇</a></p></td>
+<td><p>陳教授</p></td>
+<td><p>醫學院教授<br />
+張正浩醫學院之教授，覺的張正浩是他的得意門生。</p></td>
+<td><p>第23集</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/陳瑋薇" title="wikilink">陳瑋薇</a></p></td>
+<td><p>攝影師</p></td>
+<td><p>婚紗攝影師<br />
+得知張正浩腳踏兩條船。</p></td>
+<td><p>第30集</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/陳泰中" title="wikilink">陳泰中</a></p></td>
+<td><p>陳阿公</p></td>
+<td><p>獨居老人<br />
+患有重聽，金詠健及林姍姍兩人送成人紙尿布給陳阿公用。</p></td>
+<td><p>第32集</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/朱紫緹.md" title="wikilink">朱紫緹</a></p></td>
+<td><p>鄭　婷</p></td>
+<td><p>本劇反派<br />
+STV媒體集團財經記者<br />
+被蔡韻如派到飯店採訪吳家芸，帶著姍姍及詠健的新聞找上林家阿嬤，阿嬤希望能將新聞壓下，故意去採訪詠健。被至明及家芸找上並錄下自己與韻如的對話。</p></td>
+<td><p>第41集～第42集<br />
+第46集<br />
+第59集至今</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/李新_(藝人)" title="wikilink">李　新</a></p></td>
+<td><p>何太太</p></td>
+<td><p>王麗紅之老朋友<br />
+第45集受到議員嬤的請求幫吳家雯買房子。</p></td>
+<td><p>第45集</p></td>
+</tr>
+<tr class="odd">
+<td><p>|Miss 陳</p></td>
+<td><p>王妍熙之手下<br />
+在永信醫院幫忙照顧陳玉燕<br />
+被王妍熙威脅欺負陳玉燕的事情不準讓張正浩知道<br />
+被陳玉燕威脅帶她逃離養老院</p></td>
+<td><p>第48集～第53集</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/楊欣樺_(歌手)" title="wikilink">楊欣樺</a></p></td>
+<td><p>貴婦</p></td>
+<td><p>貴婦團<br />
+麗玲之友</p></td>
+<td><p>第53集</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/李睿紳.md" title="wikilink">李睿紳</a></p></td>
+<td><p>酒客</p></td>
+<td><p>本劇反派<br />
+在酒店與李寶娜互相拉扯</p></td>
+<td><p>第55集</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/潘為志" title="wikilink">潘為志</a></p></td>
+<td><p>醫院病人</p></td>
+<td><p>永信醫院之病人，在醫院情緒失控傷害蔡韻如</p></td>
+<td><p>第57集</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/丁梅卿" title="wikilink">丁梅卿</a></p></td>
+<td><p>院長</p></td>
+<td><p>育幼院院長，認養孤兒小橘子</p></td>
+<td><p>第57集</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/李沛旭.md" title="wikilink">李沛旭</a></p></td>
+<td><p>劉大為</p></td>
+<td><p>種蔥農夫<br />
+李寶娜、吳家芸之前男友</p></td>
+<td><p>第1集～第2集<br />
+第4集<br />
+第11集～第13集</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/亮哲.md" title="wikilink">亮　哲</a></p></td>
+<td><p>李紹峰</p></td>
+<td><p>飯店之婚禮新郎，與林芬芬結為夫妻，為《<a href="../Page/一家人.md" title="wikilink">一家人</a>》角色客串。</p></td>
+<td><p>第1集</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/王晴_(臺灣演員).md" title="wikilink">王　晴</a></p></td>
+<td><p>林芬芬</p></td>
+<td><p>飯店之婚禮新娘，與李紹峰結為夫妻，為《<a href="../Page/一家人.md" title="wikilink">一家人</a>》角色客串。</p></td>
+<td><p>第1集</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/曾莞婷.md" title="wikilink">曾莞婷</a></p></td>
+<td><p>何辛蒂</p></td>
+<td><p>名媛兼知名大提琴家<br />
+林至明之前女友</p></td>
+<td><p>第1集～第2集<br />
+第6集～第18集</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 主題曲
 
 ### 片頭金曲
 
-|        |          |        |        |        |          |          |
-| ------ | -------- | ------ | ------ | ------ | -------- | -------- |
-| **順序** | **歌曲名稱** | **作詞** | **作曲** | **主唱** | **播出期間** | **播出集數** |
-|        |          |        |        |        |          |          |
+|        |          |                                                     |                                                      |                                  |                      |          |
+| ------ | -------- | --------------------------------------------------- | ---------------------------------------------------- | -------------------------------- | -------------------- | -------- |
+| **順序** | **歌曲名稱** | **作詞**                                              | **作曲**                                               | **主唱**                           | **播出期間**             | **播出集數** |
+| 1      | |BABY貝比  | [張欣瑜](https://zh.wikipedia.org/wiki/張欣瑜 "wikilink") | [林佳玲](https://zh.wikipedia.org/wiki/林佳玲 "wikilink")  | [王思佳](../Page/王思佳.md "wikilink") | 2019年1月3日-2019年1月31日 | 第7集～第27集 |
+| 2      | |不應該     | [洪金昇](https://zh.wikipedia.org/wiki/洪金昇 "wikilink") | |[楊欣樺](https://zh.wikipedia.org/wiki/楊欣樺 "wikilink") | 2019年3月1日-2019年3月29日             | 第43集～                |          |
+|        |          |                                                     |                                                      |                                  |                      |          |
 
 ### 片頭曲
 
-|        |          |        |        |        |          |          |
-| ------ | -------- | ------ | ------ | ------ | -------- | -------- |
-| **順序** | **歌曲名稱** | **作詞** | **作曲** | **主唱** | **播出期間** | **播出集數** |
-|        |          |        |        |        |          |          |
+|        |          |                                                     |                                                                                      |                                                                                                     |                       |           |
+| ------ | -------- | --------------------------------------------------- | ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------- | --------------------- | --------- |
+| **順序** | **歌曲名稱** | **作詞**                                              | **作曲**                                                                               | **主唱**                                                                                              | **播出期間**              | **播出集數**  |
+| 1      | 招弟       | [石國人](https://zh.wikipedia.org/wiki/石國人 "wikilink") | [喬幼](../Page/喬幼.md "wikilink")                                                       | 2018年12月26日-2018年12月31日                                                                             | 第1集～第4集               |           |
+| 2      | |炮仔聲     | [黃士祐](https://zh.wikipedia.org/wiki/黃士祐 "wikilink") | [森祐士](https://zh.wikipedia.org/wiki/森祐士 "wikilink")                                  | [江蕙](../Page/江蕙.md "wikilink")                                                                      | 2019年1月1日-2019年1月9日   | 第5集～第11集  |
+| 3      | |甘是天意    | [張錦華](https://zh.wikipedia.org/wiki/張錦華 "wikilink") | [蔡小虎](../Page/蔡小虎.md "wikilink")、[李素專](https://zh.wikipedia.org/wiki/李素專 "wikilink") | 2019年1月10日-2019年1月31日                                                                               | 第12集～第27集             |           |
+| 4      | |浪子淚     | [陳百潭](../Page/陳百潭.md "wikilink")                    | [袁小迪](../Page/袁小迪.md "wikilink")                                                     | 2019年2月1日-2019年2月28日                                                                                | 第28集～第42集             |           |
+| 5      | |炮仔聲     | [黃士祐](https://zh.wikipedia.org/wiki/黃士祐 "wikilink") | [森祐士](https://zh.wikipedia.org/wiki/森祐士 "wikilink")                                  | [江蕙](../Page/江蕙.md "wikilink")                                                                      | 2019年3月1日-2019年3月8日   | 第43集～第48集 |
+| 6      | |霸王別姬    | [阿錡](https://zh.wikipedia.org/wiki/阿錡 "wikilink")   | [ACE BGM](https://zh.wikipedia.org/wiki/ACE_BGM "wikilink")                          | [阿錡](https://zh.wikipedia.org/wiki/阿錡 "wikilink")、[程安](https://zh.wikipedia.org/wiki/程安 "wikilink") | 2019年3月11日-2019年3月29日 | 第49集～     |
+|        |          |                                                     |                                                                                      |                                                                                                     |                       |           |
 
 ### 插曲
 
-|        |          |        |        |        |          |
-| ------ | -------- | ------ | ------ | ------ | -------- |
-| **順序** | **歌曲名稱** | **作詞** | **作曲** | **主唱** | **播出集數** |
-|        |          |        |        |        |          |
+|        |          |                                  |                                  |        |          |
+| ------ | -------- | -------------------------------- | -------------------------------- | ------ | -------- |
+| **順序** | **歌曲名稱** | **作詞**                           | **作曲**                           | **主唱** | **播出集數** |
+| 1      | 城裡的月光    | [陳佳明](../Page/陳佳明.md "wikilink") | [許美靜](../Page/許美靜.md "wikilink") | 第18集   |          |
+|        |          |                                  |                                  |        |          |
 
 ### 片尾曲
 
-|        |          |        |        |        |          |          |
-| ------ | -------- | ------ | ------ | ------ | -------- | -------- |
-| **順序** | **歌曲名稱** | **作詞** | **作曲** | **主唱** | **播出期間** | **播出集數** |
-|        |          |        |        |        |          |          |
+|        |          |                                                     |                                                                                      |                                                                                                     |                         |          |
+| ------ | -------- | --------------------------------------------------- | ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------- | ----------------------- | -------- |
+| **順序** | **歌曲名稱** | **作詞**                                              | **作曲**                                                                               | **主唱**                                                                                              | **播出期間**                | **播出集數** |
+| 1      | |情緣      | [葉竣江](https://zh.wikipedia.org/wiki/葉竣江 "wikilink") | [陳英吉](https://zh.wikipedia.org/wiki/陳英吉 "wikilink")                                  | [蔡秋鳳](../Page/蔡秋鳳.md "wikilink")、[袁小迪](../Page/袁小迪.md "wikilink")                                   | 2018年12月26日-2018年12月31日 | 第1集～第4集  |
+| 2      | |東港阿郎    | [阿錡](https://zh.wikipedia.org/wiki/阿錡 "wikilink")   | [小葉](https://zh.wikipedia.org/wiki/小葉 "wikilink")                                    | [阿錡](https://zh.wikipedia.org/wiki/阿錡 "wikilink")、[程安](https://zh.wikipedia.org/wiki/程安 "wikilink") | 2019年1月1日-2019年1月31日    | 第5集～第27集 |
+| 3      | |風風雨雨作陣行 | [周韋杰](https://zh.wikipedia.org/wiki/周韋杰 "wikilink") | [詹曼鈴](../Page/詹曼鈴.md "wikilink")、[李明洋](https://zh.wikipedia.org/wiki/李明洋 "wikilink") | 2019年2月1日-2019年2月28日                                                                                | 第28集～第42集               |          |
+| 4      | |牽著你的手   | [陳英吉](https://zh.wikipedia.org/wiki/陳英吉 "wikilink") | [袁小迪](../Page/袁小迪.md "wikilink")、[麗蓉](https://zh.wikipedia.org/wiki/麗蓉 "wikilink")   | 2019年3月1日-2019年3月29日                                                                                | 第43集～                   |          |
+|        |          |                                                     |                                                                                      |                                                                                                     |                         |          |
 
 ### 片尾金曲
 
-|        |          |        |        |        |          |          |
-| ------ | -------- | ------ | ------ | ------ | -------- | -------- |
-| **順序** | **歌曲名稱** | **作詞** | **作曲** | **主唱** | **播出期間** | **播出集數** |
-|        |          |        |        |        |          |          |
+|        |          |                                                     |                                                     |                     |          |          |
+| ------ | -------- | --------------------------------------------------- | --------------------------------------------------- | ------------------- | -------- | -------- |
+| **順序** | **歌曲名稱** | **作詞**                                              | **作曲**                                              | **主唱**              | **播出期間** | **播出集數** |
+| 1      | 流雲調      | [澎恰恰](https://zh.wikipedia.org/wiki/澎恰恰 "wikilink") | [談詩玲](https://zh.wikipedia.org/wiki/談詩玲 "wikilink") | 2019年1月1日-2019年1月4日 | 第5集～第8集  |          |
+|        |          |                                                     |                                                     |                     |          |          |
+
+## 收視率
+
+|- | 1-3 || 01 || － ||2.84 || 3|| 12月26日[金家好媳婦](../Page/金家好媳婦.md "wikilink")結局後首播(21:18)
+12月26日有線收視4.20，無線收視3.34，25-49歲收視更高達4.60
+12月27日有線收視3.94，無線收視2.79 |- | 4-8 || 02 || － || || 2|| |- | 9-13 || 03 || － ||2.74 || 2|| |- | 14-18 || 04 || － ||2.93|| 2 || |- | 19-23 || 05 || － ||2.87||2|| |- | 24-28 || 06 || － || - || - || 無收視率調查 |- | 新春特輯 || 07 || － || 0.88 || 4 ||2/4因播出除夕特別節目[2019超級華人風雲大賞](../Page/2019超級華人風雲大賞.md "wikilink")，故暫停播出一次 |- | 29-33 || 08 || － ||2.89 || 2|| |- | 34-38 || 09 || － ||3.02 || 2|| |- | 39-43 || 10 || － ||3.15 ||2|| |- | 44-48|| 11 || － || 3.60 || 2 ||3月5日有線收視5.16 |- | 49-53 || 12 || － || || 2 ||3月14日有線收視5.59 |- | 54-58 || 13 || － || 3.74|| 2||3月18日無線收視3.98 |- | 59-63 || 14 || － || || ||3月27日無線收視3.63 |- | 64-68 || 16 || － || || || |- | 69-73 || 17 || － || || || |- | 74-78 || 18 || － || || || |- | 79-83 || 19 || － || || || |- | 84-88 || 20 || － || || || |- | 89-93 || 21 || － || || || |- | 94-98 || 22 || － || || || |- | 99-103 || 23 || － || || || |- | 104-108 || 24 || － || || || |- | 109-113 || 25 || － || || || |- | 114-118 || 26 || － || || || |- | 119-123 || 27 || － || || || |- | 124-128 || 28 || － || || || |- | 129- 135|| 29 || － || || || |- | 138-142 || 30 || － || || || |}
+
+  - 由[AC尼爾森調查](https://zh.wikipedia.org/wiki/AC尼爾森 "wikilink")，調查範圍是四歲以上收看電視之觀眾。
+  - 資料來源：[台灣-偶像劇場](http://dorama.info/tw/)</small>
+
+## 製作團隊
+
+  - 片頭題字：陳羅聖
+  - 總監製：洪任中、姜明衡
+  - 監製：吳聖文、黃尉誠、吳思穎、李佳芬、王筱安
+  - 製作人：[郭建宏](../Page/郭建宏_\(製作人\).md "wikilink")、趙金虎、賴婉容
+  - 編劇顧問：
+      - 劉玫（第9集至今）
+  - 編劇統籌：
+      - 劉玫（第1-7集）
+      - 劉玫、陳瓊樺（第8集）
+      - 陳瓊樺（第9-49集）
+      - 好旺財編劇小組（第50集至今）
+  - 編劇：
+      - 黃郁欽、林承鴻、吳喜麗、鄭媛媛、林其妏、楊宜樺、呂婉君（第1-54集）
+      - 黃郁欽、林承鴻、吳喜麗、呂婉君、王湘琪、金賓、宥騰、千怡（第55集至今）
+  - 企劃：林宜君、陳昕楷、吳孟寰
+  - 導演：
+      - 劉建律、卓少君、林森（第1-23集）
+      - 劉建律、卓少君、林森、左孝虎（第24-50集）
+      - 卓少君、左孝虎（第51集至今）
+  - 總導演：[龔美富](../Page/龔美富.md "wikilink")
+  - 製作公司：[映畫傳播](../Page/映畫傳播.md "wikilink")
+
+## 推出及變動
+
+2018年\[4\]\[5\]\[6\]\[7\]\[8\]\[9\]\[10\]\[11\]\[12\]
+\*11月27日，《炮仔聲》兩部前導預告釋出
+
+  - 11月30日，《炮仔聲》第三部前導預告釋出
+  - 12月5日， 《炮仔聲》首播劇情預告釋出
+  - 12月12日，《炮仔聲》釋出第五波預告演員卡司篇
+  - 12月12日，《炮仔聲》舉辦首波卡司發布會，出席藝人：徐亨、林在培、陳志強、吳東諺
+  - 12月13日，《炮仔聲》拍攝片頭
+  - 12月16日，《炮仔聲》釋出第六波預告三百萬頭期款篇
+  - 12月16日，《炮仔聲》釋出第七波預告議員欺壓篇
+  - 12月18日，《炮仔聲》釋出第八波預告男神的戀愛契約篇
+  - 12月22日，《炮仔聲》釋出第九波預告邂逅篇
+  - 12月22日，《炮仔聲》釋出第十波預告
+  - 12月24日，《炮仔聲》釋出上檔日期預告
+  - 12月25日，《炮仔聲》舉行首映會
+  - 12月25日，《炮仔聲》釋出片花約17分鐘及片頭
+  - 12月25日，《炮仔聲》釋出第十一波預告
+  - 12月25日，《炮仔聲》於《金家好媳婦》片尾釋出搶先看
+  - [劉秀雯](../Page/劉秀雯.md "wikilink")飾演的角色起初登場名為「張玉燕」，後於第12集改名為「陳玉燕」。
+  - [梁家榕](../Page/梁家榕.md "wikilink")原定演出，但因肌肉萎縮暫時休息一陣子。
+
+## 參考資料
+
+## 作品的變遷
 
 <div style="display:none">
 
@@ -95,4 +1104,17 @@
 
 </div>
 
-[Category:三立台灣台戲劇節目](https://zh.wikipedia.org/wiki/Category:三立台灣台戲劇節目 "wikilink")
+[Category:三立台灣台戲劇節目](https://zh.wikipedia.org/wiki/Category:三立台灣台戲劇節目 "wikilink") [Category:映畫傳播製作電視劇](https://zh.wikipedia.org/wiki/Category:映畫傳播製作電視劇 "wikilink") [Category:2018年台灣電視劇集](https://zh.wikipedia.org/wiki/Category:2018年台灣電視劇集 "wikilink") [Category:婚姻相關電視劇](https://zh.wikipedia.org/wiki/Category:婚姻相關電視劇 "wikilink")
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.

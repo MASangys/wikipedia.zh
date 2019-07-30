@@ -12,8 +12,7 @@
 
   - 阿里，一个位于伊朗的马赞德兰省的村庄。
 
-  - [阿里](https://zh.wikipedia.org/wiki/阿里_\(意大利\) "wikilink")，[阿布鲁佐大区](../Page/阿布鲁佐大区.md "wikilink")，
-    一个位于意大利的[市镇](https://zh.wikipedia.org/wiki/市镇_\(意大利\) "wikilink")*。*
+  - [阿里](https://zh.wikipedia.org/wiki/阿里_\(意大利\) "wikilink")，[阿布鲁佐大区](../Page/阿布鲁佐大区.md "wikilink")， 一个位于意大利的[市镇](https://zh.wikipedia.org/wiki/市镇_\(意大利\) "wikilink")*。*
 
   - 阿里，一个位于印第安纳且尚未立州的小镇。
 
@@ -35,7 +34,7 @@
 
 ## 其他
 
-  - [白羊座(星座)的缩写](../Page/白羊座.md "wikilink")，由国际天文联盟标准化。
+  - [白羊座](../Page/白羊座.md "wikilink")(星座)的缩写，由国际天文联盟标准化。
 
   - Ari-Motorfahrzeugbau GmbH，一个德国汽车公司，它在1920年代制造了和二冲程Ari摩托车。
 

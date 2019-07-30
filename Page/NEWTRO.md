@@ -2,9 +2,7 @@
 
 ## 背景
 
-3月3日，[MBK
-Entertainment正式宣布DIA將於](https://zh.wikipedia.org/wiki/MBK_Entertainment "wikilink")3月21日（之後改為3月19日）以迷你專輯《NEWTRO》正式回歸，但成員
-JENNY 由於膝蓋軟骨軟化症，決定暫時停止演藝活動，故此次改以七人體制回歸；另外，這次回歸承接上一次作品，會再度與新沙洞老虎合作\[1\]。
+3月3日，[MBK Entertainment正式宣布DIA將於](https://zh.wikipedia.org/wiki/MBK_Entertainment "wikilink")3月21日（之後改為3月19日）以迷你專輯《NEWTRO》正式回歸，但成員 JENNY 由於膝蓋軟骨軟化症，決定暫時停止演藝活動，故此次改以七人體制回歸；另外，這次回歸承接上一次作品，會再度與新沙洞老虎合作\[1\]。
 
 ## 曲目
 

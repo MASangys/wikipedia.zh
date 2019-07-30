@@ -6,8 +6,7 @@
 
 ## 参考文献
 
-[Category:锫化合物](https://zh.wikipedia.org/wiki/Category:锫化合物 "wikilink")
-[Category:吡啶甲酸盐](https://zh.wikipedia.org/wiki/Category:吡啶甲酸盐 "wikilink")
+[Category:锫化合物](https://zh.wikipedia.org/wiki/Category:锫化合物 "wikilink") [Category:吡啶甲酸盐](https://zh.wikipedia.org/wiki/Category:吡啶甲酸盐 "wikilink")
 
 1.
 2.

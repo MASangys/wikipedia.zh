@@ -1,7 +1,6 @@
-**JPEG XT** 是一種基於並兼容JPEG標準（ISO / IEC 10918-1和ITU Rec.T.81）圖像壓縮標準。
+**JPEG XT** 是一種基於並兼容[JPEG](../Page/JPEG.md "wikilink")標準（ISO / IEC 10918-1和ITU Rec.T.81）圖像壓縮標準。
 
-相比於 JPEG, JPEG XT 支援更高的色彩深度，高動態範圍成像和浮點數編碼，無損編碼，alpha頻道編碼。JPEG XT 向下相容
-JPEG / JFIF 格式。
+相比於 JPEG, JPEG XT 支援更高的色彩深度，高動態範圍成像和浮點數編碼，無損編碼，alpha頻道編碼。JPEG XT 向下相容 JPEG / JFIF 格式。
 
 ## JPEG XT 標準
 
@@ -25,9 +24,7 @@ JPEG XT
 
 ### Part 1
 
-定義目前常用 JPEG 規格，例如 ISO/IEC 10918-1 (基本格式), 10918-5 JPEG File Interchange
-Format (JFIF), and 10918-6.並限制 JPEG 編碼格式為 基本格式, 序向式, 漸進式, 也包括基於 Rec. 601
-的 YCbCr 色度抽樣。
+定義目前常用 JPEG 規格，例如 ISO/IEC 10918-1 (基本格式), 10918-5 JPEG File Interchange Format (JFIF), and 10918-6.並限制 JPEG 編碼格式為 基本格式, 序向式, 漸進式, 也包括基於 Rec. 601 的 YCbCr 色度抽樣。
 
 ### Part 2
 
@@ -35,11 +32,9 @@ Format (JFIF), and 10918-6.並限制 JPEG 編碼格式為 基本格式, 序向�
 
 ### Part 3
 
-Part 3 定義向下相容 JFIF 的格式. 此種格式是基於 application marker 11 ('APP11')
-所標記的區段(box)，其中包含 增強資料層(enhancement data layers) 與 附加的二進位資料。
+Part 3 定義向下相容 JFIF 的格式. 此種格式是基於 application marker 11 ('APP11') 所標記的區段(box)，其中包含 增強資料層(enhancement data layers) 與 附加的二進位資料。
 
-Part 3 主要建立在 ISO base media file format(ISO/IEC 14496-12 – MPEG-4 Part
-12), 並且與早期 JPEG-HDR 格式相似.
+Part 3 主要建立在 ISO base media file format(ISO/IEC 14496-12 – MPEG-4 Part 12), 並且與早期 JPEG-HDR 格式相似.
 
 ### Part 6
 
@@ -47,8 +42,7 @@ Part 3 主要建立在 ISO base media file format(ISO/IEC 14496-12 – MPEG-4 Pa
 
 ### Part 7
 
-Part 7 主要包含 浮點數的高動態範圍影像 (HDR)編碼工具，負責產生上述所提的 增強資料層(enhancement data
-layers)
+Part 7 主要包含 浮點數的高動態範圍影像 (HDR)編碼工具，負責產生上述所提的 增強資料層(enhancement data layers)
 
 Part 7 定義了三種演算法來重建 HDR 影像:
 
@@ -60,10 +54,12 @@ Part 7 定義了三種演算法來重建 HDR 影像:
 
 ### Part 8
 
-定義了關於無損編碼的細節與實作。 對於 10 和 12 位元的準確度，使用 整數的離散餘弦變換(DCT)來達成。對於 16位元，使用 定點
-DCT 近似來實作。
+定義了關於無損編碼的細節與實作。 對於 10 和 12 位元的準確度，使用 整數的離散餘弦變換(DCT)來達成。對於 16位元，使用 定點 DCT 近似來實作。
 
 ### Part 9
 
-定義關於 Alpha 頻道在透明與任意形狀的圖片上的編碼。其中利用的 opacity layer
-(不透明層)來指出是否為預乘透明度（Premultiplied Alpha）。
+定義關於 Alpha 頻道在透明與任意形狀的圖片上的編碼。其中利用的 opacity layer (不透明層)來指出是否為預乘透明度（Premultiplied Alpha）。
+
+## 参考文献
+
+[Category:圖像壓縮](https://zh.wikipedia.org/wiki/Category:圖像壓縮 "wikilink") [Category:圖形文件格式](https://zh.wikipedia.org/wiki/Category:圖形文件格式 "wikilink")

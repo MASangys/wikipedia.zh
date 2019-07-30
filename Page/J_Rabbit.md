@@ -1,5 +1,4 @@
-**J Rabbit**（）為2010年11月27日以單曲《Take
-One》出道的一支[韓國雙人獨立樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")\[1\]，現任成員有鄭惠善以及鄭多雲。
+**J Rabbit**（）為2010年11月27日以單曲《Take One》出道的一支[韓國雙人獨立樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")\[1\]，現任成員有鄭惠善以及鄭多雲。
 
 ## 團體資料
 
@@ -692,10 +691,7 @@ Danurim Hall</p></td>
   -
   -
   -
-[Category:1987年出生](https://zh.wikipedia.org/wiki/Category:1987年出生 "wikilink")
-[Category:韓國演唱團體](https://zh.wikipedia.org/wiki/Category:韓國演唱團體 "wikilink")
-[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
-[Category:2010年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2010年成立的音樂團體 "wikilink")
+[Category:1987年出生](https://zh.wikipedia.org/wiki/Category:1987年出生 "wikilink") [Category:韓國演唱團體](https://zh.wikipedia.org/wiki/Category:韓國演唱團體 "wikilink") [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:2010年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2010年成立的音樂團體 "wikilink")
 
 1.
 2.

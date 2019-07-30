@@ -1,4 +1,4 @@
-**BLACKPINK錄像作品列表**，是用於匯總[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[BLACKPINK歷年發行的演唱會DVD](../Page/BLACKPINK.md "wikilink")、藍光，及歷年在[YouTube上發佈的音樂錄影帶](../Page/YouTube.md "wikilink")。
+**BLACKPINK錄像作品列表**，是用於匯總[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[BLACKPINK](../Page/BLACKPINK.md "wikilink")歷年發行的演唱會DVD、藍光，及歷年在[YouTube](../Page/YouTube.md "wikilink")上發佈的音樂錄影帶。
 
 ## 音樂錄影帶
 
@@ -27,16 +27,16 @@
 
 ### 舞蹈影片
 
-| 順序 | 發佈日期（韓國時間） | 歌曲名稱                     | 舞蹈影片   |
-| -- | ---------- | ------------------------ | ------ |
-| 1  | 2016年8月8日  | 《Boombayah》（）            | \[25\] |
-| 2  | 2016年8月8日  | 《口哨》（）                   | \[26\] |
-| 3  | 2016年11月1日 | 《Playing with Fire》（）    | \[27\] |
-| 4  | 2017年6月22日 | 《As If It's Your Last》（） | \[28\] |
-| 5  | 2018年6月15日 | 《Ddu-Du Ddu-Du》（）        | \[29\] |
-| 6  | 2018年6月20日 | 《》                       | \[30\] |
-| 7  | 2019年4月8日  | 《Kill This Love》         | \[31\] |
-| 8  | 2019年4月15日 | 《》                       | \[32\] |
+| 順序 | 發佈日期（韓國時間） | 歌曲名稱                                                                   | 舞蹈影片   |
+| -- | ---------- | ---------------------------------------------------------------------- | ------ |
+| 1  | 2016年8月8日  | 《Boombayah》（）                                                          | \[25\] |
+| 2  | 2016年8月8日  | 《口哨》（）                                                                 | \[26\] |
+| 3  | 2016年11月1日 | 《Playing with Fire》（）                                                  | \[27\] |
+| 4  | 2017年6月22日 | 《As If It's Your Last》（）                                               | \[28\] |
+| 5  | 2018年6月15日 | 《Ddu-Du Ddu-Du》（）                                                      | \[29\] |
+| 6  | 2018年6月20日 | 《[Forever Young](../Page/Forever_Young_\(BLACKPINK歌曲\).md "wikilink")》 | \[30\] |
+| 7  | 2019年4月8日  | 《Kill This Love》                                                       | \[31\] |
+| 8  | 2019年4月15日 | 《[Don't Know What to Do](../Page/Don't_Know_What_to_Do.md "wikilink")》 | \[32\] |
 
 ### 客串
 
@@ -132,6 +132,20 @@ DVD</a></p></td>
 <td><p>—</p></td>
 </tr>
 <tr class="odd">
+<td><p>1st</p></td>
+<td><center>
+<p>《<strong>BLACKPINK 2018 Tour [In Your Area] Seoul DVD</strong>》</p>
+</center>
+<ul>
+<li>發行日期：2019年8月8日</li>
+<li>語言：韓語</li>
+<li>廠牌：<a href="../Page/YG娛樂.md" title="wikilink">YG娛樂</a>、YG Plus、<a href="../Page/Genie音樂.md" title="wikilink">Genie音樂</a></li>
+<li>格式：DVD</li>
+</ul></td>
+<td><p>—</p></td>
+<td><p>—</p></td>
+</tr>
+<tr class="even">
 <td><p><small>"—" 表示該專輯/單曲未有在榜上排名或未有資料或沒有在當地發行</small></p></td>
 <td></td>
 <td></td>
@@ -246,8 +260,7 @@ DVD</a></p></td>
 
 ### 引用來源
 
-[Category:BLACKPINK](https://zh.wikipedia.org/wiki/Category:BLACKPINK "wikilink")
-[Category:韓國錄像作品列表](https://zh.wikipedia.org/wiki/Category:韓國錄像作品列表 "wikilink")
+[Category:BLACKPINK](https://zh.wikipedia.org/wiki/Category:BLACKPINK "wikilink") [Category:韓國錄像作品列表](https://zh.wikipedia.org/wiki/Category:韓國錄像作品列表 "wikilink")
 
 1.
 

@@ -1,5 +1,4 @@
-**JK
-金東昱**（，）是一名[韓國男](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[歌手](../Page/歌手.md "wikilink")。
+**JK 金東昱**（，）是一名[韓國男](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[歌手](../Page/歌手.md "wikilink")。
 
 ## 專輯
 
@@ -24,7 +23,4 @@
 
   -
 
-[Category:1975年出生](https://zh.wikipedia.org/wiki/Category:1975年出生 "wikilink")
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
-[Category:韓國男歌手](https://zh.wikipedia.org/wiki/Category:韓國男歌手 "wikilink")
-[Category:韓國廣播主持人](https://zh.wikipedia.org/wiki/Category:韓國廣播主持人 "wikilink")
+[Category:1975年出生](https://zh.wikipedia.org/wiki/Category:1975年出生 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:韓國男歌手](https://zh.wikipedia.org/wiki/Category:韓國男歌手 "wikilink") [Category:韓國廣播主持人](https://zh.wikipedia.org/wiki/Category:韓國廣播主持人 "wikilink")

@@ -1,24 +1,14 @@
-是[日本女性](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")、[词曲作家](https://zh.wikipedia.org/wiki/词曲作家 "wikilink")、[音乐制作人和](https://zh.wikipedia.org/wiki/音乐制作人 "wikilink")[说唱家](https://zh.wikipedia.org/wiki/饶舌 "wikilink")。她是[J-Pop乐队](https://zh.wikipedia.org/wiki/J-Pop "wikilink")[REOL的前成员](https://zh.wikipedia.org/wiki/REOL "wikilink")，目前以独奏音乐人的身份在[胜利娱乐名下签约](https://zh.wikipedia.org/wiki/胜利娱乐 "wikilink")。\[1\]
-2012年底，她开始在[Niconico动画和](https://zh.wikipedia.org/wiki/Niconico动画 "wikilink")[YouTube上创作和发布音乐](../Page/YouTube.md "wikilink")。
+是[日本](../Page/日本.md "wikilink")女性[歌手](../Page/歌手.md "wikilink")、[词曲作家](https://zh.wikipedia.org/wiki/词曲作家 "wikilink")、[音乐制作人和](https://zh.wikipedia.org/wiki/音乐制作人 "wikilink")[说唱家](https://zh.wikipedia.org/wiki/饶舌 "wikilink")。她是[J-Pop乐队](https://zh.wikipedia.org/wiki/J-Pop "wikilink")[REOL的前成员](https://zh.wikipedia.org/wiki/REOL "wikilink")，目前以独奏音乐人的身份在[胜利娱乐名下签约](https://zh.wikipedia.org/wiki/胜利娱乐 "wikilink")。\[1\] 2012年底，她开始在[Niconico动画和](https://zh.wikipedia.org/wiki/Niconico动画 "wikilink")[YouTube](../Page/YouTube.md "wikilink")上创作和发布音乐。
 
 ## 经历与生涯
 
 ### 2012年-2017年：事业的开端与作品《No Title》
 
-2012年底，Reol开始向[Niconico动画和](https://zh.wikipedia.org/wiki/Niconico动画 "wikilink")[YouTube上传原创歌曲和翻唱歌曲](../Page/YouTube.md "wikilink")。2014年8月17日，Reol与音乐编曲**GigaP**、美術製作**Okiku**以团体****的名义合作发行了名为**《No
-Title+》**和**《No Title-》**的专辑。其中《No
-Title+》专辑由[初音未来](https://zh.wikipedia.org/wiki/初音未来 "wikilink")、[GUMI和](https://zh.wikipedia.org/wiki/GUMI "wikilink")[巡音流歌等](../Page/巡音流歌.md "wikilink")[Vocaloid虚拟歌手演唱](https://zh.wikipedia.org/wiki/Vocaloid "wikilink")，《No
-Title-》則是Reol自己唱的版本，並通过日本[Celo
-Project发行公司发行](https://zh.wikipedia.org/wiki/Celo_Project "wikilink")。
+2012年底，Reol开始向[Niconico动画和](https://zh.wikipedia.org/wiki/Niconico动画 "wikilink")[YouTube](../Page/YouTube.md "wikilink")上传原创歌曲和翻唱歌曲。2014年8月17日，Reol与音乐编曲**GigaP**、美術製作**Okiku**以团体****的名义合作发行了名为**《No Title+》**和**《No Title-》**的专辑。其中《No Title+》专辑由[初音未来](https://zh.wikipedia.org/wiki/初音未来 "wikilink")、[GUMI和](https://zh.wikipedia.org/wiki/GUMI "wikilink")[巡音流歌](../Page/巡音流歌.md "wikilink")等[Vocaloid虚拟歌手演唱](https://zh.wikipedia.org/wiki/Vocaloid "wikilink")，《No Title-》則是Reol自己唱的版本，並通过日本[Celo Project发行公司发行](https://zh.wikipedia.org/wiki/Celo_Project "wikilink")。
 
-之後Reol和Victor
-Entertainment簽約，找了八位創作者製作長達一年半，2015年7月29日首次以れをる的名義發行專輯《》\[2\]，该专辑在[Oricon专辑排行榜上名列前十](../Page/Oricon.md "wikilink")\[3\]\[4\]。之后，Reol和GigaP\&Okiku以[REOL的名义与唱片公司](https://zh.wikipedia.org/wiki/REOL "wikilink")[TOY'S
-FACTORY签约](../Page/TOY'S_FACTORY.md "wikilink")。2016年8月18日，**REOL**首次公开他们的单曲音乐视频\[5\]（**\[6\]
-/ **）。他们于2016年10月19日发行了首张名为
-**《》**的音乐专辑，该专辑在[Oricon每周专辑排行榜上排名第](../Page/Oricon.md "wikilink")8。
+之後Reol和Victor Entertainment簽約，找了八位創作者製作長達一年半，2015年7月29日首次以れをる的名義發行專輯《》\[2\]，该专辑在[Oricon](../Page/Oricon.md "wikilink")专辑排行榜上名列前十\[3\]\[4\]。之后，Reol和GigaP\&Okiku以[REOL的名义与唱片公司](https://zh.wikipedia.org/wiki/REOL "wikilink")[TOY'S FACTORY签约](../Page/TOY'S_FACTORY.md "wikilink")。2016年8月18日，**REOL**首次公开他们的单曲音乐视频\[5\]（**\[6\] / **）。他们于2016年10月19日发行了首张名为 **《》**的音乐专辑，该专辑在[Oricon](../Page/Oricon.md "wikilink")每周专辑排行榜上排名第8。
 
-2017年10月11日，REOL在宣布解散前发布了专辑**《》（Endless
-EP）**。该专辑的的特色是2014年发行的单曲**《LUVORATORRRRRY\!》**。这首歌的音乐视频已经在YouTube上积累了超过3700万的浏览量\[7\]。
+2017年10月11日，REOL在宣布解散前发布了专辑**《》（Endless EP）**。该专辑的的特色是2014年发行的单曲**《LUVORATORRRRRY\!》**。这首歌的音乐视频已经在YouTube上积累了超过3700万的浏览量\[7\]。
 
 ### 2018年至今：胜利娱乐与个人的处女作
 
@@ -46,16 +36,14 @@ Reol在2018年7月和8月分别发行了单曲**《吉兆》（）**和**（）*
 
   - (Endless EP) (2017)
 
-### 以为名义发布
+### 以れをる为名义发布
 
   - No Title+ (2014)
   - No Title- (2014)
 
 ## 参考资料
 
-[Category:1993年出生](https://zh.wikipedia.org/wiki/Category:1993年出生 "wikilink")
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
-[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink")
+[Category:1993年出生](https://zh.wikipedia.org/wiki/Category:1993年出生 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink")
 
 1.
 2.

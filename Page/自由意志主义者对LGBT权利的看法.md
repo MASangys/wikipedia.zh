@@ -12,7 +12,7 @@
 
 #### 自由意志党
 
-在他们的平台上表示，该党“完全支持[民事结合的观点](https://zh.wikipedia.org/wiki/民事结合 "wikilink")，也将支持承认[同性伴侣之间的婚姻](https://zh.wikipedia.org/wiki/同性伴侣 "wikilink")，甚至是[一夫多妻制婚姻或在任何情况下两个人之间已有的关系](../Page/一夫多妻制.md "wikilink")，只要所有当事方都是成年人并且都同意”。\[2\]该党已于2014年2月停止存在。
+在他们的平台上表示，该党“完全支持[民事结合的观点](https://zh.wikipedia.org/wiki/民事结合 "wikilink")，也将支持承认[同性伴侣之间的婚姻](https://zh.wikipedia.org/wiki/同性伴侣 "wikilink")，甚至是[一夫多妻制](../Page/一夫多妻制.md "wikilink")婚姻或在任何情况下两个人之间已有的关系，只要所有当事方都是成年人并且都同意”。\[2\]该党已于2014年2月停止存在。
 
 ### 俄罗斯
 
@@ -28,11 +28,8 @@
 
 ## 参考资料
 
-[Category:自由意志主義](https://zh.wikipedia.org/wiki/Category:自由意志主義 "wikilink")
-[Category:LGBT權利](https://zh.wikipedia.org/wiki/Category:LGBT權利 "wikilink")
+[Category:自由意志主義](https://zh.wikipedia.org/wiki/Category:自由意志主義 "wikilink") [Category:LGBT權利](https://zh.wikipedia.org/wiki/Category:LGBT權利 "wikilink")
 
-1.  ["Libertés
-    individuelles"](http://www.alternative-liberale.fr/index.php/index.php/programme/libertes-individuelles.html).
-
+1.  ["Libertés individuelles"](http://www.alternative-liberale.fr/index.php/index.php/programme/libertes-individuelles.html).
 2.
 3.

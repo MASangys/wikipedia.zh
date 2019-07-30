@@ -1,9 +1,8 @@
-**府城封茶**是由蔡明勳、葉東泰、羅英銀、林經堯等四位茶人自2008年起發創，台南奉茶與台灣茶藝促進會主辦的封茶文化活動\[1\]，每年於[農曆](../Page/農曆.md "wikilink")[臘月以](https://zh.wikipedia.org/wiki/臘月 "wikilink")[台南為主會場舉辦](https://zh.wikipedia.org/wiki/台南 "wikilink")，活動舉辦日多為[農曆](../Page/農曆.md "wikilink")[臘月二十四日](https://zh.wikipedia.org/wiki/臘月 "wikilink")([送神日](https://zh.wikipedia.org/wiki/送神日 "wikilink"))，第10、12屆則在[農曆](../Page/農曆.md "wikilink")[臘月初八](https://zh.wikipedia.org/wiki/臘月 "wikilink")([臘八節](https://zh.wikipedia.org/wiki/臘八節 "wikilink"))舉辦。
-「封茶」是將茶葉裝進茶甕內，並放入祈願箋條，再用封條予以封存，待數年後再啟封。封存的茶葉將隨空氣、濕度、溫度、存放容器的差異、存茶時間的長短，有不同的轉化結果。\[2\]
+**府城封茶**是由蔡明勳、葉東泰、羅英銀、林經堯等四位茶人自2008年起發創，台南奉茶與台灣茶藝促進會主辦的封茶文化活動\[1\]，每年於[農曆](../Page/農曆.md "wikilink")[臘月以](https://zh.wikipedia.org/wiki/臘月 "wikilink")[台南為主會場舉辦](https://zh.wikipedia.org/wiki/台南 "wikilink")，活動舉辦日多為[農曆](../Page/農曆.md "wikilink")[臘月二十四日](https://zh.wikipedia.org/wiki/臘月 "wikilink")([送神日](https://zh.wikipedia.org/wiki/送神日 "wikilink"))，第10、12屆則在[農曆](../Page/農曆.md "wikilink")[臘月初八](https://zh.wikipedia.org/wiki/臘月 "wikilink")([臘八節](https://zh.wikipedia.org/wiki/臘八節 "wikilink"))舉辦。 「封茶」是將茶葉裝進茶甕內，並放入祈願箋條，再用封條予以封存，待數年後再啟封。封存的茶葉將隨空氣、濕度、溫度、存放容器的差異、存茶時間的長短，有不同的轉化結果。\[2\]
 
 ## 活動源起
 
-2008年創辦人之一蔡明勳首先提出「府城封茶日」的構想，而葉東泰則建議將活動日訂在[農曆十二月二十四日](../Page/農曆.md "wikilink")[送神日](https://zh.wikipedia.org/wiki/送神日 "wikilink")。該日眾神須回天庭稟報，擇良辰，設香案奉敬茶神，以為人間茶事向天帝諸多美富。活動構想如下：封茶者在約定的守則之下，將封條烙好，並代茶向茶聖「[陸羽](../Page/陸羽.md "wikilink")」，台灣茶賢「[沈光文](../Page/沈光文.md "wikilink")」宣告啟封，由媒體朋友及眾茶友相互見證，並將茶名、茶量及封茶感言記錄於茶帖上。\[3\]
+2008年創辦人之一蔡明勳首先提出「府城封茶日」的構想，而葉東泰則建議將活動日訂在[農曆](../Page/農曆.md "wikilink")十二月二十四日[送神日](https://zh.wikipedia.org/wiki/送神日 "wikilink")。該日眾神須回天庭稟報，擇良辰，設香案奉敬茶神，以為人間茶事向天帝諸多美富。活動構想如下：封茶者在約定的守則之下，將封條烙好，並代茶向茶聖「[陸羽](../Page/陸羽.md "wikilink")」，台灣茶賢「[沈光文](../Page/沈光文.md "wikilink")」宣告啟封，由媒體朋友及眾茶友相互見證，並將茶名、茶量及封茶感言記錄於茶帖上。\[3\]
 
   - 一、公開的封茶儀式可藉由眾人與媒體的見證監督，將藏茶日期確立，可昭年份之公信。
   - 二、眾人齊聚封茶，可學習到不同理念的封茶方法，並在將來開封時，歸結出適合個人的選茶藏茶技巧。\[4\]
@@ -115,7 +114,7 @@
 
 2017年以「[工夫茶](../Page/工夫茶.md "wikilink")」為主題邀請六位在台灣資深茶人：沈武銘、王介宏、蔡奕哲、王俊欽、梁明宗、吳明松。
 
-以茶席為示範，各講者以論壇為表述[工夫茶之定位](../Page/工夫茶.md "wikilink")。探討源自[潮汕的工夫茶泡法傳到台灣後](https://zh.wikipedia.org/wiki/潮汕 "wikilink")，如何重新找到新的定位。\[12\]
+以茶席為示範，各講者以論壇為表述[工夫茶](../Page/工夫茶.md "wikilink")之定位。探討源自[潮汕的工夫茶泡法傳到台灣後](https://zh.wikipedia.org/wiki/潮汕 "wikilink")，如何重新找到新的定位。\[12\]
 
 ### 第十一屆府城封茶 陶藝作品展示
 

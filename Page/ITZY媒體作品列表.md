@@ -1,4 +1,4 @@
-**ITZY媒體作品列表**主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[ITZY歷年參與各類電視節目](../Page/ITZY.md "wikilink")、固定節目及電視劇。
+**ITZY媒體作品列表**主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[ITZY](../Page/ITZY.md "wikilink")歷年參與各類電視節目、固定節目及電視劇。
 
 ## 影視作品
 
@@ -25,7 +25,8 @@
 | 2019年 | 2月21日                                               | 《[超級實習生](../Page/超級實習生.md "wikilink")》                    | 全員                                                                           | 5           | 未來預告。錄製時出道前幾天、2本部新客戶 |     |
 | 3月10日 | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink") | 《[家师父一体](https://zh.wikipedia.org/wiki/家师父一体 "wikilink")》 | 60                                                                           | 特别出演        |                      |     |
 | 3月17日 | 61                                                  |                                                           |                                                                              |             |                      |     |
-| 7月6日  | [JTBC](../Page/JTBC.md "wikilink")                  | 《[認識的哥哥](../Page/認識的哥哥.md "wikilink")》                    | 187                                                                          |             |                      |     |
+| 7月13日 | [JTBC](../Page/JTBC.md "wikilink")                  | 《[認識的哥哥](../Page/認識的哥哥.md "wikilink")》                    | 188                                                                          |             |                      |     |
+| 7月30日 | 《[Idol Room](../Page/Idol_Room.md "wikilink")》      | 61                                                        |                                                                              |             |                      |     |
 
 ### 節目主持
 

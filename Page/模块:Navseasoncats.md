@@ -1,9 +1,6 @@
 local p = {}
 
-local errors = '' local nexistingcats = 0 local currtitle =
-mw.title.getCurrentTitle() local testcasecolon = '' local testcases =
-(currtitle.subpageText == 'testcases') if testcases then testcasecolon =
-':' end local navborder = true local misctrackingcats = {
+local errors = '' local nexistingcats = 0 local currtitle = mw.title.getCurrentTitle() local testcasecolon = '' local testcases = (currtitle.subpageText == 'testcases') if testcases then testcasecolon = ':' end local navborder = true local misctrackingcats = {
 
 `   [1] = '', --placeholder for '`
 `   [2] = '', --placeholder for '`
@@ -20,10 +17,7 @@ mw.title.getCurrentTitle() local testcasecolon = '' local testcases =
 `                   currtitle.text ~= 'Navseasoncats/sandbox' and  --avoid self`
 `                   (currtitle.nsText ~= 'Template' or testcases)) --avoid nested transclusion errors (i.e. ``)`
 
-\--[==========================================================================](https://zh.wikipedia.org/wiki/========================================================================== "wikilink")
---[Utility & category
-functions](https://zh.wikipedia.org/wiki/Utility_&_category_functions "wikilink")
---[==========================================================================](https://zh.wikipedia.org/wiki/========================================================================== "wikilink")
+\--[==========================================================================](https://zh.wikipedia.org/wiki/========================================================================== "wikilink") --[Utility & category functions](https://zh.wikipedia.org/wiki/Utility_&_category_functions "wikilink") --[==========================================================================](https://zh.wikipedia.org/wiki/========================================================================== "wikilink")
 
 \--Error message handling --Also used by . function p.errorclass( msg )
 
@@ -31,31 +25,25 @@ functions](https://zh.wikipedia.org/wiki/Utility_&_category_functions "wikilink"
 
 end
 
-\--Failure handling --Also used by . function p.failedcat( errors,
-sortkey )
+\--Failure handling --Also used by . function p.failedcat( errors, sortkey )
 
 `   if avoidself then`
 `       return (errors or '')..'***Navseasoncats failed to generate navbox***'..`
-`              '`[`'..(sortkey``   ``or``
- ``'O')..'`](https://zh.wikipedia.org/wiki/'..testcasecolon..'Category:Navseasoncats_failed_to_generate_navbox "wikilink")`'`
+`              '`[`'..(sortkey``   ``or``   ``'O')..'`](https://zh.wikipedia.org/wiki/'..testcasecolon..'Category:Navseasoncats_failed_to_generate_navbox "wikilink")`'`
 `   end`
 `   return ''`
 
 end
 
-\--Check for nav\*() navigational isolation (not necessarily an error).
---Used by all nav\*(). function isolatedcat()
+\--Check for nav\*() navigational isolation (not necessarily an error). --Used by all nav\*(). function isolatedcat()
 
 `   if nexistingcats == 0 and avoidself then`
-`       misctrackingcats[7] = '`[`'..testcasecolon..'Category:Navseasoncats``
- ``isolated`](https://zh.wikipedia.org/wiki/'..testcasecolon..'Category:Navseasoncats_isolated "wikilink")`'`
+`       misctrackingcats[7] = '`[`'..testcasecolon..'Category:Navseasoncats``   ``isolated`](https://zh.wikipedia.org/wiki/'..testcasecolon..'Category:Navseasoncats_isolated "wikilink")`'`
 `   end`
 
 end
 
-\--Similar to : make a piped link to a category, if it exists; --if it
-doesn't exist, just display the greyed link title without linking.
---Used by all nav\*(). function catlink( catname, displaytext )
+\--Similar to : make a piped link to a category, if it exists; --if it doesn't exist, just display the greyed link title without linking. --Used by all nav\*(). function catlink( catname, displaytext )
 
 `   catname = mw.text.trim(catname or '')`
 `   displaytext = mw.text.trim(displaytext or '')`
@@ -78,9 +66,7 @@ doesn't exist, just display the greyed link title without linking.
 
 end
 
-\--Returns an unsigned string of the 1-4 digit decade ending in "0",
-else error. --Used by nav_decade() only. function sterilizedec( decade
-)
+\--Returns an unsigned string of the 1-4 digit decade ending in "0", else error. --Used by nav_decade() only. function sterilizedec( decade )
 
 `   if decade == nil then return nil end`
 `   `
@@ -110,28 +96,22 @@ else error. --Used by nav_decade() only. function sterilizedec( decade
 
 end
 
-\--Check for nav_hyphen default gap size + isolatedcat() (not
-necessarily an error). --Used by nav_hyphen() only. function
-defaultgapcat( bool )
+\--Check for nav_hyphen default gap size + isolatedcat() (not necessarily an error). --Used by nav_hyphen() only. function defaultgapcat( bool )
 
 `   if bool and nexistingcats == 0 and avoidself then`
 `       --using "nexistingcats > 0" isn't as useful, since the default gap size obviously worked`
-`       misctrackingcats[8] = '`[`'..testcasecolon..'Category:Navseasoncats``
- ``default``   ``season``   ``gap``
- ``size`](https://zh.wikipedia.org/wiki/'..testcasecolon..'Category:Navseasoncats_default_season_gap_size "wikilink")`'`
+`       misctrackingcats[8] = '`[`'..testcasecolon..'Category:Navseasoncats``   ``default``   ``season``   ``gap``   ``size`](https://zh.wikipedia.org/wiki/'..testcasecolon..'Category:Navseasoncats_default_season_gap_size "wikilink")`'`
 `   end`
 
 end
 
-\--Returns the target of , if it exists, else returns the original cat.
---Used by nav_hyphen() only. function rtarget( cat )
+\--Returns the target of , if it exists, else returns the original cat. --Used by nav_hyphen() only. function rtarget( cat )
 
 `   local catcontent = mw.title.new( cat or '', 'Category' ):getContent()`
 `   if string.match( catcontent or '', '{{ *[Cc]at' ) then`
 `       local regex = {`
 `           --from `<https://dispenser.info.tm/~dispenser/cgi-bin/rdcheck.py?page=Template:Category_redirect>
-`           --the following 11 pages redirect to `[`Template:Category``
- ``redirect`](https://zh.wikipedia.org/wiki/Template:Category_redirect "wikilink")` (as of 6/2019):`
+`           --the following 11 pages redirect to `[`Template:Category``   ``redirect`](https://zh.wikipedia.org/wiki/Template:Category_redirect "wikilink")` (as of 6/2019):`
 `           { '1', '{{ *[Cc]ategory *[Rr]edirect' }, --most likely match 1st`
 `           { '2', '{{ *[Cc]at *redirect' },         --444+240 transclusions`
 `           { '3', '{{ *[Cc]at *redir' },            --8+3`
@@ -153,8 +133,7 @@ end
 
 end
 
-\--12 -\> 12th, etc. --Used by nav_nordinal(), nav_wordinal(), and .
-function p.addord( i )
+\--12 -\> 12th, etc. --Used by nav_nordinal(), nav_wordinal(), and . function p.addord( i )
 
 `   if tonumber(i) then`
 `       local s = tostring(i)`
@@ -173,16 +152,11 @@ function p.addord( i )
 
 end
 
-\--[==========================================================================](https://zh.wikipedia.org/wiki/========================================================================== "wikilink")
---[Formerly separated
-templates/modules](https://zh.wikipedia.org/wiki/Formerly_separated_templates/modules "wikilink")
---[==========================================================================](https://zh.wikipedia.org/wiki/========================================================================== "wikilink")
+\--[==========================================================================](https://zh.wikipedia.org/wiki/========================================================================== "wikilink") --[Formerly separated templates/modules](https://zh.wikipedia.org/wiki/Formerly_separated_templates/modules "wikilink") --[==========================================================================](https://zh.wikipedia.org/wiki/========================================================================== "wikilink")
 
-\--[==========================={{ nav_hyphen
-}}=============================](https://zh.wikipedia.org/wiki/==========================={{_nav_hyphen_}}============================= "wikilink")
+\--[==========================={{ nav_hyphen }}=============================](https://zh.wikipedia.org/wiki/==========================={{_nav_hyphen_}}============================= "wikilink")
 
-function nav_hyphen( start, hyph, finish, firstpart, lastpart, minseas,
-maxseas, testgap )
+function nav_hyphen( start, hyph, finish, firstpart, lastpart, minseas, maxseas, testgap )
 
 `   --Expects a PAGENAME of the form "Some sequential 2015–16 example cat", where `
 `   --  ``=2015`
@@ -210,9 +184,7 @@ maxseas, testgap )
 `   `
 `   --en dash check`
 `   if hyph ~= '–' then`
-`       misctrackingcats[3] = '`[`'..testcasecolon..'Category:Navseasoncats``
- ``range``   ``not``   ``using``   ``en``
- ``dash`](https://zh.wikipedia.org/wiki/'..testcasecolon..'Category:Navseasoncats_range_not_using_en_dash "wikilink")`' --nav still processable, but track`
+`       misctrackingcats[3] = '`[`'..testcasecolon..'Category:Navseasoncats``   ``range``   ``not``   ``using``   ``en``   ``dash`](https://zh.wikipedia.org/wiki/'..testcasecolon..'Category:Navseasoncats_range_not_using_en_dash "wikilink")`' --nav still processable, but track`
 `   end`
 `   `
 `   --sterilize finish`
@@ -272,9 +244,7 @@ maxseas, testgap )
 `       else --"2001–2005" is required for t > 1; track "2001–05"; anything else = error`
 `           if lenfinish == 2 then`
 `               if avoidself then`
-`                   misctrackingcats[4] = '`[`'..testcasecolon..'Category:Navseasoncats``
- ``range``
- ``abbreviated`](https://zh.wikipedia.org/wiki/'..testcasecolon..'Category:Navseasoncats_range_abbreviated "wikilink")`'`
+`                   misctrackingcats[4] = '`[`'..testcasecolon..'Category:Navseasoncats``   ``range``   ``abbreviated`](https://zh.wikipedia.org/wiki/'..testcasecolon..'Category:Navseasoncats_range_abbreviated "wikilink")`'`
 `               end`
 `           elseif lenfinish ~= 4 then`
 `               errors = p.errorclass('The second part of the season passed to function nav_hyphen should be four digits, not "'..finish..'".')`
@@ -282,9 +252,7 @@ maxseas, testgap )
 `           end`
 `       end`
 `       if finish == '00' and avoidself then --full year required regardless of term length`
-`           misctrackingcats[4] = '`[`'..testcasecolon..'Category:Navseasoncats``
- ``range``
- ``abbreviated`](https://zh.wikipedia.org/wiki/'..testcasecolon..'Category:Navseasoncats_range_abbreviated "wikilink")`'`
+`           misctrackingcats[4] = '`[`'..testcasecolon..'Category:Navseasoncats``   ``range``   ``abbreviated`](https://zh.wikipedia.org/wiki/'..testcasecolon..'Category:Navseasoncats_range_abbreviated "wikilink")`'`
 `       end`
 `   end`
 `   `
@@ -350,13 +318,9 @@ maxseas, testgap )
 `               local origbase = string.gsub(orig, '%d+[–-]%d+', '')`
 `               local rtarbase = string.gsub(rtar, '%d+[–-]%d+', '')`
 `               if origbase ~= rtarbase then`
-`                   misctrackingcats[5] = '`[`'..testcasecolon..'Category:Navseasoncats``
- ``range``   ``redirected``   ``(base``
- ``change)`](https://zh.wikipedia.org/wiki/'..testcasecolon..'Category:Navseasoncats_range_redirected_\(base_change\) "wikilink")`'`
+`                   misctrackingcats[5] = '`[`'..testcasecolon..'Category:Navseasoncats``   ``range``   ``redirected``   ``(base``   ``change)`](https://zh.wikipedia.org/wiki/'..testcasecolon..'Category:Navseasoncats_range_redirected_\(base_change\) "wikilink")`'`
 `               else`
-`                   misctrackingcats[6] = '`[`'..testcasecolon..'Category:Navseasoncats``
- ``range``   ``redirected``
- ``(MOS)`](https://zh.wikipedia.org/wiki/'..testcasecolon..'Category:Navseasoncats_range_redirected_\(MOS\) "wikilink")`'`
+`                   misctrackingcats[6] = '`[`'..testcasecolon..'Category:Navseasoncats``   ``range``   ``redirected``   ``(MOS)`](https://zh.wikipedia.org/wiki/'..testcasecolon..'Category:Navseasoncats_range_redirected_\(MOS\) "wikilink")`'`
 `               end`
 `           end`
 `           local disp = string.match(rtar, '%d+%'..hyph..'%d+') or from..hyph..tofinal`
@@ -378,11 +342,9 @@ maxseas, testgap )
 
 end
 
-\--[==========================={{ nav_decade
-}}=============================](https://zh.wikipedia.org/wiki/==========================={{_nav_decade_}}============================= "wikilink")
+\--[==========================={{ nav_decade }}=============================](https://zh.wikipedia.org/wiki/==========================={{_nav_decade_}}============================= "wikilink")
 
-function nav_decade( firstpart, decade, lastpart, mindecade, maxdecade
-)
+function nav_decade( firstpart, decade, lastpart, mindecade, maxdecade )
 
 `   --Expects a PAGENAME of the form "Some sequential 2000 example cat", where `
 `   --  ``=Some sequential`
@@ -567,11 +529,9 @@ function nav_decade( firstpart, decade, lastpart, mindecade, maxdecade
 
 end
 
-\--[============================{{ nav_year
-}}==============================](https://zh.wikipedia.org/wiki/============================{{_nav_year_}}============================== "wikilink")
+\--[============================{{ nav_year }}==============================](https://zh.wikipedia.org/wiki/============================{{_nav_year_}}============================== "wikilink")
 
-function nav_year( firstpart, year, lastpart, minimumyear, maximumyear
-)
+function nav_year( firstpart, year, lastpart, minimumyear, maximumyear )
 
 `   --Expects a PAGENAME of the form "Some sequential 1760 example cat", where `
 `   --  ``=Some sequential`
@@ -709,11 +669,9 @@ function nav_year( firstpart, year, lastpart, minimumyear, maximumyear
 
 end
 
-\--[==========================={{ nav_roman
-}}==============================](https://zh.wikipedia.org/wiki/==========================={{_nav_roman_}}============================== "wikilink")
+\--[==========================={{ nav_roman }}==============================](https://zh.wikipedia.org/wiki/==========================={{_nav_roman_}}============================== "wikilink")
 
-function nav_roman( firstpart, roman, lastpart, minimumrom, maximumrom
-)
+function nav_roman( firstpart, roman, lastpart, minimumrom, maximumrom )
 
 `   local toarabic = require('Module:ConvertNumeric').roman_to_numeral`
 `   local toroman  = require('Module:Roman').main`
@@ -765,11 +723,9 @@ function nav_roman( firstpart, roman, lastpart, minimumrom, maximumrom
 
 end
 
-\--[=========================={{ nav_nordinal
-}}============================](https://zh.wikipedia.org/wiki/=========================={{_nav_nordinal_}}============================ "wikilink")
+\--[=========================={{ nav_nordinal }}============================](https://zh.wikipedia.org/wiki/=========================={{_nav_nordinal_}}============================ "wikilink")
 
-function nav_nordinal( firstpart, ord, lastpart, minimumord, maximumord
-)
+function nav_nordinal( firstpart, ord, lastpart, minimumord, maximumord )
 
 `   local nord = tonumber(ord)`
 `   local minord = tonumber(string.match(minimumord or '', '(-?%d+)[snrt]?[tdh]?')) or -9999 --allow full ord & +/- qualifier`
@@ -888,11 +844,9 @@ function nav_nordinal( firstpart, ord, lastpart, minimumord, maximumord
 
 end
 
-\--[========================={{ nav_wordinal
-}}=============================](https://zh.wikipedia.org/wiki/========================={{_nav_wordinal_}}============================= "wikilink")
+\--[========================={{ nav_wordinal }}=============================](https://zh.wikipedia.org/wiki/========================={{_nav_wordinal_}}============================= "wikilink")
 
-function nav_wordinal( firstpart, word, lastpart, minimumword,
-maximumword, frame )
+function nav_wordinal( firstpart, word, lastpart, minimumword, maximumword, frame )
 
 `   local eng2ord = require('Module:ConvertNumeric').english_to_ordinal`
 `   local ord2eng = require('Module:ConvertNumeric').numeral_to_english`
@@ -962,8 +916,7 @@ maximumword, frame )
 
 end
 
-\--[==========================={{ find_var
-}}===============================](https://zh.wikipedia.org/wiki/==========================={{_find_var_}}=============================== "wikilink")
+\--[==========================={{ find_var }}===============================](https://zh.wikipedia.org/wiki/==========================={{_find_var_}}=============================== "wikilink")
 
 \--Also used by . function p.find_var( pn )
 
@@ -1015,9 +968,7 @@ end
 
 end
 
-\--[==========================================================================](https://zh.wikipedia.org/wiki/========================================================================== "wikilink")
---[Main](https://zh.wikipedia.org/wiki/Main "wikilink")
---[==========================================================================](https://zh.wikipedia.org/wiki/========================================================================== "wikilink")
+\--[==========================================================================](https://zh.wikipedia.org/wiki/========================================================================== "wikilink") --[Main](https://zh.wikipedia.org/wiki/Main "wikilink") --[==========================================================================](https://zh.wikipedia.org/wiki/========================================================================== "wikilink")
 
 function p.navseasoncats( frame )
 
@@ -1040,12 +991,8 @@ function p.navseasoncats( frame )
 `   end`
 `   `
 `   if currtitle.nsText == 'Category' then`
-`       if cat      then misctrackingcats[1] = '`[`'..testcasecolon..'Category:Navseasoncats``
- ``using``   ``cat``
- ``parameter`](https://zh.wikipedia.org/wiki/'..testcasecolon..'Category:Navseasoncats_using_cat_parameter "wikilink")`' end`
-`       if testcase then misctrackingcats[2] = '`[`'..testcasecolon..'Category:Navseasoncats``
- ``using``   ``testcase``
- ``parameter`](https://zh.wikipedia.org/wiki/'..testcasecolon..'Category:Navseasoncats_using_testcase_parameter "wikilink")`' end`
+`       if cat      then misctrackingcats[1] = '`[`'..testcasecolon..'Category:Navseasoncats``   ``using``   ``cat``   ``parameter`](https://zh.wikipedia.org/wiki/'..testcasecolon..'Category:Navseasoncats_using_cat_parameter "wikilink")`' end`
+`       if testcase then misctrackingcats[2] = '`[`'..testcasecolon..'Category:Navseasoncats``   ``using``   ``testcase``   ``parameter`](https://zh.wikipedia.org/wiki/'..testcasecolon..'Category:Navseasoncats_using_testcase_parameter "wikilink")`' end`
 `   end`
 `   `
 `   local pagename = testcase or cat or dby or cbd or currtitle.baseText`
@@ -1090,11 +1037,4 @@ end
 
 return p
 
-[Category:Navseasoncats_using_cat_parameter](https://zh.wikipedia.org/wiki/Category:Navseasoncats_using_cat_parameter "wikilink")
-[Category:Navseasoncats_using_testcase_parameter](https://zh.wikipedia.org/wiki/Category:Navseasoncats_using_testcase_parameter "wikilink")
-[Category:Navseasoncats_range_not_using_en_dash](https://zh.wikipedia.org/wiki/Category:Navseasoncats_range_not_using_en_dash "wikilink")
-[Category:Navseasoncats_range_abbreviated](https://zh.wikipedia.org/wiki/Category:Navseasoncats_range_abbreviated "wikilink")
-[Category:Navseasoncats_range_redirected_(base_change)](https://zh.wikipedia.org/wiki/Category:Navseasoncats_range_redirected_\(base_change\) "wikilink")
-[Category:Navseasoncats_range_redirected_(MOS)](https://zh.wikipedia.org/wiki/Category:Navseasoncats_range_redirected_\(MOS\) "wikilink")
-[Category:Navseasoncats_isolated](https://zh.wikipedia.org/wiki/Category:Navseasoncats_isolated "wikilink")
-[Category:Navseasoncats_default_season_gap_size](https://zh.wikipedia.org/wiki/Category:Navseasoncats_default_season_gap_size "wikilink")
+[Category:Navseasoncats_using_cat_parameter](https://zh.wikipedia.org/wiki/Category:Navseasoncats_using_cat_parameter "wikilink") [Category:Navseasoncats_using_testcase_parameter](https://zh.wikipedia.org/wiki/Category:Navseasoncats_using_testcase_parameter "wikilink") [Category:Navseasoncats_range_not_using_en_dash](https://zh.wikipedia.org/wiki/Category:Navseasoncats_range_not_using_en_dash "wikilink") [Category:Navseasoncats_range_abbreviated](https://zh.wikipedia.org/wiki/Category:Navseasoncats_range_abbreviated "wikilink") [Category:Navseasoncats_range_redirected_(base_change)](https://zh.wikipedia.org/wiki/Category:Navseasoncats_range_redirected_\(base_change\) "wikilink") [Category:Navseasoncats_range_redirected_(MOS)](https://zh.wikipedia.org/wiki/Category:Navseasoncats_range_redirected_\(MOS\) "wikilink") [Category:Navseasoncats_isolated](https://zh.wikipedia.org/wiki/Category:Navseasoncats_isolated "wikilink") [Category:Navseasoncats_default_season_gap_size](https://zh.wikipedia.org/wiki/Category:Navseasoncats_default_season_gap_size "wikilink")

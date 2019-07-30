@@ -58,5 +58,4 @@
 ## 外部連結
 
   -
-[分類:美國電子遊戲公司](https://zh.wikipedia.org/wiki/分類:美國電子遊戲公司 "wikilink")
-[分類:電子遊戲開發公司](https://zh.wikipedia.org/wiki/分類:電子遊戲開發公司 "wikilink")
+[分類:美國電子遊戲公司](https://zh.wikipedia.org/wiki/分類:美國電子遊戲公司 "wikilink") [分類:電子遊戲開發公司](https://zh.wikipedia.org/wiki/分類:電子遊戲開發公司 "wikilink")

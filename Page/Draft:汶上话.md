@@ -1,0 +1,233 @@
+**汶上话**或称**汶上方言**，为通行于[山东省](https://zh.wikipedia.org/wiki/山东省 "wikilink")[济宁市](../Page/济宁市.md "wikilink")[汶上县](../Page/汶上县.md "wikilink")一带的[汉语](../Page/汉语.md "wikilink")[官话](../Page/官话.md "wikilink")方言，使用者约80万。该方言富有地方特色，具有很强的内部一致性，能够同大部分官话方言互通\[1\]。
+
+《中国语言地图集》认为汶上话系属[中原官话](../Page/中原官话.md "wikilink")[蔡鲁片](../Page/蔡鲁片.md "wikilink")\[2\]，《中原官话分区（稿）》则认为其属于中原官话[兖菏片](../Page/兖菏片.md "wikilink")。就山东方言分区而言，属西区西鲁片\[3\]。
+
+## 音系
+
+### 辅音
+
+汶上话有25个辅音，其中有20个[声母](../Page/声母.md "wikilink")（不包括[零声母](https://zh.wikipedia.org/wiki/零声母 "wikilink")）\[4\]。[塞音](../Page/塞音.md "wikilink")、[塞擦音声母都为](https://zh.wikipedia.org/wiki/塞擦音 "wikilink")[清音且普遍存在](https://zh.wikipedia.org/wiki/清音 "wikilink")[送气对立](https://zh.wikipedia.org/wiki/送气对立 "wikilink")，[擦音声母存在](https://zh.wikipedia.org/wiki/擦音声母 "wikilink")[清浊对立](https://zh.wikipedia.org/wiki/清浊对立 "wikilink")。[卷舌擦音tʂ](https://zh.wikipedia.org/wiki/卷舌擦音 "wikilink")、tʂʰ、tʂʰ、ʐ仅作ts、tsʰ、tsʰ、z的[条件变体](https://zh.wikipedia.org/wiki/条件变体 "wikilink")，即汶上话中存在翘舌音，却并不区分平翘舌。汶上话也不区分尖团音。汶上话只有ŋ一个辅音韵尾。\[5\]
+
+<table>
+<thead>
+<tr class="header">
+<th><p>发音方法</p></th>
+<th><p><a href="../Page/双唇音.md" title="wikilink">双唇音</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/唇齿音" title="wikilink">唇齿音</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/舌尖前音" title="wikilink">舌尖前音</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/舌尖中音" title="wikilink">舌尖中音</a></p></th>
+<th><p><a href="../Page/捲舌音.md" title="wikilink">卷舌音</a></p></th>
+<th><p><a href="../Page/舌冠音.md" title="wikilink">舌冠音</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/舌根音" title="wikilink">舌根音</a></p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="../Page/塞音.md" title="wikilink">塞音</a></p></td>
+<td><p><small>清不<a href="https://zh.wikipedia.org/wiki/送氣" title="wikilink">送气</a></small></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><small>清送气</small></p></td>
+<td><p><strong>pʰ</strong></p></td>
+<td></td>
+<td></td>
+<td><p><strong>tʰ</strong></p></td>
+<td></td>
+<td></td>
+<td><p><strong>kʰ</strong></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/塞擦音" title="wikilink">塞擦音</a></p></td>
+<td><p><small>清不送气</small></p></td>
+<td></td>
+<td></td>
+<td><p><strong></strong></p></td>
+<td></td>
+<td><p><em></em></p></td>
+<td><p><strong></strong></p></td>
+</tr>
+<tr class="even">
+<td><p><small>清送气</small></p></td>
+<td></td>
+<td></td>
+<td><p><strong>tsʰ</strong></p></td>
+<td></td>
+<td><p><em>tʂʰ</em></p></td>
+<td><p><strong>tɕʰ</strong></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/鼻音" title="wikilink">鼻音</a></p></td>
+<td><p><small><a href="https://zh.wikipedia.org/wiki/清濁音" title="wikilink">浊音</a></small></p></td>
+<td><p><strong></strong></p></td>
+<td></td>
+<td></td>
+<td><p><strong></strong></p></td>
+<td></td>
+<td><p><strong></strong></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/边音" title="wikilink">边音</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p><strong></strong></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/擦音" title="wikilink">擦音</a></p></td>
+<td><p><small>清音</small></p></td>
+<td></td>
+<td><p><strong></strong></p></td>
+<td><p><strong></strong></p></td>
+<td></td>
+<td><p><em></em></p></td>
+<td><p><strong></strong></p></td>
+</tr>
+<tr class="even">
+<td><p><small>浊音</small></p></td>
+<td></td>
+<td></td>
+<td><p><strong></strong></p></td>
+<td></td>
+<td><p><em></em></p></td>
+<td></td>
+<td><p><strong></strong></p></td>
+</tr>
+</tbody>
+</table>
+
+### 元音
+
+\[6\]
+
+<table>
+<thead>
+<tr class="header">
+<th></th>
+<th><p>舌面元音</p></th>
+<th><p>舌尖元音</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>前</p></td>
+<td><p>央</p></td>
+<td><p>后</p></td>
+</tr>
+<tr class="even">
+<td><p><small>不圆</small></p></td>
+<td><p><small>圆</small></p></td>
+<td><p><small>不圆</small></p></td>
+</tr>
+<tr class="odd">
+<td><p>高元音</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>半高元音</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>中元音</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>半低元音</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>低元音</p></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### 声调
+
+汶上话有阴平、阳平、上声、去声四个[调类](https://zh.wikipedia.org/wiki/调类 "wikilink")。但是目前，汶上话的具体调值仍存在争议：
+
+| 来源    | 阴平  | 阳平 | 上声  | 去声  |
+| ----- | --- | -- | --- | --- |
+| 普通话对照 | 55  | 35 | 214 | 51  |
+| 汶上方言  | 213 | 42 | 55  | 312 |
+
+#### 连续变调
+
+汶上话中存在连续变调现象：
+
+表格中出现变调的以斜体表示。
+
+| 前字调类 | 后字   |
+| ---- | ---- |
+| 阴平   | 阳平   |
+| 阴平   | *34* |
+| 阳平   | 54   |
+| 上声   | 44   |
+| 去声   | 待研究  |
+
+前字读音
+
+## 词汇
+
+## 注释
+
+<references group="注"/>
+
+## 参考资料
+
+<references>
+
+\[7\] \[8\] \[9\] \[10\] \[11\] \[12\] \[13\] \[14\]
+
+</references>
+
+### 引用
+
+### 参考书目
+
+  -
+  -
+
+<references group="註" />
+
+[Category:山东语言](https://zh.wikipedia.org/wiki/Category:山东语言 "wikilink") [Category:兖菏片](https://zh.wikipedia.org/wiki/Category:兖菏片 "wikilink")
+
+1.  宋恩泉等，《汶上方言志》，第2-10页：第一章 序言 三 方言概况
+
+2.
+3.  山东省地方志编纂委员会编，《山东省志·方言志》，第16-22页：第一篇 分区
+
+4.  宋恩泉等，《汶上方言志》，第13页：第二章 语音 一 单字音系
+
+5.  宋恩泉等，《汶上方言志》，第10-12页：第一章 序言 四 记音符号
+
+6.
+7.
+
+8.
+
+9.
+
+10.
+
+11.
+
+12.
+
+13.
+
+14.

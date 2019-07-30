@@ -1,5 +1,4 @@
-**OCN Romance
-Series**（）是[韓國有線頻道](https://zh.wikipedia.org/wiki/韓國 "wikilink")[OCN自家製作電視劇的其中一個系列](../Page/OCN_\(頻道\).md "wikilink")，逢星期一﹑二晚播映。
+**OCN Romance Series**（）是[韓國有線頻道](https://zh.wikipedia.org/wiki/韓國 "wikilink")[OCN自家製作電視劇的其中一個系列](../Page/OCN_\(頻道\).md "wikilink")，逢星期一﹑二晚播映。
 
 ## 播出時間更動表
 
@@ -148,10 +147,7 @@ Series**（）是[韓國有線頻道](https://zh.wikipedia.org/wiki/韓國 "wiki
 
   - [官方網站](http://ocn.m.tving.com/ocn)
 
-[Category:OCN電視劇](https://zh.wikipedia.org/wiki/Category:OCN電視劇 "wikilink")
-[Category:動態列表](https://zh.wikipedia.org/wiki/Category:動態列表 "wikilink")
-[Category:韓國電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:韓國電視台電視劇列表 "wikilink")
-[Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink")
+[Category:OCN電視劇](https://zh.wikipedia.org/wiki/Category:OCN電視劇 "wikilink") [Category:動態列表](https://zh.wikipedia.org/wiki/Category:動態列表 "wikilink") [Category:韓國電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:韓國電視台電視劇列表 "wikilink") [Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink")
 
 1.
 2.

@@ -1,6 +1,4 @@
-《**Radiant
-虛空魔境**》（）是[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")[漫畫家Tony](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")
-Valente的[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，2018年9月20日宣布動畫化，2018年10月6日播出。
+《**Radiant 虛空魔境**》（）是[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")[漫畫家Tony](https://zh.wikipedia.org/wiki/漫畫家 "wikilink") Valente的[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，2018年9月20日宣布動畫化，2018年10月6日播出。
 
 ## 故事簡介
 
@@ -82,8 +80,7 @@ Valente的[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，2018
 ### 主題曲
 
   - 片頭曲「Utopia」\[1\]（第1話－第21話）
-    填詞：GEN，作曲、主唱：[04 Limited
-    Sazabys](https://zh.wikipedia.org/wiki/04_Limited_Sazabys "wikilink")，編曲：[akkin](https://zh.wikipedia.org/wiki/akkin "wikilink")
+    填詞：GEN，作曲、主唱：[04 Limited Sazabys](https://zh.wikipedia.org/wiki/04_Limited_Sazabys "wikilink")，編曲：[akkin](https://zh.wikipedia.org/wiki/akkin "wikilink")
   - 片尾曲「」\[2\]（第1話－第16話、第18話－第21話）
     填詞、作曲：雫，編曲、主唱：Polkadot Stingray
   - 插入曲「」（第17話）
@@ -324,14 +321,7 @@ Valente的[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，2018
   -
   - [NHK 動漫世界｜Radiant 虛空魔境](http://www.nhk.or.jp/anime/radiant/)
 
-[Category:魔法題材漫畫](https://zh.wikipedia.org/wiki/Category:魔法題材漫畫 "wikilink")
-[Category:雲雀工作室](https://zh.wikipedia.org/wiki/Category:雲雀工作室 "wikilink")
-[Category:漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:漫畫改編動畫 "wikilink")
-[Category:2018年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2018年日本電視動畫 "wikilink")
-[Category:2019年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2019年日本電視動畫 "wikilink")
-[Category:魔法題材動畫](https://zh.wikipedia.org/wiki/Category:魔法題材動畫 "wikilink")
-[Category:冒險動畫](https://zh.wikipedia.org/wiki/Category:冒險動畫 "wikilink")
-[Category:NHK動畫](https://zh.wikipedia.org/wiki/Category:NHK動畫 "wikilink")
+[Category:魔法題材漫畫](https://zh.wikipedia.org/wiki/Category:魔法題材漫畫 "wikilink") [Category:Lerche](https://zh.wikipedia.org/wiki/Category:Lerche "wikilink") [Category:漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:漫畫改編動畫 "wikilink") [Category:2018年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2018年日本電視動畫 "wikilink") [Category:2019年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2019年日本電視動畫 "wikilink") [Category:魔法題材動畫](https://zh.wikipedia.org/wiki/Category:魔法題材動畫 "wikilink") [Category:冒險動畫](https://zh.wikipedia.org/wiki/Category:冒險動畫 "wikilink") [Category:NHK動畫](https://zh.wikipedia.org/wiki/Category:NHK動畫 "wikilink")
 
 1.
 

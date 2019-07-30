@@ -1,14 +1,8 @@
-《**I WON'T LET YOU
-GO**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[GOT7在日本的第三張日語迷你專輯](../Page/GOT7.md "wikilink")，由[JYP娛樂製作](../Page/JYP娛樂.md "wikilink")，2019年1月30日於日本正式發行，唱片公司為[日本索尼音樂旗下的](https://zh.wikipedia.org/wiki/日本索尼音樂 "wikilink")[EPIC
-Records
-Japan](https://zh.wikipedia.org/wiki/EPIC_Records_Japan "wikilink")，共收錄4首新歌，主打歌為《I
-WON'T LET YOU GO》。
+《**I WON'T LET YOU GO**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[GOT7](../Page/GOT7.md "wikilink")在日本的第三張日語迷你專輯，由[JYP娛樂](../Page/JYP娛樂.md "wikilink")製作，2019年1月30日於日本正式發行，唱片公司為[日本索尼音樂旗下的](https://zh.wikipedia.org/wiki/日本索尼音樂 "wikilink")[EPIC Records Japan](https://zh.wikipedia.org/wiki/EPIC_Records_Japan "wikilink")，共收錄4首新歌，主打歌為《I WON'T LET YOU GO》。
 
 ## 背景
 
-在11月14日，宣佈將於2019年1月30日發行第三張日語迷你專輯《I WON'T LET YOU
-GO》。\[1\]12月11日,公開專輯概念照。14日至16日陸續公開小組預告影片。日本時間12月16日0時公佈MV。12月17日開始公佈個人預告。在12月26日,主打歌在日本
-LINE Music 的單週榜 (12/19\~12/25) 上拿下了第一名。\[2\]
+在11月14日，宣佈將於2019年1月30日發行第三張日語迷你專輯《I WON'T LET YOU GO》。\[1\]12月11日,公開專輯概念照。14日至16日陸續公開小組預告影片。日本時間12月16日0時公佈MV。12月17日開始公佈個人預告。在12月26日,主打歌在日本 LINE Music 的單週榜 (12/19\~12/25) 上拿下了第一名。\[2\]
 
 ### 發行版本
 
@@ -26,7 +20,7 @@ LINE Music 的單週榜 (12/19\~12/25) 上拿下了第一名。\[2\]
 
 ### Oricon公信榜
 
-| [Oricon榜單](../Page/Oricon.md "wikilink") | 最高位置 | 銷售量                                 | 總銷量                                   | 參考資料  |
+| [Oricon](../Page/Oricon.md "wikilink")榜單 | 最高位置 | 銷售量                                 | 總銷量                                   | 參考資料  |
 | ---------------------------------------- | ---- | ----------------------------------- | ------------------------------------- | ----- |
 | 專輯日榜                                     | \#1  | style="text-align:center;" "| 6,529 | style="text-align:center;"rowspan="4| | \[3\] |
 | 專輯週榜                                     | \#1  |                                     | \[4\]                                 |       |
@@ -39,11 +33,7 @@ LINE Music 的單週榜 (12/19\~12/25) 上拿下了第一名。\[2\]
 
   -
 
-[Category:2019年迷你專輯](https://zh.wikipedia.org/wiki/Category:2019年迷你專輯 "wikilink")
-[Category:GOT7音樂專輯](https://zh.wikipedia.org/wiki/Category:GOT7音樂專輯 "wikilink")
-[Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink")
-[Category:2019年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2019年Oricon專輯週榜冠軍作品 "wikilink")
-[Category:2019年Oricon專輯合算週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2019年Oricon專輯合算週榜冠軍作品 "wikilink")
+[Category:2019年迷你專輯](https://zh.wikipedia.org/wiki/Category:2019年迷你專輯 "wikilink") [Category:GOT7音樂專輯](https://zh.wikipedia.org/wiki/Category:GOT7音樂專輯 "wikilink") [Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink") [Category:2019年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2019年Oricon專輯週榜冠軍作品 "wikilink") [Category:2019年Oricon專輯合算週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2019年Oricon專輯合算週榜冠軍作品 "wikilink")
 
 1.
 2.

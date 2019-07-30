@@ -1,5 +1,4 @@
-**LINE旅遊** 是一個LINE提供的旅遊電商平台，使用者能透過LINE旅遊預訂旅館、購買機票、訂購一日遊等，並獲得LINE
-POINTS回饋。除此之外，即將出遊的使用者還能閱讀世界各地的旅行資訊、並用行程規劃工具和旅伴一起安排行程。
+**LINE旅遊** 是一個LINE提供的旅遊電商平台，使用者能透過LINE旅遊預訂旅館、購買機票、訂購一日遊等，並獲得LINE POINTS回饋。除此之外，即將出遊的使用者還能閱讀世界各地的旅行資訊、並用行程規劃工具和旅伴一起安排行程。
 
 ## 歷史
 
@@ -7,11 +6,9 @@ POINTS回饋。除此之外，即將出遊的使用者還能閱讀世界各地�
 
 ## 服務介紹
 
-**LINE旅遊**
-主要結合LINE線上通訊聊天、分享記事等功能，讓使用者能在LINE上解決行程討論與規劃、網路訂房、機票預訂、優惠券查詢等需求，甚至也能在線上完成預訂旅遊行程服務和閱讀世界各地的旅行資訊。
+**LINE旅遊** 主要結合LINE線上通訊聊天、分享記事等功能，讓使用者能在LINE上解決行程討論與規劃、網路訂房、機票預訂、優惠券查詢等需求，甚至也能在線上完成預訂旅遊行程服務和閱讀世界各地的旅行資訊。
 
-使用LINE旅遊預訂旅遊行程，使用者能在LINE旅遊的個人訂單介面檢視所有合作商家的訂單明細，在結帳時還能獲得LINE
-POINTS回饋，讓使用者於更多LINE服務或線下消費使用。
+使用LINE旅遊預訂旅遊行程，使用者能在LINE旅遊的個人訂單介面檢視所有合作商家的訂單明細，在結帳時還能獲得LINE POINTS回饋，讓使用者於更多LINE服務或線下消費使用。
 
 ## 服務項目
 
@@ -35,5 +32,4 @@ POINTS回饋，讓使用者於更多LINE服務或線下消費使用。
 
 ## 參考網站
 
-[Category:LINE](https://zh.wikipedia.org/wiki/Category:LINE "wikilink")
-[Category:旅游](https://zh.wikipedia.org/wiki/Category:旅游 "wikilink")
+[Category:LINE](https://zh.wikipedia.org/wiki/Category:LINE "wikilink") [Category:旅游](https://zh.wikipedia.org/wiki/Category:旅游 "wikilink")

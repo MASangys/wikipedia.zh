@@ -1,6 +1,4 @@
-《**Vocal
-Play**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Channel
-A於](../Page/Channel_A.md "wikilink")2018年推出的綜藝節目，由[盧洪哲](https://zh.wikipedia.org/wiki/盧洪哲 "wikilink")、[吳尚津等人](../Page/吳尚津.md "wikilink")\[1\]共同主持，節目主軸為不依靠[樂器](https://zh.wikipedia.org/wiki/樂器 "wikilink")，只用人的聲音完成[音樂的](https://zh.wikipedia.org/wiki/音樂 "wikilink")[阿卡貝拉純人聲無](https://zh.wikipedia.org/wiki/阿卡貝拉 "wikilink")[伴奏](https://zh.wikipedia.org/wiki/伴奏 "wikilink")[演唱](https://zh.wikipedia.org/wiki/演唱 "wikilink")[音樂綜藝](https://zh.wikipedia.org/wiki/音樂 "wikilink")\[2\]\[3\]。
+《**Vocal Play**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Channel A於](../Page/Channel_A.md "wikilink")2018年推出的綜藝節目，由[盧洪哲](https://zh.wikipedia.org/wiki/盧洪哲 "wikilink")、[吳尚津](../Page/吳尚津.md "wikilink")等人\[1\]共同主持，節目主軸為不依靠[樂器](https://zh.wikipedia.org/wiki/樂器 "wikilink")，只用人的聲音完成[音樂的](https://zh.wikipedia.org/wiki/音樂 "wikilink")[阿卡貝拉純人聲無](https://zh.wikipedia.org/wiki/阿卡貝拉 "wikilink")[伴奏](https://zh.wikipedia.org/wiki/伴奏 "wikilink")[演唱](https://zh.wikipedia.org/wiki/演唱 "wikilink")[音樂綜藝](https://zh.wikipedia.org/wiki/音樂 "wikilink")\[2\]\[3\]。
 
 ## 規則
 
@@ -10,8 +8,7 @@ A於](../Page/Channel_A.md "wikilink")2018年推出的綜藝節目，由[盧洪�
 
 ### 製作人
 
-  - （[Lovelyz](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")
-    《[Ah-Choo](../Page/Lovelyz8.md "wikilink")》監製）
+  - （[Lovelyz](https://zh.wikipedia.org/wiki/Lovelyz "wikilink") 《[Ah-Choo](../Page/Lovelyz8.md "wikilink")》監製）
 
   -
   - [Muzie](https://zh.wikipedia.org/wiki/Muzie "wikilink")
@@ -129,13 +126,10 @@ A於](../Page/Channel_A.md "wikilink")2018年推出的綜藝節目，由[盧洪�
 ## 外部連結
 
   - [官方網站](http://www.ichannela.com/program/template/program_refinement.do?cateCode=0500&subCateCode=050041&pgm_id=WPG2180247D)
-
   - [官方Naver](https://tv.naver.com/channela.vocalplay)
   - [官方Youtube](https://www.youtube.com/playlist?list=PLl9GPcxBUXImguoWYKtE5edRLWOdYxZ-n)
 
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:Channel_A](https://zh.wikipedia.org/wiki/Category:Channel_A "wikilink")
+[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:Channel_A](https://zh.wikipedia.org/wiki/Category:Channel_A "wikilink")
 
 1.
 2.

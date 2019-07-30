@@ -1,22 +1,16 @@
-**FLYING
-KIDS**（），是一組由擔任主唱為中心的[日本](../Page/日本.md "wikilink")7人組[放克](../Page/放克.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")。1988年以單曲《》出道。於就讀[東京造形大學期間組成](../Page/東京造形大學.md "wikilink")。
+**FLYING KIDS**（），是一組由擔任主唱為中心的[日本](../Page/日本.md "wikilink")7人組[放克](../Page/放克.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")。1988年以單曲《》出道。於就讀[東京造形大學](../Page/東京造形大學.md "wikilink")期間組成。
 
-其樂團名稱命名來自[山下達郎的同名歌曲](../Page/山下達郎.md "wikilink")「」（曾收錄在、山下達郎、的專輯《》裡）\[1\]。
+其樂團名稱命名來自[山下達郎](../Page/山下達郎.md "wikilink")的同名歌曲「」（曾收錄在、山下達郎、的專輯《》裡）\[1\]。
 
 ## 概要
 
-FLYING KIDS是從1989年3月4日參加[TBS播出的素人樂團徵選節目](../Page/TBS電視台.md "wikilink")《
-》起家，並以單曲「」連續蟬聯5週的冠軍之後在樂壇出道\[2\]。
+FLYING KIDS是從1989年3月4日參加[TBS播出的素人樂團徵選節目](../Page/TBS電視台.md "wikilink")《 》起家，並以單曲「」連續蟬聯5週的冠軍之後在樂壇出道\[2\]。
 
-出道時期，FLYING
-KIDS的音樂風格是走[放克路線為中心](../Page/放克.md "wikilink")。後來1994年，FLYING
-KIDS將「瞬間」「風吹抜場所」「時」等單曲融入了流行曲風。在那之後才以「暗闇 ～Kiss in the
-darkness～」「DISCOVERY」轟動樂壇。
+出道時期，FLYING KIDS的音樂風格是走[放克](../Page/放克.md "wikilink")路線為中心。後來1994年，FLYING KIDS將「瞬間」「風吹抜場所」「時」等單曲融入了流行曲風。在那之後才以「暗闇 ～Kiss in the darkness～」「DISCOVERY」轟動樂壇。
 
 1998年12月12日一度宣布解散。
 
-解散期間，主唱濱崎仍以獨唱持續進行音樂活動；吉他手丸山另外組別的樂團「」在東京都內的Live
-House進行活動。還有，[高橋直純曾以支援貝斯手身分參加丸山的樂團公演](../Page/高橋直純.md "wikilink")；鍵盤手飯野則和、[中島卓偉](../Page/中島卓偉.md "wikilink")、、[杏子等人都以支援樂手身分參加LIVE活動為中心](../Page/杏子_\(歌手\).md "wikilink")，並幫廣告和電視節目的音樂進行製作，期間飯野還自主發表過獨唱專輯。
+解散期間，主唱濱崎仍以獨唱持續進行音樂活動；吉他手丸山另外組別的樂團「」在東京都內的Live House進行活動。還有，[高橋直純](../Page/高橋直純.md "wikilink")曾以支援貝斯手身分參加丸山的樂團公演；鍵盤手飯野則和、[中島卓偉](../Page/中島卓偉.md "wikilink")、、[杏子等人都以支援樂手身分參加LIVE活動為中心](../Page/杏子_\(歌手\).md "wikilink")，並幫廣告和電視節目的音樂進行製作，期間飯野還自主發表過獨唱專輯。
 
 2007年8月18日，除了濱谷之外的6位成員於『RISING SUN ROCK FESTIVAL 2007 in EZO』活動中宣布復出。
 
@@ -197,7 +191,7 @@ House進行活動。還有，[高橋直純曾以支援貝斯手身分參加丸�
 <td><p>Christmas Lovers/</p></td>
 <td><p>1995年11月22日</p></td>
 <td><p>－</p></td>
-<td><p><a href="../Page/野茂英雄.md" title="wikilink">野茂英雄出演</a>商品「JIVE」廣告歌曲</p></td>
+<td><p><a href="../Page/野茂英雄.md" title="wikilink">野茂英雄</a>出演商品「JIVE」廣告歌曲</p></td>
 <td><p>第60名</p></td>
 <td><p>[5]</p></td>
 </tr>
@@ -435,19 +429,11 @@ House進行活動。還有，[高橋直純曾以支援貝斯手身分參加丸�
 
       -
 
-[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink")
-[Category:勝利娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:勝利娛樂旗下藝人 "wikilink")
-[Category:放克](https://zh.wikipedia.org/wiki/Category:放克 "wikilink")
-[Category:1988年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1988年成立的音樂團體 "wikilink")
-[Category:1998年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:1998年解散的音樂團體 "wikilink")
-[Category:2007年復合的音樂團體](https://zh.wikipedia.org/wiki/Category:2007年復合的音樂團體 "wikilink")
+[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink") [Category:勝利娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:勝利娛樂旗下藝人 "wikilink") [Category:放克](https://zh.wikipedia.org/wiki/Category:放克 "wikilink") [Category:1988年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1988年成立的音樂團體 "wikilink") [Category:1998年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:1998年解散的音樂團體 "wikilink") [Category:2007年復合的音樂團體](https://zh.wikipedia.org/wiki/Category:2007年復合的音樂團體 "wikilink")
 
-1.  [朝日新聞數位](http://www.asahi.com/and_w/interest/SDI2016021290271.html)「」2016年2月26日
-    (2016年4月3日閱覽) 。
+1.  [朝日新聞數位](http://www.asahi.com/and_w/interest/SDI2016021290271.html)「」2016年2月26日 (2016年4月3日閱覽) 。
 2.
-3.  [濱崎貴司OFFICIAL SITE ～TANEMAKI～](http://hamazaki.org/news/)
-    [flyingkids official web site](http://fk6.jp/)(2017年9月20日閱覽) 。
-4.  [老虎樂隊歌曲的翻唱版](../Page/老虎樂隊.md "wikilink")。
+3.  [濱崎貴司OFFICIAL SITE ～TANEMAKI～](http://hamazaki.org/news/) [flyingkids official web site](http://fk6.jp/)(2017年9月20日閱覽) 。
+4.  [老虎樂隊](../Page/老虎樂隊.md "wikilink")歌曲的翻唱版。
 5.  「」為原唱的翻唱版。
-6.  該標題曲後來在《[天才兒童MAX
-    Wide](../Page/天才兒童MAX.md "wikilink")》內的單元「MTK」播出翻唱版本。
+6.  該標題曲後來在《[天才兒童MAX Wide](../Page/天才兒童MAX.md "wikilink")》內的單元「MTK」播出翻唱版本。

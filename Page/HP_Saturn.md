@@ -1,25 +1,10 @@
-[HP_Saturn_1LT8_Clarke.tif](https://zh.wikipedia.org/wiki/File:HP_Saturn_1LT8_Clarke.tif "fig:HP_Saturn_1LT8_Clarke.tif")中的HP
-Saturn 1LT8 Clarke CPU\]\]
-**Saturn**（土星）四位微处理器系列是[惠普在二十世纪八十年代为可编程计算器](../Page/惠普.md "wikilink")/微机设计的。它是在更早期计算器中所使用的[HP
-Nut处理器的后继版本](https://zh.wikipedia.org/wiki/HP_Nut "wikilink")。1984年，Saturn芯片组在[HP-71B掌上BASIC编程计算机上首先使用](https://zh.wikipedia.org/wiki/HP-71B "wikilink")。
-之后的型号在更流行的[HP
-48系列计算器上使用](https://zh.wikipedia.org/wiki/HP_48系列 "wikilink")。而在[NEC代工厂](https://zh.wikipedia.org/wiki/NEC "wikilink")\[1\]在2003年因技术原因停产该型号处理器之前，[HP
-49系列也一直使用Saturn处理器](https://zh.wikipedia.org/wiki/HP_49系列 "wikilink")。所以，自2003年的[HP
-49G+问世起](https://zh.wikipedia.org/wiki/HP_49G+ "wikilink")，惠普开始用[三星基于](https://zh.wikipedia.org/wiki/三星 "wikilink")[ARM920T内核](https://zh.wikipedia.org/wiki/ARM920T "wikilink")（[ARMv4T架构](https://zh.wikipedia.org/wiki/ARMv4T "wikilink")）的[S3C2410处理器来软模拟Saturn处理器](https://zh.wikipedia.org/wiki/S3C2410 "wikilink")。而2000年的[HP
-39G和](https://zh.wikipedia.org/wiki/HP_39G "wikilink")[HP
-40G也是最后两款基于Saturn硬件的惠普计算器](https://zh.wikipedia.org/wiki/HP_40G "wikilink")。最后几款基于Saturn模拟器的机型是2006年出产的[HP
-39gs](https://zh.wikipedia.org/wiki/HP_39gs "wikilink")、[HP
-40gs以及](https://zh.wikipedia.org/wiki/HP_40gs "wikilink")[HP
-50g](https://zh.wikipedia.org/wiki/HP_50g "wikilink")。同样，这也包括2007年出品的[hp
-48gII](https://zh.wikipedia.org/wiki/hp_48gII "wikilink")。使用这类模拟器的HP
-50g也在三星停产该种ARM处理器的2015年停产了。\[2\]\[3\]\[4\]
+[HP_Saturn_1LT8_Clarke.tif](https://zh.wikipedia.org/wiki/File:HP_Saturn_1LT8_Clarke.tif "fig:HP_Saturn_1LT8_Clarke.tif")中的HP Saturn 1LT8 Clarke CPU\]\] **Saturn**（土星）四位微处理器系列是[惠普](../Page/惠普.md "wikilink")在二十世纪八十年代为可编程计算器/微机设计的。它是在更早期计算器中所使用的[HP Nut处理器的后继版本](https://zh.wikipedia.org/wiki/HP_Nut "wikilink")。1984年，Saturn芯片组在[HP-71B掌上BASIC编程计算机上首先使用](https://zh.wikipedia.org/wiki/HP-71B "wikilink")。 之后的型号在更流行的[HP 48系列计算器上使用](https://zh.wikipedia.org/wiki/HP_48系列 "wikilink")。而在[NEC代工厂](https://zh.wikipedia.org/wiki/NEC "wikilink")\[1\]在2003年因技术原因停产该型号处理器之前，[HP 49系列也一直使用Saturn处理器](https://zh.wikipedia.org/wiki/HP_49系列 "wikilink")。所以，自2003年的[HP 49G+问世起](https://zh.wikipedia.org/wiki/HP_49G+ "wikilink")，惠普开始用[三星基于](https://zh.wikipedia.org/wiki/三星 "wikilink")[ARM920T内核](https://zh.wikipedia.org/wiki/ARM920T "wikilink")（[ARMv4T架构](https://zh.wikipedia.org/wiki/ARMv4T "wikilink")）的[S3C2410处理器来软模拟Saturn处理器](https://zh.wikipedia.org/wiki/S3C2410 "wikilink")。而2000年的[HP 39G和](https://zh.wikipedia.org/wiki/HP_39G "wikilink")[HP 40G也是最后两款基于Saturn硬件的惠普计算器](https://zh.wikipedia.org/wiki/HP_40G "wikilink")。最后几款基于Saturn模拟器的机型是2006年出产的[HP 39gs](https://zh.wikipedia.org/wiki/HP_39gs "wikilink")、[HP 40gs以及](https://zh.wikipedia.org/wiki/HP_40gs "wikilink")[HP 50g](https://zh.wikipedia.org/wiki/HP_50g "wikilink")。同样，这也包括2007年出品的[hp 48gII](https://zh.wikipedia.org/wiki/hp_48gII "wikilink")。使用这类模拟器的HP 50g也在三星停产该种ARM处理器的2015年停产了。\[2\]\[3\]\[4\]
 
 ## 架构
 
 Saturn是一种基于[半字节架构的处理器](https://zh.wikipedia.org/wiki/半字节 "wikilink")；这意味着，数据的核心单元是4字节的，这能储存[二-十进制编码](https://zh.wikipedia.org/wiki/二-十进制编码 "wikilink")(BCD)数字。
 
-Saturn微处理器在硬件上是一种[64位](https://zh.wikipedia.org/wiki/64位 "wikilink")-[20位混合](https://zh.wikipedia.org/wiki/20位 "wikilink")
-[CPU](../Page/中央处理器.md "wikilink")，但它事实上是一种类[4位处理器](https://zh.wikipedia.org/wiki/4位 "wikilink")。这是因为它向程序映射了基于半字节的数据并使用基于半字节的寻址系统。主寄存器A、B、C、D和变量寄存器R0、R1、R2、R3、R4是完整的64位的，但数字寄存器D0和D1只有20位。很明显，从外部获取逻辑数据需将其转换为八位物理获取地址。处理器另外提供有一个20位[地址总线来编码](https://zh.wikipedia.org/wiki/地址总线 "wikilink")，由于二十位中有一个高/低半字节选择位，所以只剩下19位可供使用。
+Saturn微处理器在硬件上是一种[64位](https://zh.wikipedia.org/wiki/64位 "wikilink")-[20位混合](https://zh.wikipedia.org/wiki/20位 "wikilink") [CPU](../Page/中央处理器.md "wikilink")，但它事实上是一种类[4位处理器](https://zh.wikipedia.org/wiki/4位 "wikilink")。这是因为它向程序映射了基于半字节的数据并使用基于半字节的寻址系统。主寄存器A、B、C、D和变量寄存器R0、R1、R2、R3、R4是完整的64位的，但数字寄存器D0和D1只有20位。很明显，从外部获取逻辑数据需将其转换为八位物理获取地址。处理器另外提供有一个20位[地址总线来编码](https://zh.wikipedia.org/wiki/地址总线 "wikilink")，由于二十位中有一个高/低半字节选择位，所以只剩下19位可供使用。
 
 Saturn处理器的64位寄存器格式如下：
 
@@ -31,16 +16,11 @@ Saturn处理器的64位寄存器格式如下：
 | 地址域   | ????  | ????  | ????  | ????  | ????  | ????  | ????  | ????  | ????  | ????  | ????  | aaaa  | aaaa  | aaaa | aaaa | aaaa |
 | 字节段   | ????  | ????  | ????  | ????  | ????  | ????  | ????  | ????  | ????  | ????  | ????  | ????  | ????  | ssss | bbbb | bbbb |
 
-Saturn有四个通用寄存器和五个暂存寄存器。它们都是64位的。在计算方面，通用寄存器中的数据能在半字节范围内被存取和使用。反之，暂存寄存器只允许读取和存储指令的执行。64位（16半字节）能存储有标志半字节BCD格式浮点数编码。即，12[位小数和BCD格式的三位数](https://zh.wikipedia.org/wiki/有效位数 "wikilink")(±499)。\[5\]
-BCD的使用代替了标准二进制表示法是更计算友好的，这消除了[舍入误差](https://zh.wikipedia.org/wiki/舍入误差 "wikilink")。这主要出现在[二进制-十进制转换过程中](https://zh.wikipedia.org/wiki/进制转换 "wikilink")。
+Saturn有四个通用寄存器和五个暂存寄存器。它们都是64位的。在计算方面，通用寄存器中的数据能在半字节范围内被存取和使用。反之，暂存寄存器只允许读取和存储指令的执行。64位（16半字节）能存储有标志半字节BCD格式浮点数编码。即，12[位小数和BCD格式的三位数](https://zh.wikipedia.org/wiki/有效位数 "wikilink")(±499)。\[5\] BCD的使用代替了标准二进制表示法是更计算友好的，这消除了[舍入误差](https://zh.wikipedia.org/wiki/舍入误差 "wikilink")。这主要出现在[二进制-十进制转换过程中](https://zh.wikipedia.org/wiki/进制转换 "wikilink")。
 
-为了更好的内存使用效率，Saturn的地址也是基于半字节的。三个[指针](https://zh.wikipedia.org/wiki/指针\(编程语言\) "wikilink")
-寄存器（包括[指令计数器](https://zh.wikipedia.org/wiki/指令计数器 "wikilink")）和[内存地址数据路径都是二十位的](https://zh.wikipedia.org/wiki/内存地址 "wikilink")，因此，在Saturn架构中，1[兆半字节](../Page/兆_\(前綴\).md "wikilink")=512[千字节](https://zh.wikipedia.org/wiki/千_\(前綴\) "wikilink")。超过这个容量范围的（例如HP
-48GX）使用了[存储体切换技术](https://zh.wikipedia.org/wiki/存储体切换 "wikilink")。
+为了更好的内存使用效率，Saturn的地址也是基于半字节的。三个[指针](https://zh.wikipedia.org/wiki/指针\(编程语言\) "wikilink") 寄存器（包括[指令计数器](https://zh.wikipedia.org/wiki/指令计数器 "wikilink")）和[内存地址数据路径都是二十位的](https://zh.wikipedia.org/wiki/内存地址 "wikilink")，因此，在Saturn架构中，1[兆半字节](../Page/兆_\(前綴\).md "wikilink")=512[千字节](https://zh.wikipedia.org/wiki/千_\(前綴\) "wikilink")。超过这个容量范围的（例如HP 48GX）使用了[存储体切换技术](https://zh.wikipedia.org/wiki/存储体切换 "wikilink")。
 
-在HP
-48S/SX和48G/GX系列里，*Saturn*处理器内核是集成在更复杂的[集成电路](../Page/集成电路.md "wikilink")(IC)模块中的。这些模块的代号源自于[刘易斯与克拉克远征的两个主人翁](../Page/刘易斯与克拉克远征.md "wikilink")。S/SX的IC代号为“克拉克”，而这是[威廉·克拉克
-(探险家)的名字](../Page/威廉·克拉克_\(探险家\).md "wikilink")。而G/GX的代号是“约克”。这是克拉克家里[女仆的名字](https://zh.wikipedia.org/wiki/女仆 "wikilink")。上述基于Saturn处理器的芯片组的统一代号为“刘易斯”，这是[梅里韦瑟·刘易斯的名字](../Page/梅里韦瑟·刘易斯.md "wikilink")。
+在HP 48S/SX和48G/GX系列里，*Saturn*处理器内核是集成在更复杂的[集成电路](../Page/集成电路.md "wikilink")(IC)模块中的。这些模块的代号源自于[刘易斯与克拉克远征](../Page/刘易斯与克拉克远征.md "wikilink")的两个主人翁。S/SX的IC代号为“克拉克”，而这是[威廉·克拉克 (探险家)的名字](../Page/威廉·克拉克_\(探险家\).md "wikilink")。而G/GX的代号是“约克”。这是克拉克家里[女仆的名字](https://zh.wikipedia.org/wiki/女仆 "wikilink")。上述基于Saturn处理器的芯片组的统一代号为“刘易斯”，这是[梅里韦瑟·刘易斯](../Page/梅里韦瑟·刘易斯.md "wikilink")的名字。
 
 ## 芯片组与应用
 
@@ -66,86 +46,23 @@ BCD的使用代替了标准二进制表示法是更计算友好的，这消除�
 ## 扩展阅读
 
   -
-  - \[<http://www.courbis.fr/Data/Books/Pdfs_72/Voyage28/Voyage28_72x72_001_063.pdf>
-    \]
-    \[<http://www.courbis.fr/Data/Books/Pdfs_72/Voyage28/Voyage28_72x72_064_113.pdf>
-    \]
-    \[<http://www.courbis.fr/Data/Books/Pdfs_72/Voyage28/Voyage28_72x72_114_163.pdf>
-    \]
-    \[<http://www.courbis.fr/Data/Books/Pdfs_72/Voyage28/Voyage28_72x72_164_213.pdf>
-    \]
-    \[<http://www.courbis.fr/Data/Books/Pdfs_72/Voyage28/Voyage28_72x72_214_263.pdf>
-    \]
-    \[<http://www.courbis.fr/Data/Books/Pdfs_72/Voyage28/Voyage28_72x72_264_285.pdf>
-    \]
+  - \[<http://www.courbis.fr/Data/Books/Pdfs_72/Voyage28/Voyage28_72x72_001_063.pdf> \] \[<http://www.courbis.fr/Data/Books/Pdfs_72/Voyage28/Voyage28_72x72_064_113.pdf> \] \[<http://www.courbis.fr/Data/Books/Pdfs_72/Voyage28/Voyage28_72x72_114_163.pdf> \] \[<http://www.courbis.fr/Data/Books/Pdfs_72/Voyage28/Voyage28_72x72_164_213.pdf> \] \[<http://www.courbis.fr/Data/Books/Pdfs_72/Voyage28/Voyage28_72x72_214_263.pdf> \] \[<http://www.courbis.fr/Data/Books/Pdfs_72/Voyage28/Voyage28_72x72_264_285.pdf> \]
 
-  - \[<http://www.courbis.fr/Data/Books/Pdfs_72/hp48ml/hp48ml_72x72_001_062.pdf>
-    \]
-    \[<http://www.courbis.fr/Data/Books/Pdfs_72/hp48ml/hp48ml_72x72_063_121.pdf>
-    \]
-    \[<http://www.courbis.fr/Data/Books/Pdfs_72/hp48ml/hp48ml_72x72_122_157.pdf>
-    \]
-    \[<http://www.courbis.fr/Data/Books/Pdfs_72/hp48ml/hp48ml_72x72_158_210.pdf>
-    \]
-    \[<http://www.courbis.fr/Data/Books/Pdfs_72/hp48ml/hp48ml_72x72_211_330.pdf>
-    \]
-    \[<http://www.courbis.fr/Data/Books/Pdfs_72/hp48ml/hp48ml_72x72_331_397.pdf>
-    \]
+  - \[<http://www.courbis.fr/Data/Books/Pdfs_72/hp48ml/hp48ml_72x72_001_062.pdf> \] \[<http://www.courbis.fr/Data/Books/Pdfs_72/hp48ml/hp48ml_72x72_063_121.pdf> \] \[<http://www.courbis.fr/Data/Books/Pdfs_72/hp48ml/hp48ml_72x72_122_157.pdf> \] \[<http://www.courbis.fr/Data/Books/Pdfs_72/hp48ml/hp48ml_72x72_158_210.pdf> \] \[<http://www.courbis.fr/Data/Books/Pdfs_72/hp48ml/hp48ml_72x72_211_330.pdf> \] \[<http://www.courbis.fr/Data/Books/Pdfs_72/hp48ml/hp48ml_72x72_331_397.pdf> \]
 
-  - \[<http://www.courbis.fr/Data/PDFS/Voyage48s/Voyage48s_72x72_001_060.pdf>
-    \]
-    \[<http://www.courbis.fr/Data/Books/Pdfs_72/Voyage48s/Voyage48s_72x72_061_130.pdf>
-    \]
-    \[<http://www.courbis.fr/Data/Books/Pdfs_72/Voyage48s/Voyage48s_72x72_131_218.pdf>
-    \]
-    \[<http://www.courbis.fr/Data/Books/Pdfs_72/Voyage48s/Voyage48s_72x72_219_276.pdf>
-    \]
-    \[<http://www.courbis.fr/Data/Books/Pdfs_72/Voyage48s/Voyage48s_72x72_277_318.pdf>
-    \]
-    \[<http://www.courbis.fr/Data/Books/Pdfs_72/Voyage48s/Voyage48s_72x72_319_374.pdf>
-    \]
-    \[<http://www.courbis.fr/Data/Books/Pdfs_72/Voyage48s/Voyage48s_72x72_375_428.pdf>
-    \]
+  - \[<http://www.courbis.fr/Data/PDFS/Voyage48s/Voyage48s_72x72_001_060.pdf> \] \[<http://www.courbis.fr/Data/Books/Pdfs_72/Voyage48s/Voyage48s_72x72_061_130.pdf> \] \[<http://www.courbis.fr/Data/Books/Pdfs_72/Voyage48s/Voyage48s_72x72_131_218.pdf> \] \[<http://www.courbis.fr/Data/Books/Pdfs_72/Voyage48s/Voyage48s_72x72_219_276.pdf> \] \[<http://www.courbis.fr/Data/Books/Pdfs_72/Voyage48s/Voyage48s_72x72_277_318.pdf> \] \[<http://www.courbis.fr/Data/Books/Pdfs_72/Voyage48s/Voyage48s_72x72_319_374.pdf> \] \[<http://www.courbis.fr/Data/Books/Pdfs_72/Voyage48s/Voyage48s_72x72_375_428.pdf> \]
 
-  - \[<http://www.courbis.fr/Data/Books/Pdfs_72/Voyage48g/Voyage48g_72x72_001_056.pdf>
-    \]
-    \[<http://www.courbis.fr/Data/Books/Pdfs_72/Voyage48g/Voyage48g_72x72_057_106.pdf>
-    \]
-    \[<http://www.courbis.fr/Data/Books/Pdfs_72/Voyage48g/Voyage48g_72x72_107_156.pdf>
-    \]
-    \[<http://www.courbis.fr/Data/Books/Pdfs_72/Voyage48g/Voyage48g_72x72_157_206.pdf>
-    \]
-    \[<http://www.courbis.fr/Data/Books/Pdfs_72/Voyage48g/Voyage48g_72x72_207_256.pdf>
-    \]
-    \[<http://www.courbis.fr/Data/Books/Pdfs_72/Voyage48g/Voyage48g_72x72_257_306.pdf>
-    \]
-    \[<http://www.courbis.fr/Data/Books/Pdfs_72/Voyage48g/Voyage48g_72x72_307_356.pdf>
-    \]
-    \[<http://www.courbis.fr/Data/Books/Pdfs_72/Voyage48g/Voyage48g_72x72_357_406.pdf>
-    \]
-    \[<http://www.courbis.fr/Data/Books/Pdfs_72/Voyage48g/Voyage48g_72x72_407_456.pdf>
-    \]
-    \[<http://www.courbis.fr/Data/Books/Pdfs_72/Voyage48g/Voyage48g_72x72_457_506.pdf>
-    \]
-    \[<http://www.courbis.fr/Data/Books/Pdfs_72/Voyage48g/Voyage48g_72x72_507_556.pdf>
-    \]
-    \[<http://www.courbis.fr/Data/Books/Pdfs_72/Voyage48g/Voyage48g_72x72_557_608.pdf>
-    \]
+  - \[<http://www.courbis.fr/Data/Books/Pdfs_72/Voyage48g/Voyage48g_72x72_001_056.pdf> \] \[<http://www.courbis.fr/Data/Books/Pdfs_72/Voyage48g/Voyage48g_72x72_057_106.pdf> \] \[<http://www.courbis.fr/Data/Books/Pdfs_72/Voyage48g/Voyage48g_72x72_107_156.pdf> \] \[<http://www.courbis.fr/Data/Books/Pdfs_72/Voyage48g/Voyage48g_72x72_157_206.pdf> \] \[<http://www.courbis.fr/Data/Books/Pdfs_72/Voyage48g/Voyage48g_72x72_207_256.pdf> \] \[<http://www.courbis.fr/Data/Books/Pdfs_72/Voyage48g/Voyage48g_72x72_257_306.pdf> \] \[<http://www.courbis.fr/Data/Books/Pdfs_72/Voyage48g/Voyage48g_72x72_307_356.pdf> \] \[<http://www.courbis.fr/Data/Books/Pdfs_72/Voyage48g/Voyage48g_72x72_357_406.pdf> \] \[<http://www.courbis.fr/Data/Books/Pdfs_72/Voyage48g/Voyage48g_72x72_407_456.pdf> \] \[<http://www.courbis.fr/Data/Books/Pdfs_72/Voyage48g/Voyage48g_72x72_457_506.pdf> \] \[<http://www.courbis.fr/Data/Books/Pdfs_72/Voyage48g/Voyage48g_72x72_507_556.pdf> \] \[<http://www.courbis.fr/Data/Books/Pdfs_72/Voyage48g/Voyage48g_72x72_557_608.pdf> \]
 
-  - \[<http://www.lmet.fr/GSWeb/lmet.gswa/9/dr/CSHOPDirectAccess/search?baseListID=searchModel&searchType=searchByAll&resultsPageName=&resultsDisplayTemplateID=&searchedText=2-87892-007-4>
-    \]
+  - \[<http://www.lmet.fr/GSWeb/lmet.gswa/9/dr/CSHOPDirectAccess/search?baseListID=searchModel&searchType=searchByAll&resultsPageName=&resultsDisplayTemplateID=&searchedText=2-87892-007-4> \]
 
   - \[<http://www.hpcalc.org/hp48/docs/programming/asm-pdf.zip> \]
 
 ## 外部链接
 
-  - [Summary information in the Museum of HP
-    Calculators](http://www.hpmuseum.org/saturn.htm)
+  - [Summary information in the Museum of HP Calculators](http://www.hpmuseum.org/saturn.htm)
 
-[Category:惠普微处理器](https://zh.wikipedia.org/wiki/Category:惠普微处理器 "wikilink")
-[Category:堆栈结构机器](https://zh.wikipedia.org/wiki/Category:堆栈结构机器 "wikilink")
-[Category:计算器技术](https://zh.wikipedia.org/wiki/Category:计算器技术 "wikilink")
-[Category:惠普计算器](https://zh.wikipedia.org/wiki/Category:惠普计算器 "wikilink")
+[Category:惠普微处理器](https://zh.wikipedia.org/wiki/Category:惠普微处理器 "wikilink") [Category:堆栈结构机器](https://zh.wikipedia.org/wiki/Category:堆栈结构机器 "wikilink") [Category:计算器技术](https://zh.wikipedia.org/wiki/Category:计算器技术 "wikilink") [Category:惠普计算器](https://zh.wikipedia.org/wiki/Category:惠普计算器 "wikilink")
 
 1.
 2.

@@ -1,7 +1,6 @@
 **Spacetoon**（或）是一個[阿拉伯語](https://zh.wikipedia.org/wiki/阿拉伯語 "wikilink")[電視頻道](https://zh.wikipedia.org/wiki/電視頻道 "wikilink")，專門播出[動畫和](https://zh.wikipedia.org/wiki/動畫 "wikilink")[兒童節目](https://zh.wikipedia.org/wiki/兒童 "wikilink")。成立於2000年3月\[1\]。
 
-pacetoon公司在阿拉伯世界除了主要的現有Spacetoon頻道外還有三個現已解散的頻道：Space Power TV、Spacetoon
-Radio和Spacetoon English。
+pacetoon公司在阿拉伯世界除了主要的現有Spacetoon頻道外還有三個現已解散的頻道：Space Power TV、Spacetoon Radio和Spacetoon English。
 
 ## 歷史
 
@@ -28,8 +27,7 @@ Radio和Spacetoon English。
   - *[趣怪守護仙](https://zh.wikipedia.org/wiki/趣怪守護仙 "wikilink")*\[3\]
   - *[瑪莎與熊](../Page/瑪莎與熊.md "wikilink")*\[4\]
   - *[Trucktown](https://zh.wikipedia.org/wiki/Trucktown "wikilink")*\[5\]
-  - *[妖怪手錶](https://zh.wikipedia.org/wiki/妖怪手錶 "wikilink")*\[6\] (4
-    September 2016 – present)
+  - *[妖怪手錶](https://zh.wikipedia.org/wiki/妖怪手錶 "wikilink")*\[6\] (4 September 2016 – present)
 
 ## 另見
 
@@ -52,8 +50,7 @@ Radio和Spacetoon English。
 
   - (Spacetoon Indonesia page)
 
-[Category:阿拉伯語電視頻道](https://zh.wikipedia.org/wiki/Category:阿拉伯語電視頻道 "wikilink")
-[Category:兒童電視網](https://zh.wikipedia.org/wiki/Category:兒童電視網 "wikilink")
+[Category:阿拉伯語電視頻道](https://zh.wikipedia.org/wiki/Category:阿拉伯語電視頻道 "wikilink") [Category:兒童電視網](https://zh.wikipedia.org/wiki/Category:兒童電視網 "wikilink")
 
 1.
 

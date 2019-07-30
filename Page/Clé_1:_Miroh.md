@@ -1,11 +1,8 @@
-《**Clé 1 :
-MIROH**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")9人男子組合[Stray
-Kids的第四張韓語迷你專輯](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")，由[JYP娛樂製作](../Page/JYP娛樂.md "wikilink")，唱片公司為[iRiver](https://zh.wikipedia.org/wiki/iRiver "wikilink")，於2019年3月25日發行。主打歌為〈MIROH〉，由成員方燦、彰彬、Han參與詞曲創作。
+《**Clé 1 : MIROH**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")9人男子組合[Stray Kids的第四張韓語迷你專輯](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")，由[JYP娛樂](../Page/JYP娛樂.md "wikilink")製作，唱片公司為[iRiver](https://zh.wikipedia.org/wiki/iRiver "wikilink")，於2019年3月25日發行。主打歌為〈MIROH〉，由成員方燦、彰彬、Han參與詞曲創作。
 
 ## 背景
 
-2019年3月6日[Stray
-Kids在官方社群平台上釋出回歸預告](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")，宣布將於25日攜新專輯回歸，恰好適逢出道一週年，此專輯成為週年紀念專輯\[1\]，隨後釋出限量版專輯預覽圖並開放預購。
+2019年3月6日[Stray Kids在官方社群平台上釋出回歸預告](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")，宣布將於25日攜新專輯回歸，恰好適逢出道一週年，此專輯成為週年紀念專輯\[1\]，隨後釋出限量版專輯預覽圖並開放預購。
 
 3月11日釋出曲目清單。
 
@@ -39,23 +36,16 @@ Kids在官方社群平台上釋出回歸預告](https://zh.wikipedia.org/wiki/St
 
 ## 概要
 
-在2018年的《I am》系列專輯作品中，Stray Kids唱出深淵中的煩惱，表現了不安少年的樣子，而在此新專輯中融入了Stray
-Kids的勇氣與挑戰，唱出從少年到成年，邁向人生另一步，面對新世界的熱情；對於自己的存在而感到苦惱的少年們，與同樣感到苦惱的「你(YOU)」一起逃離屬於我們的空間(District
-9)，前往像叢林般冷漠險峻的都市「MIROH」\[2\]。
-新專輯名稱《Clé 1 : MIROH》的「Clé」在法語中的意思為「鑰匙」；而「MIROH」則是Stray
-Kids親自創造的詞，透過英文「Maze」來表達未知，以韓語表達就是「미로(MIRO)」，韓文意思為「迷宮」，再根據Stray
-Kids的做法不同，地點可能會變成「Hell」，也可能會變成「Heaven」，所以在「MIRO」後面加上「H」組成〈MIROH〉\[3\]。
-主打歌〈MIROH〉是一首比起恐懼，以對自己的信任和勇氣，在險峻叢林般的「迷宮」裡邁出第一步，充滿著Stray
-Kids的霸氣和抱負，可以感受到融合[Hip-hop與](https://zh.wikipedia.org/wiki/Hip-hop "wikilink")[EDM曲風的絕妙組合的歌曲](https://zh.wikipedia.org/wiki/EDM "wikilink")\[4\]，表演中更融入了紐西蘭傳統舞蹈[哈卡舞與](../Page/哈卡舞.md "wikilink")[多米諾骨牌舞蹈技術等](https://zh.wikipedia.org/wiki/多米諾骨牌 "wikilink")，嘗試了新的舞蹈風格\[5\]。
+在2018年的《I am》系列專輯作品中，Stray Kids唱出深淵中的煩惱，表現了不安少年的樣子，而在此新專輯中融入了Stray Kids的勇氣與挑戰，唱出從少年到成年，邁向人生另一步，面對新世界的熱情；對於自己的存在而感到苦惱的少年們，與同樣感到苦惱的「你(YOU)」一起逃離屬於我們的空間(District 9)，前往像叢林般冷漠險峻的都市「MIROH」\[2\]。
+新專輯名稱《Clé 1 : MIROH》的「Clé」在法語中的意思為「鑰匙」；而「MIROH」則是Stray Kids親自創造的詞，透過英文「Maze」來表達未知，以韓語表達就是「미로(MIRO)」，韓文意思為「迷宮」，再根據Stray Kids的做法不同，地點可能會變成「Hell」，也可能會變成「Heaven」，所以在「MIRO」後面加上「H」組成〈MIROH〉\[3\]。
+主打歌〈MIROH〉是一首比起恐懼，以對自己的信任和勇氣，在險峻叢林般的「迷宮」裡邁出第一步，充滿著Stray Kids的霸氣和抱負，可以感受到融合[Hip-hop與](https://zh.wikipedia.org/wiki/Hip-hop "wikilink")[EDM曲風的絕妙組合的歌曲](https://zh.wikipedia.org/wiki/EDM "wikilink")\[4\]，表演中更融入了紐西蘭傳統舞蹈[哈卡舞](../Page/哈卡舞.md "wikilink")與[多米諾骨牌舞蹈技術等](https://zh.wikipedia.org/wiki/多米諾骨牌 "wikilink")，嘗試了新的舞蹈風格\[5\]。
 
 ### 發行版本
 
 ※活動卡、四格照片貼紙及海報為預購特典；透卡及寫真卡為限量版特典。
 
-  - 限量版：封面1款，內含寫真書一本（共9款）、CD一張、[QR
-    Code寫真卡三張](../Page/QR碼.md "wikilink")（各成員5款，共45款）、透卡一張（共2款）、寫真卡一張（共9款）、活動卡（隨機）、四格照片貼紙一張（共9款）、海報一張（共3款）。
-  - 普通版：封面共有2款（Clé 1版＆MIROH版），內含寫真書一本（共9款）、CD一張（共2款）、[QR
-    Code寫真卡三張](../Page/QR碼.md "wikilink")（各成員5款，共45款）、活動卡（隨機）、四格照片貼紙一張（共9款）、海報一張（共3款）。
+  - 限量版：封面1款，內含寫真書一本（共9款）、CD一張、[QR Code寫真卡三張](../Page/QR碼.md "wikilink")（各成員5款，共45款）、透卡一張（共2款）、寫真卡一張（共9款）、活動卡（隨機）、四格照片貼紙一張（共9款）、海報一張（共3款）。
+  - 普通版：封面共有2款（Clé 1版＆MIROH版），內含寫真書一本（共9款）、CD一張（共2款）、[QR Code寫真卡三張](../Page/QR碼.md "wikilink")（各成員5款，共45款）、活動卡（隨機）、四格照片貼紙一張（共9款）、海報一張（共3款）。
 
 ## 曲目
 
@@ -104,13 +94,13 @@ Kids的霸氣和抱負，可以感受到融合[Hip-hop與](https://zh.wikipedia.
 <td><p>專輯週榜</p></td>
 <td><p>2019年3月24日－30日</p></td>
 <td><p><strong>#1</strong></p></td>
-<td><p>150,675+[6]</p></td>
-<td><p>[7]</p></td>
+<td><p>153,231+</p></td>
+<td><p>[6]</p></td>
 </tr>
 <tr class="even">
 <td><p>2019年3月31日－4月6日</p></td>
 <td><p>#9</p></td>
-<td><p>[8]</p></td>
+<td><p>[7]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -119,7 +109,7 @@ Kids的霸氣和抱負，可以感受到融合[Hip-hop與](https://zh.wikipedia.
 <tr class="odd">
 <td><p>2019年4月7日－4月13日</p></td>
 <td><p>#4</p></td>
-<td><p>[9]</p></td>
+<td><p>[8]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -128,7 +118,7 @@ Kids的霸氣和抱負，可以感受到融合[Hip-hop與](https://zh.wikipedia.
 <tr class="even">
 <td><p>2019年4月14日－4月20日</p></td>
 <td><p>#5</p></td>
-<td><p>[10]</p></td>
+<td><p>[9]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -137,7 +127,7 @@ Kids的霸氣和抱負，可以感受到融合[Hip-hop與](https://zh.wikipedia.
 <tr class="odd">
 <td><p>2019年4月21日－4月27日</p></td>
 <td><p>#8</p></td>
-<td><p>[11]</p></td>
+<td><p>[10]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -147,12 +137,21 @@ Kids的霸氣和抱負，可以感受到融合[Hip-hop與](https://zh.wikipedia.
 <td><p>專輯月榜</p></td>
 <td><p>2019年3月</p></td>
 <td><p>#2</p></td>
-<td><p>[12]</p></td>
+<td><p>[11]</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>專輯上半年榜</p></td>
+<td><p>2019年1月－6月</p></td>
+<td><p>#15</p></td>
+<td><p>[12]</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>台灣</p></td>
 <td><p>5大金榜</p></td>
 <td><p>日韓榜</p></td>
@@ -161,7 +160,7 @@ Kids的霸氣和抱負，可以感受到融合[Hip-hop與](https://zh.wikipedia.
 <td><p>16.39%</p></td>
 <td><p>[13]</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2019年3月29日－4月4日</p></td>
 <td><p>#4</p></td>
 <td><p>3.68%</p></td>
@@ -170,7 +169,7 @@ Kids的霸氣和抱負，可以感受到融合[Hip-hop與](https://zh.wikipedia.
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>美國</p></td>
 <td><p><a href="../Page/告示牌_(雜誌).md" title="wikilink">告示牌</a></p></td>
 <td><p>世界專輯榜</p></td>
@@ -179,7 +178,7 @@ Kids的霸氣和抱負，可以感受到融合[Hip-hop與](https://zh.wikipedia.
 <td></td>
 <td><p>[14]</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>日本</p></td>
 <td><p><a href="../Page/Oricon公信榜.md" title="wikilink">Oricon公信榜</a></p></td>
 <td><p>專輯週榜</p></td>
@@ -188,7 +187,7 @@ Kids的霸氣和抱負，可以感受到融合[Hip-hop與](https://zh.wikipedia.
 <td><p>5,856+</p></td>
 <td><p>[15][16]</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -252,16 +251,12 @@ Kids的霸氣和抱負，可以感受到融合[Hip-hop與](https://zh.wikipedia.
 
   - [Stray Kids官方網站](http://straykids.jype.com/)
 
-  - [Stray Kids 【INTRO: Clé 1 :
-    MIROH】](https://www.vlive.tv/video/118817)
+  - [Stray Kids 【INTRO: Clé 1 : MIROH】](https://www.vlive.tv/video/118817)
 
   -
   - [Stray Kids <UNVEIL THE MIROH>](https://www.vlive.tv/video/119449)
 
-[Category:2019年迷你專輯](https://zh.wikipedia.org/wiki/Category:2019年迷你專輯 "wikilink")
-[Category:Stray_Kids音樂專輯](https://zh.wikipedia.org/wiki/Category:Stray_Kids音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:2019年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2019年Gaon專輯週榜冠軍作品 "wikilink")
+[Category:2019年迷你專輯](https://zh.wikipedia.org/wiki/Category:2019年迷你專輯 "wikilink") [Category:Stray_Kids音樂專輯](https://zh.wikipedia.org/wiki/Category:Stray_Kids音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:2019年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2019年Gaon專輯週榜冠軍作品 "wikilink")
 
 1.
 2.

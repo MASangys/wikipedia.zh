@@ -1,6 +1,4 @@
-《**Show
-Me**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[MOMOLAND的第五張](../Page/MOMOLAND.md "wikilink")[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")。此專輯由MLD娛樂在2019年3月20日發行，主打歌為**I'm
-So Hot**。由於成員 DAISY和泰河各因個人原因和健康問題而在此次回歸缺席，距離上一張迷你專輯有9個月之久。\[1\]\[2\]
+《**Show Me**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[MOMOLAND](../Page/MOMOLAND.md "wikilink")的第五張[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")。此專輯由MLD娛樂在2019年3月20日發行，主打歌為**I'm So Hot**。由於成員 DAISY和泰河各因個人原因和健康問題而在此次回歸缺席，距離上一張迷你專輯有9個月之久。\[1\]\[2\]
 
 ## 曲目
 
@@ -39,13 +37,8 @@ So Hot**。由於成員 DAISY和泰河各因個人原因和健康問題而在此
 
 ## 參考資料
 
-[Category:MOMOLAND](https://zh.wikipedia.org/wiki/Category:MOMOLAND "wikilink")
-[Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink")
+[Category:MOMOLAND](https://zh.wikipedia.org/wiki/Category:MOMOLAND "wikilink") [Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink")
 
-1.  [七人 MOMOLAND
-    回歸在即！再度與新沙洞老虎合作](https://www.koreastardaily.com/tc/news/114938)
-2.  [TAE HA、DAISY 因健康因素暫停活動，MOMOLAND
-    以7人體制回歸](https://www.kpopn.com/2019/03/15/tae-ha-daisy-not-participate-momoland-comeback)
-3.  [\[Teaser](https://www.youtube.com/watch?v=swO5MinT9_s)
-    MOMOLAND(모모랜드) _ MOMOLAND 5th Mini Album "Show Me"
-    Highlight Medley\]
+1.  [七人 MOMOLAND 回歸在即！再度與新沙洞老虎合作](https://www.koreastardaily.com/tc/news/114938)
+2.  [TAE HA、DAISY 因健康因素暫停活動，MOMOLAND 以7人體制回歸](https://www.kpopn.com/2019/03/15/tae-ha-daisy-not-participate-momoland-comeback)
+3.  [\[Teaser](https://www.youtube.com/watch?v=swO5MinT9_s) MOMOLAND(모모랜드) _ MOMOLAND 5th Mini Album "Show Me" Highlight Medley\]

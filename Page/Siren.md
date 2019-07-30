@@ -2,30 +2,25 @@
 
 ## 創作背景
 
-9月4日，宣美透過發片記者會表示，此曲與前先〈[Gashina](../Page/Gashina.md "wikilink")〉、〈[Heroine](../Page/Heroine.md "wikilink")〉兩單曲共組警告三部曲，並表示此曲在[JYP娛樂藝人與製作部門](../Page/JYP娛樂.md "wikilink")（A\&R{{\#tag:ref|根據該公司2017年的財報，該公司A\&R部門負責試鏡、培訓藝人，和製作音樂、影像、訂定藝人風格等工作\[1\]\[2\]。|group="注"}}）組裡成為最後的候選作品，為[Wonder
-Girls最後一張專輯](../Page/Wonder_Girls.md "wikilink")《[Why So
-Lonely](../Page/Why_So_Lonely_\(Wonder_Girls單曲\).md "wikilink")》同額競選曲\[3\]。
+9月4日，宣美透過發片記者會表示，此曲與前先〈[Gashina](../Page/Gashina.md "wikilink")〉、〈[Heroine](../Page/Heroine.md "wikilink")〉兩單曲共組警告三部曲，並表示此曲在[JYP娛樂](../Page/JYP娛樂.md "wikilink")藝人與製作部門（A\&R{{\#tag:ref|根據該公司2017年的財報，該公司A\&R部門負責試鏡、培訓藝人，和製作音樂、影像、訂定藝人風格等工作\[1\]\[2\]。|group="注"}}）組裡成為最後的候選作品，為[Wonder Girls最後一張專輯](../Page/Wonder_Girls.md "wikilink")《[Why So Lonely](../Page/Why_So_Lonely_\(Wonder_Girls單曲\).md "wikilink")》同額競選曲\[3\]。
 
 ## 舞蹈
 
-宣美在此單曲的舞蹈动作多次用到膝蓋。宣美曾经於[JTBC綜藝節目](../Page/JTBC.md "wikilink")《[Idol
-Room](../Page/Idol_Room.md "wikilink")》想要捲起褲子展現腿的長與美時，意外顯露膝蓋多處瘀青，引起粉絲們討論\[4\]。而在9月15日MBC電視台播送的《全知干預視角》，宣美在舞蹈練習前摘下了經紀人所戴上的護膝，並表示「上舞台就要讓膝蓋對痛覺感到麻木才行。\[5\]」
+宣美在此單曲的舞蹈动作多次用到膝蓋。宣美曾经於[JTBC](../Page/JTBC.md "wikilink")綜藝節目《[Idol Room](../Page/Idol_Room.md "wikilink")》想要捲起褲子展現腿的長與美時，意外顯露膝蓋多處瘀青，引起粉絲們討論\[4\]。而在9月15日MBC電視台播送的《全知干預視角》，宣美在舞蹈練習前摘下了經紀人所戴上的護膝，並表示「上舞台就要讓膝蓋對痛覺感到麻木才行。\[5\]」
 
 ## 節目放送
 
 ### 宣傳期缺席[音樂銀行錄製](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")
 
-9月14日上午，宣美與Rothy等藝人至首爾永登浦KBS電視臺，參加《音樂銀行》節目的彩排\[6\]。隨後於下午傳出她在錄影時出現頭昏症狀，緊急送醫\[7\]。經紀公司MAKE
-US娛樂則發出聲明表示：「宣美於《音樂銀行》事前錄製過程中突然感到眩暈，被緊急送往醫院，現正接受治療及休息中。雖然只是暫時的症狀，但醫生建議觀察之後的狀態，因此不得不取消原定的《音樂銀行》直播行程，希望大家諒解。\[8\]」
+9月14日上午，宣美與Rothy等藝人至首爾永登浦KBS電視臺，參加《音樂銀行》節目的彩排\[6\]。隨後於下午傳出她在錄影時出現頭昏症狀，緊急送醫\[7\]。經紀公司MAKE US娛樂則發出聲明表示：「宣美於《音樂銀行》事前錄製過程中突然感到眩暈，被緊急送往醫院，現正接受治療及休息中。雖然只是暫時的症狀，但醫生建議觀察之後的狀態，因此不得不取消原定的《音樂銀行》直播行程，希望大家諒解。\[8\]」
 
 ### 年末舞台走光事件
 
-宣美在2018年[SBS歌謠大戰表演](../Page/SBS歌謠大戰.md "wikilink")《[Siren](../Page/Siren.md "wikilink")》時，疑似因為舞蹈動作太激烈，導致上身肩帶斷裂，令上衣慢慢下滑，最終左胸內衣整個露出\[9\]。而宣美並未因此中斷舞台，敬業完成演出\[10\]。事後，粉絲認為造型師沒能為藝人準備好適當的舞台服\[11\]。
+宣美在2018年[SBS歌謠大戰](../Page/SBS歌謠大戰.md "wikilink")表演《[Siren](../Page/Siren.md "wikilink")》時，疑似因為舞蹈動作太激烈，導致上身肩帶斷裂，令上衣慢慢下滑，最終左胸內衣整個露出\[9\]。而宣美並未因此中斷舞台，敬業完成演出\[10\]。事後，粉絲認為造型師沒能為藝人準備好適當的舞台服\[11\]。
 
 ## 發行與排行
 
-9月5日，在《Siren》釋出音源後，迅速在Melon、[Naver
-Music等韓國](../Page/NAVER.md "wikilink")7大音樂網站的實時排行榜獲得第一名\[12\]。
+9月5日，在《Siren》釋出音源後，迅速在Melon、[Naver Music等韓國](../Page/NAVER.md "wikilink")7大音樂網站的實時排行榜獲得第一名\[12\]。
 
 ### 發行紀錄
 
@@ -67,9 +62,7 @@ Music等韓國](../Page/NAVER.md "wikilink")7大音樂網站的實時排行榜�
 
   -
   -
-[Category:韓國歌曲](https://zh.wikipedia.org/wiki/Category:韓國歌曲 "wikilink")
-[Category:2018年歌曲](https://zh.wikipedia.org/wiki/Category:2018年歌曲 "wikilink")
-[Category:2018年单曲](https://zh.wikipedia.org/wiki/Category:2018年单曲 "wikilink")
+[Category:韓國歌曲](https://zh.wikipedia.org/wiki/Category:韓國歌曲 "wikilink") [Category:2018年歌曲](https://zh.wikipedia.org/wiki/Category:2018年歌曲 "wikilink") [Category:2018年单曲](https://zh.wikipedia.org/wiki/Category:2018年单曲 "wikilink")
 
 1.
 2.

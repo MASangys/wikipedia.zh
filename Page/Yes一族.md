@@ -18,8 +18,7 @@
 
 ## 電影歌曲
 
-  - 主題曲：《Yes一族》（作曲：[泰迪羅賓](../Page/泰迪羅賓.md "wikilink")；填詞：[因葵](../Page/因葵.md "wikilink")；編曲：[劉以達](https://zh.wikipedia.org/wiki/劉以達 "wikilink")；主唱：[黎明](../Page/黎明.md "wikilink")
-    、[李克勤](../Page/李克勤.md "wikilink")、[草蜢](../Page/草蜢_\(組合\).md "wikilink")）
+  - 主題曲：《Yes一族》（作曲：[泰迪羅賓](../Page/泰迪羅賓.md "wikilink")；填詞：[因葵](../Page/因葵.md "wikilink")；編曲：[劉以達](https://zh.wikipedia.org/wiki/劉以達 "wikilink")；主唱：[黎明](../Page/黎明.md "wikilink") 、[李克勤](../Page/李克勤.md "wikilink")、[草蜢](../Page/草蜢_\(組合\).md "wikilink")）
 
 ## 製作人員
 
@@ -61,10 +60,7 @@
 
 ## 參考資料
 
-[Category:1991年電影](https://zh.wikipedia.org/wiki/Category:1991年電影 "wikilink")
-[Category:粵語電影](https://zh.wikipedia.org/wiki/Category:粵語電影 "wikilink")
-[Category:1990年代香港電影作品](https://zh.wikipedia.org/wiki/Category:1990年代香港電影作品 "wikilink")
-[Category:嘉禾電影](https://zh.wikipedia.org/wiki/Category:嘉禾電影 "wikilink")
+[Category:1991年電影](https://zh.wikipedia.org/wiki/Category:1991年電影 "wikilink") [Category:粵語電影](https://zh.wikipedia.org/wiki/Category:粵語電影 "wikilink") [Category:1990年代香港電影作品](https://zh.wikipedia.org/wiki/Category:1990年代香港電影作品 "wikilink") [Category:嘉禾電影](https://zh.wikipedia.org/wiki/Category:嘉禾電影 "wikilink")
 
 1.
 2.

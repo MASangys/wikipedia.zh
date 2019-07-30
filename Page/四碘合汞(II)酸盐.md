@@ -1,4 +1,4 @@
-**四碘合汞(II)酸盐**是含有\[HgI<sub>4</sub>\]<sup>2−</sup>配离子的盐类，其中有一些具有可逆的[热致变色效应](../Page/热致变色.md "wikilink")。\[1\]
+**四碘合汞(II)酸盐**是含有\[HgI<sub>4</sub>\]<sup>2−</sup>配离子的盐类，其中有一些具有可逆的[热致变色](../Page/热致变色.md "wikilink")效应。\[1\]
 
 ## 制备
 
@@ -10,8 +10,7 @@
 对于难溶的盐类，也可以采用复分解反应：\[2\]
 
   -
-    2 AgNO<sub>3</sub> + \[K<sub>2</sub>HgI<sub>4</sub>\] →
-    Ag<sub>2</sub>HgI<sub>4</sub>↓ + 2 KNO<sub>3</sub>
+    2 AgNO<sub>3</sub> + \[K<sub>2</sub>HgI<sub>4</sub>\] → Ag<sub>2</sub>HgI<sub>4</sub>↓ + 2 KNO<sub>3</sub>
 
 ## 性质
 
@@ -36,14 +35,11 @@
 
 ## 参考文献
 
-[Category:汞化合物](https://zh.wikipedia.org/wiki/Category:汞化合物 "wikilink")
-[Category:碘代酸盐](https://zh.wikipedia.org/wiki/Category:碘代酸盐 "wikilink")
+[Category:汞化合物](https://zh.wikipedia.org/wiki/Category:汞化合物 "wikilink") [Category:碘代酸盐](https://zh.wikipedia.org/wiki/Category:碘代酸盐 "wikilink")
 
 1.
 
-2.  余坚, 苑俊章, 郝志峰.
-    新型Ag<sub>m</sub>Cu<sub>n</sub>HgI<sub>4</sub>可逆热致变色颜料的研究\[J\].
-    精细化工, 2002, 19(11):651-653.
+2.  余坚, 苑俊章, 郝志峰. 新型Ag<sub>m</sub>Cu<sub>n</sub>HgI<sub>4</sub>可逆热致变色颜料的研究\[J\]. 精细化工, 2002, 19(11):651-653.
 
 3.
 4.

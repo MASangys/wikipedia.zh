@@ -1,5 +1,4 @@
-**女同性恋，男同性恋，双性恋和跨性别（[LGBT](../Page/LGBT.md "wikilink")）**权益在**斯里兰卡**自殖民时代以来，大部分时间都停滞不前。该地的法律框架缺乏司法审查的概念，这意味着宪法法院不能废除法律
-- 它最多可以拒绝执行法律。\[1\]
+**女同性恋，男同性恋，双性恋和跨性别（[LGBT](../Page/LGBT.md "wikilink")）**权益在**斯里兰卡**自殖民时代以来，大部分时间都停滞不前。该地的法律框架缺乏司法审查的概念，这意味着宪法法院不能废除法律 - 它最多可以拒绝执行法律。\[1\]
 
 一项有135年历史的英国法律将同性恋定为犯罪，但法律尚未使用，仍然是一项休眠法。美国司法部写道，警方“没有积极逮捕和起诉那些参与LGBT活动的人”，并且据报道尽管“警方收到的控诉援引了法律规定”，这些规定至今也没有导致任何定罪。\[2\]
 
@@ -11,8 +10,7 @@
 
 《刑法典》中的这些条款规定了非自然罪行和严重猥亵行为。它指出，该行为应“严厉监禁，刑期不低于10年，不超过20年，并处以罚款和赔偿”。\[5\]截至2018年，自1948年起，该国没有根据这些规定将任何人定罪。\[6\]\[7\]
 
-1995年，对刑法进行了修订，明确禁止“严重猥亵”，无论参与者的性别如何。\[8\]2017年11月，副检察官Nerin
-Pulle表示政府将把同性性行为合法化。\[9\]
+1995年，对刑法进行了修订，明确禁止“严重猥亵”，无论参与者的性别如何。\[8\]2017年11月，副检察官Nerin Pulle表示政府将把同性性行为合法化。\[9\]
 
 斯里兰卡最高法院宣布该条款无法执行。尽管该国的宪法没有赋予法院完全将该条款从刑法中删除的权力，但它确实设定了判例法并有效地使该条款处于休眠状态。\[10\]
 
@@ -32,15 +30,13 @@ Pulle表示政府将把同性性行为合法化。\[9\]
 
 ### 反歧视法
 
-[LGBT_flag_map_of_Sri_Lanka.svg](https://zh.wikipedia.org/wiki/File:LGBT_flag_map_of_Sri_Lanka.svg "fig:LGBT_flag_map_of_Sri_Lanka.svg")
-斯里兰卡政府于2014年10月7日至8日在[日内瓦向联合国人权事务委员会解释说](../Page/日内瓦.md "wikilink")，性少数群体已受到“宪法”规定的现行反歧视法律的保护。\[13\]
+[LGBT_flag_map_of_Sri_Lanka.svg](https://zh.wikipedia.org/wiki/File:LGBT_flag_map_of_Sri_Lanka.svg "fig:LGBT_flag_map_of_Sri_Lanka.svg") 斯里兰卡政府于2014年10月7日至8日在[日内瓦](../Page/日内瓦.md "wikilink")向联合国人权事务委员会解释说，性少数群体已受到“宪法”规定的现行反歧视法律的保护。\[13\]
 
 2017年，政府还决定更新其人权行动计划，其附录是禁止基于其性取向歧视某人。\[14\]
 
 ### 性别认同
 
-希望接受[性別重置手術](../Page/性別重置手術.md "wikilink") (SRS)
-的患者必须咨询精神科医生进行初步评估。如果该人被认为具有良好的精神状态，则可以发出支持此事的官方信函。在进行任何外科手术之前，患者可以开始接受必要的激素治疗。寻找了解跨性别问题的治疗师通常会很麻烦。\[15\]
+希望接受[性別重置手術](../Page/性別重置手術.md "wikilink") (SRS) 的患者必须咨询精神科医生进行初步评估。如果该人被认为具有良好的精神状态，则可以发出支持此事的官方信函。在进行任何外科手术之前，患者可以开始接受必要的激素治疗。寻找了解跨性别问题的治疗师通常会很麻烦。\[15\]
 
 大多数跨性别者面临的一个主要障碍是该国缺乏能够进行性別重置手術的公立或私立医院，而出国手术的又成本高昂。\[16\]
 
@@ -74,11 +70,9 @@ Pulle表示政府将把同性性行为合法化。\[9\]
 
   - [斯里兰卡同性恋社区论坛](https://web.archive.org/web/20180717180557/http://getreal.fullboards.com/)
   - [Equal Ground](http://www.equal-ground.org)
-  - [SodomyLaws: Sri
-    Lanka](http://www.glapn.org/sodomylaws/world/sri_lanka/sri_lanka.htm)
+  - [SodomyLaws: Sri Lanka](http://www.glapn.org/sodomylaws/world/sri_lanka/sri_lanka.htm)
 
-[Category:斯里兰卡政治](https://zh.wikipedia.org/wiki/Category:斯里兰卡政治 "wikilink")
-[Category:亚洲各国LGBT权益](https://zh.wikipedia.org/wiki/Category:亚洲各国LGBT权益 "wikilink")
+[Category:斯里兰卡政治](https://zh.wikipedia.org/wiki/Category:斯里兰卡政治 "wikilink") [Category:亚洲各国LGBT权益](https://zh.wikipedia.org/wiki/Category:亚洲各国LGBT权益 "wikilink")
 
 1.
 
@@ -86,8 +80,7 @@ Pulle表示政府将把同性性行为合法化。\[9\]
 
 3.
 
-4.   Sri Lanka
-    Brief|website=srilankabrief.org|language=en-US|access-date=2018-10-05}}
+4.   Sri Lanka Brief|website=srilankabrief.org|language=en-US|access-date=2018-10-05}}
 
 5.
 

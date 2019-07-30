@@ -15,7 +15,6 @@
 
   -
   -
-[Category:1907年电影](https://zh.wikipedia.org/wiki/Category:1907年电影 "wikilink")
-[Category:阿根廷电影作品](https://zh.wikipedia.org/wiki/Category:阿根廷电影作品 "wikilink")
+[Category:1907年电影](https://zh.wikipedia.org/wiki/Category:1907年电影 "wikilink") [Category:阿根廷电影作品](https://zh.wikipedia.org/wiki/Category:阿根廷电影作品 "wikilink")
 
 1.

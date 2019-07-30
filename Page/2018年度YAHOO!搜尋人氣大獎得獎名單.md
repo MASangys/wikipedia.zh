@@ -11,8 +11,7 @@
   - 本地音樂組合
       - [Dear Jane](../Page/Dear_Jane.md "wikilink")
       - [RubberBand](../Page/RubberBand.md "wikilink")
-      - [Supper
-        Moment](https://zh.wikipedia.org/wiki/Supper_Moment "wikilink")
+      - [Supper Moment](https://zh.wikipedia.org/wiki/Supper_Moment "wikilink")
   - 本地唱作歌手
       - [林奕匡](../Page/林奕匡.md "wikilink")
   - 網上熱爆女歌手
@@ -47,15 +46,11 @@
       - 《被討厭的勇氣》- [許靖韻](../Page/許靖韻.md "wikilink")
   - 人氣音樂企劃
       - 「不消失戀愛連續」三部曲
-      - 《[The album part
-        one](../Page/The_album_part_one.md "wikilink")》-
-        [麥浚龍](../Page/麥浚龍.md "wikilink")、[謝安琪](../Page/謝安琪.md "wikilink")
+      - 《[The album part one](../Page/The_album_part_one.md "wikilink")》- [麥浚龍](../Page/麥浚龍.md "wikilink")、[謝安琪](../Page/謝安琪.md "wikilink")
   - 人氣電視劇集主題曲
       - 《但願人長久》- [菊梓喬](../Page/菊梓喬.md "wikilink")
   - 人氣專輯
-      - 《[The album part
-        one](../Page/The_album_part_one.md "wikilink")》-
-        [麥浚龍](../Page/麥浚龍.md "wikilink")、[謝安琪](../Page/謝安琪.md "wikilink")
+      - 《[The album part one](../Page/The_album_part_one.md "wikilink")》- [麥浚龍](../Page/麥浚龍.md "wikilink")、[謝安琪](../Page/謝安琪.md "wikilink")
 
 ### 電影獎項
 
@@ -73,8 +68,7 @@
   - 人氣電視劇集
       - 《[宮心計2深宮計](https://zh.wikipedia.org/wiki/宮心計2深宮計 "wikilink")》
   - 人氣綜藝節目
-      - 《[Good Night Show
-        全民造星](https://zh.wikipedia.org/wiki/Good_Night_Show_全民造星 "wikilink")》
+      - 《[Good Night Show 全民造星](https://zh.wikipedia.org/wiki/Good_Night_Show_全民造星 "wikilink")》
   - 人氣急星
       - [陳家樂](https://zh.wikipedia.org/wiki/陳家樂 "wikilink")
       - [何廣沛](../Page/何廣沛.md "wikilink")
@@ -85,9 +79,43 @@
       - [林淑敏](../Page/林淑敏.md "wikilink")
   - 電視男藝人
       - [陳展鵬](https://zh.wikipedia.org/wiki/陳展鵬 "wikilink")
-  - 電視女
+  - 電視女藝人
+      - [李佳芯](https://zh.wikipedia.org/wiki/李佳芯 "wikilink")
 
-<!-- end list -->
+### 亞洲區獎項
+
+  - 年度熱搜韓國新演員
+      - [車銀優](../Page/車銀優.md "wikilink")
+  - 亞洲人氣演員
+      - [古天樂](../Page/古天樂.md "wikilink")
+  - 亞洲人氣票王
+      - [華晨宇](https://zh.wikipedia.org/wiki/華晨宇 "wikilink")
+
+### 票選獎項
+
+  - 人氣票王
+      - [張敬軒](https://zh.wikipedia.org/wiki/張敬軒 "wikilink")
+  - 人氣票-{后}-
+      - [余詩曼](https://zh.wikipedia.org/wiki/余詩曼 "wikilink")
+  - 人氣票選組合
+      - [Boy'z](../Page/Boy'z.md "wikilink")
+
+### 至尊獎項
+
+  - 圖片搜尋次數最多的香港男藝人
+      - [姜濤](../Page/姜濤.md "wikilink")
+  - 圖片搜尋次數最多的香港女藝人
+      - [馮盈盈](../Page/馮盈盈.md "wikilink")
+  - 最具號召力香港男藝人
+      - [張敬軒](https://zh.wikipedia.org/wiki/張敬軒 "wikilink")
+  - 最具號召力香港女藝人
+      - [周勵淇](../Page/周勵淇.md "wikilink")
+  - 熱搜藝人
+      - [林峯](https://zh.wikipedia.org/wiki/林峯 "wikilink")
+
+## 參考資料
+
+[Category:Yahoo\!搜尋人氣大獎](https://zh.wikipedia.org/wiki/Category:Yahoo!搜尋人氣大獎 "wikilink") [Category:雅虎](https://zh.wikipedia.org/wiki/Category:雅虎 "wikilink")
 
 1.
 2.

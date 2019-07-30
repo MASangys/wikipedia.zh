@@ -8,9 +8,13 @@
 
 ### 選集
 
-{{Works|2|[魔法少女小圓4格選集漫畫
-2卷](https://zh.wikipedia.org/wiki/魔法少女小圓 "wikilink")|T=S|Publisher=[芳文社](../Page/芳文社.md "wikilink")|C=ISBN
-9784832242159<ref>{{Cite
-web|url=<http://houbunsha.co.jp/comics/detail.php?p=%CB%E2%CB%A1%BE%AF%BD%F7%A4%DE%A4%C9%A4%AB%A1%F9%A5%>
+## 參考文獻
+
+## 外部連結
+
+  -
+  -
+  -
+[Category:日本漫畫家](https://zh.wikipedia.org/wiki/Category:日本漫畫家 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
 
 1.

@@ -1,6 +1,4 @@
-《**GIGANT**》是[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[奧浩哉](../Page/奧浩哉.md "wikilink")繪畫的[漫畫作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")，[小學館](../Page/小學館.md "wikilink")出版，於漫畫雜誌《[Big
-Comic
-Superior](../Page/Big_Comic_Superior.md "wikilink")》2018年1號開始連載\[1\]。
+《**GIGANT**》是[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[奧浩哉](../Page/奧浩哉.md "wikilink")繪畫的[漫畫作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")，[小學館](../Page/小學館.md "wikilink")出版，於漫畫雜誌《[Big Comic Superior](../Page/Big_Comic_Superior.md "wikilink")》2018年1號開始連載\[1\]。
 
 ## 故事簡介
 
@@ -64,7 +62,6 @@ Superior](../Page/Big_Comic_Superior.md "wikilink")》2018年1號開始連載\[1
 ## 外部連結
 
   -
-[Category:科幻漫畫](https://zh.wikipedia.org/wiki/Category:科幻漫畫 "wikilink")
-[Category:變大縮小題材作品](https://zh.wikipedia.org/wiki/Category:變大縮小題材作品 "wikilink")
+[Category:科幻漫畫](https://zh.wikipedia.org/wiki/Category:科幻漫畫 "wikilink") [Category:變大縮小題材作品](https://zh.wikipedia.org/wiki/Category:變大縮小題材作品 "wikilink")
 
 1.

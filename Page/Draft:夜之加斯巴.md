@@ -1,7 +1,4 @@
-《**夜之加斯巴**》（，又譯《**加斯巴之夜**》、《**夜之幽靈**》），副標題為「根據做的三首鋼琴詩」（**），[M](../Page/馬塞爾·馬爾納.md "wikilink").
-55，是[莫里斯·拉威爾在](../Page/莫里斯·拉威爾.md "wikilink")1908年作成的一部[鋼琴](https://zh.wikipedia.org/wiki/鋼琴 "wikilink")[組曲](https://zh.wikipedia.org/wiki/組曲 "wikilink")。組曲共有三個[樂章](https://zh.wikipedia.org/wiki/樂章 "wikilink")，每個樂章都對應到詩集《》（Gaspard
-de la Nuit — Fantaisies à la manière de Rembrandt et de
-Callot）的中的一首詩。這部作品在1909年1月9日首演，演奏家是。
+《**夜之加斯巴**》（，又譯《**加斯巴之夜**》、《**夜之幽靈**》），副標題為「根據做的三首鋼琴詩」（**），[M](../Page/馬塞爾·馬爾納.md "wikilink"). 55，是[莫里斯·拉威爾](../Page/莫里斯·拉威爾.md "wikilink")在1908年作成的一部[鋼琴](https://zh.wikipedia.org/wiki/鋼琴 "wikilink")[組曲](https://zh.wikipedia.org/wiki/組曲 "wikilink")。組曲共有三個[樂章](https://zh.wikipedia.org/wiki/樂章 "wikilink")，每個樂章都對應到詩集《》（Gaspard de la Nuit — Fantaisies à la manière de Rembrandt et de Callot）的中的一首詩。這部作品在1909年1月9日首演，演奏家是。
 
 《夜之加斯巴》以其極高的難度著名－部分原因是拉威爾希望第三樂章〈史卡波〉（Scarbo）能比[米利·巴拉基列夫的](https://zh.wikipedia.org/wiki/米利·阿列克謝耶維奇·巴拉基列夫 "wikilink")《》更為困難。由於其高深的彈奏技術與音樂結構，〈史卡波〉被認為是標準曲目中最困難的鋼琴獨奏曲之一。\[1\]
 
@@ -13,32 +10,25 @@ Callot）的中的一首詩。這部作品在1909年1月9日首演，演奏家�
 
 在這部作品中，拉威爾自己說道：「加斯巴一直是個即將來臨的魔鬼，但這是合乎邏輯的，因為他是詩歌的作者。我的目標是用音符表達出詩人用文字寫出的東西。」\[4\]
 
-，詩集《》（1842）的作者，以一個在[第戎一處公園遇見的神秘老人作為詩集的開頭](../Page/第戎.md "wikilink")，並稱就是這個老人借給他這部詩集的。當他去尋找M.加斯巴以歸還詩集時，他問道：「告訴我哪裡可能可以找到夜裡的M.加斯巴（M.
-Gaspard de la
-Nuit）。」「如果他不在別的地方，他一定在地獄裡。」回答說。「啊！我開始明白了！什麼！加斯巴一定是……？」詩人繼續說。「啊！是的…是惡魔！」他回答。「謝謝你，我的哥們（）！…如果夜之加斯巴在地獄，我希望他在那裡被烤著。我想我應該要出版他的書。」\[5\]
+，詩集《》（1842）的作者，以一個在[第戎](../Page/第戎.md "wikilink")一處公園遇見的神秘老人作為詩集的開頭，並稱就是這個老人借給他這部詩集的。當他去尋找M.加斯巴以歸還詩集時，他問道：「告訴我哪裡可能可以找到夜裡的M.加斯巴（M. Gaspard de la Nuit）。」「如果他不在別的地方，他一定在地獄裡。」回答說。「啊！我開始明白了！什麼！加斯巴一定是……？」詩人繼續說。「啊！是的…是惡魔！」他回答。「謝謝你，我的哥們（）！…如果夜之加斯巴在地獄，我希望他在那裡被烤著。我想我應該要出版他的書。」\[5\]
 
 ## 樂曲結構
 
 ### I. Ondine（溫蒂妮）
 
-[Gaspard_de_la_nuit_I._Ondine_first_3_bars.png](https://zh.wikipedia.org/wiki/File:Gaspard_de_la_nuit_I._Ondine_first_3_bars.png "fig:Gaspard_de_la_nuit_I._Ondine_first_3_bars.png")
-〈**溫蒂妮**〉，或譯作〈**水妖**〉，[升C大調](https://zh.wikipedia.org/wiki/升C大調 "wikilink")，緩板（Lent），自由[奏鳴曲式](https://zh.wikipedia.org/wiki/奏鳴曲式 "wikilink")，根據法文詩〈[溫蒂妮](https://zh.wikipedia.org/wiki/:fr:s:Gaspard_de_la_nuit/Édition_1920/Ondine "wikilink")〉而作。[溫蒂妮是沒有靈魂的水之](../Page/溫蒂妮.md "wikilink")[精靈](https://zh.wikipedia.org/wiki/寧芙 "wikilink")，唱著歌引誘觀察者深入湖底探望她的王國。作品中描摹的各種水聲也讓人想起拉威爾的早期鋼琴曲《》。
+[Gaspard_de_la_nuit_I._Ondine_first_3_bars.png](https://zh.wikipedia.org/wiki/File:Gaspard_de_la_nuit_I._Ondine_first_3_bars.png "fig:Gaspard_de_la_nuit_I._Ondine_first_3_bars.png") 〈**溫蒂妮**〉，或譯作〈**水妖**〉，[升C大調](https://zh.wikipedia.org/wiki/升C大調 "wikilink")，緩板（Lent），自由[奏鳴曲式](https://zh.wikipedia.org/wiki/奏鳴曲式 "wikilink")，根據法文詩〈[溫蒂妮](https://zh.wikipedia.org/wiki/:fr:s:Gaspard_de_la_nuit/Édition_1920/Ondine "wikilink")〉而作。[溫蒂妮](../Page/溫蒂妮.md "wikilink")是沒有靈魂的水之[精靈](https://zh.wikipedia.org/wiki/寧芙 "wikilink")，唱著歌引誘觀察者深入湖底探望她的王國。作品中描摹的各種水聲也讓人想起拉威爾的早期鋼琴曲《》。
 
-從前奏開始，由右手反覆的三十二分音符和弦交疊，製造出宛如水波的音效。第2[小節加入的左手喚起了開場的第一主題](https://zh.wikipedia.org/wiki/小節 "wikilink")，其形式和[克勞德·德布西的](https://zh.wikipedia.org/wiki/阿希爾-克勞德·德布西 "wikilink")第三號〈[賽蓮](https://zh.wikipedia.org/wiki/賽蓮 "wikilink")〉（Sirènes）相似。第二主題在第8小節的大三度(E\#)上出現。第16小節進入過門樂段一，以每兩個小傑為一個樂句。右手的三個樂句的旋律均相同，但左手的和聲及力度上有所不同，左手出現第二種水波音形。樂曲從ppp－pp－p漸強，進入第一階段的高潮後再以
-ppp 進入過門樂段二，並大致停在[升G大調](https://zh.wikipedia.org/wiki/升G大調 "wikilink")。
+從前奏開始，由右手反覆的三十二分音符和弦交疊，製造出宛如水波的音效。第2[小節加入的左手喚起了開場的第一主題](https://zh.wikipedia.org/wiki/小節 "wikilink")，其形式和[克勞德·德布西的](https://zh.wikipedia.org/wiki/阿希爾-克勞德·德布西 "wikilink")第三號〈[賽蓮](https://zh.wikipedia.org/wiki/賽蓮 "wikilink")〉（Sirènes）相似。第二主題在第8小節的大三度(E\#)上出現。第16小節進入過門樂段一，以每兩個小傑為一個樂句。右手的三個樂句的旋律均相同，但左手的和聲及力度上有所不同，左手出現第二種水波音形。樂曲從ppp－pp－p漸強，進入第一階段的高潮後再以 ppp 進入過門樂段二，並大致停在[升G大調](https://zh.wikipedia.org/wiki/升G大調 "wikilink")。
 
 呈示部至第55小節結束，發展部隨後從第57小節開始。大譜表增為三行，並使用了雙音快速上下行的技巧以表現水面上漲，這樣的手法在李斯特《[巡禮之年](https://zh.wikipedia.org/wiki/巡禮之年 "wikilink")·第三年》的〈艾絲特山莊的噴泉〉（）也出現過。音樂在第66小節進入第二次高潮，旋律結構同第32小節，但水波的音型不同，和聲上在每一拍都更換一個和弦，製造出更為強烈的水波洶湧的感覺。
 
 再現部自第80小節開始，描述水精靈溫蒂妮又回到了水中世界。旋律以原主題的五度開始，但第一主題與第二主題都由原來的六小節簡化為四小節。拉威爾也運用了調性的變化，由原來的[升C大調結束在](https://zh.wikipedia.org/wiki/升C大調 "wikilink")[a小調](https://zh.wikipedia.org/wiki/a小調 "wikilink")，描寫水妖受到拒絕而絕望、抱恨的心情。
 
-在第二主題單獨地在右手出現後，音樂於第88小節進入了尾奏。在最後的四小節，拉威爾分別使用了「快速且燦爛」（）的上下行琶音、下行模近以及力度的變化（由
-ff驟轉至ppp），表現出水妖的狂笑；最末的小節標示著不要漸慢（），以維持水波濤瀾洶涌的張力。
+在第二主題單獨地在右手出現後，音樂於第88小節進入了尾奏。在最後的四小節，拉威爾分別使用了「快速且燦爛」（）的上下行琶音、下行模近以及力度的變化（由 ff驟轉至ppp），表現出水妖的狂笑；最末的小節標示著不要漸慢（），以維持水波濤瀾洶涌的張力。
 
 這首曲子包含了許多的極高的技術要求，例如在開場伴奏中快速重複的三和弦、第57小節開始的上下行雙音琶音，以及第66小節左右手分離的高潮樂段。\[6\]
 
-〈溫蒂妮〉演奏長度約為6分半，Recordings vary in tempo, driven perhaps by the tension
-of keeping the shimmering alternating notes from becoming mechanical,
-yet giving sufficient space for the lyricism of the melodies.
+〈溫蒂妮〉演奏長度約為6分半，Recordings vary in tempo, driven perhaps by the tension of keeping the shimmering alternating notes from becoming mechanical, yet giving sufficient space for the lyricism of the melodies.
 
 <table>
 <thead>
@@ -61,8 +51,7 @@ yet giving sufficient space for the lyricism of the melodies.
 
 ### II. 絞刑台（Le Gibet）
 
-[Gaspard_de_la_nuit_II._Le_Gibet_first_7_bars.png](https://zh.wikipedia.org/wiki/File:Gaspard_de_la_nuit_II._Le_Gibet_first_7_bars.png "fig:Gaspard_de_la_nuit_II._Le_Gibet_first_7_bars.png")
-〈**絞刑台**〉，[降E小調](https://zh.wikipedia.org/wiki/降E小調 "wikilink")，很慢的緩板（），根據法文詩〈[絞刑台](https://zh.wikipedia.org/wiki/:fr:s:Gaspard_de_la_nuit/Édition_1920/Le_Gibet "wikilink")〉而作。\[7\]曲中向聽者展示了沙漠的景色，在絞刑台上被絞死的屍體孤伶伶地懸在地平線上，低垂的夕陽將西方天空染成血紅，鐘聲自遠方城市的牆內傳出，凝滯而讓人窒息的氣氛圍繞在聽者四周。
+[Gaspard_de_la_nuit_II._Le_Gibet_first_7_bars.png](https://zh.wikipedia.org/wiki/File:Gaspard_de_la_nuit_II._Le_Gibet_first_7_bars.png "fig:Gaspard_de_la_nuit_II._Le_Gibet_first_7_bars.png") 〈**絞刑台**〉，[降E小調](https://zh.wikipedia.org/wiki/降E小調 "wikilink")，很慢的緩板（），根據法文詩〈[絞刑台](https://zh.wikipedia.org/wiki/:fr:s:Gaspard_de_la_nuit/Édition_1920/Le_Gibet "wikilink")〉而作。\[7\]曲中向聽者展示了沙漠的景色，在絞刑台上被絞死的屍體孤伶伶地懸在地平線上，低垂的夕陽將西方天空染成血紅，鐘聲自遠方城市的牆內傳出，凝滯而讓人窒息的氣氛圍繞在聽者四周。
 
 拉威爾使用連續的[八度](../Page/八度.md "wikilink")[B{{music作為](https://zh.wikipedia.org/wiki/B♭_\(音名\) "wikilink")[固定音型](https://zh.wikipedia.org/wiki/固定音型 "wikilink")，模仿著陰森的鐘聲，連貫整首曲子，並在不同樂段間保持著一定的拍型與速度。除了開頭的前11小節以外，全曲使用三行的大譜表。
 
@@ -89,19 +78,9 @@ yet giving sufficient space for the lyricism of the melodies.
 
 ### III. 史卡波（Scarbo）
 
-[Gaspard_de_la_nuit_III._Scarbo_first_10_bars.png](https://zh.wikipedia.org/wiki/File:Gaspard_de_la_nuit_III._Scarbo_first_10_bars.png "fig:Gaspard_de_la_nuit_III._Scarbo_first_10_bars.png")
-〈**史卡波**〉，[升G小調](https://zh.wikipedia.org/wiki/升G小調 "wikilink")，中速（），根據法文詩〈[史卡波](https://zh.wikipedia.org/wiki/:fr:s:Gaspard_de_la_nuit/Édition_1920/Scarbo_\(Pièces_détachées\) "wikilink")〉而作。\[8\]
-這個樂章描述著一個小妖精在夜間的惡作劇：他在原地旋轉、在黑暗中進進出出、消失後又突然重新出現。他不平穩的飛行使其撞擊並摩擦著牆壁，並在月光的照射下製造出越來越大的陰影，為躺在床上的觀察者創造了一個噩夢般的場景。
+[Gaspard_de_la_nuit_III._Scarbo_first_10_bars.png](https://zh.wikipedia.org/wiki/File:Gaspard_de_la_nuit_III._Scarbo_first_10_bars.png "fig:Gaspard_de_la_nuit_III._Scarbo_first_10_bars.png") 〈**史卡波**〉，[升G小調](https://zh.wikipedia.org/wiki/升G小調 "wikilink")，中速（），根據法文詩〈[史卡波](https://zh.wikipedia.org/wiki/:fr:s:Gaspard_de_la_nuit/Édition_1920/Scarbo_\(Pièces_détachées\) "wikilink")〉而作。\[8\] 這個樂章描述著一個小妖精在夜間的惡作劇：他在原地旋轉、在黑暗中進進出出、消失後又突然重新出現。他不平穩的飛行使其撞擊並摩擦著牆壁，並在月光的照射下製造出越來越大的陰影，為躺在床上的觀察者創造了一個噩夢般的場景。
 
-With its repeated notes and two terrifying climaxes, this is the high
-point in technical difficulty of all the three movements. Technical
-challenges include repeated notes in both hands, and double-note scales
-in [major
-seconds](https://zh.wikipedia.org/wiki/major_second "wikilink") in the
-right hand. Ravel reportedly said about Scarbo: "I wanted to write an
-orchestral
-[transcription](https://zh.wikipedia.org/wiki/Transcription_\(music\) "wikilink")
-for the piano."\[9\] The duration of Scarbo is about 8:30.
+With its repeated notes and two terrifying climaxes, this is the high point in technical difficulty of all the three movements. Technical challenges include repeated notes in both hands, and double-note scales in [major seconds](https://zh.wikipedia.org/wiki/major_second "wikilink") in the right hand. Ravel reportedly said about Scarbo: "I wanted to write an orchestral [transcription](https://zh.wikipedia.org/wiki/Transcription_\(music\) "wikilink") for the piano."\[9\] The duration of Scarbo is about 8:30.
 
 <table>
 <thead>
@@ -124,29 +103,20 @@ for the piano."\[9\] The duration of Scarbo is about 8:30.
 
 ## 管弦樂團版本
 
-[Minneapolis_Schmitt_music_mural.jpg](https://zh.wikipedia.org/wiki/File:Minneapolis_Schmitt_music_mural.jpg "fig:Minneapolis_Schmitt_music_mural.jpg"),
-[Minnesota](https://zh.wikipedia.org/wiki/Minnesota "wikilink").\]\]
-於1942年將此曲改編成管絃樂團版本。\[10\]在1990年亦曾將此曲改編成管絃樂團版本。\[11\]
+[Minneapolis_Schmitt_music_mural.jpg](https://zh.wikipedia.org/wiki/File:Minneapolis_Schmitt_music_mural.jpg "fig:Minneapolis_Schmitt_music_mural.jpg"), [Minnesota](https://zh.wikipedia.org/wiki/Minnesota "wikilink").\]\] 於1942年將此曲改編成管絃樂團版本。\[10\]在1990年亦曾將此曲改編成管絃樂團版本。\[11\]
 
 ## 參考資料
 
 ## 外部鏈結
 
-  - [Piano Society.com – Ravel – *Gaspard de la
-    nuit*](https://web.archive.org/web/20070112073625/http://pianosociety.com/cms/index.php?section=168)
-    – includes free recordings of "Ondine" and "Scarbo".
+  - [Piano Society.com – Ravel – *Gaspard de la nuit*](https://web.archive.org/web/20070112073625/http://pianosociety.com/cms/index.php?section=168) – includes free recordings of "Ondine" and "Scarbo".
 
   -
-  - [BBC Discovering Music](https://www.bbc.co.uk/sounds/play/p01yx4k1)
-    – Includes lecture and performance – 1 hour and 30 minutes
+  - [BBC Discovering Music](https://www.bbc.co.uk/sounds/play/p01yx4k1) – Includes lecture and performance – 1 hour and 30 minutes
 
-  - [The Shady Lane Publishing](http://shadylane.fr/en/le_gibet.php)
-    Includes Creative Commons recording and sheet music of "Le gibet"
-    transcription for two guitars by M. Jacquot.
+  - [The Shady Lane Publishing](http://shadylane.fr/en/le_gibet.php) Includes Creative Commons recording and sheet music of "Le gibet" transcription for two guitars by M. Jacquot.
 
-[Category:莫里斯·拉威爾創作的組曲](https://zh.wikipedia.org/wiki/Category:莫里斯·拉威爾創作的組曲 "wikilink")
-[Category:鋼琴獨奏曲](https://zh.wikipedia.org/wiki/Category:鋼琴獨奏曲 "wikilink")
-[Category:1908年樂曲](https://zh.wikipedia.org/wiki/Category:1908年樂曲 "wikilink")
+[Category:莫里斯·拉威爾創作的組曲](https://zh.wikipedia.org/wiki/Category:莫里斯·拉威爾創作的組曲 "wikilink") [Category:鋼琴獨奏曲](https://zh.wikipedia.org/wiki/Category:鋼琴獨奏曲 "wikilink") [Category:1908年樂曲](https://zh.wikipedia.org/wiki/Category:1908年樂曲 "wikilink")
 
 1.
 2.
@@ -155,29 +125,15 @@ for the piano."\[9\] The duration of Scarbo is about 8:30.
 
 4.
 
-5.  Bertrand Guégan (Ed.), *Gaspard de la Nuit, Fantaisies à la manière
-    de Rembrandt et de Callot, par Aloysius Bertrand. Edition publiée
-    d'après le manuscrit de l'auteur* (Payot, Paris 1925), p. 24.
+5.  Bertrand Guégan (Ed.), *Gaspard de la Nuit, Fantaisies à la manière de Rembrandt et de Callot, par Aloysius Bertrand. Edition publiée d'après le manuscrit de l'auteur* (Payot, Paris 1925), p. 24.
 
-6.  Ravel, *Gaspard de la Nuit*, [Éditions
-    Durand](https://zh.wikipedia.org/wiki/Éditions_Durand "wikilink") &
-    Cie, Paris 1957.
+6.  Ravel, *Gaspard de la Nuit*, [Éditions Durand](https://zh.wikipedia.org/wiki/Éditions_Durand "wikilink") & Cie, Paris 1957.
 
-7.  〈絞刑台〉是未見於貝爾特朗1836年原始手稿的其中一首作品，參見 Guégan, *Gaspard de la Nuit*
-    (1925), pp. 217–18.
+7.  〈絞刑台〉是未見於貝爾特朗1836年原始手稿的其中一首作品，參見 Guégan, *Gaspard de la Nuit* (1925), pp. 217–18.
 
-8.  The version of 'Scarbo' quoted here is not the same as the piece
-    which appeared under that name in the original 1836 manuscript of
-    Bertrand's, but one of the supplementary poems found among his
-    papers. The original Scarbo, number ii of the third book of *Gaspard
-    de la Nuit*, 'La Nuit et ses Prestiges', is a completely different
-    text. The gnome Scarbo also appears in other pieces. See Guégan,
-    *Gaspard de la Nuit* (1925), pp. 219–20.
+8.  The version of 'Scarbo' quoted here is not the same as the piece which appeared under that name in the original 1836 manuscript of Bertrand's, but one of the supplementary poems found among his papers. The original Scarbo, number ii of the third book of *Gaspard de la Nuit*, 'La Nuit et ses Prestiges', is a completely different text. The gnome Scarbo also appears in other pieces. See Guégan, *Gaspard de la Nuit* (1925), pp. 219–20.
 
 9.
-10. ["Ravel – Goossens: *Gaspard de la nuit* (arr.
-    1942)"](http://www.boosey.com/licensing/rental-music/Maurice-Ravel-Gaspard-de-la-Nuit/5600)
-    at [Boosey &
-    Hawkes](https://zh.wikipedia.org/wiki/Boosey_&_Hawkes "wikilink")
+10. ["Ravel – Goossens: *Gaspard de la nuit* (arr. 1942)"](http://www.boosey.com/licensing/rental-music/Maurice-Ravel-Gaspard-de-la-Nuit/5600) at [Boosey & Hawkes](https://zh.wikipedia.org/wiki/Boosey_&_Hawkes "wikilink")
 
 11.

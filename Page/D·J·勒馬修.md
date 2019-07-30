@@ -8,13 +8,11 @@
 
 2009年大聯盟選秀，芝加哥小熊以第2輪第79順位選進了勒馬修。\[1\]他在1A出賽了38場，打擊率3成10。2010年在高階1A出賽135場，打擊率3成14。\[2\]
 
-2011年，勒馬修從2A出發。5月30日登上大聯盟，頂替當時受傷的Jeff
-Baker。\[3\]當時他代打擊出雙殺打。賽後被下放至3A，直到9月才重返大聯盟。\[4\]
+2011年，勒馬修從2A出發。5月30日登上大聯盟，頂替當時受傷的Jeff Baker。\[3\]當時他代打擊出雙殺打。賽後被下放至3A，直到9月才重返大聯盟。\[4\]
 
 ### 科羅拉多洛磯
 
-2011年12月8日，小熊把勒馬修和另一名選手Tyler Colvin交易至洛磯隊，得到Casey Weathers和Ian
-Stewart。\[5\]
+2011年12月8日，小熊把勒馬修和另一名選手Tyler Colvin交易至洛磯隊，得到Casey Weathers和Ian Stewart。\[5\]
 
 2012年5月23日，勒馬修頂替受傷的內野手Jonathan Herrera。8月14日，他單場擊出4安，為生涯最佳。
 
@@ -24,14 +22,13 @@ Stewart。\[5\]
 
 2016年8月和9月，他的打擊率分別為4成39和3成63。\[8\]最終他以3成48的打擊率拿下國聯打擊王。
 
-2017年明星賽，勒馬修頂替受傷的Dee
-Gordon出戰。\[9\]該年他打擊率3成10，並且再度拿下金手套獎。\[10\]此外，他還拿下防守聖經獎。\[11\]
+2017年明星賽，勒馬修頂替受傷的Dee Gordon出戰。\[9\]該年他打擊率3成10，並且再度拿下金手套獎。\[10\]此外，他還拿下防守聖經獎。\[11\]
 
 2018年，勒馬修單季擊出個人新高的15轟。\[12\]該年他的防守成功率高達9成93，並拿下第3次金手套及威爾森年度防守獎。\[13\]
 
 ### 紐約洋基
 
-2019年1月14日，勒馬修以2年2400萬美元與紐約洋基隊簽約。\[14\]
+2019年1月14日，勒馬修以2年2400萬美元與紐約洋基隊簽約。\[14\] 因防守端多人傷患，加上[米格爾·安杜哈爾](../Page/米格爾·安杜哈爾.md "wikilink")球季報銷，打擊能力也比[俄施爾拉優勝](https://zh.wikipedia.org/wiki/:en:Gio_Urshela "wikilink")，勒馬修同時守備一、二、三壘。
 
 ## 相關條目
 
@@ -42,11 +39,7 @@ Gordon出戰。\[9\]該年他打擊率3成10，並且再度拿下金手套獎。
 
 ## 外部連結
 
-[Category:美國棒球選手](https://zh.wikipedia.org/wiki/Category:美國棒球選手 "wikilink")
-[Category:芝加哥小熊隊球員](https://zh.wikipedia.org/wiki/Category:芝加哥小熊隊球員 "wikilink")
-[Category:科羅拉多落磯隊球員](https://zh.wikipedia.org/wiki/Category:科羅拉多落磯隊球員 "wikilink")
-[Category:紐約洋基隊球員](https://zh.wikipedia.org/wiki/Category:紐約洋基隊球員 "wikilink")
-[Category:美國職棒大聯盟金手套獎得主](https://zh.wikipedia.org/wiki/Category:美國職棒大聯盟金手套獎得主 "wikilink")
+[Category:美國棒球選手](https://zh.wikipedia.org/wiki/Category:美國棒球選手 "wikilink") [Category:芝加哥小熊隊球員](https://zh.wikipedia.org/wiki/Category:芝加哥小熊隊球員 "wikilink") [Category:科羅拉多落磯隊球員](https://zh.wikipedia.org/wiki/Category:科羅拉多落磯隊球員 "wikilink") [Category:紐約洋基隊球員](https://zh.wikipedia.org/wiki/Category:紐約洋基隊球員 "wikilink") [Category:美國職棒大聯盟金手套獎得主](https://zh.wikipedia.org/wiki/Category:美國職棒大聯盟金手套獎得主 "wikilink")
 
 1.
 2.

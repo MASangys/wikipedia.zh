@@ -1,5 +1,4 @@
-**禹奭 X
-冠霖**（，），是[Cube娛樂旗下推出的特別企劃組合](../Page/Cube娛樂.md "wikilink")，成員有男子團體[PENTAGON的禹奭和個人歌手賴冠霖](../Page/Pentagon_\(男子組合\).md "wikilink")。於2019年3月11日，發表迷你專輯《9801》正式出道。\[1\]
+**禹奭 X 冠霖**（，），是[Cube娛樂](../Page/Cube娛樂.md "wikilink")旗下推出的特別企劃組合，成員有男子團體[PENTAGON的禹奭和個人歌手賴冠霖](../Page/Pentagon_\(男子組合\).md "wikilink")。於2019年3月11日，發表迷你專輯《9801》正式出道。\[1\]
 
 ## 經歷
 
@@ -203,13 +202,6 @@
   - 的官方網站
 
   -
-[Category:2019年韓國建立](https://zh.wikipedia.org/wiki/Category:2019年韓國建立 "wikilink")
-[Category:Cube娛樂](https://zh.wikipedia.org/wiki/Category:Cube娛樂 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:Cube娛樂旗下團體](https://zh.wikipedia.org/wiki/Category:Cube娛樂旗下團體 "wikilink")
-[Category:2019年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2019年成立的音樂團體 "wikilink")
+[Category:2019年韓國建立](https://zh.wikipedia.org/wiki/Category:2019年韓國建立 "wikilink") [Category:Cube娛樂](https://zh.wikipedia.org/wiki/Category:Cube娛樂 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:Cube娛樂旗下團體](https://zh.wikipedia.org/wiki/Category:Cube娛樂旗下團體 "wikilink") [Category:2019年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2019年成立的音樂團體 "wikilink")
 
-1.  [禹奭x冠霖舉行出道SC
-    展現友好感情無限默契](https://news.sina.com.tw/article/20190311/30415678.html/)
+1.  [禹奭x冠霖舉行出道SC 展現友好感情無限默契](https://news.sina.com.tw/article/20190311/30415678.html/)

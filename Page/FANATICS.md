@@ -2,13 +2,15 @@
 
 ## 歷程
 
-**2018年：小分隊[FLAVOR率先出道](../Page/FLAVOR.md "wikilink")**
+**2018年：小分隊[FLAVOR](../Page/FLAVOR.md "wikilink")率先出道**
 
-  - 11月15日，於FANATICS官方[Instagram](../Page/Instagram.md "wikilink")、[Twitter及](../Page/Twitter.md "wikilink")[Facebook專頁公開小分隊](../Page/Facebook.md "wikilink")[FLAVOR專輯單曲及](../Page/FLAVOR.md "wikilink")《MILKSHAKE》之照片。
+  - 11月15日，於FANATICS官方[Instagram](../Page/Instagram.md "wikilink")、[Twitter](../Page/Twitter.md "wikilink")及[Facebook](../Page/Facebook.md "wikilink")專頁公開小分隊[FLAVOR](../Page/FLAVOR.md "wikilink")專輯單曲及《MILKSHAKE》之照片。
   - 11月16日，公開成員鍍我、允惠和家儀的照片與資訊。
   - 11月26日，公開單曲《MILKSHAKE》的音源。
 
-**2019年**
+**2019年：正式出道**
+
+  - 7月18日，宣佈團體將於8月份出道\[3\]。
 
 ## 成員列表
 
@@ -19,12 +21,12 @@
 | ----------------------------------------------------- |
 | 藝名                                                    |
 | 漢字                                                    |
-| Rensika                                               |
+| Sika                                                  |
 | [家儀](../Page/李家儀.md "wikilink")                       |
 | **[允惠](https://zh.wikipedia.org/wiki/允惠 "wikilink")** |
 | [鍍我](https://zh.wikipedia.org/wiki/鍍我 "wikilink")     |
-| 湘兒                                                    |
-| 慧源                                                    |
+| 度伊                                                    |
+| 彩璘                                                    |
 
 ## 音樂作品
 
@@ -72,12 +74,8 @@
   -
   -
   -
-[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:2018年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2018年成立的音樂團體 "wikilink")
-[Category:FANATICS](https://zh.wikipedia.org/wiki/Category:FANATICS "wikilink")
-[Category:FENT](https://zh.wikipedia.org/wiki/Category:FENT "wikilink")
+[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2019年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2019年成立的音樂團體 "wikilink") [Category:FANATICS](https://zh.wikipedia.org/wiki/Category:FANATICS "wikilink") [Category:FENT](https://zh.wikipedia.org/wiki/Category:FENT "wikilink")
 
 1.
 2.
+3.

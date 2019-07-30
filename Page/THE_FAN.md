@@ -1,13 +1,8 @@
-**《THE
-FAN》**（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS於](https://zh.wikipedia.org/wiki/SBS "wikilink")2018年11月24日推出，由藝人推薦有潛質的新秀給觀眾認識的選秀節目，通過多輪表演能吸引最多支持者的新秀最終獲勝。
-[BoA](https://zh.wikipedia.org/wiki/BoA "wikilink")、[柳喜烈](../Page/柳喜烈.md "wikilink")、[李尚敏](../Page/李尚敏.md "wikilink")、[金伊娜以Fan](../Page/金伊娜.md "wikilink")
-Master的身份出演。
+**《THE FAN》**（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS於](https://zh.wikipedia.org/wiki/SBS "wikilink")2018年11月24日推出，由藝人推薦有潛質的新秀給觀眾認識的選秀節目，通過多輪表演能吸引最多支持者的新秀最終獲勝。 [BoA](https://zh.wikipedia.org/wiki/BoA "wikilink")、[柳喜烈](../Page/柳喜烈.md "wikilink")、[李尚敏](../Page/李尚敏.md "wikilink")、[金伊娜](../Page/金伊娜.md "wikilink")以Fan Master的身份出演。
 
 ## 節目形式
 
-  - 由《[K-pop
-    Star](https://zh.wikipedia.org/wiki/K-pop_Star "wikilink")》的朴尚勳PD（音譯）和《[Fantastic
-    Duo](../Page/Fantastic_Duo.md "wikilink")》的金英旭PD（音譯）共同執導。\[1\]
+  - 由《[K-pop Star](https://zh.wikipedia.org/wiki/K-pop_Star "wikilink")》的朴尚勳PD（音譯）和《[Fantastic Duo](../Page/Fantastic_Duo.md "wikilink")》的金英旭PD（音譯）共同執導。\[1\]
   - 與Banijay國際公司共同企劃製作。\[2\]
   - 3百名現場觀眾，1萬名網上觀眾，對15組參賽者投票。
 
@@ -123,8 +118,8 @@ Master的身份出演。
 <td><p><a href="../Page/黃禮志.md" title="wikilink">黃禮志</a> （）</p></td>
 <td></td>
 <td><ul>
-<li><a href="../Page/JYP娛樂.md" title="wikilink">JYP娛樂旗下秘密武器練習生</a></li>
-<li>節目後<a href="../Page/JYP娛樂.md" title="wikilink">JYP娛樂旗下女團</a><a href="../Page/ITZY.md" title="wikilink">ITZY出道</a></li>
+<li><a href="../Page/JYP娛樂.md" title="wikilink">JYP娛樂</a>旗下秘密武器練習生</li>
+<li>節目後<a href="../Page/JYP娛樂.md" title="wikilink">JYP娛樂</a>旗下女團<a href="../Page/ITZY.md" title="wikilink">ITZY</a>出道</li>
 </ul></td>
 <td></td>
 <td></td>
@@ -580,10 +575,7 @@ Master的身份出演。
 | [YONGZOO](https://zh.wikipedia.org/wiki/YONGZOO "wikilink") | 015B 《暂时迷路》                                                                                | 480票                                   |      |
 | BIBI                                                        | BIBI 《Fly with Me》                                                                         | 450票                                   |      |
 
-Fan Master:
-[张允柱](../Page/張允柱.md "wikilink")、[朴山多拉](https://zh.wikipedia.org/wiki/Dara "wikilink")、
-[TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink")
-([娜琏](../Page/娜璉.md "wikilink")、[彩瑛](../Page/彩瑛.md "wikilink"))
+Fan Master: [张允柱](../Page/張允柱.md "wikilink")、[朴山多拉](https://zh.wikipedia.org/wiki/Dara "wikilink")、 [TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink") ([娜琏](../Page/娜璉.md "wikilink")、[彩瑛](../Page/彩瑛.md "wikilink"))
 
 ### 第五轮：晋级Top3
 
@@ -667,25 +659,16 @@ TWLV、<a href="../Page/林智敏.md" title="wikilink">林智敏</a>、<a href="
 
 ### 特輯：演唱會
 
-  - EP13：[THE FAN
-    TOP5](https://zh.wikipedia.org/wiki/THE_FAN_TOP5 "wikilink") THE FAN
-    LIVE ON－AIR CONCERT
+  - EP13：[THE FAN TOP5](https://zh.wikipedia.org/wiki/THE_FAN_TOP5 "wikilink") THE FAN LIVE ON－AIR CONCERT
 
 ## THE FAN TOP5
 
-  - [THE FAN
-    TOP3是指](https://zh.wikipedia.org/wiki/THE_FAN_TOP3 "wikilink")[Car,
-    the
-    garden](../Page/Car,_the_garden.md "wikilink")、[BIBI](https://zh.wikipedia.org/wiki/BIBI "wikilink")、[林智敏](../Page/林智敏.md "wikilink")。
-  - [THE FAN
-    TOP5是指](https://zh.wikipedia.org/wiki/THE_FAN_TOP5 "wikilink")[Car,
-    the
-    garden](../Page/Car,_the_garden.md "wikilink")、[BIBI](https://zh.wikipedia.org/wiki/BIBI "wikilink")、[林智敏](../Page/林智敏.md "wikilink")、[YONGZOO](https://zh.wikipedia.org/wiki/YONGZOO "wikilink")、[TWLV](https://zh.wikipedia.org/wiki/TWLV "wikilink")。
+  - [THE FAN TOP3是指](https://zh.wikipedia.org/wiki/THE_FAN_TOP3 "wikilink")[Car, the garden](../Page/Car,_the_garden.md "wikilink")、[BIBI](https://zh.wikipedia.org/wiki/BIBI "wikilink")、[林智敏](../Page/林智敏.md "wikilink")。
+  - [THE FAN TOP5是指](https://zh.wikipedia.org/wiki/THE_FAN_TOP5 "wikilink")[Car, the garden](../Page/Car,_the_garden.md "wikilink")、[BIBI](https://zh.wikipedia.org/wiki/BIBI "wikilink")、[林智敏](../Page/林智敏.md "wikilink")、[YONGZOO](https://zh.wikipedia.org/wiki/YONGZOO "wikilink")、[TWLV](https://zh.wikipedia.org/wiki/TWLV "wikilink")。
   - TOP5從3月開始以《THE FAN》為媒介的一年限定活動。\[7\]
   - TOP5將參加3月2日舉辦的聯合演唱會“THE FAN LIVE ON-AIR”。
   - 之後每個藝人將分別推出2張個人專輯，並製作聯合專輯，活動持續約1年時間，直到2020年2月。
-  - TOP5限定活動由企劃社[FAVE娛樂相關的](https://zh.wikipedia.org/wiki/FAVE娛樂 "wikilink")[The
-    Five文化產業專門會社負責經紀管理](https://zh.wikipedia.org/wiki/The_Five文化產業專門會社 "wikilink")，全面支持專輯與合作等活動。
+  - TOP5限定活動由企劃社[FAVE娛樂相關的](https://zh.wikipedia.org/wiki/FAVE娛樂 "wikilink")[The Five文化產業專門會社負責經紀管理](https://zh.wikipedia.org/wiki/The_Five文化產業專門會社 "wikilink")，全面支持專輯與合作等活動。
 
 ### 電台節目
 
@@ -731,21 +714,14 @@ TWLV、<a href="../Page/林智敏.md" title="wikilink">林智敏</a>、<a href="
   - [THE FAN](https://programs.sbs.co.kr/enter/thefan)的官方網站
   - [THE FAN](https://tv.naver.com/sbs.thefan)的NAVER網站
   - [THE FAN](https://www.instagram.com/sbs_thefan)的Instagram
-  - [THE
-    FAN](https://www.youtube.com/playlist?list=PLC4YPtlZPGDUgjBq7lYBCw6eQuice84Tq)的Youtube影音
-    1
-  - [THE
-    FAN](https://www.youtube.com/playlist?list=PLPik6UL1gQ6fBAryoGNnQ99c86dTCgyyO)的Youtube影音
-    2
+  - [THE FAN](https://www.youtube.com/playlist?list=PLC4YPtlZPGDUgjBq7lYBCw6eQuice84Tq)的Youtube影音 1
+  - [THE FAN](https://www.youtube.com/playlist?list=PLPik6UL1gQ6fBAryoGNnQ99c86dTCgyyO)的Youtube影音 2
 
 **THE FAN TOP5**
 
   -
   -
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:SBS](https://zh.wikipedia.org/wiki/Category:SBS "wikilink")
-[Category:THE_FAN_TOP5](https://zh.wikipedia.org/wiki/Category:THE_FAN_TOP5 "wikilink")
+[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:SBS](https://zh.wikipedia.org/wiki/Category:SBS "wikilink") [Category:THE_FAN_TOP5](https://zh.wikipedia.org/wiki/Category:THE_FAN_TOP5 "wikilink")
 
 1.
 2.

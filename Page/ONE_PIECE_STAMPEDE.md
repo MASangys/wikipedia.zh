@@ -1,5 +1,4 @@
-《**航海王：奪寶爭霸戰**》（）於2019年8月9日在日本上映的[動畫電影](https://zh.wikipedia.org/wiki/動畫電影 "wikilink")。為漫畫《[ONE
-PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版系列的第](https://zh.wikipedia.org/wiki/劇場版 "wikilink")14部作品，同時是電視動畫20周年紀念作品。\[1\]\[2\]\[3\]
+《**航海王：奪寶爭霸戰**》（）於2019年8月9日在日本上映的[動畫電影](https://zh.wikipedia.org/wiki/動畫電影 "wikilink")。為漫畫《[ONE PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版系列的第](https://zh.wikipedia.org/wiki/劇場版 "wikilink")14部作品，同時是電視動畫20周年紀念作品。\[1\]\[2\]\[3\]
 
 ## 劇情
 
@@ -281,10 +280,9 @@ PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版系列的第](https://zh.wik
   -
     聲優：[指原莉乃](../Page/指原莉乃.md "wikilink")\[10\]（日本）
     海賊萬博會的[歌姬](https://zh.wikipedia.org/wiki/歌姬 "wikilink")，有著很捲曲的淺綠色頭髮、臉上有雀斑的少女，性格善良親切但有些愚笨。
-    超人系「**幻影果實**」的幻影人，能將碰到的東西以幻影的形式出現，即使只是照片也能將物品或人以幻影的形式出現。\[11\]\[12\]
+    超人系「**[幻影果實](../Page/惡魔果實.md "wikilink")**」的幻影人，能將碰到的東西以幻影的形式出現，即使只是照片也能將物品或人以幻影的形式出現。\[11\]\[12\]
     在舞台秀3的故事中，安在島上開演唱會時遇見草帽一夥，她和他們成為朋友。後被巴其等人抓住，被迫創造幻影對付草帽一夥，但草帽一夥仍設法擊敗巴其並成功救出安。安為感謝他們，並向魯夫提出展示艾斯的幻影，但魯夫最後還是拒絕了。
-    於東京鐵塔航海王主題樂園的真人舞台秀「[ONE PIECE LIVE ATTRACTION
-    3](../Page/ONE_PIECE_LIVE_ATTRACTION.md "wikilink")」初次登場，為原作者尾田榮一郎設計的原創角色，\[13\]並由[早見沙織聲演](../Page/早見沙織.md "wikilink")。\[14\]設計是來自於日本樂團[GReeeeN](../Page/GReeeeN.md "wikilink")，和尾田是好友，為此在舞台秀寫了兩首安的專屬歌曲。
+    於東京鐵塔航海王主題樂園的真人舞台秀「[ONE PIECE LIVE ATTRACTION 3](../Page/ONE_PIECE_LIVE_ATTRACTION.md "wikilink")」初次登場，為原作者尾田榮一郎設計的原創角色，\[13\]並由[早見沙織](../Page/早見沙織.md "wikilink")聲演。\[14\]設計是來自於日本樂團[GReeeeN](../Page/GReeeeN.md "wikilink")，和尾田是好友，為此在舞台秀寫了兩首安的專屬歌曲。
 
 <!-- end list -->
 
@@ -332,8 +330,7 @@ PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版系列的第](https://zh.wik
 
   -
   -
-[Category:2019年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2019年日本劇場動畫 "wikilink")
-[Category:ONE_PIECE劇場版](https://zh.wikipedia.org/wiki/Category:ONE_PIECE劇場版 "wikilink")
+[Category:2019年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2019年日本劇場動畫 "wikilink") [Category:ONE_PIECE劇場版](https://zh.wikipedia.org/wiki/Category:ONE_PIECE劇場版 "wikilink")
 
 1.
 
@@ -360,8 +357,7 @@ PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版系列的第](https://zh.wik
 14.
 
 15.
-16. [映画「ワンピース」追加キャストに竹中直人ら 登場キャラ＆声優は歴代最多に |
-    アニメ！アニメ！](https://animeanime.jp/article/2019/05/25/45694.html)、2019年5月25日閲覧。
+16. [映画「ワンピース」追加キャストに竹中直人ら 登場キャラ＆声優は歴代最多に | アニメ！アニメ！](https://animeanime.jp/article/2019/05/25/45694.html)、2019年5月25日閲覧。
 
 17.
 18.

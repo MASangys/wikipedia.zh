@@ -1,11 +1,8 @@
-**CDATA**，意为**character
-data**，是[标记语言](https://zh.wikipedia.org/wiki/标记语言 "wikilink")[SGML与](../Page/SGML.md "wikilink")[XML](../Page/XML.md "wikilink")，表示文档的特定部分是普通的字符数据，而不是非字符数据或有特定、限定结构的字符数据。
+**CDATA**，意为**character data**，是[标记语言](https://zh.wikipedia.org/wiki/标记语言 "wikilink")[SGML](../Page/SGML.md "wikilink")与[XML](../Page/XML.md "wikilink")，表示文档的特定部分是普通的字符数据，而不是非字符数据或有特定、限定结构的字符数据。
 
 ## XML中CDATA
 
-在XML文档或外部实体中，一个**CDATA
-section**是一段按字面解释的内容，不作为标记文本。字符用CDATA节表示或者按照标准语法表示，并无差异。例如"`<`"
-与 "`&`" 分别表示 "`<`" 与 "`&`"。
+在XML文档或外部实体中，一个**CDATA section**是一段按字面解释的内容，不作为标记文本。字符用CDATA节表示或者按照标准语法表示，并无差异。例如"`<`" 与 "`&`" 分别表示 "`<`" 与 "`&`"。
 
 ### 语法与解释
 
@@ -42,9 +39,7 @@ John Smith</sender>]]>
 
 也就是说，"标签"与"John Smith"具有相同状态—都被当作了文本。
 
-类似地，如果[字符值引用](https://zh.wikipedia.org/wiki/字符值引用 "wikilink")
-`ð`在元素内容中出现，将被解释为单个[Unicode字符](https://zh.wikipedia.org/wiki/Unicode "wikilink")00F0
-(小写字符[Ð](../Page/Ð.md "wikilink"))。如果出现在CDATA节中，将被解释为6个字符：[&](https://zh.wikipedia.org/wiki/& "wikilink")、[井號符](https://zh.wikipedia.org/wiki/井號符 "wikilink")、2、4、0、分号。
+类似地，如果[字符值引用](https://zh.wikipedia.org/wiki/字符值引用 "wikilink") `ð`在元素内容中出现，将被解释为单个[Unicode字符](https://zh.wikipedia.org/wiki/Unicode "wikilink")00F0 (小写字符[Ð](../Page/Ð.md "wikilink"))。如果出现在CDATA节中，将被解释为6个字符：[&](https://zh.wikipedia.org/wiki/& "wikilink")、[井號符](https://zh.wikipedia.org/wiki/井號符 "wikilink")、2、4、0、分号。
 
 CDATA节不能嵌套。如果文本中需要包含3字符序列"`]]>`"，可以用两个相邻的CDATA节表示它，如下例：
 
@@ -64,7 +59,6 @@ xml声明<code>
 ## 参考文献
 
   - [CDATA Confusion](http://www.flightlab.com/~joe/sgml/cdata.html)
-  - [Character Data and Markup (in
-    XML)](http://www.w3.org/TR/REC-xml/#syntax)
+  - [Character Data and Markup (in XML)](http://www.w3.org/TR/REC-xml/#syntax)
 
 [Category:XML](https://zh.wikipedia.org/wiki/Category:XML "wikilink")

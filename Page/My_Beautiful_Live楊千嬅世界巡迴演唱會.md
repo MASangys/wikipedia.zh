@@ -1,7 +1,4 @@
-**《My Beautiful
-Live楊千嬅世界巡迴演唱會》**是[香港](../Page/香港.md "wikilink")[天后](../Page/天后.md "wikilink")[楊千嬅在](../Page/楊千嬅.md "wikilink")2019年及2020年於世界各地開展的大型世界巡迴演出活動。此次全新巡迴演唱會《My
-Beautiful
-Live》（美麗人生）從[廣州出發](https://zh.wikipedia.org/wiki/廣州 "wikilink")，途徑珠海、武漢、深圳、北京、成都、重慶、南寧等內地城市及澳洲、馬來西亞、美國、加拿大等海外地區，將進行超過50場演出。
+**《My Beautiful Live楊千嬅世界巡迴演唱會》**是[香港](../Page/香港.md "wikilink")[天后](../Page/天后.md "wikilink")[楊千嬅](../Page/楊千嬅.md "wikilink")在2019年及2020年於世界各地開展的大型世界巡迴演出活動。此次全新巡迴演唱會《My Beautiful Live》（美麗人生）從[廣州出發](https://zh.wikipedia.org/wiki/廣州 "wikilink")，途徑珠海、武漢、深圳、北京、成都、重慶、南寧等內地城市及澳洲、馬來西亞、美國、加拿大等海外地區，將進行超過50場演出。
 
 全新國語歌曲《穿越》首次於演唱會登場，亦為是次巡演的主題曲。
 
@@ -201,15 +198,51 @@ Live》（美麗人生）從[廣州出發](https://zh.wikipedia.org/wiki/廣州 
 </tr>
 <tr class="odd">
 <td><p>19</p></td>
-<td><p>2019年10月26日</p></td>
-<td><p><a href="../Page/江门市.md" title="wikilink">江門</a></p></td>
-<td><p>江門濱江體育中心體育場</p></td>
+<td><p>2019年10月3日</p></td>
 <td></td>
-<td><p><small>室外體育場</small></p></td>
+<td><p><a href="../Page/墨尔本.md" title="wikilink">墨爾本</a></p></td>
+<td><p>Melbourne Convention Centre</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>20</p></td>
+<td><p>2019年10月6日</p></td>
+<td><p><a href="../Page/悉尼.md" title="wikilink">悉尼</a></p></td>
+<td><p>The Star Event Centre</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>21</p></td>
+<td><p>2019年10月9日</p></td>
+<td></td>
+<td><p><a href="../Page/奧克蘭_(紐西蘭).md" title="wikilink">奧克蘭</a></p></td>
+<td><p><a href="../Page/Trusts體育館.md" title="wikilink">The Trusts Arena</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>22</p></td>
+<td><p>2019年10月26日</p></td>
+<td></td>
+<td><p><a href="../Page/江门市.md" title="wikilink">江門</a></p></td>
+<td><p>江門濱江體育中心體育場</p></td>
+<td></td>
+<td><p><small>室外體育場</small></p></td>
+</tr>
+<tr class="odd">
+<td><p>23</p></td>
+<td><p>2019年</p></td>
+<td><p><a href="../Page/昆明市.md" title="wikilink">昆明</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>24</p></td>
 <td><p>2019年11月2日</p></td>
 <td><p><a href="../Page/南宁市.md" title="wikilink">南寧</a></p></td>
 <td><p>廣西體育中心主體育場</p></td>
@@ -218,7 +251,7 @@ Live》（美麗人生）從[廣州出發](https://zh.wikipedia.org/wiki/廣州 
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>21</p></td>
+<td><p>25</p></td>
 <td><p>2019年11月16日</p></td>
 <td><p><a href="../Page/成都市.md" title="wikilink">成都</a></p></td>
 <td></td>
@@ -227,7 +260,7 @@ Live》（美麗人生）從[廣州出發](https://zh.wikipedia.org/wiki/廣州 
 <td></td>
 </tr>
 <tr class="even">
-<td><p>22</p></td>
+<td><p>26</p></td>
 <td><p>2019年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/武漢" title="wikilink">武漢</a></p></td>
 <td></td>
@@ -238,8 +271,7 @@ Live》（美麗人生）從[廣州出發](https://zh.wikipedia.org/wiki/廣州 
 </tbody>
 </table>
 
-2018年12月20日在北京舉行的《My Beautiful Live 世界巡迴演唱會》
-發佈會上公布的巡迴地點：廣州、珠海、武漢、上海、河源、湛江、深圳、江門、澳門、北京、重慶、成都、鄭州、佛山、惠州、馬來西亞雲頂、澳洲悉尼、澳洲墨爾本、汕頭、南寧、無錫、美加、香港
+2018年12月20日在北京舉行的《My Beautiful Live 世界巡迴演唱會》 發佈會上公布的巡迴地點：廣州、珠海、武漢、上海、河源、湛江、深圳、江門、澳門、北京、重慶、成都、鄭州、佛山、惠州、馬來西亞雲頂、澳洲悉尼、澳洲墨爾本、汕頭、南寧、無錫、美加、香港
 
 其他官方提及的巡迴地點：瀋陽、紐西蘭奧克蘭、新加坡、 南京、 東莞、英國、昆明
 
@@ -249,14 +281,12 @@ Live》（美麗人生）從[廣州出發](https://zh.wikipedia.org/wiki/廣州 
 
 **廣州站2019年3月30日**
 
-**珠海站2019年4月13日**
-**𦘦慶站2019年5月11日****湛江站2019年5月18日****深圳站2019年5月24日/25日****佛山站2019年6月14日/15日****澳門站2019年6月22日/23日****北京站2019年6月29日**
+**珠海站2019年4月13日**  **𦘦慶站2019年5月11日****湛江站2019年5月18日****深圳站2019年5月24日/25日****佛山站2019年6月14日/15日****澳門站2019年6月22日/23日****北京站2019年6月29日**
 
 ## 參考資料
 
 <references />
 
-[Category:演唱會](https://zh.wikipedia.org/wiki/Category:演唱會 "wikilink")
-[Category:巡迴音樂會](https://zh.wikipedia.org/wiki/Category:巡迴音樂會 "wikilink")
+[Category:演唱會](https://zh.wikipedia.org/wiki/Category:演唱會 "wikilink") [Category:巡迴音樂會](https://zh.wikipedia.org/wiki/Category:巡迴音樂會 "wikilink")
 
 1.

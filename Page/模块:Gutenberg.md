@@ -10,8 +10,7 @@ function p.author(frame)
 ` local id       = nil                                             -- author name, or number. Name goes to search page, number goes direct to author page `
 ` local name     = nil                                             -- display name on Wikipedia (default: article title)`
 ` local url      = nil`
-` local tagline  = "at `[`Project``
- ``Gutenberg`](https://zh.wikipedia.org/wiki/Project_Gutenberg "wikilink")`"`
+` local tagline  = "at `[`Project``   ``Gutenberg`](https://zh.wikipedia.org/wiki/Project_Gutenberg "wikilink")`"`
 ` local urlheadname  = "`<https://www.gutenberg.org/author/>`"          `
 ` local urlheadnumb  = "`<https://www.gutenberg.org/ebooks/author/>`" `
 ` local urlhead  = nil`
@@ -19,9 +18,7 @@ function p.author(frame)
 ` -- Argument |id=`
 ` id = trimArg(args[1]) or trimArg(args.id)`
 ` if not id then`
-`   error("Parameter id is missing. See `[`Template:"``   ``..``
- ``tname``   ``..``
- ``"`](https://zh.wikipedia.org/wiki/Template:"_.._tname_.._" "wikilink")` documentation")`
+`   error("Parameter id is missing. See `[`Template:"``   ``..``   ``tname``   ``..``   ``"`](https://zh.wikipedia.org/wiki/Template:"_.._tname_.._" "wikilink")` documentation")`
 ` else`
 `   if tonumber(id) then -- it's a number`
 `     urlhead = urlheadnumb`
@@ -62,16 +59,13 @@ function p.Australia(frame)
 ` local url      = nil`
 ` local urlhead  = "`<http://gutenberg.net.au/>`"`
 ` local prefix   = ""`
-` local tagline  = "at `[`Project``   ``Gutenberg``
- ``Australia`](https://zh.wikipedia.org/wiki/Project_Gutenberg_Australia "wikilink")`"`
+` local tagline  = "at `[`Project``   ``Gutenberg``   ``Australia`](https://zh.wikipedia.org/wiki/Project_Gutenberg_Australia "wikilink")`"`
 ` local italic   = "''"`
 
 ` -- Argument |id=`
 ` id = trimArg(args[1]) or trimArg(args.id)`
 ` if not id then`
-`   error("Parameter id is missing. See `[`Template:"``   ``..``
- ``tname``   ``..``
- ``"`](https://zh.wikipedia.org/wiki/Template:"_.._tname_.._" "wikilink")` documentation")`
+`   error("Parameter id is missing. See `[`Template:"``   ``..``   ``tname``   ``..``   ``"`](https://zh.wikipedia.org/wiki/Template:"_.._tname_.._" "wikilink")` documentation")`
 ` end `
 
 ` -- Argument |name=`
@@ -116,16 +110,13 @@ function p.Canada(frame)
 ` local urlbook  = "showbook.php?pid="`
 ` local urlauth  = "csearch.php?author="`
 ` local prefix   = ""`
-` local tagline  = "at `[`Faded``
- ``Page`](https://zh.wikipedia.org/wiki/Distributed_Proofreaders_Canada "wikilink")` (Canada)"`
+` local tagline  = "at `[`Faded``   ``Page`](https://zh.wikipedia.org/wiki/Distributed_Proofreaders_Canada "wikilink")` (Canada)"`
 ` local italic   = "''"`
 
 ` -- Argument |id=`
 ` id = trimArg(args[1]) or trimArg(args.id)`
 ` if not id then`
-`   error("Parameter id is missing. See `[`Template:"``   ``..``
- ``tname``   ``..``
- ``"`](https://zh.wikipedia.org/wiki/Template:"_.._tname_.._" "wikilink")` documentation")`
+`   error("Parameter id is missing. See `[`Template:"``   ``..``   ``tname``   ``..``   ``"`](https://zh.wikipedia.org/wiki/Template:"_.._tname_.._" "wikilink")` documentation")`
 ` end `
 
 ` -- Argument |name=`

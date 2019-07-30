@@ -1,15 +1,8 @@
-**7.5厘米 le.IG 18步兵支援火炮**（7.5 cm le IG
-18），是[德意志国防军在](../Page/德意志國防軍.md "wikilink")[二战期间使用的步兵支援炮](https://zh.wikipedia.org/wiki/二战 "wikilink")。
+**7.5厘米 le.IG 18步兵支援火炮**（7.5 cm le IG 18），是[德意志国防军在](../Page/德意志國防軍.md "wikilink")[二战期间使用的步兵支援炮](https://zh.wikipedia.org/wiki/二战 "wikilink")。
 
-此炮自1927年由[莱茵金屬开始研制](../Page/莱茵金属.md "wikilink")，設計中的装甲擋板可以保护砲手们。此炮有山炮衍生版，7.5厘米
-le.GebIG
-18，其运输時可以分解成6到10份，最重的重74.9公斤，通常每个山地营能分配到两門炮。而1939年生产了6門空降型的7.5厘米
-le.IG 18F，能够分解成四个140公斤的载荷。此改型換了更小的轮子及去掉了盾牌。
+此炮自1927年由[莱茵金屬开始研制](../Page/莱茵金属.md "wikilink")，設計中的装甲擋板可以保护砲手们。此炮有山炮衍生版，7.5厘米 le.GebIG 18，其运输時可以分解成6到10份，最重的重74.9公斤，通常每个山地营能分配到两門炮。而1939年生产了6門空降型的7.5厘米 le.IG 18F，能够分解成四个140公斤的载荷。此改型換了更小的轮子及去掉了盾牌。
 
-此外还有一种步兵支援炮，称作7.5 cm Infanteriegeschütz L/13，设计上作为le.IG 18的後繼者，而Ie.IG
-18本身則可以分为4 - 6个载荷。然而對7.5 cm Infanteriegeschütz
-L/13进行测试後，德国陆军认为它比起现有的Ie.IG
-18改进不大，不值得換裝，因此陆军保留了Ie.IG 18。
+此外还有一种步兵支援炮，称作7.5 cm Infanteriegeschütz L/13，设计上作为le.IG 18的後繼者，而Ie.IG 18本身則可以分为4 - 6个载荷。然而對7.5 cm Infanteriegeschütz L/13进行测试後，德国陆军认为它比起现有的Ie.IG 18改进不大，不值得換裝，因此陆军保留了Ie.IG 18。
 
 ## 7.5 cm le.IG 18 和 7.5 cm le.GebIG 18 的數據
 
@@ -35,11 +28,7 @@ L/13进行测试後，德国陆军认为它比起现有的Ie.IG
 
 ## 图集
 
-<File:Baltikum> 1942 -leichten Infanteriegeschützes 7,5cm lelG 18-
-by-RaBoe.jpg| <File:Bundesarchiv> Bild 183-B22222, Russland, Kampf um
-Stalingrad, Infanterie.jpg| <File:Bundesarchiv> Bild 101I-219-0594-34,
-Russland-Mitte-Süd, leichtes Infanteriegeschütz.jpg| <File:Drawing>
-leig18.jpg|
+<File:Baltikum> 1942 -leichten Infanteriegeschützes 7,5cm lelG 18- by-RaBoe.jpg| <File:Bundesarchiv> Bild 183-B22222, Russland, Kampf um Stalingrad, Infanterie.jpg| <File:Bundesarchiv> Bild 101I-219-0594-34, Russland-Mitte-Süd, leichtes Infanteriegeschütz.jpg| <File:Drawing> leig18.jpg|
 
 ## 参見
 
@@ -48,11 +37,8 @@ leig18.jpg|
 
 ## 参考文献
 
-  - Hogg, Ian V. *German Artillery of World War Two*. 2nd corrected
-    edition. Mechanicsville, PA: Stackpole Books, 1997
+  - Hogg, Ian V. *German Artillery of World War Two*. 2nd corrected edition. Mechanicsville, PA: Stackpole Books, 1997
 
 
 
-[Category:75毫米火炮](https://zh.wikipedia.org/wiki/Category:75毫米火炮 "wikilink")
-[Category:步兵炮](https://zh.wikipedia.org/wiki/Category:步兵炮 "wikilink")
-[Category:有未审阅翻译的页面](https://zh.wikipedia.org/wiki/Category:有未审阅翻译的页面 "wikilink")
+[Category:75毫米火炮](https://zh.wikipedia.org/wiki/Category:75毫米火炮 "wikilink") [Category:步兵炮](https://zh.wikipedia.org/wiki/Category:步兵炮 "wikilink") [Category:有未审阅翻译的页面](https://zh.wikipedia.org/wiki/Category:有未审阅翻译的页面 "wikilink")

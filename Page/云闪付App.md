@@ -7,8 +7,7 @@
 
 ## 参考资料
 
-[Category:在线支付](https://zh.wikipedia.org/wiki/Category:在线支付 "wikilink")
-[Category:中国银联](https://zh.wikipedia.org/wiki/Category:中国银联 "wikilink")
+[Category:在线支付](https://zh.wikipedia.org/wiki/Category:在线支付 "wikilink") [Category:中国银联](https://zh.wikipedia.org/wiki/Category:中国银联 "wikilink")
 
 1.
 2.

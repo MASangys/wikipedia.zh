@@ -501,10 +501,7 @@
 
 ## 參考資料
 
-[Category:马来西亚电影奖项](https://zh.wikipedia.org/wiki/Category:马来西亚电影奖项 "wikilink")
-[Category:2017年電影獎項](https://zh.wikipedia.org/wiki/Category:2017年電影獎項 "wikilink")
-[Category:2017年馬來西亞](https://zh.wikipedia.org/wiki/Category:2017年馬來西亞 "wikilink")
-[Category:2017年11月](https://zh.wikipedia.org/wiki/Category:2017年11月 "wikilink")
+[Category:马来西亚电影奖项](https://zh.wikipedia.org/wiki/Category:马来西亚电影奖项 "wikilink") [Category:2017年電影獎項](https://zh.wikipedia.org/wiki/Category:2017年電影獎項 "wikilink") [Category:2017年馬來西亞](https://zh.wikipedia.org/wiki/Category:2017年馬來西亞 "wikilink") [Category:2017年11月](https://zh.wikipedia.org/wiki/Category:2017年11月 "wikilink")
 
 1.  [超儀得獎爆賭王介意又做雞](https://hk.entertainment.appledaily.com/entertainment/daily/article/20171106/20205378)
 

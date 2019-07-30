@@ -1,5 +1,4 @@
-**宋亨俊**（，，），），現為[PRODUCE X
-101的參賽者](../Page/PRODUCE_X_101.md "wikilink")。
+**宋亨俊**（，，），），現為[PRODUCE X 101的參賽者](../Page/PRODUCE_X_101.md "wikilink")。
 
 ## 影視作品
 

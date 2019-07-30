@@ -24,8 +24,7 @@
 
 ## 故事
 
-友好的動物靈警告主角們，地獄的動物靈試圖统治地上的世界。爲了防止這個情況最終成爲現實，主角們隨同這些動物靈一同去地獄一探究竟。這次的主角組爲[博麗靈夢](../Page/博麗靈夢.md "wikilink")、[霧雨魔理沙](../Page/霧雨魔理沙.md "wikilink")和[魂魄妖夢](https://zh.wikipedia.org/wiki/魂魄妖夢 "wikilink")。ZUN自稱這次的遊戲比以往發佈的遊戲更黑暗、有更多野獸的成分，略有攻擊性。
-\[1\]
+友好的動物靈警告主角們，地獄的動物靈試圖统治地上的世界。爲了防止這個情況最終成爲現實，主角們隨同這些動物靈一同去地獄一探究竟。這次的主角組爲[博麗靈夢](../Page/博麗靈夢.md "wikilink")、[霧雨魔理沙](../Page/霧雨魔理沙.md "wikilink")和[魂魄妖夢](https://zh.wikipedia.org/wiki/魂魄妖夢 "wikilink")。ZUN自稱這次的遊戲比以往發佈的遊戲更黑暗、有更多野獸的成分，略有攻擊性。 \[1\]
 
 ## 角色
 
@@ -43,8 +42,146 @@
 
 <!-- end list -->
 
-  - **古代魚的攜子護衛 牛崎潤美**（日語：{{lang|ja|
+  - **古代魚的攜子護衛 牛崎潤美**（日語：，Ushizaki Urumi）
 
 <!-- end list -->
 
+  - **地獄口岸的守護神 庭渡久侘歌**（日語：，Niwatari Kutaka）
+
+## 關卡流程
+
+<table>
+<thead>
+<tr class="header">
+<th><p>關卡</p></th>
+<th><p>關卡名稱</p></th>
+<th><p>中文譯名</p></th>
+<th><p>地點</p></th>
+<th><p>中頭目</p></th>
+<th><p>頭目</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>第一關</p></td>
+<td></td>
+<td><p>無量千萬的遺憾<br />
+Infinity Make-work</p></td>
+<td><p>賽之河原（）</p></td>
+<td><p>戎瓔花（</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>第二關</p></td>
+<td></td>
+<td><p>御影石的嬰兒<br />
+Cross the Styx</p></td>
+<td><p>三途河（）</p></td>
+<td><p>牛崎潤美（）</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第三關</p></td>
+<td></td>
+<td><p>鬼渡的口岸<br />
+Lonely Amaryllis</p></td>
+<td><p>彼岸（）</p></td>
+<td><p>庭渡久侘歌（）</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+## 曲目一覽
+
+<table>
+<thead>
+<tr class="header">
+<th><p>曲目</p></th>
+<th><p>名稱</p></th>
+<th><p>中文譯名</p></th>
+<th><p>出現場合</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1</p></td>
+<td></td>
+<td><p>沉默的獸靈</p></td>
+<td><p>主選單</p></td>
+</tr>
+<tr class="even">
+<td><p>2</p></td>
+<td></td>
+<td><p>只有地藏知曉的哀歎</p></td>
+<td><p>第一關道中</p></td>
+</tr>
+<tr class="odd">
+<td><p>3</p></td>
+<td></td>
+<td><p>Jelly Stone<br />
+（水母石）</p></td>
+<td><p>第一關頭目戰</p></td>
+</tr>
+<tr class="even">
+<td><p>4</p></td>
+<td></td>
+<td><p>Lost River<br />
+（失落的河流）</p></td>
+<td><p>第二關道中</p></td>
+</tr>
+<tr class="odd">
+<td><p>5</p></td>
+<td></td>
+<td><p>石之嬰兒與水中牛</p></td>
+<td><p>第二關頭目戰</p></td>
+</tr>
+<tr class="even">
+<td><p>6</p></td>
+<td></td>
+<td><p>不朽的曼珠沙華</p></td>
+<td><p>第三關道中</p></td>
+</tr>
+<tr class="odd">
+<td><p>7</p></td>
+<td></td>
+<td><p>Seraphic Chicken<br />
+（天使般的雞）</p></td>
+<td><p>第三關頭目戰</p></td>
+</tr>
+<tr class="even">
+<td><p>8</p></td>
+<td></td>
+<td><p>Player's Score<br />
+（玩家得分）</p></td>
+<td><p>分數與Replay登錄畫面<br />
+重新收錄自<a href="https://zh.wikipedia.org/wiki/妖精大戰爭" title="wikilink">妖精大戰爭</a></p></td>
+</tr>
+</tbody>
+</table>
+
+## 开发
+
+本作于2019年5月5日第16次博麗神社例大祭上發佈了體驗版\[2\]，預定在夏季完成製作並發佈。
+
+## 注释
+
+## 參考資料
+
+## 外部連接
+
+  - [官方給出的數字體驗版下載地址](http://mirror.studio-ramble.com/upload/nolook/ShanghaiAlice/fff943f74f72b1ee0a68e46e218113d4/th17tr.zip)
+  - [Steam上的東方鬼形獸](https://store.steampowered.com/app/1079160/__Wily_Beast_and_Weakest_Creature/)
+
+[Category:東方Project](https://zh.wikipedia.org/wiki/Category:東方Project "wikilink") [Category:未来电子游戏](https://zh.wikipedia.org/wiki/Category:未来电子游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
+
 1.
+2.

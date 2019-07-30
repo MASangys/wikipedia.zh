@@ -1,8 +1,6 @@
-《**TXT音樂作品列表**》主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂團體](https://zh.wikipedia.org/wiki/男子音樂團體 "wikilink")**[TOMORROW
-X TOGETHER](../Page/TXT_\(組合\).md "wikilink")**歷年發行的各類音樂專輯、單曲。
+《**TXT音樂作品列表**》主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂團體](https://zh.wikipedia.org/wiki/男子音樂團體 "wikilink")**[TOMORROW X TOGETHER](../Page/TXT_\(組合\).md "wikilink")**歷年發行的各類音樂專輯、單曲。
 
-TOMORROW X TOGETHER專輯包括《[The Dream Chapter:
-STAR](https://zh.wikipedia.org/wiki/The_Dream_Chapter:_STAR "wikilink")》\[1\]。
+TOMORROW X TOGETHER專輯包括《[The Dream Chapter: STAR](https://zh.wikipedia.org/wiki/The_Dream_Chapter:_STAR "wikilink")》\[1\]。
 
 ## 韓語作品
 
@@ -26,7 +24,7 @@ STAR](https://zh.wikipedia.org/wiki/The_Dream_Chapter:_STAR "wikilink")》\[1\]�
 <td><p><a href="https://zh.wikipedia.org/wiki/告示牌" title="wikilink">美</a></p></td>
 <td><p>臺<br />
 [2]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Ultratop榜" title="wikilink">比</a><br />
+<td><p><a href="../Page/Ultratop榜.md" title="wikilink">比</a><br />
 <ref>韓語迷你專輯在比利時Ultratop榜專輯榜週榜成績：</p>
 <ul>
 <li></li>
@@ -207,10 +205,7 @@ STAR](https://zh.wikipedia.org/wiki/The_Dream_Chapter:_STAR "wikilink")》\[1\]�
 
 ## 參考資料
 
-[Category:TXT](https://zh.wikipedia.org/wiki/Category:TXT "wikilink")
-[Category:韩国音乐作品列表](https://zh.wikipedia.org/wiki/Category:韩国音乐作品列表 "wikilink")
-[Category:流行音樂作品列表](https://zh.wikipedia.org/wiki/Category:流行音樂作品列表 "wikilink")
-[Category:流行樂團音樂作品列表](https://zh.wikipedia.org/wiki/Category:流行樂團音樂作品列表 "wikilink")
+[Category:TXT](https://zh.wikipedia.org/wiki/Category:TXT "wikilink") [Category:韩国音乐作品列表](https://zh.wikipedia.org/wiki/Category:韩国音乐作品列表 "wikilink") [Category:流行音樂作品列表](https://zh.wikipedia.org/wiki/Category:流行音樂作品列表 "wikilink") [Category:流行樂團音樂作品列表](https://zh.wikipedia.org/wiki/Category:流行樂團音樂作品列表 "wikilink")
 
 1.
 2.  韓語迷你專輯在臺灣5大唱片日韓榜銷售週榜成績：

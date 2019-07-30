@@ -9,13 +9,11 @@ end
 local function iconAndTitle(class, title)
 
 `   title = title or mw.title.getCurrentTitle()`
-`   return classicon(class) .. '`[`'``   ``..``   ``title``   ``..``
- ``'`](https://zh.wikipedia.org/wiki/'_.._title_.._' "wikilink")`'`
+`   return classicon(class) .. '`[`'``   ``..``   ``title``   ``..``   ``'`](https://zh.wikipedia.org/wiki/'_.._title_.._' "wikilink")`'`
 
 end
 
-local function buildItem(talkPageContent, title, tamplateAlias,
-classAlias)
+local function buildItem(talkPageContent, title, tamplateAlias, classAlias)
 
 `   local pos, templateName`
 
@@ -28,8 +26,7 @@ classAlias)
 `   end`
 `   `
 `   if templateName == nil then`
-`       return '`[`'``   ``..``   ``title``   ``..``
- ``'`](https://zh.wikipedia.org/wiki/'_.._title_.._' "wikilink")`'`
+`       return '`[`'``   ``..``   ``title``   ``..``   ``'`](https://zh.wikipedia.org/wiki/'_.._title_.._' "wikilink")`'`
 `   end`
 `   `
 `   for _, v in ipairs(classAlias) do`

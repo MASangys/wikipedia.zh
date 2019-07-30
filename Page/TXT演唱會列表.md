@@ -1,12 +1,8 @@
-《*'
-TXT演唱會列表**》主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂團體](https://zh.wikipedia.org/wiki/男子音樂團體 "wikilink")**[TOMORROW
-X
-TOGETHER](https://zh.wikipedia.org/wiki/TOMORROW_X_TOGETHER "wikilink")*'歷年舉行的演唱會、大型公開演出活動與其他演出。
+《*' TXT演唱會列表**》主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂團體](https://zh.wikipedia.org/wiki/男子音樂團體 "wikilink")**[TOMORROW X TOGETHER](https://zh.wikipedia.org/wiki/TOMORROW_X_TOGETHER "wikilink")*'歷年舉行的演唱會、大型公開演出活動與其他演出。
 
 ## Showcase
 
-  - **韓國首張迷你專輯出道Showcase《TOMORROW X TOGETHER DEBUT SHOWCASE
-    'STAR'》**\[1\]
+  - **韓國首張迷你專輯出道Showcase《TOMORROW X TOGETHER DEBUT SHOWCASE 'STAR'》**\[1\]
 
 <table>
 <tbody>
@@ -31,8 +27,7 @@ TOGETHER](https://zh.wikipedia.org/wiki/TOMORROW_X_TOGETHER "wikilink")*'歷年�
 </tbody>
 </table>
 
-  - **美國首場巡迴Showcase《[TOMORROW X TOGETHER SHOWCASE: STAR in
-    US](../Page/TOMORROW_X_TOGETHER_SHOWCASE:_STAR_in_US.md "wikilink")》**\[2\]
+  - **美國首場巡迴Showcase《[TOMORROW X TOGETHER SHOWCASE: STAR in US](../Page/TOMORROW_X_TOGETHER_SHOWCASE:_STAR_in_US.md "wikilink")》**\[2\]
 
 <table>
 <tbody>
@@ -167,8 +162,7 @@ TOGETHER](https://zh.wikipedia.org/wiki/TOMORROW_X_TOGETHER "wikilink")*'歷年�
 
 ## 參考來源
 
-[Category:TXT](https://zh.wikipedia.org/wiki/Category:TXT "wikilink")
-[Category:巡迴演唱會列表](https://zh.wikipedia.org/wiki/Category:巡迴演唱會列表 "wikilink")
+[Category:TXT](https://zh.wikipedia.org/wiki/Category:TXT "wikilink") [Category:巡迴演唱會列表](https://zh.wikipedia.org/wiki/Category:巡迴演唱會列表 "wikilink")
 
 1.
 2.

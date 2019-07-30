@@ -1,14 +1,8 @@
 [IZONE_Logo.png](https://zh.wikipedia.org/wiki/File:IZONE_Logo.png "fig:IZONE_Logo.png")
 
-**IZ\*ONE**（；）\[1\]\[2\]是由韓日合作選秀節目《[PRODUCE
-48](../Page/PRODUCE_48.md "wikilink")》最終決選出線的12名成員所組成，於2018年出道的期間限定之[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")。成員均有各自所屬的經紀公司，組合整體所屬的經紀公司則為[Off
-The
-Record娛樂](https://zh.wikipedia.org/wiki/Off_The_Record娛樂 "wikilink")。成員依節目名次排列為[張員瑛](../Page/張員瑛.md "wikilink")、[宮脇咲良](../Page/宮脇咲良.md "wikilink")、[曺柔理](../Page/曺柔理.md "wikilink")、[崔叡娜](../Page/崔叡娜.md "wikilink")、[安兪真](../Page/安兪真.md "wikilink")、[矢吹奈子](../Page/矢吹奈子.md "wikilink")、[權恩妃](https://zh.wikipedia.org/wiki/權恩妃 "wikilink")、[姜惠元](../Page/姜惠元.md "wikilink")、[本田仁美](../Page/本田仁美.md "wikilink")、[金采源](../Page/金采源.md "wikilink")、[金玟周](../Page/金玟周.md "wikilink")、[李彩演](../Page/李彩演.md "wikilink")。活動期為2年6個月\[3\]。
+**IZ\*ONE**（；）\[1\]\[2\]是由韓日合作選秀節目《[PRODUCE 48](../Page/PRODUCE_48.md "wikilink")》最終決選出線的12名成員所組成，於2018年出道的期間限定之[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")。成員均有各自所屬的經紀公司，組合整體所屬的經紀公司則為[Off The Record娛樂](https://zh.wikipedia.org/wiki/Off_The_Record娛樂 "wikilink")。成員依節目名次排列為[張員瑛](../Page/張員瑛.md "wikilink")、[宮脇咲良](../Page/宮脇咲良.md "wikilink")、[曺柔理](../Page/曺柔理.md "wikilink")、[崔叡娜](../Page/崔叡娜.md "wikilink")、[安兪真](../Page/安兪真.md "wikilink")、[矢吹奈子](../Page/矢吹奈子.md "wikilink")、[權恩妃](https://zh.wikipedia.org/wiki/權恩妃 "wikilink")、[姜惠元](../Page/姜惠元.md "wikilink")、[本田仁美](../Page/本田仁美.md "wikilink")、[金采源](../Page/金采源.md "wikilink")、[金玟周](../Page/金玟周.md "wikilink")、[李彩演](../Page/李彩演.md "wikilink")。活動期為2年6個月\[3\]。
 
-團名「IZ\*ONE」中的「IZ」代表12名成員，「ONE」代表一體，意思是以全世界粉絲為中心運轉的12色星球，12名少女合為一體的瞬間\[4\]。團體口號是「Eyes
-On Me\!
-成為一體的瞬間，所有人都注目！大家好，我們是IZ\*ONE！」。官方粉絲名為「WIZ\*ONE」（），WIZ有奇才，魔法师（Wizard）的含义，粉丝是守护IZ\*ONE魔法般未来的魔法师，同时包含着IZ\*ONE和魔法师粉丝是一体的寓意。
-​​​​\[5\]。
+團名「IZ\*ONE」中的「IZ」代表12名成員，「ONE」代表一體，意思是以全世界粉絲為中心運轉的12色星球，12名少女合為一體的瞬間\[4\]。團體口號是「Eyes On Me\! 成為一體的瞬間，所有人都注目！大家好，我們是IZ\*ONE！」。官方粉絲名為「WIZ\*ONE」（），WIZ有奇才，魔法师（Wizard）的含义，粉丝是守护IZ\*ONE魔法般未来的魔法师，同时包含着IZ\*ONE和魔法师粉丝是一体的寓意。 ​​​​\[5\]。
 
 ## 經歷
 
@@ -16,39 +10,21 @@ On Me\!
 
   - 出道前：組合轉由新公司負責活動營運、三位日本成員暫停AKB48家族活動專任組合活動
 
-IZ\*ONE是通過2018年6月15日至8月31日在Mnet播出的生存[實境節目](../Page/真人實境秀.md "wikilink")《[PRODUCE
-48](../Page/PRODUCE_48.md "wikilink")》成立的，由12名成員組成兩年半的限定女子團體\[6\]，组合于韩国的唱片公司为。节目播出中Pledis娛樂表示将负责组合在韩国的營運，但於9月21日时，组合公告其韩國營運方轉由新成立的Off
-The
-Record娛樂担任\[7\]。AKB48營運方在9月24日公告IZ\*ONE日本成員宮脇咲良、矢吹奈子、本田仁美三人將在参加由宮脇担任Center、其余两人担任前排站位的AKB48第54张单曲《[NO
-WAY
-MAN](../Page/NO_WAY_MAN.md "wikilink")》后暫停AKB48家族活動，專注IZ\*ONE團體活動\[8\]。
+IZ\*ONE是通過2018年6月15日至8月31日在Mnet播出的生存[實境節目](../Page/真人實境秀.md "wikilink")《[PRODUCE 48](../Page/PRODUCE_48.md "wikilink")》成立的，由12名成員組成兩年半的限定女子團體\[6\]，组合于韩国的唱片公司为。节目播出中Pledis娛樂表示将负责组合在韩国的營運，但於9月21日时，组合公告其韩國營運方轉由新成立的Off The Record娛樂担任\[7\]。AKB48營運方在9月24日公告IZ\*ONE日本成員宮脇咲良、矢吹奈子、本田仁美三人將在参加由宮脇担任Center、其余两人担任前排站位的AKB48第54张单曲《[NO WAY MAN](../Page/NO_WAY_MAN.md "wikilink")》后暫停AKB48家族活動，專注IZ\*ONE團體活動\[8\]。
 
-  - 正式出道：首張迷你專輯《[COLOR\*IZ](../Page/COLOR*IZ.md "wikilink")》、出道團綜
-    、女團最快一位紀錄
+  - 正式出道：首張迷你專輯《[COLOR\*IZ](../Page/COLOR*IZ.md "wikilink")》、出道團綜 、女團最快一位紀錄
 
-10月15日，零時通過官方SNS宣佈IZ\*ONE確定將於29日正式出道，並公開了IZ\*ONE的首張迷你專輯《[COLOR\*IZ](../Page/COLOR*IZ.md "wikilink")》的成員個人概念照\[9\]。隔日，公開概念影片《What
-IZ your color？》。另外，IZ\*ONE即將推出的實境節目《IZ\*ONE
-CHU》，於10月25日起於Mnet播出。10月29日，於下午6點正式出道，主打歌《La
-Vie en Rose》在各大音源榜中釋出。同日於SHOW-CON中公布粉絲名為“WIZ\*ONE”\[10\]。發行首日就在HANTEO
-Chart售出超過3萬4千張，刷新韓國女團出道作發行首日的最高銷售紀錄。該專輯還於全球8國iTunes专辑即时榜单拿下專輯榜冠軍\[11\]。新專輯中收錄的日文歌《被迷住了吧？》經過[KBS歌曲審查會議討論後](https://zh.wikipedia.org/wiki/KBS "wikilink")，因為《被迷住了吧？》全首歌都是日文歌詞，違反放送審議相關規定，所以無法在KBS電視台以及電台播放該歌曲。\[12\]专辑虽未在日本发行，但其日输盘初周销量在[Oricon公信榜录得](../Page/Oricon公信榜.md "wikilink")1.2万张，并在数字专辑榜录得3179次下载，双双取得周冠\[13\]。11月8日，IZ\*ONE成功拿下音樂節目《M
-Countdown》一位，打破先前[BLACKPINK的](../Page/BLACKPINK.md "wikilink")14天一位紀錄，成为當時為止出道最快拿下一位的韓國女團。\[14\]11月29日，组合出席[亚洲明星盛典](https://zh.wikipedia.org/wiki/亚洲明星盛典 "wikilink")，并获得出道后首个新人奖。12月10日、12日及14日，組合出席[2018年Mnet亚洲音乐大奖韓國場](https://zh.wikipedia.org/wiki/2018年Mnet亚洲音乐大奖 "wikilink")、日本场及香港场，并分别获得最佳女子新人獎及亚洲新人奖。12月15日，宮脇咲良、矢吹奈子以IZ\*ONE團員身份，參加HKT48演唱會“现在要团结\!第8年加油向前冲”（）。\[15\]\[16\]
+10月15日，零時通過官方SNS宣佈IZ\*ONE確定將於29日正式出道，並公開了IZ\*ONE的首張迷你專輯《[COLOR\*IZ](../Page/COLOR*IZ.md "wikilink")》的成員個人概念照\[9\]。隔日，公開概念影片《What IZ your color？》。另外，IZ\*ONE即將推出的實境節目《IZ\*ONE CHU》，於10月25日起於Mnet播出。10月29日，於下午6點正式出道，主打歌《La Vie en Rose》在各大音源榜中釋出。同日於SHOW-CON中公布粉絲名為“WIZ\*ONE”\[10\]。發行首日就在HANTEO Chart售出超過3萬4千張，刷新韓國女團出道作發行首日的最高銷售紀錄。該專輯還於全球8國iTunes专辑即时榜单拿下專輯榜冠軍\[11\]。新專輯中收錄的日文歌《被迷住了吧？》經過[KBS歌曲審查會議討論後](https://zh.wikipedia.org/wiki/KBS "wikilink")，因為《被迷住了吧？》全首歌都是日文歌詞，違反放送審議相關規定，所以無法在KBS電視台以及電台播放該歌曲。\[12\]专辑虽未在日本发行，但其日输盘初周销量在[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")录得1.2万张，并在数字专辑榜录得3179次下载，双双取得周冠\[13\]。11月8日，IZ\*ONE成功拿下音樂節目《M Countdown》一位，打破先前[BLACKPINK](../Page/BLACKPINK.md "wikilink")的14天一位紀錄，成为當時為止出道最快拿下一位的韓國女團。\[14\]11月29日，组合出席[亚洲明星盛典](https://zh.wikipedia.org/wiki/亚洲明星盛典 "wikilink")，并获得出道后首个新人奖。12月10日、12日及14日，組合出席[2018年Mnet亚洲音乐大奖韓國場](https://zh.wikipedia.org/wiki/2018年Mnet亚洲音乐大奖 "wikilink")、日本场及香港场，并分别获得最佳女子新人獎及亚洲新人奖。12月15日，宮脇咲良、矢吹奈子以IZ\*ONE團員身份，參加HKT48演唱會“现在要团结\!第8年加油向前冲”（）。\[15\]\[16\]
 
 ### 2019年
 
   - 日本出道单曲《[想让你说喜欢我](https://zh.wikipedia.org/wiki/想让你说喜欢我 "wikilink")》
 
-2018年12月5日，组合首次于日本演出，在[富士电视台的](https://zh.wikipedia.org/wiki/富士电视台 "wikilink")《2018[FNS歌謡祭](https://zh.wikipedia.org/wiki/FNS歌謡祭 "wikilink")》中表演\[17\]。12月6日，组合官网公布消息，表示组合将于2019年2月6日在日本由[环球音乐下属厂牌](https://zh.wikipedia.org/wiki/环球音乐_\(日本\) "wikilink")[EMI
-Records
-Japan发行首张单曲](../Page/EMI音樂日本.md "wikilink")，正式于日本出道\[18\]\[19\]。12月27日，官方公布了单曲的版本及收录内容，并公开了日本初次Showcase的日程\[20\]。2019年1月1日，组合出演了《[CDTV
-Special\!跨年豪华Live2018→2019](../Page/COUNT_DOWN_TV.md "wikilink")》并初次表演了出道单曲的主打曲《[想让你说喜欢我](https://zh.wikipedia.org/wiki/想让你说喜欢我 "wikilink")》\[21\]。在1月2日深夜播出的宮脇咲良冠名广播《》中，成员曺柔理、崔叡娜、矢吹奈子、金玟周作为嘉宾出演，而节目中也初次播出了主打曲的完整音源\[22\]。单曲发行的Showcase在2019年1月20日于[Tokyo
-Dome City
-Hall举行](https://zh.wikipedia.org/wiki/MEETS_PORT#东京巨蛋城表演厅 "wikilink")\[23\]。在25日，官方正式公开单曲MV。
+2018年12月5日，组合首次于日本演出，在[富士电视台的](https://zh.wikipedia.org/wiki/富士电视台 "wikilink")《2018[FNS歌謡祭](https://zh.wikipedia.org/wiki/FNS歌謡祭 "wikilink")》中表演\[17\]。12月6日，组合官网公布消息，表示组合将于2019年2月6日在日本由[环球音乐下属厂牌](https://zh.wikipedia.org/wiki/环球音乐_\(日本\) "wikilink")[EMI Records Japan发行首张单曲](../Page/EMI音樂日本.md "wikilink")，正式于日本出道\[18\]\[19\]。12月27日，官方公布了单曲的版本及收录内容，并公开了日本初次Showcase的日程\[20\]。2019年1月1日，组合出演了《[CDTV Special\!跨年豪华Live2018→2019](../Page/COUNT_DOWN_TV.md "wikilink")》并初次表演了出道单曲的主打曲《[想让你说喜欢我](https://zh.wikipedia.org/wiki/想让你说喜欢我 "wikilink")》\[21\]。在1月2日深夜播出的宮脇咲良冠名广播《》中，成员曺柔理、崔叡娜、矢吹奈子、金玟周作为嘉宾出演，而节目中也初次播出了主打曲的完整音源\[22\]。单曲发行的Showcase在2019年1月20日于[Tokyo Dome City Hall举行](https://zh.wikipedia.org/wiki/MEETS_PORT#东京巨蛋城表演厅 "wikilink")\[23\]。在25日，官方正式公开单曲MV。
 
   - 连续夺得多座新人赏
 
-2019年1月6日，组合出席第33届[金唱片獎](https://zh.wikipedia.org/wiki/金唱片獎 "wikilink")，并获得唱片部门新人奖\[24\]。15日，组合出席第28届[首爾歌謠大賞](https://zh.wikipedia.org/wiki/首爾歌謠大賞 "wikilink")，并获得新人奖\[25\]。23日，组合出席第8届[Gaon
-Chart
-音樂大獎](../Page/Gaon_Chart_K-POP大獎.md "wikilink")，并夺得专辑部门年度新人奖\[26\]。
+2019年1月6日，组合出席第33届[金唱片獎](https://zh.wikipedia.org/wiki/金唱片獎 "wikilink")，并获得唱片部门新人奖\[24\]。15日，组合出席第28届[首爾歌謠大賞](https://zh.wikipedia.org/wiki/首爾歌謠大賞 "wikilink")，并获得新人奖\[25\]。23日，组合出席第8届[Gaon Chart 音樂大獎](../Page/Gaon_Chart_K-POP大獎.md "wikilink")，并夺得专辑部门年度新人奖\[26\]。
 
 ## 成員列表
 
@@ -90,8 +66,7 @@ Chart
 
 **IZ4648名义**
 
-  - 必然性（收录于AKB48第55张单曲《[愈來愈有趣的DAYS](https://zh.wikipedia.org/wiki/愈來愈有趣的DAYS "wikilink")》Type-C）
-    - 张员瑛、宮脇咲良、曺柔理、矢吹奈子、权恩妃、本田仁美\[29\]
+  - 必然性（收录于AKB48第55张单曲《[愈來愈有趣的DAYS](https://zh.wikipedia.org/wiki/愈來愈有趣的DAYS "wikilink")》Type-C） - 张员瑛、宮脇咲良、曺柔理、矢吹奈子、权恩妃、本田仁美\[29\]
 
 ### 影音作品
 
@@ -694,13 +669,7 @@ SBS Mobidic</p></td>
   -
   - [IZ\*ONE于环球唱片的特设网站](https://www.universal-music.co.jp/izone/)
 
-[Category:IZ\*ONE](https://zh.wikipedia.org/wiki/Category:IZ*ONE "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink")
-[Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink")
-[Category:2018年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2018年成立的音樂團體 "wikilink")
+[Category:IZ\*ONE](https://zh.wikipedia.org/wiki/Category:IZ*ONE "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink") [Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink") [Category:2018年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2018年成立的音樂團體 "wikilink")
 
 1.
 

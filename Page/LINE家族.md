@@ -1,5 +1,4 @@
-[LINE_Character_MOON_Nuigurumi.jpg](https://zh.wikipedia.org/wiki/File:LINE_Character_MOON_Nuigurumi.jpg "fig:LINE_Character_MOON_Nuigurumi.jpg")
-LINE家族（）是[即時通訊軟體](https://zh.wikipedia.org/wiki/即時通訊軟體 "wikilink")[LINE的官方](../Page/LINE.md "wikilink")[貼圖人物](../Page/貼圖.md "wikilink")。因為很多廠商選擇和LINE家族合作打廣告，吸金超多而被戲稱為「亞洲搶錢天團」。\[1\]
+[LINE_Character_MOON_Nuigurumi.jpg](https://zh.wikipedia.org/wiki/File:LINE_Character_MOON_Nuigurumi.jpg "fig:LINE_Character_MOON_Nuigurumi.jpg") LINE家族（）是[即時通訊軟體](https://zh.wikipedia.org/wiki/即時通訊軟體 "wikilink")[LINE](../Page/LINE.md "wikilink")的官方[貼圖](../Page/貼圖.md "wikilink")人物。因為很多廠商選擇和LINE家族合作打廣告，吸金超多而被戲稱為「亞洲搶錢天團」。\[1\]
 
 目前LINE家族一共有11個卡通角色，沉默溫和的**熊大**、開朗時髦的**兔兔**、自戀的**詹姆士**、隨心所欲的**饅頭人**、愛漂亮的**潔西卡**、常常幫大家解決事情的**莎莉雞**、古板又充滿中年男子氣息的**大叔**、害羞內向的**雷納德**、聰明又敏銳的**愛德華**、還有熊大時尚漂亮的妹妹**熊美**、熊美的男朋友**胖友**。
 
@@ -112,25 +111,19 @@ LINE家族（）是[即時通訊軟體](https://zh.wikipedia.org/wiki/即時通�
 
 #### LINE OFFLINE 上班族
 
-《LINE OFFLINE
-上班族》（）是从2013年1月7日开始在[日本](../Page/日本.md "wikilink")[東京電視台播放的](../Page/東京電視台.md "wikilink")5分鐘[泡麵番短片動畫](https://zh.wikipedia.org/wiki/泡麵番 "wikilink")\[2\]。描述了各个登场人物在公司中的日常生活。
+《LINE OFFLINE 上班族》（）是从2013年1月7日开始在[日本](../Page/日本.md "wikilink")[東京電視台](../Page/東京電視台.md "wikilink")播放的5分鐘[泡麵番短片動畫](https://zh.wikipedia.org/wiki/泡麵番 "wikilink")\[2\]。描述了各个登场人物在公司中的日常生活。
 
 #### LINE TOWN
 
-《[LINE TOWN](../Page/LINE_TOWN.md "wikilink")》是从2013年4月开始在日本[TX
-Network播放的動畫](https://zh.wikipedia.org/wiki/TX_Network "wikilink")，和《》是不同的動畫公司，但人物設定一致。前作為成人向动画，而本作為儿童向。\[3\]
+《[LINE TOWN](../Page/LINE_TOWN.md "wikilink")》是从2013年4月开始在日本[TX Network播放的動畫](https://zh.wikipedia.org/wiki/TX_Network "wikilink")，和《》是不同的動畫公司，但人物設定一致。前作為成人向动画，而本作為儿童向。\[3\]
 
 ## 参考文献
 
 ## 外部連結
 
   -
-[Category:虛構角色](https://zh.wikipedia.org/wiki/Category:虛構角色 "wikilink")
-[Category:韓國品牌](https://zh.wikipedia.org/wiki/Category:韓國品牌 "wikilink")
-[Category:Naver](https://zh.wikipedia.org/wiki/Category:Naver "wikilink")
-[Category:LINE](https://zh.wikipedia.org/wiki/Category:LINE "wikilink")
+[Category:虛構角色](https://zh.wikipedia.org/wiki/Category:虛構角色 "wikilink") [Category:韓國品牌](https://zh.wikipedia.org/wiki/Category:韓國品牌 "wikilink") [Category:Naver](https://zh.wikipedia.org/wiki/Category:Naver "wikilink") [Category:LINE](https://zh.wikipedia.org/wiki/Category:LINE "wikilink")
 
-1.  亞洲第一搶錢天團Line friends！ 搜狐
-    [1](https://m.sohu.com/a/129492900_571692/?pvid=000115_3w_a)
+1.  亞洲第一搶錢天團Line friends！ 搜狐 [1](https://m.sohu.com/a/129492900_571692/?pvid=000115_3w_a)
 2.
 3.

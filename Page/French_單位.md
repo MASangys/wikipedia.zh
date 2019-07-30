@@ -12,9 +12,9 @@ French單位代表導管直徑的三倍。一个1\(Fr\)的圆形導管的外部[
 
 > \(d={Fr\over 3} \textvisiblespace\)或 \(Fr={d \times 3}\)
 
-例如，9\(Fr\)的導管，直徑是9/3=3.0毫米。可以看出，引入米制單位後，French單位是多餘的，更可能導致潜在的[四舍五入错误](../Page/捨入誤差.md "wikilink")。在医疗行业使用的導管中，这項[公制化问题因米制單位和](../Page/公制化.md "wikilink")[英制单位的混合使用而进一步复杂化](../Page/英制单位.md "wikilink")。因而，French單位可以單純看待為工程師設計導管時的一个烦恼。
+例如，9\(Fr\)的導管，直徑是9/3=3.0毫米。可以看出，引入米制單位後，French單位是多餘的，更可能導致潜在的[四舍五入错误](../Page/捨入誤差.md "wikilink")。在医疗行业使用的導管中，这項[公制化](../Page/公制化.md "wikilink")问题因米制單位和[英制单位](../Page/英制单位.md "wikilink")的混合使用而进一步复杂化。因而，French單位可以單純看待為工程師設計導管時的一个烦恼。
 
-从基本的数学[圓周公式](../Page/圓周.md "wikilink")（C=d）可以得知，導管的[圓周](https://zh.wikipedia.org/wiki/周 "wikilink")（以[毫米計算](../Page/毫米.md "wikilink")）只稍微大于French單位的值约4.7%。雖然是[连错都算不上](../Page/连错都算不上.md "wikilink")，但還是有人會將French定義為\(\pi^{-1}\)\(mm\)。
+从基本的数学[圓周](../Page/圓周.md "wikilink")公式（C=d）可以得知，導管的[圓周](https://zh.wikipedia.org/wiki/周 "wikilink")（以[毫米](../Page/毫米.md "wikilink")計算）只稍微大于French單位的值约4.7%。雖然是[连错都算不上](../Page/连错都算不上.md "wikilink")，但還是有人會將French定義為\(\pi^{-1}\)\(mm\)。
 
 擁有大French的導管有更大的外部口徑。這和[伯明罕線規相反](https://zh.wikipedia.org/wiki/伯明罕線規 "wikilink")，後者的數字愈大，口徑則愈小。
 
@@ -179,8 +179,7 @@ French單位度量的是導管的外徑，而非內徑。举例来说，20\(Fr\)
 
 </references>
 
-[Category:有未审阅翻译的页面](https://zh.wikipedia.org/wiki/Category:有未审阅翻译的页面 "wikilink")
-[Category:单位制](https://zh.wikipedia.org/wiki/Category:单位制 "wikilink")
+[Category:有未审阅翻译的页面](https://zh.wikipedia.org/wiki/Category:有未审阅翻译的页面 "wikilink") [Category:单位制](https://zh.wikipedia.org/wiki/Category:单位制 "wikilink")
 
 1.
 2.

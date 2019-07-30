@@ -1,4 +1,4 @@
-**dps**是[日本四人](../Page/日本.md "wikilink")[摇滚乐队](../Page/摇滚.md "wikilink")，2017年结成。为[Being旗下艺人](../Page/Being_\(公司\).md "wikilink")。
+**dps**是[日本](../Page/日本.md "wikilink")四人[摇滚](../Page/摇滚.md "wikilink")乐队，2017年结成。为[Being旗下艺人](../Page/Being_\(公司\).md "wikilink")。
 
 ## 成员
 
@@ -9,16 +9,13 @@
 
 ## 经历
 
-2017年，由参加[ZARD致敬专辑](../Page/ZARD.md "wikilink")《》制作的森丘、安井和川村，加上当年获得歌唱竞赛冠军的木村四人结成\[1\]。
+2017年，由参加[ZARD](../Page/ZARD.md "wikilink")致敬专辑《》制作的森丘、安井和川村，加上当年获得歌唱竞赛冠军的木村四人结成\[1\]。
 
 乐队由所衍生而成，所以取d-project special的首字母作为乐队名\[2\]。
 
-2017年11月，在[Tower
-Records关西限量发售第一张EP](https://zh.wikipedia.org/wiki/Tower_Records "wikilink")《Begins
-with Em》，而地下出道。
+2017年11月，在[Tower Records关西限量发售第一张EP](https://zh.wikipedia.org/wiki/Tower_Records "wikilink")《Begins with Em》，而地下出道。
 
-2018年11月转至GIZA
-studio发售第一张全国流通单曲《TimeLine》而主流出道。该曲也成为电视动画《[名偵探柯南](../Page/名偵探柯南_\(動畫\).md "wikilink")》的片头曲\[3\]\[4\]。
+2018年11月转至GIZA studio发售第一张全国流通单曲《TimeLine》而主流出道。该曲也成为电视动画《[名偵探柯南](../Page/名偵探柯南_\(動畫\).md "wikilink")》的片头曲\[3\]\[4\]。
 
 ## 作品
 
@@ -118,9 +115,7 @@ studio发售第一张全国流通单曲《TimeLine》而主流出道。该曲也
 
   -
   -
-[Category:日本摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本摇滚乐团 "wikilink")
-[Category:2017年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年成立的音樂團體 "wikilink")
-[Category:Being旗下藝人](https://zh.wikipedia.org/wiki/Category:Being旗下藝人 "wikilink")
+[Category:日本摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本摇滚乐团 "wikilink") [Category:2017年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年成立的音樂團體 "wikilink") [Category:Being旗下藝人](https://zh.wikipedia.org/wiki/Category:Being旗下藝人 "wikilink")
 
 1.
 

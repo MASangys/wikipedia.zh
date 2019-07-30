@@ -1,23 +1,14 @@
-**3RACHA**（韓語：쓰리라차），為韓國[JYP娛樂推出的九人男子團體](../Page/JYP娛樂.md "wikilink")[Stray
-Kids中負責創作的團體](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")。成員包括CB97(方燦)、SPEARB(彰彬)、J.ONE(Han)。團名「3RACHA」原是辣椒醬名「SRIRACHA」\[1\]，前面的數字「3」代表三個人，而「RACHA」在西班牙文的意思為狂風、旋風，意謂三個人想要展現火辣的味道、掀起狂風的抱負\[2\]。2018年3月25日，方燦、彰彬與Han作為[Stray
-Kids成員出道](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")。
+**3RACHA**（韓語：쓰리라차），為韓國[JYP娛樂](../Page/JYP娛樂.md "wikilink")推出的九人男子團體[Stray Kids中負責創作的團體](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")。成員包括CB97(方燦)、SPEARB(彰彬)、J.ONE(Han)。團名「3RACHA」原是辣椒醬名「SRIRACHA」\[1\]，前面的數字「3」代表三個人，而「RACHA」在西班牙文的意思為狂風、旋風，意謂三個人想要展現火辣的味道、掀起狂風的抱負\[2\]。2018年3月25日，方燦、彰彬與Han作為[Stray Kids成員出道](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")。
 
 ## 發展歷程
 
 ### 2017年：成立、MIXTAPE迷你專輯、生存實境節目《Stray Kids》
 
-3RACHA於2016年末在韓國首爾成立。2017年1月18日，他們上傳了第一個Track到[SoundCloud](../Page/SoundCloud.md "wikilink")\[3\]，並且於4月26日將他們之前所上傳的Tracks重新錄製，發布了第一張MIXTAPE迷你專輯《J:/2017/mixtape》。在他們的第二張MIXTAPE迷你專輯《3Days》發布之前，JYP娛樂宣布他們將出演Mnet生存實境節目《[Stray
-Kids](https://zh.wikipedia.org/wiki/Stray_Kids_\(電視節目\) "wikilink")》\[4\]。在參與節目的錄製中，他們也持續的上傳Tracks，並於12月20日發布了第三張MIXTAPE迷你專輯《Horizon》。
+3RACHA於2016年末在韓國首爾成立。2017年1月18日，他們上傳了第一個Track到[SoundCloud](../Page/SoundCloud.md "wikilink")\[3\]，並且於4月26日將他們之前所上傳的Tracks重新錄製，發布了第一張MIXTAPE迷你專輯《J:/2017/mixtape》。在他們的第二張MIXTAPE迷你專輯《3Days》發布之前，JYP娛樂宣布他們將出演Mnet生存實境節目《[Stray Kids](https://zh.wikipedia.org/wiki/Stray_Kids_\(電視節目\) "wikilink")》\[4\]。在參與節目的錄製中，他們也持續的上傳Tracks，並於12月20日發布了第三張MIXTAPE迷你專輯《Horizon》。
 
 ### 2018年：一週年Track〈Start Line〉、以Stray Kids出道
 
-1月18日，3RACHA於[Stray
-Kids的官方推特公開了一首Track](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")〈Start
-Line〉來慶祝3RACHA一週年。3月25日，透過出道Showcase《Stray Kids UNVEIL \[Op. 01 : I am
-NOT\]》正式以[Stray
-Kids出道](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")。3月26日，發行了首張專輯《[I
-am NOT](../Page/I_am_NOT_\(Stray_Kids迷你專輯\).md "wikilink")》及主打歌〈District
-9〉，3RACHA的三名成員皆參與了專輯的詞曲創作。
+1月18日，3RACHA於[Stray Kids的官方推特公開了一首Track](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")〈Start Line〉來慶祝3RACHA一週年。3月25日，透過出道Showcase《Stray Kids UNVEIL \[Op. 01 : I am NOT\]》正式以[Stray Kids出道](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")。3月26日，發行了首張專輯《[I am NOT](../Page/I_am_NOT_\(Stray_Kids迷你專輯\).md "wikilink")》及主打歌〈District 9〉，3RACHA的三名成員皆參與了專輯的詞曲創作。
 
 ## 成員資料
 
@@ -25,7 +16,7 @@ am NOT](../Page/I_am_NOT_\(Stray_Kids迷你專輯\).md "wikilink")》及主打�
 <thead>
 <tr class="header">
 <th><p>colspan="9" width="90px" color:white; font-weight:bold" |成員資料[5] |- color:white; font-weight:bold" width="90px"</p></th>
-<th><p><a href="../Page/3RACHA.md" title="wikilink">3RACHA活動名</a></p></th>
+<th><p><a href="../Page/3RACHA.md" title="wikilink">3RACHA</a>活動名</p></th>
 <th><p>藝名</p></th>
 <th><p>本名</p></th>
 <th><p>出生日期</p></th>
@@ -42,7 +33,7 @@ am NOT](../Page/I_am_NOT_\(Stray_Kids迷你專輯\).md "wikilink")》及主打�
 <tbody>
 <tr class="odd">
 <td><p>CB97</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/方燦" title="wikilink">方燦</a></p></td>
+<td><p><a href="../Page/方燦.md" title="wikilink">方燦</a></p></td>
 <td><p>방찬</p></td>
 <td><p>方燦</p></td>
 <td><p>Bang Chan</p></td>
@@ -176,8 +167,8 @@ am NOT](../Page/I_am_NOT_\(Stray_Kids迷你專輯\).md "wikilink")》及主打�
 | 2017年      | 7月2日                                 | The Ugly Junction Live(TUJL) 발아21 with MINOS | Runner's High\[11\]                                  | 首爾The Ugly Junction                      | \[12\] |
 | 건들지마\[13\] |                                      |                                              |                                                      |                                          |        |
 | ID:a\[14\] |                                      |                                              |                                                      |                                          |        |
-| 8月22日      | 2017 JYP TRAINEE SHOWCASE HOMECOMING | Runner's High\[15\]                          | 首爾[梨花女子大學Samsung](../Page/梨花女子大學.md "wikilink") Hall | \[16\]                                   |        |
-| 2018年      | 8月5日                                 | Stray Kids UNVEIL \[Op. 02 : I am WHO\]      | ZONE\[17\]                                           | 首爾[慶熙大學和平殿堂](../Page/慶熙大學.md "wikilink") |        |
+| 8月22日      | 2017 JYP TRAINEE SHOWCASE HOMECOMING | Runner's High\[15\]                          | 首爾[梨花女子大學](../Page/梨花女子大學.md "wikilink")Samsung Hall | \[16\]                                   |        |
+| 2018年      | 8月5日                                 | Stray Kids UNVEIL \[Op. 02 : I am WHO\]      | ZONE\[17\]                                           | 首爾[慶熙大學](../Page/慶熙大學.md "wikilink")和平殿堂 |        |
 
 ## 參考資料
 
@@ -206,9 +197,7 @@ am NOT](../Page/I_am_NOT_\(Stray_Kids迷你專輯\).md "wikilink")》及主打�
 
 9.
 
-10.  M COUNTDOWN 190418 EP.615
-    |url=<https://www.youtube.com/watch?v=xeJa25mIPv4> |website=YouTube
-    |accessdate=2019-04-18}}
+10.  M COUNTDOWN 190418 EP.615 |url=<https://www.youtube.com/watch?v=xeJa25mIPv4> |website=YouTube |accessdate=2019-04-18}}
 
 11.
 

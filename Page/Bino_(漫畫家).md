@@ -10,7 +10,7 @@
 
 2017年11月，再次在KADOKAWA的《ComicNewType》開始連載新作《》。
 
-2018年11月，《女高中生的虛度日常》宣布決定製作同名電視動畫，將於2019年7月在[AT-X首播](../Page/AT-X.md "wikilink")\[2\]。
+2018年11月，《女高中生的虛度日常》宣布決定製作同名電視動畫，將於2019年7月在[AT-X](../Page/AT-X.md "wikilink")首播\[2\]。
 
 ## 作品概覽
 
@@ -62,17 +62,11 @@
 
   - [ComicNewType『』](https://comic.webnewtype.com/contents/uchu_mondai/)
 
-
   - [電視動畫『女高中生的虛度日常』公式官網](http://jyoshimuda.com)
 
   - [！](http://blog.livedoor.jp/binonoinko/)－Bino的官方個人部落格 。
 
-[Category:日本漫畫家](https://zh.wikipedia.org/wiki/Category:日本漫畫家 "wikilink")
-[Category:生年不詳](https://zh.wikipedia.org/wiki/Category:生年不詳 "wikilink")
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
-[Category:富山縣出身人物](https://zh.wikipedia.org/wiki/Category:富山縣出身人物 "wikilink")
+[Category:日本漫畫家](https://zh.wikipedia.org/wiki/Category:日本漫畫家 "wikilink") [Category:生年不詳](https://zh.wikipedia.org/wiki/Category:生年不詳 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:富山縣出身人物](https://zh.wikipedia.org/wiki/Category:富山縣出身人物 "wikilink")
 
-1.  [「 (８)
-    夢破れウェブで再起／「女子高生の無駄づかい」のビーノさん　富山市出身」](http://webun.jp/item/7353464)
-    - webun
+1.  [「 (８) 夢破れウェブで再起／「女子高生の無駄づかい」のビーノさん　富山市出身」](http://webun.jp/item/7353464) - webun
 2.

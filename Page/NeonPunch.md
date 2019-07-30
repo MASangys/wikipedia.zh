@@ -1,22 +1,20 @@
-**NeonPunch**（韩语：**네온펀치**）是A100娱乐旗下的韩国[女子音乐团体](../Page/女子音乐组合.md "wikilink")，组合成员有5人，分别为：Dayeon、Dohee、Baekah、May和Iaan。该组合于2018年6月27日正式出道。
+**NeonPunch**（韩语：**네온펀치**）是[韓國A](https://zh.wikipedia.org/wiki/韓國 "wikilink")100娱乐於2018年推出的五人女子組合，成員有Dayeon、Dohee、Baekah、May及Iaan。该组合于2018年6月27日正式出道。
 
 ## 经历
 
 ### 出道前
 
-2017年2月7日，A100娱乐宣布他们将为新组合招募成员，并将通过官方YouTube频道发布一些有关新组合消息的影片和图片。当发布关于组合成员的图片时，成员都是蒙面的，所以成员身份都是保密的。最后组合成员数量最终确认为5人。10月2日，A100娱乐宣布新组合名称为“NeonPunch”，并通过预告片来介绍各个成员，成员分别为：Dayeon、Terry、Baekah、May和Iaan。\[1\]成员后来参加[JTBC电视台的综艺节目](../Page/JTBC.md "wikilink")[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")，只有成员Baekah通过试镜成功参加节目。\[2\]\[3\]
+2017年2月7日，A100娱乐宣布他们将为新组合招募成员，并将通过官方YouTube频道发布一些有关新组合消息的影片和图片。当发布关于组合成员的图片时，成员都是蒙面的，所以成员身份都是保密的。最后组合成员数量最终确认为5人。10月2日，A100娱乐宣布新组合名称为“NeonPunch”，并通过预告片来介绍各个成员，成员分别为：Dayeon、Terry、Baekah、May和Iaan。\[1\]成员后来参加[JTBC](../Page/JTBC.md "wikilink")电视台的综艺节目[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")，只有成员Baekah通过试镜成功参加节目。\[2\]\[3\]
 
 2018年4月13日，NeonPunch成员为化妆用品品牌DPC做代言，随后成员传出将在5月底出道的消息。\[4\]5月8日，A100娱乐宣布组合出道时间将延迟到6月份，5位成员也得到了最终确认。\[5\]NeonPunch随后到中国进行宣传，同时也在韩国进行了几场的宣传活动。
 
 ### 2018：正式出道，首张单曲《MoonLight》
 
-2018年6月27日，NeonPunch发布第一张单曲专辑《MoonLight》，专辑主打歌与专辑名同名。\[6\]\[7\]6月30日，她们在[MBC的](https://zh.wikipedia.org/wiki/MBC "wikilink")[Show\!
-音樂中心节目中出道](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")。\[8\]
+2018年6月27日，NeonPunch发布第一张单曲专辑《MoonLight》，专辑主打歌与专辑名同名。\[6\]\[7\]6月30日，她们在[MBC的](https://zh.wikipedia.org/wiki/MBC "wikilink")[Show\! 音樂中心节目中出道](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")。\[8\]
 
 ### 2019：Terry退團，新團員Dohee加入，第二張迷你專輯《Watch out》
 
-2019年1月17日公司官方宣布成員Terry退團，加入新成員Dohee。1月29日公開主打歌《Tic Toc》MV，1月30日公開《Watch
-out》專輯收錄曲音源，新的五人組模式以主打歌《Tic Toc》正式回歸。
+2019年1月17日公司官方宣布成員Terry退團，加入新成員Dohee。1月29日公開主打歌《Tic Toc》MV，1月30日公開《Watch out》專輯收錄曲音源，新的五人組模式以主打歌《Tic Toc》正式回歸。
 
 ## 成员
 
@@ -102,9 +100,7 @@ out》專輯收錄曲音源，新的五人組模式以主打歌《Tic Toc》正�
 
 ## 参考资料
 
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:2018年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2018年成立的音樂團體 "wikilink")
-[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
+[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2018年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2018年成立的音樂團體 "wikilink") [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
 
 1.
 2.

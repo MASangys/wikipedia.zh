@@ -1,4 +1,4 @@
-**2019年Oricon專輯下載週榜冠軍作品列表**列出2019年度曾經登上[Oricon公信榜專輯下載週榜冠軍的](../Page/Oricon公信榜.md "wikilink")[專輯作品及其資料](https://zh.wikipedia.org/wiki/專輯 "wikilink")。
+**2019年Oricon專輯下載週榜冠軍作品列表**列出2019年度曾經登上[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")專輯下載週榜冠軍的[專輯作品及其資料](https://zh.wikipedia.org/wiki/專輯 "wikilink")。
 
 ## 冠軍專輯列表
 
@@ -196,6 +196,34 @@
 <td><p>1.1</p></td>
 <td><p>[22]</p></td>
 </tr>
+<tr class="odd">
+<td><p>7月8日</p></td>
+<td><p><a href="../Page/Finally.md" title="wikilink">Finally</a></p></td>
+<td><p><a href="../Page/安室奈美惠.md" title="wikilink">安室奈美惠</a></p></td>
+<td><p>0.4</p></td>
+<td><p>[23]</p></td>
+</tr>
+<tr class="even">
+<td><p>7月15日</p></td>
+<td></td>
+<td><p><a href="../Page/BiSH.md" title="wikilink">BiSH</a></p></td>
+<td><p>0.3</p></td>
+<td><p>[24]</p></td>
+</tr>
+<tr class="odd">
+<td><p>7月22日</p></td>
+<td></td>
+<td><p><a href="../Page/BUMP_OF_CHICKEN.md" title="wikilink">BUMP OF CHICKEN</a></p></td>
+<td><p>1.4</p></td>
+<td><p>[25]</p></td>
+</tr>
+<tr class="even">
+<td><p>7月29日</p></td>
+<td></td>
+<td><p><a href="../Page/RADWIMPS.md" title="wikilink">RADWIMPS</a></p></td>
+<td><p>1.2</p></td>
+<td><p>[26]</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -206,44 +234,31 @@
 
 ## 參考資料
 
-[Category:2019年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2019年Oricon單曲週榜冠軍作品 "wikilink")
-[Category:每年Oricon單曲週榜冠軍作品列表](https://zh.wikipedia.org/wiki/Category:每年Oricon單曲週榜冠軍作品列表 "wikilink")
-[Category:2019年音樂排行榜](https://zh.wikipedia.org/wiki/Category:2019年音樂排行榜 "wikilink")
+[Category:2019年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2019年Oricon單曲週榜冠軍作品 "wikilink") [Category:每年Oricon單曲週榜冠軍作品列表](https://zh.wikipedia.org/wiki/Category:每年Oricon單曲週榜冠軍作品列表 "wikilink") [Category:2019年音樂排行榜](https://zh.wikipedia.org/wiki/Category:2019年音樂排行榜 "wikilink")
 
 1.  [クイーン、映画サントラが7週ぶり1位に浮上 2週連続3作同時TOP10入り](https://www.oricon.co.jp/news/2127992/full/)
-2.  [バックストリート・ボーイズ、自身初のデジタルアルバム1位
-    ベストアルバムと2作同時TOP10入り](https://www.oricon.co.jp/news/2128426/full/)
-3.  [米津玄師&あいみょんが首位キープ、「マリーゴールド」は1000万ST超え
-    女性SSW・美波はデビュー作がデジタルAl1位に](https://www.oricon.co.jp/news/2128926/)
+2.  [バックストリート・ボーイズ、自身初のデジタルアルバム1位 ベストアルバムと2作同時TOP10入り](https://www.oricon.co.jp/news/2128426/full/)
+3.  [米津玄師&あいみょんが首位キープ、「マリーゴールド」は1000万ST超え 女性SSW・美波はデビュー作がデジタルAl1位に](https://www.oricon.co.jp/news/2128926/)
 4.  [YUKI、9thアルバムで初のデジタルランキング首位](https://www.oricon.co.jp/news/2129391/)
 5.  [【オリコン】あいみょん、3位以下を大きく引き離す合算アルバム2位](https://www.oricon.co.jp/news/2129893/)
-6.  [「胸キュン」ドラマを支えるback
-    number、「はじこい」主題歌がデジタルSg首位](https://www.oricon.co.jp/news/2130375/full/)
+6.  [「胸キュン」ドラマを支えるback number、「はじこい」主題歌がデジタルSg首位](https://www.oricon.co.jp/news/2130375/full/)
 7.  [『ヒプノシスマイク』シリーズ・麻天狼がデジタルアルバム1位](https://www.oricon.co.jp/news/2130932/)
-8.  [milet、デビュー作で初登場首位
-    歌声にティーンとドラマファンが反応【オリコンランキング】](https://www.oricon.co.jp/news/2131397/)
-9.  [BUMP OF CHICKEN、デジタルSGで歴代記録更新
-    あいみょんの再生回数が2500万回突破【オリコンランキング】](https://www.oricon.co.jp/news/2131885/)
-10. [あいみょん、デジタルアルバムで自身初1位
-    ストリーミングも好調【オリコンランキング】](https://www.oricon.co.jp/news/2132306/)
-11. [back number、音楽ランキング4冠
-    あいみょん、ワンオクと並びデジタルで圧倒的な存在感](https://www.oricon.co.jp/news/2132820/full/)
-12. [back number、音楽ランキング4冠
-    あいみょん、ワンオクと並びデジタルで圧倒的な存在感](https://www.oricon.co.jp/news/2132820/full/)
-13. [BTS(防弾少年団)のデジタルアルバムが首位
-    エド・シーランとのコラボ曲も収録【オリコンランキング】](https://www.oricon.co.jp/news/2133736/)
-14. [あいみょん、デジタルSG&ストリーミング同時1位
-    『しんちゃん』主題歌が好調【オリコンランキング】](https://www.oricon.co.jp/news/2134286/)
-15. [あいみょん「マリーゴールド」が18週連続首位
-    累積再生回数4000万回突破【オリコンランキング】](https://www.oricon.co.jp/news/2135024/)
-16. [MAN WITH A MISSION、自身初のデジタルシングル1位
-    月9ドラマ『ラジエーションハウス』主題歌【オリコンランキング】](https://www.oricon.co.jp/news/2135455/)
+8.  [milet、デビュー作で初登場首位 歌声にティーンとドラマファンが反応【オリコンランキング】](https://www.oricon.co.jp/news/2131397/)
+9.  [BUMP OF CHICKEN、デジタルSGで歴代記録更新 あいみょんの再生回数が2500万回突破【オリコンランキング】](https://www.oricon.co.jp/news/2131885/)
+10. [あいみょん、デジタルアルバムで自身初1位 ストリーミングも好調【オリコンランキング】](https://www.oricon.co.jp/news/2132306/)
+11. [back number、音楽ランキング4冠 あいみょん、ワンオクと並びデジタルで圧倒的な存在感](https://www.oricon.co.jp/news/2132820/full/)
+12. [back number、音楽ランキング4冠 あいみょん、ワンオクと並びデジタルで圧倒的な存在感](https://www.oricon.co.jp/news/2132820/full/)
+13. [BTS(防弾少年団)のデジタルアルバムが首位 エド・シーランとのコラボ曲も収録【オリコンランキング】](https://www.oricon.co.jp/news/2133736/)
+14. [あいみょん、デジタルSG&ストリーミング同時1位 『しんちゃん』主題歌が好調【オリコンランキング】](https://www.oricon.co.jp/news/2134286/)
+15. [あいみょん「マリーゴールド」が18週連続首位 累積再生回数4000万回突破【オリコンランキング】](https://www.oricon.co.jp/news/2135024/)
+16. [MAN WITH A MISSION、自身初のデジタルシングル1位 月9ドラマ『ラジエーションハウス』主題歌【オリコンランキング】](https://www.oricon.co.jp/news/2135455/)
 17. [菅田将暉、米津玄師プロデュース曲で初のデジタル1位「自分の曲にすることが一生涯の務め」【オリコンランキング】](https://www.oricon.co.jp/news/2135950/full/)
-18. [乃木坂46、デジタルALが自身初の1位
-    シングルでは菅田将暉が2週連続首位【オリコンランキング】](https://www.oricon.co.jp/news/2136420/full/)
+18. [乃木坂46、デジタルALが自身初の1位 シングルでは菅田将暉が2週連続首位【オリコンランキング】](https://www.oricon.co.jp/news/2136420/full/)
 19. [6/10付週間デジタルシングル(単曲)ランキング1位は菅田将暉の「まちがいさがし」](https://www.oricon.co.jp/news/2136975/)
-20. [アヴィーチーさん、アルバム通算2作目の1位
-    坂本九さん「上を向いて歩こう」サンプリング楽曲も収録【オリコンランキング】](https://www.oricon.co.jp/news/2137419/)
-21. [東方神起・ユンホ、デジタルALが1位
-    米津玄師がデジタルSGで2週連続1位【オリコンランキング】](https://www.oricon.co.jp/news/2137973/)
+20. [アヴィーチーさん、アルバム通算2作目の1位 坂本九さん「上を向いて歩こう」サンプリング楽曲も収録【オリコンランキング】](https://www.oricon.co.jp/news/2137419/)
+21. [東方神起・ユンホ、デジタルALが1位 米津玄師がデジタルSGで2週連続1位【オリコンランキング】](https://www.oricon.co.jp/news/2137973/)
 22. [サカナクション、約6年ぶりアルバムが自身初のデジタルランキング1位【オリコンランキング】](https://www.oricon.co.jp/news/2138522/)
+23. [安室奈美恵さんベスト盤、自身初デジタルAL1位 スピッツ朝ドラ主題歌2週連続SG1位【オリコンランキング】](https://www.oricon.co.jp/news/2139087/full/)
+24. [菅田将暉「まちがいさがし」が5週ぶり1位返り咲き 『あなたの番です』手塚翔太の劇中歌が2位【オリコンランキング】](https://www.oricon.co.jp/news/2139683/full/)
+25. [BUMP OF CHICKEN、合算ランキングで1位 CD&デジタル同時1位に【オリコンランキング】](https://www.oricon.co.jp/news/2140267/full/)
+26. [RADWIMPS、デジタルシングル1位、2位独占 映画『天気の子』サントラも1位【オリコンランキング】](https://www.oricon.co.jp/news/2140797/full/)

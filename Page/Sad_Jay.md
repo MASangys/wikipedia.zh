@@ -4,15 +4,11 @@
 
 樂隊的名字取自於英文「Sad」，即是憂傷的意思，而「Jay」則代表一個喋喋不休的人，意指他們是「一個講憂傷故事的人」。樂隊曲風以[流行搖滾](../Page/流行搖滾.md "wikilink")為主。
 
-Sad Jay以「每個憂愁的時刻，總會有一首代表當刻心情的歌」作為創作宗旨。樂隊經過多次改組，其中主音Anthony及鍵琴手[Yuen
-Man為元祖級成員](https://zh.wikipedia.org/wiki/潘嘉雯_= "wikilink")，其餘成員均是於後期加入。
+Sad Jay以「每個憂愁的時刻，總會有一首代表當刻心情的歌」作為創作宗旨。樂隊經過多次改組，其中主音Anthony及鍵琴手[Yuen Man為元祖級成員](https://zh.wikipedia.org/wiki/潘嘉雯_= "wikilink")，其餘成員均是於後期加入。
 
-2018年9月，因鍵琴手[Yuen
-Man到英國進修音樂學士](https://zh.wikipedia.org/wiki/潘嘉雯_= "wikilink")，由陳宇軒暫代鍵琴手一職。
+2018年9月，因鍵琴手[Yuen Man到英國進修音樂學士](https://zh.wikipedia.org/wiki/潘嘉雯_= "wikilink")，由陳宇軒暫代鍵琴手一職。
 
-2019年5月，隨著從《[復仇者電影4：終局之戰](https://zh.wikipedia.org/wiki/復仇者聯盟：終局之戰 "wikilink")》上映，Sad
-Jay以「Fans
-made」的身份創作出廣東話歌曲《終章》，以向MCU致敬。由於話題性及共鳴，歌曲廣獲網上好評，並獲多間傳媒報導及網媒轉載\[2\]\[3\]。
+2019年5月，隨著從《[復仇者電影4：終局之戰](https://zh.wikipedia.org/wiki/復仇者聯盟：終局之戰 "wikilink")》上映，Sad Jay以「Fans made」的身份創作出廣東話歌曲《終章》，以向MCU致敬。由於話題性及共鳴，歌曲廣獲網上好評，並獲多間傳媒報導及網媒轉載\[2\]\[3\]。
 
 樂隊暫時以網上發佈形式，於各大音樂平台JOOX, KKBOX, MOOV等推出歌曲。
 
@@ -22,8 +18,7 @@ made」的身份創作出廣東話歌曲《終章》，以向MCU致敬。由於�
   - [潘婉雯](https://zh.wikipedia.org/wiki/潘婉雯 "wikilink")(Yuen Man, 鍵琴手)
   - [關宗浩](https://zh.wikipedia.org/wiki/關宗浩 "wikilink")(Ringo, 結他手)
   - [周卓恒](https://zh.wikipedia.org/wiki/周卓恒 "wikilink")(Rick, 低音結他手)
-  - [陳嘉惠](https://zh.wikipedia.org/wiki/陳嘉惠 "wikilink")(Ande, 鼓手,
-    於2019年4月加入)
+  - [陳嘉惠](https://zh.wikipedia.org/wiki/陳嘉惠 "wikilink")(Ande, 鼓手, 於2019年4月加入)
 
 ## 歌曲
 

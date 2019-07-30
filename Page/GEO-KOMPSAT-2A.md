@@ -1,4 +1,4 @@
-**GK2A**是韩国[氣象衛星之一](../Page/氣象衛星.md "wikilink")，由[韩国氣象廳開發](https://zh.wikipedia.org/wiki/韩国氣象廳 "wikilink")，[KARI製造](https://zh.wikipedia.org/wiki/KARI "wikilink")。於2018年12月4日由[欧洲航天局的](https://zh.wikipedia.org/wiki/欧洲航天局 "wikilink")[阿丽亚娜5号將其送上軌道](https://zh.wikipedia.org/wiki/阿丽亚娜5号 "wikilink")，屬於[地球同步衛星](https://zh.wikipedia.org/wiki/地球同步衛星 "wikilink")。
+**GK2A**是韩国[氣象衛星](../Page/氣象衛星.md "wikilink")之一，由[韩国氣象廳開發](https://zh.wikipedia.org/wiki/韩国氣象廳 "wikilink")，[KARI製造](https://zh.wikipedia.org/wiki/KARI "wikilink")。於2018年12月4日由[欧洲航天局的](https://zh.wikipedia.org/wiki/欧洲航天局 "wikilink")[阿丽亚娜5号將其送上軌道](https://zh.wikipedia.org/wiki/阿丽亚娜5号 "wikilink")，屬於[地球同步衛星](https://zh.wikipedia.org/wiki/地球同步衛星 "wikilink")。
 
 ## 發射
 
@@ -6,11 +6,11 @@
 
 ## 目的
 
-其作用為提供[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")、[東亞及](https://zh.wikipedia.org/wiki/東亞 "wikilink")[西太平洋之週邊的](https://zh.wikipedia.org/wiki/太平洋 "wikilink")[天氣預報](https://zh.wikipedia.org/wiki/天氣預報 "wikilink")、[颱風](../Page/颱風.md "wikilink")、[暴雨](../Page/暴雨.md "wikilink")、[氣候變化的](https://zh.wikipedia.org/wiki/氣候變化 "wikilink")[觀察](https://zh.wikipedia.org/wiki/觀察 "wikilink")、[預測等相關之報告](https://zh.wikipedia.org/wiki/預測 "wikilink")，同時負責確保[船隻與](https://zh.wikipedia.org/wiki/船隻 "wikilink")[航空的安全以及觀察地球之環境](../Page/航空.md "wikilink")。
+其作用為提供[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")、[東亞及](https://zh.wikipedia.org/wiki/東亞 "wikilink")[西太平洋之週邊的](https://zh.wikipedia.org/wiki/太平洋 "wikilink")[天氣預報](https://zh.wikipedia.org/wiki/天氣預報 "wikilink")、[颱風](../Page/颱風.md "wikilink")、[暴雨](../Page/暴雨.md "wikilink")、[氣候變化的](https://zh.wikipedia.org/wiki/氣候變化 "wikilink")[觀察](https://zh.wikipedia.org/wiki/觀察 "wikilink")、[預測等相關之報告](https://zh.wikipedia.org/wiki/預測 "wikilink")，同時負責確保[船隻與](https://zh.wikipedia.org/wiki/船隻 "wikilink")[航空](../Page/航空.md "wikilink")的安全以及觀察地球之環境。
 
 ### 成像儀之波段
 
-GK2A內置的高像素紅外線成像儀（AMI）的[可視波長與](../Page/可见光.md "wikilink")[近紅外線達](https://zh.wikipedia.org/wiki/紅外線 "wikilink")3波段，同時內置的[传感器能感應紅外線](../Page/传感器.md "wikilink")10至16波段。
+GK2A內置的高像素紅外線成像儀（AMI）的[可視波長與](../Page/可见光.md "wikilink")[近紅外線達](https://zh.wikipedia.org/wiki/紅外線 "wikilink")3波段，同時內置的[传感器](../Page/传感器.md "wikilink")能感應紅外線10至16波段。
 
 <table>
 <caption>GK2A觀察之波段</caption>
@@ -158,5 +158,4 @@ GK2A內置的高像素紅外線成像儀（AMI）的[可視波長與](../Page/�
 </tbody>
 </table>
 
-[Category:韩国人造衛星](https://zh.wikipedia.org/wiki/Category:韩国人造衛星 "wikilink")
-[Category:氣象衛星](https://zh.wikipedia.org/wiki/Category:氣象衛星 "wikilink")
+[Category:韩国人造衛星](https://zh.wikipedia.org/wiki/Category:韩国人造衛星 "wikilink") [Category:氣象衛星](https://zh.wikipedia.org/wiki/Category:氣象衛星 "wikilink")

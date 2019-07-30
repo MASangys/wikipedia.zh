@@ -1,9 +1,6 @@
-**Gremlin**是[Apache软件基金会下的Apache](../Page/Apache软件基金会.md "wikilink")
-TinkerPop开发的[图遍历语言和](https://zh.wikipedia.org/wiki/图遍历 "wikilink")[虚拟机](https://zh.wikipedia.org/wiki/虚拟机 "wikilink")。Gremlin适用于基于[OLTP的图数据库以及基于](https://zh.wikipedia.org/wiki/OLTP "wikilink")[OLAP的图处理器](https://zh.wikipedia.org/wiki/OLAP "wikilink")。Gremlin的[函数式语言和](https://zh.wikipedia.org/wiki/函数式语言 "wikilink")[自动机基础使Gremlin能够自然地支持](https://zh.wikipedia.org/wiki/自动机 "wikilink")[命令式和](https://zh.wikipedia.org/wiki/命令式程式設計 "wikilink")[声明式查询](https://zh.wikipedia.org/wiki/声明式编程 "wikilink")、主机语言不可知性、用户定义的[领域特定语言](https://zh.wikipedia.org/wiki/领域特定语言 "wikilink")、可扩展的编译器/优化器、单机和多机运行模型、混合深度和广度优先评估以及[图灵完备性](https://zh.wikipedia.org/wiki/图灵完备性 "wikilink")。\[1\]
+**Gremlin**是[Apache软件基金会](../Page/Apache软件基金会.md "wikilink")下的Apache TinkerPop开发的[图遍历语言和](https://zh.wikipedia.org/wiki/图遍历 "wikilink")[虚拟机](https://zh.wikipedia.org/wiki/虚拟机 "wikilink")。Gremlin适用于基于[OLTP的图数据库以及基于](https://zh.wikipedia.org/wiki/OLTP "wikilink")[OLAP的图处理器](https://zh.wikipedia.org/wiki/OLAP "wikilink")。Gremlin的[函数式语言和](https://zh.wikipedia.org/wiki/函数式语言 "wikilink")[自动机基础使Gremlin能够自然地支持](https://zh.wikipedia.org/wiki/自动机 "wikilink")[命令式和](https://zh.wikipedia.org/wiki/命令式程式設計 "wikilink")[声明式查询](https://zh.wikipedia.org/wiki/声明式编程 "wikilink")、主机语言不可知性、用户定义的[领域特定语言](https://zh.wikipedia.org/wiki/领域特定语言 "wikilink")、可扩展的编译器/优化器、单机和多机运行模型、混合深度和广度优先评估以及[图灵完备性](https://zh.wikipedia.org/wiki/图灵完备性 "wikilink")。\[1\]
 
-作为一个解释性的类比，Apache
-TinkerPop和Gremlin之于[图数据库](../Page/图数据库.md "wikilink")，就如同[JDBC和](https://zh.wikipedia.org/wiki/JDBC "wikilink")[SQL之于](../Page/SQL.md "wikilink")[关系型数据库](https://zh.wikipedia.org/wiki/关系型数据库 "wikilink")。
-同样，Gremlin遍历机与图计算的关系也类似于为[Java虚拟机与通用计算之间的关系](../Page/Java虚拟机.md "wikilink")。\[2\]
+作为一个解释性的类比，Apache TinkerPop和Gremlin之于[图数据库](../Page/图数据库.md "wikilink")，就如同[JDBC和](https://zh.wikipedia.org/wiki/JDBC "wikilink")[SQL](../Page/SQL.md "wikilink")之于[关系型数据库](https://zh.wikipedia.org/wiki/关系型数据库 "wikilink")。 同样，Gremlin遍历机与图计算的关系也类似于为[Java虚拟机](../Page/Java虚拟机.md "wikilink")与通用计算之间的关系。\[2\]
 
 ## 历史
 
@@ -37,8 +34,7 @@ Gremlin是[Apache2许可的图遍历语言](../Page/Apache许可证.md "wikilink
 
 ## 图遍历示例
 
-以下Gremlin-Groovy环境中的Gremlin查询和响应示例与[MovieLens](http://grouplens.org/datasets/movielens/)数据集的图表示有关。\[3\]
-该数据集包括为电影评分的用户，每个用户都有各自的职业，每部电影都有一个或多个与之相关的类别，MovieLens图表架构详述如下。
+以下Gremlin-Groovy环境中的Gremlin查询和响应示例与[MovieLens](http://grouplens.org/datasets/movielens/)数据集的图表示有关。\[3\] 该数据集包括为电影评分的用户，每个用户都有各自的职业，每部电影都有一个或多个与之相关的类别，MovieLens图表架构详述如下。
 
 ``` cypher
 user--rated[stars:0-5]-->movie
@@ -132,8 +128,7 @@ gremlin> g.V().hasLabel('movie').as('a','b').
 
 ### 声明式模式匹配遍历
 
-Gremlin支持类似于[SPARQL的声明式图模式匹配](../Page/SPARQL.md "wikilink")。例如，下面的查询使用了Gremlin的match()
-步骤。
+Gremlin支持类似于[SPARQL](../Page/SPARQL.md "wikilink")的声明式图模式匹配。例如，下面的查询使用了Gremlin的match() 步骤。
 
 |   |                                                        |   |
 | - | ------------------------------------------------------ | - |
@@ -194,15 +189,15 @@ gremlin> g.V().repeat(outE('rated').has('stars', 5).inV().
 
 Gremlin是一个由指令集和执行引擎组成的[虚拟机](https://zh.wikipedia.org/wiki/虚拟机 "wikilink")。下表在Gremlin和Java之间进行了类比。
 
-| Java生态系统                                                        | Gremlin生态系统     |
-| --------------------------------------------------------------- | --------------- |
-| [Apache Groovy编程语言](../Page/Groovy.md "wikilink")               | Gremlin-Groovy  |
-| [Scala编程语言](../Page/Scala.md "wikilink")                        | Gremlin-Scala   |
-| [Clojure编程语言](https://zh.wikipedia.org/wiki/Clojure "wikilink") | Gremlin-Clojure |
-| …                                                               | …               |
-| [Java编程语言](../Page/Java.md "wikilink")                          | Gremlin-Java8   |
-| Java指令集                                                         | Gremlin步骤库      |
-| [Java虚拟机](../Page/Java虚拟机.md "wikilink")                        | Gremlin遍历机      |
+| Java生态系统                                          | Gremlin生态系统     |
+| ------------------------------------------------- | --------------- |
+| [Apache Groovy编程语言](../Page/Groovy.md "wikilink") | Gremlin-Groovy  |
+| [Scala](../Page/Scala.md "wikilink")编程语言          | Gremlin-Scala   |
+| [Clojure](../Page/Clojure.md "wikilink")编程语言      | Gremlin-Clojure |
+| …                                                 | …               |
+| [Java](../Page/Java.md "wikilink")编程语言            | Gremlin-Java8   |
+| Java指令集                                           | Gremlin步骤库      |
+| [Java虚拟机](../Page/Java虚拟机.md "wikilink")          | Gremlin遍历机      |
 
 ### Gremlin步骤(指令集)
 
@@ -271,19 +266,9 @@ Gremlin图遍历机可以在单台机器上执行，也可以在多机计算集�
 1.  [Apache TinkerPop主页](http://tinkerpop.apache.org/)
 2.  [GremlinDocs.com (TinkerPop2)](http://gremlindocs.com/)
 3.  [sql2gremlin.com (TinkerPop2)](http://sql2gremlin.com/)
-4.  Rodriguez, M.A., "[The Gremlin Graph Traversal Machine and
-    Language](https://zh.wikipedia.org/wiki/arxiv:1508.03843 "wikilink"),"
-    Proceedings of the ACM Database Programming Languages Conference,
-    October, 2015.
+4.  Rodriguez, M.A., "[The Gremlin Graph Traversal Machine and Language](https://zh.wikipedia.org/wiki/arxiv:1508.03843 "wikilink")," Proceedings of the ACM Database Programming Languages Conference, October, 2015.
 
-[Category:宣告式編程語言](https://zh.wikipedia.org/wiki/Category:宣告式編程語言 "wikilink")
-[Category:Java平台](https://zh.wikipedia.org/wiki/Category:Java平台 "wikilink")
-[Category:使用Apache许可证的软件](https://zh.wikipedia.org/wiki/Category:使用Apache许可证的软件 "wikilink")
-[Category:Apache软件基金会](https://zh.wikipedia.org/wiki/Category:Apache软件基金会 "wikilink")
-[Category:Hadoop](https://zh.wikipedia.org/wiki/Category:Hadoop "wikilink")
-[Category:数据挖掘和机器学习软件](https://zh.wikipedia.org/wiki/Category:数据挖掘和机器学习软件 "wikilink")
-[Category:叢集計算](https://zh.wikipedia.org/wiki/Category:叢集計算 "wikilink")
-[Category:有未审阅翻译的页面](https://zh.wikipedia.org/wiki/Category:有未审阅翻译的页面 "wikilink")
+[Category:宣告式編程語言](https://zh.wikipedia.org/wiki/Category:宣告式編程語言 "wikilink") [Category:Java平台](https://zh.wikipedia.org/wiki/Category:Java平台 "wikilink") [Category:使用Apache许可证的软件](https://zh.wikipedia.org/wiki/Category:使用Apache许可证的软件 "wikilink") [Category:Apache软件基金会](https://zh.wikipedia.org/wiki/Category:Apache软件基金会 "wikilink") [Category:Hadoop](https://zh.wikipedia.org/wiki/Category:Hadoop "wikilink") [Category:数据挖掘和机器学习软件](https://zh.wikipedia.org/wiki/Category:数据挖掘和机器学习软件 "wikilink") [Category:叢集計算](https://zh.wikipedia.org/wiki/Category:叢集計算 "wikilink") [Category:有未审阅翻译的页面](https://zh.wikipedia.org/wiki/Category:有未审阅翻译的页面 "wikilink")
 
 1.
 2.

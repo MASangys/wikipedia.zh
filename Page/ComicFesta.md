@@ -6,8 +6,7 @@
 
 除了既有的動畫作品以外，此平台亦有提供《[與僧侶交合的色慾之夜](../Page/與僧侶交合的色慾之夜.md "wikilink")》等原作由該平台母公司旗下服務上刊載的作品所改編而成的動畫，並稱之為「ComicFesta動畫」。\[2\]由於該等原作漫畫包含漫畫、[BL漫畫和](../Page/BL_\(和製英語\).md "wikilink")[成人漫畫作品](https://zh.wikipedia.org/wiki/成人漫畫 "wikilink")，此平台會製作並獨家播放該等作品的[成人向「完全版」動畫](../Page/成人動畫.md "wikilink")。
 
-此平台製作的動畫在Anime
-Zone以外也會在透過各電視台及網絡平台播放通常版或者R-15版。對於此等作品，也有人按其放送的第一套作品來命名並稱之為「**僧侶番**」。\[3\]
+此平台製作的動畫在Anime Zone以外也會在透過各電視台及網絡平台播放通常版或者R-15版。對於此等作品，也有人按其放送的第一套作品來命名並稱之為「**僧侶番**」。\[3\]
 
 另外，此平台也有提供其他作品的版和同公司旗下其他漫畫改編的電視劇集。
 
@@ -49,9 +48,7 @@ Zone以外也會在透過各電視台及網絡平台播放通常版或者R-15版
   -
   -
   -
-[Category:有未审阅翻译的页面](https://zh.wikipedia.org/wiki/Category:有未审阅翻译的页面 "wikilink")
-[Category:電子書發行服務](https://zh.wikipedia.org/wiki/Category:電子書發行服務 "wikilink")
-[Category:網路漫畫網站](https://zh.wikipedia.org/wiki/Category:網路漫畫網站 "wikilink")
+[Category:有未审阅翻译的页面](https://zh.wikipedia.org/wiki/Category:有未审阅翻译的页面 "wikilink") [Category:電子書發行服務](https://zh.wikipedia.org/wiki/Category:電子書發行服務 "wikilink") [Category:網路漫畫網站](https://zh.wikipedia.org/wiki/Category:網路漫畫網站 "wikilink")
 
 1.
 2.

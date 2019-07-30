@@ -19,13 +19,36 @@
 **西北方华（花）德佛**，佛国名“众音”：“西北方去此，无量无边，恒河沙等佛土，有世界名众音。佛号华德，今现在说法。其佛色身，犹如妙华，其德无量。”
 **东北方三乘行佛**，佛国名“安隐（穩）”：“东北方去此，无量无边，恒河沙等佛土，有世界名安隐。佛号三乘行，今现在说法。其佛常说声闻行，辟支佛行，诸菩萨行。有人言，说上中下精进故，号为三乘行。”
 **上方廣众德佛**，佛国名“众月”：“上方去此，无量无边，恒河沙等佛土，有世界名众月。佛号广众德，今现在说法。其佛弟子，福德广大故，号广众德。”
-**下方明德佛**，佛国名“廣大”：“下方去此，无量无边，恒河沙等佛土，有世界名广大。佛号明德，今现在说法。明名身明、智慧明、宝树光明，是三种明，常照世间。”
-</ref>
+**下方明德佛**，佛国名“廣大”：“下方去此，无量无边，恒河沙等佛土，有世界名广大。佛号明德，今现在说法。明名身明、智慧明、宝树光明，是三种明，常照世间。” </ref>
 
-  - 東方[藥師佛](../Page/阿閦佛.md "wikilink")，東南方[持地佛](https://zh.wikipedia.org/wiki/持地佛 "wikilink")，南方[普滿佛](https://zh.wikipedia.org/wiki/普滿佛 "wikilink")，西南方\[\[那羅延佛|那
+  - 東方[藥師佛](../Page/阿閦佛.md "wikilink")，東南方[持地佛](https://zh.wikipedia.org/wiki/持地佛 "wikilink")，南方[普滿佛](https://zh.wikipedia.org/wiki/普滿佛 "wikilink")，西南方[那羅延佛](https://zh.wikipedia.org/wiki/那羅延佛 "wikilink")，西方[無量壽佛](https://zh.wikipedia.org/wiki/無量壽佛 "wikilink")，西北方[月光面佛](https://zh.wikipedia.org/wiki/月光面佛 "wikilink")，北方[難勝佛](https://zh.wikipedia.org/wiki/難勝佛 "wikilink")，東北方[寂諸根佛](https://zh.wikipedia.org/wiki/寂諸根佛 "wikilink")，上方[無量勝佛](https://zh.wikipedia.org/wiki/無量勝佛 "wikilink")，下方[實行佛](https://zh.wikipedia.org/wiki/實行佛 "wikilink")。\[3\]
 
 <!-- end list -->
+
+  - 東方[阿閦佛](../Page/阿閦佛.md "wikilink")、南方[寶生佛](https://zh.wikipedia.org/wiki/寶生佛 "wikilink")、西方[阿弥陀佛](../Page/阿弥陀佛.md "wikilink")、北方[不空成就佛](https://zh.wikipedia.org/wiki/不空成就佛 "wikilink")、下方[毘盧遮那佛](https://zh.wikipedia.org/wiki/毘盧遮那佛 "wikilink")、上方[釋迦牟尼佛](https://zh.wikipedia.org/wiki/釋迦牟尼佛 "wikilink")、東南方[廣大雲雷音佛](https://zh.wikipedia.org/wiki/廣大雲雷音佛 "wikilink")、西南方[因陀羅咭都幢佛](https://zh.wikipedia.org/wiki/因陀羅咭都幢佛 "wikilink")、西北方[娑羅因陀羅王如來](https://zh.wikipedia.org/wiki/娑羅因陀羅王如來 "wikilink")、東北方[遊步佛](https://zh.wikipedia.org/wiki/遊步佛 "wikilink")。\[4\]
+
+<!-- end list -->
+
+  - 東方[不动佛](../Page/阿閦佛.md "wikilink")、南方日月光佛、西方[無量壽佛](../Page/阿弥陀佛.md "wikilink")、北方無量光嚴通達覺慧佛、下方一切妙法正理常放火王勝德光明佛、上方梵音佛、東南方最勝廣大雲雷音王佛、西南方最勝日光名稱功德佛、西北方無量功德火王光明佛、東北方無數百千俱胝廣慧佛。\[5\]
+
+[十方佛名.JPG](https://zh.wikipedia.org/wiki/File:十方佛名.JPG "fig:十方佛名.JPG")
+
+## 參考資料
+
+## 參見
+
+  - [十方 (佛教)](https://zh.wikipedia.org/wiki/十方_\(佛教\) "wikilink")
+  - [五方佛](../Page/五方佛.md "wikilink")
+  - [三世佛](../Page/三世佛.md "wikilink")
+  - [佛陀名号列表](https://zh.wikipedia.org/wiki/佛陀名号列表 "wikilink")
+  - [十方诸佛诤论](https://zh.wikipedia.org/wiki/十方诸佛诤论 "wikilink")
+
+[Category:佛](https://zh.wikipedia.org/wiki/Category:佛 "wikilink") [Category:佛教名數10](https://zh.wikipedia.org/wiki/Category:佛教名數10 "wikilink") [Category:佛教術語](https://zh.wikipedia.org/wiki/Category:佛教術語 "wikilink")
 
 1.
 
 2.
+3.
+4.  《阿彌陀經》，见[《佛学大辞典》【十佛】](https://zh.wikipedia.org/wiki/:s:佛學大辭典/十佛 "wikilink")
+
+5.  《稱讚淨土經》，见[《佛学大辞典》【十佛】](https://zh.wikipedia.org/wiki/:s:佛學大辭典/十佛 "wikilink")

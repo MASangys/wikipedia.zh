@@ -35,8 +35,7 @@
 
 加热时能被氯气氧化：
 
-\[\mathsf{2Na_3[IrCl_6] + Cl_2 \ \xrightarrow{400-500^oC}\ 2Na_2[IrCl_6] + 2NaCl }\]
-酸性溶液中的空气也能完成氧化过程。\[1\]
+\[\mathsf{2Na_3[IrCl_6] + Cl_2 \ \xrightarrow{400-500^oC}\ 2Na_2[IrCl_6] + 2NaCl }\] 酸性溶液中的空气也能完成氧化过程。\[1\]
 
 和氯化钾反应生成钾盐沉淀：
 
@@ -50,10 +49,6 @@
   -
   -
   -
-[Category:铱配合物](https://zh.wikipedia.org/wiki/Category:铱配合物 "wikilink")
-[Category:氯代酸盐](https://zh.wikipedia.org/wiki/Category:氯代酸盐 "wikilink")
-[Category:钠化合物](https://zh.wikipedia.org/wiki/Category:钠化合物 "wikilink")
+[Category:铱配合物](https://zh.wikipedia.org/wiki/Category:铱配合物 "wikilink") [Category:氯代酸盐](https://zh.wikipedia.org/wiki/Category:氯代酸盐 "wikilink") [Category:钠化合物](https://zh.wikipedia.org/wiki/Category:钠化合物 "wikilink")
 
-1.  [Structural and spectroscopic investigations of halogeno complexes
-    of iridium (III) and iridium
-    (IV)](https://core.ac.uk/download/pdf/35468497.pdf). \[2018-11-2\]
+1.  [Structural and spectroscopic investigations of halogeno complexes of iridium (III) and iridium (IV)](https://core.ac.uk/download/pdf/35468497.pdf). \[2018-11-2\]

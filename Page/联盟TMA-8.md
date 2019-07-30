@@ -2,20 +2,31 @@
 
 ## 乘员
 
-{{Spaceflight crew |position1 = 指令长 |crew1_up =
-[帕维尔·维诺格拉多夫](../Page/帕维尔·维诺格拉多夫.md "wikilink"),
-[RKA](../Page/俄羅斯航太.md "wikilink")\[1\] |flights1_up = 2
-|expedition1_up =[远征13](https://zh.wikipedia.org/wiki/远征13 "wikilink")
-|position2 = 飞行工程师 |crew2_up =
-[杰弗里·威廉姆斯](https://zh.wikipedia.org/wiki/杰弗里·威廉姆斯 "wikilink"),
-[NASA](../Page/美国国家航空航天局.md "wikilink")\[2\] |flights2_up =2
-|expedition2_up = 远征13 |position3 = 太空飞行参与者 |crew3_up =
-[马科斯·庞特斯](https://zh.wikipedia.org/wiki/马科斯·庞特斯 "wikilink"),
-[AEB](../Page/巴西航天局.md "wikilink")\[3\] |flights3_up = 1 |crew3_down =
-/ [阿努什·安萨里](https://zh.wikipedia.org/wiki/阿努什·安萨里 "wikilink"),
-[SA](../Page/太空探險公司.md "wikilink") |flights3_down = 1 |det
+### 候补成员
+
+## 任务细节
+
+2006年3月30日凌晨2时30分，TMA-8载人飞船在哈萨克斯坦境内的拜科努尔发射场成功发射\[1\]。4时19分，飞船与国际空间站[曙光号功能货舱完成了自动对接](https://zh.wikipedia.org/wiki/曙光号功能货舱 "wikilink")\[2\]，3名宇航员在检查了对接口的密封性能并确认安全后，于5时59分打开曙光号舱门并陆续进入空间站\[3\]。
+
+其中，[马科斯·庞特斯是第一位](https://zh.wikipedia.org/wiki/马科斯·庞特斯 "wikilink")[巴西](../Page/巴西.md "wikilink")籍“太空游客”，也是第一位进入太空的巴西人。他此前接受了[NASA的航天训练](https://zh.wikipedia.org/wiki/NASA "wikilink")。巴西政府为他的此次旅行支付了约2000万[美元](../Page/美元.md "wikilink")\[4\]。
+
+## 图集
+
+Soyuz TMA-8 crew.jpg|在[拜科努尔航天发射场](../Page/拜科努尔航天发射场.md "wikilink")发射前的队员 SoyuzTMA8 Launch.jpg|发射 Jeffrey Williams inside the Soyuz TMA-8 spacecraft.jpg|威廉姆斯
+
+## 参见
+
+  - [2006年航天活动列表](../Page/2006年航天活动列表.md "wikilink")
+
+## 参考文献
+
+## 外部链接
+
+  - [联盟TMA-8](http://www.nasa.gov/mission_pages/station/expeditions/expedition13/index.html)
+
+[Category:2006年發射的太空飛行器](https://zh.wikipedia.org/wiki/Category:2006年發射的太空飛行器 "wikilink") [Category:联盟计划](https://zh.wikipedia.org/wiki/Category:联盟计划 "wikilink")
 
 1.
-
 2.
 3.
+4.

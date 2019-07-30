@@ -1,26 +1,18 @@
-是一款由[Cygames所製作的奇幻風格角色扮演手機遊戲](../Page/Cygames.md "wikilink")，前身為2015年至2016年間營運的《公主連結》。本遊戲除了在日本上市外，也與海外業者合作推出包含繁體中文、簡體中文、韓文等版本\[1\]。
+是一款由[Cygames](../Page/Cygames.md "wikilink")所製作的奇幻風格角色扮演手機遊戲，前身為2015年至2016年間營運的《公主連結》。本遊戲除了在日本上市外，也與海外業者合作推出包含繁體中文、簡體中文、韓文等版本\[1\]。
 
 2019年2月15日，在一周年生放送上宣布《超異域公主連結 Re:Dive》TV動畫化。\[2\]
 
 ## 簡介與特色
 
-主要特色為動畫方式表現的劇情，由[Wit
-Studio所製作](../Page/WIT_STUDIO.md "wikilink")，並結合腳本家[日日日](../Page/日日日.md "wikilink")、作曲家[田中公平](../Page/田中公平.md "wikilink")\[3\]。玩家可將蒐集到的角色，組成五人編隊，依前鋒、中鋒、後衛三排與[NPC交戰](https://zh.wikipedia.org/wiki/NPC "wikilink")；而玩家也可組織[公會](https://zh.wikipedia.org/wiki/公會 "wikilink")，除了與NPC對戰外，也能與其他玩家進行對戰。
+主要特色為動畫方式表現的劇情，由[Wit Studio所製作](../Page/WIT_STUDIO.md "wikilink")，並結合腳本家[日日日](../Page/日日日.md "wikilink")、作曲家[田中公平](../Page/田中公平.md "wikilink")\[3\]。玩家可將蒐集到的角色，組成五人編隊，依前衛、中衛、後衛三排與[NPC交戰](https://zh.wikipedia.org/wiki/NPC "wikilink")；而玩家也可組織[公會](https://zh.wikipedia.org/wiki/公會 "wikilink")，除了與NPC對戰外，也能與其他玩家進行對戰。
 
 ### 主線任務與劇情
 
-遊戲以無數關卡作為區分，每個關卡會有三波怪物來襲，每波有一分半的時間，在時間內將所有怪物打倒便算過關並獲得獎勵。
-通過特定關卡之後便可閱讀更多主線劇情的章節。 除了 Normal
-(一般)之外，還有 Hard (困難)的關卡，
-困難的關卡和一般的關卡是分開的，沒有通過困難的關卡並不會影響一般關卡的推進，並且，困難的關卡不會影響閱讀主線劇情，
-但是困難關卡通關會贈送特定角色的記憶碎片，這些記憶碎片可以用來升級角色的星等或是獲得新的角色。
+遊戲以無數關卡作為區分，每個關卡會有三波怪物來襲，每波有一分半的時間，在時間內將所有怪物打倒便算過關並獲得獎勵。 通過特定關卡之後便可閱讀更多主線劇情的章節。 除了 Normal (一般)之外，還有 Hard (困難)的關卡， 困難的關卡和一般的關卡是分開的，沒有通過困難的關卡並不會影響一般關卡的推進，並且，困難的關卡不會影響閱讀主線劇情， 但是困難關卡通關會贈送特定角色的記憶碎片，這些記憶碎片可以用來升級角色的星等或是獲得新的角色。
 
 ### 競技場
 
-分為戰鬥競技場與公主競技場，戰鬥競技場每個玩家需要準備一組 5 名角色的隊伍，並挑戰其他比自己名次靠前的玩家，與其他遊戲內的戰鬥不同，
-競技場除了選擇角色以外，玩家無法控制戰鬥的過程，包含必殺技的施放。 每當玩家得到歷史新高的排名時，系統會予以獎勵。
-另外，每天下午三點系統會根據玩家排名再額外給予獎勵。 公主競技場和戰鬥競技場類似，只是玩家必須準備三組隊伍。
-值得一提的是，並非所有伺服器的玩家都待在同一個競技場內，系統會依照玩家通過主線任務關卡的時間進行分區，以確保新手不會與資深玩家分在同一個競技場內。
+分為戰鬥競技場與公主競技場，戰鬥競技場每個玩家需要準備一組 5 名角色的隊伍，並挑戰其他比自己名次靠前的玩家，與其他遊戲內的戰鬥不同， 競技場除了選擇角色以外，玩家無法控制戰鬥的過程，包含必殺技的施放。 每當玩家得到歷史新高的排名時，系統會予以獎勵。 另外，每天下午三點系統會根據玩家排名再額外給予獎勵。 公主競技場和戰鬥競技場類似，只是玩家必須準備三組隊伍。 值得一提的是，並非所有伺服器的玩家都待在同一個競技場內，系統會依照玩家通過主線任務關卡的時間進行分區，以確保新手不會與資深玩家分在同一個競技場內。
 
 ### 活動
 
@@ -28,10 +20,7 @@ Studio所製作](../Page/WIT_STUDIO.md "wikilink")，並結合腳本家[日日�
 
 ### 戰隊競賽
 
-2\~30名的玩家可以組成戰隊，戰隊內的成員可以通訊並交換道具、租借戰鬥用的角色。 在月底的最後 10
-日會舉辦以戰隊為單位的比賽。所有戰隊成員在消耗了 300
-體力之後，可以選擇攻擊一隻血條非常長的 Boss， 戰隊內的所有成員的傷害將會累積， 當累積傷害將 Boss 打死時可以再挑戰下一隻
-Boss，活動結束之後官方會對所有伺服器的戰隊總傷害排名並給予獎勵。
+2\~30名的玩家可以組成戰隊，戰隊內的成員可以通訊並交換道具、租借戰鬥用的角色。 在月底的最後 10 日會舉辦以戰隊為單位的比賽。所有戰隊成員在消耗了 300 體力之後，可以選擇攻擊一隻血條非常長的 Boss， 戰隊內的所有成員的傷害將會累積， 當累積傷害將 Boss 打死時可以再挑戰下一隻 Boss，活動結束之後官方會對所有伺服器的戰隊總傷害排名並給予獎勵。
 
 ## 故事大綱
 
@@ -41,22 +30,8 @@ Boss，活動結束之後官方會對所有伺服器的戰隊總傷害排名並�
 
 ## 角色總覽
 
-介紹[公主連結
-Re:Dive中出現的人物](https://zh.wikipedia.org/wiki/公主連結_Re:Dive "wikilink")，過去於CyberAgent營運的遊戲「公主連結」中多數角色也繼承至此部作品中。
-{| class="wikitable" |+ 公主連結的角色，斜體代表目前實裝於日版伺服器但尚未引進台版 \! \!起始星等 \!角色名
-\!備註 |- |最初的四人 |★ |貪吃佩可、可可蘿、凱留、優衣 |進入遊戲後系統贈送 |- |一星常駐 |★
-|日和、-{怜}-、禊、碧、依里、鈴莓、胡桃、莉瑪、優花梨、*步未* | |- |二星常駐 |★★
-|千歌、紡希、美美、美里、宮子、茜里、忍、茉莉、綾音、香織、鈴、真陽、-{栞}-、美冬、珠希、惠理子、深月、美咲、鈴奈、七七香
-| |- |三星常駐 |★★★
-|靜流、璃乃、望、初音、咲戀、真琴、真步、秋乃、杏奈、伊緒、妮諾、純、鏡華、伊莉亞、智、流夏、*霞*、*空花（大江户）*、*妮諾（大江户）*
-| |- |合作角色 |
-|莫妮卡(★★★)、吉塔(★★★)、亞里莎(★★★)、*安(★★★)*、*露(★)*、*古蕾雅(★★★)*、*愛蜜莉雅(★★★)*、*雷姆(★★★)*、*拉姆(★)*
-|來自 Cygames 遊戲或其他作品的角色 |- |活動角色 |★
-|可可蘿(夏日)、美冬(夏日)、宮子(萬聖節)、胡桃(聖誕節)、-{怜}-（新年）、惠理子（情人節）
-|只能於活動期間免費取得的角色 |- |限定角色 |★★★
-|貪吃佩可(夏日)、凱留(夏日)、珠希(夏日)、鈴莓（夏日）、克莉絲提娜、忍(萬聖節)、美咲(萬聖節)、千歌(聖誕節)、綾音(聖誕節)、優衣(新年)、日和(新年)、靜流(情人節)*、*矛依未、*鈴奈(夏日)*
-|只能於活動期間轉蛋取得的角色 |- |尚未實裝 | |拉比林斯達、霸瞳皇帝、花凜、尾狗刀、似似花、祐樹（只在劇情戰鬥中出現）
-|出現在主線劇情內，但沒有出現在遊戲的的角色 |}
+介紹[公主連結 Re:Dive中出現的人物](https://zh.wikipedia.org/wiki/公主連結_Re:Dive "wikilink")，過去於CyberAgent營運的遊戲「公主連結」中多數角色也繼承至此部作品中。
+{| class="wikitable" |+ 公主連結的角色，斜體代表目前實裝於日版伺服器但尚未引進台版 \! \!起始星等 \!角色名 \!備註 |- |最初的四人 |★ |貪吃佩可、可可蘿、凱留、優衣 |進入遊戲後系統贈送 |- |一星常駐 |★ |日和、-{怜}-、禊、碧、依里、鈴莓、胡桃、莉瑪、優花梨、*步未* | |- |二星常駐 |★★ |千歌、紡希、美美、美里、宮子、茜里、忍、茉莉、綾音、香織、鈴、真陽、-{栞}-、美冬、珠希、惠理子、深月、美咲、鈴奈、七七香 | |- |三星常駐 |★★★ |靜流、璃乃、望、初音、咲戀、真琴、真步、秋乃、杏奈、伊緒、妮諾、純、鏡華、伊莉亞、智、流夏、*霞*、*空花（大江户）*、*妮諾（大江户）* | |- |合作角色 |★★★ |莫妮卡、吉塔、亞里莎、*安*、*古蕾雅*、*愛蜜莉雅*、*雷姆* |來自 Cygames 遊戲或其他作品的角色 |- |活動角色 |★ |可可蘿(夏日)、美冬(夏日)、宮子(萬聖節)、胡桃(聖誕節)、-{怜}-（新年）、惠理子（情人節）、*露*、*拉姆*、*伊緒（夏日）* |只能於活動期間免費取得的角色 |- |限定角色 |★★★ |貪吃佩可(夏日)、凱留(夏日)、珠希(夏日)、鈴莓（夏日）、克莉絲提娜、忍(萬聖節)、美咲(萬聖節)、千歌(聖誕節)、綾音(聖誕節)、優衣(新年)、日和(新年)、靜流(情人節)、矛依未、*鈴奈(夏日)*、*咲戀(夏日)* |只能於活動期間轉蛋取得的角色 |- |尚未實裝 | |拉比林斯達、霸瞳皇帝、花凜、尾狗刀、似似花、祐樹（只在劇情戰鬥中出現） |出現在主線劇情內，但沒有出現在遊戲的的角色 |}
 
 ### 美食殿堂
 
@@ -79,7 +54,7 @@ Re:Dive中出現的人物](https://zh.wikipedia.org/wiki/公主連結_Re:Dive "w
   -
     配音：[M·A·O](https://zh.wikipedia.org/wiki/M·A·O "wikilink")
     故事女主角之一，於前作中出現在主角最終決戰勝利後的彩蛋。
-    個性非常貪吃，主要武器為一把劍，劍上有咬痕的痕跡，該劍真實面貌為「皇家禮裝‧公主汁劍」，頭頂的王冠亦是「皇家禮裝」一部分，「皇家禮裝」能力解放時會消耗大量卡路里為代價而因此獲得強大的力量，貪吃性格的養成原因也源自於此，經常戰鬥的她都一定要消耗大量能量來維持戰鬥力。
+    個性非常貪吃，主要武器為一把劍，劍上有咬痕的痕跡，該劍真實面貌為「皇家禮裝‧公主之劍」，頭頂的王冠亦是「皇家禮裝」一部分，「皇家禮裝」能力解放時會消耗大量卡路里為代價而因此獲得強大的力量，貪吃性格的養成原因也源自於此，經常戰鬥的她都一定要消耗大量能量來維持戰鬥力。
 
 大招台詞：
 
@@ -695,8 +670,7 @@ Re:Dive中出現的人物](https://zh.wikipedia.org/wiki/公主連結_Re:Dive "w
 
   -
     配音：[日笠陽子](../Page/日笠陽子.md "wikilink")
-    來自《[巴哈姆特之怒 -Manaria
-    Friends-](https://zh.wikipedia.org/wiki/Mysteria_Friends "wikilink")》。
+    來自《[巴哈姆特之怒 -Manaria Friends-](https://zh.wikipedia.org/wiki/Mysteria_Friends "wikilink")》。
 
 大招台詞：
 
@@ -706,8 +680,7 @@ Re:Dive中出現的人物](https://zh.wikipedia.org/wiki/公主連結_Re:Dive "w
 
   -
     配音：[福原綾香](../Page/福原綾香.md "wikilink")
-    來自《[巴哈姆特之怒 -Manaria
-    Friends-](https://zh.wikipedia.org/wiki/Mysteria_Friends "wikilink")》。
+    來自《[巴哈姆特之怒 -Manaria Friends-](https://zh.wikipedia.org/wiki/Mysteria_Friends "wikilink")》。
 
 大招台詞：
 
@@ -717,8 +690,7 @@ Re:Dive中出現的人物](https://zh.wikipedia.org/wiki/公主連結_Re:Dive "w
 
   -
     配音：[古山貴實子](../Page/古山貴實子.md "wikilink")
-    來自《[巴哈姆特之怒 -Manaria
-    Friends-](https://zh.wikipedia.org/wiki/Mysteria_Friends "wikilink")》。
+    來自《[巴哈姆特之怒 -Manaria Friends-](https://zh.wikipedia.org/wiki/Mysteria_Friends "wikilink")》。
 
 大招台詞：
 
@@ -767,8 +739,7 @@ Re:Dive中出現的人物](https://zh.wikipedia.org/wiki/公主連結_Re:Dive "w
 
 ### 與前作的關係
 
-劇情與世界觀基本上與前作「公主連結」共通，本作的開頭正好是前作的結局。 不同的是這個世界是霸瞳皇帝擊敗前作主角群的世界。
-霸瞳皇帝在獲勝之後反轉現實世界與虛擬世界，並且奪取了公主之力與公主騎士之力。
+劇情與世界觀基本上與前作「公主連結」共通，本作的開頭正好是前作的結局。 不同的是這個世界是霸瞳皇帝擊敗前作主角群的世界。 霸瞳皇帝在獲勝之後反轉現實世界與虛擬世界，並且奪取了公主之力與公主騎士之力。
 
 ## 參考資料
 
@@ -784,16 +755,7 @@ Re:Dive中出現的人物](https://zh.wikipedia.org/wiki/公主連結_Re:Dive "w
   - [韓文官方推特](https://twitter.com/priconne_kr)
   - [日本動畫官方](https://anime.priconne-redive.jp/)
 
-[Category:2018年電子遊戲](https://zh.wikipedia.org/wiki/Category:2018年電子遊戲 "wikilink")
-[Category:日本開發電子遊戲](https://zh.wikipedia.org/wiki/Category:日本開發電子遊戲 "wikilink")
-[Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink")
-[Category:iOS遊戲](https://zh.wikipedia.org/wiki/Category:iOS遊戲 "wikilink")
-[Category:奇幻電子遊戲](https://zh.wikipedia.org/wiki/Category:奇幻電子遊戲 "wikilink")
-[Category:含付費內容的免費遊戲](https://zh.wikipedia.org/wiki/Category:含付費內容的免費遊戲 "wikilink")
-[Category:Cygames遊戲](https://zh.wikipedia.org/wiki/Category:Cygames遊戲 "wikilink")
-[Category:官方繁体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏 "wikilink")
-[Category:官方简体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方简体中文化游戏 "wikilink")
-[Category:Unity引擎游戏](https://zh.wikipedia.org/wiki/Category:Unity引擎游戏 "wikilink")
+[Category:2018年電子遊戲](https://zh.wikipedia.org/wiki/Category:2018年電子遊戲 "wikilink") [Category:日本開發電子遊戲](https://zh.wikipedia.org/wiki/Category:日本開發電子遊戲 "wikilink") [Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink") [Category:iOS遊戲](https://zh.wikipedia.org/wiki/Category:iOS遊戲 "wikilink") [Category:奇幻電子遊戲](https://zh.wikipedia.org/wiki/Category:奇幻電子遊戲 "wikilink") [Category:含付費內容的免費遊戲](https://zh.wikipedia.org/wiki/Category:含付費內容的免費遊戲 "wikilink") [Category:Cygames遊戲](https://zh.wikipedia.org/wiki/Category:Cygames遊戲 "wikilink") [Category:官方繁体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏 "wikilink") [Category:官方简体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方简体中文化游戏 "wikilink") [Category:Unity引擎游戏](https://zh.wikipedia.org/wiki/Category:Unity引擎游戏 "wikilink")
 
 1.
 2.

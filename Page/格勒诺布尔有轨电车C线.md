@@ -1,4 +1,4 @@
-**格勒诺布尔有轨电车C线**（）是法国东南部城市[格勒诺布尔的一条](../Page/格勒诺布尔.md "wikilink")[有轨电车线路](https://zh.wikipedia.org/wiki/有轨电车 "wikilink")，全长9.4公里，最初于2006年5月开通。
+**格勒诺布尔有轨电车C线**（）是法国东南部城市[格勒诺布尔](../Page/格勒诺布尔.md "wikilink")的一条[有轨电车线路](https://zh.wikipedia.org/wiki/有轨电车 "wikilink")，全长9.4公里，最初于2006年5月开通。
 
 ## 历史
 
@@ -16,8 +16,7 @@
 
 ## 车型
 
-格勒诺布尔有轨电车C线包括和[阿尔斯通 Citadis
-402型有轨电车两种](https://zh.wikipedia.org/wiki/阿尔斯通Citadis "wikilink")，共18列列车\[3\]。
+格勒诺布尔有轨电车C线包括和[阿尔斯通 Citadis 402型有轨电车两种](https://zh.wikipedia.org/wiki/阿尔斯通Citadis "wikilink")，共18列列车\[3\]。
 
 ## 车辆所
 

@@ -1,5 +1,4 @@
-《**I
-made**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[(G)I-DLE第二張迷你專輯](../Page/\(G\)I-DLE.md "wikilink")，於2019年2月26日推出，主打歌曲為〈Senorita〉。
+《**I made**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[(G)I-DLE](../Page/\(G\)I-DLE.md "wikilink")第二張迷你專輯，於2019年2月26日推出，主打歌曲為〈Senorita〉。
 
 ## 簡介
 
@@ -15,8 +14,7 @@ made**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子組�
 
 ### 正式發行
 
-2月26日，韓國時間下午6時，公開第二張迷你專輯《[I
-made](../Page/I_made.md "wikilink")》全輯音源及主打《Senorita》，並於同日舉行回歸Showcase。\[8\]
+2月26日，韓國時間下午6時，公開第二張迷你專輯《[I made](../Page/I_made.md "wikilink")》全輯音源及主打《Senorita》，並於同日舉行回歸Showcase。\[8\]
 
 ## 曲目
 
@@ -282,9 +280,7 @@ made](../Page/I_made.md "wikilink")》全輯音源及主打《Senorita》，並�
   -
 {{(G)I-DLE}}
 
-[Category:(G)I-DLE](https://zh.wikipedia.org/wiki/Category:\(G\)I-DLE "wikilink")
-[Category:韓國音樂專辑](https://zh.wikipedia.org/wiki/Category:韓國音樂專辑 "wikilink")
-[Category:2019年音樂專輯](https://zh.wikipedia.org/wiki/Category:2019年音樂專輯 "wikilink")
+[Category:(G)I-DLE](https://zh.wikipedia.org/wiki/Category:\(G\)I-DLE "wikilink") [Category:韓國音樂專辑](https://zh.wikipedia.org/wiki/Category:韓國音樂專辑 "wikilink") [Category:2019年音樂專輯](https://zh.wikipedia.org/wiki/Category:2019年音樂專輯 "wikilink")
 
 1.
 2.

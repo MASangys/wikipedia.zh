@@ -1,7 +1,6 @@
-《**你那邊怎樣·我這邊OK**》（）是一部台灣和新加坡合拍的[八點檔電視劇](../Page/八點檔.md "wikilink")，由[臺灣电视公司](https://zh.wikipedia.org/wiki/臺灣电视公司 "wikilink")、[拙八郎创意执行有限公司和](https://zh.wikipedia.org/wiki/拙八郎创意执行有限公司 "wikilink")[新加坡新传媒私人有限公司首次联合制作](../Page/新传媒私人有限公司.md "wikilink")、合作拍摄，[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[新加坡跨國合作兩地實景拍摄](../Page/新加坡.md "wikilink")；台灣團隊由身兼總導演、總監製的[王小棣帶領](../Page/王小棣.md "wikilink")、新加坡團隊由監製[梁來玲帶領](https://zh.wikipedia.org/wiki/梁來玲 "wikilink")，並且由[藍正龍](../Page/藍正龍.md "wikilink")、[曾之喬](../Page/曾之喬.md "wikilink")、[劉冠廷](../Page/劉冠廷.md "wikilink")、[陳泂江](../Page/陳泂江.md "wikilink")、[陳羅密歐](https://zh.wikipedia.org/wiki/陳羅密歐 "wikilink")、[沈琳宸領銜主演](https://zh.wikipedia.org/wiki/沈琳宸 "wikilink")，[藍心湄](../Page/藍心湄.md "wikilink")、曹西平、[曾沛慈](../Page/曾沛慈.md "wikilink")、[庹宗華](../Page/庹宗華.md "wikilink")、[吳岳擎](../Page/吳岳擎.md "wikilink")、[張耀仁](../Page/張耀仁.md "wikilink")、[黄俊雄](https://zh.wikipedia.org/wiki/黄俊雄 "wikilink")、[方伟杰](https://zh.wikipedia.org/wiki/方伟杰 "wikilink")、[鄭惠玉](https://zh.wikipedia.org/wiki/鄭惠玉 "wikilink")、[陳漢瑋](../Page/陳漢瑋.md "wikilink")、[張耀棟](../Page/張耀棟.md "wikilink")、[蔡琦慧](../Page/蔡琦慧.md "wikilink")、[陳泰銘](https://zh.wikipedia.org/wiki/陳泰銘 "wikilink")、[陳楚寰等台](../Page/陳楚寰.md "wikilink")、新知名演員共同演出。\[1\]\[2\]本劇於2019年1月16日開拍，5月30日殺青。
+《**你那邊怎樣·我這邊OK**》（）是一部台灣和新加坡合拍的電視劇，由[臺灣电视公司](https://zh.wikipedia.org/wiki/臺灣电视公司 "wikilink")、[拙八郎创意执行有限公司和](https://zh.wikipedia.org/wiki/拙八郎创意执行有限公司 "wikilink")[新加坡新传媒私人有限公司首次联合制作](../Page/新传媒私人有限公司.md "wikilink")、合作拍摄，[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[新加坡](../Page/新加坡.md "wikilink")跨國合作兩地實景拍摄；台灣團隊由身兼總導演、總監製的[王小棣](../Page/王小棣.md "wikilink")帶領、新加坡團隊由監製[梁來玲帶領](https://zh.wikipedia.org/wiki/梁來玲 "wikilink")，並且由[藍正龍](../Page/藍正龍.md "wikilink")、[曾之喬](../Page/曾之喬.md "wikilink")、[劉冠廷](../Page/劉冠廷.md "wikilink")、[陳泂江](../Page/陳泂江.md "wikilink")、[陳羅密歐](https://zh.wikipedia.org/wiki/陳羅密歐 "wikilink")、[沈琳宸領銜主演](https://zh.wikipedia.org/wiki/沈琳宸 "wikilink")，[藍心湄](../Page/藍心湄.md "wikilink")、曹西平、[曾沛慈](../Page/曾沛慈.md "wikilink")、[庹宗華](../Page/庹宗華.md "wikilink")、[吳岳擎](../Page/吳岳擎.md "wikilink")、[張耀仁](../Page/張耀仁.md "wikilink")、[黄俊雄](https://zh.wikipedia.org/wiki/黄俊雄 "wikilink")、[方伟杰](https://zh.wikipedia.org/wiki/方伟杰 "wikilink")、[鄭惠玉](https://zh.wikipedia.org/wiki/鄭惠玉 "wikilink")、[陳漢瑋](../Page/陳漢瑋.md "wikilink")、[張耀棟](../Page/張耀棟.md "wikilink")、[蔡琦慧](../Page/蔡琦慧.md "wikilink")、[陳泰銘](https://zh.wikipedia.org/wiki/陳泰銘 "wikilink")、[陳楚寰](../Page/陳楚寰.md "wikilink")等台、新知名演員共同演出。\[1\]\[2\]本劇於2019年1月16日開拍，5月30日殺青。
 
-本剧以2016年轰动台湾的自动提款机吐钞盗领案件为背景，剧情将双线开展，一条故事线在新加坡，另一条故事线则在台北；本剧同时也獲得中華民國文化部107年度電視節目製作補助案連續劇類補助3800萬元。\[3\]
-\[4\]
+本剧以2016年轰动台湾的自动提款机吐钞盗领案件为背景，剧情将双线开展，一条故事线在新加坡，另一条故事线则在台北；本剧同时也獲得中華民國文化部107年度電視節目製作補助案連續劇類補助3800萬元。\[3\] \[4\]
 本剧将在2019年8月底開始播出；新加坡故事线将在每逢星期一到五晚上9点在[新传媒8频道播出](https://zh.wikipedia.org/wiki/新传媒8频道 "wikilink")，台灣故事线则在同一晚10点在[新传媒U频道播出](https://zh.wikipedia.org/wiki/新传媒U频道 "wikilink")。[台視主頻也将同步播映这部剧集](../Page/臺灣電視台.md "wikilink")。\[5\]
 
 ## 剧情双线发展的特点
@@ -25,32 +24,24 @@
 <tr class="odd">
 <td><p><a href="../Page/臺灣電視台.md" title="wikilink">台視主頻</a></p></td>
 <td></td>
-<td><p>2019年8月</p></td>
-<td><p><strong>台灣篇（20集）</strong><br />
-週一至週五20:00 - 21:00</p></td>
+<td><p>2019年8月30日</p></td>
+<td><p>每週五22:00</p></td>
 </tr>
 <tr class="even">
-<td><p><strong>新加坡篇（20集）</strong><br />
-週一至週五21:00 - 22:00</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p><a href="../Page/新傳媒8頻道.md" title="wikilink">新傳媒8頻道</a></p></td>
 <td></td>
-<td><p>2019年8月</p></td>
+<td><p>2019年8月26日</p></td>
 <td><p><strong>新加坡篇（20集）</strong><br />
 週一至週五21:00 - 22:00</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/新傳媒U頻道.md" title="wikilink">新傳媒U頻道</a></p></td>
 <td><p><strong>台湾篇（20集）</strong><br />
 週一至週五22:00 - 23:00</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -78,15 +69,15 @@
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/蓝正龙" title="wikilink">蓝正龙</a></p></td>
 <td><p>郭豪森</p></td>
-<td><p><strong>騰昇銀行新加坡区经理</strong><br />
-富二代银行家，在哥哥意外身亡之後，接手擔任新加玻區的總經理，卻因為一樁命案陷入了複雜的困境。<br />
+<td><p><strong>騰昇銀行新加坡分行總經理</strong><br />
+郭嵩時之子，在哥哥意外身亡之後，接手擔任新加玻區的總經理，卻因為一樁命案陷入了複雜的困境。<br />
 与范筱艾有感情线</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/曾之喬.md" title="wikilink">曾之喬</a></p></td>
 <td><p>范筱艾</p></td>
 <td><p><strong>广告企划</strong><br />
-是母亲与富豪老爸生下的私生女，因童年时遭受家人的歧视与伤害，因此下定决心要嫁给自己同父异母的哥哥们更有钱的人，并对有钱人展开“报复”，于是在大学毕业之后回到台湾，进入广告公司当企划，同时也积极投资自己，让自己保持一个完美的姿态，做好随时可以嫁入豪门的准备。机缘巧合下，开始锁定来新接手银行区经理职位的郭豪森成为目标。</p></td>
+是母亲与富豪老爸生下的私生女，因童年时遭受家人的歧视与伤害，因此下定决心要嫁给比自己同父异母的哥哥们更有钱的人，并对有钱人展开“报复”，于是在大学毕业之后回到台湾，进入广告公司当企划，同时也积极投资自己，让自己保持一个完美的姿态，做好随时可以嫁入豪门的准备。机缘巧合下，开始锁定来新接手银行区经理职位的郭豪森成为目标。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/刘冠廷" title="wikilink">刘冠廷</a></p></td>
@@ -97,7 +88,7 @@
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/陈泂江" title="wikilink">陈泂江</a></p></td>
 <td><p>吴品叡</p></td>
-<td><p><strong>龍航集團副總</strong><br />
+<td><p><strong>龍航集團總經理</strong><br />
 表面上白淨斯文，实际上为人粗暴残忍，狡猾偏激，城府极深<br />
 与范筱艾是高中同学</p></td>
 </tr>
@@ -169,14 +160,14 @@
 <td><p><a href="../Page/黃俊雄_(藝人).md" title="wikilink">黃俊雄</a></p></td>
 <td><p>路瑞克<br />
 （Eric）</p></td>
-<td><p><strong>新加坡騰昇銀行银行员</strong><br />
+<td><p><strong>騰昇銀行新加坡員工</strong><br />
 专长: 骇客技术，针对ATM系统开发出破解程序<br />
 叶栋煌好友，与刘维芸有感情线</p></td>
 </tr>
 <tr class="even">
 <td><p>-{<a href="https://zh.wikipedia.org/wiki/方偉杰" title="wikilink">方偉杰</a>}-</p></td>
 <td><p>李昊</p></td>
-<td><p><strong>史耐達企業老闆</strong></p></td>
+<td><p><strong>史耐達集團</strong></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/郑惠玉.md" title="wikilink">郑惠玉</a></p></td>
@@ -218,7 +209,7 @@
 <tr class="even">
 <td><p><a href="../Page/范文芳.md" title="wikilink">范文芳</a></p></td>
 <td><p>Linda</p></td>
-<td><p>郭豪森特助</p></td>
+<td><p><strong>騰昇銀行特助</strong></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/孫情" title="wikilink">孫情</a></p></td>
@@ -242,7 +233,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/海裕芬.md" title="wikilink">海裕芬</a></p></td>
-<td></td>
+<td><p>阿梅</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -424,13 +415,10 @@
 
   - 其他参考文献
 
-[新台跨国犯罪剧开镜
-蓝正龙、陈泂江男神对决](https://www.zaobao.com.sg/zentertainment/movies-and-tv/story20190116-924405)
-[台湾新戏以吐钞案为背景
-蓝心湄蓝正龙再度合作](http://ent.sina.com.cn/2019-01-15/doc-ihqhqcis6425420.shtml)
+[新台跨国犯罪剧开镜 蓝正龙、陈泂江男神对决](https://www.zaobao.com.sg/zentertainment/movies-and-tv/story20190116-924405)
+[台湾新戏以吐钞案为背景 蓝心湄蓝正龙再度合作](http://ent.sina.com.cn/2019-01-15/doc-ihqhqcis6425420.shtml)
 [台灣與新加坡合製旗艦戲劇《你那邊怎樣.我這邊OK》亞洲巨星演技友誼賽](https://times.hinet.net/picNews/22191403)
-[曾因假新闻委屈落泪
-郑惠玉：现在再忍下去是笨蛋](https://entertainment.toggle.sg/zh/celebrityfeature/default-11100928)
+[曾因假新闻委屈落泪 郑惠玉：现在再忍下去是笨蛋](https://entertainment.toggle.sg/zh/celebrityfeature/default-11100928)
 
 ## 外部链接
 
@@ -438,26 +426,11 @@
   -
 ## 作品的變遷
 
-[Category:鄉土劇](https://zh.wikipedia.org/wiki/Category:鄉土劇 "wikilink")
-[Category:台灣偶像劇](https://zh.wikipedia.org/wiki/Category:台灣偶像劇 "wikilink")
-[Category:中文連續劇](https://zh.wikipedia.org/wiki/Category:中文連續劇 "wikilink")
-[Category:2019年台灣電視劇集](https://zh.wikipedia.org/wiki/Category:2019年台灣電視劇集 "wikilink")
-[Category:台視電視劇](https://zh.wikipedia.org/wiki/Category:台視電視劇 "wikilink")
-[Category:新傳媒合拍劇](https://zh.wikipedia.org/wiki/Category:新傳媒合拍劇 "wikilink")
-[Category:台北市背景電視劇](https://zh.wikipedia.org/wiki/Category:台北市背景電視劇 "wikilink")
-[Category:新加坡背景作品](https://zh.wikipedia.org/wiki/Category:新加坡背景作品 "wikilink")
-[Category:台灣犯罪劇](https://zh.wikipedia.org/wiki/Category:台灣犯罪劇 "wikilink")
-[Category:台灣懸疑劇](https://zh.wikipedia.org/wiki/Category:台灣懸疑劇 "wikilink")
-[Category:警察主角題材電視劇](https://zh.wikipedia.org/wiki/Category:警察主角題材電視劇 "wikilink")
-[Category:2016年背景作品](https://zh.wikipedia.org/wiki/Category:2016年背景作品 "wikilink")
+[Category:鄉土劇](https://zh.wikipedia.org/wiki/Category:鄉土劇 "wikilink") [Category:台灣偶像劇](https://zh.wikipedia.org/wiki/Category:台灣偶像劇 "wikilink") [Category:中文連續劇](https://zh.wikipedia.org/wiki/Category:中文連續劇 "wikilink") [Category:2019年台灣電視劇集](https://zh.wikipedia.org/wiki/Category:2019年台灣電視劇集 "wikilink") [Category:台視電視劇](https://zh.wikipedia.org/wiki/Category:台視電視劇 "wikilink") [Category:新傳媒合拍劇](https://zh.wikipedia.org/wiki/Category:新傳媒合拍劇 "wikilink") [Category:台北市背景電視劇](https://zh.wikipedia.org/wiki/Category:台北市背景電視劇 "wikilink") [Category:新加坡背景作品](https://zh.wikipedia.org/wiki/Category:新加坡背景作品 "wikilink") [Category:台灣犯罪劇](https://zh.wikipedia.org/wiki/Category:台灣犯罪劇 "wikilink") [Category:台灣懸疑劇](https://zh.wikipedia.org/wiki/Category:台灣懸疑劇 "wikilink") [Category:警察主角題材電視劇](https://zh.wikipedia.org/wiki/Category:警察主角題材電視劇 "wikilink") [Category:2016年背景作品](https://zh.wikipedia.org/wiki/Category:2016年背景作品 "wikilink")
 
-1.  [蓝正龙来新拍戏“赚到”
-    希望素颜上镜](https://entertainment.toggle.sg/zh/celebrityphotos/default-11001872#slideshow-1)
-2.  [与陈罗密欧谱姐弟恋
-    蓝心湄有信心“驾驭”](https://entertainment.toggle.sg/zh/celebrityphotos/default-11128564#slideshow-1)
+1.  [蓝正龙来新拍戏“赚到” 希望素颜上镜](https://entertainment.toggle.sg/zh/celebrityphotos/default-11001872#slideshow-1)
+2.  [与陈罗密欧谱姐弟恋 蓝心湄有信心“驾驭”](https://entertainment.toggle.sg/zh/celebrityphotos/default-11128564#slideshow-1)
 3.  [影視圈連署留任　鄭麗君感動：我這邊ok](https://news.tvbs.com.tw/politics/1066222)
 4.  [107年度電視節目製作補助獲補助名單](https://grants.moc.gov.tw/Web/AwardPublish.jsp?M=2&R=1&PT=2354&B=3070)
-5.  [新台联合出品大制作《你那边怎样.我这边OK》
-    明年8月底播映](https://www.8world.com/entertainment/tv/article/20181205-lif-mediacorp-taiwan-drama-336806)
-6.  [斥资数百万
-    新台男神同台飙戏！](https://www.8world.com/entertainment/e-news/article/default-367216)
+5.  [新台联合出品大制作《你那边怎样.我这边OK》 明年8月底播映](https://www.8world.com/entertainment/tv/article/20181205-lif-mediacorp-taiwan-drama-336806)
+6.  [斥资数百万 新台男神同台飙戏！](https://www.8world.com/entertainment/e-news/article/default-367216)

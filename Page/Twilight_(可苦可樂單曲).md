@@ -1,6 +1,4 @@
-《**Twilight**》是[可苦可樂的第](../Page/可苦可樂.md "wikilink")3張[數位單曲](../Page/數位音樂下載.md "wikilink")。於2014年11月8日由[Warner
-Music
-Japan發售](https://zh.wikipedia.org/wiki/Warner_Music_Japan "wikilink")。
+《**Twilight**》是[可苦可樂](../Page/可苦可樂.md "wikilink")的第3張[數位單曲](../Page/數位音樂下載.md "wikilink")。於2014年11月8日由[Warner Music Japan發售](https://zh.wikipedia.org/wiki/Warner_Music_Japan "wikilink")。
 
 ## 簡介
 
@@ -24,10 +22,6 @@ Japan發售](https://zh.wikipedia.org/wiki/Warner_Music_Japan "wikilink")。
 
   - [Twilight](https://wmg.jp/kobukuro/discography/13873/)
 
-[Category:可苦可樂歌曲](https://zh.wikipedia.org/wiki/Category:可苦可樂歌曲 "wikilink")
-[Category:2014年單曲](https://zh.wikipedia.org/wiki/Category:2014年單曲 "wikilink")
-[Category:日本電影](https://zh.wikipedia.org/wiki/Category:日本電影 "wikilink")
-[Category:電影主題曲](https://zh.wikipedia.org/wiki/Category:電影主題曲 "wikilink")
-[Category:太陽題材歌曲](https://zh.wikipedia.org/wiki/Category:太陽題材歌曲 "wikilink")
+[Category:可苦可樂歌曲](https://zh.wikipedia.org/wiki/Category:可苦可樂歌曲 "wikilink") [Category:2014年單曲](https://zh.wikipedia.org/wiki/Category:2014年單曲 "wikilink") [Category:日本電影](https://zh.wikipedia.org/wiki/Category:日本電影 "wikilink") [Category:電影主題曲](https://zh.wikipedia.org/wiki/Category:電影主題曲 "wikilink") [Category:太陽題材歌曲](https://zh.wikipedia.org/wiki/Category:太陽題材歌曲 "wikilink")
 
 1.

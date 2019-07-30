@@ -15,9 +15,7 @@
 
 <references/>
 
-[Category:2018年音樂專輯](https://zh.wikipedia.org/wiki/Category:2018年音樂專輯 "wikilink")
-[Category:SCANDAL音樂專輯](https://zh.wikipedia.org/wiki/Category:SCANDAL音樂專輯 "wikilink")
-[Category:日本史詩唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:日本史詩唱片音樂專輯 "wikilink")
+[Category:2018年音樂專輯](https://zh.wikipedia.org/wiki/Category:2018年音樂專輯 "wikilink") [Category:SCANDAL音樂專輯](https://zh.wikipedia.org/wiki/Category:SCANDAL音樂專輯 "wikilink") [Category:日本史詩唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:日本史詩唱片音樂專輯 "wikilink")
 
 1.  [音楽ナタリー「SCANDALニューアルバム詳細決定、初回盤DVDに11周年記念ライブ映像」](https://natalie.mu/music/news/264520)
 2.

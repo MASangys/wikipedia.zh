@@ -123,13 +123,35 @@
 <tbody>
 <tr class="odd">
 <td style="text-align: center;"><p>2019年1月2日－<br />
-2019年2.7.</p></td>
+2019年2月7日</p></td>
 <td style="text-align: center;"><p><a href="../Page/最棒的炸雞.md" title="wikilink">最棒的炸雞</a><br />
 </p></td>
 <td style="text-align: center;"><p>12</p></td>
 <td style="text-align: center;"><p><a href="../Page/朴宣浩.md" title="wikilink">朴宣浩</a>、<a href="../Page/金素慧.md" title="wikilink">金素慧</a>、<a href="../Page/朱宇宰.md" title="wikilink">朱宇宰</a></p></td>
+<td style="text-align: center;"><p>李勝勳</p></td>
+<td style="text-align: center;"><p>朴燦英、趙雅英</p></td>
 <td style="text-align: center;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>2019年7月10日－<br />
+2019年8月15日</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Level_Up" title="wikilink">Level Up</a><br />
+</p></td>
+<td style="text-align: center;"><p>12</p></td>
+<td style="text-align: center;"><p><a href="../Page/成勛.md" title="wikilink">成勛</a>、<a href="../Page/韓寶凜.md" title="wikilink">韓寶凜</a>、<a href="https://zh.wikipedia.org/wiki/車善玗" title="wikilink">車善玗</a>、<a href="../Page/姜星.md" title="wikilink">姜星</a>、<a href="../Page/安信源.md" title="wikilink">安信源</a></p></td>
+<td style="text-align: center;"><p>金相宇</p></td>
+<td style="text-align: center;"><p>金東圭</p></td>
 <td style="text-align: center;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>2019年8月21日－<br />
+2019年</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/優雅的家" title="wikilink">優雅的家</a><br />
+</p></td>
+<td style="text-align: center;"><p>16</p></td>
+<td style="text-align: center;"><p><a href="../Page/林秀香.md" title="wikilink">林秀香</a>、<a href="../Page/李章宇.md" title="wikilink">李章宇</a>、<a href="../Page/李奎翰.md" title="wikilink">李奎翰</a>、<a href="../Page/金鎮祐.md" title="wikilink">金鎮祐</a>、<a href="../Page/孔賢珠.md" title="wikilink">孔賢珠</a></p></td>
+<td style="text-align: center;"><p>韓哲秀</p></td>
+<td style="text-align: center;"><p>權民秀</p></td>
 <td style="text-align: center;"></td>
 </tr>
 </tbody>
@@ -143,7 +165,4 @@
   - [JTBC水木迷你連續劇](../Page/JTBC水木迷你連續劇.md "wikilink")
   - [KBS水木連續劇](../Page/KBS水木連續劇.md "wikilink")
 
-[Category:MBN水木連續劇](https://zh.wikipedia.org/wiki/Category:MBN水木連續劇 "wikilink")
-[Category:動態列表](https://zh.wikipedia.org/wiki/Category:動態列表 "wikilink")
-[Category:韓國電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:韓國電視台電視劇列表 "wikilink")
-[Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink")
+[Category:MBN水木連續劇](https://zh.wikipedia.org/wiki/Category:MBN水木連續劇 "wikilink") [Category:動態列表](https://zh.wikipedia.org/wiki/Category:動態列表 "wikilink") [Category:韓國電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:韓國電視台電視劇列表 "wikilink") [Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink")

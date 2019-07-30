@@ -1,11 +1,10 @@
-《**NGT48的新潟朋友！**》（）是2017年1月17日至2019年3月26日，每週一24時59分至25時29分（即週二凌晨；[JST](../Page/日本標準時間.md "wikilink")）於[新潟電視台播出的](https://zh.wikipedia.org/wiki/TV新潟放送網 "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")，為日本女子偶像團體[NGT48首檔在](../Page/NGT48.md "wikilink")[無線電視平台播出的冠名節目](https://zh.wikipedia.org/wiki/無線電視 "wikilink")\[1\]\[2\]，主持人為搞笑二人組。簡稱「潟朋」（）\[3\]。
+《**NGT48的新潟朋友！**》（）是2017年1月17日至2019年3月26日，每週一24時59分至25時29分（即週二凌晨；[JST](../Page/日本標準時間.md "wikilink")）於[新潟電視台播出的](https://zh.wikipedia.org/wiki/TV新潟放送網 "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")，為日本女子偶像團體[NGT48](../Page/NGT48.md "wikilink")首檔在[無線電視平台播出的冠名節目](https://zh.wikipedia.org/wiki/無線電視 "wikilink")\[1\]\[2\]，主持人為搞笑二人組。簡稱「潟朋」（）\[3\]。
 
 ## 簡介
 
-本節目主要以[外景進行](https://zh.wikipedia.org/wiki/外景拍攝 "wikilink")，透過[NGT48成員們與搞笑二人組](../Page/NGT48.md "wikilink")在[新潟縣內的各城鎮漫步](https://zh.wikipedia.org/wiki/新潟縣 "wikilink")，與各式各樣的人相遇，並藉以體會這些地方的好\[4\]。每集登場的NGT48成員人數基本為3人，部分集數會跨出新潟縣外取景。
+本節目主要以[外景進行](https://zh.wikipedia.org/wiki/外景拍攝 "wikilink")，透過[NGT48](../Page/NGT48.md "wikilink")成員們與搞笑二人組在[新潟縣內的各城鎮漫步](https://zh.wikipedia.org/wiki/新潟縣 "wikilink")，與各式各樣的人相遇，並藉以體會這些地方的好\[4\]。每集登場的NGT48成員人數基本為3人，部分集數會跨出新潟縣外取景。
 
-節目名稱中的「」意思為「新潟朋友」，也可解釋成「<ruby>新<rp>（</rp><rt>にい</rt><rp>）</rp></ruby>Gotta
-friend」，象徵NGT48藉由該節目獲取更多人的支持。
+節目名稱中的「」意思為「新潟朋友」，也可解釋成「<ruby>新<rp>（</rp><rt>にい</rt><rp>）</rp></ruby>Gotta friend」，象徵NGT48藉由該節目獲取更多人的支持。
 
 ## 出演者
 
@@ -44,7 +43,7 @@ friend」，象徵NGT48藉由該節目獲取更多人的支持。
 <tr class="even">
 <td><p>2</p></td>
 <td><p>1月24日</p></td>
-<td><p><a href="../Page/新潟市.md" title="wikilink">新潟市中央區</a></p></td>
+<td><p><a href="../Page/新潟市.md" title="wikilink">新潟市</a>中央區</p></td>
 <td><p><a href="../Page/北原里英.md" title="wikilink">北原里英</a>、佐藤杏樹、高倉萌香</p></td>
 </tr>
 <tr class="odd">
@@ -840,8 +839,7 @@ friend」，象徵NGT48藉由該節目獲取更多人的支持。
 ## 片尾曲
 
   - [青春時鐘](../Page/青春時鐘.md "wikilink")（第11集 - 第19集、第21集 - 第42集）
-  - [藍天會延續到這世界上的哪裡去呢？](../Page/藍天會延續到這世界上的哪裡去呢？.md "wikilink")（第43集 -
-    第62集）
+  - [藍天會延續到這世界上的哪裡去呢？](../Page/藍天會延續到這世界上的哪裡去呢？.md "wikilink")（第43集 - 第62集）
   - [春天哪裏來？](../Page/春天哪裏來？.md "wikilink")（第63集 - 第84集）
   - [獻給世人](../Page/獻給世人.md "wikilink") （第85集 - 第89集、第91・92集、第95回 - ）
   - [直到快要哭泣](../Page/獻給世人.md "wikilink")（第90・93集）
@@ -879,16 +877,11 @@ friend」，象徵NGT48藉由該節目獲取更多人的支持。
   - [NGT48的新潟朋友！](http://ngt48friend.com/)
   - [NGT48的新潟朋友！](http://www.kmax.co.jp/works/43.html) - KMAX
 
-[Category:2017年日本電視節目](https://zh.wikipedia.org/wiki/Category:2017年日本電視節目 "wikilink")
-[Category:NGT48](https://zh.wikipedia.org/wiki/Category:NGT48 "wikilink")
-[Category:AKB48家族關連電視節目](https://zh.wikipedia.org/wiki/Category:AKB48家族關連電視節目 "wikilink")
+[Category:2017年日本電視節目](https://zh.wikipedia.org/wiki/Category:2017年日本電視節目 "wikilink") [Category:NGT48](https://zh.wikipedia.org/wiki/Category:NGT48 "wikilink") [Category:AKB48家族關連電視節目](https://zh.wikipedia.org/wiki/Category:AKB48家族關連電視節目 "wikilink")
 
 1.
 
-2.  此處不含與姊妹團體[HKT48共同冠名的](../Page/HKT48.md "wikilink")[日本電視台節目](../Page/日本電視台.md "wikilink")《[HKT48
-    vs NGT48
-    指北合戰](../Page/HKT48_vs_NGT48_指北合戰.md "wikilink")》，以及初次單獨冠名電視播出的節目《只有這裡NGT48》
-    。
+2.  此處不含與姊妹團體[HKT48](../Page/HKT48.md "wikilink")共同冠名的[日本電視台](../Page/日本電視台.md "wikilink")節目《[HKT48 vs NGT48 指北合戰](../Page/HKT48_vs_NGT48_指北合戰.md "wikilink")》，以及初次單獨冠名電視播出的節目《只有這裡NGT48》 。
 
 3.
 
@@ -905,7 +898,4 @@ friend」，象徵NGT48藉由該節目獲取更多人的支持。
 11.
 12. 從第96集起播出。
 
-13. 2018年[9月18日](../Page/9月18日.md "wikilink") 2:55 -
-    3:27（17日深夜）、[9月28日](../Page/9月28日.md "wikilink")
-    2:55 - 3:25（27日深夜）、[10月21日](../Page/10月21日.md "wikilink") 3:25 -
-    3:57（20日深夜）分別播出第18、19、20集。
+13. 2018年[9月18日](../Page/9月18日.md "wikilink") 2:55 - 3:27（17日深夜）、[9月28日](../Page/9月28日.md "wikilink") 2:55 - 3:25（27日深夜）、[10月21日](../Page/10月21日.md "wikilink") 3:25 - 3:57（20日深夜）分別播出第18、19、20集。

@@ -238,8 +238,7 @@
   - [UCI官方網站](http://www.uci.ch/)
   - [UCI YouTube channel](http://www.youtube.com/user/ucichannel/)
 
-[Category:自行車](https://zh.wikipedia.org/wiki/Category:自行車 "wikilink")
-[Category:國際自由車總會](https://zh.wikipedia.org/wiki/Category:國際自由車總會 "wikilink")
+[Category:自行車](https://zh.wikipedia.org/wiki/Category:自行車 "wikilink") [Category:國際自由車總會](https://zh.wikipedia.org/wiki/Category:國際自由車總會 "wikilink")
 
 1.
 2.

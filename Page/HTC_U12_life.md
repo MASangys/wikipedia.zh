@@ -1,7 +1,4 @@
-**HTC U12
-life**是[台灣手機公司](https://zh.wikipedia.org/wiki/台灣 "wikilink")[宏達電](https://zh.wikipedia.org/wiki/宏達電 "wikilink")2018年開發的新一代[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")\[1\]，運行[Android
-8.1操作系统](../Page/Android_Oreo.md "wikilink")，同級競品為[華碩ZenFone 5
-(2018)(ZE620KL)](https://zh.wikipedia.org/wiki/華碩ZenFone_5_\(2018\) "wikilink")。
+**HTC U12 life**是[台灣手機公司](https://zh.wikipedia.org/wiki/台灣 "wikilink")[宏達電](https://zh.wikipedia.org/wiki/宏達電 "wikilink")2018年開發的新一代[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")\[1\]，運行[Android 8.1操作系统](../Page/Android_Oreo.md "wikilink")，同級競品為[華碩ZenFone 5 (2018)(ZE620KL)](https://zh.wikipedia.org/wiki/華碩ZenFone_5_\(2018\) "wikilink")。
 
 ## 詳細規格
 
@@ -35,7 +32,7 @@ life**是[台灣手機公司](https://zh.wikipedia.org/wiki/台灣 "wikilink")[�
 </tr>
 <tr class="even">
 <td><p>ROM</p></td>
-<td><p>| 64GB/128GB，<a href="../Page/通用闪存存储.md" title="wikilink">UFS 2.1</a>，<a href="../Page/MicroSD.md" title="wikilink">MicroSD™擴充最高</a> 2TB</p></td>
+<td><p>| 64GB/128GB，<a href="../Page/通用闪存存储.md" title="wikilink">UFS 2.1</a>，<a href="../Page/MicroSD.md" title="wikilink">MicroSD</a>™擴充最高 2TB</p></td>
 </tr>
 <tr class="odd">
 <td><p>尺寸</p></td>
@@ -141,11 +138,7 @@ FHD+<br />
 
 ## 参考资料
 
-[Category:宏達電手機](https://zh.wikipedia.org/wiki/Category:宏達電手機 "wikilink")
-[Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink")
-[Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink")
-[Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink")
-[Category:2018年面世的手機](https://zh.wikipedia.org/wiki/Category:2018年面世的手機 "wikilink")
+[Category:宏達電手機](https://zh.wikipedia.org/wiki/Category:宏達電手機 "wikilink") [Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink") [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink") [Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink") [Category:2018年面世的手機](https://zh.wikipedia.org/wiki/Category:2018年面世的手機 "wikilink")
 
 1.
 2.

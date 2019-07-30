@@ -1,5 +1,4 @@
-《**Good Night Show
-發洩擂台**》（）是[香港電視娛樂製作的遊戲節目](../Page/香港電視娛樂.md "wikilink")，本節目的第一至九集由2018年11月19日至12月5日，逢星期一至三晚上21:45-22:30於[ViuTV播映](../Page/ViuTV.md "wikilink")，隨後所有集數並由2018年12月11日至2019年4月24日，改為逢星期二、三晚上同一時段播映。節目由[林曉峰](../Page/林曉峰.md "wikilink")、[陳俞希](../Page/陳俞希.md "wikilink")、（小占）擔任主持。每集會邀請兩位背景不同的「壓力人士」參與破壞性的遊戲，最後更有機會贏得港幣十萬元。\[1\]\[2\]\[3\]\[4\]
+《**Good Night Show 發洩擂台**》（）是[香港電視娛樂](../Page/香港電視娛樂.md "wikilink")製作的遊戲節目，本節目的第一至九集由2018年11月19日至12月5日，逢星期一至三晚上21:45-22:30於[ViuTV](../Page/ViuTV.md "wikilink")播映，隨後所有集數並由2018年12月11日至2019年4月24日，改為逢星期二、三晚上同一時段播映。節目由[林曉峰](../Page/林曉峰.md "wikilink")、[陳俞希](../Page/陳俞希.md "wikilink")、（小占）擔任主持。每集會邀請兩位背景不同的「壓力人士」參與破壞性的遊戲，最後更有機會贏得港幣十萬元。\[1\]\[2\]\[3\]\[4\]
 
 本節目的「電視版」會將參賽者所說出的[粗言穢語成份過濾](../Page/髒話.md "wikilink")，至於網上平台就會播映未經剪輯的「足本版」。
 
@@ -172,7 +171,7 @@
 <td><p>45</p></td>
 <td><p>4月23日</p></td>
 <td><p><a href="../Page/游學修.md" title="wikilink">游學修</a>、、<a href="../Page/麥子樂.md" title="wikilink">麥子樂</a>、</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/詭探前傳" title="wikilink">唔通我驚鬼又話你知咩？</a></p></td>
+<td><p><a href="../Page/詭探前傳.md" title="wikilink">唔通我驚鬼又話你知咩？</a></p></td>
 <td><p><a href="../Page/游學修.md" title="wikilink">游學修</a>、</p></td>
 <td><p>$16,680</p></td>
 </tr>
@@ -181,7 +180,7 @@
 <small>（第一季完）</small></p></td>
 <td><p>4月24日</p></td>
 <td><p><a href="../Page/陳錦鴻.md" title="wikilink">陳錦鴻</a>[19][20]、<a href="../Page/談善言.md" title="wikilink">談善言</a>、<a href="../Page/許博文.md" title="wikilink">強　尼</a>、</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/婚內情" title="wikilink">婚內情有內情？</a></p></td>
+<td><p><a href="../Page/婚內情.md" title="wikilink">婚內情</a>有內情？</p></td>
 <td><p><a href="../Page/陳錦鴻.md" title="wikilink">陳錦鴻</a>、</p></td>
 <td><p>$38,002</p></td>
 </tr>
@@ -199,27 +198,18 @@
 ## 節目調動
 
   - 2019年1月1日：由於20:30-00:00現場轉播《[2018年度叱咤樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2018年度叱咤樂壇流行榜頒獎典禮得獎名單 "wikilink")》，當日本節目暫停播映一集。
-  - 2019年2月6日：由於19:30-22:30播映[港台電視節目](../Page/港台電視.md "wikilink")《[第四十一屆十大中文金曲
-    -
-    「用心．聽」音樂會](https://zh.wikipedia.org/wiki/十大中文金曲 "wikilink")》，當日本節目暫停播映一集。
+  - 2019年2月6日：由於19:30-22:30播映[港台電視](../Page/港台電視.md "wikilink")節目《[第四十一屆十大中文金曲 - 「用心．聽」音樂會](https://zh.wikipedia.org/wiki/十大中文金曲 "wikilink")》，當日本節目暫停播映一集。
   - 2019年3月12日：由於20:00-00:30現場轉播《[KKBOX香港風雲榜](https://zh.wikipedia.org/wiki/KKBOX香港風雲榜#第一屆_2019 "wikilink")》，當日本節目暫停播映一集。
 
 ## 參考資料
 
 ## 外部連結
 
-  - [ViuTV：Good Night Show
-    發洩擂台](http://viu.tv/encore/good-night-show-the-wreak-station-full-version)
+  - [ViuTV：Good Night Show 發洩擂台](http://viu.tv/encore/good-night-show-the-wreak-station-full-version)
 
 ## 節目變遷
 
-[Category:2018年ViuTV節目](https://zh.wikipedia.org/wiki/Category:2018年ViuTV節目 "wikilink")
-[Category:2019年ViuTV節目](https://zh.wikipedia.org/wiki/Category:2019年ViuTV節目 "wikilink")
-[Category:香港電視娛樂節目](https://zh.wikipedia.org/wiki/Category:香港電視娛樂節目 "wikilink")
-[Category:香港綜藝節目](https://zh.wikipedia.org/wiki/Category:香港綜藝節目 "wikilink")
-[Category:2018年香港電視娛樂節目](https://zh.wikipedia.org/wiki/Category:2018年香港電視娛樂節目 "wikilink")
-[Category:2019年香港電視娛樂節目](https://zh.wikipedia.org/wiki/Category:2019年香港電視娛樂節目 "wikilink")
-[Category:Good_Night_Show](https://zh.wikipedia.org/wiki/Category:Good_Night_Show "wikilink")
+[Category:2018年ViuTV節目](https://zh.wikipedia.org/wiki/Category:2018年ViuTV節目 "wikilink") [Category:2019年ViuTV節目](https://zh.wikipedia.org/wiki/Category:2019年ViuTV節目 "wikilink") [Category:香港電視娛樂節目](https://zh.wikipedia.org/wiki/Category:香港電視娛樂節目 "wikilink") [Category:香港綜藝節目](https://zh.wikipedia.org/wiki/Category:香港綜藝節目 "wikilink") [Category:2018年香港電視娛樂節目](https://zh.wikipedia.org/wiki/Category:2018年香港電視娛樂節目 "wikilink") [Category:2019年香港電視娛樂節目](https://zh.wikipedia.org/wiki/Category:2019年香港電視娛樂節目 "wikilink") [Category:Good_Night_Show](https://zh.wikipedia.org/wiki/Category:Good_Night_Show "wikilink")
 
 1.
 2.

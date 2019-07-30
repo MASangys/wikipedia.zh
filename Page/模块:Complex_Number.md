@@ -1,10 +1,6 @@
-local p = { PrimeTable = {} } local numlib = require("Module:Number")
-local numdata = require("Module:Number/data") local calclib =
-require("Module:Complex Number/Calculate")
+local p = { PrimeTable = {} } local numlib = require("Module:Number") local numdata = require("Module:Number/data") local calclib = require("Module:Complex Number/Calculate")
 
-\--debug --local
-cmath,tonum=p.cmath.init(),p.cmath.init().toComplexNumber;
-mw.logObject(cmath.abs(cmath.nonRealPart(tonum("2+3i"))))
+\--debug --local cmath,tonum=p.cmath.init(),p.cmath.init().toComplexNumber; mw.logObject(cmath.abs(cmath.nonRealPart(tonum("2+3i"))))
 
 p.cmath = {
 

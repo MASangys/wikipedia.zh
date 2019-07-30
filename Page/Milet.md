@@ -1,18 +1,14 @@
-**milet**，[日本女性](../Page/日本.md "wikilink")[创作歌手](https://zh.wikipedia.org/wiki/创作歌手 "wikilink")，个人-{zh-cn:信息;zh-tw:資訊;}-均不公开\[1\]，2019年出道。为[日本索尼音乐旗下艺人](https://zh.wikipedia.org/wiki/日本索尼音乐 "wikilink")。
+**milet**，[日本](../Page/日本.md "wikilink")女性[创作歌手](https://zh.wikipedia.org/wiki/创作歌手 "wikilink")，个人-{zh-cn:信息;zh-tw:資訊;}-均不公开\[1\]，2019年出道。为[日本索尼音乐旗下艺人](https://zh.wikipedia.org/wiki/日本索尼音乐 "wikilink")。
 
 ## 经历
 
 2018年正式开始音乐活动\[2\]。
 
-2019年3月6日，第一张EP《inside you EP》发售，主流出道。主题曲《inside
-you》成为[富士电视台电视剧](https://zh.wikipedia.org/wiki/富士电视台 "wikilink")《》的主题曲\[3\]。此外EP收录曲《Again
-and Again》和《I Gotta Go》成为同富士电视台电视剧《》的主题曲和结束曲\[4\]。
+2019年3月6日，第一张EP《inside you EP》发售，主流出道。主题曲《inside you》成为[富士电视台电视剧](https://zh.wikipedia.org/wiki/富士电视台 "wikilink")《》的主题曲\[3\]。此外EP收录曲《Again and Again》和《I Gotta Go》成为同富士电视台电视剧《》的主题曲和结束曲\[4\]。
 
-3月25日，出道后首次演唱会“milet SPECIAL SHOW CASE @Billboard-Live
-TOKYO”在东京Billboard LIVE TOKYO进行\[5\]。
+3月25日，出道后首次演唱会“milet SPECIAL SHOW CASE @Billboard-Live TOKYO”在东京Billboard LIVE TOKYO进行\[5\]。
 
-4月26日上映的剧场版动画《》的主题曲《THE
-SHOW》和插曲《Wonderland》也都由milet创作，并在milet出道前就已经确定，展现了片方对milet特别的肯定\[6\]。
+4月26日上映的剧场版动画《》的主题曲《THE SHOW》和插曲《Wonderland》也都由milet创作，并在milet出道前就已经确定，展现了片方对milet特别的肯定\[6\]。
 
 ## 作品
 
@@ -58,15 +54,11 @@ SECL-2434～2435（期間限量盘）</p></td>
   -
   -
   -
-[Category:日本女性創作歌手](https://zh.wikipedia.org/wiki/Category:日本女性創作歌手 "wikilink")
-[Category:日本女性流行音樂歌手](https://zh.wikipedia.org/wiki/Category:日本女性流行音樂歌手 "wikilink")
-[Category:日本索尼音樂娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂旗下藝人 "wikilink")
+[Category:日本女性創作歌手](https://zh.wikipedia.org/wiki/Category:日本女性創作歌手 "wikilink") [Category:日本女性流行音樂歌手](https://zh.wikipedia.org/wiki/Category:日本女性流行音樂歌手 "wikilink") [Category:日本索尼音樂娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂旗下藝人 "wikilink")
 
 1.
 
-2.   ソニーミュージック オフィシャルサイト
-    |url=<https://www.sonymusic.co.jp/artist/milet_music/profile/>
-    |website=www.sonymusic.co.jp |accessdate=2019-03-07 |language=ja}}
+2.   ソニーミュージック オフィシャルサイト |url=<https://www.sonymusic.co.jp/artist/milet_music/profile/> |website=www.sonymusic.co.jp |accessdate=2019-03-07 |language=ja}}
 
 3.
 

@@ -1,11 +1,6 @@
-| length = 15:48 | label =  | producer =  | prev_title = | prev_year =
-| next_title = [說出你的想法](../Page/說出你的想法.md "wikilink") | next_year =
-2018 | misc = {{ singles | name = 空手道 | type = ep | single1 = 空手道 |
-single1date =  | single2 = 雙子座 | single2date =  }} }}
+| length = 15:48 | label =  | producer =  | prev_title = | prev_year = | next_title = [說出你的想法](../Page/說出你的想法.md "wikilink") | next_year = 2018 | misc = {{ singles | name = 空手道 | type = ep | single1 = 空手道 | single1date =  | single2 = 雙子座 | single2date =  }} }}
 
-《空手道》
-()是[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[創作歌手](../Page/創作歌手.md "wikilink")[安-瑪莉於](../Page/安-瑪莉_\(英國歌手\).md "wikilink")2015年7月10日由Major
-Tom's和庇護所唱片發行的首張[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")。
+《空手道》 ()是[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[創作歌手](../Page/創作歌手.md "wikilink")[安-瑪莉於](../Page/安-瑪莉_\(英國歌手\).md "wikilink")2015年7月10日由Major Tom's和庇護所唱片發行的首張[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")。
 
 ## 曲目
 
@@ -65,7 +60,6 @@ Tom's和庇護所唱片發行的首張[迷你專輯](https://zh.wikipedia.org/wi
 
 ## 參考資料
 
-[Category:2015年迷你專輯](https://zh.wikipedia.org/wiki/Category:2015年迷你專輯 "wikilink")
-[Category:安-瑪莉_(英國歌手)_專輯](https://zh.wikipedia.org/wiki/Category:安-瑪莉_\(英國歌手\)_專輯 "wikilink")
+[Category:2015年迷你專輯](https://zh.wikipedia.org/wiki/Category:2015年迷你專輯 "wikilink") [Category:安-瑪莉_(英國歌手)_專輯](https://zh.wikipedia.org/wiki/Category:安-瑪莉_\(英國歌手\)_專輯 "wikilink")
 
 1.

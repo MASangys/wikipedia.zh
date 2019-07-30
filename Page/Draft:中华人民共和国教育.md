@@ -1,10 +1,10 @@
 **中华人民共和国教育**介绍[中华人民共和国建国以来的教育概况](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")。
 
-中国是全世界较早产生完整的教育体系的国家，自中国有[信史之时](../Page/信史.md "wikilink")，便有官方设立学校教养人民的记录；但直到[清代末期](https://zh.wikipedia.org/wiki/清代 "wikilink")，[中國才開始出現現代教育方式的學校](../Page/中國.md "wikilink")。中华人民共和国成立后，教育事业又得到进一步发展。
+中国是全世界较早产生完整的教育体系的国家，自中国有[信史](../Page/信史.md "wikilink")之时，便有官方设立学校教养人民的记录；但直到[清代末期](https://zh.wikipedia.org/wiki/清代 "wikilink")，[中國](../Page/中國.md "wikilink")才開始出現現代教育方式的學校。中华人民共和国成立后，教育事业又得到进一步发展。
 
-自1986年以來，中国實行為期9年的[義務教育](https://zh.wikipedia.org/wiki/義務教育 "wikilink")，包含6年[小學和](https://zh.wikipedia.org/wiki/小學 "wikilink")3年[初級中學](https://zh.wikipedia.org/wiki/初級中學 "wikilink")，學生年齡在6歲至15歲之間\[1\]。2010年，約有82.5%的學生會選擇繼續為期3年的[高級中學教育](../Page/高級中學.md "wikilink")\[2\]。由政府舉辦的[普通高等學校招生全國統一考試](https://zh.wikipedia.org/wiki/普通高等學校招生全國統一考試 "wikilink")，則是進入大多數[高等教育機構的先決條件](../Page/高等教育.md "wikilink")。2010年，27%的高級中學畢業生會繼續接受4年的[本科教育](https://zh.wikipedia.org/wiki/本科教育 "wikilink")\[3\]。而在此之上，亦设置有研究生教育。另外政府還設立中級和高級[專科學校](../Page/專科學校.md "wikilink")，提供學生職業教育內容\[4\]。
+自1986年以來，中国實行為期9年的[義務教育](https://zh.wikipedia.org/wiki/義務教育 "wikilink")，包含6年[小學和](https://zh.wikipedia.org/wiki/小學 "wikilink")3年[初級中學](https://zh.wikipedia.org/wiki/初級中學 "wikilink")，學生年齡在6歲至15歲之間\[1\]。2010年，約有82.5%的學生會選擇繼續為期3年的[高級中學](../Page/高級中學.md "wikilink")教育\[2\]。由政府舉辦的[普通高等學校招生全國統一考試](https://zh.wikipedia.org/wiki/普通高等學校招生全國統一考試 "wikilink")，則是進入大多數[高等教育](../Page/高等教育.md "wikilink")機構的先決條件。2010年，27%的高級中學畢業生會繼續接受4年的[本科教育](https://zh.wikipedia.org/wiki/本科教育 "wikilink")\[3\]。而在此之上，亦设置有研究生教育。另外政府還設立中級和高級[專科學校](../Page/專科學校.md "wikilink")，提供學生職業教育內容\[4\]。
 
-中华人民共和国教育事业由[中华人民共和国教育部主管](../Page/中华人民共和国教育部.md "wikilink")。2016年，中國共計有177,633所小學、52,118所初級中學、13,383所高級中學、10,893所中等职业學校、以及2,596所高等教育機構\[5\]。截至2010年為止，15歲以上人口中有94%接受過教育訓練、而得以[識字](../Page/識字.md "wikilink")\[6\]；相比之下，在1950年只有20%的民眾曾接受過教育\[7\]。
+中华人民共和国教育事业由[中华人民共和国教育部](../Page/中华人民共和国教育部.md "wikilink")主管。2016年，中國共計有177,633所小學、52,118所初級中學、13,383所高級中學、10,893所中等职业學校、以及2,596所高等教育機構\[5\]。截至2010年為止，15歲以上人口中有94%接受過教育訓練、而得以[識字](../Page/識字.md "wikilink")\[6\]；相比之下，在1950年只有20%的民眾曾接受過教育\[7\]。
 
 2011年，約有81.4%民眾在不同地方接受過中學教育後畢業\[8\]。而自2005年開始，中國各級政府便籌划经费以減免農村地區孩童的學雜費\[9\]。2006年，政府更承諾9年[義務教育完全免費](https://zh.wikipedia.org/wiki/義務教育 "wikilink")，並提供小學和初級中學階段的課本和學費等補助\[10\]。這使得政府每年教育預算從2003年不到500億美元，增加至2011年超過2,500億美元的預算\[11\]。2009年的[國際學生能力評估計劃中](https://zh.wikipedia.org/wiki/國際學生能力評估計劃 "wikilink")，上海市學生於數學、科學和文化領域上取得世界上最好的成績\[12\]。但儘管中國學生在學習成果評估上獲得極高成績，中國教育面臨著地方和國際社會的多方批評，認為過度強調記憶能力、及農村和城市間具有懸殊的教育品質差距問題\[13\]。
 
@@ -14,9 +14,9 @@
 
 [中華人民共和國成立後](https://zh.wikipedia.org/wiki/中華人民共和國 "wikilink")，教育模式参照[蘇聯發展](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")，將原先的[綜合性大學](https://zh.wikipedia.org/wiki/綜合性大學 "wikilink")[進行拆分](../Page/中国高等院校院系调整.md "wikilink")。由於建国之初需要大量的工業技術人才，故當時中國創建了大量的理工科學院。50年代初，中國開展了大規模的掃盲運動，掃盲運動的高潮一直持續到50年代末。\[19\]其间，[高考制度亦于](https://zh.wikipedia.org/wiki/高考 "wikilink")1955年正式設立。
 
-改革开放以前，中华人民共和国的教育较频繁的受到政治形势的影响。1958年，在“[大跃进](../Page/大跃进.md "wikilink")”的影响下，教育行业也出现了过度发展，在校学生人数相比前一年增加了1.9倍，而新成立学校的质量则多不可恭维，以至于需要整顿\[20\]。1966年[文化大革命的爆發導致全國所有學校進入停課狀態](../Page/文化大革命.md "wikilink")，大學入學考試被取消；[知識分子不被尊重](https://zh.wikipedia.org/wiki/知識分子 "wikilink")，大多數被下放進行體力勞動，有些則遭到殘酷對待，財產被沒收，被批為「[臭老九](https://zh.wikipedia.org/wiki/臭老九 "wikilink")」等；\[21\]许多正在接受教育的人被迫停止繼續教育；沒有接受教育的人喪失了機會，對中國的人口素質和教育事业造成了嚴重的破壞。1960-1970年代，中國共產黨发动了[上山下乡运动](../Page/上山下乡运动.md "wikilink")，组织了大量城市「[知識青年](https://zh.wikipedia.org/wiki/知識青年 "wikilink")」離開城市，到農村勞動和定居；直到1970年代末開始，大部分知青陸續回到城市。\[22\][邓小平认为](../Page/邓小平.md "wikilink")，文革造成大多学生习惯了‘文革’时瞎捣乱的习气：无政府主义猖獗，大家不守纪律，以为标新立异、我行我素就是英雄，谁也不能拿我怎么样。\[23\]
+改革开放以前，中华人民共和国的教育较频繁的受到政治形势的影响。1958年，在“[大跃进](../Page/大跃进.md "wikilink")”的影响下，教育行业也出现了过度发展，在校学生人数相比前一年增加了1.9倍，而新成立学校的质量则多不可恭维，以至于需要整顿\[20\]。1966年[文化大革命](../Page/文化大革命.md "wikilink")的爆發導致全國所有學校進入停課狀態，大學入學考試被取消；[知識分子不被尊重](https://zh.wikipedia.org/wiki/知識分子 "wikilink")，大多數被下放進行體力勞動，有些則遭到殘酷對待，財產被沒收，被批為「[臭老九](https://zh.wikipedia.org/wiki/臭老九 "wikilink")」等；\[21\]许多正在接受教育的人被迫停止繼續教育；沒有接受教育的人喪失了機會，對中國的人口素質和教育事业造成了嚴重的破壞。1960-1970年代，中國共產黨发动了[上山下乡运动](../Page/上山下乡运动.md "wikilink")，组织了大量城市「[知識青年](https://zh.wikipedia.org/wiki/知識青年 "wikilink")」離開城市，到農村勞動和定居；直到1970年代末開始，大部分知青陸續回到城市。\[22\][邓小平](../Page/邓小平.md "wikilink")认为，文革造成大多学生习惯了‘文革’时瞎捣乱的习气：无政府主义猖獗，大家不守纪律，以为标新立异、我行我素就是英雄，谁也不能拿我怎么样。\[23\]
 
-1977年，文革結束，高考恢复，当时的考生的平均年齡最大、錄取率最低。\[24\]自九十年代後期以来，中國開始實行[大學擴招政策](https://zh.wikipedia.org/wiki/大學擴招 "wikilink")，虽然使得更多的人得到了前往大学学习的机会，但大学应届毕业生的就业情况也逐渐恶化：许多人选择报考研究生，更多的人则选择从事不对口的工作，甚至于找不到工作，造成了国家教育资源的浪费\[25\]。为了改善自己的未来的就业机会，学生和家长只能选择上最好的学校，因而投身于各类考试，争取考取国内最好的高等院校，甚至出国[留学](../Page/留学.md "wikilink")。但这实际上又促进了[应试教育的盛行](../Page/应试教育.md "wikilink")，因此升學的壓力並沒有減輕，學生的負擔反而增加，这也在一定程度上让[補習班的数量大量增長](../Page/補習班.md "wikilink")。
+1977年，文革結束，高考恢复，当时的考生的平均年齡最大、錄取率最低。\[24\]自九十年代後期以来，中國開始實行[大學擴招政策](https://zh.wikipedia.org/wiki/大學擴招 "wikilink")，虽然使得更多的人得到了前往大学学习的机会，但大学应届毕业生的就业情况也逐渐恶化：许多人选择报考研究生，更多的人则选择从事不对口的工作，甚至于找不到工作，造成了国家教育资源的浪费\[25\]。为了改善自己的未来的就业机会，学生和家长只能选择上最好的学校，因而投身于各类考试，争取考取国内最好的高等院校，甚至出国[留学](../Page/留学.md "wikilink")。但这实际上又促进了[应试教育](../Page/应试教育.md "wikilink")的盛行，因此升學的壓力並沒有減輕，學生的負擔反而增加，这也在一定程度上让[補習班](../Page/補習班.md "wikilink")的数量大量增長。
 
 进入21世纪以来，中华人民共和国多次试图推进[素质教育](https://zh.wikipedia.org/wiki/素质教育 "wikilink")，但是受限于经济体系改革长期进展缓慢，使得政治体系和教育体系改革也无法依次进行。2013年，[中国共产党十八届三中全会召开](https://zh.wikipedia.org/wiki/中国共产党十八届三中全会 "wikilink")，提出要推进考试招生制度改革，期望从根本上解决[一考定终身的弊端](https://zh.wikipedia.org/wiki/一考定终身 "wikilink")\[26\]。此后高考改革、中考改革亦陆续启动。
 
@@ -145,7 +145,7 @@
 
 ## 九年义务教育
 
-中华人民共和国在其实际管辖范围内，实行九年[义务教育制度](../Page/义务教育.md "wikilink")。在这一体制下，所有适龄儿童都必须接受九年的义务教育，家长则有让子女接受这种教育的义务。
+中华人民共和国在其实际管辖范围内，实行九年[义务教育](../Page/义务教育.md "wikilink")制度。在这一体制下，所有适龄儿童都必须接受九年的义务教育，家长则有让子女接受这种教育的义务。
 
 自2017年起，在中华人民共和国境内，所有义务教育学生（包括民办学校学生），一律不收学费、杂费、书本费，并补助家庭经济困难寄宿生生活费，俗称“[两免一补](../Page/两免一补.md "wikilink")”。\[27\]惟各个学校可能依据实际情况，收取作业本费、校服费、军训费、伙食费、寄宿制学校住宿费等。\[28\]
 
@@ -153,8 +153,7 @@
 
 ### 初等教育
 
-[缩略图](https://zh.wikipedia.org/wiki/File:China_Truants.jpg "fig:缩略图")
-在小学阶段，學生通常要學習的課程為：道德与法治、[语文](https://zh.wikipedia.org/wiki/語文学 "wikilink")、[數學](https://zh.wikipedia.org/wiki/數學 "wikilink")、[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")、[體育與健康](https://zh.wikipedia.org/wiki/體育與健康 "wikilink")、[科學](https://zh.wikipedia.org/wiki/科學 "wikilink")、[音樂](https://zh.wikipedia.org/wiki/音樂 "wikilink")、[美術](../Page/美術.md "wikilink")、[信息技術等](https://zh.wikipedia.org/wiki/信息技術 "wikilink")。
+[缩略图](https://zh.wikipedia.org/wiki/File:China_Truants.jpg "fig:缩略图") 在小学阶段，學生通常要學習的課程為：道德与法治、[语文](https://zh.wikipedia.org/wiki/語文学 "wikilink")、[數學](https://zh.wikipedia.org/wiki/數學 "wikilink")、[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")、[體育與健康](https://zh.wikipedia.org/wiki/體育與健康 "wikilink")、[科學](https://zh.wikipedia.org/wiki/科學 "wikilink")、[音樂](https://zh.wikipedia.org/wiki/音樂 "wikilink")、[美術](../Page/美術.md "wikilink")、[信息技術等](https://zh.wikipedia.org/wiki/信息技術 "wikilink")。
 
 #### 小学升入初中
 
@@ -168,21 +167,17 @@
 
 ### 初级中等教育
 
-[School_uniforms_in_China_-_01.jpg](https://zh.wikipedia.org/wiki/File:School_uniforms_in_China_-_01.jpg "fig:School_uniforms_in_China_-_01.jpg")的中國中學生\]\]
-在初中階段，學生按規定需要學習的課程為：道德与法治、[語文](https://zh.wikipedia.org/wiki/語文 "wikilink")、[數學](https://zh.wikipedia.org/wiki/數學 "wikilink")、[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")、[物理](https://zh.wikipedia.org/wiki/物理 "wikilink")、[化學](../Page/化學.md "wikilink")、[历史](../Page/历史.md "wikilink")、[地理](https://zh.wikipedia.org/wiki/地理 "wikilink")、[生物学](../Page/生物学.md "wikilink")、體育與健康、[信息技術](https://zh.wikipedia.org/wiki/信息技術 "wikilink")、[音樂](https://zh.wikipedia.org/wiki/音樂 "wikilink")、[美術](../Page/美術.md "wikilink")。在部分地區開設[日語或](https://zh.wikipedia.org/wiki/日語 "wikilink")[俄語取代](https://zh.wikipedia.org/wiki/俄語 "wikilink")[英語課程](https://zh.wikipedia.org/wiki/英語 "wikilink")。
+[School_uniforms_in_China_-_01.jpg](https://zh.wikipedia.org/wiki/File:School_uniforms_in_China_-_01.jpg "fig:School_uniforms_in_China_-_01.jpg")的中國中學生\]\] 在初中階段，學生按規定需要學習的課程為：道德与法治、[語文](https://zh.wikipedia.org/wiki/語文 "wikilink")、[數學](https://zh.wikipedia.org/wiki/數學 "wikilink")、[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")、[物理](https://zh.wikipedia.org/wiki/物理 "wikilink")、[化學](../Page/化學.md "wikilink")、[历史](../Page/历史.md "wikilink")、[地理](https://zh.wikipedia.org/wiki/地理 "wikilink")、[生物学](../Page/生物学.md "wikilink")、體育與健康、[信息技術](https://zh.wikipedia.org/wiki/信息技術 "wikilink")、[音樂](https://zh.wikipedia.org/wiki/音樂 "wikilink")、[美術](../Page/美術.md "wikilink")。在部分地區開設[日語或](https://zh.wikipedia.org/wiki/日語 "wikilink")[俄語取代](https://zh.wikipedia.org/wiki/俄語 "wikilink")[英語課程](https://zh.wikipedia.org/wiki/英語 "wikilink")。
 
-自20世紀90年代開始，初中取消畢業考試。學生只要在三年內所有課程的期末成績在及格線（總分的60%）以上，沒有任何處分或撤銷所有處分即可畢業。學生在九年級（初三年級）將面臨初級中學升學考試，即中考。
-[缩略图](https://zh.wikipedia.org/wiki/File:Meeting_of_the_morning_of_the_elementary_school,Shangai,China.jpg "fig:缩略图")
+自20世紀90年代開始，初中取消畢業考試。學生只要在三年內所有課程的期末成績在及格線（總分的60%）以上，沒有任何處分或撤銷所有處分即可畢業。學生在九年級（初三年級）將面臨初級中學升學考試，即中考。 [缩略图](https://zh.wikipedia.org/wiki/File:Meeting_of_the_morning_of_the_elementary_school,Shangai,China.jpg "fig:缩略图")
 
 #### 初中升入高中或中职（中考）
 
 1980年代，中學的畢業考試和中考是一体的。也就是說如果中考分數不及格，那就將面臨無法畢業的結果，即使得到高中錄取也將被以“初中肄業”為由而無法進入高中，俗稱退檔，即退回學籍檔案。自1990年代初葉開始將畢業会考和升學考試分開。
 
-中考成绩决定学生是就读中专，普通高中，重点高中还是踏入社会。学生可以报考省内任何一所中专。但是报考高中的情况有所不同，目前状况是考生只能报考学生学籍所属市县，具有全市或全县招生权力高中（中国的教育行政区域分省，市／县，镇／村
-三级）。有些省份出现了一些超级高中（通常是省会城市的重点高中），可以招收省内任何市镇的优秀生，被称为“越界扠尖”。
+中考成绩决定学生是就读中专，普通高中，重点高中还是踏入社会。学生可以报考省内任何一所中专。但是报考高中的情况有所不同，目前状况是考生只能报考学生学籍所属市县，具有全市或全县招生权力高中（中国的教育行政区域分省，市／县，镇／村 三级）。有些省份出现了一些超级高中（通常是省会城市的重点高中），可以招收省内任何市镇的优秀生，被称为“越界扠尖”。
 
-省市重点中学入学名额的竞争非常激烈。因为重点高中往往集中了省内最好的教育资源， 硬件（教学设备）和软件
-（师资和学生），非一般普通中学可比翼，高考升学率非常高。学生只要一脚踏进了重点高中，基本上就可以顺利入读大学。目前各地中考科目并不统一，是各地根据情况而定。
+省市重点中学入学名额的竞争非常激烈。因为重点高中往往集中了省内最好的教育资源， 硬件（教学设备）和软件 （师资和学生），非一般普通中学可比翼，高考升学率非常高。学生只要一脚踏进了重点高中，基本上就可以顺利入读大学。目前各地中考科目并不统一，是各地根据情况而定。
 
 ## 高级中等教育和中等职业教育
 
@@ -190,8 +185,7 @@
 
 ### 高级中等教育
 
-[缩略图](https://zh.wikipedia.org/wiki/File:卷子-現代漢語辭典厚度比較.jpg "fig:缩略图")出版的的《[現代漢語詞典](https://zh.wikipedia.org/wiki/現代漢語詞典 "wikilink")》。\]\]
-在中华人民共和国，高中学制为三年。學生需要學習的科目為：[語文](https://zh.wikipedia.org/wiki/語文 "wikilink")、[數學](https://zh.wikipedia.org/wiki/數學 "wikilink")、[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")（部分地區學習或選擇[俄語或](https://zh.wikipedia.org/wiki/俄語 "wikilink")[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")）、[物理](https://zh.wikipedia.org/wiki/物理 "wikilink")、[化學](../Page/化學.md "wikilink")、[生物](../Page/生物.md "wikilink")、[地理](https://zh.wikipedia.org/wiki/地理 "wikilink")、[歷史](https://zh.wikipedia.org/wiki/歷史 "wikilink")、[思想政治](https://zh.wikipedia.org/wiki/思想政治 "wikilink")、[體育與健康](https://zh.wikipedia.org/wiki/體育與健康 "wikilink")、[信息技術](https://zh.wikipedia.org/wiki/信息技術 "wikilink")（部分地區加設[通用技術和](https://zh.wikipedia.org/wiki/通用技術 "wikilink")[研究性學習](https://zh.wikipedia.org/wiki/研究性學習 "wikilink")）。
+[缩略图](https://zh.wikipedia.org/wiki/File:卷子-現代漢語辭典厚度比較.jpg "fig:缩略图")出版的的《[現代漢語詞典](https://zh.wikipedia.org/wiki/現代漢語詞典 "wikilink")》。\]\] 在中华人民共和国，高中学制为三年。學生需要學習的科目為：[語文](https://zh.wikipedia.org/wiki/語文 "wikilink")、[數學](https://zh.wikipedia.org/wiki/數學 "wikilink")、[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")（部分地區學習或選擇[俄語或](https://zh.wikipedia.org/wiki/俄語 "wikilink")[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")）、[物理](https://zh.wikipedia.org/wiki/物理 "wikilink")、[化學](../Page/化學.md "wikilink")、[生物](../Page/生物.md "wikilink")、[地理](https://zh.wikipedia.org/wiki/地理 "wikilink")、[歷史](https://zh.wikipedia.org/wiki/歷史 "wikilink")、[思想政治](https://zh.wikipedia.org/wiki/思想政治 "wikilink")、[體育與健康](https://zh.wikipedia.org/wiki/體育與健康 "wikilink")、[信息技術](https://zh.wikipedia.org/wiki/信息技術 "wikilink")（部分地區加設[通用技術和](https://zh.wikipedia.org/wiki/通用技術 "wikilink")[研究性學習](https://zh.wikipedia.org/wiki/研究性學習 "wikilink")）。
 
 高一將會學習部分的課程，在高一第二學期期末考試之後，學生需要就決定在高二和高三要學習的方向是理科還是文科（有的學校也會讓學生提前到第一學期後半段的時候選擇），這決定了學生在高考所使用試卷類型。即使是在高考“3+7选3改革”之后，学生仍然需要决定高考时选考的科目。
 
@@ -201,9 +195,7 @@
 
 #### 高考
 
-[缩略图](https://zh.wikipedia.org/wiki/File:National_Higher_Education_Entrance_Examination_NK.JPG "fig:缩略图")高考橫幅\]\]
-高考，全稱为“普通高等学校招生全国统一考试”（The National College Entrance
-Examination），是中等教育到高等教育的選拔考試，也即高中升入大学的升學考試。高考被視為整個教育系統中最重要的考試，從1977年恢複高考到2003年，高考一直是在7月份舉行。自2003年開始改在6月初，通常是6月7日至6月8日，即使是該年出現了[SARS疫情也沒有改變](https://zh.wikipedia.org/wiki/SARS "wikilink")。\[34\]近些年，北京教育考試院曾傳出高考將改為每年6月的第一個雙休日。\[35\]2007年起，基礎教育實施新課程改革，部分省區實行“3+X+1”的新考試模式，其中的“1”為全新的考試科目——“基本能力測試”，考試時間定於6月9日上午。
+[缩略图](https://zh.wikipedia.org/wiki/File:National_Higher_Education_Entrance_Examination_NK.JPG "fig:缩略图")高考橫幅\]\] 高考，全稱为“普通高等学校招生全国统一考试”（The National College Entrance Examination），是中等教育到高等教育的選拔考試，也即高中升入大学的升學考試。高考被視為整個教育系統中最重要的考試，從1977年恢複高考到2003年，高考一直是在7月份舉行。自2003年開始改在6月初，通常是6月7日至6月8日，即使是該年出現了[SARS疫情也沒有改變](https://zh.wikipedia.org/wiki/SARS "wikilink")。\[34\]近些年，北京教育考試院曾傳出高考將改為每年6月的第一個雙休日。\[35\]2007年起，基礎教育實施新課程改革，部分省區實行“3+X+1”的新考試模式，其中的“1”為全新的考試科目——“基本能力測試”，考試時間定於6月9日上午。
 
 高考目前由省級教育考試機構出卷，通常來說，各省之間的難度是不同的，雖然說部分省的要比直轄市的略容易，但
 
@@ -235,7 +227,7 @@ Examination），是中等教育到高等教育的選拔考試，也即高中升
 
 攻讀[碩士需要](https://zh.wikipedia.org/wiki/碩士 "wikilink")2年至3年才能畢業獲得學位，以後是[博士](../Page/博士.md "wikilink")。
 
-在有了碩士學位以後，一般攻讀[博士學位需要](../Page/博士.md "wikilink")3年到4年時間。碩士之後繼續攻讀博士學位，需要再參加报读院校設立的博士生入學考試。
+在有了碩士學位以後，一般攻讀[博士](../Page/博士.md "wikilink")學位需要3年到4年時間。碩士之後繼續攻讀博士學位，需要再參加报读院校設立的博士生入學考試。
 
 其中也有很多院校是[直博](https://zh.wikipedia.org/wiki/直博 "wikilink")，即本科畢業後，只需要5年時間攻讀博士學位，但是如果中途輟學或者是想退出的話，如果未達到博士畢業要求，則沒有博士學位證書並且也沒有碩士學位證書。
 
@@ -267,7 +259,7 @@ Examination），是中等教育到高等教育的選拔考試，也即高中升
 
 ### 应试教育
 
-雖然[中國政府一直主張反對](https://zh.wikipedia.org/wiki/中华人民共和国政府 "wikilink")[應試教育](../Page/应试教育.md "wikilink")，可實際上自己實行的也是應試教育，所以招致了一些人士的批評甚至聲討。同時由於其教学方式高度统一，使得一些學生的個性可能会被扼杀。\[36\][韩寒在其著作中明确反对中国大陆式的教育体制](../Page/韩寒.md "wikilink")，认为其存在诸多问题，并且不能归咎为中国人口繁多。\[37\]
+雖然[中國政府一直主張反對](https://zh.wikipedia.org/wiki/中华人民共和国政府 "wikilink")[應試教育](../Page/应试教育.md "wikilink")，可實際上自己實行的也是應試教育，所以招致了一些人士的批評甚至聲討。同時由於其教学方式高度统一，使得一些學生的個性可能会被扼杀。\[36\][韩寒](../Page/韩寒.md "wikilink")在其著作中明确反对中国大陆式的教育体制，认为其存在诸多问题，并且不能归咎为中国人口繁多。\[37\]
 
 ### 成绩舞弊
 
@@ -285,7 +277,7 @@ Examination），是中等教育到高等教育的選拔考試，也即高中升
 
 ### 政治教育
 
-中国作为一个以[马克思主义为官方意识形态的国家](../Page/马克思主义.md "wikilink")，政治教育亦有作为教育的重要组成部分。
+中国作为一个以[马克思主义](../Page/马克思主义.md "wikilink")为官方意识形态的国家，政治教育亦有作为教育的重要组成部分。
 
 在中国，从小学到研究生阶段的教学内容中皆有政治教育内容，包括义务教育阶段的“道德与法治”、高中阶段的“思想政治”、大学本科阶段的“思修、史纲、毛概、马原”、研究生阶段的“中国特色社会主义理论与实践研究”等。政治曾经作为高考的必考科目，至今仍然是研究生考试的必考科目。
 
@@ -293,7 +285,7 @@ Examination），是中等教育到高等教育的選拔考試，也即高中升
 
 由于团章规定未满28岁且未有违纪行为者即使加入中国共产党也不会脱团，因此在高中和大学几乎所有学生都是团员；作为这些团员的总的组织，学校团委权力极大，常与[学生会合称](https://zh.wikipedia.org/wiki/学生会 "wikilink")“团委学生会”，共同组织各项学生活动。
 
-在中国，[中国人民解放军实际上仍然是党军](../Page/中国人民解放军.md "wikilink")，因此军事教育亦成为政治教育的一部分。根据[兵役法的规定](../Page/中华人民共和国兵役法.md "wikilink")，初中升入高中和高中升入大学时，学生必须参加[军事训练](../Page/普通高等学校和普通高中学生的军事训练.md "wikilink")；大学一般还会开设军事理论课程。此外根据兵役法的规定，中国的军事院校面向普通高中毕业生招生；在大学期间服兵役者，其学位、入学资格也会被保留。
+在中国，[中国人民解放军](../Page/中国人民解放军.md "wikilink")实际上仍然是党军，因此军事教育亦成为政治教育的一部分。根据[兵役法的规定](../Page/中华人民共和国兵役法.md "wikilink")，初中升入高中和高中升入大学时，学生必须参加[军事训练](../Page/普通高等学校和普通高中学生的军事训练.md "wikilink")；大学一般还会开设军事理论课程。此外根据兵役法的规定，中国的军事院校面向普通高中毕业生招生；在大学期间服兵役者，其学位、入学资格也会被保留。
 
 ### 学历通胀
 
@@ -325,22 +317,11 @@ Examination），是中等教育到高等教育的選拔考試，也即高中升
 
 ## 扩展阅读
 
-  - Borjigin, Monkbat. "[A case study of Language education in the Inner
-    Mongolia](http://mitizane.ll.chiba-u.jp/metadb/up/AA11256001/21857148_16_17.pdf)"
-    ([Archive](http://www.webcitation.org/6cHL8AD7z); Japanese title:
-    内モンゴル自治区における言語教育について ). *Journal of Chiba University Eurasian
-    Society* (千葉大学ユーラシア言語文化論集) 16, 261-266, 2014-09-25. Chiba University
-    Eurasian Society (千葉大学ユーラシア言語文化論講座). [See profile
-    at](https://web.archive.org/web/20151016091736/http://mitizane.ll.chiba-u.jp/meta-bin/mt-pdetail.cgi?cd=00117993)
-    Chiba University Repository. [See profile
-    at](https://web.archive.org/web/20151016091736/http://ci.nii.ac.jp/naid/120005476923)
-    [CiNii](../Page/CiNii.md "wikilink"). - In English with a Japanese
-    abstract.
+  - Borjigin, Monkbat. "[A case study of Language education in the Inner Mongolia](http://mitizane.ll.chiba-u.jp/metadb/up/AA11256001/21857148_16_17.pdf)" ([Archive](http://www.webcitation.org/6cHL8AD7z); Japanese title: 内モンゴル自治区における言語教育について ). *Journal of Chiba University Eurasian Society* (千葉大学ユーラシア言語文化論集) 16, 261-266, 2014-09-25. Chiba University Eurasian Society (千葉大学ユーラシア言語文化論講座). [See profile at](https://web.archive.org/web/20151016091736/http://mitizane.ll.chiba-u.jp/meta-bin/mt-pdetail.cgi?cd=00117993) Chiba University Repository. [See profile at](https://web.archive.org/web/20151016091736/http://ci.nii.ac.jp/naid/120005476923) [CiNii](../Page/CiNii.md "wikilink"). - In English with a Japanese abstract.
 
 ## 外部連結
 
-  - [有關中國教育的紀錄片（采風電影紀錄片 DVD
-    發行）](http://www.visiblerecord.com/zh/films/?subject=中國教育)
+  - [有關中國教育的紀錄片（采風電影紀錄片 DVD 發行）](http://www.visiblerecord.com/zh/films/?subject=中國教育)
 
 ## 參見
 
@@ -353,9 +334,7 @@ Examination），是中等教育到高等教育的選拔考試，也即高中升
 
 {{-}}
 
-[China](https://zh.wikipedia.org/wiki/Category:亚洲各国教育 "wikilink")
-[:Category:中国各朝代教育](https://zh.wikipedia.org/wiki/Category:中国各朝代教育 "wikilink")
-[Category:中华人民共和国教育](https://zh.wikipedia.org/wiki/Category:中华人民共和国教育 "wikilink")
+[China](https://zh.wikipedia.org/wiki/Category:亚洲各国教育 "wikilink") [:Category:中国各朝代教育](https://zh.wikipedia.org/wiki/Category:中国各朝代教育 "wikilink") [Category:中华人民共和国教育](https://zh.wikipedia.org/wiki/Category:中华人民共和国教育 "wikilink")
 
 1.
 
@@ -436,8 +415,7 @@ Examination），是中等教育到高等教育的選拔考試，也即高中升
 
 40.
 
-41.
-    教育部发话！要确保小学生每天睡眠10个小时！|url=[http://www.sohu.com/a/251329489_182511|work=搜狐网|accessdate=2019-04-25|author=|date=2018-09-01|publisher=](http://www.sohu.com/a/251329489_182511%7Cwork=搜狐网%7Caccessdate=2019-04-25%7Cauthor=%7Cdate=2018-09-01%7Cpublisher=)}}
+41.  教育部发话！要确保小学生每天睡眠10个小时！|url=[http://www.sohu.com/a/251329489_182511|work=搜狐网|accessdate=2019-04-25|author=|date=2018-09-01|publisher=](http://www.sohu.com/a/251329489_182511%7Cwork=搜狐网%7Caccessdate=2019-04-25%7Cauthor=%7Cdate=2018-09-01%7Cpublisher=)}}
 
 42.
 
@@ -446,5 +424,4 @@ Examination），是中等教育到高等教育的選拔考試，也即高中升
 44.
 45.
 
-46. [Student and Exchange Visitor Information
-    System](http://www.ice.gov/doclib/sevis/pdf/quarterly_rpt.pdf)
+46. [Student and Exchange Visitor Information System](http://www.ice.gov/doclib/sevis/pdf/quarterly_rpt.pdf)

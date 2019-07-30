@@ -1,5 +1,4 @@
-''' 愛到不要命 Die Lovin'
-'''（）是歌手[丁噹的第](../Page/丁噹.md "wikilink")9張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，於2019年3月25日起開始預購，同年4月2日正式發行。
+''' 愛到不要命 Die Lovin' '''（）是歌手[丁噹](../Page/丁噹.md "wikilink")的第9張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，於2019年3月25日起開始預購，同年4月2日正式發行。
 
 ## 曲目
 
@@ -95,10 +94,4 @@
   -
   -
   -
-[Category:丁噹](https://zh.wikipedia.org/wiki/Category:丁噹 "wikilink")
-[Category:丁噹音樂專輯](https://zh.wikipedia.org/wiki/Category:丁噹音樂專輯 "wikilink")
-[Category:相信音樂製作音樂專輯](https://zh.wikipedia.org/wiki/Category:相信音樂製作音樂專輯 "wikilink")
-[Category:2019年音樂專輯](https://zh.wikipedia.org/wiki/Category:2019年音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
-[Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink")
-[Category:電視劇主題曲](https://zh.wikipedia.org/wiki/Category:電視劇主題曲 "wikilink")
+[Category:丁噹](https://zh.wikipedia.org/wiki/Category:丁噹 "wikilink") [Category:丁噹音樂專輯](https://zh.wikipedia.org/wiki/Category:丁噹音樂專輯 "wikilink") [Category:相信音樂製作音樂專輯](https://zh.wikipedia.org/wiki/Category:相信音樂製作音樂專輯 "wikilink") [Category:2019年音樂專輯](https://zh.wikipedia.org/wiki/Category:2019年音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink") [Category:電視劇主題曲](https://zh.wikipedia.org/wiki/Category:電視劇主題曲 "wikilink")

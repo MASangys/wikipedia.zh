@@ -1,17 +1,16 @@
-**UiPath**是一家开发（RPA或RPAAI）平台的全球软件公司，由[罗马尼亚企业家Daniel](https://zh.wikipedia.org/wiki/罗马尼亚 "wikilink")
-Dines和Marius Tirca于2005年创立\[1\]。
+**UiPath**是一家开发（RPA或RPAAI）平台的全球软件公司，由[罗马尼亚企业家Daniel](https://zh.wikipedia.org/wiki/罗马尼亚 "wikilink") Dines和Marius Tirca于2005年创立\[1\]。
 
 2018年，在公司评价网站Comparably对美国公司的评比中，UiPath在员工幸福程度项目获评第6位\[2\]，在公司文化项目获评第11位\[3\]。UiPath在2018年11月宣布进军中国市场。
 
 ## 历史
 
-该公司最初于2005年建立于罗马尼亚的[布加勒斯特](../Page/布加勒斯特.md "wikilink")，后来在[伦敦](../Page/伦敦.md "wikilink")、[纽约](../Page/纽约.md "wikilink")、[班加罗尔](https://zh.wikipedia.org/wiki/班加罗尔 "wikilink")、[新加坡和](../Page/新加坡.md "wikilink")[东京开设了办事处](../Page/东京.md "wikilink")。\[4\]\[5\]2017年，公司员工数达到590人，并将其总部从罗马尼亚的布加勒斯特迁至纽约，以此来接近他们的国际客户，他们的国际客户在2016年有100家，在2017年增加到700家\[6\]，而2018年则增加到2,100家\[7\]。
+该公司最初于2005年建立于罗马尼亚的[布加勒斯特](../Page/布加勒斯特.md "wikilink")，后来在[伦敦](../Page/伦敦.md "wikilink")、[纽约](../Page/纽约.md "wikilink")、[班加罗尔](https://zh.wikipedia.org/wiki/班加罗尔 "wikilink")、[新加坡](../Page/新加坡.md "wikilink")和[东京](../Page/东京.md "wikilink")开设了办事处。\[4\]\[5\]2017年，公司员工数达到590人，并将其总部从罗马尼亚的布加勒斯特迁至纽约，以此来接近他们的国际客户，他们的国际客户在2016年有100家，在2017年增加到700家\[6\]，而2018年则增加到2,100家\[7\]。
 
 UiPath在2018年11月宣布进军中国市场，在已有的北京之外，在上海和深圳设立办公室，并将在2019年在中国建立研发团队。\[8\]
 
 ## 募资
 
-UiPath初始种子募资发生于2015年8月，当时获得了160万美元的资金\[9\]。其A轮募资发生于2017年，是当时欧洲规模最大的A轮融资之一\[10\]。而截至2019年4月已经经历了5轮募资，当前公司的[资产估值为](../Page/资产估值.md "wikilink")70亿美元。\[11\]
+UiPath初始种子募资发生于2015年8月，当时获得了160万美元的资金\[9\]。其A轮募资发生于2017年，是当时欧洲规模最大的A轮融资之一\[10\]。而截至2019年4月已经经历了5轮募资，当前公司的[资产估值](../Page/资产估值.md "wikilink")为70亿美元。\[11\]
 
 <table>
 <thead>
@@ -82,8 +81,7 @@ T. Rowe Price &amp; Associates、CapitalG、Sequoia Capital、Accel、IVP、Madr
   - [UiPath全球官方网站](https://www.uipath.com)
   - [UiPath中文官方网站](https://www.uipath.com.cn)
 
-[Category:人工智能](https://zh.wikipedia.org/wiki/Category:人工智能 "wikilink")
-[Category:商业软件公司](https://zh.wikipedia.org/wiki/Category:商业软件公司 "wikilink")
+[Category:人工智能](https://zh.wikipedia.org/wiki/Category:人工智能 "wikilink") [Category:商业软件公司](https://zh.wikipedia.org/wiki/Category:商业软件公司 "wikilink")
 
 1.
 

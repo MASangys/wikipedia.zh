@@ -6,7 +6,7 @@ Halo的概念于2015年首次被提出，[国际汽联在](../Page/国际汽车�
 
 ## 结构
 
-Halo前端安装在车手前方的车架上，从两侧绕过车手的头顶，向后固定在驾驶舱的两侧。在2016年的公开数据中，Halo结构的重量约为7公斤，以[钛金属制造](../Page/钛.md "wikilink")。各个车队不制造这个装置，而是由国际汽联指定的厂商制造。
+Halo前端安装在车手前方的车架上，从两侧绕过车手的头顶，向后固定在驾驶舱的两侧。在2016年的公开数据中，Halo结构的重量约为7公斤，以[钛](../Page/钛.md "wikilink")金属制造。各个车队不制造这个装置，而是由国际汽联指定的厂商制造。
 
 国际汽联以40宗真实事故的數據，作出模拟测试，分析指出使用该结构能让车手在重大事故中的生还率提高17%。
 
@@ -21,7 +21,6 @@ Halo前端安装在车手前方的车架上，从两侧绕过车手的头顶，�
   - <http://www.racetechmag.com/2017/07/fia-confirms-halo-system-use-2018-fia-formula-one-world-championship/>
   - <https://www.fia.com/news/how-make-f1-halo>
 
-[Category:汽車安全科技](https://zh.wikipedia.org/wiki/Category:汽車安全科技 "wikilink")
-[Category:开轮式赛车](https://zh.wikipedia.org/wiki/Category:开轮式赛车 "wikilink")
+[Category:汽車安全科技](https://zh.wikipedia.org/wiki/Category:汽車安全科技 "wikilink") [Category:开轮式赛车](https://zh.wikipedia.org/wiki/Category:开轮式赛车 "wikilink")
 
 1.

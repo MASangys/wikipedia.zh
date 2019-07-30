@@ -1,5 +1,4 @@
-**CHERRSEE**()，團名代表Cherry
-Seeds(櫻花的種子)，有「能綻放迷人花朵」的涵義\[1\]，由[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[勇敢兄弟擔任](../Page/勇敢兄弟.md "wikilink")[制作人](https://zh.wikipedia.org/wiki/音乐制作人 "wikilink")。出道成員有MIYU、SAYURI、NENE、LENA、HIKARU組成的五人日本團體\[2\]。而目前成員有YUMA、MIYU、AIRI、NENE、LENA、HIKARU。
+**CHERRSEE**()，團名代表Cherry Seeds(櫻花的種子)，有「能綻放迷人花朵」的涵義\[1\]，由[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[勇敢兄弟](../Page/勇敢兄弟.md "wikilink")擔任[制作人](https://zh.wikipedia.org/wiki/音乐制作人 "wikilink")。出道成員有MIYU、SAYURI、NENE、LENA、HIKARU組成的五人日本團體\[2\]。而目前成員有YUMA、MIYU、AIRI、NENE、LENA、HIKARU。
 
 ## 音樂作品
 

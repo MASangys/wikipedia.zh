@@ -1,4 +1,4 @@
-**ITZY獲獎及提名列表**，主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[ITZY由](../Page/ITZY.md "wikilink")2019年出道至今於頒獎典禮的獲獎及提名。
+**ITZY獲獎及提名列表**，主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[ITZY](../Page/ITZY.md "wikilink")由2019年出道至今於頒獎典禮的獲獎及提名。
 
 ## 韓國音樂頒獎典禮
 
@@ -18,9 +18,53 @@
 <tr class="odd">
 <td><p>第一屆</p></td>
 <td><p>2019年</p></td>
-<td><p>最佳女新人</p></td>
+<td><p>最佳新人女團體</p></td>
 <td><p>ITZY</p></td>
 <td></td>
+</tr>
+<tr class="even">
+<td><p>年度歌手</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>年度最暢銷藝人</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>年度歌曲</p></td>
+<td><p>Dalla Dalla</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+## 其他獎項
+
+### 韓國年度品牌大賞
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p>屆數</p></td>
+<td><p>年份</p></td>
+<td><p>獎項</p></td>
+<td><p>提名項目</p></td>
+<td><p>結果</p></td>
+</tr>
+<tr class="even">
+<td><p>第17屆</p></td>
+<td><p>2019年</p></td>
+<td><p>女子新人獎</p></td>
+<td><p><a href="../Page/ITZY.md" title="wikilink">ITZY</a></p></td>
+<td><p>[1]</p></td>
 </tr>
 </tbody>
 </table>
@@ -82,3 +126,7 @@
 | 3月10日 |       |             |
 
   - 註：每首歌曲最多只能獲得一位三次，獲獎三次後會自動在候補名單中被剔除。
+
+<!-- end list -->
+
+1.

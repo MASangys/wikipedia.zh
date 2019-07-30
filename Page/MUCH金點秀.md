@@ -1,4 +1,4 @@
-《**MUCH金點秀**》是[年代集團監製及首播的歌唱](../Page/年代集團.md "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")，開播時主持人為[張秀卿](../Page/張秀卿.md "wikilink")、[邵大倫](https://zh.wikipedia.org/wiki/邵大倫 "wikilink")\[1\]，阿咪大樂團伴奏，2019年4月16日舉行首播記者會\[2\]，[年代MUCH台於](../Page/年代MUCH台.md "wikilink")2019年4月15日首播。
+《**MUCH金點秀**》是[年代集團](../Page/年代集團.md "wikilink")監製及首播的歌唱[綜藝節目](../Page/綜藝節目.md "wikilink")，開播時主持人為[張秀卿](../Page/張秀卿.md "wikilink")、[邵大倫](https://zh.wikipedia.org/wiki/邵大倫 "wikilink")\[1\]，阿咪大樂團伴奏，2019年4月16日舉行首播記者會\[2\]，[年代MUCH台](../Page/年代MUCH台.md "wikilink")於2019年4月15日首播。
 
 ## 播出時間
 
@@ -67,6 +67,15 @@
 | 38 | 2019.7.01 | 演歌翻唱大進擊           | 蔡閨、大芭                |
 | 39 | 2019.7.02 | 誰說原住民比較會唱！        | 辛龍、黑旋風、高蕾雅、楊蒨時       |
 | 40 | 2019.7.03 | 懷念的電視電影主題曲        | 卓義峰、張心傑、梁一貞、呂程程      |
+| 41 | 2019.7.08 | 巨星模仿秀             | 包偉銘、陳艾湄、大根           |
+| 42 | 2019.7.09 | 紅孩兒登大人            | 張克帆、王海輪、馬國賢          |
+| 43 | 2019.7.10 | 嗆聲壞女人 誰最麻辣        | 連靜雯、鄭仲茵、楊繡惠          |
+| 44 | 2019.7.15 | 女歌手瞎拚記            | 朱海君、謝宜君、談詩玲          |
+| 45 | 2019.7.16 | 天公伯啊 我們是被耽誤的好聲音   | 王建復、張文綺、黃鐙輝          |
+| 46 | 2019.7.17 | 世紀姊妹花 張琪VS張琴      | 張琪、張琴                |
+| 47 | 2019.7.22 | 玉女求子路 最怕過這關\!     | 陳明真、林佳儀              |
+| 48 | 2019.7.23 | 秀場天王歌王駕到          | 康弘、孫情                |
+| 49 | 2019.7.24 | 一旅遊就現形 我的野蠻家人     | 王中平、余皓然、許志豪、豪媽       |
 
 ## 參考資料
 
@@ -79,9 +88,7 @@
   -
 
   -
-[Category:年代電視節目](https://zh.wikipedia.org/wiki/Category:年代電視節目 "wikilink")
-[Category:台灣綜藝節目](https://zh.wikipedia.org/wiki/Category:台灣綜藝節目 "wikilink")
+[Category:年代電視節目](https://zh.wikipedia.org/wiki/Category:年代電視節目 "wikilink") [Category:台灣綜藝節目](https://zh.wikipedia.org/wiki/Category:台灣綜藝節目 "wikilink")
 
-1.  [吳宗憲節目團隊遭挖角
-    張秀卿搶人不手軟](https://ent.ltn.com.tw/news/breakingnews/2760813)
+1.  [吳宗憲節目團隊遭挖角 張秀卿搶人不手軟](https://ent.ltn.com.tw/news/breakingnews/2760813)
 2.  [吞嫩弟口水！張秀卿遭爆慣性「射後不理」…認：他比較辛苦](https://www.setn.com/News.aspx?NewsID=527706)

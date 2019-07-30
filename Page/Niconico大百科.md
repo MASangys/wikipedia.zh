@@ -10,5 +10,4 @@
 
 ## 注釋
 
-[Category:在线百科全书](https://zh.wikipedia.org/wiki/Category:在线百科全书 "wikilink")
-[Category:NICONICO動畫](https://zh.wikipedia.org/wiki/Category:NICONICO動畫 "wikilink")
+[Category:在线百科全书](https://zh.wikipedia.org/wiki/Category:在线百科全书 "wikilink") [Category:NICONICO動畫](https://zh.wikipedia.org/wiki/Category:NICONICO動畫 "wikilink")

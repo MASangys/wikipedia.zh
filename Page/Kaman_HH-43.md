@@ -10,21 +10,17 @@
 | 首次飞行：                                                                                        |
 |                                                                                              |
 
-**卡曼HH-43哈斯基**
-是一种由美国制造商[卡曼飞机公司制造的短距离直升机](https://zh.wikipedia.org/wiki/卡曼飞机公司 "wikilink")，常被用于事故救援行动和救火行动。
+**卡曼HH-43哈斯基** 是一种由美国制造商[卡曼飞机公司制造的短距离直升机](https://zh.wikipedia.org/wiki/卡曼飞机公司 "wikilink")，常被用于事故救援行动和救火行动。
 
 ## 历史
 
 ### 先行者
 
-第一卡曼制造的在1947年1月进行首飞的直升机K-125就已经使用了用于哈斯基的 弗莱特纳双转原则。
-K-125为卡曼公司所有在1950到1960期间的飞机打下了基础。
+第一卡曼制造的在1947年1月进行首飞的直升机K-125就已经使用了用于哈斯基的 弗莱特纳双转原则。 K-125为卡曼公司所有在1950到1960期间的飞机打下了基础。
 
 ### 作为培训机的HTK-1
 
-[美国海军陆战队在](../Page/美国海军陆战队.md "wikilink")1949年公开了一项观察直升机计划（HO-计划），它将也可以用作救援和运输直升机。
-尽管卡曼公司的项目在和Sikorskys公司的 [S-52 (美国海军陆战队
-HO5S-1)竞争中落败](https://zh.wikipedia.org/wiki/Sikorsky_S-52 "wikilink") ，但是美国海军仍然订购了四架HOK-1作为S-52的后备计划。 由于卡曼公司处于经济困难时期，为了能够等到新机型的交付，它必须要接一些其他订单。1950年卡曼公司接到了海军K-240的订单（美国海军编号HTK-1），并在后来发展成了加装装甲的K-225。
+[美国海军陆战队](../Page/美国海军陆战队.md "wikilink")在1949年公开了一项观察直升机计划（HO-计划），它将也可以用作救援和运输直升机。 尽管卡曼公司的项目在和Sikorskys公司的 [S-52 (美国海军陆战队 HO5S-1)竞争中落败](https://zh.wikipedia.org/wiki/Sikorsky_S-52 "wikilink") ，但是美国海军仍然订购了四架HOK-1作为S-52的后备计划。 由于卡曼公司处于经济困难时期，为了能够等到新机型的交付，它必须要接一些其他订单。1950年卡曼公司接到了海军K-240的订单（美国海军编号HTK-1），并在后来发展成了加装装甲的K-225。
 
 第一架HTK-1在1951年4月完成并交付给海军。在1951年至1953年另外的29架飞机也陆续完成并交付。  
 
@@ -171,25 +167,17 @@ HO5S-1)竞争中落败](https://zh.wikipedia.org/wiki/Sikorsky_S-52 "wikilink")�
 
 ## 文献
 
-  - Howard Levy: Kaman Helicopters (Database). In: Aeroplane Monthly
-    Juni 2006, S. 61–75
-  - Frank Colucci: Kaman's 'Copters. In: AIR International April 1996,
-    S. 221–229
-  - Leonard Bridgman (Hrsg.): Jane's All The World's Aircraft - 1959-60,
-    Sampson Low, Marston & Company Ltd., London, 1959, S. 321 f.
-  - John W.R. Taylor (Hrsg.): Jane's All The World's Aircraft - 1965-66,
-    Sampson Low, Marston & Company Ltd., London, 1965, S. 249 f.
+  - Howard Levy: Kaman Helicopters (Database). In: Aeroplane Monthly Juni 2006, S. 61–75
+  - Frank Colucci: Kaman's 'Copters. In: AIR International April 1996, S. 221–229
+  - Leonard Bridgman (Hrsg.): Jane's All The World's Aircraft - 1959-60, Sampson Low, Marston & Company Ltd., London, 1959, S. 321 f.
+  - John W.R. Taylor (Hrsg.): Jane's All The World's Aircraft - 1965-66, Sampson Low, Marston & Company Ltd., London, 1965, S. 249 f.
 
 ## 链接
 
-  - [HTK-1K, als erster unbemannter
-    Hubschrauber](https://www.youtube.com/watch?v=X1dIzvp5aMc)
-    (youtube-Video)
-  - [Fotos auf
-    flickr.com](https://www.flickr.com/photos/sdasmarchives/sets/72157627928485093/detail/?page=14)
+  - [HTK-1K, als erster unbemannter Hubschrauber](https://www.youtube.com/watch?v=X1dIzvp5aMc) (youtube-Video)
+  - [Fotos auf flickr.com](https://www.flickr.com/photos/sdasmarchives/sets/72157627928485093/detail/?page=14)
   - [HTK-1 im Tillamook Air Museum](http://svsm.org/gallery/htk-1)
-  - [Kaman HH-43 F Huskie im Hubschraubermuseum
-    Bückeburg](http://www.hubschraubermuseum.de/exponate/mehrrotorige-hubschrauber/kaman-hh-43f-huskie/)
+  - [Kaman HH-43 F Huskie im Hubschraubermuseum Bückeburg](http://www.hubschraubermuseum.de/exponate/mehrrotorige-hubschrauber/kaman-hh-43f-huskie/)
 
 ## 参考
 

@@ -1,16 +1,14 @@
-《**神之牙-JINGA-**》（）是[日本特攝劇集](../Page/日本.md "wikilink")《[牙狼〈GARO〉](../Page/牙狼〈GARO〉.md "wikilink")》系列的最新電視作品，於2018年10月4日起在[東京都會電視台](../Page/東京都會電視台.md "wikilink")、[日本BS放送的深夜時段播出](../Page/日本BS放送.md "wikilink")。
+《**神之牙-JINGA-**》（）是[日本](../Page/日本.md "wikilink")特攝劇集《[牙狼〈GARO〉](../Page/牙狼〈GARO〉.md "wikilink")》系列的最新電視作品，於2018年10月4日起在[東京都會電視台](../Page/東京都會電視台.md "wikilink")、[日本BS放送](../Page/日本BS放送.md "wikilink")的深夜時段播出。
 
 ## 本劇特色
 
-本作作為2015年播出的《[牙狼〈GARO〉-GOLDSTORM-
-翔](../Page/牙狼〈GARO〉-GOLDSTORM-_翔.md "wikilink")》的續作外傳故事，以劇中的主要反派－霍拉·神牙轉生後的御影神牙為故事核心所展開的全新故事。
+本作作為2015年播出的《[牙狼〈GARO〉-GOLDSTORM- 翔](../Page/牙狼〈GARO〉-GOLDSTORM-_翔.md "wikilink")》的續作外傳故事，以劇中的主要反派－霍拉·神牙轉生後的御影神牙為故事核心所展開的全新故事。
 
-與以往系列作在[東京電視台播出的慣例不同](../Page/東京電視台.md "wikilink")，本作改由東京都會電視台、日本BS放送播出為首例。
+與以往系列作在[東京電視台](../Page/東京電視台.md "wikilink")播出的慣例不同，本作改由東京都會電視台、日本BS放送播出為首例。
 
 ## 故事大綱
 
-曾身為一名魔戒騎士、卻以最兇最惡的啃食霍拉的霍拉為稱的那位「神牙」，在魔界與霍拉的始祖·彌賽亞的一場決戰中敗北了。然而經過一段漫長歲月，其靈魂以名為御影神牙的魔戒騎士的身分重新誕生於世。並且與夥伴魔戒法師
-楓沙及目標成為魔戒騎士的弟弟 刀真一同完成討伐霍拉的使命。
+曾身為一名魔戒騎士、卻以最兇最惡的啃食霍拉的霍拉為稱的那位「神牙」，在魔界與霍拉的始祖·彌賽亞的一場決戰中敗北了。然而經過一段漫長歲月，其靈魂以名為御影神牙的魔戒騎士的身分重新誕生於世。並且與夥伴魔戒法師 楓沙及目標成為魔戒騎士的弟弟 刀真一同完成討伐霍拉的使命。
 
   - 從EP5中知道今次故事發生背景的地區叫"裏巴斯 (リバース)"，裏巴市區 (リバーシティ)。
 
@@ -18,8 +16,7 @@
 
 ## 登場人物
 
-  - **御影神牙**（みかげ
-    じんが）（[井上正大飾](../Page/井上正大.md "wikilink")）([樋口天翔飾少年時代神牙](https://zh.wikipedia.org/wiki/樋口天翔 "wikilink"))
+  - **御影神牙**（みかげ じんが）（[井上正大](../Page/井上正大.md "wikilink")飾）([樋口天翔飾少年時代神牙](https://zh.wikipedia.org/wiki/樋口天翔 "wikilink"))
 
 <!-- end list -->
 
@@ -28,7 +25,7 @@
 
 <!-- end list -->
 
-  - **魔導具亞魯瓦**（[松野井雅聲音](../Page/松野井雅.md "wikilink")）
+  - **魔導具亞魯瓦**（[松野井雅](../Page/松野井雅.md "wikilink")聲音）
 
 <!-- end list -->
 
@@ -37,7 +34,7 @@
 
 <!-- end list -->
 
-  - **亞美里**（アミリ）（[松野井雅飾](../Page/松野井雅.md "wikilink")）
+  - **亞美里**（アミリ）（[松野井雅](../Page/松野井雅.md "wikilink")飾）
 
 <!-- end list -->
 
@@ -55,8 +52,7 @@
 
 <!-- end list -->
 
-  - **御影刀真**（みかげ
-    とうま）（[萩原壯志飾](https://zh.wikipedia.org/wiki/萩原壯志 "wikilink")）
+  - **御影刀真**（みかげ とうま）（[萩原壯志飾](https://zh.wikipedia.org/wiki/萩原壯志 "wikilink")）
 
 <!-- end list -->
 
@@ -65,8 +61,7 @@
 
 <!-- end list -->
 
-  - **御影小百合**（みかげ
-    こゆり）（[安藤聰海飾](https://zh.wikipedia.org/wiki/安藤聰海 "wikilink")）
+  - **御影小百合**（みかげ こゆり）（[安藤聰海飾](https://zh.wikipedia.org/wiki/安藤聰海 "wikilink")）
 
 <!-- end list -->
 
@@ -75,8 +70,7 @@
 
 <!-- end list -->
 
-  - **御影瑞斗**（みかげ
-    みずと）（[風間トオル飾](https://zh.wikipedia.org/wiki/風間トオル "wikilink")）
+  - **御影瑞斗**（みかげ みずと）（[風間トオル飾](https://zh.wikipedia.org/wiki/風間トオル "wikilink")）
 
 <!-- end list -->
 
@@ -286,39 +280,39 @@ FOX - <a href="https://zh.wikipedia.org/wiki/黒石高大" title="wikilink">黒�
 ヒトシ - <a href="https://zh.wikipedia.org/wiki/高野春樹" title="wikilink">高野春樹</a></p></td>
 </tr>
 <tr class="even">
-<td><p>|EPISODE 7</p></td>
+<td><p>18/11/22</p></td>
+<td><p>EPISODE 7</p></td>
 <td><p>伴／斷</p></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="odd">
-<td><p>|EPISODE 8</p></td>
+<td><p>18/11/29</p></td>
+<td><p>EPISODE 8</p></td>
 <td><p>盲信／懷疑</p></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="even">
-<td><p>|EPISODE 9</p></td>
+<td><p>18/12/06</p></td>
+<td><p>EPISODE 9</p></td>
 <td><p>無始／無終</p></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="odd">
-<td><p>|EPISODE 10</p></td>
+<td><p>18/12/13</p></td>
+<td><p>EPISODE 10</p></td>
 <td><p>獨尊／窮地</p></td>
-<td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>|EPISODE 11</p></td>
+<td><p>18/12/20</p></td>
+<td><p>EPISODE 11</p></td>
 <td><p>虛構的大義／事實的真裡</p></td>
-<td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>|EPISODE 12</p></td>
+<td><p>18/12/27</p></td>
+<td><p>EPISODE 12</p></td>
 <td><p>終焉／創成</p></td>
-<td></td>
 <td></td>
 </tr>
 </tbody>
@@ -343,13 +337,11 @@ FOX - <a href="https://zh.wikipedia.org/wiki/黒石高大" title="wikilink">黒�
 
 ### 電影版
 
-  - 《[牙狼〈GARO〉神之牙
-    -KAMINOKIBA-](https://zh.wikipedia.org/wiki/牙狼〈GARO〉神之牙_-KAMINOKIBA- "wikilink")》：2018年1月公映
+  - 《[牙狼〈GARO〉神之牙 -KAMINOKIBA-](https://zh.wikipedia.org/wiki/牙狼〈GARO〉神之牙_-KAMINOKIBA- "wikilink")》：2018年1月公映
 
 ## 參考資料
 
-  - [ＴＶドラマ『神ノ牙-JINGA-』上映会＆トークイベント
-    報告レポート](https://www.sankei.com/smp/economy/news/181117/prl1811170035-s1.html)
+  - [ＴＶドラマ『神ノ牙-JINGA-』上映会＆トークイベント 報告レポート](https://www.sankei.com/smp/economy/news/181117/prl1811170035-s1.html)
   - [「牙狼＜GARO＞」最新作「神ノ牙-JINGA-」メインビジュアル＆予告編が公開](https://s.animeanime.jp/article/2018/09/12/40100.html)
   - [「牙狼」最新作『神ノ牙-JINGA-』今夜放送、『仮面ライダーディケイド』井上正大が演じる大人のヒーロー](https://news.mynavi.jp/article/20181004-701553/)
 
@@ -357,9 +349,4 @@ FOX - <a href="https://zh.wikipedia.org/wiki/黒石高大" title="wikilink">黒�
 
   - [『神之牙-JINGA-』官方網站](http://garo-project.jp/JINGA_KAMINOKIBA/)
 
-[Category:牙狼〈GARO〉](https://zh.wikipedia.org/wiki/Category:牙狼〈GARO〉 "wikilink")
-[Category:2010年代特攝作品](https://zh.wikipedia.org/wiki/Category:2010年代特攝作品 "wikilink")
-[Category:深夜特摄](https://zh.wikipedia.org/wiki/Category:深夜特摄 "wikilink")
-[Category:2018年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2018年開播的日本電視劇集 "wikilink")
-[Category:日本恐怖劇](https://zh.wikipedia.org/wiki/Category:日本恐怖劇 "wikilink")
-[Category:轉生題材電視劇](https://zh.wikipedia.org/wiki/Category:轉生題材電視劇 "wikilink")
+[Category:牙狼〈GARO〉](https://zh.wikipedia.org/wiki/Category:牙狼〈GARO〉 "wikilink") [Category:2010年代特攝作品](https://zh.wikipedia.org/wiki/Category:2010年代特攝作品 "wikilink") [Category:深夜特摄](https://zh.wikipedia.org/wiki/Category:深夜特摄 "wikilink") [Category:2018年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2018年開播的日本電視劇集 "wikilink") [Category:日本恐怖劇](https://zh.wikipedia.org/wiki/Category:日本恐怖劇 "wikilink") [Category:轉生題材電視劇](https://zh.wikipedia.org/wiki/Category:轉生題材電視劇 "wikilink")

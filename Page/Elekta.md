@@ -2,8 +2,7 @@
 
 ## 历史
 
-医科达公司由[伽玛刀创始人](https://zh.wikipedia.org/wiki/伽玛刀 "wikilink")，瑞典[卡罗林斯卡研究所已故的神经外科教授](https://zh.wikipedia.org/wiki/卡罗林斯卡 "wikilink")[Lars
-Leksell于](https://zh.wikipedia.org/wiki/Lars_Leksell "wikilink")1972年创建成立，总部设在[瑞典](../Page/瑞典.md "wikilink")[斯德哥尔摩](../Page/斯德哥尔摩.md "wikilink")。\[1\]
+医科达公司由[伽玛刀创始人](https://zh.wikipedia.org/wiki/伽玛刀 "wikilink")，瑞典[卡罗林斯卡研究所已故的神经外科教授](https://zh.wikipedia.org/wiki/卡罗林斯卡 "wikilink")[Lars Leksell于](https://zh.wikipedia.org/wiki/Lars_Leksell "wikilink")1972年创建成立，总部设在[瑞典](../Page/瑞典.md "wikilink")[斯德哥尔摩](../Page/斯德哥尔摩.md "wikilink")。\[1\]
 
 ## 收购
 
@@ -14,9 +13,7 @@ Leksell于](https://zh.wikipedia.org/wiki/Lars_Leksell "wikilink")1972年创建�
   - Resonant医疗(加拿大开发的 [放射肿瘤学](https://zh.wikipedia.org/wiki/放射線療法 "wikilink") 可视化产品；2010年)\[2\]
   - Nucletron(近距离放射治疗；2011年)
 
-[替代=Linear Accelerator - Elekta Compact model at Narayana
-Multispeciality Hospital,
-Mysore.](https://zh.wikipedia.org/wiki/File:Linear_Accelerator_-_Elekta_Compact_model.jpg "fig:替代=Linear Accelerator - Elekta Compact model at Narayana Multispeciality Hospital, Mysore.")
+[替代=Linear Accelerator - Elekta Compact model at Narayana Multispeciality Hospital, Mysore.](https://zh.wikipedia.org/wiki/File:Linear_Accelerator_-_Elekta_Compact_model.jpg "fig:替代=Linear Accelerator - Elekta Compact model at Narayana Multispeciality Hospital, Mysore.")
 
 ## 参考文献
 
@@ -24,10 +21,7 @@ Mysore.](https://zh.wikipedia.org/wiki/File:Linear_Accelerator_-_Elekta_Compact_
 
   - [官方网站](http://www.elekta.com)
 
-[Category:斯德哥尔摩公司](https://zh.wikipedia.org/wiki/Category:斯德哥尔摩公司 "wikilink")
-[Category:瑞典品牌](https://zh.wikipedia.org/wiki/Category:瑞典品牌 "wikilink")
+[Category:斯德哥尔摩公司](https://zh.wikipedia.org/wiki/Category:斯德哥尔摩公司 "wikilink") [Category:瑞典品牌](https://zh.wikipedia.org/wiki/Category:瑞典品牌 "wikilink")
 
 1.
-2.  <http://www.resonantmedical.com/en/news-events/special_downloads.php>.
-    Accessed: 2010-10-28. (Archived by WebCite at
-    <https://www.webcitation.org/5tonFuxOo>)
+2.  <http://www.resonantmedical.com/en/news-events/special_downloads.php>. Accessed: 2010-10-28. (Archived by WebCite at <https://www.webcitation.org/5tonFuxOo>)

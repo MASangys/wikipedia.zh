@@ -1,38 +1,26 @@
-《**COLOR\*IZ**》是[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[IZ\*ONE作為](../Page/IZ*ONE.md "wikilink")[韓國出道作品的首張迷你專輯](https://zh.wikipedia.org/wiki/韓國 "wikilink")，由[Off
-The
-Record娛樂製作](https://zh.wikipedia.org/wiki/Off_The_Record娛樂 "wikilink")，發行，於2018年10月29日推出，主打歌曲為〈La
-Vie en Rose〉。
+《**COLOR\*IZ**》是[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[IZ\*ONE](../Page/IZ*ONE.md "wikilink")作為[韓國出道作品的首張迷你專輯](https://zh.wikipedia.org/wiki/韓國 "wikilink")，由[Off The Record娛樂製作](https://zh.wikipedia.org/wiki/Off_The_Record娛樂 "wikilink")，發行，於2018年10月29日推出，主打歌曲為〈La Vie en Rose〉。
 
 ## 簡介
 
 ### 預告
 
-2018年9月2日，所屬經紀公司[Off The
-Record娛樂透露](https://zh.wikipedia.org/wiki/Off_The_Record娛樂 "wikilink")[IZ\*ONE預計於](../Page/IZ*ONE.md "wikilink")10月出道\[1\]。
+2018年9月2日，所屬經紀公司[Off The Record娛樂透露](https://zh.wikipedia.org/wiki/Off_The_Record娛樂 "wikilink")[IZ\*ONE](../Page/IZ*ONE.md "wikilink")預計於10月出道\[1\]。
 
-10月15日，經紀公司確定IZ\*ONE將於10月29日發行首張迷你專輯《COLOR\*IZ》，並公開成員們的個人概念照\[2\]。隔天發布專輯概念預告影片《What
-IZ your color?》\[3\]，並宣佈10月29日將在舉行出道Show-Con〈IZ\*ONE 'COLOR\*IZ'
-SHOW-CON 〉\[4\]。
+10月15日，經紀公司確定IZ\*ONE將於10月29日發行首張迷你專輯《COLOR\*IZ》，並公開成員們的個人概念照\[2\]。隔天發布專輯概念預告影片《What IZ your color?》\[3\]，並宣佈10月29日將在舉行出道Show-Con〈IZ\*ONE 'COLOR\*IZ' SHOW-CON 〉\[4\]。
 
 專輯的音源於10月29日下午6點正式公開\[5\]，並於同日8點舉行出道Show-Con，正式出道\[6\]。
 
 ## 歌曲与發行
 
-專輯共有四個版本，分別為「Rose版」、「Color版」、「張元英出道中心限量版」、「KIHNO智能專輯」除了實體CD專輯小卡和[張員瑛個人海報是雙版本共用外](../Page/張員瑛.md "wikilink")，其餘物品根據版本而有所不同\[7\]\[8\]。
+專輯共有四個版本，分別為「Rose版」、「Color版」、「張元英出道中心限量版」、「KIHNO智能專輯」除了實體CD專輯小卡和[張員瑛](../Page/張員瑛.md "wikilink")個人海報是雙版本共用外，其餘物品根據版本而有所不同\[7\]\[8\]。
 
 ### 歌曲介绍
 
-主打曲〈La Vie en Rose〉由freemind
-蔡多順负责编舞\[9\]，[CLC曾拍摄过此曲的小样](../Page/CLC.md "wikilink")\[10\]。《被迷住了吧？》（）經過[KBS歌曲審查會議討論後](https://zh.wikipedia.org/wiki/KBS "wikilink")，因為全首歌都是日文歌詞，違反放送審議相關規定，所以無法在KBS電視台以及電台播出。\[11\]《O'
-My\!》成為被用为團体綜艺节目《[IZ\*ONE CHU](../Page/IZ*ONE_CHU.md "wikilink")》主題曲。
+主打曲〈La Vie en Rose〉由freemind 蔡多順负责编舞\[9\]，[CLC](../Page/CLC.md "wikilink")曾拍摄过此曲的小样\[10\]。《被迷住了吧？》（）經過[KBS歌曲審查會議討論後](https://zh.wikipedia.org/wiki/KBS "wikilink")，因為全首歌都是日文歌詞，違反放送審議相關規定，所以無法在KBS電視台以及電台播出。\[11\]《O' My\!》成為被用为團体綜艺节目《[IZ\*ONE CHU](../Page/IZ*ONE_CHU.md "wikilink")》主題曲。
 
 ## 曲目
 
-本次專輯共收錄了八首歌曲，曲目包括了《[PRODUCE
-48](../Page/PRODUCE_48.md "wikilink")》發布的《[是我的 (PICK
-ME)](../Page/是我的_\(PICK_ME\).md "wikilink")》和收錄在《[PRODUCE 48 -
-FINAL](../Page/PRODUCE_48_-_FINAL.md "wikilink")》中的所有歌曲\[12\]。[IZ\*ONE版本的](../Page/IZ*ONE.md "wikilink")《[是我的
-(PICK ME)](../Page/是我的_\(PICK_ME\).md "wikilink")》只收錄於CD中。
+本次專輯共收錄了八首歌曲，曲目包括了《[PRODUCE 48](../Page/PRODUCE_48.md "wikilink")》發布的《[是我的 (PICK ME)](../Page/是我的_\(PICK_ME\).md "wikilink")》和收錄在《[PRODUCE 48 - FINAL](../Page/PRODUCE_48_-_FINAL.md "wikilink")》中的所有歌曲\[12\]。[IZ\*ONE](../Page/IZ*ONE.md "wikilink")版本的《[是我的 (PICK ME)](../Page/是我的_\(PICK_ME\).md "wikilink")》只收錄於CD中。
 
 ## 音樂現場
 
@@ -230,10 +218,7 @@ FINAL](../Page/PRODUCE_48_-_FINAL.md "wikilink")》中的所有歌曲\[12\]。[I
 
 ## 參考文獻
 
-[Category:2018年音樂專輯](https://zh.wikipedia.org/wiki/Category:2018年音樂專輯 "wikilink")
-[Category:IZ\*ONE](https://zh.wikipedia.org/wiki/Category:IZ*ONE "wikilink")
-[Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink")
-[Category:2018年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2018年Oricon專輯週榜冠軍作品 "wikilink")
+[Category:2018年音樂專輯](https://zh.wikipedia.org/wiki/Category:2018年音樂專輯 "wikilink") [Category:IZ\*ONE](https://zh.wikipedia.org/wiki/Category:IZ*ONE "wikilink") [Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink") [Category:2018年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2018年Oricon專輯週榜冠軍作品 "wikilink")
 
 1.
 2.

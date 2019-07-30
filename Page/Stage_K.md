@@ -1,13 +1,10 @@
-《**K-POP CHALLENGE <Stage K>**》（），簡稱《**Stage
-K**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC電視台於](../Page/JTBC.md "wikilink")2019年4月7日至6月23日推出的[K-Pop舞蹈比賽節目](https://zh.wikipedia.org/wiki/K-Pop "wikilink")，由[全炫茂主持](https://zh.wikipedia.org/wiki/全炫茂 "wikilink")\[1\]，並由[朴俊炯](../Page/朴俊炯.md "wikilink")（[g.o.d](https://zh.wikipedia.org/wiki/g.o.d "wikilink")）、[殷志源](https://zh.wikipedia.org/wiki/殷志源 "wikilink")（[水晶男孩](../Page/水晶男孩.md "wikilink")）、[Dara及](https://zh.wikipedia.org/wiki/Dara "wikilink")[宥斌共同擔任固定評審](https://zh.wikipedia.org/wiki/宥斌 "wikilink")（K-Leaders）\[2\]。節目主軸為來自世界各地的挑戰者組隊進行[K-Pop舞蹈比賽](https://zh.wikipedia.org/wiki/K-Pop "wikilink")，每集會從四強隊伍中選出一支優勝隊伍。優勝隊伍除了可得到500萬韓元獎金及獎品外，還可獲得與該集主題歌手（Dream
-Star）表演合作舞台的機會，以及王中王戰出戰資格。
+《**K-POP CHALLENGE <Stage K>**》（），簡稱《**Stage K**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC](../Page/JTBC.md "wikilink")電視台於2019年4月7日至6月23日推出的[K-Pop舞蹈比賽節目](https://zh.wikipedia.org/wiki/K-Pop "wikilink")，由[全炫茂主持](https://zh.wikipedia.org/wiki/全炫茂 "wikilink")\[1\]，並由[朴俊炯](../Page/朴俊炯.md "wikilink")（[g.o.d](https://zh.wikipedia.org/wiki/g.o.d "wikilink")）、[殷志源](https://zh.wikipedia.org/wiki/殷志源 "wikilink")（[水晶男孩](../Page/水晶男孩.md "wikilink")）、[Dara及](https://zh.wikipedia.org/wiki/Dara "wikilink")[宥斌共同擔任固定評審](https://zh.wikipedia.org/wiki/宥斌 "wikilink")（K-Leaders）\[2\]。節目主軸為來自世界各地的挑戰者組隊進行[K-Pop舞蹈比賽](https://zh.wikipedia.org/wiki/K-Pop "wikilink")，每集會從四強隊伍中選出一支優勝隊伍。優勝隊伍除了可得到500萬韓元獎金及獎品外，還可獲得與該集主題歌手（Dream Star）表演合作舞台的機會，以及王中王戰出戰資格。
 
 ## 四強隊伍選拔過程
 
 1.  影像評價：來自全球77個國家的參賽隊伍以翻跳[K-Pop舞蹈的影片報名參賽](https://zh.wikipedia.org/wiki/K-Pop "wikilink")。
 2.  全球當地預選：節目組於全球八個城市舉行預選，包括[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")、、[河内](https://zh.wikipedia.org/wiki/河内 "wikilink")、[曼谷](../Page/曼谷.md "wikilink")、[巴黎](../Page/巴黎.md "wikilink")、[墨西哥城](../Page/墨西哥城.md "wikilink")、[洛杉磯及](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")[紐約](https://zh.wikipedia.org/wiki/紐約 "wikilink")。
-3.  專家評價及後續審查：由[YG娛樂的編舞家](../Page/YG娛樂.md "wikilink")（李在旭、Heeeeeyun、Deukie
-    & Dony）為首的專家團隊對通過預選的參賽隊伍進行評價，另外節目組會將部份相同國籍的個人參賽者組成一隊。
+3.  專家評價及後續審查：由[YG娛樂](../Page/YG娛樂.md "wikilink")的編舞家（李在旭、Heeeeeyun、Deukie & Dony）為首的專家團隊對通過預選的參賽隊伍進行評價，另外節目組會將部份相同國籍的個人參賽者組成一隊。
 
 ## 賽制
 
@@ -15,11 +12,9 @@ Star）表演合作舞台的機會，以及王中王戰出戰資格。
 
 #### 正規賽事
 
-  - 每集節目以一組[韓國歌手為主題](https://zh.wikipedia.org/wiki/韓國 "wikilink")，分為Stage
-    1（準決賽）及Stage 2（決賽）兩輪比賽，每輪比賽均由現場評審團投票決定名次。
+  - 每集節目以一組[韓國歌手為主題](https://zh.wikipedia.org/wiki/韓國 "wikilink")，分為Stage 1（準決賽）及Stage 2（決賽）兩輪比賽，每輪比賽均由現場評審團投票決定名次。
   - Stage 1：四強隊伍按抽籤次序表演自選曲目的舞蹈，經評審團投票選出最高分的兩隊可晉級Stage 2。
-  - Stage 2：在Stage 1獲得最高分的隊伍會決定最後兩強的出場次序，兩隊需演出由Dream
-    Star指定同一首曲目的舞蹈，最後經評審團投票選出冠亞軍。
+  - Stage 2：在Stage 1獲得最高分的隊伍會決定最後兩強的出場次序，兩隊需演出由Dream Star指定同一首曲目的舞蹈，最後經評審團投票選出冠亞軍。
   - 冠軍隊伍可得到獎盃、500萬韓元獎金及LED面罩，並可獲得與Dream Star表演合作舞台的機會。
   - 除了第七集K-Leaders特輯外，其餘八集的勝出隊伍同時得到王中王戰出戰資格。
 
@@ -34,8 +29,7 @@ Star）表演合作舞台的機會，以及王中王戰出戰資格。
 
   - Dream Star（一組）：每集節目的主題歌手，四強隊伍需表演Dream Star的歌曲作品的舞蹈。
   - K-Leaders（四名）：[K-pop界的前輩歌手](https://zh.wikipedia.org/wiki/K-pop "wikilink")，本節目的固定評審。
-  - Global
-    Supporters（四名）：第一至六集根據每集四強隊伍國籍而邀請的外籍嘉賓評審，多數是曾出演[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[綜藝節目或在](../Page/綜藝節目.md "wikilink")[韓國發展的藝人](https://zh.wikipedia.org/wiki/韓國 "wikilink")，負責現場翻譯及為代表其國家的隊伍應援。
+  - Global Supporters（四名）：第一至六集根據每集四強隊伍國籍而邀請的外籍嘉賓評審，多數是曾出演[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")或在[韓國發展的藝人](https://zh.wikipedia.org/wiki/韓國 "wikilink")，負責現場翻譯及為代表其國家的隊伍應援。
   - K-Panel（五名）：僅為第七集K-Leaders特輯而設的嘉賓評審，出道多年的[K-pop歌手](https://zh.wikipedia.org/wiki/K-pop "wikilink")。
   - K-Rookie（四名）：第七至九集的嘉賓評審，出道年資不足三年的[K-pop新人歌手](https://zh.wikipedia.org/wiki/K-pop "wikilink")。
   - 現場觀眾（約二百名）
@@ -135,12 +129,12 @@ K-Panel／K-Rookie</p></th>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/殷志源" title="wikilink">殷志源</a>（）</p></td>
 <td></td>
-<td><p><a href="../Page/歌手.md" title="wikilink">歌手</a>（<a href="../Page/水晶男孩.md" title="wikilink">水晶男孩成員</a>）、<a href="../Page/演員.md" title="wikilink">演員</a>、<a href="https://zh.wikipedia.org/wiki/主持人" title="wikilink">主持人</a>、<a href="../Page/音樂製作人.md" title="wikilink">音樂製作人</a></p></td>
+<td><p><a href="../Page/歌手.md" title="wikilink">歌手</a>（<a href="../Page/水晶男孩.md" title="wikilink">水晶男孩</a>成員）、<a href="../Page/演員.md" title="wikilink">演員</a>、<a href="https://zh.wikipedia.org/wiki/主持人" title="wikilink">主持人</a>、<a href="../Page/音樂製作人.md" title="wikilink">音樂製作人</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/Dara" title="wikilink">Dara</a>（）</p></td>
 <td></td>
-<td><p><a href="../Page/歌手.md" title="wikilink">歌手</a>（前<a href="../Page/2NE1.md" title="wikilink">2NE1成員</a>）、<a href="../Page/演員.md" title="wikilink">演員</a>、<a href="https://zh.wikipedia.org/wiki/主持人" title="wikilink">主持人</a></p></td>
+<td><p><a href="../Page/歌手.md" title="wikilink">歌手</a>（前<a href="../Page/2NE1.md" title="wikilink">2NE1</a>成員）、<a href="../Page/演員.md" title="wikilink">演員</a>、<a href="https://zh.wikipedia.org/wiki/主持人" title="wikilink">主持人</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/宥斌" title="wikilink">宥斌</a>（）</p></td>
@@ -312,7 +306,7 @@ K-Panel／K-Rookie</p></th>
 <tr class="odd">
 <td><p>2019年6月4日</p></td>
 <td><p><a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a>（<a href="../Page/瑟琪.md" title="wikilink">瑟琪</a>、<a href="../Page/Wendy_(Red_Velvet).md" title="wikilink">Wendy</a>）、<a href="../Page/Super_Junior.md" title="wikilink">Super Junior</a>（<a href="../Page/神童_(藝人).md" title="wikilink">神童</a>、<a href="../Page/銀赫.md" title="wikilink">銀赫</a>）、<a href="https://zh.wikipedia.org/wiki/iKON" title="wikilink">iKON</a>（<a href="../Page/B.I.md" title="wikilink">B.I</a>、<a href="../Page/金東赫.md" title="wikilink">金東赫</a>）、<a href="https://zh.wikipedia.org/wiki/EXID" title="wikilink">EXID</a>（<a href="../Page/率智.md" title="wikilink">率智</a>、<a href="../Page/慧潾.md" title="wikilink">慧潾</a>）[6]</p></td>
-<td><p><a href="../Page/YG娛樂.md" title="wikilink">YG娛樂舞蹈總監金熙靜</a>、<a href="../Page/SM娛樂.md" title="wikilink">SM娛樂表演總監沈在元</a></p></td>
+<td><p><a href="../Page/YG娛樂.md" title="wikilink">YG娛樂</a>舞蹈總監金熙靜、<a href="../Page/SM娛樂.md" title="wikilink">SM娛樂</a>表演總監沈在元</p></td>
 </tr>
 <tr class="even">
 <td><p>集數</p></td>
@@ -531,9 +525,7 @@ K-Panel／K-Rookie</p></th>
   -
   -
   -
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:JTBC](https://zh.wikipedia.org/wiki/Category:JTBC "wikilink")
+[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:JTBC](https://zh.wikipedia.org/wiki/Category:JTBC "wikilink")
 
 1.
 

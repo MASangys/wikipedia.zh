@@ -1,33 +1,14 @@
-**the
-peggies**，[日本的三人女性樂團](../Page/日本.md "wikilink")，[日本史詩唱片旗下的藝人](https://zh.wikipedia.org/wiki/日本史詩唱片 "wikilink")，於2011年組建，所屬事務所為MOVING
-ON\[1\]。
+**the peggies**，[日本](../Page/日本.md "wikilink")的三人女性樂團，[日本史詩唱片旗下的藝人](https://zh.wikipedia.org/wiki/日本史詩唱片 "wikilink")，於2011年組建，所屬事務所為MOVING ON\[1\]。
 
 ## 經歷
 
-2009年，當時還是國中二年生的[日本女子大學](https://zh.wikipedia.org/wiki/日本女子大學 "wikilink")[輕音部成員北澤](https://zh.wikipedia.org/wiki/輕音樂 "wikilink")、石渡和大貫組成了「the
-peggies」，其中兩人原本不是朋友，而是在偶然之下才答應擔任成員的\[2\]。剛剛結成時她們只是一隊，後來在2011年5月成為高中生後才開始正式活動，演唱原創的歌曲\[3\]。同年7月，北澤、石渡和大貫在[學藝大學站附近的](https://zh.wikipedia.org/wiki/學藝大學站 "wikilink")[展演空間](https://zh.wikipedia.org/wiki/展演空間 "wikilink")「MapleHouse」舉行出道以來的首場演唱會，之後亦多次在該處開演\[4\]。2012年2月，the
-peggies在[EMI音樂日本主辦的](../Page/EMI音樂日本.md "wikilink")「REVOLUTION
-ROCK」獲得成功，進而成功於其在[埼玉超級競技場舉行的開場表演出場](../Page/埼玉超級競技場.md "wikilink")\[5\]\[6\]。然而日本女子大學附屬初高中循其校規禁止她們參與藝能活動，因此難以錄製自主盤，北澤對此表示：「我們又沒做什麼誇張的事情，所以我對學校的決定是感到挺疑惑的」\[7\]。
+2009年，當時還是國中二年生的[日本女子大學](https://zh.wikipedia.org/wiki/日本女子大學 "wikilink")[輕音部成員北澤](https://zh.wikipedia.org/wiki/輕音樂 "wikilink")、石渡和大貫組成了「the peggies」，其中兩人原本不是朋友，而是在偶然之下才答應擔任成員的\[2\]。剛剛結成時她們只是一隊，後來在2011年5月成為高中生後才開始正式活動，演唱原創的歌曲\[3\]。同年7月，北澤、石渡和大貫在[學藝大學站附近的](https://zh.wikipedia.org/wiki/學藝大學站 "wikilink")[展演空間](https://zh.wikipedia.org/wiki/展演空間 "wikilink")「MapleHouse」舉行出道以來的首場演唱會，之後亦多次在該處開演\[4\]。2012年2月，the peggies在[EMI音樂日本](../Page/EMI音樂日本.md "wikilink")主辦的「REVOLUTION ROCK」獲得成功，進而成功於其在[埼玉超級競技場](../Page/埼玉超級競技場.md "wikilink")舉行的開場表演出場\[5\]\[6\]。然而日本女子大學附屬初高中循其校規禁止她們參與藝能活動，因此難以錄製自主盤，北澤對此表示：「我們又沒做什麼誇張的事情，所以我對學校的決定是感到挺疑惑的」\[7\]。
 
-2014年3月10日，三位成員從高中畢業，並隨即舉辦紀念演唱會「宣戰佈告～peggies畢業典禮編～」。同年11月19日，「the
-peggies」發行了由[淘兒唱片代理的首張全國流通版專輯](../Page/淘兒唱片.md "wikilink")《goodmorning
-in TOKYO》\[8\]。翌年，樂團發行首張完整專輯《NEW KINGDOM》，並在同年12月10日於舉行首場個人演唱會「宣戦佈告
-vol.4」\[9\]。2016年，她們的第一張單曲《史潑尼克／LOVE TRIP》（）正式對外發行，同年年末則在和舉辦個人演唱會\[10\]。
+2014年3月10日，三位成員從高中畢業，並隨即舉辦紀念演唱會「宣戰佈告～peggies畢業典禮編～」。同年11月19日，「the peggies」發行了由[淘兒唱片](../Page/淘兒唱片.md "wikilink")代理的首張全國流通版專輯《goodmorning in TOKYO》\[8\]。翌年，樂團發行首張完整專輯《NEW KINGDOM》，並在同年12月10日於舉行首場個人演唱會「宣戦佈告 vol.4」\[9\]。2016年，她們的第一張單曲《史潑尼克／LOVE TRIP》（）正式對外發行，同年年末則在和舉辦個人演唱會\[10\]。
 
-2017年5月10日，「the peggies」發行其正式出道的單曲《》，該曲被動畫《[BORUTO-火影新世代-NARUTO NEXT
-GENERATIONS-](https://zh.wikipedia.org/wiki/BORUTO-火影新世代-NARUTO_NEXT_GENERATIONS- "wikilink")》用作為第1至13話的片尾曲。四天後，她們在[大阪城公園的](../Page/大阪城公園.md "wikilink")舉行「幼獅祭'17」演唱會，並與高中的同級生同台進行\[11\]。同年6月，樂團開始在全國作名叫「the
-peggies
-夢幻之旅〜野生的peggies出現了\!\!\!〜」的巡迴演出\[12\]\[13\]。2017年9月6日，第二張單曲《》正式發售\[14\]。同年11月22日，樂團在實業家的幫助下，以在全國文具店的試寫用紙上書寫的文字，組合成歌詞的首張配信單曲《》開始對外發行\[15\]。
+2017年5月10日，「the peggies」發行其正式出道的單曲《》，該曲被動畫《[BORUTO-火影新世代-NARUTO NEXT GENERATIONS-](https://zh.wikipedia.org/wiki/BORUTO-火影新世代-NARUTO_NEXT_GENERATIONS- "wikilink")》用作為第1至13話的片尾曲。四天後，她們在[大阪城公園](../Page/大阪城公園.md "wikilink")的舉行「幼獅祭'17」演唱會，並與高中的同級生同台進行\[11\]。同年6月，樂團開始在全國作名叫「the peggies 夢幻之旅〜野生的peggies出現了\!\!\!〜」的巡迴演出\[12\]\[13\]。2017年9月6日，第二張單曲《》正式發售\[14\]。同年11月22日，樂團在實業家的幫助下，以在全國文具店的試寫用紙上書寫的文字，組合成歌詞的首張配信單曲《》開始對外發行\[15\]。
 
-2018年1月24日，「the
-peggies」出道以來的第一張迷你專輯《》正式公開發售。在此之前的1月10日，她們的新曲《Neverland》亦開始初步發行。同年2月，樂團開始在全國舉行「the
-peggies super boy \! super girl \!\! tour 2018 ～SUPERMARKET TRIP
-\!\!\!」巡演\[16\]。2018年6月17日，「the
-peggies」在[仙台](https://zh.wikipedia.org/wiki/仙台 "wikilink")、[神戶](https://zh.wikipedia.org/wiki/神戶 "wikilink")、[京都和](../Page/京都市.md "wikilink")[東京四地作](../Page/東京都區部.md "wikilink")「走出戶外
-Pegi-chan
-Man\!〜東部\!東部\!Pegi-chan〜」全國演唱會\[17\]。7月5日，配信限定的《》正式公開下載。同年11月7日，作為動畫《[青春豬頭少年不會夢到兔女郎學姊](https://zh.wikipedia.org/wiki/青春豬頭少年不會夢到兔女郎學姊 "wikilink")》片頭曲的樂團第三張單曲《[你的錯](../Page/你的錯.md "wikilink")》對外發行，之後她們亦舉辦名叫「the
-peggies One Man Tour 2018〜最後一班公車過了站都是你的錯〜」的演唱會\[18\]。2019年2月6日，「the
-peggies」的首張完整專輯《》正式發行。
+2018年1月24日，「the peggies」出道以來的第一張迷你專輯《》正式公開發售。在此之前的1月10日，她們的新曲《Neverland》亦開始初步發行。同年2月，樂團開始在全國舉行「the peggies super boy \! super girl \!\! tour 2018 ～SUPERMARKET TRIP \!\!\!」巡演\[16\]。2018年6月17日，「the peggies」在[仙台](https://zh.wikipedia.org/wiki/仙台 "wikilink")、[神戶](https://zh.wikipedia.org/wiki/神戶 "wikilink")、[京都和](../Page/京都市.md "wikilink")[東京四地作](../Page/東京都區部.md "wikilink")「走出戶外 Pegi-chan Man\!〜東部\!東部\!Pegi-chan〜」全國演唱會\[17\]。7月5日，配信限定的《》正式公開下載。同年11月7日，作為動畫《[青春豬頭少年不會夢到兔女郎學姊](https://zh.wikipedia.org/wiki/青春豬頭少年不會夢到兔女郎學姊 "wikilink")》片頭曲的樂團第三張單曲《[你的錯](../Page/你的錯.md "wikilink")》對外發行，之後她們亦舉辦名叫「the peggies One Man Tour 2018〜最後一班公車過了站都是你的錯〜」的演唱會\[18\]。2019年2月6日，「the peggies」的首張完整專輯《》正式發行。
 
 ## 成員
 
@@ -57,7 +38,7 @@ peggies」的首張完整專輯《》正式發行。
 <ul>
 <li>別名「」[19]<br />
 </li>
-<li>父母在<a href="../Page/千代田區.md" title="wikilink">千代田區</a><a href="../Page/神田神保町.md" title="wikilink">神田神保町經營著</a>1902年設立的「北澤書店」[20]</li>
+<li>父母在<a href="../Page/千代田區.md" title="wikilink">千代田區</a><a href="../Page/神田神保町.md" title="wikilink">神田神保町</a>經營著1902年設立的「北澤書店」[20]</li>
 </ul>
 <p></small></p></td>
 <td><p>[21]</p></td>
@@ -909,57 +890,40 @@ Hell like Heaven trip</strong></p></td>
 
   - \- 大貫
 
-[Category:日本另类摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本另类摇滚乐团 "wikilink")
-[Category:2011年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2011年成立的音樂團體 "wikilink")
+[Category:日本另类摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本另类摇滚乐团 "wikilink") [Category:2011年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2011年成立的音樂團體 "wikilink")
 
 1.
 
 2.
-3.  [the
-    peggies・北澤ゆうほがバンド結成から3人のキャラ、今後の野望まで奔放トーク](http://spice.eplus.jp/articles/62084)
+3.  [the peggies・北澤ゆうほがバンド結成から3人のキャラ、今後の野望まで奔放トーク](http://spice.eplus.jp/articles/62084)
 
-4.  [【インタビュー】the
-    peggies、1stアルバム完成「知る人ぞ知るバンドにはなりたくない」](https://www.barks.jp/news/?id=1000110158)
+4.  [【インタビュー】the peggies、1stアルバム完成「知る人ぞ知るバンドにはなりたくない」](https://www.barks.jp/news/?id=1000110158)
 
-5.  [ガールズ・バンド「the
-    peggies」の自主企画にhy4_4yh、誰でもエスパー出演](http://ototoy.jp/news/75067)
+5.  [ガールズ・バンド「the peggies」の自主企画にhy4_4yh、誰でもエスパー出演](http://ototoy.jp/news/75067)
 
 6.
 
-7.  [【対談】沖ちづる×北澤ゆうほ(the
-    peggies)、「十代の最後に残しておきたい」](https://www.barks.jp/news/?id=1000121771)
+7.  [【対談】沖ちづる×北澤ゆうほ(the peggies)、「十代の最後に残しておきたい」](https://www.barks.jp/news/?id=1000121771)
 
-8.  [新ガールズバンドthe
-    peggies 10代女子\!\!初全国流通盤\!\!](http://ripy-jm.com/news/pickup363_the_peggies.html)
+8.  [新ガールズバンドthe peggies 10代女子\!\!初全国流通盤\!\!](http://ripy-jm.com/news/pickup363_the_peggies.html)
 
-9.  [the peggies(2015.10月号掲載 DI:GA
-    interview)](http://www.diskgarage.com/feature/interview/1510thepeggies/)
+9.  [the peggies(2015.10月号掲載 DI:GA interview)](http://www.diskgarage.com/feature/interview/1510thepeggies/)
 
-10. [the
-    peggies、初のシングルリリース！平均年齢21才、大いなる可能性を秘めた彼女たち三人にインタビュー！](http://digaonline.jp/interview/13475)
+10. [the peggies、初のシングルリリース！平均年齢21才、大いなる可能性を秘めた彼女たち三人にインタビュー！](http://digaonline.jp/interview/13475)
 
 11. [大阪二日間ありがとうございました！！…](https://twitter.com/mega_makiko/status/863742473796857856)
 
-12. ["胸キュン"オルタナ・ポップ・バンド the
-    peggies、5/10にメジャー・デビュー・シングル『ドリーミージャーニー』リリース決定。レコ発ツアー開催も](http://skream.jp/news/2017/03/the-peggies_dreamy-journey_release.php)
+12. ["胸キュン"オルタナ・ポップ・バンド the peggies、5/10にメジャー・デビュー・シングル『ドリーミージャーニー』リリース決定。レコ発ツアー開催も](http://skream.jp/news/2017/03/the-peggies_dreamy-journey_release.php)
 
-13. [ナルト新世代「BORUTO」テーマソングはKANA-BOONとthe
-    peggies](http://natalie.mu/music/news/224302)
+13. [ナルト新世代「BORUTO」テーマソングはKANA-BOONとthe peggies](http://natalie.mu/music/news/224302)
 
-14. [the
-    peggies、新作「BABY\!」発売＆「ダブダブdeベビベビ」開催決定](http://natalie.mu/music/news/237229)
+14. [the peggies、新作「BABY\!」発売＆「ダブダブdeベビベビ」開催決定](http://natalie.mu/music/news/237229)
 
-15. [文具店の試し書きで作った歌「Ｉ
-    御中」完成！ペギーズ北澤「作詞の自由度が広がった」](https://www.sponichi.co.jp/entertainment/news/2017/11/15/kiji/20171114s00041000355000c.html)スポニチアネックス
-    2017年11月15日
+15. [文具店の試し書きで作った歌「Ｉ 御中」完成！ペギーズ北澤「作詞の自由度が広がった」](https://www.sponichi.co.jp/entertainment/news/2017/11/15/kiji/20171114s00041000355000c.html)スポニチアネックス 2017年11月15日
 
-16. [the
-    peggiesが1月にミニアルバム発売、2月から全国10カ所回るツアー](http://natalie.mu/music/news/257924)音楽ナタリー
-    2017年11月22日
+16. [the peggiesが1月にミニアルバム発売、2月から全国10カ所回るツアー](http://natalie.mu/music/news/257924)音楽ナタリー 2017年11月22日
 
-17. [the
-    peggies、6月より全国ツアー開催決定。4/23に大貫みく（Dr）女子大卒業記念ワンマンも](https://skream.jp/news/2018/03/the_peggies_tour_oneman_live.php)skream\!
-    2018年3月26日
+17. [the peggies、6月より全国ツアー開催決定。4/23に大貫みく（Dr）女子大卒業記念ワンマンも](https://skream.jp/news/2018/03/the_peggies_tour_oneman_live.php)skream\! 2018年3月26日
 
 18.
 

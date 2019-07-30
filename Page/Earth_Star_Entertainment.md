@@ -1,45 +1,32 @@
-**株式會社Earth Star
-Entertainment**（，）是總部位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[港區的](../Page/港區_\(東京都\).md "wikilink")[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[出版社](../Page/出版社.md "wikilink")。[Culture
-Convenience
-Club的子公司](../Page/Culture_Convenience_Club.md "wikilink")\[1\]。
+**株式會社Earth Star Entertainment**（，）是總部位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[港區的](../Page/港區_\(東京都\).md "wikilink")[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[出版社](../Page/出版社.md "wikilink")。[Culture Convenience Club的子公司](../Page/Culture_Convenience_Club.md "wikilink")\[1\]。
 
 ## 公司概要
 
 ### （舊）株式會社Earth Star Entertainment
 
-2006年6月5日，Earth Star以株式會社[Top
-Partners](../Page/Culture_Convenience_Club.md "wikilink")（<small></small>）旗下綜合娛樂公司成立之後，從電影製作產業起家。2008年9月，投入影音製作產業\[2\]和出版事業\[3\]。次年2009年5月更積極投入藝人的經營管理\[4\]，並從同年10月播映的電視動畫《[聖劍鍛造師](../Page/聖劍鍛造師.md "wikilink")》開始加入動畫製作產業。
+2006年6月5日，Earth Star以株式會社[Top Partners](../Page/Culture_Convenience_Club.md "wikilink")（<small></small>）旗下綜合娛樂公司成立之後，從電影製作產業起家。2008年9月，投入影音製作產業\[2\]和出版事業\[3\]。次年2009年5月更積極投入藝人的經營管理\[4\]，並從同年10月播映的電視動畫《[聖劍鍛造師](../Page/聖劍鍛造師.md "wikilink")》開始加入動畫製作產業。
 
-2010年12月，投入漫畫產業，漫畫叢書〈Earth Star
-Comics〉正式創刊\[5\]。次年2011年3月，當家漫畫雜誌《月刊[Comic
-Earth Star](../Page/Comic_Earth_Star.md "wikilink")》創刊號發售。
+2010年12月，投入漫畫產業，漫畫叢書〈Earth Star Comics〉正式創刊\[5\]。次年2011年3月，當家漫畫雜誌《月刊[Comic Earth Star](../Page/Comic_Earth_Star.md "wikilink")》創刊號發售。
 
-2013年2月，電視動畫《[開漫－啦！](../Page/開漫－啦！.md "wikilink")》主題歌CD「girl meet
-DEADLINE」發售之後，加入音樂製作產業。
+2013年2月，電視動畫《[開漫－啦！](../Page/開漫－啦！.md "wikilink")》主題歌CD「girl meet DEADLINE」發售之後，加入音樂製作產業。
 
 2014年12月，投入輕小說產業，創刊輕小說叢書〈〉。
 
 2016年3月，Earth Star進行經紀公司地址的搬遷\[6\]。
 
-2016年7月，Earth Star將動畫製作產業轉交給Top
-Partners旗下另外一間子公司[TOPMARSHAL的新成立商標](../Page/TOPMARSHAL.md "wikilink")「[SMIRAL
-animation](../Page/SMIRAL.md "wikilink")」負責管理\[7\]。然而，即使管理權轉移之後，Earth
-Star仍還是繼續參與跟動畫相關諸如一些作品的計劃協力等等（像《》）。
+2016年7月，Earth Star將動畫製作產業轉交給Top Partners旗下另外一間子公司[TOPMARSHAL](../Page/TOPMARSHAL.md "wikilink")的新成立商標「[SMIRAL animation](../Page/SMIRAL.md "wikilink")」負責管理\[7\]。然而，即使管理權轉移之後，Earth Star仍還是繼續參與跟動畫相關諸如一些作品的計劃協力等等（像《》）。
 
 2018年3月31日，Earth Star全面從聲優、藝人經營管理事業撤離\[8\]。而所屬的聲優、藝人隨Earth Star策略改變陸續離所。
 
-2018年4月3日，Earth Star收購株式會社泰文堂的所有股權\[9\]。同年5月15日，泰文堂被Earth
-Star吸收合併，正式解散\[10\]。
+2018年4月3日，Earth Star收購株式會社泰文堂的所有股權\[9\]。同年5月15日，泰文堂被Earth Star吸收合併，正式解散\[10\]。
 
 ### （新）株式會社Earth Star Entertainment
 
-1916年（大正5年），由[三省堂前社員篠崎信次](../Page/三省堂.md "wikilink")、成立專門出版[英語參考書](https://zh.wikipedia.org/wiki/英語 "wikilink")「**泰文堂**」起家\[11\]。1939年6月法人化，商號登記名稱為「**株式會社泰文堂**」，社長由篠崎萬藏就任。
+1916年（大正5年），由[三省堂](../Page/三省堂.md "wikilink")前社員篠崎信次、成立專門出版[英語參考書](https://zh.wikipedia.org/wiki/英語 "wikilink")「**泰文堂**」起家\[11\]。1939年6月法人化，商號登記名稱為「**株式會社泰文堂**」，社長由篠崎萬藏就任。
 
 2014年6月，成為的旗下子公司\[12\]。
 
-2018年4月，成為（舊）株式會社Earth Star Entertainment的旗下子公司。同年5月被母公司（舊）株式會社Earth
-Star Entertainment吸收合併、商號名稱更改名為「**株式會社Earth Star
-Entertainment**」。7月，經紀公司搬遷至東京都[品川區目黑中心史庫威爾大樓](../Page/品川區.md "wikilink")\[13\]。
+2018年4月，成為（舊）株式會社Earth Star Entertainment的旗下子公司。同年5月被母公司（舊）株式會社Earth Star Entertainment吸收合併、商號名稱更改名為「**株式會社Earth Star Entertainment**」。7月，經紀公司搬遷至東京都[品川區](../Page/品川區.md "wikilink")目黑中心史庫威爾大樓\[13\]。
 
 ## 網路漫畫
 
@@ -56,8 +43,7 @@ Entertainment**」。7月，經紀公司搬遷至東京都[品川區目黑中心
 
 ### 以前的發行雜誌
 
-  - 月刊[Comic Earth
-    Star](../Page/Comic_Earth_Star.md "wikilink")（2011年－2014年）
+  - 月刊[Comic Earth Star](../Page/Comic_Earth_Star.md "wikilink")（2011年－2014年）
 
 ## 過去的事業
 
@@ -172,7 +158,7 @@ Entertainment**」。7月，經紀公司搬遷至東京都[品川區目黑中心
 
   - [聖劍鍛造師](../Page/聖劍鍛造師.md "wikilink")
 
-  - [前進吧！登山少女、前進吧！登山少女 Second Season](../Page/前進吧！登山少女.md "wikilink")
+  - [前進吧！登山少女 Second Season](../Page/前進吧！登山少女.md "wikilink")、前進吧！登山少女
 
   - [開漫－啦！](../Page/開漫－啦！.md "wikilink")
 
@@ -217,8 +203,7 @@ Entertainment**」。7月，經紀公司搬遷至東京都[品川區目黑中心
 
       - 海月泉（2017年3月15日為止所屬，現在引退）
 
-      - （2017年12月31日為止所屬，自由身，曾加入[Mausu
-        Promotion旗下聲優訓練學校](../Page/Mausu_Promotion.md "wikilink")）
+      - （2017年12月31日為止所屬，自由身，曾加入[Mausu Promotion旗下聲優訓練學校](../Page/Mausu_Promotion.md "wikilink")）
 
       - （2017年12月31日為止所屬，現所屬：Object）
 
@@ -240,15 +225,7 @@ Entertainment**」。7月，經紀公司搬遷至東京都[品川區目黑中心
   - [株式會社Earth Star Entertainment公式官網](http://earthstar.jp/)
       -
 
-[Category:日本出版社](https://zh.wikipedia.org/wiki/Category:日本出版社 "wikilink")
-[Category:動畫產業公司](https://zh.wikipedia.org/wiki/Category:動畫產業公司 "wikilink")
-[Category:日本唱片公司](https://zh.wikipedia.org/wiki/Category:日本唱片公司 "wikilink")
-[Category:日本電影公司](https://zh.wikipedia.org/wiki/Category:日本電影公司 "wikilink")
-[Category:日本媒體公司](https://zh.wikipedia.org/wiki/Category:日本媒體公司 "wikilink")
-[Category:日本已結業聲優事務所](https://zh.wikipedia.org/wiki/Category:日本已結業聲優事務所 "wikilink")
-[Category:Culture_Convenience_Club](https://zh.wikipedia.org/wiki/Category:Culture_Convenience_Club "wikilink")
-[Category:品川區公司](https://zh.wikipedia.org/wiki/Category:品川區公司 "wikilink")
-[Category:1939年成立的公司](https://zh.wikipedia.org/wiki/Category:1939年成立的公司 "wikilink")
+[Category:日本出版社](https://zh.wikipedia.org/wiki/Category:日本出版社 "wikilink") [Category:動畫產業公司](https://zh.wikipedia.org/wiki/Category:動畫產業公司 "wikilink") [Category:日本唱片公司](https://zh.wikipedia.org/wiki/Category:日本唱片公司 "wikilink") [Category:日本電影公司](https://zh.wikipedia.org/wiki/Category:日本電影公司 "wikilink") [Category:日本媒體公司](https://zh.wikipedia.org/wiki/Category:日本媒體公司 "wikilink") [Category:日本已結業聲優事務所](https://zh.wikipedia.org/wiki/Category:日本已結業聲優事務所 "wikilink") [Category:Culture_Convenience_Club](https://zh.wikipedia.org/wiki/Category:Culture_Convenience_Club "wikilink") [Category:品川區公司](https://zh.wikipedia.org/wiki/Category:品川區公司 "wikilink") [Category:1939年成立的公司](https://zh.wikipedia.org/wiki/Category:1939年成立的公司 "wikilink")
 
 1.
 

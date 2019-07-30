@@ -1,23 +1,12 @@
-**奥迪斯·奥利弗·弗洛里斯**（，），知名于其艺名**O·T·杰纳西斯**（**O.T.
-Genasis**），[美国](../Page/美国.md "wikilink")[饶舌歌手和词曲作家](https://zh.wikipedia.org/wiki/饶舌歌手 "wikilink")。他以单曲“CoCo”和“Cut
-It”为人熟知。
+**奥迪斯·奥利弗·弗洛里斯**（，），知名于其艺名**O·T·杰纳西斯**（**O.T. Genasis**），[美国](../Page/美国.md "wikilink")[饶舌歌手和词曲作家](https://zh.wikipedia.org/wiki/饶舌歌手 "wikilink")。他以单曲“CoCo”和“Cut It”为人熟知。
 
 ## 早期生活
 
-奥迪斯·奥利弗·弗洛里斯于1987年6月18日出生在[亚特兰大](../Page/亚特兰大.md "wikilink")，是[伯利兹移民后裔](../Page/伯利兹.md "wikilink")。他在[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")[长滩长大](../Page/長灘_\(加利福尼亞州\).md "wikilink")。\[1\]杰纳西斯表示他曾受Cutty
-Ranks、 Buju
-Banton、[T.I.](../Page/T.I..md "wikilink")、[卢达克里斯](../Page/卢达克里斯.md "wikilink")、[Tupac](../Page/圖帕克·夏庫爾.md "wikilink")、Shabba
-Ranks和[50 Cent的影响](https://zh.wikipedia.org/wiki/50_Cent "wikilink")。
+奥迪斯·奥利弗·弗洛里斯于1987年6月18日出生在[亚特兰大](../Page/亚特兰大.md "wikilink")，是[伯利兹](../Page/伯利兹.md "wikilink")移民后裔。他在[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")[长滩长大](../Page/長灘_\(加利福尼亞州\).md "wikilink")。\[1\]杰纳西斯表示他曾受Cutty Ranks、 Buju Banton、[T.I.](../Page/T.I..md "wikilink")、[卢达克里斯](../Page/卢达克里斯.md "wikilink")、[Tupac](../Page/圖帕克·夏庫爾.md "wikilink")、Shabba Ranks和[50 Cent的影响](https://zh.wikipedia.org/wiki/50_Cent "wikilink")。
 
 ## 音乐生涯
 
-2011年，G-Unit
-Records唱片公司将他签到厂牌下。2012年，在与G-Unit的合作下，他发布了无名称的首张正式混音带。后来他签约了[巴斯达韵的Conglomerate](../Page/巴斯达韵.md "wikilink")
-Records唱片公司。在被签下后，他一直推出一些歌曲和单曲，如“CoCo”以及由巴斯达韵和[French
-Montana客串的](https://zh.wikipedia.org/wiki/French_Montana "wikilink")“Touchdown
-(Remix)”。后首单曲在榜单上十分成功，在美国[Billboard百强单曲榜位列第](../Page/告示牌百强单曲榜.md "wikilink")20。[碧昂丝使用了他的歌曲](../Page/碧昂絲.md "wikilink")“Everybody
-Mad”作为她的[科切拉音乐节](../Page/科切拉音乐节.md "wikilink")2018演出及她和[Jay-Z的OTR](https://zh.wikipedia.org/wiki/Jay-Z "wikilink")
-II巡回演唱会的一部分。
+2011年，G-Unit Records唱片公司将他签到厂牌下。2012年，在与G-Unit的合作下，他发布了无名称的首张正式混音带。后来他签约了[巴斯达韵](../Page/巴斯达韵.md "wikilink")的Conglomerate Records唱片公司。在被签下后，他一直推出一些歌曲和单曲，如“CoCo”以及由巴斯达韵和[French Montana客串的](https://zh.wikipedia.org/wiki/French_Montana "wikilink")“Touchdown (Remix)”。后首单曲在榜单上十分成功，在美国[Billboard百强单曲榜位列第](../Page/告示牌百强单曲榜.md "wikilink")20。[碧昂丝使用了他的歌曲](../Page/碧昂絲.md "wikilink")“Everybody Mad”作为她的[科切拉音乐节](../Page/科切拉音乐节.md "wikilink")2018演出及她和[Jay-Z的OTR](https://zh.wikipedia.org/wiki/Jay-Z "wikilink") II巡回演唱会的一部分。
 
 ## 唱片
 
@@ -41,7 +30,7 @@ II巡回演唱会的一部分。
 <tr class="even">
 <td><p>《Catastrophic 2》<br />
 <br />
-<span style="font-size:85%;">(与<a href="../Page/巴斯达韵.md" title="wikilink">巴斯达韵和J</a>-Doe)</span></p></td>
+<span style="font-size:85%;">(与<a href="../Page/巴斯达韵.md" title="wikilink">巴斯达韵</a>和J-Doe)</span></p></td>
 <td><ul>
 <li>发布：2014年8月7日</li>
 <li>厂牌：Conglomerate</li>
@@ -182,10 +171,7 @@ II巡回演唱会的一部分。
 ## 外部链接
 
   -
-[Category:西海岸嘻哈音乐人](https://zh.wikipedia.org/wiki/Category:西海岸嘻哈音乐人 "wikilink")
-[Category:非裔美国男性饶舌歌手](https://zh.wikipedia.org/wiki/Category:非裔美国男性饶舌歌手 "wikilink")
-[Category:瘸帮](https://zh.wikipedia.org/wiki/Category:瘸帮 "wikilink")
-[Category:21世纪美国饶舌歌手](https://zh.wikipedia.org/wiki/Category:21世纪美国饶舌歌手 "wikilink")
+[Category:西海岸嘻哈音乐人](https://zh.wikipedia.org/wiki/Category:西海岸嘻哈音乐人 "wikilink") [Category:非裔美国男性饶舌歌手](https://zh.wikipedia.org/wiki/Category:非裔美国男性饶舌歌手 "wikilink") [Category:瘸帮](https://zh.wikipedia.org/wiki/Category:瘸帮 "wikilink") [Category:21世纪美国饶舌歌手](https://zh.wikipedia.org/wiki/Category:21世纪美国饶舌歌手 "wikilink")
 
 1.
 

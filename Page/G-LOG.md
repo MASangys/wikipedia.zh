@@ -1,5 +1,4 @@
-**《G-LOG》**是由[GFRIEND成員親自拍下她們生活的片段](../Page/GFRIEND.md "wikilink")，於4月11日起播出至今
-。\[1\] 節目在SOURCE MUSIC的YOUTUBE頻道播出。\[2\]
+**《G-LOG》**是由[GFRIEND](../Page/GFRIEND.md "wikilink")成員親自拍下她們生活的片段，於4月11日起播出至今 。\[1\] 節目在SOURCE MUSIC的YOUTUBE頻道播出。\[2\]
 
 <table>
 <thead>

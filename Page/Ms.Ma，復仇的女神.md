@@ -1,7 +1,4 @@
-《**Ms. Ma,
-復仇的女神**》（，），為韓國SBS預計於2018年10月6日播出的週末特別計劃連續劇，由《[醜八怪警報](../Page/醜八怪警報.md "wikilink")》、《[Happy
-Sisters](https://zh.wikipedia.org/wiki/Happy_Sisters "wikilink")》閔延洪導演與《[異鄉人醫生](../Page/異鄉人醫生.md "wikilink")》的[朴進宇作家合作打造](https://zh.wikipedia.org/wiki/朴進宇 "wikilink")。此劇改編自知名英國推理小說家[阿加莎·克里斯蒂](../Page/阿加莎·克里斯蒂.md "wikilink")《》的作品，講述背負著殺害女兒冤名的女人Ms.
-Ma發揮其敏銳的推理能力揭開真相的故事。\[1\]
+《**Ms. Ma, 復仇的女神**》（，），為韓國SBS預計於2018年10月6日播出的週末特別計劃連續劇，由《[醜八怪警報](../Page/醜八怪警報.md "wikilink")》、《[Happy Sisters](https://zh.wikipedia.org/wiki/Happy_Sisters "wikilink")》閔延洪導演與《[異鄉人醫生](../Page/異鄉人醫生.md "wikilink")》的[朴進宇作家合作打造](https://zh.wikipedia.org/wiki/朴進宇 "wikilink")。此劇改編自知名英國推理小說家[阿加莎·克里斯蒂](../Page/阿加莎·克里斯蒂.md "wikilink")《》的作品，講述背負著殺害女兒冤名的女人Ms. Ma發揮其敏銳的推理能力揭開真相的故事。\[1\]
 
 ## 演員陣容
 
@@ -355,18 +352,13 @@ Ma發揮其敏銳的推理能力揭開真相的故事。\[1\]
 
 **週六時段劇集**
 
-  - [MBC](../Page/文化廣播公司.md "wikilink")
-    [週末特別計劃連續劇](../Page/MBC週末特別計劃連續劇.md "wikilink")：《[捉迷藏](https://zh.wikipedia.org/wiki/捉迷藏_\(韓國電視劇\) "wikilink")》、《[與神的約定](../Page/與神的約定.md "wikilink")》
+  - [MBC](../Page/文化廣播公司.md "wikilink") [週末特別計劃連續劇](../Page/MBC週末特別計劃連續劇.md "wikilink")：《[捉迷藏](https://zh.wikipedia.org/wiki/捉迷藏_\(韓國電視劇\) "wikilink")》、《[與神的約定](../Page/與神的約定.md "wikilink")》
 
 **週末時段劇集**
 
-  - [KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")
-    [週末連續劇](../Page/KBS週末連續劇.md "wikilink")：《[我唯一的守護者](../Page/我唯一的守護者.md "wikilink")》
-  - [tvN](../Page/TVN.md "wikilink")
-    [週末連續劇](../Page/TvN週末連續劇.md "wikilink")：《[Nine
-    Room](../Page/Nine_Room.md "wikilink")》
-  - [OCN](https://zh.wikipedia.org/wiki/OCN "wikilink") [Original
-    Series](../Page/OCN_Original_Series.md "wikilink")：《[Player](../Page/Player_\(韓國電視劇\).md "wikilink")》、《[Priest](../Page/Priest.md "wikilink")》
+  - [KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink") [週末連續劇](../Page/KBS週末連續劇.md "wikilink")：《[我唯一的守護者](../Page/我唯一的守護者.md "wikilink")》
+  - [tvN](../Page/TVN.md "wikilink") [週末連續劇](../Page/TvN週末連續劇.md "wikilink")：《[Nine Room](../Page/Nine_Room.md "wikilink")》
+  - [OCN](https://zh.wikipedia.org/wiki/OCN "wikilink") [Original Series](../Page/OCN_Original_Series.md "wikilink")：《[Player](../Page/Player_\(韓國電視劇\).md "wikilink")》、《[Priest](../Page/Priest.md "wikilink")》
 
 ## 參考資料
 
@@ -379,10 +371,7 @@ Ma發揮其敏銳的推理能力揭開真相的故事。\[1\]
   - [韓國SBS官方網站](http://programs.sbs.co.kr/drama/msmanemesis)
   - [Ms.Ma，復仇的女神-NAVER](https://m.entertain.naver.com/tvBrand/8539716)
 
-[Category:小說改編韓國電視劇](https://zh.wikipedia.org/wiki/Category:小說改編韓國電視劇 "wikilink")
-[Category:推理小說改編電視劇](https://zh.wikipedia.org/wiki/Category:推理小說改編電視劇 "wikilink")
-[Category:2018年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2018年韓國電視劇集 "wikilink")
-[Category:克莉絲蒂作品改編電視劇](https://zh.wikipedia.org/wiki/Category:克莉絲蒂作品改編電視劇 "wikilink")
+[Category:小說改編韓國電視劇](https://zh.wikipedia.org/wiki/Category:小說改編韓國電視劇 "wikilink") [Category:推理小說改編電視劇](https://zh.wikipedia.org/wiki/Category:推理小說改編電視劇 "wikilink") [Category:2018年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2018年韓國電視劇集 "wikilink") [Category:克莉絲蒂作品改編電視劇](https://zh.wikipedia.org/wiki/Category:克莉絲蒂作品改編電視劇 "wikilink")
 
 1.
 2.

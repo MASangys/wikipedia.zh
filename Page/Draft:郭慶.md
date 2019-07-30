@@ -1,4 +1,4 @@
-郭慶（1921年10月20日－1952年4月1日），[雲林](https://zh.wikipedia.org/wiki/雲林縣 "wikilink")[崙背人](https://zh.wikipedia.org/wiki/崙背鄉 "wikilink")，曾任[貓兒干國民學校](../Page/貓兒干.md "wikilink")（今雲林縣崙背鄉豐榮國小）校長。自臺南師範學院畢業後長期擔任教職，郭慶時常在開會場合公開批評時政，在1948年加入雲林地下黨，1951年5月20日早晨被捕，1952年4月1日遭槍決。得年31歲。
+郭慶（1921年10月20日－1952年4月1日），[雲林](https://zh.wikipedia.org/wiki/雲林縣 "wikilink")[崙背人](https://zh.wikipedia.org/wiki/崙背鄉 "wikilink")，曾任[貓兒干](../Page/貓兒干.md "wikilink")國民學校（今雲林縣崙背鄉豐榮國小）校長。自臺南師範學院畢業後長期擔任教職，郭慶時常在開會場合公開批評時政，在1948年加入雲林地下黨，1951年5月20日早晨被捕，1952年4月1日遭槍決。得年31歲。
 
 ## 學歷
 
@@ -23,10 +23,7 @@
 
 1951年，廖學信被捕後，和盤供出組織關係，導致5月20日早晨郭慶被捕，執政當局以「從事宣傳匪黨主義、調查社會動態暨利用三七五減租辦法，歪曲事實，向農民宣傳攻擊政府」為由判處死刑。
 
-1952年4月1日，郭慶發交憲兵第八團執行槍決，離開監所鐵門時唱著軍歌「海行兮」，結束了31歲的人生。郭慶遺孀則帶著子女改嫁警察。\[3\]
-同案件的鍾心寬1954年因另案判處死刑，廖學信則於1952年自新，無罪釋放。\[4\]
-[缩略图](https://zh.wikipedia.org/wiki/File:郭慶之墓.jpg "fig:缩略图")
-1993年，其女郭素貞在[六張犁亂葬岡的草叢中](../Page/六張犁亂葬崗.md "wikilink")，找到了郭慶的墓碑。\[5\]
+1952年4月1日，郭慶發交憲兵第八團執行槍決，離開監所鐵門時唱著軍歌「海行兮」，結束了31歲的人生。郭慶遺孀則帶著子女改嫁警察。\[3\] 同案件的鍾心寬1954年因另案判處死刑，廖學信則於1952年自新，無罪釋放。\[4\] [缩略图](https://zh.wikipedia.org/wiki/File:郭慶之墓.jpg "fig:缩略图") 1993年，其女郭素貞在[六張犁亂葬岡的草叢中](../Page/六張犁亂葬崗.md "wikilink")，找到了郭慶的墓碑。\[5\]
 
 ## 家庭背景
 
@@ -38,10 +35,7 @@
 
 ## 參考資料
 
-[Category:白色恐怖](https://zh.wikipedia.org/wiki/Category:白色恐怖 "wikilink")
-[Category:雲林人](https://zh.wikipedia.org/wiki/Category:雲林人 "wikilink")
-[Category:崙背人](https://zh.wikipedia.org/wiki/Category:崙背人 "wikilink")
-[Category:校長](https://zh.wikipedia.org/wiki/Category:校長 "wikilink")
+[Category:白色恐怖](https://zh.wikipedia.org/wiki/Category:白色恐怖 "wikilink") [Category:雲林人](https://zh.wikipedia.org/wiki/Category:雲林人 "wikilink") [Category:崙背人](https://zh.wikipedia.org/wiki/Category:崙背人 "wikilink") [Category:校長](https://zh.wikipedia.org/wiki/Category:校長 "wikilink")
 
 1.
 2.

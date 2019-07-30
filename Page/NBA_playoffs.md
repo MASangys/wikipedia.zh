@@ -1,24 +1,6 @@
-  - 只有五支第8种子队成功击败了第1种子队赢得系列赛：在1994年， [丹佛掘金队](../Page/丹佛掘金.md "wikilink")
-    以3-2 击败 [西雅图超音速队](../Page/西雅图超音速.md "wikilink") 。1999年，
-    [纽约尼克斯队](https://zh.wikipedia.org/wiki/纽约尼克斯 "wikilink")
-    以3-2 击败[迈阿密热火队](../Page/迈阿密热火.md "wikilink")
-    。2007年西部季后赛第一轮[金州勇士队](../Page/金州勇士.md "wikilink")
-    以4-2 击败
-    [达拉斯小牛队](../Page/達拉斯獨行俠.md "wikilink")(成为了七场四胜赛制中，第8种子队击败第1种子队的最佳战绩)。2011年，
-    [孟菲斯灰熊队以](../Page/孟菲斯灰熊.md "wikilink") 4-2击败
-    [圣安东尼奥马刺队和](../Page/圣安东尼奥马刺.md "wikilink")2012年，
-    [费城76人队以](../Page/费城76人.md "wikilink") 4-2击败
-    [芝加哥公牛队](../Page/芝加哥公牛.md "wikilink") 。
-  - 1999年的[尼克斯队是唯一一支能进入](https://zh.wikipedia.org/wiki/纽约尼克斯 "wikilink")
-    [NBA总决赛的第](../Page/1999年NBA总决赛.md "wikilink")8种子队；至今还没有出现过获得NBA总决赛冠军的第8种子队。
-  - 唯有1956-57年的
-    [圣路易斯大老鹰队](https://zh.wikipedia.org/wiki/圣路易斯鹰 "wikilink"),1958-59年的
-    [明尼阿波利斯湖人队](../Page/洛杉矶湖人.md "wikilink") 和1980-81年的
-    [休斯顿火箭队](https://zh.wikipedia.org/wiki/休斯敦火箭 "wikilink")
-    是常规赛胜率不到一半(分别是34-38,33-39和40-42) 并且进入NBA季后赛的球队。在1981年，
-    [休斯顿火箭队在西部决赛的对手](https://zh.wikipedia.org/wiki/休斯敦火箭 "wikilink")，
-    [堪萨斯城国王队](https://zh.wikipedia.org/wiki/堪萨斯城国王 "wikilink")，也是常规赛胜率不到一半(40-42)。但是这些队伍都在决赛被
-    [波士顿凯尔特人队](../Page/波士顿凯尔特人.md "wikilink") 打败。
+  - 只有五支第8种子队成功击败了第1种子队赢得系列赛：在1994年， [丹佛掘金](../Page/丹佛掘金.md "wikilink")队 以3-2 击败 [西雅图超音速](../Page/西雅图超音速.md "wikilink")队 。1999年， [纽约尼克斯队](https://zh.wikipedia.org/wiki/纽约尼克斯 "wikilink") 以3-2 击败[迈阿密热火](../Page/迈阿密热火.md "wikilink")队 。2007年西部季后赛第一轮[金州勇士](../Page/金州勇士.md "wikilink")队 以4-2 击败 [达拉斯小牛队](../Page/達拉斯獨行俠.md "wikilink")(成为了七场四胜赛制中，第8种子队击败第1种子队的最佳战绩)。2011年， [孟菲斯灰熊](../Page/孟菲斯灰熊.md "wikilink")队以 4-2击败 [圣安东尼奥马刺](../Page/圣安东尼奥马刺.md "wikilink")队和2012年， [费城76人](../Page/费城76人.md "wikilink")队以 4-2击败 [芝加哥公牛](../Page/芝加哥公牛.md "wikilink")队 。
+  - 1999年的[尼克斯队是唯一一支能进入](https://zh.wikipedia.org/wiki/纽约尼克斯 "wikilink") [NBA总决赛的第](../Page/1999年NBA总决赛.md "wikilink")8种子队；至今还没有出现过获得NBA总决赛冠军的第8种子队。
+  - 唯有1956-57年的 [圣路易斯大老鹰队](https://zh.wikipedia.org/wiki/圣路易斯鹰 "wikilink"),1958-59年的 [明尼阿波利斯湖人队](../Page/洛杉矶湖人.md "wikilink") 和1980-81年的 [休斯顿火箭队](https://zh.wikipedia.org/wiki/休斯敦火箭 "wikilink") 是常规赛胜率不到一半(分别是34-38,33-39和40-42) 并且进入NBA季后赛的球队。在1981年， [休斯顿火箭队在西部决赛的对手](https://zh.wikipedia.org/wiki/休斯敦火箭 "wikilink")， [堪萨斯城国王队](https://zh.wikipedia.org/wiki/堪萨斯城国王 "wikilink")，也是常规赛胜率不到一半(40-42)。但是这些队伍都在决赛被 [波士顿凯尔特人](../Page/波士顿凯尔特人.md "wikilink")队 打败。
 
 <!-- end list -->
 

@@ -1,12 +1,10 @@
-《**Love Live\! Sunshine\!\! 學園偶像電影\~彩虹彼端\~**》\[1\]（）为Project [LoveLive\!
-Sunshine\!\!的相关动画作品](https://zh.wikipedia.org/wiki/LoveLive!_Sunshine!! "wikilink")。制作动画剧场版的决定于2017年12月电视动画第二季播毕时由官方正式公布。本片由[日昇动画制作](https://zh.wikipedia.org/wiki/日昇动画 "wikilink")、并由[松竹株式会社发行](../Page/松竹.md "wikilink")，2019年1月4日开始在[日本全國](../Page/日本.md "wikilink")128館中播映。\[2\]
+《**Love Live\! Sunshine\!\! 學園偶像電影\~彩虹彼端\~**》\[1\]（）为Project [LoveLive\! Sunshine\!\!的相关动画作品](https://zh.wikipedia.org/wiki/LoveLive!_Sunshine!! "wikilink")。制作动画剧场版的决定于2017年12月电视动画第二季播毕时由官方正式公布。本片由[日昇动画制作](https://zh.wikipedia.org/wiki/日昇动画 "wikilink")、并由[松竹](../Page/松竹.md "wikilink")株式会社发行，2019年1月4日开始在[日本](../Page/日本.md "wikilink")全國128館中播映。\[2\]
 
 ## 劇情大綱\[3\]
 
 電影版劇情接續電視動畫第二季結尾內容。
 
-[Aqours在最後一次以浦之星女學院學園偶像身分參加的](../Page/Aqours.md "wikilink")「LoveLive\!」中成功拿下冠軍。
-但在為轉入新學校做準備的1年級，2年級學生面前，意想不到的災難接連發生\!? 不僅如此，前往畢業旅行的3年級生竟然失蹤了\!?
+[Aqours](../Page/Aqours.md "wikilink")在最後一次以浦之星女學院學園偶像身分參加的「LoveLive\!」中成功拿下冠軍。 但在為轉入新學校做準備的1年級，2年級學生面前，意想不到的災難接連發生\!? 不僅如此，前往畢業旅行的3年級生竟然失蹤了\!?
 
 在各自分離後才初次意識到，彼此間的存在是如此重要… 為了踏出嶄新的一步，Aqours 追尋到的答案又是——?
 
@@ -82,8 +80,7 @@ Sunshine\!\!的相关动画作品](https://zh.wikipedia.org/wiki/LoveLive!_Sunsh
       - 歌：[Aqours](../Page/Aqours.md "wikilink")
   - 「Believe again」
       - 作曲・編曲：河田貴央
-      - 歌：[Saint
-        Snow](https://zh.wikipedia.org/wiki/Saint_Snow "wikilink")
+      - 歌：[Saint Snow](https://zh.wikipedia.org/wiki/Saint_Snow "wikilink")
   - 「Brightest Melody」
       - 作曲：光増ハジメ／編曲：EFFY
       - 歌：[Aqours](../Page/Aqours.md "wikilink")
@@ -104,10 +101,7 @@ Sunshine\!\!的相关动画作品](https://zh.wikipedia.org/wiki/LoveLive!_Sunsh
   - [剧场版官方网站](https://lovelive-sunshinemovie.jp/)
   - [劇場版官方網站](http://www.my-cartoon.com.tw/lovelive/uranohoshi/movie.php)
 
-[Category:Aqours](https://zh.wikipedia.org/wiki/Category:Aqours "wikilink")
-[Category:Love_Live\!](https://zh.wikipedia.org/wiki/Category:Love_Live! "wikilink")
-[Category:2019年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2019年日本劇場動畫 "wikilink")
-[Category:日本原創動畫電影](https://zh.wikipedia.org/wiki/Category:日本原創動畫電影 "wikilink")
+[Category:Aqours](https://zh.wikipedia.org/wiki/Category:Aqours "wikilink") [Category:Love_Live\!](https://zh.wikipedia.org/wiki/Category:Love_Live! "wikilink") [Category:2019年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2019年日本劇場動畫 "wikilink") [Category:日本原創動畫電影](https://zh.wikipedia.org/wiki/Category:日本原創動畫電影 "wikilink")
 
 1.
 

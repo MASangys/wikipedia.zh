@@ -1,4 +1,4 @@
-**[Random隨性樂團](https://www.facebook.com/RANDOM78/)**來自[台灣台北](https://zh.wikipedia.org/wiki/:台北市 "wikilink")，成立於2005年底，為[台灣獨立音樂樂團](https://zh.wikipedia.org/wiki/:獨立音樂 "wikilink")，其成員由主唱葉倬宇(蛋糕)、吉他手林心拓(阿拓)、貝斯手卓士峰(卓杯)及鼓手林含書(含書)所組；音樂類型融合了龐克、金屬、Funk等元素,以台語為主的創作路線在獨立音樂圈中風格鮮明。
+**Random隨性樂團**來自[台灣台北](https://zh.wikipedia.org/wiki/:台北市 "wikilink")，成立於2005年底，為台灣[獨立音樂](../Page/獨立音樂.md "wikilink")樂團，其成員由主唱葉倬宇（蛋糕）、吉他手林心拓（阿拓）、貝斯手卓士峰（卓杯）及鼓手林含書（含書）所組，音樂類型融合了[龐克](https://zh.wikipedia.org/wiki/龐克音樂 "wikilink")、[金屬](https://zh.wikipedia.org/wiki/重金屬音樂 "wikilink")、[Funk等元素](https://zh.wikipedia.org/wiki/Funk "wikilink")，曾獲得2012年[貢寮國際海洋音樂祭](../Page/貢寮國際海洋音樂祭.md "wikilink")「海洋獨立大賞」，在2013年發行首張專輯《人生路途》。在2017年發行第三張專輯《噴射時代》，是全台語的專輯。
 
 ## 簡歷
 
@@ -6,7 +6,7 @@
   - 2007年發行EP《轉大人》。
   - 2009年參與《大聲叫》合輯。
   - 2012年4月發行EP《心內的歌》、7月發行EP《夢中世界》。
-  - 2012年貢寮國際海洋音樂祭「海洋獨立大賞」。
+  - 2012年[貢寮國際海洋音樂祭](../Page/貢寮國際海洋音樂祭.md "wikilink")「海洋獨立大賞」\[1\]。
   - 2013年8月發行首張專輯《人生路途》。
   - 2014年6月發行數位單曲《重新開始》《安捏娘》。
   - 2015年發行第二張專輯《良禽》。
@@ -42,15 +42,17 @@
 <td><p>2015年6月</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/良禽_(fine_avian)" title="wikilink">良禽 (fine avian)</a></p></td>
 <td><ul>
-<li>01.打結 (Twisted)</li>
-<li>02.Broken Zipper</li>
-<li>03.vivian</li>
-<li>04.青春樂手 (Young Player)</li>
-<li>05.錯過 (Missed)</li>
-<li>06.感謝你的陪伴 (Thanks For Your Company)</li>
-<li>07.想你點煙 (Light A Cig For You)</li>
-<li>08.走找良心 (Finding Conscience)</li>
-<li>09.美麗的所在 (Wonderland)</li>
+<li>01.重新開始 (Restart)</li>
+<li>02.打結 (Twisted)</li>
+<li>03.Broken Zipper</li>
+<li>04.Vivian</li>
+<li>05.青春樂手 (Young Player)</li>
+<li>06.錯過 (Missed)</li>
+<li>07.感謝你的陪伴 (Thanks For Your Company)</li>
+<li>08.想你點煙 (Light A Cig For You)</li>
+<li>09.安捏娘 (Just That)</li>
+<li>10.走找良心 (Finding Conscience)</li>
+<li>11.美麗的所在 (Wonderland)</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -67,7 +69,6 @@
 <li>08.雲中月</li>
 <li>09.拚未來</li>
 <li>10.我的堅持</li>
-<li>11.同款的人</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -169,15 +170,13 @@
 
 ## 參考資料
 
-1.  [隨性樂團](https://www.indievox.com/random1234/intro)　
-2.  [地下樂團的夢想！　「Random隨性樂團」獲海洋獨立大賞](https://www.ettoday.net/news/20120715/74456.htm)\[2012-07-15\]
-3.  [焦慮男孩的遊戲間 — 造訪隨性樂團主唱 蛋糕
-    的房間](https://blow.streetvoice.com/1405-%E7%84%A6%E6%85%AE%E7%94%B7%E5%AD%A9%E7%9A%84%E9%81%8A%E6%88%B2%E9%96%93-%E9%80%A0%E8%A8%AA%E9%9A%A8%E6%80%A7%E6%A8%82%E5%9C%98%E4%B8%BB%E5%94%B1-%E8%9B%8B%E7%B3%95-%E7%9A%84%E6%88%BF/)\[2013-10-09\]
-4.  [那些你不知道的隨性黑歷史](https://blow.streetvoice.com/37257-%E9%82%A3%E4%BA%9B%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E9%9A%A8%E6%80%A7%E9%BB%91%E6%AD%B7%E5%8F%B2/)\[2017-11-22\]
-5.  [白天早餐店老闆，夜晚搖滾團貝斯手！隨性樂團Random卓士峰的日夜雙面搖滾人生](https://www.wowlavie.com/life_unit.php?article_id=AE1801437)\[2018-07-07\]
+1.  [於噴射時代中恣意的衝撞 / 與隨性 Random 的快問快答](https://keedan.com/track/2017/11/27/keedan-interview-with-random/)\[2017-11-21\]
+2.  [扎實龐克態度和著柔情—隨性樂團《良禽》](https://vocus.cc/@facebook10208847633662746/5c9c749dfd897800010f55b5)\[2019-03-28\]
+3.  [隨性樂團](https://www.indievox.com/random1234/intro)　
+4.  [焦慮男孩的遊戲間 — 造訪隨性樂團主唱 蛋糕 的房間](https://blow.streetvoice.com/1405-%E7%84%A6%E6%85%AE%E7%94%B7%E5%AD%A9%E7%9A%84%E9%81%8A%E6%88%B2%E9%96%93-%E9%80%A0%E8%A8%AA%E9%9A%A8%E6%80%A7%E6%A8%82%E5%9C%98%E4%B8%BB%E5%94%B1-%E8%9B%8B%E7%B3%95-%E7%9A%84%E6%88%BF/)\[2013-10-09\]
+5.  [那些你不知道的隨性黑歷史](https://blow.streetvoice.com/37257-%E9%82%A3%E4%BA%9B%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E9%9A%A8%E6%80%A7%E9%BB%91%E6%AD%B7%E5%8F%B2/)\[2017-11-22\]
+6.  [白天早餐店老闆，夜晚搖滾團貝斯手！隨性樂團Random卓士峰的日夜雙面搖滾人生](https://www.wowlavie.com/life_unit.php?article_id=AE1801437)\[2018-07-07\]
 
-[Category:台灣搖滾樂團](https://zh.wikipedia.org/wiki/Category:台灣搖滾樂團 "wikilink")
-[Category:台灣獨立樂團](https://zh.wikipedia.org/wiki/Category:台灣獨立樂團 "wikilink")
-[Category:台灣樂團](https://zh.wikipedia.org/wiki/Category:台灣樂團 "wikilink")
-[Category:搖滾樂團](https://zh.wikipedia.org/wiki/Category:搖滾樂團 "wikilink")
-[Category:台灣獨立搖滾樂團](https://zh.wikipedia.org/wiki/Category:台灣獨立搖滾樂團 "wikilink")
+[Category:台灣搖滾樂團](https://zh.wikipedia.org/wiki/Category:台灣搖滾樂團 "wikilink") [Category:台灣獨立樂團](https://zh.wikipedia.org/wiki/Category:台灣獨立樂團 "wikilink") [Category:台灣樂團](https://zh.wikipedia.org/wiki/Category:台灣樂團 "wikilink") [Category:搖滾樂團](https://zh.wikipedia.org/wiki/Category:搖滾樂團 "wikilink") [Category:台灣獨立搖滾樂團](https://zh.wikipedia.org/wiki/Category:台灣獨立搖滾樂團 "wikilink")
+
+1.  [地下樂團的夢想！　「Random隨性樂團」獲海洋獨立大賞](https://www.ettoday.net/news/20120715/74456.htm)\[2012-07-15\]

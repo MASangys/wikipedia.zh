@@ -6,15 +6,7 @@
 
   -
   -
-[Category:20世纪美国男演员](https://zh.wikipedia.org/wiki/Category:20世纪美国男演员 "wikilink")
-[Category:21世纪美国男演员](https://zh.wikipedia.org/wiki/Category:21世纪美国男演员 "wikilink")
-[Category:美國電影男演員](https://zh.wikipedia.org/wiki/Category:美國電影男演員 "wikilink")
-[Category:美國電視男演員](https://zh.wikipedia.org/wiki/Category:美國電視男演員 "wikilink")
-[Category:美国栋笃笑喜剧演员](https://zh.wikipedia.org/wiki/Category:美国栋笃笑喜剧演员 "wikilink")
-[Category:美國電視編劇](https://zh.wikipedia.org/wiki/Category:美國電視編劇 "wikilink")
-[Category:美國男性編劇](https://zh.wikipedia.org/wiki/Category:美國男性編劇 "wikilink")
-[Category:美国男配音演员](https://zh.wikipedia.org/wiki/Category:美国男配音演员 "wikilink")
-[Category:非洲裔美国男演员](https://zh.wikipedia.org/wiki/Category:非洲裔美国男演员 "wikilink")
+[Category:20世纪美国男演员](https://zh.wikipedia.org/wiki/Category:20世纪美国男演员 "wikilink") [Category:21世纪美国男演员](https://zh.wikipedia.org/wiki/Category:21世纪美国男演员 "wikilink") [Category:美國電影男演員](https://zh.wikipedia.org/wiki/Category:美國電影男演員 "wikilink") [Category:美國電視男演員](https://zh.wikipedia.org/wiki/Category:美國電視男演員 "wikilink") [Category:美国栋笃笑喜剧演员](https://zh.wikipedia.org/wiki/Category:美国栋笃笑喜剧演员 "wikilink") [Category:美國電視編劇](https://zh.wikipedia.org/wiki/Category:美國電視編劇 "wikilink") [Category:美國男性編劇](https://zh.wikipedia.org/wiki/Category:美國男性編劇 "wikilink") [Category:美国男配音演员](https://zh.wikipedia.org/wiki/Category:美国男配音演员 "wikilink") [Category:非洲裔美国男演员](https://zh.wikipedia.org/wiki/Category:非洲裔美国男演员 "wikilink")
 
 1.
 2.

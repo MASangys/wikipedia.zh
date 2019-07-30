@@ -1,9 +1,6 @@
 require('Module:No globals');
 
-\--[--------------------------\< A R G S _ D E F A U L T
-\>------------------------------------------------------ a table to
-specify initial
-values.](https://zh.wikipedia.org/wiki/--------------------------\<_A_R_G_S_D_E_F_A_U_L_T_\>------------------------------------------------------_a_table_to_specify_initial_values. "wikilink")
+\--[--------------------------\< A R G S _ D E F A U L T \>------------------------------------------------------ a table to specify initial values.](https://zh.wikipedia.org/wiki/--------------------------\<_A_R_G_S_D_E_F_A_U_L_T_\>------------------------------------------------------_a_table_to_specify_initial_values. "wikilink")
 
 local args_default = {
 
@@ -20,13 +17,7 @@ local args_default = {
 `   ref = '',`
 `   };`
 
-\--[--------------------------\< I S _ Y E A R
-\>----------------------------------------------------------------
-evaluates param to see if it is one of these forms with or without
-lowercase letter disambiguator: YYYY n.d. nd c. YYYY YYYY–YYYY
-(separator is endash) return true when param has a recognized form;
-false
-else](https://zh.wikipedia.org/wiki/--------------------------\<_I_S_Y_E_A_R_\>----------------------------------------------------------------_evaluates_param_to_see_if_it_is_one_of_these_forms_with_or_without_lowercase_letter_disambiguator:_YYYY_n.d._nd_c._YYYY_YYYY–YYYY_\(separator_is_endash\)_return_true_when_param_has_a_recognized_form;_false_else "wikilink")
+\--[--------------------------\< I S _ Y E A R \>---------------------------------------------------------------- evaluates param to see if it is one of these forms with or without lowercase letter disambiguator: YYYY n.d. nd c. YYYY YYYY–YYYY (separator is endash) return true when param has a recognized form; false else](https://zh.wikipedia.org/wiki/--------------------------\<_I_S_Y_E_A_R_\>----------------------------------------------------------------_evaluates_param_to_see_if_it_is_one_of_these_forms_with_or_without_lowercase_letter_disambiguator:_YYYY_n.d._nd_c._YYYY_YYYY–YYYY_\(separator_is_endash\)_return_true_when_param_has_a_recognized_form;_false_else "wikilink")
 
 local function is_year (param)
 
@@ -34,11 +25,9 @@ local function is_year (param)
 
 end
 
-\--\[\[--------------------------\< C O R E
-\>----------------------------------------------------------------------
+\--\[\[--------------------------\< C O R E \>----------------------------------------------------------------------
 
-returns an anchor link (CITEREF) formed from one to four author names,
-year, and insource location (|p=, |pp=, loc=)
+returns an anchor link (CITEREF) formed from one to four author names, year, and insource location (|p=, |pp=, loc=)
 
 \]\]
 
@@ -89,11 +78,9 @@ local function core( args )
 `   `
 `   if args.ref ~= 'none' then`
 `       if args.ref ~= '' then`
-`           result = table.concat ({'`[`',``   ``result,``
- ``'`](https://zh.wikipedia.org/wiki/#',_mw.uri.anchorEncode_\(args.ref\),_' "wikilink")`'});`
+`           result = table.concat ({'`[`',``   ``result,``   ``'`](https://zh.wikipedia.org/wiki/#',_mw.uri.anchorEncode_\(args.ref\),_' "wikilink")`'});`
 `       else`
-`           result = table.concat ({'`[`',``   ``result,``
- ``'`](https://zh.wikipedia.org/wiki/#CITEREF',_mw.uri.anchorEncode_\(table.concat_\({args.P1,_args.P2,_args.P3,_args.P4,_args.P5}\)\),_' "wikilink")`'});`
+`           result = table.concat ({'`[`',``   ``result,``   ``'`](https://zh.wikipedia.org/wiki/#CITEREF',_mw.uri.anchorEncode_\(table.concat_\({args.P1,_args.P2,_args.P3,_args.P4,_args.P5}\)\),_' "wikilink")`'});`
 `       end`
 `   end`
 
@@ -112,11 +99,7 @@ local function core( args )
 
 end
 
-\--[--------------------------\< A R G S _ F E T C H
-\>--------------------------------------------------------- Because all
-of the templates share a common set of parameters, a single common
-function to fetch those parameters from frame and parent
-frame.](https://zh.wikipedia.org/wiki/--------------------------\<_A_R_G_S_F_E_T_C_H_\>---------------------------------------------------------_Because_all_of_the_templates_share_a_common_set_of_parameters,_a_single_common_function_to_fetch_those_parameters_from_frame_and_parent_frame. "wikilink")
+\--[--------------------------\< A R G S _ F E T C H \>--------------------------------------------------------- Because all of the templates share a common set of parameters, a single common function to fetch those parameters from frame and parent frame.](https://zh.wikipedia.org/wiki/--------------------------\<_A_R_G_S_F_E_T_C_H_\>---------------------------------------------------------_Because_all_of_the_templates_share_a_common_set_of_parameters,_a_single_common_function_to_fetch_those_parameters_from_frame_and_parent_frame. "wikilink")
 
 local function args_fetch (frame, ps)
 
@@ -144,14 +127,7 @@ local function args_fetch (frame, ps)
 
 end
 
-\--[--------------------------\< H A R V A R D _ C I T A T I O N
-\>---------------------------------------------- common entry point for:
-{{harvard citation}} aka {{harv}} {{Harvard citation no brackets}} aka
-{{harvnb}} {{harvcol}} {{harvcolnb}} {{harvcoltxt}} {{Harvard citation
-text}} aka {{harvtxt}} {{Harvp}} Distinguishing features (brackets and
-page separators) are specified in this module's {{\#invoke}} in the
-respective
-templates.](https://zh.wikipedia.org/wiki/--------------------------\<_H_A_R_V_A_R_D_C_I_T_A_T_I_O_N_\>----------------------------------------------_common_entry_point_for:_{{harvard_citation}}_aka_{{harv}}_{{Harvard_citation_no_brackets}}_aka_{{harvnb}}_{{harvcol}}_{{harvcolnb}}_{{harvcoltxt}}_{{Harvard_citation_text}}_aka_{{harvtxt}}_{{Harvp}}_Distinguishing_features_\(brackets_and_page_separators\)_are_specified_in_this_module's_{{#invoke}}_in_the_respective_templates. "wikilink")
+\--[--------------------------\< H A R V A R D _ C I T A T I O N \>---------------------------------------------- common entry point for: {{harvard citation}} aka {{harv}} {{Harvard citation no brackets}} aka {{harvnb}} {{harvcol}} {{harvcolnb}} {{harvcoltxt}} {{Harvard citation text}} aka {{harvtxt}} {{Harvp}} Distinguishing features (brackets and page separators) are specified in this module's {{\#invoke}} in the respective templates.](https://zh.wikipedia.org/wiki/--------------------------\<_H_A_R_V_A_R_D_C_I_T_A_T_I_O_N_\>----------------------------------------------_common_entry_point_for:_{{harvard_citation}}_aka_{{harv}}_{{Harvard_citation_no_brackets}}_aka_{{harvnb}}_{{harvcol}}_{{harvcolnb}}_{{harvcoltxt}}_{{Harvard_citation_text}}_aka_{{harvtxt}}_{{Harvp}}_Distinguishing_features_\(brackets_and_page_separators\)_are_specified_in_this_module's_{{#invoke}}_in_the_respective_templates. "wikilink")
 
 local function harvard_citation (frame)
 
@@ -161,16 +137,11 @@ local function harvard_citation (frame)
 
 end
 
-\--\[\[--------------------------\< S T R I P _ U R L
-\>------------------------------------------------------------
+\--\[\[--------------------------\< S T R I P _ U R L \>------------------------------------------------------------
 
-used by sfn() and sfnm(). This function fixes an issue with reference
-tooltip gadget where the tooltip is not displayed when an insource
-locator (|p=, |pp=, |loc=) has an external wikilink that contains a \#
-character
+used by sfn() and sfnm(). This function fixes an issue with reference tooltip gadget where the tooltip is not displayed when an insource locator (|p=, |pp=, |loc=) has an external wikilink that contains a \# character
 
-strip uri-reserved characters from urls in |p=, |pp-, and |loc=
-parameters The researved characters are:
+strip uri-reserved characters from urls in |p=, |pp-, and |loc= parameters The researved characters are:
 
 `   !#$&'()*+,/:;=?@[]`
 `   `
@@ -193,10 +164,7 @@ local function strip_url (pages) local escaped_uri;
 
 end
 
-\--[--------------------------\< S F N
-\>------------------------------------------------------------------------
-entry point for {{sfn}} and
-{{sfnp}}](https://zh.wikipedia.org/wiki/--------------------------\<_S_F_N_\>------------------------------------------------------------------------_entry_point_for_{{sfn}}_and_{{sfnp}} "wikilink")
+\--[--------------------------\< S F N \>------------------------------------------------------------------------ entry point for {{sfn}} and {{sfnp}}](https://zh.wikipedia.org/wiki/--------------------------\<_S_F_N_\>------------------------------------------------------------------------_entry_point_for_{{sfn}}_and_{{sfnp}} "wikilink")
 
 local function sfn (frame)
 
@@ -211,11 +179,7 @@ local function sfn (frame)
 
 end
 
-\--[--------------------------\< S F N M
-\>----------------------------------------------------------------------
-common entry point for {{sfnm}} and {{sfnmp}} Distinguishing features
-(brackets) are specified in this module's {{\#invoke}} in the respective
-templates.](https://zh.wikipedia.org/wiki/--------------------------\<_S_F_N_M_\>----------------------------------------------------------------------_common_entry_point_for_{{sfnm}}_and_{{sfnmp}}_Distinguishing_features_\(brackets\)_are_specified_in_this_module's_{{#invoke}}_in_the_respective_templates. "wikilink")
+\--[--------------------------\< S F N M \>---------------------------------------------------------------------- common entry point for {{sfnm}} and {{sfnmp}} Distinguishing features (brackets) are specified in this module's {{\#invoke}} in the respective templates.](https://zh.wikipedia.org/wiki/--------------------------\<_S_F_N_M_\>----------------------------------------------------------------------_common_entry_point_for_{{sfnm}}_and_{{sfnmp}}_Distinguishing_features_\(brackets\)_are_specified_in_this_module's_{{#invoke}}_in_the_respective_templates. "wikilink")
 
 local function sfnm (frame)
 
@@ -310,8 +274,7 @@ local function sfnm (frame)
 
 end
 
-\--[--------------------------\< E X P O R T T A B L E
-\>------------------------------------------------------](https://zh.wikipedia.org/wiki/--------------------------\<_E_X_P_O_R_T_T_A_B_L_E_\>------------------------------------------------------ "wikilink")
+\--[--------------------------\< E X P O R T T A B L E \>------------------------------------------------------](https://zh.wikipedia.org/wiki/--------------------------\<_E_X_P_O_R_T_T_A_B_L_E_\>------------------------------------------------------ "wikilink")
 
 return {
 

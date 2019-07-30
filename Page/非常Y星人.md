@@ -1,4 +1,4 @@
-《**非常Y星人**》（），[2019年](../Page/中国大陆电视剧列表_\(2019年\).md "wikilink")[中国科幻剧](https://zh.wikipedia.org/wiki/中国 "wikilink")。由[徐立](../Page/徐立.md "wikilink")、[强川领衔主演](https://zh.wikipedia.org/wiki/强川 "wikilink")\[1\]，[爱奇艺于](../Page/爱奇艺.md "wikilink")2019年5月22日首播。\[2\]
+《**非常Y星人**》（），[2019年](../Page/中国大陆电视剧列表_\(2019年\).md "wikilink")[中国科幻剧](https://zh.wikipedia.org/wiki/中国 "wikilink")。由[徐立](../Page/徐立.md "wikilink")、[强川领衔主演](https://zh.wikipedia.org/wiki/强川 "wikilink")\[1\]，[爱奇艺](../Page/爱奇艺.md "wikilink")于2019年5月22日首播。\[2\]
 
 ## 播出时间
 
@@ -57,11 +57,7 @@
 ## 外部连结
 
   -
-[Category:中文連續劇](https://zh.wikipedia.org/wiki/Category:中文連續劇 "wikilink")
-[Category:2019年中國電視劇集](https://zh.wikipedia.org/wiki/Category:2019年中國電視劇集 "wikilink")
-[Category:2019年中国网络剧](https://zh.wikipedia.org/wiki/Category:2019年中国网络剧 "wikilink")
+[Category:中文連續劇](https://zh.wikipedia.org/wiki/Category:中文連續劇 "wikilink") [Category:2019年中國電視劇集](https://zh.wikipedia.org/wiki/Category:2019年中國電視劇集 "wikilink") [Category:2019年中国网络剧](https://zh.wikipedia.org/wiki/Category:2019年中国网络剧 "wikilink")
 
-1.  [《非常Y星人》开播
-    徐立化身外星公主上演地球探险记](http://ent.163.com/19/0522/17/EFQ3B2H800038HKK.html)
-2.  [《非常Y星人》开播
-    跨星球爱恋高甜来袭](http://ent.163.com/19/0523/19/EFSQOQOC00038HKK.html)
+1.  [《非常Y星人》开播 徐立化身外星公主上演地球探险记](http://ent.163.com/19/0522/17/EFQ3B2H800038HKK.html)
+2.  [《非常Y星人》开播 跨星球爱恋高甜来袭](http://ent.163.com/19/0523/19/EFSQOQOC00038HKK.html)

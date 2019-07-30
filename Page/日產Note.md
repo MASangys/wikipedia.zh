@@ -10,37 +10,21 @@
 
 零售日產Note基於日產Tone概念車的設計。
 
-日本車型於2005年1月20日開始銷售。早期的日產Note車型包括15RX，15E，15S，15S
-V型封裝，15E四，15S四，15S四V型封裝。
+日本車型於2005年1月20日開始銷售。早期的日產Note車型包括15RX，15E，15S，15S V型封裝，15E四，15S四，15S四V型封裝。
 
 早期的日產Note Rider車型包括15S，15S V型封裝，15S四，15S四V型封裝。
 
-歐洲車型在2005年法蘭克福車展上亮相，隨後是2006年日內瓦車展。零售車型於2006年春季上市銷售。早期車型包括4種發動機（1.4L，1.6L汽油和2L
-1.5L柴油）。
+歐洲車型在2005年法蘭克福車展上亮相，隨後是2006年日內瓦車展。零售車型於2006年春季上市銷售。早期車型包括4種發動機（1.4L，1.6L汽油和2L 1.5L柴油）。
 
-英國在3月1日推出Note，是第首個發售的市場。
-該車與雷諾Modus共享部分技術，旨在對抗歐寶/沃克斯豪爾Meriva和雪鐵龍C3畢加索的競爭。
-它由日產位於英國華盛頓的工廠生產，作為2006年11月在華盛頓停產的傳統中型Almera掀背車的間接繼承者。但在歐洲Almera的直接繼承者是[騏達](../Page/日產Tiida.md "wikilink")(Tiida)
-; 但它尚未正式進口到英國，儘管它自2009年3月開始供貨，其型號來自愛爾蘭共和國的Arnold Clark 經銷商網絡。
+英國在3月1日推出Note，是第首個發售的市場。 該車與雷諾Modus共享部分技術，旨在對抗歐寶/沃克斯豪爾Meriva和雪鐵龍C3畢加索的競爭。 它由日產位於英國華盛頓的工廠生產，作為2006年11月在華盛頓停產的傳統中型Almera掀背車的間接繼承者。但在歐洲Almera的直接繼承者是[騏達](../Page/日產Tiida.md "wikilink")(Tiida) ; 但它尚未正式進口到英國，儘管它自2009年3月開始供貨，其型號來自愛爾蘭共和國的Arnold Clark 經銷商網絡。
 
-日產Note曾經有三種規格，“S”，“SE”和“SVE”。基本型號配備全電動車窗，合金車輪和前霧燈或Flexi-Board啟動系統。
-SE看到了15英寸合金，空調，前霧燈和Flexi-Board靴子的引入，SVE有氣候控制，後部隱私玻璃，16英寸合金和ESP。這些模型已被Visia，Acenta，Acenta
-R和Tekna取代。 Visia幾乎與舊的'S'型號完全相同，而Acenta，Acenta
-R和Tekna現在配備MP3輔助插孔和藍牙汽車音響，無需任何成本選擇。
+日產Note曾經有三種規格，“S”，“SE”和“SVE”。基本型號配備全電動車窗，合金車輪和前霧燈或Flexi-Board啟動系統。 SE看到了15英寸合金，空調，前霧燈和Flexi-Board靴子的引入，SVE有氣候控制，後部隱私玻璃，16英寸合金和ESP。這些模型已被Visia，Acenta，Acenta R和Tekna取代。 Visia幾乎與舊的'S'型號完全相同，而Acenta，Acenta R和Tekna現在配備MP3輔助插孔和藍牙汽車音響，無需任何成本選擇。
 
-在英國，Note有五種規格; Visia，Visia +，Acenta，Acenta
-S和Tekna。所有型號都配有四個安全氣囊，一個CD播放器，遠程中央門鎖，電動前窗，電動後視鏡和滑動後座。相同的裝飾水平Visia
-/ Accenta /
-Tekna在歐盟大部分地區使用，但在俄羅斯/獨聯體地區日產以Comfort，Luxury和Tekna裝飾水平銷售Note。它們與歐盟裝飾相似，但在Luxury
-/ Tekna中最多只配備兩個安全氣囊（舒適），最多四個安全氣囊。保護人體最有價值部分的窗簾根本無法使用。
-2009年之前為這個市場製造的汽車具有標準OBDII診斷功能，尤其是日產禁用的軟件（只有專有的Consult
-III和兼容工具能夠診斷這些汽車）。
+在英國，Note有五種規格; Visia，Visia +，Acenta，Acenta S和Tekna。所有型號都配有四個安全氣囊，一個CD播放器，遠程中央門鎖，電動前窗，電動後視鏡和滑動後座。相同的裝飾水平Visia / Accenta / Tekna在歐盟大部分地區使用，但在俄羅斯/獨聯體地區日產以Comfort，Luxury和Tekna裝飾水平銷售Note。它們與歐盟裝飾相似，但在Luxury / Tekna中最多只配備兩個安全氣囊（舒適），最多四個安全氣囊。保護人體最有價值部分的窗簾根本無法使用。 2009年之前為這個市場製造的汽車具有標準OBDII診斷功能，尤其是日產禁用的軟件（只有專有的Consult III和兼容工具能夠診斷這些汽車）。
 
 ### 2007年改款/重新設計（僅限歐盟製造的車型）
 
-2007年日產略微改頭換面。 兩個保險槓都完全塗漆。 無線電天線移動到屋頂的後部。
-前照燈清洗器失去了專用按鈕，變得全自動，但日後導致過多的清潔液消耗。
-更新了無線電系統。 然而，截至2007年，車輛沒有任何重大的變化。
+2007年日產略微改頭換面。 兩個保險槓都完全塗漆。 無線電天線移動到屋頂的後部。 前照燈清洗器失去了專用按鈕，變得全自動，但日後導致過多的清潔液消耗。 更新了無線電系統。 然而，截至2007年，車輛沒有任何重大的變化。
 
 ### 2008年更新（僅限日本製造的型號）
 
@@ -65,8 +49,7 @@ III和兼容工具能夠診斷這些汽車）。
 
 Plus navi HDD型號基於15G，15X，15G四，15X四，具有：
 
-  - 獨家硬盤導航系統（7英寸寬VGA顯示屏，觸摸屏，VICS（多FM），音樂儲存器，iPod控制，CD播放器，電子調諧AM /
-    FM收音機，30GB硬盤）
+  - 獨家硬盤導航系統（7英寸寬VGA顯示屏，觸摸屏，VICS（多FM），音樂儲存器，iPod控制，CD播放器，電子調諧AM / FM收音機，30GB硬盤）
   - 綠色防紫外線擋風玻璃，頂部遮陽
   - 2個後置揚聲器（標配15G，15G四）
 
@@ -88,11 +71,9 @@ Note Rider performance spec 是Nissan Note Rider 的另一個版本，更新包�
   - 獨家支撐塔桿（前）
   - 隧道停留
   - YAMAHA性能減震器（前）
-  - 獨家調校懸架，普利司通Potenza RE-01R 185 / 55R15
-    81V輪胎，Fujitsubo運動消聲器，命名標誌，汽車速度感應電動助力轉向，鋁製踏板
+  - 獨家調校懸架，普利司通Potenza RE-01R 185 / 55R15 81V輪胎，Fujitsubo運動消聲器，命名標誌，汽車速度感應電動助力轉向，鋁製踏板
 
-日本車型於2008年1月16日開始銷售。早期型號包括15X F包，15X，15G，15RS，15RX，15X FOUR F包，15X
-FOUR，15G四種。
+日本車型於2008年1月16日開始銷售。早期型號包括15X F包，15X，15G，15RS，15RX，15X FOUR F包，15X FOUR，15G四種。
 
 歐洲車型於2008年巴黎車展亮相。 1.5升dCi發動機車型於2008年9月開始銷售，隨後於2008年10月推出1.4升汽油發動機車型。
 
@@ -118,11 +99,7 @@ FOUR，15G四種。
 
 歐洲第二次改款/重新設計的車型，在2010年底作為2011款車型上市銷售。
 
-至於早期車型，日產提供3種發動機（1.5升dCi渦輪增壓柴油發動機（CIS
-/俄羅斯不適用），1.4升65千瓦（88馬力）和1.6升81千瓦（110馬力）的選擇
-汽油），10種車身顏色的選擇（金屬紅色和金屬灰色 - 添加以取代三種顏色;兩種純色和8種金屬色）。 在第二次改造時，在外部和內部進行了許多改變。
-燈，保險槓，格柵和儀表板都發生了重大變化。 Nissan Connect Radio / Navi可作為高調整級別的選項。
-AT軟件被調整為保持安全，而ATF不夠溫暖。 還有各種不太重要的變化。
+至於早期車型，日產提供3種發動機（1.5升dCi渦輪增壓柴油發動機（CIS /俄羅斯不適用），1.4升65千瓦（88馬力）和1.6升81千瓦（110馬力）的選擇 汽油），10種車身顏色的選擇（金屬紅色和金屬灰色 - 添加以取代三種顏色;兩種純色和8種金屬色）。 在第二次改造時，在外部和內部進行了許多改變。 燈，保險槓，格柵和儀表板都發生了重大變化。 Nissan Connect Radio / Navi可作為高調整級別的選項。 AT軟件被調整為保持安全，而ATF不夠溫暖。 還有各種不太重要的變化。
 
 ### 2012年更新（僅限歐盟型號）
 
@@ -140,8 +117,7 @@ N-TEC +型號包括後部停車傳感器
 
 選擇1.4,1.6汽油和1.5dCi發動機
 
-英國車型於2012年2月開始銷售。自2012年初至2013年E11生產結束至少在俄羅斯上市的車型/裝飾中，日產默默地排除了安全帶預緊器，沒有任何先前的注意事項。此外，安全帶預緊器列在所有經銷商的報價和合同中，而有些人發現在座椅下車時沒有安裝預緊器。後來NM俄羅斯承認日產Note
-2012-2013缺乏預緊器。
+英國車型於2012年2月開始銷售。自2012年初至2013年E11生產結束至少在俄羅斯上市的車型/裝飾中，日產默默地排除了安全帶預緊器，沒有任何先前的注意事項。此外，安全帶預緊器列在所有經銷商的報價和合同中，而有些人發現在座椅下車時沒有安裝預緊器。後來NM俄羅斯承認日產Note 2012-2013缺乏預緊器。
 
 ## 第二代（2012年至今）
 
@@ -151,8 +127,7 @@ N-TEC +型號包括後部停車傳感器
 
 車型於2012年日內瓦國際車展首次亮相。歐洲車型則在第83屆日內瓦車展上亮相。拉丁美洲車型在哥倫比亞的卡塔赫納德印第亞港揭幕。
 
-這個概念是基於V平台的掀背車概念，旨在與日產Micra和日產Juke一起銷售。
-它包括日產在車身側板上的“壁球線”，帶螺旋彈簧的獨立前麥弗遜支柱，扭力梁後軸，環視監視器（AVM）安全技術，日產安全防護系統。
+這個概念是基於V平台的掀背車概念，旨在與日產Micra和日產Juke一起銷售。 它包括日產在車身側板上的“壁球線”，帶螺旋彈簧的獨立前麥弗遜支柱，扭力梁後軸，環視監視器（AVM）安全技術，日產安全防護系統。
 
 它將在2013年內取代日產Livina用於其他國家的市場（中國和亞洲部分地區除外）。
 
@@ -162,9 +137,7 @@ N-TEC +型號包括後部停車傳感器
 
 日本車型於2012年9月3日開始銷售。
 
-早期車型包括HR12DE（S，X，X四）和 HR12DDR（S DIG-S，X DIG-S，MEDALIST）發動機，Xtronic
-CVT變速箱。 早期 Note Rider車型包括HR12DE（X，X FOUR）和HR12DDR（X
-DIG-S）發動機，Xtronic CVT變速箱。
+早期車型包括HR12DE（S，X，X四）和 HR12DDR（S DIG-S，X DIG-S，MEDALIST）發動機，Xtronic CVT變速箱。 早期 Note Rider車型包括HR12DE（X，X FOUR）和HR12DDR（X DIG-S）發動機，Xtronic CVT變速箱。
 
 所有國際型號的寬度尺寸都保持在1700mm以下，因此日本版本將符合日本政府尺寸規定，發動機排量保持在2000cc以下，因此日本版本將為日本買家提供小型發動機的年度道路稅減免。
 
@@ -172,8 +145,7 @@ DIG-S）發動機，Xtronic CVT變速箱。
 
 拉丁美洲車型於2013年7月上市銷售。早期型號包括Sense（手動和CVT）和Advance（手動和CVT）。
 
-歐洲車型於2013年夏季開始銷售，2013年秋季開始交付。早期車型包括3種發動機（1.2升80PS汽油，1.2升98PS
-DIG-S汽油，1.5升90PS渦輪柴油），手動或CVT變速箱，3個裝飾等級（Visia，Acenta和Tekna）。
+歐洲車型於2013年夏季開始銷售，2013年秋季開始交付。早期車型包括3種發動機（1.2升80PS汽油，1.2升98PS DIG-S汽油，1.5升90PS渦輪柴油），手動或CVT變速箱，3個裝飾等級（Visia，Acenta和Tekna）。
 
 ### 生產
 
@@ -183,8 +155,7 @@ Nissan Versa Note 和 拉丁美洲日產車型在墨西哥阿瓜斯卡連特斯�
 
 ### 日產 Note Medalist (2012–)
 
-它是日產市場上日產Note的一個版本，配備HR12DDR發動機，帶有電鍍門把手，獨家前銀色格柵，獨家前置鍍金保險槓下格柵飾面，獨家MEDALIST標誌，全新設計的獨家可選15英寸鋁輪轂，獨家改裝座椅地板顏色和編織圖案，專屬霧燈獨家Beatnic
-Gold車身顏色，絨面革式座椅和人造皮革，鋼琴般的中央集群裝訂機和真皮包裹的方向盤。
+它是日產市場上日產Note的一個版本，配備HR12DDR發動機，帶有電鍍門把手，獨家前銀色格柵，獨家前置鍍金保險槓下格柵飾面，獨家MEDALIST標誌，全新設計的獨家可選15英寸鋁輪轂，獨家改裝座椅地板顏色和編織圖案，專屬霧燈獨家Beatnic Gold車身顏色，絨面革式座椅和人造皮革，鋼琴般的中央集群裝訂機和真皮包裹的方向盤。
 
 #### 引擎
 
@@ -211,9 +182,7 @@ Gold車身顏色，絨面革式座椅和人造皮革，鋼琴般的中央集群�
 
 更新的車型於2013年第43屆東京車展亮相。
 
-日本車型於2013-12-25開始銷售。 早期的日產Note車型包括S，X，X Aero Style，S DIG-S，X DIG-S，X
-DIG-S Aero Style，MEDALIST。 早期的Autech Note和Note Enchante型號包括X，X DIG-S，X
-FOUR。
+日本車型於2013-12-25開始銷售。 早期的日產Note車型包括S，X，X Aero Style，S DIG-S，X DIG-S，X DIG-S Aero Style，MEDALIST。 早期的Autech Note和Note Enchante型號包括X，X DIG-S，X FOUR。
 
 #### 引擎
 
@@ -222,9 +191,7 @@ FOUR。
 | {{convert|1198|cc|L cuin | abbr=on}} I3 (79PS)              | [HR12DE](https://zh.wikipedia.org/wiki/:en:Nissan_HR_engine#HR12DE "wikilink")   |
 | {{convert|1198|cc|L cuin | abbr=on}} I3 supercharged (98PS) | [HR12DDR](https://zh.wikipedia.org/wiki/:en:Nissan_HR_engine#HR12DDR "wikilink") |
 
-2016年10月24日，雷諾 - 日產首席執行官卡洛斯·戈恩（Carlos Ghosn）在日本日產Note工廠公佈了改進型MY2017
-Note車型，配備了一種名為e-Drive的特殊動力傳動系統。
-它僅使用電動馬達來移動汽車，而汽油發動機則用作發電機，直接驅動電動機，或者當電力過剩時，為電池充電（類似於寶馬的REX）。
+2016年10月24日，雷諾 - 日產首席執行官卡洛斯·戈恩（Carlos Ghosn）在日本日產Note工廠公佈了改進型MY2017 Note車型，配備了一種名為e-Drive的特殊動力傳動系統。 它僅使用電動馬達來移動汽車，而汽油發動機則用作發電機，直接驅動電動機，或者當電力過剩時，為電池充電（類似於寶馬的REX）。
 
 [缩略图](https://zh.wikipedia.org/wiki/File:Nissan_Note_e-POWER_X.jpg "fig:缩略图")
 
@@ -244,8 +211,7 @@ Note車型，配備了一種名為e-Drive的特殊動力傳動系統。
 
 日產於2016年11月2日在日本推出Note e Power新型混合動力系統。
 
-該公司的新型e-Power混合動力系統包括一個小型1.2升三缸汽油發動機（HR12DE）和一個電動牽引電動機（EM57），它與日產Leaf共用，配備一個小得多的電池（1.5
-kWh）比Leaf的。
+該公司的新型e-Power混合動力系統包括一個小型1.2升三缸汽油發動機（HR12DE）和一個電動牽引電動機（EM57），它與日產Leaf共用，配備一個小得多的電池（1.5 kWh）比Leaf的。
 
 但與動力分配式混合動力車不同，它只用電動機推動車輪。 小型發動機只為電池充電。
 
@@ -253,12 +219,6 @@ kWh）比Leaf的。
 
 [日產 Note 香港網頁](https://www.nissan.com.hk/vehicles/new/note.html)
 
-上述資料由 <https://en.wikipedia.org/wiki/Nissan_Note>
-轉載、翻譯、修正、更新，並給予NOTE的支持者及其他人參考。如資料有誤，歡迎更正。
+上述資料由 <https://en.wikipedia.org/wiki/Nissan_Note> 轉載、翻譯、修正、更新，並給予NOTE的支持者及其他人參考。如資料有誤，歡迎更正。
 
-[Category:日產車輛](https://zh.wikipedia.org/wiki/Category:日產車輛 "wikilink")
-[Category:迷你多功能休旅車](https://zh.wikipedia.org/wiki/Category:迷你多功能休旅車 "wikilink")
-[Category:前輪驅動](https://zh.wikipedia.org/wiki/Category:前輪驅動 "wikilink")
-[Category:2000年代汽車](https://zh.wikipedia.org/wiki/Category:2000年代汽車 "wikilink")
-[Category:2004年面世的汽車](https://zh.wikipedia.org/wiki/Category:2004年面世的汽車 "wikilink")
-[Category:好設計獎](https://zh.wikipedia.org/wiki/Category:好設計獎 "wikilink")
+[Category:日產車輛](https://zh.wikipedia.org/wiki/Category:日產車輛 "wikilink") [Category:迷你多功能休旅車](https://zh.wikipedia.org/wiki/Category:迷你多功能休旅車 "wikilink") [Category:前輪驅動](https://zh.wikipedia.org/wiki/Category:前輪驅動 "wikilink") [Category:2000年代汽車](https://zh.wikipedia.org/wiki/Category:2000年代汽車 "wikilink") [Category:2004年面世的汽車](https://zh.wikipedia.org/wiki/Category:2004年面世的汽車 "wikilink") [Category:好設計獎](https://zh.wikipedia.org/wiki/Category:好設計獎 "wikilink")

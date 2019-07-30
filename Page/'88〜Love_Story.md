@@ -1,11 +1,9 @@
-「**'88〜Love Story／Love
-Ya**」是[日本](../Page/日本.md "wikilink")[音樂組合](../Page/音樂組合.md "wikilink")[B'z的](../Page/B'z.md "wikilink")[吉他手](https://zh.wikipedia.org/wiki/吉他手 "wikilink")[松本孝弘於](../Page/松本孝弘.md "wikilink")[1991年](../Page/1991年.md "wikilink")[9月25日發行的](../Page/9月25日.md "wikilink")1st單曲。
+「**'88〜Love Story／Love Ya**」是[日本](../Page/日本.md "wikilink")[音樂組合](../Page/音樂組合.md "wikilink")[B'z](../Page/B'z.md "wikilink")的[吉他手](https://zh.wikipedia.org/wiki/吉他手 "wikilink")[松本孝弘](../Page/松本孝弘.md "wikilink")於[1991年](../Page/1991年.md "wikilink")[9月25日](../Page/9月25日.md "wikilink")發行的1st單曲。
 
 ## 概要
 
   - 首張SOLO單曲。
-  - 於[1992年播放的](../Page/1992年.md "wikilink")『』上，披露了本單曲的收錄曲「Love
-    Ya」與B'z的「[BLOWIN'](../Page/BLOWIN'.md "wikilink")」。
+  - 於[1992年](../Page/1992年.md "wikilink")播放的『』上，披露了本單曲的收錄曲「Love Ya」與B'z的「[BLOWIN'](../Page/BLOWIN'.md "wikilink")」。
   - 曲順表記並非「Beat \#」，而是採用了「Pick up」這樣的表記方式。
 
 ## 收錄曲
@@ -33,19 +31,12 @@ Ya**」是[日本](../Page/日本.md "wikilink")[音樂組合](../Page/音樂組
 
 **'88〜Love Story**
 
-  - [Wanna Go
-    Home](https://zh.wikipedia.org/wiki/Wanna_Go_Home "wikilink")（專輯版）
-  - [Thousand Wave
-    Plus](https://zh.wikipedia.org/wiki/Thousand_Wave "wikilink")
+  - [Wanna Go Home](https://zh.wikipedia.org/wiki/Wanna_Go_Home "wikilink")（專輯版）
+  - [Thousand Wave Plus](https://zh.wikipedia.org/wiki/Thousand_Wave "wikilink")
 
 **Love Ya**
 
-  - [Wanna Go
-    Home](https://zh.wikipedia.org/wiki/Wanna_Go_Home "wikilink")（專輯版）
-  - [Thousand Wave
-    Plus](https://zh.wikipedia.org/wiki/Thousand_Wave "wikilink")
+  - [Wanna Go Home](https://zh.wikipedia.org/wiki/Wanna_Go_Home "wikilink")（專輯版）
+  - [Thousand Wave Plus](https://zh.wikipedia.org/wiki/Thousand_Wave "wikilink")
 
-[Category:1991年單曲](https://zh.wikipedia.org/wiki/Category:1991年單曲 "wikilink")
-[Category:松本孝弘樂曲](https://zh.wikipedia.org/wiki/Category:松本孝弘樂曲 "wikilink")
-[Category:食品廣告歌曲](https://zh.wikipedia.org/wiki/Category:食品廣告歌曲 "wikilink")
-[Category:BMG_JAPAN樂曲](https://zh.wikipedia.org/wiki/Category:BMG_JAPAN樂曲 "wikilink")
+[Category:1991年單曲](https://zh.wikipedia.org/wiki/Category:1991年單曲 "wikilink") [Category:松本孝弘樂曲](https://zh.wikipedia.org/wiki/Category:松本孝弘樂曲 "wikilink") [Category:食品廣告歌曲](https://zh.wikipedia.org/wiki/Category:食品廣告歌曲 "wikilink") [Category:BMG_JAPAN樂曲](https://zh.wikipedia.org/wiki/Category:BMG_JAPAN樂曲 "wikilink")

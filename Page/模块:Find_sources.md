@@ -1,14 +1,8 @@
-\-- This module implements  and other similar templates, and -- also
-provides a mechanism to easily create new source-finding templates.
+\-- This module implements  and other similar templates, and -- also provides a mechanism to easily create new source-finding templates.
 
-\-- Define constants local ROOT_PAGE = 'Module:Find sources' local
-TEMPLATE_ROOT = ROOT_PAGE .. '/templates/' -- for template config
-modules local LINK_ROOT = ROOT_PAGE .. '/links/' -- for link config
-modules local CONFIG_PAGE = ROOT_PAGE .. '/config' -- for global
-config
+\-- Define constants local ROOT_PAGE = 'Module:Find sources' local TEMPLATE_ROOT = ROOT_PAGE .. '/templates/' -- for template config modules local LINK_ROOT = ROOT_PAGE .. '/links/' -- for link config modules local CONFIG_PAGE = ROOT_PAGE .. '/config' -- for global config
 
-\-- Load required modules local checkType =
-require('libraryUtil').checkType local cfg = mw.loadData(CONFIG_PAGE)
+\-- Load required modules local checkType = require('libraryUtil').checkType local cfg = mw.loadData(CONFIG_PAGE)
 
 local p = {}
 
@@ -170,8 +164,7 @@ setmetatable(p, { __index = function(t, template)
 
 `   -- The main access point from #invoke.`
 `   -- Invocations will look like {{#invoke:Find sources|template name}},`
-`   -- where "template name" is a subpage of `[`Module:Find``
- ``sources/templates`](https://zh.wikipedia.org/wiki/Module:Find_sources/templates "wikilink")`.`
+`   -- where "template name" is a subpage of `[`Module:Find``   ``sources/templates`](https://zh.wikipedia.org/wiki/Module:Find_sources/templates "wikilink")`.`
 `   local tname = template`
 `   if tname:sub(-8) == '/sandbox' then`
 `       -- This makes `` work.`

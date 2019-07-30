@@ -1,6 +1,4 @@
-《**RBB**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Red
-Velvet的第五張韓語迷你專輯](../Page/Red_Velvet.md "wikilink")，由[SM
-Entertainment企劃並於](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")2018年11月30日發行。
+《**RBB**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Red Velvet的第五張韓語迷你專輯](../Page/Red_Velvet.md "wikilink")，由[SM Entertainment企劃並於](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")2018年11月30日發行。
 
 ## 背景與預告
 
@@ -85,10 +83,7 @@ Entertainment企劃並於](https://zh.wikipedia.org/wiki/SM_Entertainment "wikil
 
 ## 參考文獻
 
-[Category:2018年迷你專輯](https://zh.wikipedia.org/wiki/Category:2018年迷你專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:Red_Velvet歌曲](https://zh.wikipedia.org/wiki/Category:Red_Velvet歌曲 "wikilink")
-[Category:Red_Velvet音樂專輯](https://zh.wikipedia.org/wiki/Category:Red_Velvet音樂專輯 "wikilink")
+[Category:2018年迷你專輯](https://zh.wikipedia.org/wiki/Category:2018年迷你專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:Red_Velvet歌曲](https://zh.wikipedia.org/wiki/Category:Red_Velvet歌曲 "wikilink") [Category:Red_Velvet音樂專輯](https://zh.wikipedia.org/wiki/Category:Red_Velvet音樂專輯 "wikilink")
 
 1.
 2.

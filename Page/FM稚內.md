@@ -1,5 +1,4 @@
-**FM稚內**（）是位於日本[北海道](../Page/北海道.md "wikilink")[稚內市的廣播電台](../Page/稚內市.md "wikilink")，透過[調頻廣播向](https://zh.wikipedia.org/wiki/調頻廣播 "wikilink")[北海道](../Page/北海道.md "wikilink")[稚內市](../Page/稚內市.md "wikilink")、[禮文郡](../Page/禮文郡.md "wikilink")[禮文町](../Page/禮文町.md "wikilink")、[利尻郡](../Page/利尻郡.md "wikilink")[利尻富士町和](../Page/利尻富士町.md "wikilink")[利尻町部分區域放送](../Page/利尻町.md "wikilink")，又被簡稱為「**FM
-Wappy〜**」（）。
+**FM稚內**（）是位於日本[北海道](../Page/北海道.md "wikilink")[稚內市](../Page/稚內市.md "wikilink")的廣播電台，透過[調頻廣播向](https://zh.wikipedia.org/wiki/調頻廣播 "wikilink")[北海道](../Page/北海道.md "wikilink")[稚內市](../Page/稚內市.md "wikilink")、[禮文郡](../Page/禮文郡.md "wikilink")[禮文町](../Page/禮文町.md "wikilink")、[利尻郡](../Page/利尻郡.md "wikilink")[利尻富士町](../Page/利尻富士町.md "wikilink")和[利尻町](../Page/利尻町.md "wikilink")部分區域放送，又被簡稱為「**FM Wappy〜**」（）。
 
 ## 概要
 
@@ -57,14 +56,12 @@ Wappy〜**」（）。
       - 6月26日 - 取得放送局（現特定地上基幹放送局）的證照\[3\]、空中線電力為10W，放送區域為部分稚內市
       - 7月1日 - 開局
   - 1999年11月1日 - 空中線電力增為20W\[4\]，放送區域擴大至稚內市其他區域
-  - 2011年4月1日 -
-    加入SimulRadio，並於前日3月31日以試驗放送的名義使用[串流媒體播出直播節目](https://zh.wikipedia.org/wiki/串流媒體 "wikilink")
+  - 2011年4月1日 - 加入SimulRadio，並於前日3月31日以試驗放送的名義使用[串流媒體播出直播節目](https://zh.wikipedia.org/wiki/串流媒體 "wikilink")
   - 2012年3月 - 空中線電力增為50W，放送區域擴展至禮文町及利尻富士町部分區域\[5\]
-      - 依據[告示](https://zh.wikipedia.org/wiki/告示 "wikilink")第1項第1號，原則上規定社區廣播的空中線電力為20W。若要擴大電台收聽範圍，則必須增設相當數量的轉播站，所需經費也隨之高漲，因此向[總務省陳情希望放寬空中線電力的限制](../Page/總務省.md "wikilink")\[6\]。FM稚內的空中線電力超過20W，也是日本國內的社區廣播首例。
+      - 依據[告示](https://zh.wikipedia.org/wiki/告示 "wikilink")第1項第1號，原則上規定社區廣播的空中線電力為20W。若要擴大電台收聽範圍，則必須增設相當數量的轉播站，所需經費也隨之高漲，因此向[總務省](../Page/總務省.md "wikilink")陳情希望放寬空中線電力的限制\[6\]。FM稚內的空中線電力超過20W，也是日本國內的社區廣播首例。
   - 2017年
       - 11月4日 - 利尻轉播局完成紀念特別節目於利尻町進行直播\[7\]
-      - 12月14日 -
-        取得利尻轉播局的證照，播放範圍增加[利尻町部分區域](../Page/利尻町.md "wikilink")\[8\]
+      - 12月14日 - 取得利尻轉播局的證照，播放範圍增加[利尻町](../Page/利尻町.md "wikilink")部分區域\[8\]
           - 雖然原則上社區廣播以一市町村為對象發行證照，但若與鄰近區域具備社區一體性，則可合併共用\[9\]。
   - 2018年
       - 2月27日 - 「FM聽」服務開始\[10\]
@@ -79,9 +76,7 @@ Wappy〜**」（）。
   - **寄ろう！寄ろう！イオンへＧＯ！！** (金 11:00～12:00)
   - **Swing Beat Jam** (一～五 15:00～17:30)
   - **イブニング・タイムズ** (一～五 17:30～18:00)
-  - **デジたる？！** (二 19:00～20:00
-    [稚内北星学園大学新館](https://zh.wikipedia.org/wiki/稚内北星学園大学 "wikilink")2階スタジオから生放送
-    )
+  - **デジたる？！** (二 19:00～20:00 [稚内北星学園大学新館](https://zh.wikipedia.org/wiki/稚内北星学園大学 "wikilink")2階スタジオから生放送 )
   - **フライデーばっふらないと** (每月最終星期五 20:00～22:00)
   - **ぐるっとお出かけdondon土曜日** (六 9:00～13:00)
   - **気ままにサンデー** (日 11:00～12:00)
@@ -100,49 +95,32 @@ Wappy〜**」（）。
   -
   - [CSRA](http://csra.fm/blog/author/wappy761/)
 
-[Category:日本廣播電台](https://zh.wikipedia.org/wiki/Category:日本廣播電台 "wikilink")
-[Category:稚內市](https://zh.wikipedia.org/wiki/Category:稚內市 "wikilink")
-[Category:1996年日本建立](https://zh.wikipedia.org/wiki/Category:1996年日本建立 "wikilink")
-[Category:1996年成立的公司](https://zh.wikipedia.org/wiki/Category:1996年成立的公司 "wikilink")
+[Category:日本廣播電台](https://zh.wikipedia.org/wiki/Category:日本廣播電台 "wikilink") [Category:稚內市](https://zh.wikipedia.org/wiki/Category:稚內市 "wikilink") [Category:1996年日本建立](https://zh.wikipedia.org/wiki/Category:1996年日本建立 "wikilink") [Category:1996年成立的公司](https://zh.wikipedia.org/wiki/Category:1996年成立的公司 "wikilink")
 
-1.  [FMわっぴ～が移転しました！](http://www.wappy761.jp/djblog/2018/04/fm-1.shtml)
-    FMわっぴ～ パーソナリティーブログ杉谷賢俊 2018年4月19日
+1.  [FMわっぴ～が移転しました！](http://www.wappy761.jp/djblog/2018/04/fm-1.shtml) FMわっぴ～ パーソナリティーブログ杉谷賢俊 2018年4月19日
 
 2.
-3.  [稚内市のコミュニティ放送局に免許](http://warp.da.ndl.go.jp/info:ndljp/pid/286922/www.soumu.go.jp/soutsu/hokkaido/C/C96/c96.htm#7)
-    北海道電気通信監理局 報道資料
-    平成8年6月28日（[國立國會圖書館のアーカイブ](../Page/國立國會圖書館.md "wikilink"):2009年7月22日収集）
+3.  [稚内市のコミュニティ放送局に免許](http://warp.da.ndl.go.jp/info:ndljp/pid/286922/www.soumu.go.jp/soutsu/hokkaido/C/C96/c96.htm#7) 北海道電気通信監理局 報道資料 平成8年6月28日（[國立國會圖書館](../Page/國立國會圖書館.md "wikilink")のアーカイブ:2009年7月22日収集）
 
-4.  [稚内コミュニティ放送局が出力アップ！！](http://warp.da.ndl.go.jp/info:ndljp/pid/286922/www.soumu.go.jp/soutsu/hokkaido/C/C99/c991101.htm)
-    同上 報道資料 平成11年11月1日（同上:同日収集）
+4.  [稚内コミュニティ放送局が出力アップ！！](http://warp.da.ndl.go.jp/info:ndljp/pid/286922/www.soumu.go.jp/soutsu/hokkaido/C/C99/c991101.htm) 同上 報道資料 平成11年11月1日（同上:同日収集）
 
-5.  [利尻町エリアでコミュニティFMが本放送開始 − エフエムわっかない利尻中継局に免許
-    −](http://warp.da.ndl.go.jp/info:ndljp/pid/11036692/www.soumu.go.jp/soutsu/hokkaido/2017/1214r.html)
-    北海道総合通信局 報道資料 平成29年12月14日（同上:2018年1月4日収集）
+5.  [利尻町エリアでコミュニティFMが本放送開始 − エフエムわっかない利尻中継局に免許 −](http://warp.da.ndl.go.jp/info:ndljp/pid/11036692/www.soumu.go.jp/soutsu/hokkaido/2017/1214r.html) 北海道総合通信局 報道資料 平成29年12月14日（同上:2018年1月4日収集）
 
-6.  [放送普及基本計画の一部改正案等に対し提出された意見及び総務省の考え方](http://warp.da.ndl.go.jp/info:ndljp/pid/8406622/www.soumu.go.jp/main_content/000025617.pdf)No.58株式会社エフエムわっかないおよびNo.10稚内市　放送普及基本計画の一部変更案に係る電波監理審議会の答申及び意見募集の結果－コミュニティ放送に係る規定の整備－
-    総務省 報道資料 平成21年6月10日の別紙（同上:2014年1月7日収集）
+6.  [放送普及基本計画の一部改正案等に対し提出された意見及び総務省の考え方](http://warp.da.ndl.go.jp/info:ndljp/pid/8406622/www.soumu.go.jp/main_content/000025617.pdf)No.58株式会社エフエムわっかないおよびNo.10稚内市　放送普及基本計画の一部変更案に係る電波監理審議会の答申及び意見募集の結果－コミュニティ放送に係る規定の整備－ 総務省 報道資料 平成21年6月10日の別紙（同上:2014年1月7日収集）
 
-7.  [利尻へGO！](https://web.archive.org/web/20171107165816/http://www.wappy761.jp/information/go.shtml)
-    FMわっぴ～ 新着情報一覧 2017年11月4日（[Internet
-    Archiveのアーカイブ](https://zh.wikipedia.org/wiki/Internet_Archive "wikilink"):2017年11月7日収集）
+7.  [利尻へGO！](https://web.archive.org/web/20171107165816/http://www.wappy761.jp/information/go.shtml) FMわっぴ～ 新着情報一覧 2017年11月4日（[Internet Archiveのアーカイブ](https://zh.wikipedia.org/wiki/Internet_Archive "wikilink"):2017年11月7日収集）
 
 8.
 9.  （注）10（e-Gov法令検索）
 
-10. [スマホアプリが出来ました！](http://www.wappy761.jp/information/post-119.shtml)
-    FMわっぴ～ 新着情報一覧 2018年2月27日
+10. [スマホアプリが出来ました！](http://www.wappy761.jp/information/post-119.shtml) FMわっぴ～ 新着情報一覧 2018年2月27日
 
-11. [スタジオ移転に伴うお知らせ](http://www.wappy761.jp/information/post-123.shtml)
-    同上 2018年4月2日
+11. [スタジオ移転に伴うお知らせ](http://www.wappy761.jp/information/post-123.shtml) 同上 2018年4月2日
 
-12. [遊びに来て下さい！](http://www.wappy761.jp/information/post-126.shtml) 同上
-    2018年4月14日
+12. [遊びに来て下さい！](http://www.wappy761.jp/information/post-126.shtml) 同上 2018年4月14日
 
-13. [利尻町全域でコミュニティFMが聴取可能に](http://www.soumu.go.jp/soutsu/hokkaido/2018/1016.html)
-    - 総務省北海道総合通信局、2018年10月16日配信、2018年10月17日閲覧
+13. [利尻町全域でコミュニティFMが聴取可能に](http://www.soumu.go.jp/soutsu/hokkaido/2018/1016.html) - 総務省北海道総合通信局、2018年10月16日配信、2018年10月17日閲覧
 
 14.  広報わっかない2013年10月号p.4（国立国会図書館のアーカイブ:2013年10月16日収集）
 
-15. [緊急告知防災ラジオについて](http://warp.da.ndl.go.jp/info:ndljp/pid/8232090/www.city.wakkanai.hokkaido.jp/kurashi/bosaibohankotsuanzen/bosai/radio.html)
-    稚内市（同上:2013年7月6日収集）
+15. [緊急告知防災ラジオについて](http://warp.da.ndl.go.jp/info:ndljp/pid/8232090/www.city.wakkanai.hokkaido.jp/kurashi/bosaibohankotsuanzen/bosai/radio.html) 稚内市（同上:2013年7月6日収集）

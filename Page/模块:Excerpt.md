@@ -1,8 +1,6 @@
 local p = {} local mRedirect = require('Module:Redirect')
 
-\-- Get a redirect target (or nil if not a redirect) without using the
-expensive title object property .isRedirect local function
-getRedirectTarget(titleObject)
+\-- Get a redirect target (or nil if not a redirect) without using the expensive title object property .isRedirect local function getRedirectTarget(titleObject)
 
 `   local content = titleObject:getContent()`
 `   if not content then return nil end`
@@ -10,16 +8,14 @@ getRedirectTarget(titleObject)
 
 end
 
-local errors -- Return blank text, or an error message if requested
-local function err(text)
+local errors -- Return blank text, or an error message if requested local function err(text)
 
 `   if errors then error(text, 2) end`
 `   return ""`
 
 end
 
-\-- In text, match pre..list\[1\]..post or pre..list\[2\]..post or ...
-local function matchany(text, pre, list, post)
+\-- In text, match pre..list\[1\]..post or pre..list\[2\]..post or ... local function matchany(text, pre, list, post)
 
 `   local match`
 `   for i = 1, #list do`
@@ -30,10 +26,7 @@ local function matchany(text, pre, list, post)
 
 end
 
-\-- Get a page's content, following redirects, and processing file
-description pages for files. -- Also returns the page name, or the
-target page name if a redirect was followed, or false if no page found
-local function getContent(page, frame)
+\-- Get a page's content, following redirects, and processing file description pages for files. -- Also returns the page name, or the target page name if a redirect was followed, or false if no page found local function getContent(page, frame)
 
 `   local title = mw.title.new(page) -- Read description page (for :`<File:Foo>` rather than `<File:Foo>`)`
 `   if not title then return false, false end`
@@ -65,11 +58,7 @@ end
 
 end
 
-\-- Attempt to parse
-[File:...](https://zh.wikipedia.org/wiki/File:... "fig:File:...") or
-[Image:...](https://zh.wikipedia.org/wiki/File:... "fig:Image:..."),
-either anywhere (start=false) or at the start only (start=true) local
-function parseimage(text, start)
+\-- Attempt to parse [File:...](https://zh.wikipedia.org/wiki/File:... "fig:File:...") or [Image:...](https://zh.wikipedia.org/wiki/File:... "fig:Image:..."), either anywhere (start=false) or at the start only (start=true) local function parseimage(text, start)
 
 `   local startre = ""`
 `   if start then startre = "^" end -- a true flag restricts search to start of string`
@@ -81,9 +70,7 @@ function parseimage(text, start)
 
 end
 
-\-- Parse a caption, which ends at a | (end of parameter) or } (end of
-infobox) but may contain nested \[..\] and {..} local function
-parsecaption(caption)
+\-- Parse a caption, which ends at a | (end of parameter) or } (end of infobox) but may contain nested \[..\] and {..} local function parsecaption(caption)
 
 `   if not caption then return nil end`
 `   local len = mw.ustring.len(caption)`
@@ -105,9 +92,7 @@ parsecaption(caption)
 
 end
 
-\-- Attempt to construct a
-[File:...](https://zh.wikipedia.org/wiki/File:... "fig:File:...") block
-from  local function argimage(text)
+\-- Attempt to construct a [File:...](https://zh.wikipedia.org/wiki/File:... "fig:File:...") block from  local function argimage(text)
 
 `   local token = nil`
 `   local hasNamedArgs = mw.ustring.find(text, "|") and mw.ustring.find(text, "=")`
@@ -241,21 +226,18 @@ from  local function argimage(text)
 
 end
 
-\-- Help gsub convert imagemaps into standard images local function
-convertImagemap(imagemap)
+\-- Help gsub convert imagemaps into standard images local function convertImagemap(imagemap)
 
 `   local image = matchany(imagemap, "[>\n]%s*", {"[Ii]mage:", "[Ff]ile:"}, "[^\n]*")`
 `   if image then`
-`       return "
-[["_.._mw.ustring.gsub(image,_"[>/n]%s*",_"",_1)_.._"|" .. mw.ustring.gsub(image, "[>\n]%s*", "", 1) .. "]]"`
+`       return " [["_.._mw.ustring.gsub(image,_"[>/n]%s*",_"",_1)_.._"|" .. mw.ustring.gsub(image, "[>\n]%s*", "", 1) .. "]]"`
 `   else`
 `       return "" -- remove entire block if image can't be extracted`
 `   end`
 
 end
 
-\-- Help gsub to remove unwanted templates local function
-striptemplate(t)
+\-- Help gsub to remove unwanted templates local function striptemplate(t)
 
 `   -- If template is unwanted then return "" (gsub will replace by nothing), else return nil (gsub will keep existing string)`
 `   local unwanted = {"[Ee]fn", "[Ee]fn%-[lu]a", "[Ee]l[mn]", "[Rr]p?", "[Ss]fn[bmp]", "[Ss]f[bn]", "NoteTag", "#[Tt]ag:%s*[Rr]ef", "[Rr]efn?",`
@@ -282,9 +264,7 @@ striptemplate(t)
 
 end
 
-\-- Convert a comma-separated list of numbers or min-max ranges into a
-list of booleans, e.g. "1,3-5" → {1=true,2=false,3=true,4=true,5=true}
-local function numberflags(str)
+\-- Convert a comma-separated list of numbers or min-max ranges into a list of booleans, e.g. "1,3-5" → {1=true,2=false,3=true,4=true,5=true} local function numberflags(str)
 
 `   local ranges = mw.text.split(str, ",") -- parse ranges, e.g. "1,3-5" → {"1","3-5"}`
 `   local flags = {}`
@@ -299,17 +279,7 @@ local function numberflags(str)
 
 end
 
-\-- a basic parser to trim down extracted wikitext -- @param text :
-Wikitext to be processed -- @param options : A table of options... --
-options.paraflags : Which number paragraphs to keep, as either a string
-(e.g. \`1,3-5\`) or a table (e.g.
-\`{1=true,2=false,3=true,4=true,5=true}\`. If not present, all
-paragraphs will be kept. -- options.fileflags : table of which files to
-keep, as either a string (e.g. \`1,3-5\`) or a table (e.g.
-\`{1=true,2=false,3=true,4=true,5=true}\` -- options.fileargs : args for
-the [File:](https://zh.wikipedia.org/wiki/File: "wikilink") syntax, such
-as \`left\` -- @param filesOnly : If set, only return the files and not
-the prose local function parse(text, options, filesOnly)
+\-- a basic parser to trim down extracted wikitext -- @param text : Wikitext to be processed -- @param options : A table of options... -- options.paraflags : Which number paragraphs to keep, as either a string (e.g. \`1,3-5\`) or a table (e.g. \`{1=true,2=false,3=true,4=true,5=true}\`. If not present, all paragraphs will be kept. -- options.fileflags : table of which files to keep, as either a string (e.g. \`1,3-5\`) or a table (e.g. \`{1=true,2=false,3=true,4=true,5=true}\` -- options.fileargs : args for the [File:](https://zh.wikipedia.org/wiki/File: "wikilink") syntax, such as \`left\` -- @param filesOnly : If set, only return the files and not the prose local function parse(text, options, filesOnly)
 
 `   local allparas = true -- keep all paragraphs?`
 `   if options.paraflags then`
@@ -430,8 +400,7 @@ local function cleanupText(text, leadOnly)
 
 end
 
-\-- Parse a ==Section== from a page local function getsection(text,
-section, mainonly)
+\-- Parse a ==Section== from a page local function getsection(text, section, mainonly)
 
 `   local level, content = mw.ustring.match(text .. "\n", "\n(==+)%s*" .. section .. "%s*==.-\n(.*)")`
 `   if not content then return nil end -- no such section`
@@ -446,8 +415,7 @@ section, mainonly)
 
 end
 
-\-- Main function returns a string value: text of the lead of a page
-local function main(pagenames, options)
+\-- Main function returns a string value: text of the lead of a page local function main(pagenames, options)
 
 `   if not pagenames or #pagenames < 1 then return err("No page names given") end`
 `   local pagename`
@@ -488,38 +456,27 @@ local function main(pagenames, options)
 
 `   -- replace the bold title or synonym near the start of the article by a wikilink to the article`
 `   local lang = mw.language.getContentLanguage()`
-`   local pos = mw.ustring.find(text, "`**`"``   ``..``
- ``lang:ucfirst(pagename)``   ``..``
- ``"`**`", 1, true) -- look for "`**`Foo`**` is..." (uc) or "A `**`foo`**` is..." (lc)`
-`    or mw.ustring.find(text, "`**`"``   ``..``
- ``lang:lcfirst(pagename)``   ``..``
- ``"`**`", 1, true) -- plain search: special characters in pagename represent themselves`
+`   local pos = mw.ustring.find(text, "`**`"``   ``..``   ``lang:ucfirst(pagename)``   ``..``   ``"`**`", 1, true) -- look for "`**`Foo`**` is..." (uc) or "A `**`foo`**` is..." (lc)`
+`    or mw.ustring.find(text, "`**`"``   ``..``   ``lang:lcfirst(pagename)``   ``..``   ``"`**`", 1, true) -- plain search: special characters in pagename represent themselves`
 `   if pos then`
 `       local len = mw.ustring.len(pagename)`
-`       text = mw.ustring.sub(text, 1, pos + 2) .. "`[`"``   ``..``
- ``mw.ustring.sub(text,``   ``pos``   ``+``   ``3,``   ``pos``   ``+``
- ``len``   ``+``   ``2)``   ``..``
- ``"`](https://zh.wikipedia.org/wiki/"_.._mw.ustring.sub\(text,_pos_+_3,_pos_+_len_+_2\)_.._" "wikilink")`" .. mw.ustring.sub(text, pos + len + 3, -1) -- link it`
+`       text = mw.ustring.sub(text, 1, pos + 2) .. "`[`"``   ``..``   ``mw.ustring.sub(text,``   ``pos``   ``+``   ``3,``   ``pos``   ``+``   ``len``   ``+``   ``2)``   ``..``   ``"`](https://zh.wikipedia.org/wiki/"_.._mw.ustring.sub\(text,_pos_+_3,_pos_+_len_+_2\)_.._" "wikilink")`" .. mw.ustring.sub(text, pos + len + 3, -1) -- link it`
 `   else -- look for anything unlinked in bold, assumed to be a synonym of the title (e.g. a person's birth name)`
 `       text = mw.ustring.gsub(text, "(.-`**`)(.-'*)`**`", function(a, b)`
 `           if mw.ustring.len(a) < 100 + (leadstart or 0) and not mw.ustring.find(b, "%[") then ---if early in article and not wikilinked`
-`               return a .. "`[`"``   ``..``   ``b``   ``..``
- ``"`](https://zh.wikipedia.org/wiki/"_.._pagename_.._" "wikilink")`'''" -- replace `**`Foo`**` by '''`[`Foo`](https://zh.wikipedia.org/wiki/pagename "wikilink")
+`               return a .. "`[`"``   ``..``   ``b``   ``..``   ``"`](https://zh.wikipedia.org/wiki/"_.._pagename_.._" "wikilink")`'''" -- replace `**`Foo`**` by '''`[`Foo`](https://zh.wikipedia.org/wiki/pagename "wikilink")
 `           else`
 `               return nil -- instruct gsub to make no change`
 `           end`
 `        end, 1) -- "end" here terminates the anonymous replacement function(a, b) passed to gsub`
 `   end`
 
-`   if options.more then text = text .. " `**[`"``   ``..``
- ``options.more``   ``..``
- ``"`](https://zh.wikipedia.org/wiki/"_.._pagename_.._" "wikilink")**`" end -- wikilink to article for more info`
+`   if options.more then text = text .. " `**[`"``   ``..``   ``options.more``   ``..``   ``"`](https://zh.wikipedia.org/wiki/"_.._pagename_.._" "wikilink")**`" end -- wikilink to article for more info`
 `   return text`
 
 end
 
-\-- Shared template invocation code for lead and random functions local
-function invoke(frame, func)
+\-- Shared template invocation code for lead and random functions local function invoke(frame, func)
 
 `   -- args = { 1,2,... = page names, paragraphs = list e.g. "1,3-5", files = list, more = text}`
 `   local args = {} -- args[k] = frame.args[k] or frame:getParent().args[k] for all k in either (numeric or not)`
@@ -578,26 +535,8 @@ function invoke(frame, func)
 
 end
 
-\-- Entry points for template callers using \#invoke: function
-p.lead(frame) return invoke(frame, "lead") end --  reads the first and
-only article function p.linked(frame) return invoke(frame, "linked") end
---  reads a randomly selected article linked from the given page
-function p.listitem(frame) return invoke(frame, "listitem") end --
-reads a randomly selected article listed on the given page function
-p.random(frame) return invoke(frame, "random") end --  reads any article
-(default for invoke with one argument) function p.selected(frame) return
-invoke(frame, "selected") end --  reads the article whose key is in the
-selected= parameter
+\-- Entry points for template callers using \#invoke: function p.lead(frame) return invoke(frame, "lead") end --  reads the first and only article function p.linked(frame) return invoke(frame, "linked") end --  reads a randomly selected article linked from the given page function p.listitem(frame) return invoke(frame, "listitem") end --  reads a randomly selected article listed on the given page function p.random(frame) return invoke(frame, "random") end --  reads any article (default for invoke with one argument) function p.selected(frame) return invoke(frame, "selected") end --  reads the article whose key is in the selected= parameter
 
-\-- Entry points for other Lua modules function p.getContent(page,
-frame) return getContent(page, frame) end function p.getsection(text,
-section) return getsection(text, section) end function p.parse(text,
-options, filesOnly) return parse(text, options, filesOnly) end function
-p.argimage(text) return argimage(text) end function p.checkimage(image)
-return checkimage(image) end function p.parseimage(text, start) return
-parseimage(text, start) end function p.cleanupText(text, leadOnly)
-return cleanupText(text, leadOnly) end function p.main(pagenames,
-options) return main(pagenames, options) end function p.numberflags(str)
-return numberflags(str) end
+\-- Entry points for other Lua modules function p.getContent(page, frame) return getContent(page, frame) end function p.getsection(text, section) return getsection(text, section) end function p.parse(text, options, filesOnly) return parse(text, options, filesOnly) end function p.argimage(text) return argimage(text) end function p.checkimage(image) return checkimage(image) end function p.parseimage(text, start) return parseimage(text, start) end function p.cleanupText(text, leadOnly) return cleanupText(text, leadOnly) end function p.main(pagenames, options) return main(pagenames, options) end function p.numberflags(str) return numberflags(str) end
 
 return p

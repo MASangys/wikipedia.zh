@@ -1,4 +1,4 @@
-**絨巴文**（Lepcha，又譯作**雷布查字母**）是一個[Unicode區段](../Page/Unicode區段.md "wikilink")，收錄了用於書寫的文字－絨巴文。這種語言通行於[印度](../Page/印度.md "wikilink")[西孟加拉邦與](../Page/西孟加拉邦.md "wikilink")[錫金邦](https://zh.wikipedia.org/wiki/錫金邦 "wikilink")。
+**絨巴文**（Lepcha，又譯作**雷布查字母**）是一個[Unicode區段](../Page/Unicode區段.md "wikilink")，收錄了用於書寫的文字－絨巴文。這種語言通行於[印度](../Page/印度.md "wikilink")[西孟加拉邦](../Page/西孟加拉邦.md "wikilink")與[錫金邦](https://zh.wikipedia.org/wiki/錫金邦 "wikilink")。
 
 ## 歷史
 

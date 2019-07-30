@@ -2,15 +2,11 @@
 
 ## 历史
 
-IAPTI 总部设在阿根廷的布宜诺斯艾利斯，于2009年9月30日的圣杰罗姆节成立。\[1\]
-它是由专业语言调解员组成的小组，作为促进翻译和口译道德操守，并为讨论全球化的典型问题提供了一个论坛，如翻译业的众包、外包、差价和其他实践应用问题等等。\[2\]\[3\]
-技术伦理问题对 IAPTI 很重要，比如将语言专业人士当作机器翻译文本的廉价校对者。
+IAPTI 总部设在阿根廷的布宜诺斯艾利斯，于2009年9月30日的圣杰罗姆节成立。\[1\] 它是由专业语言调解员组成的小组，作为促进翻译和口译道德操守，并为讨论全球化的典型问题提供了一个论坛，如翻译业的众包、外包、差价和其他实践应用问题等等。\[2\]\[3\] 技术伦理问题对 IAPTI 很重要，比如将语言专业人士当作机器翻译文本的廉价校对者。
 
 它由阿根廷同声翻译、北美西班牙语学院通讯会员、市场专家奥罗拉 · 胡马恩创立的。\[4\]\[5\]\[6\]
 
-IAPTI 在布宜诺斯艾利斯市(阿根廷)申请注册为民间协会。
-它以"国际专业笔译和口译员协会"的名义进行的法律登记花了很长时间与阿根廷司法监察长办公室进行合作。\[7\]
-2017年2月23日，宣布司法监察长最终批准采购处为民间协会。\[8\]
+IAPTI 在布宜诺斯艾利斯市(阿根廷)申请注册为民间协会。 它以"国际专业笔译和口译员协会"的名义进行的法律登记花了很长时间与阿根廷司法监察长办公室进行合作。\[7\] 2017年2月23日，宣布司法监察长最终批准采购处为民间协会。\[8\]
 
 根据其章程，该协会由下列六名主席团成员组成的董事会领导和管理: 主席、副主席、秘书长、财务主任、两名投票委员和两名候补投票委员组成。\[9\]
 
@@ -22,8 +18,7 @@ IAPTI 在布宜诺斯艾利斯市(阿根廷)申请注册为民间协会。
 
 ## 合作机构
 
-2013年，IAPTI 与 AIIC、 Red-t 和 FIT 一道参与了2012年启动的公开信项目。
-后来，国际重要联系组织、国际社区口译发展理事会和[国际手语翻译协会](https://zh.wikipedia.org/wiki/国际手语翻译协会 "wikilink")(WASLI)也加入了这些活动。\[19\]
+2013年，IAPTI 与 AIIC、 Red-t 和 FIT 一道参与了2012年启动的公开信项目。 后来，国际重要联系组织、国际社区口译发展理事会和[国际手语翻译协会](https://zh.wikipedia.org/wiki/国际手语翻译协会 "wikilink")(WASLI)也加入了这些活动。\[19\]
 
 他们发出了公开信，除其他外，讨论了若干问题:
 
@@ -33,9 +28,7 @@ IAPTI 在布宜诺斯艾利斯市(阿根廷)申请注册为民间协会。
 
 ### 私人支持
 
-自2009年以来，来自几个国家的语言专业人士一直是 IAPTI 的积极成员，如口译员托尼•罗萨多(Tony
-Rosado)或学者莫娜•贝克(Mona Baker)。\[23\]\[24\] 此外，IAPTI
-关于翻译和口译人员言论自由的行动得到了新英格兰笔译员协会的支持。\[25\]
+自2009年以来，来自几个国家的语言专业人士一直是 IAPTI 的积极成员，如口译员托尼•罗萨多(Tony Rosado)或学者莫娜•贝克(Mona Baker)。\[23\]\[24\] 此外，IAPTI 关于翻译和口译人员言论自由的行动得到了新英格兰笔译员协会的支持。\[25\]
 
 ## 荣誉会员
 
@@ -65,9 +58,7 @@ Rosado)或学者莫娜•贝克(Mona Baker)。\[23\]\[24\] 此外，IAPTI
 
 [国际翻译工作者联合会](../Page/国际翻译工作者联合会.md "wikilink")
 
-[Category:Articles_with_Spanish-language_external_links](https://zh.wikipedia.org/wiki/Category:Articles_with_Spanish-language_external_links "wikilink")
-[Category:国际专业协会](https://zh.wikipedia.org/wiki/Category:国际专业协会 "wikilink")
-[Category:2009年建立的組織](https://zh.wikipedia.org/wiki/Category:2009年建立的組織 "wikilink")
+[Category:Articles_with_Spanish-language_external_links](https://zh.wikipedia.org/wiki/Category:Articles_with_Spanish-language_external_links "wikilink") [Category:国际专业协会](https://zh.wikipedia.org/wiki/Category:国际专业协会 "wikilink") [Category:2009年建立的組織](https://zh.wikipedia.org/wiki/Category:2009年建立的組織 "wikilink")
 
 1.
 2.
@@ -79,16 +70,13 @@ Rosado)或学者莫娜•贝克(Mona Baker)。\[23\]\[24\] 此外，IAPTI
 8.
 9.
 10.
-11. [IAPTI 2nd
-    Conference](http://eventful.com/athens/events/staff-2nd-iapti-international-conference-/E0-001-071629634-1)
-    at Eventful.com
+11. [IAPTI 2nd Conference](http://eventful.com/athens/events/staff-2nd-iapti-international-conference-/E0-001-071629634-1) at Eventful.com
 12.
 13.
 14.
 15.  （西班牙文）
 16.
-17. [IAPTI 2017 at the Claridge
-    Hotel](https://www.facebook.com/IAPTI2017/?fref=ts)
+17. [IAPTI 2017 at the Claridge Hotel](https://www.facebook.com/IAPTI2017/?fref=ts)
 18.
 19.
 20.

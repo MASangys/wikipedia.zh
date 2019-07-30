@@ -34,8 +34,7 @@
 
 2.
 
-3.   文化 {{\!}} 中央社
-    CNA|url=[https://www.cna.com.tw/news/acul/201810180077.aspx|work=www.cna.com.tw|date=2018-10-18|accessdate=2019-03-31|language=zh-Hant-TW](https://www.cna.com.tw/news/acul/201810180077.aspx%7Cwork=www.cna.com.tw%7Cdate=2018-10-18%7Caccessdate=2019-03-31%7Clanguage=zh-Hant-TW)}}
+3.   文化 {{\!}} 中央社 CNA|url=[https://www.cna.com.tw/news/acul/201810180077.aspx|work=www.cna.com.tw|date=2018-10-18|accessdate=2019-03-31|language=zh-Hant-TW](https://www.cna.com.tw/news/acul/201810180077.aspx%7Cwork=www.cna.com.tw%7Cdate=2018-10-18%7Caccessdate=2019-03-31%7Clanguage=zh-Hant-TW)}}
 
 4.
 

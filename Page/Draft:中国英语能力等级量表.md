@@ -1,5 +1,4 @@
-**中国英语能力等级量表**（，简称：CSE）是由[中华人民共和国](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")[教育部考试中心撰写](https://zh.wikipedia.org/wiki/教育部考试中心 "wikilink")，由[国家语言文字工作委员会语言文字规范标准审定委员会审定](../Page/国家语言文字工作委员会.md "wikilink")。
-\[1\]
+**中国英语能力等级量表**（，简称：CSE）是由[中华人民共和国](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")[教育部考试中心撰写](https://zh.wikipedia.org/wiki/教育部考试中心 "wikilink")，由[国家语言文字工作委员会](../Page/国家语言文字工作委员会.md "wikilink")语言文字规范标准审定委员会审定。 \[1\]
 
 ## 背景
 

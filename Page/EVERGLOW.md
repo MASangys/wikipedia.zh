@@ -1,12 +1,10 @@
-**EVERGLOW**（名字風格：**∑V∑RδLOW**，；），是[樂華娛樂在](../Page/乐华娱乐.md "wikilink")2019年推出的六人女子團體。由五名韩国成员E:U、SIHYEON、MIA、ONDA、AISHA，以及一名中國成员YIREN组成。2019年3月18日，以首张单曲专辑《[ARRIVAL
-OF EVERGLOW](../Page/ARRIVAL_OF_EVERGLOW.md "wikilink")》正式出道。\[1\]
+**EVERGLOW**（名字風格：**∑V∑RδLOW**，；），是[樂華娛樂在](../Page/乐华娱乐.md "wikilink")2019年推出的六人女子團體。由五名韩国成员E:U、Sihyeon、Mia、Onda、Aisha，以及一名中國成员Yiren组成。2019年3月18日，以首张单曲专辑《[ARRIVAL OF EVERGLOW](../Page/ARRIVAL_OF_EVERGLOW.md "wikilink")》正式出道。\[1\]
 
 ## 團體資料
 
 ### 團名由來
 
-EVERGLOW團名是“EVER”与“GLOW”的合成语，寓意“无论是在太阳照亮的白天还是茫茫黑夜，都将始终在音乐的世界里闪耀。”表达了新人女子团体坚韧的意志和能量。\[2\]
-Logo中“E”用求和记号希腊字母sigma“∑”的写法代表组合成员，“g”是代表变量的希腊字母delta“δ”，指的是成员们的变化，合起来表达成员们的魅力合为一体、追求音乐多样性的含义。\[3\]
+EVERGLOW團名是“EVER”与“GLOW”的合成语，寓意“无论是在太阳照亮的白天还是茫茫黑夜，都将始终在音乐的世界里闪耀。”表达了新人女子团体坚韧的意志和能量。\[2\] Logo中“E”用求和记号希腊字母sigma“∑”的写法代表组合成员，“g”是代表变量的希腊字母delta“δ”，指的是成员们的变化，合起来表达成员们的魅力合为一体、追求音乐多样性的含义。\[3\]
 
 ### 問候語
 
@@ -23,9 +21,9 @@ Logo中“E”用求和记号希腊字母sigma“∑”的写法代表组合成�
 | 漢字      |
 | **E:U** |
 | 施贤      |
-| MIA     |
-| ONDA    |
-| AISHA   |
+| Mia     |
+| Onda    |
+| Aisha   |
 | 怡人      |
 |         |
 
@@ -33,27 +31,19 @@ Logo中“E”用求和记号希腊字母sigma“∑”的写法代表组合成�
 
 ### 2016 - 2018年：出道前
 
-2016年1月22日，成员金施贤以个人练习生身份参加由[Mnet主办的韓國第一個](https://zh.wikipedia.org/wiki/Mnet_Media "wikilink")「經紀公司大型企劃女團」新女團選拔及生存實境節目[PRODUCE
-101](../Page/PRODUCE_101.md "wikilink")，但于第八集以第40名遭到淘汰。之后与[乐华娱乐签约成为旗下练习生](../Page/乐华娱乐.md "wikilink")。
+2016年1月22日，成员金施贤以个人练习生身份参加由[Mnet主办的韓國第一個](https://zh.wikipedia.org/wiki/Mnet_Media "wikilink")「經紀公司大型企劃女團」新女團選拔及生存實境節目[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")，但于第八集以第40名遭到淘汰。之后与[乐华娱乐](../Page/乐华娱乐.md "wikilink")签约成为旗下练习生。
 
-2017年7月13日，成员ONDA以本名曺世林及个人练习生身份參加韓國[Mnet舉辦的素人選秀節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[偶像學校](https://zh.wikipedia.org/wiki/偶像學校 "wikilink")》，却在首次出道能力考察（《[偶像學校](https://zh.wikipedia.org/wiki/偶像學校 "wikilink")》第四集中）以第40名被淘汰。但[Mnet之后发表声明被淘汰的练习生之後將降為普通班并繼續接受培訓](https://zh.wikipedia.org/wiki/Mnet "wikilink")，即使無法立刻出道，但未來《[偶像學校](https://zh.wikipedia.org/wiki/偶像學校 "wikilink")》也會提供這些人出演節目或是參與公演的可能。\[4\]
-但之後《[偶像學校](https://zh.wikipedia.org/wiki/偶像學校 "wikilink")》表示，首輪淘汰者最終不接受轉入普通班訓練的退學方案，曺世林正式终结参与《[偶像學校](https://zh.wikipedia.org/wiki/偶像學校 "wikilink")》。曺其后与[乐华娱乐签约成为旗下练习生](../Page/乐华娱乐.md "wikilink")。
+2017年7月13日，成员Onda以本名曺世林及个人练习生身份參加韓國[Mnet舉辦的素人選秀節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[偶像學校](https://zh.wikipedia.org/wiki/偶像學校 "wikilink")》，却在首次出道能力考察（《[偶像學校](https://zh.wikipedia.org/wiki/偶像學校 "wikilink")》第四集中）以第40名被淘汰。但[Mnet之后发表声明被淘汰的练习生之後將降為普通班并繼續接受培訓](https://zh.wikipedia.org/wiki/Mnet "wikilink")，即使無法立刻出道，但未來《[偶像學校](https://zh.wikipedia.org/wiki/偶像學校 "wikilink")》也會提供這些人出演節目或是參與公演的可能。\[4\] 但之後《[偶像學校](https://zh.wikipedia.org/wiki/偶像學校 "wikilink")》表示，首輪淘汰者最終不接受轉入普通班訓練的退學方案，曺世林正式终结参与《[偶像學校](https://zh.wikipedia.org/wiki/偶像學校 "wikilink")》。曺其后与[乐华娱乐](../Page/乐华娱乐.md "wikilink")签约成为旗下练习生。
 
-2018年6月15日，成员金施贤和王怡人以[乐华娱乐练习生身份参与由](../Page/乐华娱乐.md "wikilink")[Mnet和日本](https://zh.wikipedia.org/wiki/Mnet_Media "wikilink")[AKB48集團主办的韓日合作選秀節目](../Page/AKB48集團.md "wikilink")《[PRODUCE
-48](../Page/PRODUCE_48.md "wikilink")》以争取女团出道机会。其中成员金施贤则是继两年前参与[PRODUCE
-101之后再次出演PRODUCE系列节目](../Page/PRODUCE_101.md "wikilink")。两人在第三次綜合評價排名結果中，分别以第27名和第28名止步总决赛。
+2018年6月15日，成员金施贤和王怡人以[乐华娱乐](../Page/乐华娱乐.md "wikilink")练习生身份参与由[Mnet和日本](https://zh.wikipedia.org/wiki/Mnet_Media "wikilink")[AKB48集團](../Page/AKB48集團.md "wikilink")主办的韓日合作選秀節目《[PRODUCE 48](../Page/PRODUCE_48.md "wikilink")》以争取女团出道机会。其中成员金施贤则是继两年前参与[PRODUCE 101之后再次出演PRODUCE系列节目](../Page/PRODUCE_101.md "wikilink")。两人在第三次綜合評價排名結果中，分别以第27名和第28名止步总决赛。
 
 ### 2019年：出道准备 正式出道
 
-2月17日，[乐华娱乐公开声明将会于](../Page/乐华娱乐.md "wikilink")2019年推出新人女团。2月18日，公开组合队名和logo以及首位出道成员金施贤的个人预告影片。2月19日，公开第二位成员MIA的个人预告影片。2月20日，公开第三位成员ONDA的个人预告影片。2月21日，公开第四位成员王怡人的个人预告影片。2月24日，公开第五位成员E:U的个人预告影片。2月25日，公开最后一位成员AISHA的个人预告影片。2月27日，官方正式公开组合的第一个舞蹈翻跳影片
-- RUMOR。3月3日，官方再次公开组合的第二个舞蹈翻跳影片 -
-RIVER。3月7日，8日及9日，官方释出组合翻跳于1998年至2018年之中活跃的女团经典名曲的舞蹈影片。\[5\]\[6\]\[7\]
+2月17日，[乐华娱乐](../Page/乐华娱乐.md "wikilink")公开声明将会于2019年推出新人女团。2月18日，公开组合队名和logo以及首位出道成员金施贤的个人预告影片。2月19日，公开第二位成员Mia的个人预告影片。2月20日，公开第三位成员Onda的个人预告影片。2月21日，公开第四位成员王怡人的个人预告影片。2月24日，公开第五位成员E:U的个人预告影片。2月25日，公开最后一位成员Aisha的个人预告影片。2月27日，官方正式公开组合的第一个舞蹈翻跳影片 - RUMOR。3月3日，官方再次公开组合的第二个舞蹈翻跳影片 - RIVER。3月7日，8日及9日，官方释出组合翻跳于1998年至2018年之中活跃的女团经典名曲的舞蹈影片。\[5\]\[6\]\[7\]
 
 3月12日，释出主打歌 《봉봉쇼콜라 (Bon Bon Chocolat)》的MV预告。\[8\]
 
-3月18日，于下午6点正式出道，发行首张单曲专辑《[ARRIVAL OF
-EVERGLOW](../Page/ARRIVAL_OF_EVERGLOW.md "wikilink")》，主打歌为《[봉봉쇼콜라 (Bon
-Bon Chocolat)](https://www.youtube.com/watch?v=HvGql8HwOIM)》。\[9\]
+3月18日，于下午6点正式出道，发行首张单曲专辑《[ARRIVAL OF EVERGLOW](../Page/ARRIVAL_OF_EVERGLOW.md "wikilink")》，主打歌为《[봉봉쇼콜라 (Bon Bon Chocolat)](https://www.youtube.com/watch?v=HvGql8HwOIM)》。\[9\]
 
 ## 音樂作品
 
@@ -121,7 +111,7 @@ Bon Chocolat)](https://www.youtube.com/watch?v=HvGql8HwOIM)》。\[9\]
 | ------------------ | ------------------------------------------------ | ----------------------------------------------------------- | ---- | --------- |
 | 2016年1月22日 - 4月1日  | [Mnet](../Page/Mnet媒體.md "wikilink")             | 《[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")》          | 施賢   | 出道前       |
 | 2017年2月27日 - 6月27日 | [SBS](../Page/SBS_\(韓國\).md "wikilink")          | 《[美味的烹飪課](https://zh.wikipedia.org/wiki/美味的烹飪課 "wikilink")》 | E:U  | 出道前\[15\] |
-| 2017年7月13日 - 9月29日 | [Mnet](../Page/Mnet媒體.md "wikilink")             | 《[偶像學校](https://zh.wikipedia.org/wiki/偶像學校 "wikilink")》     | ONDA | 出道前       |
+| 2017年7月13日 - 9月29日 | [Mnet](../Page/Mnet媒體.md "wikilink")             | 《[偶像學校](https://zh.wikipedia.org/wiki/偶像學校 "wikilink")》     | Onda | 出道前       |
 | 2018年6月15日 - 8月31日 | 《[PRODUCE 48](../Page/PRODUCE_48.md "wikilink")》 | 施賢、怡人                                                       | 出道前  |           |
 
 ### 嘉賓出演
@@ -191,13 +181,7 @@ Bon Chocolat)](https://www.youtube.com/watch?v=HvGql8HwOIM)》。\[9\]
 
   - [EVERGLOW](https://m.tiktok.com/h5/share/usr/6641511689667952642.html)的[TikTok账户](https://zh.wikipedia.org/wiki/TikTok "wikilink")
 
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
-[Category:韓语流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓语流行音樂團體 "wikilink")
-[Category:2019年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2019年成立的音樂團體 "wikilink")
-[Category:乐华娱乐](https://zh.wikipedia.org/wiki/Category:乐华娱乐 "wikilink")
-[Category:2019年韓國建立](https://zh.wikipedia.org/wiki/Category:2019年韓國建立 "wikilink")
-[Category:EVERGLOW](https://zh.wikipedia.org/wiki/Category:EVERGLOW "wikilink")
+[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:韓语流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓语流行音樂團體 "wikilink") [Category:2019年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2019年成立的音樂團體 "wikilink") [Category:乐华娱乐](https://zh.wikipedia.org/wiki/Category:乐华娱乐 "wikilink") [Category:2019年韓國建立](https://zh.wikipedia.org/wiki/Category:2019年韓國建立 "wikilink") [Category:EVERGLOW](https://zh.wikipedia.org/wiki/Category:EVERGLOW "wikilink")
 
 1.
 2.

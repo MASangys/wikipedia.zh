@@ -1,21 +1,16 @@
-**RADIO
-FISH**（）是[日本搞笑組合的](../Page/日本.md "wikilink")[東方收音機在中心结成了的](../Page/東方收音機.md "wikilink")[歌舞](https://zh.wikipedia.org/wiki/歌舞 "wikilink")[演唱組合](../Page/男子音乐组合.md "wikilink")，所屬經紀公司為[YOSHIMOTO
-MUSIC](../Page/YOSHIMOTO_R_and_C.md "wikilink")。
+**RADIO FISH**（）是[日本](../Page/日本.md "wikilink")搞笑團體的[東方收音機](../Page/東方收音機.md "wikilink")在中心结成了的[歌舞](https://zh.wikipedia.org/wiki/歌舞 "wikilink")[演唱組合](../Page/男子音乐组合.md "wikilink")，所屬經紀公司為[YOSHIMOTO MUSIC](../Page/YOSHIMOTO_R_and_C.md "wikilink")。
 
 ## 略歴
 
 **2014年**
 
-它由[東方收音機](../Page/東方收音機.md "wikilink")
-([NAKATA](https://zh.wikipedia.org/wiki/中田敦彦 "wikilink")・[SHINGO](../Page/藤森慎吾.md "wikilink"))
-和NAKATA的実弟、舞蹈演員Show-hey、SHiN、RIHITO組成。
+它由[東方收音機](../Page/東方收音機.md "wikilink") ([NAKATA](https://zh.wikipedia.org/wiki/中田敦彦 "wikilink")・[SHINGO](../Page/藤森慎吾.md "wikilink")) 和NAKATA的実弟、舞蹈演員Show-hey、SHiN、RIHITO組成。
 
-12月26日，[朝日電視台系](../Page/朝日電視台.md "wikilink")『』電視的首次亮相。從那以後，現在東方收音機的單獨Live直播和搞笑節目中，並且已經為喜劇演員所熟知\[1\]。
+12月26日，[朝日電視台](../Page/朝日電視台.md "wikilink")系『』電視的首次亮相。從那以後，現在東方收音機的單獨Live直播和搞笑節目中，並且已經為喜劇演員所熟知\[1\]。
 
 **2015年**
 
-3月18日，第1張[數位](../Page/數位音樂下載.md "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")「STAR」發布。從那以後，5月27日「TONIGHT」「GOOD
-BYE」、6月28日「SUMMER TIME」、7月1日「PARADISE」連續三個月發布。
+3月18日，第1張[數位](../Page/數位音樂下載.md "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")「STAR」發布。從那以後，5月27日「TONIGHT」「GOOD BYE」、6月28日「SUMMER TIME」、7月1日「PARADISE」連續三個月發布。
 
 12月23日，數位單曲「PERFECT HUMAN」發布。12月25日的放送朝日電視台系『』電視首先炫耀。
 
@@ -23,27 +18,19 @@ BYE」、6月28日「SUMMER TIME」、7月1日「PARADISE」連續三個月發�
 
 **2016年**
 
-2月13日，[富士電視台系的放送](../Page/富士電視台.md "wikilink")『』「PERFECT
-HUMAN」的當它表現出性能時，它成為了一個很大的話題，比如在[ITunes排名中獲得第一名](../Page/ITunes.md "wikilink")\[3\]。
+2月13日，[富士電視台](../Page/富士電視台.md "wikilink")系的放送『』「PERFECT HUMAN」的當它表現出性能時，它成為了一個很大的話題，比如在[ITunes](../Page/ITunes.md "wikilink")排名中獲得第一名\[3\]。
 
-3月11日，朝日電視台系[MUSIC
-STATION鑄](../Page/MUSIC_STATION.md "wikilink")\[4\]\[5\]。從那以後，他在音樂台上出現過兩次，此外3月28日富士電視台系『』、7月2日日本電視台系『』比如，不僅出演和搞笑節目、還出演音樂節目。『[24小時電視
-「愛心救地球」](../Page/24小時電視_「愛心救地球」.md "wikilink")』也出現在。
+3月11日，朝日電視台系[MUSIC STATION鑄](../Page/MUSIC_STATION.md "wikilink")\[4\]\[5\]。從那以後，他在音樂台上出現過兩次，此外3月28日富士電視台系『』、7月2日日本電視台系『』比如，不僅出演和搞笑節目、還出演音樂節目。『[24小時電視 「愛心救地球」](../Page/24小時電視_「愛心救地球」.md "wikilink")』也出現在。
 
 5月25日，第1張[專輯](../Page/音樂專輯.md "wikilink")『』發布\[6\]。6月22日，宣布音樂將在天連續10週發行。
 
-參加了許多夏季音樂節。此外8月26日，我們還將在[赤坂BLITZ舉辦一場](../Page/赤坂BLITZ.md "wikilink")「**PERFECT
-SUMMER**」活動、10月12日，第2張專輯『』發布也被宣布\[7\]。
+參加了許多夏季音樂節。此外8月26日，我們還將在[赤坂BLITZ](../Page/赤坂BLITZ.md "wikilink")舉辦一場「**PERFECT SUMMER**」活動、10月12日，第2張專輯『』發布也被宣布\[7\]。
 
-11月「PERFECT
-HUMAN」榮獲第49屆[日本有線大獎](../Page/日本有線大獎.md "wikilink")・有線话题獎\[8\]、第58屆[日本唱片大獎](../Page/日本唱片大獎.md "wikilink")・企畫獎\[9\]、WebTVAsia
-Awards 2016・年度最佳音樂獎\[10\]獲獎。
+11月「PERFECT HUMAN」榮獲第49屆[日本有線大獎](../Page/日本有線大獎.md "wikilink")・有線话题獎\[8\]、第58屆[日本唱片大獎](../Page/日本唱片大獎.md "wikilink")・企畫獎\[9\]、WebTVAsia Awards 2016・年度最佳音樂獎\[10\]獲獎。
 
-11月24日，『[第67回NHK紅白歌合戰](../Page/第67回NHK紅白歌合戰.md "wikilink")』的已經確定了很長一段時間的目標第一次出場待決定，據宣布，應該招募舞者在當天的舞台上一起跳舞\[11\]。在12月31日的廣播中，從全國選出了40名舞者，演出以「[醍醐花宴](https://zh.wikipedia.org/wiki/醍醐花宴 "wikilink")」為主題，以“Neo[秀吉](../Page/丰臣秀吉.md "wikilink")”為主題在舞台上\[12\]。[Piko太郎也在今年下半年時尚](../Page/古坂大魔王.md "wikilink")，並且有一段時間NAKATA說，「我沒有認出他的存在」等。白組的[相葉雅紀女士將此稱為](https://zh.wikipedia.org/wiki/相葉雅紀 "wikilink")「歷史和解」\[13\]。當然這兩個並不是很糟糕，第二天NAKATA在[Twitter上透露](../Page/Twitter.md "wikilink")，秋季已經有一種算法可以用紅白來解決\[14\]。
+11月24日，『[第67回NHK紅白歌合戰](../Page/第67回NHK紅白歌合戰.md "wikilink")』的已經確定了很長一段時間的目標第一次出場待決定，據宣布，應該招募舞者在當天的舞台上一起跳舞\[11\]。在12月31日的廣播中，從全國選出了40名舞者，演出以「[醍醐花宴](https://zh.wikipedia.org/wiki/醍醐花宴 "wikilink")」為主題，以“Neo[秀吉](../Page/丰臣秀吉.md "wikilink")”為主題在舞台上\[12\]。[Piko太郎也在今年下半年時尚](../Page/古坂大魔王.md "wikilink")，並且有一段時間NAKATA說，「我沒有認出他的存在」等。白組的[相葉雅紀女士將此稱為](https://zh.wikipedia.org/wiki/相葉雅紀 "wikilink")「歷史和解」\[13\]。當然這兩個並不是很糟糕，第二天NAKATA在[Twitter](../Page/Twitter.md "wikilink")上透露，秋季已經有一種算法可以用紅白來解決\[14\]。
 
-在[Google於](../Page/Google.md "wikilink")12月20日發布的國內[YouTube年度趨勢視頻排名的音樂視頻部分](../Page/YouTube.md "wikilink")，1月21日發布的「PERFECT
-HUMAN」現場視頻在4700萬播放中排名第3，MV於4月25日發布，在3700萬場比賽中排名第五\[15\]。還出現在舉行的「**YouTube
-FanFest Japan 2016**」\[16\]。
+在[Google](../Page/Google.md "wikilink")於12月20日發布的國內[YouTube](../Page/YouTube.md "wikilink")年度趨勢視頻排名的音樂視頻部分，1月21日發布的「PERFECT HUMAN」現場視頻在4700萬播放中排名第3，MV於4月25日發布，在3700萬場比賽中排名第五\[15\]。還出現在舉行的「**YouTube FanFest Japan 2016**」\[16\]。
 
 **2017年**
 
@@ -55,58 +42,41 @@ FanFest Japan 2016**」\[16\]。
 
 YouTube上的活動將從7月21日開始全面展開。在此之前，從今天起幾乎每天都會上傳視頻，大約半年。此外，自9月下旬以來，我們每個星期天都在YouTube直播中直播，從那時起它在其他日子裡一直不定期，但每個成員都在[Instagram](../Page/Instagram.md "wikilink")、等上單獨進行實時。
 
-10月13日，第一次全國巡迴演出「**“RADIO FISH 2017-2018 TOUR
-"Phalanx"**」宣布將於12月25日舉行\[19\]。
+10月13日，第一次全國巡迴演出「**“RADIO FISH 2017-2018 TOUR "Phalanx"**」宣布將於12月25日舉行\[19\]。
 
-10月29日，同樣在[NHK廣播第1頻率節目](../Page/NHK廣播第1頻率.md "wikilink")「」，東方收音機擔任MC、同時也[乃木坂46的](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")[中元日芽香擔任助理MC迎](../Page/中元日芽香.md "wikilink")，新歌「LAST
-NUMBER (feat. 中元日芽香(乃木坂46))」首次發表。它于數位配信11月8日发布\[20\]。
+10月29日，同樣在[NHK廣播第1頻率](../Page/NHK廣播第1頻率.md "wikilink")節目「」，東方收音機擔任MC、同時也[乃木坂46的](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")[中元日芽香](../Page/中元日芽香.md "wikilink")擔任助理MC迎，新歌「LAST NUMBER (feat. 中元日芽香(乃木坂46))」首次發表。它于數位配信11月8日发布\[20\]。
 
-11月29日，发行了两首歌「新时代」，[YouTuber制作的第一首歌曲和](../Page/YouTuber.md "wikilink")「O.D.O:Re」，第一首由RIHITO制作的歌曲數位配信发布\[21\]。「新时代」仅限于2018年3月10日之前，在[Google
-Play音樂乐上独家免费发布](../Page/Google_Play音樂.md "wikilink")\[22\]。同样在12月1日，YouTube
-Space Tokyo上有一个发布活动，作为嘉宾，YouTuber的也出现了。
+11月29日，发行了两首歌「新时代」，[YouTuber](../Page/YouTuber.md "wikilink")制作的第一首歌曲和「O.D.O:Re」，第一首由RIHITO制作的歌曲數位配信发布\[21\]。「新时代」仅限于2018年3月10日之前，在[Google Play音樂乐上独家免费发布](../Page/Google_Play音樂.md "wikilink")\[22\]。同样在12月1日，YouTube Space Tokyo上有一个发布活动，作为嘉宾，YouTuber的也出现了。
 
-此外，在12月6日，两首歌曲「NEW GOD（feat. May J.）」与[May
-J.作为嘉宾主唱和](../Page/May_J..md "wikilink")「Trip Drop
-Town」，第一首Show-hey制作的音乐，12月20日，我们发行了前两首FISHBOY制作的歌曲「Make Ya
-Groove」和SHiN制作的歌曲「Life is a Game」數位配信发布。
+此外，在12月6日，两首歌曲「NEW GOD（feat. May J.）」与[May J.作为嘉宾主唱和](../Page/May_J..md "wikilink")「Trip Drop Town」，第一首Show-hey制作的音乐，12月20日，我们发行了前两首FISHBOY制作的歌曲「Make Ya Groove」和SHiN制作的歌曲「Life is a Game」數位配信发布。
 
 **2018年**
 
-4月1日，去年12月25日举行的「RADIO FISH 2017-2018 TOUR
-"Phalanx"」的东京演出模式在[WOWOW播出](../Page/WOWOW.md "wikilink")\[23\]。
-其追加演出将于4月5日举行，[Blu-ray](../Page/藍光光碟.md "wikilink")＆[DVD的发布和第二次全國巡迴演出](../Page/數碼多功能影音光碟.md "wikilink")「**RADIO
-FISH 2018 TOUR
-"NEWTON"**」宣布將於9月舉行\[24\]。同一天，官方网站再次更新，并建立了官方[Twitter帐户](../Page/Twitter.md "wikilink")\[25\]。
+4月1日，去年12月25日举行的「RADIO FISH 2017-2018 TOUR "Phalanx"」的东京演出模式在[WOWOW](../Page/WOWOW.md "wikilink")播出\[23\]。 其追加演出将于4月5日举行，[Blu-ray](../Page/藍光光碟.md "wikilink")＆[DVD的发布和第二次全國巡迴演出](../Page/數碼多功能影音光碟.md "wikilink")「**RADIO FISH 2018 TOUR "NEWTON"**」宣布將於9月舉行\[24\]。同一天，官方网站再次更新，并建立了官方[Twitter](../Page/Twitter.md "wikilink")帐户\[25\]。
 
-6月6日，第一部现场Blu-ray＆DVD『』发布。在前一天的第5，在第一版奖金CD上录制的新歌「Stepping on the fire
-(feat.
-[w-inds.](https://zh.wikipedia.org/wiki/w-inds. "wikilink"))」的MV在YouTube上发布\[26\]。
+6月6日，第一部现场Blu-ray＆DVD『』发布。在前一天的第5，在第一版奖金CD上录制的新歌「Stepping on the fire (feat. [w-inds.](https://zh.wikipedia.org/wiki/w-inds. "wikilink"))」的MV在YouTube上发布\[26\]。
 
-8月29日，[虎魚組的合作单曲](../Page/虎魚組.md "wikilink")「」发布。
+8月29日，[虎魚組](../Page/虎魚組.md "wikilink")的合作单曲「」发布。
 
 **2019年**
 
 1月9日，发布第3張數位專輯『』\[27\]。
 
-3月20日，我在[C\&K的專輯](../Page/C&K.md "wikilink")『TEN』上錄製了「GORIN with RADIO
-FISH」。 MV於3月15日在Youtube上發布\[28\]。
+3月20日，我在[C\&K](../Page/C&K.md "wikilink")的專輯『TEN』上錄製了「GORIN with RADIO FISH」。 MV於3月15日在Youtube上發布\[28\]。
 
 ## 成員
 
-在RADIO
-FISH中，不使用「Vocal」和「[舞者](https://zh.wikipedia.org/wiki/舞者 "wikilink")」这两个名字，每个成员的头衔都是由NAKATA命名的\[29\]。
+在RADIO FISH中，不使用「Vocal」和「[舞者](https://zh.wikipedia.org/wiki/舞者 "wikilink")」这两个名字，每个成员的头衔都是由NAKATA命名的\[29\]。
 
 ### GOSHINTAI
 
   - **[NAKATA](https://zh.wikipedia.org/wiki/中田敦彦 "wikilink")**
-    (ナカタ、本名：中田敦彦)
-    1982年9月27日出生。[大阪府出身](https://zh.wikipedia.org/wiki/大阪府 "wikilink")。
+    (ナカタ、本名：中田敦彦) 1982年9月27日出生。[大阪府出身](https://zh.wikipedia.org/wiki/大阪府 "wikilink")。
 
 ### SHAMAN
 
   - **[SHINGO](../Page/藤森慎吾.md "wikilink")**
-    (シンゴ、本名：藤森慎吾)
-    1983年3月17日出生。[长野县出身](https://zh.wikipedia.org/wiki/长野县 "wikilink")。
+    (シンゴ、本名：藤森慎吾) 1983年3月17日出生。[長野縣出身](https://zh.wikipedia.org/wiki/长野县 "wikilink")。
 
 ### SKILL-MASTER
 
@@ -116,12 +86,12 @@ FISH中，不使用「Vocal」和「[舞者](https://zh.wikipedia.org/wiki/舞�
 <!-- end list -->
 
   - **Show-hey**
-    (ショウヘイ、本名：鬼塚祥平) 1983年6月6日出生。[熊本縣出身](../Page/熊本縣.md "wikilink")。
+    (ショウヘイ、本名：鬼塚祥平) 1983年6月6日出生。[熊本縣](../Page/熊本縣.md "wikilink")出身。
 
 <!-- end list -->
 
   - **SHiN**
-    (シン、本名：田島慎介) 1987年6月27日出生。[東京都出身](../Page/東京都.md "wikilink")。
+    (シン、本名：田島慎介) 1987年6月27日出生。[東京都](../Page/東京都.md "wikilink")出身。
 
 <!-- end list -->
 
@@ -301,7 +271,7 @@ FISH中，不使用「Vocal」和「[舞者](https://zh.wikipedia.org/wiki/舞�
 </tbody>
 </table>
 
-### 协作单一
+### 合作單曲
 
 **[虎魚組](../Page/虎魚組.md "wikilink")×RADIO FISH**
 
@@ -417,6 +387,37 @@ YRBN-80185/6:通常盤DVD (2DVD)</p></td>
 </tbody>
 </table>
 
+### 參加作品
+
+<table>
+<thead>
+<tr class="header">
+<th><p>發行日期</p></th>
+<th><p>名稱</p></th>
+<th><p>收錄作品</p></th>
+<th><p>唱片編號</p></th>
+<th><p>最高排名</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="../Page/2019年.md" title="wikilink">2019年</a><a href="../Page/3月20日.md" title="wikilink">3月20日</a></p></td>
+<td><p><strong>GORIN with RADIO FISH</strong></p></td>
+<td><p><a href="../Page/C&amp;K.md" title="wikilink">C&amp;K</a>『TEN』</p></td>
+<td><p>UPCH-29323:初回限定盤 (CD+DVD)<br />
+UPCH-20511:通常盤 (CD)</p></td>
+<td><p>5</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 ## 音樂錄影帶
 
 | 導演                                                                      | 名稱                                                                                    |
@@ -436,25 +437,22 @@ YRBN-80185/6:通常盤DVD (2DVD)</p></td>
 
 ## 得獎紀錄
 
-  - 第49回[日本有線大獎](../Page/日本有線大獎.md "wikilink")・有線话题獎「PERFECT
-    HUMAN」(2016年)
+  - 第49回[日本有線大獎](../Page/日本有線大獎.md "wikilink")・有線话题獎「PERFECT HUMAN」(2016年)
   - 第58回[日本唱片大獎](../Page/日本唱片大獎.md "wikilink")・企畫獎「PERFECT HUMAN」(2016年)
   - WebTVAsia Awards 2016 年度最佳音乐獎「PERFECT HUMAN」(2016年)
 
-## 腳註
+## 參考資料
 
 ### 註釋
 
-### 參考資料
+### 參考
 
 ## 外部連結
 
   - [官方網站](http://radiofish.jp/)
 
   -
-[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink")
-[Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink")
-[Category:2014年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年成立的音樂團體 "wikilink")
+[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink") [Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink") [Category:日本流行音樂歌手](https://zh.wikipedia.org/wiki/Category:日本流行音樂歌手 "wikilink") [Category:NHK紅白歌合戰出场歌手](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰出场歌手 "wikilink") [Category:2014年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年成立的音樂團體 "wikilink")
 
 1.
 2.

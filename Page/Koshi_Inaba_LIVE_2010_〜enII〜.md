@@ -1,11 +1,8 @@
-《**Koshi Inaba LIVE 2010
-〜enII〜**》是[日本](../Page/日本.md "wikilink")[音樂組合](../Page/音樂組合.md "wikilink")[B'z主唱](../Page/B'z.md "wikilink")[稻葉浩志的第](../Page/稻葉浩志.md "wikilink")2張影像作品。[2011年](../Page/2011年.md "wikilink")[2月16日發售](../Page/2月16日.md "wikilink")。
+《**Koshi Inaba LIVE 2010 〜enII〜**》是[日本](../Page/日本.md "wikilink")[音樂組合](../Page/音樂組合.md "wikilink")[B'z](../Page/B'z.md "wikilink")主唱[稻葉浩志](../Page/稻葉浩志.md "wikilink")的第2張影像作品。[2011年](../Page/2011年.md "wikilink")[2月16日](../Page/2月16日.md "wikilink")發售。
 
 ## 内容
 
-將來自於在第4張SOLO專輯『[Hadou](../Page/Hadou.md "wikilink")』發售後，睽違6年舉辦的巡迴演唱會『Koshi
-Inaba LIVE 2010
-〜enII〜』中的[日本武道館公演完整收錄的影像作品](../Page/日本武道館.md "wikilink")。
+將來自於在第4張SOLO專輯『[Hadou](../Page/Hadou.md "wikilink")』發售後，睽違6年舉辦的巡迴演唱會『Koshi Inaba LIVE 2010 〜enII〜』中的[日本武道館](../Page/日本武道館.md "wikilink")公演完整收錄的影像作品。
 
 獲得2011年2月28日Oricon公信榜週榜，[DVD首週總銷量](https://zh.wikipedia.org/wiki/DVD "wikilink")2.7萬綜合冠軍。並且獲得[Blu-ray首週總銷量](https://zh.wikipedia.org/wiki/Blu-ray_Disc "wikilink")2.1萬張綜合第2位（在音樂部門是第1位）。因此，是音樂部門DVD・Blu-ray兩部門冠軍，成為了男性SOLO藝人的首次紀錄\[1\]。
 
@@ -39,7 +36,7 @@ Inaba LIVE 2010
 12. **[この手をとって走り出して](../Page/Hadou.md "wikilink")**
 13. **LOST〜[Wonderland](../Page/Wonderland.md "wikilink")**
 14. **[遠くまで](https://zh.wikipedia.org/wiki/遠くまで "wikilink")**
-15. **〜jam〜**（[音樂即興演奏會](../Page/音樂即興.md "wikilink")）
+15. **〜jam〜**（[音樂即興](../Page/音樂即興.md "wikilink")演奏會）
 16. **[CAGE FIGHT](../Page/Hadou.md "wikilink")**
 17. **[今宵キミト](../Page/Hadou.md "wikilink")**
 18. **[絶対(的](../Page/Hadou.md "wikilink"))**
@@ -61,9 +58,7 @@ Inaba LIVE 2010
 ## 外部連結
 
   -
-[Category:演唱會](https://zh.wikipedia.org/wiki/Category:演唱會 "wikilink")
-[Category:2011年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2011年音樂相關影像作品 "wikilink")
+[Category:演唱會](https://zh.wikipedia.org/wiki/Category:演唱會 "wikilink") [Category:2011年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2011年音樂相關影像作品 "wikilink")
 
 1.
-2.  起初標題不詳，但之後在[B'z Party會報誌](../Page/B'z_Party.md "wikilink")『be
-    with\!』vol.89 中公佈。
+2.  起初標題不詳，但之後在[B'z Party會報誌](../Page/B'z_Party.md "wikilink")『be with\!』vol.89 中公佈。

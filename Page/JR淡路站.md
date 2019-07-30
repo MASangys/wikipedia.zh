@@ -1,16 +1,15 @@
-**JR淡路站**
-（）位於日本[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")[大阪市](../Page/大阪市.md "wikilink")[東淀川区菅原](https://zh.wikipedia.org/wiki/東淀川区 "wikilink")，是[西日本旅客鐵道](../Page/西日本旅客鐵道.md "wikilink")（JR西日本）[大阪東線的](../Page/大阪東線.md "wikilink")[鐵路站](https://zh.wikipedia.org/wiki/鐵路站 "wikilink")，[車站編號是JR](../Page/車站編號.md "wikilink")-F04\[1\]。此站是东淀川区首个JR车站。
+**JR淡路站** （）位於日本[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")[大阪市](../Page/大阪市.md "wikilink")[東淀川区菅原](https://zh.wikipedia.org/wiki/東淀川区 "wikilink")，是[西日本旅客鐵道](../Page/西日本旅客鐵道.md "wikilink")（JR西日本）[大阪東線](../Page/大阪東線.md "wikilink")的[鐵路站](https://zh.wikipedia.org/wiki/鐵路站 "wikilink")，[車站編號](../Page/車站編號.md "wikilink")是JR-F04\[1\]。此站是东淀川区首个JR车站。
 
 ## 历史
 
-  - 2018年（平成30年）7月24日：车站名决定为“JR淡路站”。暂定名为“淡路站”，为了与邻近的阪急[淡路站区别](../Page/淡路站.md "wikilink")，冠以“JR”。
+  - 2018年（平成30年）7月24日：车站名决定为“JR淡路站”。暂定名为“淡路站”，为了与邻近的阪急[淡路站](../Page/淡路站.md "wikilink")区别，冠以“JR”。
   - 2019年（平成31年）3月16日：与大阪东线一同开业。
 
 ## 车站结构
 
 [侧式月台](https://zh.wikipedia.org/wiki/侧式月台 "wikilink")2面2线的高架车站，对应8辆车的编组。每个站台设有1台电梯，自动扶梯每个站台设有2台(上下)共4台。本站的车站颜色是樱桃色。
 
-该站的设计理念是"**[菅原道真与淡路](../Page/菅原道真.md "wikilink")**"\[2\]。
+该站的设计理念是"**[菅原道真](../Page/菅原道真.md "wikilink")与淡路**"\[2\]。
 
 本站虽然没有设置[綠窗口](../Page/綠窗口.md "wikilink")，但是设立了自动售票机。
 
@@ -64,10 +63,7 @@
 
   - [JR西日本 - 南吹田駅](http://www.jr-odekake.net/eki/top.php?id=0612102)
 
-[Category:2019年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:2019年啟用的鐵路車站 "wikilink")
-[Category:大阪東線車站](https://zh.wikipedia.org/wiki/Category:大阪東線車站 "wikilink")
-[Category:日本鐵路車站_Je](https://zh.wikipedia.org/wiki/Category:日本鐵路車站_Je "wikilink")
-[Category:東淀川區鐵路車站](https://zh.wikipedia.org/wiki/Category:東淀川區鐵路車站 "wikilink")
+[Category:2019年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:2019年啟用的鐵路車站 "wikilink") [Category:大阪東線車站](https://zh.wikipedia.org/wiki/Category:大阪東線車站 "wikilink") [Category:日本鐵路車站_Je](https://zh.wikipedia.org/wiki/Category:日本鐵路車站_Je "wikilink") [Category:東淀川區鐵路車站](https://zh.wikipedia.org/wiki/Category:東淀川區鐵路車站 "wikilink")
 
 1.
 2.

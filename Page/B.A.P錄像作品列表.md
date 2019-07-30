@@ -1,4 +1,4 @@
-**B.A.P錄像作品列表**，主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[B.A.P歷年發行的演唱會DVD及歷年在](../Page/B.A.P.md "wikilink")[YouTube上發佈的](../Page/YouTube.md "wikilink")[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")。
+**B.A.P錄像作品列表**，主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[B.A.P](../Page/B.A.P.md "wikilink")歷年發行的演唱會DVD及歷年在[YouTube](../Page/YouTube.md "wikilink")上發佈的[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")。
 
 ## DVD (韓國)
 
@@ -166,8 +166,7 @@
 
 ## 參考資料
 
-[Category:B.A.P](https://zh.wikipedia.org/wiki/Category:B.A.P "wikilink")
-[Category:韓國錄像作品列表](https://zh.wikipedia.org/wiki/Category:韓國錄像作品列表 "wikilink")
+[Category:B.A.P](https://zh.wikipedia.org/wiki/Category:B.A.P "wikilink") [Category:韓國錄像作品列表](https://zh.wikipedia.org/wiki/Category:韓國錄像作品列表 "wikilink")
 
 1.
 2.

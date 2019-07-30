@@ -1,14 +1,10 @@
-**Javadoc**（最初是**JavaDoc**）\[1\]是由[Sun
-Microsystems为](https://zh.wikipedia.org/wiki/Sun_Microsystems "wikilink")[Java语言](../Page/Java.md "wikilink")（现在由[甲骨文公司拥有](../Page/甲骨文公司.md "wikilink")）创建的文档生成器，用于从Java源代码生成[HTML格式的](../Page/HTML.md "wikilink")[API文档](../Page/应用程序接口.md "wikilink")，HTML格式用于增加将相关文档[链接在一起的便利性](https://zh.wikipedia.org/wiki/超連結 "wikilink")。<ref>
+**Javadoc**（最初是**JavaDoc**）\[1\]是由[Sun Microsystems为](https://zh.wikipedia.org/wiki/Sun_Microsystems "wikilink")[Java](../Page/Java.md "wikilink")语言（现在由[甲骨文公司](../Page/甲骨文公司.md "wikilink")拥有）创建的文档生成器，用于从Java源代码生成[HTML](../Page/HTML.md "wikilink")格式的[API文档](../Page/应用程序接口.md "wikilink")，HTML格式用于增加将相关文档[链接在一起的便利性](https://zh.wikipedia.org/wiki/超連結 "wikilink")。<ref>
 
 <div>
 
 <https://web.archive.org/web/20170613233020/http://agile.csc.ncsu.edu/SEMaterials/tutorials/javadoc/%3C/div>\></ref>
 
-Javadoc使用的“doc comments”格式\[2\]
-是记录Java类的事实上的行业标准。一些[IDE](../Page/集成开发环境.md "wikilink")，\[3\]如[IntelliJ
-IDEA](../Page/IntelliJ_IDEA.md "wikilink")、[NetBeans和](../Page/NetBeans.md "wikilink")[Eclipse](../Page/Eclipse.md "wikilink")，可以自动生成Javadoc
-HTML。许多文件编辑器帮助用户生成Javadoc源代码并使用Javadoc信息作为程序员的内部引用。
+Javadoc使用的“doc comments”格式\[2\] 是记录Java类的事实上的行业标准。一些[IDE](../Page/集成开发环境.md "wikilink")，\[3\]如[IntelliJ IDEA](../Page/IntelliJ_IDEA.md "wikilink")、[NetBeans](../Page/NetBeans.md "wikilink")和[Eclipse](../Page/Eclipse.md "wikilink")，可以自动生成Javadoc HTML。许多文件编辑器帮助用户生成Javadoc源代码并使用Javadoc信息作为程序员的内部引用。
 
 Javadoc还提供了用于创建doclet和taglet的API，允许用户分析Java应用程序的结构，这就是JDiff如何生成两个API版本之间发生变化的报告。
 
@@ -24,8 +20,7 @@ Javadoc是早期的Java语言文档生成器。\[4\]在使用文档生成器之�
 
 ### Javadoc注释结构
 
-通过标准多行注释标记`/*` and `*/从代码中引发Javadoc注释。`起始标记（称为开始 -
-注释分隔符）具有额外的星号，如`/**`中所示。
+通过标准多行注释标记`/*` and `*/从代码中引发Javadoc注释。`起始标记（称为开始 - 注释分隔符）具有额外的星号，如`/**`中所示。
 
 1.  第一段是对所记录方法的描述。
 2.  在描述之后是不同数量的描述性标签，表示：
@@ -109,8 +104,7 @@ public int y;
 
 <div>
 
-[Javadoc tags in
-JavaSE 6](https://docs.oracle.com/javase/8/docs/technotes/tools/unix/javadoc.html#CHDBEFIF)
+[Javadoc tags in JavaSE 6](https://docs.oracle.com/javase/8/docs/technotes/tools/unix/javadoc.html#CHDBEFIF)
 
 </div>
 
@@ -280,15 +274,11 @@ void doMove(int theFromFile, int theFromRank, int theToFile, int theToRank)  {
 </references>
 
   -
-[Category:Java开发工具](https://zh.wikipedia.org/wiki/Category:Java开发工具 "wikilink")
-[Category:自由文档生成器](https://zh.wikipedia.org/wiki/Category:自由文档生成器 "wikilink")
-[Category:有未审阅翻译的页面](https://zh.wikipedia.org/wiki/Category:有未审阅翻译的页面 "wikilink")
+[Category:Java开发工具](https://zh.wikipedia.org/wiki/Category:Java开发工具 "wikilink") [Category:自由文档生成器](https://zh.wikipedia.org/wiki/Category:自由文档生成器 "wikilink") [Category:有未审阅翻译的页面](https://zh.wikipedia.org/wiki/Category:有未审阅翻译的页面 "wikilink")
 
 1.  现在写作‘Javadoc’，参见[1](http://www.oracle.com/technetwork/java/javase/documentation/index-jsp-135444.html)。最早写作‘JavaDoc’，参见[2](http://www.artima.com/intv/jackpot3.html)
 2.
-3.  [IntelliJ IDEA](https://www.jetbrains.com/idea/),
-    [NetBeans](http://www.netbeans-blog.org/netbeans-ide/generating-javadoc-for-a-project-in-netbeans-ide.html)
-    and [Eclipse](http://www.eclipse.org/)
+3.  [IntelliJ IDEA](https://www.jetbrains.com/idea/), [NetBeans](http://www.netbeans-blog.org/netbeans-ide/generating-javadoc-for-a-project-in-netbeans-ide.html) and [Eclipse](http://www.eclipse.org/)
 4.  .
 5.
 6.

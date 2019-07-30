@@ -6,9 +6,7 @@
 
 ### 剧情简介
 
-<poem>一回神，我发现自己已经转生至异世界了。 不是作为普通人类，而是一把剑。 再往周围环顾，原来这里是个魔物猖獗，险象环生的草原地带。
-觉得性命受到威胁的主角，运用让自己身体飘浮的能力， 逐步猎杀魔物。 就在这时，我为了休息而插进地面的瞬间， 能力居然破功，动弹不得。
-然而在无计可施的主角面前， 突如其来出现一名奴隶打扮的猫耳少女……</poem >
+<poem>一回神，我发现自己已经转生至异世界了。 不是作为普通人类，而是一把剑。 再往周围环顾，原来这里是个魔物猖獗，险象环生的草原地带。 觉得性命受到威胁的主角，运用让自己身体飘浮的能力， 逐步猎杀魔物。 就在这时，我为了休息而插进地面的瞬间， 能力居然破功，动弹不得。 然而在无计可施的主角面前， 突如其来出现一名奴隶打扮的猫耳少女……</poem >
 
 ### 登场人物
 
@@ -69,10 +67,6 @@
 
   - [漫畫連載](http://denshi-birz.com/tenken/)
 
-[分类:日本小说作品](https://zh.wikipedia.org/wiki/分类:日本小说作品 "wikilink")
-[分类:棚架Yuu作品](https://zh.wikipedia.org/wiki/分类:棚架Yuu作品 "wikilink")
-[分类:](https://zh.wikipedia.org/wiki/分类:{{PAGENAME}} "wikilink")
-[分类:轉世题材](https://zh.wikipedia.org/wiki/分类:轉世题材 "wikilink")
-[分类:奇幻题材](https://zh.wikipedia.org/wiki/分类:奇幻题材 "wikilink")
+[分类:日本小说作品](https://zh.wikipedia.org/wiki/分类:日本小说作品 "wikilink") [分类:棚架Yuu作品](https://zh.wikipedia.org/wiki/分类:棚架Yuu作品 "wikilink") [分类:](https://zh.wikipedia.org/wiki/分类:{{PAGENAME}} "wikilink") [分类:轉世题材](https://zh.wikipedia.org/wiki/分类:轉世题材 "wikilink") [分类:奇幻题材](https://zh.wikipedia.org/wiki/分类:奇幻题材 "wikilink")
 
 [Category:穿越题材](https://zh.wikipedia.org/wiki/Category:穿越题材 "wikilink")

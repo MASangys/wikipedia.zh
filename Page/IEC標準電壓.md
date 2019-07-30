@@ -1,6 +1,4 @@
-[國際標準](https://zh.wikipedia.org/wiki/國際標準 "wikilink")**IEC
-60038**由[國際電工委員會制定](https://zh.wikipedia.org/wiki/國際電工委員會 "wikilink")，最新版（第7版）於2009年發佈。**IEC標準電壓**（**IEC
-standard voltages**）中，定義了一系列高壓及低壓供電系統的電壓標準。
+[國際標準](https://zh.wikipedia.org/wiki/國際標準 "wikilink")**IEC 60038**由[國際電工委員會制定](https://zh.wikipedia.org/wiki/國際電工委員會 "wikilink")，最新版（第7版）於2009年發佈。**IEC標準電壓**（**IEC standard voltages**）中，定義了一系列高壓及低壓供電系統的電壓標準。
 
 ## 低壓
 
@@ -204,9 +202,6 @@ IEC 60038 表5定義了最高電壓（U<sub>m</sub>）超過245kV電力系統的
 
 ## 外部連結
 
-  - [Definition of Voltage ranges as per
-    IEC 60038](http://www.electrical-installation.org/wiki/Electrical_installation_rules,_standards)
-    – WIKI - Electrical Installation Guide
+  - [Definition of Voltage ranges as per IEC 60038](http://www.electrical-installation.org/wiki/Electrical_installation_rules,_standards) – WIKI - Electrical Installation Guide
 
-[Category:IEC標準](https://zh.wikipedia.org/wiki/Category:IEC標準 "wikilink")
-[Category:电力分配](https://zh.wikipedia.org/wiki/Category:电力分配 "wikilink")
+[Category:IEC標準](https://zh.wikipedia.org/wiki/Category:IEC標準 "wikilink") [Category:电力分配](https://zh.wikipedia.org/wiki/Category:电力分配 "wikilink")

@@ -4,25 +4,14 @@ NefAZ所生產重型車輛的底盤均由母公司卡瑪斯提供\[3\]，當中�
 
 ## 媒體集
 
-[File:Nefaz_5299_in_Tomsk_oblast.jpg|NefAZ-5299近郊型巴士](File:Nefaz_5299_in_Tomsk_oblast.jpg%7CNefAZ-5299近郊型巴士)
-[File:NefAZ-5299_CNG_bus_for_Naberezhnye_Chelny.jpg|NefAZ-5299市區型巴士，採用天然氣驅動](File:NefAZ-5299_CNG_bus_for_Naberezhnye_Chelny.jpg%7CNefAZ-5299市區型巴士，採用天然氣驅動)
-[File:НефАЗ-БТЗ-52765.jpeg|基於5299型生產的無軌電車](File:НефАЗ-БТЗ-52765.jpeg%7C基於5299型生產的無軌電車)
-[File:KIOGE_Exhibition_2012_19.JPG|水罐車](File:KIOGE_Exhibition_2012_19.JPG%7C水罐車)
-Kamaz-based off-road bus, Kotlas.jpg|越野運輸車
-[File:NefAZ_4514_agricultural_dump_based_on_KAMAZ_chassis.jpg|農業斗車](File:NefAZ_4514_agricultural_dump_based_on_KAMAZ_chassis.jpg%7C農業斗車)
-VDL-NefAZ-52997 Transit in Sterlitamak.JPG|與VDL合作組裝生產的巴士 <File:Kamaz>
-Marcopolo Bus 3.JPG|與合作組裝生產的中型巴士
+[File:Nefaz_5299_in_Tomsk_oblast.jpg|NefAZ-5299近郊型巴士](File:Nefaz_5299_in_Tomsk_oblast.jpg%7CNefAZ-5299近郊型巴士) [File:NefAZ-5299_CNG_bus_for_Naberezhnye_Chelny.jpg|NefAZ-5299市區型巴士，採用天然氣驅動](File:NefAZ-5299_CNG_bus_for_Naberezhnye_Chelny.jpg%7CNefAZ-5299市區型巴士，採用天然氣驅動) [File:НефАЗ-БТЗ-52765.jpeg|基於5299型生產的無軌電車](File:НефАЗ-БТЗ-52765.jpeg%7C基於5299型生產的無軌電車) [File:KIOGE_Exhibition_2012_19.JPG|水罐車](File:KIOGE_Exhibition_2012_19.JPG%7C水罐車) Kamaz-based off-road bus, Kotlas.jpg|越野運輸車 [File:NefAZ_4514_agricultural_dump_based_on_KAMAZ_chassis.jpg|農業斗車](File:NefAZ_4514_agricultural_dump_based_on_KAMAZ_chassis.jpg%7C農業斗車) VDL-NefAZ-52997 Transit in Sterlitamak.JPG|與VDL合作組裝生產的巴士 <File:Kamaz> Marcopolo Bus 3.JPG|與合作組裝生產的中型巴士
 
 ## 參考來源
 
 ## 外部連結
 
   -
-[Category:1972年成立的公司](https://zh.wikipedia.org/wiki/Category:1972年成立的公司 "wikilink")
-[Category:巴士生產商](https://zh.wikipedia.org/wiki/Category:巴士生產商 "wikilink")
-[Category:俄羅斯汽車公司](https://zh.wikipedia.org/wiki/Category:俄羅斯汽車公司 "wikilink")
-[Category:俄羅斯公營事業](https://zh.wikipedia.org/wiki/Category:俄羅斯公營事業 "wikilink")
-[Category:巴什科爾托斯坦共和國公司](https://zh.wikipedia.org/wiki/Category:巴什科爾托斯坦共和國公司 "wikilink")
+[Category:1972年成立的公司](https://zh.wikipedia.org/wiki/Category:1972年成立的公司 "wikilink") [Category:巴士生產商](https://zh.wikipedia.org/wiki/Category:巴士生產商 "wikilink") [Category:俄羅斯汽車公司](https://zh.wikipedia.org/wiki/Category:俄羅斯汽車公司 "wikilink") [Category:俄羅斯公營事業](https://zh.wikipedia.org/wiki/Category:俄羅斯公營事業 "wikilink") [Category:巴什科爾托斯坦共和國公司](https://zh.wikipedia.org/wiki/Category:巴什科爾托斯坦共和國公司 "wikilink")
 
 1.
 

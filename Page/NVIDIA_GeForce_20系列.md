@@ -1,68 +1,41 @@
-**NVIDIA GeForce RTX
-20系列**，是由[NVIDIA開發的圖形處理器系列](../Page/英伟达.md "wikilink")。本系列於2018年8月20日的[Gamescom](../Page/Gamescom.md "wikilink")（科隆遊戲展）上發表，是[GeForce
-GTX
-10系列的後續版本](../Page/NVIDIA_GeForce_10系列.md "wikilink")。\[1\]\[2\]\[3\]本系列首發產品是GeForce
-RTX 2080及2080Ti，2018年9月20日正式發售。\[4\]
+**NVIDIA GeForce RTX 20系列**，是由[NVIDIA開發的圖形處理器系列](../Page/英伟达.md "wikilink")。本系列於2018年8月20日的[Gamescom](../Page/Gamescom.md "wikilink")（科隆遊戲展）上發表，是[GeForce GTX 10系列的後續版本](../Page/NVIDIA_GeForce_10系列.md "wikilink")。\[1\]\[2\]\[3\]本系列首發產品是GeForce RTX 2080及2080Ti，2018年9月20日正式發售。\[4\]
 
 ## 架构特性
 
-RTX
-20系列基于图灵(Turing)微架构，具有实时光线跟踪功能。\[5\]通过使用RT核心（光線追踪運算核心）可以加速这一过程。这些核心能够高效处理四叉树和球形层次结构，并在碰撞模拟的过程中更快地为三角面组成的立体模型进行物体碰撞模拟。
+RTX 20系列基于图灵(Turing)微架构，具有实时光线跟踪功能。\[5\]通过使用RT核心（光線追踪運算核心）可以加速这一过程。这些核心能够高效处理四叉树和球形层次结构，并在碰撞模拟的过程中更快地为三角面组成的立体模型进行物体碰撞模拟。
 
 RT核心的光线追踪功能在模拟反射，折射和阴影的操作上可以取代传统立方体贴图和深度贴图的光栅技术。从光线追踪运算得到的信息可以增强阴影使画面更加逼真，尤其是关于将发生于屏幕画面以外的动作通过阴影和光线反射渲染到画面之中。
 
-张量運算核心（Tensor
-Core）进一步加速了光线追踪，并用于填充部分渲染图像中的空白，这种技术被称为「降噪」。张量核心原是為深度学习而設計的，例如学习如何提高图像的分辨率。但通常消费者的张量核心主要是执行一些已经完成的深度学习模型，这些模型是在超级计算机进行分析和解决的，超级计算机确定如何实现这些目标的方法，例如学习如何提高图像的分辨率，然后由消费者的张量核心实际使用这个方法，也就是使用超级计算机找到的方法来提高图像的分辨率。
+张量運算核心（Tensor Core）进一步加速了光线追踪，并用于填充部分渲染图像中的空白，这种技术被称为「降噪」。张量核心原是為深度学习而設計的，例如学习如何提高图像的分辨率。但通常消费者的张量核心主要是执行一些已经完成的深度学习模型，这些模型是在超级计算机进行分析和解决的，超级计算机确定如何实现这些目标的方法，例如学习如何提高图像的分辨率，然后由消费者的张量核心实际使用这个方法，也就是使用超级计算机找到的方法来提高图像的分辨率。
 
-因此，圖靈架構的光線追蹤特性，實際上是舊有光線追蹤技術與近年興起的人工智慧（AI）、深度學習結合的產物，先是利用光線追蹤專用的運算單元RT
-core生成圖像的關鍵要素，剩餘的非關鍵要素則是交由深度學習運算單元Tensor Core來補全，而圖像中的關鍵要素，也藉由Tensor
-Core執行相關的深度學習程式來決定。除此以外，Tensor
-Core還被用於執行消除混疊的深度學習程式（深度學習超級採樣，DLSS），來柔化畫面鋸齒邊緣。\[6\]
+因此，圖靈架構的光線追蹤特性，實際上是舊有光線追蹤技術與近年興起的人工智慧（AI）、深度學習結合的產物，先是利用光線追蹤專用的運算單元RT core生成圖像的關鍵要素，剩餘的非關鍵要素則是交由深度學習運算單元Tensor Core來補全，而圖像中的關鍵要素，也藉由Tensor Core執行相關的深度學習程式來決定。除此以外，Tensor Core還被用於執行消除混疊的深度學習程式（深度學習超級採樣，DLSS），來柔化畫面鋸齒邊緣。\[6\]
 
-將[深度學習](https://zh.wikipedia.org/wiki/深度學習 "wikilink")、[光線追蹤用於畫面運算雖然不是首個](../Page/光線追蹤.md "wikilink")，NVIDIA早在基於[帕斯卡](https://zh.wikipedia.org/wiki/帕斯卡_\(微架构\) "wikilink")、[伏打圖形處理微架構的GeForce](../Page/伏打微架構.md "wikilink")
-GTX TITAN系列上有先行鋪路，光線追蹤更是早已有之的技術，只是當時裝置的效能僅能到作生成靜態畫面之用，而本代GeForce
-RTX系列則是首個在畫面處理中大量使用深度學習技術、引入與深度學習相結合的光線追蹤實時動態畫面技術的圖形處理器。不過它仍然保留了效能強勁、規格龐大的傳統光柵化渲染3D畫面所需的運算組件。\[7\]
+將[深度學習](https://zh.wikipedia.org/wiki/深度學習 "wikilink")、[光線追蹤](../Page/光線追蹤.md "wikilink")用於畫面運算雖然不是首個，NVIDIA早在基於[帕斯卡](https://zh.wikipedia.org/wiki/帕斯卡_\(微架构\) "wikilink")、[伏打圖形處理微架構的GeForce](../Page/伏打微架構.md "wikilink") GTX TITAN系列上有先行鋪路，光線追蹤更是早已有之的技術，只是當時裝置的效能僅能到作生成靜態畫面之用，而本代GeForce RTX系列則是首個在畫面處理中大量使用深度學習技術、引入與深度學習相結合的光線追蹤實時動態畫面技術的圖形處理器。不過它仍然保留了效能強勁、規格龐大的傳統光柵化渲染3D畫面所需的運算組件。\[7\]
 
 ## 细节
 
-  - 采用[台积电](https://zh.wikipedia.org/wiki/台积电 "wikilink")12nm
-    FFN工艺打造，由伏打微架構使用的12nm
-    FFC工艺改进（但本質上依舊是[台積電](https://zh.wikipedia.org/wiki/台積電 "wikilink")16nm
-    FF+工藝的延伸版本），性能是后者的1.1倍，功耗只有后者的70%，核心面积则可以缩小20%
-  - 為容納數量龐大的運算單元，核心面积相比帕斯卡微架構的大幅增加，由GP102（GeForce GTX
-    1080Ti）的471mm<sup>2</sup>增加至TU102（GeForce RTX
-    2080Ti）的754mm<sup>2</sup>
+  - 采用[台积电](https://zh.wikipedia.org/wiki/台积电 "wikilink")12nm FFN工艺打造，由伏打微架構使用的12nm FFC工艺改进（但本質上依舊是[台積電](https://zh.wikipedia.org/wiki/台積電 "wikilink")16nm FF+工藝的延伸版本），性能是后者的1.1倍，功耗只有后者的70%，核心面积则可以缩小20%
+  - 為容納數量龐大的運算單元，核心面积相比帕斯卡微架構的大幅增加，由GP102（GeForce GTX 1080Ti）的471mm<sup>2</sup>增加至TU102（GeForce RTX 2080Ti）的754mm<sup>2</sup>
   - [CUDA](../Page/CUDA.md "wikilink") 7.5
-  - 采用全新的SM陣列设计 :
-    TPC包含了两个SM单元(Pascal為1个)，SM單元重新分配為64个FP32、64个INT32、8个Tensor
-    Core 、1个RT Core ，同时添加了独立的INT数据路径，支持FP32和INT32操作的并发执行。
-  - 为共享缓存、一級缓存、纹理缓存引入了统一架构，一級缓存与共享缓存大小是灵活可变的，可以根据需要在64+32KB或者32+64KB之间变换，让一級缓存更充分利用资源，也减少一級缓存延迟，并提供比Pascal
-    GPU中使用的一級缓存更高的带宽，同时二級缓存容量提升。
-  - Tensor Core（張量核心） :
-    負責人工智慧、神經網絡運算，增加了新的INT8和INT4精度模式，FP16半精度也能够被完整支持通常会用到[矩阵融合乘加](../Page/矩阵.md "wikilink")(FMA)运算，新的INT8精度模式的工作速率是此速率的两倍，张量核心为矩阵运算提供了显着的加速，除了新的神经图形功能外，还用于深度学习训练和推理操作。
-  - NGX (Neural Graphics Acceleration)框架 : 利用张量核心，在游戏中实现深度学习功能，GeForce
-    Experience会自动匹配Turing显卡并且下载可用的NGX Core软件包，對應如DLSS、AI InPainting、AI
-    Super Rez、AI Slow-Mo等功能。
-  - DLSS (深度学习超级采样) :
-    抗锯齿技术，利用张量核心实现在较低的输入样本数下更快地渲染，具有与64×超级采样画面相同质量的细节，还可以避免TAA产生的运动模糊等问题，相比TAA等其它抗锯齿技术，渲染能力得到大幅提升。
-  - AI InPainting :
-    算法利用大量真实世界图像的训练，可以补全图片中缺失的内容，也可以移除照片的噪点、失真部分以及增强照片的清晰度等功能。
+  - 采用全新的SM陣列设计 : TPC包含了两个SM单元(Pascal為1个)，SM單元重新分配為64个FP32、64个INT32、8个Tensor Core 、1个RT Core ，同时添加了独立的INT数据路径，支持FP32和INT32操作的并发执行。
+  - 为共享缓存、一級缓存、纹理缓存引入了统一架构，一級缓存与共享缓存大小是灵活可变的，可以根据需要在64+32KB或者32+64KB之间变换，让一級缓存更充分利用资源，也减少一級缓存延迟，并提供比Pascal GPU中使用的一級缓存更高的带宽，同时二級缓存容量提升。
+  - Tensor Core（張量核心） : 負責人工智慧、神經網絡運算，增加了新的INT8和INT4精度模式，FP16半精度也能够被完整支持通常会用到[矩阵](../Page/矩阵.md "wikilink")融合乘加(FMA)运算，新的INT8精度模式的工作速率是此速率的两倍，张量核心为矩阵运算提供了显着的加速，除了新的神经图形功能外，还用于深度学习训练和推理操作。
+  - NGX (Neural Graphics Acceleration)框架 : 利用张量核心，在游戏中实现深度学习功能，GeForce Experience会自动匹配Turing显卡并且下载可用的NGX Core软件包，對應如DLSS、AI InPainting、AI Super Rez、AI Slow-Mo等功能。
+  - DLSS (深度学习超级采样) : 抗锯齿技术，利用张量核心实现在较低的输入样本数下更快地渲染，具有与64×超级采样画面相同质量的细节，还可以避免TAA产生的运动模糊等问题，相比TAA等其它抗锯齿技术，渲染能力得到大幅提升。
+  - AI InPainting : 算法利用大量真实世界图像的训练，可以补全图片中缺失的内容，也可以移除照片的噪点、失真部分以及增强照片的清晰度等功能。
   - AI Super Rez : 将原视频的分辨率清晰地放大2倍、4倍、8倍，图像更加锐利。
   - AI Slow-Mo : 将普通常见的30fps进行智能插帧计算，可以获得240/480fps的慢动作视频，而不需要专门高帧率摄像头机。
   - RT Core : 专门为光线追踪计算，是一条特异化的专用流水线，用于加速计算边界体积层次（BVH）遍历以及光线和三角求交（光线投射）。
-  - [GDDR6顯示記憶體的支援](../Page/GDDR6.md "wikilink")
-  - 附有影像串流壓縮技術（Display Stream Compression，DSC）1.2版的[DisplayPort
-    1.4a](../Page/DisplayPort.md "wikilink")
+  - [GDDR6](../Page/GDDR6.md "wikilink")顯示記憶體的支援
+  - 附有影像串流壓縮技術（Display Stream Compression，DSC）1.2版的[DisplayPort 1.4a](../Page/DisplayPort.md "wikilink")
   - 功能集J[PureVideo的硬體加速視訊解碼](https://zh.wikipedia.org/wiki/Nvidia_PureVideo "wikilink")
-  - [NVLink連接器](../Page/NVLink.md "wikilink")（與伏打微架構的不相容）
-  - [VirtualLink](https://zh.wikipedia.org/wiki/VirtualLink "wikilink")
-    [VR](https://zh.wikipedia.org/wiki/Virtual_reality "wikilink")
+  - [NVLink](../Page/NVLink.md "wikilink")連接器（與伏打微架構的不相容）
+  - [VirtualLink](https://zh.wikipedia.org/wiki/VirtualLink "wikilink") [VR](https://zh.wikipedia.org/wiki/Virtual_reality "wikilink")
   - GPU Boost 4\[8\]
 
 ## 設計
 
-RTX是GeForce
-20系列引入的开发平台。RTX的光线追踪示范程序中使用了微软的DXR，OptiX和[Vulkan来进行光线追踪](../Page/Vulkan_\(API\).md "wikilink")。\[9\]
+RTX是GeForce 20系列引入的开发平台。RTX的光线追踪示范程序中使用了微软的DXR，OptiX和[Vulkan来进行光线追踪](../Page/Vulkan_\(API\).md "wikilink")。\[9\]
 
 ## 芯片规格
 
@@ -213,8 +186,7 @@ RTX是GeForce
   - [NVIDIA GeForce 16系列](../Page/NVIDIA_GeForce_16系列.md "wikilink")
   - [NVIDIA GeForce 10系列](../Page/NVIDIA_GeForce_10系列.md "wikilink")
   - [Nvidia Quadro](../Page/NVIDIA_Quadro.md "wikilink")
-  - [Nvidia
-    Tesla](https://zh.wikipedia.org/wiki/Nvidia_Tesla "wikilink")
+  - [Nvidia Tesla](https://zh.wikipedia.org/wiki/Nvidia_Tesla "wikilink")
   - [伏打微架構](../Page/伏打微架構.md "wikilink")
 
 ## 參見
@@ -224,30 +196,22 @@ RTX是GeForce
 ## 扩展链接
 
   -
-  - [GeForce RTX Founders Edition Graphics Cards: Cool and Quiet, and
-    Factory
-    Overclocked](https://www.nvidia.com/en-us/geforce/news/geforce-rtx-founders-graphics-card-breakdown/)
+  - [GeForce RTX Founders Edition Graphics Cards: Cool and Quiet, and Factory Overclocked](https://www.nvidia.com/en-us/geforce/news/geforce-rtx-founders-graphics-card-breakdown/)
 
-  - [GeForce RTX 2080
-    Ti](https://www.nvidia.com/zh-cn/geforce/graphics-cards/rtx-2080-ti/)
+  - [GeForce RTX 2080 Ti](https://www.nvidia.com/zh-cn/geforce/graphics-cards/rtx-2080-ti/)
 
-  - [GeForce
-    RTX 2080](https://www.nvidia.com/zh-cn/geforce/graphics-cards/rtx-2080/)
+  - [GeForce RTX 2080](https://www.nvidia.com/zh-cn/geforce/graphics-cards/rtx-2080/)
 
-  - [GeForce
-    RTX 2070](https://www.nvidia.com/zh-cn/geforce/graphics-cards/rtx-2070/)
+  - [GeForce RTX 2070](https://www.nvidia.com/zh-cn/geforce/graphics-cards/rtx-2070/)
 
-  - [Geforce
-    RTX 2060](https://www.nvidia.com/zh-cn/geforce/graphics-cards/rtx-2060/)
+  - [Geforce RTX 2060](https://www.nvidia.com/zh-cn/geforce/graphics-cards/rtx-2060/)
 
   - [Nvidia Titan RTX](https://www.nvidia.com/en-us/titan/titan-rtx/)
 
-  - [Nvidia
-    Nsight](http://developer.nvidia.com/nvidia-nsight-visual-studio-edition)
+  - [Nvidia Nsight](http://developer.nvidia.com/nvidia-nsight-visual-studio-edition)
 
   -
-[Category:英伟达](https://zh.wikipedia.org/wiki/Category:英伟达 "wikilink")
-[Category:顯示卡](https://zh.wikipedia.org/wiki/Category:顯示卡 "wikilink")
+[Category:英伟达](https://zh.wikipedia.org/wiki/Category:英伟达 "wikilink") [Category:顯示卡](https://zh.wikipedia.org/wiki/Category:顯示卡 "wikilink")
 
 1.
 2.

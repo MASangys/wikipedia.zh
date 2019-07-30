@@ -1,5 +1,4 @@
-__NOTOC__ __NOEDITSECTION__
-<templatestyles src="Wikipedia:首页/styles.css" />
+__NOTOC__ __NOEDITSECTION__ <templatestyles src="Wikipedia:首頁/styles.css" />
 
 <div id="mp-2012">
 
@@ -13,19 +12,19 @@ __NOTOC__ __NOEDITSECTION__
 
 <h2>
 
-{{\#ifeq:|1|特色列表|典范条目}}
+{{\#ifeq:|1|特色列表|典範條目}}
 
 </h2>
 
-  - <span class="column-feature-more-header">[其他特色列表](https://zh.wikipedia.org/wiki/Wikipedia:特色列表 "wikilink")</span>：{{\#invoke:首页2|list|title=Wikipedia:特色列表/列表|pattern=%\[%\[:(.-)%\]%\]}}
+  - <span class="column-feature-more-header">[其他特色列表](https://zh.wikipedia.org/wiki/Wikipedia:特色列表 "wikilink")</span>：{{\#invoke:首頁2|list|title=Wikipedia:特色列表/列表|pattern=%\[%\[:(.-)%\]%\]}}
 
 </div>
 
 <div class="mp-2012-block-nav-footer hlist">
 
-  - [典范条目](https://zh.wikipedia.org/wiki/Wikipedia:典范条目 "wikilink")（[候选](https://zh.wikipedia.org/wiki/Wikipedia:典范条目评选 "wikilink")）
-  - [特色列表](https://zh.wikipedia.org/wiki/Wikipedia:特色列表 "wikilink")（[候选](https://zh.wikipedia.org/wiki/Wikipedia:特色列表评选 "wikilink")）
-  - [存档](https://zh.wikipedia.org/wiki/Wikipedia:典范条目/存档 "wikilink")
+  - [典範條目](https://zh.wikipedia.org/wiki/Wikipedia:典範條目 "wikilink")（[候選](https://zh.wikipedia.org/wiki/Wikipedia:典範條目評選 "wikilink")）
+  - [特色列表](https://zh.wikipedia.org/wiki/Wikipedia:特色列表 "wikilink")（[候選](https://zh.wikipedia.org/wiki/Wikipedia:特色列表評選 "wikilink")）
+  - [存檔](https://zh.wikipedia.org/wiki/Wikipedia:典範條目/存檔 "wikilink")
 
 </div>
 
@@ -37,7 +36,7 @@ __NOTOC__ __NOEDITSECTION__
 
 <h2>
 
-你知道吗？
+你知道嗎？
 
 </h2>
 
@@ -47,7 +46,7 @@ __NOTOC__ __NOEDITSECTION__
 
 <h2>
 
-优良条目
+優良條目
 
 </h2>
 
@@ -57,7 +56,7 @@ __NOTOC__ __NOEDITSECTION__
 
 <h2>
 
-每日图片
+每日圖片
 
 </h2>
 
@@ -77,7 +76,7 @@ __NOTOC__ __NOEDITSECTION__
 
 <h2>
 
-新闻动态
+新聞動態
 
 </h2>
 
@@ -87,7 +86,7 @@ __NOTOC__ __NOEDITSECTION__
 
 <h2>
 
-历史上的今天
+歷史上的今天
 
 </h2>
 
@@ -97,7 +96,7 @@ __NOTOC__ __NOEDITSECTION__
 
 <h2>
 
-動態热门
+動態熱門
 
 </h2>
 
@@ -115,16 +114,15 @@ __NOTOC__ __NOEDITSECTION__
 
 <h2>
 
-參與维基百科
+參與維基百科
 
 </h2>
 
 <div id="column-participate" class="mp-2012-text">
 
-[Applications-office.svg](https://zh.wikipedia.org/wiki/File:Applications-office.svg "fig:Applications-office.svg")
-**[维基百科](https://zh.wikipedia.org/wiki/Wikipedia:关于 "wikilink")**是一个[多语言](https://zh.wikipedia.org/wiki/维基百科:维基百科语言列表 "wikilink")、[内容自由](https://zh.wikipedia.org/wiki/Wikipedia:版权信息 "wikilink")、[任何人都能参与的协作计划](https://zh.wikipedia.org/wiki/Wikipedia:誰在寫維基百科 "wikilink")，其目标是建立一个完整、准确且中立的百科全书。
+[Applications-office.svg](https://zh.wikipedia.org/wiki/File:Applications-office.svg "fig:Applications-office.svg") **[維基百科](https://zh.wikipedia.org/wiki/Wikipedia:關於 "wikilink")**是一個[多語言](https://zh.wikipedia.org/wiki/維基百科:維基百科語言列表 "wikilink")、[内容自由](https://zh.wikipedia.org/wiki/Wikipedia:版權訊息 "wikilink")、[任何人都能参與的協作計劃](https://zh.wikipedia.org/wiki/Wikipedia:誰在寫維基百科 "wikilink")，其目標是建立一個完整、準確且中立的百科全書。
 
-中文维基百科的成长依靠您的参与，無論是[创建新条目](https://zh.wikipedia.org/wiki/帮助:创建新页面 "wikilink")、[编辑现有条目](https://zh.wikipedia.org/wiki/帮助:编辑页面 "wikilink")，或者[为条目增加插图](https://zh.wikipedia.org/wiki/Wikipedia:图片教程 "wikilink")，您都可以为维基百科作出贡献。
+中文維基百科的成長依靠您的参與，無論是[創建新條目](https://zh.wikipedia.org/wiki/幫助:創建新頁面 "wikilink")、[編輯現有條目](https://zh.wikipedia.org/wiki/幫助:編輯頁面 "wikilink")，或者[為條目增加插圖](https://zh.wikipedia.org/wiki/Wikipedia:圖片教程 "wikilink")，您都可以為維基百科做出貢獻。
 
 <div id="column-participate-button">
 
@@ -142,14 +140,13 @@ __NOTOC__ __NOEDITSECTION__
 
 <h2>
 
-维基百科提醒您
+維基百科提醒您
 
 </h2>
 
 <div id="column-tips" class="plainlinks mp-2012-text">
 
-[Dialog-information_on.svg](https://zh.wikipedia.org/wiki/File:Dialog-information_on.svg "fig:Dialog-information_on.svg")
-{{\#invoke:首页|tips_show}}
+[Dialog-information_on.svg](https://zh.wikipedia.org/wiki/File:Dialog-information_on.svg "fig:Dialog-information_on.svg") {{\#invoke:首頁|tips_show}}
 
 </div>
 
@@ -171,14 +168,14 @@ __NOTOC__ __NOEDITSECTION__
 
 <h3>
 
-站点-{zh-cn:链接;zh-hant:連結}-
+站點-{zh-cn:链接;zh-hant:連結}-
 
 </h3>
 
   - [-{zh-cn:移动访问;zh-tw:行動瀏覽;zh-hk:流動瀏覽}-](https://zh.wikipedia.org/wiki/Wikipedia:WAP存取 "wikilink")
-  - [站点新闻](https://zh.wikipedia.org/wiki/Wikipedia:新聞 "wikilink")
-  - [联络我们](https://zh.wikipedia.org/wiki/Wikipedia:联络我们 "wikilink")
-  - [{{lang](https://zh.wikipedia.org/wiki/Wikipedia:联合供稿 "wikilink")
+  - [站點新聞](https://zh.wikipedia.org/wiki/Wikipedia:新聞 "wikilink")
+  - [聯絡我們](https://zh.wikipedia.org/wiki/Wikipedia:聯絡我們 "wikilink")
+  - [{{lang](https://zh.wikipedia.org/wiki/Wikipedia:聯合供稿 "wikilink")
   - [{{lang](https://zh.wikipedia.org/wiki/Wikipedia_talk:Guestbook_for_non-Chinese_speakers "wikilink")
 
 </td>
@@ -187,16 +184,15 @@ __NOTOC__ __NOEDITSECTION__
 
 <h3>
 
-认识维基百科
+認識維基百科
 
 </h3>
 
-  - [谁在撰写](https://zh.wikipedia.org/wiki/Wikipedia:誰在寫維基百科 "wikilink")
+  - [誰在撰寫](https://zh.wikipedia.org/wiki/Wikipedia:誰在寫維基百科 "wikilink")
   - [五大支柱](https://zh.wikipedia.org/wiki/Wikipedia:五大支柱 "wikilink")
-  - [常见问题](https://zh.wikipedia.org/wiki/Wikipedia:常见问题解答 "wikilink")
-  - [常见-{zh-cn:误区;
-    zh-hant:誤解;}-](https://zh.wikipedia.org/wiki/Wikipedia:维基百科不是什么 "wikilink")
-  - [简要规则集](https://zh.wikipedia.org/wiki/Wikipedia:简要规则集 "wikilink")
+  - [常見問題](https://zh.wikipedia.org/wiki/Wikipedia:常見問題解答 "wikilink")
+  - [常見-{zh-cn:误区; zh-hant:誤解;}-](https://zh.wikipedia.org/wiki/Wikipedia:維基百科不是什麼 "wikilink")
+  - [簡要規則集](https://zh.wikipedia.org/wiki/Wikipedia:簡要規則集 "wikilink")
 
 </td>
 
@@ -208,11 +204,11 @@ __NOTOC__ __NOEDITSECTION__
 
 </h3>
 
-  - [备忘单](https://zh.wikipedia.org/wiki/Wikipedia:備忘單 "wikilink")
-  - [版权守则](https://zh.wikipedia.org/wiki/Wikipedia:简明版权信息 "wikilink")
+  - [備忘單](https://zh.wikipedia.org/wiki/Wikipedia:備忘單 "wikilink")
+  - [版權守則](https://zh.wikipedia.org/wiki/Wikipedia:簡明版權訊息 "wikilink")
   - [格式手冊](https://zh.wikipedia.org/wiki/Wikipedia:格式手冊 "wikilink")
   - [版面指南](https://zh.wikipedia.org/wiki/Wikipedia:版面指南 "wikilink")
-  - [术语表](https://zh.wikipedia.org/wiki/Wikipedia:术语表 "wikilink")
+  - [術語表](https://zh.wikipedia.org/wiki/Wikipedia:術語表 "wikilink")
 
 </td>
 

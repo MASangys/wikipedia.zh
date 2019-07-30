@@ -1,5 +1,4 @@
-**Parrot Security
-Linux**是一个基于[Debian的](../Page/Debian.md "wikilink")[Linux发行版](../Page/Linux.md "wikilink")，专注于[计算机安全](../Page/计算机安全.md "wikilink")\[1\]。它专为[渗透测试](https://zh.wikipedia.org/wiki/渗透测试 "wikilink")，漏洞评估和缓解，计算机取证和匿名Web浏览而设计，由Frozenbox团队开发。
+**Parrot Security Linux**是一个基于[Debian](../Page/Debian.md "wikilink")的[Linux](../Page/Linux.md "wikilink")发行版，专注于[计算机安全](../Page/计算机安全.md "wikilink")\[1\]。它专为[渗透测试](https://zh.wikipedia.org/wiki/渗透测试 "wikilink")，漏洞评估和缓解，计算机取证和匿名Web浏览而设计，由Frozenbox团队开发。
 
 ## 目的
 
@@ -7,19 +6,15 @@ ParrotSec旨在提供一套渗透测试工具，用于攻击缓解，安全研�
 
 ## 核心
 
-Parrot基于[Debian的测试分支](../Page/Debian.md "wikilink")（Buster），具有自定义的[Linux](../Page/Linux.md "wikilink")
-4.19内核。 它遵循滚动开发模式。\[3\]
+Parrot基于[Debian](../Page/Debian.md "wikilink")的测试分支（Buster），具有自定义的[Linux](../Page/Linux.md "wikilink") 4.19内核。 它遵循滚动开发模式。\[3\]
 
-Parrot採用的[桌面环境是](../Page/桌面环境.md "wikilink")[MATE](../Page/MATE.md "wikilink")，默认显示管理器是[LightDM](../Page/LightDM.md "wikilink")。
+Parrot採用的[桌面环境](../Page/桌面环境.md "wikilink")是[MATE](../Page/MATE.md "wikilink")，默认显示管理器是[LightDM](../Page/LightDM.md "wikilink")。
 
-该项目经认证可在至少具有256MB
-[RAM的设备上运行](https://zh.wikipedia.org/wiki/RAM "wikilink")，并且适用于32位（[i386](https://zh.wikipedia.org/wiki/i386 "wikilink")）和64位（[amd64](https://zh.wikipedia.org/wiki/amd64 "wikilink")）处理器架构。\[4\]
-此外，该项目可用于ARMv7（armhf）架构。 它甚至提供了一个专门为服务器开发的版本（32位和64位）\[5\]，以进行云服务渗透测试。
+该项目经认证可在至少具有256MB [RAM的设备上运行](https://zh.wikipedia.org/wiki/RAM "wikilink")，并且适用于32位（[i386](https://zh.wikipedia.org/wiki/i386 "wikilink")）和64位（[amd64](https://zh.wikipedia.org/wiki/amd64 "wikilink")）处理器架构。\[4\] 此外，该项目可用于ARMv7（armhf）架构。 它甚至提供了一个专门为服务器开发的版本（32位和64位）\[5\]，以进行云服务渗透测试。
 
-2017年6月，ParrotSec宣布他们正在考虑从[Debian改为](../Page/Debian.md "wikilink")[Devuan](../Page/Devuan.md "wikilink")，主要是因为极具争议性的系统问题。\[6\]
+2017年6月，ParrotSec宣布他们正在考虑从[Debian](../Page/Debian.md "wikilink")改为[Devuan](../Page/Devuan.md "wikilink")，主要是因为极具争议性的系统问题。\[6\]
 
-截至2019年1月21日，Parrot
-Linux团队将逐步淘汰所有的32位（[i386](https://zh.wikipedia.org/wiki/i386 "wikilink")）版本的开发。
+截至2019年1月21日，Parrot Linux团队将逐步淘汰所有的32位（[i386](https://zh.wikipedia.org/wiki/i386 "wikilink")）版本的开发。
 
 ## 更新頻率
 
@@ -81,12 +76,10 @@ Linux团队将逐步淘汰所有的32位（[i386](https://zh.wikipedia.org/wiki/
 
 ## 参考来源 
 
-[Category:基于Debian的发行版](https://zh.wikipedia.org/wiki/Category:基于Debian的发行版 "wikilink")
-[Category:安全软件](https://zh.wikipedia.org/wiki/Category:安全软件 "wikilink")
+[Category:基于Debian的发行版](https://zh.wikipedia.org/wiki/Category:基于Debian的发行版 "wikilink") [Category:安全软件](https://zh.wikipedia.org/wiki/Category:安全软件 "wikilink")
 
 1.
-2.   The source for Linux
-    information|language=en|access-date=2018-03-09}}
+2.   The source for Linux information|language=en|access-date=2018-03-09}}
 3.
 4.
 5.

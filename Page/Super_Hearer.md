@@ -1,5 +1,4 @@
-《**Super
-Hearer**》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN電視台於](https://zh.wikipedia.org/wiki/tvN "wikilink")2019年6月16日播出的綜藝節目，是一檔以自己的耳朵為根據來進行音樂推理的節目，頂級音樂人們作為“Hearer”出演，只能聽到演唱者唱歌的聲音，在5名演唱者中找到符合每週主題的真正歌手。\[1\]\[2\]\[3\]
+《**Super Hearer**》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN電視台於](https://zh.wikipedia.org/wiki/tvN "wikilink")2019年6月16日播出的綜藝節目，是一檔以自己的耳朵為根據來進行音樂推理的節目，頂級音樂人們作為“Hearer”出演，只能聽到演唱者唱歌的聲音，在5名演唱者中找到符合每週主題的真正歌手。\[1\]\[2\]\[3\]
 
 ## 節目成員
 
@@ -21,7 +20,7 @@ Hearer**》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")
 <td></td>
 </tr>
 <tr class="even">
-<td><p>張成奎</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/張聖圭" title="wikilink">張聖圭</a></p></td>
 <td></td>
 <td></td>
 <td><p>第1集至今</p></td>
@@ -85,8 +84,7 @@ Hearer**》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")
 
 ## 收視率
 
-<small> 以下紀錄《**Super
-Hearer**》節目收視，收視最低的集數以表示，收視最高的集數以表示，而空格則表示該集的收視沒有相關數據。</small>
+<small> 以下紀錄《**Super Hearer**》節目收視，收視最低的集數以表示，收視最高的集數以表示，而空格則表示該集的收視沒有相關數據。</small>
 
 <table>
 <thead>
@@ -171,8 +169,7 @@ Hearer**》節目收視，收視最低的集數以表示，收視最高的集數
   - [官方網站](http://program.m.tving.com/tvn/superhearer/)
   - [Super Hearer-NAVER](https://m.entertain.naver.com/tvBrand/9695961)
 
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
+[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
 
 1.
 2.

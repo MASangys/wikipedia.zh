@@ -9,16 +9,11 @@
 
 ## 图库
 
-<File:Canon> EOS R 07 sep 2018b.jpg| <File:Canon> EOS R 07 sep
-2018c.jpg| <File:Canon> EOS R 07 sep 2018d.jpg| <File:Canon> EOS R 07
-sep 2018e.jpg| <File:Canon> EOS R 07 sep 2018f.jpg| <File:Canon>
-RF24-105mm F4 L IS USM 07 sep 2018.jpg| <File:Canon> RF28-70mm F2 L USM
-07 sep 2018.jpg|
+<File:Canon> EOS R 07 sep 2018b.jpg| <File:Canon> EOS R 07 sep 2018c.jpg| <File:Canon> EOS R 07 sep 2018d.jpg| <File:Canon> EOS R 07 sep 2018e.jpg| <File:Canon> EOS R 07 sep 2018f.jpg| <File:Canon> RF24-105mm F4 L IS USM 07 sep 2018.jpg| <File:Canon> RF28-70mm F2 L USM 07 sep 2018.jpg|
 
 ## 相关
 
-  - [Canon EOS
-    RP](https://zh.wikipedia.org/wiki/Canon_EOS_RP "wikilink")
+  - [Canon EOS RP](https://zh.wikipedia.org/wiki/Canon_EOS_RP "wikilink")
   - [Canon EOS M](https://zh.wikipedia.org/wiki/Canon_EOS_M "wikilink")
 
 ## 参考

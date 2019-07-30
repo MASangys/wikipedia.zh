@@ -1,5 +1,4 @@
-**大台南公車中華環線(70路)**自永華市政中心發車經安平區、北區、永康區、東區、南區、中西區，為[大台南公車](../Page/大台南公車.md "wikilink")20條市區公車之一，亦為大台南公車第113條公車路線，由[興南客運](../Page/興南客運.md "wikilink")營運。主要行駛中華北路、中華路、林森路、小東路、長榮路、健康路。由永華市政中心出發後，沿途經過[奇美醫院](https://zh.wikipedia.org/wiki/奇美醫院 "wikilink")、[成大醫院](https://zh.wikipedia.org/wiki/成大醫院 "wikilink")、[後火車站](https://zh.wikipedia.org/wiki/台南車站 "wikilink")、[大東夜市](https://zh.wikipedia.org/wiki/大東夜市 "wikilink")、體育公園以及台南市區各級學校。
-中華環線為臺南市政府交通局規劃之捷運藍線先導測試路線\[1\]，於2019年3月5日正式通車。
+**大台南公車中華環線(70路)**自永華市政中心發車經安平區、北區、永康區、東區、南區、中西區，為[大台南公車](../Page/大台南公車.md "wikilink")20條市區公車之一，亦為大台南公車第113條公車路線，由[興南客運](../Page/興南客運.md "wikilink")營運。主要行駛中華北路、中華路、林森路、小東路、長榮路、健康路。由永華市政中心出發後，沿途經過[奇美醫院](https://zh.wikipedia.org/wiki/奇美醫院 "wikilink")、[成大醫院](https://zh.wikipedia.org/wiki/成大醫院 "wikilink")、[後火車站](https://zh.wikipedia.org/wiki/台南車站 "wikilink")、[大東夜市](https://zh.wikipedia.org/wiki/大東夜市 "wikilink")、體育公園以及台南市區各級學校。 中華環線為臺南市政府交通局規劃之捷運藍線先導測試路線\[1\]，於2019年3月5日正式通車。
 
 ## 歷史
 
@@ -12,8 +11,7 @@
 
 ### 配車
 
-  - 2018年12月 9輛GOLDEN DRAGON
-    XML6125JEV：EAA-727\~EAA-729、EAA-731\~EAA-737
+  - 2018年12月 9輛GOLDEN DRAGON XML6125JEV：EAA-727\~EAA-729、EAA-731\~EAA-737
 
 ### 收費
 

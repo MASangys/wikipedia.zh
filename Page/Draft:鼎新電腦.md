@@ -1,12 +1,25 @@
 -----
 
-鼎新電腦股份有限公司簡稱「鼎新電腦」，是一家總部位於台灣的資訊[軟體企業](https://zh.wikipedia.org/wiki/軟體 "wikilink")。公司主要營業項目為企業資源管理軟體與指標管理服務，主力著重於開發設計各類ERP系統軟體，乃台灣[企業資源規劃](https://zh.wikipedia.org/wiki/企業資源規劃 "wikilink")(ERP)領導廠商。根據[中華徵信所資料庫顯示](../Page/中華徵信所.md "wikilink")，鼎新電腦於2014年至2016年皆為台灣電腦軟體服務的第二大[軟體企業](https://zh.wikipedia.org/wiki/軟體 "wikilink")\[1\]，全球設立了35個營業據點，歷年來超過50,000餘家企業使用，其中以[製造業為最大宗](https://zh.wikipedia.org/wiki/製造業 "wikilink")。
-
-根據[1111人力銀行針對約五千名上班族調查發現](../Page/1111人力銀行.md "wikilink")，鼎新電腦擠進2019年台灣幸福企業\[2\]的「軟體/網路」類別前20名。同年3月並以企業數位化轉型為主軸，展開第七屆企業高峰年會\[3\]，以近期最被關切的大數據、人工智慧、新零售議題做為創新應用之探討項目。
+鼎新電腦股份有限公司簡稱「鼎新電腦」，是一家總部位於台灣的資訊[軟體企業](https://zh.wikipedia.org/wiki/軟體 "wikilink")。公司主要營業項目為企業資源管理軟體與指標管理服務，主力著重於開發設計各類ERP系統軟體，乃台灣[企業資源規劃](https://zh.wikipedia.org/wiki/企業資源規劃 "wikilink")(ERP)領導廠商。根據[中華徵信所](../Page/中華徵信所.md "wikilink")資料庫顯示，鼎新電腦於2014年至2016年皆為台灣電腦軟體服務的第二大[軟體企業](https://zh.wikipedia.org/wiki/軟體 "wikilink")\[1\]，全球設立了35個營業據點，歷年來超過50,000餘家企業使用，其中以[製造業為最大宗](https://zh.wikipedia.org/wiki/製造業 "wikilink")。
 
 ## 歷史
 
-1982年創辦人孫藹彬先生成立了「鼎新電腦」，且台灣於80年代積極發展資訊科技\[4\]後，整體營運結構逐漸轉型，近年來佔有台灣超過70%的市場占比\[5\]\[6\]，站穩台灣軟體產業領導龍頭的地位。但隨製造產業往中國大陸遷移，2001年鼎新電腦與神州數碼合資\[7\]後，也開拓了越南、馬來西亞、泰國等東南亞據點，持續擴大企業經營版圖，如今擁有鼎新電腦(台灣)、鼎捷軟件(中國大陸)、鼎捷軟件（越南）、鼎捷軟件（馬來西亞）、鼎華系統、鼎捷移動科技、智互聯（深圳）科技的關係企業布局。
+1982年創辦人孫藹彬先生成立了「鼎新電腦」，且台灣於80年代積極發展資訊科技後，整體營運結構逐漸轉型，近年來佔有台灣超過70%的市場占比\[2\]\[3\]，站穩台灣軟體產業領導龍頭的地位。但隨製造產業往中國大陸遷移，2001年鼎新電腦與神州數碼合資\[4\]後，發展了越南、馬來西亞、泰國等東南亞據點，持續擴大企業經營版圖，現今有鼎新電腦(台灣)、鼎捷軟件(中國大陸)、鼎捷軟件（越南）、鼎捷軟件（馬來西亞）、南京鼎華智能、上海鼎捷移動科技、智互聯（深圳）科技的關係企業布局。
+
+## 發展概況
+
+  - 1982年，鼎新電腦創立於台北
+  - 2001年，鼎新電腦（2447）以新台幣106元掛牌上市\[5\]，成為台灣首家企業資源規劃上市業者。
+  - 2002年，獲得經濟部第三屆工業永續精銳獎-技術服務類
+  - 2007年，鼎華投資收購鼎新電腦半數以上股權，鼎新電腦在台下市\[6\]
+  - 2007年，通過CMMI Level 3評鑑\[7\]
+  - 2008年，成立鼎捷集團、鼎捷軟件(越南)
+  - 2008年9月，與大陸轉投資的資訊服務業者神州數碼整合
+  - 2010年，鼎新通過CMMI Level 4認證
+  - 2013年，獲得經濟部第三屆國家產業創新獎
+  - 2014年，於深圳創業板上市\[8\](股票代號300378)，並成立鼎捷軟件(馬來西亞)
+  - 2016年，上海智能+體驗中心啟用
+  - 2018年，台中鼎新大樓進駐台中軟體園區，研發、培訓、體驗基地啟用\[9\]
 
 ## 主要服務
 
@@ -75,22 +88,20 @@
 
 [鼎新電腦高峰年會 企業數位化轉型論壇](https://money.udn.com/money/story/5640/3691846)
 
-[鼎新電腦人臉辨識
-智慧零售新應用](https://www.chinatimes.com/newspapers/20190305000342-260210?chdtv)
+[鼎新電腦人臉辨識 智慧零售新應用](https://www.chinatimes.com/newspapers/20190305000342-260210?chdtv)
 
-[鼎新電腦
-帶企業預見AI未來](https://www.chinatimes.com/newspapers/20180807000339-260210?chdtv)
+[鼎新電腦 帶企業預見AI未來](https://www.chinatimes.com/newspapers/20180807000339-260210?chdtv)
 
-[智慧製造聯盟
-啟動數位轉型展成果](https://www.digitimes.com.tw/iot/article.asp?cat=130&id=0000551872_ja17tiv38i1owm1h9ekki)
+[智慧製造聯盟 啟動數位轉型展成果](https://www.digitimes.com.tw/iot/article.asp?cat=130&id=0000551872_ja17tiv38i1owm1h9ekki)
 
 __强显目录__
 
 1.
 2.
-3.   ICT趨勢 {{\!}}
-    商情|url=[https://money.udn.com/money/story/5640/3691846|accessdate=2019-06-26|last=經濟日報|work=經濟日報|language=zh-Hant-TW](https://money.udn.com/money/story/5640/3691846%7Caccessdate=2019-06-26%7Clast=經濟日報%7Cwork=經濟日報%7Clanguage=zh-Hant-TW)}}
+3.  台灣在地企業數位轉型推動經驗{{\!}}ERP價值顯現應用價值{{\!}}鼎新電腦|url=[https://www.digiwin.com/tw/aboutdsc.html|accessdate=2019-06-17|work=www.digiwin.com](https://www.digiwin.com/tw/aboutdsc.html%7Caccessdate=2019-06-17%7Cwork=www.digiwin.com)}}
 4.
 5.
-6.  台灣在地企業數位轉型推動經驗{{\!}}ERP價值顯現應用價值{{\!}}鼎新電腦|url=[https://www.digiwin.com/tw/aboutdsc.html|accessdate=2019-06-17|work=www.digiwin.com](https://www.digiwin.com/tw/aboutdsc.html%7Caccessdate=2019-06-17%7Cwork=www.digiwin.com)}}
+6.
 7.
+8.
+9.

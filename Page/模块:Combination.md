@@ -203,7 +203,7 @@ function p.subset(inputstr)
 `               end`
 `           end`
 `       end`
-`       empty_set = "`[`空集合`](../Page/空集.md "wikilink")`";`
+`       empty_set = "`[`空集`](../Page/空集.md "wikilink")合`";`
 `       format = "*``\n";`
 `       for arg_name, arg_value in pairs( t_args ) do`
 `           if arg_name == "format" then`
@@ -213,7 +213,7 @@ function p.subset(inputstr)
 `           elseif arg_name == "max" then`
 `               max_val = tonumber(arg_value);`
 `           elseif arg_name == "empty" or arg_name == "empty set" or arg_name == "empty_set" then`
-`               empty_set = arg_value or "`[`空集合`](../Page/空集.md "wikilink")`";`
+`               empty_set = arg_value or "`[`空集`](../Page/空集.md "wikilink")合`";`
 `           elseif arg_name == "no_output" or arg_name == "no output" then`
 `               no_output = arg_value;`
 `           end`

@@ -1,4 +1,4 @@
-**UMB世界排名**，是由[世界撞球聯盟針對](../Page/世界撞球聯盟.md "wikilink")[開侖選手所作的世界排名](../Page/開侖.md "wikilink")。
+**UMB世界排名**，是由[世界撞球聯盟](../Page/世界撞球聯盟.md "wikilink")針對[開侖](../Page/開侖.md "wikilink")選手所作的世界排名。
 
 ## 排名
 
@@ -139,8 +139,6 @@
 
 ## 參考文獻
 
-[Category:開侖撞球](https://zh.wikipedia.org/wiki/Category:開侖撞球 "wikilink")
-[Category:運動世界排名](https://zh.wikipedia.org/wiki/Category:運動世界排名 "wikilink")
+[Category:開侖撞球](https://zh.wikipedia.org/wiki/Category:開侖撞球 "wikilink") [Category:運動世界排名](https://zh.wikipedia.org/wiki/Category:運動世界排名 "wikilink")
 
-1.  [World Players Ranking, UMB,
-    Edition: 11/2019](http://files.umb-carom.org/Public/Ranking/1_WP_Ranking/2019/W11_2019.pdf)
+1.  [World Players Ranking, UMB, Edition: 11/2019](http://files.umb-carom.org/Public/Ranking/1_WP_Ranking/2019/W11_2019.pdf)

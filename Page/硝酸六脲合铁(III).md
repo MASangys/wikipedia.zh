@@ -2,7 +2,7 @@
 
 ## 制备
 
-硝酸六脲合铁(III)可由[硝酸铁九水合物和](../Page/硝酸铁.md "wikilink")[尿素按](../Page/尿素.md "wikilink")1:6.2化学计量比反应得到，水溶液法可先将硝酸铁用硝酸调节pH至1，再将其加入至尿素水溶液，于70°C反应蒸去三分之二的溶剂，过滤，再蒸发滤液得到晶体；非水溶剂法可在乙醇中反应得到；干法则可通过直接研磨反应物得到。\[3\]在乙醇中的反应比水溶液中的反应产率要高。\[4\]如果任一反应物有较多过量，未洗净时会使产物潮解或水解，乙醇法的适宜反应温度为50°C。\[5\]
+硝酸六脲合铁(III)可由[硝酸铁](../Page/硝酸铁.md "wikilink")九水合物和[尿素](../Page/尿素.md "wikilink")按1:6.2化学计量比反应得到，水溶液法可先将硝酸铁用硝酸调节pH至1，再将其加入至尿素水溶液，于70°C反应蒸去三分之二的溶剂，过滤，再蒸发滤液得到晶体；非水溶剂法可在乙醇中反应得到；干法则可通过直接研磨反应物得到。\[3\]在乙醇中的反应比水溶液中的反应产率要高。\[4\]如果任一反应物有较多过量，未洗净时会使产物潮解或水解，乙醇法的适宜反应温度为50°C。\[5\]
 
 ## 性质
 
@@ -10,9 +10,7 @@
 
 ## 参考文献
 
-[Category:三价铁化合物](https://zh.wikipedia.org/wiki/Category:三价铁化合物 "wikilink")
-[Category:脲配合物](https://zh.wikipedia.org/wiki/Category:脲配合物 "wikilink")
-[Category:硝酸盐](https://zh.wikipedia.org/wiki/Category:硝酸盐 "wikilink")
+[Category:三价铁化合物](https://zh.wikipedia.org/wiki/Category:三价铁化合物 "wikilink") [Category:脲配合物](https://zh.wikipedia.org/wiki/Category:脲配合物 "wikilink") [Category:硝酸盐](https://zh.wikipedia.org/wiki/Category:硝酸盐 "wikilink")
 
 [Category:铁配合物](https://zh.wikipedia.org/wiki/Category:铁配合物 "wikilink")
 

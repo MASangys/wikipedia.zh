@@ -2,9 +2,7 @@
 
 本劇首播收視為4.474%(AGB全國)，創下[OCN的劇集首播最高的收視記錄](https://zh.wikipedia.org/wiki/OCN "wikilink")。
 
-台灣播出時間，9月30日起每週日、一上午10點，[愛奇藝台灣站獨家播出](https://zh.wikipedia.org/wiki/愛奇藝台灣站 "wikilink")。
-另外，[tvN
-Asia於新加坡](https://zh.wikipedia.org/wiki/tvN_Asia "wikilink")、馬來西亞和印尼於韓國播放後24小時之內同日播出。
+台灣播出時間，9月30日起每週日、一上午10點，[愛奇藝台灣站獨家播出](https://zh.wikipedia.org/wiki/愛奇藝台灣站 "wikilink")。 另外，[tvN Asia於新加坡](https://zh.wikipedia.org/wiki/tvN_Asia "wikilink")、馬來西亞和印尼於韓國播放後24小時之內同日播出。
 
 ## 演員陣容
 
@@ -422,13 +420,7 @@ Asia於新加坡](https://zh.wikipedia.org/wiki/tvN_Asia "wikilink")、馬來西
   - [韓國OCN官方網站](http://program.tving.com/ocn/Player)
   - [香港有線電視官方網站](http://epg.i-cable.com/ci/program/intro/587/玩家)
 
-[Category:2018年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2018年韓國電視劇集 "wikilink")
-[Category:OCN電視劇](https://zh.wikipedia.org/wiki/Category:OCN電視劇 "wikilink")
-[Category:OCN_Original_Series](https://zh.wikipedia.org/wiki/Category:OCN_Original_Series "wikilink")
-[Category:電視劇集系列](https://zh.wikipedia.org/wiki/Category:電視劇集系列 "wikilink")
-[Category:韓國犯罪劇](https://zh.wikipedia.org/wiki/Category:韓國犯罪劇 "wikilink")
-[Category:香港有線電視外購劇集](https://zh.wikipedia.org/wiki/Category:香港有線電視外購劇集 "wikilink")
-[Category:奇妙電視外購劇集](https://zh.wikipedia.org/wiki/Category:奇妙電視外購劇集 "wikilink")
+[Category:2018年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2018年韓國電視劇集 "wikilink") [Category:OCN電視劇](https://zh.wikipedia.org/wiki/Category:OCN電視劇 "wikilink") [Category:OCN_Original_Series](https://zh.wikipedia.org/wiki/Category:OCN_Original_Series "wikilink") [Category:電視劇集系列](https://zh.wikipedia.org/wiki/Category:電視劇集系列 "wikilink") [Category:韓國犯罪劇](https://zh.wikipedia.org/wiki/Category:韓國犯罪劇 "wikilink") [Category:香港有線電視外購劇集](https://zh.wikipedia.org/wiki/Category:香港有線電視外購劇集 "wikilink") [Category:奇妙電視外購劇集](https://zh.wikipedia.org/wiki/Category:奇妙電視外購劇集 "wikilink")
 
 1.
 2.

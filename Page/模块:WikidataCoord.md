@@ -1,13 +1,8 @@
-require('Module:No globals') local getArgs =
-require('Module:Arguments').getArgs
+require('Module:No globals') local getArgs = require('Module:Arguments').getArgs
 
 local p = {}
 
-\--[--------------------------\< I S _ S E T
-\>------------------------------------------------------------------
-Whether variable is set or not. A variable is set when it is not nil and
-not
-empty.](https://zh.wikipedia.org/wiki/--------------------------\<_I_S_S_E_T_\>------------------------------------------------------------------_Whether_variable_is_set_or_not._A_variable_is_set_when_it_is_not_nil_and_not_empty. "wikilink")
+\--[--------------------------\< I S _ S E T \>------------------------------------------------------------------ Whether variable is set or not. A variable is set when it is not nil and not empty.](https://zh.wikipedia.org/wiki/--------------------------\<_I_S_S_E_T_\>------------------------------------------------------------------_Whether_variable_is_set_or_not._A_variable_is_set_when_it_is_not_nil_and_not_empty. "wikilink")
 
 local function is_set( var )
 
@@ -15,18 +10,15 @@ local function is_set( var )
 
 end
 
-\--\[\[--------------------------\< M A I N
-\>----------------------------------------------------------------------
+\--\[\[--------------------------\< M A I N \>----------------------------------------------------------------------
 
-Template entry point. This function takes up to two unnamed positional
-parameters:
+Template entry point. This function takes up to two unnamed positional parameters:
 
 `   1 = coordinate string typically from a call to Wikidata like this: {{#property:P625|from=Q...}}`
 `   2 = coordinate parameters; see Template:Coord`
 `   `
 
-Also takes the named parameters |display=, |format=, |name=, |notes=
-which it passes on to
+Also takes the named parameters |display=, |format=, |name=, |notes= which it passes on to
 
 Reformats the Wikidata coordinate string into unnamed parameters for
 

@@ -1,9 +1,8 @@
-是[CUFFS公司的旗下品牌Sonora在](../Page/CUFFS.md "wikilink")2019年2月22日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]
+是[CUFFS](../Page/CUFFS.md "wikilink")公司的旗下品牌Sonora在2019年2月22日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]
 
 ## 故事
 
-有馬恭也在朋友北見莉央和鳴瀬拓人的推薦下開始玩[App](https://zh.wikipedia.org/wiki/App "wikilink")[社群網路遊戲](https://zh.wikipedia.org/wiki/社群網路遊戲 "wikilink")「CUFFS
-Story's」並且加入他們兩人成立的公會，不久之後又有4位新遊戲同伴也加入這個公會。後來公會的成員們決定舉辦一場[網聚](../Page/網聚.md "wikilink")，但是恭也到了約定地點後才發現那4位遊戲同伴剛好全部都是自己認識的女性朋友。
+有馬恭也在朋友北見莉央和鳴瀬拓人的推薦下開始玩[App](https://zh.wikipedia.org/wiki/App "wikilink")[社群網路遊戲](https://zh.wikipedia.org/wiki/社群網路遊戲 "wikilink")「CUFFS Story's」並且加入他們兩人成立的公會，不久之後又有4位新遊戲同伴也加入這個公會。後來公會的成員們決定舉辦一場[網聚](../Page/網聚.md "wikilink")，但是恭也到了約定地點後才發現那4位遊戲同伴剛好全部都是自己認識的女性朋友。
 
 ## 角色
 
@@ -23,8 +22,7 @@ Story's」並且加入他們兩人成立的公會，不久之後又有4位新遊
     梓的親友，二年級學生，重度課金的有錢大小姐，遊戲暱稱「」。
   -
     生日：3月6日，血型：B型，身高：161cm，三圍：84（D）/55/83
-    恭也的同學和朋友，遊戲暱稱「」。經營[同人社團](../Page/同人_\(ACG\).md "wikilink")「KIJ」（Kawaii
-    Is Justice，可愛是正義）的知名畫師。
+    恭也的同學和朋友，遊戲暱稱「」。經營[同人社團](../Page/同人_\(ACG\).md "wikilink")「KIJ」（Kawaii Is Justice，可愛是正義）的知名畫師。
 
 ## 主題歌
 
@@ -39,11 +37,7 @@ Story's」並且加入他們兩人成立的公會，不久之後又有4位新遊
 
   - [官方網站](http://www.cuffs.co.jp/products/koi-kakin/index.php)
 
-[Category:2019年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2019年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:CUFFS](https://zh.wikipedia.org/wiki/Category:CUFFS "wikilink")
+[Category:2019年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2019年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:CUFFS](https://zh.wikipedia.org/wiki/Category:CUFFS "wikilink")
 
 1.
 2.

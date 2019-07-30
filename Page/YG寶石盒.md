@@ -1,6 +1,4 @@
-《**YG寶石盒**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[YG娛樂於](../Page/YG娛樂.md "wikilink")2018年至2019年推出的綜藝節目\[1\]，節目主軸為[YG娛樂練習生選出新男團出道節目](../Page/YG娛樂.md "wikilink")。出道組男團為[TREASURE](../Page/Treasure_\(組合\).md "wikilink")，追加出道組男團為[MAGNUM](../Page/MAGNUM.md "wikilink")，兩團合稱為[TREASURE
-13](../Page/TREASURE_13.md "wikilink")，三隊共用的官方粉絲名為TREASURE MAKER。\[2\]
-預計於2019年5\~7月間出道。
+《**YG寶石盒**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[YG娛樂](../Page/YG娛樂.md "wikilink")於2018年至2019年推出的綜藝節目\[1\]，節目主軸為[YG娛樂](../Page/YG娛樂.md "wikilink")練習生選出新男團出道節目。出道組男團為[TREASURE](../Page/Treasure_\(組合\).md "wikilink")，追加出道組男團為[MAGNUM](../Page/MAGNUM.md "wikilink")，兩團合稱為[TREASURE 13](../Page/TREASURE_13.md "wikilink")，三隊共用的官方粉絲名為TREASURE MAKER。\[2\] 預計於2019年5\~7月間出道。
 
 ## 競賽成員
 
@@ -32,7 +30,7 @@
 | 尹材赫                                   |
 | colspan="8" style= |已淘汰成員             |
 | [王君豪](../Page/王君豪.md "wikilink")\[4\] |
-| 姜碩和                                   |
+| 姜碩華                                   |
 | 張允瑞                                   |
 | 吉道煥                                   |
 | [金成淵](../Page/金成淵.md "wikilink")      |
@@ -127,7 +125,7 @@
 <tr class="odd">
 <td><p>9</p></td>
 <td><p>2019年1月11日</p></td>
-<td><p>Treasure和練習生小組對決进行半决赛。其中共分为4首歌曲。第一名组全员晋级。第二名组<a href="../Page/金昇勳.md" title="wikilink">金昇勳和Keita淘汰</a>。第三名组吉道煥、金延圭和Yoshinori淘汰。第四名组姜碩華、張允瑞、尹材赫和<a href="https://zh.wikipedia.org/wiki/金忠燮" title="wikilink">金忠燮淘汰</a>[8]</p></td>
+<td><p>Treasure和練習生小組對決进行半决赛。其中共分为4首歌曲。第一名组全员晋级。第二名组<a href="../Page/金昇勳.md" title="wikilink">金昇勳</a>和Keita淘汰。第三名组吉道煥、金延圭和Yoshinori淘汰。第四名组姜碩華、張允瑞、尹材赫和<a href="https://zh.wikipedia.org/wiki/金忠燮" title="wikilink">金忠燮淘汰</a>[8]</p></td>
 </tr>
 <tr class="even">
 <td><p>#</p></td>
@@ -301,31 +299,19 @@
 
   - [YG TREASURE BOX](https://twitter.com/YG_TreasureBox) 的 Twitter帳戶
   - [YG TREASURE BOX](https://channels.vlive.tv/BFA7F1/home) 的 V LIVE頻道
-  - [YG TREASURE
-    BOX](https://www.youtube.com/channel/UCquCOGattLleH5erOxiWVmQ) 的
-    YouTube頻道
-  - [YG TREASURE BOX](https://www.facebook.com/YG.TreasureBox/) 的
-    Facebook專頁
-  - [YG TREASURE BOX](https://www.instagram.com/yg.treasurebox/) 的
-    Instagram帳戶
+  - [YG TREASURE BOX](https://www.youtube.com/channel/UCquCOGattLleH5erOxiWVmQ) 的 YouTube頻道
+  - [YG TREASURE BOX](https://www.facebook.com/YG.TreasureBox/) 的 Facebook專頁
+  - [YG TREASURE BOX](https://www.instagram.com/yg.treasurebox/) 的 Instagram帳戶
 
 **TREASURE 13**
 
   - [TREASURE13](https://twitter.com/YG_TREASURE13) 的 Twitter帳戶
   - [TREASURE13](https://channels.vlive.tv/B978B7/home) 的 V LIVE頻道
   - [TREASURE13](https://www.youtube.com/OfficialTreasure13) 的 YouTube頻道
-  - [TREASURE13](https://www.facebook.com/OfficialTreasure13) 的
-    Facebook專頁
-  - [TREASURE13](https://www.instagram.com/treasure13_official/) 的
-    Instagram帳戶
+  - [TREASURE13](https://www.facebook.com/OfficialTreasure13) 的 Facebook專頁
+  - [TREASURE13](https://www.instagram.com/treasure13_official/) 的 Instagram帳戶
 
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:韩国音乐比赛](https://zh.wikipedia.org/wiki/Category:韩国音乐比赛 "wikilink")
-[Category:YG娛樂](https://zh.wikipedia.org/wiki/Category:YG娛樂 "wikilink")
-[Category:TREASURE_13](https://zh.wikipedia.org/wiki/Category:TREASURE_13 "wikilink")
-[Category:TREASURE](https://zh.wikipedia.org/wiki/Category:TREASURE "wikilink")
-[Category:MAGNUM](https://zh.wikipedia.org/wiki/Category:MAGNUM "wikilink")
+[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:韩国音乐比赛](https://zh.wikipedia.org/wiki/Category:韩国音乐比赛 "wikilink") [Category:YG娛樂](https://zh.wikipedia.org/wiki/Category:YG娛樂 "wikilink") [Category:TREASURE_13](https://zh.wikipedia.org/wiki/Category:TREASURE_13 "wikilink") [Category:TREASURE](https://zh.wikipedia.org/wiki/Category:TREASURE "wikilink") [Category:MAGNUM](https://zh.wikipedia.org/wiki/Category:MAGNUM "wikilink")
 
 1.
 

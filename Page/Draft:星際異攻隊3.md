@@ -1,4 +1,4 @@
-《**星際異攻隊3**》（）是一部美國[超級英雄電影](../Page/超級英雄電影.md "wikilink")，改編自[漫威漫畫旗下超級英雄團隊](../Page/漫威漫畫.md "wikilink")[星際異攻隊的故事](../Page/星際異攻隊_\(2008年\).md "wikilink")，由[漫威影業製作](https://zh.wikipedia.org/wiki/漫威影業 "wikilink")、[華特迪士尼影業發行](https://zh.wikipedia.org/wiki/華特迪士尼影業 "wikilink")。電影為2017年電影《[星際異攻隊2](https://zh.wikipedia.org/wiki/星際異攻隊2 "wikilink")》的續集，[漫威電影宇宙](https://zh.wikipedia.org/wiki/漫威電影宇宙 "wikilink")[系列作品之一](https://zh.wikipedia.org/wiki/漫威電影宇宙系列電影 "wikilink")，由[詹姆斯·岡恩編劇和執導](../Page/詹姆斯·岡恩.md "wikilink")，[克里斯·普瑞特](../Page/克里斯·普瑞特.md "wikilink")、[柔伊·莎達娜](https://zh.wikipedia.org/wiki/柔伊·莎達娜 "wikilink")、[戴夫·巴帝斯塔](https://zh.wikipedia.org/wiki/戴夫·巴帝斯塔 "wikilink")、[馮·迪索](../Page/馮·迪索.md "wikilink")、[布萊德利·庫柏](../Page/布萊德利·庫柏.md "wikilink")、[龐·克萊門捷夫和](https://zh.wikipedia.org/wiki/龐·克萊門捷夫 "wikilink")[西恩·古恩主演](https://zh.wikipedia.org/wiki/西恩·古恩 "wikilink")。[主體拍攝預定在](https://zh.wikipedia.org/wiki/主體拍攝 "wikilink")2020年開始。
+《**星際異攻隊3**》（）是一部美國[超級英雄電影](../Page/超級英雄電影.md "wikilink")，改編自[漫威漫畫](../Page/漫威漫畫.md "wikilink")旗下超級英雄團隊[星際異攻隊的故事](../Page/星際異攻隊_\(2008年\).md "wikilink")，由[漫威影業製作](https://zh.wikipedia.org/wiki/漫威影業 "wikilink")、[華特迪士尼影業發行](https://zh.wikipedia.org/wiki/華特迪士尼影業 "wikilink")。電影為2017年電影《[星際異攻隊2](https://zh.wikipedia.org/wiki/星際異攻隊2 "wikilink")》的續集，[漫威電影宇宙](https://zh.wikipedia.org/wiki/漫威電影宇宙 "wikilink")[系列作品之一](https://zh.wikipedia.org/wiki/漫威電影宇宙系列電影 "wikilink")，由[詹姆斯·岡恩](../Page/詹姆斯·岡恩.md "wikilink")編劇和執導，[克里斯·普瑞特](../Page/克里斯·普瑞特.md "wikilink")、[柔伊·莎達娜](https://zh.wikipedia.org/wiki/柔伊·莎達娜 "wikilink")、[戴夫·巴帝斯塔](https://zh.wikipedia.org/wiki/戴夫·巴帝斯塔 "wikilink")、[馮·迪索](../Page/馮·迪索.md "wikilink")、[布萊德利·庫柏](../Page/布萊德利·庫柏.md "wikilink")、[龐·克萊門捷夫和](https://zh.wikipedia.org/wiki/龐·克萊門捷夫 "wikilink")[西恩·古恩主演](https://zh.wikipedia.org/wiki/西恩·古恩 "wikilink")。[主體拍攝預定在](https://zh.wikipedia.org/wiki/主體拍攝 "wikilink")2020年開始。
 
 ## 演員
 
@@ -21,7 +21,7 @@ Star-Lord / Peter Quill[1][2][3]</p></td>
 Zoe Saldana</p></td>
 <td><p><a href="../Page/葛摩菈.md" title="wikilink">葛摩菈</a><br />
 Gamora[4]</p></td>
-<td><p>星際異攻隊的成員，來自外星世界的孤兒，並為過去的罪行尋求救贖。她被<a href="../Page/薩諾斯.md" title="wikilink">薩諾斯訓練成他的私人刺客</a>，而跟隊伍相處以來，逐漸改變了過去獨來獨往的性格。</p></td>
+<td><p>星際異攻隊的成員，來自外星世界的孤兒，並為過去的罪行尋求救贖。她被<a href="../Page/薩諾斯.md" title="wikilink">薩諾斯</a>訓練成他的私人刺客，而跟隊伍相處以來，逐漸改變了過去獨來獨往的性格。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/戴夫·巴帝斯塔" title="wikilink">戴夫·巴帝斯塔</a><br />
@@ -67,10 +67,9 @@ Kraglin[10]</p></td>
 
 #### 開除詹姆斯·岡恩
 
-2018年7月20日，在保守派人士翻出岡恩的有關強姦和戀童癖等主題的爭議推文後，岡恩被迪士尼除去《星際異攻隊3》導演一職\[11\]\[12\]。[華特迪士尼影業集團主席](../Page/華特迪士尼影業集團.md "wikilink")表示「在詹姆斯的推特斯發現的冒犯性的態度與言論是不可原諒的，而且與我們公司的價值觀不相符，我們已經斷絕了與他的合作關係」\[13\]。雖然[華特迪士尼公司的執行長](https://zh.wikipedia.org/wiki/華特迪士尼公司 "wikilink")[勞勃·艾格沒有參與解僱岡恩的決策](https://zh.wikipedia.org/wiki/勞勃·艾格 "wikilink")，但他也支持漫威和華特迪士尼各個高管的「一致決定」\[14\]。
+2018年7月20日，在保守派人士翻出岡恩的有關強姦和戀童癖等主題的爭議推文後，岡恩被迪士尼除去《星際異攻隊3》導演一職\[11\]\[12\]。[華特迪士尼影業集團](../Page/華特迪士尼影業集團.md "wikilink")主席表示「在詹姆斯的推特斯發現的冒犯性的態度與言論是不可原諒的，而且與我們公司的價值觀不相符，我們已經斷絕了與他的合作關係」\[13\]。雖然[華特迪士尼公司的執行長](https://zh.wikipedia.org/wiki/華特迪士尼公司 "wikilink")[勞勃·艾格沒有參與解僱岡恩的決策](https://zh.wikipedia.org/wiki/勞勃·艾格 "wikilink")，但他也支持漫威和華特迪士尼各個高管的「一致決定」\[14\]。
 
-[James_Gunn_(28557194032)_(cropped).jpg](https://zh.wikipedia.org/wiki/File:James_Gunn_\(28557194032\)_\(cropped\).jpg "fig:James_Gunn_(28557194032)_(cropped).jpg")\]\]
-對於岡恩被開除的事件，對於岡恩被開除的事件，一眾《星際異攻隊》的演員都發了推文支持岡恩，麥克·魯克決定關掉他的推特\[15\]\[16\]。粉絲在網上連署要求重新聘用岡恩，連署的人數超過30萬人\[17\]。此次的事件也引起了其他好萊塢人士的回應，如女演員[莎瑪·布萊兒和喜劇演員](../Page/莎瑪·布萊兒.md "wikilink")[鮑勃凱特·戈德斯韋特](../Page/鮑勃凱特·戈德斯韋特.md "wikilink")\[18\]。7月30日，[克里斯·普瑞特](../Page/克里斯·普瑞特.md "wikilink")、[柔伊·莎達娜](https://zh.wikipedia.org/wiki/柔伊·莎達娜 "wikilink")、[戴夫·巴帝斯塔](https://zh.wikipedia.org/wiki/戴夫·巴帝斯塔 "wikilink")、[布萊德利·庫柏](../Page/布萊德利·庫柏.md "wikilink")、[馮·迪索](../Page/馮·迪索.md "wikilink")、[西恩·岡恩](https://zh.wikipedia.org/wiki/西恩·岡恩 "wikilink")、[龐·克萊門捷夫](https://zh.wikipedia.org/wiki/龐·克萊門捷夫 "wikilink")、魯克和[凱倫·吉蘭發表聲明支持岡恩](https://zh.wikipedia.org/wiki/凱倫·吉蘭 "wikilink")\[19\]。儘管如此，據《[綜藝](../Page/綜藝_\(雜誌\).md "wikilink")》報導，迪士尼並沒有計劃重新聘用岡恩，因為這些玩笑「在[＃MeToo時代是不可接受的](../Page/＃MeToo.md "wikilink")，並且不符合迪士尼的家庭友好的形象。」《綜藝》亦表示，儘管傳聞漫威導演如[強·法夫洛](../Page/強·法夫洛.md "wikilink")、[塔伊加·維迪提或](https://zh.wikipedia.org/wiki/塔伊加·維迪提 "wikilink")[羅素兄弟可能會取代岡恩](https://zh.wikipedia.org/wiki/羅素兄弟 "wikilink")，但漫威尚未與任何導演會面，並且很有可能會聘請新的導演執導電影\[20\]。8月初，巴帝斯塔表示，只要漫威選擇使用岡恩現有的劇本，他就會履行合同出演電影\[21\]。
+[James_Gunn_(28557194032)_(cropped).jpg](https://zh.wikipedia.org/wiki/File:James_Gunn_\(28557194032\)_\(cropped\).jpg "fig:James_Gunn_(28557194032)_(cropped).jpg")\]\] 對於岡恩被開除的事件，對於岡恩被開除的事件，一眾《星際異攻隊》的演員都發了推文支持岡恩，麥克·魯克決定關掉他的推特\[15\]\[16\]。粉絲在網上連署要求重新聘用岡恩，連署的人數超過30萬人\[17\]。此次的事件也引起了其他好萊塢人士的回應，如女演員[莎瑪·布萊兒](../Page/莎瑪·布萊兒.md "wikilink")和喜劇演員[鮑勃凱特·戈德斯韋特](../Page/鮑勃凱特·戈德斯韋特.md "wikilink")\[18\]。7月30日，[克里斯·普瑞特](../Page/克里斯·普瑞特.md "wikilink")、[柔伊·莎達娜](https://zh.wikipedia.org/wiki/柔伊·莎達娜 "wikilink")、[戴夫·巴帝斯塔](https://zh.wikipedia.org/wiki/戴夫·巴帝斯塔 "wikilink")、[布萊德利·庫柏](../Page/布萊德利·庫柏.md "wikilink")、[馮·迪索](../Page/馮·迪索.md "wikilink")、[西恩·岡恩](https://zh.wikipedia.org/wiki/西恩·岡恩 "wikilink")、[龐·克萊門捷夫](https://zh.wikipedia.org/wiki/龐·克萊門捷夫 "wikilink")、魯克和[凱倫·吉蘭發表聲明支持岡恩](https://zh.wikipedia.org/wiki/凱倫·吉蘭 "wikilink")\[19\]。儘管如此，據《[綜藝](../Page/綜藝_\(雜誌\).md "wikilink")》報導，迪士尼並沒有計劃重新聘用岡恩，因為這些玩笑「在[＃MeToo](../Page/＃MeToo.md "wikilink")時代是不可接受的，並且不符合迪士尼的家庭友好的形象。」《綜藝》亦表示，儘管傳聞漫威導演如[強·法夫洛](../Page/強·法夫洛.md "wikilink")、[塔伊加·維迪提或](https://zh.wikipedia.org/wiki/塔伊加·維迪提 "wikilink")[羅素兄弟可能會取代岡恩](https://zh.wikipedia.org/wiki/羅素兄弟 "wikilink")，但漫威尚未與任何導演會面，並且很有可能會聘請新的導演執導電影\[20\]。8月初，巴帝斯塔表示，只要漫威選擇使用岡恩現有的劇本，他就會履行合同出演電影\[21\]。
 
 8月底，由於漫威和迪士尼尚未找到新的導演，電影製作被推遲，令《星際異攻隊3》的小型製作團隊遭到迪士尼解散\[22\]。前期製作原定於2018年底開始，[主體拍攝定於](https://zh.wikipedia.org/wiki/主體拍攝 "wikilink")2019年1月或2月開始\[23\]\[24\]。這時，巴帝斯塔不確定他是否會回歸，因為他不知道他是否「想為迪士尼工作」\[25\]。9月下旬，詹姆斯·岡恩的兄弟西恩強調，迪士尼仍然打算選用詹姆斯的劇本製作電影\[26\]。同月底，在導演處女作《[一個巨星的誕生](https://zh.wikipedia.org/wiki/一個巨星的誕生 "wikilink")》成功後，庫柏被問到是否會考慮執導電影，他表示他「從來沒想過」執導一部劇本不是自己撰寫的電影\[27\]。10月中旬，詹姆斯·岡恩已經完成與迪士尼的解約協議，並準備為《[自殺突擊隊](https://zh.wikipedia.org/wiki/自殺突擊隊_\(2021年電影\) "wikilink")》撰寫劇本，並有可能執導該片\[28\]。
 
@@ -80,8 +79,7 @@ Kraglin[10]</p></td>
 
 ### 拍攝
 
-[主體拍攝預計於](https://zh.wikipedia.org/wiki/主體拍攝 "wikilink")2020年開始\[36\]，[暫定名稱為](https://zh.wikipedia.org/wiki/暫定名稱 "wikilink")「Hot
-Christmas」\[37\]。
+[主體拍攝預計於](https://zh.wikipedia.org/wiki/主體拍攝 "wikilink")2020年開始\[36\]，[暫定名稱為](https://zh.wikipedia.org/wiki/暫定名稱 "wikilink")「Hot Christmas」\[37\]。
 
 ## 音樂
 

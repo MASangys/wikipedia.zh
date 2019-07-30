@@ -1,4 +1,4 @@
-《**這本BL不得了！**》（）為[日本宙出版從](../Page/日本.md "wikilink")2008年起所發行的[BL作品導覽書](../Page/BL_\(和製英語\).md "wikilink")\[1\]。由讀者及專業人士投票選出BL類型的[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")、[小說各](https://zh.wikipedia.org/wiki/小說 "wikilink")20部並在書中詳細介紹，在每年的12月公布翌年度名單。
+《**這本BL不得了！**》（）為[日本](../Page/日本.md "wikilink")宙出版從2008年起所發行的[BL作品導覽書](../Page/BL_\(和製英語\).md "wikilink")\[1\]。由讀者及專業人士投票選出BL類型的[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")、[小說各](https://zh.wikipedia.org/wiki/小說 "wikilink")20部並在書中詳細介紹，在每年的12月公布翌年度名單。
 
 ## 漫畫獲選名單（僅列出歷屆第一名）
 
@@ -17,8 +17,7 @@
 
 ### 2016至2020年度
 
-  - 2016年度第一名：《[10
-    Count](../Page/10_Count.md "wikilink")》[寶井理人](https://zh.wikipedia.org/wiki/寶井理人 "wikilink")\[9\]
+  - 2016年度第一名：《[10 Count](../Page/10_Count.md "wikilink")》[寶井理人](https://zh.wikipedia.org/wiki/寶井理人 "wikilink")\[9\]
   - 2017年度第一名：《憂鬱的早晨》[日高翔子](https://zh.wikipedia.org/wiki/日高翔子 "wikilink")\[10\]
   - 2018年度第一名：《百與卍》[紗久楽さわ](https://zh.wikipedia.org/wiki/紗久楽さわ "wikilink")\[11\]
   - 2019年度第一名：《rumspringa的情景》（ラムスプリンガの情景）[吾妻香夜](https://zh.wikipedia.org/wiki/吾妻香夜 "wikilink")\[12\]
@@ -27,17 +26,13 @@
 
   - 2015年度第一名：《COLD HEART系列》[木原音瀨](../Page/木原音瀨.md "wikilink")\[13\]
   - 2016年度第一名：《イエスかノーか半分か》[一穂ミチ](https://zh.wikipedia.org/wiki/一穂ミチ "wikilink")\[14\]
-  - 2017年度第一名：《悖德學園1
-    ─籠中之王─》[樋口美沙緒](https://zh.wikipedia.org/wiki/樋口美沙緒 "wikilink")\[15\]
+  - 2017年度第一名：《悖德學園1 ─籠中之王─》[樋口美沙緒](https://zh.wikipedia.org/wiki/樋口美沙緒 "wikilink")\[15\]
   - 2018年度第一名：《イエスかノーか半分か》一穂ミチ\[16\]
   - 2019年度第一名：《恋敵と虹彩～イエスかノーか半分か番外篇》一穂ミチ\[17\]
 
 ## 參考來源
 
-[Category:漫畫情報誌](https://zh.wikipedia.org/wiki/Category:漫畫情報誌 "wikilink")
-[Category:日本漫畫獎](https://zh.wikipedia.org/wiki/Category:日本漫畫獎 "wikilink")
-[Category:日本輕小說文學獎](https://zh.wikipedia.org/wiki/Category:日本輕小說文學獎 "wikilink")
-[Category:BL](https://zh.wikipedia.org/wiki/Category:BL "wikilink")
+[Category:漫畫情報誌](https://zh.wikipedia.org/wiki/Category:漫畫情報誌 "wikilink") [Category:日本漫畫獎](https://zh.wikipedia.org/wiki/Category:日本漫畫獎 "wikilink") [Category:日本輕小說文學獎](https://zh.wikipedia.org/wiki/Category:日本輕小說文學獎 "wikilink") [Category:BL](https://zh.wikipedia.org/wiki/Category:BL "wikilink")
 
 1.  [「このBLがやばい！」に中村明日美子描き下ろし番外編](https://natalie.mu/comic/news/41721)
 2.

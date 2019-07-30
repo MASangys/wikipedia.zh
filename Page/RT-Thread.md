@@ -52,8 +52,7 @@ RT-Thread支持下列架构：
   - s3c24x0
   - s3c44b0
   - SEP4020
-  - [Xilinx
-    Zynq7000](https://zh.wikipedia.org/wiki/Xilinx_Zynq7000 "wikilink")
+  - [Xilinx Zynq7000](https://zh.wikipedia.org/wiki/Xilinx_Zynq7000 "wikilink")
 
 [AVR32](https://zh.wikipedia.org/wiki/AVR32 "wikilink")
 
@@ -103,8 +102,7 @@ unicore32
   - 2012年1月1日，RT-Thread 1.0 发布。这个版本修复了多个BUG。
   - 2014年8月1日，RT-Thread 2.0.0 beta发布。
   - 2018年3月8日，RT-Thread 3.0.3发布。这个版本主要修补了一些BUG，也提高了系统的易用性。\[5\]
-  - 2018年10月18日，RT-Thread
-    4.0.0发布。这个版本主要添加了[对称多处理器支持](https://zh.wikipedia.org/wiki/对称多处理器 "wikilink")。\[6\]
+  - 2018年10月18日，RT-Thread 4.0.0发布。这个版本主要添加了[对称多处理器支持](https://zh.wikipedia.org/wiki/对称多处理器 "wikilink")。\[6\]
 
 ## 另请参见
 
@@ -119,9 +117,7 @@ unicore32
   -
   -
   -
-[Category:Real-time_operating_systems](https://zh.wikipedia.org/wiki/Category:Real-time_operating_systems "wikilink")
-[Category:Embedded_operating_systems](https://zh.wikipedia.org/wiki/Category:Embedded_operating_systems "wikilink")
-[Category:ARM_operating_systems](https://zh.wikipedia.org/wiki/Category:ARM_operating_systems "wikilink")
+[Category:Real-time_operating_systems](https://zh.wikipedia.org/wiki/Category:Real-time_operating_systems "wikilink") [Category:Embedded_operating_systems](https://zh.wikipedia.org/wiki/Category:Embedded_operating_systems "wikilink") [Category:ARM_operating_systems](https://zh.wikipedia.org/wiki/Category:ARM_operating_systems "wikilink")
 
 1.
 2.

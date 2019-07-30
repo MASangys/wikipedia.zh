@@ -1,8 +1,4 @@
-**Z-girls**（\[1\]）由[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")[Zenith
-Media
-Contents推出的](https://zh.wikipedia.org/wiki/Zenith_Media_Contents "wikilink")7人[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")\[2\]，在2019年2月22日發行專輯Z-pop
-Dream（同屬男團[Z-boys亦參與此張出道專輯](../Page/Z-boys.md "wikilink")，與其同日出道）\[3\]，隔日於蠶室室內體育館的Z-pop
-Dream Live In Seoul開啓出道舞台。而7名團員中，沒有韓國籍成員，全由7個不同國家的成員組成為其特色\[4\]。
+**Z-girls**（\[1\]）由[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")[Zenith Media Contents推出的](https://zh.wikipedia.org/wiki/Zenith_Media_Contents "wikilink")7人[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")\[2\]，在2019年2月22日發行專輯Z-pop Dream（同屬男團[Z-boys](../Page/Z-boys.md "wikilink")亦參與此張出道專輯，與其同日出道）\[3\]，隔日於蠶室室內體育館的Z-pop Dream Live In Seoul開啓出道舞台。而7名團員中，沒有韓國籍成員，全由7個不同國家的成員組成為其特色\[4\]。
 
 ## 團體資料
 
@@ -72,13 +68,7 @@ Dream Live In Seoul開啓出道舞台。而7名團員中，沒有韓國籍成員
   -
   -
   -
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
-[Category:2019年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2019年成立的音樂團體 "wikilink")
-[Category:Z-pop](https://zh.wikipedia.org/wiki/Category:Z-pop "wikilink")
-[Category:Z-GIRLS](https://zh.wikipedia.org/wiki/Category:Z-GIRLS "wikilink")
-[Category:2019年韓國建立](https://zh.wikipedia.org/wiki/Category:2019年韓國建立 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
+[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:2019年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2019年成立的音樂團體 "wikilink") [Category:Z-pop](https://zh.wikipedia.org/wiki/Category:Z-pop "wikilink") [Category:Z-GIRLS](https://zh.wikipedia.org/wiki/Category:Z-GIRLS "wikilink") [Category:2019年韓國建立](https://zh.wikipedia.org/wiki/Category:2019年韓國建立 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
 
 1.
 2.

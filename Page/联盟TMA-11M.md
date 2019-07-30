@@ -4,11 +4,18 @@
 
 ## 任务队员
 
-{{Spaceflight crew |terminology = 乘组人员 |references =\[2\] |position1 =
-指令长 |crew1_up =  [米哈伊尔·秋林](../Page/米哈伊尔·秋林.md "wikilink")
-|agency1_up = [RSA](../Page/俄羅斯航太.md "wikilink") |flights1_up = 3
-|expedition1_up = [远征38](https://zh.wikipedia.org/wiki/远征38 "wikilink")
-|position2 = 飞行工程师1 |crew2_up = {{Flagicon|USA}
+### 后备队员
+
+## 图集
+
+<File:Expedition> 38 Soyuz Rollout (201311050029HQ).jpg <File:Soyuz> TMA-11M erected at Baikonur Cosmodrome (201311050027HQ).jpg|火箭上的索契冬奥会[logo](https://zh.wikipedia.org/wiki/logo "wikilink") <File:Soyuz> TMA-11M crew members wave farewell.jpg|乘员与2014年[奥林匹克圣火](../Page/奥林匹克圣火.md "wikilink") [File:Soyuz_TMA-11M_rocket_launches_from_Baikonur_(2).jpg|发射](File:Soyuz_TMA-11M_rocket_launches_from_Baikonur_\(2\).jpg%7C发射) <File:Soyuz> TMA-11M Landing (2).jpg|降落
+
+## 参考文献
+
+## 外部链接
+
+  - [相关视频](https://www.youtube.com/watch?v=WN8I4tt5baw)
+
+[Category:联盟计划](https://zh.wikipedia.org/wiki/Category:联盟计划 "wikilink") [Category:2013年航天](https://zh.wikipedia.org/wiki/Category:2013年航天 "wikilink") [Category:2013年哈萨克斯坦](https://zh.wikipedia.org/wiki/Category:2013年哈萨克斯坦 "wikilink")
 
 1.
-2.

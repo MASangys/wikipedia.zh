@@ -1,12 +1,8 @@
-Vanishing Vision 是日本
-[视觉系乐队](https://zh.wikipedia.org/wiki/视觉系 "wikilink")[X
-JAPAN的第一张专辑](../Page/X_Japan.md "wikilink")
+Vanishing Vision 是日本 [视觉系乐队](https://zh.wikipedia.org/wiki/视觉系 "wikilink")[X JAPAN的第一张专辑](../Page/X_Japan.md "wikilink")
 
 ## 历史
 
-1988年，本专辑由的发行。据说，本曲的发行经费是YOSHIKI向其母亲借的。一开始发行的是LP（EXL-001），随后又发布了CD版本（EXC
--001），随着CD版本一起发布的还有5000份限定版LP。限定版LP包含了1988年在[京都演奏的Stab](../Page/京都市.md "wikilink")
-Me In The Back live音源。
+1988年，本专辑由的发行。据说，本曲的发行经费是YOSHIKI向其母亲借的。一开始发行的是LP（EXL-001），随后又发布了CD版本（EXC -001），随着CD版本一起发布的还有5000份限定版LP。限定版LP包含了1988年在[京都演奏的Stab](../Page/京都市.md "wikilink") Me In The Back live音源。
 
 本专辑首发销量突破了10000份，打破了当时独立厂牌的销售纪录。
 
@@ -28,13 +24,11 @@ Me In The Back live音源。
 
 从1987年表演至1992年
 
-本曲在[BLUE
-BLOOD出现之前一直是演唱会的第一首歌](../Page/BLUE_BLOOD.md "wikilink")。最后一次演奏是在1992（第二天）
+本曲在[BLUE BLOOD出现之前一直是演唱会的第一首歌](../Page/BLUE_BLOOD.md "wikilink")。最后一次演奏是在1992（第二天）
 
 3.PHANTOM OF GUILT（5：18）
 
-（作词： [TOSHI](https://zh.wikipedia.org/wiki/出山利三 "wikilink")；作曲：
-[TAIJI](../Page/太极拳.md "wikilink")；编曲：X）
+（作词： [TOSHI](https://zh.wikipedia.org/wiki/出山利三 "wikilink")；作曲： [TAIJI](../Page/太极拳.md "wikilink")；编曲：X）
 
 从1987年演唱到1992年
 
@@ -44,11 +38,9 @@ BLOOD出现之前一直是演唱会的第一首歌](../Page/BLUE_BLOOD.md "wikil
 
 （作词：；作曲：；编曲：X）
 
-本曲原是HIDE从他之前的乐队，，带来的。原名为（SADISTIC EMOTION）。之后YOSHIKI重新编写了歌词，歌词的灵感据说来自于
-[大卫林奇的电影](https://zh.wikipedia.org/wiki/大卫·林奇 "wikilink")“\[1\]
+本曲原是HIDE从他之前的乐队，，带来的。原名为（SADISTIC EMOTION）。之后YOSHIKI重新编写了歌词，歌词的灵感据说来自于 [大卫林奇的电影](https://zh.wikipedia.org/wiki/大卫·林奇 "wikilink")“\[1\]
 
-之后在1991年，本曲又被重新制作。重制版和原版的不同之处在于，重制版删去了原曲开头的尖叫声，并且
-[PATA的吉他SOLO也进行了调整](https://zh.wikipedia.org/wiki/Pata_（吉他手） "wikilink")
+之后在1991年，本曲又被重新制作。重制版和原版的不同之处在于，重制版删去了原曲开头的尖叫声，并且 [PATA的吉他SOLO也进行了调整](https://zh.wikipedia.org/wiki/Pata_（吉他手） "wikilink")
 
 本曲最后一次演奏是在1996年3月13日的公演上。
 
@@ -70,8 +62,7 @@ BLOOD出现之前一直是演唱会的第一首歌](../Page/BLUE_BLOOD.md "wikil
 
 （作词、作曲：；编曲：X）
 
-本曲是X第一次把钢琴作为一种元素添加到曲中，且钢琴的部分使用了一部分
-[贝多芬](../Page/路德维希·范·贝多芬.md "wikilink")（月光）的旋律
+本曲是X第一次把钢琴作为一种元素添加到曲中，且钢琴的部分使用了一部分 [贝多芬](../Page/路德维希·范·贝多芬.md "wikilink")（月光）的旋律
 
 本曲亦被收录于1997年的精选集（BALLAD COLLECTION）中
 
@@ -107,7 +98,6 @@ BLOOD出现之前一直是演唱会的第一首歌](../Page/BLUE_BLOOD.md "wikil
 
 ## 引用
 
-[Category:X_Japan音樂專輯](https://zh.wikipedia.org/wiki/Category:X_Japan音樂專輯 "wikilink")
-[Category:1988年音樂專輯](https://zh.wikipedia.org/wiki/Category:1988年音樂專輯 "wikilink")
+[Category:X_Japan音樂專輯](https://zh.wikipedia.org/wiki/Category:X_Japan音樂專輯 "wikilink") [Category:1988年音樂專輯](https://zh.wikipedia.org/wiki/Category:1988年音樂專輯 "wikilink")
 
 1.  （立東社） 1988年6月号 124p

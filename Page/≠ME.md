@@ -1,10 +1,10 @@
-**≠ME**（，簡稱「」）是2019年成立的日本女子[聲優](../Page/聲優.md "wikilink")[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")，為[=LOVE的姐妹團](../Page/=LOVE.md "wikilink")，與=LOVE同樣由[指原莉乃擔任總製作人](../Page/指原莉乃.md "wikilink")。團名有「希望體驗到與現在為止不同的自己」的含義\[1\]。
+**≠ME**（，簡稱「」）是2019年成立的日本女子[聲優](../Page/聲優.md "wikilink")[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")，為[=LOVE](../Page/=LOVE.md "wikilink")的姐妹團，與=LOVE同樣由[指原莉乃](../Page/指原莉乃.md "wikilink")擔任總製作人。團名有「希望體驗到與現在為止不同的自己」的含義\[1\]。
 
 ## 歷史
 
 **2018年**
 
-  - 11月12日，指原莉乃在個人[Twitter發表聲優偶像](../Page/Twitter.md "wikilink")「[=LOVE](../Page/=LOVE.md "wikilink")」的姐妹團甄選活動\[2\]。
+  - 11月12日，指原莉乃在個人[Twitter](../Page/Twitter.md "wikilink")發表聲優偶像「[=LOVE](../Page/=LOVE.md "wikilink")」的姐妹團甄選活動\[2\]。
 
 **2019年**
 
@@ -136,10 +136,7 @@
 
   -
   -
-[Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink")
-[Category:日本配音員團體](https://zh.wikipedia.org/wiki/Category:日本配音員團體 "wikilink")
-[Category:2019年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2019年成立的音樂團體 "wikilink")
-[Category:指原莉乃](https://zh.wikipedia.org/wiki/Category:指原莉乃 "wikilink")
+[Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink") [Category:日本配音員團體](https://zh.wikipedia.org/wiki/Category:日本配音員團體 "wikilink") [Category:2019年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2019年成立的音樂團體 "wikilink") [Category:指原莉乃](https://zh.wikipedia.org/wiki/Category:指原莉乃 "wikilink") [Category:代代木动画学院](https://zh.wikipedia.org/wiki/Category:代代木动画学院 "wikilink")
 
 1.
 

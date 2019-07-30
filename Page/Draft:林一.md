@@ -1,5 +1,4 @@
-**林一** （羅馬拼音：Lin
-Yi，1999年1月27日－）現為[唐人影視旗下演員](https://zh.wikipedia.org/wiki/唐人影視 "wikilink")。
+**林一** （羅馬拼音：Lin Yi，1999年1月27日－）現為[唐人影視旗下演員](https://zh.wikipedia.org/wiki/唐人影視 "wikilink")。
 
 ## 演藝經歷
 
@@ -7,7 +6,7 @@ Yi，1999年1月27日－）現為[唐人影視旗下演員](https://zh.wikipedia
 
 他在念大學一年級時被經紀人發掘並簽約唐人影視，成為胡歌、古力娜扎的同門師弟並利用暑假的時間到國外接受了專業的舞蹈和表演培訓。
 
-2017年，參加青春校園網絡劇《[你好，舊時光](https://zh.wikipedia.org/wiki/你好，舊時光 "wikilink")》選角活動，與趙順然、[蔡徐坤一同試鏡男主角](../Page/蔡徐坤.md "wikilink")，但未能選上；同年，作為固定嘉賓參加由[優酷視頻製作的偶像養成類節目](https://zh.wikipedia.org/wiki/優酷視頻 "wikilink")《美少年學社》，從專業能力到藝人修養進行了全方位的訓練\[1\]。同年11月，參加\[\[優酷視頻\[\[時尚綜藝節目《瘋狂衣櫥》，以41票的成績獲得第6期冠軍\[2\]；12月，個人首部出演的電影作品《希望島》正式開拍，並正式以演員身份出道\[3\]。
+2017年，參加青春校園網絡劇《[你好，舊時光](https://zh.wikipedia.org/wiki/你好，舊時光 "wikilink")》選角活動，與趙順然、[蔡徐坤](../Page/蔡徐坤.md "wikilink")一同試鏡男主角，但未能選上；同年，作為固定嘉賓參加由[優酷視頻製作的偶像養成類節目](https://zh.wikipedia.org/wiki/優酷視頻 "wikilink")《美少年學社》，從專業能力到藝人修養進行了全方位的訓練\[1\]。同年11月，參加\[\[優酷視頻\[\[時尚綜藝節目《瘋狂衣櫥》，以41票的成績獲得第6期冠軍\[2\]；12月，個人首部出演的電影作品《希望島》正式開拍，並正式以演員身份出道\[3\]。
 
 ### 2018年至今:嶄露光芒
 
@@ -70,14 +69,7 @@ Yi，1999年1月27日－）現為[唐人影視旗下演員](https://zh.wikipedia
 ## 外部連結
 
   -
-[Category:1999年出生](https://zh.wikipedia.org/wiki/Category:1999年出生 "wikilink")
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
-[Category:河北人](https://zh.wikipedia.org/wiki/Category:河北人 "wikilink")
-[Category:中国男演员](https://zh.wikipedia.org/wiki/Category:中国男演员 "wikilink")
-[Category:中國電影男演員‎](https://zh.wikipedia.org/wiki/Category:中國電影男演員‎ "wikilink")
-[Category:中國電視男演員‎](https://zh.wikipedia.org/wiki/Category:中國電視男演員‎ "wikilink")
-[Category:河北演员](https://zh.wikipedia.org/wiki/Category:河北演员 "wikilink")
-[Category:唐人影視旗下藝人](https://zh.wikipedia.org/wiki/Category:唐人影視旗下藝人 "wikilink")
+[Category:1999年出生](https://zh.wikipedia.org/wiki/Category:1999年出生 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:河北人](https://zh.wikipedia.org/wiki/Category:河北人 "wikilink") [Category:中国男演员](https://zh.wikipedia.org/wiki/Category:中国男演员 "wikilink") [Category:中國電影男演員‎](https://zh.wikipedia.org/wiki/Category:中國電影男演員‎ "wikilink") [Category:中國電視男演員‎](https://zh.wikipedia.org/wiki/Category:中國電視男演員‎ "wikilink") [Category:河北演员](https://zh.wikipedia.org/wiki/Category:河北演员 "wikilink") [Category:唐人影視旗下藝人](https://zh.wikipedia.org/wiki/Category:唐人影視旗下藝人 "wikilink")
 
 1.
 

@@ -1,5 +1,4 @@
-\[1\]是在2018年9月28日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[2\]，日文簡稱「」\[3\]。2019年8月29日由iMel發售[任天堂Switch與](../Page/任天堂Switch.md "wikilink")[PlayStation
-4版本](../Page/PlayStation_4.md "wikilink")\[4\]。
+\[1\]是在2018年9月28日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[2\]，日文簡稱「」\[3\]。2019年8月29日由iMel發售[任天堂Switch](../Page/任天堂Switch.md "wikilink")與[PlayStation 4版本](../Page/PlayStation_4.md "wikilink")\[4\]。
 
 ## 故事簡介
 
@@ -37,8 +36,7 @@
 
 ## 評價
 
-《RASPBERRY
-CUBE》在Getchu.com舉辦的美少女遊戲大賞2018中獲得綜合部門第14名\[13\]、音樂部門第6名\[14\]、影片部門第8名\[15\]、角色部門結月悠第20名\[16\]。於2018年度「[萌系遊戲大賞](../Page/萌系遊戲大賞.md "wikilink")」獲得準大賞\[17\]及主題曲賞\[18\]。
+《RASPBERRY CUBE》在Getchu.com舉辦的美少女遊戲大賞2018中獲得綜合部門第14名\[13\]、音樂部門第6名\[14\]、影片部門第8名\[15\]、角色部門結月悠第20名\[16\]。於2018年度「[萌系遊戲大賞](../Page/萌系遊戲大賞.md "wikilink")」獲得準大賞\[17\]及主題曲賞\[18\]。
 
 ## 參考資料
 
@@ -47,14 +45,7 @@ CUBE》在Getchu.com舉辦的美少女遊戲大賞2018中獲得綜合部門第14
   - [RASPBERRY CUBE遊戲官網](http://madosoft.net/raspberry/index.html)
   - [Switch、PS4版本遊戲官網](https://imel.co.jp/raspberry/index.html)
 
-[Category:2018年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2018年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink")
-[Category:2019年電子遊戲](https://zh.wikipedia.org/wiki/Category:2019年電子遊戲 "wikilink")
-[Category:任天堂Switch遊戲](https://zh.wikipedia.org/wiki/Category:任天堂Switch遊戲 "wikilink")
-[Category:PlayStation_4遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_4遊戲 "wikilink")
+[Category:2018年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2018年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink") [Category:2019年電子遊戲](https://zh.wikipedia.org/wiki/Category:2019年電子遊戲 "wikilink") [Category:任天堂Switch遊戲](https://zh.wikipedia.org/wiki/Category:任天堂Switch遊戲 "wikilink") [Category:PlayStation_4遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_4遊戲 "wikilink")
 
 1.
 

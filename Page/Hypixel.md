@@ -1,25 +1,18 @@
-**Hypixel**是由Simon Collins-Laflamme和Philippe
-Touchette于2013年4月14日创建的《[我的世界](../Page/我的世界.md "wikilink")》[游戏服务器](https://zh.wikipedia.org/wiki/游戏服务器 "wikilink")。截至2018年12月，该服务器共有1400万次独立登录次数。
+**Hypixel**是由Simon Collins-Laflamme和Philippe Touchette于2013年4月14日创建的《[我的世界](../Page/我的世界.md "wikilink")》[游戏服务器](https://zh.wikipedia.org/wiki/游戏服务器 "wikilink")。截至2018年12月，该服务器共有1400万次独立登录次数。
 
 ## 历史
 
-2013年4月14日，Simon Collins-Laflamme和Philippe
-Touchette建立了Hypixel，后来Hypixel成为了广受欢迎的《[我的世界：Java版](../Page/我的世界.md "wikilink")》游戏服务器，每月玩家数达到约2万名。\[1\]\[2\]\[3\]这个服务器中包含了许多[小游戏](https://zh.wikipedia.org/wiki/小游戏 "wikilink")。\[4\]\[5\]它的所有者是Hypixel公司。\[6\]Simon和Philippe从此开始以创建《我的世界》自定义地图为生。
+2013年4月14日，Simon Collins-Laflamme和Philippe Touchette建立了Hypixel，后来Hypixel成为了广受欢迎的《[我的世界](../Page/我的世界.md "wikilink")：Java版》游戏服务器，每月玩家数达到约2万名。\[1\]\[2\]\[3\]这个服务器中包含了许多[小游戏](https://zh.wikipedia.org/wiki/小游戏 "wikilink")。\[4\]\[5\]它的所有者是Hypixel公司。\[6\]Simon和Philippe从此开始以创建《我的世界》自定义地图为生。
 
-Hypixel的[服务器经常遭到黑客的](../Page/服务器.md "wikilink")[DDoS攻击](../Page/阻斷服務攻擊.md "wikilink")。例如2016年9月，不具名人士用[Mirai](../Page/Mirai_\(恶意软件\).md "wikilink")（DDoS攻击的恶意软件）攻击了Hypixel，其主要目的是让Hypixel的玩家转向其他《我的世界》服务器。\[7\]2018年4月左右，Hypixel开始使用[Cloudflare](../Page/CloudFlare.md "wikilink")
-Spectrum的DDoS保护。\[8\]
+Hypixel的[服务器](../Page/服务器.md "wikilink")经常遭到黑客的[DDoS攻击](../Page/阻斷服務攻擊.md "wikilink")。例如2016年9月，不具名人士用[Mirai](../Page/Mirai_\(恶意软件\).md "wikilink")（DDoS攻击的恶意软件）攻击了Hypixel，其主要目的是让Hypixel的玩家转向其他《我的世界》服务器。\[7\]2018年4月左右，Hypixel开始使用[Cloudflare](../Page/CloudFlare.md "wikilink") Spectrum的DDoS保护。\[8\]
 
 截至2016年12月21日，Hypixel玩家总数已达到1000万，\[9\]截至2018年12月13日，Hypixel玩家总数已达到1400万。\[10\]
 
-2017年5月21日，[网易宣布代理Hypixel中国大陆服务器](../Page/网易.md "wikilink")\[11\]。
+2017年5月21日，[网易](../Page/网易.md "wikilink")宣布代理Hypixel中国大陆服务器\[11\]。
 
 ### 《Hytale》
 
-2018年12月9日，由Hypixel工作室宣布即将发行独立游戏《Hytale》。Hypixel工作室是Hypixel的建立者创办的新公司\[12\]\[13\]\[14\]\[15\]。《Hytale》的开发还得到了[Riot
-Games和其他开发者的支持](../Page/Riot_Games.md "wikilink")，如[Dennis
-Fong](../Page/方镛钦.md "wikilink")、[Rob
-Pardo和Peter](../Page/罗布·帕尔多.md "wikilink")
-Levine。\[16\]《Hytale》的开发工作始于2015年。\[17\]2018年12月13日，《Hytale》预告片正式发布，一个月内浏览量就突破了3000万。\[18\]\[19\]
+2018年12月9日，由Hypixel工作室宣布即将发行独立游戏《Hytale》。Hypixel工作室是Hypixel的建立者创办的新公司\[12\]\[13\]\[14\]\[15\]。《Hytale》的开发还得到了[Riot Games和其他开发者的支持](../Page/Riot_Games.md "wikilink")，如[Dennis Fong](../Page/方镛钦.md "wikilink")、[Rob Pardo和Peter](../Page/罗布·帕尔多.md "wikilink") Levine。\[16\]《Hytale》的开发工作始于2015年。\[17\]2018年12月13日，《Hytale》预告片正式发布，一个月内浏览量突破了3000万。\[18\]\[19\]
 
 ## 奖项
 
@@ -81,10 +74,7 @@ Levine。\[16\]《Hytale》的开发工作始于2015年。\[17\]2018年12月13�
   - [官方网站](https://hypixel.net)
   - [Hytale网站](https://Hytale.com)
 
-[Category:服务器](https://zh.wikipedia.org/wiki/Category:服务器 "wikilink")
-[Category:我的世界](https://zh.wikipedia.org/wiki/Category:我的世界 "wikilink")
-[Category:小游戏](https://zh.wikipedia.org/wiki/Category:小游戏 "wikilink")
-[Category:有未审阅翻译的页面](https://zh.wikipedia.org/wiki/Category:有未审阅翻译的页面 "wikilink")
+[Category:服务器](https://zh.wikipedia.org/wiki/Category:服务器 "wikilink") [Category:我的世界](https://zh.wikipedia.org/wiki/Category:我的世界 "wikilink") [Category:小游戏](https://zh.wikipedia.org/wiki/Category:小游戏 "wikilink") [Category:有未审阅翻译的页面](https://zh.wikipedia.org/wiki/Category:有未审阅翻译的页面 "wikilink")
 
 1.
 2.

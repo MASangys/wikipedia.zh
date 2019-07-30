@@ -1,4 +1,4 @@
-《**OH\!**》是[日本](../Page/日本.md "wikilink")[摇滚乐队](https://zh.wikipedia.org/wiki/摇滚乐队 "wikilink")[SHISHAMO的第](../Page/SHISHAMO.md "wikilink")9张单曲，于2019年4月24日发行。
+《**OH\!**》是[日本](../Page/日本.md "wikilink")[摇滚乐队](https://zh.wikipedia.org/wiki/摇滚乐队 "wikilink")[SHISHAMO](../Page/SHISHAMO.md "wikilink")的第9张单曲，于2019年4月24日发行。
 
 ## 简介
 
@@ -20,9 +20,7 @@ CD封面与之前的单曲相同依然由宫崎朝子绘制\[7\]。
 
 ## 外部链接
 
-[Category:SHISHAMO](https://zh.wikipedia.org/wiki/Category:SHISHAMO "wikilink")
-[Category:2019年单曲](https://zh.wikipedia.org/wiki/Category:2019年单曲 "wikilink")
-[Category:日本環球唱片歌曲](https://zh.wikipedia.org/wiki/Category:日本環球唱片歌曲 "wikilink")
+[Category:SHISHAMO](https://zh.wikipedia.org/wiki/Category:SHISHAMO "wikilink") [Category:2019年单曲](https://zh.wikipedia.org/wiki/Category:2019年单曲 "wikilink") [Category:日本環球唱片歌曲](https://zh.wikipedia.org/wiki/Category:日本環球唱片歌曲 "wikilink")
 
 1.
 

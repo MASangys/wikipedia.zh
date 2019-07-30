@@ -1,5 +1,4 @@
-《**Summer
-Mermaid**》，[宇野實彩子個人名義發佈的第](https://zh.wikipedia.org/wiki/宇野實彩子 "wikilink")2首單曲，於2018年7月18日發行。\[1\]
+《**Summer Mermaid**》，[宇野實彩子個人名義發佈的第](https://zh.wikipedia.org/wiki/宇野實彩子 "wikilink")2首單曲\[1\]，2018年6月13日先行配信\[2\]，於7月18日正式發行。\[3\]
 
 ## 收錄曲
 
@@ -34,7 +33,8 @@ Mermaid**》，[宇野實彩子個人名義發佈的第](https://zh.wikipedia.or
 
 ## 外部連結
 
-[Category:2018年单曲](https://zh.wikipedia.org/wiki/Category:2018年单曲 "wikilink")
-[Category:愛貝克思歌曲](https://zh.wikipedia.org/wiki/Category:愛貝克思歌曲 "wikilink")
+[Category:宇野實彩子歌曲](https://zh.wikipedia.org/wiki/Category:宇野實彩子歌曲 "wikilink") [Category:愛貝克思歌曲](https://zh.wikipedia.org/wiki/Category:愛貝克思歌曲 "wikilink") [Category:2018年單曲](https://zh.wikipedia.org/wiki/Category:2018年單曲 "wikilink")
 
-1.  [宇野実彩子（AAA）、2ndシングルの先行配信日と新ビジュアルを発表](https://www.barks.jp/news/?id=1000155808)BARKS（2018年6月23日）
+1.  [1](https://avex.jp/uno/discography/) avex
+2.  [AAA宇野実彩子、新シングル『Summer Mermaid』6/13先行配信開始＆新ビジュアル公開](http://www.billboard-japan.com/d_news/detail/64041/2)billboard JAPAN
+3.  [宇野実彩子（AAA）、2ndシングルの先行配信日と新ビジュアルを発表](https://www.barks.jp/news/?id=1000155808)BARKS（2018年6月23日）

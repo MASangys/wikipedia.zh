@@ -10,8 +10,7 @@
 
 ### 選集
 
-  - （[一迅社](../Page/一迅社.md "wikilink")，2011年9月24日，ISBN
-    9784758006538\[2\]）
+  - （[一迅社](../Page/一迅社.md "wikilink")，2011年9月24日，ISBN 9784758006538\[2\]）
 
 ## 參考文獻
 
@@ -19,9 +18,7 @@
 
   -
   -
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
-[Category:日本插畫家](https://zh.wikipedia.org/wiki/Category:日本插畫家 "wikilink")
-[Category:日本漫畫家](https://zh.wikipedia.org/wiki/Category:日本漫畫家 "wikilink")
+[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:日本插畫家](https://zh.wikipedia.org/wiki/Category:日本插畫家 "wikilink") [Category:日本漫畫家](https://zh.wikipedia.org/wiki/Category:日本漫畫家 "wikilink")
 
 1.
 2.

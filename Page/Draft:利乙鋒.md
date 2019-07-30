@@ -10,8 +10,7 @@
 
 藝術特色
 
-利乙鋒畫的竹,被原[中國共產黨主席](https://zh.wikipedia.org/wiki/中國共產黨 "wikilink")[華國鋒先生親筆為他題寫了](https://zh.wikipedia.org/wiki/華國鋒 "wikilink")「[關山月的梅](https://zh.wikipedia.org/wiki/關山月 "wikilink")，利乙鋒的竹」以示褒獎。\[4\]
-利乙鋒筆下的[華南虎](https://zh.wikipedia.org/wiki/華南虎 "wikilink")，被前國民[黨主席](https://zh.wikipedia.org/wiki/黨主席 "wikilink")[連戰](../Page/連戰.md "wikilink")先生讚譽為「中國第一畫、世界第一虎」。\[5\]
+利乙鋒畫的竹,被原[中國共產黨主席](https://zh.wikipedia.org/wiki/中國共產黨 "wikilink")[華國鋒先生親筆為他題寫了](https://zh.wikipedia.org/wiki/華國鋒 "wikilink")「[關山月的梅](https://zh.wikipedia.org/wiki/關山月 "wikilink")，利乙鋒的竹」以示褒獎。\[4\] 利乙鋒筆下的[華南虎](https://zh.wikipedia.org/wiki/華南虎 "wikilink")，被前國民[黨主席](https://zh.wikipedia.org/wiki/黨主席 "wikilink")[連戰](../Page/連戰.md "wikilink")先生讚譽為「中國第一畫、世界第一虎」。\[5\]
 
 利乙鋒的作品曾在[臺灣](../Page/臺灣.md "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")、[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")、[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")、[阿根廷](../Page/阿根廷.md "wikilink")、[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")、[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")、[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")、[義大利以及](https://zh.wikipedia.org/wiki/義大利 "wikilink")[北歐](../Page/北歐.md "wikilink")的丹麥、挪威、芬蘭、荷蘭等國展出，許多作品被法國、德國、丹麥、挪威、芬蘭、荷蘭、美國、日本，比利時等國際友人、國內名人以及人大政協、中央統戰部等機構收藏。\[6\]
 

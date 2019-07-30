@@ -4,21 +4,16 @@
 
   - （CAE Aviation），一個位於盧森堡的航空服務公司
 
-  - [加拿大航空電子設備公司](https://zh.wikipedia.org/wiki/加拿大航空電子設備公司 "wikilink")（CAE
-    Inc.） 一個加拿大模擬技術和培訓提供商
+  - [加拿大航空電子設備公司](https://zh.wikipedia.org/wiki/加拿大航空電子設備公司 "wikilink")（CAE Inc.） 一個加拿大模擬技術和培訓提供商
 
   - （Columbia Metropolitan Airport）， IATA機場代碼CAE，在美國南卡羅來納州的西哥倫比亞
 
-  - [歐洲區域航空](../Page/歐洲區域航空.md "wikilink")（Régional Compagnie Aérienne
-    Européenne），或為法國航空公司的子公司CAE
+  - [歐洲區域航空](../Page/歐洲區域航空.md "wikilink")（Régional Compagnie Aérienne Européenne），或為法國航空公司的子公司CAE
 
 ## 計算
 
-  - [X/Open](https://zh.wikipedia.org/wiki/X/Open "wikilink")（Common
-    Application Environment）：通用應用環境，來自X / Open Portability
-    Guide，一個類Unix操作系統的規範
-  - [计算机辅助工程](https://zh.wikipedia.org/wiki/计算机辅助工程 "wikilink")（Computer-aided
-    engineering），計算機軟件，以幫助完成工程任務
+  - [X/Open](https://zh.wikipedia.org/wiki/X/Open "wikilink")（Common Application Environment）：通用應用環境，來自X / Open Portability Guide，一個類Unix操作系統的規範
+  - [计算机辅助工程](https://zh.wikipedia.org/wiki/计算机辅助工程 "wikilink")（Computer-aided engineering），計算機軟件，以幫助完成工程任務
 
 ## 教育
 
@@ -34,14 +29,10 @@
 
 ## 工程
 
-  - [加拿大工程院](../Page/加拿大工程院.md "wikilink")（Canadian Academy of
-    Engineering），加拿大國家工程學院
-  - [中國工程院](../Page/中国工程院.md "wikilink")（Chinese Academy of
-    Engineering），中華人民共和國國家工程院。
-  - [氣動馬達](https://zh.wikipedia.org/wiki/气动马达 "wikilink")（Compressed air
-    engine）， 一種具有200年歷史的壓力氣動執行器，可通過膨脹壓縮空氣來發揮作用
-  - [計算機輔助工程](https://zh.wikipedia.org/wiki/计算机辅助工程 "wikilink")（Computer-aided
-    engineering）， 是計算機軟件的廣泛用途，以幫助工程分析任務
+  - [加拿大工程院](../Page/加拿大工程院.md "wikilink")（Canadian Academy of Engineering），加拿大國家工程學院
+  - [中國工程院](../Page/中国工程院.md "wikilink")（Chinese Academy of Engineering），中華人民共和國國家工程院。
+  - [氣動馬達](https://zh.wikipedia.org/wiki/气动马达 "wikilink")（Compressed air engine）， 一種具有200年歷史的壓力氣動執行器，可通過膨脹壓縮空氣來發揮作用
+  - [計算機輔助工程](https://zh.wikipedia.org/wiki/计算机辅助工程 "wikilink")（Computer-aided engineering）， 是計算機軟件的廣泛用途，以幫助工程分析任務
 
 ## 管理
 
@@ -53,8 +44,7 @@
 
   - （Critical Art Ensemble），各種專業的戰術媒體從業者集體
 
-  - 加拿大團隊所組成的歐洲電台，無線電CAE，從第二次世界大戰和1940年代，現在取代了 （Canadian Forces Radio
-    and Television）
+  - 加拿大團隊所組成的歐洲電台，無線電CAE，從第二次世界大戰和1940年代，現在取代了 （Canadian Forces Radio and Television）
 
   - （Continental Aviation and Engineering），美國飛機發動機製造商
 
@@ -68,10 +58,8 @@
 
 ## 其他用途
 
-  - [中非帝國](../Page/中非帝國.md "wikilink")（Central African
-    Empire），中非一個短暫存在過的帝國
-  - [兒童綁架緊急情況](../Page/安珀警报.md "wikilink")（Child Abduction
-    Emergency），或黃燈警報
+  - [中非帝國](../Page/中非帝國.md "wikilink")（Central African Empire），中非一個短暫存在過的帝國
+  - [兒童綁架緊急情況](../Page/安珀警报.md "wikilink")（Child Abduction Emergency），或黃燈警報
   - [雕具座](../Page/雕具座.md "wikilink")（Caelum）的標準IAU星座縮寫
 
 [Category:三字拉丁字母縮寫消歧義](https://zh.wikipedia.org/wiki/Category:三字拉丁字母縮寫消歧義 "wikilink")

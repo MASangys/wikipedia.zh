@@ -1,4 +1,4 @@
-**KZ8A型電力機車**是[哈薩克斯坦国家铁路及](https://zh.wikipedia.org/wiki/哈薩克斯坦国家铁路 "wikilink")[阿塞拜疆鐵路的](../Page/阿塞拜疆鐵路.md "wikilink")[電力機車車款之一](../Page/電力機車.md "wikilink")，由法国[阿爾斯通公司生产](https://zh.wikipedia.org/wiki/阿爾斯通公司 "wikilink")，屬阿爾斯通第二代“[Prima](../Page/Prima_\(铁路机车\).md "wikilink")”机车技术平台中首款投產的八軸電力機車。機車設計本身為俄羅斯市場度身訂造，但其技術標準可供所有獨聯體國家鐵路通用。KZ8A型电力机车为交流传动的貨運用电力机车，机车持续功率为8800千瓦，最高速度为120公里/小时。
+**KZ8A型電力機車**是[哈薩克斯坦国家铁路及](https://zh.wikipedia.org/wiki/哈薩克斯坦国家铁路 "wikilink")[阿塞拜疆鐵路](../Page/阿塞拜疆鐵路.md "wikilink")的[電力機車](../Page/電力機車.md "wikilink")車款之一，由法国[阿爾斯通公司生产](https://zh.wikipedia.org/wiki/阿爾斯通公司 "wikilink")，屬阿爾斯通第二代“[Prima](../Page/Prima_\(铁路机车\).md "wikilink")”机车技术平台中首款投產的八軸電力機車。機車設計本身為俄羅斯市場度身訂造，但其技術標準可供所有獨聯體國家鐵路通用。KZ8A型电力机车为交流传动的貨運用电力机车，机车持续功率为8800千瓦，最高速度为120公里/小时。
 
 ## 發展歷史
 
@@ -8,7 +8,7 @@
 
 ### 引進
 
-2010年3月，哈薩克斯坦国家铁路正式向阿爾斯通公司訂購200輛八軸交傳貨運機車，並同時與俄羅斯[运输机械控股集团合資在首都阿斯塔納成立EKZ聯營機車廠](../Page/运输机械控股集团.md "wikilink")（法方及俄方各佔25%，哈方佔50%；及後哈方退出，阿爾斯通公司增持至75%），以生產本型機車；以上合約價值13億歐元\[2\]。
+2010年3月，哈薩克斯坦国家铁路正式向阿爾斯通公司訂購200輛八軸交傳貨運機車，並同時與俄羅斯[运输机械控股集团](../Page/运输机械控股集团.md "wikilink")合資在首都阿斯塔納成立EKZ聯營機車廠（法方及俄方各佔25%，哈方佔50%；及後哈方退出，阿爾斯通公司增持至75%），以生產本型機車；以上合約價值13億歐元\[2\]。
 
 ### 研製
 
@@ -33,10 +33,7 @@
 
 ## 參考資料
 
-[Category:哈萨克斯坦电力机车](https://zh.wikipedia.org/wiki/Category:哈萨克斯坦电力机车 "wikilink")
-[Category:阿尔斯通制铁路机车](https://zh.wikipedia.org/wiki/Category:阿尔斯通制铁路机车 "wikilink")
-[Category:Bo-Bo+Bo-Bo軸式機車](https://zh.wikipedia.org/wiki/Category:Bo-Bo+Bo-Bo軸式機車 "wikilink")
-[Category:25千伏50赫兹交流电力机车](https://zh.wikipedia.org/wiki/Category:25千伏50赫兹交流电力机车 "wikilink")
+[Category:哈萨克斯坦电力机车](https://zh.wikipedia.org/wiki/Category:哈萨克斯坦电力机车 "wikilink") [Category:阿尔斯通制铁路机车](https://zh.wikipedia.org/wiki/Category:阿尔斯通制铁路机车 "wikilink") [Category:Bo-Bo+Bo-Bo軸式機車](https://zh.wikipedia.org/wiki/Category:Bo-Bo+Bo-Bo軸式機車 "wikilink") [Category:25千伏50赫兹交流电力机车](https://zh.wikipedia.org/wiki/Category:25千伏50赫兹交流电力机车 "wikilink")
 
 1.  [知乎網-中亚草原的“阿尔斯通造”——KZ8A型和KZ4AT型电力机车](https://zhuanlan.zhihu.com/p/51476823)
 2.  [阿爾斯通公司-KZ8A機車下線新聞稿](https://www.alstom.com/press-releases-news/2012/10/kz8a)

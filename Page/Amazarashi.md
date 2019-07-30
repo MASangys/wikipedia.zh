@@ -1,4 +1,4 @@
-**amazarashi**是一个出道于[日本](../Page/日本.md "wikilink")[青森县](https://zh.wikipedia.org/wiki/青森县 "wikilink")\[1\]的[摇滚乐队](../Page/摇滚.md "wikilink")。乐队名amazarashih是日语“”的罗马字，因“倘若将日常之悲苦比作降雨，我们则曝身于雨中，想把那‘即使如此’这一点歌唱出来”而取此名\[2\]。乐队的核心成员是秋田弘和丰川真奈美。
+**amazarashi**是一个出道于[日本](../Page/日本.md "wikilink")[青森县](https://zh.wikipedia.org/wiki/青森县 "wikilink")\[1\]的[摇滚](../Page/摇滚.md "wikilink")乐队。乐队名amazarashih是日语“”的罗马字，因“倘若将日常之悲苦比作降雨，我们则曝身于雨中，想把那‘即使如此’这一点歌唱出来”而取此名\[2\]。乐队的核心成员是秋田弘和丰川真奈美。
 
 在日本艺能界中，有很多艺人都是AMZ的歌迷，其中有清原果耶、横浜流星、小島梨裡杏等人
 
@@ -7,9 +7,7 @@
   - **秋田 弘**（）
       -
         [主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink")、[吉他手](https://zh.wikipedia.org/wiki/吉他手 "wikilink")、词曲创作。青森[上北郡](../Page/上北郡.md "wikilink")出身\[3\]。出道当时在[陆奥市](https://zh.wikipedia.org/wiki/陆奥市 "wikilink")\[4\]居住与活动，而2014年左右则住在了青森市\[5\]。
-        接触音乐的契机是在小学六年级时，向往起了彼时姐姐听的[TM
-        NETWORK](../Page/TM_NETWORK.md "wikilink")，买了键盘\[6\]就参与了的模仿乐队\[7\]。受到了艺术家和、作家[寺山修司和](../Page/寺山修司.md "wikilink")[太宰治等等的影响](../Page/太宰治.md "wikilink")\[8\]。秋田弘是在活动的[创作歌手](https://zh.wikipedia.org/wiki/创作歌手 "wikilink")的粉丝\[9\]，也欣赏\[10\]、\[11\]、\[12\]、\[13\]、\[14\]等[Hip-hop艺术家](https://zh.wikipedia.org/wiki/嘻哈音乐 "wikilink")
-        。秋田弘还是的漫画的粉丝，曾为其漫画作品《星期一的朋友》（）创作了歌曲《星期一》（）\[15\]。
+        接触音乐的契机是在小学六年级时，向往起了彼时姐姐听的[TM NETWORK](../Page/TM_NETWORK.md "wikilink")，买了键盘\[6\]就参与了的模仿乐队\[7\]。受到了艺术家和、作家[寺山修司](../Page/寺山修司.md "wikilink")和[太宰治](../Page/太宰治.md "wikilink")等等的影响\[8\]。秋田弘是在活动的[创作歌手](https://zh.wikipedia.org/wiki/创作歌手 "wikilink")的粉丝\[9\]，也欣赏\[10\]、\[11\]、\[12\]、\[13\]、\[14\]等[Hip-hop艺术家](https://zh.wikipedia.org/wiki/嘻哈音乐 "wikilink") 。秋田弘还是的漫画的粉丝，曾为其漫画作品《星期一的朋友》（）创作了歌曲《星期一》（）\[15\]。
 
 <!-- end list -->
 
@@ -39,8 +37,7 @@
 <!-- end list -->
 
   -
-    特别演唱会“あまざらし プレミアムライブ
-    一千零一夜故事《星光》”时，**木村将之**任[低音提琴手](../Page/低音提琴.md "wikilink")\[26\]，****\[27\]、**矢野小百合**\[28\]（初次公演时）和**須原杏**（返场公演时）\[29\]任[小提琴手](../Page/小提琴.md "wikilink")。**村田泰子**任[中提琴手](../Page/中提琴.md "wikilink")。**越川和音**任[大提琴手](../Page/大提琴.md "wikilink")。
+    特别演唱会“あまざらし プレミアムライブ 一千零一夜故事《星光》”时，**木村将之**任[低音提琴](../Page/低音提琴.md "wikilink")手\[26\]，****\[27\]、**矢野小百合**\[28\]（初次公演时）和**須原杏**（返场公演时）\[29\]任[小提琴](../Page/小提琴.md "wikilink")手。**村田泰子**任[中提琴](../Page/中提琴.md "wikilink")手。**越川和音**任[大提琴](../Page/大提琴.md "wikilink")手。
 
 ## 历史
 
@@ -51,20 +48,18 @@
 <!-- end list -->
 
   - 1月，**STAR ISSUE**成立。因「想要把希望之光一般的歌曲像杂志、新闻一样定期地发表出来」而得名\[30\]。
-  - 5月26日，乐队在青森的业余乐队演奏会“グルコン Vol.17 青森 〜Joker Style
-    Summit〜”，获[樂蘭奖](https://zh.wikipedia.org/wiki/樂蘭 "wikilink")\[31\]。
+  - 5月26日，乐队在青森的业余乐队演奏会“グルコン Vol.17 青森 〜Joker Style Summit〜”，获[樂蘭奖](https://zh.wikipedia.org/wiki/樂蘭 "wikilink")\[31\]。
 
 <!-- end list -->
 
   -
-    此后，乐队名改为**あまざらし**（以[平假名书写的amazarashi](../Page/平假名.md "wikilink")）。
+    此后，乐队名改为**あまざらし**（以[平假名](../Page/平假名.md "wikilink")书写的amazarashi）。
 
   - 2008年
 
 <!-- end list -->
 
-  - 经纪公司Rainbow
-    Entertainment的[A\&R](https://zh.wikipedia.org/wiki/A&R "wikilink")，为了音乐人的宣传活动访问青森县内的广播局期间，听到了当地宣传独立乐队音源的专柜传出的歌声，以此为契机，与あまざらし乐队签了约\[32\]。此外，因秋田弘本人不擅长人际关系，且希望听众能更多地关注歌曲的歌词与世界观，采取了不公开露脸、用CD封面设计表达世界观、在CD中封入诗集、以网络为推广活动中心等等的形式出道\[33\]。
+  - 经纪公司Rainbow Entertainment的[A\&R](https://zh.wikipedia.org/wiki/A&R "wikilink")，为了音乐人的宣传活动访问青森县内的广播局期间，听到了当地宣传独立乐队音源的专柜传出的歌声，以此为契机，与あまざらし乐队签了约\[32\]。此外，因秋田弘本人不擅长人际关系，且希望听众能更多地关注歌曲的歌词与世界观，采取了不公开露脸、用CD封面设计表达世界观、在CD中封入诗集、以网络为推广活动中心等等的形式出道\[33\]。
 
 <!-- end list -->
 
@@ -72,7 +67,7 @@
 
 <!-- end list -->
 
-  - 2月18日，迷你专辑《（光、再思考）》限定在青森县的CD商店发售，作为[獨立音樂面世](../Page/獨立音樂.md "wikilink")\[34\]。
+  - 2月18日，迷你专辑《（光、再思考）》限定在青森县的CD商店发售，作为[獨立音樂](../Page/獨立音樂.md "wikilink")面世\[34\]。
 
 <!-- end list -->
 
@@ -94,8 +89,7 @@
 
 <!-- end list -->
 
-  - 6月17日，更名amazarashi后的第一次演唱会「**amazarashi 1st
-    演唱会《活在这条街上》**」在涩谷WWW举行\[42\]\[43\]。
+  - 6月17日，更名amazarashi后的第一次演唱会「**amazarashi 1st 演唱会《活在这条街上》**」在涩谷WWW举行\[42\]\[43\]。
 
 ※演出时，依据秋田「最想要表达的是乐曲中蕴含的讯息」的意向，舞台前布置了巨大的纱幕用以投影画面，乐队则在纱幕之后演奏而不露身影\[44\]，从此往后都保持着这样的演出形式。
 
@@ -106,9 +100,7 @@
 <!-- end list -->
 
   - 3月11日，受前一年[东日本大震灾影响创作并于震后的](https://zh.wikipedia.org/wiki/东日本大震灾 "wikilink")2011年3月16日公开的诗\[45\]得以配曲并冠以标题「祈り（祈祷）」的新歌在官方网站上公开\[46\]。
-  - 3月16日，官方公布将举行amazarashi的首场巡回演唱会「**amazarashi 巡回演唱会 2012《ごめんなさい
-    ちゃんといえるかな（对不起
-    能好好说出口吗）》**」，将在6月30日到7月8日于三个城市进行三场演出\[47\]。
+  - 3月16日，官方公布将举行amazarashi的首场巡回演唱会「**amazarashi 巡回演唱会 2012《ごめんなさい ちゃんといえるかな（对不起 能好好说出口吗）》**」，将在6月30日到7月8日于三个城市进行三场演出\[47\]。
   - 11月14日，官方的移动网站“APOLOGIES”开始服务。网站内开设了秋田自己的博客连载。
   - 12月3日，在文化网站“[型破リヰナ](http://katayaburiina.com/)”上开始连载秋田的专栏「ゲーム、再考（游戏、再思考）」。
 
@@ -119,7 +111,7 @@
 <!-- end list -->
 
   - 8月16日，前往「」参与演出\[48\]。这是改名amazarashi后首次在这样的嘉年华上出演\[49\]。
-  - 8月28日，写给[中島美嘉的单曲](../Page/中島美嘉.md "wikilink")《[曾經我也想過一了百了](../Page/曾經我也想過一了百了.md "wikilink")》发表，这是秋田弘第一次给他人的创作。单曲收录的曲目中，标题同名曲《曾经我也想过一了百了》和B面曲《Today》皆为秋田弘创作词曲。中岛美嘉方面则负责乐曲制作\[50\]。
+  - 8月28日，写给[中島美嘉](../Page/中島美嘉.md "wikilink")的单曲《[曾經我也想過一了百了](../Page/曾經我也想過一了百了.md "wikilink")》发表，这是秋田弘第一次给他人的创作。单曲收录的曲目中，标题同名曲《曾经我也想过一了百了》和B面曲《Today》皆为秋田弘创作词曲。中岛美嘉方面则负责乐曲制作\[50\]。
 
 <!-- end list -->
 
@@ -129,8 +121,7 @@
 
   - 1月6日，官方公布了豊川因身体状况不佳休止现场活动的消息\[51\]。
   - 5月23日，以独立时代的**あまざらし**名义发表了将在9月9日举行特殊演唱会的消息，同一时期写的小说《星光》在官方网站上开始了连载\[52\]。
-  - 9月9日，一人演唱会「**あまざらし プレミアムライブ
-    一千零一夜故事《星光》**」开演\[53\]\[54\]，因身体状态不佳修养中的豊川在本公演复归。且于公演结束后，歌曲《星光》的歌词版MV公开\[55\]。
+  - 9月9日，一人演唱会「**あまざらし プレミアムライブ 一千零一夜故事《星光》**」开演\[53\]\[54\]，因身体状态不佳修养中的豊川在本公演复归。且于公演结束后，歌曲《星光》的歌词版MV公开\[55\]。
 
 ### 2015年 - 2016年: 《世界收束二一一六》
 
@@ -139,21 +130,11 @@
 <!-- end list -->
 
   - 2月18日，第一张单曲《》发行。
-  - 3月28日，前往[台湾参加](https://zh.wikipedia.org/wiki/台湾 "wikilink")「T-Fest
-    2015 明日音樂祭」与日本的、[TURTLE
-    ISLAND](https://zh.wikipedia.org/wiki/TURTLE_ISLAND "wikilink")、[猴子把戲等乐队一同出演](../Page/猴子把戲.md "wikilink")，这也是amazarashi第一次远赴海外的公开出演\[56\]。
+  - 3月28日，前往[台湾参加](https://zh.wikipedia.org/wiki/台湾 "wikilink")「T-Fest 2015 明日音樂祭」与日本的、[TURTLE ISLAND](https://zh.wikipedia.org/wiki/TURTLE_ISLAND "wikilink")、[猴子把戲](../Page/猴子把戲.md "wikilink")等乐队一同出演，这也是amazarashi第一次远赴海外的公开出演\[56\]。
   - 5月13日，第一章不插电专辑《あまざらし 一千零一夜故事 星光》发行。
-  - 6月9日，与索尼公司签约正式出道5周年，举行了纪念演唱会。第1轮的当天，举办的是只限官方移动网站「APOLOGIES」的会员400名参加\[57\]的纪念演唱会「**amazarashi
-    五周年演唱会‘APOLOGIES’**」\[58\]。接着第2轮（8月16日），初次尝试利用[3D影像投影的演出](../Page/3D眼鏡.md "wikilink")「**amazarashi
-    五周年演唱会 3D版**」开演\[59\]。
+  - 6月9日，与索尼公司签约正式出道5周年，举行了纪念演唱会。第1轮的当天，举办的是只限官方移动网站「APOLOGIES」的会员400名参加\[57\]的纪念演唱会「**amazarashi 五周年演唱会‘APOLOGIES’**」\[58\]。接着第2轮（8月16日），初次尝试利用[3D影像投影的演出](../Page/3D眼鏡.md "wikilink")「**amazarashi 五周年演唱会 3D版**」开演\[59\]。
   - 8月19日，第二张单曲《》发行。
-  - 10月22日，作为嘉宾艺术家参加了有虚构乐队[YEN TOWN
-    BAND](https://zh.wikipedia.org/wiki/YEN_TOWN_BAND "wikilink")“出演”的由[JAPAN
-    FM
-    LEAGUE主办的演奏会](https://zh.wikipedia.org/wiki/JAPAN_FM_LEAGUE "wikilink")「JFL
-    presents LIVE FOR THE NEXT supported by ELECOM」在Zepp
-    Tokyo的公演\[60\]，与及[flower in the
-    vasement同台演出](https://zh.wikipedia.org/wiki/flower_in_the_vasement "wikilink")\[61\]，这是2013年以后的首次竞演形式的公演。
+  - 10月22日，作为嘉宾艺术家参加了有虚构乐队[YEN TOWN BAND](https://zh.wikipedia.org/wiki/YEN_TOWN_BAND "wikilink")“出演”的由[JAPAN FM LEAGUE主办的演奏会](https://zh.wikipedia.org/wiki/JAPAN_FM_LEAGUE "wikilink")「JFL presents LIVE FOR THE NEXT supported by ELECOM」在Zepp Tokyo的公演\[60\]，与及[flower in the vasement同台演出](https://zh.wikipedia.org/wiki/flower_in_the_vasement "wikilink")\[61\]，这是2013年以后的首次竞演形式的公演。
   - 12月29日，前往GALAXY STAGE（银河舞台）在「」中出演\[62\]。
 
 <!-- end list -->
@@ -162,13 +143,10 @@
 
 <!-- end list -->
 
-  - 1月17日起，作为5周年纪念演唱会的第3轮，巡回演唱会「**amazarashi 五周年巡回演唱会
-    2016「世界分岐二〇一六」**」开演。包括追加公演在内一共八场公演。\[63\]。
-  - 2月19日，秋田弘往[文藝春秋发行的电子](../Page/文藝春秋.md "wikilink")《》2016年3月号寄稿五篇诗歌和一篇散文，署名「amazarashi
-    秋田弘」。\[64\]被登载于卷首\[65\]。杂志上发表的作品中的《青森唱歌》在[Music.jp上免费公开](https://zh.wikipedia.org/wiki/Music.jp "wikilink")\[66\]。随登载，科幻小说作家寄予了「尽管已经用‘青森’在前面表明了您自己的身份，我却不是因为依赖于那身份的印象，就感到了作品的优质」「曾有一次[町田康先生的形象在我脑海中掠过](https://zh.wikipedia.org/wiki/町田康 "wikilink")」的评价\[67\]。
+  - 1月17日起，作为5周年纪念演唱会的第3轮，巡回演唱会「**amazarashi 五周年巡回演唱会 2016「世界分岐二〇一六」**」开演。包括追加公演在内一共八场公演。\[63\]。
+  - 2月19日，秋田弘往[文藝春秋](../Page/文藝春秋.md "wikilink")发行的电子《》2016年3月号寄稿五篇诗歌和一篇散文，署名「amazarashi 秋田弘」。\[64\]被登载于卷首\[65\]。杂志上发表的作品中的《青森唱歌》在[Music.jp上免费公开](https://zh.wikipedia.org/wiki/Music.jp "wikilink")\[66\]。随登载，科幻小说作家寄予了「尽管已经用‘青森’在前面表明了您自己的身份，我却不是因为依赖于那身份的印象，就感到了作品的优质」「曾有一次[町田康先生的形象在我脑海中掠过](https://zh.wikipedia.org/wiki/町田康 "wikilink")」的评价\[67\]。
   - 2月24日，第三章录音室专辑《》发行\[68\]。
-  - 同一天，致敬中島美嘉的专辑『MIKA NAKASHIMA
-    TRIBUTE』发行，其中首次将秋田的《我也曾想过一了百了》的弹唱CD音源化，这是秋田弘翻唱自己创作的、给中岛美嘉的原唱的歌曲。\[69\]。
+  - 同一天，致敬中島美嘉的专辑『MIKA NAKASHIMA TRIBUTE』发行，其中首次将秋田的《我也曾想过一了百了》的弹唱CD音源化，这是秋田弘翻唱自己创作的、给中岛美嘉的原唱的歌曲。\[69\]。
   - 6月22日，影视作品《amazarashi 巡回演唱会 2016 世界分歧二〇一六》发行\[70\]。
   - 10月12日，在索尼音乐公司的第七个迷你专辑《》发行\[71\]。
   - 10月15日，一人演唱会「**amazarashi 演唱会 360°《虚无病》**」开演\[72\]。
@@ -181,13 +159,11 @@
 <!-- end list -->
 
   - 2月22日，第三张单曲「（与生命相符）」发行，同名曲是电子游戏《[尼爾：自動人形](../Page/尼爾：自動人形.md "wikilink")》的合作作品\[74\]。
-  - 3月26日 - 10月19日，巡回演唱会「**amazarashi 巡回演唱会
-    2017《メッセージボトル（漂流瓶）》**」举行。在青森当地举行了第一次凯旋公演\[75\]\[76\]。
-  - 3月29日，amazarashi的第一章精选专辑《》发行。同年1月7日起播放的[東京電視台深夜电视剧](../Page/東京電視台.md "wikilink")「」选为主题曲的新歌「ヒーロー（英雄）」以及以「あまざらし」名义在迷你专辑限定盘中收录的《》等也被收入其中\[77\]。
-  - 同一天，[亞細亞功夫世代的致敬专辑](../Page/亞細亞功夫世代.md "wikilink")《》发行。amazarashi翻唱的「夏の日、残像（夏日、残像）」被收入其中\[78\]。
+  - 3月26日 - 10月19日，巡回演唱会「**amazarashi 巡回演唱会 2017《メッセージボトル（漂流瓶）》**」举行。在青森当地举行了第一次凯旋公演\[75\]\[76\]。
+  - 3月29日，amazarashi的第一章精选专辑《》发行。同年1月7日起播放的[東京電視台](../Page/東京電視台.md "wikilink")深夜电视剧「」选为主题曲的新歌「ヒーロー（英雄）」以及以「あまざらし」名义在迷你专辑限定盘中收录的《》等也被收入其中\[77\]。
+  - 同一天，[亞細亞功夫世代](../Page/亞細亞功夫世代.md "wikilink")的致敬专辑《》发行。amazarashi翻唱的「夏の日、残像（夏日、残像）」被收入其中\[78\]。
   - 6月21日，影视作品『amazarashi 360° 演唱会《虚無病》』发行\[79\]。
-  - 8月19日，赴于RAINBOW STAGE举行的演唱会「[SUMMER
-    SONIC](../Page/SUMMER_SONIC.md "wikilink") 2017」出演。\[80\]。
+  - 8月19日，赴于RAINBOW STAGE举行的演唱会「[SUMMER SONIC](../Page/SUMMER_SONIC.md "wikilink") 2017」出演。\[80\]。
   - 9月6日，第四张单曲《（若对天高歌）》发行\[81\]。
   - 12月6日、7日，秋田弘的弹唱一人演唱会「****（解除理论武装）」开演。\[82\]。
   - 12月13日，第四张录音室专辑《（地方都市的memento mori）》发行。
@@ -199,14 +175,11 @@
 
 <!-- end list -->
 
-  - 3月3日 -
-    4月5日，amazarashi与[Aimer共同的在亚洲四座城市的巡回演唱会](../Page/Aimer.md "wikilink")「**amazarashi
-    × Aimer 亚洲巡回 2018**」举行\[84\]。
+  - 3月3日 - 4月5日，amazarashi与[Aimer](../Page/Aimer.md "wikilink")共同的在亚洲四座城市的巡回演唱会「**amazarashi × Aimer 亚洲巡回 2018**」举行\[84\]。
   - 3月12日，只限于网络下载的单曲《月曜日（星期一）》发售。这是的漫画《（星期一的朋友）》的联动曲\[85\]。
   - 3月21日，[菅田将暉的第一张专辑](../Page/菅田將暉.md "wikilink")《PLAY》发售。秋田弘作词作曲的歌曲《スプリンター（短跑者）》被收录入其中\[86\]。
   - 4月20日 - 6月3日，舉行巡回演唱会「**amazarashi 巡回演唱会 2018「地方都市のメメント・モリ」**」\[87\]。
-  - 8月21日，[菅田将暉的新单曲](../Page/菅田將暉.md "wikilink")「（Long Hope
-    Filia）」的乐曲由amazarashi的秋田弘提供。\[88\]
+  - 8月21日，[菅田将暉的新单曲](../Page/菅田將暉.md "wikilink")「（Long Hope Filia）」的乐曲由amazarashi的秋田弘提供。\[88\]
   - 11月16日，amazarashi首次在[日本武道馆举行演唱会](https://zh.wikipedia.org/wiki/日本武道馆 "wikilink")「」。
 
 ## 作品
@@ -671,11 +644,11 @@ AIXL-100</p></td>
 | 性善说                                                                | [關西電視台](../Page/關西電視台.md "wikilink")《{{lang|ja|{{tsl|ja|音エモン                                                                                   | 音エモン}}}}》4月 "POWER PUSH                                                  |
 | 关西电视台 [Mu-Jack](../Page/Mu-Jack.md "wikilink")4月片尾曲                |                                                                                                                                                |                                                                          |
 | 夜之歌                                                                | [富士電視台](../Page/富士電視台.md "wikilink"){{lang|ja|《{{tsl|ja|怪生伝                                                                                    | 怪生伝}}》第一章 傘娘編}}（[试播版](https://zh.wikipedia.org/wiki/电视试播 "wikilink")）片尾曲 |
-| 接连逝去的季节                                                            | 电视动画『[東京喰種√A](../Page/東京喰種.md "wikilink")』片尾曲                                                                                                  | 2015年                                                                    |
+| 接连逝去的季节                                                            | 电视动画『[東京喰種](../Page/東京喰種.md "wikilink")√A』片尾曲                                                                                                  | 2015年                                                                    |
 | 速度与摩擦                                                              | 富士电视台动画『[亂步奇譚 拉普拉斯的遊戲](../Page/亂步奇譚_拉普拉斯的遊戲.md "wikilink")』片头曲                                                                                 |                                                                          |
 | 多数決                                                                | {{tsl|ja|スペースシャワーTV                                                                                                                            | SPACE SHOWER TV}}合作ID用曲                                                  |
 | ヒーロー（英雄）                                                           | 东京电视台电视剧《{{lang|ja|{{tsl|ja|銀と金                                                                                                                | 銀と金}}}}（银与金）》主题曲                                                         |
-| 命にふさわしい（与生命相符）                                                     | [史克威尔艾尼克斯制作](../Page/史克威尔艾尼克斯.md "wikilink")[PlayStation 4游戏](../Page/PlayStation_4.md "wikilink")《[尼爾：自動人形](../Page/尼爾：自動人形.md "wikilink")》合作 |                                                                          |
+| 命にふさわしい（与生命相符）                                                     | [史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")制作[PlayStation 4游戏](../Page/PlayStation_4.md "wikilink")《[尼爾：自動人形](../Page/尼爾：自動人形.md "wikilink")》合作 |                                                                          |
 | 空に歌えば（若对天高歌）                                                       | [讀賣電視台](../Page/讀賣電視台.md "wikilink") 动画《[我的英雄學院](../Page/我的英雄學院.md "wikilink")》第2期片头曲2                                                         |                                                                          |
 | フィロソフィー（哲学）                                                        | {{tsl|ja|ダイドードリンコ                                                                                                                              | Dydo Drinco}}公司『{{tsl|ja|ダイドーブレンドコーヒー                                    |
 | 月曜日（星期一）                                                           | [小學館](../Page/小學館.md "wikilink"){{tsl|ja|ビッグコミックス                                                                                              | BIG COMICS}}《（星期一的朋友）》合作                                                 |
@@ -713,8 +686,7 @@ amazarashi演唱会「千年幸福论」\[90\]
 
 <div class="NavContent" style="text-align: left;">
 
-  - 2012年1月28日　東京
-    [涩谷公会堂](https://zh.wikipedia.org/wiki/涩谷公会堂 "wikilink")
+  - 2012年1月28日　東京 [涩谷公会堂](https://zh.wikipedia.org/wiki/涩谷公会堂 "wikilink")
   - 2012年3月16日　東京 [SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")
   - 2012年3月23日　大阪 umeda AKASO
 
@@ -807,8 +779,7 @@ amazarashi 巡回 2014「给你」\[94\]
 
 <div class="NavContent" style="text-align: left;">
 
-  - 2014年9月9日　東京 [TOKYO DOME CITY
-    HALL](../Page/MEETS_PORT.md "wikilink")
+  - 2014年9月9日　東京 [TOKYO DOME CITY HALL](../Page/MEETS_PORT.md "wikilink")
   - 2015年4月4日　東京 [中野太陽廣場](../Page/中野太陽廣場.md "wikilink")（返场公演）
   - 2015年4月29日　大阪 （返场公演）
 
@@ -993,8 +964,7 @@ amazarashi 巡回演唱会 2018「地方都市のメメント・モリ（地方�
 
 <div class="NavContent" style="text-align: left;">
 
-  - 08月16日　**RISING SUN ROCK FESTIVAL（日升摇滚节） 2013** 北海道 樽川埠頭横
-    室外特設舞台\[103\]
+  - 08月16日　**RISING SUN ROCK FESTIVAL（日升摇滚节） 2013** 北海道 樽川埠頭横 室外特設舞台\[103\]
   - 09月30日　**LIQUIDROOM 九周年演出 "UNDER THE INFLUENCE（影响下）"**\[104\]　東京
 
 </div>
@@ -1029,8 +999,7 @@ amazarashi 巡回演唱会 2018「地方都市のメメント・モリ（地方�
 <div class="NavContent" style="text-align: left;">
 
   - 03月28日　**T-Fest 2015 明日音樂祭** 台湾 台北市立花博公園
-  - 10月22日　**JFL presents LIVE FOR THE NEXT supported by ELECOM** 東京都
-    Zepp Tokyo
+  - 10月22日　**JFL presents LIVE FOR THE NEXT supported by ELECOM** 東京都 Zepp Tokyo
   - 12月29日　**COUNTDOWN JAPAN 15/16**\[105\] 千葉 幕張展览馆
 
 </div>
@@ -1064,8 +1033,7 @@ amazarashi 巡回演唱会 2018「地方都市のメメント・モリ（地方�
 
 <div class="NavContent" style="text-align: left;">
 
-  - 08月19日　**SUMMER SONIC 2017 TOKYO（夏季音速2017东京）** 千葉
-    [千葉海洋球場](../Page/千葉海洋球場.md "wikilink")、幕張展览馆
+  - 08月19日　**SUMMER SONIC 2017 TOKYO（夏季音速2017东京）** 千葉 [千葉海洋球場](../Page/千葉海洋球場.md "wikilink")、幕張展览馆
   - 12月28日　**COUNTDOWN JAPAN（日本新年倒数） 17/18** 千葉 幕張展览馆
 
 </div>
@@ -1082,8 +1050,7 @@ amazarashi 巡回演唱会 2018「地方都市のメメント・モリ（地方�
 
 <div class="NavContent" style="text-align: left;">
 
-  - 03月3日　**amazarashi × Aimer 亚洲巡回 2018**\[106\] 中国 上海
-    [万代南梦宫上海文化中心](../Page/万代南梦宫上海文化中心.md "wikilink")
+  - 03月3日　**amazarashi × Aimer 亚洲巡回 2018**\[106\] 中国 上海 [万代南梦宫上海文化中心](../Page/万代南梦宫上海文化中心.md "wikilink")
   - 03月4日　**amazarashi × Aimer 亚洲巡回 2018** 中国 上海 万代南梦宫上海文化中心
   - 03月24日　**amazarashi × Aimer 亚洲巡回 2018** 台湾 台北 Legacy MaX
   - 03月31日　**amazarashi × Aimer 亚洲巡回 2018** 新加坡 Zepp@BIGBOX Singapore
@@ -1181,10 +1148,7 @@ amazarashi 巡回演唱会 2018「地方都市のメメント・モリ（地方�
   -
   -
   -
-[Category:日本另类摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本另类摇滚乐团 "wikilink")
-[Category:2007年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2007年成立的音樂團體 "wikilink")
-[Category:青森縣出身人物](https://zh.wikipedia.org/wiki/Category:青森縣出身人物 "wikilink")
-[Category:日本索尼音樂娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂旗下藝人 "wikilink")
+[Category:日本另类摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本另类摇滚乐团 "wikilink") [Category:2007年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2007年成立的音樂團體 "wikilink") [Category:青森縣出身人物](https://zh.wikipedia.org/wiki/Category:青森縣出身人物 "wikilink") [Category:日本索尼音樂娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂旗下藝人 "wikilink")
 
 1.
 

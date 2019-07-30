@@ -1,30 +1,12 @@
-**Elizabeth Marry**（，；），本名 **Elizabeth
-Rabone**，是[日本](../Page/日本.md "wikilink")[神奈川縣的女演員及編舞師](../Page/神奈川縣.md "wikilink")。
+**Elizabeth Marry**（，；），本名 **Elizabeth Rabone**，是[日本](../Page/日本.md "wikilink")[神奈川縣](../Page/神奈川縣.md "wikilink")的女演員及編舞師。
 
 ## 簡歷
 
-Elizabeth Marry
-有一位[童星弟弟](../Page/童星.md "wikilink")\[1\]，父母是[英國人](https://zh.wikipedia.org/wiki/英國 "wikilink")\[2\]和日本人\[3\]；父親任職「IGB
-Network」執行董事（2004年8月 -
-2016年3月）、「Network-i」[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[澀谷區分部僕人領袖](../Page/澀谷區.md "wikilink")（2016年4月至今）\[4\]兼業餘樵夫\[5\]，兩名表姊
-[Rebecca Eri Rabone](../Page/Becky.md "wikilink")、[Jessica JJ
-Rabone](https://zh.wikipedia.org/wiki/Jessica_JJ_Rabone "wikilink")
-均為藝人，前者同樣留在日本發展，後者則赴[美國當舞蹈員](https://zh.wikipedia.org/wiki/美國 "wikilink")。
+Elizabeth Marry 有一位[童星](../Page/童星.md "wikilink")弟弟\[1\]，父母是[英國人](https://zh.wikipedia.org/wiki/英國 "wikilink")\[2\]和日本人\[3\]；父親任職「IGB Network」執行董事（2004年8月 - 2016年3月）、「Network-i」[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[澀谷區](../Page/澀谷區.md "wikilink")分部僕人領袖（2016年4月至今）\[4\]兼業餘樵夫\[5\]，兩名表姊 [Rebecca Eri Rabone](../Page/Becky.md "wikilink")、[Jessica JJ Rabone](https://zh.wikipedia.org/wiki/Jessica_JJ_Rabone "wikilink") 均為藝人，前者同樣留在日本發展，後者則赴[美國當舞蹈員](https://zh.wikipedia.org/wiki/美國 "wikilink")。
 
-Elizabeth Marry 自小仰慕大表姊 [Becky](../Page/Becky.md "wikilink")
-且視之為目標\[6\]，遂從九歲開始涉足娛樂圈\[7\]，曾使用藝名「水谷まり」（1997年8月 -
-2011年4月）參演不少兒童音樂劇，亦曾以「Luna Marry」名義跟朋友 Lilith
-組成二人組合「Aeon」（2011年3月31日\[8\] -
-2012年1月31日\[9\]），主持多個網路電視節目，並由2011年起正式加入舞蹈劇團「CHAiroiPLIN」至今\[10\]；同時又用另一名字「エリザベス・マリー」（2011年11月至現在）擔任跳舞組合「MiraSpider」隊長，與舞蹈員
-Renah（[平井麗奈](https://zh.wikipedia.org/wiki/平井麗奈 "wikilink")）、Rico（宮原理子）、Arisa（蛭薙ありさ）、Amy、Yu-ki、Yui
-一起參加多場公演（2012年2月1日\[11\] - 2014年7月）。
+Elizabeth Marry 自小仰慕大表姊 [Becky](../Page/Becky.md "wikilink") 且視之為目標\[6\]，遂從九歲開始涉足娛樂圈\[7\]，曾使用藝名「水谷まり」（1997年8月 - 2011年4月）參演不少兒童音樂劇，亦曾以「Luna Marry」名義跟朋友 Lilith 組成二人組合「Aeon」（2011年3月31日\[8\] - 2012年1月31日\[9\]），主持多個網路電視節目，並由2011年起正式加入舞蹈劇團「CHAiroiPLIN」至今\[10\]；同時又用另一名字「エリザベス・マリー」（2011年11月至現在）擔任跳舞組合「MiraSpider」隊長，與舞蹈員 Renah（[平井麗奈](https://zh.wikipedia.org/wiki/平井麗奈 "wikilink")）、Rico（宮原理子）、Arisa（蛭薙ありさ）、Amy、Yu-ki、Yui 一起參加多場公演（2012年2月1日\[11\] - 2014年7月）。
 
-2007\[12\] - 2009年間\[13\]，Elizabeth Marry
-曾修讀[桐朋學園藝術短期大學課程](https://zh.wikipedia.org/wiki/桐朋學園藝術短期大學 "wikilink")
-\[14\]，2013年經 Becky
-透過社交網站發文介紹後，令她的[推特支持者數目急增](https://zh.wikipedia.org/wiki/推特 "wikilink")，其「可愛程度」更成了網上討論區話題\[15\]，不久也因容貌跟
-[HKT48](../Page/HKT48.md "wikilink") Team KIV
-成員[村重杏奈相似](../Page/村重杏奈.md "wikilink")，而再受到網民注目\[16\]。她現時主力參演舞台劇、電影和擔任多個範疇的編舞師（大學期間已兼職小學體育教師\[17\]\[18\]）。
+2007\[12\] - 2009年間\[13\]，Elizabeth Marry 曾修讀[桐朋學園藝術短期大學課程](https://zh.wikipedia.org/wiki/桐朋學園藝術短期大學 "wikilink") \[14\]，2013年經 Becky 透過社交網站發文介紹後，令她的[推特支持者數目急增](https://zh.wikipedia.org/wiki/推特 "wikilink")，其「可愛程度」更成了網上討論區話題\[15\]，不久也因容貌跟 [HKT48](../Page/HKT48.md "wikilink") Team KIV 成員[村重杏奈](../Page/村重杏奈.md "wikilink")相似，而再受到網民注目\[16\]。她現時主力參演舞台劇、電影和擔任多個範疇的編舞師（大學期間已兼職小學體育教師\[17\]\[18\]）。
 
 ## 演出作品
 
@@ -302,7 +284,7 @@ Renah（[平井麗奈](https://zh.wikipedia.org/wiki/平井麗奈 "wikilink")）
 <td><center>
 <p>2016年</p>
 <center></td>
-<td><p>D・Project 藤堂篇・土屋<a href="../Page/警部.md" title="wikilink">警部篇</a><br />
+<td><p>D・Project 藤堂篇・土屋<a href="../Page/警部.md" title="wikilink">警部</a>篇<br />
 （劇團6號Ceed）</p></td>
 <td><p>「Attackers」成員 LIZ</p></td>
 </tr>
@@ -552,7 +534,7 @@ Renah（[平井麗奈](https://zh.wikipedia.org/wiki/平井麗奈 "wikilink")）
 </tr>
 <tr class="odd">
 <td><p>2013年5月1 - 5日<br />
-（<a href="../Page/新宿御苑.md" title="wikilink">新宿御苑前</a> <a href="https://zh.wikipedia.org/wiki/Theater_Sun_Mall" title="wikilink">Theater Sun Mall</a>）</p></td>
+（<a href="../Page/新宿御苑.md" title="wikilink">新宿御苑</a>前 <a href="https://zh.wikipedia.org/wiki/Theater_Sun_Mall" title="wikilink">Theater Sun Mall</a>）</p></td>
 <td><p>CLOUD NINE</p></td>
 <td><p>白　雨</p></td>
 </tr>
@@ -580,7 +562,7 @@ Renah（[平井麗奈](https://zh.wikipedia.org/wiki/平井麗奈 "wikilink")）
 </tr>
 <tr class="even">
 <td><p>2008年4月20日<br />
-（<a href="../Page/調布市.md" title="wikilink">調布市仙川劇場</a>）</p></td>
+（<a href="../Page/調布市.md" title="wikilink">調布市</a>仙川劇場）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/鐵路號誌機" title="wikilink">信號機與少女</a></p></td>
 <td></td>
 </tr>
@@ -598,7 +580,7 @@ Renah（[平井麗奈](https://zh.wikipedia.org/wiki/平井麗奈 "wikilink")）
 </tr>
 <tr class="odd">
 <td><p>2011年1月10日<br />
-（<a href="../Page/神樂坂.md" title="wikilink">神樂坂Session</a> House）</p></td>
+（<a href="../Page/神樂坂.md" title="wikilink">神樂坂</a>Session House）</p></td>
 <td><p>market</p></td>
 <td></td>
 </tr>
@@ -617,7 +599,7 @@ Renah（[平井麗奈](https://zh.wikipedia.org/wiki/平井麗奈 "wikilink")）
 <tr class="even">
 <td><p>2013年9月17日、18日<br />
 （日暮里d-倉庫）</p></td>
-<td><p>FRIEND〜取自<a href="../Page/安部公房.md" title="wikilink">安部公房戲曲</a>《友達》〜</p></td>
+<td><p>FRIEND〜取自<a href="../Page/安部公房.md" title="wikilink">安部公房</a>戲曲《友達》〜</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -765,12 +747,12 @@ Renah（[平井麗奈](https://zh.wikipedia.org/wiki/平井麗奈 "wikilink")）
 <td><p>須磨英理</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong>大人計劃</strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Bunkamura" title="wikilink">Bunkamura</a>、<a href="https://zh.wikipedia.org/wiki/大人計劃" title="wikilink">大人計劃</a></strong></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2014年12月5 - 30日（Bunkamura Theatre Cocoon）</p></td>
+<td><p>2014年12月5 - 30日（Bunkamura <a href="https://zh.wikipedia.org/wiki/Theatre_Cocoon" title="wikilink">Theatre Cocoon</a>）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/漂亮〜一個與神見面的女子〜" title="wikilink">漂亮〜一個與神見面的女子〜</a></p></td>
 <td><p>Aida（アイダ）</p></td>
 </tr>
@@ -797,7 +779,7 @@ Renah（[平井麗奈](https://zh.wikipedia.org/wiki/平井麗奈 "wikilink")）
 </tr>
 <tr class="odd">
 <td><p>2016年1月27 - 31日<br />
-（<a href="../Page/新馬場站.md" title="wikilink">新馬場站六行會Hall</a>）</p></td>
+（<a href="../Page/新馬場站.md" title="wikilink">新馬場站</a>六行會Hall）</p></td>
 <td><p>Mates！</p></td>
 <td><p>Kyon（キョン）</p></td>
 </tr>
@@ -816,7 +798,7 @@ Renah（[平井麗奈](https://zh.wikipedia.org/wiki/平井麗奈 "wikilink")）
 <tr class="even">
 <td><p>2017年4月15 - 23日<br />
 （池袋 Theater Kassai）</p></td>
-<td><p>人生的重要部分正被膠帶限制 <a href="../Page/大正.md" title="wikilink">大正時代篇</a></p></td>
+<td><p>人生的重要部分正被膠帶限制 <a href="../Page/大正.md" title="wikilink">大正</a>時代篇</p></td>
 <td><p>林 Kimu 子</p></td>
 </tr>
 <tr class="odd">
@@ -1059,7 +1041,7 @@ Renah（[平井麗奈](https://zh.wikipedia.org/wiki/平井麗奈 "wikilink")）
 </tr>
 <tr class="even">
 <td><p>2018年8月29日 - 9月2日（新宿御苑前 Theater Sun Mall）</p></td>
-<td><p>名家 魔女與<a href="../Page/幕末.md" title="wikilink">幕末英雄</a></p></td>
+<td><p>名家 魔女與<a href="../Page/幕末.md" title="wikilink">幕末</a>英雄</p></td>
 <td><p>言　秀</p></td>
 </tr>
 <tr class="odd">
@@ -1092,7 +1074,7 @@ Renah（[平井麗奈](https://zh.wikipedia.org/wiki/平井麗奈 "wikilink")）
 <tr class="even">
 <td><p>2018年11月2 - 4日<br />
 （Stage Café下北澤亭）</p></td>
-<td><p><a href="../Page/關東煮.md" title="wikilink">關東煮開始了</a>。</p></td>
+<td><p><a href="../Page/關東煮.md" title="wikilink">關東煮</a>開始了。</p></td>
 <td><p>（一天一換演出嘉賓、只演出11月4日）</p></td>
 </tr>
 <tr class="odd">
@@ -1103,7 +1085,7 @@ Renah（[平井麗奈](https://zh.wikipedia.org/wiki/平井麗奈 "wikilink")）
 <tr class="even">
 <td><p>2018年11月16日<br />
 （<a href="https://zh.wikipedia.org/wiki/室蘭市市民會館" title="wikilink">室蘭市市民會館</a>）</p></td>
-<td><p><a href="../Page/天地一沙鷗.md" title="wikilink">天地一沙鷗之</a><a href="https://zh.wikipedia.org/wiki/天鵝湖" title="wikilink">天鵝湖</a></p></td>
+<td><p><a href="../Page/天地一沙鷗.md" title="wikilink">天地一沙鷗</a>之<a href="https://zh.wikipedia.org/wiki/天鵝湖" title="wikilink">天鵝湖</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1124,7 +1106,7 @@ Renah（[平井麗奈](https://zh.wikipedia.org/wiki/平井麗奈 "wikilink")）
 </tr>
 <tr class="even">
 <td><p>2019年6月8、9日<br />
-（<a href="../Page/北上市.md" title="wikilink">北上市文化交流Center</a> Sakura Hall）</p></td>
+（<a href="../Page/北上市.md" title="wikilink">北上市</a>文化交流Center Sakura Hall）</p></td>
 <td><p>舞台「<a href="../Page/文豪Stray_Dogs.md" title="wikilink">文豪Stray Dogs　三社鼎立</a>」</p></td>
 <td><p><a href="../Page/露西·莫德·蒙哥馬利.md" title="wikilink">露西·莫德·蒙哥馬利</a></p></td>
 </tr>
@@ -1148,7 +1130,7 @@ Renah（[平井麗奈](https://zh.wikipedia.org/wiki/平井麗奈 "wikilink")）
 </tr>
 <tr class="even">
 <td><p>2019年7月3 - 10日<br />
-（<a href="../Page/日本青年館.md" title="wikilink">日本青年館Hall</a>）</p></td>
+（<a href="../Page/日本青年館.md" title="wikilink">日本青年館</a>Hall）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1178,6 +1160,29 @@ Renah（[平井麗奈](https://zh.wikipedia.org/wiki/平井麗奈 "wikilink")）
 <tr class="odd">
 <td><p>2019年9月20 - 22日<br />
 （<a href="https://zh.wikipedia.org/wiki/一宮市民會館" title="wikilink">一宮市民會館</a>）</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>Bunkamura、大人計劃</strong></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年12月4 - 29日<br />
+（Bunkamura Theatre Cocoon）</p></td>
+<td><p>漂亮〜一個與神見面的女子〜</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2020年1月13 - 19日<br />
+（福岡<a href="https://zh.wikipedia.org/wiki/博多座" title="wikilink">博多座</a>）</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2020年1月25日 - 2月2日<br />
+（大阪節慶音樂廳）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1567,7 +1572,7 @@ Renah（[平井麗奈](https://zh.wikipedia.org/wiki/平井麗奈 "wikilink")）
 <td><center>
 <p>2013年</p>
 <center></td>
-<td><p>あみたん娘（<a href="../Page/富山縣.md" title="wikilink">富山縣</a><a href="../Page/高岡市.md" title="wikilink">高岡市觀光宣傳吉祥物</a>）</p></td>
+<td><p>あみたん娘（<a href="../Page/富山縣.md" title="wikilink">富山縣</a><a href="../Page/高岡市.md" title="wikilink">高岡市</a>觀光宣傳吉祥物）</p></td>
 <td><p>Cecile（セシル）</p></td>
 </tr>
 <tr class="odd">
@@ -1642,8 +1647,7 @@ Renah（[平井麗奈](https://zh.wikipedia.org/wiki/平井麗奈 "wikilink")）
 
 ### 電台節目
 
-  - 2011年6月2日：[櫔木放送](https://zh.wikipedia.org/wiki/櫔木放送 "wikilink")《Rie's
-    Deli POPーJ》 - 嘉賓
+  - 2011年6月2日：[櫔木放送](https://zh.wikipedia.org/wiki/櫔木放送 "wikilink")《Rie's Deli POPーJ》 - 嘉賓
 
 ### 其他
 
@@ -1690,7 +1694,7 @@ Renah（[平井麗奈](https://zh.wikipedia.org/wiki/平井麗奈 "wikilink")）
 <p>2004年9月</p>
 <center></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/濱名湖花博" title="wikilink">靜岡國際園藝博覽會及第21回全國都市綠化展</a></p></td>
-<td><p>演出<a href="../Page/手語.md" title="wikilink">手語舞蹈</a><br />
+<td><p>演出<a href="../Page/手語.md" title="wikilink">手語</a>舞蹈<br />
 地點：<a href="https://zh.wikipedia.org/wiki/濱松花卉公園" title="wikilink">濱松花卉公園</a></p></td>
 </tr>
 <tr class="odd">
@@ -1715,7 +1719,7 @@ Renah（[平井麗奈](https://zh.wikipedia.org/wiki/平井麗奈 "wikilink")）
 <center></td>
 <td><p>0 zero</p></td>
 <td><p>BEATNIK STUDIO 主辦<br />
-地點：<a href="../Page/日本青年館.md" title="wikilink">日本青年館大表演廳</a></p></td>
+地點：<a href="../Page/日本青年館.md" title="wikilink">日本青年館</a>大表演廳</p></td>
 </tr>
 <tr class="even">
 <td><center>
@@ -2212,30 +2216,17 @@ Renah（[平井麗奈](https://zh.wikipedia.org/wiki/平井麗奈 "wikilink")）
 
   -
   -
-  - [Elizabeth Marry
-    官方部落格「生きてるだけで丸儲け！」](https://ameblo.jp/elizabeth-marry)
+  - [Elizabeth Marry 官方部落格「生きてるだけで丸儲け！」](https://ameblo.jp/elizabeth-marry)
 
-  - [Liz / Elizabeth Marry 官方部落格 -
-    GREE](http://gree.jp/43291207/introduction)
+  - [Liz / Elizabeth Marry 官方部落格 - GREE](http://gree.jp/43291207/introduction)
 
   - [水谷まり部落格『生きてるだけで丸儲け！』](https://ameblo.jp/m-mizutani/)
 
   - [MiraSpider 官方部落格](https://ameblo.jp/mira-spider/)
 
-  - [CHAiroiPLIN Dance Company -
-    成員介紹](http://chairoiplin.net/members.html)
+  - [CHAiroiPLIN Dance Company - 成員介紹](http://chairoiplin.net/members.html)
 
-[Category:神奈川縣出身人物](https://zh.wikipedia.org/wiki/Category:神奈川縣出身人物 "wikilink")
-[Category:英國裔混血兒](https://zh.wikipedia.org/wiki/Category:英國裔混血兒 "wikilink")
-[Category:日裔混血兒](https://zh.wikipedia.org/wiki/Category:日裔混血兒 "wikilink")
-[Category:日本女演員](https://zh.wikipedia.org/wiki/Category:日本女演員 "wikilink")
-[Category:日本女舞者](https://zh.wikipedia.org/wiki/Category:日本女舞者 "wikilink")
-[Category:日本電視演員](https://zh.wikipedia.org/wiki/Category:日本電視演員 "wikilink")
-[Category:日本電影演員](https://zh.wikipedia.org/wiki/Category:日本電影演員 "wikilink")
-[Category:日本舞台劇演員](https://zh.wikipedia.org/wiki/Category:日本舞台劇演員 "wikilink")
-[Category:日本兒童演員](https://zh.wikipedia.org/wiki/Category:日本兒童演員 "wikilink")
-[Category:日本女性電視藝人](https://zh.wikipedia.org/wiki/Category:日本女性電視藝人 "wikilink")
-[Category:桐朋學園藝術短期大學校友](https://zh.wikipedia.org/wiki/Category:桐朋學園藝術短期大學校友 "wikilink")
+[Category:神奈川縣出身人物](https://zh.wikipedia.org/wiki/Category:神奈川縣出身人物 "wikilink") [Category:英國裔混血兒](https://zh.wikipedia.org/wiki/Category:英國裔混血兒 "wikilink") [Category:日裔混血兒](https://zh.wikipedia.org/wiki/Category:日裔混血兒 "wikilink") [Category:日本女演員](https://zh.wikipedia.org/wiki/Category:日本女演員 "wikilink") [Category:日本女舞者](https://zh.wikipedia.org/wiki/Category:日本女舞者 "wikilink") [Category:日本電視演員](https://zh.wikipedia.org/wiki/Category:日本電視演員 "wikilink") [Category:日本電影演員](https://zh.wikipedia.org/wiki/Category:日本電影演員 "wikilink") [Category:日本舞台劇演員](https://zh.wikipedia.org/wiki/Category:日本舞台劇演員 "wikilink") [Category:日本兒童演員](https://zh.wikipedia.org/wiki/Category:日本兒童演員 "wikilink") [Category:日本女性電視藝人](https://zh.wikipedia.org/wiki/Category:日本女性電視藝人 "wikilink") [Category:桐朋學園藝術短期大學校友](https://zh.wikipedia.org/wiki/Category:桐朋學園藝術短期大學校友 "wikilink")
 
 1.
 

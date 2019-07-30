@@ -1,5 +1,4 @@
-**CNAO**（Chinese National Astronomy
-Olympiad,全国中学生天文知识竞赛）是一个在中国大陆举办的，面向广大中小学生的天文知识竞赛。
+**CNAO**（Chinese National Astronomy Olympiad,全国中学生天文知识竞赛）是一个在中国大陆举办的，面向广大中小学生的天文知识竞赛。
 
 ## 宗旨
 

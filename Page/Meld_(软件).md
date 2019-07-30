@@ -29,5 +29,4 @@ Meld 3.18.0的要求如下:
 ## 外部链接
 
   -
-[Category:用Python編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用Python編程的自由軟體 "wikilink")
-[Category:使用GTK+的软件](https://zh.wikipedia.org/wiki/Category:使用GTK+的软件 "wikilink")
+[Category:用Python編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用Python編程的自由軟體 "wikilink") [Category:使用GTK+的软件](https://zh.wikipedia.org/wiki/Category:使用GTK+的软件 "wikilink")

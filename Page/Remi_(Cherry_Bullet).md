@@ -1,5 +1,4 @@
-**勝野莉世**（；），藝名為**莉美**（）。[日本女歌手](../Page/日本.md "wikilink")，是韓國女子組合[Cherry
-Bullet成員之一](../Page/Cherry_Bullet.md "wikilink")。\[1\]
+**勝野莉世**（；），藝名為**莉美**（）。[日本](../Page/日本.md "wikilink")女歌手，是韓國女子組合[Cherry Bullet成員之一](../Page/Cherry_Bullet.md "wikilink")。\[1\]
 
 ## 預告照
 
@@ -53,9 +52,6 @@ Bullet成員之一](../Page/Cherry_Bullet.md "wikilink")。\[1\]
 
   - [FNC Academy](http://fncacademy.com)
 
-[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink")
-[Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink")
-[Category:Cherry_Bullet](https://zh.wikipedia.org/wiki/Category:Cherry_Bullet "wikilink")
-[Category:東京都出身人物](https://zh.wikipedia.org/wiki/Category:東京都出身人物 "wikilink")
+[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink") [Category:Cherry_Bullet](https://zh.wikipedia.org/wiki/Category:Cherry_Bullet "wikilink") [Category:東京都出身人物](https://zh.wikipedia.org/wiki/Category:東京都出身人物 "wikilink")
 
 1.

@@ -1,7 +1,4 @@
-\-- This module implements the  template. local yesno =
-require('Module:Yesno') local mList = require('Module:List') local
-mTableTools = require('Module:TableTools') local mMessageBox =
-require('Module:Message box')
+\-- This module implements the  template. local yesno = require('Module:Yesno') local mList = require('Module:List') local mTableTools = require('Module:TableTools') local mMessageBox = require('Module:Message box')
 
 local p = {}
 

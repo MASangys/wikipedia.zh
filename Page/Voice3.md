@@ -1,9 +1,6 @@
-《**Voice
-3**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[OCN於](../Page/OCN_\(頻道\).md "wikilink")2019年5月11日起播出的[經典系列週末電視劇](../Page/OCN_Original_Series.md "wikilink")，由《[隧道](../Page/隧道_\(電視劇\).md "wikilink")》、《[愛上變身情人](../Page/愛上變身情人_\(電視劇\).md "wikilink")》南基勳導演與《[Voice](../Page/Voice_\(韓國電視劇\).md "wikilink")》、《[Voice2](../Page/Voice2.md "wikilink")》馬珍媛作家合作打造。本劇時間點為第二季最後一個案件（英石洞夢想考試院恐怖襲擊事件），真兇方濟水設計引誘姜權酒中心長進入的房間爆炸，而姜權酒中心長生死未卜之後\[1\]。本季描述死守犯罪現場的「112舉報中心黃金時間隊」的成員們，與跨國犯罪組織「Dark
-Web」的幕後黑手展開較量，再次敲響網路犯罪的殘酷和黃金時間的重要性。\[2\]\[3\]\[4\]\[5\]\[6\]
+《**Voice 3**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[OCN於](../Page/OCN_\(頻道\).md "wikilink")2019年5月11日起播出的[經典系列週末電視劇](../Page/OCN_Original_Series.md "wikilink")，由《[隧道](../Page/隧道_\(電視劇\).md "wikilink")》、《[愛上變身情人](../Page/愛上變身情人_\(電視劇\).md "wikilink")》南基勳導演與《[Voice](../Page/Voice_\(韓國電視劇\).md "wikilink")》、《[Voice2](../Page/Voice2.md "wikilink")》[馬珍媛](../Page/馬珍媛.md "wikilink")作家合作打造。本劇時間點為第二季最後一個案件（英石洞夢想考試院恐怖襲擊事件），真兇方濟水設計引誘姜勸酒中心長進入的房間爆炸，而姜勸酒中心長生死未卜之後\[1\]。本季描述死守犯罪現場的「112舉報中心黃金時間隊」的成員們，與跨國犯罪組織「Dark Web」的幕後黑手展開較量，再次敲響網路犯罪的殘酷和黃金時間的重要性。\[2\]\[3\]\[4\]\[5\]\[6\]
 
-台灣地區
-5/12起每週日一由[愛奇藝台灣站獨家播出](https://zh.wikipedia.org/wiki/愛奇藝台灣站 "wikilink")。香港地區由5月11日起逢星期六、日晚深夜於[Viu播出](../Page/Viu.md "wikilink")。
+台灣地區 5/12起每週日一由[愛奇藝台灣站獨家播出](https://zh.wikipedia.org/wiki/愛奇藝台灣站 "wikilink")。香港地區由5月11日起逢星期六、日晚深夜於[Viu](../Page/Viu.md "wikilink")播出。
 
 ## 演員陣容
 
@@ -23,7 +20,7 @@ Web」的幕後黑手展開較量，再次敲響網路犯罪的殘酷和黃金�
 </tr>
 <tr class="even">
 <td><p><a href="../Page/李荷娜.md" title="wikilink">李荷娜</a></p></td>
-<td><p>姜權酒</p></td>
+<td><p>姜勸酒</p></td>
 <td><p>112舉報中心主任，聽力很好。<br />
 本季是接續第二季末，因誤入真兇陷阱而受傷後，導致平常引以為傲的聽力開始有異常[7]。一邊在國立奉山市復健醫院進行復健，一邊帶領112舉報中心黃金時間組辦案。</p></td>
 </tr>
@@ -31,7 +28,7 @@ Web」的幕後黑手展開較量，再次敲響網路犯罪的殘酷和黃金�
 <td><p><a href="../Page/李陣郁.md" title="wikilink">李陣郁</a></p></td>
 <td><p>都康宇<br />
 松田幸助</p></td>
-<td><p>第二季112舉報中心黃金時間組的機動隊長。成功找出殺害同事的真兇，但平時偶爾有Blackout（昏迷）症狀，最後死在警方槍下。[8]。<br />
+<td><p>第二季112舉報中心黃金時間組的機動隊長。成功找出殺害同事的真兇，但平時偶爾有Blackout（昏迷）症狀。[8]<br />
 </p></td>
 </tr>
 </tbody>
@@ -59,13 +56,13 @@ Web」的幕後黑手展開較量，再次敲響網路犯罪的殘酷和黃金�
 <tr class="odd">
 <td><p><a href="../Page/柳承穆.md" title="wikilink">柳承穆</a></p></td>
 <td><p>羅洪洙</p></td>
-<td><p>豐山地檢科長。第二季被真兇以有亞馬遜蜘蛛毒液的瓶裝礦泉水毒暈，放在房間牆後面，經救治之後進醫院治療。 本季中因交談中激怒「老師」金木雅行，被其派全昌秀綁架殺害。</p></td>
+<td><p>豐山地檢科長。第二季被真兇以有亞馬遜蜘蛛毒液的瓶裝礦泉水毒暈，放在房間牆後面，經救治之後進醫院治療。</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>陳書律</p></td>
 <td><p>112舉報中心黃金時間組新成員，負責資訊相關方面的成員。<br />
-但第二季在姜權酒到達前書律已被真兇剪去手指。第三季已進行手術縫回</p></td>
+但第二季在姜勸酒到達前書律已被真兇剪去手指。第三季已進行手術縫回</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -111,7 +108,7 @@ Web」的幕後黑手展開較量，再次敲響網路犯罪的殘酷和黃金�
 <tr class="odd">
 <td></td>
 <td><p>慎尾</p></td>
-<td><p>金木由紀子的父親，現為日本議員，由於握有真兇殺人證據，慘遭殺害，生死不明。</p></td>
+<td><p>金木由紀子的父親，現為日本議員，由於握有真兇殺人證據遭綁架後被救出，生死不明。</p></td>
 </tr>
 <tr class="even">
 <td><p>林藝恩</p></td>
@@ -153,14 +150,14 @@ Web」的幕後黑手展開較量，再次敲響網路犯罪的殘酷和黃金�
 </tr>
 <tr class="odd">
 <td></td>
-<td></td>
+<td><p>表恩美</p></td>
 <td><p>表賢秀的媽媽，平常愛酗酒，雖然將兒子表賢秀送往「海馬爸爸稀有病之家」領取補助津貼，但心中還是很愛兒子。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/金勝旭" title="wikilink">金勝旭</a></p></td>
 <td><p>宋秀哲</p></td>
 <td><p>「海馬爸爸稀有病之家」的院長，也是實際傷害賢秀的真兇。<br />
-有<a href="../Page/詐騙.md" title="wikilink">詐騙及</a><a href="https://zh.wikipedia.org/wiki/貪汙" title="wikilink">貪汙前科</a>，並冒稱自己是<a href="https://zh.wikipedia.org/wiki/牧師" title="wikilink">牧師</a>。</p></td>
+有<a href="../Page/詐騙.md" title="wikilink">詐騙</a>及<a href="https://zh.wikipedia.org/wiki/貪汙" title="wikilink">貪汙前科</a>，並冒稱自己是<a href="https://zh.wikipedia.org/wiki/牧師" title="wikilink">牧師</a>。</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -312,14 +309,45 @@ Web」的幕後黑手展開較量，再次敲響網路犯罪的殘酷和黃金�
 #### 你的生活還好嗎？
 （冒名手術案）
 
-|        |        |                                                                                                  |
-| ------ | ------ | ------------------------------------------------------------------------------------------------ |
-| **演員** | **角色** | **介紹**                                                                                           |
-|        | 秋東九    | 曾因恐嚇、詐騙、暴力等犯罪而被羅洪洙科長先後三次抓入監獄的罪犯，後來改過自新在小區的洗車場工作。最近因要結婚，而邀請羅科長參與婚禮。但被查出近幾個月來有毆妻嫌疑。                |
-|        | 孔世美    | 秋東九的未婚妻，前往燕山洞黃醫師診所進行臉頰和脖子的燒傷後處理手術，卻憑空消失。父親因欠債而正在監獄中服刑。                                           |
-|        | 黃祖炳    | 燕山洞黃醫師診所的院長兼醫生，專長是整形美容、矯正醫學、皮膚科、燒傷等相關領域。                                                         |
-|        | 百敏熙    | 燕山洞黃醫師診所的護士。有偷竊麻醉中病患物品的癖好。                                                                       |
-|        | 盧九烈    | 因家境貧困而只能從韓國醫學系輟學，機械能力很強，在美善醫療器械公司上班，但被排擠且妻子又被醫生搶走，後來受邀當無牌醫師。但患有鏡像自我症候群，假裝自己是燕山洞黃醫師診所的院長，對患者進行手術。 |
+<table style="width:70%;">
+<colgroup>
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 49%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><p><strong>演員</strong></p></td>
+<td><p><strong>角色</strong></p></td>
+<td><p><strong>介紹</strong></p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>秋東九</p></td>
+<td><p>曾因恐嚇、詐騙、暴力等犯罪而被羅洪洙科長先後三次抓入監獄的罪犯，後來改過自新在小區的洗車場工作。最近因要結婚，而邀請羅科長參與婚禮。但被查出近幾個月來有毆妻嫌疑。</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>孔世美</p></td>
+<td><p>秋東九的未婚妻，前往燕山洞黃醫師診所進行臉頰和脖子的燒傷後處理手術，卻憑空消失。父親因欠債而正在監獄中服刑。</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>黃祖炳</p></td>
+<td><p>燕山洞黃醫師診所的院長兼醫生，專長是整形美容、矯正醫學、皮膚科、燒傷等相關領域。</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>百敏熙</p></td>
+<td><p>燕山洞黃醫師診所的護士。有偷竊麻醉中病患物品的癖好。</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>盧九烈</p></td>
+<td><p>因家境貧困而只能從韓國醫學系輟學，機械能力很強，在美善醫療器械公司上班，但被排擠且妻子又被醫生搶走，後來受邀當無牌醫師。但患有鏡像自我症候群，假裝自己是燕山洞黃醫師診所的院長，對患者進行手術。</p></td>
+</tr>
+</tbody>
+</table>
 
 #### 世界的秘密
 
@@ -365,6 +393,13 @@ Web」的幕後黑手展開較量，再次敲響網路犯罪的殘酷和黃金�
 </tr>
 </tbody>
 </table>
+
+#### 共犯們的都市
+
+|        |        |        |
+| ------ | ------ | ------ |
+| **演員** | **角色** | **介紹** |
+|        |        |        |
 
 ### 特別出演
 
@@ -444,7 +479,7 @@ Web」的幕後黑手展開較量，再次敲響網路犯罪的殘酷和黃金�
 <td><p>金木正幸<br />
 (禹种祐)</p></td>
 <td><p><strong>代號「老師」</strong>。<br />
-本季幕後真兇，都康宇的哥哥，金木由紀子的老公。目前為日本的大學教授，為國際知名<a href="../Page/人權運動.md" title="wikilink">人權運動家</a>，最近恰好來丰山大學交換講座。<br />
+本季幕後真兇，都康宇的哥哥，金木由紀子的老公。目前為日本的大學教授，為國際知名<a href="../Page/人權運動.md" title="wikilink">人權運動</a>家，最近恰好來丰山大學交換講座。<br />
 為真正於小時候殺害藤山美穗的兇手，少年時期開始殺人的<a href="https://zh.wikipedia.org/wiki/反社會人格障礙" title="wikilink">反社會人格障礙者</a>。有事或興奮時就有開關打火機的習慣，「醫生法布爾的昆蟲世界」<a href="https://zh.wikipedia.org/wiki/暗網" title="wikilink">暗網的幕後首腦</a>。曾經與東埔大安學校教導主任接觸；過去為<a href="https://zh.wikipedia.org/wiki/在日韓國人和朝鮮人" title="wikilink">在日韓國人</a>，因此能說流利的韓文。</p></td>
 <td><p>6-16</p></td>
 </tr>
@@ -485,7 +520,7 @@ Web」的幕後黑手展開較量，再次敲響網路犯罪的殘酷和黃金�
 
 <!-- end list -->
 
-  - Part.5（發行日期：2019年6月22日）
+  - Part.6（發行日期：2019年6月22日）
 
 ## 收視率
 
@@ -607,12 +642,7 @@ Web」的幕後黑手展開較量，再次敲響網路犯罪的殘酷和黃金�
 
   - [OCN官方網站](http://program.m.tving.com/ocn/voice3/)
 
-[Category:OCN_Original_Series](https://zh.wikipedia.org/wiki/Category:OCN_Original_Series "wikilink")
-[Category:OCN電視劇](https://zh.wikipedia.org/wiki/Category:OCN電視劇 "wikilink")
-[Category:2019年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2019年韓國電視劇集 "wikilink")
-[Category:電視劇集系列](https://zh.wikipedia.org/wiki/Category:電視劇集系列 "wikilink")
-[Category:韓國懸疑劇](https://zh.wikipedia.org/wiki/Category:韓國懸疑劇 "wikilink")
-[Category:驚悚電視劇](https://zh.wikipedia.org/wiki/Category:驚悚電視劇 "wikilink")
+[Category:OCN_Original_Series](https://zh.wikipedia.org/wiki/Category:OCN_Original_Series "wikilink") [Category:OCN電視劇](https://zh.wikipedia.org/wiki/Category:OCN電視劇 "wikilink") [Category:2019年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2019年韓國電視劇集 "wikilink") [Category:電視劇集系列](https://zh.wikipedia.org/wiki/Category:電視劇集系列 "wikilink") [Category:韓國懸疑劇](https://zh.wikipedia.org/wiki/Category:韓國懸疑劇 "wikilink") [Category:驚悚電視劇](https://zh.wikipedia.org/wiki/Category:驚悚電視劇 "wikilink")
 
 1.
 2.

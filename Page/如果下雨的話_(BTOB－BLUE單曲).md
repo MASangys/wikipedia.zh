@@ -1,15 +1,10 @@
-《**如果下雨的話**》（，）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BTOB子團](../Page/BTOB.md "wikilink")[BTOB－BLUE的第二張韓文單曲](../Page/BTOB－BLUE.md "wikilink")，於2018年8月2日正式發行。
+《**如果下雨的話**》（，）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BTOB](../Page/BTOB.md "wikilink")子團[BTOB－BLUE](../Page/BTOB－BLUE.md "wikilink")的第二張韓文單曲，於2018年8月2日正式發行。
 
 ## 背景
 
-2018年7月23日，宣布BTOB－BLUE於8月初發行新作品，是繼2016年後睽違兩年回歸。\[1\]
-同年7月29日，公開回歸日期及歌曲名稱。\[2\] 7月30日，公開成員MV
-Quiz \[3\]。7月31日，公開成員概念照 \[4\]。8月1日，公開恩光、昌燮的MV現場拍攝照 \[5\]，並發布MV Teaser
-\[6\]。8月2日，公開炫植、星材的MV現場拍攝照 \[7\]，並發布完整版MV，MV由炫植與親哥哥合作拍攝。
+2018年7月23日，宣布BTOB－BLUE於8月初發行新作品，是繼2016年後睽違兩年回歸。\[1\] 同年7月29日，公開回歸日期及歌曲名稱。\[2\] 7月30日，公開成員MV Quiz \[3\]。7月31日，公開成員概念照 \[4\]。8月1日，公開恩光、昌燮的MV現場拍攝照 \[5\]，並發布MV Teaser \[6\]。8月2日，公開炫植、星材的MV現場拍攝照 \[7\]，並發布完整版MV，MV由炫植與親哥哥合作拍攝。
 
-2018年8月2日，發行第二張單曲《如果下雨的話（비가
-내리면）》，由成員[任炫植作曲填詞編曲](../Page/任炫植.md "wikilink")，也是炫植早期的創作，並從2015年開始透露至今。歌曲描述每當雨落下之時，就會喚起對眷戀之人的思念和後悔，是以層次豐富的編曲與四人四色的歌聲完美融合的感性抒情曲。音源公開即空降Bugs
-4位、Melon 10位、Genie、Olleh 13位、Naver 31位、Mnet 34位。
+2018年8月2日，發行第二張單曲《如果下雨的話（비가 내리면）》，由成員[任炫植](../Page/任炫植.md "wikilink")作曲填詞編曲，也是炫植早期的創作，並從2015年開始透露至今。歌曲描述每當雨落下之時，就會喚起對眷戀之人的思念和後悔，是以層次豐富的編曲與四人四色的歌聲完美融合的感性抒情曲。音源公開即空降Bugs 4位、Melon 10位、Genie、Olleh 13位、Naver 31位、Mnet 34位。
 
 ## 曲目
 
@@ -93,27 +88,16 @@ Quiz \[3\]。7月31日，公開成員概念照 \[4\]。8月1日，公開恩光�
 
 ## 參考文獻
 
-[Category:BTOB單曲](https://zh.wikipedia.org/wiki/Category:BTOB單曲 "wikilink")
-[Category:韓國歌曲](https://zh.wikipedia.org/wiki/Category:韓國歌曲 "wikilink")
+[Category:BTOB單曲](https://zh.wikipedia.org/wiki/Category:BTOB單曲 "wikilink") [Category:韓國歌曲](https://zh.wikipedia.org/wiki/Category:韓國歌曲 "wikilink")
 
 1.
 2.
-3.  Quiz
-    Photo：[Q1](https://twitter.com/OFFICIALBTOB/status/1023936109925957634)
-    [Q2](https://twitter.com/OFFICIALBTOB/status/1023937525230891009)
-    [Q3](https://twitter.com/OFFICIALBTOB/status/1023938560888430592)
-    [Q4](https://twitter.com/OFFICIALBTOB/status/1023939095796445184)
-    Answer
-    Photo：[A1](https://twitter.com/OFFICIALBTOB/status/1025321642069700609)
-    [A2](https://twitter.com/OFFICIALBTOB/status/1025321840447635459)
-    [A3](https://twitter.com/OFFICIALBTOB/status/1025322047243612160)
-    [A4](https://twitter.com/OFFICIALBTOB/status/1025322107452833792)
+3.  Quiz Photo：[Q1](https://twitter.com/OFFICIALBTOB/status/1023936109925957634) [Q2](https://twitter.com/OFFICIALBTOB/status/1023937525230891009) [Q3](https://twitter.com/OFFICIALBTOB/status/1023938560888430592) [Q4](https://twitter.com/OFFICIALBTOB/status/1023939095796445184)
+    Answer Photo：[A1](https://twitter.com/OFFICIALBTOB/status/1025321642069700609) [A2](https://twitter.com/OFFICIALBTOB/status/1025321840447635459) [A3](https://twitter.com/OFFICIALBTOB/status/1025322047243612160) [A4](https://twitter.com/OFFICIALBTOB/status/1025322107452833792)
 4.
-5.  [비가 내리면
-    D-1](https://twitter.com/OFFICIALBTOB/status/1024654877417295872)
+5.  [비가 내리면 D-1](https://twitter.com/OFFICIALBTOB/status/1024654877417295872)
 6.
-7.  [비가 내리면
-    D-DAY](https://twitter.com/OFFICIALBTOB/status/1024852322260668416)
+7.  [비가 내리면 D-DAY](https://twitter.com/OFFICIALBTOB/status/1024852322260668416)
 8.
 9.
 10.

@@ -15,9 +15,20 @@
   - 大鷹高志：[勝村政信](../Page/勝村政信.md "wikilink")
   - 京極雅彥：
   - 白鳥美奈子：[菜菜緒](../Page/菜菜緒.md "wikilink")
-  - 天馬壯一郎
+  - 天馬壯一郎：[小日向文世](../Page/小日向文世.md "wikilink")
+  - 中澤淳美：宮本茉由
 
-<!-- end list -->
+## 參考資料
+
+## 外部連結
+
+  - [『Legal V～前律師·小鳥遊翔子～』 - 朝日電視台](https://www.tv-asahi.co.jp/legal-v/)
+
+  -
+  -
+  - [Legal V 不敗律師](https://video.friday.tw/drama/detail/747) - [friDay影音](https://zh.wikipedia.org/wiki/friDay影音 "wikilink")
+
+[Category:朝日電視台週四晚間九點連續劇](https://zh.wikipedia.org/wiki/Category:朝日電視台週四晚間九點連續劇 "wikilink") [Category:2018年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2018年開播的日本電視劇集 "wikilink") [Category:日本法律劇](https://zh.wikipedia.org/wiki/Category:日本法律劇 "wikilink") [Category:律師題材電視劇](https://zh.wikipedia.org/wiki/Category:律師題材電視劇 "wikilink")
 
 1.
 2.  [木曜ドラマ『リーガルV〜元弁護士・小鳥遊翔子〜』](https://www.tv-asahi.co.jp/legal-v/#/?category=drama)

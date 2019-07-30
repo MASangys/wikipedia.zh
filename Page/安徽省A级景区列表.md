@@ -1,4 +1,4 @@
-本表列出[安徽省所有已获评的AAA级以上景区](../Page/安徽省.md "wikilink")，参考安徽省旅游发展委员会发表的A级景区名录。\[1\]
+本表列出[安徽省](../Page/安徽省.md "wikilink")所有已获评的AAA级以上景区，参考安徽省旅游发展委员会发表的A级景区名录。\[1\]
 
 ## AAAAA级景区
 
@@ -9,19 +9,19 @@
 | 方特梦幻王国                                                       | 芜湖市                              | 鸠江区                                                 | 28000      |
 | 方特东方神画                                                       | 芜湖市                              | 鸠江区                                                 | 10000      |
 | 方特水上乐园                                                       | 芜湖市                              | 鸠江区                                                 | 35000      |
-| [天柱山风景名胜区](../Page/天柱山.md "wikilink")                        | [安庆市](../Page/安庆市.md "wikilink") | [潜山市](../Page/潜山市.md "wikilink")                    | 36000      |
+| [天柱山](../Page/天柱山.md "wikilink")风景名胜区                        | [安庆市](../Page/安庆市.md "wikilink") | [潜山市](../Page/潜山市.md "wikilink")                    | 36000      |
 | [徽州古城景区](https://zh.wikipedia.org/wiki/歙县城墙 "wikilink")      | [黄山市](../Page/黄山市.md "wikilink") | [徽州区](../Page/徽州区.md "wikilink")                    | 20000      |
-| [黄山风景名胜区](../Page/黄山.md "wikilink")                          | 黄山市                              | [黄山区](https://zh.wikipedia.org/wiki/黄山区 "wikilink") | 50000      |
+| [黄山](../Page/黄山.md "wikilink")风景名胜区                          | 黄山市                              | [黄山区](https://zh.wikipedia.org/wiki/黄山区 "wikilink") | 50000      |
 | [唐模景区](https://zh.wikipedia.org/wiki/唐模村 "wikilink")         | 黄山市                              | 徽州区                                                 | 20000      |
 | [潜口民宅博物馆](https://zh.wikipedia.org/wiki/潜口民宅 "wikilink")     | 黄山市                              | 徽州区                                                 | 3000       |
 | [呈坎景区](https://zh.wikipedia.org/wiki/呈坎村 "wikilink")         | 黄山市                              | 徽州区                                                 | 20000      |
 | [棠樾牌坊群](https://zh.wikipedia.org/wiki/棠樾牌坊群 "wikilink")-鲍家花园 | 黄山市                              | [歙县](../Page/歙县.md "wikilink")                      | 15000      |
-| [宏村景区](../Page/宏村.md "wikilink")                             | 黄山市                              | [黟县](../Page/黟县.md "wikilink")                      | 66100      |
+| [宏村](../Page/宏村.md "wikilink")景区                             | 黄山市                              | [黟县](../Page/黟县.md "wikilink")                      | 66100      |
 | [西递景区](../Page/西递村.md "wikilink")                            | 黄山市                              | 黟县                                                  | 66100      |
 | 八里河景区                                                        | [阜阳市](../Page/阜阳市.md "wikilink") | [颍上县](https://zh.wikipedia.org/wiki/颍上县 "wikilink") | 80000      |
 | [万佛湖景区](../Page/龙河口水库.md "wikilink")                         | [六安市](../Page/六安市.md "wikilink") | [舒城县](../Page/舒城县.md "wikilink")                    | 30000      |
-| [天堂寨旅游景区](../Page/天堂寨.md "wikilink")                         | 六安市                              | [金寨县](../Page/金寨县.md "wikilink")                    | 50000      |
-| [九华山风景名胜区](../Page/九华山.md "wikilink")                        | [池州市](../Page/池州市.md "wikilink") | [青阳县](https://zh.wikipedia.org/wiki/青阳县 "wikilink") | 90000      |
+| [天堂寨](../Page/天堂寨.md "wikilink")旅游景区                         | 六安市                              | [金寨县](../Page/金寨县.md "wikilink")                    | 50000      |
+| [九华山](../Page/九华山.md "wikilink")风景名胜区                        | [池州市](../Page/池州市.md "wikilink") | [青阳县](https://zh.wikipedia.org/wiki/青阳县 "wikilink") | 90000      |
 | [龙川景区](../Page/龙川村.md "wikilink")                            | [宣城市](../Page/宣城市.md "wikilink") | [绩溪县](../Page/绩溪县.md "wikilink")                    | 45000      |
 
 ## AAAA级景区

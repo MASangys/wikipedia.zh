@@ -2,9 +2,7 @@
 
 ## 參考文獻
 
-[Category:印度資訊技術公司](https://zh.wikipedia.org/wiki/Category:印度資訊技術公司 "wikilink")
-[Category:印度移動電話公司](https://zh.wikipedia.org/wiki/Category:印度移動電話公司 "wikilink")
-[Category:1999年成立的公司](https://zh.wikipedia.org/wiki/Category:1999年成立的公司 "wikilink")
+[Category:印度資訊技術公司](https://zh.wikipedia.org/wiki/Category:印度資訊技術公司 "wikilink") [Category:印度移動電話公司](https://zh.wikipedia.org/wiki/Category:印度移動電話公司 "wikilink") [Category:1999年成立的公司](https://zh.wikipedia.org/wiki/Category:1999年成立的公司 "wikilink")
 
 1.
 2.

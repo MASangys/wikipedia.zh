@@ -1,7 +1,6 @@
 local p = {}
 
-local data = { -- these data entries will ultimately go in data subpage
-or series of data subpages \*\*NOT USED\*\*
+local data = { -- these data entries will ultimately go in data subpage or series of data subpages \*\*NOT USED\*\*
 
 `   iucn = {`
 `       ['_template'] = "cite journal", -- use cite journal`
@@ -56,8 +55,7 @@ end --\[\[ function p.cite() - function wrapping
 `   return frame:expandTemplate{ title = 'cite journal', args = templateArgs }`
 `   --return frame:expandTemplate{ title = 'cite journal', args = parents.args }`
 
-end -- version using template wrapper for cite journal function
-p.cite2(frame)
+end -- version using template wrapper for cite journal function p.cite2(frame)
 
 `   -- now use wrapper template`
 
@@ -93,9 +91,7 @@ p.cite2(frame)
 `   end`
 `   if url == "" and templateArgs['id'] then -- use oldstyle url`
 `       wrapperArgs['url'] = "`<http://oldredlist.iucnredlist.org/details/>`" .. templateArgs['id']`
-`       wrapperArgs['journal'] = '`[`IUCN``   ``Red``   ``List``
- ``of``   ``Threatened``
- ``Species`](https://zh.wikipedia.org/wiki/IUCN_Red_List_of_Threatened_Species "wikilink")`'`
+`       wrapperArgs['journal'] = '`[`IUCN``   ``Red``   ``List``   ``of``   ``Threatened``   ``Species`](https://zh.wikipedia.org/wiki/IUCN_Red_List_of_Threatened_Species "wikilink")`'`
 `       wrapperArgs['volume'] = 'Version ' .. templateArgs['version']`
 `   end`
 `   if templateArgs['amended'] then wrapperArgs['trans-title']=templateArgs['amended'] end -- use translated title parameter to add amended text, e.g. "amended version of 2016 assessment", which will be added in square brackets after title`
@@ -114,9 +110,7 @@ p.cite2(frame)
 `   --return  mw.dumpObject(wrapperArgs)`
 `   return wrapper.wrap(frame)`
 
-end --[main}}
---](https://zh.wikipedia.org/wiki/function_to_replace_iucn_templates_test_template:_Template:IUCN/sandbox/lua_usage:_{{#invoke:iucn "wikilink")
-function p.main(frame)
+end --[main}} --](https://zh.wikipedia.org/wiki/function_to_replace_iucn_templates_test_template:_Template:IUCN/sandbox/lua_usage:_{{#invoke:iucn "wikilink") function p.main(frame)
 
 `   local templateArgs = {}   -- need a copy to alter and pass to citation template`
 `   getArgs (frame, templateArgs)`

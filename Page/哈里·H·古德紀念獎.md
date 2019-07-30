@@ -4,12 +4,10 @@
 
 獲獎者名單:\[2\]  和 [康拉德·楚澤](../Page/康拉德·楚澤.md "wikilink")
 
-  - 1966 [約翰·莫奇利](https://zh.wikipedia.org/wiki/約翰·莫奇利 "wikilink") 和
-    [約翰·皮斯普·埃克特](../Page/約翰·皮斯普·埃克特.md "wikilink")
+  - 1966 [約翰·莫奇利](https://zh.wikipedia.org/wiki/約翰·莫奇利 "wikilink") 和 [約翰·皮斯普·埃克特](../Page/約翰·皮斯普·埃克特.md "wikilink")
   - 1967
   - 1968 [莫里斯·威爾克斯](https://zh.wikipedia.org/wiki/莫里斯·威爾克斯 "wikilink")
-  - 1974
-    [艾茲赫爾·戴克斯特拉](https://zh.wikipedia.org/wiki/艾茲赫爾·戴克斯特拉 "wikilink")
+  - 1974 [艾茲赫爾·戴克斯特拉](https://zh.wikipedia.org/wiki/艾茲赫爾·戴克斯特拉 "wikilink")
   - 1975 [肯尼斯·艾佛森](../Page/肯尼斯·艾佛森.md "wikilink")
   - 1976
   - 1979
@@ -60,11 +58,8 @@
 
 ## 外部連結
 
-  - [Harry H. Goode Memorial Award - IEEE Computer
-    Society.](http://www.computer.org/web/awards/goode) 哈里·H·古德紀念獎獲獎者列表。
-  - [IEEE Computer Society Award
-    List.](http://awards.computer.org/ana/award/viewAwards.action)
-    IEEE各種獎項簡介。
+  - [Harry H. Goode Memorial Award - IEEE Computer Society.](http://www.computer.org/web/awards/goode) 哈里·H·古德紀念獎獲獎者列表。
+  - [IEEE Computer Society Award List.](http://awards.computer.org/ana/award/viewAwards.action) IEEE各種獎項簡介。
 
 [Category:IEEE獎章](https://zh.wikipedia.org/wiki/Category:IEEE獎章 "wikilink")
 

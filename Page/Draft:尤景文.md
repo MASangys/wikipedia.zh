@@ -1,5 +1,4 @@
-**尤景文**（Eugene，1969年1月19日－），
-台灣知名[吉他手](https://zh.wikipedia.org/wiki/吉他手 "wikilink")、[作曲家](https://zh.wikipedia.org/wiki/作曲家 "wikilink")、編曲家、音樂製作人，亦是台北音樂聖地-**EZ5**的傳奇吉他手，
+**尤景文**（Eugene，1969年1月19日－）， 台灣知名[吉他手](https://zh.wikipedia.org/wiki/吉他手 "wikilink")、[作曲家](https://zh.wikipedia.org/wiki/作曲家 "wikilink")、編曲家、音樂製作人，亦是台北音樂聖地-**EZ5**的傳奇吉他手，
 
 為幕前與幕後音樂人已達二十餘年。2012年12月份首次發行-尤景文吉他演奏全創作專輯《Inside Of My Guitar 琴深觸》，
 
@@ -17,15 +16,13 @@
 
 1992年北上與好朋友**黃中原、陳建騏**,合組FAX合唱團，在各大PUB演唱。
 
-1995年與[彭佳慧](../Page/彭佳慧.md "wikilink")、[陳國華一同進入台北流行音樂聖地EZ](../Page/陳國華_\(音樂人\).md "wikilink")5
-PUB，並擔任house吉他手,
+1995年與[彭佳慧](../Page/彭佳慧.md "wikilink")、[陳國華一同進入台北流行音樂聖地EZ](../Page/陳國華_\(音樂人\).md "wikilink")5 PUB，並擔任house吉他手,
 
 1996年進入[趙傳](../Page/趙傳.md "wikilink")[紅十字樂團擔任吉他手](https://zh.wikipedia.org/wiki/紅十字樂團 "wikilink")，後來也擔任滾石唱片公司的音樂製作工作，並與趙傳到世界各地巡迴演唱，
 
 其間也與其他歌手合作，如周杰倫,羅志祥,黃小琥,彭佳慧,齊秦,羅大佑,蘇芮…..等人。
 
-2012年12月發行首張個人吉他創作專輯《Inside Of My Guitar
-琴深觸》,由[華納唱片公司發行](../Page/華納音樂_\(台灣\).md "wikilink")。
+2012年12月發行首張個人吉他創作專輯《Inside Of My Guitar 琴深觸》,由[華納唱片公司發行](../Page/華納音樂_\(台灣\).md "wikilink")。
 
 尤景文同時也是位作曲者，多年來陸續有許多膾炙人口的作品問世，創作的歌曲有：趙傳的「深海」、「最初」、「柳毛掛鍊」、「玫瑰和盔甲」，
 

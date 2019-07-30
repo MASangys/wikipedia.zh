@@ -1,13 +1,10 @@
-**Plarail超級系列（プラレールハイパーシリーズ）** 是[Takara
-Tomy](https://zh.wikipedia.org/wiki/Takara_Tomy "wikilink")
-於2008至2012年間販賣的玩具商品系列。
+**Plarail超級系列（プラレールハイパーシリーズ）** 是[Takara Tomy](https://zh.wikipedia.org/wiki/Takara_Tomy "wikilink") 於2008至2012年間販賣的玩具商品系列。
 
 ## 概要
 
 ## 鐵道警備隊
 
-為保護多美[Plarail小鎮免受事故和災害的影響](../Page/Plarail.md "wikilink")，來自世界各地的鐵路專家組成了鐵道警備隊。它以G六角形基地為中心，加上被稱為「Guardian
-6」的六個部隊構成，各個單位可以聯合起來共同作業。
+為保護多美[Plarail](../Page/Plarail.md "wikilink")小鎮免受事故和災害的影響，來自世界各地的鐵路專家組成了鐵道警備隊。它以G六角形基地為中心，加上被稱為「Guardian 6」的六個部隊構成，各個單位可以聯合起來共同作業。
 
 ### 隊員
 

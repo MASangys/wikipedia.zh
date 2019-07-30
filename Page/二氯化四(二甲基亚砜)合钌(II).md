@@ -2,7 +2,7 @@
 
 ## 结构与制备
 
-顺式异构体为DMSO配体连接异构。\[1\]三个DMSO配体为S-键合，另一个为O-键合，对于两个Cl来说是顺式构型。反式异构体也是黄色的，但四个DMSO配体都是S-键合的。顺式可以通过热反应得到，而反式由顺式通过[紫外线照射得到](../Page/紫外线.md "wikilink")。\[2\]
+顺式异构体为DMSO配体连接异构。\[1\]三个DMSO配体为S-键合，另一个为O-键合，对于两个Cl来说是顺式构型。反式异构体也是黄色的，但四个DMSO配体都是S-键合的。顺式可以通过热反应得到，而反式由顺式通过[紫外线](../Page/紫外线.md "wikilink")照射得到。\[2\]
 
 <center>
 
@@ -29,7 +29,7 @@
 
 </center>
 
-这些配合物最初由[三氯化钌的DMSO溶液在](../Page/三氯化钌.md "wikilink")[氢气气氛中加热得到](https://zh.wikipedia.org/wiki/氢气 "wikilink")。\[3\]另一种不使用氢气的方法也得到了文献报道。\[4\]\[5\]
+这些配合物最初由[三氯化钌](../Page/三氯化钌.md "wikilink")的DMSO溶液在[氢气气氛中加热得到](https://zh.wikipedia.org/wiki/氢气 "wikilink")。\[3\]另一种不使用氢气的方法也得到了文献报道。\[4\]\[5\]
 
 ## 潜在应用
 
@@ -37,10 +37,7 @@ RuCl<sub>2</sub>(DMSO)<sub>4</sub>最初于20世纪80年代早期被认定为抗
 
 ## 参考文献
 
-[Category:钌配合物](https://zh.wikipedia.org/wiki/Category:钌配合物 "wikilink")
-[Category:二甲基亚砜配合物](https://zh.wikipedia.org/wiki/Category:二甲基亚砜配合物 "wikilink")
-[Category:1970年代发现的物质](https://zh.wikipedia.org/wiki/Category:1970年代发现的物质 "wikilink")
-[Category:氯配合物](https://zh.wikipedia.org/wiki/Category:氯配合物 "wikilink")
+[Category:钌配合物](https://zh.wikipedia.org/wiki/Category:钌配合物 "wikilink") [Category:二甲基亚砜配合物](https://zh.wikipedia.org/wiki/Category:二甲基亚砜配合物 "wikilink") [Category:1970年代发现的物质](https://zh.wikipedia.org/wiki/Category:1970年代发现的物质 "wikilink") [Category:氯配合物](https://zh.wikipedia.org/wiki/Category:氯配合物 "wikilink")
 
 1.
 

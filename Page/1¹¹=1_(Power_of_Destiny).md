@@ -1,30 +1,22 @@
-《**1¹¹=1 (POWER OF
-DESTINY)**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子團體](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[Wanna
-One的首張正規專輯](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")，於2018年11月19日推出，主打歌曲為〈Spring
-Breeze〉。
+《**1¹¹=1 (POWER OF DESTINY)**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子團體](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[Wanna One的首張正規專輯](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")，於2018年11月19日推出，主打歌曲為〈Spring Breeze〉。
 
 ## 簡介
 
 ### 預告
 
-10月3日，所屬經紀公司[SWING娛樂透露](https://zh.wikipedia.org/wiki/SWING娛樂 "wikilink")，Wanna
-One的新專輯已確定在11月中旬發售，這張專輯將成為Wanna One解散之前推出的最後一張專輯。\[1\]
+10月3日，所屬經紀公司[SWING娛樂透露](https://zh.wikipedia.org/wiki/SWING娛樂 "wikilink")，Wanna One的新專輯已確定在11月中旬發售，這張專輯將成為Wanna One解散之前推出的最後一張專輯。\[1\]
 
-10月24日，所屬經紀公司[SWING娛樂宣布將於](https://zh.wikipedia.org/wiki/SWING娛樂 "wikilink")11月
-19日回歸，同時也公開了新專輯的首波預告照。\[2\]
+10月24日，所屬經紀公司[SWING娛樂宣布將於](https://zh.wikipedia.org/wiki/SWING娛樂 "wikilink")11月 19日回歸，同時也公開了新專輯的首波預告照。\[2\]
 
 10月30日，公開了新專輯的型態和名稱，宣告將於11月19日帶著首張正規專輯帶來最後一次回歸。\[3\]
 
 ### 正式發行
 
-11月19日，韓國時間下午6點，公開首張正规專輯《[1¹¹=1 (Power of
-Destiny)](../Page/1¹¹=1_\(Power_of_Destiny\).md "wikilink")》全輯音源及主打歌〈Spring
-Breeze〉，並於同日舉行專輯發售記者會。\[4\]
+11月19日，韓國時間下午6點，公開首張正规專輯《[1¹¹=1 (Power of Destiny)](../Page/1¹¹=1_\(Power_of_Destiny\).md "wikilink")》全輯音源及主打歌〈Spring Breeze〉，並於同日舉行專輯發售記者會。\[4\]
 
 ### 商業成績
 
-同日，韓國時間下午7時主打歌〈Spring Breeze〉在Melon、Mnet、Soribada、Naver
-Music、genie、Bugs六大音源實時榜All-Kill一位，直到20日上午9點仍持續保持All-Kill紀錄。\[5\]
+同日，韓國時間下午7時主打歌〈Spring Breeze〉在Melon、Mnet、Soribada、Naver Music、genie、Bugs六大音源實時榜All-Kill一位，直到20日上午9點仍持續保持All-Kill紀錄。\[5\]
 
 特別的是，Wanna One成為韓國組合出道以來，所有主打歌曲皆空降韓國最大音源網站Melon一位的驚人紀錄。\[6\]
 
@@ -45,8 +37,7 @@ Athena | length1 = 01:11
 Flow Blow | music2 = iHwak
 Flow Blow | length2 = 03:55
 
-| title3 = 집 | note3 = One's Place | lyrics3 = e.one (Jung Ho Hyeon) |
-music3 = e.one (Jung Ho Hyeon) | length3 = 03:50
+| title3 = 집 | note3 = One's Place | lyrics3 = e.one (Jung Ho Hyeon) | music3 = e.one (Jung Ho Hyeon) | length3 = 03:50
 
 | title4 = 불꽃놀이 | note4 = Flowerbomb | lyrics4 = 河成雲
 O.R.O
@@ -54,8 +45,7 @@ VENDORS | music4 = 河成雲
 O.R.O
 VENDORS | length4 = 03:37
 
-| title5 = 묻고싶다 | note5 = One Love | lyrics5 = 13 | music5 = 13 |
-length5 = 03:30
+| title5 = 묻고싶다 | note5 = One Love | lyrics5 = 13 | music5 = 13 | length5 = 03:30
 
 | title6 = Deeper | note6 = | lyrics6 = iHwak
 Royal Dive | music6 = Christian Fast
@@ -77,8 +67,7 @@ SPACE ONE(MOT) | length7 = 03:05
 Jo Eun Byul | music9 = IMAGES
 Jo Eun Byul | length9 =
 
-| title10 = 소나무 | note10 = Pine Tree | lyrics10 = 星群的戰爭 | music10 =
-星群的戰爭
+| title10 = 소나무 | note10 = Pine Tree | lyrics10 = 星群的戰爭 | music10 = 星群的戰爭
 Athena | length10 = 04:00
 
 | title11 = Beautiful（Part II） | note11 = | lyrics11 = Tenzo
@@ -311,12 +300,7 @@ Wooziq | length11 = 04:02 }}
 
 ## 外部連結
 
-[Category:Wanna_One](https://zh.wikipedia.org/wiki/Category:Wanna_One "wikilink")
-[Category:2018年音樂專輯](https://zh.wikipedia.org/wiki/Category:2018年音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:2018年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2018年Gaon數位下載週榜冠軍作品 "wikilink")
-[Category:2018年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2018年Gaon專輯週榜冠軍作品 "wikilink")
-[Category:2019年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2019年Gaon專輯週榜冠軍作品 "wikilink")
+[Category:Wanna_One](https://zh.wikipedia.org/wiki/Category:Wanna_One "wikilink") [Category:2018年音樂專輯](https://zh.wikipedia.org/wiki/Category:2018年音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:2018年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2018年Gaon數位下載週榜冠軍作品 "wikilink") [Category:2018年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2018年Gaon專輯週榜冠軍作品 "wikilink") [Category:2019年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2019年Gaon專輯週榜冠軍作品 "wikilink")
 
 1.
 2.

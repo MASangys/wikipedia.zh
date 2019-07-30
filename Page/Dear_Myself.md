@@ -1,5 +1,4 @@
-《**Dear
-Myself**》，是[呂薔Amuyi個人第三張錄音室專輯](../Page/呂薔.md "wikilink")，於2018年11月30日正式發行，一共收錄十首歌曲，由小宇(宋念宇)、陳子鴻、陳君豪、蔡政勳、謝震廷、溫奕哲、崔恕、陳信延等金牌詞曲、編曲、製作人，共同量身打造。把時間切分為未來、現在、過去，像是跟自己對話般，用未來的自己跟現在的自己對話，抑或是用現在的自己與過去的自己和解，跳脫出時間軸的限制，用不同的角度重新探討現況，而成長的關鍵多是始於與自我對話，進而了解、接納，最終才能認同自己、愛自己。
+《**Dear Myself**》，是[呂薔](../Page/呂薔.md "wikilink")Amuyi個人第三張錄音室專輯，於2018年11月30日正式發行，一共收錄十首歌曲，由小宇(宋念宇)、陳子鴻、陳君豪、蔡政勳、謝震廷、溫奕哲、崔恕、陳信延等金牌詞曲、編曲、製作人，共同量身打造。把時間切分為未來、現在、過去，像是跟自己對話般，用未來的自己跟現在的自己對話，抑或是用現在的自己與過去的自己和解，跳脫出時間軸的限制，用不同的角度重新探討現況，而成長的關鍵多是始於與自我對話，進而了解、接納，最終才能認同自己、愛自己。
 
 ## 曲目
 
@@ -18,10 +17,6 @@ Myself**》，是[呂薔Amuyi個人第三張錄音室專輯](../Page/呂薔.md "
 
 \[1\]
 
-[Category:呂薔音樂專輯](https://zh.wikipedia.org/wiki/Category:呂薔音樂專輯 "wikilink")
-[Category:2018年音樂專輯](https://zh.wikipedia.org/wiki/Category:2018年音樂專輯 "wikilink")
-[Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
+[Category:呂薔音樂專輯](https://zh.wikipedia.org/wiki/Category:呂薔音樂專輯 "wikilink") [Category:2018年音樂專輯](https://zh.wikipedia.org/wiki/Category:2018年音樂專輯 "wikilink") [Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
 
-1.   NOWnews
-    今日新聞|url=[https://www.nownews.com/news/tag/dear-myself/|accessdate=2019-02-13|language=zh-TW](https://www.nownews.com/news/tag/dear-myself/%7Caccessdate=2019-02-13%7Clanguage=zh-TW)}}
+1.   NOWnews 今日新聞|url=[https://www.nownews.com/news/tag/dear-myself/|accessdate=2019-02-13|language=zh-TW](https://www.nownews.com/news/tag/dear-myself/%7Caccessdate=2019-02-13%7Clanguage=zh-TW)}}

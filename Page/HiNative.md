@@ -7,12 +7,7 @@
 ## 外部链接
 
   -
-[Category:問答網站](https://zh.wikipedia.org/wiki/Category:問答網站 "wikilink")
-[Category:语言学习软件](https://zh.wikipedia.org/wiki/Category:语言学习软件 "wikilink")
-[Category:多語言網站](https://zh.wikipedia.org/wiki/Category:多語言網站 "wikilink")
-[Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink")
-[Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink")
-[Category:2014年建立的网站](https://zh.wikipedia.org/wiki/Category:2014年建立的网站 "wikilink")
+[Category:問答網站](https://zh.wikipedia.org/wiki/Category:問答網站 "wikilink") [Category:语言学习软件](https://zh.wikipedia.org/wiki/Category:语言学习软件 "wikilink") [Category:多語言網站](https://zh.wikipedia.org/wiki/Category:多語言網站 "wikilink") [Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink") [Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink") [Category:2014年建立的网站](https://zh.wikipedia.org/wiki/Category:2014年建立的网站 "wikilink")
 
 1.
 2.

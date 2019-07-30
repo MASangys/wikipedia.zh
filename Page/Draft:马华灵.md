@@ -8,13 +8,9 @@
 </tbody>
 </table>
 
-马华灵，[华东师范大学思勉人文高等研究院青年研究员](../Page/华东师范大学.md "wikilink")（Assistant
-Professor, Si-Mian Institute for Advanced Studies in Humanities, East
-China Normal University）。\[1\]\[2\]
+马华灵，[华东师范大学](../Page/华东师范大学.md "wikilink")思勉人文高等研究院青年研究员（Assistant Professor, Si-Mian Institute for Advanced Studies in Humanities, East China Normal University）。\[1\]\[2\]
 
-华东师范大学[西方思想史硕士](https://zh.wikipedia.org/wiki/西方思想史 "wikilink")\[3\]
-，[复旦大学政治学博士](../Page/复旦大学.md "wikilink")，曾任[哈佛大学费正清中心访问学者](../Page/哈佛大学.md "wikilink")，[哥伦比亚大学历史系访问学者](../Page/哥伦比亚大学.md "wikilink")。
-\[4\]
+华东师范大学[西方思想史硕士](https://zh.wikipedia.org/wiki/西方思想史 "wikilink")\[3\] ，[复旦大学](../Page/复旦大学.md "wikilink")政治学博士，曾任[哈佛大学](../Page/哈佛大学.md "wikilink")费正清中心访问学者，[哥伦比亚大学](../Page/哥伦比亚大学.md "wikilink")历史系访问学者。 \[4\]
 
 研究方向为西方政治思想史、西方政治哲学、知识社会学与当代中国政治。\[5\]
 

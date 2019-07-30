@@ -48,8 +48,7 @@
 
 ## 參考資料
 
-[Category:ITZY](https://zh.wikipedia.org/wiki/Category:ITZY "wikilink")
-[Category:韩国音乐作品列表](https://zh.wikipedia.org/wiki/Category:韩国音乐作品列表 "wikilink")
+[Category:ITZY](https://zh.wikipedia.org/wiki/Category:ITZY "wikilink") [Category:韩国音乐作品列表](https://zh.wikipedia.org/wiki/Category:韩国音乐作品列表 "wikilink")
 
 1.
 2.

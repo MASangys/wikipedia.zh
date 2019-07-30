@@ -6,8 +6,7 @@ P和E交滙處的座標為\[2\]，而該地的平均海拔高度為1564米（即
 
 ## 參考文獻
 
-[Category:亞利桑那州非建制地區](https://zh.wikipedia.org/wiki/Category:亞利桑那州非建制地區 "wikilink")
-[Category:亞瓦派縣非建制地區_(亞利桑那州)](https://zh.wikipedia.org/wiki/Category:亞瓦派縣非建制地區_\(亞利桑那州\) "wikilink")
+[Category:亞利桑那州非建制地區](https://zh.wikipedia.org/wiki/Category:亞利桑那州非建制地區 "wikilink") [Category:亞瓦派縣非建制地區_(亞利桑那州)](https://zh.wikipedia.org/wiki/Category:亞瓦派縣非建制地區_\(亞利桑那州\) "wikilink")
 
 1.
 

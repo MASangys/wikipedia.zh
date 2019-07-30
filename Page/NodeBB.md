@@ -1,6 +1,4 @@
-**NodeBB** 是 一种基于 Node.js 构建的电子公告牌系统(Bulletin Board
-System)，基于ES5标准开发。\[1\]它使用多种数据库储存数据（MongDB、Redis），在GNU
-General Public License v3 (GPL-3)许可证下发行。
+**NodeBB** 是 一种基于 Node.js 构建的电子公告牌系统(Bulletin Board System)，基于ES5标准开发。\[1\]它使用多种数据库储存数据（MongDB、Redis），在GNU General Public License v3 (GPL-3)许可证下发行。
 
 ## 优势
 

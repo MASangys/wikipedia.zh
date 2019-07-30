@@ -1,5 +1,4 @@
-《**劉QUIZ ON THE BLOCK (第二季)**》(，)
-為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN綜藝節目](https://zh.wikipedia.org/wiki/tvN "wikilink")。由[劉在錫](../Page/劉在錫.md "wikilink")、[曹世鎬共同主持](https://zh.wikipedia.org/wiki/曹世鎬 "wikilink")，節目主軸為探訪人們的日常生活，進行簡單談話和突然問答的街頭談話與問答秀。計劃在平凡的舞台街邊把陽光當作照明，用愉快的驚喜給人們疲乏的生活帶來活力，度過特別的一天。\[1\]\[2\]
+《**劉QUIZ ON THE BLOCK (第二季)**》(，) 為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN綜藝節目](https://zh.wikipedia.org/wiki/tvN "wikilink")。由[劉在錫](../Page/劉在錫.md "wikilink")、[曹世鎬共同主持](https://zh.wikipedia.org/wiki/曹世鎬 "wikilink")，節目主軸為探訪人們的日常生活，進行簡單談話和突然問答的街頭談話與問答秀。計劃在平凡的舞台街邊把陽光當作照明，用愉快的驚喜給人們疲乏的生活帶來活力，度過特別的一天。\[1\]\[2\]
 
 ## 節目形式
 
@@ -109,6 +108,30 @@
 <td><p>24</p></td>
 <td><p>12</p></td>
 <td><p>2019/07/02</p></td>
+<td><p>2.500%</p></td>
+</tr>
+<tr class="odd">
+<td><p>25</p></td>
+<td><p>13</p></td>
+<td><p>2019/07/09</p></td>
+<td><p>2.632%</p></td>
+</tr>
+<tr class="even">
+<td><p>26</p></td>
+<td><p>14</p></td>
+<td><p>2019/07/16</p></td>
+<td><p>2.327%</p></td>
+</tr>
+<tr class="odd">
+<td><p>27</p></td>
+<td><p>15</p></td>
+<td><p>2019/07/23</p></td>
+<td><p>2.378%</p></td>
+</tr>
+<tr class="even">
+<td><p>28</p></td>
+<td><p>16</p></td>
+<td><p>2019/07/30</p></td>
 <td><p>%</p></td>
 </tr>
 <tr class="odd">
@@ -129,14 +152,10 @@
 ## 外部連結
 
   - [tvN官方網站](http://program.tving.com/tvn/youquizontheblock/)
-  - [劉QUIZ ON THE
-    BLOCK-DAUM](https://m.search.daum.net/search?nil_profile=btn&w=tot&DA=SBC&q=tvN+%EC%9C%A0+%ED%80%B4%EC%A6%88+%EC%98%A8+%EB%8D%94+%EB%B8%94%EB%9F%AD+%EC%8B%9C%EC%A6%8C2)
-  - [劉QUIZ ON THE
-    BLOCK-NAVER](https://m.entertain.naver.com/tvBrand/8663378)
+  - [劉QUIZ ON THE BLOCK-DAUM](https://m.search.daum.net/search?nil_profile=btn&w=tot&DA=SBC&q=tvN+%EC%9C%A0+%ED%80%B4%EC%A6%88+%EC%98%A8+%EB%8D%94+%EB%B8%94%EB%9F%AD+%EC%8B%9C%EC%A6%8C2)
+  - [劉QUIZ ON THE BLOCK-NAVER](https://m.entertain.naver.com/tvBrand/8663378)
 
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:tvN](https://zh.wikipedia.org/wiki/Category:tvN "wikilink")
+[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:tvN](https://zh.wikipedia.org/wiki/Category:tvN "wikilink")
 
 1.
 2.

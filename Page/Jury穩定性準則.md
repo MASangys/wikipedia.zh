@@ -1,5 +1,4 @@
-**Jury穩定性準則**（Jury stability
-criterion）是在[信号处理及](https://zh.wikipedia.org/wiki/信号处理 "wikilink")[控制理论中](../Page/控制理论.md "wikilink")，判斷線性離散系統穩定性的方式，是利用分析[特徵多項式來進行分析](../Page/特徵多項式.md "wikilink")。Jury穩定性準則是[劳斯–赫尔维茨稳定性判据的離散時間版本](https://zh.wikipedia.org/wiki/劳斯–赫尔维茨稳定性判据 "wikilink")。Jury[稳定性判据要求系統的極點都要位在以原點為圓心的](https://zh.wikipedia.org/wiki/稳定性判据 "wikilink")[單位圓內](https://zh.wikipedia.org/wiki/單位圓 "wikilink")，劳斯–赫尔维茨稳定性判据要求系統的極點在複數平面的左半邊。Jury穩定性準則得名自伊拉克裔美藉工程師。
+**Jury穩定性準則**（Jury stability criterion）是在[信号处理及](https://zh.wikipedia.org/wiki/信号处理 "wikilink")[控制理论](../Page/控制理论.md "wikilink")中，判斷線性離散系統穩定性的方式，是利用分析[特徵多項式](../Page/特徵多項式.md "wikilink")來進行分析。Jury穩定性準則是[劳斯–赫尔维茨稳定性判据的離散時間版本](https://zh.wikipedia.org/wiki/劳斯–赫尔维茨稳定性判据 "wikilink")。Jury[稳定性判据要求系統的極點都要位在以原點為圓心的](https://zh.wikipedia.org/wiki/稳定性判据 "wikilink")[單位圓內](https://zh.wikipedia.org/wiki/單位圓 "wikilink")，劳斯–赫尔维茨稳定性判据要求系統的極點在複數平面的左半邊。Jury穩定性準則得名自伊拉克裔美藉工程師。
 
 ## 方法
 
@@ -30,15 +29,7 @@ criterion）是在[信号处理及](https://zh.wikipedia.org/wiki/信号处理 "
   -
     <math>
 
-\\begin{align} a_0 \\;\\; & a_1 \\;\\; & \\dots \\;\\; & a_{n-1}
-\\;\\;& a_n\\\\ a_n \\;\\; & a_{n-1} \\;\\; & \\dots \\;\\; & a_1
-\\;\\;& a_0\\\\ \\left(a_0-a_n \\frac{a_n}{a_0}\\right)\\;\\;&
-\\left(a_{1} - a_{n-1} \\frac{a_n}{a_0}\\right) \\;\\; &\\dots\\;\\;
-& \\left(a_{n-1} - a_{1} \\frac{a_n}{a_0}\\right) \\;\\;& 0 \\\\
-\\left(a_{n-1} - a_{1} \\frac{a_n}{a_0}\\right)\\;\\; & \\dots
-\\;\\;& \\left(a_{1} - a_{n-1} \\frac{a_n}{a_0}\\right) \\;\\;&
-\\left(a_0-a_n \\frac{a_n}{a_0}\\right)\\;\\;&0\\\\ \\end{align}
-</math>
+\\begin{align} a_0 \\;\\; & a_1 \\;\\; & \\dots \\;\\; & a_{n-1} \\;\\;& a_n\\\\ a_n \\;\\; & a_{n-1} \\;\\; & \\dots \\;\\; & a_1 \\;\\;& a_0\\\\ \\left(a_0-a_n \\frac{a_n}{a_0}\\right)\\;\\;& \\left(a_{1} - a_{n-1} \\frac{a_n}{a_0}\\right) \\;\\; &\\dots\\;\\; & \\left(a_{n-1} - a_{1} \\frac{a_n}{a_0}\\right) \\;\\;& 0 \\\\ \\left(a_{n-1} - a_{1} \\frac{a_n}{a_0}\\right)\\;\\; & \\dots \\;\\;& \\left(a_{1} - a_{n-1} \\frac{a_n}{a_0}\\right) \\;\\;& \\left(a_0-a_n \\frac{a_n}{a_0}\\right)\\;\\;&0\\\\ \\end{align} </math>
 
 表格繼續往下延伸，直到有一行只有一個非零元素為止。
 
@@ -94,10 +85,8 @@ criterion）是在[信号处理及](https://zh.wikipedia.org/wiki/信号处理 "
 
 若需要更多細節，可以參考以下連結：
 
-  - [A note on the reduced Schur–Cohn
-    criterion](http://libra.msra.cn/Publication/1578446/a-note-on-the-reduced-schur-cohn-criterion)
-  - [Wikibooks on Control Systems - Jury's
-    Test](https://en.wikibooks.org/wiki/Control_Systems/Jurys_Test)
+  - [A note on the reduced Schur–Cohn criterion](http://libra.msra.cn/Publication/1578446/a-note-on-the-reduced-schur-cohn-criterion)
+  - [Wikibooks on Control Systems - Jury's Test](https://en.wikibooks.org/wiki/Control_Systems/Jurys_Test)
 
 進階參考資料：
 
@@ -107,10 +96,8 @@ criterion）是在[信号处理及](https://zh.wikipedia.org/wiki/信号处理 "
 
 有關實現的資料：
 
-  - <http://www.ticalc.org/archives/files/fileinfo/426/42696.html>
-    (TI-83+/84+ graphing calculators)
+  - <http://www.ticalc.org/archives/files/fileinfo/426/42696.html> (TI-83+/84+ graphing calculators)
 
 [Category:稳定性理论](https://zh.wikipedia.org/wiki/Category:稳定性理论 "wikilink")
 
-1.  Discrete-time control systems (2nd ed.), pg. 185. Prentice-Hall,
-    Inc. Upper Saddle River, NJ, USA ©1995
+1.  Discrete-time control systems (2nd ed.), pg. 185. Prentice-Hall, Inc. Upper Saddle River, NJ, USA ©1995

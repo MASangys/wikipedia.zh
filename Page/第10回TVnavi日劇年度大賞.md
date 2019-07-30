@@ -1,5 +1,4 @@
-[第9回](../Page/第9回TVnavi日劇年度大賞.md "wikilink") ← **第10回** →
-[第11回](../Page/第11回TVnavi日劇年度大賞.md "wikilink")
+[第9回](../Page/第9回TVnavi日劇年度大賞.md "wikilink") ← **第10回** → [第11回](../Page/第11回TVnavi日劇年度大賞.md "wikilink")
 
 **第10回[TVnavi日劇年度大賞](../Page/TVnavi日劇年度大賞.md "wikilink")**是針對2013年春季至2014年冬季播出的連續劇做出的觀眾投票，以下為入圍及得獎名單。
 
@@ -148,9 +147,7 @@
 
   - [TVnavi日劇年度大賞第10回得獎名單](https://archive.fo/20140523072658/http://www.tvnaviweb.jp/TVnavi_contents/doYear/index.html)
 
-
-[Category:2013年日本](https://zh.wikipedia.org/wiki/Category:2013年日本 "wikilink")
-[Category:2013年电视奖项](https://zh.wikipedia.org/wiki/Category:2013年电视奖项 "wikilink")
+[Category:2013年日本](https://zh.wikipedia.org/wiki/Category:2013年日本 "wikilink") [Category:2013年电视奖项](https://zh.wikipedia.org/wiki/Category:2013年电视奖项 "wikilink")
 
 1.  [第10回TVnavi日劇年度大賞-最佳劇集](http://pbs.twimg.com/media/DFZdxkpXoAA_KUe.jpg)
 2.  [第10回TVnavi日劇年度大賞-最佳男主角](http://pbs.twimg.com/media/DFZdxkrWsAA7t_f.jpg)

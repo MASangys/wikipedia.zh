@@ -1,10 +1,8 @@
-SAiNT SEX是日本的音樂團體、女子偶像組合、是WACK的洗牌團體\[1\]。
-2017年結成。隸屬於WACK。唱片公司為Tower Records。
+**SAiNT SEX**是日本的音樂團體、女子偶像組合、是[WACK的洗牌團體](https://zh.wikipedia.org/wiki/WACK "wikilink")\[1\]。2017年結成。隸屬於WACK。唱片公司為Tower Records。
 
 ## 概要
 
-2017年10月2日，宣布選擇BiS，BiSH和GANG PARADE的成員為WACK的第一個官方洗牌團體，名為SAiNT
-SEX。他們唯一的單曲，WACK是FXXK，於10月18日作為Tower Records限量版獨家發行。
+2017年10月2日，宣布選擇BiS，BiSH和GANG PARADE的成員為WACK的第一個官方洗牌團體，名為SAiNT SEX。他們唯一的單曲，WACK是FXXK，於10月18日作為Tower Records限量版獨家發行。
 
 ## 沿革
 
@@ -45,18 +43,18 @@ SEX。他們唯一的單曲，WACK是FXXK，於10月18日作為Tower Records限�
 <td><p><a href="https://twitter.com/kamiya_GANG">カミヤサキ</a></p></td>
 </tr>
 <tr class="even">
-<td><p>AiNA THE END</p></td>
+<td><p>アイナ・ジ・エンド</p></td>
 <td></td>
 <td><p>是BiSH的成員。<br />
 </p></td>
-<td><p><a href="https://twitter.com/aina_BiSH">AiNA THE END</a></p></td>
+<td><p><a href="https://twitter.com/aina_BiSH">アイナ・ジ・エンド</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>Ayuni D</p></td>
+<td><p>アユニ・D</p></td>
 <td></td>
 <td><p>是BiSH的成員。<br />
 </p></td>
-<td><p><a href="https://twitter.com/AYUNiD_BiSH">Ayuni D</a></p></td>
+<td><p><a href="https://twitter.com/AYUNiD_BiSH">アユニ・D</a></p></td>
 </tr>
 <tr class="even">
 <td><p>ヤママチミキ</p></td>
@@ -131,11 +129,12 @@ SEX。他們唯一的單曲，WACK是FXXK，於10月18日作為Tower Records限�
 
 在列表中、▲代表加入、▼代表離開・畢業
 
-| 期間                     | 成員                                                         | 備註 |
-| ---------------------- | ---------------------------------------------------------- | -- |
-| 2017年10月2日 - 2018年3月4日 | ▼プー・ルイ、カミヤサキ、AiNA THE END、Ayuni D、アヤ・エイトプリンス、ヤママチミキ、ユメノユア  |    |
-| 2018年8月 日 - 2019年2月6日  | カミヤサキ、AiNA THE END、Ayuni D、アヤ・エイトプリンス、ヤママチミキ、ユメノユア、▲ゴ・ジーラ  |    |
-| 2019年2月6日 - 2019年5月11日 | カミヤサキ、AiNA THE END、Ayuni D、▼アヤ・エイトプリンス、ヤママチミキ、ユメノユア、▼ゴ・ジーラ |    |
+| 期間                     | 成員                                                    | 備註 |
+| ---------------------- | ----------------------------------------------------- | -- |
+| 2017年10月2日 - 2018年3月3日 | ▼プー・ルイ、カミヤサキ、アイナ・ジ・エンド、アユニ・D、アヤ・エイトプリンス、ヤママチミキ、ユメノユア  |    |
+| 2018年8月 日 - 2019年2月6日  | カミヤサキ、アイナ・ジ・エンド、アユニ・D、アヤ・エイトプリンス、ヤママチミキ、ユメノユア、▲ゴ・ジーラ  |    |
+| 2019年2月6日 - 2019年5月11日 | カミヤサキ、アイナ・ジ・エンド、アユニ・D、▼アヤ・エイトプリンス、ヤママチミキ、ユメノユア、▼ゴ・ジーラ |    |
+| 2019年5月12日 -           | カミヤサキ、アイナ・ジ・エンド、アユニ・D、ヤママチミキ、ユメノユア                    |    |
 
 ## 作品
 
@@ -183,20 +182,15 @@ SEX。他們唯一的單曲，WACK是FXXK，於10月18日作為Tower Records限�
 
   - SAiNT SEX是WACK的第一個洗牌團體。
 
-  -
-  -
-## 外部連結
-
 ## 參考資料
 
-[Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink")
-[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink")
+## 外部連結
 
-1.  [BiSH、BiS、GANG PARADEメンバーからなるSAiNT SEXが「WACK is
-    FXXK」発売](https://natalie.mu/music/news/251166)
+[Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink") [Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink")
 
-2.  [WACK所属 SAiNT SEX『WACK is
-    FXXK』の再録盤発売！タワーレコード一部店舗にて2000枚限定でゲリラ発売。](https://tower.jp/article/news/2019/02/06/n101)
+1.  [BiSH、BiS、GANG PARADEメンバーからなるSAiNT SEXが「WACK is FXXK」発売](https://natalie.mu/music/news/251166)
+
+2.  [WACK所属 SAiNT SEX『WACK is FXXK』の再録盤発売！タワーレコード一部店舗にて2000枚限定でゲリラ発売。](https://tower.jp/article/news/2019/02/06/n101)
 
 3.
 

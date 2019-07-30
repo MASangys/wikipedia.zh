@@ -1,11 +1,6 @@
-**[AIA呈獻](../Page/友邦保險.md "wikilink") 楊千嬅三二一GO！演唱會**
-是[香港](../Page/香港.md "wikilink")[天后](../Page/天后.md "wikilink")[楊千嬅的第七個個人](../Page/楊千嬅.md "wikilink")[紅磡香港體育館售票演唱會](https://zh.wikipedia.org/wiki/紅磡香港體育館 "wikilink")，亦是其入行22年首次跨年紅磡香港體育館演唱會，於2017年12月23日至2018年1月2日一連演出11場（三面台）。是次演唱會主題曲為《[Wonder
-Woman](https://www.youtube.com/watch?v=xCi9zrFM5rs)》，全新歌曲《[一二三，三二一](https://www.youtube.com/watch?v=ff5UfxlTafo)》更首次於演唱會曝光。\[1\]
+**[AIA呈獻](../Page/友邦保險.md "wikilink") 楊千嬅三二一GO！演唱會** 是[香港](../Page/香港.md "wikilink")[天后](../Page/天后.md "wikilink")[楊千嬅](../Page/楊千嬅.md "wikilink")的第七個個人[紅磡香港體育館售票演唱會](https://zh.wikipedia.org/wiki/紅磡香港體育館 "wikilink")，亦是其入行22年首次跨年紅磡香港體育館演唱會，於2017年12月23日至2018年1月2日一連演出11場（三面台）。是次演唱會主題曲為《[Wonder Woman](https://www.youtube.com/watch?v=xCi9zrFM5rs)》，全新歌曲《[一二三，三二一](https://www.youtube.com/watch?v=ff5UfxlTafo)》更首次於演唱會曝光。\[1\]
 
-**是次演唱會創下不少紀錄，包括創下楊千嬅出道以來紅磡香港體育館場次最高紀錄（11場），以及1個月內已3度加場，其後《楊千嬅三二一GO\!
-演唱會2017
-Live》演唱會原聲專輯於《[香港唱片商會銷量榜](../Page/香港唱片商會銷量榜冠軍唱片列表.md "wikilink")》創下3周冠軍及上榜達10周紀錄，及於《[第41屆十大中文金曲頒獎典禮](../Page/第四十一屆十大中文金曲得獎名單.md "wikilink")》首次奪得《最佳中文唱片獎
-女歌手》，成續斐然。**
+**是次演唱會創下不少紀錄，包括創下楊千嬅出道以來紅磡香港體育館場次最高紀錄（11場），以及1個月內已3度加場，其後《楊千嬅三二一GO\! 演唱會2017 Live》演唱會原聲專輯於《[香港唱片商會銷量榜](../Page/香港唱片商會銷量榜冠軍唱片列表.md "wikilink")》創下3周冠軍及上榜達10周紀錄，及於《[第41屆十大中文金曲頒獎典禮](../Page/第四十一屆十大中文金曲得獎名單.md "wikilink")》首次奪得《最佳中文唱片獎 女歌手》，成續斐然。**
 
 ## 背景
 
@@ -13,7 +8,7 @@ Live》演唱會原聲專輯於《[香港唱片商會銷量榜](../Page/香港�
 
 ## [AIA presents楊千嬅三二一GO！演唱會記者招待會](https://www.youtube.com/watch?v=bo_c7BiErUo)
 
-  - 2017年10月3日於[尖沙咀舉行](../Page/尖沙咀.md "wikilink")，嘉賓為[草蜢](../Page/草蜢_\(組合\).md "wikilink")
+  - 2017年10月3日於[尖沙咀](../Page/尖沙咀.md "wikilink")舉行，嘉賓為[草蜢](../Page/草蜢_\(組合\).md "wikilink")
 
 ## 售票情況
 
@@ -28,18 +23,15 @@ Live》演唱會原聲專輯於《[香港唱片商會銷量榜](../Page/香港�
 
 是次演唱會於紅磡香港體育館場數為11場
 
-1.  [2017年12月23日第一場](https://hk.entertainment.appledaily.com/enews/realtime/article/20171223/57619570)
-    \[6\]\[7\]
+1.  [2017年12月23日第一場](https://hk.entertainment.appledaily.com/enews/realtime/article/20171223/57619570) \[6\]\[7\]
 2.  2017年12月24日第二場[平安夜](../Page/聖誕夜.md "wikilink") \[8\]
-3.  2017年12月25日第三場[聖誕節](https://zh.wikipedia.org/wiki/聖誕節 "wikilink")
-    \[9\]
+3.  2017年12月25日第三場[聖誕節](https://zh.wikipedia.org/wiki/聖誕節 "wikilink") \[9\]
 4.  2017年12月26日第四場[拆禮物日](https://zh.wikipedia.org/wiki/節禮日 "wikilink")
 5.  2017年12月27日第五場
 6.  [2017年12月28日第六場](https://www.youtube.com/watch?v=mC-FJps5e_8) \[10\]
 7.  [2017年12月29日第七場](https://www.youtube.com/watch?v=1oHsGKQye4A)
 8.  2017年12月30日第八場
-9.  [2017年12月31日第九場](https://www.youtube.com/watch?v=ME1UjHAGDiM)[除夕夜](../Page/跨年日.md "wikilink")
-    \[11\]
+9.  [2017年12月31日第九場](https://www.youtube.com/watch?v=ME1UjHAGDiM)[除夕夜](../Page/跨年日.md "wikilink") \[11\]
 10. 2018年1月1日第十場[元旦](../Page/元旦.md "wikilink")
 11. [2018年1月2日第十一場](https://www.youtube.com/watch?v=0JpJz5Z20E4)，嘉賓為[余文樂](../Page/余文樂.md "wikilink")\[12\]
 
@@ -414,142 +406,138 @@ Live》演唱會原聲專輯於《[香港唱片商會銷量榜](../Page/香港�
 
 是次演唱會推出3個版本的原聲專輯
 
-1.  2018年3月28日推出《楊千嬅三二一GO\! 演唱會2017
-    Live（2[CD](../Page/CD.md "wikilink")）》\[17\]
-2.  2018年4月20日推出《楊千嬅三二一GO\! 演唱會2017
-    Live（2[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")）》\[18\]
-3.  2018年7月17日推出《楊千嬅三二一GO\! 演唱會2017
-    Live（[Blu-ray](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")）》\[19\]
+1.  2018年3月28日推出《楊千嬅三二一GO\! 演唱會2017 Live（2[CD](../Page/CD.md "wikilink")）》\[17\]
+2.  2018年4月20日推出《楊千嬅三二一GO\! 演唱會2017 Live（2[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")）》\[18\]
+3.  2018年7月17日推出《楊千嬅三二一GO\! 演唱會2017 Live（[Blu-ray](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")）》\[19\]
 
 ### 楊千嬅三二一GO\! 演唱會2017 Live（2CD）
 
 2CD收錄2017年12月31日除夕夜第九場第1至30首
 CD 1：
-\#Overture
 
-1.  繼續努力
-2.  熱血青年
-3.  放煙花
-4.  數你
-5.  最後的歌
-6.  自由行
-7.  可惜我是水瓶座
-8.  All about Love
-9.  的士司機
-10. 手信
-11. 小城大事
-12. 翅膀下的風
-13. 電光幻影
-14. Wonder Woman
-15. 新世紀福音戰士
-16. 烈女
-17. 洋蔥
+1.  Overture
+2.  繼續努力
+3.  熱血青年
+4.  放煙花
+5.  數你
+6.  最後的歌
+7.  自由行
+8.  可惜我是水瓶座
+9.  All about Love
+10. 的士司機
+11. 手信
+12. 小城大事
+13. 翅膀下的風
+14. 電光幻影
+15. Wonder Woman
+16. 新世紀福音戰士
+17. 烈女
+18. 洋蔥
 
 CD 2：
-\#火鳥
 
-1.  我的生存之道
-2.  飛女正傳
-3.  親
-4.  我係我
-5.  缺陷美
-6.  少女的祈禱
-7.  假如讓我說下去
-8.  抬起我的頭來
-9.  前塵（原唱：林憶蓮）
-10. 野孩子
-11. 勇
-12. 一二三，三二一
+1.  火鳥
+2.  我的生存之道
+3.  飛女正傳
+4.  親
+5.  我係我
+6.  缺陷美
+7.  少女的祈禱
+8.  假如讓我說下去
+9.  抬起我的頭來
+10. 前塵（原唱：林憶蓮）
+11. 野孩子
+12. 勇
+13. 一二三，三二一
 
 ### 楊千嬅三二一GO\! 演唱會2017 Live（2DVD）
 
 2DVD收錄2017年12月31日除夕夜第九場第1至30首
 DVD 1：
-\#Overture
 
-1.  繼續努力
-2.  熱血青年
-3.  放煙花
-4.  數你
-5.  最後的歌
-6.  自由行
-7.  可惜我是水瓶座
-8.  All about Love
-9.  的士司機
-10. 手信
-11. 小城大事
-12. 翅膀下的風
-13. 電光幻影
-14. Wonder Woman
-15. 新世紀福音戰士
-16. 烈女
-17. 洋蔥
+1.  Overture
+2.  繼續努力
+3.  熱血青年
+4.  放煙花
+5.  數你
+6.  最後的歌
+7.  自由行
+8.  可惜我是水瓶座
+9.  All about Love
+10. 的士司機
+11. 手信
+12. 小城大事
+13. 翅膀下的風
+14. 電光幻影
+15. Wonder Woman
+16. 新世紀福音戰士
+17. 烈女
+18. 洋蔥
 
 DVD 2：
-\#火鳥
 
-1.  我的生存之道
-2.  飛女正傳
-3.  親
-4.  我係我
-5.  缺陷美
-6.  少女的祈禱
-7.  假如讓我說下去
-8.  抬起我的頭來
-9.  前塵（原唱：林憶蓮）
-10. 野孩子
-11. 勇
-12. 一二三，三二一
-13. Making Of三二一 GO\!（演唱會製作花絮）
+1.  火鳥
+2.  我的生存之道
+3.  飛女正傳
+4.  親
+5.  我係我
+6.  缺陷美
+7.  少女的祈禱
+8.  假如讓我說下去
+9.  抬起我的頭來
+10. 前塵（原唱：林憶蓮）
+11. 野孩子
+12. 勇
+13. 一二三，三二一
+14. Making Of三二一 GO\!（演唱會製作花絮）
 
 ### 楊千嬅三二一GO\! 演唱會2017 Live（Blu-ray）
 
 Blu-ray收錄2017年12月31日除夕夜第九場第1至31首，以及2018年1月2日第十一場第14、26及27首
-\#Overture
 
-1.  繼續努力
-2.  熱血青年
-3.  放煙花
-4.  數你
-5.  最後的歌
-6.  自由行
-7.  可惜我是水瓶座
-8.  All about Love
-9.  的士司機
-10. 手信
-11. 小城大事
-12. 翅膀下的風
-13. 電光幻影
-14. Wonder Woman
-15. 新世紀福音戰士
-16. 烈女
-17. 洋蔥
-18. 火鳥
-19. 我的生存之道
-20. 飛女正傳
-21. 親
-22. 我係我
-23. 缺陷美
-24. 少女的祈禱
-25. 假如讓我說下去
-26. 抬起我的頭來
-27. 前塵（原唱：林憶蓮）
-28. 野孩子
-29. 勇
-30. 一二三，三二一
+1.  Overture
+2.  繼續努力
+3.  熱血青年
+4.  放煙花
+5.  數你
+6.  最後的歌
+7.  自由行
+8.  可惜我是水瓶座
+9.  All about Love
+10. 的士司機
+11. 手信
+12. 小城大事
+13. 翅膀下的風
+14. 電光幻影
+15. Wonder Woman
+16. 新世紀福音戰士
+17. 烈女
+18. 洋蔥
+19. 火鳥
+20. 我的生存之道
+21. 飛女正傳
+22. 親
+23. 我係我
+24. 缺陷美
+25. 少女的祈禱
+26. 假如讓我說下去
+27. 抬起我的頭來
+28. 前塵（原唱：林憶蓮）
+29. 野孩子
+30. 勇
+31. 一二三，三二一
 
 Extras：
-\#Wonder Woman（feat 葉子）
 
-1.  煉金術
-2.  稀客
-3.  Single
-4.  Making Of: 三二一GO\! （演唱會製作花絮）
+1.  Wonder Woman（feat 葉子）
+2.  煉金術
+3.  稀客
+4.  Single
+5.  Making Of: 三二一GO\! （演唱會製作花絮）
 
 ## [The ONE x楊千嬅三二一Go\! 演唱會2017 DVD 簽名會](https://www.youtube.com/watch?v=SOjfwsCDmPA)
 
-  - 2018年5月13日於尖沙咀[The
-    ONE舉行](../Page/The_ONE.md "wikilink")\[20\]\[21\]\[22\]
+  - 2018年5月13日於尖沙咀[The ONE舉行](../Page/The_ONE.md "wikilink")\[20\]\[21\]\[22\]
 
 ## 銷量榜成績
 
@@ -568,15 +556,13 @@ Extras：
 
 ## 唱片獎項
 
-  - 2018年：[第41屆十大中文金曲頒獎典禮](../Page/第四十一屆十大中文金曲得獎名單.md "wikilink") -
-    最佳中文唱片獎 女歌手《三二一GO LIVE》
+  - 2018年：[第41屆十大中文金曲頒獎典禮](../Page/第四十一屆十大中文金曲得獎名單.md "wikilink") - 最佳中文唱片獎 女歌手《三二一GO LIVE》
 
 ## 註釋說明
 
 ## 參考文獻
 
-[Category:香港演唱會](https://zh.wikipedia.org/wiki/Category:香港演唱會 "wikilink")
-[Category:楊千嬅演唱會](https://zh.wikipedia.org/wiki/Category:楊千嬅演唱會 "wikilink")
+[Category:香港演唱會](https://zh.wikipedia.org/wiki/Category:香港演唱會 "wikilink") [Category:楊千嬅演唱會](https://zh.wikipedia.org/wiki/Category:楊千嬅演唱會 "wikilink")
 
 1.
 2.

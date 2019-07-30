@@ -1,5 +1,4 @@
-《**劉QUIZ ON THE BLOCK**》(，)
-為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN綜藝節目](https://zh.wikipedia.org/wiki/tvN "wikilink")\[1\]。由[劉在錫](../Page/劉在錫.md "wikilink")、[曹世鎬共同主持](https://zh.wikipedia.org/wiki/曹世鎬 "wikilink")，節目主軸為探訪人們的日常生活，進行簡單談話和突然問答的街頭談話與問答秀。計劃在平凡的舞台街邊把陽光當作照明，用愉快的驚喜給人們疲乏的生活帶來活力，度過特別的一天。
+《**劉QUIZ ON THE BLOCK**》(，) 為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN綜藝節目](https://zh.wikipedia.org/wiki/tvN "wikilink")\[1\]。由[劉在錫](../Page/劉在錫.md "wikilink")、[曹世鎬共同主持](https://zh.wikipedia.org/wiki/曹世鎬 "wikilink")，節目主軸為探訪人們的日常生活，進行簡單談話和突然問答的街頭談話與問答秀。計劃在平凡的舞台街邊把陽光當作照明，用愉快的驚喜給人們疲乏的生活帶來活力，度過特別的一天。
 
 ## 節目形式
 
@@ -120,14 +119,10 @@
 ## 外部連結
 
   - [tvN官方網站](http://program.tving.com/tvn/youquizontheblock/)
-  - [劉QUIZ ON THE
-    BLOCK-DAUM](https://search.daum.net/search?w=tv&q=유%20퀴즈%20온%20더%20블럭&irk=83691)
-  - [劉QUIZ ON THE
-    BLOCK-NAVER](https://m.entertain.naver.com/tvBrand/8663378)
+  - [劉QUIZ ON THE BLOCK-DAUM](https://search.daum.net/search?w=tv&q=유%20퀴즈%20온%20더%20블럭&irk=83691)
+  - [劉QUIZ ON THE BLOCK-NAVER](https://m.entertain.naver.com/tvBrand/8663378)
 
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:tvN](https://zh.wikipedia.org/wiki/Category:tvN "wikilink")
+[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:tvN](https://zh.wikipedia.org/wiki/Category:tvN "wikilink")
 
 1.
 2.

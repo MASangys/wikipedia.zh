@@ -2,20 +2,15 @@
 
 ## 组合概况
 
-这个组合名源自组成时的四名成员希望用表示“声音”的词语作为组合名。当时候选的名称还有“（）”和“（）”等。在日读音中，要读成“（）”，而不是“（）”。\[2\]\[3\]
-整个组合名由英语中的“（爱）”和“（音调）”组成，但是整个组合名并非两个独立的单词，而是一个生造词。“”的“”为[小写](https://zh.wikipedia.org/wiki/小写体 "wikilink")“”并用[连字号](../Page/连字号.md "wikilink")“-”与前面的“”相连。\[4\]
-作为对于组合名的第一印象，[安井谦太郎和](https://zh.wikipedia.org/wiki/安井谦太郎 "wikilink")对于组合名里出现“”一方面感到吃惊，但另一方面也觉得给观众留下了良好印象。而[森田美勇人和](https://zh.wikipedia.org/wiki/森田美勇人 "wikilink")[萩谷慧悟则觉得在感受了所谓的偶像感之后](../Page/萩谷慧悟.md "wikilink")，觉得这个团名很“不错”。团员们都很喜欢这个团名。\[5\]
+这个组合名源自组成时的四名成员希望用表示“声音”的词语作为组合名。当时候选的名称还有“（）”和“（）”等。在日读音中，要读成“（）”，而不是“（）”。\[2\]\[3\] 整个组合名由英语中的“（爱）”和“（音调）”组成，但是整个组合名并非两个独立的单词，而是一个生造词。“”的“”为[小写](https://zh.wikipedia.org/wiki/小写体 "wikilink")“”并用[连字号](../Page/连字号.md "wikilink")“-”与前面的“”相连。\[4\] 作为对于组合名的第一印象，[安井谦太郎和](https://zh.wikipedia.org/wiki/安井谦太郎 "wikilink")对于组合名里出现“”一方面感到吃惊，但另一方面也觉得给观众留下了良好印象。而[森田美勇人和](https://zh.wikipedia.org/wiki/森田美勇人 "wikilink")[萩谷慧悟](../Page/萩谷慧悟.md "wikilink")则觉得在感受了所谓的偶像感之后，觉得这个团名很“不错”。团员们都很喜欢这个团名。\[5\]
 
-在舞台表演的时候多采用[乐队形式](https://zh.wikipedia.org/wiki/流行樂團 "wikilink")，这在其他小杰尼斯组合里很少见到。对此，萩谷慧悟表示“这不是一支乐队组合，而是一种武器”。\[6\]\[7\]
-此外，森田美勇人的舞蹈、真田佑马的舞台剧、萩谷慧悟的乐器、安井谦太郎的主持都在各自领域内表现优秀，他们都有着各自的坚持。\[8\]
+在舞台表演的时候多采用[乐队形式](https://zh.wikipedia.org/wiki/流行樂團 "wikilink")，这在其他小杰尼斯组合里很少见到。对此，萩谷慧悟表示“这不是一支乐队组合，而是一种武器”。\[6\]\[7\] 此外，森田美勇人的舞蹈、真田佑马的舞台剧、萩谷慧悟的乐器、安井谦太郎的主持都在各自领域内表现优秀，他们都有着各自的坚持。\[8\]
 
-於2018年11月30日，收費網站「傑尼斯Jr.情報局」公報[真田佑馬](https://zh.wikipedia.org/wiki/真田佑馬 "wikilink")、[諸星翔希](https://zh.wikipedia.org/wiki/諸星翔希 "wikilink")、[萩谷慧悟](../Page/萩谷慧悟.md "wikilink")、[阿部顯嵐及](../Page/阿部顯嵐.md "wikilink")[長妻怜央即日退社](https://zh.wikipedia.org/wiki/長妻怜央 "wikilink")、[森田美勇人於同年](https://zh.wikipedia.org/wiki/森田美勇人 "wikilink")12月31日亦會離開、而[安井谦太郎將於](https://zh.wikipedia.org/wiki/安井谦太郎 "wikilink")2019年3月31日退出。
-除了[安井谦太郎將於今年](https://zh.wikipedia.org/wiki/安井谦太郎 "wikilink")3月31日退社，其他人現時已離開傑尼斯事務所。
+於2018年11月30日，收費網站「傑尼斯Jr.情報局」公報[真田佑馬](https://zh.wikipedia.org/wiki/真田佑馬 "wikilink")、[諸星翔希](https://zh.wikipedia.org/wiki/諸星翔希 "wikilink")、[萩谷慧悟](../Page/萩谷慧悟.md "wikilink")、[阿部顯嵐](../Page/阿部顯嵐.md "wikilink")及[長妻怜央即日退社](https://zh.wikipedia.org/wiki/長妻怜央 "wikilink")、[森田美勇人於同年](https://zh.wikipedia.org/wiki/森田美勇人 "wikilink")12月31日亦會離開、而[安井谦太郎將於](https://zh.wikipedia.org/wiki/安井谦太郎 "wikilink")2019年3月31日退出。 除了[安井谦太郎將於今年](https://zh.wikipedia.org/wiki/安井谦太郎 "wikilink")3月31日退社，其他人現時已離開傑尼斯事務所。
 
 ## 组合成员
 
-以下资料出自[富士电视台节目](https://zh.wikipedia.org/wiki/富士电视台 "wikilink")《》，\[9\]
-以出生年月排序。
+以下资料出自[富士电视台节目](https://zh.wikipedia.org/wiki/富士电视台 "wikilink")《》，\[9\] 以出生年月排序。
 
 <table>
 <thead>
@@ -100,8 +95,7 @@
 
 <!-- end list -->
 
-  - 《[DREAM
-    BOYS](https://zh.wikipedia.org/wiki/DREAM_BOY#2016年 "wikilink")》（2016年9月3日－30日；[帝国剧场](https://zh.wikipedia.org/wiki/帝国剧场 "wikilink")）\[18\]
+  - 《[DREAM BOYS](https://zh.wikipedia.org/wiki/DREAM_BOY#2016年 "wikilink")》（2016年9月3日－30日；[帝国剧场](https://zh.wikipedia.org/wiki/帝国剧场 "wikilink")）\[18\]
 
 <!-- end list -->
 
@@ -125,8 +119,7 @@
 
 ### 音乐节目
 
-  - 《》（2016年－2018年5月11日；[NHK BS
-    Premium](../Page/NHK_BS_Premium.md "wikilink")）
+  - 《》（2016年－2018年5月11日；[NHK BS Premium](../Page/NHK_BS_Premium.md "wikilink")）
 
 ### 综艺节目
 
@@ -144,15 +137,11 @@
 
 ## 外部链接
 
-  - [杰尼斯事务所 \>
-    小杰尼斯官方网站](https://www.johnnys-net.jp/page?id=artistTop&artist=21)
+  - [杰尼斯事务所 \> 小杰尼斯官方网站](https://www.johnnys-net.jp/page?id=artistTop&artist=21)
 
-[Category:小傑尼斯團體](https://zh.wikipedia.org/wiki/Category:小傑尼斯團體 "wikilink")
-[Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink")
-[Category:2018年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2018年解散的音樂團體 "wikilink")
+[Category:小傑尼斯團體](https://zh.wikipedia.org/wiki/Category:小傑尼斯團體 "wikilink") [Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink") [Category:2018年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2018年解散的音樂團體 "wikilink")
 
-1.  週刊『TVガイド』（東京ニュース通信社）2016年4月8日号、「ジャニーズJr.
-    春だから…いろいろ貼るよ♡PHOTOBOOK」114頁より
+1.  週刊『TVガイド』（東京ニュース通信社）2016年4月8日号、「ジャニーズJr. 春だから…いろいろ貼るよ♡PHOTOBOOK」114頁より
 
 2.
 3.  『Myojo』（[集英社](../Page/集英社.md "wikilink")）2016年6月号、「Love-tune　ガシガシ踊れるバンド系ユニット誕生★」65頁から67頁より

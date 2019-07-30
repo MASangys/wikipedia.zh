@@ -1,18 +1,12 @@
-**RIM-67飛彈**(英文:RIM-67 Standard
-ER)是RIM-66标准1型飛彈和标准2型的增程版本，即**標準一型長程飛彈**與**標準二型長程飛彈**（SM-1
-ER/SM-2 ER）1981年開始服役。配备于大型防空舰上为舰队提供远程区域防空\[1\]。
+**RIM-67飛彈**(英文:RIM-67 Standard ER)是RIM-66标准1型飛彈和标准2型的增程版本，即**標準一型長程飛彈**與**標準二型長程飛彈**（SM-1 ER/SM-2 ER）1981年開始服役。配备于大型防空舰上为舰队提供远程区域防空\[1\]。
 
 ## 歷史
 
-SM-1ER的所有批次编号都为RIM-67A。采用MK30主发动机和MK12助推器。射程达到了约65公里。
-替代[RIM-8黄铜骑士（Talos）远程舰用防空导弹](../Page/RIM-8飛彈.md "wikilink")。并在事实上替代了[RIM-2
-小猎犬（Terrier）中程面对空导弹](../Page/RIM-2飛彈.md "wikilink")
+SM-1ER的所有批次编号都为RIM-67A。采用MK30主发动机和MK12助推器。射程达到了约65公里。 替代[RIM-8黄铜骑士（Talos）远程舰用防空导弹](../Page/RIM-8飛彈.md "wikilink")。并在事实上替代了[RIM-2 小猎犬（Terrier）中程面对空导弹](../Page/RIM-2飛彈.md "wikilink")
 
-SM-2ER Block
-II的所有批次编号都为RIM-67B。采用MK30主发动机和MK70助推器。射程达到了约140公里，射程比SM-1ER多出2倍左右，使用破片彈。
+SM-2ER Block II的所有批次编号都为RIM-67B。采用MK30主发动机和MK70助推器。射程达到了约140公里，射程比SM-1ER多出2倍左右，使用破片彈。
 
-SM-2ER Block IV所有批次编号都为RIM-156A（原RIM-67E）。采用MK 45 MOD 10
-TDD主发动机和MK72助推器。專門為神盾艦設計。
+SM-2ER Block IV所有批次编号都为RIM-156A（原RIM-67E）。采用MK 45 MOD 10 TDD主发动机和MK72助推器。專門為神盾艦設計。
 
 SM-2ER Block IVA所有批次编号都为RIM-156B，RIM-156A升級版，最後取消生產。
 
@@ -75,7 +69,7 @@ SM-2ER Block IVA所有批次编号都为RIM-156B，RIM-156A升級版，最後取
 <td><p>SM-2ER Block IV</p></td>
 <td><p>專門為垂直發射系統設計的飛彈。1999年8月開始運作。</p>
 <ul>
-<li>使用<a href="../Page/向量噴嘴.md" title="wikilink">向量噴嘴控制的MK</a> 72助推器</li>
+<li>使用<a href="../Page/向量噴嘴.md" title="wikilink">向量噴嘴</a>控制的MK 72助推器</li>
 <li>MK 45 MOD 10 TDD主發動機，性能提高，抵禦高性能，低RCS威脅</li>
 <li>指導和控制修改，以在嚴重ECM環境中獲得更好的性能</li>
 <li>戰區彈道導彈防禦（NATBMD)</li>
@@ -120,10 +114,7 @@ SM-2ER Block IVA所有批次编号都为RIM-156B，RIM-156A升級版，最後取
 
 ## 參考資料
 
-[Category:美國飛彈](https://zh.wikipedia.org/wiki/Category:美國飛彈 "wikilink")
-[Category:舰载防空导弹](https://zh.wikipedia.org/wiki/Category:舰载防空导弹 "wikilink")
-[Category:区域防空导弹](https://zh.wikipedia.org/wiki/Category:区域防空导弹 "wikilink")
+[Category:美國飛彈](https://zh.wikipedia.org/wiki/Category:美國飛彈 "wikilink") [Category:舰载防空导弹](https://zh.wikipedia.org/wiki/Category:舰载防空导弹 "wikilink") [Category:区域防空导弹](https://zh.wikipedia.org/wiki/Category:区域防空导弹 "wikilink")
 
-1.  <http://www.designation-systems.net/dusrm/m-67.html> Directory of
-    U.S. Military Rockets and Missiles RIM-67
+1.  <http://www.designation-systems.net/dusrm/m-67.html> Directory of U.S. Military Rockets and Missiles RIM-67
 2.  <https://finance.yahoo.com/news/raytheon-wins-149m-navy-deal-221710555.html>

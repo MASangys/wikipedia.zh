@@ -6,17 +6,12 @@
 
   - [Melomics Homepage](http://melomics.com/)
   - [Melomics Playlist](http://melomics.com/@melomics109/0music)
-  - [Melomics web page at University of
-    Malaga](https://web.archive.org/web/20140808054022/http://geb.uma.es/melomics)
-  - [0music in
-    YouTube](https://www.youtube.com/playlist?list=PLwUOBZdCYUCMjW1DKCQxqVJp3xmoh42e2)
+  - [Melomics web page at University of Malaga](https://web.archive.org/web/20140808054022/http://geb.uma.es/melomics)
+  - [0music in YouTube](https://www.youtube.com/playlist?list=PLwUOBZdCYUCMjW1DKCQxqVJp3xmoh42e2)
 
 ## 參考文獻
 
-[Category:人工智慧](https://zh.wikipedia.org/wiki/Category:人工智慧 "wikilink")
-[Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink")
-[Category:音樂科技](https://zh.wikipedia.org/wiki/Category:音樂科技 "wikilink")
-[Category:西班牙超級計算網絡](https://zh.wikipedia.org/wiki/Category:西班牙超級計算網絡 "wikilink")
+[Category:人工智慧](https://zh.wikipedia.org/wiki/Category:人工智慧 "wikilink") [Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink") [Category:音樂科技](https://zh.wikipedia.org/wiki/Category:音樂科技 "wikilink") [Category:西班牙超級計算網絡](https://zh.wikipedia.org/wiki/Category:西班牙超級計算網絡 "wikilink")
 
 1.
 2.

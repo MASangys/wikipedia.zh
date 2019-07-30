@@ -58,14 +58,11 @@ function p._icon(args)
 `               if v.icon == 'colorbox' then`
 `                   return colorbox(v.color,k,k)..showtext..text`
 `               elseif v.icon == 'crenshaw' then`
-`                   return '`[`'..(args.size``   ``or``
- ``17)..'px`](https://zh.wikipedia.org/wiki/File:LACMTA_Circle_Crenshaw_Line.svg "fig:'..(args.size or 17)..'px")` '..showtext..text`
+`                   return '`[`'..(args.size``   ``or``   ``17)..'px`](https://zh.wikipedia.org/wiki/File:LACMTA_Circle_Crenshaw_Line.svg "fig:'..(args.size or 17)..'px")` '..showtext..text`
 `               elseif v.icon == 'img_circle' then`
-`                   return '`[`'..(args.size``   ``or``
- ``17)..'px`](https://zh.wikipedia.org/wiki/File:LACMTA_Circle_'..k..'.svg "fig:'..(args.size or 17)..'px")` '..showtext..text`
+`                   return '`[`'..(args.size``   ``or``   ``17)..'px`](https://zh.wikipedia.org/wiki/File:LACMTA_Circle_'..k..'.svg "fig:'..(args.size or 17)..'px")` '..showtext..text`
 `               elseif v.icon == 'img_square' then`
-`                   return '`[`'..(args.size``   ``or``
- ``17)..'px`](https://zh.wikipedia.org/wiki/File:LACMTA_Square_'..k..'.svg "fig:'..(args.size or 17)..'px")` '..showtext..text`
+`                   return '`[`'..(args.size``   ``or``   ``17)..'px`](https://zh.wikipedia.org/wiki/File:LACMTA_Square_'..k..'.svg "fig:'..(args.size or 17)..'px")` '..showtext..text`
 `               end`
 `           end`
 `       end`

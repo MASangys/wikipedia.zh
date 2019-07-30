@@ -1,5 +1,4 @@
-《[Top
-Management](../Page/Top_Management.md "wikilink")》為[YouTube於](../Page/YouTube.md "wikilink")2018年10月31日起播出的首部原創[韓國電視劇](https://zh.wikipedia.org/wiki/韓國 "wikilink")，以愛豆和音樂為素材，講述經歷種種災難的新人經紀人活用自己的能力，在業界成功的故事。\[1\]\[2\]
+《[Top Management](../Page/Top_Management.md "wikilink")》為[YouTube](../Page/YouTube.md "wikilink")於2018年10月31日起播出的首部原創[韓國電視劇](https://zh.wikipedia.org/wiki/韓國 "wikilink")，以愛豆和音樂為素材，講述經歷種種災難的新人經紀人活用自己的能力，在業界成功的故事。\[1\]\[2\]
 
 ## 演員陣容
 
@@ -154,11 +153,7 @@ Management](../Page/Top_Management.md "wikilink")》為[YouTube於](../Page/YouT
 
 ## 參考資料
 
-[Category:2018年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2018年韓國電視劇集 "wikilink")
-[Category:YouTube網路劇](https://zh.wikipedia.org/wiki/Category:YouTube網路劇 "wikilink")
-[Category:流行音樂題材作品](https://zh.wikipedia.org/wiki/Category:流行音樂題材作品 "wikilink")
-[Category:音樂電視劇](https://zh.wikipedia.org/wiki/Category:音樂電視劇 "wikilink")
-[Category:明星主角題材電視劇](https://zh.wikipedia.org/wiki/Category:明星主角題材電視劇 "wikilink")
+[Category:2018年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2018年韓國電視劇集 "wikilink") [Category:YouTube網路劇](https://zh.wikipedia.org/wiki/Category:YouTube網路劇 "wikilink") [Category:流行音樂題材作品](https://zh.wikipedia.org/wiki/Category:流行音樂題材作品 "wikilink") [Category:音樂電視劇](https://zh.wikipedia.org/wiki/Category:音樂電視劇 "wikilink") [Category:明星主角題材電視劇](https://zh.wikipedia.org/wiki/Category:明星主角題材電視劇 "wikilink")
 
 1.
 2.

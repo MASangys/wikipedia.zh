@@ -21,9 +21,7 @@
 
   - **需要提升至典範條目的水準：**
   - **需要協作：**
-  - **需要擴充：**[阿納克圖沃克帕斯
-    (阿拉斯加州)](https://zh.wikipedia.org/wiki/阿納克圖沃克帕斯_\(阿拉斯加州\) "wikilink")，[烏納拉斯卡
-    (阿拉斯加州)](https://zh.wikipedia.org/wiki/烏納拉斯卡_\(阿拉斯加州\) "wikilink")
+  - **需要擴充：**[阿納克圖沃克帕斯 (阿拉斯加州)](https://zh.wikipedia.org/wiki/阿納克圖沃克帕斯_\(阿拉斯加州\) "wikilink")，[烏納拉斯卡 (阿拉斯加州)](https://zh.wikipedia.org/wiki/烏納拉斯卡_\(阿拉斯加州\) "wikilink")
   - **需要清理：**
   - **需要合併：**
   - **需要分類：**

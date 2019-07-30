@@ -1,12 +1,10 @@
-**《PERCENT》**，是韓國女子團體[Apink的第八張迷你專輯](../Page/Apink.md "wikilink")，由[Plan
-A娛樂製作](../Page/Plan_A娛樂.md "wikilink")，於2019年1月7日下午6時推出\[1\]。
+**《PERCENT》**，是韓國女子團體[Apink](../Page/Apink.md "wikilink")的第八張迷你專輯，由[Plan A娛樂製作](../Page/Plan_A娛樂.md "wikilink")，於2019年1月7日下午6時推出\[1\]。
 
 ## 日程
 
 ### 宣傳
 
-2018年12月25日，透過官方instagram
-宣布將於1月7日下午6時發行第八張迷你專輯《PERCENT》\[2\]；並公開完整回歸行程表\[3\]。
+2018年12月25日，透過官方instagram 宣布將於1月7日下午6時發行第八張迷你專輯《PERCENT》\[2\]；並公開完整回歸行程表\[3\]。
 
 #### 回歸行程表
 
@@ -40,8 +38,7 @@ A娛樂製作](../Page/Plan_A娛樂.md "wikilink")，於2019年1月7日下午6�
 | 2019年1月19日 | Show\! 音樂中心                                                         |
 | 2019年1月20日 | Inkigayo                                                            |
 
-1月9日於show champion展開為期2週的宣傳活動，1月16日於show champion奪下回歸首冠，1月17日於M
-countdown 取得第二個一位，1月20日於人氣歌謠末放舞台奪下第3個一位。
+1月9日於show champion展開為期2週的宣傳活動，1月16日於show champion奪下回歸首冠，1月17日於M countdown 取得第二個一位，1月20日於人氣歌謠末放舞台奪下第3個一位。
 
 ## 概要
 
@@ -49,9 +46,7 @@ countdown 取得第二個一位，1月20日於人氣歌謠末放舞台奪下第3
 
 #### %% (嗯嗯) \[Title\]
 
-結合電子音的夢幻舞曲，承載了偶爾感到孤獨，卻不願妥協並等待著對的人的女子的心情，就像「1點都沒有」(1도없어)
-的表示法一樣，以最近人們常使用的「ㄣㄣ」(聲母)
-用「%%」這樣的寫法來表示，增添了不少才趣。
+結合電子音的夢幻舞曲，承載了偶爾感到孤獨，卻不願妥協並等待著對的人的女子的心情，就像「1點都沒有」(1도없어) 的表示法一樣，以最近人們常使用的「ㄣㄣ」(聲母) 用「%%」這樣的寫法來表示，增添了不少才趣。
 
 #### 抱緊我(안아줘요)
 
@@ -79,9 +74,7 @@ R\&B 抒情曲風的「抱緊我」是首關於愛情，抱持著危險又不安
 
 ## 参考文獻
 
-[Category:2019年迷你專輯](https://zh.wikipedia.org/wiki/Category:2019年迷你專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:Apink歌曲](https://zh.wikipedia.org/wiki/Category:Apink歌曲 "wikilink")
+[Category:2019年迷你專輯](https://zh.wikipedia.org/wiki/Category:2019年迷你專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:Apink歌曲](https://zh.wikipedia.org/wiki/Category:Apink歌曲 "wikilink")
 
 1.
 2.

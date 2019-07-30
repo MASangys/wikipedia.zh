@@ -1,5 +1,4 @@
-**lolol**是[lol的首張原創專輯](../Page/Lol_\(團體\).md "wikilink")。2017年8月2日由avex
-trax發售\[1\]。
+**lolol**是[lol的首張原創專輯](../Page/Lol_\(團體\).md "wikilink")。2017年8月2日由avex trax發售\[1\]。
 
 ## 发售形態
 
@@ -76,7 +75,6 @@ trax發售\[1\]。
 
 ## 脚注
 
-[Category:2017年音樂專輯](https://zh.wikipedia.org/wiki/Category:2017年音樂專輯 "wikilink")
-[Category:愛貝克思音樂專輯](https://zh.wikipedia.org/wiki/Category:愛貝克思音樂專輯 "wikilink")
+[Category:2017年音樂專輯](https://zh.wikipedia.org/wiki/Category:2017年音樂專輯 "wikilink") [Category:愛貝克思音樂專輯](https://zh.wikipedia.org/wiki/Category:愛貝克思音樂專輯 "wikilink")
 
 1.

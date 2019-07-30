@@ -1,4 +1,4 @@
-《**孫Sational-打造他的時間**》（，），為韓國[tvN電視台於](https://zh.wikipedia.org/wiki/tvN "wikilink")2019年5月25日推出的時事教養節目，由[孫興慜](../Page/孫興慜.md "wikilink")、[朴敘俊等人共同主持](../Page/朴敘俊.md "wikilink")，節目主軸為邀請到目前為止一直陪伴著孫興慜的人們，講述[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[足球的未來](../Page/足球.md "wikilink")，回顧從[江原道少年到成為](https://zh.wikipedia.org/wiki/江原道 "wikilink")[英超球員足跡的點點滴滴](https://zh.wikipedia.org/wiki/英格蘭足球超級聯賽 "wikilink")\[1\]\[2\]\[3\]。
+《**孫Sational-打造他的時間**》（，），為韓國[tvN電視台於](https://zh.wikipedia.org/wiki/tvN "wikilink")2019年5月25日推出的時事教養節目，由[孫興慜](../Page/孫興慜.md "wikilink")、[朴敘俊](../Page/朴敘俊.md "wikilink")等人共同主持，節目主軸為邀請到目前為止一直陪伴著孫興慜的人們，講述[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[足球](../Page/足球.md "wikilink")的未來，回顧從[江原道少年到成為](https://zh.wikipedia.org/wiki/江原道 "wikilink")[英超球員足跡的點點滴滴](https://zh.wikipedia.org/wiki/英格蘭足球超級聯賽 "wikilink")\[1\]\[2\]\[3\]。
 
 ## 節目列表
 
@@ -37,7 +37,7 @@
 <tr class="odd">
 <td><p>1</p></td>
 <td><p>2019/05/25</p></td>
-<td><p>4.244%</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
@@ -62,7 +62,7 @@
 <tr class="even">
 <td><p>6</p></td>
 <td><p>2019/07/05</p></td>
-<td><p>%</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -72,8 +72,6 @@
 </tbody>
 </table>
 
-## 註釋
-
 ## 參考資料
 
 ## 外部連結
@@ -81,9 +79,7 @@
   - [韓國tvN官方網站](http://program.m.tving.com/tvn/sonsational/)
   - [孫Sational-打造他的時間-NAVER](https://m.entertain.naver.com/tvBrand/9316634)
 
-[Category:tvN](https://zh.wikipedia.org/wiki/Category:tvN "wikilink")
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
+[Category:tvN](https://zh.wikipedia.org/wiki/Category:tvN "wikilink") [Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
 
 1.
 2.

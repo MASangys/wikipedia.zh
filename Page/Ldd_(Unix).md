@@ -1,9 +1,8 @@
-**Ldd**（，意译为**列出动态库依赖关系**）是一款在[类Unix系统的实用工具](../Page/类Unix系统.md "wikilink")，负责在[命令行内输出](https://zh.wikipedia.org/wiki/命令行 "wikilink")[程序或](https://zh.wikipedia.org/wiki/程序 "wikilink")[共享库所依赖的](https://zh.wikipedia.org/wiki/共享库 "wikilink")[函数库](../Page/函式庫.md "wikilink")。\[1\]此工具由及开发。\[2\]
-Ldd在指定的程序缺少部分函数库的情况下将无法显示结果。
+**Ldd**（，意译为**列出动态库依赖关系**）是一款在[类Unix系统](../Page/类Unix系统.md "wikilink")的实用工具，负责在[命令行内输出](https://zh.wikipedia.org/wiki/命令行 "wikilink")[程序或](https://zh.wikipedia.org/wiki/程序 "wikilink")[共享库所依赖的](https://zh.wikipedia.org/wiki/共享库 "wikilink")[函数库](../Page/函式庫.md "wikilink")。\[1\]此工具由及开发。\[2\] Ldd在指定的程序缺少部分函数库的情况下将无法显示结果。
 
 ## 安全性
 
-ldd是一个将指定程序作为参数传入的[命令行脚本](../Page/Shell脚本.md "wikilink")，用户不应该使用其打开不受信的函数库。ldd的[手册页建议用户在打开不受信的二进制文件时使用](../Page/手册页.md "wikilink")[objdump及](https://zh.wikipedia.org/wiki/objdump "wikilink")[grep实用工具](https://zh.wikipedia.org/wiki/grep "wikilink")：
+ldd是一个将指定程序作为参数传入的[命令行脚本](../Page/Shell脚本.md "wikilink")，用户不应该使用其打开不受信的函数库。ldd的[手册页](../Page/手册页.md "wikilink")建议用户在打开不受信的二进制文件时使用[objdump及](https://zh.wikipedia.org/wiki/objdump "wikilink")[grep实用工具](https://zh.wikipedia.org/wiki/grep "wikilink")：
 
 ``` bash
 user@home ~/ $ objdump -p /path/program | grep NEEDED

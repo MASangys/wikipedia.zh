@@ -12,8 +12,7 @@
 
 [標竿專業媒體](https://zh.wikipedia.org/wiki/Category:重写侵权页面的草稿条目 "wikilink")
 
-標竿專業媒體有限公司(Benchmark Media International
-Corp.)是台灣的外銷雜誌出版社與網路媒體公司。成立於2005年，由簡德望先生所創辦。公司所出版的產品雜誌參與全球展會。
+標竿專業媒體有限公司(Benchmark Media International Corp.)是台灣的外銷雜誌出版社與網路媒體公司。成立於2005年，由簡德望先生所創辦。公司所出版的產品雜誌參與全球展會。
 
 
 
@@ -67,7 +66,7 @@ Corp.)是台灣的外銷雜誌出版社與網路媒體公司。成立於2005年�
 
 2016年，開發產品影音拍攝，隔年首開先例，設立影音專區－「標竿影音館」(BIZ Video Platform)。
 
-2016年，與《[中華民國對外貿易發展協會》合作](../Page/中華民國對外貿易發展協會.md "wikilink")，於「德國科隆五金展」、「全美五金展」及「法蘭克福汽配展」展出網路平台。
+2016年，與《[中華民國對外貿易發展協會](../Page/中華民國對外貿易發展協會.md "wikilink")》合作，於「德國科隆五金展」、「全美五金展」及「法蘭克福汽配展」展出網路平台。
 
 2017年，標竿官網改版完成，可支援行動裝置。
 
@@ -87,14 +86,10 @@ Corp.)是台灣的外銷雜誌出版社與網路媒體公司。成立於2005年�
 
 ·      [台灣手工具工業同業公會官網](http://www.taiwanhandtools.com.tw/html/about.php)
 
-·      [經貿透視雙周刊 439 綠色經濟
-企業與環境共贏](https://books.google.com.tw/books?id=5ZApDwAAQBAJ&pg=PA81&dq=%22%E6%A8%99%E7%AB%BF%E5%B0%88%E6%A5%AD%E5%AA%92%E9%AB%94%22&hl=zh-TW&sa=X&ved=0ahUKEwj5ksrjyNHiAhUFE6YKHdOwBgEQ6AEIJzAA#v=onepage&q=%22%E6%A8%99%E7%AB%BF%E5%B0%88%E6%A5%AD%E5%AA%92%E9%AB%94%22&f=false)
+·      [經貿透視雙周刊 439 綠色經濟 企業與環境共贏](https://books.google.com.tw/books?id=5ZApDwAAQBAJ&pg=PA81&dq=%22%E6%A8%99%E7%AB%BF%E5%B0%88%E6%A5%AD%E5%AA%92%E9%AB%94%22&hl=zh-TW&sa=X&ved=0ahUKEwj5ksrjyNHiAhUFE6YKHdOwBgEQ6AEIJzAA#v=onepage&q=%22%E6%A8%99%E7%AB%BF%E5%B0%88%E6%A5%AD%E5%AA%92%E9%AB%94%22&f=false)
 
-·      [中時電子報-台灣新品展示區
-科隆五金新亮點](https://www.chinatimes.com/amp/realtimenews/20160309000971-260410?chdtv)
+·      [中時電子報-台灣新品展示區 科隆五金新亮點](https://www.chinatimes.com/amp/realtimenews/20160309000971-260410?chdtv)
 
-·      [經貿透視雙周刊 443 跨境電商
-海外淘金](https://books.google.com.tw/books?id=Z40pDwAAQBAJ&pg=PA82&lpg=PA82&dq=%22%E6%A8%99%E7%AB%BF%E5%B0%88%E6%A5%AD%E5%AA%92%E9%AB%94%22+-wikipedia&source=bl&ots=lxiW2OL7m5&sig=ACfU3U0CeaSllnyjNpYKN_ILHoFAv85TYg&hl=zh-TW&sa=X&ved=2ahUKEwjFpIHXx9HiAhVoHKYKHemQCeI4FBDoATAJegQICRAB#v=onepage&q=%22%E6%A8%99%E7%AB%BF%E5%B0%88%E6%A5%AD%E5%AA%92%E9%AB%94%22%20-wikipedia&f=false)
+·      [經貿透視雙周刊 443 跨境電商 海外淘金](https://books.google.com.tw/books?id=Z40pDwAAQBAJ&pg=PA82&lpg=PA82&dq=%22%E6%A8%99%E7%AB%BF%E5%B0%88%E6%A5%AD%E5%AA%92%E9%AB%94%22+-wikipedia&source=bl&ots=lxiW2OL7m5&sig=ACfU3U0CeaSllnyjNpYKN_ILHoFAv85TYg&hl=zh-TW&sa=X&ved=2ahUKEwjFpIHXx9HiAhVoHKYKHemQCeI4FBDoATAJegQICRAB#v=onepage&q=%22%E6%A8%99%E7%AB%BF%E5%B0%88%E6%A5%AD%E5%AA%92%E9%AB%94%22%20-wikipedia&f=false)
 
-·    
-[台灣商會聯合資訊網-全球最大「2016法蘭克福汽配展」落幕，452家台灣廠商盛大展出](http://www.tcoc.org.tw/articles/20160920-c0b891aa)
+·     [台灣商會聯合資訊網-全球最大「2016法蘭克福汽配展」落幕，452家台灣廠商盛大展出](http://www.tcoc.org.tw/articles/20160920-c0b891aa)

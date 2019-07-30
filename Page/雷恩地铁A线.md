@@ -99,8 +99,7 @@ A线的车辆所为"尚特皮"（），位于终点站拉波特里以东。
 
 ## 参考文献
 
-[Category:法国城市轨道交通](https://zh.wikipedia.org/wiki/Category:法国城市轨道交通 "wikilink")
-[Category:法國鐵路](https://zh.wikipedia.org/wiki/Category:法國鐵路 "wikilink")
+[Category:法国城市轨道交通](https://zh.wikipedia.org/wiki/Category:法国城市轨道交通 "wikilink") [Category:法國鐵路](https://zh.wikipedia.org/wiki/Category:法國鐵路 "wikilink")
 
 1.
 2.

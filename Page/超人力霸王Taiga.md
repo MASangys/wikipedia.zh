@@ -1,5 +1,4 @@
-《**超人力霸王TAIGA**》（），為2019年7月6日起於[東京電視台系列頻道每週六上午](../Page/東京電視台.md "wikilink")9:00
-- 9:30（JST），由[圓谷製作所攝製的特攝電視劇](../Page/圓谷製作.md "wikilink")。
+《**超人力霸王大河**》（），為2019年7月6日起於[東京電視台](../Page/東京電視台.md "wikilink")系列頻道每週六上午9:00 - 9:30（JST），由[圓谷製作](../Page/圓谷製作.md "wikilink")所攝製的特攝電視劇。
 
 ## 本作特色
 
@@ -30,8 +29,12 @@
 
   -
     原文：
-    全名為「**E**nterprise of **G**uard and **I**nvestigation
-    **S**ervice」的民間警備組織
+    全名為「**E**nterprise of **G**uard and **I**nvestigation **S**ervice」的民間警備組織
+
+*' Vuiran・Guild*'
+
+  -
+    原文：
 
 ## 用語
 
@@ -57,7 +60,7 @@
 <strong>（）</strong></p></td>
 <td><center>
 <p><a href="https://zh.wikipedia.org/wiki/井上祐貴" title="wikilink">井上祐貴</a></p></td>
-<td><p><strong>超人力霸王TAIGA</strong>、<strong>超人力霸王TITAS</strong>、<strong>超人力霸王FUMA</strong>的人間體，22歲，民間警備組織Ｅ.Ｇ.Ｉ.Ｓ.的成員，也是本作的主角。</p></td>
+<td><p><strong>超人力霸王大河</strong>、<strong>超人力霸王泰塔斯</strong>、<strong>超人力霸王風魔</strong>的人間體，22歲，民間警備組織Ｅ.Ｇ.Ｉ.Ｓ.的成員，也是本作的主角。</p></td>
 </tr>
 <tr class="odd">
 <td><center>
@@ -99,11 +102,15 @@
 </tbody>
 </table>
 
+### 其他角色
+
+**河津（）**（[石坂史朗飾](https://zh.wikipedia.org/wiki/石坂史朗 "wikilink")）
+
 ## 本作登場的超人力霸王
 
-### 超人力霸王TAIGA
+### 超人力霸王TAIGA （台譯：大河，陸譯：泰迦）
 
-人間體：工藤ヒロユキ（替身演員：、聲：寺島拓篤）
+人間體：工藤ヒロユキ（替身演員：岩田榮慶、聲：[寺島拓篤](../Page/寺島拓篤.md "wikilink")）
 
   -
     原文： / *Ultraman Taiga*
@@ -121,7 +128,7 @@
     出生地：M78星雲·光之國
     別名為『光之勇者』的超人力霸王，同時也是超人力霸王太郎之子。
 
-### 超人力霸王TITAS
+### 超人力霸王TITAS （台譯：泰塔斯&泰坦斯，陸譯：泰塔斯）
 
 人間體：工藤ヒロユキ（替身演員：、聲：日野聰）
 
@@ -139,9 +146,9 @@
     握力：9萬6千噸
     必殺技：普拉尼烏姆剋星（プラニウムバスター）
     出生地：U40
-    別名為『力之賢者』的超人力霸王，同時也是超人力霸王喬尼斯的同族。
+    別名為『力之賢者』的超人力霸王，同時也是超人力霸王喬伊尼亞斯的同族。
 
-### 超人力霸王FUMA
+### 超人力霸王FUMA （台譯：風魔&風馬，陸譯：風馬）
 
 人間體：工藤ヒロユキ（替身演員：、聲：葉山翔太）
 
@@ -169,6 +176,84 @@
     原文： / *Ultraman Tregear*
 
 ## 本作登場敵役、怪獸、宇宙人
+
+  -
+<!-- end list -->
+
+  -
+    身高：60公尺　
+    體重：5萬噸
+    登場話數：1
+
+<!-- end list -->
+
+  -
+<!-- end list -->
+
+  -
+    身高：60公分　
+    體重：5公斤
+    登場話數：1
+
+<!-- end list -->
+
+  -
+<!-- end list -->
+
+  -
+    身高：48公尺　
+    體重：2萬噸
+    登場話數：1
+
+<!-- end list -->
+
+  -
+<!-- end list -->
+
+  -
+    身高：57公尺　
+    體重：4萬7千噸
+    登場話數：1
+
+<!-- end list -->
+
+  -
+<!-- end list -->
+
+  -
+    身高：2公尺　
+    體重：75公斤
+    登場話數：1
+
+<!-- end list -->
+
+  -
+<!-- end list -->
+
+  -
+    身高：1.8公尺　
+    體重：85公斤
+    登場話數：1
+
+<!-- end list -->
+
+  -
+<!-- end list -->
+
+  -
+    身高：1.8公尺　
+    體重：150公斤
+    登場話數：1
+
+<!-- end list -->
+
+  -
+<!-- end list -->
+
+  -
+    身高：1.7公尺　
+    體重：75公斤
+    登場話數：1
 
 ## 輔助工具
 
@@ -216,6 +301,16 @@
 </thead>
 <tbody>
 <tr class="odd">
+<td><p>2019/06/22</p></td>
+<td><p>0</p></td>
+<td></td>
+<td><p>超人力霸王Taiga故事</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="even">
 <td><p>2019/07/06</p></td>
 <td><p>1</p></td>
 <td></td>
@@ -225,7 +320,7 @@
 <td><p>市野龍一</p></td>
 <td><p>神谷誠</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2019/07/13</p></td>
 <td><p>2</p></td>
 <td></td>
@@ -235,7 +330,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2019/07/20</p></td>
 <td><p>3</p></td>
 <td></td>
@@ -245,7 +340,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2019/07/27</p></td>
 <td><p>4</p></td>
 <td></td>
@@ -253,6 +348,56 @@
 <td></td>
 <td><p>中野貴雄</p></td>
 <td><p>田口清隆</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019/08/03</p></td>
+<td><p>5</p></td>
+<td></td>
+<td><p>你所決定的未來</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019/08/10</p></td>
+<td><p>6</p></td>
+<td></td>
+<td><p>圓盤不來了</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019/08/17</p></td>
+<td><p>7</p></td>
+<td></td>
+<td><p>向著魔山！！</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019/08/24</p></td>
+<td><p>8</p></td>
+<td></td>
+<td><p>討伐惡魔！</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019/08/31</p></td>
+<td><p>9</p></td>
+<td></td>
+<td><p>各自的現在</p></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -302,11 +447,9 @@
 
 ## 外部連結
 
-  - [《超人力霸王TAIGA》圓谷官方網站](https://m-78.jp/taiga/)
-  - [《超人力霸王TAIGA》東京電視台官方網站](http://ani.tv/taiga/)
+  - [《超人力霸王大河》圓谷官方網站](https://m-78.jp/taiga/)
+  - [《超人力霸王大河》東京電視台官方網站](http://ani.tv/taiga/)
   - [《超人力霸王系列》遊戲機台官網](http://www.dcd-ultraman.com/)
   - [《超人力霸王系列》官方推特](https://twitter.com/ultraman_series)
 
-[Category:超人力霸王系列](https://zh.wikipedia.org/wiki/Category:超人力霸王系列 "wikilink")
-[Category:2019年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2019年開播的日本電視劇集 "wikilink")
-[Category:東京電視台特攝節目](https://zh.wikipedia.org/wiki/Category:東京電視台特攝節目 "wikilink")
+[Category:超人力霸王系列](https://zh.wikipedia.org/wiki/Category:超人力霸王系列 "wikilink") [Category:2019年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2019年開播的日本電視劇集 "wikilink") [Category:東京電視台特攝節目](https://zh.wikipedia.org/wiki/Category:東京電視台特攝節目 "wikilink")

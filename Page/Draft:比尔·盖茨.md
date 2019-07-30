@@ -1,28 +1,18 @@
 **威廉·亨利·盖茨三世**（，\[1\]），通稱**比爾·蓋茨**（），是一名[美國著名](https://zh.wikipedia.org/wiki/美國 "wikilink")[企業家](https://zh.wikipedia.org/wiki/企業家 "wikilink")、[投资者](https://zh.wikipedia.org/wiki/投资者 "wikilink")、[軟件工程師](https://zh.wikipedia.org/wiki/軟件工程師 "wikilink")、[慈善家](https://zh.wikipedia.org/wiki/慈善家 "wikilink")。他與[保羅·艾倫一起創建](https://zh.wikipedia.org/wiki/保羅·艾倫 "wikilink")[微軟公司](https://zh.wikipedia.org/wiki/微軟公司 "wikilink")，曾任微軟[董事長](../Page/董事長.md "wikilink")、[CEO和首席軟件設計師](https://zh.wikipedia.org/wiki/CEO "wikilink")，並持有公司超過8%的[普通股](https://zh.wikipedia.org/wiki/普通股 "wikilink")，也是公司最大的個人股東。\[2\]\[3\]
 
-1995年到2007年的《[福布斯](../Page/福布斯.md "wikilink")》[全球富豪榜中](../Page/全球富豪榜.md "wikilink")，比爾·蓋茨曾經連續13年蟬聯世界首富。2008年6月27日離開微軟公司，並把580億[美元個人財產捐到](../Page/美元.md "wikilink")[比尔及梅琳达·盖茨基金会](../Page/比尔及梅琳达·盖茨基金会.md "wikilink")\[4\]。《[福布斯](../Page/福布斯.md "wikilink")》杂志2014年美国富豪排名，比尔·盖茨以812億美元资产重登榜首。比爾·蓋茨在彭博亿万富翁指数和福布斯2019年億萬富翁排行榜中名列第2位，資產達到1000億美元\[5\]
+1995年到2007年的《[福布斯](../Page/福布斯.md "wikilink")》[全球富豪榜](../Page/全球富豪榜.md "wikilink")中，比爾·蓋茨曾經連續13年蟬聯世界首富。2008年6月27日離開微軟公司，並把580億[美元](../Page/美元.md "wikilink")個人財產捐到[比尔及梅琳达·盖茨基金会](../Page/比尔及梅琳达·盖茨基金会.md "wikilink")\[4\]。《[福布斯](../Page/福布斯.md "wikilink")》杂志2014年美国富豪排名，比尔·盖茨以812億美元资产重登榜首。比爾·蓋茨在彭博亿万富翁指数和福布斯2019年億萬富翁排行榜中名列第2位，資產達到1000億美元\[5\]
 
-盖茨在2000年1月辞去微软首席执行官。他仍然担任董事长，并为自己创立一个新职位「首席软体架构师」（Chief Software
-Architect）。2006年6月，盖茨宣布，他将在微软的全职工作转变为兼职工作，他渐渐的转移他的职责。他于2014年2月辞去微软的董事长，同时仍作为技术顾问，協助新任命的首席执行官[萨帝亚·纳德拉](https://zh.wikipedia.org/wiki/萨帝亚·纳德拉 "wikilink")。
+盖茨在2000年1月辞去微软首席执行官。他仍然担任董事长，并为自己创立一个新职位「首席软体架构师」（Chief Software Architect）。2006年6月，盖茨宣布，他将在微软的全职工作转变为兼职工作，他渐渐的转移他的职责。他于2014年2月辞去微软的董事长，同时仍作为技术顾问，協助新任命的首席执行官[萨帝亚·纳德拉](https://zh.wikipedia.org/wiki/萨帝亚·纳德拉 "wikilink")。
 
 2017年11月当选为[中国工程院外籍院士](https://zh.wikipedia.org/wiki/中国工程院外籍院士 "wikilink")\[6\]。
 
 ## 早年生活
 
-[Bill_Gates_mugshot.png](https://zh.wikipedia.org/wiki/File:Bill_Gates_mugshot.png "fig:Bill_Gates_mugshot.png")[新墨西哥州](../Page/新墨西哥州.md "wikilink")[阿布奎基](../Page/阿布奎基_\(新墨西哥州\).md "wikilink")，盖茨因交通违规，在警局被拍留有案底的照片。该照片的轮廓为[Microsoft
-Outlook](../Page/Microsoft_Outlook.md "wikilink") 2010的联系人默认头像\[7\]\]\]
-1955年10月28日，比爾·蓋茨出生於華盛頓州西雅圖的一個家庭，父親[老威廉·H·盖茨](../Page/老威廉·H·盖茨.md "wikilink")（William
-Henry Gates,
-Sr.）是當地的著名[律師](../Page/律師.md "wikilink")，他過世的母親[瑪麗·馬克斯韋爾·蓋茨是银行系统董事](../Page/瑪麗·馬克斯韋爾·蓋茨.md "wikilink")，他的外祖父[J·W·马克斯韦尔](https://zh.wikipedia.org/wiki/J·W·马克斯韦尔 "wikilink")（J.
-W.
-Maxwell）曾任国家银行行长\[8\]。比尔和兩個姊妹一塊長大，曾就讀於西雅圖的公立小學和私立的[湖濱中學](https://zh.wikipedia.org/wiki/湖濱中學 "wikilink")，在湖濱中學蓋茨認識了保羅艾倫，比爾·蓋茨是一名出色的學生，在他13歲时候就開始了電腦[程式設計](https://zh.wikipedia.org/wiki/程式設計 "wikilink")\[9\]，而且以[个人自由和维护自己的](https://zh.wikipedia.org/wiki/个人自由 "wikilink")[知识产权而聞名](../Page/知识产权.md "wikilink")。
+[Bill_Gates_mugshot.png](https://zh.wikipedia.org/wiki/File:Bill_Gates_mugshot.png "fig:Bill_Gates_mugshot.png")[新墨西哥州](../Page/新墨西哥州.md "wikilink")[阿布奎基](../Page/阿布奎基_\(新墨西哥州\).md "wikilink")，盖茨因交通违规，在警局被拍留有案底的照片。该照片的轮廓为[Microsoft Outlook](../Page/Microsoft_Outlook.md "wikilink") 2010的联系人默认头像\[7\]\]\] 1955年10月28日，比爾·蓋茨出生於華盛頓州西雅圖的一個家庭，父親[老威廉·H·盖茨](../Page/老威廉·H·盖茨.md "wikilink")（William Henry Gates, Sr.）是當地的著名[律師](../Page/律師.md "wikilink")，他過世的母親[瑪麗·馬克斯韋爾·蓋茨](../Page/瑪麗·馬克斯韋爾·蓋茨.md "wikilink")是银行系统董事，他的外祖父[J·W·马克斯韦尔](https://zh.wikipedia.org/wiki/J·W·马克斯韦尔 "wikilink")（J. W. Maxwell）曾任国家银行行长\[8\]。比尔和兩個姊妹一塊長大，曾就讀於西雅圖的公立小學和私立的[湖濱中學](https://zh.wikipedia.org/wiki/湖濱中學 "wikilink")，在湖濱中學蓋茨認識了保羅艾倫，比爾·蓋茨是一名出色的學生，在他13歲时候就開始了電腦[程式設計](https://zh.wikipedia.org/wiki/程式設計 "wikilink")\[9\]，而且以[个人自由和维护自己的](https://zh.wikipedia.org/wiki/个人自由 "wikilink")[知识产权](../Page/知识产权.md "wikilink")而聞名。
 
-[Poker_Room.jpg](https://zh.wikipedia.org/wiki/File:Poker_Room.jpg "fig:Poker_Room.jpg")宿舍楼的扑克室是比爾·蓋茨與夥伴保羅·艾倫創建微軟公司的地方。\]\]
-在1973年，盖茨进入[哈佛大学成为了一名新生](../Page/哈佛大学.md "wikilink")。他在前任的微软首席执行官[史蒂夫·巴爾默家的大厅住了下来](../Page/史蒂夫·巴爾默.md "wikilink")。在哈佛期间，盖茨开发了一个编程语言版本，并為第一家微型计算机公司
-- MITS - 的Altair牛郎星8800 - 设计了BASIC解譯器。
+[Poker_Room.jpg](https://zh.wikipedia.org/wiki/File:Poker_Room.jpg "fig:Poker_Room.jpg")宿舍楼的扑克室是比爾·蓋茨與夥伴保羅·艾倫創建微軟公司的地方。\]\] 在1973年，盖茨进入[哈佛大学](../Page/哈佛大学.md "wikilink")成为了一名新生。他在前任的微软首席执行官[史蒂夫·巴爾默](../Page/史蒂夫·巴爾默.md "wikilink")家的大厅住了下来。在哈佛期间，盖茨开发了一个编程语言版本，并為第一家微型计算机公司 - MITS - 的Altair牛郎星8800 - 设计了BASIC解譯器。
 
-在大三那年，盖茨离开了哈佛，他将全部精力投入到了微软。他于1975年与保羅
-一起创立了微软公司。盖茨认为電腦将会是一个宝贵的工具，它们将出现在每个办公室、每一个家庭的桌面上，在这样的理念之下。他们开始为个人電腦开发软件。盖茨本人对于電腦领域的先见之明是微软及其软件产业成功的关键。
+在大三那年，盖茨离开了哈佛，他将全部精力投入到了微软。他于1975年与保羅 一起创立了微软公司。盖茨认为電腦将会是一个宝贵的工具，它们将出现在每个办公室、每一个家庭的桌面上，在这样的理念之下。他们开始为个人電腦开发软件。盖茨本人对于電腦领域的先见之明是微软及其软件产业成功的关键。
 
 在盖茨的领导下，微软不斷追求發展和改善電腦软件的技术，使之更容易操作，更具成本效益和令使用电脑的人更感方便。
 
@@ -30,50 +20,33 @@ Maxwell）曾任国家银行行长\[8\]。比尔和兩個姊妹一塊長大，�
 
 ### BASIC语言
 
-[Altair_8800_Computer.jpg](https://zh.wikipedia.org/wiki/File:Altair_8800_Computer.jpg "fig:Altair_8800_Computer.jpg")
-在1970年代，還在[哈佛大學讀書的蓋茨與夥伴保羅](https://zh.wikipedia.org/wiki/哈佛大學 "wikilink")·艾倫一起為[Altair
-8800電腦設計](../Page/Altair_8800.md "wikilink")[Altair
-BASIC解譯器](https://zh.wikipedia.org/wiki/Altair_BASIC "wikilink")。Altair是第一台商業上獲得成功的個人電腦，而[BASIC語言是一種易用易學的](../Page/BASIC.md "wikilink")[電腦程式設計語言](https://zh.wikipedia.org/wiki/程式設計語言 "wikilink")，蓋茨與艾倫所開發的[BASIC版本就是後來的](../Page/BASIC.md "wikilink")[Microsoft
-BASIC](https://zh.wikipedia.org/wiki/Microsoft_BASIC "wikilink")，也是[MS-DOS作業系統的基礎](../Page/MS-DOS.md "wikilink")，而後者又是[微軟公司早期成功的關鍵](https://zh.wikipedia.org/wiki/微軟公司 "wikilink")。Microsoft
-Basic後來成了[Microsoft
-QuickBASIC](https://zh.wikipedia.org/wiki/Microsoft_QuickBASIC "wikilink")，並逐漸演變成為今天依然流行的[Visual
-Basic](../Page/Visual_Basic.md "wikilink")。
+[Altair_8800_Computer.jpg](https://zh.wikipedia.org/wiki/File:Altair_8800_Computer.jpg "fig:Altair_8800_Computer.jpg") 在1970年代，還在[哈佛大學讀書的蓋茨與夥伴保羅](https://zh.wikipedia.org/wiki/哈佛大學 "wikilink")·艾倫一起為[Altair 8800電腦設計](../Page/Altair_8800.md "wikilink")[Altair BASIC解譯器](https://zh.wikipedia.org/wiki/Altair_BASIC "wikilink")。Altair是第一台商業上獲得成功的個人電腦，而[BASIC](../Page/BASIC.md "wikilink")語言是一種易用易學的[電腦程式設計語言](https://zh.wikipedia.org/wiki/程式設計語言 "wikilink")，蓋茨與艾倫所開發的[BASIC](../Page/BASIC.md "wikilink")版本就是後來的[Microsoft BASIC](https://zh.wikipedia.org/wiki/Microsoft_BASIC "wikilink")，也是[MS-DOS](../Page/MS-DOS.md "wikilink")作業系統的基礎，而後者又是[微軟公司早期成功的關鍵](https://zh.wikipedia.org/wiki/微軟公司 "wikilink")。Microsoft Basic後來成了[Microsoft QuickBASIC](https://zh.wikipedia.org/wiki/Microsoft_QuickBASIC "wikilink")，並逐漸演變成為今天依然流行的[Visual Basic](../Page/Visual_Basic.md "wikilink")。
 
-在1970年代早期，比爾·蓋茨寫了一封著名的《[致愛好者的公開信](https://zh.wikipedia.org/wiki/致愛好者的公開信 "wikilink")》，震驚了資訊界。比爾·蓋茨在公開信中說：「有誰會在沒有任何報酬的情況下來做這些專業的工作？什麼樣的愛好者可以為他的產品投入三年的開發時間，並且發現所有的錯誤、編寫文件以及免費發佈這個產品？」比爾·蓋茨宣稱電腦軟體將會是一個龐大的商業市場，資訊愛好者不應該在未獲得原作者同意的情況下隨意複製電腦程式。但是當時的資訊界受到[黑客文化影響](../Page/黑客.md "wikilink")，認為創意與知識應該共享。比爾·蓋茨隨後離開校園，一手創辦了世界上最成功的企業——[微軟公司](https://zh.wikipedia.org/wiki/微軟公司 "wikilink")，並逐漸將軟體產業化。
+在1970年代早期，比爾·蓋茨寫了一封著名的《[致愛好者的公開信](https://zh.wikipedia.org/wiki/致愛好者的公開信 "wikilink")》，震驚了資訊界。比爾·蓋茨在公開信中說：「有誰會在沒有任何報酬的情況下來做這些專業的工作？什麼樣的愛好者可以為他的產品投入三年的開發時間，並且發現所有的錯誤、編寫文件以及免費發佈這個產品？」比爾·蓋茨宣稱電腦軟體將會是一個龐大的商業市場，資訊愛好者不應該在未獲得原作者同意的情況下隨意複製電腦程式。但是當時的資訊界受到[黑客](../Page/黑客.md "wikilink")文化影響，認為創意與知識應該共享。比爾·蓋茨隨後離開校園，一手創辦了世界上最成功的企業——[微軟公司](https://zh.wikipedia.org/wiki/微軟公司 "wikilink")，並逐漸將軟體產業化。
 
 ### 与IBM合作
 
-但是比爾·蓋茨的商業手法往往招至非議，其中之一就是[MS-DOS的來源](../Page/MS-DOS.md "wikilink")。在1970年代末，[IBM正在計劃進入](../Page/IBM.md "wikilink")[個人電腦市場](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")，並在1981年正式推出了IBM個人電腦。IBM需要為自己的產品尋找基於[英特爾x](https://zh.wikipedia.org/wiki/英特爾 "wikilink")86系列[處理器的合適](https://zh.wikipedia.org/wiki/處理器 "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")。IBM在與另一家公司簡短談判後找到了[微軟](https://zh.wikipedia.org/wiki/微軟 "wikilink")，據稱微軟在手上沒有任何籌碼即提出DOS一詞。而微軟則又在未告知自己正在與IBM談判的情況下，靠關係找到了[西雅圖電腦公司](https://zh.wikipedia.org/wiki/西雅圖電腦公司 "wikilink")，以據說是5萬[美元的價格向該公司購買他們所開發的作業系統](../Page/美元.md "wikilink")（微軟的支持者稱，當時微軟與IBM有協議，規定微軟不得向外界透露談判事宜）。微軟將該軟體更名為[PC-DOS](../Page/PC-DOS.md "wikilink")，再授權IBM使用該作業系統。微軟還與其他電腦生產商談判，將經過更改後的[MS-DOS系統安裝到每一台新電腦上](../Page/MS-DOS.md "wikilink")。事後西雅圖電腦控告微軟在未告知事實的情況下以極低的價格購買該公司的產品，但是雙方最終達成庭外和解。
+但是比爾·蓋茨的商業手法往往招至非議，其中之一就是[MS-DOS](../Page/MS-DOS.md "wikilink")的來源。在1970年代末，[IBM](../Page/IBM.md "wikilink")正在計劃進入[個人電腦市場](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")，並在1981年正式推出了IBM個人電腦。IBM需要為自己的產品尋找基於[英特爾x](https://zh.wikipedia.org/wiki/英特爾 "wikilink")86系列[處理器的合適](https://zh.wikipedia.org/wiki/處理器 "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")。IBM在與另一家公司簡短談判後找到了[微軟](https://zh.wikipedia.org/wiki/微軟 "wikilink")，據稱微軟在手上沒有任何籌碼即提出DOS一詞。而微軟則又在未告知自己正在與IBM談判的情況下，靠關係找到了[西雅圖電腦公司](https://zh.wikipedia.org/wiki/西雅圖電腦公司 "wikilink")，以據說是5萬[美元](../Page/美元.md "wikilink")的價格向該公司購買他們所開發的作業系統（微軟的支持者稱，當時微軟與IBM有協議，規定微軟不得向外界透露談判事宜）。微軟將該軟體更名為[PC-DOS](../Page/PC-DOS.md "wikilink")，再授權IBM使用該作業系統。微軟還與其他電腦生產商談判，將經過更改後的[MS-DOS](../Page/MS-DOS.md "wikilink")系統安裝到每一台新電腦上。事後西雅圖電腦控告微軟在未告知事實的情況下以極低的價格購買該公司的產品，但是雙方最終達成庭外和解。
 
-1980年代中期比爾·蓋茨對[光碟作為](../Page/光碟.md "wikilink")[数据储存媒介的前景感到樂觀](https://zh.wikipedia.org/wiki/数据储存 "wikilink")，因此積極推廣[CD-ROM](../Page/CD-ROM.md "wikilink")。
+1980年代中期比爾·蓋茨對[光碟](../Page/光碟.md "wikilink")作為[数据储存媒介的前景感到樂觀](https://zh.wikipedia.org/wiki/数据储存 "wikilink")，因此積極推廣[CD-ROM](../Page/CD-ROM.md "wikilink")。
 
 ### Windows操作系统
 
-微軟發佈[Windows
-1.0時](../Page/Windows_1.0.md "wikilink")，[蘋果電腦認為與其產品有相似的](https://zh.wikipedia.org/wiki/蘋果電腦 "wikilink")[GUI](https://zh.wikipedia.org/wiki/GUI "wikilink")。結果兩者達成一項許可，給微軟使用和再許可Windows
-1.0衍生作品的權利。後來微軟發佈了[Windows
-2.03和](https://zh.wikipedia.org/wiki/Windows_2.03 "wikilink")[Windows
-3.0](https://zh.wikipedia.org/wiki/Windows_3.0 "wikilink")，蘋果電腦認為這些版本超出了那項許可，侵犯了它的[版權](https://zh.wikipedia.org/wiki/版權 "wikilink")，於是提起訴訟。地區法院裁決因缺乏實際一致性（virtual
-identity）而不構成侵權。蘋果的上訴被第九巡迴上訴庭駁回。\[10\]
+微軟發佈[Windows 1.0時](../Page/Windows_1.0.md "wikilink")，[蘋果電腦認為與其產品有相似的](https://zh.wikipedia.org/wiki/蘋果電腦 "wikilink")[GUI](https://zh.wikipedia.org/wiki/GUI "wikilink")。結果兩者達成一項許可，給微軟使用和再許可Windows 1.0衍生作品的權利。後來微軟發佈了[Windows 2.03和](https://zh.wikipedia.org/wiki/Windows_2.03 "wikilink")[Windows 3.0](https://zh.wikipedia.org/wiki/Windows_3.0 "wikilink")，蘋果電腦認為這些版本超出了那項許可，侵犯了它的[版權](https://zh.wikipedia.org/wiki/版權 "wikilink")，於是提起訴訟。地區法院裁決因缺乏實際一致性（virtual identity）而不構成侵權。蘋果的上訴被第九巡迴上訴庭駁回。\[10\]
 
 ### 反垄断诉讼
 
-[Bill_Gates_-_United_States_v._Microsoft.jpg](https://zh.wikipedia.org/wiki/File:Bill_Gates_-_United_States_v._Microsoft.jpg "fig:Bill_Gates_-_United_States_v._Microsoft.jpg")
-
-比爾·蓋茨的聲譽因1990年代末美國政府一系列控告微軟壟斷的案件而再度受損。蓋茨也被指控商業行為不檢點。比爾·蓋茨多次被控告，在他的領導下，微軟公司的很多商業行為違反了美國的法律。
+[Bill_Gates_-_United_States_v._Microsoft.jpg](https://zh.wikipedia.org/wiki/File:Bill_Gates_-_United_States_v._Microsoft.jpg "fig:Bill_Gates_-_United_States_v._Microsoft.jpg")  比爾·蓋茨的聲譽因1990年代末美國政府一系列控告微軟壟斷的案件而再度受損。蓋茨也被指控商業行為不檢點。比爾·蓋茨多次被控告，在他的領導下，微軟公司的很多商業行為違反了美國的法律。
 
 ### 管理风格
 
-2000年1月13日，[史蒂夫·巴爾默成為微軟](../Page/史蒂夫·巴爾默.md "wikilink")[首席執行官](https://zh.wikipedia.org/wiki/首席執行官 "wikilink")，而蓋茨為自己創立一個新角色「首席软件架构师」（Chief
-Software Architect）。\[11\]
+2000年1月13日，[史蒂夫·巴爾默](../Page/史蒂夫·巴爾默.md "wikilink")成為微軟[首席執行官](https://zh.wikipedia.org/wiki/首席執行官 "wikilink")，而蓋茨為自己創立一個新角色「首席软件架构师」（Chief Software Architect）。\[11\]
 
-[Bill_Gates_-_World_Economic_Forum_Annual_Meeting_Davos_2008.jpg](https://zh.wikipedia.org/wiki/File:Bill_Gates_-_World_Economic_Forum_Annual_Meeting_Davos_2008.jpg "fig:Bill_Gates_-_World_Economic_Forum_Annual_Meeting_Davos_2008.jpg")
-2008年6月27日，比爾·蓋茨完全退出管理層讓首席執行官[史蒂夫·巴爾默全權控制微軟](../Page/史蒂夫·巴爾默.md "wikilink")。
+[Bill_Gates_-_World_Economic_Forum_Annual_Meeting_Davos_2008.jpg](https://zh.wikipedia.org/wiki/File:Bill_Gates_-_World_Economic_Forum_Annual_Meeting_Davos_2008.jpg "fig:Bill_Gates_-_World_Economic_Forum_Annual_Meeting_Davos_2008.jpg") 2008年6月27日，比爾·蓋茨完全退出管理層讓首席執行官[史蒂夫·巴爾默](../Page/史蒂夫·巴爾默.md "wikilink")全權控制微軟。
 
 ## 个人生活
 
-[Bill_og_Melinda_Gates_2009-06-03_(bilde_01).JPG](https://zh.wikipedia.org/wiki/File:Bill_og_Melinda_Gates_2009-06-03_\(bilde_01\).JPG "fig:Bill_og_Melinda_Gates_2009-06-03_(bilde_01).JPG")\]\]
-在私生活方面，比爾·蓋茨在1994年1月1日與[梅琳達·法蘭奇結婚](https://zh.wikipedia.org/wiki/梅琳達·法蘭奇 "wikilink")。他們育有三名孩子：珍尼佛·凱瑟林·蓋茨（1996年）、羅理·約翰·蓋茨（1999年）和菲比·阿黛爾·蓋茨（2002年）。
+[Bill_og_Melinda_Gates_2009-06-03_(bilde_01).JPG](https://zh.wikipedia.org/wiki/File:Bill_og_Melinda_Gates_2009-06-03_\(bilde_01\).JPG "fig:Bill_og_Melinda_Gates_2009-06-03_(bilde_01).JPG")\]\] 在私生活方面，比爾·蓋茨在1994年1月1日與[梅琳達·法蘭奇結婚](https://zh.wikipedia.org/wiki/梅琳達·法蘭奇 "wikilink")。他們育有三名孩子：珍尼佛·凱瑟林·蓋茨（1996年）、羅理·約翰·蓋茨（1999年）和菲比·阿黛爾·蓋茨（2002年）。
 
 ## 財產價值估計
 
@@ -103,19 +76,14 @@ Software Architect）。\[11\]
 
 美國加州漢普頓溪食品公司研發出混合12種植物而成的「人造蛋」，吃起來和雞蛋一樣，希望讓人們吃得更健康；比爾蓋茲、亞洲首富李嘉誠等富豪均看好市場潛力，對該公司共投資2300萬美元。比爾蓋茲除了掏錢投資該公司，還親自擔任該公司顧問，在矽谷大力推廣人造蛋，「我們可在人造蛋裡添加開發中國家飲食缺乏的營養素，解決人民營養不良的問題」\[14\]。
 
-蓋茲是中國[一帶一路計畫的明確支持者](https://zh.wikipedia.org/wiki/一帶一路 "wikilink")，至2017年止至少七次前往中國大陸。他認為，歐美很多民眾因為經濟競爭落敗而產生「向內看」的心態對世界是危險的，一帶一路戰略讓多國紛紛加入、是中國走出去幫助其他國家，「中國做出很好的表率」；他並佩服[中共總書記](https://zh.wikipedia.org/wiki/中共總書記 "wikilink")[習近平的國內脫貧戰略](https://zh.wikipedia.org/wiki/習近平 "wikilink")，而全球的脫貧進展能造成世界更穩定和每個人更大利益\[15\]。他的「蓋茲基金會」正在和[中國商務部](https://zh.wikipedia.org/wiki/中華人民共和國商務部 "wikilink")、[農業部合作推進非洲農業的](https://zh.wikipedia.org/wiki/中華人民共和國農業部 "wikilink")[可持續發展](https://zh.wikipedia.org/wiki/可持續發展 "wikilink")，同時認同中方以[核能發電解決](https://zh.wikipedia.org/wiki/核能發電 "wikilink")[全球暖化的策略是最務實可行](https://zh.wikipedia.org/wiki/全球暖化 "wikilink")、與他長期觀點相同，他旗下[泰拉能源將與](../Page/泰拉能源.md "wikilink")[中國核工業集團探討](https://zh.wikipedia.org/wiki/中國核工業集團 "wikilink")[第四代反應爐的](https://zh.wikipedia.org/wiki/第四代反應爐 "wikilink")[行波反應爐建設](https://zh.wikipedia.org/wiki/行波反應爐 "wikilink")\[16\]。
+蓋茲是中國[一帶一路計畫的明確支持者](https://zh.wikipedia.org/wiki/一帶一路 "wikilink")，至2017年止至少七次前往中國大陸。他認為，歐美很多民眾因為經濟競爭落敗而產生「向內看」的心態對世界是危險的，一帶一路戰略讓多國紛紛加入、是中國走出去幫助其他國家，「中國做出很好的表率」；他並佩服[中共總書記](https://zh.wikipedia.org/wiki/中共總書記 "wikilink")[習近平的國內脫貧戰略](https://zh.wikipedia.org/wiki/習近平 "wikilink")，而全球的脫貧進展能造成世界更穩定和每個人更大利益\[15\]。他的「蓋茲基金會」正在和[中國商務部](https://zh.wikipedia.org/wiki/中華人民共和國商務部 "wikilink")、[農業部合作推進非洲農業的](https://zh.wikipedia.org/wiki/中華人民共和國農業部 "wikilink")[可持續發展](https://zh.wikipedia.org/wiki/可持續發展 "wikilink")，同時認同中方以[核能發電解決](https://zh.wikipedia.org/wiki/核能發電 "wikilink")[全球暖化的策略是最務實可行](https://zh.wikipedia.org/wiki/全球暖化 "wikilink")、與他長期觀點相同，他旗下[泰拉能源](../Page/泰拉能源.md "wikilink")將與[中國核工業集團探討](https://zh.wikipedia.org/wiki/中國核工業集團 "wikilink")[第四代反應爐的](https://zh.wikipedia.org/wiki/第四代反應爐 "wikilink")[行波反應爐建設](https://zh.wikipedia.org/wiki/行波反應爐 "wikilink")\[16\]。
 
 ## 著作
 
 比爾·蓋茨寫了幾本書，其中1995年出版的《未來之路》一書曾連續七周名列[紐約時報暢銷書排行榜榜首](https://zh.wikipedia.org/wiki/紐約時報暢銷書排行榜 "wikilink")。\[17\]
 
-  - 《[未來之路](../Page/未來之路.md "wikilink")》（The Road
-    Ahead），於1995年11月，與微軟執行官[Nathan
-    Myhrvold和記者](https://zh.wikipedia.org/wiki/Nathan_Myhrvold "wikilink")[Peter
-    Rinearson一起出版](https://zh.wikipedia.org/wiki/Peter_Rinearson "wikilink")。它總結了個人計算革命的含義，並描述了全球[信息高速公路的到來深刻改變的未來](https://zh.wikipedia.org/wiki/信息高速公路 "wikilink")。
-  - 《[未來時速](https://zh.wikipedia.org/wiki/未來時速 "wikilink")》（Business @
-    the Speed of
-    Thought），於1999年出版，討論了業務和技術的集成方式，並展示了數字基礎設施和信息網絡如何幫助在競爭中獲得優勢。
+  - 《[未來之路](../Page/未來之路.md "wikilink")》（The Road Ahead），於1995年11月，與微軟執行官[Nathan Myhrvold和記者](https://zh.wikipedia.org/wiki/Nathan_Myhrvold "wikilink")[Peter Rinearson一起出版](https://zh.wikipedia.org/wiki/Peter_Rinearson "wikilink")。它總結了個人計算革命的含義，並描述了全球[信息高速公路的到來深刻改變的未來](https://zh.wikipedia.org/wiki/信息高速公路 "wikilink")。
+  - 《[未來時速](https://zh.wikipedia.org/wiki/未來時速 "wikilink")》（Business @ the Speed of Thought），於1999年出版，討論了業務和技術的集成方式，並展示了數字基礎設施和信息網絡如何幫助在競爭中獲得優勢。
 
 ## 相关电影
 
@@ -129,8 +97,7 @@ Software Architect）。\[11\]
 
   - [The Gates Notes：比尔·盖茨官方网站](http://www.thegatesnotes.com/)
 
-  - [Bill Gates money counter
-    比尔盖茨财富统计](http://live-counter.com/bill-gates-money-cn/)
+  - [Bill Gates money counter 比尔盖茨财富统计](http://live-counter.com/bill-gates-money-cn/)
 
   - [微軟公司对比尔·盖茨的简介](http://www.microsoft.com/presspass/exec/billg/)
 
@@ -146,42 +113,11 @@ Software Architect）。\[11\]
 
 {{-}}
 
-[Category:比尔·盖茨](https://zh.wikipedia.org/wiki/Category:比尔·盖茨 "wikilink")
-[Category:微软雇员](https://zh.wikipedia.org/wiki/Category:微软雇员 "wikilink")
-[Category:KBE勳銜](https://zh.wikipedia.org/wiki/Category:KBE勳銜 "wikilink")
-[Category:美国的世界之最](https://zh.wikipedia.org/wiki/Category:美国的世界之最 "wikilink")
-[Category:美国程序员](https://zh.wikipedia.org/wiki/Category:美国程序员 "wikilink")
-[Category:计算机历史](https://zh.wikipedia.org/wiki/Category:计算机历史 "wikilink")
-[Category:美國慈善家](https://zh.wikipedia.org/wiki/Category:美國慈善家 "wikilink")
-[Category:美國企業家](https://zh.wikipedia.org/wiki/Category:美國企業家 "wikilink")
-[Category:美国人道主义者](https://zh.wikipedia.org/wiki/Category:美国人道主义者 "wikilink")
-[Category:美國億萬富豪](https://zh.wikipedia.org/wiki/Category:美國億萬富豪 "wikilink")
-[Category:美国发明家](https://zh.wikipedia.org/wiki/Category:美国发明家 "wikilink")
-[Category:美國金融家](https://zh.wikipedia.org/wiki/Category:美國金融家 "wikilink")
-[Category:西雅圖人](https://zh.wikipedia.org/wiki/Category:西雅圖人 "wikilink")
-[Category:時代年度風雲人物](https://zh.wikipedia.org/wiki/Category:時代年度風雲人物 "wikilink")
-[Category:TED演讲人](https://zh.wikipedia.org/wiki/Category:TED演讲人 "wikilink")
-[Category:左撇子](https://zh.wikipedia.org/wiki/Category:左撇子 "wikilink")
-[Category:时代百大人物](https://zh.wikipedia.org/wiki/Category:时代百大人物 "wikilink")
-[Category:英格蘭裔美國人](https://zh.wikipedia.org/wiki/Category:英格蘭裔美國人 "wikilink")
-[Category:哈佛大學校友](https://zh.wikipedia.org/wiki/Category:哈佛大學校友 "wikilink")
-[Category:哈佛大學榮譽博士](https://zh.wikipedia.org/wiki/Category:哈佛大學榮譽博士 "wikilink")
-[Category:劍橋大學榮譽博士](https://zh.wikipedia.org/wiki/Category:劍橋大學榮譽博士 "wikilink")
-[Category:早稻田大學榮譽博士](https://zh.wikipedia.org/wiki/Category:早稻田大學榮譽博士 "wikilink")
-[Category:清华大学名誉博士](https://zh.wikipedia.org/wiki/Category:清华大学名誉博士 "wikilink")
-[Category:苏格兰－爱尔兰裔美国人](https://zh.wikipedia.org/wiki/Category:苏格兰－爱尔兰裔美国人 "wikilink")
-[Category:Windows人物](https://zh.wikipedia.org/wiki/Category:Windows人物 "wikilink")
-[Category:總統自由勳章獲得者](https://zh.wikipedia.org/wiki/Category:總統自由勳章獲得者 "wikilink")
-[Category:中國工程院外籍院士](https://zh.wikipedia.org/wiki/Category:中國工程院外籍院士 "wikilink")
-[Category:鲍尔商业领导力奖获得者](https://zh.wikipedia.org/wiki/Category:鲍尔商业领导力奖获得者 "wikilink")
-[Category:中國人民的老朋友](https://zh.wikipedia.org/wiki/Category:中國人民的老朋友 "wikilink")
+[Category:比尔·盖茨](https://zh.wikipedia.org/wiki/Category:比尔·盖茨 "wikilink") [Category:微软雇员](https://zh.wikipedia.org/wiki/Category:微软雇员 "wikilink") [Category:KBE勳銜](https://zh.wikipedia.org/wiki/Category:KBE勳銜 "wikilink") [Category:美国的世界之最](https://zh.wikipedia.org/wiki/Category:美国的世界之最 "wikilink") [Category:美国程序员](https://zh.wikipedia.org/wiki/Category:美国程序员 "wikilink") [Category:计算机历史](https://zh.wikipedia.org/wiki/Category:计算机历史 "wikilink") [Category:美國慈善家](https://zh.wikipedia.org/wiki/Category:美國慈善家 "wikilink") [Category:美國企業家](https://zh.wikipedia.org/wiki/Category:美國企業家 "wikilink") [Category:美国人道主义者](https://zh.wikipedia.org/wiki/Category:美国人道主义者 "wikilink") [Category:美國億萬富豪](https://zh.wikipedia.org/wiki/Category:美國億萬富豪 "wikilink") [Category:美国发明家](https://zh.wikipedia.org/wiki/Category:美国发明家 "wikilink") [Category:美國金融家](https://zh.wikipedia.org/wiki/Category:美國金融家 "wikilink") [Category:西雅圖人](https://zh.wikipedia.org/wiki/Category:西雅圖人 "wikilink") [Category:時代年度風雲人物](https://zh.wikipedia.org/wiki/Category:時代年度風雲人物 "wikilink") [Category:TED演讲人](https://zh.wikipedia.org/wiki/Category:TED演讲人 "wikilink") [Category:左撇子](https://zh.wikipedia.org/wiki/Category:左撇子 "wikilink") [Category:时代百大人物](https://zh.wikipedia.org/wiki/Category:时代百大人物 "wikilink") [Category:英格蘭裔美國人](https://zh.wikipedia.org/wiki/Category:英格蘭裔美國人 "wikilink") [Category:哈佛大學校友](https://zh.wikipedia.org/wiki/Category:哈佛大學校友 "wikilink") [Category:哈佛大學榮譽博士](https://zh.wikipedia.org/wiki/Category:哈佛大學榮譽博士 "wikilink") [Category:劍橋大學榮譽博士](https://zh.wikipedia.org/wiki/Category:劍橋大學榮譽博士 "wikilink") [Category:早稻田大學榮譽博士](https://zh.wikipedia.org/wiki/Category:早稻田大學榮譽博士 "wikilink") [Category:清华大学名誉博士](https://zh.wikipedia.org/wiki/Category:清华大学名誉博士 "wikilink") [Category:苏格兰－爱尔兰裔美国人](https://zh.wikipedia.org/wiki/Category:苏格兰－爱尔兰裔美国人 "wikilink") [Category:Windows人物](https://zh.wikipedia.org/wiki/Category:Windows人物 "wikilink") [Category:總統自由勳章獲得者](https://zh.wikipedia.org/wiki/Category:總統自由勳章獲得者 "wikilink") [Category:中國工程院外籍院士](https://zh.wikipedia.org/wiki/Category:中國工程院外籍院士 "wikilink") [Category:鲍尔商业领导力奖获得者](https://zh.wikipedia.org/wiki/Category:鲍尔商业领导力奖获得者 "wikilink") [Category:中國人民的老朋友](https://zh.wikipedia.org/wiki/Category:中國人民的老朋友 "wikilink")
 
-1.  Bill Gates: Chairman, Microsoft Corp.
-    <http://www.microsoft.com/presspass/exec/billg/bio.mspx>
+1.  Bill Gates: Chairman, Microsoft Corp. <http://www.microsoft.com/presspass/exec/billg/bio.mspx>
 
-2.  [Microsoft 2006 Proxy
-    Statement](http://www.microsoft.com/msft/reports/proxy2006.mspx).
-    2006-10-06.
+2.  [Microsoft 2006 Proxy Statement](http://www.microsoft.com/msft/reports/proxy2006.mspx). 2006-10-06.
 
 3.  <http://finance.ifeng.com/a/20140619/12572191_0.shtml>
 
@@ -195,15 +131,11 @@ Software Architect）。\[11\]
 
 8.  ["玛丽盖茨于1994年6月10日去世"](http://www.historylink.org/index.cfm?DisplayPage=output.cfm&file_id=2296)(英文)
 
-9.  [微軟公司主席和首席軟體設計師](http://www.microsoft.com/china/billgates/)，Microsoft
-    Corporation
+9.  [微軟公司主席和首席軟體設計師](http://www.microsoft.com/china/billgates/)，Microsoft Corporation
 
-10. [Apple Computer, Inc. v. Microsoft
-    Corporation](http://home.earthlink.net/~mjohnsen/Technology/Lawsuits/appvsms.html)，美國第九巡迴上訴庭，1994。
+10. [Apple Computer, Inc. v. Microsoft Corporation](http://home.earthlink.net/~mjohnsen/Technology/Lawsuits/appvsms.html)，美國第九巡迴上訴庭，1994。
 
-11. [Key Events In Microsoft
-    History](http://www.microsoft.com/downloads/details.aspx?familyid=7c3aa43e-d11c-48a4-878d-191dbeb87cba)，Microsoft
-    Corporation，DOC格式。
+11. [Key Events In Microsoft History](http://www.microsoft.com/downloads/details.aspx?familyid=7c3aa43e-d11c-48a4-878d-191dbeb87cba)，Microsoft Corporation，DOC格式。
 
 12. [Forbes](http://www.forbes.com/lists/home.jhtml?passListId=10&passYear=1996&passListType=Person)
 

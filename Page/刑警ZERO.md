@@ -1,4 +1,4 @@
-**刑警ZERO**（）是[2019年於](../Page/2019年.md "wikilink")[朝日電視台播出的連續劇](../Page/朝日電視台.md "wikilink")，由[澤村一樹主演](../Page/澤村一樹.md "wikilink")。
+**刑警ZERO**（）是[2019年](../Page/2019年.md "wikilink")於[朝日電視台](../Page/朝日電視台.md "wikilink")播出的連續劇，由[澤村一樹](../Page/澤村一樹.md "wikilink")主演。
 
 ## 登場人物
 
@@ -207,11 +207,9 @@
 ## 外部連結
 
   - [朝日電視台-刑警ZERO](https://www.tv-asahi.co.jp/keiji-0) (日文)
-  - [WakuWaku
-    Japan-失憶刑警](https://www.wakuwakujapan.com/zh/program/detail/wj0000005056/)
+  - [WakuWaku Japan-失憶刑警](https://www.wakuwakujapan.com/zh/program/detail/wj0000005056/)
 
-[Category:朝日電視台週四晚間八點推理連續劇](https://zh.wikipedia.org/wiki/Category:朝日電視台週四晚間八點推理連續劇 "wikilink")
-[Category:2019年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2019年開播的日本電視劇集 "wikilink")
+[Category:朝日電視台週四晚間八點推理連續劇](https://zh.wikipedia.org/wiki/Category:朝日電視台週四晚間八點推理連續劇 "wikilink") [Category:2019年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2019年開播的日本電視劇集 "wikilink")
 
 1.
 2.

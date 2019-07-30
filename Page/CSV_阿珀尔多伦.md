@@ -1,5 +1,4 @@
-**CSV 阿珀尔多伦**（CSV Apeldoorn，全称Christelijke Sportvereniging
-Apeldoorn）是荷兰的一个足球俱乐部，主場位[阿珀尔多伦](../Page/阿珀尔多伦.md "wikilink")，成立于1946年。
+**CSV 阿珀尔多伦**（CSV Apeldoorn，全称Christelijke Sportvereniging Apeldoorn）是荷兰的一个足球俱乐部，主場位[阿珀尔多伦](../Page/阿珀尔多伦.md "wikilink")，成立于1946年。
 
 ## 成就
 

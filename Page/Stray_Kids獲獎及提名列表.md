@@ -1,6 +1,4 @@
-**Stray
-Kids獲獎及提名列表**，主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[Stray
-Kids由](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")2018年出道至今於頒獎典禮的獲獎及提名。
+**Stray Kids獲獎及提名列表**，主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[Stray Kids由](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")2018年出道至今於頒獎典禮的獲獎及提名。
 
 ## 韓國音樂頒獎典禮
 
@@ -41,7 +39,7 @@ Kids由](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")2018年出道至今
 </tbody>
 </table>
 
-### [甜瓜音樂獎（Melon Music Awards）](../Page/甜瓜音樂獎.md "wikilink")
+### [甜瓜音樂獎 Music Awards）](../Page/甜瓜音樂獎.md "wikilink")（Melon
 
 <table>
 <thead>
@@ -64,7 +62,7 @@ Kids由](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")2018年出道至今
 </tbody>
 </table>
 
-### [Mnet亞洲音樂大獎（Mnet Asian Music Awards）](../Page/Mnet亞洲音樂大獎.md "wikilink")
+### [Mnet亞洲音樂大獎 Asian Music Awards）](../Page/Mnet亞洲音樂大獎.md "wikilink")（Mnet
 
 <table>
 <thead>
@@ -161,7 +159,7 @@ Kids由](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")2018年出道至今
 </tbody>
 </table>
 
-### [Soribada最佳音樂大獎（Soribada Best K-Music Awards）](../Page/Soribada最佳音樂大獎.md "wikilink")
+### [Soribada最佳音樂大獎 Best K-Music Awards）](../Page/Soribada最佳音樂大獎.md "wikilink")（Soribada
 
 <table>
 <thead>
@@ -466,12 +464,9 @@ Kids由](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")2018年出道至今
 
   - 參考資料
 
-[Category:Stray_Kids](https://zh.wikipedia.org/wiki/Category:Stray_Kids "wikilink")
-[Category:韓語流行音樂家獲獎列表](https://zh.wikipedia.org/wiki/Category:韓語流行音樂家獲獎列表 "wikilink")
+[Category:Stray_Kids](https://zh.wikipedia.org/wiki/Category:Stray_Kids "wikilink") [Category:韓語流行音樂家獲獎列表](https://zh.wikipedia.org/wiki/Category:韓語流行音樂家獲獎列表 "wikilink")
 
 1.
 2.
-3.   대한민국 퍼스트브랜드 대상 포토월
-    |url=<http://www.m-i.kr/news/articleView.html?idxno=481249>
-    |accessdate=2018-12-19 |publisher=매일일보 |language=ko}}
+3.   대한민국 퍼스트브랜드 대상 포토월 |url=<http://www.m-i.kr/news/articleView.html?idxno=481249> |accessdate=2018-12-19 |publisher=매일일보 |language=ko}}
 4.

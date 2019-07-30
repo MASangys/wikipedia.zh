@@ -8,8 +8,7 @@
 
 2010年，福昕PDF阅读器专业版开始免费\[4\]。
 
-2016年8月10日，福昕起诉[金山软件旗下的](../Page/金山软件.md "wikilink")[WPS
-Office盗用福昕软件PDF技术](../Page/WPS_Office.md "wikilink")。
+2016年8月10日，福昕起诉[金山软件](../Page/金山软件.md "wikilink")旗下的[WPS Office盗用福昕软件PDF技术](../Page/WPS_Office.md "wikilink")。
 
 ## 参考资料
 

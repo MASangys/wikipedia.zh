@@ -1,16 +1,8 @@
-《**Koshi Inaba LIVE 2016
-〜enIII〜**》是[日本](../Page/日本.md "wikilink")[音樂組合](../Page/音樂組合.md "wikilink")[B'z主唱](../Page/B'z.md "wikilink")[稻葉浩志的第](../Page/稻葉浩志.md "wikilink")4張影像作品。[2016年](../Page/2016年.md "wikilink")[8月3日發售](../Page/8月3日.md "wikilink")。
+《**Koshi Inaba LIVE 2016 〜enIII〜**》是[日本](../Page/日本.md "wikilink")[音樂組合](../Page/音樂組合.md "wikilink")[B'z](../Page/B'z.md "wikilink")主唱[稻葉浩志](../Page/稻葉浩志.md "wikilink")的第4張影像作品。[2016年](../Page/2016年.md "wikilink")[8月3日](../Page/8月3日.md "wikilink")發售。
 
 ## 内容
 
-將來自於在第5張SOLO單曲「[羽](../Page/羽_\(稻葉浩志單曲\).md "wikilink")」發售後，自上一場巡演『[Koshi
-Inaba LIVE 2014
-〜en-ball〜](../Page/Koshi_Inaba_LIVE_2014_〜en-ball〜.md "wikilink")』以來睽違2年，作為競技場巡演與『[Koshi
-Inaba LIVE 2010
-〜enII〜](../Page/Koshi_Inaba_LIVE_2010_〜enII〜.md "wikilink")』睽違約5年的巡迴演唱會『Koshi
-Inaba LIVE 2016
-〜enIII〜』中的[日本武道館公演完整收錄的影像作品](../Page/日本武道館.md "wikilink")。
-此外，作為Bonus Track收錄了6首每日替換曲\[1\]。
+將來自於在第5張SOLO單曲「[羽](../Page/羽_\(稻葉浩志單曲\).md "wikilink")」發售後，自上一場巡演『[Koshi Inaba LIVE 2014 〜en-ball〜](../Page/Koshi_Inaba_LIVE_2014_〜en-ball〜.md "wikilink")』以來睽違2年，作為競技場巡演與『[Koshi Inaba LIVE 2010 〜enII〜](../Page/Koshi_Inaba_LIVE_2010_〜enII〜.md "wikilink")』睽違約5年的巡迴演唱會『Koshi Inaba LIVE 2016 〜enIII〜』中的[日本武道館](../Page/日本武道館.md "wikilink")公演完整收錄的影像作品。 此外，作為Bonus Track收錄了6首每日替換曲\[1\]。
 
 初回生產版附屬了收錄演唱會後台等未公開寫真的小冊子，包裝規格以三面書架盒呈現。
 
@@ -71,8 +63,6 @@ Inaba LIVE 2016
 
 **注釋**  **出典**
 
-[Category:日本現場影像](https://zh.wikipedia.org/wiki/Category:日本現場影像 "wikilink")
-[Category:2016年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2016年音樂相關影像作品 "wikilink")
-[Category:稻葉浩志](https://zh.wikipedia.org/wiki/Category:稻葉浩志 "wikilink")
+[Category:日本現場影像](https://zh.wikipedia.org/wiki/Category:日本現場影像 "wikilink") [Category:2016年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2016年音樂相關影像作品 "wikilink") [Category:稻葉浩志](https://zh.wikipedia.org/wiki/Category:稻葉浩志 "wikilink")
 
 1.  「[B'z稲葉浩志「enIII」を映像作品化、日替わり曲のボーナス映像も](http://natalie.mu/music/news/191195)」[音樂Natalie](../Page/Natalie_\(網站\).md "wikilink")、2016年[6月17日](../Page/6月17日.md "wikilink")。

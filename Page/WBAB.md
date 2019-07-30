@@ -6,8 +6,7 @@
 
   - [官方网站](http://www.wbab.com/)
 
-[Category:美國廣播電台](https://zh.wikipedia.org/wiki/Category:美國廣播電台 "wikilink")
-[Category:1958年建立](https://zh.wikipedia.org/wiki/Category:1958年建立 "wikilink")
+[Category:美國廣播電台](https://zh.wikipedia.org/wiki/Category:美國廣播電台 "wikilink") [Category:1958年建立](https://zh.wikipedia.org/wiki/Category:1958年建立 "wikilink")
 
 1.
 2.

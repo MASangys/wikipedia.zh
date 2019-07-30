@@ -9,10 +9,7 @@
 ## 外部連結
 
   -
-[Category:電子遊戲網站](https://zh.wikipedia.org/wiki/Category:電子遊戲網站 "wikilink")
-[Category:線上遊戲服務](https://zh.wikipedia.org/wiki/Category:線上遊戲服務 "wikilink")
-[Category:成人電子遊戲](https://zh.wikipedia.org/wiki/Category:成人電子遊戲 "wikilink")
-[Category:加拿大电子游戏界](https://zh.wikipedia.org/wiki/Category:加拿大电子游戏界 "wikilink")
+[Category:電子遊戲網站](https://zh.wikipedia.org/wiki/Category:電子遊戲網站 "wikilink") [Category:線上遊戲服務](https://zh.wikipedia.org/wiki/Category:線上遊戲服務 "wikilink") [Category:成人電子遊戲](https://zh.wikipedia.org/wiki/Category:成人電子遊戲 "wikilink") [Category:加拿大电子游戏界](https://zh.wikipedia.org/wiki/Category:加拿大电子游戏界 "wikilink")
 
 1.
 2.  <https://www.destructoid.com/nutaku-and-i-get-busy-talking-about-sex-games-417447.phtml>

@@ -1,5 +1,4 @@
-《**Load
-Family**》（），由張在日導演執導，而由[初瓏](https://zh.wikipedia.org/wiki/初瓏 "wikilink")\[1\]\[2\]、[朴元相主演](../Page/朴元相.md "wikilink")。主軸為描述。
+《**Load Family**》（），由張在日導演執導，而由[初瓏](https://zh.wikipedia.org/wiki/初瓏 "wikilink")\[1\]\[2\]、[朴元相](../Page/朴元相.md "wikilink")主演。主軸為描述。
 
 ## 演員陣容
 
@@ -28,8 +27,7 @@ Family**》（），由張在日導演執導，而由[初瓏](https://zh.wikiped
 ## 外部連結
 
   -
-[Category:2019年電影](https://zh.wikipedia.org/wiki/Category:2019年電影 "wikilink")
-[Category:韓語電影](https://zh.wikipedia.org/wiki/Category:韓語電影 "wikilink")
+[Category:2019年電影](https://zh.wikipedia.org/wiki/Category:2019年電影 "wikilink") [Category:韓語電影](https://zh.wikipedia.org/wiki/Category:韓語電影 "wikilink")
 
 1.
 2.

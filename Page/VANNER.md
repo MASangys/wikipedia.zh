@@ -41,18 +41,12 @@
 
 ## 外部連結
 
-  - \[<https://www.instagram.com/vanner__official/?utm_source=ig_profile_share&amp&igshid=1j3bcuf8mxh8l>|
-    VANNER 官方Instagram\]
+  - \[<https://www.instagram.com/vanner__official/?utm_source=ig_profile_share&amp&igshid=1j3bcuf8mxh8l>| VANNER 官方Instagram\]
   - \[<https://mobile.twitter.com/VannerOfficial>| VANNER 官方Twitter\]
   - \[<https://www.vt-ent.com>| VT娛樂官方網頁 \]
-  - \[<https://m.youtube.com/channel/UCKFUrXJUN8HElgropyKyYhg/videos>|
-    VT娛樂官方Youtube\]
+  - \[<https://m.youtube.com/channel/UCKFUrXJUN8HElgropyKyYhg/videos>| VT娛樂官方Youtube\]
 
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:2019年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2019年成立的音樂團體 "wikilink")
-[Category:2019年韓國建立](https://zh.wikipedia.org/wiki/Category:2019年韓國建立 "wikilink")
+[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2019年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2019年成立的音樂團體 "wikilink") [Category:2019年韓國建立](https://zh.wikipedia.org/wiki/Category:2019年韓國建立 "wikilink")
 
 1.
 2.

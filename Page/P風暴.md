@@ -1,12 +1,12 @@
-《**P風暴**》（；中国大陆片名《**反貪風暴4**》）是一部於[2019年上映的](../Page/2019年電影.md "wikilink")[香港](https://zh.wikipedia.org/wiki/香港電影 "wikilink")[動作](../Page/香港動作電影.md "wikilink")[犯罪電影](https://zh.wikipedia.org/wiki/犯罪電影 "wikilink")，由[林德祿执導](../Page/林德祿.md "wikilink")，[黃浩華和](https://zh.wikipedia.org/wiki/黃浩華 "wikilink")[何文龍編劇](https://zh.wikipedia.org/wiki/何文龍 "wikilink")，為2018年電影《[L風暴](https://zh.wikipedia.org/wiki/L風暴 "wikilink")》的續集，以及「[反貪風暴系列電影](../Page/反貪風暴系列電影.md "wikilink")」第四部作品\[1\]，[古天樂](../Page/古天樂.md "wikilink")、[鄭嘉穎](../Page/鄭嘉穎.md "wikilink")、[林峯](https://zh.wikipedia.org/wiki/林峯 "wikilink")、[林家棟及](../Page/林家棟.md "wikilink")[周秀娜領銜主演](../Page/周秀娜.md "wikilink")\[2\]，[張智霖特別演出](../Page/張智霖.md "wikilink")，[凌志華任](https://zh.wikipedia.org/wiki/凌志華 "wikilink")[動作設計](https://zh.wikipedia.org/wiki/武術指導 "wikilink")。本作中P是指[監獄](../Page/監獄.md "wikilink")（Prison），內容涉及[懲教署](../Page/懲教署.md "wikilink")。
+《**P風暴**》（；中国大陆片名《**反貪風暴4**》）是一部於[2019年上映的](../Page/2019年電影.md "wikilink")[香港](https://zh.wikipedia.org/wiki/香港電影 "wikilink")[動作](../Page/香港動作電影.md "wikilink")[犯罪電影](https://zh.wikipedia.org/wiki/犯罪電影 "wikilink")，由[林德祿](../Page/林德祿.md "wikilink")执導，[黃浩華和](https://zh.wikipedia.org/wiki/黃浩華 "wikilink")[何文龍編劇](https://zh.wikipedia.org/wiki/何文龍 "wikilink")，為2018年電影《[L風暴](https://zh.wikipedia.org/wiki/L風暴 "wikilink")》的續集，以及「[反貪風暴系列電影](../Page/反貪風暴系列電影.md "wikilink")」第四部作品\[1\]，[古天樂](../Page/古天樂.md "wikilink")、[鄭嘉穎](../Page/鄭嘉穎.md "wikilink")、[林峯](https://zh.wikipedia.org/wiki/林峯 "wikilink")、[林家棟](../Page/林家棟.md "wikilink")及[周秀娜](../Page/周秀娜.md "wikilink")領銜主演\[2\]，[張智霖](../Page/張智霖.md "wikilink")特別演出，[凌志華任](https://zh.wikipedia.org/wiki/凌志華 "wikilink")[動作設計](https://zh.wikipedia.org/wiki/武術指導 "wikilink")。本作中P是指[監獄](../Page/監獄.md "wikilink")（Prison），內容涉及[懲教署](../Page/懲教署.md "wikilink")。
 
 2019年4月1日宣佈開拍續作《[G風暴](https://zh.wikipedia.org/wiki/G風暴 "wikilink")》，由古天樂繼續擔任主角\[3\]。
 
 ## 故事大綱
 
-廖雨萍（[周秀娜飾](../Page/周秀娜.md "wikilink")）向[廉政公署舉報富二代曹元元](../Page/廉政公署_\(香港\).md "wikilink")（[林峯飾](https://zh.wikipedia.org/wiki/林峯 "wikilink")）在獄中行賄懲教人員。陸志廉（[古天乐飾](https://zh.wikipedia.org/wiki/古天乐 "wikilink")）以囚犯身份入獄調查，他的搭檔程德明（[鄭嘉穎飾](../Page/鄭嘉穎.md "wikilink")）和好友兼[香港警方](../Page/香港警務處.md "wikilink")[聯合財富情報組總督察劉保強](../Page/聯合財富情報組.md "wikilink")（[張智霖飾](../Page/張智霖.md "wikilink")）則在監獄外面接應陸。
+廖雨萍（[周秀娜](../Page/周秀娜.md "wikilink")飾）向[廉政公署舉報富二代曹元元](../Page/廉政公署_\(香港\).md "wikilink")（[林峯飾](https://zh.wikipedia.org/wiki/林峯 "wikilink")）在獄中行賄懲教人員。陸志廉（[古天乐飾](https://zh.wikipedia.org/wiki/古天乐 "wikilink")）以囚犯身份入獄調查，他的搭檔程德明（[鄭嘉穎](../Page/鄭嘉穎.md "wikilink")飾）和好友兼[香港警方](../Page/香港警務處.md "wikilink")[聯合財富情報組](../Page/聯合財富情報組.md "wikilink")總督察劉保強（[張智霖](../Page/張智霖.md "wikilink")飾）則在監獄外面接應陸。
 
-監獄危機四伏，在[五年前被陸志廉親手抓進監牢的前](../Page/Z風暴.md "wikilink")[警司黃文彬](../Page/警司.md "wikilink")（[林家棟飾](../Page/林家棟.md "wikilink")）已是獄中一大幫派，對陸伺機復仇；收受曹元元賄款的[懲教署監督沈國強](../Page/懲教署.md "wikilink")（[譚耀文飾](../Page/譚耀文.md "wikilink")）更對獄中幫派鬥爭視而不見，令陸志廉一度重傷入院。陸回到監獄，幸得性格滑頭的獄友王藍祿（[張繼聰飾](../Page/張繼聰.md "wikilink")）幫助，背水一戰
+監獄危機四伏，在[五年前被陸志廉親手抓進監牢的前](../Page/Z風暴.md "wikilink")[警司](../Page/警司.md "wikilink")黃文彬（[林家棟](../Page/林家棟.md "wikilink")飾）已是獄中一大幫派，對陸伺機復仇；收受曹元元賄款的[懲教署](../Page/懲教署.md "wikilink")監督沈國強（[譚耀文](../Page/譚耀文.md "wikilink")飾）更對獄中幫派鬥爭視而不見，令陸志廉一度重傷入院。陸回到監獄，幸得性格滑頭的獄友王藍祿（[張繼聰](../Page/張繼聰.md "wikilink")飾）幫助，背水一戰
 
 ## 演員表
 
@@ -354,10 +354,9 @@
 
 《P風暴》在中國大陸上映蟬聯13天票房冠軍累積7.6億人民幣，打破該《[風暴系列](../Page/反貪風暴系列電影.md "wikilink")》最高紀錄。香港截至5月12日累計票房17,843,503萬。
 
-
 ## 劇情犯駁之處
 
-  - [蔡瀚億飾演的Cel](../Page/蔡瀚億.md "wikilink")，根據《[L風暴](https://zh.wikipedia.org/wiki/L風暴 "wikilink")》之片尾名單顯示之中文全名為「陳俊輝」；而於本作之中文全名為「蕭光漢」。
+  - [蔡瀚億](../Page/蔡瀚億.md "wikilink")飾演的Cel，根據《[L風暴](https://zh.wikipedia.org/wiki/L風暴 "wikilink")》之片尾名單顯示之中文全名為「陳俊輝」；而於本作之中文全名為「蕭光漢」。
 
 ## 備註
 
@@ -373,18 +372,7 @@
   -
   -
   -
-[Category:粵語電影](https://zh.wikipedia.org/wiki/Category:粵語電影 "wikilink")
-[Category:香港劇情片](https://zh.wikipedia.org/wiki/Category:香港劇情片 "wikilink")
-[Category:香港犯罪片](https://zh.wikipedia.org/wiki/Category:香港犯罪片 "wikilink")
-[Category:香港續集電影](https://zh.wikipedia.org/wiki/Category:香港續集電影 "wikilink")
-[Category:香港背景電影](https://zh.wikipedia.org/wiki/Category:香港背景電影 "wikilink")
-[Category:香港取景電影](https://zh.wikipedia.org/wiki/Category:香港取景電影 "wikilink")
-[Category:貪污相關電影](https://zh.wikipedia.org/wiki/Category:貪污相關電影 "wikilink")
-[Category:2019年香港電影](https://zh.wikipedia.org/wiki/Category:2019年香港電影 "wikilink")
-[Category:2010年代劇情片](https://zh.wikipedia.org/wiki/Category:2010年代劇情片 "wikilink")
-[Category:2010年代懸疑片](https://zh.wikipedia.org/wiki/Category:2010年代懸疑片 "wikilink")
-[Category:2010年代犯罪驚悚片](https://zh.wikipedia.org/wiki/Category:2010年代犯罪驚悚片 "wikilink")
-[Category:2010年代香港電影作品](https://zh.wikipedia.org/wiki/Category:2010年代香港電影作品 "wikilink")
+[Category:粵語電影](https://zh.wikipedia.org/wiki/Category:粵語電影 "wikilink") [Category:香港劇情片](https://zh.wikipedia.org/wiki/Category:香港劇情片 "wikilink") [Category:香港犯罪片](https://zh.wikipedia.org/wiki/Category:香港犯罪片 "wikilink") [Category:香港續集電影](https://zh.wikipedia.org/wiki/Category:香港續集電影 "wikilink") [Category:香港背景電影](https://zh.wikipedia.org/wiki/Category:香港背景電影 "wikilink") [Category:香港取景電影](https://zh.wikipedia.org/wiki/Category:香港取景電影 "wikilink") [Category:貪污相關電影](https://zh.wikipedia.org/wiki/Category:貪污相關電影 "wikilink") [Category:2019年香港電影](https://zh.wikipedia.org/wiki/Category:2019年香港電影 "wikilink") [Category:2010年代劇情片](https://zh.wikipedia.org/wiki/Category:2010年代劇情片 "wikilink") [Category:2010年代懸疑片](https://zh.wikipedia.org/wiki/Category:2010年代懸疑片 "wikilink") [Category:2010年代犯罪驚悚片](https://zh.wikipedia.org/wiki/Category:2010年代犯罪驚悚片 "wikilink") [Category:2010年代香港電影作品](https://zh.wikipedia.org/wiki/Category:2010年代香港電影作品 "wikilink")
 
 1.
 2.

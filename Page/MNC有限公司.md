@@ -1,11 +1,8 @@
-**MNC有限公司**（），原名Bhakti投资公司，是一家[印尼跨国集团](https://zh.wikipedia.org/wiki/印尼 "wikilink")，总部位于[雅加达](../Page/雅加达.md "wikilink")，从事媒体、金融、财产、自然资源和运输等業務，成立于1989年11月2日。該公司拥有全球
-Mediacom（原名：Bimantara Citra）、MNC 金融服务公司（前称：Bhakti Kapital Indonesia）和MNC
-Land（前称：Kridaperdana Indahgraha 與 Global Land Development）的多数股权。
+**MNC有限公司**（），原名Bhakti投资公司，是一家[印尼跨国集团](https://zh.wikipedia.org/wiki/印尼 "wikilink")，总部位于[雅加达](../Page/雅加达.md "wikilink")，从事媒体、金融、财产、自然资源和运输等業務，成立于1989年11月2日。該公司拥有全球 Mediacom（原名：Bimantara Citra）、MNC 金融服务公司（前称：Bhakti Kapital Indonesia）和MNC Land（前称：Kridaperdana Indahgraha 與 Global Land Development）的多数股权。
 
 ## 历史
 
-MNC Investama于1989年11月2日由 Hary Tanoesoedibjo 设立，稱为 Bhakti
-投资公司。该公司最初只关注与资本市场相关的活动。它在1990年把总部迁到雅加达。公司搬迁後带来了更多的机会，以便按照不断变化的资本市场发展业务。
+MNC Investama于1989年11月2日由 Hary Tanoesoedibjo 设立，稱为 Bhakti 投资公司。该公司最初只关注与资本市场相关的活动。它在1990年把总部迁到雅加达。公司搬迁後带来了更多的机会，以便按照不断变化的资本市场发展业务。
 
 1994年，公司扩大业务范围，包括证券交易及经纪业务、投资顾问、投资经理、承销商、财务咨询及研究服务，以及併购，其后推出共同基金产品。该公司通过1997年的首次公开发行（ipo），在雅加达证券交易所和泗水证券交易所（现已合并为印尼证券交易所）上市。
 
@@ -87,12 +84,7 @@ PT MNC Kapital Indonesia Tbk (MKAP)
 
 ## 歷年标志
 
-<File:Bhakti> Investama lama.png|Bhakti Investama Logo (1989-2007)
-<File:Bhakti> Investama New.png|Bhakti Investama (2007-2013) <File:MNC>
-Corporation new.png|MNC Corporation Logo (2013-2014) <File:MNC>
-Corporation 2014.png|MNC Corporation Logo (2014-19 May 2015)
-<File:MNCCorporation> tegak.png|MNC Corporation Logo (20 May
-2015–present)
+<File:Bhakti> Investama lama.png|Bhakti Investama Logo (1989-2007) <File:Bhakti> Investama New.png|Bhakti Investama (2007-2013) <File:MNC> Corporation new.png|MNC Corporation Logo (2013-2014) <File:MNC> Corporation 2014.png|MNC Corporation Logo (2014-19 May 2015) <File:MNCCorporation> tegak.png|MNC Corporation Logo (20 May 2015–present)
 
 ## 参考文献
 

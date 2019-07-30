@@ -1,12 +1,12 @@
-**玉环文旦**，又称**楚门文旦**、**玉环柚**，是一个出产于中国[浙江省](../Page/浙江省.md "wikilink")[玉环市的](../Page/玉环市.md "wikilink")[柚子品种](../Page/柚子.md "wikilink")\[1\]。玉环文旦原出产于[福建省](../Page/福建省.md "wikilink")[漳州市](../Page/漳州市.md "wikilink")[长泰县溪东](../Page/长泰县.md "wikilink")，后在玉环开始种植。1985年参加全国优质农产品评比。
+**玉环文旦**，又称**楚门文旦**、**玉环柚**，是一个出产于中国[浙江省](../Page/浙江省.md "wikilink")[玉环市](../Page/玉环市.md "wikilink")的[柚子](../Page/柚子.md "wikilink")品种\[1\]。玉环文旦原出产于[福建省](../Page/福建省.md "wikilink")[漳州市](../Page/漳州市.md "wikilink")[长泰县](../Page/长泰县.md "wikilink")溪东，后在玉环开始种植。1985年参加全国优质农产品评比。
 
 ## 历史
 
 ### 起源
 
-玉环文旦的起源众说纷纭，主要有四种说法。《[台州特产志](http://diglweb.zjlib.net.cn:8081/zjtsg/dfz/dhs/F762.7_700.htm)》编者经考证后，确认文旦引进于清[光绪年间](../Page/光绪.md "wikilink")（1875年至1898年），传引人在在韩姬宗三妻李氏和侧室徐氏之间。
+玉环文旦的起源众说纷纭，主要有四种说法。《[台州特产志](http://diglweb.zjlib.net.cn:8081/zjtsg/dfz/dhs/F762.7_700.htm)》编者经考证后，确认文旦引进于清[光绪](../Page/光绪.md "wikilink")年间（1875年至1898年），传引人在在韩姬宗三妻李氏和侧室徐氏之间。
 
-[清](https://zh.wikipedia.org/wiki/清 "wikilink")[光绪二十三年](../Page/光绪.md "wikilink")（1897年），时任广信府兴安县（今[江西省](../Page/江西省.md "wikilink")[上饶市](../Page/上饶市.md "wikilink")[横峰县](../Page/横峰县.md "wikilink")）知县的玉环[龙溪人韩姬宗](https://zh.wikipedia.org/wiki/龙溪镇_\(玉环市\) "wikilink")，因恩师去世奔丧和年近六旬，告老还乡，结束了在江西的15年任职。他与妻子徐氏在水路返回玉环时，途经[安徽](https://zh.wikipedia.org/wiki/安徽 "wikilink")[九华山](../Page/九华山.md "wikilink")。两人上山后，见到一位从[福建来的香客在剥一个球形](https://zh.wikipedia.org/wiki/福建 "wikilink")、橙黄的大果子，香味沁人心脾，果实肉嫩多汁、酸甜美味。韩姬宗和徐氏得知这种果子叫“文旦”，并收集了一些文旦的种子，并带回玉环种植。此后，又将文旦与玉环本地的玉橙、土栾等品种嫁接繁衍，发展出了一种新品种——玉环文旦。\[2\]
+[清](https://zh.wikipedia.org/wiki/清 "wikilink")[光绪](../Page/光绪.md "wikilink")二十三年（1897年），时任广信府兴安县（今[江西省](../Page/江西省.md "wikilink")[上饶市](../Page/上饶市.md "wikilink")[横峰县](../Page/横峰县.md "wikilink")）知县的玉环[龙溪人韩姬宗](https://zh.wikipedia.org/wiki/龙溪镇_\(玉环市\) "wikilink")，因恩师去世奔丧和年近六旬，告老还乡，结束了在江西的15年任职。他与妻子徐氏在水路返回玉环时，途经[安徽](https://zh.wikipedia.org/wiki/安徽 "wikilink")[九华山](../Page/九华山.md "wikilink")。两人上山后，见到一位从[福建来的香客在剥一个球形](https://zh.wikipedia.org/wiki/福建 "wikilink")、橙黄的大果子，香味沁人心脾，果实肉嫩多汁、酸甜美味。韩姬宗和徐氏得知这种果子叫“文旦”，并收集了一些文旦的种子，并带回玉环种植。此后，又将文旦与玉环本地的玉橙、土栾等品种嫁接繁衍，发展出了一种新品种——玉环文旦。\[2\]
 
 ### 种植
 

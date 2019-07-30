@@ -1,6 +1,4 @@
-《**找到了Stray
-Kids**》（；；）是一部由[韓國男子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Stray
-Kids出演的](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")[真人實境秀](../Page/真人實境秀.md "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")。2019年3月20日於韓國[Mnet頻道首播](https://zh.wikipedia.org/wiki/Mnet "wikilink")\[1\]，同時間也於日本網路電視台[AbemaTV同步播出](../Page/AbemaTV.md "wikilink")\[2\]。
+《**找到了Stray Kids**》（；；）是一部由[韓國男子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Stray Kids出演的](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")[真人實境秀](../Page/真人實境秀.md "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")。2019年3月20日於韓國[Mnet頻道首播](https://zh.wikipedia.org/wiki/Mnet "wikilink")\[1\]，同時間也於日本網路電視台[AbemaTV](../Page/AbemaTV.md "wikilink")同步播出\[2\]。
 
 ## 播出時間
 
@@ -41,10 +39,7 @@ Kids出演的](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")[真人實境
 
 ## 概要
 
-《找到了Stray Kids》是以[Stray
-Kids](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")9名成員為主角所出演的第一個單獨電視真人實境秀。出道後一直專注於音樂活動的Stray
-Kids為了成為「綜藝大勢」將展開挑戰，在目前熱播中的綜藝節目名稱中，只換掉一個字，製作出與原作不同感覺的綜藝節目，展現屬於Stray
-Kids特有的「真人實境秀」\[3\]。
+《找到了Stray Kids》是以[Stray Kids](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")9名成員為主角所出演的第一個單獨電視真人實境秀。出道後一直專注於音樂活動的Stray Kids為了成為「綜藝大勢」將展開挑戰，在目前熱播中的綜藝節目名稱中，只換掉一個字，製作出與原作不同感覺的綜藝節目，展現屬於Stray Kids特有的「真人實境秀」\[3\]。
 
 ## 節目內容
 
@@ -140,9 +135,7 @@ Lee Know、彰彬</p></td>
   - [Mnet官方網頁](http://www.mnet.com/tv/program/2139)
   - [NAVER官方頻道](https://tv.naver.com/cjenm.FindingSKZ)
 
-[Category:Stray_Kids](https://zh.wikipedia.org/wiki/Category:Stray_Kids "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:Mnet](https://zh.wikipedia.org/wiki/Category:Mnet "wikilink")
+[Category:Stray_Kids](https://zh.wikipedia.org/wiki/Category:Stray_Kids "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:Mnet](https://zh.wikipedia.org/wiki/Category:Mnet "wikilink")
 
 1.
 2.

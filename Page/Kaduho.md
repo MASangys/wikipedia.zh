@@ -1,8 +1,6 @@
-**Kaduho**（，），[日本男性](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")、[插畫家](https://zh.wikipedia.org/wiki/插畫家 "wikilink")。出身於[栃木縣](../Page/栃木縣.md "wikilink")，現居於[東京都](../Page/東京都.md "wikilink")\[1\]。畢業後，進學就讀桐生短期大學（今[桐生大學短期大學部](https://zh.wikipedia.org/wiki/桐生大學短期大學部 "wikilink")）藝術設計學科（2004年）\[2\]，畢業\[3\]。
+**Kaduho**（，），[日本](../Page/日本.md "wikilink")男性[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")、[插畫家](https://zh.wikipedia.org/wiki/插畫家 "wikilink")。出身於[栃木縣](../Page/栃木縣.md "wikilink")，現居於[東京都](../Page/東京都.md "wikilink")\[1\]。畢業後，進學就讀桐生短期大學（今[桐生大學短期大學部](https://zh.wikipedia.org/wiki/桐生大學短期大學部 "wikilink")）藝術設計學科（2004年）\[2\]，畢業\[3\]。
 
-代表作《[愛殺寶貝](../Page/愛殺寶貝.md "wikilink")》是Kaduho在[芳文社月刊雜誌](../Page/芳文社.md "wikilink")《[Manga
-Time Kirara
-Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》2008年1月號短篇發表、同年7月號開始連載至今的作品，並已播出改編電視動畫。他除了畫漫畫之外，同時以「腹痛」名義進行[同人活動](https://zh.wikipedia.org/wiki/同人 "wikilink")。
+代表作《[愛殺寶貝](../Page/愛殺寶貝.md "wikilink")》是Kaduho在[芳文社](../Page/芳文社.md "wikilink")月刊雜誌《[Manga Time Kirara Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》2008年1月號短篇發表、同年7月號開始連載至今的作品，並已播出改編電視動畫。他除了畫漫畫之外，同時以「腹痛」名義進行[同人活動](https://zh.wikipedia.org/wiki/同人 "wikilink")。
 
 ## 創作風格
 
@@ -12,19 +10,17 @@ Kaduho稱自己喜歡超現實搞笑的內容，並說「我知道我最喜歡�
 
 ## 人物
 
-Kaduho對生物或是[UMA有所喜好](https://zh.wikipedia.org/wiki/未確認動物 "wikilink")\[7\]。興趣有玩[格鬥遊戲和下廚](../Page/格鬥遊戲.md "wikilink")\[8\]。而且，他相當喜歡各式各樣的[怪物](../Page/怪人.md "wikilink")，曾經參加過一場與在[阿佐谷舉辦的](../Page/阿佐谷.md "wikilink")[瑪坦戈服裝為主題的萬聖節服裝比賽](../Page/瑪坦戈.md "wikilink")，並得到亞軍\[9\]。
+Kaduho對生物或是[UMA有所喜好](https://zh.wikipedia.org/wiki/未確認動物 "wikilink")\[7\]。興趣有玩[格鬥遊戲](../Page/格鬥遊戲.md "wikilink")和下廚\[8\]。而且，他相當喜歡各式各樣的[怪物](../Page/怪人.md "wikilink")，曾經參加過一場與在[阿佐谷](../Page/阿佐谷.md "wikilink")舉辦的[瑪坦戈](../Page/瑪坦戈.md "wikilink")服裝為主題的萬聖節服裝比賽，並得到亞軍\[9\]。
 
-高中時期是[橄欖球社所屬](../Page/橄欖球.md "wikilink")，但這也是父母教他在讀書時期最合適的運動鍛鍊之方針\[10\]。
+高中時期是[橄欖球](../Page/橄欖球.md "wikilink")社所屬，但這也是父母教他在讀書時期最合適的運動鍛鍊之方針\[10\]。
 
-跟Kaduho《愛殺寶貝》同樣在《[Manga Time Kirara
-Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》連載中、《[春美領域](https://zh.wikipedia.org/wiki/春美領域 "wikilink")》作者曾發表愛殺寶貝的二次創作插圖，特別收錄在特典小冊子中跟他進行交流而認識。
+跟Kaduho《愛殺寶貝》同樣在《[Manga Time Kirara Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》連載中、《[春美領域](https://zh.wikipedia.org/wiki/春美領域 "wikilink")》作者曾發表愛殺寶貝的二次創作插圖，特別收錄在特典小冊子中跟他進行交流而認識。
 
 ## 作品列表
 
 ### 漫畫
 
-  - （[芳文社](../Page/芳文社.md "wikilink")《[Manga Time Kirara
-    Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》2008年1月號、7月號－**連載中**）[青文出版社](../Page/青文出版社.md "wikilink")
+  - （[芳文社](../Page/芳文社.md "wikilink")《[Manga Time Kirara Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》2008年1月號、7月號－**連載中**）[青文出版社](../Page/青文出版社.md "wikilink")
 
   - （《》2011年8月10日－**連載中**／2012年10月從《》移籍)
 
@@ -66,8 +62,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》連載中、《[春美�
 
 ### 插圖
 
-  - 「自由」（《[GANGAN
-    ONLINE](../Page/GANGAN_ONLINE.md "wikilink")》2009年6月25日）
+  - 「自由」（《[GANGAN ONLINE](../Page/GANGAN_ONLINE.md "wikilink")》2009年6月25日）
 
   - [向陽素描×☆☆☆](../Page/向陽素描_\(動畫\).md "wikilink")（第4話背景提供）
 
@@ -97,10 +92,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》連載中、《[春美�
 
   -
 
-[Category:日本漫畫家](https://zh.wikipedia.org/wiki/Category:日本漫畫家 "wikilink")
-[Category:日本插畫家](https://zh.wikipedia.org/wiki/Category:日本插畫家 "wikilink")
-[Category:栃木縣出身人物](https://zh.wikipedia.org/wiki/Category:栃木縣出身人物 "wikilink")
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
+[Category:日本漫畫家](https://zh.wikipedia.org/wiki/Category:日本漫畫家 "wikilink") [Category:日本插畫家](https://zh.wikipedia.org/wiki/Category:日本插畫家 "wikilink") [Category:栃木縣出身人物](https://zh.wikipedia.org/wiki/Category:栃木縣出身人物 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
 
 1.
 

@@ -1,5 +1,4 @@
-是日本動畫公司[Studio
-3Hz](../Page/3Hz.md "wikilink")，在2018年3月24日宣布製作的原創[動畫電影作品](https://zh.wikipedia.org/wiki/動畫電影 "wikilink")\[1\]，將於2019年10月5日日本上映\[2\]。
+是日本動畫公司[Studio 3Hz](../Page/3Hz.md "wikilink")，在2018年3月24日宣布製作的原創[動畫電影作品](https://zh.wikipedia.org/wiki/動畫電影 "wikilink")\[1\]，將於2019年10月5日日本上映\[2\]。
 
 ## 故事簡介
 
@@ -31,11 +30,7 @@
   -
   - [真人版特攝時代劇官網](https://www.jidaigeki.com/BLACKFOX_Ninja/)
 
-[Category:2019年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2019年日本劇場動畫 "wikilink")
-[Category:日本原創動畫電影](https://zh.wikipedia.org/wiki/Category:日本原創動畫電影 "wikilink")
-[Category:忍者動畫](https://zh.wikipedia.org/wiki/Category:忍者動畫 "wikilink")
-[Category:報復題材動畫電影](https://zh.wikipedia.org/wiki/Category:報復題材動畫電影 "wikilink")
-[Category:殺手主角題材動畫](https://zh.wikipedia.org/wiki/Category:殺手主角題材動畫 "wikilink")
+[Category:2019年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2019年日本劇場動畫 "wikilink") [Category:日本原創動畫電影](https://zh.wikipedia.org/wiki/Category:日本原創動畫電影 "wikilink") [Category:忍者動畫](https://zh.wikipedia.org/wiki/Category:忍者動畫 "wikilink") [Category:報復題材動畫電影](https://zh.wikipedia.org/wiki/Category:報復題材動畫電影 "wikilink") [Category:殺手主角題材動畫](https://zh.wikipedia.org/wiki/Category:殺手主角題材動畫 "wikilink")
 
 1.
 2.

@@ -1,5 +1,4 @@
-《**魯邦三世 PART5**》（日語：ルパン三世
-PART5），是由漫畫家加藤一彥原作動畫《[魯邦三世](https://zh.wikipedia.org/wiki/魯邦三世 "wikilink")》的系列的第5部電視動畫版動畫，於2018年4月4日至9月19日期間共播出24集。
+《**魯邦三世 PART5**》（日語：ルパン三世 PART5），是由漫畫家加藤一彥原作動畫《[魯邦三世](https://zh.wikipedia.org/wiki/魯邦三世 "wikilink")》的系列的第5部電視動畫版動畫，於2018年4月4日至9月19日期間共播出24集。
 
 ## 故事內容
 
@@ -25,7 +24,7 @@ PART5），是由漫畫家加藤一彥原作動畫《[魯邦三世](https://zh.w
 <!-- end list -->
 
   -
-    身世如謎的天才女子，擁有出色的外表以及完美的比例，以自我慾望做為行動的第一原則。
+    身世如謎的天才女子，擁有出色的外表以及完美的身材比例，以自我慾望做為行動的第一原則。
 
 <!-- end list -->
 
@@ -35,7 +34,7 @@ PART5），是由漫畫家加藤一彥原作動畫《[魯邦三世](https://zh.w
 ### 本作角色
 
   -
-    擁有天才的程式編成能力的少女，在本作中使用駭客攻擊能力與魯邦一起行動。性格木訥，不善與人交際。
+    擁有天才般的程式編成能力的少女，在本作中使用駭客攻擊能力與魯邦一起行動。性格木訥，不善與人交際。
 
 <!-- end list -->
 
@@ -56,6 +55,4 @@ PART5），是由漫畫家加藤一彥原作動畫《[魯邦三世](https://zh.w
 
   - [官方網站](https://lupin-pt5.com/)
 
-[Category:鲁邦三世](https://zh.wikipedia.org/wiki/Category:鲁邦三世 "wikilink")
-[Category:2018年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2018年日本電視動畫 "wikilink")
-[Category:法國背景作品](https://zh.wikipedia.org/wiki/Category:法國背景作品 "wikilink")
+[Category:鲁邦三世](https://zh.wikipedia.org/wiki/Category:鲁邦三世 "wikilink") [Category:2018年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2018年日本電視動畫 "wikilink") [Category:法國背景作品](https://zh.wikipedia.org/wiki/Category:法國背景作品 "wikilink")

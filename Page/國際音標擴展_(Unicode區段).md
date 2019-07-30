@@ -1,8 +1,6 @@
-**國際音標擴展**（[Unicode官方名稱](https://zh.wikipedia.org/wiki/Unicode "wikilink")：IPA
-Extensions）是一個[Unicode區段](../Page/Unicode區段.md "wikilink")（0250–02AF），主要收錄了不在、、、的[國際音標](../Page/國際音標.md "wikilink")（IPA）字符，其中包括正在使用中的、已棄用的、曾提議使用的國際音標（IPA）符號，還有數個非IPA的語音符號。同樣用於語音學的其他字符，如[顎音化符號](../Page/顎音化.md "wikilink")「」，則被收錄在[音標擴展](../Page/音標擴展_\(Unicode區段\).md "wikilink")（1D00–1D7F）和[音標擴展補充](../Page/音標擴展補充_\(Unicode區段\).md "wikilink")（1D80–1DBF）。[變音符號可以在](https://zh.wikipedia.org/wiki/變音符號 "wikilink")（02B0–02FF）和[結合附加符號](https://zh.wikipedia.org/wiki/結合附加符號 "wikilink")（0300–036F）等區段找到。
+**國際音標擴展**（[Unicode官方名稱](https://zh.wikipedia.org/wiki/Unicode "wikilink")：IPA Extensions）是一個[Unicode區段](../Page/Unicode區段.md "wikilink")（0250–02AF），主要收錄了不在、、、的[國際音標](../Page/國際音標.md "wikilink")（IPA）字符，其中包括正在使用中的、已棄用的、曾提議使用的國際音標（IPA）符號，還有數個非IPA的語音符號。同樣用於語音學的其他字符，如[顎音化](../Page/顎音化.md "wikilink")符號「」，則被收錄在[音標擴展](../Page/音標擴展_\(Unicode區段\).md "wikilink")（1D00–1D7F）和[音標擴展補充](../Page/音標擴展補充_\(Unicode區段\).md "wikilink")（1D80–1DBF）。[變音符號可以在](https://zh.wikipedia.org/wiki/變音符號 "wikilink")（02B0–02FF）和[結合附加符號](https://zh.wikipedia.org/wiki/結合附加符號 "wikilink")（0300–036F）等區段找到。
 
-隨著Unicode能夠完整地標示出所有音標，
-基於[ASCII開發的音標系統](../Page/ASCII.md "wikilink")（如[X-SAMPA或](../Page/X-SAMPA.md "wikilink")[Kirshenbaum等](https://zh.wikipedia.org/wiki/Kirshenbaum "wikilink")）因此逐漸被替代。\[1\]
+隨著Unicode能夠完整地標示出所有音標， 基於[ASCII](../Page/ASCII.md "wikilink")開發的音標系統（如[X-SAMPA](../Page/X-SAMPA.md "wikilink")或[Kirshenbaum等](https://zh.wikipedia.org/wiki/Kirshenbaum "wikilink")）因此逐漸被替代。\[1\]
 
 ## 完整字符表
 
@@ -20,7 +18,7 @@ Extensions）是一個[Unicode區段](../Page/Unicode區段.md "wikilink")（025
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/國際音標.md" title="wikilink">國際音標字母</a></p></td>
+<td><p><a href="../Page/國際音標.md" title="wikilink">國際音標</a>字母</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -947,7 +945,7 @@ Extensions）是一個[Unicode區段](../Page/Unicode區段.md "wikilink")（025
 <p>ʣ</p>
 </center></td>
 <td><p>ʣ</p></td>
-<td><p>拉丁小寫<a href="../Page/二合字母.md" title="wikilink">二合字母DZ</a></p></td>
+<td><p>拉丁小寫<a href="../Page/二合字母.md" title="wikilink">二合字母</a>DZ</p></td>
 <td><p>Latin Small Letter DZ Digraph</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/濁齒齦塞擦音" title="wikilink">濁齒齦塞擦音</a>（已棄用）</p></td>
 <td><p>212</p></td>
@@ -1107,36 +1105,25 @@ Extensions）是一個[Unicode區段](../Page/Unicode區段.md "wikilink")（025
 
 ## 副標題
 
-國際音標擴展共包含了3個副標題，他們分別對應到在不同Unicode版本中加入的三組字符：國際音標擴展（IPA
-extensions）、[問題發音的國際音標字符](../Page/發音問題.md "wikilink")（IPA
-characters for disordered
-speech）與[漢學音標補充](https://zh.wikipedia.org/wiki/漢學 "wikilink")（Additions
-for Sinology）。\[2\]
+國際音標擴展共包含了3個副標題，他們分別對應到在不同Unicode版本中加入的三組字符：國際音標擴展（IPA extensions）、[問題發音的國際音標字符](../Page/發音問題.md "wikilink")（IPA characters for disordered speech）與[漢學音標補充](https://zh.wikipedia.org/wiki/漢學 "wikilink")（Additions for Sinology）。\[2\]
 
 ### 國際音標擴展
 
-此副標題下包括了本區段的前89個字符，它們都是只在國際音標中經常使用的拉丁字母變體和希臘字母。\[3\]此副標題下的所有字符皆包含在1991年10月發布的Unicode
-1.0中。
+此副標題下包括了本區段的前89個字符，它們都是只在國際音標中經常使用的拉丁字母變體和希臘字母。\[3\]此副標題下的所有字符皆包含在1991年10月發布的Unicode 1.0中。
 
 ### 問題發音的國際音標字符
 
-此副標題下的字符用以記錄一些不存在於自然語言中，但出現於嬰兒的發聲、語言障礙者的發音，以及其他在語音學上能記錄的發音。\[4\]
-（這類音標稱作[國際音標擴展](../Page/國際音標擴展.md "wikilink")／ExtIPA，但與上節的中的字符不同。）此副標題下的所有字符皆包含在1999年9月發布的Unicode
-3.0中。
+此副標題下的字符用以記錄一些不存在於自然語言中，但出現於嬰兒的發聲、語言障礙者的發音，以及其他在語音學上能記錄的發音。\[4\] （這類音標稱作[國際音標擴展](../Page/國際音標擴展.md "wikilink")／ExtIPA，但與上節的中的字符不同。）此副標題下的所有字符皆包含在1999年9月發布的Unicode 3.0中。
 
 ### 漢學音標補充
 
-此副標題下包含了2個用於漢語的音素：[ʮ和](https://zh.wikipedia.org/wiki/ʮ "wikilink")[ʯ](https://zh.wikipedia.org/wiki/ʯ "wikilink")。\[5\]它們在2003年4月發表的Unicode
-4.0中加入此區段。
+此副標題下包含了2個用於漢語的音素：[ʮ和](https://zh.wikipedia.org/wiki/ʮ "wikilink")[ʯ](https://zh.wikipedia.org/wiki/ʯ "wikilink")。\[5\]它們在2003年4月發表的Unicode 4.0中加入此區段。
 
 ## 簡化字符表
 
 ## 歷史
 
-自Unicode 1.0以來，國際音標擴展區段一直存在於Unicode中，且透過與[ISO
-10646的一致而保持不變](https://zh.wikipedia.org/wiki/ISO_10646 "wikilink")。直到Unicode
-3.0才加以擴充，增加了用於表示[問題發音的語音符號](https://zh.wikipedia.org/wiki/問題發音 "wikilink")，Unicode
-4.0又再次加入漢學語音符號。\[6\]
+自Unicode 1.0以來，國際音標擴展區段一直存在於Unicode中，且透過與[ISO 10646的一致而保持不變](https://zh.wikipedia.org/wiki/ISO_10646 "wikilink")。直到Unicode 3.0才加以擴充，增加了用於表示[問題發音的語音符號](https://zh.wikipedia.org/wiki/問題發音 "wikilink")，Unicode 4.0又再次加入漢學語音符號。\[6\]
 
 以下Unicode文檔記錄了與這一區段相關的提案：
 
@@ -1335,8 +1322,7 @@ for Sinology）。\[2\]
 
 ## 參考資料
 
-[Category:Unicode區段](https://zh.wikipedia.org/wiki/Category:Unicode區段 "wikilink")
-[Category:國際音標](https://zh.wikipedia.org/wiki/Category:國際音標 "wikilink")
+[Category:Unicode區段](https://zh.wikipedia.org/wiki/Category:Unicode區段 "wikilink") [Category:國際音標](https://zh.wikipedia.org/wiki/Category:國際音標 "wikilink")
 
 1.
 

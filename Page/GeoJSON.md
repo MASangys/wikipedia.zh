@@ -1,4 +1,4 @@
-**GeoJSON**是一种基于[JSON的](../Page/JSON.md "wikilink")[开源标准格式](../Page/开源标准.md "wikilink")，用来表示地理信息。
+**GeoJSON**是一种基于[JSON](../Page/JSON.md "wikilink")的[开源标准](../Page/开源标准.md "wikilink")格式，用来表示地理信息。
 
 功能有点（表示地理位置）、（表示街道、公路、边界）、[多边形](../Page/多边形.md "wikilink")（表示国家、省、领土），以及由以上类型组合成的复合几何图形。
 
@@ -85,5 +85,4 @@
 
 <references/>
 
-[Category:JSON](https://zh.wikipedia.org/wiki/Category:JSON "wikilink")
-[Category:GIS向量文件格式](https://zh.wikipedia.org/wiki/Category:GIS向量文件格式 "wikilink")
+[Category:JSON](https://zh.wikipedia.org/wiki/Category:JSON "wikilink") [Category:GIS向量文件格式](https://zh.wikipedia.org/wiki/Category:GIS向量文件格式 "wikilink")

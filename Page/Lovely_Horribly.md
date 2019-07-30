@@ -1,5 +1,4 @@
-《**Lovely
-Horribly**》（），為韓國[KBS2於](https://zh.wikipedia.org/wiki/KBS2 "wikilink")2018年8月13日起播出的[月火連續劇](../Page/KBS月火連續劇.md "wikilink")。由《[我黃金光輝的人生](https://zh.wikipedia.org/wiki/我黃金光輝的人生 "wikilink")》的姜敏慶導演與朴敏珠作家合作打造。本劇之劇本為2017年KBS劇本募集的獲獎作品。此劇講述兩個同年同月同日同一時辰出生的電視劇編劇和擔任電視劇主角的明星之間，所發生的恐怖又浪漫的故事。\[1\]
+《**Lovely Horribly**》（），為韓國[KBS2於](https://zh.wikipedia.org/wiki/KBS2 "wikilink")2018年8月13日起播出的[月火連續劇](../Page/KBS月火連續劇.md "wikilink")。由《[我黃金光輝的人生](https://zh.wikipedia.org/wiki/我黃金光輝的人生 "wikilink")》的姜敏慶導演與朴敏珠作家合作打造。本劇之劇本為2017年KBS劇本募集的獲獎作品。此劇講述兩個同年同月同日同一時辰出生的電視劇編劇和擔任電視劇主角的明星之間，所發生的恐怖又浪漫的故事。\[1\]
 
 台灣地區，由愛奇藝台灣站獨家播出。
 
@@ -571,15 +570,10 @@ Horribly**》（），為韓國[KBS2於](https://zh.wikipedia.org/wiki/KBS2 "wik
 
 ## 同時段競爭作品
 
-  - [MBC](../Page/文化廣播公司.md "wikilink")
-    [月火連續劇](../Page/MBC月火連續劇.md "wikilink")：《[生死決斷羅曼史](../Page/生死決斷羅曼史.md "wikilink")》、《[壞爸爸](https://zh.wikipedia.org/wiki/壞爸爸 "wikilink")》
-  - [SBS](../Page/SBS_\(韓國\).md "wikilink")
-    [月火連續劇](../Page/SBS月火連續劇.md "wikilink")：《[雖然30但仍17](../Page/雖然30但仍17.md "wikilink")》、《[狐狸新娘星](https://zh.wikipedia.org/wiki/狐狸新娘星 "wikilink")》
-  - [tvN](../Page/TVN.md "wikilink")
-    [月火連續劇](../Page/TvN月火連續劇.md "wikilink")：《[一起吃飯吧3：Begins](../Page/一起吃飯吧3：Begins.md "wikilink")》、《[百日的郎君](../Page/百日的郎君.md "wikilink")》
-  - [JTBC](../Page/JTBC.md "wikilink")
-    [月火連續劇](../Page/JTBC月火連續劇.md "wikilink")：《[Beauty
-    Inside](https://zh.wikipedia.org/wiki/Beauty_Inside_\(電視劇\) "wikilink")》
+  - [MBC](../Page/文化廣播公司.md "wikilink") [月火連續劇](../Page/MBC月火連續劇.md "wikilink")：《[生死決斷羅曼史](../Page/生死決斷羅曼史.md "wikilink")》、《[壞爸爸](https://zh.wikipedia.org/wiki/壞爸爸 "wikilink")》
+  - [SBS](../Page/SBS_\(韓國\).md "wikilink") [月火連續劇](../Page/SBS月火連續劇.md "wikilink")：《[雖然30但仍17](../Page/雖然30但仍17.md "wikilink")》、《[狐狸新娘星](https://zh.wikipedia.org/wiki/狐狸新娘星 "wikilink")》
+  - [tvN](../Page/TVN.md "wikilink") [月火連續劇](../Page/TvN月火連續劇.md "wikilink")：《[一起吃飯吧3：Begins](../Page/一起吃飯吧3：Begins.md "wikilink")》、《[百日的郎君](../Page/百日的郎君.md "wikilink")》
+  - [JTBC](../Page/JTBC.md "wikilink") [月火連續劇](../Page/JTBC月火連續劇.md "wikilink")：《[Beauty Inside](https://zh.wikipedia.org/wiki/Beauty_Inside_\(電視劇\) "wikilink")》
 
 ## 參考資料
 
@@ -588,18 +582,11 @@ Horribly**》（），為韓國[KBS2於](https://zh.wikipedia.org/wiki/KBS2 "wik
 ## 外部連結
 
   - [韓國KBS官方網站](http://program.kbs.co.kr/2tv/drama/lovelyhorribly/pc/)
-  - [Lovely Horribly](https://m.entertain.naver.com/tvBrand/8111275)
-    [NAVER](../Page/NAVER.md "wikilink")
+  - [Lovely Horribly](https://m.entertain.naver.com/tvBrand/8111275) [NAVER](../Page/NAVER.md "wikilink")
 
-[Category:2018年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2018年韓國電視劇集 "wikilink")
-[Category:韓國愛情劇](https://zh.wikipedia.org/wiki/Category:韓國愛情劇 "wikilink")
-[Category:韓國懸疑劇](https://zh.wikipedia.org/wiki/Category:韓國懸疑劇 "wikilink")
-[Category:韓國奇幻劇](https://zh.wikipedia.org/wiki/Category:韓國奇幻劇 "wikilink")
-[Category:作家題材作品](https://zh.wikipedia.org/wiki/Category:作家題材作品 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
+[Category:2018年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2018年韓國電視劇集 "wikilink") [Category:韓國愛情劇](https://zh.wikipedia.org/wiki/Category:韓國愛情劇 "wikilink") [Category:韓國懸疑劇](https://zh.wikipedia.org/wiki/Category:韓國懸疑劇 "wikilink") [Category:韓國奇幻劇](https://zh.wikipedia.org/wiki/Category:韓國奇幻劇 "wikilink") [Category:作家題材作品](https://zh.wikipedia.org/wiki/Category:作家題材作品 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
 
-1.  [新劇陣容超強大！《Lovely
-    Horribly》朴施厚X宋智孝X李起光台詞排練照公開](https://www.koreastardaily.com/tc/news/106865)
+1.  [新劇陣容超強大！《Lovely Horribly》朴施厚X宋智孝X李起光台詞排練照公開](https://www.koreastardaily.com/tc/news/106865)
 2.  第一集四柱命表上的漢名字為「柳乙丑」
 3.  第一集四柱命表上的漢名字為「吳乙蕣」
 4.  第三集，護身符背後刻的漢字為「乙橓」

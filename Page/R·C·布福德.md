@@ -1,4 +1,4 @@
-**羅伯特·坎特伯里·布福德**（，），通稱**R·C·布福德**（），現任[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[NBA聯盟](../Page/NBA.md "wikilink")[聖安東尼奧馬刺](https://zh.wikipedia.org/wiki/聖安東尼奧馬刺 "wikilink")[總經理一職](https://zh.wikipedia.org/wiki/總經理 "wikilink")。他在2002年被任命为馬刺总经理，五年後兼任馬刺队总裁。同时也担任体育部门总裁。在[2013–14賽季和](../Page/2013-14_NBA賽季.md "wikilink")[2015–16賽季](https://zh.wikipedia.org/wiki/2015-16_NBA賽季 "wikilink")，布福德兩次獲得[NBA年度最佳總管榮譽](https://zh.wikipedia.org/wiki/NBA年度最佳行政人員 "wikilink")。
+**羅伯特·坎特伯里·布福德**（，），通稱**R·C·布福德**（），現任[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[NBA](../Page/NBA.md "wikilink")聯盟[聖安東尼奧馬刺](https://zh.wikipedia.org/wiki/聖安東尼奧馬刺 "wikilink")[總經理一職](https://zh.wikipedia.org/wiki/總經理 "wikilink")。他在2002年被任命为馬刺总经理，五年後兼任馬刺队总裁。同时也担任体育部门总裁。在[2013–14賽季和](../Page/2013-14_NBA賽季.md "wikilink")[2015–16賽季](https://zh.wikipedia.org/wiki/2015-16_NBA賽季 "wikilink")，布福德兩次獲得[NBA年度最佳總管榮譽](https://zh.wikipedia.org/wiki/NBA年度最佳行政人員 "wikilink")。
 
 ## 早期生涯
 
@@ -16,9 +16,7 @@
 
 ## 個人生活
 
-  - 布福德的妻子貝絲·布福德是一位前美國職業[高爾夫聯盟的運動員](https://zh.wikipedia.org/wiki/高爾夫 "wikilink")。布福德夫婦育有一對子女，分別是兒子蔡斯·布福德（Chase
-    Buford）和女兒C.C·布福德（C.C
-    Buford）。蔡斯曾效力於[堪薩斯大學捷鷹隊以及](https://zh.wikipedia.org/wiki/堪薩斯大學捷鷹隊 "wikilink")[芝加哥公牛](../Page/芝加哥公牛.md "wikilink")，場上位置為[控球後衛](https://zh.wikipedia.org/wiki/控球後衛 "wikilink")。\[5\]
+  - 布福德的妻子貝絲·布福德是一位前美國職業[高爾夫聯盟的運動員](https://zh.wikipedia.org/wiki/高爾夫 "wikilink")。布福德夫婦育有一對子女，分別是兒子蔡斯·布福德（Chase Buford）和女兒C.C·布福德（C.C Buford）。蔡斯曾效力於[堪薩斯大學捷鷹隊以及](https://zh.wikipedia.org/wiki/堪薩斯大學捷鷹隊 "wikilink")[芝加哥公牛](../Page/芝加哥公牛.md "wikilink")，場上位置為[控球後衛](https://zh.wikipedia.org/wiki/控球後衛 "wikilink")。\[5\]
 
 <!-- end list -->
 
@@ -28,20 +26,14 @@
 
 ## 外部連結
 
-  - [General
-    Managers](http://www.hoopshype.com/general_managers/rc_buford.htm)
-  - [Spurs promote R.C. Buford to senior vice
-    president](http://www.bizjournals.com/sanantonio/stories/2004/04/26/daily18.html)
+  - [General Managers](http://www.hoopshype.com/general_managers/rc_buford.htm)
+  - [Spurs promote R.C. Buford to senior vice president](http://www.bizjournals.com/sanantonio/stories/2004/04/26/daily18.html)
 
 [Category:NBA球隊總經理](https://zh.wikipedia.org/wiki/Category:NBA球隊總經理 "wikilink")
 
-1.  [The Buford Way: Spurs' architect stays in shadows -
-    USATODAY.com](https://www.usatoday.com/sports/basketball/nba/spurs/2007-05-21-cover-buford_N.htm)
-2.  [MIT Sloan Sports Business Conference:
-    Panels](http://www.sloansportsconference.com/paneltitle.htm)
-3.  [San Antonio’s R.C. Buford Earns 2013-14 NBA Basketball Executive of
-    the Year
-    Award](http://www.nba.com/spurs/news/140507_buford_earns_nba_executive_of_the_year)
+1.  [The Buford Way: Spurs' architect stays in shadows - USATODAY.com](https://www.usatoday.com/sports/basketball/nba/spurs/2007-05-21-cover-buford_N.htm)
+2.  [MIT Sloan Sports Business Conference: Panels](http://www.sloansportsconference.com/paneltitle.htm)
+3.  [San Antonio’s R.C. Buford Earns 2013-14 NBA Basketball Executive of the Year Award](http://www.nba.com/spurs/news/140507_buford_earns_nba_executive_of_the_year)
 4.  <http://www.nba.com/2016/news/05/09/san-antonio-spurs-r-c-buford-wins-executive-of-the-year/>
 5.  <https://www.linkedin.com/in/chase-buford-65050735>
 6.

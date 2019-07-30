@@ -1,6 +1,4 @@
-local mRedirectHatnote = require('Module:Redirect hatnote') local
-mArguments = require('Module:Arguments') local mHatnote =
-require('Module:Hatnote') local p = {}
+local mRedirectHatnote = require('Module:Redirect hatnote') local mArguments = require('Module:Arguments') local mHatnote = require('Module:Hatnote') local p = {}
 
 function p.redirectMulti (frame)
 

@@ -1,5 +1,4 @@
-**The Music Works**（，簡稱**Music
-Works**）是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")\[1\]。成立於2012年。當前藝人包括Solo歌手[孔旻智](../Page/孔旻智.md "wikilink")、組合[MYTEEN](../Page/MYTEEN.md "wikilink")等。
+**The Music Works**（，簡稱**Music Works**）是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")\[1\]。成立於2012年。當前藝人包括Solo歌手[孔旻智](../Page/孔旻智.md "wikilink")、組合[MYTEEN](../Page/MYTEEN.md "wikilink")等。
 
 ## 旗下藝人
 
@@ -42,8 +41,7 @@ Works**）是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀
   - [MUSIC WORKS的VLive頻道](https://channels.vlive.tv/F4A151)
 
   -
-[Category:韓國藝人經紀公司](https://zh.wikipedia.org/wiki/Category:韓國藝人經紀公司 "wikilink")
-[Category:韩国唱片公司](https://zh.wikipedia.org/wiki/Category:韩国唱片公司 "wikilink")
+[Category:韓國藝人經紀公司](https://zh.wikipedia.org/wiki/Category:韓國藝人經紀公司 "wikilink") [Category:韩国唱片公司](https://zh.wikipedia.org/wiki/Category:韩国唱片公司 "wikilink")
 
 1.
 2.

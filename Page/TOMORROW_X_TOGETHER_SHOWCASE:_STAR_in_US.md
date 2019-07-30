@@ -1,23 +1,12 @@
-**《TOMORROW X TOGETHER SHOWCASE: STAR in
-US》**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂團體](https://zh.wikipedia.org/wiki/男子音樂團體 "wikilink")[TOMORROW
-X
-TOGETHER出道兩個月後的首場海外巡迴Showcase](https://zh.wikipedia.org/wiki/TOMORROW_X_TOGETHER "wikilink")。以宣傳他們的出道迷你專輯《[The
-Dream Chapter:
-STAR](https://zh.wikipedia.org/wiki/The_Dream_Chapter:_STAR "wikilink")》，巡演於2019年5月9日在紐約PlayStation
-Theater開始，於2019年4月19日開始售票，總計6場演出。\[1\]
+**《TOMORROW X TOGETHER SHOWCASE: STAR in US》**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂團體](https://zh.wikipedia.org/wiki/男子音樂團體 "wikilink")[TOMORROW X TOGETHER出道兩個月後的首場海外巡迴Showcase](https://zh.wikipedia.org/wiki/TOMORROW_X_TOGETHER "wikilink")。以宣傳他們的出道迷你專輯《[The Dream Chapter: STAR](https://zh.wikipedia.org/wiki/The_Dream_Chapter:_STAR "wikilink")》，巡演於2019年5月9日在紐約PlayStation Theater開始，於2019年4月19日開始售票，總計6場演出。\[1\]
 
 ## 背景
 
-2019年4月9日，[Big Hit娛樂於官方社群網站及TOMORROW](../Page/Big_Hit娛樂.md "wikilink") X
-TOGETHER官方粉絲社區公告TOMORROW X
-TOGETHER將於5月9日在紐約、12日芝加哥、14日奧蘭多、17日亞特蘭大、19日達拉斯、24日洛杉磯展開首次[美國巡迴Showcase](https://zh.wikipedia.org/wiki/美國 "wikilink")《TOMORROW
-X TOGETHER SHOWCASE: STAR in US》。\[2\]\[3\]
+2019年4月9日，[Big Hit娛樂於官方社群網站及TOMORROW](../Page/Big_Hit娛樂.md "wikilink") X TOGETHER官方粉絲社區公告TOMORROW X TOGETHER將於5月9日在紐約、12日芝加哥、14日奧蘭多、17日亞特蘭大、19日達拉斯、24日洛杉磯展開首次[美國巡迴Showcase](https://zh.wikipedia.org/wiki/美國 "wikilink")《TOMORROW X TOGETHER SHOWCASE: STAR in US》。\[2\]\[3\]
 
 ## 商業表現
 
-根據《Newsen》報導，《TOMORROW X TOGETHER SHOWCASE: STAR in
-US》美國巡迴Showcase於2019年4月19進行美國場次的門票販售，巡演規模在北美地區共1萬2,300席（6場Showcase），而門票在開始預售的五分鐘全數完售，包含了美國（紐約、芝加哥、奧蘭多、亞特蘭大、達拉斯、洛杉磯），共6場Showcase預售票全數售罄。
-\[4\]\[5\]
+根據《Newsen》報導，《TOMORROW X TOGETHER SHOWCASE: STAR in US》美國巡迴Showcase於2019年4月19進行美國場次的門票販售，巡演規模在北美地區共1萬2,300席（6場Showcase），而門票在開始預售的五分鐘全數完售，包含了美國（紐約、芝加哥、奧蘭多、亞特蘭大、達拉斯、洛杉磯），共6場Showcase預售票全數售罄。 \[4\]\[5\]
 
 ## 巡演時間表
 
@@ -105,8 +94,7 @@ US》美國巡迴Showcase於2019年4月19進行美國場次的門票販售，巡
 
 <!-- end list -->
 
-  - [TOMORROW X
-    TOGETHER](https://zh.wikipedia.org/wiki/TOMORROW_X_TOGETHER "wikilink")（[YEONJUN](../Page/崔延俊.md "wikilink")、[SOOBIN](../Page/崔秀彬.md "wikilink")、[BEOMGYU](../Page/崔范奎.md "wikilink")、[TAEHYUN](../Page/姜泰賢.md "wikilink")、[HUENINGKAI](../Page/休寧凱.md "wikilink")）
+  - [TOMORROW X TOGETHER](https://zh.wikipedia.org/wiki/TOMORROW_X_TOGETHER "wikilink")（[YEONJUN](../Page/崔延俊.md "wikilink")、[SOOBIN](../Page/崔秀彬.md "wikilink")、[BEOMGYU](../Page/崔范奎.md "wikilink")、[TAEHYUN](../Page/姜泰賢.md "wikilink")、[HUENINGKAI](../Page/休寧凱.md "wikilink")）
 
 <!-- end list -->
 
@@ -140,8 +128,7 @@ US》美國巡迴Showcase於2019年4月19進行美國場次的門票販售，巡
 
   - [美國巡迴Showcase資訊](http://www.powerhouselive.net/ticket/ticket.asp?product_number=259)
 
-[Category:TXT](https://zh.wikipedia.org/wiki/Category:TXT "wikilink")
-[Category:2019年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2019年巡迴演唱會 "wikilink")
+[Category:TXT](https://zh.wikipedia.org/wiki/Category:TXT "wikilink") [Category:2019年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2019年巡迴演唱會 "wikilink")
 
 1.
 2.

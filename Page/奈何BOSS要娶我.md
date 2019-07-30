@@ -1,4 +1,4 @@
-《**奈何BOSS要娶我**》（），[2019年](../Page/中国大陆电视剧列表_\(2019年\).md "wikilink")[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[偶像剧](https://zh.wikipedia.org/wiki/偶像剧 "wikilink")。本剧改编自纯风一度的网络小说《豪門遊戲：私寵甜心寶貝》，由[徐开骋](https://zh.wikipedia.org/wiki/徐开骋 "wikilink")、[王双领衔主演](../Page/王双_\(演员\).md "wikilink")，[搜狐视频](../Page/搜狐视频.md "wikilink")、[芒果TV于](../Page/芒果TV.md "wikilink")2019年1月17日首播。\[1\]\[2\]
+《**奈何BOSS要娶我**》（），[2019年](../Page/中国大陆电视剧列表_\(2019年\).md "wikilink")[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[偶像剧](https://zh.wikipedia.org/wiki/偶像剧 "wikilink")。本剧改编自纯风一度的网络小说《豪門遊戲：私寵甜心寶貝》，由[徐开骋](https://zh.wikipedia.org/wiki/徐开骋 "wikilink")、[王双领衔主演](../Page/王双_\(演员\).md "wikilink")，[搜狐视频](../Page/搜狐视频.md "wikilink")、[芒果TV](../Page/芒果TV.md "wikilink")于2019年1月17日首播。\[1\]\[2\]
 
 ## 播出时间
 
@@ -39,8 +39,7 @@
 
 ## 劇情大綱
 
-十八线女艺人夏林（[王雙飾](../Page/王双_\(演员\).md "wikilink")）身患“白血癌”，
-为获“凌氏”总裁凌异洲（[徐开骋飾](https://zh.wikipedia.org/wiki/徐开骋 "wikilink")）捐贈其骨髓而答應跟他假結婚。
+十八线女艺人夏林（[王雙飾](../Page/王双_\(演员\).md "wikilink")）身患“白血癌”， 为获“凌氏”总裁凌异洲（[徐开骋飾](https://zh.wikipedia.org/wiki/徐开骋 "wikilink")）捐贈其骨髓而答應跟他假結婚。
 
 为尽早接受骨髓移植，同时继续开展个人演藝事业，夏林和凌异洲协议隐婚，在二人的隐婚期间，除了甜蜜的生活外，也夹杂了来自多方面的阴谋论，夏林和凌异洲最终消除误会，重获真爱的故事。
 
@@ -182,10 +181,7 @@
 ## 外部连结
 
   -
-[Category:中文連續劇](https://zh.wikipedia.org/wiki/Category:中文連續劇 "wikilink")
-[Category:2019年中國電視劇集](https://zh.wikipedia.org/wiki/Category:2019年中國電視劇集 "wikilink")
-[Category:芒果娱乐传媒出品](https://zh.wikipedia.org/wiki/Category:芒果娱乐传媒出品 "wikilink")
+[Category:中文連續劇](https://zh.wikipedia.org/wiki/Category:中文連續劇 "wikilink") [Category:2019年中國電視劇集](https://zh.wikipedia.org/wiki/Category:2019年中國電視劇集 "wikilink") [Category:芒果娱乐传媒出品](https://zh.wikipedia.org/wiki/Category:芒果娱乐传媒出品 "wikilink")
 
-1.  [女明星王双花式撒糖
-    《奈何BOSS要娶我》定档0117](http://ent.huanqiu.com/yuleyaowen/2019-01/14061408.html)
+1.  [女明星王双花式撒糖 《奈何BOSS要娶我》定档0117](http://ent.huanqiu.com/yuleyaowen/2019-01/14061408.html)
 2.  [《奈何BOSS要娶我》定档0117，“2019年第一甜”即将发糖](http://www.sohu.com/a/286171480_790164)

@@ -1,4 +1,4 @@
-**KRKPL韩国王者荣耀职业联赛2019春季赛**，是[王者荣耀官方海外高规格的职业联赛](../Page/王者荣耀.md "wikilink")。目前在[韩国举行](https://zh.wikipedia.org/wiki/韩国 "wikilink")，在2019年KRKPL正式升格为国际赛区。目前有来自[中国香港](https://zh.wikipedia.org/wiki/中国香港 "wikilink")，[中国澳门](https://zh.wikipedia.org/wiki/中国澳门 "wikilink")，[欧洲和](../Page/欧洲.md "wikilink")[美国参加](../Page/美国.md "wikilink")，目前共10支队伍参加。\[1\]\[2\]
+**KRKPL韩国王者荣耀职业联赛2019春季赛**，是[王者荣耀](../Page/王者荣耀.md "wikilink")官方海外高规格的职业联赛。目前在[韩国举行](https://zh.wikipedia.org/wiki/韩国 "wikilink")，在2019年KRKPL正式升格为国际赛区。目前有来自[中国香港](https://zh.wikipedia.org/wiki/中国香港 "wikilink")，[中国澳门](https://zh.wikipedia.org/wiki/中国澳门 "wikilink")，[欧洲](../Page/欧洲.md "wikilink")和[美国](../Page/美国.md "wikilink")参加，目前共10支队伍参加。\[1\]\[2\]
 
 ## 赛制
 

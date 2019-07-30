@@ -1,6 +1,4 @@
-**Fiddler**是一个用于[HTTP调试的](https://zh.wikipedia.org/wiki/HTTP "wikilink")[代理服务器](../Page/代理服务器.md "wikilink")应用程序，最初由[微软](../Page/微软.md "wikilink")[Internet
-Explorer开发团队的前程序经理Eric](../Page/Internet_Explorer.md "wikilink")
-Lawrence编写。
+**Fiddler**是一个用于[HTTP调试的](https://zh.wikipedia.org/wiki/HTTP "wikilink")[代理服务器](../Page/代理服务器.md "wikilink")应用程序，最初由[微软](../Page/微软.md "wikilink")[Internet Explorer开发团队的前程序经理Eric](../Page/Internet_Explorer.md "wikilink") Lawrence编写。
 
 ## 特性
 
@@ -18,8 +16,7 @@ Fiddler能捕获[HTTP和](https://zh.wikipedia.org/wiki/HTTP "wikilink")[HTTPS�
 
 ## 另请参阅
 
-  - [Burp
-    suite](../Page/Burp_suite.md "wikilink")：基于Java的HTTP/HTTPS调试和安全测试工具
+  - [Burp suite](../Page/Burp_suite.md "wikilink")：基于Java的HTTP/HTTPS调试和安全测试工具
 
   - ：基于Java的HTTP/HTTPS调试工具
 
@@ -35,9 +32,7 @@ Fiddler能捕获[HTTP和](https://zh.wikipedia.org/wiki/HTTP "wikilink")[HTTPS�
 
 ## 延申阅读
 
-  - Lawrence, Eric (15 June 2012). Debugging with Fiddler: The complete
-    reference from the creator of the Fiddler Web Debugger. ISBN
-    978-1475024487.
+  - Lawrence, Eric (15 June 2012). Debugging with Fiddler: The complete reference from the creator of the Fiddler Web Debugger. ISBN 978-1475024487.
 
 ## 外部链接
 

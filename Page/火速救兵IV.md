@@ -1,4 +1,4 @@
-《**火速救兵IV**》（）是[香港電台電視部與](../Page/香港電台.md "wikilink")[香港消防處合作拍攝的](../Page/香港消防處.md "wikilink")[單元劇](https://zh.wikipedia.org/wiki/單元劇 "wikilink")，全劇共10集（30分鐘刪減版）；一小時足本[劇場版共](https://zh.wikipedia.org/wiki/電影版 "wikilink")5集，[劇場版部份劇情經導演重新編排剪接](https://zh.wikipedia.org/wiki/電影版 "wikilink")。此劇為《[火速救兵系列](../Page/火速救兵系列.md "wikilink")》第四部，同時紀念香港消防處成立150周年。
+《**火速救兵IV**》（）是[香港電台](../Page/香港電台.md "wikilink")電視部與[香港消防處](../Page/香港消防處.md "wikilink")合作拍攝的[單元劇](https://zh.wikipedia.org/wiki/單元劇 "wikilink")，全劇共10集（30分鐘刪減版）；一小時足本[劇場版共](https://zh.wikipedia.org/wiki/電影版 "wikilink")5集，[劇場版部份劇情經導演重新編排剪接](https://zh.wikipedia.org/wiki/電影版 "wikilink")。此劇為《[火速救兵系列](../Page/火速救兵系列.md "wikilink")》第四部，同時紀念香港消防處成立150周年。
 
 ## 每集主題
 
@@ -202,7 +202,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/黃大仙消防局" title="wikilink">黃大仙消防局高級消防隊長</a>（升降台主管）<br />
 曾於船艙大火中救回江劍秋<br />
 於黃大仙氣體爆炸中腰部受傷<br />
-其後接受<a href="../Page/消防及救護學院.md" title="wikilink">消防及救護學院教官職務</a></p></td>
+其後接受<a href="../Page/消防及救護學院.md" title="wikilink">消防及救護學院</a>教官職務</p></td>
 <td><p>王Sir、爆人王</p></td>
 </tr>
 <tr class="even">
@@ -311,7 +311,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/王喜" title="wikilink">王　喜</a></p></td>
 <td><p>李文傑</p></td>
 <td><p>消防及救護學院高級消防隊長<br />
-<a href="../Page/高空拯救專隊.md" title="wikilink">高空拯救專隊HART隊長</a><br />
+<a href="../Page/高空拯救專隊.md" title="wikilink">高空拯救專隊</a>HART隊長<br />
 楊志之好友</p></td>
 <td><p>李Sir、繩王、傑仔</p></td>
 </tr>
@@ -319,7 +319,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/陳鍵鋒" title="wikilink">陳鍵鋒</a>[3]</p></td>
 <td><p>楊　志</p></td>
 <td><p>消防及救護學院高級消防隊長<br />
-<a href="../Page/坍塌搜救專隊.md" title="wikilink">坍塌搜救專隊USAR隊長</a><br />
+<a href="../Page/坍塌搜救專隊.md" title="wikilink">坍塌搜救專隊</a>USAR隊長<br />
 李文傑之好友<br />
 於<strong>單元一：《火伴》</strong>過場客串演出</p></td>
 <td><p>楊Sir、阿志</p></td>
@@ -518,7 +518,7 @@ Michelle之好友</p></td>
 <td><p><a href="../Page/王宗堯.md" title="wikilink">王宗堯</a></p></td>
 <td><p>凌瞬之</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/荔景消防局" title="wikilink">荔景消防局消防隊目</a><br />
-<a href="../Page/危害物質專隊.md" title="wikilink">危害物質專隊成員</a><br />
+<a href="../Page/危害物質專隊.md" title="wikilink">危害物質專隊</a>成員<br />
 為人責任感強，平時性格隨和懂說笑，惟性格上亦較衝動；隨著其多年兄弟鄺家輝晉升管理階級，加上因為工作上問題而產生矛盾；在公在私種種誤會，令二人反目成仇，但於工業大廈大火後和解<br />
 於<strong>單元三：《守破離》</strong>過場客串演出</p></td>
 <td><p>啤零</p></td>
@@ -631,26 +631,25 @@ Michelle之好友</p></td>
   - 本作爲[此劇系列推出以來](../Page/火速救兵系列.md "wikilink")，首齣將各單元之劇情串聯的作品。
   - 2018年5月19至20日，在拍攝單元三《守破離》的巴士意外場景，被市民和司機誤以為發生了真實交通意外。\[14\]
   - 香港电台將以前经常播映一小时的[此劇系列改成以半小时播出](../Page/火速救兵系列.md "wikilink")，经监制[利子良解释原来是为了迁就](https://zh.wikipedia.org/wiki/利子良 "wikilink")[TVB的香港电台播映時段才会这么做](https://zh.wikipedia.org/wiki/TVB "wikilink")\[15\]。
-  - 2018年10月27日，在播映單元二《生死時刻》（上）期間，正值2018年[銀英勇勳章頒獎日](../Page/銀英勇勳章.md "wikilink")，獲頒勳章的其中四名消防員正是當日劇中藍本，在[颱風帕卡中勇救行山人士](https://zh.wikipedia.org/wiki/颱風帕卡 "wikilink")。
-  - 此劇是[何華超和](../Page/何華超.md "wikilink")[張雷第四度同劇演出](https://zh.wikipedia.org/wiki/張雷 "wikilink")，但安排於不同單元故事中演出。
-  - 此劇是[歐錦棠和](../Page/歐錦棠.md "wikilink")[王喜繼](https://zh.wikipedia.org/wiki/王喜 "wikilink")[TVB劇集](../Page/電視廣播有限公司.md "wikilink")《[烈火雄心II](../Page/烈火雄心II.md "wikilink")》後再次同劇演出，但安排於不同單元故事中演出。
-  - 此劇是[歐錦棠](../Page/歐錦棠.md "wikilink")、[蔣祖曼](../Page/蔣祖曼.md "wikilink")、[岑珈其和](../Page/岑珈其.md "wikilink")繼電影《[非同凡響](https://zh.wikipedia.org/wiki/非同凡響 "wikilink")》後再次同劇演出，但安排於不同單元故事中演出。
-  - 此劇是[蔣祖曼第二度參與演出](../Page/蔣祖曼.md "wikilink")，並首次飾演消防隊長角色。
-  - 此劇是[陳鍵鋒和](https://zh.wikipedia.org/wiki/陳鍵鋒 "wikilink")[楊思琦繼](../Page/楊思琦.md "wikilink")[TVB劇集](../Page/電視廣播有限公司.md "wikilink")《[翻叮一族](../Page/翻叮一族.md "wikilink")》後再次同劇合作演出。
-  - 此劇是[劉俊謙和](../Page/劉俊謙_\(香港\).md "wikilink")[袁富華繼](../Page/袁富華.md "wikilink")[香港電視娛樂](../Page/香港電視娛樂.md "wikilink")[ViuTV劇集](../Page/ViuTV.md "wikilink")《[未來還未來](https://zh.wikipedia.org/wiki/未來還未來 "wikilink")》後再次同劇合作演出。
-  - 此劇是[梁雍婷](../Page/梁雍婷.md "wikilink")、[寶珮如和](../Page/寶珮如.md "wikilink")[顧定軒繼電影](../Page/顧定軒.md "wikilink")《[藍天白雲](https://zh.wikipedia.org/wiki/藍天白雲 "wikilink")》後再次同劇合作演出，其中前兩者再次合演母女。
-  - 此劇是[王宗堯和](../Page/王宗堯.md "wikilink")[吳海昕繼](../Page/吳海昕.md "wikilink")[香港電視娛樂](../Page/香港電視娛樂.md "wikilink")[ViuTV劇集](../Page/ViuTV.md "wikilink")《[賤民20](../Page/賤民20.md "wikilink")》後再次同劇合作演出。
-  - [吳海昕於第一天加入劇組參與拍攝當天同時為其生日](../Page/吳海昕.md "wikilink")，故此獲劇組贈送生日蛋糕作為生日禮物。\[16\]
-  - 此劇是[王宗堯和](../Page/王宗堯.md "wikilink")[陸駿光繼](../Page/陸駿光.md "wikilink")[香港電視娛樂](../Page/香港電視娛樂.md "wikilink")[ViuTV劇集](../Page/ViuTV.md "wikilink")《[Plan
-    B](https://zh.wikipedia.org/wiki/Plan_B "wikilink")》後再次同劇合作演出。
-  - 此劇是[陳國邦](../Page/陳國邦.md "wikilink")、[陸駿光和](../Page/陸駿光.md "wikilink")[張松枝繼](../Page/張松枝.md "wikilink")[TVB劇集](../Page/電視廣播有限公司.md "wikilink")《[女拳](../Page/女拳.md "wikilink")》後再次演出，於單元四《兄弟》中正式同劇合作演出。
-  - 此劇是金像獎影帝[黃秋生繼](../Page/黃秋生.md "wikilink")2002年參與劇集《[執法群英](https://zh.wikipedia.org/wiki/執法群英 "wikilink")》後，闊別16年後再度獲邀參與香港電台劇集演出。
-  - 根據香港電台委託[香港大學民意研究計劃進行](../Page/香港大學.md "wikilink")「[電視節目欣賞指數調查](../Page/電視節目欣賞指數調查.md "wikilink")」，於2019年3月13日公佈2018年第四階段調查結果；此劇的欣賞指數更高達80.10分，是[此劇系列中最高的分數](../Page/火速救兵系列.md "wikilink")。\[17\]
+  - 2018年10月27日，在播映單元二《生死時刻》（上）期間，正值2018年[銀英勇勳章](../Page/銀英勇勳章.md "wikilink")頒獎日，獲頒勳章的其中四名消防員正是當日劇中藍本，在[颱風帕卡中勇救行山人士](https://zh.wikipedia.org/wiki/颱風帕卡 "wikilink")。
+  - 此劇是[何華超](../Page/何華超.md "wikilink")和[張雷第四度同劇演出](https://zh.wikipedia.org/wiki/張雷 "wikilink")，但安排於不同單元故事中演出。
+  - 此劇是[歐錦棠](../Page/歐錦棠.md "wikilink")和[王喜繼](https://zh.wikipedia.org/wiki/王喜 "wikilink")[TVB劇集](../Page/電視廣播有限公司.md "wikilink")《[烈火雄心II](../Page/烈火雄心II.md "wikilink")》後再次同劇演出，但安排於不同單元故事中演出。
+  - 此劇是[歐錦棠](../Page/歐錦棠.md "wikilink")、[蔣祖曼](../Page/蔣祖曼.md "wikilink")、[岑珈其](../Page/岑珈其.md "wikilink")和繼電影《[非同凡響](https://zh.wikipedia.org/wiki/非同凡響 "wikilink")》後再次同劇演出，但安排於不同單元故事中演出。
+  - 此劇是[蔣祖曼](../Page/蔣祖曼.md "wikilink")第二度參與演出，並首次飾演消防隊長角色。
+  - 此劇是[陳鍵鋒和](https://zh.wikipedia.org/wiki/陳鍵鋒 "wikilink")[楊思琦](../Page/楊思琦.md "wikilink")繼[TVB劇集](../Page/電視廣播有限公司.md "wikilink")《[翻叮一族](../Page/翻叮一族.md "wikilink")》後再次同劇合作演出。
+  - 此劇是[劉俊謙和](../Page/劉俊謙_\(香港\).md "wikilink")[袁富華](../Page/袁富華.md "wikilink")繼[香港電視娛樂](../Page/香港電視娛樂.md "wikilink")[ViuTV](../Page/ViuTV.md "wikilink")劇集《[未來還未來](https://zh.wikipedia.org/wiki/未來還未來 "wikilink")》後再次同劇合作演出。
+  - 此劇是[梁雍婷](../Page/梁雍婷.md "wikilink")、[寶珮如](../Page/寶珮如.md "wikilink")和[顧定軒](../Page/顧定軒.md "wikilink")繼電影《[藍天白雲](https://zh.wikipedia.org/wiki/藍天白雲 "wikilink")》後再次同劇合作演出，其中前兩者再次合演母女。
+  - 此劇是[王宗堯](../Page/王宗堯.md "wikilink")和[吳海昕](../Page/吳海昕.md "wikilink")繼[香港電視娛樂](../Page/香港電視娛樂.md "wikilink")[ViuTV](../Page/ViuTV.md "wikilink")劇集《[賤民20](../Page/賤民20.md "wikilink")》後再次同劇合作演出。
+  - [吳海昕](../Page/吳海昕.md "wikilink")於第一天加入劇組參與拍攝當天同時為其生日，故此獲劇組贈送生日蛋糕作為生日禮物。\[16\]
+  - 此劇是[王宗堯](../Page/王宗堯.md "wikilink")和[陸駿光](../Page/陸駿光.md "wikilink")繼[香港電視娛樂](../Page/香港電視娛樂.md "wikilink")[ViuTV](../Page/ViuTV.md "wikilink")劇集《[Plan B](https://zh.wikipedia.org/wiki/Plan_B "wikilink")》後再次同劇合作演出。
+  - 此劇是[陳國邦](../Page/陳國邦.md "wikilink")、[陸駿光](../Page/陸駿光.md "wikilink")和[張松枝](../Page/張松枝.md "wikilink")繼[TVB劇集](../Page/電視廣播有限公司.md "wikilink")《[女拳](../Page/女拳.md "wikilink")》後再次演出，於單元四《兄弟》中正式同劇合作演出。
+  - 此劇是金像獎影帝[黃秋生](../Page/黃秋生.md "wikilink")繼2002年參與劇集《[執法群英](https://zh.wikipedia.org/wiki/執法群英 "wikilink")》後，闊別16年後再度獲邀參與香港電台劇集演出。
+  - 根據香港電台委託[香港大學](../Page/香港大學.md "wikilink")民意研究計劃進行「[電視節目欣賞指數調查](../Page/電視節目欣賞指數調查.md "wikilink")」，於2019年3月13日公佈2018年第四階段調查結果；此劇的欣賞指數更高達80.10分，是[此劇系列中最高的分數](../Page/火速救兵系列.md "wikilink")。\[17\]
 
 ## 記事
 
-  - 2018年10月6日：本劇於15:00在將軍澳百勝角[消防及救護學院舉行劇集啟播禮](../Page/消防及救護學院.md "wikilink")\[18\]。
-  - 2018年10月9日、2019年1月2及3日：本劇於15:30在九龍灣展貿徑1號[九龍灣國際展貿中心](../Page/九龍灣國際展貿中心.md "wikilink")[EMax地下](../Page/EMax.md "wikilink")[星影匯舉行三場](../Page/星影匯.md "wikilink")[劇場版放映會](https://zh.wikipedia.org/wiki/電影版 "wikilink")。
+  - 2018年10月6日：本劇於15:00在將軍澳百勝角[消防及救護學院](../Page/消防及救護學院.md "wikilink")舉行劇集啟播禮\[18\]。
+  - 2018年10月9日、2019年1月2及3日：本劇於15:30在九龍灣展貿徑1號[九龍灣國際展貿中心](../Page/九龍灣國際展貿中心.md "wikilink")[EMax](../Page/EMax.md "wikilink")地下[星影匯](../Page/星影匯.md "wikilink")舉行三場[劇場版放映會](https://zh.wikipedia.org/wiki/電影版 "wikilink")。
 
 ## 參見
 
@@ -667,22 +666,12 @@ Michelle之好友</p></td>
 
   - [香港電台官方網站 - 火速救兵IV](http://rthk.hk/fsd4/)
 
-  - [香港電台節目網站 -
-    火速救兵IV](http://www.rthk.hk/tv/dtt31/programme/elitebrigade4)
+  - [香港電台節目網站 - 火速救兵IV](http://www.rthk.hk/tv/dtt31/programme/elitebrigade4)
 
-  - [香港電台節目網站 -
-    火速救兵IV（劇場版）](http://www.rthk.hk/tv/dtt31/programme/elitebrigade4_themovie)
+  - [香港電台節目網站 - 火速救兵IV（劇場版）](http://www.rthk.hk/tv/dtt31/programme/elitebrigade4_themovie)
 
   -
-[Category:香港電台電視劇集](https://zh.wikipedia.org/wiki/Category:香港電台電視劇集 "wikilink")
-[Category:香港電台電視劇集系列](https://zh.wikipedia.org/wiki/Category:香港電台電視劇集系列 "wikilink")
-[Category:2018年香港電視劇集](https://zh.wikipedia.org/wiki/Category:2018年香港電視劇集 "wikilink")
-[Category:2018年播出的電視劇季度](https://zh.wikipedia.org/wiki/Category:2018年播出的電視劇季度 "wikilink")
-[Category:人命救助題材作品](https://zh.wikipedia.org/wiki/Category:人命救助題材作品 "wikilink")
-[Category:單元劇](https://zh.wikipedia.org/wiki/Category:單元劇 "wikilink")
-[Category:火災題材作品](https://zh.wikipedia.org/wiki/Category:火災題材作品 "wikilink")
-[Category:香港島背景電視劇](https://zh.wikipedia.org/wiki/Category:香港島背景電視劇 "wikilink")
-[Category:消防題材電視劇](https://zh.wikipedia.org/wiki/Category:消防題材電視劇 "wikilink")
+[Category:香港電台電視劇集](https://zh.wikipedia.org/wiki/Category:香港電台電視劇集 "wikilink") [Category:香港電台電視劇集系列](https://zh.wikipedia.org/wiki/Category:香港電台電視劇集系列 "wikilink") [Category:2018年香港電視劇集](https://zh.wikipedia.org/wiki/Category:2018年香港電視劇集 "wikilink") [Category:2018年播出的電視劇季度](https://zh.wikipedia.org/wiki/Category:2018年播出的電視劇季度 "wikilink") [Category:人命救助題材作品](https://zh.wikipedia.org/wiki/Category:人命救助題材作品 "wikilink") [Category:單元劇](https://zh.wikipedia.org/wiki/Category:單元劇 "wikilink") [Category:火災題材作品](https://zh.wikipedia.org/wiki/Category:火災題材作品 "wikilink") [Category:香港島背景電視劇](https://zh.wikipedia.org/wiki/Category:香港島背景電視劇 "wikilink") [Category:消防題材電視劇](https://zh.wikipedia.org/wiki/Category:消防題材電視劇 "wikilink")
 
 1.
 2.

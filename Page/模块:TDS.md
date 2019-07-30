@@ -1,14 +1,4 @@
-\--\[=\[
-用來展示[模块:Template:Delete/data/sandbox](https://zh.wikipedia.org/wiki/模块:Template:Delete/data/sandbox "wikilink")
-放在方針的準則比較可以寫在[模块:Template:Delete/data/sandbox](https://zh.wikipedia.org/wiki/模块:Template:Delete/data/sandbox "wikilink")，並使用：
- |{{\#invoke:TDS|desc|項}} }}
-
-## 重定向
-
-  -
-
-\]=\]-- local data = require( 'Module:Template:Delete/data/sandbox'
-)--無必要請不要改成[Module:Template:Delete/data](https://zh.wikipedia.org/wiki/Module:Template:Delete/data "wikilink")
+\--\[=\[ 用來展示[模块:Template:Delete/data/sandbox](https://zh.wikipedia.org/wiki/模块:Template:Delete/data/sandbox "wikilink") 放在方針的準則比較可以寫在[模块:Template:Delete/data/sandbox](https://zh.wikipedia.org/wiki/模块:Template:Delete/data/sandbox "wikilink")，並使用：  |{{\#invoke:TDS|desc|項}} }} 更簡單的方式：  \]=\]-- local data = require( 'Module:Template:Delete/data/sandbox' )
 
 local z = {}
 

@@ -16,8 +16,7 @@
 
 ## 年代之争
 
-魏松卿通过图案作风、织绣品的丝织织法、以及一起出土的其他文物等判断出其年代应该是北宋至南宋绍兴年间\[8\]。
-张琼则认为魏松卿的几点证明不足以确定锦袍的具体年代，并且通过墓葬的形式、随葬品的质量以及锦袍伤的印符等证据判断其为公元800年左右的[波斯](../Page/波斯.md "wikilink")[萨珊式织锦](https://zh.wikipedia.org/wiki/萨珊 "wikilink")\[9\]。赵丰、王乐、王明芳则认为其袍图案、结构与[辽墓出土的文物类似](https://zh.wikipedia.org/wiki/辽 "wikilink")，年代为[北宋](../Page/北宋.md "wikilink")至[南宋](../Page/南宋.md "wikilink")[绍兴年间的使用胡棉织成的胡袍](https://zh.wikipedia.org/wiki/绍兴年间 "wikilink")\[10\]。
+魏松卿通过图案作风、织绣品的丝织织法、以及一起出土的其他文物等判断出其年代应该是北宋至南宋绍兴年间\[8\]。 张琼则认为魏松卿的几点证明不足以确定锦袍的具体年代，并且通过墓葬的形式、随葬品的质量以及锦袍伤的印符等证据判断其为公元800年左右的[波斯](../Page/波斯.md "wikilink")[萨珊式织锦](https://zh.wikipedia.org/wiki/萨珊 "wikilink")\[9\]。赵丰、王乐、王明芳则认为其袍图案、结构与[辽墓出土的文物类似](https://zh.wikipedia.org/wiki/辽 "wikilink")，年代为[北宋](../Page/北宋.md "wikilink")至[南宋](../Page/南宋.md "wikilink")[绍兴年间的使用胡棉织成的胡袍](https://zh.wikipedia.org/wiki/绍兴年间 "wikilink")\[10\]。
 
 ## 出土日期
 

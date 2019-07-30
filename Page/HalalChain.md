@@ -2,9 +2,7 @@
 
 ## 项目背景
 
-HalalChain于2017年11月21日在[阿拉伯联合酋长国](../Page/阿拉伯联合酋长国.md "wikilink")[迪拜航空自贸区](https://zh.wikipedia.org/wiki/迪拜 "wikilink")（Dubai
-Airport
-Freezone）开展了项目发布会\[2\]，12月20日完成了[首次代币发行](../Page/首次代币发行.md "wikilink")。12月28日登陆了数字货币交易所，首日交易额超过3亿元人民币。
+HalalChain于2017年11月21日在[阿拉伯联合酋长国](../Page/阿拉伯联合酋长国.md "wikilink")[迪拜航空自贸区](https://zh.wikipedia.org/wiki/迪拜 "wikilink")（Dubai Airport Freezone）开展了项目发布会\[2\]，12月20日完成了[首次代币发行](../Page/首次代币发行.md "wikilink")。12月28日登陆了数字货币交易所，首日交易额超过3亿元人民币。
 
 ## HLC代币
 
@@ -14,16 +12,15 @@ HalalChain的代币称为HLC，代码为HLC，可在许多加密货币的外汇�
 
 相较于较大多数其他区块链技术，HalalChain具有以下特点：
 
-  - 采用[有向无环图](https://zh.wikipedia.org/wiki/有向无环图 "wikilink")（Directed
-    acyclic
-    graph，缩写DAG）为底层技术，DAG是一个图数据结构，图中的每个顶点都会指向不定个数的其他顶点，即有向，同时不存在从某个顶点出发一条路径指回该顶点，
-    即无环。
+  - 采用[有向无环图](https://zh.wikipedia.org/wiki/有向无环图 "wikilink")（Directed acyclic graph，缩写DAG）为底层技术，DAG是一个图数据结构，图中的每个顶点都会指向不定个数的其他顶点，即有向，同时不存在从某个顶点出发一条路径指回该顶点， 即无环。
 
 ## 参考文献
 
-\[5\] \[6\] \[7\] \[8\] \[9\] \[10\] \[11\] <ref>{{cite news
-|title=HalalChain Might Help in Your Quest For Authentic Halal Food
-|url=<https://blockpublisher.com/halalchain-migh>
+\[5\] \[6\] \[7\] \[8\] \[9\] \[10\] \[11\] \[12\] \[13\] \[14\]
+
+## 外部連結
+
+[官方网站](https://hlc.com/)
 
 [Category:支付系统](https://zh.wikipedia.org/wiki/Category:支付系统 "wikilink")
 
@@ -38,3 +35,6 @@ HalalChain的代币称为HLC，代码为HLC，可在许多加密货币的外汇�
 9.
 10.
 11.
+12.
+13.
+14.

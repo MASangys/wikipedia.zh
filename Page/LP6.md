@@ -1,21 +1,16 @@
-**LP6**是一個香港新界東將軍澳東南部的臨海豪華私人屋苑，是[港鐵大型臨海住宅區](../Page/港鐵.md "wikilink")[日出康城第](../Page/日出康城.md "wikilink")6期，名字意為LOHAS
-Park
-6。屋苑賣點為“向海、向南”，即過半單位享有正南方全海景致。項目由[南豐發展](https://zh.wikipedia.org/wiki/南豐發展 "wikilink")、[遠洋地產及](https://zh.wikipedia.org/wiki/遠洋地產 "wikilink")[港鐵公司共同發展](https://zh.wikipedia.org/wiki/港鐵公司 "wikilink")，建築師為[劉榮廣伍振民建築師事務所](https://zh.wikipedia.org/wiki/劉榮廣伍振民建築師事務所 "wikilink")\[1\]
-，由[協興建築承建](../Page/協興建築.md "wikilink")，將於2020年第三季落成及入伙，提供2,392個單位，包括1至5房單位，以及日出康城已開售各期中面積最大的頂層特色戶，面積超過2,700平方呎，連私人電梯大堂、1,700呎天台及私人空中泳池。
+**LP6**是一個香港新界東將軍澳東南部的臨海豪華私人屋苑，是[港鐵](../Page/港鐵.md "wikilink")大型臨海住宅區[日出康城](../Page/日出康城.md "wikilink")第6期，名字意為LOHAS Park 6。屋苑賣點為“向海、向南”，即過半單位享有正南方全海景致。項目由[南豐發展](https://zh.wikipedia.org/wiki/南豐發展 "wikilink")、[遠洋地產及](https://zh.wikipedia.org/wiki/遠洋地產 "wikilink")[港鐵公司共同發展](https://zh.wikipedia.org/wiki/港鐵公司 "wikilink")，建築師為[劉榮廣伍振民建築師事務所](https://zh.wikipedia.org/wiki/劉榮廣伍振民建築師事務所 "wikilink")\[1\] ，由[協興建築](../Page/協興建築.md "wikilink")承建，將於2020年第三季落成及入伙，提供2,392個單位，包括1至5房單位，以及日出康城已開售各期中面積最大的頂層特色戶，面積超過2,700平方呎，連私人電梯大堂、1,700呎天台及私人空中泳池。
 
-項目於2018年7月31日批售，並將於8月尾開售。發展商以「海鷗仔」為「eco
-rich」大使，若買家購入單位可獲贈一隻公仔。\[2\]此項目是在2018年7月政府公佈新房屋政策後，首個獲批售的新盤，每次開售時需按新房策規定，最少推出20%（即479伙）單位。另外，此項目亦於2018年榮獲[Autodesk建築資訊模擬](../Page/Autodesk.md "wikilink")（BIM）應用獎項。
+項目於2018年7月31日批售，並將於8月尾開售。發展商以「海鷗仔」為「eco rich」大使，若買家購入單位可獲贈一隻公仔。\[2\]此項目是在2018年7月政府公佈新房屋政策後，首個獲批售的新盤，每次開售時需按新房策規定，最少推出20%（即479伙）單位。另外，此項目亦於2018年榮獲[Autodesk](../Page/Autodesk.md "wikilink")建築資訊模擬（BIM）應用獎項。
 
 ## 歷史
 
 項目在2014年12月16日推出，並於2015年1月19日截標，吸引7間財團參與。地盤面積14.74萬平方呎，項目可建4幢住宅，最少需要建1,600伙，而最多可建2,400伙，包括一房至三房戶，變相容許發展商打造中小型單位，估值最高約30.96億元。
 
-2015年1月20日，港鐵公佈由[南豐集團以總補地價金額約為](../Page/南豐集團.md "wikilink")33.45億元，即每平方呎補地價2,269元奪得。\[3\]
+2015年1月20日，港鐵公佈由[南豐集團](../Page/南豐集團.md "wikilink")以總補地價金額約為33.45億元，即每平方呎補地價2,269元奪得。\[3\]
 
 2017年3月，項目開展上蓋工程，並豎立塔式起重機。同年年中，[遠洋地產正式完成參股此項目的程序](https://zh.wikipedia.org/wiki/遠洋地產 "wikilink")（佔40%），使此項目成為南豐與遠洋首個合營項目，亦為遠洋在港首個地產項目。
 
-2017年9月，本項目正式申請預售，到2018年7月31日獲批預售樓花同意紙，屬政府7月底公佈新房策後首個獲批售樓紙新盤。同年8月8日，項目正式命名為「LP6」，顧名思義為LOHAS
-Park（日出康城）第6期。
+2017年9月，本項目正式申請預售，到2018年7月31日獲批預售樓花同意紙，屬政府7月底公佈新房策後首個獲批售樓紙新盤。同年8月8日，項目正式命名為「LP6」，顧名思義為LOHAS Park（日出康城）第6期。
 
 ## 住宅
 
@@ -40,14 +35,11 @@ Park（日出康城）第6期。
 
 **獎項**
 
-項目主打綠色建築概念「eco
-rich」，設有五大配套，包括「踏板發電系統」、「太陽能發電系統」、「雨水收集循環再用系統」、「廚餘轉化系統」和「電動車充電裝置」。已獲香港綠色建築議會頒發綠建環評（BEAM
-Plus）1.2版（新建建築）暫定金級認證。
+項目主打綠色建築概念「eco rich」，設有五大配套，包括「踏板發電系統」、「太陽能發電系統」、「雨水收集循環再用系統」、「廚餘轉化系統」和「電動車充電裝置」。已獲香港綠色建築議會頒發綠建環評（BEAM Plus）1.2版（新建建築）暫定金級認證。
 
 ## 設施
 
-項目會所名為「The Happy
-Club」，佔地3.8萬方呎，設施包括40米恒溫泳池、25米恆溫泳池、多用途體育館、閱覽室、燒烤區等。\[5\]
+項目會所名為「The Happy Club」，佔地3.8萬方呎，設施包括40米恒溫泳池、25米恆溫泳池、多用途體育館、閱覽室、燒烤區等。\[5\]
 
 項目另設有479個住戶車位和50個電單車車位，設於地庫1及2樓，車位與住戶比例約為5：1。
 
@@ -72,12 +64,7 @@ Club」，佔地3.8萬方呎，設施包括40米恒溫泳池、25米恆溫泳池
 
   - [LP6](http://www.lp6.com.hk)
 
-[Category:西貢區私人屋苑](https://zh.wikipedia.org/wiki/Category:西貢區私人屋苑 "wikilink")
-[Category:南豐發展物業](https://zh.wikipedia.org/wiki/Category:南豐發展物業 "wikilink")
-[Category:港鐵公司物業](https://zh.wikipedia.org/wiki/Category:港鐵公司物業 "wikilink")
-[Category:小赤沙](https://zh.wikipedia.org/wiki/Category:小赤沙 "wikilink")
-[Category:日出康城](https://zh.wikipedia.org/wiki/Category:日出康城 "wikilink")
-[Category:200米至249米高的摩天大樓](https://zh.wikipedia.org/wiki/Category:200米至249米高的摩天大樓 "wikilink")
+[Category:西貢區私人屋苑](https://zh.wikipedia.org/wiki/Category:西貢區私人屋苑 "wikilink") [Category:南豐發展物業](https://zh.wikipedia.org/wiki/Category:南豐發展物業 "wikilink") [Category:港鐵公司物業](https://zh.wikipedia.org/wiki/Category:港鐵公司物業 "wikilink") [Category:小赤沙](https://zh.wikipedia.org/wiki/Category:小赤沙 "wikilink") [Category:日出康城](https://zh.wikipedia.org/wiki/Category:日出康城 "wikilink") [Category:200米至249米高的摩天大樓](https://zh.wikipedia.org/wiki/Category:200米至249米高的摩天大樓 "wikilink")
 
 1.  [劉榮廣伍振民建築師事務所-日出康城第六期](http://www.dln.com.hk/html5/?section=project&lang=zh)
 2.

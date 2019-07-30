@@ -2,28 +2,19 @@
 
 -----
 
-\-- Module:Hatnote list -- -- -- -- This module produces and formats
-lists for use in hatnotes. In particular, -- -- it implements the
-for-see list, i.e. lists of "For X, see Y" statements, -- -- as used in
-, , and their variants. Also introduced -- -- are andList & orList
-helpers for formatting lists with those conjunctions. --
+\-- Module:Hatnote list -- -- -- -- This module produces and formats lists for use in hatnotes. In particular, -- -- it implements the for-see list, i.e. lists of "For X, see Y" statements, -- -- as used in , , and their variants. Also introduced -- -- are andList & orList helpers for formatting lists with those conjunctions. --
 
 -----
 
-local mArguments --initialize lazily local mHatnote =
-require('Module:Hatnote') local libraryUtil = require('libraryUtil')
-local checkType = libraryUtil.checkType local p = {}
+local mArguments --initialize lazily local mHatnote = require('Module:Hatnote') local libraryUtil = require('libraryUtil') local checkType = libraryUtil.checkType local p = {}
 
 -----
 
-\-- List stringification helper functions -- -- These functions are used
-for stringifying lists, usually page lists inside -- the "Y" portion of
-"For X, see Y" for-see items.
+\-- List stringification helper functions -- -- These functions are used for stringifying lists, usually page lists inside -- the "Y" portion of "For X, see Y" for-see items.
 
 -----
 
-\--default options table used across the list stringification functions
--- 本地化注意 local stringifyListDefaultOptions = {
+\--default options table used across the list stringification functions -- 本地化注意 local stringifyListDefaultOptions = {
 
 `   conjunction = "和",`
 `   separator = "、",`
@@ -35,8 +26,7 @@ for stringifying lists, usually page lists inside -- the "Y" portion of
 
 }
 
-\-- Stringifies a list generically; probably shouldn't be used directly
-function stringifyList(list, options)
+\-- Stringifies a list generically; probably shouldn't be used directly function stringifyList(list, options)
 
 `   -- Type-checks, defaults, and a shortcut`
 `   checkType("stringifyList", 1, list, "table")`
@@ -86,20 +76,15 @@ end
 
 end
 
-\-- Stringifies lists with "and" or "or" -- 本地化注意 function p.andList
-(...) return conjList("和", ...) end function p.orList (...) return
-conjList("或", ...) end
+\-- Stringifies lists with "and" or "or" -- 本地化注意 function p.andList (...) return conjList("和", ...) end function p.orList (...) return conjList("或", ...) end
 
 -----
 
-\-- For see -- -- Makes a "For X, see [Y](../Page/Y.md "wikilink")."
-list from raw parameters. Intended for the --  and  templates and their
-variants.
+\-- For see -- -- Makes a "For X, see [Y](../Page/Y.md "wikilink")." list from raw parameters. Intended for the --  and  templates and their variants.
 
 -----
 
-\--default options table used across the forSee family of functions --
-本地化注意 local forSeeDefaultOptions = {
+\--default options table used across the forSee family of functions -- 本地化注意 local forSeeDefaultOptions = {
 
 `   andKeyword = '和',`
 `   title = mw.title.getCurrentTitle().text,`
@@ -108,8 +93,7 @@ variants.
 
 }
 
-\--Collapses duplicate punctuation -- 本地化注意 function punctuationCollapse
-(text)
+\--Collapses duplicate punctuation -- 本地化注意 function punctuationCollapse (text)
 
 `   local replacements = {`
 `       ["%.%.$"] = ".",`
@@ -130,8 +114,7 @@ variants.
 
 end
 
-\-- Structures arguments into a table for stringification, & options
-function p.forSeeArgsToTable (args, from, options)
+\-- Structures arguments into a table for stringification, & options function p.forSeeArgsToTable (args, from, options)
 
 `   -- Type-checks and defaults`
 `   checkType("forSeeArgsToTable", 1, args, 'table')`
@@ -187,8 +170,7 @@ function p.forSeeArgsToTable (args, from, options)
 
 end
 
-\-- Stringifies a table as formatted by forSeeArgsToTable function
-p.forSeeTableToString (forSeeTable, options)
+\-- Stringifies a table as formatted by forSeeArgsToTable function p.forSeeTableToString (forSeeTable, options)
 
 `   -- Type-checks and defaults`
 `   checkType("forSeeTableToString", 1, forSeeTable, "table", true)`
@@ -215,18 +197,14 @@ p.forSeeTableToString (forSeeTable, options)
 
 end
 
-\-- Produces a "For X, see [Y](../Page/Y.md "wikilink")" string from
-arguments. Expects index gaps -- but not blank/whitespace values.
-Ignores named args and args \< "from". function p._forSee (args, from,
-options)
+\-- Produces a "For X, see [Y](../Page/Y.md "wikilink")" string from arguments. Expects index gaps -- but not blank/whitespace values. Ignores named args and args \< "from". function p._forSee (args, from, options)
 
 `   local forSeeTable = p.forSeeArgsToTable(args, from, options)`
 `   return p.forSeeTableToString(forSeeTable, options)`
 
 end
 
-\-- As _forSee, but uses the frame. function p.forSee (frame, from,
-options)
+\-- As _forSee, but uses the frame. function p.forSee (frame, from, options)
 
 `   mArguments = require('Module:Arguments')`
 `   return p._forSee(mArguments.getArgs(frame), from, options)`

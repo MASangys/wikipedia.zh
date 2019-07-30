@@ -1,5 +1,4 @@
-**BVNDIT**（；**Be Ambitious N Do
-It**的缩写，直译「向着梦想勇敢前进」），是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MNH娱乐](https://zh.wikipedia.org/wiki/MNH娱乐 "wikilink")2019年推出的五人女子组合，这也是MNH娱乐打造的首支女团\[1\]。
+**BVNDIT**（；**Be Ambitious N Do It**的缩写，直译「向着梦想勇敢前进」），是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MNH娱乐](https://zh.wikipedia.org/wiki/MNH娱乐 "wikilink")2019年推出的五人女子组合，这也是MNH娱乐打造的首支女团\[1\]。
 
 ## 團體資料
 
@@ -20,15 +19,21 @@ It**的缩写，直译「向着梦想勇敢前进」），是[韓國](https://zh
 
 ### 團名由來
 
-**BVNDIT**是“Be Ambitious N Do IT”的缩写，意在“向着梦想勇敢前进”。
+**BVNDIT**
+
+是“Be Ambitious N Do IT”的缩写，意在“向着梦想勇敢前进”。
+
+### 粉絲名稱
+
+**BVNDITBUL**
+
+意旨「 Bvndit Be Ur Light 」
 
 ## 發展歷程
 
 ### 2019年：出道準備、正式出道
 
-2019年3月11日至13日期间陆续公开了5名成员个人预告照。 4月10日，推出首张數位單曲《BVNDIT,BE
-AMBITIOUS\!》，并发表主打歌曲〈Hocus Pocus〉正式出道。4月11日，通过《M\!
-Countdown》带来首个正式出道舞台。 5月15日，单曲〈Dramatic〉回归，舞蹈室版本。
+2019年3月11日至13日期间陆续公开了5名成员个人预告照。 4月10日，推出首张數位單曲《BVNDIT,BE AMBITIOUS\!》，并发表主打歌曲〈Hocus Pocus〉正式出道。4月11日，通过《M\! Countdown》带来首个正式出道舞台。 5月15日，单曲〈Dramatic〉回归，舞蹈室版本。
 
 ## 音樂作品
 
@@ -174,11 +179,7 @@ Countdown》带来首个正式出道舞台。 5月15日，单曲〈Dramatic〉�
   -
   -
   -
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
-[Category:2019年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2019年成立的音樂團體 "wikilink")
-[Category:2019年韓國建立](https://zh.wikipedia.org/wiki/Category:2019年韓國建立 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
+[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:2019年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2019年成立的音樂團體 "wikilink") [Category:2019年韓國建立](https://zh.wikipedia.org/wiki/Category:2019年韓國建立 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
 
 1.
 2.

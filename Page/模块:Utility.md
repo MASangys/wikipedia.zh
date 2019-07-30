@@ -1,7 +1,6 @@
 local utils = {}
 
-\--[Number of elements in a dictionary
---](https://zh.wikipedia.org/wiki/Number_of_elements_in_a_dictionary_-- "wikilink")
+\--[Number of elements in a dictionary --](https://zh.wikipedia.org/wiki/Number_of_elements_in_a_dictionary_-- "wikilink")
 
 function utils.tablelength(T)
 
@@ -11,8 +10,7 @@ function utils.tablelength(T)
 
 end
 
-\--[New table without first element
---](https://zh.wikipedia.org/wiki/New_table_without_first_element_-- "wikilink")
+\--[New table without first element --](https://zh.wikipedia.org/wiki/New_table_without_first_element_-- "wikilink")
 
 function utils.tail(list)
 
@@ -29,14 +27,9 @@ function utils.tableConcat(t1,t2)
 
 end
 
-\--[A class intended to serve as a set to quickly test whether an
-element belongs to a list or set
---](https://zh.wikipedia.org/wiki/A_class_intended_to_serve_as_a_set_to_quickly_test_whether_an_element_belongs_to_a_list_or_set_-- "wikilink")
+\--[A class intended to serve as a set to quickly test whether an element belongs to a list or set --](https://zh.wikipedia.org/wiki/A_class_intended_to_serve_as_a_set_to_quickly_test_whether_an_element_belongs_to_a_list_or_set_-- "wikilink")
 
-local Set = {} -- the table representing the class, which will double as
-the metatable for the instances Set.__index = Set -- failed table
-lookups on the instances should fallback to the class table, to get
-methods
+local Set = {} -- the table representing the class, which will double as the metatable for the instances Set.__index = Set -- failed table lookups on the instances should fallback to the class table, to get methods
 
 function Set:new(init, o)
 
@@ -62,9 +55,7 @@ end
 
 utils.Set = Set
 
-\-- table.filter({"a", "b", "c", "d"}, function(o, k, i) return o \>=
-"c" end) --\> {"c","d"} -- -- @FGRibreau - Francois-Guillaume Ribreau --
-@Redsmin - A full-feature client for Redis <http://redsmin.com>
+\-- table.filter({"a", "b", "c", "d"}, function(o, k, i) return o \>= "c" end) --\> {"c","d"} -- -- @FGRibreau - Francois-Guillaume Ribreau -- @Redsmin - A full-feature client for Redis <http://redsmin.com>
 
 \-- <https://gist.github.com/fnchooft/77779d80d6668e8eeb3043dad215575a>
 
@@ -82,9 +73,7 @@ end
 
 utils.filter = filter
 
-\--[Functional programming, application of a function on each element of
-a table map(f,{a, b, c, ...}) = {f(a), f(b), f(c), ...}
---](https://zh.wikipedia.org/wiki/Functional_programming,_application_of_a_function_on_each_element_of_a_table_map\(f,{a,_b,_c,_...}\)_=_{f\(a\),_f\(b\),_f\(c\),_...}_-- "wikilink")
+\--[Functional programming, application of a function on each element of a table map(f,{a, b, c, ...}) = {f(a), f(b), f(c), ...} --](https://zh.wikipedia.org/wiki/Functional_programming,_application_of_a_function_on_each_element_of_a_table_map\(f,{a,_b,_c,_...}\)_=_{f\(a\),_f\(b\),_f\(c\),_...}_-- "wikilink")
 
 local function map(func, array)
 
@@ -124,13 +113,11 @@ local function dump_to_console(val, indent)
 
 end
 
-utils.dump_to_console = dump_to_console utils.dump =
-dump_to_console
+utils.dump_to_console = dump_to_console utils.dump = dump_to_console
 
 \-- some functions useful in lua
 
-local function splitStr(val) -- Transforms Wikitext that uses comma
-delimination into strings
+local function splitStr(val) -- Transforms Wikitext that uses comma delimination into strings
 
 `   if type(val) == 'string' then`
 `       val = mw.text.split(val, ",")`
@@ -141,11 +128,7 @@ end
 
 utils.splitStr = splitStr
 
-\-- utility : stack manipulation functions -- Console tests : -- plop =
-{} ; p.append(plop, "a") ; p.append(plop, "a") ; p.push(plop, "b") ;
-p.append(plop, "c") ; p.push(plop, "a") ; mw.log(p.
-dump_to_console(plop)) ; p.shove_off(plop) ; p.pop(plop) ;
-mw.log(plop)
+\-- utility : stack manipulation functions -- Console tests : -- plop = {} ; p.append(plop, "a") ; p.append(plop, "a") ; p.push(plop, "b") ; p.append(plop, "c") ; p.push(plop, "a") ; mw.log(p. dump_to_console(plop)) ; p.shove_off(plop) ; p.pop(plop) ; mw.log(plop)
 
 local function pop(list)
 

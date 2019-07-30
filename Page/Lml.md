@@ -1,5 +1,4 @@
-**lml**是[lol的第二張專輯](../Page/Lol_\(團體\).md "wikilink")。2018年10月31日由avex
-trax發售\[1\]。
+**lml**是[lol的第二張專輯](../Page/Lol_\(團體\).md "wikilink")。2018年10月31日由avex trax發售\[1\]。
 
 ## 収録曲
 
@@ -57,7 +56,6 @@ trax發售\[1\]。
 
 ## 脚注
 
-[Category:2018年音樂專輯](https://zh.wikipedia.org/wiki/Category:2018年音樂專輯 "wikilink")
-[Category:愛貝克思音樂專輯](https://zh.wikipedia.org/wiki/Category:愛貝克思音樂專輯 "wikilink")
+[Category:2018年音樂專輯](https://zh.wikipedia.org/wiki/Category:2018年音樂專輯 "wikilink") [Category:愛貝克思音樂專輯](https://zh.wikipedia.org/wiki/Category:愛貝克思音樂專輯 "wikilink")
 
 1.  [lol、ツアーファイナルとなった初Zeppワンマンで新アルバム発売告知](https://natalie.mu/music/news/293498)音楽ナタリー（2018年7月31日）

@@ -1,24 +1,17 @@
-**iPadOS**是[蘋果公司在](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[iPad上使用的](https://zh.wikipedia.org/wiki/iPad "wikilink")[行動作業系統](../Page/行動作業系統.md "wikilink")，最新版本iPadOS
-13於2019年6月4日[WWDC上发布](https://zh.wikipedia.org/wiki/WWDC "wikilink")\[1\]。
+**iPadOS**是[蘋果公司在](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[iPad上使用的](https://zh.wikipedia.org/wiki/iPad "wikilink")[行動作業系統](../Page/行動作業系統.md "wikilink")，最新版本iPadOS 13於2019年6月4日[WWDC上发布](https://zh.wikipedia.org/wiki/WWDC "wikilink")\[1\]。
 
 ## 特色
 
 ## 支援裝置
 
   - **[iPad](https://zh.wikipedia.org/wiki/iPad "wikilink"):**
-      - [iPad Air
-        2](https://zh.wikipedia.org/wiki/iPad_Air_2 "wikilink")
-      - [iPad Air
-        (第三代)](https://zh.wikipedia.org/wiki/iPad_Air_\(第三代\) "wikilink")
-      - [iPad mini
-        4](https://zh.wikipedia.org/wiki/iPad_mini_4 "wikilink")
-      - [iPad mini
-        (第五代)](https://zh.wikipedia.org/wiki/iPad_mini_\(第五代\) "wikilink")
+      - [iPad Air 2](https://zh.wikipedia.org/wiki/iPad_Air_2 "wikilink")
+      - [iPad Air (第三代)](https://zh.wikipedia.org/wiki/iPad_Air_\(第三代\) "wikilink")
+      - [iPad mini 4](https://zh.wikipedia.org/wiki/iPad_mini_4 "wikilink")
+      - [iPad mini (第五代)](https://zh.wikipedia.org/wiki/iPad_mini_\(第五代\) "wikilink")
       - [iPad Pro](https://zh.wikipedia.org/wiki/iPad_Pro "wikilink")
-      - [iPad
-        (第五代)](https://zh.wikipedia.org/wiki/iPad_\(第五代\) "wikilink")
-      - [iPad
-        (第六代)](https://zh.wikipedia.org/wiki/iPad_\(第六代\) "wikilink")
+      - [iPad (第五代)](https://zh.wikipedia.org/wiki/iPad_\(第五代\) "wikilink")
+      - [iPad (第六代)](https://zh.wikipedia.org/wiki/iPad_\(第六代\) "wikilink")
 
 ## 版本歷史
 

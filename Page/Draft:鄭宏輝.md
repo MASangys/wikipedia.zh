@@ -1,7 +1,6 @@
 -----
 
-**鄭宏輝**(英語：JHENG HONG
-HUEI，1969年8月16日)，民主進步黨籍政治人物，畢業於台灣大學政治學系研究所，台灣新竹市人。29歲當選新竹市議員，為當時市議會最年輕的議員。現角逐2020年立委大選。
+**鄭宏輝**(英語：JHENG HONG HUEI，1969年8月16日)，民主進步黨籍政治人物，畢業於台灣大學政治學系研究所，台灣新竹市人。29歲當選新竹市議員，為當時市議會最年輕的議員。現角逐2020年立委大選。
 
 ## 經歷
 
@@ -52,16 +51,14 @@ HUEI，1969年8月16日)，民主進步黨籍政治人物，畢業於台灣大�
 
 ## 外部連結
 
-  - [Vote Taiwan 鄭宏輝
-    投票指南](https://councils.g0v.tw/councilors/info/1ec936573ec7407dbe754fe17dc044f6/2014/)
+  - [Vote Taiwan 鄭宏輝 投票指南](https://councils.g0v.tw/councilors/info/1ec936573ec7407dbe754fe17dc044f6/2014/)
   - [推薦新竹市議員鄭宏輝　柯建銘放棄參選下屆立委](https://www.storm.mg/article/425013)
   - [議員卸任 鄭宏輝宣布投入竹市立委選舉](https://udn.com/news/story/7324/3555346)
   - [106年全國義消楷模鳳凰獎-總隊長鄭宏輝](http://volunteer.hcfd.gov.tw/award_show.aspx?id=698)
 
 ## 文獻
 
-  - [下屆新竹市區域立委交棒鄭宏輝
-    柯建銘將轉任不分區](https://www.youtube.com/watch?v=ouNpsBoizgg)
+  - [下屆新竹市區域立委交棒鄭宏輝 柯建銘將轉任不分區](https://www.youtube.com/watch?v=ouNpsBoizgg)
   - [第9屆新竹市議員列表](https://zh.wikipedia.org/wiki/%E7%AC%AC9%E5%B1%86%E6%96%B0%E7%AB%B9%E5%B8%82%E8%AD%B0%E5%93%A1%E5%88%97%E8%A1%A8)
 
 [:Category:使用创建条目精灵建立的页面](https://zh.wikipedia.org/wiki/Category:使用创建条目精灵建立的页面 "wikilink")

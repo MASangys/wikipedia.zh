@@ -2,8 +2,7 @@
 
 ## 簡介
 
-前作《blue
-blue》約8個月之後發行。出道後第9張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
+前作《blue blue》約8個月之後發行。出道後第9張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 《DOOR》是地下時期創作的歌曲，也是由黑田俊介首次製作的主打歌，截至2013年12月，《DOOR》是黑田唯一作詞、作曲的主打歌。
 
@@ -22,7 +21,6 @@ blue》約8個月之後發行。出道後第9張[單曲](https://zh.wikipedia.or
 
   - [DOOR](https://wmg.jp/kobukuro/discography/1690/)
 
-[Category:可苦可樂歌曲](https://zh.wikipedia.org/wiki/Category:可苦可樂歌曲 "wikilink")
-[Category:2004年單曲](https://zh.wikipedia.org/wiki/Category:2004年單曲 "wikilink")
+[Category:可苦可樂歌曲](https://zh.wikipedia.org/wiki/Category:可苦可樂歌曲 "wikilink") [Category:2004年單曲](https://zh.wikipedia.org/wiki/Category:2004年單曲 "wikilink")
 
 1.

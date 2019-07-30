@@ -1,14 +1,8 @@
-《**CALL**》（ ，預計會是2019年韓國上映的女性驚悚[韓國電影](../Page/韓國電影.md "wikilink")
-，由[朴信惠](https://zh.wikipedia.org/wiki/朴信惠 "wikilink")、[金鐘瑞及](https://zh.wikipedia.org/wiki/金鐘瑞 "wikilink")[金成鈴主演](../Page/金成鈴.md "wikilink")\[1\]\[2\]
-。也是導演[李重賢以](https://zh.wikipedia.org/wiki/李重賢 "wikilink")14分鐘的短片電影橫掃各大電影節後的第一部長篇電影。此電影於2018年12月28日讀本祭祀，將於2019年1月3日開始拍攝，預計2019年上映。\[3\]
+《**CALL**》（ ，預計會是2019年韓國上映的女性驚悚[韓國電影](../Page/韓國電影.md "wikilink") ，由[朴信惠](https://zh.wikipedia.org/wiki/朴信惠 "wikilink")、[全鍾淑及](https://zh.wikipedia.org/wiki/全鍾淑 "wikilink")[金成鈴](../Page/金成鈴.md "wikilink")主演\[1\]\[2\] 。也是導演[李重賢以](https://zh.wikipedia.org/wiki/李重賢 "wikilink")14分鐘的短片電影橫掃各大電影節後的第一部長篇電影。此電影於2018年12月28日讀本祭祀，將於2019年1月3日開始拍攝，預計2019年上映。\[3\]
 
 ## 劇情簡介
 
-“‘CALL”是一部驚悚片講述書妍（[朴信惠](https://zh.wikipedia.org/wiki/朴信惠 "wikilink")
-飾）在聽到媽媽（[金成鈴](../Page/金成鈴.md "wikilink")
-飾）生病的消息回到很久沒有回來的老家。書妍在收拾房子的時候手機遺失了。
-為了找尋手機她找出了家裡的舊式有線電話播打自己的手機號碼，卻總是一個奇怪的女子接電話，所以產生了迷霧團. <CALL>是分別生活在2019年和
-1999年的兩個不同時空中生活的两個女性透過一通電話而連接起來後所發生無法想像事件的故事。
+“‘CALL”是一部驚悚片講述書妍（[朴信惠](https://zh.wikipedia.org/wiki/朴信惠 "wikilink") 飾）在聽到媽媽（[金成鈴](../Page/金成鈴.md "wikilink") 飾）生病的消息回到很久沒有回來的老家。書妍在收拾房子的時候手機遺失了。 為了找尋手機她找出了家裡的舊式有線電話播打自己的手機號碼，卻總是一個奇怪的女子接電話，所以產生了迷霧團. <CALL>是分別生活在2019年和 1999年的兩個不同時空中生活的两個女性透過一通電話而連接起來後所發生無法想像事件的故事。
 
 ## 演員陣容
 
@@ -54,12 +48,8 @@
 
 ## 外部連結
 
-[Category:2019年電影](https://zh.wikipedia.org/wiki/Category:2019年電影 "wikilink")
-[Category:韩国電影作品](https://zh.wikipedia.org/wiki/Category:韩国電影作品 "wikilink")
-[Category:韩国剧情片](https://zh.wikipedia.org/wiki/Category:韩国剧情片 "wikilink")
-[Category:韩国悬疑片](https://zh.wikipedia.org/wiki/Category:韩国悬疑片 "wikilink")
+[Category:2019年電影](https://zh.wikipedia.org/wiki/Category:2019年電影 "wikilink") [Category:韩国電影作品](https://zh.wikipedia.org/wiki/Category:韩国電影作品 "wikilink") [Category:韩国剧情片](https://zh.wikipedia.org/wiki/Category:韩国剧情片 "wikilink") [Category:韩国悬疑片](https://zh.wikipedia.org/wiki/Category:韩国悬疑片 "wikilink")
 
-1.  [朴信惠全鐘瑞出演
-    合作新電影「CALL」](https://hk.celebrity.yahoo.com/%E6%9C%B4%E4%BF%A1%E6%83%A0%E5%85%A8%E9%90%98%E7%91%9E%E5%87%BA%E6%BC%94-%E5%90%88%E4%BD%9C%E6%96%B0%E9%9B%BB%E5%BD%B1-call-090817027.html)
+1.  [朴信惠全鐘瑞出演 合作新電影「CALL」](https://hk.celebrity.yahoo.com/%E6%9C%B4%E4%BF%A1%E6%83%A0%E5%85%A8%E9%90%98%E7%91%9E%E5%87%BA%E6%BC%94-%E5%90%88%E4%BD%9C%E6%96%B0%E9%9B%BB%E5%BD%B1-call-090817027.html)
 2.  [金成鈴、朴浩山加上朴信惠和全鍾書！驚悚新片《Call》陣容超堅強](https://www.koreastardaily.com/tc/news/109908)
 3.  [朴信惠全钟瑞将联袂主演惊悚电影《Call》](https://chinese.joins.com/gb/article.aspx?art_id=183774)

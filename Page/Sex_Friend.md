@@ -1,5 +1,4 @@
-**Sex
-Friend**（）是日本的一个[同人](../Page/同人_\(ACG\).md "wikilink")[色情影片製作团体](../Page/色情片製作公司.md "wikilink")，所发售的作品均为[角色扮演色情影片](https://zh.wikipedia.org/wiki/角色扮演色情影片 "wikilink")，由业余的[女性色情片演員](https://zh.wikipedia.org/wiki/女性色情片演員 "wikilink")[cosplay成日本](https://zh.wikipedia.org/wiki/cosplay "wikilink")[ACG作品中的角色进行演出](../Page/ACG.md "wikilink")。在其发售的[色情影片中](https://zh.wikipedia.org/wiki/色情影片 "wikilink")，也附带有色情照片集，其中部分演员的面部进行了[马赛克模糊处理](../Page/馬賽克_\(影像處理\).md "wikilink")。\[1\]\[2\]
+**Sex Friend**（）是日本的一个[同人](../Page/同人_\(ACG\).md "wikilink")[色情影片製作团体](../Page/色情片製作公司.md "wikilink")，所发售的作品均为[角色扮演色情影片](https://zh.wikipedia.org/wiki/角色扮演色情影片 "wikilink")，由业余的[女性色情片演員](https://zh.wikipedia.org/wiki/女性色情片演員 "wikilink")[cosplay成日本](https://zh.wikipedia.org/wiki/cosplay "wikilink")[ACG](../Page/ACG.md "wikilink")作品中的角色进行演出。在其发售的[色情影片中](https://zh.wikipedia.org/wiki/色情影片 "wikilink")，也附带有色情照片集，其中部分演员的面部进行了[马赛克模糊处理](../Page/馬賽克_\(影像處理\).md "wikilink")。\[1\]\[2\]
 
 ## 作品列表
 
@@ -70,8 +69,7 @@ Friend**（）是日本的一个[同人](../Page/同人_\(ACG\).md "wikilink")[�
 ## 外部链接
 
   -
-[Category:日本色情片公司](https://zh.wikipedia.org/wiki/Category:日本色情片公司 "wikilink")
-[Category:Cosplay](https://zh.wikipedia.org/wiki/Category:Cosplay "wikilink")
+[Category:日本色情片公司](https://zh.wikipedia.org/wiki/Category:日本色情片公司 "wikilink") [Category:Cosplay](https://zh.wikipedia.org/wiki/Category:Cosplay "wikilink")
 
 1.
 2.

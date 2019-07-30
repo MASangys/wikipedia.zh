@@ -1,6 +1,4 @@
-\-- this module implements [template:gallery
-items](https://zh.wikipedia.org/wiki/template:gallery_items "wikilink")
-local p = {}
+\-- this module implements [template:gallery items](https://zh.wikipedia.org/wiki/template:gallery_items "wikilink") local p = {}
 
 function p.main(frame)
 

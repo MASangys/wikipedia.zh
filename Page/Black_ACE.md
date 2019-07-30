@@ -1,6 +1,4 @@
-**Black
-ACE**（），是依據[优酷偶像男團競演養成類真人秀](../Page/优酷.md "wikilink")《[以團之名](https://zh.wikipedia.org/wiki/以團之名 "wikilink")》的人氣前八名所組成的團體，於2019年成立，成員包括：[趙品霖](../Page/趙品霖.md "wikilink")、[楊桐](https://zh.wikipedia.org/wiki/楊桐 "wikilink")、[商振博](https://zh.wikipedia.org/wiki/商振博 "wikilink")、[賴煜哲](https://zh.wikipedia.org/wiki/賴煜哲 "wikilink")、[田書臣](https://zh.wikipedia.org/wiki/田書臣 "wikilink")、[王迪](../Page/王迪.md "wikilink")、[陳順](https://zh.wikipedia.org/wiki/陳順 "wikilink")、[龍泓昊](https://zh.wikipedia.org/wiki/龍泓昊 "wikilink")\[1\]。粉絲名為「
-桃心 」。
+**Black ACE**（），是依據[优酷](../Page/优酷.md "wikilink")偶像男團競演養成類真人秀《[以團之名](https://zh.wikipedia.org/wiki/以團之名 "wikilink")》的人氣前八名所組成的團體，於2019年3月28日成立，成員包括：[趙品霖](../Page/趙品霖.md "wikilink")、[楊桐](https://zh.wikipedia.org/wiki/楊桐 "wikilink")、[商振博](https://zh.wikipedia.org/wiki/商振博 "wikilink")、[賴煜哲](../Page/賴煜哲.md "wikilink")、[田書臣](https://zh.wikipedia.org/wiki/田書臣 "wikilink")、[王迪](../Page/王迪.md "wikilink")、[陳順](https://zh.wikipedia.org/wiki/陳順 "wikilink")、[龍泓昊](https://zh.wikipedia.org/wiki/龍泓昊 "wikilink")\[1\]，粉絲名為「 桃心 」應援色為「藍寶紅漸變色  」。
 
 ## 成員資料
 
@@ -27,26 +25,29 @@ Pearain</p></td>
 <td><p>Zhao Pinlin</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/浙江" title="wikilink">浙江</a><a href="../Page/温州市.md" title="wikilink">溫州</a><br />
 </p></td>
-<td><p>180</p></td>
+<td><p>180 cm</p></td>
 <td><p><a href="../Page/巨蟹座.md" title="wikilink">巨蟹座</a></p></td>
 <td><p>酷漾娛樂</p></td>
 <td><p>PIC</p></td>
-<td><p>霖黃色</p></td>
+<td><p><br />
+霖黃色</p></td>
 <td><p>主唱<br />
 C位</p></td>
 <td><p>星耀班</p></td>
 </tr>
 <tr class="odd">
 <td><p>2</p></td>
-<td><p><big><strong><a href="https://zh.wikipedia.org/wiki/楊桐" title="wikilink">楊桐</a></strong></big></p></td>
+<td><p><big><strong><a href="https://zh.wikipedia.org/wiki/楊桐" title="wikilink">楊桐</a></strong></big><br />
+Toarey</p></td>
 <td><p>Yang Tong</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/貴州" title="wikilink">貴州</a><br />
 </p></td>
-<td><p>175</p></td>
+<td><p>175 cm</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/牡羊座" title="wikilink">牡羊座</a></p></td>
 <td><p>北京文化</p></td>
 <td><p>梧桐</p></td>
-<td><p>梧桐綠</p></td>
+<td><p><br />
+梧桐綠</p></td>
 <td><p>忙內</p></td>
 <td><p>閃電幼幼班</p></td>
 </tr>
@@ -57,27 +58,29 @@ C位</p></td>
 <td><p>Shang Zhenbo</p></td>
 <td><p>黑龍江<br />
 </p></td>
-<td><p>179</p></td>
+<td><p>179 cm</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/雙子座" title="wikilink">雙子座</a></p></td>
 <td><p>酷漾娛樂</p></td>
 <td><p>毒奶</p></td>
-<td><p>紫色</p></td>
+<td><p><br />
+紫色系</p></td>
 <td><p><strong>隊長</strong><br />
 編舞</p></td>
 <td><p>脫線木偶</p></td>
 </tr>
 <tr class="odd">
 <td><p>4</p></td>
-<td><p><big><strong><a href="https://zh.wikipedia.org/wiki/賴煜哲" title="wikilink">賴煜哲</a></strong></big><br />
+<td><p><big><strong><a href="../Page/賴煜哲.md" title="wikilink">賴煜哲</a></strong></big><br />
 AJ</p></td>
 <td><p>Lai Yu-zhe</p></td>
 <td><p><a href="../Page/臺北.md" title="wikilink">臺北</a><br />
 </p></td>
-<td><p>180</p></td>
+<td><p>180 cm</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/獅子座" title="wikilink">獅子座</a></p></td>
 <td><p>丸寶文化</p></td>
 <td><p>芋圓</p></td>
-<td><p>愛煜黃</p></td>
+<td><p><br />
+愛煜黃</p></td>
 <td><p>創作<br />
 舞蹈</p></td>
 <td><p>閃電幼幼班</p></td>
@@ -89,11 +92,12 @@ AJ</p></td>
 <td><p>Tian Shuchen</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/遼寧" title="wikilink">遼寧</a><br />
 </p></td>
-<td><p>180</p></td>
+<td><p>180 cm</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/天蠍座" title="wikilink">天蠍座</a></p></td>
 <td><p>酷漾娛樂</p></td>
 <td><p>臣子臣妾</p></td>
-<td><p>石榴紅</p></td>
+<td><p><br />
+石榴紅</p></td>
 <td><p>舞蹈<br />
 說唱</p></td>
 <td><p>閃電幼幼班</p></td>
@@ -105,25 +109,28 @@ Kelvin</p></td>
 <td><p>Wang Di</p></td>
 <td><p><br />
 </p></td>
-<td><p>183</p></td>
+<td><p>183 cm</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/水瓶座" title="wikilink">水瓶座</a></p></td>
 <td><p>覺醒東方</p></td>
-<td></td>
-<td><p>IKEA藍</p></td>
+<td><p>小玫瑰</p></td>
+<td><p><br />
+IKEA藍</p></td>
 <td><p>副唱</p></td>
 <td><p>萬有引力</p></td>
 </tr>
 <tr class="even">
 <td><p>7</p></td>
-<td><p><big><strong>陳順</strong></big></p></td>
+<td><p><big><strong>陳順</strong></big><br />
+VIC</p></td>
 <td><p>Chen Shun</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/貴州" title="wikilink">貴州</a><br />
 </p></td>
-<td><p>174</p></td>
+<td><p>174 cm</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/牡羊座" title="wikilink">牡羊座</a></p></td>
 <td><p>從容影視</p></td>
 <td><p>維C</p></td>
-<td><p>枸杞紅</p></td>
+<td><p><br />
+枸杞紅</p></td>
 <td><p>說唱</p></td>
 <td><p>脫線木偶</p></td>
 </tr>
@@ -133,25 +140,296 @@ Kelvin</p></td>
 <td><p>Long Honghao</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/四川" title="wikilink">四川</a><br />
 </p></td>
-<td><p>170</p></td>
+<td><p>170 cm</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/射手座" title="wikilink">射手座</a></p></td>
 <td><p>從容影視</p></td>
 <td><p>龍珠</p></td>
-<td><p>龍珠橙</p></td>
+<td><p><br />
+龍珠橙</p></td>
 <td><p>舞蹈</p></td>
 <td><p>脫線木偶</p></td>
 </tr>
 </tbody>
 </table>
 
+## 音樂作品
+
+成員的個人部分，請參閱成員個人條目列表。
+
+### 數位專輯
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>專輯</strong></p></td>
+<td><p><strong>專輯資料</strong></p></td>
+<td><p><strong>曲目</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><strong>1st</strong></p></td>
+<td><p>首張同名EP《BlackACE》</p>
+<ul>
+<li>發行日期：2019年5月31日</li>
+<li>銷售量：118207 (累計至2019年7月19日)</li>
+</ul></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 ## 影視作品
+
+成員的個人部分，請參閱成員個人條目列表。
+
+### 綜藝節目
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>播出日期</strong></p></td>
+<td><p><strong>節目名稱</strong></p></td>
+<td><p><strong>撥出平台</strong></p></td>
+<td><p><strong>參與成員</strong></p></td>
+<td><p><strong>備註</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>2019年5月25日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/我是大美人" title="wikilink">我是大美人</a></p></td>
+<td><p>芒果TV <a href="../Page/湖南卫视.md" title="wikilink">湖南衛視</a></p></td>
+<td><p>奶茶、AJ、王迪、陳順、龍泓昊</p>
+<ol>
+<li></li>
+</ol></td>
+<td><ul>
+<li>趙品霖、楊桐、田書臣未參與節目錄製。</li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p>2019年6月26日</p></td>
+<td><p><a href="../Page/神奇的漢字.md" title="wikilink">神奇的漢字</a></p></td>
+<td><p>芒果TV <a href="../Page/湖南卫视.md" title="wikilink">湖南衛視</a></p></td>
+<td><p>奶茶、AJ</p></td>
+<td><ul>
+<li>趙品霖、楊桐、田書臣、王迪、陳順、龍泓昊未參與節目錄製。</li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p>2019年</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/花花萬物2" title="wikilink">花花萬物2</a></p></td>
+<td><p><a href="../Page/优酷.md" title="wikilink">优酷</a></p></td>
+<td><p>全體</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+## 演唱會及見面會
+
+### 演唱會
+
+  - 原定08/10南京、08/24武漢以團之名巡迴演唱會，因不可抗力因素取消演出。
+
+### 見面會
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>年份</strong></p></td>
+<td><p><strong>日期</strong></p></td>
+<td><p><strong>城市</strong></p></td>
+<td><p><strong>出席成員</strong></p></td>
+<td><p><strong>場館</strong></p></td>
+<td><p><strong>表演</strong></p></td>
+<td><p><strong>備註</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>2019年</p></td>
+<td><p>03月30日</p></td>
+<td><p>北京</p></td>
+<td><p>全體</p></td>
+<td><p>太古里美嘉歡樂影城</p></td>
+<td></td>
+<td><ul>
+<li>以團之名畢業新生見面會</li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p>2019年</p></td>
+<td><p>05月18日</p></td>
+<td><p>蘇州</p></td>
+<td><p>趙品霖</p></td>
+<td></td>
+<td></td>
+<td><ul>
+<li>植選豆乳活力大使</li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p>2019年</p></td>
+<td><p>07月13日</p></td>
+<td><p>上海</p></td>
+<td><p>全體</p></td>
+<td><p>上海國家會展中心虹館EH</p></td>
+<td></td>
+<td><ul>
+<li>巡迴第一站</li>
+</ul>
+<ul>
+<li>以團之名成團三個月後，首次大型公開活動與<a href="../Page/新風暴.md" title="wikilink">新風暴</a>一同舉辦粉絲見面會，將第一次公開EP中歌曲舞蹈表演。</li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+
+### 生日會
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>年份</strong></p></td>
+<td><p><strong>日期</strong></p></td>
+<td><p><strong>城市</strong></p></td>
+<td><p><strong>出席成員</strong></p></td>
+<td><p><strong>名稱</strong></p></td>
+<td><p><strong>備註</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>2019年</p></td>
+<td><p>06月8日</p></td>
+<td><p>上海</p></td>
+<td><p>AJ、王迪、陳順</p></td>
+<td><p>星空奶茶 奶茶商振博主題生日會</p></td>
+<td><ul>
+<li>出席成員僅列出Black ACE成員</li>
+</ul>
+<ul>
+<li>以團出席成員有高昕、木森、劉</li>
+</ul>
+<p>子瑞。</p></td>
+</tr>
+<tr class="odd">
+<td><p>2019年</p></td>
+<td><p>06月29日</p></td>
+<td><p>上海</p></td>
+<td></td>
+<td><p>霖聽 趙品霖生日會</p></td>
+<td><ul>
+<li>Black ACE成員雖未出席，但有</li>
+</ul>
+<p>錄製影片為趙品霖送上生日祝福。</p>
+<ul>
+<li>以團出席成員有朱雲龍、慕星遠。</li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+
+### 其他活動
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>年份</strong></p></td>
+<td><p><strong>日期</strong></p></td>
+<td><p><strong>城市</strong></p></td>
+<td><p><strong>活動名稱</strong></p></td>
+<td><p><strong>出席成員</strong></p></td>
+<td><p><strong>場館</strong></p></td>
+<td><p><strong>備註</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>2019年</p></td>
+<td><p>05月11日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/北京" title="wikilink">北京</a></p></td>
+<td><p>＂燃燒的雪 ＂主題音樂會</p></td>
+<td><p>楊桐、奶茶、AJ、田書臣 王迪、陳順、龍泓昊</p></td>
+<td><p>奧林匹克公園玲瓏塔南側廣場</p></td>
+<td><ul>
+<li>北京2022年冬奧會倒計時1000天活動</li>
+<li>與火星團和Tiger合唱《我們》</li>
+<li>趙品霖因個人行程未參與此次活動</li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p>2019年</p></td>
+<td><p>05月18日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/杭州" title="wikilink">杭州</a></p></td>
+<td><p>CUBA大學生籃球聯賽開幕式</p></td>
+<td><p>楊桐、奶茶、AJ、田書臣 王迪、陳順、龍泓昊</p></td>
+<td><p>浙江大學紫金校區籃球場</p></td>
+<td><ul>
+<li>表演以團之名主題曲《更發光》</li>
+</ul>
+<ul>
+<li>趙品霖因個人行程未參與此次活動</li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p>2019年</p></td>
+<td><p>06月27日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/上海" title="wikilink">上海</a></p></td>
+<td><p>THE GREAT NIGHT時髦之夜</p></td>
+<td><p>奶茶、AJ</p></td>
+<td><p>上海展覽中心</p></td>
+<td><ul>
+<li>FASHION ZOO X ELLE時尚嘉年華</li>
+<li>與黃鈞澤表演單曲《Above To The Sky》</li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p>2019年</p></td>
+<td><p>07月21日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/山西" title="wikilink">山西</a><a href="../Page/大同市.md" title="wikilink">大同市</a></p></td>
+<td><p>第五屆成龍國際動作電影週開幕式</p></td>
+<td><p>全體</p></td>
+<td><p>大同體育館</p></td>
+<td><ul>
+<li>表演EP歌曲《裂變》</li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+
+## 廣告代言
+
+### 代言活動
+
+|        |          |          |           |
+| ------ | -------- | -------- | --------- |
+| **年份** | **名稱**   | **拍攝成員** | **備註**    |
+| 2019年  | 菜鳥裹裹躺寄青年 | 楊桐、奶茶、AJ | 阿里巴巴年終狂歡寄 |
+
+### 雜誌拍攝
+
+|        |                       |        |          |        |
+| ------ | --------------------- | ------ | -------- | ------ |
+| **年份** | **名稱**                | **期數** | **拍攝成員** | **備註** |
+| 2019年  | ICON-F時尚畫報 INSNAP潮流街拍 | 第31期   | 全體       | 電子雜誌   |
+| 2019年  | 時尚 YA\!               | 第04期   | 全體       | 電子雜誌   |
+| 2019年  | O\!what 偶像志           | 第04期   | 全體       | 電子雜誌   |
+| 2019年  | INNATE本像              | 第05期   | 楊桐       | 電子雜誌   |
 
 ## 參考資料
 
 ## 外部連結
 
   -
-[Category:中國男子演唱團體](https://zh.wikipedia.org/wiki/Category:中國男子演唱團體 "wikilink")
-[Category:2019年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2019年成立的音樂團體 "wikilink")
+  - [趙品霖Pearain的新浪微博](https://www.weibo.com/u/2036799634)
+
+  - [楊桐Y的新浪微博](https://www.weibo.com/u/2670519944)
+
+  - [奶茶_商振博的新浪微博](https://www.weibo.com/u/2717863421)
+
+  - [AJ賴煜哲的新浪微博](https://www.weibo.com/u/5777276713)
+
+  - [田書臣-HD 的新浪微博](https://www.weibo.com/u/1562288742)
+
+  - [王迪Kelvin 的新浪微博](https://www.weibo.com/u/57038734362)
+
+  - [陳順VIC 的新浪微博](https://www.weibo.com/u/2164875510)
+
+  - [龍泓昊LONG14 的新浪微博](https://www.weibo.com/JohnnDragon1995)
+
+[Category:中國男子演唱團體](https://zh.wikipedia.org/wiki/Category:中國男子演唱團體 "wikilink") [Category:2019年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2019年成立的音樂團體 "wikilink")
 
 1.

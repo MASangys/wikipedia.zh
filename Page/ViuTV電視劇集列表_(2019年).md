@@ -1,4 +1,4 @@
-本列表列出[香港](../Page/香港.md "wikilink")[ViuTV於](../Page/ViuTV.md "wikilink")2019年所播放的[電視連續劇集](https://zh.wikipedia.org/wiki/電視連續劇集 "wikilink")。
+本列表列出[香港](../Page/香港.md "wikilink")[ViuTV](../Page/ViuTV.md "wikilink")於2019年所播放的[電視連續劇集](https://zh.wikipedia.org/wiki/電視連續劇集 "wikilink")。
 
 除特別註明外，所有劇集播放時均為高清製作。
 
@@ -6,7 +6,7 @@
 
 ### 熱捧劇站
 
-[香港時間逢星期一至五](../Page/香港時間.md "wikilink")13:30-15:00播出，逢星期二至六04:30-06:00重播；6月5日起改為逢星期一至五13:30-14:45播出，逢星期二至六04:30-05:45重播（**除特別註明外，逢公眾假期暫停播映**）
+[香港時間](../Page/香港時間.md "wikilink")逢星期一至五13:30-15:00播出，逢星期二至六04:30-06:00重播；6月5日起改為逢星期一至五13:30-14:45播出，逢星期二至六04:30-05:45重播（**除特別註明外，逢公眾假期暫停播映**）
 
 <table style="width:344%;">
 <colgroup>
@@ -161,6 +161,21 @@ Queen of Mystery</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 </tr>
+<tr class="even">
+<td style="text-align: center;"><p>21/08-<br />
+12/09</p></td>
+<td style="text-align: center;"><p><a href="../Page/Cross_(電視劇).md" title="wikilink">Cross：復仇之刃</a><br />
+Cross</p></td>
+<td style="text-align: center;"><p>17</p></td>
+<td style="text-align: center;"><div style="text-align: center;">
+<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/Now劇集台電視劇集列表_(2018年).md" title="wikilink">2018年now劇集台劇集</a></span></p>
+</div></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/now劇集台" title="wikilink">now劇集台播出時名為</a>《Cross》<br />
+外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="https://zh.wikipedia.org/wiki/tvN" title="wikilink">tvN</a>）</p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
 </tbody>
 </table>
 
@@ -168,7 +183,7 @@ Queen of Mystery</p></td>
 
 ### 第一線劇集
 
-[香港時間逢星期一至五](../Page/香港時間.md "wikilink")19:30-19:55/20:00播出，逢星期二至六04:00-04:30重播，再逢星期二至五及下星期一10:30-11:00重播；4月29日起改為20:00-20:30播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期一至五19:30-19:55/20:00播出，逢星期二至六04:00-04:30重播，再逢星期二至五及下星期一10:30-11:00重播；4月29日起改為20:00-20:30播出
 
 <table style="width:344%;">
 <colgroup>
@@ -213,7 +228,7 @@ Legend of Fu Yao</p></td>
 插：血如墨（<a href="../Page/张碧晨.md" title="wikilink">张碧晨</a>）<br />
 插：傲红尘（<a href="../Page/尤长靖.md" title="wikilink">尤长靖</a>）<br />
 插：少年（<a href="https://zh.wikipedia.org/wiki/孙郡" title="wikilink">孙郡</a>）</p></td>
-<td style="text-align: center;"><p>外購劇（<a href="../Page/中國.md" title="wikilink">中國上海檸萌影視傳媒有限公司</a>），1月10日早上重播時段改為10:00-10:30，1月25日、2月6日、27日及4月12日暫停播映，2月5日、6日及5月13日早上重播時段改為09:30-10:00，3月5日、4月5日、19日、22日、5月1日、9日、31日、6月3日、6日、7日、11日及14日暫停早上重播時段</p></td>
+<td style="text-align: center;"><p>外購劇（<a href="../Page/中國.md" title="wikilink">中國</a>上海檸萌影視傳媒有限公司），1月10日早上重播時段改為10:00-10:30，1月25日、2月6日、27日及4月12日暫停播映，2月5日、6日及5月13日早上重播時段改為09:30-10:00，3月5日、4月5日、19日、22日、5月1日、9日、31日、6月3日、6日、7日、11日及14日暫停早上重播時段</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>17/06-<br />
@@ -232,18 +247,18 @@ Legal V</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>15/07-<br />
 </p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/娛樂風雲" title="wikilink">娛樂風雲</a><br />
-</p></td>
+<td style="text-align: center;"><p><br />
+Showman's Show</p></td>
 <td style="text-align: center;"><p>100</p></td>
 <td style="text-align: center;"><p><a href="../Page/何啟華.md" title="wikilink">何啟華</a>、、<a href="../Page/李麗珍.md" title="wikilink">李麗珍</a>、<br />
 <a href="../Page/袁富華.md" title="wikilink">袁富華</a>、<a href="../Page/陳國邦.md" title="wikilink">陳國邦</a>、<a href="../Page/廖碧兒.md" title="wikilink">廖碧兒</a>、<br />
 <a href="../Page/劉錫賢.md" title="wikilink">劉錫賢</a>、、<a href="../Page/駱振偉.md" title="wikilink">駱振偉</a>、<br />
 <a href="../Page/陳凱詠.md" title="wikilink">陳凱詠</a>、、<a href="../Page/黃奕晨.md" title="wikilink">黃奕晨</a>、<br />
 、<a href="../Page/盧覓雪.md" title="wikilink">盧覓雪</a>、<a href="https://zh.wikipedia.org/wiki/邱士縉" title="wikilink">邱士縉</a>、<br />
-<a href="https://zh.wikipedia.org/wiki/李駿傑" title="wikilink">李駿傑</a>、、<a href="../Page/郭嘉駿.md" title="wikilink">郭嘉駿</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/李駿傑" title="wikilink">李駿傑</a>、<a href="https://zh.wikipedia.org/wiki/梁業" title="wikilink">梁　業</a>、<a href="../Page/郭嘉駿.md" title="wikilink">郭嘉駿</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
+<td style="text-align: center;"><p>主：娛樂風雲主題音樂（<a href="https://zh.wikipedia.org/wiki/黃偉年" title="wikilink">黃偉年作曲</a>）</p></td>
 <td style="text-align: center;"></td>
 </tr>
 </tbody>
@@ -251,7 +266,7 @@ Legal V</p></td>
 
 ### 第二線劇集
 
-[香港時間逢星期一至五](../Page/香港時間.md "wikilink")20:30-21:45播出，逢星期二至六03:00-04:15重播；4月29日起改為20:30-21:30播出，逢星期二至六03:00-04:00重播
+[香港時間](../Page/香港時間.md "wikilink")逢星期一至五20:30-21:45播出，逢星期二至六03:00-04:15重播；4月29日起改為20:30-21:30播出，逢星期二至六03:00-04:00重播
 
 <table style="width:344%;">
 <colgroup>
@@ -408,7 +423,7 @@ Encounter</p></td>
 
 ### 第三線劇集
 
-[香港時間逢星期一至五](../Page/香港時間.md "wikilink")23:30-00:00播出；4月29日起改為21:30-22:00播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期一至五23:30-00:00播出；4月29日起改為21:30-22:00播出；8月5日起改為21:30-22:30播出
 
 <table style="width:344%;">
 <colgroup>
@@ -454,7 +469,7 @@ Being an Actor</p></td>
 <tr class="even">
 <td style="text-align: center;"><p>29/04-<br />
 07/06</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/婚內情" title="wikilink">婚內情</a><br />
+<td style="text-align: center;"><p><a href="../Page/婚內情.md" title="wikilink">婚內情</a><br />
 Till Death Do Us Part</p></td>
 <td style="text-align: center;"><p>31</p></td>
 <td style="text-align: center;"><p><a href="../Page/鄧萃雯.md" title="wikilink">鄧萃雯</a>、<a href="../Page/陳錦鴻.md" title="wikilink">陳錦鴻</a>、<a href="../Page/廖碧兒.md" title="wikilink">廖碧兒</a>、<br />
@@ -473,7 +488,7 @@ Limited Education</p></td>
 <td style="text-align: center;"><p><a href="../Page/廖啟智.md" title="wikilink">廖啟智</a>、<a href="../Page/陳秀雯.md" title="wikilink">陳秀雯</a>、<a href="../Page/劉俊謙_(香港).md" title="wikilink">劉俊謙</a>、<br />
 <a href="https://zh.wikipedia.org/wiki/朱栢謙" title="wikilink">朱栢謙</a>、<a href="../Page/岑珈其.md" title="wikilink">岑珈其</a>、<a href="../Page/吳海昕.md" title="wikilink">吳海昕</a>、<br />
 、<a href="../Page/唐浩然.md" title="wikilink">唐浩然</a>、<a href="https://zh.wikipedia.org/wiki/周漢寧" title="wikilink">周漢寧</a>、<br />
-<a href="https://zh.wikipedia.org/wiki/程人富" title="wikilink">程人富</a>、<a href="https://zh.wikipedia.org/wiki/鍾雪瑩" title="wikilink">鍾雪瑩</a>、<a href="https://zh.wikipedia.org/wiki/鄧麗英" title="wikilink">鄧麗英</a>、<br />
+<a href="https://zh.wikipedia.org/wiki/程仁富" title="wikilink">程仁富</a>、<a href="https://zh.wikipedia.org/wiki/鍾雪瑩" title="wikilink">鍾雪瑩</a>、<a href="https://zh.wikipedia.org/wiki/鄧麗英" title="wikilink">鄧麗英</a>、<br />
 <a href="https://zh.wikipedia.org/wiki/盧蓁宜" title="wikilink">盧蓁宜</a>、<a href="https://zh.wikipedia.org/wiki/麥可怡" title="wikilink">麥可怡</a>、<a href="https://zh.wikipedia.org/wiki/余家溢" title="wikilink">余家溢</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/陳志發.md" title="wikilink">陳志發</a></p></td>
 <td style="text-align: center;"><p><a href="http://viu.tv/encore/limited-education">網頁</a></p></td>
@@ -486,19 +501,37 @@ Limited Education</p></td>
 <td style="text-align: center;"><p><br />
 Haters Gonna Stay</p></td>
 <td style="text-align: center;"><p>20</p></td>
-<td style="text-align: center;"><p><a href="../Page/盧海鵬.md" title="wikilink">盧海鵬</a>、<a href="../Page/游學修.md" title="wikilink">游學修</a>、<a href="../Page/鄭中基.md" title="wikilink">鄭中基</a>、<br />
-<a href="https://zh.wikipedia.org/wiki/盧巧音" title="wikilink">盧巧音</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/盧海鵬.md" title="wikilink">盧海鵬</a>、<a href="../Page/游學修.md" title="wikilink">游學修</a>、<a href="https://zh.wikipedia.org/wiki/盧巧音" title="wikilink">盧巧音</a>、<br />
+<a href="../Page/陳穎欣_(歌手).md" title="wikilink">陳穎欣</a>、、</p></td>
 <td style="text-align: center;"><p><a href="../Page/游學修.md" title="wikilink">游學修</a></p></td>
-<td style="text-align: center;"></td>
+<td style="text-align: center;"><p><a href="http://viu.tv/encore/haters-gonna-stay">網頁</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
+<td style="text-align: center;"><p>05/08-<br />
+21/08</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/理想國_(電視劇)" title="wikilink">理想國</a><br />
+</p></td>
+<td style="text-align: center;"><p>13</p></td>
+<td style="text-align: center;"><p><a href="../Page/黃秋生.md" title="wikilink">黃秋生</a>、<a href="../Page/楊淇_(香港演員).md" title="wikilink">楊　淇</a>、<a href="../Page/吳綺莉.md" title="wikilink">吳綺莉</a>、<br />
+<a href="../Page/王敏奕.md" title="wikilink">王敏奕</a>、、<a href="../Page/駱振偉.md" title="wikilink">駱振偉</a>、<br />
+<a href="../Page/吳海昕.md" title="wikilink">吳海昕</a>、<a href="../Page/麥芷誼.md" title="wikilink">麥芷誼</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/陳翹英" title="wikilink">陳翹英</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>22/08-<br />
+02/10</p></td>
+<td style="text-align: center;"><p><a href="../Page/Sky_Castle.md" title="wikilink">天空城堡</a><br />
+Sky Castle</p></td>
+<td style="text-align: center;"><p>30</p></td>
+<td style="text-align: center;"><div style="text-align: center;">
+<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/Now劇集台電視劇集列表_(2019年).md" title="wikilink">2019年now劇集台劇集</a></span></p>
+</div></td>
+<td style="text-align: center;"><p>外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="../Page/JTBC.md" title="wikilink">JTBC</a>）</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
@@ -508,7 +541,7 @@ Haters Gonna Stay</p></td>
 
 ### 第四線劇集
 
-[香港時間逢星期一至五](../Page/香港時間.md "wikilink")22:00-22:30播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期一至五22:00-22:30播出
 
 <table style="width:344%;">
 <colgroup>
@@ -539,7 +572,7 @@ Haters Gonna Stay</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>29/04-<br />
 07/06</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/詭探前傳" title="wikilink">詭探前傳</a><br />
+<td style="text-align: center;"><p><a href="../Page/詭探前傳.md" title="wikilink">詭探前傳</a><br />
 Psycho Detective 2</p></td>
 <td style="text-align: center;"><p>30</p></td>
 <td style="text-align: center;"><p><a href="../Page/鄭少秋.md" title="wikilink">鄭少秋</a>、<a href="../Page/陶大宇.md" title="wikilink">陶大宇</a>、<a href="../Page/郭偉亮.md" title="wikilink">Eric Kwok</a>、<br />
@@ -556,9 +589,9 @@ Psycho Detective 2</p></td>
 <td style="text-align: center;"><p><br />
 Retire to Queen</p></td>
 <td style="text-align: center;"><p>20</p></td>
-<td style="text-align: center;"><p><a href="../Page/景黛音.md" title="wikilink">景黛音</a>、<a href="../Page/姜濤.md" title="wikilink">姜　濤</a>、<a href="../Page/江熚生.md" title="wikilink">江熚生</a>、<br />
-<a href="../Page/薛晉寧.md" title="wikilink">薛晉寧</a>、<a href="../Page/盧瀚霆.md" title="wikilink">盧瀚霆</a>、<a href="../Page/吳浩康.md" title="wikilink">吳浩康</a>、<br />
-、、</p></td>
+<td style="text-align: center;"><p><a href="../Page/景黛音.md" title="wikilink">景黛音</a>、<a href="../Page/姜濤.md" title="wikilink">姜　濤</a>、<a href="../Page/薛晉寧.md" title="wikilink">薛晉寧</a>、<br />
+<a href="../Page/吳浩康.md" title="wikilink">吳浩康</a>、、、<br />
+、<a href="../Page/盧瀚霆.md" title="wikilink">盧瀚霆</a>、</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/梁鎰康" title="wikilink">梁鎰康</a></p></td>
 <td style="text-align: center;"><p><a href="http://viu.tv/encore/retire-to-queen">網頁</a></p></td>
 <td style="text-align: center;"></td>
@@ -570,10 +603,11 @@ Retire to Queen</p></td>
 <td style="text-align: center;"><p><br />
 Reboot</p></td>
 <td style="text-align: center;"><p>20</p></td>
-<td style="text-align: center;"><p><a href="../Page/周國賢.md" title="wikilink">周國賢</a>、<a href="../Page/駱振偉.md" title="wikilink">駱振偉</a>、、<br />
-<a href="../Page/吳浩康.md" title="wikilink">吳浩康</a>、<a href="../Page/岑樂怡.md" title="wikilink">岑樂怡</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/范榮笙" title="wikilink">范榮笙</a></p></td>
-<td style="text-align: center;"></td>
+<td style="text-align: center;"><p><a href="../Page/周國賢.md" title="wikilink">周國賢</a>、<a href="../Page/吳浩康.md" title="wikilink">吳浩康</a>、<a href="../Page/駱振偉.md" title="wikilink">駱振偉</a>、<br />
+、<a href="../Page/岑樂怡.md" title="wikilink">岑樂怡</a>、<a href="../Page/夏韶聲.md" title="wikilink">夏韶聲</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/范榮笙" title="wikilink">范榮笙</a><br />
+<a href="https://zh.wikipedia.org/wiki/廖澤霖" title="wikilink">廖澤霖</a></p></td>
+<td style="text-align: center;"><p><a href="http://viu.tv/encore/reboot">網頁</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -586,7 +620,7 @@ Reboot</p></td>
 
 ##### 第一線劇集
 
-[香港時間逢星期二至五](../Page/香港時間.md "wikilink")<small>（星期一至四深夜）</small>00:00-01:00播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期二至五<small>（星期一至四深夜）</small>00:00-01:00播出
 
 <table style="width:344%;">
 <colgroup>
@@ -633,7 +667,7 @@ Psycho Detective</p></td>
 
 ##### 第一線劇集／第二線劇集（4月2日至25日）
 
-[香港時間逢星期二至五](../Page/香港時間.md "wikilink")<small>（星期一至四深夜）</small>01:00-02:30播出；1月8日起改為00:30-02:00播出（4月2日至12日期間改為01:30-02:30播出，4月16日至25日期間改為01:30-03:00播出，5月23日至8月1日期間改為00:30-01:30播出）
+[香港時間](../Page/香港時間.md "wikilink")逢星期二至五<small>（星期一至四深夜）</small>01:00-02:30播出；1月8日起改為00:30-02:00播出（4月2日至12日期間改為01:30-02:30播出，4月16日至25日期間改為01:30-03:00播出，5月23日至8月2日期間改為00:30-01:30播出）
 
 <table style="width:344%;">
 <colgroup>
@@ -748,14 +782,14 @@ Shopaholic Louis</p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>06/08-<br />
-04/09</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/再見黑先生" title="wikilink">再見黑先生</a><br />
-Goodbye Mr. Black</p></td>
-<td style="text-align: center;"><p>18</p></td>
+17/09</p></td>
+<td style="text-align: center;"><p><a href="../Page/任意依戀.md" title="wikilink">任意依戀</a><br />
+Uncontrollably Fond</p></td>
+<td style="text-align: center;"><p>25</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
 <p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/Now觀星台電視劇集列表_(2016年).md" title="wikilink">2016年now觀星台劇集</a></span></p>
 </div></td>
-<td style="text-align: center;"><p>外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a>），於<a href="https://zh.wikipedia.org/wiki/now觀星台" title="wikilink">now觀星台首播時不設粵語配音</a></p></td>
+<td style="text-align: center;"><p>外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a>）</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
@@ -765,7 +799,7 @@ Goodbye Mr. Black</p></td>
 
 #### 星期五
 
-[香港時間逢星期六](../Page/香港時間.md "wikilink")<small>（星期五深夜）</small>01:30-02:30播出；1月12日起改為01:00-02:00播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期六<small>（星期五深夜）</small>01:30-02:30播出；1月12日起改為01:00-02:00播出
 
 <table style="width:344%;">
 <colgroup>
@@ -809,6 +843,20 @@ Rock Love Story</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 </tr>
+<tr class="even">
+<td style="text-align: center;"><p>27/07-<br />
+28/09</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/刑事弓神" title="wikilink">刑事弓神</a><br />
+Detective Yugami</p></td>
+<td style="text-align: center;"><p>10</p></td>
+<td style="text-align: center;"><div style="text-align: center;">
+<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/ViuTV電視劇集列表_(2018年).md" title="wikilink">2018年ViuTV劇集</a></span></p>
+</div></td>
+<td style="text-align: center;"><p>外購劇（<a href="../Page/日本.md" title="wikilink">日本</a><a href="../Page/富士電視台.md" title="wikilink">富士電視台</a>），7月27日改為01:00-02:15播出</p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
 </tbody>
 </table>
 
@@ -816,7 +864,7 @@ Rock Love Story</p></td>
 
 ### 早上劇集時段
 
-[香港時間逢星期六](../Page/香港時間.md "wikilink")11:00-12:00播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期六11:00-12:00播出
 
 <table style="width:344%;">
 <colgroup>
@@ -868,7 +916,7 @@ Single Wife</p></td>
 
 ### 中午劇集時段
 
-[香港時間逢星期日](../Page/香港時間.md "wikilink")12:30-13:30播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期日12:30-13:30播出
 
 <table style="width:344%;">
 <colgroup>
@@ -939,6 +987,20 @@ Kimi wa Pet</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 </tr>
+<tr class="even">
+<td style="text-align: center;"><p>25/08-<br />
+13/10</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/黑色筆記本" title="wikilink">黑色筆記本</a><br />
+Black Leather Notebook</p></td>
+<td style="text-align: center;"><p>8</p></td>
+<td style="text-align: center;"><div style="text-align: center;">
+<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/ViuTV電視劇集列表_(2017年).md" title="wikilink">2017年ViuTV劇集</a></span></p>
+</div></td>
+<td style="text-align: center;"><p>外購劇（<a href="../Page/日本.md" title="wikilink">日本</a><a href="../Page/朝日電視台.md" title="wikilink">朝日電視台</a>），8月25日、9月1日及10月13日改為12:30-13:45播出</p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
 </tbody>
 </table>
 
@@ -946,7 +1008,7 @@ Kimi wa Pet</p></td>
 
 ### 第一線劇集
 
-[香港時間逢星期日](../Page/香港時間.md "wikilink")21:30-22:30播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期日21:30-22:30播出
 
 <table style="width:344%;">
 <colgroup>
@@ -986,7 +1048,7 @@ The Trading Floor</p></td>
 <a href="../Page/潘燦良.md" title="wikilink">潘燦良</a>、<a href="../Page/譚耀文.md" title="wikilink">譚耀文</a>、<a href="https://zh.wikipedia.org/wiki/張可頤" title="wikilink">張可頤</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/劉德華.md" title="wikilink">劉德華</a></p></td>
 <td style="text-align: center;"></td>
-<td style="text-align: center;"><p>主：東方華爾街主題音樂（<a href="../Page/韋啟良.md" title="wikilink">韋啟良作曲</a>）<br />
+<td style="text-align: center;"><p>主：東方華爾街主題音樂（<a href="../Page/韋啟良.md" title="wikilink">韋啟良</a>作曲）<br />
 插：暗湧（<a href="../Page/王菲.md" title="wikilink">王　菲</a>）</p></td>
 <td style="text-align: center;"><p>外購劇（<a href="../Page/香港.md" title="wikilink">香港</a><a href="../Page/福斯傳媒集團.md" title="wikilink">福斯傳媒集團</a>），1月6日改為21:30-22:45播出</p></td>
 </tr>
@@ -1035,7 +1097,7 @@ Tokyo Sentimental SP</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>26/01</p></td>
-<td style="text-align: center;"><p><a href="../Page/貓侍.md" title="wikilink">貓侍前傳：玉之丞萌翻江戶</a><br />
+<td style="text-align: center;"><p><a href="../Page/貓侍.md" title="wikilink">貓侍</a>前傳：玉之丞萌翻江戶<br />
 Neko Samurai: Tamanojo Goes To Edo</p></td>
 <td style="text-align: center;"><p>4</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
@@ -1180,5 +1242,4 @@ Tokyo Sentimental Special</p></td>
 
   - [ViuTV節目表](http://viu.tv/epg/99)
 
-[Category:香港電視娛樂節目列表](https://zh.wikipedia.org/wiki/Category:香港電視娛樂節目列表 "wikilink")
-[Category:香港電視節目列表](https://zh.wikipedia.org/wiki/Category:香港電視節目列表 "wikilink")
+[Category:香港電視娛樂節目列表](https://zh.wikipedia.org/wiki/Category:香港電視娛樂節目列表 "wikilink") [Category:香港電視節目列表](https://zh.wikipedia.org/wiki/Category:香港電視節目列表 "wikilink")

@@ -212,7 +212,7 @@
 <tr class="odd">
 <td><p>AGB</p></td>
 <td></td>
-<td><p>主要用于<a href="../Page/燃氣渦輪發動機.md" title="wikilink">燃氣渦輪發動機中</a></p></td>
+<td><p>主要用于<a href="../Page/燃氣渦輪發動機.md" title="wikilink">燃氣渦輪發動機</a>中</p></td>
 </tr>
 <tr class="even">
 <td><p>AGL</p></td>
@@ -311,7 +311,7 @@
 </tr>
 <tr class="odd">
 <td><p>ANSOG</p></td>
-<td><p>机场网络安全运营人引导（Airport Network Security Operator Guidance，<a href="../Page/波音.md" title="wikilink">波音提出</a>）</p></td>
+<td><p>机场网络安全运营人引导（Airport Network Security Operator Guidance，<a href="../Page/波音.md" title="wikilink">波音</a>提出）</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -557,7 +557,7 @@
 <tr class="even">
 <td><p>AWWS</p></td>
 <td><p>航空气象网站（Aviation Weather Web Site）[14]</p></td>
-<td><p><a href="../Page/加拿大.md" title="wikilink">加拿大境内使用</a></p></td>
+<td><p><a href="../Page/加拿大.md" title="wikilink">加拿大</a>境内使用</p></td>
 </tr>
 </tbody>
 </table>
@@ -1320,7 +1320,7 @@
 <tr class="odd">
 <td><p>FB</p></td>
 <td></td>
-<td><p><a href="../Page/世界气象组织.md" title="wikilink">世界气象组织的简写</a>，参见FD</p></td>
+<td><p><a href="../Page/世界气象组织.md" title="wikilink">世界气象组织</a>的简写，参见FD</p></td>
 </tr>
 <tr class="even">
 <td><p>FBW</p></td>
@@ -1345,7 +1345,7 @@
 <tr class="even">
 <td><p>FCU</p></td>
 <td></td>
-<td><p>在<a href="../Page/燃氣渦輪發動機.md" title="wikilink">燃氣渦輪發動機中出现</a></p></td>
+<td><p>在<a href="../Page/燃氣渦輪發動機.md" title="wikilink">燃氣渦輪發動機</a>中出现</p></td>
 </tr>
 <tr class="odd">
 <td><p>FD</p></td>
@@ -1723,17 +1723,17 @@
 <tr class="even">
 <td><p>HPC</p></td>
 <td><p>高压<a href="../Page/压气机.md" title="wikilink">压气机</a>（High Pressure Compressor）</p></td>
-<td><p><a href="../Page/燃氣渦輪發動機.md" title="wikilink">燃氣渦輪發動機中的部件</a></p></td>
+<td><p><a href="../Page/燃氣渦輪發動機.md" title="wikilink">燃氣渦輪發動機</a>中的部件</p></td>
 </tr>
 <tr class="odd">
 <td><p>HPT</p></td>
 <td><p>高压<a href="../Page/涡轮发动机.md" title="wikilink">涡轮</a>（high Pressure Turbine）</p></td>
-<td><p><a href="../Page/燃氣渦輪發動機.md" title="wikilink">燃氣渦輪發動機中的部件</a></p></td>
+<td><p><a href="../Page/燃氣渦輪發動機.md" title="wikilink">燃氣渦輪發動機</a>中的部件</p></td>
 </tr>
 <tr class="even">
 <td><p>HPTACC</p></td>
 <td><p>高压涡轮（High Pressure Turbine Active Clearance Control）</p></td>
-<td><p>主要用于<a href="../Page/渦輪扇發動機.md" title="wikilink">渦輪扇發動機中</a></p></td>
+<td><p>主要用于<a href="../Page/渦輪扇發動機.md" title="wikilink">渦輪扇發動機</a>中</p></td>
 </tr>
 <tr class="odd">
 <td><p>HSI</p></td>
@@ -2313,7 +2313,7 @@
 <tr class="even">
 <td><p>VBV</p></td>
 <td><p>可变引气活门（Variable Bleed Valve）</p></td>
-<td><p>出现于<a href="../Page/燃氣渦輪發動機.md" title="wikilink">燃氣渦輪發動機中</a></p></td>
+<td><p>出现于<a href="../Page/燃氣渦輪發動機.md" title="wikilink">燃氣渦輪發動機</a>中</p></td>
 </tr>
 <tr class="odd">
 <td><p>VCS</p></td>
@@ -2373,7 +2373,7 @@
 <tr class="even">
 <td><p>VSV</p></td>
 <td><p>可变静子叶片（Variable Stator Vane）</p></td>
-<td><p>出现于<a href="../Page/燃氣渦輪發動機.md" title="wikilink">燃氣渦輪發動機中</a></p></td>
+<td><p>出现于<a href="../Page/燃氣渦輪發動機.md" title="wikilink">燃氣渦輪發動機</a>中</p></td>
 </tr>
 <tr class="odd">
 <td><p>VTA</p></td>
@@ -2474,7 +2474,7 @@
 </tr>
 <tr class="odd">
 <td><p>V<sub>s</sub></p></td>
-<td><p><a href="../Page/失速.md" title="wikilink">失速速度</a></p></td>
+<td><p><a href="../Page/失速.md" title="wikilink">失速</a>速度</p></td>
 </tr>
 <tr class="even">
 <td><p>V<sub>so</sub></p></td>
@@ -2630,27 +2630,19 @@
 
 **Sources**
 
-  - [Aerospace
-    acronyms](https://web.archive.org/web/20050206170923/http://www.aerospace-technology.com/acronyms/)
-    Terms and Glossary
-  - [Aviada Terminaro](http://katalogo.uea.org/katalogo.php?inf=6715),
-    verkita de Gilbert R. LEDON, 286 pagxoj.
+  - [Aerospace acronyms](https://web.archive.org/web/20050206170923/http://www.aerospace-technology.com/acronyms/) Terms and Glossary
+  - [Aviada Terminaro](http://katalogo.uea.org/katalogo.php?inf=6715), verkita de Gilbert R. LEDON, 286 pagxoj.
 
 ## 外部链接
 
   - [Acronyms used by EASA](https://www.easa.europa.eu/acronyms)
-  - [Acronyms and Abbreviations -
-    [FAA](../Page/美国联邦航空管理局.md "wikilink")](https://www.faa.gov/jobs/abbreviations/)
+  - [Acronyms and Abbreviations - [FAA](../Page/美国联邦航空管理局.md "wikilink")](https://www.faa.gov/jobs/abbreviations/)
   - [Aviation Dictionary](http://www.aviationdictionary.org/)
-  - [Aviation Acronyms and
-    Abbreviations](http://www.all-acronyms.com/tag/aviation)
-  - [Acronyms search engine by
-    Eurocontrol](http://www.eurocontrol.int/airial/definitionList.do?skipLogon=true)
+  - [Aviation Acronyms and Abbreviations](http://www.all-acronyms.com/tag/aviation)
+  - [Acronyms search engine by Eurocontrol](http://www.eurocontrol.int/airial/definitionList.do?skipLogon=true)
   - [中华人民共和国民用航空总局《民用航空术语汇编》](http://www.caac.gov.cn/website/dev/shs/ZWGK/200808/P020080828406013773329.pdf)
 
-[Category:航空学](https://zh.wikipedia.org/wiki/Category:航空学 "wikilink")
-[Category:航空术语表](https://zh.wikipedia.org/wiki/Category:航空术语表 "wikilink")
-[Category:代码列表](https://zh.wikipedia.org/wiki/Category:代码列表 "wikilink")
+[Category:航空学](https://zh.wikipedia.org/wiki/Category:航空学 "wikilink") [Category:航空术语表](https://zh.wikipedia.org/wiki/Category:航空术语表 "wikilink") [Category:代码列表](https://zh.wikipedia.org/wiki/Category:代码列表 "wikilink")
 
 1.
 
@@ -2662,8 +2654,7 @@
 6.
 7.
 
-8.  [Association for Scientific Development of Air Traffic Management in
-    Europe](http://www.asda.aero/)
+8.  [Association for Scientific Development of Air Traffic Management in Europe](http://www.asda.aero/)
 
 9.
 10.

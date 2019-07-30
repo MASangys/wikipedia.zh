@@ -1,12 +1,10 @@
-**Mili**是一个来自[日本的独立音乐团体](../Page/日本.md "wikilink")，成立于2012年8月，现由momocashew，Yamato
-Kasai，Yukihito Mitomo，Shoto Yoshida，Ame Yamaguchi和Ao Fujimori六人组成。\[1\]
+**Mili**是一个来自[日本](../Page/日本.md "wikilink")的独立音乐团体，成立于2012年8月，现由momocashew，Yamato Kasai，Yukihito Mitomo，Shoto Yoshida，Ame Yamaguchi和Ao Fujimori六人组成。\[1\]
 
-Mili主张突破传统音乐风格的束缚，大胆地将[电子古典音乐](https://zh.wikipedia.org/wiki/电子古典音乐 "wikilink")，[当代古典音乐和](../Page/当代古典音乐.md "wikilink")[后古典音乐等不同风格的音乐融入他们的作品中](https://zh.wikipedia.org/wiki/后古典音乐 "wikilink")。其作品不仅限于[日语歌曲](../Page/日语.md "wikilink")，还包括[英语和](../Page/英语.md "wikilink")[中文歌曲](https://zh.wikipedia.org/wiki/中文 "wikilink")。
+Mili主张突破传统音乐风格的束缚，大胆地将[电子古典音乐](https://zh.wikipedia.org/wiki/电子古典音乐 "wikilink")，[当代古典音乐](../Page/当代古典音乐.md "wikilink")和[后古典音乐等不同风格的音乐融入他们的作品中](https://zh.wikipedia.org/wiki/后古典音乐 "wikilink")。其作品不仅限于[日语](../Page/日语.md "wikilink")歌曲，还包括[英语](../Page/英语.md "wikilink")和[中文歌曲](https://zh.wikipedia.org/wiki/中文 "wikilink")。
 
-除了发行自己的歌曲外，Mili还与众多公司和艺术家进行过不同程度的合作，如向[雷亚旗下的](https://zh.wikipedia.org/wiki/雷亚游戏 "wikilink")[音乐游戏](https://zh.wikipedia.org/wiki/音乐游戏 "wikilink")[Cytus和](https://zh.wikipedia.org/wiki/Cytus "wikilink")[Deemo提供歌曲](../Page/Deemo.md "wikilink")。\[2\]
+除了发行自己的歌曲外，Mili还与众多公司和艺术家进行过不同程度的合作，如向[雷亚旗下的](https://zh.wikipedia.org/wiki/雷亚游戏 "wikilink")[音乐游戏](https://zh.wikipedia.org/wiki/音乐游戏 "wikilink")[Cytus和](https://zh.wikipedia.org/wiki/Cytus "wikilink")[Deemo](../Page/Deemo.md "wikilink")提供歌曲。\[2\]
 
-其名字“Mili”取自[格林童话](https://zh.wikipedia.org/wiki/格林童话 "wikilink")《Dear
-Mili》\[3\]。
+其名字“Mili”取自[格林童话](https://zh.wikipedia.org/wiki/格林童话 "wikilink")《Dear Mili》\[3\]。
 
 ## 成员
 
@@ -36,16 +34,13 @@ Mili当前由以下六名成员组成：\[4\]
 
 <!-- end list -->
 
-  - 9月2日：为[理光的商业宣传片提供背景音乐](../Page/理光.md "wikilink")\[10\]
+  - 9月2日：为[理光](../Page/理光.md "wikilink")的商业宣传片提供背景音乐\[10\]
   - 9月17日：为Yamayuri（山ゆり）提供歌曲
-  - 9月17日：为《A lighthouse and a lilium auratum》\[11\]和《A flower
-    sings》\[12\]创作音效
-  - 9月21日：参与作曲的[视觉小说游戏](../Page/视觉小说.md "wikilink")《MuNiCa - Cry of
-    Pluto》被送到2013年[东京电玩展参展](../Page/东京电玩展.md "wikilink")
-  - 11月13日：为音乐游戏[Deemo提供歌曲](../Page/Deemo.md "wikilink")
+  - 9月17日：为《A lighthouse and a lilium auratum》\[11\]和《A flower sings》\[12\]创作音效
+  - 9月21日：参与作曲的[视觉小说](../Page/视觉小说.md "wikilink")游戏《MuNiCa - Cry of Pluto》被送到2013年[东京电玩展](../Page/东京电玩展.md "wikilink")参展
+  - 11月13日：为音乐游戏[Deemo](../Page/Deemo.md "wikilink")提供歌曲
   - 11月30日：为Sakevisual开发制作的乙女向游戏《Backstage Pass》提供歌曲
-  - 12月13日：为[有声漫画](https://zh.wikipedia.org/wiki/有声漫画 "wikilink")《ごめんね -
-    Gomenne》创作歌曲\[13\]
+  - 12月13日：为[有声漫画](https://zh.wikipedia.org/wiki/有声漫画 "wikilink")《ごめんね - Gomenne》创作歌曲\[13\]
 
 <!-- end list -->
 
@@ -55,12 +50,10 @@ Mili当前由以下六名成员组成：\[4\]
 
   - 1月8日：乐队注册于ARTISTCROWD
   - 3月8日：为游戏《夜狐八重奏+》提供歌曲\[14\]
-  - 6月：为[TOTO的商业宣传片提供背景音乐](../Page/TOTO.md "wikilink")\[15\]
-  - 6月26日：为[富士急行的游乐园](../Page/富士急行.md "wikilink")——麗莎與卡斯柏小鎮（La ville de
-    Gaspard et Lisa）中的[光雕投影提供歌曲](../Page/光雕投影.md "wikilink")\[16\]
+  - 6月：为[TOTO](../Page/TOTO.md "wikilink")的商业宣传片提供背景音乐\[15\]
+  - 6月26日：为[富士急行](../Page/富士急行.md "wikilink")的游乐园——麗莎與卡斯柏小鎮（La ville de Gaspard et Lisa）中的[光雕投影](../Page/光雕投影.md "wikilink")提供歌曲\[16\]
   - 9月17日：第一张专辑《Mag Mell》开始发售\[17\]
-  - 11月5日：参与创作Ferri的第二张专辑《∞》中的两首歌曲——《Rusty Chandelier》和《Eternal
-    Return》\[18\]
+  - 11月5日：参与创作Ferri的第二张专辑《∞》中的两首歌曲——《Rusty Chandelier》和《Eternal Return》\[18\]
 
 <!-- end list -->
 
@@ -93,11 +86,9 @@ Mili当前由以下六名成员组成：\[4\]
   - 5月27日、6月11日、6月24日：举办迷你演唱会\[24\]
   - 8月20日：出演[Summer Sonic 2017](../Page/SUMMER_SONIC.md "wikilink")
   - 8月26日：出演《NO FEAR FESTIVAL 2017》\[25\]
-  - 8月30日：为音乐游戏[Deemo提供歌曲](../Page/Deemo.md "wikilink")\[26\]
-  - 9月30日、10月1日、10月9日、11月11日：庆祝乐团成立5周年，举行巡回演唱“Mag Milk All
-    Songs”，同時為Mili第一次的海外單獨演唱會\[27\]
-  - 11月22日：参加演唱会"MUSIC CONFERENCE vol.2 ～CAM HALL 30th
-    anniversary～"\[28\]
+  - 8月30日：为音乐游戏[Deemo](../Page/Deemo.md "wikilink")提供歌曲\[26\]
+  - 9月30日、10月1日、10月9日、11月11日：庆祝乐团成立5周年，举行巡回演唱“Mag Milk All Songs”，同時為Mili第一次的海外單獨演唱會\[27\]
+  - 11月22日：参加演唱会"MUSIC CONFERENCE vol.2 ～CAM HALL 30th anniversary～"\[28\]
 
 <!-- end list -->
 
@@ -106,11 +97,10 @@ Mili当前由以下六名成员组成：\[4\]
 <!-- end list -->
 
   - 4月25日：第三张专辑《Millennium Mother》开始发售\[29\]
-  - 5月19日、5月20日、6月9日、6月15日、11月8日、11月10日、11月11日：举行巡回演唱“Mommy, Where's My
-    Left Hand Again?”\[30\]\[31\]
+  - 5月19日、5月20日、6月9日、6月15日、11月8日、11月10日、11月11日：举行巡回演唱“Mommy, Where's My Left Hand Again?”\[30\]\[31\]
   - 10月12日：为动画《[哥布林杀手](https://zh.wikipedia.org/wiki/哥布林杀手 "wikilink")》创作主题曲“Rightfully”\[32\]\[33\]
   - 10月：為動畫《梅露可物語》創作主題曲“オリジン”及片尾曲“Bottleship”，並為動畫提供配樂
-  - 11月30日-12月2日：出演[新加坡漫展C](../Page/新加坡.md "wikilink")3 AFA 2018\[34\]
+  - 11月30日-12月2日：出演[新加坡](../Page/新加坡.md "wikilink")漫展C3 AFA 2018\[34\]
 
 <!-- end list -->
 
@@ -132,7 +122,7 @@ Mili当前由以下六名成员组成：\[4\]
 <th><p>发售日期</p></th>
 <th><p>标题</p></th>
 <th><p>版权号</p></th>
-<th><p><a href="../Page/Oricon.md" title="wikilink">Oricon最高排名</a>[37]</p></th>
+<th><p><a href="../Page/Oricon.md" title="wikilink">Oricon</a>最高排名[37]</p></th>
 <th><p>官方网站</p></th>
 </tr>
 </thead>
@@ -176,7 +166,7 @@ SNCL-00022~00023（限定版）</p></td>
 <th><p>发售日期</p></th>
 <th><p>标题</p></th>
 <th><p>版权号</p></th>
-<th><p><a href="../Page/Oricon.md" title="wikilink">Oricon最高排名</a>[38]</p></th>
+<th><p><a href="../Page/Oricon.md" title="wikilink">Oricon</a>最高排名[38]</p></th>
 <th><p>官方网站</p></th>
 </tr>
 </thead>
@@ -311,7 +301,7 @@ SNCL-00018(通常版)</p></td>
 <th><p>发售日期</p></th>
 <th><p>标题</p></th>
 <th><p>版权号</p></th>
-<th><p><a href="../Page/Oricon.md" title="wikilink">Oricon最高排名</a>[39]</p></th>
+<th><p><a href="../Page/Oricon.md" title="wikilink">Oricon</a>最高排名[39]</p></th>
 <th><p>官方网站</p></th>
 </tr>
 </thead>
@@ -407,8 +397,7 @@ SNCL-00018(通常版)</p></td>
   - [Mili 官方Blog](https://lineblog.me/mili/)
   - [Mili 官方Facebook](https://m.facebook.com/ProjectMili/)
 
-[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink")
-[Category:2012年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年成立的音樂團體 "wikilink")
+[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink") [Category:2012年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年成立的音樂團體 "wikilink")
 
 1.
 

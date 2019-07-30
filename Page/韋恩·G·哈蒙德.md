@@ -1,8 +1,8 @@
-**韋恩·G·哈蒙德**（，）是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[作家](https://zh.wikipedia.org/wiki/作家 "wikilink")、學者、[圖書館員](../Page/圖書館員.md "wikilink")，[托爾金研究專家](https://zh.wikipedia.org/wiki/托爾金 "wikilink")\[1\]。與妻子撰有《[J·R·R·托爾金：藝術家與插畫家](../Page/J·R·R·托爾金：藝術家與插畫家.md "wikilink")》、《魔戒阅读指南》、《托尔金作品导读与指南》、《[哈比人的藝術](../Page/哈比人.md "wikilink")》等多本托爾金研究書籍\[2\]\[3\]。
+**韋恩·G·哈蒙德**（，）是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[作家](https://zh.wikipedia.org/wiki/作家 "wikilink")、學者、[圖書館員](../Page/圖書館員.md "wikilink")，[托爾金研究專家](https://zh.wikipedia.org/wiki/托爾金 "wikilink")\[1\]。與妻子撰有《[J·R·R·托爾金：藝術家與插畫家](../Page/J·R·R·托爾金：藝術家與插畫家.md "wikilink")》、《魔戒阅读指南》、《托尔金作品导读与指南》、《[哈比人](../Page/哈比人.md "wikilink")的藝術》等多本托爾金研究書籍\[2\]\[3\]。
 
 ## 生平
 
-1953年2月11日，韋恩·G·哈蒙德出生於[俄亥俄州的](../Page/俄亥俄州.md "wikilink")[克利夫蘭](https://zh.wikipedia.org/wiki/克利夫蘭 "wikilink")，在該市郊區長大，從小喜愛[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")、[科幻小說與冒險故事](https://zh.wikipedia.org/wiki/科幻小說 "wikilink")。1970年就讀[高中時初次接觸到J](https://zh.wikipedia.org/wiki/高中 "wikilink")·R·R·托爾金的名著《[魔戒](../Page/魔戒.md "wikilink")》\[4\]。
+1953年2月11日，韋恩·G·哈蒙德出生於[俄亥俄州](../Page/俄亥俄州.md "wikilink")的[克利夫蘭](https://zh.wikipedia.org/wiki/克利夫蘭 "wikilink")，在該市郊區長大，從小喜愛[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")、[科幻小說與冒險故事](https://zh.wikipedia.org/wiki/科幻小說 "wikilink")。1970年就讀[高中時初次接觸到J](https://zh.wikipedia.org/wiki/高中 "wikilink")·R·R·托爾金的名著《[魔戒](../Page/魔戒.md "wikilink")》\[4\]。
 
 1975年哈蒙德獲得[文學士學位](https://zh.wikipedia.org/wiki/文學士 "wikilink")。1976年獲得[密西根大學圖書館學學院](https://zh.wikipedia.org/wiki/密西根大學 "wikilink")[文學碩士](../Page/文學碩士.md "wikilink")。
 
@@ -25,10 +25,7 @@
   - [對韋恩·G·哈蒙德與克里斯蒂娜·斯卡尔的採訪，2011](https://web.archive.org/web/20120327000048/http://www.tolkienlibrary.com//press/1002-Interview_Art_Hobbit.php)
 
   -
-[Category:美國圖書館學家](https://zh.wikipedia.org/wiki/Category:美國圖書館學家 "wikilink")
-[Category:俄亥俄州人](https://zh.wikipedia.org/wiki/Category:俄亥俄州人 "wikilink")
-[Category:密西根大學校友](https://zh.wikipedia.org/wiki/Category:密西根大學校友 "wikilink")
-[Category:托爾金專家](https://zh.wikipedia.org/wiki/Category:托爾金專家 "wikilink")
+[Category:美國圖書館學家](https://zh.wikipedia.org/wiki/Category:美國圖書館學家 "wikilink") [Category:俄亥俄州人](https://zh.wikipedia.org/wiki/Category:俄亥俄州人 "wikilink") [Category:密西根大學校友](https://zh.wikipedia.org/wiki/Category:密西根大學校友 "wikilink") [Category:托爾金專家](https://zh.wikipedia.org/wiki/Category:托爾金專家 "wikilink")
 
 1.
 2.

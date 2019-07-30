@@ -1,7 +1,6 @@
 require('Module:No globals')
 
-local yesno = require('Module:Yesno') local makeMessageBox =
-require('Module:Message box').main local getArgs
+local yesno = require('Module:Yesno') local makeMessageBox = require('Module:Message box').main local getArgs
 
 local activeBox -- lazily initialized if we get an active request
 

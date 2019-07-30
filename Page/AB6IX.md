@@ -1,18 +1,14 @@
-**AB6IX**（韓語：**에이비식스**），是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Brand
-New
-Music旗下的五人](../Page/Brand_New_Music.md "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")，於2019年5月22日出道，由[林煐岷](../Page/林煐岷.md "wikilink")、[田雄](../Page/全雄.md "wikilink")、[金東賢](../Page/金東賢.md "wikilink")、[朴佑鎭以及](../Page/朴佑鎮.md "wikilink")[李大輝所組成](../Page/李大輝.md "wikilink")，並由[林煐岷擔任隊長](../Page/林煐岷.md "wikilink")。\[1\]\[2\]\[3\]
+**AB6IX**（韓語：**에이비식스**），是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Brand New Music旗下的五人](../Page/Brand_New_Music.md "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")，於2019年5月22日出道，由[林煐岷](../Page/林煐岷.md "wikilink")、[田雄](../Page/全雄.md "wikilink")、[金東賢](../Page/金東賢.md "wikilink")、[朴佑鎭以及](../Page/朴佑鎮.md "wikilink")[李大輝](../Page/李大輝.md "wikilink")所組成，並由[林煐岷](../Page/林煐岷.md "wikilink")擔任隊長。\[1\]\[2\]\[3\]
 
 ## 團體資料
 
 ### 團名由來
 
-組合名稱AB6IX包含 「Absolute Six」 及 「Above Brandnew
-Six」的意思，寓意五名成員及粉絲聚合成為卓越的一體，為公司展開嶄新的一頁。\[4\]
+組合名稱AB6IX包含 「Absolute Six」 及 「Above Brandnew Six」的意思，寓意五名成員及粉絲聚合成為卓越的一體，為公司展開嶄新的一頁。\[4\]
 
 ### 問候方式
 
-AB6IX的打招呼方式為一邊講「Salute\!大家好\!我們是AB6IX\!」（韓語：Salute！안녕하세요 에이비식스
-입니다.），一邊以右手於左胸口比出「6」的手勢。「Salute\!」，為「敬禮」或「致敬」的意思，加上團名裡的"AB"，就等同"Absolute"的發音。
+AB6IX的打招呼方式為一邊講「Salute\!大家好\!我們是AB6IX\!」（韓語：Salute！안녕하세요 에이비식스 입니다.），一邊以右手於左胸口比出「6」的手勢。「Salute\!」，為「敬禮」或「致敬」的意思，加上團名裡的"AB"，就等同"Absolute"的發音。
 
 ### 歌迷名稱
 
@@ -34,43 +30,29 @@ AB6IX的打招呼方式為一邊講「Salute\!大家好\!我們是AB6IX\!」（�
 
 ### 出道前
 
-[金東賢](../Page/金東賢.md "wikilink")、[朴佑鎭](../Page/朴佑鎮.md "wikilink")、[李大輝曾在](../Page/李大輝.md "wikilink")[JYP娛樂當過練習生](../Page/JYP娛樂.md "wikilink")，並於2016年初轉到Brand
-New Music練習。
+[金東賢](../Page/金東賢.md "wikilink")、[朴佑鎭](../Page/朴佑鎮.md "wikilink")、[李大輝](../Page/李大輝.md "wikilink")曾在[JYP娛樂](../Page/JYP娛樂.md "wikilink")當過練習生，並於2016年初轉到Brand New Music練習。
 
-[林煐岷曾在](../Page/林煐岷.md "wikilink")[RBW娛樂當過練習生](../Page/Rainbow_Bridge_World.md "wikilink")。後參加ALL
-IN ONE聯合選秀，於3500人中獲得第一名，Musicwands、[Brand New
-Music](../Page/Brand_New_Music.md "wikilink")、[樂華娱乐和](https://zh.wikipedia.org/wiki/樂華娱乐 "wikilink")[Pledis娛樂最終合格](../Page/Pledis娛樂.md "wikilink")，並於2016年10月選擇簽約[Brand
-New Music成為旗下練習生](../Page/Brand_New_Music.md "wikilink")。
+[林煐岷](../Page/林煐岷.md "wikilink")曾在[RBW娛樂當過練習生](../Page/Rainbow_Bridge_World.md "wikilink")。後參加ALL IN ONE聯合選秀，於3500人中獲得第一名，Musicwands、[Brand New Music](../Page/Brand_New_Music.md "wikilink")、[樂華娱乐和](https://zh.wikipedia.org/wiki/樂華娱乐 "wikilink")[Pledis娛樂](../Page/Pledis娛樂.md "wikilink")最終合格，並於2016年10月選擇簽約[Brand New Music成為旗下練習生](../Page/Brand_New_Music.md "wikilink")。
 
-2017年，[林煐岷](../Page/林煐岷.md "wikilink")、[金東賢](../Page/金東賢.md "wikilink")、[朴佑鎭](../Page/朴佑鎮.md "wikilink")、[李大輝出演](../Page/李大輝.md "wikilink")[Mnet選秀節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[PRODUCE
-101
-第二季](../Page/PRODUCE_101_第二季.md "wikilink")》，最後[李大輝以第三名](../Page/李大輝.md "wikilink")、[朴佑鎭以第六名進入](../Page/朴佑鎮.md "wikilink")[Wanna
-One出道](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")，[林煐岷獲得十五名](../Page/林煐岷.md "wikilink")、[金東賢則是二十八名遺憾未進入出道組](../Page/金東賢.md "wikilink")。
+2017年，[林煐岷](../Page/林煐岷.md "wikilink")、[金東賢](../Page/金東賢.md "wikilink")、[朴佑鎭](../Page/朴佑鎮.md "wikilink")、[李大輝](../Page/李大輝.md "wikilink")出演[Mnet選秀節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[PRODUCE 101 第二季](../Page/PRODUCE_101_第二季.md "wikilink")》，最後[李大輝](../Page/李大輝.md "wikilink")以第三名、[朴佑鎭以第六名進入](../Page/朴佑鎮.md "wikilink")[Wanna One出道](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")，[林煐岷](../Page/林煐岷.md "wikilink")獲得十五名、[金東賢](../Page/金東賢.md "wikilink")則是二十八名遺憾未進入出道組。
 
-2017年8月7日，[朴佑鎭](../Page/朴佑鎮.md "wikilink")、[李大輝以](../Page/李大輝.md "wikilink")[Wanna
-One成員出道](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")。\[6\]
+2017年8月7日，[朴佑鎭](../Page/朴佑鎮.md "wikilink")、[李大輝](../Page/李大輝.md "wikilink")以[Wanna One成員出道](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")。\[6\]
 
-2017年9月6日，[林煐岷和](../Page/林煐岷.md "wikilink")[金東賢以](../Page/金東賢.md "wikilink")[MXM成員出道](../Page/MXM_\(男子音樂組合\).md "wikilink")。\[7\]
+2017年9月6日，[林煐岷](../Page/林煐岷.md "wikilink")和[金東賢](../Page/金東賢.md "wikilink")以[MXM成員出道](../Page/MXM_\(男子音樂組合\).md "wikilink")。\[7\]
 
-2017年11月21日，[田雄亮相於](../Page/全雄.md "wikilink")《[Stray
-Kids](https://zh.wikipedia.org/wiki/Stray_Kids_\(電視節目\) "wikilink")》生存節目，以[YG娛樂練習生身份代表](../Page/YG娛樂.md "wikilink")。\[8\]離開[YG娛樂後](../Page/YG娛樂.md "wikilink")，參加[Brand
-New
-Music試鏡](../Page/Brand_New_Music.md "wikilink")，亦曾在[MXM單獨演唱會上擔任舞者](../Page/MXM_\(男子音樂組合\).md "wikilink")。\[9\]\[10\]也曾在[Woollim娛樂](../Page/Woollim娛樂.md "wikilink")、[JYP娛樂當過練習生](../Page/JYP娛樂.md "wikilink")。
+2017年11月21日，[田雄亮相於](../Page/全雄.md "wikilink")《[Stray Kids](https://zh.wikipedia.org/wiki/Stray_Kids_\(電視節目\) "wikilink")》生存節目，以[YG娛樂](../Page/YG娛樂.md "wikilink")練習生身份代表。\[8\]離開[YG娛樂](../Page/YG娛樂.md "wikilink")後，參加[Brand New Music試鏡](../Page/Brand_New_Music.md "wikilink")，亦曾在[MXM單獨演唱會上擔任舞者](../Page/MXM_\(男子音樂組合\).md "wikilink")。\[9\]\[10\]也曾在[Woollim娛樂](../Page/Woollim娛樂.md "wikilink")、[JYP娛樂](../Page/JYP娛樂.md "wikilink")當過練習生。
 
-2018年4月5日，[林煐岷](../Page/林煐岷.md "wikilink")、[金東賢與](../Page/金東賢.md "wikilink")[STARSHIP娛樂旗下個人歌手](../Page/STARSHIP娛樂.md "wikilink")[鄭世雲和練習生李光賢](https://zh.wikipedia.org/wiki/鄭世雲 "wikilink")，共組企劃團體[YDPP](../Page/YDPP.md "wikilink")。\[11\]
+2018年4月5日，[林煐岷](../Page/林煐岷.md "wikilink")、[金東賢](../Page/金東賢.md "wikilink")與[STARSHIP娛樂](../Page/STARSHIP娛樂.md "wikilink")旗下個人歌手[鄭世雲和練習生李光賢](https://zh.wikipedia.org/wiki/鄭世雲 "wikilink")，共組企劃團體[YDPP](../Page/YDPP.md "wikilink")。\[11\]
 
-2019年1月27日，[朴佑鎭](../Page/朴佑鎮.md "wikilink")、[李大輝結束為期一年半的](../Page/李大輝.md "wikilink")[Wanna
-One活動](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")。\[12\]
+2019年1月27日，[朴佑鎭](../Page/朴佑鎮.md "wikilink")、[李大輝](../Page/李大輝.md "wikilink")結束為期一年半的[Wanna One活動](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")。\[12\]
 
 ### 2019年
 
 **出道計畫**
 
-公司決定將曾出演《[PRODUCE
-101第二季](https://zh.wikipedia.org/wiki/PRODUCE_101第二季 "wikilink")》的四名練習生[林煐岷](../Page/林煐岷.md "wikilink")、[金東賢](../Page/金東賢.md "wikilink")、[李大輝和](../Page/李大輝.md "wikilink")[朴佑鎭再加入新人推出新組合出道](../Page/朴佑鎮.md "wikilink")。
+公司決定將曾出演《[PRODUCE 101第二季](https://zh.wikipedia.org/wiki/PRODUCE_101第二季 "wikilink")》的四名練習生[林煐岷](../Page/林煐岷.md "wikilink")、[金東賢](../Page/金東賢.md "wikilink")、[李大輝](../Page/李大輝.md "wikilink")和[朴佑鎭再加入新人推出新組合出道](../Page/朴佑鎮.md "wikilink")。
 
-2月15日，[Brand New
-Music將](../Page/Brand_New_Music.md "wikilink")「AB6IX」註冊，並於同日註冊官方社群帳號。\[13\]3月29日，正式公佈團體名稱及人數，並開通官方社群帳號。\[14\]
+2月15日，[Brand New Music將](../Page/Brand_New_Music.md "wikilink")「AB6IX」註冊，並於同日註冊官方社群帳號。\[13\]3月29日，正式公佈團體名稱及人數，並開通官方社群帳號。\[14\]
 
 4月18日，團綜節目《[BRANDNEWBOYS](../Page/BRANDNEWBOYS.md "wikilink")》播出，節目中展示成員準備出道的過程及日常生活的趣事等，向粉絲呈現少年模樣與豐富多彩的魅力。\[15\]
 
@@ -80,9 +62,7 @@ Music將](../Page/Brand_New_Music.md "wikilink")「AB6IX」註冊，並於同日
 
 5月22日，韓國時間下午6點，公開首張迷你專輯《B:COMPLETE》全輯音源及主打《BREATHE》，並於同日舉行出道Showcase，正式出道。\[16\]\[17\]
 
-6月4日，出道僅13天即在音樂節目《[THE
-SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")》奪下出道後首個一位。\[18\]6月5日，在音樂節目《[Show
-Champion](../Page/Show_Champion.md "wikilink")》再次取得一位。\[19\]
+6月4日，出道僅13天即在音樂節目《[THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")》奪下出道後首個一位。\[18\]6月5日，在音樂節目《[Show Champion](../Page/Show_Champion.md "wikilink")》再次取得一位。\[19\]
 
 ## 音樂作品
 
@@ -104,9 +84,8 @@ Champion](../Page/Show_Champion.md "wikilink")》再次取得一位。\[19\]
 <li>發行日期 ：2019年5月22日</li>
 <li>語言：韓語</li>
 <li>類型：Ballad, Dance</li>
-<li>銷量：106,790+<ref>Gaon Album Chart專輯销量排名《B:COMPLETE》</li>
-</ul>
-<p><a href="http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&amp;serviceGbn=&amp;targetTime=05&amp;hitYear=2019&amp;termGbn=month">2019年5月GAON專輯榜第5名</a> </ref></p></td>
+<li>銷量：151,724+[20]</li>
+</ul></td>
 <td></td>
 </tr>
 </tbody>
@@ -118,7 +97,8 @@ Champion](../Page/Show_Champion.md "wikilink")》再次取得一位。\[19\]
 
 | 日期               | |頻道                                                   | |節目名稱                                              | |集數        | 出演成員 |
 | ---------------- | ----------------------------------------------------- | -------------------------------------------------- | ---------- | ---- |
-| 2019年4月18日-6月13日 | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | [BRANDNEWBOYS](../Page/BRANDNEWBOYS.md "wikilink") | 共8集 \[20\] | 全員   |
+| 2019年4月18日-6月13日 | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | [BRANDNEWBOYS](../Page/BRANDNEWBOYS.md "wikilink") | 共8集 \[21\] | 全員   |
+| 2019年6月1日-7月9日   | Dingo                                                 | 義氣遊戲                                               | 共6集        | 全員   |
 |                  |                                                       |                                                    |            |      |
 
 ### 出演綜藝節目
@@ -213,10 +193,24 @@ Champion](../Page/Show_Champion.md "wikilink")》再次取得一位。\[19\]
 </tr>
 <tr class="even">
 <td><p>2019年6月23日</p></td>
-<td><p><a href="../Page/JTBC.md" title="wikilink">JTBC2</a></p></td>
+<td><p><a href="../Page/JTBC.md" title="wikilink">JTBC</a>2</p></td>
 <td><p>RUN.wav (런웨이브)</p></td>
 <td><p>全員</p></td>
-<td><p>EP1[21]</p></td>
+<td><p>EP1[22]</p></td>
+</tr>
+<tr class="odd">
+<td><p>2019年7月11日</p></td>
+<td><p>Mnet</p></td>
+<td><p>不是你認識的我2</p></td>
+<td><p>李大輝</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年7月12日</p></td>
+<td><p>MBC</p></td>
+<td><p>My Little Television(第二季)</p></td>
+<td><p>全員</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -284,7 +278,7 @@ Champion](../Page/Show_Champion.md "wikilink")》再次取得一位。\[19\]
 | 年份    | |作品名稱          | |期數         | |合作品牌  | |備註        |
 | ----- | -------------- | ----------- | ------ | ---------- |
 | 2019年 | atstar 1 Korea | 5月號/Vol.86  | acwell | 封底         |
-| 2019年 | atstar 1 Korea | 6月號/Vol.87  | 倩碧     | 朴佑鎭 \[22\] |
+| 2019年 | atstar 1 Korea | 6月號/Vol.87  | 倩碧     | 朴佑鎭 \[23\] |
 | 2019年 | 1st Look       | 6月號/vol.176 | acwell | 封底         |
 | 2019年 | THE STAR       | 6月號         |        | 封底         |
 |       |                |             |        |            |
@@ -299,7 +293,7 @@ Champion](../Page/Show_Champion.md "wikilink")》再次取得一位。\[19\]
 
 ### 官方粉絲見面會
 
-  - AB6IX 1ST FANMEETING \[1ST ABNEW\] TOUR\[23\]
+  - AB6IX 1ST FANMEETING \[1ST ABNEW\] TOUR\[24\]
 
 | 日期            | 城市  | 舉辦地點               |
 | ------------- | --- | ------------------ |
@@ -312,16 +306,17 @@ Champion](../Page/Show_Champion.md "wikilink")》再次取得一位。\[19\]
 
 ### 參與演唱會
 
-| 日期         | 國家  | 活動名稱                        |
-| ---------- | --- | --------------------------- |
-| 2019/05/17 | 日本  | KCON 2019 JAPAN             |
-| 2019/05/18 | 韓國  | DREAM CONCERT               |
-| 2019/05/25 | 韓國  | GREEN CONCERT               |
-| 2019/06/15 | 韓國  | 2019 K-POP ARTIST FESTIVAL  |
-| 2019/07/06 | 香港  | SBS SUPER CONCERT           |
-| 2019/07/07 | 美國  | KCON 2019 NY                |
-| 2019/07/17 | 哈薩克 | KPOP MEGA CONCERT IN ALMATY |
-|            |     |                             |
+| 日期         | 國家  | 活動名稱                         |
+| ---------- | --- | ---------------------------- |
+| 2019/05/17 | 日本  | KCON 2019 JAPAN              |
+| 2019/05/18 | 韓國  | DREAM CONCERT                |
+| 2019/05/25 | 韓國  | GREEN CONCERT                |
+| 2019/06/15 | 韓國  | 2019 K-POP ARTIST FESTIVAL   |
+| 2019/07/06 | 香港  | SBS SUPER CONCERT            |
+| 2019/07/07 | 美國  | KCON 2019 NY                 |
+| 2019/07/17 | 哈薩克 | KPOP MEGA CONCERT IN ALMATY  |
+| 2019/07/22 | 韓國  | 2019 ULSAN SUMMER FESTIVAL   |
+| 2019/10/19 | 韓國  | 2019 BUSAN ONE ASIA FESTIVAL |
 
 ## 獎項與榮譽
 
@@ -379,14 +374,10 @@ Champion](../Page/Show_Champion.md "wikilink")》再次取得一位。\[19\]
   - [AB6IX的Youtube頻道](https://www.youtube.com/AB6IX)
   - [AB6IX的Facebook專頁](https://www.facebook.com/AB6IX)
   - [AB6IX的V Live频道](https://channels.vlive.tv/B5D92B/home)
-  - [AB6IX的官方Tik
-    Tok](https://www.tiktok.com/share/user/6678871408343401474)
+  - [AB6IX的官方Tik Tok](https://www.tiktok.com/share/user/6678871408343401474)
+  - [AB6IX的Weibo帳戶](https://www.weibo.com/u/7156960422?refer_flag=1005050010_&sudaref=www.google.com&display=0&retcode=6102&is_hot=1)
 
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:2019年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2019年成立的音樂團體 "wikilink")
-[Category:2019年韓國建立](https://zh.wikipedia.org/wiki/Category:2019年韓國建立 "wikilink")
+[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2019年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2019年成立的音樂團體 "wikilink") [Category:2019年韓國建立](https://zh.wikipedia.org/wiki/Category:2019年韓國建立 "wikilink")
 
 1.
 2.
@@ -410,5 +401,5 @@ Champion](../Page/Show_Champion.md "wikilink")》再次取得一位。\[19\]
 20.
 21.
 22.
-23. [1ST FANMEETING 1ST ABNEW
-    TOUR](https://twitter.com/AB6IX/status/1135380600968212481%7Ctitle=AB6IX)
+23.
+24. [1ST FANMEETING 1ST ABNEW TOUR](https://twitter.com/AB6IX/status/1135380600968212481%7Ctitle=AB6IX)

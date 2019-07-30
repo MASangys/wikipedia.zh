@@ -1,6 +1,4 @@
-是2018年於[韓國上映的電影](https://zh.wikipedia.org/wiki/韩国 "wikilink")。改編自韓國歌舞劇“盧奇秀”，以1951年朝鮮戰爭為背景，描述收容北朝鮮戰俘的收容所裡各國戰俘所組成的踢踏舞團“Swing
-Kids”。由[陽光姐妹淘導演姜炯哲執導](https://zh.wikipedia.org/wiki/陽光姐妹淘 "wikilink")，[都敬秀](../Page/都敬秀.md "wikilink")、[朴慧秀主演](../Page/朴慧秀.md "wikilink")。電影已銷往包括亞洲、北美、大洋洲等23個地區和國家，\[1\]
-。
+是2018年於[韓國上映的電影](https://zh.wikipedia.org/wiki/韩国 "wikilink")。改編自韓國歌舞劇“盧奇秀”，以1951年朝鮮戰爭為背景，描述收容北朝鮮戰俘的收容所裡各國戰俘所組成的踢踏舞團“Swing Kids”。由[陽光姐妹淘導演姜炯哲執導](https://zh.wikipedia.org/wiki/陽光姐妹淘 "wikilink")，[都敬秀](../Page/都敬秀.md "wikilink")、[朴慧秀](../Page/朴慧秀.md "wikilink")主演。電影已銷往包括亞洲、北美、大洋洲等23個地區和國家，\[1\] 。
 
 ## 演員陣容
 

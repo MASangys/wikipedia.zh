@@ -1,25 +1,19 @@
-**THE RAMPAGE from EXILE TRIBE** (THE RAMPAGE from 放浪一族) 是一個日本
-16人男子團體，由3位主唱、13位表演者組成。隸屬於[LDH經紀公司](../Page/LDH_\(藝能事務所\).md "wikilink")。唱片公司為[rhythm
-zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。團體名稱的RAMPAGE有「橫衝直撞」的意思。
+**THE RAMPAGE from EXILE TRIBE** (THE RAMPAGE from 放浪一族) 是一個日本 16人男子團體，由3位主唱、13位表演者組成。隸屬於[LDH經紀公司](../Page/LDH_\(藝能事務所\).md "wikilink")。唱片公司為[rhythm zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。團體名稱的RAMPAGE有「橫衝直撞」的意思。
 
 ## 簡歷
 
 **2014年：結成**
 
-  - 4月，從「VOCAL BATTLE AUDITION 4」選出3名主唱，從「GLOBAL JAPAN CHALLENGE」、「EXILE
-    PERFORMER BATTLE AUDITION」選出13名表演者，共16人作為候補成員。
+  - 4月，從「VOCAL BATTLE AUDITION 4」選出3名主唱，從「GLOBAL JAPAN CHALLENGE」、「EXILE PERFORMER BATTLE AUDITION」選出13名表演者，共16人作為候補成員。
   - 7月7日-7月29日，進行以成為正式成員為目標的「武者修行」。
   - 9月12日，在 新木場STUDIO海岸 舉行「武者修行 FINAL」，所有候補成員皆成為正式成員 \[1\].
-  - 11月18日，TBS「[週刊EXILE](../Page/週刊EXILE.md "wikilink")」播出中，宣布隊長 LIKIYA
-    和 陣 就任。
+  - 11月18日，TBS「[週刊EXILE](../Page/週刊EXILE.md "wikilink")」播出中，宣布隊長 LIKIYA 和 陣 就任。
 
 **2016年**
 
   - 3月26日-4月17日，成員分為3隊伍，在日本47個縣市進行「武者修行 2016 Get Ready to RAMPAGE」巡迴表演。
-  - 5月18日， 在[代代木公園](../Page/代代木公园.md "wikilink") 的戶外舞台舉行「武者修行 2016 Get
-    Ready to RAMPAGE FINAL」 \[2\].
-  - 9月27日，TBS「[週刊EXILE](../Page/週刊EXILE.md "wikilink")」播出中宣布將在隔年1月25日出道
-    \[3\].
+  - 5月18日， 在[代代木公園](../Page/代代木公园.md "wikilink") 的戶外舞台舉行「武者修行 2016 Get Ready to RAMPAGE FINAL」 \[2\].
+  - 9月27日，TBS「[週刊EXILE](../Page/週刊EXILE.md "wikilink")」播出中宣布將在隔年1月25日出道 \[3\].
 
 **2017年\~：出道至今**
 
@@ -47,15 +41,14 @@ zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。團體名稱的RAM
   - 浦川翔平 (URAKAWA SHOHEI，1997年 [5月23日](../Page/5月23日.md "wikilink") -)
   - 藤原樹 (FUJIWARA ITSUKI，1997年 [10月20日](../Page/10月20日.md "wikilink") -)
   - 武知海青 (TAKECHI KAISEI， 1998年 [2月4日](../Page/2月4日.md "wikilink") -)
-  - 長谷川慎 (HASEGAWA MAKOTO，1998年
-    [7月29日](https://zh.wikipedia.org/wiki/7月29日 "wikilink") -)
+  - 長谷川慎 (HASEGAWA MAKOTO，1998年 [7月29日](https://zh.wikipedia.org/wiki/7月29日 "wikilink") -)
   - 龍 (RYU，1998年 [9月9日](../Page/9月9日.md "wikilink") -)
   - 鈴木昂秀 (SUZUKI TAKAHIDE，1998年 [10月3日](../Page/10月3日.md "wikilink") -)
   - 後藤拓磨 ( GOTO TAKUMA，1998年 [12月4日](../Page/12月4日.md "wikilink") -)
 
 ## 作品
 
-排名為[Oricon公信榜最高排名](../Page/Oricon公信榜.md "wikilink") \[6\]
+排名為[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")最高排名 \[6\]
 
 ### 單曲
 
@@ -114,7 +107,7 @@ zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。團體名稱的RAM
 <tr class="even">
 <td><p>8</p></td>
 <td><p>2019年7月31日</p></td>
-<td></td>
+<td><p>WELCOME 2 PARADISE</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -207,22 +200,17 @@ THE RAMPAGE LIVE TOUR 2019 "THROW YA FIST"\[8\]
 
 ### 作為支援成員參加
 
-  - EXILE TRIBE PERFECT YEAR 2014 SPECIAL STAGE "THE SURVIVAL"
-    [埼玉超級競技場](../Page/埼玉超級競技場.md "wikilink")（2014年6月）
-  - EXILE TRIBE PERFECT YEAR LIVE TOUR TOWER OF WISH 2014 〜THE
-    REVOLUTION〜（2014年9月 - 12月）
+  - EXILE TRIBE PERFECT YEAR 2014 SPECIAL STAGE "THE SURVIVAL" [埼玉超級競技場](../Page/埼玉超級競技場.md "wikilink")（2014年6月）
+  - EXILE TRIBE PERFECT YEAR LIVE TOUR TOWER OF WISH 2014 〜THE REVOLUTION〜（2014年9月 - 12月）
   - 三代目J Soul Brothers LIVE TOUR 2015「BLUE PLANET」（2015年5月 - 10月）
   - EXILE LIVE TOUR 2015 "AMAZING WORLD"（2015年9月 - 12月）
-  - [EXILE THE SECOND LIVE TOUR 2016-2017 "WILD WILD
-    WARRIORS"](https://zh.wikipedia.org/wiki/EXILE_THE_SECOND_LIVE_TOUR_2016-2017_"WILD_WILD_WARRIORS" "wikilink")（2016年10月
-    - 2017年5月）
+  - [EXILE THE SECOND LIVE TOUR 2016-2017 "WILD WILD WARRIORS"](https://zh.wikipedia.org/wiki/EXILE_THE_SECOND_LIVE_TOUR_2016-2017_"WILD_WILD_WARRIORS" "wikilink")（2016年10月 - 2017年5月）
 
 ## 出演
 
 ### 電視節目
 
-  - [週刊EXILE](../Page/週刊EXILE.md "wikilink")（2014年 -
-    、[TBS](../Page/TBS電視台.md "wikilink")）
+  - [週刊EXILE](../Page/週刊EXILE.md "wikilink")（2014年 - 、[TBS](../Page/TBS電視台.md "wikilink")）
 
 ### 廣播節目
 
@@ -231,19 +219,15 @@ THE RAMPAGE LIVE TOUR 2019 "THROW YA FIST"\[8\]
 
 ### 網路節目
 
-  - 登上頂點吧 THE RAMPAGE (てっぺんとるぞ THE RAMPAGE, 2018年～2019年,
-    [GYAO\!](https://zh.wikipedia.org/wiki/GYAO! "wikilink")）
+  - 登上頂點吧 THE RAMPAGE (てっぺんとるぞ THE RAMPAGE, 2018年～2019年, [GYAO\!](https://zh.wikipedia.org/wiki/GYAO! "wikilink")）
 
 ### 音樂錄影帶參與
 
   - [EXILE THE SECOND](../Page/EXILE_THE_SECOND.md "wikilink")
       - 「One Time One Life」（2016年6月）
-      - 「[YEAH\!\! YEAH\!\!
-        YEAH\!\!](../Page/YEAH!!_YEAH!!_YEAH!!.md "wikilink")」（2016年7月）
-      - 「[Shut up\!\! Shut up\!\! Shut
-        up\!\!](../Page/Shut_up!!_Shut_up!!_Shut_up!!.md "wikilink")」（2016年8月）
-      - 「[WILD WILD
-        WILD](../Page/WILD_WILD_WILD.md "wikilink")」（2016年9月）
+      - 「[YEAH\!\! YEAH\!\! YEAH\!\!](../Page/YEAH!!_YEAH!!_YEAH!!.md "wikilink")」（2016年7月）
+      - 「[Shut up\!\! Shut up\!\! Shut up\!\!](../Page/Shut_up!!_Shut_up!!_Shut_up!!.md "wikilink")」（2016年8月）
+      - 「[WILD WILD WILD](../Page/WILD_WILD_WILD.md "wikilink")」（2016年9月）
 
 ### 廣告
 
@@ -251,10 +235,8 @@ THE RAMPAGE LIVE TOUR 2019 "THROW YA FIST"\[8\]
 
 ## 獎項
 
-  - [MTV日本音樂錄影帶大獎2017](../Page/MTV日本音樂錄影帶大獎.md "wikilink")
-    最佳新人音樂錄影帶獎"Lightning"
-  - [亞洲明星盛典(Asia Artist Award)2017年](../Page/亞洲明星盛典.md "wikilink") New
-    Wave獎
+  - [MTV日本音樂錄影帶大獎](../Page/MTV日本音樂錄影帶大獎.md "wikilink")2017 最佳新人音樂錄影帶獎"Lightning"
+  - [亞洲明星盛典 Artist Award)2017年](../Page/亞洲明星盛典.md "wikilink")(Asia New Wave獎
   - 第32年度 [日本金唱片大獎](../Page/日本金唱片大獎.md "wikilink") 最佳5位新人獎(音樂類) \[10\]
 
 ## 腳註
@@ -263,16 +245,13 @@ THE RAMPAGE LIVE TOUR 2019 "THROW YA FIST"\[8\]
 
 ## 外部連結
 
-  - [THE RAMPAGE from EXILE TRIBE OFFICIAL
-    WEBSITE](http://the-rampage.jp/)
+  - [THE RAMPAGE from EXILE TRIBE OFFICIAL WEBSITE](http://the-rampage.jp/)
 
   -
   -
   -
   -
-[Category:EXILE_TRIBE](https://zh.wikipedia.org/wiki/Category:EXILE_TRIBE "wikilink")
-[Category:有未审阅翻译的页面](https://zh.wikipedia.org/wiki/Category:有未审阅翻译的页面 "wikilink")
-[Category:LDH所屬藝人](https://zh.wikipedia.org/wiki/Category:LDH所屬藝人 "wikilink")
+[Category:EXILE_TRIBE](https://zh.wikipedia.org/wiki/Category:EXILE_TRIBE "wikilink") [Category:有未审阅翻译的页面](https://zh.wikipedia.org/wiki/Category:有未审阅翻译的页面 "wikilink") [Category:LDH所屬藝人](https://zh.wikipedia.org/wiki/Category:LDH所屬藝人 "wikilink")
 
 1.
 2.

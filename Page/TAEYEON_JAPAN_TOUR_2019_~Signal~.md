@@ -1,9 +1,8 @@
-''' 《TAEYEON JAPAN TOUR 2019 \~Signal\~》
-'''是韓國女子組合[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[太妍首場日本個人演唱會](https://zh.wikipedia.org/wiki/金太妍 "wikilink")。
+''' 《TAEYEON JAPAN TOUR 2019 \~Signal\~》 '''是韓國女子組合[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[太妍首場日本個人演唱會](https://zh.wikipedia.org/wiki/金太妍 "wikilink")。
 
 ## 概要
 
-[SM娛樂](../Page/SM娛樂.md "wikilink")2019年2月21日宣佈太妍將在[日本首次舉行個人巡迴演唱會](../Page/日本.md "wikilink")，以[福岡為起點陸續於](https://zh.wikipedia.org/wiki/福岡 "wikilink")[大阪](https://zh.wikipedia.org/wiki/大阪 "wikilink")、[愛知](https://zh.wikipedia.org/wiki/愛知 "wikilink")、[東京進行](https://zh.wikipedia.org/wiki/東京 "wikilink")4個城市6場公演的巡迴演出。\[1\]\[2\]同年2月22日釋出巡演預告影片\[3\]同年3月29日宣佈在5月31日追加場次並公開宣傳照。\[4\]
+[SM娛樂](../Page/SM娛樂.md "wikilink")2019年2月21日宣佈太妍將在[日本](../Page/日本.md "wikilink")首次舉行個人巡迴演唱會，以[福岡為起點陸續於](https://zh.wikipedia.org/wiki/福岡 "wikilink")[大阪](https://zh.wikipedia.org/wiki/大阪 "wikilink")、[愛知](https://zh.wikipedia.org/wiki/愛知 "wikilink")、[東京進行](https://zh.wikipedia.org/wiki/東京 "wikilink")4個城市6場公演的巡迴演出。\[1\]\[2\]同年2月22日釋出巡演預告影片\[3\]同年3月29日宣佈在5月31日追加場次並公開宣傳照。\[4\]
 
 ## 演出時間表
 
@@ -93,10 +92,7 @@
 
 <!-- end list -->
 
-  - [SM
-    Entertainment](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")、[SM
-    Entertainment
-    Japan](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")
+  - [SM Entertainment](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")、[SM Entertainment Japan](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")
 
 <!-- end list -->
 
@@ -104,8 +100,7 @@
 
 <!-- end list -->
 
-  - [Nayutawave Records](../Page/環球音樂_\(日本\).md "wikilink")、SM
-    Entertainment Japan
+  - [Nayutawave Records](../Page/環球音樂_\(日本\).md "wikilink")、SM Entertainment Japan
 
 ## 註釋與參考資料
 
@@ -117,9 +112,7 @@
 
   - [太妍日本官方網站](http://taeyeon.girls-generation.jp/)
 
-[Category:日本演唱會](https://zh.wikipedia.org/wiki/Category:日本演唱會 "wikilink")
-[Category:演唱會](https://zh.wikipedia.org/wiki/Category:演唱會 "wikilink")
-[Category:2019年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2019年巡迴演唱會 "wikilink")
+[Category:日本演唱會](https://zh.wikipedia.org/wiki/Category:日本演唱會 "wikilink") [Category:演唱會](https://zh.wikipedia.org/wiki/Category:演唱會 "wikilink") [Category:2019年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2019年巡迴演唱會 "wikilink")
 
 1.
 2.

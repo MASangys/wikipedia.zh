@@ -24,8 +24,7 @@ RUDY攻击打开到HTTP服务器的并发POST连接，并延迟将POST请求的�
 
 ## 外部链接
 
-  - [Google
-    Code上的R-U-Dead-Yet](https://code.google.com/archive/p/r-u-dead-yet/)
+  - [Google Code上的R-U-Dead-Yet](https://code.google.com/archive/p/r-u-dead-yet/)
   - [SourceForge上的R-U-Dead-Yet](https://sourceforge.net/projects/r-u-dead-yet/)
 
 [Category:阻斷服務攻擊](https://zh.wikipedia.org/wiki/Category:阻斷服務攻擊 "wikilink")

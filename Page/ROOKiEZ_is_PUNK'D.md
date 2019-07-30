@@ -10,92 +10,51 @@
 
 }} }}
 
-**ROOKiEZ is
-PUNK'D**（）是[日本一支](../Page/日本.md "wikilink")曲风的乐队，2006年在千葉縣结成，2010年簽約[DefSTAR唱片而正式出道](../Page/DefSTAR_Records.md "wikilink")。\[1\]2019年3月12日，在官網上宣布5月31日公演結束後無限期休止活動。\[2\]
+**ROOKiEZ is PUNK'D**（）是[日本](../Page/日本.md "wikilink")一支曲风的乐队，2006年在千葉縣结成，2010年簽約[DefSTAR唱片而正式出道](../Page/DefSTAR_Records.md "wikilink")。\[1\]2019年3月12日，在官網上宣布5月31日公演結束後無限期休止活動。\[2\]
 
 ## 樂團簡歷
 
-起初為高中學長2RASH（貝斯）（當時高三）與學弟SHiNNOSUKE（主唱／吉他）（當時高一）因為喜歡樂團Hi-STANDARD而結識，兩人與2RASH不同校的朋友TSUYOSHi（鼓／和聲）組成ROOKiEZ
-is PUNK'D的前身樂團ROOKiEZ\[3\]。
+起初為高中學長2RASH（貝斯）（當時高三）與學弟SHiNNOSUKE（主唱／吉他）（當時高一）因為喜歡樂團Hi-STANDARD而結識，兩人與2RASH不同校的朋友TSUYOSHi（鼓／和聲）組成ROOKiEZ is PUNK'D的前身樂團ROOKiEZ\[3\]。
 
-成團之初在新宿、高圓寺附近活動，後來活動據點轉移到涉谷\[4\]。歷經達成當初所設之參與UZUMAKI主辦的活動等目標，2007年開始在東京涉谷club
-asia於隔月的第一個週五舉行定期的派對活動「BUMP ON da STYLE」（現在也不定期舉辦）。同年通過LOTTE與[Sony
-Music舉辦的徵選會](https://zh.wikipedia.org/wiki/Sony_Music "wikilink")\[5\]。
+成團之初在新宿、高圓寺附近活動，後來活動據點轉移到涉谷\[4\]。歷經達成當初所設之參與UZUMAKI主辦的活動等目標，2007年開始在東京涉谷club asia於隔月的第一個週五舉行定期的派對活動「BUMP ON da STYLE」（現在也不定期舉辦）。同年通過LOTTE與[Sony Music舉辦的徵選會](https://zh.wikipedia.org/wiki/Sony_Music "wikilink")\[5\]。
 
-2010年6月2日，透過[DefSTAR唱片發行單曲](../Page/DefSTAR_Records.md "wikilink")「コンプリケイション（Complication）」正式出道。同年8月11日，發表第二張單曲「eggmate
-of the year」。
+2010年6月2日，透過[DefSTAR唱片發行單曲](../Page/DefSTAR_Records.md "wikilink")「コンプリケイション（Complication）」正式出道。同年8月11日，發表第二張單曲「eggmate of the year」。
 
-2010年鼓手TSUYOSHi突然退出樂團。2011年1月，TSUYOSHi退出後作為支援鼓手的U，正式加入ROOKiEZ is
-PUNK'D成為正式團員。
+2010年鼓手TSUYOSHi突然退出樂團。2011年1月，TSUYOSHi退出後作為支援鼓手的U，正式加入ROOKiEZ is PUNK'D成為正式團員。
 
-2011年3月2日，發表第三張單曲「Song for...」。8月24日，同時發表第四張單曲「IN MY
-WORLD」，以及與動畫「[無頭騎士異聞錄
-DuRaRaRa\!\!](../Page/無頭騎士異聞錄_DuRaRaRa!!.md "wikilink")」合作企劃的專輯『DRRROOKiEZ\!\!〜ROOKiEZ
-is PUNK'D respect for DRRR\!\!〜』。10月5日開始在16個都市舉行17次公演的『IN MY WORLD
-TOUR』全國巡迴演唱。在巡迴演唱會最後，樂團發表在2012年3月舉行樂團首度的東名阪巡迴專場演唱會，以及發售第五張單曲「ZERO
-SATISFACTION」（2012年3月7日發售）。
+2011年3月2日，發表第三張單曲「Song for...」。8月24日，同時發表第四張單曲「IN MY WORLD」，以及與動畫「[無頭騎士異聞錄 DuRaRaRa\!\!](../Page/無頭騎士異聞錄_DuRaRaRa!!.md "wikilink")」合作企劃的專輯『DRRROOKiEZ\!\!〜ROOKiEZ is PUNK'D respect for DRRR\!\!〜』。10月5日開始在16個都市舉行17次公演的『IN MY WORLD TOUR』全國巡迴演唱。在巡迴演唱會最後，樂團發表在2012年3月舉行樂團首度的東名阪巡迴專場演唱會，以及發售第五張單曲「ZERO SATISFACTION」（2012年3月7日發售）。
 
-2013年4月樂團發表離開事務所與唱片公司，並且將加入吉他手TAKUMi以四個人的編制進行活動。5月首次參加海外公演\[6\]，FanimeCon2013（San
-Jose）現場超過3,000名觀眾\[7\]。2013年8月26日，官網宣布吉他手TAKUMi因脊椎的檢查與治療所需，暫停活動專心療養\[8\]。睽違一年又八個月，2013年11月20日透過TOHO
-animation RECORDS發行第六張單曲「リクライム（Reclimb）」。同年12月10日開始『ACROSS THE HILL
-TOUR2013-2014』舉行全國13場公演；2014年1月31日於涉谷QUATTRO舉行最終場，邀集來賓「DIRTY OLD
-MEN」、「植木豪（AUTRIBE）」、「山下大輝（小野田坂道的CV）」，在盛況下圓滿結束。
+2013年4月樂團發表離開事務所與唱片公司，並且將加入吉他手TAKUMi以四個人的編制進行活動。5月首次參加海外公演\[6\]，FanimeCon2013（San Jose）現場超過3,000名觀眾\[7\]。2013年8月26日，官網宣布吉他手TAKUMi因脊椎的檢查與治療所需，暫停活動專心療養\[8\]。睽違一年又八個月，2013年11月20日透過TOHO animation RECORDS發行第六張單曲「リクライム（Reclimb）」。同年12月10日開始『ACROSS THE HILL TOUR2013-2014』舉行全國13場公演；2014年1月31日於涉谷QUATTRO舉行最終場，邀集來賓「DIRTY OLD MEN」、「植木豪（AUTRIBE）」、「山下大輝（小野田坂道的CV）」，在盛況下圓滿結束。
 
-2014年3月創團成員之一的貝斯手2RASH宣布退出樂團\[9\]，並於3月29日在涉谷VUENOS舉行的專場演唱會「ROOKiEZ is
-PUNK'D presents -THE SUN ALSO
-RISES-」作為2RASH最後一場演出\[10\]，該場演唱會門票全數售完\[11\]。2014年6月，延續著前一年，第二次赴海外公演，參加AnimeNEXT2014（Somerset,
-NJ），漂亮地改寫該活動之入場人次，並創下改變活動規則的成功演出。6月6日，由BUMP ON da STYLE
-RECORDS發行美國限定的第二張企劃專輯「ANIME SONGS BEST
-U.S.LIMITED」\[12\]。
+2014年3月創團成員之一的貝斯手2RASH宣布退出樂團\[9\]，並於3月29日在涉谷VUENOS舉行的專場演唱會「ROOKiEZ is PUNK'D presents -THE SUN ALSO RISES-」作為2RASH最後一場演出\[10\]，該場演唱會門票全數售完\[11\]。2014年6月，延續著前一年，第二次赴海外公演，參加AnimeNEXT2014（Somerset, NJ），漂亮地改寫該活動之入場人次，並創下改變活動規則的成功演出。6月6日，由BUMP ON da STYLE RECORDS發行美國限定的第二張企劃專輯「ANIME SONGS BEST U.S.LIMITED」\[12\]。
 
-2014年7月，因病療養中的TAKUMi宣布退出樂團，並表示退出原因是個人的緣故並非因為生病（原文：病気の事が原因ではなく、個人的な事情で今回の決断に至りました。）\[13\]。於7月19日在涉谷JUMP舉行的限定Acoustic
-LIVE上參與吉他演出，並於當日退團。2014年9月，原本擔任支援貝斯手的RYOTA作為新的團員，在9月9日的下北澤SHELTER公演正式加入。
+2014年7月，因病療養中的TAKUMi宣布退出樂團，並表示退出原因是個人的緣故並非因為生病（原文：病気の事が原因ではなく、個人的な事情で今回の決断に至りました。）\[13\]。於7月19日在涉谷JUMP舉行的限定Acoustic LIVE上參與吉他演出，並於當日退團。2014年9月，原本擔任支援貝斯手的RYOTA作為新的團員，在9月9日的下北澤SHELTER公演正式加入。
 
-延續前作「飆速宅男」，10月開始的電視動畫「[飆速宅男GRANDE
-ROAD](../Page/飆速宅男.md "wikilink")」的ED主題曲決定為「リアライズ（Realize）」\[14\]。2014年11月舉行BUMP
-ON da STYLE TOUR東名阪（名阪完售）。2014年11月19日，由TOHO animation
-RECORDS發行睽違一年的第七張單曲「リアライズ（Realize）」。2014年12月「飆速宅男GRANDE
-ROAD」的第二季OP主題曲決定為「リマインド（Remind）」\[15\]。同年開始舉辦「飆速宅男 GRANDE
-ROAD」主題曲發行巡迴演唱會2014-2015（除了岡崎公演之外，全部完售）
+延續前作「飆速宅男」，10月開始的電視動畫「[飆速宅男 ROAD](../Page/飆速宅男.md "wikilink")GRANDE」的ED主題曲決定為「リアライズ（Realize）」\[14\]。2014年11月舉行BUMP ON da STYLE TOUR東名阪（名阪完售）。2014年11月19日，由TOHO animation RECORDS發行睽違一年的第七張單曲「リアライズ（Realize）」。2014年12月「飆速宅男GRANDE ROAD」的第二季OP主題曲決定為「リマインド（Remind）」\[15\]。同年開始舉辦「飆速宅男 GRANDE ROAD」主題曲發行巡迴演唱會2014-2015（除了岡崎公演之外，全部完售）
 
-2015年2月18日，由TOHO animation
-RECORDS發行睽違三個月的第八張單曲「リマインド（Remind）」。2015年3月舉行「リマインド（Remind）」Release
-Tour 2015\[16\]（共22場，含美國公演2場）。7月19日，巡迴最終場於TSUTAYA O-Crest（完售）。
+2015年2月18日，由TOHO animation RECORDS發行睽違三個月的第八張單曲「リマインド（Remind）」。2015年3月舉行「リマインド（Remind）」Release Tour 2015\[16\]（共22場，含美國公演2場）。7月19日，巡迴最終場於TSUTAYA O-Crest（完售）。
 
-2015年12月16日，由BUMP ON da STYLE
-RECORDS發行第九張單曲「Breathing」。2015年12月，舉辦「Breathing」Release
-Tour 2015-2016。
+2015年12月16日，由BUMP ON da STYLE RECORDS發行第九張單曲「Breathing」。2015年12月，舉辦「Breathing」Release Tour 2015-2016。
 
-2016年3月26日，首度在台灣演出\[17\]，於台北THE WALL舉辦ROOKiEZ is PUNK'D FIRST LIVE in
-TAIWAN\[18\]。3月27日，於台中浮現參與演出No Fear presents【春絢派對-Taichung-】ROOKiEZ is
-PUNK'D\[19\]。
+2016年3月26日，首度在台灣演出\[17\]，於台北THE WALL舉辦ROOKiEZ is PUNK'D FIRST LIVE in TAIWAN\[18\]。3月27日，於台中浮現參與演出No Fear presents【春絢派對-Taichung-】ROOKiEZ is PUNK'D\[19\]。
 
 2016年6月2日，在涉谷QUATTRO舉行10週年記念公演。(來賓：[FLOW](https://zh.wikipedia.org/wiki/FLOW "wikilink"))
 
-2016年6月29日，由BUMP ON da STYLE RECORDS發行數位單曲「Fight against
-yourself」，為[中日龍棒球隊](../Page/中日龍.md "wikilink")[平田良介選手](../Page/平田良介.md "wikilink")2016年的登場曲。
+2016年6月29日，由BUMP ON da STYLE RECORDS發行數位單曲「Fight against yourself」，為[中日龍](../Page/中日龍.md "wikilink")棒球隊[平田良介](../Page/平田良介.md "wikilink")選手2016年的登場曲。
 
-2016年8月25日，在惠比壽LIQUID
-ROOM舉行10週年記念追加公演。(來賓：[SPYAIR](../Page/SPYAIR.md "wikilink"))
+2016年8月25日，在惠比壽LIQUID ROOM舉行10週年記念追加公演。(來賓：[SPYAIR](../Page/SPYAIR.md "wikilink"))
 
 2016年8月27日，參與「 2016 無懼音樂祭 NO FEAR Festival 」演出\[20\]。
 
-2017年1月18日，由BUMP ON da STYLE RECORDS發行第十張單曲「轍 -wadachi- / ever
-since」，收錄[PS
-Vita遊戲](https://zh.wikipedia.org/wiki/PS_Vita "wikilink")「花朧〜戰國傳亂奇〜」片頭與片尾主題曲\[21\]，。
+2017年1月18日，由BUMP ON da STYLE RECORDS發行第十張單曲「轍 -wadachi- / ever since」，收錄[PS Vita遊戲](https://zh.wikipedia.org/wiki/PS_Vita "wikilink")「花朧〜戰國傳亂奇〜」片頭與片尾主題曲\[21\]，。
 
-2018年7月29日，作為嘉賓參與「2018新北市[貢寮國際海洋音樂祭](../Page/貢寮國際海洋音樂祭.md "wikilink")」於[福隆海水浴場的碧海藍天大舞台演出](../Page/福隆海水浴場.md "wikilink")\[22\]。2018年7月31日，宣布舉辦「ROOKiEZ
-is PUNK'D World Tour
-2018-2019」，北中南美洲與歐洲演唱會與盟友[SPYAIR一同舉辦](../Page/SPYAIR.md "wikilink")\[23\]。
+2018年7月29日，作為嘉賓參與「2018新北市[貢寮國際海洋音樂祭](../Page/貢寮國際海洋音樂祭.md "wikilink")」於[福隆海水浴場](../Page/福隆海水浴場.md "wikilink")的碧海藍天大舞台演出\[22\]。2018年7月31日，宣布舉辦「ROOKiEZ is PUNK'D World Tour 2018-2019」，北中南美洲與歐洲演唱會與盟友[SPYAIR](../Page/SPYAIR.md "wikilink")一同舉辦\[23\]。
 
-2018年9月12日由[日本環球音樂發行睽違六年的第二張專輯](https://zh.wikipedia.org/wiki/日本環球音樂 "wikilink")「The
-Sun Also Rises」\[24\]。
+2018年9月12日由[日本環球音樂發行睽違六年的第二張專輯](https://zh.wikipedia.org/wiki/日本環球音樂 "wikilink")「The Sun Also Rises」\[24\]。
 
-2018年12月1日，於台北THE WALL舉行第二場台灣專場演唱會「ROOKiEZ is PUNK'D World Tour
-2018－2019 in Taiwan」\[25\]。
+2018年12月1日，於台北THE WALL舉行第二場台灣專場演唱會「ROOKiEZ is PUNK'D World Tour 2018－2019 in Taiwan」\[25\]。
 
-2018年12月26日，發行數位單曲「Cleave
-～一刀兩斷～」\[26\]，為遊戲「[鬼武者](../Page/鬼武者.md "wikilink")」形象歌曲\[27\]。
+2018年12月26日，發行數位單曲「Cleave ～一刀兩斷～」\[26\]，為遊戲「[鬼武者](../Page/鬼武者.md "wikilink")」形象歌曲\[27\]。
 
 ## 樂團成員
 
@@ -678,27 +637,20 @@ DFCL-1910（初回生産限定盤）</p></td>
 
   - 團名由來
 
-「ROOKiEZ is
-PUNK'D」因團名中含有「PUNK」一詞，常被誤認為[龐克樂團](https://zh.wikipedia.org/wiki/龐克 "wikilink")，但該團實質上為混和系搖滾樂團。
-2006年樂團成立之初，開始以「ROOKiEZ」作為團名進行音樂活動。2010年正式出道時，由於當時無法以「ROOKiEZ」的名義出道，亦沒有想出其他團名，於是將原來的團名改為「ROOKiEZ
-is PUNK'D」，表示「ROOKiEZ不能用了」的意思。\[28\]
+「ROOKiEZ is PUNK'D」因團名中含有「PUNK」一詞，常被誤認為[龐克樂團](https://zh.wikipedia.org/wiki/龐克 "wikilink")，但該團實質上為混和系搖滾樂團。
+2006年樂團成立之初，開始以「ROOKiEZ」作為團名進行音樂活動。2010年正式出道時，由於當時無法以「ROOKiEZ」的名義出道，亦沒有想出其他團名，於是將原來的團名改為「ROOKiEZ is PUNK'D」，表示「ROOKiEZ不能用了」的意思。\[28\]
 
 ## 参考资料
 
 ## 外部链接
 
   -
-  - [ROOKiEZ is
-    PUNK'D](https://music.douban.com/musician/109164/)在豆瓣音乐人上
+  - [ROOKiEZ is PUNK'D](https://music.douban.com/musician/109164/)在豆瓣音乐人上
 
   -
   -
   -
-[Category:日本摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本摇滚乐团 "wikilink")
-[Category:2006年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2006年成立的音樂團體 "wikilink")
-[Category:日本索尼音樂娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂旗下藝人 "wikilink")
-[Category:音樂團體](https://zh.wikipedia.org/wiki/Category:音樂團體 "wikilink")
-[Category:音樂專題](https://zh.wikipedia.org/wiki/Category:音樂專題 "wikilink")
+[Category:日本摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本摇滚乐团 "wikilink") [Category:2006年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2006年成立的音樂團體 "wikilink") [Category:日本索尼音樂娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂旗下藝人 "wikilink") [Category:音樂團體](https://zh.wikipedia.org/wiki/Category:音樂團體 "wikilink") [Category:音樂專題](https://zh.wikipedia.org/wiki/Category:音樂專題 "wikilink")
 
 1.
 2.

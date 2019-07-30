@@ -1,6 +1,4 @@
-《**LOVELY×CATION2**》是[AKABEiSOFT2旗下品牌hibiki](../Page/AKABEiSOFT2.md "wikilink")
-works在2011年6月24日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，×CATION系列的第二部作品。2014年7月25日發售新裝版《》。\[2\]2015年5月21日由[5pb.發售](../Page/5pb..md "wikilink")[PlayStation
-Vita版](../Page/PlayStation_Vita.md "wikilink")《LOVELY×CATION 1&2》。\[3\]
+《**LOVELY×CATION2**》是[AKABEiSOFT2](../Page/AKABEiSOFT2.md "wikilink")旗下品牌hibiki works在2011年6月24日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，×CATION系列的第二部作品。2014年7月25日發售新裝版《》。\[2\]2015年5月21日由[5pb.](../Page/5pb..md "wikilink")發售[PlayStation Vita版](../Page/PlayStation_Vita.md "wikilink")《LOVELY×CATION 1&2》。\[3\]
 
 ## 故事
 
@@ -14,8 +12,7 @@ Vita版](../Page/PlayStation_Vita.md "wikilink")《LOVELY×CATION 1&2》。\[3\]
     水明學園2年A班學生，由於雙親調職而獨自從鄰鎮搬到公寓居住。
   -
     身高：159cm，三圍：B87/W57/H89，生日：11月12日，星座：天蠍座，血型：A型，所屬：回家部
-    水明學園2年A班學生，在新的學期成為主角的同班同學，有著較為豪爽不拘小節的個性，小時候因為經常跟男生一起玩，所以喜愛戶外活動及遊戲，青春期後覺得這樣下去不太行，因此在努力朝可愛的女生方向發展，並且在車站前的餐廳「Jeely
-    Fish」打工，也以此作為提升自己女性魅力的機會。
+    水明學園2年A班學生，在新的學期成為主角的同班同學，有著較為豪爽不拘小節的個性，小時候因為經常跟男生一起玩，所以喜愛戶外活動及遊戲，青春期後覺得這樣下去不太行，因此在努力朝可愛的女生方向發展，並且在車站前的餐廳「Jeely Fish」打工，也以此作為提升自己女性魅力的機會。
   -
     身高：145cm，三圍：B74/W54/H77，生日：1月23日，星座：水瓶座，血型：A型，所屬：女子田徑部
     水明學園1年A班學生，跟主角同住一棟公寓的一年級學妹，有著乾脆開朗的性格，但是對於不熟識的人會相對害羞，小的時候母親便去世跟父親兩人同住，因此對於家事方面非常在行，是個會付出行動的努力派，從小便有參與田徑跑步，因此有不錯的成績與實力。
@@ -52,8 +49,7 @@ VisualFanBook由[enterbrain發售共兩冊](https://zh.wikipedia.org/wiki/enterb
 
 ## 評價
 
-LOVELY×CATION2於[萌系遊戲大賞](../Page/萌系遊戲大賞.md "wikilink")2013中獲得角色設計獎的金獎。\[8\]由Getchu.com舉辦的美少女遊戲大獎2013中獲得綜合部門第2名、系統部門第1名、繪圖部門第2名、音樂部門第2名、影片部門第1名、角色部門出水和琴第4名和成川姬第14名、色情部門第3名。\[9\]《[ファミ通](https://zh.wikipedia.org/wiki/ファミ通 "wikilink")》1380號的クロスレビュー對PlayStation
-Vita版給於29/40評分。\[10\]
+LOVELY×CATION2於[萌系遊戲大賞](../Page/萌系遊戲大賞.md "wikilink")2013中獲得角色設計獎的金獎。\[8\]由Getchu.com舉辦的美少女遊戲大獎2013中獲得綜合部門第2名、系統部門第1名、繪圖部門第2名、音樂部門第2名、影片部門第1名、角色部門出水和琴第4名和成川姬第14名、色情部門第3名。\[9\]《[ファミ通](https://zh.wikipedia.org/wiki/ファミ通 "wikilink")》1380號的クロスレビュー對PlayStation Vita版給於29/40評分。\[10\]
 
 ## 相關條目
 
@@ -69,21 +65,14 @@ Vita版給於29/40評分。\[10\]
   - [LOVELY×CATION2官方網站](http://www.hibiki-site.com/lc2/index.html)
   - [LOVELY×CATION 1&2官方網站](http://5pb.jp/games/lovelycation/index.html)
 
-[Category:2013年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2013年日本成人遊戲 "wikilink")
-[Category:2015年電子遊戲](https://zh.wikipedia.org/wiki/Category:2015年電子遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:PlayStation_Vita遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita遊戲 "wikilink")
+[Category:2013年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2013年日本成人遊戲 "wikilink") [Category:2015年電子遊戲](https://zh.wikipedia.org/wiki/Category:2015年電子遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:PlayStation_Vita遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita遊戲 "wikilink")
 
 1.
 2.
 3.
 4.
 5.
-6.   モエデジ
-    |url=<http://moedigi.com/game/2013/04/lovelyxcation2-love2-birthday-collection-yoyaku-start/>
-    |website=moedigi |language=ja |date=2013年4月12日}}
+6.   モエデジ |url=<http://moedigi.com/game/2013/04/lovelyxcation2-love2-birthday-collection-yoyaku-start/> |website=moedigi |language=ja |date=2013年4月12日}}
 7.
 8.
 9.

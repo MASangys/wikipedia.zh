@@ -1,11 +1,8 @@
-**ONER**是[坤音娛樂推出的](https://zh.wikipedia.org/wiki/坤音娛樂 "wikilink")4人男子團體，是旗下練習生品牌BC221的首批練習生
-(培訓期間: 2016/9/21-2018/8/30)。
+**ONER**是[坤音娛樂推出的](https://zh.wikipedia.org/wiki/坤音娛樂 "wikilink")4人男子團體，是旗下練習生品牌BC221的首批練習生 (培訓期間: 2016/9/21-2018/8/30)。
 
-2017年10月10日發布第一首單曲《如果你能感同我的身受》，歌詞和MV記錄著練習生辛苦的練習日常。
-2018年1月26日發布第二首單曲《解药》，並以此作為在偶像練習生參賽首輪等級評價的表演曲目。
+2017年10月10日發布第一首單曲《如果你能感同我的身受》，歌詞和MV記錄著練習生辛苦的練習日常。 2018年1月26日發布第二首單曲《解药》，並以此作為在偶像練習生參賽首輪等級評價的表演曲目。
 
-2018年4月16日正式對外宣布組合名為ONER\[1\]。2018年5月20日於北京舉辦首次粉絲見面會\[2\]
-，並在見面會上正式發布第三首單曲《空間》。2018年8月30日宣布正式出道並發行首張專輯《過敏》\[3\]，2019年5月23日於記者會上發布第二張專輯的相關訊息以及團隊成員的個人應援色。
+2018年4月16日正式對外宣布組合名為ONER\[1\]。2018年5月20日於北京舉辦首次粉絲見面會\[2\] ，並在見面會上正式發布第三首單曲《空間》。2018年8月30日宣布正式出道並發行首張專輯《過敏》\[3\]，2019年5月23日於記者會上發布第二張專輯的相關訊息以及團隊成員的個人應援色。
 
 ## 成員資料
 
@@ -47,18 +44,6 @@
 <td><p>噗通粉（TO MY SWEET HEART）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/卜凡_(歌手).md" title="wikilink">卜 凡</a></p></td>
-<td><p>卜凡凡</p></td>
-<td><p>Katto</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/山東" title="wikilink">山東</a></p></td>
-<td><p><br />
-</p></td>
-<td><p>192cm</p></td>
-<td><p>中國<a href="https://zh.wikipedia.org/wiki/北京服裝學院" title="wikilink">北京服裝學院</a></p></td>
-<td><p>RAP、跳舞、即興饒舌</p></td>
-<td><p>無限鎏金（INFINITY GOLD）</p></td>
-</tr>
-<tr class="odd">
 <td><p><a href="../Page/靈超.md" title="wikilink">靈 超</a></p></td>
 <td><p>李英超</p></td>
 <td><p>Didi</p></td>
@@ -66,7 +51,7 @@
 <td><p><br />
 </p></td>
 <td><p>183cm</p></td>
-<td><p>沙河一中</p></td>
+<td><p>上海戲劇學院</p></td>
 <td><p>老么、唱歌、跳舞、爵士鼓</p></td>
 <td><p>精靈藍（HEAVEN AND HELL）</p></td>
 </tr>
@@ -77,16 +62,12 @@
 
 ### 單曲
 
-  - 2017年10月10日:
-    [《如果你能感同我的身受》](https://www.youtube.com/watch?v=l3xXDArEdI8)
-    \[4\]
+  - 2017年10月10日: [《如果你能感同我的身受》](https://www.youtube.com/watch?v=l3xXDArEdI8) \[4\]
   - 2018年1月26日: [《解藥》](https://www.bilibili.com/video/av18772922) \[5\]
   - 2018年5月20日: [《空間》](https://www.youtube.com/watch?v=ni-DdNL87U4)
   - 2018年10月8日: [《萬能人之歌》](https://www.bilibili.com/video/av34907590)
-  - 2018年12月24日:[《BABY I
-    DO》](https://www.youtube.com/watch?v=DTnIUhv44Cc) \[6\]
-  - 2019年1月18日:
-    [《紅包紅包》](https://www.youtube.com/watch?v=nBKeYM3VhvE&pbjreload=10)
+  - 2018年12月24日:[《BABY I DO》](https://www.youtube.com/watch?v=DTnIUhv44Cc) \[6\]
+  - 2019年1月18日: [《紅包紅包》](https://www.youtube.com/watch?v=nBKeYM3VhvE&pbjreload=10)
   - 2019年1月23日: [《天赋益禀》](https://www.youtube.com/watch?v=82jHBDLcoOg)
   - 2019年2月14日: [《For》](https://www.youtube.com/watch?v=bxz1TW3_-OE)
 
@@ -217,8 +198,7 @@
   - [靈超的新浪微博](https://www.weibo.com/u/6400910962?from=feed&loc=at&nick=灵超DIDI&is_hot=1)
   - [坤音娛樂官方Bilibili頻道](https://space.bilibili.com/172392717/)
 
-[Category:中國男子演唱團體](https://zh.wikipedia.org/wiki/Category:中國男子演唱團體 "wikilink")
-[Category:偶像練習生選手](https://zh.wikipedia.org/wiki/Category:偶像練習生選手 "wikilink")
+[Category:中國男子演唱團體](https://zh.wikipedia.org/wiki/Category:中國男子演唱團體 "wikilink") [Category:偶像練習生選手](https://zh.wikipedia.org/wiki/Category:偶像練習生選手 "wikilink")
 
 1.
 2.

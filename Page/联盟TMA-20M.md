@@ -4,8 +4,14 @@
 
 ## 任务队员
 
-{{Spaceflight crew |terminology = 乘组人员 |references =\[2\] |position1 =
-指令长 |crew1_up =  \[\[阿列克谢·奥夫奇宁|阿列克谢·奥夫奇宁\]
+### 后备队员
+
+## 图集
+
+Expedition 47 Preflight (NHQ201602260001).jpg|发射前队员合影 Expedition 47 Soyuz Raising (NHQ201603160019).jpg|发射前 Expedition 47 Launch (NHQ201603190001).jpg|发射 Expedition 47 Launch (NHQ201603190003).jpg|升空 Expedition 48 Soyuz TMA-20M Landing (NHQ201609070003).jpg|降落
+
+## 参考文献
+
+[Category:联盟计划](https://zh.wikipedia.org/wiki/Category:联盟计划 "wikilink") [Category:2016年航天](https://zh.wikipedia.org/wiki/Category:2016年航天 "wikilink")
 
 1.
-2.

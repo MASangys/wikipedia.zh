@@ -1,18 +1,14 @@
-**unBORDE**是[日本华纳音乐旗下的](https://zh.wikipedia.org/wiki/日本华纳音乐 "wikilink")[唱片公司之一](../Page/唱片公司.md "wikilink")，成立于2010年12月21日。
+**unBORDE**是[日本华纳音乐旗下的](https://zh.wikipedia.org/wiki/日本华纳音乐 "wikilink")[唱片公司](../Page/唱片公司.md "wikilink")之一，成立于2010年12月21日。
 
 ## 简介
 
 unBORDE在2010年由日本华纳音乐设立，同时还设立了以经济管理业务为主的“unBORDE ARTISTA”，负责人为铃木龙马。
 
-设立时共有[神圣kamattechan](https://zh.wikipedia.org/wiki/神圣かまってちゃん "wikilink")、、、、[近藤夏子](https://zh.wikipedia.org/wiki/近藤夏子 "wikilink")、[高桥优](https://zh.wikipedia.org/wiki/高桥优 "wikilink")、[RIP
-SLYME](https://zh.wikipedia.org/wiki/RIP_SLYME "wikilink")7组艺人转入unBORDE\[1\]。
+设立时共有[神圣kamattechan](https://zh.wikipedia.org/wiki/神圣かまってちゃん "wikilink")、、、、[近藤夏子](https://zh.wikipedia.org/wiki/近藤夏子 "wikilink")、[高桥优](https://zh.wikipedia.org/wiki/高桥优 "wikilink")、[RIP SLYME](https://zh.wikipedia.org/wiki/RIP_SLYME "wikilink")7组艺人转入unBORDE\[1\]。
 
-在[西班牙语中有](../Page/西班牙语.md "wikilink")“边界”的含义，创立人铃木在准备阶段就打算使用“Edge”这个单词，恰好2010年世界杯上支持的西班牙队最终夺冠，所以改用西班牙语作为厂牌名\[2\]。
+在[西班牙语](../Page/西班牙语.md "wikilink")中有“边界”的含义，创立人铃木在准备阶段就打算使用“Edge”这个单词，恰好2010年世界杯上支持的西班牙队最终夺冠，所以改用西班牙语作为厂牌名\[2\]。
 
-2016年，唱片公司成立5周年之际，共12组所属艺人组成了“unBORDE all
-stars”特别组合并录制了一张[专辑](https://zh.wikipedia.org/wiki/专辑 "wikilink")《Feel
-+ unBORDE GREATEST
-HITS》，专辑中歌曲《Feel》被[可口可乐起用为广告歌](../Page/可口可乐.md "wikilink")\[3\]。
+2016年，唱片公司成立5周年之际，共12组所属艺人组成了“unBORDE all stars”特别组合并录制了一张[专辑](https://zh.wikipedia.org/wiki/专辑 "wikilink")《Feel + unBORDE GREATEST HITS》，专辑中歌曲《Feel》被[可口可乐](../Page/可口可乐.md "wikilink")起用为广告歌\[3\]。
 
 ## 旗下艺人
 
@@ -42,8 +38,7 @@ HITS》，专辑中歌曲《Feel》被[可口可乐起用为广告歌](../Page/�
 
   - （2013年－）
 
-  - [livetune](https://zh.wikipedia.org/wiki/livetune "wikilink")
-    （2016年－）
+  - [livetune](https://zh.wikipedia.org/wiki/livetune "wikilink") （2016年－）
 
   - [WANIMA](../Page/WANIMA.md "wikilink") （2017年－）
 
@@ -63,9 +58,7 @@ HITS》，专辑中歌曲《Feel》被[可口可乐起用为广告歌](../Page/�
 
   - [近藤夏子](https://zh.wikipedia.org/wiki/近藤夏子 "wikilink") （2010年－2012年）
 
-  - [BAND JA
-    NAIMON\!](https://zh.wikipedia.org/wiki/BAND_JA_NAIMON! "wikilink")
-    （2012年－2013年）
+  - [BAND JA NAIMON\!](https://zh.wikipedia.org/wiki/BAND_JA_NAIMON! "wikilink") （2012年－2013年）
 
   - （2012年－2013年）
 
@@ -79,19 +72,15 @@ HITS》，专辑中歌曲《Feel》被[可口可乐起用为广告歌](../Page/�
 
 #### 移籍至日本华纳音乐旗下其他厂牌
 
-  - （2012年－2016年，2016年移籍至[Atlantic
-    Japan](https://zh.wikipedia.org/wiki/Atlantic_Japan "wikilink")）
+  - （2012年－2016年，2016年移籍至[Atlantic Japan](https://zh.wikipedia.org/wiki/Atlantic_Japan "wikilink")）
 
-  - （2014年－2018年，2018年移籍至[TACO
-    RECORDS](https://zh.wikipedia.org/wiki/TACO_RECORDS "wikilink")）
+  - （2014年－2018年，2018年移籍至[TACO RECORDS](https://zh.wikipedia.org/wiki/TACO_RECORDS "wikilink")）
 
 ## 特别团体
 
 ### unBORDE all stars
 
-由12组艺人参加，包括：akasick、androp、indigo la
-End、CAPSULE、卡莉怪妞、极度卑劣少女。、神圣kamattechan、須田景凪、高橋優、TEAM
-SHACHI、tofubeats、Passepied和RIP SLYME。
+由12组艺人参加，包括：akasick、androp、indigo la End、CAPSULE、卡莉怪妞、极度卑劣少女。、神圣kamattechan、須田景凪、高橋優、TEAM SHACHI、tofubeats、Passepied和RIP SLYME。
 
 2016年3月19日发行了专辑《Feel + unBORDE GREATEST HITS》。
 
@@ -153,9 +142,7 @@ SHACHI、tofubeats、Passepied和RIP SLYME。
 
   -
   -
-[Category:日本華納音樂](https://zh.wikipedia.org/wiki/Category:日本華納音樂 "wikilink")
-[Category:日本唱片公司](https://zh.wikipedia.org/wiki/Category:日本唱片公司 "wikilink")
-[Category:2010年建立](https://zh.wikipedia.org/wiki/Category:2010年建立 "wikilink")
+[Category:日本華納音樂](https://zh.wikipedia.org/wiki/Category:日本華納音樂 "wikilink") [Category:日本唱片公司](https://zh.wikipedia.org/wiki/Category:日本唱片公司 "wikilink") [Category:2010年建立](https://zh.wikipedia.org/wiki/Category:2010年建立 "wikilink")
 
 1.
 2.

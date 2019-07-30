@@ -17,8 +17,7 @@
 
 ## 參考資料
 
-[Category:香港立法會選舉](https://zh.wikipedia.org/wiki/Category:香港立法會選舉 "wikilink")
-[Category:香港立法會](https://zh.wikipedia.org/wiki/Category:香港立法會 "wikilink")
+[Category:香港立法會選舉](https://zh.wikipedia.org/wiki/Category:香港立法會選舉 "wikilink") [Category:香港立法會](https://zh.wikipedia.org/wiki/Category:香港立法會 "wikilink")
 
 1.
 2.

@@ -12,8 +12,6 @@
 
 ## 參考資料
 
-[Category:華碩手機](https://zh.wikipedia.org/wiki/Category:華碩手機 "wikilink")
-[Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink")
-[Category:2017年面世的手機](https://zh.wikipedia.org/wiki/Category:2017年面世的手機 "wikilink")
+[Category:華碩手機](https://zh.wikipedia.org/wiki/Category:華碩手機 "wikilink") [Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink") [Category:2017年面世的手機](https://zh.wikipedia.org/wiki/Category:2017年面世的手機 "wikilink")
 
 1.

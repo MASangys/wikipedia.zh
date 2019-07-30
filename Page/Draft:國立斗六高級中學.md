@@ -1,4 +1,4 @@
-**國立斗六高級中學**，簡稱**斗六高中**、**斗高**或**斗中**，是一所位在[中華民國](../Page/中華民國.md "wikilink")[臺灣省](../Page/臺灣省.md "wikilink")[雲林縣](https://zh.wikipedia.org/wiki/雲林縣 "wikilink")[斗六市的國立](../Page/斗六市.md "wikilink")[普通型高級中學](https://zh.wikipedia.org/wiki/普通型高級中學 "wikilink")。斗六高中於[戰後的](../Page/臺灣戰後時期.md "wikilink")1946年創建。
+**國立斗六高級中學**，簡稱**斗六高中**、**斗高**或**斗中**，是一所位在[中華民國](../Page/中華民國.md "wikilink")[臺灣省](../Page/臺灣省.md "wikilink")[雲林縣](https://zh.wikipedia.org/wiki/雲林縣 "wikilink")[斗六市](../Page/斗六市.md "wikilink")的國立[普通型高級中學](https://zh.wikipedia.org/wiki/普通型高級中學 "wikilink")。斗六高中於[戰後的](../Page/臺灣戰後時期.md "wikilink")1946年創建。
 
 ## 校史
 
@@ -32,8 +32,8 @@
 
 國立斗六高級中學知名校友紀錄如下：
 
-  - [黃鎮岳](https://zh.wikipedia.org/wiki/黃鎮岳 "wikilink")，雲林[莿桐人](https://zh.wikipedia.org/wiki/莿桐鄉 "wikilink")，生於[臺灣日治時期](https://zh.wikipedia.org/wiki/臺灣日治時期 "wikilink")，[東吳大學](../Page/東吳大學_\(臺灣\).md "wikilink")、臺灣省立斗六中學第二屆畢業。歷任雲林縣立斗六初級家事職業學校（今[國立斗六高級家事商業職業學校](../Page/國立斗六高級家事商業職業學校.md "wikilink")）教師、[雲林縣議員](https://zh.wikipedia.org/wiki/雲林縣議員 "wikilink")、[臺灣省議會議員](https://zh.wikipedia.org/wiki/臺灣省議會 "wikilink")、副議長及[中華民國](../Page/中華民國.md "wikilink")[監察院監察委員](../Page/監察院.md "wikilink")。\[2\]
-  - [李錫津](../Page/李錫津.md "wikilink")，雲林人，[重光國校](https://zh.wikipedia.org/wiki/雲林縣斗南鎮重光國民小學 "wikilink")、臺灣省立斗六中學初中部、臺灣省立嘉義中學（今[國立嘉義高級中學](../Page/國立嘉義高級中學.md "wikilink")）校友，[國立中興大學農藝系畢業後於國民中學任教生物](../Page/國立中興大學.md "wikilink")、化學，教育行政人員七職等考試特考及格後改任督學，後獲[國立臺灣師範大學教育研究所碩士學位](../Page/國立臺灣師範大學.md "wikilink")，[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[北科羅拉多大學博士班肄業](../Page/北科羅拉多大學.md "wikilink")。曾任[臺北市立建國高級中學校長](../Page/臺北市立建國高級中學.md "wikilink")。\[3\]
+  - [黃鎮岳](https://zh.wikipedia.org/wiki/黃鎮岳 "wikilink")，雲林[莿桐人](https://zh.wikipedia.org/wiki/莿桐鄉 "wikilink")，生於[臺灣日治時期](https://zh.wikipedia.org/wiki/臺灣日治時期 "wikilink")，[東吳大學](../Page/東吳大學_\(臺灣\).md "wikilink")、臺灣省立斗六中學第二屆畢業。歷任雲林縣立斗六初級家事職業學校（今[國立斗六高級家事商業職業學校](../Page/國立斗六高級家事商業職業學校.md "wikilink")）教師、[雲林縣議員](https://zh.wikipedia.org/wiki/雲林縣議員 "wikilink")、[臺灣省議會議員](https://zh.wikipedia.org/wiki/臺灣省議會 "wikilink")、副議長及[中華民國](../Page/中華民國.md "wikilink")[監察院](../Page/監察院.md "wikilink")監察委員。\[2\]
+  - [李錫津](../Page/李錫津.md "wikilink")，雲林人，[重光國校](https://zh.wikipedia.org/wiki/雲林縣斗南鎮重光國民小學 "wikilink")、臺灣省立斗六中學初中部、臺灣省立嘉義中學（今[國立嘉義高級中學](../Page/國立嘉義高級中學.md "wikilink")）校友，[國立中興大學](../Page/國立中興大學.md "wikilink")農藝系畢業後於國民中學任教生物、化學，教育行政人員七職等考試特考及格後改任督學，後獲[國立臺灣師範大學](../Page/國立臺灣師範大學.md "wikilink")教育研究所碩士學位，[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[北科羅拉多大學](../Page/北科羅拉多大學.md "wikilink")博士班肄業。曾任[臺北市立建國高級中學](../Page/臺北市立建國高級中學.md "wikilink")校長。\[3\]
 
 ## 參考來源
 

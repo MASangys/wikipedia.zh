@@ -10,8 +10,7 @@
 
 2016年5月，凭借专辑《东南美》获得第27届金曲奖「最佳男歌手」提名\[4\]；同年还获得第7届金音创作奖「最佳专辑奖」和「最佳风格类型专辑奖」，专辑中收录的单曲《管他啦》获得「最佳风格类型单曲」\[5\]；5月15日，在北京举办“东南美”首唱会，并于同年11月启动全国巡演\[6\]。
 
-2018年4月26日发行第二张个人音乐专辑《Matzka
-Station》，\[7\]同年5月20日，在北京开启主题为“第二回合”的亚洲巡演\[8\]。
+2018年4月26日发行第二张个人音乐专辑《Matzka Station》，\[7\]同年5月20日，在北京开启主题为“第二回合”的亚洲巡演\[8\]。
 
 ## 主要作品
 
@@ -51,8 +50,7 @@ Station》，\[7\]同年5月20日，在北京开启主题为“第二回合”�
 
 ## 参考
 
-[Category:台湾男歌手](https://zh.wikipedia.org/wiki/Category:台湾男歌手 "wikilink")
-[Category:排湾族人](https://zh.wikipedia.org/wiki/Category:排湾族人 "wikilink")
+[Category:台湾男歌手](https://zh.wikipedia.org/wiki/Category:台湾男歌手 "wikilink") [Category:排湾族人](https://zh.wikipedia.org/wiki/Category:排湾族人 "wikilink")
 
 1.
 

@@ -78,5 +78,4 @@
   - [TBSテレビ「アニメ」](http://www.tbs.co.jp/anime/)
   - [アニメ｜MBS](http://www.mbs.jp/anime/)
 
-[Category:TBS動畫](https://zh.wikipedia.org/wiki/Category:TBS動畫 "wikilink")
-[Category:電視節目一覽](https://zh.wikipedia.org/wiki/Category:電視節目一覽 "wikilink")
+[Category:TBS動畫](https://zh.wikipedia.org/wiki/Category:TBS動畫 "wikilink") [Category:電視節目一覽](https://zh.wikipedia.org/wiki/Category:電視節目一覽 "wikilink")

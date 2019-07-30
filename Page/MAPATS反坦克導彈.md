@@ -1,4 +1,4 @@
-**MAPATS**（的[縮寫](../Page/縮寫.md "wikilink")，意為：；亦是[希伯来语中的](../Page/希伯来语.md "wikilink")「[爆炸](https://zh.wikipedia.org/wiki/爆炸 "wikilink")」一詞）是一款由[以色列](../Page/以色列.md "wikilink")[軍事工業公司擬用作以取代在](../Page/以色列軍事工業.md "wikilink")[以色列國防軍中的](../Page/以色列國防軍.md "wikilink")[美製](../Page/美国.md "wikilink")[BGM-71拖式飛彈的潛在替換型號而研製的](../Page/BGM-71拖式飛彈.md "wikilink")[激光](../Page/激光.md "wikilink")[導引光束乘波式](https://zh.wikipedia.org/wiki/乘波導引 "wikilink")\[1\][反坦克导弹系統](../Page/反坦克导弹.md "wikilink")。
+**MAPATS**（的[縮寫](../Page/縮寫.md "wikilink")，意為：；亦是[希伯来语](../Page/希伯来语.md "wikilink")中的「[爆炸](https://zh.wikipedia.org/wiki/爆炸 "wikilink")」一詞）是一款由[以色列](../Page/以色列.md "wikilink")[軍事工業公司擬用作以取代在](../Page/以色列軍事工業.md "wikilink")[以色列國防軍](../Page/以色列國防軍.md "wikilink")中的[美製](../Page/美国.md "wikilink")[BGM-71拖式飛彈](../Page/BGM-71拖式飛彈.md "wikilink")的潛在替換型號而研製的[激光](../Page/激光.md "wikilink")[導引光束乘波式](https://zh.wikipedia.org/wiki/乘波導引 "wikilink")\[1\][反坦克导弹](../Page/反坦克导弹.md "wikilink")系統。
 
 ## 概述
 
@@ -6,7 +6,7 @@ MAPATS是一款半自動武器系統，生產商定位它可被用以擊破各�
 
 ## 版本
 
-在1990年代早期所研發的新型MAPATS具有新型[发动机和更優秀的激光導引系統](../Page/发动机.md "wikilink")。同時裝上了由所研發的一些新型[彈頭](../Page/彈頭.md "wikilink")，包括[高爆反坦克](../Page/高爆反坦克彈.md "wikilink")[彈頭和](../Page/彈頭.md "wikilink")[高爆](https://zh.wikipedia.org/wiki/榴彈 "wikilink")彈頭。
+在1990年代早期所研發的新型MAPATS具有新型[发动机](../Page/发动机.md "wikilink")和更優秀的激光導引系統。同時裝上了由所研發的一些新型[彈頭](../Page/彈頭.md "wikilink")，包括[高爆反坦克](../Page/高爆反坦克彈.md "wikilink")[彈頭](../Page/彈頭.md "wikilink")和[高爆](https://zh.wikipedia.org/wiki/榴彈 "wikilink")彈頭。
 
 ## 使用國
 
@@ -22,7 +22,7 @@ MAPATS是一款半自動武器系統，生產商定位它可被用以擊破各�
 
 ## 筆錄
 
-MAPATS有時會被暱稱為「Hurt」（）——在[亞拉姆語當中意為](../Page/亞拉姆語.md "wikilink")“[棍棒](../Page/棍棒.md "wikilink")”。
+MAPATS有時會被暱稱為「Hurt」（）——在[亞拉姆語](../Page/亞拉姆語.md "wikilink")當中意為“[棍棒](../Page/棍棒.md "wikilink")”。
 
 ## 參見
 
@@ -59,11 +59,9 @@ MAPATS有時會被暱稱為「Hurt」（）——在[亞拉姆語當中意為](.
 
 ## 外部連結
 
-  - —[MAPATS on
-    Deagel](http://www.deagel.com/Anti-Armor-Weapons-and-Missiles/MAPATS_a001043001.aspx)
+  - —[MAPATS on Deagel](http://www.deagel.com/Anti-Armor-Weapons-and-Missiles/MAPATS_a001043001.aspx)
 
-[Category:反坦克导弹](https://zh.wikipedia.org/wiki/Category:反坦克导弹 "wikilink")
-[Category:以色列导弹](https://zh.wikipedia.org/wiki/Category:以色列导弹 "wikilink")
+[Category:反坦克导弹](https://zh.wikipedia.org/wiki/Category:反坦克导弹 "wikilink") [Category:以色列导弹](https://zh.wikipedia.org/wiki/Category:以色列导弹 "wikilink")
 
 1.
 2.
@@ -73,11 +71,9 @@ MAPATS有時會被暱稱為「Hurt」（）——在[亞拉姆語當中意為](.
 4.
 5.
 6.
-7.  [Эстония вооружается](http://www.regnum.ru/news/213045.html) //
-    информагентство «REGNUM» от 4 февраля 2004
+7.  [Эстония вооружается](http://www.regnum.ru/news/213045.html) // информагентство «REGNUM» от 4 февраля 2004
 
-8.  [Kaitsevägi — Tehnika — Tankitõrjeraketisüsteem
-    MAPATS](http://www.mil.ee/?menu=tehnika1&sisu=mapats)
+8.  [Kaitsevägi — Tehnika — Tankitõrjeraketisüsteem MAPATS](http://www.mil.ee/?menu=tehnika1&sisu=mapats)
 
 9.
 10.

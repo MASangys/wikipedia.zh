@@ -1,8 +1,4 @@
-是[F\&C
-FC01在](../Page/F&C.md "wikilink")2011年1月28日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]\[2\]，後來由[GN
-Software於](../Page/GN_Software.md "wikilink")2011年11月23日發售[PlayStation
-Portable版](../Page/PlayStation_Portable.md "wikilink")《永恆練習曲
-藏愛油畫4》（，Eternal Etude Canvas4）。\[3\]
+是[F\&C FC01在](../Page/F&C.md "wikilink")2011年1月28日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]\[2\]，後來由[GN Software於](../Page/GN_Software.md "wikilink")2011年11月23日發售[PlayStation Portable版](../Page/PlayStation_Portable.md "wikilink")《永恆練習曲 藏愛油畫4》（，Eternal Etude Canvas4）。\[3\]
 
 ## 故事
 
@@ -57,15 +53,7 @@ Portable版](../Page/PlayStation_Portable.md "wikilink")《永恆練習曲
   - [PC版官方網站](https://fandc.co.jp/canvas/c4/)
   - [PSP版官方網站](http://piacci.co.jp/canvas4/)
 
-[Category:2011年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2011年日本成人遊戲 "wikilink")
-[Category:2011年電子遊戲](https://zh.wikipedia.org/wiki/Category:2011年電子遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:PlayStation_Portable遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable遊戲 "wikilink")
-[Category:F\&C遊戲](https://zh.wikipedia.org/wiki/Category:F&C遊戲 "wikilink")
-[Category:高中題材電子遊戲](https://zh.wikipedia.org/wiki/Category:高中題材電子遊戲 "wikilink")
-[Category:Champion_RED_Ichigo](https://zh.wikipedia.org/wiki/Category:Champion_RED_Ichigo "wikilink")
+[Category:2011年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2011年日本成人遊戲 "wikilink") [Category:2011年電子遊戲](https://zh.wikipedia.org/wiki/Category:2011年電子遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:PlayStation_Portable遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable遊戲 "wikilink") [Category:F\&C遊戲](https://zh.wikipedia.org/wiki/Category:F&C遊戲 "wikilink") [Category:高中題材電子遊戲](https://zh.wikipedia.org/wiki/Category:高中題材電子遊戲 "wikilink") [Category:Champion_RED_Ichigo](https://zh.wikipedia.org/wiki/Category:Champion_RED_Ichigo "wikilink")
 
 1.
 2.

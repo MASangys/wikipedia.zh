@@ -1,6 +1,5 @@
-《**Deltarune**》為美國[獨立遊戲製作人](https://zh.wikipedia.org/wiki/獨立遊戲 "wikilink")[Toby
-Fox所開發的](../Page/托比·福克斯.md "wikilink")[電子角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")。玩家將控制一名與怪物一同生活在地表的人類──Kris，並與同班的怪物同學Susie和在旅途中遇到的王子Ralsei，扮演拯救世界恢復光暗平衡的英雄，一同在被稱為“黑暗世界”的地方冒險。玩家將以封印東邊多餘的“黑暗湧泉”並回到原本的世界為目的，過程中會遇到通稱為“暗之民”的眾多敵人阻撓玩家封印黑暗湧泉，它們會以各式彈幕攻擊玩家，而玩家可以以和平主義的方式或暴力的手段突破障礙來達成結局。（截至第一章為止的內容）
-本作在2018年10月31日於[官方網站](https://www.deltarune.com/)開放第一章免費試玩版下載，[任天堂Switch版與](../Page/任天堂Switch.md "wikilink")[PS4版則於](../Page/PlayStation_4.md "wikilink")2019年2月28日開放，正式版發售時期未公布。本作的遊戲畫面讓人聯想起諸如[地球冒險系列](../Page/地球冒險系列.md "wikilink")、瑪利歐與路易吉RPG與[超時空之鑰等](https://zh.wikipedia.org/wiki/超時空之鑰 "wikilink")16-bit風格的日式RPG遊戲。
+《**Deltarune**》為美國[獨立遊戲製作人](https://zh.wikipedia.org/wiki/獨立遊戲 "wikilink")[Toby Fox所開發的](../Page/托比·福克斯.md "wikilink")[電子角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")。玩家將控制一名與怪物一同生活在地表的人類──Kris，並與同班的怪物同學Susie和在旅途中遇到的王子Ralsei，扮演拯救世界恢復光暗平衡的英雄，一同在被稱為“黑暗世界”的地方冒險。玩家將以封印東邊多餘的“黑暗湧泉”並回到原本的世界為目的，過程中會遇到通稱為“暗之民”的眾多敵人阻撓玩家封印黑暗湧泉，它們會以各式彈幕攻擊玩家，而玩家可以以和平主義的方式或暴力的手段突破障礙來達成結局。（截至第一章為止的內容）
+本作在2018年10月31日於[官方網站](https://www.deltarune.com/)開放第一章免費試玩版下載，[任天堂Switch](../Page/任天堂Switch.md "wikilink")版與[PS4版則於](../Page/PlayStation_4.md "wikilink")2019年2月28日開放，正式版發售時期未公布。本作的遊戲畫面讓人聯想起諸如[地球冒險系列](../Page/地球冒險系列.md "wikilink")、瑪利歐與路易吉RPG與[超時空之鑰等](https://zh.wikipedia.org/wiki/超時空之鑰 "wikilink")16-bit風格的日式RPG遊戲。
 本作最初被認為是《**[Undertale](../Page/Undertale.md "wikilink")**》的續作，但作者說明本作的世界與《**Undertale**》並非同一個世界，所講述的也是全新的故事。並希望玩家把《**Deltarune**》當作是通關《**Undertale**》後可以去玩玩看的一款遊戲。\[1\]
 
 ## 遊戲操作
@@ -92,8 +91,7 @@ Fox所開發的](../Page/托比·福克斯.md "wikilink")[電子角色扮演遊�
 
 :\***Asgore**
 
-::白色山羊型怪物，Kris與Asriel的父親。擁有一間名為「Flower
-King」的花店，但因為幾乎只送花給別人而沒有收入，也因此未繳房租而被下了最後通牒。
+::白色山羊型怪物，Kris與Asriel的父親。擁有一間名為「Flower King」的花店，但因為幾乎只送花給別人而沒有收入，也因此未繳房租而被下了最後通牒。
 
 :\***Asriel**
 
@@ -142,7 +140,6 @@ King」的花店，但因為幾乎只送花給別人而沒有收入，也因此�
 ## 外部連結
 
   -
-[Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink")
-[Category:2018年电子游戏](https://zh.wikipedia.org/wiki/Category:2018年电子游戏 "wikilink")
+[Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink") [Category:2018年电子游戏](https://zh.wikipedia.org/wiki/Category:2018年电子游戏 "wikilink")
 
 1.

@@ -16,25 +16,11 @@ Zuji是由旗下的與亞洲區內多家航空公司在2002年聯手創立。200
   - [Zuji新加坡](http://www.zuji.com.sg/)
   - [Zuji香港Facebook專頁](https://www.facebook.com/zujihk/)
 
-[Category:海航集團](https://zh.wikipedia.org/wiki/Category:海航集團 "wikilink")
-[Category:旅遊公司](https://zh.wikipedia.org/wiki/Category:旅遊公司 "wikilink")
-[Category:網路公司](https://zh.wikipedia.org/wiki/Category:網路公司 "wikilink")
-[Category:線上旅行社](https://zh.wikipedia.org/wiki/Category:線上旅行社 "wikilink")
-[Category:2018年关闭的网站](https://zh.wikipedia.org/wiki/Category:2018年关闭的网站 "wikilink")
+[Category:海航集團](https://zh.wikipedia.org/wiki/Category:海航集團 "wikilink") [Category:旅遊公司](https://zh.wikipedia.org/wiki/Category:旅遊公司 "wikilink") [Category:網路公司](https://zh.wikipedia.org/wiki/Category:網路公司 "wikilink") [Category:線上旅行社](https://zh.wikipedia.org/wiki/Category:線上旅行社 "wikilink") [Category:2018年关闭的网站](https://zh.wikipedia.org/wiki/Category:2018年关闭的网站 "wikilink")
 
-1.  [Webjet：出售OTA Zuji 新增FIT
-    Ruums业务](https://www.pinchain.com/article/98088)
-    品橙旅游，2016年11月14日
-2.  [成立16年
-    股權疑納入海航系內](https://www.mpfinance.com/php/daily2.php?node=1544124833804&issue=20181207)
-    明報，2018年12月7日
-3.  [新加坡 Zuji 無法償還航空公司費用
-    遭撤銷機票代理權](https://ezone.ulifestyle.com.hk/article/2220722/新加坡%20Zuji%20無法償還航空公司費用%20%20遭撤銷機票代理權)
-    ezone，2018年11月30日
-4.  [Zuji新加坡或裁员倒闭，海航在OTA领域开始全面撤退？](https://www.traveldaily.cn/article/125953)
-    环球旅讯，2018年11月30日
-5.  [Zuji認拖欠機票錢](https://hk.news.appledaily.com/local/daily/article/20181201/20558828)
-    蘋果日報，2018年12月1日
-6.  [ZUJI香港稱網頁改版暫停營運
-    分析指海航或有意撤離OTA領域](https://www.post852.com/264930/zuji香港稱網頁改版暫停營運%E3%80%80分析指海航或有意撤/)
-    852郵報，2018年12月6日
+1.  [Webjet：出售OTA Zuji 新增FIT Ruums业务](https://www.pinchain.com/article/98088) 品橙旅游，2016年11月14日
+2.  [成立16年 股權疑納入海航系內](https://www.mpfinance.com/php/daily2.php?node=1544124833804&issue=20181207) 明報，2018年12月7日
+3.  [新加坡 Zuji 無法償還航空公司費用 遭撤銷機票代理權](https://ezone.ulifestyle.com.hk/article/2220722/新加坡%20Zuji%20無法償還航空公司費用%20%20遭撤銷機票代理權) ezone，2018年11月30日
+4.  [Zuji新加坡或裁员倒闭，海航在OTA领域开始全面撤退？](https://www.traveldaily.cn/article/125953) 环球旅讯，2018年11月30日
+5.  [Zuji認拖欠機票錢](https://hk.news.appledaily.com/local/daily/article/20181201/20558828) 蘋果日報，2018年12月1日
+6.  [ZUJI香港稱網頁改版暫停營運 分析指海航或有意撤離OTA領域](https://www.post852.com/264930/zuji香港稱網頁改版暫停營運%E3%80%80分析指海航或有意撤/) 852郵報，2018年12月6日

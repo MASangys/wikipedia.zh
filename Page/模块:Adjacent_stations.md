@@ -4,22 +4,9 @@ local p = {}
 
 local lang = 'zh-CN' -- local default language
 
-\-- Below these comments: Internationalization table -- How to translate
-this module (for languages without variants): -- • Characters inside
-single and double quotation marks are called strings. -- The strings in
-this i18n table are used as output. -- • Strings within square brackets
-are keys. -- • Strings are concatenated (joined) with two dots. -- • Set
-the string after «local lang =» to your language's code. -- Change the
-first key after "i18n" (usually "en-GB") to the same thing. -- • For
-each string which is not inside a function, translate it directly. -- •
-Strings with keys named "format" are Lua regular expressions. -- «()» is
-a match; «.+» means all characters; «%s+» means all spaces. -- • For
-each string which is concatenated to the variable «var», -- translate
-the phrase assuming that «var» will be a noun. -- • Remove any
-unnecessary translations.
+\-- Below these comments: Internationalization table -- How to translate this module (for languages without variants): -- • Characters inside single and double quotation marks are called strings. -- The strings in this i18n table are used as output. -- • Strings within square brackets are keys. -- • Strings are concatenated (joined) with two dots. -- • Set the string after «local lang =» to your language's code. -- Change the first key after "i18n" (usually "en-GB") to the same thing. -- • For each string which is not inside a function, translate it directly. -- • Strings with keys named "format" are Lua regular expressions. -- «()» is a match; «.+» means all characters; «%s+» means all spaces. -- • For each string which is concatenated to the variable «var», -- translate the phrase assuming that «var» will be a noun. -- • Remove any unnecessary translations.
 
-local i18n = require("Module:Adjacent stations/i18n") local function
-getData(system, verify)
+local i18n = require("Module:Adjacent stations/i18n") local function getData(system, verify)
 
 `   if verify then`
 `       local title = mw.title.new('Module:Adjacent stations/' .. system -- .. '/sandbox'`
@@ -81,14 +68,11 @@ local function getStation(station, _Format)
 `   end`
 `   if typeN then _Format = mw.ustring.gsub(_Format, '%%3', typeN) end`
 `   if lineN then _Format = mw.ustring.gsub(_Format, '%%2', lineN) end`
-`   return (mw.ustring.match(_Format, '%[%[.+%]%]')) and (mw.ustring.gsub(_Format, '%%1', station)) or table.concat({'`[`',``
- ``station,``
- ``'`](https://zh.wikipedia.org/wiki/',_mw.ustring.gsub\(_Format,_'%%1',_station\),_' "wikilink")`'})`
+`   return (mw.ustring.match(_Format, '%[%[.+%]%]')) and (mw.ustring.gsub(_Format, '%%1', station)) or table.concat({'`[`',``   ``station,``   ``'`](https://zh.wikipedia.org/wiki/',_mw.ustring.gsub\(_Format,_'%%1',_station\),_' "wikilink")`'})`
 
 end
 
-function p._main(_args) -- Arguments are processed here instead of the
-main function
+function p._main(_args) -- Arguments are processed here instead of the main function
 
 `   local yesno = require('Module:Yesno')`
 `   local boolean = {`
@@ -290,8 +274,7 @@ main function
 `                       local _through = args[v]['through-' .. b] or args[v]['through']`
 `                       local _through_data = getLine(data[v], _through)`
 `                       if _through_data then _through = _through_data['title'] or _through end`
-`                       sideCell[i] = _through and "`*`"``   ``..``
- ``i18n[lang]['through'](_through)``   ``..``   ``"`*`"`
+`                       sideCell[i] = _through and "`*`"``   ``..``   ``i18n[lang]['through'](_through)``   ``..``   ``"`*`"`
 `                           or "''" .. ((args[v]['reverse-' .. b]`
 `                           or args[v]['reverse']) and i18n[lang]['reverse']`
 `                           or i18n[lang]['terminus']) .. "''"`
@@ -472,8 +455,7 @@ function p._box(args, frame)
 
 <div class="legend" style="-webkit-column-break-inside:avoid;page-break-inside:avoid;break-inside:avoid-column">
 
-<span class="legend-color" style="display:inline-block;width:1.5em;height:1.5em;margin:1px 0;border:1px solid black;background-color:#' .. color .. '">
-</span> ' .. line .. result .. '
+<span class="legend-color" style="display:inline-block;width:1.5em;height:1.5em;margin:1px 0;border:1px solid black;background-color:#' .. color .. '"> </span> ' .. line .. result .. '
 
 </div>
 
@@ -486,8 +468,7 @@ function p._box(args, frame)
 `       elseif inline == 'link' then`
 `           local link = args.link or mw.ustring.match(line, '%[%[([^%[:|%]]+)[|%]]')`
 `           if link then`
-`               result = '`[<span style="background-color:#' .. color .. ';border:1px solid #000">`
- `</span>](https://zh.wikipedia.org/wiki/'_.._link_.._' "wikilink")`' .. result`
+`               result = '`[<span style="background-color:#' .. color .. ';border:1px solid #000">`   `</span>](https://zh.wikipedia.org/wiki/'_.._link_.._' "wikilink")`' .. result`
 `           else`
 `               result = '`<span style="background-color:#' .. color .. ';border:1px solid #000">`    `</span>`' .. result`
 `           end`
@@ -534,25 +515,19 @@ function p._box(args, frame)
 `           local bold = (yesno(args.bold) == false) or ';font-weight:bold'`
 `           if inline == 'route' then -- `[`Template:RouteBox`](https://zh.wikipedia.org/wiki/Template:RouteBox "wikilink")
 `               if link then`
-`                   result = '`<span style="background-color:#' .. color .. ';border:.075em solid #' .. border_color .. ';padding:0 .3em">[<span style="color:' .. text_color .. bold .. ';font-size:inherit;white-space:nowrap">`'``
- ``..``   ``lineN``   ``..``
- ``'`</span>](https://zh.wikipedia.org/wiki/'_.._link_.._' "wikilink")</span>`'`
+`                   result = '`<span style="background-color:#' .. color .. ';border:.075em solid #' .. border_color .. ';padding:0 .3em">[<span style="color:' .. text_color .. bold .. ';font-size:inherit;white-space:nowrap">`'``   ``..``   ``lineN``   ``..``   ``'`</span>](https://zh.wikipedia.org/wiki/'_.._link_.._' "wikilink")</span>`'`
 `               else`
 `                   result = '`<span style="background-color:#' .. color .. ';border:.075em solid #' .. border_color .. ';padding:0 .3em;color:' .. text_color .. bold .. ';font-size:inherit;white-space:nowrap">`' .. lineN .. '`</span>`'`
 `               end`
 `           elseif inline == 'croute' then -- `[`Template:Bahnlinie`](https://zh.wikipedia.org/wiki/Template:Bahnlinie "wikilink")
 `               if link then`
-`                   result = '`<span style="background-color:#' .. color .. ';border:.075em solid #' .. border_color .. ';border-radius:.5em;padding:0 .3em">[<span style="color:' .. text_color .. bold .. ';font-size:inherit;white-space:nowrap">`'``
- ``..``   ``lineN``   ``..``
- ``'`</span>](https://zh.wikipedia.org/wiki/'_.._link_.._' "wikilink")</span>`'`
+`                   result = '`<span style="background-color:#' .. color .. ';border:.075em solid #' .. border_color .. ';border-radius:.5em;padding:0 .3em">[<span style="color:' .. text_color .. bold .. ';font-size:inherit;white-space:nowrap">`'``   ``..``   ``lineN``   ``..``   ``'`</span>](https://zh.wikipedia.org/wiki/'_.._link_.._' "wikilink")</span>`'`
 `               else`
 `                   result = '`<span style="background-color:#' .. color .. ';border:.075em solid #' .. border_color .. ';border-radius:.5em;padding:0 .3em;color:' .. text_color .. bold .. ';font-size:inherit;white-space:nowrap">`' .. lineN .. '`</span>`'`
 `               end`
 `           elseif inline == 'xroute' then -- `[`Template:Bahnlinie`](https://zh.wikipedia.org/wiki/Template:Bahnlinie "wikilink")
 `               if link then`
-`                   result = '`<span style="border:.075em solid #' .. border_color .. ';border-radius:.5em;padding:0 .3em">[<span style="color:#' .. color .. bold .. ';font-size:inherit;white-space:nowrap">`'``
- ``..``   ``lineN``   ``..``
- ``'`</span>](https://zh.wikipedia.org/wiki/'_.._link_.._' "wikilink")</span>`'`
+`                   result = '`<span style="border:.075em solid #' .. border_color .. ';border-radius:.5em;padding:0 .3em">[<span style="color:#' .. color .. bold .. ';font-size:inherit;white-space:nowrap">`'``   ``..``   ``lineN``   ``..``   ``'`</span>](https://zh.wikipedia.org/wiki/'_.._link_.._' "wikilink")</span>`'`
 `               else`
 `                   result = '`<span style="border:.075em solid #' .. border_color .. ';border-radius:.5em;padding:0 .3em;color:#' .. color .. bold .. ';font-size:inherit;white-space:nowrap">`' .. lineN .. '`</span>`'`
 `               end`
@@ -561,8 +536,7 @@ function p._box(args, frame)
 
 <div class="legend" style="-webkit-column-break-inside:avoid;page-break-inside:avoid;break-inside:avoid-column">
 
-<span class="legend-color" style="display:inline-block;width:1.5em;height:1.5em;margin:1px 0;border:1px solid black;background-color:#' .. color .. '">
-</span> ' .. line .. result .. '
+<span class="legend-color" style="display:inline-block;width:1.5em;height:1.5em;margin:1px 0;border:1px solid black;background-color:#' .. color .. '"> </span> ' .. line .. result .. '
 
 </div>
 

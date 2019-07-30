@@ -1,14 +1,12 @@
-[第27回](../Page/第27回TV_LIFE年度日劇大賞.md "wikilink") ← **第28回** →
-[第29回](https://zh.wikipedia.org/wiki/第29回TV_LIFE年度日劇大賞 "wikilink")
+[第27回](../Page/第27回TV_LIFE年度日劇大賞.md "wikilink") ← **第28回** → [第29回](https://zh.wikipedia.org/wiki/第29回TV_LIFE年度日劇大賞 "wikilink")
 
-**第28回[TV
-LIFE年度日劇大賞](../Page/TV_LIFE年度日劇大賞.md "wikilink")**是針對2018年播出的連續劇做出的觀眾投票。
+**第28回[TV LIFE年度日劇大賞](../Page/TV_LIFE年度日劇大賞.md "wikilink")**是針對2018年播出的連續劇做出的觀眾投票。
 
-本屆獲獎最多的劇集是[TBS電視台的](../Page/TBS電視台.md "wikilink")《[0.1無罪真相2](https://zh.wikipedia.org/wiki/0.1無罪真相 "wikilink")》\[1\]，共獲五獎。
+本屆獲獎最多的劇集是[TBS電視台](../Page/TBS電視台.md "wikilink")的《[0.1無罪真相2](https://zh.wikipedia.org/wiki/0.1無罪真相 "wikilink")》\[1\]，共獲五獎。
 
-而本屆七個獎項全部由[TBS電視台製作的劇集奪得](../Page/TBS電視台.md "wikilink")，包括《[0.1無罪真相2](https://zh.wikipedia.org/wiki/0.1無罪真相 "wikilink")》、《[UNNATURAL](../Page/UNNATURAL.md "wikilink")》和《》。
+而本屆七個獎項全部由[TBS電視台](../Page/TBS電視台.md "wikilink")製作的劇集奪得，包括《[0.1無罪真相2](https://zh.wikipedia.org/wiki/0.1無罪真相 "wikilink")》、《[UNNATURAL](../Page/UNNATURAL.md "wikilink")》和《》。
 
-個人方面，[松本潤首度奪得最佳男主角](https://zh.wikipedia.org/wiki/松本潤 "wikilink")，為第四位獲獎的「[嵐](../Page/嵐.md "wikilink")」的成員；而[石原聰美](../Page/石原聰美.md "wikilink")、[香川照之和](../Page/香川照之.md "wikilink")[木村文乃](../Page/木村文乃.md "wikilink")，分別第二度獲頒最佳女主角、最佳男配角及最佳女配角。
+個人方面，[松本潤首度奪得最佳男主角](https://zh.wikipedia.org/wiki/松本潤 "wikilink")，為第四位獲獎的「[嵐](../Page/嵐.md "wikilink")」的成員；而[石原聰美](../Page/石原聰美.md "wikilink")、[香川照之](../Page/香川照之.md "wikilink")和[木村文乃](../Page/木村文乃.md "wikilink")，分別第二度獲頒最佳女主角、最佳男配角及最佳女配角。
 
 ## 獎項
 
@@ -311,7 +309,6 @@ LIFE年度日劇大賞](../Page/TV_LIFE年度日劇大賞.md "wikilink")**是針
 
 ## 參考來源
 
-[Category:2018年日本](https://zh.wikipedia.org/wiki/Category:2018年日本 "wikilink")
-[Category:2018年电视奖项](https://zh.wikipedia.org/wiki/Category:2018年电视奖项 "wikilink")
+[Category:2018年日本](https://zh.wikipedia.org/wiki/Category:2018年日本 "wikilink") [Category:2018年电视奖项](https://zh.wikipedia.org/wiki/Category:2018年电视奖项 "wikilink")
 
 1.

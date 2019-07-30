@@ -1,17 +1,8 @@
-\--[This module is intended for processing of date strings. Please do
-not modify this code without applying the changes first at
-Module:ISOdate/sandbox and testing at Module:ISOdate/sandbox/testcases
-and Module talk:ISOdate/sandbox/testcases. Authors and maintainers: \*
-User:Parent5446 - original version of the function mimicking
-template:ISOdate \* User:Jarekt - original version of the functions
-mimicking template:Date and
-template:ISOyear](https://zh.wikipedia.org/wiki/This_module_is_intended_for_processing_of_date_strings._Please_do_not_modify_this_code_without_applying_the_changes_first_at_Module:ISOdate/sandbox_and_testing_at_Module:ISOdate/sandbox/testcases_and_Module_talk:ISOdate/sandbox/testcases._Authors_and_maintainers:_*_User:Parent5446_-_original_version_of_the_function_mimicking_template:ISOdate_*_User:Jarekt_-_original_version_of_the_functions_mimicking_template:Date_and_template:ISOyear "wikilink")
+\--[This module is intended for processing of date strings. Please do not modify this code without applying the changes first at Module:ISOdate/sandbox and testing at Module:ISOdate/sandbox/testcases and Module talk:ISOdate/sandbox/testcases. Authors and maintainers: \* User:Parent5446 - original version of the function mimicking template:ISOdate \* User:Jarekt - original version of the functions mimicking template:Date and template:ISOyear](https://zh.wikipedia.org/wiki/This_module_is_intended_for_processing_of_date_strings._Please_do_not_modify_this_code_without_applying_the_changes_first_at_Module:ISOdate/sandbox_and_testing_at_Module:ISOdate/sandbox/testcases_and_Module_talk:ISOdate/sandbox/testcases._Authors_and_maintainers:_*_User:Parent5446_-_original_version_of_the_function_mimicking_template:ISOdate_*_User:Jarekt_-_original_version_of_the_functions_mimicking_template:Date_and_template:ISOyear "wikilink")
 
 local p = {}
 
-\-- ======================================= -- === Dependencies
-====================== -- ======================================= local
-D = require('Module:DateI18n') -- the enwp version of c:Module:Date
+\-- ======================================= -- === Dependencies ====================== -- ======================================= local D = require('Module:DateI18n') -- the enwp version of c:Module:Date
 
 \--\[\[ ISOyear
 
@@ -229,6 +220,4 @@ end
 
 return p
 
-[Category:Date_in_DD/MM/YYYY_format](https://zh.wikipedia.org/wiki/Category:Date_in_DD/MM/YYYY_format "wikilink")
-[Category:Date_in_MM/DD/YYYY_format](https://zh.wikipedia.org/wiki/Category:Date_in_MM/DD/YYYY_format "wikilink")
-[Category:Date_in_word_format](https://zh.wikipedia.org/wiki/Category:Date_in_word_format "wikilink")
+[Category:Date_in_DD/MM/YYYY_format](https://zh.wikipedia.org/wiki/Category:Date_in_DD/MM/YYYY_format "wikilink") [Category:Date_in_MM/DD/YYYY_format](https://zh.wikipedia.org/wiki/Category:Date_in_MM/DD/YYYY_format "wikilink") [Category:Date_in_word_format](https://zh.wikipedia.org/wiki/Category:Date_in_word_format "wikilink")

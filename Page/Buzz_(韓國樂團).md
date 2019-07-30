@@ -1,5 +1,4 @@
-**Buzz** （）
-是一個[南韓](https://zh.wikipedia.org/wiki/南韓 "wikilink")[搖滾樂隊](https://zh.wikipedia.org/wiki/搖滾樂隊 "wikilink")，於2003年出道。其演唱的抒情搖滾音樂最為人熟知。成員包括、、、和[閔庚勳](../Page/閔庚勳.md "wikilink")。
+**Buzz** （） 是一個[南韓](https://zh.wikipedia.org/wiki/南韓 "wikilink")[搖滾樂隊](https://zh.wikipedia.org/wiki/搖滾樂隊 "wikilink")，於2003年出道。其演唱的抒情搖滾音樂最為人熟知。成員包括、、、和[閔庚勳](../Page/閔庚勳.md "wikilink")。
 
 ## 成員資料
 
@@ -58,24 +57,15 @@ Buzz樂隊在2000年成立。這搖滾樂隊並不是由經紀人公司組合而
 
 ### 2003－2007年：樂隊的活動期
 
-Buzz在2003年10月11日推出了他們的出道專輯《Morning Of
-Buzz》，一出道便廣受好評，出道曲〈也許...〉（어쩌면...）和之後推出的〈Monologue〉都榮登音樂榜榜首。
-2005年推出第二張專輯《Effect》，主打歌〈膽小鬼〉（겁쟁이）拿下音樂節目三冠王，與接續歌曲〈刺〉（가시）、〈獨自的旅行〉（나에게로
-떠나는 여행）相繼在[M
-Countdown拿下冠軍](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")，成為第一位在同一張專輯中有三首歌奪得冠軍的得獎者。〈膽小鬼〉分別在[Music
-Camp和](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")[人氣歌謠拿下三冠王](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")，更在[M
-Countdown拿下連五冠](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")。
-2006年發行第三張專輯《Perfect》，原本主打歌為〈My Darling〉，但受粉絲批評，大受歡迎的〈不懂男人〉（남자를
-몰라）突然被改為主打歌。
-2007年5月17日，由於成員服兵役的關係，Buzz暫時解散。在2007年6月25日，Buzz推出了最後一張單曲專輯《愛隨心動Part.2》(사랑은
-가슴이 시킨다 Part.2)。
+Buzz在2003年10月11日推出了他們的出道專輯《Morning Of Buzz》，一出道便廣受好評，出道曲〈也許...〉（어쩌면...）和之後推出的〈Monologue〉都榮登音樂榜榜首。
+2005年推出第二張專輯《Effect》，主打歌〈膽小鬼〉（겁쟁이）拿下音樂節目三冠王，與接續歌曲〈刺〉（가시）、〈獨自的旅行〉（나에게로 떠나는 여행）相繼在[M Countdown拿下冠軍](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")，成為第一位在同一張專輯中有三首歌奪得冠軍的得獎者。〈膽小鬼〉分別在[Music Camp和](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")[人氣歌謠拿下三冠王](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")，更在[M Countdown拿下連五冠](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")。
+2006年發行第三張專輯《Perfect》，原本主打歌為〈My Darling〉，但受粉絲批評，大受歡迎的〈不懂男人〉（남자를 몰라）突然被改為主打歌。
+2007年5月17日，由於成員服兵役的關係，Buzz暫時解散。在2007年6月25日，Buzz推出了最後一張單曲專輯《愛隨心動Part.2》(사랑은 가슴이 시킨다 Part.2)。
 
 ### 解散後的個人活動
 
-[閔庚勳和其他團員服役的時間不同](../Page/閔庚勳.md "wikilink")，展開了個人活動，轉型為solo抒情歌手。辛駿基擔任了其他樂團的貝斯手；孫星熙則組了新樂團「4th
-floor (포스 플로어)」。
-2010年尹宇鉉與新主唱나율組成第二期Buzz，發行專輯《Fuzz．Buzz》。나율於2011年離開，2012年尹宇鉉再與新主唱민대홍組成第三期Buzz，發行專輯《Buzz
-Return》，민대홍於2014年離開。
+[閔庚勳](../Page/閔庚勳.md "wikilink")和其他團員服役的時間不同，展開了個人活動，轉型為solo抒情歌手。辛駿基擔任了其他樂團的貝斯手；孫星熙則組了新樂團「4th floor (포스 플로어)」。
+2010年尹宇鉉與新主唱나율組成第二期Buzz，發行專輯《Fuzz．Buzz》。나율於2011年離開，2012年尹宇鉉再與新主唱민대홍組成第三期Buzz，發行專輯《Buzz Return》，민대홍於2014年離開。
 
 ### 2014年－至今：重組
 
@@ -552,13 +542,7 @@ Return》，민대홍於2014年離開。
 
 <references />
 
-[Category:Mnet亞洲音樂大獎獲得者](https://zh.wikipedia.org/wiki/Category:Mnet亞洲音樂大獎獲得者 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:2008年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2008年解散的音樂團體 "wikilink")
-[Category:2003年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2003年成立的音樂團體 "wikilink")
-[Category:含有朝鮮語的條目](https://zh.wikipedia.org/wiki/Category:含有朝鮮語的條目 "wikilink")
-[Category:多語言連結模板參數編號](https://zh.wikipedia.org/wiki/Category:多語言連結模板參數編號 "wikilink")
-[Category:有未审阅翻译的页面](https://zh.wikipedia.org/wiki/Category:有未审阅翻译的页面 "wikilink")
+[Category:Mnet亞洲音樂大獎獲得者](https://zh.wikipedia.org/wiki/Category:Mnet亞洲音樂大獎獲得者 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2008年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2008年解散的音樂團體 "wikilink") [Category:2003年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2003年成立的音樂團體 "wikilink") [Category:含有朝鮮語的條目](https://zh.wikipedia.org/wiki/Category:含有朝鮮語的條目 "wikilink") [Category:多語言連結模板參數編號](https://zh.wikipedia.org/wiki/Category:多語言連結模板參數編號 "wikilink") [Category:有未审阅翻译的页面](https://zh.wikipedia.org/wiki/Category:有未审阅翻译的页面 "wikilink")
 
 1.
 2.

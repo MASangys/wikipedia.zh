@@ -1,8 +1,8 @@
-**迷你KTV**（又名**电话亭KTV**）是一种形状和大小类似于[电话亭且里面配套有](https://zh.wikipedia.org/wiki/电话亭 "wikilink")[卡拉OK机器的隔间](../Page/卡拉OK.md "wikilink")，流行于中国、[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")、[越南等](https://zh.wikipedia.org/wiki/越南 "wikilink")[东亚地区](https://zh.wikipedia.org/wiki/东亚 "wikilink")\[1\]\[2\]\[3\]。
+**迷你KTV**（又名**电话亭KTV**）是一种形状和大小类似于[电话亭且里面配套有](https://zh.wikipedia.org/wiki/电话亭 "wikilink")[卡拉OK](../Page/卡拉OK.md "wikilink")机器的隔间，流行于中国、[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")、[越南等](https://zh.wikipedia.org/wiki/越南 "wikilink")[东亚地区](https://zh.wikipedia.org/wiki/东亚 "wikilink")\[1\]\[2\]\[3\]。
 
 ## 构造与使用
 
-迷你KTV外观类似于电话亭，占地约2平方米，墙面由透明玻璃制成，部分悬挂有窗帘，其内部配备有一台卡拉OK点歌机器以及椅子、[麦克风和头戴式](../Page/麦克风.md "wikilink")[耳机](https://zh.wikipedia.org/wiki/耳机 "wikilink")。大多数迷你KTV设计为两人使用，其隔音效果也比较好。用户通过戴上耳机，使用点歌机进行检索点歌，然后使用麦克风进行演唱，期间可以通过点歌机上的控制面板来调解音效和音量以控制耳机的输出效果。不少迷你KTV也提供了录音功能，用户可以录制自己所唱的歌。与传统的卡拉OK店不同的是，迷你KTV使用自助式付费模式，没有工作人员进行收费，用户是通过投币或使用[移动支付进行付费使用](https://zh.wikipedia.org/wiki/移动支付 "wikilink")。而迷你KTV也一般放置于商场、[游戏厅等人流量大的地方](https://zh.wikipedia.org/wiki/游戏厅 "wikilink")。\[4\]
+迷你KTV外观类似于电话亭，占地约2平方米，墙面由透明玻璃制成，部分悬挂有窗帘，其内部配备有一台卡拉OK点歌机器以及椅子、[麦克风](../Page/麦克风.md "wikilink")和头戴式[耳机](https://zh.wikipedia.org/wiki/耳机 "wikilink")。大多数迷你KTV设计为两人使用，其隔音效果也比较好。用户通过戴上耳机，使用点歌机进行检索点歌，然后使用麦克风进行演唱，期间可以通过点歌机上的控制面板来调解音效和音量以控制耳机的输出效果。不少迷你KTV也提供了录音功能，用户可以录制自己所唱的歌。与传统的卡拉OK店不同的是，迷你KTV使用自助式付费模式，没有工作人员进行收费，用户是通过投币或使用[移动支付进行付费使用](https://zh.wikipedia.org/wiki/移动支付 "wikilink")。而迷你KTV也一般放置于商场、[游戏厅等人流量大的地方](https://zh.wikipedia.org/wiki/游戏厅 "wikilink")。\[4\]
 
 ## 发展
 

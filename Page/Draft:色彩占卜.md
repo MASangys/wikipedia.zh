@@ -14,8 +14,6 @@
 
 ## 参考资料
 
-<https://womany.net/read/article/7582?type=tag&tag=67&ref=wi-tags>
-<https://womany.net/read/article/11919?type=tag&tag=67&ref=wi-tags>
-<https://womany.net/read/article/9660>
+<https://womany.net/read/article/7582?type=tag&tag=67&ref=wi-tags> <https://womany.net/read/article/11919?type=tag&tag=67&ref=wi-tags> <https://womany.net/read/article/9660>
 
 [Category:用条目向导创建的草稿](https://zh.wikipedia.org/wiki/Category:用条目向导创建的草稿 "wikilink")

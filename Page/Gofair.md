@@ -1,7 +1,6 @@
 ## 简介：
 
-Gofair是Global Online
-Fair的缩写，是[美国](../Page/美国.md "wikilink")一个全球在线展会，\[1\]总部位于美国加州[硅谷](../Page/硅谷.md "wikilink")[圣何塞](../Page/圣何塞.md "wikilink")市。
+Gofair是Global Online Fair的缩写，是[美国](../Page/美国.md "wikilink")一个全球在线展会，\[1\]总部位于美国加州[硅谷](../Page/硅谷.md "wikilink")[圣何塞](../Page/圣何塞.md "wikilink")市。
 
 ## 概况：
 
@@ -25,13 +24,11 @@ Gofair视频基本保留了原有视频的质量，不添加水印。
 
 ## 会员认证：
 
-Gofair的新付费会员加入后会历经一个为期7天的试用期，在此期间会员会被要求进一步上传公司资料，并被要求发布至少2个产品视频。
-\[2\]\[3\]\[4\]\[5\]\[6\]\[7\]\[8\]\[9\]\[10\]\[11\]\[12\]\[13\]
+Gofair的新付费会员加入后会历经一个为期7天的试用期，在此期间会员会被要求进一步上传公司资料，并被要求发布至少2个产品视频。 \[2\]\[3\]\[4\]\[5\]\[6\]\[7\]\[8\]\[9\]\[10\]\[11\]\[12\]\[13\]
 
 ## 来源
 
-[Category:2008年建立的网站](https://zh.wikipedia.org/wiki/Category:2008年建立的网站 "wikilink")
-[Category:美国网站](https://zh.wikipedia.org/wiki/Category:美国网站 "wikilink")
+[Category:2008年建立的网站](https://zh.wikipedia.org/wiki/Category:2008年建立的网站 "wikilink") [Category:美国网站](https://zh.wikipedia.org/wiki/Category:美国网站 "wikilink")
 
 1.
 2.

@@ -1,5 +1,4 @@
-**The
-Checkers**（）又稱**方格子樂團**，是活躍於[1980年代至](../Page/1980年代.md "wikilink")[1990年代前期的日本樂團](../Page/1990年代.md "wikilink")，由、、、、、（2004年病故）、七人組成，唱片總銷量達千萬張\[1\]\[2\]。
+**The Checkers**（）又稱**方格子樂團**，是活躍於[1980年代](../Page/1980年代.md "wikilink")至[1990年代](../Page/1990年代.md "wikilink")前期的日本樂團，由、、、、、（2004年病故）、七人組成，唱片總銷量達千萬張\[1\]\[2\]。
 
 ## 音樂作品
 
@@ -86,8 +85,7 @@ Checkers**（）又稱**方格子樂團**，是活躍於[1980年代至](../Page/
 <!-- end list -->
 
   - CHECKERS IN TAN TAN たぬき オリジナル・サウンドトラック（1985年4月27日）
-  - 親愛なるジョージ・スプリングヒル・バンド様（1985年12月21日、「Cute Beat Club
-    Band」名義、包含CD、卡式錄音帶）
+  - 親愛なるジョージ・スプリングヒル・バンド様（1985年12月21日、「Cute Beat Club Band」名義、包含CD、卡式錄音帶）
   - SONG FOR U.S.A.（1986年7月21日）
   - NON-STOP CHECKERS（1986年9月5日）
 
@@ -172,14 +170,8 @@ Checkers**（）又稱**方格子樂團**，是活躍於[1980年代至](../Page/
 
 ## 參考資料
 
-[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink")
-[Category:日本男子偶像團體](https://zh.wikipedia.org/wiki/Category:日本男子偶像團體 "wikilink")
-[Category:1980年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1980年成立的音樂團體 "wikilink")
-[Category:1992年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:1992年解散的音樂團體 "wikilink")
-[Category:Oricon單曲年榜冠軍獲得者](https://zh.wikipedia.org/wiki/Category:Oricon單曲年榜冠軍獲得者 "wikilink")
-[Category:NHK紅白歌合戰出场歌手](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰出场歌手 "wikilink")
+[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink") [Category:日本男子偶像團體](https://zh.wikipedia.org/wiki/Category:日本男子偶像團體 "wikilink") [Category:1980年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1980年成立的音樂團體 "wikilink") [Category:1992年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:1992年解散的音樂團體 "wikilink") [Category:Oricon單曲年榜冠軍獲得者](https://zh.wikipedia.org/wiki/Category:Oricon單曲年榜冠軍獲得者 "wikilink") [Category:NHK紅白歌合戰出场歌手](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰出场歌手 "wikilink")
 
 1.
 2.
-3.  「ギザギザハートの子守唄」「涙のリクエスト」「星屑のステージ」「I Love you, SAYONARA」「Present for
-    You」組曲
+3.  「ギザギザハートの子守唄」「涙のリクエスト」「星屑のステージ」「I Love you, SAYONARA」「Present for You」組曲

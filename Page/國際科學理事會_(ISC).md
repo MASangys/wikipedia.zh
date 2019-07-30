@@ -16,8 +16,7 @@
 
 ## 参考资料
 
-[Category:学术团体](https://zh.wikipedia.org/wiki/Category:学术团体 "wikilink")
-[Category:学术](https://zh.wikipedia.org/wiki/Category:学术 "wikilink")
+[Category:学术团体](https://zh.wikipedia.org/wiki/Category:学术团体 "wikilink") [Category:学术](https://zh.wikipedia.org/wiki/Category:学术 "wikilink")
 
 1.
 2.

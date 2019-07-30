@@ -1,7 +1,4 @@
-《**客：The
-Guest**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[OCN](https://zh.wikipedia.org/wiki/OCN "wikilink")
-Original
-Series全新登場的[水木經典連續劇](../Page/OCN_Original_Series.md "wikilink")\[1\]，由《[Black](https://zh.wikipedia.org/wiki/Black_\(韩国电视剧\) "wikilink")》、《[Voice](../Page/Voice_\(韓國電視劇\).md "wikilink")》的金弘善導演與《[Entourage](../Page/Entourage_\(韓國電視劇\).md "wikilink")》的徐載元、權素拉編劇聯合打造，是一部真正以韓式驅魔和巫術為題材的作品，本劇講述靈媒、司祭和警察與無處不在利用靈異力量的犯罪團伙互相較量的故事\[2\]\[3\]。台灣由[愛奇藝台灣站](https://zh.wikipedia.org/wiki/愛奇藝台灣站 "wikilink")，自9月13日起每週四五獨家播出。
+《**客：The Guest**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[OCN](https://zh.wikipedia.org/wiki/OCN "wikilink") Original Series全新登場的[水木經典連續劇](../Page/OCN_Original_Series.md "wikilink")\[1\]，由《[Black](https://zh.wikipedia.org/wiki/Black_\(韩国电视剧\) "wikilink")》、《[Voice](../Page/Voice_\(韓國電視劇\).md "wikilink")》的金弘善導演與《[Entourage](../Page/Entourage_\(韓國電視劇\).md "wikilink")》的徐載元、權素拉編劇聯合打造，是一部真正以韓式驅魔和巫術為題材的作品，本劇講述靈媒、司祭和警察與無處不在利用靈異力量的犯罪團伙互相較量的故事\[2\]\[3\]。台灣由[愛奇藝台灣站](https://zh.wikipedia.org/wiki/愛奇藝台灣站 "wikilink")，自9月13日起每週四五獨家播出。
 
 ## 演員陣容
 
@@ -532,14 +529,7 @@ Series全新登場的[水木經典連續劇](../Page/OCN_Original_Series.md "wik
 
   - [韓國官方網站](http://program.m.tving.com/ocn/theguest/)
 
-[Category:2018年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2018年韓國電視劇集 "wikilink")
-[Category:OCN電視劇](https://zh.wikipedia.org/wiki/Category:OCN電視劇 "wikilink")
-[Category:OCN_Original_Series](https://zh.wikipedia.org/wiki/Category:OCN_Original_Series "wikilink")
-[Category:韓國懸疑劇](https://zh.wikipedia.org/wiki/Category:韓國懸疑劇 "wikilink")
-[Category:驚悚電視劇](https://zh.wikipedia.org/wiki/Category:驚悚電視劇 "wikilink")
-[Category:電視劇集系列](https://zh.wikipedia.org/wiki/Category:電視劇集系列 "wikilink")
-[Category:驅魔題材作品](https://zh.wikipedia.org/wiki/Category:驅魔題材作品 "wikilink")
-[Category:警察題材電視劇](https://zh.wikipedia.org/wiki/Category:警察題材電視劇 "wikilink")
+[Category:2018年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2018年韓國電視劇集 "wikilink") [Category:OCN電視劇](https://zh.wikipedia.org/wiki/Category:OCN電視劇 "wikilink") [Category:OCN_Original_Series](https://zh.wikipedia.org/wiki/Category:OCN_Original_Series "wikilink") [Category:韓國懸疑劇](https://zh.wikipedia.org/wiki/Category:韓國懸疑劇 "wikilink") [Category:驚悚電視劇](https://zh.wikipedia.org/wiki/Category:驚悚電視劇 "wikilink") [Category:電視劇集系列](https://zh.wikipedia.org/wiki/Category:電視劇集系列 "wikilink") [Category:驅魔題材作品](https://zh.wikipedia.org/wiki/Category:驅魔題材作品 "wikilink") [Category:警察題材電視劇](https://zh.wikipedia.org/wiki/Category:警察題材電視劇 "wikilink")
 
 1.
 2.

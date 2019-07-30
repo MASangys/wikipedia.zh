@@ -1,40 +1,26 @@
-**Mrs. GREEN
-APPLE**是2013年結成的[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")，2015年由[環球音樂旗下的EMI](../Page/環球音樂_\(日本\).md "wikilink")
-Records出道，所屬事務所為[Theatre
-Academy](../Page/Theatre_Academy.md "wikilink")。官方FC為「Ringo Jam」。
+**Mrs. GREEN APPLE**是2013年結成的[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")，2015年由[環球音樂旗下的EMI](../Page/環球音樂_\(日本\).md "wikilink") Records出道，所屬事務所為[Theatre Academy](../Page/Theatre_Academy.md "wikilink")。官方FC為「Ringo Jam」。
 
 ## 成員
 
   - **大森元貴**（おおもり もとき 1996年9月14日 - ）
 
-主唱、吉他、負責全數歌曲作詞・作曲。東京都人。血型A型。 綽號為「もとき」「もっくん」。
-在國小送別會上想引人注目為理由而開始了接觸音樂。最早是以貝斯作為為主要樂器而開始彈唱活動。在與中學時期的同學若井滉斗相遇為契機而組成樂團。起初因為若井為足球隊且十分有人氣而不擅長與他交際，在校外教學時候，兩人藉由當時候流行的Susan
-Magdalane
-Boyle開啟話題，進而發現對方都喜歡音樂而成為好友。討厭的食物為番茄，對蘋果過敏。專長・興趣為畫畫跟排球。喜歡的藝術家為，攝影師
-Kyle Thompson。打工經歷：與若井在同家超市打工，而大森負責在熟食部裡製作便當。
+主唱、吉他、負責全數歌曲作詞・作曲。東京都人。血型A型。 綽號為「もとき」「もっくん」。 在國小送別會上想引人注目為理由而開始了接觸音樂。最早是以貝斯作為為主要樂器而開始彈唱活動。在與中學時期的同學若井滉斗相遇為契機而組成樂團。起初因為若井為足球隊且十分有人氣而不擅長與他交際，在校外教學時候，兩人藉由當時候流行的Susan Magdalane Boyle開啟話題，進而發現對方都喜歡音樂而成為好友。討厭的食物為番茄，對蘋果過敏。專長・興趣為畫畫跟排球。喜歡的藝術家為，攝影師 Kyle Thompson。打工經歷：與若井在同家超市打工，而大森負責在熟食部裡製作便當。
 
   - **若井滉斗**（わかい ひろと 1996年10月8日 -）
 
-吉他擔當。東京都人。Mrs. GREEN APPLE的隊長。血型O型。
-綽號為「ひろぱ」。結束持續10年的足球生活而開始接觸吉他，並與中學的同學大森一起組成樂團。國小時期的綽號為「太陽君」。是成員裏頭年紀最小的。前齒非常的小，十分怕高與怕冷。專長・興趣為攝影、足球、空手道（初段）。喜歡的藝術家有THEE
-MICHELLE GUN ELEPHANT、Dr.Feelgood、Michael
-Jackson。喜歡的女生類型為橋本愛、篠崎愛、山本彩、横山由依。打工經歷：與大森在同家超市打工，而若井則是在超市肉類處理部門。
+吉他擔當。東京都人。Mrs. GREEN APPLE的隊長。血型O型。 綽號為「ひろぱ」。結束持續10年的足球生活而開始接觸吉他，並與中學的同學大森一起組成樂團。國小時期的綽號為「太陽君」。是成員裏頭年紀最小的。前齒非常的小，十分怕高與怕冷。專長・興趣為攝影、足球、空手道（初段）。喜歡的藝術家有THEE MICHELLE GUN ELEPHANT、Dr.Feelgood、Michael Jackson。喜歡的女生類型為橋本愛、篠崎愛、山本彩、横山由依。打工經歷：與大森在同家超市打工，而若井則是在超市肉類處理部門。
 
   - **山中綾華**（やまなか あやか 1995年2月5日 - ）
 
-鼓手擔當。宮崎県人。血型B型。
-學過的才藝：游泳(5年)、鋼琴(7年)、茶道(5年)，是樂團裡唯一的女生。因大森的邀請，而加入樂團。高中一年級時後加入學校社團而開始打鼓。大家公認樂團裡頭最天然的成員。打工經歷：超商(2年)
+鼓手擔當。宮崎県人。血型B型。 學過的才藝：游泳(5年)、鋼琴(7年)、茶道(5年)，是樂團裡唯一的女生。因大森的邀請，而加入樂團。高中一年級時後加入學校社團而開始打鼓。大家公認樂團裡頭最天然的成員。打工經歷：超商(2年)
 
   - **藤澤涼架**（ふじさわ りょうか）
 
-鍵盤手。長野縣人。血型:A型。 喜歡的食物：拉麵、日本酒。綽號「りょうちゃん(ryouchan)」。從小開始學習古典鋼琴，加入Mrs.
-GREEN
-APPLE之後，才開始接觸電子琴。在演唱會上作為炒熱氣氛的存在。國中三年級的時候，曾經代表長野地區參加過全日本吹奏樂的全國大賽。打工經歷：超商、居酒屋。
+鍵盤手。長野縣人。血型:A型。 喜歡的食物：拉麵、日本酒。綽號「りょうちゃん(ryouchan)」。從小開始學習古典鋼琴，加入Mrs. GREEN APPLE之後，才開始接觸電子琴。在演唱會上作為炒熱氣氛的存在。國中三年級的時候，曾經代表長野地區參加過全日本吹奏樂的全國大賽。打工經歷：超商、居酒屋。
 
   - **髙野清宗**（たかの きよかず）
 
-貝斯手。長野縣人。血型:A型。 對蟲子苦手、酒量很弱。綽號「高氏」(大森命名)。在2014年11月透過熟人介紹，而加入Mrs. GREEN
-APPLE。成員中年紀最大。穿衣品味是全團員公認最糟的。(笑)打工經歷：超商的店員、在暑假期間住進的山奧旅館當工作人員。
+貝斯手。長野縣人。血型:A型。 對蟲子苦手、酒量很弱。綽號「高氏」(大森命名)。在2014年11月透過熟人介紹，而加入Mrs. GREEN APPLE。成員中年紀最大。穿衣品味是全團員公認最糟的。(笑)打工經歷：超商的店員、在暑假期間住進的山奧旅館當工作人員。
 
 ## 經歴
 
@@ -63,14 +49,11 @@ APPLE。成員中年紀最大。穿衣品味是全團員公認最糟的。(笑)�
 
   - 1月13日、第一張專輯『TWELVE』發行。
   - 3月1日到4月10日、舉行了第一次的全國單獨巡迴「TWELVE TOUR 〜春宵一刻とモノテトラ〜」。
-  - 6月13日到6月16日、在東名阪各地的CLUB QUATTRO，展開兩團的對盤巡迴「Mrs. TWOMAN TOUR
-    ～初夏とリンゴとロックバンド～」を。6月13日的名古屋演出，對盤樂團為04 Limited
-    Sazabys、6月14日的大阪演出，對盤樂團為キュウソネコカミ、6月16日的東京演出則是由SAKANAMON作為嘉賓一同演出。
+  - 6月13日到6月16日、在東名阪各地的CLUB QUATTRO，展開兩團的對盤巡迴「Mrs. TWOMAN TOUR ～初夏とリンゴとロックバンド～」を。6月13日的名古屋演出，對盤樂團為04 Limited Sazabys、6月14日的大阪演出，對盤樂團為キュウソネコカミ、6月16日的東京演出則是由SAKANAMON作為嘉賓一同演出。
   - 6月15日、第二張單曲「サママ・フェスティバル\!」發行。
   - 6月19日、「サママ・フェスティバル\!」的發售紀念、在東京都内舉行了，100名限定的招待制演唱會。
   - 7月28日、專輯『TWELVE』的樂譜本發售。
-  - 10月29日、在赤坂BLITZ舉行演出活動「AKASAKA BLITZ HALLOWEEN 2016 ～Mrs. FANCY
-    PARTY～」。
+  - 10月29日、在赤坂BLITZ舉行演出活動「AKASAKA BLITZ HALLOWEEN 2016 ～Mrs. FANCY PARTY～」。
   - 11月2日、第三張單曲「In the Morning」發行。
   - 11月3日、為了紀念第三張單曲發行，在東急プラザ表参道原宿的空中庭園「おもはらの森」舉辦了免費演唱會。
   - 11月20日開始到12月8日、6都市7場演出的單獨巡迴「In the Morning Tour」開始舉行。
@@ -79,14 +62,11 @@ APPLE。成員中年紀最大。穿衣品味是全團員公認最糟的。(笑)�
 
   - 1月11日、第二張專輯『Mrs. GREEN APPLE』發行。
   - 3月1日開始到5月19日、全国20場演出的單獨巡迴「MGA MEET YOU TOUR」開始舉行。
-  - 4月5日、「In the Morning Tour – LIVE at TOKYO DOME CITY HALL
-    20161208」演唱會DVD發行。
+  - 4月5日、「In the Morning Tour – LIVE at TOKYO DOME CITY HALL 20161208」演唱會DVD發行。
   - 5月3日、第四張單曲「どこかで日は昇る」發行。
   - 7月1日、舉行了初次的沖縄演唱會「NAHAHA FESTIVAL\!」。
   - 7月8日和7月15日、舉行了戶外的單獨演唱會「ゼンジン未到とロワジール」。
-  - 8月30日、第五張單曲「WanteD\! WanteD\!」發行。同名歌曲「WanteD\!
-    WanteD\!」是特地為了做為富士電視台播出的電視劇「僕たちがやりました(是我們做的)」片頭曲而寫的。而為卡通「ナナマル
-    サンバツ(猜謎王)」特別量身打造的片頭曲「On My MiND」，也收錄在單曲中。
+  - 8月30日、第五張單曲「WanteD\! WanteD\!」發行。同名歌曲「WanteD\! WanteD\!」是特地為了做為富士電視台播出的電視劇「僕たちがやりました(是我們做的)」片頭曲而寫的。而為卡通「ナナマル サンバツ(猜謎王)」特別量身打造的片頭曲「On My MiND」，也收錄在單曲中。
   - 10月20日到11月12日、舉行了第一次的學園祭巡迴「Mrs. GAKUSAI TOUR」。
   - 12月12日開始到12月20日、舉行了初次的FANCLUB巡迴「RINGO JAM TOUR ～東と名と阪～」。
 
@@ -105,10 +85,16 @@ APPLE。成員中年紀最大。穿衣品味是全團員公認最糟的。(笑)�
   - 10月3日，SCHOOL OF LOCK\! 内「ミセスLOCKS\!」廣播節目，主持一周年。
   - 11月17日到12月25日，即將舉行共17場的LIVEHOUSE巡迴「ゼンジン未到とプロテスト～回帰編～」。
 
+**2019年**
+
+  - [1月9日](../Page/1月9日.md "wikilink")、第八張單曲「[僕のこと](https://zh.wikipedia.org/wiki/僕のこと "wikilink")」、演唱會DVD「ENSEMBLE TOUR 〜ソワレ・ドゥ・ラ・ブリュ〜」發行。
+  - [6月28日](../Page/6月28日.md "wikilink")開始到[8月30日](../Page/8月30日.md "wikilink")、舉行全國HALL單獨巡迴「The ROOM TOUR」。
+  - [4月3日](../Page/4月3日.md "wikilink")、第九張單曲「[ロマンチシズム](https://zh.wikipedia.org/wiki/ロマンチシズム "wikilink")」發行。
+  - [10月2日](../Page/10月2日.md "wikilink")（預定）、第四張專輯「Attitude」將要發行。
+
 ## 團名由来
 
-團名取自於，想加入食物的名稱而選用了GREEN
-APPLE，並加上「Mrs.」帶出中性形象。青蘋果意味著紅蘋果成熟前的此時此刻，也意味著希望能維持初心。
+團名取自於，想加入食物的名稱而選用了GREEN APPLE，並加上「Mrs.」帶出中性形象。青蘋果意味著紅蘋果成熟前的此時此刻，也意味著希望能維持初心。
 
 ## 作品
 
@@ -247,6 +233,32 @@ UPCH-80493【通常盤】</p></td>
 <li>ア・プリオリ</li>
 </ol></td>
 <td><p>14位</p></td>
+</tr>
+<tr class="even">
+<td><p>8th</p></td>
+<td><p><a href="../Page/2019年.md" title="wikilink">2019年</a><a href="../Page/1月9日.md" title="wikilink">1月9日</a></p></td>
+<td><p>僕のこと</p></td>
+<td><p>UPCH-89399【初回限定盤】<br />
+UPCH-80509【通常盤】</p></td>
+<td><ol>
+<li>僕のこと</li>
+<li>灯火</li>
+<li>Folktale</li>
+</ol></td>
+<td><p>4th</p></td>
+</tr>
+<tr class="odd">
+<td><p>9th</p></td>
+<td><p><a href="../Page/2019年.md" title="wikilink">2019年</a><a href="../Page/4月3日.md" title="wikilink">4月3日</a></p></td>
+<td><p>ロマンチシズム</p></td>
+<td><p>UPCH-89403【初回限定盤】<br />
+UPCH-80514【通常盤】</p></td>
+<td><ol>
+<li>ロマンチシズム</li>
+<li>How-to</li>
+<li>月とアネモネ</li>
+</ol></td>
+<td><p>9th</p></td>
 </tr>
 </tbody>
 </table>
@@ -388,7 +400,7 @@ UPCH-20411【通常盤】</p></td>
 <tr class="even">
 <td><p>2nd</p></td>
 <td><p><a href="../Page/2017年.md" title="wikilink">2017年</a><a href="../Page/1月11日.md" title="wikilink">1月11日</a></p></td>
-<td></td>
+<td><p>Mrs. GREEN APPLE</p></td>
 <td><p>UPCH-29244【初回限定盤】<br />
 UPCH-20443【通常盤】</p></td>
 <td><ol>
@@ -422,7 +434,7 @@ UPCH-20443【通常盤】</p></td>
 <tr class="odd">
 <td><p>3rd</p></td>
 <td><p><a href="../Page/2018年.md" title="wikilink">2018年</a><a href="../Page/4月18日.md" title="wikilink">4月18日</a></p></td>
-<td></td>
+<td><p>ENSEMBLE</p></td>
 <td><p>UPCH-29294【初回限定盤】<br />
 UPCH-20483【通常盤】</p></td>
 <td><ol>
@@ -457,10 +469,10 @@ UPCH-20483【通常盤】</p></td>
 <thead>
 <tr class="header">
 <th><p> </p></th>
-<th><p>発売日</p></th>
-<th><p>タイトル</p></th>
-<th><p>規格品番</p></th>
-<th><p>収録曲</p></th>
+<th><p>發售日期</p></th>
+<th><p>標題</p></th>
+<th><p>規格</p></th>
+<th><p>收錄歌曲</p></th>
 </tr>
 </thead>
 <tbody>
@@ -500,10 +512,10 @@ UPXH-20050【Blu-ray】</p></td>
 <table>
 <thead>
 <tr class="header">
-<th><p>発売日</p></th>
-<th><p>タイトル</p></th>
-<th><p>規格品番</p></th>
-<th><p>収録曲</p></th>
+<th><p>發售日期</p></th>
+<th><p>標題</p></th>
+<th><p>規格</p></th>
+<th><p>收錄歌曲</p></th>
 </tr>
 </thead>
 <tbody>
@@ -605,13 +617,14 @@ UPXH-20050【Blu-ray】</p></td>
 </tbody>
 </table>
 
-### 乐曲提供
+### 歌曲提供
 
-| アーティスト                                                          | 曲名                                                                    | 備考         |
-| --------------------------------------------------------------- | --------------------------------------------------------------------- | ---------- |
-| [夢みるアドレセンス](https://zh.wikipedia.org/wiki/夢みるアドレセンス "wikilink") | 「恋のエフェクトMAGIC」                                                        | 作詞作曲（大森元貴） |
-| [私立恵比寿中学](https://zh.wikipedia.org/wiki/私立恵比寿中学 "wikilink")     | 「[シンガロン・シンガソン](https://zh.wikipedia.org/wiki/シンガロン・シンガソン "wikilink")」 | 作詞作曲（大森元貴） |
-|                                                                 |                                                                       |            |
+| 演唱歌手                                                              | 歌名                                                                    | 備註                          |
+| ----------------------------------------------------------------- | --------------------------------------------------------------------- | --------------------------- |
+| [夢みるアドレセンス](https://zh.wikipedia.org/wiki/夢みるアドレセンス "wikilink")   | 「恋のエフェクトMAGIC」                                                        | 作詞作曲（大森元貴）                  |
+| [私立恵比寿中学](https://zh.wikipedia.org/wiki/私立恵比寿中学 "wikilink")       | 「[シンガロン・シンガソン](https://zh.wikipedia.org/wiki/シンガロン・シンガソン "wikilink")」 | 作詞作曲（大森元貴）                  |
+| [Kis-My-Ft2](https://zh.wikipedia.org/wiki/Kis-My-Ft2 "wikilink") | 「[ルラルララ](https://zh.wikipedia.org/wiki/ルラルララ "wikilink")」             | 作詞・作曲・編曲（大森元貴 (編曲由山下洋介一同編曲) |
+|                                                                   |                                                                       |                             |
 
 ## 代言曲目
 
@@ -660,52 +673,80 @@ UPXH-20050【Blu-ray】</p></td>
 <thead>
 <tr class="header">
 <th><p>年</p></th>
-<th><p>日程</p></th>
-<th><p>公演名</p></th>
-<th><p>会場</p></th>
-<th><p>備考</p></th>
+<th><p>時間</p></th>
+<th><p>演唱會名稱</p></th>
+<th><p>會場</p></th>
+<th><p>備註</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>2014</p></td>
 <td><p>7月5日</p></td>
-<td><p><strong>ゼンジン未到とコンフリクト〜前奏編〜</strong></p></td>
-<td><dl>
+<td><p><strong>ゼンジン未到とコンフリクト〜前奏篇〜</strong></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>1公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
 <dt></dt>
 <dd>7月5日 渋谷LUSH
+</div>
+</div>
 </dd>
 </dl></td>
-<td><p>初の自主企画。旧ベース・松尾拓海の脱退を発表。</p></td>
+<td><p>初次的自主企劃。舊貝斯手・松尾拓海發表退出。</p></td>
 </tr>
 <tr class="even">
 <td><p>11月9日</p></td>
-<td><p><strong>ゼンジン未到とパラダイムシフト〜音楽編〜</strong></p></td>
-<td><dl>
+<td><p><strong>ゼンジン未到とパラダイムシフト〜音樂篇〜</strong></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>1公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
 <dt></dt>
 <dd>11月9日 新宿MARZ
+</div>
+</div>
 </dd>
 </dl></td>
-<td><p>自主企画第二弾。現ベース・髙野清宗の加入を発表。</p></td>
+<td><p>第二次的自主企劃。宣布現貝斯手・髙野清宗加入。</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2015</p></td>
 <td><p>3月26日</p></td>
-<td><p><strong>ゼンジン未到とプログレス〜実戦編〜</strong></p></td>
-<td><dl>
+<td><p><strong>ゼンジン未到とプログレス〜實戰篇〜</strong></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>1公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
 <dt></dt>
 <dd>3月26日 新代田FEVER
+</div>
+</div>
 </dd>
 </dl></td>
-<td><p>自主企画第三弾。7月8日にメジャーデビューすることを発表。</p></td>
+<td><p>第三次的自主企劃。發表了將在7月8日主流出道[15]。</p></td>
 </tr>
 <tr class="even">
 <td><p>7月20日</p></td>
-<td><p><strong>「Variety」発売記念パーティー「Variety is Variety」</strong></p></td>
-<td><dl>
+<td><p><strong>「Variety」發售紀念PARTY「Variety is Variety」</strong>[16]</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>1公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
 <dt></dt>
 <dd>7月20日 渋谷eggman
+</div>
+</div>
 </dd>
 </dl></td>
 <td></td>
@@ -715,8 +756,13 @@ UPXH-20050【Blu-ray】</p></td>
 <td><p>8月18日<br />
 -<br />
 10月19日</p></td>
-<td><p><strong>赤と緑のホショクツアー</strong></p></td>
-<td><dl>
+<td><p><strong>赤と緑のホショクツアー</strong>[17]</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>8公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
 <dt></dt>
 <dd>8月18日 福岡graf
 </dd>
@@ -733,37 +779,53 @@ UPXH-20050【Blu-ray】</p></td>
 <dd>9月4日 宮城PARK SQUARE
 </dd>
 <dd>10月19日 渋谷CLUB CRAWL
+</div>
+</div>
 </dd>
 </dl></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/赤色のグリッター" title="wikilink">赤色のグリッターとの対バンツアー</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/赤色のグリッター" title="wikilink">赤色のグリッター對盤巡迴ー</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>9月26日</p></td>
-<td><p><strong>Mrs. ONEMAN LIVE 〜武装と創と造〜</strong></p></td>
-<td><dl>
+<td><p><strong>Mrs. ONEMAN LIVE 〜武装と創と造〜</strong>[18]</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>1公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
 <dt></dt>
 <dd>9月26日 <a href="https://zh.wikipedia.org/wiki/WWW_(ライブハウス)" title="wikilink">渋谷WWW</a>
+</div>
+</div>
 </dd>
 </dl></td>
-<td><p>初のワンマンライブ</p></td>
+<td><p>初次的oneman演出</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>12月16日<br />
 -<br />
 12月24日</p></td>
-<td><p><strong>Mrs. ONEMAN TOUR 〜東と名と阪〜</strong></p></td>
-<td><dl>
+<td><p><strong>Mrs. ONEMAN TOUR 〜東と名と阪〜</strong>[19]</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>3公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
 <dt></dt>
 <dd>12月16日 大阪Music Club JANUS
 </dd>
 <dd>12月17日 名古屋ell.FITS ALL
 </dd>
 <dd>12月24日 恵比寿LIQUIDROOM
+</div>
+</div>
 </dd>
 </dl></td>
-<td><p>東名阪ワンマンツアー</p></td>
+<td><p>東名阪oneman巡迴</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -771,8 +833,13 @@ UPXH-20050【Blu-ray】</p></td>
 <td><p>3月1日<br />
 -<br />
 4月10日</p></td>
-<td><p><strong>TWELVE TOUR 〜春宵一刻とモノテトラ〜</strong></p></td>
-<td><dl>
+<td><p><strong>TWELVE TOUR 〜春宵一刻とモノテトラ〜</strong>[20]</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>14公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
 <dt></dt>
 <dd>3月1日 千葉LOOK
 </dd>
@@ -801,33 +868,49 @@ UPXH-20050【Blu-ray】</p></td>
 <dd>3月31日 名古屋CLUB QUATTRO
 </dd>
 <dd>4月10日 赤坂BLITZ
+</div>
+</div>
 </dd>
 </dl></td>
-<td><p>全国ワンマンツアー</p></td>
+<td><p>全國oneman巡迴</p></td>
 </tr>
 <tr class="odd">
 <td><p>6月13日<br />
 -<br />
 6月16日</p></td>
-<td><p><strong>Mrs. TWOMAN TOUR ～初夏とリンゴとロックバンド～</strong></p></td>
-<td><dl>
+<td><p><strong>Mrs. TWOMAN TOUR ～初夏とリンゴとロックバンド～</strong>[21]</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>3公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
 <dt></dt>
 <dd>6月13日 名古屋CLUB QUATTRO (ゲスト:<a href="https://zh.wikipedia.org/wiki/04_Limited_Sazabys" title="wikilink">04 Limited Sazabys</a>)
 </dd>
 <dd>6月14日 梅田CLUB QUATTRO (ゲスト:<a href="https://zh.wikipedia.org/wiki/キュウソネコカミ" title="wikilink">キュウソネコカミ</a>)
 </dd>
 <dd>6月16日 渋谷CLUB QUATTRO (ゲスト:<a href="https://zh.wikipedia.org/wiki/SAKANAMON" title="wikilink">SAKANAMON</a>)
+</div>
+</div>
 </dd>
 </dl></td>
-<td><p>東名阪CLUB QUATTRO対バンツアー</p></td>
+<td><p>東名阪CLUB QUATTRO對盤巡迴</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>6月19日</p></td>
-<td><p><strong>「サママ・フェスティバル！」発売記念100名限定スペシャルライブ supported by 日本工学院</strong></p></td>
-<td><dl>
+<td><p><strong>「サママ・フェスティバル！」發售紀念限定100名特別演唱會 supported by 日本工学院</strong>[22]</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>1公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
 <dt></dt>
 <dd>6月19日 日本工学院専門学校蒲田キャンパス
+</div>
+</div>
 </dd>
 </dl></td>
 <td></td>
@@ -835,21 +918,33 @@ UPXH-20050【Blu-ray】</p></td>
 </tr>
 <tr class="odd">
 <td><p>10月29日</p></td>
-<td><p><strong>AKASAKA BLITZ HALLOWEEN 2016 ～Mrs. FANCY PARTY～</strong></p></td>
-<td><dl>
+<td><p><strong>AKASAKA BLITZ HALLOWEEN 2016 ～Mrs. FANCY PARTY～</strong>[23]</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>1公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
 <dt></dt>
 <dd>10月29日 赤坂BLITZ
+</div>
+</div>
 </dd>
 </dl></td>
-<td><p>赤坂BLITZと共同主催のハロウィンイベント</p></td>
+<td><p>與赤坂BLITZ共同主辦的萬聖節活動</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>11月20日<br />
 -<br />
 12月8日</p></td>
-<td><p><strong>Mrs. GREEN APPLE In the Morning Tour</strong></p></td>
-<td><dl>
+<td><p><strong>Mrs. GREEN APPLE In the Morning Tour</strong>[24]</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>7公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
 <dt></dt>
 <dd>11月20日 札幌PENNY LANE24
 </dd>
@@ -864,9 +959,11 @@ UPXH-20050【Blu-ray】</p></td>
 <dd>12月7日 TOKYO DOME CITY HALL
 </dd>
 <dd>12月8日 TOKYO DOME CITY HALL
+</div>
+</div>
 </dd>
 </dl></td>
-<td><p>6都市7公演のワンマンツアー</p></td>
+<td><p>6個城市7場演出的oneman巡迴</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -874,8 +971,13 @@ UPXH-20050【Blu-ray】</p></td>
 <td><p>3月1日<br />
 -<br />
 5月19日</p></td>
-<td><p><strong>MGA MEET YOU TOUR</strong></p></td>
-<td><dl>
+<td><p><strong>MGA MEET YOU TOUR</strong>[25]</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>20公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
 <dt></dt>
 <dd>3月1日 CLUB CITTA'
 </dd>
@@ -916,42 +1018,63 @@ UPXH-20050【Blu-ray】</p></td>
 <dd>5月14日 宮城電力ホール
 </dd>
 <dd>5月19日 東京国際フォーラム ホールA
+</div>
+</div>
 </dd>
 </dl></td>
-<td><p>全国ワンマンツアー</p></td>
+<td><p>全國oneman巡迴</p></td>
 </tr>
 <tr class="even">
 <td><p>7月1日</p></td>
-<td><p><strong>NAHAHA FESTIVAL!</strong></p></td>
-<td><dl>
+<td><p><strong>NAHAHA FESTIVAL!</strong>[26]</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>1公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
 <dt></dt>
 <dd>7月1日 沖縄桜坂セントラル
+</div>
+</div>
 </dd>
 </dl></td>
-<td><p>初の沖縄公演</p></td>
+<td><p>初次沖繩演出</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>7月8日<br />
 -<br />
 7月15日</p></td>
-<td><p><strong>ゼンジン未到とロワジール</strong></p></td>
-<td><dl>
+<td><p><strong>ゼンジン未到とロワジール</strong>[27]</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>2公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
 <dt></dt>
 <dd>7月8日 大阪城音楽堂
 </dd>
 <dd>7月15日 日比谷野外大音楽堂
+</div>
+</div>
 </dd>
 </dl></td>
-<td><p>野外ワンマンライブ</p></td>
+<td><p>戶外oneman演唱會</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>10月20日<br />
 -<br />
 11月12日</p></td>
-<td><p><strong>Mrs. GAKUSAI TOUR</strong></p></td>
-<td><dl>
+<td><p><strong>Mrs. GAKUSAI TOUR</strong>[28]</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>6公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
 <dt></dt>
 <dd>10月20日 北陸学院大学・北陸学院大学短期大学部
 </dd>
@@ -964,26 +1087,35 @@ UPXH-20050【Blu-ray】</p></td>
 <dd>11月3日 熊本大学
 </dd>
 <dd>11月12日 実践女子大学・実践女子大学短期大学部
+</div>
+</div>
 </dd>
 </dl></td>
-<td><p>学園祭ツアー</p></td>
+<td><p>學園祭巡迴</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>12月12日<br />
 -<br />
 12月20日</p></td>
-<td><p><strong>RINGO JAM TOUR ～東と名と阪～</strong></p></td>
-<td><dl>
+<td><p><strong>RINGO JAM TOUR ～東と名と阪～</strong>[29]</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>3公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
 <dt></dt>
 <dd>12月12日 Zepp Namba
 </dd>
 <dd>12月13日 DIAMOND HALL
 </dd>
 <dd>12月20日 Zepp DiverCity TOKYO
+</div>
+</div>
 </dd>
 </dl></td>
-<td><p>初のファンクラブツアー</p></td>
+<td><p>初次東名阪FC巡迴</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -992,7 +1124,12 @@ UPXH-20050【Blu-ray】</p></td>
 -<br />
 8月4日</p></td>
 <td><p><strong>ENSEMBLE TOUR</strong></p></td>
-<td><dl>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>13公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
 <dt></dt>
 <dd>5月12日 パルテノン多摩
 </dd>
@@ -1019,6 +1156,8 @@ UPXH-20050【Blu-ray】</p></td>
 <dd>7月27日 名古屋国際会議場センチュリーホール
 </dd>
 <dd>8月4日 長野ホクト文化ホール
+</div>
+</div>
 </dd>
 </dl></td>
 <td></td>
@@ -1026,9 +1165,16 @@ UPXH-20050【Blu-ray】</p></td>
 <tr class="odd">
 <td><p>9月8日</p></td>
 <td><p><strong>ENSEMBLE TOUR ～フェット・ドゥ・ラ・ルージュ～</strong></p></td>
-<td><dl>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>1公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
 <dt></dt>
 <dd>9月8日 幕張メッセ国際展示場
+</div>
+</div>
 </dd>
 </dl></td>
 <td></td>
@@ -1037,9 +1183,16 @@ UPXH-20050【Blu-ray】</p></td>
 <tr class="even">
 <td><p>9月9日</p></td>
 <td><p><strong>ENSEMBLE TOUR ～ソワレ・ドゥ・ラ・ブリュ～</strong></p></td>
-<td><dl>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>1公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
 <dt></dt>
 <dd>9月9日 幕張メッセ国際展示場
+</div>
+</div>
 </dd>
 </dl></td>
 <td></td>
@@ -1048,9 +1201,16 @@ UPXH-20050【Blu-ray】</p></td>
 <tr class="odd">
 <td><p>9月23日</p></td>
 <td><p><strong>Mrs. ONEMAN LIVE ～青の海と夏～</strong></p></td>
-<td><dl>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>1公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
 <dt></dt>
 <dd>9月23日 沖縄ミュージックタウン音市場
+</div>
+</div>
 </dd>
 </dl></td>
 <td></td>
@@ -1061,7 +1221,12 @@ UPXH-20050【Blu-ray】</p></td>
 -<br />
 12月25日</p></td>
 <td><p><strong>ゼンジン未到とプロテスト〜回帰編〜</strong></p></td>
-<td><dl>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>17公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
 <dt></dt>
 <dd>11月17日 北海道ペニーレーン24
 </dd>
@@ -1096,9 +1261,85 @@ UPXH-20050【Blu-ray】</p></td>
 <dd>12月22日 福岡DRUM LOGOS
 </dd>
 <dd>12月25日 東京CLUB CRAWL
+</div>
+</div>
 </dd>
 </dl></td>
 <td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019</p></td>
+<td><p>6月28日<br />
+-<br />
+8月30日</p></td>
+<td><p><strong>The ROOM TOUR</strong></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>16公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
+<dt></dt>
+<dd>6月28日 神奈川よこすか芸術劇場
+</dd>
+<dd>7月3日 東京NHKホール
+</dd>
+<dd>7月4日 東京NHKホール
+</dd>
+<dd>7月7日 札幌文化芸術劇場hitaru
+</dd>
+<dd>7月27日 岡山市民会館
+</dd>
+<dd>7月28日 香川サンポートホール高松
+</dd>
+<dd>8月1日 名古屋国際会議場センチュリーホール
+</dd>
+<dd>8月2日 名古屋国際会議場センチュリーホール
+</dd>
+<dd>8月4日 仙台サンプラザホール
+</dd>
+<dd>8月14日 大阪フェスティバルホール
+</dd>
+<dd>8月15日 大阪フェスティバルホール
+</dd>
+<dd>8月17日 新潟県民会館
+</dd>
+<dd>8月18日 長野ホクト文化ホール
+</dd>
+<dd>8月23日 福岡サンパレスホテル＆ホール
+</dd>
+<dd>8月24日 福岡サンパレスホテル＆ホール
+</dd>
+<dd>8月30日 広島上野学園ホール
+</div>
+</div>
+</dd>
+</dl></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019-2020</p></td>
+<td><p>12月7日<br />
+-<br />
+2月11日</p></td>
+<td><p><strong>アリーナツアー（仮）</strong></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>4公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
+<dt></dt>
+<dd>12月7日 神奈川横浜アリーナ
+</dd>
+<dd>12月8日 神奈川横浜アリーナ
+</dd>
+<dd>1月23日 愛知ドルフィンズアリーナ
+</dd>
+<dd>2月11日 大阪城ホール
+</dd>
+</dl></td>
 <td></td>
 </tr>
 </tbody>
@@ -1108,120 +1349,110 @@ UPXH-20050【Blu-ray】</p></td>
 
 | 年                                                                                                               | イベントタイトル                                            | 出演日                                                                                     | 備考                                                                                          |
 | --------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| 2014                                                                                                            | MUSIC MONSTERS -2014 summer-\[15\]                  | 8月24日                                                                                   | ライブサーキットイベント                                                                                |
-| LIVE DI:GA JUDGEMENT 2014\[16\]                                                                                 | 12月31日                                              | ライブイベント                                                                                 |                                                                                             |
-| 2015                                                                                                            | MUSIC MONSTERS -2015 winter-\[17\]                  | 2月21日                                                                                   | ライブサーキットイベント                                                                                |
-| rockin'on presents JAPAN'S NEXT vol.8\[18\]                                                                     | 4月11日                                               | ライブイベント                                                                                 |                                                                                             |
-| LIVE SUPERNOVA vol.100\[19\]                                                                                    | 4月15日                                               | ライブイベント                                                                                 |                                                                                             |
-| LIVE∞INFINITY（じゅういち）\[20\]                                                                                      | 4月20日                                               | ライブイベント                                                                                 |                                                                                             |
-| MUSIC LINXS vol.20\[21\]                                                                                        | 4月28日                                               | ライブイベント                                                                                 |                                                                                             |
-| Niigata Rainbow ROCK Market 2015\[22\]                                                                          | 5月4日                                                | ライブサーキットイベント                                                                            |                                                                                             |
-| スペースシャワー列伝15周年記念公演 第126巻 ～光彩陸離の宴～\[23\]                                                                         | 5月13日                                               | ライブイベント                                                                                 |                                                                                             |
-| 柏MUSIC SUN 2015\[24\]                                                                                           | 5月17日                                               | ライブサーキットイベント                                                                            |                                                                                             |
-| HOT STUFF presents Ruby Tuesday\[25\]                                                                           | 5月19日                                               | ライブイベント                                                                                 |                                                                                             |
-| Children of the Revolution\[26\]                                                                                | 5月26日                                               | ライブイベント                                                                                 |                                                                                             |
-| NOrth MUSIC, NOrth LIFE.\[27\]                                                                                  | 5月29日                                               | タワーレコードの仙台進出30周年を記念したライブイベント                                                            |                                                                                             |
-| SAKAE SP-RING 2015\[28\]                                                                                        | 6月6日                                                | ライブサーキットイベント                                                                            |                                                                                             |
-| ツタロック×SHIBUYA TSUTAYA presents SCRAMBLE FES 2015\[29\]                                                          | 6月7日                                                | ライブサーキットイベント                                                                            |                                                                                             |
-| Getting Better Presents "19th Growing Up"\[30\]                                                                 | 6月14日                                               | 片平実主催のライブイベント                                                                           |                                                                                             |
+| 2014                                                                                                            | MUSIC MONSTERS -2014 summer-\[30\]                  | 8月24日                                                                                   | ライブサーキットイベント                                                                                |
+| LIVE DI:GA JUDGEMENT 2014\[31\]                                                                                 | 12月31日                                              | ライブイベント                                                                                 |                                                                                             |
+| 2015                                                                                                            | MUSIC MONSTERS -2015 winter-\[32\]                  | 2月21日                                                                                   | ライブサーキットイベント                                                                                |
+| rockin'on presents JAPAN'S NEXT vol.8\[33\]                                                                     | 4月11日                                               | ライブイベント                                                                                 |                                                                                             |
+| LIVE SUPERNOVA vol.100\[34\]                                                                                    | 4月15日                                               | ライブイベント                                                                                 |                                                                                             |
+| LIVE∞INFINITY（じゅういち）\[35\]                                                                                      | 4月20日                                               | ライブイベント                                                                                 |                                                                                             |
+| MUSIC LINXS vol.20\[36\]                                                                                        | 4月28日                                               | ライブイベント                                                                                 |                                                                                             |
+| Niigata Rainbow ROCK Market 2015\[37\]                                                                          | 5月4日                                                | ライブサーキットイベント                                                                            |                                                                                             |
+| スペースシャワー列伝15周年記念公演 第126巻 ～光彩陸離の宴～\[38\]                                                                         | 5月13日                                               | ライブイベント                                                                                 |                                                                                             |
+| 柏MUSIC SUN 2015\[39\]                                                                                           | 5月17日                                               | ライブサーキットイベント                                                                            |                                                                                             |
+| HOT STUFF presents Ruby Tuesday\[40\]                                                                           | 5月19日                                               | ライブイベント                                                                                 |                                                                                             |
+| Children of the Revolution\[41\]                                                                                | 5月26日                                               | ライブイベント                                                                                 |                                                                                             |
+| NOrth MUSIC, NOrth LIFE.\[42\]                                                                                  | 5月29日                                               | タワーレコードの仙台進出30周年を記念したライブイベント                                                            |                                                                                             |
+| SAKAE SP-RING 2015\[43\]                                                                                        | 6月6日                                                | ライブサーキットイベント                                                                            |                                                                                             |
+| ツタロック×SHIBUYA TSUTAYA presents SCRAMBLE FES 2015\[44\]                                                          | 6月7日                                                | ライブサーキットイベント                                                                            |                                                                                             |
+| Getting Better Presents "19th Growing Up"\[45\]                                                                 | 6月14日                                               | 片平実主催のライブイベント                                                                           |                                                                                             |
 | [見放題](https://zh.wikipedia.org/wiki/見放題 "wikilink")2015                                                         | 7月4日                                                | ライブサーキットイベント                                                                            |                                                                                             |
-| OVERHEAT2015 ～全世代のBPMはじめました～\[31\]                                                                              | 7月11日                                               | ライブイベント                                                                                 |                                                                                             |
-| [ROCK IN JAPAN FESTIVAL](https://zh.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink") 2015\[32\]            | 8月9日                                                | 野外フェス                                                                                   |                                                                                             |
-| [RISING SUN ROCK FESTIVAL](https://zh.wikipedia.org/wiki/RISING_SUN_ROCK_FESTIVAL "wikilink") 2015 in EZO\[33\] | 8月15日                                               | 野外フェス                                                                                   |                                                                                             |
-| SPACE SHOWER SWEET LOVE SHOWER 2015 -20th ANNIVERSARY-\[34\]                                                    | 8月28日                                               | 野外フェス                                                                                   |                                                                                             |
-| [RUSH BALL](https://zh.wikipedia.org/wiki/RUSH_BALL "wikilink") 2015\[35\]                                      | 8月30日                                               | 野外フェス                                                                                   |                                                                                             |
-| MUSIC MONSTERS -2015 summer-\[36\]                                                                              | 8月22日                                               | ライブサーキットイベント                                                                            |                                                                                             |
-| SHOBI THE NIGHT 2015\[37\]                                                                                      | 9月24日                                               | ライブイベント                                                                                 |                                                                                             |
-| MEGA ROCKS 2015\[38\]                                                                                           | 10月3日                                               | ライブサーキットイベント                                                                            |                                                                                             |
-| MINAMI WHEEL 2015\[39\]                                                                                         | 10月10日                                              | ライブサーキットイベント                                                                            |                                                                                             |
-| FM NORTH WAVE & WESS presents IMPACT！IX (Powered By Radio WE\!)\[40\]                                           | 10月24日                                              | ライブイベント                                                                                 |                                                                                             |
-| AKASAKA HALLOWEEN 2015'\[41\]                                                                                   | 10月31日                                              | ライブイベント                                                                                 |                                                                                             |
-| 夢中でがんばれない君へエールを\[42\]                                                                                           | 11月23日                                              | [Suck a Stew Dryのリリースツアー山梨公演](https://zh.wikipedia.org/wiki/Suck_a_Stew_Dry "wikilink") |                                                                                             |
+| OVERHEAT2015 ～全世代のBPMはじめました～\[46\]                                                                              | 7月11日                                               | ライブイベント                                                                                 |                                                                                             |
+| [ROCK IN JAPAN FESTIVAL](https://zh.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink") 2015\[47\]            | 8月9日                                                | 野外フェス                                                                                   |                                                                                             |
+| [RISING SUN ROCK FESTIVAL](https://zh.wikipedia.org/wiki/RISING_SUN_ROCK_FESTIVAL "wikilink") 2015 in EZO\[48\] | 8月15日                                               | 野外フェス                                                                                   |                                                                                             |
+| SPACE SHOWER SWEET LOVE SHOWER 2015 -20th ANNIVERSARY-\[49\]                                                    | 8月28日                                               | 野外フェス                                                                                   |                                                                                             |
+| [RUSH BALL](https://zh.wikipedia.org/wiki/RUSH_BALL "wikilink") 2015\[50\]                                      | 8月30日                                               | 野外フェス                                                                                   |                                                                                             |
+| MUSIC MONSTERS -2015 summer-\[51\]                                                                              | 8月22日                                               | ライブサーキットイベント                                                                            |                                                                                             |
+| SHOBI THE NIGHT 2015\[52\]                                                                                      | 9月24日                                               | ライブイベント                                                                                 |                                                                                             |
+| MEGA ROCKS 2015\[53\]                                                                                           | 10月3日                                               | ライブサーキットイベント                                                                            |                                                                                             |
+| MINAMI WHEEL 2015\[54\]                                                                                         | 10月10日                                              | ライブサーキットイベント                                                                            |                                                                                             |
+| FM NORTH WAVE & WESS presents IMPACT！IX (Powered By Radio WE\!)\[55\]                                           | 10月24日                                              | ライブイベント                                                                                 |                                                                                             |
+| AKASAKA HALLOWEEN 2015'\[56\]                                                                                   | 10月31日                                              | ライブイベント                                                                                 |                                                                                             |
+| 夢中でがんばれない君へエールを\[57\]                                                                                           | 11月23日                                              | [Suck a Stew Dryのリリースツアー山梨公演](https://zh.wikipedia.org/wiki/Suck_a_Stew_Dry "wikilink") |                                                                                             |
 | 11月25日                                                                                                          | Suck a Stew Dryのリリースツアー石川公演                         |                                                                                         |                                                                                             |
-| rockin'on presents JAPAN'S NEXT TURBO\[43\]                                                                     | 11月29日                                              | ライブイベント                                                                                 |                                                                                             |
-| FM802 ROCK FESTIVAL RADIO CRAZY 2015\[44\]                                                                      | 12月28日                                              | フェス                                                                                     |                                                                                             |
-| COUNTDAWN JAPAN 15/16\[45\]                                                                                     | 12月30日                                              | フェス                                                                                     |                                                                                             |
-| 2016                                                                                                            | TOKYO FM ジャパネクレディオライブ powered by EMTG MUSIC\[46\]   | 1月29日                                                                                   | ライブイベント                                                                                     |
-| 1 ON 1 TOUR\[47\]                                                                                               | 2月15日                                               | [Czecho No Republicの対バンツアー愛知公演](../Page/Czecho_No_Republic.md "wikilink")               |                                                                                             |
-| SPACE SHOWER NEW FORCE\[48\]                                                                                    | 2月16日                                               | ライブイベント                                                                                 |                                                                                             |
-| 音楽と人LIVE 2016 東京アコースティック百景\[49\]                                                                                | 4月17日                                               | 大森元貴のみの出演。ライブイベント                                                                       |                                                                                             |
-| ツタロック スペシャルLIVE2016\[50\]                                                                                       | 4月19日                                               | ライブイベント                                                                                 |                                                                                             |
-| ARABAKI ROCK FEST.16\[51\]                                                                                      | 4月30日                                               | 野外フェス                                                                                   |                                                                                             |
-| J-WAVE & Roppongi Hills present TOKYO M.A.P.S SEIJI KAMEDA EDITION\[52\]                                        | 5月4日                                                | フリーライブイベント                                                                              |                                                                                             |
-| JAPAN JAM BEACH 2016\[53\]                                                                                      | 5月5日                                                | 野外フェス                                                                                   |                                                                                             |
-| VIVA LA ROCK 2016\[54\]                                                                                         | 5月29日                                               | フェス                                                                                     |                                                                                             |
-| 百万石音楽祭 2016～ミリオンロックフェスティバル～\[55\]                                                                               | 6月4日                                                | ライブイベント                                                                                 |                                                                                             |
-| [未確認フェスティバル](https://zh.wikipedia.org/wiki/未確認フェスティバル "wikilink")2016 3次審査\[56\]                                | 7月18日                                               | 10代限定の音楽コンテスト「未確認フェスティバル2016」の3次審査、名古屋会場でのライブゲストとして参加                                   |                                                                                             |
-| コカ・コーラSUMMER STATION 音楽LIVE\[57\]                                                                               | 7月20日                                               | イベント「テレビ朝日・六本木ヒルズ 夏祭り SUMMER STATION」内で行われるフリーライブ                                       |                                                                                             |
-| UMK SEAGAIA JamNight 2016 ～40th anniversary～ JukeNight - J-ROCK\&POPS -\[58\]                                   | 7月24日                                               | ライブイベント                                                                                 |                                                                                             |
-| めざましライブ2016\[59\]                                                                                               | 7月27日                                               | イベント「お台場みんなの夢大陸2016」内で行われるライブ                                                           |                                                                                             |
-| ROCK KIDS 802 -OCHIKEN Goes ON                                                                                  | \- SPECIAL LIVE HIGH\! HIGH\! HIGH\!\[60\]          | 7月29日                                                                                   | ライブイベント                                                                                     |
-| ROCK IN JAPAN FESTIVAL 2016\[61\]                                                                               | 8月7日                                                | 野外フェス                                                                                   |                                                                                             |
-| RISING SUN ROCK FESTIVAL 2016 in EZO\[62\]                                                                      | 8月12日                                               | 野外フェス                                                                                   |                                                                                             |
-| WILD BUNCH FEST. 2016\[63\]                                                                                     | 8月20日                                               | 野外フェス                                                                                   |                                                                                             |
-| MONSTER baSH 2016\[64\]                                                                                         | 8月21日                                               | 野外フェス                                                                                   |                                                                                             |
-| SPACE SHOWER SWEET LOVE SHOWER 2016\[65\]                                                                       | 8月26日                                               | 野外フェス                                                                                   |                                                                                             |
-| rockin'on presents JAPAN'S NEXT vol.14\[66\]                                                                    | 9月3日                                                | ライブイベント                                                                                 |                                                                                             |
-| Jumpin'jack 2016\[67\]                                                                                          | 9月29日                                               | ライブイベント                                                                                 |                                                                                             |
-| FM802 MINAMI WHEEL 2016\[68\]                                                                                   | 10月8日                                               | ライブサーキットイベント                                                                            |                                                                                             |
-| TOWER RECORDS presents Bowline 2016 curated by キュウソネコカミ & TOWER RECORDS\[69\]                                   | 10月15日                                              | ライブイベント                                                                                 |                                                                                             |
+| rockin'on presents JAPAN'S NEXT TURBO\[58\]                                                                     | 11月29日                                              | ライブイベント                                                                                 |                                                                                             |
+| FM802 ROCK FESTIVAL RADIO CRAZY 2015\[59\]                                                                      | 12月28日                                              | フェス                                                                                     |                                                                                             |
+| COUNTDAWN JAPAN 15/16\[60\]                                                                                     | 12月30日                                              | フェス                                                                                     |                                                                                             |
+| 2016                                                                                                            | TOKYO FM ジャパネクレディオライブ powered by EMTG MUSIC\[61\]   | 1月29日                                                                                   | ライブイベント                                                                                     |
+| 1 ON 1 TOUR\[62\]                                                                                               | 2月15日                                               | [Czecho No Republicの対バンツアー愛知公演](../Page/Czecho_No_Republic.md "wikilink")               |                                                                                             |
+| SPACE SHOWER NEW FORCE\[63\]                                                                                    | 2月16日                                               | ライブイベント                                                                                 |                                                                                             |
+| 音楽と人LIVE 2016 東京アコースティック百景\[64\]                                                                                | 4月17日                                               | 大森元貴のみの出演。ライブイベント                                                                       |                                                                                             |
+| ツタロック スペシャルLIVE2016\[65\]                                                                                       | 4月19日                                               | ライブイベント                                                                                 |                                                                                             |
+| ARABAKI ROCK FEST.16\[66\]                                                                                      | 4月30日                                               | 野外フェス                                                                                   |                                                                                             |
+| J-WAVE & Roppongi Hills present TOKYO M.A.P.S SEIJI KAMEDA EDITION\[67\]                                        | 5月4日                                                | フリーライブイベント                                                                              |                                                                                             |
+| JAPAN JAM BEACH 2016\[68\]                                                                                      | 5月5日                                                | 野外フェス                                                                                   |                                                                                             |
+| VIVA LA ROCK 2016\[69\]                                                                                         | 5月29日                                               | フェス                                                                                     |                                                                                             |
+| 百万石音楽祭 2016～ミリオンロックフェスティバル～\[70\]                                                                               | 6月4日                                                | ライブイベント                                                                                 |                                                                                             |
+| [未確認フェスティバル](https://zh.wikipedia.org/wiki/未確認フェスティバル "wikilink")2016 3次審査\[71\]                                | 7月18日                                               | 10代限定の音楽コンテスト「未確認フェスティバル2016」の3次審査、名古屋会場でのライブゲストとして参加                                   |                                                                                             |
+| コカ・コーラSUMMER STATION 音楽LIVE\[72\]                                                                               | 7月20日                                               | イベント「テレビ朝日・六本木ヒルズ 夏祭り SUMMER STATION」内で行われるフリーライブ                                       |                                                                                             |
+| UMK SEAGAIA JamNight 2016 ～40th anniversary～ JukeNight - J-ROCK\&POPS -\[73\]                                   | 7月24日                                               | ライブイベント                                                                                 |                                                                                             |
+| めざましライブ2016\[74\]                                                                                               | 7月27日                                               | イベント「お台場みんなの夢大陸2016」内で行われるライブ                                                           |                                                                                             |
+| ROCK KIDS 802 -OCHIKEN Goes ON                                                                                  | \- SPECIAL LIVE HIGH\! HIGH\! HIGH\!\[75\]          | 7月29日                                                                                   | ライブイベント                                                                                     |
+| ROCK IN JAPAN FESTIVAL 2016\[76\]                                                                               | 8月7日                                                | 野外フェス                                                                                   |                                                                                             |
+| RISING SUN ROCK FESTIVAL 2016 in EZO\[77\]                                                                      | 8月12日                                               | 野外フェス                                                                                   |                                                                                             |
+| WILD BUNCH FEST. 2016\[78\]                                                                                     | 8月20日                                               | 野外フェス                                                                                   |                                                                                             |
+| MONSTER baSH 2016\[79\]                                                                                         | 8月21日                                               | 野外フェス                                                                                   |                                                                                             |
+| SPACE SHOWER SWEET LOVE SHOWER 2016\[80\]                                                                       | 8月26日                                               | 野外フェス                                                                                   |                                                                                             |
+| rockin'on presents JAPAN'S NEXT vol.14\[81\]                                                                    | 9月3日                                                | ライブイベント                                                                                 |                                                                                             |
+| Jumpin'jack 2016\[82\]                                                                                          | 9月29日                                               | ライブイベント                                                                                 |                                                                                             |
+| FM802 MINAMI WHEEL 2016\[83\]                                                                                   | 10月8日                                               | ライブサーキットイベント                                                                            |                                                                                             |
+| TOWER RECORDS presents Bowline 2016 curated by キュウソネコカミ & TOWER RECORDS\[84\]                                   | 10月15日                                              | ライブイベント                                                                                 |                                                                                             |
 | 日本工学院専門学校 蒲田校 「かまた祭」                                                                                            | 10月30日                                              | ライブイベント 日本工学院専門学校蒲田校「かまた祭」のライブイベントにShiggy Jr.と共演                                        |                                                                                             |
-| バズリズム LIVE 2016\[70\]                                                                                           | 11月5日                                               | ライブイベント                                                                                 |                                                                                             |
-| FM802 ROCK FESTIVAL RADIO CRAZY 2016\[71\]                                                                      | 12月27日                                              | フェス                                                                                     |                                                                                             |
-| COUNTDOWN JAPAN 16/17\[72\]                                                                                     | 12月28日                                              | フェス                                                                                     |                                                                                             |
-| 2017                                                                                                            | スペースシャワーTV チュートリアルの徳ダネ福キタル♪SPECIAL LIVE Vol.4\[73\] | 2月18日                                                                                   | ライブイベント                                                                                     |
-| TOKYO METROPOLITAN ROCK FESTIVAL 2017\[74\]                                                                     | 5月21日                                               | フェス                                                                                     |                                                                                             |
-| ミュージャック10周年アニバーサリー Livejack Special\[75\]                                                                       | 6月3日                                                | ライブイベント                                                                                 |                                                                                             |
-| 百万石音楽祭 2017～ミリオンロックフェスティバル～\[76\]                                                                               | 6月4日                                                | ライブイベント                                                                                 |                                                                                             |
-| Reborn-Art Festival 2017 × ap bank fes\[77\]                                                                    | 7月30日                                               | ライブイベント                                                                                 |                                                                                             |
+| バズリズム LIVE 2016\[85\]                                                                                           | 11月5日                                               | ライブイベント                                                                                 |                                                                                             |
+| FM802 ROCK FESTIVAL RADIO CRAZY 2016\[86\]                                                                      | 12月27日                                              | フェス                                                                                     |                                                                                             |
+| COUNTDOWN JAPAN 16/17\[87\]                                                                                     | 12月28日                                              | フェス                                                                                     |                                                                                             |
+| 2017                                                                                                            | スペースシャワーTV チュートリアルの徳ダネ福キタル♪SPECIAL LIVE Vol.4\[88\] | 2月18日                                                                                   | ライブイベント                                                                                     |
+| TOKYO METROPOLITAN ROCK FESTIVAL 2017\[89\]                                                                     | 5月21日                                               | フェス                                                                                     |                                                                                             |
+| ミュージャック10周年アニバーサリー Livejack Special\[90\]                                                                       | 6月3日                                                | ライブイベント                                                                                 |                                                                                             |
+| 百万石音楽祭 2017～ミリオンロックフェスティバル～\[91\]                                                                               | 6月4日                                                | ライブイベント                                                                                 |                                                                                             |
+| Reborn-Art Festival 2017 × ap bank fes\[92\]                                                                    | 7月30日                                               | ライブイベント                                                                                 |                                                                                             |
 | GIRLS TUNE FES 2017 by LOWRYS FARM in SUMMER                                                                    | 8月3日                                                | ファッション・音楽イベント                                                                           |                                                                                             |
-| ROCK IN JAPAN FESTIVAL 2017\[78\]                                                                               | 8月12日                                               | フェス                                                                                     |                                                                                             |
-| 僕たちがやりましたpresents 真夏の僕やりNight～“そこそこ”じゃ終わらない、夏～\[79\]                                                            | 8月14日                                               | フジテレビ系ドラマ「[僕たちがやりました](https://zh.wikipedia.org/wiki/僕たちがやりました "wikilink")」のライブイベント      |                                                                                             |
-| [SUMMER SONIC](https://zh.wikipedia.org/wiki/サマーソニック "wikilink") 2017\[80\]                                     | 8月19日                                               | フェス                                                                                     |                                                                                             |
-| RUSH BALL 2017\[81\]                                                                                            | 8月26日                                               | ライブイベント                                                                                 |                                                                                             |
-| 未確認フェスティバル2017 ファイナルステージ\[82\]                                                                                  | 8月27日                                               | 10代限定の音楽コンテスト「未確認フェスティバル2017」ファイナルステージのライブゲストとして参加                                      |                                                                                             |
-| めざましライブ2017\[83\]                                                                                               | 8月29日                                               | イベント「お台場みんなの夢大陸2017」内で行われるライブ                                                           |                                                                                             |
-| TREASURE05X 2017\[84\]                                                                                          | 9月2日                                                | ライブイベント                                                                                 |                                                                                             |
-| マグロック 2017\[85\]                                                                                                | 10月1日                                               | フェス                                                                                     |                                                                                             |
+| ROCK IN JAPAN FESTIVAL 2017\[93\]                                                                               | 8月12日                                               | フェス                                                                                     |                                                                                             |
+| 僕たちがやりましたpresents 真夏の僕やりNight～“そこそこ”じゃ終わらない、夏～\[94\]                                                            | 8月14日                                               | フジテレビ系ドラマ「[僕たちがやりました](https://zh.wikipedia.org/wiki/僕たちがやりました "wikilink")」のライブイベント      |                                                                                             |
+| [SUMMER SONIC](https://zh.wikipedia.org/wiki/サマーソニック "wikilink") 2017\[95\]                                     | 8月19日                                               | フェス                                                                                     |                                                                                             |
+| RUSH BALL 2017\[96\]                                                                                            | 8月26日                                               | ライブイベント                                                                                 |                                                                                             |
+| 未確認フェスティバル2017 ファイナルステージ\[97\]                                                                                  | 8月27日                                               | 10代限定の音楽コンテスト「未確認フェスティバル2017」ファイナルステージのライブゲストとして参加                                      |                                                                                             |
+| めざましライブ2017\[98\]                                                                                               | 8月29日                                               | イベント「お台場みんなの夢大陸2017」内で行われるライブ                                                           |                                                                                             |
+| TREASURE05X 2017\[99\]                                                                                          | 9月2日                                                | ライブイベント                                                                                 |                                                                                             |
+| マグロック 2017\[100\]                                                                                               | 10月1日                                               | フェス                                                                                     |                                                                                             |
 | GIRLS TUNE FES 2017 by LOWRYS FARM                                                                              | 11月1日                                               | ファッション・音楽イベント                                                                           |                                                                                             |
-| バズリズム LIVE 2017\[86\]                                                                                           | 11月4日                                               | ライブイベント                                                                                 |                                                                                             |
-| Jumpin'jack Special 2017\[87\]                                                                                  | 11月28日                                              | ライブイベント                                                                                 |                                                                                             |
-| cross fm 25th Pre-Anniversary RockDaze\! 2017 Xmas Special\[88\]                                                | 12月26日                                              | ライブイベント                                                                                 |                                                                                             |
-| FM802 ROCK FESTIVAL RADIO CRAZY 2017\[89\]                                                                      | 12月28日                                              | フェス                                                                                     |                                                                                             |
-| COUNTDOWN JAPAN 17/18\[90\]                                                                                     | 12月29日                                              | フェス                                                                                     |                                                                                             |
-| 2018                                                                                                            | LIVE SDD 2018\[91\]                                 | 2月17日                                                                                   | [FM OH\!による飲酒運転撲滅プロジェクトが主催するチャリティーライブイベント](https://zh.wikipedia.org/wiki/エフエム大阪 "wikilink") |
-| ROCK KIDS 802-OCHIKEN Goes ON                                                                                   | \- ラジ友 春のオト祭り！～Spark-Ring LIVE～\[92\]               | 3月23日                                                                                   | ライブイベント                                                                                     |
-| J-WAVE LIVE SUMMER JAM 2018 supported by antenna\*\[93\]                                                        | 7月16日                                               | ライブイベント                                                                                 |                                                                                             |
-| FM802 MEET THE WORLD BEAT 2018\[94\]                                                                            | 7月22日                                               | 野外フリーライブイベント                                                                            |                                                                                             |
-| ROCK IN JAPAN FESTIVAL 2018\[95\]                                                                               | 8月11日                                               | フェス                                                                                     |                                                                                             |
-| テレビ朝日ドリームフェスティバル2018\[96\]                                                                                      | 9月17日                                               | ライブイベント                                                                                 |                                                                                             |
-| インフィニティ ハロウィーンナイト Supported by 「アベンジャーズ／インフィニティ・ウォー」 MovieNEX\[97\]                                             | 10月27日                                              | ライブイベント                                                                                 |                                                                                             |
-| Livejack SPECIAL 2018\[98\]                                                                                     | 11月25日                                              | ライブイベント                                                                                 |                                                                                             |
+| バズリズム LIVE 2017\[101\]                                                                                          | 11月4日                                               | ライブイベント                                                                                 |                                                                                             |
+| Jumpin'jack Special 2017\[102\]                                                                                 | 11月28日                                              | ライブイベント                                                                                 |                                                                                             |
+| cross fm 25th Pre-Anniversary RockDaze\! 2017 Xmas Special\[103\]                                               | 12月26日                                              | ライブイベント                                                                                 |                                                                                             |
+| FM802 ROCK FESTIVAL RADIO CRAZY 2017\[104\]                                                                     | 12月28日                                              | フェス                                                                                     |                                                                                             |
+| COUNTDOWN JAPAN 17/18\[105\]                                                                                    | 12月29日                                              | フェス                                                                                     |                                                                                             |
+| 2018                                                                                                            | LIVE SDD 2018\[106\]                                | 2月17日                                                                                   | [FM OH\!による飲酒運転撲滅プロジェクトが主催するチャリティーライブイベント](https://zh.wikipedia.org/wiki/エフエム大阪 "wikilink") |
+| ROCK KIDS 802-OCHIKEN Goes ON                                                                                   | \- ラジ友 春のオト祭り！～Spark-Ring LIVE～\[107\]              | 3月23日                                                                                   | ライブイベント                                                                                     |
+| J-WAVE LIVE SUMMER JAM 2018 supported by antenna\*\[108\]                                                       | 7月16日                                               | ライブイベント                                                                                 |                                                                                             |
+| FM802 MEET THE WORLD BEAT 2018\[109\]                                                                           | 7月22日                                               | 野外フリーライブイベント                                                                            |                                                                                             |
+| ROCK IN JAPAN FESTIVAL 2018\[110\]                                                                              | 8月11日                                               | フェス                                                                                     |                                                                                             |
+| テレビ朝日ドリームフェスティバル2018\[111\]                                                                                     | 9月17日                                               | ライブイベント                                                                                 |                                                                                             |
+| インフィニティ ハロウィーンナイト Supported by 「アベンジャーズ／インフィニティ・ウォー」 MovieNEX\[112\]                                            | 10月27日                                              | ライブイベント                                                                                 |                                                                                             |
+| Livejack SPECIAL 2018\[113\]                                                                                    | 11月25日                                              | ライブイベント                                                                                 |                                                                                             |
 
 ## 媒体演出
 
 ### 廣播
 
-  - リンゴの語り刻（2014年4月30日 -
-    10月2日、[FMヨコハマ](https://zh.wikipedia.org/wiki/横浜エフエム放送 "wikilink")）
-  - [RADIO DRAGON
-    -NEXT-](https://zh.wikipedia.org/wiki/RADIO_DRAGON "wikilink")
-    内「真夜中のしゃべりんご\!\!」（2015年6月4日 - 7月31日、[TOKYO
-    FM](https://zh.wikipedia.org/wiki/エフエム東京 "wikilink")）\[99\]
-  - Mrs. RADIO JACK（2015年10月1日 -
-    2017年10月3日、[JFN](https://zh.wikipedia.org/wiki/全国FM放送協議会 "wikilink")14局）
-  - [SCHOOL OF LOCK\!](../Page/SCHOOL_OF_LOCK!.md "wikilink")
-    内「[ミセスLOCKS\!](https://zh.wikipedia.org/wiki/ARTIST_LOCKS! "wikilink")」（2017年10月4日
-    -
-    、[JFN](https://zh.wikipedia.org/wiki/全国FM放送協議会 "wikilink")38局）\[100\]
+  - リンゴの語り刻（2014年4月30日 - 10月2日、[FMヨコハマ](https://zh.wikipedia.org/wiki/横浜エフエム放送 "wikilink")）
+  - [RADIO DRAGON -NEXT-](https://zh.wikipedia.org/wiki/RADIO_DRAGON "wikilink") 内「真夜中のしゃべりんご\!\!」（2015年6月4日 - 7月31日、[TOKYO FM](https://zh.wikipedia.org/wiki/エフエム東京 "wikilink")）\[114\]
+  - Mrs. RADIO JACK（2015年10月1日 - 2017年10月3日、[JFN](https://zh.wikipedia.org/wiki/全国FM放送協議会 "wikilink")14局）
+  - [SCHOOL OF LOCK\!](../Page/SCHOOL_OF_LOCK!.md "wikilink") 内「[ミセスLOCKS\!](https://zh.wikipedia.org/wiki/ARTIST_LOCKS! "wikilink")」（2017年10月4日 - 、[JFN](https://zh.wikipedia.org/wiki/全国FM放送協議会 "wikilink")38局）\[115\]
 
 ### 電視節目
 
 #### 綜藝節目
 
-  - [関内デビル](https://zh.wikipedia.org/wiki/関内デビル "wikilink")（2017年10月5日 -
-    、[テレビ神奈川](https://zh.wikipedia.org/wiki/テレビ神奈川 "wikilink")）\[101\] -
-    若井滉斗、藤澤涼架のみ出演
+  - [関内デビル](https://zh.wikipedia.org/wiki/関内デビル "wikilink")（2017年10月5日 - 、[テレビ神奈川](https://zh.wikipedia.org/wiki/テレビ神奈川 "wikilink")）\[116\] - 若井滉斗、藤澤涼架のみ出演
 
 #### CM
 
@@ -1229,15 +1460,13 @@ UPXH-20050【Blu-ray】</p></td>
 
 #### 動畫
 
-  - [ナナマル サンバツ](https://zh.wikipedia.org/wiki/ナナマル_サンバツ "wikilink")
-    第10話（2017年9月5日、[日本テレビ系列](https://zh.wikipedia.org/wiki/日本テレビ "wikilink")）\[102\]
+  - [ナナマル サンバツ](https://zh.wikipedia.org/wiki/ナナマル_サンバツ "wikilink") 第10話（2017年9月5日、[日本テレビ系列](https://zh.wikipedia.org/wiki/日本テレビ "wikilink")）\[117\]
 
 ### 配信
 
   - スペシャアプリ「Mrs. GREEN APPLE MV解禁緊急生配信」(2015年6月17日)
   - Mrs. GREEN APPLE メジャーデビュー記念ツイキャス(2015年7月8日)
-  - スペシャアプリ「赤色のグリッター×Mrs. GREEN
-    APPLE『赤と緑のホショクツアー』開催記念SPECIAL」(2015年7月21日)
+  - スペシャアプリ「赤色のグリッター×Mrs. GREEN APPLE『赤と緑のホショクツアー』開催記念SPECIAL」(2015年7月21日)
   - Mrs. GREEN APPLE presents「Mrs. ONEMAN LIVE ～武装と創と造～」(2015年9月26日)
   - スペシャアプリ「緊急特番！『TWELVE』リリース記念SPECIAL」(2016年1月12日)
   - Mrs. GREEN APPLE「サママ・フェスティバル！」リリース記念トーク番組(2016年6月6日)
@@ -1256,8 +1485,7 @@ UPXH-20050【Blu-ray】</p></td>
 ### バンドスコア
 
   - TWELVE（[シンコーミュージック・エンタテイメント](https://zh.wikipedia.org/wiki/シンコーミュージック・エンタテイメント "wikilink")、2016年7月28日）
-  - Mrs. GREEN
-    APPLE（[シンコーミュージック・エンタテイメント](https://zh.wikipedia.org/wiki/シンコーミュージック・エンタテイメント "wikilink")、2017年6月30日）
+  - Mrs. GREEN APPLE（[シンコーミュージック・エンタテイメント](https://zh.wikipedia.org/wiki/シンコーミュージック・エンタテイメント "wikilink")、2017年6月30日）
 
 ## 参考 
 
@@ -1265,8 +1493,7 @@ UPXH-20050【Blu-ray】</p></td>
 
   - [Mrs. GREEN APPLE](http://mrsgreenapple.com/) - 官方网站
 
-  - [Mrs. GREEN APPLE](http://www.universal-music.co.jp/mrsgreenapple/)
-    - UNIVERSAL MUSIC JAPAN
+  - [Mrs. GREEN APPLE](http://www.universal-music.co.jp/mrsgreenapple/) - UNIVERSAL MUSIC JAPAN
 
   -   -
       -
@@ -1278,11 +1505,7 @@ UPXH-20050【Blu-ray】</p></td>
       -
       -
       -
-[Category:日本摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本摇滚乐团 "wikilink")
-[Category:EMI音樂旗下藝人](https://zh.wikipedia.org/wiki/Category:EMI音樂旗下藝人 "wikilink")
-[Category:環球唱片旗下藝人](https://zh.wikipedia.org/wiki/Category:環球唱片旗下藝人 "wikilink")
-[Category:2013年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2013年成立的音樂團體 "wikilink")
-[Category:SCHOOL_OF_LOCK\!](https://zh.wikipedia.org/wiki/Category:SCHOOL_OF_LOCK! "wikilink")
+[Category:日本摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本摇滚乐团 "wikilink") [Category:EMI音樂旗下藝人](https://zh.wikipedia.org/wiki/Category:EMI音樂旗下藝人 "wikilink") [Category:環球唱片旗下藝人](https://zh.wikipedia.org/wiki/Category:環球唱片旗下藝人 "wikilink") [Category:2013年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2013年成立的音樂團體 "wikilink") [Category:SCHOOL_OF_LOCK\!](https://zh.wikipedia.org/wiki/Category:SCHOOL_OF_LOCK! "wikilink")
 
 1.
 
@@ -1311,33 +1534,20 @@ UPXH-20050【Blu-ray】</p></td>
 14.
 
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
 21.
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.
-
 30.
 
 31.
@@ -1349,9 +1559,7 @@ UPXH-20050【Blu-ray】</p></td>
 34.
 
 35.
-
 36.
-
 37.
 
 38.
@@ -1483,3 +1691,33 @@ UPXH-20050【Blu-ray】</p></td>
 101.
 
 102.
+
+103.
+
+104.
+
+105.
+
+106.
+
+107.
+
+108.
+
+109.
+
+110.
+
+111.
+
+112.
+
+113.
+
+114.
+
+115.
+
+116.
+
+117.

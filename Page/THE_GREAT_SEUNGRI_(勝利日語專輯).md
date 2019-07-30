@@ -1,5 +1,4 @@
-《**THE GREAT
-SEUNGRI**日語專輯》是[勝利在日本發售的第二張日語正規專輯](../Page/勝利_\(歌手\).md "wikilink")，於2018年9月5日在日本推出。
+《**THE GREAT SEUNGRI**日語專輯》是[勝利在日本發售的第二張日語正規專輯](../Page/勝利_\(歌手\).md "wikilink")，於2018年9月5日在日本推出。
 
 ## 概要
 
@@ -7,8 +6,7 @@ SEUNGRI**日語專輯》是[勝利在日本發售的第二張日語正規專輯]
 
 此專輯共分為7種發行版本，包括2種限量盤（為豪華版本）、1種通常盤、1種PlayButton、3種TOUR會場限定盤。
 
-  - 初回生産限定盤『豪華版』3CD+DVD+寫真書（編號：AVCY-58732～4/B）：此版本附特別包裝，內容物含寫真書與小卡，一片收錄10首日文歌曲、一片收錄10首韓文歌曲的CD與一片收錄11首REMIX歌曲的CD，DVD共收錄3部音樂錄影帶、1部音樂錄影帶製作花絮、練習花絮及「V.I
-    FAN MEETING 2012 IN JAPAN」Live影像。
+  - 初回生産限定盤『豪華版』3CD+DVD+寫真書（編號：AVCY-58732～4/B）：此版本附特別包裝，內容物含寫真書與小卡，一片收錄10首日文歌曲、一片收錄10首韓文歌曲的CD與一片收錄11首REMIX歌曲的CD，DVD共收錄3部音樂錄影帶、1部音樂錄影帶製作花絮、練習花絮及「V.I FAN MEETING 2012 IN JAPAN」Live影像。
 
 <!-- end list -->
 
@@ -48,8 +46,7 @@ SEUNGRI**日語專輯》是[勝利在日本發售的第二張日語正規專輯]
   - 02 STRONG BABY (CHOICE37 X HAE remix)
   - 03 YOU HOOOO\!\!\! (BEATRAPPA REMIX)
   - 04 僕を見つめて \[GOTTA TALK TO U\] (BEATRAPPA REMIX)
-  - 05 LET'S TALK ABOUT LOVE feat. G-DRAGON & SOL (from BIGBANG) (TPA
-    REMIX)
+  - 05 LET'S TALK ABOUT LOVE feat. G-DRAGON & SOL (from BIGBANG) (TPA REMIX)
   - 06 MAGIC (PUNCH SOUND (VAN.C) REMIX)
   - 07 I KNOW with May J. (PUNCH SOUND (VAN.C) REMIX)
   - 08 WHITE LOVE (BOYNATION REMIX)
@@ -65,5 +62,4 @@ SEUNGRI**日語專輯》是[勝利在日本發售的第二張日語正規專輯]
 
   -
 
-[Category:2018年音樂專輯](https://zh.wikipedia.org/wiki/Category:2018年音樂專輯 "wikilink")
-[Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink")
+[Category:2018年音樂專輯](https://zh.wikipedia.org/wiki/Category:2018年音樂專輯 "wikilink") [Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink")

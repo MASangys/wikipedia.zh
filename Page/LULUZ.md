@@ -6,8 +6,7 @@
 
 ### 出道前
 
-2014年3月24日，恩絮以本名（恩珠）作為[HOT
-PLACE](../Page/HOT_PLACE.md "wikilink")（前稱**BADKIZ**）第一期成員出道，並於同年8月退出。
+2014年3月24日，恩絮以本名（恩珠）作為[HOT PLACE](../Page/HOT_PLACE.md "wikilink")（前稱**BADKIZ**）第一期成員出道，並於同年8月退出。
 
 ### 2014年
 
@@ -19,7 +18,7 @@ PLACE](../Page/HOT_PLACE.md "wikilink")（前稱**BADKIZ**）第一期成員出�
 
 11月17日，發行首張數位單曲《What Do You Think Of Me?》的音源\[4\]。
 
-11月21日，與同公司的ZEST、[WANNA.B舉行聯合Showcase](../Page/WANNA.B.md "wikilink")，正式出道\[5\]。
+11月21日，與同公司的ZEST、[WANNA.B](../Page/WANNA.B.md "wikilink")舉行聯合Showcase，正式出道\[5\]。
 
 12月3日，公開首張數位單曲《What Do You Think Of Me?》的音樂錄影帶\[6\]。
 
@@ -27,7 +26,7 @@ PLACE](../Page/HOT_PLACE.md "wikilink")（前稱**BADKIZ**）第一期成員出�
 
 2015年1月至3月，LULUZ積極在中國活動。
 
-2015年7月，因為露雅退出、瑞潤和恩絮加入同公司的[WANNA.B重新出道](../Page/WANNA.B.md "wikilink")，LULUZ解散。
+2015年7月，因為露雅退出、瑞潤和恩絮加入同公司的[WANNA.B](../Page/WANNA.B.md "wikilink")重新出道，LULUZ解散。
 
 ## 成員列表
 
@@ -90,10 +89,7 @@ PLACE](../Page/HOT_PLACE.md "wikilink")（前稱**BADKIZ**）第一期成員出�
 
   -
   -
-[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:2014年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年成立的音樂團體 "wikilink")
+[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2014年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年成立的音樂團體 "wikilink")
 
 1.
 2.

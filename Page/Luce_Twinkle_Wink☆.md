@@ -1,5 +1,4 @@
-**Luce Twinkle
-Wink☆**是來自日本的五人偶像團體，事務所為AquaLuna旗下的[ArcJewel](https://zh.wikipedia.org/wiki/ArcJewel "wikilink")，唱片公司為[NBCUniversal](https://zh.wikipedia.org/wiki/NBCUniversal "wikilink")。
+**Luce Twinkle Wink☆**是來自日本的五人偶像團體，事務所為AquaLuna旗下的[ArcJewel](https://zh.wikipedia.org/wiki/ArcJewel "wikilink")，唱片公司為[NBCUniversal](https://zh.wikipedia.org/wiki/NBCUniversal "wikilink")。
 
 ## 概要
 
@@ -13,10 +12,10 @@ Wink☆**是來自日本的五人偶像團體，事務所為AquaLuna旗下的[Ar
 
 #### Arc Jewel
 
-| 編號  | 發售日        | 標題                   | 規格編號     | [Oricon最高排名](../Page/Oricon.md "wikilink") |
-| --- | ---------- | -------------------- | -------- | ------------------------------------------ |
-| 1st | 2014年9月30日 | **刹那ハレーション**         | ARJ-1016 | 9位                                         |
-| 2nd | 2015年3月10日 | **You are a star\!** | ARJ-1019 | 6位                                         |
+| 編號  | 發售日        | 標題                   | 規格編號     | [Oricon](../Page/Oricon.md "wikilink")最高排名\[1\] |
+| --- | ---------- | -------------------- | -------- | ----------------------------------------------- |
+| 1st | 2014年9月30日 | **刹那ハレーション**         | ARJ-1016 | 9位                                              |
+| 2nd | 2015年3月10日 | **You are a star\!** | ARJ-1019 | 6位                                              |
 
 #### NBCUniversal
 
@@ -27,7 +26,7 @@ Wink☆**是來自日本的五人偶像團體，事務所為AquaLuna旗下的[Ar
 <th><p>發售日</p></th>
 <th><p>標題</p></th>
 <th><p>規格編號</p></th>
-<th><p><a href="../Page/Oricon.md" title="wikilink">Oricon最高排名</a></p></th>
+<th><p><a href="../Page/Oricon.md" title="wikilink">Oricon</a>最高排名[2]</p></th>
 </tr>
 </thead>
 <tbody>
@@ -81,7 +80,7 @@ GNCA-0535 (CD+DVD)</p></td>
 
 #### NBCUniversal
 
-| 編號  | 發售日        | 標題        | 規格編號      | [Oricon最高排名](../Page/Oricon.md "wikilink") |
+| 編號  | 發售日        | 標題        | 規格編號      | [Oricon](../Page/Oricon.md "wikilink")最高排名 |
 | --- | ---------- | --------- | --------- | ------------------------------------------ |
 | 1st | 2018年1月10日 | **LLTW☆** | GNCA-1518 | 13位                                        |
 
@@ -105,13 +104,13 @@ GNCA-0535 (CD+DVD)</p></td>
 | **恋のprologue\***            |                                                                                                                               |       |
 | **Symphony**                | OVA『[Nekopara Extra ～小貓之日的約定～](../Page/貓娘樂園.md "wikilink")』主題曲                                                                | 2018年 |
 
+## 參考資料
+
 ## 外部連結
 
   - [ArcJewel](http://arcjewel.com/)
-  - [Luce Twinkle Wink☆ OFFICIAL
-    BLOG](http://ameblo.jp/luce-twinkle-wink/)
-  - [Luce Twinkle Wink☆ NBCUniversal Entertainment Japan OFFICIAL
-    SITE](http://nbcuni-music.com/luce-twinkle-wink/)
+  - [Luce Twinkle Wink☆ OFFICIAL BLOG](http://ameblo.jp/luce-twinkle-wink/)
+  - [Luce Twinkle Wink☆ NBCUniversal Entertainment Japan OFFICIAL SITE](http://nbcuni-music.com/luce-twinkle-wink/)
   - [Luce Twinkle Wink☆ 公式Twitter](https://twitter.com/Luce_TW/)
   - 各成員的Twitter
       -
@@ -119,5 +118,8 @@ GNCA-0535 (CD+DVD)</p></td>
       -
       -
       -
-[Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink")
-[Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")
+[Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink") [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")
+
+1.
+
+2.

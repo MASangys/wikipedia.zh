@@ -1,11 +1,8 @@
-**Stray Kids UNVEIL TOUR 'I
-am…’**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")9人男子組合[Stray
-Kids於](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")2019年舉辦的第一次海外巡迴Showcase。
+**Stray Kids UNVEIL TOUR 'I am…’**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")9人男子組合[Stray Kids於](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")2019年舉辦的第一次海外巡迴Showcase。
 
 ## 概述
 
-2018年11月25日，[JYP娛樂陸續公布](../Page/JYP娛樂.md "wikilink")[Stray
-Kids將於](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")2019年1月19日於[曼谷及](../Page/曼谷.md "wikilink")26日於[雅加達舉行巡迴Showcase](https://zh.wikipedia.org/wiki/雅加達 "wikilink")\[1\]。
+2018年11月25日，[JYP娛樂](../Page/JYP娛樂.md "wikilink")陸續公布[Stray Kids將於](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")2019年1月19日於[曼谷](../Page/曼谷.md "wikilink")及26日於[雅加達舉行巡迴Showcase](https://zh.wikipedia.org/wiki/雅加達 "wikilink")\[1\]。
 
 2019年1月16日公布2月21日[墨爾本及](https://zh.wikipedia.org/wiki/墨爾本 "wikilink")24日[雪梨場次](https://zh.wikipedia.org/wiki/雪梨 "wikilink")。
 
@@ -15,7 +12,7 @@ Kids將於](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")2019年1月19日
 
 因[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")3個場次在開賣一個多小時後隨即售完，2019年3月6日宣布加開5月14日紐華克場次\[2\]。
 
-2019年6月5日公布7月28日[倫敦](https://zh.wikipedia.org/wiki/倫敦 "wikilink")、7月30日[巴黎](../Page/巴黎.md "wikilink")、8月2日[柏林及](../Page/柏林.md "wikilink")8月4日[莫斯科場次](../Page/莫斯科.md "wikilink")。
+2019年6月5日公布7月28日[倫敦](https://zh.wikipedia.org/wiki/倫敦 "wikilink")、7月30日[巴黎](../Page/巴黎.md "wikilink")、8月2日[柏林](../Page/柏林.md "wikilink")及8月4日[莫斯科](../Page/莫斯科.md "wikilink")場次。
 
 ## 巡迴時間表
 
@@ -237,9 +234,7 @@ Kids將於](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")2019年1月19日
 
 <!-- end list -->
 
-  - [Stray
-    Kids](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")（宇珍、方燦、Lee
-    Know、彰彬、鉉辰、Han、Felix、昇玟、I.N）
+  - [Stray Kids](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")（宇珍、方燦、Lee Know、彰彬、鉉辰、Han、Felix、昇玟、I.N）
 
 <!-- end list -->
 
@@ -247,8 +242,7 @@ Kids將於](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")2019年1月19日
 
 <!-- end list -->
 
-  - [JYP
-    Entertainment](https://zh.wikipedia.org/wiki/JYP_Entertainment "wikilink")
+  - [JYP Entertainment](https://zh.wikipedia.org/wiki/JYP_Entertainment "wikilink")
 
 <!-- end list -->
 
@@ -270,6 +264,15 @@ Kids將於](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")2019年1月19日
 <!-- end list -->
 
   - 參考資料
+
+## 外部連結
+
+  - [\[Stray Kids : SKZ-TALKER GO\!(슼즈토커 고\!)\] THAILAND](https://www.youtube.com/watch?v=U35ePIHz85Y)
+  - [\[Stray Kids : SKZ-TALKER GO\!(슼즈토커 고\!)\] JAKARTA](https://www.youtube.com/watch?v=T_r2UwItaks)
+  - [\[Stray Kids : SKZ-TALKER GO\!(슼즈토커 고\!)\] MELBOURNE](https://www.youtube.com/watch?v=iRUhVkJoyFU)
+  - [\[Stray Kids : SKZ-TALKER GO\!(슼즈토커 고\!)\] SYDNEY](https://www.youtube.com/watch?v=BPbiILNohjw)
+  - [\[Stray Kids : SKZ-TALKER GO\!(슼즈토커 고\!)\] MANILA](https://www.youtube.com/watch?v=cxt_yYBq694)
+  - [Stray Kids "UNVEIL TOUR in USA"](https://www.youtube.com/watch?v=alkZGnOFw_g)
 
 [Category:Stray_Kids](https://zh.wikipedia.org/wiki/Category:Stray_Kids "wikilink")
 

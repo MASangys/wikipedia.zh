@@ -1,5 +1,4 @@
-是由[ALICESOFT於](../Page/ALICESOFT.md "wikilink")2005年6月17日發售的[角色扮演類型](https://zh.wikipedia.org/wiki/角色扮演遊戲 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")，\[1\]粉紅鐘聲系列第二作。2005年6月17日發售[Fandisc](https://zh.wikipedia.org/wiki/Fandisc "wikilink")《粉紅鐘聲C++》（）\[2\]，2010年12月9日由[5pb.發售](../Page/5pb..md "wikilink")[PlayStation
-Portable版](../Page/PlayStation_Portable.md "wikilink")\[3\]。
+是由[ALICESOFT](../Page/ALICESOFT.md "wikilink")於2005年6月17日發售的[角色扮演類型](https://zh.wikipedia.org/wiki/角色扮演遊戲 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")，\[1\]粉紅鐘聲系列第二作。2005年6月17日發售[Fandisc](https://zh.wikipedia.org/wiki/Fandisc "wikilink")《粉紅鐘聲C++》（）\[2\]，2010年12月9日由[5pb.](../Page/5pb..md "wikilink")發售[PlayStation Portable版](../Page/PlayStation_Portable.md "wikilink")\[3\]。
 
 ## 故事
 
@@ -84,7 +83,7 @@ Portable版](../Page/PlayStation_Portable.md "wikilink")\[3\]。
 <!-- end list -->
 
   -
-    片頭專輯由[Lantis於](../Page/Lantis.md "wikilink")2005年4月27日發售。
+    片頭專輯由[Lantis](../Page/Lantis.md "wikilink")於2005年4月27日發售。
 
 <!-- end list -->
 
@@ -106,8 +105,7 @@ Portable版](../Page/PlayStation_Portable.md "wikilink")\[3\]。
 
 ## 評價
 
-粉紅鐘聲Continue在Getchu.com舉辦的「2005年美少女遊戲排名」中獲得系統部門第7名。\[6\]另外在《[ファミ通](https://zh.wikipedia.org/wiki/ファミ通 "wikilink")》1148號的クロスレビュー對PlayStation
-Portable版給予27/40評分。\[7\]
+粉紅鐘聲Continue在Getchu.com舉辦的「2005年美少女遊戲排名」中獲得系統部門第7名。\[6\]另外在《[ファミ通](https://zh.wikipedia.org/wiki/ファミ通 "wikilink")》1148號的クロスレビュー對PlayStation Portable版給予27/40評分。\[7\]
 
 ## 參考來源
 
@@ -117,14 +115,7 @@ Portable版給予27/40評分。\[7\]
   - [ぱすてるチャイムC++官方網站](https://web.archive.org/web/20090221080052/http://www.alicesoft.com/pastelccplus/index.html)（IP鎖區）
   - [PSP版官方網站](http://5pb.jp/games/pascha/)
 
-[Category:2005年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2005年日本成人遊戲 "wikilink")
-[Category:2010年電子遊戲](https://zh.wikipedia.org/wiki/Category:2010年電子遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:角色扮演遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:PlayStation_Portable遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable遊戲 "wikilink")
-[Category:奇幻電子遊戲](https://zh.wikipedia.org/wiki/Category:奇幻電子遊戲 "wikilink")
-[Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink")
+[Category:2005年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2005年日本成人遊戲 "wikilink") [Category:2010年電子遊戲](https://zh.wikipedia.org/wiki/Category:2010年電子遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:角色扮演遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:PlayStation_Portable遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable遊戲 "wikilink") [Category:奇幻電子遊戲](https://zh.wikipedia.org/wiki/Category:奇幻電子遊戲 "wikilink") [Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink")
 
 1.
 2.

@@ -1,16 +1,12 @@
-《**FLY HIGH PROJECT \#2
-'ROOFTOP**'》是[韓國男子](https://zh.wikipedia.org/wiki/韓國 "wikilink")[流行搖滾](../Page/流行搖滾.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[N.Flying](../Page/N.Flying.md "wikilink")
-第二張數位單曲，於2019年1月2日推出，主打歌曲為〈Rooftop〉。
+《**FLY HIGH PROJECT \#2 'ROOFTOP**'》是[韓國男子](https://zh.wikipedia.org/wiki/韓國 "wikilink")[流行搖滾](../Page/流行搖滾.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[N.Flying](../Page/N.Flying.md "wikilink") 第二張數位單曲，於2019年1月2日推出，主打歌曲為〈Rooftop〉。
 
 ## 簡介
 
 ### 預告
 
-2018年12月24日，經歷前成員光珍退團，回歸四人體制發行「N.Flying FLY HIGH
-PROJECT」企劃第二張數位單曲《Rooftop》，在官方群網站上公開了一張預告照。\[1\]
+2018年12月24日，經歷前成員光珍退團，回歸四人體制發行「N.Flying FLY HIGH PROJECT」企劃第二張數位單曲《Rooftop》，在官方群網站上公開了一張預告照。\[1\]
 
-2018年12月29日，公開風格概念照，並宣布明年1月19日於麻浦區西橋洞 MUV-Hall 舉辦《N.Flying FLY HIGH
-PROJECT NOTE2. 2019》演唱會。\[2\]
+2018年12月29日，公開風格概念照，並宣布明年1月19日於麻浦區西橋洞 MUV-Hall 舉辦《N.Flying FLY HIGH PROJECT NOTE2. 2019》演唱會。\[2\]
 
 2018年12月30日，公開成員個人概念照、首波MV預告。\[3\]\[4\]
 
@@ -18,8 +14,7 @@ PROJECT NOTE2. 2019》演唱會。\[2\]
 
 ### 正式發行
 
-1月2日，韓國時間下午6時，公開第二張數位單曲《**FLY HIGH PROJECT \#2
-'ROOFTOP**'》及主打歌《Rooftop》。
+1月2日，韓國時間下午6時，公開第二張數位單曲《**FLY HIGH PROJECT \#2 'ROOFTOP**'》及主打歌《Rooftop》。
 
 ### 反響
 
@@ -29,7 +24,7 @@ PROJECT NOTE2. 2019》演唱會。\[2\]
 
 2月17日，韓國時間零點整，《Rooftop》突逆襲進入Melon實時榜第97名。 \[6\]\[7\]
 
-2月19日，[N.Flying憑藉](../Page/N.Flying.md "wikilink")《Rooftop》首次獲得音源榜單Bugs實時榜1位。\[8\]
+2月19日，[N.Flying](../Page/N.Flying.md "wikilink")憑藉《Rooftop》首次獲得音源榜單Bugs實時榜1位。\[8\]
 
 2月25日，韓國時間凌晨0點，《Rooftop》在Melon實時榜成功攻下第1名，並連續攻佔實時榜1位達144小時。\[9\]\[10\]
 
@@ -311,14 +306,7 @@ PROJECT NOTE2. 2019》演唱會。\[2\]
   -
   -
   -
-[Category:N.Flying](https://zh.wikipedia.org/wiki/Category:N.Flying "wikilink")
-[Category:2019年单曲](https://zh.wikipedia.org/wiki/Category:2019年单曲 "wikilink")
-[Category:2019年歌曲](https://zh.wikipedia.org/wiki/Category:2019年歌曲 "wikilink")
-[Category:2019年Gaon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2019年Gaon單曲週榜冠軍作品 "wikilink")
-[Category:2019年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2019年Gaon數位下載週榜冠軍作品 "wikilink")
-[Category:2019年Gaon流媒體週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2019年Gaon流媒體週榜冠軍作品 "wikilink")
-[Category:2019年Gaon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2019年Gaon單曲月榜冠軍作品 "wikilink")
-[Category:2019年Gaon流媒體月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2019年Gaon流媒體月榜冠軍作品 "wikilink")
+[Category:N.Flying](https://zh.wikipedia.org/wiki/Category:N.Flying "wikilink") [Category:2019年单曲](https://zh.wikipedia.org/wiki/Category:2019年单曲 "wikilink") [Category:2019年歌曲](https://zh.wikipedia.org/wiki/Category:2019年歌曲 "wikilink") [Category:2019年Gaon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2019年Gaon單曲週榜冠軍作品 "wikilink") [Category:2019年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2019年Gaon數位下載週榜冠軍作品 "wikilink") [Category:2019年Gaon流媒體週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2019年Gaon流媒體週榜冠軍作品 "wikilink") [Category:2019年Gaon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2019年Gaon單曲月榜冠軍作品 "wikilink") [Category:2019年Gaon流媒體月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2019年Gaon流媒體月榜冠軍作品 "wikilink")
 
 1.
 2.
@@ -326,8 +314,7 @@ PROJECT NOTE2. 2019》演唱會。\[2\]
 4.
 5.
 6.
-7.
-    ETtoday星光雲|url=[https://star.ettoday.net/news/1381108|work=star.ettoday.net|accessdate=|language=zh-Hant|last=ETtoday新聞雲|author=|date=|publisher=](https://star.ettoday.net/news/1381108%7Cwork=star.ettoday.net%7Caccessdate=%7Clanguage=zh-Hant%7Clast=ETtoday新聞雲%7Cauthor=%7Cdate=%7Cpublisher=)}}
+7.   ETtoday星光雲|url=[https://star.ettoday.net/news/1381108|work=star.ettoday.net|accessdate=|language=zh-Hant|last=ETtoday新聞雲|author=|date=|publisher=](https://star.ettoday.net/news/1381108%7Cwork=star.ettoday.net%7Caccessdate=%7Clanguage=zh-Hant%7Clast=ETtoday新聞雲%7Cauthor=%7Cdate=%7Cpublisher=)}}
 8.
 9.
 10.

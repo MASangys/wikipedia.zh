@@ -79,8 +79,7 @@ function func.eatlinks(frame)
 `               end`
 `           end`
 `       else`
-`           return '`[`'``   ``..``   ``x``   ``..``
- ``'`](https://zh.wikipedia.org/wiki/'_.._x_.._' "wikilink")`'`
+`           return '`[`'``   ``..``   ``x``   ``..``   ``'`](https://zh.wikipedia.org/wiki/'_.._x_.._' "wikilink")`'`
 `       end`
 `   end))`
 
@@ -105,30 +104,21 @@ function func.eatlinks2(frame)
 `               if text == target then`
 `                   text = string.sub(text, 2)`
 `               end`
-`               return '`[<span style="color:#36b;cursor:pointer;">`'``
- ``..``   ``text``   ``..``
- ``'`</span>](https://zh.wikipedia.org/wiki/'_.._badtarget_.._' "wikilink")`'`
+`               return '`[<span style="color:#36b;cursor:pointer;">`'``   ``..``   ``text``   ``..``   ``'`</span>](https://zh.wikipedia.org/wiki/'_.._badtarget_.._' "wikilink")`'`
 `           else`
 `               if (not mw.title.new(target):getContent()) and (not frame.args['nored']) then`
-`                   return '`[<span style="color:#ba0000;cursor:pointer;">`'``
- ``..``   ``text``   ``..``
- ``'`</span>](https://zh.wikipedia.org/wiki/'_.._badtarget_.._' "wikilink")`'`
+`                   return '`[<span style="color:#ba0000;cursor:pointer;">`'``   ``..``   ``text``   ``..``   ``'`</span>](https://zh.wikipedia.org/wiki/'_.._badtarget_.._' "wikilink")`'`
 `               else`
-`                   return '`[<span style="color:#0645ad;cursor:pointer;">`'``
- ``..``   ``text``   ``..``
- ``'`</span>](https://zh.wikipedia.org/wiki/'_.._badtarget_.._' "wikilink")`'`
+`                   return '`[<span style="color:#0645ad;cursor:pointer;">`'``   ``..``   ``text``   ``..``   ``'`</span>](https://zh.wikipedia.org/wiki/'_.._badtarget_.._' "wikilink")`'`
 `               end`
 `           end`
 `       else`
-`           return '`[`'``   ``..``   ``x``   ``..``
- ``'`](https://zh.wikipedia.org/wiki/'_.._x_.._' "wikilink")`'`
+`           return '`[`'``   ``..``   ``x``   ``..``   ``'`](https://zh.wikipedia.org/wiki/'_.._x_.._' "wikilink")`'`
 `       end`
 `   end))`
 
 `   text = (string.gsub(text, '%[https?://[^\n]- ([^\n]-)%]', function(x)`
-`       return '`[<span style="color:#36b;cursor:pointer;">`'``
- ``..``   ``x``   ``..``
- ``'`</span>](https://zh.wikipedia.org/wiki/'_.._badtarget_.._' "wikilink")`'`
+`       return '`[<span style="color:#36b;cursor:pointer;">`'``   ``..``   ``x``   ``..``   ``'`</span>](https://zh.wikipedia.org/wiki/'_.._badtarget_.._' "wikilink")`'`
 `   end))`
 
 `   return text`

@@ -1,10 +1,8 @@
-是一款[世嘉](../Page/世嘉.md "wikilink")[2018年](../Page/2018年.md "wikilink")11月21日在[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")，[Android](../Page/Android.md "wikilink")，[Microsoft
-Windows等平台上推出的](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[網路遊戲](https://zh.wikipedia.org/wiki/網路遊戲 "wikilink")。採[網路遊戲免費模式](https://zh.wikipedia.org/wiki/網路遊戲免費模式 "wikilink")\[1\]。
+是一款[世嘉](../Page/世嘉.md "wikilink")[2018年](../Page/2018年.md "wikilink")11月21日在[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")，[Android](../Page/Android.md "wikilink")，[Microsoft Windows等平台上推出的](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[網路遊戲](https://zh.wikipedia.org/wiki/網路遊戲 "wikilink")。採[網路遊戲免費模式](https://zh.wikipedia.org/wiki/網路遊戲免費模式 "wikilink")\[1\]。
 
 ## 概要
 
-《[人中之龍6
-生命詩篇。](../Page/人中之龍6_生命詩篇。.md "wikilink")》中，在結束桐生一馬的故事後，本作成為「新・人中之龍計畫」公開後的全新計畫的第1部作品\[2\]。
+《[人中之龍6 生命詩篇。](../Page/人中之龍6_生命詩篇。.md "wikilink")》中，在結束桐生一馬的故事後，本作成為「新・人中之龍計畫」公開後的全新計畫的第1部作品\[2\]。
 
 是以取代桐生成為新主角的「春日一番」為中心的故事，也確認是『6』之後的正式系列續作\[3\]。
 
@@ -28,13 +26,7 @@ Windows等平台上推出的](https://zh.wikipedia.org/wiki/Microsoft_Windows "w
 
   - [人中之龍 ONLINE官方網站](https://ryu-ga-gotoku-online.jp/)
 
-[Category:2018年電子遊戲](https://zh.wikipedia.org/wiki/Category:2018年電子遊戲 "wikilink")
-[Category:人中之龍系列電子遊戲](https://zh.wikipedia.org/wiki/Category:人中之龍系列電子遊戲 "wikilink")
-[Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink")
-[Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:網頁遊戲](https://zh.wikipedia.org/wiki/Category:網頁遊戲 "wikilink")
-[Category:東京背景電子遊戲](https://zh.wikipedia.org/wiki/Category:東京背景電子遊戲 "wikilink")
+[Category:2018年電子遊戲](https://zh.wikipedia.org/wiki/Category:2018年電子遊戲 "wikilink") [Category:人中之龍系列電子遊戲](https://zh.wikipedia.org/wiki/Category:人中之龍系列電子遊戲 "wikilink") [Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink") [Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:網頁遊戲](https://zh.wikipedia.org/wiki/Category:網頁遊戲 "wikilink") [Category:東京背景電子遊戲](https://zh.wikipedia.org/wiki/Category:東京背景電子遊戲 "wikilink")
 
 1.  但遊戲內的物品則採課金制。
 2.

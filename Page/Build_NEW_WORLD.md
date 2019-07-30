@@ -13,8 +13,7 @@ NEW WORLD</p></td>
 </tbody>
 </table>
 
-《*' Build NEW WORLD
-**》（）是特摄片《[假面騎士Build](../Page/假面騎士Build.md "wikilink")》衍生的[錄影帶首映故事系列作品](https://zh.wikipedia.org/wiki/錄影帶首映 "wikilink")，**東映VCINEXT*'的名義系列商品之一。為平成[假面骑士系列的第六系列](https://zh.wikipedia.org/wiki/假面骑士系列 "wikilink")[錄影帶首映作品](https://zh.wikipedia.org/wiki/錄影帶首映 "wikilink")。
+《*' Build NEW WORLD **》（）是特摄片《[假面騎士Build](../Page/假面騎士Build.md "wikilink")》衍生的[錄影帶首映故事系列作品](https://zh.wikipedia.org/wiki/錄影帶首映 "wikilink")，**東映VCINEXT*'的名義系列商品之一。為平成[假面骑士系列的第六系列](https://zh.wikipedia.org/wiki/假面骑士系列 "wikilink")[錄影帶首映作品](https://zh.wikipedia.org/wiki/錄影帶首映 "wikilink")。
 
 ## 概要
 
@@ -34,11 +33,8 @@ NEW WORLD</p></td>
 桐生戰兔所創造的新世界。
 在這的人，對於假面騎士與天空之璧的一切相關記憶皆失，過著和平的日子。戰兔與搭檔·萬丈龍我，一邊記錄著之前世界所發生的事，一邊販賣戰兔的發明生活著。
 就在某日，龍我，與持有著假面騎士Cross-Z記憶的謎之女性·馬渕由衣相遇了。由衣因在之前的世界，知道拋棄人體實驗受害者的Cross-Z就是龍我。
-在此同時，自稱“奇魯巴斯”謎之外星生命體從白色潘朵拉嵌板突然出現，並襲擊戰兔。艾博魯特的哥哥，血族曾經的王奇魯巴斯，以魅力舞蹈家柿崎悟志的樣貌為擬態。同時龍我與由衣也遭遇到襲擊，應戰了奇魯巴斯卻在其壓倒性的力量面前深陷危機。
-但，就在剎那，某人卻保護了龍我。其真面目為——艾博魯特。
-為了將潘朵拉之盒完全復活，並用這個力量毀滅全宇宙的奇魯巴斯。
-因潘朵拉之盒恢復記憶的夥伴們，集中到龍我身邊。龍我與艾博魯特結成奇妙地搭檔，迎戰奇魯巴斯的威脅…！？
-到底龍我能拯救宇宙，能拯救由衣嗎？ 然而，艾博魯特的真正目的為何…？
+在此同時，自稱“奇魯巴斯”謎之外星生命體從白色潘朵拉嵌板突然出現，並襲擊戰兔。艾博魯特的哥哥，血族曾經的王奇魯巴斯，以魅力舞蹈家柿崎悟志的樣貌為擬態。同時龍我與由衣也遭遇到襲擊，應戰了奇魯巴斯卻在其壓倒性的力量面前深陷危機。 但，就在剎那，某人卻保護了龍我。其真面目為——艾博魯特。
+為了將潘朵拉之盒完全復活，並用這個力量毀滅全宇宙的奇魯巴斯。 因潘朵拉之盒恢復記憶的夥伴們，集中到龍我身邊。龍我與艾博魯特結成奇妙地搭檔，迎戰奇魯巴斯的威脅…！？ 到底龍我能拯救宇宙，能拯救由衣嗎？ 然而，艾博魯特的真正目的為何…？
 
 ### 用語
 
@@ -46,15 +42,14 @@ NEW WORLD</p></td>
 
 #### 本作登場人物
 
-**馬渕由衣（）**（[永尾瑪利亞飾](../Page/永尾瑪利亞.md "wikilink")）
+**馬渕由衣（）**（[永尾瑪利亞](../Page/永尾瑪利亞.md "wikilink")飾）
 
   -
     失去記憶的謎之少女，因追尋過去的記憶而意外地出現在萬丈龍我面前。
-    後在潘朵拉之盒的力量下恢復在舊世界的記憶，並得知她與她的學生是因為龍我無視於她的求救聲的關係，而慘遭難波重工捕獲而成為Lost
-    Smash實驗的悲慘犧牲品。
+    後在潘朵拉之盒的力量下恢復在舊世界的記憶，並得知她與她的學生是因為龍我無視於她的求救聲的關係，而慘遭難波重工捕獲而成為Lost Smash實驗的悲慘犧牲品。
     在對戰奇魯巴斯一路過程中，由衣透過戰兔、美空等人相處而漸漸了解龍我，最後與龍我成為了情侶，而她的學生也因為天才滿裝瓶的淨化能力修復了在舊世界造成的傷痛。
 
-**奇魯巴斯（）**（[進藤學飾](https://zh.wikipedia.org/wiki/進藤學 "wikilink")+[勝杏里聲](../Page/勝杏里.md "wikilink")）
+**奇魯巴斯（）**（[進藤學飾](https://zh.wikipedia.org/wiki/進藤學 "wikilink")+[勝杏里](../Page/勝杏里.md "wikilink")聲）
 
   -
     艾博魯特之兄，血族之王，也是**假面騎士Killbus** 的變身者，但根據艾博鲁特的描述，他是个完全只享受破壞的極樂主義者。
@@ -189,7 +184,7 @@ NEW WORLD</p></td>
 
 | 英文名稱         | 日文名稱     | 中文名稱  | 瓶蓋標記 | 類型 | 能力                                                       | 備註                       |
 | ------------ | -------- | ----- | ---- | -- | -------------------------------------------------------- | ------------------------ |
-| KillbaSpider | キルバスパイダー | 基魯巴蜘蛛 | \-   | 生物 | 擁有[蜘蛛般的行動能力](../Page/蜘蛛.md "wikilink")、織網捕捉能力和延伸足部攻擊的能力。 | 此滿裝瓶由基魯巴斯使用自己的特殊能力製作出來的。 |
+| KillbaSpider | キルバスパイダー | 基魯巴蜘蛛 | \-   | 生物 | 擁有[蜘蛛](../Page/蜘蛛.md "wikilink")般的行動能力、織網捕捉能力和延伸足部攻擊的能力。 | 此滿裝瓶由基魯巴斯使用自己的特殊能力製作出來的。 |
 |              |          |       |      |    |                                                          |                          |
 
 ### 本作登場輔助工具
@@ -202,9 +197,7 @@ NEW WORLD</p></td>
     原文： / *Muscle Galaxy FullBottle*
     桐生戰兔藉由艾博鲁特放置在龍進化瓶內的關於萬丈龍我遺傳基因數據所開發擊倒基魯巴斯用的大型瓶型道具，為天才滿裝瓶的改色個體。
     作为假面騎士Cross-Z 的变身道具，配合创造驱动器再结合假面骑士Evol的力量，便可变身成「进化形態（Evol Form）」。
-    按下右侧按鈕後的音效為「Muscle！Fever！」（原文：），變身音效為「Buraa！Ciao！Buraa！Ciao！Buraa！Ciao！Are
-    You
-    Ready？■■！不得了！真不得了！」（原文：）；配合創造驅動器時發動必殺技的音效為「●●Slide！●●Finish！」（原文：）
+    按下右侧按鈕後的音效為「Muscle！Fever！」（原文：），變身音效為「Buraa！Ciao！Buraa！Ciao！Buraa！Ciao！Are You Ready？■■！不得了！真不得了！」（原文：）；配合創造驅動器時發動必殺技的音效為「●●Slide！●●Finish！」（原文：）
 
 <!-- end list -->
 
@@ -216,9 +209,7 @@ NEW WORLD</p></td>
     原文： / *KillbuSpider*
     音效：[金尾哲夫](https://zh.wikipedia.org/wiki/金尾哲夫 "wikilink")
     桐生戰兔在新世界中為繳付倉庫租金費用而研發出來的道具之一，並委託萬丈龍我到跳蚤市場販賣。
-    跟Cross-Z Dragon一樣為自律寵物機件，但性能來說卻比Cross-Z
-    Dragon更強，後在基魯巴斯的力量下啟動並擁有變身功能，也是假面騎士Killbus
-    的變身道具。
+    跟Cross-Z Dragon一樣為自律寵物機件，但性能來說卻比Cross-Z Dragon更強，後在基魯巴斯的力量下啟動並擁有變身功能，也是假面騎士Killbus 的變身道具。
     配合創造驅動器及「基魯巴蜘蛛（KillbuSpider）」滿裝瓶即可變身成假面騎士Killbus「蜘蛛形態（Spider Form）」。
     配合創造驅動器時發動必殺技的音效為「Ready Go！KillbuSpider Finish！」（原文：）。
 
@@ -357,8 +348,7 @@ NEW WORLD</p></td>
   - 原作 - [石之森章太郎](../Page/石之森章太郎.md "wikilink")
   - 劇本 - [武藤將吾](../Page/武藤將吾.md "wikilink")
   - 音楽 - [川井憲次](../Page/川井憲次.md "wikilink")
-  - 導演 -
-    [山口恭平](https://zh.wikipedia.org/wiki/山口恭平 "wikilink")（假面騎士Cross-Z）、[中澤祥次郎](https://zh.wikipedia.org/wiki/中澤祥次郎 "wikilink")（假面騎士Grease）
+  - 導演 - [山口恭平](https://zh.wikipedia.org/wiki/山口恭平 "wikilink")（假面騎士Cross-Z）、[中澤祥次郎](https://zh.wikipedia.org/wiki/中澤祥次郎 "wikilink")（假面騎士Grease）
 
 ## 相關條目
 
@@ -373,12 +363,7 @@ NEW WORLD</p></td>
 
 ## 參考資料
 
-[Category:2019年日本電影](https://zh.wikipedia.org/wiki/Category:2019年日本電影 "wikilink")
-[Category:日本电影作品](https://zh.wikipedia.org/wiki/Category:日本电影作品 "wikilink")
-[Category:日语电影](https://zh.wikipedia.org/wiki/Category:日语电影 "wikilink")
-[Category:假面騎士系列電影作品](https://zh.wikipedia.org/wiki/Category:假面騎士系列電影作品 "wikilink")
-[Category:電視影集衍生作品](https://zh.wikipedia.org/wiki/Category:電視影集衍生作品 "wikilink")
-[Category:外星生命電影](https://zh.wikipedia.org/wiki/Category:外星生命電影 "wikilink")
+[Category:2019年日本電影](https://zh.wikipedia.org/wiki/Category:2019年日本電影 "wikilink") [Category:日本电影作品](https://zh.wikipedia.org/wiki/Category:日本电影作品 "wikilink") [Category:日语电影](https://zh.wikipedia.org/wiki/Category:日语电影 "wikilink") [Category:假面騎士系列電影作品](https://zh.wikipedia.org/wiki/Category:假面騎士系列電影作品 "wikilink") [Category:電視影集衍生作品](https://zh.wikipedia.org/wiki/Category:電視影集衍生作品 "wikilink") [Category:外星生命電影](https://zh.wikipedia.org/wiki/Category:外星生命電影 "wikilink")
 
 1.  劇中直接命名為「仮面ライダークローズエボル」。
 2.  劇中直接命名為「仮面ライダーキルバス」。

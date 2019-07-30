@@ -1,9 +1,6 @@
 \-- -- This module implements many tennis bracket templates --
 
-local p = {} local args = {} local rounds local sets = {} local compact
-local byes local hideSeeds local showSeeds local hideHeadings local
-showThird local offsetThird local compactFinal local RD1seedmap = {}
-local tcats = ''
+local p = {} local args = {} local rounds local sets = {} local compact local byes local hideSeeds local showSeeds local hideHeadings local showThird local offsetThird local compactFinal local RD1seedmap = {} local tcats = ''
 
 local function isnotblank(s)
 
@@ -595,9 +592,4 @@ end
 
 return p
 
-[Category:Pages_using_a_tennis_bracket_with_deprecated_syntax](https://zh.wikipedia.org/wiki/Category:Pages_using_a_tennis_bracket_with_deprecated_syntax "wikilink")
-[Category:Pages_using_a_tennis_bracket_with_deprecated_syntax](https://zh.wikipedia.org/wiki/Category:Pages_using_a_tennis_bracket_with_deprecated_syntax "wikilink")
-[Category:Pages_using_a_tennis_bracket_with_deprecated_syntax](https://zh.wikipedia.org/wiki/Category:Pages_using_a_tennis_bracket_with_deprecated_syntax "wikilink")
-[Category:Pages_using_a_tennis_bracket_with_deprecated_syntax](https://zh.wikipedia.org/wiki/Category:Pages_using_a_tennis_bracket_with_deprecated_syntax "wikilink")
-[Category:Pages_using_a_tennis_bracket_with_deprecated_syntax](https://zh.wikipedia.org/wiki/Category:Pages_using_a_tennis_bracket_with_deprecated_syntax "wikilink")
-[Category:Pages_using_a_team_bracket_with_nbsp](https://zh.wikipedia.org/wiki/Category:Pages_using_a_team_bracket_with_nbsp "wikilink")
+[Category:Pages_using_a_tennis_bracket_with_deprecated_syntax](https://zh.wikipedia.org/wiki/Category:Pages_using_a_tennis_bracket_with_deprecated_syntax "wikilink") [Category:Pages_using_a_tennis_bracket_with_deprecated_syntax](https://zh.wikipedia.org/wiki/Category:Pages_using_a_tennis_bracket_with_deprecated_syntax "wikilink") [Category:Pages_using_a_tennis_bracket_with_deprecated_syntax](https://zh.wikipedia.org/wiki/Category:Pages_using_a_tennis_bracket_with_deprecated_syntax "wikilink") [Category:Pages_using_a_tennis_bracket_with_deprecated_syntax](https://zh.wikipedia.org/wiki/Category:Pages_using_a_tennis_bracket_with_deprecated_syntax "wikilink") [Category:Pages_using_a_tennis_bracket_with_deprecated_syntax](https://zh.wikipedia.org/wiki/Category:Pages_using_a_tennis_bracket_with_deprecated_syntax "wikilink") [Category:Pages_using_a_team_bracket_with_nbsp](https://zh.wikipedia.org/wiki/Category:Pages_using_a_team_bracket_with_nbsp "wikilink")

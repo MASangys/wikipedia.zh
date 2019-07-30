@@ -1,8 +1,6 @@
 ## 汽車鍍膜
 
-“鍍膜”的英文是什麼？在國外Auto Detailing有很多關於技術的詞彙：Car Coating、Ceramic Coating、Nano
-Coating、Crystallized
-Coating等等，但沒有一個可以準確等同“鍍膜”。正因為沒有一個很明確的“國際標準”，於是由中國人命名的各種各樣“鍍膜”產品、“鍍膜服務”遍地開花，似乎只要加上“鍍膜”兩字身價就要飆高：洗車水要改名“鍍膜洗車水”就可以賣貴兩百，普通蠟要改名“鍍膜蠟”，輪胎上光油要改名“車胎鍍膜”，皮seat保護劑要改名“皮革鍍膜”
+“鍍膜”的英文是什麼？在國外Auto Detailing有很多關於技術的詞彙：Car Coating、Ceramic Coating、Nano Coating、Crystallized Coating等等，但沒有一個可以準確等同“鍍膜”。正因為沒有一個很明確的“國際標準”，於是由中國人命名的各種各樣“鍍膜”產品、“鍍膜服務”遍地開花，似乎只要加上“鍍膜”兩字身價就要飆高：洗車水要改名“鍍膜洗車水”就可以賣貴兩百，普通蠟要改名“鍍膜蠟”，輪胎上光油要改名“車胎鍍膜”，皮seat保護劑要改名“皮革鍍膜”
 
 為了分清鍍膜種類，有必要先定義鍍膜。就我所見，鍍膜二字應該有兩層含義：
 
@@ -16,7 +14,6 @@ Coating等等，但沒有一個可以準確等同“鍍膜”。正因為沒有�
 
 ## 外部連結
 
-[黑店恐嚇 Perry Cheung / Gradescoating / 洗鍍Grade S / 洗鍍汽車美容鍍膜店Grade S
-Coating 恐嚇顧客](https://www.youtube.com/watch?v=CD1PHL3CkZQ)
+[黑店恐嚇 Perry Cheung / Gradescoating / 洗鍍Grade S / 洗鍍汽車美容鍍膜店Grade S Coating 恐嚇顧客](https://www.youtube.com/watch?v=CD1PHL3CkZQ)
 
 [:Category:使用创建条目精灵建立的页面](https://zh.wikipedia.org/wiki/Category:使用创建条目精灵建立的页面 "wikilink")

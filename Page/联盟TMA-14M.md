@@ -4,4 +4,12 @@
 
 ## 任务队员
 
-{
+### 后备队员
+
+## 图集
+
+<File:Expedition> 41 Rollout (201409230023HQ).jpg|联盟号火箭正在运往发射台 <File:Expedition> 41 Crew Wave (201409250001HQ).jpg|在登上飞船前，乘员向观众挥手致意 <File:Expedition> 41 Soyuz Launch (201409260002HQ).jpg|点火发射 <File:Expedition> 42 Soyuz TMA-14M Landing (201503120102HQ).jpg|降落 <File:Expedition> 42 Soyuz TMA-14M Landing (201503120103HQ).jpg|降落
+
+## 参考文献
+
+[Category:联盟计划](https://zh.wikipedia.org/wiki/Category:联盟计划 "wikilink") [Category:2014年哈薩克](https://zh.wikipedia.org/wiki/Category:2014年哈薩克 "wikilink") [Category:2014年發射的太空飛行器](https://zh.wikipedia.org/wiki/Category:2014年發射的太空飛行器 "wikilink")

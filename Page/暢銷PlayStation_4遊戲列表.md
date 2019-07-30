@@ -114,8 +114,7 @@
 
 <!-- end list -->
 
-  - [星球大戰 前線
-    (2015年遊戲)](https://zh.wikipedia.org/wiki/星球大戰_前線_\(2015年遊戲\) "wikilink")（810万）
+  - [星球大戰 前線 (2015年遊戲)](https://zh.wikipedia.org/wiki/星球大戰_前線_\(2015年遊戲\) "wikilink")（810万）
 
 <!-- end list -->
 
@@ -227,8 +226,7 @@
 
 <!-- end list -->
 
-  - [Final Fantasy
-    XV](https://zh.wikipedia.org/wiki/Final_Fantasy_XV "wikilink")（510万）
+  - [Final Fantasy XV](https://zh.wikipedia.org/wiki/Final_Fantasy_XV "wikilink")（510万）
 
 <!-- end list -->
 
@@ -236,5 +234,4 @@
 
 ## 參考文獻
 
-[Category:PlayStation_4游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_4游戏 "wikilink")
-[Category:最暢銷電子遊戲列表](https://zh.wikipedia.org/wiki/Category:最暢銷電子遊戲列表 "wikilink")
+[Category:PlayStation_4游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_4游戏 "wikilink") [Category:最暢銷電子遊戲列表](https://zh.wikipedia.org/wiki/Category:最暢銷電子遊戲列表 "wikilink")

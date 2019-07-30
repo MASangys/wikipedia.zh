@@ -1,5 +1,4 @@
-**hitorie**（）是[日本的](../Page/日本.md "wikilink")[摇滚乐队](../Page/摇滚乐.md "wikilink")，其前身Hitori
-Atelier于2011年冬成立，2012年Shinoda加入后改名为hitorie。
+**hitorie**（）是[日本](../Page/日本.md "wikilink")的[摇滚乐](../Page/摇滚乐.md "wikilink")队，其前身Hitori Atelier于2011年冬成立，2012年Shinoda加入后改名为hitorie。
 
 ## 成员
 
@@ -9,7 +8,7 @@ Atelier于2011年冬成立，2012年Shinoda加入后改名为hitorie。
 
   -
     担任主唱和吉他手。
-    同时也是使用[VOCALOID进行创作的P主](../Page/VOCALOID.md "wikilink")。\[1\]
+    同时也是使用[VOCALOID](../Page/VOCALOID.md "wikilink")进行创作的P主。\[1\]
     2019年4月5日，因心臟衰竭過世，享年31歲。\[2\]
 
 <!-- end list -->
@@ -19,7 +18,7 @@ Atelier于2011年冬成立，2012年Shinoda加入后改名为hitorie。
 <!-- end list -->
 
   -
-    担任吉他手。[2012年加入hitorie](../Page/2012年.md "wikilink")。
+    担任吉他手。[2012年](../Page/2012年.md "wikilink")加入hitorie。
     除了乐队活动，还有自己的原创歌曲。他也是以JONNY为名的吉他手，主要以名古屋为中心活动。
 
 <!-- end list -->
@@ -40,7 +39,7 @@ Atelier于2011年冬成立，2012年Shinoda加入后改名为hitorie。
 
   -
     担任鼓手。
-    2009年下半年开始投稿[VOCALOID创作](../Page/VOCALOID.md "wikilink")。
+    2009年下半年开始投稿[VOCALOID](../Page/VOCALOID.md "wikilink")创作。
     参与过[Jin](../Page/Jin_\(日本音樂家\).md "wikilink")（自然之敌P）的作品制作。
 
 ## 参考资料
@@ -63,18 +62,13 @@ Atelier于2011年冬成立，2012年Shinoda加入后改名为hitorie。
   -
 ### 采访
 
-  - [MUSIC FREE
-    MAGAZINE](https://web.archive.org/web/20141112212058/http://2youmag.com/interview/2014/no38/hitorie.html)（2014年1月）
-  - [WHAT's
-    IN?](http://www.whatsin.jp/feature/hitorie_senseless_wonder)（2014年1月）
-  - [HMV ONLINE](http://www.hmv.co.jp/news/article/1312240050/)
-    （2014年1月）
+  - [MUSIC FREE MAGAZINE](https://web.archive.org/web/20141112212058/http://2youmag.com/interview/2014/no38/hitorie.html)（2014年1月）
+  - [WHAT's IN?](http://www.whatsin.jp/feature/hitorie_senseless_wonder)（2014年1月）
+  - [HMV ONLINE](http://www.hmv.co.jp/news/article/1312240050/) （2014年1月）
   - [Skream\!](http://skream.jp/interview/2014/01/hitorie.php)（2014年1月）
   - [natalie](http://natalie.mu/music/pp/hitorie) （2014年2月）
 
-[Category:2011年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2011年成立的音樂團體 "wikilink")
-[Category:日本另类摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本另类摇滚乐团 "wikilink")
-[Category:日本龐克搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本龐克搖滾樂團 "wikilink")
+[Category:2011年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2011年成立的音樂團體 "wikilink") [Category:日本另类摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本另类摇滚乐团 "wikilink") [Category:日本龐克搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本龐克搖滾樂團 "wikilink")
 
 1.
 2.

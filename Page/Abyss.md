@@ -1,7 +1,6 @@
-《**Abyss**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN於](https://zh.wikipedia.org/wiki/tvN "wikilink")2019年5月6日起播出的[月火連續劇](../Page/TvN月火連續劇.md "wikilink")。由《[Oh
-我的鬼神君](../Page/Oh_我的鬼神君.md "wikilink")》的[柳濟元導演與](https://zh.wikipedia.org/wiki/柳濟元 "wikilink")《[沒禮貌的英愛小姐](../Page/沒禮貌的英愛小姐.md "wikilink")》第9、10季的編劇[文秀妍合作打造](https://zh.wikipedia.org/wiki/文秀妍 "wikilink")。講述超頂尖的美女檢察官與奇醜無比的大醜男，因為一個可以讓靈魂重生的寶珠「Abyss」，讓他們的外貌改變，分別變成一個超級平凡女和花美男，並展開一段人生和愛情都重啟的奇幻故事。\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]
+《**Abyss**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN於](https://zh.wikipedia.org/wiki/tvN "wikilink")2019年5月6日起播出的[月火連續劇](../Page/TvN月火連續劇.md "wikilink")。由《[Oh 我的鬼神君](../Page/Oh_我的鬼神君.md "wikilink")》的[柳濟元導演與](https://zh.wikipedia.org/wiki/柳濟元 "wikilink")《[沒禮貌的英愛小姐](../Page/沒禮貌的英愛小姐.md "wikilink")》第9、10季的編劇[文秀妍合作打造](https://zh.wikipedia.org/wiki/文秀妍 "wikilink")。講述超頂尖的美女檢察官與奇醜無比的大醜男，因為一個可以讓靈魂重生的寶珠「Abyss」，讓他們的外貌改變，分別變成一個超級平凡女和花美男，並展開一段人生和愛情都重啟的奇幻故事。\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]
 
-[Netflix於](../Page/Netflix.md "wikilink")5月6日起每週一二全球上線。
+[Netflix](../Page/Netflix.md "wikilink")於5月6日起每週一二全球上線。
 
 ## 演員陣容
 
@@ -261,14 +260,10 @@
 
 ## 同時段競爭作品
 
-  - [KBS](../Page/韓國放送公社.md "wikilink")
-    [月火連續劇](../Page/KBS月火連續劇.md "wikilink")：《[各位國民](../Page/各位國民.md "wikilink")》、《[Perfume](../Page/Perfume_\(韓國電視劇\).md "wikilink")》
-  - [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")
-    [月火連續劇](../Page/MBC月火連續劇.md "wikilink")：《[特別勞動監督官趙掌風](../Page/特別勞動監督官趙掌風.md "wikilink")》、《[檢法男女2](../Page/檢法男女2.md "wikilink")》
-  - [SBS](../Page/SBS_\(韓國\).md "wikilink")
-    [月火連續劇](../Page/SBS月火連續劇.md "wikilink")：《[初次見面我愛你](../Page/初次見面我愛你_\(韓國電視劇\).md "wikilink")》
-  - [JTBC](../Page/JTBC.md "wikilink")
-    [月火連續劇](../Page/JTBC月火連續劇.md "wikilink")：《[加油吧！威基基2](https://zh.wikipedia.org/wiki/加油吧！威基基2 "wikilink")》、《[風在吹](https://zh.wikipedia.org/wiki/風在吹_\(電視劇\) "wikilink")》
+  - [KBS](../Page/韓國放送公社.md "wikilink") [月火連續劇](../Page/KBS月火連續劇.md "wikilink")：《[各位國民](../Page/各位國民.md "wikilink")》、《[Perfume](../Page/Perfume_\(韓國電視劇\).md "wikilink")》
+  - [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") [月火連續劇](../Page/MBC月火連續劇.md "wikilink")：《[特別勞動監督官趙掌風](../Page/特別勞動監督官趙掌風.md "wikilink")》、《[檢法男女2](../Page/檢法男女2.md "wikilink")》
+  - [SBS](../Page/SBS_\(韓國\).md "wikilink") [月火連續劇](../Page/SBS月火連續劇.md "wikilink")：《[初次見面我愛你](../Page/初次見面我愛你_\(韓國電視劇\).md "wikilink")》
+  - [JTBC](../Page/JTBC.md "wikilink") [月火連續劇](../Page/JTBC月火連續劇.md "wikilink")：《[加油吧！威基基2](https://zh.wikipedia.org/wiki/加油吧！威基基2 "wikilink")》、《[風在吹](https://zh.wikipedia.org/wiki/風在吹_\(電視劇\) "wikilink")》
 
 ## 參考資料
 
@@ -277,10 +272,7 @@
   - [韓國tvN官方網站](http://program.tving.com/tvn/abyss)
   - [Abyss-NAVER](https://m.entertain.naver.com/tvBrand/8692982)
 
-[Category:2019年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2019年韓國電視劇集 "wikilink")
-[Category:韓國奇幻劇](https://zh.wikipedia.org/wiki/Category:韓國奇幻劇 "wikilink")
-[Category:韓國愛情劇](https://zh.wikipedia.org/wiki/Category:韓國愛情劇 "wikilink")
-[Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink")
+[Category:2019年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2019年韓國電視劇集 "wikilink") [Category:韓國奇幻劇](https://zh.wikipedia.org/wiki/Category:韓國奇幻劇 "wikilink") [Category:韓國愛情劇](https://zh.wikipedia.org/wiki/Category:韓國愛情劇 "wikilink") [Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink") [Category:變身題材作品](https://zh.wikipedia.org/wiki/Category:變身題材作品 "wikilink") [Category:虛構物品](https://zh.wikipedia.org/wiki/Category:虛構物品 "wikilink")
 
 1.
 2.

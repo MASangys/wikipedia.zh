@@ -11,8 +11,7 @@ local p = {}
 
 }
 
-\-- Local function which is used to retrieve the title text. local
-function getTitleText(args, altText)
+\-- Local function which is used to retrieve the title text. local function getTitleText(args, altText)
 
 `   local titleText = args[2] or args["title_text"]`
 
@@ -30,8 +29,7 @@ function getTitleText(args, altText)
 
 end
 
-\-- Local function which is used to retrieve the alt text. local
-function getAltText(args)
+\-- Local function which is used to retrieve the alt text. local function getAltText(args)
 
 `   local altText = args[1] or args["alt_text"]`
 `   `
@@ -43,8 +41,7 @@ function getAltText(args)
 
 end
 
-\-- Local function which does the actual main process. function
-p._main(args)
+\-- Local function which does the actual main process. function p._main(args)
 
 `   local altText = getAltText(args)`
 `   local titleText = getTitleText(args, altText)`
@@ -53,8 +50,7 @@ p._main(args)
 
 end
 
-\--\[\[ Public function which is used to create information for an empty
-text cell.
+\--\[\[ Public function which is used to create information for an empty text cell.
 
 Parameters:
 

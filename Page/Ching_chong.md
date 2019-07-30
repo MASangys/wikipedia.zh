@@ -1,10 +1,8 @@
-**ching chong**、**ching chang
-chong**是一个[贬义词](https://zh.wikipedia.org/wiki/貶義 "wikilink")，经常被[英语使用者用来嘲弄](../Page/英语.md "wikilink")[汉语使用者](../Page/汉语.md "wikilink")、[华裔甚至其他外貌类似华裔的](../Page/中國人.md "wikilink")[東亞人種](https://zh.wikipedia.org/wiki/東亞人種 "wikilink")。一些评论认为该词语具有侮辱性质，指出有诸多针对东亚人的骚扰、人身恐吓等都伴有种族辱骂和故作模仿中文发音的行为。\[1\]\[2\]
+**ching chong**、**ching chang chong**是一个[贬义词](https://zh.wikipedia.org/wiki/貶義 "wikilink")，经常被[英语](../Page/英语.md "wikilink")使用者用来嘲弄[汉语](../Page/汉语.md "wikilink")使用者、[华裔甚至其他外貌类似华裔的](../Page/中國人.md "wikilink")[東亞人種](https://zh.wikipedia.org/wiki/東亞人種 "wikilink")。一些评论认为该词语具有侮辱性质，指出有诸多针对东亚人的骚扰、人身恐吓等都伴有种族辱骂和故作模仿中文发音的行为。\[1\]\[2\]
 
 ## 词源
 
-对于不会说汉语的英文使用者而言，汉语听起来就像“ching
-chong”一样，其中“ch”这个音来自汉语中大量的[舌冠](../Page/舌冠音.md "wikilink")[塞擦音](https://zh.wikipedia.org/wiki/塞擦音 "wikilink")\[3\]，而“ng”则来自诸多[汉语变体中](../Page/汉语变体.md "wikilink")，许多音节都以鼻音作为尾音\[4\]。
+对于不会说汉语的英文使用者而言，汉语听起来就像“ching chong”一样，其中“ch”这个音来自汉语中大量的[舌冠](../Page/舌冠音.md "wikilink")[塞擦音](https://zh.wikipedia.org/wiki/塞擦音 "wikilink")\[3\]，而“ng”则来自诸多[汉语变体](../Page/汉语变体.md "wikilink")中，许多音节都以鼻音作为尾音\[4\]。
 
 而事實上早在20世紀初，華裔和亞裔的孩子在學校經常會被白人同學用一首兒歌侮辱：
 
@@ -16,11 +14,9 @@ Along came a white man,（遠處過來一個白人）
 
 And chopped off his tail.（剪掉了他的「尾巴」）
 
-清朝時中國人被騙去建鐵路（這條鐵路也是戰爭的成敗關鍵），當中的ching
-chong是帶著擬聲詞和讀音的雙關語，與第二句連起便是去美国修铁路的华工，清朝人當時都是留辮子，这也是儿歌中“tail”的意思。
+清朝時中國人被騙去建鐵路（這條鐵路也是戰爭的成敗關鍵），當中的ching chong是帶著擬聲詞和讀音的雙關語，與第二句連起便是去美国修铁路的华工，清朝人當時都是留辮子，这也是儿歌中“tail”的意思。
 
-另外亦有與此相關的解釋，這個單詞來源於清朝，那時身在美國的福建、廣東一帶的人用自己的口音稱自己是清朝人，在美國人聽來，就是Ching
-Chong的發音了。而清朝給外國人的大致印象就是愚昧又落後，特別清朝人腦袋後留的小辮子。
+另外亦有與此相關的解釋，這個單詞來源於清朝，那時身在美國的福建、廣東一帶的人用自己的口音稱自己是清朝人，在美國人聽來，就是Ching Chong的發音了。而清朝給外國人的大致印象就是愚昧又落後，特別清朝人腦袋後留的小辮子。
 
 ## 參見
 
@@ -41,11 +37,9 @@ Chong的發音了。而清朝給外國人的大致印象就是愚昧又落後，
 
 ## 参考资料
 
-[Category:亚裔美国人问题](https://zh.wikipedia.org/wiki/Category:亚裔美国人问题 "wikilink")
-[Category:汉语](https://zh.wikipedia.org/wiki/Category:汉语 "wikilink")
-[Category:對特定族群或民族的貶稱](https://zh.wikipedia.org/wiki/Category:對特定族群或民族的貶稱 "wikilink")
+[Category:亚裔美国人问题](https://zh.wikipedia.org/wiki/Category:亚裔美国人问题 "wikilink") [Category:汉语](https://zh.wikipedia.org/wiki/Category:汉语 "wikilink") [Category:對特定族群或民族的貶稱](https://zh.wikipedia.org/wiki/Category:對特定族群或民族的貶稱 "wikilink")
 
 1.
 2.
-3.  [官话中有六个音](../Page/官话.md "wikilink")：、、、、、，对应着拼音中的、、、、、，而英文中只有两个：（一般写作）和（写作或，其中只有音出现得较为频繁。
+3.  [官话](../Page/官话.md "wikilink")中有六个音：、、、、、，对应着拼音中的、、、、、，而英文中只有两个：（一般写作）和（写作或，其中只有音出现得较为频繁。
 4.  比如官话中的和，中文罗马字写作。

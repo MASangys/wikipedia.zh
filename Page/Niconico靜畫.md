@@ -20,7 +20,7 @@
 
 ## Niconico漫畫
 
-**Niconico漫畫**（）是由Trista營運的[網絡漫畫服務](../Page/網絡漫畫.md "wikilink")。本服務不僅可以閱讀漫畫，還可以瀏覽漫畫的[留言板](https://zh.wikipedia.org/wiki/留言板 "wikilink")，並與其他用戶分享評論。
+**Niconico漫畫**（）是由Trista營運的[網絡漫畫](../Page/網絡漫畫.md "wikilink")服務。本服務不僅可以閱讀漫畫，還可以瀏覽漫畫的[留言板](https://zh.wikipedia.org/wiki/留言板 "wikilink")，並與其他用戶分享評論。
 
 Niconico漫畫有兩種瀏覽模式，一個是可以在縱向滑動的漫畫中滑動評論的「滑動模式」（），另一個是評論和聲音可以在畫面上自動播放的「Niconico漫畫模式」（）\[2\]。
 
@@ -32,12 +32,11 @@ Niconico漫畫有兩種瀏覽模式，一個是可以在縱向滑動的漫畫中
 
 2013年1月7日，一些漫畫作品開始採用付費制\[5\]。
 
-2015年9月15日，正式發佈[Android版本](../Page/Android.md "wikilink")「」應用程式\[6\]。同年11月13日，發佈[IOS版本](../Page/IOS.md "wikilink")\[7\]。
+2015年9月15日，正式發佈[Android](../Page/Android.md "wikilink")版本「」應用程式\[6\]。同年11月13日，發佈[IOS](../Page/IOS.md "wikilink")版本\[7\]。
 
 2018年4月1日，原營運公司[Dwango因吸收轉讓而轉由](https://zh.wikipedia.org/wiki/Dwango "wikilink")[Trista營運](https://zh.wikipedia.org/wiki/Trista "wikilink")\[8\]。
 
-2018年4月2日，Trista改隸成為[BOOK
-WALKER的旗下完全子公司](https://zh.wikipedia.org/wiki/BOOK_WALKER "wikilink")。
+2018年4月2日，Trista改隸成為[BOOK WALKER的旗下完全子公司](https://zh.wikipedia.org/wiki/BOOK_WALKER "wikilink")。
 
 ## Niconico書籍
 
@@ -57,8 +56,7 @@ WALKER的旗下完全子公司](https://zh.wikipedia.org/wiki/BOOK_WALKER "wikil
 ## 外部連結
 
   -
-[Category:多玩國](https://zh.wikipedia.org/wiki/Category:多玩國 "wikilink")
-[Category:電子書發行服務](https://zh.wikipedia.org/wiki/Category:電子書發行服務 "wikilink")
+[Category:多玩國](https://zh.wikipedia.org/wiki/Category:多玩國 "wikilink") [Category:電子書發行服務](https://zh.wikipedia.org/wiki/Category:電子書發行服務 "wikilink")
 
 1.
 2.

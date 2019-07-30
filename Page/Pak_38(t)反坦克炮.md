@@ -1,12 +1,6 @@
-**4.7 cm KPÚV vz. 38**（捷克语: kan n proti to n vozb vzor
-38）是由斯柯達生產，並在二戰中服役的反坦克炮。
-最初是为捷克斯洛伐克军队设计的，有些还卖给了南斯拉夫。
-德国人在1939年[第一次維也納仲裁后繳獲了它們](https://zh.wikipedia.org/wiki/維也納仲裁裁決 "wikilink")，并以4.7
-cm PaK (t)或 PaK 38(t)的名称使用。 爾後德国继续生产并將PaK
-38(t)安装在[一号坦克的底盘作为坦克殲擊車使用](../Page/一號坦克.md "wikilink")。但在缴获的[雷诺R-35坦克的底盘上安装它尝试卻不太成功](../Page/雷諾R35戰車.md "wikilink")。\[1\]
+**4.7 cm KPÚV vz. 38**（捷克语: kan n proti to n vozb vzor 38）是由斯柯達生產，並在二戰中服役的反坦克炮。 最初是为捷克斯洛伐克军队设计的，有些还卖给了南斯拉夫。 德国人在1939年[第一次維也納仲裁后繳獲了它們](https://zh.wikipedia.org/wiki/維也納仲裁裁決 "wikilink")，并以4.7 cm PaK (t)或 PaK 38(t)的名称使用。 爾後德国继续生产并將PaK 38(t)安装在[一号坦克的底盘作为坦克殲擊車使用](../Page/一號坦克.md "wikilink")。但在缴获的[雷诺R-35坦克的底盘上安装它尝试卻不太成功](../Page/雷諾R35戰車.md "wikilink")。\[1\]
 
-此炮的砲管具有頗有特点，它能够往後摆动180，使砲管平放在炮架上面，而炮架亦可往內折疊來縮小體積以方便運輸。 這門炮還有小炮盾和木辐轮子。
-虽然看起来有点老，但它的性能优于当时的大多数设计，而且这門炮装备了穿甲弹和高爆弹，用于步兵支援。
+此炮的砲管具有頗有特点，它能够往後摆动180，使砲管平放在炮架上面，而炮架亦可往內折疊來縮小體積以方便運輸。 這門炮還有小炮盾和木辐轮子。 虽然看起来有点老，但它的性能优于当时的大多数设计，而且这門炮装备了穿甲弹和高爆弹，用于步兵支援。
 
 ## 性能
 
@@ -41,13 +35,13 @@ cm PaK (t)或 PaK 38(t)的名称使用。 爾後德国继续生产并將PaK
 
 ## 参考文献
 
-  - Gander, T.J. *German Anti-tank Guns 1939-1945*, Almark Publications,
-    1973.  (soft cover)
-  - Gander, Terry and Chamberlain, Peter. *Weapons of the Third Reich:
-    An Encyclopedic Survey of All Small Arms, Artillery and Special
-    Weapons of the German Land Forces 1939-1945*. New
+  - Gander, T.J. *German Anti-tank Guns 1939-1945*, Almark Publications, 1973.  (soft cover)
+  - Gander, Terry and Chamberlain, Peter. *Weapons of the Third Reich: An Encyclopedic Survey of All Small Arms, Artillery and Special Weapons of the German Land Forces 1939-1945*. New York: Doubleday, 1979
+  - Hogg, Ian.*Twentieth-Century Artillery*, Barnes & Noble Books, 2000.
+  - Janoušek, Jiří. *Československé dělostřelectvo 1918-1939*, Corona, 2007.
+  - Jentz, Thomas L. *Panzerjaeger (3.7 cm Tak to Pz.Sfl.Ic): Development and Employment from 1927 to 1941 (Panzer Tracts No. 7-1)* Boyds, MD: Panzer Tracts, 2004.
 
-<!-- end list -->
+[Category:第二次世界大戰德國](https://zh.wikipedia.org/wiki/Category:第二次世界大戰德國 "wikilink") [Category:德國火炮](https://zh.wikipedia.org/wiki/Category:德國火炮 "wikilink") [Category:捷克斯洛伐克军事](https://zh.wikipedia.org/wiki/Category:捷克斯洛伐克军事 "wikilink")
 
 1.  詹茨，第62-63页
 2.

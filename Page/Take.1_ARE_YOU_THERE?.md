@@ -1,7 +1,4 @@
-**Take.1 ARE YOU
-THERE?**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[MONSTA
-X的第二張](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")[韓語正規專輯](https://zh.wikipedia.org/wiki/韓語 "wikilink")，也是《Take》系列的第一部，該專輯共收錄十首歌曲，包括主打曲"SHOOT
-OUT"，於2018年10月22日正式發售\[1\]。
+**Take.1 ARE YOU THERE?**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[MONSTA X的第二張](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")[韓語正規專輯](https://zh.wikipedia.org/wiki/韓語 "wikilink")，也是《Take》系列的第一部，該專輯共收錄十首歌曲，包括主打曲"SHOOT OUT"，於2018年10月22日正式發售\[1\]。
 
 ## 曲目
 
@@ -24,11 +21,7 @@ OUT"，於2018年10月22日正式發售\[1\]。
 
 ## 參考資料
 
-[Category:2018年音樂專輯](https://zh.wikipedia.org/wiki/Category:2018年音樂專輯 "wikilink")
-[Category:MONSTA_X音樂專輯](https://zh.wikipedia.org/wiki/Category:MONSTA_X音樂專輯 "wikilink")
-[Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink")
-[Category:韩国男子团体](https://zh.wikipedia.org/wiki/Category:韩国男子团体 "wikilink")
-[Category:韩语音乐](https://zh.wikipedia.org/wiki/Category:韩语音乐 "wikilink")
+[Category:2018年音樂專輯](https://zh.wikipedia.org/wiki/Category:2018年音樂專輯 "wikilink") [Category:MONSTA_X音樂專輯](https://zh.wikipedia.org/wiki/Category:MONSTA_X音樂專輯 "wikilink") [Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink") [Category:韩国男子团体](https://zh.wikipedia.org/wiki/Category:韩国男子团体 "wikilink") [Category:韩语音乐](https://zh.wikipedia.org/wiki/Category:韩语音乐 "wikilink")
 
 1.
 2.

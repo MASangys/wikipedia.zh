@@ -1,6 +1,4 @@
-**IBSF世界撞球錦標賽**（IBSF World Billiards Championship），舊稱**世界業餘撞球錦標賽**（World
-Amateur Billiards
-Championship），是[英式撞球的首要國際業餘賽事](../Page/英式撞球.md "wikilink")。該活動的歷史可追溯至1951年，自1973年起受到[國際撞球與司諾克聯合會的認可](https://zh.wikipedia.org/wiki/國際撞球與司諾克聯合會 "wikilink")。
+**IBSF世界撞球錦標賽**（IBSF World Billiards Championship），舊稱**世界業餘撞球錦標賽**（World Amateur Billiards Championship），是[英式撞球](../Page/英式撞球.md "wikilink")的首要國際業餘賽事。該活動的歷史可追溯至1951年，自1973年起受到[國際撞球與司諾克聯合會的認可](https://zh.wikipedia.org/wiki/國際撞球與司諾克聯合會 "wikilink")。
 
 ## 歷年決賽結果
 
@@ -475,13 +473,10 @@ Championship），是[英式撞球的首要國際業餘賽事](../Page/英式撞
 
 ## 參考文獻
 
-[Category:英式撞球](https://zh.wikipedia.org/wiki/Category:英式撞球 "wikilink")
-[Category:世界錦標賽](https://zh.wikipedia.org/wiki/Category:世界錦標賽 "wikilink")
+[Category:英式撞球](https://zh.wikipedia.org/wiki/Category:英式撞球 "wikilink") [Category:世界錦標賽](https://zh.wikipedia.org/wiki/Category:世界錦標賽 "wikilink")
 
 1.
-2.  [IBSF World Billiards
-    Championship 2015](http://ibsf.info/index.php?option=com_k2&view=item&id=423:ibsf-world-billiards-accomplished-successfully-at-adelaide&Itemid=187)
-    auf *ibsf.info*. Abgerufen am 5, Oktober 2015,
+2.  [IBSF World Billiards Championship 2015](http://ibsf.info/index.php?option=com_k2&view=item&id=423:ibsf-world-billiards-accomplished-successfully-at-adelaide&Itemid=187) auf *ibsf.info*. Abgerufen am 5, Oktober 2015,
 3.
 4.
 5.

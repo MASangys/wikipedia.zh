@@ -1,9 +1,8 @@
-**dc**（desk
-calculator：桌面计算器）是采用[逆波兰表示法的](../Page/逆波兰表示法.md "wikilink")[跨平台计算器](https://zh.wikipedia.org/wiki/跨平台 "wikilink")，它支持[任意精度算术](../Page/高精度计算.md "wikilink")\[1\]。它是最老的[Unix实用工具](https://zh.wikipedia.org/wiki/Unix "wikilink")，先于[C语言的发明](https://zh.wikipedia.org/wiki/C语言 "wikilink")。像那个年代的其他实用工具一样，它有着一组强力的特征和简洁的语法\[2\]\[3\]。传统上，采用[中缀表示法的](https://zh.wikipedia.org/wiki/中缀表示法 "wikilink")[bc计算器程序是在dc之上实现的](https://zh.wikipedia.org/wiki/bc_\(编程语言\) "wikilink")。
+**dc**（desk calculator：桌面计算器）是采用[逆波兰表示法](../Page/逆波兰表示法.md "wikilink")的[跨平台计算器](https://zh.wikipedia.org/wiki/跨平台 "wikilink")，它支持[任意精度算术](../Page/高精度计算.md "wikilink")\[1\]。它是最老的[Unix实用工具](https://zh.wikipedia.org/wiki/Unix "wikilink")，先于[C语言的发明](https://zh.wikipedia.org/wiki/C语言 "wikilink")。像那个年代的其他实用工具一样，它有着一组强力的特征和简洁的语法\[2\]\[3\]。传统上，采用[中缀表示法的](https://zh.wikipedia.org/wiki/中缀表示法 "wikilink")[bc计算器程序是在dc之上实现的](https://zh.wikipedia.org/wiki/bc_\(编程语言\) "wikilink")。
 
 ## 历史
 
-dc是幸存的最老的[Unix语言](https://zh.wikipedia.org/wiki/Unix "wikilink")。在[贝尔实验室收到第一台](../Page/贝尔实验室.md "wikilink")[PDP-11的时候](../Page/PDP-11.md "wikilink")，用[B语言写成的dc是在这个新机器上运行的第一个语言](https://zh.wikipedia.org/wiki/B语言 "wikilink")，甚至在汇编器之前\[4\]。
+dc是幸存的最老的[Unix语言](https://zh.wikipedia.org/wiki/Unix "wikilink")。在[贝尔实验室](../Page/贝尔实验室.md "wikilink")收到第一台[PDP-11](../Page/PDP-11.md "wikilink")的时候，用[B语言写成的dc是在这个新机器上运行的第一个语言](https://zh.wikipedia.org/wiki/B语言 "wikilink")，甚至在汇编器之前\[4\]。
 
 ## 基本操作
 
@@ -17,8 +16,7 @@ p
 q
 ```
 
-这可转译为“把4和5压入栈顶，通过乘法算符，从栈中弹出两个元素，将二者相乘并把结果压回栈顶”。接着使用`p`命令打印栈顶的元素。使用`q`命令退出此次调用的dc实例。注意数值相互间必须以空白分隔，但某些算符可以不必如此。
-还可以用如下命令得到这个结果：
+这可转译为“把4和5压入栈顶，通过乘法算符，从栈中弹出两个元素，将二者相乘并把结果压回栈顶”。接着使用`p`命令打印栈顶的元素。使用`q`命令退出此次调用的dc实例。注意数值相互间必须以空白分隔，但某些算符可以不必如此。 还可以用如下命令得到这个结果：
 
 ``` console
 $ dc -e '4 5 * p'
@@ -122,7 +120,7 @@ DEADBEEF
 
 ### 迭代
 
-通过定义有条件的调用自身的[递归宏](../Page/递归.md "wikilink")，[迭代也是可行的](../Page/迭代.md "wikilink")。一个简单的对栈顶元素的[阶乘](https://zh.wikipedia.org/wiki/阶乘 "wikilink")[过程](../Page/子程序.md "wikilink")：
+通过定义有条件的调用自身的[递归](../Page/递归.md "wikilink")宏，[迭代](../Page/迭代.md "wikilink")也是可行的。一个简单的对栈顶元素的[阶乘](https://zh.wikipedia.org/wiki/阶乘 "wikilink")[过程](../Page/子程序.md "wikilink")：
 
 ```
  # F(x): return x!
@@ -142,8 +140,7 @@ DEADBEEF
 
 ## 例子
 
-[Unix](https://zh.wikipedia.org/wiki/Unix "wikilink")
-[V7手册页举出的编程实例为打印](https://zh.wikipedia.org/wiki/Version_7_Unix "wikilink")[阶乘](https://zh.wikipedia.org/wiki/阶乘 "wikilink")`n!`的前10个值：
+[Unix](https://zh.wikipedia.org/wiki/Unix "wikilink") [V7手册页举出的编程实例为打印](https://zh.wikipedia.org/wiki/Version_7_Unix "wikilink")[阶乘](https://zh.wikipedia.org/wiki/阶乘 "wikilink")`n!`的前10个值：
 
 ``` console
 $ dc
@@ -174,18 +171,12 @@ lyx
 
 ## 外部链接
 
-  - 软件包[dc](http://packages.debian.org/search?keywords=dc&searchon=names&exact=1&suite=all&section=all)在[Debian
-    GNU/Linux仓库中](https://zh.wikipedia.org/wiki/Debian_GNU/Linux "wikilink")
+  - 软件包[dc](http://packages.debian.org/search?keywords=dc&searchon=names&exact=1&suite=all&section=all)在[Debian GNU/Linux仓库中](https://zh.wikipedia.org/wiki/Debian_GNU/Linux "wikilink")
   - [bc的](https://zh.wikipedia.org/wiki/bc_\(编程语言\) "wikilink")[原生Windows移植](http://gnuwin32.sourceforge.net/packages/bc.htm)包括了dc
   - [嵌入到网页中的dc](http://dc.pr0.uk)
-  - [The unix dc(1) command, this is the esoteric language that "made it
-    big".](https://esolangs.org/wiki/Dc)
+  - [The unix dc(1) command, this is the esoteric language that "made it big".](https://esolangs.org/wiki/Dc)
 
-[Category:跨平台软件](https://zh.wikipedia.org/wiki/Category:跨平台软件 "wikilink")
-[Category:Unix软件](https://zh.wikipedia.org/wiki/Category:Unix软件 "wikilink")
-[Category:软件计算器](https://zh.wikipedia.org/wiki/Category:软件计算器 "wikilink")
-[Category:自由数学软件](https://zh.wikipedia.org/wiki/Category:自由数学软件 "wikilink")
-[Category:数值分析语言](https://zh.wikipedia.org/wiki/Category:数值分析语言 "wikilink")
+[Category:跨平台软件](https://zh.wikipedia.org/wiki/Category:跨平台软件 "wikilink") [Category:Unix软件](https://zh.wikipedia.org/wiki/Category:Unix软件 "wikilink") [Category:软件计算器](https://zh.wikipedia.org/wiki/Category:软件计算器 "wikilink") [Category:自由数学软件](https://zh.wikipedia.org/wiki/Category:自由数学软件 "wikilink") [Category:数值分析语言](https://zh.wikipedia.org/wiki/Category:数值分析语言 "wikilink")
 
 1.
 2.

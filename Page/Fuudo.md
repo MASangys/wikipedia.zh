@@ -1,5 +1,4 @@
-**阿井庆太**（，，游戏ID“”）是一名日本职业电子竞技选手，主要参与格斗游戏《[街头霸王](https://zh.wikipedia.org/wiki/街头霸王系列 "wikilink")》系列的赛事。他从2005年开始参加《[VR战士4](https://zh.wikipedia.org/wiki/VR战士4 "wikilink")》的比赛，并在之后获得了包括[世界电子竞技大赛](../Page/世界电子竞技大赛.md "wikilink")和（EVO）等国际赛事的冠军。他被不少游戏媒体认为是全世界使用最好的选手。目前隶属[Cygames
-Beast战队](https://zh.wikipedia.org/wiki/Cygames_Beast "wikilink")。
+**阿井庆太**（，，游戏ID“”）是一名日本职业电子竞技选手，主要参与格斗游戏《[街头霸王](https://zh.wikipedia.org/wiki/街头霸王系列 "wikilink")》系列的赛事。他从2005年开始参加《[VR战士4](https://zh.wikipedia.org/wiki/VR战士4 "wikilink")》的比赛，并在之后获得了包括[世界电子竞技大赛](../Page/世界电子竞技大赛.md "wikilink")和（EVO）等国际赛事的冠军。他被不少游戏媒体认为是全世界使用最好的选手。目前隶属[Cygames Beast战队](https://zh.wikipedia.org/wiki/Cygames_Beast "wikilink")。
 
 ## 主要成绩
 
@@ -105,10 +104,6 @@ Beast战队](https://zh.wikipedia.org/wiki/Cygames_Beast "wikilink")。
   -
 [Category:日本电玩家](https://zh.wikipedia.org/wiki/Category:日本电玩家 "wikilink")
 
-1.  [Fuudo Wins Super Street Fighter IV Arcade Edition Championship at
-    EVO 2K11](http://www.devicemag.com/2011/08/01/fuudo-wins-super-street-fighter-iv-arcade-edition-championship-at-evo-2k11/).DeviceMagazine.2011-08-01.\[2019-04-27\].
-2.  [Fuudo of Team Razer Takes First in Virtua Fighter 5: Final Showdown
-    at the EVO 2012 World
-    Championships](http://shoryuken.com/2012/07/08/fuudo-of-team-razer-takes-first-in-virtua-fighter-5-final-showdown-at-the-evo-2012-world-championships/).Shoryuken.2012-07-08.\[2019-04-27\].
-3.  [Upsets and close wins make Evo's Street Fighter V finale
-    mesmerizing](https://mashable.com/2016/07/18/evo-street-fighter-grand-finals/#7nHOUiyDc8qP).Mashable.2016-07-18.\[2019-04-28\].
+1.  [Fuudo Wins Super Street Fighter IV Arcade Edition Championship at EVO 2K11](http://www.devicemag.com/2011/08/01/fuudo-wins-super-street-fighter-iv-arcade-edition-championship-at-evo-2k11/).DeviceMagazine.2011-08-01.\[2019-04-27\].
+2.  [Fuudo of Team Razer Takes First in Virtua Fighter 5: Final Showdown at the EVO 2012 World Championships](http://shoryuken.com/2012/07/08/fuudo-of-team-razer-takes-first-in-virtua-fighter-5-final-showdown-at-the-evo-2012-world-championships/).Shoryuken.2012-07-08.\[2019-04-27\].
+3.  [Upsets and close wins make Evo's Street Fighter V finale mesmerizing](https://mashable.com/2016/07/18/evo-street-fighter-grand-finals/#7nHOUiyDc8qP).Mashable.2016-07-18.\[2019-04-28\].

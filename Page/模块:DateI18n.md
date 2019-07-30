@@ -1,17 +1,8 @@
-\--[This module is intended for processing of date strings. Copied from
-https://commons.wikimedia.org/w/index.php?title=Module:Date\&oldid=224728211
-Used by Module:ISOdate, Module:Complex date, Module:WikidataIB Authors
-and maintainers: \* User:Parent5446 - original version of the function
-mimicking template:ISOdate \* User:Jarekt - original version of the
-functions mimicking template:Date and
-template:ISOyear](https://zh.wikipedia.org/wiki/This_module_is_intended_for_processing_of_date_strings._Copied_from_https://commons.wikimedia.org/w/index.php?title=Module:Date&oldid=224728211_Used_by_Module:ISOdate,_Module:Complex_date,_Module:WikidataIB_Authors_and_maintainers:_*_User:Parent5446_-_original_version_of_the_function_mimicking_template:ISOdate_*_User:Jarekt_-_original_version_of_the_functions_mimicking_template:Date_and_template:ISOyear "wikilink")
+\--[This module is intended for processing of date strings. Copied from https://commons.wikimedia.org/w/index.php?title=Module:Date\&oldid=224728211 Used by Module:ISOdate, Module:Complex date, Module:WikidataIB Authors and maintainers: \* User:Parent5446 - original version of the function mimicking template:ISOdate \* User:Jarekt - original version of the functions mimicking template:Date and template:ISOyear](https://zh.wikipedia.org/wiki/This_module_is_intended_for_processing_of_date_strings._Copied_from_https://commons.wikimedia.org/w/index.php?title=Module:Date&oldid=224728211_Used_by_Module:ISOdate,_Module:Complex_date,_Module:WikidataIB_Authors_and_maintainers:_*_User:Parent5446_-_original_version_of_the_function_mimicking_template:ISOdate_*_User:Jarekt_-_original_version_of_the_functions_mimicking_template:Date_and_template:ISOyear "wikilink")
 
 local p = {}
 
-\-- ======================================= -- === Dependencies
-====================== -- ======================================= local
-i18n = require('Module:I18n/date') -- get localized translations of date
-formats local yesno = require('Module:Yesno')
+\-- ======================================= -- === Dependencies ====================== -- ======================================= local i18n = require('Module:I18n/date') -- get localized translations of date formats local yesno = require('Module:Yesno')
 
 local function langSwitch(list,lang)
 
@@ -29,8 +20,7 @@ end
 
 This function can be used to provide an ISOdate template.
 
-Usage:
-{{\#invoke:Date|Date|year=|month=|day=|hour=|minute=|second=|tzhour=|tzmin=|lang=en}}
+Usage: {{\#invoke:Date|Date|year=|month=|day=|hour=|minute=|second=|tzhour=|tzmin=|lang=en}}
 
 Parameters:
 
@@ -188,8 +178,7 @@ function p._Date(datevec, lang, case, class, trim_year)
 `   end `
 
 `   -- Lua only date formating using {{#time}} parser function (new)`
-`       -- prefered call which gives "Lua error: too many language codes requested." on the `[`Module``
- ``talk:Date/sandbox/testcases`](https://zh.wikipedia.org/wiki/Module_talk:Date/sandbox/testcases "wikilink")` page`
+`       -- prefered call which gives "Lua error: too many language codes requested." on the `[`Module``   ``talk:Date/sandbox/testcases`](https://zh.wikipedia.org/wiki/Module_talk:Date/sandbox/testcases "wikilink")` page`
 `       --local datestr = mw.language.new(lang):formatDate( dFormat, timeStamp) `
 `   local datestr = mw.getCurrentFrame():callParserFunction( "#time", { dFormat, timeStamp, lang } )`
 `   `

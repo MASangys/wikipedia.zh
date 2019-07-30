@@ -1,7 +1,4 @@
-**Bird Bare Hare and Fish (バードベアーヘアーアンドフィッシュ)**
-是[日本](../Page/日本.md "wikilink")[北海道出生的四人搖滾樂隊](../Page/北海道.md "wikilink")，成立於2018年。樂團為[Galileo
-Galilei
-(樂團)](../Page/Galileo_Galilei_\(樂團\).md "wikilink")2016年解散後重開的新樂團。
+**Bird Bare Hare and Fish (バードベアーヘアーアンドフィッシュ)** 是[日本](../Page/日本.md "wikilink")[北海道](../Page/北海道.md "wikilink")出生的四人搖滾樂隊，成立於2018年。樂團為[Galileo Galilei (樂團)](../Page/Galileo_Galilei_\(樂團\).md "wikilink")2016年解散後重開的新樂團。
 
 ## 成員
 
@@ -44,8 +41,7 @@ Galilei
 
   - [吉他](../Page/吉他.md "wikilink")、[顫音琴](https://zh.wikipedia.org/wiki/顫音琴 "wikilink")、[鍵盤](https://zh.wikipedia.org/wiki/鍵盤 "wikilink")、技師。
   - 樂團「CURTISS」的主唱以及吉他手。
-  - 為[Galileo Galilei
-    (樂團)巡演時的support吉他手](../Page/Galileo_Galilei_\(樂團\).md "wikilink")。
+  - 為[Galileo Galilei (樂團)巡演時的support吉他手](../Page/Galileo_Galilei_\(樂團\).md "wikilink")。
 
 ## 作品
 

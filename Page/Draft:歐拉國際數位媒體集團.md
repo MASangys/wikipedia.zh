@@ -1,5 +1,4 @@
-**歐拉國際數位媒體集團**，簡稱**Ora
-City，**成立於2010年1月1日，為登記於[英屬維京群島(BVI)之境外公司](../Page/英屬維爾京群島.md "wikilink")，主業為智能科技相關產品[研發與產品](https://zh.wikipedia.org/wiki/研發 "wikilink")[零售](../Page/零售.md "wikilink")。
+**歐拉國際數位媒體集團**，簡稱**Ora City，**成立於2010年1月1日，為登記於[英屬維京群島(BVI)之境外公司](../Page/英屬維爾京群島.md "wikilink")，主業為智能科技相關產品[研發與產品](https://zh.wikipedia.org/wiki/研發 "wikilink")[零售](../Page/零售.md "wikilink")。
 
 台灣總代理為鈺倢有限公司。目前的產品有[VR虛擬實境遊戲體驗機](../Page/虚拟现实.md "wikilink")、擬態實境VR體驗樂園、[藍牙](../Page/藍牙.md "wikilink")[耳機](../Page/耳機.md "wikilink")、[藍牙](../Page/藍牙.md "wikilink")[音箱以及](https://zh.wikipedia.org/wiki/音箱 "wikilink")[行動電源](../Page/行動電源.md "wikilink")等。
 

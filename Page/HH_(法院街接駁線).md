@@ -1,11 +1,6 @@
-[右](https://zh.wikipedia.org/wiki/File:R1_IND_HH.gif "fig:右")
-由來在20世紀30年代，**HH接駁線**是[紐約](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[獨立地鐵系統](../Page/獨立地鐵系統.md "wikilink")中最后一條分配給原線路的地鐵線
-。
-它是[布魯克林區](../Page/布鲁克林区.md "wikilink")[IND福爾頓街線的一條專用鐵路線](../Page/IND福尔顿街线.md "wikilink")。
+[右](https://zh.wikipedia.org/wiki/File:R1_IND_HH.gif "fig:右") 由來在20世紀30年代，**HH接駁線**是[紐約](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[獨立地鐵系統](../Page/獨立地鐵系統.md "wikilink")中最后一條分配給原線路的地鐵線 。 它是[布魯克林區](../Page/布鲁克林区.md "wikilink")[IND福爾頓街線的一條專用鐵路線](../Page/IND福尔顿街线.md "wikilink")。
 
-這條鐵路線服務于[布魯克林區的](https://zh.wikipedia.org/wiki/Downtown_Brooklyn "wikilink")[法院街與未來在](../Page/紐約交通博物館.md "wikilink")[皇后區](../Page/皇后區.md "wikilink")建成的[尤克利德大道站
-(IND福爾頓街線)](https://zh.wikipedia.org/wiki/尤克利德大道車站_\(IND福爾頓街線\) "wikilink")。
-經過這條鐵路的快速列車會從[傑伊街-地鐵科技車站和曼哈頓島兩個方向開來](https://zh.wikipedia.org/wiki/傑伊街-地鐵科技車站 "wikilink")。
+這條鐵路線服務于[布魯克林區的](https://zh.wikipedia.org/wiki/Downtown_Brooklyn "wikilink")[法院街與未來在](../Page/紐約交通博物館.md "wikilink")[皇后區](../Page/皇后區.md "wikilink")建成的[尤克利德大道站 (IND福爾頓街線)](https://zh.wikipedia.org/wiki/尤克利德大道車站_\(IND福爾頓街線\) "wikilink")。 經過這條鐵路的快速列車會從[傑伊街-地鐵科技車站和曼哈頓島兩個方向開來](https://zh.wikipedia.org/wiki/傑伊街-地鐵科技車站 "wikilink")。
 
 ## 線路
 

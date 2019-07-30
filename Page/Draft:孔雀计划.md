@@ -13,13 +13,11 @@
 
 ## 外部链接
 
-  - [海外高层次人才确认办事指南 -
-    广东政务服务网](http://www.gdzwfw.gov.cn/portal/guide/11440300695583248530711012000)
+  - [海外高层次人才确认办事指南 - 广东政务服务网](http://www.gdzwfw.gov.cn/portal/guide/11440300695583248530711012000)
 
 <!-- end list -->
 
-  - [2019年深圳市孔雀团队资助申请指南 -
-    深圳市科技创新委员会](http://www.szsti.gov.cn/zxbs/bszn/kqjh/201802/t20180213_10789011.htm)
+  - [2019年深圳市孔雀团队资助申请指南 - 深圳市科技创新委员会](http://www.szsti.gov.cn/zxbs/bszn/kqjh/201802/t20180213_10789011.htm)
 
 
 

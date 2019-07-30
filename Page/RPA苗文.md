@@ -1,23 +1,18 @@
-**RPA苗文**（白苗语：Ntawv Hmoob
-；），又称国际苗文\[1\]，是一套使用[拉丁字母来记录白苗语与青苗语](../Page/拉丁字母.md "wikilink")（属[苗语](https://zh.wikipedia.org/wiki/苗语 "wikilink")[川黔滇次方言](../Page/苗语川黔滇次方言.md "wikilink")）的[全音素文字](../Page/全音素文字.md "wikilink")，由三位传教士于1951至1953年间创制。
+**RPA苗文**（白苗语：Ntawv Hmoob ；），又称国际苗文\[1\]，是一套使用[拉丁字母](../Page/拉丁字母.md "wikilink")来记录白苗语与青苗语（属[苗语](https://zh.wikipedia.org/wiki/苗语 "wikilink")[川黔滇次方言](../Page/苗语川黔滇次方言.md "wikilink")）的[全音素文字](../Page/全音素文字.md "wikilink")，由三位传教士于1951至1953年间创制。
 
 ## 历史
 
 ### 创制
 
-20世纪50年代初，[法国](https://zh.wikipedia.org/wiki/法国 "wikilink")[天主教](../Page/天主教.md "wikilink")[传教士伊夫](../Page/传教士.md "wikilink")·伯尔特赖（Yves
-Bertrais）神父在[老挝](../Page/老挝.md "wikilink")[琅勃拉邦省的](../Page/琅勃拉邦省.md "wikilink")[苗族人中间](https://zh.wikipedia.org/wiki/苗族人 "wikilink")[传教](https://zh.wikipedia.org/wiki/传教 "wikilink")，为了方便传教工作，他创制了一种基于[法语拼写的](../Page/法语.md "wikilink")[苗文](../Page/苗文.md "wikilink")。与此同时，在[川圹省传教的](../Page/川圹省.md "wikilink")[美国](../Page/美国.md "wikilink")[新教传教士林伍德](../Page/新教.md "wikilink")·巴尼[牧师](../Page/牧师.md "wikilink")（Linwood
-Barney）在语言学家威廉·斯莫利牧师（William
-Smalley）的协助下也设计了一种苗文。1952年，三人在[琅勃拉邦会面商讨苗文统一的问题并在](../Page/琅勃拉邦.md "wikilink")1953年完成了RPA苗文方案。\[2\]
+20世纪50年代初，[法国](https://zh.wikipedia.org/wiki/法国 "wikilink")[天主教](../Page/天主教.md "wikilink")[传教士](../Page/传教士.md "wikilink")伊夫·伯尔特赖（Yves Bertrais）神父在[老挝](../Page/老挝.md "wikilink")[琅勃拉邦省](../Page/琅勃拉邦省.md "wikilink")的[苗族人中间](https://zh.wikipedia.org/wiki/苗族人 "wikilink")[传教](https://zh.wikipedia.org/wiki/传教 "wikilink")，为了方便传教工作，他创制了一种基于[法语](../Page/法语.md "wikilink")拼写的[苗文](../Page/苗文.md "wikilink")。与此同时，在[川圹省](../Page/川圹省.md "wikilink")传教的[美国](../Page/美国.md "wikilink")[新教](../Page/新教.md "wikilink")传教士林伍德·巴尼[牧师](../Page/牧师.md "wikilink")（Linwood Barney）在语言学家威廉·斯莫利牧师（William Smalley）的协助下也设计了一种苗文。1952年，三人在[琅勃拉邦](../Page/琅勃拉邦.md "wikilink")会面商讨苗文统一的问题并在1953年完成了RPA苗文方案。\[2\]
 
 ### 传播
 
-RPA问世一段时间后即被老挝政府禁止，不久新教在老挝的活动也告停止，1955年巴尼与斯莫利离开了老挝。1961年伯尔特赖来到老挝首都[万象](https://zh.wikipedia.org/wiki/万象 "wikilink")，此后学习RPA的苗族人逐渐增多，使用范围也从教徒扩展至学生。20世纪70年代的[越南战争加快了RPA苗文的传播](../Page/越南战争.md "wikilink")，大量苗族难民在[泰国](../Page/泰国.md "wikilink")[难民营中学习RPA](../Page/难民营.md "wikilink")，随后RPA被苗族难民带到了各安置国。\[3\]
+RPA问世一段时间后即被老挝政府禁止，不久新教在老挝的活动也告停止，1955年巴尼与斯莫利离开了老挝。1961年伯尔特赖来到老挝首都[万象](https://zh.wikipedia.org/wiki/万象 "wikilink")，此后学习RPA的苗族人逐渐增多，使用范围也从教徒扩展至学生。20世纪70年代的[越南战争](../Page/越南战争.md "wikilink")加快了RPA苗文的传播，大量苗族难民在[泰国](../Page/泰国.md "wikilink")[难民营](../Page/难民营.md "wikilink")中学习RPA，随后RPA被苗族难民带到了各安置国。\[3\]
 
 ## 方案
 
-RPA苗文可以用于书写白苗语（RPA：Hmoob Dawb）和青苗语（RPA：Moob
-Leeg）。<span style="background:#EEE8AA">白苗语</span>和<span style="background:#CAFF70">青苗语</span>的音系大体类似，但各有自己特有的[辅音与](../Page/辅音.md "wikilink")[元音](../Page/元音.md "wikilink")，所对应的RPA苗文方案如下\[4\]\[5\]\[6\]\[7\]\[8\]：
+RPA苗文可以用于书写白苗语（RPA：Hmoob Dawb）和青苗语（RPA：Moob Leeg）。<span style="background:#EEE8AA">白苗语</span>和<span style="background:#CAFF70">青苗语</span>的音系大体类似，但各有自己特有的[辅音](../Page/辅音.md "wikilink")与[元音](../Page/元音.md "wikilink")，所对应的RPA苗文方案如下\[4\]\[5\]\[6\]\[7\]\[8\]：
 
 ### 辅音
 
@@ -245,22 +240,17 @@ RPA苗文以[音节为单位书写](https://zh.wikipedia.org/wiki/音节 "wikili
   -
   -
   -
-[Category:苗语](https://zh.wikipedia.org/wiki/Category:苗语 "wikilink")
-[Category:苗文](https://zh.wikipedia.org/wiki/Category:苗文 "wikilink")
-[Category:字母系統](https://zh.wikipedia.org/wiki/Category:字母系統 "wikilink")
+[Category:苗语](https://zh.wikipedia.org/wiki/Category:苗语 "wikilink") [Category:苗文](https://zh.wikipedia.org/wiki/Category:苗文 "wikilink") [Category:字母系統](https://zh.wikipedia.org/wiki/Category:字母系統 "wikilink")
 
 1.  [熊玉有（1998）](https://zh.wikipedia.org/wiki/#熊玉有（1998） "wikilink")
 2.  [熊玉有（1998）](https://zh.wikipedia.org/wiki/#熊玉有（1998） "wikilink")
 3.  [蒙昌配，郑晓雪，龙宇晓（2014）](https://zh.wikipedia.org/wiki/#蒙昌配，郑晓雪，龙宇晓（2014） "wikilink")
-4.  [Bruhn（2006
-    ）](https://zh.wikipedia.org/wiki/#Bruhn（2006_） "wikilink")
+4.  [Bruhn（2006 ）](https://zh.wikipedia.org/wiki/#Bruhn（2006_） "wikilink")
 5.  [Heimbach（1979）](https://zh.wikipedia.org/wiki/#Heimbach（1979） "wikilink")
 6.  [熊玉有，Cohen（2005）](https://zh.wikipedia.org/wiki/#熊玉有，Cohen（2005） "wikilink")
-7.  [Golston &
-    Yang（2001）](https://zh.wikipedia.org/wiki/#Golston_&_Yang（2001） "wikilink")
+7.  [Golston & Yang（2001）](https://zh.wikipedia.org/wiki/#Golston_&_Yang（2001） "wikilink")
 8.  [Mortensen（2004）](https://zh.wikipedia.org/wiki/#Mortensen（2004） "wikilink")
-9.  [Golston &
-    Yang（2001）](https://zh.wikipedia.org/wiki/#Golston_&_Yang（2001） "wikilink")
+9.  [Golston & Yang（2001）](https://zh.wikipedia.org/wiki/#Golston_&_Yang（2001） "wikilink")
 10. [Mortensen（2004）](https://zh.wikipedia.org/wiki/#Mortensen（2004） "wikilink")
 11. [Mortensen（2000）](https://zh.wikipedia.org/wiki/#Mortensen（2000） "wikilink")
 12. [Heimbach（1979）](https://zh.wikipedia.org/wiki/#Heimbach（1979） "wikilink")

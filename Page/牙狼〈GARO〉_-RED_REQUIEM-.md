@@ -1,5 +1,4 @@
-《**牙狼〈GARO〉〜RED
-REQUIEM〜**》（**直譯**：紅色安魂曲）。為[2010年](https://zh.wikipedia.org/wiki/2010年 "wikilink")[10月30日上映](../Page/10月30日.md "wikilink")，特攝劇集《[牙狼](https://zh.wikipedia.org/wiki/牙狼GARO "wikilink")》系列的首部[3D電影](../Page/3D電影.md "wikilink")。電影分級為[PG-12](https://zh.wikipedia.org/wiki/限制級 "wikilink")\[1\]。第23屆[東京國際電影節參展作品](../Page/東京國際電影節.md "wikilink")。
+《**牙狼〈GARO〉〜RED REQUIEM〜**》（**直譯**：紅色安魂曲）。為[2010年](https://zh.wikipedia.org/wiki/2010年 "wikilink")[10月30日](../Page/10月30日.md "wikilink")上映，特攝劇集《[牙狼](https://zh.wikipedia.org/wiki/牙狼GARO "wikilink")》系列的首部[3D電影](../Page/3D電影.md "wikilink")。電影分級為[PG-12](https://zh.wikipedia.org/wiki/限制級 "wikilink")\[1\]。第23屆[東京國際電影節](../Page/東京國際電影節.md "wikilink")參展作品。
 
 ## 本作概要
 
@@ -45,7 +44,7 @@ REQUIEM〜**》（**直譯**：紅色安魂曲）。為[2010年](https://zh.wiki
 
   -
     使用巨大魔導筆與恐懼獸戰鬥的中年魔戒法師。
-    擅長操弄巨大魔導筆、佈置結界及召喚[式神的法術](../Page/式神.md "wikilink")。
+    擅長操弄巨大魔導筆、佈置結界及召喚[式神](../Page/式神.md "wikilink")的法術。
     負責管轄鋼牙到訪的港灣都市，平時以雜貨店「阿卡多」店長作為偽裝，意外地對於商品價格十分堅持。
     受到卡爾瑪幻象的影響，希望能藉由卡爾瑪完成再度見到逝去妻女的心願，而暗中與之勾結（以結界隱藏卡爾瑪的陰我之氣）。
     在鋼牙得知原因後並未苛責，反倒使得他更加慚愧內疚，於是承諾將輔助鋼牙封印卡爾瑪。
@@ -88,8 +87,7 @@ REQUIEM〜**》（**直譯**：紅色安魂曲）。為[2010年](https://zh.wiki
 
 <big>**魔鏡恐懼獸 卡爾瑪**</big> <small>／魔鏡ホラー カルマ</small>
 
-  - <small>[原紗央莉](https://zh.wikipedia.org/wiki/原紗央莉 "wikilink")
-    飾／[肘井美佳](../Page/肘井美佳.md "wikilink") 聲（特別客串）</small>
+  - <small>[原紗央莉](https://zh.wikipedia.org/wiki/原紗央莉 "wikilink") 飾／[肘井美佳](../Page/肘井美佳.md "wikilink") 聲（特別客串）</small>
 
 <!-- end list -->
 
@@ -114,8 +112,7 @@ REQUIEM〜**》（**直譯**：紅色安魂曲）。為[2010年](https://zh.wiki
     為魔鏡所迷惑，擁有魔力的金髮男子。
     對於卡爾瑪絕對服從，和席翁一起行動。徒手戰鬥及劍術的能力甚至於鋼牙之上。
     恐懼獸型態時，其攻擊武器為左肩的觸手和尾巴。
-    原型為畫家．**來棲謙一**<small>（
-    飾）</small>，詩音為其逝世的愛人，由於過度思念詩音，找了許多女子來描繪肖像畫，卻又以「妳不是詩音」為由，將人殺害。
+    原型為畫家．**來棲謙一**<small>（ 飾）</small>，詩音為其逝世的愛人，由於過度思念詩音，找了許多女子來描繪肖像畫，卻又以「妳不是詩音」為由，將人殺害。
     此時，卡爾瑪於鏡中顯現，告訴他只要碰觸鏡子就能實現願望；而後，來棲返老還童回到年輕時的模樣，愛人詩音也藉由遭殺害的女子復活了（幻象），兩人相擁。
     自此之後，來棲將靈魂賣給了卡爾瑪，並化名為克魯斯，成了卡爾瑪的手下。
     在席翁被打倒後，克魯斯也恢復成了原先中年的樣貌。
@@ -168,7 +165,7 @@ REQUIEM〜**》（**直譯**：紅色安魂曲）。為[2010年](https://zh.wiki
 
   -
     擁有鋼鐵身軀的七大使徒恐懼獸之一。以恐懼獸為主食。
-    外型、動作模式為[公牛](../Page/鬥牛.md "wikilink")，頭部設計為[斷頭台刀具](../Page/斷頭台.md "wikilink")。附身原因詳情不明。
+    外型、動作模式為[公牛](../Page/鬥牛.md "wikilink")，頭部設計為[斷頭台](../Page/斷頭台.md "wikilink")刀具。附身原因詳情不明。
     曾擬態為小嬰兒，和擬態為母親的巴烏魯一起行動；而最糟的情況是扮演母親的巴烏魯可能會被捕食。
     體型笨重，但擁有強大破壞力及鋼鐵般堅硬的皮膚，主要攻擊武器為頭部的斷頭台式刀刃，不過同時也是它的弱點。
     在巴烏魯遭烈花打倒後，才現出原形。最終，遭到鋼牙一分為二。
@@ -241,8 +238,7 @@ REQUIEM〜**》（**直譯**：紅色安魂曲）。為[2010年](https://zh.wiki
 
 《<big>**牙狼 〜SAVIOR IN THE DARK〜 RED REQUIEM ver.**</big>》
 
-  - <small>演唱 - [JAM Project](../Page/JAM_Project.md "wikilink") feat.
-    [影山浩宣](../Page/影山浩宣.md "wikilink")、詞曲 - 影山浩宣、編曲 - 寺田志保</small>
+  - <small>演唱 - [JAM Project](../Page/JAM_Project.md "wikilink") feat. [影山浩宣](../Page/影山浩宣.md "wikilink")、詞曲 - 影山浩宣、編曲 - 寺田志保</small>
 
 <!-- end list -->
 
@@ -276,9 +272,7 @@ REQUIEM〜**》（**直譯**：紅色安魂曲）。為[2010年](https://zh.wiki
   - [官方網站](https://www.bandaivisual.co.jp/garo/information.html)
   - [牙狼PROJECT](http://garo-project.jp/index.html)
 
-[Category:牙狼〈GARO〉](https://zh.wikipedia.org/wiki/Category:牙狼〈GARO〉 "wikilink")
-[Category:2010年日本電影](https://zh.wikipedia.org/wiki/Category:2010年日本電影 "wikilink")
-[Category:特別劇集](https://zh.wikipedia.org/wiki/Category:特別劇集 "wikilink")
+[Category:牙狼〈GARO〉](https://zh.wikipedia.org/wiki/Category:牙狼〈GARO〉 "wikilink") [Category:2010年日本電影](https://zh.wikipedia.org/wiki/Category:2010年日本電影 "wikilink") [Category:特別劇集](https://zh.wikipedia.org/wiki/Category:特別劇集 "wikilink")
 
 1.  日本方面分級為PG-12，相當於臺灣的[保護級](../Page/電影分級制度.md "wikilink")；臺灣播出時，因顧慮劇中較為露骨的鏡頭，影片分級則為限制級。
 2.  劇中並未提及ケンギ漢字，而是要到《[牙狼外傳：桃幻之笛](https://zh.wikipedia.org/wiki/牙狼外傳：桃幻之笛 "wikilink")》才會出現。

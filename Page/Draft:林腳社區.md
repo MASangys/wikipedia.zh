@@ -2,11 +2,11 @@
 
 ## 地形
 
-本社區位於[溪口鄉最西側](https://zh.wikipedia.org/wiki/溪口鄉_\(台灣\) "wikilink")，東邊為[柴林村](https://zh.wikipedia.org/wiki/柴林村 "wikilink")，西邊為[雲林縣](https://zh.wikipedia.org/wiki/雲林縣 "wikilink")[元長鄉](https://zh.wikipedia.org/wiki/元長鄉 "wikilink")，北邊隔著[北港溪與](../Page/北港溪.md "wikilink")[大埤鄉相鄰](https://zh.wikipedia.org/wiki/大埤鄉 "wikilink")，本社區由林腳、田心仔兩個聚落組成，主要的聯外通道為嘉85縣，社區面積約為106.10公頃。
+本社區位於[溪口鄉最西側](https://zh.wikipedia.org/wiki/溪口鄉_\(台灣\) "wikilink")，東邊為[柴林村](https://zh.wikipedia.org/wiki/柴林村 "wikilink")，西邊為[雲林縣](https://zh.wikipedia.org/wiki/雲林縣 "wikilink")[元長鄉](https://zh.wikipedia.org/wiki/元長鄉 "wikilink")，北邊隔著[北港溪](../Page/北港溪.md "wikilink")與[大埤鄉相鄰](https://zh.wikipedia.org/wiki/大埤鄉 "wikilink")，本社區由林腳、田心仔兩個聚落組成，主要的聯外通道為嘉85縣，社區面積約為106.10公頃。
 
 ## 水文
 
-社區北邊有[虎尾溪與](../Page/虎尾溪.md "wikilink")[北港溪匯流與大埤鄉相望](../Page/北港溪.md "wikilink")，南邊有一條大排水溝，具有灌溉價值。
+社區北邊有[虎尾溪](../Page/虎尾溪.md "wikilink")與[北港溪](../Page/北港溪.md "wikilink")匯流與大埤鄉相望，南邊有一條大排水溝，具有灌溉價值。
 
 ## 產業型態
 

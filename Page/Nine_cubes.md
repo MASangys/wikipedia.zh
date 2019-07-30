@@ -1,5 +1,4 @@
-《**nine
-cubes**》為[日本女歌手](../Page/日本.md "wikilink")[華原朋美的第](../Page/華原朋美.md "wikilink")3張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，由[小室哲哉製作](../Page/小室哲哉.md "wikilink")。
+《**nine cubes**》為[日本](../Page/日本.md "wikilink")女歌手[華原朋美](../Page/華原朋美.md "wikilink")的第3張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，由[小室哲哉](../Page/小室哲哉.md "wikilink")製作。
 
 ## 說明
 
@@ -15,19 +14,14 @@ cubes**》為[日本女歌手](../Page/日本.md "wikilink")[華原朋美的第]
 1.  [daily news](https://zh.wikipedia.org/wiki/daily_news "wikilink")
 2.  needs somebody's love
 3.  あなたについて
-4.  [here we are](https://zh.wikipedia.org/wiki/here_we_are "wikilink")
-    (album version)
+4.  [here we are](https://zh.wikipedia.org/wiki/here_we_are "wikilink") (album version)
 5.  さがしもの
 6.  winding road
 7.  [storytelling](https://zh.wikipedia.org/wiki/storytelling "wikilink")
       - 在前作《storytelling》中為純音樂，本作則以歌曲形式收錄。
       - 華原表示這首歌曲的概念為「故事還在繼續」。
-8.  [tumblin'
-    dice](https://zh.wikipedia.org/wiki/tumblin'_dice "wikilink") (album
-    version)
+8.  [tumblin' dice](https://zh.wikipedia.org/wiki/tumblin'_dice "wikilink") (album version)
 9.  waiting for your smile
 10. sagashimono -reprise-
 
-[Category:1998年音樂專輯](https://zh.wikipedia.org/wiki/Category:1998年音樂專輯 "wikilink")
-[Category:華原朋美音樂專輯](https://zh.wikipedia.org/wiki/Category:華原朋美音樂專輯 "wikilink")
-[Category:华纳唱片音乐专辑](https://zh.wikipedia.org/wiki/Category:华纳唱片音乐专辑 "wikilink")
+[Category:1998年音樂專輯](https://zh.wikipedia.org/wiki/Category:1998年音樂專輯 "wikilink") [Category:華原朋美音樂專輯](https://zh.wikipedia.org/wiki/Category:華原朋美音樂專輯 "wikilink") [Category:华纳唱片音乐专辑](https://zh.wikipedia.org/wiki/Category:华纳唱片音乐专辑 "wikilink")

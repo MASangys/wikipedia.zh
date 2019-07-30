@@ -1,11 +1,8 @@
-\[1\]\[2\]是由[光荣特库摩公司在](../Page/光荣特库摩.md "wikilink")2011年发行的基于《[真·三国无双6：猛将传](../Page/真·三國無雙6.md "wikilink")》的[动作游戏](../Page/动作游戏.md "wikilink")，也是该系列在[PlayStation
-Vita](../Page/PlayStation_Vita.md "wikilink")（PS
-Vita）上发行的第一款游戏。本作的标语是：“一骑当千，迈向下一世代的舞台”。
+\[1\]\[2\]是由[光荣特库摩](../Page/光荣特库摩.md "wikilink")公司在2011年发行的基于《[真·三国无双6：猛将传](../Page/真·三國無雙6.md "wikilink")》的[动作游戏](../Page/动作游戏.md "wikilink")，也是该系列在[PlayStation Vita](../Page/PlayStation_Vita.md "wikilink")（PS Vita）上发行的第一款游戏。本作的标语是：“一骑当千，迈向下一世代的舞台”。
 
 ## 玩法
 
-本作利用了PS
-Vita的重力感应和触摸屏功能，玩家可通过摇动掌机代替左摇杆、移-{}-动掌机代替右摇杆，在触摸屏上点击代替按键。这可令玩家获得更身临其境的游戏体验。与该系列以往游戏不同，游玩本作时屏幕上不会出现生命值指示，若玩家所控角色遭袭击则屏幕会闪动红框并伴有主机震动。若玩家角色的无双值因击败敌人或被袭击达到一定量，可发动比平常更有威力的“神速无双”。游戏中的“单挑模式”要求玩家按指定顺序出招，击败特定敌人。“共鬥模式”允许至多4名用户通过[Ad-hoc网络连线游戏](../Page/無線隨意網路.md "wikilink")。此外，本作支持在线游玩的“争霸模式”。\[3\]
+本作利用了PS Vita的重力感应和触摸屏功能，玩家可通过摇动掌机代替左摇杆、移-{}-动掌机代替右摇杆，在触摸屏上点击代替按键。这可令玩家获得更身临其境的游戏体验。与该系列以往游戏不同，游玩本作时屏幕上不会出现生命值指示，若玩家所控角色遭袭击则屏幕会闪动红框并伴有主机震动。若玩家角色的无双值因击败敌人或被袭击达到一定量，可发动比平常更有威力的“神速无双”。游戏中的“单挑模式”要求玩家按指定顺序出招，击败特定敌人。“共鬥模式”允许至多4名用户通过[Ad-hoc网络连线游戏](../Page/無線隨意網路.md "wikilink")。此外，本作支持在线游玩的“争霸模式”。\[3\]
 
 ## 人物
 
@@ -19,7 +16,7 @@ Vita的重力感应和触摸屏功能，玩家可通过摇动掌机代替左摇�
 
 ## 评价
 
-本作获得了中等程度的评价。游戏评价机构[GameRankings和](https://zh.wikipedia.org/wiki/GameRankings "wikilink")[Metacritic分别为本作打出](../Page/Metacritic.md "wikilink")68.31分\[4\]和67分\[5\]（满分均为100分）。在评论得分方面，本作也获得了从五成到八成不等的得分。
+本作获得了中等程度的评价。游戏评价机构[GameRankings和](https://zh.wikipedia.org/wiki/GameRankings "wikilink")[Metacritic](../Page/Metacritic.md "wikilink")分别为本作打出68.31分\[4\]和67分\[5\]（满分均为100分）。在评论得分方面，本作也获得了从五成到八成不等的得分。
 
 ## 注解
 
@@ -31,9 +28,7 @@ Vita的重力感应和触摸屏功能，玩家可通过摇动掌机代替左摇�
   - [游戏官方网站](http://www.gamecity.ne.jp/smusounext/)
   - [游戏官方网站](http://www.tecmokoeiamerica.com/dwnext/)
 
-[Category:2011年电子游戏](https://zh.wikipedia.org/wiki/Category:2011年电子游戏 "wikilink")
-[Category:真·三国无双系列电子游戏](https://zh.wikipedia.org/wiki/Category:真·三国无双系列电子游戏 "wikilink")
-[Category:PlayStation_Vita独占游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita独占游戏 "wikilink")
+[Category:2011年电子游戏](https://zh.wikipedia.org/wiki/Category:2011年电子游戏 "wikilink") [Category:真·三国无双系列电子游戏](https://zh.wikipedia.org/wiki/Category:真·三国无双系列电子游戏 "wikilink") [Category:PlayStation_Vita独占游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita独占游戏 "wikilink")
 
 1.
 

@@ -1,11 +1,8 @@
-《**Clé 2 : Yellow
-Wood**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")9人男子組合[Stray
-Kids的首張韓語改版特別專輯](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")，由[JYP娛樂製作](../Page/JYP娛樂.md "wikilink")，唱片公司為[Dreamus](https://zh.wikipedia.org/wiki/iRiver "wikilink")，於2019年6月19日發行。主打歌為〈부작용〉，由成員方燦、彰彬、Han參與詞曲創作。
+《**Clé 2 : Yellow Wood**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")9人男子組合[Stray Kids的首張韓語改版特別專輯](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")，由[JYP娛樂](../Page/JYP娛樂.md "wikilink")製作，唱片公司為[Dreamus](https://zh.wikipedia.org/wiki/iRiver "wikilink")，於2019年6月19日發行。主打歌為〈부작용〉，由成員方燦、彰彬、Han參與詞曲創作。
 
 ## 背景
 
-2019年6月4日[Stray
-Kids在官方社群平台上釋出回歸預告](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")，宣布將於19日攜特別專輯回歸\[1\]，隨後釋出限量版專輯預覽圖並開放預購。
+2019年6月4日[Stray Kids在官方社群平台上釋出回歸預告](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")，宣布將於19日攜特別專輯回歸\[1\]，隨後釋出限量版專輯預覽圖並開放預購。
 
 6月6日釋出曲目清單。
 
@@ -36,27 +33,16 @@ Kids在官方社群平台上釋出回歸預告](https://zh.wikipedia.org/wiki/St
 ## 概要
 
 此張專輯《Clé 2 : Yellow Wood》以特別專輯形式推出，曲目除了收錄先前專輯中的4首CD Only歌曲，還加入了3首新歌。
-延續著第四張迷你專輯《[Clé 1 : MIROH](../Page/Clé_1:_Miroh.md "wikilink")》，本專輯《Clé
-2 : Yellow Wood》是《Clé》系列專輯作品中的第二把鑰匙。專輯名稱中的「Yellow
-Wood」概念出自於美國詩人[羅伯特·佛洛斯特的](../Page/羅伯特·佛洛斯特.md "wikilink")〈〉，也是連接著上張專輯「MIROH(迷宮)」的另一個新空間。
-人生就是不斷的選擇，而選擇所帶來的苦惱和茫然每個人都會經歷。以第一個Clé迎接成人世界的Stray
-Kids以自信感在新的世界團結一致，在MIROH(迷宮)中的十字路口按照自己的方式前進，懷著絕不停止的抱負。比起平穩而順利的路，選擇了需要自己開闢的「從未被踩過的路」，充滿霸氣的進入了迷宮中的一個空間「Yellow
-Wood」。無論「Yellow Wood」多麼粗糙、多麼艱難，他們都相信自己、無所畏懼。雖然Stray
-Kids為了走自己的路而竭盡全力，但不久後仍需面對不可避免的苦惱和混亂\[2\]。
-主打歌〈副作用〉講述了對挑戰性的選擇而產生出無數的苦惱和擔心，將混亂感以「頭很痛(머리
-아프다)」作爲具有代表性的歌詞。特別是透過能夠感受到強烈[Drop的](../Page/Drop.md "wikilink")[迷幻出神（Psychedelic
-trance）音樂類型](../Page/迷幻出神.md "wikilink")，Stray Kids用全身散發出強烈的節奏和爆發性的活力。
+延續著第四張迷你專輯《[Clé 1 : MIROH](../Page/Clé_1:_Miroh.md "wikilink")》，本專輯《Clé 2 : Yellow Wood》是《Clé》系列專輯作品中的第二把鑰匙。專輯名稱中的「Yellow Wood」概念出自於美國詩人[羅伯特·佛洛斯特](../Page/羅伯特·佛洛斯特.md "wikilink")的〈〉，也是連接著上張專輯「MIROH(迷宮)」的另一個新空間。
+人生就是不斷的選擇，而選擇所帶來的苦惱和茫然每個人都會經歷。以第一個Clé迎接成人世界的Stray Kids以自信感在新的世界團結一致，在MIROH(迷宮)中的十字路口按照自己的方式前進，懷著絕不停止的抱負。比起平穩而順利的路，選擇了需要自己開闢的「從未被踩過的路」，充滿霸氣的進入了迷宮中的一個空間「Yellow Wood」。無論「Yellow Wood」多麼粗糙、多麼艱難，他們都相信自己、無所畏懼。雖然Stray Kids為了走自己的路而竭盡全力，但不久後仍需面對不可避免的苦惱和混亂\[2\]。
+主打歌〈副作用〉講述了對挑戰性的選擇而產生出無數的苦惱和擔心，將混亂感以「頭很痛(머리 아프다)」作爲具有代表性的歌詞。特別是透過能夠感受到強烈[Drop](../Page/Drop.md "wikilink")的[迷幻出神 trance）音樂類型](../Page/迷幻出神.md "wikilink")（Psychedelic，Stray Kids用全身散發出強烈的節奏和爆發性的活力。
 
 ### 發行版本
 
 ※Yellow Wood卡、照片及海報為預購特典；貼紙及UNIT寫真卡組為限量版特典。
 
-  - 限量版：封面1款，內含寫真書一本（共9款）、CD一張、[QR
-    Code寫真卡三張](../Page/QR碼.md "wikilink")（各成員5款，共45款）、貼紙一張、UNIT寫真卡一組三張（共2款）、Yellow
-    Wood卡一張（共9款）、照片一張（共9款）、海報一張（共3款）。
-  - 普通版：封面共有2款（Clé 2版＆Yellow Wood版），內含寫真書一本（共9款）、CD一張（共2款）、[QR
-    Code寫真卡三張](../Page/QR碼.md "wikilink")（各成員5款，共45款）、Yellow
-    Wood卡一張（共9款）、照片一張（共9款）、海報一張（共3款）。
+  - 限量版：封面1款，內含寫真書一本（共9款）、CD一張、[QR Code寫真卡三張](../Page/QR碼.md "wikilink")（各成員5款，共45款）、貼紙一張、UNIT寫真卡一組三張（共2款）、Yellow Wood卡一張（共9款）、照片一張（共9款）、海報一張（共3款）。
+  - 普通版：封面共有2款（Clé 2版＆Yellow Wood版），內含寫真書一本（共9款）、CD一張（共2款）、[QR Code寫真卡三張](../Page/QR碼.md "wikilink")（各成員5款，共45款）、Yellow Wood卡一張（共9款）、照片一張（共9款）、海報一張（共3款）。
 
 ## 曲目
 
@@ -98,28 +84,55 @@ trance）音樂類型](../Page/迷幻出神.md "wikilink")，Stray Kids用全身
 <td><p>專輯週榜</p></td>
 <td><p>2019年6月16日－22日</p></td>
 <td><p>#2</p></td>
-<td><p> </p></td>
+<td><p>123,903+</p></td>
 <td><p>[3]</p></td>
 </tr>
 <tr class="even">
-<td><p>專輯月榜</p></td>
-<td><p>2019年6月</p></td>
-<td><p>#</p></td>
+<td><p>2019年6月23日－29日</p></td>
+<td><p>#7</p></td>
+<td><p>[4]</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>2019年6月30日－7月6日</p></td>
+<td><p>#3</p></td>
+<td><p>[5]</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>專輯月榜</p></td>
+<td><p>2019年6月</p></td>
+<td><p>#4</p></td>
+<td><p>[6]</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>專輯上半年榜</p></td>
+<td><p>2019年1月－6月</p></td>
+<td><p>#21</p></td>
+<td><p>[7]</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>台灣</p></td>
 <td><p>5大金榜</p></td>
 <td><p>日韓榜</p></td>
 <td><p>2019年6月14日－20日</p></td>
 <td><p>#3</p></td>
 <td><p>11.51%</p></td>
-<td><p>[4] </p></td>
+<td><p>[8] </p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2019年6月21日－27日</p></td>
 <td><p>#2</p></td>
 <td><p>10.3%</p></td>
@@ -128,25 +141,25 @@ trance）音樂類型](../Page/迷幻出神.md "wikilink")，Stray Kids用全身
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>美國</p></td>
 <td><p><a href="../Page/告示牌_(雜誌).md" title="wikilink">告示牌</a></p></td>
 <td><p>世界專輯榜</p></td>
 <td></td>
 <td><p>#9</p></td>
 <td></td>
-<td><p>[5]</p></td>
+<td><p>[9]</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>日本</p></td>
 <td><p><a href="../Page/Oricon公信榜.md" title="wikilink">Oricon公信榜</a></p></td>
 <td><p>專輯週榜</p></td>
 <td><p>2019年6月17日－23日</p></td>
 <td><p>#17</p></td>
-<td><p>3,379+</p></td>
-<td><p>[6]</p></td>
+<td><p>5,101+</p></td>
+<td><p>[10][11]</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -171,7 +184,7 @@ trance）音樂類型](../Page/迷幻出神.md "wikilink")，Stray Kids用全身
 <td><p>歌曲</p></td>
 </tr>
 <tr class="even">
-<td><p>부작용</p></td>
+<td><p>부작용 (Side Effects)</p></td>
 </tr>
 <tr class="odd">
 <td><ul>
@@ -209,12 +222,9 @@ trance）音樂類型](../Page/迷幻出神.md "wikilink")，Stray Kids用全身
 ## 外部連結
 
   - [Stray Kids官方網站](http://straykids.jype.com/)
-  - [Stray Kids 【INTRO: Clé 2 : Yellow
-    Wood】](https://www.vlive.tv/video/134149)
+  - [Stray Kids 【INTRO: Clé 2 : Yellow Wood】](https://www.vlive.tv/video/134149)
 
-[Category:2019年迷你專輯](https://zh.wikipedia.org/wiki/Category:2019年迷你專輯 "wikilink")
-[Category:Stray_Kids音樂專輯](https://zh.wikipedia.org/wiki/Category:Stray_Kids音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
+[Category:2019年迷你專輯](https://zh.wikipedia.org/wiki/Category:2019年迷你專輯 "wikilink") [Category:Stray_Kids音樂專輯](https://zh.wikipedia.org/wiki/Category:Stray_Kids音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
 
 1.
 2.
@@ -222,3 +232,8 @@ trance）音樂類型](../Page/迷幻出神.md "wikilink")，Stray Kids用全身
 4.
 5.
 6.
+7.
+8.
+9.
+10.
+11.

@@ -47,12 +47,7 @@
 
   - [官方網站](http://www.praline-game.com/duelist_engage/index.html)
 
-[Category:2011年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2011年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink")
-[Category:WillPlus](https://zh.wikipedia.org/wiki/Category:WillPlus "wikilink")
+[Category:2011年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2011年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink") [Category:WillPlus](https://zh.wikipedia.org/wiki/Category:WillPlus "wikilink")
 
 1.
 2.

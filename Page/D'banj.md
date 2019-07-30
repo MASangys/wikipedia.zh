@@ -6,17 +6,13 @@ D'Banj是Koko青年與和平發展基金會的創辦人
 
 ## 個人項目
 
-D'Banj非常沉浸於信息技術領域，特別是在[加值服務和內容](https://zh.wikipedia.org/wiki/加值服務 "wikilink")[數字發行領域](https://zh.wikipedia.org/wiki/數字發行 "wikilink")。
-他擁有MCOMM Ltd（中值移動通信有限公司，加值服務內容提供商）和D'Kings Men Media
-Limited（一家360媒體公司），負責近期的主要數字化舉措。
+D'Banj非常沉浸於信息技術領域，特別是在[加值服務和內容](https://zh.wikipedia.org/wiki/加值服務 "wikilink")[數字發行領域](https://zh.wikipedia.org/wiki/數字發行 "wikilink")。 他擁有MCOMM Ltd（中值移動通信有限公司，加值服務內容提供商）和D'Kings Men Media Limited（一家360媒體公司），負責近期的主要數字化舉措。
 
 ### C.R.E.A.M.
 
-在，D'Banj的公司D'Kings Men
-Media和MTN尼日利亞和尼日利亞工業銀行(B.O.I.)一同發起C.R.E.A.M.平台\[1\]。
+在，D'Banj的公司D'Kings Men Media和MTN尼日利亞和尼日利亞工業銀行(B.O.I.)一同發起C.R.E.A.M.平台\[1\]。
 
-C.R.E.A.M.平台是一個給創意人才發揮的平台，旨在通過在手機上撥打USSD代碼來幫助發現尼日利亞的年輕創意人才。
-據報導，截至2016年12月，該平台擁有超過200萬付費用戶，並且僅從音樂類別中就發現了數百名人才，其中有數十部音樂視頻和數百萬奈拉獎勵給予獲獎者\[2\]\[3\]。
+C.R.E.A.M.平台是一個給創意人才發揮的平台，旨在通過在手機上撥打USSD代碼來幫助發現尼日利亞的年輕創意人才。 據報導，截至2016年12月，該平台擁有超過200萬付費用戶，並且僅從音樂類別中就發現了數百名人才，其中有數十部音樂視頻和數百萬奈拉獎勵給予獲獎者\[2\]\[3\]。
 
 ## 音樂作品
 
@@ -110,7 +106,7 @@ C.R.E.A.M.平台是一個給創意人才發揮的平台，旨在通過在手機�
 
   - Power Fist (2005) \[6\]
   - Bank of Industry (BOI)大使 (2013) \[7\]
-  - 非洲[Beats官方宣傳大使](../Page/Beats.md "wikilink") (2014) \[8\]
+  - 非洲[Beats](../Page/Beats.md "wikilink")官方宣傳大使 (2014) \[8\]
   - Ciroc尼日利亞官方宣傳大使 (2015) \[9\]
   - SLOT品牌代言人 (2015) \[10\]
 
@@ -126,15 +122,7 @@ D'banj透露兒子的名字為Daniel Oyebanjo III ()，出生於\[13\]。但在�
 
 ## 參考資料
 
-[Category:1980年出生](https://zh.wikipedia.org/wiki/Category:1980年出生 "wikilink")
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
-[Category:奈及利亞饒舌歌手](https://zh.wikipedia.org/wiki/Category:奈及利亞饒舌歌手 "wikilink")
-[Category:奈及利亞流行男歌手](https://zh.wikipedia.org/wiki/Category:奈及利亞流行男歌手 "wikilink")
-[Category:奈及利亞男音樂家](https://zh.wikipedia.org/wiki/Category:奈及利亞男音樂家 "wikilink")
-[Category:約魯巴音樂家](https://zh.wikipedia.org/wiki/Category:約魯巴音樂家 "wikilink")
-[Category:約魯巴企業家](https://zh.wikipedia.org/wiki/Category:約魯巴企業家 "wikilink")
-[Category:尼日利亚企业家](https://zh.wikipedia.org/wiki/Category:尼日利亚企业家 "wikilink")
-[Category:世界音樂獎獲得者](https://zh.wikipedia.org/wiki/Category:世界音樂獎獲得者 "wikilink")
+[Category:1980年出生](https://zh.wikipedia.org/wiki/Category:1980年出生 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:奈及利亞饒舌歌手](https://zh.wikipedia.org/wiki/Category:奈及利亞饒舌歌手 "wikilink") [Category:奈及利亞流行男歌手](https://zh.wikipedia.org/wiki/Category:奈及利亞流行男歌手 "wikilink") [Category:奈及利亞男音樂家](https://zh.wikipedia.org/wiki/Category:奈及利亞男音樂家 "wikilink") [Category:約魯巴音樂家](https://zh.wikipedia.org/wiki/Category:約魯巴音樂家 "wikilink") [Category:約魯巴企業家](https://zh.wikipedia.org/wiki/Category:約魯巴企業家 "wikilink") [Category:尼日利亚企业家](https://zh.wikipedia.org/wiki/Category:尼日利亚企业家 "wikilink") [Category:世界音樂獎獲得者](https://zh.wikipedia.org/wiki/Category:世界音樂獎獲得者 "wikilink")
 
 1.
 

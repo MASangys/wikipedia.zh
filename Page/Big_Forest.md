@@ -1,6 +1,4 @@
-《**Big
-Forest**》（，），為[tvN首次推出的](https://zh.wikipedia.org/wiki/tvN "wikilink")[金曜連續劇於](https://zh.wikipedia.org/wiki/tvN金土連續劇 "wikilink")2018年9月7日開播（每周五晚上11點播放一集）。此劇為《[SNL
-Korea](../Page/SNL_Korea.md "wikilink")》團隊事前製作的電視劇，由著名諧星兼主持人[申東燁為主軸與演員](../Page/申東燁.md "wikilink")[鄭尚勳](../Page/鄭尚勳.md "wikilink")、[崔嬉序三人共同合演的黑色喜劇](../Page/崔嬉序.md "wikilink")\[1\]\[2\]。
+《**Big Forest**》（，），為[tvN首次推出的](https://zh.wikipedia.org/wiki/tvN "wikilink")[金曜連續劇於](https://zh.wikipedia.org/wiki/tvN金土連續劇 "wikilink")2018年9月7日開播（每周五晚上11點播放一集）。此劇為《[SNL Korea](../Page/SNL_Korea.md "wikilink")》團隊事前製作的電視劇，由著名諧星兼主持人[申東燁](../Page/申東燁.md "wikilink")為主軸與演員[鄭尚勳](../Page/鄭尚勳.md "wikilink")、[崔嬉序](../Page/崔嬉序.md "wikilink")三人共同合演的黑色喜劇\[1\]\[2\]。
 
 ## 劇情簡介
 
@@ -147,22 +145,17 @@ Korea](../Page/SNL_Korea.md "wikilink")》團隊事前製作的電視劇，由�
 
 ## 同期競爭作品
 
-  - [JTBC](../Page/JTBC.md "wikilink")
-    [金土連續劇](../Page/JTBC金土連續劇.md "wikilink")：《[我的ID是江南美人](../Page/我的ID是江南美人.md "wikilink")》、《[第3種魅力](../Page/第3種魅力.md "wikilink")》
-  - [Channel
-    A金曜連續劇](../Page/Channel_A.md "wikilink")：《[十二夜](../Page/十二夜_\(韓國電視劇\).md "wikilink")》
+  - [JTBC](../Page/JTBC.md "wikilink") [金土連續劇](../Page/JTBC金土連續劇.md "wikilink")：《[我的ID是江南美人](../Page/我的ID是江南美人.md "wikilink")》、《[第3種魅力](../Page/第3種魅力.md "wikilink")》
+  - [Channel A金曜連續劇](../Page/Channel_A.md "wikilink")：《[十二夜](../Page/十二夜_\(韓國電視劇\).md "wikilink")》
 
 ## 參考資料
 
 ## 外部連結
 
   - [韓國tvN官方網站](http://program.tving.com/tvn/bigforest)
-  - [Big
-    Forest-NAVER](https://m.entertain.naver.com/tvBrand/8603608/broadcastInfo/mainCard)
+  - [Big Forest-NAVER](https://m.entertain.naver.com/tvBrand/8603608/broadcastInfo/mainCard)
 
-[Category:2018年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2018年韓國電視劇集 "wikilink")
-[Category:TvN金曜連續劇](https://zh.wikipedia.org/wiki/Category:TvN金曜連續劇 "wikilink")
-[Category:喜劇](https://zh.wikipedia.org/wiki/Category:喜劇 "wikilink")
+[Category:2018年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2018年韓國電視劇集 "wikilink") [Category:TvN金曜連續劇](https://zh.wikipedia.org/wiki/Category:TvN金曜連續劇 "wikilink") [Category:喜劇](https://zh.wikipedia.org/wiki/Category:喜劇 "wikilink")
 
 1.
 2.

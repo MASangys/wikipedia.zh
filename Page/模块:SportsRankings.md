@@ -2,14 +2,9 @@ require('Module:No globals');
 
 local p = {}
 
-local error_msg =
-'<span style=\"font-size:100%\" class=\"error\">\<code
-style=\\"color:inherit; border:inherit;
-padding:inherit;\\"\>|_template=</code> missing or empty</span>';
+local error_msg = '<span style=\"font-size:100%\" class=\"error\">\<code style=\\"color:inherit; border:inherit; padding:inherit;\\"\>|_template=</code> missing or empty</span>';
 
-\-- data for various rankings held in module subpages, e.g.
-"Module:SportsRankings/data/FIFA World Rankings" local data = {} --\[\[
-parameters containing data help in three tables
+\-- data for various rankings held in module subpages, e.g. "Module:SportsRankings/data/FIFA World Rankings" local data = {} --\[\[ parameters containing data help in three tables
 
 `                       data.source = {}     -- parameters for using in cite web (title, url, website)`
 `                       data.updated = {}    -- date of latest update (month, day, year)`
@@ -18,8 +13,7 @@ parameters containing data help in three tables
 `                       `
 `                   --]]`
 
-local templateArgs = {} -- contains arguments from template involking
-module
+local templateArgs = {} -- contains arguments from template involking module
 
 local function getArgs(frame)
 
@@ -93,9 +87,7 @@ end local function addReference(frame)
 
 end
 
-\--[ movement |date
-](https://zh.wikipedia.org/wiki/the_main_function_returning_ranking_for_one_country_-_takes_three-letter_country_code_or_name_of_country_as_parameters_-_displays_as_rank "wikilink")
-function p.main(frame)
+\--[ movement |date ](https://zh.wikipedia.org/wiki/the_main_function_returning_ranking_for_one_country_-_takes_three-letter_country_code_or_name_of_country_as_parameters_-_displays_as_rank "wikilink") function p.main(frame)
 
 `   getArgs(frame) -- returns args table having checked for content`
 `   loadData(frame)`
@@ -283,16 +275,7 @@ end
 `               end   `
 `   ]]         `
 `              --TODO reorganise the following with better logic`
-`              --`[`template``   ``to``   ``display``   ``flag``
- ``icon``   ``and``   ``team``   ``link``   ``(e.g.``   ``fb,``
- ``fbw,``   ``bk,``   ``ih)``   ``e.g.``   ``"FIFA``   ``World``
- ``Rankings"``   ``=``   ``'fb',``   ``"FIFA``   ``Women's``
- ``World``   ``Rankings"``   ``'fbw',``   ``"FIBA``   ``World``
- ``Rankings"``   ``=``   ``'bk',``   ``"IIHF``   ``World``
- ``Ranking"``   ``=``   ``'ih'``   ``tries``   ``with``   ``country``
- ``code,``   ``then``   ``if``   ``error,``   ``tried``   ``with``
- ``country``
- ``name`](https://zh.wikipedia.org/wiki/template_to_display_flag_icon_and_team_link_\(e.g._fb,_fbw,_bk,_ih\)_e.g._"FIFA_World_Rankings"_=_'fb',_"FIFA_Women's_World_Rankings"_'fbw',_"FIBA_World_Rankings"_=_'bk',_"IIHF_World_Ranking"_=_'ih'_tries_with_country_code,_then_if_error,_tried_with_country_name "wikilink")
+`              --`[`template``   ``to``   ``display``   ``flag``   ``icon``   ``and``   ``team``   ``link``   ``(e.g.``   ``fb,``   ``fbw,``   ``bk,``   ``ih)``   ``e.g.``   ``"FIFA``   ``World``   ``Rankings"``   ``=``   ``'fb',``   ``"FIFA``   ``Women's``   ``World``   ``Rankings"``   ``'fbw',``   ``"FIBA``   ``World``   ``Rankings"``   ``=``   ``'bk',``   ``"IIHF``   ``World``   ``Ranking"``   ``=``   ``'ih'``   ``tries``   ``with``   ``country``   ``code,``   ``then``   ``if``   ``error,``   ``tried``   ``with``   ``country``   ``name`](https://zh.wikipedia.org/wiki/template_to_display_flag_icon_and_team_link_\(e.g._fb,_fbw,_bk,_ih\)_e.g._"FIFA_World_Rankings"_=_'fb',_"FIFA_Women's_World_Rankings"_'fbw',_"FIBA_World_Rankings"_=_'bk',_"IIHF_World_Ranking"_=_'ih'_tries_with_country_code,_then_if_error,_tried_with_country_name "wikilink")
 `              local countryTemplate = data.templates['flagged_team_link'] `
 `              local countryIconString = frame:expandTemplate{ title = countryTemplate, args = {code} }    -- country`
 `              local _,test =  string.gsub( countryIconString, "Template:Country data", "") -- page does not exist`
@@ -394,6 +377,4 @@ end
 
 return p
 
-[Category:Pages_using_SportsRankings_with_unknown_parameters](https://zh.wikipedia.org/wiki/Category:Pages_using_SportsRankings_with_unknown_parameters "wikilink")
-[Category:Pages_using_SportsRankings_with_unknown_parameters](https://zh.wikipedia.org/wiki/Category:Pages_using_SportsRankings_with_unknown_parameters "wikilink")
-[Category:Pages_using_SportsRankings_with_no_ranking](https://zh.wikipedia.org/wiki/Category:Pages_using_SportsRankings_with_no_ranking "wikilink")
+[Category:Pages_using_SportsRankings_with_unknown_parameters](https://zh.wikipedia.org/wiki/Category:Pages_using_SportsRankings_with_unknown_parameters "wikilink") [Category:Pages_using_SportsRankings_with_unknown_parameters](https://zh.wikipedia.org/wiki/Category:Pages_using_SportsRankings_with_unknown_parameters "wikilink") [Category:Pages_using_SportsRankings_with_no_ranking](https://zh.wikipedia.org/wiki/Category:Pages_using_SportsRankings_with_no_ranking "wikilink")

@@ -40,7 +40,7 @@
   - [瑪爾噶朗](https://zh.wikipedia.org/wiki/瑪爾噶朗 "wikilink")（今烏茲別克東部）
   - [那木幹](https://zh.wikipedia.org/wiki/那木幹 "wikilink")（今烏茲別克東部）
   - [塔什干](../Page/塔什干.md "wikilink")（今烏茲別克東部）
-  - [巴達克山](https://zh.wikipedia.org/wiki/巴達克山 "wikilink")（今[塔吉克東部](https://zh.wikipedia.org/wiki/塔吉克 "wikilink")、[阿富汗東北部](../Page/阿富汗.md "wikilink")）
+  - [巴達克山](https://zh.wikipedia.org/wiki/巴達克山 "wikilink")（今[塔吉克東部](https://zh.wikipedia.org/wiki/塔吉克 "wikilink")、[阿富汗](../Page/阿富汗.md "wikilink")東北部）
   - [博羅爾](https://zh.wikipedia.org/wiki/博羅爾 "wikilink")（位於今[喀什米爾](https://zh.wikipedia.org/wiki/喀什米爾 "wikilink")）
   - [阿富汗](../Page/阿富汗.md "wikilink")
   - [坎巨提](../Page/坎巨提.md "wikilink")（位於今喀什米爾）
@@ -71,8 +71,7 @@
   -   - [澳門工會聯合總會](../Page/澳門工會聯合總會.md "wikilink")
       - [澳門街坊會聯合總會](../Page/澳門街坊會聯合總會.md "wikilink")
 
-  -   - [印度共產黨
-        (毛主義)](https://zh.wikipedia.org/wiki/印度共產黨_\(毛主義\) "wikilink")
+  -   - [印度共產黨 (毛主義)](https://zh.wikipedia.org/wiki/印度共產黨_\(毛主義\) "wikilink")
 
 ### 相關政策及思想
 
@@ -113,7 +112,5 @@
 
 1.  [日漸式微的香港國民黨勢力](http://www.chinatimes.com/realtimenews/20160302003628-260409)，中時電子報，2018/08/13
 2.  [柬埔寨解散「親台派」最大反對黨　親中派總理大選躺著贏](https://www.ettoday.net/news/20171117/1053937.htm)，ETtoday新聞雲，2018/11/09
-3.  [海外僑社撤旗官司
-    雙方彈盡援絕](http://www.chinatimes.com/realtimenews/20170521000678-260407)，中時電子報，2018/08/13
-4.  [紐約遡源公所換旗
-    陸青年舉中華民國國旗抗議](http://m.cna.com.tw/news/aopl/201808200024.aspx)，中央社，2018/09/03
+3.  [海外僑社撤旗官司 雙方彈盡援絕](http://www.chinatimes.com/realtimenews/20170521000678-260407)，中時電子報，2018/08/13
+4.  [紐約遡源公所換旗 陸青年舉中華民國國旗抗議](http://m.cna.com.tw/news/aopl/201808200024.aspx)，中央社，2018/09/03

@@ -1,5 +1,4 @@
-**[杰思國際娛樂](http://jsjmusic.com)**（，簡稱：**JSJ
-Music**），是**Pure集團**（）旗下數位音樂發行公司，成立於2016年，是一家在[華語地區提供數位音樂服務的公司](https://zh.wikipedia.org/wiki/华语 "wikilink")，主要業務包括本地及海外唱片宣傳、音樂出版、演唱會製作。
+**[杰思國際娛樂](http://jsjmusic.com)**（，簡稱：**JSJ Music**），是**Pure集團**（）旗下數位音樂發行公司，成立於2016年，是一家在[華語地區提供數位音樂服務的公司](https://zh.wikipedia.org/wiki/华语 "wikilink")，主要業務包括本地及海外唱片宣傳、音樂出版、演唱會製作。
 
 於2018年4月27日邀集國內外平台及音樂人舉辦「華語音樂未來進行式」講座\[1\]\[2\]，讲座上邀請到了[抖音](https://zh.wikipedia.org/wiki/抖音 "wikilink")、[微音音樂](https://zh.wikipedia.org/wiki/微音音樂 "wikilink")。
 

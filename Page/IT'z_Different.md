@@ -1,13 +1,10 @@
-《*' IT'z
-Different*'》是[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[女子組合](../Page/女子音乐组合.md "wikilink")[ITZY作為出道作品的首張單曲專輯](../Page/ITZY.md "wikilink")，由[JYP
-Entertainment於](../Page/JYP娛樂.md "wikilink")2019年2月12日發行，主打歌曲為〈달라달라(DALLA
-DALLA)〉。
+《*' IT'z Different*'》是[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[女子組合](../Page/女子音乐组合.md "wikilink")[ITZY](../Page/ITZY.md "wikilink")作為出道作品的首張單曲專輯，由[JYP Entertainment於](../Page/JYP娛樂.md "wikilink")2019年2月12日發行，主打歌曲為〈달라달라(DALLA DALLA)〉。
 
 ## 日程
 
 {{\#ifeq:}}==== 出道行程表 ====
 
-2019年1月14日，[JYP娛樂相關人員表示新女團出道MV已拍攝完畢](../Page/JYP娛樂.md "wikilink")，正在做最後的出道準備，出道時間、團名及成員會再公開。
+2019年1月14日，[JYP娛樂](../Page/JYP娛樂.md "wikilink")相關人員表示新女團出道MV已拍攝完畢，正在做最後的出道準備，出道時間、團名及成員會再公開。
 
 1月21日上午12點官方網站開啟，JYP官方YouTube頻道上傳前導影片，公開新女團團名及成員。
 
@@ -19,8 +16,7 @@ DALLA)〉。
 
 2月12日下午6點，發行單曲專輯《IT'z Differentt》正式出道，同日下午8點，舉行出道SHOWCASE\[4\]。
 
-2月21日，在[M\!
-Countdown節目上獲得首個一位](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")。\[5\]
+2月21日，在[M\! Countdown節目上獲得首個一位](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")。\[5\]
 
 3月10日，在人氣歌謠獲得了第八冠的紀錄，也達成人氣歌謠三冠王的紀錄。
 
@@ -57,11 +53,11 @@ Countdown節目上獲得首個一位](https://zh.wikipedia.org/wiki/M!_Countdown
 </tr>
 <tr class="odd">
 <td><p><strong>Mnet</strong></p></td>
-<td><p>1</p></td>
+<td><p><strong>1</strong></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Bugs</strong></p></td>
-<td><p>1</p></td>
+<td><p><strong>1</strong></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Soribada</strong></p></td>
@@ -69,11 +65,11 @@ Countdown節目上獲得首個一位](https://zh.wikipedia.org/wiki/M!_Countdown
 </tr>
 <tr class="even">
 <td><p><strong>Genie</strong></p></td>
-<td><p>*</p></td>
+<td><p>2</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Naver</strong></p></td>
-<td><p>*</p></td>
+<td><p><strong>1</strong></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -136,9 +132,9 @@ Countdown節目上獲得首個一位](https://zh.wikipedia.org/wiki/M!_Countdown
 ## 外部連結
 
   - [官方網站](http://ITZY.jype.com)
-  - [ITZY](https://twitter.com/ITZYOfficial)的[Twitter帳戶](../Page/Twitter.md "wikilink")
-  - [ITZY](https://facebook.com/OfficialITZY)的[Facebook專頁](../Page/Facebook.md "wikilink")
-  - [YouTube上的](../Page/YouTube.md "wikilink")[ITZY](https://youtube.com/ITZY)頻道
+  - [ITZY](https://twitter.com/ITZYOfficial)的[Twitter](../Page/Twitter.md "wikilink")帳戶
+  - [ITZY](https://facebook.com/OfficialITZY)的[Facebook](../Page/Facebook.md "wikilink")專頁
+  - [YouTube](../Page/YouTube.md "wikilink")上的[ITZY](https://youtube.com/ITZY)頻道
   - [官方V LIVE頻道](https://channels.vlive.tv/BAE889/home)
 
 [Category:2019年單曲](https://zh.wikipedia.org/wiki/Category:2019年單曲 "wikilink")
@@ -147,7 +143,6 @@ Countdown節目上獲得首個一位](https://zh.wikipedia.org/wiki/M!_Countdown
 2.  <https://www.youtube.com/watch?v=-z0qUxlbkPA&feature=youtu.be>
 3.  [DALLA DALLA M/V](https://www.youtube.com/watch?v=pNfTK39k55U)
 4.  <https://www.vlive.tv/video/112350>
-5.  [ITZY Becomes The Fastest Girl Group To Win A \#1 Music Show
-    Trophy](https://www.koreaboo.com/news/itzy-becomes-fastest-group-win-1-music-show-trophy/)
+5.  [ITZY Becomes The Fastest Girl Group To Win A \#1 Music Show Trophy](https://www.koreaboo.com/news/itzy-becomes-fastest-group-win-1-music-show-trophy/)
 6.
 7.

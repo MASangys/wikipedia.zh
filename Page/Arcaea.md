@@ -1,6 +1,4 @@
-是lowiro開發的一款三維立體音樂遊戲。玩家需要按照音樂節奏點擊屏幕完成曲目。本遊戲的特點在於三維音遊。遊戲的首個版本於2017年3月9日在[App
-Store與](../Page/App_Store_\(iOS\).md "wikilink")[Google
-Play發布](../Page/Google_Play.md "wikilink")\[1\]。
+是lowiro開發的一款三維立體音樂遊戲。玩家需要按照音樂節奏點擊屏幕完成曲目。本遊戲的特點在於三維音遊。遊戲的首個版本於2017年3月9日在[App Store與](../Page/App_Store_\(iOS\).md "wikilink")[Google Play發布](../Page/Google_Play.md "wikilink")\[1\]。当前游戏共正式收录131首曲目。
 遊戲初始給予玩家兩個搭檔：**光**(Hikari)以及**對立**(Tairitsu)。本遊戲的劇情也圍繞著這兩個人物展開。在遊戲2.0版本更新後，遊戲有專門的“故事”界面，玩家可通過對應搭檔遊玩對應曲目探索故事。
 
 ## 遊戲系統
@@ -24,9 +22,7 @@ note评分分为三种，分别为PURE，FAR，LOST。
 
 ### 回憶率和結算評價
 
-Arcaea的遊戲通關結算採**回憶率**(Recollection
-Rate)，而血條根據玩家所攜帶搭檔的種類分為三種基礎類型和其他一些延伸和組合類型。普通血條歌曲結束後回憶率大於等於70%為TRACK
-COMPLETE，小於70%則為TRACK LOST。普通血條根據一些搭檔的技能還有不同的填充規則或視覺效果。
+Arcaea的遊戲通關結算採**回憶率**(Recollection Rate)，而血條根據玩家所攜帶搭檔的種類分為三種基礎類型和其他一些延伸和組合類型。普通血條歌曲結束後回憶率大於等於70%為TRACK COMPLETE，小於70%則為TRACK LOST。普通血條根據一些搭檔的技能還有不同的填充規則或視覺效果。
 
 ## 遊戲模式
 
@@ -37,7 +33,7 @@ COMPLETE，小於70%則為TRACK LOST。普通血條根據一些搭檔的技能�
   - 結算為Track Complete時，獲得一定量殘片，獲得殘片的數與歌曲難度有關
       - 初次達成Track Complete時，獲得額外10殘片
       - 結算為Pure Memory或Full Recall時，在"通關"獎勵的基礎上追加一定量殘片，數量和歌曲難度有關
-  - 結算為Track Los時，獲得少量殘片
+  - 結算為Track Lost時，獲得少量殘片
 
 ### World模式
 
@@ -104,8 +100,7 @@ World模式於1.5版本追加，是一種以地圖的形式，通過遊玩自由
 
 ### 資料卡系統
 
-1.6版本追加，登錄賬號後，玩家可於線上中的檔案處查看自己的資料卡，資料包括玩家名稱與數字ID、潛力值、當前搭檔立繪、玩家CLEAR、FULL
-RECALL與PURE MEMORY的曲目數。當特定難度的全部譜面達成一定條件時，代表曲數的數字會變色。
+1.6版本追加，登錄賬號後，玩家可於線上中的檔案處查看自己的資料卡，資料包括玩家名稱與數字ID、潛力值、當前搭檔立繪、玩家CLEAR、FULL RECALL與PURE MEMORY的曲目數。當特定難度的全部譜面達成一定條件時，代表曲數的數字會變色。
 2.0.0版本更新前，在看過光與對立相遇劇情後左上角追加兩者頭像，點擊可重放相遇劇情（此設定現已隨故事模式更新而廢除）。
 
 ## 外部連結
@@ -127,12 +122,7 @@ RECALL與PURE MEMORY的曲目數。當特定難度的全部譜面達成一定條
   -
 ## 參考文獻
 
-[Category:2017年電子遊戲](https://zh.wikipedia.org/wiki/Category:2017年電子遊戲 "wikilink")
-[Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink")
-[Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink")
-[Category:音樂遊戲](https://zh.wikipedia.org/wiki/Category:音樂遊戲 "wikilink")
-[Category:行動電話遊戲](https://zh.wikipedia.org/wiki/Category:行動電話遊戲 "wikilink")
-[Category:英國開發電子遊戲](https://zh.wikipedia.org/wiki/Category:英國開發電子遊戲 "wikilink")
+[Category:2017年電子遊戲](https://zh.wikipedia.org/wiki/Category:2017年電子遊戲 "wikilink") [Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink") [Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink") [Category:音樂遊戲](https://zh.wikipedia.org/wiki/Category:音樂遊戲 "wikilink") [Category:行動電話遊戲](https://zh.wikipedia.org/wiki/Category:行動電話遊戲 "wikilink") [Category:英國開發電子遊戲](https://zh.wikipedia.org/wiki/Category:英國開發電子遊戲 "wikilink")
 
 1.
 2.

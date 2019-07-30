@@ -1,5 +1,4 @@
-《**Sugar＊Style**》是[SMEE在](../Page/HOOKSOFT.md "wikilink")2019年1月25日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]。2019年6月28日發售[Fandisc與原聲帶的合輯](https://zh.wikipedia.org/wiki/Fandisc "wikilink")《Sugar＊Style
-Music and Happiness Pack》\[2\]。
+《**Sugar＊Style**》是[SMEE在](../Page/HOOKSOFT.md "wikilink")2019年1月25日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]。2019年6月28日發售[Fandisc與原聲帶的合輯](https://zh.wikipedia.org/wiki/Fandisc "wikilink")《Sugar＊Style Music and Happiness Pack》\[2\]。
 
 ## 故事簡介
 
@@ -43,13 +42,9 @@ Music and Happiness Pack》\[2\]。
 ## 外部連結
 
   - [Sugar＊Style遊戲官網](http://www.hook-net.jp/smee/sugarstyle/main/index.html)
-  - [Sugar＊Style
-    Fandisc遊戲官網](http://www.hook-net.jp/smee/sugarstyle/fd/)
+  - [Sugar＊Style Fandisc遊戲官網](http://www.hook-net.jp/smee/sugarstyle/fd/)
 
-[Category:2019年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2019年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
+[Category:2019年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2019年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
 
 1.
 

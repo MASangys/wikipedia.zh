@@ -1,4 +1,4 @@
-**电压依赖性阴离子选择性通道1**（**VDAC-1**）是一种β桶蛋白，在人类中由位于[5号染色体上的VDAC](https://zh.wikipedia.org/wiki/5号染色体_\(人类\) "wikilink")1基因编码\[1\]\[2\]。它在[线粒体外膜](../Page/线粒体外膜.md "wikilink")（OMM）和[细胞膜中形成](../Page/细胞膜.md "wikilink")[离子通道](../Page/离子通道.md "wikilink")。在OMM中，它允许[ATP从线粒体扩散到细胞质中](https://zh.wikipedia.org/wiki/ATP "wikilink")。在细胞膜中，它参与体积调节。在所有真核细胞中，线粒体负责ATP合成细胞存活所需的其他代谢物。因此，VDAC1允许线粒体和细胞之间的通信，介导细胞代谢和细胞死亡之间的平衡。除代谢渗透外，VDAC1还可作为蛋白质的支架，如[己糖激酶](../Page/己糖激酶.md "wikilink")，可反向调节代谢。\[3\]
+**电压依赖性阴离子选择性通道1**（**VDAC-1**）是一种β桶蛋白，在人类中由位于[5号染色体上的VDAC](https://zh.wikipedia.org/wiki/5号染色体_\(人类\) "wikilink")1基因编码\[1\]\[2\]。它在[线粒体外膜](../Page/线粒体外膜.md "wikilink")（OMM）和[细胞膜](../Page/细胞膜.md "wikilink")中形成[离子通道](../Page/离子通道.md "wikilink")。在OMM中，它允许[ATP从线粒体扩散到细胞质中](https://zh.wikipedia.org/wiki/ATP "wikilink")。在细胞膜中，它参与体积调节。在所有真核细胞中，线粒体负责ATP合成细胞存活所需的其他代谢物。因此，VDAC1允许线粒体和细胞之间的通信，介导细胞代谢和细胞死亡之间的平衡。除代谢渗透外，VDAC1还可作为蛋白质的支架，如[己糖激酶](../Page/己糖激酶.md "wikilink")，可反向调节代谢。\[3\]
 
 该蛋白质是[电压依赖性阴离子通道](https://zh.wikipedia.org/wiki/电压依赖性阴离子通道 "wikilink")，与其他VDAC同种型（[VDAC2和](https://zh.wikipedia.org/wiki/VDAC2 "wikilink")[VDAC3](https://zh.wikipedia.org/wiki/VDAC3 "wikilink")）具有高度结构同源性，其参与[细胞代谢](https://zh.wikipedia.org/wiki/细胞代谢 "wikilink")、[线粒体凋亡和精子发生的调节](https://zh.wikipedia.org/wiki/线粒体凋亡 "wikilink")。\[4\]\[5\]\[6\]\[7\]该通道的过度表达和错误调节可导致细胞凋亡，导致体内多种疾病。特别是，由于VDAC1是主要的阴离子离子转运通道，其功能障碍与癌症，[帕金森病](../Page/帕金森氏症.md "wikilink")（PD）和[阿尔茨海默病有关](../Page/阿茲海默症.md "wikilink")。\[8\]\[9\]\[10\]
 
@@ -14,8 +14,7 @@ VDAC1属于线粒体孔蛋白家族，并且预测与其他VDAC同种型具有�
 
 ## 临床意义
 
-电压依赖性阴离子通道在离子和代谢物转运中都起作用，尽管它们的生理作用是不同的。由于它们的作用，通道的功能障碍可导致各种疾病。
-VDAC1通过与[抗凋亡蛋白家族](https://zh.wikipedia.org/wiki/抗凋亡蛋白家族 "wikilink")，[Bcl-2蛋白](https://zh.wikipedia.org/wiki/Bcl-2蛋白 "wikilink")，特别是Bcl-xl和Mcl-1的相互作用而与癌症有关，这些蛋白在癌症过程中过表达。这两种Bcl-2蛋白与VDAC1相互作用以调节穿过OMM的钙离子转运，并最终调节ROS的产生。虽然高水平的ROS诱导细胞死亡，但非致死水平会干扰信号转导通路，从而促进癌细胞的细胞增殖，迁移和侵袭。\[29\]此外，VDAC1过表达与增加的凋亡反应和抗癌药物和治疗功效相关，进一步支持VDAC1作为癌症治疗的治疗靶标。\[30\]\[31\]
+电压依赖性阴离子通道在离子和代谢物转运中都起作用，尽管它们的生理作用是不同的。由于它们的作用，通道的功能障碍可导致各种疾病。 VDAC1通过与[抗凋亡蛋白家族](https://zh.wikipedia.org/wiki/抗凋亡蛋白家族 "wikilink")，[Bcl-2蛋白](https://zh.wikipedia.org/wiki/Bcl-2蛋白 "wikilink")，特别是Bcl-xl和Mcl-1的相互作用而与癌症有关，这些蛋白在癌症过程中过表达。这两种Bcl-2蛋白与VDAC1相互作用以调节穿过OMM的钙离子转运，并最终调节ROS的产生。虽然高水平的ROS诱导细胞死亡，但非致死水平会干扰信号转导通路，从而促进癌细胞的细胞增殖，迁移和侵袭。\[29\]此外，VDAC1过表达与增加的凋亡反应和抗癌药物和治疗功效相关，进一步支持VDAC1作为癌症治疗的治疗靶标。\[30\]\[31\]
 
 VDAC1在钙离子转运中的功能也与神经退行性疾病有关。在PD中，VDAC1增加线粒体内的钙离子水平，导致线粒体通透性增加，线粒体膜电位破坏，ROS产生增加，细胞死亡和神经元变性。\[32\]已显示VDAC1与淀粉样蛋白β（Aβ）相互作用，导致通道的电导增加并最终导致细胞凋亡。\[33\]
 

@@ -1,11 +1,4 @@
-**PandaCute** 成立於 2016 年 10
-月，隊伍前身為一支[業餘戰隊](https://zh.wikipedia.org/wiki/業餘戰隊 "wikilink")，在贏下《[2016
-英雄聯盟陽光杯
-5V5](https://zh.wikipedia.org/wiki/2016_英雄聯盟陽光杯_5V5 "wikilink")》冠軍後，得到
-[Global
-Esports](https://zh.wikipedia.org/wiki/Global_Esports "wikilink")
-的青睞成為[香港首支女子](../Page/香港.md "wikilink")[職業戰隊](https://zh.wikipedia.org/wiki/職業戰隊 "wikilink")，戰隊主力參與《[英雄聯盟](https://zh.wikipedia.org/wiki/英雄聯盟 "wikilink")》的賽事，除了奪下香港區所有女子賽事的冠軍後，亦曾到[中國](../Page/中國.md "wikilink")[無錫擊倒來自各地的好手](https://zh.wikipedia.org/wiki/無錫 "wikilink")，拿下《[亞洲英雄聯盟女子全明星賽
-2017](https://zh.wikipedia.org/wiki/亞洲英雄聯盟女子全明星賽_2017 "wikilink")》殿軍\[1\]。
+**PandaCute** 成立於 2016 年 10 月，隊伍前身為一支[業餘戰隊](https://zh.wikipedia.org/wiki/業餘戰隊 "wikilink")，在贏下《[2016 英雄聯盟陽光杯 5V5](https://zh.wikipedia.org/wiki/2016_英雄聯盟陽光杯_5V5 "wikilink")》冠軍後，得到 [Global Esports](https://zh.wikipedia.org/wiki/Global_Esports "wikilink") 的青睞成為[香港](../Page/香港.md "wikilink")首支女子[職業戰隊](https://zh.wikipedia.org/wiki/職業戰隊 "wikilink")，戰隊主力參與《[英雄聯盟](https://zh.wikipedia.org/wiki/英雄聯盟 "wikilink")》的賽事，除了奪下香港區所有女子賽事的冠軍後，亦曾到[中國](../Page/中國.md "wikilink")[無錫擊倒來自各地的好手](https://zh.wikipedia.org/wiki/無錫 "wikilink")，拿下《[亞洲英雄聯盟女子全明星賽 2017](https://zh.wikipedia.org/wiki/亞洲英雄聯盟女子全明星賽_2017 "wikilink")》殿軍\[1\]。
 
 ## 隊伍成績
 
@@ -45,8 +38,7 @@ Esports](https://zh.wikipedia.org/wiki/Global_Esports "wikilink")
 ## 外部連結
 
   -
-[Category:香港电子竞技团队](https://zh.wikipedia.org/wiki/Category:香港电子竞技团队 "wikilink")
-[Category:英雄聯盟競技團隊](https://zh.wikipedia.org/wiki/Category:英雄聯盟競技團隊 "wikilink")
+[Category:香港电子竞技团队](https://zh.wikipedia.org/wiki/Category:香港电子竞技团队 "wikilink") [Category:英雄聯盟競技團隊](https://zh.wikipedia.org/wiki/Category:英雄聯盟競技團隊 "wikilink")
 
 1.  <https://www.pandacute.com/asia-all-star>
 2.  <https://kongamers.com/home/article.1147.html>

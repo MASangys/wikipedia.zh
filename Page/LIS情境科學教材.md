@@ -2,10 +2,7 @@
 
 ## 歷史
 
-2013年5月，就讀成功大學化學系三年級的嚴天浩受到[薩爾曼·可汗在](../Page/薩爾曼·可汗.md "wikilink")[TED演講中的演說所啟發](https://zh.wikipedia.org/wiki/TED大會 "wikilink")，於是和其他夥伴以（Learning
-Is
-Sharing）為概念，創立LIS團隊\[1\]；同年8月從高中學測自然科的解題課程開始製作教學影片\[2\]，並將教學影片上傳至[YouTube頻道](../Page/YouTube.md "wikilink")。2014年2月，他們停止錄製高中自然教學影片，將範圍調整為國中小自然課程\[3\]，同年7月亦透過「讓教育沒有距離」專案，在flyingV上以十萬為目標開始募資，最後只能募到44.3%的金額而未能成事\[4\]。2017年8月及10月，LIS線上教學平台分別入選「親子天下創新教育100」\[5\]和遠見天下基金會的「未來教育
-臺灣100」。
+2013年5月，就讀成功大學化學系三年級的嚴天浩受到[薩爾曼·可汗](../Page/薩爾曼·可汗.md "wikilink")在[TED演講中的演說所啟發](https://zh.wikipedia.org/wiki/TED大會 "wikilink")，於是和其他夥伴以（Learning Is Sharing）為概念，創立LIS團隊\[1\]；同年8月從高中學測自然科的解題課程開始製作教學影片\[2\]，並將教學影片上傳至[YouTube](../Page/YouTube.md "wikilink")頻道。2014年2月，他們停止錄製高中自然教學影片，將範圍調整為國中小自然課程\[3\]，同年7月亦透過「讓教育沒有距離」專案，在flyingV上以十萬為目標開始募資，最後只能募到44.3%的金額而未能成事\[4\]。2017年8月及10月，LIS線上教學平台分別入選「親子天下創新教育100」\[5\]和遠見天下基金會的「未來教育 臺灣100」。
 
 ## 主要範疇
 
@@ -25,19 +22,17 @@ Sharing）為概念，創立LIS團隊\[1\]；同年8月從高中學測自然科�
 
 ## 外部連結
 
-  - [YouTube上的](../Page/YouTube.md "wikilink")[【民視異言堂】我把化學課變有趣了.民視異言堂](https://www.taiwanjustice.net/2017/04/16/%E6%B0%91%E8%A6%96%E7%95%B0%E8%A8%80%E5%A0%82-20170415-%E7%8E%BB%E7%92%83%E7%94%A2%E6%A5%AD%E8%88%88%E8%A1%B0%E5%95%9F%E7%A4%BA%E9%8C%84-%E6%88%91%E6%8A%8A%E5%8C%96%E5%AD%B8%E8%AA%B2%E8%AE%8A/).2017-04-15.
+  - [YouTube](../Page/YouTube.md "wikilink")上的[【民視異言堂】我把化學課變有趣了.民視異言堂](https://www.taiwanjustice.net/2017/04/16/%E6%B0%91%E8%A6%96%E7%95%B0%E8%A8%80%E5%A0%82-20170415-%E7%8E%BB%E7%92%83%E7%94%A2%E6%A5%AD%E8%88%88%E8%A1%B0%E5%95%9F%E7%A4%BA%E9%8C%84-%E6%88%91%E6%8A%8A%E5%8C%96%E5%AD%B8%E8%AA%B2%E8%AE%8A/).2017-04-15.
 
-  - [YouTube上的](../Page/YouTube.md "wikilink")【[Irene藹玲幸福相談所】LIS線上教育平台創辦人嚴天浩](https://www.youtube.com/watch?v=VUiS5utSjGM).Irene藹玲幸福相談所.2017-05-24
+  - [YouTube](../Page/YouTube.md "wikilink")上的【[Irene藹玲幸福相談所】LIS線上教育平台創辦人嚴天浩](https://www.youtube.com/watch?v=VUiS5utSjGM).Irene藹玲幸福相談所.2017-05-24
 
-  - 林秀姿 [戶頭剩1千元
-    他堅持理念要做一輩子的教育](https://ubrand.udn.com/ubrand/story/11815/3272050)
-    udn.2018-12-18
+  - 林秀姿 [戶頭剩1千元 他堅持理念要做一輩子的教育](https://ubrand.udn.com/ubrand/story/11815/3272050) udn.2018-12-18
 
   -
   -
   - [LIS情境科學教材 - 官網](https://lis.org.tw/)
 
-<!-- end list -->
+[Category:線上服務](https://zh.wikipedia.org/wiki/Category:線上服務 "wikilink")
 
 1.
 2.

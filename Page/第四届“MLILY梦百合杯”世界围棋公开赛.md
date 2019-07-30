@@ -2,7 +2,7 @@
 
 ## 预选赛
 
-于2019年5月20日-24日在[中国棋院举行](../Page/中国棋院.md "wikilink")。\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]
+于2019年5月20日-24日在[中国棋院](../Page/中国棋院.md "wikilink")举行。\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]
 
 ### 第1组（公开组）
 
@@ -81,12 +81,8 @@
 [Category:国际围棋比赛](https://zh.wikipedia.org/wiki/Category:国际围棋比赛 "wikilink")
 
 1.  [梦百合杯预选赛演进图](http://slide.sports.sina.com.cn/go/slide_2_820_212882.html#p=1)
-2.  [梦百合杯预选首日中韩2比3
-    范蕴若出局於之莹晋级](http://sports.sina.com.cn/go/2019-05-20/doc-ihvhiews3277893.shtml)
-3.  [梦百合预选仲邑堇不敌王晨星
-    古力谢尔豪顺利晋级](http://sports.sina.com.cn/go/2019-05-21/doc-ihvhiews3532183.shtml)
-4.  [梦百合预选邬光亚胜元晟溱
-    唐韦星遗憾出局](http://sports.sina.com.cn/go/2019-05-22/doc-ihvhiews3792512.shtml)
-5.  [梦百合预选中韩14比11
-    常昊古力出局芈昱廷晋级](http://sports.sina.com.cn/go/2019-05-23/doc-ihvhiqay0872904.shtml)
+2.  [梦百合杯预选首日中韩2比3 范蕴若出局於之莹晋级](http://sports.sina.com.cn/go/2019-05-20/doc-ihvhiews3277893.shtml)
+3.  [梦百合预选仲邑堇不敌王晨星 古力谢尔豪顺利晋级](http://sports.sina.com.cn/go/2019-05-21/doc-ihvhiews3532183.shtml)
+4.  [梦百合预选邬光亚胜元晟溱 唐韦星遗憾出局](http://sports.sina.com.cn/go/2019-05-22/doc-ihvhiews3792512.shtml)
+5.  [梦百合预选中韩14比11 常昊古力出局芈昱廷晋级](http://sports.sina.com.cn/go/2019-05-23/doc-ihvhiqay0872904.shtml)
 6.  [梦百合预选决胜中国11-2韩国 40人昂首晋级](http://sports.sina.com.cn/go/2019-05-24/doc-ihvhiews4333856.shtml)

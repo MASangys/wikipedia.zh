@@ -20,11 +20,9 @@
 
 ### 出道前
 
-2012年7月19日，李財准以[Yedang
-Entertainment](https://zh.wikipedia.org/wiki/Yedang_Entertainment "wikilink")（現名[Banana
-Culture](https://zh.wikipedia.org/wiki/Banana_Culture "wikilink")）旗下男團[C-CLOWN成員出道](../Page/C-CLOWN.md "wikilink")，當時藝名為Maru，2015年10月5日，團體宣佈解散。\[2\]\[3\]。
+2012年7月19日，李財准以[Yedang Entertainment](https://zh.wikipedia.org/wiki/Yedang_Entertainment "wikilink")（現名[Banana Culture](https://zh.wikipedia.org/wiki/Banana_Culture "wikilink")）旗下男團[C-CLOWN](../Page/C-CLOWN.md "wikilink")成員出道，當時藝名為Maru，2015年10月5日，團體宣佈解散。\[2\]\[3\]。
 
-2017年8月，李財准與蔡昌鉉以TREI名義發行單曲《Up》，之後在同年10月兩名成員均出演[JTBC選秀節目](../Page/JTBC.md "wikilink")《[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")》，而金俊泰則在2018年5月加入TREI\[4\]，三名成員均兼具作詞作曲與製作能力\[5\]，並在正式出道前持續透過[SoundCloud](../Page/SoundCloud.md "wikilink")、[YouTube等線上平臺公開三人親自創作的歌曲來展現TREI的音樂取向和能量](../Page/YouTube.md "wikilink")\[6\]。
+2017年8月，李財准與蔡昌鉉以TREI名義發行單曲《Up》，之後在同年10月兩名成員均出演[JTBC](../Page/JTBC.md "wikilink")選秀節目《[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")》，而金俊泰則在2018年5月加入TREI\[4\]，三名成員均兼具作詞作曲與製作能力\[5\]，並在正式出道前持續透過[SoundCloud](../Page/SoundCloud.md "wikilink")、[YouTube](../Page/YouTube.md "wikilink")等線上平臺公開三人親自創作的歌曲來展現TREI的音樂取向和能量\[6\]。
 
 2018年5月17日，發行出道先行單曲《Nike》並通過KMF舞臺亮相，為出道暖身\[7\]。
 
@@ -208,11 +206,7 @@ Culture](https://zh.wikipedia.org/wiki/Banana_Culture "wikilink")）旗下男團
   -
   -
   -
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:2019年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2019年成立的音樂團體 "wikilink")
-[Category:2019年韓國建立](https://zh.wikipedia.org/wiki/Category:2019年韓國建立 "wikilink")
+[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2019年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2019年成立的音樂團體 "wikilink") [Category:2019年韓國建立](https://zh.wikipedia.org/wiki/Category:2019年韓國建立 "wikilink")
 
 1.
 

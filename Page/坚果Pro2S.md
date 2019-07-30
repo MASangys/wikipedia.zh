@@ -1,6 +1,4 @@
-坚果Pro2S是[锤子科技在](../Page/锤子科技.md "wikilink")2018年8月20日夏季发布会上发布的准旗舰手机，搭载[高通骁龙710](https://zh.wikipedia.org/wiki/高通骁龙710 "wikilink")、[IMX363和](https://zh.wikipedia.org/wiki/IMX363 "wikilink")1200+500mp后置双摄，支持TV-OUT，[DxO
-Mark综合评分](https://zh.wikipedia.org/wiki/DxO_Mark "wikilink")91，拍照得分95。运行基于[Android](../Page/Android.md "wikilink")
-O的SmartisanOS 6。
+坚果Pro2S是[锤子科技](../Page/锤子科技.md "wikilink")在2018年8月20日夏季发布会上发布的准旗舰手机，搭载[高通骁龙710](https://zh.wikipedia.org/wiki/高通骁龙710 "wikilink")、[IMX363和](https://zh.wikipedia.org/wiki/IMX363 "wikilink")1200+500mp后置双摄，支持TV-OUT，[DxO Mark综合评分](https://zh.wikipedia.org/wiki/DxO_Mark "wikilink")91，拍照得分95。运行基于[Android](../Page/Android.md "wikilink") O的SmartisanOS 6。
 
 ## 设计
 
@@ -10,13 +8,11 @@ O的SmartisanOS 6。
 
 ### 相机
 
-IMX
-363，1200+500万，1600万前置，DxO评分91。[4K视频录制](https://zh.wikipedia.org/wiki/4K视频 "wikilink")，防抖。拥有[AI加持](https://zh.wikipedia.org/wiki/AI "wikilink")。
+IMX 363，1200+500万，1600万前置，DxO评分91。[4K视频录制](https://zh.wikipedia.org/wiki/4K视频 "wikilink")，防抖。拥有[AI加持](https://zh.wikipedia.org/wiki/AI "wikilink")。
 
 ### 屏幕
 
-官方宣称坚果Pro2S的屏幕[分辨率是](../Page/分辨率.md "wikilink")2160\*1080，但根据\[2\]的结果，理论上的分辨率应该是2160\*720左右。所有的[OLED
-屏幕都可能出现烧屏问题](https://zh.wikipedia.org/wiki/OLED_屏幕 "wikilink")。
+官方宣称坚果Pro2S的屏幕[分辨率](../Page/分辨率.md "wikilink")是2160\*1080，但根据\[2\]的结果，理论上的分辨率应该是2160\*720左右。所有的[OLED 屏幕都可能出现烧屏问题](https://zh.wikipedia.org/wiki/OLED_屏幕 "wikilink")。
 
 ### SOC、连接、存储、续航和充电
 
@@ -26,9 +22,7 @@ IMX
 
 ### SmartisanOS 主流更新
 
-坚果pro2s截止到2019年4月21日系统已经更新到SmartisanOS
-6.6.6.2，加入了游戏模式、[负一屏](https://zh.wikipedia.org/wiki/负一屏 "wikilink")、增加了smartisan输入法、TNT正式版。Smartisan
-OS正在不断地更新，增加好用的功能。
+坚果pro2s截止到2019年4月21日系统已经更新到SmartisanOS 6.6.6.2，加入了游戏模式、[负一屏](https://zh.wikipedia.org/wiki/负一屏 "wikilink")、增加了smartisan输入法、TNT正式版。Smartisan OS正在不断地更新，增加好用的功能。
 
 ### 无限屏
 
@@ -48,12 +42,9 @@ TNT全面铺开支持所有显示器。坚果Pro2S也支持TNT。
 
 ## 參考資料
 
-<noinclude> </noinclude>
+ <noinclude> </noinclude>
 
-[Category:锤子科技](https://zh.wikipedia.org/wiki/Category:锤子科技 "wikilink")
-[Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink")
-[Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink")
-[Category:锤子科技](https://zh.wikipedia.org/wiki/Category:锤子科技 "wikilink")
+[Category:锤子科技](https://zh.wikipedia.org/wiki/Category:锤子科技 "wikilink") [Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink") [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink") [Category:锤子科技](https://zh.wikipedia.org/wiki/Category:锤子科技 "wikilink")
 
 1.
 2.

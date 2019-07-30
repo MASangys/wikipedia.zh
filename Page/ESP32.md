@@ -1,27 +1,21 @@
-**ESP32**是一系列低成本，低功耗的[單晶片微控制器](https://zh.wikipedia.org/wiki/單晶片 "wikilink")，集成了[Wi-Fi和雙模](../Page/Wi-Fi.md "wikilink")[藍牙](../Page/藍牙.md "wikilink")。
-ESP32系列採用Tensilica Xtensa
-LX6微處理器，包括雙核心和單核變體，內建天線開關，RF變換器，[功率放大器](https://zh.wikipedia.org/wiki/功率放大器 "wikilink")，[低雜訊接收放大器](https://zh.wikipedia.org/wiki/低雜訊接收放大器 "wikilink")，濾波器和電源管理模組。
+**ESP32**是一系列低成本，低功耗的[單晶片微控制器](https://zh.wikipedia.org/wiki/單晶片 "wikilink")，集成了[Wi-Fi](../Page/Wi-Fi.md "wikilink")和雙模[藍牙](../Page/藍牙.md "wikilink")。 ESP32系列採用Tensilica Xtensa LX6微處理器，包括雙核心和單核變體，內建天線開關，RF變換器，[功率放大器](https://zh.wikipedia.org/wiki/功率放大器 "wikilink")，[低雜訊接收放大器](https://zh.wikipedia.org/wiki/低雜訊接收放大器 "wikilink")，濾波器和電源管理模組。
 
-ESP32
-由總部位於[上海的中國公司](https://zh.wikipedia.org/wiki/上海 "wikilink")[樂鑫信息科技創建和開發](https://zh.wikipedia.org/wiki/樂鑫信息科技 "wikilink")，由[台積電採用](https://zh.wikipedia.org/wiki/台積電 "wikilink")40[奈米技術製造](https://zh.wikipedia.org/wiki/奈米 "wikilink")\[1\]。它是[ESP8266微控制器的後繼產品](https://zh.wikipedia.org/wiki/ESP8266 "wikilink")。
+ESP32 由總部位於[上海的中國公司](https://zh.wikipedia.org/wiki/上海 "wikilink")[樂鑫信息科技創建和開發](https://zh.wikipedia.org/wiki/樂鑫信息科技 "wikilink")，由[台積電採用](https://zh.wikipedia.org/wiki/台積電 "wikilink")40[奈米技術製造](https://zh.wikipedia.org/wiki/奈米 "wikilink")\[1\]。它是[ESP8266微控制器的後繼產品](https://zh.wikipedia.org/wiki/ESP8266 "wikilink")。
 
 ## 功能
 
 ESP32的功能包括以下內容：
 
   - 處理器：
-      - CPU: Xtensa 雙核心 (或者單核心) 32位元 LX6 微處理器, 工作時脈 160/240 MHz, 運算能力高達
-        600 DMIPS
+      - CPU: Xtensa 雙核心 (或者單核心) 32位元 LX6 微處理器, 工作時脈 160/240 MHz, 運算能力高達 600 DMIPS
   - 記憶體：
       - 448kB ROM
       - 520kB SRAM
       - 16kB RTC SRAM
-      - QSPI
-        支援多個[快閃記憶體](https://zh.wikipedia.org/wiki/快閃記憶體 "wikilink")/[SRAM](../Page/静态随机存取存储器.md "wikilink")
+      - QSPI 支援多個[快閃記憶體](https://zh.wikipedia.org/wiki/快閃記憶體 "wikilink")/[SRAM](../Page/静态随机存取存储器.md "wikilink")
   - 無線傳輸：
       - [Wi-Fi](../Page/Wi-Fi.md "wikilink"): 802.11 b/g/n
-      - [藍芽](https://zh.wikipedia.org/wiki/藍芽 "wikilink"): v4.2
-        BR/EDR/BLE
+      - [藍芽](https://zh.wikipedia.org/wiki/藍芽 "wikilink"): v4.2 BR/EDR/BLE
   - 外部介面：
       - 34個 [GPIO](https://zh.wikipedia.org/wiki/GPIO "wikilink")
       - 12-bit SAR ADC ，多達18個通道
@@ -31,17 +25,13 @@ ESP32的功能包括以下內容：
       - 2個 [I<sup>2</sup>S](../Page/I²S.md "wikilink")
       - 2個 [I<sup>2</sup>C](../Page/I²C.md "wikilink")
       - 3個 [UART](../Page/UART.md "wikilink")
-      - 1個 Host
-        SD/[eMMC](https://zh.wikipedia.org/wiki/eMMC "wikilink")/[SDIO](../Page/SD卡.md "wikilink")
-      - 1個 Slave
-        [SDIO](../Page/SD卡.md "wikilink")/[SPI](../Page/序列周邊介面.md "wikilink")
-      - 帶有專用 DMA 的[乙太網路介面](../Page/以太网.md "wikilink"),支援
-        [IEEE](../Page/电气电子工程师学会.md "wikilink") 1588
+      - 1個 Host SD/[eMMC](https://zh.wikipedia.org/wiki/eMMC "wikilink")/[SDIO](../Page/SD卡.md "wikilink")
+      - 1個 Slave [SDIO](../Page/SD卡.md "wikilink")/[SPI](../Page/序列周邊介面.md "wikilink")
+      - 帶有專用 DMA 的[乙太網路介面](../Page/以太网.md "wikilink"),支援 [IEEE](../Page/电气电子工程师学会.md "wikilink") 1588
       - CAN 2.0
       - [紅外線傳輸](https://zh.wikipedia.org/wiki/紅外線 "wikilink")
       - 電機 [PWM](../Page/脈衝寬度調變.md "wikilink")
-      - [LED](../Page/發光二極管.md "wikilink")
-        [PWM](../Page/脈衝寬度調變.md "wikilink"), 多達16個通道
+      - [LED](../Page/發光二極管.md "wikilink") [PWM](../Page/脈衝寬度調變.md "wikilink"), 多達16個通道
       - [霍爾感應器](../Page/霍尔效应传感器.md "wikilink")
   - 安全機制
       - 安全啟動
@@ -49,12 +39,10 @@ ESP32的功能包括以下內容：
       - 1024 bit OTP, 使用者可用高達768 bit
       - 硬體加密加速器
           - [AES](https://zh.wikipedia.org/wiki/AES "wikilink")
-          - [Hash](https://zh.wikipedia.org/wiki/Hash "wikilink")
-            ([SHA-2](../Page/SHA-2.md "wikilink"))
+          - [Hash](https://zh.wikipedia.org/wiki/Hash "wikilink") ([SHA-2](../Page/SHA-2.md "wikilink"))
           - [RSA](https://zh.wikipedia.org/wiki/RSA "wikilink")
           - [ECC](https://zh.wikipedia.org/wiki/ECC "wikilink")
-          - [亂數產生器](https://zh.wikipedia.org/wiki/硬體亂數生成器 "wikilink")
-            (RNG)
+          - [亂數產生器](https://zh.wikipedia.org/wiki/硬體亂數生成器 "wikilink") (RNG)
 
 ## 参考资料
 

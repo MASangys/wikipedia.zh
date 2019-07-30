@@ -1,5 +1,4 @@
-是[Windmill
-Oasis在](../Page/Windmill.md "wikilink")2019年2月22日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]。
+是[Windmill Oasis在](../Page/Windmill.md "wikilink")2019年2月22日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]。
 
 ## 故事簡介
 
@@ -18,7 +17,7 @@ Oasis在](../Page/Windmill.md "wikilink")2019年2月22日發售的[戀愛冒險�
   -
     櫻丘學園三年級生，和綺的青梅竹馬，自稱是和綺的未婚妻。擅於占卜，但算出來的都是不好的結果。
   -
-    櫻丘學園一年級生，和綺的妹妹，擁有一流的魔法實力。升上高中前都在[蘇格蘭留學](../Page/蘇格蘭.md "wikilink")。不擅長與人相處。
+    櫻丘學園一年級生，和綺的妹妹，擁有一流的魔法實力。升上高中前都在[蘇格蘭](../Page/蘇格蘭.md "wikilink")留學。不擅長與人相處。
 
 ### 其他角色
 
@@ -40,15 +39,9 @@ Oasis在](../Page/Windmill.md "wikilink")2019年2月22日發售的[戀愛冒險�
 
 ## 外部連結
 
-  - [Happiness\!2 Sakura
-    Celebration遊戲官網](http://windmill.suki.jp/product/happiness2/index.html)
+  - [Happiness\!2 Sakura Celebration遊戲官網](http://windmill.suki.jp/product/happiness2/index.html)
 
-[Category:2019年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2019年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink")
-[Category:魔法少女題材遊戲](https://zh.wikipedia.org/wiki/Category:魔法少女題材遊戲 "wikilink")
+[Category:2019年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2019年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink") [Category:魔法少女題材遊戲](https://zh.wikipedia.org/wiki/Category:魔法少女題材遊戲 "wikilink")
 
 1.
 

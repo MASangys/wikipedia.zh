@@ -1,5 +1,4 @@
-**土尔克语**，又称**伊犁土尔克语**(Ili türk
-tili)、**伊犁突厥语**、**土尔克话**，是一种使用于[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[新疆西部和](https://zh.wikipedia.org/wiki/新疆 "wikilink")[哈萨克斯坦的](../Page/哈萨克斯坦.md "wikilink")[濒危语言](https://zh.wikipedia.org/wiki/濒危语言 "wikilink")，属于[突厥语族](../Page/突厥语族.md "wikilink")，为[中国未识别民族](https://zh.wikipedia.org/wiki/中国未识别民族 "wikilink")[土尔克人的民族语言](https://zh.wikipedia.org/wiki/土尔克人 "wikilink")。该语言同时表现出葛逻禄语支和钦察语支的特点。在中国，该语言常被视为维吾尔语的方言。
+**土尔克语**，又称**伊犁土尔克语**(Ili türk tili)、**伊犁突厥语**、**土尔克话**，是一种使用于[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[新疆西部和](https://zh.wikipedia.org/wiki/新疆 "wikilink")[哈萨克斯坦](../Page/哈萨克斯坦.md "wikilink")的[濒危语言](https://zh.wikipedia.org/wiki/濒危语言 "wikilink")，属于[突厥语族](../Page/突厥语族.md "wikilink")，为[中国未识别民族](https://zh.wikipedia.org/wiki/中国未识别民族 "wikilink")[土尔克人的民族语言](https://zh.wikipedia.org/wiki/土尔克人 "wikilink")。该语言同时表现出葛逻禄语支和钦察语支的特点。在中国，该语言常被视为维吾尔语的方言。
 
 ## 分類
 
@@ -71,13 +70,9 @@ tili)、**伊犁突厥语**、**土尔克话**，是一种使用于[中国](http
   -
 ## 外部链接
 
-  - [Ethnologue report for language
-    code:ili](http://www.ethnologue.com/show_language.asp?code=ili)
+  - [Ethnologue report for language code:ili](http://www.ethnologue.com/show_language.asp?code=ili)
 
-[Category:濒危突厥语族](https://zh.wikipedia.org/wiki/Category:濒危突厥语族 "wikilink")
-[Category:新疆濒危语言](https://zh.wikipedia.org/wiki/Category:新疆濒危语言 "wikilink")
-[Category:哈萨克斯坦濒危语言](https://zh.wikipedia.org/wiki/Category:哈萨克斯坦濒危语言 "wikilink")
-[Category:葛逻禄语支](https://zh.wikipedia.org/wiki/Category:葛逻禄语支 "wikilink")
+[Category:濒危突厥语族](https://zh.wikipedia.org/wiki/Category:濒危突厥语族 "wikilink") [Category:新疆濒危语言](https://zh.wikipedia.org/wiki/Category:新疆濒危语言 "wikilink") [Category:哈萨克斯坦濒危语言](https://zh.wikipedia.org/wiki/Category:哈萨克斯坦濒危语言 "wikilink") [Category:葛逻禄语支](https://zh.wikipedia.org/wiki/Category:葛逻禄语支 "wikilink")
 
 1.
 2.

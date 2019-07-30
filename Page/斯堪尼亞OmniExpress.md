@@ -4,5 +4,4 @@
 
   -
   -
-[Category:斯堪尼亞巴士](https://zh.wikipedia.org/wiki/Category:斯堪尼亞巴士 "wikilink")
-[Category:低地台巴士](https://zh.wikipedia.org/wiki/Category:低地台巴士 "wikilink")
+[Category:斯堪尼亞巴士](https://zh.wikipedia.org/wiki/Category:斯堪尼亞巴士 "wikilink") [Category:低地台巴士](https://zh.wikipedia.org/wiki/Category:低地台巴士 "wikilink")

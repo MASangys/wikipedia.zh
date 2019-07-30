@@ -1,5 +1,4 @@
-\-- This module finds the length of an array, or of a quasi-array with
-keys such -- as "data1", "data2", etc., using a binary search algorithm.
+\-- This module finds the length of an array, or of a quasi-array with keys such -- as "data1", "data2", etc., using a binary search algorithm.
 
 local checkType = require('libraryUtil').checkType
 

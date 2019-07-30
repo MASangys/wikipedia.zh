@@ -138,5 +138,4 @@ end
 
 return p
 
-[Category:Pages_using_gallery_with_the_captionstyle_parameter](https://zh.wikipedia.org/wiki/Category:Pages_using_gallery_with_the_captionstyle_parameter "wikilink")
-[Category:Pages_using_gallery_with_unknown_parameters](https://zh.wikipedia.org/wiki/Category:Pages_using_gallery_with_unknown_parameters "wikilink")
+[Category:Pages_using_gallery_with_the_captionstyle_parameter](https://zh.wikipedia.org/wiki/Category:Pages_using_gallery_with_the_captionstyle_parameter "wikilink") [Category:Pages_using_gallery_with_unknown_parameters](https://zh.wikipedia.org/wiki/Category:Pages_using_gallery_with_unknown_parameters "wikilink")

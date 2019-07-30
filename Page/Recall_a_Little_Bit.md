@@ -1,5 +1,4 @@
-《**Recall a Little
-Bit**》是[香港](../Page/香港.md "wikilink")[組合](../Page/組合.md "wikilink")[小塵埃的第](../Page/小塵埃.md "wikilink")3張音樂專輯，於2018年7月6日推出。專輯以翻唱90年代的兒歌為主。
+《**Recall a Little Bit**》是[香港](../Page/香港.md "wikilink")[組合](../Page/組合.md "wikilink")[小塵埃](../Page/小塵埃.md "wikilink")的第3張音樂專輯，於2018年7月6日推出。專輯以翻唱90年代的兒歌為主。
 
 ## 曲目列表
 
@@ -14,8 +13,4 @@ Bit**》是[香港](../Page/香港.md "wikilink")[組合](../Page/組合.md "wik
 
 ## 參考來源
 
-[Category:小塵埃音樂專輯](https://zh.wikipedia.org/wiki/Category:小塵埃音樂專輯 "wikilink")
-[Category:2018年音樂專輯](https://zh.wikipedia.org/wiki/Category:2018年音樂專輯 "wikilink")
-[Category:2018年迷你專輯](https://zh.wikipedia.org/wiki/Category:2018年迷你專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:翻唱專輯](https://zh.wikipedia.org/wiki/Category:翻唱專輯 "wikilink")
+[Category:小塵埃音樂專輯](https://zh.wikipedia.org/wiki/Category:小塵埃音樂專輯 "wikilink") [Category:2018年音樂專輯](https://zh.wikipedia.org/wiki/Category:2018年音樂專輯 "wikilink") [Category:2018年迷你專輯](https://zh.wikipedia.org/wiki/Category:2018年迷你專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:翻唱專輯](https://zh.wikipedia.org/wiki/Category:翻唱專輯 "wikilink")

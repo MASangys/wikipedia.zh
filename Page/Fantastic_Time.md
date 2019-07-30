@@ -1,6 +1,4 @@
-「**Fantastic Time**」
-是[Hey\!Say\!JUMP的第](../Page/Hey!_Say!_JUMP.md "wikilink")17张[单曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2016年10月26日由[J
-Storm发售](../Page/J_Storm.md "wikilink")。
+「**Fantastic Time**」 是[Hey\!Say\!JUMP的第](../Page/Hey!_Say!_JUMP.md "wikilink")17张[单曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2016年10月26日由[J Storm发售](../Page/J_Storm.md "wikilink")。
 
 ## 收錄曲
 
@@ -43,8 +41,7 @@ Storm发售](../Page/J_Storm.md "wikilink")。
         作詞：小松清人、作曲：小松清人 / 川口進、編曲：小松清人
 4.  What A Feeling
       -
-        作詞：Komei Kobayashi、作曲：Joacim Persson / Johan Alkenas / Andy
-        Love、編曲：Joacim Persson / Johan Alkenas
+        作詞：Komei Kobayashi、作曲：Joacim Persson / Johan Alkenas / Andy Love、編曲：Joacim Persson / Johan Alkenas
 5.  Fantastic Time(Original Karaoke)
 6.  Never Let You Go(Original Karaoke)
 7.  ワンダーロード(Original Karaoke)
@@ -54,11 +51,6 @@ Storm发售](../Page/J_Storm.md "wikilink")。
 
 ## 外部链接
 
-1.  [Fantastic Time - J
-    Storm](https://www.j-storm.co.jp/heysayjump/discography/fantastic-time)
+1.  [Fantastic Time - J Storm](https://www.j-storm.co.jp/heysayjump/discography/fantastic-time)
 
-[Category:Hey\!_Say\!_JUMP歌曲](https://zh.wikipedia.org/wiki/Category:Hey!_Say!_JUMP歌曲 "wikilink")
-[Category:2016年單曲](https://zh.wikipedia.org/wiki/Category:2016年單曲 "wikilink")
-[Category:讀賣電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:讀賣電視台動畫主題曲 "wikilink")
-[Category:時空母艦系列](https://zh.wikipedia.org/wiki/Category:時空母艦系列 "wikilink")
-[Category:2016年Oricon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Oricon單曲月榜冠軍作品 "wikilink")
+[Category:Hey\!_Say\!_JUMP歌曲](https://zh.wikipedia.org/wiki/Category:Hey!_Say!_JUMP歌曲 "wikilink") [Category:2016年單曲](https://zh.wikipedia.org/wiki/Category:2016年單曲 "wikilink") [Category:讀賣電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:讀賣電視台動畫主題曲 "wikilink") [Category:時空母艦系列](https://zh.wikipedia.org/wiki/Category:時空母艦系列 "wikilink") [Category:2016年Oricon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Oricon單曲月榜冠軍作品 "wikilink")

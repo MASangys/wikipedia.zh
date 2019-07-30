@@ -1,259 +1,63 @@
-The **canonization of the Romanovs** was the elevation to
-[sainthood](https://zh.wikipedia.org/wiki/saint "wikilink") of the last
-[Imperial
-Family](https://zh.wikipedia.org/wiki/House_of_Romanov "wikilink") of
-[Russia](https://zh.wikipedia.org/wiki/Russian_Empire "wikilink") –
-[Tsar Nicholas
-II](https://zh.wikipedia.org/wiki/Nicholas_II_of_Russia "wikilink"), his
-wife [Tsarina
-Alexandra](https://zh.wikipedia.org/wiki/Alexandra_Fyodorovna_of_Hesse "wikilink"),
-and their five children
-[Olga](https://zh.wikipedia.org/wiki/Grand_Duchess_Olga_Nikolaevna_of_Russia "wikilink"),
-[Tatiana](https://zh.wikipedia.org/wiki/Grand_Duchess_Tatiana_Nikolaevna_of_Russia "wikilink"),
-[Maria](https://zh.wikipedia.org/wiki/Grand_Duchess_Maria_Nikolaevna_of_Russia_\(1899–1918\) "wikilink"),
-[Anastasia](https://zh.wikipedia.org/wiki/Grand_Duchess_Anastasia_Nikolaevna_of_Russia "wikilink"),
-and
-[Alexei](https://zh.wikipedia.org/wiki/Tsarevich_Alexei_Nikolaevich_of_Russia "wikilink")
-– by the [Russian Orthodox
-Church](https://zh.wikipedia.org/wiki/Russian_Orthodox_Church "wikilink").
-The family was
-[killed](https://zh.wikipedia.org/wiki/Shooting_of_the_Romanov_family "wikilink")
-by the [Bolsheviks](https://zh.wikipedia.org/wiki/Bolsheviks "wikilink")
-on 17 July 1918 at the [Ipatiev
-House](https://zh.wikipedia.org/wiki/Ipatiev_House "wikilink") in
-[Yekaterinburg](https://zh.wikipedia.org/wiki/Yekaterinburg "wikilink");
-the site of their execution is now beneath the altar of [the Church on
-Blood](https://zh.wikipedia.org/wiki/Church_of_All_Saints,_Yekaterinburg#The_church "wikilink").
-They are variously designated as [new
-martyrs](https://zh.wikipedia.org/wiki/new_martyr "wikilink") by the
-[Russian Orthodox Church
-Abroad](https://zh.wikipedia.org/wiki/Russian_Orthodox_Church_Abroad "wikilink")
-and as [passion
-bearers](https://zh.wikipedia.org/wiki/passion_bearer "wikilink") by the
-church inside Russia.
+The **canonization of the Romanovs** was the elevation to [sainthood](https://zh.wikipedia.org/wiki/saint "wikilink") of the last [Imperial Family](https://zh.wikipedia.org/wiki/House_of_Romanov "wikilink") of [Russia](https://zh.wikipedia.org/wiki/Russian_Empire "wikilink") – [Tsar Nicholas II](https://zh.wikipedia.org/wiki/Nicholas_II_of_Russia "wikilink"), his wife [Tsarina Alexandra](https://zh.wikipedia.org/wiki/Alexandra_Fyodorovna_of_Hesse "wikilink"), and their five children [Olga](https://zh.wikipedia.org/wiki/Grand_Duchess_Olga_Nikolaevna_of_Russia "wikilink"), [Tatiana](https://zh.wikipedia.org/wiki/Grand_Duchess_Tatiana_Nikolaevna_of_Russia "wikilink"), [Maria](https://zh.wikipedia.org/wiki/Grand_Duchess_Maria_Nikolaevna_of_Russia_\(1899–1918\) "wikilink"), [Anastasia](https://zh.wikipedia.org/wiki/Grand_Duchess_Anastasia_Nikolaevna_of_Russia "wikilink"), and [Alexei](https://zh.wikipedia.org/wiki/Tsarevich_Alexei_Nikolaevich_of_Russia "wikilink") – by the [Russian Orthodox Church](https://zh.wikipedia.org/wiki/Russian_Orthodox_Church "wikilink"). The family was [killed](https://zh.wikipedia.org/wiki/Shooting_of_the_Romanov_family "wikilink") by the [Bolsheviks](https://zh.wikipedia.org/wiki/Bolsheviks "wikilink") on 17 July 1918 at the [Ipatiev House](https://zh.wikipedia.org/wiki/Ipatiev_House "wikilink") in [Yekaterinburg](https://zh.wikipedia.org/wiki/Yekaterinburg "wikilink"); the site of their execution is now beneath the altar of [the Church on Blood](https://zh.wikipedia.org/wiki/Church_of_All_Saints,_Yekaterinburg#The_church "wikilink"). They are variously designated as [new martyrs](https://zh.wikipedia.org/wiki/new_martyr "wikilink") by the [Russian Orthodox Church Abroad](https://zh.wikipedia.org/wiki/Russian_Orthodox_Church_Abroad "wikilink") and as [passion bearers](https://zh.wikipedia.org/wiki/passion_bearer "wikilink") by the church inside Russia.
 
-The family was canonized on 1 November 1981 as [new
-martyrs](https://zh.wikipedia.org/wiki/new_martyr "wikilink") by the
-[Russian Orthodox Church
-Abroad](https://zh.wikipedia.org/wiki/Russian_Orthodox_Church_Outside_Russia "wikilink").
-Their servants, who had been killed along with them, were also
-canonized. The canonized servants were their court physician, [Yevgeny
-Botkin](https://zh.wikipedia.org/wiki/Eugene_Botkin "wikilink"); their
-[footman](https://zh.wikipedia.org/wiki/footman "wikilink") [Alexei
-Trupp](https://zh.wikipedia.org/wiki/Alexei_Trupp "wikilink"); their
-cook, [Ivan
-Kharitonov](https://zh.wikipedia.org/wiki/Ivan_Kharitonov "wikilink");
-and Alexandra's maid, [Anna
-Demidova](https://zh.wikipedia.org/wiki/Anna_Demidova "wikilink"). Also
-canonized were two servants killed in September 1918, [lady in
-waiting](https://zh.wikipedia.org/wiki/lady_in_waiting "wikilink")
-[Anastasia
-Hendrikova](https://zh.wikipedia.org/wiki/Anastasia_Hendrikova "wikilink")
-and tutor [Catherine Adolphovna
-Schneider](https://zh.wikipedia.org/wiki/Catherine_Schneider "wikilink").
-All were canonized as victims of oppression by the Bolsheviks. The
-Russian Orthodox Church did not canonize the servants, two of whom were
-not Russian Orthodox: Trupp was [Roman
-Catholic](https://zh.wikipedia.org/wiki/Roman_Catholic "wikilink"), and
-Schneider was
-[Lutheran](https://zh.wikipedia.org/wiki/Lutheran "wikilink").
+The family was canonized on 1 November 1981 as [new martyrs](https://zh.wikipedia.org/wiki/new_martyr "wikilink") by the [Russian Orthodox Church Abroad](https://zh.wikipedia.org/wiki/Russian_Orthodox_Church_Outside_Russia "wikilink"). Their servants, who had been killed along with them, were also canonized. The canonized servants were their court physician, [Yevgeny Botkin](https://zh.wikipedia.org/wiki/Eugene_Botkin "wikilink"); their [footman](https://zh.wikipedia.org/wiki/footman "wikilink") [Alexei Trupp](https://zh.wikipedia.org/wiki/Alexei_Trupp "wikilink"); their cook, [Ivan Kharitonov](https://zh.wikipedia.org/wiki/Ivan_Kharitonov "wikilink"); and Alexandra's maid, [Anna Demidova](https://zh.wikipedia.org/wiki/Anna_Demidova "wikilink"). Also canonized were two servants killed in September 1918, [lady in waiting](https://zh.wikipedia.org/wiki/lady_in_waiting "wikilink") [Anastasia Hendrikova](https://zh.wikipedia.org/wiki/Anastasia_Hendrikova "wikilink") and tutor [Catherine Adolphovna Schneider](https://zh.wikipedia.org/wiki/Catherine_Schneider "wikilink"). All were canonized as victims of oppression by the Bolsheviks. The Russian Orthodox Church did not canonize the servants, two of whom were not Russian Orthodox: Trupp was [Roman Catholic](https://zh.wikipedia.org/wiki/Roman_Catholic "wikilink"), and Schneider was [Lutheran](https://zh.wikipedia.org/wiki/Lutheran "wikilink").
 
-Alexandra's sister, [Grand Duchess Elizabeth
-Fyodorovna](https://zh.wikipedia.org/wiki/Grand_Duchess_Elizabeth_Fyodorovna "wikilink"),
-who was murdered by the Bolsheviks on 18 July 1918, was canonized on 1
-November 1981 as New-Martyr Elizabeth by the Russian Orthodox Church
-Abroad, along with [Prince Ioann Konstantinovich of
-Russia](https://zh.wikipedia.org/wiki/Prince_Ioann_Konstantinovich_of_Russia "wikilink"),
-[Prince Igor Konstantinovich of
-Russia](https://zh.wikipedia.org/wiki/Prince_Igor_Konstantinovich_of_Russia "wikilink"),
-[Prince Konstantine Konstantinovich of
-Russia](https://zh.wikipedia.org/wiki/Prince_Konstantine_Konstantinovich_of_Russia "wikilink"),
-[Grand Duke Sergey Mikhaylovich of
-Russia](https://zh.wikipedia.org/wiki/Grand_Duke_Sergey_Mikhaylovich_of_Russia "wikilink"),
-and [Prince Vladimir Pavlovich
-Paley](https://zh.wikipedia.org/wiki/Vladimir_Pavlovich_Paley "wikilink"),
-and Elizabeth's faithful companion, [Sister Varvara
-Yakovleva](https://zh.wikipedia.org/wiki/Varvara_Yakovleva "wikilink"),
-who were all killed with her. Fyodor Remez, Grand Duke Sergei's personal
-secretary, who was killed as well, was not canonized. They are known as
-the Martyrs of
-[Alapaevsk](https://zh.wikipedia.org/wiki/Alapayevsk "wikilink").
+Alexandra's sister, [Grand Duchess Elizabeth Fyodorovna](https://zh.wikipedia.org/wiki/Grand_Duchess_Elizabeth_Fyodorovna "wikilink"), who was murdered by the Bolsheviks on 18 July 1918, was canonized on 1 November 1981 as New-Martyr Elizabeth by the Russian Orthodox Church Abroad, along with [Prince Ioann Konstantinovich of Russia](https://zh.wikipedia.org/wiki/Prince_Ioann_Konstantinovich_of_Russia "wikilink"), [Prince Igor Konstantinovich of Russia](https://zh.wikipedia.org/wiki/Prince_Igor_Konstantinovich_of_Russia "wikilink"), [Prince Konstantine Konstantinovich of Russia](https://zh.wikipedia.org/wiki/Prince_Konstantine_Konstantinovich_of_Russia "wikilink"), [Grand Duke Sergey Mikhaylovich of Russia](https://zh.wikipedia.org/wiki/Grand_Duke_Sergey_Mikhaylovich_of_Russia "wikilink"), and [Prince Vladimir Pavlovich Paley](https://zh.wikipedia.org/wiki/Vladimir_Pavlovich_Paley "wikilink"), and Elizabeth's faithful companion, [Sister Varvara Yakovleva](https://zh.wikipedia.org/wiki/Varvara_Yakovleva "wikilink"), who were all killed with her. Fyodor Remez, Grand Duke Sergei's personal secretary, who was killed as well, was not canonized. They are known as the Martyrs of [Alapaevsk](https://zh.wikipedia.org/wiki/Alapayevsk "wikilink").
 
-In 1992, [Grand Duchess Elizabeth
-Fyodorovna](https://zh.wikipedia.org/wiki/Grand_Duchess_Elizabeth_Fyodorovna "wikilink")
-and [Varvara
-Yakovleva](https://zh.wikipedia.org/wiki/Varvara_Yakovleva "wikilink")
-were canonized as New-Martyr Elizabeth and New-Martyr Barbara by the
-Moscow Patriarchate. The grand dukes and others killed with them were
-not canonized.
+In 1992, [Grand Duchess Elizabeth Fyodorovna](https://zh.wikipedia.org/wiki/Grand_Duchess_Elizabeth_Fyodorovna "wikilink") and [Varvara Yakovleva](https://zh.wikipedia.org/wiki/Varvara_Yakovleva "wikilink") were canonized as New-Martyr Elizabeth and New-Martyr Barbara by the Moscow Patriarchate. The grand dukes and others killed with them were not canonized.
 
-On 20 August 2000, after much debate, the [Romanov
-family](https://zh.wikipedia.org/wiki/House_of_Romanov "wikilink") was
-canonized as passion bearers by the Moscow Patriarchate.
+On 20 August 2000, after much debate, the [Romanov family](https://zh.wikipedia.org/wiki/House_of_Romanov "wikilink") was canonized as passion bearers by the Moscow Patriarchate.
 
-On 3 February 2016, the Bishop's Council of the Russian Orthodox Church
-canonized Botkin as a righteous passion bearer.\[1\]
+On 3 February 2016, the Bishop's Council of the Russian Orthodox Church canonized Botkin as a righteous passion bearer.\[1\]
 
 ## Controversy
 
-The canonizations were controversial for both branches of the Russian
-[Orthodox
-Church](https://zh.wikipedia.org/wiki/Orthodox_Church "wikilink"). In
-1981, opponents noted Nicholas II's perceived weaknesses as a ruler and
-felt his actions led to the resulting Bolshevik Revolution. One priest
-of the [Russian Orthodox Church
-Abroad](https://zh.wikipedia.org/wiki/Russian_Orthodox_Church_Abroad "wikilink")
-noted that martyrdom in the Russian Orthodox Church has nothing to do
-with the martyr's personal actions but is instead related to why he or
-she was killed.\[2\] Other critics noted that the Russian Orthodox
-Church Abroad appeared to be blaming
-[Jewish](https://zh.wikipedia.org/wiki/Jewish "wikilink")
-revolutionaries for the deaths and equating the political assassination
-with a [ritual
-murder](https://zh.wikipedia.org/wiki/blood_libel "wikilink").\[3\]
+The canonizations were controversial for both branches of the Russian [Orthodox Church](https://zh.wikipedia.org/wiki/Orthodox_Church "wikilink"). In 1981, opponents noted Nicholas II's perceived weaknesses as a ruler and felt his actions led to the resulting Bolshevik Revolution. One priest of the [Russian Orthodox Church Abroad](https://zh.wikipedia.org/wiki/Russian_Orthodox_Church_Abroad "wikilink") noted that martyrdom in the Russian Orthodox Church has nothing to do with the martyr's personal actions but is instead related to why he or she was killed.\[2\] Other critics noted that the Russian Orthodox Church Abroad appeared to be blaming [Jewish](https://zh.wikipedia.org/wiki/Jewish "wikilink") revolutionaries for the deaths and equating the political assassination with a [ritual murder](https://zh.wikipedia.org/wiki/blood_libel "wikilink").\[3\]
 
-There were those who rejected the family's classification as martyrs
-because they were not killed because of their religious faith. There was
-no proof that the execution was a ritual murder. Religious leaders in
-both churches also had objections to canonizing the Tsar's family
-because they perceived him as a weak emperor whose incompetence led to
-the revolution, the suffering of his people and made him at least
-partially responsible for his own murder and the murders of his wife and
-children. For these opponents, the fact that the Tsar was, in private
-life, a kind man and a good husband and father did not override his poor
-governance of Russia.\[4\]
+There were those who rejected the family's classification as martyrs because they were not killed because of their religious faith. There was no proof that the execution was a ritual murder. Religious leaders in both churches also had objections to canonizing the Tsar's family because they perceived him as a weak emperor whose incompetence led to the revolution, the suffering of his people and made him at least partially responsible for his own murder and the murders of his wife and children. For these opponents, the fact that the Tsar was, in private life, a kind man and a good husband and father did not override his poor governance of Russia.\[4\]
 
-The [Moscow
-Patriarchate](https://zh.wikipedia.org/wiki/Russian_Orthodox_Church "wikilink")
-ultimately canonized the family as passion bearers: people who face
-death with resignation, in a Christ-like manner, as distinguished from
-martyrs, the latter killed explicitly for their faith. Proponents cited
-previous Tsars and Tsareviches who had been canonized as passion
-bearers, such as [Tsarevich
-Dimitri](https://zh.wikipedia.org/wiki/Tsarevich_Dmitry_Ivanovich_of_Russia_\(born_1582\) "wikilink"),
-murdered at the end of the sixteenth century, as setting a precedent for
-the canonization of the [Romanov
-family](https://zh.wikipedia.org/wiki/House_of_Romanov "wikilink"). They
-noted the [piety](https://zh.wikipedia.org/wiki/piety "wikilink") of the
-family and reports that the Tsarina and her eldest daughter Olga
-[prayed](https://zh.wikipedia.org/wiki/prayer "wikilink") and attempted
-to make the [sign of the
-cross](https://zh.wikipedia.org/wiki/sign_of_the_cross "wikilink")
-immediately before they died.
+The [Moscow Patriarchate](https://zh.wikipedia.org/wiki/Russian_Orthodox_Church "wikilink") ultimately canonized the family as passion bearers: people who face death with resignation, in a Christ-like manner, as distinguished from martyrs, the latter killed explicitly for their faith. Proponents cited previous Tsars and Tsareviches who had been canonized as passion bearers, such as [Tsarevich Dimitri](https://zh.wikipedia.org/wiki/Tsarevich_Dmitry_Ivanovich_of_Russia_\(born_1582\) "wikilink"), murdered at the end of the sixteenth century, as setting a precedent for the canonization of the [Romanov family](https://zh.wikipedia.org/wiki/House_of_Romanov "wikilink"). They noted the [piety](https://zh.wikipedia.org/wiki/piety "wikilink") of the family and reports that the Tsarina and her eldest daughter Olga [prayed](https://zh.wikipedia.org/wiki/prayer "wikilink") and attempted to make the [sign of the cross](https://zh.wikipedia.org/wiki/sign_of_the_cross "wikilink") immediately before they died.
 
-Despite their official designation as "passion-bearers" by the August
-2000 Council, they are nevertheless spoken of as "martyrs" in Church
-publications, icons, and in popular veneration by the people.\[5\]\[6\]
+Despite their official designation as "passion-bearers" by the August 2000 Council, they are nevertheless spoken of as "martyrs" in Church publications, icons, and in popular veneration by the people.\[5\]\[6\]
 
-The bodies of Tsar Nicholas II, Tsarina Alexandra, and three of their
-daughters were finally interred at [St. Peter and Paul
-Cathedral](https://zh.wikipedia.org/wiki/Peter_and_Paul_Cathedral "wikilink")
-in St. Petersburg on 17 July 1998, eighty years after they were
-murdered.\[7\] The bodies of Alexei and one of his sisters were at the
-time missing.\[8\] On 23 August 2007, a Russian archaeologist announced
-the discovery of two burned, partial skeletons at a bonfire site at
-[Ganina Yama](https://zh.wikipedia.org/wiki/Ganina_Yama "wikilink") near
-Yekaterinburg that appeared to match the site described in assassin
-[Yakov
-Yurovsky](https://zh.wikipedia.org/wiki/Yakov_Yurovsky "wikilink")'s
-memoirs. The archaeologists said the bones are from a boy who was
-roughly between the ages of ten and thirteen years at the time of his
-death and of a young woman who was roughly between the ages of eighteen
-and twenty-three years old. Anastasia was seventeen years, one month old
-at the time of the assassination, while her sister Maria was nineteen
-years, one month old and her brother Alexei was two weeks shy of his
-fourteenth birthday. Anastasia's elder sisters Olga and Tatiana were
-twenty-two and twenty-one years old at the time of the assassination.
-Along with the remains of the two bodies, archaeologists found "shards
-of a container of sulfuric acid, nails, metal strips from a wooden box,
-and bullets of various caliber.".\[9\]
+The bodies of Tsar Nicholas II, Tsarina Alexandra, and three of their daughters were finally interred at [St. Peter and Paul Cathedral](https://zh.wikipedia.org/wiki/Peter_and_Paul_Cathedral "wikilink") in St. Petersburg on 17 July 1998, eighty years after they were murdered.\[7\] The bodies of Alexei and one of his sisters were at the time missing.\[8\] On 23 August 2007, a Russian archaeologist announced the discovery of two burned, partial skeletons at a bonfire site at [Ganina Yama](https://zh.wikipedia.org/wiki/Ganina_Yama "wikilink") near Yekaterinburg that appeared to match the site described in assassin [Yakov Yurovsky](https://zh.wikipedia.org/wiki/Yakov_Yurovsky "wikilink")'s memoirs. The archaeologists said the bones are from a boy who was roughly between the ages of ten and thirteen years at the time of his death and of a young woman who was roughly between the ages of eighteen and twenty-three years old. Anastasia was seventeen years, one month old at the time of the assassination, while her sister Maria was nineteen years, one month old and her brother Alexei was two weeks shy of his fourteenth birthday. Anastasia's elder sisters Olga and Tatiana were twenty-two and twenty-one years old at the time of the assassination. Along with the remains of the two bodies, archaeologists found "shards of a container of sulfuric acid, nails, metal strips from a wooden box, and bullets of various caliber.".\[9\]
 
-Preliminary testing indicated a "high degree of probability" that the
-remains belong to the Tsarevich Alexei and to one of his sisters,
-Russian forensic scientists announced on 22 January 2008.\[10\] The
-Yekaterinburg region's chief forensic expert Nikolai Nevolin indicated
-the results would be compared against those obtained by foreign
-experts.\[11\] On April 30, 2008, Russian forensic scientists announced
-that DNA testing proves that the remains belong to the Tsarevich Alexei
-and to one of his sisters.\[12\] With this result, all of the Tsar's
-family are accounted for.
+Preliminary testing indicated a "high degree of probability" that the remains belong to the Tsarevich Alexei and to one of his sisters, Russian forensic scientists announced on 22 January 2008.\[10\] The Yekaterinburg region's chief forensic expert Nikolai Nevolin indicated the results would be compared against those obtained by foreign experts.\[11\] On April 30, 2008, Russian forensic scientists announced that DNA testing proves that the remains belong to the Tsarevich Alexei and to one of his sisters.\[12\] With this result, all of the Tsar's family are accounted for.
 
-Since the late 20th century, believers have attributed healing from
-illnesses or conversion to the Orthodox Church to their prayers to Maria
-and Alexei, as well as to the rest of the family.\[13\]\[14\]
+Since the late 20th century, believers have attributed healing from illnesses or conversion to the Orthodox Church to their prayers to Maria and Alexei, as well as to the rest of the family.\[13\]\[14\]
 
 ## Gallery
 
-Image:Yekaterinburg cathedral on the blood
-2007.jpg|[Yekaterinburg](https://zh.wikipedia.org/wiki/Yekaterinburg "wikilink")'s
-"[Church on the
-Blood](https://zh.wikipedia.org/wiki/Church_of_All_Saints,_Yekaterinburg "wikilink"),"
-built on the spot where Nicholas II and his family were murdered in 1918
-Image:%D0%93%D0%B0%D0%BD%D0%B8%D0%BD%D0%B0_%D1%8F%D0%BC%D0%B0_1.jpg|Church
-of St. Nicholas at the Romanov Monastery near the site where the
-Romanovs' remains were found at [Ganina
-Yama](https://zh.wikipedia.org/wiki/Ganina_Yama "wikilink")
+Image:Yekaterinburg cathedral on the blood 2007.jpg|[Yekaterinburg](https://zh.wikipedia.org/wiki/Yekaterinburg "wikilink")'s "[Church on the Blood](https://zh.wikipedia.org/wiki/Church_of_All_Saints,_Yekaterinburg "wikilink")," built on the spot where Nicholas II and his family were murdered in 1918 Image:%D0%93%D0%B0%D0%BD%D0%B8%D0%BD%D0%B0_%D1%8F%D0%BC%D0%B0_1.jpg|Church of St. Nicholas at the Romanov Monastery near the site where the Romanovs' remains were found at [Ganina Yama](https://zh.wikipedia.org/wiki/Ganina_Yama "wikilink")
 
 ## Notes
 
 ## External links
 
-  - [In Memory of the Royal Martyrs, by St. John of
-    Shanghai](https://www.webcitation.org/6Vl4VlHJi?url=http://www.angelfire.com/pa/ImperialRussian/news/martyrs.html)
-  - [The Royal Martyrs of Russia (Fr. Netarios
-    Serfes)](http://www.serfes.org/royal/)
-  - [New Martyrs, Confessors, and Passion-Bearers of
-    Russia](https://web.archive.org/web/20080505101425/http://www.allsaintsofamerica.org/martyrs/nmruss.html)
-  - [Video of the canonization of 1 November 1981 by the Russian Church
-    Abroad](https://www.youtube.com/watch?v=dR85kv0UVhc)
-  - [Video of the canonization of 20 August 2000 by the Moscow
-    Patriarchate](https://www.youtube.com/watch?v=HQUC36k4m04)
+  - [In Memory of the Royal Martyrs, by St. John of Shanghai](https://www.webcitation.org/6Vl4VlHJi?url=http://www.angelfire.com/pa/ImperialRussian/news/martyrs.html)
+  - [The Royal Martyrs of Russia (Fr. Netarios Serfes)](http://www.serfes.org/royal/)
+  - [New Martyrs, Confessors, and Passion-Bearers of Russia](https://web.archive.org/web/20080505101425/http://www.allsaintsofamerica.org/martyrs/nmruss.html)
+  - [Video of the canonization of 1 November 1981 by the Russian Church Abroad](https://www.youtube.com/watch?v=dR85kv0UVhc)
+  - [Video of the canonization of 20 August 2000 by the Moscow Patriarchate](https://www.youtube.com/watch?v=HQUC36k4m04)
 
-[:Category:20th-century Christian
-saints](https://zh.wikipedia.org/wiki/Category:20th-century_Christian_saints "wikilink")
-[:Category:Russian Orthodox child
-saints](https://zh.wikipedia.org/wiki/Category:Russian_Orthodox_child_saints "wikilink")
-[Canonization](https://zh.wikipedia.org/wiki/Category:House_of_Holstein-Gottorp-Romanov "wikilink")
-[Canonization](https://zh.wikipedia.org/wiki/Category:Nicholas_II_of_Russia "wikilink")
-[:Category:Passion
-bearers](https://zh.wikipedia.org/wiki/Category:Passion_bearers "wikilink")
-[:Category:Russian saints of the Eastern Orthodox
-Church](https://zh.wikipedia.org/wiki/Category:Russian_saints_of_the_Eastern_Orthodox_Church "wikilink")
-[Romanovs](https://zh.wikipedia.org/wiki/Category:Groups_of_Eastern_Orthodox_saints "wikilink")
-[:Category:Eastern Orthodox royal
-saints](https://zh.wikipedia.org/wiki/Category:Eastern_Orthodox_royal_saints "wikilink")
+[:Category:20th-century Christian saints](https://zh.wikipedia.org/wiki/Category:20th-century_Christian_saints "wikilink") [:Category:Russian Orthodox child saints](https://zh.wikipedia.org/wiki/Category:Russian_Orthodox_child_saints "wikilink") [Canonization](https://zh.wikipedia.org/wiki/Category:House_of_Holstein-Gottorp-Romanov "wikilink") [Canonization](https://zh.wikipedia.org/wiki/Category:Nicholas_II_of_Russia "wikilink") [:Category:Passion bearers](https://zh.wikipedia.org/wiki/Category:Passion_bearers "wikilink") [:Category:Russian saints of the Eastern Orthodox Church](https://zh.wikipedia.org/wiki/Category:Russian_saints_of_the_Eastern_Orthodox_Church "wikilink") [Romanovs](https://zh.wikipedia.org/wiki/Category:Groups_of_Eastern_Orthodox_saints "wikilink") [:Category:Eastern Orthodox royal saints](https://zh.wikipedia.org/wiki/Category:Eastern_Orthodox_royal_saints "wikilink")
 
-1.  <http://www.patriarchia.ru/db/text/4367765.html> Определение
-    Освященного Архиерейского Собора Русской Православной Церкви
-    об общецерковном прославлении ряда местночтимых святых
+1.  <http://www.patriarchia.ru/db/text/4367765.html> Определение Освященного Архиерейского Собора Русской Православной Церкви об общецерковном прославлении ряда местночтимых святых
 
-2.  Massie, Robert K., *The Romanovs: The Final Chapter*, Random House,
-    , 1995, pp. 134-135
+2.  Massie, Robert K., *The Romanovs: The Final Chapter*, Random House, , 1995, pp. 134-135
 
-3.  King, Greg, and Wilson, Penny, *The Fate of the Romanovs*, John
-    Wiley and Sons, Inc., p. 495
+3.  King, Greg, and Wilson, Penny, *The Fate of the Romanovs*, John Wiley and Sons, Inc., p. 495
 
 4.
-5.  [Patriarch Aleksy Visited the Place Where the Remains of the Royal
-    Martyrs had been
-    Burned](http://www.pravoslavie.ru/english/mainnews000923.htm) ,
-    Yekaterinburg, September 23, 2000,
-    [Pravoslavie.ru](http://www.pravoslavie.ru/)
+5.  [Patriarch Aleksy Visited the Place Where the Remains of the Royal Martyrs had been Burned](http://www.pravoslavie.ru/english/mainnews000923.htm) , Yekaterinburg, September 23, 2000, [Pravoslavie.ru](http://www.pravoslavie.ru/)
 
-6.  [GROUNDS FOR CANONIZATION OF THE TSAR
-    FAMILY](http://www.pravoslavie.ru/english/tsarcanonization.htm)
-    EXCERPTS FROM THE REPORT OF METROPOLITAN OF KRUTITSA AND KOLOMNA
-    [JUVENALY](https://zh.wikipedia.org/wiki/Juvenaly_Poyarkov "wikilink")
-    (Posted originally on the official web site of the Moscow
-    Patriarchate)
+6.  [GROUNDS FOR CANONIZATION OF THE TSAR FAMILY](http://www.pravoslavie.ru/english/tsarcanonization.htm)  EXCERPTS FROM THE REPORT OF METROPOLITAN OF KRUTITSA AND KOLOMNA [JUVENALY](https://zh.wikipedia.org/wiki/Juvenaly_Poyarkov "wikilink") (Posted originally on the official web site of the Moscow Patriarchate)
 
 7.  <https://www.amazon.com/Yeltsin-Life-Timothy-J-Colton-ebook/dp/B00CW0PSUI/ref=cm_cr_arp_d_product_top?ie=UTF8>
 
 8.
 
-9.  [Hammer, Joshua. "Resurrecting the Czar", *Smithsonian Magazine*,
-    November
-    2010](http://www.smithsonianmag.com/people-places/resurrecting-the-czar-64545030/?page=1)
+9.  [Hammer, Joshua. "Resurrecting the Czar", *Smithsonian Magazine*, November 2010](http://www.smithsonianmag.com/people-places/resurrecting-the-czar-64545030/?page=1)
 
 10.
 

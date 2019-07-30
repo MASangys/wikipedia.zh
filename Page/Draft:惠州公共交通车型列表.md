@@ -23,7 +23,7 @@
 
 ## 福田（BJ）
 
-生产商：[北汽福田汽车股份有限公司](../Page/北汽福田.md "wikilink")
+生产商：[北汽福田](../Page/北汽福田.md "wikilink")汽车股份有限公司
 
 <table>
 <thead>
@@ -75,7 +75,7 @@
 
 ## 比亚迪（BYD/CK）
 
-生产商：[比亚迪汽车工业有限公司](../Page/比亚迪汽车.md "wikilink")
+生产商：[比亚迪汽车](../Page/比亚迪汽车.md "wikilink")工业有限公司
 
 <table>
 <thead>

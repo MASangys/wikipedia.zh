@@ -1,6 +1,4 @@
-《**Spring
-Memories**》是[韓國男子](https://zh.wikipedia.org/wiki/韓國 "wikilink")[流行搖滾](../Page/流行搖滾.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[N.Flying第五張迷你專輯](../Page/N.Flying.md "wikilink")，於2019年4月24日推出，主打歌曲為〈Spring
-Memories〉。
+《**Spring Memories**》是[韓國男子](https://zh.wikipedia.org/wiki/韓國 "wikilink")[流行搖滾](../Page/流行搖滾.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[N.Flying](../Page/N.Flying.md "wikilink")第五張迷你專輯，於2019年4月24日推出，主打歌曲為〈Spring Memories〉。
 
 ## 簡介
 
@@ -226,8 +224,7 @@ Memories〉。
   -
   -
   -
-[Category:N.Flying](https://zh.wikipedia.org/wiki/Category:N.Flying "wikilink")
-[Category:2019年歌曲](https://zh.wikipedia.org/wiki/Category:2019年歌曲 "wikilink")
+[Category:N.Flying](https://zh.wikipedia.org/wiki/Category:N.Flying "wikilink") [Category:2019年歌曲](https://zh.wikipedia.org/wiki/Category:2019年歌曲 "wikilink")
 
 1.
 2.

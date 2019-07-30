@@ -1,5 +1,4 @@
-《**狼人**》（）是[2010年上映的](../Page/2010年電影列表.md "wikilink")
-[英语](../Page/英语.md "wikilink")恐怖片。由本尼西奥·德·托罗主演。这部电影是喬·約翰斯頓的导演的第14作，导演為曾執導《[美國隊長](../Page/美國隊長_\(電影\).md "wikilink")》和《[危險工作](https://zh.wikipedia.org/wiki/危險工作 "wikilink")》。
+《**狼人**》（）是[2010年上映的](../Page/2010年電影列表.md "wikilink") [英语](../Page/英语.md "wikilink")恐怖片。由本尼西奥·德·托罗主演。这部电影是喬·約翰斯頓的导演的第14作，导演為曾執導《[美國隊長](../Page/美國隊長_\(電影\).md "wikilink")》和《[危險工作](https://zh.wikipedia.org/wiki/危險工作 "wikilink")》。
 
 ## 剧情简介
 

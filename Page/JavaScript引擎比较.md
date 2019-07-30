@@ -1,4 +1,4 @@
-下表比较在[网页浏览器内使用一些知名](../Page/网页浏览器.md "wikilink")[JavaScript引擎对标准的支持](../Page/JavaScript引擎.md "wikilink")。
+下表比较在[网页浏览器](../Page/网页浏览器.md "wikilink")内使用一些知名[JavaScript引擎](../Page/JavaScript引擎.md "wikilink")对标准的支持。
 
 ## 表格解说
 
@@ -57,8 +57,7 @@
 
 ## ECMAScript版本支持
 
-下表中的版本号为[排版引擎的版本号](../Page/排版引擎.md "wikilink")。[JavaScript的版本号就是](../Page/JavaScript.md "wikilink")[JavaScript引擎中](../Page/JavaScript引擎.md "wikilink")[SpiderMonkey的版本号](../Page/SpiderMonkey.md "wikilink")，在ECMAScript
-Edition 5之后不再延续跟进。
+下表中的版本号为[排版引擎](../Page/排版引擎.md "wikilink")的版本号。[JavaScript](../Page/JavaScript.md "wikilink")的版本号就是[JavaScript引擎](../Page/JavaScript引擎.md "wikilink")中[SpiderMonkey](../Page/SpiderMonkey.md "wikilink")的版本号，在ECMAScript Edition 5之后不再延续跟进。
 
 <table>
 <thead>
@@ -2637,21 +2636,16 @@ Futhark<br />
 
 ## 延伸阅读
 
-  - [ECMAScript object support in
-    Opera](https://web.archive.org/web/20100530050727/http://www.opera.com/docs/specs/js/ecma/)
-  - [JavaScript tests & Compatibility
-    tables](http://www.robertnyman.com/javascript/index.html)
-  - [ECMAScript 6 compatibility
-    table](https://kangax.github.io/compat-table/es6/)
+  - [ECMAScript object support in Opera](https://web.archive.org/web/20100530050727/http://www.opera.com/docs/specs/js/ecma/)
+  - [JavaScript tests & Compatibility tables](http://www.robertnyman.com/javascript/index.html)
+  - [ECMAScript 6 compatibility table](https://kangax.github.io/compat-table/es6/)
 
 ## 外部链接
 
-  - [Webdevout](http://www.webdevout.net/browser-support-ecmascript) –
-    mostly covers Windows browsers. Extensive bug testing.
+  - [Webdevout](http://www.webdevout.net/browser-support-ecmascript) – mostly covers Windows browsers. Extensive bug testing.
 
 [Category:JavaScript引擎](https://zh.wikipedia.org/wiki/Category:JavaScript引擎 "wikilink")
 
-1.  [Gecko versions and application
-    versions](https://developer.mozilla.org/en-US/docs/Mozilla/Gecko/Versions).
+1.  [Gecko versions and application versions](https://developer.mozilla.org/en-US/docs/Mozilla/Gecko/Versions).
 2.
 3.

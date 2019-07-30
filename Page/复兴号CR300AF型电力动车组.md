@@ -1,4 +1,4 @@
-**复兴号CR300AF型电力动车组**，是[中国高速铁路](https://zh.wikipedia.org/wiki/中国高速铁路 "wikilink")[复兴号的车型之一](../Page/复兴号电力动车组.md "wikilink")，是[中国铁路总公司向](../Page/中国铁路总公司.md "wikilink")[中车青岛四方机车车辆订购的](../Page/中车青岛四方机车车辆.md "wikilink")[高速铁路](https://zh.wikipedia.org/wiki/中国高速铁路 "wikilink")[动车组](https://zh.wikipedia.org/wiki/电力动车组 "wikilink")。中国铁路总公司将所有由[中国中车自主研发](../Page/中国中车.md "wikilink")，完全具有自主知识产权，营运于中国铁路客运专线及高速铁路的电力动车组均命名为「**[复兴号](../Page/复兴号电力动车组.md "wikilink")**」\[1\]。
+**复兴号CR300AF型电力动车组**，是[中国高速铁路](https://zh.wikipedia.org/wiki/中国高速铁路 "wikilink")[复兴号的车型之一](../Page/复兴号电力动车组.md "wikilink")，是[中国铁路总公司](../Page/中国铁路总公司.md "wikilink")向[中车青岛四方机车车辆](../Page/中车青岛四方机车车辆.md "wikilink")订购的[高速铁路](https://zh.wikipedia.org/wiki/中国高速铁路 "wikilink")[动车组](https://zh.wikipedia.org/wiki/电力动车组 "wikilink")。中国铁路总公司将所有由[中国中车](../Page/中国中车.md "wikilink")自主研发，完全具有自主知识产权，营运于中国铁路客运专线及高速铁路的电力动车组均命名为「**[复兴号](../Page/复兴号电力动车组.md "wikilink")**」\[1\]。
 
 ## 概要
 
@@ -163,7 +163,7 @@ ZE xxxx00</p></td>
 
 ## 故障
 
-  - 2018年10月14日，刚出厂的CR300AF-0001号车经由[京沪铁路运行无火回送至](../Page/京沪铁路.md "wikilink")[北京环铁过程中](https://zh.wikipedia.org/wiki/北京环铁 "wikilink")，6号车顶安装的高压电气舱保护板在至少济南境内向上掀起并继续运行近500公里至北京境内，导致北京铁路枢纽内[北京南站至](../Page/北京南站.md "wikilink")[北京站区间接触网跳闸](../Page/北京站.md "wikilink")，造成[京沪铁路上行方向列车大面积晚点](../Page/京沪铁路.md "wikilink")。
+  - 2018年10月14日，刚出厂的CR300AF-0001号车经由[京沪铁路](../Page/京沪铁路.md "wikilink")运行无火回送至[北京环铁过程中](https://zh.wikipedia.org/wiki/北京环铁 "wikilink")，6号车顶安装的高压电气舱保护板在至少济南境内向上掀起并继续运行近500公里至北京境内，导致北京铁路枢纽内[北京南站](../Page/北京南站.md "wikilink")至[北京站](../Page/北京站.md "wikilink")区间接触网跳闸，造成[京沪铁路](../Page/京沪铁路.md "wikilink")上行方向列车大面积晚点。
 
 ## 参见
 
@@ -177,10 +177,7 @@ ZE xxxx00</p></td>
 
 {{-}}
 
-[Category:中车四方制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车四方制铁路车辆 "wikilink")
-[Category:复兴号电力动车组](https://zh.wikipedia.org/wiki/Category:复兴号电力动车组 "wikilink")
-[Category:25千伏50赫兹交流电力动车组](https://zh.wikipedia.org/wiki/Category:25千伏50赫兹交流电力动车组 "wikilink")
-[Category:中车浦镇制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车浦镇制铁路车辆 "wikilink")
+[Category:中车四方制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车四方制铁路车辆 "wikilink") [Category:复兴号电力动车组](https://zh.wikipedia.org/wiki/Category:复兴号电力动车组 "wikilink") [Category:25千伏50赫兹交流电力动车组](https://zh.wikipedia.org/wiki/Category:25千伏50赫兹交流电力动车组 "wikilink") [Category:中车浦镇制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车浦镇制铁路车辆 "wikilink")
 
 1.
 2.

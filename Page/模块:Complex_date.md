@@ -7,12 +7,9 @@
 `|_|  |_|___/ __,_|__,_|_|___(_)_______/|_| |_| |_| .__/|_|___/_/_\  __,_|__,_|_____|`
 `                                                       |_|                                      `
 
-This module is intended for creation of complex date phrases in variety
-of languages.
+This module is intended for creation of complex date phrases in variety of languages.
 
-Once deployed, please do not modify this code without applying the
-changes first at Module:Complex date/sandbox and testing at
-Module:Complex date/sandbox/testcases.
+Once deployed, please do not modify this code without applying the changes first at Module:Complex date/sandbox and testing at Module:Complex date/sandbox/testcases.
 
 Authors and maintainers:
 
@@ -21,13 +18,9 @@ Authors and maintainers:
 
 \]\]
 
-\-- List of external modules and functions local p = {Error = nil} local
-i18n = require('Module:i18n/complex date') local ISOdate =
-require('Module:ISOdate')._ISOdate local Calendar -- loaded lazily
+\-- List of external modules and functions local p = {Error = nil} local i18n = require('Module:i18n/complex date') local ISOdate = require('Module:ISOdate')._ISOdate local Calendar -- loaded lazily
 
-\-- ================================================== -- === Internal
-functions =========================== --
-==================================================
+\-- ================================================== -- === Internal functions =========================== -- ==================================================
 
 local function langSwitch(list,lang)
 
@@ -42,10 +35,7 @@ local function langSwitch(list,lang)
 
 end
 
-local function formatnum1(numStr, lang) -- mostly
-require('Module:Formatnum').formatNum function used to translate a
-number to use different numeral characters, -- except that it it does
-not call that function unless the language is on the list "LList"
+local function formatnum1(numStr, lang) -- mostly require('Module:Formatnum').formatNum function used to translate a number to use different numeral characters, -- except that it it does not call that function unless the language is on the list "LList"
 
 `   local LList = {bn=1,bpy=1,kn=1,hi=1,mr=1,new=1,pa=1,gu=1,fa=1,glk=1,mzn=1,ur=1,ar=1,ckb=1,ks=1,lo=1,['or']=1,bo=1,['ml-old']=1,mn=1,te=1,th=1}`
 `   if LList[lang] then -- call only when the language is on the list`
@@ -55,8 +45,7 @@ not call that function unless the language is on the list "LList"
 
 end
 
-local function getISODate(datestr, datetype, lang, num, case) --
-translate dates in the format YYYY, YYYY-MM, and YYYY-MM-DD
+local function getISODate(datestr, datetype, lang, num, case) -- translate dates in the format YYYY, YYYY-MM, and YYYY-MM-DD
 
 `   if  not case and i18n.Translations[datetype] then`
 `       -- look up the grammatical case needed and call ISOdate module`
@@ -69,12 +58,10 @@ translate dates in the format YYYY, YYYY-MM, and YYYY-MM-DD
 
 end
 
-local function translatePhrase(date1, date2, operation, lang, state) --
-use tables in Module:i18n/complex date to translate a phrase
+local function translatePhrase(date1, date2, operation, lang, state) -- use tables in Module:i18n/complex date to translate a phrase
 
 `   if not i18n.Translations[operation] then`
-`       p.Error = string.format('`<span style="background-color:red;">`Error in `[`Module:Complex``
- ``date`](https://zh.wikipedia.org/wiki/Module:Complex_date "wikilink")`: input parameter "%s" is not recognized.`</span>`', operation or 'nil')`
+`       p.Error = string.format('`<span style="background-color:red;">`Error in `[`Module:Complex``   ``date`](https://zh.wikipedia.org/wiki/Module:Complex_date "wikilink")`: input parameter "%s" is not recognized.`</span>`', operation or 'nil')`
 `       return ''`
 `   end`
 `   local dateStr = langSwitch(i18n.Translations[operation], lang)`
@@ -105,8 +92,7 @@ use tables in Module:i18n/complex date to translate a phrase
 
 end
 
-local function oneDatePhrase(dateStr, adj, era, units, lang, num, case,
-state) -- translate a single date phrase
+local function oneDatePhrase(dateStr, adj, era, units, lang, num, case, state) -- translate a single date phrase
 
 `   if num==2 then`
 `       state.adj, state.era, state.units, state.precision = state.adj2, state.era2, state.units2, state.precision2 `
@@ -136,8 +122,7 @@ state) -- translate a single date phrase
 
 end
 
-local function twoDatePhrase(date1, date2, state, lang) -- translate a
-double date phrase
+local function twoDatePhrase(date1, date2, state, lang) -- translate a double date phrase
 
 `   local dateStr, case`
 `   local era=''`
@@ -164,8 +149,7 @@ double date phrase
 
 end
 
-local function otherPhrases(date1, date2, operation, era, lang, state)
--- translate specialized phrases
+local function otherPhrases(date1, date2, operation, era, lang, state) -- translate specialized phrases
 
 `   local dateStr = ''`
 `       `
@@ -218,20 +202,16 @@ local function otherPhrases(date1, date2, operation, era, lang, state)
 
 end
 
-local function checkAliases(str1, str2, sType) -- some inputs have many
-aliases - reconcile them and ensure string is playing a proper role
-local out = '' if str1 and str1\~='' then
+local function checkAliases(str1, str2, sType) -- some inputs have many aliases - reconcile them and ensure string is playing a proper role local out = '' if str1 and str1\~='' then
 
 `   a = i18n.Synonyms[str1] -- look up synonyms of "str1"`
 `   if a then`
 `       out = a[1]`
 `   else`
-`       p.Error = string.format('`<span style="background-color:red;">`Error in `[`Module:Complex``
- ``date`](https://zh.wikipedia.org/wiki/Module:Complex_date "wikilink")`: %s is not recognized.`</span>`', str1)`
+`       p.Error = string.format('`<span style="background-color:red;">`Error in `[`Module:Complex``   ``date`](https://zh.wikipedia.org/wiki/Module:Complex_date "wikilink")`: %s is not recognized.`</span>`', str1)`
 `   end`
 
-elseif str2 and str2\~='' then -- if "str1" of type "sType" is empty
-than maybe ...
+elseif str2 and str2\~='' then -- if "str1" of type "sType" is empty than maybe ...
 
 `   a = i18n.Synonyms[str2]   -- ..."str2" is of the same type and is not empty`
 `   if a and a[2]==sType then`
@@ -241,11 +221,7 @@ than maybe ...
 
 end return out, str2 end
 
-local function datePrecision(dateStr, units) -- "in this module "Units"
-is a string like millennium, century, or decade -- "precision" is
-wikibase compatible date precision number: 6=millennium, 7=century,
-8=decade, 9=year, 10=month, 11=day -- based on string or numeric input
-calculate "Units" and "precision"
+local function datePrecision(dateStr, units) -- "in this module "Units" is a string like millennium, century, or decade -- "precision" is wikibase compatible date precision number: 6=millennium, 7=century, 8=decade, 9=year, 10=month, 11=day -- based on string or numeric input calculate "Units" and "precision"
 
 `   local dateNum = tonumber(dateStr);`
 `   if type(units)=='number' then`
@@ -282,8 +258,7 @@ calculate "Units" and "precision"
 
 end
 
-local function isodate2timestamp(dateStr, precision, era) -- convert
-date string to timestamps used by Quick Statements
+local function isodate2timestamp(dateStr, precision, era) -- convert date string to timestamps used by Quick Statements
 
 `   local tStamp = nil`
 `   if era == 'ah' or precision<6 then`
@@ -319,8 +294,7 @@ date string to timestamps used by Quick Statements
 
 end
 
-local function oneDateQScode(dateStr, adj, era, precision) -- create
-QuickStatements string for "one date" dates
+local function oneDateQScode(dateStr, adj, era, precision) -- create QuickStatements string for "one date" dates
 
 `   local outputStr = ''`
 
@@ -351,8 +325,7 @@ QuickStatements string for "one date" dates
 
 end
 
-local function twoDateQScode(date1, date2, state) -- create
-QuickStatements string for "two date" dates
+local function twoDateQScode(date1, date2, state) -- create QuickStatements string for "two date" dates
 
 `   if state.adj1~='' or state.adj2~='' or state.era1~=state.era2 then`
 `       return ''`
@@ -405,9 +378,7 @@ QuickStatements string for "two date" dates
 
 end
 
-\-- ================================================== -- === External
-functions =========================== --
-==================================================
+\-- ================================================== -- === External functions =========================== -- ==================================================
 
 function p.Era(frame)
 
@@ -430,8 +401,7 @@ function p.Era(frame)
 
 end
 
-function p._complex_date(conj, adj1, date1, units1, era1, adj2, date2,
-units2, era2, lang, passNr)
+function p._complex_date(conj, adj1, date1, units1, era1, adj2, date2, units2, era2, lang, passNr)
 
 `   local Output=''`
 

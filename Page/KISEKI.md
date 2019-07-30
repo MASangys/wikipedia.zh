@@ -1,4 +1,4 @@
-《**KISEKI**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子團體](https://zh.wikipedia.org/wiki/男子團體 "wikilink")[MYNAME的第六張日語](../Page/MYNAME.md "wikilink")[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，也是在組合的大哥[仁秀入伍後首張以四人體之發行的作品](https://zh.wikipedia.org/wiki/姜仁秀 "wikilink")\[1\]，於2018年7月25日以六個版不同版本推出\[2\]。
+《**KISEKI**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子團體](https://zh.wikipedia.org/wiki/男子團體 "wikilink")[MYNAME](../Page/MYNAME.md "wikilink")的第六張日語[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，也是在組合的大哥[仁秀入伍後首張以四人體之發行的作品](https://zh.wikipedia.org/wiki/姜仁秀 "wikilink")\[1\]，於2018年7月25日以六個版不同版本推出\[2\]。
 
 ## 背景
 
@@ -8,8 +8,7 @@
 
 此單曲共分為6個發行版本，包括限量版本、通常版本及個人封面版本。
 
-  - 初回限定盤：這版本包括了一片CD和一片收錄《MYNAME LIVE 2017「MYNAME～Starting with goodbye
-    STORY～」》演唱會片段的DVD\[6\]。
+  - 初回限定盤：這版本包括了一片CD和一片收錄《MYNAME LIVE 2017「MYNAME～Starting with goodbye STORY～」》演唱會片段的DVD\[6\]。
 
 <!-- end list -->
 
@@ -27,7 +26,7 @@
 
 ### Oricon公信榜
 
-| [Oricon榜單](../Page/Oricon.md "wikilink") | 最高位置     | 銷售量          | 總銷量 | 停留時間 |
+| [Oricon](../Page/Oricon.md "wikilink")榜單 | 最高位置     | 銷售量          | 總銷量 | 停留時間 |
 | ---------------------------------------- | -------- | ------------ | --- | ---- |
 | 專輯日榜                                     | 3\[9\]   | 10,337       |     | 2星期  |
 | 專輯週榜                                     | 3\[10\]  | 16,598       |     |      |
@@ -62,10 +61,7 @@
 
   -
 
-[Category:2018年音樂專輯](https://zh.wikipedia.org/wiki/Category:2018年音樂專輯 "wikilink")
-[Category:MYNAME音樂專輯](https://zh.wikipedia.org/wiki/Category:MYNAME音樂專輯 "wikilink")
-[Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink")
-[Category:日本環球唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:日本環球唱片音樂專輯 "wikilink")
+[Category:2018年音樂專輯](https://zh.wikipedia.org/wiki/Category:2018年音樂專輯 "wikilink") [Category:MYNAME音樂專輯](https://zh.wikipedia.org/wiki/Category:MYNAME音樂專輯 "wikilink") [Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink") [Category:日本環球唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:日本環球唱片音樂專輯 "wikilink")
 
 1.
 

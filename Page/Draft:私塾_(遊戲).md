@@ -1,6 +1,6 @@
 -----
 
-《**私塾**》（德語：[Singspiel](https://zh.wikipedia.org/wiki/歌唱劇 "wikilink")），是由台灣[獨立遊戲開發團隊](https://zh.wikipedia.org/wiki/獨立遊戲 "wikilink")[貓咪學園使用](https://zh.wikipedia.org/wiki/貓咪學園 "wikilink")[RPG製作大師獨立製作的推理解謎童話遊戲](../Page/RPG製作大師.md "wikilink")，於2016年2月製作完成\[1\]，並以免費形式公開發佈在網路上。
+《**私塾**》（德語：[Singspiel](https://zh.wikipedia.org/wiki/歌唱劇 "wikilink")），是由台灣[獨立遊戲開發團隊](https://zh.wikipedia.org/wiki/獨立遊戲 "wikilink")[貓咪學園使用](https://zh.wikipedia.org/wiki/貓咪學園 "wikilink")[RPG製作大師](../Page/RPG製作大師.md "wikilink")獨立製作的推理解謎童話遊戲，於2016年2月製作完成\[1\]，並以免費形式公開發佈在網路上。
 
 ## 故事簡介
 
@@ -49,11 +49,7 @@
   - [《貓咪學園》官方網站](https://chocolatecatcat.web.fc2.com/)
   - [《貓咪學園》Facebook專頁](https://www.facebook.com/ChocolateMacaronCatCat/)
 
-[:Category:使用RPG製作大師製作的游戲](https://zh.wikipedia.org/wiki/Category:使用RPG製作大師製作的游戲 "wikilink")
-[:Category:免費遊戲](https://zh.wikipedia.org/wiki/Category:免費遊戲 "wikilink")
-[:Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[:Category:獨立遊戲](https://zh.wikipedia.org/wiki/Category:獨立遊戲 "wikilink")
-[:Category:恐怖遊戲](https://zh.wikipedia.org/wiki/Category:恐怖遊戲 "wikilink")
+[:Category:使用RPG製作大師製作的游戲](https://zh.wikipedia.org/wiki/Category:使用RPG製作大師製作的游戲 "wikilink") [:Category:免費遊戲](https://zh.wikipedia.org/wiki/Category:免費遊戲 "wikilink") [:Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [:Category:獨立遊戲](https://zh.wikipedia.org/wiki/Category:獨立遊戲 "wikilink") [:Category:恐怖遊戲](https://zh.wikipedia.org/wiki/Category:恐怖遊戲 "wikilink")
 
 1.
 2.

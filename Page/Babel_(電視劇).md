@@ -1,4 +1,4 @@
-《**Babel**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[TV朝鮮於](../Page/TV朝鮮.md "wikilink")2019年1月27日起播出的[週末連續劇](https://zh.wikipedia.org/wiki/TV朝鮮周末連續劇 "wikilink")，由《[花郎](../Page/花郎_\(電視劇\).md "wikilink")》[尹成植導演與權順元](https://zh.wikipedia.org/wiki/尹成植 "wikilink")、朴相旭作家合作打造。此劇講述一個為了復仇而賭上自己人生的檢察官，與一名因為和財閥結婚而毀了人生的女演員之間的愛情故事。\[1\]\[2\]
+《**Babel**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[TV朝鮮](../Page/TV朝鮮.md "wikilink")於2019年1月27日起播出的[週末連續劇](https://zh.wikipedia.org/wiki/TV朝鮮周末連續劇 "wikilink")，由《[花郎](../Page/花郎_\(電視劇\).md "wikilink")》[尹成植導演與權順元](https://zh.wikipedia.org/wiki/尹成植 "wikilink")、朴相旭作家合作打造。此劇講述一個為了復仇而賭上自己人生的檢察官，與一名因為和財閥結婚而毀了人生的女演員之間的愛情故事。\[1\]\[2\]
 
 ## 演員陣容
 
@@ -341,15 +341,9 @@
 
   - [韓國TV朝鮮官方網站](http://broadcast.tvchosun.com/broadcast/program/1/C201800133.cstv)
 
-[Category:2019年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2019年韓國電視劇集 "wikilink")
-[Category:TV朝鲜周末连续剧](https://zh.wikipedia.org/wiki/Category:TV朝鲜周末连续剧 "wikilink")
-[Category:檢察官題材電視劇](https://zh.wikipedia.org/wiki/Category:檢察官題材電視劇 "wikilink")
-[Category:報復題材電視劇](https://zh.wikipedia.org/wiki/Category:報復題材電視劇 "wikilink")
-[Category:韓國律政劇](https://zh.wikipedia.org/wiki/Category:韓國律政劇 "wikilink")
+[Category:2019年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2019年韓國電視劇集 "wikilink") [Category:TV朝鲜周末连续剧](https://zh.wikipedia.org/wiki/Category:TV朝鲜周末连续剧 "wikilink") [Category:檢察官題材電視劇](https://zh.wikipedia.org/wiki/Category:檢察官題材電視劇 "wikilink") [Category:報復題材電視劇](https://zh.wikipedia.org/wiki/Category:報復題材電視劇 "wikilink") [Category:韓國律政劇](https://zh.wikipedia.org/wiki/Category:韓國律政劇 "wikilink")
 
-1.  [朴施厚確定出演 TV CHOSUN
-    全新電視劇《Babel》回歸小螢幕](https://www.kpopn.com/2018/10/31/parksihoo-tv-chosun-new-drama-babel/)，Kpopn，2018-10-31
-2.  [(韓劇)Babel
-    人物介紹+劇情簡介](http://remylovedrama.blogspot.com/2019/01/babel.html)，非零分享，2019-01-23
+1.  [朴施厚確定出演 TV CHOSUN 全新電視劇《Babel》回歸小螢幕](https://www.kpopn.com/2018/10/31/parksihoo-tv-chosun-new-drama-babel/)，Kpopn，2018-10-31
+2.  [(韓劇)Babel 人物介紹+劇情簡介](http://remylovedrama.blogspot.com/2019/01/babel.html)，非零分享，2019-01-23
 3.
 4.  即建議15歲以下少年人不宜觀看，即建議19歲以下未成年人士不宜觀看。

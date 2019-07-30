@@ -60,21 +60,17 @@
 
 ## 參考資料
 
-[無間道監製莊澄首跨足影集
-(圖)](https://tw.news.yahoo.com/%E7%84%A1%E9%96%93%E9%81%93%E7%9B%A3%E8%A3%BD%E8%8E%8A%E6%BE%84%E9%A6%96%E8%B7%A8%E8%B6%B3%E5%BD%B1%E9%9B%86-%E5%9C%96-090803469.html)
+[無間道監製莊澄首跨足影集 (圖)](https://tw.news.yahoo.com/%E7%84%A1%E9%96%93%E9%81%93%E7%9B%A3%E8%A3%BD%E8%8E%8A%E6%BE%84%E9%A6%96%E8%B7%A8%E8%B6%B3%E5%BD%B1%E9%9B%86-%E5%9C%96-090803469.html)
 
-[福斯扎根台灣拍影集
-樂見第2次新電影浪潮](https://www.cna.com.tw/news/amov/201902060028.aspx)
+[福斯扎根台灣拍影集 樂見第2次新電影浪潮](https://www.cna.com.tw/news/amov/201902060028.aspx)
 
 [福斯首部台灣影集開拍　柯有倫登記結婚升格人夫](https://tw.appledaily.com/new/realtime/20181112/1465024/)
 
 [【緣份．黑天鵝】Fox拍鄧麗君金曲主題台劇　搵狂迷莊凱勛做主角](https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/258222/%E7%B7%A3%E4%BB%BD-%E9%BB%91%E5%A4%A9%E9%B5%9D-fox%E6%8B%8D%E9%84%A7%E9%BA%97%E5%90%9B%E9%87%91%E6%9B%B2%E4%B8%BB%E9%A1%8C%E5%8F%B0%E5%8A%87-%E6%90%B5%E7%8B%82%E8%BF%B7%E8%8E%8A%E5%87%B1%E5%8B%9B%E5%81%9A%E4%B8%BB%E8%A7%92)
 
-[楊謹華皮膚幼綿綿
-宋芸樺大讚嘆：喊不出一聲媽](https://www.chinatimes.com/realtimenews/20190102004244-260404?chdtv)
+[楊謹華皮膚幼綿綿 宋芸樺大讚嘆：喊不出一聲媽](https://www.chinatimes.com/realtimenews/20190102004244-260404?chdtv)
 
-[微科幻愛情故事《迴圈戀人》開鏡
-謝欣穎搖身未來人](https://www.ntdtv.com/b5/2019/03/03/a102524258.html)
+[微科幻愛情故事《迴圈戀人》開鏡 謝欣穎搖身未來人](https://www.ntdtv.com/b5/2019/03/03/a102524258.html)
 
 ## 外部連結
 

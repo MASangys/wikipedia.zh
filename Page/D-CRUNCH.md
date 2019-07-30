@@ -1,12 +1,8 @@
-**D-CRUNCH**（韓語：**디크런치**），是[韓國All](https://zh.wikipedia.org/wiki/韓國 "wikilink")-S
-Company于2018年推出的[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂團體與](https://zh.wikipedia.org/wiki/男子音樂團體 "wikilink")[男子組合](https://zh.wikipedia.org/wiki/男子組合 "wikilink")，由**HyunWook**、**HyunHo**、**O.V**、**HyunWoo**、**HyunOh**、**MinHyuk**、**ChanYoung、JungSeung、Dylan**九名成員組成，共3名主唱及6名Rapper，並由**O.V**擔任隊長，隸屬於**All-S
-Company**經紀公司。
+**D-CRUNCH**（韓語：**디크런치**），是[韓國All](https://zh.wikipedia.org/wiki/韓國 "wikilink")-S Company于2018年推出的[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂團體與](https://zh.wikipedia.org/wiki/男子音樂團體 "wikilink")[男子組合](https://zh.wikipedia.org/wiki/男子組合 "wikilink")，由**HyunWook**、**HyunHo**、**O.V**、**HyunWoo**、**HyunOh**、**MinHyuk**、**ChanYoung、JungSeung、Dylan**九名成員組成，共3名主唱及6名Rapper，並由**O.V**擔任隊長，隸屬於**All-S Company**經紀公司。
 
 2018年8月6日舉辦Showcase宣告正式出道，首張單曲《0806》於8月6日發行。
 
-D-CRUNCH全員皆為出身於[Girl's
-Day的經紀公司](../Page/Girl's_Day.md "wikilink")[DreamT
-Entertainment的練習生](../Page/Imagine_Asia.md "wikilink")。
+D-CRUNCH全員皆為出身於[Girl's Day的經紀公司](../Page/Girl's_Day.md "wikilink")[DreamT Entertainment的練習生](../Page/Imagine_Asia.md "wikilink")。
 
 ## 團體資料
 
@@ -286,23 +282,12 @@ Entertainment的練習生](../Page/Imagine_Asia.md "wikilink")。
   -
   -
   -
-[Category:All-S_Company](https://zh.wikipedia.org/wiki/Category:All-S_Company "wikilink")
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:2018年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2018年成立的音樂團體 "wikilink")
-[Category:D-CRUNCH](https://zh.wikipedia.org/wiki/Category:D-CRUNCH "wikilink")
-[Category:2018年韓國建立](https://zh.wikipedia.org/wiki/Category:2018年韓國建立 "wikilink")
+[Category:All-S_Company](https://zh.wikipedia.org/wiki/Category:All-S_Company "wikilink") [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2018年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2018年成立的音樂團體 "wikilink") [Category:D-CRUNCH](https://zh.wikipedia.org/wiki/Category:D-CRUNCH "wikilink") [Category:2018年韓國建立](https://zh.wikipedia.org/wiki/Category:2018年韓國建立 "wikilink")
 
-1.  [현욱 “가수 안 된 저는 상상할 수 없어요” \[M+사소한인터뷰-디크런치
-    편①\]](https://m.entertain.naver.com/read?oid=057&aid=0001302753)
-2.  [현우 “터닝 포인트? 학교 시험 0점 받았을 때요” \[M+사소한인터뷰-디크런치
-    편⑧\]](https://m.entertain.naver.com/read?oid=057&aid=0001304558)
-3.  [현오 “디크런치 데뷔일은 내 두 번째 생일” \[M+사소한인터뷰-디크런치
-    편⑤\]](https://m.entertain.naver.com/read?oid=057&aid=0001303850)
-4.  [찬영 “팬들과 소통하면서 스트레스 풀어요” \[M+사소한인터뷰-디크런치
-    편④\]](https://m.entertain.naver.com/read?oid=057&aid=0001303633)
-5.  [정승 “제 강점은 매서운 눈매예요” \[M+사소한인터뷰-디크런치
-    편⑥\]](https://m.entertain.naver.com/read?oid=057&aid=0001303983)
+1.  [현욱 “가수 안 된 저는 상상할 수 없어요” \[M+사소한인터뷰-디크런치 편①\]](https://m.entertain.naver.com/read?oid=057&aid=0001302753)
+2.  [현우 “터닝 포인트? 학교 시험 0점 받았을 때요” \[M+사소한인터뷰-디크런치 편⑧\]](https://m.entertain.naver.com/read?oid=057&aid=0001304558)
+3.  [현오 “디크런치 데뷔일은 내 두 번째 생일” \[M+사소한인터뷰-디크런치 편⑤\]](https://m.entertain.naver.com/read?oid=057&aid=0001303850)
+4.  [찬영 “팬들과 소통하면서 스트레스 풀어요” \[M+사소한인터뷰-디크런치 편④\]](https://m.entertain.naver.com/read?oid=057&aid=0001303633)
+5.  [정승 “제 강점은 매서운 눈매예요” \[M+사소한인터뷰-디크런치 편⑥\]](https://m.entertain.naver.com/read?oid=057&aid=0001303983)
 6.
 7.

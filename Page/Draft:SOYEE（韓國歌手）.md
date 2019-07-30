@@ -1,19 +1,17 @@
 -----
 
 
-**張昭真**\[1\]（，)，藝名**SOYEE**（），韓國女歌手，[Jellyfish娛樂旗下人氣女子組合](../Page/Jellyfish娛樂.md "wikilink")[gu9udan成員](https://zh.wikipedia.org/wiki/gu9udan "wikilink")，隊內職務為主唱。
+ **張昭真**\[1\]（，)，藝名**SOYEE**（），韓國女歌手，[Jellyfish娛樂](../Page/Jellyfish娛樂.md "wikilink")旗下人氣女子組合[gu9udan成員](https://zh.wikipedia.org/wiki/gu9udan "wikilink")，隊內職務為主唱。
 
 ## 經歷
 
 ### 2016年：出道
 
-2016年6月16日，[Jellyfish娛樂公開成員SOYEE個人概念照](../Page/Jellyfish娛樂.md "wikilink")，6月28日SOYEE以女團[gu9udan](https://zh.wikipedia.org/wiki/gu9udan "wikilink")、首張迷你專輯《Act.1
-The Little Mermaid 》出道，主打曲為《Wonderland》\[2\]。
+2016年6月16日，[Jellyfish娛樂](../Page/Jellyfish娛樂.md "wikilink")公開成員SOYEE個人概念照，6月28日SOYEE以女團[gu9udan](https://zh.wikipedia.org/wiki/gu9udan "wikilink")、首張迷你專輯《Act.1 The Little Mermaid 》出道，主打曲為《Wonderland》\[2\]。
 
 ### 2017年：因肩傷理由停止活動
 
-2017年10月19日，Jellyfish娛樂透過[gugudan官咖表示](https://zh.wikipedia.org/wiki/gugudan "wikilink")，SOYEE因肩膀受傷需集中接受治療，而暫停活動，以及不參與第一張單曲專輯《Act.3
-Chococo Factory》的宣傳活動。\[3\]
+2017年10月19日，Jellyfish娛樂透過[gugudan官咖表示](https://zh.wikipedia.org/wiki/gugudan "wikilink")，SOYEE因肩膀受傷需集中接受治療，而暫停活動，以及不參與第一張單曲專輯《Act.3 Chococo Factory》的宣傳活動。\[3\]
 
 ## 影音作品
 
@@ -117,8 +115,7 @@ Chococo Factory》的宣傳活動。\[3\]
 
 **gu9udan團體**
 
-  - Jellyfish
-    [官方網站](http://www.jelly-fish.co.kr/sub/artist_singer02.php?prof_id=32&num=6)
+  - Jellyfish [官方網站](http://www.jelly-fish.co.kr/sub/artist_singer02.php?prof_id=32&num=6)
 
   - gu9udan [Daum cafe](http://cafe.daum.net/gu9udan/)
 
@@ -129,11 +126,7 @@ Chococo Factory》的宣傳活動。\[3\]
   -
   -
   -
-[:Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink")
-[:Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[:Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
-[:Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[:Category:2016年韓國建立](https://zh.wikipedia.org/wiki/Category:2016年韓國建立 "wikilink")
+[:Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink") [:Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [:Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [:Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [:Category:2016年韓國建立](https://zh.wikipedia.org/wiki/Category:2016年韓國建立 "wikilink")
 
 |  |
 |  |

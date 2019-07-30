@@ -1,14 +1,8 @@
-[20090225-TurboJET_Universal_MK_1.jpg](https://zh.wikipedia.org/wiki/File:20090225-TurboJET_Universal_MK_1.jpg "fig:20090225-TurboJET_Universal_MK_1.jpg")
-[MS_Kommandøren_Fjord1_Fylkesbaatane_(091901).jpg](https://zh.wikipedia.org/wiki/File:MS_Kommandøren_Fjord1_Fylkesbaatane_\(091901\).jpg "fig:MS_Kommandøren_Fjord1_Fylkesbaatane_(091901).jpg")
-**FlyingCat**系列（雙體噴射船）是一款由[挪威](../Page/挪威.md "wikilink")[斐聲船廠](https://zh.wikipedia.org/wiki/斐聲船廠 "wikilink")（Kværner
-Fjellstrand
-a.s.）開發的高速[雙體船](../Page/雙體船.md "wikilink")，全球共有24艘，斐聲及其新加坡分廠建造了22艘，而承繼斐聲新加坡分廠的達門造船（Damen
-Shipyards）以「DFF4010」型號建造2艘。
+[20090225-TurboJET_Universal_MK_1.jpg](https://zh.wikipedia.org/wiki/File:20090225-TurboJET_Universal_MK_1.jpg "fig:20090225-TurboJET_Universal_MK_1.jpg") [MS_Kommandøren_Fjord1_Fylkesbaatane_(091901).jpg](https://zh.wikipedia.org/wiki/File:MS_Kommandøren_Fjord1_Fylkesbaatane_\(091901\).jpg "fig:MS_Kommandøren_Fjord1_Fylkesbaatane_(091901).jpg") **FlyingCat**系列（雙體噴射船）是一款由[挪威](../Page/挪威.md "wikilink")[斐聲船廠](https://zh.wikipedia.org/wiki/斐聲船廠 "wikilink")（Kværner Fjellstrand a.s.）開發的高速[雙體船](../Page/雙體船.md "wikilink")，全球共有26艘，斐聲及其新加坡分廠建造了24艘，而承繼斐聲新加坡分廠的達門造船（Damen Shipyards）以「DFF4010」型號建造2艘。
 
 ## 概要
 
-此系列雙體船於1990-2004年間生產，分為40m、46m及50m三個型號，當中以40m型號佔最多，其餘均只有一艘。所有船隻均採用2台或4台（FlyingCat
-50m及46m適用）柴油機驅動。
+此系列雙體船於1990-2004年間生產，分為40m、46m及50m三個型號，當中以40m型號佔最多，其餘均只有一艘。所有船隻均採用2台或4台（FlyingCat 50m及46m適用）柴油機驅動。
 
 ## 規格
 
@@ -20,29 +14,27 @@ Shipyards）以「DFF4010」型號建造2艘。
   - 可容納車輛數目（僅限人車兩用的FlyingCat 50m）：13輛私家車
   - 總重：479噸（FlyingCat 40m）/ 534噸（FlyingCat 46m）/ 573噸（FlyingCat 50m）
   - 淨重：155噸（FlyingCat 40m）
-  - 引擎：2具[MTU製](../Page/MTU腓德烈斯哈芬有限公司.md "wikilink") 16V 396 TE
-    74L型柴油機（FlyingCat 40m）/ 4具MTU製12V 4000 M70型柴油機（FlyingCat
-    46m）/4具MTU製柴油機（FlyingCat 50m，與FlyingCat 40m採用主機型號相同）
+  - 引擎：2具[MTU製](../Page/MTU腓德烈斯哈芬有限公司.md "wikilink") 16V 396 TE 74L型柴油機（FlyingCat 40m）/ 4具MTU製12V 4000 M70型柴油機（FlyingCat 46m）/4具MTU製柴油機（FlyingCat 50m，與FlyingCat 40m採用主機型號相同）
 
 ## 營運
 
 自第一艘FlyingCat雙體船「Kommandøren號」於1990年起在挪威投入應用以來，不少歐洲及亞洲的渡輪公司均購入本型高速客輪，用作跨境或境內渡輪之用，直至2000年代才逐漸停產。
 
-香港[新世界第一渡輪曾經是FlyingCat的最大用家](../Page/新世界第一渡輪.md "wikilink")，一度持有共5艘本型客輪。
+香港[新世界第一渡輪](../Page/新世界第一渡輪.md "wikilink")曾經是FlyingCat的最大用家，一度持有共5艘本型客輪；而[噴射飛航則曾先後使用](https://zh.wikipedia.org/wiki/噴射飛航 "wikilink")6艘本型客輪，為FlyingCat的另一個主要用家。
 
 目前本型船隻行駛航線如下：
 
   - 跨境/跨國：
-      - 港澳[珠江口航線](https://zh.wikipedia.org/wiki/珠江口 "wikilink")（主要為香港[海天客運碼頭至澳門](../Page/海天客運碼頭.md "wikilink")[外港客運碼頭](https://zh.wikipedia.org/wiki/外港客運碼頭 "wikilink")）
-      - 穗港珠江口航線（香港[中港碼頭至廣州](https://zh.wikipedia.org/wiki/中港碼頭 "wikilink")[南沙客運港](https://zh.wikipedia.org/wiki/南沙客運港 "wikilink")）
-      - [小三通航線](../Page/小三通.md "wikilink")（[廈門市至](https://zh.wikipedia.org/wiki/廈門市 "wikilink")[金門縣](../Page/金門縣.md "wikilink")[水頭碼頭](https://zh.wikipedia.org/wiki/水頭碼頭 "wikilink")）
+      - 港澳[珠江口航線](https://zh.wikipedia.org/wiki/珠江口 "wikilink")（主要為香港[海天客運碼頭](../Page/海天客運碼頭.md "wikilink")至澳門[外港客運碼頭](https://zh.wikipedia.org/wiki/外港客運碼頭 "wikilink")）
+      - 穗港珠江口航線（香港[中港碼頭至廣州](https://zh.wikipedia.org/wiki/中港碼頭 "wikilink")[南沙客運港](https://zh.wikipedia.org/wiki/南沙客運港 "wikilink")，由[珠江客運](../Page/珠江客運.md "wikilink")經營，並由噴射飛航的「宇航五號」承運）
+      - [小三通](../Page/小三通.md "wikilink")航線（[廈門市至](https://zh.wikipedia.org/wiki/廈門市 "wikilink")[金門縣](../Page/金門縣.md "wikilink")[水頭碼頭](https://zh.wikipedia.org/wiki/水頭碼頭 "wikilink")）
       - [新加坡海峽航線](https://zh.wikipedia.org/wiki/新加坡海峽 "wikilink")（[新加坡樟宜機場至印尼](https://zh.wikipedia.org/wiki/新加坡樟宜機場 "wikilink")[民丹島](../Page/民丹島.md "wikilink")）
   - 境內：
-      - 香港[中環碼頭至](../Page/中環碼頭.md "wikilink")[長洲](https://zh.wikipedia.org/wiki/長洲 "wikilink")
+      - 香港[中環碼頭](../Page/中環碼頭.md "wikilink")至[長洲](https://zh.wikipedia.org/wiki/長洲 "wikilink")
       - 台灣[高雄至](https://zh.wikipedia.org/wiki/高雄 "wikilink")[澎湖](https://zh.wikipedia.org/wiki/澎湖 "wikilink")
       - 印尼[北蘇拉威西省](https://zh.wikipedia.org/wiki/北蘇拉威西省 "wikilink")
-      - 俄羅斯[黑海沿海地區](../Page/黑海.md "wikilink")
-      - 南韓[仁川至](https://zh.wikipedia.org/wiki/仁川 "wikilink")[北方界線附近島嶼](../Page/北方界線.md "wikilink")
+      - 俄羅斯[黑海](../Page/黑海.md "wikilink")沿海地區
+      - 南韓[仁川至](https://zh.wikipedia.org/wiki/仁川 "wikilink")[北方界線](../Page/北方界線.md "wikilink")附近島嶼
 
 ## FlyingCat船隻列表
 
@@ -197,12 +189,12 @@ Kartepe</p></td>
 <td><p>新加坡</p></td>
 <td><p>（港澳飛翔船）<br />
 （噴射飛航）<br />
-不詳</p></td>
+Namhae Express</p></td>
 <td><p>（宇航四號）<br />
 Nam Hae Angel</p></td>
 <td><p>（香港）<br />
-南韓</p></td>
-<td><p>與港澳飛翔船一併於1999年併入噴射飛航，2011年4月出售至南韓</p></td>
+<a href="https://zh.wikipedia.org/wiki/木浦" title="wikilink">木浦</a></p></td>
+<td><p>與港澳飛翔船一併於1999年併入噴射飛航，2011年4月出售予南韓，用於運行木浦至<a href="https://zh.wikipedia.org/wiki/濟州島" title="wikilink">濟州島航線</a></p></td>
 </tr>
 <tr class="even">
 <td><p>12</p></td>
@@ -212,7 +204,7 @@ Nam Hae Angel</p></td>
 <td><p>Bintan Resort Ferry Pte Ltd.</p></td>
 <td><p>Indera Bupala</p></td>
 <td><p>新加坡</p></td>
-<td><p>於1994年7月11日由印尼工業部部長揭牌啟用；運營新加坡<a href="https://zh.wikipedia.org/wiki/樟宜機場" title="wikilink">樟宜機場至印尼</a><a href="../Page/民丹島.md" title="wikilink">民丹島航線</a></p></td>
+<td><p>於1994年7月11日由印尼工業部部長揭牌啟用；運營新加坡<a href="https://zh.wikipedia.org/wiki/樟宜機場" title="wikilink">樟宜機場至印尼</a><a href="../Page/民丹島.md" title="wikilink">民丹島</a>航線</p></td>
 </tr>
 <tr class="odd">
 <td><p>13</p></td>
@@ -233,6 +225,16 @@ Falcao</p></td>
 <tr class="even">
 <td><p>14</p></td>
 <td><p>FlyingCat 40m</p></td>
+<td><p>1994年</p></td>
+<td><p>新加坡</p></td>
+<td><p>Namhae Express</p></td>
+<td><p>Nam Hae Queen</p></td>
+<td><p>木浦</p></td>
+<td><p>用於運行木浦至濟州島航線</p></td>
+</tr>
+<tr class="odd">
+<td><p>15</p></td>
+<td><p>FlyingCat 40m</p></td>
 <td><p>1995年4月3日</p></td>
 <td><p>新加坡</p></td>
 <td><p>（Wightlink）<br />
@@ -244,8 +246,8 @@ Sochi 1</p></td>
 <a href="https://zh.wikipedia.org/wiki/新羅西斯克" title="wikilink">新羅西斯克</a></p></td>
 <td><p>2011年轉售予俄羅斯，在黑海運行</p></td>
 </tr>
-<tr class="odd">
-<td><p>15</p></td>
+<tr class="even">
+<td><p>16</p></td>
 <td><p>FlyingCat 40m</p></td>
 <td><p>1995年5月</p></td>
 <td><p>新加坡</p></td>
@@ -254,8 +256,8 @@ Sochi 1</p></td>
 <td><p>新加坡</p></td>
 <td><p>運營新加坡樟宜機場至印尼民丹島航線</p></td>
 </tr>
-<tr class="even">
-<td><p>16</p></td>
+<tr class="odd">
+<td><p>17</p></td>
 <td><p>FlyingCat 40m</p></td>
 <td><p>1996年</p></td>
 <td><p>新加坡</p></td>
@@ -268,8 +270,8 @@ Sochi 2</p></td>
 新羅西斯克</p></td>
 <td><p>2011年轉售予俄羅斯，在黑海運行</p></td>
 </tr>
-<tr class="odd">
-<td><p>17</p></td>
+<tr class="even">
+<td><p>18</p></td>
 <td><p>FlyingCat 40m</p></td>
 <td><p>1996年</p></td>
 <td><p>新加坡</p></td>
@@ -281,19 +283,30 @@ Ale M</p></td>
 意大利</p></td>
 <td><p>曾易手數次；現役</p></td>
 </tr>
+<tr class="odd">
+<td><p>19</p></td>
+<td><p>FlyingCat 40m</p></td>
+<td><p>1996年</p></td>
+<td><p>挪威</p></td>
+<td><p>（Minoan Flying Dolphins）<br />
+Hellenic Seaways</p></td>
+<td><p>FlyingCat 5</p></td>
+<td><p><a href="../Page/雅典.md" title="wikilink">雅典</a></p></td>
+<td><p>因Minoan Flying Dolphins在2001年破產而併入Hellenic Seaways；目前使用沃達豐廣告塗裝</p></td>
+</tr>
 <tr class="even">
-<td><p>18</p></td>
+<td><p>20</p></td>
 <td><p>FlyingCat 40m</p></td>
 <td><p>1997年</p></td>
 <td><p>新加坡</p></td>
 <td><p>（Minoan Flying Dolphins）<br />
 Hellenic Seaways</p></td>
 <td><p>FlyingCat 6</p></td>
-<td><p>希臘</p></td>
-<td><p>因Minoan Flying Dolphins在2001年破產而併入Hellenic Seaways；目前使用沃達豐廣告塗裝</p></td>
+<td><p>雅典</p></td>
+<td><p>同上</p></td>
 </tr>
 <tr class="odd">
-<td><p>19</p></td>
+<td><p>21</p></td>
 <td><p>FlyingCat 40m</p></td>
 <td><p>1998年</p></td>
 <td><p>新加坡</p></td>
@@ -303,7 +316,7 @@ Hellenic Seaways</p></td>
 <td><p>專門行走「小三通」海上航線</p></td>
 </tr>
 <tr class="even">
-<td><p>20</p></td>
+<td><p>22</p></td>
 <td><p>FlyingCat 50m</p></td>
 <td><p>1998年5月</p></td>
 <td><p>挪威</p></td>
@@ -315,7 +328,7 @@ Flying Car Ferry</p></td>
 <td><p>現役</p></td>
 </tr>
 <tr class="odd">
-<td><p>21</p></td>
+<td><p>23</p></td>
 <td><p>FlyingCat 50m</p></td>
 <td><p>1999年</p></td>
 <td><p>新加坡</p></td>
@@ -325,7 +338,7 @@ Flying Car Ferry</p></td>
 <td><p>現役</p></td>
 </tr>
 <tr class="even">
-<td><p>22</p></td>
+<td><p>24</p></td>
 <td><p>DFF4010</p></td>
 <td><p>2001年</p></td>
 <td><p>新加坡</p></td>
@@ -337,7 +350,7 @@ Flying Car Ferry</p></td>
 <td><p>隨新渡輪澳門航線業務於2011年易手予噴射飛航；現役</p></td>
 </tr>
 <tr class="odd">
-<td><p>23</p></td>
+<td><p>25</p></td>
 <td><p>DFF4010</p></td>
 <td><p>2002年</p></td>
 <td><p>新加坡</p></td>
@@ -347,11 +360,11 @@ Flying Car Ferry</p></td>
 <td><p>（新輪陸）<br />
 滿天星二號</p></td>
 <td><p>（香港）<br />
-高雄</p></td>
-<td><p>隨新渡輪澳門航線業務於2011年易手予噴射飛航，兩年後再易手予台灣，行走高雄至澎湖航線</p></td>
+<a href="https://zh.wikipedia.org/wiki/嘉義" title="wikilink">嘉義</a></p></td>
+<td><p>隨新渡輪澳門航線業務於2011年易手予噴射飛航，兩年後再易手予台灣，行走嘉義至澎湖航線</p></td>
 </tr>
 <tr class="even">
-<td><p>24</p></td>
+<td><p>26</p></td>
 <td><p>FlyingCat 46m</p></td>
 <td><p>2004年12月31日（隨後停產）</p></td>
 <td><p>挪威</p></td>

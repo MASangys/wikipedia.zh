@@ -5,12 +5,7 @@
 ## 外部链接
 
   -
-[Category:2010年代電視劇](https://zh.wikipedia.org/wiki/Category:2010年代電視劇 "wikilink")
-[Category:澳洲电视节目](https://zh.wikipedia.org/wiki/Category:澳洲电视节目 "wikilink")
-[Category:劇情電視劇](https://zh.wikipedia.org/wiki/Category:劇情電視劇 "wikilink")
-[Category:2016年電視劇集](https://zh.wikipedia.org/wiki/Category:2016年電視劇集 "wikilink")
-[Category:英语电视节目](https://zh.wikipedia.org/wiki/Category:英语电视节目 "wikilink")
-[Category:醫學題材電視劇](https://zh.wikipedia.org/wiki/Category:醫學題材電視劇 "wikilink")
+[Category:2010年代電視劇](https://zh.wikipedia.org/wiki/Category:2010年代電視劇 "wikilink") [Category:澳洲电视节目](https://zh.wikipedia.org/wiki/Category:澳洲电视节目 "wikilink") [Category:劇情電視劇](https://zh.wikipedia.org/wiki/Category:劇情電視劇 "wikilink") [Category:2016年電視劇集](https://zh.wikipedia.org/wiki/Category:2016年電視劇集 "wikilink") [Category:英语电视节目](https://zh.wikipedia.org/wiki/Category:英语电视节目 "wikilink") [Category:醫學題材電視劇](https://zh.wikipedia.org/wiki/Category:醫學題材電視劇 "wikilink")
 
 1.
 2.

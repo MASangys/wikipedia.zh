@@ -1,10 +1,10 @@
-**MyMFB**（前身为**MillatFacebook**）是一个面向[穆斯林的](../Page/穆斯林.md "wikilink")[社交网站](../Page/社交網路服務.md "wikilink")。它于2010年5月25日推出，以回应[Facebook上一个名为](../Page/Facebook.md "wikilink")和巴基斯坦对Facebook的封锁。该网站称自己是“最大的穆斯林社交网站”。
+**MyMFB**（前身为**MillatFacebook**）是一个面向[穆斯林](../Page/穆斯林.md "wikilink")的[社交网站](../Page/社交網路服務.md "wikilink")。它于2010年5月25日推出，以回应[Facebook](../Page/Facebook.md "wikilink")上一个名为和巴基斯坦对Facebook的封锁。该网站称自己是“最大的穆斯林社交网站”。
 
 ## 背景
 
-2010年5月19日，命令在5月31日前在巴基斯坦境内封锁[Facebook](../Page/Facebook.md "wikilink")，因爲一名其用户在該網站上为“”组织了一场比赛，以“促进[言论自由](../Page/言論自由.md "wikilink")”，尽管有一些用户抗議，Facebook仍没有删除该页面\[1\]\[2\]。而[伊斯兰教严格禁止亵渎先知](../Page/伊斯兰教.md "wikilink")。随后还封锁[YouTube一周](../Page/YouTube.md "wikilink")，并限制访问包括[维基百科在内的其他网站](../Page/维基百科.md "wikilink")，称这些网站存在亵渎先知的内容\[3\]。
+2010年5月19日，命令在5月31日前在巴基斯坦境内封锁[Facebook](../Page/Facebook.md "wikilink")，因爲一名其用户在該網站上为“”组织了一场比赛，以“促进[言论自由](../Page/言論自由.md "wikilink")”，尽管有一些用户抗議，Facebook仍没有删除该页面\[1\]\[2\]。而[伊斯兰教](../Page/伊斯兰教.md "wikilink")严格禁止亵渎先知。随后还封锁[YouTube](../Page/YouTube.md "wikilink")一周，并限制访问包括[维基百科](../Page/维基百科.md "wikilink")在内的其他网站，称这些网站存在亵渎先知的内容\[3\]。
 
-此一爭議事件以及Facebook模糊不清的隐私控制設定皆促成了MillatFacebook的建立。此一独立网站建立于2010年5月25日\[4\]，为一个Facebook风格的社交网站\[5\]。[乌尔都语中](../Page/乌尔都语.md "wikilink")，“Millat”被穆斯林用于指代“[烏瑪](https://zh.wikipedia.org/wiki/烏瑪 "wikilink")”\[6\]。受当地无法使用Facebook之影响，在最初的几天里，这个网站吸引了超过4300名用户，其中大部分是巴基斯坦人，且预计还会进一步增长\[7\]。然而，11天之后的2010年5月30日，一个巴基斯坦法院裁定，巴基斯坦政府应该解除对Facebook的封锁，恢复國內对其访问的權利\[8\]。
+此一爭議事件以及Facebook模糊不清的隐私控制設定皆促成了MillatFacebook的建立。此一独立网站建立于2010年5月25日\[4\]，为一个Facebook风格的社交网站\[5\]。[乌尔都语](../Page/乌尔都语.md "wikilink")中，“Millat”被穆斯林用于指代“[烏瑪](https://zh.wikipedia.org/wiki/烏瑪 "wikilink")”\[6\]。受当地无法使用Facebook之影响，在最初的几天里，这个网站吸引了超过4300名用户，其中大部分是巴基斯坦人，且预计还会进一步增长\[7\]。然而，11天之后的2010年5月30日，一个巴基斯坦法院裁定，巴基斯坦政府应该解除对Facebook的封锁，恢复國內对其访问的權利\[8\]。
 
 ## 发展
 
@@ -26,17 +26,9 @@
 
   - [MyMFB网站](http://www.mymfb.com/)
 
-[Category:Facebook](https://zh.wikipedia.org/wiki/Category:Facebook "wikilink")
-[Category:社交網路服務](https://zh.wikipedia.org/wiki/Category:社交網路服務 "wikilink")
-[Category:2010年建立的网站](https://zh.wikipedia.org/wiki/Category:2010年建立的网站 "wikilink")
-[Category:巴基斯坦伊斯兰教](https://zh.wikipedia.org/wiki/Category:巴基斯坦伊斯兰教 "wikilink")
-[Category:巴基斯坦公司](https://zh.wikipedia.org/wiki/Category:巴基斯坦公司 "wikilink")
-[Category:巴基斯坦网站](https://zh.wikipedia.org/wiki/Category:巴基斯坦网站 "wikilink")
-[Category:2010年巴基斯坦](https://zh.wikipedia.org/wiki/Category:2010年巴基斯坦 "wikilink")
+[Category:Facebook](https://zh.wikipedia.org/wiki/Category:Facebook "wikilink") [Category:社交網路服務](https://zh.wikipedia.org/wiki/Category:社交網路服務 "wikilink") [Category:2010年建立的网站](https://zh.wikipedia.org/wiki/Category:2010年建立的网站 "wikilink") [Category:巴基斯坦伊斯兰教](https://zh.wikipedia.org/wiki/Category:巴基斯坦伊斯兰教 "wikilink") [Category:巴基斯坦公司](https://zh.wikipedia.org/wiki/Category:巴基斯坦公司 "wikilink") [Category:巴基斯坦网站](https://zh.wikipedia.org/wiki/Category:巴基斯坦网站 "wikilink") [Category:2010年巴基斯坦](https://zh.wikipedia.org/wiki/Category:2010年巴基斯坦 "wikilink")
 
-1.  Dogar, Babar (19 May 2010), ["Pakistani court orders gov't to block
-    Facebook"](https://www.google.com/hostednews/ap/article/ALeqM5hHJMlhPxG4DA6K2S6AjgqHhQD59wD9FPTTS80)
-     , Associated Press (Lahore). Retrieved 17 June 2010.
+1.  Dogar, Babar (19 May 2010), ["Pakistani court orders gov't to block Facebook"](https://www.google.com/hostednews/ap/article/ALeqM5hHJMlhPxG4DA6K2S6AjgqHhQD59wD9FPTTS80)  , Associated Press (Lahore). Retrieved 17 June 2010.
 
 2.
 3.

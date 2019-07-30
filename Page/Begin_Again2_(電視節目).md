@@ -1,7 +1,4 @@
-《**Begin
-Again2**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC的音樂節目](../Page/JTBC.md "wikilink")，由韓國頂級音樂人在海外陌生的城市挑戰街頭路演。第二季由[朴正炫](https://zh.wikipedia.org/wiki/朴正炫 "wikilink")、、[Henry](../Page/劉憲華.md "wikilink")、[李秀賢組成Family](https://zh.wikipedia.org/wiki/樂童音樂家 "wikilink")
-Band；[金倫我](../Page/金倫我.md "wikilink")、、、[Roy
-Kim組成另一隊](https://zh.wikipedia.org/wiki/羅伊·金 "wikilink")，分別前往葡萄牙匈牙利Busking。
+《**Begin Again2**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC](../Page/JTBC.md "wikilink")的音樂節目，由韓國頂級音樂人在海外陌生的城市挑戰街頭路演。第二季由[朴正炫](https://zh.wikipedia.org/wiki/朴正炫 "wikilink")、、[Henry](../Page/劉憲華.md "wikilink")、[李秀賢組成Family](https://zh.wikipedia.org/wiki/樂童音樂家 "wikilink") Band；[金倫我](../Page/金倫我.md "wikilink")、、、[Roy Kim組成另一隊](https://zh.wikipedia.org/wiki/羅伊·金 "wikilink")，分別前往葡萄牙匈牙利Busking。
 
 ## 各集內容
 
@@ -19,7 +16,7 @@ Kim組成另一隊](https://zh.wikipedia.org/wiki/羅伊·金 "wikilink")，分�
 <tr class="odd">
 <td><p>1</p></td>
 <td><p>2018/03/30</p></td>
-<td><p><a href="../Page/金倫我.md" title="wikilink">金倫我組</a></p></td>
+<td><p><a href="../Page/金倫我.md" title="wikilink">金倫我</a>組</p></td>
 <td></td>
 <td><p>rowspan=4 </p></td>
 </tr>
@@ -289,9 +286,7 @@ Family Band</p></td>
 
 ## 參考資料
 
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:JTBC](https://zh.wikipedia.org/wiki/Category:JTBC "wikilink")
+[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:JTBC](https://zh.wikipedia.org/wiki/Category:JTBC "wikilink")
 
 1.
 2.

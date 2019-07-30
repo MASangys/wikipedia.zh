@@ -2,7 +2,4 @@
 
 ## 参考文献
 
-[Category:蘇格蘭裔美國人](https://zh.wikipedia.org/wiki/Category:蘇格蘭裔美國人 "wikilink")
-[Category:密西西比州人](https://zh.wikipedia.org/wiki/Category:密西西比州人 "wikilink")
-[Category:邦聯軍人](https://zh.wikipedia.org/wiki/Category:邦聯軍人 "wikilink")
-[Category:密西西比州參議員](https://zh.wikipedia.org/wiki/Category:密西西比州參議員 "wikilink")
+[Category:蘇格蘭裔美國人](https://zh.wikipedia.org/wiki/Category:蘇格蘭裔美國人 "wikilink") [Category:密西西比州人](https://zh.wikipedia.org/wiki/Category:密西西比州人 "wikilink") [Category:邦聯軍人](https://zh.wikipedia.org/wiki/Category:邦聯軍人 "wikilink") [Category:密西西比州參議員](https://zh.wikipedia.org/wiki/Category:密西西比州參議員 "wikilink")

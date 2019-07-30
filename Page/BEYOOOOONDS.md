@@ -1,16 +1,6 @@
-**BEYOOOOONDS**（****），[日本](../Page/日本.md "wikilink")[Hello\!
-Project旗下的一女子偶像團體](https://zh.wikipedia.org/wiki/Hello!_Project "wikilink")\[1\]。團體於2018年結成，目前有十二名成員（[CHICA\#TETSU及](../Page/BEYOOOOONDS.md "wikilink")[雨之森
-川海皆為原](../Page/BEYOOOOONDS.md "wikilink")[Hello\!
-Pro研修生昇格](../Page/Hello!_Pro研修生.md "wikilink")）\[2\]。「BEYOOOOONDS」又分為「CHICA\#TETSU」及「雨之森
-川海」、「Hello\!Project ONLY YOU徵選會」所選出的合格者，共三團\[3\]\[4\]。
+**BEYOOOOONDS**（****），[日本](../Page/日本.md "wikilink")[Hello\! Project旗下的一女子偶像團體](https://zh.wikipedia.org/wiki/Hello!_Project "wikilink")\[1\]。團體於2018年結成，目前有十二名成員（[CHICA\#TETSU及](../Page/BEYOOOOONDS.md "wikilink")[雨之森 川海皆為原](../Page/BEYOOOOONDS.md "wikilink")[Hello\! Pro研修生昇格](../Page/Hello!_Pro研修生.md "wikilink")）\[2\]。「BEYOOOOONDS」又分為「CHICA\#TETSU」及「雨之森 川海」、「Hello\!Project ONLY YOU徵選會」所選出的合格者，共三團\[3\]\[4\]。
 
 ## 成員
-
-  - 2017年5月5日宣布一岡伶奈・高瀬くるみ・清野桃々姫 將會出道
-      - 6月26日宣布一岡伶奈為隊長\[5\]
-  - 2018年6月11日宣布兩團的新成員，並於7月14日的H\!P夏控公開亮相。\[6\]
-      - 正式出道日期尚未決定。
-  - 代表色與新成員於2018年12月3日「BEYOOOOONDS 応援企画FCイベント2018 ～冬の陣ZIN～」活動中發表
 
 ### CHICA\#TETSU
 
@@ -256,17 +246,14 @@ Pro研修生昇格](../Page/Hello!_Pro研修生.md "wikilink")）\[2\]。「BEYO
 <!-- end list -->
 
   - 小林萌花
-      - 特技為彈[鋼琴](https://zh.wikipedia.org/wiki/鋼琴 "wikilink")。曾在「第8回ジュラ・キシュ国際ピアノコンクール
-        高校生部門」獲得第2名的成績
+      - 特技為彈[鋼琴](https://zh.wikipedia.org/wiki/鋼琴 "wikilink")。曾在「第8回ジュラ・キシュ国際ピアノコンクール 高校生部門」獲得第2名的成績
 
 ## 團名
 
-  - 「BEYOOOOONDS」是從英文的「Beyond」延伸出來的意思。代表著「～超越」、「～到達另一邊」的意思。包含著希望她們能夠擺脫現有的框架，自由的朝著未來有所成長。\[7\]\[8\]\[9\]
-  - 「BEYOOOOONDS」為「CHICA\#TETSU」及「雨ノ森
-    川海」的合流團體，目標是成為能夠向黏液般成為充滿變化的團體。\[10\]\[11\]
-  - 「CHICA\#TETSU」中的「CHICA」在西班牙語中代表「女孩子」的意思，「TETSU」則代表「哲學」。「CHICA\#TETSU」有著「深思熟慮的女孩子」的意思。希望能夠透過表演的方式來呈現出，女孩子內心的秘密及纖細的感情。\[12\]\[13\]
-  - 「雨ノ森 川海」(簡稱：RFRO；Rain Forest River
-    Ocean。)就像雨水環繞著整座森林悠悠的落下，落在樹葉上的水滴慢慢的滴入河中，河水再蔓延至大海。會永遠不斷地循環下去。而水正是給予我們生命的泉源。這樣的團名代表著「自然」及「生命之源」的意思。希望她們能夠成為一個能夠滋潤人們想法的團體。\[14\]\[15\]
+  - 「BEYOOOOONDS」是從英文的「Beyond」延伸出來的意思。代表著「～超越」、「～到達另一邊」的意思。包含著希望她們能夠擺脫現有的框架，自由的朝著未來有所成長。\[5\]\[6\]\[7\]
+  - 「BEYOOOOONDS」為「CHICA\#TETSU」及「雨ノ森 川海」的合流團體，目標是成為能夠向黏液般成為充滿變化的團體。\[8\]\[9\]
+  - 「CHICA\#TETSU」中的「CHICA」在西班牙語中代表「女孩子」的意思，「TETSU」則代表「哲學」。「CHICA\#TETSU」有著「深思熟慮的女孩子」的意思。希望能夠透過表演的方式來呈現出，女孩子內心的秘密及纖細的感情。\[10\]\[11\]
+  - 「雨ノ森 川海」(簡稱：RFRO；Rain Forest River Ocean。)就像雨水環繞著整座森林悠悠的落下，落在樹葉上的水滴慢慢的滴入河中，河水再蔓延至大海。會永遠不斷地循環下去。而水正是給予我們生命的泉源。這樣的團名代表著「自然」及「生命之源」的意思。希望她們能夠成為一個能夠滋潤人們想法的團體。\[12\]\[13\]
 
 ## 作品
 
@@ -348,37 +335,20 @@ Pro研修生昇格](../Page/Hello!_Pro研修生.md "wikilink")）\[2\]。「BEYO
 
 ### 未發表歌曲
 
-### BEYOOOOONDS
-
-  - 文化祭実行委員長の恋（作詞・作曲：星部ショウ）
   - アツイ！
-
-### CHICA\#TETSU名義
-
-  - 都営大江戸線の六本木駅で抱きしめて
-
-### 雨之森 川海名義
-
-  - GIRL
-    ZONE（作詞・作曲：[大森靖子](https://zh.wikipedia.org/wiki/大森靖子 "wikilink")、編曲：[大久保薫](https://zh.wikipedia.org/wiki/大久保薫 "wikilink")）
 
 ## 參考來源
 
 ## 外部連結
 
-  - [BEYOOOOONDS
-    Hello\!Project官方頁面](http://www.helloproject.com/beyooooonds/)(日文)
+  - [BEYOOOOONDS Hello\!Project官方頁面](http://www.helloproject.com/beyooooonds/)(日文)
   - [BEYOOOOONDS官方Instagram(beyooooonds_official)](https://www.instagram.com/beyooooonds_official/)
   - [BEYOOOOONDS官方Twitter(@BEYOOOOONDS_)](https://twitter.com/BEYOOOOONDS_/)
   - [CHICA\#TETSU官方博客](https://ameblo.jp/beyooooonds-chicatetsu/)(日文)
   - [雨之森 川海 官方博客](https://ameblo.jp/beyooooonds-rfro/)(日文)
-  - [Hello\!Project ONLY YOU征選會合格者
-    官方博客](https://ameblo.jp/beyooooonds/)(日文)
+  - [Hello\!Project ONLY YOU征選會合格者 官方博客](https://ameblo.jp/beyooooonds/)(日文)
 
-[Category:Hello\!_Project](https://zh.wikipedia.org/wiki/Category:Hello!_Project "wikilink")
-[Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink")
-[Category:2018年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2018年成立的音樂團體 "wikilink")
-[Category:BEYOOOOONDS](https://zh.wikipedia.org/wiki/Category:BEYOOOOONDS "wikilink")
+[Category:Hello\!_Project](https://zh.wikipedia.org/wiki/Category:Hello!_Project "wikilink") [Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink") [Category:2018年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2018年成立的音樂團體 "wikilink") [Category:BEYOOOOONDS](https://zh.wikipedia.org/wiki/Category:BEYOOOOONDS "wikilink")
 
 1.
 
@@ -386,17 +356,13 @@ Pro研修生昇格](../Page/Hello!_Pro研修生.md "wikilink")）\[2\]。「BEYO
 3.
 4.
 
-5.  <https://www.youtube.com/watch?v=890hhENEH30>
-
-6.  <http://www.helloproject.com/beyooooonds/news/8692/>
-
+5.
+6.
 7.
+
 8.
 9.
-
 10.
 11.
 12.
 13.
-14.
-15.

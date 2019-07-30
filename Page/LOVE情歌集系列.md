@@ -1,5 +1,4 @@
-**LOVE情歌集**是由香港各大唱片公司聯合推出的一系列跨廠牌中文精選專輯，由2003年發行第一張作品《Love情歌集》，至2010年的《LOVE
-10情歌集壓軸篇》為止，本系列一共有逾20張精選唱片，當中更有獨立收錄了歌曲MV的VCD或DVD產品。
+**LOVE情歌集**是由香港各大唱片公司聯合推出的一系列跨廠牌中文精選專輯，由2003年發行第一張作品《Love情歌集》，至2010年的《LOVE 10情歌集壓軸篇》為止，本系列一共有逾20張精選唱片，當中更有獨立收錄了歌曲MV的VCD或DVD產品。
 
 ## 記錄
 
@@ -1175,20 +1174,14 @@
 
 ## 參考來源
 
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:香港音樂](https://zh.wikipedia.org/wiki/Category:香港音樂 "wikilink")
+[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:香港音樂](https://zh.wikipedia.org/wiki/Category:香港音樂 "wikilink")
 
 1.  若只計算CD產品，此歌曲為收錄最多次的歌曲，共4次。
-2.  [Love 情歌集 (特別版)
-    (CD+VCD)@yesasia.com](https://www.yesasia.com/global/love-%E6%83%85%E6%AD%8C%E9%9B%86-%E7%89%B9%E5%88%A5%E7%89%88-cd-vcd/1002854326-0-0-0-zh_TW/info.html)
-3.  [LOVE
-    情歌集2](https://hk.carousell.com/p/%E7%BE%A4%E6%98%9F-cd-%E2%80%9Clove-%E6%83%85%E6%AD%8C%E9%9B%86-2%E2%80%9D-221536265/?ref=search&ref_query=%20LOVE%20%E6%83%85%E6%AD%8C%E9%9B%862&ref_referrer=%2Fsearch%2Fproducts%2F%3Fquery%3D%2520LOVE%2520%25E6%2583%2585%25E6%25AD%258C%25E9%259B%25862&ref_reqId=hk00aJizcxk9VOejKqYemzP1lMjDRTi9)
+2.  [Love 情歌集 (特別版) (CD+VCD)@yesasia.com](https://www.yesasia.com/global/love-%E6%83%85%E6%AD%8C%E9%9B%86-%E7%89%B9%E5%88%A5%E7%89%88-cd-vcd/1002854326-0-0-0-zh_TW/info.html)
+3.  [LOVE 情歌集2](https://hk.carousell.com/p/%E7%BE%A4%E6%98%9F-cd-%E2%80%9Clove-%E6%83%85%E6%AD%8C%E9%9B%86-2%E2%80%9D-221536265/?ref=search&ref_query=%20LOVE%20%E6%83%85%E6%AD%8C%E9%9B%862&ref_referrer=%2Fsearch%2Fproducts%2F%3Fquery%3D%2520LOVE%2520%25E6%2583%2585%25E6%25AD%258C%25E9%259B%25862&ref_reqId=hk00aJizcxk9VOejKqYemzP1lMjDRTi9)
 4.  [Love 05情歌集@yesasia.com](https://www.yesasia.com/global/love-05-%E6%83%85%E6%AD%8C%E9%9B%86-2cd/1004086018-0-0-0-zh_TW/info.html)
 5.  [《Love 06情歌集》(首批限量版封面)](https://ct.yimg.com/xd/api/res/1.2/GpkkZ5cRXvolOlW_AyjUwg--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7aD0xNDAwO3E9ODU7cm90YXRlPWF1dG87dz0xNDAw/https://s.yimg.com/ob/image/e6325826-bf57-4096-839a-23d15e0cb14c.jpg)
 6.  [《Love 06情歌集》(普通版封面)](https://i.ebayimg.com/images/g/NnUAAOSwGDNceJPV/s-l500.jpg)
-7.  [LOVE 08 情歌集
-    (首批精裝燙金絨面限量2CD版)](https://www.buyoyo.com/buyoyo/ProductDisplay.do?prrfnbr=11242313&prtype=4)
-8.  [LOVE 08 情歌集 (精裝限量版) (2CD +
-    T-Shirt)](https://www.yesasia.com/global/love-08-%E6%83%85%E6%AD%8C%E9%9B%86-%E7%B2%BE%E8%A3%9D%E9%99%90%E9%87%8F%E7%89%88-2cd-t-shirt/1013067974-0-0-0-zh_TW/info.html)
+7.  [LOVE 08 情歌集 (首批精裝燙金絨面限量2CD版)](https://www.buyoyo.com/buyoyo/ProductDisplay.do?prrfnbr=11242313&prtype=4)
+8.  [LOVE 08 情歌集 (精裝限量版) (2CD + T-Shirt)](https://www.yesasia.com/global/love-08-%E6%83%85%E6%AD%8C%E9%9B%86-%E7%B2%BE%E8%A3%9D%E9%99%90%E9%87%8F%E7%89%88-2cd-t-shirt/1013067974-0-0-0-zh_TW/info.html)
 9.  [LOVE 10情歌集-壓軸篇背面](https://media.karousell.com/media/photos/products/2019/02/28/cd__love_10___2cd__2010_____gem____1551353634_e3ac090e1)

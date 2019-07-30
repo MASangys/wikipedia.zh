@@ -1,5 +1,4 @@
-《**貓咪學園**》（英語：*Neko
-Gakuen*），為台灣[獨立遊戲開發團隊](https://zh.wikipedia.org/wiki/獨立遊戲 "wikilink")，該團隊成立於2015年。首次發佈以[RPG製作大師所製作的遊戲作品](../Page/RPG製作大師.md "wikilink")《私塾》，之後以《夢想的十三月》系列製作為主，並且在近期也開始了《紫月詩篇》系列的製作。該團隊的所有遊戲作品都以免費形式在網路上發佈\[1\]。
+《**貓咪學園**》（英語：*Neko Gakuen*），為台灣[獨立遊戲開發團隊](https://zh.wikipedia.org/wiki/獨立遊戲 "wikilink")，該團隊成立於2015年。首次發佈以[RPG製作大師](../Page/RPG製作大師.md "wikilink")所製作的遊戲作品《私塾》，之後以《夢想的十三月》系列製作為主，並且在近期也開始了《紫月詩篇》系列的製作。該團隊的所有遊戲作品都以免費形式在網路上發佈\[1\]。
 
 ## 歷史
 
@@ -27,9 +26,7 @@ Gakuen*），為台灣[獨立遊戲開發團隊](https://zh.wikipedia.org/wiki/�
   - [貓咪學園的官方網站](https://chocolatecatcat.web.fc2.com/)
   - [貓咪學園的Facebook專頁](https://www.facebook.com/ChocolateMacaronCatCat/)__强显目录__
 
-[Category:獨立遊戲](https://zh.wikipedia.org/wiki/Category:獨立遊戲 "wikilink")
-[Category:電子遊戲](https://zh.wikipedia.org/wiki/Category:電子遊戲 "wikilink")
-[Category:遊戲團隊](https://zh.wikipedia.org/wiki/Category:遊戲團隊 "wikilink")
+[Category:獨立遊戲](https://zh.wikipedia.org/wiki/Category:獨立遊戲 "wikilink") [Category:電子遊戲](https://zh.wikipedia.org/wiki/Category:電子遊戲 "wikilink") [Category:遊戲團隊](https://zh.wikipedia.org/wiki/Category:遊戲團隊 "wikilink")
 
 1.
 2.

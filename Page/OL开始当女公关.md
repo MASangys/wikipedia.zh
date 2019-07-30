@@ -1,4 +1,4 @@
-**雖然是OL，但是剛開始是當女公關**（）是2016年6月20日起於[每日放送和](../Page/每日放送.md "wikilink")[TBS電視台播出的電視劇](../Page/TBS電視台.md "wikilink")\[1\]\[2\]，由[倉持明日香](../Page/倉持明日香.md "wikilink")、[石川梨華](../Page/石川梨華.md "wikilink")、[福士誠治等人主演](../Page/福士誠治.md "wikilink")\[3\]。內容主要描述一名普通上班族女初入女公關行業，逐步變成頂級女公關的過程\[4\]。
+**雖然是OL，但是剛開始是當女公關**（）是2016年6月20日起於[每日放送](../Page/每日放送.md "wikilink")和[TBS電視台](../Page/TBS電視台.md "wikilink")播出的電視劇\[1\]\[2\]，由[倉持明日香](../Page/倉持明日香.md "wikilink")、[石川梨華](../Page/石川梨華.md "wikilink")、[福士誠治](../Page/福士誠治.md "wikilink")等人主演\[3\]。內容主要描述一名普通上班族女初入女公關行業，逐步變成頂級女公關的過程\[4\]。
 
 ## 演員列表
 
@@ -73,8 +73,7 @@
   - [官方連結](https://www.mbs.jp/ol-cab/)
   - [同名網路漫畫](http://matogrosso.jp/olcaba/olcaba.html)
 
-[Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink")
-[Category:2016年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2016年開播的日本電視劇集 "wikilink")
+[Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink") [Category:2016年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2016年開播的日本電視劇集 "wikilink")
 
 1.
 2.

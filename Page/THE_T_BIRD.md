@@ -1,5 +1,4 @@
-**The T BIRD**（），是OD娛樂於2019年推出的五人男子组合\[1\]，成員包括Younghan
-()、Donguk()、Taeoh ()、Seokjune ()及Nara ()。
+**The T BIRD**（），是OD娛樂於2019年推出的五人男子组合\[1\]，成員包括Younghan ()、Donguk()、Taeoh ()、Seokjune ()及Nara ()。
 
 ## 成員資料
 
@@ -50,7 +49,7 @@
 
 ## 爭議事件
 
-2019年3月29日，成員在[音樂銀行頒發一位給](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")[Mamamoo時想方設法搶鏡](../Page/Mamamoo.md "wikilink")，無視周遭人異樣眼神站到前輩後面，並且踢到了[Mamamoo先前腳上猶有舊傷的成員](../Page/Mamamoo.md "wikilink")[輝人而引發熱議](../Page/輝人.md "wikilink")，當時團員臉上並無一絲悔意，也未立即向[Mamamoo道歉](../Page/Mamamoo.md "wikilink")，仍舊嘻皮笑臉的大呼小叫，最後退至後方。公司晚間就此事發出相關道歉聲明，唯道歉聲明被批欠誠意，並且未就其莽撞無禮的舉動說明原因\[2\]\[3\]\[4\]。
+2019年3月29日，成員在[音樂銀行頒發一位給](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")[Mamamoo](../Page/Mamamoo.md "wikilink")時想方設法搶鏡，無視周遭人異樣眼神站到前輩後面，並且踢到了[Mamamoo](../Page/Mamamoo.md "wikilink")先前腳上猶有舊傷的成員[輝人](../Page/輝人.md "wikilink")而引發熱議，當時團員臉上並無一絲悔意，也未立即向[Mamamoo](../Page/Mamamoo.md "wikilink")道歉，仍舊嘻皮笑臉的大呼小叫，最後退至後方。公司晚間就此事發出相關道歉聲明，唯道歉聲明被批欠誠意，並且未就其莽撞無禮的舉動說明原因\[2\]\[3\]\[4\]。
 
 ## 參考資料
 
@@ -58,18 +57,13 @@
 
   -
   -
-  - \[<https://m.youtube.com/channel/UCW6Uigr5q7dIawlGoXZcqYQ?view_as=subscriber>|
-    THE T BIRD 官方Youtube\]
+  - \[<https://m.youtube.com/channel/UCW6Uigr5q7dIawlGoXZcqYQ?view_as=subscriber>| THE T BIRD 官方Youtube\]
 
   - \[<https://www.facebook.com/officialodent>| OD娛樂官方facebook\]
 
   - \[<http://www.odentgroup.com/thetbird>| OD娛樂官方網頁\]
 
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:2019年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2019年成立的音樂團體 "wikilink")
-[Category:2019年韓國建立](https://zh.wikipedia.org/wiki/Category:2019年韓國建立 "wikilink")
+[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2019年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2019年成立的音樂團體 "wikilink") [Category:2019年韓國建立](https://zh.wikipedia.org/wiki/Category:2019年韓國建立 "wikilink")
 
 1.
 2.  \[Naver\]

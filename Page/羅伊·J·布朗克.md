@@ -10,19 +10,19 @@
 
 [EL-1994-00019.jpeg](https://zh.wikipedia.org/wiki/File:EL-1994-00019.jpeg "fig:EL-1994-00019.jpeg")
 
-1936年，他獲[杜邦公司聘任為研究化學家](../Page/杜邦.md "wikilink")，並在[新澤西州](../Page/新泽西州.md "wikilink")的傑克遜實驗室（）上班\[4\]。
+1936年，他獲[杜邦](../Page/杜邦.md "wikilink")公司聘任為研究化學家，並在[新澤西州](../Page/新泽西州.md "wikilink")的傑克遜實驗室（）上班\[4\]。
 
 布朗克記載了發現特氟龍的過程\[5\]：
 
 布朗克進一步指出，他所使用的TFE氣缸每個重約1公斤——這是相對較小的氣閥瓶尺寸的氣缸，而不是大的氣缸\[6\]。
 
-容器中的[四氟乙烯](../Page/四氟乙烯.md "wikilink")[聚合成了](https://zh.wikipedia.org/wiki/聚合 "wikilink")[聚四氟乙烯](../Page/聚四氟乙烯.md "wikilink")——一種具有特別的特性（如耐[腐蝕性](../Page/腐蚀.md "wikilink")，低表面[摩擦力和高耐](../Page/摩擦力.md "wikilink")[熱性](https://zh.wikipedia.org/wiki/熱量 "wikilink")）的蠟狀固體。布朗克在1986年4月在[紐約市舉行的春季美國化學學會全國會議的化學史一節上講述了這一意外發現的始末](https://zh.wikipedia.org/wiki/紐約市 "wikilink")，該會議的內容後來發表在研討會論文集中。
+容器中的[四氟乙烯](../Page/四氟乙烯.md "wikilink")[聚合成了](https://zh.wikipedia.org/wiki/聚合 "wikilink")[聚四氟乙烯](../Page/聚四氟乙烯.md "wikilink")——一種具有特別的特性（如耐[腐蝕性](../Page/腐蚀.md "wikilink")，低表面[摩擦力](../Page/摩擦力.md "wikilink")和高耐[熱性](https://zh.wikipedia.org/wiki/熱量 "wikilink")）的蠟狀固體。布朗克在1986年4月在[紐約市舉行的春季美國化學學會全國會議的化學史一節上講述了這一意外發現的始末](https://zh.wikipedia.org/wiki/紐約市 "wikilink")，該會議的內容後來發表在研討會論文集中。
 
-他在1939年至1952年期間在杜邦所屬的錢伯斯工廠擔任生產[四乙基鉛](../Page/四乙基鉛.md "wikilink")（一種汽油添加劑）的首席化學家，之後他在杜邦負責管理[氟利昂的生產](../Page/氟利昂.md "wikilink")，直至他於1975年退休為止\[7\]。
+他在1939年至1952年期間在杜邦所屬的錢伯斯工廠擔任生產[四乙基鉛](../Page/四乙基鉛.md "wikilink")（一種汽油添加劑）的首席化學家，之後他在杜邦負責管理[氟利昂](../Page/氟利昂.md "wikilink")的生產，直至他於1975年退休為止\[7\]。
 
 ## 獎項
 
-1951年，布朗克獲[費城頒發](../Page/費城.md "wikilink")\[8\]，授獎原因是他的發明促進了「人類的舒適、福利和幸福」\[9\]。頒獎禮的參加者都獲發帶有特氟隆塗層的鬆餅罐\[10\]。布朗克隨後也獲得各種的獎項和榮譽：布朗克分別於1973年和1985年入選[塑料名人堂](https://zh.wikipedia.org/wiki/塑料名人堂 "wikilink")（）和\[11\]\[12\]。
+1951年，布朗克獲[費城](../Page/費城.md "wikilink")頒發\[8\]，授獎原因是他的發明促進了「人類的舒適、福利和幸福」\[9\]。頒獎禮的參加者都獲發帶有特氟隆塗層的鬆餅罐\[10\]。布朗克隨後也獲得各種的獎項和榮譽：布朗克分別於1973年和1985年入選[塑料名人堂](https://zh.wikipedia.org/wiki/塑料名人堂 "wikilink")（）和\[11\]\[12\]。
 
 ## 逝世
 
@@ -38,8 +38,7 @@
 
 ### 文獻
 
-[Category:俄亥俄州立大學校友](https://zh.wikipedia.org/wiki/Category:俄亥俄州立大學校友 "wikilink")
-[Category:聚合物科學家和工程師](https://zh.wikipedia.org/wiki/Category:聚合物科學家和工程師 "wikilink")
+[Category:俄亥俄州立大學校友](https://zh.wikipedia.org/wiki/Category:俄亥俄州立大學校友 "wikilink") [Category:聚合物科學家和工程師](https://zh.wikipedia.org/wiki/Category:聚合物科學家和工程師 "wikilink")
 
 1.
 

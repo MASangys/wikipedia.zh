@@ -19,10 +19,7 @@
 
 }
 
-.markrights-oversight:lang(zh-hans):after,
-.markrights-oversight:lang(zh-cn):after,
-.markrights-oversight:lang(zh-my):after,
-.markrights-oversight:lang(zh-sg):after {
+.markrights-oversight:lang(zh-hans):after, .markrights-oversight:lang(zh-cn):after, .markrights-oversight:lang(zh-my):after, .markrights-oversight:lang(zh-sg):after {
 
 `   color: purple;`
 `   content: "监";`
@@ -43,10 +40,7 @@
 
 }
 
-.markrights-interface-admin:lang(zh-hans):after,
-.markrights-interface-admin:lang(zh-cn):after,
-.markrights-interface-admin:lang(zh-my):after,
-.markrights-interface-admin:lang(zh-sg):after {
+.markrights-interface-admin:lang(zh-hans):after, .markrights-interface-admin:lang(zh-cn):after, .markrights-interface-admin:lang(zh-my):after, .markrights-interface-admin:lang(zh-sg):after {
 
 `   color: mediumvioletred;`
 `   content: "界";`
@@ -81,10 +75,7 @@
 
 }
 
-.markrights-accountcreator:lang(zh-hans):after,
-.markrights-accountcreator:lang(zh-cn):after,
-.markrights-accountcreator:lang(zh-my):after,
-.markrights-accountcreator:lang(zh-sg):after {
+.markrights-accountcreator:lang(zh-hans):after, .markrights-accountcreator:lang(zh-cn):after, .markrights-accountcreator:lang(zh-my):after, .markrights-accountcreator:lang(zh-sg):after {
 
 `   color: blue;`
 `   content: "创";`
@@ -98,10 +89,7 @@
 
 }
 
-.markrights-massmessage-sender:lang(zh-hans):after,
-.markrights-massmessage-sender:lang(zh-cn):after,
-.markrights-massmessage-sender:lang(zh-my):after,
-.markrights-massmessage-sender:lang(zh-sg):after {
+.markrights-massmessage-sender:lang(zh-hans):after, .markrights-massmessage-sender:lang(zh-cn):after, .markrights-massmessage-sender:lang(zh-my):after, .markrights-massmessage-sender:lang(zh-sg):after {
 
 `   color: blue;`
 `   content: "发";`
@@ -115,10 +103,7 @@
 
 }
 
-.markrights-confirmed:lang(zh-hans):after,
-.markrights-confirmed:lang(zh-cn):after,
-.markrights-confirmed:lang(zh-my):after,
-.markrights-confirmed:lang(zh-sg):after {
+.markrights-confirmed:lang(zh-hans):after, .markrights-confirmed:lang(zh-cn):after, .markrights-confirmed:lang(zh-my):after, .markrights-confirmed:lang(zh-sg):after {
 
 `   color: green;`
 `   content: "确";`
@@ -132,8 +117,7 @@
 
 }
 
-.markrights-bot:lang(zh-hans):after, .markrights-bot:lang(zh-cn):after,
-.markrights-bot:lang(zh-my):after, .markrights-bot:lang(zh-sg):after {
+.markrights-bot:lang(zh-hans):after, .markrights-bot:lang(zh-cn):after, .markrights-bot:lang(zh-my):after, .markrights-bot:lang(zh-sg):after {
 
 `   color: blue;`
 `   content: "机";`
@@ -147,10 +131,7 @@
 
 }
 
-.markrights-flood:lang(zh-hans):after,
-.markrights-flood:lang(zh-cn):after,
-.markrights-flood:lang(zh-my):after, .markrights-flood:lang(zh-sg):after
-{
+.markrights-flood:lang(zh-hans):after, .markrights-flood:lang(zh-cn):after, .markrights-flood:lang(zh-my):after, .markrights-flood:lang(zh-sg):after {
 
 `   color: mediumvioletred;`
 `   content: "机";`

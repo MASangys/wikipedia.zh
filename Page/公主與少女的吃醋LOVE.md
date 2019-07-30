@@ -1,5 +1,4 @@
-是Princess
-Sugar在2018年9月28日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]。
+是Princess Sugar在2018年9月28日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]。
 
 ## 故事簡介
 
@@ -27,8 +26,7 @@ Sugar在2018年9月28日發售的[戀愛冒險類型](https://zh.wikipedia.org/w
   - 片頭曲「Jewelry Kiss」\[3\]
     作詞：天咲麗，作曲、編曲：橋咲透，主唱：solfa feat.[Ceui](../Page/Ceui.md "wikilink")
   - 亞莉澤片尾曲「Shining on you」\[4\]
-    作詞：天咲麗，作曲、編曲：，主唱：solfa
-    feat.[nao](https://zh.wikipedia.org/wiki/nao_\(歌手\) "wikilink")
+    作詞：天咲麗，作曲、編曲：，主唱：solfa feat.[nao](https://zh.wikipedia.org/wiki/nao_\(歌手\) "wikilink")
   - 沙良片尾曲「Milky Kiss」\[5\]
     作詞：天咲麗，作曲、編曲：橋咲透，主唱：solfa feat.[青葉林檎](../Page/青葉林檎.md "wikilink")
   - 菜乃花片尾曲「」\[6\]
@@ -42,11 +40,7 @@ Sugar在2018年9月28日發售的[戀愛冒險類型](https://zh.wikipedia.org/w
 
   - [公主與少女的吃醋LOVE遊戲官網](https://www.s-digi.jp/princess-sugar/01-soft/05_himeoto/index.html)
 
-[Category:2018年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2018年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink")
+[Category:2018年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2018年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink")
 
 1.
 2.

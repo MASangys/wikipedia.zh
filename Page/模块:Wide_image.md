@@ -1,7 +1,4 @@
-\-- This module implements [template:wide
-image](https://zh.wikipedia.org/wiki/template:wide_image "wikilink") and
-[template:panorama](https://zh.wikipedia.org/wiki/template:panorama "wikilink")
-local p = {}
+\-- This module implements [template:wide image](https://zh.wikipedia.org/wiki/template:wide_image "wikilink") and [template:panorama](https://zh.wikipedia.org/wiki/template:panorama "wikilink") local p = {}
 
 local function getfilename(s)
 
@@ -87,8 +84,7 @@ local function getcontainers(noborder, float, width, maxwidth)
 
 end
 
-function wideimage(image, width, height, caption, boxwidth, float, alt,
-border, capalign, dir)
+function wideimage(image, width, height, caption, boxwidth, float, alt, border, capalign, dir)
 
 `   if image then`
 `       image = getfilename(image)`

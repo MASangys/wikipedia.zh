@@ -1,5 +1,4 @@
-**防范说明**是[全球化学品统一](https://zh.wikipedia.org/wiki/全球化学品统一分类和标签制度 "wikilink")[分类和标签制度](https://zh.wikipedia.org/wiki/全球化学品统一分类和标签制度 "wikilink")（GHS）的一部分。它们旨在形成一套标准化的短语，提供有关正确处理化学物质和混合物的建议，这些建议可以翻译成不同的语言。\[1\]
-\[2\]因此，它们与众所周知的[S-短语具有相同的目的](../Page/安全建議標準詞列表.md "wikilink")，并旨在取代S-短语。
+**防范说明**是[全球化学品统一](https://zh.wikipedia.org/wiki/全球化学品统一分类和标签制度 "wikilink")[分类和标签制度](https://zh.wikipedia.org/wiki/全球化学品统一分类和标签制度 "wikilink")（GHS）的一部分。它们旨在形成一套标准化的短语，提供有关正确处理化学物质和混合物的建议，这些建议可以翻译成不同的语言。\[1\] \[2\]因此，它们与众所周知的[S-短语具有相同的目的](../Page/安全建議標準詞列表.md "wikilink")，并旨在取代S-短语。
 
 防范说明是全球统一制度下容器标签的关键要素之一，同时还有： \[3\]
 
@@ -9,9 +8,7 @@
   - [危险说明](../Page/GHS危险说明.md "wikilink") ，表明产品所带来的风险的性质和程度
   - 供应商的身份（可能是制造商或进口商）
 
-每个防范说明都指定一个代码，以字母P开头，后跟三位数字。
-与相关危险相对应的语句按代码编号组合在一起，因此编号不是连续的。该代码用于参考目的，例如帮助翻译，但*实际短语*
-应出现在标签和[安全数据表上](../Page/材料安全性数据表.md "wikilink")。\[4\]一些预防性短语是组合，用加号“+”表示。在某些情况下，可以选择措辞，例如“避免吸入粉尘/烟/气体/烟雾/蒸汽/喷雾”：供应商或监管机构应为相关产品选择适当的措辞。
+每个防范说明都指定一个代码，以字母P开头，后跟三位数字。 与相关危险相对应的语句按代码编号组合在一起，因此编号不是连续的。该代码用于参考目的，例如帮助翻译，但*实际短语* 应出现在标签和[安全数据表上](../Page/材料安全性数据表.md "wikilink")。\[4\]一些预防性短语是组合，用加号“+”表示。在某些情况下，可以选择措辞，例如“避免吸入粉尘/烟/气体/烟雾/蒸汽/喷雾”：供应商或监管机构应为相关产品选择适当的措辞。
 
 ## 一般防范说明
 
@@ -315,21 +312,10 @@
 
   - [23种欧洲语言中的化学危害和预防措辞](http://schoolscout24.de/cgi-bin/keminaco/hppinput.cgi)
 
-[Category:全球统一制度](https://zh.wikipedia.org/wiki/Category:全球统一制度 "wikilink")
-[Category:有未审阅翻译的页面](https://zh.wikipedia.org/wiki/Category:有未审阅翻译的页面 "wikilink")
+[Category:全球统一制度](https://zh.wikipedia.org/wiki/Category:全球统一制度 "wikilink") [Category:有未审阅翻译的页面](https://zh.wikipedia.org/wiki/Category:有未审阅翻译的页面 "wikilink")
 
-1.  The [United
-    Nations](https://zh.wikipedia.org/wiki/United_Nations "wikilink")
-    has published the list of GHS precautionary statements in all UN
-    official languages (Arabic, Chinese, English, French, Russian,
-    Spanish): it can be found in Annex 3 of GHS Rev.2 for the
-    corresponding language.
-2.  A list of translations into all the [European
-    Union](https://zh.wikipedia.org/wiki/European_Union "wikilink")
-    official languages can be found in Annex IV to the [CLP
-    Regulation](https://zh.wikipedia.org/wiki/CLP_Regulation "wikilink"),
-    on pages 210–324 of the official English-language version.
+1.  The [United Nations](https://zh.wikipedia.org/wiki/United_Nations "wikilink") has published the list of GHS precautionary statements in all UN official languages (Arabic, Chinese, English, French, Russian, Spanish): it can be found in Annex 3 of GHS Rev.2 for the corresponding language.
+2.  A list of translations into all the [European Union](https://zh.wikipedia.org/wiki/European_Union "wikilink") official languages can be found in Annex IV to the [CLP Regulation](https://zh.wikipedia.org/wiki/CLP_Regulation "wikilink"), on pages 210–324 of the official English-language version.
 3.  Part 1, section 1.4.10.5.2, GHS Rev.2
 4.  Part 1, section 1.4.10.5.2(c)(ii), GHS Rev.2
-5.  *[CLP: Fourth adaptation to technical progress
-    published](http://www.reach.lu/mmp/online/website/menu_hori/news/93/701_EN.html)*
+5.  *[CLP: Fourth adaptation to technical progress published](http://www.reach.lu/mmp/online/website/menu_hori/news/93/701_EN.html)*

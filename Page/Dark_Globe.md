@@ -1,6 +1,4 @@
-《**Dark Globe**》（也被称为《**Wouldn't You Miss
-Me**》）\[1\]是[西德·巴雷特的一首歌](../Page/西德·巴雷特.md "wikilink")，出版在他第一张个人独唱专辑《<span>[The
-Madcap Laughs](../Page/The_Madcap_Laughs.md "wikilink")</span>》。
+《**Dark Globe**》（也被称为《**Wouldn't You Miss Me**》）\[1\]是[西德·巴雷特](../Page/西德·巴雷特.md "wikilink")的一首歌，出版在他第一张个人独唱专辑《<span>[The Madcap Laughs](../Page/The_Madcap_Laughs.md "wikilink")</span>》。
 
 ## 人员
 

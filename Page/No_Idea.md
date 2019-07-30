@@ -1,5 +1,4 @@
-《**No
-Idea**》是台灣歌手[羅志祥](../Page/羅志祥.md "wikilink")的第12張錄音室專輯，由[百代唱片於](../Page/百代唱片_\(台灣\).md "wikilink")2019年4月12日發行\[1\]\[2\]。
+《**No Idea**》是台灣歌手[羅志祥](../Page/羅志祥.md "wikilink")的第12張錄音室專輯，由[百代唱片於](../Page/百代唱片_\(台灣\).md "wikilink")2019年4月12日發行\[1\]\[2\]。
 
 ## 曲目
 
@@ -46,9 +45,7 @@ Idea**》是台灣歌手[羅志祥](../Page/羅志祥.md "wikilink")的第12張�
 
 ## 參考資料
 
-\[\[Category:EMI音樂專輯|Category:EMI音樂專
-
-[Category:2019年音樂專輯](https://zh.wikipedia.org/wiki/Category:2019年音樂專輯 "wikilink")
+[Category:2019年音樂專輯](https://zh.wikipedia.org/wiki/Category:2019年音樂專輯 "wikilink") [Category:EMI音樂專輯](https://zh.wikipedia.org/wiki/Category:EMI音樂專輯 "wikilink") [Category:羅志祥音樂專輯](https://zh.wikipedia.org/wiki/Category:羅志祥音樂專輯 "wikilink")
 
 1.
 2.

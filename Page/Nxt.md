@@ -1,14 +1,12 @@
-**Nxt**
-是一種[开放源码](https://zh.wikipedia.org/wiki/Open_source "wikilink")[加密货币及](../Page/密碼貨幣.md "wikilink")[支付平台](https://zh.wikipedia.org/wiki/Payment_network "wikilink")，由匿名软件开发人员*BCNext*於2013年推出。\[1\]它采用[持有量証明以達成交易共識](../Page/持有量證明.md "wikilink")，與[比特幣不同](../Page/比特幣歷史.md "wikilink")，它有固定的代幣供應量而沒有[挖礦機制](https://zh.wikipedia.org/wiki/挖礦 "wikilink")。\[2\]\[3\]Nxt的推出旨在建立一個適合應用程序開發及提供財政服務的彈性平台。
+**Nxt** 是一種[开放源码](https://zh.wikipedia.org/wiki/Open_source "wikilink")[加密货币及](../Page/密碼貨幣.md "wikilink")[支付平台](https://zh.wikipedia.org/wiki/Payment_network "wikilink")，由匿名软件开发人员*BCNext*於2013年推出。\[1\]它采用[持有量証明以達成交易共識](../Page/持有量證明.md "wikilink")，與[比特幣不同](../Page/比特幣歷史.md "wikilink")，它有固定的代幣供應量而沒有[挖礦機制](https://zh.wikipedia.org/wiki/挖礦 "wikilink")。\[2\]\[3\]Nxt的推出旨在建立一個適合應用程序開發及提供財政服務的彈性平台。
 
 Nxt在[ESMA的徵集証據報告中等到廣泛報導](../Page/欧洲证券及市场管理局.md "wikilink")。
 
 ## 历史
 
-Nxt的代幣總數量為一億。\[4\]2013年9月28日，Bitcointalk.org的成員BCNext創建了一個論壇主題宣佈第二代加密貨幣Nxt的推出並尋求小額的比特幣捐款以決定代幣的初始分佈。2013年11月8日，Nxt的集資結束，是次[首次代币发行總額為](../Page/首次代币发行.md "wikilink")21個比特幣（當時價值17,000美元）。\[5\]
+Nxt的代幣總數量為一億。\[4\]2013年9月28日，Bitcointalk.org的成員BCNext創建了一個論壇主題宣佈第二代加密貨幣Nxt的推出並尋求小額的比特幣捐款以決定代幣的初始分佈。2013年11月8日，Nxt的集資結束，是次[首次代币发行](../Page/首次代币发行.md "wikilink")總額為21個比特幣（當時價值17,000美元）。\[5\]
 
-2015年9月，Farla
-Webmedia发起了一个在Nxt進行資產交換的項目。2016年7月，Nxt推出了智能交易的模版，試圖以區塊鏈技術為企業解決問題。
+2015年9月，Farla Webmedia发起了一个在Nxt進行資產交換的項目。2016年7月，Nxt推出了智能交易的模版，試圖以區塊鏈技術為企業解決問題。
 
 ## 功能
 
@@ -37,13 +35,7 @@ Nxt所有的插件都不是包含在[沙盒](../Page/沙盒_\(電腦安全\).md 
   -
   - [PeerName浏览器對於Nxt的重新定向](https://peername.com/browser-extension/)
 
-[Category:另類貨幣](https://zh.wikipedia.org/wiki/Category:另類貨幣 "wikilink")
-[Category:金融技術](https://zh.wikipedia.org/wiki/Category:金融技術 "wikilink")
-[Category:2013年软件](https://zh.wikipedia.org/wiki/Category:2013年软件 "wikilink")
-[Category:用Java編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用Java編程的自由軟體 "wikilink")
-[Category:密碼貨幣](https://zh.wikipedia.org/wiki/Category:密碼貨幣 "wikilink")
-[Category:使用过时图像语法的页面](https://zh.wikipedia.org/wiki/Category:使用过时图像语法的页面 "wikilink")
-[Category:有未审阅翻译的页面](https://zh.wikipedia.org/wiki/Category:有未审阅翻译的页面 "wikilink")
+[Category:另類貨幣](https://zh.wikipedia.org/wiki/Category:另類貨幣 "wikilink") [Category:金融技術](https://zh.wikipedia.org/wiki/Category:金融技術 "wikilink") [Category:2013年软件](https://zh.wikipedia.org/wiki/Category:2013年软件 "wikilink") [Category:用Java編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用Java編程的自由軟體 "wikilink") [Category:密碼貨幣](https://zh.wikipedia.org/wiki/Category:密碼貨幣 "wikilink") [Category:使用过时图像语法的页面](https://zh.wikipedia.org/wiki/Category:使用过时图像语法的页面 "wikilink") [Category:有未审阅翻译的页面](https://zh.wikipedia.org/wiki/Category:有未审阅翻译的页面 "wikilink")
 
 1.
 2.

@@ -72,9 +72,7 @@
 
   -
   -
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:MBN](https://zh.wikipedia.org/wiki/Category:MBN "wikilink")
+[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:MBN](https://zh.wikipedia.org/wiki/Category:MBN "wikilink")
 
 1.
 2.

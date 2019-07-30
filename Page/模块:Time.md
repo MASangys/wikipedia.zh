@@ -1,14 +1,8 @@
-require ('Module:No globals') local getArgs = require
-('Module:Arguments').getArgs
+require ('Module:No globals') local getArgs = require ('Module:Arguments').getArgs
 
-local tz = {}; -- holds local copy of the specified timezone table from
-tz_data{} local cfg = {}; -- for internationalization
+local tz = {}; -- holds local copy of the specified timezone table from tz_data{} local cfg = {}; -- for internationalization
 
-\--[--------------------------\< I S _ S E T
-\>------------------------------------------------------------------
-Whether variable is set or not. A variable is set when it is not nil and
-not
-empty.](https://zh.wikipedia.org/wiki/--------------------------\<_I_S_S_E_T_\>------------------------------------------------------------------_Whether_variable_is_set_or_not._A_variable_is_set_when_it_is_not_nil_and_not_empty. "wikilink")
+\--[--------------------------\< I S _ S E T \>------------------------------------------------------------------ Whether variable is set or not. A variable is set when it is not nil and not empty.](https://zh.wikipedia.org/wiki/--------------------------\<_I_S_S_E_T_\>------------------------------------------------------------------_Whether_variable_is_set_or_not._A_variable_is_set_when_it_is_not_nil_and_not_empty. "wikilink")
 
 local function is_set( var )
 
@@ -16,10 +10,7 @@ local function is_set( var )
 
 end
 
-\--[--------------------------\< S U B S T I T U T E
-\>---------------------------------------------------------- Populates
-numbered arguments in a message string using an argument
-table.](https://zh.wikipedia.org/wiki/--------------------------\<_S_U_B_S_T_I_T_U_T_E_\>----------------------------------------------------------_Populates_numbered_arguments_in_a_message_string_using_an_argument_table. "wikilink")
+\--[--------------------------\< S U B S T I T U T E \>---------------------------------------------------------- Populates numbered arguments in a message string using an argument table.](https://zh.wikipedia.org/wiki/--------------------------\<_S_U_B_S_T_I_T_U_T_E_\>----------------------------------------------------------_Populates_numbered_arguments_in_a_message_string_using_an_argument_table. "wikilink")
 
 local function substitute (msg, args)
 
@@ -27,10 +18,7 @@ local function substitute (msg, args)
 
 end
 
-\--[--------------------------\< E R R O R _ M S G
-\>------------------------------------------------------------ create an
-error
-message](https://zh.wikipedia.org/wiki/--------------------------\<_E_R_R_O_R_M_S_G_\>------------------------------------------------------------_create_an_error_message "wikilink")
+\--[--------------------------\< E R R O R _ M S G \>------------------------------------------------------------ create an error message](https://zh.wikipedia.org/wiki/--------------------------\<_E_R_R_O_R_M_S_G_\>------------------------------------------------------------_create_an_error_message "wikilink")
 
 local function error_msg (msg, arg)
 
@@ -38,13 +26,7 @@ local function error_msg (msg, arg)
 
 end
 
-\--[--------------------------\< D E C O D E _ D S T _ E V E N T
-\>---------------------------------------------- extract ordinal,
-day-name, and month from daylight saving start/end definition string as
-digits: Second Sunday in March returns 2 0 3 Casing doesn't matter but
-the form of the string does: \<ordinal\> \<day\> \<any single word\>
-\<month\> – all are separated by
-spaces](https://zh.wikipedia.org/wiki/--------------------------\<_D_E_C_O_D_E_D_S_T_E_V_E_N_T_\>----------------------------------------------_extract_ordinal,_day-name,_and_month_from_daylight_saving_start/end_definition_string_as_digits:_Second_Sunday_in_March_returns_2_0_3_Casing_doesn't_matter_but_the_form_of_the_string_does:_\<ordinal\>_\<day\>_\<any_single_word\>_\<month\>_–_all_are_separated_by_spaces "wikilink")
+\--[--------------------------\< D E C O D E _ D S T _ E V E N T \>---------------------------------------------- extract ordinal, day-name, and month from daylight saving start/end definition string as digits: Second Sunday in March returns 2 0 3 Casing doesn't matter but the form of the string does: \<ordinal\> \<day\> \<any single word\> \<month\> – all are separated by spaces](https://zh.wikipedia.org/wiki/--------------------------\<_D_E_C_O_D_E_D_S_T_E_V_E_N_T_\>----------------------------------------------_extract_ordinal,_day-name,_and_month_from_daylight_saving_start/end_definition_string_as_digits:_Second_Sunday_in_March_returns_2_0_3_Casing_doesn't_matter_but_the_form_of_the_string_does:_\<ordinal\>_\<day\>_\<any_single_word\>_\<month\>_–_all_are_separated_by_spaces "wikilink")
 
 local function decode_dst_event (dst_event_string)
 
@@ -61,11 +43,7 @@ local function decode_dst_event (dst_event_string)
 
 end
 
-\--[--------------------------\< G E T _ D A Y S _ I N _ M O N T H
-\>-------------------------------------------- Returns the number of
-days in the month where month is a number 1–12 and year is four-digit
-Gregorian calendar. Accounts for leap
-year.](https://zh.wikipedia.org/wiki/--------------------------\<_G_E_T_D_A_Y_S_I_N_M_O_N_T_H_\>--------------------------------------------_Returns_the_number_of_days_in_the_month_where_month_is_a_number_1–12_and_year_is_four-digit_Gregorian_calendar._Accounts_for_leap_year. "wikilink")
+\--[--------------------------\< G E T _ D A Y S _ I N _ M O N T H \>-------------------------------------------- Returns the number of days in the month where month is a number 1–12 and year is four-digit Gregorian calendar. Accounts for leap year.](https://zh.wikipedia.org/wiki/--------------------------\<_G_E_T_D_A_Y_S_I_N_M_O_N_T_H_\>--------------------------------------------_Returns_the_number_of_days_in_the_month_where_month_is_a_number_1–12_and_year_is_four-digit_Gregorian_calendar._Accounts_for_leap_year. "wikilink")
 
 local function get_days_in_month (year, month)
 
@@ -83,14 +61,7 @@ local function get_days_in_month (year, month)
 
 end
 
-\--[--------------------------\< G E T _ D S T _ M O N T H _ D A Y
-\>-------------------------------------------- Return the date (month
-and day of the month) for the day that is the ordinal (nth) day-name in
-month (second Friday in June) of the current year timestamp is today's
-date-time number from os.time(); used to supply year timezone is the
-timezone parameter value from the template call Equations used in this
-function taken from
-Template:Weekday_in_month](https://zh.wikipedia.org/wiki/--------------------------\<_G_E_T_D_S_T_M_O_N_T_H_D_A_Y_\>--------------------------------------------_Return_the_date_\(month_and_day_of_the_month\)_for_the_day_that_is_the_ordinal_\(nth\)_day-name_in_month_\(second_Friday_in_June\)_of_the_current_year_timestamp_is_today's_date-time_number_from_os.time\(\);_used_to_supply_year_timezone_is_the_timezone_parameter_value_from_the_template_call_Equations_used_in_this_function_taken_from_Template:Weekday_in_month "wikilink")
+\--[--------------------------\< G E T _ D S T _ M O N T H _ D A Y \>-------------------------------------------- Return the date (month and day of the month) for the day that is the ordinal (nth) day-name in month (second Friday in June) of the current year timestamp is today's date-time number from os.time(); used to supply year timezone is the timezone parameter value from the template call Equations used in this function taken from Template:Weekday_in_month](https://zh.wikipedia.org/wiki/--------------------------\<_G_E_T_D_S_T_M_O_N_T_H_D_A_Y_\>--------------------------------------------_Return_the_date_\(month_and_day_of_the_month\)_for_the_day_that_is_the_ordinal_\(nth\)_day-name_in_month_\(second_Friday_in_June\)_of_the_current_year_timestamp_is_today's_date-time_number_from_os.time\(\);_used_to_supply_year_timezone_is_the_timezone_parameter_value_from_the_template_call_Equations_used_in_this_function_taken_from_Template:Weekday_in_month "wikilink")
 
 local function get_dst_month_day (timestamp, start)
 
@@ -123,11 +94,7 @@ local function get_dst_month_day (timestamp, start)
 
 end
 
-\--[--------------------------\< G E T _ U T C _ O F F S E T
-\>-------------------------------------------------- Get utc offset in
-hours and minutes, convert to seconds. If the offset can't be converted
-return nil. TODO: return error message? TODO: limit check this? +/-n
-hours?](https://zh.wikipedia.org/wiki/--------------------------\<_G_E_T_U_T_C_O_F_F_S_E_T_\>--------------------------------------------------_Get_utc_offset_in_hours_and_minutes,_convert_to_seconds._If_the_offset_can't_be_converted_return_nil._TODO:_return_error_message?_TODO:_limit_check_this?_+/-n_hours? "wikilink")
+\--[--------------------------\< G E T _ U T C _ O F F S E T \>-------------------------------------------------- Get utc offset in hours and minutes, convert to seconds. If the offset can't be converted return nil. TODO: return error message? TODO: limit check this? +/-n hours?](https://zh.wikipedia.org/wiki/--------------------------\<_G_E_T_U_T_C_O_F_F_S_E_T_\>--------------------------------------------------_Get_utc_offset_in_hours_and_minutes,_convert_to_seconds._If_the_offset_can't_be_converted_return_nil._TODO:_return_error_message?_TODO:_limit_check_this?_+/-n_hours? "wikilink")
 
 local function get_utc_offset ()
 
@@ -146,19 +113,7 @@ local function get_utc_offset ()
 
 end
 
-\--[--------------------------\< M A K E _ D S T _ T I M E S T A M P S
-\>---------------------------------------- Return UTC timestamps for the
-date/time of daylight saving time events (beginning and ending). These
-timestamps will be compared to current UTC time. A dst timestamp is the
-date/time in seconds UTC for the timezone at the hour of the dst event.
-For dst rules that specify local event times, the timestamp is the sum
-of: timestamp = current year + dst_month + dst_day + dst_time (all in
-seconds) local time Adjust local time to UTC by subtracting utc_offset:
-timestamp = timestamp - utc_offset (in seconds) For dst_end timestamp,
-subtract an hour for DST timestamp = timestamp - 3600 (in seconds) For
-dst rules that specify utc event time the process is the same except
-that utc offset is not
-subtracted.](https://zh.wikipedia.org/wiki/--------------------------\<_M_A_K_E_D_S_T_T_I_M_E_S_T_A_M_P_S_\>----------------------------------------_Return_UTC_timestamps_for_the_date/time_of_daylight_saving_time_events_\(beginning_and_ending\)._These_timestamps_will_be_compared_to_current_UTC_time._A_dst_timestamp_is_the_date/time_in_seconds_UTC_for_the_timezone_at_the_hour_of_the_dst_event._For_dst_rules_that_specify_local_event_times,_the_timestamp_is_the_sum_of:_timestamp_=_current_year_+_dst_month_+_dst_day_+_dst_time_\(all_in_seconds\)_local_time_Adjust_local_time_to_UTC_by_subtracting_utc_offset:_timestamp_=_timestamp_-_utc_offset_\(in_seconds\)_For_dst_end_timestamp,_subtract_an_hour_for_DST_timestamp_=_timestamp_-_3600_\(in_seconds\)_For_dst_rules_that_specify_utc_event_time_the_process_is_the_same_except_that_utc_offset_is_not_subtracted. "wikilink")
+\--[--------------------------\< M A K E _ D S T _ T I M E S T A M P S \>---------------------------------------- Return UTC timestamps for the date/time of daylight saving time events (beginning and ending). These timestamps will be compared to current UTC time. A dst timestamp is the date/time in seconds UTC for the timezone at the hour of the dst event. For dst rules that specify local event times, the timestamp is the sum of: timestamp = current year + dst_month + dst_day + dst_time (all in seconds) local time Adjust local time to UTC by subtracting utc_offset: timestamp = timestamp - utc_offset (in seconds) For dst_end timestamp, subtract an hour for DST timestamp = timestamp - 3600 (in seconds) For dst rules that specify utc event time the process is the same except that utc offset is not subtracted.](https://zh.wikipedia.org/wiki/--------------------------\<_M_A_K_E_D_S_T_T_I_M_E_S_T_A_M_P_S_\>----------------------------------------_Return_UTC_timestamps_for_the_date/time_of_daylight_saving_time_events_\(beginning_and_ending\)._These_timestamps_will_be_compared_to_current_UTC_time._A_dst_timestamp_is_the_date/time_in_seconds_UTC_for_the_timezone_at_the_hour_of_the_dst_event._For_dst_rules_that_specify_local_event_times,_the_timestamp_is_the_sum_of:_timestamp_=_current_year_+_dst_month_+_dst_day_+_dst_time_\(all_in_seconds\)_local_time_Adjust_local_time_to_UTC_by_subtracting_utc_offset:_timestamp_=_timestamp_-_utc_offset_\(in_seconds\)_For_dst_end_timestamp,_subtract_an_hour_for_DST_timestamp_=_timestamp_-_3600_\(in_seconds\)_For_dst_rules_that_specify_utc_event_time_the_process_is_the_same_except_that_utc_offset_is_not_subtracted. "wikilink")
 
 local function make_dst_timestamps (timestamp)
 
@@ -213,12 +168,7 @@ local function make_dst_timestamps (timestamp)
 
 end
 
-\--[--------------------------\< G E T _ T E S T _ T I M E
-\>---------------------------------------------------- decode ISO
-formatted date/time into a table suitable for os.time(). Fallback to
-{{Timestamp}} format. For testing, this time is UTC just as is returned
-by the os.time()
-function.](https://zh.wikipedia.org/wiki/--------------------------\<_G_E_T_T_E_S_T_T_I_M_E_\>----------------------------------------------------_decode_ISO_formatted_date/time_into_a_table_suitable_for_os.time\(\)._Fallback_to_{{Timestamp}}_format._For_testing,_this_time_is_UTC_just_as_is_returned_by_the_os.time\(\)_function. "wikilink")
+\--[--------------------------\< G E T _ T E S T _ T I M E \>---------------------------------------------------- decode ISO formatted date/time into a table suitable for os.time(). Fallback to {{Timestamp}} format. For testing, this time is UTC just as is returned by the os.time() function.](https://zh.wikipedia.org/wiki/--------------------------\<_G_E_T_T_E_S_T_T_I_M_E_\>----------------------------------------------------_decode_ISO_formatted_date/time_into_a_table_suitable_for_os.time\(\)._Fallback_to_{{Timestamp}}_format._For_testing,_this_time_is_UTC_just_as_is_returned_by_the_os.time\(\)_function. "wikilink")
 
 local function get_test_time (iso_date)
 
@@ -235,18 +185,7 @@ local function get_test_time (iso_date)
 
 end
 
-\--[----------------------\< G E T _ F U L L _ U T C _ O F F S E T
-\>----------------------------------------------- Creates a standard UTC
-offset from numerical inputs, for function time to convert to a table.
-Expected inputs shall have the form:
-\<sign\>\<hour\>\<separator\>\<portion\> where: \<sign\> – optional; one
-of the characters: '+', '-' (hyphen), '±', '−' (minus); defaults to '+'
-\<hour\> - one or two digits \<separator\> - one of the characters '.'
-or ':'; required when \<portion\> is included; ignored else \<portion\>
-- optional; one or two digits when \<separator\> is '.'; two digits else
-returns correct utc offset string when input has a correct form; else
-returns the unmodified
-input](https://zh.wikipedia.org/wiki/----------------------\<_G_E_T_F_U_L_L_U_T_C_O_F_F_S_E_T_\>-----------------------------------------------_Creates_a_standard_UTC_offset_from_numerical_inputs,_for_function_time_to_convert_to_a_table._Expected_inputs_shall_have_the_form:_\<sign\>\<hour\>\<separator\>\<portion\>_where:_\<sign\>_–_optional;_one_of_the_characters:_'+',_'-'_\(hyphen\),_'±',_'−'_\(minus\);_defaults_to_'+'_\<hour\>_-_one_or_two_digits_\<separator\>_-_one_of_the_characters_'.'_or_':';_required_when_\<portion\>_is_included;_ignored_else_\<portion\>_-_optional;_one_or_two_digits_when_\<separator\>_is_'.';_two_digits_else_returns_correct_utc_offset_string_when_input_has_a_correct_form;_else_returns_the_unmodified_input "wikilink")
+\--[----------------------\< G E T _ F U L L _ U T C _ O F F S E T \>----------------------------------------------- Creates a standard UTC offset from numerical inputs, for function time to convert to a table. Expected inputs shall have the form: \<sign\>\<hour\>\<separator\>\<portion\> where: \<sign\> – optional; one of the characters: '+', '-' (hyphen), '±', '−' (minus); defaults to '+' \<hour\> - one or two digits \<separator\> - one of the characters '.' or ':'; required when \<portion\> is included; ignored else \<portion\> - optional; one or two digits when \<separator\> is '.'; two digits else returns correct utc offset string when input has a correct form; else returns the unmodified input](https://zh.wikipedia.org/wiki/----------------------\<_G_E_T_F_U_L_L_U_T_C_O_F_F_S_E_T_\>-----------------------------------------------_Creates_a_standard_UTC_offset_from_numerical_inputs,_for_function_time_to_convert_to_a_table._Expected_inputs_shall_have_the_form:_\<sign\>\<hour\>\<separator\>\<portion\>_where:_\<sign\>_–_optional;_one_of_the_characters:_'+',_'-'_\(hyphen\),_'±',_'−'_\(minus\);_defaults_to_'+'_\<hour\>_-_one_or_two_digits_\<separator\>_-_one_of_the_characters_'.'_or_':';_required_when_\<portion\>_is_included;_ignored_else_\<portion\>_-_optional;_one_or_two_digits_when_\<separator\>_is_'.';_two_digits_else_returns_correct_utc_offset_string_when_input_has_a_correct_form;_else_returns_the_unmodified_input "wikilink")
 
 local function get_full_utc_offset (utc_offset)
 
@@ -277,10 +216,7 @@ local function get_full_utc_offset (utc_offset)
 
 end
 
-\--[--------------------------\< T A B L E _ L E N
-\>------------------------------------------------------------ return
-number of elements in
-table](https://zh.wikipedia.org/wiki/--------------------------\<_T_A_B_L_E_L_E_N_\>------------------------------------------------------------_return_number_of_elements_in_table "wikilink")
+\--[--------------------------\< T A B L E _ L E N \>------------------------------------------------------------ return number of elements in table](https://zh.wikipedia.org/wiki/--------------------------\<_T_A_B_L_E_L_E_N_\>------------------------------------------------------------_return_number_of_elements_in_table "wikilink")
 
 local function table_len (tbl)
 
@@ -292,12 +228,9 @@ local function table_len (tbl)
 
 end
 
-\--\[\[--------------------------\< F I R S T _ S E T
-\>------------------------------------------------------------
+\--\[\[--------------------------\< F I R S T _ S E T \>------------------------------------------------------------
 
-scans through a list of parameter names that are aliases of each other
-and returns the value assigned to the first args\[alias\] that has a set
-value; nil else. scan direction is right-to-left (top-to-bottom)
+scans through a list of parameter names that are aliases of each other and returns the value assigned to the first args\[alias\] that has a set value; nil else. scan direction is right-to-left (top-to-bottom)
 
 \]\]
 
@@ -315,11 +248,9 @@ local function first_set (list, args)
 
 end
 
-\--\[=\[-------------------------\< T I M E
-\>----------------------------------------------------------------------
+\--\[=\[-------------------------\< T I M E \>----------------------------------------------------------------------
 
-This template takes several parameters (some positonal, some not); none
-are required:
+This template takes several parameters (some positonal, some not); none are required:
 
 `   1. the time zone abbreviation/UTC offset (positional, always the first unnamed parameter)`
 `   2. a date format flag; second positional parameter or |df=; can have one of several values`
@@ -334,12 +265,9 @@ are required:
 
 TODO: convert _TEST_TIME_ to |time=?
 
-Timezone abbreviations can be found here:
-[List_of_time_zone_abbreviations](https://zh.wikipedia.org/wiki/List_of_time_zone_abbreviations "wikilink")
+Timezone abbreviations can be found here: [List_of_time_zone_abbreviations](https://zh.wikipedia.org/wiki/List_of_time_zone_abbreviations "wikilink")
 
-For custom date format parameters |df-cust=, |df-cust-a=, |df-cust-p=
-use codes described here:
-[:mw:Help:Extension:ParserFunctions\#\#time](https://zh.wikipedia.org/wiki/:mw:Help:Extension:ParserFunctions##time "wikilink")
+For custom date format parameters |df-cust=, |df-cust-a=, |df-cust-p= use codes described here: [:mw:Help:Extension:ParserFunctions\#\#time](https://zh.wikipedia.org/wiki/:mw:Help:Extension:ParserFunctions##time "wikilink")
 
 \]=\]
 
@@ -510,24 +438,17 @@ local function time (frame)
 `   `
 `   local refresh_link = (Hide_refresh and '') or`
 `       table.concat ({`
-`           ' `<span class="plainlinks" style="font-size:85%;">[`',``
- ``--``   ``open``   ``span``
- ``mw.title.getCurrentTitle():fullUrl({action``   ``=``
- ``'purge'}),``   ``--``   ``add``   ``the``   ``a``   ``refresh``
- ``link``   ``url``   ``'``
- ``刷新`](https://zh.wikipedia.org/wiki/',_--_open_span_mw.title.getCurrentTitle\(\):fullUrl\({action_=_'purge'}\),_--_add_the_a_refresh_link_url_'_刷新 "wikilink")</span>`',                                             -- close the span`
+`           ' `<span class="plainlinks" style="font-size:85%;">[`',``   ``--``   ``open``   ``span``   ``mw.title.getCurrentTitle():fullUrl({action``   ``=``   ``'purge'}),``   ``--``   ``add``   ``the``   ``a``   ``refresh``   ``link``   ``url``   ``'``   ``刷新`](https://zh.wikipedia.org/wiki/',_--_open_span_mw.title.getCurrentTitle\(\):fullUrl\({action_=_'purge'}\),_--_add_the_a_refresh_link_url_'_刷新 "wikilink")</span>`',                                             -- close the span`
 `           });`
 
 `   local tz_tag = (Hide_tz and '') or`
 `       ((Unlink_tz and table.concat ({' ', tz_abbr})) or                       -- unlinked`
-`           table.concat ({' `[`',``   ``tz_abbr,``
- ``'`](https://zh.wikipedia.org/wiki/',_tz.article,_' "wikilink")`'}));            -- linked`
+`           table.concat ({' `[`',``   ``tz_abbr,``   ``'`](https://zh.wikipedia.org/wiki/',_tz.article,_' "wikilink")`'}));            -- linked`
 `   `
 `   return table.concat ({time_string, tz_tag, refresh_link});`
 
 end
 
-\--[--------------------------\< E X P O R T E D F U N C T I O N S
-\>------------------------------------------](https://zh.wikipedia.org/wiki/--------------------------\<_E_X_P_O_R_T_E_D_F_U_N_C_T_I_O_N_S_\>------------------------------------------ "wikilink")
+\--[--------------------------\< E X P O R T E D F U N C T I O N S \>------------------------------------------](https://zh.wikipedia.org/wiki/--------------------------\<_E_X_P_O_R_T_E_D_F_U_N_C_T_I_O_N_S_\>------------------------------------------ "wikilink")
 
 return {time = time}

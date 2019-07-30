@@ -1,5 +1,4 @@
-**冬季国度的LOVELYZ 2**（又称：冬日之国的LOVELYZ
-2）（）（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[Lovelyz於](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")2018年舉辦的第三次單獨演唱會。
+**冬季国度的LOVELYZ 2**（又称：冬日之国的LOVELYZ 2）（）（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[Lovelyz於](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")2018年舉辦的第三次單獨演唱會。
 
 ## 概述
 
@@ -7,13 +6,9 @@
 
 ## 巡演事件
 
-首尔场：定于2月2日至4日于BLUE SQUARE三星卡厅举行《LOVELYZ CONCERT – 겨울나라의
-러블리즈2》\[9\]。演唱会门票分12月27日的FanClub预售（有加入其粉丝俱乐部的会员可优先购买门票）和12月29日的一般门票销售，共分2次进行贩售。12月29日，[Woollim娱乐表示](https://zh.wikipedia.org/wiki/Woollim娱乐 "wikilink")：《冬季國度的LOVELYZ
-2》演唱会所有门票于1分钟内售罄，更新了她们的记录\[10\]。2月4日，成员Kei在表演〈For
-you〉之后膝盖受伤，马上进行紧急治疗并服用了止痛剂，虽然建议去医院接受详细治疗，但Kei坚持继续演出。2月8日，[Woollim娱乐发文告表示](https://zh.wikipedia.org/wiki/Woollim娱乐 "wikilink")：演唱会结束后，Kei立即到医院接受治疗，经过诊断后她需养伤休息4个星期,而Kei透过经纪人表示接下来于日本举行的演唱会及迷你三辑的宣传活动虽然她受伤不能参与编舞，但她还是会与成员们一同参与，因为她希望能为日本的粉丝歌迷们唱歌\[11\]\[12\]。
+首尔场：定于2月2日至4日于BLUE SQUARE三星卡厅举行《LOVELYZ CONCERT – 겨울나라의 러블리즈2》\[9\]。演唱会门票分12月27日的FanClub预售（有加入其粉丝俱乐部的会员可优先购买门票）和12月29日的一般门票销售，共分2次进行贩售。12月29日，[Woollim娱乐表示](https://zh.wikipedia.org/wiki/Woollim娱乐 "wikilink")：《冬季國度的LOVELYZ 2》演唱会所有门票于1分钟内售罄，更新了她们的记录\[10\]。2月4日，成员Kei在表演〈For you〉之后膝盖受伤，马上进行紧急治疗并服用了止痛剂，虽然建议去医院接受详细治疗，但Kei坚持继续演出。2月8日，[Woollim娱乐发文告表示](https://zh.wikipedia.org/wiki/Woollim娱乐 "wikilink")：演唱会结束后，Kei立即到医院接受治疗，经过诊断后她需养伤休息4个星期,而Kei透过经纪人表示接下来于日本举行的演唱会及迷你三辑的宣传活动虽然她受伤不能参与编舞，但她还是会与成员们一同参与，因为她希望能为日本的粉丝歌迷们唱歌\[11\]\[12\]。
 
-日本场：定于2月10日和12日分别于东京豊洲PIT和大阪Zepp Osaka Bayside举行《LOVELYZ CONCERT IN
-JAPAN – LOVELYZ 2 OF WINTER WORLD》\[13\]。
+日本场：定于2月10日和12日分别于东京豊洲PIT和大阪Zepp Osaka Bayside举行《LOVELYZ CONCERT IN JAPAN – LOVELYZ 2 OF WINTER WORLD》\[13\]。
 
 ## 時間表
 
@@ -270,8 +265,7 @@ JAPAN – LOVELYZ 2 OF WINTER WORLD》\[13\]。
 
 <!-- end list -->
 
-  - [Lovelyz](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")（[Baby
-    Soul](https://zh.wikipedia.org/wiki/Baby_Soul "wikilink")、[智愛](../Page/劉智愛.md "wikilink")、[智秀](../Page/徐智秀.md "wikilink")、[美珠](../Page/李美珠.md "wikilink")、[Kei](../Page/Kei.md "wikilink")、[JIN](../Page/Jin_\(Lovelyz\).md "wikilink")、[洙正](https://zh.wikipedia.org/wiki/洙正 "wikilink")、[叡仁](../Page/鄭叡仁.md "wikilink")）
+  - [Lovelyz](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")（[Baby Soul](https://zh.wikipedia.org/wiki/Baby_Soul "wikilink")、[智愛](../Page/劉智愛.md "wikilink")、[智秀](../Page/徐智秀.md "wikilink")、[美珠](../Page/李美珠.md "wikilink")、[Kei](../Page/Kei.md "wikilink")、[JIN](../Page/Jin_\(Lovelyz\).md "wikilink")、[洙正](https://zh.wikipedia.org/wiki/洙正 "wikilink")、[叡仁](../Page/鄭叡仁.md "wikilink")）
 
 <!-- end list -->
 
@@ -279,8 +273,7 @@ JAPAN – LOVELYZ 2 OF WINTER WORLD》\[13\]。
 
 <!-- end list -->
 
-  - [Woollim
-    Entertainment](https://zh.wikipedia.org/wiki/Woollim_Entertainment "wikilink")
+  - [Woollim Entertainment](https://zh.wikipedia.org/wiki/Woollim_Entertainment "wikilink")
 
 <!-- end list -->
 
@@ -293,8 +286,7 @@ JAPAN – LOVELYZ 2 OF WINTER WORLD》\[13\]。
 
 ## 參考資料
 
-[Category:Lovelyz](https://zh.wikipedia.org/wiki/Category:Lovelyz "wikilink")
-[Category:韓國演唱會](https://zh.wikipedia.org/wiki/Category:韓國演唱會 "wikilink")
+[Category:Lovelyz](https://zh.wikipedia.org/wiki/Category:Lovelyz "wikilink") [Category:韓國演唱會](https://zh.wikipedia.org/wiki/Category:韓國演唱會 "wikilink")
 
 1.
 2.

@@ -1,4 +1,4 @@
-**2019年Oricon單曲下載週榜冠軍作品列表**列出2019年度曾經登上[Oricon公信榜單曲下載週榜冠軍的](../Page/Oricon公信榜.md "wikilink")[歌曲作品及其資料](../Page/歌曲.md "wikilink")。
+**2019年Oricon單曲下載週榜冠軍作品列表**列出2019年度曾經登上[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")單曲下載週榜冠軍的[歌曲](../Page/歌曲.md "wikilink")作品及其資料。
 
 ## 冠軍單曲列表
 
@@ -196,6 +196,34 @@
 <td><p>5.2</p></td>
 <td><p>[21]</p></td>
 </tr>
+<tr class="odd">
+<td><p>7月8日</p></td>
+<td><p>2.3</p></td>
+<td><p>[22]</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>7月15日</p></td>
+<td><p>找錯遊戲</p></td>
+<td><p>菅田將暉</p></td>
+<td><p>2.0</p></td>
+<td><p>[23]</p></td>
+</tr>
+<tr class="odd">
+<td><p>7月22日</p></td>
+<td></td>
+<td></td>
+<td><p>1.6</p></td>
+<td><p>[24]</p></td>
+</tr>
+<tr class="even">
+<td><p>7月29日</p></td>
+<td></td>
+<td><p><a href="../Page/RADWIMPS.md" title="wikilink">RADWIMPS</a></p></td>
+<td><p>5.4</p></td>
+<td><p>[25]</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -206,45 +234,30 @@
 
 ## 參考資料
 
-[Category:2019年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2019年Oricon單曲週榜冠軍作品 "wikilink")
-[Category:每年Oricon單曲週榜冠軍作品列表](https://zh.wikipedia.org/wiki/Category:每年Oricon單曲週榜冠軍作品列表 "wikilink")
-[Category:2019年音樂排行榜](https://zh.wikipedia.org/wiki/Category:2019年音樂排行榜 "wikilink")
+[Category:2019年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2019年Oricon單曲週榜冠軍作品 "wikilink") [Category:每年Oricon單曲週榜冠軍作品列表](https://zh.wikipedia.org/wiki/Category:每年Oricon單曲週榜冠軍作品列表 "wikilink") [Category:2019年音樂排行榜](https://zh.wikipedia.org/wiki/Category:2019年音樂排行榜 "wikilink")
 
-1.  [米津玄師「Lemon」が4週連続1位
-    歴代1位の「通算1位獲得週数」&「累積売上」自己更新](https://www.oricon.co.jp/news/2127987/full/)
-2.  [米津玄師「Lemon」が5週連続1位
-    歴代1位の「通算1位獲得週数」&「累積売上」自己更新](https://www.oricon.co.jp/news/2128421/full/)
-3.  [米津玄師&あいみょんが首位キープ、「マリーゴールド」は1000万ST超え
-    女性SSW・美波はデビュー作がデジタルAl1位に](https://www.oricon.co.jp/news/2128926/full/)
-4.  [米津玄師「Lemon」、配信開始から1年間連続TOP10入り
-    異例のロングセールス続く](https://www.oricon.co.jp/news/2129383/full/)
-5.  [「胸キュン」ドラマを支えるback
-    number、「はじこい」主題歌がデジタルSg首位](https://www.oricon.co.jp/news/2130375/full/)
+1.  [米津玄師「Lemon」が4週連続1位 歴代1位の「通算1位獲得週数」&「累積売上」自己更新](https://www.oricon.co.jp/news/2127987/full/)
+2.  [米津玄師「Lemon」が5週連続1位 歴代1位の「通算1位獲得週数」&「累積売上」自己更新](https://www.oricon.co.jp/news/2128421/full/)
+3.  [米津玄師&あいみょんが首位キープ、「マリーゴールド」は1000万ST超え 女性SSW・美波はデビュー作がデジタルAl1位に](https://www.oricon.co.jp/news/2128926/full/)
+4.  [米津玄師「Lemon」、配信開始から1年間連続TOP10入り 異例のロングセールス続く](https://www.oricon.co.jp/news/2129383/full/)
+5.  [「胸キュン」ドラマを支えるback number、「はじこい」主題歌がデジタルSg首位](https://www.oricon.co.jp/news/2130375/full/)
 6.  [『ヒプノシスマイク』シリーズ・麻天狼がデジタルアルバム1位](https://www.oricon.co.jp/news/2130932/)
-7.  [milet、デビュー作で初登場首位
-    歌声にティーンとドラマファンが反応【オリコンランキング】](https://www.oricon.co.jp/news/2131397/)
-8.  [milet、BUMP OF CHICKEN、デジタルSGで歴代記録更新
-    あいみょんの再生回数が2500万回突破【オリコンランキング】](https://www.oricon.co.jp/news/2131885/)
-9.  [『はじこい』back
-    number主題歌、ドラマ最終回で1位返り咲き【オリコンランキング】](https://www.oricon.co.jp/news/2132304/)
-10. [back number、音楽ランキング4冠
-    あいみょん、ワンオクと並びデジタルで圧倒的な存在感](https://www.oricon.co.jp/news/2132820/full/)
-11. [back number、音楽ランキング2週連続4冠
-    ドラマ主題歌で幅広い層に浸透【オリコンランキング】](https://www.oricon.co.jp/news/2133257/)
-12. [BTS(防弾少年団)のデジタルアルバムが首位
-    エド・シーランとのコラボ曲も収録【オリコンランキング】](https://www.oricon.co.jp/news/2133736/)
-13. [あいみょん、デジタルSG&ストリーミング同時1位
-    『しんちゃん』主題歌が好調【オリコンランキング】](https://www.oricon.co.jp/news/2134286/)
-14. [あいみょん「マリーゴールド」が18週連続首位
-    累積再生回数4000万回突破【オリコンランキング】](https://www.oricon.co.jp/news/2135024/)
-15. [MAN WITH A MISSION、自身初のデジタルシングル1位
-    月9ドラマ『ラジエーションハウス』主題歌【オリコンランキング】](https://www.oricon.co.jp/news/2135455/)
+7.  [milet、デビュー作で初登場首位 歌声にティーンとドラマファンが反応【オリコンランキング】](https://www.oricon.co.jp/news/2131397/)
+8.  [milet、BUMP OF CHICKEN、デジタルSGで歴代記録更新 あいみょんの再生回数が2500万回突破【オリコンランキング】](https://www.oricon.co.jp/news/2131885/)
+9.  [『はじこい』back number主題歌、ドラマ最終回で1位返り咲き【オリコンランキング】](https://www.oricon.co.jp/news/2132304/)
+10. [back number、音楽ランキング4冠 あいみょん、ワンオクと並びデジタルで圧倒的な存在感](https://www.oricon.co.jp/news/2132820/full/)
+11. [back number、音楽ランキング2週連続4冠 ドラマ主題歌で幅広い層に浸透【オリコンランキング】](https://www.oricon.co.jp/news/2133257/)
+12. [BTS(防弾少年団)のデジタルアルバムが首位 エド・シーランとのコラボ曲も収録【オリコンランキング】](https://www.oricon.co.jp/news/2133736/)
+13. [あいみょん、デジタルSG&ストリーミング同時1位 『しんちゃん』主題歌が好調【オリコンランキング】](https://www.oricon.co.jp/news/2134286/)
+14. [あいみょん「マリーゴールド」が18週連続首位 累積再生回数4000万回突破【オリコンランキング】](https://www.oricon.co.jp/news/2135024/)
+15. [MAN WITH A MISSION、自身初のデジタルシングル1位 月9ドラマ『ラジエーションハウス』主題歌【オリコンランキング】](https://www.oricon.co.jp/news/2135455/)
 16. [菅田将暉、米津玄師プロデュース曲で初のデジタル1位「自分の曲にすることが一生涯の務め」【オリコンランキング】](https://www.oricon.co.jp/news/2135950/full/)
-17. [乃木坂46、デジタルALが自身初の1位
-    シングルでは菅田将暉が2週連続首位【オリコンランキング】](https://www.oricon.co.jp/news/2136420/full/)
+17. [乃木坂46、デジタルALが自身初の1位 シングルでは菅田将暉が2週連続首位【オリコンランキング】](https://www.oricon.co.jp/news/2136420/full/)
 18. [6/10付週間デジタルシングル(単曲)ランキング1位は菅田将暉の「まちがいさがし」](https://www.oricon.co.jp/news/2136975/)
-19. [米津玄師、映画『海獣の子供』主題歌が1位
-    初週DL数は今年度最高【オリコンランキング】](https://www.oricon.co.jp/news/2137417/)
-20. [東方神起・ユンホ、デジタルALが1位
-    米津玄師がデジタルSGで2週連続1位【オリコンランキング】](https://www.oricon.co.jp/news/2137973/)
+19. [米津玄師、映画『海獣の子供』主題歌が1位 初週DL数は今年度最高【オリコンランキング】](https://www.oricon.co.jp/news/2137417/)
+20. [東方神起・ユンホ、デジタルALが1位 米津玄師がデジタルSGで2週連続1位【オリコンランキング】](https://www.oricon.co.jp/news/2137973/)
 21. [スピッツ『なつぞら』主題歌がデジタルシングル1位【オリコンランキング】](https://www.oricon.co.jp/news/2138518/full/)
+22. [安室奈美恵さんベスト盤、自身初デジタルAL1位 スピッツ朝ドラ主題歌2週連続SG1位【オリコンランキング】](https://www.oricon.co.jp/news/2139087/full/)
+23. [菅田将暉「まちがいさがし」が5週ぶり1位返り咲き 『あなたの番です』手塚翔太の劇中歌が2位【オリコンランキング】](https://www.oricon.co.jp/news/2139683/full/)
+24. [Official髭男dism、初のデジタルシングル1位 ストリーミング8週連続1位【オリコンランキング】](https://www.oricon.co.jp/news/2140269/full/)
+25. [RADWIMPS、デジタルシングル1位、2位独占 映画『天気の子』サントラも1位【オリコンランキング】](https://www.oricon.co.jp/news/2140797/full/)

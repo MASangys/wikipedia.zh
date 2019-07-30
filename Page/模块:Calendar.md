@@ -1,5 +1,4 @@
-\-- This module renders the calendar seen on [Portal:Current
-events](https://zh.wikipedia.org/wiki/Portal:Current_events "wikilink").
+\-- This module renders the calendar seen on [Portal:Current events](https://zh.wikipedia.org/wiki/Portal:Current_events "wikilink").
 
 local p = {}
 

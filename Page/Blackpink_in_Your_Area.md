@@ -1,22 +1,10 @@
-《**Blackpink in Your Area**》（風格化為**BLACKPINK IN YOUR
-AREA**）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[BLACKPINK的首張](../Page/BLACKPINK.md "wikilink")[日本正規專輯](../Page/日本.md "wikilink")，由所屬經紀公司[YG娛樂與日本唱片公司](../Page/YG娛樂.md "wikilink")[AVEX共同創立的公司](../Page/愛貝克思集團.md "wikilink")[YGEX製作發行](https://zh.wikipedia.org/wiki/YGEX "wikilink")，於2018年12月5日以13種不同版本發售。
+《**Blackpink in Your Area**》（風格化為**BLACKPINK IN YOUR AREA**）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[BLACKPINK](../Page/BLACKPINK.md "wikilink")的首張[日本](../Page/日本.md "wikilink")正規專輯，由所屬經紀公司[YG娛樂](../Page/YG娛樂.md "wikilink")與日本唱片公司[AVEX共同創立的公司](../Page/愛貝克思集團.md "wikilink")[YGEX製作發行](https://zh.wikipedia.org/wiki/YGEX "wikilink")，於2018年12月5日以13種不同版本發售。
 
 ## 背景
 
-BLACKPINK所屬的日本唱片公司[YGEX在](https://zh.wikipedia.org/wiki/YGEX "wikilink")2018年10月19日通過官方網站發布了BLACKPINK即將在12月5日發行團體在日本的第一張正規專輯《Blackpink
-in Your
-Area》的告示，曲目包含日語版的《[Boombayah](https://zh.wikipedia.org/wiki/Boombayah "wikilink")》、《[口哨](https://zh.wikipedia.org/wiki/口哨_\(BLACKPINK歌曲\) "wikilink")》、《[Playing
-with
-Fire](https://zh.wikipedia.org/wiki/Playing_with_Fire_\(BLACKPINK歌曲\) "wikilink")》、《[As
-If It's Your Last](../Page/As_If_It's_Your_Last.md "wikilink")》、《[Ddu-Du
-Ddu-Du](https://zh.wikipedia.org/wiki/Ddu-Du_Ddu-Du "wikilink")》等歌曲，還有作為「」的《》、《Really》以及《See
-U
-Later》三首同名日語再錄版歌曲也將首次收錄在BLACKPINK的日語專輯中，這也標誌著她們出道至今共發行的9首歌曲除了韓語外也全數重新錄製了日語版本\[1\]。
+BLACKPINK所屬的日本唱片公司[YGEX在](https://zh.wikipedia.org/wiki/YGEX "wikilink")2018年10月19日通過官方網站發布了BLACKPINK即將在12月5日發行團體在日本的第一張正規專輯《Blackpink in Your Area》的告示，曲目包含日語版的《[Boombayah](https://zh.wikipedia.org/wiki/Boombayah "wikilink")》、《[口哨](https://zh.wikipedia.org/wiki/口哨_\(BLACKPINK歌曲\) "wikilink")》、《[Playing with Fire](https://zh.wikipedia.org/wiki/Playing_with_Fire_\(BLACKPINK歌曲\) "wikilink")》、《[As If It's Your Last](../Page/As_If_It's_Your_Last.md "wikilink")》、《[Ddu-Du Ddu-Du](https://zh.wikipedia.org/wiki/Ddu-Du_Ddu-Du "wikilink")》等歌曲，還有作為「」的《》、《Really》以及《See U Later》三首同名日語再錄版歌曲也將首次收錄在BLACKPINK的日語專輯中，這也標誌著她們出道至今共發行的9首歌曲除了韓語外也全數重新錄製了日語版本\[1\]。
 
-隨後YGEX宣佈將於11月23日午夜0時通過各大數位音樂網站率先公開《Blackpink in Your
-Area》全專日語版本線上音源\[2\]，也通過BLACKPINK的日本官方網站公開實體專輯的封面、版本及配置細節，這張專輯會以2CD+DVD盤、CD+寫真盤、四名成員個人封面CD盤、PlayButton（徽章播放器）等，共發行13款版本，其中2CD+DVD盤、CD+寫真盤和PlayButton為初回生産限定盤，而所有版本均會收錄九首日語版歌曲，其中雙CD+DVD的版本，除了CD1包含上述歌曲的日文版之外，CD2則是收錄了9首韓語版本，DVD也有著6部[音樂錄影帶以及團體第一次的日本巡演](../Page/音樂錄影帶.md "wikilink")「[BLACKPINK
-Arena Tour
-2018](../Page/2018年BLACKPINK競技場巡迴演唱會.md "wikilink")」在2018年8月26日於[幕張展覽館的表演影像](../Page/幕張展覽館.md "wikilink")。CD+寫真盤則附贈一本A4規格共36頁的豪華寫真書\[3\]。
+隨後YGEX宣佈將於11月23日午夜0時通過各大數位音樂網站率先公開《Blackpink in Your Area》全專日語版本線上音源\[2\]，也通過BLACKPINK的日本官方網站公開實體專輯的封面、版本及配置細節，這張專輯會以2CD+DVD盤、CD+寫真盤、四名成員個人封面CD盤、PlayButton（徽章播放器）等，共發行13款版本，其中2CD+DVD盤、CD+寫真盤和PlayButton為初回生産限定盤，而所有版本均會收錄九首日語版歌曲，其中雙CD+DVD的版本，除了CD1包含上述歌曲的日文版之外，CD2則是收錄了9首韓語版本，DVD也有著6部[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")以及團體第一次的日本巡演「[BLACKPINK Arena Tour 2018](../Page/2018年BLACKPINK競技場巡迴演唱會.md "wikilink")」在2018年8月26日於[幕張展覽館](../Page/幕張展覽館.md "wikilink")的表演影像。CD+寫真盤則附贈一本A4規格共36頁的豪華寫真書\[3\]。
 
 2018年12月4日，實體專輯《Blackpink in Your Area》提前在日本的各大唱片賣場開始線下販售\[4\]。
 
@@ -24,7 +12,7 @@ Arena Tour
 
 此專輯共分為13種發行版本，分別為2CD+DVD版本、CD+寫真版本、各成員獨立封面CD版本、CD+DVD版本、CD版本、PlayButton（徽章播放器）的初回限定版本和演唱會紀念CD版本。
 
-  - 2CD+DVD+數位音源&影像（編號：AVCY-58783～4/B）：此版本為初回生産限定盤，設有豪華特別的[Box進行包裝](https://zh.wikipedia.org/wiki/盒子 "wikilink")，並附[QR碼及音樂用](../Page/QR碼.md "wikilink")[PIN碼可用於](https://zh.wikipedia.org/wiki/PIN碼 "wikilink")[智慧型手機收聽音樂及觀看影像](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，專輯內容物含兩片各收錄9首歌曲的CD和一片收錄於2018年8月26日在日本[幕張展覽館舉行](../Page/幕張展覽館.md "wikilink")[演唱會的現場實況](../Page/2018年BLACKPINK競技場巡迴演唱會.md "wikilink")、6部音樂錄影帶。
+  - 2CD+DVD+數位音源&影像（編號：AVCY-58783～4/B）：此版本為初回生産限定盤，設有豪華特別的[Box進行包裝](https://zh.wikipedia.org/wiki/盒子 "wikilink")，並附[QR碼](../Page/QR碼.md "wikilink")及音樂用[PIN碼可用於](https://zh.wikipedia.org/wiki/PIN碼 "wikilink")[智慧型手機收聽音樂及觀看影像](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，專輯內容物含兩片各收錄9首歌曲的CD和一片收錄於2018年8月26日在日本[幕張展覽館](../Page/幕張展覽館.md "wikilink")舉行[演唱會的現場實況](../Page/2018年BLACKPINK競技場巡迴演唱會.md "wikilink")、6部音樂錄影帶。
 
 <!-- end list -->
 
@@ -32,27 +20,23 @@ Arena Tour
 
 <!-- end list -->
 
-  - CD+數位音源
-    [Jennie版](../Page/Jennie_\(韓國歌手\).md "wikilink")（編號：AVCY-58786）：此版本附QR碼及音樂用PIN碼可用於智慧型手機收聽音樂，專輯內容物含一片收錄9首歌曲的CD。
+  - CD+數位音源 [Jennie版](../Page/Jennie_\(韓國歌手\).md "wikilink")（編號：AVCY-58786）：此版本附QR碼及音樂用PIN碼可用於智慧型手機收聽音樂，專輯內容物含一片收錄9首歌曲的CD。
 
 <!-- end list -->
 
-  - CD+數位音源
-    [Lisa版](../Page/Lisa_\(泰國歌手\).md "wikilink")（編號：AVCY-58787）：此版本附QR碼及音樂用PIN碼可用於智慧型手機收聽音樂，專輯內容物含一片收錄9首歌曲的CD。
+  - CD+數位音源 [Lisa版](../Page/Lisa_\(泰國歌手\).md "wikilink")（編號：AVCY-58787）：此版本附QR碼及音樂用PIN碼可用於智慧型手機收聽音樂，專輯內容物含一片收錄9首歌曲的CD。
 
 <!-- end list -->
 
-  - CD+數位音源
-    [Jisoo版](../Page/金智秀_\(歌手\).md "wikilink")（編號：AVCY-58788）：此版本附QR碼及音樂用PIN碼可用於智慧型手機收聽音樂，專輯內容物含一片收錄9首歌曲的CD。
+  - CD+數位音源 [Jisoo版](../Page/金智秀_\(歌手\).md "wikilink")（編號：AVCY-58788）：此版本附QR碼及音樂用PIN碼可用於智慧型手機收聽音樂，專輯內容物含一片收錄9首歌曲的CD。
 
 <!-- end list -->
 
-  - CD+數位音源
-    [Rosé版](../Page/Rosé_\(韓國歌手\).md "wikilink")（編號：AVCY-58789）：此版本附QR碼及音樂用PIN碼可用於智慧型手機收聽音樂，專輯內容物含一片收錄9首歌曲的CD。
+  - CD+數位音源 [Rosé版](../Page/Rosé_\(韓國歌手\).md "wikilink")（編號：AVCY-58789）：此版本附QR碼及音樂用PIN碼可用於智慧型手機收聽音樂，專輯內容物含一片收錄9首歌曲的CD。
 
 <!-- end list -->
 
-  - CD+DVD+數位音源&影像（編號：AVCY-58790/B）：此版本附[QR碼及音樂用](../Page/QR碼.md "wikilink")[PIN碼可用於](https://zh.wikipedia.org/wiki/PIN碼 "wikilink")[智慧型手機收聽音樂及觀看影像](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，專輯內容物含一片收錄9首歌曲的CD和一片收錄6部音樂錄影帶的DVD。
+  - CD+DVD+數位音源&影像（編號：AVCY-58790/B）：此版本附[QR碼](../Page/QR碼.md "wikilink")及音樂用[PIN碼可用於](https://zh.wikipedia.org/wiki/PIN碼 "wikilink")[智慧型手機收聽音樂及觀看影像](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，專輯內容物含一片收錄9首歌曲的CD和一片收錄6部音樂錄影帶的DVD。
 
 <!-- end list -->
 
@@ -60,31 +44,23 @@ Arena Tour
 
 <!-- end list -->
 
-  - PlayButton
-    Jennie版（編號：AVZY-58793）：此版本為初回生産限定盤，共收錄6首歌曲的徽章播放器，以PlayButton
-    MP3形式發售。
+  - PlayButton Jennie版（編號：AVZY-58793）：此版本為初回生産限定盤，共收錄6首歌曲的徽章播放器，以PlayButton MP3形式發售。
 
 <!-- end list -->
 
-  - PlayButton
-    Lisa版（編號：AVZY-58794）：此版本為初回生産限定盤，共收錄6首歌曲的徽章播放器，以PlayButton
-    MP3形式發售。
+  - PlayButton Lisa版（編號：AVZY-58794）：此版本為初回生産限定盤，共收錄6首歌曲的徽章播放器，以PlayButton MP3形式發售。
 
 <!-- end list -->
 
-  - PlayButton
-    Jisoo版（編號：AVZY-58795）：此版本為初回生産限定盤，共收錄6首歌曲的徽章播放器，以PlayButton
-    MP3形式發售。
+  - PlayButton Jisoo版（編號：AVZY-58795）：此版本為初回生産限定盤，共收錄6首歌曲的徽章播放器，以PlayButton MP3形式發售。
 
 <!-- end list -->
 
-  - PlayButton
-    Rosé版（編號：AVZY-58796）：此版本為初回生産限定盤，共收錄6首歌曲的徽章播放器，以PlayButton
-    MP3形式發售。
+  - PlayButton Rosé版（編號：AVZY-58796）：此版本為初回生産限定盤，共收錄6首歌曲的徽章播放器，以PlayButton MP3形式發售。
 
 <!-- end list -->
 
-  - CD+數位音源（編號：AVCY-58792）：此版本為[大阪巨蛋演唱會紀念盤](../Page/大阪巨蛋.md "wikilink")，附QR碼及音樂用PIN碼可用於智慧型手機收聽音樂，專輯內容物含一片收錄9首歌曲的CD。
+  - CD+數位音源（編號：AVCY-58792）：此版本為[大阪巨蛋](../Page/大阪巨蛋.md "wikilink")演唱會紀念盤，附QR碼及音樂用PIN碼可用於智慧型手機收聽音樂，專輯內容物含一片收錄9首歌曲的CD。
 
 ## 曲目
 
@@ -192,9 +168,7 @@ Arena Tour
 
   -
 
-[Category:BLACKPINK音樂專輯](https://zh.wikipedia.org/wiki/Category:BLACKPINK音樂專輯 "wikilink")
-[Category:2018年音樂專輯](https://zh.wikipedia.org/wiki/Category:2018年音樂專輯 "wikilink")
-[Category:愛貝克思音樂專輯](https://zh.wikipedia.org/wiki/Category:愛貝克思音樂專輯 "wikilink")
+[Category:BLACKPINK音樂專輯](https://zh.wikipedia.org/wiki/Category:BLACKPINK音樂專輯 "wikilink") [Category:2018年音樂專輯](https://zh.wikipedia.org/wiki/Category:2018年音樂專輯 "wikilink") [Category:愛貝克思音樂專輯](https://zh.wikipedia.org/wiki/Category:愛貝克思音樂專輯 "wikilink")
 
 1.
 2.

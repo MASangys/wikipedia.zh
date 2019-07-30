@@ -1,5 +1,4 @@
-《**Perfume**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS
-2TV於](https://zh.wikipedia.org/wiki/KBS_2TV "wikilink")2019年6月3日起播出的[月火連續劇](../Page/KBS月火連續劇.md "wikilink")，由《[懲毖錄](../Page/懲毖錄_\(電視劇\).md "wikilink")》、《[人偶之家](../Page/人偶之家.md "wikilink")》的金尚輝導演與新人作家崔賢玉合作打造。此劇講述把整個人生都奉獻給家人，但最後卻家破人亡、陷入絕望的中年女性，和想挑戰愛情卻沒有勇氣，一直畏畏縮縮的男人之間展開「人生第二次」愛情的故事。\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]
+《**Perfume**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS 2TV於](https://zh.wikipedia.org/wiki/KBS_2TV "wikilink")2019年6月3日起播出的[月火連續劇](../Page/KBS月火連續劇.md "wikilink")，由《[懲毖錄](../Page/懲毖錄_\(電視劇\).md "wikilink")》、《[人偶之家](../Page/人偶之家.md "wikilink")》的金尚輝導演與新人作家崔賢玉合作打造。此劇講述把整個人生都奉獻給家人，但最後卻家破人亡、陷入絕望的中年女性，和想挑戰愛情卻沒有勇氣，一直畏畏縮縮的男人之間展開「人生第二次」愛情的故事。\[1\]\[2\]\[3\]\[4\]\[5\]\[6\] 香港由[myTV SUPER緊貼韓國點播](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")。
 
 ## 演員陣容
 
@@ -20,7 +19,7 @@
 <tr class="even">
 <td><p><a href="../Page/申成祿.md" title="wikilink">申成祿</a></p></td>
 <td><p>徐伊道</p></td>
-<td><p>極具審美眼光的韓國頂尖的設計師，外表看似完美、擁有一切的他，其實被周圍的人視為擁有「性格障礙」，更有「關種」的感覺。異常敏感的他，有著52件事物恐懼症和35種過敏症。</p></td>
+<td><p>極具審美眼光的韓國頂尖的設計師，外表看似完美、擁有一切的他，其實被周圍的人視為擁有「性格障礙」，更有「關種」的感覺。異常敏感的他，有著52件事物恐懼症和35種過敏症；是尹民錫同母異父的哥哥。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/河在淑.md" title="wikilink">河在淑</a><br />
@@ -37,7 +36,7 @@
 <tr class="odd">
 <td><p><a href="../Page/金旻奎.md" title="wikilink">金旻奎</a></p></td>
 <td><p>尹民錫</p></td>
-<td><p>擁有修長的身材、雕塑般的外貌、甜美的聲音，從天生的偶像明星成長爲國際明星。</p></td>
+<td><p>是徐伊道同母異父的弟弟。擁有修長的身材、雕塑般的外貌、甜美的聲音，從天生的偶像明星成長爲國際明星；喜歡著韓智娜。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/車藝蓮.md" title="wikilink">車藝蓮</a></p></td>
@@ -164,6 +163,10 @@
 
   - Part.8（發行日期：2019年7月1日）
 
+<!-- end list -->
+
+  - Part.9（發行日期：2019年7月2日）
+
 ## 收視率
 
 <table>
@@ -281,98 +284,98 @@
 <tr class="even">
 <td><p>17</p></td>
 <td><p>2019/07/01</p></td>
-<td></td>
+<td><p>4.0%</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>18</p></td>
 <td><p>5.0%</p></td>
 <td><p>5.3%</p></td>
-<td><p>%</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>19</p></td>
 <td><p>2019/07/02</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>4.4%</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>20</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>5.2%</p></td>
+<td><p>5.3%</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>21</p></td>
 <td><p>2019/07/08</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>4.2%</p></td>
+<td><p>rowspan=6 </p></td>
 </tr>
 <tr class="odd">
 <td><p>22</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>4.7%</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>23</p></td>
 <td><p>2019/07/09</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>4.3%</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>24</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>4.9%</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>25</p></td>
 <td><p>2019/07/15</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td></td>
+<td><p>3.3%</p></td>
 </tr>
 <tr class="odd">
 <td><p>26</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>4.7%</p></td>
+<td><p>3.4%</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>27</p></td>
 <td><p>2019/07/16</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>4.7%</p></td>
+<td><p>4.9%</p></td>
 </tr>
 <tr class="odd">
 <td><p>28</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>5.3%</p></td>
+<td><p>5.8%</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>29</p></td>
 <td><p>2019/07/22</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>4.4%</p></td>
+<td><p>rowspan=2 </p></td>
 </tr>
 <tr class="odd">
 <td><p>30</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>5.2%</p></td>
+<td><p>4.6%</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>31</p></td>
 <td><p>2019/07/23</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>4.6%</p></td>
+<td><p>4.7%</p></td>
 </tr>
 <tr class="odd">
 <td><p>32</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>5.9%</p></td>
+<td><p>6.3%</p></td>
+<td><p>5.2%</p></td>
 </tr>
 <tr class="even">
 <td><p>平均收視率</p></td>
@@ -391,30 +394,22 @@
 
 ### 同時段競爭作品
 
-  - [SBS](../Page/SBS_\(韓國\).md "wikilink")
-    [月火連續劇](../Page/SBS月火連續劇.md "wikilink")：《[初次見面我愛你](../Page/初次見面我愛你_\(韓國電視劇\).md "wikilink")》
-  - [tvN](../Page/TVN.md "wikilink")
-    [月火連續劇](../Page/TvN月火連續劇.md "wikilink")：《[Abyss](../Page/Abyss.md "wikilink")》、《[60天，指定倖存者](../Page/60天，指定倖存者.md "wikilink")》
-  - [JTBC](../Page/JTBC.md "wikilink")
-    [月火連續劇](../Page/JTBC月火連續劇.md "wikilink")：《[風在吹](https://zh.wikipedia.org/wiki/風在吹_\(電視劇\) "wikilink")》
+  - [SBS](../Page/SBS_\(韓國\).md "wikilink") [月火連續劇](../Page/SBS月火連續劇.md "wikilink")：《[初次見面我愛你](../Page/初次見面我愛你_\(韓國電視劇\).md "wikilink")》
+  - [tvN](../Page/TVN.md "wikilink") [月火連續劇](../Page/TvN月火連續劇.md "wikilink")：《[Abyss](../Page/Abyss.md "wikilink")》、《[60天，指定倖存者](../Page/60天，指定倖存者.md "wikilink")》
+  - [JTBC](../Page/JTBC.md "wikilink") [月火連續劇](../Page/JTBC月火連續劇.md "wikilink")：《[風在吹](https://zh.wikipedia.org/wiki/風在吹_\(電視劇\) "wikilink")》、《[18歲的瞬間](https://zh.wikipedia.org/wiki/18歲的瞬間 "wikilink")》
 
 ### 同一劇集時段作品
 
-  - [MBC](../Page/文化廣播公司.md "wikilink")
-    [月火連續劇](../Page/MBC月火連續劇.md "wikilink")：《[檢法男女2](../Page/檢法男女2.md "wikilink")》
+  - [MBC](../Page/文化廣播公司.md "wikilink") [月火連續劇](../Page/MBC月火連續劇.md "wikilink")：《[檢法男女2](../Page/檢法男女2.md "wikilink")》
 
 ## 參考資料
 
 ## 外部連結
 
   - [韓國KBS官方網站](http://program.kbs.co.kr/2tv/drama/perfume/)
-  - [Perfume](https://m.entertain.naver.com/tvBrand/9591019)
-    [NAVER](../Page/NAVER.md "wikilink")
+  - [Perfume](https://m.entertain.naver.com/tvBrand/9591019) [NAVER](../Page/NAVER.md "wikilink")
 
-[Category:2019年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2019年韓國電視劇集 "wikilink")
-[Category:奇幻愛情電視劇](https://zh.wikipedia.org/wiki/Category:奇幻愛情電視劇 "wikilink")
-[Category:浪漫喜劇題材電視劇](https://zh.wikipedia.org/wiki/Category:浪漫喜劇題材電視劇 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
+[Category:2019年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2019年韓國電視劇集 "wikilink") [Category:奇幻愛情電視劇](https://zh.wikipedia.org/wiki/Category:奇幻愛情電視劇 "wikilink") [Category:浪漫喜劇題材電視劇](https://zh.wikipedia.org/wiki/Category:浪漫喜劇題材電視劇 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
 
 1.
 2.

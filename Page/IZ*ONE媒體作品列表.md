@@ -1,4 +1,4 @@
-**IZ\*ONE媒體作品列表**主要列舉[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[IZ\*ONE以团体身份參與的各類媒體作品](../Page/IZ*ONE.md "wikilink")。
+**IZ\*ONE媒體作品列表**主要列舉[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[IZ\*ONE](../Page/IZ*ONE.md "wikilink")以团体身份參與的各類媒體作品。
 
 ## 影視作品
 
@@ -320,6 +320,22 @@
 <td><p>5月4日</p></td>
 <td><p>JTBC</p></td>
 <td><p>《<a href="../Page/認識的哥哥.md" title="wikilink">認識的哥哥</a>》</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>7月19日</p></td>
+<td><p>Mnet</p></td>
+<td><p>《PRODUCE X 101》</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>日本电视台</p></td>
+<td><p>《BUZZ RHYTHM 02》</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>

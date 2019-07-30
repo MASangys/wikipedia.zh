@@ -1,5 +1,4 @@
-**Sony α7
-II**（型号**ILCE-7M2**，简称**A7II**）是[索尼公司于](https://zh.wikipedia.org/wiki/索尼公司 "wikilink")2014年11月20日发布的[全画幅](../Page/全画幅.md "wikilink")[无反光镜可换镜头相机](../Page/無反光鏡可換鏡頭相機.md "wikilink")。
+**Sony α7 II**（型号**ILCE-7M2**，简称**A7II**）是[索尼公司于](https://zh.wikipedia.org/wiki/索尼公司 "wikilink")2014年11月20日发布的[全画幅](../Page/全画幅.md "wikilink")[无反光镜可换镜头相机](../Page/無反光鏡可換鏡頭相機.md "wikilink")。
 
 ## 型号差异
 
@@ -366,8 +365,7 @@ non-native lenses</p></td>
 [Category:2015年面世的相機](https://zh.wikipedia.org/wiki/Category:2015年面世的相機 "wikilink")
 
 1.
-2.
-    Fstoppers|url=[https://fstoppers.com/originals/first-impressions-new-sony-a7sii-93068|website=Fstoppers|access-date=2016-01-19](https://fstoppers.com/originals/first-impressions-new-sony-a7sii-93068%7Cwebsite=Fstoppers%7Caccess-date=2016-01-19)}}
+2.   Fstoppers|url=[https://fstoppers.com/originals/first-impressions-new-sony-a7sii-93068|website=Fstoppers|access-date=2016-01-19](https://fstoppers.com/originals/first-impressions-new-sony-a7sii-93068%7Cwebsite=Fstoppers%7Caccess-date=2016-01-19)}}
 3.
 4.  <http://www.imaging-resource.com/PRODS/sony-a7s-ii/sony-a7s-iiA.HTM>
 5.

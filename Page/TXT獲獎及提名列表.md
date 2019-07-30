@@ -1,7 +1,4 @@
-《**TXT獲獎及提名列表**》主要説明了[Big
-Hit娛樂的旗下](../Page/Big_Hit娛樂.md "wikilink")[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂團體](https://zh.wikipedia.org/wiki/男子音樂團體 "wikilink")[TOMORROW
-X
-TOGETHER由](../Page/TXT_\(組合\).md "wikilink")2019年出道至今，於各頒獎典禮、音樂節目的獲獎與提名。
+《**TXT獲獎及提名列表**》主要説明了[Big Hit娛樂的旗下](../Page/Big_Hit娛樂.md "wikilink")[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂團體](https://zh.wikipedia.org/wiki/男子音樂團體 "wikilink")[TOMORROW X TOGETHER由](../Page/TXT_\(組合\).md "wikilink")2019年出道至今，於各頒獎典禮、音樂節目的獲獎與提名。
 
 ## 音樂節目獎項
 
@@ -64,8 +61,7 @@ TOGETHER由](../Page/TXT_\(組合\).md "wikilink")2019年出道至今，於各�
 
 ## 參考資料
 
-[Category:TXT](https://zh.wikipedia.org/wiki/Category:TXT "wikilink")
-[Category:韓語流行音樂家獲獎列表](https://zh.wikipedia.org/wiki/Category:韓語流行音樂家獲獎列表 "wikilink")
+[Category:TXT](https://zh.wikipedia.org/wiki/Category:TXT "wikilink") [Category:韓語流行音樂家獲獎列表](https://zh.wikipedia.org/wiki/Category:韓語流行音樂家獲獎列表 "wikilink")
 
 1.
 2.

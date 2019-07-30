@@ -68,8 +68,6 @@
 <!-- end list -->
 
   -
-[Category:華語流行音樂團體](https://zh.wikipedia.org/wiki/Category:華語流行音樂團體 "wikilink")
-[Category:2018年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2018年成立的音樂團體 "wikilink")
-[Category:臺灣男子演唱團體](https://zh.wikipedia.org/wiki/Category:臺灣男子演唱團體 "wikilink")
+[Category:華語流行音樂團體](https://zh.wikipedia.org/wiki/Category:華語流行音樂團體 "wikilink") [Category:2018年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2018年成立的音樂團體 "wikilink") [Category:臺灣男子演唱團體](https://zh.wikipedia.org/wiki/Category:臺灣男子演唱團體 "wikilink")
 
 1.  [獨家／最慘台灣男團「當兵就拆夥」　TOP1正式解散](https://star.ettoday.net/news/1241648)

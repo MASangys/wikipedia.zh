@@ -1,36 +1,12 @@
-[替代= 塔林
-迅速扩大的Tornimäe商务地区](https://zh.wikipedia.org/wiki/File:Tallinn-Tornimae.jpg "fig:替代= 塔林 迅速扩大的Tornimäe商务地区")
-迅速扩大的Tornimäe商业区\]\]
-**波罗的海之虎**是一个用于指[经济繁荣时期的三个](../Page/景氣循環.md "wikilink")[波罗的海国家](../Page/波罗的海国家.md "wikilink"):
-[爱沙尼亚](../Page/爱沙尼亚.md "wikilink"),
-[拉脱维亚和](../Page/拉脫維亞.md "wikilink")[立陶宛的术语](https://zh.wikipedia.org/wiki/立陶宛 "wikilink")
-, 这些[经济繁荣始于](../Page/景氣循環.md "wikilink")2000年之后，一直持续到2006 -
-2007年。该术语以[亚洲四小龙](https://zh.wikipedia.org/wiki/亚洲四小龙 "wikilink")
-，塔特拉之虎和[凯尔特之虎为蓝本](https://zh.wikipedia.org/wiki/凯尔特之虎 "wikilink")，分别用于描述[亚洲部分地区](../Page/亚洲.md "wikilink")
-,
-[斯洛伐克和](../Page/斯洛伐克.md "wikilink")[爱尔兰的经济繁荣时期](../Page/爱尔兰.md "wikilink")。
+[替代= 塔林 迅速扩大的Tornimäe商务地区](https://zh.wikipedia.org/wiki/File:Tallinn-Tornimae.jpg "fig:替代= 塔林 迅速扩大的Tornimäe商务地区") 迅速扩大的Tornimäe商业区\]\] **波罗的海之虎**是一个用于指[经济繁荣时期的三个](../Page/景氣循環.md "wikilink")[波罗的海国家](../Page/波罗的海国家.md "wikilink"): [爱沙尼亚](../Page/爱沙尼亚.md "wikilink"), [拉脱维亚和](../Page/拉脫維亞.md "wikilink")[立陶宛的术语](https://zh.wikipedia.org/wiki/立陶宛 "wikilink") , 这些[经济繁荣始于](../Page/景氣循環.md "wikilink")2000年之后，一直持续到2006 - 2007年。该术语以[亚洲四小龙](https://zh.wikipedia.org/wiki/亚洲四小龙 "wikilink") ，塔特拉之虎和[凯尔特之虎为蓝本](https://zh.wikipedia.org/wiki/凯尔特之虎 "wikilink")，分别用于描述[亚洲](../Page/亚洲.md "wikilink")部分地区 , [斯洛伐克](../Page/斯洛伐克.md "wikilink")和[爱尔兰](../Page/爱尔兰.md "wikilink")的经济繁荣时期。
 
 ## 概述
 
-2000年以后，波罗的海之虎经济体实现了重要的经济改革和自由化，再加上与其相当低工资和熟练劳动力，吸引了大量外国投资和经济增长。
-2000年至2007年间，波罗的海之虎国家的经济增长率在 [欧洲是最高的的](../Page/欧洲.md "wikilink")。
-例如在2006年, [爱沙尼亚的](../Page/爱沙尼亚.md "wikilink")
-[国内生产总值增长了](../Page/国内生产总值.md "wikilink")10.3％，而拉脱维亚增长率为11.9%，立陶宛则7.5%以上。
-三个国家在2006年2月的失业率均低于欧盟平均值. 此外，爱沙尼亚是世界上最自由的十个经济体之一
-并且在2006年由世界银行归类为中上收入经济体到高收入经济体。三个国家都在2004年5月加入了
-[欧洲联盟](../Page/欧洲联盟.md "wikilink") . 爱沙尼亚于2011年开始流通
-[欧元](../Page/欧元.md "wikilink") ，拉脱维亚则在2014年以及立陶宛在2015年加入
-[欧元区](../Page/欧元区.md "wikilink")。
+2000年以后，波罗的海之虎经济体实现了重要的经济改革和自由化，再加上与其相当低工资和熟练劳动力，吸引了大量外国投资和经济增长。 2000年至2007年间，波罗的海之虎国家的经济增长率在 [欧洲](../Page/欧洲.md "wikilink")是最高的的。 例如在2006年, [爱沙尼亚](../Page/爱沙尼亚.md "wikilink")的 [国内生产总值](../Page/国内生产总值.md "wikilink")增长了10.3％，而拉脱维亚增长率为11.9%，立陶宛则7.5%以上。 三个国家在2006年2月的失业率均低于欧盟平均值. 此外，爱沙尼亚是世界上最自由的十个经济体之一 并且在2006年由世界银行归类为中上收入经济体到高收入经济体。三个国家都在2004年5月加入了 [欧洲联盟](../Page/欧洲联盟.md "wikilink") . 爱沙尼亚于2011年开始流通 [欧元](../Page/欧元.md "wikilink") ，拉脱维亚则在2014年以及立陶宛在2015年加入 [欧元区](../Page/欧元区.md "wikilink")。
 
-在2008年，
-[全球金融危机引发了波罗的海国家房地产市场的崩溃](../Page/2007年–2008年環球金融危機.md "wikilink")，导致欧洲一些更为严重的衰退。
-2008年，拉脱维亚的国内生产总值下降了-4.6％，爱沙尼亚的下降了-3.6％，而立陶宛则下降到3.0％。
-随着危机席卷东欧和中欧，经济下行加剧：
-[爱沙尼亚同比下降](../Page/爱沙尼亚.md "wikilink")-16.2％，拉脱维亚下降-19.6％，立陶宛下降-16.8％。
-\[1\] 到2009年年中，这三个国家都经历了世界上最严重的经济衰退之一。 \[2\]
+在2008年， [全球金融危机引发了波罗的海国家房地产市场的崩溃](../Page/2007年–2008年環球金融危機.md "wikilink")，导致欧洲一些更为严重的衰退。 2008年，拉脱维亚的国内生产总值下降了-4.6％，爱沙尼亚的下降了-3.6％，而立陶宛则下降到3.0％。 随着危机席卷东欧和中欧，经济下行加剧： [爱沙尼亚](../Page/爱沙尼亚.md "wikilink")同比下降-16.2％，拉脱维亚下降-19.6％，立陶宛下降-16.8％。 \[1\] 到2009年年中，这三个国家都经历了世界上最严重的经济衰退之一。 \[2\]
 
-在2010年，波罗的海国家的经济形势趋于稳定并且在2011年,波罗的海国家由于公民的移居外国而失去大部分人口后，经历了欧盟最快的复苏,尤其是立陶宛。
-2011年，爱沙尼亚的国内生产总值增长了8.3％，立陶宛增长了5.9％，拉脱维亚的国内生产总值增长了5.5％。 \[3\]
+在2010年，波罗的海国家的经济形势趋于稳定并且在2011年,波罗的海国家由于公民的移居外国而失去大部分人口后，经历了欧盟最快的复苏,尤其是立陶宛。 2011年，爱沙尼亚的国内生产总值增长了8.3％，立陶宛增长了5.9％，拉脱维亚的国内生产总值增长了5.5％。 \[3\]
 
 |                                                                                                                | 2004 | 2005  | 2006  | 2007  | 2008   | 2009    | 2010   | 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2017 |
 | -------------------------------------------------------------------------------------------------------------- | ---- | ----- | ----- | ----- | ------ | ------- | ------ | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
@@ -41,9 +17,7 @@
 
 ### 人均国内生产总值
 
-按[国际汇率计算](https://zh.wikipedia.org/wiki/國際元 "wikilink") 的
-[购买力平价](../Page/购买力平价.md "wikilink")（PPP):
-括号中的数字表示各国家人均GDP占[欧元区平均值的百分比](../Page/欧元区.md "wikilink")（也以购买力平价衡量）。
+按[国际汇率计算](https://zh.wikipedia.org/wiki/國際元 "wikilink") 的 [购买力平价](../Page/购买力平价.md "wikilink")（PPP): 括号中的数字表示各国家人均GDP占[欧元区](../Page/欧元区.md "wikilink")平均值的百分比（也以购买力平价衡量）。
 
 <table>
 <thead>
@@ -347,13 +321,7 @@
 
 </references>
 
-[Category:波罗的海国家](https://zh.wikipedia.org/wiki/Category:波罗的海国家 "wikilink")
-[Category:立陶宛经济史](https://zh.wikipedia.org/wiki/Category:立陶宛经济史 "wikilink")
-[Category:欧洲经济史](https://zh.wikipedia.org/wiki/Category:欧洲经济史 "wikilink")
-[Category:拉脱维亚经济史](https://zh.wikipedia.org/wiki/Category:拉脱维亚经济史 "wikilink")
-[Category:爱沙尼亚经济史](https://zh.wikipedia.org/wiki/Category:爱沙尼亚经济史 "wikilink")
-[Category:经济繁荣](https://zh.wikipedia.org/wiki/Category:经济繁荣 "wikilink")
-[Category:有未审阅翻译的页面](https://zh.wikipedia.org/wiki/Category:有未审阅翻译的页面 "wikilink")
+[Category:波罗的海国家](https://zh.wikipedia.org/wiki/Category:波罗的海国家 "wikilink") [Category:立陶宛经济史](https://zh.wikipedia.org/wiki/Category:立陶宛经济史 "wikilink") [Category:欧洲经济史](https://zh.wikipedia.org/wiki/Category:欧洲经济史 "wikilink") [Category:拉脱维亚经济史](https://zh.wikipedia.org/wiki/Category:拉脱维亚经济史 "wikilink") [Category:爱沙尼亚经济史](https://zh.wikipedia.org/wiki/Category:爱沙尼亚经济史 "wikilink") [Category:经济繁荣](https://zh.wikipedia.org/wiki/Category:经济繁荣 "wikilink") [Category:有未审阅翻译的页面](https://zh.wikipedia.org/wiki/Category:有未审阅翻译的页面 "wikilink")
 
 1.
 2.
