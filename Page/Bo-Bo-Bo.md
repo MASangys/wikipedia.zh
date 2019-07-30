@@ -59,5 +59,4 @@
   - [Bo-Bo](https://zh.wikipedia.org/wiki/Bo-Bo "wikilink")
   - [Co-Co](https://zh.wikipedia.org/wiki/Co-Co "wikilink")
 
-[Category:機車軸式](https://zh.wikipedia.org/wiki/Category:機車軸式 "wikilink")
-[Category:Bo-Bo-Bo軸式機車](https://zh.wikipedia.org/wiki/Category:Bo-Bo-Bo軸式機車 "wikilink")
+[Category:機車軸式](https://zh.wikipedia.org/wiki/Category:機車軸式 "wikilink") [Category:Bo-Bo-Bo軸式機車](https://zh.wikipedia.org/wiki/Category:Bo-Bo-Bo軸式機車 "wikilink")

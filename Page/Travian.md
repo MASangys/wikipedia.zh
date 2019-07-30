@@ -10,9 +10,7 @@
 
 《Travian》最先只有德語版，之後接著推出[荷蘭語](../Page/荷蘭語.md "wikilink")、[法語版](https://zh.wikipedia.org/wiki/法語 "wikilink")。2005年開設英文版，之後因為遊戲人數過多而增設伺服器，共增設了八個各自獨立的伺服器。2006年中國大陸（簡體中文）版和香港（繁體中文）版開設，之後又有不同語言的版本出現。台灣（繁體中文）亦於2006年一度開設但之後關閉，最終於2007年10月再次開設。
 
-《Travian》的開發團隊於2009年初表示正在開發新的遊戲版本「Travian
-4」，但由於程式複雜的問題而改為先更新至3.5版本。\[1\]目前最新正式版本《Travian
-4》的遊戲編制已經更新完成，並同時在所有新開放的伺服器運行，新版本中加入了英雄、首都的無限資源擴建、陷阱等元素。
+《Travian》的開發團隊於2009年初表示正在開發新的遊戲版本「Travian 4」，但由於程式複雜的問題而改為先更新至3.5版本。\[1\]目前最新正式版本《Travian 4》的遊戲編制已經更新完成，並同時在所有新開放的伺服器運行，新版本中加入了英雄、首都的無限資源擴建、陷阱等元素。
 
 ## 參考資料
 
@@ -23,8 +21,6 @@
   - [Travian.hk - 香港官方網頁](http://travian.hk)
   - [- 台灣官方網頁](http://travian.tw)
 
-[Category:網頁遊戲](https://zh.wikipedia.org/wiki/Category:網頁遊戲 "wikilink")
-[Category:免費遊戲](https://zh.wikipedia.org/wiki/Category:免費遊戲 "wikilink")
-[Category:大型多人線上即時戰略遊戲](https://zh.wikipedia.org/wiki/Category:大型多人線上即時戰略遊戲 "wikilink")
+[Category:網頁遊戲](https://zh.wikipedia.org/wiki/Category:網頁遊戲 "wikilink") [Category:免費遊戲](https://zh.wikipedia.org/wiki/Category:免費遊戲 "wikilink") [Category:大型多人線上即時戰略遊戲](https://zh.wikipedia.org/wiki/Category:大型多人線上即時戰略遊戲 "wikilink")
 
 1.

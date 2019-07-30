@@ -1,8 +1,6 @@
-**Skytrax**是一家以[英國為基地的顧問公司](https://zh.wikipedia.org/wiki/英國 "wikilink")，是Inflight
-Research Services的附屬公司，
-大部份股權則由利氏家族擁有\[1\]，其主要業務是為[航空公司的服務進行意見調查](../Page/航空公司.md "wikilink")。透過對國際旅行的問卷調查進行統計分析，從而找出現有服務提供者中擁有最佳[空中服務員](https://zh.wikipedia.org/wiki/空中服務員 "wikilink")、最佳航空公司、最佳航空公司酒廊、最佳機上娛樂、最佳膳食及其他與航空公司相關的服務意見調查\[2\]。除了上述的意見調查以外，Skytrax的網頁亦設有航空公司討論區，讓旅客分享其飛行經驗，以供其他旅客參考。另外，他們亦有進行服務評估、機艙檢查及滿意度調查。而他們最廣為人所知的，是每年一度舉辦的[年度全球最佳航空公司獎及](https://zh.wikipedia.org/wiki/年度全球最佳航空公司獎 "wikilink")[年度全球最佳機場獎](https://zh.wikipedia.org/wiki/年度全球最佳機場獎 "wikilink")。Skytrax还设立了機場和航空公司評等制度。
+**Skytrax**是一家以[英國為基地的顧問公司](https://zh.wikipedia.org/wiki/英國 "wikilink")，是Inflight Research Services的附屬公司， 大部份股權則由利氏家族擁有\[1\]，其主要業務是為[航空公司](../Page/航空公司.md "wikilink")的服務進行意見調查。透過對國際旅行的問卷調查進行統計分析，從而找出現有服務提供者中擁有最佳[空中服務員](https://zh.wikipedia.org/wiki/空中服務員 "wikilink")、最佳航空公司、最佳航空公司酒廊、最佳機上娛樂、最佳膳食及其他與航空公司相關的服務意見調查\[2\]。除了上述的意見調查以外，Skytrax的網頁亦設有航空公司討論區，讓旅客分享其飛行經驗，以供其他旅客參考。另外，他們亦有進行服務評估、機艙檢查及滿意度調查。而他們最廣為人所知的，是每年一度舉辦的[年度全球最佳航空公司獎及](https://zh.wikipedia.org/wiki/年度全球最佳航空公司獎 "wikilink")[年度全球最佳機場獎](https://zh.wikipedia.org/wiki/年度全球最佳機場獎 "wikilink")。Skytrax还设立了機場和航空公司評等制度。
 
-該公司的研究主要讓英國政府作參考，以便制定航空交通政策。例如：他們曾向[英國上議院提交一份有關飛行與健康的報告](../Page/英國上議院.md "wikilink")\[3\]。
+該公司的研究主要讓英國政府作參考，以便制定航空交通政策。例如：他們曾向[英國上議院](../Page/英國上議院.md "wikilink")提交一份有關飛行與健康的報告\[3\]。
 
 ## 獎項
 
@@ -334,8 +332,7 @@ Research Services的附屬公司，
 
 ## 備注
 
-[Category:民用航空](https://zh.wikipedia.org/wiki/Category:民用航空 "wikilink")
-[Category:英國公司](https://zh.wikipedia.org/wiki/Category:英國公司 "wikilink")
+[Category:民用航空](https://zh.wikipedia.org/wiki/Category:民用航空 "wikilink") [Category:英國公司](https://zh.wikipedia.org/wiki/Category:英國公司 "wikilink")
 
 1.
 
@@ -352,30 +349,19 @@ Research Services的附屬公司，
 7.
 8.
 
-9.  [Airline of the
-    Year 2005](http://www.airlinequality.com/2005/airline-05-ent.htm)
+9.  [Airline of the Year 2005](http://www.airlinequality.com/2005/airline-05-ent.htm)
 
 10.
 
-11. [Airline of the
-    Year 2007](http://www.worldairlineawards.com/Awards_2007/AirlineYear-2007.htm)
+11. [Airline of the Year 2007](http://www.worldairlineawards.com/Awards_2007/AirlineYear-2007.htm)
 
+12. [Airline of the Year 2008](http://www.worldairlineawards.com/Awards_2008/AirlineYear-2008.htm)
 
-12. [Airline of the
-    Year 2008](http://www.worldairlineawards.com/Awards_2008/AirlineYear-2008.htm)
+13. [Airline of the Year 2009](http://www.worldairlineawards.com/Awards_2009/AirlineYear-2009.htm)
 
+14. [Airline of the Year 2010](http://www.worldairlineawards.com/Awards-2010/Airline2010.htm)
 
-13. [Airline of the
-    Year 2009](http://www.worldairlineawards.com/Awards_2009/AirlineYear-2009.htm)
-
-
-14. [Airline of the
-    Year 2010](http://www.worldairlineawards.com/Awards-2010/Airline2010.htm)
-
-
-15. [Airline of the
-    Year 2011](http://www.worldairlineawards.com/Awards_2011/Airline2011.htm)
-
+15. [Airline of the Year 2011](http://www.worldairlineawards.com/Awards_2011/Airline2011.htm)
 
 16.
 
@@ -395,11 +381,9 @@ Research Services的附屬公司，
 
 24.
 
-25. [Profil Korporat - Malaysia Airport Holdings
-    Berhad](http://www.klia.com.my/index.php?m=corp_info&c=brand/)
+25. [Profil Korporat - Malaysia Airport Holdings Berhad](http://www.klia.com.my/index.php?m=corp_info&c=brand/)
 
-26. [Previous Winners : Airport Of The
-    Year](http://www.worldairportawards.com/main/winner_history.htm)
+26. [Previous Winners : Airport Of The Year](http://www.worldairportawards.com/main/winner_history.htm)
 
 27.
 28.
@@ -411,45 +395,26 @@ Research Services的附屬公司，
 31.
 32.
 
-33. [Airport of the
-    Year 2005](http://www.airlinequality.com/2005/airport-05-ent.htm)
+33. [Airport of the Year 2005](http://www.airlinequality.com/2005/airport-05-ent.htm)
 
-34. [Airport of the
-    Year 2006](http://www.worldairportawards.com/Awards-2006/AirportYear-2006.htm)
-
+34. [Airport of the Year 2006](http://www.worldairportawards.com/Awards-2006/AirportYear-2006.htm)
 
 35.
-36. [Airport of the
-    Year 2007](http://www.worldairportawards.com/Awards_2007/Airport2007.htm)
+36. [Airport of the Year 2007](http://www.worldairportawards.com/Awards_2007/Airport2007.htm)
 
+37. [Airport of the Year 2008](http://www.worldairportawards.com/Awards_2008/Airport2008.htm)
 
-37. [Airport of the
-    Year 2008](http://www.worldairportawards.com/Awards_2008/Airport2008.htm)
+38. [Airport of the Year 2009](http://www.worldairportawards.com/Awards_2009/Airport2009.htm)
 
+39. [Airport of the Year 2010](http://www.worldairportawards.com/main/Press-APT2010.htm)
 
-38. [Airport of the
-    Year 2009](http://www.worldairportawards.com/Awards_2009/Airport2009.htm)
+40. [Airport of the Year 2011](http://www.worldairportawards.com/Awards_2011/Airport2011.htm)
 
+41. [Airport of the Year 2012](http://www.worldairportawards.com/Awards_2012/Airport2012.htm)
 
-39. [Airport of the
-    Year 2010](http://www.worldairportawards.com/main/Press-APT2010.htm)
+42. [Airport of the Year 2013](http://www.worldairportawards.com/Awards_2013/Airport2013.htm)
 
-
-40. [Airport of the
-    Year 2011](http://www.worldairportawards.com/Awards_2011/Airport2011.htm)
-
-
-41. [Airport of the
-    Year 2012](http://www.worldairportawards.com/Awards_2012/Airport2012.htm)
-
-
-42. [Airport of the
-    Year 2013](http://www.worldairportawards.com/Awards_2013/Airport2013.htm)
-
-
-43. [Airport of the
-    Year 2014](http://www.worldairportawards.com/Awards_2014/worlds_best_airport.htm)
-
+43. [Airport of the Year 2014](http://www.worldairportawards.com/Awards_2014/worlds_best_airport.htm)
 
 44. [2](http://www.worldairportawards.com/Awards/world_airport_rating.html)
 

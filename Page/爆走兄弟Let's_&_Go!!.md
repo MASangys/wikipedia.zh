@@ -1,20 +1,16 @@
-是日本漫畫家[越田哲弘在](https://zh.wikipedia.org/wiki/越田哲弘 "wikilink")《[快樂龍](https://zh.wikipedia.org/wiki/快樂龍 "wikilink")》（台灣於[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")《王牌小子》連載，非《[快樂龍](https://zh.wikipedia.org/wiki/快樂龍 "wikilink")》的台灣版《[快樂快樂](https://zh.wikipedia.org/wiki/快樂快樂 "wikilink")》；香港於《[CO-CO\!](../Page/CO-CO!.md "wikilink")》連載）連載的[迷你四驅車](https://zh.wikipedia.org/wiki/迷你四驅車 "wikilink")[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，及以其為架構之[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")，是以玩具（迷你四驅車）、動畫、[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")、[遊戲](https://zh.wikipedia.org/wiki/遊戲 "wikilink")、[CD](https://zh.wikipedia.org/wiki/光學碟片 "wikilink")、收集卡、貼紙等各種媒體發表的熱門作品。此外，動畫版主題歌還邀請了-{[JAM
-Project](../Page/JAM_Project.md "wikilink")}-成員[影山浩宣等許多歌手獻唱](../Page/影山浩宣.md "wikilink")。
+是日本漫畫家[越田哲弘在](https://zh.wikipedia.org/wiki/越田哲弘 "wikilink")《[快樂龍](https://zh.wikipedia.org/wiki/快樂龍 "wikilink")》（台灣於[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")《王牌小子》連載，非《[快樂龍](https://zh.wikipedia.org/wiki/快樂龍 "wikilink")》的台灣版《[快樂快樂](https://zh.wikipedia.org/wiki/快樂快樂 "wikilink")》；香港於《[CO-CO\!](../Page/CO-CO!.md "wikilink")》連載）連載的[迷你四驅車](https://zh.wikipedia.org/wiki/迷你四驅車 "wikilink")[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，及以其為架構之[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")，是以玩具（迷你四驅車）、動畫、[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")、[遊戲](https://zh.wikipedia.org/wiki/遊戲 "wikilink")、[CD](https://zh.wikipedia.org/wiki/光學碟片 "wikilink")、收集卡、貼紙等各種媒體發表的熱門作品。此外，動畫版主題歌還邀請了-{[JAM Project](../Page/JAM_Project.md "wikilink")}-成員[影山浩宣](../Page/影山浩宣.md "wikilink")等許多歌手獻唱。
 
 ## 概要
 
 漫畫在[快樂龍](https://zh.wikipedia.org/wiki/快樂龍 "wikilink")（日本）上從1994年7月號連載至1999年10月號為止。
 
-故事共分3部曲，於電視上播放了3年，每年各敘述一部故事。
-從1996年1月到1998年12月在[東京電視台播放](../Page/東京電視台.md "wikilink")，動畫製作公司為XEBEC
-，每部各51話，總計153話。
+故事共分3部曲，於電視上播放了3年，每年各敘述一部故事。 從1996年1月到1998年12月在[東京電視台](../Page/東京電視台.md "wikilink")播放，動畫製作公司為XEBEC ，每部各51話，總計153話。
 
 第1部是星馬兄弟星馬烈、星馬豪從迷你四驅車的研究者—土屋博士那裡獲得了名為戰神號的迷你四驅車，經過不斷的培養，與各式各樣的迷你四驅賽車手互相競爭的內容。也稱為「國內篇」、「GJC（超級盃全國大賽）篇」、「大神篇」或「[無印](https://zh.wikipedia.org/wiki/無印 "wikilink")」（由於標題後面沒有添加篇名）。
 
 第2部舞台從國內轉移到世界，一樣是相同主角的後續作品，稱為「WGP篇」（世界盃大賽的簡稱）。內容是以過去競爭過的對手們組成一隊向世界挑戰。由於是接續前一部作品，所以電視台將本作品與前作視為同一部作品，並不視為新的節目，另外還有上映劇場版[動畫電影](https://zh.wikipedia.org/wiki/動畫電影 "wikilink")。
 
-第3部開始換了主角，敘述相同世界的另一篇故事，作品名稱也變更為「爆走兄弟Let's &
-Go\!\!MAX」（原作從第3話配合動畫改變作品名稱）。是一文字豪樹與一文字烈矢兩兄弟對戰鬥迷你四驅賽車手的養成學校—鮑索學校採用的教育方針感到疑惑，對該校賽車手互相競賽的內容。
+第3部開始換了主角，敘述相同世界的另一篇故事，作品名稱也變更為「爆走兄弟Let's & Go\!\!MAX」（原作從第3話配合動畫改變作品名稱）。是一文字豪樹與一文字烈矢兩兄弟對戰鬥迷你四驅賽車手的養成學校—鮑索學校採用的教育方針感到疑惑，對該校賽車手互相競賽的內容。
 
 「國內篇」與「WGP篇」主要登場的都是全覆式軌道車，在「MAX篇」裡則把重心轉移到空氣式軌道車。
 
@@ -251,35 +247,21 @@ Go\!\!MAX」（原作從第3話配合動畫改變作品名稱）。是一文字�
 ### 國內篇
 
   - 片頭曲
-    1.  「ウィニング・ラン\! 〜風になりたい〜」 : [山形幸生](../Page/山形幸生.md "wikilink")
-        第1-25話
-    2.  「FLESH & BLOOD 〜二つの想い〜」 :
-        [G-CRISIS](https://zh.wikipedia.org/wiki/G-CRISIS "wikilink")
-        第26-51話
+    1.  「ウィニング・ラン\! 〜風になりたい〜」 : [山形幸生](../Page/山形幸生.md "wikilink") 第1-25話
+    2.  「FLESH & BLOOD 〜二つの想い〜」 : [G-CRISIS](https://zh.wikipedia.org/wiki/G-CRISIS "wikilink") 第26-51話
   - 片尾曲
-    1.  「ヨ\! ブラザー」 : [Boggie
-        Man](https://zh.wikipedia.org/wiki/Boggie_Man "wikilink") 第1-12話
-    2.  「傷つくこともできない」 :
-        [梶谷美由紀](https://zh.wikipedia.org/wiki/梶谷美由紀 "wikilink")
-        第13-25話
-    3.  「恋のターゲット・ボーイ」 : [THE PINK
-        HOPS](https://zh.wikipedia.org/wiki/THE_PINK_HOPS "wikilink")
-        第26-39話
-    4.  「[夢の涯てまでも](https://zh.wikipedia.org/wiki/夢の涯てまでも_\(PERSONZ\) "wikilink")」
-        : [PERSONZ](https://zh.wikipedia.org/wiki/PERSONZ "wikilink")
-        第40-51話
+    1.  「ヨ\! ブラザー」 : [Boggie Man](https://zh.wikipedia.org/wiki/Boggie_Man "wikilink") 第1-12話
+    2.  「傷つくこともできない」 : [梶谷美由紀](https://zh.wikipedia.org/wiki/梶谷美由紀 "wikilink") 第13-25話
+    3.  「恋のターゲット・ボーイ」 : [THE PINK HOPS](https://zh.wikipedia.org/wiki/THE_PINK_HOPS "wikilink") 第26-39話
+    4.  「[夢の涯てまでも](https://zh.wikipedia.org/wiki/夢の涯てまでも_\(PERSONZ\) "wikilink")」 : [PERSONZ](https://zh.wikipedia.org/wiki/PERSONZ "wikilink") 第40-51話
 
 ### WGP編
 
   - 片頭曲
     1.  「GET THE WORLD」 : [影山浩宣](../Page/影山浩宣.md "wikilink")
   - 片尾曲
-    1.  「Grow Up Potential 〜夢に向かって〜」 :
-        [GANASIA](https://zh.wikipedia.org/wiki/GANASIA "wikilink")
-        第1-13話
-    2.  「Tune-up Generation」 :
-        [松宮麻衣子](https://zh.wikipedia.org/wiki/松宮麻衣子 "wikilink")
-        第14-27話
+    1.  「Grow Up Potential 〜夢に向かって〜」 : [GANASIA](https://zh.wikipedia.org/wiki/GANASIA "wikilink") 第1-13話
+    2.  「Tune-up Generation」 : [松宮麻衣子](https://zh.wikipedia.org/wiki/松宮麻衣子 "wikilink") 第14-27話
     3.  「We are the VICTORYS」 : ザ・ビクトリーズ 第28-39話
     4.  「今夜はイブ\!」 : レッツゴーBOYS & GIRLS 第40-51話
 
@@ -288,10 +270,8 @@ Go\!\!MAX」（原作從第3話配合動畫改變作品名稱）。是一文字�
   - 片頭曲
     1.  「BRAVE HEART」 : [鋼鐵兄弟](../Page/鋼鐵兄弟.md "wikilink")
   - 片尾曲
-    1.  「My name is カーボーイ」 : [影山浩宣](../Page/影山浩宣.md "wikilink") with
-        KIDS MAX 第1-26話
-    2.  「僕らのFREEDOM」 : [YUKA
-        SATO](https://zh.wikipedia.org/wiki/YUKA "wikilink") 第27-51話
+    1.  「My name is カーボーイ」 : [影山浩宣](../Page/影山浩宣.md "wikilink") with KIDS MAX 第1-26話
+    2.  「僕らのFREEDOM」 : [YUKA SATO](https://zh.wikipedia.org/wiki/YUKA "wikilink") 第27-51話
 
 ## 每集標題
 
@@ -467,8 +447,7 @@ Go\!\!MAX」（原作從第3話配合動畫改變作品名稱）。是一文字�
 
 ### 香港
 
-1997年於[翡翠台播出國內篇及WGP篇](../Page/翡翠台.md "wikilink")，及2000年於翡翠台播出MAX篇。2009年5月再於[無綫兒童台重播](https://zh.wikipedia.org/wiki/無綫兒童台 "wikilink")。當中，國內篇第32集因為涉及鬼怪題材而不適合於下午時份播出，故延遲至1998年10月28日的早上時段補播（當天為[重陽節假期](../Page/重陽節.md "wikilink")）
-而同年12月2日開始重播國內篇的集數時則因為是在早上時份播放，故有一併播放這集，至於[無綫兒童台重播時則沒有播放過這集](https://zh.wikipedia.org/wiki/無綫兒童台 "wikilink")。
+1997年於[翡翠台](../Page/翡翠台.md "wikilink")播出國內篇及WGP篇，及2000年於翡翠台播出MAX篇。2009年5月再於[無綫兒童台重播](https://zh.wikipedia.org/wiki/無綫兒童台 "wikilink")。當中，國內篇第32集因為涉及鬼怪題材而不適合於下午時份播出，故延遲至1998年10月28日的早上時段補播（當天為[重陽節](../Page/重陽節.md "wikilink")假期） 而同年12月2日開始重播國內篇的集數時則因為是在早上時份播放，故有一併播放這集，至於[無綫兒童台重播時則沒有播放過這集](https://zh.wikipedia.org/wiki/無綫兒童台 "wikilink")。
 
 首播時間如下：
 
@@ -480,7 +459,7 @@ Go\!\!MAX」（原作從第3話配合動畫改變作品名稱）。是一文字�
 
 ### 台灣
 
-爆走兄弟的版權屬於[三立電視台所有](https://zh.wikipedia.org/wiki/三立電視台 "wikilink")，國內篇首度於1997年10月17日在[華視播出](https://zh.wikipedia.org/wiki/華視 "wikilink")（但華視僅播出國內篇），[三立都會台也於](../Page/三立都會台.md "wikilink")1997年12月5日首次播出，並於1998年4月29日引進播出WGP篇，此後數年間三立也多次輪流重播國內篇與WGP篇。但近年[八大電視台亦取得國內篇及WGP篇的版權](https://zh.wikipedia.org/wiki/八大電視台 "wikilink")，故亦得以在八大綜合台播出。
+爆走兄弟的版權屬於[三立電視台所有](https://zh.wikipedia.org/wiki/三立電視台 "wikilink")，國內篇首度於1997年10月17日在[華視播出](https://zh.wikipedia.org/wiki/華視 "wikilink")（但華視僅播出國內篇），[三立都會台](../Page/三立都會台.md "wikilink")也於1997年12月5日首次播出，並於1998年4月29日引進播出WGP篇，此後數年間三立也多次輪流重播國內篇與WGP篇。但近年[八大電視台亦取得國內篇及WGP篇的版權](https://zh.wikipedia.org/wiki/八大電視台 "wikilink")，故亦得以在八大綜合台播出。
 
 此外，[東森電視台於](https://zh.wikipedia.org/wiki/東森電視台 "wikilink")2004年春季，播出爆走兄弟Max版本，並數度重播。
 
@@ -514,26 +493,20 @@ Go\!\!MAX」（原作從第3話配合動畫改變作品名稱）。是一文字�
   - 爆走兄弟Let's & Go\!\!（DVD-BOX 13片裝，販售版）
       - [小學館設立的爆走兄弟官網](http://arab-mini4wd.darkbb.com/)
       - 2007年10月24日發售，定價50,400日圓。
-      - 原訂2007年春天發售，後於官方網站及電子報發表變更為同年夏天預定發售，同年6月又再度於次世代World Hobby
-        Fair（WHF）發表變更為同年10月預定發售。
-      - 映像特典為1996年12月30日播放之特別節目『爆走兄弟Let's & Go\!\! Special
-        迷你賽車手大集合』及無字幕[OP](https://zh.wikipedia.org/wiki/片頭曲 "wikilink")&[ED](https://zh.wikipedia.org/wiki/片尾曲 "wikilink")。
+      - 原訂2007年春天發售，後於官方網站及電子報發表變更為同年夏天預定發售，同年6月又再度於次世代World Hobby Fair（WHF）發表變更為同年10月預定發售。
+      - 映像特典為1996年12月30日播放之特別節目『爆走兄弟Let's & Go\!\! Special 迷你賽車手大集合』及無字幕[OP](https://zh.wikipedia.org/wiki/片頭曲 "wikilink")&[ED](https://zh.wikipedia.org/wiki/片尾曲 "wikilink")。
       - 封入特典為32頁手冊，收錄越田哲弘繪製的『Let's & Go\!\!』命名經過的漫畫。
       - 初回版特典為烈&豪的原創[人偶組](https://zh.wikipedia.org/wiki/人偶 "wikilink")。
   - 爆走兄弟Let's & Go\!\!WGP（DVD-BOX 13片裝，販售版）
       - 2007年12月19日發售，定價50,400日圓。
       - 映像特典為無字幕OP\&ED。
-      - 封入特典為『爆走兄弟Let's & Go\!\!WGP 完全導覽』期刊，為1997年小學館發行之『爆走兄弟Let's &
-        Go\!\!WGP導覽』增加新資料再重新編輯的版本，追加了導演專訪及設定資料集，並修改了部分人物介紹。
+      - 封入特典為『爆走兄弟Let's & Go\!\!WGP 完全導覽』期刊，為1997年小學館發行之『爆走兄弟Let's & Go\!\!WGP導覽』增加新資料再重新編輯的版本，追加了導演專訪及設定資料集，並修改了部分人物介紹。
       - 初回版特典為烈&豪TRF勝利隊版原創人偶組。
       - 未收錄劇場版『爆走兄弟Let's & Go\!\!WGP 失控迷你賽車大追蹤』。
   - 爆走兄弟Let's & Go\!\!MAX（DVD-BOX 13片裝，販售版）
       - 2008年2月20日發售，定價50,400日圓。
       - 映像特典為無字幕OP\&ED。
-      - 封入特典為52頁特製手冊與透明薄板3張（其中一張由高見明雄繪製），手冊內容為「爆走兄弟Let's & Go\!\!MAX
-        話次表」、「錄影帶封面插圖畫廊」（收錄了為全系列3部錄影帶封面繪製的38張插圖）、「迷你四驅盒美術畫廊」（收錄了從『Let's
-        & Go\!\!』系列商品化的所有迷你四驅之外盒包裝插圖）、「設定資料集」、「Let's &
-        Go\!\!的日常生活」（[渡邊久美子與](../Page/渡邊久美子.md "wikilink")[日高範子的對談及製作小組座談會](../Page/日高範子.md "wikilink")、製作小組的留言）
+      - 封入特典為52頁特製手冊與透明薄板3張（其中一張由高見明雄繪製），手冊內容為「爆走兄弟Let's & Go\!\!MAX 話次表」、「錄影帶封面插圖畫廊」（收錄了為全系列3部錄影帶封面繪製的38張插圖）、「迷你四驅盒美術畫廊」（收錄了從『Let's & Go\!\!』系列商品化的所有迷你四驅之外盒包裝插圖）、「設定資料集」、「Let's & Go\!\!的日常生活」（[渡邊久美子](../Page/渡邊久美子.md "wikilink")與[日高範子](../Page/日高範子.md "wikilink")的對談及製作小組座談會、製作小組的留言）
       - 初回版特典為豪樹&烈矢，及官方網站人氣票選榮獲第3名的卡羅之原創人偶組。
           - 上述3部DVD皆因**急性光過敏症**（即[神奇寶貝衝擊](../Page/3D龍事件.md "wikilink")）對影像實施了特殊處理，在部分角色動作劇烈及四驅車奔馳的場面會發生殘像，且DVD-BOX發售前並未發表實施影像處理，而是在無印篇DVD-BOX發售5天後的2007年10月29日才發表，在『WGP』及『MAX』之DVD-BOX也實施了相同的影像處理，同時於官方網站發表，但截至2008年2月19日為止，這項殘像處理公告的日期被置換成2007年9月14日。
   - 意大利已先於日本發售全話DVD，未收錄日語發音。
@@ -578,47 +551,39 @@ Go\!\!MAX」（原作從第3話配合動畫改變作品名稱）。是一文字�
 
 很多款遊戲都會把特別款式的車身或零件當作初版特典贈送。
 
-  - 迷你四驅車閃亮蠍子號Let's &
-    Go\!\!（）（1996年、[超級任天堂](../Page/超級任天堂.md "wikilink")、ASCII）
+  - 迷你四驅車閃亮蠍子號Let's & Go\!\!（）（1996年、[超級任天堂](../Page/超級任天堂.md "wikilink")、ASCII）
       -
         是『爆走兄弟』的第一款遊戲，初版附送閃亮蠍子號的車身，遊戲附送的版本有別於之後發售的款式，本體顏色用珍珠白成形(之後發售的成形色是純白色)。
         這輛車後來在漫畫、動畫版本篇裡也有登場。遊戲基本上是以[RPG的方式遊玩](../Page/電子角色扮演遊戲.md "wikilink")，可在街上贏得比賽並儲存點數來交換新零件。故事舞台只到動畫版的國內篇為止，主角為玩家自創的原創角色。所有預購的消費者都會贈送金色電鍍的閃亮蠍子號車身（之後在活動會場也有以限定零件的方式販售）。
 
 <!-- end list -->
 
-  - 迷你四驅車GB Let's & Go\!\!（）（1997年、[Game
-    Boy](../Page/Game_Boy.md "wikilink")、ASCII）
+  - 迷你四驅車GB Let's & Go\!\!（）（1997年、[Game Boy](../Page/Game_Boy.md "wikilink")、ASCII）
       -
         與輕量化的超速齒輪特別限定款式同梱販售，本遊戲也是以國內篇為故事舞台，有點類似[神奇寶貝](https://zh.wikipedia.org/wiki/神奇寶貝 "wikilink")，一樣採用收集零件和連線交換的系統。
 
 <!-- end list -->
 
-  - 迷你四驅車超級工廠（）（1997年、[SEGA
-    Saturn](https://zh.wikipedia.org/wiki/SEGA_Saturn "wikilink")、Media
-    Quest）
+  - 迷你四驅車超級工廠（）（1997年、[SEGA Saturn](https://zh.wikipedia.org/wiki/SEGA_Saturn "wikilink")、Media Quest）
       -
-        附送鋼布拉斯塔XTO（GUNBLUSTER
-        XTO）電鍍藍車身。由於沒有故事模式，所以變成一款美中不足的遊戲，預購者都會獲贈超級FM底盤的特別限定款式。
+        附送鋼布拉斯塔XTO（GUNBLUSTER XTO）電鍍藍車身。由於沒有故事模式，所以變成一款美中不足的遊戲，預購者都會獲贈超級FM底盤的特別限定款式。
 
 <!-- end list -->
 
-  - 爆走兄弟Let's & Go\!\!WGP
-    極速賽事（）（1997年、[PlayStation](../Page/PlayStation.md "wikilink")、JALECO）
+  - 爆走兄弟Let's & Go\!\!WGP 極速賽事（）（1997年、[PlayStation](../Page/PlayStation.md "wikilink")、JALECO）
       -
         附躍動衝鋒TRF車身，部分貼紙和販售版的躍動衝鋒不同。玩家扮演日本勝利隊的第6位賽車手，步步贏得世界冠軍。在遊戲中可以設定迷你四驅車，但無法進行操縱。比賽方式不是採用動畫版的5人戰，而是從隊伍中選出3人進行比賽；決定冠軍的方式也和動畫版不同，不是由前四強的隊伍參加總決賽，而是由前二強的隊伍進行決賽來決定冠軍。決賽對手根據從頭到尾的獲勝機率會有所不同，是美國宇宙漫遊者隊、德國鐵狼隊或中國小四驅行走團光蠍隊的其中一支隊伍，不會碰上意大利羅索史特拉達隊。
 
 <!-- end list -->
 
-  - 迷你四驅車GB Let's & Go\!\! 全明星賽MAX（）（1998年、[Game
-    Boy](../Page/Game_Boy.md "wikilink")、ASCII）
+  - 迷你四驅車GB Let's & Go\!\! 全明星賽MAX（）（1998年、[Game Boy](../Page/Game_Boy.md "wikilink")、ASCII）
       -
         玩家要扮演日本勝利隊的第6位賽車手，在重現世界盃的「超級盃大賽（GBC）」出場。系統基本上承襲前作「迷你四驅車GB」，另外也導入了GP晶片等系統。
         破關後的附加要素多如牛毛，甚至連MAX篇的角色都會登場。所有預購者皆會獲贈閃亮蠍子號X的車身，閃亮蠍子號X後來以風暴驅逐者（STORM-CRUISER，服部龍平＆楠大梧的車）配套發售。
 
 <!-- end list -->
 
-  - 爆走兄弟Let's & Go\!\!
-    永恆之翼（）（1998年、[PlayStation](../Page/PlayStation.md "wikilink")、JALECO）
+  - 爆走兄弟Let's & Go\!\! 永恆之翼（）（1998年、[PlayStation](../Page/PlayStation.md "wikilink")、JALECO）
       -
         人物角色重於遊戲要素，是瞄準女性同好市場的遊戲。遊戲中的登場人物也都是由同好投票表決，實現了人物之間在動畫版中絕不可能出現的交談和比賽，搔到了同好的癢處。有別於前作『極速賽事』的模擬遊戲（只能設定不能直接操縱），本作改成了駕駛遊戲（可直接操縱賽車）。
         登場車種超過50台，可使用人物有20名（破關後有隱藏人物）。故事是要在鮑索主辦的大會獲得冠軍，內容並不長，遊戲內容則是以破完所有人物為目標。包含主題曲畫面，收錄了許多由人物設定高見明男先生描繪的圖像。
@@ -626,9 +591,7 @@ Go\!\!MAX」（原作從第3話配合動畫改變作品名稱）。是一文字�
 
 <!-- end list -->
 
-  - 爆走兄弟Let's & Go\!\! POWER
-    WGP2（）（1998年、[超級任天堂](../Page/超級任天堂.md "wikilink")、[任天堂](../Page/任天堂.md "wikilink")）
-    [官方網站](http://www.nintendo.co.jp/n02/shvc/bm4j/index.html)
+  - 爆走兄弟Let's & Go\!\! POWER WGP2（）（1998年、[超級任天堂](../Page/超級任天堂.md "wikilink")、[任天堂](../Page/任天堂.md "wikilink")） [官方網站](http://www.nintendo.co.jp/n02/shvc/bm4j/index.html)
       -
         遊戲定位在動畫WGP篇的後續劇情，是任天堂公司難得一款以動畫為基礎的遊戲，玩家將操縱日本勝利隊在第2屆世界盃大賽裡不斷獲勝。遊戲形式為[RPG](../Page/電子角色扮演遊戲.md "wikilink")，以刷新比賽記錄的方式取得經驗值，慢慢讓賽車提升等級。
         故事中反映了動畫的細微設定，成為一款受同好歡迎的遊戲。[秘魯和](https://zh.wikipedia.org/wiki/秘魯 "wikilink")[法國是在第](https://zh.wikipedia.org/wiki/法國 "wikilink")2屆世界盃首次參賽的遊戲原創隊伍，秘魯是劇場版的里昂所率領的隊伍，法國隊有土方令登場。豪樹與烈矢則是以特殊事件角色登場。
@@ -636,8 +599,7 @@ Go\!\!MAX」（原作從第3話配合動畫改變作品名稱）。是一文字�
 
 ### 貼紙、收集卡
 
-貼紙是天田印刷加工用「貼紙烈傳」的名稱發售，收集卡是MOVIC發售。兩者都記載了在本篇無法得知的人物個人資料，還有過去所發生的故事。
-其它像[萬代也有發售爆走兄弟的萬變卡](../Page/萬代.md "wikilink")，天田印刷加工也有販售自家公司製作的收集卡。
+貼紙是天田印刷加工用「貼紙烈傳」的名稱發售，收集卡是MOVIC發售。兩者都記載了在本篇無法得知的人物個人資料，還有過去所發生的故事。 其它像[萬代](../Page/萬代.md "wikilink")也有發售爆走兄弟的萬變卡，天田印刷加工也有販售自家公司製作的收集卡。
 
 ### 廣播劇CD
 
@@ -645,27 +607,11 @@ Go\!\!MAX」（原作從第3話配合動畫改變作品名稱）。是一文字�
 
 ## 補足
 
-動畫名稱《**爆走兄弟Let's & Go\!\!**》日文讀做《**爆走兄弟レッツ&ゴー\!\!**》和主角的名字的關係為下，主角**星馬
-烈**日文讀做《**せいば レツ**》，**星馬 豪**日文讀做《**せいば
-ゴー**》，英文的《**Let's**》日文讀做《**レッツ**》與星馬
-烈的**烈**的日文《**レツ**》發音相同，而英文的《**go**》日文讀做《**ゴー**》與星馬
-豪的**豪**的日文《**ゴー**》讀應完全相同。
+動畫名稱《**爆走兄弟Let's & Go\!\!**》日文讀做《**爆走兄弟レッツ&ゴー\!\!**》和主角的名字的關係為下，主角**星馬 烈**日文讀做《**せいば レツ**》，**星馬 豪**日文讀做《**せいば ゴー**》，英文的《**Let's**》日文讀做《**レッツ**》與星馬 烈的**烈**的日文《**レツ**》發音相同，而英文的《**go**》日文讀做《**ゴー**》與星馬 豪的**豪**的日文《**ゴー**》讀應完全相同。
 
 ## 外部連結
 
   - [MIDORIMIZU<sup>2</sup>](http://midorimizu.tripod.com/)
   - [爆走兄弟レッツ&ゴー\!\!<sup>2</sup>](https://web.archive.org/web/20150512085037/http://cgi.shopro.co.jp/tv/let_go/)
 
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:快樂快樂月刊](https://zh.wikipedia.org/wiki/Category:快樂快樂月刊 "wikilink")
-[Category:1996年日本電視動畫](https://zh.wikipedia.org/wiki/Category:1996年日本電視動畫 "wikilink")
-[Category:1998年日本電視動畫](https://zh.wikipedia.org/wiki/Category:1998年日本電視動畫 "wikilink")
-[Category:東京電視網動畫](https://zh.wikipedia.org/wiki/Category:東京電視網動畫 "wikilink")
-[Category:三立都會台外購動畫](https://zh.wikipedia.org/wiki/Category:三立都會台外購動畫 "wikilink")
-[Category:華視外購動畫](https://zh.wikipedia.org/wiki/Category:華視外購動畫 "wikilink")
-[Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
-[Category:玩具題材漫畫](https://zh.wikipedia.org/wiki/Category:玩具題材漫畫 "wikilink")
-[Category:小學館集英社製作動畫作品](https://zh.wikipedia.org/wiki/Category:小學館集英社製作動畫作品 "wikilink")
-[Category:迷你四驅](https://zh.wikipedia.org/wiki/Category:迷你四驅 "wikilink")
-[Category:小學背景漫畫](https://zh.wikipedia.org/wiki/Category:小學背景漫畫 "wikilink")
-[Category:小學背景動畫](https://zh.wikipedia.org/wiki/Category:小學背景動畫 "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:快樂快樂月刊](https://zh.wikipedia.org/wiki/Category:快樂快樂月刊 "wikilink") [Category:1996年日本電視動畫](https://zh.wikipedia.org/wiki/Category:1996年日本電視動畫 "wikilink") [Category:1998年日本電視動畫](https://zh.wikipedia.org/wiki/Category:1998年日本電視動畫 "wikilink") [Category:東京電視網動畫](https://zh.wikipedia.org/wiki/Category:東京電視網動畫 "wikilink") [Category:三立都會台外購動畫](https://zh.wikipedia.org/wiki/Category:三立都會台外購動畫 "wikilink") [Category:華視外購動畫](https://zh.wikipedia.org/wiki/Category:華視外購動畫 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink") [Category:玩具題材漫畫](https://zh.wikipedia.org/wiki/Category:玩具題材漫畫 "wikilink") [Category:小學館集英社製作動畫作品](https://zh.wikipedia.org/wiki/Category:小學館集英社製作動畫作品 "wikilink") [Category:迷你四驅](https://zh.wikipedia.org/wiki/Category:迷你四驅 "wikilink") [Category:小學背景漫畫](https://zh.wikipedia.org/wiki/Category:小學背景漫畫 "wikilink") [Category:小學背景動畫](https://zh.wikipedia.org/wiki/Category:小學背景動畫 "wikilink")

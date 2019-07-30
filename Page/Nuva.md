@@ -57,7 +57,7 @@
 
 ## Nuva虚拟机特点
 
-  - 内置[正则表达式引擎](../Page/正则表达式.md "wikilink")：能够方便的进行文本处理。
+  - 内置[正则表达式](../Page/正则表达式.md "wikilink")引擎：能够方便的进行文本处理。
 
 <!-- end list -->
 
@@ -91,8 +91,7 @@
 ```
 
   - 内置O/R Mapping引擎：可以通过面向对象的方式直接存取数据库架构和数据。
-  - 内置基于[HTML](../Page/HTML.md "wikilink")/[XML的界面引擎](../Page/XML.md "wikilink")：能够方便的编写GUI应用程序，典型的例子就是[Macrobject
-    CodeAuto代码生成器](http://www.macrobject.com/cn/codeauto/index.htm)。
+  - 内置基于[HTML](../Page/HTML.md "wikilink")/[XML](../Page/XML.md "wikilink")的界面引擎：能够方便的编写GUI应用程序，典型的例子就是[Macrobject CodeAuto代码生成器](http://www.macrobject.com/cn/codeauto/index.htm)。
 
 ## 代码示例
 
@@ -241,8 +240,6 @@
 
 ## 外部链接
 
-  - [Nuva语言官方主页](http://www.macrobject.com/cn/nuva_language/index.htm) -
-    可選或
+  - [Nuva语言官方主页](http://www.macrobject.com/cn/nuva_language/index.htm) - 可選或
 
-[Category:程序设计语言](https://zh.wikipedia.org/wiki/Category:程序设计语言 "wikilink")
-[Category:脚本语言](https://zh.wikipedia.org/wiki/Category:脚本语言 "wikilink")
+[Category:程序设计语言](https://zh.wikipedia.org/wiki/Category:程序设计语言 "wikilink") [Category:脚本语言](https://zh.wikipedia.org/wiki/Category:脚本语言 "wikilink")

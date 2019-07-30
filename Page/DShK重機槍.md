@@ -1,43 +1,30 @@
-**DShK 1938**重機槍，又稱
-**DShK**（[俄文](https://zh.wikipedia.org/wiki/俄文 "wikilink")：**ДШК**，Дегтярёва-Шпагина
-Крупнокалиберный，[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：Degtyaryov-Shpagin
-Large-Calibre），是[蘇聯从](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")1938年[二戰時期开始裝備的重型防空機槍](https://zh.wikipedia.org/wiki/二戰 "wikilink")。
+**DShK 1938**重機槍，又稱 **DShK**（[俄文](https://zh.wikipedia.org/wiki/俄文 "wikilink")：**ДШК**，Дегтярёва-Шпагина Крупнокалиберный，[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：Degtyaryov-Shpagin Large-Calibre），是[蘇聯从](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")1938年[二戰時期开始裝備的重型防空機槍](https://zh.wikipedia.org/wiki/二戰 "wikilink")。
 
 ## 設計
 
-DShK發射[12.7×108毫米大口徑彈藥](../Page/12.7×108mm.md "wikilink")，[彈鏈供彈](../Page/彈鏈.md "wikilink")。[二戰時除可作防空機槍外](https://zh.wikipedia.org/wiki/二戰 "wikilink")，亦被裝在輪式射架上用来支援步兵，此射架还可以装上装甲板保护射手。
+DShK發射[12.7×108毫米大口徑彈藥](../Page/12.7×108mm.md "wikilink")，[彈鏈](../Page/彈鏈.md "wikilink")供彈。[二戰時除可作防空機槍外](https://zh.wikipedia.org/wiki/二戰 "wikilink")，亦被裝在輪式射架上用来支援步兵，此射架还可以装上装甲板保护射手。
 
-DShK的名字来源于原設計師[瓦西里·捷格加廖夫及](../Page/瓦西里·捷格加廖夫.md "wikilink")[格里高利·斯帕金](https://zh.wikipedia.org/wiki/格里高利·斯帕金 "wikilink")（改進彈鏈供彈的設計師）的姓氏。DShK有時被縮寫為德什卡（Dushka）。
+DShK的名字来源于原設計師[瓦西里·捷格加廖夫](../Page/瓦西里·捷格加廖夫.md "wikilink")及[格里高利·斯帕金](https://zh.wikipedia.org/wiki/格里高利·斯帕金 "wikilink")（改進彈鏈供彈的設計師）的姓氏。DShK有時被縮寫為德什卡（Dushka）。
 
 ## 歷史
 
-1929年，[蘇聯軍隊對防空機槍的需求日漸增加](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")，其中第一种防空機槍名為**Degtyaryov
-Krupnokalibernyi**缩写作
-DK，即**捷格加廖夫大口径机枪**。该武器在1930年設計，在1933年至1935年进行小批量生產。DK防空機槍最初只由30發[彈鼓供彈](https://zh.wikipedia.org/wiki/彈鼓 "wikilink")，射速很低，火力持续性也很差，其後斯帕金（Shpagin）将供彈方式改為[彈鏈供彈](../Page/彈鏈.md "wikilink")，为此重新设计了受弹器，同时也提高了射速。1938年，改進後的DK獲正式採用並被命名為**DShK
-1938**，並成為[二戰及之后蘇聯軍隊的制式重機槍](https://zh.wikipedia.org/wiki/二戰 "wikilink")。
-[DShK_on_T-55_DD-SD-01-05147.JPEG](https://zh.wikipedia.org/wiki/File:DShK_on_T-55_DD-SD-01-05147.JPEG "fig:DShK_on_T-55_DD-SD-01-05147.JPEG")坦克上的DShKM防空機槍。\]\]
+1929年，[蘇聯軍隊對防空機槍的需求日漸增加](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")，其中第一种防空機槍名為**Degtyaryov Krupnokalibernyi**缩写作 DK，即**捷格加廖夫大口径机枪**。该武器在1930年設計，在1933年至1935年进行小批量生產。DK防空機槍最初只由30發[彈鼓供彈](https://zh.wikipedia.org/wiki/彈鼓 "wikilink")，射速很低，火力持续性也很差，其後斯帕金（Shpagin）将供彈方式改為[彈鏈](../Page/彈鏈.md "wikilink")供彈，为此重新设计了受弹器，同时也提高了射速。1938年，改進後的DK獲正式採用並被命名為**DShK 1938**，並成為[二戰及之后蘇聯軍隊的制式重機槍](https://zh.wikipedia.org/wiki/二戰 "wikilink")。 [DShK_on_T-55_DD-SD-01-05147.JPEG](https://zh.wikipedia.org/wiki/File:DShK_on_T-55_DD-SD-01-05147.JPEG "fig:DShK_on_T-55_DD-SD-01-05147.JPEG")坦克上的DShKM防空機槍。\]\]
 
-DShK在[二戰時被大量採用](https://zh.wikipedia.org/wiki/二戰 "wikilink")，通常裝在轉軸三腳架作固定防空用途，或裝在[GAZ-AA防空裝甲車上](../Page/GAZ-AA.md "wikilink")。[二戰後期](https://zh.wikipedia.org/wiki/二戰 "wikilink")，DShK亦被在[IS-2坦克及](https://zh.wikipedia.org/wiki/IS-2 "wikilink")[ISU-152自走砲上](https://zh.wikipedia.org/wiki/ISU-152 "wikilink")。DShK也被步兵用作支援用途，裝在輪式射架上，亦有被用作同軸機槍，如[T-40輕型](https://zh.wikipedia.org/wiki/T-40 "wikilink")[兩棲坦克](https://zh.wikipedia.org/wiki/兩棲坦克 "wikilink")。
+DShK在[二戰時被大量採用](https://zh.wikipedia.org/wiki/二戰 "wikilink")，通常裝在轉軸三腳架作固定防空用途，或裝在[GAZ-AA](../Page/GAZ-AA.md "wikilink")防空裝甲車上。[二戰後期](https://zh.wikipedia.org/wiki/二戰 "wikilink")，DShK亦被在[IS-2坦克及](https://zh.wikipedia.org/wiki/IS-2 "wikilink")[ISU-152自走砲上](https://zh.wikipedia.org/wiki/ISU-152 "wikilink")。DShK也被步兵用作支援用途，裝在輪式射架上，亦有被用作同軸機槍，如[T-40輕型](https://zh.wikipedia.org/wiki/T-40 "wikilink")[兩棲坦克](https://zh.wikipedia.org/wiki/兩棲坦克 "wikilink")。
 
-DShK亦被不少國家特許生產，如[中國](../Page/中國.md "wikilink")（54式或54-1式重機槍）、[巴基斯坦及](../Page/巴基斯坦.md "wikilink")[羅馬尼亞等](../Page/羅馬尼亞.md "wikilink")，[越戰中亦有出現](https://zh.wikipedia.org/wiki/越戰 "wikilink")。自1970年代起，[蘇聯](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")／[俄羅斯軍隊開始以較現代化的](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")[NSV重機槍和](../Page/NSV重機槍.md "wikilink")[Kord重機槍取代DShK](../Page/Kord重機槍.md "wikilink")，但直至近年仍有部分[俄羅斯軍隊裝備](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")。
+DShK亦被不少國家特許生產，如[中國](../Page/中國.md "wikilink")（54式或54-1式重機槍）、[巴基斯坦](../Page/巴基斯坦.md "wikilink")及[羅馬尼亞](../Page/羅馬尼亞.md "wikilink")等，[越戰中亦有出現](https://zh.wikipedia.org/wiki/越戰 "wikilink")。自1970年代起，[蘇聯](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")／[俄羅斯軍隊開始以較現代化的](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")[NSV重機槍](../Page/NSV重機槍.md "wikilink")和[Kord重機槍](../Page/Kord重機槍.md "wikilink")取代DShK，但直至近年仍有部分[俄羅斯軍隊裝備](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")。
 
 ## DShKM
 
-1946年[二戰結束後](https://zh.wikipedia.org/wiki/二戰 "wikilink")，DShK的改進版本**DShK
-1938/46**（又稱**DShKM**-[俄文](https://zh.wikipedia.org/wiki/俄文 "wikilink")：ДШКМ）推出。
+1946年[二戰結束後](https://zh.wikipedia.org/wiki/二戰 "wikilink")，DShK的改進版本**DShK 1938/46**（又稱**DShKM**-[俄文](https://zh.wikipedia.org/wiki/俄文 "wikilink")：ДШКМ）推出。
 
 ## 其他圖片
 
-<File:HVO> Army T-55 Glamoc firing MG.jpg|在T-55上開火的DShKM <File:12,7-мм>
-станковый пулемёт ДШК образца 1938 года.jpg|裝在三腳架上的DShK
-[File:DShK-batey-haosef.jpg|裝上](File:DShK-batey-haosef.jpg%7C裝上)[三腳架的DShK](https://zh.wikipedia.org/wiki/三腳架 "wikilink")
-<File:Expomil> 2005 01 TR-85M1 02 Mitraliera PKT.jpg|直到2005年，仍有DShK存在
+<File:HVO> Army T-55 Glamoc firing MG.jpg|在T-55上開火的DShKM <File:12,7-мм> станковый пулемёт ДШК образца 1938 года.jpg|裝在三腳架上的DShK [File:DShK-batey-haosef.jpg|裝上](File:DShK-batey-haosef.jpg%7C裝上)[三腳架的DShK](https://zh.wikipedia.org/wiki/三腳架 "wikilink") <File:Expomil> 2005 01 TR-85M1 02 Mitraliera PKT.jpg|直到2005年，仍有DShK存在
 
 ## 使用國
 
-[Bepo_094.jpg](https://zh.wikipedia.org/wiki/File:Bepo_094.jpg "fig:Bepo_094.jpg")
-[12,7-мм_станковый_пулемёт_ДШК_образца_1938_года_(3-1).jpg](https://zh.wikipedia.org/wiki/File:12,7-мм_станковый_пулемёт_ДШК_образца_1938_года_\(3-1\).jpg "fig:12,7-мм_станковый_пулемёт_ДШК_образца_1938_года_(3-1).jpg")
-[Jamiat_e-Islami_in_Shultan_Valley_1987_with_Dashaka.jpg](https://zh.wikipedia.org/wiki/File:Jamiat_e-Islami_in_Shultan_Valley_1987_with_Dashaka.jpg "fig:Jamiat_e-Islami_in_Shultan_Valley_1987_with_Dashaka.jpg")期間的[聖戰者與DShK](../Page/聖戰者.md "wikilink")\]\]
+[Bepo_094.jpg](https://zh.wikipedia.org/wiki/File:Bepo_094.jpg "fig:Bepo_094.jpg") [12,7-мм_станковый_пулемёт_ДШК_образца_1938_года_(3-1).jpg](https://zh.wikipedia.org/wiki/File:12,7-мм_станковый_пулемёт_ДШК_образца_1938_года_\(3-1\).jpg "fig:12,7-мм_станковый_пулемёт_ДШК_образца_1938_года_(3-1).jpg") [Jamiat_e-Islami_in_Shultan_Valley_1987_with_Dashaka.jpg](https://zh.wikipedia.org/wiki/File:Jamiat_e-Islami_in_Shultan_Valley_1987_with_Dashaka.jpg "fig:Jamiat_e-Islami_in_Shultan_Valley_1987_with_Dashaka.jpg")期間的[聖戰者](../Page/聖戰者.md "wikilink")與DShK\]\]
 
   - \[1\]
 
@@ -197,16 +184,16 @@ DShK亦被不少國家特許生產，如[中國](../Page/中國.md "wikilink")�
 
   - －在當地生產*DShKM*衍生型。\[62\]
 
-  - ：已被[白朗寧M2重機槍所取代](../Page/白朗寧M2重機槍.md "wikilink")。\[63\]
+  - ：已被[白朗寧M2重機槍](../Page/白朗寧M2重機槍.md "wikilink")所取代。\[63\]
 
-  - ：已被[NSV重機槍所取代](../Page/NSV重機槍.md "wikilink")。\[64\]
+  - ：已被[NSV重機槍](../Page/NSV重機槍.md "wikilink")所取代。\[64\]
 
   - －二戰期間繳獲使用。
 
   -
-  - ：已被[NSV重機槍和](../Page/NSV重機槍.md "wikilink")[Kord重機槍所取代](../Page/Kord重機槍.md "wikilink")。\[65\]
+  - ：已被[NSV重機槍](../Page/NSV重機槍.md "wikilink")和[Kord重機槍](../Page/Kord重機槍.md "wikilink")所取代。\[65\]
 
-  - ：已被[NSV重機槍所取代](../Page/NSV重機槍.md "wikilink")。\[66\]
+  - ：已被[NSV重機槍](../Page/NSV重機槍.md "wikilink")所取代。\[66\]
 
   - \[67\]
 
@@ -218,13 +205,12 @@ DShK也是一種廣被[準軍事組織和](https://zh.wikipedia.org/wiki/準軍�
 
   - [阿富汗](../Page/阿富汗.md "wikilink")[聖戰者](../Page/聖戰者.md "wikilink")
   - [車臣武裝份子](https://zh.wikipedia.org/wiki/車臣 "wikilink")
-  - [伊拉克叛軍](../Page/伊拉克.md "wikilink")\[69\]
+  - [伊拉克](../Page/伊拉克.md "wikilink")叛軍\[69\]
   - [臨時愛爾蘭共和軍](../Page/臨時愛爾蘭共和軍.md "wikilink")\[70\]
   - [越南南方民族解放陣線](../Page/越南南方民族解放陣線.md "wikilink")－[越戰時廣泛使用](https://zh.wikipedia.org/wiki/越戰 "wikilink")。\[71\]
   - [反卡扎菲勢力](https://zh.wikipedia.org/wiki/反卡扎菲勢力 "wikilink")－在[2011年利比亞內戰中使用](https://zh.wikipedia.org/wiki/2011年利比亞內戰 "wikilink")，大部份裝在[武裝改裝車上](https://zh.wikipedia.org/wiki/武裝改裝車 "wikilink")。\[72\]
   - [敘利亞自由軍](https://zh.wikipedia.org/wiki/敘利亞自由軍 "wikilink")
-  - [Flag_of_the_Islamic_State_of_Iraq_and_the_Levant2.svg](https://zh.wikipedia.org/wiki/File:Flag_of_the_Islamic_State_of_Iraq_and_the_Levant2.svg "fig:Flag_of_the_Islamic_State_of_Iraq_and_the_Levant2.svg")
-    [伊拉克和沙姆伊斯蘭國](https://zh.wikipedia.org/wiki/伊拉克和沙姆伊斯蘭國 "wikilink")\[73\]
+  - [Flag_of_the_Islamic_State_of_Iraq_and_the_Levant2.svg](https://zh.wikipedia.org/wiki/File:Flag_of_the_Islamic_State_of_Iraq_and_the_Levant2.svg "fig:Flag_of_the_Islamic_State_of_Iraq_and_the_Levant2.svg") [伊拉克和沙姆伊斯蘭國](https://zh.wikipedia.org/wiki/伊拉克和沙姆伊斯蘭國 "wikilink")\[73\]
 
 ## 參考
 
@@ -233,20 +219,13 @@ DShK也是一種廣被[準軍事組織和](https://zh.wikipedia.org/wiki/準軍�
   - [UB航空機槍](../Page/UB航空機槍.md "wikilink")
   - [NSV重機槍](../Page/NSV重機槍.md "wikilink")
   - [KPV重機槍](../Page/KPV重機槍.md "wikilink")
-  - [白朗寧M2重機槍](../Page/白朗寧M2重機槍.md "wikilink")（[美国相同用途的重機槍](../Page/美国.md "wikilink")）
+  - [白朗寧M2重機槍](../Page/白朗寧M2重機槍.md "wikilink")（[美国](../Page/美国.md "wikilink")相同用途的重機槍）
 
 ## 外部連結
 
   - \-[guns.ru的DShK及DShKM介紹](https://web.archive.org/web/20050408063852/http://world.guns.ru/machine/mg03-e.htm)
 
-[Category:重機槍](https://zh.wikipedia.org/wiki/Category:重機槍 "wikilink")
-[Category:12.7×108毫米槍械](https://zh.wikipedia.org/wiki/Category:12.7×108毫米槍械 "wikilink")
-[Category:俄羅斯槍械](https://zh.wikipedia.org/wiki/Category:俄羅斯槍械 "wikilink")
-[Category:蘇聯槍械](https://zh.wikipedia.org/wiki/Category:蘇聯槍械 "wikilink")
-[Category:蘇聯二戰武器](https://zh.wikipedia.org/wiki/Category:蘇聯二戰武器 "wikilink")
-[Category:二戰機槍](https://zh.wikipedia.org/wiki/Category:二戰機槍 "wikilink")
-[Category:越戰武器](https://zh.wikipedia.org/wiki/Category:越戰武器 "wikilink")
-[Category:韓戰武器](https://zh.wikipedia.org/wiki/Category:韓戰武器 "wikilink")
+[Category:重機槍](https://zh.wikipedia.org/wiki/Category:重機槍 "wikilink") [Category:12.7×108毫米槍械](https://zh.wikipedia.org/wiki/Category:12.7×108毫米槍械 "wikilink") [Category:俄羅斯槍械](https://zh.wikipedia.org/wiki/Category:俄羅斯槍械 "wikilink") [Category:蘇聯槍械](https://zh.wikipedia.org/wiki/Category:蘇聯槍械 "wikilink") [Category:蘇聯二戰武器](https://zh.wikipedia.org/wiki/Category:蘇聯二戰武器 "wikilink") [Category:二戰機槍](https://zh.wikipedia.org/wiki/Category:二戰機槍 "wikilink") [Category:越戰武器](https://zh.wikipedia.org/wiki/Category:越戰武器 "wikilink") [Category:韓戰武器](https://zh.wikipedia.org/wiki/Category:韓戰武器 "wikilink")
 
 1.
 
@@ -262,9 +241,7 @@ DShK也是一種廣被[準軍事組織和](https://zh.wikipedia.org/wiki/準軍�
 11.
 12.
 13.
-14. Gander, Terry J.; Hogg, Ian V. *Jane's Infantry Weapons 1995/1996*.
-    Jane's Information Group; 21 edition (May 1995). ISBN
-    978-0-7106-1241-0.
+14. Gander, Terry J.; Hogg, Ian V. *Jane's Infantry Weapons 1995/1996*. Jane's Information Group; 21 edition (May 1995). ISBN 978-0-7106-1241-0.
 
 15.
 16.
@@ -324,13 +301,9 @@ DShK也是一種廣被[準軍事組織和](https://zh.wikipedia.org/wiki/準軍�
 68.
 69.
 
-70. [uncovering the irish republican
-    army](http://www.pbs.org/wgbh/pages/frontline/shows/ira/inside/weapons.html)
-    pbs.org
+70. [uncovering the irish republican army](http://www.pbs.org/wgbh/pages/frontline/shows/ira/inside/weapons.html) pbs.org
 
 71.
-72. [Al-Jazeera coverage of Libyan
-    uprising](http://www.youtube.com/watch?v=Jr1tm9uMFq4&feature=related)
-    Youtube.com
+72. [Al-Jazeera coverage of Libyan uprising](http://www.youtube.com/watch?v=Jr1tm9uMFq4&feature=related) Youtube.com
 
 73.

@@ -1,13 +1,10 @@
-[HK_Telecom_House_201612.jpg](https://zh.wikipedia.org/wiki/File:HK_Telecom_House_201612.jpg "fig:HK_Telecom_House_201612.jpg")
-**now財經台**（第333頻道），是香港[now寬頻電視首個自製的電視頻道](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")，於2006年3月20日09:00啟播，同日10:00正式開台。now財經台是24小時財經新聞頻道，其直播新聞中心位於[香港](../Page/香港.md "wikilink")[灣仔](../Page/灣仔.md "wikilink")[電訊大廈](https://zh.wikipedia.org/wiki/電訊大廈 "wikilink")，亦於[香港交易所設有直播室](../Page/香港交易所.md "wikilink")。每個港股交易日交易時段直播，緊貼香港股市情況，該台其中一個特點是設有全港首創之電視報價服務，觀眾只需透過遙控器，便可在電視螢幕得到一小時延遲金股匯市免費報價服務，同時在2006年8月3日起，觀眾亦可付費訂購即時報價服務；另外由2006年9月6日起，觀眾更可付費訂購now財經台自選服務，隨時收看該-{台}-的精選節目《大鳴大放》、《樓市每日睇》及《環球金融快線》，平日亦設有新聞、財經、時事討論節目等，由2006年12月9日起，假日全日增設新聞報導，並重播部分精選與[港台的電視節目](../Page/香港電台.md "wikilink")。而在交易時段期間的新聞提要，則由2007年5月2日起全面取消。2007年10月24日，[now新聞台啟播](https://zh.wikipedia.org/wiki/now新聞台 "wikilink")，now財經台播放的新聞報道時段改與now新聞台聯播，並開始播放在財經台單獨播放的《now財經新聞》。2010年9月20日，now財經台進行改革（主要是於now財經台直播室的玻璃窗加上磨紗），連帶[now新聞台的資料列顯示亦同時出現改變](https://zh.wikipedia.org/wiki/now新聞台 "wikilink")，改革初期曾錯誤將財經節目的結尾改成「now新聞台製作」。
+[HK_Telecom_House_201612.jpg](https://zh.wikipedia.org/wiki/File:HK_Telecom_House_201612.jpg "fig:HK_Telecom_House_201612.jpg") **now財經台**（第333頻道），是香港[now寬頻電視首個自製的電視頻道](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")，於2006年3月20日09:00啟播，同日10:00正式開台。now財經台是24小時財經新聞頻道，其直播新聞中心位於[香港](../Page/香港.md "wikilink")[灣仔](../Page/灣仔.md "wikilink")[電訊大廈](https://zh.wikipedia.org/wiki/電訊大廈 "wikilink")，亦於[香港交易所](../Page/香港交易所.md "wikilink")設有直播室。每個港股交易日交易時段直播，緊貼香港股市情況，該台其中一個特點是設有全港首創之電視報價服務，觀眾只需透過遙控器，便可在電視螢幕得到一小時延遲金股匯市免費報價服務，同時在2006年8月3日起，觀眾亦可付費訂購即時報價服務；另外由2006年9月6日起，觀眾更可付費訂購now財經台自選服務，隨時收看該-{台}-的精選節目《大鳴大放》、《樓市每日睇》及《環球金融快線》，平日亦設有新聞、財經、時事討論節目等，由2006年12月9日起，假日全日增設新聞報導，並重播部分精選與[港台的電視節目](../Page/香港電台.md "wikilink")。而在交易時段期間的新聞提要，則由2007年5月2日起全面取消。2007年10月24日，[now新聞台啟播](https://zh.wikipedia.org/wiki/now新聞台 "wikilink")，now財經台播放的新聞報道時段改與now新聞台聯播，並開始播放在財經台單獨播放的《now財經新聞》。2010年9月20日，now財經台進行改革（主要是於now財經台直播室的玻璃窗加上磨紗），連帶[now新聞台的資料列顯示亦同時出現改變](https://zh.wikipedia.org/wiki/now新聞台 "wikilink")，改革初期曾錯誤將財經節目的結尾改成「now新聞台製作」。
 
-頻道之競爭對手為[香港有線電視的](../Page/香港有線電視.md "wikilink")[有線財經資訊台](../Page/有線財經資訊台.md "wikilink")、[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[無綫財經·資訊台和交易時段內的](../Page/無綫財經·資訊台.md "wikilink")[奇妙電視](../Page/奇妙電視.md "wikilink")[香港開電視](../Page/香港開電視.md "wikilink")。
+頻道之競爭對手為[香港有線電視](../Page/香港有線電視.md "wikilink")的[有線財經資訊台](../Page/有線財經資訊台.md "wikilink")、[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[無綫財經·資訊台](../Page/無綫財經·資訊台.md "wikilink")和交易時段內的[奇妙電視](../Page/奇妙電視.md "wikilink")[香港開電視](../Page/香港開電視.md "wikilink")。
 
-此台的所有電視和拍攝畫面，使用[Sony](https://zh.wikipedia.org/wiki/Sony "wikilink")
-[XDCAM拍攝並以](../Page/XDCAM.md "wikilink")[Professional
-Disc媒介儲存](https://zh.wikipedia.org/wiki/Professional_Disc "wikilink")，雖然XDCAM支援高清製作，但now新聞及財經台只製作標清節目及高清廣告於其他高清台作廣告用。
+此台的所有電視和拍攝畫面，使用[Sony](https://zh.wikipedia.org/wiki/Sony "wikilink") [XDCAM](../Page/XDCAM.md "wikilink")拍攝並以[Professional Disc媒介儲存](https://zh.wikipedia.org/wiki/Professional_Disc "wikilink")，雖然XDCAM支援高清製作，但now新聞及財經台只製作標清節目及高清廣告於其他高清台作廣告用。
 
-在2007年8月1日開始的每個港股交易日，[電訊盈科提供了now財經台免費節目試看服務](../Page/電訊盈科.md "wikilink")。觀眾同時可以透過衛星天線接收亞洲衛星3S號C-band，收看now衛星台，在每個港股交易日於08:30-24:00時段播放now財經台的節目（約延遲2分鐘）。
+在2007年8月1日開始的每個港股交易日，[電訊盈科](../Page/電訊盈科.md "wikilink")提供了now財經台免費節目試看服務。觀眾同時可以透過衛星天線接收亞洲衛星3S號C-band，收看now衛星台，在每個港股交易日於08:30-24:00時段播放now財經台的節目（約延遲2分鐘）。
 
 2015年11月30日起，now財經台改以16:9標清格式廣播\[1\]，亦在財經新聞片段加上字幕，但無跟隨[now直播台](https://zh.wikipedia.org/wiki/now直播台 "wikilink")（331頻道）及[now新聞台](https://zh.wikipedia.org/wiki/now新聞台 "wikilink")（332頻道）成為免費頻道。2016年4月6日起，now財經台更從「一站式套餐」中被剔除。
 
@@ -15,23 +12,19 @@ Disc媒介儲存](https://zh.wikipedia.org/wiki/Professional_Disc "wikilink")，
 
 2018年7月，為配合新聞台及財經台高清化最後準備，now財經新聞因高清準備關係而暫更改使用now新聞台直播室，7月30日的《環球金融快線》亦因高清化遲播出15分鐘。
 
-2018年8月13日，now財經台由正式由標清升級為高清及標清共享台號頻道。機頂盒版本資訊列新聞跑馬燈及台徽片首先在凌晨2時啟用，首個播放的高清節目為《[經緯線
-(電視節目)](../Page/經緯線_\(電視節目\).md "wikilink")》。同年12月3日，now財經台使用全新廠景。
+2018年8月13日，now財經台由正式由標清升級為高清及標清共享台號頻道。機頂盒版本資訊列新聞跑馬燈及台徽片首先在凌晨2時啟用，首個播放的高清節目為《[經緯線 (電視節目)](../Page/經緯線_\(電視節目\).md "wikilink")》。同年12月3日，now財經台使用全新廠景。
 
 ## 資訊列及新聞跑馬燈
 
-啟播初期，資訊列及新聞跑馬燈分別於畫面上方及下方顯示。資訊列底色為半透明黑色，依次顯示台徽、一項主要指數及一項匯率。新聞跑馬燈分兩行顯示各股票最新報價，底色分別為白色及藍色，而藍色的一行於非港股交易日及星期六、日會改為顯示新聞。畫面右下方顯示時間（底色為橙色）、天文台總部溫度及濕度、當時生效警告及天色（底色為半透明黑色，隠約可見新聞跑馬燈，與新聞跑馬燈並排）。\[2\]當有特別消息，會於畫面右方以黑底橫字顯示，並標示為「News
-Alert」。
+啟播初期，資訊列及新聞跑馬燈分別於畫面上方及下方顯示。資訊列底色為半透明黑色，依次顯示台徽、一項主要指數及一項匯率。新聞跑馬燈分兩行顯示各股票最新報價，底色分別為白色及藍色，而藍色的一行於非港股交易日及星期六、日會改為顯示新聞。畫面右下方顯示時間（底色為橙色）、天文台總部溫度及濕度、當時生效警告及天色（底色為半透明黑色，隠約可見新聞跑馬燈，與新聞跑馬燈並排）。\[2\]當有特別消息，會於畫面右方以黑底橫字顯示，並標示為「News Alert」。
 
-2010年9月中起，資訊列及新聞跑馬燈仍然分別於畫面上方及下方顯示，但設計有所改變。資訊列底色改為藍色，依次顯示兩項主要指數及匯率。新聞跑馬燈分三欄兩行顯示，但並非貼近畫面邊緣。左邊一欄顯示台徽及時間，底色為白色至黑色漸變，其中白色集中在右上一點。中間一欄最長，兩行均水平滾動顯示股票最新報價，底色分別為藍色及白色，而白色的一行於非港股交易日及星期六、日會改為顯示新聞。右方一欄滾動顯示天氣（包括當時生效警告（[熱帶氣旋警告及](../Page/香港熱帶氣旋警告信號.md "wikilink")[暴雨警告信號則在資訊列左下方顯示](../Page/香港暴雨警告信號.md "wikilink")）及天色、天文台總部溫度及濕度，底色為半透明淡藍色，隠約可見新聞跑馬燈）及一項或以上焦點股票/指數報價（只限港股交易日，名稱藍字白底，報價白字藍底）。《牛熊先機》及港股交易日《Now午間新聞》會在新聞跑馬燈右方一欄的上邊顯示開市倒數時間。在星期六、日非與[Now新聞台聯播時段及播映資訊節目期間](../Page/Now新聞台.md "wikilink")，會於資訊列左下方顯示節目名稱。\[3\]
+2010年9月中起，資訊列及新聞跑馬燈仍然分別於畫面上方及下方顯示，但設計有所改變。資訊列底色改為藍色，依次顯示兩項主要指數及匯率。新聞跑馬燈分三欄兩行顯示，但並非貼近畫面邊緣。左邊一欄顯示台徽及時間，底色為白色至黑色漸變，其中白色集中在右上一點。中間一欄最長，兩行均水平滾動顯示股票最新報價，底色分別為藍色及白色，而白色的一行於非港股交易日及星期六、日會改為顯示新聞。右方一欄滾動顯示天氣（包括當時生效警告（[熱帶氣旋警告及](../Page/香港熱帶氣旋警告信號.md "wikilink")[暴雨警告信號則在資訊列左下方顯示](../Page/香港暴雨警告信號.md "wikilink")）及天色、天文台總部溫度及濕度，底色為半透明淡藍色，隠約可見新聞跑馬燈）及一項或以上焦點股票/指數報價（只限港股交易日，名稱藍字白底，報價白字藍底）。《牛熊先機》及港股交易日《Now午間新聞》會在新聞跑馬燈右方一欄的上邊顯示開市倒數時間。在星期六、日非與[Now新聞台](../Page/Now新聞台.md "wikilink")聯播時段及播映資訊節目期間，會於資訊列左下方顯示節目名稱。\[3\]
 
-2015年11月30日起，now財經台及now新聞台改以16:9標清格式廣播後，資訊列及新聞跑馬燈設計完全改變，均並非貼近畫面邊緣。資訊列改為在右上方分兩欄顯示，左方一欄垂直滾動顯示當時生效警告以及溫度、或以上天文台總部最高或最低氣溫、濕度（[熱帶氣旋警告及](../Page/香港熱帶氣旋警告信號.md "wikilink")[暴雨警告信號則在資訊列左邊顯示](../Page/香港暴雨警告信號.md "wikilink")），底色為深藍色；右方一欄顯示時間，底色為白色。新聞跑馬燈分三欄顯示。左邊一欄顯示台徽，底色為白色(並以中文及英文名稱顯示)。《牛熊先機》及港股交易日《Now午間新聞》會在台徽上邊顯示開市倒數時間。中間一欄最長，水平滾動顯示股票最新報價，底色為白色。右方一欄顯示一項焦點股票最新報價、兩項主要指數及一項匯率，非港股交易日及星期六、日則只顯示一項主要指數或匯率。\[4\]而當有特別新聞，會於畫面左上方以橙底黑字顯示，並標示為「News
-Alert」。
+2015年11月30日起，now財經台及now新聞台改以16:9標清格式廣播後，資訊列及新聞跑馬燈設計完全改變，均並非貼近畫面邊緣。資訊列改為在右上方分兩欄顯示，左方一欄垂直滾動顯示當時生效警告以及溫度、或以上天文台總部最高或最低氣溫、濕度（[熱帶氣旋警告及](../Page/香港熱帶氣旋警告信號.md "wikilink")[暴雨警告信號則在資訊列左邊顯示](../Page/香港暴雨警告信號.md "wikilink")），底色為深藍色；右方一欄顯示時間，底色為白色。新聞跑馬燈分三欄顯示。左邊一欄顯示台徽，底色為白色(並以中文及英文名稱顯示)。《牛熊先機》及港股交易日《Now午間新聞》會在台徽上邊顯示開市倒數時間。中間一欄最長，水平滾動顯示股票最新報價，底色為白色。右方一欄顯示一項焦點股票最新報價、兩項主要指數及一項匯率，非港股交易日及星期六、日則只顯示一項主要指數或匯率。\[4\]而當有特別新聞，會於畫面左上方以橙底黑字顯示，並標示為「News Alert」。
 
 2017年3月22日起，增設顯示財經新聞跑馬燈底色為深藍色。
 
-2018年9月17日起，逢港股交易日 08:30-17:00
-採用全新資訊列及新聞跑馬燈，右方顯示焦點股票最新報價同新聞,下方顯示主要指數,股票最新報價及匯率
+2018年9月17日起，逢港股交易日 08:30-17:00 採用全新資訊列及新聞跑馬燈，右方顯示焦點股票最新報價同新聞,下方顯示主要指數,股票最新報價及匯率
 
 播映贊助節目期間，或因技術問題，資訊列及新聞跑馬燈暫時未能顯示，會於畫面左上方顯示台徽。
 
@@ -57,8 +50,7 @@ Alert」。
   -
     在港股交易時段為投資者提供最新市況。
     掌握第一手早市資訊、緊貼市場走勢，為投資者提供全面股市資訊，並分析港股焦點。駐港交所記者和駐上海記者會為投資者提供最新港股和內地A股消息；亦會請來分析員及專家對談，分析股票、大戶和資金動向，提供證券行報告及投資評級摘要。分析歐洲和亞太地區股市表現，同時報道全球財經消息、匯市形勢、窩輪表現、深港通及滬港通消息。
-    原設《333
-    互動民調》環節，但因2013年6月4日節目期間就六四議題打擦邊球，結果該撰稿人被解僱，及後更取消了該環節，以免類似事件再發生。\[5\]
+    原設《333 互動民調》環節，但因2013年6月4日節目期間就六四議題打擦邊球，結果該撰稿人被解僱，及後更取消了該環節，以免類似事件再發生。\[5\]
     播放時間：逢港股交易日09:30-12:00（上午）、13:00-16:00（下午，下午休市除外），另於當日23:30-00:00播出精華片段（即《交易時段精華》）
     　（每半小時一節，除09:30、10:30及13:30每節分為兩個部分外，其他每節分為三個部分）\[6\]
 
@@ -71,8 +63,7 @@ Alert」。
   - 駐上海記者：財經記者（上午《滬股動向》與之聯絡）
   - 《股市脈搏》環節主持：新聞主播
   - 《槓桿致勝》環節主持：新聞主播
-  - 《名家給力場》（僅限第一節）、《財經 TOP
-    SEARCH》及《[醒晨推介](http://finance.now.com/analysis/study.php?topicId=35)》（僅限第二節）都會於交易日當晚23:30-00:00重播。
+  - 《名家給力場》（僅限第一節）、《財經 TOP SEARCH》及《[醒晨推介](http://finance.now.com/analysis/study.php?topicId=35)》（僅限第二節）都會於交易日當晚23:30-00:00重播。
 
 <!-- end list -->
 
@@ -81,34 +72,23 @@ Alert」。
 <!-- end list -->
 
   - 《開市焦點》（播放時間：09:30 一節 第一部分）
-  - 《港交所直擊》（播放時間：09:30、10:30、11:00、13:00、13:30、14:00、14:30、15:30 每節第一部分
-    及 11:00 一節 第三部分；13:00及15:30會與嘉賓分析市況）
+  - 《港交所直擊》（播放時間：09:30、10:30、11:00、13:00、13:30、14:00、14:30、15:30 每節第一部分 及 11:00 一節 第三部分；13:00及15:30會與嘉賓分析市況）
   - 《滬深直擊》（播放時間：09:30 一節 第二部分、11:30 一節 第一部分 及 13:00 一節 第三部分；只限內地股市交易日）
   - 《滬股動向》（播放時間：09:30 一節 第二部分；只限內地股市交易日）
-  - 《[真人對話](https://finance.now.com/analysis/study.php?topicId=62)》（播放時間：10:00
-    一節 第一、二部分）
-  - 《[股市脈搏](http://finance.now.com/analysis/study.php?topicId=10)》（播放時間：10:00
-    一節 第三部分、11:30 一節 第二部分 及 14:30 一節 第三部分）
-  - 《[大行報告](http://finance.now.com/analysis/study.php?topicId=4)》（播放時間：10:30
-    一節 第一部分、11:00、14:00 每節第三部分 及 13:00 一節 第二部分）
-  - 《[槓桿致勝](https://finance.now.com/analysis/study.php?topicId=61)》（播放時間：10:30
-    一節 第二部分）
+  - 《[真人對話](https://finance.now.com/analysis/study.php?topicId=62)》（播放時間：10:00 一節 第一、二部分）
+  - 《[股市脈搏](http://finance.now.com/analysis/study.php?topicId=10)》（播放時間：10:00 一節 第三部分、11:30 一節 第二部分 及 14:30 一節 第三部分）
+  - 《[大行報告](http://finance.now.com/analysis/study.php?topicId=4)》（播放時間：10:30 一節 第一部分、11:00、14:00 每節第三部分 及 13:00 一節 第二部分）
+  - 《[槓桿致勝](https://finance.now.com/analysis/study.php?topicId=61)》（播放時間：10:30 一節 第二部分）
   - 《匯市攻略》（播放時間：11:00 一節 第二部分）
-  - 《[財經 TOP
-    SEARCH](http://finance.now.com/analysis/study.php?topicId=50)》（播放時間：11:30
-    一節 第三部分）
+  - 《[財經 TOP SEARCH](http://finance.now.com/analysis/study.php?topicId=50)》（播放時間：11:30 一節 第三部分）
   - 《神州內望》（播放時間：13:00 一節 第三部分；只限內地股市交易日）
   - 《醒晨推介》（播放時間：13:00 一節 第三部分，重播第一節；只限非內地股市交易日）
-  - 《[名家給力場](http://finance.now.com/analysis/study.php?topicId=3)》（播放時間：13:30
-    一節 第二部分）
+  - 《[名家給力場](http://finance.now.com/analysis/study.php?topicId=3)》（播放時間：13:30 一節 第二部分）
   - 《樓市指南針》（播放時間：14:00 一節 第二部分）
   - 《滬港互講》（播放時間：15:00 一節 第一部分；只限內地股市交易日）
-  - 《[期匯決算](http://finance.now.com/analysis/study.php?topicId=6)》（播放時間：15:00
-    一節 第二、三部分）
-  - 《[息賺](http://finance.now.com/analysis/study.php?topicId=52)》（播放時間：14:30
-    一節 只限逢星期一第二部分；同晚19:00-06:00期間歇性重播）
-  - 《[魚樂無窮](http://finance.now.com/analysis/study.php?topicId=49)》（播放時間：14:30
-    一節 只限逢星期五第二部分；同晚19:00-06:00期間歇性重播）
+  - 《[期匯決算](http://finance.now.com/analysis/study.php?topicId=6)》（播放時間：15:00 一節 第二、三部分）
+  - 《[息賺](http://finance.now.com/analysis/study.php?topicId=52)》（播放時間：14:30 一節 只限逢星期一第二部分；同晚19:00-06:00期間歇性重播）
+  - 《[魚樂無窮](http://finance.now.com/analysis/study.php?topicId=49)》（播放時間：14:30 一節 只限逢星期五第二部分；同晚19:00-06:00期間歇性重播）
 
 ### 《[午間股評](http://finance.now.com/analysis/study.php?topicId=14)》（）
 
@@ -199,8 +179,7 @@ Alert」。
   - 節目安排：
       - （星期一）《樓市熱話》、《[置業攻略](https://finance.now.com/analysis/study.php?topicId=59&c=126)》，《[示位Show](https://finance.now.com/analysis/study.php?topicId=57&c=126)》、《放盤速遞》
       - （星期二）《樓市熱話》、《最爆成交》，《[樓計飾](https://finance.now.com/analysis/study.php?topicId=56&c=126)》、《放盤速遞》
-      - （星期三）《樓市熱話》、《[生活情報](https://finance.now.com/analysis/study.php?topicId=60&c=126)》，《[二手HOT
-        PICK](https://finance.now.com/analysis/study.php?topicId=55&c=126)》、《放盤速遞》
+      - （星期三）《樓市熱話》、《[生活情報](https://finance.now.com/analysis/study.php?topicId=60&c=126)》，《[二手HOT PICK](https://finance.now.com/analysis/study.php?topicId=55&c=126)》、《放盤速遞》
       - （星期四）《樓市熱話》、《[置業攻略](https://finance.now.com/analysis/study.php?topicId=59&c=126)》，《[都會藍圖](https://finance.now.com/analysis/study.php?topicId=58&c=126)》、《放盤速遞》
       - （星期五）《樓市熱話》、《最爆成交》，《[新屋入伙](https://finance.now.com/analysis/study.php?topicId=31&c=126)》、《放盤速遞》
 
@@ -252,7 +231,7 @@ Alert」。
 
 ## 其他節目
 
-### [香港電台資訊節目](../Page/香港電台.md "wikilink")
+### [香港電台](../Page/香港電台.md "wikilink")資訊節目
 
   - 《[鏗鏘集](../Page/鏗鏘集.md "wikilink")》：星期六、日18:30-19:00。
   - 《[議事論事](../Page/議事論事.md "wikilink")》：星期六、日14:30-15:00。
@@ -280,7 +259,7 @@ Alert」。
 
   - <span style="color: green;">**綠字**</span>是與[now新聞台聯播](https://zh.wikipedia.org/wiki/now新聞台 "wikilink")；
     <span style="color: red;">**紅字**</span>代表獨立播放時段，
-    而<span style="color: purple;">**紫字**</span>則代表[香港電台或自製資訊節目時段](../Page/香港電台.md "wikilink")。
+    而<span style="color: purple;">**紫字**</span>則代表[香港電台](../Page/香港電台.md "wikilink")或自製資訊節目時段。
 
 <table>
 <colgroup>
@@ -463,7 +442,7 @@ now財經台直播室（右方）<br />
 附註：如果當日港股下午休市，<br />
 12:50-17:00改為與now新聞台聯播節目<br />
 <br />
-附註1：如《城市論壇》暫停播映，改為播映<a href="../Page/港台電視31、31A.md" title="wikilink">港台電視31、31A當日</a>12:00節目<br />
+附註1：如《城市論壇》暫停播映，改為播映<a href="../Page/港台電視31、31A.md" title="wikilink">港台電視31、31A</a>當日12:00節目<br />
 <br />
 附註2：立法會暑期休會期間，《議事論事》暫停播映，改為重播其他港台節目</p></td>
 <td></td>
@@ -918,7 +897,7 @@ now財經台副直播室（中間大屏幕）<br />
 </table>
 
   - 「財經專題節目」代表《息賺》、《理財有方》、《數字．你懂的》、《商滙大灣區》、《魚樂無窮》（星期一至五順序）。
-  - 可對比[ViuTV啟播之前](../Page/ViuTV.md "wikilink")\[13\]及之後\[14\]的now財經台節目表。
+  - 可對比[ViuTV](../Page/ViuTV.md "wikilink")啟播之前\[13\]及之後\[14\]的now財經台節目表。
 
 ## now財經台主播、主持及記者
 
@@ -933,10 +912,7 @@ now財經台副直播室（中間大屏幕）<br />
   - [now.com財經主頁](http://finance.now.com)
   - [now新聞台、now財經台YouTube頻道](http://www.youtube.com/user/nowbnc)
 
-[Category:香港電視播放頻道](https://zh.wikipedia.org/wiki/Category:香港電視播放頻道 "wikilink")
-[Category:2006年成立的電視台或電視頻道](https://zh.wikipedia.org/wiki/Category:2006年成立的電視台或電視頻道 "wikilink")
-[Category:Now_TV](https://zh.wikipedia.org/wiki/Category:Now_TV "wikilink")
-[Category:財經](https://zh.wikipedia.org/wiki/Category:財經 "wikilink")
+[Category:香港電視播放頻道](https://zh.wikipedia.org/wiki/Category:香港電視播放頻道 "wikilink") [Category:2006年成立的電視台或電視頻道](https://zh.wikipedia.org/wiki/Category:2006年成立的電視台或電視頻道 "wikilink") [Category:Now_TV](https://zh.wikipedia.org/wiki/Category:Now_TV "wikilink") [Category:財經](https://zh.wikipedia.org/wiki/Category:財經 "wikilink")
 
 1.  [now新聞台‧11月30日‧拉闊新聞視野](http://news.now.com/home/local/player?newsId=158692)
 2.

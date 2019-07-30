@@ -1,4 +1,4 @@
-**藤子·F·不二雄製作公司**，日文全名「****」（台灣[青文出版社譯為](../Page/青文出版社.md "wikilink")**藤子·F·不二雄創作公司**），是[藤子·F·不二雄所創立的](../Page/藤子·F·不二雄.md "wikilink")[漫畫製作公司](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，通稱「****」（藤子製作）。前代表[非執行董事會長是藤本正子](https://zh.wikipedia.org/wiki/非執行董事 "wikilink")，代表[執行董事社長是伊藤善章](https://zh.wikipedia.org/wiki/執行董事 "wikilink")（前[小學館製作董事](https://zh.wikipedia.org/wiki/小學館製作 "wikilink")）。
+**藤子·F·不二雄製作公司**，日文全名「****」（台灣[青文出版社](../Page/青文出版社.md "wikilink")譯為**藤子·F·不二雄創作公司**），是[藤子·F·不二雄](../Page/藤子·F·不二雄.md "wikilink")所創立的[漫畫製作公司](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，通稱「****」（藤子製作）。前代表[非執行董事會長是藤本正子](https://zh.wikipedia.org/wiki/非執行董事 "wikilink")，代表[執行董事社長是伊藤善章](https://zh.wikipedia.org/wiki/執行董事 "wikilink")（前[小學館製作董事](https://zh.wikipedia.org/wiki/小學館製作 "wikilink")）。
 
 ## 概要
 
@@ -37,8 +37,4 @@
 
   - [藤子·F·不二雄製作公司](https://web.archive.org/web/20061130031240/http://dora-world.com/index.html)
 
-[Category:1990年代開業公司](https://zh.wikipedia.org/wiki/Category:1990年代開業公司 "wikilink")
-[Category:日本電影公司](https://zh.wikipedia.org/wiki/Category:日本電影公司 "wikilink")
-[Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink")
-[Category:藤子·F·不二雄](https://zh.wikipedia.org/wiki/Category:藤子·F·不二雄 "wikilink")
-[Category:新宿區公司](https://zh.wikipedia.org/wiki/Category:新宿區公司 "wikilink")
+[Category:1990年代開業公司](https://zh.wikipedia.org/wiki/Category:1990年代開業公司 "wikilink") [Category:日本電影公司](https://zh.wikipedia.org/wiki/Category:日本電影公司 "wikilink") [Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink") [Category:藤子·F·不二雄](https://zh.wikipedia.org/wiki/Category:藤子·F·不二雄 "wikilink") [Category:新宿區公司](https://zh.wikipedia.org/wiki/Category:新宿區公司 "wikilink")

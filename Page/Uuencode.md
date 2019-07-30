@@ -1,5 +1,4 @@
-**uuencode**這個名字是衍生自"Unix-to-Unix
-encoding"，原先是[Unix系統下將](https://zh.wikipedia.org/wiki/Unix "wikilink")[二進位的資料藉由](https://zh.wikipedia.org/wiki/二進位數字系統 "wikilink")[uucp郵件系統傳輸的一個](../Page/UUCP.md "wikilink")[編碼程式](https://zh.wikipedia.org/wiki/編碼 "wikilink")，是一種[二進位到文字的編碼](https://zh.wikipedia.org/wiki/二進位到文字的編碼 "wikilink")。**uudecode**是與uuencode搭配的解碼程式，uuencode/decode常見於[電子郵件中的檔案傳送以及](https://zh.wikipedia.org/wiki/電子郵件 "wikilink")[usenet新聞群組和](https://zh.wikipedia.org/wiki/usenet "wikilink")[BBS的貼文等等](../Page/BBS.md "wikilink")。近來已被[MIME所大量取代](https://zh.wikipedia.org/wiki/MIME "wikilink")。
+**uuencode**這個名字是衍生自"Unix-to-Unix encoding"，原先是[Unix系統下將](https://zh.wikipedia.org/wiki/Unix "wikilink")[二進位的資料藉由](https://zh.wikipedia.org/wiki/二進位數字系統 "wikilink")[uucp郵件系統傳輸的一個](../Page/UUCP.md "wikilink")[編碼程式](https://zh.wikipedia.org/wiki/編碼 "wikilink")，是一種[二進位到文字的編碼](https://zh.wikipedia.org/wiki/二進位到文字的編碼 "wikilink")。**uudecode**是與uuencode搭配的解碼程式，uuencode/decode常見於[電子郵件中的檔案傳送以及](https://zh.wikipedia.org/wiki/電子郵件 "wikilink")[usenet新聞群組和](https://zh.wikipedia.org/wiki/usenet "wikilink")[BBS](../Page/BBS.md "wikilink")的貼文等等。近來已被[MIME所大量取代](https://zh.wikipedia.org/wiki/MIME "wikilink")。
 
 ## 編碼程序
 
@@ -21,8 +20,7 @@ Uuencode的編碼結果輸出檔案格式如下：
 |  擁有人  |  群組   |  其他人  |
 | 讀取（r） | 寫入（w） | 執行（x） |
 
-舉例而言：當<輸入檔存取模式>為
-**666**，轉換成二進位碼為**110110110**，也就是擁有人、群組以及其他人對於這個檔案都有讀取以及寫入的權力。
+舉例而言：當<輸入檔存取模式>為 **666**，轉換成二進位碼為**110110110**，也就是擁有人、群組以及其他人對於這個檔案都有讀取以及寫入的權力。
 
 ### <輸入檔名>
 
@@ -42,12 +40,11 @@ Uuencode將輸入資料以每三個[位元組為單位進行編碼](https://zh.w
 
 #### <編碼字元字串>
 
-**<編碼字元字串>**是依照編碼結果依序填入，惟獨要注意一點：當6-bit的資料為零時，編碼應為*空白*這個字元，但是在uuencode中都用*[\`](https://zh.wikipedia.org/wiki/grave_accent "wikilink")*這個字元來取代，這是因為它們的末六bit都是
-100.000。
+**<編碼字元字串>**是依照編碼結果依序填入，惟獨要注意一點：當6-bit的資料為零時，編碼應為*空白*這個字元，但是在uuencode中都用*[\`](https://zh.wikipedia.org/wiki/grave_accent "wikilink")*這個字元來取代，這是因為它們的末六bit都是 100.000。
 
 #### 例外狀況
 
-前面所說的只適用於使用ASCII字元集的電腦系統，有些比較舊型的電腦他們使用非ASCII字元集（如[EBCDIC字元集](../Page/EBCDIC.md "wikilink")）。要解決這個問題，[Xxencode是較為適切的編碼系統](https://zh.wikipedia.org/wiki/Xxencode "wikilink")，它只使用到文數字字元集以及加減號字元。
+前面所說的只適用於使用ASCII字元集的電腦系統，有些比較舊型的電腦他們使用非ASCII字元集（如[EBCDIC](../Page/EBCDIC.md "wikilink")字元集）。要解決這個問題，[Xxencode是較為適切的編碼系統](https://zh.wikipedia.org/wiki/Xxencode "wikilink")，它只使用到文數字字元集以及加減號字元。
 
 ## uuencode編碼範例
 
@@ -75,15 +72,7 @@ Uuencode將輸入資料以每三個[位元組為單位進行編碼](https://zh.w
 
 底下是引用自英文版的一段文字，將其存成test.txt，引用文字如下：
 
-*Each group of sixty output characters (corresponding to 45 input bytes)
-is output as a separate line preceded by an encoded character giving the
-number of encoded bytes on that line. For all lines except the last,
-this will be the character 'M' (ASCII code 77 = 32+45). If the input is
-not evenly divisible by 45, the last line will contain the remaining N
-output characters, preceded by the character whose code is 32 + the
-number of remaining input bytes. Finally, a line containing just a
-single space (or grave character) is output, followed by one line
-containing the string "end".*
+*Each group of sixty output characters (corresponding to 45 input bytes) is output as a separate line preceded by an encoded character giving the number of encoded bytes on that line. For all lines except the last, this will be the character 'M' (ASCII code 77 = 32+45). If the input is not evenly divisible by 45, the last line will contain the remaining N output characters, preceded by the character whose code is 32 + the number of remaining input bytes. Finally, a line containing just a single space (or grave character) is output, followed by one line containing the string "end".*
 
 使用uuencode編碼後的檔案為：
 
@@ -516,13 +505,7 @@ containing the string "end".*
 
 ## 外部連結
 
-  - [UUDeview](http://www.fpx.de/fp/Software/UUDeview/) -
-    適用於Unix/Windows/DOS等作業系統，使用Base64, BinHex, uuencode, xxencode,
-    ...等方法編／解碼的開放源碼程式。
+  - [UUDeview](http://www.fpx.de/fp/Software/UUDeview/) - 適用於Unix/Windows/DOS等作業系統，使用Base64, BinHex, uuencode, xxencode, ...等方法編／解碼的開放源碼程式。
   - [在线uuencode编码与解码](http://www.mxcz.net/tools/uuencode.aspx)
 
-[Category:电子邮件](https://zh.wikipedia.org/wiki/Category:电子邮件 "wikilink")
-[Category:Unix_SUS2008实用工具](https://zh.wikipedia.org/wiki/Category:Unix_SUS2008实用工具 "wikilink")
-[Category:Usenet](https://zh.wikipedia.org/wiki/Category:Usenet "wikilink")
-[Category:字符编码](https://zh.wikipedia.org/wiki/Category:字符编码 "wikilink")
-[Category:文件格式](https://zh.wikipedia.org/wiki/Category:文件格式 "wikilink")
+[Category:电子邮件](https://zh.wikipedia.org/wiki/Category:电子邮件 "wikilink") [Category:Unix_SUS2008实用工具](https://zh.wikipedia.org/wiki/Category:Unix_SUS2008实用工具 "wikilink") [Category:Usenet](https://zh.wikipedia.org/wiki/Category:Usenet "wikilink") [Category:字符编码](https://zh.wikipedia.org/wiki/Category:字符编码 "wikilink") [Category:文件格式](https://zh.wikipedia.org/wiki/Category:文件格式 "wikilink")

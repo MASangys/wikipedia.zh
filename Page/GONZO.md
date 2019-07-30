@@ -10,9 +10,7 @@
 
 ## 沿革
 
-[gonzo-ologo.png](https://zh.wikipedia.org/wiki/File:gonzo-ologo.png "fig:gonzo-ologo.png")
-[g.d.h.-ologo.png](https://zh.wikipedia.org/wiki/File:g.d.h.-ologo.png "fig:g.d.h.-ologo.png")
-[gdhlogo.png](https://zh.wikipedia.org/wiki/File:gdhlogo.png "fig:gdhlogo.png")
+[gonzo-ologo.png](https://zh.wikipedia.org/wiki/File:gonzo-ologo.png "fig:gonzo-ologo.png") [g.d.h.-ologo.png](https://zh.wikipedia.org/wiki/File:g.d.h.-ologo.png "fig:g.d.h.-ologo.png") [gdhlogo.png](https://zh.wikipedia.org/wiki/File:gdhlogo.png "fig:gdhlogo.png")
 
   - 1992年9月：設立。
 
@@ -38,13 +36,11 @@
 
 <!-- end list -->
 
-  - 2003年11月：以音樂制作及[著作權管理為目的之](../Page/著作權.md "wikilink")設立。
+  - 2003年11月：以音樂制作及[著作權](../Page/著作權.md "wikilink")管理為目的之設立。
 
 <!-- end list -->
 
-  - 2004年7月，社名變更：Gonzo Digimation Holding→GDH、GONZO
-    DIGIMATION→GONZO、Creators.com→
-    \[3\]\<；11月，GDH股票在[東證](../Page/東京證券交易所.md "wikilink")[創業板上市](../Page/創業板.md "wikilink")。
+  - 2004年7月，社名變更：Gonzo Digimation Holding→GDH、GONZO DIGIMATION→GONZO、Creators.com→ \[3\]\<；11月，GDH股票在[東證](../Page/東京證券交易所.md "wikilink")[創業板](../Page/創業板.md "wikilink")上市。
 
 <!-- end list -->
 
@@ -56,8 +52,7 @@
 
 <!-- end list -->
 
-  - 2007年：3月，GONZO Rosso
-    Online吸收合併G-creators，更名為；6月18日，傳出GDH與中國大陸[深圳](https://zh.wikipedia.org/wiki/深圳 "wikilink")[力合数字电视將合資成立](https://zh.wikipedia.org/wiki/力合数字电视 "wikilink")的消息\[4\]\[5\]\[6\]；12月17日，正式宣布於2008年1月設立\[7\]。
+  - 2007年：3月，GONZO Rosso Online吸收合併G-creators，更名為；6月18日，傳出GDH與中國大陸[深圳](https://zh.wikipedia.org/wiki/深圳 "wikilink")[力合数字电视將合資成立](https://zh.wikipedia.org/wiki/力合数字电视 "wikilink")的消息\[4\]\[5\]\[6\]；12月17日，正式宣布於2008年1月設立\[7\]。
 
 <!-- end list -->
 
@@ -65,25 +60,19 @@
 
 <!-- end list -->
 
-  - 2009年：1月23日，GDH與台灣[中華電信MOD合作推出動畫頻道](../Page/中華電信MOD.md "wikilink")「GONZO
-    CHANNEL」\[8\]；3月31日，GDH全數出脫GONZO
-    Rosso持股；4月，GDH裁併GONZO、以GONZO之名重回業界；7月，東證公告除牌；10月，將GK
-    Entertainment全數持股賣給GKH。
+  - 2009年：1月23日，GDH與台灣[中華電信MOD](../Page/中華電信MOD.md "wikilink")合作推出動畫頻道「GONZO CHANNEL」\[8\]；3月31日，GDH全數出脫GONZO Rosso持股；4月，GDH裁併GONZO、以GONZO之名重回業界；7月，東證公告除牌；10月，將GK Entertainment全數持股賣給GKH。
 
 <!-- end list -->
 
-  - 2012年：3月31日，[清算海外公司](../Page/清盤.md "wikilink")「GDH (M)
-    SDN.BHD.」；7月9日，將Future Vision
-    Music賣給[創通](../Page/創通.md "wikilink")。
+  - 2012年：3月31日，[清算海外公司](../Page/清盤.md "wikilink")「GDH (M) SDN.BHD.」；7月9日，將Future Vision Music賣給[創通](../Page/創通.md "wikilink")。
 
 <!-- end list -->
 
-  - 2016年：7月14日，[旭通DK宣布收購GONZO股份並納入旗下](../Page/旭通DK.md "wikilink")。
+  - 2016年：7月14日，[旭通DK](../Page/旭通DK.md "wikilink")宣布收購GONZO股份並納入旗下。
 
 ## 大事記
 
-  - 1992年，动画制片人[村滨章司](https://zh.wikipedia.org/wiki/村滨章司 "wikilink")、动画导演[前田真宏和](../Page/前田真宏.md "wikilink")[樋口真嗣等人组建GONZO](../Page/樋口真嗣.md "wikilink")，其中村滨章司出资300万日元。当年他们接手的第一份工作是为MTV《ROCKET
-    DIVE》制作一只[3D的宇宙船](https://zh.wikipedia.org/wiki/3D "wikilink")。其後工作均以美術為主。
+  - 1992年，动画制片人[村滨章司](https://zh.wikipedia.org/wiki/村滨章司 "wikilink")、动画导演[前田真宏](../Page/前田真宏.md "wikilink")和[樋口真嗣](../Page/樋口真嗣.md "wikilink")等人组建GONZO，其中村滨章司出资300万日元。当年他们接手的第一份工作是为MTV《ROCKET DIVE》制作一只[3D的宇宙船](https://zh.wikipedia.org/wiki/3D "wikilink")。其後工作均以美術為主。
 
 <!-- end list -->
 
@@ -99,8 +88,7 @@
 
 <!-- end list -->
 
-  - 2002年4月，GONZO与Digimation合併成立GONZO
-    DIGIMATION。主要业务内容是动画作品制作，版权管理及销售管理，3DCG的企划制作，周边产品推广等，公司固定资产突破2亿。這亦促使母公司GDH於2004年成為[上市公司](../Page/上市公司.md "wikilink")。
+  - 2002年4月，GONZO与Digimation合併成立GONZO DIGIMATION。主要业务内容是动画作品制作，版权管理及销售管理，3DCG的企划制作，周边产品推广等，公司固定资产突破2亿。這亦促使母公司GDH於2004年成為[上市公司](../Page/上市公司.md "wikilink")。
 
 <!-- end list -->
 
@@ -116,12 +104,11 @@
 
 <!-- end list -->
 
-  - 2008年3月，GDH的年度结算中负债[資產超过](../Page/資產.md "wikilink")[东证的规定](https://zh.wikipedia.org/wiki/东京证券交易所 "wikilink")，4月1日GDH的股票进入“犹豫期”；9月10日，投資公司宣布對GDH進行股份公開收購，總增資金額日幣21億3000萬元\[9\]\[10\]。
+  - 2008年3月，GDH的年度结算中负债[資產](../Page/資產.md "wikilink")超过[东证的规定](https://zh.wikipedia.org/wiki/东京证券交易所 "wikilink")，4月1日GDH的股票进入“犹豫期”；9月10日，投資公司宣布對GDH進行股份公開收購，總增資金額日幣21億3000萬元\[9\]\[10\]。
 
 <!-- end list -->
 
-  - 2009年4月1日，創辦人村滨章司離去、另設公司[Lambda
-    Film](https://zh.wikipedia.org/wiki/Lambda_Film "wikilink")；GDH宣佈与子公司GONZO合併，企業商號統合、承繼品牌為「GONZO」\[11\]。但公司重整未見起色，終被东证公告於7月30日除牌\[12\]。
+  - 2009年4月1日，創辦人村滨章司離去、另設公司[Lambda Film](https://zh.wikipedia.org/wiki/Lambda_Film "wikilink")；GDH宣佈与子公司GONZO合併，企業商號統合、承繼品牌為「GONZO」\[11\]。但公司重整未見起色，終被东证公告於7月30日除牌\[12\]。
 
 <!-- end list -->
 
@@ -182,8 +169,7 @@
   - [萬花筒之星](https://zh.wikipedia.org/wiki/萬花筒之星 "wikilink")（）
   - [最後流亡](../Page/最後流亡.md "wikilink")（LAST EXILE）
   - DigiGirl POP\!（）
-  - [PEACE
-    MAKER鐵](https://zh.wikipedia.org/wiki/PEACE_MAKER鐵 "wikilink")
+  - [PEACE MAKER鐵](https://zh.wikipedia.org/wiki/PEACE_MAKER鐵 "wikilink")
   - [聖槍修女](../Page/聖槍修女.md "wikilink")（）
 
 <!-- end list -->
@@ -219,13 +205,11 @@
 <!-- end list -->
 
   - [魔女之刃](../Page/魔女之刃_\(動畫\).md "wikilink")
-  - [玻璃艦隊](../Page/玻璃艦隊.md "wikilink")（，與[SATELIGHT合力製作](../Page/SATELIGHT.md "wikilink")）
+  - [玻璃艦隊](../Page/玻璃艦隊.md "wikilink")（，與[SATELIGHT](../Page/SATELIGHT.md "wikilink")合力製作）
   - [歡迎加入NHK\!](https://zh.wikipedia.org/wiki/歡迎加入NHK! "wikilink")（）
   - [非戰特攻隊：帝國陸軍情報部第3課](../Page/南瓜剪刀.md "wikilink")（，與AIC共同製作）
-  - [血色花園](https://zh.wikipedia.org/wiki/RED_GARDEN "wikilink")（RED
-    GARDEN）
-  - [雙面騎士](../Page/雙面騎士.md "wikilink")（由[Production
-    I.G外包出來](../Page/Production_I.G.md "wikilink")）
+  - [血色花園](https://zh.wikipedia.org/wiki/RED_GARDEN "wikilink")（RED GARDEN）
+  - [雙面騎士](../Page/雙面騎士.md "wikilink")（由[Production I.G外包出來](../Page/Production_I.G.md "wikilink")）
 
 <!-- end list -->
 
@@ -248,14 +232,12 @@
 <!-- end list -->
 
   - [十字架與吸血鬼](../Page/十字架與吸血鬼.md "wikilink")（）
-  - [迷宮塔
-    ～烏魯克之盾～](https://zh.wikipedia.org/wiki/迷宮塔_\(電視動畫\) "wikilink")（）
+  - [迷宮塔 ～烏魯克之盾～](https://zh.wikipedia.org/wiki/迷宮塔_\(電視動畫\) "wikilink")（）
   - [S·A特優生](../Page/S·A特優生.md "wikilink")（，與AIC共同製作）
   - [武裝機甲](../Page/武裝機甲.md "wikilink")（）
-  - [Strike
-    Witches](https://zh.wikipedia.org/wiki/Strike_Witches "wikilink")（）
+  - [Strike Witches](https://zh.wikipedia.org/wiki/Strike_Witches "wikilink")（）
   - [BLASSREITER](https://zh.wikipedia.org/wiki/BLASSREITER "wikilink")（）
-  - [十字架與吸血鬼CAPU2](../Page/十字架與吸血鬼.md "wikilink")（）
+  - [十字架與吸血鬼](../Page/十字架與吸血鬼.md "wikilink")CAPU2（）
 
 <!-- end list -->
 
@@ -263,8 +245,7 @@
 
 <!-- end list -->
 
-  - [迷宮塔
-    ～烏魯克之劍～](https://zh.wikipedia.org/wiki/迷宮塔_\(電視動畫\) "wikilink")（）
+  - [迷宮塔 ～烏魯克之劍～](https://zh.wikipedia.org/wiki/迷宮塔_\(電視動畫\) "wikilink")（）
   - [香格里拉](../Page/香格里拉_\(科幻小说\).md "wikilink")（）
   - [天才麻將少女](https://zh.wikipedia.org/wiki/天才麻將少女 "wikilink")（第1至14集主製作，第15至25集協力，）
   - 爆炸頭武士RESURRECTION（）
@@ -286,8 +267,7 @@
 
 <!-- end list -->
 
-  - Ozuma（，與[LandQ
-    Studios共同製作](https://zh.wikipedia.org/wiki/LandQ_Studios "wikilink")）
+  - Ozuma（，與[LandQ Studios共同製作](https://zh.wikipedia.org/wiki/LandQ_Studios "wikilink")）
 
 <!-- end list -->
 
@@ -305,8 +285,7 @@
 
 <!-- end list -->
 
-  - [Blade &
-    Soul](https://zh.wikipedia.org/wiki/Blade_&_Soul "wikilink")（）
+  - [Blade & Soul](https://zh.wikipedia.org/wiki/Blade_&_Soul "wikilink")（）
 
 <!-- end list -->
 
@@ -330,12 +309,9 @@
 
 <!-- end list -->
 
-  - [秋葉原之旅 -THE
-    ANIMATION-](../Page/秋葉原之旅_-THE_ANIMATION-.md "wikilink")（）
+  - [秋葉原之旅 -THE ANIMATION-](../Page/秋葉原之旅_-THE_ANIMATION-.md "wikilink")（）
   - [18if](../Page/18if.md "wikilink")（）
-  - [Robomasters：The Animated
-    Series](https://zh.wikipedia.org/wiki/Robomasters：The_Animated_Series "wikilink")（與DandeLion
-    Animation Studio共同製作）
+  - [Robomasters：The Animated Series](https://zh.wikipedia.org/wiki/Robomasters：The_Animated_Series "wikilink")（與DandeLion Animation Studio共同製作）
 
 <table>
 <thead>
@@ -416,23 +392,18 @@
   - [戰鬥妖精雪風](../Page/戰鬥妖精雪風.md "wikilink")（，2002年）
   - [萬花筒之星 鳳凰傳說](https://zh.wikipedia.org/wiki/星夢美少女 "wikilink")（，2005年）
   - [爆裂天使 -INFINITY-](../Page/爆裂天使.md "wikilink")（，2007年）
-  - [Strike
-    WitchesOVA](https://zh.wikipedia.org/wiki/Strike_Witches "wikilink")（，2007年）
-  - [Red Garden OVA:Dead
-    Girls](https://zh.wikipedia.org/wiki/血色花园 "wikilink")
-    （2007年）
+  - [Strike WitchesOVA](https://zh.wikipedia.org/wiki/Strike_Witches "wikilink")（，2007年）
+  - [Red Garden OVA:Dead Girls](https://zh.wikipedia.org/wiki/血色花园 "wikilink") （2007年）
   - [瀨戶的花嫁 OVA 仁](../Page/瀨戶的花嫁_\(漫畫\).md "wikilink")（，2008年，與AIC合力製作）
   - [瀨戶的花嫁 OVA 義](../Page/瀨戶的花嫁_\(漫畫\).md "wikilink")（，2009年，與AIC合力製作）
-  - [超級街頭霸王IV](../Page/街頭霸王IV.md "wikilink")（，2010年，[Xbox
-    360限定版特典](../Page/Xbox_360.md "wikilink")）
+  - [超級街頭霸王IV](../Page/街頭霸王IV.md "wikilink")（，2010年，[Xbox 360限定版特典](../Page/Xbox_360.md "wikilink")）
 
 ### 動畫電影
 
   - [銀髮阿基德](../Page/銀髮阿基德.md "wikilink")（，2006年）
   - [勇者物語](../Page/勇者物語.md "wikilink")（，2006年）
   - [天使特警 劇場版](https://zh.wikipedia.org/wiki/天使特警 "wikilink")（，2007年）
-  - [魔兵驚天錄：噬血宿命](../Page/魔兵驚天錄.md "wikilink")（BAYONETTA Bloody
-    Fate，2013年）
+  - [魔兵驚天錄](../Page/魔兵驚天錄.md "wikilink")：噬血宿命（BAYONETTA Bloody Fate，2013年）
 
 ### 網路放映
 
@@ -441,11 +412,9 @@
 
 ### 其他
 
-  - Macross Dynamite 7（）OP／ED（原製作：[Ashi
-    Productions](../Page/PRODUCTION_REED.md "wikilink")、1997年）
+  - Macross Dynamite 7（）OP／ED（原製作：[Ashi Productions](../Page/PRODUCTION_REED.md "wikilink")、1997年）
   - [電車男OP](../Page/電車男_\(電視劇\).md "wikilink")
-  - Breaking The Habit MV - [Linkin
-    Park](https://zh.wikipedia.org/wiki/Linkin_Park "wikilink")
+  - Breaking The Habit MV - [Linkin Park](https://zh.wikipedia.org/wiki/Linkin_Park "wikilink")
 
 ## 註釋
 
@@ -464,15 +433,9 @@
 
   -
   -
-[Category:GONZO](https://zh.wikipedia.org/wiki/Category:GONZO "wikilink")
-[Category:1992年日本建立](https://zh.wikipedia.org/wiki/Category:1992年日本建立 "wikilink")
-[Category:2000年成立的公司](https://zh.wikipedia.org/wiki/Category:2000年成立的公司 "wikilink")
-[Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink")
-[Category:杉並區公司](https://zh.wikipedia.org/wiki/Category:杉並區公司 "wikilink")
-[Category:東京證券交易所已除牌公司](https://zh.wikipedia.org/wiki/Category:東京證券交易所已除牌公司 "wikilink")
+[Category:GONZO](https://zh.wikipedia.org/wiki/Category:GONZO "wikilink") [Category:1992年日本建立](https://zh.wikipedia.org/wiki/Category:1992年日本建立 "wikilink") [Category:2000年成立的公司](https://zh.wikipedia.org/wiki/Category:2000年成立的公司 "wikilink") [Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink") [Category:杉並區公司](https://zh.wikipedia.org/wiki/Category:杉並區公司 "wikilink") [Category:東京證券交易所已除牌公司](https://zh.wikipedia.org/wiki/Category:東京證券交易所已除牌公司 "wikilink")
 
-1.  [日本功造洛索股份有限公司
-    中國商標註冊申請](http://timesregister.com/Article_Show.aspx?id=243)
+1.  [日本功造洛索股份有限公司 中國商標註冊申請](http://timesregister.com/Article_Show.aspx?id=243)
 2.
 3.
 4.

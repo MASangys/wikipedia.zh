@@ -1,6 +1,6 @@
-**恒生中國H股金融行業指數**，簡稱**H股金融指數**，由[恒生銀行屬下](../Page/恒生銀行.md "wikilink")[恒生指數有限公司負責計算](../Page/恒生指數有限公司.md "wikilink")，於2006年11月27日推出，反映在[香港交易所上市的中國大型金融股的表現](../Page/香港交易所.md "wikilink")。指數採用流通調整市值加權法計算，每隻股票的比重上限設定為15%。
+**恒生中國H股金融行業指數**，簡稱**H股金融指數**，由[恒生銀行](../Page/恒生銀行.md "wikilink")屬下[恒生指數有限公司](../Page/恒生指數有限公司.md "wikilink")負責計算，於2006年11月27日推出，反映在[香港交易所](../Page/香港交易所.md "wikilink")上市的中國大型金融股的表現。指數採用流通調整市值加權法計算，每隻股票的比重上限設定為15%。
 
-這個指數的設立時間正值2006年香港中資金融股熱潮，[國企](https://zh.wikipedia.org/wiki/國企股 "wikilink")[銀行股和](../Page/銀行.md "wikilink")[保險股被熱炒](../Page/保險.md "wikilink")，恒指服務有限公司因而設立指數供投資者及[基金參考](../Page/基金.md "wikilink")。
+這個指數的設立時間正值2006年香港中資金融股熱潮，[國企](https://zh.wikipedia.org/wiki/國企股 "wikilink")[銀行](../Page/銀行.md "wikilink")股和[保險](../Page/保險.md "wikilink")股被熱炒，恒指服務有限公司因而設立指數供投資者及[基金](../Page/基金.md "wikilink")參考。
 
 恒生中國H股金融行業指數基準日為2004年3月5日，當時指數為5033.14點，但指數正式公佈前已超過10000點。
 
@@ -246,6 +246,4 @@
   - [最新指數及各成份股對指數的影響](https://web.archive.org/web/20070104023505/http://www.hsi.com.hk/c_family/hshfi_c.html)
   - [香港股票即市報價](https://web.archive.org/web/20070901054951/http://hkstock.selfip.com/)
 
-[Category:恒生指數系列](https://zh.wikipedia.org/wiki/Category:恒生指數系列 "wikilink")
-[Category:香港交易所上市認股證](https://zh.wikipedia.org/wiki/Category:香港交易所上市認股證 "wikilink")
-[Category:上市公司列表](https://zh.wikipedia.org/wiki/Category:上市公司列表 "wikilink")
+[Category:恒生指數系列](https://zh.wikipedia.org/wiki/Category:恒生指數系列 "wikilink") [Category:香港交易所上市認股證](https://zh.wikipedia.org/wiki/Category:香港交易所上市認股證 "wikilink") [Category:上市公司列表](https://zh.wikipedia.org/wiki/Category:上市公司列表 "wikilink")

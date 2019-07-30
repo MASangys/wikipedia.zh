@@ -1,4 +1,4 @@
-《**壹號皇庭III**》（[英文](https://zh.wikipedia.org/wiki/英語 "wikilink")：），[香港](../Page/香港.md "wikilink")[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[翡翠台時裝法律](../Page/翡翠台.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，於1994年10月10日首播，共20集，監製[鄧特希](../Page/鄧特希.md "wikilink")。逢星期一至五播出。\[1\]\[2\]\[3\]\[4\]
+《**壹號皇庭III**》（[英文](https://zh.wikipedia.org/wiki/英語 "wikilink")：），[香港](../Page/香港.md "wikilink")[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")時裝法律[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，於1994年10月10日首播，共20集，監製[鄧特希](../Page/鄧特希.md "wikilink")。逢星期一至五播出。\[1\]\[2\]\[3\]\[4\]
 
 ## 各集主題
 
@@ -1219,13 +1219,9 @@
 
 ## 主题音乐及插曲
 
-  - 主題音樂：《[Your Latest
-    Trick](https://zh.wikipedia.org/wiki/Your_Latest_Trick "wikilink")》
-      - SAXO-PHONE：[Phil
-        Rombaoa](https://zh.wikipedia.org/wiki/Phil_Rombaoa "wikilink")
-      - 作曲：[Mark
-        Knopfler](https://zh.wikipedia.org/wiki/Mark_Knopfler "wikilink")
-        / [羅雁武](https://zh.wikipedia.org/wiki/羅雁武 "wikilink")
+  - 主題音樂：《[Your Latest Trick](https://zh.wikipedia.org/wiki/Your_Latest_Trick "wikilink")》
+      - SAXO-PHONE：[Phil Rombaoa](https://zh.wikipedia.org/wiki/Phil_Rombaoa "wikilink")
+      - 作曲：[Mark Knopfler](https://zh.wikipedia.org/wiki/Mark_Knopfler "wikilink") / [羅雁武](https://zh.wikipedia.org/wiki/羅雁武 "wikilink")
 
 <!-- end list -->
 
@@ -1243,21 +1239,16 @@
 
 ## 外部連結
 
-  - [無綫電視官方網頁 -
-    壹號皇庭III](https://web.archive.org/web/20080917055940/http://tvcity.tvb.com/drama/just3/index.htm)
-  - [《壹號皇庭III》 GOTV
-    第1集重溫](https://web.archive.org/web/20140222162829/http://gotv.tvb.com/programme/103486/156414/)
+  - [無綫電視官方網頁 - 壹號皇庭III](https://web.archive.org/web/20080917055940/http://tvcity.tvb.com/drama/just3/index.htm)
+  - [《壹號皇庭III》 GOTV 第1集重溫](https://web.archive.org/web/20140222162829/http://gotv.tvb.com/programme/103486/156414/)
 
 ## 參考
 
 ## 電視節目的變遷
 
-[Category:1994年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:1994年無綫電視劇集 "wikilink")
-[Category:無綫電視1990年代背景劇集](https://zh.wikipedia.org/wiki/Category:無綫電視1990年代背景劇集 "wikilink")
+[Category:1994年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:1994年無綫電視劇集 "wikilink") [Category:無綫電視1990年代背景劇集](https://zh.wikipedia.org/wiki/Category:無綫電視1990年代背景劇集 "wikilink")
 
 1.  [](http://mooddiary.pixnet.net/blog/post/32693582-%E5%A3%B9%E8%99%9F%E7%9A%87%E5%BA%AD%E3%80%81%E5%A3%B9%E8%99%9F%E7%9A%87%E5%BA%ADii%E3%80%81%E5%A3%B9%E8%99%9F%E7%9A%87%E5%BA%ADiii%E3%80%81%E5%A3%B9%E8%99%9F%E7%9A%87)
-2.  [File of Justice III 壹 號 皇 庭
-    III](http://tvcity.tvb.com/drama/just3/index.htm)
-3.  [【《壹號皇庭》女星搖籃】 宣萱陳慧珊榮升花旦
-    Sammi王菲雄霸樂壇](https://hk.entertainment.appledaily.com/enews/realtime/article/20161006/55736986)
+2.  [File of Justice III 壹 號 皇 庭 III](http://tvcity.tvb.com/drama/just3/index.htm)
+3.  [【《壹號皇庭》女星搖籃】 宣萱陳慧珊榮升花旦 Sammi王菲雄霸樂壇](https://hk.entertainment.appledaily.com/enews/realtime/article/20161006/55736986)
 4.  [【一首歌】林保怡《和你的每一天》講分手傷痛：我仍然留住記憶](https://www.hk01.com/%E9%9F%B3%E6%A8%82/95575/-%E4%B8%80%E9%A6%96%E6%AD%8C-%E6%9E%97%E4%BF%9D%E6%80%A1-%E5%92%8C%E4%BD%A0%E7%9A%84%E6%AF%8F%E4%B8%80%E5%A4%A9-%E8%AC%9B%E5%88%86%E6%89%8B%E5%82%B7%E7%97%9B-%E6%88%91%E4%BB%8D%E7%84%B6%E7%95%99%E4%BD%8F%E8%A8%98%E6%86%B6)

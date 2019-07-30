@@ -17,14 +17,11 @@
 </tbody>
 </table>
 
-**Swatch網際網路時間**（Swatch Internet
-Time），是[瑞士著名鐘錶業者](https://zh.wikipedia.org/wiki/瑞士 "wikilink")[Swatch與](https://zh.wikipedia.org/wiki/Swatch "wikilink")[麻省理工學院媒體實驗室創辦人](https://zh.wikipedia.org/wiki/麻省理工學院媒體實驗室 "wikilink")[尼古拉斯·尼葛洛龐帝](../Page/尼古拉斯·尼葛洛龐帝.md "wikilink")（）於1998年10月23日合作制定的一種時間度量衡制度，作為網路時制的一種方案，目的之一是為了克服[時區問題](https://zh.wikipedia.org/wiki/時區 "wikilink")，讓世界各地能在同一時間基礎上溝通，不過實際應用並未普及，常見於Swatch所生產的鐘錶上。
+**Swatch網際網路時間**（Swatch Internet Time），是[瑞士著名鐘錶業者](https://zh.wikipedia.org/wiki/瑞士 "wikilink")[Swatch與](https://zh.wikipedia.org/wiki/Swatch "wikilink")[麻省理工學院媒體實驗室創辦人](https://zh.wikipedia.org/wiki/麻省理工學院媒體實驗室 "wikilink")[尼古拉斯·尼葛洛龐帝](../Page/尼古拉斯·尼葛洛龐帝.md "wikilink")（）於1998年10月23日合作制定的一種時間度量衡制度，作為網路時制的一種方案，目的之一是為了克服[時區問題](https://zh.wikipedia.org/wiki/時區 "wikilink")，讓世界各地能在同一時間基礎上溝通，不過實際應用並未普及，常見於Swatch所生產的鐘錶上。
 
 ## 規格
 
-1.  以Swatch總部（位於瑞士[比爾市](https://zh.wikipedia.org/wiki/比爾市 "wikilink")）的時間為基準時間，稱為「比爾標準時間（Biel
-    Mean
-    Time，縮寫為**BMT**）」，該地時間相當於中歐時區，也就是[UTC+1](https://zh.wikipedia.org/wiki/UTC+1 "wikilink")。
+1.  以Swatch總部（位於瑞士[比爾市](https://zh.wikipedia.org/wiki/比爾市 "wikilink")）的時間為基準時間，稱為「比爾標準時間（Biel Mean Time，縮寫為**BMT**）」，該地時間相當於中歐時區，也就是[UTC+1](https://zh.wikipedia.org/wiki/UTC+1 "wikilink")。
 2.  一律改採計算簡便的[10進制](https://zh.wikipedia.org/wiki/10進制 "wikilink")，而非傳統的[12進制及](https://zh.wikipedia.org/wiki/12進制 "wikilink")[60進制混用](https://zh.wikipedia.org/wiki/60進制 "wikilink")。
 3.  將原來的一天24[小時劃分為](https://zh.wikipedia.org/wiki/小時 "wikilink")1000個等份，各等份稱為一個「**.Beat**」（拍／角刻），因此一個Beat相當於86.4秒（=1分26.4秒）。另有一輔助單位「**.cBeat**」（分拍／毫刻），為Beat的1/100，即0.864秒。
 4.  一天的起始時間（UTC+1時間的午夜0:00）記為「@000」，結束時間為「@999」，且皆以BMT為準，不像傳統時制有時區之別。因此除了傳統上與BMT同時區的地區之外，各地傳統的午夜0:00都不是@000。
@@ -76,11 +73,7 @@ UTC+8與Beat時間的換算
 
 ## 外部連結
 
-  - [Swatch因特网时间官方網站
-    (台灣)](https://web.archive.org/web/20081205133722/http://www.swatch.com/tw_zh/internettime.html)
-  - [Swatch因特网时间官方網站
-    (中國大陸)](https://web.archive.org/web/20081019234535/http://www.swatch.com/cn_zh/internettime/itime_howitworks.html)
+  - [Swatch因特网时间官方網站 (台灣)](https://web.archive.org/web/20081205133722/http://www.swatch.com/tw_zh/internettime.html)
+  - [Swatch因特网时间官方網站 (中國大陸)](https://web.archive.org/web/20081019234535/http://www.swatch.com/cn_zh/internettime/itime_howitworks.html)
 
-[Category:时间标准](https://zh.wikipedia.org/wiki/Category:时间标准 "wikilink")
-[Category:时间单位](https://zh.wikipedia.org/wiki/Category:时间单位 "wikilink")
-[Category:瑞士发明](https://zh.wikipedia.org/wiki/Category:瑞士发明 "wikilink")
+[Category:时间标准](https://zh.wikipedia.org/wiki/Category:时间标准 "wikilink") [Category:时间单位](https://zh.wikipedia.org/wiki/Category:时间单位 "wikilink") [Category:瑞士发明](https://zh.wikipedia.org/wiki/Category:瑞士发明 "wikilink")

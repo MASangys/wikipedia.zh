@@ -4,20 +4,12 @@
 
 ### 来歴
 
-獲得「AXIA Artist Audition 01
-AXIA賞」後，發售出道單曲「オレンジ」。最初屬於[研音](../Page/研音.md "wikilink")・[日本華納音樂](../Page/日本華納音樂.md "wikilink")、後移籍至[JVC
-Entertainment](https://zh.wikipedia.org/wiki/JVC_Entertainment "wikilink")・[Victor
-Entertainment](https://zh.wikipedia.org/wiki/Victor_Entertainment "wikilink")（[flying
-DOG](https://zh.wikipedia.org/wiki/flying_DOG "wikilink")）。從那以後主要以[動畫歌曲為中心活動](../Page/動畫歌曲.md "wikilink")。2007年9月末，成員Takumi退出，現在**ああ**成為了[Solo
-Project](https://zh.wikipedia.org/wiki/Solo_Project "wikilink")(單人組)。
+獲得「AXIA Artist Audition 01 AXIA賞」後，發售出道單曲「オレンジ」。最初屬於[研音](../Page/研音.md "wikilink")・[日本華納音樂](../Page/日本華納音樂.md "wikilink")、後移籍至[JVC Entertainment](https://zh.wikipedia.org/wiki/JVC_Entertainment "wikilink")・[Victor Entertainment](https://zh.wikipedia.org/wiki/Victor_Entertainment "wikilink")（[flying DOG](https://zh.wikipedia.org/wiki/flying_DOG "wikilink")）。從那以後主要以[動畫歌曲](../Page/動畫歌曲.md "wikilink")為中心活動。2007年9月末，成員Takumi退出，現在**ああ**成為了[Solo Project](https://zh.wikipedia.org/wiki/Solo_Project "wikilink")(單人組)。
 
 ### 成員
 
   - ああ
-      - 歌手 / 1978年4月17日出生 /
-        日本[兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")[神戸市出身](https://zh.wikipedia.org/wiki/神戸市 "wikilink")
-        / [O型](https://zh.wikipedia.org/wiki/O型 "wikilink") /
-        由於Takumi說稱呼她的[本名](https://zh.wikipedia.org/wiki/本名 "wikilink")「ああはさ」比較麻煩而得名，而成為了她的[藝名](../Page/藝名.md "wikilink")。本名是「あかね」。在廣播『[STB桜真町町内放送](https://zh.wikipedia.org/wiki/夜桜四重奏_〜ヨザクラカルテット〜#WEBラジオ "wikilink")』中可以了解到她的胸部尺寸（似乎）為D罩杯（2008年12月）。
+      - 歌手 / 1978年4月17日出生 / 日本[兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")[神戸市出身](https://zh.wikipedia.org/wiki/神戸市 "wikilink") / [O型](https://zh.wikipedia.org/wiki/O型 "wikilink") / 由於Takumi說稱呼她的[本名](https://zh.wikipedia.org/wiki/本名 "wikilink")「ああはさ」比較麻煩而得名，而成為了她的[藝名](../Page/藝名.md "wikilink")。本名是「あかね」。在廣播『[STB桜真町町内放送](https://zh.wikipedia.org/wiki/夜桜四重奏_〜ヨザクラカルテット〜#WEBラジオ "wikilink")』中可以了解到她的胸部尺寸（似乎）為D罩杯（2008年12月）。
 
 <!-- end list -->
 
@@ -26,8 +18,7 @@ Project](https://zh.wikipedia.org/wiki/Solo_Project "wikilink")(單人組)。
 <!-- end list -->
 
   - Takumi
-      - 吉他手 / 12月6日出生 / 日本兵庫縣神戸市出身 /
-        [B型](https://zh.wikipedia.org/wiki/B型 "wikilink")
+      - 吉他手 / 12月6日出生 / 日本兵庫縣神戸市出身 / [B型](https://zh.wikipedia.org/wiki/B型 "wikilink")
 
 ## 作品
 
@@ -67,8 +58,7 @@ Project](https://zh.wikipedia.org/wiki/Solo_Project "wikilink")(單人組)。
     4.
 5.  Take a chance.（2005年7月6日發售）
 
-    1.  Take a
-        chance.（[PS2](https://zh.wikipedia.org/wiki/PS2 "wikilink")[電玩](https://zh.wikipedia.org/wiki/電玩 "wikilink")「」[主題曲](../Page/主題曲.md "wikilink")）
+    1.  Take a chance.（[PS2](https://zh.wikipedia.org/wiki/PS2 "wikilink")[電玩](https://zh.wikipedia.org/wiki/電玩 "wikilink")「」[主題曲](../Page/主題曲.md "wikilink")）
     2.  Still I love you.
     3.  Take a chance.（without vocal）
     4.  Still I love you.（without vocal）
@@ -84,13 +74,10 @@ Project](https://zh.wikipedia.org/wiki/Solo_Project "wikilink")(單人組)。
 
 7.  （2006年12月20日發售）
 
-    1.  （電視動畫『[地獄少女
-        二籠](https://zh.wikipedia.org/wiki/地獄少女_二籠 "wikilink")』片尾主題曲，原本由[能登麻美子所演唱](../Page/能登麻美子.md "wikilink")，在發行單曲時則由重新詮釋。）
+    1.  （電視動畫『[地獄少女 二籠](https://zh.wikipedia.org/wiki/地獄少女_二籠 "wikilink")』片尾主題曲，原本由[能登麻美子](../Page/能登麻美子.md "wikilink")所演唱，在發行單曲時則由重新詮釋。）
 
     2.
-    3.  Forever...（Animelo Summer Live version）（「[Animelo Summer
-        Live](../Page/Animelo_Summer_Live.md "wikilink") 2006
-        -OUTRIDE-」時的現場演唱版。）
+    3.  Forever...（Animelo Summer Live version）（「[Animelo Summer Live](../Page/Animelo_Summer_Live.md "wikilink") 2006 -OUTRIDE-」時的現場演唱版。）
 
     4.
     5.
@@ -252,8 +239,7 @@ Project](https://zh.wikipedia.org/wiki/Solo_Project "wikilink")(單人組)。
   - 柿島伸次「PLACES IN THE HEART」（作詞：ああ、作曲：柿島伸次）\[1\]
   - [能登麻美子](../Page/能登麻美子.md "wikilink")「あいぞめ」（作詞：ああ、作曲：Takumi）\[2\]
   - マリナ・イスマイールと子供たち「Tomorrow」（作詞：[黒田洋介](https://zh.wikipedia.org/wiki/黒田洋介 "wikilink")・ああ、作曲：浅見昂生・[川井憲次](../Page/川井憲次.md "wikilink")）
-  - [皆川純子](../Page/皆川純子.md "wikilink")「swear
-    to…」（作詞：ああ、作曲・編曲：[真崎修](https://zh.wikipedia.org/wiki/真崎修 "wikilink")）
+  - [皆川純子](../Page/皆川純子.md "wikilink")「swear to…」（作詞：ああ、作曲・編曲：[真崎修](https://zh.wikipedia.org/wiki/真崎修 "wikilink")）
 
 ### 其他
 
@@ -274,19 +260,11 @@ Project](https://zh.wikipedia.org/wiki/Solo_Project "wikilink")(單人組)。
 ## 外部連結
 
   - [savage genius官方網站](http://www.jvcmusic.co.jp/sg/)
-  - [savage
-    genius官方部落格](https://web.archive.org/web/20070912035551/http://blog.jvcmusic.co.jp/blog/sg/)
-
-  - [savage
-    genius支持者網站](https://web.archive.org/web/20070517174006/http://www.freewebs.com/xxchiyo-chanxx/)
-
+  - [savage genius官方部落格](https://web.archive.org/web/20070912035551/http://blog.jvcmusic.co.jp/blog/sg/)
+  - [savage genius支持者網站](https://web.archive.org/web/20070517174006/http://www.freewebs.com/xxchiyo-chanxx/)
   - [savage genius中文應援部落格](http://blog.xuite.net/israffl/sg)
 
-[Category:日本演唱團體](https://zh.wikipedia.org/wiki/Category:日本演唱團體 "wikilink")
-[Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")
-[Category:勝利娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:勝利娛樂旗下藝人 "wikilink")
-[Category:Flying_DOG旗下藝人](https://zh.wikipedia.org/wiki/Category:Flying_DOG旗下藝人 "wikilink")
-[Category:前研音所屬藝人](https://zh.wikipedia.org/wiki/Category:前研音所屬藝人 "wikilink")
+[Category:日本演唱團體](https://zh.wikipedia.org/wiki/Category:日本演唱團體 "wikilink") [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink") [Category:勝利娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:勝利娛樂旗下藝人 "wikilink") [Category:Flying_DOG旗下藝人](https://zh.wikipedia.org/wiki/Category:Flying_DOG旗下藝人 "wikilink") [Category:前研音所屬藝人](https://zh.wikipedia.org/wiki/Category:前研音所屬藝人 "wikilink")
 
 1.  OVA「機動戦士ガンダム MS-IGLOO2 重力戦線」主題歌
 2.  savage genius演唱的ＣＤ先行發售。

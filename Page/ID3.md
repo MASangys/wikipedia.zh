@@ -1,21 +1,16 @@
 **ID3**是一种[metadata容器](https://zh.wikipedia.org/wiki/metadata "wikilink")，多应用于MP3格式的音频文件中。它可以将相关的曲名、演唱者、专辑、音轨数等信息存储在MP3文件中，又稱作「ID3Tags」。
 
-ID3也被[蘋果公司指定為](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[HTTP Live
-Streaming中的時間](../Page/HTTP_Live_Streaming.md "wikilink")[後設資料](https://zh.wikipedia.org/wiki/後設資料 "wikilink")，在主要的[傳輸流或單獨的音頻傳輸流中作為](../Page/MPEG2-TS.md "wikilink")乘載。
+ID3也被[蘋果公司指定為](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[HTTP Live Streaming中的時間](../Page/HTTP_Live_Streaming.md "wikilink")[後設資料](https://zh.wikipedia.org/wiki/後設資料 "wikilink")，在主要的[傳輸流或單獨的音頻傳輸流中作為](../Page/MPEG2-TS.md "wikilink")乘載。
 
-ID3一般位于一个mp3文件的开头或末尾的若干字节内，附加了关于该mp3的歌手，标题，专辑名称，年代，风格等信息，该信息就被称为ID3信息。ID3信息分为两个版本，v1和v2版。其中：
-v1版的ID3在[mp3文件的末尾](https://zh.wikipedia.org/wiki/mp3 "wikilink")128字节，以TAG三个字符开头，后面跟上歌曲信息。v1.1版將「評論」欄位縮短，增設「曲目」欄位。v2版則和v1版截然不同，其通常將一系列可擴展的資料框架（frames）儲存在檔案開頭，而每一塊資料框架都有當作辨識標籤的、大小約3到4個位元組的字串，以及其所儲存的資料。在最新的ID3v2.4版本中，總共宣告有83種資料框架，而使用者也可以自訂屬於自己的資料框架。目前總共有三種版本的ID3v2，其中每一版都有對資料框架的定義進行擴展。
+ID3一般位于一个mp3文件的开头或末尾的若干字节内，附加了关于该mp3的歌手，标题，专辑名称，年代，风格等信息，该信息就被称为ID3信息。ID3信息分为两个版本，v1和v2版。其中： v1版的ID3在[mp3文件的末尾](https://zh.wikipedia.org/wiki/mp3 "wikilink")128字节，以TAG三个字符开头，后面跟上歌曲信息。v1.1版將「評論」欄位縮短，增設「曲目」欄位。v2版則和v1版截然不同，其通常將一系列可擴展的資料框架（frames）儲存在檔案開頭，而每一塊資料框架都有當作辨識標籤的、大小約3到4個位元組的字串，以及其所儲存的資料。在最新的ID3v2.4版本中，總共宣告有83種資料框架，而使用者也可以自訂屬於自己的資料框架。目前總共有三種版本的ID3v2，其中每一版都有對資料框架的定義進行擴展。
 
-ID3是mp3檔案後設資料自然而然發展出來的[事實標準](https://zh.wikipedia.org/wiki/事實標準 "wikilink")；其成品並沒有包含任何的實質規範，也沒有任何組織給予其正式的批准或認證。其與[APE
-tag在音樂檔案的後設資料標籤領域互相角逐](../Page/APE_tag.md "wikilink")。
+ID3是mp3檔案後設資料自然而然發展出來的[事實標準](https://zh.wikipedia.org/wiki/事實標準 "wikilink")；其成品並沒有包含任何的實質規範，也沒有任何組織給予其正式的批准或認證。其與[APE tag在音樂檔案的後設資料標籤領域互相角逐](../Page/APE_tag.md "wikilink")。
 
 ## ID3v1
 
-MP3並未預設儲存檔案後設資料的方式。在1996年，埃里克·肯普（Eric
-Kemp）想要在音訊檔案後方加入一小串資料，也因此解決了這個問題。這個方法就是現在的ID3v1，很快就變成了MP3檔案儲存後設資料的事實標準\[1\]。一個開發控制台遊戲系統的地下組織「傷害控制論」（Damaged
-Cybernetics）宣布了格式。因為所有已開發的控制台ROM都沒有任何的辨識資訊，所以他們創造了一個標籤系統來讓其更容易查找。埃里克和合作夥伴們將其帶進MP3檔案中。這種格式被應用在許多當時格式不明的檔案當中。
+MP3並未預設儲存檔案後設資料的方式。在1996年，埃里克·肯普（Eric Kemp）想要在音訊檔案後方加入一小串資料，也因此解決了這個問題。這個方法就是現在的ID3v1，很快就變成了MP3檔案儲存後設資料的事實標準\[1\]。一個開發控制台遊戲系統的地下組織「傷害控制論」（Damaged Cybernetics）宣布了格式。因為所有已開發的控制台ROM都沒有任何的辨識資訊，所以他們創造了一個標籤系統來讓其更容易查找。埃里克和合作夥伴們將其帶進MP3檔案中。這種格式被應用在許多當時格式不明的檔案當中。
 
-ID3v1標籤總共佔據128個[位元組](https://zh.wikipedia.org/wiki/位元組 "wikilink")，接在檔案的末尾以維持檔案在舊版的[媒體播放器中的兼容性](https://zh.wikipedia.org/wiki/媒體播放器 "wikilink")。有些播放器會在讀取到這些標籤時誤認為音訊檔而產生一些雜音，不過大部分的播放器和幾乎全部的現代播放器都會正確地跳過標籤。標籤有30位元組用來儲存標題、演唱者、專輯以及「評論」，4個位元組儲存年分，以及一個位元組儲存歌曲的[藝術類型](../Page/藝術類型.md "wikilink")。預設有80種藝術類型，[Winamp後來將其擴展到總共](../Page/Winamp.md "wikilink")148種。
+ID3v1標籤總共佔據128個[位元組](https://zh.wikipedia.org/wiki/位元組 "wikilink")，接在檔案的末尾以維持檔案在舊版的[媒體播放器中的兼容性](https://zh.wikipedia.org/wiki/媒體播放器 "wikilink")。有些播放器會在讀取到這些標籤時誤認為音訊檔而產生一些雜音，不過大部分的播放器和幾乎全部的現代播放器都會正確地跳過標籤。標籤有30位元組用來儲存標題、演唱者、專輯以及「評論」，4個位元組儲存年分，以及一個位元組儲存歌曲的[藝術類型](../Page/藝術類型.md "wikilink")。預設有80種藝術類型，[Winamp](../Page/Winamp.md "wikilink")後來將其擴展到總共148種。
 
 在1997年，邁克爾·邁克塞勒對ID3v1做了一些改進。因為評論欄位實在是小到不可能寫出一些有用的東西，所以他乾脆拿掉兩個位元組來儲存「曲目」。這種標籤被稱作**ID3v1.1**\[2\]。
 
@@ -35,15 +30,13 @@ ID3v1標籤總共佔據128個[位元組](https://zh.wikipedia.org/wiki/位元組
 | 曲目\[6\]   | 1          | 這首歌在該專輯中的曲目，或者為0。若前一個位元組非零，則此欄內容無效。 |
 | 藝術類型      | 1          | 一系列藝術類型清單中的編號數，預設為255。              |
 
-ID3v1預設了一系列的藝術類型，以數字作為索引。[Winamp在自家的音樂播放器加入更多選項到該清單中](../Page/Winamp.md "wikilink")，後來其他播放器也隨之跟進；有一部份的值沒有標準規範\[7\]。不過，並非全世界都支援Winamp的擴展清單。有時候，有些播放器只支援到125種藝術類型\[8\]。
+ID3v1預設了一系列的藝術類型，以數字作為索引。[Winamp](../Page/Winamp.md "wikilink")在自家的音樂播放器加入更多選項到該清單中，後來其他播放器也隨之跟進；有一部份的值沒有標準規範\[7\]。不過，並非全世界都支援Winamp的擴展清單。有時候，有些播放器只支援到125種藝術類型\[8\]。
 
 ### 擴展標籤
 
-擴展標籤（extended
-tag）是位於ID3v1標籤前的額外資料區塊，其將標題、藝術家與專輯欄位各自擴展到60個位元組長度，提供可自由輸入文字的藝術類型欄位、一位元組大小的曲速（值為0到5）以及MP3檔案的起始與結束時間。如果以上的區域都沒有被使用，那麼這個資料區塊就會自動被省略。
+擴展標籤（extended tag）是位於ID3v1標籤前的額外資料區塊，其將標題、藝術家與專輯欄位各自擴展到60個位元組長度，提供可自由輸入文字的藝術類型欄位、一位元組大小的曲速（值為0到5）以及MP3檔案的起始與結束時間。如果以上的區域都沒有被使用，那麼這個資料區塊就會自動被省略。
 
-有些支援ID3v1的程式也可以讀到擴展標籤，不過寫入時可能會在擴展區塊中留下過舊的值。擴展區塊並非官方標準，而且只有少數程式支援，不包含[XMMS或](../Page/XMMS.md "wikilink")[Winamp](../Page/Winamp.md "wikilink")。擴展標籤有時也被稱作「補強標籤」（enhanced
-tag）。
+有些支援ID3v1的程式也可以讀到擴展標籤，不過寫入時可能會在擴展區塊中留下過舊的值。擴展區塊並非官方標準，而且只有少數程式支援，不包含[XMMS](../Page/XMMS.md "wikilink")或[Winamp](../Page/Winamp.md "wikilink")。擴展標籤有時也被稱作「補強標籤」（enhanced tag）。
 
 擴展標籤總長227個位元組，並且位於ID3v1標籤之前。
 
@@ -202,23 +195,17 @@ ID3v2標籤有各種不同的大小，而且經常位於檔案開頭，以運用
     $02 – UTF-16BE encoded Unicode without BOM, in ID3v2.4.
     $03 – UTF-8 encoded Unicode, in ID3v2.4.
 
-不過，在使用地區編碼而非萬國碼的時候，還是很容易出現[亂碼](../Page/亂碼.md "wikilink")。特別是有些使用[Shift
-JIS編碼的日文編輯者經常造成一些災難性的後果](../Page/Shift_JIS.md "wikilink")：因為並非標準支援，所以不管地區設定為何，都無法運用於任何符合標準的軟體；因為日本以外的地區幾乎不支援Shift
-JIS，所以也無法在日本以外的地區使用；甚至連日本境內也並非通用，因為其取決於軟體與設置。
+不過，在使用地區編碼而非萬國碼的時候，還是很容易出現[亂碼](../Page/亂碼.md "wikilink")。特別是有些使用[Shift JIS編碼的日文編輯者經常造成一些災難性的後果](../Page/Shift_JIS.md "wikilink")：因為並非標準支援，所以不管地區設定為何，都無法運用於任何符合標準的軟體；因為日本以外的地區幾乎不支援Shift JIS，所以也無法在日本以外的地區使用；甚至連日本境內也並非通用，因為其取決於軟體與設置。
 
 在最新版ID3v2.4，總共宣告了83種資料框架\[11\]，而使用者也可以自訂屬於自己的資料框架。標準的資料框架有[量測音樂速度](../Page/速度_\(音樂\).md "wikilink")、版權、歌詞、任意文字和URL數據等等。ID3v2總共有三種版本：
 
   - ID3v2.2
     v2.2是ID3v2的第一個公開版本。他使用3個字元作為資料框架識別碼，而非4個（舉例來說，其使用*TT2*而非*T1T2*）。v2.3和v2.4中大多數的資料框架都在v2.2中有著相似的框架。這個標準已經被認為過時\[12\]。
   - ID3v2.3
-    v2.3將資料框架識別碼擴展到4個字元，並且加入了一些新的資料框架。一個框架可以包含複數值，由[空字符分隔](../Page/空字符.md "wikilink")。這是目前最廣泛使用的ID3v2標籤\[13\]。
+    v2.3將資料框架識別碼擴展到4個字元，並且加入了一些新的資料框架。一個框架可以包含複數值，由[空字符](../Page/空字符.md "wikilink")分隔。這是目前最廣泛使用的ID3v2標籤\[13\]。
   - ID3v2.4
-    v2.4出版於2000年11月1日，至今仍是最新的版本。其允許文字資料以早期常用（因為它比起[UTF-16而言有許多顯著的優點](https://zh.wikipedia.org/wiki/UTF-16 "wikilink")）但非標準的標籤編碼[UTF-8寫入](../Page/UTF-8.md "wikilink")。另外一項新功能是可以選擇是否在檔案末端、其他標籤前面加入標籤，就像ID3v1那樣\[14\]。
-    沒有任何版本的[Windows檔案總管和](https://zh.wikipedia.org/wiki/Windows檔案總管 "wikilink")[Windows
-    Media
-    Player](https://zh.wikipedia.org/wiki/Windows_Media_Player "wikilink")──甚至是最新的[Windows
-    10和](../Page/Windows_10.md "wikilink")
-    12──都無法正確的解讀ID3v2.4標籤，不過依然能解讀v2.3或是更早的版本\[15\]\[16\]。
+    v2.4出版於2000年11月1日，至今仍是最新的版本。其允許文字資料以早期常用（因為它比起[UTF-16而言有許多顯著的優點](https://zh.wikipedia.org/wiki/UTF-16 "wikilink")）但非標準的標籤編碼[UTF-8](../Page/UTF-8.md "wikilink")寫入。另外一項新功能是可以選擇是否在檔案末端、其他標籤前面加入標籤，就像ID3v1那樣\[14\]。
+    沒有任何版本的[Windows檔案總管和](https://zh.wikipedia.org/wiki/Windows檔案總管 "wikilink")[Windows Media Player](https://zh.wikipedia.org/wiki/Windows_Media_Player "wikilink")──甚至是最新的[Windows 10和](../Page/Windows_10.md "wikilink") 12──都無法正確的解讀ID3v2.4標籤，不過依然能解讀v2.3或是更早的版本\[15\]\[16\]。
 
 ### 評分標籤的爭議
 
@@ -241,14 +228,11 @@ JIS，所以也無法在日本以外的地區使用；甚至連日本境內也�
 
 `Windows Media Player 9 Series | 255 | 0`
 
-其中0是POPM的計數器部分，不要與PCNT資料框架的播放次數混淆。不過如果有應用程式支援[粒度](https://zh.wikipedia.org/wiki/粒度 "wikilink")，一顆星的話會寫入1，而2到31則會是一顆星之下的粒度點。值得一提的是，Windows所使用的ID字串並非規範所要求的電子郵件地址。而且，直到[Windows
-7和WMP](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")
-12的Windows檔案總管和WMP都有一個漏洞是：如果你使用以上軟體替音樂評分的話，任何有關[回放增益的標籤都會損壞](../Page/回放增益.md "wikilink")。WMP也以上述方式讀寫相同的值，除了4到5星之間有著些微莫名的不同。WMP使用221和222來區隔4、5星，[理由不明](https://msdn.microsoft.com/en-us/library/windows/desktop/dd564545%28v=vs.85%29.aspx?f=255&MSPPError=-2147217396)。
+其中0是POPM的計數器部分，不要與PCNT資料框架的播放次數混淆。不過如果有應用程式支援[粒度](https://zh.wikipedia.org/wiki/粒度 "wikilink")，一顆星的話會寫入1，而2到31則會是一顆星之下的粒度點。值得一提的是，Windows所使用的ID字串並非規範所要求的電子郵件地址。而且，直到[Windows 7和WMP](https://zh.wikipedia.org/wiki/Windows_7 "wikilink") 12的Windows檔案總管和WMP都有一個漏洞是：如果你使用以上軟體替音樂評分的話，任何有關[回放增益](../Page/回放增益.md "wikilink")的標籤都會損壞。WMP也以上述方式讀寫相同的值，除了4到5星之間有著些微莫名的不同。WMP使用221和222來區隔4、5星，[理由不明](https://msdn.microsoft.com/en-us/library/windows/desktop/dd564545%28v=vs.85%29.aspx?f=255&MSPPError=-2147217396)。
 
 ### ID3v2章節
 
-**ID3v2章節補遺**（ID3v2 Chapter
-Addendum）出版於2005年12月，不過至今尚未被廣泛支援。它讓使用者們可以簡單地跳到音訊檔案中特定的地點或樂章，並且可以在播放期間提供同步的圖片與文字的-{zh:投影片;zh-hans:幻灯片;zh-hant:投影片;zh-cn:幻灯片;zh-tw:投影片;}-。典型的應用程式包括補強[播客](../Page/播客.md "wikilink")，而且其可用於v2.3或v2.4標籤中\[17\]。
+**ID3v2章節補遺**（ID3v2 Chapter Addendum）出版於2005年12月，不過至今尚未被廣泛支援。它讓使用者們可以簡單地跳到音訊檔案中特定的地點或樂章，並且可以在播放期間提供同步的圖片與文字的-{zh:投影片;zh-hans:幻灯片;zh-hant:投影片;zh-cn:幻灯片;zh-tw:投影片;}-。典型的應用程式包括補強[播客](../Page/播客.md "wikilink")，而且其可用於v2.3或v2.4標籤中\[17\]。
 
 ### ID3v2嵌入圖片
 
@@ -742,12 +726,7 @@ Addendum）出版於2005年12月，不過至今尚未被廣泛支援。它讓使
 
 **注意：**
 
-Version 2.4 of the specification prescribes that all text fields (the
-fields that start with a *T*, except for TXXX) can contain multiple
-values separated by a [null
-character](https://zh.wikipedia.org/wiki/null_character "wikilink"). The
-null character varies by [character
-encoding](https://zh.wikipedia.org/wiki/character_encoding "wikilink").
+Version 2.4 of the specification prescribes that all text fields (the fields that start with a *T*, except for TXXX) can contain multiple values separated by a [null character](https://zh.wikipedia.org/wiki/null_character "wikilink"). The null character varies by [character encoding](https://zh.wikipedia.org/wiki/character_encoding "wikilink").
 
 ## 注释
 
@@ -761,17 +740,12 @@ encoding](https://zh.wikipedia.org/wiki/character_encoding "wikilink").
 
   - [ID3官方网站（英文）](http://www.id3.org/)
 
-[Category:元数据标准](https://zh.wikipedia.org/wiki/Category:元数据标准 "wikilink")
-[Category:文件格式](https://zh.wikipedia.org/wiki/Category:文件格式 "wikilink")
+[Category:元数据标准](https://zh.wikipedia.org/wiki/Category:元数据标准 "wikilink") [Category:文件格式](https://zh.wikipedia.org/wiki/Category:文件格式 "wikilink")
 
-1.  [Practical Common
-    Lisp](https://books.google.com/books?id=Bby4FJy49QUC&pg=PA335), p.
-    335.
+1.  [Practical Common Lisp](https://books.google.com/books?id=Bby4FJy49QUC&pg=PA335), p. 335.
 
 2.
-3.  關於ID3v1在[Python中的應用](../Page/Python.md "wikilink")，請看[Dive Into
-    Python, Chapter 5. Objects and
-    Object-Orientation](http://www.diveintopython.net/object_oriented_framework/index.html)
+3.  關於ID3v1在[Python](../Page/Python.md "wikilink")中的應用，請看[Dive Into Python, Chapter 5. Objects and Object-Orientation](http://www.diveintopython.net/object_oriented_framework/index.html)
 
 4.  曲目會儲存在評論區的最後兩個位元組中。如果評論有29或30個字元那麼長，就無法儲存曲目。
 

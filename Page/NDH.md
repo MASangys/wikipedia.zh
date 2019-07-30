@@ -1,6 +1,4 @@
-**Neue Deutsche
-Härte**（“新德意志硬式”）新德意志酷派搖滾浪潮是一個於1990年代在[德國境內開始發展的一個](https://zh.wikipedia.org/wiki/德國 "wikilink")[硬式搖滾和](../Page/硬式搖滾.md "wikilink")[重金屬音樂的趨勢](https://zh.wikipedia.org/wiki/重金屬音樂 "wikilink")。該種類型的音樂結合了以低沉且清晰的[主唱嗓音](https://zh.wikipedia.org/wiki/主唱 "wikilink")，背景編曲經常以[電吉他扭曲的長音加上](https://zh.wikipedia.org/wiki/電吉他 "wikilink")[鼓以及](../Page/鼓.md "wikilink")[鍵盤的運用](https://zh.wikipedia.org/wiki/鍵盤 "wikilink")，同時亦使用各種音源的[合成](https://zh.wikipedia.org/wiki/合成 "wikilink")、混音和[電子鼓](https://zh.wikipedia.org/wiki/電子鼓 "wikilink")。
-[Oomph\!被視為是該音樂類型的濫觴](https://zh.wikipedia.org/wiki/Oomph! "wikilink")，並啟發了日後的[德国战车Rammstein](../Page/德国战车.md "wikilink")，後者則是第一個以商業取向而能打入美國和世界各地市場當中的團體。
+**Neue Deutsche Härte**（“新德意志硬式”）新德意志酷派搖滾浪潮是一個於1990年代在[德國境內開始發展的一個](https://zh.wikipedia.org/wiki/德國 "wikilink")[硬式搖滾](../Page/硬式搖滾.md "wikilink")和[重金屬音樂的趨勢](https://zh.wikipedia.org/wiki/重金屬音樂 "wikilink")。該種類型的音樂結合了以低沉且清晰的[主唱嗓音](https://zh.wikipedia.org/wiki/主唱 "wikilink")，背景編曲經常以[電吉他扭曲的長音加上](https://zh.wikipedia.org/wiki/電吉他 "wikilink")[鼓](../Page/鼓.md "wikilink")以及[鍵盤的運用](https://zh.wikipedia.org/wiki/鍵盤 "wikilink")，同時亦使用各種音源的[合成](https://zh.wikipedia.org/wiki/合成 "wikilink")、混音和[電子鼓](https://zh.wikipedia.org/wiki/電子鼓 "wikilink")。 [Oomph\!被視為是該音樂類型的濫觴](https://zh.wikipedia.org/wiki/Oomph! "wikilink")，並啟發了日後的[德国战车](../Page/德国战车.md "wikilink")Rammstein，後者則是第一個以商業取向而能打入美國和世界各地市場當中的團體。
 
 ## Bands
 
@@ -8,18 +6,13 @@ Härte**（“新德意志硬式”）新德意志酷派搖滾浪潮是一個於
   - [Bettelprinz](https://zh.wikipedia.org/wiki/Bettelprinz "wikilink")
   - [b.o.s.c.h.](https://zh.wikipedia.org/wiki/b.o.s.c.h. "wikilink")
   - [Butzemann](https://zh.wikipedia.org/wiki/Butzemann "wikilink")
-  - [Dark
-    Diamonds](https://zh.wikipedia.org/wiki/Dark_Diamonds "wikilink")
+  - [Dark Diamonds](https://zh.wikipedia.org/wiki/Dark_Diamonds "wikilink")
   - [Dein Feuer](https://zh.wikipedia.org/wiki/Dein_Feuer "wikilink")
   - [Dementi](https://zh.wikipedia.org/wiki/Dementi "wikilink")
-  - [Der
-    Bote](https://zh.wikipedia.org/wiki/Der_Bote_\(band\) "wikilink")
-  - [Die
-    Allergie](https://zh.wikipedia.org/wiki/Die_Allergie "wikilink")
-  - [Die Apokalyptischen
-    Reiter](https://zh.wikipedia.org/wiki/Die_Apokalyptischen_Reiter "wikilink")
-  - [Die
-    Vorboten](https://zh.wikipedia.org/wiki/Die_Vorboten "wikilink")
+  - [Der Bote](https://zh.wikipedia.org/wiki/Der_Bote_\(band\) "wikilink")
+  - [Die Allergie](https://zh.wikipedia.org/wiki/Die_Allergie "wikilink")
+  - [Die Apokalyptischen Reiter](https://zh.wikipedia.org/wiki/Die_Apokalyptischen_Reiter "wikilink")
+  - [Die Vorboten](https://zh.wikipedia.org/wiki/Die_Vorboten "wikilink")
   - [die\!](https://zh.wikipedia.org/wiki/die!_\(band\) "wikilink")
   - [Dossche](https://zh.wikipedia.org/wiki/Dossche "wikilink")
   - [Eisbrecher](https://zh.wikipedia.org/wiki/Eisbrecher "wikilink")
@@ -34,8 +27,7 @@ Härte**（“新德意志硬式”）新德意志酷派搖滾浪潮是一個於
   - [Haertefall](https://zh.wikipedia.org/wiki/Haertefall "wikilink")
   - [Hämatom](https://zh.wikipedia.org/wiki/Hämatom "wikilink")
   - [Hammerschmitt](https://zh.wikipedia.org/wiki/Hammerschmitt "wikilink")
-  - [Hanzel und
-    Gretyl](https://zh.wikipedia.org/wiki/Hanzel_und_Gretyl "wikilink")
+  - [Hanzel und Gretyl](https://zh.wikipedia.org/wiki/Hanzel_und_Gretyl "wikilink")
   - [Heldmaschine](https://zh.wikipedia.org/wiki/Heldmaschine "wikilink")
   - [Herren](https://zh.wikipedia.org/wiki/Herren "wikilink")
   - [Hertzton](https://zh.wikipedia.org/wiki/Hertzton "wikilink")
@@ -44,65 +36,52 @@ Härte**（“新德意志硬式”）新德意志酷派搖滾浪潮是一個於
   - [Herzparasit](https://zh.wikipedia.org/wiki/Herzparasit "wikilink")
   - [In Extremo](https://zh.wikipedia.org/wiki/In_Extremo "wikilink")
   - [In Viro](https://zh.wikipedia.org/wiki/In_Viro "wikilink")
-  - [Joachim
-    Witt](https://zh.wikipedia.org/wiki/Joachim_Witt "wikilink")
+  - [Joachim Witt](https://zh.wikipedia.org/wiki/Joachim_Witt "wikilink")
   - [Kind Tot](https://zh.wikipedia.org/wiki/Kind_Tot "wikilink")
   - [Knorkator](https://zh.wikipedia.org/wiki/Knorkator "wikilink")
   - [Krankheit](https://zh.wikipedia.org/wiki/Krankheit "wikilink")
-  - [L'Âme
-    Immortelle](https://zh.wikipedia.org/wiki/L'Âme_Immortelle "wikilink")
+  - [L'Âme Immortelle](https://zh.wikipedia.org/wiki/L'Âme_Immortelle "wikilink")
   - [Leichenwetter](https://zh.wikipedia.org/wiki/Leichenwetter "wikilink")
-  - [Letzte
-    Instanz](https://zh.wikipedia.org/wiki/Letzte_Instanz "wikilink")
+  - [Letzte Instanz](https://zh.wikipedia.org/wiki/Letzte_Instanz "wikilink")
   - [Maerzfeld](https://zh.wikipedia.org/wiki/Maerzfeld "wikilink")
   - [Megaherz](https://zh.wikipedia.org/wiki/Megaherz "wikilink")
   - [Menschenwahn](https://zh.wikipedia.org/wiki/Menschenwahn "wikilink")
   - [Niederschlag](https://zh.wikipedia.org/wiki/Niederschlag "wikilink")
   - [nulldB](https://zh.wikipedia.org/wiki/nulldB "wikilink")
-  - [Omega
-    Lithium](https://zh.wikipedia.org/wiki/Omega_Lithium "wikilink")
+  - [Omega Lithium](https://zh.wikipedia.org/wiki/Omega_Lithium "wikilink")
   - [Oomph\!](https://zh.wikipedia.org/wiki/Oomph! "wikilink")
   - [Ost+Front](https://zh.wikipedia.org/wiki/Ost+Front "wikilink")
   - [Peragon](https://zh.wikipedia.org/wiki/Peragon "wikilink")
-  - [Projekt
-    Mensch](https://zh.wikipedia.org/wiki/Projekt_Mensch "wikilink")
+  - [Projekt Mensch](https://zh.wikipedia.org/wiki/Projekt_Mensch "wikilink")
   - [Pronther](https://zh.wikipedia.org/wiki/Pronther "wikilink")
   - [Rammstein](https://zh.wikipedia.org/wiki/Rammstein "wikilink")
   - [Rinderwahnsinn](https://zh.wikipedia.org/wiki/Rinderwahnsinn "wikilink")
   - [Ruoska](https://zh.wikipedia.org/wiki/Ruoska "wikilink")
-  - [Samsas
-    Traum](https://zh.wikipedia.org/wiki/Samsas_Traum "wikilink")
+  - [Samsas Traum](https://zh.wikipedia.org/wiki/Samsas_Traum "wikilink")
   - [Schacht](https://zh.wikipedia.org/wiki/Schacht "wikilink")
   - [Scherbentanz](https://zh.wikipedia.org/wiki/Scherbentanz "wikilink")
-  - [Schlafes
-    Bruder](https://zh.wikipedia.org/wiki/Schlafes_Bruder_\(band\) "wikilink")
+  - [Schlafes Bruder](https://zh.wikipedia.org/wiki/Schlafes_Bruder_\(band\) "wikilink")
   - [Schlagwerk](https://zh.wikipedia.org/wiki/Schlagwerk "wikilink")
   - [Schock](https://zh.wikipedia.org/wiki/Schock "wikilink")
   - [Schockraum](https://zh.wikipedia.org/wiki/Schockraum "wikilink")
-  - [Schwarzer
-    Engel](https://zh.wikipedia.org/wiki/Schwarzer_Engel "wikilink")
+  - [Schwarzer Engel](https://zh.wikipedia.org/wiki/Schwarzer_Engel "wikilink")
   - [Schweisser](https://zh.wikipedia.org/wiki/Schweisser "wikilink")
   - [Seelenzorn](https://zh.wikipedia.org/wiki/Seelenzorn "wikilink")
   - [Silberschauer](https://zh.wikipedia.org/wiki/Silberschauer "wikilink")
   - [Stahlhammer](https://zh.wikipedia.org/wiki/Stahlhammer "wikilink")
   - [Stahlmann](https://zh.wikipedia.org/wiki/Stahlmann "wikilink")
-  - [Stark
-    Treiben](https://zh.wikipedia.org/wiki/Stark_Treiben "wikilink")
+  - [Stark Treiben](https://zh.wikipedia.org/wiki/Stark_Treiben "wikilink")
   - [Stimmkraft](https://zh.wikipedia.org/wiki/Stimmkraft "wikilink")
   - [Stoneman](https://zh.wikipedia.org/wiki/Stoneman_\(band\) "wikilink")
-  - [Subway to
-    Sally](https://zh.wikipedia.org/wiki/Subway_to_Sally "wikilink")
+  - [Subway to Sally](https://zh.wikipedia.org/wiki/Subway_to_Sally "wikilink")
   - [Tanzwut](https://zh.wikipedia.org/wiki/Tanzwut "wikilink")
   - [Treibhaus](https://zh.wikipedia.org/wiki/Treibhaus "wikilink")
   - [Üebermutter](https://zh.wikipedia.org/wiki/Üebermutter "wikilink")
-  - [Umbra et
-    Imago](https://zh.wikipedia.org/wiki/Umbra_et_Imago "wikilink")
+  - [Umbra et Imago](https://zh.wikipedia.org/wiki/Umbra_et_Imago "wikilink")
   - [Unheilig](https://zh.wikipedia.org/wiki/Unheilig "wikilink")
   - [Untoten](https://zh.wikipedia.org/wiki/Untoten "wikilink")
-  - [Von Den
-    Ketten](https://zh.wikipedia.org/wiki/Von_Den_Ketten "wikilink")
+  - [Von Den Ketten](https://zh.wikipedia.org/wiki/Von_Den_Ketten "wikilink")
   - [Weissglut](https://zh.wikipedia.org/wiki/Weissglut "wikilink")
   - [Weto](https://zh.wikipedia.org/wiki/Weto "wikilink")
 
-[Category:搖滾樂類型](https://zh.wikipedia.org/wiki/Category:搖滾樂類型 "wikilink")
-[Category:德國音樂](https://zh.wikipedia.org/wiki/Category:德國音樂 "wikilink")
+[Category:搖滾樂類型](https://zh.wikipedia.org/wiki/Category:搖滾樂類型 "wikilink") [Category:德國音樂](https://zh.wikipedia.org/wiki/Category:德國音樂 "wikilink")

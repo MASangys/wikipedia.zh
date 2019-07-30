@@ -1,6 +1,6 @@
-《**陀槍師姐II**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司製作的時裝警匪](../Page/電視廣播有限公司.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，全劇共32集，監製[鄺業生](../Page/鄺業生.md "wikilink")。此劇為《[陀槍師姐](https://zh.wikipedia.org/wiki/陀槍師姐_\(電視劇\) "wikilink")》系列第2輯。
+《**陀槍師姐II**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")製作的時裝警匪[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，全劇共32集，監製[鄺業生](../Page/鄺業生.md "wikilink")。此劇為《[陀槍師姐](https://zh.wikipedia.org/wiki/陀槍師姐_\(電視劇\) "wikilink")》系列第2輯。
 
-此劇曾於2002年9月及2009年3月至4月在[翡翠台重播](../Page/翡翠台.md "wikilink")。
+此劇曾於2002年9月及2009年3月至4月在[翡翠台](../Page/翡翠台.md "wikilink")重播。
 
 ## 演員表
 
@@ -1340,16 +1340,9 @@ Uncle Roy的契女</p></td>
 
 ## 外部連結
 
-  - [無綫電視官方網頁 -
-    陀槍師姐II](https://web.archive.org/web/20080914002424/http://tvcity.tvb.com/drama/gun2/)
-  - [《陀槍師姐II》 GOTV
-    第1集重溫](https://web.archive.org/web/20140222162739/http://gotv.tvb.com/programme/103207/153281/)
+  - [無綫電視官方網頁 - 陀槍師姐II](https://web.archive.org/web/20080914002424/http://tvcity.tvb.com/drama/gun2/)
+  - [《陀槍師姐II》 GOTV 第1集重溫](https://web.archive.org/web/20140222162739/http://gotv.tvb.com/programme/103207/153281/)
 
 ## 電視節目的變遷
 
-[Category:2000年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:2000年無綫電視劇集 "wikilink")
-[Category:陀槍師姐系列](https://zh.wikipedia.org/wiki/Category:陀槍師姐系列 "wikilink")
-[Category:無綫電視2000年代背景劇集](https://zh.wikipedia.org/wiki/Category:無綫電視2000年代背景劇集 "wikilink")
-[Category:警匪電視劇](https://zh.wikipedia.org/wiki/Category:警匪電視劇 "wikilink")
-[Category:電視劇續集](https://zh.wikipedia.org/wiki/Category:電視劇續集 "wikilink")
-[Category:多重人格題材電視劇](https://zh.wikipedia.org/wiki/Category:多重人格題材電視劇 "wikilink")
+[Category:2000年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:2000年無綫電視劇集 "wikilink") [Category:陀槍師姐系列](https://zh.wikipedia.org/wiki/Category:陀槍師姐系列 "wikilink") [Category:無綫電視2000年代背景劇集](https://zh.wikipedia.org/wiki/Category:無綫電視2000年代背景劇集 "wikilink") [Category:警匪電視劇](https://zh.wikipedia.org/wiki/Category:警匪電視劇 "wikilink") [Category:電視劇續集](https://zh.wikipedia.org/wiki/Category:電視劇續集 "wikilink") [Category:多重人格題材電視劇](https://zh.wikipedia.org/wiki/Category:多重人格題材電視劇 "wikilink")

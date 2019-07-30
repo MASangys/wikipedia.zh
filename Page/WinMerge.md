@@ -13,7 +13,7 @@
   - 在目录比较中使用文件过滤器
   - 在文件比较中检测移动过的段落
   - 在外壳扩展中集成
-  - 通过[7-Zip支持压缩文件](../Page/7-Zip.md "wikilink")
+  - 通过[7-Zip](../Page/7-Zip.md "wikilink")支持压缩文件
   - 支持插件功能
   - 通过DLL支持本地化界面
 
@@ -24,8 +24,6 @@
 ## 外部链接
 
   - [官方网站](http://winmerge.org/)
-  - [SourceForge上的](../Page/SourceForge.md "wikilink")[WinMerge
-    项目页面](http://sourceforge.net/projects/winmerge/)
+  - [SourceForge](../Page/SourceForge.md "wikilink")上的[WinMerge 项目页面](http://sourceforge.net/projects/winmerge/)
 
-[Category:SourceForge专案](https://zh.wikipedia.org/wiki/Category:SourceForge专案 "wikilink")
-[Category:檔案比較工具](https://zh.wikipedia.org/wiki/Category:檔案比較工具 "wikilink")
+[Category:SourceForge专案](https://zh.wikipedia.org/wiki/Category:SourceForge专案 "wikilink") [Category:檔案比較工具](https://zh.wikipedia.org/wiki/Category:檔案比較工具 "wikilink")

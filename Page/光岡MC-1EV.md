@@ -1,4 +1,4 @@
-**MC-1EV**為[光岡汽車所推出的原創作品電動車輛](../Page/光岡汽車.md "wikilink")。
+**MC-1EV**為[光岡汽車](../Page/光岡汽車.md "wikilink")所推出的原創作品電動車輛。
 
 ## 車輛歷史
 
@@ -37,7 +37,7 @@
 
   - [MC-1](https://zh.wikipedia.org/wiki/光岡MC-1 "wikilink")
 
-## 備註
+## 参考文献
 
 <references />
 
@@ -46,8 +46,6 @@
   - [光岡自動車](http://www.mitsuoka-motor.com)
   - [MITSUOKA-MICROCAR.COM](http://www.mitsuoka-microcar.com)
 
-[Category:光岡汽車](https://zh.wikipedia.org/wiki/Category:光岡汽車 "wikilink")
-[Category:微型車](https://zh.wikipedia.org/wiki/Category:微型車 "wikilink")
-[Category:電動車輛](https://zh.wikipedia.org/wiki/Category:電動車輛 "wikilink")
+[Category:光岡汽車](https://zh.wikipedia.org/wiki/Category:光岡汽車 "wikilink") [Category:微型車](https://zh.wikipedia.org/wiki/Category:微型車 "wikilink") [Category:電動車輛](https://zh.wikipedia.org/wiki/Category:電動車輛 "wikilink")
 
 1.  光岡自動車，超小型EV發展順利，加強電動車輛事業，2000年3月17日，《汽車新聞＆專欄》，〈日刊電子報〉

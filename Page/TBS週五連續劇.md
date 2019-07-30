@@ -1,4 +1,4 @@
-**週五連續劇**（），簡稱「Kindora」（），是[日本](../Page/日本.md "wikilink")[TBS電視台从](../Page/TBS電視台.md "wikilink")1972年起每逢星期五22:00起播放的[電視連續劇時段](../Page/电视剧.md "wikilink")。推出作品多以年輕題材為主，並以較受矚目或受歡迎的年輕[演員來擔綱演出](../Page/演員.md "wikilink")，是TBS重要的電視劇節目時段。
+**週五連續劇**（），簡稱「Kindora」（），是[日本](../Page/日本.md "wikilink")[TBS電視台](../Page/TBS電視台.md "wikilink")从1972年起每逢星期五22:00起播放的[電視連續劇時段](../Page/电视剧.md "wikilink")。推出作品多以年輕題材為主，並以較受矚目或受歡迎的年輕[演員](../Page/演員.md "wikilink")來擔綱演出，是TBS重要的電視劇節目時段。
 
 隨著電視劇的低迷化，加上抵不過新聞報導強化的潮流，1987年TBS電視台一度讓新聞節目進駐原週五連續劇之時段，一直到1989年才以《[比雨更溫柔](https://zh.wikipedia.org/wiki/比雨更溫柔 "wikilink")》恢復週五連續劇的播出。
 
@@ -29,8 +29,7 @@
 
 #### 1991年
 
-  - 1月-3月：「[長不齊的蘋果們
-    III](https://zh.wikipedia.org/wiki/長不齊的蘋果們_III "wikilink")」　主演：[中井貴一](../Page/中井貴一.md "wikilink")
+  - 1月-3月：「[長不齊的蘋果們 III](https://zh.wikipedia.org/wiki/長不齊的蘋果們_III "wikilink")」　主演：[中井貴一](../Page/中井貴一.md "wikilink")
   - 4月-6月：「」　主演：[三上博史](../Page/三上博史.md "wikilink")
   - 7月-9月：「[男大不中留](https://zh.wikipedia.org/wiki/男大不中留 "wikilink")」　主演：
   - 10月-12月：「[愛有明天](https://zh.wikipedia.org/wiki/愛有明天 "wikilink")」　主演：[今井美樹](../Page/今井美樹.md "wikilink")
@@ -73,8 +72,7 @@
 #### 1997年
 
   - 1月-3月：「[人生戀曲](https://zh.wikipedia.org/wiki/人生戀曲 "wikilink")」　主演：[高嶋政伸](../Page/高嶋政伸.md "wikilink")
-  - 4月-6月：「[長不齊的蘋果們
-    IV](https://zh.wikipedia.org/wiki/長不齊的蘋果們_IV "wikilink")」　主演：[中井貴一](../Page/中井貴一.md "wikilink")
+  - 4月-6月：「[長不齊的蘋果們 IV](https://zh.wikipedia.org/wiki/長不齊的蘋果們_IV "wikilink")」　主演：[中井貴一](../Page/中井貴一.md "wikilink")
   - 7月-9月：「[最後之戀](https://zh.wikipedia.org/wiki/最後之戀 "wikilink")」　主演：[中居正広](https://zh.wikipedia.org/wiki/中居正広 "wikilink")、[常盤貴子](../Page/常盤貴子.md "wikilink")
   - 10月-12月：「[青鳥](https://zh.wikipedia.org/wiki/青鳥 "wikilink")」　主演：[豊川悦司](../Page/豐川悅司.md "wikilink")
 
@@ -119,18 +117,15 @@
 
   - 01月10日-03月21日：「[高校教師](../Page/高校教師.md "wikilink")」　主演：[藤木直人](../Page/藤木直人.md "wikilink")、[上戶彩](../Page/上戶彩.md "wikilink")
   - 04月11日-06月20日：「[帥哥醫生](https://zh.wikipedia.org/wiki/帥哥醫生 "wikilink")」　主演：[妻夫木聰](../Page/妻夫木聰.md "wikilink")
-  - 07月4日-09月12日：「[Stand
-    UP\!\!](../Page/Stand_UP!!.md "wikilink")」　主演：[二宮和也](../Page/二宮和也.md "wikilink")
+  - 07月4日-09月12日：「[Stand UP\!\!](../Page/Stand_UP!!.md "wikilink")」　主演：[二宮和也](../Page/二宮和也.md "wikilink")
   - 10月10日-12月12日：「[熱血校園](https://zh.wikipedia.org/wiki/熱血校園 "wikilink")」　主演：[竹野內豊](https://zh.wikipedia.org/wiki/竹野內豊 "wikilink")
 
 #### 2004年
 
   - 01月16日-03月26日：「[魔法嬌妻](https://zh.wikipedia.org/wiki/魔法嬌妻 "wikilink")」　主演：[篠原涼子](../Page/篠原涼子.md "wikilink")
-  - 04月16日-06月25日：「[HOME
-    DRAMA\!](https://zh.wikipedia.org/wiki/HOME_DRAMA! "wikilink")」　主演：[堂本剛](../Page/堂本剛.md "wikilink")
+  - 04月16日-06月25日：「[HOME DRAMA\!](https://zh.wikipedia.org/wiki/HOME_DRAMA! "wikilink")」　主演：[堂本剛](../Page/堂本剛.md "wikilink")
   - 07月2日-09月10日：「[在世界中心呼喚愛](https://zh.wikipedia.org/wiki/在世界中心呼喚愛 "wikilink")」　主演：[山田孝之](../Page/山田孝之.md "wikilink")、[綾瀨遙](../Page/綾瀨遙.md "wikilink")
-  - 10月15日－2005年3月25日：「[3年B組金八先生](../Page/3年B組金八先生.md "wikilink")
-    」　主演：[武田鐵矢](../Page/武田鐵矢.md "wikilink")
+  - 10月15日－2005年3月25日：「[3年B組金八先生](../Page/3年B組金八先生.md "wikilink") 」　主演：[武田鐵矢](../Page/武田鐵矢.md "wikilink")
 
 #### 2005年
 
@@ -198,8 +193,7 @@
 
 #### 2009年
 
-  - 1月16日-3月20日：**[Love
-    Shuffle](../Page/Love_Shuffle.md "wikilink")**（ラブシャッフル）
+  - 1月16日-3月20日：**[Love Shuffle](../Page/Love_Shuffle.md "wikilink")**（ラブシャッフル）
 
 <!-- end list -->
 
@@ -273,8 +267,7 @@
 
 <!-- end list -->
 
-  - 10月8日－12月17日：**[SPEC〜警視廳公安部公安第五課
-    未詳事件特別對策係事件簿〜](https://zh.wikipedia.org/wiki/SPEC〜警視廳公安部公安第五課_未詳事件特別對策係事件簿〜 "wikilink")**（）
+  - 10月8日－12月17日：**[SPEC〜警視廳公安部公安第五課 未詳事件特別對策係事件簿〜](https://zh.wikipedia.org/wiki/SPEC〜警視廳公安部公安第五課_未詳事件特別對策係事件簿〜 "wikilink")**（）
 
 <!-- end list -->
 
@@ -310,8 +303,7 @@
 
   -
     主演：[瀧本美織](../Page/瀧本美織.md "wikilink")、[玉森裕太](../Page/玉森裕太.md "wikilink")、[藤藤谷太輔](https://zh.wikipedia.org/wiki/藤藤谷太輔 "wikilink")、[八乙女光](../Page/八乙女光.md "wikilink")
-    原作：韓劇
-    [洪貞恩](https://zh.wikipedia.org/wiki/洪貞恩 "wikilink")、[洪美蘭](https://zh.wikipedia.org/wiki/洪美蘭 "wikilink")《[原來是美男](https://zh.wikipedia.org/wiki/原來是美男 "wikilink")》
+    原作：韓劇 [洪貞恩](https://zh.wikipedia.org/wiki/洪貞恩 "wikilink")、[洪美蘭](https://zh.wikipedia.org/wiki/洪美蘭 "wikilink")《[原來是美男](https://zh.wikipedia.org/wiki/原來是美男 "wikilink")》
     劇本：[高橋麻紀](https://zh.wikipedia.org/wiki/高橋麻紀 "wikilink")
 
 <!-- end list -->
@@ -357,8 +349,7 @@
 
 <!-- end list -->
 
-  - 10月12日－12月14日：**[大奧
-    ～誕生【有功·家光篇】](../Page/大奧_～誕生【有功·家光篇】.md "wikilink")**（）
+  - 10月12日－12月14日：**[大奧 ～誕生【有功·家光篇】](../Page/大奧_～誕生【有功·家光篇】.md "wikilink")**（）
 
 <!-- end list -->
 
@@ -380,9 +371,7 @@
 
 <!-- end list -->
 
-  - 4月19日－6月21日：**[TAKE
-    FIVE～我們能盜取愛嗎～](https://zh.wikipedia.org/wiki/TAKE_FIVE "wikilink")**（TAKE
-    FIVE〜俺たちは愛を盗めるか〜）
+  - 4月19日－6月21日：**[TAKE FIVE～我們能盜取愛嗎～](https://zh.wikipedia.org/wiki/TAKE_FIVE "wikilink")**（TAKE FIVE〜俺たちは愛を盗めるか〜）
 
 <!-- end list -->
 
@@ -471,8 +460,7 @@
 <!-- end list -->
 
   -
-    原作：[丹尼爾·凱斯](../Page/丹尼爾·凱斯.md "wikilink")《[獻給阿爾吉儂的花束](../Page/獻給阿爾吉儂的花束.md "wikilink")》（Flowers
-    for Algernon，1966年）
+    原作：[丹尼爾·凱斯](../Page/丹尼爾·凱斯.md "wikilink")《[獻給阿爾吉儂的花束](../Page/獻給阿爾吉儂的花束.md "wikilink")》（Flowers for Algernon，1966年）
     主演：[山下智久](../Page/山下智久.md "wikilink")
     劇本：[池田奈津子](https://zh.wikipedia.org/wiki/池田奈津子 "wikilink")
 
@@ -649,7 +637,7 @@
 
 <!-- end list -->
 
-  - 7月－9月：**[凪的新生活](https://zh.wikipedia.org/wiki/凪的新生活 "wikilink")**（）
+  - 7月－9月：**[凪的新生活](../Page/凪的新生活.md "wikilink")**（）
 
 <!-- end list -->
 
@@ -877,13 +865,11 @@
   - [美國](https://zh.wikipedia.org/wiki/美國 "wikilink")
       - [KIKU-TV](https://zh.wikipedia.org/wiki/KIKU-TV "wikilink")（[夏威夷州](../Page/夏威夷州.md "wikilink")）
       - NGN（[夏威夷州](../Page/夏威夷州.md "wikilink")）
-      - [TV
-        Japan](../Page/TV_Japan.md "wikilink")（[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")、[加拿大](../Page/加拿大.md "wikilink")、[波多黎各](../Page/波多黎各.md "wikilink")）
+      - [TV Japan](../Page/TV_Japan.md "wikilink")（[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")、[加拿大](../Page/加拿大.md "wikilink")、[波多黎各](../Page/波多黎各.md "wikilink")）
   - [台灣](../Page/臺灣.md "wikilink")
-      - [緯來日本台早期以](../Page/緯來日本台.md "wikilink")「一番偶像劇」，後來將劇集各自打散，是為週一至週五時段，另外有同季播出-{《[大奧【男女‧逆轉】](../Page/大奧_～誕生【有功·家光篇】.md "wikilink")》}-於週六播出。
+      - [緯來日本台](../Page/緯來日本台.md "wikilink")早期以「一番偶像劇」，後來將劇集各自打散，是為週一至週五時段，另外有同季播出-{《[大奧【男女‧逆轉】](../Page/大奧_～誕生【有功·家光篇】.md "wikilink")》}-於週六播出。
       - [TVBS歡樂台](../Page/TVBS歡樂台.md "wikilink")
-      - [八大戲劇台開闢](../Page/八大戲劇台.md "wikilink")「TBS劇場」同季播出，是為2014年4月11日起週五時段，僅引進-{《[愛麗絲的復仇](https://zh.wikipedia.org/wiki/愛麗絲的復仇 "wikilink")》}-
-        。
+      - [八大戲劇台](../Page/八大戲劇台.md "wikilink")開闢「TBS劇場」同季播出，是為2014年4月11日起週五時段，僅引進-{《[愛麗絲的復仇](https://zh.wikipedia.org/wiki/愛麗絲的復仇 "wikilink")》}- 。
       - [國興衛視](../Page/國興衛視.md "wikilink")
   - [香港](../Page/香港.md "wikilink")
       - [電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")、[高清翡翠台](../Page/高清翡翠台.md "wikilink")、[J2](../Page/J2.md "wikilink")、[煲劇1台](https://zh.wikipedia.org/wiki/煲劇1台 "wikilink")、[煲劇2台](https://zh.wikipedia.org/wiki/煲劇2台 "wikilink")、[美亞電視劇台](../Page/美亞電視劇台.md "wikilink")。
@@ -899,7 +885,4 @@
 
   - [TBS官方網站](http://www.tbs.co.jp/)
 
-[Category:日本電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:日本電視台電視劇列表 "wikilink")
-[Category:TBS電視劇](https://zh.wikipedia.org/wiki/Category:TBS電視劇 "wikilink")
-[Category:TBS週五連續劇](https://zh.wikipedia.org/wiki/Category:TBS週五連續劇 "wikilink")
-[Category:日本電視劇播放時段](https://zh.wikipedia.org/wiki/Category:日本電視劇播放時段 "wikilink")
+[Category:日本電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:日本電視台電視劇列表 "wikilink") [Category:TBS電視劇](https://zh.wikipedia.org/wiki/Category:TBS電視劇 "wikilink") [Category:TBS週五連續劇](https://zh.wikipedia.org/wiki/Category:TBS週五連續劇 "wikilink") [Category:日本電視劇播放時段](https://zh.wikipedia.org/wiki/Category:日本電視劇播放時段 "wikilink")

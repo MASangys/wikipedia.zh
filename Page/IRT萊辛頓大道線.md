@@ -1,8 +1,8 @@
 **萊辛頓大道線**（），又稱**東城線**或**萊辛頓-第四大道線**，是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[IRT分部其中一條路線](../Page/跨區捷運公司.md "wikilink")，由或[曼哈頓下城北上至](https://zh.wikipedia.org/wiki/曼哈頓下城 "wikilink")[東哈萊姆的](https://zh.wikipedia.org/wiki/東哈萊姆_\(曼哈頓\) "wikilink")[125街](https://zh.wikipedia.org/wiki/125街車站_\(IRT萊辛頓大道線\) "wikilink")。[曼哈頓下城和](https://zh.wikipedia.org/wiki/曼哈頓下城 "wikilink")[中城的部分是紐約全市](../Page/曼哈頓中城.md "wikilink")的一部分。此線有等服務路線途經。
 
-幾十年間，萊辛頓大道線是[曼哈頓唯一一條服務](../Page/曼哈頓.md "wikilink")[上東城和東](https://zh.wikipedia.org/wiki/上東城 "wikilink")[中城的路線](../Page/曼哈頓中城.md "wikilink")，因此這條四線鐵路也是全美國最多乘客使用的地鐵路線。該路線每日平均有130萬人次使用，比[舊金山](../Page/舊金山灣區捷運系統.md "wikilink")（每日452,600人次）、[芝加哥](https://zh.wikipedia.org/wiki/芝加哥地鐵 "wikilink")（每日772,900人次）、[波士頓](https://zh.wikipedia.org/wiki/馬薩諸塞灣交通局 "wikilink")（每日569,200人次）的整個還要多。2007年，萊辛頓大道線的戴客量已經超越了整個[華盛頓地鐵](../Page/華盛頓地鐵.md "wikilink")\[1\]，以至於同年開始興建[第二大道線以減輕其負擔](../Page/第二大道線.md "wikilink")\[2\]。
+幾十年間，萊辛頓大道線是[曼哈頓](../Page/曼哈頓.md "wikilink")唯一一條服務[上東城和東](https://zh.wikipedia.org/wiki/上東城 "wikilink")[中城的路線](../Page/曼哈頓中城.md "wikilink")，因此這條四線鐵路也是全美國最多乘客使用的地鐵路線。該路線每日平均有130萬人次使用，比[舊金山](../Page/舊金山灣區捷運系統.md "wikilink")（每日452,600人次）、[芝加哥](https://zh.wikipedia.org/wiki/芝加哥地鐵 "wikilink")（每日772,900人次）、[波士頓](https://zh.wikipedia.org/wiki/馬薩諸塞灣交通局 "wikilink")（每日569,200人次）的整個還要多。2007年，萊辛頓大道線的戴客量已經超越了整個[華盛頓地鐵](../Page/華盛頓地鐵.md "wikilink")\[1\]，以至於同年開始興建[第二大道線](../Page/第二大道線.md "wikilink")以減輕其負擔\[2\]。
 
-沿線有四個車站被廢棄。當各月台都延長至容納10節車箱的列車時一併關閉了一些相鄰的站。車站因為太接近[14街-聯合廣場與](https://zh.wikipedia.org/wiki/14街-聯合廣場車站_\(IRT萊辛頓大道線\) "wikilink")[23街車站而廢棄](https://zh.wikipedia.org/wiki/23街車站_\(IRT萊辛頓大道線\) "wikilink")\[3\]。另外，與車站都與[布魯克林大橋-市政府車站的布魯克林大橋和杜安街出口太接近而廢棄](https://zh.wikipedia.org/wiki/布魯克林大橋-市政府車站_\(IRT萊辛頓大道線\) "wikilink")\[4\]\[5\]。最後，[南碼頭位於](https://zh.wikipedia.org/wiki/南碼頭迴圈 "wikilink")[布林格陵車站的步行距離內](https://zh.wikipedia.org/wiki/布林格陵車站_\(IRT萊辛頓大道線\) "wikilink")，而且正正位於[IRT百老匯-第七大道線對應車站旁邊](../Page/IRT百老匯-第七大道線.md "wikilink")\[6\]。
+沿線有四個車站被廢棄。當各月台都延長至容納10節車箱的列車時一併關閉了一些相鄰的站。車站因為太接近[14街-聯合廣場與](https://zh.wikipedia.org/wiki/14街-聯合廣場車站_\(IRT萊辛頓大道線\) "wikilink")[23街車站而廢棄](https://zh.wikipedia.org/wiki/23街車站_\(IRT萊辛頓大道線\) "wikilink")\[3\]。另外，與車站都與[布魯克林大橋-市政府車站的布魯克林大橋和杜安街出口太接近而廢棄](https://zh.wikipedia.org/wiki/布魯克林大橋-市政府車站_\(IRT萊辛頓大道線\) "wikilink")\[4\]\[5\]。最後，[南碼頭位於](https://zh.wikipedia.org/wiki/南碼頭迴圈 "wikilink")[布林格陵車站的步行距離內](https://zh.wikipedia.org/wiki/布林格陵車站_\(IRT萊辛頓大道線\) "wikilink")，而且正正位於[IRT百老匯-第七大道線](../Page/IRT百老匯-第七大道線.md "wikilink")對應車站旁邊\[6\]。
 
 ## 服務
 
@@ -459,8 +459,7 @@
 
 ## 參考文獻
 
-[Category:紐約地鐵路線](https://zh.wikipedia.org/wiki/Category:紐約地鐵路線 "wikilink")
-[Category:1904年啟用的鐵路線](https://zh.wikipedia.org/wiki/Category:1904年啟用的鐵路線 "wikilink")
+[Category:紐約地鐵路線](https://zh.wikipedia.org/wiki/Category:紐約地鐵路線 "wikilink") [Category:1904年啟用的鐵路線](https://zh.wikipedia.org/wiki/Category:1904年啟用的鐵路線 "wikilink")
 
 1.
 

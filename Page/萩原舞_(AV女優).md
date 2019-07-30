@@ -1,4 +1,4 @@
-**萩原舞**（，）是[日本著名](../Page/日本.md "wikilink")[寫真女星與](https://zh.wikipedia.org/wiki/寫真 "wikilink")[AV女優](../Page/AV女優.md "wikilink")，她於1997年起就開始了寫真女星的生涯，因其可愛健康的形象讓他成為「菓子系寫真偶像」的代表人物。
+**萩原舞**（，）是[日本](../Page/日本.md "wikilink")著名[寫真女星與](https://zh.wikipedia.org/wiki/寫真 "wikilink")[AV女優](../Page/AV女優.md "wikilink")，她於1997年起就開始了寫真女星的生涯，因其可愛健康的形象讓他成為「菓子系寫真偶像」的代表人物。
 
 ## 略歷
 
@@ -25,8 +25,7 @@
   - 夢より星より太陽より （2004年2月27日、みるくる）
   - マイチィ・リップス （2004年3月26日、みるくる）
   - 愛をかけてください 完全版 （2004年5月28日、みるくる）
-  - 嬲られ姫
-    （2004年11月19日、[アリスJAPAN](https://zh.wikipedia.org/wiki/アリスJAPAN "wikilink")）
+  - 嬲られ姫 （2004年11月19日、[アリスJAPAN](https://zh.wikipedia.org/wiki/アリスJAPAN "wikilink")）
   - 女尻 （2004年12月24日、アリスJAPAN）
   - 姦理人は女子校生 （2005年2月18日、アリスJAPAN）
   - Juicy Love （2005年3月18日、アリスJAPAN）
@@ -48,8 +47,7 @@
   - COMPLETE FUCK 萩原舞 2 （2007年4月27日、アリスJAPAN）※総集編
   - アリスピンクファイル あの新基準モザイクで魅せる\! 萩原舞 （2007年6月29日、アリスJAPAN）※総集編
   - アリスピンクファイル あの新基準モザイクで魅せる\! 萩原舞2 （2007年7月13日、アリスJAPAN）※総集編
-  - 解禁
-    （2008年9月16日、[マキシング](https://zh.wikipedia.org/wiki/マキシング "wikilink")）
+  - 解禁 （2008年9月16日、[マキシング](https://zh.wikipedia.org/wiki/マキシング "wikilink")）
   - 偶像破壊 淫絶FUCK！ （2008年10月16日、マキシング）
   - 萩原舞コレクション （2009年8月16日、マキシング）※総集編
 
@@ -61,5 +59,4 @@
 
   - [官方網站](http://www.maichy.jp)
 
-[Category:日本AV女優](https://zh.wikipedia.org/wiki/Category:日本AV女優 "wikilink")
-[Category:大阪府出身人物](https://zh.wikipedia.org/wiki/Category:大阪府出身人物 "wikilink")
+[Category:日本AV女優](https://zh.wikipedia.org/wiki/Category:日本AV女優 "wikilink") [Category:大阪府出身人物](https://zh.wikipedia.org/wiki/Category:大阪府出身人物 "wikilink")

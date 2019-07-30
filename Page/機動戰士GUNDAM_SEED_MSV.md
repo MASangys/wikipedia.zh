@@ -1,13 +1,10 @@
-**機動戰士GUNDAM SEED MSV**是[機動戰士GUNDAM
-SEED的正式外傳作品之一](../Page/機動戰士GUNDAM_SEED.md "wikilink")，與「ASTRAY」系列有著微妙的關聯、補完劇情。「MSV」是全寫為MOBILE
-SUIT VARIATION，意思是指MS的變化，顯示出存在於該時空背景下，但在正傳動畫中可能未出現的MS。
+**機動戰士GUNDAM SEED MSV**是[機動戰士GUNDAM SEED的正式外傳作品之一](../Page/機動戰士GUNDAM_SEED.md "wikilink")，與「ASTRAY」系列有著微妙的關聯、補完劇情。「MSV」是全寫為MOBILE SUIT VARIATION，意思是指MS的變化，顯示出存在於該時空背景下，但在正傳動畫中可能未出現的MS。
 
 ## OVA作品
 
 OVA作品有4份，其中一套為[機動戰士高達SEED的外傳印象曲](https://zh.wikipedia.org/wiki/機動戰士高達SEED "wikilink")，其餘動畫都主要講述迷惘高達紅、藍、金色三機的部份行蹤。
 
-  - **機動戰士GUNDAM SEED MSV印象曲 - Zips** (OVA) [T.M.
-    Revolution](https://zh.wikipedia.org/wiki/T.M._Revolution "wikilink")
+  - **機動戰士GUNDAM SEED MSV印象曲 - Zips** (OVA) [T.M. Revolution](https://zh.wikipedia.org/wiki/T.M._Revolution "wikilink")
 
 <!-- end list -->
 
@@ -22,62 +19,46 @@ OVA作品有4份，其中一套為[機動戰士高達SEED的外傳印象曲](htt
 
 ## 漫畫作品
 
-*MSV漫畫作品*是刊載於[Gundam Game
-ACE](https://zh.wikipedia.org/wiki/Gundam_Game_ACE "wikilink")。內容雖短，但亦可作為其他篇章的前傳。
+*MSV漫畫作品*是刊載於[Gundam Game ACE](https://zh.wikipedia.org/wiki/Gundam_Game_ACE "wikilink")。內容雖短，但亦可作為其他篇章的前傳。
 
-  - **機動戰士GUNDAM SEED MSV - 黃昏的魔彈** (漫畫)
-    [鴇田洸一](../Page/時田洸一.md "wikilink")
+  - **機動戰士GUNDAM SEED MSV - 黃昏的魔彈** (漫畫) [鴇田洸一](../Page/時田洸一.md "wikilink")
 
 <!-- end list -->
 
   -
-    於[機動戰士GUNDAM SEED
-    ASTRAY](../Page/機動戰士GUNDAM_SEED_ASTRAY.md "wikilink")(漫畫)單行本第三冊刊載。
-    劇情以未獲取迷茫高達藍色機的叢雲
-    劾攻擊[Z.A.F.T.的補給基地為基礎](https://zh.wikipedia.org/wiki/Z.A.F.T. "wikilink")，相當於機動戰士GUNDAM
-    SEED ASTRAY的前傳。
+    於[機動戰士GUNDAM SEED ASTRAY](../Page/機動戰士GUNDAM_SEED_ASTRAY.md "wikilink")(漫畫)單行本第三冊刊載。
+    劇情以未獲取迷茫高達藍色機的叢雲 劾攻擊[Z.A.F.T.的補給基地為基礎](https://zh.wikipedia.org/wiki/Z.A.F.T. "wikilink")，相當於機動戰士GUNDAM SEED ASTRAY的前傳。
 
 <!-- end list -->
 
-  - **機動戰士GUNDAM SEED MSV - 開膛手愛德** (漫畫)
-    [鴇田洸一](../Page/時田洸一.md "wikilink")
+  - **機動戰士GUNDAM SEED MSV - 開膛手愛德** (漫畫) [鴇田洸一](../Page/時田洸一.md "wikilink")
 
 <!-- end list -->
 
   -
-    於Gundam Game ACE Vol.2和[機動戰士GUNDAM SEED DESTINY
-    ASTRAY](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_SEED_DESTINY_ASTRAY "wikilink")(漫畫)單行本第一冊刊載。
-    劇情以[PS2遊戲軟體](https://zh.wikipedia.org/wiki/PS2 "wikilink")「機動戰士高達GUNDAM
-    SEED無盡的明日」的「MISSION MODE 血染維多利亞宇宙港」為基礎，相當於機動戰士GUNDAM SEED DESTINY
-    ASTRAY的前傳。
+    於Gundam Game ACE Vol.2和[機動戰士GUNDAM SEED DESTINY ASTRAY](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_SEED_DESTINY_ASTRAY "wikilink")(漫畫)單行本第一冊刊載。
+    劇情以[PS2遊戲軟體](https://zh.wikipedia.org/wiki/PS2 "wikilink")「機動戰士高達GUNDAM SEED無盡的明日」的「MISSION MODE 血染維多利亞宇宙港」為基礎，相當於機動戰士GUNDAM SEED DESTINY ASTRAY的前傳。
 
 ## MSV戰記
 
-*機動戰士GUNDAM SEED MSV戰記*與*機動戰士GUNDAM SEED DESTINY MSV戰記*
-是[Sunrise和](https://zh.wikipedia.org/wiki/Sunrise "wikilink")[Studio
-Orphee的](https://zh.wikipedia.org/wiki/Studio_Orphee "wikilink")[千葉智宏的監修下](https://zh.wikipedia.org/wiki/千葉智宏 "wikilink")，由[Studio
-Nue的森田繁編織的短篇故事](https://zh.wikipedia.org/wiki/Studio_Nue "wikilink")，配合使用各模型範例作品拍的情景照片而誕生的外傳。該戰記是以年表的記述與對話等把TV版動畫本篇沒有描寫到的不同時間軸和其他戰場作為舞台，當中在另外傳「ASTRAY」方面的活躍人物亦有登場。
+*機動戰士GUNDAM SEED MSV戰記*與*機動戰士GUNDAM SEED DESTINY MSV戰記* 是[Sunrise和](https://zh.wikipedia.org/wiki/Sunrise "wikilink")[Studio Orphee的](https://zh.wikipedia.org/wiki/Studio_Orphee "wikilink")[千葉智宏的監修下](https://zh.wikipedia.org/wiki/千葉智宏 "wikilink")，由[Studio Nue的森田繁編織的短篇故事](https://zh.wikipedia.org/wiki/Studio_Nue "wikilink")，配合使用各模型範例作品拍的情景照片而誕生的外傳。該戰記是以年表的記述與對話等把TV版動畫本篇沒有描寫到的不同時間軸和其他戰場作為舞台，當中在另外傳「ASTRAY」方面的活躍人物亦有登場。
 
-  - **機動戰士GUNDAM SEED MSV戰記** (情景小說)
-    [森田繁](https://zh.wikipedia.org/wiki/森田繁 "wikilink")
+  - **機動戰士GUNDAM SEED MSV戰記** (情景小說) [森田繁](https://zh.wikipedia.org/wiki/森田繁 "wikilink")
 
 <!-- end list -->
 
   -
-    於[HJ雜誌和](https://zh.wikipedia.org/wiki/HJ雜誌 "wikilink") 機動戰士GUNDAM
-    SEED DESTINY模型專輯Vol.2 刊載。
+    於[HJ雜誌和](https://zh.wikipedia.org/wiki/HJ雜誌 "wikilink") 機動戰士GUNDAM SEED DESTINY模型專輯Vol.2 刊載。
     共有7話。
 
 <!-- end list -->
 
-  - **機動戰士GUNDAM SEED DESTINY MSV戰記** (情景小說)
-    [森田繁](https://zh.wikipedia.org/wiki/森田繁 "wikilink")
+  - **機動戰士GUNDAM SEED DESTINY MSV戰記** (情景小說) [森田繁](https://zh.wikipedia.org/wiki/森田繁 "wikilink")
 
 <!-- end list -->
 
   -
-    於[HJ雜誌和](https://zh.wikipedia.org/wiki/HJ雜誌 "wikilink") 機動戰士GUNDAM
-    SEED DESTINY模型專輯Vol.2 刊載。
+    於[HJ雜誌和](https://zh.wikipedia.org/wiki/HJ雜誌 "wikilink") 機動戰士GUNDAM SEED DESTINY模型專輯Vol.2 刊載。
     共有3話。
 
 ## 登場人物
@@ -125,7 +106,7 @@ Nue的森田繁編織的短篇故事](https://zh.wikipedia.org/wiki/Studio_Nue "
 <!-- end list -->
 
   -
-    绰号“[恩底弥翁之鹰](../Page/恩底弥翁.md "wikilink")”
+    绰号“[恩底弥翁](../Page/恩底弥翁.md "wikilink")之鹰”
 
 ### [Z.A.F.T.](https://zh.wikipedia.org/wiki/Z.A.F.T. "wikilink")
 

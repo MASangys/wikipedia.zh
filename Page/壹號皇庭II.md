@@ -1,4 +1,4 @@
-《**壹號皇庭II**》（[英文](https://zh.wikipedia.org/wiki/英語 "wikilink")：），[香港](../Page/香港.md "wikilink")[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[翡翠台時裝法律](../Page/翡翠台.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，原定於[壹號皇庭第一集推出後的一周年播出](../Page/壹號皇庭.md "wikilink")，但因本劇為星期日劇集，加上1993年4月19日為星期一，故改由1993年4月18日首播，共15集，監製[鄧特希](../Page/鄧特希.md "wikilink")。逢星期日播出。\[1\]\[2\]
+《**壹號皇庭II**》（[英文](https://zh.wikipedia.org/wiki/英語 "wikilink")：），[香港](../Page/香港.md "wikilink")[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")時裝法律[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，原定於[壹號皇庭](../Page/壹號皇庭.md "wikilink")第一集推出後的一周年播出，但因本劇為星期日劇集，加上1993年4月19日為星期一，故改由1993年4月18日首播，共15集，監製[鄧特希](../Page/鄧特希.md "wikilink")。逢星期日播出。\[1\]\[2\]
 
 ## 與上輯的矛盾
 
@@ -76,7 +76,7 @@
 <td><p>彬Sir<br />
 警長<br />
 江承宙男友，後分手<br />
-林學宜男友</p></td>
+</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/蘇永康.md" title="wikilink">蘇永康</a></p></td>
@@ -1474,13 +1474,9 @@ Joan</p></td>
 
 ## 主題音樂及插曲
 
-  - 主題音樂：《[Your Latest
-    Trick](https://zh.wikipedia.org/wiki/Your_Latest_Trick "wikilink")》
-      - SAXO-PHONE：[Phil
-        Rombaoa](https://zh.wikipedia.org/wiki/Phil_Rombaoa "wikilink")
-      - 作曲：[Mark
-        Knopfler](https://zh.wikipedia.org/wiki/Mark_Knopfler "wikilink")
-        / [羅雁武](https://zh.wikipedia.org/wiki/羅雁武 "wikilink")
+  - 主題音樂：《[Your Latest Trick](https://zh.wikipedia.org/wiki/Your_Latest_Trick "wikilink")》
+      - SAXO-PHONE：[Phil Rombaoa](https://zh.wikipedia.org/wiki/Phil_Rombaoa "wikilink")
+      - 作曲：[Mark Knopfler](https://zh.wikipedia.org/wiki/Mark_Knopfler "wikilink") / [羅雁武](https://zh.wikipedia.org/wiki/羅雁武 "wikilink")
 
 <!-- end list -->
 
@@ -1500,18 +1496,12 @@ Joan</p></td>
 
 ## 外部連結
 
-  - [無綫電視官方網頁 -
-    壹號皇庭II](https://web.archive.org/web/20080611124143/http://tvcity.tvb.com/drama/just2/index.htm)
-  - [《壹號皇庭II》 GOTV
-    第1集重溫](https://web.archive.org/web/20140222163103/http://gotv.tvb.com/programme/102463/151902/)
+  - [無綫電視官方網頁 - 壹號皇庭II](https://web.archive.org/web/20080611124143/http://tvcity.tvb.com/drama/just2/index.htm)
+  - [《壹號皇庭II》 GOTV 第1集重溫](https://web.archive.org/web/20140222163103/http://gotv.tvb.com/programme/102463/151902/)
 
 ## 電視節目的變遷
 
-[Category:1993年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:1993年無綫電視劇集 "wikilink")
-[Category:無綫電視劇集系列](https://zh.wikipedia.org/wiki/Category:無綫電視劇集系列 "wikilink")
-[Category:無綫電視1990年代背景劇集](https://zh.wikipedia.org/wiki/Category:無綫電視1990年代背景劇集 "wikilink")
+[Category:1993年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:1993年無綫電視劇集 "wikilink") [Category:無綫電視劇集系列](https://zh.wikipedia.org/wiki/Category:無綫電視劇集系列 "wikilink") [Category:無綫電視1990年代背景劇集](https://zh.wikipedia.org/wiki/Category:無綫電視1990年代背景劇集 "wikilink")
 
-1.  [蘇永廉自爆當年拍《壹號皇庭II》
-    王菲被碰手嚇到彈開](https://news.mingpao.com/ins/instantnews/web_tc/article/20170922/s00007/1506074827015)
-2.  [通頂翻煲《皇庭II》
-    蘇永康自嘲同王菲演美女與野獸](http://hd.stheadline.com/news/realtime/ent/1024352/)
+1.  [蘇永廉自爆當年拍《壹號皇庭II》 王菲被碰手嚇到彈開](https://news.mingpao.com/ins/instantnews/web_tc/article/20170922/s00007/1506074827015)
+2.  [通頂翻煲《皇庭II》 蘇永康自嘲同王菲演美女與野獸](http://hd.stheadline.com/news/realtime/ent/1024352/)

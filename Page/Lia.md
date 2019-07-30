@@ -1,6 +1,4 @@
-**Lia**（）是[日本](../Page/日本.md "wikilink")[女性](../Page/女性.md "wikilink")[唱作歌手](https://zh.wikipedia.org/wiki/唱作歌手 "wikilink")，1st
-Place所屬。為[IA -ARIA ON THE
-PLANETES-的聲源](https://zh.wikipedia.org/wiki/IA_-ARIA_ON_THE_PLANETES- "wikilink")。擁有治癒系的歌聲，其歌唱力亦極受肯定，並參加**[I've](../Page/I've.md "wikilink")**。她亦在[快樂硬核的領域中活躍](../Page/快樂硬核.md "wikilink")（以大寫「**LIA**」為名義），現居香港\[1\]。
+**Lia**（）是[日本](../Page/日本.md "wikilink")[女性](../Page/女性.md "wikilink")[唱作歌手](https://zh.wikipedia.org/wiki/唱作歌手 "wikilink")，1st Place所屬。為[IA -ARIA ON THE PLANETES-的聲源](https://zh.wikipedia.org/wiki/IA_-ARIA_ON_THE_PLANETES- "wikilink")。擁有治癒系的歌聲，其歌唱力亦極受肯定，並參加**[I've](../Page/I've.md "wikilink")**。她亦在[快樂硬核](../Page/快樂硬核.md "wikilink")的領域中活躍（以大寫「**LIA**」為名義），現居香港\[1\]。
 
 ## 作品列表
 
@@ -249,8 +247,7 @@ MJMCD-04（通常盤）</p></td>
 #### 黑膠唱片
 
   - **I'm feeling**（2003年7月1日発売　発売元：MasterWax）
-    収録曲：I'm Feeling （Scott Brown & DJ Evil Remix）remix by DJ Evil, remix
-    by Scott Brown／I'm Feeling （Phosphor Remix）remix by DJ Phosphor
+    収録曲：I'm Feeling （Scott Brown & DJ Evil Remix）remix by DJ Evil, remix by Scott Brown／I'm Feeling （Phosphor Remix）remix by DJ Phosphor
 
 ### LIA名義
 
@@ -473,7 +470,7 @@ q流通＝queens label流通／p流通＝ポニーキャニオン流通
 </dl></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/校園迷糊大王.md" title="wikilink">校園迷糊大王～二學期～</a></p></td>
+<td><p><a href="../Page/校園迷糊大王.md" title="wikilink">校園迷糊大王</a>～二學期～</p></td>
 <td><dl>
 <dt></dt>
 <dd>Girls Can Rock - 挿入曲
@@ -524,7 +521,7 @@ q流通＝queens label流通／p流通＝ポニーキャニオン流通
 <td><p><a href="https://zh.wikipedia.org/wiki/GUNSLINGER_GIRL" title="wikilink">GUNSLINGER GIRL -IL TEATRINO-</a></p></td>
 <td><dl>
 <dt></dt>
-<dd>doll - ED主題曲、另有<a href="../Page/多田葵.md" title="wikilink">多田葵主唱的版本</a>
+<dd>doll - ED主題曲、另有<a href="../Page/多田葵.md" title="wikilink">多田葵</a>主唱的版本
 </dd>
 <dd>human - 第13話ED主題曲
 </dd>
@@ -649,17 +646,10 @@ q流通＝queens label流通／p流通＝ポニーキャニオン流通
 
   - [queens label official site](http://queenslabel.product.co.jp/)
 
-[Category:日本女性創作歌手](https://zh.wikipedia.org/wiki/Category:日本女性創作歌手 "wikilink")
-[Category:I've](https://zh.wikipedia.org/wiki/Category:I've "wikilink")
-[Category:Key_Sounds_Label](https://zh.wikipedia.org/wiki/Category:Key_Sounds_Label "wikilink")
-[Category:愛貝克思集團藝人](https://zh.wikipedia.org/wiki/Category:愛貝克思集團藝人 "wikilink")
-[Category:東京都出身人物](https://zh.wikipedia.org/wiki/Category:東京都出身人物 "wikilink")
-[Category:Oricon動畫單曲年榜冠軍獲得者](https://zh.wikipedia.org/wiki/Category:Oricon動畫單曲年榜冠軍獲得者 "wikilink")
-[Category:電子遊戲音樂家](https://zh.wikipedia.org/wiki/Category:電子遊戲音樂家 "wikilink")
-[Category:伯克利音樂學院校友](https://zh.wikipedia.org/wiki/Category:伯克利音樂學院校友 "wikilink")
+[Category:日本女性創作歌手](https://zh.wikipedia.org/wiki/Category:日本女性創作歌手 "wikilink") [Category:I've](https://zh.wikipedia.org/wiki/Category:I've "wikilink") [Category:Key_Sounds_Label](https://zh.wikipedia.org/wiki/Category:Key_Sounds_Label "wikilink") [Category:愛貝克思集團藝人](https://zh.wikipedia.org/wiki/Category:愛貝克思集團藝人 "wikilink") [Category:東京都出身人物](https://zh.wikipedia.org/wiki/Category:東京都出身人物 "wikilink") [Category:Oricon動畫單曲年榜冠軍獲得者](https://zh.wikipedia.org/wiki/Category:Oricon動畫單曲年榜冠軍獲得者 "wikilink") [Category:電子遊戲音樂家](https://zh.wikipedia.org/wiki/Category:電子遊戲音樂家 "wikilink") [Category:伯克利音樂學院校友](https://zh.wikipedia.org/wiki/Category:伯克利音樂學院校友 "wikilink")
 
 1.  【Lia & IA】“A Special Night” Lia & IA Live in Hong Kong 2016
 2.  2001年8月10日Comic Market先行發售
 3.  2002年12月28日Comic Market先行發售
 4.  2003年8月15日Comic Market先行發售
-5.  収録シングルは同アニメのオープニング主題歌を担当した[松原剛志との合同名義](../Page/松原剛志.md "wikilink")。サウンドプロデュースに[浜崎あゆみ](https://zh.wikipedia.org/wiki/浜崎あゆみ "wikilink")、[右手愛美などのj](https://zh.wikipedia.org/wiki/右手愛美 "wikilink")-popシンガーに曲を提供してきた[HΛLが手がけている](https://zh.wikipedia.org/wiki/HΛL "wikilink")。
+5.  収録シングルは同アニメのオープニング主題歌を担当した[松原剛志](../Page/松原剛志.md "wikilink")との合同名義。サウンドプロデュースに[浜崎あゆみ](https://zh.wikipedia.org/wiki/浜崎あゆみ "wikilink")、[右手愛美などのj](https://zh.wikipedia.org/wiki/右手愛美 "wikilink")-popシンガーに曲を提供してきた[HΛLが手がけている](https://zh.wikipedia.org/wiki/HΛL "wikilink")。

@@ -1,5 +1,4 @@
-**DENGEKI
-HIME**，（原名“”）是[MediaWorks發行的](../Page/MediaWorks.md "wikilink")[日本成人遊戲月刊雜誌](../Page/日本成人遊戲.md "wikilink")，於1997年發行至2014年\[1\]，2007年將書名從《電擊姬》更改為現名。\[2\]
+**DENGEKI HIME**，（原名“”）是[MediaWorks](../Page/MediaWorks.md "wikilink")發行的[日本成人遊戲](../Page/日本成人遊戲.md "wikilink")月刊雜誌，於1997年發行至2014年\[1\]，2007年將書名從《電擊姬》更改為現名。\[2\]
 
 ## 歷史、介紹
 
@@ -7,14 +6,11 @@ HIME**，（原名“”）是[MediaWorks發行的](../Page/MediaWorks.md "wikil
 
 從創刊數年間是唯一封面不使用插畫，而使用女藝人封面的成人遊戲雜誌。於2003年末開始轉為插畫封面。在2005年1月號使用先月才起用的插畫家[Tony的插圖](../Page/Tony_\(插畫家\).md "wikilink")，更令他擔當人物設定的遊戲《[光明之淚](../Page/光明之淚.md "wikilink")》成為話題。
 
-同時，它和姊妹誌《[電擊G's雜誌](https://zh.wikipedia.org/wiki/電擊G's雜誌 "wikilink")》同様有[讀者参加計劃實施](https://zh.wikipedia.org/wiki/讀者参加計劃 "wikilink")。「[Maid
-in
-Dream](https://zh.wikipedia.org/wiki/Maid_in_Dream "wikilink")」於2002年被遊戲化。
+同時，它和姊妹誌《[電擊G's雜誌](https://zh.wikipedia.org/wiki/電擊G's雜誌 "wikilink")》同様有[讀者参加計劃實施](https://zh.wikipedia.org/wiki/讀者参加計劃 "wikilink")。「[Maid in Dream](https://zh.wikipedia.org/wiki/Maid_in_Dream "wikilink")」於2002年被遊戲化。
 
 2006年9月號，G's編集長高野希義兼任電擊姬的編集長，引起兩誌是否統一的謠言。
 
-2007年4月號，雜誌內容大幅重新設計，名稱也變為现在的「DENGEKI
-HIME」（電擊姬日文的[羅馬字](https://zh.wikipedia.org/wiki/羅馬字 "wikilink")）。
+2007年4月號，雜誌內容大幅重新設計，名稱也變為现在的「DENGEKI HIME」（電擊姬日文的[羅馬字](https://zh.wikipedia.org/wiki/羅馬字 "wikilink")）。
 
 2014年12月27日發售2015年2月号後休刊，2018年3月26日官方宣布於同年4月2日關閉官方網站「.com」。
 
@@ -78,10 +74,7 @@ HIME」（電擊姬日文的[羅馬字](https://zh.wikipedia.org/wiki/羅馬字 
 
   - [電撃姫.com](http://www.dengeki-hime.com/)
 
-[Category:日本成人遊戲雜誌](https://zh.wikipedia.org/wiki/Category:日本成人遊戲雜誌 "wikilink")
-[Category:ASCII_Media_Works](https://zh.wikipedia.org/wiki/Category:ASCII_Media_Works "wikilink")
-[Category:1997年創辦的雜誌](https://zh.wikipedia.org/wiki/Category:1997年創辦的雜誌 "wikilink")
-[Category:日本月刊](https://zh.wikipedia.org/wiki/Category:日本月刊 "wikilink")
+[Category:日本成人遊戲雜誌](https://zh.wikipedia.org/wiki/Category:日本成人遊戲雜誌 "wikilink") [Category:ASCII_Media_Works](https://zh.wikipedia.org/wiki/Category:ASCII_Media_Works "wikilink") [Category:1997年創辦的雜誌](https://zh.wikipedia.org/wiki/Category:1997年創辦的雜誌 "wikilink") [Category:日本月刊](https://zh.wikipedia.org/wiki/Category:日本月刊 "wikilink")
 
 1.
 2.

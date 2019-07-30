@@ -1,7 +1,4 @@
-**動態HTML**（**Dynamic
-HTML**，简称**DHTML**、**DHML**）指的是网页内容随着用户或计算机程序提供的参数而变化的HTML，通过结合[HTML](../Page/HTML.md "wikilink")、用戶端脚本语言（Client
-Side
-Script，如[JavaScript](../Page/JavaScript.md "wikilink")）、[串接樣式表](https://zh.wikipedia.org/wiki/串接樣式表 "wikilink")（CSS）和[文件物件模型](https://zh.wikipedia.org/wiki/文件物件模型 "wikilink")（DOM）来创建動態網頁內容。
+**動態HTML**（**Dynamic HTML**，简称**DHTML**、**DHML**）指的是网页内容随着用户或计算机程序提供的参数而变化的HTML，通过结合[HTML](../Page/HTML.md "wikilink")、用戶端脚本语言（Client Side Script，如[JavaScript](../Page/JavaScript.md "wikilink")）、[串接樣式表](https://zh.wikipedia.org/wiki/串接樣式表 "wikilink")（CSS）和[文件物件模型](https://zh.wikipedia.org/wiki/文件物件模型 "wikilink")（DOM）来创建動態網頁內容。
 
 ## 应用
 
@@ -10,9 +7,7 @@ Script，如[JavaScript](../Page/JavaScript.md "wikilink")）、[串接樣式表
 1.  客户端脚本
     客户端脚本包括JavaScript技术。是指在某个页面中，通过鼠标点击或键盘操作，与网页产生交互动作；或者在特定时间激发某个事件。客户端脚本在用户的电脑系统里运行。常用于多媒体展示和远程脚本调用。
 2.  服务器脚本
-    服务器脚本包括ASP, ColdFusion, Perl, PHP, Ruby, WebDNA等技术，一般通过Common
-    Gateway Interface
-    (CGI)来产生动态页面。通过在HTML表单中填写数据，更改URL地址中的参数，更改浏览器的类型等，每次都可能产生不同的页面，称之为动态页面。
+    服务器脚本包括ASP, ColdFusion, Perl, PHP, Ruby, WebDNA等技术，一般通过Common Gateway Interface (CGI)来产生动态页面。通过在HTML表单中填写数据，更改URL地址中的参数，更改浏览器的类型等，每次都可能产生不同的页面，称之为动态页面。
 
 最常见的例子包括：
 

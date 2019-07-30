@@ -1,30 +1,14 @@
-[RAM_1GB_with_cooler.jpg](https://zh.wikipedia.org/wiki/File:RAM_1GB_with_cooler.jpg "fig:RAM_1GB_with_cooler.jpg")
-**第二代双倍数据率同步動態隨機存取記憶體**（，一般稱為**DDR2
-SDRAM**），是一種[電腦記憶體規格](../Page/電腦記憶體.md "wikilink")。它屬於[SDRAM家族的記憶體產品](../Page/SDRAM.md "wikilink")，提供了相較於[DDR
-SDRAM更高的運行效能與更低的電壓](../Page/DDR_SDRAM.md "wikilink")，是DDR
-SDRAM（双倍数据率同步動態隨機存取記憶體）的後繼者。
+[RAM_1GB_with_cooler.jpg](https://zh.wikipedia.org/wiki/File:RAM_1GB_with_cooler.jpg "fig:RAM_1GB_with_cooler.jpg") **第二代双倍数据率同步動態隨機存取記憶體**（，一般稱為**DDR2 SDRAM**），是一種[電腦記憶體](../Page/電腦記憶體.md "wikilink")規格。它屬於[SDRAM](../Page/SDRAM.md "wikilink")家族的記憶體產品，提供了相較於[DDR SDRAM更高的運行效能與更低的電壓](../Page/DDR_SDRAM.md "wikilink")，是DDR SDRAM（双倍数据率同步動態隨機存取記憶體）的後繼者。
 
 JEDEC为DDR存储器设立了速度规，并分为了以下两个部分：按内存芯片分类和按内存模块分类。
 
 ## 概述
 
-像所有的[SDRAM实现方法一样](../Page/SDRAM.md "wikilink")，DDR2
-SDRAM有一个同步接口，在响应控制输入前会等待一个[时钟信号](https://zh.wikipedia.org/wiki/时钟信号 "wikilink")，这样就能和计算机的[系统总线同步](https://zh.wikipedia.org/wiki/系统总线 "wikilink")。像之前的DDR，DDR2
-I/O
-缓冲器在时钟信号的[上升沿和](https://zh.wikipedia.org/wiki/上升沿 "wikilink")[下降沿都传输数据](https://zh.wikipedia.org/wiki/下降沿 "wikilink")（一种叫做["double
-pumping"的技术](https://zh.wikipedia.org/wiki/Double_data_rate "wikilink")）。DDR和DDR2的关键区别是：DDR2内存单元的核心频率是等效频率的1/4（而不是1/2）。这需要一个4-bit-deep的预取队列，在并不用改变内存单元本身的情况下，DDR2能有效地达到DDR数据传输速度的两倍。
+像所有的[SDRAM](../Page/SDRAM.md "wikilink")实现方法一样，DDR2 SDRAM有一个同步接口，在响应控制输入前会等待一个[时钟信号](https://zh.wikipedia.org/wiki/时钟信号 "wikilink")，这样就能和计算机的[系统总线同步](https://zh.wikipedia.org/wiki/系统总线 "wikilink")。像之前的DDR，DDR2 I/O 缓冲器在时钟信号的[上升沿和](https://zh.wikipedia.org/wiki/上升沿 "wikilink")[下降沿都传输数据](https://zh.wikipedia.org/wiki/下降沿 "wikilink")（一种叫做["double pumping"的技术](https://zh.wikipedia.org/wiki/Double_data_rate "wikilink")）。DDR和DDR2的关键区别是：DDR2内存单元的核心频率是等效频率的1/4（而不是1/2）。这需要一个4-bit-deep的预取队列，在并不用改变内存单元本身的情况下，DDR2能有效地达到DDR数据传输速度的两倍。
 
-DDR2的等效频率由于电气接口的改进（包括[on-die
-termination](https://zh.wikipedia.org/wiki/on-die_termination "wikilink"),
-[prefetch
-buffers](https://zh.wikipedia.org/wiki/prefetch_buffer "wikilink") 和
-off-chip
-drivers）而大增。然而，[CAS等待时间却增长了](https://zh.wikipedia.org/wiki/memory_latency "wikilink")。DDR2预读取是4位，而DDR预读取是2位，[DDR3预读取是](../Page/DDR3_SDRAM.md "wikilink")8位。DDR
-SDRAM一般是2到3个总线周期的读取等待时间，而DDR2一般是4到6个总线周期的读取等待时间。
+DDR2的等效频率由于电气接口的改进（包括[on-die termination](https://zh.wikipedia.org/wiki/on-die_termination "wikilink"), [prefetch buffers](https://zh.wikipedia.org/wiki/prefetch_buffer "wikilink") 和 off-chip drivers）而大增。然而，[CAS等待时间却增长了](https://zh.wikipedia.org/wiki/memory_latency "wikilink")。DDR2预读取是4位，而DDR预读取是2位，[DDR3预读取是](../Page/DDR3_SDRAM.md "wikilink")8位。DDR SDRAM一般是2到3个总线周期的读取等待时间，而DDR2一般是4到6个总线周期的读取等待时间。
 
-另外增加的带宽导致的成本是芯片封装更昂贵且更困难，因为[BGA封装相比于先前采用](https://zh.wikipedia.org/wiki/Ball_grid_array "wikilink")[TSSOP封装技术生产的](https://zh.wikipedia.org/wiki/TSSOP "wikilink")[DDR
-SDRAM和](../Page/DDR_SDRAM.md "wikilink")[SDR
-SDRAM更昂贵且更困难](https://zh.wikipedia.org/wiki/SDR_SDRAM "wikilink")。这种封装的改变需要更高的总线速度以维持信号的完整。
+另外增加的带宽导致的成本是芯片封装更昂贵且更困难，因为[BGA封装相比于先前采用](https://zh.wikipedia.org/wiki/Ball_grid_array "wikilink")[TSSOP封装技术生产的](https://zh.wikipedia.org/wiki/TSSOP "wikilink")[DDR SDRAM和](../Page/DDR_SDRAM.md "wikilink")[SDR SDRAM更昂贵且更困难](https://zh.wikipedia.org/wiki/SDR_SDRAM "wikilink")。这种封装的改变需要更高的总线速度以维持信号的完整。
 
 节能得以实现主要是由于生产过程中的模具收缩导致工作电压的下降（从DDR的2.5V到DDR2的1.8V）。更低的内存时钟频率也能使应用程序不需要最高的可用数据传输率而得以降低功耗。
 
@@ -129,7 +113,7 @@ PC2-8600</p></td>
 
 ## 历史
 
-2003年第二季度，DDR2推出了两种频率的内存：其内部时钟频率分别为200MHz（对应PC2-3200）和266MHZ（PC2-4200）。它们在延迟方面的表现不如原来的DDR内存，使得总访问时间更长。然而，原来的DDR技术时钟频率可超出200MHz（400MT/s）。更高性能的DDR芯片虽存在，但是[JEDEC已表示他们不会将其标准化](../Page/JEDEC.md "wikilink")。
+2003年第二季度，DDR2推出了两种频率的内存：其内部时钟频率分别为200MHz（对应PC2-3200）和266MHZ（PC2-4200）。它们在延迟方面的表现不如原来的DDR内存，使得总访问时间更长。然而，原来的DDR技术时钟频率可超出200MHz（400MT/s）。更高性能的DDR芯片虽存在，但是[JEDEC](../Page/JEDEC.md "wikilink")已表示他们不会将其标准化。
 
 2004年底由于模块到达更低的延迟变成现实，DDR2相比更早的DDR标准变得具有竞争力。\[2\]
 
@@ -137,36 +121,28 @@ PC2-8600</p></td>
 
 [Desktop_DDR_Memory_Comparison.svg](https://zh.wikipedia.org/wiki/File:Desktop_DDR_Memory_Comparison.svg "fig:Desktop_DDR_Memory_Comparison.svg")
 
-DDR2 DIMMs没有被设计成与DDR DIMMs向后兼容。DDR2 DIMMs的凹口位置与DDR
-DIMMs是不同的，并且用于台式机的内存针脚数DDR2高于DDR
-DIMMs。DDR2有240针，DDR有184针。用于笔记本电脑的有200针的DDR和DDR2，但是DDR凹口的位置与DDR2有微小的不同。
+DDR2 DIMMs没有被设计成与DDR DIMMs向后兼容。DDR2 DIMMs的凹口位置与DDR DIMMs是不同的，并且用于台式机的内存针脚数DDR2高于DDR DIMMs。DDR2有240针，DDR有184针。用于笔记本电脑的有200针的DDR和DDR2，但是DDR凹口的位置与DDR2有微小的不同。
 
-高性能的DDR2 DIMMs与低性能的DDR2
-DIMMs是兼容的；但是，混用高性能的内存只能以低性能内存的频率工作。在系统中，更高性能的总线与低性能的DDR2内存结合，则最终性能由低性能的内存决定；然而在许多系统中这种性能损失可以通过设置内存计时以致更低的延时来减缓。
+高性能的DDR2 DIMMs与低性能的DDR2 DIMMs是兼容的；但是，混用高性能的内存只能以低性能内存的频率工作。在系统中，更高性能的总线与低性能的DDR2内存结合，则最终性能由低性能的内存决定；然而在许多系统中这种性能损失可以通过设置内存计时以致更低的延时来减缓。
 
-## ddr2l
+## DDR2L
 
-是指筆記型電腦上的暫存記憶體，以acer,asus電腦為例，內均建[南亞科技](../Page/南亞科技.md "wikilink")，少數高階機種採用[威剛科技](https://zh.wikipedia.org/wiki/威剛科技 "wikilink")。
-[南亞科ddr2l.jpg](https://zh.wikipedia.org/wiki/File:南亞科ddr2l.jpg "fig:南亞科ddr2l.jpg")
+是指筆記型電腦上的暫存記憶體，以acer,asus電腦為例，內均建[南亞科技](../Page/南亞科技.md "wikilink")，少數高階機種採用[威剛科技](https://zh.wikipedia.org/wiki/威剛科技 "wikilink")。 [南亞科ddr2l.jpg](https://zh.wikipedia.org/wiki/File:南亞科ddr2l.jpg "fig:南亞科ddr2l.jpg")
 
 ## 参考资料
 
 ## 延伸阅读
 
-  - [JEDEC standard: DDR2 SDRAM
-    Specification](http://www.jedec.org/download/search/JESD79-2F.pdf)
-    (JESD79-2F, November 2009)
+  - [JEDEC standard: DDR2 SDRAM Specification](http://www.jedec.org/download/search/JESD79-2F.pdf) (JESD79-2F, November 2009)
 
-  - [JEDEC standard:
-    DDR2-1066](http://www.jedec.org/download/search/JESD208.pdf)
+  - [JEDEC standard: DDR2-1066](http://www.jedec.org/download/search/JESD208.pdf)
 
   -
   -
 ## 外部連結
 
   - [JEDEC website](http://www.jedec.org)
-  - [Overview of DDR-II
-    technology](https://web.archive.org/web/20090106043029/http://www.lostcircuits.com/mambo/index.php?option=com_content&task=view&id=35&Itemid=60)
+  - [Overview of DDR-II technology](https://web.archive.org/web/20090106043029/http://www.lostcircuits.com/mambo/index.php?option=com_content&task=view&id=35&Itemid=60)
   - [QBM的介紹](https://web.archive.org/web/20061110225531/http://www.xbitlabs.com/articles/memory/display/qbm.html)
 
 ## 參見
@@ -178,13 +154,9 @@ DIMMs是兼容的；但是，混用高性能的内存只能以低性能内存的
   - [雙通道](https://zh.wikipedia.org/wiki/雙通道 "wikilink")
   - [FB-DIMM](../Page/FB-DIMM.md "wikilink")
 
-[de:DDR-SDRAM\#DDR2-SDRAM](https://zh.wikipedia.org/wiki/de:DDR-SDRAM#DDR2-SDRAM "wikilink")
-[fi:DRAM\#DDR2
-SDRAM](https://zh.wikipedia.org/wiki/fi:DRAM#DDR2_SDRAM "wikilink")
+[de:DDR-SDRAM\#DDR2-SDRAM](https://zh.wikipedia.org/wiki/de:DDR-SDRAM#DDR2-SDRAM "wikilink") [fi:DRAM\#DDR2 SDRAM](https://zh.wikipedia.org/wiki/fi:DRAM#DDR2_SDRAM "wikilink")
 
-[Category:電腦記憶體](https://zh.wikipedia.org/wiki/Category:電腦記憶體 "wikilink")
-[Category:已被淘汰的電腦硬體](https://zh.wikipedia.org/wiki/Category:已被淘汰的電腦硬體 "wikilink")
+[Category:電腦記憶體](https://zh.wikipedia.org/wiki/Category:電腦記憶體 "wikilink") [Category:已被淘汰的電腦硬體](https://zh.wikipedia.org/wiki/Category:已被淘汰的電腦硬體 "wikilink")
 
-1.  [JEDEC JESD 208](http://www.jedec.org/download/search/JESD208.pdf)
-    (section 5, tables 15 and 16)
+1.  [JEDEC JESD 208](http://www.jedec.org/download/search/JESD208.pdf) (section 5, tables 15 and 16)
 2.

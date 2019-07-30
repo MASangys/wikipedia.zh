@@ -1,12 +1,8 @@
-**JCP**（**Java Community
-Process**）成立于1998年，是使有兴趣的各方参与定义[Java的特征和未来版本的正式过程](../Page/Java.md "wikilink")。
+**JCP**（**Java Community Process**）成立于1998年，是使有兴趣的各方参与定义[Java](../Page/Java.md "wikilink")的特征和未来版本的正式过程。
 
-JCP使用**JSR**（Java规范请求，*Java Specification
-Requests*）作为正式规范文档，描述被提议加入到Java体系中的的规范和技术。
+JCP使用**JSR**（Java规范请求，*Java Specification Requests*）作为正式规范文档，描述被提议加入到Java体系中的的规范和技术。
 
-JSR变为*final*状态前需要正式的公开审查，并由[JCP Executive
-Committee投票决定](https://zh.wikipedia.org/wiki/JCP_Executive_Committee "wikilink")。最终的JSR会提供一个参考实现，它是免费而且[公开源代码的](https://zh.wikipedia.org/wiki/公开源代码 "wikilink")；还有一个验证是否符合API规范的*Technology
-Compatibility Kit*。
+JSR变为*final*状态前需要正式的公开审查，并由[JCP Executive Committee投票决定](https://zh.wikipedia.org/wiki/JCP_Executive_Committee "wikilink")。最终的JSR会提供一个参考实现，它是免费而且[公开源代码的](https://zh.wikipedia.org/wiki/公开源代码 "wikilink")；还有一个验证是否符合API规范的*Technology Compatibility Kit*。
 
 ## JSR列表
 
@@ -83,7 +79,7 @@ Compatibility Kit*。
 | [184](http://www.jcp.org/en/jsr/detail?id=184) | [Mobile 3D Graphics API](https://zh.wikipedia.org/wiki/Mobile_3D_Graphics_API "wikilink") for Java ME 1.0 and 1.1                                                                                                                                                |
 | [185](http://www.jcp.org/en/jsr/detail?id=185) | [Java Technology for the Wireless Industry](https://zh.wikipedia.org/wiki/Java_Technology_for_the_Wireless_Industry "wikilink") (JTWI)                                                                                                                           |
 | [187](http://www.jcp.org/en/jsr/detail?id=187) | [即時通訊](../Page/即時通訊.md "wikilink")(Instant messaging) ([Java ME](../Page/Java_ME.md "wikilink") and [Java SE](https://zh.wikipedia.org/wiki/Java_SE "wikilink"))                                                                                                 |
-| [198](http://www.jcp.org/en/jsr/detail?id=198) | [集成开发环境的标准扩展API](../Page/集成开发环境.md "wikilink")                                                                                                                                                                                                                   |
+| [198](http://www.jcp.org/en/jsr/detail?id=198) | [集成开发环境](../Page/集成开发环境.md "wikilink")的标准扩展API                                                                                                                                                                                                                   |
 | [199](http://www.jcp.org/en/jsr/detail?id=199) | [Java Compiler](https://zh.wikipedia.org/wiki/Java_compiler "wikilink") API                                                                                                                                                                                      |
 | [201](http://www.jcp.org/en/jsr/detail?id=201) | Extending the [Java Programming Language](https://zh.wikipedia.org/wiki/Java_\(programming_language\) "wikilink") with Enumerations, Autoboxing, Enhanced for loops and [Static Import](https://zh.wikipedia.org/wiki/Static_Import "wikilink") (as of J2SE 5.0) |
 | [202](http://www.jcp.org/en/jsr/detail?id=202) | [Java Class File](https://zh.wikipedia.org/wiki/Class_\(file_format\) "wikilink") Specification Update                                                                                                                                                           |
@@ -175,36 +171,13 @@ Compatibility Kit*。
 
 {{-}}
 
-[Category:Java](https://zh.wikipedia.org/wiki/Category:Java "wikilink")
-[Category:Java规范请求](https://zh.wikipedia.org/wiki/Category:Java规范请求 "wikilink")
+[Category:Java](https://zh.wikipedia.org/wiki/Category:Java "wikilink") [Category:Java规范请求](https://zh.wikipedia.org/wiki/Category:Java规范请求 "wikilink")
 
-1.  JSR 3 originally specified the JMX 1.0 release. Two subsequent
-    "final" releases have provided JMX 1.1 and JMX 1.2. JMX 2.0 is
-    specified by JSR 255.
-2.  JSR 52 originally specified the JSTL 1.0 release. A subsequent
-    maintenance release provided JSTL 1.1.
-3.  JSR 56 originally specified the JNLP 1.0 release. A subsequent
-    "final" release
-    [1](http://java.sun.com/products/javawebstart/download-spec.html)
-    provided JNLP 1.5, which was primarily a maintenance release. As of
-    February, 2006, the JNLP 6.0 maintenance release has been completed
-    but not finalized.
-4.  JSR 63 originally specified the JAXP 1.1 release. A subsequent
-    maintenance release of JSR 63 provided the JAXP 1.2
-    specification.[2](http://java.sun.com/webservices/jaxp/change-requests-11.html)
-    JAXP 1.3 is specified by JSR 206.
-5.  JSR 127 originally specified the JSF 1.0 release. A subsequent
-    maintenance release provided the JSF 1.1
-    specification.[3](http://jcp.org/aboutJava/communityprocess/maintenance/jsr127/127ChangeLog.html)
-    JSF 1.2 is specified by JSR 252.
-6.  JSR 154 originally specified the Java Servlet 2.4 release. As of
-    February, 2006 a maintenance draft of the 2.5 servlet specification
-    is under review, scheduled to close on March 20, 2006.
-7.  JSR 913 originally specified JCP 2.0. It was subsequently amended by
-    various changes to voting rules to produce version 2.1 and then
-    further changed by licensing rules, policy, and processes to get to
-    version 2.5. JCP 2.6 is defined by JSR
-    215.[4](http://www.jcp.org/en/procedures/overview)
-8.  JSR 924 originally specified changes to the JVM to support changes
-    in J2SE 5.0.  a maintenance update to support changes proposed by
-    JSR 202 is underway.
+1.  JSR 3 originally specified the JMX 1.0 release. Two subsequent "final" releases have provided JMX 1.1 and JMX 1.2. JMX 2.0 is specified by JSR 255.
+2.  JSR 52 originally specified the JSTL 1.0 release. A subsequent maintenance release provided JSTL 1.1.
+3.  JSR 56 originally specified the JNLP 1.0 release. A subsequent "final" release [1](http://java.sun.com/products/javawebstart/download-spec.html) provided JNLP 1.5, which was primarily a maintenance release. As of February, 2006, the JNLP 6.0 maintenance release has been completed but not finalized.
+4.  JSR 63 originally specified the JAXP 1.1 release. A subsequent maintenance release of JSR 63 provided the JAXP 1.2 specification.[2](http://java.sun.com/webservices/jaxp/change-requests-11.html) JAXP 1.3 is specified by JSR 206.
+5.  JSR 127 originally specified the JSF 1.0 release. A subsequent maintenance release provided the JSF 1.1 specification.[3](http://jcp.org/aboutJava/communityprocess/maintenance/jsr127/127ChangeLog.html) JSF 1.2 is specified by JSR 252.
+6.  JSR 154 originally specified the Java Servlet 2.4 release. As of February, 2006 a maintenance draft of the 2.5 servlet specification is under review, scheduled to close on March 20, 2006.
+7.  JSR 913 originally specified JCP 2.0. It was subsequently amended by various changes to voting rules to produce version 2.1 and then further changed by licensing rules, policy, and processes to get to version 2.5. JCP 2.6 is defined by JSR 215.[4](http://www.jcp.org/en/procedures/overview)
+8.  JSR 924 originally specified changes to the JVM to support changes in J2SE 5.0.  a maintenance update to support changes proposed by JSR 202 is underway.

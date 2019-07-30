@@ -1,8 +1,7 @@
 {{-}}
 要使用HTML代码，无需额外处理，直接输入HTML标记即可。
 
-<noinclude>  </noinclude>{{\#invoke:Sidebar|sidebar | title =
-[HTML](../Page/HTML.md "wikilink") | contentclass = hlist
+<noinclude>  </noinclude>{{\#invoke:Sidebar|sidebar | title = [HTML](../Page/HTML.md "wikilink") | contentclass = hlist
 
 | content1 =
 
@@ -103,8 +102,7 @@
 
 生成：
 
-> <span style="color:red">style</span> <span id="randomfooid">id</span>
-> <span class="importantmessage">class</span>
+> <span style="color:red">style</span> <span id="randomfooid">id</span> <span class="importantmessage">class</span>
 
 ### 短語元素
 
@@ -131,8 +129,7 @@ span元素是用來对行内元素进行分组，以便通过样式对它们进�
 
 生成
 
-> <em>Default </em><em style="color:red;font-style:normal">CSS
-> style</em>
+> <em>Default </em><em style="color:red;font-style:normal">CSS style</em>
 
 这不仅仅吸引用户的注意力，还可以提醒使用非可视化浏览器或有视力障碍的用户。
 
@@ -148,14 +145,11 @@ span元素是用來对行内元素进行分组，以便通过样式对它们进�
 
 生成
 
-> <font size="200%">大</font> <font color="red" face="標楷體">紅</font>字和
-> <font color="#0000ff" face="Comic Sans MS">Blue</font> text
+> <font size="200%">大</font> <font color="red" face="標楷體">紅</font>字和 <font color="#0000ff" face="Comic Sans MS">Blue</font> text
 
 ### div
 
-`<div>`元素定义HTML文档中的分隔（division）或部分（section）。
-`<div>`元素常用于组合块级元素，以便通过样式表来对这些元素进行格式化。
-例如让多組文字以紅色顯示，可以这么运用：
+`<div>`元素定义HTML文档中的分隔（division）或部分（section）。 `<div>`元素常用于组合块级元素，以便通过样式表来对这些元素进行格式化。 例如让多組文字以紅色顯示，可以这么运用：
 
 ```
  <div style="color:red">
@@ -176,7 +170,7 @@ This is a paragraph.
 
 ## 過時的HTML
 
-[新一代HTML的設計是盡量僅包含結構和內容](../Page/HTML5.md "wikilink")，樣式的顯示就交由[CSS負責](https://zh.wikipedia.org/wiki/CSS "wikilink")。所以，有些[HTML元素和屬性已經過時](../Page/HTML元素.md "wikilink")，甚至[新版HTML不再支援](../Page/HTML5.md "wikilink")。儘管這些過時的HTML元素和屬性在流行的瀏覽器仍然有效，但鼓勵編輯者使用新規格的HTML來編寫頁面。如果要定義文字的樣式，可以用style屬性來加入CSS。
+[新一代HTML的設計是盡量僅包含結構和內容](../Page/HTML5.md "wikilink")，樣式的顯示就交由[CSS負責](https://zh.wikipedia.org/wiki/CSS "wikilink")。所以，有些[HTML元素](../Page/HTML元素.md "wikilink")和屬性已經過時，甚至[新版HTML不再支援](../Page/HTML5.md "wikilink")。儘管這些過時的HTML元素和屬性在流行的瀏覽器仍然有效，但鼓勵編輯者使用新規格的HTML來編寫頁面。如果要定義文字的樣式，可以用style屬性來加入CSS。
 
 <table>
 <thead>
@@ -289,10 +283,7 @@ This is a paragraph.
 
 ## 解析器扩展标签
 
-The MediaWiki software adds elements that look and act like HTML tags.
-Parser tags are included in MediaWiki whereas extension tags are added
-by optional software extensions.
-[Special:版本信息列有所有标签](https://zh.wikipedia.org/wiki/Special:版本信息 "wikilink")。解析器标签由扩展程序提供；所以欲知标签用法，可在[Special:版本信息搜索对应的扩展程序](https://zh.wikipedia.org/wiki/Special:版本信息 "wikilink")，或者点击下面的链接。
+The MediaWiki software adds elements that look and act like HTML tags. Parser tags are included in MediaWiki whereas extension tags are added by optional software extensions. [Special:版本信息列有所有标签](https://zh.wikipedia.org/wiki/Special:版本信息 "wikilink")。解析器标签由扩展程序提供；所以欲知标签用法，可在[Special:版本信息搜索对应的扩展程序](https://zh.wikipedia.org/wiki/Special:版本信息 "wikilink")，或者点击下面的链接。
 
   - Parser tags :
 
@@ -300,11 +291,7 @@ by optional software extensions.
 
   - 扩展标签：
 
-\<categorytree\>, \<charinsert\>,
-\<hiero\>,\<[imagemap](https://zh.wikipedia.org/wiki/mw:Extension:ImageMap "wikilink")\>,\<inputbox\>,
-\<math\>, \<poem\>, \<ref\>,
-\<references\>,\<[syntaxhighlight](https://zh.wikipedia.org/wiki/mw:Extension:SyntaxHighlight "wikilink")\>
-（也可写作\<source\>）, \<timeline\>
+\<categorytree\>, \<charinsert\>, \<hiero\>,\<[imagemap](https://zh.wikipedia.org/wiki/mw:Extension:ImageMap "wikilink")\>,\<inputbox\>, \<math\>, \<poem\>, \<ref\>, \<references\>,\<[syntaxhighlight](https://zh.wikipedia.org/wiki/mw:Extension:SyntaxHighlight "wikilink")\> （也可写作\<source\>）, \<timeline\>
 
 ## 外部链接
 
@@ -313,8 +300,4 @@ by optional software extensions.
 
 {{-}}
 
-[Category:網站模板](https://zh.wikipedia.org/wiki/Category:網站模板 "wikilink")
-[Category:软件模板](https://zh.wikipedia.org/wiki/Category:软件模板 "wikilink")
-[Category:HTML](https://zh.wikipedia.org/wiki/Category:HTML "wikilink")
-[Category:Exclude_in_print](https://zh.wikipedia.org/wiki/Category:Exclude_in_print "wikilink")
-[Category:帮助文档](https://zh.wikipedia.org/wiki/Category:帮助文档 "wikilink")
+[Category:網站模板](https://zh.wikipedia.org/wiki/Category:網站模板 "wikilink") [Category:软件模板](https://zh.wikipedia.org/wiki/Category:软件模板 "wikilink") [Category:HTML](https://zh.wikipedia.org/wiki/Category:HTML "wikilink") [Category:Exclude_in_print](https://zh.wikipedia.org/wiki/Category:Exclude_in_print "wikilink") [Category:帮助文档](https://zh.wikipedia.org/wiki/Category:帮助文档 "wikilink")

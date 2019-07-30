@@ -1,7 +1,4 @@
-《**最终幻想VII 降临之子**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：
-，[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：*-{Final
-Fantasy}- VII: Advent
-Children*，簡稱「**FF7AC**」），是以[角色扮演游戏](../Page/電子角色扮演遊戲.md "wikilink")《[最终幻想VII](../Page/最终幻想VII.md "wikilink")》的劇情延續為中心的影像作品，並為「[最终幻想VII补完计划](../Page/最终幻想VII补完计划.md "wikilink")」中的一環。以發售[OVA方式推出](https://zh.wikipedia.org/wiki/OVA "wikilink")。本作曾以剪接版本參加過第61屆及第62屆的威尼斯影展。截至2009年，本作的影音光碟已全球出貨達410萬張\[1\]。
+《**最终幻想VII 降临之子**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")： ，[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：*-{Final Fantasy}- VII: Advent Children*，簡稱「**FF7AC**」），是以[角色扮演游戏](../Page/電子角色扮演遊戲.md "wikilink")《[最终幻想VII](../Page/最终幻想VII.md "wikilink")》的劇情延續為中心的影像作品，並為「[最终幻想VII补完计划](../Page/最终幻想VII补完计划.md "wikilink")」中的一環。以發售[OVA方式推出](https://zh.wikipedia.org/wiki/OVA "wikilink")。本作曾以剪接版本參加過第61屆及第62屆的威尼斯影展。截至2009年，本作的影音光碟已全球出貨達410萬張\[1\]。
 
 ## 故事簡介
 
@@ -25,8 +22,7 @@ Children*，簡稱「**FF7AC**」），是以[角色扮演游戏](../Page/電子
 
 ## 用語
 
-  - **星痕症候群**：星痕可說是**傑諾娃**（
-    英文：）病毒，而潔諾娃細胞侵入人體所造成的疾病則被稱為星痕症候群，感染者最終身體流出黑色液體而死。身體出現黑斑的原因就劇中說到：自身身體的生命之流對抗著非自身物質而產生的反應。感染者因此死亡後，其精神與肉體會回歸生命之流，而星痕會隨者一同侵入生命之流，進而侵害星球，而使塞菲羅斯得到控制星球的目的。
+  - **星痕症候群**：星痕可說是**傑諾娃**（ 英文：）病毒，而潔諾娃細胞侵入人體所造成的疾病則被稱為星痕症候群，感染者最終身體流出黑色液體而死。身體出現黑斑的原因就劇中說到：自身身體的生命之流對抗著非自身物質而產生的反應。感染者因此死亡後，其精神與肉體會回歸生命之流，而星痕會隨者一同侵入生命之流，進而侵害星球，而使塞菲羅斯得到控制星球的目的。
 
 <!-- end list -->
 
@@ -38,8 +34,7 @@ Children*，簡稱「**FF7AC**」），是以[角色扮演游戏](../Page/電子
 
 <!-- end list -->
 
-  - **思念體**：這裡的思念體與《[Final Fantasy
-    VII](https://zh.wikipedia.org/wiki/Final_Fantasy_VII "wikilink")》裡的思念體有已有所差異，個體擁有獨自的外型、個性，但因為是塞菲羅斯所創造，也同時擁有塞菲羅斯的部分個性，和對潔諾娃的執著，以塞菲羅斯為完整型來看的話，思念體本身算是缺陷型，在沒有得到潔諾娃細胞的補充前，是無法變成完整型的，而特別的是，思念體認為自身與塞菲羅斯是不同的。
+  - **思念體**：這裡的思念體與《[Final Fantasy VII](https://zh.wikipedia.org/wiki/Final_Fantasy_VII "wikilink")》裡的思念體有已有所差異，個體擁有獨自的外型、個性，但因為是塞菲羅斯所創造，也同時擁有塞菲羅斯的部分個性，和對潔諾娃的執著，以塞菲羅斯為完整型來看的話，思念體本身算是缺陷型，在沒有得到潔諾娃細胞的補充前，是無法變成完整型的，而特別的是，思念體認為自身與塞菲羅斯是不同的。
 
 <!-- end list -->
 
@@ -55,14 +50,11 @@ Children*，簡稱「**FF7AC**」），是以[角色扮演游戏](../Page/電子
 
 <!-- end list -->
 
-  - **生命之泉**：生命之泉（Life
-    stream），被稱為「星之命」的有限資源，其本質是星球的精神能源，生物死後的肉體和精神變為精神能源回到了星球，在星球內部與其他的精神融合、匯聚、再分離在星球中不斷的流動所形成的暗流，但並非可以無限無損失的存在，而是會慢慢消失，而已知能維持並增加生命之泉的只有賽特拉人而已。
+  - **生命之泉**：生命之泉（Life stream），被稱為「星之命」的有限資源，其本質是星球的精神能源，生物死後的肉體和精神變為精神能源回到了星球，在星球內部與其他的精神融合、匯聚、再分離在星球中不斷的流動所形成的暗流，但並非可以無限無損失的存在，而是會慢慢消失，而已知能維持並增加生命之泉的只有賽特拉人而已。
 
 <!-- end list -->
 
-  - **神羅公司**：前支配著這個星球的巨大複合型企業，社長是公司最大者統治者，而社長本身的存在，就如同皇帝，除了他之外，其餘的人只有輔助的權限，在《[Final
-    Fantasy
-    VII](https://zh.wikipedia.org/wiki/Final_Fantasy_VII "wikilink")》本傳中路法斯所提到，前社長死亡後，其職位就直接由副社長，也就是社長的兒子繼位，這幾乎等同於世襲制，而當中並無董事會之類的牽制勢力存在，在二年前路法斯疑似死亡時，就爆發治安維持部與兵器開發部的奪權事件，其除了提取與供應魔晃能源之外，還提供一切生活所需的物質資源，並擁有自己獨立的軍隊，和維持治安的部門，大戰結束後，神羅公司破滅，而現今在路法斯的帶領下重組復甦中。
+  - **神羅公司**：前支配著這個星球的巨大複合型企業，社長是公司最大者統治者，而社長本身的存在，就如同皇帝，除了他之外，其餘的人只有輔助的權限，在《[Final Fantasy VII](https://zh.wikipedia.org/wiki/Final_Fantasy_VII "wikilink")》本傳中路法斯所提到，前社長死亡後，其職位就直接由副社長，也就是社長的兒子繼位，這幾乎等同於世襲制，而當中並無董事會之類的牽制勢力存在，在二年前路法斯疑似死亡時，就爆發治安維持部與兵器開發部的奪權事件，其除了提取與供應魔晃能源之外，還提供一切生活所需的物質資源，並擁有自己獨立的軍隊，和維持治安的部門，大戰結束後，神羅公司破滅，而現今在路法斯的帶領下重組復甦中。
 
 <!-- end list -->
 
@@ -160,17 +152,13 @@ Children*，簡稱「**FF7AC**」），是以[角色扮演游戏](../Page/電子
 
 ## 譯名
 
-本片在华语地区各地有不同的译名。台灣原譯為《-{Final Fantasy}- VII 降臨-{}-神子》，香港為《最終-{}-幻想VII
-天子-{}-再臨》，中國大陸則有《最终-{}-幻想VII 降临-{}-之子》、《最终幻想VII 圣子再临》、《最终幻想VII
-圣童降临》等。2009年6月，[索尼影视娱乐在美国及除日本外的东南亚国家同步发售](https://zh.wikipedia.org/wiki/索尼影视娱乐 "wikilink")《最终幻想VII
-降临之子 完全版》，将副标题统一为“**降临-{}-之子**”\[2\]\[3\]。
+本片在华语地区各地有不同的译名。台灣原譯為《-{Final Fantasy}- VII 降臨-{}-神子》，香港為《最終-{}-幻想VII 天子-{}-再臨》，中國大陸則有《最终-{}-幻想VII 降临-{}-之子》、《最终幻想VII 圣子再临》、《最终幻想VII 圣童降临》等。2009年6月，[索尼影视娱乐在美国及除日本外的东南亚国家同步发售](https://zh.wikipedia.org/wiki/索尼影视娱乐 "wikilink")《最终幻想VII 降临之子 完全版》，将副标题统一为“**降临-{}-之子**”\[2\]\[3\]。
 
 ## 影響
 
 ### 韓國歌手抄襲事件
 
-[韓國的女歌手IVY發表的單曲MV](https://zh.wikipedia.org/wiki/韓國 "wikilink")，內容與FF7AC酷似，史克威爾艾尼克斯因此向IVY所屬之事務所Fantom娛樂申請禁止播放MV之假處分。2007年4月6日，首爾中央地方法院接受了SQUARE
-ENIX之申請。指出MV內容中除舞蹈以外，其他如登場人物、背景、劇情以及畫面構成等與FF7AC極度相似，認定侵害著作權，禁播該MV\[4\]。
+[韓國的女歌手IVY發表的單曲MV](https://zh.wikipedia.org/wiki/韓國 "wikilink")，內容與FF7AC酷似，史克威爾艾尼克斯因此向IVY所屬之事務所Fantom娛樂申請禁止播放MV之假處分。2007年4月6日，首爾中央地方法院接受了SQUARE ENIX之申請。指出MV內容中除舞蹈以外，其他如登場人物、背景、劇情以及畫面構成等與FF7AC極度相似，認定侵害著作權，禁播該MV\[4\]。
 
 ### 台灣偶像劇抄襲事件
 
@@ -180,8 +168,7 @@ ENIX之申請。指出MV內容中除舞蹈以外，其他如登場人物、背�
 
 節錄自[聯合報的報導](https://zh.wikipedia.org/wiki/聯合報 "wikilink")：「我們原本的設定是要像古羅馬戰士，說真的，我們公司向來都最尊重[著作權](../Page/著作權.md "wikilink")，改拍漫畫跟日本買版權都花很多錢，我現在還在了解狀況中，但東拼西湊出來的造型竟然會被說抄襲，這實在很難解釋。」
 
-製作人的說法讓網友深表不滿，加速了寄信到[史克威爾艾尼克斯的舉動](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")。隔日，製作人回覆說正向[SQUARE
-ENIX聯繫洽談版權事宜](https://zh.wikipedia.org/wiki/SQUARE_ENIX "wikilink")，並由[可米國際影視發出聲明稿](https://zh.wikipedia.org/wiki/可米國際影視 "wikilink")，內容描述可米注重[智慧財產權](https://zh.wikipedia.org/wiki/智慧財產權 "wikilink")，服裝造型一事純屬雷同，絕非抄襲，並且致上歉意。9日因為CD封面圖上牽涉到版權，華研音樂發出聲明終極一家原聲專輯延後發售，但寫真書和偶像劇仍照預期發售和播放。
+製作人的說法讓網友深表不滿，加速了寄信到[史克威爾艾尼克斯的舉動](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")。隔日，製作人回覆說正向[SQUARE ENIX聯繫洽談版權事宜](https://zh.wikipedia.org/wiki/SQUARE_ENIX "wikilink")，並由[可米國際影視發出聲明稿](https://zh.wikipedia.org/wiki/可米國際影視 "wikilink")，內容描述可米注重[智慧財產權](https://zh.wikipedia.org/wiki/智慧財產權 "wikilink")，服裝造型一事純屬雷同，絕非抄襲，並且致上歉意。9日因為CD封面圖上牽涉到版權，華研音樂發出聲明終極一家原聲專輯延後發售，但寫真書和偶像劇仍照預期發售和播放。
 
 ## 商品概要
 
@@ -189,9 +176,7 @@ ENIX聯繫洽談版權事宜](https://zh.wikipedia.org/wiki/SQUARE_ENIX "wikilin
 
 ### DVD普通版
 
-特別收錄《Final Fantasy VII》
-[PlayStation版遊戲的精華片段及Compilation](../Page/PlayStation.md "wikilink")
-of -{Final Fantasy}- VII Trailer。
+特別收錄《Final Fantasy VII》 [PlayStation](../Page/PlayStation.md "wikilink")版遊戲的精華片段及Compilation of -{Final Fantasy}- VII Trailer。
 
 ### DVD初回限定版
 
@@ -218,14 +203,11 @@ of -{Final Fantasy}- VII Trailer。
 
 ### UMD版
 
-除收錄了FF7AC本篇映像故事外，還收錄了九首原聲音樂（high speed battle music
-selcction）。另，初回發行包裝的封面紙質跟之後的普版略微不同，是亮銀面的紙質。UMD版本並無收錄DVD版本的其他花絮及短片。
+除收錄了FF7AC本篇映像故事外，還收錄了九首原聲音樂（high speed battle music selcction）。另，初回發行包裝的封面紙質跟之後的普版略微不同，是亮銀面的紙質。UMD版本並無收錄DVD版本的其他花絮及短片。
 
 ## Final Fantasy VII 降臨之子 完全版
 
-《**Final Fantasy VII 降臨之子 完全版**》（*-{Final Fantasy}- VII: Advent Children
-Complete*），是於2009年4月16日發售的[藍光光碟版本](../Page/藍光光碟.md "wikilink")，在2006年9月22－24日的「東京電玩展2006」（TGS
-2006）首度發表。完整版包括修改部分鏡頭、畫面及替換部分舊版場景，共增加約30分鐘的片長。
+《**Final Fantasy VII 降臨之子 完全版**》（*-{Final Fantasy}- VII: Advent Children Complete*），是於2009年4月16日發售的[藍光光碟](../Page/藍光光碟.md "wikilink")版本，在2006年9月22－24日的「東京電玩展2006」（TGS 2006）首度發表。完整版包括修改部分鏡頭、畫面及替換部分舊版場景，共增加約30分鐘的片長。
 
 ## 參考資料
 
@@ -239,11 +221,7 @@ Complete*），是於2009年4月16日發售的[藍光光碟版本](../Page/藍�
   - [FF7AC的DMOZ目錄](http://dmoz.org/Arts/Animation/Movies/Titles/Final_Fantasy_VII_Advent_Children/)
 
   -
-[Category:最終幻想VII](https://zh.wikipedia.org/wiki/Category:最終幻想VII "wikilink")
-[Category:2005年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2005年日本劇場動畫 "wikilink")
-[Category:日本科幻片](https://zh.wikipedia.org/wiki/Category:日本科幻片 "wikilink")
-[Category:遊戲改編動畫](https://zh.wikipedia.org/wiki/Category:遊戲改編動畫 "wikilink")
-[Category:電腦動畫電影](https://zh.wikipedia.org/wiki/Category:電腦動畫電影 "wikilink")
+[Category:最終幻想VII](https://zh.wikipedia.org/wiki/Category:最終幻想VII "wikilink") [Category:2005年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2005年日本劇場動畫 "wikilink") [Category:日本科幻片](https://zh.wikipedia.org/wiki/Category:日本科幻片 "wikilink") [Category:遊戲改編動畫](https://zh.wikipedia.org/wiki/Category:遊戲改編動畫 "wikilink") [Category:電腦動畫電影](https://zh.wikipedia.org/wiki/Category:電腦動畫電影 "wikilink")
 
 1.
 2.

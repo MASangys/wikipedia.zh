@@ -4,11 +4,10 @@
 
   - [原型速成](https://zh.wikipedia.org/wiki/原型速成 "wikilink")（），一种制造与工程过程
   - [背面投影](https://zh.wikipedia.org/wiki/背面投影效果 "wikilink")（），将图像从背面投影到投影幕上
-  - [红磷](https://zh.wikipedia.org/wiki/红磷 "wikilink")（），[磷的一种同素异形体](../Page/磷.md "wikilink")
+  - [红磷](https://zh.wikipedia.org/wiki/红磷 "wikilink")（），[磷](../Page/磷.md "wikilink")的一种同素异形体
   - [反相色谱法](../Page/反相色谱法.md "wikilink")（），一种色谱技术
   - [RP-3](https://zh.wikipedia.org/wiki/RP-3 "wikilink")，一种火箭弹
-  - [RP
-    (复杂度)](https://zh.wikipedia.org/wiki/RP_\(复杂度\) "wikilink")（），随机多项式时间，计算复杂度理论中的一类
+  - [RP (复杂度)](https://zh.wikipedia.org/wiki/RP_\(复杂度\) "wikilink")（），随机多项式时间，计算复杂度理论中的一类
   - 数学
       - [实射影直线](https://zh.wikipedia.org/wiki/实射影直线 "wikilink")（）
       - [实射影平面](../Page/实射影平面.md "wikilink")（）
@@ -51,10 +50,8 @@
 ## 语言学
 
   - [公认发音](https://zh.wikipedia.org/wiki/公认发音 "wikilink")（）
-  - [Rioplatense
-    Spanish](https://zh.wikipedia.org/wiki/Rioplatense_Spanish "wikilink")
+  - [Rioplatense Spanish](https://zh.wikipedia.org/wiki/Rioplatense_Spanish "wikilink")
 
 ## 其他
 
-  - [人品](https://zh.wikipedia.org/wiki/人品 "wikilink")，網路用語。為漢語拼音**R**en
-    **P**in的縮寫，一般指運氣的含義，在網路遊戲中經常說"我RP太差了"，指的就是我運氣太差了，太背了的意思。
+  - [人品](https://zh.wikipedia.org/wiki/人品 "wikilink")，網路用語。為漢語拼音**R**en **P**in的縮寫，一般指運氣的含義，在網路遊戲中經常說"我RP太差了"，指的就是我運氣太差了，太背了的意思。

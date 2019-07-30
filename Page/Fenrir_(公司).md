@@ -4,14 +4,12 @@
 
   - 2005年6月13日公司成立。
   - 2005年6月30日發表[行動電話專用的網頁瀏覽器](https://zh.wikipedia.org/wiki/行動電話 "wikilink")「[jig](https://zh.wikipedia.org/wiki/jig "wikilink")」展開業務合作。
-  - 2005年7月14日發表與日本[Excite展開業務合作](https://zh.wikipedia.org/wiki/Excite "wikilink")，推出以Sleipnir使用者專用的[入口網站](https://zh.wikipedia.org/wiki/入口網站 "wikilink")（\[Sleipnir
-    x Excite\]）。
+  - 2005年7月14日發表與日本[Excite展開業務合作](https://zh.wikipedia.org/wiki/Excite "wikilink")，推出以Sleipnir使用者專用的[入口網站](https://zh.wikipedia.org/wiki/入口網站 "wikilink")（\[Sleipnir x Excite\]）。
   - 2005年12月7日與[McAfee公司合作](https://zh.wikipedia.org/wiki/McAfee "wikilink")，推出Sleipnir使用者專屬的網路安全軟體。
   - 2006年4月12日在發表Grani的同時，依循「Sleipnir x Excite」模式推出「\[Grani x Excite\]」。
   - 2006年7月5日與樂天發表合作計劃，同時推出適合infoseek網站使用的Grani版本。
-  - 2006年9月1日與美國[Google合作](../Page/Google.md "wikilink")，將Sleipnir與Grani的預設搜尋引擎變更為Google。
-  - 2006年12月6日與[iTunes
-    Store和](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")[Amazon.co.jp合作音樂服務](https://zh.wikipedia.org/wiki/亞馬遜網路書店 "wikilink")。
+  - 2006年9月1日與美國[Google](../Page/Google.md "wikilink")合作，將Sleipnir與Grani的預設搜尋引擎變更為Google。
+  - 2006年12月6日與[iTunes Store和](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")[Amazon.co.jp合作音樂服務](https://zh.wikipedia.org/wiki/亞馬遜網路書店 "wikilink")。
 
 ## 主要產品
 
@@ -22,6 +20,4 @@
 
   - [Fenrir & Co.](http://www.fenrir-inc.com/cn/) 官方網站
 
-[Category:日本軟體公司](https://zh.wikipedia.org/wiki/Category:日本軟體公司 "wikilink")
-[Category:大阪府公司](https://zh.wikipedia.org/wiki/Category:大阪府公司 "wikilink")
-[Category:2005年成立的公司](https://zh.wikipedia.org/wiki/Category:2005年成立的公司 "wikilink")
+[Category:日本軟體公司](https://zh.wikipedia.org/wiki/Category:日本軟體公司 "wikilink") [Category:大阪府公司](https://zh.wikipedia.org/wiki/Category:大阪府公司 "wikilink") [Category:2005年成立的公司](https://zh.wikipedia.org/wiki/Category:2005年成立的公司 "wikilink")

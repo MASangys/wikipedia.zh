@@ -1,10 +1,6 @@
-**Plastic
-Tree**是1993年組成的日本[視覺系樂團](../Page/視覺系.md "wikilink")，經紀公司為J-ROCK（AKATSUKI部屬），唱片公司為Victor
-Entertainment, Inc.。
+**Plastic Tree**是1993年組成的日本[視覺系](../Page/視覺系.md "wikilink")樂團，經紀公司為J-ROCK（AKATSUKI部屬），唱片公司為Victor Entertainment, Inc.。
 
-Plastic Tree的音樂演奏受到80年代的英式搖滾所影響，充滿文學感的歌詞以及浮游感的歌聲為其特色。
-主要作曲為團長長谷川正，詞則為主唱有村龍太朗執筆，2002年開始吉他手ナカヤマ
-アキラ的作品也逐漸增加。
+Plastic Tree的音樂演奏受到80年代的英式搖滾所影響，充滿文學感的歌詞以及浮游感的歌聲為其特色。 主要作曲為團長長谷川正，詞則為主唱有村龍太朗執筆，2002年開始吉他手ナカヤマ アキラ的作品也逐漸增加。
 
 ## 簡歷
 
@@ -12,44 +8,31 @@ Plastic Tree的音樂演奏受到80年代的英式搖滾所影響，充滿文學
 
 :\* 1993年12月由有村龍太朗以及長谷川正組成。
 
-:\* 1997年6月「割れた窓」與[WARNER MUSIC
-JAPAN簽約出道](https://zh.wikipedia.org/wiki/WARNER_MUSIC_JAPAN "wikilink")。
+:\* 1997年6月「割れた窓」與[WARNER MUSIC JAPAN簽約出道](https://zh.wikipedia.org/wiki/WARNER_MUSIC_JAPAN "wikilink")。
 
-:\*
-1999年8月25日，首次於[涩谷公会堂](https://zh.wikipedia.org/wiki/涩谷公会堂 "wikilink")
-one man，同日「Sink」發行。
+:\* 1999年8月25日，首次於[涩谷公会堂](https://zh.wikipedia.org/wiki/涩谷公会堂 "wikilink") one man，同日「Sink」發行。
 
-:\* 2001年與[WARNER MUSIC
-JAPAN簽約結束](https://zh.wikipedia.org/wiki/WARNER_MUSIC_JAPAN "wikilink")，由當時的事務所SWEET
-CHILD內的SWEET HEART RECORD發行「散リユク僕ラ」，同年於12月底的事務所Event中第三代鼓手Takashi正式離隊。
+:\* 2001年與[WARNER MUSIC JAPAN簽約結束](https://zh.wikipedia.org/wiki/WARNER_MUSIC_JAPAN "wikilink")，由當時的事務所SWEET CHILD內的SWEET HEART RECORD發行「散リユク僕ラ」，同年於12月底的事務所Event中第三代鼓手Takashi正式離隊。
 
-:\* 2002年6月以三人的形式推出單曲「蒼い鳥」，同年第四代鼓手ササブチ
-ヒロシ加入後發行「トロイメライ」，隔日於[NHK大廳](https://zh.wikipedia.org/wiki/NHK大廳 "wikilink")
-初次one man，並收入LIVE DVD「黒テント②」。
+:\* 2002年6月以三人的形式推出單曲「蒼い鳥」，同年第四代鼓手ササブチ ヒロシ加入後發行「トロイメライ」，隔日於[NHK大廳](https://zh.wikipedia.org/wiki/NHK大廳 "wikilink") 初次one man，並收入LIVE DVD「黒テント②」。
 
 :\* 2004年底與SWEET CHILD簽約結束，12月年末公演「裏cell.」於東京舉行（由J-Rock執行）。
 
-:\*
-2005年初正式移籍至[J-Rock](https://zh.wikipedia.org/wiki/J-Rock "wikilink")，以「原點回歸」意念為軸心開始發片活動，５月單曲「讃美歌」由[UNIVERSAL
-MUSIC發行](https://zh.wikipedia.org/wiki/UNIVERSAL_MUSIC "wikilink")，10月、11月、12月首次連續三個月發行單曲，12月年末恆例公演「花燃えて、亡霊の涙、天幕に堕ちる。」於東京、大阪舉行。
+:\* 2005年初正式移籍至[J-Rock](https://zh.wikipedia.org/wiki/J-Rock "wikilink")，以「原點回歸」意念為軸心開始發片活動，５月單曲「讃美歌」由[UNIVERSAL MUSIC發行](https://zh.wikipedia.org/wiki/UNIVERSAL_MUSIC "wikilink")，10月、11月、12月首次連續三個月發行單曲，12月年末恆例公演「花燃えて、亡霊の涙、天幕に堕ちる。」於東京、大阪舉行。
 
 :\* 2006年7月首次歐洲巡迴公演，12月年末恆例公演「冬小屋エレキテル」於東京舉行。
 
   - **2007年**
 
-:\*
-2007年3月5日公佈10周年紀念公演於[日本武道館](../Page/日本武道館.md "wikilink")，同年4月中展開10周年紀念春天巡迴公演全國12場。
+:\* 2007年3月5日公佈10周年紀念公演於[日本武道館](../Page/日本武道館.md "wikilink")，同年4月中展開10周年紀念春天巡迴公演全國12場。
 
-:\* 2007年7月歐洲Event出演、10月下旬海外公演「Merry Go Around The
-World」首次亞細亞地區·台灣、11月歐洲巡迴公演。
+:\* 2007年7月歐洲Event出演、10月下旬海外公演「Merry Go Around The World」首次亞細亞地區·台灣、11月歐洲巡迴公演。
 
-:\* 2007年12月初10周年紀念冬天巡迴公演全國10場，並出演12月31日跨年event live「Over the Edge
-2007」。
+:\* 2007年12月初10周年紀念冬天巡迴公演全國10場，並出演12月31日跨年event live「Over the Edge 2007」。
 
   - **2008年**
 
-:\* 2008年4月初春天全國巡迴「悪戯ワンダフルワールド」公演7場，8月初夏天全國巡迴「ステレオ蝙蝠族」公演，初次作為Final場地JCB
-Hall追加一天共10場。
+:\* 2008年4月初春天全國巡迴「悪戯ワンダフルワールド」公演7場，8月初夏天全國巡迴「ステレオ蝙蝠族」公演，初次作為Final場地JCB Hall追加一天共10場。
 
 :\* 2008年7月來台參加戊子年野台開唱2008 Formoz Festival。
 
@@ -57,14 +40,11 @@ Hall追加一天共10場。
 
 :\* 2008年12月下旬第三度來台於The Wall Live House舉辦one man。
 
-:\*
-2008年12月底至2009年1月底展開2008-2009冬天全國巡迴「ウツセミ」共7場，最終場為睽違六年的東京NHK大廳，並出演12月31日跨年event
-live「Over the Edge 2008」。
+:\* 2008年12月底至2009年1月底展開2008-2009冬天全國巡迴「ウツセミ」共7場，最終場為睽違六年的東京NHK大廳，並出演12月31日跨年event live「Over the Edge 2008」。
 
   - **2009年**
 
-:\*
-2009年1月30日2008-2009冬天全國巡迴「ウツセミ」最終場發表：2009年8月30日再次於[日本武道館單獨演出](../Page/日本武道館.md "wikilink")。
+:\* 2009年1月30日2008-2009冬天全國巡迴「ウツセミ」最終場發表：2009年8月30日再次於[日本武道館](../Page/日本武道館.md "wikilink")單獨演出。
 
 :\* 2009年2月23日鼓手ササブチヒロシ退出發表，3月19日現任團員最後公演於Shibuya-AX（FC限定）決定。
 
@@ -114,8 +94,7 @@ live「Over the Edge 2008」。
 
 :\* 3月11日-3月17日第一次在東京キネマ倶楽部舉辦連續七天的公演『裏インク』。
 
-:\* 6月6日電視節目『ONGAX〜Plasic
-Treeの千プラ〜』在[千葉テレビ播放](https://zh.wikipedia.org/wiki/千葉テレビ "wikilink")。
+:\* 6月6日電視節目『ONGAX〜Plasic Treeの千プラ〜』在[千葉テレビ播放](https://zh.wikipedia.org/wiki/千葉テレビ "wikilink")。
 
 :\* 10月10日 Plastic Tree Autumn tour 2013「瞳孔乱反射」IN ASIA 台灣場在the wall舉行。
 
@@ -157,26 +136,22 @@ Treeの千プラ〜』在[千葉テレビ播放](https://zh.wikipedia.org/wiki/�
 
 ## 成員
 
-[Plastic_Tree_20071104_Chibi_Japan_Expo_5.jpg](https://zh.wikipedia.org/wiki/File:Plastic_Tree_20071104_Chibi_Japan_Expo_5.jpg "fig:Plastic_Tree_20071104_Chibi_Japan_Expo_5.jpg")
-[Plastic_Tree_20071104_Chibi_Japan_Expo_1.jpg](https://zh.wikipedia.org/wiki/File:Plastic_Tree_20071104_Chibi_Japan_Expo_1.jpg "fig:Plastic_Tree_20071104_Chibi_Japan_Expo_1.jpg")
+[Plastic_Tree_20071104_Chibi_Japan_Expo_5.jpg](https://zh.wikipedia.org/wiki/File:Plastic_Tree_20071104_Chibi_Japan_Expo_5.jpg "fig:Plastic_Tree_20071104_Chibi_Japan_Expo_5.jpg") [Plastic_Tree_20071104_Chibi_Japan_Expo_1.jpg](https://zh.wikipedia.org/wiki/File:Plastic_Tree_20071104_Chibi_Japan_Expo_1.jpg "fig:Plastic_Tree_20071104_Chibi_Japan_Expo_1.jpg")
 
-  - 有村 龍太朗（Arimura Ryutaro）-
-    [Vocal](https://zh.wikipedia.org/wiki/Vocal "wikilink")。（名字變化形：龍太郎→Ryutaro→龍太朗）
+  - 有村 龍太朗（Arimura Ryutaro）- [Vocal](https://zh.wikipedia.org/wiki/Vocal "wikilink")。（名字變化形：龍太郎→Ryutaro→龍太朗）
       - 生日：1973年3月6日
       - 出身：千葉
       - 血型：AB
       - 樂團經歷：Religion Mix, Drop'in Shop lifters
       - 私團：ネジ。
       - 2016年展開solo project，推出專輯《デも／demo》
-  - 長谷川 正（Hasegawa Tadashi）-
-    [Bass](https://zh.wikipedia.org/wiki/Bass "wikilink")。
+  - 長谷川 正（Hasegawa Tadashi）- [Bass](https://zh.wikipedia.org/wiki/Bass "wikilink")。
       - 生日：1970年11月16日
       - 出身：千葉
       - 血型：O
       - 樂團經歷：Cam'-Flage
       - 私團：bulb
-  - 中山 明（表記：ナカヤマ アキラ，Nakayama Akira）-
-    [Guitar](https://zh.wikipedia.org/wiki/Guitar "wikilink")。
+  - 中山 明（表記：ナカヤマ アキラ，Nakayama Akira）- [Guitar](https://zh.wikipedia.org/wiki/Guitar "wikilink")。
       - 生日：1971年1月16日
       - 出身：北海道
       - 血型：A
@@ -762,32 +737,19 @@ DVD：2000年11月22日</p></td>
 
 ## 外部連結
 
-  - [Plastic Tree OFFICIAL WEB SITE](http://www.plastic-tree.com/pc/)
-    日本官方網站
+  - [Plastic Tree OFFICIAL WEB SITE](http://www.plastic-tree.com/pc/) 日本官方網站
   - [Plastic Tree](http://www.wmg.jp/artist/plastic_tree/)（前）日本華納音樂官方網站
-  - [musicJAPANplus艺人资料库 - Plastic
-    Tree](http://www.musicjapanplus.jp/artistdb/?artist_id=148)
-  - [Plastic Tree OfficialBlog
-    『ぶっち斬りブログ』](http://yaplog.jp/buchiolog/)（前）鼓手ササブチヒロシBLOG
-  - [Plastic Tree - UNIVERSAL
-    J](https://web.archive.org/web/20090131234023/http://universal-music.co.jp/plastic_tree/index.html)（前）日本環球音樂官方網站
-  - [Plastic Tree 猫印
-    オフィシャルブログ「猫印。による人間観察日記」](https://archive.is/20120524112744/ameblo.jp/nekozirushi/)
-    Plastic Tree官方部落格
-  - \[<http://www.tkma.co.jp/j_pop/plastic_tree/>　Plastic Tree -
-    徳間ジャパン\]（前）徳間JAPAN官方介紹網頁
-  - [Plastic Tree | Victor
-    Entertainment](http://www.jvcmusic.co.jp/-/Artist/A023907.html)（現）Victor
-    Entertainment官方介紹網頁
-  - [schwarzes Zelt - Plastic Tree
-    fansite](http://www.schwarzes-zelt.net/)
+  - [musicJAPANplus艺人资料库 - Plastic Tree](http://www.musicjapanplus.jp/artistdb/?artist_id=148)
+  - [Plastic Tree OfficialBlog 『ぶっち斬りブログ』](http://yaplog.jp/buchiolog/)（前）鼓手ササブチヒロシBLOG
+  - [Plastic Tree - UNIVERSAL J](https://web.archive.org/web/20090131234023/http://universal-music.co.jp/plastic_tree/index.html)（前）日本環球音樂官方網站
+  - [Plastic Tree 猫印 オフィシャルブログ「猫印。による人間観察日記」](https://archive.is/20120524112744/ameblo.jp/nekozirushi/) Plastic Tree官方部落格
+  - \[<http://www.tkma.co.jp/j_pop/plastic_tree/>　Plastic Tree - 徳間ジャパン\]（前）徳間JAPAN官方介紹網頁
+  - [Plastic Tree | Victor Entertainment](http://www.jvcmusic.co.jp/-/Artist/A023907.html)（現）Victor Entertainment官方介紹網頁
+  - [schwarzes Zelt - Plastic Tree fansite](http://www.schwarzes-zelt.net/)
 
 ## 参考文献
 
-[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink")
-[Category:視覺系](https://zh.wikipedia.org/wiki/Category:視覺系 "wikilink")
-[Category:勝利娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:勝利娛樂旗下藝人 "wikilink")
+[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink") [Category:視覺系](https://zh.wikipedia.org/wiki/Category:視覺系 "wikilink") [Category:勝利娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:勝利娛樂旗下藝人 "wikilink")
 
 1.
-2.  [等了四年終於到來的Plastic Tree第十次台灣公演
-    團員吶喊想要得到所有人的愛情！](https://memeon-music.com/2017/09/23/plastic-tree-livereport-2/)
+2.  [等了四年終於到來的Plastic Tree第十次台灣公演 團員吶喊想要得到所有人的愛情！](https://memeon-music.com/2017/09/23/plastic-tree-livereport-2/)

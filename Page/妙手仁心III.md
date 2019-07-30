@@ -1,4 +1,4 @@
-《**妙手仁心III**》（），[香港](../Page/香港.md "wikilink")[電視廣播有限公司時裝醫務](../Page/電視廣播有限公司.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，由[吳啟華](../Page/吳啟華.md "wikilink")、[林保怡](../Page/林保怡.md "wikilink")、[陳豪](../Page/陳豪.md "wikilink")、[黎姿](../Page/黎姿.md "wikilink")、[吳美珩](../Page/吳美珩.md "wikilink")、[邵美琪](../Page/邵美琪.md "wikilink")、[曹永廉及](../Page/曹永廉.md "wikilink")[廖碧兒領銜主演](../Page/廖碧兒.md "wikilink")，監製[戚其義](../Page/戚其義.md "wikilink")。此劇為《[妙手仁心](../Page/妙手仁心.md "wikilink")》系列第三輯。
+《**妙手仁心III**》（），[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")時裝醫務[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，由[吳啟華](../Page/吳啟華.md "wikilink")、[林保怡](../Page/林保怡.md "wikilink")、[陳豪](../Page/陳豪.md "wikilink")、[黎姿](../Page/黎姿.md "wikilink")、[吳美珩](../Page/吳美珩.md "wikilink")、[邵美琪](../Page/邵美琪.md "wikilink")、[曹永廉](../Page/曹永廉.md "wikilink")及[廖碧兒](../Page/廖碧兒.md "wikilink")領銜主演，監製[戚其義](../Page/戚其義.md "wikilink")。此劇為《[妙手仁心](../Page/妙手仁心.md "wikilink")》系列第三輯。
 
 此劇於2007年10月30日、2017年5月25日在[翡翠台](../Page/翡翠台.md "wikilink")，2016年2月27日在[TVB星河频道重播](https://zh.wikipedia.org/wiki/TVB星河频道 "wikilink")。
 
@@ -481,7 +481,7 @@ Martha之子<br />
 
 ## 收視
 
-以下為本劇於[香港](../Page/香港.md "wikilink")[無綫電視](../Page/電視廣播有限公司.md "wikilink")[翡翠台之收視紀錄](../Page/翡翠台.md "wikilink")：
+以下為本劇於[香港](../Page/香港.md "wikilink")[無綫電視](../Page/電視廣播有限公司.md "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")之收視紀錄：
 
 |        |        |                                                     |                                                     |
 | ------ | ------ | --------------------------------------------------- | --------------------------------------------------- |
@@ -497,25 +497,20 @@ Martha之子<br />
 
 ## 製作特輯
 
-此劇的製作特輯名為《妙手仁心III製作檔案》，於2005年7月23日（星期六）22:30-22:55在[翡翠台播出](../Page/翡翠台.md "wikilink")，由[廖碧兒擔任主持](../Page/廖碧兒.md "wikilink")，內容主要介紹此劇的拍攝製作過程和花絮。
+此劇的製作特輯名為《妙手仁心III製作檔案》，於2005年7月23日（星期六）22:30-22:55在[翡翠台](../Page/翡翠台.md "wikilink")播出，由[廖碧兒](../Page/廖碧兒.md "wikilink")擔任主持，內容主要介紹此劇的拍攝製作過程和花絮。
 
 ## 記事
 
-  - 2004年6月15日：此劇在[將軍澳](../Page/將軍澳.md "wikilink")[電視廣播城舉行試造型記者會](../Page/電視廣播城.md "wikilink")。\[1\]
+  - 2004年6月15日：此劇在[將軍澳](../Page/將軍澳.md "wikilink")[電視廣播城](../Page/電視廣播城.md "wikilink")舉行試造型記者會。\[1\]
 
 ## 參考資料
 
 ## 外部連結
 
-  - [《妙手仁心III》 GOTV
-    第1集重溫](https://web.archive.org/web/20140222162458/http://gotv.tvb.com/programme/103200/152704/)
+  - [《妙手仁心III》 GOTV 第1集重溫](https://web.archive.org/web/20140222162458/http://gotv.tvb.com/programme/103200/152704/)
 
 ## 電視節目的變遷
 
-[Category:無綫電視劇集系列](https://zh.wikipedia.org/wiki/Category:無綫電視劇集系列 "wikilink")
-[Category:2005年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:2005年無綫電視劇集 "wikilink")
-[Category:無綫電視2000年代背景劇集](https://zh.wikipedia.org/wiki/Category:無綫電視2000年代背景劇集 "wikilink")
-[Category:無綫電視醫學劇集](https://zh.wikipedia.org/wiki/Category:無綫電視醫學劇集 "wikilink")
-[Category:電視劇續集](https://zh.wikipedia.org/wiki/Category:電視劇續集 "wikilink")
+[Category:無綫電視劇集系列](https://zh.wikipedia.org/wiki/Category:無綫電視劇集系列 "wikilink") [Category:2005年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:2005年無綫電視劇集 "wikilink") [Category:無綫電視2000年代背景劇集](https://zh.wikipedia.org/wiki/Category:無綫電視2000年代背景劇集 "wikilink") [Category:無綫電視醫學劇集](https://zh.wikipedia.org/wiki/Category:無綫電視醫學劇集 "wikilink") [Category:電視劇續集](https://zh.wikipedia.org/wiki/Category:電視劇續集 "wikilink")
 
 1.

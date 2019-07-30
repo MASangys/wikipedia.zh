@@ -1,5 +1,4 @@
-**Linux虛擬服务器**（Linux Virtual
-Server，LVS）是一個虛擬的服务器集群系统，用于实现[负载平衡](https://zh.wikipedia.org/wiki/负载平衡 "wikilink")。项目在1998年5月由[章文嵩成立](https://zh.wikipedia.org/wiki/章文嵩 "wikilink")，是中国国内最早出现的[自由软件项目之一](../Page/自由软件.md "wikilink")。
+**Linux虛擬服务器**（Linux Virtual Server，LVS）是一個虛擬的服务器集群系统，用于实现[负载平衡](https://zh.wikipedia.org/wiki/负载平衡 "wikilink")。项目在1998年5月由[章文嵩成立](https://zh.wikipedia.org/wiki/章文嵩 "wikilink")，是中国国内最早出现的[自由软件](../Page/自由软件.md "wikilink")项目之一。
 
 ## 目标
 
@@ -15,5 +14,4 @@ Server，LVS）是一個虛擬的服务器集群系统，用于实现[负载平�
 
   - <http://www.linuxvirtualserver.org/>
 
-[Category:网络软件](https://zh.wikipedia.org/wiki/Category:网络软件 "wikilink")
-[Category:并发计算](https://zh.wikipedia.org/wiki/Category:并发计算 "wikilink")
+[Category:网络软件](https://zh.wikipedia.org/wiki/Category:网络软件 "wikilink") [Category:并发计算](https://zh.wikipedia.org/wiki/Category:并发计算 "wikilink")

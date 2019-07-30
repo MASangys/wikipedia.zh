@@ -2,18 +2,13 @@
 
 ## 概要
 
-與《[英雄傳說III 白髮魔女](../Page/英雄傳說III_白髮魔女.md "wikilink")》、《[英雄傳說V
-海之檻歌](../Page/英雄傳說V_海之檻歌.md "wikilink")》合稱為《卡卡布三部曲》。
+與《[英雄傳說III 白髮魔女](../Page/英雄傳說III_白髮魔女.md "wikilink")》、《[英雄傳說V 海之檻歌](../Page/英雄傳說V_海之檻歌.md "wikilink")》合稱為《卡卡布三部曲》。
 
-接續《[英雄傳說III
-白髮魔女](../Page/英雄傳說III_白髮魔女.md "wikilink")》，為卡卡布三部曲的第二作。但作品時間設定在卡卡布曆936年，早於與3代（卡卡布曆992年）之前。舞臺是卡卡布裂縫西側的埃魯·非爾汀（El.Phildin）。
+接續《[英雄傳說III 白髮魔女](../Page/英雄傳說III_白髮魔女.md "wikilink")》，為卡卡布三部曲的第二作。但作品時間設定在卡卡布曆936年，早於與3代（卡卡布曆992年）之前。舞臺是卡卡布裂縫西側的埃魯·非爾汀（El.Phildin）。
 
 ## 譯名差異
 
-日文原名《**英雄伝説IV
-朱紅い雫**》由于「雫」字的暧昧性导致其中文译名长期以来没有统一，早在1997年大陆通常使用的译名为《朱红雪》，后来因[天堂鳥的翻译又有了](https://zh.wikipedia.org/wiki/天堂鳥 "wikilink")《朱红血》等中文译名。随着2000年复刻版的推出，根据该作英文标题*A
-Tear of
-Vermillion*的含义，[北京新天地代理时将译名定为](../Page/北京新天地.md "wikilink")《朱红的泪》。从此旧版译名为公认度较高的《**朱红血**》，新版则为《**朱红的泪**》。
+日文原名《**英雄伝説IV 朱紅い雫**》由于「雫」字的暧昧性导致其中文译名长期以来没有统一，早在1997年大陆通常使用的译名为《朱红雪》，后来因[天堂鳥的翻译又有了](https://zh.wikipedia.org/wiki/天堂鳥 "wikilink")《朱红血》等中文译名。随着2000年复刻版的推出，根据该作英文标题*A Tear of Vermillion*的含义，[北京新天地](../Page/北京新天地.md "wikilink")代理时将译名定为《朱红的泪》。从此旧版译名为公认度较高的《**朱红血**》，新版则为《**朱红的泪**》。
 
 ## 世界观
 
@@ -228,7 +223,4 @@ Vermillion*的含义，[北京新天地代理时将译名定为](../Page/北京�
 
   - [日文版官方主页](http://www.falcom.co.jp/ed4_win/)
 
-[Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink")
-[Category:英雄傳說系列](https://zh.wikipedia.org/wiki/Category:英雄傳說系列 "wikilink")
-[Category:1996年电子游戏](https://zh.wikipedia.org/wiki/Category:1996年电子游戏 "wikilink")
-[Category:日本Falcom游戏](https://zh.wikipedia.org/wiki/Category:日本Falcom游戏 "wikilink")
+[Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink") [Category:英雄傳說系列](https://zh.wikipedia.org/wiki/Category:英雄傳說系列 "wikilink") [Category:1996年电子游戏](https://zh.wikipedia.org/wiki/Category:1996年电子游戏 "wikilink") [Category:日本Falcom游戏](https://zh.wikipedia.org/wiki/Category:日本Falcom游戏 "wikilink")

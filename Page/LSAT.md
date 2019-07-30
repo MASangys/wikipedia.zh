@@ -2,7 +2,7 @@
 
 ## LSAT考試時間及評價標準
 
-LSAT考試每年舉辦四次，分別在二月、六月、十月及十二月。[中國大陸地區六月和十二月在](../Page/中國.md "wikilink")[北京大學有固定考試](https://zh.wikipedia.org/wiki/北京大學 "wikilink")。部分中國大陸地區考生會選擇在二月、十月時到香港參加在那裡舉辦的LSAT考試。
+LSAT考試每年舉辦四次，分別在二月、六月、十月及十二月。[中國](../Page/中國.md "wikilink")大陸地區六月和十二月在[北京大學有固定考試](https://zh.wikipedia.org/wiki/北京大學 "wikilink")。部分中國大陸地區考生會選擇在二月、十月時到香港參加在那裡舉辦的LSAT考試。
 
 LSAT考試滿分為180分，最低分為120分，其計算方法是根據選擇的正確的答案的數目來確定。選對25個左右，分數大概為130分；選對39個左右，分數大概為140分；選對55個，分數大致為150分；選對72個，分數為160；選對87個，分數為170分；選對98個以上，分數為滿分180分。一般來說，排名前14的法學院要求成績都在170分以上；排名前25的法學要求成績在160分以上。考試成績一般在考後五週左右由主辦機構寄出，LSAT成績在5年內有效。
 
@@ -21,9 +21,7 @@ LSAT考試的註冊費用從2009年六月起是$132，延遲註冊需加$64[美�
 
 ## LSAT邏輯推理
 
-邏輯推理試題共有兩個部分，每部分有 24-26道試題。一般每道題都有一篇小的短文或對話，然後針對此短文或對話提出 問題。
-短文或對話涉及的範圍很廣，包括[哲學](https://zh.wikipedia.org/wiki/哲學 "wikilink")、[文學](../Page/文學.md "wikilink")、[政治](../Page/政治.md "wikilink")、[科技](https://zh.wikipedia.org/wiki/科技 "wikilink")、[藝術](https://zh.wikipedia.org/wiki/藝術 "wikilink")、[歷史](https://zh.wikipedia.org/wiki/歷史 "wikilink")、[體育等等](https://zh.wikipedia.org/wiki/體育 "wikilink")。
-邏輯推理試題主要測試考生的以下能力 ，
+邏輯推理試題共有兩個部分，每部分有 24-26道試題。一般每道題都有一篇小的短文或對話，然後針對此短文或對話提出 問題。 短文或對話涉及的範圍很廣，包括[哲學](https://zh.wikipedia.org/wiki/哲學 "wikilink")、[文學](../Page/文學.md "wikilink")、[政治](../Page/政治.md "wikilink")、[科技](https://zh.wikipedia.org/wiki/科技 "wikilink")、[藝術](https://zh.wikipedia.org/wiki/藝術 "wikilink")、[歷史](https://zh.wikipedia.org/wiki/歷史 "wikilink")、[體育等等](https://zh.wikipedia.org/wiki/體育 "wikilink")。 邏輯推理試題主要測試考生的以下能力 ，
 
   - 確定中心思想
   - 找出推理中的假設
@@ -76,7 +74,6 @@ LSAT考試中的作文是不記入總分的，法學院在錄取時，對於作�
 
   - [Law School Admission Council](http://www.lsac.org/)
 
-[Category:考試](https://zh.wikipedia.org/wiki/Category:考試 "wikilink")
-[Category:美國法學院](https://zh.wikipedia.org/wiki/Category:美國法學院 "wikilink")
+[Category:考試](https://zh.wikipedia.org/wiki/Category:考試 "wikilink") [Category:美國法學院](https://zh.wikipedia.org/wiki/Category:美國法學院 "wikilink")
 
 1.

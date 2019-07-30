@@ -1,25 +1,21 @@
 [Iccard.gif](https://zh.wikipedia.org/wiki/File:Iccard.gif "fig:Iccard.gif")
 
-**iPASS一卡通**（）是[臺灣的一家作為](../Page/臺灣.md "wikilink")[電子票證的](../Page/電子貨幣.md "wikilink")[智慧卡品牌](../Page/智慧卡.md "wikilink")，由[一卡通票證公司發行](../Page/一卡通票證公司.md "wikilink")，於2007年12月正式發卡，是台灣第二家具規模的電子票證支付卡。一卡通產品的口號是「一卡在手，讓你四通八達；讓生活簡單自由」。目前發行量約為2100萬張，每日交易筆數約115萬筆。\[1\]。
+**iPASS一卡通**（）是[臺灣](../Page/臺灣.md "wikilink")的一家作為[電子票證的](../Page/電子貨幣.md "wikilink")[智慧卡](../Page/智慧卡.md "wikilink")品牌，由[一卡通票證公司](../Page/一卡通票證公司.md "wikilink")發行，於2007年12月正式發卡，是台灣第二家具規模的電子票證支付卡。一卡通產品的口號是「一卡在手，讓你四通八達；讓生活簡單自由」。目前發行量約為2100萬張，每日交易筆數約115萬筆。\[1\]。
 
 ## 簡介
 
-iPASS一卡通前身是[高雄捷運所發行的](../Page/高雄捷運.md "wikilink")“一卡通”，起初為[高雄捷運公司所營運](../Page/高雄捷運公司.md "wikilink")，隨著一卡通逐步普及至鐵路、公車客運等交通運輸工具和商家小額付款後，為了提升一卡通票證業務服務的應用與擴展，於是成立一卡通票證公司來發行、管理票證業務。一卡通票證公司於2013年12月6日獲[金管會核准設立](https://zh.wikipedia.org/wiki/金管會 "wikilink")，2014年2月13日正式營運，主要股東除了高雄捷運公司，尚包含[行政院國家發展基金](../Page/行政院國家發展基金.md "wikilink")、[高雄市政府](../Page/高雄市政府.md "wikilink")、[臺南市政府等政府機關](../Page/臺南市政府.md "wikilink")，[聯邦銀行](https://zh.wikipedia.org/wiki/聯邦銀行 "wikilink")、連加網路商業公司（[LINE
-Pay公司](../Page/LINE_Pay.md "wikilink")）等民間企業。
+iPASS一卡通前身是[高雄捷運](../Page/高雄捷運.md "wikilink")所發行的“一卡通”，起初為[高雄捷運公司](../Page/高雄捷運公司.md "wikilink")所營運，隨著一卡通逐步普及至鐵路、公車客運等交通運輸工具和商家小額付款後，為了提升一卡通票證業務服務的應用與擴展，於是成立一卡通票證公司來發行、管理票證業務。一卡通票證公司於2013年12月6日獲[金管會核准設立](https://zh.wikipedia.org/wiki/金管會 "wikilink")，2014年2月13日正式營運，主要股東除了高雄捷運公司，尚包含[行政院國家發展基金](../Page/行政院國家發展基金.md "wikilink")、[高雄市政府](../Page/高雄市政府.md "wikilink")、[臺南市政府](../Page/臺南市政府.md "wikilink")等政府機關，[聯邦銀行](https://zh.wikipedia.org/wiki/聯邦銀行 "wikilink")、連加網路商業公司（[LINE Pay公司](../Page/LINE_Pay.md "wikilink")）等民間企業。
 
-為了因應電子支付趨勢，一卡通票證公司於2017年7月獲[金管會核准取得兼營電子支付業務許可](https://zh.wikipedia.org/wiki/金管會 "wikilink")，整合電子票證、電子支付業務並與[Line合作發展](https://zh.wikipedia.org/wiki/Line "wikilink")“[LINE
-Pay一卡通](https://zh.wikipedia.org/wiki/LINE_Pay#支付模式 "wikilink")”，提供國內民生消費、交通、政府規費、跨境付款等各項行動支付場域。
+為了因應電子支付趨勢，一卡通票證公司於2017年7月獲[金管會核准取得兼營電子支付業務許可](https://zh.wikipedia.org/wiki/金管會 "wikilink")，整合電子票證、電子支付業務並與[Line合作發展](https://zh.wikipedia.org/wiki/Line "wikilink")“[LINE Pay一卡通](https://zh.wikipedia.org/wiki/LINE_Pay#支付模式 "wikilink")”，提供國內民生消費、交通、政府規費、跨境付款等各項行動支付場域。
 
-一卡通使用的是[RFID技術](https://zh.wikipedia.org/wiki/射頻識別 "wikilink")，並採用[飛利浦的](../Page/飛利浦.md "wikilink")[MIFARE技術架構](https://zh.wikipedia.org/wiki/MIFARE "wikilink")。該技術符合[國際標準](https://zh.wikipedia.org/wiki/國際標準 "wikilink")[ISO
-14443之規範](https://zh.wikipedia.org/wiki/ISO_14443 "wikilink")、以及交通部《電子票證系統之多功能卡片規劃書第二版》。
+一卡通使用的是[RFID技術](https://zh.wikipedia.org/wiki/射頻識別 "wikilink")，並採用[飛利浦](../Page/飛利浦.md "wikilink")的[MIFARE技術架構](https://zh.wikipedia.org/wiki/MIFARE "wikilink")。該技術符合[國際標準](https://zh.wikipedia.org/wiki/國際標準 "wikilink")[ISO 14443之規範](https://zh.wikipedia.org/wiki/ISO_14443 "wikilink")、以及交通部《電子票證系統之多功能卡片規劃書第二版》。
 
 ## 卡片種類
 
 ### 普通版一卡通
 
 現今買斷式普通版一卡通可分為三種，分別是：**普通卡**、**學生卡**、**優待卡**
-{| border="1" class="wikitable" |- \!width=8% |種類 \!\!width=10%|記名
-\!\!width=22%|使用條件 \!\!width=10%|首次購買價格 \!\!width=30%|備註 |- |普通卡||
+{| border="1" class="wikitable" |- \!width=8% |種類 \!\!width=10%|記名 \!\!width=22%|使用條件 \!\!width=10%|首次購買價格 \!\!width=30%|備註 |- |普通卡||
 
 <center>
 
@@ -696,7 +692,7 @@ Pay一卡通](https://zh.wikipedia.org/wiki/LINE_Pay#支付模式 "wikilink")”
 <td><center>
 <p>$150</p>
 </center></td>
-<td><p><a href="../Page/台灣好行.md" title="wikilink">台灣好行鹿港線</a>、溪頭線：75折起<br />
+<td><p><a href="../Page/台灣好行.md" title="wikilink">台灣好行</a>鹿港線、溪頭線：75折起<br />
 彰化客運：8折起<br />
 員林客運：85折起<br />
 南投客運：85折起<br />
@@ -843,7 +839,7 @@ Pay一卡通](https://zh.wikipedia.org/wiki/LINE_Pay#支付模式 "wikilink")”
 <td><p>根據活動業者需求而定</p></td>
 <td><p>活動相關工作人員、參與者與媒體</p></td>
 <td><p>根據活動業者需求而定</p></td>
-<td><p>活動進行期間，憑專屬證件感應進出展區範圍（進入或離開展場時皆須感應），同時可做為一般票證，於一卡通可使用之通路使用（2014年開辦之<a href="../Page/智慧城市展.md" title="wikilink">智慧城市展與</a><a href="../Page/2015年中華民國全國運動會.md" title="wikilink">2015年全國運動會</a>[5]已經正式實施）</p></td>
+<td><p>活動進行期間，憑專屬證件感應進出展區範圍（進入或離開展場時皆須感應），同時可做為一般票證，於一卡通可使用之通路使用（2014年開辦之<a href="../Page/智慧城市展.md" title="wikilink">智慧城市展</a>與<a href="../Page/2015年中華民國全國運動會.md" title="wikilink">2015年全國運動會</a>[5]已經正式實施）</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -891,7 +887,7 @@ Pay一卡通](https://zh.wikipedia.org/wiki/LINE_Pay#支付模式 "wikilink")”
 <td><center>
 <p>是</p>
 </center></td>
-<td><p>設籍於<a href="https://zh.wikipedia.org/wiki/File:Emblem_of_Taitung_County.svg" title="fig:Emblem_of_Taitung_County.svg">Emblem_of_Taitung_County.svg</a><a href="../Page/臺東縣.md" title="wikilink">臺東縣之縣民</a></p></td>
+<td><p>設籍於<a href="https://zh.wikipedia.org/wiki/File:Emblem_of_Taitung_County.svg" title="fig:Emblem_of_Taitung_County.svg">Emblem_of_Taitung_County.svg</a><a href="../Page/臺東縣.md" title="wikilink">臺東縣</a>之縣民</p></td>
 <td><p>普通卡<br />
 學生卡<br />
 敬老卡<br />
@@ -904,7 +900,7 @@ Pay一卡通](https://zh.wikipedia.org/wiki/LINE_Pay#支付模式 "wikilink")”
 <td><center>
 <p>是</p>
 </center></td>
-<td><p>設籍於<a href="https://zh.wikipedia.org/wiki/File:Seal_of_Penghu_County.svg" title="fig:Seal_of_Penghu_County.svg">Seal_of_Penghu_County.svg</a><a href="../Page/澎湖縣.md" title="wikilink">澎湖縣之縣民</a></p></td>
+<td><p>設籍於<a href="https://zh.wikipedia.org/wiki/File:Seal_of_Penghu_County.svg" title="fig:Seal_of_Penghu_County.svg">Seal_of_Penghu_County.svg</a><a href="../Page/澎湖縣.md" title="wikilink">澎湖縣</a>之縣民</p></td>
 <td><p>聯名信用卡<br />
 社福敬老卡<br />
 愛心卡<br />
@@ -1223,7 +1219,7 @@ Snoopy 65週年巡迴特展紀念一卡通</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/MP魔幻力量.md" title="wikilink">MP魔幻力量我們的主場一卡通</a></p></td>
+<td><p><a href="../Page/MP魔幻力量.md" title="wikilink">MP魔幻力量</a>我們的主場一卡通</p></td>
 <td><p>空卡售價100元<br />
 </p></td>
 <td><p>高雄捷運：2015年7月19日<br />
@@ -1285,7 +1281,7 @@ Snoopy 65週年巡迴特展紀念一卡通</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/林志玲.md" title="wikilink">林志玲用心玲聽</a>_2016 限量版公益一卡通套組</p></td>
+<td><p><a href="../Page/林志玲.md" title="wikilink">林志玲</a>用心玲聽_2016 限量版公益一卡通套組</p></td>
 <td><p>發行：2016年11月25日</p></td>
 <td></td>
 <td></td>
@@ -1294,7 +1290,7 @@ Snoopy 65週年巡迴特展紀念一卡通</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/五月天.md" title="wikilink">五月天最終站復刻版</a></p></td>
+<td><p><a href="../Page/五月天.md" title="wikilink">五月天</a>最終站復刻版</p></td>
 <td><p>預購：2016年11月25日</p></td>
 <td><p>預購：25,000張</p></td>
 <td></td>
@@ -1303,7 +1299,7 @@ Snoopy 65週年巡迴特展紀念一卡通</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/五月天.md" title="wikilink">五月天自傳版</a></p></td>
+<td><p><a href="../Page/五月天.md" title="wikilink">五月天</a>自傳版</p></td>
 <td><p>預購：25,000張</p></td>
 <td></td>
 <td></td>
@@ -1680,8 +1676,7 @@ Snoopy 65週年巡迴特展紀念一卡通</p></td>
   - 新竹市：[YouBike微笑單車](../Page/新竹市公共自行車租賃系統.md "wikilink")
   - 臺中市：[i Bike微笑單車](../Page/臺中市公共自行車租賃系統.md "wikilink")
   - 彰化縣：[Changhua YouBike微笑單車](../Page/彰化縣公共自行車租賃系統.md "wikilink")
-  - 臺南市：[T-Bike](../Page/臺南市公共自行車租賃系統.md "wikilink")／[Tainan Tour
-    Bike](../Page/臺南市觀光自行車租賃系統.md "wikilink")
+  - 臺南市：[T-Bike](../Page/臺南市公共自行車租賃系統.md "wikilink")／[Tainan Tour Bike](../Page/臺南市觀光自行車租賃系統.md "wikilink")
   - 高雄市：[City Bike](../Page/高雄市公共腳踏車租賃系統.md "wikilink")
   - 屏東縣：[P Bike](https://zh.wikipedia.org/wiki/屏東公共自行車租賃系統 "wikilink")
   - 金門縣：[K Bike](../Page/金門縣公共自行車租賃系統.md "wikilink")
@@ -1775,7 +1770,7 @@ Snoopy 65週年巡迴特展紀念一卡通</p></td>
 
   - [國家圖書館](../Page/國家圖書館_\(中華民國\).md "wikilink")
   - [國立公共資訊圖書館及各分館](https://zh.wikipedia.org/wiki/國立公共資訊圖書館 "wikilink")
-  - [臺中市立圖書館及各分館](../Page/臺中市立圖書館.md "wikilink")
+  - [臺中市立圖書館](../Page/臺中市立圖書館.md "wikilink")及各分館
   - [臺南市立圖書館及各分館](https://zh.wikipedia.org/wiki/臺南市立圖書館 "wikilink")（僅限使用一卡通臺南市市民卡）
   - [高雄市立圖書館及各分館與捷運智慧圖書館](https://zh.wikipedia.org/wiki/高雄市立圖書館 "wikilink")
   - [彰化縣立圖書館及各分館](https://zh.wikipedia.org/wiki/彰化縣立圖書館 "wikilink")
@@ -1810,11 +1805,11 @@ Snoopy 65週年巡迴特展紀念一卡通</p></td>
 
 **購卡**
 
-  - [高雄捷運各車站服務台](../Page/高雄捷運.md "wikilink")
-  - [臺北捷運各車站服務台](../Page/臺北捷運.md "wikilink")
+  - [高雄捷運](../Page/高雄捷運.md "wikilink")各車站服務台
+  - [臺北捷運](../Page/臺北捷運.md "wikilink")各車站服務台
   - [桃園捷運各車站服務台](https://zh.wikipedia.org/wiki/桃園捷運 "wikilink")
   - [桃園捷運各車站售卡](https://zh.wikipedia.org/wiki/桃園捷運 "wikilink")/加值機
-  - [統一超商（7-11）](../Page/統一超商.md "wikilink")、[全家便利商店](../Page/全家便利商店.md "wikilink")、[萊爾富](../Page/萊爾富.md "wikilink")、[OK超商所有門市](../Page/OK超商.md "wikilink")
+  - [統一超商](../Page/統一超商.md "wikilink")（7-11）、[全家便利商店](../Page/全家便利商店.md "wikilink")、[萊爾富](../Page/萊爾富.md "wikilink")、[OK超商](../Page/OK超商.md "wikilink")所有門市
   - 一卡通臺北服務中心（市府轉運站）
   - 一卡通臺中服務中心（台中轉運站）
   - 一卡通北高雄服務中心（[捷運後驛站](https://zh.wikipedia.org/wiki/捷運後驛站 "wikilink")）
@@ -1823,11 +1818,10 @@ Snoopy 65週年巡迴特展紀念一卡通</p></td>
   - [桃園客運](../Page/桃園客運.md "wikilink")、[新竹客運](../Page/新竹客運.md "wikilink")、[苗栗客運](../Page/苗栗客運.md "wikilink")、[豐原客運](https://zh.wikipedia.org/wiki/豐原客運 "wikilink")、[巨業客運](https://zh.wikipedia.org/wiki/巨業客運 "wikilink")、[臺中客運](https://zh.wikipedia.org/wiki/臺中客運 "wikilink")、[嘉義客運](../Page/嘉義客運.md "wikilink")(記名學生卡)、[嘉義縣公共汽車管理處](../Page/嘉義縣公共汽車管理處.md "wikilink")(記名學生卡)、[義大客運](../Page/義大客運.md "wikilink")、[屏東客運](../Page/屏東客運.md "wikilink")
   - [統聯客運](../Page/統聯客運.md "wikilink")：建國站、中正站、楠梓站、岡山站、中港轉運站、臺中車站、朝馬站
   - [府城客運臺南站](https://zh.wikipedia.org/wiki/府城客運 "wikilink")
-  - [台糖量販屏東店](../Page/台糖量販.md "wikilink")
+  - [台糖量販](../Page/台糖量販.md "wikilink")屏東店
   - [桃園國際機場第一航廈](https://zh.wikipedia.org/wiki/臺灣桃園國際機場 "wikilink")：入境大廳/電子票證聯合服務櫃檯
   - [桃園國際機場第二航廈](https://zh.wikipedia.org/wiki/臺灣桃園國際機場 "wikilink")：入境大廳/電子票證聯合服務櫃檯
-  - [臺中國際機場](https://zh.wikipedia.org/wiki/臺中清泉崗機場 "wikilink")：入境大廳/FLY
-    COOL
+  - [臺中國際機場](https://zh.wikipedia.org/wiki/臺中清泉崗機場 "wikilink")：入境大廳/FLY COOL
   - [高雄國際機場](https://zh.wikipedia.org/wiki/高雄國際機場 "wikilink")：入境大廳/金建旅行社
 
 **加值**
@@ -1842,7 +1836,7 @@ Snoopy 65週年巡迴特展紀念一卡通</p></td>
   - [桃園國際機場第一航廈](https://zh.wikipedia.org/wiki/臺灣桃園國際機場 "wikilink")：入境大廳/電子票證聯合服務櫃檯
   - [桃園國際機場第二航廈](https://zh.wikipedia.org/wiki/臺灣桃園國際機場 "wikilink")：入境大廳/電子票證聯合服務櫃檯
   - [全家便利商店](../Page/全家便利商店.md "wikilink")
-  - [萊爾富便利商店](../Page/萊爾富.md "wikilink")
+  - [萊爾富](../Page/萊爾富.md "wikilink")便利商店
   - [7-ELEVEN](../Page/統一超商.md "wikilink")
   - [OK超商](../Page/OK超商.md "wikilink")
   - 一卡通臺北服務中心（市府轉運站）
@@ -1866,10 +1860,9 @@ Snoopy 65週年巡迴特展紀念一卡通</p></td>
   - [全聯福利中心](../Page/全聯福利中心.md "wikilink")
   - 順發3C（南部門市）
   - 愛國超市
-  - [環球購物中心屏東店](../Page/環球購物中心.md "wikilink")
+  - [環球購物中心](../Page/環球購物中心.md "wikilink")屏東店
   - [國泰世華銀行ATM](https://zh.wikipedia.org/wiki/國泰世華銀行 "wikilink")（台北捷運、大魯閣草衙道、鈴鹿賽道樂園、華泰名品城、部分分行超商、全台[全聯福利中心](../Page/全聯福利中心.md "wikilink")）
-  - [臺中國際機場](https://zh.wikipedia.org/wiki/臺中清泉崗機場 "wikilink")：入境大廳/FLY
-    COOL
+  - [臺中國際機場](https://zh.wikipedia.org/wiki/臺中清泉崗機場 "wikilink")：入境大廳/FLY COOL
 
 ### 代墊功能
 
@@ -1889,7 +1882,7 @@ Snoopy 65週年巡迴特展紀念一卡通</p></td>
 <!-- end list -->
 
   - [臺灣鐵路管理局](https://zh.wikipedia.org/wiki/臺灣鐵路管理局 "wikilink")
-      - 除[太魯閣列車](https://zh.wikipedia.org/wiki/太魯閣列車 "wikilink")、[普悠瑪列車](https://zh.wikipedia.org/wiki/普悠瑪列車 "wikilink")、[觀光列車](../Page/觀光列車.md "wikilink")、團體列車、專開列車等不得搭乘外，於電子票證乘車區間內以[區間車票價](../Page/臺鐵區間車.md "wikilink")9折計費，惟搭乘[自強號列車逾](../Page/自強號列車.md "wikilink")70公里部分以自強號票價計算。
+      - 除[太魯閣列車](../Page/太魯閣列車.md "wikilink")、[普悠瑪列車](../Page/普悠瑪列車.md "wikilink")、[觀光列車](../Page/觀光列車.md "wikilink")、團體列車、專開列車等不得搭乘外，於電子票證乘車區間內以[區間車票價](../Page/臺鐵區間車.md "wikilink")9折計費，惟搭乘[自強號列車](../Page/自強號列車.md "wikilink")逾70公里部分以自強號票價計算。
 
 <!-- end list -->
 
@@ -1899,7 +1892,7 @@ Snoopy 65週年巡迴特展紀念一卡通</p></td>
 
   - [高雄捷運](../Page/高雄捷運.md "wikilink")
       - 持一卡通，85折優惠。
-      - 捷運轉乘[高雄市公車優惠](../Page/高雄市公車.md "wikilink")(僅單向)：刷電子票證搭捷運後，2小時內轉乘公車，且搭公車時扣電子錢包金額，享有折扣3元之優惠\[21\]。
+      - 捷運轉乘[高雄市公車](../Page/高雄市公車.md "wikilink")優惠(僅單向)：刷電子票證搭捷運後，2小時內轉乘公車，且搭公車時扣電子錢包金額，享有折扣3元之優惠\[21\]。
   - [臺北捷運](../Page/臺北捷運.md "wikilink")
       - 持一卡通，8折優惠。
       - 雙向轉乘[臺北市市區公車](../Page/臺北市市區公車.md "wikilink")、[新北市市區公車享有轉乘優惠](../Page/新北市公車.md "wikilink")。
@@ -1911,12 +1904,10 @@ Snoopy 65週年巡迴特展紀念一卡通</p></td>
 <!-- end list -->
 
   - [City Bike](../Page/高雄市公共腳踏車租賃系統.md "wikilink")
-      - 持一卡通租借City
-        Bike，前30分鐘內免費騎乘。若逾半小時，30\~60分鐘費率為5元，60\~90分鐘費率為10元，之後仍維持每30分鐘20元。
+      - 持一卡通租借City Bike，前30分鐘內免費騎乘。若逾半小時，30\~60分鐘費率為5元，60\~90分鐘費率為10元，之後仍維持每30分鐘20元。
       - 搭乘高雄捷運後，1小時以內騎乘公共腳踏車，仍維持第1小時內免費，若逾1小時，未超過90分鐘費率為10元，之後仍維持每30分鐘20元。
       - 騎乘腳踏車後，1小時以內轉乘捷運，補助捷運費用4元。
-  - [P
-    Bike](https://zh.wikipedia.org/wiki/屏東公共自行車租賃系統 "wikilink")、[iBike微笑單車](https://zh.wikipedia.org/wiki/臺中市公共腳踏車租賃系統 "wikilink")、Youbike微笑單車([新北市](../Page/新北市公共自行車租賃系統.md "wikilink")、[桃園市](../Page/桃園市公共自行車租賃系統.md "wikilink"))：
+  - [P Bike](https://zh.wikipedia.org/wiki/屏東公共自行車租賃系統 "wikilink")、[iBike微笑單車](https://zh.wikipedia.org/wiki/臺中市公共腳踏車租賃系統 "wikilink")、Youbike微笑單車([新北市](../Page/新北市公共自行車租賃系統.md "wikilink")、[桃園市](../Page/桃園市公共自行車租賃系統.md "wikilink"))：
       - 持一卡通租借前30分鐘免費，之後每半小時10元。
   - YouBike微笑單車([臺北市](https://zh.wikipedia.org/wiki/臺北市公共腳踏車租賃系統 "wikilink")、[彰化縣](../Page/彰化縣公共自行車租賃系統.md "wikilink"))：
       - 持一卡通租借前30分鐘僅收費5元，之後每半小時10元。
@@ -1949,8 +1940,7 @@ Snoopy 65週年巡迴特展紀念一卡通</p></td>
       - 持一卡通數位學生證、高雄學生認同卡搭乘段次計費路線，每段次僅收費10元。
       - 自2017年1月1日起，持普通卡、學生卡搭乘高雄市公車段次收費路線，刷一卡通一日二段吃到飽優惠（當日第3次起免費）。
       - 自2017年1月1日起，公路客運、就醫公車、國道快捷公車最高收費60元。
-      - 自 2017/1/1 起，僅有一卡通學生證、高捷學生認同卡有學生優惠，不具照片之學生卡不再享有學生優惠(每段以 12
-        元全票計收)。
+      - 自 2017/1/1 起，僅有一卡通學生證、高捷學生認同卡有學生優惠，不具照片之學生卡不再享有學生優惠(每段以 12 元全票計收)。
 
 <!-- end list -->
 
@@ -1983,10 +1973,9 @@ Snoopy 65週年巡迴特展紀念一卡通</p></td>
 
 ## 歷史
 
-一卡通原為[高雄捷運公司發行之電子票證](../Page/高雄捷運公司.md "wikilink")。2006年配合高雄捷運R3～R8體驗搭乘活動，高捷首先發行「高雄捷運首航紀念套票」。2007年4月，由於關鍵技術及安全認證仍無法整合，高雄捷運公司與發行TM卡（[TaiwanMoney](https://zh.wikipedia.org/wiki/TaiwanMoney "wikilink")
-Card）的[宏碁團隊歷經十四次談判後宣告票證整合失敗](../Page/宏碁.md "wikilink")，[高雄市政府捷運工程局協調](../Page/高雄市政府捷運工程局.md "wikilink")[高雄市公共汽車管理處在公車及渡輪裝設一卡通讀卡機](../Page/高雄市公共汽車管理處.md "wikilink")，經費由捷運公司負擔。
+一卡通原為[高雄捷運公司](../Page/高雄捷運公司.md "wikilink")發行之電子票證。2006年配合高雄捷運R3～R8體驗搭乘活動，高捷首先發行「高雄捷運首航紀念套票」。2007年4月，由於關鍵技術及安全認證仍無法整合，高雄捷運公司與發行TM卡（[TaiwanMoney](https://zh.wikipedia.org/wiki/TaiwanMoney "wikilink") Card）的[宏碁](../Page/宏碁.md "wikilink")團隊歷經十四次談判後宣告票證整合失敗，[高雄市政府捷運工程局](../Page/高雄市政府捷運工程局.md "wikilink")協調[高雄市公共汽車管理處](../Page/高雄市公共汽車管理處.md "wikilink")在公車及渡輪裝設一卡通讀卡機，經費由捷運公司負擔。
 
-2014年2月13日，成立專責票證公司，由[一卡通票證公司承接本票證業務](../Page/一卡通票證公司.md "wikilink")，一卡通不再由高雄捷運公司發行，並開放小額支付功能。
+2014年2月13日，成立專責票證公司，由[一卡通票證公司](../Page/一卡通票證公司.md "wikilink")承接本票證業務，一卡通不再由高雄捷運公司發行，並開放小額支付功能。
 
 | 日期          | 項目                                                                                                                                                         |
 | ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2000,9 +1989,9 @@ Card）的[宏碁團隊歷經十四次談判後宣告票證整合失敗](../Page
 | 2012年       | 整合高雄市大專院校及高中、高職換發使用一卡通數位學生證。                                                                                                                               |
 | 2013年5月     | 一卡通使用範圍擴張到[臺鐵](https://zh.wikipedia.org/wiki/臺鐵 "wikilink")。                                                                                               |
 | 2013年7月     | 推出[近場通訊](../Page/近場通訊.md "wikilink")（NFC）一卡通。                                                                                                              |
-| 2013年12月6日  | [金管會核准](https://zh.wikipedia.org/wiki/金管會 "wikilink")[一卡通票證公司籌備委員會設立電子票證發行機構之申請](../Page/一卡通票證公司.md "wikilink")。                                           |
+| 2013年12月6日  | [金管會核准](https://zh.wikipedia.org/wiki/金管會 "wikilink")[一卡通票證公司](../Page/一卡通票證公司.md "wikilink")籌備委員會設立電子票證發行機構之申請。                                           |
 | 2014年2月13日  | 一卡通票證公司正式營運，一卡通不再由高雄捷運公司發行，並開放小額支付功能，成為金管會核准的第三家電子票證的專業發行機構。未來的目標為持續擴張使用範圍，達到「一卡在手，四通八達」。                                                                  |
-| 2014年3月14日  | 與日本[Suica](../Page/Suica.md "wikilink")、[ICOCA簽署合作備忘錄](../Page/ICOCA.md "wikilink")，期許兩種卡能於臺灣及日本互通使用。\[23\]                                                |
+| 2014年3月14日  | 與日本[Suica](../Page/Suica.md "wikilink")、[ICOCA](../Page/ICOCA.md "wikilink")簽署合作備忘錄，期許兩種卡能於臺灣及日本互通使用。\[23\]                                                |
 | 2014年7月1日   | 全國之全家便利商店、萊爾富便利商店同步啟用一卡通小額消費與高雄市立壽山動物園刷卡入園服務。                                                                                                              |
 | 2014年7月31日  | 跨入百貨業者，大統集團超市及美食街加入一卡通小額消費通路。                                                                                                                              |
 | 2014年8月14日  | 跨入超市業者，愛國超市加入一卡通小額消費通路。                                                                                                                                    |
@@ -2013,13 +2002,13 @@ Card）的[宏碁團隊歷經十四次談判後宣告票證整合失敗](../Page
 | 2014年12月4日  | 開放使用[P Bike](../Page/屏東市公共自行車租賃系統.md "wikilink")。                                                                                                          |
 | 2015年1月1日   | 跨入便當業者，正忠排骨連鎖便當店全國25家加入小額消費通路行列。\[24\]                                                                                                                     |
 | 2015年1月5日   | 高雄市立聯合醫院首度開通掛號費、醫藥費以iPASS一卡通繳納服務\[25\]                                                                                                                     |
-| 2015年1月12日  | [統一超商開放台南](../Page/統一超商.md "wikilink")、高雄、屏東之門市使用一卡通。\[26\]                                                                                                |
+| 2015年1月12日  | [統一超商](../Page/統一超商.md "wikilink")開放台南、高雄、屏東之門市使用一卡通。\[26\]                                                                                                |
 | 2015年2月2日   | 開通高雄市立凱旋醫院支付服務。                                                                                                                                            |
 | 2015年2月6日   | 開放使用[i Bike微笑單車](https://zh.wikipedia.org/wiki/臺中市公共腳踏車租賃系統 "wikilink")。\[27\]                                                                             |
 | 2015年2月12日  | 推出與東京火車站締結姊妹車站_[新竹火車站](https://zh.wikipedia.org/wiki/新竹火車站 "wikilink") 一卡通紀念卡 限量500張。                                                                     |
-| 2015年3月6日   | 開通[高雄市立民生醫院支付服務](../Page/高雄市立民生醫院.md "wikilink")。                                                                                                          |
+| 2015年3月6日   | 開通[高雄市立民生醫院](../Page/高雄市立民生醫院.md "wikilink")支付服務。                                                                                                          |
 | 2015年4月1日   | 正式發行[臺南市市民卡](../Page/臺南市市民卡.md "wikilink")。\[28\]                                                                                                          |
-| 2015年4月10日  | [統一超商全國門市正式啟用一卡通小額消費](../Page/統一超商.md "wikilink")。                                                                                                         |
+| 2015年4月10日  | [統一超商](../Page/統一超商.md "wikilink")全國門市正式啟用一卡通小額消費。                                                                                                         |
 | 2015年4月14日  | 開放使用[Changhua YouBike微笑單車](../Page/彰化縣公共自行車租賃系統.md "wikilink")。                                                                                            |
 | 2015年5月6日   | 臺南市「一卡通電子票證臨櫃小額繳退稅服務」正式啓用。\[29\]                                                                                                                           |
 | 2015年5月14日  | 聯合國際、中國通聯支付結盟，一卡通也能買中國商品。\[30\]                                                                                                                            |
@@ -2027,9 +2016,9 @@ Card）的[宏碁團隊歷經十四次談判後宣告票證整合失敗](../Page
 | 2015年6月30日  | 臺鐵加入中部地區和宜蘭線，西部幹線與宜蘭線全面貫通，可一路使用於屏東-基隆、八堵-蘇澳間及各支線。                                                                                                          |
 | 2015年7月1日   | 彰化以南之[台亞加油站加入一卡通服務行列](https://zh.wikipedia.org/wiki/台亞加油站 "wikilink")，為首間加入一卡通服務的加油站。                                                                      |
 | 2015年7月8日   | 正式開通電子發票服務，並於[7-ELEVEN啟用](https://zh.wikipedia.org/wiki/7-ELEVEN "wikilink")。同日同步開放於[7-ELEVEN發票中獎儲值服務](https://zh.wikipedia.org/wiki/7-ELEVEN "wikilink")。 |
-| 2015年9月1日   | [臺北捷運全線車站開放無障礙閘門多卡通使用一卡通](../Page/臺北捷運.md "wikilink")。                                                                                                     |
+| 2015年9月1日   | [臺北捷運](../Page/臺北捷運.md "wikilink")全線車站開放無障礙閘門多卡通使用一卡通。                                                                                                     |
 | 2015年9月1日   | 開放使用[臺北市](https://zh.wikipedia.org/wiki/臺北市公共自行車租賃系統 "wikilink")、[新北市YouBike微笑單車](../Page/新北市公共自行車租賃系統.md "wikilink")。\[32\]                               |
-| 2015年10月1日  | 全台最大連鎖超市-[全聯福利中心全面啟用一卡通支付服務](../Page/全聯福利中心.md "wikilink")。                                                                                                |
+| 2015年10月1日  | 全台最大連鎖超市-[全聯福利中心](../Page/全聯福利中心.md "wikilink")全面啟用一卡通支付服務。                                                                                                |
 | 2015年10月15日 | 臺鐵多卡通範圍由屏東延伸至潮州。\[33\]                                                                                                                                     |
 | 2015年11月5日  | 與中華電信合作推出全台首張OTA（空中下載）電子票證 -「NFC一卡通」。                                                                                                                      |
 | 2016年1月1日   | 臺鐵多卡通範圍由潮州延伸至枋寮。與廠商合作推出客製化造型一卡通\[34\]\[35\]。                                                                                                               |
@@ -2037,38 +2026,34 @@ Card）的[宏碁團隊歷經十四次談判後宣告票證整合失敗](../Page
 | 2016年3月1日   | 臺鐵多卡通範圍由蘇澳延伸至花蓮。                                                                                                                                           |
 | 2016年6月28日  | 臺鐵多卡通範圍由吉安延伸至加祿。                                                                                                                                           |
 |             |                                                                                                                                                            |
-| 2016年7月1日   | [臺北捷運全線車站開放全部閘門多卡通使用一卡通](../Page/臺北捷運.md "wikilink")。                                                                                                      |
+| 2016年7月1日   | [臺北捷運](../Page/臺北捷運.md "wikilink")全線車站開放全部閘門多卡通使用一卡通。                                                                                                      |
 |             |                                                                                                                                                            |
 | 2016年8月     | 一卡通發卡量突破1,000萬張。                                                                                                                                           |
-| 2016年12月22日 | 一卡通與[全家便利商店開通](../Page/全家便利商店.md "wikilink")「電子發票」功能                                                                                                       |
-| 2017年4月1日   | [台灣高鐵開放一卡通聯名卡直接感應搭乘自由座](../Page/台灣高鐵.md "wikilink")。                                                                                                       |
-| 2018年9月3日   | [LINE旗下行動支付系統LINE](../Page/LINE.md "wikilink") Pay與一卡通合作，推出「LINE Pay 一卡通帳戶」\[36\]                                                                          |
+| 2016年12月22日 | 一卡通與[全家便利商店](../Page/全家便利商店.md "wikilink")開通「電子發票」功能                                                                                                       |
+| 2017年4月1日   | [台灣高鐵](../Page/台灣高鐵.md "wikilink")開放一卡通聯名卡直接感應搭乘自由座。                                                                                                       |
+| 2018年9月3日   | [LINE](../Page/LINE.md "wikilink")旗下行動支付系統LINE Pay與一卡通合作，推出「LINE Pay 一卡通帳戶」\[36\]                                                                          |
 |             |                                                                                                                                                            |
 | 2019年2月     | 一卡通發卡量突破2,000萬張。\[37\]                                                                                                                                     |
 |             |                                                                                                                                                            |
 
 ## 與Line合作
 
-Line Pay母公司連加網路商業股份有限公司（LINE BIZ+ TAIWAN
-LIMITED）於2017年底投資一卡通票證公司三成股份，成為最大股東後開始整合一卡通電子支付，在Line裡面提供一卡通帳戶來做電子支付，並且可利用一卡通帳戶裡的款項儲值一卡通票證，做到虛實整合。\[38\]
+Line Pay母公司連加網路商業股份有限公司（LINE BIZ+ TAIWAN LIMITED）於2017年底投資一卡通票證公司三成股份，成為最大股東後開始整合一卡通電子支付，在Line裡面提供一卡通帳戶來做電子支付，並且可利用一卡通帳戶裡的款項儲值一卡通票證，做到虛實整合。\[38\]
 
 ## 未來發展
 
 ### 交通一卡通
 
-[EasyCard_and_iPass_card_reader_at_Ximen_Station_20151206.jpg](https://zh.wikipedia.org/wiki/File:EasyCard_and_iPass_card_reader_at_Ximen_Station_20151206.jpg "fig:EasyCard_and_iPass_card_reader_at_Ximen_Station_20151206.jpg")
-交通部為使民眾能達到「一卡在手，暢行無阻」的理想，免除到不同地區需使用不同智慧卡的不便，期望整合全國各地智慧卡，包括[悠遊卡](../Page/悠遊卡.md "wikilink")，台鐵及全台灣客運業者分三年改採用一機感應多卡方式進行互通，藉由商業談判系統建置，屆時民眾無須換卡，持原本的卡片可直接用於台鐵及其他縣市的客運。
+[EasyCard_and_iPass_card_reader_at_Ximen_Station_20151206.jpg](https://zh.wikipedia.org/wiki/File:EasyCard_and_iPass_card_reader_at_Ximen_Station_20151206.jpg "fig:EasyCard_and_iPass_card_reader_at_Ximen_Station_20151206.jpg") 交通部為使民眾能達到「一卡在手，暢行無阻」的理想，免除到不同地區需使用不同智慧卡的不便，期望整合全國各地智慧卡，包括[悠遊卡](../Page/悠遊卡.md "wikilink")，台鐵及全台灣客運業者分三年改採用一機感應多卡方式進行互通，藉由商業談判系統建置，屆時民眾無須換卡，持原本的卡片可直接用於台鐵及其他縣市的客運。
 
   - 交通部補助業者安裝多卡通機器時程如下（裝機後仍需經由商業談判始得使用）：
       - 2020年後：[臺中捷運](../Page/臺中捷運.md "wikilink")
 
 ## 魔法少女小帕
 
-[Sign_board_Magic_Girl_iPASS_籬仔内.jpg](https://zh.wikipedia.org/wiki/File:Sign_board_Magic_Girl_iPASS_籬仔内.jpg "fig:Sign_board_Magic_Girl_iPASS_籬仔内.jpg")
-2015年5月，一卡通與[希萌創意合作](../Page/希萌創意.md "wikilink")，推出虛擬代言人「小帕」，人設繪師為[迷子焼き](https://zh.wikipedia.org/wiki/迷子焼き "wikilink")，版面設計為[初夏](https://zh.wikipedia.org/wiki/初夏 "wikilink")。變身成魔法少女後的人設繪師則包括了[兔姬](https://zh.wikipedia.org/wiki/兔姬 "wikilink")(橘色)、[緋華](https://zh.wikipedia.org/wiki/緋華 "wikilink")(綠色)及[Riv](https://zh.wikipedia.org/wiki/Riv "wikilink")(藍色)。
+[Sign_board_Magic_Girl_iPASS_籬仔内.jpg](https://zh.wikipedia.org/wiki/File:Sign_board_Magic_Girl_iPASS_籬仔内.jpg "fig:Sign_board_Magic_Girl_iPASS_籬仔内.jpg") 2015年5月，一卡通與[希萌創意](../Page/希萌創意.md "wikilink")合作，推出虛擬代言人「小帕」，人設繪師為[迷子焼き](https://zh.wikipedia.org/wiki/迷子焼き "wikilink")，版面設計為[初夏](https://zh.wikipedia.org/wiki/初夏 "wikilink")。變身成魔法少女後的人設繪師則包括了[兔姬](https://zh.wikipedia.org/wiki/兔姬 "wikilink")(橘色)、[緋華](https://zh.wikipedia.org/wiki/緋華 "wikilink")(綠色)及[Riv](https://zh.wikipedia.org/wiki/Riv "wikilink")(藍色)。
 
-「小帕」的角色設定身高157公分、體重47公斤，生日5月1日，星座與血型分別是金牛座與AB型，是個隨處可見的女高中生，個性上比菜市場的婆婆媽媽更精打細算。背景設定則是與一卡通事務所的超級經紀人--喵星人「小P」簽約，而成為魔法少女。
-變身成魔法少女後的小帕有三種顏色及造型，分別對應一卡通官方logo的三種顏色及一卡通的三類使用方式
+「小帕」的角色設定身高157公分、體重47公斤，生日5月1日，星座與血型分別是金牛座與AB型，是個隨處可見的女高中生，個性上比菜市場的婆婆媽媽更精打細算。背景設定則是與一卡通事務所的超級經紀人--喵星人「小P」簽約，而成為魔法少女。 變身成魔法少女後的小帕有三種顏色及造型，分別對應一卡通官方logo的三種顏色及一卡通的三類使用方式
 
   - 橘色：小額付費、電子錢包
   - 綠色：大眾交通（火車、捷運、公車、腳踏車）
@@ -2080,8 +2065,8 @@ LIMITED）於2017年底投資一卡通票證公司三成股份，成為最大股
 
 ## 競爭對手
 
-  - [悠遊卡](../Page/悠遊卡.md "wikilink")（[悠遊卡公司營運](../Page/悠遊卡公司.md "wikilink")）
-  - [icash](https://zh.wikipedia.org/wiki/icash "wikilink")（[愛金卡公司營運](../Page/愛金卡公司.md "wikilink")）
+  - [悠遊卡](../Page/悠遊卡.md "wikilink")（[悠遊卡公司](../Page/悠遊卡公司.md "wikilink")營運）
+  - [icash](https://zh.wikipedia.org/wiki/icash "wikilink")（[愛金卡公司](../Page/愛金卡公司.md "wikilink")營運）
   - [HappyCash](https://zh.wikipedia.org/wiki/HappyCash "wikilink")（[遠鑫電子票證公司營運](https://zh.wikipedia.org/wiki/遠鑫電子票證公司 "wikilink")）
 
 ## 參考與來源
@@ -2102,23 +2087,7 @@ LIMITED）於2017年底投資一卡通票證公司三成股份，成為最大股
   - [iPASS一卡通官方網站](https://www.i-pass.com.tw/)
 
   -
-[Category:2007年面世的產品](https://zh.wikipedia.org/wiki/Category:2007年面世的產品 "wikilink")
-[Category:台灣電子票證](https://zh.wikipedia.org/wiki/Category:台灣電子票證 "wikilink")
-[Category:台北市交通](https://zh.wikipedia.org/wiki/Category:台北市交通 "wikilink")
-[Category:新北市交通](https://zh.wikipedia.org/wiki/Category:新北市交通 "wikilink")
-[Category:桃園市交通](https://zh.wikipedia.org/wiki/Category:桃園市交通 "wikilink")
-[Category:新竹市交通](https://zh.wikipedia.org/wiki/Category:新竹市交通 "wikilink")
-[Category:新竹縣交通](https://zh.wikipedia.org/wiki/Category:新竹縣交通 "wikilink")
-[Category:台中市交通](https://zh.wikipedia.org/wiki/Category:台中市交通 "wikilink")
-[Category:彰化縣交通](https://zh.wikipedia.org/wiki/Category:彰化縣交通 "wikilink")
-[Category:南投縣交通](https://zh.wikipedia.org/wiki/Category:南投縣交通 "wikilink")
-[Category:臺南市交通](https://zh.wikipedia.org/wiki/Category:臺南市交通 "wikilink")
-[Category:高雄市交通](https://zh.wikipedia.org/wiki/Category:高雄市交通 "wikilink")
-[Category:希萌創意](https://zh.wikipedia.org/wiki/Category:希萌創意 "wikilink")
-[Category:一卡通_(臺灣)](https://zh.wikipedia.org/wiki/Category:一卡通_\(臺灣\) "wikilink")
-[Category:智慧卡](https://zh.wikipedia.org/wiki/Category:智慧卡 "wikilink")
-[Category:乘車智慧卡](https://zh.wikipedia.org/wiki/Category:乘車智慧卡 "wikilink")
-[Category:公共交通付款方式](https://zh.wikipedia.org/wiki/Category:公共交通付款方式 "wikilink")
+[Category:2007年面世的產品](https://zh.wikipedia.org/wiki/Category:2007年面世的產品 "wikilink") [Category:台灣電子票證](https://zh.wikipedia.org/wiki/Category:台灣電子票證 "wikilink") [Category:台北市交通](https://zh.wikipedia.org/wiki/Category:台北市交通 "wikilink") [Category:新北市交通](https://zh.wikipedia.org/wiki/Category:新北市交通 "wikilink") [Category:桃園市交通](https://zh.wikipedia.org/wiki/Category:桃園市交通 "wikilink") [Category:新竹市交通](https://zh.wikipedia.org/wiki/Category:新竹市交通 "wikilink") [Category:新竹縣交通](https://zh.wikipedia.org/wiki/Category:新竹縣交通 "wikilink") [Category:台中市交通](https://zh.wikipedia.org/wiki/Category:台中市交通 "wikilink") [Category:彰化縣交通](https://zh.wikipedia.org/wiki/Category:彰化縣交通 "wikilink") [Category:南投縣交通](https://zh.wikipedia.org/wiki/Category:南投縣交通 "wikilink") [Category:臺南市交通](https://zh.wikipedia.org/wiki/Category:臺南市交通 "wikilink") [Category:高雄市交通](https://zh.wikipedia.org/wiki/Category:高雄市交通 "wikilink") [Category:希萌創意](https://zh.wikipedia.org/wiki/Category:希萌創意 "wikilink") [Category:一卡通_(臺灣)](https://zh.wikipedia.org/wiki/Category:一卡通_\(臺灣\) "wikilink") [Category:智慧卡](https://zh.wikipedia.org/wiki/Category:智慧卡 "wikilink") [Category:乘車智慧卡](https://zh.wikipedia.org/wiki/Category:乘車智慧卡 "wikilink") [Category:公共交通付款方式](https://zh.wikipedia.org/wiki/Category:公共交通付款方式 "wikilink")
 
 1.  [一卡通累計發卡量](https://www.i-pass.com.tw/About/Operating)
 2.  <http://www.traffic.taichung.gov.tw/content/index.asp?Parser=1,7,183,52>
@@ -2129,8 +2098,7 @@ LIMITED）於2017年底投資一卡通票證公司三成股份，成為最大股
 7.
 8.
 9.  [一卡通數位學生證發行學校(2017.09.02更新)](https://skydrive.live.com/redir?resid=10822115C0E11D80!291&authkey=!AFxmoUMWTGng61I&v=3&ithint=photo%2c.png)
-10. [得易Ponta結盟2勢力
-    萊爾富OK大打團體戰](http://www.cardu.com.tw/news/detail.php?nt_pk=8&ns_pk=27483)
+10. [得易Ponta結盟2勢力 萊爾富OK大打團體戰](http://www.cardu.com.tw/news/detail.php?nt_pk=8&ns_pk=27483)
 11.
 12.
 13.
@@ -2138,14 +2106,12 @@ LIMITED）於2017年底投資一卡通票證公司三成股份，成為最大股
 15.
 16.
 17. [馬祖公車即起同步啟用「多卡通」乘車更便利](http://www.matsu-news.gov.tw/2010web/news_detail_101.php?CMD=open&UID=177451)2016-10-15,馬祖日報
-18. [【交通快訊】6871.6277 杉林溪公路客運
-    適用多卡通電子票證](http://www.goto307.com.tw/news/ins.php?index_id=92)2017年3月3日,杉林溪遊樂事業股份有限公司
+18. [【交通快訊】6871.6277 杉林溪公路客運 適用多卡通電子票證](http://www.goto307.com.tw/news/ins.php?index_id=92)2017年3月3日,杉林溪遊樂事業股份有限公司
 19. [一卡通服務資訊](https://www.i-pass.com.tw/News/Detail/122)
 20. [一卡通台中服務中心暫停服務](https://www.i-pass.com.tw/News/Detail/100099)
 21. [高雄市市區公車里程段次收費Q\&A](https://www.tbkc.gov.tw/Service/PublicTransport/abc12)高雄市政府交通局，2018-03-01
 22. [一卡通公司—重要里程](https://www.i-pass.com.tw/About/Mileage)
-23. [臺日電子票證
-    簽署合作備忘錄](http://www.epochtimes.com/b5/14/3/14/n4106480.htm%E5%8F%B0%E6%97%A5%E9%9B%BB%E5%AD%90%E7%A5%A8%E8%AD%89%E6%A5%AD%E5%90%88%E4%BD%9C-%E5%85%B1%E5%89%B5%E6%96%B0%E5%A5%91%E6%A9%9F.html?photo=2)
+23. [臺日電子票證 簽署合作備忘錄](http://www.epochtimes.com/b5/14/3/14/n4106480.htm%E5%8F%B0%E6%97%A5%E9%9B%BB%E5%AD%90%E7%A5%A8%E8%AD%89%E6%A5%AD%E5%90%88%E4%BD%9C-%E5%85%B1%E5%89%B5%E6%96%B0%E5%A5%91%E6%A9%9F.html?photo=2)
 24. [正忠排骨飯全台門市開放一卡通支付](https://www.i-pass.com.tw/News/Detail/230)
 25. [高市聯合醫院開放一卡通支付掛號、醫藥費](https://www.i-pass.com.tw/News/Detail/233)
 26. [7-ELEVEN開放服務](https://www.i-pass.com.tw/News/Detail/264)
@@ -2155,13 +2121,10 @@ LIMITED）於2017年底投資一卡通票證公司三成股份，成為最大股
 30. [1](http://www.bnext.com.tw/article/view/id/36251)
 31. [一卡通官網](https://www.i-pass.com.tw/News/Detail/309)
 32. [一卡通官網](https://www.i-pass.com.tw/News/Detail/371)
-33. [屏東到潮州
-    台鐵新添5站多卡通也能用](http://n.yam.com/tripass/travel/20151013/20151013328172.html)
+33. [屏東到潮州 台鐵新添5站多卡通也能用](http://n.yam.com/tripass/travel/20151013/20151013328172.html)
 34.
 35.
-36. [LINE攜手一卡通
-    將可轉帳、繳費、搭高捷](https://tw.news.yahoo.com/line%E6%94%9C%E6%89%8B-%E5%8D%A1%E9%80%9A-%E5%B0%87%E5%8F%AF%E8%BD%89%E5%B8%B3-%E7%B9%B3%E8%B2%BB-%E6%90%AD%E9%AB%98%E6%8D%B7-092300243.html)
-37. [一卡通發卡量破2000萬張
-    未來走向多元行動支付服務](https://www.chinatimes.com/realtimenews/20190221003438-260410?chdtv)
+36. [LINE攜手一卡通 將可轉帳、繳費、搭高捷](https://tw.news.yahoo.com/line%E6%94%9C%E6%89%8B-%E5%8D%A1%E9%80%9A-%E5%B0%87%E5%8F%AF%E8%BD%89%E5%B8%B3-%E7%B9%B3%E8%B2%BB-%E6%90%AD%E9%AB%98%E6%8D%B7-092300243.html)
+37. [一卡通發卡量破2000萬張 未來走向多元行動支付服務](https://www.chinatimes.com/realtimenews/20190221003438-260410?chdtv)
 38. [Line Pay一卡通](https://www.i-pass.com.tw/IPS/Event/LINEPay-iPASS/)
 39.

@@ -1,10 +1,6 @@
-《**COMIC
-FANS**》是由[香港的](../Page/香港.md "wikilink")[天下出版社出版的](https://zh.wikipedia.org/wiki/天下出版社 "wikilink")[少女漫畫](https://zh.wikipedia.org/wiki/少女漫畫 "wikilink")[月刊](../Page/漫畫雜誌.md "wikilink")，偏-{向}-日式少女畫風。每月隨漫畫附送印有連載漫畫中的漫畫人物圖案的贈品。於1995年8月創刊，首於當年的漫畫節推出，由於大受歡迎，創刊號共推出了2次再版。根據創刊號的一篇感想（刊登於創刊號第二頁），能夠促成Comic
-fans的出版，是由於當時有不少讀者看過[美少女戰士的單行本後](https://zh.wikipedia.org/wiki/美少女戰士 "wikilink")，經常致電查詢有關新一期[美少女戰士的出版時間](https://zh.wikipedia.org/wiki/美少女戰士 "wikilink")，所以天下出版社就推出了這本漫畫月刊。Comic
-fans所連載的日本漫畫均來自日本[講談社旗下的少女漫畫月刊](https://zh.wikipedia.org/wiki/講談社 "wikilink")。而近幾年亦多有幾位[香港漫畫家的作品](https://zh.wikipedia.org/wiki/香港漫畫家 "wikilink")。
+《**COMIC FANS**》是由[香港](../Page/香港.md "wikilink")的[天下出版社出版的](https://zh.wikipedia.org/wiki/天下出版社 "wikilink")[少女漫畫](https://zh.wikipedia.org/wiki/少女漫畫 "wikilink")[月刊](../Page/漫畫雜誌.md "wikilink")，偏-{向}-日式少女畫風。每月隨漫畫附送印有連載漫畫中的漫畫人物圖案的贈品。於1995年8月創刊，首於當年的漫畫節推出，由於大受歡迎，創刊號共推出了2次再版。根據創刊號的一篇感想（刊登於創刊號第二頁），能夠促成Comic fans的出版，是由於當時有不少讀者看過[美少女戰士的單行本後](https://zh.wikipedia.org/wiki/美少女戰士 "wikilink")，經常致電查詢有關新一期[美少女戰士的出版時間](https://zh.wikipedia.org/wiki/美少女戰士 "wikilink")，所以天下出版社就推出了這本漫畫月刊。Comic fans所連載的日本漫畫均來自日本[講談社旗下的少女漫畫月刊](https://zh.wikipedia.org/wiki/講談社 "wikilink")。而近幾年亦多有幾位[香港漫畫家的作品](https://zh.wikipedia.org/wiki/香港漫畫家 "wikilink")。
 
-Comic fans在推出2012年6月號之後，正式宣布停刊。同年7月，天下出版社推出少女漫畫月刊雜誌 COMICフェス（Comic
-Festival）\[1\]
+Comic fans在推出2012年6月號之後，正式宣布停刊。同年7月，天下出版社推出少女漫畫月刊雜誌 COMICフェス（Comic Festival）\[1\]
 
 ## 已完結的連載
 
@@ -19,8 +15,7 @@ Festival）\[1\]
   - [Card Captor 櫻](https://zh.wikipedia.org/wiki/百變小櫻 "wikilink")（百變小櫻）
   - [千璐璐EXCELLENT\!](https://zh.wikipedia.org/wiki/千璐璐EXCELLENT! "wikilink")（短篇）
   - [Rain Kiss](https://zh.wikipedia.org/wiki/Rain_Kiss "wikilink")（短篇）
-  - [美少女戰士 Sailor
-    V](https://zh.wikipedia.org/wiki/美少女戰士_Sailor_V "wikilink")
+  - [美少女戰士 Sailor V](https://zh.wikipedia.org/wiki/美少女戰士_Sailor_V "wikilink")
   - [PQ Angles](https://zh.wikipedia.org/wiki/PQ_Angles "wikilink")
   - [夢幻傳說](../Page/夢幻傳說.md "wikilink")
   - [CuiteN](https://zh.wikipedia.org/wiki/CuiteN "wikilink")
@@ -31,13 +26,10 @@ Festival）\[1\]
   - [新DA\!DA\!DA\!](https://zh.wikipedia.org/wiki/新DA!DA!DA! "wikilink")
   - [電腦少女★Mink](../Page/電腦少女★Mink.md "wikilink")
   - [東京Mew Mew](../Page/東京喵喵.md "wikilink")
-  - [反斗Pet
-    Pet](https://zh.wikipedia.org/wiki/反斗Pet_Pet "wikilink")（後改名為[超大型狗物語](https://zh.wikipedia.org/wiki/超大型狗物語 "wikilink")）
-  - [Wild\!
-    我的野蠻守護男](https://zh.wikipedia.org/wiki/Wild!_我的野蠻守護男 "wikilink")
+  - [反斗Pet Pet](https://zh.wikipedia.org/wiki/反斗Pet_Pet "wikilink")（後改名為[超大型狗物語](https://zh.wikipedia.org/wiki/超大型狗物語 "wikilink")）
+  - [Wild\! 我的野蠻守護男](https://zh.wikipedia.org/wiki/Wild!_我的野蠻守護男 "wikilink")
   - [HONEY☆KIDS](https://zh.wikipedia.org/wiki/HONEY☆KIDS "wikilink")
-  - [美人魚Pichi Pichi
-    Pitch](https://zh.wikipedia.org/wiki/唱K小魚仙 "wikilink")（唱K小魚仙）
+  - [美人魚Pichi Pichi Pitch](https://zh.wikipedia.org/wiki/唱K小魚仙 "wikilink")（唱K小魚仙）
   - [戀之魔法波波糖](https://zh.wikipedia.org/wiki/戀之魔法波波糖 "wikilink")
   - [製造王子計劃](https://zh.wikipedia.org/wiki/製造王子計劃 "wikilink")（於2007年2月號完結）
   - [優女夢遊仙境](https://zh.wikipedia.org/wiki/優女夢遊仙境 "wikilink")（於2007年3月號完結）
@@ -58,8 +50,7 @@ Festival）\[1\]
   - [同桌的你](https://zh.wikipedia.org/wiki/同桌的你 "wikilink")（短篇）（作畫：[雪晴](../Page/雪晴.md "wikilink")）
   - [PURE](https://zh.wikipedia.org/wiki/PURE "wikilink")（短篇）（作畫：[雪晴](../Page/雪晴.md "wikilink")）
   - [小桃的動物園](https://zh.wikipedia.org/wiki/小桃的動物園 "wikilink")（作畫：[唯煒](https://zh.wikipedia.org/wiki/唯煒 "wikilink")）
-  - [F.O.X
-    I](https://zh.wikipedia.org/wiki/F.O.X_I "wikilink")（作畫：[OS兔仔貓](https://zh.wikipedia.org/wiki/OS兔仔貓 "wikilink")，故事：[阿寶](https://zh.wikipedia.org/wiki/阿寶 "wikilink")）
+  - [F.O.X I](https://zh.wikipedia.org/wiki/F.O.X_I "wikilink")（作畫：[OS兔仔貓](https://zh.wikipedia.org/wiki/OS兔仔貓 "wikilink")，故事：[阿寶](https://zh.wikipedia.org/wiki/阿寶 "wikilink")）
   - [我的王子殿下](https://zh.wikipedia.org/wiki/我的王子殿下 "wikilink")（作畫：[瑞雲](https://zh.wikipedia.org/wiki/瑞雲 "wikilink")，故事：[狄芬妮琳](https://zh.wikipedia.org/wiki/狄芬妮琳 "wikilink")）
   - [阿鱔週記](https://zh.wikipedia.org/wiki/阿鱔週記 "wikilink")（作畫：[瑞雲](https://zh.wikipedia.org/wiki/瑞雲 "wikilink")，原作：[狄芬妮琳](https://zh.wikipedia.org/wiki/狄芬妮琳 "wikilink")）
   - [Mysteries～華麗偵探團～](https://zh.wikipedia.org/wiki/Mysteries～華麗偵探團～ "wikilink")(作畫：[瑞雲](https://zh.wikipedia.org/wiki/瑞雲 "wikilink")，原作：[狄芬妮琳](https://zh.wikipedia.org/wiki/狄芬妮琳 "wikilink")）
@@ -68,11 +59,9 @@ Festival）\[1\]
   - [4x4王子日記](https://zh.wikipedia.org/wiki/4x4王子日記 "wikilink")（作畫：[風雅頌](https://zh.wikipedia.org/wiki/風雅頌 "wikilink")）
   - [幻境童心](https://zh.wikipedia.org/wiki/幻境童心 "wikilink")（作畫：[尼路燕](https://zh.wikipedia.org/wiki/尼路燕 "wikilink")，原作：[狄芬妮琳](https://zh.wikipedia.org/wiki/狄芬妮琳 "wikilink")）
   - [STAR★CAGE](https://zh.wikipedia.org/wiki/STAR★CAGE "wikilink")（作畫：[千草](https://zh.wikipedia.org/wiki/千草 "wikilink")，原作：[莉莉周](https://zh.wikipedia.org/wiki/莉莉周 "wikilink")）
-  - [F.O.X
-    II](https://zh.wikipedia.org/wiki/F.O.X_II "wikilink")（作畫：[OS兔仔貓](https://zh.wikipedia.org/wiki/OS兔仔貓 "wikilink")，原作：[狄芬妮琳](https://zh.wikipedia.org/wiki/狄芬妮琳 "wikilink")）
+  - [F.O.X II](https://zh.wikipedia.org/wiki/F.O.X_II "wikilink")（作畫：[OS兔仔貓](https://zh.wikipedia.org/wiki/OS兔仔貓 "wikilink")，原作：[狄芬妮琳](https://zh.wikipedia.org/wiki/狄芬妮琳 "wikilink")）
   - [蘑菇學園](../Page/蘑菇學園.md "wikilink")（作畫：[瑞雲](https://zh.wikipedia.org/wiki/瑞雲 "wikilink")，原作：[狄芬妮琳](https://zh.wikipedia.org/wiki/狄芬妮琳 "wikilink")）
-  - [戀愛Make
-    up](https://zh.wikipedia.org/wiki/戀愛Make_up "wikilink")（作畫：[風雅頌](https://zh.wikipedia.org/wiki/風雅頌 "wikilink")）
+  - [戀愛Make up](https://zh.wikipedia.org/wiki/戀愛Make_up "wikilink")（作畫：[風雅頌](https://zh.wikipedia.org/wiki/風雅頌 "wikilink")）
   - [華麗魔天使](https://zh.wikipedia.org/wiki/華麗魔天使 "wikilink")（作畫：[千草](https://zh.wikipedia.org/wiki/千草 "wikilink")）
   - [kiss2雙生兒](https://zh.wikipedia.org/wiki/kiss2雙生兒 "wikilink")(作畫:[雪睛](https://zh.wikipedia.org/wiki/雪睛 "wikilink"),原作:[余兒](https://zh.wikipedia.org/wiki/余兒 "wikilink"),[莉莉周](https://zh.wikipedia.org/wiki/莉莉周 "wikilink"))
   - [魔法漫畫學堂Gi\!](https://zh.wikipedia.org/wiki/魔法漫畫學堂Gi! "wikilink")(作畫:[千草](https://zh.wikipedia.org/wiki/千草 "wikilink"))
@@ -98,18 +87,15 @@ Festival）\[1\]
 
   - [奇幻TaMaGo](https://zh.wikipedia.org/wiki/奇幻TaMaGo "wikilink")(2009年11月號起連載)
   - [愛麗斯奇夢檔案](https://zh.wikipedia.org/wiki/愛麗斯奇夢檔案 "wikilink")(2010年2月號起連載，不定期刊載)
-  - [LOVELY
-    BLOOD～血型男子戀愛法～](https://zh.wikipedia.org/wiki/LOVELY_BLOOD～血型男子戀愛法～ "wikilink")(2011年2月號起連載)
+  - [LOVELY BLOOD～血型男子戀愛法～](https://zh.wikipedia.org/wiki/LOVELY_BLOOD～血型男子戀愛法～ "wikilink")(2011年2月號起連載)
   - [G.E.M.COMICS～祕密之城～](https://zh.wikipedia.org/wiki/G.E.M.COMICS～祕密之城～ "wikilink")(2010年10月號起連載)
   - [玻璃鞋騎士](https://zh.wikipedia.org/wiki/玻璃鞋騎士 "wikilink")(2010年8月號起連載)
-  - [Secret Prince
-    Ken～王子的秘密～](https://zh.wikipedia.org/wiki/Secret_Prince_Ken～王子的秘密～ "wikilink")(2011年4月號起連載)
+  - [Secret Prince Ken～王子的秘密～](https://zh.wikipedia.org/wiki/Secret_Prince_Ken～王子的秘密～ "wikilink")(2011年4月號起連載)
 
 ### 日本漫畫連載
 
   - [地獄少女R](https://zh.wikipedia.org/wiki/地獄少女R "wikilink")（2009年12月號起連載）
-  - [你的音色～Your
-    Melody～](https://zh.wikipedia.org/wiki/你的音色～Your_Melody～ "wikilink")（2011年4月號起連載）
+  - [你的音色～Your Melody～](https://zh.wikipedia.org/wiki/你的音色～Your_Melody～ "wikilink")（2011年4月號起連載）
 
 ## COMIC FANS連載的漫畫家
 

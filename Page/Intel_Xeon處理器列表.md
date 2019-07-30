@@ -1,6 +1,6 @@
 **[Xeon](https://zh.wikipedia.org/wiki/Xeon "wikilink")**為[英特爾推出的處理器系列](https://zh.wikipedia.org/wiki/英特爾 "wikilink")，主要目標為伺服器及工作站，現今則伸展至追求極致遊戲體驗的高端玩家。
 
-## 基于[P6微架構的Xeon](../Page/P6微架構.md "wikilink")
+## 基于[P6微架構](../Page/P6微架構.md "wikilink")的Xeon
 
 ### Pentium II Xeon
 
@@ -51,7 +51,7 @@
 | [Pentium III Xeon 933](http://ark.intel.com/zh-tw/products/27573)  | C0      | 933 MHz                                           | 256 KB                                               | 133 MT/s                                                | 7x   | 29.6 W                         | 2000年7月                                             |                                        |          |
 | [Pentium III Xeon 1.00](http://ark.intel.com/zh-tw/products/27558) | 1.0 GHz | 7.5x                                              | 30.8 W                                               | 2000年8月22日                                              |      |                                |                                                     |                                        |          |
 
-## 基於[NetBurst微架構的Xeon](../Page/NetBurst微架構.md "wikilink")
+## 基於[NetBurst微架構](../Page/NetBurst微架構.md "wikilink")的Xeon
 
 ### Xeon UP/DP (單核心)
 
@@ -369,9 +369,7 @@
 
 #### "Nocona" (90 nm)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[Intel
-    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")*
   - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")*
 
 | 型號\[1\]                                                  | 步進      | [時脈](https://zh.wikipedia.org/wiki/時脈 "wikilink") | L2 [快取](https://zh.wikipedia.org/wiki/快取 "wikilink") | [前端匯流排](https://zh.wikipedia.org/wiki/前端匯流排 "wikilink") | 倍頻  | [電壓](../Page/電壓.md "wikilink") | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") | 插槽                                                                | 發佈日期       |
@@ -389,9 +387,7 @@
 
 #### "Irwindale" (90 nm)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[Intel
-    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")*
   - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")*
   - E型號處理器不支援[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")。
 
@@ -419,9 +415,7 @@
 
 #### "Paxville DP" (90 nm)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[Intel
-    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")*
   - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")*
 
 | 型號                                                    | 步進 | [時脈](https://zh.wikipedia.org/wiki/時脈 "wikilink") | L2 [快取](https://zh.wikipedia.org/wiki/快取 "wikilink") | [前端匯流排](https://zh.wikipedia.org/wiki/前端匯流排 "wikilink") | 倍頻  | [電壓](../Page/電壓.md "wikilink") | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") | 插槽                                                                | 發佈日期        |
@@ -430,10 +424,7 @@
 
 #### "Dempsey" (65 nm)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[Intel
-    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel
-    VT-x](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel VT-x](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
   - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")*
   - 全部型號最大支援至雙路處理器規格。
   - 只有Xeon 5060不支援EIST。
@@ -647,9 +638,7 @@
 
 #### "Cranford" (90 nm)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[Intel
-    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")*
   - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")*
 
 | 型號                                                        | 步進       | [時脈](https://zh.wikipedia.org/wiki/時脈 "wikilink") | L2 [快取](https://zh.wikipedia.org/wiki/快取 "wikilink") | [前端匯流排](https://zh.wikipedia.org/wiki/前端匯流排 "wikilink") | 倍頻  | [電壓](../Page/電壓.md "wikilink") | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") | 插槽                                                                | 發佈日期       |
@@ -659,9 +648,7 @@
 
 #### "Potomac" (90 nm)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[Intel
-    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")*
   - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")*
 
 | 型號                                                        | 步進       | [時脈](https://zh.wikipedia.org/wiki/時脈 "wikilink") | L2 [快取](https://zh.wikipedia.org/wiki/快取 "wikilink") | [前端匯流排](https://zh.wikipedia.org/wiki/前端匯流排 "wikilink") | 倍頻  | [電壓](../Page/電壓.md "wikilink") | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") | 插槽                                                                | 發佈日期       |
@@ -674,10 +661,7 @@
 
 #### "Paxville MP" (90 nm)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[Intel
-    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel
-    VT-x](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel VT-x](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
   - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")*
   - 只有Xeon 7030不支援EIST。
 
@@ -690,10 +674,7 @@
 
 #### "Tulsa" (65 nm)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[Intel
-    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel
-    VT-x](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel VT-x](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
   - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")*
   - 只有Xeon 7110M/N 及 Xeon 7120M/N不支援EIST。
 
@@ -715,9 +696,7 @@
 
 #### "Sossaman" (65 nm)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[Intel
-    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")*
   - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")*
   - 全部型號最大支援至雙路處理器規格。
 
@@ -812,16 +791,13 @@
 </tbody>
 </table>
 
-## 基於[Core微架構的Xeon](../Page/Core微架構.md "wikilink")
+## 基於[Core微架構](../Page/Core微架構.md "wikilink")的Xeon
 
 ### Xeon UP (單核心)
 
 #### "Wolfdale-CL" (45 nm)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、[Intel
-    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel
-    VT-x](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel VT-x](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
   - 支援技術：*[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")*
   - 只支援單路處理器規格。
 
@@ -833,10 +809,7 @@
 
 #### "Allendale" (65 nm)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[Intel
-    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel
-    VT-x](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel VT-x](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
   - 全部型號只支援單路處理器規格。
 
 | 型號                                                     | 步進       | [時脈](https://zh.wikipedia.org/wiki/時脈 "wikilink")\[7\] | L2 [快取](https://zh.wikipedia.org/wiki/快取 "wikilink") | [前端匯流排](https://zh.wikipedia.org/wiki/前端匯流排 "wikilink") | 倍頻 | [電壓](../Page/電壓.md "wikilink") | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") | 插槽                                       | 發佈日期       |
@@ -846,10 +819,7 @@
 
 #### "Conroe" (65 nm)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[Intel
-    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel
-    VT-x](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel VT-x](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
   - 全部型號只支援單路處理器規格。
 
 | 型號                                                                                                             | 步進       | [時脈](https://zh.wikipedia.org/wiki/時脈 "wikilink")\[8\] | L2 [快取](https://zh.wikipedia.org/wiki/快取 "wikilink") | [前端匯流排](https://zh.wikipedia.org/wiki/前端匯流排 "wikilink") | 倍頻         | [電壓](../Page/電壓.md "wikilink") | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") | 插槽                                       | 發佈日期       |
@@ -864,9 +834,7 @@
 
 #### "Woodcrest" (65 nm)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[Intel
-    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")*
   - 支援技術：*[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")*
   - 全部型號最大支援至雙路處理器規格。
 
@@ -888,10 +856,7 @@
 
 #### "Wolfdale-CL" (45 nm)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、[Intel
-    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel
-    VT-x](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel VT-x](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
   - 支援技術：*[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")*
   - 只支援單路處理器規格。
 
@@ -901,10 +866,7 @@
 
 #### "Wolfdale" (45 nm)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、[Intel
-    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel
-    VT-x](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel VT-x](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
   - 支援技術：*[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")*
   - 全部型號只支援單路處理器規格。
 
@@ -918,10 +880,7 @@
 
 #### "Wolfdale-DP" (45 nm)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、[Intel
-    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel
-    VT-x](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel VT-x](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
   - 支援技術：*[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、*
   - 全部型號最大支援至雙路處理器規格。
   - 只有Xeon L5238 及 Xeon L5240不支援EIST。
@@ -946,10 +905,7 @@
 
 #### "Kentsfield" (65 nm)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[Intel
-    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel
-    VT-x](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel VT-x](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
   - 支援技術：*[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")*
   - 全部型號只支援單路處理器規格。
 
@@ -961,10 +917,7 @@
 
 #### "Yorkfield-6M" (45 nm)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、[Intel
-    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel
-    VT-x](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel VT-x](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
   - 支援技術：*[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、[C1E](https://zh.wikipedia.org/wiki/高級配置與電源接口 "wikilink")*
   - 全部型號只支援單路處理器規格。
 
@@ -975,10 +928,7 @@
 
 #### "Yorkfield" (45 nm)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、[Intel
-    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel
-    VT-x](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel VT-x](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
   - 支援技術：*[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、[C1E](https://zh.wikipedia.org/wiki/高級配置與電源接口 "wikilink")*
   - 全部型號只支援單路處理器規格。
 
@@ -994,10 +944,7 @@
 
 #### "Yorkfield-CL" (45 nm)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、[Intel
-    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel
-    VT-x](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel VT-x](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
   - 支援技術：*[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、[C1E](https://zh.wikipedia.org/wiki/高級配置與電源接口 "wikilink")*
   - 全部型號只支援單路處理器規格。
 
@@ -1009,15 +956,11 @@
 
 #### "Clovertown" (65 nm)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[Intel
-    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel
-    VT-x](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel VT-x](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
   - 支援技術：*[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、*
   - 全部型號最大支援至雙路處理器規格。
   - 只有Xeon E5310 及 Xeon E5335不支援EIST。
-  - 只有Xeon E5320, Xeon E5345, Xeon X5355, Xeon X5365 及 Xeon
-    L5318支援Intel需求切換技術。
+  - 只有Xeon E5320, Xeon E5345, Xeon X5355, Xeon X5365 及 Xeon L5318支援Intel需求切換技術。
 
 <table>
 <thead>
@@ -1234,10 +1177,7 @@ G0</p></td>
 
 #### "Harpertown" (45 nm)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、[Intel
-    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel
-    VT-x](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel VT-x](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
   - 支援技術：*[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、[C1E](https://zh.wikipedia.org/wiki/高級配置與電源接口 "wikilink")、*
   - 全部型號只支援單路處理器規格。
   - 只有Xeon E5405 及 Xeon L5408不支援Intel需求切換技術。
@@ -1270,10 +1210,7 @@ G0</p></td>
 
 #### "Tigerton" (65 nm)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[Intel
-    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel
-    VT-x](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel VT-x](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
   - 支援技術：*[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")*
   - 全部型號最大支援至四路處理器規格。
 
@@ -1290,10 +1227,7 @@ G0</p></td>
 
 #### "Dunnington" (45 nm)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、[Intel
-    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel
-    VT-x](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel VT-x](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
   - 支援技術：*[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、*
   - 全部型號最大支援至四路處理器規格。
   - 只有Xeon E7440, Xeon E7450 及 Xeon X7460支援EIST。
@@ -1311,16 +1245,13 @@ G0</p></td>
 | [Xeon L7445](http://ark.intel.com/zh-tw/products/36935)                                               | A1       | 4     | 2.13 GHz                                                | 12 MB                                                | 1066 MT/s                                               | 8x | 0.9–1.45 V                     | 50 W                                                | [Socket 604](https://zh.wikipedia.org/wiki/Socket_604 "wikilink") | 2008年9月15日 |
 | [Xeon L7455](http://ark.intel.com/zh-tw/products/36937)                                               | 6        | 65 W  |                                                         |                                                      |                                                         |    |                                |                                                     |                                                                   |            |
 
-## 基於[Nehalem微架構的Xeon](../Page/Nehalem微架構.md "wikilink")
+## 基於[Nehalem微架構](../Page/Nehalem微架構.md "wikilink")的Xeon
 
 ### Xeon 3000系列 (單路處理器)
 
 #### "Clarkdale" ([MCP](../Page/多晶片模組.md "wikilink")，32 nm)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[Intel
-    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel
-    VT-x/VT-d](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel VT-x/VT-d](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
   - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、、[EPT](https://zh.wikipedia.org/wiki/EPT "wikilink")、、[ECC](https://zh.wikipedia.org/wiki/糾錯內存 "wikilink")、*
   - 基於[Westmere微架構](https://zh.wikipedia.org/wiki/Westmere微架構 "wikilink")(原名為Nehalem-C)發展的處理器。
   - 只有Xeon L3406支援超執行緒及渦輪加速技術。
@@ -1333,10 +1264,7 @@ G0</p></td>
 
 #### "Lynnfield" (45 nm)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[Intel
-    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel
-    VT-x/VT-d](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel VT-x/VT-d](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
   - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、、[EPT](https://zh.wikipedia.org/wiki/EPT "wikilink")、、[ECC](https://zh.wikipedia.org/wiki/糾錯內存 "wikilink")、*
   - 只有Xeon X3430不支援超執行緒。
 
@@ -1354,10 +1282,7 @@ G0</p></td>
 
 #### "Bloomfield" (45 nm)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[Intel
-    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel
-    VT-x](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel VT-x](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
   - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、、[EPT](https://zh.wikipedia.org/wiki/EPT "wikilink")、[ECC](https://zh.wikipedia.org/wiki/糾錯內存 "wikilink")、*
   - 只有四核心支援超執行緒及渦輪加速技術。
 
@@ -1376,10 +1301,7 @@ G0</p></td>
 
 #### "Jasper Forest" (45 nm)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[Intel
-    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel
-    VT-x/VT-d](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel VT-x/VT-d](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
   - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、、[EPT](https://zh.wikipedia.org/wiki/EPT "wikilink")、、[ECC](https://zh.wikipedia.org/wiki/糾錯內存 "wikilink")、*
 
 | 型號                                                       | 步進 | 核心       | [時脈](https://zh.wikipedia.org/wiki/時脈 "wikilink") | [Turbo最高時脈](https://zh.wikipedia.org/wiki/渦輪加速技術 "wikilink")\[24\] | L2 [快取](https://zh.wikipedia.org/wiki/快取 "wikilink") | L3 [快取](https://zh.wikipedia.org/wiki/快取 "wikilink") | [DMI](../Page/直接媒體介面.md "wikilink") | 倍頻  | [記憶體支援](https://zh.wikipedia.org/wiki/記憶體 "wikilink")            | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") | 插槽                                                            | 發佈日期       |
@@ -1392,10 +1314,7 @@ G0</p></td>
 
 #### "Gulftown" (32 nm)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[Intel
-    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel
-    VT-x/VT-d](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel VT-x/VT-d](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
   - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、、[EPT](https://zh.wikipedia.org/wiki/EPT "wikilink")、、[ECC](https://zh.wikipedia.org/wiki/糾錯內存 "wikilink")、*
   - 基於[Westmere微架構](https://zh.wikipedia.org/wiki/Westmere微架構 "wikilink")(原名為Nehalem-C)發展的處理器。
 
@@ -1410,14 +1329,10 @@ G0</p></td>
 
 #### "Gainestown" (45 nm)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[Intel
-    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel
-    VT-x/VT-d/VT-c](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel VT-x/VT-d/VT-c](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
   - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、、[EPT](https://zh.wikipedia.org/wiki/EPT "wikilink")、、*
   - 基於[Westmere微架構](https://zh.wikipedia.org/wiki/Westmere微架構 "wikilink")(原名為Nehalem-C)發展的處理器。
-  - 只有Xeon E5502, Xeon E5503, Xeon E5504, Xeon E5506, Xeon L5506 及 Xeon
-    E5507不支援超執行緒及渦輪加速技術。
+  - 只有Xeon E5502, Xeon E5503, Xeon E5504, Xeon E5506, Xeon L5506 及 Xeon E5507不支援超執行緒及渦輪加速技術。
 
 | 型號                                                      | 步進       | 核心       | [時脈](https://zh.wikipedia.org/wiki/時脈 "wikilink") | [Turbo最高時脈](https://zh.wikipedia.org/wiki/渦輪加速技術 "wikilink")\[26\] | L2 [快取](https://zh.wikipedia.org/wiki/快取 "wikilink")           | L3 [快取](https://zh.wikipedia.org/wiki/快取 "wikilink") | [QPI](https://zh.wikipedia.org/wiki/QPI "wikilink") | 倍頻                                                            | [記憶體支援](https://zh.wikipedia.org/wiki/記憶體 "wikilink")          | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") | 插槽                                                            | 發佈日期       |
 | ------------------------------------------------------- | -------- | -------- | ------------------------------------------------- | ------------------------------------------------------------------ | -------------------------------------------------------------- | ---------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------------------- | -------------------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------------------- | ---------- |
@@ -1444,10 +1359,7 @@ G0</p></td>
 
 #### "Jasper Forest" (45 nm)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[Intel
-    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel
-    VT-x/VT-d/VT-c](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel VT-x/VT-d/VT-c](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
   - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、、[EPT](https://zh.wikipedia.org/wiki/EPT "wikilink")、、*
   - 基於[Westmere微架構](https://zh.wikipedia.org/wiki/Westmere微架構 "wikilink")(原名為Nehalem-C)發展的處理器。
   - 只有Xeon 5509及 Xeon 5539不支援超執行緒及渦輪加速技術。
@@ -1464,10 +1376,7 @@ G0</p></td>
 
 #### "Westmere-EP" (32 nm)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[Intel
-    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel
-    VT-x/VT-d/VT-c](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel VT-x/VT-d/VT-c](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
   - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、、[EPT](https://zh.wikipedia.org/wiki/EPT "wikilink")、、*
   - 基於[Westmere微架構](https://zh.wikipedia.org/wiki/Westmere微架構 "wikilink")(原名為Nehalem-C)發展的處理器。
   - 只有Xeon E5603、Xeon E5606、Xeon E5607 及 Xeon L5609不支援超執行緒及渦輪加速技術。
@@ -1509,10 +1418,7 @@ G0</p></td>
 
 #### "Beckton" (45 nm)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[Intel
-    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel
-    VT-x/VT-d/VT-c](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel VT-x/VT-d/VT-c](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
   - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、、[EPT](https://zh.wikipedia.org/wiki/EPT "wikilink")、、、*
   - Xeon 6500系列最大支援至雙路處理器規格，Xeon 7500系列則最大支援至八路處理器規格。
 
@@ -1536,10 +1442,7 @@ G0</p></td>
 
 #### "Westmere-EX" (32 nm)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[Intel
-    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel
-    VT-x/VT-d/VT-c](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel VT-x/VT-d/VT-c](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
   - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、、[EPT](https://zh.wikipedia.org/wiki/EPT "wikilink")、、、*
   - 只有Xeon E7-8837不支援超執行緒。
 
@@ -1882,10 +1785,7 @@ G0</p></td>
 
 ### "Gladden" (32 nm)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[Intel
-    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel
-    VT-x/VT-d](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel VT-x/VT-d](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
   - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、、[EPT](https://zh.wikipedia.org/wiki/EPT "wikilink")、*
 
 #### Xeon E3-1100系列 (單路處理器)
@@ -1954,16 +1854,10 @@ G0</p></td>
 
 ### "Sandy Bridge" (32 nm)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[Intel
-    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel
-    VT-x/VT-d](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel VT-x/VT-d](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
   - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、、[EPT](https://zh.wikipedia.org/wiki/EPT "wikilink")、、*
   - 只有Xeon E3-1220 及 Xeon E3-1225不支援超執行緒。
-  - 與[NVIDIA Quadro](../Page/NVIDIA_Quadro.md "wikilink") 及 [AMD
-    FirePro一樣](../Page/AMD_FirePro.md "wikilink")，內建的[Intel HD
-    Graphics](../Page/Intel_HD_Graphics.md "wikilink")
-    P3000也使用[驅動程式優化工作供專業用途](https://zh.wikipedia.org/wiki/驅動程式 "wikilink")。
+  - 與[NVIDIA Quadro](../Page/NVIDIA_Quadro.md "wikilink") 及 [AMD FirePro一樣](../Page/AMD_FirePro.md "wikilink")，內建的[Intel HD Graphics](../Page/Intel_HD_Graphics.md "wikilink") P3000也使用[驅動程式優化工作供專業用途](https://zh.wikipedia.org/wiki/驅動程式 "wikilink")。
 
 #### Xeon E3-1200系列 (單路處理器)
 
@@ -2168,10 +2062,7 @@ G0</p></td>
 
 ### "Sandy Bridge-EN" (32 nm) Entry (入門級)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[Intel
-    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel
-    VT-x/VT-d/VT-c](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel VT-x/VT-d/VT-c](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
   - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、、[EPT](https://zh.wikipedia.org/wiki/EPT "wikilink")、、、*
   - 只有Xeon E5-2403 及 Xeon E5-2407不支援超執行緒。
   - 只有Xeon E5-1428L、Xeon E5-2403 及 Xeon E5-2407不支援渦輪加速技術。
@@ -2449,15 +2340,10 @@ G0</p></td>
 
 ### "Sandy Bridge-EP" (32 nm) Efficient Performance (效能級)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[Intel
-    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel
-    VT-x/VT-d/VT-c](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel VT-x/VT-d/VT-c](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
   - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、、[EPT](https://zh.wikipedia.org/wiki/EPT "wikilink")、、、*
-  - 只有Xeon E5-1603、Xeon E5-1607、Xeon E5-2603、Xeon E5-2609及 Xeon
-    E5-4617不支援超執行緒。
-  - 只有Xeon E5-1603、Xeon E5-1607、Xeon E5-2603、Xeon E5-2609、Xeon E5-4603 及
-    Xeon E5-4607不支援渦輪加速技術。
+  - 只有Xeon E5-1603、Xeon E5-1607、Xeon E5-2603、Xeon E5-2609及 Xeon E5-4617不支援超執行緒。
+  - 只有Xeon E5-1603、Xeon E5-1607、Xeon E5-2603、Xeon E5-2609、Xeon E5-4603 及 Xeon E5-4607不支援渦輪加速技術。
 
 #### Xeon E5-1600系列 (單路處理器)
 
@@ -2996,10 +2882,7 @@ G0</p></td>
 
 ### "Gladden" (22 nm)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[Intel
-    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel
-    VT-x/VT-d](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel VT-x/VT-d](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
   - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、、[EPT](https://zh.wikipedia.org/wiki/EPT "wikilink")、*
 
 #### Xeon E3-1100 v2系列 (單路處理器)
@@ -3079,16 +2962,10 @@ G0</p></td>
 
 ### "Ivy Bridge" (22 nm)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[Intel
-    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel
-    VT-x/VT-d](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")、*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel VT-x/VT-d](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")、*
   - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、、[EPT](https://zh.wikipedia.org/wiki/EPT "wikilink")、、[ECC](https://zh.wikipedia.org/wiki/糾錯內存 "wikilink")、*
   - 只有Xeon E3-1220 v2 及 Xeon E3-1225 v2不支援超執行緒。
-  - 與[NVIDIA Quadro](../Page/NVIDIA_Quadro.md "wikilink") 及 [AMD
-    FirePro一樣](../Page/AMD_FirePro.md "wikilink")，內建的[Intel HD
-    Graphics](../Page/Intel_HD_Graphics.md "wikilink")
-    P4000也使用[驅動程式優化工作供專業用途](https://zh.wikipedia.org/wiki/驅動程式 "wikilink")。
+  - 與[NVIDIA Quadro](../Page/NVIDIA_Quadro.md "wikilink") 及 [AMD FirePro一樣](../Page/AMD_FirePro.md "wikilink")，內建的[Intel HD Graphics](../Page/Intel_HD_Graphics.md "wikilink") P4000也使用[驅動程式優化工作供專業用途](https://zh.wikipedia.org/wiki/驅動程式 "wikilink")。
 
 #### Xeon E3-1200 v2系列 (單路處理器)
 
@@ -3281,14 +3158,11 @@ G0</p></td>
 
 ### "Ivy Bridge-EN" (22 nm) Entry (入門級)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[Intel
-    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel
-    VT-x/VT-d/VT-c](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")、*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel VT-x/VT-d/VT-c](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")、*
   - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、、[EPT](https://zh.wikipedia.org/wiki/EPT "wikilink")、、、*
   - 只有Xeon E5-2403 v2 及 Xeon E5-2407 v2不支援超執行緒。
   - 只有Xeon E5-2403 v2、Xeon E5-2407 v2 及 Xeon E5-2418L v2不支援渦輪加速技術。
-  - 全部型號對應的CPU插座能支援最多6條[DIMM的](../Page/DIMM.md "wikilink")[DDR3記憶體](https://zh.wikipedia.org/wiki/DDR3 "wikilink")。
+  - 全部型號對應的CPU插座能支援最多6條[DIMM](../Page/DIMM.md "wikilink")的[DDR3記憶體](https://zh.wikipedia.org/wiki/DDR3 "wikilink")。
 
 #### Xeon E5-1400 v2系列 (單路處理器)
 
@@ -3552,16 +3426,11 @@ G0</p></td>
 
 ### "Ivy Bridge-EP" (22 nm) Efficient Performance (效能級)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[Intel
-    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel
-    VT-x/VT-d/VT-c](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")、*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel VT-x/VT-d/VT-c](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")、*
   - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、、[EPT](https://zh.wikipedia.org/wiki/EPT "wikilink")、、、*
-  - 只有Xeon E5-1607 v2、Xeon E5-2603 v2、Xeon E5-2609 v2 及 Xeon E5-4627
-    v2不支援超執行緒。
-  - 只有Xeon E5-1607 v2、Xeon E5-2603 v2、Xeon E5-2609 v2、Xeon E5-2618L
-    v2、Xeon E5-4603 v2 及 Xeon E5-4607 v2不支援渦輪加速技術。
-  - 全部型號對應的CPU插座能支援最多12條[DIMM的](../Page/DIMM.md "wikilink")[DDR3記憶體](https://zh.wikipedia.org/wiki/DDR3 "wikilink")。
+  - 只有Xeon E5-1607 v2、Xeon E5-2603 v2、Xeon E5-2609 v2 及 Xeon E5-4627 v2不支援超執行緒。
+  - 只有Xeon E5-1607 v2、Xeon E5-2603 v2、Xeon E5-2609 v2、Xeon E5-2618L v2、Xeon E5-4603 v2 及 Xeon E5-4607 v2不支援渦輪加速技術。
+  - 全部型號對應的CPU插座能支援最多12條[DIMM](../Page/DIMM.md "wikilink")的[DDR3記憶體](https://zh.wikipedia.org/wiki/DDR3 "wikilink")。
 
 #### Xeon E5-1600 v2系列 (單路處理器)
 
@@ -4153,14 +4022,11 @@ G0</p></td>
 
 ### "Ivy Bridge-EX" (22 nm) Expandable (擴展級)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[Intel
-    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel
-    VT-x/VT-d/VT-c](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")、*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel VT-x/VT-d/VT-c](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")、*
   - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、、[EPT](https://zh.wikipedia.org/wiki/EPT "wikilink")、、、*
   - 只有Xeon E7-8857 v2不支援超執行緒。
   - 只有Xeon E7-4809 v2不支援渦輪加速技術。
-  - 全部型號對應的CPU插座能支援最多24條[DIMM的](../Page/DIMM.md "wikilink")[DDR3記憶體](https://zh.wikipedia.org/wiki/DDR3 "wikilink")。
+  - 全部型號對應的CPU插座能支援最多24條[DIMM](../Page/DIMM.md "wikilink")的[DDR3記憶體](https://zh.wikipedia.org/wiki/DDR3 "wikilink")。
 
 #### Xeon E7-2800 v2系列 (雙路處理器)
 
@@ -4530,16 +4396,12 @@ G0</p></td>
 </tbody>
 </table>
 
-## 基於[Haswell微架構的Xeon](../Page/Haswell微架構.md "wikilink")
+## 基於[Haswell微架構](../Page/Haswell微架構.md "wikilink")的Xeon
 
 ### "Haswell-WS" (22 nm)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX/AVX2](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[Intel
-    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel
-    VT-x/VT-d](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")、、[FMA3](../Page/FMA指令集.md "wikilink")、、BMI2*
-  - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、[ECC](https://zh.wikipedia.org/wiki/糾錯內存 "wikilink")、、[EPT](https://zh.wikipedia.org/wiki/EPT "wikilink")、、、2.0、[Intel
-    vPro](https://zh.wikipedia.org/wiki/Intel_vPro "wikilink")、*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX/AVX2](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel VT-x/VT-d](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")、、[FMA3](../Page/FMA指令集.md "wikilink")、、BMI2*
+  - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、[ECC](https://zh.wikipedia.org/wiki/糾錯內存 "wikilink")、、[EPT](https://zh.wikipedia.org/wiki/EPT "wikilink")、、、2.0、[Intel vPro](https://zh.wikipedia.org/wiki/Intel_vPro "wikilink")、*
   - 只有Xeon E3-1220 v3、Xeon E3-1225 v3 及 Xeon E3-1226 v3不支援超執行緒。
 
 #### Xeon E3-1200 v3系列 (單路處理器)
@@ -4925,12 +4787,8 @@ G0</p></td>
 
 ### "Haswell-EN" (22 nm) Entry (入門級)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX/AVX2](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[Intel
-    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel
-    VT-x/VT-d/VT-c](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")、*
-  - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、、[EPT](https://zh.wikipedia.org/wiki/EPT "wikilink")、、、2.0、[Intel
-    vPro](https://zh.wikipedia.org/wiki/Intel_vPro "wikilink")、*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX/AVX2](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel VT-x/VT-d/VT-c](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")、*
+  - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、、[EPT](https://zh.wikipedia.org/wiki/EPT "wikilink")、、、2.0、[Intel vPro](https://zh.wikipedia.org/wiki/Intel_vPro "wikilink")、*
   - 只有Xeon E5-2408L v3 及 Xeon E5-2418L v3不支援渦輪加速技術。
   - 全部型號對應的CPU插座能支援最多6條DIMM的[DDR3記憶體](https://zh.wikipedia.org/wiki/DDR3 "wikilink")。
 
@@ -5075,19 +4933,11 @@ G0</p></td>
 
 ### "Haswell-EP" (22 nm) Efficient Performance (效能級)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX/AVX2](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[Intel
-    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel
-    VT-x/VT-d](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")、、[FMA3](../Page/FMA指令集.md "wikilink")*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX/AVX2](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel VT-x/VT-d](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")、、[FMA3](../Page/FMA指令集.md "wikilink")*
   - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、、2.0*
-  - 只有Xeon E5-1603 v3、Xeon E5-1607 v3、Xeon E5-2603 v3、Xeon E5-2609
-    v3、Xeon E5-2628 v3、Xeon E5-2663 v3、Xeon E5-2685 v3 及Xeon E5-4627
-    v3不支援超執行緒。
-  - 只有Xeon E5-1603 v3、Xeon E5-1607 v3、Xeon E5-2603 v3、Xeon E5-2608L
-    v3、Xeon E5-2609 v3 及 Xeon E5-4610 v3不支援渦輪加速技術2.0。
-  - 全部型號對應的CPU插座能支援最多12條DIMM的[DDR4記憶體](https://zh.wikipedia.org/wiki/DDR4 "wikilink")，只有Xeon
-    E5-2629 v3、Xeon E5-2649 v3 及 Xeon E5-2669
-    v3仍支援[DDR3記憶體](https://zh.wikipedia.org/wiki/DDR3 "wikilink")。
+  - 只有Xeon E5-1603 v3、Xeon E5-1607 v3、Xeon E5-2603 v3、Xeon E5-2609 v3、Xeon E5-2628 v3、Xeon E5-2663 v3、Xeon E5-2685 v3 及Xeon E5-4627 v3不支援超執行緒。
+  - 只有Xeon E5-1603 v3、Xeon E5-1607 v3、Xeon E5-2603 v3、Xeon E5-2608L v3、Xeon E5-2609 v3 及 Xeon E5-4610 v3不支援渦輪加速技術2.0。
+  - 全部型號對應的CPU插座能支援最多12條DIMM的[DDR4記憶體](https://zh.wikipedia.org/wiki/DDR4 "wikilink")，只有Xeon E5-2629 v3、Xeon E5-2649 v3 及 Xeon E5-2669 v3仍支援[DDR3記憶體](https://zh.wikipedia.org/wiki/DDR3 "wikilink")。
 
 #### Xeon E5-1600 v3系列 (單路處理器)
 
@@ -5954,10 +5804,7 @@ G0</p></td>
 
 ### "Haswell-EX" (22 nm) Expandable (擴展級)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX/AVX2](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[Intel
-    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel
-    VT-x/VT-d](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")、、[FMA3](../Page/FMA指令集.md "wikilink")*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX/AVX2](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel VT-x/VT-d](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")、、[FMA3](../Page/FMA指令集.md "wikilink")*
   - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、、2.0*
   - 只有Xeon E7-4809 v3 及 Xeon E7-4820 v3不支援渦輪加速技術2.0。
   - 全部型號對應的CPU插座能支援最多24條DIMM的 DDR3 或 DDR4記憶體。
@@ -6203,14 +6050,11 @@ G0</p></td>
 </tbody>
 </table>
 
-## 基於[Broadwell微架構的Xeon](../Page/Broadwell微架構.md "wikilink")
+## 基於[Broadwell微架構](../Page/Broadwell微架構.md "wikilink")的Xeon
 
 ### "Broadwell-DE" (14 nm)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX/AVX2](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[Intel
-    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel
-    VT-x/VT-d](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")、*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX/AVX2](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel VT-x/VT-d](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")、*
   - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、、[EPT](https://zh.wikipedia.org/wiki/EPT "wikilink")、[ECC](https://zh.wikipedia.org/wiki/糾錯內存 "wikilink")、、2.0*
   - 只有Xeon D-1518 及 Xeon D-1529不支援渦輪加速技術2.0。
   - 全部型號對應的CPU插座能支援最多4條DIMM的[DDR3L或](https://zh.wikipedia.org/wiki/DDR3L "wikilink")[DDR4記憶體](https://zh.wikipedia.org/wiki/DDR4 "wikilink")。
@@ -6524,10 +6368,7 @@ G0</p></td>
 
 ### "Broadwell-H" (14 nm)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX/AVX2](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[Intel
-    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel
-    VT-x/VT-d](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")、*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX/AVX2](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel VT-x/VT-d](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")、*
   - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、、[EPT](https://zh.wikipedia.org/wiki/EPT "wikilink")、[ECC](https://zh.wikipedia.org/wiki/糾錯內存 "wikilink")、、2.0*
   - 全部型號對應的CPU插座能支援最多4條DIMM的[DDR3L記憶體](https://zh.wikipedia.org/wiki/DDR3L "wikilink")。
 
@@ -6674,15 +6515,10 @@ G0</p></td>
 
 ### "Broadwell-EP" (14 nm)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX/AVX2](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[Intel
-    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel
-    VT-x/VT-d](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")、、[FMA3](https://zh.wikipedia.org/wiki/FMA3 "wikilink")*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX/AVX2](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel VT-x/VT-d](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")、、[FMA3](https://zh.wikipedia.org/wiki/FMA3 "wikilink")*
   - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、、2.0*
-  - 只有Xeon E5-1603 v4、Xeon E5-1607 v4、Xeon E5-2603 v4、Xeon E5-2609 v4 及
-    Xeon E5-4627 v4不支援超執行緒。
-  - 只有Xeon E5-1603 v4、Xeon E5-1607 v4、Xeon E5-2603 v4、Xeon E5-2609 v4 及
-    Xeon E5-4610 v4不支援渦輪加速技術2.0。
+  - 只有Xeon E5-1603 v4、Xeon E5-1607 v4、Xeon E5-2603 v4、Xeon E5-2609 v4 及 Xeon E5-4627 v4不支援超執行緒。
+  - 只有Xeon E5-1603 v4、Xeon E5-1607 v4、Xeon E5-2603 v4、Xeon E5-2609 v4 及 Xeon E5-4610 v4不支援渦輪加速技術2.0。
   - 全部型號對應的CPU插座能支援最多12條DIMM的DDR4記憶體。
 
 #### Xeon E5-1600 v4系列 (單路處理器)
@@ -7418,10 +7254,7 @@ G0</p></td>
 
 ### "Broadwell-EX" (14 nm)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX/AVX2](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[Intel
-    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel
-    VT-x/VT-d](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")、、[FMA3](https://zh.wikipedia.org/wiki/FMA3 "wikilink")*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX/AVX2](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel VT-x/VT-d](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")、、[FMA3](https://zh.wikipedia.org/wiki/FMA3 "wikilink")*
   - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、、2.0*
   - 全部型號對應的CPU插座能支援最多12條DIMM的[DDR4記憶體](https://zh.wikipedia.org/wiki/DDR4 "wikilink")。
 
@@ -7655,7 +7488,7 @@ G0</p></td>
 </tbody>
 </table>
 
-## 基於[Skylake微架構的Xeon](../Page/Skylake微架構.md "wikilink")
+## 基於[Skylake微架構](../Page/Skylake微架構.md "wikilink")的Xeon
 
 ### "Skylake-S" (14 nm)
 
@@ -8354,9 +8187,7 @@ G0</p></td>
 
 ### "Cascade Lake-SP" (14 nm) 效能
 
-  - 支援12條
-    [DIMM的](../Page/DIMM.md "wikilink")[DDR4](https://zh.wikipedia.org/wiki/DDR4 "wikilink")
-    記憶體
+  - 支援12條 [DIMM](../Page/DIMM.md "wikilink")的[DDR4](https://zh.wikipedia.org/wiki/DDR4 "wikilink") 記憶體
   - Xeon Platinum 支援單一主板八枚; Xeon Gold支援四枚; Xeon Silver 和 Bronze 支援兩枚
   - No suffix letter: 超過 1.5TB DDR4 記憶體定址能力(每一CPU)
   - \-M: 中等 DDR 記憶體 tier支援(超 2.0TB)
@@ -8383,8 +8214,7 @@ G0</p></td>
 
 #### Xeon Platinum (双处理器)
 
-These processors are not available to purchase individually and are
-offered as apart of complete systems by Intel.\[65\]
+These processors are not available to purchase individually and are offered as apart of complete systems by Intel.\[65\]
 
 ## 參考來源
 
@@ -8395,145 +8225,107 @@ offered as apart of complete systems by Intel.\[65\]
 
 [Category:Intel处理器列表](https://zh.wikipedia.org/wiki/Category:Intel处理器列表 "wikilink")
 
-1.  (2006, June). Retrieved September 17, 2016, from
-    <http://intel.com/content/www/us/en/processors/xeon/xeon-with-800-mhz-system-bus-specification-update.html>
+1.  (2006, June). Retrieved September 17, 2016, from <http://intel.com/content/www/us/en/processors/xeon/xeon-with-800-mhz-system-bus-specification-update.html>
 
 2.
-3.  (2011, September 14). Retrieved September 17, 2016, from
-    <http://download.intel.com/support/processors/xeon/sb/xeon_5000.pdf>
+3.  (2011, September 14). Retrieved September 17, 2016, from <http://download.intel.com/support/processors/xeon/sb/xeon_5000.pdf>
 
-4.  (2010, March). Retrieved September 16, 2016, from
-    <http://intel.com/content/www/us/en/processors/xeon/xeon-7000-series-specification-update.html>
+4.  (2010, March). Retrieved September 16, 2016, from <http://intel.com/content/www/us/en/processors/xeon/xeon-7000-series-specification-update.html>
 
-5.  (2011, September 14). Retrieved September 17, 2016, from
-    <http://download.intel.com/support/processors/xeon/sb/xeon_7100.pdf>
+5.  (2011, September 14). Retrieved September 17, 2016, from <http://download.intel.com/support/processors/xeon/sb/xeon_7100.pdf>
 
-6.  (2011, September 14). Retrieved September 17, 2016, from
-    <http://download.intel.com/support/processors/xeon/sb/xeon3000.pdf>
+6.  (2011, September 14). Retrieved September 17, 2016, from <http://download.intel.com/support/processors/xeon/sb/xeon3000.pdf>
 
 7.
 8.
-9.  (2011, September 14). Retrieved September 17, 2016, from
-    <http://download.intel.com/support/processors/xeon/sb/xeon_5100.pdf>
+9.  (2011, September 14). Retrieved September 17, 2016, from <http://download.intel.com/support/processors/xeon/sb/xeon_5100.pdf>
 
 10.
-11. (2011, September 12). Retrieved September 17, 2016, from
-    <http://download.intel.com/support/processors/xeon/sb/xeon_3100.pdf>
+11. (2011, September 12). Retrieved September 17, 2016, from <http://download.intel.com/support/processors/xeon/sb/xeon_3100.pdf>
 
-12. (2011, September 14). Retrieved September 17, 2016, from
-    <http://download.intel.com/support/processors/xeon/sb/xeon_5200.pdf>
+12. (2011, September 14). Retrieved September 17, 2016, from <http://download.intel.com/support/processors/xeon/sb/xeon_5200.pdf>
 
-13. (2011, September 12). Retrieved September 17, 2016, from
-    <http://download.intel.com/support/processors/xeon/sb/xeon_3200.pdf>
+13. (2011, September 12). Retrieved September 17, 2016, from <http://download.intel.com/support/processors/xeon/sb/xeon_3200.pdf>
 
-14. (2011, September 12). Retrieved September 17, 2016, from
-    <http://download.intel.com/support/processors/xeon/sb/xeon_3300.pdf>
+14. (2011, September 12). Retrieved September 17, 2016, from <http://download.intel.com/support/processors/xeon/sb/xeon_3300.pdf>
 
 15.
 16.
-17. (2011, September 14). Retrieved September 17, 2016, from
-    <http://download.intel.com/support/processors/xeon/sb/xeon_5300.pdf>
+17. (2011, September 14). Retrieved September 17, 2016, from <http://download.intel.com/support/processors/xeon/sb/xeon_5300.pdf>
 
-18. (2013, August). Retrieved September 17, 2016, from
-    <http://intel.com/content/www/us/en/processors/xeon/xeon-5400-spec-update.html>
+18. (2013, August). Retrieved September 17, 2016, from <http://intel.com/content/www/us/en/processors/xeon/xeon-5400-spec-update.html>
 
-19. (2011, September 14). Retrieved September 17, 2016, from
-    <http://download.intel.com/support/processors/xeon/sb/xeon_7300.pdf>
+19. (2011, September 14). Retrieved September 17, 2016, from <http://download.intel.com/support/processors/xeon/sb/xeon_7300.pdf>
 
-20. (2011, September 14). Retrieved September 17, 2016, from
-    <http://download.intel.com/support/processors/xeon/sb/xeon_7400.pdf>
+20. (2011, September 14). Retrieved September 17, 2016, from <http://download.intel.com/support/processors/xeon/sb/xeon_7400.pdf>
 
-21. (2015, October). Retrieved September 16, 2016, from
-    <http://intel.com/content/www/us/en/processors/xeon/xeon-3400-specification-update.html>
+21. (2015, October). Retrieved September 16, 2016, from <http://intel.com/content/www/us/en/processors/xeon/xeon-3400-specification-update.html>
 
 22.
-23. (2011, September 14). Retrieved September 17, 2016, from
-    <http://download.intel.com/support/processors/xeon/sb/xeon_3500.pdf>
+23. (2011, September 14). Retrieved September 17, 2016, from <http://download.intel.com/support/processors/xeon/sb/xeon_3500.pdf>
 
-24. (2011, September 14). Retrieved September 17, 2016, from
-    <http://download.intel.com/support/processors/xeon/sb/xeon_C3500.pdf>
+24. (2011, September 14). Retrieved September 17, 2016, from <http://download.intel.com/support/processors/xeon/sb/xeon_C3500.pdf>
 
-25. (2015, Octcber). Retrieved September 17, 2016, from
-    <http://intel.com/content/www/us/en/processors/xeon/xeon-3600-specification-update.html>
+25. (2015, Octcber). Retrieved September 17, 2016, from <http://intel.com/content/www/us/en/processors/xeon/xeon-3600-specification-update.html>
 
-26. (2011, September 14). Retrieved September 17, 2016, from
-    <http://intel.com/content/www/us/en/processors/xeon/xeon-5500-specification-update.html>
+26. (2011, September 14). Retrieved September 17, 2016, from <http://intel.com/content/www/us/en/processors/xeon/xeon-5500-specification-update.html>
 
-27. (2011, September 12). Retrieved September 17, 2016, from
-    <http://download.intel.com/support/processors/xeon/sb/xeon_C5500.pdf>
+27. (2011, September 12). Retrieved September 17, 2016, from <http://download.intel.com/support/processors/xeon/sb/xeon_C5500.pdf>
 
-28. (2015, February). Retrieved September 16, 2016, from
-    <http://intel.com/content/www/us/en/processors/xeon/xeon-5600-specification-update.html>
+28. (2015, February). Retrieved September 16, 2016, from <http://intel.com/content/www/us/en/processors/xeon/xeon-5600-specification-update.html>
 
 29. (2015, March). Retrieved September 16, 2016, from
 
-30. (2011, September 14). Retrieved September 17, 2016, from
-    <http://download.intel.com/support/processors/xeon/sb/xeon_E7-2800.pdf>
+30. (2011, September 14). Retrieved September 17, 2016, from <http://download.intel.com/support/processors/xeon/sb/xeon_E7-2800.pdf>
 
-31. (2011, September 14). Retrieved September 17, 2016, from
-    <http://download.intel.com/support/processors/xeon/sb/xeon_E7-4800.pdf>
+31. (2011, September 14). Retrieved September 17, 2016, from <http://download.intel.com/support/processors/xeon/sb/xeon_E7-4800.pdf>
 
-32. (2011, September 14). Retrieved September 17, 2016, from
-    <http://download.intel.com/support/processors/xeon/sb/xeon_E7-8800.pdf>
+32. (2011, September 14). Retrieved September 17, 2016, from <http://download.intel.com/support/processors/xeon/sb/xeon_E7-8800.pdf>
 
-33. (2012, June 7). Retrieved September 17, 2016, from
-    <http://download.intel.com/support/processors/xeon/sb/xeon_E3-1100.pdf>
+33. (2012, June 7). Retrieved September 17, 2016, from <http://download.intel.com/support/processors/xeon/sb/xeon_E3-1100.pdf>
 
-34. (2012, June 28). Retrieved September 17, 2016, from
-    <http://download.intel.com/support/processors/xeon/sb/xeon_E3-1200.pdf>
+34. (2012, June 28). Retrieved September 17, 2016, from <http://download.intel.com/support/processors/xeon/sb/xeon_E3-1200.pdf>
 
-35. (2016, February). Retrieved September 17, 2016, from
-    <http://intel.com/content/www/us/en/processors/xeon/xeon-e5-family-spec-update.html>
+35. (2016, February). Retrieved September 17, 2016, from <http://intel.com/content/www/us/en/processors/xeon/xeon-e5-family-spec-update.html>
 
 36.
 37.
 38.
 39.
-40. (2015, September). Retrieved September 17, 2016, from
-    <http://intel.com/content/www/us/en/processors/xeon/xeon-e5-v2-spec-update.html>
+40. (2015, September). Retrieved September 17, 2016, from <http://intel.com/content/www/us/en/processors/xeon/xeon-e5-v2-spec-update.html>
 
 41.
 42.
 43.
 44.
-45. (2016, April). Retrieved September 17, 2016, from
-    <http://www.intel.com/content/www/us/en/processors/xeon/xeon-e7-v2-spec-update.html>
+45. (2016, April). Retrieved September 17, 2016, from <http://www.intel.com/content/www/us/en/processors/xeon/xeon-e7-v2-spec-update.html>
 
 46.
 47.
-48. (2016, April). Retrieved September 17, 2016, from
-    <http://intel.com/content/www/xa/en/processors/xeon/xeon-e3-1200v3-spec-update.html>
+48. (2016, April). Retrieved September 17, 2016, from <http://intel.com/content/www/xa/en/processors/xeon/xeon-e3-1200v3-spec-update.html>
 
-49. (2016, Feb). Retrieved September 21, 2016, from
-    <http://intel.com/content/www/xa/en/processors/xeon/xeon-e5-v3-spec-update.html>
+49. (2016, Feb). Retrieved September 21, 2016, from <http://intel.com/content/www/xa/en/processors/xeon/xeon-e5-v3-spec-update.html>
 
 50.
 51.
 52.
 53.
-54. (2016, Sep). Retrieved September 21, 2016, from
-    <http://intel.com/content/www/us/en/processors/xeon/xeon-e7-v3-spec-update.html>
+54. (2016, Sep). Retrieved September 21, 2016, from <http://intel.com/content/www/us/en/processors/xeon/xeon-e7-v3-spec-update.html>
 
 55.
-56. (2016, Aug). Retrieved September 22, 2016, from
-    <http://intel.com/content/www/us/en/processors/xeon/xeon-d-1500-specification-update.html>
+56. (2016, Aug). Retrieved September 22, 2016, from <http://intel.com/content/www/us/en/processors/xeon/xeon-d-1500-specification-update.html>
 
-57. (2016, Apr). Retrieved September 22, 2016, from
-    <http://intel.com/content/www/us/en/processors/xeon/xeon-e3-1200v4-spec-update.html>
+57. (2016, Apr). Retrieved September 22, 2016, from <http://intel.com/content/www/us/en/processors/xeon/xeon-e3-1200v4-spec-update.html>
 
-58. (2016, Apr). Retrieved September 22, 2016, from
-    <http://intel.com/content/www/us/en/processors/xeon/xeon-e5-v4-spec-update.html>
+58. (2016, Apr). Retrieved September 22, 2016, from <http://intel.com/content/www/us/en/processors/xeon/xeon-e5-v4-spec-update.html>
 
 59.
 60.
-61. (2016, Sep). Retrieved September 25, 2016, from
-    <http://intel.com/content/www/us/en/processors/xeon/xeon-e7-v4-spec-update.html>
+61. (2016, Sep). Retrieved September 25, 2016, from <http://intel.com/content/www/us/en/processors/xeon/xeon-e7-v4-spec-update.html>
 
 62.
-63. (2016, Jun). Retrieved September 27, 2016, from
-    <http://intel.com/content/www/us/en/processors/xeon/xeon-e3-1200v5-spec-update.html>
+63. (2016, Jun). Retrieved September 27, 2016, from <http://intel.com/content/www/us/en/processors/xeon/xeon-e3-1200v5-spec-update.html>
 
-64. (2016, Jun). Retrieved September 27, 2016, from
-    <http://intel.com/content/www/us/en/processors/core/desktop-6th-gen-core-family-spec-update.html>
+64. (2016, Jun). Retrieved September 27, 2016, from <http://intel.com/content/www/us/en/processors/core/desktop-6th-gen-core-family-spec-update.html>
 
 65.

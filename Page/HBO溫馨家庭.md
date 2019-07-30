@@ -1,8 +1,4 @@
-**HBO Family**（**HBO溫馨家庭**）在2006年3月16日和[HBO
-HiTS同時成為](https://zh.wikipedia.org/wiki/HBO_HiTS "wikilink")[HBO
-Asia頻道系列之一](https://zh.wikipedia.org/wiki/HBO#HBO_Asia "wikilink")。雖然與美國一樣專門播放合家歡電影，但HBO
-Asia的HBO Family並不會播放電視動畫系列。HBO
-Family也首創自選電影時段，觀眾可以於每星期上網投票從三部電影中選出該頻道在星期六其中一個時段播放的節目。在[香港](../Page/香港.md "wikilink")，[now寬頻電視在啟播同日引入](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")，並根據在2005年8月中與HBO簽訂長期獨家播放協議，在2006年7月1日獨家播放此頻道。
+**HBO Family**（**HBO溫馨家庭**）在2006年3月16日和[HBO HiTS同時成為](https://zh.wikipedia.org/wiki/HBO_HiTS "wikilink")[HBO Asia頻道系列之一](https://zh.wikipedia.org/wiki/HBO#HBO_Asia "wikilink")。雖然與美國一樣專門播放合家歡電影，但HBO Asia的HBO Family並不會播放電視動畫系列。HBO Family也首創自選電影時段，觀眾可以於每星期上網投票從三部電影中選出該頻道在星期六其中一個時段播放的節目。在[香港](../Page/香港.md "wikilink")，[now寬頻電視在啟播同日引入](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")，並根據在2005年8月中與HBO簽訂長期獨家播放協議，在2006年7月1日獨家播放此頻道。
 
 ## 重要節目時段
 
@@ -25,8 +21,7 @@ Family也首創自選電影時段，觀眾可以於每星期上網投票從三�
 
 ## 節目播放時段
 
-*以下時間為[美國西岸時間](https://zh.wikipedia.org/wiki/美國 "wikilink")，頻道播放時間以HBO
-Family West 為標準。*
+*以下時間為[美國西岸時間](https://zh.wikipedia.org/wiki/美國 "wikilink")，頻道播放時間以HBO Family West 為標準。*
 
 | 時段                     | 節目類型                                                         |
 | ---------------------- | ------------------------------------------------------------ |
@@ -43,16 +38,11 @@ Family West 為標準。*
 
 ## 外部連結
 
-  - [HBO
-    Family](https://web.archive.org/web/20060721140154/http://www.hbofamily.com/)
+  - [HBO Family](https://web.archive.org/web/20060721140154/http://www.hbofamily.com/)
   - [HBO Family 亞洲](http://www.hboasia.com/family/)
-  - [HBO Family
-    拉丁美州](https://web.archive.org/web/20041203012032/http://www.hbofamily-la.tv/)
-  - [HBO Family
-    巴西](https://web.archive.org/web/20100209183336/http://www.hbofamily-br.tv/)
+  - [HBO Family 拉丁美州](https://web.archive.org/web/20041203012032/http://www.hbofamily-la.tv/)
+  - [HBO Family 巴西](https://web.archive.org/web/20100209183336/http://www.hbofamily-br.tv/)
 
-[en:HBO\#HBO
-Family](https://zh.wikipedia.org/wiki/en:HBO#HBO_Family "wikilink")
+[en:HBO\#HBO Family](https://zh.wikipedia.org/wiki/en:HBO#HBO_Family "wikilink")
 
-[Category:香港電視播放頻道](https://zh.wikipedia.org/wiki/Category:香港電視播放頻道 "wikilink")
-[Category:美國電視台](https://zh.wikipedia.org/wiki/Category:美國電視台 "wikilink")
+[Category:香港電視播放頻道](https://zh.wikipedia.org/wiki/Category:香港電視播放頻道 "wikilink") [Category:美國電視台](https://zh.wikipedia.org/wiki/Category:美國電視台 "wikilink")

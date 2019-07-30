@@ -6,7 +6,7 @@
 
 ## 故事
 
-20年前，[埼玉縣立十二支高中棒球員](../Page/埼玉縣.md "wikilink")**村中紀洋**於在校時期締造了兩項傳說－
+20年前，[埼玉縣](../Page/埼玉縣.md "wikilink")立十二支高中棒球員**村中紀洋**於在校時期締造了兩項傳說－
 第一個傳說，擊出飛越整個運動場並砸中校舍時鐘的超大號160公尺全壘打，遭到擊壞的大鐘從此停在3點3分；第二個傳說，帶領十二支高中棒球隊連續三年奪下[甲子園冠軍](https://zh.wikipedia.org/wiki/甲子園 "wikilink")。
 職業選手期間也相繼在日本及美國的球場上發光發熱。
 
@@ -50,9 +50,6 @@
 
 ## 外部連結
 
-  - [─Mr.FULLSWING
-    スポーツ新聞【フルスポ】─](https://web.archive.org/web/20060221192441/http://jump.shueisha.co.jp/fullswing/)
+  - [─Mr.FULLSWING スポーツ新聞【フルスポ】─](https://web.archive.org/web/20060221192441/http://jump.shueisha.co.jp/fullswing/)
 
-[Category:週刊少年Jump連載作品](https://zh.wikipedia.org/wiki/Category:週刊少年Jump連載作品 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:棒球漫畫](https://zh.wikipedia.org/wiki/Category:棒球漫畫 "wikilink")
+[Category:週刊少年Jump連載作品](https://zh.wikipedia.org/wiki/Category:週刊少年Jump連載作品 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:棒球漫畫](https://zh.wikipedia.org/wiki/Category:棒球漫畫 "wikilink")

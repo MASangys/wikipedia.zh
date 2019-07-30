@@ -1,4 +1,4 @@
-《**Nakayoshi**》（）是[日本](../Page/日本.md "wikilink")[講談社發行的月刊](https://zh.wikipedia.org/wiki/講談社 "wikilink")[少女漫畫](https://zh.wikipedia.org/wiki/少女漫畫 "wikilink")[雜誌](https://zh.wikipedia.org/wiki/雜誌 "wikilink")。1954年12月創刊（1955年1月號）。《Nakayoshi》是日本三大少女漫畫雜誌之一。主要競爭對手是[集英社的](../Page/集英社.md "wikilink")《[Ribon](../Page/Ribon.md "wikilink")》和[小學館的](../Page/小學館.md "wikilink")《[Ciao](../Page/Ciao.md "wikilink")》。該雜誌的名字在[日語中意為](https://zh.wikipedia.org/wiki/日語 "wikilink")「**好朋友**」。
+《**Nakayoshi**》（）是[日本](../Page/日本.md "wikilink")[講談社發行的月刊](https://zh.wikipedia.org/wiki/講談社 "wikilink")[少女漫畫](https://zh.wikipedia.org/wiki/少女漫畫 "wikilink")[雜誌](https://zh.wikipedia.org/wiki/雜誌 "wikilink")。1954年12月創刊（1955年1月號）。《Nakayoshi》是日本三大少女漫畫雜誌之一。主要競爭對手是[集英社](../Page/集英社.md "wikilink")的《[Ribon](../Page/Ribon.md "wikilink")》和[小學館](../Page/小學館.md "wikilink")的《[Ciao](../Page/Ciao.md "wikilink")》。該雜誌的名字在[日語中意為](https://zh.wikipedia.org/wiki/日語 "wikilink")「**好朋友**」。
 
 《Nakayoshi》的讀者對象和《Ribon》相似，即[小學中學年至](https://zh.wikipedia.org/wiki/小學 "wikilink")[初中](https://zh.wikipedia.org/wiki/初中 "wikilink")3年的少女，另外也不乏[高中以上的讀者](../Page/高級中學.md "wikilink")（以[漫畫愛好者居多](https://zh.wikipedia.org/wiki/漫畫 "wikilink")）。
 
@@ -25,8 +25,7 @@
   - 《[製造王子計劃](../Page/王子育成法.md "wikilink")》（桃雪琴梨）
   - 《[美少女戰士](https://zh.wikipedia.org/wiki/美少女戰士 "wikilink")》（[武內直子](https://zh.wikipedia.org/wiki/武內直子 "wikilink")）
   - 《[魔法騎士](https://zh.wikipedia.org/wiki/魔法騎士 "wikilink")》（CLAMP）
-  - 《[怪盜St.
-    Tail](https://zh.wikipedia.org/wiki/怪盜St._Tail "wikilink")》（[立川惠](../Page/立川惠.md "wikilink")）
+  - 《[怪盜St. Tail](https://zh.wikipedia.org/wiki/怪盜St._Tail "wikilink")》（[立川惠](../Page/立川惠.md "wikilink")）
   - 《[金魚注意報](../Page/金魚注意報.md "wikilink")》（[猫部猫](https://zh.wikipedia.org/wiki/猫部猫 "wikilink")）
   - 《[Da\!Da\!Da\!](../Page/Da!Da!Da!.md "wikilink")》（[川村美香](https://zh.wikipedia.org/wiki/川村美香 "wikilink")）
   - 《[優女夢遊仙境](https://zh.wikipedia.org/wiki/優女夢遊仙境 "wikilink")》（花森小桃）
@@ -48,8 +47,7 @@
   - 《[要你對我×××！](https://zh.wikipedia.org/wiki/要你對我×××！ "wikilink")》（[遠山繪麻](../Page/遠山繪麻.md "wikilink")）
   - 《[百鬼戀亂](https://zh.wikipedia.org/wiki/百鬼戀亂 "wikilink")》（[鳥海佩卓](https://zh.wikipedia.org/wiki/鳥海佩卓 "wikilink")/）
   - 《[戀愛雙子與青君的眼鏡](https://zh.wikipedia.org/wiki/戀愛雙子與青君的眼鏡 "wikilink")》（[山田Daisy](https://zh.wikipedia.org/wiki/山田Daisy "wikilink")）
-  - 《[魔導少年
-    藍色季風](https://zh.wikipedia.org/wiki/魔導少年_藍色季風 "wikilink")》（[渡辺留衣](https://zh.wikipedia.org/wiki/渡辺留衣 "wikilink")、原作：[真島浩](../Page/真島浩.md "wikilink")）
+  - 《[魔導少年 藍色季風](https://zh.wikipedia.org/wiki/魔導少年_藍色季風 "wikilink")》（[渡辺留衣](https://zh.wikipedia.org/wiki/渡辺留衣 "wikilink")、原作：[真島浩](../Page/真島浩.md "wikilink")）
 
 ### 現在
 
@@ -59,15 +57,10 @@
   - 《[小學生的秘密](https://zh.wikipedia.org/wiki/小學生的秘密 "wikilink")》（[中江美佳世](https://zh.wikipedia.org/wiki/中江美佳世 "wikilink")）
   - 《[玩偶騎士防衛隊](https://zh.wikipedia.org/wiki/玩偶騎士防衛隊 "wikilink")》（[星野莉莉](https://zh.wikipedia.org/wiki/星野莉莉 "wikilink")）
   - 《[青葉同學請告訴我](https://zh.wikipedia.org/wiki/青葉同學請告訴我 "wikilink")》（[遠山繪麻](../Page/遠山繪麻.md "wikilink")）
-  - 《[庫洛魔法使
-    透明牌篇](https://zh.wikipedia.org/wiki/庫洛魔法使_透明牌篇 "wikilink")》（[CLAMP](../Page/CLAMP.md "wikilink")）
+  - 《[庫洛魔法使 透明牌篇](https://zh.wikipedia.org/wiki/庫洛魔法使_透明牌篇 "wikilink")》（[CLAMP](../Page/CLAMP.md "wikilink")）
 
 ## 外部連結
 
   - [官方網站](http://kc.kodansha.co.jp/nakayosi)
 
-[Category:Nakayoshi](https://zh.wikipedia.org/wiki/Category:Nakayoshi "wikilink")
-[Category:日本漫畫雜誌](https://zh.wikipedia.org/wiki/Category:日本漫畫雜誌 "wikilink")
-[Category:少女漫畫雜誌](https://zh.wikipedia.org/wiki/Category:少女漫畫雜誌 "wikilink")
-[Category:月刊漫畫雜誌](https://zh.wikipedia.org/wiki/Category:月刊漫畫雜誌 "wikilink")
-[Category:講談社的漫畫雜誌](https://zh.wikipedia.org/wiki/Category:講談社的漫畫雜誌 "wikilink")
+[Category:Nakayoshi](https://zh.wikipedia.org/wiki/Category:Nakayoshi "wikilink") [Category:日本漫畫雜誌](https://zh.wikipedia.org/wiki/Category:日本漫畫雜誌 "wikilink") [Category:少女漫畫雜誌](https://zh.wikipedia.org/wiki/Category:少女漫畫雜誌 "wikilink") [Category:月刊漫畫雜誌](https://zh.wikipedia.org/wiki/Category:月刊漫畫雜誌 "wikilink") [Category:講談社的漫畫雜誌](https://zh.wikipedia.org/wiki/Category:講談社的漫畫雜誌 "wikilink")

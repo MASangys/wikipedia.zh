@@ -117,8 +117,7 @@
   - 980：委内瑞拉
   - 981：新加坡（及9971）
   - 982：南太平洋
-      - 包括：库克群岛、斐济、基里巴斯、马绍尔群岛、密克罗尼西亚、瑙鲁、新喀里多尼亚、纽埃、帕劳、所罗门群岛、托克劳、汤加、
-        图瓦卢、瓦努阿图、西萨摩亚
+      - 包括：库克群岛、斐济、基里巴斯、马绍尔群岛、密克罗尼西亚、瑙鲁、新喀里多尼亚、纽埃、帕劳、所罗门群岛、托克劳、汤加、 图瓦卢、瓦努阿图、西萨摩亚
   - 983：马来西亚（及967）
   - 984：孟加拉
   - 985：白俄罗斯
@@ -286,8 +285,6 @@
 
 ## 外部連結
 
-  - [International ISBN Agency -
-    Ranges](https://www.isbn-international.org/range_file_generation)
+  - [International ISBN Agency - Ranges](https://www.isbn-international.org/range_file_generation)
 
-[Category:圖書資訊科學](https://zh.wikipedia.org/wiki/Category:圖書資訊科學 "wikilink")
-[Category:代码列表](https://zh.wikipedia.org/wiki/Category:代码列表 "wikilink")
+[Category:圖書資訊科學](https://zh.wikipedia.org/wiki/Category:圖書資訊科學 "wikilink") [Category:代码列表](https://zh.wikipedia.org/wiki/Category:代码列表 "wikilink")

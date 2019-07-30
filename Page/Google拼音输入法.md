@@ -2,8 +2,7 @@
 
 谷歌拼音輸入法1.0.15.0版盗用了[搜狗拼音輸入法的詞庫](https://zh.wikipedia.org/wiki/搜狗拼音輸入法 "wikilink")\[3\]，随后谷歌发布致歉声明。並於2007年4月9日發佈1.0.17.0版，稱改用了自家的詞庫。
 
-随后，[Google在其](../Page/Google.md "wikilink")[博客](../Page/網誌.md "wikilink")“Google
-黑板报”上发布有兩份聲明，第一份是對盗用詞庫表示致歉明白卡\[4\]，第二份則稱[輸入法中包含](https://zh.wikipedia.org/wiki/輸入法 "wikilink")[Google工程師申請的專利](../Page/Google.md "wikilink")。
+随后，[Google](../Page/Google.md "wikilink")在其[博客](../Page/網誌.md "wikilink")“Google 黑板报”上发布有兩份聲明，第一份是對盗用詞庫表示致歉明白卡\[4\]，第二份則稱[輸入法中包含](https://zh.wikipedia.org/wiki/輸入法 "wikilink")[Google](../Page/Google.md "wikilink")工程師申請的專利。
 
 谷歌拼音輸入法在PC端已經停止更新。2018年6月，下載頁面完全從網站撤下，而可供下载的檔案則至2019年6月21日仍未撤下。用戶在PC上使用已安裝的谷歌拼音輸入法無法登入Google帳號和使用其自動同步功能。
 
@@ -103,11 +102,7 @@ Google于2011年1月28日推出了谷歌拼音输入法V3.0版，新增了下列
 
  
 
-[Category:Google軟體](https://zh.wikipedia.org/wiki/Category:Google軟體 "wikilink")
-[Category:汉语拼音输入法](https://zh.wikipedia.org/wiki/Category:汉语拼音输入法 "wikilink")
-[Category:免费软件](https://zh.wikipedia.org/wiki/Category:免费软件 "wikilink")
-[Category:Windows文本相关软件](https://zh.wikipedia.org/wiki/Category:Windows文本相关软件 "wikilink")
-[Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink")
+[Category:Google軟體](https://zh.wikipedia.org/wiki/Category:Google軟體 "wikilink") [Category:汉语拼音输入法](https://zh.wikipedia.org/wiki/Category:汉语拼音输入法 "wikilink") [Category:免费软件](https://zh.wikipedia.org/wiki/Category:免费软件 "wikilink") [Category:Windows文本相关软件](https://zh.wikipedia.org/wiki/Category:Windows文本相关软件 "wikilink") [Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink")
 
 1.
 2.

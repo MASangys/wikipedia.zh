@@ -9,6 +9,4 @@
   - **[约瑟夫·坦纳](https://zh.wikipedia.org/wiki/约瑟夫·坦纳 "wikilink")**（，曾执行、、以及任务），任务专家
   - **[让-弗朗西斯·格列福瑞](https://zh.wikipedia.org/wiki/让-弗朗西斯·格列福瑞 "wikilink")**（，[法国宇航员](https://zh.wikipedia.org/wiki/法国 "wikilink")，曾执行、以及任务），任务专家
 
-[Category:载人航天](https://zh.wikipedia.org/wiki/Category:载人航天 "wikilink")
-[Category:航天飞机任务](https://zh.wikipedia.org/wiki/Category:航天飞机任务 "wikilink")
-[Category:1994年](https://zh.wikipedia.org/wiki/Category:1994年 "wikilink")
+[Category:载人航天](https://zh.wikipedia.org/wiki/Category:载人航天 "wikilink") [Category:航天飞机任务](https://zh.wikipedia.org/wiki/Category:航天飞机任务 "wikilink") [Category:1994年](https://zh.wikipedia.org/wiki/Category:1994年 "wikilink")

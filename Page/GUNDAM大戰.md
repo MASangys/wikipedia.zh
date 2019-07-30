@@ -1,12 +1,8 @@
-**-{GUNDAM}-
-WAR**（，[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[尖端出版譯為](../Page/尖端出版.md "wikilink")「-{鋼彈}-大戰」，一般口語簡稱為「GW」），是一種集換式卡片，內容是以歷代的[GUNDAM作品為主軸](../Page/GUNDAM系列作品.md "wikilink")。而**-{GUNDAM}-
-WAR**是Carddas旗下的商品之一。
+**-{GUNDAM}- WAR**（，[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[尖端出版](../Page/尖端出版.md "wikilink")譯為「-{鋼彈}-大戰」，一般口語簡稱為「GW」），是一種集換式卡片，內容是以歷代的[GUNDAM作品為主軸](../Page/GUNDAM系列作品.md "wikilink")。而**-{GUNDAM}- WAR**是Carddas旗下的商品之一。
 
 ## 概要
 
-GUNDAM大戰 ガンダムウォー（GUNDAM WAR）
-以『[機動戰士GUNDAM](../Page/機動戰士GUNDAM.md "wikilink")』開始的鋼彈系列為主的集換式卡片遊戲、各種機體及角色、能超越作品的限制自由自在的依個人的喜好來組成牌組。
-台灣由尖端出版社代理、每年固定會舉辦4次公開賽及1次國代賽。
+GUNDAM大戰 ガンダムウォー（GUNDAM WAR） 以『[機動戰士GUNDAM](../Page/機動戰士GUNDAM.md "wikilink")』開始的鋼彈系列為主的集換式卡片遊戲、各種機體及角色、能超越作品的限制自由自在的依個人的喜好來組成牌組。 台灣由尖端出版社代理、每年固定會舉辦4次公開賽及1次國代賽。
 
 ## 卡片的種類
 
@@ -47,9 +43,9 @@ GUNDAM大戰 ガンダムウォー（GUNDAM WAR）
   - 紅
       - ネオ・ジオン
       - クロスボーン・バンガード
-      - [機動戰士海盜GUNDAM系列](../Page/機動戰士海盜GUNDAM.md "wikilink")
+      - [機動戰士海盜GUNDAM](../Page/機動戰士海盜GUNDAM.md "wikilink")系列
   - 茶
-      - [∀GUNDAM系列中所有勢力](../Page/∀GUNDAM.md "wikilink")
+      - [∀GUNDAM](../Page/∀GUNDAM.md "wikilink")系列中所有勢力
       - [機動新世紀GUNDAM X系列中所有勢力](../Page/機動新世紀GUNDAM_X.md "wikilink")
       - [機動武鬥傳G GUNDAM系列中所有勢力](../Page/機動武鬥傳G_GUNDAM.md "wikilink")
   - 白
@@ -62,14 +58,10 @@ GUNDAM大戰 ガンダムウォー（GUNDAM WAR）
 
 ## 外部链接
 
-  - [Daniel & Co. 瑞華行 - -{GUNDAM}-
-    WAR比賽頁面](http://www.danielco.com.hk/card/gundamwar/index.htm)
-  - [尖端出版 卡牌遊戲區 -
-    鋼彈大戰台灣官方網站](http://www.spp.com.tw/asp/Gundamwar/nmain.asp)
+  - [Daniel & Co. 瑞華行 - -{GUNDAM}- WAR比賽頁面](http://www.danielco.com.hk/card/gundamwar/index.htm)
+  - [尖端出版 卡牌遊戲區 - 鋼彈大戰台灣官方網站](http://www.spp.com.tw/asp/Gundamwar/nmain.asp)
   - [鋼彈大戰官方網站](http://www.carddas.com/cdmasters/gundamwar/)
 
-[en:Gundam\#Gundam War Collectible Card
-Game](https://zh.wikipedia.org/wiki/en:Gundam#Gundam_War_Collectible_Card_Game "wikilink")
+[en:Gundam\#Gundam War Collectible Card Game](https://zh.wikipedia.org/wiki/en:Gundam#Gundam_War_Collectible_Card_Game "wikilink")
 
-[Category:GUNDAM系列跨界作品](https://zh.wikipedia.org/wiki/Category:GUNDAM系列跨界作品 "wikilink")
-[Category:交換卡片遊戲跨界作品](https://zh.wikipedia.org/wiki/Category:交換卡片遊戲跨界作品 "wikilink")
+[Category:GUNDAM系列跨界作品](https://zh.wikipedia.org/wiki/Category:GUNDAM系列跨界作品 "wikilink") [Category:交換卡片遊戲跨界作品](https://zh.wikipedia.org/wiki/Category:交換卡片遊戲跨界作品 "wikilink")

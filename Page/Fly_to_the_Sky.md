@@ -1,17 +1,10 @@
-**Fly to the Sky**（諺文：플라이 투 더
-스카이、台譯：飛行青少年、簡寫：FTTS）是韓國二人男子演唱團體，由韓裔美籍的[Brian和韓國出身的](../Page/朱玟奎.md "wikilink")[Fany所組成](https://zh.wikipedia.org/wiki/焕熙 "wikilink")。
+**Fly to the Sky**（諺文：플라이 투 더 스카이、台譯：飛行青少年、簡寫：FTTS）是韓國二人男子演唱團體，由韓裔美籍的[Brian和韓國出身的](../Page/朱玟奎.md "wikilink")[Fany所組成](https://zh.wikipedia.org/wiki/焕熙 "wikilink")。
 
-Fly To The Sky由[SM
-Entertainment於](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")1999年正式出道，初期以精通演唱、饒舌及舞蹈的宣傳話題，演唱較受青少年族群喜好的流行節奏藍調曲風。自2002年的第三張專輯《Sea
-of Love》起，將團體形象及演唱曲風轉向更成熟的節奏藍調及正統抒情曲。隨著2003年第四張專輯《Missing You》的大受歡迎，Fly
-To The Sky的定位從偶像轉變為實力派組合，成功鞏固其節奏藍調藝人的定位，並被視為韓國節奏藍調團體先驅之一。
+Fly To The Sky由[SM Entertainment於](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")1999年正式出道，初期以精通演唱、饒舌及舞蹈的宣傳話題，演唱較受青少年族群喜好的流行節奏藍調曲風。自2002年的第三張專輯《Sea of Love》起，將團體形象及演唱曲風轉向更成熟的節奏藍調及正統抒情曲。隨著2003年第四張專輯《Missing You》的大受歡迎，Fly To The Sky的定位從偶像轉變為實力派組合，成功鞏固其節奏藍調藝人的定位，並被視為韓國節奏藍調團體先驅之一。
 
-2005年與SM Entertainment的合約期滿、宣布跳槽Pfull
-Entertainment，2006年推出的第六張專輯《Transition》在事先未被看好的狀況下，以首波單曲「像個男人」獲得廣大迴響，單曲蟬聯韓國指標音樂節目、SBS《[人氣歌謠](https://zh.wikipedia.org/wiki/韓國人氣歌謠 "wikilink")》三週冠軍，成功再創聲勢高峰。兩人在團體活動之際同步展開個人活動，以演員、主持人、通告藝人及歌手等多重身份活躍於演藝圈。
+2005年與SM Entertainment的合約期滿、宣布跳槽Pfull Entertainment，2006年推出的第六張專輯《Transition》在事先未被看好的狀況下，以首波單曲「像個男人」獲得廣大迴響，單曲蟬聯韓國指標音樂節目、SBS《[人氣歌謠](https://zh.wikipedia.org/wiki/韓國人氣歌謠 "wikilink")》三週冠軍，成功再創聲勢高峰。兩人在團體活動之際同步展開個人活動，以演員、主持人、通告藝人及歌手等多重身份活躍於演藝圈。
 
-2009年，兩人在成軍10週年之際宣佈暫停團體活動，以單飛不解散的方式各自展開個人活動，並於當年4月12日的[SBS電視台](https://zh.wikipedia.org/wiki/SBS "wikilink")《[人氣歌謠](https://zh.wikipedia.org/wiki/韓國人氣歌謠 "wikilink")》節目進行告別演出。
-歷經將近5年的個別活動後，2014年宣布重新合體再度出輯。 2014年5月24日 Fly To The Sky 回歸舞台，主打歌《you you
-you》。
+2009年，兩人在成軍10週年之際宣佈暫停團體活動，以單飛不解散的方式各自展開個人活動，並於當年4月12日的[SBS電視台](https://zh.wikipedia.org/wiki/SBS "wikilink")《[人氣歌謠](https://zh.wikipedia.org/wiki/韓國人氣歌謠 "wikilink")》節目進行告別演出。 歷經將近5年的個別活動後，2014年宣布重新合體再度出輯。 2014年5月24日 Fly To The Sky 回歸舞台，主打歌《you you you》。
 
 ## 成員資料
 
@@ -331,8 +324,7 @@ you》。
 
   - 2006年5月 Transition Repackage
   - 2007年11月8日 VOL.7 No Limitations (Special Repackage Limited Edition)
-  - 2015年12月8日 冬日故事
-    (與[朴正炫](https://zh.wikipedia.org/wiki/朴正炫 "wikilink"))
+  - 2015年12月8日 冬日故事 (與[朴正炫](https://zh.wikipedia.org/wiki/朴正炫 "wikilink"))
 
 ## 獎項
 
@@ -564,14 +556,11 @@ you》。
   -
   - [Fly to the Sky的](http://cafe.daum.net/FTTS)官方歌迷網站
 
-  - [Fly to the
-    Sky的](https://web.archive.org/web/20120530052251/http://flytothesky.smtown.com/)SM官方網站
+  - [Fly to the Sky的](https://web.archive.org/web/20120530052251/http://flytothesky.smtown.com/)SM官方網站
 
 <!-- end list -->
 
   -
   - [Fany的](http://cafe.daum.net/HwanheeSoul)官方歌迷網站
 
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:1999年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1999年成立的音樂團體 "wikilink")
-[Category:Mnet亞洲音樂大獎獲得者](https://zh.wikipedia.org/wiki/Category:Mnet亞洲音樂大獎獲得者 "wikilink")
+[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:1999年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1999年成立的音樂團體 "wikilink") [Category:Mnet亞洲音樂大獎獲得者](https://zh.wikipedia.org/wiki/Category:Mnet亞洲音樂大獎獲得者 "wikilink")

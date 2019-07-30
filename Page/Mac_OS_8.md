@@ -1,18 +1,14 @@
-**Mac OS
-8**，是[蘋果電腦公司開發的](https://zh.wikipedia.org/wiki/蘋果電腦 "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")[Mac
-OS的一個版本](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")，於1997年7月26日發佈。
+**Mac OS 8**，是[蘋果電腦公司開發的](https://zh.wikipedia.org/wiki/蘋果電腦 "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")[Mac OS的一個版本](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")，於1997年7月26日發佈。
 
 ## Copland
 
 ## Mac OS 8.0
 
-Mac OS 8.0 帶來多线程 [Finder](../Page/Finder.md "wikilink")，三維的 Platinum
-界面，以及新的電腦幫助（輔助說明）系統。
+Mac OS 8.0 帶來多线程 [Finder](../Page/Finder.md "wikilink")，三維的 Platinum 界面，以及新的電腦幫助（輔助說明）系統。
 
 ## Mac OS 8.1
 
-Mac OS 8.1 於 1998年1月19日發佈，最大的一條新聞是全新 HFS Plus（Mac OS 操作系統是對於非 PowerPC
-的蘋果電腦的最後一個操作系統，自 8.5 起，要使用 Mac OS 8.5，必須具備 PowerPC Mac。
+Mac OS 8.1 於 1998年1月19日發佈，最大的一條新聞是全新 HFS Plus（Mac OS 操作系統是對於非 PowerPC 的蘋果電腦的最後一個操作系統，自 8.5 起，要使用 Mac OS 8.5，必須具備 PowerPC Mac。
 
 ## Mac OS 8.5
 
@@ -39,7 +35,4 @@ Mac OS 8.1 於 1998年1月19日發佈，最大的一條新聞是全新 HFS Plus�
 
 ## 参考资料
 
-[Category:Mac_OS](https://zh.wikipedia.org/wiki/Category:Mac_OS "wikilink")
-[Category:已停止開發的作業系統](https://zh.wikipedia.org/wiki/Category:已停止開發的作業系統 "wikilink")
-[Category:1997年软件](https://zh.wikipedia.org/wiki/Category:1997年软件 "wikilink")
-[Category:微內核](https://zh.wikipedia.org/wiki/Category:微內核 "wikilink")
+[Category:Mac_OS](https://zh.wikipedia.org/wiki/Category:Mac_OS "wikilink") [Category:已停止開發的作業系統](https://zh.wikipedia.org/wiki/Category:已停止開發的作業系統 "wikilink") [Category:1997年软件](https://zh.wikipedia.org/wiki/Category:1997年软件 "wikilink") [Category:微內核](https://zh.wikipedia.org/wiki/Category:微內核 "wikilink")

@@ -1,4 +1,4 @@
-《**QQ堂**》是由[腾讯公司开发和运营的休闲](../Page/腾讯.md "wikilink")[网络游戏](../Page/网络游戏.md "wikilink")，与[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[Nexon公司开发的](../Page/Nexon.md "wikilink")[泡泡堂极之相似](https://zh.wikipedia.org/wiki/泡泡堂 "wikilink")。玩家必须用[QQ账号登陆](https://zh.wikipedia.org/wiki/QQ "wikilink")《QQ堂》游戏。由于[腾讯很大的市场占有率及其与](../Page/腾讯.md "wikilink")《QQ堂》的关系，有很多泡泡堂玩家都转向了腾讯《QQ堂》。《QQ堂》与泡泡堂最大的区别在于泡泡爆炸后所炸到地方的停留时间只有泡泡堂的一半。
+《**QQ堂**》是由[腾讯](../Page/腾讯.md "wikilink")公司开发和运营的休闲[网络游戏](../Page/网络游戏.md "wikilink")，与[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[Nexon](../Page/Nexon.md "wikilink")公司开发的[泡泡堂极之相似](https://zh.wikipedia.org/wiki/泡泡堂 "wikilink")。玩家必须用[QQ账号登陆](https://zh.wikipedia.org/wiki/QQ "wikilink")《QQ堂》游戏。由于[腾讯](../Page/腾讯.md "wikilink")很大的市场占有率及其与《QQ堂》的关系，有很多泡泡堂玩家都转向了腾讯《QQ堂》。《QQ堂》与泡泡堂最大的区别在于泡泡爆炸后所炸到地方的停留时间只有泡泡堂的一半。
 
 ## 玩法
 
@@ -37,7 +37,7 @@
 
 在《QQ堂》快速发展的同时，一些人认为，《QQ堂》也存在以下问题和缺点：
 
-  - 严重模仿[泡泡堂游戏](https://zh.wikipedia.org/wiki/泡泡堂 "wikilink")，泡泡堂的开发公司[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[Nexon曾因此向法院提起诉讼](../Page/Nexon.md "wikilink")；
+  - 严重模仿[泡泡堂游戏](https://zh.wikipedia.org/wiki/泡泡堂 "wikilink")，泡泡堂的开发公司[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[Nexon](../Page/Nexon.md "wikilink")曾因此向法院提起诉讼；
   - 游戏的界面和画面效果设计得太简单，但同时也允许了一部分硬件配置不好的计算机运行这个游戏程序；
   - 游戏的地图缺少复杂的元素，虽然2.0版新增的道具模式中的地图有一些复杂的环境元素，但是普通模式还没增加这类地图。
   - 游戏的运营模式过于商业化，游戏中存在许多收费的增值服务，但是免费用户仍然可以较为完整地享受游戏服务。在其游戏内置的商城中，有一些商品被认为有失游戏的公平性。
@@ -46,7 +46,4 @@
 ## 外部链接
 
   -
-[Category:腾讯游戏](https://zh.wikipedia.org/wiki/Category:腾讯游戏 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:大型多人在线游戏](https://zh.wikipedia.org/wiki/Category:大型多人在线游戏 "wikilink")
-[Category:中国大陆开发电子游戏](https://zh.wikipedia.org/wiki/Category:中国大陆开发电子游戏 "wikilink")
+[Category:腾讯游戏](https://zh.wikipedia.org/wiki/Category:腾讯游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:大型多人在线游戏](https://zh.wikipedia.org/wiki/Category:大型多人在线游戏 "wikilink") [Category:中国大陆开发电子游戏](https://zh.wikipedia.org/wiki/Category:中国大陆开发电子游戏 "wikilink")

@@ -1,4 +1,4 @@
-**OpenMoko**是一个遵从[FLOSS哲学](https://zh.wikipedia.org/wiki/FLOSS "wikilink")、旨在建立一个开放的[GSM制式](https://zh.wikipedia.org/wiki/GSM制式 "wikilink")[智能手机平台的项目](../Page/智能手机.md "wikilink")。它运行于[Linux平台](../Page/Linux.md "wikilink")，使用[ipkg包管理器](https://zh.wikipedia.org/wiki/ipkg "wikilink")。
+**OpenMoko**是一个遵从[FLOSS哲学](https://zh.wikipedia.org/wiki/FLOSS "wikilink")、旨在建立一个开放的[GSM制式](https://zh.wikipedia.org/wiki/GSM制式 "wikilink")[智能手机](../Page/智能手机.md "wikilink")平台的项目。它运行于[Linux](../Page/Linux.md "wikilink")平台，使用[ipkg包管理器](https://zh.wikipedia.org/wiki/ipkg "wikilink")。
 
 ## 软件
 
@@ -23,9 +23,7 @@ Neo的名字来源于移动电话通讯的第一个年头。
 
 ### Neo FreeRunner
 
-第二款OpenMoko硬體是[Neo
-FreeRunner](https://zh.wikipedia.org/wiki/Neo_FreeRunner "wikilink")，在2008
-CES發佈，並於2008年7月4日量產上市。
+第二款OpenMoko硬體是[Neo FreeRunner](https://zh.wikipedia.org/wiki/Neo_FreeRunner "wikilink")，在2008 CES發佈，並於2008年7月4日量產上市。
 
 ## 参见
 
@@ -39,11 +37,8 @@ CES發佈，並於2008年7月4日量產上市。
   - [LinuxDevices.com網站上的評論](https://archive.is/20120629120640/www.linuxdevices.com/news/NS2986976174.html)
   - [OpenMoko聲明](https://web.archive.org/web/20090319051223/http://lists.openmoko.org/pipermail/announce/2007-January/000000.html)
   - [詞解/OpenMoko名詞解釋：OpenMoko](https://web.archive.org/web/20071030061205/http://www.emb-kb.com/doku.php)
-  - [詞解/TuxPhone
-    TuxPhone，與OpenMoko意味相近的開放原碼專案](https://web.archive.org/web/20071030061205/http://www.emb-kb.com/doku.php)
+  - [詞解/TuxPhone TuxPhone，與OpenMoko意味相近的開放原碼專案](https://web.archive.org/web/20071030061205/http://www.emb-kb.com/doku.php)
 
-[Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink")
-[Category:Linux設備](https://zh.wikipedia.org/wiki/Category:Linux設備 "wikilink")
-[Category:Openmoko](https://zh.wikipedia.org/wiki/Category:Openmoko "wikilink")
+[Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink") [Category:Linux設備](https://zh.wikipedia.org/wiki/Category:Linux設備 "wikilink") [Category:Openmoko](https://zh.wikipedia.org/wiki/Category:Openmoko "wikilink")
 
 1.  OpenMoko团队，2007年1月20日，[lists.openmoko.org](http://lists.openmoko.org/pipermail/community/2007-January/001586.html)

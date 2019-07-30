@@ -38,7 +38,7 @@
 <td><p>Abel</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/阿貝爾環形山" title="wikilink">阿貝爾</a></p></td>
 <td><p>137.35公里</p></td>
-<td><p><a href="../Page/尼尔斯·阿贝尔.md" title="wikilink">尼尔斯·阿贝尔</a>（Niels Henrik Abel，1802-1829），<a href="../Page/挪威.md" title="wikilink">挪威數學家</a><a href="https://zh.wikipedia.org/wiki/尼爾斯·阿貝爾" title="wikilink">尼爾斯·阿貝爾</a>。</p></td>
+<td><p><a href="../Page/尼尔斯·阿贝尔.md" title="wikilink">尼尔斯·阿贝尔</a>（Niels Henrik Abel，1802-1829），<a href="../Page/挪威.md" title="wikilink">挪威</a>數學家<a href="https://zh.wikipedia.org/wiki/尼爾斯·阿貝爾" title="wikilink">尼爾斯·阿貝爾</a>。</p></td>
 </tr>
 <tr class="odd">
 <td><p>Abenezra</p></td>
@@ -50,14 +50,14 @@
 <td><p>Abetti</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/阿貝提環形山" title="wikilink">阿貝提</a></p></td>
 <td><p>1.6公里</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/安东尼·阿贝提" title="wikilink">安东尼·阿贝提</a>（Antonio Abetti，1846-1928），<a href="../Page/意大利.md" title="wikilink">意大利天文學家</a>。<br />
-<a href="https://zh.wikipedia.org/wiki/喬治奧·阿貝提" title="wikilink">喬治奧·阿貝提</a>（Giorgio Abetti，1882-1982），<a href="../Page/意大利.md" title="wikilink">意大利天文學家</a>。</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/安东尼·阿贝提" title="wikilink">安东尼·阿贝提</a>（Antonio Abetti，1846-1928），<a href="../Page/意大利.md" title="wikilink">意大利</a>天文學家。<br />
+<a href="https://zh.wikipedia.org/wiki/喬治奧·阿貝提" title="wikilink">喬治奧·阿貝提</a>（Giorgio Abetti，1882-1982），<a href="../Page/意大利.md" title="wikilink">意大利</a>天文學家。</p></td>
 </tr>
 <tr class="odd">
 <td><p>Abul Wáfa</p></td>
 <td><p><a href="../Page/阿布·瓦法环形山.md" title="wikilink">阿布·瓦法</a></p></td>
 <td><p>54.18公里</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/阿布·瓦法" title="wikilink">阿布·瓦法</a>（Abul Wáfa，940-998），<a href="../Page/波斯.md" title="wikilink">波斯天文學家暨數學家</a>。</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/阿布·瓦法" title="wikilink">阿布·瓦法</a>（Abul Wáfa，940-998），<a href="../Page/波斯.md" title="wikilink">波斯</a>天文學家暨數學家。</p></td>
 </tr>
 <tr class="even">
 <td><p>Abulfeda</p></td>
@@ -69,7 +69,7 @@
 <td><p>Acosta</p></td>
 <td><p><a href="../Page/阿科斯塔环形山.md" title="wikilink">阿科斯塔</a></p></td>
 <td><p>13.06公里</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/克里斯托旺·德·科斯塔" title="wikilink">克里斯托旺·德·科斯塔</a>（Cristóvão da Costa，1515-1580），<a href="../Page/葡萄牙.md" title="wikilink">葡萄牙醫學家</a>。</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/克里斯托旺·德·科斯塔" title="wikilink">克里斯托旺·德·科斯塔</a>（Cristóvão da Costa，1515-1580），<a href="../Page/葡萄牙.md" title="wikilink">葡萄牙</a>醫學家。</p></td>
 </tr>
 <tr class="even">
 <td><p>Adams</p></td>
@@ -137,13 +137,13 @@
 <td><p>Albert</p></td>
 <td><p><a href="../Page/艾伯特陨石坑.md" title="wikilink">艾伯特</a></p></td>
 <td><p>0.1公里</p></td>
-<td><p><a href="../Page/德语.md" title="wikilink">德语名</a>"阿尔伯塔"的昵称。</p></td>
+<td><p><a href="../Page/德语.md" title="wikilink">德语</a>名"阿尔伯塔"的昵称。</p></td>
 </tr>
 <tr class="odd">
 <td><p>Al-Biruni</p></td>
 <td><p><a href="../Page/阿尔比鲁尼陨石坑.md" title="wikilink">阿尔比鲁尼</a></p></td>
 <td><p>80.41公里</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/比鲁尼" title="wikilink">阿尔比鲁尼</a>（al-Biruni，973-1048），<a href="../Page/波斯.md" title="wikilink">波斯數學家暨物理學家</a>。</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/比鲁尼" title="wikilink">阿尔比鲁尼</a>（al-Biruni，973-1048），<a href="../Page/波斯.md" title="wikilink">波斯</a>數學家暨物理學家。</p></td>
 </tr>
 <tr class="even">
 <td><p>Alden</p></td>
@@ -167,7 +167,7 @@
 <td><p>Alekhin</p></td>
 <td><p><a href="../Page/阿廖欣环形山.md" title="wikilink">阿廖欣</a></p></td>
 <td><p>74.82公里</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/尼可萊·阿廖欣" title="wikilink">尼可萊·阿廖欣</a>（Nikolai Alekhin，1913-1964），<a href="https://zh.wikipedia.org/wiki/蘇聯" title="wikilink">蘇聯</a><a href="../Page/火箭.md" title="wikilink">火箭設計師</a>。</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/尼可萊·阿廖欣" title="wikilink">尼可萊·阿廖欣</a>（Nikolai Alekhin，1913-1964），<a href="https://zh.wikipedia.org/wiki/蘇聯" title="wikilink">蘇聯</a><a href="../Page/火箭.md" title="wikilink">火箭</a>設計師。</p></td>
 </tr>
 <tr class="even">
 <td><p>Alexander</p></td>
@@ -179,7 +179,7 @@
 <td><p>Alfraganus</p></td>
 <td><p><a href="../Page/阿尔·法甘尼陨石坑.md" title="wikilink">阿尔·法甘尼</a></p></td>
 <td><p>20.52公里</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/阿尔·法甘尼" title="wikilink">阿尔·法甘尼</a>（Alfraganus，?-約 840），<a href="../Page/波斯.md" title="wikilink">波斯天文學家</a>。</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/阿尔·法甘尼" title="wikilink">阿尔·法甘尼</a>（Alfraganus，?-約 840），<a href="../Page/波斯.md" title="wikilink">波斯</a>天文學家。</p></td>
 </tr>
 <tr class="even">
 <td><p>Alhazen</p></td>
@@ -197,19 +197,19 @@
 <td><p>Al-Khwarizmi</p></td>
 <td><p><a href="../Page/花拉子密陨石坑.md" title="wikilink">花拉子密</a></p></td>
 <td><p>56.25公里</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/花拉子密" title="wikilink">花拉子密</a>（al-Khwarizmi，?-約 825）， <a href="../Page/波斯.md" title="wikilink">波斯天文學家暨數學家</a>。</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/花拉子密" title="wikilink">花拉子密</a>（al-Khwarizmi，?-約 825）， <a href="../Page/波斯.md" title="wikilink">波斯</a>天文學家暨數學家。</p></td>
 </tr>
 <tr class="odd">
 <td><p>Almanon</p></td>
 <td><p><a href="../Page/阿尔马农环形山.md" title="wikilink">阿尔马农</a></p></td>
 <td><p>47.76公里</p></td>
-<td><p><a href="../Page/阿布·阿拔斯·阿卜杜拉·马蒙·本·哈伦.md" title="wikilink">阿布·阿拔斯·阿卜杜拉·马蒙·本·哈伦</a>（Abdalla Al Mamun，786-833），<a href="https://zh.wikipedia.org/wiki/阿拉伯" title="wikilink">阿拉伯</a><a href="../Page/阿拔斯王朝.md" title="wikilink">阿拔斯王朝第七代</a><a href="https://zh.wikipedia.org/wiki/哈里發" title="wikilink">哈里發</a>。</p></td>
+<td><p><a href="../Page/阿布·阿拔斯·阿卜杜拉·马蒙·本·哈伦.md" title="wikilink">阿布·阿拔斯·阿卜杜拉·马蒙·本·哈伦</a>（Abdalla Al Mamun，786-833），<a href="https://zh.wikipedia.org/wiki/阿拉伯" title="wikilink">阿拉伯</a><a href="../Page/阿拔斯王朝.md" title="wikilink">阿拔斯王朝</a>第七代<a href="https://zh.wikipedia.org/wiki/哈里發" title="wikilink">哈里發</a>。</p></td>
 </tr>
 <tr class="even">
 <td><p>Al-Marrakushi</p></td>
 <td><p><a href="../Page/阿尔马拉古什陨石坑.md" title="wikilink">阿尔马拉古什</a></p></td>
 <td><p>8.57公里</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/阿尔马拉古什" title="wikilink">阿尔马拉古什</a>（Al-Marrakushi，活躍於1281-2 A.D.），<a href="../Page/穆斯林.md" title="wikilink">穆斯林史學家</a>、天文學家暨數學家。</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/阿尔马拉古什" title="wikilink">阿尔马拉古什</a>（Al-Marrakushi，活躍於1281-2 A.D.），<a href="../Page/穆斯林.md" title="wikilink">穆斯林</a>史學家、天文學家暨數學家。</p></td>
 </tr>
 <tr class="odd">
 <td><p>Aloha</p></td>
@@ -233,19 +233,19 @@
 <td><p>Alter</p></td>
 <td><p><a href="../Page/奥尔特环形山.md" title="wikilink">奥尔特</a></p></td>
 <td><p>64.73公里</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/丁斯摩尔·奥尔特" title="wikilink">丁斯摩尔·奥尔特</a>（Dinsmore Alter，1888-1968），<a href="../Page/美国.md" title="wikilink">美国天文学家暨气象学家</a>。</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/丁斯摩尔·奥尔特" title="wikilink">丁斯摩尔·奥尔特</a>（Dinsmore Alter，1888-1968），<a href="../Page/美国.md" title="wikilink">美国</a>天文学家暨气象学家。</p></td>
 </tr>
 <tr class="odd">
 <td><p>Ameghino</p></td>
 <td><p><a href="../Page/阿米希诺陨石坑.md" title="wikilink">阿米希诺</a></p></td>
 <td><p>9.2公里</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/佛羅倫天奴·阿米希诺" title="wikilink">佛羅倫天奴·阿米希诺</a>（Florentino Ameghino，1854-1911），<a href="../Page/阿根廷.md" title="wikilink">阿根廷意裔古生物學家</a>、動物學家暨人類學家。</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/佛羅倫天奴·阿米希诺" title="wikilink">佛羅倫天奴·阿米希诺</a>（Florentino Ameghino，1854-1911），<a href="../Page/阿根廷.md" title="wikilink">阿根廷</a>意裔古生物學家、動物學家暨人類學家。</p></td>
 </tr>
 <tr class="even">
 <td><p>Amici</p></td>
 <td><p><a href="../Page/阿米奇环形山.md" title="wikilink">阿米奇</a></p></td>
 <td><p>52.03公里</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/喬凡尼·阿米奇" title="wikilink">喬凡尼·阿米奇</a>（Giovanni Amici，1786-1863），<a href="../Page/意大利.md" title="wikilink">意大利天文學家暨微生物學家</a>。</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/喬凡尼·阿米奇" title="wikilink">喬凡尼·阿米奇</a>（Giovanni Amici，1786-1863），<a href="../Page/意大利.md" title="wikilink">意大利</a>天文學家暨微生物學家。</p></td>
 </tr>
 <tr class="odd">
 <td><p>Ammonius</p></td>
@@ -263,7 +263,7 @@
 <td><p>Amundsen</p></td>
 <td><p><a href="../Page/阿蒙森环形山.md" title="wikilink">阿蒙森</a></p></td>
 <td><p>103.39公里</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/罗尔德·亚孟森" title="wikilink">罗尔德·阿蒙森</a>（Roald Amundsen，1872-1928）， <a href="../Page/挪威.md" title="wikilink">挪威極地探險家</a>，首位到達<a href="https://zh.wikipedia.org/wiki/南極點" title="wikilink">南極點的人</a>。</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/罗尔德·亚孟森" title="wikilink">罗尔德·阿蒙森</a>（Roald Amundsen，1872-1928）， <a href="../Page/挪威.md" title="wikilink">挪威</a>極地探險家，首位到達<a href="https://zh.wikipedia.org/wiki/南極點" title="wikilink">南極點的人</a>。</p></td>
 </tr>
 <tr class="even">
 <td><p>Anaxagoras</p></td>
@@ -287,7 +287,7 @@
 <td><p>Anděl</p></td>
 <td><p><a href="../Page/安德尔陨石坑.md" title="wikilink">安德尔</a></p></td>
 <td><p>32.93公里</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/卡雷尔·安德尔" title="wikilink">卡雷尔·安德尔</a>（Karel Anděl，1884-1947），<a href="../Page/捷克.md" title="wikilink">捷克天文學家</a>。</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/卡雷尔·安德尔" title="wikilink">卡雷尔·安德尔</a>（Karel Anděl，1884-1947），<a href="../Page/捷克.md" title="wikilink">捷克</a>天文學家。</p></td>
 </tr>
 <tr class="even">
 <td><p>Anders</p></td>
@@ -305,25 +305,25 @@
 <td><p>Andersson</p></td>
 <td><p><a href="../Page/安德逊陨石坑.md" title="wikilink">安德逊</a></p></td>
 <td><p>13.42公里</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/萊夫·安德遜" title="wikilink">萊夫·安德遜</a>（Leif Erland Andersson，1943-1979），<a href="../Page/瑞典.md" title="wikilink">瑞典天文學家</a>。</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/萊夫·安德遜" title="wikilink">萊夫·安德遜</a>（Leif Erland Andersson，1943-1979），<a href="../Page/瑞典.md" title="wikilink">瑞典</a>天文學家。</p></td>
 </tr>
 <tr class="odd">
 <td><p>Andronov</p></td>
 <td><p><a href="../Page/安德罗诺夫陨石坑.md" title="wikilink">安德罗诺夫</a></p></td>
 <td><p>16.57公里</p></td>
-<td><p><a href="../Page/亚历山大·安德罗诺夫.md" title="wikilink">亚历山大·安德罗诺夫</a>（Aleksandr Aleksandrovich Andronov，1901-1952），<a href="../Page/苏联.md" title="wikilink">苏联物理學家</a>。</p></td>
+<td><p><a href="../Page/亚历山大·安德罗诺夫.md" title="wikilink">亚历山大·安德罗诺夫</a>（Aleksandr Aleksandrovich Andronov，1901-1952），<a href="../Page/苏联.md" title="wikilink">苏联</a>物理學家。</p></td>
 </tr>
 <tr class="even">
 <td><p>Ango</p></td>
 <td><p><a href="../Page/安果陨石坑.md" title="wikilink">安果</a></p></td>
 <td><p>0.87公里</p></td>
-<td><p><a href="../Page/非洲.md" title="wikilink">非洲男性名字</a></p></td>
+<td><p><a href="../Page/非洲.md" title="wikilink">非洲</a>男性名字</p></td>
 </tr>
 <tr class="odd">
 <td><p>Ångström</p></td>
 <td><p><a href="../Page/埃格斯特朗陨石坑.md" title="wikilink">埃格斯特朗</a></p></td>
 <td><p>9.55公里</p></td>
-<td><p><a href="../Page/安德斯·埃格斯特朗.md" title="wikilink">安德斯·埃格斯特朗</a>（Anders Jonas Ångström，1814-1874）， <a href="../Page/瑞典.md" title="wikilink">瑞典物理學家</a>。</p></td>
+<td><p><a href="../Page/安德斯·埃格斯特朗.md" title="wikilink">安德斯·埃格斯特朗</a>（Anders Jonas Ångström，1814-1874）， <a href="../Page/瑞典.md" title="wikilink">瑞典</a>物理學家。</p></td>
 </tr>
 <tr class="even">
 <td><p>Ann</p></td>
@@ -347,7 +347,7 @@
 <td><p>Antoniadi</p></td>
 <td><p><a href="../Page/安东尼亚第环形山.md" title="wikilink">安东尼亚第</a></p></td>
 <td><p>137.92公里</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/欧仁·米歇尔·安东尼亚第" title="wikilink">欧仁·米歇尔·安东尼亚第</a>（Eugène Michel Antoniadi，1870-1944），<a href="../Page/希腊.md" title="wikilink">希腊天文學家</a>。</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/欧仁·米歇尔·安东尼亚第" title="wikilink">欧仁·米歇尔·安东尼亚第</a>（Eugène Michel Antoniadi，1870-1944），<a href="../Page/希腊.md" title="wikilink">希腊</a>天文學家。</p></td>
 </tr>
 <tr class="even">
 <td><p>Anuchin</p></td>
@@ -413,7 +413,7 @@
 <td><p>Argelander</p></td>
 <td><p><a href="../Page/阿格兰德陨石坑.md" title="wikilink">阿格兰德</a></p></td>
 <td><p>33.72公里</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/弗里德里希·威廉·奧古斯特·阿格兰德" title="wikilink">弗里德里希·威廉·奧古斯特·阿格兰德</a>（Friedrich Wilhelm August Argelander，1799-1875），<a href="../Page/普魯士.md" title="wikilink">普魯士天文學家</a>。</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/弗里德里希·威廉·奧古斯特·阿格兰德" title="wikilink">弗里德里希·威廉·奧古斯特·阿格兰德</a>（Friedrich Wilhelm August Argelander，1799-1875），<a href="../Page/普魯士.md" title="wikilink">普魯士</a>天文學家。</p></td>
 </tr>
 <tr class="odd">
 <td><p>Ariadaeus</p></td>
@@ -461,19 +461,19 @@
 <td><p>Arrhenius</p></td>
 <td><p><a href="../Page/阿伦尼乌斯陨石坑.md" title="wikilink">阿伦尼乌斯</a></p></td>
 <td><p>40.93公里</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/阿伦尼乌斯" title="wikilink">阿伦尼乌斯</a>（Svante Arrhenius，1859-1927），<a href="../Page/瑞典.md" title="wikilink">瑞典化學家</a>。</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/阿伦尼乌斯" title="wikilink">阿伦尼乌斯</a>（Svante Arrhenius，1859-1927），<a href="../Page/瑞典.md" title="wikilink">瑞典</a>化學家。</p></td>
 </tr>
 <tr class="odd">
 <td><p>Artamonov</p></td>
 <td><p><a href="../Page/阿尔塔莫诺夫陨石坑.md" title="wikilink">阿尔塔莫诺夫</a></p></td>
 <td><p>62.45公里</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/尼可萊·阿尔塔莫诺夫" title="wikilink">尼可萊·阿尔塔莫诺夫</a>（Nikolaj N. Artamonov，1906-1965）， <a href="https://zh.wikipedia.org/wiki/蘇聯" title="wikilink">蘇聯</a><a href="../Page/火箭.md" title="wikilink">火箭工程師</a>。</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/尼可萊·阿尔塔莫诺夫" title="wikilink">尼可萊·阿尔塔莫诺夫</a>（Nikolaj N. Artamonov，1906-1965）， <a href="https://zh.wikipedia.org/wiki/蘇聯" title="wikilink">蘇聯</a><a href="../Page/火箭.md" title="wikilink">火箭</a>工程師。</p></td>
 </tr>
 <tr class="even">
 <td><p>Artem'ev</p></td>
 <td><p><a href="../Page/阿提密夫环形山.md" title="wikilink">阿提密夫</a></p></td>
 <td><p>66.39公里</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/弗拉迪米爾·阿提密夫" title="wikilink">弗拉迪米爾·阿提密夫</a>（Vladimir A. Artemyev，1885-1962），<a href="https://zh.wikipedia.org/wiki/蘇聯" title="wikilink">蘇聯</a><a href="../Page/火箭.md" title="wikilink">火箭工程師</a>。</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/弗拉迪米爾·阿提密夫" title="wikilink">弗拉迪米爾·阿提密夫</a>（Vladimir A. Artemyev，1885-1962），<a href="https://zh.wikipedia.org/wiki/蘇聯" title="wikilink">蘇聯</a><a href="../Page/火箭.md" title="wikilink">火箭</a>工程師。</p></td>
 </tr>
 <tr class="odd">
 <td><p>Artemis</p></td>
@@ -503,13 +503,13 @@
 <td><p>Asada</p></td>
 <td><p><a href="../Page/麻田陨石坑.md" title="wikilink">麻田</a></p></td>
 <td><p>12.37公里</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/麻田剛立" title="wikilink">麻田剛立</a>（Goryu Asada，1734-1799），<a href="../Page/日本.md" title="wikilink">日本天文學家</a>。</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/麻田剛立" title="wikilink">麻田剛立</a>（Goryu Asada，1734-1799），<a href="../Page/日本.md" title="wikilink">日本</a>天文學家。</p></td>
 </tr>
 <tr class="even">
 <td><p>Asclepi</p></td>
 <td><p><a href="../Page/阿斯克勒皮陨石坑.md" title="wikilink">阿斯克勒皮</a></p></td>
 <td><p>40.56公里</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/吉塞普·阿斯克勒皮" title="wikilink">吉塞普·阿斯克勒皮</a>（Giuseppe Asclepi，1706-1776），<a href="../Page/意大利.md" title="wikilink">意大利天文學家暨物理學家</a>。</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/吉塞普·阿斯克勒皮" title="wikilink">吉塞普·阿斯克勒皮</a>（Giuseppe Asclepi，1706-1776），<a href="../Page/意大利.md" title="wikilink">意大利</a>天文學家暨物理學家。</p></td>
 </tr>
 <tr class="odd">
 <td><p>Ashbrook</p></td>
@@ -569,13 +569,13 @@
 <td><p>Avogadro</p></td>
 <td><p><a href="../Page/阿伏伽德罗环形山.md" title="wikilink">阿伏伽德罗</a></p></td>
 <td><p>129.84公里</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/阿莫迪歐·阿伏伽德羅" title="wikilink">阿莫迪歐·阿伏伽德羅</a>（Amedeo Avogadro，1776-1856），<a href="../Page/意大利.md" title="wikilink">意大利化學家</a>。</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/阿莫迪歐·阿伏伽德羅" title="wikilink">阿莫迪歐·阿伏伽德羅</a>（Amedeo Avogadro，1776-1856），<a href="../Page/意大利.md" title="wikilink">意大利</a>化學家。</p></td>
 </tr>
 <tr class="odd">
 <td><p>Azophi</p></td>
 <td><p><a href="../Page/阿左飞陨石坑.md" title="wikilink">阿左飞</a></p></td>
 <td><p>47.54公里</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/阿布德·热哈曼·阿尔苏飞" title="wikilink">阿布德·热哈曼·阿尔苏飞</a>（Abd Al-Rahman Al Sufi，903-986），<a href="../Page/波斯.md" title="wikilink">波斯天文學家</a>。</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/阿布德·热哈曼·阿尔苏飞" title="wikilink">阿布德·热哈曼·阿尔苏飞</a>（Abd Al-Rahman Al Sufi，903-986），<a href="../Page/波斯.md" title="wikilink">波斯</a>天文學家。</p></td>
 </tr>
 </tbody>
 </table>
@@ -638,7 +638,7 @@
 <td><p>Backlund</p></td>
 <td><p><a href="../Page/巴克伦德环形山.md" title="wikilink">巴克伦德</a></p></td>
 <td><p>75.46公里</p></td>
-<td><p><a href="../Page/奧斯卡·巴克隆德.md" title="wikilink">奧斯卡·巴克隆德</a>（Oskar Backlund，1846－1916），<a href="https://zh.wikipedia.org/wiki/俄羅斯" title="wikilink">俄羅斯</a><a href="../Page/瑞典.md" title="wikilink">瑞典裔天文學家</a>。</p></td>
+<td><p><a href="../Page/奧斯卡·巴克隆德.md" title="wikilink">奧斯卡·巴克隆德</a>（Oskar Backlund，1846－1916），<a href="https://zh.wikipedia.org/wiki/俄羅斯" title="wikilink">俄羅斯</a><a href="../Page/瑞典.md" title="wikilink">瑞典</a>裔天文學家。</p></td>
 </tr>
 <tr class="even">
 <td><p>Baco</p></td>
@@ -674,7 +674,7 @@
 <td><p>Balboa</p></td>
 <td><p><a href="../Page/巴尔沃亚环形山.md" title="wikilink">巴尔沃亚</a></p></td>
 <td><p>69.19公里</p></td>
-<td><p><a href="../Page/瓦斯科·努涅斯·德·巴尔沃亚.md" title="wikilink">瓦斯科·努涅斯·德·巴尔沃亚</a>（Vasco Núñez de Balboa，1475－1519），<a href="../Page/西班牙.md" title="wikilink">西班牙探險家</a>。</p></td>
+<td><p><a href="../Page/瓦斯科·努涅斯·德·巴尔沃亚.md" title="wikilink">瓦斯科·努涅斯·德·巴尔沃亚</a>（Vasco Núñez de Balboa，1475－1519），<a href="../Page/西班牙.md" title="wikilink">西班牙</a>探險家。</p></td>
 </tr>
 <tr class="even">
 <td><p>Baldet</p></td>
@@ -710,7 +710,7 @@
 <td><p>Banting</p></td>
 <td><p><a href="../Page/班廷陨石坑.md" title="wikilink">班廷</a></p></td>
 <td><p>5.15公里</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/弗雷德里克·格蘭特·班廷" title="wikilink">弗雷德里克·格蘭特·班廷爵士</a>(Sir Frederick Banting，1891－1941），<a href="../Page/加拿大.md" title="wikilink">加拿大醫學家</a>。</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/弗雷德里克·格蘭特·班廷" title="wikilink">弗雷德里克·格蘭特·班廷爵士</a>(Sir Frederick Banting，1891－1941），<a href="../Page/加拿大.md" title="wikilink">加拿大</a>醫學家。</p></td>
 </tr>
 <tr class="even">
 <td><p>Barbier</p></td>
@@ -734,7 +734,7 @@
 <td><p>Barocius</p></td>
 <td><p><a href="../Page/巴罗夏斯环形山.md" title="wikilink">巴罗夏斯</a></p></td>
 <td><p>82.72公里</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/弗朗切斯科·巴罗齐" title="wikilink">弗朗切斯科·巴罗齐</a>（Francesco Barozzi,活躍於1570年代），<a href="../Page/意大利.md" title="wikilink">意大利數學家暨天文學家</a>。</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/弗朗切斯科·巴罗齐" title="wikilink">弗朗切斯科·巴罗齐</a>（Francesco Barozzi,活躍於1570年代），<a href="../Page/意大利.md" title="wikilink">意大利</a>數學家暨天文學家。</p></td>
 </tr>
 <tr class="even">
 <td><p>Barringer</p></td>
@@ -758,7 +758,7 @@
 <td><p>Bawa</p></td>
 <td><p><a href="../Page/巴瓦陨石坑.md" title="wikilink">巴瓦</a></p></td>
 <td><p>1.57公里</p></td>
-<td><p><a href="../Page/非洲.md" title="wikilink">非洲男性名字</a></p></td>
+<td><p><a href="../Page/非洲.md" title="wikilink">非洲</a>男性名字</p></td>
 </tr>
 <tr class="even">
 <td><p>Bayer</p></td>
@@ -770,7 +770,7 @@
 <td><p>Beals</p></td>
 <td><p><a href="../Page/比尔斯环形山.md" title="wikilink">比尔斯</a></p></td>
 <td><p>52.61公里</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/卡萊爾·史密斯·比爾斯" title="wikilink">卡萊爾·史密斯·比爾斯</a>（Carlyle Smith Beals，1899－1979），<a href="../Page/加拿大.md" title="wikilink">加拿大天文學家</a>。</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/卡萊爾·史密斯·比爾斯" title="wikilink">卡萊爾·史密斯·比爾斯</a>（Carlyle Smith Beals，1899－1979），<a href="../Page/加拿大.md" title="wikilink">加拿大</a>天文學家。</p></td>
 </tr>
 <tr class="even">
 <td><p>Beaumont</p></td>
@@ -830,7 +830,7 @@
 <td><p>Bell</p></td>
 <td><p><a href="../Page/贝尔环形山.md" title="wikilink">贝尔</a></p></td>
 <td><p>86.33公里</p></td>
-<td><p><a href="../Page/亚历山大·格拉汉姆·贝尔.md" title="wikilink">亚历山大·格拉汉姆·贝尔</a>（Alexander Graham Bell，1847－1922），<a href="../Page/美国.md" title="wikilink">美国发明家</a>，<a href="https://zh.wikipedia.org/wiki/电話" title="wikilink">电話发明者</a>。</p></td>
+<td><p><a href="../Page/亚历山大·格拉汉姆·贝尔.md" title="wikilink">亚历山大·格拉汉姆·贝尔</a>（Alexander Graham Bell，1847－1922），<a href="../Page/美国.md" title="wikilink">美国</a>发明家，<a href="https://zh.wikipedia.org/wiki/电話" title="wikilink">电話发明者</a>。</p></td>
 </tr>
 <tr class="even">
 <td><p>Bellinsgauzen</p></td>
@@ -866,13 +866,13 @@
 <td><p>Bergman</p></td>
 <td><p><a href="../Page/贝格曼陨石坑.md" title="wikilink">贝格曼</a></p></td>
 <td><p>22.51公里</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/托伯恩·贝格曼" title="wikilink">托伯恩·贝格曼</a>（Torbern Bergman，1735－1784），<a href="../Page/瑞典.md" title="wikilink">瑞典化學家暨礦物學家</a>。</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/托伯恩·贝格曼" title="wikilink">托伯恩·贝格曼</a>（Torbern Bergman，1735－1784），<a href="../Page/瑞典.md" title="wikilink">瑞典</a>化學家暨礦物學家。</p></td>
 </tr>
 <tr class="even">
 <td><p>Bergstrand</p></td>
 <td><p><a href="../Page/贝格斯特兰陨石坑.md" title="wikilink">贝格斯特兰</a></p></td>
 <td><p>42.98公里</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/奧斯頓·贝格斯特兰" title="wikilink">卡尔·奧斯頓·伊曼纽尔·貝格斯特兰</a>（Carl Östen Emanuel Bergstrand，1873－1948），<a href="../Page/瑞典.md" title="wikilink">瑞典天文學家</a>。</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/奧斯頓·贝格斯特兰" title="wikilink">卡尔·奧斯頓·伊曼纽尔·貝格斯特兰</a>（Carl Östen Emanuel Bergstrand，1873－1948），<a href="../Page/瑞典.md" title="wikilink">瑞典</a>天文學家。</p></td>
 </tr>
 <tr class="odd">
 <td><p>Berkner</p></td>
@@ -902,13 +902,13 @@
 <td><p>Berosus</p></td>
 <td><p><a href="../Page/贝罗索斯环形山.md" title="wikilink">贝罗索斯</a></p></td>
 <td><p>75.24公里</p></td>
-<td><p><a href="../Page/迦勒底.md" title="wikilink">迦勒底的</a><a href="https://zh.wikipedia.org/wiki/贝罗索斯" title="wikilink">贝罗索斯</a>（Berosus the Chaldean,約公元前350/340年－公元前280/270年），<a href="https://zh.wikipedia.org/wiki/希腊化时代" title="wikilink">古希腊时期</a>[[巴比倫歷史家、占星家暨哲學家。</p></td>
+<td><p><a href="../Page/迦勒底.md" title="wikilink">迦勒底</a>的<a href="https://zh.wikipedia.org/wiki/贝罗索斯" title="wikilink">贝罗索斯</a>（Berosus the Chaldean,約公元前350/340年－公元前280/270年），<a href="https://zh.wikipedia.org/wiki/希腊化时代" title="wikilink">古希腊时期</a>[[巴比倫歷史家、占星家暨哲學家。</p></td>
 </tr>
 <tr class="even">
 <td><p>Berzelius</p></td>
 <td><p><a href="../Page/贝采利乌斯陨石坑.md" title="wikilink">贝采利乌斯</a></p></td>
 <td><p>48.53公里</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/贝采利乌斯" title="wikilink">永斯·雅各布·贝采利乌斯伯爵</a>(Jöns Jakob Berzelius，1779－1848），<a href="../Page/瑞典.md" title="wikilink">瑞典化學家</a>。</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/贝采利乌斯" title="wikilink">永斯·雅各布·贝采利乌斯伯爵</a>(Jöns Jakob Berzelius，1779－1848），<a href="../Page/瑞典.md" title="wikilink">瑞典</a>化學家。</p></td>
 </tr>
 <tr class="odd">
 <td><p>Bessarion</p></td>
@@ -926,19 +926,19 @@
 <td><p>Bettinus</p></td>
 <td><p><a href="../Page/贝蒂尼环形山.md" title="wikilink">贝蒂尼</a></p></td>
 <td><p>71.78公里</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/馬利歐·貝蒂尼" title="wikilink">馬利歐·貝蒂尼</a>（Mario Bettini，1582－1657），<a href="../Page/意大利.md" title="wikilink">意大利哲學家</a>、天文學家暨數學家。</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/馬利歐·貝蒂尼" title="wikilink">馬利歐·貝蒂尼</a>（Mario Bettini，1582－1657），<a href="../Page/意大利.md" title="wikilink">意大利</a>哲學家、天文學家暨數學家。</p></td>
 </tr>
 <tr class="even">
 <td><p>Bhabha</p></td>
 <td><p><a href="../Page/巴巴环形山.md" title="wikilink">巴巴</a></p></td>
 <td><p>70.25公里</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/霍米·贾汗季·巴巴" title="wikilink">霍米·贾汗季·巴巴</a>（Homi Jehangir Bhabha，1909－1966），<a href="../Page/印度.md" title="wikilink">印度核子物理學家</a>，对印度的<a href="../Page/核技术.md" title="wikilink">核技术发展作出了重要作用</a>。</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/霍米·贾汗季·巴巴" title="wikilink">霍米·贾汗季·巴巴</a>（Homi Jehangir Bhabha，1909－1966），<a href="../Page/印度.md" title="wikilink">印度</a>核子物理學家，对印度的<a href="../Page/核技术.md" title="wikilink">核技术</a>发展作出了重要作用。</p></td>
 </tr>
 <tr class="odd">
 <td><p>Bianchini</p></td>
 <td><p><a href="../Page/比安基尼陨石坑.md" title="wikilink">比安基尼</a></p></td>
 <td><p>37.59公里</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/弗朗西斯科·比安基尼" title="wikilink">弗朗西斯科·比安基尼</a>（Francesco Bianchini，1662－1729），<a href="../Page/意大利.md" title="wikilink">意大利天文學家暨哲學家</a>。</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/弗朗西斯科·比安基尼" title="wikilink">弗朗西斯科·比安基尼</a>（Francesco Bianchini，1662－1729），<a href="../Page/意大利.md" title="wikilink">意大利</a>天文學家暨哲學家。</p></td>
 </tr>
 <tr class="even">
 <td><p>Biela</p></td>
@@ -974,7 +974,7 @@
 <td><p>Birkeland</p></td>
 <td><p><a href="../Page/伯克兰环形山.md" title="wikilink">伯克兰</a></p></td>
 <td><p>81.64公里</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/克雷斯蒂安·伯克兰" title="wikilink">克雷斯蒂安·伯克兰</a>（Kristian Birkeland，1867－1917），<a href="../Page/挪威.md" title="wikilink">挪威地球物理學家</a>。</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/克雷斯蒂安·伯克兰" title="wikilink">克雷斯蒂安·伯克兰</a>（Kristian Birkeland，1867－1917），<a href="../Page/挪威.md" title="wikilink">挪威</a>地球物理學家。</p></td>
 </tr>
 <tr class="even">
 <td><p>Birkhoff</p></td>
@@ -998,13 +998,13 @@
 <td><p>Bi Sheng</p></td>
 <td><p><a href="../Page/毕昇环形山.md" title="wikilink">毕昇</a></p></td>
 <td><p>55.27公里</p></td>
-<td><p><a href="../Page/毕昇.md" title="wikilink">毕昇</a>（?－1051年），<a href="https://zh.wikipedia.org/wiki/中国" title="wikilink">中国</a><a href="../Page/宋朝.md" title="wikilink">宋朝</a><a href="../Page/活字印刷术.md" title="wikilink">活字印刷术发明者</a>。</p></td>
+<td><p><a href="../Page/毕昇.md" title="wikilink">毕昇</a>（?－1051年），<a href="https://zh.wikipedia.org/wiki/中国" title="wikilink">中国</a><a href="../Page/宋朝.md" title="wikilink">宋朝</a><a href="../Page/活字印刷术.md" title="wikilink">活字印刷术</a>发明者。</p></td>
 </tr>
 <tr class="even">
 <td><p>Bjerknes</p></td>
 <td><p><a href="../Page/比耶克尼斯陨石坑.md" title="wikilink">比耶克尼斯</a></p></td>
 <td><p>48.18公里</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/威廉·比耶克尼斯" title="wikilink">威廉·比耶克尼斯</a>（Vilhelm Bjerknes，1862－1951），<a href="../Page/挪威.md" title="wikilink">挪威氣象學家</a>。</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/威廉·比耶克尼斯" title="wikilink">威廉·比耶克尼斯</a>（Vilhelm Bjerknes，1862－1951），<a href="../Page/挪威.md" title="wikilink">挪威</a>氣象學家。</p></td>
 </tr>
 <tr class="odd">
 <td><p>Black</p></td>
@@ -1028,7 +1028,7 @@
 <td><p>Blancanus</p></td>
 <td><p><a href="../Page/布兰卡纳斯环形山.md" title="wikilink">布兰卡纳斯</a></p></td>
 <td><p>105.82公里</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/朱塞佩·布兰卡纳斯" title="wikilink">朱塞佩·布兰卡纳斯</a>（Giuseppe Biancani，1566－1624），<a href="../Page/意大利.md" title="wikilink">意大利天文學家暨數學家</a>。</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/朱塞佩·布兰卡纳斯" title="wikilink">朱塞佩·布兰卡纳斯</a>（Giuseppe Biancani，1566－1624），<a href="../Page/意大利.md" title="wikilink">意大利</a>天文學家暨數學家。</p></td>
 </tr>
 <tr class="odd">
 <td><p>Blanchard</p></td>
@@ -1040,7 +1040,7 @@
 <td><p>Blanchinus</p></td>
 <td><p><a href="../Page/比安基奴斯环形山.md" title="wikilink">比安基奴斯</a></p></td>
 <td><p>59.9公里</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/乔凡尼·比安契尼" title="wikilink">乔凡尼·比安契尼</a>（Giovanni Bianchini,跃于1458年），<a href="../Page/意大利.md" title="wikilink">意大利天文學家</a>。</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/乔凡尼·比安契尼" title="wikilink">乔凡尼·比安契尼</a>（Giovanni Bianchini,跃于1458年），<a href="../Page/意大利.md" title="wikilink">意大利</a>天文學家。</p></td>
 </tr>
 <tr class="odd">
 <td><p>Blazhko</p></td>
@@ -1064,7 +1064,7 @@
 <td><p>Bobone</p></td>
 <td><p><a href="../Page/波邦内陨石坑.md" title="wikilink">波邦內</a></p></td>
 <td><p>32.14公里</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/豪尔赫·波邦內" title="wikilink">豪尔赫·波邦內</a>（Jorge Bobone，1901－1958），<a href="../Page/阿根廷.md" title="wikilink">阿根廷天文學家</a>。</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/豪尔赫·波邦內" title="wikilink">豪尔赫·波邦內</a>（Jorge Bobone，1901－1958），<a href="../Page/阿根廷.md" title="wikilink">阿根廷</a>天文學家。</p></td>
 </tr>
 <tr class="odd">
 <td><p>Bode</p></td>
@@ -1118,7 +1118,7 @@
 <td><p>Bolyai</p></td>
 <td><p><a href="../Page/鲍耶环形山.md" title="wikilink">鲍耶</a></p></td>
 <td><p>102.22公里</p></td>
-<td><p><a href="../Page/鲍耶·亚诺什.md" title="wikilink">鲍耶·亚诺什</a>（Janos Bolyai，1802－1860），<a href="../Page/匈牙利.md" title="wikilink">匈牙利數學家</a>。</p></td>
+<td><p><a href="../Page/鲍耶·亚诺什.md" title="wikilink">鲍耶·亚诺什</a>（Janos Bolyai，1802－1860），<a href="../Page/匈牙利.md" title="wikilink">匈牙利</a>數學家。</p></td>
 </tr>
 <tr class="even">
 <td><p>Bombelli</p></td>
@@ -1130,7 +1130,7 @@
 <td><p>Bondarenko</p></td>
 <td><p><a href="../Page/邦达连科陨石坑.md" title="wikilink">邦达连科</a></p></td>
 <td><p>28.26公里</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/瓦连京·瓦西里耶维奇·邦达连科" title="wikilink">瓦连京·瓦西里耶维奇·邦达连科</a>（Valentin Vasiliyevich Bondarenko，1937－1961），前苏联作为<a href="../Page/宇航员.md" title="wikilink">宇航员培训的战斗机飞行员</a>，在<a href="../Page/莫斯科.md" title="wikilink">莫斯科进行耐低压测试中被意外烧死</a>。</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/瓦连京·瓦西里耶维奇·邦达连科" title="wikilink">瓦连京·瓦西里耶维奇·邦达连科</a>（Valentin Vasiliyevich Bondarenko，1937－1961），前苏联作为<a href="../Page/宇航员.md" title="wikilink">宇航员</a>培训的战斗机飞行员，在<a href="../Page/莫斯科.md" title="wikilink">莫斯科</a>进行耐低压测试中被意外烧死。</p></td>
 </tr>
 <tr class="even">
 <td><p>Bonpland</p></td>
@@ -1142,19 +1142,19 @@
 <td><p>Boole</p></td>
 <td><p><a href="../Page/布尔环形山.md" title="wikilink">布尔</a></p></td>
 <td><p>61.34公里</p></td>
-<td><p><a href="../Page/乔治·布尔.md" title="wikilink">乔治·布尔</a>（George Boole，1815－1864），英国数学家、哲学家和逻辑学家，主要研究<a href="../Page/微分方程.md" title="wikilink">微分方程和</a><a href="../Page/代数逻辑.md" title="wikilink">代数逻辑</a>，著名《思维法则》的作者。</p></td>
+<td><p><a href="../Page/乔治·布尔.md" title="wikilink">乔治·布尔</a>（George Boole，1815－1864），英国数学家、哲学家和逻辑学家，主要研究<a href="../Page/微分方程.md" title="wikilink">微分方程</a>和<a href="../Page/代数逻辑.md" title="wikilink">代数逻辑</a>，著名《思维法则》的作者。</p></td>
 </tr>
 <tr class="even">
 <td><p>Borda</p></td>
 <td><p><a href="../Page/波达陨石坑.md" title="wikilink">波达</a></p></td>
 <td><p>45.4公里</p></td>
-<td><p>（Jean-Charles de Borda，1733－1799），法国<a href="../Page/数学家.md" title="wikilink">数学家</a>、<a href="../Page/物理学家.md" title="wikilink">物理学家</a>、<a href="../Page/政治家.md" title="wikilink">政治家和</a><a href="../Page/海军.md" title="wikilink">海军军官</a>。</p></td>
+<td><p>（Jean-Charles de Borda，1733－1799），法国<a href="../Page/数学家.md" title="wikilink">数学家</a>、<a href="../Page/物理学家.md" title="wikilink">物理学家</a>、<a href="../Page/政治家.md" title="wikilink">政治家</a>和<a href="../Page/海军.md" title="wikilink">海军</a>军官。</p></td>
 </tr>
 <tr class="odd">
 <td><p>Borel</p></td>
 <td><p><a href="../Page/博雷尔陨石坑.md" title="wikilink">博雷尔</a></p></td>
 <td><p>4.66公里</p></td>
-<td><p>费力克斯-爱德华-朱斯坦-埃米尔·博雷尔(Félix-Édouard-Justin-Émile Borel，1871－1956），法国<a href="../Page/数学家.md" title="wikilink">数学家和</a><a href="../Page/政治家.md" title="wikilink">政治家</a>。</p></td>
+<td><p>费力克斯-爱德华-朱斯坦-埃米尔·博雷尔(Félix-Édouard-Justin-Émile Borel，1871－1956），法国<a href="../Page/数学家.md" title="wikilink">数学家</a>和<a href="../Page/政治家.md" title="wikilink">政治家</a>。</p></td>
 </tr>
 <tr class="even">
 <td><p>Boris</p></td>
@@ -1166,13 +1166,13 @@
 <td><p>Borman</p></td>
 <td><p><a href="../Page/博尔曼环形山.md" title="wikilink">博尔曼</a></p></td>
 <td><p>50.72公里</p></td>
-<td><p><a href="../Page/弗兰克·博尔曼.md" title="wikilink">弗兰克·弗莱德里克·博尔曼二世</a>（Frank Frederick Borman,II，1928－），美国国家航空航天局宇航员，以执行首次环绕月球的<a href="../Page/阿波罗8号.md" title="wikilink">阿波罗8号任务而闻名</a>。</p></td>
+<td><p><a href="../Page/弗兰克·博尔曼.md" title="wikilink">弗兰克·弗莱德里克·博尔曼二世</a>（Frank Frederick Borman,II，1928－），美国国家航空航天局宇航员，以执行首次环绕月球的<a href="../Page/阿波罗8号.md" title="wikilink">阿波罗8号</a>任务而闻名。</p></td>
 </tr>
 <tr class="even">
 <td><p>Born</p></td>
 <td><p><a href="../Page/玻恩陨石坑.md" title="wikilink">玻恩</a></p></td>
 <td><p>15.07公里</p></td>
-<td><p><a href="../Page/马克斯·玻恩.md" title="wikilink">马克斯·玻恩</a>（Max Born，1882－1970），德国犹太裔物理学家，<a href="../Page/量子力学.md" title="wikilink">量子力学创始人之一</a>。</p></td>
+<td><p><a href="../Page/马克斯·玻恩.md" title="wikilink">马克斯·玻恩</a>（Max Born，1882－1970），德国犹太裔物理学家，<a href="../Page/量子力学.md" title="wikilink">量子力学</a>创始人之一。</p></td>
 </tr>
 <tr class="odd">
 <td><p>Borya</p></td>
@@ -1184,7 +1184,7 @@
 <td><p>Bosch</p></td>
 <td><p><a href="../Page/博施陨石坑.md" title="wikilink">博施</a></p></td>
 <td><p>19.58公里</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/卡尔·博施" title="wikilink">卡尔·博施</a>（Carl Bosch，1874－1940），德国化学家与工程师，1931年<a href="../Page/诺贝尔化学奖.md" title="wikilink">诺贝尔化学奖及</a>1939年<a href="https://zh.wikipedia.org/wiki/歌德奖" title="wikilink">歌德奖获得者</a>。</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/卡尔·博施" title="wikilink">卡尔·博施</a>（Carl Bosch，1874－1940），德国化学家与工程师，1931年<a href="../Page/诺贝尔化学奖.md" title="wikilink">诺贝尔化学奖</a>及1939年<a href="https://zh.wikipedia.org/wiki/歌德奖" title="wikilink">歌德奖获得者</a>。</p></td>
 </tr>
 <tr class="odd">
 <td><p>Boscovich</p></td>
@@ -1196,13 +1196,13 @@
 <td><p>Bose</p></td>
 <td><p><a href="../Page/博斯环形山.md" title="wikilink">博斯</a></p></td>
 <td><p>92.55公里</p></td>
-<td><p><a href="../Page/贾格迪什·钱德拉·博斯.md" title="wikilink">贾格迪什·钱德拉·博斯</a>（Jagadis Chandra Bose，1858－1937)<a href="../Page/孟加拉国.md" title="wikilink">孟加拉国</a><a href="../Page/物理学家.md" title="wikilink">物理学家</a>、<a href="https://zh.wikipedia.org/wiki/生物学家" title="wikilink">生物学家</a>、<a href="../Page/生物物理学.md" title="wikilink">生物物理学家</a>、<a href="https://zh.wikipedia.org/wiki/植物学家" title="wikilink">植物学家</a>、<a href="https://zh.wikipedia.org/wiki/考古学家" title="wikilink">考古学家和</a><a href="https://zh.wikipedia.org/wiki/推想小说" title="wikilink">推想小说</a><a href="https://zh.wikipedia.org/wiki/作家" title="wikilink">作家暨</a><a href="../Page/百科全书.md" title="wikilink">百科全书编纂者</a>。</p></td>
+<td><p><a href="../Page/贾格迪什·钱德拉·博斯.md" title="wikilink">贾格迪什·钱德拉·博斯</a>（Jagadis Chandra Bose，1858－1937)<a href="../Page/孟加拉国.md" title="wikilink">孟加拉国</a><a href="../Page/物理学家.md" title="wikilink">物理学家</a>、<a href="https://zh.wikipedia.org/wiki/生物学家" title="wikilink">生物学家</a>、<a href="../Page/生物物理学.md" title="wikilink">生物物理学</a>家、<a href="https://zh.wikipedia.org/wiki/植物学家" title="wikilink">植物学家</a>、<a href="https://zh.wikipedia.org/wiki/考古学家" title="wikilink">考古学家和</a><a href="https://zh.wikipedia.org/wiki/推想小说" title="wikilink">推想小说</a><a href="https://zh.wikipedia.org/wiki/作家" title="wikilink">作家暨</a><a href="../Page/百科全书.md" title="wikilink">百科全书</a>编纂者。</p></td>
 </tr>
 <tr class="odd">
 <td><p>Boss</p></td>
 <td><p><a href="../Page/刘易斯·博斯环形山.md" title="wikilink">刘易斯·博斯</a></p></td>
 <td><p>50.2公里</p></td>
-<td><p><a href="../Page/刘易斯·博斯.md" title="wikilink">刘易斯·博斯</a>（Lewis Boss，1846－1912），美国天文学家，曾担任<a href="../Page/纽约州.md" title="wikilink">纽约州</a><a href="../Page/达德利天文台.md" title="wikilink">达德利天文台台长</a>。</p></td>
+<td><p><a href="../Page/刘易斯·博斯.md" title="wikilink">刘易斯·博斯</a>（Lewis Boss，1846－1912），美国天文学家，曾担任<a href="../Page/纽约州.md" title="wikilink">纽约州</a><a href="../Page/达德利天文台.md" title="wikilink">达德利天文台</a>台长。</p></td>
 </tr>
 <tr class="even">
 <td><p>Bouguer</p></td>
@@ -1214,7 +1214,7 @@
 <td><p>Boussingault</p></td>
 <td><p><a href="../Page/布森戈环形山.md" title="wikilink">布森戈</a></p></td>
 <td><p>127.61公里</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/让-巴蒂斯特·布森戈" title="wikilink">让-巴蒂斯特·布森戈</a>（Jean Baptiste Boussingault，1802－1887），曾对<a href="../Page/农业.md" title="wikilink">农业</a>、<a href="../Page/石油.md" title="wikilink">石油和</a><a href="https://zh.wikipedia.org/wiki/冶金" title="wikilink">冶金科学作出重要贡献的法国化学家</a>。</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/让-巴蒂斯特·布森戈" title="wikilink">让-巴蒂斯特·布森戈</a>（Jean Baptiste Boussingault，1802－1887），曾对<a href="../Page/农业.md" title="wikilink">农业</a>、<a href="../Page/石油.md" title="wikilink">石油</a>和<a href="https://zh.wikipedia.org/wiki/冶金" title="wikilink">冶金科学作出重要贡献的法国化学家</a>。</p></td>
 </tr>
 <tr class="even">
 <td><p>Bowditch</p></td>
@@ -1256,7 +1256,7 @@
 <td><p>Braude</p></td>
 <td><p><a href="../Page/布劳德陨石坑.md" title="wikilink">布劳德</a></p></td>
 <td><p>11.28公里</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/塞米翁·布劳德" title="wikilink">塞米翁·布劳德</a>（Semion Braude，1911－2003），<a href="../Page/乌克兰.md" title="wikilink">乌克兰犹太裔物理学家和射电天文学家</a>。</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/塞米翁·布劳德" title="wikilink">塞米翁·布劳德</a>（Semion Braude，1911－2003），<a href="../Page/乌克兰.md" title="wikilink">乌克兰</a>犹太裔物理学家和射电天文学家。</p></td>
 </tr>
 <tr class="odd">
 <td><p>Brayley</p></td>
@@ -1280,7 +1280,7 @@
 <td><p>Brenner</p></td>
 <td><p><a href="../Page/勃伦纳环形山.md" title="wikilink">勃伦纳</a></p></td>
 <td><p>90.01公里</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/利奥·勃伦纳" title="wikilink">利奥·勃伦纳</a>（Leo Brenner，1855－1928），出生于<a href="../Page/的里雅斯特.md" title="wikilink">的里雅斯特的</a><a href="../Page/塞尔维亚.md" title="wikilink">塞尔维亚裔奥地利</a><a href="../Page/天文学家.md" title="wikilink">天文学家和</a><a href="https://zh.wikipedia.org/wiki/历史学家" title="wikilink">历史学家</a>。</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/利奥·勃伦纳" title="wikilink">利奥·勃伦纳</a>（Leo Brenner，1855－1928），出生于<a href="../Page/的里雅斯特.md" title="wikilink">的里雅斯特</a>的<a href="../Page/塞尔维亚.md" title="wikilink">塞尔维亚</a>裔奥地利<a href="../Page/天文学家.md" title="wikilink">天文学家</a>和<a href="https://zh.wikipedia.org/wiki/历史学家" title="wikilink">历史学家</a>。</p></td>
 </tr>
 <tr class="odd">
 <td><p>Brewster</p></td>
@@ -1298,7 +1298,7 @@
 <td><p>Bridgman</p></td>
 <td><p><a href="../Page/布里奇曼环形山.md" title="wikilink">布里奇曼</a></p></td>
 <td><p>81.89公里</p></td>
-<td><p><a href="../Page/珀西·布里奇曼.md" title="wikilink">珀西·威廉姆斯·布里奇曼</a>（Percy Williams Bridgman，1882－1961），美国物理学家，1946年<a href="../Page/诺贝尔物理学奖.md" title="wikilink">诺贝尔物理学奖获得者</a>。</p></td>
+<td><p><a href="../Page/珀西·布里奇曼.md" title="wikilink">珀西·威廉姆斯·布里奇曼</a>（Percy Williams Bridgman，1882－1961），美国物理学家，1946年<a href="../Page/诺贝尔物理学奖.md" title="wikilink">诺贝尔物理学奖</a>获得者。</p></td>
 </tr>
 <tr class="even">
 <td><p>Briggs</p></td>
@@ -1310,7 +1310,7 @@
 <td><p>Brisbane</p></td>
 <td><p><a href="../Page/布里斯班陨石坑.md" title="wikilink">布里斯班</a></p></td>
 <td><p>44.32公里</p></td>
-<td><p><a href="../Page/托马斯·麦克杜格尔·布里斯班.md" title="wikilink">托马斯·麦克杜格尔·布里斯班爵士</a>(Sir Thomas Makdougall Brisbane，1770－1860），<a href="https://zh.wikipedia.org/wiki/苏格兰" title="wikilink">苏格兰天文学家</a>，建立澳大利亚第一个观测站，1821年至1825年<a href="https://zh.wikipedia.org/wiki/新南威尔士总督" title="wikilink">新南威尔士总督</a>。</p></td>
+<td><p><a href="../Page/托马斯·麦克杜格尔·布里斯班.md" title="wikilink">托马斯·麦克杜格尔·布里斯班</a>爵士(Sir Thomas Makdougall Brisbane，1770－1860），<a href="https://zh.wikipedia.org/wiki/苏格兰" title="wikilink">苏格兰天文学家</a>，建立澳大利亚第一个观测站，1821年至1825年<a href="https://zh.wikipedia.org/wiki/新南威尔士总督" title="wikilink">新南威尔士总督</a>。</p></td>
 </tr>
 <tr class="even">
 <td><p>Bronk</p></td>
@@ -1325,7 +1325,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/德克·布劳威尔" title="wikilink">德克·布劳威尔</a>（Dirk Brouwer，1902－1966），荷兰裔美国天文学家。主要研究<a href="https://zh.wikipedia.org/wiki/天体力学" title="wikilink">天体力学</a>，并写有《天体力学方法论》，1955年他获得了<a href="https://zh.wikipedia.org/wiki/英国皇家天文学会" title="wikilink">英国皇家天文学会颁发的金奖</a>，1966年又获得了<a href="https://zh.wikipedia.org/wiki/布鲁斯奖" title="wikilink">布鲁斯奖</a>。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/鲁伊兹·布劳威尔.md" title="wikilink">鲁伊兹·埃赫贝特斯·简·布劳威尔</a>（Luitzen Egbertus Jan Brouwer，1881－1968），荷兰数学家和哲学家，数学<a href="../Page/直觉主义.md" title="wikilink">直觉主义流派的创始人</a>，在<a href="../Page/拓扑学.md" title="wikilink">拓扑学</a>、<a href="../Page/集合论.md" title="wikilink">集合论</a>、<a href="https://zh.wikipedia.org/wiki/测度论" title="wikilink">测度论和</a><a href="https://zh.wikipedia.org/wiki/复分析" title="wikilink">复分析领域也有很多贡献</a>。</p></td>
+<td><p><a href="../Page/鲁伊兹·布劳威尔.md" title="wikilink">鲁伊兹·埃赫贝特斯·简·布劳威尔</a>（Luitzen Egbertus Jan Brouwer，1881－1968），荷兰数学家和哲学家，数学<a href="../Page/直觉主义.md" title="wikilink">直觉主义</a>流派的创始人，在<a href="../Page/拓扑学.md" title="wikilink">拓扑学</a>、<a href="../Page/集合论.md" title="wikilink">集合论</a>、<a href="https://zh.wikipedia.org/wiki/测度论" title="wikilink">测度论和</a><a href="https://zh.wikipedia.org/wiki/复分析" title="wikilink">复分析领域也有很多贡献</a>。</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1370,13 +1370,13 @@
 <td><p>Bullialdus</p></td>
 <td><p><a href="../Page/布利奥环形山.md" title="wikilink">布利奥</a></p></td>
 <td><p>60.72公里</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/伊斯梅尔·布利奥" title="wikilink">伊斯梅尔·布利奥</a>（Ismael Bullialdus，1605－1694），十七世纪出生于法国<a href="https://zh.wikipedia.org/wiki/维埃纳省" title="wikilink">维埃纳省</a><a href="../Page/卢丹.md" title="wikilink">卢丹镇的著名天文学家和数学家</a>。1640年提出了重力的大小与距离平方成反比的建议。</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/伊斯梅尔·布利奥" title="wikilink">伊斯梅尔·布利奥</a>（Ismael Bullialdus，1605－1694），十七世纪出生于法国<a href="https://zh.wikipedia.org/wiki/维埃纳省" title="wikilink">维埃纳省</a><a href="../Page/卢丹.md" title="wikilink">卢丹</a>镇的著名天文学家和数学家。1640年提出了重力的大小与距离平方成反比的建议。</p></td>
 </tr>
 <tr class="even">
 <td><p>Bunsen</p></td>
 <td><p><a href="../Page/本生环形山.md" title="wikilink">本生</a></p></td>
 <td><p>55.22公里</p></td>
-<td><p><a href="../Page/罗伯特·威廉·本生.md" title="wikilink">罗伯特·威廉·本生</a>（Robert Bunsen，1811－1899），德国<a href="../Page/化学家.md" title="wikilink">化学家</a>，<a href="../Page/铯.md" title="wikilink">铯和</a><a href="../Page/铷.md" title="wikilink">铷</a><a href="https://zh.wikipedia.org/wiki/元素" title="wikilink">元素的发现者</a>，<a href="https://zh.wikipedia.org/wiki/本生灯" title="wikilink">本生灯以他命名</a>，此外他研究了热体的<a href="https://zh.wikipedia.org/wiki/电磁波谱" title="wikilink">电磁波谱</a>。</p></td>
+<td><p><a href="../Page/罗伯特·威廉·本生.md" title="wikilink">罗伯特·威廉·本生</a>（Robert Bunsen，1811－1899），德国<a href="../Page/化学家.md" title="wikilink">化学家</a>，<a href="../Page/铯.md" title="wikilink">铯</a>和<a href="../Page/铷.md" title="wikilink">铷</a><a href="https://zh.wikipedia.org/wiki/元素" title="wikilink">元素的发现者</a>，<a href="https://zh.wikipedia.org/wiki/本生灯" title="wikilink">本生灯以他命名</a>，此外他研究了热体的<a href="https://zh.wikipedia.org/wiki/电磁波谱" title="wikilink">电磁波谱</a>。</p></td>
 </tr>
 <tr class="odd">
 <td><p>Burckhardt</p></td>
@@ -1424,10 +1424,9 @@
 <td><p>Byrgius</p></td>
 <td><p><a href="../Page/比尔吉环形山.md" title="wikilink">比尔吉</a></p></td>
 <td><p>84.46公里</p></td>
-<td><p><a href="../Page/约斯特·比尔吉.md" title="wikilink">约斯特·比尔吉</a>（Joost Bürgi，1552－1632），活跃于<a href="https://zh.wikipedia.org/wiki/卡塞尔市" title="wikilink">卡塞尔和</a><a href="../Page/布拉格.md" title="wikilink">布拉格宫庭中的</a><a href="https://zh.wikipedia.org/wiki/瑞士" title="wikilink">瑞士钟表匠</a>、天文仪器制造师和数学家。</p></td>
+<td><p><a href="../Page/约斯特·比尔吉.md" title="wikilink">约斯特·比尔吉</a>（Joost Bürgi，1552－1632），活跃于<a href="https://zh.wikipedia.org/wiki/卡塞尔市" title="wikilink">卡塞尔和</a><a href="../Page/布拉格.md" title="wikilink">布拉格</a>宫庭中的<a href="https://zh.wikipedia.org/wiki/瑞士" title="wikilink">瑞士钟表匠</a>、天文仪器制造师和数学家。</p></td>
 </tr>
 </tbody>
 </table>
 
-[Category:月球列表](https://zh.wikipedia.org/wiki/Category:月球列表 "wikilink")
-[Category:月球環形山](https://zh.wikipedia.org/wiki/Category:月球環形山 "wikilink")
+[Category:月球列表](https://zh.wikipedia.org/wiki/Category:月球列表 "wikilink") [Category:月球環形山](https://zh.wikipedia.org/wiki/Category:月球環形山 "wikilink")

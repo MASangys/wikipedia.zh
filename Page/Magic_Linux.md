@@ -1,15 +1,8 @@
-**Magic Linux**，简称 MGC，是由中国Linux公社的社区会员制作的中文 Linux
-发行版，现基于[Fedora修改而来](../Page/Fedora.md "wikilink")。
+**Magic Linux**，简称 MGC，是由中国Linux公社的社区会员制作的中文 Linux 发行版，现基于[Fedora](../Page/Fedora.md "wikilink")修改而来。
 
 ## 历史
 
-2002年，cjacker 在中国Linux公社的论坛发布了自己为了学习而做的 Linux中文版，在 [Red
-Hat](https://zh.wikipedia.org/wiki/Red_Hat "wikilink")
-8.0的基础上修改而成，版本1.0。\[1\]之后 cjacker
-投身于北京中科红旗软件技术有限公司，Magic Linux
-后续开发遇到了前所未有的困难。KanKer、KDE、sejishikong 等中国
-Linux 公社会员加入了开发，重写了 Magic Linux，发布了 Magic Linux 2.0，最终形成了现在独立的稳定发行版本
-2.5.X和 2.6.X\[2\]，2014年开发组正积极地研发以 Live 安装为主的 3.0。
+2002年，cjacker 在中国Linux公社的论坛发布了自己为了学习而做的 Linux中文版，在 [Red Hat](https://zh.wikipedia.org/wiki/Red_Hat "wikilink") 8.0的基础上修改而成，版本1.0。\[1\]之后 cjacker 投身于北京中科红旗软件技术有限公司，Magic Linux 后续开发遇到了前所未有的困难。KanKer、KDE、sejishikong 等中国 Linux 公社会员加入了开发，重写了 Magic Linux，发布了 Magic Linux 2.0，最终形成了现在独立的稳定发行版本 2.5.X和 2.6.X\[2\]，2014年开发组正积极地研发以 Live 安装为主的 3.0。
 
 ## 发布历史
 

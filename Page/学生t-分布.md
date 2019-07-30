@@ -1,9 +1,4 @@
-\\\!</math> |cdf
-=\(\frac{1}{2} + \frac{x \Gamma \left( (\nu+1)/2 \right) \,_2F_1 \left ( \frac{1}{2},(\nu+1)/2;\frac{3}{2};-\frac{x^2}{\nu} \right)} {\sqrt{\pi\nu}\,\Gamma (\nu/2)}\)其中：\(\,_2F_1\)是[超几何函数](../Page/超几何函数.md "wikilink")
-|mean =\(\nu>1\)时为\(0\)，\(\nu=1\)时未定义 |median =\(0\) |mode =\(0\)
-|variance =\(\nu>2\)时为\(\frac{\nu}{\nu-2}\!\)，否则为无穷大 |skewness
-=\(\nu>3\)时为\(0\) |kurtosis =\(\nu>4\)时为\(\frac{6}{\nu-4}\!\) |entropy
-=\(\begin{matrix}
+\\\!</math> |cdf =\(\frac{1}{2} + \frac{x \Gamma \left( (\nu+1)/2 \right) \,_2F_1 \left ( \frac{1}{2},(\nu+1)/2;\frac{3}{2};-\frac{x^2}{\nu} \right)} {\sqrt{\pi\nu}\,\Gamma (\nu/2)}\)其中：\(\,_2F_1\)是[超几何函数](../Page/超几何函数.md "wikilink") |mean =\(\nu>1\)时为\(0\)，\(\nu=1\)时未定义 |median =\(0\) |mode =\(0\) |variance =\(\nu>2\)时为\(\frac{\nu}{\nu-2}\!\)，否则为无穷大 |skewness =\(\nu>3\)时为\(0\) |kurtosis =\(\nu>4\)时为\(\frac{6}{\nu-4}\!\) |entropy =\(\begin{matrix}
          \frac{\nu+1}{2}\left[
              \psi(\frac{1+\nu}{2})
                - \psi(\frac{\nu}{2})
@@ -14,30 +9,23 @@
   - \(\psi\): [双Γ函数](https://zh.wikipedia.org/wiki/双Γ函数 "wikilink"),
   - \(B\): [贝塔函数](https://zh.wikipedia.org/wiki/贝塔函数 "wikilink")
 
-|mgf =未定义 |char
-=\(\frac{K_{\nu/2}(\sqrt{\nu}|t|)(\sqrt{\nu}|t|)^{\nu/2}}{\Gamma(\nu/2)2^{\nu/2-1}},\;\nu>0\)
+|mgf =未定义 |char =\(\frac{K_{\nu/2}(\sqrt{\nu}|t|)(\sqrt{\nu}|t|)^{\nu/2}}{\Gamma(\nu/2)2^{\nu/2-1}},\;\nu>0\)
 
   - \(K_{\nu}(x)\): [第二类修正貝塞爾函數](../Page/贝塞尔函数.md "wikilink")
 
-}}
-在[概率论和](https://zh.wikipedia.org/wiki/概率论 "wikilink")[统计学中](../Page/统计学.md "wikilink")，**学生*t*-分布**（Student's
-*t*-distribution）可简称为***t*分布**，用于根据小样本来估計呈[正态分布且](../Page/正态分布.md "wikilink")[方差未知的总体的](../Page/方差.md "wikilink")[均值](https://zh.wikipedia.org/wiki/均值 "wikilink")。如果总体方差已知（例如在样本数量足够多时），则应该用正态分布来估计总体均值。
+}} 在[概率论和](https://zh.wikipedia.org/wiki/概率论 "wikilink")[统计学](../Page/统计学.md "wikilink")中，**学生*t*-分布**（Student's *t*-distribution）可简称为***t*分布**，用于根据小样本来估計呈[正态分布](../Page/正态分布.md "wikilink")且[方差](../Page/方差.md "wikilink")未知的总体的[均值](https://zh.wikipedia.org/wiki/均值 "wikilink")。如果总体方差已知（例如在样本数量足够多时），则应该用正态分布来估计总体均值。
 
-它是对两个样本均值差异进行[显著性测试的](../Page/显著性差异.md "wikilink")[学生*t*檢定的基础](https://zh.wikipedia.org/wiki/学生t测定 "wikilink")。学生*t*檢定改進了[Z檢定](https://zh.wikipedia.org/wiki/Z检验 "wikilink")（），因為Z檢定以母體[標準差已知為前提](../Page/標準差.md "wikilink")。雖然在樣本數量大（超過30個）時，可以應用Z檢定來求得近似值，但Z檢定用在小樣本會產生很大的誤差，因此必須改用学生*t*檢定以求準確。
+它是对两个样本均值差异进行[显著性测试的](../Page/显著性差异.md "wikilink")[学生*t*檢定的基础](https://zh.wikipedia.org/wiki/学生t测定 "wikilink")。学生*t*檢定改進了[Z檢定](https://zh.wikipedia.org/wiki/Z检验 "wikilink")（），因為Z檢定以母體[標準差](../Page/標準差.md "wikilink")已知為前提。雖然在樣本數量大（超過30個）時，可以應用Z檢定來求得近似值，但Z檢定用在小樣本會產生很大的誤差，因此必須改用学生*t*檢定以求準確。
 
 在母體標準差未知的情況下，不論樣本數量大或小皆可應用学生*t*檢定。在待比較的數據有三組以上時，因為誤差無法被壓低，此時可以用[變異數分析](https://zh.wikipedia.org/wiki/變異數分析 "wikilink")（ANOVA）代替學生*t*檢定。
 
 *t*分布的推导最早由大地测量学家于1876年提出，并由数学家证明。\[1\]\[2\]
 
-英國人[威廉·戈塞](../Page/威廉·戈塞.md "wikilink")（Willam S.
-Gosset）于1908年再次发现并发表了*t*分布，当时他还在愛爾蘭[都柏林的](../Page/都柏林.md "wikilink")[吉尼斯](https://zh.wikipedia.org/wiki/吉尼斯 "wikilink")（Guinness）啤酒酿酒厂工作。酒廠雖然禁止員工發表一切與釀酒研究有關的成果，但允許他在不提到釀酒的前提下，以筆名發表*t*分佈的發現，所以论文使用了「学生」（Student）这一笔名。之后*t*检定以及相关理论经由[羅納德·費雪](https://zh.wikipedia.org/wiki/羅納德·費雪 "wikilink")（Sir
-Ronald Aylmer Fisher）发扬光大，為了感謝戈塞的功勞，費雪将此分布命名为**学生*t*分布**（Student's
-*t*）。\[3\]
+英國人[威廉·戈塞](../Page/威廉·戈塞.md "wikilink")（Willam S. Gosset）于1908年再次发现并发表了*t*分布，当时他还在愛爾蘭[都柏林](../Page/都柏林.md "wikilink")的[吉尼斯](https://zh.wikipedia.org/wiki/吉尼斯 "wikilink")（Guinness）啤酒酿酒厂工作。酒廠雖然禁止員工發表一切與釀酒研究有關的成果，但允許他在不提到釀酒的前提下，以筆名發表*t*分佈的發現，所以论文使用了「学生」（Student）这一笔名。之后*t*检定以及相关理论经由[羅納德·費雪](https://zh.wikipedia.org/wiki/羅納德·費雪 "wikilink")（Sir Ronald Aylmer Fisher）发扬光大，為了感謝戈塞的功勞，費雪将此分布命名为**学生*t*分布**（Student's *t*）。\[3\]
 
 ## 描述
 
-假设\(X\)是呈[正态分布的独立的](../Page/正态分布.md "wikilink")[随机变量](../Page/随机变量.md "wikilink")（随机变量的[期望值是](../Page/期望值.md "wikilink")\(\mu\)，[方差是](../Page/方差.md "wikilink")\(\sigma^{2}\)但未知）。
-令：
+假设\(X\)是呈[正态分布](../Page/正态分布.md "wikilink")的独立的[随机变量](../Page/随机变量.md "wikilink")（随机变量的[期望值](../Page/期望值.md "wikilink")是\(\mu\)，[方差](../Page/方差.md "wikilink")是\(\sigma^{2}\)但未知）。 令：
 
 \[\overline{X}_n=\frac{X_1+\cdots+X_n}{n}\]
 
@@ -51,7 +39,7 @@ Ronald Aylmer Fisher）发扬光大，為了感謝戈塞的功勞，費雪将此
 
 \[Z=\frac{\overline{X}_n-\mu}{\frac{\sigma}{\sqrt{n}}}\]
 
-呈[正态分布并且均值和方差分别为](../Page/正态分布.md "wikilink")0和1。
+呈[正态分布](../Page/正态分布.md "wikilink")并且均值和方差分别为0和1。
 
 另一个相关数量
 
@@ -61,8 +49,7 @@ Ronald Aylmer Fisher）发扬光大，為了感謝戈塞的功勞，費雪将此
 
 \[f(t) = \frac{\Gamma(\frac{\nu+1}{2})}{\sqrt{\nu\pi\,}\,\Gamma(\frac{\nu}{2})} (1+\frac{t^2}{\nu})^{\frac{-(\nu+1)}{2}}\]
 
-'' \(\nu\) *等于*n'' − 1。 *T*的分布称为***t*-分布**。参数''\(\nu\)
-''一般被称为[自由度](https://zh.wikipedia.org/wiki/自由度 "wikilink")。
+'' \(\nu\) *等于*n'' − 1。 *T*的分布称为***t*-分布**。参数''\(\nu\) ''一般被称为[自由度](https://zh.wikipedia.org/wiki/自由度 "wikilink")。
 
 ''' \(\Gamma\) '''是[伽玛函数](../Page/Γ函数.md "wikilink")。 如果\(\nu\)是偶数,
 
@@ -81,14 +68,12 @@ Ronald Aylmer Fisher）发扬光大，為了感謝戈塞的功勞，費雪将此
 | [T_distribution_1df_enhanced.svg](https://zh.wikipedia.org/wiki/File:T_distribution_1df_enhanced.svg "fig:T_distribution_1df_enhanced.svg") | [T_distribution_2df_enhanced.svg](https://zh.wikipedia.org/wiki/File:T_distribution_2df_enhanced.svg "fig:T_distribution_2df_enhanced.svg")    | [T_distribution_3df_enhanced.svg](https://zh.wikipedia.org/wiki/File:T_distribution_3df_enhanced.svg "fig:T_distribution_3df_enhanced.svg")    |
 | [T_distribution_5df_enhanced.svg](https://zh.wikipedia.org/wiki/File:T_distribution_5df_enhanced.svg "fig:T_distribution_5df_enhanced.svg") | [T_distribution_10df_enhanced.svg](https://zh.wikipedia.org/wiki/File:T_distribution_10df_enhanced.svg "fig:T_distribution_10df_enhanced.svg") | [T_distribution_30df_enhanced.svg](https://zh.wikipedia.org/wiki/File:T_distribution_30df_enhanced.svg "fig:T_distribution_30df_enhanced.svg") |
 
-*t*-分布密度 (红色曲线) 在自由度为 1, 2, 3, 5, 10,
-30比较于[标准正态分布](https://zh.wikipedia.org/wiki/标准正态分布 "wikilink")(蓝色曲线).
+*t*-分布密度 (红色曲线) 在自由度为 1, 2, 3, 5, 10, 30比较于[标准正态分布](https://zh.wikipedia.org/wiki/标准正态分布 "wikilink")(蓝色曲线).
 前幅图用绿色曲线表示.
 
 *T*分布的概率累计函数，用[不完全贝塔函数](https://zh.wikipedia.org/wiki/Β函数#不完全贝塔函数 "wikilink")*I*表示：
 
-\[F(t) = \int_{-\infty}^t f(u)\,du = 1- \tfrac{1}{2} I_{x(t)}\left(\tfrac{\nu}{2}, \tfrac{1}{2}\right),\]
-其中
+\[F(t) = \int_{-\infty}^t f(u)\,du = 1- \tfrac{1}{2} I_{x(t)}\left(\tfrac{\nu}{2}, \tfrac{1}{2}\right),\] 其中
 
 \[x(t) = \frac{\nu}{{t^2+\nu}}.\]
 
@@ -110,7 +95,7 @@ Ronald Aylmer Fisher）发扬光大，為了感謝戈塞的功勞，費雪将此
 
 \[\Pr(T < A) = 0.95\,\]是相同的
 
-*A*是这个[概率分布的第](../Page/概率分布.md "wikilink")95个百分点
+*A*是这个[概率分布](../Page/概率分布.md "wikilink")的第95个百分点
 
 那么
 
@@ -121,14 +106,13 @@ Ronald Aylmer Fisher）发扬光大，為了感謝戈塞的功勞，費雪将此
 \[\Pr\left(\overline{X}_n - A{S_n \over \sqrt{n}} < \mu
 < \overline{X}_n + A{S_n \over \sqrt{n}}\right) = 0.9\]
 
-因此μ的90%[置信区间为](../Page/置信区间.md "wikilink")：
+因此μ的90%[置信区间](../Page/置信区间.md "wikilink")为：
 
 \[\overline{X}_n\pm A\frac{S_n}{\sqrt{n}}\]
 
 ## 计算
 
-现在最方便的计算T分布的办法是使用电子表格软件（如Excel）或查相关在线计算网站。例如，Excel的TDIST(x,v,sides)用来计算自由度为v的T分布，如果第三个参数为1，则给出Pr(T\>x)；如果第三个参数为2，则计算Pr(T\>x
-Or T\<-x).
+现在最方便的计算T分布的办法是使用电子表格软件（如Excel）或查相关在线计算网站。例如，Excel的TDIST(x,v,sides)用来计算自由度为v的T分布，如果第三个参数为1，则给出Pr(T\>x)；如果第三个参数为2，则计算Pr(T\>x Or T\<-x).
 
 下表列出了自由度為\(\nu\)的*t-*分布的單側和雙側區間值。例如，當樣本數量n=5時，則自由度\(\nu\)=4，我們就可以查找表中以4開頭的行。該行第5列值為2.132，對應的*單側*值為95%（*雙側*值為90%）。這也就是說，T小於2.132的概率為95%（即單側），記為Pr(−∞ \< *T* \< 2.132) = 0.95；同時，T值介於-2.132和2.132之間的概率為90%（即雙側），記為Pr(−2.132 \< *T* \< 2.132) = 0.9。
 
@@ -213,12 +197,10 @@ Or T\<-x).
 
   - [假設檢定](../Page/假設檢定.md "wikilink")
 
-  - (en)[Probability, Statistics and
-    Estimation](http://www.incertitudes.fr/book.pdf) 首先第112页。
+  - (en)[Probability, Statistics and Estimation](http://www.incertitudes.fr/book.pdf) 首先第112页。
 
   -
-[Category:統計學](https://zh.wikipedia.org/wiki/Category:統計學 "wikilink")
-[Category:连续分布](https://zh.wikipedia.org/wiki/Category:连续分布 "wikilink")
+[Category:統計學](https://zh.wikipedia.org/wiki/Category:統計學 "wikilink") [Category:连续分布](https://zh.wikipedia.org/wiki/Category:连续分布 "wikilink")
 
 1.
 2.

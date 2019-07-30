@@ -1,19 +1,14 @@
-**北大未名BBS**，简称**北大未名**、**未名**或**BDWM**，域名为 bbs.pku.edu.cn 和
-bdwm.net，2000年5月4日正式对外开放，目前主要为[北京大学校内网络提供互联网](../Page/北京大学.md "wikilink")[电子公告牌服务](https://zh.wikipedia.org/wiki/电子公告牌 "wikilink")。原名**PKU
-BBS**，后曾改名**北大BBS**，2000年7月7日正式定名**北大未名BBS**。
+**北大未名BBS**，简称**北大未名**、**未名**或**BDWM**，域名为 bbs.pku.edu.cn 和 bdwm.net，2000年5月4日正式对外开放，目前主要为[北京大学](../Page/北京大学.md "wikilink")校内网络提供互联网[电子公告牌服务](https://zh.wikipedia.org/wiki/电子公告牌 "wikilink")。原名**PKU BBS**，后曾改名**北大BBS**，2000年7月7日正式定名**北大未名BBS**。
 
 ## 发展简史
 
-1999年，在北京大学计算中心的支持下，未名的前身PKU
-BBS开始建立并测试运行。最初是架设在北京大学的一台[IBM捐赠的S](../Page/IBM.md "wikilink")/390大型机上，于當年12月21日开通测试。这台机器堪称[中国大陆有史以来最昂贵的BBS](../Page/中国大陆.md "wikilink")[服务器](../Page/服务器.md "wikilink")（价值约800万美元）。北大未名BBS的创始人是
-chenhao 和 darksmith，开站元老还有buddesus、xsy、Min 和 littledrunk 等人。
+1999年，在北京大学计算中心的支持下，未名的前身PKU BBS开始建立并测试运行。最初是架设在北京大学的一台[IBM](../Page/IBM.md "wikilink")捐赠的S/390大型机上，于當年12月21日开通测试。这台机器堪称[中国大陆](../Page/中国大陆.md "wikilink")有史以来最昂贵的BBS[服务器](../Page/服务器.md "wikilink")（价值约800万美元）。北大未名BBS的创始人是 chenhao 和 darksmith，开站元老还有buddesus、xsy、Min 和 littledrunk 等人。
 
-如今，北大未名BBS架设在64位[x86服务器上](https://zh.wikipedia.org/wiki/x86 "wikilink")，软件则采用自行改造的[Firebird
-BBS系统](https://zh.wikipedia.org/wiki/Firebird_BBS "wikilink")，该系统主要由[C++语言写成](https://zh.wikipedia.org/wiki/C++语言 "wikilink")，代码压缩后约3.0MB。访问方式支持传统的[telnet](https://zh.wikipedia.org/wiki/telnet "wikilink")[远程登录](https://zh.wikipedia.org/wiki/远程登录 "wikilink")，还提供[WWW网页方式浏览](https://zh.wikipedia.org/wiki/WWW "wikilink")。从[2008年8月开始](../Page/2008年8月.md "wikilink")，北大未名BBS支持[SSH方式登录](https://zh.wikipedia.org/wiki/SSH "wikilink")，使得访问BBS的安全性大为提升。北大未名BBS还支持附件系统，可以发表带附件文章，附件服务器独立于主服务器，通过[NFS文件系统与主服务器连接](https://zh.wikipedia.org/wiki/NFS "wikilink")，但附件服务器较主服务器更经常发生状况导致附件系统失效。
+如今，北大未名BBS架设在64位[x86服务器上](https://zh.wikipedia.org/wiki/x86 "wikilink")，软件则采用自行改造的[Firebird BBS系统](https://zh.wikipedia.org/wiki/Firebird_BBS "wikilink")，该系统主要由[C++语言写成](https://zh.wikipedia.org/wiki/C++语言 "wikilink")，代码压缩后约3.0MB。访问方式支持传统的[telnet](https://zh.wikipedia.org/wiki/telnet "wikilink")[远程登录](https://zh.wikipedia.org/wiki/远程登录 "wikilink")，还提供[WWW网页方式浏览](https://zh.wikipedia.org/wiki/WWW "wikilink")。从[2008年8月](../Page/2008年8月.md "wikilink")开始，北大未名BBS支持[SSH方式登录](https://zh.wikipedia.org/wiki/SSH "wikilink")，使得访问BBS的安全性大为提升。北大未名BBS还支持附件系统，可以发表带附件文章，附件服务器独立于主服务器，通过[NFS文件系统与主服务器连接](https://zh.wikipedia.org/wiki/NFS "wikilink")，但附件服务器较主服务器更经常发生状况导致附件系统失效。
 
-2005年，受[一塌糊涂BBS关站风潮的影响](../Page/一塌糊涂BBS.md "wikilink")，教育部要求中国大陆地区高校BBS“转型”。从此北大未名也转为与如今的[水木清华BBS相仿的校内型BBS](../Page/水木清华BBS.md "wikilink")（“校内交流平台”），限制了校外IP地址的直接访问，并终止了BBS与其他之间的[自动转信功能](https://zh.wikipedia.org/wiki/自动转信 "wikilink")。同时，由于一塌糊涂的关闭，北大未名很快成为在线北大学生人数最多的BBS站点。
+2005年，受[一塌糊涂BBS](../Page/一塌糊涂BBS.md "wikilink")关站风潮的影响，教育部要求中国大陆地区高校BBS“转型”。从此北大未名也转为与如今的[水木清华BBS](../Page/水木清华BBS.md "wikilink")相仿的校内型BBS（“校内交流平台”），限制了校外IP地址的直接访问，并终止了BBS与其他之间的[自动转信功能](https://zh.wikipedia.org/wiki/自动转信 "wikilink")。同时，由于一塌糊涂的关闭，北大未名很快成为在线北大学生人数最多的BBS站点。
 
-从2005年下半年开始，技术站务组开始测试利用[PHP技术改造的WWW访问方式](../Page/PHP.md "wikilink")。现在PHP动态页面技术已全面替代传统Firebird的[CGI技术](../Page/通用网关接口.md "wikilink")，不仅扩充了WWW服务的功能，还大大改进了服务效率，提高了访问速度。
+从2005年下半年开始，技术站务组开始测试利用[PHP](../Page/PHP.md "wikilink")技术改造的WWW访问方式。现在PHP动态页面技术已全面替代传统Firebird的[CGI技术](../Page/通用网关接口.md "wikilink")，不仅扩充了WWW服务的功能，还大大改进了服务效率，提高了访问速度。
 
 现在，北大未名BBS的访问条件偶尔也会暂时放松，对北京大学校外的IP地址开放，但规律不详。还有一些校外用户懂得并能够通过个别校内用户私自开设的穿梭代理服务，间接登录北大未名，不过，“穿梭”登录的用户仍然不能注册新用户名。2008年寒假，北京大学计算中心开通了[VPN服务](https://zh.wikipedia.org/wiki/VPN "wikilink")，假期在校外的学生能够凭借校园网的用户名和密码直接通过VPN接入校园网络并访问北大未名BBS，该方式访问可以获得与校内访问相同的访问权限。
 
@@ -33,7 +28,7 @@ BBS系统](https://zh.wikipedia.org/wiki/Firebird_BBS "wikilink")，该系统主
 
 站务委员会以下设有十余个分区，每个分区根据需要任命若干名区务（区长），具体管理各自区内讨论区的开设、下属版务的任免等日常事务，并经常巡查各讨论区的实际运作状况。每个讨论区一般任命有1～3名版务（版主），负责对治下的讨论区进行言论监督、讨论引导和精华区建设等日常工作。一般来说，版务对区务直接负责，区务则对站务委员会负责，但是俱乐部区（G区）原则上实行版务自治，区长轻易不得干涉版务决策。
 
-站务委员会的美工站务组负责设计和维护全站与telnet界面[ASCII字符艺术和WWW图片装饰有关的美术工作](../Page/ASCII.md "wikilink")，包括telnet活动看板、进站离站画面、WWW网站封面和广告条的制作与审批。
+站务委员会的美工站务组负责设计和维护全站与telnet界面[ASCII](../Page/ASCII.md "wikilink")字符艺术和WWW图片装饰有关的美术工作，包括telnet活动看板、进站离站画面、WWW网站封面和广告条的制作与审批。
 
 为调解管理工作中的纠纷，监督各级管理人员的工作，北大未名还设置了相对独立的仲裁委员会，接受正式注册的用户对版务、区务甚至站务人员的仲裁申请或弹劾动议。仲裁委员会的正式裁定，由站务委员会最终核准执行。
 
@@ -121,8 +116,7 @@ BBS系统](https://zh.wikipedia.org/wiki/Firebird_BBS "wikilink")，该系统主
 
 北大未名的Joke版原创笑话很少，大部分主题属于转贴的老笑话和从全站其他版面转载来的可笑文章。有些转载自三角地或匿名版的文章，原文很快在原版遭到删除，故而有人把Joke版称作三角地或匿名版的“回收站”。不过，Joke版文章内容的主要特色，不论主题还是转载，往往最终可以归为“性”的核心话题，而且大多数用户对此乐而不疲。
 
-Joke版的回复性讨论则以指出老笑话“[tooold](https://zh.wikipedia.org/wiki/tooold "wikilink")”（连写的too
-old，中间可再加入更多字母o——[英语](../Page/英语.md "wikilink")“太老了”的意思）的言论为主，并由于历届版务反对甚至打击喊tooold的行为，还衍生出种种tooold的替代委婉语。有时Joke版的讨论还带有浓厚的学术色彩，其实是在以严肃的形式表达调侃的内容。也有常见用语“infer”专指在版面上反应比别人慢半拍，发帖比较土，经常说大家都知道的内容的一类人。而两种用语的区别在于，如果重复发表几天前或更早已经发布的内容，称为[tooold](https://zh.wikipedia.org/wiki/tooold "wikilink")，如果相隔很短的时间内发表或者转载相同内容则称为infer。“infer”行为已经成为Joke版的一种娱乐方式，并且网友乐此不疲。
+Joke版的回复性讨论则以指出老笑话“[tooold](https://zh.wikipedia.org/wiki/tooold "wikilink")”（连写的too old，中间可再加入更多字母o——[英语](../Page/英语.md "wikilink")“太老了”的意思）的言论为主，并由于历届版务反对甚至打击喊tooold的行为，还衍生出种种tooold的替代委婉语。有时Joke版的讨论还带有浓厚的学术色彩，其实是在以严肃的形式表达调侃的内容。也有常见用语“infer”专指在版面上反应比别人慢半拍，发帖比较土，经常说大家都知道的内容的一类人。而两种用语的区别在于，如果重复发表几天前或更早已经发布的内容，称为[tooold](https://zh.wikipedia.org/wiki/tooold "wikilink")，如果相隔很短的时间内发表或者转载相同内容则称为infer。“infer”行为已经成为Joke版的一种娱乐方式，并且网友乐此不疲。
 
 ### 鹊桥
 
@@ -154,8 +148,7 @@ old，中间可再加入更多字母o——[英语](../Page/英语.md "wikilink"
 
 ## 相关条目
 
-  - [Firebird
-    BBS](https://zh.wikipedia.org/wiki/Firebird_BBS "wikilink")（有关此类BBS系统的技术内幕，如telnet/精华区/自动转信等功能，请转向该条目；上文只介绍北大未名BBS）
+  - [Firebird BBS](https://zh.wikipedia.org/wiki/Firebird_BBS "wikilink")（有关此类BBS系统的技术内幕，如telnet/精华区/自动转信等功能，请转向该条目；上文只介绍北大未名BBS）
   - [一塌糊涂BBS](../Page/一塌糊涂BBS.md "wikilink")
   - [水木清华BBS](../Page/水木清华BBS.md "wikilink")
 
@@ -170,12 +163,8 @@ old，中间可再加入更多字母o——[英语](../Page/英语.md "wikilink"
 
 <references />
 
-[Category:中国网站](https://zh.wikipedia.org/wiki/Category:中国网站 "wikilink")
-[Category:北京大学](https://zh.wikipedia.org/wiki/Category:北京大学 "wikilink")
-[Category:中国大学BBS](https://zh.wikipedia.org/wiki/Category:中国大学BBS "wikilink")
+[Category:中国网站](https://zh.wikipedia.org/wiki/Category:中国网站 "wikilink") [Category:北京大学](https://zh.wikipedia.org/wiki/Category:北京大学 "wikilink") [Category:中国大学BBS](https://zh.wikipedia.org/wiki/Category:中国大学BBS "wikilink")
 
 1.  <https://bbs.pku.edu.cn/v2/user.php?uid=29135> watern的账户页面
-2.  <https://web.archive.org/web/20181026123312/https://bbs.pku.edu.cn/v2/user.php?uid=29135>
-    watern的账户页面 Internet Archive 备份
-3.  <https://bbs.pku.edu.cn/v2/post-read.php?bid=29&threadid=15697457>
-    \[公告\]未名站刊工作组改组
+2.  <https://web.archive.org/web/20181026123312/https://bbs.pku.edu.cn/v2/user.php?uid=29135> watern的账户页面 Internet Archive 备份
+3.  <https://bbs.pku.edu.cn/v2/post-read.php?bid=29&threadid=15697457> \[公告\]未名站刊工作组改组

@@ -1,4 +1,4 @@
-**NBA技巧赛**或譯做**NBA技術挑戰賽**始創於2003年[NBA全明星周末](../Page/NBA全明星周末.md "wikilink")，是一项考验球员基本功的比赛。現是由[塔可鐘冠名贊助](../Page/塔可鐘.md "wikilink")。全明星技巧大赛共有四名球员参赛，比赛分为两轮：球员需进行穿越障碍、传球、定点投篮和上篮，所用时间较快的两位球员进入第二轮以争夺冠军。2015年起賽制改爲共八位球員參賽，采取淘汰賽制，最快完成所有指定動作者爲勝。最後由進入決賽的兩位球員爭奪冠軍。而2016年起在2015年的賽制基礎下再把八位球員分前場\[1\]及後場\[2\]（其中四位為前場球員，四位為後場球員），最後由前場勝者及後場勝者爭奪冠軍。[邁阿密熱火的](https://zh.wikipedia.org/wiki/邁阿密熱火 "wikilink")[德韦恩·韦德和](https://zh.wikipedia.org/wiki/德韦恩·韦德 "wikilink")[波特蘭拓荒者的](https://zh.wikipedia.org/wiki/波特蘭拓荒者 "wikilink")[达米恩·林纳德連續兩年奪標](https://zh.wikipedia.org/wiki/达米恩·林纳德 "wikilink")，唯二球員所創下這個比賽的紀錄。
+**NBA技巧赛**或譯做**NBA技術挑戰賽**始創於2003年[NBA全明星周末](../Page/NBA全明星周末.md "wikilink")，是一项考验球员基本功的比赛。現是由[塔可鐘](../Page/塔可鐘.md "wikilink")冠名贊助。全明星技巧大赛共有四名球员参赛，比赛分为两轮：球员需进行穿越障碍、传球、定点投篮和上篮，所用时间较快的两位球员进入第二轮以争夺冠军。2015年起賽制改爲共八位球員參賽，采取淘汰賽制，最快完成所有指定動作者爲勝。最後由進入決賽的兩位球員爭奪冠軍。而2016年起在2015年的賽制基礎下再把八位球員分前場\[1\]及後場\[2\]（其中四位為前場球員，四位為後場球員），最後由前場勝者及後場勝者爭奪冠軍。[邁阿密熱火的](https://zh.wikipedia.org/wiki/邁阿密熱火 "wikilink")[德韦恩·韦德和](https://zh.wikipedia.org/wiki/德韦恩·韦德 "wikilink")[波特蘭拓荒者的](https://zh.wikipedia.org/wiki/波特蘭拓荒者 "wikilink")[达米恩·林纳德連續兩年奪標](https://zh.wikipedia.org/wiki/达米恩·林纳德 "wikilink")，唯二球員所創下這個比賽的紀錄。
 
 ## 胜出者
 
@@ -145,8 +145,7 @@
 
   - [NBA全明星周末-NBA技巧赛](https://web.archive.org/web/20061216110704/http://inicia.es/de/allstar/skill.htm)
 
-[Category:NBA](https://zh.wikipedia.org/wiki/Category:NBA "wikilink")
-[Category:NBA全明星赛](https://zh.wikipedia.org/wiki/Category:NBA全明星赛 "wikilink")
+[Category:NBA](https://zh.wikipedia.org/wiki/Category:NBA "wikilink") [Category:NBA全明星赛](https://zh.wikipedia.org/wiki/Category:NBA全明星赛 "wikilink")
 
 1.  即小前鋒、大前鋒及中鋒。
 2.  即控球後衛及得分後衛。

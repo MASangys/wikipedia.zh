@@ -1,10 +1,10 @@
-《**A計劃續集**》（）是一部於1987年上映的[香港電影](https://zh.wikipedia.org/wiki/香港電影 "wikilink")，由[成龍擔任導演](../Page/成龍.md "wikilink")、編劇、武術指導兼領銜主演，以及由[張曼玉](../Page/張曼玉.md "wikilink")、[關之琳和](../Page/關之琳.md "wikilink")[劉嘉玲擔任其他領銜主演](https://zh.wikipedia.org/wiki/劉嘉玲 "wikilink")；此電影為《A計劃系列》中的第二部。
+《**A計劃續集**》（）是一部於1987年上映的[香港電影](https://zh.wikipedia.org/wiki/香港電影 "wikilink")，由[成龍](../Page/成龍.md "wikilink")擔任導演、編劇、武術指導兼領銜主演，以及由[張曼玉](../Page/張曼玉.md "wikilink")、[關之琳](../Page/關之琳.md "wikilink")和[劉嘉玲擔任其他領銜主演](https://zh.wikipedia.org/wiki/劉嘉玲 "wikilink")；此電影為《A計劃系列》中的第二部。
 
 此電影是成龍的特技演出代表作之一。
 
 ## 劇情內容
 
-開埠初期的[香港](../Page/香港.md "wikilink")，[上環](../Page/上環.md "wikilink")、[中環](../Page/中環.md "wikilink")、[西環由](../Page/西環.md "wikilink")“鎮三環”之稱的幫辦管制，鎮三環暗中勾結西環惡霸歐心虎，西環治安一時烏煙瘴氣。警官馬如龍（成龍）奉命接管西環後，迅速將勾心虎拘捕人獄，招來“鎮三環”的怨恨。當時內地[革命風雲翻湧](../Page/辛亥革命.md "wikilink")，革命黨人來港宣傳，併計劃營救被捕同志。為將革命黨人一網打盡，[清廷派遣密使聯絡鎮三環](https://zh.wikipedia.org/wiki/清廷 "wikilink")，馬如龍結識白影紅、瑩瑩、珊珊等革命黨人（[張曼玉](../Page/張曼玉.md "wikilink")、[關之琳](../Page/關之琳.md "wikilink")、[劉嘉玲等](https://zh.wikipedia.org/wiki/劉嘉玲 "wikilink")）後也被捲入鬥爭漩渦，而同時，一群四肢發達頭腦簡單的[海盜餘黨正在伺機向馬如龍報仇](../Page/A計劃.md "wikilink")。
+開埠初期的[香港](../Page/香港.md "wikilink")，[上環](../Page/上環.md "wikilink")、[中環](../Page/中環.md "wikilink")、[西環](../Page/西環.md "wikilink")由“鎮三環”之稱的幫辦管制，鎮三環暗中勾結西環惡霸歐心虎，西環治安一時烏煙瘴氣。警官馬如龍（成龍）奉命接管西環後，迅速將勾心虎拘捕人獄，招來“鎮三環”的怨恨。當時內地[革命風雲翻湧](../Page/辛亥革命.md "wikilink")，革命黨人來港宣傳，併計劃營救被捕同志。為將革命黨人一網打盡，[清廷派遣密使聯絡鎮三環](https://zh.wikipedia.org/wiki/清廷 "wikilink")，馬如龍結識白影紅、瑩瑩、珊珊等革命黨人（[張曼玉](../Page/張曼玉.md "wikilink")、[關之琳](../Page/關之琳.md "wikilink")、[劉嘉玲等](https://zh.wikipedia.org/wiki/劉嘉玲 "wikilink")）後也被捲入鬥爭漩渦，而同時，一群四肢發達頭腦簡單的[海盜餘黨正在伺機向馬如龍報仇](../Page/A計劃.md "wikilink")。
 
 ## 演員表
 
@@ -124,11 +124,4 @@
   -
   -
   -
-[Category:香港動作片](https://zh.wikipedia.org/wiki/Category:香港動作片 "wikilink")
-[Category:香港續集電影](https://zh.wikipedia.org/wiki/Category:香港續集電影 "wikilink")
-[Category:1980年代香港電影作品](https://zh.wikipedia.org/wiki/Category:1980年代香港電影作品 "wikilink")
-[Category:嘉禾电影](https://zh.wikipedia.org/wiki/Category:嘉禾电影 "wikilink")
-[Category:香港電影金像獎最佳動作設計獲獎電影](https://zh.wikipedia.org/wiki/Category:香港電影金像獎最佳動作設計獲獎電影 "wikilink")
-[Category:成龙电影](https://zh.wikipedia.org/wiki/Category:成龙电影 "wikilink")
-[Category:1980年代动作片](https://zh.wikipedia.org/wiki/Category:1980年代动作片 "wikilink")
-[Category:清朝晚期背景电影](https://zh.wikipedia.org/wiki/Category:清朝晚期背景电影 "wikilink")
+[Category:香港動作片](https://zh.wikipedia.org/wiki/Category:香港動作片 "wikilink") [Category:香港續集電影](https://zh.wikipedia.org/wiki/Category:香港續集電影 "wikilink") [Category:1980年代香港電影作品](https://zh.wikipedia.org/wiki/Category:1980年代香港電影作品 "wikilink") [Category:嘉禾电影](https://zh.wikipedia.org/wiki/Category:嘉禾电影 "wikilink") [Category:香港電影金像獎最佳動作設計獲獎電影](https://zh.wikipedia.org/wiki/Category:香港電影金像獎最佳動作設計獲獎電影 "wikilink") [Category:成龙电影](https://zh.wikipedia.org/wiki/Category:成龙电影 "wikilink") [Category:1980年代动作片](https://zh.wikipedia.org/wiki/Category:1980年代动作片 "wikilink") [Category:清朝晚期背景电影](https://zh.wikipedia.org/wiki/Category:清朝晚期背景电影 "wikilink")

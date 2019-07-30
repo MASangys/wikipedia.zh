@@ -22,13 +22,11 @@
 
 ::\*P149 天体生物学
 
-:\*P15
-[恒星天文学](https://zh.wikipedia.org/wiki/恒星天文学 "wikilink")、[星系天文学](https://zh.wikipedia.org/wiki/星系天文学 "wikilink")、[宇宙学](../Page/宇宙学.md "wikilink")
+:\*P15 [恒星天文学](https://zh.wikipedia.org/wiki/恒星天文学 "wikilink")、[星系天文学](https://zh.wikipedia.org/wiki/星系天文学 "wikilink")、[宇宙学](../Page/宇宙学.md "wikilink")
 
 ::\*P159 [宇宙学](../Page/宇宙学.md "wikilink")
 
-:\*P16
-[射电天文学](../Page/射电天文学.md "wikilink")（[无线电天文学](https://zh.wikipedia.org/wiki/无线电天文学 "wikilink")）
+:\*P16 [射电天文学](../Page/射电天文学.md "wikilink")（[无线电天文学](https://zh.wikipedia.org/wiki/无线电天文学 "wikilink")）
 
 :\*P17 [空间天文学](https://zh.wikipedia.org/wiki/空间天文学 "wikilink")
 
@@ -74,8 +72,7 @@
 
 :\*P35 空间物理
 
-  - P4
-    [大气科学](../Page/大气科学.md "wikilink")（[气象学](../Page/气象学.md "wikilink")）
+  - P4 [大气科学](../Page/大气科学.md "wikilink")（[气象学](../Page/气象学.md "wikilink")）
 
 :\*P40 一般理论与方法
 

@@ -1,5 +1,4 @@
-**Sunday
-Girls**是由[佐藤麻衣](../Page/佐藤麻衣.md "wikilink")、[五島千佳](https://zh.wikipedia.org/wiki/五島千佳 "wikilink")、[千田愛紗](../Page/千田愛紗.md "wikilink")、[高垣朋子四名成員所組成的女子偶像團體](https://zh.wikipedia.org/wiki/高垣朋子 "wikilink")。
+**Sunday Girls**是由[佐藤麻衣](../Page/佐藤麻衣.md "wikilink")、[五島千佳](https://zh.wikipedia.org/wiki/五島千佳 "wikilink")、[千田愛紗](../Page/千田愛紗.md "wikilink")、[高垣朋子四名成員所組成的女子偶像團體](https://zh.wikipedia.org/wiki/高垣朋子 "wikilink")。
 
 ## 成員列表
 
@@ -78,15 +77,12 @@ Girls**是由[佐藤麻衣](../Page/佐藤麻衣.md "wikilink")、[五島千佳]
 
 ## 徵選
 
-Sunday
-Girls是2001年[華視](https://zh.wikipedia.org/wiki/華視 "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")《[超級星期天](../Page/超級星期天.md "wikilink")》中，由[豐華唱片](../Page/豐華唱片.md "wikilink")、[東風文化傳播](https://zh.wikipedia.org/wiki/東風文化傳播 "wikilink")（當時《超級星期天》製作單位）、[吉本興業聯合舉辦的](../Page/吉本興業.md "wikilink")「超級動員令之日本美少女」活動徵選而出的。
+Sunday Girls是2001年[華視](https://zh.wikipedia.org/wiki/華視 "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")《[超級星期天](../Page/超級星期天.md "wikilink")》中，由[豐華唱片](../Page/豐華唱片.md "wikilink")、[東風文化傳播](https://zh.wikipedia.org/wiki/東風文化傳播 "wikilink")（當時《超級星期天》製作單位）、[吉本興業](../Page/吉本興業.md "wikilink")聯合舉辦的「超級動員令之日本美少女」活動徵選而出的。
 
-四名Sunday
-Girls的成員是由2000多封從[日本各地寄來的報名表中](../Page/日本.md "wikilink")，選出130名合格的參賽者，最後經現場選拔而出六名成員，分別為[遠藤舞](../Page/遠藤舞.md "wikilink")、[安藤裕子](../Page/安藤裕子.md "wikilink")、[佐藤麻衣](../Page/佐藤麻衣.md "wikilink")、[高垣朋子](https://zh.wikipedia.org/wiki/高垣朋子 "wikilink")、[五島千佳和](https://zh.wikipedia.org/wiki/五島千佳 "wikilink")[佐藤梢](https://zh.wikipedia.org/wiki/佐藤梢 "wikilink")（[千田愛紗為候補](../Page/千田愛紗.md "wikilink")）。她們都是至台灣訓練三個月，經過磨練比賽而選出的。
+四名Sunday Girls的成員是由2000多封從[日本](../Page/日本.md "wikilink")各地寄來的報名表中，選出130名合格的參賽者，最後經現場選拔而出六名成員，分別為[遠藤舞](../Page/遠藤舞.md "wikilink")、[安藤裕子](../Page/安藤裕子.md "wikilink")、[佐藤麻衣](../Page/佐藤麻衣.md "wikilink")、[高垣朋子](https://zh.wikipedia.org/wiki/高垣朋子 "wikilink")、[五島千佳和](https://zh.wikipedia.org/wiki/五島千佳 "wikilink")[佐藤梢](https://zh.wikipedia.org/wiki/佐藤梢 "wikilink")（[千田愛紗](../Page/千田愛紗.md "wikilink")為候補）。她們都是至台灣訓練三個月，經過磨練比賽而選出的。
 
 ## 現況
 
-目前[佐藤麻衣與](../Page/佐藤麻衣.md "wikilink")[千田愛紗仍以藝人身份在](../Page/千田愛紗.md "wikilink")[台灣發展](https://zh.wikipedia.org/wiki/台灣 "wikilink")。[安藤裕子則在日本以創作型女歌手的身份出道發行專輯](../Page/安藤裕子.md "wikilink")，並且曾在電影《[催眠](../Page/催眠.md "wikilink")》與電視劇《[池袋西口公園](../Page/池袋西口公園_\(小說\).md "wikilink")》中參與演出。
+目前[佐藤麻衣](../Page/佐藤麻衣.md "wikilink")與[千田愛紗](../Page/千田愛紗.md "wikilink")仍以藝人身份在[台灣發展](https://zh.wikipedia.org/wiki/台灣 "wikilink")。[安藤裕子](../Page/安藤裕子.md "wikilink")則在日本以創作型女歌手的身份出道發行專輯，並且曾在電影《[催眠](../Page/催眠.md "wikilink")》與電視劇《[池袋西口公園](../Page/池袋西口公園_\(小說\).md "wikilink")》中參與演出。
 
-[Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink")
-[Category:臺灣女子演唱團體](https://zh.wikipedia.org/wiki/Category:臺灣女子演唱團體 "wikilink")
+[Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink") [Category:臺灣女子演唱團體](https://zh.wikipedia.org/wiki/Category:臺灣女子演唱團體 "wikilink")

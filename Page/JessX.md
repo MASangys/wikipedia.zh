@@ -6,9 +6,7 @@
 
 ## 开发团队
 
-目前，已有两个团队参与了软件的开发。每组6人，他们都来自法国里尔中央学校。第一支团队，（即EcoXP），他们与2003年9月开始这个项目，并与2005年5月停止。另一支团队，（即TRADING），与2004年9月开始参与开发，他们一直工作至06年6月。因为这个软件是开放式的，所以任何人都可以参与开发设计。这个项目有两位法国教授领导，Olivier
-Brandouy[1](http://claree.univ-lille1.fr/~brandouy/)，和Rémi
-Bachelet[2](http://rb.ec-lille.fr/)。
+目前，已有两个团队参与了软件的开发。每组6人，他们都来自法国里尔中央学校。第一支团队，（即EcoXP），他们与2003年9月开始这个项目，并与2005年5月停止。另一支团队，（即TRADING），与2004年9月开始参与开发，他们一直工作至06年6月。因为这个软件是开放式的，所以任何人都可以参与开发设计。这个项目有两位法国教授领导，Olivier Brandouy[1](http://claree.univ-lille1.fr/~brandouy/)，和Rémi Bachelet[2](http://rb.ec-lille.fr/)。
 
 ## 特色
 
@@ -58,15 +56,11 @@ Bachelet[2](http://rb.ec-lille.fr/)。
 
 ## 外部链接
 
-  - [Olivier Brandouy's Experimental finance
-    Page](http://claree.univ-lille1.fr/~brandouy/)
+  - [Olivier Brandouy's Experimental finance Page](http://claree.univ-lille1.fr/~brandouy/)
   - [Rémi Bachelet's webpage](http://rb.ec-lille.fr/)
 
 <!-- end list -->
 
-  - [Global Market
-    Index](https://web.archive.org/web/20120717062612/http://cn.gmindex.com/)
-    ;
+  - [Global Market Index](https://web.archive.org/web/20120717062612/http://cn.gmindex.com/) ;
 
-[Category:应用软件](https://zh.wikipedia.org/wiki/Category:应用软件 "wikilink")
-[Category:股市](https://zh.wikipedia.org/wiki/Category:股市 "wikilink")
+[Category:应用软件](https://zh.wikipedia.org/wiki/Category:应用软件 "wikilink") [Category:股市](https://zh.wikipedia.org/wiki/Category:股市 "wikilink")

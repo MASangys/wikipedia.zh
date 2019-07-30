@@ -22,7 +22,7 @@
 <td><p>AZITO 2</p></td>
 <td><p>1998年10月15日</p></td>
 <td><p><a href="../Page/PlayStation_(遊戲機).md" title="wikilink">PlayStation</a></p></td>
-<td><p>首次加入<a href="../Page/特攝片.md" title="wikilink">特攝片的人物</a></p></td>
+<td><p>首次加入<a href="../Page/特攝片.md" title="wikilink">特攝片</a>的人物</p></td>
 </tr>
 <tr class="odd">
 <td><p>アジト3[3]</p></td>
@@ -64,14 +64,8 @@
 ## 外部連結
 
   -
-[Category:電子遊戲跨界作品](https://zh.wikipedia.org/wiki/Category:電子遊戲跨界作品 "wikilink")
-[Category:PlayStation_(游戏机)游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_\(游戏机\)游戏 "wikilink")
-[Category:战棋游戏](https://zh.wikipedia.org/wiki/Category:战棋游戏 "wikilink")
-[Category:特攝跨界作品](https://zh.wikipedia.org/wiki/Category:特攝跨界作品 "wikilink")
-[Category:电脑奇侠](https://zh.wikipedia.org/wiki/Category:电脑奇侠 "wikilink")
-[Category:闪电人](https://zh.wikipedia.org/wiki/Category:闪电人 "wikilink")
+[Category:電子遊戲跨界作品](https://zh.wikipedia.org/wiki/Category:電子遊戲跨界作品 "wikilink") [Category:PlayStation_(游戏机)游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_\(游戏机\)游戏 "wikilink") [Category:战棋游戏](https://zh.wikipedia.org/wiki/Category:战棋游戏 "wikilink") [Category:特攝跨界作品](https://zh.wikipedia.org/wiki/Category:特攝跨界作品 "wikilink") [Category:电脑奇侠](https://zh.wikipedia.org/wiki/Category:电脑奇侠 "wikilink") [Category:闪电人](https://zh.wikipedia.org/wiki/Category:闪电人 "wikilink")
 
 1.  在[日文中](https://zh.wikipedia.org/wiki/日文 "wikilink")，可以解作「秘密基地」
-2.  [摩诃契叶藏经阁︰秘密基地建设3
-    超人群英会](http://blog.sina.com.cn/s/blog_49cc204d0100hjv3.html)
+2.  [摩诃契叶藏经阁︰秘密基地建设3 超人群英会](http://blog.sina.com.cn/s/blog_49cc204d0100hjv3.html)
 3.  作品標題為日文而非英文，AZITO 3則為承上集的英文譯法。

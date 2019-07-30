@@ -1,10 +1,8 @@
-《****》是[香港歌唱組合](../Page/香港.md "wikilink")[Cream於](https://zh.wikipedia.org/wiki/Cream_\(香港樂隊\) "wikilink")2006年8月演唱會的同名專輯，同時也是他離開[輝皇娛樂前](https://zh.wikipedia.org/wiki/輝皇娛樂 "wikilink")，亦是她們的最後一張專輯。
+《****》是[香港](../Page/香港.md "wikilink")歌唱組合[Cream於](https://zh.wikipedia.org/wiki/Cream_\(香港樂隊\) "wikilink")2006年8月演唱會的同名專輯，同時也是他離開[輝皇娛樂前](https://zh.wikipedia.org/wiki/輝皇娛樂 "wikilink")，亦是她們的最後一張專輯。
 
 ## 曲目列表
 
-《My
-Sunshine》一共收錄了5首歌及5首自唱音樂。其中《幫哥哥找女友》是[Cream與](https://zh.wikipedia.org/wiki/Cream_\(香港樂隊\) "wikilink")[Chips的合唱歌](https://zh.wikipedia.org/wiki/Chips "wikilink")，而《My
-Sunshine》一曲則是國語歌。
+《My Sunshine》一共收錄了5首歌及5首自唱音樂。其中《幫哥哥找女友》是[Cream與](https://zh.wikipedia.org/wiki/Cream_\(香港樂隊\) "wikilink")[Chips的合唱歌](https://zh.wikipedia.org/wiki/Chips "wikilink")，而《My Sunshine》一曲則是國語歌。
 
 <table>
 <thead>
@@ -107,10 +105,7 @@ Sunshine》一曲則是國語歌。
 
 ## 外部連結
 
-  - [《My
-    Sunshine》全碟介紹宣傳聲帶](http://music.163888.net/openmusic.aspx?id=4320509)
-  - [《My
-    Sunshine》於Yesasia的介紹](http://global.yesasia.com/gb/PrdDept.aspx/code-c/section-music/pid-1004477833/)
+  - [《My Sunshine》全碟介紹宣傳聲帶](http://music.163888.net/openmusic.aspx?id=4320509)
+  - [《My Sunshine》於Yesasia的介紹](http://global.yesasia.com/gb/PrdDept.aspx/code-c/section-music/pid-1004477833/)
 
-[Category:Cream音樂專輯](https://zh.wikipedia.org/wiki/Category:Cream音樂專輯 "wikilink")
-[Category:2006年音樂專輯](https://zh.wikipedia.org/wiki/Category:2006年音樂專輯 "wikilink")
+[Category:Cream音樂專輯](https://zh.wikipedia.org/wiki/Category:Cream音樂專輯 "wikilink") [Category:2006年音樂專輯](https://zh.wikipedia.org/wiki/Category:2006年音樂專輯 "wikilink")

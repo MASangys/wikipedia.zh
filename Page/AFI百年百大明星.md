@@ -1,9 +1,6 @@
-1998年，[美国电影学会从](../Page/美国电影学会.md "wikilink")500名20世纪美国电影界的电影明星中，评选出50名最伟大明星（必须在1950年前已出道，男女各25名），作为美国电影学會的[“百年百大”系列的一个重要部分](https://zh.wikipedia.org/wiki/AFI百年百大系列 "wikilink")——“**AFI百年百大明星**”（**AFI's
-100 Years... 100 Stars**）。
+1998年，[美国电影学会](../Page/美国电影学会.md "wikilink")从500名20世纪美国电影界的电影明星中，评选出50名最伟大明星（必须在1950年前已出道，男女各25名），作为美国电影学會的[“百年百大”系列的一个重要部分](https://zh.wikipedia.org/wiki/AFI百年百大系列 "wikilink")——“**AFI百年百大明星**”（**AFI's 100 Years... 100 Stars**）。
 
-实力派影星**[亨弗莱·鲍嘉](../Page/亨弗莱·鲍嘉.md "wikilink")**（Humphrey
-Bogart）和**[凯瑟琳·赫本](../Page/凯瑟琳·赫本.md "wikilink")**（Katharine
-Hepburn）分别被评为最伟大的男、女演员。
+实力派影星**[亨弗莱·鲍嘉](../Page/亨弗莱·鲍嘉.md "wikilink")**（Humphrey Bogart）和**[凯瑟琳·赫本](../Page/凯瑟琳·赫本.md "wikilink")**（Katharine Hepburn）分别被评为最伟大的男、女演员。
 
 ## 演员
 
@@ -82,6 +79,4 @@ Hepburn）分别被评为最伟大的男、女演员。
 
   - <http://www.afi.com/100Years/stars.aspx>
 
-[Category:美国电影学院百年百大系列](https://zh.wikipedia.org/wiki/Category:美国电影学院百年百大系列 "wikilink")
-[Category:美国電影演员](https://zh.wikipedia.org/wiki/Category:美国電影演员 "wikilink")
-[Category:人物排名表](https://zh.wikipedia.org/wiki/Category:人物排名表 "wikilink")
+[Category:美国电影学院百年百大系列](https://zh.wikipedia.org/wiki/Category:美国电影学院百年百大系列 "wikilink") [Category:美国電影演员](https://zh.wikipedia.org/wiki/Category:美国電影演员 "wikilink") [Category:人物排名表](https://zh.wikipedia.org/wiki/Category:人物排名表 "wikilink")

@@ -15,8 +15,4 @@
   - **[乔治·西蒙](https://zh.wikipedia.org/wiki/乔治·西蒙 "wikilink")**（）
   - **[戴安·普林兹](https://zh.wikipedia.org/wiki/戴安·普林兹 "wikilink")**（）
 
-[Category:1985年佛罗里达州](https://zh.wikipedia.org/wiki/Category:1985年佛罗里达州 "wikilink")
-[Category:1985年科學](https://zh.wikipedia.org/wiki/Category:1985年科學 "wikilink")
-[Category:挑战者号航天飞机任务](https://zh.wikipedia.org/wiki/Category:挑战者号航天飞机任务 "wikilink")
-[Category:1985年7月](https://zh.wikipedia.org/wiki/Category:1985年7月 "wikilink")
-[Category:1985年8月](https://zh.wikipedia.org/wiki/Category:1985年8月 "wikilink")
+[Category:1985年佛罗里达州](https://zh.wikipedia.org/wiki/Category:1985年佛罗里达州 "wikilink") [Category:1985年科學](https://zh.wikipedia.org/wiki/Category:1985年科學 "wikilink") [Category:挑战者号航天飞机任务](https://zh.wikipedia.org/wiki/Category:挑战者号航天飞机任务 "wikilink") [Category:1985年7月](https://zh.wikipedia.org/wiki/Category:1985年7月 "wikilink") [Category:1985年8月](https://zh.wikipedia.org/wiki/Category:1985年8月 "wikilink")

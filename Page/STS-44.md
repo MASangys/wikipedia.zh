@@ -9,6 +9,4 @@
   - **[詹姆斯·沃斯](https://zh.wikipedia.org/wiki/詹姆斯·沃斯 "wikilink")**（，曾执行、、、、、以及任务），任务专家
   - **[托马斯·亨能](https://zh.wikipedia.org/wiki/托马斯·亨能 "wikilink")**（，曾执行任务），有效载荷专家
 
-[Category:载人航天](https://zh.wikipedia.org/wiki/Category:载人航天 "wikilink")
-[Category:航天飞机任务](https://zh.wikipedia.org/wiki/Category:航天飞机任务 "wikilink")
-[Category:1991年](https://zh.wikipedia.org/wiki/Category:1991年 "wikilink")
+[Category:载人航天](https://zh.wikipedia.org/wiki/Category:载人航天 "wikilink") [Category:航天飞机任务](https://zh.wikipedia.org/wiki/Category:航天飞机任务 "wikilink") [Category:1991年](https://zh.wikipedia.org/wiki/Category:1991年 "wikilink")

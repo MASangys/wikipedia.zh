@@ -7,8 +7,7 @@
   - “over...”（2005年3月2日）※“[H2\~好逑双物语\~](https://zh.wikipedia.org/wiki/H2 "wikilink")”（）主题歌
   - “拥抱”（）（2005年5月11日）
   - “Girlfriend”（2005年7月27日）
-  - “Only
-    Human”（2005年11月23日）※“[-{zh-hans:一升的眼淚;zh-hk:一公升眼淚;zh-tw:一公升的眼淚;}-](../Page/一公升的眼淚_\(電視劇\).md "wikilink")”（）主题歌
+  - “Only Human”（2005年11月23日）※“[-{zh-hans:一升的眼淚;zh-hk:一公升眼淚;zh-tw:一公升的眼淚;}-](../Page/一公升的眼淚_\(電視劇\).md "wikilink")”（）主题歌
   - “The Day”（2006年4月19日）
   - “Brand New Map”（2006年8月23日）
   - “First Christmas”（2006年11月1日）
@@ -54,17 +53,9 @@
 
   - [K Official web site](http://www.k-official.com/)
 
-  - [Sony Music
-    Entertainment](http://www.sonymusic.co.jp/Music/Arch/SR/K/)
+  - [Sony Music Entertainment](http://www.sonymusic.co.jp/Music/Arch/SR/K/)
 
   - [STARDUST MUSIC](http://www.stardust.co.jp/profile/k.html)
 
   -
-[Category:日本男歌手](https://zh.wikipedia.org/wiki/Category:日本男歌手 "wikilink")
-[Category:韩国男歌手](https://zh.wikipedia.org/wiki/Category:韩国男歌手 "wikilink")
-[Category:日語歌手](https://zh.wikipedia.org/wiki/Category:日語歌手 "wikilink")
-[Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink")
-[Category:在日本的韓國人](https://zh.wikipedia.org/wiki/Category:在日本的韓國人 "wikilink")
-[Category:首爾特別市出身人物](https://zh.wikipedia.org/wiki/Category:首爾特別市出身人物 "wikilink")
-[Category:姜姓](https://zh.wikipedia.org/wiki/Category:姜姓 "wikilink")
-[Category:勝利娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:勝利娛樂旗下藝人 "wikilink")
+[Category:日本男歌手](https://zh.wikipedia.org/wiki/Category:日本男歌手 "wikilink") [Category:韩国男歌手](https://zh.wikipedia.org/wiki/Category:韩国男歌手 "wikilink") [Category:日語歌手](https://zh.wikipedia.org/wiki/Category:日語歌手 "wikilink") [Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink") [Category:在日本的韓國人](https://zh.wikipedia.org/wiki/Category:在日本的韓國人 "wikilink") [Category:首爾特別市出身人物](https://zh.wikipedia.org/wiki/Category:首爾特別市出身人物 "wikilink") [Category:姜姓](https://zh.wikipedia.org/wiki/Category:姜姓 "wikilink") [Category:勝利娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:勝利娛樂旗下藝人 "wikilink")

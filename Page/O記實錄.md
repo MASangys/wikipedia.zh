@@ -1,9 +1,9 @@
-《**O記實錄**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司拍攝製作的時裝警匪](../Page/電視廣播有限公司.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，全劇共22集，監製[戚其義](../Page/戚其義.md "wikilink")，此劇為《O記實錄》系列第1輯。
+《**O記實錄**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")拍攝製作的時裝警匪[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，全劇共22集，監製[戚其義](../Page/戚其義.md "wikilink")，此劇為《O記實錄》系列第1輯。
 
-監製[戚其義的名字曾出現於此劇中](../Page/戚其義.md "wikilink")：
+監製[戚其義](../Page/戚其義.md "wikilink")的名字曾出現於此劇中：
 
   - 當王志淙向其名叫「[戚其義](../Page/戚其義.md "wikilink")」的舊同學打招呼示意將會一起玩撲克牌後，便對伍頌蓮說：「佢係[魚腩嚟㗎](https://zh.wikipedia.org/wiki/魚腩部隊 "wikilink")！」
-  - 故事中曾出現一位叫「阿戚」（[戚其義暱稱](../Page/戚其義.md "wikilink")）的工作人員。
+  - 故事中曾出現一位叫「阿戚」（[戚其義](../Page/戚其義.md "wikilink")暱稱）的工作人員。
 
 ## 演員表
 
@@ -487,7 +487,7 @@ Teddy<br />
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/黃振寧" title="wikilink">黃振寧</a></p></td>
 <td><p>溫信全</p></td>
-<td><p><a href="../Page/士多.md" title="wikilink">士多東主</a><br />
+<td><p><a href="../Page/士多.md" title="wikilink">士多</a>東主<br />
 李湯美、俊友人<br />
 因欠債，故與俊等共謀綁架案，事成後欲逃往臺灣，失敗</p></td>
 </tr>
@@ -687,7 +687,7 @@ Teddy<br />
 <td><p><a href="../Page/游飈.md" title="wikilink">游　飆</a></p></td>
 <td><p>小　黃</p></td>
 <td><p>旗兵，小路表弟<br />
-被<a href="../Page/特別任務連.md" title="wikilink">特別任務連射殺</a><br />
+被<a href="../Page/特別任務連.md" title="wikilink">特別任務連</a>射殺<br />
 </p></td>
 </tr>
 <tr class="even">
@@ -764,8 +764,7 @@ Teddy<br />
   - [黃凱詩](https://zh.wikipedia.org/wiki/黃凱詩 "wikilink") 飾 情侶甲
   - [朱樂輝](https://zh.wikipedia.org/wiki/朱樂輝 "wikilink") 飾 情侶乙
   - [吳列華](https://zh.wikipedia.org/wiki/吳列華 "wikilink") 飾 售貨員
-  - [蕭玉燕](https://zh.wikipedia.org/wiki/蕭玉燕 "wikilink") 飾
-    Linda（被扯火強姦，後來自殺）
+  - [蕭玉燕](https://zh.wikipedia.org/wiki/蕭玉燕 "wikilink") 飾 Linda（被扯火強姦，後來自殺）
   - [楊瑞麟](../Page/楊瑞麟.md "wikilink") 飾 陳醫生（樊燕珊之未婚夫）
   - [陳鳳冰](../Page/陳鳳冰.md "wikilink") 飾 扯火姑媽（被扯火槍殺）
   - [何潔珊](https://zh.wikipedia.org/wiki/何潔珊 "wikilink") 飾 Model A/模特兒
@@ -799,8 +798,7 @@ Teddy<br />
   - [黃清榕](https://zh.wikipedia.org/wiki/黃清榕 "wikilink") 飾 女護士
   - [梁詠琳](../Page/梁詠琳.md "wikilink") 飾 傅　婷（Teddy前女友）
   - [鍾潔怡](https://zh.wikipedia.org/wiki/鍾潔怡 "wikilink") 飾 祖女友
-  - [劉超凡](https://zh.wikipedia.org/wiki/劉超凡 "wikilink") 飾
-    地產公司經理，與胡世傑有同性戀關係
+  - [劉超凡](https://zh.wikipedia.org/wiki/劉超凡 "wikilink") 飾 地產公司經理，與胡世傑有同性戀關係
   - [陳燕航](https://zh.wikipedia.org/wiki/陳燕航 "wikilink") 飾 職員甲
   - [劉鳳婷](https://zh.wikipedia.org/wiki/劉鳳婷 "wikilink") 飾 職員乙
   - [朱孝儀](https://zh.wikipedia.org/wiki/朱孝儀 "wikilink") 飾 鑑証員
@@ -830,14 +828,9 @@ Teddy<br />
 
 ## 外部連結
 
-  - [無綫電視官方網頁（TVBI）-
-    O記實錄](https://web.archive.org/web/20090917015527/http://tvcity.tvb.com/drama/criminal1/index.htm)
-  - [《O記實錄》 GOTV
-    第1集重溫](https://web.archive.org/web/20140222162640/http://gotv.tvb.com/programme/103226/153935/)
+  - [無綫電視官方網頁（TVBI）- O記實錄](https://web.archive.org/web/20090917015527/http://tvcity.tvb.com/drama/criminal1/index.htm)
+  - [《O記實錄》 GOTV 第1集重溫](https://web.archive.org/web/20140222162640/http://gotv.tvb.com/programme/103226/153935/)
 
 ## 電視節目的變遷
 
-[Category:無綫電視劇集系列](https://zh.wikipedia.org/wiki/Category:無綫電視劇集系列 "wikilink")
-[Category:1995年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:1995年無綫電視劇集 "wikilink")
-[Category:無綫電視1990年代背景劇集](https://zh.wikipedia.org/wiki/Category:無綫電視1990年代背景劇集 "wikilink")
-[Category:有組織罪案及三合會調查科題材電視劇](https://zh.wikipedia.org/wiki/Category:有組織罪案及三合會調查科題材電視劇 "wikilink")
+[Category:無綫電視劇集系列](https://zh.wikipedia.org/wiki/Category:無綫電視劇集系列 "wikilink") [Category:1995年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:1995年無綫電視劇集 "wikilink") [Category:無綫電視1990年代背景劇集](https://zh.wikipedia.org/wiki/Category:無綫電視1990年代背景劇集 "wikilink") [Category:有組織罪案及三合會調查科題材電視劇](https://zh.wikipedia.org/wiki/Category:有組織罪案及三合會調查科題材電視劇 "wikilink")

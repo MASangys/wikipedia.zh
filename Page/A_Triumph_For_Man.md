@@ -1,8 +1,6 @@
-**A Triumph For
-Man**為[丹麥樂團](https://zh.wikipedia.org/wiki/丹麥 "wikilink")[Mew的第一張專輯](../Page/Mew.md "wikilink")，於1997年4月由丹麥唱片廠牌Exlibris
-Musik限量發行2000張。
+**A Triumph For Man**為[丹麥樂團](https://zh.wikipedia.org/wiki/丹麥 "wikilink")[Mew](../Page/Mew.md "wikilink")的第一張專輯，於1997年4月由丹麥唱片廠牌Exlibris Musik限量發行2000張。
 
-2006年9月18日在[北歐地區重新發行為雙CD版本](../Page/北歐.md "wikilink")。
+2006年9月18日在[北歐](../Page/北歐.md "wikilink")地區重新發行為雙CD版本。
 
 ## 曲目
 
@@ -55,7 +53,4 @@ Musik限量發行2000張。
   - Kasper Tranberg—小號（第1、13首）
   - Eva Vásárhelyi—小提琴（第7、8、9首）
 
-[Category:1997年音樂專輯](https://zh.wikipedia.org/wiki/Category:1997年音樂專輯 "wikilink")
-[Category:Mew音樂專輯](https://zh.wikipedia.org/wiki/Category:Mew音樂專輯 "wikilink")
-[Category:搖滾音樂專輯](https://zh.wikipedia.org/wiki/Category:搖滾音樂專輯 "wikilink")
-[Category:丹麥音樂專輯](https://zh.wikipedia.org/wiki/Category:丹麥音樂專輯 "wikilink")
+[Category:1997年音樂專輯](https://zh.wikipedia.org/wiki/Category:1997年音樂專輯 "wikilink") [Category:Mew音樂專輯](https://zh.wikipedia.org/wiki/Category:Mew音樂專輯 "wikilink") [Category:搖滾音樂專輯](https://zh.wikipedia.org/wiki/Category:搖滾音樂專輯 "wikilink") [Category:丹麥音樂專輯](https://zh.wikipedia.org/wiki/Category:丹麥音樂專輯 "wikilink")

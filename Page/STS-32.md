@@ -8,7 +8,4 @@
   - **[大卫·洛](https://zh.wikipedia.org/wiki/大卫·洛 "wikilink")**（，曾执行、以及任务），任务专家
   - **[玛莎·埃文斯](https://zh.wikipedia.org/wiki/玛莎·埃文斯 "wikilink")**（，曾执行、、、以及任务），任务专家
 
-[Category:1990年佛罗里达州](https://zh.wikipedia.org/wiki/Category:1990年佛罗里达州 "wikilink")
-[Category:哥伦比亚号航天飞机任务](https://zh.wikipedia.org/wiki/Category:哥伦比亚号航天飞机任务 "wikilink")
-[Category:1990年科学](https://zh.wikipedia.org/wiki/Category:1990年科学 "wikilink")
-[Category:1990年1月](https://zh.wikipedia.org/wiki/Category:1990年1月 "wikilink")
+[Category:1990年佛罗里达州](https://zh.wikipedia.org/wiki/Category:1990年佛罗里达州 "wikilink") [Category:哥伦比亚号航天飞机任务](https://zh.wikipedia.org/wiki/Category:哥伦比亚号航天飞机任务 "wikilink") [Category:1990年科学](https://zh.wikipedia.org/wiki/Category:1990年科学 "wikilink") [Category:1990年1月](https://zh.wikipedia.org/wiki/Category:1990年1月 "wikilink")

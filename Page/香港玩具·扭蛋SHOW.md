@@ -1,4 +1,4 @@
-**香港玩具·扭蛋SHOW**號稱為全球首個[扭蛋展覽](https://zh.wikipedia.org/wiki/扭蛋 "wikilink")，於2007年4月在[香港首次舉辦](../Page/香港.md "wikilink")，於[灣仔](../Page/灣仔.md "wikilink")[香港會議展覽中心舉行](../Page/香港會議展覽中心.md "wikilink")。
+**香港玩具·扭蛋SHOW**號稱為全球首個[扭蛋展覽](https://zh.wikipedia.org/wiki/扭蛋 "wikilink")，於2007年4月在[香港](../Page/香港.md "wikilink")首次舉辦，於[灣仔](../Page/灣仔.md "wikilink")[香港會議展覽中心](../Page/香港會議展覽中心.md "wikilink")舉行。
 
 ## 內容
 
@@ -15,17 +15,12 @@
   - 會場內的扭蛋機款式普通，與平時的扭蛋機一樣
   - 會場內的扭蛋機排得密密麻麻，令場面相當擠迫
   - 扭蛋機的扭蛋不足，至下午5時已超過有10部無蛋可扭，但工作人員表示第二天才加
-  - 有很多與扭蛋無關的攤位，如[銀行](../Page/銀行.md "wikilink")、[瑜伽和](../Page/瑜伽.md "wikilink")[美容](../Page/美容.md "wikilink")[化妝等](https://zh.wikipedia.org/wiki/化妝 "wikilink")
+  - 有很多與扭蛋無關的攤位，如[銀行](../Page/銀行.md "wikilink")、[瑜伽](../Page/瑜伽.md "wikilink")和[美容](../Page/美容.md "wikilink")[化妝等](https://zh.wikipedia.org/wiki/化妝 "wikilink")
   - 擬申請列入[健力士世界紀錄最多人同時扭蛋的活動](https://zh.wikipedia.org/wiki/健力士世界紀錄 "wikilink")，場面相當混亂
 
 ## 參考資料
 
-  - [兌幣排長龍
-    扭蛋展怨聲多 7.2萬人迫爆會展 1個兌換處](https://web.archive.org/web/20070409021529/http://hk.news.yahoo.com/070406/12/252i0.html)，[明報](../Page/明報.md "wikilink")，2007年4月7日
-  - [扭蛋展開幕
-    七萬人入場](https://web.archive.org/web/20070507112124/http://hk.news.yahoo.com/070406/60/252p6.html)，[星島日報](../Page/星島日報.md "wikilink")，2007年4月7日
+  - [兌幣排長龍 扭蛋展怨聲多 7.2萬人迫爆會展 1個兌換處](https://web.archive.org/web/20070409021529/http://hk.news.yahoo.com/070406/12/252i0.html)，[明報](../Page/明報.md "wikilink")，2007年4月7日
+  - [扭蛋展開幕 七萬人入場](https://web.archive.org/web/20070507112124/http://hk.news.yahoo.com/070406/60/252p6.html)，[星島日報](../Page/星島日報.md "wikilink")，2007年4月7日
 
-[Category:香港展覽](https://zh.wikipedia.org/wiki/Category:香港展覽 "wikilink")
-[Category:香港的世界之最](https://zh.wikipedia.org/wiki/Category:香港的世界之最 "wikilink")
-[Category:玩具文化](https://zh.wikipedia.org/wiki/Category:玩具文化 "wikilink")
-[Category:2007年香港](https://zh.wikipedia.org/wiki/Category:2007年香港 "wikilink")
+[Category:香港展覽](https://zh.wikipedia.org/wiki/Category:香港展覽 "wikilink") [Category:香港的世界之最](https://zh.wikipedia.org/wiki/Category:香港的世界之最 "wikilink") [Category:玩具文化](https://zh.wikipedia.org/wiki/Category:玩具文化 "wikilink") [Category:2007年香港](https://zh.wikipedia.org/wiki/Category:2007年香港 "wikilink")

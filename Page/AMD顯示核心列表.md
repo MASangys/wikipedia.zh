@@ -1,6 +1,6 @@
 本列表包含由[AMD公司推出的顯示核心之基本資料](https://zh.wikipedia.org/wiki/AMD "wikilink")，包含其收購于[ATI的產品](../Page/冶天科技.md "wikilink")。內容只供參考。
 
-## [DirectX版本註釋](../Page/DirectX.md "wikilink")
+## [DirectX](../Page/DirectX.md "wikilink")版本註釋
 
   - DirectX 5.0 - 雾化效果，Alpha混合
   - DirectX 6.0 - [紋理映射](https://zh.wikipedia.org/wiki/紋理映射 "wikilink")
@@ -10,76 +10,48 @@
   - DirectX 9.0 - Shader Model 2.0
   - DirectX 9.0b - Pixel Shader 2.0b，Vertex Shader 2.0
   - DirectX 9.0c - Shader Model 3.0
-  - DirectX 9.0Ex - [Windows
-    Vista版本的DirectX](../Page/Windows_Vista.md "wikilink")
-    9.0c，Shader Model 3.0，DXVA 1.0
-  - DirectX 10 - Shader Model 4.0，Windows Graphic Foundation 2.0，DXVA
-    2.0
-  - DirectX 10.1 - Shader Model 4.1，Windows Graphic Foundation 2.1，DXVA
-    2.1
+  - DirectX 9.0Ex - [Windows Vista版本的DirectX](../Page/Windows_Vista.md "wikilink") 9.0c，Shader Model 3.0，DXVA 1.0
+  - DirectX 10 - Shader Model 4.0，Windows Graphic Foundation 2.0，DXVA 2.0
+  - DirectX 10.1 - Shader Model 4.1，Windows Graphic Foundation 2.1，DXVA 2.1
   - DirectX 11 - Shader Model 5.0，Tessellation鑲嵌技術，多线程渲染，計算著色器
   - Direct3D 11.1 - Windows 8, Stereoscopic 3D Rendering, GPGPU
   - Direct3D 11.2 - Windows 8.1, Tiled resources, GPGPU
   - Direct3D 12.0 - Windows 10, low-level rendering API, GPGPU
 
-## [OpenGL版本註釋](../Page/OpenGL.md "wikilink")
+## [OpenGL](../Page/OpenGL.md "wikilink")版本註釋
 
   - OpenGL 1.1 - 纹理对象
   - OpenGL 1.2 - 3D纹理，BGRA压缩象素格式
   - OpenGL 1.3 - 多重渲染，多重采样，纹理压缩
   - OpenGL 1.4 - 深度纹理
   - OpenGL 1.5 - 物体顶点缓冲，遮面查詢
-  - OpenGL 2.0 - [GLSL](../Page/GLSL.md "wikilink")
-    1.1，多渲染目标，可编程着色语言，双面模板
+  - OpenGL 2.0 - [GLSL](../Page/GLSL.md "wikilink") 1.1，多渲染目标，可编程着色语言，双面模板
   - OpenGL 2.1 - GLSL 1.2，物体像素缓冲，sRGB纹理
   - OpenGL 3.0 - GLSL 1.3，纹理阵列，条件渲染，FBO
   - OpenGL 3.1 - GLSL 1.4，纹理缓冲对象，统一缓冲对象，符号正常化纹理，基本元素重启，实例化，拷贝缓冲接口
   - OpenGL 3.2 - GLSL 1.5，著色器可直接處理紋理採樣，改進管線可程式設計性
-  - OpenGL 3.3 - GLSL 3.3，同OpenGL 4.0，大量新的ARB扩展，使OpenGL
-    3.x级别硬件尽可能多的支持OpenGL 4.x级别硬件的特性
-  - OpenGL 4.0 - GLSL
-    4.0，两种新的著色阶段，增加渲染质量和反锯齿灵活性，数据绘图由外部API负责，加强GPU通用计算，64位双精度浮点着色器
-  - OpenGL 4.1 - GLSL 4.1，支援著色器二進位資訊提取和載入，64位浮點元件支援頂點著色器輸入，完全相容于OpenGL
-    ES 2.0 APIs
-  - OpenGL 4.2 - GLSL
-    4.2，允许多种操作的Shader同处在一个级别的纹理单元内，捕捉GPU细分几何图形，绘制多个实例用来改变反馈结果，一个32bit精度的数值可以包含多个8bit和16bit精度数值
-  - OpenGL 4.3 - GLSL 4.30 Compute shaders leveraging GPU parallelism,
-    shader storage buffer objects, high-quality ETC2/EAC texture
-    compression, increased memory security, a multi-application
-    robustness extension
-  - OpenGL 4.4 - GLSL 4.40 Buffer Placement Control, Efficient
-    Asynchronous Queries, Shader Variable Layout, Efficient Multiple
-    Object Binding, Streamlined Porting of Direct3D applications,
-    Bindless Texture Extension, Sparse Texture Extension
+  - OpenGL 3.3 - GLSL 3.3，同OpenGL 4.0，大量新的ARB扩展，使OpenGL 3.x级别硬件尽可能多的支持OpenGL 4.x级别硬件的特性
+  - OpenGL 4.0 - GLSL 4.0，两种新的著色阶段，增加渲染质量和反锯齿灵活性，数据绘图由外部API负责，加强GPU通用计算，64位双精度浮点着色器
+  - OpenGL 4.1 - GLSL 4.1，支援著色器二進位資訊提取和載入，64位浮點元件支援頂點著色器輸入，完全相容于OpenGL ES 2.0 APIs
+  - OpenGL 4.2 - GLSL 4.2，允许多种操作的Shader同处在一个级别的纹理单元内，捕捉GPU细分几何图形，绘制多个实例用来改变反馈结果，一个32bit精度的数值可以包含多个8bit和16bit精度数值
+  - OpenGL 4.3 - GLSL 4.30 Compute shaders leveraging GPU parallelism, shader storage buffer objects, high-quality ETC2/EAC texture compression, increased memory security, a multi-application robustness extension
+  - OpenGL 4.4 - GLSL 4.40 Buffer Placement Control, Efficient Asynchronous Queries, Shader Variable Layout, Efficient Multiple Object Binding, Streamlined Porting of Direct3D applications, Bindless Texture Extension, Sparse Texture Extension
   - OpenGL 4.5 - GLSL 4.50
 
 ## Video codec acceleration
 
-  - **R100** - [Video
-    Immersion](https://zh.wikipedia.org/wiki/Video_Immersion "wikilink")
-  - **R200** - [Video Immersion
-    II](https://zh.wikipedia.org/wiki/Video_Immersion "wikilink")
-  - **R300** - [Video Immersion
-    II](https://zh.wikipedia.org/wiki/Video_Immersion "wikilink") +
-    [Video
-    Shader](https://zh.wikipedia.org/wiki/Video_Shader "wikilink")
-  - **R410** - [Video Shader
-    HD](https://zh.wikipedia.org/wiki/Video_Shader "wikilink")
-  - **R420** - [Video Shader
-    HD](https://zh.wikipedia.org/wiki/Video_Shader "wikilink") +
-    [DXVA](https://zh.wikipedia.org/wiki/DXVA "wikilink")
-  - **R520** - [Avivo
-    Video](https://zh.wikipedia.org/wiki/Avivo "wikilink")
-  - **R600** - [Avivo HD
-    Video](https://zh.wikipedia.org/wiki/Avivo "wikilink") -
-    [UVD](https://zh.wikipedia.org/wiki/Unified_Video_Decoder "wikilink")
+  - **R100** - [Video Immersion](https://zh.wikipedia.org/wiki/Video_Immersion "wikilink")
+  - **R200** - [Video Immersion II](https://zh.wikipedia.org/wiki/Video_Immersion "wikilink")
+  - **R300** - [Video Immersion II](https://zh.wikipedia.org/wiki/Video_Immersion "wikilink") + [Video Shader](https://zh.wikipedia.org/wiki/Video_Shader "wikilink")
+  - **R410** - [Video Shader HD](https://zh.wikipedia.org/wiki/Video_Shader "wikilink")
+  - **R420** - [Video Shader HD](https://zh.wikipedia.org/wiki/Video_Shader "wikilink") + [DXVA](https://zh.wikipedia.org/wiki/DXVA "wikilink")
+  - **R520** - [Avivo Video](https://zh.wikipedia.org/wiki/Avivo "wikilink")
+  - **R600** - [Avivo HD Video](https://zh.wikipedia.org/wiki/Avivo "wikilink") - [UVD](https://zh.wikipedia.org/wiki/Unified_Video_Decoder "wikilink")
   - **R700** - UVD 2, UVD 2.2
   - **Evergreen** - UVD 2.2
   - **Northern Islands** - UVD 3 (HD 67xx UVD 2.2)
-  - **Southern Islands** - UVD 3, [Video Codec
-    Engine](https://zh.wikipedia.org/wiki/Video_Codec_Engine "wikilink")
-  - **Volcanic Islands** - UVD 4.x, [Video Codec Engine
-    2.0](https://zh.wikipedia.org/wiki/Video_Codec_Engine_2.0 "wikilink")\[1\]\[2\]
+  - **Southern Islands** - UVD 3, [Video Codec Engine](https://zh.wikipedia.org/wiki/Video_Codec_Engine "wikilink")
+  - **Volcanic Islands** - UVD 4.x, [Video Codec Engine 2.0](https://zh.wikipedia.org/wiki/Video_Codec_Engine_2.0 "wikilink")\[1\]\[2\]
 
 ## 桌面核心列表
 
@@ -143,10 +115,7 @@
 </tbody>
 </table>
 
-<sup>1</sup> [Pixel
-pipelines](https://zh.wikipedia.org/wiki/Pixel_pipeline "wikilink") :
-[Render output
-units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
+<sup>1</sup> [Pixel pipelines](https://zh.wikipedia.org/wiki/Pixel_pipeline "wikilink") : [Render output units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
 
 ### Mach 系列
 
@@ -212,10 +181,7 @@ VRAM</p></td>
 </tbody>
 </table>
 
-<sup>1</sup> [Pixel
-pipelines](https://zh.wikipedia.org/wiki/Pixel_pipeline "wikilink") :
-[Render output
-units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
+<sup>1</sup> [Pixel pipelines](https://zh.wikipedia.org/wiki/Pixel_pipeline "wikilink") : [Render output units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
 
 ### Rage系列
 
@@ -369,20 +335,12 @@ units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
 </tbody>
 </table>
 
-<sup>1</sup> [Pixel
-pipelines](https://zh.wikipedia.org/wiki/Pixel_pipeline "wikilink") :
-[Vertex shaders](https://zh.wikipedia.org/wiki/Vertex_shader "wikilink")
-: [Texture mapping
-units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") :
-[Render output
-units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
-<sup>2</sup> OpenGL 1.0 (Generic 2D) is provided through software
-implementations.
+<sup>1</sup> [Pixel pipelines](https://zh.wikipedia.org/wiki/Pixel_pipeline "wikilink") : [Vertex shaders](https://zh.wikipedia.org/wiki/Vertex_shader "wikilink") : [Texture mapping units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") : [Render output units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
+<sup>2</sup> OpenGL 1.0 (Generic 2D) is provided through software implementations.
 
 ### Radeon R100系列
 
-  - <sup>1</sup>
-    [顶点着色单元](https://zh.wikipedia.org/wiki/顶点着色单元 "wikilink")：[像素着色单元](https://zh.wikipedia.org/wiki/像素着色单元 "wikilink")：[材质贴图单元](https://zh.wikipedia.org/wiki/材质贴图单元 "wikilink")：[渲染输出单元](https://zh.wikipedia.org/wiki/渲染输出单元 "wikilink")
+  - <sup>1</sup> [顶点着色单元](https://zh.wikipedia.org/wiki/顶点着色单元 "wikilink")：[像素着色单元](https://zh.wikipedia.org/wiki/像素着色单元 "wikilink")：[材质贴图单元](https://zh.wikipedia.org/wiki/材质贴图单元 "wikilink")：[渲染输出单元](https://zh.wikipedia.org/wiki/渲染输出单元 "wikilink")
 
 <table>
 <thead>
@@ -571,8 +529,7 @@ implementations.
 
 ### Radeon R200系列
 
-  - <sup>1</sup>
-    [像素着色单元](https://zh.wikipedia.org/wiki/像素着色单元 "wikilink")：[顶点着色单元](https://zh.wikipedia.org/wiki/顶点着色单元 "wikilink")：[材质贴图单元](https://zh.wikipedia.org/wiki/材质贴图单元 "wikilink")：[渲染输出单元](https://zh.wikipedia.org/wiki/渲染输出单元 "wikilink")
+  - <sup>1</sup> [像素着色单元](https://zh.wikipedia.org/wiki/像素着色单元 "wikilink")：[顶点着色单元](https://zh.wikipedia.org/wiki/顶点着色单元 "wikilink")：[材质贴图单元](https://zh.wikipedia.org/wiki/材质贴图单元 "wikilink")：[渲染输出单元](https://zh.wikipedia.org/wiki/渲染输出单元 "wikilink")
   - <sup>2</sup> 基于R200的GPU缺少对于GL_ARB的纹理深度和阴影的支持，因此并不完全支持OpenGL 1.4
 
 | 型号                                                               | 推出年分  | 开發代号                                   | 製程（[纳米](../Page/纳米.md "wikilink")）        | [匯流排介面](https://zh.wikipedia.org/wiki/匯流排 "wikilink") | 最高支援記憶体容量（[MB](https://zh.wikipedia.org/wiki/MB "wikilink")） | 最高核心頻率（[MHz](https://zh.wikipedia.org/wiki/MHz "wikilink")） | 最高記憶体頻率（[MHz](https://zh.wikipedia.org/wiki/MHz "wikilink")） | [管線](https://zh.wikipedia.org/wiki/管線 "wikilink") x [TMU](https://zh.wikipedia.org/wiki/TMU "wikilink") x [VPU](https://zh.wikipedia.org/wiki/VPU "wikilink") | 最高[多邊形產生速率](https://zh.wikipedia.org/wiki/多邊形產生速率 "wikilink")（[MT](https://zh.wikipedia.org/wiki/Texel_\(graphics\) "wikilink")／s） | 記憶体  | Graphics library support（版本） | 特色  |
@@ -598,8 +555,7 @@ implementations.
 
 ### Radeon R300 AGP系列
 
-  - <sup>1</sup>
-    [顶点着色器](https://zh.wikipedia.org/wiki/顶点着色器 "wikilink")：[像素着色器](https://zh.wikipedia.org/wiki/像素着色器 "wikilink")：[材质贴图单元](https://zh.wikipedia.org/wiki/材质贴图单元 "wikilink")：[渲染输出单元](https://zh.wikipedia.org/wiki/渲染输出单元 "wikilink")
+  - <sup>1</sup> [顶点着色器](https://zh.wikipedia.org/wiki/顶点着色器 "wikilink")：[像素着色器](https://zh.wikipedia.org/wiki/像素着色器 "wikilink")：[材质贴图单元](https://zh.wikipedia.org/wiki/材质贴图单元 "wikilink")：[渲染输出单元](https://zh.wikipedia.org/wiki/渲染输出单元 "wikilink")
   - <sup>2</sup> F-buffer是位于每条像素管线的小型缓冲，目的是为了突破由于R300架构每次只能处理64指令的限制
 
 | 型号                                                               | 推出年分                                            | 开發代号                                   | 製程（[纳米](../Page/纳米.md "wikilink")）        | [匯流排介面](https://zh.wikipedia.org/wiki/匯流排 "wikilink") | 最高支援記億体容量（[MB](https://zh.wikipedia.org/wiki/MB "wikilink")） | 最高核心頻率（[MHz](https://zh.wikipedia.org/wiki/MHz "wikilink")） | 最高記億体頻率（[MHz](https://zh.wikipedia.org/wiki/MHz "wikilink")） | [管線](https://zh.wikipedia.org/wiki/管線 "wikilink") x [TMU](https://zh.wikipedia.org/wiki/TMU "wikilink") x [VPU](https://zh.wikipedia.org/wiki/VPU "wikilink") | 最高[多邊形產生速率](https://zh.wikipedia.org/wiki/多邊形產生速率 "wikilink")（[MT](https://zh.wikipedia.org/wiki/Texel_\(graphics\) "wikilink")／s） | 記億体        | Graphics library support（版本） | 特色         |
@@ -633,8 +589,7 @@ implementations.
 
 ### Radeon R300 PCIe系列
 
-  - <sup>1</sup>
-    [顶点着色单元](https://zh.wikipedia.org/wiki/顶点着色单元 "wikilink")：[像素着色单元](https://zh.wikipedia.org/wiki/像素着色单元 "wikilink")：[材质贴图单元](https://zh.wikipedia.org/wiki/材质贴图单元 "wikilink")：[渲染输出单元](https://zh.wikipedia.org/wiki/渲染输出单元 "wikilink")
+  - <sup>1</sup> [顶点着色单元](https://zh.wikipedia.org/wiki/顶点着色单元 "wikilink")：[像素着色单元](https://zh.wikipedia.org/wiki/像素着色单元 "wikilink")：[材质贴图单元](https://zh.wikipedia.org/wiki/材质贴图单元 "wikilink")：[渲染输出单元](https://zh.wikipedia.org/wiki/渲染输出单元 "wikilink")
 
 | 型号                                                               | 推出年分       | 开發代号                                   | 製程（[纳米](../Page/纳米.md "wikilink")）        | [匯流排介面](https://zh.wikipedia.org/wiki/匯流排 "wikilink") | 最高支援記億体容量（[MB](https://zh.wikipedia.org/wiki/MB "wikilink")） | 最高核心頻率（[MHz](https://zh.wikipedia.org/wiki/MHz "wikilink")） | 最高記億体頻率（[MHz](https://zh.wikipedia.org/wiki/MHz "wikilink")） | [管線](https://zh.wikipedia.org/wiki/管線 "wikilink") x [TMU](https://zh.wikipedia.org/wiki/TMU "wikilink") x [VPU](https://zh.wikipedia.org/wiki/VPU "wikilink") | 最高[多邊形產生速率](https://zh.wikipedia.org/wiki/多邊形產生速率 "wikilink")（[MT](https://zh.wikipedia.org/wiki/Texel_\(graphics\) "wikilink")／s） | 記億体        | Graphics library support（版本） | 特色            |
 | ---------------------------------------------------------------- | ---------- | -------------------------------------- | ----------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------------ | ----------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------------------------- | ------------- |
@@ -655,8 +610,7 @@ implementations.
 
 ### Radeon R400 AGP系列
 
-  - <sup>1</sup>
-    [顶点着色单元](https://zh.wikipedia.org/wiki/顶点着色单元 "wikilink")：[像素着色单元](https://zh.wikipedia.org/wiki/像素着色单元 "wikilink")：[材质贴图单元](https://zh.wikipedia.org/wiki/材质贴图单元 "wikilink")：[渲染输出单元](https://zh.wikipedia.org/wiki/渲染输出单元 "wikilink")
+  - <sup>1</sup> [顶点着色单元](https://zh.wikipedia.org/wiki/顶点着色单元 "wikilink")：[像素着色单元](https://zh.wikipedia.org/wiki/像素着色单元 "wikilink")：[材质贴图单元](https://zh.wikipedia.org/wiki/材质贴图单元 "wikilink")：[渲染输出单元](https://zh.wikipedia.org/wiki/渲染输出单元 "wikilink")
 
 | 型号                                                               | 推出年分                                            | 开發代号                                   | 製程（[纳米](../Page/纳米.md "wikilink")）        | [匯流排介面](https://zh.wikipedia.org/wiki/匯流排 "wikilink") | 最高支援記億体容量（[MB](https://zh.wikipedia.org/wiki/MB "wikilink")） | 最高核心頻率（[MHz](https://zh.wikipedia.org/wiki/MHz "wikilink")） | 最高記億体頻率（[MHz](https://zh.wikipedia.org/wiki/MHz "wikilink")） | [管線](https://zh.wikipedia.org/wiki/管線 "wikilink") x [TMU](https://zh.wikipedia.org/wiki/TMU "wikilink") x [VPU](https://zh.wikipedia.org/wiki/VPU "wikilink") | 最高[多邊形產生速率](https://zh.wikipedia.org/wiki/多邊形產生速率 "wikilink")（[MT](https://zh.wikipedia.org/wiki/Texel_\(graphics\) "wikilink")／s） | 記億体   | Graphics library support（版本） | 特色  |
 | ---------------------------------------------------------------- | ----------------------------------------------- | -------------------------------------- | ----------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------------ | ----------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ----- | ---------------------------- | --- |
@@ -676,8 +630,7 @@ implementations.
 
 ### Radeon R400 PCIe系列
 
-  - <sup>1</sup>
-    [顶点着色单元](https://zh.wikipedia.org/wiki/顶点着色单元 "wikilink")：[像素着色单元](https://zh.wikipedia.org/wiki/像素着色单元 "wikilink")：[材质贴图单元](https://zh.wikipedia.org/wiki/材质贴图单元 "wikilink")：[渲染输出单元](https://zh.wikipedia.org/wiki/渲染输出单元 "wikilink")
+  - <sup>1</sup> [顶点着色单元](https://zh.wikipedia.org/wiki/顶点着色单元 "wikilink")：[像素着色单元](https://zh.wikipedia.org/wiki/像素着色单元 "wikilink")：[材质贴图单元](https://zh.wikipedia.org/wiki/材质贴图单元 "wikilink")：[渲染输出单元](https://zh.wikipedia.org/wiki/渲染输出单元 "wikilink")
 
 | 型号                                                               | 推出年分                                            | 开發代号                                   | 製程（[纳米](../Page/纳米.md "wikilink")）        | [匯流排介面](https://zh.wikipedia.org/wiki/匯流排 "wikilink") | 最高支援記億体容量（[MB](https://zh.wikipedia.org/wiki/MB "wikilink")） | 最高核心頻率（[MHz](https://zh.wikipedia.org/wiki/MHz "wikilink")） | 最高記億体頻率（[MHz](https://zh.wikipedia.org/wiki/MHz "wikilink")） | [管線](https://zh.wikipedia.org/wiki/管線 "wikilink") x [TMU](https://zh.wikipedia.org/wiki/TMU "wikilink") x [VPU](https://zh.wikipedia.org/wiki/VPU "wikilink") | 最高[多邊形產生速率](https://zh.wikipedia.org/wiki/多邊形產生速率 "wikilink")（[MT](https://zh.wikipedia.org/wiki/Texel_\(graphics\) "wikilink")／s） | 記億体   | Graphics library support（版本） | 特色  |
 | ---------------------------------------------------------------- | ----------------------------------------------- | -------------------------------------- | ----------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------------ | ----------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ----- | ---------------------------- | --- |
@@ -712,8 +665,7 @@ implementations.
 
 ### Radeon R500系列
 
-  - <sup>1</sup>
-    [顶点着色单元](https://zh.wikipedia.org/wiki/顶点着色单元 "wikilink")：[像素着色单元](https://zh.wikipedia.org/wiki/像素着色单元 "wikilink")：[材质贴图单元](https://zh.wikipedia.org/wiki/材质贴图单元 "wikilink")：[渲染输出单元](https://zh.wikipedia.org/wiki/渲染输出单元 "wikilink")
+  - <sup>1</sup> [顶点着色单元](https://zh.wikipedia.org/wiki/顶点着色单元 "wikilink")：[像素着色单元](https://zh.wikipedia.org/wiki/像素着色单元 "wikilink")：[材质贴图单元](https://zh.wikipedia.org/wiki/材质贴图单元 "wikilink")：[渲染输出单元](https://zh.wikipedia.org/wiki/渲染输出单元 "wikilink")
 
 | 型号                                                                                   | 推出年分                     | 开發代号                                   | 製程（[纳米](../Page/纳米.md "wikilink")）        | [匯流排介面](https://zh.wikipedia.org/wiki/匯流排 "wikilink")                                                                                                                                                                    | 最高支援記億体容量（[MB](https://zh.wikipedia.org/wiki/MB "wikilink")） | 最高核心頻率（[MHz](https://zh.wikipedia.org/wiki/MHz "wikilink")） | 最高記億体頻率（[MHz](https://zh.wikipedia.org/wiki/MHz "wikilink")） | [管線](https://zh.wikipedia.org/wiki/管線 "wikilink") x [TMU](https://zh.wikipedia.org/wiki/TMU "wikilink") x [VPU](https://zh.wikipedia.org/wiki/VPU "wikilink") | 最高[多邊形產生速率](https://zh.wikipedia.org/wiki/多邊形產生速率 "wikilink")（[MT](https://zh.wikipedia.org/wiki/Texel_\(graphics\) "wikilink")／s） | 記億体  | Graphics library support（版本）                            | 特色                 |
 | ------------------------------------------------------------------------------------ | ------------------------ | -------------------------------------- | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------ | ----------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ---- | ------------------------------------------------------- | ------------------ |
@@ -1272,12 +1224,9 @@ GDDR4</p></td>
 
 #### Radeon HD 3xxx IGP 系列
 
-  - <sup>1</sup>
-    [向量著色器](https://zh.wikipedia.org/wiki/向量著色器 "wikilink")：[像素著色器](https://zh.wikipedia.org/wiki/像素著色器 "wikilink")：[紋理映射單元](https://zh.wikipedia.org/wiki/紋理映射單元 "wikilink")：[Render
-    輸出單元](https://zh.wikipedia.org/wiki/Render_輸出單元 "wikilink")
+  - <sup>1</sup> [向量著色器](https://zh.wikipedia.org/wiki/向量著色器 "wikilink")：[像素著色器](https://zh.wikipedia.org/wiki/像素著色器 "wikilink")：[紋理映射單元](https://zh.wikipedia.org/wiki/紋理映射單元 "wikilink")：[Render 輸出單元](https://zh.wikipedia.org/wiki/Render_輸出單元 "wikilink")
   - <sup>2</sup> AMD OverDrive
-  - <sup>3</sup> 880G還會提供加速視頻轉碼(AVT)技術，借助驅動實現GPU加速，使得H.264/MPEG-2
-    1080p視頻轉碼速度比播放速度更快。該技術將獲得CyberLink PowerDirector 7的支持
+  - <sup>3</sup> 880G還會提供加速視頻轉碼(AVT)技術，借助驅動實現GPU加速，使得H.264/MPEG-2 1080p視頻轉碼速度比播放速度更快。該技術將獲得CyberLink PowerDirector 7的支持
 
 <table>
 <thead>
@@ -1706,29 +1655,13 @@ local frame buffer<br />
 </tbody>
 </table>
 
-<sup>1</sup> [Pixel
-pipelines](https://zh.wikipedia.org/wiki/Pixel_pipeline "wikilink") :
-[Vertex shaders](https://zh.wikipedia.org/wiki/Vertex_shader "wikilink")
-: [Texture mapping
-units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") :
-[Render output
-units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
-<sup>2</sup> [Unified
-shaders](https://zh.wikipedia.org/wiki/Unified_Shader_Model "wikilink")
-: [Texture mapping
-units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") :
-[Render output
-units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
+<sup>1</sup> [Pixel pipelines](https://zh.wikipedia.org/wiki/Pixel_pipeline "wikilink") : [Vertex shaders](https://zh.wikipedia.org/wiki/Vertex_shader "wikilink") : [Texture mapping units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") : [Render output units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
+<sup>2</sup> [Unified shaders](https://zh.wikipedia.org/wiki/Unified_Shader_Model "wikilink") : [Texture mapping units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") : [Render output units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
 
 ### Radeon R700系列
 
-  - <sup>1</sup> [向量著色器](https://zh.wikipedia.org/wiki/向量著色器 "wikilink")
-    : [像素著色器](https://zh.wikipedia.org/wiki/像素著色器 "wikilink") :
-    [紋理映射單元](https://zh.wikipedia.org/wiki/紋理映射單元 "wikilink")
-    : [Render
-    輸出單元](https://zh.wikipedia.org/wiki/Render_輸出單元 "wikilink")
-  - <sup>2</sup> Radeon HD 4850的浮點運算能力已經達到接近1T Flops的水平，而Radeon HD
-    4870更是達到了1.2T Flops，超過了過去3870 X2的1.056T Flops。
+  - <sup>1</sup> [向量著色器](https://zh.wikipedia.org/wiki/向量著色器 "wikilink") : [像素著色器](https://zh.wikipedia.org/wiki/像素著色器 "wikilink") : [紋理映射單元](https://zh.wikipedia.org/wiki/紋理映射單元 "wikilink") : [Render 輸出單元](https://zh.wikipedia.org/wiki/Render_輸出單元 "wikilink")
+  - <sup>2</sup> Radeon HD 4850的浮點運算能力已經達到接近1T Flops的水平，而Radeon HD 4870更是達到了1.2T Flops，超過了過去3870 X2的1.056T Flops。
   - <sup>3</sup> [UVD](../Page/UVD.md "wikilink")
   - <sup>4</sup> Radeon HD 4870是業界首次採用GDDR5裝備顯示卡，而GDDR5的頻寬更大，功耗更低。
   - <sup>5</sup> Radeon HD 4770是業界首次採用40nm GPU顯示卡，耗電量及發熱量有所降低。
@@ -2115,17 +2048,10 @@ GDDR4</p></td>
 
 ### Evergreen 系列
 
-  - <sup>1</sup> [向量著色器](https://zh.wikipedia.org/wiki/向量著色器 "wikilink")
-    : [像素著色器](https://zh.wikipedia.org/wiki/像素著色器 "wikilink") :
-    [紋理映射單元](https://zh.wikipedia.org/wiki/紋理映射單元 "wikilink")
-    : [Render
-    輸出單元](https://zh.wikipedia.org/wiki/Render_輸出單元 "wikilink")
+  - <sup>1</sup> [向量著色器](https://zh.wikipedia.org/wiki/向量著色器 "wikilink") : [像素著色器](https://zh.wikipedia.org/wiki/像素著色器 "wikilink") : [紋理映射單元](https://zh.wikipedia.org/wiki/紋理映射單元 "wikilink") : [Render 輸出單元](https://zh.wikipedia.org/wiki/Render_輸出單元 "wikilink")
   - <sup>2</sup> Radeon HD 5870的浮點運算能力已經達到2.72 TeraFLOPS的水平。
   - <sup>3</sup> Radeon HD 5870是業界首款支援DirectX 11的顯示晶片。採用40奈米工藝製造。
-  - <sup>4</sup> 首次配備[ATI
-    Eyefinity單卡多顯技術](https://zh.wikipedia.org/wiki/ATI_Eyefinity "wikilink")，全球首款支援源碼輸出[Dolby
-    TrueHD與](https://zh.wikipedia.org/wiki/Dolby_TrueHD "wikilink")[DTS-HD
-    Master Audio的顯示晶片](../Page/DTS-HD_Master_Audio.md "wikilink")。
+  - <sup>4</sup> 首次配備[ATI Eyefinity單卡多顯技術](https://zh.wikipedia.org/wiki/ATI_Eyefinity "wikilink")，全球首款支援源碼輸出[Dolby TrueHD與](https://zh.wikipedia.org/wiki/Dolby_TrueHD "wikilink")[DTS-HD Master Audio的顯示晶片](../Page/DTS-HD_Master_Audio.md "wikilink")。
 
 #### PCIe
 
@@ -2400,9 +2326,7 @@ DDR3</p></td>
 ### Northern Islands (HD 6xxx) 北方群岛系列
 
   - 所有型号均采用 40 nm 制程.
-  - 所有型号均支持 [DirectX](../Page/DirectX.md "wikilink") 11,
-    [OpenGL](../Page/OpenGL.md "wikilink") 4.1 和
-    [OpenCL](../Page/OpenCL.md "wikilink") 1.1
+  - 所有型号均支持 [DirectX](../Page/DirectX.md "wikilink") 11, [OpenGL](../Page/OpenGL.md "wikilink") 4.1 和 [OpenCL](../Page/OpenCL.md "wikilink") 1.1
 
 <table>
 <thead>
@@ -2410,7 +2334,7 @@ DDR3</p></td>
 <th><p>型号</p></th>
 <th><p>推出年分</p></th>
 <th><p>开发代号</p></th>
-<th><p><a href="../Page/晶体管.md" title="wikilink">晶体管数</a> (百万)</p></th>
+<th><p><a href="../Page/晶体管.md" title="wikilink">晶体管</a>数 (百万)</p></th>
 <th><p>核心尺寸 (<a href="https://zh.wikipedia.org/wiki/平方毫米" title="wikilink">mm<sup>2</sup></a>)</p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/匯流排" title="wikilink">匯流排介面</a></p></th>
 <th><p>記億体 (<a href="https://zh.wikipedia.org/wiki/MB" title="wikilink">MB</a>)</p></th>
@@ -2656,20 +2580,14 @@ GDDR5</p></td>
 </tbody>
 </table>
 
-  - <sup>1</sup> [通用着色器](https://zh.wikipedia.org/wiki/GPGPU "wikilink")
-    ([顶点着色器](https://zh.wikipedia.org/wiki/顶点着色器 "wikilink")/[几何着色器](https://zh.wikipedia.org/wiki/几何着色器 "wikilink")/[像素着色器](https://zh.wikipedia.org/wiki/像素着色器 "wikilink"))
-    : [材质贴图单元](https://zh.wikipedia.org/wiki/材质贴图单元 "wikilink") :
-    [渲染输出单元](https://zh.wikipedia.org/wiki/渲染输出单元 "wikilink")
-  - <sup>2</sup>
-    [GDDR5的有效数据传输速率为时钟频率的](../Page/GDDR5.md "wikilink")4倍，而非其他DDR记忆体的2倍
+  - <sup>1</sup> [通用着色器](https://zh.wikipedia.org/wiki/GPGPU "wikilink") ([顶点着色器](https://zh.wikipedia.org/wiki/顶点着色器 "wikilink")/[几何着色器](https://zh.wikipedia.org/wiki/几何着色器 "wikilink")/[像素着色器](https://zh.wikipedia.org/wiki/像素着色器 "wikilink")) : [材质贴图单元](https://zh.wikipedia.org/wiki/材质贴图单元 "wikilink") : [渲染输出单元](https://zh.wikipedia.org/wiki/渲染输出单元 "wikilink")
+  - <sup>2</sup> [GDDR5](../Page/GDDR5.md "wikilink")的有效数据传输速率为时钟频率的4倍，而非其他DDR记忆体的2倍
   - <sup>3</sup> TDP热设计功耗来自AMD的设计数据。各品牌的非公版板卡的实际TDP可能会有变动。
 
 ### South Island(HD 7xxx) 南方群島系列
 
   - HD 76xx及以下的顯示核心採用舊有的5Ways-VLIW SIMD架構
-  - HD 73xx-76xx 支援 [DirectX](../Page/DirectX.md "wikilink")
-    11，[OpenGL](../Page/OpenGL.md "wikilink") 4.2
-    和[OpenCL](../Page/OpenCL.md "wikilink") 1.2
+  - HD 73xx-76xx 支援 [DirectX](../Page/DirectX.md "wikilink") 11，[OpenGL](../Page/OpenGL.md "wikilink") 4.2 和[OpenCL](../Page/OpenCL.md "wikilink") 1.2
 
 <table>
 <thead>
@@ -2834,17 +2752,11 @@ GDDR5</p></td>
 </table>
 
   - HD 77xx-79xx則採用新的GCN（Graphics Core Next）架構。
-  - HD 77xx-79xx 支援 [DirectX](../Page/DirectX.md "wikilink")
-    11.1，[OpenGL](../Page/OpenGL.md "wikilink") 4.2 和
-    [OpenCL](../Page/OpenCL.md "wikilink") 1.2
-  - HD 7790支援[DirectX](../Page/DirectX.md "wikilink")
-    11.1，[OpenGL](../Page/OpenGL.md "wikilink")
-    4.3和[OpenCL](../Page/OpenCL.md "wikilink") 1.2
+  - HD 77xx-79xx 支援 [DirectX](../Page/DirectX.md "wikilink") 11.1，[OpenGL](../Page/OpenGL.md "wikilink") 4.2 和 [OpenCL](../Page/OpenCL.md "wikilink") 1.2
+  - HD 7790支援[DirectX](../Page/DirectX.md "wikilink") 11.1，[OpenGL](../Page/OpenGL.md "wikilink") 4.3和[OpenCL](../Page/OpenCL.md "wikilink") 1.2
   - HD 7790的核心設計上，包含兩個異步運算引擎（ACE），和7800/7900系列一樣，而不是7700系列的一個\[47\]
-  - 「Bonaire」核心，和未來即將發布的「Caribbean Sea」、「Malta」地中海海島（Mediterranean
-    Sea）系列一樣，是GCN架構的小幅度改良版本之一
-  - HD 7990官方版本直到2013年4月方有發布，最早由諸如Powercolor、華碩以及HIS等超微官方合作夥伴推出的帶有「HD
-    7990」的HD7970 X2的顯示卡均為非官方/非公版設定。
+  - 「Bonaire」核心，和未來即將發布的「Caribbean Sea」、「Malta」地中海海島（Mediterranean Sea）系列一樣，是GCN架構的小幅度改良版本之一
+  - HD 7990官方版本直到2013年4月方有發布，最早由諸如Powercolor、華碩以及HIS等超微官方合作夥伴推出的帶有「HD 7990」的HD7970 X2的顯示卡均為非官方/非公版設定。
   - 雙精度浮點效能實際基於販售市場的不同會有所改變，這裡列出的是超微官方公佈的最高效能數據
 
 <table>
@@ -3157,21 +3069,11 @@ Boost: 925</p></td>
 </table>
 
   -
-    <sup>1</sup> （計算單元，Compute
-    Units）：[統一渲染器](https://zh.wikipedia.org/wiki/GPGPU "wikilink")（[頂點渲染器](https://zh.wikipedia.org/wiki/頂點著色器 "wikilink")/[幾何渲染器](https://zh.wikipedia.org/wiki/幾何著色器 "wikilink")/[像素渲染器](https://zh.wikipedia.org/wiki/像素著色器 "wikilink"))
-    : [紋理鏡射單元](https://zh.wikipedia.org/wiki/紋理鏡射單元 "wikilink")（Texture
-    mapping unit） :
-    [渲染輸出單元](https://zh.wikipedia.org/wiki/渲染輸出單元 "wikilink")（Render
-    Output unit）
-    <sup>2</sup>
-    [GDDR5](../Page/GDDR5.md "wikilink")[顯示記憶體的資料存取時脈是顯示記憶體時脈的四倍](https://zh.wikipedia.org/wiki/顯示記憶體 "wikilink")，而不是GDDR3/DDR3的兩倍
-    <sup>3</sup>
-    熱設計功耗（TDP）是超微官方數據，實際由於不同廠商有不同的顯卡線路板設計以及不同的核心時脈參數設定，會影響實際的TDP數值
-    <sup>4</sup> Radeon HD
-    7990的資料是基於超微官方於2013年4月發布時的正式資料，而非此前[PowerColor](../Page/PowerColor.md "wikilink")、[華碩以及](../Page/華碩.md "wikilink")[HIS推出的](../Page/基恩資訊.md "wikilink")「HD
-    7990」的參數
-    <sup>5</sup>
-    採用Tahiti的繪圖卡都有兩個[BIOS](../Page/BIOS.md "wikilink")，第二個BIOS貯存了較高的核心頻率，稱為「BOOST」，但初版的HD7970沒有此功能
+    <sup>1</sup> （計算單元，Compute Units）：[統一渲染器](https://zh.wikipedia.org/wiki/GPGPU "wikilink")（[頂點渲染器](https://zh.wikipedia.org/wiki/頂點著色器 "wikilink")/[幾何渲染器](https://zh.wikipedia.org/wiki/幾何著色器 "wikilink")/[像素渲染器](https://zh.wikipedia.org/wiki/像素著色器 "wikilink")) : [紋理鏡射單元](https://zh.wikipedia.org/wiki/紋理鏡射單元 "wikilink")（Texture mapping unit） : [渲染輸出單元](https://zh.wikipedia.org/wiki/渲染輸出單元 "wikilink")（Render Output unit）
+    <sup>2</sup> [GDDR5](../Page/GDDR5.md "wikilink")[顯示記憶體的資料存取時脈是顯示記憶體時脈的四倍](https://zh.wikipedia.org/wiki/顯示記憶體 "wikilink")，而不是GDDR3/DDR3的兩倍
+    <sup>3</sup> 熱設計功耗（TDP）是超微官方數據，實際由於不同廠商有不同的顯卡線路板設計以及不同的核心時脈參數設定，會影響實際的TDP數值
+    <sup>4</sup> Radeon HD 7990的資料是基於超微官方於2013年4月發布時的正式資料，而非此前[PowerColor](../Page/PowerColor.md "wikilink")、[華碩](../Page/華碩.md "wikilink")以及[HIS推出的](../Page/基恩資訊.md "wikilink")「HD 7990」的參數
+    <sup>5</sup> 採用Tahiti的繪圖卡都有兩個[BIOS](../Page/BIOS.md "wikilink")，第二個BIOS貯存了較高的核心頻率，稱為「BOOST」，但初版的HD7970沒有此功能
 
 ### Volcanic Islands (Rx 2xx) 火山群島系列
 
@@ -4100,20 +4002,12 @@ GDDR5</p></td>
 </tbody>
 </table>
 
-  - <sup>1</sup>
-    [統一渲染器數量](https://zh.wikipedia.org/wiki/統一渲染器 "wikilink")
-    : [紋理對映單元](https://zh.wikipedia.org/wiki/紋理對映單元 "wikilink")（TMU）數量 :
-    [渲染輸出單元](https://zh.wikipedia.org/wiki/渲染輸出單元 "wikilink")（ROP）數量
-  - <sup>2</sup>
-    畫素填充率的計算：ROP的數量乘以基準核心[時脈速率](https://zh.wikipedia.org/wiki/時脈 "wikilink")（時脈單位Hz），單位畫素數每秒（P/s）。
+  - <sup>1</sup> [統一渲染器數量](https://zh.wikipedia.org/wiki/統一渲染器 "wikilink") : [紋理對映單元](https://zh.wikipedia.org/wiki/紋理對映單元 "wikilink")（TMU）數量 : [渲染輸出單元](https://zh.wikipedia.org/wiki/渲染輸出單元 "wikilink")（ROP）數量
+  - <sup>2</sup> 畫素填充率的計算：ROP的數量乘以基準核心[時脈速率](https://zh.wikipedia.org/wiki/時脈 "wikilink")（時脈單位Hz），單位畫素數每秒（P/s）。
   - <sup>3</sup> 紋理填充率的計算：TMU的數量乘以基準核心時脈速率（時脈單位Hz），單位紋理數每秒（T/s）。
-  - <sup>4</sup>
-    單精度浮點數運算效能的計算：兩倍渲染器的數量然後乘以基準核心時脈速率（時脈單位Hz），單位[FLOPS](https://zh.wikipedia.org/wiki/FLOPS "wikilink")。
-  - <sup>5</sup>
-    「Grenada(Hawaii)」核心的圖形處理器，雙精度浮點數運算效能是單精度的1/8，其它使用28奈米製程的顯示核心都是1/16的雙精度/單精度運算效能比率。
-  - <sup>6</sup> R9 380（包括OEM型號）、Nano、Fury、Fury X所使用的
-    1.2版GCN架構，配備了無損顏色壓縮技術，相較於
-    1.0版、1.1版GCN架構，在一些對視訊記憶體有較高需求的應用場合下可以有效提升顯示記憶體的存取效能。\[119\]\[120\]
+  - <sup>4</sup> 單精度浮點數運算效能的計算：兩倍渲染器的數量然後乘以基準核心時脈速率（時脈單位Hz），單位[FLOPS](https://zh.wikipedia.org/wiki/FLOPS "wikilink")。
+  - <sup>5</sup> 「Grenada(Hawaii)」核心的圖形處理器，雙精度浮點數運算效能是單精度的1/8，其它使用28奈米製程的顯示核心都是1/16的雙精度/單精度運算效能比率。
+  - <sup>6</sup> R9 380（包括OEM型號）、Nano、Fury、Fury X所使用的 1.2版GCN架構，配備了無損顏色壓縮技術，相較於 1.0版、1.1版GCN架構，在一些對視訊記憶體有較高需求的應用場合下可以有效提升顯示記憶體的存取效能。\[119\]\[120\]
   - <sup>7</sup> GDDR5視訊記憶體的資料傳輸時脈速率是其運作時脈的四倍，DDR3記憶體的則為兩倍。
   - <sup>8</sup> 以AMD公佈的AIB公版顯示核心為準，非公版設計可能高於（如超頻版）或低於（如節能版、靜音版）這個數值。
   - <sup>9</sup> 中国大陆市售型号为“R9 370 1024SP”。\[121\]
@@ -4123,21 +4017,10 @@ GDDR5</p></td>
 
 全系列支援以下技術:
 
-  - 支援AMD [FreeSync](../Page/FreeSync.md "wikilink"), AMD
-    [TrueAudio](https://zh.wikipedia.org/wiki/TrueAudio "wikilink")
-    Next, [DirectX
-    12](https://zh.wikipedia.org/wiki/DirectX_12 "wikilink"), H.265
-    [HEVC](https://zh.wikipedia.org/wiki/HEVC "wikilink"),
-    [Vulkan](../Page/Vulkan_\(API\).md "wikilink") API
+  - 支援AMD [FreeSync](../Page/FreeSync.md "wikilink"), AMD [TrueAudio](https://zh.wikipedia.org/wiki/TrueAudio "wikilink") Next, [DirectX 12](https://zh.wikipedia.org/wiki/DirectX_12 "wikilink"), H.265 [HEVC](https://zh.wikipedia.org/wiki/HEVC "wikilink"), [Vulkan](../Page/Vulkan_\(API\).md "wikilink") API
   - 支援PlayReady 3.0、4k解析度
-  - 支援影像輸出: [DisplayPort](../Page/DisplayPort.md "wikilink") 1.3 HBR and
-    1.4
-    [HDR](https://zh.wikipedia.org/wiki/High_Dynamic_Range "wikilink"),
-    [HDMI
-    2.0b](https://zh.wikipedia.org/wiki/HDMI#Version_2.0 "wikilink"),
-    支援HDR\[123\]
-  - Polaris 11 核心輸出介面僅 [PCI Express](../Page/PCI_Express.md "wikilink")
-    3.0 ×8 Interface\[124\]
+  - 支援影像輸出: [DisplayPort](../Page/DisplayPort.md "wikilink") 1.3 HBR and 1.4 [HDR](https://zh.wikipedia.org/wiki/High_Dynamic_Range "wikilink"), [HDMI 2.0b](https://zh.wikipedia.org/wiki/HDMI#Version_2.0 "wikilink"), 支援HDR\[123\]
+  - Polaris 11 核心輸出介面僅 [PCI Express](../Page/PCI_Express.md "wikilink") 3.0 ×8 Interface\[124\]
 
 <table>
 <thead>
@@ -4595,13 +4478,7 @@ $239 (8 GB)</p></td>
 </tbody>
 </table>
 
-<sup>1</sup> [Vertex
-shaders](https://zh.wikipedia.org/wiki/Vertex_shader "wikilink") :
-[Pixel shaders](https://zh.wikipedia.org/wiki/Pixel_shader "wikilink") :
-[Texture mapping
-units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") :
-[Render output
-units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
+<sup>1</sup> [Vertex shaders](https://zh.wikipedia.org/wiki/Vertex_shader "wikilink") : [Pixel shaders](https://zh.wikipedia.org/wiki/Pixel_shader "wikilink") : [Texture mapping units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") : [Render output units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
 
 ### Mobility Radeon 系列
 
@@ -4821,13 +4698,7 @@ DDR</p></td>
 </tbody>
 </table>
 
-<sup>1</sup> [Vertex
-shaders](https://zh.wikipedia.org/wiki/Vertex_shader "wikilink") :
-[Pixel shaders](https://zh.wikipedia.org/wiki/Pixel_shader "wikilink") :
-[Texture mapping
-units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") :
-[Render output
-units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink").
+<sup>1</sup> [Vertex shaders](https://zh.wikipedia.org/wiki/Vertex_shader "wikilink") : [Pixel shaders](https://zh.wikipedia.org/wiki/Pixel_shader "wikilink") : [Texture mapping units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") : [Render output units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink").
 
 ### Mobility Radeon X300, X600, X700, X800 系列
 
@@ -4950,13 +4821,7 @@ units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink").
 </tbody>
 </table>
 
-<sup>1</sup> [Vertex
-shaders](https://zh.wikipedia.org/wiki/Vertex_shader "wikilink") :
-[Pixel shaders](https://zh.wikipedia.org/wiki/Pixel_shader "wikilink") :
-[Texture mapping
-units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") :
-[Render output
-units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink").
+<sup>1</sup> [Vertex shaders](https://zh.wikipedia.org/wiki/Vertex_shader "wikilink") : [Pixel shaders](https://zh.wikipedia.org/wiki/Pixel_shader "wikilink") : [Texture mapping units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") : [Render output units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink").
 
 ### Mobility Radeon X1xxx 系列
 
@@ -5146,13 +5011,7 @@ GDDR3</p></td>
 </tbody>
 </table>
 
-<sup>1</sup> [Vertex
-shaders](https://zh.wikipedia.org/wiki/Vertex_shader "wikilink") :
-[Pixel shaders](https://zh.wikipedia.org/wiki/Pixel_shader "wikilink") :
-[Texture mapping
-units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") :
-[Render output
-units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink").
+<sup>1</sup> [Vertex shaders](https://zh.wikipedia.org/wiki/Vertex_shader "wikilink") : [Pixel shaders](https://zh.wikipedia.org/wiki/Pixel_shader "wikilink") : [Texture mapping units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") : [Render output units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink").
 
 ### Mobility Radeon HD 2xxx 系列
 
@@ -5354,19 +5213,8 @@ GDDR3</p></td>
 </tbody>
 </table>
 
-<sup>1</sup> [Vertex
-shaders](https://zh.wikipedia.org/wiki/Vertex_shader "wikilink") :
-[Pixel shaders](https://zh.wikipedia.org/wiki/Pixel_shader "wikilink") :
-[Texture mapping
-units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") :
-[Render output
-units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink").
-<sup>2</sup> [Unified
-Shaderss](https://zh.wikipedia.org/wiki/Unified_shader_model "wikilink")
-: [Texture mapping
-units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") :
-[Render output
-units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
+<sup>1</sup> [Vertex shaders](https://zh.wikipedia.org/wiki/Vertex_shader "wikilink") : [Pixel shaders](https://zh.wikipedia.org/wiki/Pixel_shader "wikilink") : [Texture mapping units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") : [Render output units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink").
+<sup>2</sup> [Unified Shaderss](https://zh.wikipedia.org/wiki/Unified_shader_model "wikilink") : [Texture mapping units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") : [Render output units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
 
 ### Mobility Radeon HD 3xxx 系列
 
@@ -5632,12 +5480,7 @@ GFLOPs</p></th>
 </tbody>
 </table>
 
-<sup>1</sup> [Unified
-Shaders](https://zh.wikipedia.org/wiki/Unified_Shader_Model "wikilink")
-: [Texture mapping
-units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") :
-[Render output
-units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
+<sup>1</sup> [Unified Shaders](https://zh.wikipedia.org/wiki/Unified_Shader_Model "wikilink") : [Texture mapping units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") : [Render output units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
 
 ### Mobility Radeon HD 4xxx 系列
 
@@ -5976,14 +5819,8 @@ GFLOPs</p></th>
 </tbody>
 </table>
 
-<sup>1</sup> [Unified
-shaders](https://zh.wikipedia.org/wiki/Unified_Shader_Model "wikilink")
-: [Texture mapping
-units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") :
-[Render output
-units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
-<sup>2</sup> The effective data transfer rate of GDDR5 is quadruple its
-nominal clock, instead of double as with other DDR memory.
+<sup>1</sup> [Unified shaders](https://zh.wikipedia.org/wiki/Unified_Shader_Model "wikilink") : [Texture mapping units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") : [Render output units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
+<sup>2</sup> The effective data transfer rate of GDDR5 is quadruple its nominal clock, instead of double as with other DDR memory.
 
 ### Mobility Radeon HD 5xxx 系列
 
@@ -6398,13 +6235,8 @@ GDDR5</p></td>
 </tbody>
 </table>
 
-<sup>1</sup> Unified shaders : [Texture mapping
-units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") :
-[Render output
-units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
-<sup>2</sup> The effective data transfer rate of
-[GDDR5](../Page/GDDR5.md "wikilink") is quadruple its nominal clock,
-instead of double as with other DDR memory.
+<sup>1</sup> Unified shaders : [Texture mapping units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") : [Render output units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
+<sup>2</sup> The effective data transfer rate of [GDDR5](../Page/GDDR5.md "wikilink") is quadruple its nominal clock, instead of double as with other DDR memory.
 
 ### Radeon HD 6xxxM 系列
 
@@ -6904,29 +6736,15 @@ DDR3</p></td>
 </tbody>
 </table>
 
-<sup>1</sup> [Unified
-shaders](https://zh.wikipedia.org/wiki/Unified_Shader_Model "wikilink")
-: [Texture mapping
-units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") :
-[Render output
-units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
-<sup>2</sup> The effective data transfer rate of
-[GDDR5](../Page/GDDR5.md "wikilink") is quadruple its nominal clock,
-instead of double as with other DDR memory.
+<sup>1</sup> [Unified shaders](https://zh.wikipedia.org/wiki/Unified_Shader_Model "wikilink") : [Texture mapping units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") : [Render output units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
+<sup>2</sup> The effective data transfer rate of [GDDR5](../Page/GDDR5.md "wikilink") is quadruple its nominal clock, instead of double as with other DDR memory.
 
 #### IGP (HD 6xxx)
 
-  - 全部型號支援[DirectX](../Page/DirectX.md "wikilink") 11,
-    [OpenGL](../Page/OpenGL.md "wikilink") 4.4 and
-    [OpenCL](../Page/OpenCL.md "wikilink") 1.2
-  - All models feature the UNB/MC
-    [Bus](https://zh.wikipedia.org/wiki/Computer_bus "wikilink")
-    [interface](https://zh.wikipedia.org/wiki/I/O_interface "wikilink")
+  - 全部型號支援[DirectX](../Page/DirectX.md "wikilink") 11, [OpenGL](../Page/OpenGL.md "wikilink") 4.4 and [OpenCL](../Page/OpenCL.md "wikilink") 1.2
+  - All models feature the UNB/MC [Bus](https://zh.wikipedia.org/wiki/Computer_bus "wikilink") [interface](https://zh.wikipedia.org/wiki/I/O_interface "wikilink")
   - 全部型號皆不支援雙精度浮點運算
-  - All models feature Angle independent anisotropic filtering, UVD3,
-    and
-    [Eyefinity](https://zh.wikipedia.org/wiki/AMD_Eyefinity "wikilink")
-    capabilities, with up to three outputs.
+  - All models feature Angle independent anisotropic filtering, UVD3, and [Eyefinity](https://zh.wikipedia.org/wiki/AMD_Eyefinity "wikilink") capabilities, with up to three outputs.
   - 全部型號皆基於VLIW-5架構
 
 <table>
@@ -7022,27 +6840,15 @@ E-350</p></td>
 </tbody>
 </table>
 
-<sup>1</sup> [Unified
-shaders](https://zh.wikipedia.org/wiki/Unified_Shader_Model "wikilink")
-: [Texture mapping
-units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") :
-[Render output
-units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
-<sup>2</sup> TDP specified for AMD reference designs, includes CPU power
-consumption. Actual TDP of retail products may vary.
+<sup>1</sup> [Unified shaders](https://zh.wikipedia.org/wiki/Unified_Shader_Model "wikilink") : [Texture mapping units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") : [Render output units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
+<sup>2</sup> TDP specified for AMD reference designs, includes CPU power consumption. Actual TDP of retail products may vary.
 
 #### IGP (HD 6xxxG)
 
-  - 全型號支援 [DirectX](../Page/DirectX.md "wikilink") 11,
-    [OpenGL](../Page/OpenGL.md "wikilink") 4.4 and
-    [OpenCL](../Page/OpenCL.md "wikilink") 1.2
-  - All models feature the UNB/MC
-    [Bus](https://zh.wikipedia.org/wiki/Computer_bus "wikilink")
-    [interface](https://zh.wikipedia.org/wiki/I/O_interface "wikilink")
+  - 全型號支援 [DirectX](../Page/DirectX.md "wikilink") 11, [OpenGL](../Page/OpenGL.md "wikilink") 4.4 and [OpenCL](../Page/OpenCL.md "wikilink") 1.2
+  - All models feature the UNB/MC [Bus](https://zh.wikipedia.org/wiki/Computer_bus "wikilink") [interface](https://zh.wikipedia.org/wiki/I/O_interface "wikilink")
   - 全型號不支援雙精度浮點運算
-  - All models feature Angle independent anisotropic filtering, UVD3 and
-    [Eyefinity](https://zh.wikipedia.org/wiki/AMD_Eyefinity "wikilink")
-    capabilities, with up to three outputs.
+  - All models feature Angle independent anisotropic filtering, UVD3 and [Eyefinity](https://zh.wikipedia.org/wiki/AMD_Eyefinity "wikilink") capabilities, with up to three outputs.
   - 全型號基於VLIW-5架構
 
 <table>
@@ -7130,14 +6936,8 @@ consumption. Actual TDP of retail products may vary.
 </tbody>
 </table>
 
-<sup>1</sup> [Unified
-shaders](https://zh.wikipedia.org/wiki/Unified_Shader_Model "wikilink")
-: [Texture mapping
-units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") :
-[Render output
-units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
-<sup>2</sup> TDP specified for AMD reference designs, includes CPU power
-consumption. Actual TDP of retail products may vary.
+<sup>1</sup> [Unified shaders](https://zh.wikipedia.org/wiki/Unified_Shader_Model "wikilink") : [Texture mapping units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") : [Render output units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
+<sup>2</sup> TDP specified for AMD reference designs, includes CPU power consumption. Actual TDP of retail products may vary.
 
 ### Radeon HD 7xxxM 系列
 
@@ -7584,15 +7384,8 @@ GDDR5</p></td>
 </tbody>
 </table>
 
-<sup>1</sup> [Unified
-shaders](https://zh.wikipedia.org/wiki/Unified_shader_model "wikilink")
-: [Texture mapping
-units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") :
-[Render output
-units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
-<sup>2</sup> The effective data transfer rate of
-[GDDR5](../Page/GDDR5.md "wikilink") is quadruple its nominal clock,
-instead of double as with other DDR memory.
+<sup>1</sup> [Unified shaders](https://zh.wikipedia.org/wiki/Unified_shader_model "wikilink") : [Texture mapping units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") : [Render output units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
+<sup>2</sup> The effective data transfer rate of [GDDR5](../Page/GDDR5.md "wikilink") is quadruple its nominal clock, instead of double as with other DDR memory.
 
 ### Radeon HD 8xxxM 系列
 
@@ -7835,21 +7628,12 @@ instead of double as with other DDR memory.
 </tbody>
 </table>
 
-<sup>1</sup> [Unified
-shaders](https://zh.wikipedia.org/wiki/Unified_shader_model "wikilink")
-: [Texture mapping
-units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") :
-[Render output
-units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
-<sup>2</sup> The effective data transfer rate of
-[GDDR5](../Page/GDDR5.md "wikilink") is quadruple its nominal clock,
-instead of double as with other DDR memory.
+<sup>1</sup> [Unified shaders](https://zh.wikipedia.org/wiki/Unified_shader_model "wikilink") : [Texture mapping units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") : [Render output units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
+<sup>2</sup> The effective data transfer rate of [GDDR5](../Page/GDDR5.md "wikilink") is quadruple its nominal clock, instead of double as with other DDR memory.
 
 ### Radeon Rx M2xx 系列
 
-While the desktop versions are code-named "Sea Islands", the mobile GPUs
-of the AMD Radeon Rx 200 Series are code-named "Crystal Series":
-"Vesuvius", "Topaz" and "Amethyst".
+While the desktop versions are code-named "Sea Islands", the mobile GPUs of the AMD Radeon Rx 200 Series are code-named "Crystal Series": "Vesuvius", "Topaz" and "Amethyst".
 
 <table>
 <thead>
@@ -8112,8 +7896,8 @@ of the AMD Radeon Rx 200 Series are code-named "Crystal Series":
 <td><p>傳輸頻寬 (<a href="https://zh.wikipedia.org/wiki/Gigabyte" title="wikilink">GB</a>/s)</p></td>
 <td><p>類型</p></td>
 <td><p>傳輸介面 (<a href="https://zh.wikipedia.org/wiki/bit" title="wikilink">bit</a>)</p></td>
-<td><p><a href="../Page/Direct3D.md" title="wikilink">Direct3D支援</a></p></td>
-<td><p><a href="../Page/OpenGL.md" title="wikilink">OpenGLˊ</a> 元</p></td>
+<td><p><a href="../Page/Direct3D.md" title="wikilink">Direct3D</a>支援</p></td>
+<td><p><a href="../Page/OpenGL.md" title="wikilink">OpenGL</a>ˊ 元</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -8796,19 +8580,8 @@ GFLOPs</p></th>
 </tbody>
 </table>
 
-<sup>1</sup> [Vertex
-shaders](https://zh.wikipedia.org/wiki/Vertex_shader "wikilink") :
-[Pixel shaders](https://zh.wikipedia.org/wiki/Pixel_shader "wikilink") :
-[Texture mapping
-units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") :
-[Render output
-units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
-<sup>2</sup> [Unified
-shaders](https://zh.wikipedia.org/wiki/Unified_shader_model "wikilink")
-: [Texture mapping
-units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") :
-[Render output
-units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
+<sup>1</sup> [Vertex shaders](https://zh.wikipedia.org/wiki/Vertex_shader "wikilink") : [Pixel shaders](https://zh.wikipedia.org/wiki/Pixel_shader "wikilink") : [Texture mapping units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") : [Render output units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
+<sup>2</sup> [Unified shaders](https://zh.wikipedia.org/wiki/Unified_shader_model "wikilink") : [Texture mapping units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") : [Render output units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
 
 ### FirePro 3D 系列
 
@@ -9072,15 +8845,8 @@ GFLOPs</p></th>
 </tbody>
 </table>
 
-<sup>1</sup> [Unified
-shaders](https://zh.wikipedia.org/wiki/Unified_Shader_Model "wikilink")
-: [Texture mapping
-units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") :
-[Render output
-units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
-<sup>2</sup> The effective data transfer rate of
-[GDDR5](../Page/GDDR5.md "wikilink") is quadruple its nominal clock,
-instead of double as with other DDR memory.
+<sup>1</sup> [Unified shaders](https://zh.wikipedia.org/wiki/Unified_Shader_Model "wikilink") : [Texture mapping units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") : [Render output units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
+<sup>2</sup> The effective data transfer rate of [GDDR5](../Page/GDDR5.md "wikilink") is quadruple its nominal clock, instead of double as with other DDR memory.
 
 ### FirePro 系列
 
@@ -9188,15 +8954,8 @@ GFLOPs</p></th>
 </tbody>
 </table>
 
-<sup>1</sup> [Unified
-shaders](https://zh.wikipedia.org/wiki/Unified_Shader_Model "wikilink")
-: [Texture mapping
-units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") :
-[Render output
-units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
-<sup>2</sup> The effective data transfer rate of
-[GDDR5](../Page/GDDR5.md "wikilink") is quadruple its nominal clock,
-instead of double as with other DDR memory.
+<sup>1</sup> [Unified shaders](https://zh.wikipedia.org/wiki/Unified_Shader_Model "wikilink") : [Texture mapping units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") : [Render output units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
+<sup>2</sup> The effective data transfer rate of [GDDR5](../Page/GDDR5.md "wikilink") is quadruple its nominal clock, instead of double as with other DDR memory.
 
 ### FirePro 工作站系列 (Wx000)
 
@@ -9320,15 +9079,8 @@ GFLOPs</p></th>
 </tbody>
 </table>
 
-<sup>1</sup> [Unified
-shaders](https://zh.wikipedia.org/wiki/Unified_Shader_Model "wikilink")
-: [Texture mapping
-units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") :
-[Render output
-units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
-<sup>2</sup> The effective data transfer rate of
-[GDDR5](../Page/GDDR5.md "wikilink") is quadruple its nominal clock,
-instead of double as with other DDR memory.
+<sup>1</sup> [Unified shaders](https://zh.wikipedia.org/wiki/Unified_Shader_Model "wikilink") : [Texture mapping units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") : [Render output units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
+<sup>2</sup> The effective data transfer rate of [GDDR5](../Page/GDDR5.md "wikilink") is quadruple its nominal clock, instead of double as with other DDR memory.
 
 ### FirePro Workstation 系列(Wx100)
 
@@ -9468,15 +9220,8 @@ GFLOPs</p></th>
 </tbody>
 </table>
 
-<sup>1</sup> [Unified
-shaders](https://zh.wikipedia.org/wiki/Unified_Shader_Model "wikilink")
-: [Texture mapping
-units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") :
-[Render output
-units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
-<sup>2</sup> The effective data transfer rate of
-[GDDR5](../Page/GDDR5.md "wikilink") is quadruple its nominal clock,
-instead of double as with other DDR memory.
+<sup>1</sup> [Unified shaders](https://zh.wikipedia.org/wiki/Unified_Shader_Model "wikilink") : [Texture mapping units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") : [Render output units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
+<sup>2</sup> The effective data transfer rate of [GDDR5](../Page/GDDR5.md "wikilink") is quadruple its nominal clock, instead of double as with other DDR memory.
 
 ### FirePro 運算系列
 
@@ -9602,15 +9347,8 @@ GFLOPs</p></th>
 </tbody>
 </table>
 
-<sup>1</sup> [Unified
-shaders](https://zh.wikipedia.org/wiki/Unified_Shader_Model "wikilink")
-: [Texture mapping
-units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") :
-[Render output
-units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
-<sup>2</sup> The effective data transfer rate of
-[GDDR5](../Page/GDDR5.md "wikilink") is quadruple its nominal clock,
-instead of double as with other DDR memory.
+<sup>1</sup> [Unified shaders](https://zh.wikipedia.org/wiki/Unified_Shader_Model "wikilink") : [Texture mapping units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") : [Render output units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
+<sup>2</sup> The effective data transfer rate of [GDDR5](../Page/GDDR5.md "wikilink") is quadruple its nominal clock, instead of double as with other DDR memory.
 
 ### Radeon Sky 系列
 
@@ -9702,15 +9440,8 @@ GFLOPs</p></th>
 </tbody>
 </table>
 
-<sup>1</sup> [Unified
-shaders](https://zh.wikipedia.org/wiki/Unified_Shader_Model "wikilink")
-: [Texture mapping
-units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") :
-[Render output
-units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
-<sup>2</sup> The effective data transfer rate of
-[GDDR5](../Page/GDDR5.md "wikilink") is quadruple its nominal clock,
-instead of double as with other DDR memory.
+<sup>1</sup> [Unified shaders](https://zh.wikipedia.org/wiki/Unified_Shader_Model "wikilink") : [Texture mapping units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") : [Render output units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
+<sup>2</sup> The effective data transfer rate of [GDDR5](../Page/GDDR5.md "wikilink") is quadruple its nominal clock, instead of double as with other DDR memory.
 
 ### FireMV (多螢幕顯示) 系列
 
@@ -9826,19 +9557,8 @@ instead of double as with other DDR memory.
 </tbody>
 </table>
 
-<sup>1</sup> [Vertex
-shaders](https://zh.wikipedia.org/wiki/Vertex_shader "wikilink") :
-[Pixel shaders](https://zh.wikipedia.org/wiki/Pixel_shader "wikilink") :
-[Texture mapping
-unit](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") :
-[Render output
-units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
-<sup>2</sup> [Unified
-shaders](https://zh.wikipedia.org/wiki/Unified_shader_model "wikilink")
-: [Texture mapping
-unit](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") :
-[Render output
-units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
+<sup>1</sup> [Vertex shaders](https://zh.wikipedia.org/wiki/Vertex_shader "wikilink") : [Pixel shaders](https://zh.wikipedia.org/wiki/Pixel_shader "wikilink") : [Texture mapping unit](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") : [Render output units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
+<sup>2</sup> [Unified shaders](https://zh.wikipedia.org/wiki/Unified_shader_model "wikilink") : [Texture mapping unit](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") : [Render output units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
 
 ### FirePro (多螢幕顯示) 系列
 
@@ -9962,11 +9682,8 @@ units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
 
 ### FireStream 系列
 
-  - FireStream 9170-92xx 支援 [DirectX](../Page/DirectX.md "wikilink")
-    10.1 and [OpenGL](../Page/OpenGL.md "wikilink") 3.0
-  - FireStream 93xx 支援 [DirectX](../Page/DirectX.md "wikilink") 11,
-    [OpenGL](../Page/OpenGL.md "wikilink") 4.0 and
-    [OpenCL](../Page/OpenCL.md "wikilink") 1.0
+  - FireStream 9170-92xx 支援 [DirectX](../Page/DirectX.md "wikilink") 10.1 and [OpenGL](../Page/OpenGL.md "wikilink") 3.0
+  - FireStream 93xx 支援 [DirectX](../Page/DirectX.md "wikilink") 11, [OpenGL](../Page/OpenGL.md "wikilink") 4.0 and [OpenCL](../Page/OpenCL.md "wikilink") 1.0
 
 | Model                                                         | 發佈日期                                                                       | 核心代號                                                           | 製程 (nm) | 傳輸介面                                                            | [記憶體](https://zh.wikipedia.org/wiki/記憶體 "wikilink") ([MB](https://zh.wikipedia.org/wiki/megabyte "wikilink")) | 時脈                                                                                      | [Stream processors](https://zh.wikipedia.org/wiki/Stream_processing "wikilink") | [RAM](https://zh.wikipedia.org/wiki/Random-access_memory "wikilink") | Peak G[FLOPS](https://zh.wikipedia.org/wiki/FLOPS "wikilink") | [TDP](https://zh.wikipedia.org/wiki/Thermal_Design_Power "wikilink") [Watts](https://zh.wikipedia.org/wiki/Watt "wikilink") | Notes |
 | ------------------------------------------------------------- | -------------------------------------------------------------------------- | -------------------------------------------------------------- | ------- | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | -------------------------------------------------------------------- | ------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ----- |
@@ -10302,19 +10019,8 @@ GFLOPs</p></th>
 </tbody>
 </table>
 
-<sup>1</sup> [Vertex
-shader](https://zh.wikipedia.org/wiki/Vertex_shader "wikilink") : [Pixel
-shaders](https://zh.wikipedia.org/wiki/Pixel_shader "wikilink") :
-[Texture mapping
-units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") :
-[Render output
-units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
-<sup>2</sup> [Unified
-shaders](https://zh.wikipedia.org/wiki/Unified_shader_model "wikilink")
-: [Texture mapping
-units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") :
-[Render output
-units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
+<sup>1</sup> [Vertex shader](https://zh.wikipedia.org/wiki/Vertex_shader "wikilink") : [Pixel shaders](https://zh.wikipedia.org/wiki/Pixel_shader "wikilink") : [Texture mapping units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") : [Render output units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
+<sup>2</sup> [Unified shaders](https://zh.wikipedia.org/wiki/Unified_shader_model "wikilink") : [Texture mapping units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") : [Render output units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
 
 ### FirePro Mobile 系列
 
@@ -10600,15 +10306,8 @@ GFLOPs</p></th>
 
 ## 遊戲機繪圖處理器
 
-  - <sup>1</sup> [向量著色器](https://zh.wikipedia.org/wiki/向量著色器 "wikilink")
-    : [像素著色器](https://zh.wikipedia.org/wiki/像素著色器 "wikilink") :
-    [紋理映射單元](https://zh.wikipedia.org/wiki/紋理映射單元 "wikilink")
-    : [Render
-    輸出單元](https://zh.wikipedia.org/wiki/Render_輸出單元 "wikilink")
-  - <sup>2</sup> [GPGPU](https://zh.wikipedia.org/wiki/GPGPU "wikilink")
-    ([向量著色器](https://zh.wikipedia.org/wiki/向量著色器 "wikilink")/[幾何著色器](https://zh.wikipedia.org/wiki/幾何著色器 "wikilink")/[像素著色器](https://zh.wikipedia.org/wiki/像素著色器 "wikilink"))
-    : [紋理映射單元](https://zh.wikipedia.org/wiki/紋理映射單元 "wikilink") :
-    [Render 輸出單元](https://zh.wikipedia.org/wiki/Render_輸出單元 "wikilink")
+  - <sup>1</sup> [向量著色器](https://zh.wikipedia.org/wiki/向量著色器 "wikilink") : [像素著色器](https://zh.wikipedia.org/wiki/像素著色器 "wikilink") : [紋理映射單元](https://zh.wikipedia.org/wiki/紋理映射單元 "wikilink") : [Render 輸出單元](https://zh.wikipedia.org/wiki/Render_輸出單元 "wikilink")
+  - <sup>2</sup> [GPGPU](https://zh.wikipedia.org/wiki/GPGPU "wikilink") ([向量著色器](https://zh.wikipedia.org/wiki/向量著色器 "wikilink")/[幾何著色器](https://zh.wikipedia.org/wiki/幾何著色器 "wikilink")/[像素著色器](https://zh.wikipedia.org/wiki/像素著色器 "wikilink")) : [紋理映射單元](https://zh.wikipedia.org/wiki/紋理映射單元 "wikilink") : [Render 輸出單元](https://zh.wikipedia.org/wiki/Render_輸出單元 "wikilink")
   - <sup>3</sup> 10.4 GB/s 材質頻寬。7.6 GB/s 頁面緩衝頻寬。
 
 <table>
@@ -10813,22 +10512,11 @@ Unknown<br />
 </tbody>
 </table>
 
-<sup>1</sup> [Pixel
-shaders](https://zh.wikipedia.org/wiki/Pixel_shader "wikilink") :
-[Vertex shaders](https://zh.wikipedia.org/wiki/Vertex_shader "wikilink")
-: [Texture mapping
-units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") :
-Render output units
-<sup>2</sup> [Unified
-shaders](https://zh.wikipedia.org/wiki/Unified_shader_model "wikilink")
-: Texture mapping units : Render output units
-<sup>3</sup> 10.4 GB/s texture bandwidth. 7.6 GB/s framebuffer
-bandwidth.
+<sup>1</sup> [Pixel shaders](https://zh.wikipedia.org/wiki/Pixel_shader "wikilink") : [Vertex shaders](https://zh.wikipedia.org/wiki/Vertex_shader "wikilink") : [Texture mapping units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") : Render output units
+<sup>2</sup> [Unified shaders](https://zh.wikipedia.org/wiki/Unified_shader_model "wikilink") : Texture mapping units : Render output units
+<sup>3</sup> 10.4 GB/s texture bandwidth. 7.6 GB/s framebuffer bandwidth.
 
-  - The latte looks rather similar to the RV730 used in the Radeon
-    HD4650/4670.\[160\] Although It's an even closer possibly exact
-    specification match to the HD5550 as it has exactly the same clock,
-    number of Shaders, Texture mapping units & Render Outputs\[161\]
+  - The latte looks rather similar to the RV730 used in the Radeon HD4650/4670.\[160\] Although It's an even closer possibly exact specification match to the HD5550 as it has exactly the same clock, number of Shaders, Texture mapping units & Render Outputs\[161\]
 
 ## 參考條目
 
@@ -10842,11 +10530,7 @@ bandwidth.
 
   - [AMD主頁](http://www.amd.com/)
 
-[Category:AMD圖形處理器](https://zh.wikipedia.org/wiki/Category:AMD圖形處理器 "wikilink")
-[Category:冶天科技](https://zh.wikipedia.org/wiki/Category:冶天科技 "wikilink")
-[Category:顯示卡](https://zh.wikipedia.org/wiki/Category:顯示卡 "wikilink")
-[Category:计算机比较](https://zh.wikipedia.org/wiki/Category:计算机比较 "wikilink")
-[Category:计算机硬件列表](https://zh.wikipedia.org/wiki/Category:计算机硬件列表 "wikilink")
+[Category:AMD圖形處理器](https://zh.wikipedia.org/wiki/Category:AMD圖形處理器 "wikilink") [Category:冶天科技](https://zh.wikipedia.org/wiki/Category:冶天科技 "wikilink") [Category:顯示卡](https://zh.wikipedia.org/wiki/Category:顯示卡 "wikilink") [Category:计算机比较](https://zh.wikipedia.org/wiki/Category:计算机比较 "wikilink") [Category:计算机硬件列表](https://zh.wikipedia.org/wiki/Category:计算机硬件列表 "wikilink")
 
 1.  <http://www.tweakpc.de/hardware/tests/cpu/amd_a10-7850k_a10-7700k/s06.php>
 
@@ -10863,59 +10547,42 @@ bandwidth.
 7.
 
 8.
-9.  used in C-30 (1.2GHz) and C-50 (1.0GHz)
-    [APU](https://zh.wikipedia.org/wiki/AMD_Fusion "wikilink"), paired
-    with Hudson-M1 SB, socket FT1 (BGA-413)
+9.  used in C-30 (1.2GHz) and C-50 (1.0GHz) [APU](https://zh.wikipedia.org/wiki/AMD_Fusion "wikilink"), paired with Hudson-M1 SB, socket FT1 (BGA-413)
 
 10.
 11.
 12.
 13.
-14. used in E-240 (1.5GHz) and E-350 (1.6GHz)
-    [APU](https://zh.wikipedia.org/wiki/AMD_Fusion "wikilink"), paired
-    with Hudson-M1 SB, socket FT1 (BGA-413)
+14. used in E-240 (1.5GHz) and E-350 (1.6GHz) [APU](https://zh.wikipedia.org/wiki/AMD_Fusion "wikilink"), paired with Hudson-M1 SB, socket FT1 (BGA-413)
 
 15.
-16. [HD 6450 Graphics (For OEM
-    Only)](http://www.amd.com/us/products/desktop/graphics/amd-radeon-hd-6000/hd-6450/Pages/amd-radeon-hd-6450-overview.aspx)
+16. [HD 6450 Graphics (For OEM Only)](http://www.amd.com/us/products/desktop/graphics/amd-radeon-hd-6000/hd-6450/Pages/amd-radeon-hd-6450-overview.aspx)
 
-17. [HD 6570 Graphics (For OEM
-    Only)](http://www.amd.com/us/products/desktop/graphics/amd-radeon-hd-6000/hd-6570/Pages/amd-radeon-hd-6570-overview.aspx)
+17. [HD 6570 Graphics (For OEM Only)](http://www.amd.com/us/products/desktop/graphics/amd-radeon-hd-6000/hd-6570/Pages/amd-radeon-hd-6570-overview.aspx)
 
-18. [HD 6670 Graphics (For OEM
-    Only)](http://www.amd.com/us/products/desktop/graphics/amd-radeon-hd-6000/hd-6670/Pages/amd-radeon-hd-6670-overview.aspx)
+18. [HD 6670 Graphics (For OEM Only)](http://www.amd.com/us/products/desktop/graphics/amd-radeon-hd-6000/hd-6670/Pages/amd-radeon-hd-6670-overview.aspx)
 
-19. [HD 6750 Graphics (For OEM
-    Only)](http://www.amd.com/us/products/desktop/graphics/amd-radeon-hd-6000/hd-6750/Pages/amd-radeon-hd-6750-overview.aspx)
+19. [HD 6750 Graphics (For OEM Only)](http://www.amd.com/us/products/desktop/graphics/amd-radeon-hd-6000/hd-6750/Pages/amd-radeon-hd-6750-overview.aspx)
 
-20. [HD 6770 Graphics (For OEM
-    Only)](http://www.amd.com/us/products/desktop/graphics/amd-radeon-hd-6000/hd-6770/Pages/amd-radeon-hd-6770-overview.aspx)
+20. [HD 6770 Graphics (For OEM Only)](http://www.amd.com/us/products/desktop/graphics/amd-radeon-hd-6000/hd-6770/Pages/amd-radeon-hd-6770-overview.aspx)
 
 21.
 
 22.
 
-23. DisplayPort rev.1.2 (DP1.2) 提供 21.6Gbps / 17.28Gbps 独立视讯频宽 (VBW) (2x
-    DP1.1 频宽 -\> 10.8Gbps / 8.64Gbps VBW; 或者 2x VBW 相当于 DL-DVI)
-    支持更高的解析度至 4096x2160@50Hz 或在较低分辨率上支持30-bit色深，
-    48Mbps 传输未压缩的音频(如 8声道 LPCM 192khz/24b)，也支持 杜比Dolby 和 DTS 无损音频格式，以及
-    3位立体声 (AMD的 HD3D)。 同时，DP1.2 支持多路流传输 （Multi-Stream Transport
-    (MST)），可以在单个端口上交替封包传输多个视频流。
+23. DisplayPort rev.1.2 (DP1.2) 提供 21.6Gbps / 17.28Gbps 独立视讯频宽 (VBW) (2x DP1.1 频宽 -\> 10.8Gbps / 8.64Gbps VBW; 或者 2x VBW 相当于 DL-DVI) 支持更高的解析度至 4096x2160@50Hz 或在较低分辨率上支持30-bit色深， 48Mbps 传输未压缩的音频(如 8声道 LPCM 192khz/24b)，也支持 杜比Dolby 和 DTS 无损音频格式，以及 3位立体声 (AMD的 HD3D)。 同时，DP1.2 支持多路流传输 （Multi-Stream Transport (MST)），可以在单个端口上交替封包传输多个视频流。
 
 24.
 
 25.
 
 26.
-27. [AMD Radeon HD 6950
-    Graphics](http://www.amd.com/us/products/desktop/graphics/amd-radeon-hd-6000/hd-6950/Pages/amd-radeon-hd-6950-overview.aspx)
+27. [AMD Radeon HD 6950 Graphics](http://www.amd.com/us/products/desktop/graphics/amd-radeon-hd-6000/hd-6950/Pages/amd-radeon-hd-6950-overview.aspx)
 
-28. [AMD's Radeon HD 6970 & Radeon HD 6950: Paving The Future For
-    AMD](http://www.anandtech.com/show/4061/amds-radeon-hd-6970-radeon-hd-6950/3http://www.anandtech.com/show/4061/amds-radeon-hd-6970-radeon-hd-6950/3)
+28. [AMD's Radeon HD 6970 & Radeon HD 6950: Paving The Future For AMD](http://www.anandtech.com/show/4061/amds-radeon-hd-6970-radeon-hd-6950/3http://www.anandtech.com/show/4061/amds-radeon-hd-6970-radeon-hd-6950/3)
 
 29.
-30. [AMD Radeon HD 6970
-    Graphics](http://www.amd.com/us/products/desktop/graphics/amd-radeon-hd-6000/hd-6970/Pages/amd-radeon-hd-6970-overview.aspx)
+30. [AMD Radeon HD 6970 Graphics](http://www.amd.com/us/products/desktop/graphics/amd-radeon-hd-6000/hd-6970/Pages/amd-radeon-hd-6970-overview.aspx)
 
 31.
 32.
@@ -10939,23 +10606,15 @@ bandwidth.
 
 45.
 46.
-47. [AMD launches Radeon 7790: Meet the Xbox 720′s
-    GPU](http://www.extremetech.com/gaming/151367-amd-launches-radeon-7790-meet-the-xbox-720s-gpu)
-    - EXTREMETECH.com
+47. [AMD launches Radeon 7790: Meet the Xbox 720′s GPU](http://www.extremetech.com/gaming/151367-amd-launches-radeon-7790-meet-the-xbox-720s-gpu) - EXTREMETECH.com
 
-48. [AMD Radeon™ HD 7730
-    显卡](http://www.amd.com/cn/products/desktop/graphics/7000/7730/Pages/radeon-7730.aspx)
-    - amd.com
+48. [AMD Radeon™ HD 7730 显卡](http://www.amd.com/cn/products/desktop/graphics/7000/7730/Pages/radeon-7730.aspx) - amd.com
 
-49. [GT640杯具?AMD新入门卡HD7730测试](http://www.inpai.com.cn/doc/hard/197931.htm)
-     - inpai.com
+49. [GT640杯具?AMD新入门卡HD7730测试](http://www.inpai.com.cn/doc/hard/197931.htm)  - inpai.com
 
-50. [HD 7730再测：DDR3与GDDR5版差距大，性价比依然是硬伤](http://www.expreview.com/27339.html)
-    - expreview.com
+50. [HD 7730再测：DDR3与GDDR5版差距大，性价比依然是硬伤](http://www.expreview.com/27339.html) - expreview.com
 
-51. [Review: Sapphire Radeon HD 7730 1GB
-    GDDR5](http://hexus.net/tech/reviews/graphics/58677-sapphire-radeon-hd-7730-1gb-gddr5/)
-    - hexus.net
+51. [Review: Sapphire Radeon HD 7730 1GB GDDR5](http://hexus.net/tech/reviews/graphics/58677-sapphire-radeon-hd-7730-1gb-gddr5/) - hexus.net
 
 52.
 
@@ -10982,12 +10641,9 @@ bandwidth.
 68.
 69.
 70.
-71. PowerColor Radeon HD 7850 SCS3 1GB Passive Video Card Review Read
-    more at
-    <http://www.legitreviews.com/powercolor-radeon-hd-7850-scs3-1gb-passive-video-card-review_2213>
+71. PowerColor Radeon HD 7850 SCS3 1GB Passive Video Card Review Read more at <http://www.legitreviews.com/powercolor-radeon-hd-7850-scs3-1gb-passive-video-card-review_2213>
 
-72. [GTX 650 Ti杀手，蓝宝石HD 7850 1GB评测](http://www.expreview.com/22541.html)
-    - expreview.com
+72. [GTX 650 Ti杀手，蓝宝石HD 7850 1GB评测](http://www.expreview.com/22541.html) - expreview.com
 
 73.
 74.
@@ -10998,9 +10654,7 @@ bandwidth.
 78.
 
 79.
-80. [Radeon HD 7870 "Boost Edition" seitens Club3D und PowerColor
-    vorgestellt](http://www.3dcenter.org/news/radeon-hd-7870-boost-edition-seitens-club3d-und-powercolor-vorgestellt)
-    -3dcenter.org
+80. [Radeon HD 7870 "Boost Edition" seitens Club3D und PowerColor vorgestellt](http://www.3dcenter.org/news/radeon-hd-7870-boost-edition-seitens-club3d-und-powercolor-vorgestellt) -3dcenter.org
 
 81.
 
@@ -11012,13 +10666,9 @@ bandwidth.
 85.
 86.
 87.
-88. AMD Radeon HD 7950 w/ Boost Versus NVIDIA GeForce GTX 760 Read more
-    at
-    <http://www.legitreviews.com/amd-radeon-hd-7950-w-boost-versus-nvidia-geforce-gtx-760_2227>
+88. AMD Radeon HD 7950 w/ Boost Versus NVIDIA GeForce GTX 760 Read more at <http://www.legitreviews.com/amd-radeon-hd-7950-w-boost-versus-nvidia-geforce-gtx-760_2227>
 
-89. [GK104变形记，GeForce
-    GTX 760显卡同步评测](http://www.expreview.com/26301-all.html)
-    - expreview.com
+89. [GK104变形记，GeForce GTX 760显卡同步评测](http://www.expreview.com/26301-all.html) - expreview.com
 
 90.
 
@@ -11035,24 +10685,18 @@ bandwidth.
 
 97.
 
-98. [Radeon HD 7990详尽测试](http://news.mydrivers.com/1/261/261388_all.htm)
-     - mydrivers.com轉載自Tom’s Hardware
+98. [Radeon HD 7990详尽测试](http://news.mydrivers.com/1/261/261388_all.htm)  - mydrivers.com轉載自Tom’s Hardware
 
 99.
 100.
 
-101. [AMD Radeon™ R5 Series
-     Graphics](http://www.amd.com/en-us/products/graphics/desktop/r5#)
+101. [AMD Radeon™ R5 Series Graphics](http://www.amd.com/en-us/products/graphics/desktop/r5#)
 
-102. [迎战GTX 750：R7 250X迫不及待露面了](http://news.mydrivers.com/1/291/291822.htm)
-     - mydrivers.com
+102. [迎战GTX 750：R7 250X迫不及待露面了](http://news.mydrivers.com/1/291/291822.htm) - mydrivers.com
 
-103. [AMD Preparing Tahiti XTL Revision of Radeon R9 280X Graphic Card
-     For November
-     Release](http://wccftech.com/amd-preparing-tahiti-xtl-revision-radeon-r9-280x-graphic-card/)
+103. [AMD Preparing Tahiti XTL Revision of Radeon R9 280X Graphic Card For November Release](http://wccftech.com/amd-preparing-tahiti-xtl-revision-radeon-r9-280x-graphic-card/)
 
-104. [AnandTech Portal | The AMD Radeon R9 290X
-     Review](http://anandtech.com/show/7457/the-radeon-r9-290x-review/)
+104. [AnandTech Portal | The AMD Radeon R9 290X Review](http://anandtech.com/show/7457/the-radeon-r9-290x-review/)
 
 105.
 106.
@@ -11089,16 +10733,13 @@ bandwidth.
 
 124. <http://www.3dcenter.org/news/hardware-und-nachrichten-links-des-45-august-2016>
 
-125. [ATI Radeon Mobility Graphics
-     Cards](http://products.amd.com/en-us/MobilityGPUResult.aspx)
+125. [ATI Radeon Mobility Graphics Cards](http://products.amd.com/en-us/MobilityGPUResult.aspx)
 
 126.
 127.
-128. [ATI Device ID page](http://ati.amd.com/developer/vendorid.html) .
-     Retrieved April 1, 2008.
+128. [ATI Device ID page](http://ati.amd.com/developer/vendorid.html) . Retrieved April 1, 2008.
 
-129. [AMD Launches World’s First 40 nm Graphics
-     Processors](http://www.amd.com/us/press-releases/Pages/amd_launches_worlds_first-2009mar03.aspx)
+129. [AMD Launches World’s First 40 nm Graphics Processors](http://www.amd.com/us/press-releases/Pages/amd_launches_worlds_first-2009mar03.aspx)
 
 130.
 
@@ -11120,20 +10761,13 @@ bandwidth.
 
 142. <http://i.imgur.com/drxycq2.png>
 
-143. [High-End Workstation Graphics Shootout - AMD FireGL V8650 Vs.
-     NVIDIA
-     QuadroFX 5600](http://hothardware.com/Articles/Ultra-HighEnd-Workstation-Graphics-Card-Shootout/?page=2)
+143. [High-End Workstation Graphics Shootout - AMD FireGL V8650 Vs. NVIDIA QuadroFX 5600](http://hothardware.com/Articles/Ultra-HighEnd-Workstation-Graphics-Card-Shootout/?page=2)
 
-144. [AMD Vendor ID
-     page](http://developer.amd.com/drivers/pc_vendor_id/Pages/default.aspx)
-     . Retrieved September 6, 2008.
+144. [AMD Vendor ID page](http://developer.amd.com/drivers/pc_vendor_id/Pages/default.aspx) . Retrieved September 6, 2008.
 
-145. [AMD FirePro V5800 and V3800 Review - Evergreen completes the
-     sweep](http://www.pcper.com/article.php?aid=909)
+145. [AMD FirePro V5800 and V3800 Review - Evergreen completes the sweep](http://www.pcper.com/article.php?aid=909)
 
-146. [AMD FirePro V4800 & FirePro V7800
-     Review](http://www.phoronix.com/scan.php?page=article&item=amd_firepro_v4800_v7800).
-     Retrieved September 6, 2008.
+146. [AMD FirePro V4800 & FirePro V7800 Review](http://www.phoronix.com/scan.php?page=article&item=amd_firepro_v4800_v7800). Retrieved September 6, 2008.
 
 147.
 148.
@@ -11151,22 +10785,13 @@ bandwidth.
 
 155. <http://www.amd.com/en-us/products/graphics/workstation/firepro-remote-graphics/s9150#>
 
-156. [FireMV 2260
-     brochure](http://ati.amd.com/products/firemvSeries/ATI_FireMV_2260.pdf)
-     : "Also with Microsoft DirectX 10.1 support the ATI FireMV 2260
-     exceeds all of the Windows Vista Aero minimum requirements".
-     Retrieved July 12, 2008
+156. [FireMV 2260 brochure](http://ati.amd.com/products/firemvSeries/ATI_FireMV_2260.pdf) : "Also with Microsoft DirectX 10.1 support the ATI FireMV 2260 exceeds all of the Windows Vista Aero minimum requirements". Retrieved July 12, 2008
 
-157. [ATI FirePro 2460 Multi-View Professional
-     Graphics](http://www.amd.com/US/PRODUCTS/WORKSTATION/GRAPHICS/ATI-FIREMV-2D/2460-MV/Pages/2460-firemv.aspx#2)
+157. [ATI FirePro 2460 Multi-View Professional Graphics](http://www.amd.com/US/PRODUCTS/WORKSTATION/GRAPHICS/ATI-FIREMV-2D/2460-MV/Pages/2460-firemv.aspx#2)
 
-158. [GameCube vs. Xbox: Part
-     Deux](http://www.extremetech.com/article2/0,1697,1152642,00.asp),
-     ExtremeTech. Retrieved July 9, 2007.
+158. [GameCube vs. Xbox: Part Deux](http://www.extremetech.com/article2/0,1697,1152642,00.asp), ExtremeTech. Retrieved July 9, 2007.
 
-159. Baumann, Dave. [ATI Xenos: Xbox 360 Graphics
-     Demystified](http://www.beyond3d.com/content/articles/4/),
-     Beyond3D, June 13, 2005.
+159. Baumann, Dave. [ATI Xenos: Xbox 360 Graphics Demystified](http://www.beyond3d.com/content/articles/4/), Beyond3D, June 13, 2005.
 
 160.
 

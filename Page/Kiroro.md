@@ -1,4 +1,4 @@
-**Kiroro**（），是一個[日本女子歌唱組合](../Page/日本.md "wikilink")。成員為**玉城千春**和**金城綾乃**。
+**Kiroro**（），是一個[日本](../Page/日本.md "wikilink")女子歌唱組合。成員為**玉城千春**和**金城綾乃**。
 
 ## 成員
 
@@ -23,9 +23,7 @@ Kiroro在沖繩展現的超人氣吸引了日本本土主流唱片公司的注�
 
 ### 命名由來
 
-主唱玉城千春小學的時候，因為學校交流的關係曾經到過北海道，在那裡學到了當地原住民愛奴族使用的方言，其中的「Kiroru」（在北海道愛奴族方言裡的意思是「人走出來的大路」）
-和「Kiroro-an」
-（在北海道愛奴族方言裡的意思有「強壯」、「健康」、「碩大」和「堅固」的意思）兩個字的意思和音節讓她留下了深刻的印象，因此在組團時就直接用「Kiroro」當作團名。
+主唱玉城千春小學的時候，因為學校交流的關係曾經到過北海道，在那裡學到了當地原住民[愛奴族使用的方言](https://zh.wikipedia.org/wiki/愛奴族 "wikilink")，其中的「kir-o-ru」（在[愛奴語裡的意思是](https://zh.wikipedia.org/wiki/愛奴語 "wikilink")「人走出來的大路」） 和「kiroro-an」 （在愛奴語裡的意思有「有趣」、「高興」的意思）兩個字的意思和音節讓她留下了深刻的印象，因此在組團時就直接用「Kiroro」當作團名。
 
 ## 作品
 
@@ -230,7 +228,4 @@ Kiroro在沖繩展現的超人氣吸引了日本本土主流唱片公司的注�
 
 ## 参考文献
 
-[Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink")
-[Category:日本有線大獎最優秀新人獎獲獎者](https://zh.wikipedia.org/wiki/Category:日本有線大獎最優秀新人獎獲獎者 "wikilink")
-[Category:BEST_HIT歌謠祭最優秀新人獎獲獎者](https://zh.wikipedia.org/wiki/Category:BEST_HIT歌謠祭最優秀新人獎獲獎者 "wikilink")
-[Category:勝利娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:勝利娛樂旗下藝人 "wikilink")
+[Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink") [Category:日本有線大獎最優秀新人獎獲獎者](https://zh.wikipedia.org/wiki/Category:日本有線大獎最優秀新人獎獲獎者 "wikilink") [Category:BEST_HIT歌謠祭最優秀新人獎獲獎者](https://zh.wikipedia.org/wiki/Category:BEST_HIT歌謠祭最優秀新人獎獲獎者 "wikilink") [Category:勝利娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:勝利娛樂旗下藝人 "wikilink")

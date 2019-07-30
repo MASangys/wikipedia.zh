@@ -9,8 +9,4 @@
   - **[丹尼尔·博斯奇](https://zh.wikipedia.org/wiki/丹尼尔·博斯奇 "wikilink")**（，曾执行、、、、以及任务），任务专家
   - **[彼得·维索夫](https://zh.wikipedia.org/wiki/彼得·维索夫 "wikilink")**（，曾执行、、以及任务），任务专家
 
-[Category:1994年佛罗里达州](https://zh.wikipedia.org/wiki/Category:1994年佛罗里达州 "wikilink")
-[Category:奋进号航天飞机任务](https://zh.wikipedia.org/wiki/Category:奋进号航天飞机任务 "wikilink")
-[Category:1994年科学](https://zh.wikipedia.org/wiki/Category:1994年科学 "wikilink")
-[Category:1994年9月](https://zh.wikipedia.org/wiki/Category:1994年9月 "wikilink")
-[Category:1994年10月](https://zh.wikipedia.org/wiki/Category:1994年10月 "wikilink")
+[Category:1994年佛罗里达州](https://zh.wikipedia.org/wiki/Category:1994年佛罗里达州 "wikilink") [Category:奋进号航天飞机任务](https://zh.wikipedia.org/wiki/Category:奋进号航天飞机任务 "wikilink") [Category:1994年科学](https://zh.wikipedia.org/wiki/Category:1994年科学 "wikilink") [Category:1994年9月](https://zh.wikipedia.org/wiki/Category:1994年9月 "wikilink") [Category:1994年10月](https://zh.wikipedia.org/wiki/Category:1994年10月 "wikilink")

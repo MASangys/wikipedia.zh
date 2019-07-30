@@ -1,10 +1,8 @@
-**RoadShow至尊音樂頒獎禮**，是由香港戶外媒體供應商[路訊通所舉辦](../Page/路訊通.md "wikilink")，由2006年起於每年1月舉辦，只舉辦了3屆，自2009年起停止舉辦。
+**RoadShow至尊音樂頒獎禮**，是由香港戶外媒體供應商[路訊通](../Page/路訊通.md "wikilink")所舉辦，由2006年起於每年1月舉辦，只舉辦了3屆，自2009年起停止舉辦。
 
 ## 歷史
 
-RoadShow至尊音樂頒獎禮的前身為[RoadShow
-MV直選](https://zh.wikipedia.org/wiki/RoadShow_MV直選 "wikilink")。
-而RoadShow MV直選在2003年及2004年只舉辦兩屆，及後才擴大規模變成RoadShow至尊音樂頒獎禮2005年。
+RoadShow至尊音樂頒獎禮的前身為[RoadShow MV直選](https://zh.wikipedia.org/wiki/RoadShow_MV直選 "wikilink")。 而RoadShow MV直選在2003年及2004年只舉辦兩屆，及後才擴大規模變成RoadShow至尊音樂頒獎禮2005年。
 
 至2005末RoadShow將該頒獎禮強化，以曾經上了「音樂前線」的MV為候選曲基礎，引入公眾以電話手機[短訊投票](https://zh.wikipedia.org/wiki/短訊 "wikilink")，結果在2006年初以「RoadShow至尊音樂頒獎禮」公佈。
 

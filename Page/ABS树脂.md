@@ -1,7 +1,4 @@
-[Lego_Color_Bricks.jpg](https://zh.wikipedia.org/wiki/File:Lego_Color_Bricks.jpg "fig:Lego_Color_Bricks.jpg")
-**ABS树脂**（[丙烯腈](../Page/丙烯腈.md "wikilink")-[丁二烯](../Page/丁二烯.md "wikilink")-[苯乙烯共聚物](../Page/苯乙烯.md "wikilink")，ABS是**A**crylonitrile
-**B**utadiene
-**S**tyrene的首字母缩写）是一种强度高、韧性好、易于加工成型的热塑型[高分子材料](../Page/高分子材料.md "wikilink"),其玻璃转移温度大约是105°C(221°F)。ABS是无定形的，因此没有真正的熔点。
+[Lego_Color_Bricks.jpg](https://zh.wikipedia.org/wiki/File:Lego_Color_Bricks.jpg "fig:Lego_Color_Bricks.jpg") **ABS树脂**（[丙烯腈](../Page/丙烯腈.md "wikilink")-[丁二烯](../Page/丁二烯.md "wikilink")-[苯乙烯](../Page/苯乙烯.md "wikilink")共聚物，ABS是**A**crylonitrile **B**utadiene **S**tyrene的首字母缩写）常見塑料種類之一，是一种强度高、韧性好、易于加工成型的热塑型[高分子材料](../Page/高分子材料.md "wikilink"),其玻璃转移温度大约是105°C(221°F)。ABS是无定形的，因此没有真正的熔点。
 
 ## 结构
 
@@ -15,8 +12,7 @@ ABS树脂是[丙烯腈](../Page/丙烯腈.md "wikilink")（Acrylonitrile）、[1
 
 ## 性质
 
-ABS树脂是乳白色固体，有一定的韧性，密度约为1.04\~1.06
-[g](https://zh.wikipedia.org/wiki/克 "wikilink")／[cm<sup>3</sup>](https://zh.wikipedia.org/wiki/立方厘米 "wikilink")。它抗[酸](../Page/酸.md "wikilink")、[碱](../Page/碱.md "wikilink")、[盐的腐蚀能力比较强](https://zh.wikipedia.org/wiki/盐 "wikilink")，也可在一定程度上耐受有机溶剂溶解。
+ABS树脂是乳白色固体，有一定的韧性，密度约为1.04\~1.06 [g](https://zh.wikipedia.org/wiki/克 "wikilink")／[cm<sup>3</sup>](https://zh.wikipedia.org/wiki/立方厘米 "wikilink")。它抗[酸](../Page/酸.md "wikilink")、[碱](../Page/碱.md "wikilink")、[盐的腐蚀能力比较强](https://zh.wikipedia.org/wiki/盐 "wikilink")，也可在一定程度上耐受有机溶剂溶解。
 
 ABS树脂可以在-25[℃](https://zh.wikipedia.org/wiki/摄氏度 "wikilink")\~60℃的环境下表现正常，而且有很好的成型性，加工出的产品表面光洁，易于染色和[电镀](https://zh.wikipedia.org/wiki/电镀 "wikilink")。因此它可以被用于家电外壳、玩具等日常用品。常见的[乐高积木就是ABS制品](https://zh.wikipedia.org/wiki/乐高 "wikilink")。
 
@@ -35,6 +31,4 @@ ABS有两种主要的工业生产方法：
 
   - [聚苯乙烯](../Page/聚苯乙烯.md "wikilink")
 
-[Category:塑料](https://zh.wikipedia.org/wiki/Category:塑料 "wikilink")
-[Category:共聚物](https://zh.wikipedia.org/wiki/Category:共聚物 "wikilink")
-[Category:热塑性塑料](https://zh.wikipedia.org/wiki/Category:热塑性塑料 "wikilink")
+[Category:塑料](https://zh.wikipedia.org/wiki/Category:塑料 "wikilink") [Category:共聚物](https://zh.wikipedia.org/wiki/Category:共聚物 "wikilink") [Category:热塑性塑料](https://zh.wikipedia.org/wiki/Category:热塑性塑料 "wikilink")

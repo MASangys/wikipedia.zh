@@ -10,10 +10,6 @@
 
 ## 參考資料
 
-  - [Mission
-    Summary](http://science.ksc.nasa.gov/shuttle/missions/sts-53/mission-sts-53.html)
+  - [Mission Summary](http://science.ksc.nasa.gov/shuttle/missions/sts-53/mission-sts-53.html)
 
-[Category:1992年佛罗里达州](https://zh.wikipedia.org/wiki/Category:1992年佛罗里达州 "wikilink")
-[Category:1992年科學](https://zh.wikipedia.org/wiki/Category:1992年科學 "wikilink")
-[Category:发现号航天飞机任务](https://zh.wikipedia.org/wiki/Category:发现号航天飞机任务 "wikilink")
-[Category:1992年12月](https://zh.wikipedia.org/wiki/Category:1992年12月 "wikilink")
+[Category:1992年佛罗里达州](https://zh.wikipedia.org/wiki/Category:1992年佛罗里达州 "wikilink") [Category:1992年科學](https://zh.wikipedia.org/wiki/Category:1992年科學 "wikilink") [Category:发现号航天飞机任务](https://zh.wikipedia.org/wiki/Category:发现号航天飞机任务 "wikilink") [Category:1992年12月](https://zh.wikipedia.org/wiki/Category:1992年12月 "wikilink")

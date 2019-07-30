@@ -1,9 +1,8 @@
-[Canon_EF_Zoom_Lenses.jpg](https://zh.wikipedia.org/wiki/File:Canon_EF_Zoom_Lenses.jpg "fig:Canon_EF_Zoom_Lenses.jpg")
-[Canon_EF_lens_mount.jpg](https://zh.wikipedia.org/wiki/File:Canon_EF_lens_mount.jpg "fig:Canon_EF_lens_mount.jpg")
+[Canon_EF_Zoom_Lenses.jpg](https://zh.wikipedia.org/wiki/File:Canon_EF_Zoom_Lenses.jpg "fig:Canon_EF_Zoom_Lenses.jpg") [Canon_EF_lens_mount.jpg](https://zh.wikipedia.org/wiki/File:Canon_EF_lens_mount.jpg "fig:Canon_EF_lens_mount.jpg")
 
 **佳能EF接环镜头**指具有电子对焦（）功能，即机身自动对焦系统指挥镜头内置的马达带动镜头对焦，并与佳能EF接环相对应的镜头。
 
-此列表內的EF鏡頭適用於所有[佳能EOS系列相機](../Page/佳能EOS系列.md "wikilink")。不過，由於、[APS-C影像感測器尺寸的相機大小為](https://zh.wikipedia.org/wiki/APS-C "wikilink")1.6的轉換係數，故如將EF鏡頭用於APS-C片幅的數位單眼反光相機，其可視範圍焦距等效於35mm膠片片幅的焦距為鏡頭實際焦距數乘以1.6之後的數值。
+此列表內的EF鏡頭適用於所有[佳能EOS系列](../Page/佳能EOS系列.md "wikilink")相機。不過，由於、[APS-C影像感測器尺寸的相機大小為](https://zh.wikipedia.org/wiki/APS-C "wikilink")1.6的轉換係數，故如將EF鏡頭用於APS-C片幅的數位單眼反光相機，其可視範圍焦距等效於35mm膠片片幅的焦距為鏡頭實際焦距數乘以1.6之後的數值。
 
 EF接環鏡頭無法直接接在早期的佳能FD接環相機使用，反之亦然，除非使用鏡頭轉接環轉接。
 
@@ -18,22 +17,18 @@ EF系列鏡頭一共使用這幾種馬達：
 1.  環形超音波馬達（）：目前EF系列中最先進的馬達，速度、噪音、準確性、機械性、耗電量等各項性能均優，可支援**全時手動對焦**（FTM），即使自動對焦正在工作時亦可以使用對焦環進行手動對焦，主要用於高中檔次的定焦及變焦鏡頭。
 2.  步進馬達（）：通过特殊的導螺桿型結構使短片拍攝時可以安靜、流暢的進行對焦。並且在配合電子手動對焦環時可基本支援**全時手動對焦**（FTM）功能。
 3.  微型超音波馬達（）：性能遜於環形超聲波，與環形超聲波馬達最明顯的差異在於不支援全時手動。用於較低檔次的變焦鏡頭。
-4.  迷你超聲波馬達（-{Nano-USM}-）：目前最新型迷你對焦馬達，結合 STM 步進馬達及 Ring USM
-    環形超聲波馬達的優點，高速對焦同時也寧靜流暢，可支援**全時手動對焦**（FTM）。
+4.  迷你超聲波馬達（-{Nano-USM}-）：目前最新型迷你對焦馬達，結合 STM 步進馬達及 Ring USM 環形超聲波馬達的優點，高速對焦同時也寧靜流暢，可支援**全時手動對焦**（FTM）。
 5.  弧形馬達（）：這是一種普通的無軸馬達。不支援「全時手動」。多用於較高檔次的非超聲波鏡頭。
 6.  微型馬達（）：這是傳統的有傳動軸的馬達，分為有線圈和無線圈兩種。較為耗電，且不支援「全時手動」。主要用於廉價的低檔次鏡頭。
 7.  音圈馬達：用於高速驅動Image Stabilizer(圖像穩定器)的組件。
 
-環形超聲波馬達主要用在較高檔次的鏡頭上，如“L”級鏡頭與中檔鏡頭中(各别早期L鏡頭由於技術所限使用AFD馬達)，而Micro-USM與MM馬達通常用在低檔鏡頭中。STM通常用于入門與進階機型的組合鏡頭（Kit
-Lens）中，用以針對初级用戶提供較安靜，快速的對焦，並提供全時手動對焦功能。“環型超聲波馬達”（Ring-USM）的鏡頭一般都使用了內/後對焦技術，所以對焦時鏡身長度不變，前組鏡片不轉；而使用“微型超聲波馬達”（Micro-USM）的鏡頭在對焦時，鏡身長度會變化，前組鏡片也會跟著旋轉。
+環形超聲波馬達主要用在較高檔次的鏡頭上，如“L”級鏡頭與中檔鏡頭中(各别早期L鏡頭由於技術所限使用AFD馬達)，而Micro-USM與MM馬達通常用在低檔鏡頭中。STM通常用于入門與進階機型的組合鏡頭（Kit Lens）中，用以針對初级用戶提供較安靜，快速的對焦，並提供全時手動對焦功能。“環型超聲波馬達”（Ring-USM）的鏡頭一般都使用了內/後對焦技術，所以對焦時鏡身長度不變，前組鏡片不轉；而使用“微型超聲波馬達”（Micro-USM）的鏡頭在對焦時，鏡身長度會變化，前組鏡片也會跟著旋轉。
 
 #### 超声波马达（USM）
 
-目前，許多佳能鏡頭都具有超聲波馬達（），在對焦時可以更安靜、快速\[1\]。同时也在望遠定焦、超望遠變焦鏡頭上提供電動對焦(PF,Power
-Focus)功能，實現在短片拍攝中以電力維持一定速度使對焦鏡片平滑移動至合焦位置。
+目前，許多佳能鏡頭都具有超聲波馬達（），在對焦時可以更安靜、快速\[1\]。同时也在望遠定焦、超望遠變焦鏡頭上提供電動對焦(PF,Power Focus)功能，實現在短片拍攝中以電力維持一定速度使對焦鏡片平滑移動至合焦位置。
 
-早在膠捲相機年代，佳能首創的超聲波馬達（）鏡頭已經名聞遐邇。USM帶來的好處就是對焦又快又寧靜，鏡頭對焦時內機件發出的聲響，真的能做到非常低。佳能EF鏡頭內置的超聲波馬達，顧名思義是由超聲波的振動力驅動，配合佳能EOS系列相機的自動對焦系統，從而發揮快速、精確和接近無聲的自動對焦操作。所以大家看到很多體育攝影記者採用的，都是佳能EOS系列相機與EF鏡頭的組合\[2\]\[3\]\[4\]
-\[5\]。
+早在膠捲相機年代，佳能首創的超聲波馬達（）鏡頭已經名聞遐邇。USM帶來的好處就是對焦又快又寧靜，鏡頭對焦時內機件發出的聲響，真的能做到非常低。佳能EF鏡頭內置的超聲波馬達，顧名思義是由超聲波的振動力驅動，配合佳能EOS系列相機的自動對焦系統，從而發揮快速、精確和接近無聲的自動對焦操作。所以大家看到很多體育攝影記者採用的，都是佳能EOS系列相機與EF鏡頭的組合\[2\]\[3\]\[4\] \[5\]。
 
 如要把USM種類細分，可分為環形和微型兩種。前者多使用於大光圈及超望遠鏡頭上，並提供了全時手動對焦功能；而後者多使用於小型鏡頭上，令自動對焦效果更快更寧靜。
 
@@ -45,8 +40,7 @@ Focus)功能，實現在短片拍攝中以電力維持一定速度使對焦鏡�
 
 ### 全时手动对焦
 
-全時手動對焦是指鏡頭能同時使用自動對焦與手動對焦。這個功能使處於自動對焦狀態時進行手動對焦而不會損壞自動對焦馬達。佳能EF接環鏡頭中，配有環形USM（超聲波馬達）的所有EF鏡頭以及配有微型USM的佳能EF
-50mm f/1.4 USM鏡頭具有全時手動對焦的特性。另外，配有步進式馬達和電子手動對焦環的入門級鏡頭也可基本支持全時手動對焦。\[6\]
+全時手動對焦是指鏡頭能同時使用自動對焦與手動對焦。這個功能使處於自動對焦狀態時進行手動對焦而不會損壞自動對焦馬達。佳能EF接環鏡頭中，配有環形USM（超聲波馬達）的所有EF鏡頭以及配有微型USM的佳能EF 50mm f/1.4 USM鏡頭具有全時手動對焦的特性。另外，配有步進式馬達和電子手動對焦環的入門級鏡頭也可基本支持全時手動對焦。\[6\]
 
 ## 佳能镜头的命名
 
@@ -63,15 +57,11 @@ Focus)功能，實現在短片拍攝中以電力維持一定速度使對焦鏡�
   - 標有“**STM**”的鏡頭配有步進式馬達。 （全稱“**ST**epper **M**otor”）
   - 標有“**<font color="red">L</font>**”（英文單詞Luxury的首字母）的鏡頭為[佳能高階鏡頭](../Page/佳能L镜头.md "wikilink")\[7\]（俗稱“L頭”、“L鏡”或“紅圈頭”），其變焦鏡頭多為恆定光圈，外觀特點為鏡頭前端有一環紅圈，價格一般較為昂貴。
   - 標有“**IS**”的鏡頭配有光學影像​​穩定器。 （全稱“**I**mage **S**tabilizer”）
-  - 标有“**DO**”的镜头为[衍射光学元件的镜头](../Page/衍射.md "wikilink")，相同焦段的情况下具有较小的体积，便于携带。外观特点是镜头前端有一环绿圈。
+  - 标有“**DO**”的镜头为[衍射](../Page/衍射.md "wikilink")光学元件的镜头，相同焦段的情况下具有较小的体积，便于携带。外观特点是镜头前端有一环绿圈。
 
 ## [變焦鏡頭](https://zh.wikipedia.org/wiki/變焦鏡 "wikilink")
 
-[Canon_EF_17-40mm_f4L_USM.jpg](https://zh.wikipedia.org/wiki/File:Canon_EF_17-40mm_f4L_USM.jpg "fig:Canon_EF_17-40mm_f4L_USM.jpg")
-[Canon_EF_35-70mm_F3.5-4.5_lens.jpg](https://zh.wikipedia.org/wiki/File:Canon_EF_35-70mm_F3.5-4.5_lens.jpg "fig:Canon_EF_35-70mm_F3.5-4.5_lens.jpg")
-[Canon_EF_70-200mm.jpg](https://zh.wikipedia.org/wiki/File:Canon_EF_70-200mm.jpg "fig:Canon_EF_70-200mm.jpg")，俗称“小白”镜头\]\]
-[Canon_EF_70-200mm_f2.8_L_IS_USM.jpg](https://zh.wikipedia.org/wiki/File:Canon_EF_70-200mm_f2.8_L_IS_USM.jpg "fig:Canon_EF_70-200mm_f2.8_L_IS_USM.jpg")，俗称“爱死小白”\]\]
-[Canon_70-300_DO_MG_2020.jpg](https://zh.wikipedia.org/wiki/File:Canon_70-300_DO_MG_2020.jpg "fig:Canon_70-300_DO_MG_2020.jpg")
+[Canon_EF_17-40mm_f4L_USM.jpg](https://zh.wikipedia.org/wiki/File:Canon_EF_17-40mm_f4L_USM.jpg "fig:Canon_EF_17-40mm_f4L_USM.jpg") [Canon_EF_35-70mm_F3.5-4.5_lens.jpg](https://zh.wikipedia.org/wiki/File:Canon_EF_35-70mm_F3.5-4.5_lens.jpg "fig:Canon_EF_35-70mm_F3.5-4.5_lens.jpg") [Canon_EF_70-200mm.jpg](https://zh.wikipedia.org/wiki/File:Canon_EF_70-200mm.jpg "fig:Canon_EF_70-200mm.jpg")，俗称“小白”镜头\]\] [Canon_EF_70-200mm_f2.8_L_IS_USM.jpg](https://zh.wikipedia.org/wiki/File:Canon_EF_70-200mm_f2.8_L_IS_USM.jpg "fig:Canon_EF_70-200mm_f2.8_L_IS_USM.jpg")，俗称“爱死小白”\]\] [Canon_70-300_DO_MG_2020.jpg](https://zh.wikipedia.org/wiki/File:Canon_70-300_DO_MG_2020.jpg "fig:Canon_70-300_DO_MG_2020.jpg")
 
 | 焦距                                                         | 型號                                                              | 發售日     | 重量    | 配有IS | "<font color="red">L</font>"鏡頭 |
 | ---------------------------------------------------------- | --------------------------------------------------------------- | ------- | ----- | ---- | ------------------------------ |
@@ -262,10 +252,8 @@ Focus)功能，實現在短片拍攝中以電力維持一定速度使對焦鏡�
   -
 ## 外部連結
 
-  - [攝影家手扎 -
-    傳統單眼與鏡頭列表頁](http://www.photosharp.com.tw/photosharp/ProductIndex.aspx?eid=2&bid=1)
-  - [CANON EF 鏡頭 與 相容鏡頭測試
-    英文](http://www.the-digital-picture.com/Reviews/Canon-Lens-Reviews.aspx)
+  - [攝影家手扎 - 傳統單眼與鏡頭列表頁](http://www.photosharp.com.tw/photosharp/ProductIndex.aspx?eid=2&bid=1)
+  - [CANON EF 鏡頭 與 相容鏡頭測試 英文](http://www.the-digital-picture.com/Reviews/Canon-Lens-Reviews.aspx)
   - [CANON EF 官方鏡頭製品](http://cweb.canon.jp/ef/lineup/index.html)
   - [停產EF鏡頭製品](http://cweb.canon.jp/ef/lineup/old-products.html)
 
@@ -277,8 +265,7 @@ Focus)功能，實現在短片拍攝中以電力維持一定速度使對焦鏡�
   - [佳能FD接環鏡頭](../Page/佳能FD接環鏡頭.md "wikilink")
   - [佳能L鏡頭](https://zh.wikipedia.org/wiki/佳能L鏡頭 "wikilink")
 
-[Category:佳能EF接環鏡頭](https://zh.wikipedia.org/wiki/Category:佳能EF接環鏡頭 "wikilink")
-[Category:鏡頭接環](https://zh.wikipedia.org/wiki/Category:鏡頭接環 "wikilink")
+[Category:佳能EF接環鏡頭](https://zh.wikipedia.org/wiki/Category:佳能EF接環鏡頭 "wikilink") [Category:鏡頭接環](https://zh.wikipedia.org/wiki/Category:鏡頭接環 "wikilink")
 
 1.
 2.

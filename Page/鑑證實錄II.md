@@ -1,4 +1,4 @@
-《**鑑證實錄II**》（[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：），[香港](../Page/香港.md "wikilink")[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[翡翠台時裝](../Page/翡翠台.md "wikilink")[劇集](https://zh.wikipedia.org/wiki/劇集 "wikilink")，於1999年1月4日首播，共20集，監製[潘嘉德](../Page/潘嘉德.md "wikilink")。此劇為《[鑑證實錄](../Page/鑑證實錄.md "wikilink")》的續集。
+《**鑑證實錄II**》（[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：），[香港](../Page/香港.md "wikilink")[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")時裝[劇集](https://zh.wikipedia.org/wiki/劇集 "wikilink")，於1999年1月4日首播，共20集，監製[潘嘉德](../Page/潘嘉德.md "wikilink")。此劇為《[鑑證實錄](../Page/鑑證實錄.md "wikilink")》的續集。
 
 ## 劇情內容
 
@@ -1535,17 +1535,8 @@ Susanna之客人<br />
 
 ## 外部連結
 
-  - [無綫電視官方網頁 -
-    鑑證實錄II](https://web.archive.org/web/20090117174307/http://tvcity.tvb.com/drama/evid2/index.htm)
-  - [無綫電視官方網頁(TVBI) -
-    鑑證實錄II](http://www.tvb.com/tvbi/program/evid2/evid2.htm)
-  - [《鑑證實錄II》 GOTV
-    第1集重溫](https://web.archive.org/web/20140222162443/http://gotv.tvb.com/programme/103214/153461/)
+  - [無綫電視官方網頁 - 鑑證實錄II](https://web.archive.org/web/20090117174307/http://tvcity.tvb.com/drama/evid2/index.htm)
+  - [無綫電視官方網頁(TVBI) - 鑑證實錄II](http://www.tvb.com/tvbi/program/evid2/evid2.htm)
+  - [《鑑證實錄II》 GOTV 第1集重溫](https://web.archive.org/web/20140222162443/http://gotv.tvb.com/programme/103214/153461/)
 
-[Category:無綫電視劇集系列](https://zh.wikipedia.org/wiki/Category:無綫電視劇集系列 "wikilink")
-[Category:1999年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:1999年無綫電視劇集 "wikilink")
-[Category:無綫電視1990年代背景劇集](https://zh.wikipedia.org/wiki/Category:無綫電視1990年代背景劇集 "wikilink")
-[Category:無綫電視醫學劇集](https://zh.wikipedia.org/wiki/Category:無綫電視醫學劇集 "wikilink")
-[Category:無綫電視推理劇集](https://zh.wikipedia.org/wiki/Category:無綫電視推理劇集 "wikilink")
-[Category:電視劇續集](https://zh.wikipedia.org/wiki/Category:電視劇續集 "wikilink")
-[Category:無綫電視犯罪劇集](https://zh.wikipedia.org/wiki/Category:無綫電視犯罪劇集 "wikilink")
+[Category:無綫電視劇集系列](https://zh.wikipedia.org/wiki/Category:無綫電視劇集系列 "wikilink") [Category:1999年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:1999年無綫電視劇集 "wikilink") [Category:無綫電視1990年代背景劇集](https://zh.wikipedia.org/wiki/Category:無綫電視1990年代背景劇集 "wikilink") [Category:無綫電視醫學劇集](https://zh.wikipedia.org/wiki/Category:無綫電視醫學劇集 "wikilink") [Category:無綫電視推理劇集](https://zh.wikipedia.org/wiki/Category:無綫電視推理劇集 "wikilink") [Category:電視劇續集](https://zh.wikipedia.org/wiki/Category:電視劇續集 "wikilink") [Category:無綫電視犯罪劇集](https://zh.wikipedia.org/wiki/Category:無綫電視犯罪劇集 "wikilink")

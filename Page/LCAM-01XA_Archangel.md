@@ -1,7 +1,4 @@
-**LCAM-01XA
-Archangel**，即**大天使號**，為[日本科幻](../Page/日本.md "wikilink")[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")《[機動戰士鋼彈SEED](https://zh.wikipedia.org/wiki/機動戰士鋼彈SEED "wikilink")》和《[機動戰士鋼彈SEED
-DESTINY](https://zh.wikipedia.org/wiki/機動戰士鋼彈SEED_DESTINY "wikilink")》中的[戰艦](../Page/戰艦.md "wikilink")。
-[LCAM-01XA_Archangel.jpg](https://zh.wikipedia.org/wiki/File:LCAM-01XA_Archangel.jpg "fig:LCAM-01XA_Archangel.jpg")
+**LCAM-01XA Archangel**，即**大天使號**，為[日本](../Page/日本.md "wikilink")科幻[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")《[機動戰士鋼彈SEED](https://zh.wikipedia.org/wiki/機動戰士鋼彈SEED "wikilink")》和《[機動戰士鋼彈SEED DESTINY](https://zh.wikipedia.org/wiki/機動戰士鋼彈SEED_DESTINY "wikilink")》中的[戰艦](../Page/戰艦.md "wikilink")。 [LCAM-01XA_Archangel.jpg](https://zh.wikipedia.org/wiki/File:LCAM-01XA_Archangel.jpg "fig:LCAM-01XA_Archangel.jpg")
 
 ## 開發經過
 
@@ -19,21 +16,15 @@ DESTINY](https://zh.wikipedia.org/wiki/機動戰士鋼彈SEED_DESTINY "wikilink"
 
 ### SEED
 
-由於情報外流，[Z.A.F.T.知道了](https://zh.wikipedia.org/wiki/ZAFT "wikilink")[大西洋聯邦研發新兵器之所在地](https://zh.wikipedia.org/wiki/大西洋聯邦 "wikilink")，而派出了他們的最精銳之新紅衣部隊－[拉烏·鲁·克鲁澤部隊](https://zh.wikipedia.org/wiki/拉·魯·古魯謝 "wikilink")，期望得到其新形MS。
-在奇襲作戰下，戰艦人員幾乎全滅、MS駕駛員全部死亡。五部新型MS之中，其中四部被奪，平民[煌·大和機緣巧合下成為了最後一部X](../Page/基拉·大和.md "wikilink")-系列「[GAT-X105
-攻擊鋼彈](https://zh.wikipedia.org/wiki/GAT-X105_STRIKE "wikilink")」之駕駛員。
+由於情報外流，[Z.A.F.T.知道了](https://zh.wikipedia.org/wiki/ZAFT "wikilink")[大西洋聯邦研發新兵器之所在地](https://zh.wikipedia.org/wiki/大西洋聯邦 "wikilink")，而派出了他們的最精銳之新紅衣部隊－[拉烏·鲁·克鲁澤部隊](https://zh.wikipedia.org/wiki/拉·魯·古魯謝 "wikilink")，期望得到其新形MS。 在奇襲作戰下，戰艦人員幾乎全滅、MS駕駛員全部死亡。五部新型MS之中，其中四部被奪，平民[煌·大和機緣巧合下成為了最後一部X](../Page/基拉·大和.md "wikilink")-系列「[GAT-X105 攻擊鋼彈](https://zh.wikipedia.org/wiki/GAT-X105_STRIKE "wikilink")」之駕駛員。
 
-由於「海利歐波里斯」之毀滅，令到戰場陷入了混亂之中，**大天使號**從而得到了一絲求生之機會，但因為是在出發前受到襲擊，**大天使號**處於物資不充足之急需補給狀態。在經過商討之後，終於決定前往聯合軍同盟中一員欧亚联邦之軍事衛星，擁有號稱「阿耳忒弥斯之傘」之「[阿耳忒弥斯](../Page/阿耳忒弥斯.md "wikilink")」。
-但大天使號之行動被克魯澤隊所預知，並在“阿耳忒弥斯”前布下陷阱等待；在一番苦戰之下，成功使敵人受損後退的**大天使號**終於能夠進入「阿耳忒弥斯」，但由於同盟之竊視，大天使號不單未能得到補給，船上之成員還被看守起來，所有資料都受到複製，在不知可惜還是可喜的情況下，Z.A.F.T.的追兵攻入了「阿耳忒弥斯」中，大天使號乘此機會出逃，「阿耳忒弥斯」受创。
+由於「海利歐波里斯」之毀滅，令到戰場陷入了混亂之中，**大天使號**從而得到了一絲求生之機會，但因為是在出發前受到襲擊，**大天使號**處於物資不充足之急需補給狀態。在經過商討之後，終於決定前往聯合軍同盟中一員欧亚联邦之軍事衛星，擁有號稱「阿耳忒弥斯之傘」之「[阿耳忒弥斯](../Page/阿耳忒弥斯.md "wikilink")」。 但大天使號之行動被克魯澤隊所預知，並在“阿耳忒弥斯”前布下陷阱等待；在一番苦戰之下，成功使敵人受損後退的**大天使號**終於能夠進入「阿耳忒弥斯」，但由於同盟之竊視，大天使號不單未能得到補給，船上之成員還被看守起來，所有資料都受到複製，在不知可惜還是可喜的情況下，Z.A.F.T.的追兵攻入了「阿耳忒弥斯」中，大天使號乘此機會出逃，「阿耳忒弥斯」受创。
 
-在沒有援軍和補給之情形下，**大天使號**只能在前往月球軌道之同時，在宇宙垃圾環裏搜索有沒有可用之物資。與此同時，發現了在「[血色情人節](https://zh.wikipedia.org/wiki/血色情人節 "wikilink")」被核彈所毀壞之[P.L.A.N.T的尤尼乌斯](https://zh.wikipedia.org/wiki/P.L.A.N.T "wikilink")7号的残骸，並且只在其上找到可用之食水。
-在垃圾環中消滅Z.A.F.T.之偵察兵之同時，發現了P.L.A.N.T議長之女[拉克絲·克萊因之救生船並救回](../Page/拉克絲·克萊因.md "wikilink")。
-與第八艦隊先遣隊會和時，先遣隊受到克魯澤隊發現和攻擊。雖然大天使號也有前往支援，但由於兵力差，先遺隊被全數擊沉。在煌釋放拉克絲之同時，大天使號由於拉克絲之原因避過了危機。
+在沒有援軍和補給之情形下，**大天使號**只能在前往月球軌道之同時，在宇宙垃圾環裏搜索有沒有可用之物資。與此同時，發現了在「[血色情人節](https://zh.wikipedia.org/wiki/血色情人節 "wikilink")」被核彈所毀壞之[P.L.A.N.T的尤尼乌斯](https://zh.wikipedia.org/wiki/P.L.A.N.T "wikilink")7号的残骸，並且只在其上找到可用之食水。 在垃圾環中消滅Z.A.F.T.之偵察兵之同時，發現了P.L.A.N.T議長之女[拉克絲·克萊因](../Page/拉克絲·克萊因.md "wikilink")之救生船並救回。 與第八艦隊先遣隊會和時，先遣隊受到克魯澤隊發現和攻擊。雖然大天使號也有前往支援，但由於兵力差，先遺隊被全數擊沉。在煌釋放拉克絲之同時，大天使號由於拉克絲之原因避過了危機。
 
-和[第八艦隊會合之後](https://zh.wikipedia.org/wiki/第八艦隊 "wikilink")，克魯澤隊全力來襲。**大天使號**在第八艦隊不惜全軍覆沒的支援下下降，放出防著火黏液避免因大氣層問題而令到戰艦着火\[1\]，下降至地球的[北非的](https://zh.wikipedia.org/wiki/北非 "wikilink")[利比亚](../Page/利比亚.md "wikilink")（原本的目的地為地球軍基地阿拉斯加，卻為了保護攻擊鋼彈而偏離軌道）。在和當地的反抗軍合力支授下，打敗有「沙漠之虎」之稱的[扎夫特名將](https://zh.wikipedia.org/wiki/ZAFT "wikilink")[安德列·渥特菲德](https://zh.wikipedia.org/wiki/安德魯·包撲菲杜 "wikilink")\[2\]，經[紅海](https://zh.wikipedia.org/wiki/紅海 "wikilink")，在[亚丁湾与摩拉西姆队交战](../Page/亚丁湾.md "wikilink")，最终在[印度洋消灭了摩拉西姆队](../Page/印度洋.md "wikilink")。
+和[第八艦隊會合之後](https://zh.wikipedia.org/wiki/第八艦隊 "wikilink")，克魯澤隊全力來襲。**大天使號**在第八艦隊不惜全軍覆沒的支援下下降，放出防著火黏液避免因大氣層問題而令到戰艦着火\[1\]，下降至地球的[北非的](https://zh.wikipedia.org/wiki/北非 "wikilink")[利比亚](../Page/利比亚.md "wikilink")（原本的目的地為地球軍基地阿拉斯加，卻為了保護攻擊鋼彈而偏離軌道）。在和當地的反抗軍合力支授下，打敗有「沙漠之虎」之稱的[扎夫特名將](https://zh.wikipedia.org/wiki/ZAFT "wikilink")[安德列·渥特菲德](https://zh.wikipedia.org/wiki/安德魯·包撲菲杜 "wikilink")\[2\]，經[紅海](https://zh.wikipedia.org/wiki/紅海 "wikilink")，在[亚丁湾](../Page/亚丁湾.md "wikilink")与摩拉西姆队交战，最终在[印度洋](../Page/印度洋.md "wikilink")消灭了摩拉西姆队。
 
-在突破[马六甲海峡时大天使号多处受创](../Page/马六甲海峡.md "wikilink")。在[歐普近海因被扎夫特的](https://zh.wikipedia.org/wiki/O.R.B. "wikilink")[阿斯蘭·薩拉小隊的](../Page/阿斯兰·萨拉.md "wikilink")[X系列攻擊](https://zh.wikipedia.org/wiki/X系列 "wikilink")，全艦嚴重受損而在歐普中維修\[3\]。
-從**歐普**得到修理、補給以及最新的情報後，在大天使號出航後便和札夫特的薩拉小隊交戰。在第一次交戰中，[攻擊鋼彈擊破了薩拉小隊的](https://zh.wikipedia.org/wiki/GAT-X105_Strike "wikilink")[電擊鋼彈](https://zh.wikipedia.org/wiki/GAT-X207_Blitz "wikilink")。但第二次在[马绍尔群岛的交戰中](https://zh.wikipedia.org/wiki/马绍尔群岛 "wikilink")，全力來襲的薩拉小隊和大天使號兩敗俱傷，其中一部空中霸者（2號機）被擊毀，[攻擊鋼彈在](https://zh.wikipedia.org/wiki/GAT-X105_Strike "wikilink")[神盾鋼彈的自爆中嚴重受損](https://zh.wikipedia.org/wiki/GAT-X303_Aegis "wikilink")，連大天使號也在戰鬥中差一點被擊沈。在經過簡單修理和回收[暴風鋼彈後](https://zh.wikipedia.org/wiki/GAT-X103_Buster "wikilink")，雖然可再次航行，但札夫特也有援軍到來，大天使號只能放棄搜索[攻擊鋼彈](https://zh.wikipedia.org/wiki/GAT-X105_Strike "wikilink")，並向**歐普**發出求援信號後繼續向**阿拉斯加**進發。
+在突破[马六甲海峡](../Page/马六甲海峡.md "wikilink")时大天使号多处受创。在[歐普近海因被扎夫特的](https://zh.wikipedia.org/wiki/O.R.B. "wikilink")[阿斯蘭·薩拉小隊的](../Page/阿斯兰·萨拉.md "wikilink")[X系列攻擊](https://zh.wikipedia.org/wiki/X系列 "wikilink")，全艦嚴重受損而在歐普中維修\[3\]。 從**歐普**得到修理、補給以及最新的情報後，在大天使號出航後便和札夫特的薩拉小隊交戰。在第一次交戰中，[攻擊鋼彈擊破了薩拉小隊的](https://zh.wikipedia.org/wiki/GAT-X105_Strike "wikilink")[電擊鋼彈](https://zh.wikipedia.org/wiki/GAT-X207_Blitz "wikilink")。但第二次在[马绍尔群岛的交戰中](https://zh.wikipedia.org/wiki/马绍尔群岛 "wikilink")，全力來襲的薩拉小隊和大天使號兩敗俱傷，其中一部空中霸者（2號機）被擊毀，[攻擊鋼彈在](https://zh.wikipedia.org/wiki/GAT-X105_Strike "wikilink")[神盾鋼彈的自爆中嚴重受損](https://zh.wikipedia.org/wiki/GAT-X303_Aegis "wikilink")，連大天使號也在戰鬥中差一點被擊沈。在經過簡單修理和回收[暴風鋼彈後](https://zh.wikipedia.org/wiki/GAT-X103_Buster "wikilink")，雖然可再次航行，但札夫特也有援軍到來，大天使號只能放棄搜索[攻擊鋼彈](https://zh.wikipedia.org/wiki/GAT-X105_Strike "wikilink")，並向**歐普**發出求援信號後繼續向**阿拉斯加**進發。
 
 在札夫特向[阿拉斯加所發動的](../Page/阿拉斯加州.md "wikilink")「割喉作戰」中，被[地球聯合軍捨棄並作為引誘](https://zh.wikipedia.org/wiki/地球聯合#地球連合軍 "wikilink")[札夫特攻入](https://zh.wikipedia.org/wiki/ZAFT "wikilink")[阿拉斯加而進行引爆](https://zh.wikipedia.org/wiki/阿拉斯加 "wikilink")[獨眼巨人系統的其中一員](https://zh.wikipedia.org/wiki/獨眼巨人系統 "wikilink")，在得知事實之後，在[自由鋼彈的協助之下](../Page/ZGMF-X10A_Freedom.md "wikilink")，脫離戰場，同時叛離地球軍，之後在歐普對抗聯合軍。\[4\]
 
@@ -43,8 +34,7 @@ DESTINY](https://zh.wikipedia.org/wiki/機動戰士鋼彈SEED_DESTINY "wikilink"
 
 自上次大戰後便一直隱藏在[歐普](https://zh.wikipedia.org/wiki/O.R.B. "wikilink")，在這期間經大幅整修，除了在操作系統簡化、作戰能力以及艦內生活水準提升外（如增設了[溫泉](../Page/溫泉.md "wikilink")\[6\]），也新加入了[潜航機能](https://zh.wikipedia.org/wiki/潜航 "wikilink")（由於本是宇宙艦，氣密處理性能等同[潛水艦](../Page/潛艇.md "wikilink")，只要加裝壓艙水箱便可）\[7\]。同時還對引擎進行了升級，使其無需輔助也能夠單體突出大氣圈（SEED時期需要借助草薙號的引擎）。但因[ZAFT所發動的](https://zh.wikipedia.org/wiki/ZAFT "wikilink")[拉克絲·克萊因暗殺事件和](https://zh.wikipedia.org/wiki/莉古絲·古蘭爾 "wikilink")[卡嘉里·尤拉·阿斯哈被歐普內親](https://zh.wikipedia.org/wiki/卡嘉里·尤拉·阿斯哈 "wikilink")[大西洋聯邦人員逼婚才再出現](https://zh.wikipedia.org/wiki/大西洋聯邦 "wikilink")。大天使號一登場便綁架歐普的國家元首（卡嘉里）然後消聲匿跡、一直到歐普參戰才現身制止。
 
-在[破滅鋼彈出場時大天使號也有行動去阻止](https://zh.wikipedia.org/wiki/GFAS-X1_Destroy "wikilink")、但他們介入的功勞被[吉伯特·杜蘭朵議長巧妙地消去](https://zh.wikipedia.org/wiki/吉伯特·杜蘭朵 "wikilink")，而之後更因杜蘭朵議長下令的Angel
-Down作戰而被ZAFT追殺、在[智慧女神號的陽電子炮重創後逃往歐普](https://zh.wikipedia.org/wiki/LHM-BB01_Minerva "wikilink")。\[8\]
+在[破滅鋼彈出場時大天使號也有行動去阻止](https://zh.wikipedia.org/wiki/GFAS-X1_Destroy "wikilink")、但他們介入的功勞被[吉伯特·杜蘭朵議長巧妙地消去](https://zh.wikipedia.org/wiki/吉伯特·杜蘭朵 "wikilink")，而之後更因杜蘭朵議長下令的Angel Down作戰而被ZAFT追殺、在[智慧女神號的陽電子炮重創後逃往歐普](https://zh.wikipedia.org/wiki/LHM-BB01_Minerva "wikilink")。\[8\]
 
 在歐普受ZAFT攻擊時，和智慧女神號再度交鋒，混戰中更擊沉ZAFT於該行動中的旗艦[聖海倫號](https://zh.wikipedia.org/wiki/聖海倫號 "wikilink")、和[攻擊自由鋼彈](../Page/ZGMF-X20A_Strike_Freedom.md "wikilink")、[無限正義鋼彈一起守住歐普](https://zh.wikipedia.org/wiki/ZGMF-X19A_Infinite_Justice "wikilink")。\[9\]
 
@@ -70,22 +60,17 @@ Down作戰而被ZAFT追殺、在[智慧女神號的陽電子炮重創後逃往�
   - 最大搭載數：10（以運用搭載量為準）
   - 持有機體：
       - SEED
-          - [空中霸王](https://zh.wikipedia.org/wiki/FX-550_Skygrasper "wikilink")
-            × 2
+          - [空中霸王](https://zh.wikipedia.org/wiki/FX-550_Skygrasper "wikilink") × 2
           - [暴風鋼彈](https://zh.wikipedia.org/wiki/GAT-X103_Buster "wikilink")
           - [攻擊鋼彈](https://zh.wikipedia.org/wiki/GAT-X105_Strike "wikilink")
-          - [密斯特拉爾](https://zh.wikipedia.org/wiki/MAW-01_Mistral "wikilink")
-            × 6
+          - [密斯特拉爾](https://zh.wikipedia.org/wiki/MAW-01_Mistral "wikilink") × 6
           - [梅比烏斯零式](https://zh.wikipedia.org/wiki/TS-MA2mod.00_Moebius_Zero "wikilink")
           - [正義鋼彈](https://zh.wikipedia.org/wiki/ZGMF-X09A_Justice "wikilink")
           - [自由鋼彈](../Page/ZGMF-X10A_Freedom.md "wikilink")
       - SEED DESTINY
           - [空中霸王](https://zh.wikipedia.org/wiki/FX-550_Skygrasper "wikilink")
           - [嫣紅攻擊鋼彈](../Page/MBF-02_Strike_Rouge.md "wikilink")
-          - [村雨](https://zh.wikipedia.org/wiki/MVF-M11C_Murasame "wikilink")
-            ×
-            11（當中包括[安德列·渥特菲德專用](https://zh.wikipedia.org/wiki/安德列·渥特菲德 "wikilink")
-            × 1）
+          - [村雨](https://zh.wikipedia.org/wiki/MVF-M11C_Murasame "wikilink") × 11（當中包括[安德列·渥特菲德專用](https://zh.wikipedia.org/wiki/安德列·渥特菲德 "wikilink") × 1）
           - [曉鋼彈](https://zh.wikipedia.org/wiki/ORB-01_Akatsuki "wikilink")
           - [自由鋼彈](../Page/ZGMF-X10A_Freedom.md "wikilink")
           - [攻擊自由鋼彈](../Page/ZGMF-X20A_Strike_Freedom.md "wikilink")
@@ -101,19 +86,14 @@ Down作戰而被ZAFT追殺、在[智慧女神號的陽電子炮重創後逃往�
 
 \[11\]
 
-  - Mk.71「[戈德菲](https://zh.wikipedia.org/wiki/戈德菲 "wikilink")」（Gottfried）225cm
-    -{zh-hans:双联装高能收束火线炮;zh-hk:雙重高出力光束炮;zh-tw:二連裝高能收束火線砲;}- × 2
-  - Mk.8「勇者」（Valiant）110cm
-    [-{zh-hans:单发线性加农炮;zh-hk:線性大炮;zh-tw:單裝線性加農砲;}-](https://zh.wikipedia.org/wiki/軌道槍 "wikilink")
-    × 2
-  - 「[羅安格林](https://zh.wikipedia.org/wiki/羅安格林 "wikilink")」（Lohengrin）（）陽電子炮
-    × 2
+  - Mk.71「[戈德菲](https://zh.wikipedia.org/wiki/戈德菲 "wikilink")」（Gottfried）225cm -{zh-hans:双联装高能收束火线炮;zh-hk:雙重高出力光束炮;zh-tw:二連裝高能收束火線砲;}- × 2
+  - Mk.8「勇者」（Valiant）110cm [-{zh-hans:单发线性加农炮;zh-hk:線性大炮;zh-tw:單裝線性加農砲;}-](https://zh.wikipedia.org/wiki/軌道槍 "wikilink") × 2
+  - 「[羅安格林](https://zh.wikipedia.org/wiki/羅安格林 "wikilink")」（Lohengrin）（）陽電子炮 × 2
   - 「」（）75mm 多槍管[自動近接防禦機關炮](../Page/近迫武器系統.md "wikilink") × 16
   - 「地獄鏢」（Helldart）對空導彈發射器 × 16
   - 艦尾大型導彈發射器× 24（設於左右舷尾部，每組發射器可射出兩顆導彈）
 
-可填裝導彈類型：科林斯（Korinthos，宇宙用對空），袋熊（Wombat，大氣圈內對空），巨槌（Sledge
-Hammer，對艦、攻堅），對空擴散彈
+可填裝導彈類型：科林斯（Korinthos，宇宙用對空），袋熊（Wombat，大氣圈內對空），巨槌（Sledge Hammer，對艦、攻堅），對空擴散彈
 
   - 防着火黏液（銀色黏性的物質，設於艦隻底部）
 
@@ -127,11 +107,9 @@ Hammer，對艦、攻堅），對空擴散彈
 
 ## 參見
 
-  - [LCAM-02XD
-    Dominion](https://zh.wikipedia.org/wiki/LCAM-02XD_Dominion "wikilink")
+  - [LCAM-02XD Dominion](https://zh.wikipedia.org/wiki/LCAM-02XD_Dominion "wikilink")
 
-[Category:虛構船艦](https://zh.wikipedia.org/wiki/Category:虛構船艦 "wikilink")
-[Category:宇宙戰艦](https://zh.wikipedia.org/wiki/Category:宇宙戰艦 "wikilink")
+[Category:虛構船艦](https://zh.wikipedia.org/wiki/Category:虛構船艦 "wikilink") [Category:宇宙戰艦](https://zh.wikipedia.org/wiki/Category:宇宙戰艦 "wikilink")
 
 1.  機動戰士鋼彈SEED{{〈}}1{{〉}}交會而過的羽翼 ISBN 986-7427-27-0
 

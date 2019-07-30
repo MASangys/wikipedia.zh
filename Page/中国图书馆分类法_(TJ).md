@@ -76,8 +76,7 @@
 
 :::\*TJ399 其他
 
-:\*TJ4
-[弹药](https://zh.wikipedia.org/wiki/弹药 "wikilink")、[引信](../Page/引信.md "wikilink")、[火工品](https://zh.wikipedia.org/wiki/火工品 "wikilink")
+:\*TJ4 [弹药](https://zh.wikipedia.org/wiki/弹药 "wikilink")、[引信](../Page/引信.md "wikilink")、[火工品](https://zh.wikipedia.org/wiki/火工品 "wikilink")
 
 ::\*TJ41 弹药
 
@@ -85,8 +84,7 @@
 
 ::\*TJ45 火工品
 
-:\*TJ5
-[爆破器材](https://zh.wikipedia.org/wiki/爆破器材 "wikilink")、[烟火器材](https://zh.wikipedia.org/wiki/烟火器材 "wikilink")、火[炸药](https://zh.wikipedia.org/wiki/炸药 "wikilink")
+:\*TJ5 [爆破器材](https://zh.wikipedia.org/wiki/爆破器材 "wikilink")、[烟火器材](https://zh.wikipedia.org/wiki/烟火器材 "wikilink")、火[炸药](https://zh.wikipedia.org/wiki/炸药 "wikilink")
 
 ::\*TJ51 爆破器材
 
@@ -106,13 +104,11 @@
 
 :\*TJ7 [火箭](../Page/火箭.md "wikilink")、[导弹](../Page/导弹.md "wikilink")
 
-::\*TJ71
-[火箭筒](https://zh.wikipedia.org/wiki/火箭筒 "wikilink")、[火箭炮](../Page/火箭炮.md "wikilink")、[火箭弹](https://zh.wikipedia.org/wiki/火箭弹 "wikilink")
+::\*TJ71 [火箭筒](https://zh.wikipedia.org/wiki/火箭筒 "wikilink")、[火箭炮](../Page/火箭炮.md "wikilink")、[火箭弹](https://zh.wikipedia.org/wiki/火箭弹 "wikilink")
 
 ::\*TJ76 [导弹](../Page/导弹.md "wikilink")
 
-:\*TJ8
-[战车](https://zh.wikipedia.org/wiki/战车 "wikilink")、[战舰](https://zh.wikipedia.org/wiki/战舰 "wikilink")、[战机](https://zh.wikipedia.org/wiki/战机 "wikilink")、[航天武器](https://zh.wikipedia.org/wiki/航天武器 "wikilink")
+:\*TJ8 [战车](https://zh.wikipedia.org/wiki/战车 "wikilink")、[战舰](https://zh.wikipedia.org/wiki/战舰 "wikilink")、[战机](https://zh.wikipedia.org/wiki/战机 "wikilink")、[航天武器](https://zh.wikipedia.org/wiki/航天武器 "wikilink")
 
 ::\*TJ81 战车
 
@@ -122,7 +118,7 @@
 
 ::\*TJ86 航天武器
 
-:\*TJ9 [核武器与其他特种武器及其防护设备](../Page/核武器.md "wikilink")
+:\*TJ9 [核武器](../Page/核武器.md "wikilink")与其他特种武器及其防护设备
 
 ::\*TJ91 核武器及防护设备
 

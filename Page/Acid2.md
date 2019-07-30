@@ -1,71 +1,37 @@
-**Acid2**，是針對[網頁瀏覽器及設計軟件](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")，就支援[HTML](../Page/HTML.md "wikilink")、[CSS
-2.0及](https://zh.wikipedia.org/wiki/CSS "wikilink")[PNG圖像標準的綜合測試](../Page/PNG.md "wikilink")，由[網頁標準計劃設計](../Page/網頁標準計劃.md "wikilink")，在1997年推出首個版本，名為"[Acid](../Page/Acid1.md "wikilink")"。
+**Acid2**，是針對[網頁瀏覽器及設計軟件](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")，就支援[HTML](../Page/HTML.md "wikilink")、[CSS 2.0及](https://zh.wikipedia.org/wiki/CSS "wikilink")[PNG](../Page/PNG.md "wikilink")圖像標準的綜合測試，由[網頁標準計劃](../Page/網頁標準計劃.md "wikilink")設計，在1997年推出首個版本，名為"[Acid](../Page/Acid1.md "wikilink")"。
 
 ## 歷史
 
-Acid2最初由[Opera軟體公司首席技術長](https://zh.wikipedia.org/wiki/Opera軟體公司 "wikilink")[哈肯·維姆·萊提出](https://zh.wikipedia.org/wiki/哈肯·維姆·萊 "wikilink")，他是廣為使用的[CSS網頁標準的創建者](https://zh.wikipedia.org/wiki/CSS "wikilink")\[1\]。萊和一位同事[伊恩·希克森於](../Page/伊恩·希克森.md "wikilink")2005年2月創建了第一個測試版草案\[2\]。伊恩·希克森與[網頁標準計劃以及廣大的網路社群合作編寫了最終版測試](../Page/網頁標準計劃.md "wikilink")\[3\]\[4\]\[5\]\[6\]。2005年4月13日正式發布\[7\]，在測試剛推出時，沒有一個瀏覽器可排出要求的圖像\[8\]。
+Acid2最初由[Opera軟體公司首席技術長](https://zh.wikipedia.org/wiki/Opera軟體公司 "wikilink")[哈肯·維姆·萊提出](https://zh.wikipedia.org/wiki/哈肯·維姆·萊 "wikilink")，他是廣為使用的[CSS網頁標準的創建者](https://zh.wikipedia.org/wiki/CSS "wikilink")\[1\]。萊和一位同事[伊恩·希克森](../Page/伊恩·希克森.md "wikilink")於2005年2月創建了第一個測試版草案\[2\]。伊恩·希克森與[網頁標準計劃](../Page/網頁標準計劃.md "wikilink")以及廣大的網路社群合作編寫了最終版測試\[3\]\[4\]\[5\]\[6\]。2005年4月13日正式發布\[7\]，在測試剛推出時，沒有一個瀏覽器可排出要求的圖像\[8\]。
 
 ## 符合規範的應用程式
 
-如果渲染正確，瀏覽器打開Acid2的測試頁面則會看到一個[笑臉](../Page/微笑圖示.md "wikilink")，笑臉頭部上方有"[Hello
-World\!](../Page/Hello_World.md "wikilink")"字樣，當滑鼠指向笑臉鼻子的時候鼻子會變成藍色。在測試剛推出時，沒有一個瀏覽器可排出要求的圖像\[9\]，但現代的許多瀏覽器都已經通過了測試。見以下的列表。
-[Safariacid2.png](https://zh.wikipedia.org/wiki/File:Safariacid2.png "fig:Safariacid2.png")
-[Usage_share_of_web_browsers_that_pass_Acid2.png](https://zh.wikipedia.org/wiki/File:Usage_share_of_web_browsers_that_pass_Acid2.png "fig:Usage_share_of_web_browsers_that_pass_Acid2.png")
+如果渲染正確，瀏覽器打開Acid2的測試頁面則會看到一個[笑臉](../Page/微笑圖示.md "wikilink")，笑臉頭部上方有"[Hello World\!](../Page/Hello_World.md "wikilink")"字樣，當滑鼠指向笑臉鼻子的時候鼻子會變成藍色。在測試剛推出時，沒有一個瀏覽器可排出要求的圖像\[9\]，但現代的許多瀏覽器都已經通過了測試。見以下的列表。 [Safariacid2.png](https://zh.wikipedia.org/wiki/File:Safariacid2.png "fig:Safariacid2.png") [Usage_share_of_web_browsers_that_pass_Acid2.png](https://zh.wikipedia.org/wiki/File:Usage_share_of_web_browsers_that_pass_Acid2.png "fig:Usage_share_of_web_browsers_that_pass_Acid2.png")
 
   - [Microsoft Edge](../Page/Microsoft_Edge.md "wikilink")
   - [Internet Explorer](../Page/Internet_Explorer.md "wikilink")
-  - [Gecko為基礎的瀏覽器](../Page/Gecko.md "wikilink")
-      - [Mozilla
-        Firefox](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")
+  - [Gecko](../Page/Gecko.md "wikilink")為基礎的瀏覽器
+      - [Mozilla Firefox](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")
       - [SeaMonkey](../Page/SeaMonkey.md "wikilink")
       - [Camino](../Page/Camino.md "wikilink")
       - [Mozilla Thunderbird](../Page/Mozilla_Thunderbird.md "wikilink")
-      - [Firefox for
-        mobile](https://zh.wikipedia.org/wiki/Firefox_for_mobile "wikilink")
+      - [Firefox for mobile](https://zh.wikipedia.org/wiki/Firefox_for_mobile "wikilink")
       - [Mozilla Sunbird](../Page/Mozilla_Sunbird.md "wikilink")
-  - [WebKit和](../Page/WebKit.md "wikilink")[KHTML為基礎的瀏覽器](../Page/KHTML.md "wikilink")
+  - [WebKit](../Page/WebKit.md "wikilink")和[KHTML](../Page/KHTML.md "wikilink")為基礎的瀏覽器
       - [Safari](../Page/Safari.md "wikilink")
       - [Google Chrome](../Page/Google_Chrome.md "wikilink")
       - [Konqueror](../Page/Konqueror.md "wikilink")
       - [OmniWeb](../Page/OmniWeb.md "wikilink")
       - [Midori](../Page/Midori.md "wikilink")
-      - [Google
-        Earth整合的瀏覽器](https://zh.wikipedia.org/wiki/Google_Earth "wikilink")
-  - [Presto為基礎的瀏覽器](../Page/Presto.md "wikilink")
+      - [Google Earth整合的瀏覽器](https://zh.wikipedia.org/wiki/Google_Earth "wikilink")
+  - [Presto](../Page/Presto.md "wikilink")為基礎的瀏覽器
       - [Opera](https://zh.wikipedia.org/wiki/Opera電腦瀏覽器 "wikilink")
 
 ## 不符合規範的應用程式
 
-Image:Ieacid2.png|[Internet Explorer
-6](../Page/Internet_Explorer_6.md "wikilink")
-Image:Ie7acid2.png|[Internet Explorer
-7](../Page/Internet_Explorer_7.md "wikilink") Image:Acid2
-NS72.png|[Firefox](../Page/Firefox.md "wikilink")
-1.0、[Mozilla](../Page/Mozilla_Application_Suite.md "wikilink")
-1.7.13、[Camino](../Page/Camino.md "wikilink")
-1.6、[Netscape](../Page/網景_\(瀏覽器\).md "wikilink") 7.2
-Image:Firefoxacid2.png|[Firefox](../Page/Firefox.md "wikilink")
-1.5和2.0、[SeaMonkey](../Page/SeaMonkey.md "wikilink") 1.1 Image:Opera
-8.0 Acid2.png|[Opera](https://zh.wikipedia.org/wiki/Opera "wikilink")
-8.0 Image:Opera 8.54
-Acid2.png|[Opera](https://zh.wikipedia.org/wiki/Opera "wikilink") 8.54
-Image:Konqueror 3.4.1
-Acid2.png|[Konqueror](../Page/Konqueror.md "wikilink") 3.4
-Image:Netsurf-1.2-acid2.png|NetSurf 1.2
-Image:NetSurf-3.0-acid2.png|NetSurf 3.0 in Q2/2011 Image:Acid2 in Opera
-Mini 4.png|[Opera Mini](../Page/Opera_Mini.md "wikilink") 4 Image:Nokia
-Nst-4 Acid2.png|[Nst
-OS](https://zh.wikipedia.org/wiki/Symbian "wikilink") 3.1.9執行於Nokia
-Nst-4 Image:Acid2iPod.png|[Safari](../Page/Safari.md "wikilink") 3.1行動版
-Image:BBStormAcid2.jpg|BlackBerry Storm 4.7.0.122 Image:WebOS v1.4.0
-Acid2.png|[Palm Pre /
-webOS](https://zh.wikipedia.org/wiki/webOS "wikilink") v1.4.0
-[Acid2_MobileChormeBeta.png](https://zh.wikipedia.org/wiki/File:Acid2_MobileChormeBeta.png "fig:Acid2_MobileChormeBeta.png")
-Beta failing the Acid2 test.\]\]
+Image:Ieacid2.png|[Internet Explorer 6](../Page/Internet_Explorer_6.md "wikilink") Image:Ie7acid2.png|[Internet Explorer 7](../Page/Internet_Explorer_7.md "wikilink") Image:Acid2 NS72.png|[Firefox](../Page/Firefox.md "wikilink") 1.0、[Mozilla](../Page/Mozilla_Application_Suite.md "wikilink") 1.7.13、[Camino](../Page/Camino.md "wikilink") 1.6、[Netscape](../Page/網景_\(瀏覽器\).md "wikilink") 7.2 Image:Firefoxacid2.png|[Firefox](../Page/Firefox.md "wikilink") 1.5和2.0、[SeaMonkey](../Page/SeaMonkey.md "wikilink") 1.1 Image:Opera 8.0 Acid2.png|[Opera](https://zh.wikipedia.org/wiki/Opera "wikilink") 8.0 Image:Opera 8.54 Acid2.png|[Opera](https://zh.wikipedia.org/wiki/Opera "wikilink") 8.54 Image:Konqueror 3.4.1 Acid2.png|[Konqueror](../Page/Konqueror.md "wikilink") 3.4 Image:Netsurf-1.2-acid2.png|NetSurf 1.2 Image:NetSurf-3.0-acid2.png|NetSurf 3.0 in Q2/2011 Image:Acid2 in Opera Mini 4.png|[Opera Mini](../Page/Opera_Mini.md "wikilink") 4 Image:Nokia Nst-4 Acid2.png|[Nst OS](https://zh.wikipedia.org/wiki/Symbian "wikilink") 3.1.9執行於Nokia Nst-4 Image:Acid2iPod.png|[Safari](../Page/Safari.md "wikilink") 3.1行動版 Image:BBStormAcid2.jpg|BlackBerry Storm 4.7.0.122 Image:WebOS v1.4.0 Acid2.png|[Palm Pre / webOS](https://zh.wikipedia.org/wiki/webOS "wikilink") v1.4.0 [Acid2_MobileChormeBeta.png](https://zh.wikipedia.org/wiki/File:Acid2_MobileChormeBeta.png "fig:Acid2_MobileChormeBeta.png") Beta failing the Acid2 test.\]\]
 
-雖然[Opera
-Mini使用和](../Page/Opera_Mini.md "wikilink")[Opera](https://zh.wikipedia.org/wiki/Opera電腦瀏覽器 "wikilink")[個人電腦版本相同的排版引擎](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")，但並未通過Acid2測試\[10\]\[11\]。這是因為Opera
-Mini將網頁重新格式化，以使其更適應小型螢幕裝置\[12\]\[13\]\[14\]。
+雖然[Opera Mini使用和](../Page/Opera_Mini.md "wikilink")[Opera](https://zh.wikipedia.org/wiki/Opera電腦瀏覽器 "wikilink")[個人電腦版本相同的排版引擎](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")，但並未通過Acid2測試\[10\]\[11\]。這是因為Opera Mini將網頁重新格式化，以使其更適應小型螢幕裝置\[12\]\[13\]\[14\]。
 
 ## 測試時間表
 
@@ -121,7 +87,7 @@ Acid2測試於2005年4月13日正式發佈，以下是有關瀏覽器及其他�
 <td><p>2005年11月29日</p></td>
 <td><p><a href="../Page/Konqueror.md" title="wikilink">Konqueror</a> 3.5</p></td>
 <td><p>正式版[22]</p></td>
-<td><p>第一個通過測試的<a href="../Page/Linux.md" title="wikilink">Linux瀏覽器</a>。</p></td>
+<td><p>第一個通過測試的<a href="../Page/Linux.md" title="wikilink">Linux</a>瀏覽器。</p></td>
 </tr>
 <tr class="even">
 <td><p>2005年12月7日</p></td>

@@ -1,6 +1,4 @@
-在[C和](https://zh.wikipedia.org/wiki/C語言 "wikilink")[C++程式語言中](../Page/C++.md "wikilink")，**\#pragma
-once**是一個非標準但是被廣泛支援的[前置處理符號](https://zh.wikipedia.org/wiki/前置處理 "wikilink")，會讓所在的檔案在一個單獨的編譯中只被包含一次。以此方式，`#pragma
-once`提供類似[include防範的目的](https://zh.wikipedia.org/wiki/include防範 "wikilink")，但是擁有較少的程式碼且能避免名稱的碰撞。
+在[C和](https://zh.wikipedia.org/wiki/C語言 "wikilink")[C++](../Page/C++.md "wikilink")程式語言中，**\#pragma once**是一個非標準但是被廣泛支援的[前置處理符號](https://zh.wikipedia.org/wiki/前置處理 "wikilink")，會讓所在的檔案在一個單獨的編譯中只被包含一次。以此方式，`#pragma once`提供類似[include防範的目的](https://zh.wikipedia.org/wiki/include防範 "wikilink")，但是擁有較少的程式碼且能避免名稱的碰撞。
 
 ## 示例
 
@@ -38,23 +36,13 @@ struct foo
 
 ## 優缺點
 
-使用`#pragma
-once`代替include防範將加快編譯速度，因為這是一種高階的機制；[編譯器會自動比對檔案名稱或](../Page/編譯器.md "wikilink")[inode而不需要在](https://zh.wikipedia.org/wiki/inode "wikilink")[標頭檔去判斷](https://zh.wikipedia.org/wiki/標頭檔 "wikilink")`#ifndef`和`#endif`。
+使用`#pragma once`代替include防範將加快編譯速度，因為這是一種高階的機制；[編譯器](../Page/編譯器.md "wikilink")會自動比對檔案名稱或[inode而不需要在](https://zh.wikipedia.org/wiki/inode "wikilink")[標頭檔去判斷](https://zh.wikipedia.org/wiki/標頭檔 "wikilink")`#ifndef`和`#endif`。
 
-另一方面，部份編譯器，例如[GCC](../Page/GCC.md "wikilink")、[clang等](https://zh.wikipedia.org/wiki/clang "wikilink")，也包含特別的程式碼來識別和有效率的管理include防範。因此使用`#pragma
-once`并不会得到明显的加速。\[1\]\[2\]\[3\]
+另一方面，部份編譯器，例如[GCC](../Page/GCC.md "wikilink")、[clang等](https://zh.wikipedia.org/wiki/clang "wikilink")，也包含特別的程式碼來識別和有效率的管理include防範。因此使用`#pragma once`并不会得到明显的加速。\[1\]\[2\]\[3\]
 
-此外，因為編譯器自己必須承擔管理`#pragma
-once`，它不必定義新的指令名稱，例如在[include防範文章範例的](https://zh.wikipedia.org/wiki/include防範 "wikilink")`H_GRANDFATHER`。這能排除名稱碰撞的風險，意思就是至少第一次包含標頭檔不會再有**錯誤**。
+此外，因為編譯器自己必須承擔管理`#pragma once`，它不必定義新的指令名稱，例如在[include防範文章範例的](https://zh.wikipedia.org/wiki/include防範 "wikilink")`H_GRANDFATHER`。這能排除名稱碰撞的風險，意思就是至少第一次包含標頭檔不會再有**錯誤**。
 
-然而，這種高階的管理有好也有壞；設計者必須依賴編譯器正確的管理`#pragma
-once`。編譯器如果犯錯，例如沒有辨認出在相同檔案中的兩個不同[符號連結名稱指標](https://zh.wikipedia.org/wiki/符號連結 "wikilink")，此時編譯會錯誤。編譯器對於`#pragma
-once`可能包含相關的臭蟲[LCC-Win32](https://zh.wikipedia.org/wiki/LCC-Win32 "wikilink")
-2004年[1](http://groups.google.com/groups?selm=bvjqhn$q5o$1@news-reader1.wanadoo.fr)\[[http://groups.google.com/groups?selm=488cbfe1.0304061213.264d94d@posting.google.com\]和GCC](http://groups.google.com/groups?selm=488cbfe1.0304061213.264d94d@posting.google.com%5D和GCC)
-1998年。\[[http://gcc.gnu.org/onlinedocs/gcc-2.95.3/cpp_1.html\#SEC8\]2005年，GCC文件中將](http://gcc.gnu.org/onlinedocs/gcc-2.95.3/cpp_1.html#SEC8%5D2005年，GCC文件中將)`#pragma
-once`列為「已淘汰」的特性。\[[http://gcc.gnu.org/onlinedocs/gcc-4.0.3/cpp/Obsolete-once_002donly-headers.html\#Obsolete-once_002donly-headers\]随着gcc](http://gcc.gnu.org/onlinedocs/gcc-4.0.3/cpp/Obsolete-once_002donly-headers.html#Obsolete-once_002donly-headers%5D随着gcc)
-3.4的发布，gcc解决了\#pragma once中的一些问题（主要是跟符号链接和硬链接有关），并且去掉了\#pragma
-once的“已淘汰”的标签。[2](http://gcc.gnu.org/gcc-3.4/changes.html)
+然而，這種高階的管理有好也有壞；設計者必須依賴編譯器正確的管理`#pragma once`。編譯器如果犯錯，例如沒有辨認出在相同檔案中的兩個不同[符號連結名稱指標](https://zh.wikipedia.org/wiki/符號連結 "wikilink")，此時編譯會錯誤。編譯器對於`#pragma once`可能包含相關的臭蟲[LCC-Win32](https://zh.wikipedia.org/wiki/LCC-Win32 "wikilink") 2004年[1](http://groups.google.com/groups?selm=bvjqhn$q5o$1@news-reader1.wanadoo.fr)\[[http://groups.google.com/groups?selm=488cbfe1.0304061213.264d94d@posting.google.com\]和GCC](http://groups.google.com/groups?selm=488cbfe1.0304061213.264d94d@posting.google.com%5D和GCC) 1998年。\[[http://gcc.gnu.org/onlinedocs/gcc-2.95.3/cpp_1.html\#SEC8\]2005年，GCC文件中將](http://gcc.gnu.org/onlinedocs/gcc-2.95.3/cpp_1.html#SEC8%5D2005年，GCC文件中將)`#pragma once`列為「已淘汰」的特性。\[[http://gcc.gnu.org/onlinedocs/gcc-4.0.3/cpp/Obsolete-once_002donly-headers.html\#Obsolete-once_002donly-headers\]随着gcc](http://gcc.gnu.org/onlinedocs/gcc-4.0.3/cpp/Obsolete-once_002donly-headers.html#Obsolete-once_002donly-headers%5D随着gcc) 3.4的发布，gcc解决了\#pragma once中的一些问题（主要是跟符号链接和硬链接有关），并且去掉了\#pragma once的“已淘汰”的标签。[2](http://gcc.gnu.org/gcc-3.4/changes.html)
 
 ## 编译器支持
 
@@ -76,9 +64,7 @@ once的“已淘汰”的标签。[2](http://gcc.gnu.org/gcc-3.4/changes.html)
 
   - <https://web.archive.org/web/20070317022009/http://msdn.microsoft.com/library/en-us/vclang/html/_PREDIR_Pragma_Directives.asp>
 
-[Category:C語言](https://zh.wikipedia.org/wiki/Category:C語言 "wikilink")
-[Category:C++](https://zh.wikipedia.org/wiki/Category:C++ "wikilink")
-[Category:C頭文件](https://zh.wikipedia.org/wiki/Category:C頭文件 "wikilink")
+[Category:C語言](https://zh.wikipedia.org/wiki/Category:C語言 "wikilink") [Category:C++](https://zh.wikipedia.org/wiki/Category:C++ "wikilink") [Category:C頭文件](https://zh.wikipedia.org/wiki/Category:C頭文件 "wikilink")
 
 1.
 2.

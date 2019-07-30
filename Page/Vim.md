@@ -1,31 +1,20 @@
-**Vim**是从[vi发展出来的一个](https://zh.wikipedia.org/wiki/vi "wikilink")[文本编辑器](../Page/文本编辑器.md "wikilink")。其代码补完、编译及错误跳转等方便编程的功能特别丰富，在程序员中被广泛使用。和[Emacs并列成为](../Page/Emacs.md "wikilink")[类Unix系统用户最喜欢的编辑器](../Page/类Unix系统.md "wikilink")。
+**Vim**是从[vi发展出来的一个](https://zh.wikipedia.org/wiki/vi "wikilink")[文本编辑器](../Page/文本编辑器.md "wikilink")。其代码补完、编译及错误跳转等方便编程的功能特别丰富，在程序员中被广泛使用。和[Emacs](../Page/Emacs.md "wikilink")并列成为[类Unix系统](../Page/类Unix系统.md "wikilink")用户最喜欢的编辑器。
 
-Vim的第一个版本由[布萊姆·米勒在](https://zh.wikipedia.org/wiki/布萊姆·米勒 "wikilink")1991年发布。最初的简称是**V**i
-**IM**itation，随着功能的不断增加，正式名称改成了**V**i
-**IM**proved。现在是在[开放源代码方式下发行的](../Page/开放源代码.md "wikilink")[自由软件](../Page/自由软件.md "wikilink")。
+Vim的第一个版本由[布萊姆·米勒在](https://zh.wikipedia.org/wiki/布萊姆·米勒 "wikilink")1991年发布。最初的简称是**V**i **IM**itation，随着功能的不断增加，正式名称改成了**V**i **IM**proved。现在是在[开放源代码](../Page/开放源代码.md "wikilink")方式下发行的[自由软件](../Page/自由软件.md "wikilink")。
 
 ## Vim历史
 
-[布萊姆·米勒在](https://zh.wikipedia.org/wiki/布萊姆·米勒 "wikilink")80年代末购入他的[Amiga计算机时](../Page/Amiga.md "wikilink")，Amiga上还没有他最常用的编辑器vi。Bram从一个开源的vi复制Stevie开始，开发了Vim的1.0版本。最初的目标只是完全复制vi的功能，那个时候的Vim是**V**i
-**IM**itation（模拟）的简称。1991年Vim 1.14版被"Fred Fish Disk
-\#591"这个Amiga用的免费软件集所收录了。1992年1.22版本的Vim被移植到了UNIX和[MS-DOS上](../Page/MS-DOS.md "wikilink")。从那个时候开始，Vim的全名就变成**V**i
-**IM**proved（改良）了。
+[布萊姆·米勒在](https://zh.wikipedia.org/wiki/布萊姆·米勒 "wikilink")80年代末购入他的[Amiga](../Page/Amiga.md "wikilink")计算机时，Amiga上还没有他最常用的编辑器vi。Bram从一个开源的vi复制Stevie开始，开发了Vim的1.0版本。最初的目标只是完全复制vi的功能，那个时候的Vim是**V**i **IM**itation（模拟）的简称。1991年Vim 1.14版被"Fred Fish Disk \#591"这个Amiga用的免费软件集所收录了。1992年1.22版本的Vim被移植到了UNIX和[MS-DOS](../Page/MS-DOS.md "wikilink")上。从那个时候开始，Vim的全名就变成**V**i **IM**proved（改良）了。
 
-在这之后，Vim加入了不计其数的新功能。做为第一个里程碑的是1994年的3.0版本加入了多窗口编辑（分割视窗）模式，可以在同一终端中同时编辑多个文件。1996年发布的Vim
-4.0是第一个利用GUI（[图形用户界面](../Page/图形用户界面.md "wikilink")）的版本。1998年5.0版本的Vim加入了highlight（[语法高亮](https://zh.wikipedia.org/wiki/語法高亮度顯示 "wikilink")）功能。2001年的Vim
-6.0版本加入了[代码折叠](../Page/語法摺疊.md "wikilink")、[插件](../Page/插件.md "wikilink")、多国语言支持、垂直分割视窗等功能。2006
-年5月发布的Vim 7.0版更加入了拼字检查、上下文相关补全，标签页编辑等新功能。2008年8月发布的Vim 7.2，合并了Vim
-7.1以来的所有修正补丁，并且加入了脚本的浮点数支持。现在最新的版本是 Vim 8 。
+在这之后，Vim加入了不计其数的新功能。做为第一个里程碑的是1994年的3.0版本加入了多窗口编辑（分割视窗）模式，可以在同一终端中同时编辑多个文件。1996年发布的Vim 4.0是第一个利用GUI（[图形用户界面](../Page/图形用户界面.md "wikilink")）的版本。1998年5.0版本的Vim加入了highlight（[语法高亮](https://zh.wikipedia.org/wiki/語法高亮度顯示 "wikilink")）功能。2001年的Vim 6.0版本加入了[代码折叠](../Page/語法摺疊.md "wikilink")、[插件](../Page/插件.md "wikilink")、多国语言支持、垂直分割视窗等功能。2006 年5月发布的Vim 7.0版更加入了拼字检查、上下文相关补全，标签页编辑等新功能。2008年8月发布的Vim 7.2，合并了Vim 7.1以来的所有修正补丁，并且加入了脚本的浮点数支持。现在最新的版本是 Vim 8 。
 
 ## 协议
 
-目前，VIM是按照VIM许可证发布的开源软件，这个协议兼容[GPL](https://zh.wikipedia.org/wiki/GPL "wikilink")。\[1\]它的协议中包含一些慈善条款，建议用户向[荷兰](../Page/荷兰.md "wikilink")[ICCF捐款](https://zh.wikipedia.org/wiki/ICCF "wikilink")，用于帮助[乌干达的](../Page/乌干达.md "wikilink")[艾滋病患者](https://zh.wikipedia.org/wiki/艾滋病 "wikilink")。VIM启动时会显示-{「}-**Help
-poor children in Uganda\!**-{」}-的字样，在中文版本中则是-{「}-**請幫助烏干達的可憐孩童\!**-{」}-。
+目前，VIM是按照VIM许可证发布的开源软件，这个协议兼容[GPL](https://zh.wikipedia.org/wiki/GPL "wikilink")。\[1\]它的协议中包含一些慈善条款，建议用户向[荷兰](../Page/荷兰.md "wikilink")[ICCF捐款](https://zh.wikipedia.org/wiki/ICCF "wikilink")，用于帮助[乌干达](../Page/乌干达.md "wikilink")的[艾滋病患者](https://zh.wikipedia.org/wiki/艾滋病 "wikilink")。VIM启动时会显示-{「}-**Help poor children in Uganda\!**-{」}-的字样，在中文版本中则是-{「}-**請幫助烏干達的可憐孩童\!**-{」}-。
 
 ## 学习曲线
 
-对于大多数用户来说，Vim有着一个比较陡峭的[学习曲线](../Page/经验学习曲线.md "wikilink")。这意味着开始学习的时候可能会进展缓慢，但是一旦掌握一些基本操作之后，能大幅度提高编辑效率。为了帮助学习，Vim为初学者准备了Vim教学。通常可以在Unix系统命令行下输入"vimtutor"或者点击Windows系统桌面上的Vim教学图标进入。在Vim用户手册中更加详细的描述了Vim的基础和进阶功能。可以在Vim中输入":help
-user-manual"进入用户手册。手册除了原始的英文版本之外，也被志愿者翻译成了各国文字，其中包括中文。
+对于大多数用户来说，Vim有着一个比较陡峭的[学习曲线](../Page/经验学习曲线.md "wikilink")。这意味着开始学习的时候可能会进展缓慢，但是一旦掌握一些基本操作之后，能大幅度提高编辑效率。为了帮助学习，Vim为初学者准备了Vim教学。通常可以在Unix系统命令行下输入"vimtutor"或者点击Windows系统桌面上的Vim教学图标进入。在Vim用户手册中更加详细的描述了Vim的基础和进阶功能。可以在Vim中输入":help user-manual"进入用户手册。手册除了原始的英文版本之外，也被志愿者翻译成了各国文字，其中包括中文。
 
 新用户也应该学习Vim的帮助系统。可以在Vim中输入不带参数的"help"来阅读主帮助文件。
 
@@ -71,8 +60,7 @@ Vim强大的编辑能力来自于其普通模式命令。普通模式命令往�
 
 #### 操作符等待模式
 
-这个派生模式指普通模式中，执行一个操作命令后Vim等待一个"动作"来完成这个命令。Vim也支持在操作符等待模式中使用"文本对象"作为动作，包括"aw"一个单词（a
-word）、"as"一个句子（a sentence）、"ap"一个段落（a paragraph）等等。
+这个派生模式指普通模式中，执行一个操作命令后Vim等待一个"动作"来完成这个命令。Vim也支持在操作符等待模式中使用"文本对象"作为动作，包括"aw"一个单词（a word）、"as"一个句子（a sentence）、"ap"一个段落（a paragraph）等等。
 
 比如，在普通模式下"d2as"删除当前和下一个句子。在可视模式下"apU"把当前段落所有字母大写。
 
@@ -96,9 +84,7 @@ word）、"as"一个句子（a sentence）、"ap"一个段落（a paragraph）�
 
 #### Evim (Easy Vim)
 
-Evim（Easy
-Vim）是一个特殊的GUI模式用来尽量的表现的和"无模式"编辑器一样。编辑器自动进入并且停留在插入模式，用户-{只}-能通过菜单、鼠标和键盘控制键来对文本进行操作。可以在命令行下输入"evim"或者"vim
--y"进入。在Windows下，通常也可以点击桌面上Evim（Easy Vim）的图标。
+Evim（Easy Vim）是一个特殊的GUI模式用来尽量的表现的和"无模式"编辑器一样。编辑器自动进入并且停留在插入模式，用户-{只}-能通过菜单、鼠标和键盘控制键来对文本进行操作。可以在命令行下输入"evim"或者"vim -y"进入。在Windows下，通常也可以点击桌面上Evim（Easy Vim）的图标。
 
 ## 功能
 
@@ -112,9 +98,8 @@ Vim）是一个特殊的GUI模式用来尽量的表现的和"无模式"编辑器
   - 单词缩写功能
   - 动态单词补全
   - 多次撤销和重做
-  - 对应400种以上[文本-{zh-hans:文件;
-    zh-hant:檔案;}-的语法高亮](../Page/文本文件.md "wikilink")
-  - [C](https://zh.wikipedia.org/wiki/C语言 "wikilink")／[C++](../Page/C++.md "wikilink")，[Perl](../Page/Perl.md "wikilink")，[Java](https://zh.wikipedia.org/wiki/Java语言 "wikilink")，[Ruby](../Page/Ruby.md "wikilink")，[Python等](../Page/Python.md "wikilink")40种以上语言的自动缩排
+  - 对应400种以上[文本-{zh-hans:文件; zh-hant:檔案;}-的语法高亮](../Page/文本文件.md "wikilink")
+  - [C](https://zh.wikipedia.org/wiki/C语言 "wikilink")／[C++](../Page/C++.md "wikilink")，[Perl](../Page/Perl.md "wikilink")，[Java](https://zh.wikipedia.org/wiki/Java语言 "wikilink")，[Ruby](../Page/Ruby.md "wikilink")，[Python](../Page/Python.md "wikilink")等40种以上语言的自动缩排
   - 利用ctags的标签中跳转
   - 崩溃后-{zh-hans:文件; zh-hant:檔案;}-恢复
   - 光标位置和打开的缓冲状态的保存复原（session功能）
@@ -124,12 +109,11 @@ Vim）是一个特殊的GUI模式用来尽量的表现的和"无模式"编辑器
 
 ### 帮助
 
-Vim提供了文本形式的大量[文档](https://zh.wikipedia.org/wiki/档案 "wikilink")。并且Vim为了能够快速找到问题的解决方案，提供了各种各样的功能。根据Vim自己的帮助文件语法，[关键字会被各种各样醒目的颜色表示出来](https://zh.wikipedia.org/wiki/关键字 "wikilink")。可以用[快捷键像在](../Page/快捷键.md "wikilink")[浏览器中那样浏览帮助文件](../Page/网页浏览器.md "wikilink")。在GUI版的Vim中还可以使用[鼠标在帮助文件中移动](../Page/鼠标.md "wikilink")。方便用户寻找问题解决方案的功能还不止这些，其中最主要的是':helpgrep'命令。使用这条命令，用户可以在所有帮助文件中搜索想要察看的内容，用':cwindows'可以在另一个窗口中表示搜索的结果，根据搜索的结果自动在帮助文件内跳转。使用Vim的帮助功能，更可以在搜索的结果中，继续进行搜索。
+Vim提供了文本形式的大量[文档](https://zh.wikipedia.org/wiki/档案 "wikilink")。并且Vim为了能够快速找到问题的解决方案，提供了各种各样的功能。根据Vim自己的帮助文件语法，[关键字会被各种各样醒目的颜色表示出来](https://zh.wikipedia.org/wiki/关键字 "wikilink")。可以用[快捷键](../Page/快捷键.md "wikilink")像在[浏览器中那样浏览帮助文件](../Page/网页浏览器.md "wikilink")。在GUI版的Vim中还可以使用[鼠标](../Page/鼠标.md "wikilink")在帮助文件中移动。方便用户寻找问题解决方案的功能还不止这些，其中最主要的是':helpgrep'命令。使用这条命令，用户可以在所有帮助文件中搜索想要察看的内容，用':cwindows'可以在另一个窗口中表示搜索的结果，根据搜索的结果自动在帮助文件内跳转。使用Vim的帮助功能，更可以在搜索的结果中，继续进行搜索。
 
 ### 程序开发相关功能
 
-Vim是[程序员为了方便的编写程序而开发的](../Page/程序员.md "wikilink")[文本编辑器](../Page/文本编辑器.md "wikilink")。Vim具有可以让写代码的工作变得轻松愉快的各种各样功能。和[集成开发环境一样](../Page/集成开发环境.md "wikilink")，Vim具有可以配置成在编辑代码源文件之后直接进行[编译的功能](https://zh.wikipedia.org/wiki/编译 "wikilink")。编译出错的情况下，可以在另一个窗口中显示出错误。根据错误信息，直接跳转到正在编辑的源文件出错位置。代码高亮，文本折叠，上下文关联补完都是对程序员特别有帮助的功能（参考':help
-quickfix'）
+Vim是[程序员](../Page/程序员.md "wikilink")为了方便的编写程序而开发的[文本编辑器](../Page/文本编辑器.md "wikilink")。Vim具有可以让写代码的工作变得轻松愉快的各种各样功能。和[集成开发环境](../Page/集成开发环境.md "wikilink")一样，Vim具有可以配置成在编辑代码源文件之后直接进行[编译的功能](https://zh.wikipedia.org/wiki/编译 "wikilink")。编译出错的情况下，可以在另一个窗口中显示出错误。根据错误信息，直接跳转到正在编辑的源文件出错位置。代码高亮，文本折叠，上下文关联补完都是对程序员特别有帮助的功能（参考':help quickfix'）
 
 ### 文件比较
 
@@ -147,10 +131,7 @@ Unix下可以用vimdiff命令来使用这个功能。
 
 ### 脚本语言
 
-Vim有其[脚本语言Vimscript](../Page/脚本语言.md "wikilink")，使用Vimscript写成的[巨集可以实现自动执行复杂的操作](../Page/巨集.md "wikilink")。用
--s选项启动Vim，或者直接切换到[宏所在](https://zh.wikipedia.org/wiki/宏 "wikilink")[目录使用](https://zh.wikipedia.org/wiki/目录 "wikilink")':source'命令都可以执行Vim脚本。Vim的配置文件就可以作为Vim脚本的一个范例，Unix和Linux下配置文件名是.vimrc，Windows下配置文件一般叫做_vimrc。这个文件在启动Vim的时候被自动执行。Vimscript可以使用Vim
-[命令行模式的所有](https://zh.wikipedia.org/wiki/命令行 "wikilink")[命令](../Page/命令_\(计算机\).md "wikilink")，使用':normal'命令还可以使用通常模式中的所有命令。Vimscript具有数字，字符串两种[数据类型](../Page/資料類型.md "wikilink")。用数字代表[布尔类型](../Page/布尔代数.md "wikilink")，0代表假，之外的数全代表真。最新的Vim
-7更提供了[列表](https://zh.wikipedia.org/wiki/列表 "wikilink")、[关联数组等高级](../Page/哈希表.md "wikilink")[数据结构](../Page/数据结构.md "wikilink")。Vimscript也拥有各种比较[运算符和算术运算符](https://zh.wikipedia.org/wiki/运算符 "wikilink")。控制结构实现了if分支和for/while循环。用户还可以自己定义[函数](../Page/函数.md "wikilink")，并且可以使用超过100种的预定义函数。编写成的脚本文件可以在调试模式中进行调试。
+Vim有其[脚本语言](../Page/脚本语言.md "wikilink")Vimscript，使用Vimscript写成的[巨集](../Page/巨集.md "wikilink")可以实现自动执行复杂的操作。用 -s选项启动Vim，或者直接切换到[宏所在](https://zh.wikipedia.org/wiki/宏 "wikilink")[目录使用](https://zh.wikipedia.org/wiki/目录 "wikilink")':source'命令都可以执行Vim脚本。Vim的配置文件就可以作为Vim脚本的一个范例，Unix和Linux下配置文件名是.vimrc，Windows下配置文件一般叫做_vimrc。这个文件在启动Vim的时候被自动执行。Vimscript可以使用Vim [命令行模式的所有](https://zh.wikipedia.org/wiki/命令行 "wikilink")[命令](../Page/命令_\(计算机\).md "wikilink")，使用':normal'命令还可以使用通常模式中的所有命令。Vimscript具有数字，字符串两种[数据类型](../Page/資料類型.md "wikilink")。用数字代表[布尔类型](../Page/布尔代数.md "wikilink")，0代表假，之外的数全代表真。最新的Vim 7更提供了[列表](https://zh.wikipedia.org/wiki/列表 "wikilink")、[关联数组等高级](../Page/哈希表.md "wikilink")[数据结构](../Page/数据结构.md "wikilink")。Vimscript也拥有各种比较[运算符和算术运算符](https://zh.wikipedia.org/wiki/运算符 "wikilink")。控制结构实现了if分支和for/while循环。用户还可以自己定义[函数](../Page/函数.md "wikilink")，并且可以使用超过100种的预定义函数。编写成的脚本文件可以在调试模式中进行调试。
 
 ## 不足之处
 
@@ -161,8 +142,7 @@ Vim有其[脚本语言Vimscript](../Page/脚本语言.md "wikilink")，使用Vim
 
 ## Neovim
 
-[Neovim-logo.svg](https://zh.wikipedia.org/wiki/File:Neovim-logo.svg "fig:Neovim-logo.svg")
-**Neovim**\[2\]是Vim的一个重构版本，致力于成为Vim的超集（superset）\[3\]。Neovim和Vim配置文件采用相同的语法，所以Vim的配置文件也可以用于Neovim\[4\]。Neovim的第一个版本在2015年12月发行，并且能够完全兼容Vim的特性\[5\]。
+[Neovim-logo.svg](https://zh.wikipedia.org/wiki/File:Neovim-logo.svg "fig:Neovim-logo.svg") **Neovim**\[2\]是Vim的一个重构版本，致力于成为Vim的超集（superset）\[3\]。Neovim和Vim配置文件采用相同的语法，所以Vim的配置文件也可以用于Neovim\[4\]。Neovim的第一个版本在2015年12月发行，并且能够完全兼容Vim的特性\[5\]。
 
 Neovim项目从2014年发起，有许多来自Vim社区的开源开发者为其提供早期支持，包括更好的脚本支持、插件以及和更好地融合图形界面等\[6\]\[7\]。Neovim項目在2014年3月23号成功获得捐款，足够支持一名全职开发者\[8\]。还有很多其他发挥Neovim功能的前端正在开发中\[9\]\[10\]。
 
@@ -183,21 +163,15 @@ Neovim项目从2014年发起，有许多来自Vim社区的开源开发者为其�
 ## 外部链接
 
   - [vim.org](http://www.vim.org)（官方主页）
-  - [Vim Chinese
-    Documentation](http://vimcdoc.sourceforge.net/)（Vim中文文档）
-  - [spanish
-    passion](https://web.archive.org/web/20061017100558/http://www15.ocn.ne.jp/~tusr/index.html)
+  - [Vim Chinese Documentation](http://vimcdoc.sourceforge.net/)（Vim中文文档）
+  - [spanish passion](https://web.archive.org/web/20061017100558/http://www15.ocn.ne.jp/~tusr/index.html)
   - [VimWiki](http://vimwiki.net/)
   - [大家來學VIM（一個歷久彌新的編輯器）](http://www.study-area.org/tips/vim/index.html)
   - [碎碎念](https://web.archive.org/web/20061209122328/http://blah.blogsome.com/)（HQ零零E的Vim进阶blog）
 
-[Category:Vi](https://zh.wikipedia.org/wiki/Category:Vi "wikilink")
-[Category:文本编辑器](https://zh.wikipedia.org/wiki/Category:文本编辑器 "wikilink")
-[Category:Linux文本编辑器](https://zh.wikipedia.org/wiki/Category:Linux文本编辑器 "wikilink")
-[Category:用C編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用C編程的自由軟體 "wikilink")
+[Category:Vi](https://zh.wikipedia.org/wiki/Category:Vi "wikilink") [Category:文本编辑器](https://zh.wikipedia.org/wiki/Category:文本编辑器 "wikilink") [Category:Linux文本编辑器](https://zh.wikipedia.org/wiki/Category:Linux文本编辑器 "wikilink") [Category:用C編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用C編程的自由軟體 "wikilink")
 
-1.  \[[http://vimdoc.sourceforge.net/htmldoc/uganda.html\#copying\]Vim](http://vimdoc.sourceforge.net/htmldoc/uganda.html#copying%5DVim)
-    documentation: uganda
+1.  \[[http://vimdoc.sourceforge.net/htmldoc/uganda.html\#copying\]Vim](http://vimdoc.sourceforge.net/htmldoc/uganda.html#copying%5DVim) documentation: uganda
 2.
 3.
 4.

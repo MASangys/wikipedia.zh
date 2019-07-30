@@ -4,21 +4,17 @@
 
 :\*R-62 医药卫生手册
 
-  - R1
-    [预防医学](https://zh.wikipedia.org/wiki/预防医学 "wikilink")、[卫生学](https://zh.wikipedia.org/wiki/卫生学 "wikilink")
+  - R1 [预防医学](https://zh.wikipedia.org/wiki/预防医学 "wikilink")、[卫生学](https://zh.wikipedia.org/wiki/卫生学 "wikilink")
 
 :\*R11 卫生基础科学
 
-:\*R12
-[环境卫生](https://zh.wikipedia.org/wiki/环境卫生 "wikilink")、[环境医学](https://zh.wikipedia.org/wiki/环境医学 "wikilink")
+:\*R12 [环境卫生](https://zh.wikipedia.org/wiki/环境卫生 "wikilink")、[环境医学](https://zh.wikipedia.org/wiki/环境医学 "wikilink")
 
 :\*R13 [劳动卫生](https://zh.wikipedia.org/wiki/劳动卫生 "wikilink")
 
-:\*R14
-[放射卫生](https://zh.wikipedia.org/wiki/放射卫生 "wikilink")、[战备卫生](https://zh.wikipedia.org/wiki/战备卫生 "wikilink")
+:\*R14 [放射卫生](https://zh.wikipedia.org/wiki/放射卫生 "wikilink")、[战备卫生](https://zh.wikipedia.org/wiki/战备卫生 "wikilink")
 
-:\*R15
-[营养卫生](https://zh.wikipedia.org/wiki/营养卫生 "wikilink")、[食品卫生](https://zh.wikipedia.org/wiki/食品卫生 "wikilink")
+:\*R15 [营养卫生](https://zh.wikipedia.org/wiki/营养卫生 "wikilink")、[食品卫生](https://zh.wikipedia.org/wiki/食品卫生 "wikilink")
 
 :\*R16 [个人卫生](https://zh.wikipedia.org/wiki/个人卫生 "wikilink")
 
@@ -28,14 +24,13 @@
 
 ::\*R167 [性卫生](https://zh.wikipedia.org/wiki/性卫生 "wikilink")
 
-::\*R169 [计划生育与卫生](../Page/计划生育.md "wikilink")
+::\*R169 [计划生育](../Page/计划生育.md "wikilink")与卫生
 
 :\*R17 妇幼、儿童、少年卫生
 
-:\*R18 [流行病学与防疫](../Page/流行病学.md "wikilink")
+:\*R18 [流行病学](../Page/流行病学.md "wikilink")与防疫
 
-:\*R19
-[保健组织与事业](https://zh.wikipedia.org/wiki/保健组织 "wikilink")（[卫生事业管理](https://zh.wikipedia.org/wiki/卫生事业管理 "wikilink")）
+:\*R19 [保健组织与事业](https://zh.wikipedia.org/wiki/保健组织 "wikilink")（[卫生事业管理](https://zh.wikipedia.org/wiki/卫生事业管理 "wikilink")）
 
   - R2 [中医](https://zh.wikipedia.org/wiki/中医 "wikilink")
 
@@ -51,10 +46,9 @@
 
 ::\*R243 [中草药治疗学](https://zh.wikipedia.org/wiki/中草药治疗学 "wikilink")
 
-::\*R244
-[外治法](https://zh.wikipedia.org/wiki/外治法 "wikilink")（[物理疗法](https://zh.wikipedia.org/wiki/物理疗法 "wikilink")）
+::\*R244 [外治法](https://zh.wikipedia.org/wiki/外治法 "wikilink")（[物理疗法](https://zh.wikipedia.org/wiki/物理疗法 "wikilink")）
 
-::\*R245 [针灸疗法](../Page/针灸.md "wikilink")
+::\*R245 [针灸](../Page/针灸.md "wikilink")疗法
 
 ::\*R247 其他疗法
 
@@ -100,8 +94,7 @@
 
 :\*R36 [病理学](../Page/病理学.md "wikilink")
 
-:\*R37
-[医学微生物学](https://zh.wikipedia.org/wiki/医学微生物学 "wikilink")（[病原细菌学](https://zh.wikipedia.org/wiki/病原细菌学 "wikilink")、[病原微生物学](https://zh.wikipedia.org/wiki/病原微生物学 "wikilink")）
+:\*R37 [医学微生物学](https://zh.wikipedia.org/wiki/医学微生物学 "wikilink")（[病原细菌学](https://zh.wikipedia.org/wiki/病原细菌学 "wikilink")、[病原微生物学](https://zh.wikipedia.org/wiki/病原微生物学 "wikilink")）
 
 :\*R38 [医学寄生虫学](https://zh.wikipedia.org/wiki/医学寄生虫学 "wikilink")
 
@@ -109,8 +102,7 @@
 
 ::\*R394 [医学遗传学](https://zh.wikipedia.org/wiki/医学遗传学 "wikilink")
 
-::\*R395
-[医学心理学](https://zh.wikipedia.org/wiki/医学心理学 "wikilink")、[病理心理学](https://zh.wikipedia.org/wiki/病理心理学 "wikilink")
+::\*R395 [医学心理学](https://zh.wikipedia.org/wiki/医学心理学 "wikilink")、[病理心理学](https://zh.wikipedia.org/wiki/病理心理学 "wikilink")
 
   - R4 [临床医学](https://zh.wikipedia.org/wiki/临床医学 "wikilink")
 
@@ -132,20 +124,17 @@
 
 :\*R53 [寄生虫病](https://zh.wikipedia.org/wiki/寄生虫病 "wikilink")
 
-:\*R54
-[心脏](https://zh.wikipedia.org/wiki/心脏 "wikilink")、[血管](../Page/血管.md "wikilink")（循环系）疾病
+:\*R54 [心脏](https://zh.wikipedia.org/wiki/心脏 "wikilink")、[血管](../Page/血管.md "wikilink")（循环系）疾病
 
-:\*R55 [血液及](../Page/血液.md "wikilink")[淋巴系疾病](../Page/淋巴.md "wikilink")
+:\*R55 [血液](../Page/血液.md "wikilink")及[淋巴](../Page/淋巴.md "wikilink")系疾病
 
 :\*R56 呼吸系及胸部疾病
 
 :\*R57 消化系及腹部疾病
 
-:\*R58
-[内分泌腺疾病及](https://zh.wikipedia.org/wiki/内分泌 "wikilink")[代谢病](https://zh.wikipedia.org/wiki/代谢病 "wikilink")
+:\*R58 [内分泌腺疾病及](https://zh.wikipedia.org/wiki/内分泌 "wikilink")[代谢病](https://zh.wikipedia.org/wiki/代谢病 "wikilink")
 
-:\*R59
-[全身性疾病](https://zh.wikipedia.org/wiki/全身性疾病 "wikilink")、[地方病学](https://zh.wikipedia.org/wiki/地方病学 "wikilink")
+:\*R59 [全身性疾病](https://zh.wikipedia.org/wiki/全身性疾病 "wikilink")、[地方病学](https://zh.wikipedia.org/wiki/地方病学 "wikilink")
 
   - R6 [外科学](../Page/外科学.md "wikilink")
 
@@ -179,8 +168,7 @@
 
 :\*R72 [儿科学](https://zh.wikipedia.org/wiki/儿科学 "wikilink")
 
-::\*R722
-[新生儿](https://zh.wikipedia.org/wiki/新生儿 "wikilink")、[早产儿疾病](https://zh.wikipedia.org/wiki/早产儿 "wikilink")
+::\*R722 [新生儿](https://zh.wikipedia.org/wiki/新生儿 "wikilink")、[早产儿疾病](https://zh.wikipedia.org/wiki/早产儿 "wikilink")
 
 ::\*R723 [婴儿营养障碍](https://zh.wikipedia.org/wiki/婴儿营养障碍 "wikilink")
 
@@ -196,8 +184,7 @@
 
 ::\*R732 [心血管肿瘤](https://zh.wikipedia.org/wiki/心血管肿瘤 "wikilink")
 
-::\*R733
-[造血器及](https://zh.wikipedia.org/wiki/造血器 "wikilink")[淋巴系肿瘤](../Page/淋巴.md "wikilink")
+::\*R733 [造血器及](https://zh.wikipedia.org/wiki/造血器 "wikilink")[淋巴](../Page/淋巴.md "wikilink")系肿瘤
 
 ::\*R734 [呼吸系肿瘤](https://zh.wikipedia.org/wiki/呼吸系肿瘤 "wikilink")
 
@@ -221,32 +208,25 @@
 
 :::\*R739.9 其他部位肿瘤
 
-:\*R74
-[神经病学与](https://zh.wikipedia.org/wiki/神经病学 "wikilink")[精神病学](../Page/精神病学.md "wikilink")
+:\*R74 [神经病学与](https://zh.wikipedia.org/wiki/神经病学 "wikilink")[精神病学](../Page/精神病学.md "wikilink")
 
 ::\*R749 [精神病学](../Page/精神病学.md "wikilink")
 
-:\*R75
-[皮肤病学与](https://zh.wikipedia.org/wiki/皮肤病学 "wikilink")[性病学](https://zh.wikipedia.org/wiki/性病学 "wikilink")
+:\*R75 [皮肤病学与](https://zh.wikipedia.org/wiki/皮肤病学 "wikilink")[性病学](https://zh.wikipedia.org/wiki/性病学 "wikilink")
 
 ::\*R759 [性病学](https://zh.wikipedia.org/wiki/性病学 "wikilink")
 
 :\*R76 [耳鼻咽喉科学](https://zh.wikipedia.org/wiki/耳鼻咽喉科学 "wikilink")
 
-::\*R764
-[耳科学](https://zh.wikipedia.org/wiki/耳科学 "wikilink")、[耳疾病](https://zh.wikipedia.org/wiki/耳疾病 "wikilink")
+::\*R764 [耳科学](https://zh.wikipedia.org/wiki/耳科学 "wikilink")、[耳疾病](https://zh.wikipedia.org/wiki/耳疾病 "wikilink")
 
-::\*R765
-[鼻科学](https://zh.wikipedia.org/wiki/鼻科学 "wikilink")、[鼻疾病](https://zh.wikipedia.org/wiki/鼻疾病 "wikilink")
+::\*R765 [鼻科学](https://zh.wikipedia.org/wiki/鼻科学 "wikilink")、[鼻疾病](https://zh.wikipedia.org/wiki/鼻疾病 "wikilink")
 
-::\*R766
-[咽科学](https://zh.wikipedia.org/wiki/咽科学 "wikilink")、[咽疾病](https://zh.wikipedia.org/wiki/咽疾病 "wikilink")
+::\*R766 [咽科学](https://zh.wikipedia.org/wiki/咽科学 "wikilink")、[咽疾病](https://zh.wikipedia.org/wiki/咽疾病 "wikilink")
 
-::\*R767
-[喉科学](https://zh.wikipedia.org/wiki/喉科学 "wikilink")、[喉疾病](https://zh.wikipedia.org/wiki/喉疾病 "wikilink")
+::\*R767 [喉科学](https://zh.wikipedia.org/wiki/喉科学 "wikilink")、[喉疾病](https://zh.wikipedia.org/wiki/喉疾病 "wikilink")
 
-::\*R768
-[气管与](https://zh.wikipedia.org/wiki/气管 "wikilink")[食管镜学](https://zh.wikipedia.org/wiki/食管镜学 "wikilink")
+::\*R768 [气管与](https://zh.wikipedia.org/wiki/气管 "wikilink")[食管镜学](https://zh.wikipedia.org/wiki/食管镜学 "wikilink")
 
 :\*R77 [眼科学](https://zh.wikipedia.org/wiki/眼科学 "wikilink")
 
@@ -254,13 +234,11 @@
 
 ::\*R773 [眼色素层疾病](https://zh.wikipedia.org/wiki/眼色素层疾病 "wikilink")
 
-::\*R774
-[视网膜与](../Page/视网膜.md "wikilink")[视神经疾病](../Page/视神经.md "wikilink")
+::\*R774 [视网膜](../Page/视网膜.md "wikilink")与[视神经](../Page/视神经.md "wikilink")疾病
 
-::\*R775 [眼压与](../Page/眼压.md "wikilink")[青光眼](../Page/青光眼.md "wikilink")
+::\*R775 [眼压](../Page/眼压.md "wikilink")与[青光眼](../Page/青光眼.md "wikilink")
 
-::\*R776
-[晶状体与](../Page/晶状体.md "wikilink")[玻璃体疾病](https://zh.wikipedia.org/wiki/玻璃体 "wikilink")
+::\*R776 [晶状体](../Page/晶状体.md "wikilink")与[玻璃体疾病](https://zh.wikipedia.org/wiki/玻璃体 "wikilink")
 
 ::\*R777 [眼附属器官疾病](https://zh.wikipedia.org/wiki/眼附属器官疾病 "wikilink")
 
@@ -302,16 +280,13 @@
 
   - R9 [药学](https://zh.wikipedia.org/wiki/药学 "wikilink")
 
-:\*R91
-[药物基础科学](../Page/药物.md "wikilink")、[药物分析](https://zh.wikipedia.org/wiki/药物分析 "wikilink")
+:\*R91 [药物](../Page/药物.md "wikilink")基础科学、[药物分析](https://zh.wikipedia.org/wiki/药物分析 "wikilink")
 
 ::\*R914 [药物化学](../Page/药物化学.md "wikilink")
 
-:\*R92
-[药典](../Page/药典.md "wikilink")、[药方集](https://zh.wikipedia.org/wiki/药方集 "wikilink")（[处方集](https://zh.wikipedia.org/wiki/处方集 "wikilink")）、[药物鉴定](https://zh.wikipedia.org/wiki/药物鉴定 "wikilink")
+:\*R92 [药典](../Page/药典.md "wikilink")、[药方集](https://zh.wikipedia.org/wiki/药方集 "wikilink")（[处方集](https://zh.wikipedia.org/wiki/处方集 "wikilink")）、[药物鉴定](https://zh.wikipedia.org/wiki/药物鉴定 "wikilink")
 
-:\*R93
-[生药学](../Page/生药学.md "wikilink")（[天然药物学](https://zh.wikipedia.org/wiki/天然药物化学 "wikilink")）
+:\*R93 [生药学](../Page/生药学.md "wikilink")（[天然药物学](https://zh.wikipedia.org/wiki/天然药物化学 "wikilink")）
 
 :\*R94 [药剂学](../Page/药剂学.md "wikilink")
 

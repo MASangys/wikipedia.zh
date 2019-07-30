@@ -1,15 +1,15 @@
-**W線百老匯慢車**（），又稱**紐約地鐵W線**，是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")的[地鐵系統](../Page/地鐵.md "wikilink")。由於該線在[曼哈頓使用](../Page/曼哈頓.md "wikilink")[BMT百老匯線](https://zh.wikipedia.org/wiki/BMT百老匯線 "wikilink")，因此其路線徽號為黃色\[1\]。
+**W線百老匯慢車**（），又稱**紐約地鐵W線**，是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")的[地鐵](../Page/地鐵.md "wikilink")系統。由於該線在[曼哈頓](../Page/曼哈頓.md "wikilink")使用[BMT百老匯線](https://zh.wikipedia.org/wiki/BMT百老匯線 "wikilink")，因此其路線徽號為黃色\[1\]。
 
 W線只在平日營運，深夜時不營運，來往[阿斯托利亞的](../Page/阿斯托里亞_\(皇后區\).md "wikilink")[阿斯托利亞-迪特馬斯林蔭路與](https://zh.wikipedia.org/wiki/阿斯托利亞-迪特馬斯林蔭路車站_\(BMT阿斯托利亞線\) "wikilink")[曼哈頓下城的](https://zh.wikipedia.org/wiki/曼哈頓下城 "wikilink")[白廳街-南碼頭](https://zh.wikipedia.org/wiki/白廳街-南碼頭車站_\(BMT百老匯線\) "wikilink")，停靠全線所有車站，繁忙時段有限度服務以的[86街](https://zh.wikipedia.org/wiki/86街車站_\(BMT海灘線\) "wikilink")，在布魯克林停靠所有車站\[2\]\[3\]\[4\]\[5\]。
 
-2001年7月22日加入，W線任何時候都營運，在布魯克林的[BMT西城線和](../Page/BMT西城線.md "wikilink")[BMT第四大道線前往](https://zh.wikipedia.org/wiki/BMT第四大道線 "wikilink")[康尼島-斯提威爾大道](https://zh.wikipedia.org/wiki/康尼島-斯提威爾大道車站 "wikilink")。此線在2004年截成現時的營運模式，直至2010年6月25日直至[大都會運輸署財政危機而取消](../Page/大都會運輸署.md "wikilink")。2016年5月23日，MTA宣佈在2016年11月7日恢復此線，使用原初的標誌和走線，以彌補[第二大道線通車後的營運模式](../Page/第二大道線.md "wikilink")\[6\]<ref name=":2">
+2001年7月22日加入，W線任何時候都營運，在布魯克林的[BMT西城線](../Page/BMT西城線.md "wikilink")和[BMT第四大道線前往](https://zh.wikipedia.org/wiki/BMT第四大道線 "wikilink")[康尼島-斯提威爾大道](https://zh.wikipedia.org/wiki/康尼島-斯提威爾大道車站 "wikilink")。此線在2004年截成現時的營運模式，直至2010年6月25日直至[大都會運輸署](../Page/大都會運輸署.md "wikilink")財政危機而取消。2016年5月23日，MTA宣佈在2016年11月7日恢復此線，使用原初的標誌和走線，以彌補[第二大道線](../Page/第二大道線.md "wikilink")通車後的營運模式\[6\]<ref name=":2">
 
   -
 </ref>\[7\]\[8\]\[9\]。
 
 ## 歷史
 
-線於2001年6月22日開始營運，行駛線因[曼哈頓橋關閉重建而停駛的區域](https://zh.wikipedia.org/wiki/曼哈頓橋 "wikilink")。尖峰與中午時段往返[皇后區迪特馬士大道](../Page/皇后區.md "wikilink")-阿斯托利亞車站與科尼島-斯提威爾大道車站之間，於皇后區行駛尖峰快車、[曼哈頓](../Page/曼哈頓.md "wikilink")34街-赫拉德廣場車站與[布魯克林](https://zh.wikipedia.org/wiki/布魯克林 "wikilink")36街車站之間行快車，其他路線行慢車；平日夜晚曼哈頓36街車站以北行快車、以南行慢車；週末時自太平洋街車站發車，行車模式與平日夜晚同；凌晨行駛接駁服務往返36街與科尼島-斯提威爾大道車站之間。
+線於2001年6月22日開始營運，行駛線因[曼哈頓橋關閉重建而停駛的區域](https://zh.wikipedia.org/wiki/曼哈頓橋 "wikilink")。尖峰與中午時段往返[皇后區](../Page/皇后區.md "wikilink")迪特馬士大道-阿斯托利亞車站與科尼島-斯提威爾大道車站之間，於皇后區行駛尖峰快車、[曼哈頓](../Page/曼哈頓.md "wikilink")34街-赫拉德廣場車站與[布魯克林](https://zh.wikipedia.org/wiki/布魯克林 "wikilink")36街車站之間行快車，其他路線行慢車；平日夜晚曼哈頓36街車站以北行快車、以南行慢車；週末時自太平洋街車站發車，行車模式與平日夜晚同；凌晨行駛接駁服務往返36街與科尼島-斯提威爾大道車站之間。
 
 2001年[911事件後](https://zh.wikipedia.org/wiki/911事件 "wikilink")，因線停駛，線列車於非凌晨時段往返迪特馬士大道-阿斯托利亞車站與科尼島-斯提威爾大道車站之間，以36街為劃分，以北為快車、以南為慢車；凌晨則分為兩區間：阿斯托利亞-迪特馬士大道車站至34街-赫拉德廣場車站，及36街車站至科尼島-斯提威爾大道車站。於10月28日恢復正常營運。
 
@@ -570,11 +570,9 @@ W線只在平日營運，深夜時不營運，來往[阿斯托利亞的](../Page
 
 ## 外部連結
 
-  - [MTA NYC Transit -
-    路線介紹](https://web.archive.org/web/20020728090822/http://www.mta.info/nyct/service/wline.htm)
+  - [MTA NYC Transit - 路線介紹](https://web.archive.org/web/20020728090822/http://www.mta.info/nyct/service/wline.htm)
   - [W線歷史](https://web.archive.org/web/20011202055509/http://members.aol.com/bdmnqr2/linehistory.html)
-  - [MTA NYC Transit -
-    W線時刻表（PDF）](https://web.archive.org/web/20031204032030/http://www.mta.info/nyct/service/pdf/twcur.pdf)
+  - [MTA NYC Transit - W線時刻表（PDF）](https://web.archive.org/web/20031204032030/http://www.mta.info/nyct/service/pdf/twcur.pdf)
 
 [Category:紐約地鐵服務路線](https://zh.wikipedia.org/wiki/Category:紐約地鐵服務路線 "wikilink")
 

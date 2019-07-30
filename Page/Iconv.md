@@ -19,7 +19,7 @@ iconv -f GB18030 -t utf-8 < infile > outfile
   - iconv函数进行实际的转换，需要给出两个间接缓冲区指针和剩余字节数指针。该函数需要更新所有相关信息，因此将不可改写的指针传递给iconv是错误的。
   - iconv_close函数释放iconv_open函数的缓冲区。
 
-iconv基于[GPL公开源代码](https://zh.wikipedia.org/wiki/GPL "wikilink")，是[GNU项目的一部分](../Page/GNU.md "wikilink")。在各种[UNIX操作系统下均可使用](../Page/UNIX.md "wikilink")，而在[Windows系统](https://zh.wikipedia.org/wiki/Windows "wikilink")，需要特殊的环境如[cygwin或者](https://zh.wikipedia.org/wiki/cygwin "wikilink")[GnuWin32等软件平台下方可使用](https://zh.wikipedia.org/wiki/GnuWin32 "wikilink")。现在在[SourceForge上也有运行于Windows系统的](../Page/SourceForge.md "wikilink")，需要同时安装[gettext程序](https://zh.wikipedia.org/wiki/gettext "wikilink")。
+iconv基于[GPL公开源代码](https://zh.wikipedia.org/wiki/GPL "wikilink")，是[GNU](../Page/GNU.md "wikilink")项目的一部分。在各种[UNIX](../Page/UNIX.md "wikilink")操作系统下均可使用，而在[Windows系统](https://zh.wikipedia.org/wiki/Windows "wikilink")，需要特殊的环境如[cygwin或者](https://zh.wikipedia.org/wiki/cygwin "wikilink")[GnuWin32等软件平台下方可使用](https://zh.wikipedia.org/wiki/GnuWin32 "wikilink")。现在在[SourceForge](../Page/SourceForge.md "wikilink")上也有运行于Windows系统的，需要同时安装[gettext程序](https://zh.wikipedia.org/wiki/gettext "wikilink")。
 
 目前，libiconv已经包含在C运行时刻库`libc.so`中。因此，Linux平台上使用iconv库函数的程序，需要包含\<iconv.h\>，但链接时不需要引入libiconv库了。
 
@@ -31,8 +31,7 @@ iconv基于[GPL公开源代码](https://zh.wikipedia.org/wiki/GPL "wikilink")，
 
 {{-}}
 
-[Category:Unix_SUS2008实用工具](https://zh.wikipedia.org/wiki/Category:Unix_SUS2008实用工具 "wikilink")
-[Category:GNU](https://zh.wikipedia.org/wiki/Category:GNU "wikilink")
+[Category:Unix_SUS2008实用工具](https://zh.wikipedia.org/wiki/Category:Unix_SUS2008实用工具 "wikilink") [Category:GNU](https://zh.wikipedia.org/wiki/Category:GNU "wikilink")
 
 1.
 2.

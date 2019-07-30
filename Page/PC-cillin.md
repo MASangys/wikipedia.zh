@@ -1,4 +1,4 @@
-**PC-cillin**，是[趨勢科技推出的](../Page/趨勢科技.md "wikilink")[防毒軟體](../Page/杀毒软件.md "wikilink")。\[1\]。
+**PC-cillin**，是[趨勢科技](../Page/趨勢科技.md "wikilink")推出的[防毒軟體](../Page/杀毒软件.md "wikilink")。\[1\]。
 
 ## 系統需求
 
@@ -66,14 +66,11 @@
 
 ## 評比
 
-測試評比機構 tolly\[2\]與
-NSSLabs\[3\]防毒軟體效能測試報告，在掃瞄速度、開機速度、記憶體使用量、程式大小等效能測試評比項目中，PC-cillin
-雲端版在與其他防毒軟體的同級產品進行測試比較下，都獲得最高測試分數，是所有產品中最輕、最快、最省資源的網路安全軟體。
+測試評比機構 tolly\[2\]與 NSSLabs\[3\]防毒軟體效能測試報告，在掃瞄速度、開機速度、記憶體使用量、程式大小等效能測試評比項目中，PC-cillin 雲端版在與其他防毒軟體的同級產品進行測試比較下，都獲得最高測試分數，是所有產品中最輕、最快、最省資源的網路安全軟體。
 
 ## 命名
 
-PC-cillin 雲端版是由[趨勢科技Trend Micro](../Page/趨勢科技.md "wikilink")
-所研發。當初命名意味著[PC的](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")[盤尼西林](https://zh.wikipedia.org/wiki/盤尼西林 "wikilink")，讓人易於聯想到醫療；但實際上盤尼西林在生物醫學上能對抗的是細菌而非病毒。
+PC-cillin 雲端版是由[趨勢科技 Micro](../Page/趨勢科技.md "wikilink")Trend 所研發。當初命名意味著[PC的](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")[盤尼西林](https://zh.wikipedia.org/wiki/盤尼西林 "wikilink")，讓人易於聯想到醫療；但實際上盤尼西林在生物醫學上能對抗的是細菌而非病毒。
 
 ## 產品功能
 
@@ -194,14 +191,10 @@ PC-cillin 雲端版是由[趨勢科技Trend Micro](../Page/趨勢科技.md "wiki
 
 ## 外部連結
 
-  - [PC-cillin
-    下載](https://www.trendmicro.com/zh_tw/forHome/trial.html)
+  - [PC-cillin 下載](https://www.trendmicro.com/zh_tw/forHome/trial.html)
   - [主動式雲端截毒技術](http://www.trendmicro.com.tw/spn/index.asp)
 
-[Category:安全軟體](https://zh.wikipedia.org/wiki/Category:安全軟體 "wikilink")
-[Category:防火牆軟體](https://zh.wikipedia.org/wiki/Category:防火牆軟體 "wikilink")
-[Category:雲端運算](https://zh.wikipedia.org/wiki/Category:雲端運算 "wikilink")
-[Category:杀毒软件](https://zh.wikipedia.org/wiki/Category:杀毒软件 "wikilink")
+[Category:安全軟體](https://zh.wikipedia.org/wiki/Category:安全軟體 "wikilink") [Category:防火牆軟體](https://zh.wikipedia.org/wiki/Category:防火牆軟體 "wikilink") [Category:雲端運算](https://zh.wikipedia.org/wiki/Category:雲端運算 "wikilink") [Category:杀毒软件](https://zh.wikipedia.org/wiki/Category:杀毒软件 "wikilink")
 
 1.  [主動式雲端截毒技術](http://www.trendmicro.com.tw/spn/index.asp)
 2.  [tolly](http://tolly.com)

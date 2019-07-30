@@ -1,7 +1,6 @@
-**Teen
-Power**，簡稱TP，是[香港電台屬下之青年](../Page/香港電台.md "wikilink")[網上電台](https://zh.wikipedia.org/wiki/網上電台 "wikilink")，於2004年2月28日正式啟播。TP的節目工作人員，無論是策劃、製作還是主持節目，都是年青人，因此節目內容非常切合青年。製作的節目著重互動，部份節目設有Facebook。
+**Teen Power**，簡稱TP，是[香港電台](../Page/香港電台.md "wikilink")屬下之青年[網上電台](https://zh.wikipedia.org/wiki/網上電台 "wikilink")，於2004年2月28日正式啟播。TP的節目工作人員，無論是策劃、製作還是主持節目，都是年青人，因此節目內容非常切合青年。製作的節目著重互動，部份節目設有Facebook。
 
-2013年4月，[香港電台第二台與TeenPower同時進行節目革新](../Page/香港電台第二台.md "wikilink")，重組節目時段。TP更不時主辦或協辦不同類型公眾活動，與網友接觸。
+2013年4月，[香港電台第二台](../Page/香港電台第二台.md "wikilink")與TeenPower同時進行節目革新，重組節目時段。TP更不時主辦或協辦不同類型公眾活動，與網友接觸。
 
 2016年6月，TeenPower大幅更新節目類型。
 
@@ -12,7 +11,7 @@ Power**，簡稱TP，是[香港電台屬下之青年](../Page/香港電台.md "w
 <table>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/香港電台第二台.md" title="wikilink">香港電台第二台及TeenPower聯播</a></p></td>
+<td><p><a href="../Page/香港電台第二台.md" title="wikilink">香港電台第二台</a>及TeenPower聯播</p></td>
 </tr>
 </tbody>
 </table>
@@ -172,8 +171,7 @@ Eng Drive－訪問外國歌手，英語對話</p></td>
 
 ### TPTV
 
-TeenPower及香港電台第二台視像頻道，聽眾可進入[TPTV網頁](http://teenpower1.rthk.org.hk/tptv)收看TP視像節目《Music
-Drive》、二台節目《晨光第一線》視像環節《羅啟新棟篤笑》及其他特備節目。
+TeenPower及香港電台第二台視像頻道，聽眾可進入[TPTV網頁](http://teenpower1.rthk.org.hk/tptv)收看TP視像節目《Music Drive》、二台節目《晨光第一線》視像環節《羅啟新棟篤笑》及其他特備節目。
 
 ## 過去節目及主持
 
@@ -951,7 +949,7 @@ Verdy @ Roundtable</p></td>
 <tr class="even">
 <td><p>TP夏日劇場：<br />
 周杰倫—<strong>沒有不能說的秘密</strong></p></td>
-<td><p><a href="../Page/周杰倫.md" title="wikilink">周杰倫</a>、<a href="../Page/桂綸鎂.md" title="wikilink">桂綸鎂與TP合作之網劇</a><br />
+<td><p><a href="../Page/周杰倫.md" title="wikilink">周杰倫</a>、<a href="../Page/桂綸鎂.md" title="wikilink">桂綸鎂</a>與TP合作之網劇<br />
 <br />
 演員：<a href="../Page/周杰倫.md" title="wikilink">周杰倫</a>、<a href="../Page/桂綸鎂.md" title="wikilink">桂綸鎂</a>、<a href="../Page/區文詩.md" title="wikilink">Angela</a>#、<a href="https://zh.wikipedia.org/wiki/容羡媛" title="wikilink">Fion</a>#、<a href="https://zh.wikipedia.org/wiki/Zimon_Chow" title="wikilink">Zimon Chow</a>#、<a href="../Page/何嘉露.md" title="wikilink">Lu</a><br />
 編劇：<a href="../Page/李慧娜.md" title="wikilink">拿拿淋</a>#, <a href="https://zh.wikipedia.org/wiki/李興華_(藝人)" title="wikilink">Kelvin Lee</a>#<br />
@@ -1296,10 +1294,8 @@ Band力量Countdown Party</p></td>
 ## 外部連結及資料來源
 
   - [Teen Power網頁](http://teenpower.rthk.hk)
-  - [香港電台第二台
-    節目表](http://programme.rthk.hk/progsch/prog_timetable/R2_prog.pdf)
-  - [Teen Power Official Facebook
-    Page](http://www.facebook.com/teenpower.rthk)
+  - [香港電台第二台 節目表](http://programme.rthk.hk/progsch/prog_timetable/R2_prog.pdf)
+  - [Teen Power Official Facebook Page](http://www.facebook.com/teenpower.rthk)
 
 [Category:香港電台](https://zh.wikipedia.org/wiki/Category:香港電台 "wikilink")
 
@@ -1307,11 +1303,9 @@ Band力量Countdown Party</p></td>
 2.  [校園本壘節目網頁](http://programme.rthk.hk/channel/radio/programme.php?name=radio2/schoolfun)
 3.  [女人Guide節目網頁](http://programme.rthk.hk/channel/radio/programme.php?name=radio2/womenguide)
 4.  [大學站節目網頁](http://programme.rthk.hk/channel/radio/programme.php?name=radio2/jubo_school)
-5.  [Do Re
-    Mischa節目網頁](http://programme.rthk.hk/channel/radio/programme.php?name=radio2/doremischa)
+5.  [Do Re Mischa節目網頁](http://programme.rthk.hk/channel/radio/programme.php?name=radio2/doremischa)
 6.  [姿姿整整節目網頁](http://programme.rthk.hk/channel/radio/programme.php?name=radio2/fabulous)
-7.  [Teen
-    Music節目網頁](http://www.rthk.hk/radio/radio2/programme/teen_music)
+7.  [Teen Music節目網頁](http://www.rthk.hk/radio/radio2/programme/teen_music)
 8.  [Gimme 5節目網頁](http://programme.rthk.hk/channel/radio/programme.php?name=radio2/curiouserandcuriouser&p=5855)
 9.  [尋常事認真做節目網頁](http://programme.rthk.hk/channel/radio/programme.php?name=radio2/ordinarydoneseriously&p=4189)
 10. [我是你的後援會節目網頁](http://programme.rthk.hk/channel/radio/programme.php?name=radio2/iamfans)
@@ -1322,8 +1316,7 @@ Band力量Countdown Party</p></td>
 15. [漫動作節目網頁](http://programme.rthk.hk/channel/radio/programme.php?name=radio2/comicaction)
 16. [Teen空海闊節目網頁](http://programme.rthk.hk/channel/radio/programme.php?name=radio2/Teenschoice&p=2129)
 17. [大韓璇風節目網頁](http://programme.rthk.hk/channel/radio/programme.php?name=radio2/k_pop_upbeat&p=6721)
-18. [Music Drive TPTV
-    節目網頁](http://teenpower1.rthk.hk/tptv/index.php?epi=1&tab=1&scrollto=v)
+18. [Music Drive TPTV 節目網頁](http://teenpower1.rthk.hk/tptv/index.php?epi=1&tab=1&scrollto=v)
 19.
 20.
 21.
@@ -1342,13 +1335,11 @@ Band力量Countdown Party</p></td>
 34. [80革命節目網頁](http://programme.rthk.hk/channel/radio/programme.php?name=radio2/revolution80)
 35. [司時間節目網頁](http://programme.rthk.hk/channel/radio/programme.php?name=radio2/stephentime)
 36. [型英營節目網頁](http://programme.rthk.hk/channel/radio/programme.php?name=radio2/teenger)
-37. [Teen
-    Musik節目網頁](http://programme.rthk.hk/channel/radio/programme.php?name=radio2/teenmusic)
+37. [Teen Musik節目網頁](http://programme.rthk.hk/channel/radio/programme.php?name=radio2/teenmusic)
 38. [好Teen戲節目網頁](http://programme.rthk.hk/channel/radio/programme.php?name=radio2/teenfilm)
 39. [愛好音樂節目網頁](http://programme.rthk.hk/channel/radio/programme.php?name=radio2/lovemusic)
 40. [男生圍節目網頁](http://programme.rthk.hk/channel/radio/programme.php?name=radio2/mentalk)
-41. [Teen
-    Talk節目網頁](http://programme.rthk.hk/channel/radio/programme.php?name=radio2/teentalk)
+41. [Teen Talk節目網頁](http://programme.rthk.hk/channel/radio/programme.php?name=radio2/teentalk)
 42. [韓圈節目網頁](http://programme.rthk.hk/channel/radio/programme.php?name=radio2/koreacircle)
 43. [敏感時刻節目網頁](http://programme.rthk.hk/channel/radio/programme.php?name=radio2/curiouserandcuriouser&p=5855)
 44. [TP同學會節目網頁](http://programme.rthk.hk/channel/radio/programme.php?name=radio2/tpgathering)

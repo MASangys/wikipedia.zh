@@ -1,10 +1,4 @@
-《**钢铁雄心II**》（Hearts of Iron
-II）为战略游戏。是《[钢铁雄心](https://zh.wikipedia.org/wiki/钢铁雄心 "wikilink")》的加强版续作。游戏背景被设定在1936年[第二次世界大戰时期](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")。并允许控制175个国家，几乎涵盖了当时所有的政权。游戏由开发，由[Paradox
-Interactive公司发布](../Page/Paradox_Interactive.md "wikilink")。主要游戏开发者为Johan
-Andersson 。2006年4月，Paradox
-Interactive再推出《钢铁雄心II》资料片《[钢铁雄心2末日战役](https://zh.wikipedia.org/wiki/钢铁雄心2末日战役 "wikilink")》(Hearts
-of Iron II:
-Doomsday)，加入了[第三次世界大战剧情及编辑器](https://zh.wikipedia.org/wiki/第三次世界大战 "wikilink")。在2007年4月，《[钢铁雄心II：决战](../Page/钢铁雄心II：决战.md "wikilink")》进一步延长了游戏时限，可以持续到1964年。
+《**钢铁雄心II**》（Hearts of Iron II）为战略游戏。是《[钢铁雄心](https://zh.wikipedia.org/wiki/钢铁雄心 "wikilink")》的加强版续作。游戏背景被设定在1936年[第二次世界大戰时期](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")。并允许控制175个国家，几乎涵盖了当时所有的政权。游戏由开发，由[Paradox Interactive公司发布](../Page/Paradox_Interactive.md "wikilink")。主要游戏开发者为Johan Andersson 。2006年4月，Paradox Interactive再推出《钢铁雄心II》资料片《[钢铁雄心2末日战役](https://zh.wikipedia.org/wiki/钢铁雄心2末日战役 "wikilink")》(Hearts of Iron II: Doomsday)，加入了[第三次世界大战剧情及编辑器](https://zh.wikipedia.org/wiki/第三次世界大战 "wikilink")。在2007年4月，《[钢铁雄心II：决战](../Page/钢铁雄心II：决战.md "wikilink")》进一步延长了游戏时限，可以持续到1964年。
 
 ## 游戏介绍
 
@@ -20,8 +14,7 @@ Doomsday)，加入了[第三次世界大战剧情及编辑器](https://zh.wikipe
 
 ### 内政
 
-游戏中，玩家可以在外交界面选择自己国家的内政方针（国策），不过值得注意的是，一年只能对一方面进行值为1的调整。打开[f12控制板输入](https://zh.wikipedia.org/wiki/f12控制板 "wikilink")“freedom”即可自由调整国策，再次输入一次“freedom”即可关闭自由调整。国策调整必须依照选定国家的意识形态来调整，否则不能得到最优的效果。国策的双方都各有好处，也各有缺点，需要玩家灵活调整。有时，调整国策会修改国家元首，比如德国的民主值过高则会使兴登堡再次上台。另外，一些国家的某项国策不能拉到底，比如独裁国家不能过于民主等等。
-内政方针有一下几点：
+游戏中，玩家可以在外交界面选择自己国家的内政方针（国策），不过值得注意的是，一年只能对一方面进行值为1的调整。打开[f12控制板输入](https://zh.wikipedia.org/wiki/f12控制板 "wikilink")“freedom”即可自由调整国策，再次输入一次“freedom”即可关闭自由调整。国策调整必须依照选定国家的意识形态来调整，否则不能得到最优的效果。国策的双方都各有好处，也各有缺点，需要玩家灵活调整。有时，调整国策会修改国家元首，比如德国的民主值过高则会使兴登堡再次上台。另外，一些国家的某项国策不能拉到底，比如独裁国家不能过于民主等等。 内政方针有一下几点：
 
   - [民主制度](https://zh.wikipedia.org/wiki/民主制度 "wikilink")/[独裁制度](https://zh.wikipedia.org/wiki/独裁制度 "wikilink")
   - [左翼](https://zh.wikipedia.org/wiki/左翼 "wikilink")/[右翼](https://zh.wikipedia.org/wiki/右翼 "wikilink")
@@ -33,7 +26,7 @@ Doomsday)，加入了[第三次世界大战剧情及编辑器](https://zh.wikipe
 
 玩家作为国家的元首，可以自由更换部长。部长一般都有某项加成，这需要玩家自己掌握。有内阁成员国家元首、政府首脑、外交部长、军械部长、安全部长、情报部长、参谋总长、陆军司令、海军司令和空军司令等。
 
-国家意识形态有[国家社会主义](../Page/国家社会主义.md "wikilink")、[法西斯主义](../Page/法西斯主义.md "wikilink")、[独裁主义](https://zh.wikipedia.org/wiki/独裁主义 "wikilink")、[左翼激进主义](https://zh.wikipedia.org/wiki/左翼激进主义 "wikilink")、[列宁主义](../Page/列宁主义.md "wikilink")、[斯大林主义](../Page/斯大林主义.md "wikilink")、[社会保守主义](../Page/社会保守主义.md "wikilink")、[贸易自由主义](https://zh.wikipedia.org/wiki/贸易自由主义 "wikilink")、[社会自由主义和](../Page/社会自由主义.md "wikilink")[社会民主主义](https://zh.wikipedia.org/wiki/社会民主主义 "wikilink")。某些过于民主的主义不能够加入任何一军事联盟，除非有足够高的战争倾向，例如芬兰等。
+国家意识形态有[国家社会主义](../Page/国家社会主义.md "wikilink")、[法西斯主义](../Page/法西斯主义.md "wikilink")、[独裁主义](https://zh.wikipedia.org/wiki/独裁主义 "wikilink")、[左翼激进主义](https://zh.wikipedia.org/wiki/左翼激进主义 "wikilink")、[列宁主义](../Page/列宁主义.md "wikilink")、[斯大林主义](../Page/斯大林主义.md "wikilink")、[社会保守主义](../Page/社会保守主义.md "wikilink")、[贸易自由主义](https://zh.wikipedia.org/wiki/贸易自由主义 "wikilink")、[社会自由主义](../Page/社会自由主义.md "wikilink")和[社会民主主义](https://zh.wikipedia.org/wiki/社会民主主义 "wikilink")。某些过于民主的主义不能够加入任何一军事联盟，除非有足够高的战争倾向，例如芬兰等。
 
 [minofROC.png](https://zh.wikipedia.org/wiki/File:minofROC.png "fig:minofROC.png")
 
@@ -127,7 +120,7 @@ Doomsday)，加入了[第三次世界大战剧情及编辑器](https://zh.wikipe
 
 #### 空军
 
-空军单位包扩[战略轰炸机](../Page/战略轰炸机.md "wikilink")、[战术轰炸机](https://zh.wikipedia.org/wiki/战术轰炸机 "wikilink")、[俯冲攻击机](https://zh.wikipedia.org/wiki/俯冲攻击机 "wikilink")、[海军轰炸机](https://zh.wikipedia.org/wiki/海军轰炸机 "wikilink")、[护航机](https://zh.wikipedia.org/wiki/护航机 "wikilink")（挂载）、[拦截机](https://zh.wikipedia.org/wiki/拦截机 "wikilink")、[战斗机和运输机等](../Page/战斗机.md "wikilink")。这些战机能够执行不同的任务，包括：夺取制空权、攻击补给线、战略轰炸、攻击舰艇、空中协同攻击和袭击运输舰等。
+空军单位包扩[战略轰炸机](../Page/战略轰炸机.md "wikilink")、[战术轰炸机](https://zh.wikipedia.org/wiki/战术轰炸机 "wikilink")、[俯冲攻击机](https://zh.wikipedia.org/wiki/俯冲攻击机 "wikilink")、[海军轰炸机](https://zh.wikipedia.org/wiki/海军轰炸机 "wikilink")、[护航机](https://zh.wikipedia.org/wiki/护航机 "wikilink")（挂载）、[拦截机](https://zh.wikipedia.org/wiki/拦截机 "wikilink")、[战斗机](../Page/战斗机.md "wikilink")和运输机等。这些战机能够执行不同的任务，包括：夺取制空权、攻击补给线、战略轰炸、攻击舰艇、空中协同攻击和袭击运输舰等。
 
 在研发出核能后，玩家可以使用核武器攻击对手。核弹载具为飞弹或者战略轰炸机。战略轰炸机需要组织度全满，但飞弹不需要。
 
@@ -223,10 +216,9 @@ Doomsday)，加入了[第三次世界大战剧情及编辑器](https://zh.wikipe
 
 ## 争议和审查
 
-游戏中，德国国旗为1918年停用的[德意志帝國國旗](https://zh.wikipedia.org/wiki/:File:Flag_of_the_German_Empire.svg "wikilink")，而非纳粹[逆萬字旗](https://zh.wikipedia.org/wiki/:File:Flag_of_Germany_1933.svg "wikilink")。这可以解释为德国政府禁止公开展示逆万字旗。此外，尽管德国没有相关的法律，但在德语游戏中，如[阿道夫·希特勒](https://zh.wikipedia.org/wiki/阿道夫·希特勒 "wikilink")、[赫尔曼·戈林](../Page/赫尔曼·戈林.md "wikilink")、[海因里希·希姆莱等的照片都遭移除](../Page/海因里希·希姆莱.md "wikilink")，他们的名字也遭到修改。
+游戏中，德国国旗为1918年停用的[德意志帝國國旗](https://zh.wikipedia.org/wiki/:File:Flag_of_the_German_Empire.svg "wikilink")，而非纳粹[逆萬字旗](https://zh.wikipedia.org/wiki/:File:Flag_of_Germany_1933.svg "wikilink")。这可以解释为德国政府禁止公开展示逆万字旗。此外，尽管德国没有相关的法律，但在德语游戏中，如[阿道夫·希特勒](https://zh.wikipedia.org/wiki/阿道夫·希特勒 "wikilink")、[赫尔曼·戈林](../Page/赫尔曼·戈林.md "wikilink")、[海因里希·希姆莱](../Page/海因里希·希姆莱.md "wikilink")等的照片都遭移除，他们的名字也遭到修改。
 
-游戏中，可以非直接的创立党卫军。当德国生产机步师、装甲师和摩步师时，有時候会自动命名为“'数字' SS division”。（注：SS 即
-Schutzstaffel 缩写，意即党卫军。）
+游戏中，可以非直接的创立党卫军。当德国生产机步师、装甲师和摩步师时，有時候会自动命名为“'数字' SS division”。（注：SS 即 Schutzstaffel 缩写，意即党卫军。）
 
 ## 版本
 
@@ -240,20 +232,9 @@ Schutzstaffel 缩写，意即党卫军。）
 ## 外部链接
 
   - [Paradox Entertainment](http://www.paradoxplaza.com/)
-  - [Hearts of Iron 2
-    demo](https://web.archive.org/web/20080219033343/http://www.gamershell.com/download_7840.shtml)
-  - [Hearts of Iron 2
-    Wiki](http://www.paradoxian.org/hoi2wiki/index.php/Main_Page)
-  - [N Gaming
-    review](https://web.archive.org/web/20070505000615/http://www.ngaming.co.uk/game-review/67/)
-  - [Mac OS X
-    version](http://www.vpltd.com/index.php?main_page=product_info&products_id=202)
+  - [Hearts of Iron 2 demo](https://web.archive.org/web/20080219033343/http://www.gamershell.com/download_7840.shtml)
+  - [Hearts of Iron 2 Wiki](http://www.paradoxian.org/hoi2wiki/index.php/Main_Page)
+  - [N Gaming review](https://web.archive.org/web/20070505000615/http://www.ngaming.co.uk/game-review/67/)
+  - [Mac OS X version](http://www.vpltd.com/index.php?main_page=product_info&products_id=202)
 
-[Category:2005年电子游戏](https://zh.wikipedia.org/wiki/Category:2005年电子游戏 "wikilink")
-[Category:即时战略游戏](https://zh.wikipedia.org/wiki/Category:即时战略游戏 "wikilink")
-[Category:Paradox_Interactive游戏](https://zh.wikipedia.org/wiki/Category:Paradox_Interactive游戏 "wikilink")
-[Category:MacOS遊戲](https://zh.wikipedia.org/wiki/Category:MacOS遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:二战题材电子游戏](https://zh.wikipedia.org/wiki/Category:二战题材电子游戏 "wikilink")
-[Category:冷战游戏](https://zh.wikipedia.org/wiki/Category:冷战游戏 "wikilink")
-[Category:有资料片的游戏](https://zh.wikipedia.org/wiki/Category:有资料片的游戏 "wikilink")
+[Category:2005年电子游戏](https://zh.wikipedia.org/wiki/Category:2005年电子游戏 "wikilink") [Category:即时战略游戏](https://zh.wikipedia.org/wiki/Category:即时战略游戏 "wikilink") [Category:Paradox_Interactive游戏](https://zh.wikipedia.org/wiki/Category:Paradox_Interactive游戏 "wikilink") [Category:MacOS遊戲](https://zh.wikipedia.org/wiki/Category:MacOS遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:二战题材电子游戏](https://zh.wikipedia.org/wiki/Category:二战题材电子游戏 "wikilink") [Category:冷战游戏](https://zh.wikipedia.org/wiki/Category:冷战游戏 "wikilink") [Category:有资料片的游戏](https://zh.wikipedia.org/wiki/Category:有资料片的游戏 "wikilink")

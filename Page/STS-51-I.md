@@ -8,8 +8,4 @@
   - **[约翰·朗治](https://zh.wikipedia.org/wiki/约翰·朗治 "wikilink")**（，曾执行、以及任务），任务专家
   - **[威廉·菲舍尔](https://zh.wikipedia.org/wiki/威廉·菲舍尔 "wikilink")**（，曾执行任务），任务专家
 
-[Category:1985年科學](https://zh.wikipedia.org/wiki/Category:1985年科學 "wikilink")
-[Category:1985年佛罗里达州](https://zh.wikipedia.org/wiki/Category:1985年佛罗里达州 "wikilink")
-[Category:发现号航天飞机任务](https://zh.wikipedia.org/wiki/Category:发现号航天飞机任务 "wikilink")
-[Category:1985年8月](https://zh.wikipedia.org/wiki/Category:1985年8月 "wikilink")
-[Category:1985年9月](https://zh.wikipedia.org/wiki/Category:1985年9月 "wikilink")
+[Category:1985年科學](https://zh.wikipedia.org/wiki/Category:1985年科學 "wikilink") [Category:1985年佛罗里达州](https://zh.wikipedia.org/wiki/Category:1985年佛罗里达州 "wikilink") [Category:发现号航天飞机任务](https://zh.wikipedia.org/wiki/Category:发现号航天飞机任务 "wikilink") [Category:1985年8月](https://zh.wikipedia.org/wiki/Category:1985年8月 "wikilink") [Category:1985年9月](https://zh.wikipedia.org/wiki/Category:1985年9月 "wikilink")

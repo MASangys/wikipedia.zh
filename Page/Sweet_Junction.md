@@ -1,5 +1,4 @@
-**Sweet
-Junction**（）是[日本的](../Page/日本.md "wikilink")[廣播節目](https://zh.wikipedia.org/wiki/廣播 "wikilink")，從2004年10月開始播出。由[日本](../Page/日本.md "wikilink")[男性](../Page/男性.md "wikilink")[聲優的](../Page/聲優.md "wikilink")[森久保祥太郎](../Page/森久保祥太郎.md "wikilink")、[杉田智和](../Page/杉田智和.md "wikilink")、[森田成一共同主持](../Page/森田成一.md "wikilink")。
+**Sweet Junction**（）是[日本](../Page/日本.md "wikilink")的[廣播節目](https://zh.wikipedia.org/wiki/廣播 "wikilink")，從2004年10月開始播出。由[日本](../Page/日本.md "wikilink")[男性](../Page/男性.md "wikilink")[聲優](../Page/聲優.md "wikilink")的[森久保祥太郎](../Page/森久保祥太郎.md "wikilink")、[杉田智和](../Page/杉田智和.md "wikilink")、[森田成一](../Page/森田成一.md "wikilink")共同主持。
 
 ## 播出時間
 
@@ -36,5 +35,4 @@ Junction**（）是[日本的](../Page/日本.md "wikilink")[廣播節目](https
 
   - [Sweet Junction節目官方網頁（日文）](http://vstation.net/sj/)
 
-[Category:日本廣播節目](https://zh.wikipedia.org/wiki/Category:日本廣播節目 "wikilink")
-[Category:動畫廣播](https://zh.wikipedia.org/wiki/Category:動畫廣播 "wikilink")
+[Category:日本廣播節目](https://zh.wikipedia.org/wiki/Category:日本廣播節目 "wikilink") [Category:動畫廣播](https://zh.wikipedia.org/wiki/Category:動畫廣播 "wikilink")

@@ -1,6 +1,4 @@
-《**裝甲姬 Baldr Fist**》是[戲畫TEAM](../Page/戲畫_\(遊戲品牌\).md "wikilink")
-BALDRHEAD小組製作的[十八禁](https://zh.wikipedia.org/wiki/十八禁遊戲 "wikilink")[戀愛冒險](../Page/戀愛遊戲.md "wikilink")+[動作遊戲](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")，「[BALDR系列](https://zh.wikipedia.org/wiki/戲畫_\(遊戲品牌\)#BALDR系列 "wikilink")」的第二作，世界觀的設定是上一作《[BALDRHEAD
-武裝金融外傳](../Page/BALDRHEAD_武裝金融外傳.md "wikilink")》的兩年前。於1999年12月10日發售，使用平台是[個人電腦](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")。
+《**裝甲姬 Baldr Fist**》是[戲畫TEAM](../Page/戲畫_\(遊戲品牌\).md "wikilink") BALDRHEAD小組製作的[十八禁](https://zh.wikipedia.org/wiki/十八禁遊戲 "wikilink")[戀愛冒險](../Page/戀愛遊戲.md "wikilink")+[動作遊戲](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")，「[BALDR系列](https://zh.wikipedia.org/wiki/戲畫_\(遊戲品牌\)#BALDR系列 "wikilink")」的第二作，世界觀的設定是上一作《[BALDRHEAD 武裝金融外傳](../Page/BALDRHEAD_武裝金融外傳.md "wikilink")》的兩年前。於1999年12月10日發售，使用平台是[個人電腦](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")。
 
 動作遊戲系統方面，在當年的十八禁遊戲算是上作，但故事劇本被批評為十分薄弱。
 
@@ -46,12 +44,6 @@ BALDRHEAD小組製作的[十八禁](https://zh.wikipedia.org/wiki/十八禁遊�
 
   - [戯画](http://www.web-giga.com/top/top.html)（年齡限制）
 
-  - [Getchu.com 作品紹介 裝甲姬 Baldr
-    Fist](http://www.getchu.com/soft.phtml?id=1063)
+  - [Getchu.com 作品紹介 裝甲姬 Baldr Fist](http://www.getchu.com/soft.phtml?id=1063)
 
-[Category:1999年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:1999年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:動作遊戲](https://zh.wikipedia.org/wiki/Category:動作遊戲 "wikilink")
-[Category:BALDR系列](https://zh.wikipedia.org/wiki/Category:BALDR系列 "wikilink")
-[Category:等距視角遊戲](https://zh.wikipedia.org/wiki/Category:等距視角遊戲 "wikilink")
+[Category:1999年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:1999年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:動作遊戲](https://zh.wikipedia.org/wiki/Category:動作遊戲 "wikilink") [Category:BALDR系列](https://zh.wikipedia.org/wiki/Category:BALDR系列 "wikilink") [Category:等距視角遊戲](https://zh.wikipedia.org/wiki/Category:等距視角遊戲 "wikilink")

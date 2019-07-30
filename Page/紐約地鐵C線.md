@@ -1,8 +1,8 @@
-**C線第八大道慢車**（），又稱**紐約地鐵C線**，是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")的一條[地鐵](../Page/地鐵.md "wikilink")，全長19英哩\[1\]。由於該線使用[IND第八大道線通過](https://zh.wikipedia.org/wiki/IND第八大道線 "wikilink")[曼哈頓主要地區](../Page/曼哈頓.md "wikilink")，因此其路線徽號為藍色\[2\]。
+**C線第八大道慢車**（），又稱**紐約地鐵C線**，是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")的一條[地鐵](../Page/地鐵.md "wikilink")，全長19英哩\[1\]。由於該線使用[IND第八大道線通過](https://zh.wikipedia.org/wiki/IND第八大道線 "wikilink")[曼哈頓](../Page/曼哈頓.md "wikilink")主要地區，因此其路線徽號為藍色\[2\]。
 
 C線列車除深夜外任何時候都營運，來往[華盛頓高地的](https://zh.wikipedia.org/wiki/華盛頓高地_\(曼哈頓\) "wikilink")[168街與](https://zh.wikipedia.org/wiki/168街車站_\(IND第八大道線\) "wikilink")的[尤克利德大道](https://zh.wikipedia.org/wiki/尤克利德大道車站_\(IND福爾頓街線\) "wikilink")，停靠沿線全部車站。在深夜時段，日間時以快車營運的[A線列車以慢車營運整條C線](../Page/紐約地鐵A線.md "wikilink")，停靠所有車站。
 
-C線繁忙時段列車過去以慢車營運[IND匯集線往](../Page/IND匯集線.md "wikilink")[布朗克斯的](../Page/布朗克斯.md "wikilink")[貝德福德公園林蔭路與皇后區](https://zh.wikipedia.org/wiki/貝德福德公園林蔭路車站_\(IND匯集線\) "wikilink")[洛克威公園-海灘116街](https://zh.wikipedia.org/wiki/洛克威公園-海灘116街車站_\(IND洛克威線\) "wikilink")。
+C線繁忙時段列車過去以慢車營運[IND匯集線](../Page/IND匯集線.md "wikilink")往[布朗克斯](../Page/布朗克斯.md "wikilink")的[貝德福德公園林蔭路與皇后區](https://zh.wikipedia.org/wiki/貝德福德公園林蔭路車站_\(IND匯集線\) "wikilink")[洛克威公園-海灘116街](https://zh.wikipedia.org/wiki/洛克威公園-海灘116街車站_\(IND洛克威線\) "wikilink")。
 
 <div class="thumb tright" style="width:auto;">
 
@@ -252,7 +252,7 @@ C線與CC線列車自1933年7月1日開始營運於新的[IND匯集線](../Page/
 <td></td>
 <td></td>
 <td><p><br />
-<a href="../Page/美鐵.md" title="wikilink">美鐵</a>、<a href="../Page/長島鐵路.md" title="wikilink">長島鐵路及</a><a href="https://zh.wikipedia.org/wiki/新澤西通勤鐵路" title="wikilink">新澤西交通</a>，<a href="https://zh.wikipedia.org/wiki/賓夕法尼亞車站_(紐約市)" title="wikilink">賓州車站</a></p></td>
+<a href="../Page/美鐵.md" title="wikilink">美鐵</a>、<a href="../Page/長島鐵路.md" title="wikilink">長島鐵路</a>及<a href="https://zh.wikipedia.org/wiki/新澤西通勤鐵路" title="wikilink">新澤西交通</a>，<a href="https://zh.wikipedia.org/wiki/賓夕法尼亞車站_(紐約市)" title="wikilink">賓州車站</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -475,11 +475,9 @@ C線與CC線列車自1933年7月1日開始營運於新的[IND匯集線](../Page/
 
 ## 外部連結
 
-  - [MTA NYC Transit -
-    路線介紹](https://web.archive.org/web/20061022175312/http://mta.info/nyct/service/cline.htm)
+  - [MTA NYC Transit - 路線介紹](https://web.archive.org/web/20061022175312/http://mta.info/nyct/service/cline.htm)
   - [C線歷史](https://web.archive.org/web/20011202055509/http://members.aol.com/bdmnqr2/linehistory.html)
-  - [MTA NYC Transit -
-    C線時刻表（PDF）](https://web.archive.org/web/20060921231502/http://www.mta.info/nyct/service/pdf/tccur.pdf)
+  - [MTA NYC Transit - C線時刻表（PDF）](https://web.archive.org/web/20060921231502/http://www.mta.info/nyct/service/pdf/tccur.pdf)
 
 [Category:紐約地鐵服務路線](https://zh.wikipedia.org/wiki/Category:紐約地鐵服務路線 "wikilink")
 

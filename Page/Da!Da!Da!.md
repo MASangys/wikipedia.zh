@@ -1,4 +1,4 @@
-《**Da\!Da\!Da\!**》（）是[日本漫畫家](https://zh.wikipedia.org/wiki/日本漫畫家 "wikilink")[川村美香所創作的](https://zh.wikipedia.org/wiki/川村美香 "wikilink")[日本](../Page/日本.md "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，後來被改編為[電視動畫](../Page/日本電視動畫.md "wikilink")，自2000年至2002年在日本[NHK衛星第2頻道首播](https://zh.wikipedia.org/wiki/NHK衛星第2頻道 "wikilink")，共78集。香港[無綫電視播映版本定名為](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")-{《**外星BB撞地球**》}-，[Animax播映版本定名為](../Page/Animax.md "wikilink")《**外星人寶寶**》；台灣[普威爾代理定名為](https://zh.wikipedia.org/wiki/普威爾 "wikilink")-{《**幽浮寶貝**》}-，[東森幼幼台和](../Page/東森幼幼台.md "wikilink")[迪士尼頻道播放時沿用之](../Page/迪士尼頻道.md "wikilink")。其漫畫的續集是《新-{Da\!Da\!Da\!}-》。
+《**Da\!Da\!Da\!**》（）是[日本漫畫家](https://zh.wikipedia.org/wiki/日本漫畫家 "wikilink")[川村美香所創作的](https://zh.wikipedia.org/wiki/川村美香 "wikilink")[日本](../Page/日本.md "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，後來被改編為[電視動畫](../Page/日本電視動畫.md "wikilink")，自2000年至2002年在日本[NHK衛星第2頻道首播](https://zh.wikipedia.org/wiki/NHK衛星第2頻道 "wikilink")，共78集。香港[無綫電視播映版本定名為](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")-{《**外星BB撞地球**》}-，[Animax](../Page/Animax.md "wikilink")播映版本定名為《**外星人寶寶**》；台灣[普威爾代理定名為](https://zh.wikipedia.org/wiki/普威爾 "wikilink")-{《**幽浮寶貝**》}-，[東森幼幼台](../Page/東森幼幼台.md "wikilink")和[迪士尼頻道](../Page/迪士尼頻道.md "wikilink")播放時沿用之。其漫畫的續集是《新-{Da\!Da\!Da\!}-》。
 
 ## 故事簡介
 
@@ -264,8 +264,7 @@
   - 音響監督 - 中野徹
   - 動畫製作人 - [松倉友二](../Page/松倉友二.md "wikilink")、佐藤孝
   - 製作人 - 近藤榮三
-  - 動畫製作 -
-    [J.C.STAFF](https://zh.wikipedia.org/wiki/J.C.STAFF "wikilink")
+  - 動畫製作 - [J.C.STAFF](https://zh.wikipedia.org/wiki/J.C.STAFF "wikilink")
   - 共同制作 -
   - 制作・著作 - [NHK](https://zh.wikipedia.org/wiki/日本放送協會 "wikilink")
 
@@ -317,8 +316,7 @@
   -
 
       -
-        作詞：[傅珮嘉](../Page/傅珮嘉.md "wikilink") / 作曲：Toshio Masuda /
-        編曲：Billy Chan / 主唱：[黃伊汶](../Page/黃伊汶.md "wikilink")
+        作詞：[傅珮嘉](../Page/傅珮嘉.md "wikilink") / 作曲：Toshio Masuda / 編曲：Billy Chan / 主唱：[黃伊汶](../Page/黃伊汶.md "wikilink")
         註：香港版播放第二期動畫時有部份集數沿用第二期的日語原版片頭曲。
 
   - 片尾曲
@@ -800,17 +798,4 @@
   - [NHK官方網站](https://web.archive.org/web/20080626094540/http://www3.nhk.or.jp/anime/daa/)
   - [迪士尼頻道官方網站](http://www.disneychannel.com.tw/)
 
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:講談社](https://zh.wikipedia.org/wiki/Category:講談社 "wikilink")
-[Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink")
-[Category:少女漫畫](https://zh.wikipedia.org/wiki/Category:少女漫畫 "wikilink")
-[Category:Nakayoshi](https://zh.wikipedia.org/wiki/Category:Nakayoshi "wikilink")
-[Category:人與外星生物接觸題材作品](https://zh.wikipedia.org/wiki/Category:人與外星生物接觸題材作品 "wikilink")
-[Category:育兒題材作品](https://zh.wikipedia.org/wiki/Category:育兒題材作品 "wikilink")
-[Category:2000年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2000年日本電視動畫 "wikilink")
-[Category:台灣迪士尼外購動畫](https://zh.wikipedia.org/wiki/Category:台灣迪士尼外購動畫 "wikilink")
-[Category:衛星動畫劇場](https://zh.wikipedia.org/wiki/Category:衛星動畫劇場 "wikilink")
-[Category:Game_Boy遊戲](https://zh.wikipedia.org/wiki/Category:Game_Boy遊戲 "wikilink")
-[Category:2000年电子游戏](https://zh.wikipedia.org/wiki/Category:2000年电子游戏 "wikilink")
-[Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
-[Category:東森電視外購動畫](https://zh.wikipedia.org/wiki/Category:東森電視外購動畫 "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:講談社](https://zh.wikipedia.org/wiki/Category:講談社 "wikilink") [Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink") [Category:少女漫畫](https://zh.wikipedia.org/wiki/Category:少女漫畫 "wikilink") [Category:Nakayoshi](https://zh.wikipedia.org/wiki/Category:Nakayoshi "wikilink") [Category:人與外星生物接觸題材作品](https://zh.wikipedia.org/wiki/Category:人與外星生物接觸題材作品 "wikilink") [Category:育兒題材作品](https://zh.wikipedia.org/wiki/Category:育兒題材作品 "wikilink") [Category:2000年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2000年日本電視動畫 "wikilink") [Category:台灣迪士尼外購動畫](https://zh.wikipedia.org/wiki/Category:台灣迪士尼外購動畫 "wikilink") [Category:衛星動畫劇場](https://zh.wikipedia.org/wiki/Category:衛星動畫劇場 "wikilink") [Category:Game_Boy遊戲](https://zh.wikipedia.org/wiki/Category:Game_Boy遊戲 "wikilink") [Category:2000年电子游戏](https://zh.wikipedia.org/wiki/Category:2000年电子游戏 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink") [Category:東森電視外購動畫](https://zh.wikipedia.org/wiki/Category:東森電視外購動畫 "wikilink")

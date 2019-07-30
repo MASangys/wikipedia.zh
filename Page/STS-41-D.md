@@ -9,8 +9,4 @@
   - **[理查德·穆莱恩](../Page/理查德·穆莱恩.md "wikilink")**（，曾执行、以及任务），任务专家
   - **[查尔斯·沃克](https://zh.wikipedia.org/wiki/查尔斯·沃克 "wikilink")**（，曾执行、以及任务），有效载荷专家
 
-[Category:1984年美国](https://zh.wikipedia.org/wiki/Category:1984年美国 "wikilink")
-[Category:1984年科學](https://zh.wikipedia.org/wiki/Category:1984年科學 "wikilink")
-[Category:发现号航天飞机任务](https://zh.wikipedia.org/wiki/Category:发现号航天飞机任务 "wikilink")
-[Category:1984年8月](https://zh.wikipedia.org/wiki/Category:1984年8月 "wikilink")
-[Category:1984年9月](https://zh.wikipedia.org/wiki/Category:1984年9月 "wikilink")
+[Category:1984年美国](https://zh.wikipedia.org/wiki/Category:1984年美国 "wikilink") [Category:1984年科學](https://zh.wikipedia.org/wiki/Category:1984年科學 "wikilink") [Category:发现号航天飞机任务](https://zh.wikipedia.org/wiki/Category:发现号航天飞机任务 "wikilink") [Category:1984年8月](https://zh.wikipedia.org/wiki/Category:1984年8月 "wikilink") [Category:1984年9月](https://zh.wikipedia.org/wiki/Category:1984年9月 "wikilink")

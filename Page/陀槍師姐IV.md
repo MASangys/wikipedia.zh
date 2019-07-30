@@ -1,4 +1,4 @@
-《**陀槍師姐IV**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司製作的時裝警匪](../Page/電視廣播有限公司.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，全劇共40集，由[歐陽震華](../Page/歐陽震華.md "wikilink")、[蔡少芬](../Page/蔡少芬.md "wikilink")、[魏駿傑](../Page/魏駿傑.md "wikilink")、[滕麗名](../Page/滕麗名.md "wikilink")、[林文龍及](../Page/林文龍.md "wikilink")[蒙嘉慧領銜主演](../Page/蒙嘉慧.md "wikilink")，監製[鄺業生](../Page/鄺業生.md "wikilink")。此劇為《[陀槍師姐](../Page/陀槍師姐.md "wikilink")》系列第4輯。
+《**陀槍師姐IV**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")製作的時裝警匪[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，全劇共40集，由[歐陽震華](../Page/歐陽震華.md "wikilink")、[蔡少芬](../Page/蔡少芬.md "wikilink")、[魏駿傑](../Page/魏駿傑.md "wikilink")、[滕麗名](../Page/滕麗名.md "wikilink")、[林文龍](../Page/林文龍.md "wikilink")及[蒙嘉慧](../Page/蒙嘉慧.md "wikilink")領銜主演，監製[鄺業生](../Page/鄺業生.md "wikilink")。此劇為《[陀槍師姐](../Page/陀槍師姐.md "wikilink")》系列第4輯。
 
 ## 演員表
 
@@ -538,7 +538,7 @@
 <tr class="even">
 <td><p><a href="../Page/蔡康年.md" title="wikilink">蔡康年</a></p></td>
 <td><p>陳志聰</p></td>
-<td><p><a href="../Page/陀槍師姐III.md" title="wikilink">陀槍師姐III中的</a>「新牌仔」<br />
+<td><p><a href="../Page/陀槍師姐III.md" title="wikilink">陀槍師姐III</a>中的「新牌仔」<br />
 电单车杀手<br />
 識飲識食雜誌記者<br />
 患有<a href="https://zh.wikipedia.org/wiki/多重人格" title="wikilink">多重人格</a>，有15种人格，大B、奀仔、阿Sam、珠女为其的人格<br />
@@ -1288,7 +1288,7 @@
 
 ## 收視
 
-以下為本劇於[香港](../Page/香港.md "wikilink")[無綫電視](../Page/電視廣播有限公司.md "wikilink")[翡翠台之收視紀錄](../Page/翡翠台.md "wikilink")：
+以下為本劇於[香港](../Page/香港.md "wikilink")[無綫電視](../Page/電視廣播有限公司.md "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")之收視紀錄：
 
 |        |        |                  |                                                     |                                                     |
 | ------ | ------ | ---------------- | --------------------------------------------------- | --------------------------------------------------- |
@@ -1329,17 +1329,12 @@
 
 ## 外部連結
 
-  - [無綫電視官方網頁 -
-    陀槍師姐IV](https://web.archive.org/web/20140407221053/http://tvcity.tvb.com/drama/armed4/story/index.html)
-  - [《陀槍師姐IV》 GOTV
-    第1集重溫](https://web.archive.org/web/20140222162310/http://gotv.tvb.com/programme/103220/153693/)
+  - [無綫電視官方網頁 - 陀槍師姐IV](https://web.archive.org/web/20140407221053/http://tvcity.tvb.com/drama/armed4/story/index.html)
+  - [《陀槍師姐IV》 GOTV 第1集重溫](https://web.archive.org/web/20140222162310/http://gotv.tvb.com/programme/103220/153693/)
+  - [《陀槍師姐IV》 encoreTVB](https://encoretvb.com/cantonese/series/46hKxtHl-Armed_Reaction_IV)
 
 ## 電視節目的變遷
 
 [分類:香港交通部題材作品](https://zh.wikipedia.org/wiki/分類:香港交通部題材作品 "wikilink")
 
-[Category:2004年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:2004年無綫電視劇集 "wikilink")
-[Category:陀槍師姐系列](https://zh.wikipedia.org/wiki/Category:陀槍師姐系列 "wikilink")
-[Category:無綫電視2000年代背景劇集](https://zh.wikipedia.org/wiki/Category:無綫電視2000年代背景劇集 "wikilink")
-[Category:電視劇續集](https://zh.wikipedia.org/wiki/Category:電視劇續集 "wikilink")
-[Category:多重人格題材電視劇](https://zh.wikipedia.org/wiki/Category:多重人格題材電視劇 "wikilink")
+[Category:2004年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:2004年無綫電視劇集 "wikilink") [Category:陀槍師姐系列](https://zh.wikipedia.org/wiki/Category:陀槍師姐系列 "wikilink") [Category:無綫電視2000年代背景劇集](https://zh.wikipedia.org/wiki/Category:無綫電視2000年代背景劇集 "wikilink") [Category:電視劇續集](https://zh.wikipedia.org/wiki/Category:電視劇續集 "wikilink") [Category:多重人格題材電視劇](https://zh.wikipedia.org/wiki/Category:多重人格題材電視劇 "wikilink")

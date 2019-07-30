@@ -1,6 +1,6 @@
-《**洗冤錄II**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司拍攝製作的古裝](../Page/電視廣播有限公司.md "wikilink")[劇集](https://zh.wikipedia.org/wiki/劇集 "wikilink")，全劇共22集，由[歐陽震華及](../Page/歐陽震華.md "wikilink")[佘詩曼領銜主演](https://zh.wikipedia.org/wiki/佘詩曼 "wikilink")，監製[蕭顯輝](../Page/蕭顯輝.md "wikilink")，此劇為《[洗冤錄系列](https://zh.wikipedia.org/wiki/洗冤錄_\(系列\) "wikilink")》第二輯。
+《**洗冤錄II**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")拍攝製作的古裝[劇集](https://zh.wikipedia.org/wiki/劇集 "wikilink")，全劇共22集，由[歐陽震華](../Page/歐陽震華.md "wikilink")及[佘詩曼領銜主演](https://zh.wikipedia.org/wiki/佘詩曼 "wikilink")，監製[蕭顯輝](../Page/蕭顯輝.md "wikilink")，此劇為《[洗冤錄系列](https://zh.wikipedia.org/wiki/洗冤錄_\(系列\) "wikilink")》第二輯。
 
-此劇根據[南宋名人](../Page/南宋.md "wikilink")[宋慈所著的法醫學題材書籍](../Page/宋慈.md "wikilink")《[洗冤集录](../Page/洗冤集录.md "wikilink")》為基礎，再把著作改編劇集，然後進行拍攝製作。
+此劇根據[南宋](../Page/南宋.md "wikilink")名人[宋慈](../Page/宋慈.md "wikilink")所著的法醫學題材書籍《[洗冤集录](../Page/洗冤集录.md "wikilink")》為基礎，再把著作改編劇集，然後進行拍攝製作。
 
 ## 演員表
 
@@ -22,7 +22,7 @@
 <td><p><strong><a href="../Page/歐陽震華.md" title="wikilink">歐陽震華</a></strong></p></td>
 <td><p><strong><a href="../Page/宋慈.md" title="wikilink">宋　慈</a></strong></p></td>
 <td><p>化名<strong>管才（棺材仔）</strong><br />
-<a href="../Page/衙門.md" title="wikilink">衙門提點刑獄司</a>（四品）<br />
+<a href="../Page/衙門.md" title="wikilink">衙門</a>提點刑獄司（四品）<br />
 唐思、聶楓之夫<br />
 阮玉珠之夫<br />
 鄒子龍之師傅<br />
@@ -37,26 +37,26 @@
 <a href="../Page/衙門.md" title="wikilink">衙門</a><a href="../Page/仵作.md" title="wikilink">仵作</a>→司理參軍<br />
 暗戀阮玉寶、阮玉珠<br />
 楊丹鳳之男友<br />
-于第19集被紫霞<a href="https://zh.wikipedia.org/wiki/郡主" title="wikilink">郡主</a>、高雲軒升為司理參軍，並被二人利用對付<a href="../Page/宋慈.md" title="wikilink">宋慈</a>，後棄暗投明幫<a href="../Page/宋慈.md" title="wikilink">宋慈翻案</a></p></td>
+于第19集被紫霞<a href="https://zh.wikipedia.org/wiki/郡主" title="wikilink">郡主</a>、高雲軒升為司理參軍，並被二人利用對付<a href="../Page/宋慈.md" title="wikilink">宋慈</a>，後棄暗投明幫<a href="../Page/宋慈.md" title="wikilink">宋慈</a>翻案</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/羅樂林.md" title="wikilink">羅樂林</a></p></td>
 <td><p><strong>展　堅</strong></p></td>
-<td><p><a href="../Page/衙門.md" title="wikilink">衙門捕頭</a><br />
+<td><p><a href="../Page/衙門.md" title="wikilink">衙門</a>捕頭<br />
 展傑之父</p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="../Page/蔡子健.md" title="wikilink">蔡子健</a></strong></p></td>
 <td><p><strong>展　傑</strong></p></td>
 <td><p>傑少<br />
-<a href="../Page/衙門.md" title="wikilink">衙門捕快</a><br />
+<a href="../Page/衙門.md" title="wikilink">衙門</a>捕快<br />
 展堅之四子<br />
 白如夢之男友</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/鄭家生.md" title="wikilink">鄭家生</a></p></td>
 <td><p>吳曉飛</p></td>
-<td><p><a href="../Page/衙門.md" title="wikilink">衙門捕快</a><br />
+<td><p><a href="../Page/衙門.md" title="wikilink">衙門</a>捕快<br />
 展堅手下</p></td>
 </tr>
 <tr class="even">
@@ -241,7 +241,7 @@
 <td><p><strong>趙远材</strong></p></td>
 <td><p><strong>十王爺</strong><br />
 紫霞<a href="https://zh.wikipedia.org/wiki/郡主" title="wikilink">郡主之兄</a><br />
-<a href="../Page/宋慈.md" title="wikilink">宋慈之好友</a><br />
+<a href="../Page/宋慈.md" title="wikilink">宋慈</a>之好友<br />
 參見上輯<strong><a href="../Page/洗冤錄.md" title="wikilink">洗冤錄</a></strong></p></td>
 </tr>
 <tr class="odd">
@@ -285,7 +285,7 @@
 <td><p><a href="../Page/陳安瑩.md" title="wikilink">陳安瑩</a></p></td>
 <td><p>吉　嫂</p></td>
 <td><p>阿吉之妻<br />
-於第1集因協助奶奶燒炭後被宋慈識穿，一時失控自殺以示清白</p></td>
+於第1集因協助婆婆燒炭後被宋慈識穿，一時失控自殺以示清白</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/招石文.md" title="wikilink">招石文</a></p></td>
@@ -639,7 +639,7 @@
 
 ### 香港收视
 
-以下為本劇於[香港](../Page/香港.md "wikilink")[無綫電視](../Page/電視廣播有限公司.md "wikilink")[翡翠台之收視紀錄](../Page/翡翠台.md "wikilink")：
+以下為本劇於[香港](../Page/香港.md "wikilink")[無綫電視](../Page/電視廣播有限公司.md "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")之收視紀錄：
 
 |        |        |                                                     |                                                     |
 | ------ | ------ | --------------------------------------------------- | --------------------------------------------------- |
@@ -651,7 +651,7 @@
 
 ### 广州收视
 
-以下為本劇於[香港](../Page/香港.md "wikilink")[無綫電視](../Page/電視廣播有限公司.md "wikilink")[翡翠台于广州同步播放之收視紀錄](../Page/翡翠台.md "wikilink")：
+以下為本劇於[香港](../Page/香港.md "wikilink")[無綫電視](../Page/電視廣播有限公司.md "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")于广州同步播放之收視紀錄：
 
 | 集数   | CSM省网 | CSM市网 | 双网合计      | 集数   | AGB省网 | AGB市网 | 双网合计 |
 | ---- | ----- | ----- | --------- | ---- | ----- | ----- | ---- |
@@ -677,34 +677,23 @@
 
 ## 外部連結
 
-  - [無綫電視官方網頁 -
-    洗冤錄II](https://web.archive.org/web/20070704134408/http://tvcity.tvb.com/drama/witness_prosecution2/)
-  - [《洗冤錄II》 GOTV
-    第1集重溫](https://web.archive.org/web/20140222162544/http://gotv.tvb.com/programme/103018/152837/)
+  - [無綫電視官方網頁 - 洗冤錄II](https://web.archive.org/web/20070704134408/http://tvcity.tvb.com/drama/witness_prosecution2/)
+  - [《洗冤錄II》 GOTV 第1集重溫](https://web.archive.org/web/20140222162544/http://gotv.tvb.com/programme/103018/152837/)
 
 ## 電視節目的變遷
 
 |align=center|**上一套：**
 [洗冤錄](../Page/洗冤錄.md "wikilink")
-－2007年5月19日 |align=center
-colspan="2"|**翡翠台凌晨重播劇集時段（[2007](https://zh.wikipedia.org/wiki/翡翠台電視劇集列表_\(2007年\)#凌晨劇集時段 "wikilink")）**
+－2007年5月19日 |align=center colspan="2"|**翡翠台凌晨重播劇集時段（[2007](https://zh.wikipedia.org/wiki/翡翠台電視劇集列表_\(2007年\)#凌晨劇集時段 "wikilink")）**
 **洗冤錄II**
 2007年5月22日－2007年6月20日
 00:15－01:20 |align=center|**下一套：**
 [秀才遇著兵](../Page/秀才遇著兵.md "wikilink")
 2007年6月21日－
 
-[en:Witness to a
-Prosecution](https://zh.wikipedia.org/wiki/en:Witness_to_a_Prosecution "wikilink")
+[en:Witness to a Prosecution](https://zh.wikipedia.org/wiki/en:Witness_to_a_Prosecution "wikilink")
 
-[Category:無綫電視劇集系列](https://zh.wikipedia.org/wiki/Category:無綫電視劇集系列 "wikilink")
-[Category:2003年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:2003年無綫電視劇集 "wikilink")
-[Category:無綫電視南宋背景劇集](https://zh.wikipedia.org/wiki/Category:無綫電視南宋背景劇集 "wikilink")
-[Category:無綫電視懸疑劇集](https://zh.wikipedia.org/wiki/Category:無綫電視懸疑劇集 "wikilink")
-[Category:無綫電視推理劇集](https://zh.wikipedia.org/wiki/Category:無綫電視推理劇集 "wikilink")
-[Category:冤案電視劇](https://zh.wikipedia.org/wiki/Category:冤案電視劇 "wikilink")
-[Category:電視劇續集](https://zh.wikipedia.org/wiki/Category:電視劇續集 "wikilink")
-[Category:法醫學題材電視劇](https://zh.wikipedia.org/wiki/Category:法醫學題材電視劇 "wikilink")
+[Category:無綫電視劇集系列](https://zh.wikipedia.org/wiki/Category:無綫電視劇集系列 "wikilink") [Category:2003年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:2003年無綫電視劇集 "wikilink") [Category:無綫電視南宋背景劇集](https://zh.wikipedia.org/wiki/Category:無綫電視南宋背景劇集 "wikilink") [Category:無綫電視懸疑劇集](https://zh.wikipedia.org/wiki/Category:無綫電視懸疑劇集 "wikilink") [Category:無綫電視推理劇集](https://zh.wikipedia.org/wiki/Category:無綫電視推理劇集 "wikilink") [Category:冤案電視劇](https://zh.wikipedia.org/wiki/Category:冤案電視劇 "wikilink") [Category:電視劇續集](https://zh.wikipedia.org/wiki/Category:電視劇續集 "wikilink") [Category:法醫學題材電視劇](https://zh.wikipedia.org/wiki/Category:法醫學題材電視劇 "wikilink")
 
 1.
 2.

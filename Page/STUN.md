@@ -1,6 +1,4 @@
-**STUN**（**Session Traversal Utilities for
-NAT**，NAT会话穿越应用程序）是一种[网络协议](https://zh.wikipedia.org/wiki/网络协议 "wikilink")，它允许位于[NAT](../Page/网络地址转换.md "wikilink")（或多重NAT）后的客户端找出自己的公网地址，查出自己位于哪种类型的NAT之后以及NAT为某一个本地端口所绑定的Internet端端口。这些信息被用来在两个同时处于NAT路由器之后的主机之间建立UDP通信。该协议由RFC
-5389定义。
+**STUN**（**Session Traversal Utilities for NAT**，NAT会话穿越应用程序）是一种[网络协议](https://zh.wikipedia.org/wiki/网络协议 "wikilink")，它允许位于[NAT](../Page/网络地址转换.md "wikilink")（或多重NAT）后的客户端找出自己的公网地址，查出自己位于哪种类型的NAT之后以及NAT为某一个本地端口所绑定的Internet端端口。这些信息被用来在两个同时处于NAT路由器之后的主机之间建立UDP通信。该协议由RFC 5389定义。
 
 ## 方案
 
@@ -16,8 +14,7 @@ STUN是一个[客户机－服务器协议](https://zh.wikipedia.org/wiki/客户�
 
 ## 演算法
 
-STUN使用下列的[演算法](https://zh.wikipedia.org/wiki/演算法 "wikilink")（取自RFC
-3489）來發現NAT gateways以及防火牆（firewalls）:
+STUN使用下列的[演算法](https://zh.wikipedia.org/wiki/演算法 "wikilink")（取自RFC 3489）來發現NAT gateways以及防火牆（firewalls）:
 
 [STUN_Algorithm3.svg](https://zh.wikipedia.org/wiki/File:STUN_Algorithm3.svg "fig:STUN_Algorithm3.svg")
 
@@ -31,26 +28,16 @@ STUN使用下列的[演算法](https://zh.wikipedia.org/wiki/演算法 "wikilink
 
 ## 外部链接
 
-  - RFC 3489, STUN - Simple Traversal of User Datagram Protocol (UDP)
-    Through Network Address Translators (NATs)
-  - [Latest revision (bis) to the
-    RFC](https://web.archive.org/web/20070910020339/http://ietfreport.isoc.org/idref/draft-ietf-behave-rfc3489bis/)
-    - draft-ietf-behave-rfc3489bis-09
-  - [NAT traversal White
-    Paper](http://www.newport-networks.com/whitepapers/nat-traversal1.html)
-    comparing STUN with other NAT traversal techniques such as TURN,
-    ICE, ALGs and Session Border Controllers - Source: Newport Networks
-  - [STUNT](http://nutss.gforge.cis.cornell.edu/stunt.php) - "STUN and
-    TCP too", which extends STUN to include TCP functionality
-  - [Yahoo\! - Director of Engineering explaining STUN and TURN
-    (Video)](http://www.youtube.com/watch?v=9MWYw0fltr0&eurl=http%3A%2F%2Fwww%2Evoip%2Dnews%2Ecom%2Ffeature%2Ftop%2Dvoip%2Dvideos%2D051707%2F)
+  - RFC 3489, STUN - Simple Traversal of User Datagram Protocol (UDP) Through Network Address Translators (NATs)
+  - [Latest revision (bis) to the RFC](https://web.archive.org/web/20070910020339/http://ietfreport.isoc.org/idref/draft-ietf-behave-rfc3489bis/) - draft-ietf-behave-rfc3489bis-09
+  - [NAT traversal White Paper](http://www.newport-networks.com/whitepapers/nat-traversal1.html) comparing STUN with other NAT traversal techniques such as TURN, ICE, ALGs and Session Border Controllers - Source: Newport Networks
+  - [STUNT](http://nutss.gforge.cis.cornell.edu/stunt.php) - "STUN and TCP too", which extends STUN to include TCP functionality
+  - [Yahoo\! - Director of Engineering explaining STUN and TURN (Video)](http://www.youtube.com/watch?v=9MWYw0fltr0&eurl=http%3A%2F%2Fwww%2Evoip%2Dnews%2Ecom%2Ffeature%2Ftop%2Dvoip%2Dvideos%2D051707%2F)
 
 ### 實現
 
-  - [STUN Client and Server
-    library](http://sourceforge.net/projects/stun/)
+  - [STUN Client and Server library](http://sourceforge.net/projects/stun/)
   - [JSTUN - A Java STUN implementation](http://jstun.javawi.de/)
   - [Java STUN library "stun4j"](https://stun4j.dev.java.net/)
 
-[Category:网络协议](https://zh.wikipedia.org/wiki/Category:网络协议 "wikilink")
-[Category:网络地址转换](https://zh.wikipedia.org/wiki/Category:网络地址转换 "wikilink")
+[Category:网络协议](https://zh.wikipedia.org/wiki/Category:网络协议 "wikilink") [Category:网络地址转换](https://zh.wikipedia.org/wiki/Category:网络地址转换 "wikilink")

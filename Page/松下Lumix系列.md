@@ -1,17 +1,12 @@
-[110917_Panasonic_Lumix_DMC-LC1_01s.jpg](https://zh.wikipedia.org/wiki/File:110917_Panasonic_Lumix_DMC-LC1_01s.jpg "fig:110917_Panasonic_Lumix_DMC-LC1_01s.jpg")
-[Panasonic_LUMIX_DMC-FX100_image.JPG](https://zh.wikipedia.org/wiki/File:Panasonic_LUMIX_DMC-FX100_image.JPG "fig:Panasonic_LUMIX_DMC-FX100_image.JPG")
-**Lumix**（徕美）是[Panasonic](https://zh.wikipedia.org/wiki/Panasonic "wikilink")（松下電器）的[數位相機系列](https://zh.wikipedia.org/wiki/數位相機 "wikilink")[品牌](../Page/品牌.md "wikilink")，于2001年推出\[1\]。此系列的數位相機特別之處為业内较早引入等效28mm[廣角](https://zh.wikipedia.org/wiki/廣角鏡 "wikilink")[鏡頭](../Page/鏡頭.md "wikilink")（部分機種），使用独有的MEGA
-O.I.S.镜头防抖功能、高[感光度](../Page/感光度.md "wikilink")（部份機種有「至醒」[ISO功能](https://zh.wikipedia.org/wiki/ISO "wikilink")），多數此系列的數位相機的鏡頭都是由[萊卡](https://zh.wikipedia.org/wiki/萊卡 "wikilink")（Leica）授權設計及製造。
+[110917_Panasonic_Lumix_DMC-LC1_01s.jpg](https://zh.wikipedia.org/wiki/File:110917_Panasonic_Lumix_DMC-LC1_01s.jpg "fig:110917_Panasonic_Lumix_DMC-LC1_01s.jpg") [Panasonic_LUMIX_DMC-FX100_image.JPG](https://zh.wikipedia.org/wiki/File:Panasonic_LUMIX_DMC-FX100_image.JPG "fig:Panasonic_LUMIX_DMC-FX100_image.JPG") **Lumix**（徕美）是[Panasonic](https://zh.wikipedia.org/wiki/Panasonic "wikilink")（松下電器）的[數位相機系列](https://zh.wikipedia.org/wiki/數位相機 "wikilink")[品牌](../Page/品牌.md "wikilink")，于2001年推出\[1\]。此系列的數位相機特別之處為业内较早引入等效28mm[廣角](https://zh.wikipedia.org/wiki/廣角鏡 "wikilink")[鏡頭](../Page/鏡頭.md "wikilink")（部分機種），使用独有的MEGA O.I.S.镜头防抖功能、高[感光度](../Page/感光度.md "wikilink")（部份機種有「至醒」[ISO功能](https://zh.wikipedia.org/wiki/ISO "wikilink")），多數此系列的數位相機的鏡頭都是由[萊卡](https://zh.wikipedia.org/wiki/萊卡 "wikilink")（Leica）授權設計及製造。
 
 2006年，松下公司推出[4/3系统的](https://zh.wikipedia.org/wiki/4/3系统 "wikilink")，使得Lumix品牌加入可换镜头数码相机；在2008年也由而进入[微4/3系统范畴](https://zh.wikipedia.org/wiki/微4/3系统 "wikilink")。
 
-另有搭載Mobile Venus Engine晶片的Lumix
-Phone[照相手機](../Page/照相手機.md "wikilink")，但僅在日本上市。
+另有搭載Mobile Venus Engine晶片的Lumix Phone[照相手機](../Page/照相手機.md "wikilink")，但僅在日本上市。
 
 ## 系列
 
-[LUMX_DMC_LX3.jpg](https://zh.wikipedia.org/wiki/File:LUMX_DMC_LX3.jpg "fig:LUMX_DMC_LX3.jpg")
-有些相機可以選擇顏色，用後綴字母表示：K是黑色，S銀色，A藍色，R紅色，W白色。
+[LUMX_DMC_LX3.jpg](https://zh.wikipedia.org/wiki/File:LUMX_DMC_LX3.jpg "fig:LUMX_DMC_LX3.jpg") 有些相機可以選擇顏色，用後綴字母表示：K是黑色，S銀色，A藍色，R紅色，W白色。
 
 ### 生產中
 
@@ -27,8 +22,7 @@ Phone[照相手機](../Page/照相手機.md "wikilink")，但僅在日本上市�
 
 <!-- end list -->
 
-  - **DMC-G：**小型可換鏡頭相機，GH系列更可拍攝[高清影片](https://zh.wikipedia.org/wiki/高清 "wikilink")，使用[Micro
-    4/3規格的鏡頭](https://zh.wikipedia.org/wiki/4/3系統 "wikilink")，同時擁有長焦距相機的輕便。
+  - **DMC-G：**小型可換鏡頭相機，GH系列更可拍攝[高清影片](https://zh.wikipedia.org/wiki/高清 "wikilink")，使用[Micro 4/3規格的鏡頭](https://zh.wikipedia.org/wiki/4/3系統 "wikilink")，同時擁有長焦距相機的輕便。
       - GH系列定位為高階準專業機
       - G系列定位為中階機
       - GX系列為GF系列的進階機種
@@ -68,9 +62,7 @@ Phone[照相手機](../Page/照相手機.md "wikilink")，但僅在日本上市�
 
 ## 產品
 
-[Panasonic_LUMIX_DMC-FZ50_image.JPG](https://zh.wikipedia.org/wiki/File:Panasonic_LUMIX_DMC-FZ50_image.JPG "fig:Panasonic_LUMIX_DMC-FZ50_image.JPG")
-[Lumix-L1_img_0961.jpg](https://zh.wikipedia.org/wiki/File:Lumix-L1_img_0961.jpg "fig:Lumix-L1_img_0961.jpg")
-[GX85.jpg](https://zh.wikipedia.org/wiki/File:GX85.jpg "fig:GX85.jpg")
+[Panasonic_LUMIX_DMC-FZ50_image.JPG](https://zh.wikipedia.org/wiki/File:Panasonic_LUMIX_DMC-FZ50_image.JPG "fig:Panasonic_LUMIX_DMC-FZ50_image.JPG") [Lumix-L1_img_0961.jpg](https://zh.wikipedia.org/wiki/File:Lumix-L1_img_0961.jpg "fig:Lumix-L1_img_0961.jpg") [GX85.jpg](https://zh.wikipedia.org/wiki/File:GX85.jpg "fig:GX85.jpg")
 
   - 便携全自动相机
 
@@ -86,8 +78,7 @@ Phone[照相手機](../Page/照相手機.md "wikilink")，但僅在日本上市�
   - Panasonic Lumix DMC-FX7\*
   - Panasonic Lumix DMC-FX8\*
   - Panasonic Lumix DMC-FX9\*
-  - [Panasonic Lumix
-    DMC-FX01](https://zh.wikipedia.org/wiki/Panasonic_Lumix_DMC-FX01 "wikilink")\*
+  - [Panasonic Lumix DMC-FX01](https://zh.wikipedia.org/wiki/Panasonic_Lumix_DMC-FX01 "wikilink")\*
   - Panasonic Lumix DMC-FX07\*
   - Panasonic Lumix DMC-FX10
   - Panasonic Lumix DMC-FX12
@@ -95,8 +86,7 @@ Phone[照相手機](../Page/照相手機.md "wikilink")，但僅在日本上市�
   - Panasonic Lumix DMC-FX33\*\#
   - Panasonic Lumix DMC-FX36\#
   - Panasonic Lumix DMC-FX38\*\#
-  - [Panasonic Lumix
-    DMC-FX50](https://zh.wikipedia.org/wiki/Panasonic_Lumix_DMC-FX50 "wikilink")\*
+  - [Panasonic Lumix DMC-FX50](https://zh.wikipedia.org/wiki/Panasonic_Lumix_DMC-FX50 "wikilink")\*
   - Panasonic Lumix DMC-FX55\*\#
   - Panasonic Lumix DMC-FX100
   - Panasonic Lumix DMC-FX180\#
@@ -111,8 +101,7 @@ Phone[照相手機](../Page/照相手機.md "wikilink")，但僅在日本上市�
   - Panasonic Lumix DMC-LX1
   - Panasonic Lumix DMC-LX2
   - Panasonic Lumix DMC-LX3\#
-  - [Panasonic Lumix
-    DMC-LX5](https://zh.wikipedia.org/wiki/Panasonic_Lumix_DMC-LX5 "wikilink")\#
+  - [Panasonic Lumix DMC-LX5](https://zh.wikipedia.org/wiki/Panasonic_Lumix_DMC-LX5 "wikilink")\#
   - Panasonic Lumix DMC-LC1
   - Panasonic Lumix DMC-LC5
   - Panasonic Lumix DMC-LC20
@@ -126,10 +115,8 @@ Phone[照相手機](../Page/照相手機.md "wikilink")，但僅在日本上市�
 
 <!-- end list -->
 
-  - [Panasonic Lumix
-    DMC-LZ1](https://zh.wikipedia.org/wiki/Panasonic_Lumix_DMC-LZ1 "wikilink")
-  - [Panasonic Lumix
-    DMC-LZ2](https://zh.wikipedia.org/wiki/Panasonic_Lumix_DMC-LZ2 "wikilink")
+  - [Panasonic Lumix DMC-LZ1](https://zh.wikipedia.org/wiki/Panasonic_Lumix_DMC-LZ1 "wikilink")
+  - [Panasonic Lumix DMC-LZ2](https://zh.wikipedia.org/wiki/Panasonic_Lumix_DMC-LZ2 "wikilink")
   - Panasonic Lumix DMC-LZ6
   - Panasonic Lumix DMC-LZ7
   - Panasonic Lumix DMC-LZ8\#
@@ -155,26 +142,16 @@ Phone[照相手機](../Page/照相手機.md "wikilink")，但僅在日本上市�
   - Panasonic Lumix DMC-FZ8
   - Panasonic Lumix DMC-FZ10
   - Panasonic Lumix DMC-FZ15
-  - [Panasonic Lumix
-    DMC-FZ18](https://zh.wikipedia.org/wiki/Panasonic_Lumix_DMC-FZ18 "wikilink")\#
-  - [Panasonic Lumix
-    DMC-FZ20](https://zh.wikipedia.org/wiki/Panasonic_Lumix_DMC-FZ20 "wikilink")
-  - [Panasonic Lumix
-    DMC-FZ28](https://zh.wikipedia.org/wiki/Panasonic_Lumix_DMC-FZ28 "wikilink")\#
-  - [Panasonic Lumix
-    DMC-FZ30](https://zh.wikipedia.org/wiki/Panasonic_Lumix_DMC-FZ30 "wikilink")
-  - [Panasonic Lumix
-    DMC-FZ38](https://zh.wikipedia.org/wiki/Panasonic_Lumix_DMC-FZ38 "wikilink")
-  - [Panasonic Lumix
-    DMC-FZ40](https://zh.wikipedia.org/wiki/Panasonic_Lumix_DMC-FZ40 "wikilink")\#
-  - [Panasonic Lumix
-    DMC-FZ48](https://zh.wikipedia.org/wiki/Panasonic_Lumix_DMC-FZ48 "wikilink")\#
-  - [Panasonic Lumix
-    DMC-FZ50](https://zh.wikipedia.org/wiki/Panasonic_Lumix_DMC-FZ50 "wikilink")
-  - [Panasonic Lumix
-    DMC-FZ100](https://zh.wikipedia.org/wiki/Panasonic_Lumix_DMC-FZ100 "wikilink")\#
-  - [Panasonic Lumix
-    DMC-FZ150](https://zh.wikipedia.org/wiki/Panasonic_Lumix_DMC-FZ150 "wikilink")\#
+  - [Panasonic Lumix DMC-FZ18](https://zh.wikipedia.org/wiki/Panasonic_Lumix_DMC-FZ18 "wikilink")\#
+  - [Panasonic Lumix DMC-FZ20](https://zh.wikipedia.org/wiki/Panasonic_Lumix_DMC-FZ20 "wikilink")
+  - [Panasonic Lumix DMC-FZ28](https://zh.wikipedia.org/wiki/Panasonic_Lumix_DMC-FZ28 "wikilink")\#
+  - [Panasonic Lumix DMC-FZ30](https://zh.wikipedia.org/wiki/Panasonic_Lumix_DMC-FZ30 "wikilink")
+  - [Panasonic Lumix DMC-FZ38](https://zh.wikipedia.org/wiki/Panasonic_Lumix_DMC-FZ38 "wikilink")
+  - [Panasonic Lumix DMC-FZ40](https://zh.wikipedia.org/wiki/Panasonic_Lumix_DMC-FZ40 "wikilink")\#
+  - [Panasonic Lumix DMC-FZ48](https://zh.wikipedia.org/wiki/Panasonic_Lumix_DMC-FZ48 "wikilink")\#
+  - [Panasonic Lumix DMC-FZ50](https://zh.wikipedia.org/wiki/Panasonic_Lumix_DMC-FZ50 "wikilink")
+  - [Panasonic Lumix DMC-FZ100](https://zh.wikipedia.org/wiki/Panasonic_Lumix_DMC-FZ100 "wikilink")\#
+  - [Panasonic Lumix DMC-FZ150](https://zh.wikipedia.org/wiki/Panasonic_Lumix_DMC-FZ150 "wikilink")\#
 
 <!-- end list -->
 
@@ -182,40 +159,23 @@ Phone[照相手機](../Page/照相手機.md "wikilink")，但僅在日本上市�
 
 <!-- end list -->
 
-  - [Panasonic Lumix
-    DMC-GF1](https://zh.wikipedia.org/wiki/Panasonic_Lumix_DMC-GF1 "wikilink")\#
-  - [Panasonic Lumix
-    DMC-GF2](https://zh.wikipedia.org/wiki/Panasonic_Lumix_DMC-GF2 "wikilink")\*\#
-  - [Panasonic Lumix
-    DMC-GF3](https://zh.wikipedia.org/wiki/Panasonic_Lumix_DMC-GF3 "wikilink")\*\#
-  - [Panasonic Lumix
-    DMC-GF5](https://zh.wikipedia.org/wiki/Panasonic_Lumix_DMC-GF5 "wikilink")\*\#
-  - [Panasonic Lumix
-    DMC-GF6](https://zh.wikipedia.org/wiki/Panasonic_Lumix_DMC-GF6 "wikilink")\*\#
-  - [Panasonic Lumix
-    DMC-GX1](https://zh.wikipedia.org/wiki/Panasonic_Lumix_DMC-GX1 "wikilink")\*\#
-  - [Panasonic Lumix
-    DMC-GX7](https://zh.wikipedia.org/wiki/Panasonic_Lumix_DMC-GX7 "wikilink")\*\#
-  - [Panasonic Lumix
-    DMC-GX85](https://zh.wikipedia.org/wiki/Panasonic_Lumix_DMC-GX85 "wikilink")\*\#
-  - [Panasonic Lumix
-    DMC-G1](https://zh.wikipedia.org/wiki/Panasonic_Lumix_DMC-G1 "wikilink")\#
-  - [Panasonic Lumix
-    DMC-G2](https://zh.wikipedia.org/wiki/Panasonic_Lumix_DMC-G2 "wikilink")\#
-  - [Panasonic Lumix
-    DMC-G3](https://zh.wikipedia.org/wiki/Panasonic_Lumix_DMC-G3 "wikilink")\#
-  - [Panasonic Lumix
-    DMC-G5](https://zh.wikipedia.org/wiki/Panasonic_Lumix_DMC-G5 "wikilink")\#
-  - [Panasonic Lumix
-    DMC-G6](https://zh.wikipedia.org/wiki/Panasonic_Lumix_DMC-G6 "wikilink")\#
-  - [Panasonic Lumix
-    DMC-GH1](https://zh.wikipedia.org/wiki/Panasonic_Lumix_DMC-GH1 "wikilink")\#
-  - [Panasonic Lumix
-    DMC-GH2](https://zh.wikipedia.org/wiki/Panasonic_Lumix_DMC-GH2 "wikilink")\#
-  - [Panasonic Lumix
-    DMC-GH3](https://zh.wikipedia.org/wiki/Panasonic_Lumix_DMC-GH3 "wikilink")\#
-  - [Panasonic Lumix
-    DMC-GH4](https://zh.wikipedia.org/wiki/Panasonic_Lumix_DMC-GH4 "wikilink")\#
+  - [Panasonic Lumix DMC-GF1](https://zh.wikipedia.org/wiki/Panasonic_Lumix_DMC-GF1 "wikilink")\#
+  - [Panasonic Lumix DMC-GF2](https://zh.wikipedia.org/wiki/Panasonic_Lumix_DMC-GF2 "wikilink")\*\#
+  - [Panasonic Lumix DMC-GF3](https://zh.wikipedia.org/wiki/Panasonic_Lumix_DMC-GF3 "wikilink")\*\#
+  - [Panasonic Lumix DMC-GF5](https://zh.wikipedia.org/wiki/Panasonic_Lumix_DMC-GF5 "wikilink")\*\#
+  - [Panasonic Lumix DMC-GF6](https://zh.wikipedia.org/wiki/Panasonic_Lumix_DMC-GF6 "wikilink")\*\#
+  - [Panasonic Lumix DMC-GX1](https://zh.wikipedia.org/wiki/Panasonic_Lumix_DMC-GX1 "wikilink")\*\#
+  - [Panasonic Lumix DMC-GX7](https://zh.wikipedia.org/wiki/Panasonic_Lumix_DMC-GX7 "wikilink")\*\#
+  - [Panasonic Lumix DMC-GX85](https://zh.wikipedia.org/wiki/Panasonic_Lumix_DMC-GX85 "wikilink")\*\#
+  - [Panasonic Lumix DMC-G1](https://zh.wikipedia.org/wiki/Panasonic_Lumix_DMC-G1 "wikilink")\#
+  - [Panasonic Lumix DMC-G2](https://zh.wikipedia.org/wiki/Panasonic_Lumix_DMC-G2 "wikilink")\#
+  - [Panasonic Lumix DMC-G3](https://zh.wikipedia.org/wiki/Panasonic_Lumix_DMC-G3 "wikilink")\#
+  - [Panasonic Lumix DMC-G5](https://zh.wikipedia.org/wiki/Panasonic_Lumix_DMC-G5 "wikilink")\#
+  - [Panasonic Lumix DMC-G6](https://zh.wikipedia.org/wiki/Panasonic_Lumix_DMC-G6 "wikilink")\#
+  - [Panasonic Lumix DMC-GH1](https://zh.wikipedia.org/wiki/Panasonic_Lumix_DMC-GH1 "wikilink")\#
+  - [Panasonic Lumix DMC-GH2](https://zh.wikipedia.org/wiki/Panasonic_Lumix_DMC-GH2 "wikilink")\#
+  - [Panasonic Lumix DMC-GH3](https://zh.wikipedia.org/wiki/Panasonic_Lumix_DMC-GH3 "wikilink")\#
+  - [Panasonic Lumix DMC-GH4](https://zh.wikipedia.org/wiki/Panasonic_Lumix_DMC-GH4 "wikilink")\#
 
 <!-- end list -->
 
@@ -245,22 +205,16 @@ Phone[照相手機](../Page/照相手機.md "wikilink")，但僅在日本上市�
 
 ## 外部連結
 
-  - [Panasonic
-    Lumix](https://web.archive.org/web/20090304060059/http://panasonic.net/avc/lumix/)
+  - [Panasonic Lumix](https://web.archive.org/web/20090304060059/http://panasonic.net/avc/lumix/)
 
   - [Panasonic Lumix Japan](http://panasonic.jp/dc/)
 
-  - [Panasonic Lumix Club (Hong
-    Kong)](http://www.panasonic.hk/lumixclub/)
+  - [Panasonic Lumix Club (Hong Kong)](http://www.panasonic.hk/lumixclub/)
 
   - [Panasonic Lumix Taiwan](http://www.lumix.com.tw/)
 
   - [Panasonic Lumix China](http://home.panasonic.cn/lumix/)
 
-[Category:数码照相机](https://zh.wikipedia.org/wiki/Category:数码照相机 "wikilink")
-[Category:Panasonic數位相機](https://zh.wikipedia.org/wiki/Category:Panasonic數位相機 "wikilink")
-[Category:日本品牌](https://zh.wikipedia.org/wiki/Category:日本品牌 "wikilink")
+[Category:数码照相机](https://zh.wikipedia.org/wiki/Category:数码照相机 "wikilink") [Category:Panasonic數位相機](https://zh.wikipedia.org/wiki/Category:Panasonic數位相機 "wikilink") [Category:日本品牌](https://zh.wikipedia.org/wiki/Category:日本品牌 "wikilink")
 
-1.  [松下、ライカレンズ採用のデジタルカメラ2機種
-    ―400万画素の新CCD搭載、携帯電話との連携機能も](http://av.watch.impress.co.jp/docs/20010917/pana.htm)
-    - AV Watch Impress
+1.  [松下、ライカレンズ採用のデジタルカメラ2機種 ―400万画素の新CCD搭載、携帯電話との連携機能も](http://av.watch.impress.co.jp/docs/20010917/pana.htm) - AV Watch Impress

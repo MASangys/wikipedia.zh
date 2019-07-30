@@ -1,14 +1,8 @@
-**AMD Radeon**（原**ATI
-Radeon**）是2000年以来，由[ATi公司制造的](https://zh.wikipedia.org/wiki/ATi "wikilink")[图像处理单元的品牌](https://zh.wikipedia.org/wiki/GPU "wikilink")。该品牌下的产品根据对[DirectX不同版本的支持可划分为四组不同的产品](../Page/DirectX.md "wikilink")，产品如[HyperZ版还可以根据](https://zh.wikipedia.org/wiki/HyperZ "wikilink")[流水线的数目及](../Page/流水线_\(计算机\).md "wikilink")[記憶體](https://zh.wikipedia.org/wiki/記憶體 "wikilink")、[CPU和](https://zh.wikipedia.org/wiki/CPU "wikilink")[时钟频率进行进一步的划分](../Page/时钟频率.md "wikilink")。自2006年AMD收购ATI后，ATI
-Radeon更名为ATI Radeon HD，AMD发布Radeon HD6 Series时正式将Radeon系列更名为AMD Radeon
-HD，从AMD发布Radeon HD8 Series零售版时正式将Radeon HD系列更名AMD Radeon R(R5/R7/R9)。
+**AMD Radeon**（原**ATI Radeon**）是2000年以来，由[ATi公司制造的](https://zh.wikipedia.org/wiki/ATi "wikilink")[图像处理单元的品牌](https://zh.wikipedia.org/wiki/GPU "wikilink")。该品牌下的产品根据对[DirectX](../Page/DirectX.md "wikilink")不同版本的支持可划分为四组不同的产品，产品如[HyperZ版还可以根据](https://zh.wikipedia.org/wiki/HyperZ "wikilink")[流水线的数目及](../Page/流水线_\(计算机\).md "wikilink")[記憶體](https://zh.wikipedia.org/wiki/記憶體 "wikilink")、[CPU和](https://zh.wikipedia.org/wiki/CPU "wikilink")[时钟频率](../Page/时钟频率.md "wikilink")进行进一步的划分。自2006年AMD收购ATI后，ATI Radeon更名为ATI Radeon HD，AMD发布Radeon HD6 Series时正式将Radeon系列更名为AMD Radeon HD，从AMD发布Radeon HD8 Series零售版时正式将Radeon HD系列更名AMD Radeon R(R5/R7/R9)。
 
-2017年起廢止原有AMD Radeon R(R5/R7/R9)的命名規則，新發行的遊戲顯卡全部採用Radeon rx abc，Radeon
-abc的命名規則。
+2017年起廢止原有AMD Radeon R(R5/R7/R9)的命名規則，新發行的遊戲顯卡全部採用Radeon rx abc，Radeon abc的命名規則。
 
-[AMD_Graphics_Radeon_Graphics_Logo_2011.png](https://zh.wikipedia.org/wiki/File:AMD_Graphics_Radeon_Graphics_Logo_2011.png "fig:AMD_Graphics_Radeon_Graphics_Logo_2011.png")
-[2013_AMD_Radeon_HD_Logo.jpg](https://zh.wikipedia.org/wiki/File:2013_AMD_Radeon_HD_Logo.jpg "fig:2013_AMD_Radeon_HD_Logo.jpg")
-**Radeon圖像處理器列表**
+[AMD_Graphics_Radeon_Graphics_Logo_2011.png](https://zh.wikipedia.org/wiki/File:AMD_Graphics_Radeon_Graphics_Logo_2011.png "fig:AMD_Graphics_Radeon_Graphics_Logo_2011.png") [2013_AMD_Radeon_HD_Logo.jpg](https://zh.wikipedia.org/wiki/File:2013_AMD_Radeon_HD_Logo.jpg "fig:2013_AMD_Radeon_HD_Logo.jpg") **Radeon圖像處理器列表**
 
   - [Radeon HD7 Series](../Page/AMD_Radeon_HD_7000.md "wikilink")
       - Radeon HD7990 [GDDR5](../Page/GDDR5.md "wikilink")
@@ -20,8 +14,7 @@ abc的命名規則。
       - Radeon HD7770 GDDR5
       - Radeon HD7750 GDDR5
       - Radeon HD7730 GDDR5
-  - [Radeon HD6
-    Series](https://zh.wikipedia.org/wiki/Radeon_R900 "wikilink")
+  - [Radeon HD6 Series](https://zh.wikipedia.org/wiki/Radeon_R900 "wikilink")
       - Radeon HD6990 GDDR5 (Dual GPU)
       - Radeon HD6970 GDDR5
       - Radeon HD6950 GDDR5
@@ -33,16 +26,14 @@ abc的命名規則。
       - Radeon HD6670 GDDR5
       - Radeon HD6570 GDDR5
       - Radeon HD6450 GDDR5
-  - [Radeon HD5
-    Series](https://zh.wikipedia.org/wiki/Evergreen_\(顯示核心\) "wikilink")
+  - [Radeon HD5 Series](https://zh.wikipedia.org/wiki/Evergreen_\(顯示核心\) "wikilink")
       - Radeon HD5970 GDDR5 (Dual GPU)
       - Radeon HD5870 GDDR5
       - Radeon HD5850 GDDR5
       - Radeon HD5770 GDDR5
       - Radeon HD5750 GDDR5
       - Radeon HD5450 GDDR3
-  - [Radeon HD4
-    Series](https://zh.wikipedia.org/wiki/Radeon_R700 "wikilink")
+  - [Radeon HD4 Series](https://zh.wikipedia.org/wiki/Radeon_R700 "wikilink")
       - Radeon HD4890 GDDR5
       - Radeon HD4870X2 GDDR5 (Dual GPU)
       - Radeon HD4870 GDDR5
@@ -54,8 +45,7 @@ abc的命名規則。
       - Radeon HD4650 GDDR3/GDDR2
       - Radeon HD4550 GDDR3
       - Radeon HD4350 GDDR2
-  - [Radeon HD3
-    Series](https://zh.wikipedia.org/wiki/Radeon_R600 "wikilink")
+  - [Radeon HD3 Series](https://zh.wikipedia.org/wiki/Radeon_R600 "wikilink")
       - Radeon HD3870X2 GDDR4 (Dual GPU)
       - Radeon HD3870 GDDR4
       - Radeon HD3850 GDDR4/GDDR3
@@ -63,16 +53,14 @@ abc的命名規則。
       - Radeon HD3650 GDDR4/GDDR3/GDDR2
       - Radeon HD3470 GDDR3
       - Radeon HD3450 GDDR3/GDDR2
-  - [Radeon HD2
-    Series](https://zh.wikipedia.org/wiki/Radeon_R600 "wikilink")
+  - [Radeon HD2 Series](https://zh.wikipedia.org/wiki/Radeon_R600 "wikilink")
       - Radeon HD2900XT GDDR3/GDDR4
       - Radeon HD2900PRO GDDR3/GDDR4
       - Radeon HD2600XT GDDR4/GDDR3
       - Radeon HD2600PRO GDDR3/GDDR2
       - Radeon HD2400XT DDR3
       - Radeon HD2400PRO DDR2
-  - [Radeon X1
-    Series](https://zh.wikipedia.org/wiki/Radeon_X1_Series "wikilink")
+  - [Radeon X1 Series](https://zh.wikipedia.org/wiki/Radeon_X1_Series "wikilink")
       - Radeon X1300
       - Radeon X1300 Pro
       - Radeon X1300 XT
@@ -92,8 +80,7 @@ abc的命名規則。
       - Radeon X1950 Pro
       - Radeon X1950 XT
       - Radeon X1950 XTXeon
-  - [Radeon X
-    Series](https://zh.wikipedia.org/wiki/Radeon_X_Series "wikilink")
+  - [Radeon X Series](https://zh.wikipedia.org/wiki/Radeon_X_Series "wikilink")
       - Radeon X300 HM
       - Radeon X300
       - Radeon X300 SE
@@ -121,8 +108,7 @@ abc的命名規則。
 
   -   - Radeon X850 XT PE
 
-  - [Radeon 9
-    Series](https://zh.wikipedia.org/wiki/Radeon_R300 "wikilink")
+  - [Radeon 9 Series](https://zh.wikipedia.org/wiki/Radeon_R300 "wikilink")
 
       - Radeon 9000
       - Radeon 9000 Pro
@@ -144,14 +130,12 @@ abc的命名規則。
       - Radeon 9800 Pro
       - Radeon 9800 XT
 
-  - [Radeon 8
-    Series](https://zh.wikipedia.org/wiki/Radeon_R200 "wikilink")
+  - [Radeon 8 Series](https://zh.wikipedia.org/wiki/Radeon_R200 "wikilink")
 
       - Radeon 8500 LE
       - Radeon 8500
 
-  - [Radeon 7
-    Series](https://zh.wikipedia.org/wiki/Radeon_R100 "wikilink")
+  - [Radeon 7 Series](https://zh.wikipedia.org/wiki/Radeon_R100 "wikilink")
 
 [Radeon_7500LE.JPG](https://zh.wikipedia.org/wiki/File:Radeon_7500LE.JPG "fig:Radeon_7500LE.JPG")
 
@@ -181,15 +165,25 @@ abc的命名規則。
       - Radeon R9 290X
       - Radeon R9 295X2
 
-  - Radeon R X300 Serises
+  - Radeon RX 300 Serises
 
-      - Radeon R9 370
+      - **Radeon R5 330 (OEM)**
+      - **Radeon R5 340 (OEM)**
+      - **Radeon R7 340 (OEM)**
+      - **Radeon R7 350 (OEM)**
+      - **Radeon R9 360 (OEM)**
+      - Radeon R7 360
+      - **Radeon R9 370 (OEM)**
+      - Radeon R7 370
+      - Radeon R7 370X
+      - Radeon R9 370X
       - Radeon R9 380
+      - Radeon R9 380X
       - Radeon R9 390
-      - Radeon R9 390x
-      - Radeon R9 nano
+      - Radeon R9 390X
+      - Radeon R9 Nano
       - Radeon R9 Fury
-      - Radeon R9 Fury x
+      - Radeon R9 Fury X
       - Radeon Pro Duo
 
   - Radeon RX 400 Series
@@ -212,10 +206,13 @@ abc的命名規則。
       - Radeon RX Vega 56
       - Radeon VII
 
+  - Radeon RX Navi Series
+
+      - Radeon 5700
+      - Radeon 5700XT
+
 ## 参考
 
   - [AMD顯示核心列表](../Page/AMD顯示核心列表.md "wikilink")
 
-[Category:顯示卡](https://zh.wikipedia.org/wiki/Category:顯示卡 "wikilink")
-[Category:冶天科技](https://zh.wikipedia.org/wiki/Category:冶天科技 "wikilink")
-[Category:2000年面世的產品](https://zh.wikipedia.org/wiki/Category:2000年面世的產品 "wikilink")
+[Category:顯示卡](https://zh.wikipedia.org/wiki/Category:顯示卡 "wikilink") [Category:冶天科技](https://zh.wikipedia.org/wiki/Category:冶天科技 "wikilink") [Category:2000年面世的產品](https://zh.wikipedia.org/wiki/Category:2000年面世的產品 "wikilink")

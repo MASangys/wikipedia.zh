@@ -294,8 +294,7 @@
 
 :::\*TQ118 无机过酸及过酸盐
 
-::\*TQ12
-[非金属无机化合物化学工业](https://zh.wikipedia.org/wiki/非金属无机化合物 "wikilink")
+::\*TQ12 [非金属无机化合物化学工业](https://zh.wikipedia.org/wiki/非金属无机化合物 "wikilink")
 
 :::\*TQ122 氢
 
@@ -755,8 +754,7 @@
 
 ::::\*TQ153.7 气体电化学工业生产
 
-::\*TQ16
-[电热工业](https://zh.wikipedia.org/wiki/电热工业 "wikilink")、[高温制品工业](https://zh.wikipedia.org/wiki/高温制品工业 "wikilink")
+::\*TQ16 [电热工业](https://zh.wikipedia.org/wiki/电热工业 "wikilink")、[高温制品工业](https://zh.wikipedia.org/wiki/高温制品工业 "wikilink")
 
 ::::\*TQ160.5 高温电炉
 
@@ -1806,7 +1804,7 @@
 
 ::::\*TQ174.9 三废处理与综合利用
 
-:::\*TQ175 [耐火材料工业](../Page/耐火材料.md "wikilink")
+:::\*TQ175 [耐火材料](../Page/耐火材料.md "wikilink")工业
 
 ::::\*TQ175.1 基础理论
 
@@ -1996,8 +1994,7 @@
 
 ::::\*TQ176.9 三废处理与综合利用
 
-:::\*TQ177
-[人造石及其他](../Page/人造石.md "wikilink")[胶凝材料](https://zh.wikipedia.org/wiki/胶凝材料 "wikilink")
+:::\*TQ177 [人造石](../Page/人造石.md "wikilink")及其他[胶凝材料](https://zh.wikipedia.org/wiki/胶凝材料 "wikilink")
 
 ::::\*TQ177.1 人造石
 

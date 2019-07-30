@@ -1,10 +1,6 @@
-《**Canvas2 ～茜色的調色盤～**》（）是由[F\&C
-FC01於](../Page/F&C.md "wikilink")2004年4月23日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，後來陸續改編成電視動畫、漫畫、小說。
+《**Canvas2 ～茜色的調色盤～**》（）是由[F\&C FC01於](../Page/F&C.md "wikilink")2004年4月23日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，後來陸續改編成電視動畫、漫畫、小說。
 
-2006年1月26日[角川書店發售](../Page/角川書店.md "wikilink")[PlayStation
-2版](../Page/PlayStation_2.md "wikilink")《Canvas2
-～彩虹色的圖畫～》（），同名電視動畫於2005年10月2日至2006年3月26日其間播映。\[2\]2006年10月6日F\&C
-FC01發售PlayStation 2版的逆移植版本，並改名為《Canvas2 DVD EDITION》\[3\]。
+2006年1月26日[角川書店](../Page/角川書店.md "wikilink")發售[PlayStation 2版](../Page/PlayStation_2.md "wikilink")《Canvas2 ～彩虹色的圖畫～》（），同名電視動畫於2005年10月2日至2006年3月26日其間播映。\[2\]2006年10月6日F\&C FC01發售PlayStation 2版的逆移植版本，並改名為《Canvas2 DVD EDITION》\[3\]。
 
 ## 登場人物
 
@@ -13,13 +9,13 @@ FC01發售PlayStation 2版的逆移植版本，並改名為《Canvas2 DVD EDITIO
 <span style="font-size:smaller;">聲優依PC版／動畫版／PS2版排序</span>
 
   -
-    為了成為[畫家而從](https://zh.wikipedia.org/wiki/畫家 "wikilink")[北海道前往](../Page/北海道.md "wikilink")[東京的美術大學就讀](https://zh.wikipedia.org/wiki/東京 "wikilink")。在某事件後，失去了對繪畫的熱情。目前在撫子學園擔任美術教師，同時亦擔任美術社的顧問。繪畫的技術很高超，但是對於工作卻往往抱持敷衍的態度，連社團活動也甚少出席。美術社的竹內社長也常常為此感到頭痛。
+    為了成為[畫家而從](https://zh.wikipedia.org/wiki/畫家 "wikilink")[北海道](../Page/北海道.md "wikilink")前往[東京的美術大學就讀](https://zh.wikipedia.org/wiki/東京 "wikilink")。在某事件後，失去了對繪畫的熱情。目前在撫子學園擔任美術教師，同時亦擔任美術社的顧問。繪畫的技術很高超，但是對於工作卻往往抱持敷衍的態度，連社團活動也甚少出席。美術社的竹內社長也常常為此感到頭痛。
 
 <!-- end list -->
 
   -
     生日：9月27日。星座：天秤座。血型：A型。身高：154cm。三圍：86/53/82。
-    浩樹的表妹。父親是日本人，母親則是法國人。幼時的一場車禍，讓她失去了雙親，同時也封閉了自己的心靈，也因此害怕[血的顏色](https://zh.wikipedia.org/wiki/血 "wikilink")（[紅色](https://zh.wikipedia.org/wiki/紅色 "wikilink")）。在浩樹常常帶著自己的畫前來探望後，便慢慢地開啟自己封閉的心靈，同時也開啟了她對繪畫的興趣。因為成為撫子學園的繪畫特待生，而從北海道來到東京與浩樹同住。不擅長料理的她，早上也有[低血壓的症狀](../Page/低血壓.md "wikilink")。由於繼承了母親的血統，金髮碧眼的她常常成為學園內男同學的告白對象。不過由於她的眼中只有浩樹一人，所以對於其他男生的告白都是一概拒絕。
+    浩樹的表妹。父親是日本人，母親則是法國人。幼時的一場車禍，讓她失去了雙親，同時也封閉了自己的心靈，也因此害怕[血的顏色](https://zh.wikipedia.org/wiki/血 "wikilink")（[紅色](https://zh.wikipedia.org/wiki/紅色 "wikilink")）。在浩樹常常帶著自己的畫前來探望後，便慢慢地開啟自己封閉的心靈，同時也開啟了她對繪畫的興趣。因為成為撫子學園的繪畫特待生，而從北海道來到東京與浩樹同住。不擅長料理的她，早上也有[低血壓](../Page/低血壓.md "wikilink")的症狀。由於繼承了母親的血統，金髮碧眼的她常常成為學園內男同學的告白對象。不過由於她的眼中只有浩樹一人，所以對於其他男生的告白都是一概拒絕。
 
 <!-- end list -->
 
@@ -108,8 +104,7 @@ FC01發售PlayStation 2版的逆移植版本，並改名為《Canvas2 DVD EDITIO
 
   - 人物設計、原畫：[七尾奈留](../Page/七尾奈留.md "wikilink")（鳳仙エリス・桔梗霧）、ちこたむ（荻野可奈・鷺ノ宮紗綾・杉厡紫衣）、魚（美咲堇）、倉嶋丈康（藤浪朋子・竹內麻巳）、江森美沙樹（柳慎一郎）
   - 劇本：宮村優（統括・エリス、霧）、定池真実（可奈、菫、麻巳、朋子）、田中タクヤ（紗綾）
-  - BGM：[Elements
-    Garden](../Page/Elements_Garden.md "wikilink")（[上松範康](../Page/上松範康.md "wikilink")、[藤間仁](../Page/藤間仁.md "wikilink")、[菊田大介](https://zh.wikipedia.org/wiki/菊田大介 "wikilink")）
+  - BGM：[Elements Garden](../Page/Elements_Garden.md "wikilink")（[上松範康](../Page/上松範康.md "wikilink")、[藤間仁](../Page/藤間仁.md "wikilink")、[菊田大介](https://zh.wikipedia.org/wiki/菊田大介 "wikilink")）
   - 程式：瑞原奈緒
   - 製作人：弥七
   - 監製：宮村優、瑞原奈緒
@@ -125,9 +120,7 @@ FC01發售PlayStation 2版的逆移植版本，並改名為《Canvas2 DVD EDITIO
 <!-- end list -->
 
   -
-    作詞／作曲／編曲：[A
-    BONE](https://zh.wikipedia.org/wiki/A_BONE "wikilink")，歌：A
-    BONE featuring YURIA
+    作詞／作曲／編曲：[A BONE](https://zh.wikipedia.org/wiki/A_BONE "wikilink")，歌：A BONE featuring YURIA
 
 <!-- end list -->
 
@@ -187,12 +180,10 @@ FC01發售PlayStation 2版的逆移植版本，並改名為《Canvas2 DVD EDITIO
   - 音樂製作人：金杉肇
   - 音樂指導：畠義人
   - [音樂](https://zh.wikipedia.org/wiki/音樂 "wikilink")：[ドアーズ・ミュージック・エンタテインメント](https://zh.wikipedia.org/wiki/DOORS_MUSIC_ENTERTAINMENT "wikilink")、[4-EVER](https://zh.wikipedia.org/wiki/4-EVER "wikilink")
-  - 音樂製作：TYRELL
-    LAB.、[ブロッコリー](https://zh.wikipedia.org/wiki/ブロッコリー_\(企業\) "wikilink")
+  - 音樂製作：TYRELL LAB.、[ブロッコリー](https://zh.wikipedia.org/wiki/ブロッコリー_\(企業\) "wikilink")
       - オープニングテーマ「プラスチックスマイル（虹色ギターVERSION）」（1～23話）
           -
-            （作詞／作曲：A BONE、編曲：八七、歌：[Honey
-            Bee](https://zh.wikipedia.org/wiki/Honey_Bee "wikilink")）
+            （作詞／作曲：A BONE、編曲：八七、歌：[Honey Bee](https://zh.wikipedia.org/wiki/Honey_Bee "wikilink")）
   - 動畫製作：[ZEXCS](../Page/ZEXCS.md "wikilink")
   - 製作：Canvas2製作委員會
 
@@ -478,8 +469,7 @@ KIM SOON YEON、宮田奈保美</p></td>
 <!-- end list -->
 
   -
-    由[兒玉樹作畫](https://zh.wikipedia.org/wiki/兒玉樹 "wikilink")，由[角川書店發售](../Page/角川書店.md "wikilink")（ISBN
-    4-04-713720-0）。
+    由[兒玉樹作畫](https://zh.wikipedia.org/wiki/兒玉樹 "wikilink")，由[角川書店](../Page/角川書店.md "wikilink")發售（ISBN 4-04-713720-0）。
 
 <!-- end list -->
 
@@ -488,7 +478,7 @@ KIM SOON YEON、宮田奈保美</p></td>
 <!-- end list -->
 
   -
-    由兒玉樹作畫，由角川書店發售共4冊，中文版由[台灣角川代裡發售](../Page/台灣角川.md "wikilink")。
+    由兒玉樹作畫，由角川書店發售共4冊，中文版由[台灣角川](../Page/台灣角川.md "wikilink")代裡發售。
 
 <table>
 <thead>
@@ -534,8 +524,7 @@ KIM SOON YEON、宮田奈保美</p></td>
 <!-- end list -->
 
   -
-    由岡崎いずみ寫作、[フミオ插畫](https://zh.wikipedia.org/wiki/フミオ "wikilink")，由[enterbrain於](https://zh.wikipedia.org/wiki/enterbrain "wikilink")2004年7月30日發售（ISBN
-    978-4757719378）。
+    由岡崎いずみ寫作、[フミオ插畫](https://zh.wikipedia.org/wiki/フミオ "wikilink")，由[enterbrain於](https://zh.wikipedia.org/wiki/enterbrain "wikilink")2004年7月30日發售（ISBN 978-4757719378）。
 
 <!-- end list -->
 
@@ -557,8 +546,7 @@ KIM SOON YEON、宮田奈保美</p></td>
 
 ## 評價
 
-在Getchu所公佈的2004年萌遊戲排行榜中，鳳仙愛麗絲獲選為第十名的最佳女主角。\[5\]《ファミ通》894号的クロスレビュー對Canvas2
-～彩虹色的圖畫～給予24/40評分\[6\]。
+在Getchu所公佈的2004年萌遊戲排行榜中，鳳仙愛麗絲獲選為第十名的最佳女主角。\[5\]《ファミ通》894号的クロスレビュー對Canvas2 ～彩虹色的圖畫～給予24/40評分\[6\]。
 
 ## 相關條目
 
@@ -571,24 +559,9 @@ KIM SOON YEON、宮田奈保美</p></td>
 ## 外部連結
 
   - [Canvas2 ～茜色的調色盤～官方網站](http://fandc.co.jp/canvas2/)
-  - [Canvas2
-    ～彩虹色的圖畫～官方網站](https://web.archive.org/web/20060307110735/http://www.kadokawa.co.jp/canvas2/index.php)
+  - [Canvas2 ～彩虹色的圖畫～官方網站](https://web.archive.org/web/20060307110735/http://www.kadokawa.co.jp/canvas2/index.php)
 
-[Category:2004年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2004年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:DVDPG](https://zh.wikipedia.org/wiki/Category:DVDPG "wikilink")
-[Category:月刊少年Ace連載作品](https://zh.wikipedia.org/wiki/Category:月刊少年Ace連載作品 "wikilink")
-[Category:月刊Comp_Ace](https://zh.wikipedia.org/wiki/Category:月刊Comp_Ace "wikilink")
-[Category:2005年UHF動畫](https://zh.wikipedia.org/wiki/Category:2005年UHF動畫 "wikilink")
-[Category:日本成人遊戲改編電視動畫](https://zh.wikipedia.org/wiki/Category:日本成人遊戲改編電視動畫 "wikilink")
-[Category:教師主角作品](https://zh.wikipedia.org/wiki/Category:教師主角作品 "wikilink")
-[Category:Fami通文庫](https://zh.wikipedia.org/wiki/Category:Fami通文庫 "wikilink")
-[Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink")
-[Category:行動電話遊戲](https://zh.wikipedia.org/wiki/Category:行動電話遊戲 "wikilink")
-[Category:F\&C游戏](https://zh.wikipedia.org/wiki/Category:F&C游戏 "wikilink")
-[Category:表親戀情作品](https://zh.wikipedia.org/wiki/Category:表親戀情作品 "wikilink")
-[Category:高中題材電子遊戲](https://zh.wikipedia.org/wiki/Category:高中題材電子遊戲 "wikilink")
+[Category:2004年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2004年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:DVDPG](https://zh.wikipedia.org/wiki/Category:DVDPG "wikilink") [Category:月刊少年Ace連載作品](https://zh.wikipedia.org/wiki/Category:月刊少年Ace連載作品 "wikilink") [Category:月刊Comp_Ace](https://zh.wikipedia.org/wiki/Category:月刊Comp_Ace "wikilink") [Category:2005年UHF動畫](https://zh.wikipedia.org/wiki/Category:2005年UHF動畫 "wikilink") [Category:日本成人遊戲改編電視動畫](https://zh.wikipedia.org/wiki/Category:日本成人遊戲改編電視動畫 "wikilink") [Category:教師主角作品](https://zh.wikipedia.org/wiki/Category:教師主角作品 "wikilink") [Category:Fami通文庫](https://zh.wikipedia.org/wiki/Category:Fami通文庫 "wikilink") [Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink") [Category:行動電話遊戲](https://zh.wikipedia.org/wiki/Category:行動電話遊戲 "wikilink") [Category:F\&C游戏](https://zh.wikipedia.org/wiki/Category:F&C游戏 "wikilink") [Category:表親戀情作品](https://zh.wikipedia.org/wiki/Category:表親戀情作品 "wikilink") [Category:高中題材電子遊戲](https://zh.wikipedia.org/wiki/Category:高中題材電子遊戲 "wikilink")
 
 1.
 2.

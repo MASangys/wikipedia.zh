@@ -2,8 +2,7 @@
 
 ## 概要
 
-故事改編自真人真事， 主角為《週刊少年Magazine》的編輯們所組成的MMR〔Magazine Mistery
-Reportage〕。隊員包括紀林（隊長）、繩矢、田中、池田、都丸五人。另外，一位自稱查理的海外隊員也曾於作品出場。\[3\]
+故事改編自真人真事， 主角為《週刊少年Magazine》的編輯們所組成的MMR〔Magazine Mistery Reportage〕。隊員包括紀林（隊長）、繩矢、田中、池田、都丸五人。另外，一位自稱查理的海外隊員也曾於作品出場。\[3\]
 
 起初故事為MMR成員收到各方讀者來信，從而對一些[超自然現象以](https://zh.wikipedia.org/wiki/超自然現象 "wikilink")[科學的角度作調查和解釋](https://zh.wikipedia.org/wiki/科學 "wikilink")，但故事發展到以[諾史特拉達姆斯的](../Page/諾斯特拉達姆士.md "wikilink")[預言詩為主線時](../Page/預知.md "wikilink")，他們逐漸揭發出政府和謎之組織的陰謀，模式類似科幻電視劇集[X檔案](https://zh.wikipedia.org/wiki/X檔案 "wikilink")。
 
@@ -11,8 +10,7 @@ Reportage〕。隊員包括紀林（隊長）、繩矢、田中、池田、都�
 
 在[GTO的第](https://zh.wikipedia.org/wiki/GTO "wikilink")27和28話中，MMR也有登場，調查在日本各地電視廣告出現的野村朋子。
 
-在1999年MMR完結之後，
-漫畫作家城不二也於2003年在同一本雜誌的第32,33期再次連載MMR漫畫，可是隊長已經變為ミウラ，而其他隊員亦變成新面孔。\[5\]
+在1999年MMR完結之後， 漫畫作家城不二也於2003年在同一本雜誌的第32,33期再次連載MMR漫畫，可是隊長已經變為ミウラ，而其他隊員亦變成新面孔。\[5\]
 
 MMR中的隊員紀林、繩矢、田中、池田和都丸乃根據現實中的編輯們作為參考，現在全部人都在各處活躍著。
 
@@ -23,8 +21,7 @@ MMR中的隊員紀林、繩矢、田中、池田和都丸乃根據現實中的�
 <!-- end list -->
 
   -
-    MMR隊長。出生於196x年7月22日。身高182cm，體重77kg，血型o型。視力右眼為0.2，左眼0.1。IQ達170，懂日語、英語及法語。精通於解釋超自然現象及諾史特拉達姆斯預言，不管是什麼題材，總會跟大預言扯上關係。該人物乃是以《[金田一少年之事件簿](https://zh.wikipedia.org/wiki/金田一少年之事件簿 "wikilink")》的原作[天樹征丸](https://zh.wikipedia.org/wiki/天樹征丸 "wikilink")（本名樹林伸，きばやし
-    しん）為藍本。
+    MMR隊長。出生於196x年7月22日。身高182cm，體重77kg，血型o型。視力右眼為0.2，左眼0.1。IQ達170，懂日語、英語及法語。精通於解釋超自然現象及諾史特拉達姆斯預言，不管是什麼題材，總會跟大預言扯上關係。該人物乃是以《[金田一少年之事件簿](https://zh.wikipedia.org/wiki/金田一少年之事件簿 "wikilink")》的原作[天樹征丸](https://zh.wikipedia.org/wiki/天樹征丸 "wikilink")（本名樹林伸，きばやし しん）為藍本。
 
 <!-- end list -->
 
@@ -116,10 +113,7 @@ MMR中的隊員紀林、繩矢、田中、池田和都丸乃根據現實中的�
 ## 外部連結
 
   -
-[Category:亞樹直](https://zh.wikipedia.org/wiki/Category:亞樹直 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:週刊少年Magazine連載作品](https://zh.wikipedia.org/wiki/Category:週刊少年Magazine連載作品 "wikilink")
-[Category:神秘题材作品](https://zh.wikipedia.org/wiki/Category:神秘题材作品 "wikilink")
+[Category:亞樹直](https://zh.wikipedia.org/wiki/Category:亞樹直 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:週刊少年Magazine連載作品](https://zh.wikipedia.org/wiki/Category:週刊少年Magazine連載作品 "wikilink") [Category:神秘题材作品](https://zh.wikipedia.org/wiki/Category:神秘题材作品 "wikilink")
 
 1.
 

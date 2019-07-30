@@ -1,4 +1,4 @@
-**H-IIB運載火箭**（）是液體低溫的火箭系列，提供一個不可回收的發射系統，用來發射[H-II運送載具至](../Page/H-II運送載具.md "wikilink")[國際太空站](../Page/国际空间站.md "wikilink")。由[三菱重工業為日本航空太空探險代辦處](https://zh.wikipedia.org/wiki/三菱重工業 "wikilink")（[宇宙航空研究開發機構](https://zh.wikipedia.org/wiki/日本宇宙航空研究開發機構 "wikilink")）製造。發射將在種子島太空中心。第一次試飛於2009年（平成21年）9月11日發射成功。
+**H-IIB運載火箭**（）是液體低溫的火箭系列，提供一個不可回收的發射系統，用來發射[H-II運送載具](../Page/H-II運送載具.md "wikilink")至[國際太空站](../Page/国际空间站.md "wikilink")。由[三菱重工業為日本航空太空探險代辦處](https://zh.wikipedia.org/wiki/三菱重工業 "wikilink")（[宇宙航空研究開發機構](https://zh.wikipedia.org/wiki/日本宇宙航空研究開發機構 "wikilink")）製造。發射將在種子島太空中心。第一次試飛於2009年（平成21年）9月11日發射成功。
 
 ## 技術諸元
 
@@ -17,19 +17,9 @@
 
 ## 設計
 
-[Mitsubishi_LE-7A.JPG](https://zh.wikipedia.org/wiki/File:Mitsubishi_LE-7A.JPG "fig:Mitsubishi_LE-7A.JPG")
-H-IIB運載火箭，第一次發射在2009年9月11日發射成功，能運載8
-[噸酬載至](https://zh.wikipedia.org/wiki/噸 "wikilink")[地球同步軌道](https://zh.wikipedia.org/wiki/地球同步軌道 "wikilink")，比[H-IIA運載火箭](https://zh.wikipedia.org/wiki/H-IIA運載火箭 "wikilink")
-4
-到6[噸酬載至](https://zh.wikipedia.org/wiki/噸 "wikilink")[地球同步軌道為大](https://zh.wikipedia.org/wiki/地球同步軌道 "wikilink")。它將提供充足的酬載能力使[H-II運載飛船到達](https://zh.wikipedia.org/wiki/H-II運載飛船 "wikilink")[低地軌道](https://zh.wikipedia.org/wiki/低地軌道 "wikilink")（16,500
-[公斤](https://zh.wikipedia.org/wiki/公斤 "wikilink")）。H-IIB運載火箭是早期的[H-IIA運載火箭的衍生型](https://zh.wikipedia.org/wiki/H-IIA運載火箭 "wikilink")。H-IIB
-將有二個LE-7A引擎，代替[H-IIA運載火箭](https://zh.wikipedia.org/wiki/H-IIA運載火箭 "wikilink")
-的一個，和四枚主要助推火箭（SRB-A），代替[H-IIA運載火箭](https://zh.wikipedia.org/wiki/H-IIA運載火箭 "wikilink")
-的二枚。這個新發射器的研發自2004
-年以來，預算大約200億[日元](https://zh.wikipedia.org/wiki/日元 "wikilink")（$1.8億[美元](../Page/美元.md "wikilink")；1.5億[歐元](https://zh.wikipedia.org/wiki/歐元 "wikilink")）。在H-IIB運載火箭
-以後，宇宙航空研究開發機構欲開發可載人的H-IIC運載火箭 - 有時並提議H-IIX運載火箭，是為了在2025 年以前到達發射載人太空船的宗旨。
+[Mitsubishi_LE-7A.JPG](https://zh.wikipedia.org/wiki/File:Mitsubishi_LE-7A.JPG "fig:Mitsubishi_LE-7A.JPG") H-IIB運載火箭，第一次發射在2009年9月11日發射成功，能運載8 [噸酬載至](https://zh.wikipedia.org/wiki/噸 "wikilink")[地球同步軌道](https://zh.wikipedia.org/wiki/地球同步軌道 "wikilink")，比[H-IIA運載火箭](https://zh.wikipedia.org/wiki/H-IIA運載火箭 "wikilink") 4 到6[噸酬載至](https://zh.wikipedia.org/wiki/噸 "wikilink")[地球同步軌道為大](https://zh.wikipedia.org/wiki/地球同步軌道 "wikilink")。它將提供充足的酬載能力使[H-II運載飛船到達](https://zh.wikipedia.org/wiki/H-II運載飛船 "wikilink")[低地軌道](https://zh.wikipedia.org/wiki/低地軌道 "wikilink")（16,500 [公斤](https://zh.wikipedia.org/wiki/公斤 "wikilink")）。H-IIB運載火箭是早期的[H-IIA運載火箭的衍生型](https://zh.wikipedia.org/wiki/H-IIA運載火箭 "wikilink")。H-IIB 將有二個LE-7A引擎，代替[H-IIA運載火箭](https://zh.wikipedia.org/wiki/H-IIA運載火箭 "wikilink") 的一個，和四枚主要助推火箭（SRB-A），代替[H-IIA運載火箭](https://zh.wikipedia.org/wiki/H-IIA運載火箭 "wikilink") 的二枚。這個新發射器的研發自2004 年以來，預算大約200億[日元](https://zh.wikipedia.org/wiki/日元 "wikilink")（$1.8億[美元](../Page/美元.md "wikilink")；1.5億[歐元](https://zh.wikipedia.org/wiki/歐元 "wikilink")）。在H-IIB運載火箭 以後，宇宙航空研究開發機構欲開發可載人的H-IIC運載火箭 - 有時並提議H-IIX運載火箭，是為了在2025 年以前到達發射載人太空船的宗旨。
 
-H2B的LEO發射能力是19噸，H2B以傾角51.6度發射HTV到近地[橢圓軌道的發射能力是](../Page/橢圓軌道.md "wikilink")16.5噸。
+H2B的LEO發射能力是19噸，H2B以傾角51.6度發射HTV到近地[橢圓軌道](../Page/橢圓軌道.md "wikilink")的發射能力是16.5噸。
 
 ## 发射紀錄
 
@@ -139,8 +129,4 @@ H2B的LEO發射能力是19噸，H2B以傾角51.6度發射HTV到近地[橢圓軌�
 
   - [H-IIA運載火箭](https://zh.wikipedia.org/wiki/H-IIA運載火箭 "wikilink")
 
-[Category:运载火箭](https://zh.wikipedia.org/wiki/Category:运载火箭 "wikilink")
-[Category:化學火箭](https://zh.wikipedia.org/wiki/Category:化學火箭 "wikilink")
-[Category:日本火箭](https://zh.wikipedia.org/wiki/Category:日本火箭 "wikilink")
-[Category:一次性火箭](https://zh.wikipedia.org/wiki/Category:一次性火箭 "wikilink")
-[Category:三菱重工業](https://zh.wikipedia.org/wiki/Category:三菱重工業 "wikilink")
+[Category:运载火箭](https://zh.wikipedia.org/wiki/Category:运载火箭 "wikilink") [Category:化學火箭](https://zh.wikipedia.org/wiki/Category:化學火箭 "wikilink") [Category:日本火箭](https://zh.wikipedia.org/wiki/Category:日本火箭 "wikilink") [Category:一次性火箭](https://zh.wikipedia.org/wiki/Category:一次性火箭 "wikilink") [Category:三菱重工業](https://zh.wikipedia.org/wiki/Category:三菱重工業 "wikilink")

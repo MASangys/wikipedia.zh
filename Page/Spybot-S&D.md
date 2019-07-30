@@ -8,8 +8,7 @@
 
 ## 特點
 
-能夠消除很多流氓軟件造成的問題，如消除含有個人信息的[Cookie](../Page/Cookie.md "wikilink")「小餅乾」、[登錄](https://zh.wikipedia.org/wiki/登錄 "wikilink")（）、操作系統的網絡平台、[對象連接與嵌入程序](https://zh.wikipedia.org/wiki/對象連接與嵌入 "wikilink")（OLE）、瀏覽器劫持程序、BHO插件程序、等等。還可以利用於預防或禁止一些間諜軟件的安裝。由於這軟件的特製不是預防，早期出版的版本有一提示，推薦用戶同時使用[SpywareBlaster](https://zh.wikipedia.org/wiki/SpywareBlaster "wikilink")。不是一個殺毒軟件，但是它可以清理一些常見的[木馬病毒和](https://zh.wikipedia.org/wiki/特洛伊木馬_\(電腦\) "wikilink")[擊鍵信息收集器](https://zh.wikipedia.org/wiki/擊鍵信息收集器 "wikilink")。
-因為許多免費商業程序的經濟來源是間諜軟件提供商，如果程序發現捆綁的間諜軟件被消除，許多這些正式的程序會停止運行。因此在某些情況下，不刪除間諜軟體而改用文件代替的方式覆蓋間諜軟體。
+能夠消除很多流氓軟件造成的問題，如消除含有個人信息的[Cookie](../Page/Cookie.md "wikilink")「小餅乾」、[登錄](https://zh.wikipedia.org/wiki/登錄 "wikilink")（）、操作系統的網絡平台、[對象連接與嵌入程序](https://zh.wikipedia.org/wiki/對象連接與嵌入 "wikilink")（OLE）、瀏覽器劫持程序、BHO插件程序、等等。還可以利用於預防或禁止一些間諜軟件的安裝。由於這軟件的特製不是預防，早期出版的版本有一提示，推薦用戶同時使用[SpywareBlaster](https://zh.wikipedia.org/wiki/SpywareBlaster "wikilink")。不是一個殺毒軟件，但是它可以清理一些常見的[木馬病毒和](https://zh.wikipedia.org/wiki/特洛伊木馬_\(電腦\) "wikilink")[擊鍵信息收集器](https://zh.wikipedia.org/wiki/擊鍵信息收集器 "wikilink")。 因為許多免費商業程序的經濟來源是間諜軟件提供商，如果程序發現捆綁的間諜軟件被消除，許多這些正式的程序會停止運行。因此在某些情況下，不刪除間諜軟體而改用文件代替的方式覆蓋間諜軟體。
 
 由於流氓軟體的變化很快，程序幾乎每星期都被更新。這些更新是從軟件內部的更新功能而更新的。
 
@@ -27,10 +26,7 @@
 ## 外部連結
 
   - [Spybot-S\&D官方主頁](http://www.spybot.info/)
-  - [Spybot Search and
-    Destroy中文官方網頁](https://web.archive.org/web/20070426203909/http://www.safer-networking.org/cs/index.html)
-  - [Spybot Search and
-    Destroy繁體中文官方網頁](https://web.archive.org/web/20080517061246/http://safer-networking.org/ct/index.html)
+  - [Spybot Search and Destroy中文官方網頁](https://web.archive.org/web/20070426203909/http://www.safer-networking.org/cs/index.html)
+  - [Spybot Search and Destroy繁體中文官方網頁](https://web.archive.org/web/20080517061246/http://safer-networking.org/ct/index.html)
 
-[Category:系統軟件](https://zh.wikipedia.org/wiki/Category:系統軟件 "wikilink")
-[Category:反間諜軟件](https://zh.wikipedia.org/wiki/Category:反間諜軟件 "wikilink")
+[Category:系統軟件](https://zh.wikipedia.org/wiki/Category:系統軟件 "wikilink") [Category:反間諜軟件](https://zh.wikipedia.org/wiki/Category:反間諜軟件 "wikilink")

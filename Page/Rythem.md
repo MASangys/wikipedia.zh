@@ -1,6 +1,4 @@
-**RYTHEM**，是[日本二人女子](../Page/日本.md "wikilink")[創作歌手組合以及二重唱歌手](../Page/創作歌手.md "wikilink")。所屬的經紀公司是DESSE
-communications，所屬的唱片公司是[Sony Music Associated
-Records（日本索尼音樂娛樂旗下公司）](../Page/日本索尼音樂娛樂.md "wikilink")。
+**RYTHEM**，是[日本](../Page/日本.md "wikilink")二人女子[創作歌手](../Page/創作歌手.md "wikilink")組合以及二重唱歌手。所屬的經紀公司是DESSE communications，所屬的唱片公司是[Sony Music Associated Records（日本索尼音樂娛樂旗下公司）](../Page/日本索尼音樂娛樂.md "wikilink")。
 
 ## 成員
 
@@ -17,18 +15,15 @@ Records（日本索尼音樂娛樂旗下公司）](../Page/日本索尼音樂娛
 
 <!-- end list -->
 
-  - 2002年，她們以一曲「一人旅シャラルラン」參加了Sony Music
-    Audition的選拔合格，證明了她們的才華，「RYTHEM」就此誕生。
+  - 2002年，她們以一曲「一人旅シャラルラン」參加了Sony Music Audition的選拔合格，證明了她們的才華，「RYTHEM」就此誕生。
 
 <!-- end list -->
 
-  - 2003
-    年5月，兩人仍然是高中生的時候，動畫「[NARUTO](https://zh.wikipedia.org/wiki/NARUTO "wikilink")」的ED代言了RYTHEM的第一支單曲。曲名的「ハルモニア」（[Harmonia](https://zh.wikipedia.org/wiki/Harmonia "wikilink")）意指兩人的「相性（あいしょう）」
+  - 2003 年5月，兩人仍然是高中生的時候，動畫「[NARUTO](https://zh.wikipedia.org/wiki/NARUTO "wikilink")」的ED代言了RYTHEM的第一支單曲。曲名的「ハルモニア」（[Harmonia](https://zh.wikipedia.org/wiki/Harmonia "wikilink")）意指兩人的「相性（あいしょう）」
 
 <!-- end list -->
 
-  - 2003年8月的第二支單曲「てんきゅっ」以輕快的曲調為主，整首歌洋溢著歡樂的氣息。同時曲名更是日本的年輕人喜愛自創新語的証明。經過查証才發現「てんきゅっ」其實就是「ありがとう」的意思，據說是從英文的「Thank
-    you」轉過來的。
+  - 2003年8月的第二支單曲「てんきゅっ」以輕快的曲調為主，整首歌洋溢著歡樂的氣息。同時曲名更是日本的年輕人喜愛自創新語的証明。經過查証才發現「てんきゅっ」其實就是「ありがとう」的意思，據說是從英文的「Thank you」轉過來的。
 
 <!-- end list -->
 
@@ -102,8 +97,7 @@ Records（日本索尼音樂娛樂旗下公司）](../Page/日本索尼音樂娛
 ### 配信限定曲
 
 1.  ****（2008年12月14日）
-2.  **[You](https://zh.wikipedia.org/wiki/You_\(RYTHEM單曲\) "wikilink")**
-    （2009年10月23日）
+2.  **[You](https://zh.wikipedia.org/wiki/You_\(RYTHEM單曲\) "wikilink")** （2009年10月23日）
 
 ### DVD
 
@@ -115,9 +109,7 @@ Records（日本索尼音樂娛樂旗下公司）](../Page/日本索尼音樂娛
 
   - [RYTHEM 官方網站](http://www.rythem.info/)
 
-  - [Sony Music
-    JAPAN的所屬官網頁面](http://www.sonymusic.co.jp/Music/Arch/AI/Rythem/)
-
+  - [Sony Music JAPAN的所屬官網頁面](http://www.sonymusic.co.jp/Music/Arch/AI/Rythem/)
 
   - [RYTHEM 官方部落格](http://ent2.excite.co.jp/music/special/rythem_blog/)
 
@@ -127,5 +119,4 @@ Records（日本索尼音樂娛樂旗下公司）](../Page/日本索尼音樂娛
 
   -
 
-[Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink")
-[Category:二人组](https://zh.wikipedia.org/wiki/Category:二人组 "wikilink")
+[Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink") [Category:二人组](https://zh.wikipedia.org/wiki/Category:二人组 "wikilink")

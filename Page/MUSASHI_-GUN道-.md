@@ -1,15 +1,10 @@
-『**MUSASHI -GUN道-**』是[Monkey
-Punch原作時代劇槍械動作](https://zh.wikipedia.org/wiki/Monkey_Punch "wikilink")[動畫作品](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")。於2006年4月9日起[BS-i逢星期日上午](https://zh.wikipedia.org/wiki/BS-i "wikilink")9:30～10:00放映，一共26集。此外，從2006年5月13日起，在[GyaO免費收看](https://zh.wikipedia.org/wiki/GyaO "wikilink")。
+『**MUSASHI -GUN道-**』是[Monkey Punch原作時代劇槍械動作](https://zh.wikipedia.org/wiki/Monkey_Punch "wikilink")[動畫作品](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")。於2006年4月9日起[BS-i逢星期日上午](https://zh.wikipedia.org/wiki/BS-i "wikilink")9:30～10:00放映，一共26集。此外，從2006年5月13日起，在[GyaO免費收看](https://zh.wikipedia.org/wiki/GyaO "wikilink")。
 
-標題的讀法為「GUN道MUSASHI」，但是在不同的媒介有不同的標題。於[BS-i以](https://zh.wikipedia.org/wiki/BS-i "wikilink")『MUSASHI』（ムサシ）、イーネットフロンティア為『GUN道
-MUSASHI』（ガンどう ムサシ）、其他名稱為『GUNDOH ムサシ』（ガンドー
-ムサシ），有這樣的記述，表題在[GyaO以](https://zh.wikipedia.org/wiki/GyaO "wikilink")『**MUSASHI
--GUN道-**』，同時是一般對此作品的稱呼。
+標題的讀法為「GUN道MUSASHI」，但是在不同的媒介有不同的標題。於[BS-i以](https://zh.wikipedia.org/wiki/BS-i "wikilink")『MUSASHI』（ムサシ）、イーネットフロンティア為『GUN道 MUSASHI』（ガンどう ムサシ）、其他名稱為『GUNDOH ムサシ』（ガンドー ムサシ），有這樣的記述，表題在[GyaO以](https://zh.wikipedia.org/wiki/GyaO "wikilink")『**MUSASHI -GUN道-**』，同時是一般對此作品的稱呼。
 
 ## 概要
 
-這作品是『[魯邦三世](https://zh.wikipedia.org/wiki/魯邦三世 "wikilink")』的原作者[Monkey
-Punch花了十二年的時間所構成的成品](https://zh.wikipedia.org/wiki/Monkey_Punch "wikilink")。由於低素質的動畫制作引起了廣泛的話題作品。\[1\]本作的話題性及人氣，2006年5月中旬在[GyaO綜合節目排名為第一位](https://zh.wikipedia.org/wiki/GyaO "wikilink")、而無修改版本的DVD在日本的排名位於前列。
+這作品是『[魯邦三世](https://zh.wikipedia.org/wiki/魯邦三世 "wikilink")』的原作者[Monkey Punch花了十二年的時間所構成的成品](https://zh.wikipedia.org/wiki/Monkey_Punch "wikilink")。由於低素質的動畫制作引起了廣泛的話題作品。\[1\]本作的話題性及人氣，2006年5月中旬在[GyaO綜合節目排名為第一位](https://zh.wikipedia.org/wiki/GyaO "wikilink")、而無修改版本的DVD在日本的排名位於前列。
 
 ## 故事
 
@@ -24,7 +19,7 @@ Punch花了十二年的時間所構成的成品](https://zh.wikipedia.org/wiki/M
 與武藏同行以及跟武藏為友好關係的人物。
 
   - 宮本武藏（）：[浪川大輔](../Page/浪川大輔.md "wikilink")
-    本作的武藏，名字以[平假名顯示](../Page/平假名.md "wikilink")。二丁拳銃對特殊用的彈藥，以（陰陽彈？）和作戰的少年。
+    本作的武藏，名字以[平假名](../Page/平假名.md "wikilink")顯示。二丁拳銃對特殊用的彈藥，以（陰陽彈？）和作戰的少年。
 
 <!-- end list -->
 
@@ -100,8 +95,7 @@ Punch花了十二年的時間所構成的成品](https://zh.wikipedia.org/wiki/M
 
 <!-- end list -->
 
-  - アヤカシ[武田信玄](../Page/武田信玄.md "wikilink")（たけだ
-    しんげん）：[西凛太朗](https://zh.wikipedia.org/wiki/西凛太朗 "wikilink")
+  - アヤカシ[武田信玄](../Page/武田信玄.md "wikilink")（たけだ しんげん）：[西凛太朗](https://zh.wikipedia.org/wiki/西凛太朗 "wikilink")
 
 <!-- end list -->
 
@@ -122,12 +116,12 @@ Punch花了十二年的時間所構成的成品](https://zh.wikipedia.org/wiki/M
 
 <!-- end list -->
 
-  - [明智光秀桐井大介](../Page/明智光秀.md "wikilink")
+  - [明智光秀](../Page/明智光秀.md "wikilink")桐井大介
 
 <!-- end list -->
 
   - 石川五右衛門赤城進
-    繼續了第一代[石川五右衛門的第二代](../Page/石川五右衛門.md "wikilink")。
+    繼續了第一代[石川五右衛門](../Page/石川五右衛門.md "wikilink")的第二代。
 
 <!-- end list -->
 
@@ -135,13 +129,11 @@ Punch花了十二年的時間所構成的成品](https://zh.wikipedia.org/wiki/M
 
 <!-- end list -->
 
-  - [真田幸村](https://zh.wikipedia.org/wiki/真田幸村 "wikilink")（さなだ
-    ゆきむら）：[木下紗華](../Page/木下紗華.md "wikilink")
+  - [真田幸村](https://zh.wikipedia.org/wiki/真田幸村 "wikilink")（さなだ ゆきむら）：[木下紗華](../Page/木下紗華.md "wikilink")
 
 <!-- end list -->
 
-  - [三好清海入道](https://zh.wikipedia.org/wiki/三好清海入道 "wikilink")（みよし
-    せいかいにゅうどう）：[飯島肇](https://zh.wikipedia.org/wiki/飯島肇 "wikilink")
+  - [三好清海入道](https://zh.wikipedia.org/wiki/三好清海入道 "wikilink")（みよし せいかいにゅうどう）：[飯島肇](https://zh.wikipedia.org/wiki/飯島肇 "wikilink")
 
 <!-- end list -->
 
@@ -155,8 +147,7 @@ Punch花了十二年的時間所構成的成品](https://zh.wikipedia.org/wiki/M
 
 <!-- end list -->
 
-  - [豐臣秀賴](../Page/豐臣秀賴.md "wikilink")（とよとみ
-    ひでより）：[笹島かほる](https://zh.wikipedia.org/wiki/笹島かほる "wikilink")
+  - [豐臣秀賴](../Page/豐臣秀賴.md "wikilink")（とよとみ ひでより）：[笹島かほる](https://zh.wikipedia.org/wiki/笹島かほる "wikilink")
     豊臣秀吉兒子。
 
 <!-- end list -->
@@ -179,8 +170,7 @@ Punch花了十二年的時間所構成的成品](https://zh.wikipedia.org/wiki/M
 
 <!-- end list -->
 
-  - [佐佐木小次郎](../Page/佐佐木小次郎.md "wikilink")（ささき
-    こじろう）：[櫻井孝宏](../Page/櫻井孝宏.md "wikilink")
+  - [佐佐木小次郎](../Page/佐佐木小次郎.md "wikilink")（ささき こじろう）：[櫻井孝宏](../Page/櫻井孝宏.md "wikilink")
     武藏的宿敵、槍道的大師。
     與史實不符的是本作品的小次郎是女性，卻由男性擔當配音。
 
@@ -190,9 +180,9 @@ Punch花了十二年的時間所構成的成品](https://zh.wikipedia.org/wiki/M
 
 ## MUSASHI世界裡的「歷史」
 
-  - 1500年初期　[列奥纳多·达·芬奇死亡](../Page/列奥纳多·达·芬奇.md "wikilink")
-  - 1573年　[武田信玄死亡](../Page/武田信玄.md "wikilink")
-  - 1582年　[明智光秀發起](../Page/明智光秀.md "wikilink")[本能寺之變](https://zh.wikipedia.org/wiki/本能寺之變 "wikilink")。光秀和[織田信長死亡](../Page/織田信長.md "wikilink")。
+  - 1500年初期　[列奥纳多·达·芬奇](../Page/列奥纳多·达·芬奇.md "wikilink")死亡
+  - 1573年　[武田信玄](../Page/武田信玄.md "wikilink")死亡
+  - 1582年　[明智光秀](../Page/明智光秀.md "wikilink")發起[本能寺之變](https://zh.wikipedia.org/wiki/本能寺之變 "wikilink")。光秀和[織田信長](../Page/織田信長.md "wikilink")死亡。
   - 1597年－[慶長之役豊臣軍取得勝利](https://zh.wikipedia.org/wiki/慶長之役 "wikilink")。反對出兵的德川家康失去了權力。
   - 1600年7月 石田三成出兵。アヤカシ自千年的沉睡中覺醒。
   - 1600年9月 關原之戰爆發。在小早川秀秋活躍下，西軍取得勝利。
@@ -204,23 +194,19 @@ Punch花了十二年的時間所構成的成品](https://zh.wikipedia.org/wiki/M
 
 ## 製作團隊
 
-  - 原作 - [Monkey
-    Punch](https://zh.wikipedia.org/wiki/Monkey_Punch "wikilink")
+  - 原作 - [Monkey Punch](https://zh.wikipedia.org/wiki/Monkey_Punch "wikilink")
   - 監督 - [木下勇喜](https://zh.wikipedia.org/wiki/木下勇喜 "wikilink")
   - 人物設計 - [須田正巳](../Page/須田正己.md "wikilink")
   - 主要腳本統籌 - [酒井直行](https://zh.wikipedia.org/wiki/酒井直行 "wikilink")
   - 美術監督 - 中原英統
   - 音響監督 - [高桑一](https://zh.wikipedia.org/wiki/高桑一 "wikilink")
-  - 音響製作 - 平田哲、明瀬礼洋（[Dax
-    Production](https://zh.wikipedia.org/wiki/Dax_International "wikilink")）
+  - 音響製作 - 平田哲、明瀬礼洋（[Dax Production](https://zh.wikipedia.org/wiki/Dax_International "wikilink")）
   - 音樂監督 - 石黒典生
   - 劇中音楽 - 小池敦、[杉本善德](https://zh.wikipedia.org/wiki/杉本善德 "wikilink")
   - 編輯 - 西山茂（リアル・ティ）
   - 製作統括製作人 - 菅谷信行
-  - 動畫製作 - [ACC
-    Production製作工作室](https://zh.wikipedia.org/wiki/ACC_Production "wikilink")
-  - [製作](../Page/製作.md "wikilink") - 「MUSASHI」製作委員会（ACC Production、E-NET
-    Frontier）
+  - 動畫製作 - [ACC Production製作工作室](https://zh.wikipedia.org/wiki/ACC_Production "wikilink")
+  - [製作](../Page/製作.md "wikilink") - 「MUSASHI」製作委員会（ACC Production、E-NET Frontier）
 
 ## 主題曲
 
@@ -228,16 +214,14 @@ Punch花了十二年的時間所構成的成品](https://zh.wikipedia.org/wiki/M
 
 :; 「GHOST BUSTERZ」（1 - 14話）
 
-:: 歌 - [ULTRA
-BRAiN](https://zh.wikipedia.org/wiki/ULTRA_BRAiN "wikilink")
+:: 歌 - [ULTRA BRAiN](https://zh.wikipedia.org/wiki/ULTRA_BRAiN "wikilink")
 
 :; 「Glitter」（15話 - ）
 
   -
 
       -
-        歌 -
-        [Phantasmagoria](https://zh.wikipedia.org/wiki/Phantasmagoria "wikilink")
+        歌 - [Phantasmagoria](https://zh.wikipedia.org/wiki/Phantasmagoria "wikilink")
 
   - 片尾曲
 
@@ -256,7 +240,7 @@ BRAiN](https://zh.wikipedia.org/wiki/ULTRA_BRAiN "wikilink")
 
 ### 各話標題
 
-各方面的預告和播放時的標題和簡介有時會不一致。各種媒體是指以[BS-i開始的作品介紹和](https://zh.wikipedia.org/wiki/BS-i "wikilink")[動畫雜誌的發表](../Page/動畫雜誌.md "wikilink")。
+各方面的預告和播放時的標題和簡介有時會不一致。各種媒體是指以[BS-i開始的作品介紹和](https://zh.wikipedia.org/wiki/BS-i "wikilink")[動畫雜誌](../Page/動畫雜誌.md "wikilink")的發表。
 
 <table>
 <thead>
@@ -702,21 +686,15 @@ BRAiN](https://zh.wikipedia.org/wiki/ULTRA_BRAiN "wikilink")
 
   - [作畫崩壞](../Page/作畫崩壞.md "wikilink")
   - [GUNDRESS](https://zh.wikipedia.org/wiki/GUNDRESS "wikilink")（MUSASHI的製作公司、ACC製作攝影與參與的作品）
-  - [Answer
-    Studio](https://zh.wikipedia.org/wiki/Answer_Studio "wikilink")（第24話的作畫擔當、本回作畫崩壞發生次數很少）
-  - [RGB
-    Adventure](https://zh.wikipedia.org/wiki/RGB_Adventure "wikilink")
+  - [Answer Studio](https://zh.wikipedia.org/wiki/Answer_Studio "wikilink")（第24話的作畫擔當、本回作畫崩壞發生次數很少）
+  - [RGB Adventure](https://zh.wikipedia.org/wiki/RGB_Adventure "wikilink")
 
 ## 外部連結
 
   - [BS-i介紹網頁](https://web.archive.org/web/20060714092521/http://www.bs-i.co.jp/main/entertainment/show.php?0050)
-  - [イーネット・フロンティア
-    作品紹介サイト](https://web.archive.org/web/20060831060204/http://enet-dvd.com/musashi/)
-  - [MUSASHI -GUN道-
-    Wiki（日語）](https://archive.is/20130427053831/http://musashigundo.com/)
+  - [イーネット・フロンティア 作品紹介サイト](https://web.archive.org/web/20060831060204/http://enet-dvd.com/musashi/)
+  - [MUSASHI -GUN道- Wiki（日語）](https://archive.is/20130427053831/http://musashigundo.com/)
 
-[Category:2006年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2006年日本電視動畫 "wikilink")
-[Category:宮本武藏題材作品](https://zh.wikipedia.org/wiki/Category:宮本武藏題材作品 "wikilink")
-[Category:TBS動畫](https://zh.wikipedia.org/wiki/Category:TBS動畫 "wikilink")
+[Category:2006年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2006年日本電視動畫 "wikilink") [Category:宮本武藏題材作品](https://zh.wikipedia.org/wiki/Category:宮本武藏題材作品 "wikilink") [Category:TBS動畫](https://zh.wikipedia.org/wiki/Category:TBS動畫 "wikilink")
 
 1.

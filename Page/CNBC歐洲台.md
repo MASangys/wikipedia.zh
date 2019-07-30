@@ -1,6 +1,4 @@
-**CNBC歐洲台（CNBC Europe）**
-是[歐洲的財經](https://zh.wikipedia.org/wiki/歐洲 "wikilink")[新聞台之一](https://zh.wikipedia.org/wiki/新聞台 "wikilink")。此頻道於1996年3月開播，是[CNBC頻道的歐洲](https://zh.wikipedia.org/wiki/CNBC "wikilink")[分公司](https://zh.wikipedia.org/wiki/分公司 "wikilink")，[母公司為](https://zh.wikipedia.org/wiki/母公司 "wikilink")**[NBC環球集團](https://zh.wikipedia.org/wiki/NBC環球集團 "wikilink")**。此頻道節目在[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[倫敦建立總部及製播中心](https://zh.wikipedia.org/wiki/倫敦 "wikilink")。
-[Fleet_Place.jpg](https://zh.wikipedia.org/wiki/File:Fleet_Place.jpg "fig:Fleet_Place.jpg")
+**CNBC歐洲台（CNBC Europe）** 是[歐洲的財經](https://zh.wikipedia.org/wiki/歐洲 "wikilink")[新聞台之一](https://zh.wikipedia.org/wiki/新聞台 "wikilink")。此頻道於1996年3月開播，是[CNBC頻道的歐洲](https://zh.wikipedia.org/wiki/CNBC "wikilink")[分公司](https://zh.wikipedia.org/wiki/分公司 "wikilink")，[母公司為](https://zh.wikipedia.org/wiki/母公司 "wikilink")**[NBC環球集團](https://zh.wikipedia.org/wiki/NBC環球集團 "wikilink")**。此頻道節目在[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[倫敦建立總部及製播中心](https://zh.wikipedia.org/wiki/倫敦 "wikilink")。 [Fleet_Place.jpg](https://zh.wikipedia.org/wiki/File:Fleet_Place.jpg "fig:Fleet_Place.jpg")
 
 ## CNBC歐洲台節目介紹
 

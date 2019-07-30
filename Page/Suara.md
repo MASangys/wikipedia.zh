@@ -1,14 +1,11 @@
-**Suara**（），[日本女性歌手](../Page/日本.md "wikilink")，出生且出身於[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")，母親出生於台灣基隆\[1\]。隷屬於[FIX
-Records](https://zh.wikipedia.org/wiki/FIX_Records "wikilink")，由[Lantis製作及發行](../Page/Lantis.md "wikilink")。作詞及作曲時會使用本名**巽明子**。
+**Suara**（），[日本](../Page/日本.md "wikilink")女性歌手，出生且出身於[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")，母親出生於台灣基隆\[1\]。隷屬於[FIX Records](https://zh.wikipedia.org/wiki/FIX_Records "wikilink")，由[Lantis](../Page/Lantis.md "wikilink")製作及發行。作詞及作曲時會使用本名**巽明子**。
 
 在她的官网上提到，Suara是印度尼西亚语“声音”的意思。
 
 ## 概要
 
-  - 曾就讀[大阪外國語大學](../Page/大阪外國語大學.md "wikilink")[印尼语學系](../Page/印尼语.md "wikilink")。
-  - 2009年9月19日時在個人的網誌上公開與[Elements
-    Garden所屬的作曲家](../Page/Elements_Garden.md "wikilink")[藤田淳平結婚的消息](../Page/藤田淳平.md "wikilink")\[2\]
-    。
+  - 曾就讀[大阪外國語大學](../Page/大阪外國語大學.md "wikilink")[印尼语](../Page/印尼语.md "wikilink")學系。
+  - 2009年9月19日時在個人的網誌上公開與[Elements Garden所屬的作曲家](../Page/Elements_Garden.md "wikilink")[藤田淳平](../Page/藤田淳平.md "wikilink")結婚的消息\[2\] 。
   - 2017年2月來台舉辦演唱會\[3\]。
 
 ## 唱片目錄
@@ -46,11 +43,9 @@ Records](https://zh.wikipedia.org/wiki/FIX_Records "wikilink")，由[Lantis製�
 4.  **BLUE／蕾-blue dreams-**，2007年10月24日發售
 
     1.  BLUE
-          - 电视动画《[BLUE
-            DROP](https://zh.wikipedia.org/wiki/BLUE_DROP "wikilink")》片头曲
+          - 电视动画《[BLUE DROP](https://zh.wikipedia.org/wiki/BLUE_DROP "wikilink")》片头曲
     2.  蕾-blue dreams-
-          - 电视动画《[BLUE
-            DROP](https://zh.wikipedia.org/wiki/BLUE_DROP "wikilink")》片尾曲
+          - 电视动画《[BLUE DROP](https://zh.wikipedia.org/wiki/BLUE_DROP "wikilink")》片尾曲
     3.  BLUE（Instrumental）
     4.  蕾-blue dreams-（Instrumental）
 
@@ -116,6 +111,29 @@ Records](https://zh.wikipedia.org/wiki/FIX_Records "wikilink")，由[Lantis製�
 14. ，2016年9月21日發售
 
     1.    - 遊戲《[傳頌之物 二人的白皇](../Page/傳頌之物_二人的白皇.md "wikilink")》主題曲
+
+15. ，2018年4月25日發售
+
+    1.    - 遊戲《[傳頌之物 致逝者的搖籃曲 重製版](https://zh.wikipedia.org/wiki/傳頌之物 "wikilink")》主題曲
+
+    2.    - 遊戲《[傳頌之物 致逝者的搖籃曲 重製版](https://zh.wikipedia.org/wiki/傳頌之物 "wikilink")》片尾曲
+
+    3.
+    4.
+    5.
+    6.
+16. ，2018年9月26日發售
+
+    1.    - 遊戲《[傳頌之物 斬](https://zh.wikipedia.org/wiki/傳頌之物_斬 "wikilink")》主題曲
+
+    2.
+    3.
+    4.
+    5.
+    6.
+17. ，2018年7月03日發售
+
+    1.    - 手機遊戲《[傳頌之物 LOST FLAG](https://zh.wikipedia.org/wiki/傳頌之物_LOST_FLAG "wikilink")》主題曲
 
 ### 專輯
 
@@ -277,19 +295,9 @@ Records](https://zh.wikipedia.org/wiki/FIX_Records "wikilink")，由[Lantis製�
 ## 外部連結
 
   - [Suara官方網站](http://www.fixrecords.com/suara/)
-  - [Anime News
-    Network上的*Suara*介紹](http://www.animenewsnetwork.com/encyclopedia/people.php?id=53325)
+  - [Anime News Network上的*Suara*介紹](http://www.animenewsnetwork.com/encyclopedia/people.php?id=53325)
 
-[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink")
-[Category:大阪府出身人物](https://zh.wikipedia.org/wiki/Category:大阪府出身人物 "wikilink")
-[Category:日本女性流行音樂歌手](https://zh.wikipedia.org/wiki/Category:日本女性流行音樂歌手 "wikilink")
-[Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")
-[Category:動畫音樂作詞家](https://zh.wikipedia.org/wiki/Category:動畫音樂作詞家 "wikilink")
-[Category:動畫音樂作曲家](https://zh.wikipedia.org/wiki/Category:動畫音樂作曲家 "wikilink")
-[Category:電子遊戲音樂家](https://zh.wikipedia.org/wiki/Category:電子遊戲音樂家 "wikilink")
-[Category:Lantis旗下歌手](https://zh.wikipedia.org/wiki/Category:Lantis旗下歌手 "wikilink")
-[Category:台灣裔日本人](https://zh.wikipedia.org/wiki/Category:台灣裔日本人 "wikilink")
-[Category:大阪外國語大學校友](https://zh.wikipedia.org/wiki/Category:大阪外國語大學校友 "wikilink")
+[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:大阪府出身人物](https://zh.wikipedia.org/wiki/Category:大阪府出身人物 "wikilink") [Category:日本女性流行音樂歌手](https://zh.wikipedia.org/wiki/Category:日本女性流行音樂歌手 "wikilink") [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink") [Category:動畫音樂作詞家](https://zh.wikipedia.org/wiki/Category:動畫音樂作詞家 "wikilink") [Category:動畫音樂作曲家](https://zh.wikipedia.org/wiki/Category:動畫音樂作曲家 "wikilink") [Category:電子遊戲音樂家](https://zh.wikipedia.org/wiki/Category:電子遊戲音樂家 "wikilink") [Category:Lantis旗下歌手](https://zh.wikipedia.org/wiki/Category:Lantis旗下歌手 "wikilink") [Category:台灣裔日本人](https://zh.wikipedia.org/wiki/Category:台灣裔日本人 "wikilink") [Category:大阪外國語大學校友](https://zh.wikipedia.org/wiki/Category:大阪外國語大學校友 "wikilink")
 
 1.
 2.

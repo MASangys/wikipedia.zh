@@ -1,5 +1,4 @@
-**Outpost Firewall
-Pro**是由[俄罗斯](../Page/俄罗斯.md "wikilink")[Agnitum公司出品的针对家庭和小型办公用户的](https://zh.wikipedia.org/wiki/Agnitum "wikilink")[防火墙产品](../Page/防火墙.md "wikilink")。
+**Outpost Firewall Pro**是由[俄罗斯](../Page/俄罗斯.md "wikilink")[Agnitum公司出品的针对家庭和小型办公用户的](https://zh.wikipedia.org/wiki/Agnitum "wikilink")[防火墙](../Page/防火墙.md "wikilink")产品。
 
 ## 特性
 
@@ -18,5 +17,4 @@ Pro**是由[俄罗斯](../Page/俄罗斯.md "wikilink")[Agnitum公司出品的�
   - [华语用户社区（卡饭论坛）](http://bbs.kafan.cn/forum-67-1.html)
   - [Agnitum官方推荐华语用户交流社区（OPCH）](https://web.archive.org/web/20131228054130/https://opch.net/forum.php)
 
-[Category:防火墙软件](https://zh.wikipedia.org/wiki/Category:防火墙软件 "wikilink")
-[Category:俄羅斯發明](https://zh.wikipedia.org/wiki/Category:俄羅斯發明 "wikilink")
+[Category:防火墙软件](https://zh.wikipedia.org/wiki/Category:防火墙软件 "wikilink") [Category:俄羅斯發明](https://zh.wikipedia.org/wiki/Category:俄羅斯發明 "wikilink")

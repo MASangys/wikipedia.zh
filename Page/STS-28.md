@@ -10,7 +10,4 @@
 
 [STS28ByPhilKonstantin.jpg](https://zh.wikipedia.org/wiki/File:STS28ByPhilKonstantin.jpg "fig:STS28ByPhilKonstantin.jpg")
 
-[Category:1989年佛罗里达州](https://zh.wikipedia.org/wiki/Category:1989年佛罗里达州 "wikilink")
-[Category:哥伦比亚号航天飞机任务](https://zh.wikipedia.org/wiki/Category:哥伦比亚号航天飞机任务 "wikilink")
-[Category:1989年科学](https://zh.wikipedia.org/wiki/Category:1989年科学 "wikilink")
-[Category:1989年8月](https://zh.wikipedia.org/wiki/Category:1989年8月 "wikilink")
+[Category:1989年佛罗里达州](https://zh.wikipedia.org/wiki/Category:1989年佛罗里达州 "wikilink") [Category:哥伦比亚号航天飞机任务](https://zh.wikipedia.org/wiki/Category:哥伦比亚号航天飞机任务 "wikilink") [Category:1989年科学](https://zh.wikipedia.org/wiki/Category:1989年科学 "wikilink") [Category:1989年8月](https://zh.wikipedia.org/wiki/Category:1989年8月 "wikilink")

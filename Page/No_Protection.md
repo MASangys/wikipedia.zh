@@ -1,31 +1,21 @@
-《**No
-Protection**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[側田的第二張個人大碟](../Page/側田.md "wikilink")，主題是“不受保護的瀕臨絕種動物，踩上紅館前最新大碟”，於2006年3月24日推出。Dual
-disc version則於7月5日推出。
+《**No Protection**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[側田](../Page/側田.md "wikilink")的第二張個人大碟，主題是“不受保護的瀕臨絕種動物，踩上紅館前最新大碟”，於2006年3月24日推出。Dual disc version則於7月5日推出。
 
 ## 曲目
 
 ## 製作背景
 
-這張大碟取名《No Protection》，是因為側田覺得上一張《[側田
-Justin](https://zh.wikipedia.org/wiki/側田_\(唱片\) "wikilink")》的保護程式令聽眾太不方便，所以這張唱片將不會有任何保護程式。
-另一個原因是側田覺得當了歌手之後沒有了私隱，沒有甚麼保護（Protection）可言。
+這張大碟取名《No Protection》，是因為側田覺得上一張《[側田 Justin](https://zh.wikipedia.org/wiki/側田_\(唱片\) "wikilink")》的保護程式令聽眾太不方便，所以這張唱片將不會有任何保護程式。 另一個原因是側田覺得當了歌手之後沒有了私隱，沒有甚麼保護（Protection）可言。
 
-這張唱片的另一特式是其唱片公司（[金牌唱片公司](https://zh.wikipedia.org/wiki/金牌唱片公司 "wikilink")）並沒有在唱片發售之前推出任何派台歌，是[香港流行樂壇極為罕見](../Page/香港.md "wikilink")。
-此次和上一張唱片的製作模式剛好相反——當一首歌製作完成後便立即派到傳媒播放。
+這張唱片的另一特式是其唱片公司（[金牌唱片公司](https://zh.wikipedia.org/wiki/金牌唱片公司 "wikilink")）並沒有在唱片發售之前推出任何派台歌，是[香港](../Page/香港.md "wikilink")流行樂壇極為罕見。 此次和上一張唱片的製作模式剛好相反——當一首歌製作完成後便立即派到傳媒播放。
 
-本唱片封面有兩隻King
-Kong，是他的寫照。側田較早前被[狗仔隊偷拍後](../Page/狗仔隊.md "wikilink")，將自己比作為電影中的King
-Kong，刀槍不入，狗仔隊的偷拍事件不會對他有任何傷害，反而他要倒過來安慰其歌迷。
+本唱片封面有兩隻King Kong，是他的寫照。側田較早前被[狗仔隊](../Page/狗仔隊.md "wikilink")偷拍後，將自己比作為電影中的King Kong，刀槍不入，狗仔隊的偷拍事件不會對他有任何傷害，反而他要倒過來安慰其歌迷。
 
-  - 《Intro》是一段當時只得四歲的小側田於1980年模彷歌手[譚詠麟唱](../Page/譚詠麟.md "wikilink")《小生怕怕》時的錄音，以表示側田小時候已經對音樂產生濃厚的興趣。
-  - 《運》和《Kong》是兩首勵志歌曲，創作靈感來自狗仔隊的偷拍事件。*運*是希望人們凡事都要化負面為正面（Turn negative to
-    positive）。「Kong」是「King
-    Kong」的簡稱。歌中他質問：“當自己愛上一個女孩子時，為什麼—不可以在一起？他們並沒有傷害別人，為什應硬要分開他們？”
+  - 《Intro》是一段當時只得四歲的小側田於1980年模彷歌手[譚詠麟](../Page/譚詠麟.md "wikilink")唱《小生怕怕》時的錄音，以表示側田小時候已經對音樂產生濃厚的興趣。
+  - 《運》和《Kong》是兩首勵志歌曲，創作靈感來自狗仔隊的偷拍事件。*運*是希望人們凡事都要化負面為正面（Turn negative to positive）。「Kong」是「King Kong」的簡稱。歌中他質問：“當自己愛上一個女孩子時，為什麼—不可以在一起？他們並沒有傷害別人，為什應硬要分開他們？”
   - 《情永落》是寫給側田的一位前度女友。歌名就是她名字的諧音——程詠樂。側田解釋，跟女朋友分手的時候像世界末日，心情掉到谷底。但是他相信好的事情很快就會來臨，而失戀也會得到得多——他也是因為該次分手而開始作曲。
   - 《美麗之最》是描述男主角覺得女朋友太漂亮，就算分開都得望著她到老。
-  - 《走音》本來是希望由頭至尾都故意用走音的方式唱出，但是其監製[雷頌德不批准](../Page/雷頌德.md "wikilink")。在錄音時側田將耳筒的聲音調高，然後扮作很陶醉般去唱。現在的版本只有一句的走音（而情感偏偏走音），以達到歌名所指的效果，但又不會令人覺得太誇張，太礙耳。
-  - 《You'll Shine
-    Again》是電影《[天生一對](../Page/天生一對_\(2006年電影\).md "wikilink")》的主題曲。主角希望其女朋友像太陽般再次閃耀，再次美麗。
+  - 《走音》本來是希望由頭至尾都故意用走音的方式唱出，但是其監製[雷頌德](../Page/雷頌德.md "wikilink")不批准。在錄音時側田將耳筒的聲音調高，然後扮作很陶醉般去唱。現在的版本只有一句的走音（而情感偏偏走音），以達到歌名所指的效果，但又不會令人覺得太誇張，太礙耳。
+  - 《You'll Shine Again》是電影《[天生一對](../Page/天生一對_\(2006年電影\).md "wikilink")》的主題曲。主角希望其女朋友像太陽般再次閃耀，再次美麗。
 
 ## 銷售紀錄
 
@@ -38,5 +28,4 @@ Kong，刀槍不入，狗仔隊的偷拍事件不會對他有任何傷害，反�
   - [YesAsia介紹](http://www.yesasia.com/us/1004147045-0-0-0-zh_TW/info.html)
   - [雅虎香港音樂介紹](https://web.archive.org/web/20110127090649/http://hk.music.yahoo.com/album-album.html?albumid=1770)
 
-[Category:側田音樂專輯](https://zh.wikipedia.org/wiki/Category:側田音樂專輯 "wikilink")
-[Category:2006年音樂專輯](https://zh.wikipedia.org/wiki/Category:2006年音樂專輯 "wikilink")
+[Category:側田音樂專輯](https://zh.wikipedia.org/wiki/Category:側田音樂專輯 "wikilink") [Category:2006年音樂專輯](https://zh.wikipedia.org/wiki/Category:2006年音樂專輯 "wikilink")

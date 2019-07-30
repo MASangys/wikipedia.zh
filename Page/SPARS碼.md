@@ -1,19 +1,12 @@
-**SPARS**
-即[專業錄音室協會](https://zh.wikipedia.org/wiki/專業錄音室協會 "wikilink")（**S**ociety
-of **P**rofessional **A**udio **R**ecording
-**S**ervices）的[首字母縮寫](../Page/縮寫.md "wikilink")。SPARS
-碼（SPARS
-Code）是[光碟錄音上以三個字母所構成的代碼](../Page/光碟.md "wikilink")，用以告知消費者採用哪一類型的[錄音機錄製和處理](https://zh.wikipedia.org/wiki/錄音機 "wikilink")，一般分為[類比](https://zh.wikipedia.org/wiki/類比訊號 "wikilink")（A）和[數位](https://zh.wikipedia.org/wiki/數位訊號 "wikilink")（D）兩種。此碼於1980年早期開始發展，並於1984年首次使用，但只有相當有限的代碼，使其漸漸停止使用。
+**SPARS** 即[專業錄音室協會](https://zh.wikipedia.org/wiki/專業錄音室協會 "wikilink")（**S**ociety of **P**rofessional **A**udio **R**ecording **S**ervices）的[首字母縮寫](../Page/縮寫.md "wikilink")。SPARS 碼（SPARS Code）是[光碟](../Page/光碟.md "wikilink")錄音上以三個字母所構成的代碼，用以告知消費者採用哪一類型的[錄音機錄製和處理](https://zh.wikipedia.org/wiki/錄音機 "wikilink")，一般分為[類比](https://zh.wikipedia.org/wiki/類比訊號 "wikilink")（A）和[數位](https://zh.wikipedia.org/wiki/數位訊號 "wikilink")（D）兩種。此碼於1980年早期開始發展，並於1984年首次使用，但只有相當有限的代碼，使其漸漸停止使用。
 
 ## 代碼
 
 這三個代碼所代表的意義如下：
 
   - 第一個字母：錄音過程中所使用的[錄音機](https://zh.wikipedia.org/wiki/錄音機 "wikilink")（Recorder）類型（數位或類比）
-  - 第二個字母：[混音過程中所使用的](../Page/混音.md "wikilink")[混音座](../Page/混音.md "wikilink")（Mixing
-    Console）類型（數位或類比）
-  - 第三個字母：[母帶後製](https://zh.wikipedia.org/wiki/母帶後製 "wikilink")（Audio
-    Mastering）所使用的類型（只有數位）
+  - 第二個字母：[混音](../Page/混音.md "wikilink")過程中所使用的[混音](../Page/混音.md "wikilink")座（Mixing Console）類型（數位或類比）
+  - 第三個字母：[母帶後製](https://zh.wikipedia.org/wiki/母帶後製 "wikilink")（Audio Mastering）所使用的類型（只有數位）
 
 常見有如下三種類型：
 
@@ -23,11 +16,9 @@ Code）是[光碟錄音上以三個字母所構成的代碼](../Page/光碟.md "
 
 也有少數為 DAD 方式製作的錄音。
 
-因為[CD是一種數位媒體](../Page/CD.md "wikilink")，因此CD一定是以數位的方式來進行母帶後製與最後的輸出（若採用類比方式進行母帶後製，則必須多經過一道A/D與D/A轉換，會造成不必要的音質失真），因此CD的SPARS碼最後一個字母永遠是「D」。
+因為[CD](../Page/CD.md "wikilink")是一種數位媒體，因此CD一定是以數位的方式來進行母帶後製與最後的輸出（若採用類比方式進行母帶後製，則必須多經過一道A/D與D/A轉換，會造成不必要的音質失真），因此CD的SPARS碼最後一個字母永遠是「D」。
 
-由於數位錄音是在
-70年代中期才漸漸出現的，在此之前的錄音在[CD上都將會是AAD](../Page/CD.md "wikilink")──皆已經過「數位化（digitally
-remastered）」。這表示原始的類比母帶經過A/D轉換過程，成為數位形式。不過這並不意味着經過任何額外的編輯或混音，雖然也有可能如此。
+由於數位錄音是在 70年代中期才漸漸出現的，在此之前的錄音在[CD](../Page/CD.md "wikilink")上都將會是AAD──皆已經過「數位化（digitally remastered）」。這表示原始的類比母帶經過A/D轉換過程，成為數位形式。不過這並不意味着經過任何額外的編輯或混音，雖然也有可能如此。
 
 ## 局限性
 
@@ -45,34 +36,18 @@ remastered）」。這表示原始的類比母帶經過A/D轉換過程，成為�
 
 ## 範例
 
-  - [Weezer](https://zh.wikipedia.org/wiki/Weezer "wikilink") – The Blue
-    Album (1994) – AAD
-  - [U2](https://zh.wikipedia.org/wiki/U2 "wikilink") – The
-    Unforgettable Fire (1984) – ADD
-  - [ABBA](../Page/ABBA.md "wikilink") – The Visitors（1981，1984 以 CD
-    銷售）– DDD
-  - [Wendy
-    Carlos](https://zh.wikipedia.org/wiki/Wendy_Carlos "wikilink") –
-    [Switched-on Bach
-    2000](https://zh.wikipedia.org/wiki/Switched-on_Bach_2000 "wikilink")
-    – DDDD（額外的「D」指的是實際演奏音樂的樂器也是數位式的，且該錄音是以數位方式錄音、混音和製作母帶）
-  - [Amy Grant](https://zh.wikipedia.org/wiki/Amy_Grant "wikilink") –
-    Lead Me On (1988) – DDD
-  - [Amy Grant](https://zh.wikipedia.org/wiki/Amy_Grant "wikilink") –
-    Heart In Motion (1991) – AAD
-  - Kenny Roberts – You're My Kind Of People (1988) –
-    DDA/DDD（數位錄音和混音，不過最初銷售的只有類比格式。於 2000 年代初期以
-    CD 銷售。）
-  - Kenny Roberts – It Only Makes Me Cry (Forgetting You) (1988) –
-    DDA/DDD（數位錄音和混音，不過最初銷售的只有類比格式。於 2000 年代初期以 CD 銷售。）
-  - [Simple
-    Minds](https://zh.wikipedia.org/wiki/Simple_Minds "wikilink") –
-    Street Fighting Years (1989) – DAD
-  - [Celine Dion](https://zh.wikipedia.org/wiki/Celine_Dion "wikilink")
-    – Unison (1990) – AAD, DDD（第四軌）
+  - [Weezer](https://zh.wikipedia.org/wiki/Weezer "wikilink") – The Blue Album (1994) – AAD
+  - [U2](https://zh.wikipedia.org/wiki/U2 "wikilink") – The Unforgettable Fire (1984) – ADD
+  - [ABBA](../Page/ABBA.md "wikilink") – The Visitors（1981，1984 以 CD 銷售）– DDD
+  - [Wendy Carlos](https://zh.wikipedia.org/wiki/Wendy_Carlos "wikilink") – [Switched-on Bach 2000](https://zh.wikipedia.org/wiki/Switched-on_Bach_2000 "wikilink") – DDDD（額外的「D」指的是實際演奏音樂的樂器也是數位式的，且該錄音是以數位方式錄音、混音和製作母帶）
+  - [Amy Grant](https://zh.wikipedia.org/wiki/Amy_Grant "wikilink") – Lead Me On (1988) – DDD
+  - [Amy Grant](https://zh.wikipedia.org/wiki/Amy_Grant "wikilink") – Heart In Motion (1991) – AAD
+  - Kenny Roberts – You're My Kind Of People (1988) – DDA/DDD（數位錄音和混音，不過最初銷售的只有類比格式。於 2000 年代初期以 CD 銷售。）
+  - Kenny Roberts – It Only Makes Me Cry (Forgetting You) (1988) – DDA/DDD（數位錄音和混音，不過最初銷售的只有類比格式。於 2000 年代初期以 CD 銷售。）
+  - [Simple Minds](https://zh.wikipedia.org/wiki/Simple_Minds "wikilink") – Street Fighting Years (1989) – DAD
+  - [Celine Dion](https://zh.wikipedia.org/wiki/Celine_Dion "wikilink") – Unison (1990) – AAD, DDD（第四軌）
 
 ## 參閱
 
   -
-[Category:唱片](https://zh.wikipedia.org/wiki/Category:唱片 "wikilink")
-[Category:音訊工程](https://zh.wikipedia.org/wiki/Category:音訊工程 "wikilink")
+[Category:唱片](https://zh.wikipedia.org/wiki/Category:唱片 "wikilink") [Category:音訊工程](https://zh.wikipedia.org/wiki/Category:音訊工程 "wikilink")

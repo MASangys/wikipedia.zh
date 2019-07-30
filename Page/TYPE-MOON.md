@@ -1,32 +1,18 @@
-**TYPE-MOON**（日文：，中文：型月（月型）），是[日本遊戲發行商Notes有限公司在發行商品時所使用的品牌名稱](../Page/日本.md "wikilink")。Notes的負責人为画家[武内崇](../Page/武内崇.md "wikilink")，而社名則來自作家[奈須蘑菇的作品](../Page/奈須蘑菇.md "wikilink")《Notes.》。
+**TYPE-MOON**（日文：，中文：型月（月型）），是[日本](../Page/日本.md "wikilink")遊戲發行商Notes有限公司在發行商品時所使用的品牌名稱。Notes的負責人为画家[武内崇](../Page/武内崇.md "wikilink")，而社名則來自作家[奈須蘑菇](../Page/奈須蘑菇.md "wikilink")的作品《Notes.》。
 
 ## 历史
 
 TYPE-MOON原本是一个[同人社團](https://zh.wikipedia.org/wiki/同人社團 "wikilink")，由武内崇及奈須蘑菇兩人主宰。他們第一个比较有知名度的作品是《[空之境界](../Page/空之境界.md "wikilink")》，在1998年10月至1999年5月期间，奈须在他和武内崇的个人网站“[竹箒](https://zh.wikipedia.org/wiki/竹箒 "wikilink")”上的定期连载。而奈须个人的小说作品还有收录于设定本《[青本](https://zh.wikipedia.org/wiki/青本 "wikilink")》的短篇小说《[NOTES.](https://zh.wikipedia.org/wiki/NOTES. "wikilink")》，以及曾日本新文学杂志《浮士德》上连载但未完結的DDD系列。另有未发表作品如《[冰之花](https://zh.wikipedia.org/wiki/冰之花 "wikilink")》等。
 
-TYPE-MOON真正的成名之作是在2000年的冬[Comic
-Market上发行的](../Page/Comic_Market.md "wikilink")《[月姬](../Page/月姬.md "wikilink")》，凭着TYPE-MOON独有的世界观以及对于生死的感触而吸引了无数的玩家。該同人遊戲作品，被动画化成《[真月譚月姬](https://zh.wikipedia.org/wiki/真月譚月姬 "wikilink")》後，TYPE-MOON繼續以同人身份出品了《[月姬PLUS](https://zh.wikipedia.org/wiki/月姬PLUS "wikilink")》、《[歌月十夜](https://zh.wikipedia.org/wiki/歌月十夜 "wikilink")》、《月箱》。而他们还与著名同人[格斗游戏制作社团](https://zh.wikipedia.org/wiki/格斗游戏 "wikilink")“渡边制作所”一起制作了同人格斗游戏《[MELTY
-BLOOD](https://zh.wikipedia.org/wiki/MELTY_BLOOD "wikilink")》，2004年5月发售其资料片《[MELTY
-BLOOD
-Re·act](https://zh.wikipedia.org/wiki/MELTY_BLOOD_Re·act "wikilink")》。而之后更被[街机化](../Page/街机.md "wikilink")，名为「[Melty
-blood Act
-Cadenza](https://zh.wikipedia.org/wiki/Melty_blood_Act_Cadenza "wikilink")」，并于2006年8月发售[PS2版本](https://zh.wikipedia.org/wiki/PS2 "wikilink")。
+TYPE-MOON真正的成名之作是在2000年的冬[Comic Market上发行的](../Page/Comic_Market.md "wikilink")《[月姬](../Page/月姬.md "wikilink")》，凭着TYPE-MOON独有的世界观以及对于生死的感触而吸引了无数的玩家。該同人遊戲作品，被动画化成《[真月譚月姬](https://zh.wikipedia.org/wiki/真月譚月姬 "wikilink")》後，TYPE-MOON繼續以同人身份出品了《[月姬PLUS](https://zh.wikipedia.org/wiki/月姬PLUS "wikilink")》、《[歌月十夜](https://zh.wikipedia.org/wiki/歌月十夜 "wikilink")》、《月箱》。而他们还与著名同人[格斗游戏制作社团](https://zh.wikipedia.org/wiki/格斗游戏 "wikilink")“渡边制作所”一起制作了同人格斗游戏《[MELTY BLOOD](https://zh.wikipedia.org/wiki/MELTY_BLOOD "wikilink")》，2004年5月发售其资料片《[MELTY BLOOD Re·act](https://zh.wikipedia.org/wiki/MELTY_BLOOD_Re·act "wikilink")》。而之后更被[街机](../Page/街机.md "wikilink")化，名为「[Melty blood Act Cadenza](https://zh.wikipedia.org/wiki/Melty_blood_Act_Cadenza "wikilink")」，并于2006年8月发售[PS2版本](https://zh.wikipedia.org/wiki/PS2 "wikilink")。
 
-2003年，武內與奈須設立了Notes有限公司。同年4月，以同人名義發行了收錄過去到現在所發表作品（除了《[Melty
-Blood](../Page/Melty_Blood.md "wikilink")》）的《月箱》之後，解散了同人社團TYPE-MOON，並將其定位為Notes有限公司之下的一個商業品牌。
+2003年，武內與奈須設立了Notes有限公司。同年4月，以同人名義發行了收錄過去到現在所發表作品（除了《[Melty Blood](../Page/Melty_Blood.md "wikilink")》）的《月箱》之後，解散了同人社團TYPE-MOON，並將其定位為Notes有限公司之下的一個商業品牌。
 
-2004年1月30日，有限會社Notes发行了他们在商业公司化后的第一个游戏《[Fate/stay
-night](https://zh.wikipedia.org/wiki/Fate/stay_night "wikilink")》。而《Fate/stay
-night》的Fate路線故事也在2006年1月被动画化，其女主角之一的Saber人气極高（在TYPE-MOON两次举办的人气投票上，都是Saber第一、远坂凛第二、Archer第三）。在2005年秋末，《[Fate/stay
-night](https://zh.wikipedia.org/wiki/Fate/stay_night "wikilink")》的FAN
-DISC《[Fate/hollow
-ataraxia](https://zh.wikipedia.org/wiki/Fate/hollow_ataraxia "wikilink")》发售。
+2004年1月30日，有限會社Notes发行了他们在商业公司化后的第一个游戏《[Fate/stay night](https://zh.wikipedia.org/wiki/Fate/stay_night "wikilink")》。而《Fate/stay night》的Fate路線故事也在2006年1月被动画化，其女主角之一的Saber人气極高（在TYPE-MOON两次举办的人气投票上，都是Saber第一、远坂凛第二、Archer第三）。在2005年秋末，《[Fate/stay night](https://zh.wikipedia.org/wiki/Fate/stay_night "wikilink")》的FAN DISC《[Fate/hollow ataraxia](https://zh.wikipedia.org/wiki/Fate/hollow_ataraxia "wikilink")》发售。
 
-2006年12月29日由TYPE-MOON与Nitro+合作发售了《[Fate/stay
-night](https://zh.wikipedia.org/wiki/Fate/stay_night "wikilink")》的前传小說《[Fate/Zero](https://zh.wikipedia.org/wiki/Fate/Zero "wikilink")》，並于2010年12月21日公布Fate/Zero动画化的消息，制作公司为ufotable。动画于2011年10月1日首播，动画分成前半部及后半部；前半部共13集，播映时间为2011年10月－2011年12月；后半部共12集，播映时间为2012年4月至2012年6月；共25集。
+2006年12月29日由TYPE-MOON与Nitro+合作发售了《[Fate/stay night](https://zh.wikipedia.org/wiki/Fate/stay_night "wikilink")》的前传小說《[Fate/Zero](https://zh.wikipedia.org/wiki/Fate/Zero "wikilink")》，並于2010年12月21日公布Fate/Zero动画化的消息，制作公司为ufotable。动画于2011年10月1日首播，动画分成前半部及后半部；前半部共13集，播映时间为2011年10月－2011年12月；后半部共12集，播映时间为2012年4月至2012年6月；共25集。
 
-2012年4月12日，《[魔法使之夜](../Page/魔法使之夜.md "wikilink")》在Windows平台登陆，本作是与《[月姬](../Page/月姬.md "wikilink")》、《[Fate/stay
-night](https://zh.wikipedia.org/wiki/Fate/stay_night "wikilink")》和《[空之境界](../Page/空之境界.md "wikilink")》相关联的奈须世界的原型。片尾曲由[supercell创作](https://zh.wikipedia.org/wiki/supercell "wikilink")，名为《星が瞬くこんな夜に》。
+2012年4月12日，《[魔法使之夜](../Page/魔法使之夜.md "wikilink")》在Windows平台登陆，本作是与《[月姬](../Page/月姬.md "wikilink")》、《[Fate/stay night](https://zh.wikipedia.org/wiki/Fate/stay_night "wikilink")》和《[空之境界](../Page/空之境界.md "wikilink")》相关联的奈须世界的原型。片尾曲由[supercell创作](https://zh.wikipedia.org/wiki/supercell "wikilink")，名为《星が瞬くこんな夜に》。
 
 他们的成功在日本與[東方Project和](https://zh.wikipedia.org/wiki/東方Project "wikilink")[寒蝉鸣泣之时同被譽為](https://zh.wikipedia.org/wiki/寒蝉鸣泣之时 "wikilink")「同人三大奇蹟」之一\[1\]，具有相当大的影响力，让更多人致力於同人创作。
 
@@ -41,8 +27,7 @@ night](https://zh.wikipedia.org/wiki/Fate/stay_night "wikilink")》和《[空之
 <!-- end list -->
 
   -
-    时间：1999年夏COMIKE（即第57次[Comic
-    Market](../Page/Comic_Market.md "wikilink")，简称C57，下同）
+    时间：1999年夏COMIKE（即第57次[Comic Market](../Page/Comic_Market.md "wikilink")，简称C57，下同）
 
 <!-- end list -->
 
@@ -114,8 +99,7 @@ night](https://zh.wikipedia.org/wiki/Fate/stay_night "wikilink")》和《[空之
 
 <!-- end list -->
 
-  - [MELTY BLOOD
-    Re·Act](https://zh.wikipedia.org/wiki/MELTY_BLOOD_Re·Act "wikilink")
+  - [MELTY BLOOD Re·Act](https://zh.wikipedia.org/wiki/MELTY_BLOOD_Re·Act "wikilink")
 
 <!-- end list -->
 
@@ -125,8 +109,7 @@ night](https://zh.wikipedia.org/wiki/Fate/stay_night "wikilink")》和《[空之
 
 #### Fate系列
 
-  - [Fate/stay
-    night](https://zh.wikipedia.org/wiki/Fate/stay_night "wikilink")（2004年）
+  - [Fate/stay night](https://zh.wikipedia.org/wiki/Fate/stay_night "wikilink")（2004年）
 
 <!-- end list -->
 
@@ -136,8 +119,7 @@ night](https://zh.wikipedia.org/wiki/Fate/stay_night "wikilink")》和《[空之
 
 <!-- end list -->
 
-  - [Fate/hollow
-    ataraxia](https://zh.wikipedia.org/wiki/Fate/hollow_ataraxia "wikilink")（2005年）
+  - [Fate/hollow ataraxia](https://zh.wikipedia.org/wiki/Fate/hollow_ataraxia "wikilink")（2005年）
 
 <!-- end list -->
 
@@ -159,8 +141,7 @@ night](https://zh.wikipedia.org/wiki/Fate/stay_night "wikilink")》和《[空之
 
 <!-- end list -->
 
-  - [Fate/tiger
-    colosseum](https://zh.wikipedia.org/wiki/Fate/tiger_colosseum "wikilink")（2008年）
+  - [Fate/tiger colosseum](https://zh.wikipedia.org/wiki/Fate/tiger_colosseum "wikilink")（2008年）
 
 <!-- end list -->
 
@@ -172,13 +153,11 @@ night](https://zh.wikipedia.org/wiki/Fate/stay_night "wikilink")》和《[空之
 
 <!-- end list -->
 
-  - [Fate/kaleid liner
-    魔法少女☆伊莉雅](https://zh.wikipedia.org/wiki/Fate/kaleid_liner_魔法少女☆伊莉雅 "wikilink")（2014年）
+  - [Fate/kaleid liner 魔法少女☆伊莉雅](https://zh.wikipedia.org/wiki/Fate/kaleid_liner_魔法少女☆伊莉雅 "wikilink")（2014年）
 
 <!-- end list -->
 
-  - [Fate/Grand
-    Order](https://zh.wikipedia.org/wiki/Fate/Grand_Order "wikilink")（2015年）
+  - [Fate/Grand Order](https://zh.wikipedia.org/wiki/Fate/Grand_Order "wikilink")（2015年）
 
 <!-- end list -->
 
@@ -186,8 +165,7 @@ night](https://zh.wikipedia.org/wiki/Fate/stay_night "wikilink")》和《[空之
 
 <!-- end list -->
 
-  - [Fate/EXTELLA
-    LINK](https://zh.wikipedia.org/wiki/Fate/EXTELLA_LINK "wikilink")（2018年）
+  - [Fate/EXTELLA LINK](https://zh.wikipedia.org/wiki/Fate/EXTELLA_LINK "wikilink")（2018年）
 
 #### 其他作品
 
@@ -205,12 +183,10 @@ night](https://zh.wikipedia.org/wiki/Fate/stay_night "wikilink")》和《[空之
 #### 小說
 
   - [Fate/Zero](https://zh.wikipedia.org/wiki/Fate/Zero "wikilink")（2006年－2007年，作者：[虛淵玄](../Page/虛淵玄.md "wikilink")，插圖：武内崇）
-      - 《[Fate/stay
-        night](https://zh.wikipedia.org/wiki/Fate/stay_night "wikilink")》外傳作品。
+      - 《[Fate/stay night](https://zh.wikipedia.org/wiki/Fate/stay_night "wikilink")》外傳作品。
   - [Fate/Apocrypha](https://zh.wikipedia.org/wiki/Fate/Apocrypha "wikilink")（2012年－2014年，作者：[東出祐一郎](https://zh.wikipedia.org/wiki/東出祐一郎 "wikilink")，插圖：[近衛乙嗣](https://zh.wikipedia.org/wiki/近衛乙嗣 "wikilink")）
       - 《Fate/stay night》外傳作品。
-  - [Fate/Prototype
-    蒼銀的碎片](https://zh.wikipedia.org/wiki/Fate/Prototype "wikilink")（2013年－2016年，作者：[櫻井光](https://zh.wikipedia.org/wiki/櫻井光 "wikilink")，插圖：中原）
+  - [Fate/Prototype 蒼銀的碎片](https://zh.wikipedia.org/wiki/Fate/Prototype "wikilink")（2013年－2016年，作者：[櫻井光](https://zh.wikipedia.org/wiki/櫻井光 "wikilink")，插圖：中原）
 
 #### 漫畫
 
@@ -275,22 +251,18 @@ night](https://zh.wikipedia.org/wiki/Fate/stay_night "wikilink")》和《[空之
 
   - [TYPE-MOON第二官方網站](https://web.archive.org/web/20101224122156/http://typemoon.com/index.html)
 
-  - [竹箒](http://www.remus.dti.ne.jp/~takeucto/)（TYPE-MOON創立者[武内崇及](../Page/武内崇.md "wikilink")[奈須蘑菇的日記網站](../Page/奈須蘑菇.md "wikilink")）
+  - [竹箒](http://www.remus.dti.ne.jp/~takeucto/)（TYPE-MOON創立者[武内崇](../Page/武内崇.md "wikilink")及[奈須蘑菇](../Page/奈須蘑菇.md "wikilink")的日記網站）
 
   -
 **非官方网站：**
 
-  - [TYPE-MOON
-    Wiki](http://wiki.cre.jp/typemoon/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8)
-    （介紹TYPE-MOON作品的日文专门百科）
+  - [TYPE-MOON Wiki](http://wiki.cre.jp/typemoon/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8) （介紹TYPE-MOON作品的日文专门百科）
 
-  - [TYPE-MOON
-    Wiki](http://typemoon.wikia.com/wiki/TYPE-MOON_Wiki)（建立在[Wikia上的专门百科](../Page/Wikia.md "wikilink")）
+  - [TYPE-MOON Wiki](http://typemoon.wikia.com/wiki/TYPE-MOON_Wiki)（建立在[Wikia](../Page/Wikia.md "wikilink")上的专门百科）
 
   - [Tsuki-kan](http://www.tsukikan.com/)（TYPE-MOON 英文）
 
-[Category:日本成人遊戲公司](https://zh.wikipedia.org/wiki/Category:日本成人遊戲公司 "wikilink")
-[Category:TYPE-MOON](https://zh.wikipedia.org/wiki/Category:TYPE-MOON "wikilink")
+[Category:日本成人遊戲公司](https://zh.wikipedia.org/wiki/Category:日本成人遊戲公司 "wikilink") [Category:TYPE-MOON](https://zh.wikipedia.org/wiki/Category:TYPE-MOON "wikilink")
 
 1.
 2.

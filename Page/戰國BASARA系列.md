@@ -1,7 +1,6 @@
-《**戰國BASARA**》是[CAPCOM發行的动作游戏系列](https://zh.wikipedia.org/wiki/CAPCOM "wikilink")，第一作为[PS2遊戲](https://zh.wikipedia.org/wiki/PS2 "wikilink")，後續作品亦有登場於[PSP](https://zh.wikipedia.org/wiki/PSP "wikilink")、[PS3](https://zh.wikipedia.org/wiki/PS3 "wikilink")、[PS4](https://zh.wikipedia.org/wiki/PS4 "wikilink")、[Wii等平台](../Page/Wii.md "wikilink")，[惡魔獵人團隊參與製作](https://zh.wikipedia.org/wiki/惡魔獵人 "wikilink")。第一作《戰國BASARA》於北美及歐洲的名稱為《Devil
-Kings》。
+《**戰國BASARA**》是[CAPCOM發行的动作游戏系列](https://zh.wikipedia.org/wiki/CAPCOM "wikilink")，第一作为[PS2遊戲](https://zh.wikipedia.org/wiki/PS2 "wikilink")，後續作品亦有登場於[PSP](https://zh.wikipedia.org/wiki/PSP "wikilink")、[PS3](https://zh.wikipedia.org/wiki/PS3 "wikilink")、[PS4](https://zh.wikipedia.org/wiki/PS4 "wikilink")、[Wii](../Page/Wii.md "wikilink")等平台，[惡魔獵人團隊參與製作](https://zh.wikipedia.org/wiki/惡魔獵人 "wikilink")。第一作《戰國BASARA》於北美及歐洲的名稱為《Devil Kings》。
 
-BASARA在[日語可解作](https://zh.wikipedia.org/wiki/日語 "wikilink")**[婆娑羅](../Page/婆娑羅.md "wikilink")**，是當時下級貴族的一種「僭越行為」；不避諱自己的身份高低而穿著華貴的衣服，以及言行舉止上逾越本分的故做風雅。[足利幕府第一代將軍](https://zh.wikipedia.org/wiki/足利幕府 "wikilink")[足利尊氏在幕府管理的基本方針中予以禁止](../Page/足利尊氏.md "wikilink")。其風潮的代表性人物為源家足利氏首席執事，[高師直](../Page/高師直.md "wikilink")；其他諸如[佐佐木道譽](../Page/佐佐木道譽.md "wikilink")、土岐頼遠等等，均在日本古典文學《[太平記](../Page/太平記.md "wikilink")》中以「婆娑羅[大名](https://zh.wikipedia.org/wiki/大名 "wikilink")」稱之，並且加以批判。
+BASARA在[日語可解作](https://zh.wikipedia.org/wiki/日語 "wikilink")**[婆娑羅](../Page/婆娑羅.md "wikilink")**，是當時下級貴族的一種「僭越行為」；不避諱自己的身份高低而穿著華貴的衣服，以及言行舉止上逾越本分的故做風雅。[足利幕府第一代將軍](https://zh.wikipedia.org/wiki/足利幕府 "wikilink")[足利尊氏](../Page/足利尊氏.md "wikilink")在幕府管理的基本方針中予以禁止。其風潮的代表性人物為源家足利氏首席執事，[高師直](../Page/高師直.md "wikilink")；其他諸如[佐佐木道譽](../Page/佐佐木道譽.md "wikilink")、土岐頼遠等等，均在日本古典文學《[太平記](../Page/太平記.md "wikilink")》中以「婆娑羅[大名](https://zh.wikipedia.org/wiki/大名 "wikilink")」稱之，並且加以批判。
 
 2009年4月1日於[TBS系播放](https://zh.wikipedia.org/wiki/JNN "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。第二季動畫《**戰國BASARA貳**》於2010年7月11日開始播放。
 
@@ -9,57 +8,57 @@ BASARA在[日語可解作](https://zh.wikipedia.org/wiki/日語 "wikilink")**[�
 
 ## 概要
 
-以日本的[戰國時代作為舞台](https://zh.wikipedia.org/wiki/戰國_\(日本\) "wikilink")，[第三人稱](https://zh.wikipedia.org/wiki/汉语人称代词#第三人称 "wikilink")[視角的](../Page/視角.md "wikilink")[3D](https://zh.wikipedia.org/wiki/3D "wikilink")[動作遊戲](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")。遊戲風格與[戰國無雙非常相似](../Page/戰國無雙.md "wikilink")，不過具有[惡搞和](https://zh.wikipedia.org/wiki/惡搞 "wikilink")[現代的要素](https://zh.wikipedia.org/wiki/現代 "wikilink")，很多人將兩個作品作為比較。在遊戲裡的各種舞台、人物設定作了許多大膽地修改，塑造出非常有趣且顛覆歷史的劇情。
+以日本的[戰國時代作為舞台](https://zh.wikipedia.org/wiki/戰國_\(日本\) "wikilink")，[第三人稱](https://zh.wikipedia.org/wiki/汉语人称代词#第三人称 "wikilink")[視角](../Page/視角.md "wikilink")的[3D](https://zh.wikipedia.org/wiki/3D "wikilink")[動作遊戲](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")。遊戲風格與[戰國無雙](../Page/戰國無雙.md "wikilink")非常相似，不過具有[惡搞和](https://zh.wikipedia.org/wiki/惡搞 "wikilink")[現代的要素](https://zh.wikipedia.org/wiki/現代 "wikilink")，很多人將兩個作品作為比較。在遊戲裡的各種舞台、人物設定作了許多大膽地修改，塑造出非常有趣且顛覆歷史的劇情。
 
-遊戲裡的每位[武將都有各自擅長的](https://zh.wikipedia.org/wiki/日本武士 "wikilink")[武器招式和](../Page/武器.md "wikilink")[必殺技](https://zh.wikipedia.org/wiki/必殺技 "wikilink")，只要連續按同一按鈕即可使出各種威力強大且華麗的招式。登場的各武將角色打破了[時空的限制](https://zh.wikipedia.org/wiki/時空 "wikilink")，進行夢幻的對決，讓故事朝著原創的新走向發展，許多壯志未酬的武將們能在玩家的手中實現平定亂世征服天下的夢想。
+遊戲裡的每位[武將都有各自擅長的](https://zh.wikipedia.org/wiki/日本武士 "wikilink")[武器](../Page/武器.md "wikilink")招式和[必殺技](https://zh.wikipedia.org/wiki/必殺技 "wikilink")，只要連續按同一按鈕即可使出各種威力強大且華麗的招式。登場的各武將角色打破了[時空的限制](https://zh.wikipedia.org/wiki/時空 "wikilink")，進行夢幻的對決，讓故事朝著原創的新走向發展，許多壯志未酬的武將們能在玩家的手中實現平定亂世征服天下的夢想。
 
 ## 特色
 
 遊戲加進了很多[現代](https://zh.wikipedia.org/wiki/現代 "wikilink")、[惡搞及對其他著名作品的](https://zh.wikipedia.org/wiki/惡搞 "wikilink")[戲仿成份](https://zh.wikipedia.org/wiki/戲仿 "wikilink")。如下：
 
-  - [伊達政宗會說](../Page/伊達政宗.md "wikilink")[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")（當時日本人說英語的可能性甚低，而政宗的其中一招「Jet-X」的「Jet（噴射）」在當時是未來的事物），其搭檔[片倉小十郎具備著](https://zh.wikipedia.org/wiki/片倉小十郎 "wikilink")[極道特徵](../Page/極道.md "wikilink")，另外其軍隊帶有[暴走族性質](../Page/暴走族.md "wikilink")。
-  - [真田幸村和](https://zh.wikipedia.org/wiki/真田幸村 "wikilink")[武田信玄的師徒關係和個性讓人會想起](../Page/武田信玄.md "wikilink")[高達G中的](https://zh.wikipedia.org/wiki/高達G "wikilink")[多蒙·卡修和東方不敗](../Page/多蒙·卡修.md "wikilink")。其屬下[猿飛佐助的衣服呈現軍事迷彩的顏色](../Page/猿飛佐助.md "wikilink")。
-  - [前田慶次有著孩子王的性格](https://zh.wikipedia.org/wiki/前田慶次 "wikilink")，喜愛[京都的熱鬧](../Page/京都.md "wikilink")、[慶典](https://zh.wikipedia.org/wiki/慶典 "wikilink")、[櫻花和](https://zh.wikipedia.org/wiki/櫻花 "wikilink")[酒](../Page/酒.md "wikilink")，另外與史實不同的是，慶次是為了過不受「管教」的自由生活而來到京都。
+  - [伊達政宗](../Page/伊達政宗.md "wikilink")會說[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")（當時日本人說英語的可能性甚低，而政宗的其中一招「Jet-X」的「Jet（噴射）」在當時是未來的事物），其搭檔[片倉小十郎具備著](https://zh.wikipedia.org/wiki/片倉小十郎 "wikilink")[極道](../Page/極道.md "wikilink")特徵，另外其軍隊帶有[暴走族](../Page/暴走族.md "wikilink")性質。
+  - [真田幸村和](https://zh.wikipedia.org/wiki/真田幸村 "wikilink")[武田信玄](../Page/武田信玄.md "wikilink")的師徒關係和個性讓人會想起[高達G中的](https://zh.wikipedia.org/wiki/高達G "wikilink")[多蒙·卡修](../Page/多蒙·卡修.md "wikilink")和東方不敗。其屬下[猿飛佐助](../Page/猿飛佐助.md "wikilink")的衣服呈現軍事迷彩的顏色。
+  - [前田慶次有著孩子王的性格](https://zh.wikipedia.org/wiki/前田慶次 "wikilink")，喜愛[京都](../Page/京都.md "wikilink")的熱鬧、[慶典](https://zh.wikipedia.org/wiki/慶典 "wikilink")、[櫻花和](https://zh.wikipedia.org/wiki/櫻花 "wikilink")[酒](../Page/酒.md "wikilink")，另外與史實不同的是，慶次是為了過不受「管教」的自由生活而來到京都。
   - [豐臣秀吉的形象從史實上的](https://zh.wikipedia.org/wiki/豐臣秀吉 "wikilink")｢猴子｣升級成｢大猩猩｣。
-  - 慶次和[豐臣秀吉的造型和故事有著](https://zh.wikipedia.org/wiki/豐臣秀吉 "wikilink")[北斗神拳的味道](../Page/北斗神拳.md "wikilink")，而秀吉的造型、個性與戰鬥風格明顯有拳王拉歐的影子。
-  - [本多忠勝的造型戰鬥模式則令人聯想起](../Page/本多忠勝.md "wikilink")[機動戰士高達](https://zh.wikipedia.org/wiki/機動戰士高達 "wikilink")，其主人[德川家康帶有機器人駕駛員的性質](../Page/德川家康.md "wikilink")。
-  - [阿松和](https://zh.wikipedia.org/wiki/阿松 "wikilink")[前田利家是對](../Page/前田利家.md "wikilink")[恩愛的夫婦](../Page/利家與松.md "wikilink")，另外阿松能召喚[動物戰鬥](https://zh.wikipedia.org/wiki/動物 "wikilink")。
+  - 慶次和[豐臣秀吉的造型和故事有著](https://zh.wikipedia.org/wiki/豐臣秀吉 "wikilink")[北斗神拳](../Page/北斗神拳.md "wikilink")的味道，而秀吉的造型、個性與戰鬥風格明顯有拳王拉歐的影子。
+  - [本多忠勝](../Page/本多忠勝.md "wikilink")的造型戰鬥模式則令人聯想起[機動戰士高達](https://zh.wikipedia.org/wiki/機動戰士高達 "wikilink")，其主人[德川家康](../Page/德川家康.md "wikilink")帶有機器人駕駛員的性質。
+  - [阿松和](https://zh.wikipedia.org/wiki/阿松 "wikilink")[前田利家](../Page/前田利家.md "wikilink")是對[恩愛的夫婦](../Page/利家與松.md "wikilink")，另外阿松能召喚[動物戰鬥](https://zh.wikipedia.org/wiki/動物 "wikilink")。
   - 阿松的變身動畫和伊月的造型會讓人想到[魔法少女](../Page/魔法少女.md "wikilink")。
-  - 伊月是一原創角色，是[金太郎的少女版本](../Page/金太郎.md "wikilink")，其武器皆以[神道教](https://zh.wikipedia.org/wiki/神道教 "wikilink")[神祇命名](https://zh.wikipedia.org/wiki/神祇 "wikilink")。
-  - [織田信長被設定為第六天魔王的形像](../Page/織田信長.md "wikilink")，在動畫裡更是凸顯出其跋扈及兇暴的人物性格。
-  - [明智光秀被描寫成手持鐮刀宛如一名](../Page/明智光秀.md "wikilink")[死神](../Page/死神.md "wikilink")，此外他嗜虐又帶點變態的心理更是深植于台詞中。
-  - [濃姬的造型](../Page/濃姬.md "wikilink")，令人聯想到女特務。
-  - [森蘭丸被設定成天真無邪的小孩](../Page/森蘭丸.md "wikilink")，出陣成功時都會有[金平糖當獎品](../Page/金平糖.md "wikilink")。
+  - 伊月是一原創角色，是[金太郎](../Page/金太郎.md "wikilink")的少女版本，其武器皆以[神道教](https://zh.wikipedia.org/wiki/神道教 "wikilink")[神祇命名](https://zh.wikipedia.org/wiki/神祇 "wikilink")。
+  - [織田信長](../Page/織田信長.md "wikilink")被設定為第六天魔王的形像，在動畫裡更是凸顯出其跋扈及兇暴的人物性格。
+  - [明智光秀](../Page/明智光秀.md "wikilink")被描寫成手持鐮刀宛如一名[死神](../Page/死神.md "wikilink")，此外他嗜虐又帶點變態的心理更是深植于台詞中。
+  - [濃姬](../Page/濃姬.md "wikilink")的造型，令人聯想到女特務。
+  - [森蘭丸](../Page/森蘭丸.md "wikilink")被設定成天真無邪的小孩，出陣成功時都會有[金平糖](../Page/金平糖.md "wikilink")當獎品。
   - 政宗、幸村和濃姬的第八把武器，則是[惡魔獵人的主角所用過的武器](https://zh.wikipedia.org/wiki/惡魔獵人 "wikilink")（但到第三代則取消）。
-  - [長宗我部元親被描寫成猶如](../Page/長宗我部元親.md "wikilink")[海盜](https://zh.wikipedia.org/wiki/海盜 "wikilink")，有著獨眼造型（史實上並非獨眼），還有想得到寶藏的慾望和海上男兒的直爽性格，甚至擁有類似[星際大戰中的巨大四足兵器](../Page/星際大戰.md "wikilink")。
-  - [毛利元就被描述成冷酷且詭計多謀的策略家](../Page/毛利元就.md "wikilink")，藐視屬下的性命，服裝儀容帶有[秋葵的特徵](../Page/秋葵.md "wikilink")。游戏中他的武器可以控制我方士兵。
-  - [上杉謙信的外貌猶如女性](../Page/上杉謙信.md "wikilink")（主要是依據傳說上杉是女人的說法而來，但遊戲中性別不明），與手下春日有如[百合戀的味道](https://zh.wikipedia.org/wiki/百合_\(同人\) "wikilink")，本人和其軍團皆帶有[寶塚歌劇團風格](../Page/寶塚歌劇團.md "wikilink")。
-  - [島津義弘棲身於像是](../Page/島津義弘.md "wikilink")[南洋叢林的九州](https://zh.wikipedia.org/wiki/熱帶雨林 "wikilink")，十分好酒。
-  - [今川義元從史記中的肥胖形象改變成瘦子](../Page/今川義元.md "wikilink")，身穿[公家服還帶有像](../Page/公家.md "wikilink")[小丑的特徵](../Page/小丑.md "wikilink")。
+  - [長宗我部元親](../Page/長宗我部元親.md "wikilink")被描寫成猶如[海盜](https://zh.wikipedia.org/wiki/海盜 "wikilink")，有著獨眼造型（史實上並非獨眼），還有想得到寶藏的慾望和海上男兒的直爽性格，甚至擁有類似[星際大戰](../Page/星際大戰.md "wikilink")中的巨大四足兵器。
+  - [毛利元就](../Page/毛利元就.md "wikilink")被描述成冷酷且詭計多謀的策略家，藐視屬下的性命，服裝儀容帶有[秋葵](../Page/秋葵.md "wikilink")的特徵。游戏中他的武器可以控制我方士兵。
+  - [上杉謙信](../Page/上杉謙信.md "wikilink")的外貌猶如女性（主要是依據傳說上杉是女人的說法而來，但遊戲中性別不明），與手下春日有如[百合戀的味道](https://zh.wikipedia.org/wiki/百合_\(同人\) "wikilink")，本人和其軍團皆帶有[寶塚歌劇團](../Page/寶塚歌劇團.md "wikilink")風格。
+  - [島津義弘](../Page/島津義弘.md "wikilink")棲身於像是[南洋叢林的九州](https://zh.wikipedia.org/wiki/熱帶雨林 "wikilink")，十分好酒。
+  - [今川義元](../Page/今川義元.md "wikilink")從史記中的肥胖形象改變成瘦子，身穿[公家](../Page/公家.md "wikilink")服還帶有像[小丑](../Page/小丑.md "wikilink")的特徵。
   - 薩比其實是從史實中來到日本的[傳教士](https://zh.wikipedia.org/wiki/傳教士 "wikilink")[聖方濟·薩威改編](https://zh.wikipedia.org/wiki/聖方濟·薩威 "wikilink")，和[胖虎一樣有著](https://zh.wikipedia.org/wiki/胖虎 "wikilink")「你的東西就是我的東西，我的東西還是我的東西」的信念。其軍隊有時喊出「我有異議！」及天國審判的言論，則是惡搞[逆轉裁判系列](https://zh.wikipedia.org/wiki/逆轉裁判系列 "wikilink")。
   - [北条氏政是個有些神经质的老人家](https://zh.wikipedia.org/wiki/北条氏政 "wikilink")，會召喚祖先的[幽靈戰鬥](https://zh.wikipedia.org/wiki/幽靈 "wikilink")。
-  - [淺井長政的外型和行為舉止活像是](../Page/淺井長政.md "wikilink")[超人力霸王和](../Page/超人力霸王.md "wikilink")[假面騎士](../Page/假面騎士.md "wikilink")，其屬下「五本槍」很明顯是來自[超級戰隊](https://zh.wikipedia.org/wiki/超級戰隊 "wikilink")。
-  - [阿市被描寫成個性陰沉且有自虐傾向](../Page/阿市.md "wikilink")，有[地獄少女的味道](https://zh.wikipedia.org/wiki/地獄少女 "wikilink")（也請配閻魔愛的[能登麻美子擔任聲優](../Page/能登麻美子.md "wikilink")）。
+  - [淺井長政](../Page/淺井長政.md "wikilink")的外型和行為舉止活像是[超人力霸王](../Page/超人力霸王.md "wikilink")和[假面騎士](../Page/假面騎士.md "wikilink")，其屬下「五本槍」很明顯是來自[超級戰隊](https://zh.wikipedia.org/wiki/超級戰隊 "wikilink")。
+  - [阿市](../Page/阿市.md "wikilink")被描寫成個性陰沉且有自虐傾向，有[地獄少女的味道](https://zh.wikipedia.org/wiki/地獄少女 "wikilink")（也請配閻魔愛的[能登麻美子](../Page/能登麻美子.md "wikilink")擔任聲優）。
   - [本願寺顯如崇拜](https://zh.wikipedia.org/wiki/本願寺顯如 "wikilink")[金錢與](https://zh.wikipedia.org/wiki/金錢 "wikilink")[肌肉](../Page/肌肉.md "wikilink")，他和其軍團的造型和言行則是戲仿[魁\!\!男塾](https://zh.wikipedia.org/wiki/魁!!男塾 "wikilink")。
-  - 島津的酒和顯如的藥丸具有著類似[大力水手波菜的功能](../Page/大力水手.md "wikilink")。
-  - [松永久秀被描寫成是個為求慾望而活](../Page/松永久秀.md "wikilink")，並且善用[火藥](https://zh.wikipedia.org/wiki/火藥 "wikilink")（史實上他是以火藥自殺）。
+  - 島津的酒和顯如的藥丸具有著類似[大力水手](../Page/大力水手.md "wikilink")波菜的功能。
+  - [松永久秀](../Page/松永久秀.md "wikilink")被描寫成是個為求慾望而活，並且善用[火藥](https://zh.wikipedia.org/wiki/火藥 "wikilink")（史實上他是以火藥自殺）。
   - 動畫中伊達軍的[馬上裝著類似](https://zh.wikipedia.org/wiki/馬 "wikilink")[機車的排氣管和把手](https://zh.wikipedia.org/wiki/機車 "wikilink")。
-  - [石田三成擺脫了祥瑞的形象](../Page/石田三成.md "wikilink")，取而代之的是[墮天使般的復仇者](../Page/墮天使.md "wikilink")。
-  - [大谷吉繼外型猶如騎乘](../Page/大谷吉繼.md "wikilink")[魔毯的](https://zh.wikipedia.org/wiki/魔毯 "wikilink")[木乃伊](../Page/木乃伊.md "wikilink")。
+  - [石田三成](../Page/石田三成.md "wikilink")擺脫了祥瑞的形象，取而代之的是[墮天使](../Page/墮天使.md "wikilink")般的復仇者。
+  - [大谷吉繼](../Page/大谷吉繼.md "wikilink")外型猶如騎乘[魔毯的](https://zh.wikipedia.org/wiki/魔毯 "wikilink")[木乃伊](../Page/木乃伊.md "wikilink")。
   - [雜賀孫市被設定成第三代雜賀孫市的女性](https://zh.wikipedia.org/wiki/雜賀孫市 "wikilink")，武器為手槍並且有著[牛仔的風格](https://zh.wikipedia.org/wiki/牛仔 "wikilink")。
   - [黑田官兵卫被设计成衣衫褴褛的囚犯形象](https://zh.wikipedia.org/wiki/黑田官兵卫 "wikilink")，同時他的招式「穴倉落し」和第二套服裝則是戲仿[快打旋風4的桑吉爾夫和柯迪](https://zh.wikipedia.org/wiki/快打旋風4 "wikilink")。
   - [直江兼续在本游戏中成了一个纯粹为搞笑而生的上杉军武将](https://zh.wikipedia.org/wiki/直江兼续 "wikilink")（虽是大众脸，但头盔上还是有史籍记载的“爱”字），喜歡说自己是“[无敌的主角](https://zh.wikipedia.org/wiki/天地人_\(NHK大河劇\) "wikilink")”，但每次都很容易被打倒。
   - [最上義光被設定成一位喜愛飛行](https://zh.wikipedia.org/wiki/最上義光 "wikilink")、崇尚品味，以高貴紳士自居的丑角，他的所有事物都是以「超○○」的方式命名。
-  - [小早川秀秋被設定成一位個性軟弱](../Page/小早川秀秋.md "wikilink")、喜好嚐遍天下美食的領主。
-  - [大友宗麟被設定成一位西化](../Page/大友宗麟.md "wikilink")、被寵壞的小孩，其屬下[立花宗茂雖為猛將但內心話很多](../Page/立花宗茂.md "wikilink")，而且十分懼內。
-  - [足利義輝被設定成說話豪邁的戰國創始者](../Page/足利義輝.md "wikilink")，手上的[笏可以變成各種武器](https://zh.wikipedia.org/wiki/笏 "wikilink")。
-  - [島左近被設定為喜歡擲](../Page/島左近.md "wikilink")[骰子](../Page/骰子.md "wikilink")、喜愛[賭博且身手輕巧的青年](https://zh.wikipedia.org/wiki/賭博 "wikilink")。
-  - [柴田勝家的設定是個過去因謀反失敗而放棄一切](../Page/柴田勝家.md "wikilink")，只遵守命令行事的織田尖兵，擁有特殊能力「切層」。
+  - [小早川秀秋](../Page/小早川秀秋.md "wikilink")被設定成一位個性軟弱、喜好嚐遍天下美食的領主。
+  - [大友宗麟](../Page/大友宗麟.md "wikilink")被設定成一位西化、被寵壞的小孩，其屬下[立花宗茂](../Page/立花宗茂.md "wikilink")雖為猛將但內心話很多，而且十分懼內。
+  - [足利義輝](../Page/足利義輝.md "wikilink")被設定成說話豪邁的戰國創始者，手上的[笏可以變成各種武器](https://zh.wikipedia.org/wiki/笏 "wikilink")。
+  - [島左近](../Page/島左近.md "wikilink")被設定為喜歡擲[骰子](../Page/骰子.md "wikilink")、喜愛[賭博且身手輕巧的青年](https://zh.wikipedia.org/wiki/賭博 "wikilink")。
+  - [柴田勝家](../Page/柴田勝家.md "wikilink")的設定是個過去因謀反失敗而放棄一切，只遵守命令行事的織田尖兵，擁有特殊能力「切層」。
   - [山中鹿之介是尼子十勇士的見習生](https://zh.wikipedia.org/wiki/山中鹿之介 "wikilink")，但卻因主君尼子晴久失蹤而與鹿老大一同搜查。其搭檔鹿老大其實是隻母鹿，台詞以顏文字表現。
   - [後藤又兵衛被設定成性格殘忍的武將](https://zh.wikipedia.org/wiki/後藤又兵衛 "wikilink")，會以「處刑」來殺害對手，其服裝與動作具備著[恐龍的特徵](https://zh.wikipedia.org/wiki/恐龍 "wikilink")。
-  - [井伊直虎被設定成對男性懷有對抗意識的](../Page/井伊直虎.md "wikilink")[女性主義者](../Page/女性主義.md "wikilink")，其軍隊是本作中唯一的女兵。
-  - [京極瑪麗亞被設定成有著異國風味的舞者](../Page/京極瑪麗亞.md "wikilink")，戰鬥時動作猶如[韻律體操選手](https://zh.wikipedia.org/wiki/韻律體操 "wikilink")。
-  - [千利休被設定成雙重人格的茶人](../Page/千利休.md "wikilink")，戰鬥時動作猶如超能力者。
+  - [井伊直虎](../Page/井伊直虎.md "wikilink")被設定成對男性懷有對抗意識的[女性主義](../Page/女性主義.md "wikilink")者，其軍隊是本作中唯一的女兵。
+  - [京極瑪麗亞](../Page/京極瑪麗亞.md "wikilink")被設定成有著異國風味的舞者，戰鬥時動作猶如[韻律體操選手](https://zh.wikipedia.org/wiki/韻律體操 "wikilink")。
+  - [千利休](../Page/千利休.md "wikilink")被設定成雙重人格的茶人，戰鬥時動作猶如超能力者。
   - 大部分人物的第七把武器幾乎都是[惡搞成日常物品](https://zh.wikipedia.org/wiki/惡搞 "wikilink")。
 
 ## 人物列表
@@ -169,8 +168,7 @@ BASARA在[日語可解作](https://zh.wikipedia.org/wiki/日語 "wikilink")**[�
 
 :; 玩家可使用武將
 
-::
-伊達政宗、真田幸村、織田信長、濃姬、上杉謙信、武田信玄、伊月、薩比、森蘭丸、明智光秀、春日、前田利家、阿松、猿飛佐助、島津義弘、本多忠勝、毛利元就、長曾我部元親、前田慶次、豐臣秀吉、竹中半兵衛、宮本武藏
+:: 伊達政宗、真田幸村、織田信長、濃姬、上杉謙信、武田信玄、伊月、薩比、森蘭丸、明智光秀、春日、前田利家、阿松、猿飛佐助、島津義弘、本多忠勝、毛利元就、長曾我部元親、前田慶次、豐臣秀吉、竹中半兵衛、宮本武藏
 
 :; 敵方武將
 
@@ -183,14 +181,11 @@ BASARA在[日語可解作](https://zh.wikipedia.org/wiki/日語 "wikilink")**[�
 
 遊戲改進了前作的連擊系統，鼓勵玩家在戰鬥中使用各種攻擊手段來累積連擊數，使得不管是使用哪個角色都有可能在一場戰鬥之中達到破千的連擊數（一些以連擊為主的角色甚至可以達到遊戲的最高連擊數99999Hit）並且當達成百人斬之後將可以使用二代新增的「戰極狂驅（戦極ドライブ）」，在此模式中玩家將不會被擊倒、攻擊速度強化，並且可以使用攻擊力更強的「究極BASARA技」，等級高的武將甚至可以將戰極累積到二段或是三段以增加戰極的持續時間，不過相對的本作的對方的武將也可能會發動戰極，大大的增加了武將戰的挑戰性。
 
-二代成功的將前作的精華保留，並且新加入的要素也將遊戲性及耐玩性更加的發揚光大。但是其要素的收集之艱難卻也是本作的缺點，要取得每個人的最強武器必須要破一百場大武鬥會，商店中販售的道具價格通常也不低，後期的商品可能到要玩好幾十場戰役才能賺取足夠的錢，大大的磨掉了不少玩者的耐心。但也因為這樣，使許多玩家加意研究，也就出現了相當快速的賺錢法。大武鬥會方面，也能以技術換取時間，熟練的玩家大約只需一至二小時就可過關。
-總結而論，二代的表現比起一代各方面都有著大幅的進步，就一騎當千類型的遊戲來說是一款很傑出的作品。
+二代成功的將前作的精華保留，並且新加入的要素也將遊戲性及耐玩性更加的發揚光大。但是其要素的收集之艱難卻也是本作的缺點，要取得每個人的最強武器必須要破一百場大武鬥會，商店中販售的道具價格通常也不低，後期的商品可能到要玩好幾十場戰役才能賺取足夠的錢，大大的磨掉了不少玩者的耐心。但也因為這樣，使許多玩家加意研究，也就出現了相當快速的賺錢法。大武鬥會方面，也能以技術換取時間，熟練的玩家大約只需一至二小時就可過關。 總結而論，二代的表現比起一代各方面都有著大幅的進步，就一騎當千類型的遊戲來說是一款很傑出的作品。
 
 ### 戰國BASARA2：英雄外傳
 
-CAPCOM於2007年11月29日發售的系列新作，同時發售在Wii和PS2兩個平台上。前作無法使用的所有敵武將也大都改為可用角色
-包括片倉小十郎、阿市、淺井長政、本願寺顯如、風魔小太郎、德川家康、北條氏政以及今川義元，並且新增一名敵武將松永久秀。
-本作也增加多達16個新關卡以及八種對戰模式。並且將遊戲畫風由土林誠老師奔放豪邁的水墨畫風改為2D賽璐璐式畫風，系統以及選單等畫面也都重新設定。PS2版本的本作亦可承繼2代所有角色能力，武器道具...等資料存檔，而Wii版的紀錄存檔則是可以直接互通（註：Wii是戰國BASARA2以及英雄外傳一同發行）。
+CAPCOM於2007年11月29日發售的系列新作，同時發售在Wii和PS2兩個平台上。前作無法使用的所有敵武將也大都改為可用角色 包括片倉小十郎、阿市、淺井長政、本願寺顯如、風魔小太郎、德川家康、北條氏政以及今川義元，並且新增一名敵武將松永久秀。 本作也增加多達16個新關卡以及八種對戰模式。並且將遊戲畫風由土林誠老師奔放豪邁的水墨畫風改為2D賽璐璐式畫風，系統以及選單等畫面也都重新設定。PS2版本的本作亦可承繼2代所有角色能力，武器道具...等資料存檔，而Wii版的紀錄存檔則是可以直接互通（註：Wii是戰國BASARA2以及英雄外傳一同發行）。
 
 ### 戰國BASARA：X
 
@@ -207,20 +202,16 @@ CAPCOM於2007年11月29日發售的系列新作，同時發售在Wii和PS2兩個
       -
         伊達政宗、真田幸村、織田信長、濃姬、上杉謙信、武田信玄、伊月、薩比、森蘭丸、明智光秀、春日、前田利家、阿松、猿飛佐助、島津義弘、本多忠勝、片倉小十郎、風魔小太郎、前田慶次、德川家康(少年)、本願寺顯如、長曾我部元親、豐臣秀吉、竹中半兵衛、宮本武藏、北條氏政、今川義元、淺井長政、阿市、毛利元就
 
-    2009年春季推出的 [PSP](https://zh.wikipedia.org/wiki/PSP "wikilink")
-    戰國動作遊戲《戰國BASARA：熱戰英雄（戦国BASARA BATTLE
-    HEROES）》。承襲原作世界觀與角色設定，並採用嶄新的 2 對 2
-    團隊對戰動作玩法。三十名武將將有各自的故事模式。
+    2009年春季推出的 [PSP](https://zh.wikipedia.org/wiki/PSP "wikilink") 戰國動作遊戲《戰國BASARA：熱戰英雄（戦国BASARA BATTLE HEROES）》。承襲原作世界觀與角色設定，並採用嶄新的 2 對 2 團隊對戰動作玩法。三十名武將將有各自的故事模式。
 
-    對戰中各角色所能施展的招式主要區分為 2
-    大類型，分別為以遠距離攻擊來牽制對手行動的「牽制技」，以及充分反應角色特色的強力攻擊招式「固有技」。除此之外並具備特殊防禦迴避技巧以及提升能力的「熱驅（Drive）」系統等，2009年4月9日發售。
+    對戰中各角色所能施展的招式主要區分為 2 大類型，分別為以遠距離攻擊來牽制對手行動的「牽制技」，以及充分反應角色特色的強力攻擊招式「固有技」。除此之外並具備特殊防禦迴避技巧以及提升能力的「熱驅（Drive）」系統等，2009年4月9日發售。
 
     本作引入了《[鋼彈系列](https://zh.wikipedia.org/wiki/鋼彈系列作品 "wikilink")》的戰鬥系統，部分關卡會以「戰力值」決定關卡勝敗條件。
 
 ### 戰國BASARA3
 
   -
-    遊戲將以西元1600年所發生的[關原之戰為背景](../Page/關原之戰.md "wikilink")，在這場戰役中對抗雙方各自動員了超過10萬兵力，是終結戰國亂世的一場決定性戰爭。
+    遊戲將以西元1600年所發生的[關原之戰](../Page/關原之戰.md "wikilink")為背景，在這場戰役中對抗雙方各自動員了超過10萬兵力，是終結戰國亂世的一場決定性戰爭。
 
 :; 登場人物
 
@@ -259,10 +250,9 @@ CAPCOM於2007年11月29日發售的系列新作，同時發售在Wii和PS2兩個
       -
         伊達政宗、真田幸村、織田信長、濃姬、上杉謙信、武田信玄、伊月、薩比、森蘭丸、明智光秀、春日、前田利家、阿松、猿飛佐助、島津義弘、本多忠勝、片倉小十郎、風魔小太郎、前田慶次、德川家康(少年)、本願寺顯如、長曾我部元親、豐臣秀吉、竹中半兵衛、宮本武藏、北條氏政、今川義元、淺井長政、阿市、毛利元就，追加角色為德川家康(青年)和石田三成
 
-    2011年7月21日發售，平台為[PSP](https://zh.wikipedia.org/wiki/PSP "wikilink")（下載版僅有PSPgo、[PlayStation
-    Vita支援](../Page/PlayStation_Vita.md "wikilink")）
+    2011年7月21日發售，平台為[PSP](https://zh.wikipedia.org/wiki/PSP "wikilink")（下載版僅有PSPgo、[PlayStation Vita支援](../Page/PlayStation_Vita.md "wikilink")）
 
-    遊戲以西元1600年所發生的[關原之戰為背景](../Page/關原之戰.md "wikilink")，在這場戰役中對抗雙方各自動員了超過10萬兵力，是終結戰國亂世的一場決定性戰爭。
+    遊戲以西元1600年所發生的[關原之戰](../Page/關原之戰.md "wikilink")為背景，在這場戰役中對抗雙方各自動員了超過10萬兵力，是終結戰國亂世的一場決定性戰爭。
 
     本作是一款集合《戰國BASARA》系列中大家都極為熟悉、充滿個人魅力的英雄們，在群雄割據的戰國時代中，展開一場場激烈戰鬥的動作遊戲。本作以天下一統為目標的「天下統一戰記」為主，任務模式變成以東軍（德川家康）或是西軍（石田三成）為主，各勢力需要完成50個任務才能通關。
 
@@ -270,7 +260,7 @@ CAPCOM於2007年11月29日發售的系列新作，同時發售在Wii和PS2兩個
 
     初回版附贈了一張有[SEGA推出的](https://zh.wikipedia.org/wiki/SEGA "wikilink")「真田幸村」特製PR卡片，使用於《戰國大戰》，就能在該遊戲中，以《戰國BASARA》的形象使用真田幸村。
 
-    由於伊月的配音員[川上倫子在](../Page/川上倫子.md "wikilink")2011年6月9日過世，因此本作仍收錄其配音作為紀念。
+    由於伊月的配音員[川上倫子](../Page/川上倫子.md "wikilink")在2011年6月9日過世，因此本作仍收錄其配音作為紀念。
 
 ### 戰國BASARA3：宴
 
@@ -285,10 +275,8 @@ CAPCOM於2007年11月29日發售的系列新作，同時發售在Wii和PS2兩個
 
   -
     2012年8月30日發售
-    集合曾在PS2登場的《戰國BASARA》（初代）、《戰國BASARA
-    2》、《戰國BASARA2：英雄外傳》，重新以高解析度的畫面於PS3登場之遊戲。
-    配合BSR48所設計之「戦国BASARA 第1回BSR48選抜総選挙 ドラマCD 〜Soul
-    revolution〜」所收錄前七大人氣武將之劇場CD，被作為本遊戲之限定特典紀念品。
+    集合曾在PS2登場的《戰國BASARA》（初代）、《戰國BASARA 2》、《戰國BASARA2：英雄外傳》，重新以高解析度的畫面於PS3登場之遊戲。
+    配合BSR48所設計之「戦国BASARA 第1回BSR48選抜総選挙 ドラマCD 〜Soul revolution〜」所收錄前七大人氣武將之劇場CD，被作為本遊戲之限定特典紀念品。
 
 ### 戰國BASARA4
 
@@ -316,15 +304,11 @@ CAPCOM於2007年11月29日發售的系列新作，同時發售在Wii和PS2兩個
 
 ## 電視動畫
 
-2009年4月1日開始在[TBS系部分電視台播放](https://zh.wikipedia.org/wiki/TBS系 "wikilink")，並於第12話播放完畢時，預告「2010年
-第二期 出陣\!」的消息。全13話。
+2009年4月1日開始在[TBS系部分電視台播放](https://zh.wikipedia.org/wiki/TBS系 "wikilink")，並於第12話播放完畢時，預告「2010年 第二期 出陣\!」的消息。全13話。
 
-2010年4月11日宣佈第二季動畫「**戰國BASARA貳**」（「貳」讀作[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")「two」）於2010年7月4日開始在[TBS系全](https://zh.wikipedia.org/wiki/TBS系 "wikilink")28台播放，但之後因「[鋼之鍊金術師
-FULLMETAL
-ALCHEMIST](../Page/鋼之鍊金術師_FULLMETAL_ALCHEMIST.md "wikilink")」延後一週完結，故將放送日期延至2010年7月11日開始。全13話。
+2010年4月11日宣佈第二季動畫「**戰國BASARA貳**」（「貳」讀作[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")「two」）於2010年7月4日開始在[TBS系全](https://zh.wikipedia.org/wiki/TBS系 "wikilink")28台播放，但之後因「[鋼之鍊金術師 FULLMETAL ALCHEMIST](../Page/鋼之鍊金術師_FULLMETAL_ALCHEMIST.md "wikilink")」延後一週完結，故將放送日期延至2010年7月11日開始。全13話。
 
-2014年7月5日「**戰國BASARA：Judge
-End**」開始在[日本電視台播放](../Page/日本電視台.md "wikilink")，連同製作小組的人員也大幅更換。但注意點是本作以三代劇情(有加三宴的部份劇情)為主，並重新開始。和前兩季及劇場版劇情並無任何關聯。
+2014年7月5日「**戰國BASARA：Judge End**」開始在[日本電視台](../Page/日本電視台.md "wikilink")播放，連同製作小組的人員也大幅更換。但注意點是本作以三代劇情(有加三宴的部份劇情)為主，並重新開始。和前兩季及劇場版劇情並無任何關聯。
 
 ### 工作人員
 
@@ -350,10 +334,7 @@ End**」開始在[日本電視台播放](../Page/日本電視台.md "wikilink")�
   - 製作人：寺西史、木下哲哉、前田俊博、和田丈嗣、金庭惠、吉村行夫、野崎圭一、岩佐芳弘
   - 動畫製作人：中武哲也
   - 動畫製作：[Production I.G](../Page/Production_I.G.md "wikilink")
-  - 第1季製作：TEAM
-    BASARA（[松竹](../Page/松竹.md "wikilink")、[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")、Production
-    I.G、、[電通](https://zh.wikipedia.org/wiki/電通 "wikilink")、flying
-    DOG、[每日放送](../Page/每日放送.md "wikilink")、[中部日本放送](../Page/中部日本放送.md "wikilink")）
+  - 第1季製作：TEAM BASARA（[松竹](../Page/松竹.md "wikilink")、[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")、Production I.G、、[電通](https://zh.wikipedia.org/wiki/電通 "wikilink")、flying DOG、[每日放送](../Page/每日放送.md "wikilink")、[中部日本放送](../Page/中部日本放送.md "wikilink")）
   - 第2季製作：TEAM BASARA（松竹、波麗佳音、Production I.G、、電通、flying DOG）、毎日放送
 
 ### 動畫登場人物
@@ -676,8 +657,7 @@ End**」開始在[日本電視台播放](../Page/日本電視台.md "wikilink")�
   - 攝影監督 - 織田頼信
   - 編輯 - 池田康隆
   - 音響監督 - 岩浪美和
-  - 音響制作 - [DAX
-    INTERNATIONAL](https://zh.wikipedia.org/wiki/DAX_INTERNATIONAL "wikilink")
+  - 音響制作 - [DAX INTERNATIONAL](https://zh.wikipedia.org/wiki/DAX_INTERNATIONAL "wikilink")
   - 音樂 - [立山秋航](https://zh.wikipedia.org/wiki/立山秋航 "wikilink")
   - 劇判制作 - ハイキックエンタテインメント
   - 動畫製作協助 - マル画ファクトリー
@@ -691,41 +671,29 @@ End**」開始在[日本電視台播放](../Page/日本電視台.md "wikilink")�
 
 <!-- end list -->
 
-  - [伊達政宗](../Page/伊達政宗.md "wikilink") -
-    [中井和哉](../Page/中井和哉.md "wikilink")
+  - [伊達政宗](../Page/伊達政宗.md "wikilink") - [中井和哉](../Page/中井和哉.md "wikilink")
       - 1年1組，隸屬棒球部。
-  - [真田幸村](https://zh.wikipedia.org/wiki/真田幸村 "wikilink") -
-    [保志總一朗](../Page/保志總一朗.md "wikilink")
+  - [真田幸村](https://zh.wikipedia.org/wiki/真田幸村 "wikilink") - [保志總一朗](../Page/保志總一朗.md "wikilink")
       - 1年1組，隸屬足球部。
-  - [德川家康](../Page/德川家康.md "wikilink") -
-    [增田俊樹](../Page/增田俊樹.md "wikilink")
+  - [德川家康](../Page/德川家康.md "wikilink") - [增田俊樹](../Page/增田俊樹.md "wikilink")
       - 1年2組。現在，由於前學生会長（秀吉）被解職，目前正在競選新会長。
-  - [石田三成](../Page/石田三成.md "wikilink") -
-    [關智一](../Page/關智一.md "wikilink")
+  - [石田三成](../Page/石田三成.md "wikilink") - [關智一](../Page/關智一.md "wikilink")
       - 1年2組。因為秀吉解職事件而與家康對立，自己也正在競選新会長。
-  - [前田慶次](../Page/前田利益.md "wikilink") -
-    [森田成一](../Page/森田成一.md "wikilink")
+  - [前田慶次](../Page/前田利益.md "wikilink") - [森田成一](../Page/森田成一.md "wikilink")
       - 1年1組。因為愛流浪，所以經常休學。
-  - [長曾我部元親](../Page/長宗我部元親.md "wikilink") -
-    [石野龍三](../Page/石野龍三.md "wikilink")
+  - [長曾我部元親](../Page/長宗我部元親.md "wikilink") - [石野龍三](../Page/石野龍三.md "wikilink")
       - 1年4組。學園的番長。
-  - [毛利元就](../Page/毛利元就.md "wikilink") -
-    [中原茂](../Page/中原茂.md "wikilink")
+  - [毛利元就](../Page/毛利元就.md "wikilink") - [中原茂](../Page/中原茂.md "wikilink")
       - 1年4組。隸屬吹奏部（部長）。
-  - [島左近](https://zh.wikipedia.org/wiki/島清興 "wikilink") -
-    [中村悠一](../Page/中村悠一.md "wikilink")
+  - [島左近](https://zh.wikipedia.org/wiki/島清興 "wikilink") - [中村悠一](../Page/中村悠一.md "wikilink")
       - 1年3組。（跳級入學）對三成相當尊敬並協助他的競選活動。
-  - [柴田勝家](../Page/柴田勝家.md "wikilink") -
-    [岡本信彦](https://zh.wikipedia.org/wiki/岡本信彦 "wikilink")
+  - [柴田勝家](../Page/柴田勝家.md "wikilink") - [岡本信彦](https://zh.wikipedia.org/wiki/岡本信彦 "wikilink")
       - 1年3組。（與左近同様跳級入學）看似菁英學生，實際上卻是個前不良少年。
-  - [鶴姫](https://zh.wikipedia.org/wiki/鶴姫_\(大三島\) "wikilink") -
-    [小清水亞美](../Page/小清水亞美.md "wikilink")
+  - [鶴姫](https://zh.wikipedia.org/wiki/鶴姫_\(大三島\) "wikilink") - [小清水亞美](../Page/小清水亞美.md "wikilink")
       - 1年4組。隸屬占卜同好會。擅長用飛鏢占卜並因為相當準確而受到好評。
-  - [小早川秀秋](../Page/小早川秀秋.md "wikilink") -
-    [福山潤](../Page/福山潤.md "wikilink")
+  - [小早川秀秋](../Page/小早川秀秋.md "wikilink") - [福山潤](../Page/福山潤.md "wikilink")
       - 1年4組。隸屬火鍋同好會。外表看似少年而個性懦弱。
-  - [後藤又兵衛](../Page/後藤基次.md "wikilink") -
-    [三木真一郎](../Page/三木真一郎.md "wikilink")
+  - [後藤又兵衛](../Page/後藤基次.md "wikilink") - [三木真一郎](../Page/三木真一郎.md "wikilink")
       - 1年1組。個性纏人，對於不喜歡的人會逐一列入他的「閻魔帳」，極度痛恨政宗。
 
 <!-- end list -->
@@ -734,34 +702,25 @@ End**」開始在[日本電視台播放](../Page/日本電視台.md "wikilink")�
 
 <!-- end list -->
 
-  - [片倉小十郎](../Page/片倉景綱.md "wikilink") -
-    [森川智之](../Page/森川智之.md "wikilink")
+  - [片倉小十郎](../Page/片倉景綱.md "wikilink") - [森川智之](../Page/森川智之.md "wikilink")
       - 2年1組，隸屬棒球部。（捕手）
-  - [猿飛佐助](../Page/猿飛佐助.md "wikilink") -
-    [子安武人](../Page/子安武人.md "wikilink")
+  - [猿飛佐助](../Page/猿飛佐助.md "wikilink") - [子安武人](../Page/子安武人.md "wikilink")
       - 2年1組，隸屬足球部及新聞部。
   - 春日 - [桑谷夏子](../Page/桑谷夏子.md "wikilink")
       - 2年1組。隸屬新体操部。
-  - [淺井長政](../Page/淺井長政.md "wikilink") -
-    [辻谷耕史](../Page/辻谷耕史.md "wikilink")
+  - [淺井長政](../Page/淺井長政.md "wikilink") - [辻谷耕史](../Page/辻谷耕史.md "wikilink")
       - 2年3組。風紀委員長。
-  - [阿市](../Page/阿市.md "wikilink") -
-    [能登麻美子](../Page/能登麻美子.md "wikilink")
+  - [阿市](../Page/阿市.md "wikilink") - [能登麻美子](../Page/能登麻美子.md "wikilink")
       - 2年3組。風紀委員。織田學園長的妹妹。
-  - [大谷吉繼](../Page/大谷吉繼.md "wikilink") -
-    [立木文彦](../Page/立木文彦.md "wikilink")
+  - [大谷吉繼](../Page/大谷吉繼.md "wikilink") - [立木文彦](../Page/立木文彦.md "wikilink")
       - 2年4組。為了幫助三成成為學生會長，日夜專注於秘密活動。
-  - [前田利家](../Page/前田利家.md "wikilink") -
-    [坪井智浩](../Page/坪井智浩.md "wikilink")
+  - [前田利家](../Page/前田利家.md "wikilink") - [坪井智浩](../Page/坪井智浩.md "wikilink")
       - 2年4組。隸屬田徑部。
-  - [阿松](../Page/芳春院.md "wikilink") -
-    [甲斐田裕子](../Page/甲斐田裕子.md "wikilink")
+  - [阿松](../Page/芳春院.md "wikilink") - [甲斐田裕子](../Page/甲斐田裕子.md "wikilink")
       - 2年4組。隸屬田徑部。與利家是一對熱戀的情侶。
-  - [竹中半兵衛](../Page/竹中重治.md "wikilink") -
-    [石田彰](../Page/石田彰.md "wikilink")
+  - [竹中半兵衛](../Page/竹中重治.md "wikilink") - [石田彰](../Page/石田彰.md "wikilink")
       - 2年2組。前學生會副會長，現在因為秀吉被解職的事情而遭到停學並且行蹤不明。
-  - [黑田官兵衛](../Page/黑田孝高.md "wikilink") -
-    [小山力也](../Page/小山力也.md "wikilink")
+  - [黑田官兵衛](../Page/黑田孝高.md "wikilink") - [小山力也](../Page/小山力也.md "wikilink")
       - 2年2組。不知何時開始，就在本人也不知道的情況下，雙手被銬上一個付有輪胎的手枷，而且還因為找不到鑰匙而無法取下。
 
 <!-- end list -->
@@ -781,20 +740,15 @@ End**」開始在[日本電視台播放](../Page/日本電視台.md "wikilink")�
 
 <!-- end list -->
 
-  - [上杉謙信](../Page/上杉謙信.md "wikilink") -
-    [朴璐美](../Page/朴璐美.md "wikilink")
+  - [上杉謙信](../Page/上杉謙信.md "wikilink") - [朴璐美](../Page/朴璐美.md "wikilink")
       - 美術担当。新体操部的顧問老師。
-  - [武田信玄](../Page/武田信玄.md "wikilink") -
-    [玄田哲章](../Page/玄田哲章.md "wikilink")
+  - [武田信玄](../Page/武田信玄.md "wikilink") - [玄田哲章](../Page/玄田哲章.md "wikilink")
       - 体育老師，也是足球部的顧問。
-  - [明智光秀](../Page/明智光秀.md "wikilink") -
-    [速水獎](../Page/速水獎.md "wikilink")
+  - [明智光秀](../Page/明智光秀.md "wikilink") - [速水獎](../Page/速水獎.md "wikilink")
       - 校醫。
-  - [織田信長](../Page/織田信長.md "wikilink") -
-    [若本規夫](../Page/若本規夫.md "wikilink")
+  - [織田信長](../Page/織田信長.md "wikilink") - [若本規夫](../Page/若本規夫.md "wikilink")
       - BASARA學園的學園長。同時也是「本能寺學園」的學園長。
-  - [雜賀孫市](https://zh.wikipedia.org/wiki/鈴木孫一 "wikilink") -
-    [大原沙耶香](../Page/大原沙耶香.md "wikilink")
+  - [雜賀孫市](https://zh.wikipedia.org/wiki/鈴木孫一 "wikilink") - [大原沙耶香](../Page/大原沙耶香.md "wikilink")
       - 物理老師。會用百發百中的粉筆子彈特別照顧不良學生。過去似乎與長曾我部相識。
   - 伊月 - [澤城美雪](../Page/澤城美雪.md "wikilink")
       - 學園食堂的廚娘。外表看似小女孩但年齢不詳，深愛米飯，並且還有粉絲俱樂部。
@@ -804,9 +758,7 @@ End**」開始在[日本電視台播放](../Page/日本電視台.md "wikilink")�
   - 主題曲『』
     作詞：君島零，作曲：遠藤和斗、深澤祐貴，編曲：遠藤和斗、久下真音，主唱：EIGHT OF TRIANGLE
   - 片尾曲『Be Affected』\[4\]
-    作詞、作曲、編曲：[Fear, and Loathing in Las
-    Vegas](../Page/Fear,_and_Loathing_in_Las_Vegas.md "wikilink")，主唱：[西川貴教與Fear](https://zh.wikipedia.org/wiki/西川貴教 "wikilink"),
-    and Loathing in Las Vegas
+    作詞、作曲、編曲：[Fear, and Loathing in Las Vegas](../Page/Fear,_and_Loathing_in_Las_Vegas.md "wikilink")，主唱：[西川貴教與Fear](https://zh.wikipedia.org/wiki/西川貴教 "wikilink"), and Loathing in Las Vegas
 
 ##### 各話列表（學園）
 
@@ -966,9 +918,7 @@ End**」開始在[日本電視台播放](../Page/日本電視台.md "wikilink")�
 
   -
     「**JAP**」**（第1話 - 第12話）**
-    作詞：[西川貴教](https://zh.wikipedia.org/wiki/西川貴教 "wikilink")，作曲：柴崎浩，編曲：abingdon
-    boys school，歌：[abingdon boys
-    school](https://zh.wikipedia.org/wiki/abingdon_boys_school "wikilink")
+    作詞：[西川貴教](https://zh.wikipedia.org/wiki/西川貴教 "wikilink")，作曲：柴崎浩，編曲：abingdon boys school，歌：[abingdon boys school](https://zh.wikipedia.org/wiki/abingdon_boys_school "wikilink")
 
 <!-- end list -->
 
@@ -990,9 +940,7 @@ End**」開始在[日本電視台播放](../Page/日本電視台.md "wikilink")�
 
   -
     「**Unravel**」**（第6話）**
-    作詞、作曲：[DAIGO](https://zh.wikipedia.org/wiki/DAIGO "wikilink")，編曲：MASAHIKO
-    "DATTI"
-    IIDA，歌：[DAIGO☆STARDUST](https://zh.wikipedia.org/wiki/DAIGO "wikilink")
+    作詞、作曲：[DAIGO](https://zh.wikipedia.org/wiki/DAIGO "wikilink")，編曲：MASAHIKO "DATTI" IIDA，歌：[DAIGO☆STARDUST](https://zh.wikipedia.org/wiki/DAIGO "wikilink")
     「****」**（第6話）**
     作詞、作曲：石川智晶，編曲：，歌：[石川智晶](../Page/石川智晶.md "wikilink")
 
@@ -1047,8 +995,7 @@ End**」開始在[日本電視台播放](../Page/日本電視台.md "wikilink")�
 
   -
     「**Thunderclap**」
-    作詞、作曲、編曲、歌：[Fear, and loathing in Las
-    Vegas](https://zh.wikipedia.org/wiki/Fear,_and_loathing_in_Las_Vegas "wikilink")
+    作詞、作曲、編曲、歌：[Fear, and loathing in Las Vegas](https://zh.wikipedia.org/wiki/Fear,_and_loathing_in_Las_Vegas "wikilink")
 
 <!-- end list -->
 
@@ -1677,7 +1624,7 @@ End**」開始在[日本電視台播放](../Page/日本電視台.md "wikilink")�
 
 ## 電視劇
 
-[MBS從](../Page/每日放送.md "wikilink")2012年7月12日開始、[BS-TBS則是從](../Page/BS-TBS.md "wikilink")2012年9月4日開始播放。主演為[林遣都及](../Page/林遣都.md "wikilink")[武田航平](https://zh.wikipedia.org/wiki/武田航平 "wikilink")。
+[MBS從](../Page/每日放送.md "wikilink")2012年7月12日開始、[BS-TBS](../Page/BS-TBS.md "wikilink")則是從2012年9月4日開始播放。主演為[林遣都](../Page/林遣都.md "wikilink")及[武田航平](https://zh.wikipedia.org/wiki/武田航平 "wikilink")。
 
 ### 人物
 
@@ -1720,9 +1667,7 @@ End**」開始在[日本電視台播放](../Page/日本電視台.md "wikilink")�
   - 製作：三宅容介、宮路敬久、丹羽多聞アンドリウ、松田圭太、佐伯寛之
   - 企畫：ポニーキャニオン
   - 製作生產：サモワール
-  - 製作・著作：「戦国BASARA -MOONLIGHT
-    PARTY-」製作委員会（ポニーキャニオン、日本出版販売、BS-TBS、ライスフィールド、サモワール）
-    / MBS
+  - 製作・著作：「戦国BASARA -MOONLIGHT PARTY-」製作委員会（ポニーキャニオン、日本出版販売、BS-TBS、ライスフィールド、サモワール） / MBS
 
 ### 播放列表
 
@@ -1886,16 +1831,14 @@ End**」開始在[日本電視台播放](../Page/日本電視台.md "wikilink")�
 </tbody>
 </table>
 
-  - MBS -
-    8月2日及8月9日因[2012年夏季奧林匹克運動會暫停播出](https://zh.wikipedia.org/wiki/2012年夏季奧林匹克運動會 "wikilink")。
+  - MBS - 8月2日及8月9日因[2012年夏季奧林匹克運動會暫停播出](https://zh.wikipedia.org/wiki/2012年夏季奧林匹克運動會 "wikilink")。
 
 ## 系列
 
   - 《**戰國BASARA**》2005年7月21日發售
   - 《**戰國BASARA2**》2006年7月27日發售
   - 《**戰國BASARA2英雄外傳 HEROES**》2007年11月29日發售
-  - 《**戰國BASARA
-    X**》[PS2版](https://zh.wikipedia.org/wiki/PS2 "wikilink")2008年6月26日發售
+  - 《**戰國BASARA X**》[PS2版](https://zh.wikipedia.org/wiki/PS2 "wikilink")2008年6月26日發售
   - 《**戰國BASARA 熱戰英雄**》2009年4月9日發售
   - 《**戰國BASARA3**》2010年7月29日發售
   - 《**戰國BASARA 年代群雄**》2011年7月21日發售
@@ -1906,47 +1849,35 @@ End**」開始在[日本電視台播放](../Page/日本電視台.md "wikilink")�
 
   - **CD**
       - 戰國BASARA [OST](https://zh.wikipedia.org/wiki/OST "wikilink")
-      - 戰國BASARA \~宿命！[川中島合戰](../Page/川中島之戰.md "wikilink")\~ ()（Drama
-        CD）
+      - 戰國BASARA \~宿命！[川中島合戰](../Page/川中島之戰.md "wikilink")\~ ()（Drama CD）
       - 戰國BASARA2 OST
-      - 戰國BASARA2
-        \~百花繚乱！[小田原之役](https://zh.wikipedia.org/wiki/小田原之役 "wikilink")\~
-        ()（Drama CD）
-      - 戰國BASARA2
-        \~蒼穹！[姉川之戰](https://zh.wikipedia.org/wiki/姉川之戰 "wikilink")\~
-        ()（Drama CD）
-      - 戰國BASARA2 \~紅蓮\! [三方原之戰](../Page/三方原之戰.md "wikilink")\~ ()（Drama
-        CD）
-      - 戰國BASARA2
-        \~漆黒！[本能寺之變](https://zh.wikipedia.org/wiki/本能寺之變 "wikilink")\~
-        ()（Drama CD）
+      - 戰國BASARA2 \~百花繚乱！[小田原之役](https://zh.wikipedia.org/wiki/小田原之役 "wikilink")\~ ()（Drama CD）
+      - 戰國BASARA2 \~蒼穹！[姉川之戰](https://zh.wikipedia.org/wiki/姉川之戰 "wikilink")\~ ()（Drama CD）
+      - 戰國BASARA2 \~紅蓮\! [三方原之戰](../Page/三方原之戰.md "wikilink")\~ ()（Drama CD）
+      - 戰國BASARA2 \~漆黒！[本能寺之變](https://zh.wikipedia.org/wiki/本能寺之變 "wikilink")\~ ()（Drama CD）
       - 戰國BASARA2 英雄外傳 OST
       - 戰國BASARA2 \~邂逅！瀨戶内之戰\~ ()（Drama CD）
   - **主題曲**
       - 戰國BASARA
-          - 「Crosswise」
-            歌手：[T.M.Revolution](../Page/T.M.Revolution.md "wikilink")
+          - 「Crosswise」 歌手：[T.M.Revolution](../Page/T.M.Revolution.md "wikilink")
       - 戰國BASARA2
           - OP：「DIVE into YOURSELF」 歌手： （使用於PS2版）
           - OP：「BLADE CHORD」 歌手：abingdon boys school （使用於Wii版）
           - ED：「Brave」 歌手：[伴都美子](../Page/伴都美子.md "wikilink")
       - 戰國BASARA2 英雄外傳
-          - OP：「BLADE CHORD」 歌手：[abingdon boys
-            school](https://zh.wikipedia.org/wiki/abingdon_boys_school "wikilink")
+          - OP：「BLADE CHORD」 歌手：[abingdon boys school](https://zh.wikipedia.org/wiki/abingdon_boys_school "wikilink")
           - 插入曲：「」 歌手：[能登麻美子](../Page/能登麻美子.md "wikilink")
       - 戰國BASARA X
           - 「Crosswise」 歌手：T.M.Revolution
       - 戰國BASARA 熱戰英雄
           - OP：「JAP」 歌手：abingdon boys school
-          - ED：「Sailing free」
-            歌手：[OLIVIA](https://zh.wikipedia.org/wiki/OLIVIA "wikilink")
+          - ED：「Sailing free」 歌手：[OLIVIA](https://zh.wikipedia.org/wiki/OLIVIA "wikilink")
       - 戰國BASARA3
           - OP：「Naked arms」 歌手：T.M.Revolution
           - ED：「逆光」 歌手：[石川智晶](../Page/石川智晶.md "wikilink")
       - 戰國BASARA 年代群雄
           - OP：「FLAGS」 歌手：T.M.Revolution（同劇場版The Last Party的主題曲）
-          - 插入曲：「誓い」 歌手：[Do As
-            Infinity](https://zh.wikipedia.org/wiki/Do_As_Infinity "wikilink")
+          - 插入曲：「誓い」 歌手：[Do As Infinity](https://zh.wikipedia.org/wiki/Do_As_Infinity "wikilink")
       - 戰國BASARA3 宴
           - OP：「UTAGE」 歌手：T.M.Revolution
           - ED：「黃昏」 歌手：Do As Infinity
@@ -1954,8 +1885,7 @@ End**」開始在[日本電視台播放](../Page/日本電視台.md "wikilink")�
           - OP：「WE aRE」 歌手：abingdon boys school
       - 戰國BASARA4
           - OP：「Count ZERO」 歌手：T.M.Revolution
-          - ED：「Runners high」
-            歌手：[SCANDAL](https://zh.wikipedia.org/wiki/SCANDAL "wikilink")
+          - ED：「Runners high」 歌手：[SCANDAL](https://zh.wikipedia.org/wiki/SCANDAL "wikilink")
       - 戰國BASARA4 皇
           - OP：「DOUBLE-DEAL」 歌手：T.M.Revolution
           - ED：「Heavenly Blue」 歌手：石川智晶
@@ -1963,10 +1893,8 @@ End**」開始在[日本電視台播放](../Page/日本電視台.md "wikilink")�
           - OP：「Committed RED」 歌手：T.M.Revolution
   - **漫畫**
       - 戰國BASARA Official anthology comic 天霸編（） CAPCOM
-      - 戰國BASARA (1～3）[Media
-        Factory](../Page/Media_Factory.md "wikilink")
-      - 戰國BASARA anthology comic（）
-        [ENTERBRAIN](https://zh.wikipedia.org/wiki/ENTERBRAIN "wikilink")
+      - 戰國BASARA (1～3）[Media Factory](../Page/Media_Factory.md "wikilink")
+      - 戰國BASARA anthology comic（） [ENTERBRAIN](https://zh.wikipedia.org/wiki/ENTERBRAIN "wikilink")
       - 戰國BASARA 4格 anthology comic（） ENTERBRAIN
       - 戰國BASARA Official anthology comic 地裂編（） CAPCOM
       - 戰國BASARA anthology comic 烈火之章（） ENTERBRAIN
@@ -1996,8 +1924,7 @@ End**」開始在[日本電視台播放](../Page/日本電視台.md "wikilink")�
 
   - [戰國BASARA2 官方網站（CAPCOM）](http://www.capcom.co.jp/sengoku2/)
 
-  - [戰國BASARA2
-    英雄外傳官方網站（CAPCOM）](http://www.capcom.co.jp/sengoku2heroes/)
+  - [戰國BASARA2 英雄外傳官方網站（CAPCOM）](http://www.capcom.co.jp/sengoku2heroes/)
 
   - [戰國BASARA X官方網站（CAPCOM）](http://www.capcom.co.jp/basara-x/)
 
@@ -2013,8 +1940,7 @@ End**」開始在[日本電視台播放](../Page/日本電視台.md "wikilink")�
 
   - [戰國BASARA4 皇官方網站（CAPCOM）](http://www.capcom.co.jp/basara4sumeragi/)
 
-  - [戰國BASARA
-    真田幸村傳官方網站（CAPCOM）](http://www.capcom.co.jp/basara_yukimuraden/)
+  - [戰國BASARA 真田幸村傳官方網站（CAPCOM）](http://www.capcom.co.jp/basara_yukimuraden/)
 
 <!-- end list -->
 
@@ -2040,41 +1966,17 @@ End**」開始在[日本電視台播放](../Page/日本電視台.md "wikilink")�
 
 <!-- end list -->
 
-  - [戰國BASARA3 -ROAR OF DRAGON-（Jump
-    Square）](https://web.archive.org/web/20100411215224/http://jumpsq.shueisha.co.jp/contents/basara3/)
+  - [戰國BASARA3 -ROAR OF DRAGON-（Jump Square）](https://web.archive.org/web/20100411215224/http://jumpsq.shueisha.co.jp/contents/basara3/)
 
 **電視劇**
 
   - [戰國BASARA -MOONLIGHT PARTY-官方網站](http://basara-drama.com/)
 
-  - [戰國BASARA -MOONLIGHT
-    PARTY-官方網站（每日放送）](http://www.mbs.jp/basara-drama/)
+  - [戰國BASARA -MOONLIGHT PARTY-官方網站（每日放送）](http://www.mbs.jp/basara-drama/)
 
-  - [戰國BASARA -MOONLIGHT
-    PARTY-」官方網站（BS-TBS）](http://www.bs-tbs.co.jp/app/program_details/index/DRT1206800)
+  - [戰國BASARA -MOONLIGHT PARTY-」官方網站（BS-TBS）](http://www.bs-tbs.co.jp/app/program_details/index/DRT1206800)
 
-[Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink")
-[Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink")
-[Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink")
-[Category:卡普空遊戲](https://zh.wikipedia.org/wiki/Category:卡普空遊戲 "wikilink")
-[Category:Jump_Square](https://zh.wikipedia.org/wiki/Category:Jump_Square "wikilink")
-[Category:Wii遊戲](https://zh.wikipedia.org/wiki/Category:Wii遊戲 "wikilink")
-[Category:對戰動作遊戲](https://zh.wikipedia.org/wiki/Category:對戰動作遊戲 "wikilink")
-[Category:2005年电子游戏](https://zh.wikipedia.org/wiki/Category:2005年电子游戏 "wikilink")
-[Category:2007年电子游戏](https://zh.wikipedia.org/wiki/Category:2007年电子游戏 "wikilink")
-[Category:2011年电子游戏](https://zh.wikipedia.org/wiki/Category:2011年电子游戏 "wikilink")
-[Category:2012年电子游戏](https://zh.wikipedia.org/wiki/Category:2012年电子游戏 "wikilink")
-[Category:2013年电子游戏](https://zh.wikipedia.org/wiki/Category:2013年电子游戏 "wikilink")
-[Category:2009年TBS電視網動畫](https://zh.wikipedia.org/wiki/Category:2009年TBS電視網動畫 "wikilink")
-[Category:2010年TBS電視網動畫](https://zh.wikipedia.org/wiki/Category:2010年TBS電視網動畫 "wikilink")
-[Category:2012年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2012年日本電視劇集 "wikilink")
-[Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink")
-[Category:日本战国时代背景电子游戏](https://zh.wikipedia.org/wiki/Category:日本战国时代背景电子游戏 "wikilink")
-[Category:日本特摄电影](https://zh.wikipedia.org/wiki/Category:日本特摄电影 "wikilink")
-[Category:每日放送製作的電影](https://zh.wikipedia.org/wiki/Category:每日放送製作的電影 "wikilink")
-[Category:戰國時代背景電影_(日本)](https://zh.wikipedia.org/wiki/Category:戰國時代背景電影_\(日本\) "wikilink")
-[Category:VAP動畫作品](https://zh.wikipedia.org/wiki/Category:VAP動畫作品 "wikilink")
-[Category:AcFun外购动画](https://zh.wikipedia.org/wiki/Category:AcFun外购动画 "wikilink")
+[Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink") [Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink") [Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink") [Category:卡普空遊戲](https://zh.wikipedia.org/wiki/Category:卡普空遊戲 "wikilink") [Category:Jump_Square](https://zh.wikipedia.org/wiki/Category:Jump_Square "wikilink") [Category:Wii遊戲](https://zh.wikipedia.org/wiki/Category:Wii遊戲 "wikilink") [Category:對戰動作遊戲](https://zh.wikipedia.org/wiki/Category:對戰動作遊戲 "wikilink") [Category:2005年电子游戏](https://zh.wikipedia.org/wiki/Category:2005年电子游戏 "wikilink") [Category:2007年电子游戏](https://zh.wikipedia.org/wiki/Category:2007年电子游戏 "wikilink") [Category:2011年电子游戏](https://zh.wikipedia.org/wiki/Category:2011年电子游戏 "wikilink") [Category:2012年电子游戏](https://zh.wikipedia.org/wiki/Category:2012年电子游戏 "wikilink") [Category:2013年电子游戏](https://zh.wikipedia.org/wiki/Category:2013年电子游戏 "wikilink") [Category:2009年TBS電視網動畫](https://zh.wikipedia.org/wiki/Category:2009年TBS電視網動畫 "wikilink") [Category:2010年TBS電視網動畫](https://zh.wikipedia.org/wiki/Category:2010年TBS電視網動畫 "wikilink") [Category:2012年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2012年日本電視劇集 "wikilink") [Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink") [Category:日本战国时代背景电子游戏](https://zh.wikipedia.org/wiki/Category:日本战国时代背景电子游戏 "wikilink") [Category:日本特摄电影](https://zh.wikipedia.org/wiki/Category:日本特摄电影 "wikilink") [Category:每日放送製作的電影](https://zh.wikipedia.org/wiki/Category:每日放送製作的電影 "wikilink") [Category:戰國時代背景電影_(日本)](https://zh.wikipedia.org/wiki/Category:戰國時代背景電影_\(日本\) "wikilink") [Category:VAP動畫作品](https://zh.wikipedia.org/wiki/Category:VAP動畫作品 "wikilink") [Category:AcFun外购动画](https://zh.wikipedia.org/wiki/Category:AcFun外购动画 "wikilink")
 
 1.  輪盤指針停在骷髏格時出現的天罰
 2.

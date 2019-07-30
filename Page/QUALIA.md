@@ -1,28 +1,23 @@
 [QUALIA_logo.gif](https://zh.wikipedia.org/wiki/File:QUALIA_logo.gif "fig:QUALIA_logo.gif")
 
-**QUALIA**、**QUALIA-Project** -
-感質計畫，是[日本索尼](../Page/日本.md "wikilink")（Sony）的高級產品計畫。
+**QUALIA**、**QUALIA-Project** - 感質計畫，是[日本](../Page/日本.md "wikilink")索尼（Sony）的高級產品計畫。
 
-2001年2月-{zh-hans:[索尼](../Page/索尼.md "wikilink");
-zh-hant:[索尼](../Page/索尼.md "wikilink");}-進行QUALIA-Project，Sony各個網路公司陸續規劃並提出了「QUALIA」產品提案，並交由Sony高層所組成的「QUALIA」委員會進行評估。評估的標準並不僅取決於產品的功能及規格，更包括產品是否能創造「情感價值」，通過審查的產品提案則會被給予一個「QUALIA」序號。
+2001年2月-{zh-hans:[索尼](../Page/索尼.md "wikilink"); zh-hant:[索尼](../Page/索尼.md "wikilink");}-進行QUALIA-Project，Sony各個網路公司陸續規劃並提出了「QUALIA」產品提案，並交由Sony高層所組成的「QUALIA」委員會進行評估。評估的標準並不僅取決於產品的功能及規格，更包括產品是否能創造「情感價值」，通過審查的產品提案則會被給予一個「QUALIA」序號。
 
-2002年5月[出井伸之在年度管理會議上提出](../Page/出井伸之.md "wikilink")，2002年12月所著作的[非連續時代中所刊載](https://zh.wikipedia.org/wiki/非連續時代 "wikilink")。並於2003年6月以「**感質**」為核心價值，只接受訂單方式，推出實體化的「QUALIA」高級品牌，在全球市場中，只在[日本](../Page/日本.md "wikilink")、[美國推出此計劃](https://zh.wikipedia.org/wiki/美國 "wikilink")。
+2002年5月[出井伸之](../Page/出井伸之.md "wikilink")在年度管理會議上提出，2002年12月所著作的[非連續時代中所刊載](https://zh.wikipedia.org/wiki/非連續時代 "wikilink")。並於2003年6月以「**感質**」為核心價值，只接受訂單方式，推出實體化的「QUALIA」高級品牌，在全球市場中，只在[日本](../Page/日本.md "wikilink")、[美國推出此計劃](https://zh.wikipedia.org/wiki/美國 "wikilink")。
 
 此計劃於2005年9月的「中期企業策略」改革計畫中，連同機器人「[QRIO](https://zh.wikipedia.org/wiki/QRIO "wikilink")」、機器狗「[AIBO](../Page/AIBO.md "wikilink")」三項計畫凍結。
 
 ## QUALIA 涵義
 
-**QUALIA** -
-感質。這個名字是來自拉丁文「qualia」，意即quality品質。在拉丁文裡，「qualia」代表腦部針對無法量化的品質差異之認知功能，是一種非常微妙、難以言喻的感官活動。**QUALIA**，構成人類感覺得一種獨特質感，心靈感動，讓人留下一生難忘的記憶，透過感覺、經驗、記憶、追求“幸福的感覺”；再將之寄託於“有形”的物體上，讓人們留下驚奇和感動。
+**QUALIA** - 感質。這個名字是來自拉丁文「qualia」，意即quality品質。在拉丁文裡，「qualia」代表腦部針對無法量化的品質差異之認知功能，是一種非常微妙、難以言喻的感官活動。**QUALIA**，構成人類感覺得一種獨特質感，心靈感動，讓人留下一生難忘的記憶，透過感覺、經驗、記憶、追求“幸福的感覺”；再將之寄託於“有形”的物體上，讓人們留下驚奇和感動。
 
 ## QUALIA 產品
 
-[缩略图](https://zh.wikipedia.org/wiki/File:Sony_Qualia_016_Q016-WE1_CP+_2011.jpg "fig:缩略图")
-**QUALIA 001**
+[缩略图](https://zh.wikipedia.org/wiki/File:Sony_Qualia_016_Q016-WE1_CP+_2011.jpg "fig:缩略图") **QUALIA 001**
 
   -
-    视频信号处理器（影像倍頻器），2005年1月公布，产品型号Q001-CB01。装载索尼独家视频信号处理技术「DRC-MFv2」。根据高精度演算技术，将电视和DVD等输出的小画面视频信号高保真地提高分辨率后输出。现在电视信号传输开始数字化、高画质的电台开始增多，电视自身和各种AV放大器内含这个功能也越来越多。**QUALIA
-    001**当时最高对应1080i的分辨率。
+    视频信号处理器（影像倍頻器），2005年1月公布，产品型号Q001-CB01。装载索尼独家视频信号处理技术「DRC-MFv2」。根据高精度演算技术，将电视和DVD等输出的小画面视频信号高保真地提高分辨率后输出。现在电视信号传输开始数字化、高画质的电台开始增多，电视自身和各种AV放大器内含这个功能也越来越多。**QUALIA 001**当时最高对应1080i的分辨率。
 
 **QUALIA 002**
 
@@ -62,10 +57,7 @@ zh-hant:[索尼](../Page/索尼.md "wikilink");}-進行QUALIA-Project，Sony各�
 **QUALIA 016**
 
   -
-    210萬像素的[數位相機](https://zh.wikipedia.org/wiki/數位相機 "wikilink")，2003年6月公布，产品型号Q016-WE1。拇指大小的微型数码相机，用一个皮箱来放置所有组件并给人留下了以[密诺斯为代表的间谍照相机的印象](https://zh.wikipedia.org/wiki/密诺斯 "wikilink")。存储介质是[Memory
-    Stick](https://zh.wikipedia.org/wiki/Memory_Stick "wikilink")
-    Duo。但是只有超小型这个特点，作为数码相机的性能和同时代其他产品比没有优势，因而不被市场理解，也有不少人认为它是QUALIA系列失败的象徵。鉴于其高昂的价格与稀少的产量(首批133台，全部发行量约300台)，QUALIA
-    016被誉为最稀有的QUALIA产品。
+    210萬像素的[數位相機](https://zh.wikipedia.org/wiki/數位相機 "wikilink")，2003年6月公布，产品型号Q016-WE1。拇指大小的微型数码相机，用一个皮箱来放置所有组件并给人留下了以[密诺斯为代表的间谍照相机的印象](https://zh.wikipedia.org/wiki/密诺斯 "wikilink")。存储介质是[Memory Stick](https://zh.wikipedia.org/wiki/Memory_Stick "wikilink") Duo。但是只有超小型这个特点，作为数码相机的性能和同时代其他产品比没有优势，因而不被市场理解，也有不少人认为它是QUALIA系列失败的象徵。鉴于其高昂的价格与稀少的产量(首批133台，全部发行量约300台)，QUALIA 016被誉为最稀有的QUALIA产品。
 
 **QUALIA 017**
 
@@ -75,14 +67,12 @@ zh-hant:[索尼](../Page/索尼.md "wikilink");}-進行QUALIA-Project，Sony各�
 **MDR-EXQ1**
 
   -
-    耳機，2004年6月公布，产品型号MDR-EXQ1。单独销售化的**QUALIA
-    017**附带耳机MDR-EX070。定价21000日圆。根据生产时期，生产线以韩国→中国→日本进行了移动。海外制造的产品最后在国内被索尼的工程师进行了调整。
+    耳機，2004年6月公布，产品型号MDR-EXQ1。单独销售化的**QUALIA 017**附带耳机MDR-EX070。定价21000日圆。根据生产时期，生产线以韩国→中国→日本进行了移动。海外制造的产品最后在国内被索尼的工程师进行了调整。
 
 ## 外部链接
 
   - [QUALIA公式ページ](http://www.sony.jp/products/Consumer/QUALIA/jp/)
 
-[Sony
-「QUALIA」專案～創造觸動人心的優質產品](https://www.sony.com.tw/news/News_content.aspx?ID=97)
+[Sony 「QUALIA」專案～創造觸動人心的優質產品](https://www.sony.com.tw/news/News_content.aspx?ID=97)
 
 [Category:索尼](https://zh.wikipedia.org/wiki/Category:索尼 "wikilink")

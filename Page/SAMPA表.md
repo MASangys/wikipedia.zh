@@ -1,6 +1,4 @@
-**[SAMPA輔音和元音表](../Page/SAMPA.md "wikilink")**
-可參考較簡要的[英語SAMPA表](../Page/英語SAMPA表.md "wikilink")。請注意，下面內容將使用到國際音標，你必須擁有支援
-[1](http://www.alanwood.net/unicode/ipa_extensions.html)「國際音標擴充區」之字型，才可以看到那些音標。
+**[SAMPA](../Page/SAMPA.md "wikilink")輔音和元音表** 可參考較簡要的[英語SAMPA表](../Page/英語SAMPA表.md "wikilink")。請注意，下面內容將使用到國際音標，你必須擁有支援 [1](http://www.alanwood.net/unicode/ipa_extensions.html)「國際音標擴充區」之字型，才可以看到那些音標。
 
 *注意：本表只是試圖集合「歐美國家」的[SAMPA子集表](https://zh.wikipedia.org/wiki/SAMPA#Problems_with_SAMPA "wikilink")，表中的音標字母和其他語言的音標字母互相衝突，因此下面所提供的資料，一般只適合英語和一些歐洲語言使用。如需要使用ASCII來表示所有的國際音標，應改用[X-SAMPA](../Page/X-SAMPA.md "wikilink")。*
 
@@ -50,9 +48,7 @@
   - **\[ `_w` \]** 唇化 (IPA上標字母w)
   - **\[ `_<` \]** 吸氣音（濁塞音）(IPA hooktop)
   - **\[ `_>` \]** 擠喉音（清塞音）
-  - **\[ `_=`, `=` \]** 成音節，就如美式英語的 bi**r**d
-    \[`b=r\d`\]（又寫作\[``b3`d``\]）、bott**l**e
-    \[`"bOt=l`\]、butto**n** \[`"bVt=n`\]
+  - **\[ `_=`, `=` \]** 成音節，就如美式英語的 bi**r**d \[`b=r\d`\]（又寫作\[``b3`d``\]）、bott**l**e \[`"bOt=l`\]、butto**n** \[`"bVt=n`\]
 
 ### 子音簡化表
 
@@ -379,9 +375,7 @@
 </tbody>
 </table>
 
-（在西班牙語之中，*ca**b**o* 裏的 b 和 *ca**d**a* 裏的 d 並不如SAMPA創造者所想的唸擦音，所以並不唸作 β 和
-δ，這兩個音都應唸無擦通音。請參考
-[2](http://elies.rediris.es/elies16/Rios96.html)（西班牙文））
+（在西班牙語之中，*ca**b**o* 裏的 b 和 *ca**d**a* 裏的 d 並不如SAMPA創造者所想的唸擦音，所以並不唸作 β 和 δ，這兩個音都應唸無擦通音。請參考 [2](http://elies.rediris.es/elies16/Rios96.html)（西班牙文））
 
 ## 母音（元音）
 
@@ -401,8 +395,7 @@
 元音修飾符號：
 
   - **\[ `~`, `_~` \]** 置於元音後以表示鼻音化（如法語中的 *bon* \[`bO~`\]）。
-  - **\[ `:` \]** 置於元音後以表示延長（長元音）（如日語的 *shōshō* \[`So:So:`\]；英語 *see*
-    \[`si:`\]）.
+  - **\[ `:` \]** 置於元音後以表示延長（長元音）（如日語的 *shōshō* \[`So:So:`\]；英語 *see* \[`si:`\]）.
   - **\[ `` ` `` \]** 置於元音後以表示捲舌化（兒化）（如美式英語的 *bird* \[``b3`d``\]）。
   - **\[ `_^` \]** 不成音節 (IPA subscript arch)
 
@@ -436,13 +429,11 @@
 | **`O`**   |
 | **`Q`**   |
 
-主重音以 **\[`"`\]** 表示，次重音則用 **\[`%`\]**
-來表示，兩個符號均放在重音節之前。[3](http://www.phon.ucl.ac.uk/home/sampa/home.htm)
+主重音以 **\[`"`\]** 表示，次重音則用 **\[`%`\]** 來表示，兩個符號均放在重音節之前。[3](http://www.phon.ucl.ac.uk/home/sampa/home.htm)
 
 ## 特定語言SAMPA表
 
   - [英語SAMPA表](../Page/英語SAMPA表.md "wikilink")
-  - [匈牙利語音用的 SAMPA
-    表](https://zh.wikipedia.org/wiki/w:hu:SAMPA_Magyar_nyelvhez "wikilink")（於匈牙利文版的維基百科）
+  - [匈牙利語音用的 SAMPA 表](https://zh.wikipedia.org/wiki/w:hu:SAMPA_Magyar_nyelvhez "wikilink")（於匈牙利文版的維基百科）
 
 [Category:音標](https://zh.wikipedia.org/wiki/Category:音標 "wikilink")

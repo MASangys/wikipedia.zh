@@ -18,14 +18,7 @@ RPK通用40發香蕉型[彈匣](../Page/彈匣.md "wikilink")、75發專用[彈�
 
 ## 使用國
 
-[2011._День_защиты_детей_в_Донецке_089.jpg](https://zh.wikipedia.org/wiki/File:2011._День_защиты_детей_в_Донецке_089.jpg "fig:2011._День_защиты_детей_в_Донецке_089.jpg")
-[Soviet_RPK.JPEG](https://zh.wikipedia.org/wiki/File:Soviet_RPK.JPEG "fig:Soviet_RPK.JPEG")
-[Russian_RPKs_DM-SD-04-07062.JPEG](https://zh.wikipedia.org/wiki/File:Russian_RPKs_DM-SD-04-07062.JPEG "fig:Russian_RPKs_DM-SD-04-07062.JPEG")
-[Iraq_RPK_Machine_Gun.jpg](https://zh.wikipedia.org/wiki/File:Iraq_RPK_Machine_Gun.jpg "fig:Iraq_RPK_Machine_Gun.jpg")
-[Iraqi_soldier_with_RPK.jpg](https://zh.wikipedia.org/wiki/File:Iraqi_soldier_with_RPK.jpg "fig:Iraqi_soldier_with_RPK.jpg")
-[Familiarization_with_a_RPK_during_Exercise_Rescue_Eagle_2000.jpg](https://zh.wikipedia.org/wiki/File:Familiarization_with_a_RPK_during_Exercise_Rescue_Eagle_2000.jpg "fig:Familiarization_with_a_RPK_during_Exercise_Rescue_Eagle_2000.jpg")
-[Mongolian_soldiers_in_2007.jpg](https://zh.wikipedia.org/wiki/File:Mongolian_soldiers_in_2007.jpg "fig:Mongolian_soldiers_in_2007.jpg")
-[Georgian_Army_soldiers_on_firing_range_DF-SD-04-11509.JPG](https://zh.wikipedia.org/wiki/File:Georgian_Army_soldiers_on_firing_range_DF-SD-04-11509.JPG "fig:Georgian_Army_soldiers_on_firing_range_DF-SD-04-11509.JPG")及RPK作射擊訓練的格魯吉亞士兵\]\]
+[2011._День_защиты_детей_в_Донецке_089.jpg](https://zh.wikipedia.org/wiki/File:2011._День_защиты_детей_в_Донецке_089.jpg "fig:2011._День_защиты_детей_в_Донецке_089.jpg") [Soviet_RPK.JPEG](https://zh.wikipedia.org/wiki/File:Soviet_RPK.JPEG "fig:Soviet_RPK.JPEG") [Russian_RPKs_DM-SD-04-07062.JPEG](https://zh.wikipedia.org/wiki/File:Russian_RPKs_DM-SD-04-07062.JPEG "fig:Russian_RPKs_DM-SD-04-07062.JPEG") [Iraq_RPK_Machine_Gun.jpg](https://zh.wikipedia.org/wiki/File:Iraq_RPK_Machine_Gun.jpg "fig:Iraq_RPK_Machine_Gun.jpg") [Iraqi_soldier_with_RPK.jpg](https://zh.wikipedia.org/wiki/File:Iraqi_soldier_with_RPK.jpg "fig:Iraqi_soldier_with_RPK.jpg") [Familiarization_with_a_RPK_during_Exercise_Rescue_Eagle_2000.jpg](https://zh.wikipedia.org/wiki/File:Familiarization_with_a_RPK_during_Exercise_Rescue_Eagle_2000.jpg "fig:Familiarization_with_a_RPK_during_Exercise_Rescue_Eagle_2000.jpg") [Mongolian_soldiers_in_2007.jpg](https://zh.wikipedia.org/wiki/File:Mongolian_soldiers_in_2007.jpg "fig:Mongolian_soldiers_in_2007.jpg") [Georgian_Army_soldiers_on_firing_range_DF-SD-04-11509.JPG](https://zh.wikipedia.org/wiki/File:Georgian_Army_soldiers_on_firing_range_DF-SD-04-11509.JPG "fig:Georgian_Army_soldiers_on_firing_range_DF-SD-04-11509.JPG")及RPK作射擊訓練的格魯吉亞士兵\]\]
 
   -
   -
@@ -139,9 +132,7 @@ RPK通用40發香蕉型[彈匣](../Page/彈匣.md "wikilink")、75發專用[彈�
   - **Valmet M78**—[芬蘭仿製版本](https://zh.wikipedia.org/wiki/芬蘭 "wikilink")
   - **56-5式班用机枪**—[中国仿製版本](https://zh.wikipedia.org/wiki/中国 "wikilink")
   - **TUL 1**—[越南仿製版本](https://zh.wikipedia.org/wiki/越南 "wikilink")
-  - **扎斯塔瓦M65**及**[M72](../Page/扎斯塔瓦M72輕機槍.md "wikilink")**—[塞爾維亞仿製版本](https://zh.wikipedia.org/wiki/塞爾維亞 "wikilink")，衍生型包括**M72
-    B1/AB1**、**M70
-    B1**（摺疊槍托）、**[M77](../Page/扎斯塔瓦M77輕機槍.md "wikilink")**（[7.62×51毫米](../Page/7.62×51mm_NATO.md "wikilink")）及**M90**（[5.56×45毫米](../Page/5.56×45mm_NATO.md "wikilink")）
+  - **扎斯塔瓦M65**及**[M72](../Page/扎斯塔瓦M72輕機槍.md "wikilink")**—[塞爾維亞仿製版本](https://zh.wikipedia.org/wiki/塞爾維亞 "wikilink")，衍生型包括**M72 B1/AB1**、**M70 B1**（摺疊槍托）、**[M77](../Page/扎斯塔瓦M77輕機槍.md "wikilink")**（[7.62×51毫米](../Page/7.62×51mm_NATO.md "wikilink")）及**M90**（[5.56×45毫米](../Page/5.56×45mm_NATO.md "wikilink")）
 
 ## 參考
 
@@ -164,16 +155,10 @@ RPK通用40發香蕉型[彈匣](../Page/彈匣.md "wikilink")、75發專用[彈�
 
 ## 參考文獻
 
-  - [Modern
-    Firearms](https://web.archive.org/web/20070701112816/http://world.guns.ru/machine/mg15-e.htm)
+  - [Modern Firearms](https://web.archive.org/web/20070701112816/http://world.guns.ru/machine/mg15-e.htm)
 
 ## 外部連結
 
-  - —[D Boy's
-    GunWorld（RPK輕機槍）](http://firearmsworld.net/russain/kalash/ak/rpk.htm)
+  - —[D Boy's GunWorld（RPK輕機槍）](http://firearmsworld.net/russain/kalash/ak/rpk.htm)
 
-[Category:輕機槍](https://zh.wikipedia.org/wiki/Category:輕機槍 "wikilink")
-[Category:7.62×39毫米槍械](https://zh.wikipedia.org/wiki/Category:7.62×39毫米槍械 "wikilink")
-[Category:俄羅斯槍械](https://zh.wikipedia.org/wiki/Category:俄羅斯槍械 "wikilink")
-[Category:蘇聯槍械](https://zh.wikipedia.org/wiki/Category:蘇聯槍械 "wikilink")
-[Category:越戰武器](https://zh.wikipedia.org/wiki/Category:越戰武器 "wikilink")
+[Category:輕機槍](https://zh.wikipedia.org/wiki/Category:輕機槍 "wikilink") [Category:7.62×39毫米槍械](https://zh.wikipedia.org/wiki/Category:7.62×39毫米槍械 "wikilink") [Category:俄羅斯槍械](https://zh.wikipedia.org/wiki/Category:俄羅斯槍械 "wikilink") [Category:蘇聯槍械](https://zh.wikipedia.org/wiki/Category:蘇聯槍械 "wikilink") [Category:越戰武器](https://zh.wikipedia.org/wiki/Category:越戰武器 "wikilink")

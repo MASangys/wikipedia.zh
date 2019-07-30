@@ -1,30 +1,18 @@
-****（）是發行版之一，它是來自於依照[開放原始碼規定釋出的原始碼所編譯而成](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")。由於出自同樣的原始碼，因此有些要求高度穩定性的伺服器以CentOS替代商業版的[Red
-Hat Enterprise
-Linux使用](../Page/Red_Hat_Enterprise_Linux.md "wikilink")。兩者的不同，在於CentOS並不包含封闭原始碼軟體。CentOS
-对上游代码的主要修改是为了移除不能自由使用的商标。\[1\]2014年，CentOS宣布与Red
-Hat合作\[2\]，但CentOS将会在新的委员会下继续运作，并不受RHEL的影响\[3\]。
+****（）是發行版之一，它是來自於依照[開放原始碼規定釋出的原始碼所編譯而成](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")。由於出自同樣的原始碼，因此有些要求高度穩定性的伺服器以CentOS替代商業版的[Red Hat Enterprise Linux使用](../Page/Red_Hat_Enterprise_Linux.md "wikilink")。兩者的不同，在於CentOS並不包含封闭原始碼軟體。CentOS 对上游代码的主要修改是为了移除不能自由使用的商标。\[1\]2014年，CentOS宣布与Red Hat合作\[2\]，但CentOS将会在新的委员会下继续运作，并不受RHEL的影响\[3\]。
 
-CentOS和[RHEL一样](https://zh.wikipedia.org/wiki/RHEL "wikilink")，都可以使用[Fedora
-EPEL来补足软件](https://zh.wikipedia.org/wiki/Fedora#发行 "wikilink")。
+CentOS和[RHEL一样](https://zh.wikipedia.org/wiki/RHEL "wikilink")，都可以使用[Fedora EPEL来补足软件](https://zh.wikipedia.org/wiki/Fedora#发行 "wikilink")。
 
 ## 處理器架構
 
 CentOS有下列[處理器平台的版本](../Page/中央处理器.md "wikilink")：
 
-  - [Intel](https://zh.wikipedia.org/wiki/Intel "wikilink")
-    [x86及相容架構](https://zh.wikipedia.org/wiki/x86 "wikilink")（32位元）（CentOS
-    7 的32位元版本由AltArch SIG提供支援）\[4\]
-  - Intel
-    [Itanium](https://zh.wikipedia.org/wiki/Itanium "wikilink")（64位元）（新版本不再支援）
-  - [x86-64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")
-    (AMD64和Intel 64，64位元）
+  - [Intel](https://zh.wikipedia.org/wiki/Intel "wikilink") [x86及相容架構](https://zh.wikipedia.org/wiki/x86 "wikilink")（32位元）（CentOS 7 的32位元版本由AltArch SIG提供支援）\[4\]
+  - Intel [Itanium](https://zh.wikipedia.org/wiki/Itanium "wikilink")（64位元）（新版本不再支援）
+  - [x86-64](https://zh.wikipedia.org/wiki/x86-64 "wikilink") (AMD64和Intel 64，64位元）
   - [PowerPC](../Page/PowerPC.md "wikilink") G3及G4（測試版）（新版本不再支援）
-  - [IBM的](../Page/IBM.md "wikilink")[eServer](https://zh.wikipedia.org/wiki/eServer "wikilink")
-    z系列及[S/390大型主機](https://zh.wikipedia.org/wiki/S/390 "wikilink")（新版本不再支援）
-  - [龙芯](../Page/龙芯.md "wikilink")（[Loongson](https://zh.wikipedia.org/wiki/Loongson "wikilink")）采用的[MIPS架构](../Page/MIPS架構.md "wikilink")（32位、64位）\[5\]
-    (非官方支援 )
-  - AArch64（[ARM架構中的ARMv](https://zh.wikipedia.org/wiki/ARM架構 "wikilink")8或ARM64，64位元）（由AltArch
-    SIG提供支援）\[6\]
+  - [IBM](../Page/IBM.md "wikilink")的[eServer](https://zh.wikipedia.org/wiki/eServer "wikilink") z系列及[S/390大型主機](https://zh.wikipedia.org/wiki/S/390 "wikilink")（新版本不再支援）
+  - [龙芯](../Page/龙芯.md "wikilink")（[Loongson](https://zh.wikipedia.org/wiki/Loongson "wikilink")）采用的[MIPS架构](../Page/MIPS架構.md "wikilink")（32位、64位）\[5\] (非官方支援 )
+  - AArch64（[ARM架構中的ARMv](https://zh.wikipedia.org/wiki/ARM架構 "wikilink")8或ARM64，64位元）（由AltArch SIG提供支援）\[6\]
 
 另外有限度的支援兩款舊型處理器：
 
@@ -33,18 +21,15 @@ CentOS有下列[處理器平台的版本](../Page/中央处理器.md "wikilink")
 
 ## 版本
 
-CentOS版本號有兩個部份，一個主要版本和一個次要版本，主要和次要版本號分別對應於RHEL的主要版本與更新套件，CentOS採取從RHEL的原始碼套件來構建。例如CentOS
-4.4構建在RHEL 4.0的更新第4版。
+CentOS版本號有兩個部份，一個主要版本和一個次要版本，主要和次要版本號分別對應於RHEL的主要版本與更新套件，CentOS採取從RHEL的原始碼套件來構建。例如CentOS 4.4構建在RHEL 4.0的更新第4版。
 
-自2006年中，CentOS 4.4版本開始（前身為RHEL 4.0更新第4版），Red
-Hat采用了和CentOS完全相同的版本约定，例如：Red Hat 4.5。
+自2006年中，CentOS 4.4版本開始（前身為RHEL 4.0更新第4版），Red Hat采用了和CentOS完全相同的版本约定，例如：Red Hat 4.5。
 
 CentOS 5和RHEL 5已经在2017年3月31日结束生命周期。\[7\]
 
 ## 發佈歷史
 
-資料來源為 [CentOS Wiki](http://wiki.centos.org/) 及 [Distrowatch
-CentOS](http://distrowatch.com/table.php?distribution=centos) 。
+資料來源為 [CentOS Wiki](http://wiki.centos.org/) 及 [Distrowatch CentOS](http://distrowatch.com/table.php?distribution=centos) 。
 
 | 版本              | 平台                                                                | RHEL 版本 | 發佈日期                                                   | RHEL 發佈日期                                                                    |
 | --------------- | ----------------------------------------------------------------- | ------- | ------------------------------------------------------ | ---------------------------------------------------------------------------- |
@@ -144,182 +129,69 @@ CentOS](http://distrowatch.com/table.php?distribution=centos) 。
 
 7.
 
-8.  {{ cite web |
-    url=<http://lists.centos.org/pipermail/centos/2004-May/000153.html>
-    | title=CentOS-2 Final finally released | author=John Newbigin |
-    date=2004-05-14 | accessdate=2008-06-01 }}
+8.  {{ cite web | url=<http://lists.centos.org/pipermail/centos/2004-May/000153.html> | title=CentOS-2 Final finally released | author=John Newbigin | date=2004-05-14 | accessdate=2008-06-01 }}
 
-9.  {{ cite web | url=<http://www.redhat.com/security/updates/errata/> |
-    title=Red Hat Enterprise Linux Errata Support Policy | author=[Red
-    Hat](https://zh.wikipedia.org/wiki/Red_Hat "wikilink") |
-    accessdate=2008-06-01 | deadurl=yes |
-    archiveurl=<https://web.archive.org/web/20100405103331/http://www.redhat.com/security/updates/errata/>
-    | archivedate=2010-04-05 }}
+9.  {{ cite web | url=<http://www.redhat.com/security/updates/errata/> | title=Red Hat Enterprise Linux Errata Support Policy | author=[Red Hat](https://zh.wikipedia.org/wiki/Red_Hat "wikilink") | accessdate=2008-06-01 | deadurl=yes | archiveurl=<https://web.archive.org/web/20100405103331/http://www.redhat.com/security/updates/errata/> | archivedate=2010-04-05 }}
 
-10. {{ cite web |
-    url=<http://lists.centos.org/pipermail/centos/2004-March/000015.html>
-    | title=CentOS 3.1 has now been released | author=Lance |
-    date=2004-03-19 | accessdate=2008-06-01 }}
+10. {{ cite web | url=<http://lists.centos.org/pipermail/centos/2004-March/000015.html> | title=CentOS 3.1 has now been released | author=Lance | date=2004-03-19 | accessdate=2008-06-01 }}
 
 11.
-12. {{ cite web |
-    url=<http://www.centos.org/modules/news/article.php?storyid=129> |
-    title=CentOS 3.7 for all Architectures is released | author=CentOS
-    Team | date=2006-04-11 | accessdate=2008-10-21 | deadurl=yes |
-    archiveurl=<https://web.archive.org/web/20060420063721/http://www.centos.org/modules/news/article.php?storyid=129>
-    | archivedate=2006-04-20 }}
+12. {{ cite web | url=<http://www.centos.org/modules/news/article.php?storyid=129> | title=CentOS 3.7 for all Architectures is released | author=CentOS Team | date=2006-04-11 | accessdate=2008-10-21 | deadurl=yes | archiveurl=<https://web.archive.org/web/20060420063721/http://www.centos.org/modules/news/article.php?storyid=129> | archivedate=2006-04-20 }}
 
-13. {{ cite web |
-    url=<http://www.centos.org/modules/news/article.php?storyid=140> |
-    title=CentOS 3.8 for i386 and x86_64 is released | author=CentOS
-    Team | date=2006-08-25 | accessdate=2008-10-21 | deadurl=yes |
-    archiveurl=<https://web.archive.org/web/20090831132346/http://www.centos.org/modules/news/article.php?storyid=140>
-    | archivedate=2009-08-31 }}
+13. {{ cite web | url=<http://www.centos.org/modules/news/article.php?storyid=140> | title=CentOS 3.8 for i386 and x86_64 is released | author=CentOS Team | date=2006-08-25 | accessdate=2008-10-21 | deadurl=yes | archiveurl=<https://web.archive.org/web/20090831132346/http://www.centos.org/modules/news/article.php?storyid=140> | archivedate=2009-08-31 }}
 
-14. {{ cite web |
-    url=<http://lists.centos.org/pipermail/centos-announce/2007-July/014084.html>
-    | title=CentOS 3.9 is released for i386 and x86_64 | author=CentOS
-    Team | date=2007-07-26 | accessdate=2008-10-21 }}
+14. {{ cite web | url=<http://lists.centos.org/pipermail/centos-announce/2007-July/014084.html> | title=CentOS 3.9 is released for i386 and x86_64 | author=CentOS Team | date=2007-07-26 | accessdate=2008-10-21 }}
 
-15. {{ cite web | url=<http://distrowatch.com/2439> | title=Distribution
-    Release: CentOS 4 | author=DistroWatch.com | date=2005-03-09}}
+15. {{ cite web | url=<http://distrowatch.com/2439> | title=Distribution Release: CentOS 4 | author=DistroWatch.com | date=2005-03-09}}
 
-16. {{ cite web | url=<http://distrowatch.com/?newsid=02364> |
-    title=Distribution Release: Red Hat Enterprise Linux 4|
-    author=DistroWatch.com | date=2005-02-14}}
+16. {{ cite web | url=<http://distrowatch.com/?newsid=02364> | title=Distribution Release: Red Hat Enterprise Linux 4| author=DistroWatch.com | date=2005-02-14}}
 
-17. {{ cite web | url=<http://distrowatch.com/?newsid=04657> |
-    title=Distribution Release: CentOS 4.6 | author=DistroWatch.com |
-    date=2007-12-16 | accessdate=2008-11-10 }}
+17. {{ cite web | url=<http://distrowatch.com/?newsid=04657> | title=Distribution Release: CentOS 4.6 | author=DistroWatch.com | date=2007-12-16 | accessdate=2008-11-10 }}
 
-18. {{ cite web | url=<http://distrowatch.com/?newsid=04592> |
-    title=Distribution Release: Red Hat Enterprise Linux 4.6 |
-    author=DistroWatch.com | date=2007-11-16 | accessdate=2008-11-10 }}
+18. {{ cite web | url=<http://distrowatch.com/?newsid=04592> | title=Distribution Release: Red Hat Enterprise Linux 4.6 | author=DistroWatch.com | date=2007-11-16 | accessdate=2008-11-10 }}
 
-19. {{ cite web |
-    url=<http://lists.centos.org/pipermail/centos-announce/2008-September/015241.html>
-    | title=CentOS 4.7 is released for i386 and x86_64 | author=Johnny
-    Hughes | date=2008-09-13 | accessdate=2008-09-14 }}
+19. {{ cite web | url=<http://lists.centos.org/pipermail/centos-announce/2008-September/015241.html> | title=CentOS 4.7 is released for i386 and x86_64 | author=Johnny Hughes | date=2008-09-13 | accessdate=2008-09-14 }}
 
-20. {{ cite web |
-    url=<http://www.redhat.com/archives/rhelv4-announce/2008-July/msg00002.html>
-    | title=Red Hat Enterprise Linux 4.7 GA Announcement | author=[Red
-    Hat Enterprise
-    Linux](../Page/Red_Hat_Enterprise_Linux.md "wikilink") team |
-    date=2008-07-24 | accessdate=2008-09-14 }}
+20. {{ cite web | url=<http://www.redhat.com/archives/rhelv4-announce/2008-July/msg00002.html> | title=Red Hat Enterprise Linux 4.7 GA Announcement | author=[Red Hat Enterprise Linux](../Page/Red_Hat_Enterprise_Linux.md "wikilink") team | date=2008-07-24 | accessdate=2008-09-14 }}
 
-21. {{ cite web | url=
-    <http://lists.centos.org/pipermail/centos-announce/2006-May/012927.html>|
-    title=CentOS 4.7 Server CD - i386 Released | author=Karanbir Singh |
-    date=2008-10-17 | accessdate=2009-01-23 }}
+21. {{ cite web | url= <http://lists.centos.org/pipermail/centos-announce/2006-May/012927.html>| title=CentOS 4.7 Server CD - i386 Released | author=Karanbir Singh | date=2008-10-17 | accessdate=2009-01-23 }}
 
-22. {{ cite web |
-    url=<http://lists.centos.org/pipermail/centos-announce/2009-August/016106.html>
-    | title=CentOS 4 i386 and x86_64 release of CentOS-4.8 |
-    author=Johnny Hughes | date=2009-08-21 }}
+22. {{ cite web | url=<http://lists.centos.org/pipermail/centos-announce/2009-August/016106.html> | title=CentOS 4 i386 and x86_64 release of CentOS-4.8 | author=Johnny Hughes | date=2009-08-21 }}
 
-23. {{ cite web |
-    url=<https://www.redhat.com/archives/rhelv4-announce/2009-May/msg00000.html>
-    | title=Red Hat Enterprise Linux 4.8 GA Announcement | author=[Red
-    Hat Enterprise
-    Linux](../Page/Red_Hat_Enterprise_Linux.md "wikilink") team |
-    date=2009-05-18 | accessdate=2011-03-12 }}
+23. {{ cite web | url=<https://www.redhat.com/archives/rhelv4-announce/2009-May/msg00000.html> | title=Red Hat Enterprise Linux 4.8 GA Announcement | author=[Red Hat Enterprise Linux](../Page/Red_Hat_Enterprise_Linux.md "wikilink") team | date=2009-05-18 | accessdate=2011-03-12 }}
 
-24. {{ cite web |
-    url=<http://lists.centos.org/pipermail/centos-announce/2011-March/017255.html>
-    | title=CentOS 4 i386 and x86_64 release of CentOS-4.9 |
-    author=Johnny Hughes | date=2011-03-02 }}
+24. {{ cite web | url=<http://lists.centos.org/pipermail/centos-announce/2011-March/017255.html> | title=CentOS 4 i386 and x86_64 release of CentOS-4.9 | author=Johnny Hughes | date=2011-03-02 }}
 
-25. {{ cite web |
-    url=<https://www.redhat.com/archives/rhelv4-announce/2011-February/msg00000.html>
-    | title=Red Hat Enterprise Linux 4.9 GA Announcement | author=[Red
-    Hat Enterprise
-    Linux](../Page/Red_Hat_Enterprise_Linux.md "wikilink") team |
-    date=2011-02-16 }}
+25. {{ cite web | url=<https://www.redhat.com/archives/rhelv4-announce/2011-February/msg00000.html> | title=Red Hat Enterprise Linux 4.9 GA Announcement | author=[Red Hat Enterprise Linux](../Page/Red_Hat_Enterprise_Linux.md "wikilink") team | date=2011-02-16 }}
 
-26. {{ cite web |
-    url=<http://lists.centos.org/pipermail/centos-announce/2007-April/013660.html>
-    | title=Release for CentOS-5 i386 and x86_64 | author=Karanbir
-    Singh | date=2007-04-12 | accessdate=2008-06-01 }}
+26. {{ cite web | url=<http://lists.centos.org/pipermail/centos-announce/2007-April/013660.html> | title=Release for CentOS-5 i386 and x86_64 | author=Karanbir Singh | date=2007-04-12 | accessdate=2008-06-01 }}
 
-27. {{ cite web |
-    url=<http://www.redhat.com/archives/rhelv5-announce/2007-March/msg00001.html>
-    | title=Red Hat Enterprise Linux 5 Now Available | author=[Red Hat
-    Enterprise Linux](../Page/Red_Hat_Enterprise_Linux.md "wikilink")
-    team | date=2007-03-15 | accessdate=2008-06-01 | deadurl=yes |
-    archiveurl=<https://www.webcitation.org/65QgBeZ3l?url=http://www.redhat.com/archives/rhelv5-announce/2007-March/msg00001.html>
-    | archivedate=2012-02-13 }}
+27. {{ cite web | url=<http://www.redhat.com/archives/rhelv5-announce/2007-March/msg00001.html> | title=Red Hat Enterprise Linux 5 Now Available | author=[Red Hat Enterprise Linux](../Page/Red_Hat_Enterprise_Linux.md "wikilink") team | date=2007-03-15 | accessdate=2008-06-01 | deadurl=yes | archiveurl=<https://www.webcitation.org/65QgBeZ3l?url=http://www.redhat.com/archives/rhelv5-announce/2007-March/msg00001.html> | archivedate=2012-02-13 }}
 
-28. {{ cite web |
-    url=<http://lists.centos.org/pipermail/centos-announce/2007-December/014476.html>
-    | title=Release for CentOS-5.1 i386 and x86_64 | author=Karanbir
-    Singh | date=2007-12-02 | accessdate=2008-06-01 }}
+28. {{ cite web | url=<http://lists.centos.org/pipermail/centos-announce/2007-December/014476.html> | title=Release for CentOS-5.1 i386 and x86_64 | author=Karanbir Singh | date=2007-12-02 | accessdate=2008-06-01 }}
 
-29. {{ cite web |
-    url=<http://www.redhat.com/archives/rhelv5-announce/2007-November/msg00000.html>
-    | title=Red Hat Enterprise Linux 5.1 General Availability
-    Announcement | author=[Red Hat Enterprise
-    Linux](../Page/Red_Hat_Enterprise_Linux.md "wikilink") team |
-    date=2007-11-07 | accessdate=2008-06-01 | deadurl=yes |
-    archiveurl=<https://www.webcitation.org/65QgCT9IE?url=http://www.redhat.com/archives/rhelv5-announce/2007-November/msg00000.html>
-    | archivedate=2012-02-13 }}
+29. {{ cite web | url=<http://www.redhat.com/archives/rhelv5-announce/2007-November/msg00000.html> | title=Red Hat Enterprise Linux 5.1 General Availability Announcement | author=[Red Hat Enterprise Linux](../Page/Red_Hat_Enterprise_Linux.md "wikilink") team | date=2007-11-07 | accessdate=2008-06-01 | deadurl=yes | archiveurl=<https://www.webcitation.org/65QgCT9IE?url=http://www.redhat.com/archives/rhelv5-announce/2007-November/msg00000.html> | archivedate=2012-02-13 }}
 
-30. {{ cite web |
-    url=<http://lists.centos.org/pipermail/centos-announce/2008-February/014688.html>
-    | title=CentOS 5 i386 - The CentOS-5.1 i386 Live CD is released |
-    author=Patrice Guay | date=2008-02-18 | accessdate=2009-03-25 }}
+30. {{ cite web | url=<http://lists.centos.org/pipermail/centos-announce/2008-February/014688.html> | title=CentOS 5 i386 - The CentOS-5.1 i386 Live CD is released | author=Patrice Guay | date=2008-02-18 | accessdate=2009-03-25 }}
 
-31. {{ cite web |
-    url=<http://lists.centos.org/pipermail/centos-announce/2008-June/014999.html>
-    | title=Release for CentOS-5.2 i386 and x86_64 | author=Karanbir
-    Singh | date=2008-06-24 | accessdate=2009-02-03 }}
+31. {{ cite web | url=<http://lists.centos.org/pipermail/centos-announce/2008-June/014999.html> | title=Release for CentOS-5.2 i386 and x86_64 | author=Karanbir Singh | date=2008-06-24 | accessdate=2009-02-03 }}
 
-32. {{ cite web |
-    url=<http://www.redhat.com/archives/rhelv5-announce/2008-May/msg00002.html>
-    | title=Red Hat Enterprise Linux 5.2 General Availability
-    Announcement | author=[Red Hat Enterprise
-    Linux](../Page/Red_Hat_Enterprise_Linux.md "wikilink") team |
-    date=2008-05-21 | accessdate=2009-01-22 | deadurl=yes |
-    archiveurl=<https://www.webcitation.org/65QgDgw3W?url=http://www.redhat.com/archives/rhelv5-announce/2008-May/msg00002.html>
-    | archivedate=2012-02-13 }}
+32. {{ cite web | url=<http://www.redhat.com/archives/rhelv5-announce/2008-May/msg00002.html> | title=Red Hat Enterprise Linux 5.2 General Availability Announcement | author=[Red Hat Enterprise Linux](../Page/Red_Hat_Enterprise_Linux.md "wikilink") team | date=2008-05-21 | accessdate=2009-01-22 | deadurl=yes | archiveurl=<https://www.webcitation.org/65QgDgw3W?url=http://www.redhat.com/archives/rhelv5-announce/2008-May/msg00002.html> | archivedate=2012-02-13 }}
 
-33. {{ cite web |
-    url=<http://lists.centos.org/pipermail/centos-announce/2008-July/015148.html>
-    | title=CentOS 5 i386 - The CentOS-5.2 i386 Live CD is released |
-    author=Patrice Guay | date=2008-07-17 | accessdate=2009-02-03 }}
+33. {{ cite web | url=<http://lists.centos.org/pipermail/centos-announce/2008-July/015148.html> | title=CentOS 5 i386 - The CentOS-5.2 i386 Live CD is released | author=Patrice Guay | date=2008-07-17 | accessdate=2009-02-03 }}
 
-34. {{ cite web |
-    url=<http://lists.centos.org/pipermail/centos-announce/2009-April/015711.html>
-    | title=Release for CentOS-5.3 i386 and x86_64 | author=Karanbir
-    Singh |date=2009-04-01 | accessdate=2009-04-01 }}
+34. {{ cite web | url=<http://lists.centos.org/pipermail/centos-announce/2009-April/015711.html> | title=Release for CentOS-5.3 i386 and x86_64 | author=Karanbir Singh |date=2009-04-01 | accessdate=2009-04-01 }}
 
-35. {{ cite web |
-    url=<http://www.redhat.com/archives/rhelv5-announce/2009-January/msg00000.html>
-    | title=Red Hat Enterprise Linux 5.3 General Availability
-    Announcement | author=[Red Hat Enterprise
-    Linux](../Page/Red_Hat_Enterprise_Linux.md "wikilink") team |
-    date=2009-01-20 | accessdate=2009-01-22 | deadurl=yes |
-    archiveurl=<https://www.webcitation.org/65QkpHsOr?url=http://www.redhat.com/archives/rhelv5-announce/2009-January/msg00000.html>
-    | archivedate=2012-02-13 }}
+35. {{ cite web | url=<http://www.redhat.com/archives/rhelv5-announce/2009-January/msg00000.html> | title=Red Hat Enterprise Linux 5.3 General Availability Announcement | author=[Red Hat Enterprise Linux](../Page/Red_Hat_Enterprise_Linux.md "wikilink") team | date=2009-01-20 | accessdate=2009-01-22 | deadurl=yes | archiveurl=<https://www.webcitation.org/65QkpHsOr?url=http://www.redhat.com/archives/rhelv5-announce/2009-January/msg00000.html> | archivedate=2012-02-13 }}
 
 36.
 
 37.
 
-38. {{ cite web |
-    url=<http://www.redhat.com/archives/rhelv5-announce/2009-September/msg00000.html>
-    | title=Red Hat Enterprise Linux 5.4 GA Announcement | author=[Red
-    Hat Enterprise
-    Linux](../Page/Red_Hat_Enterprise_Linux.md "wikilink") team |
-    date=2009-09-02 | accessdate=2009-09-22 | deadurl=yes |
-    archiveurl=<https://www.webcitation.org/65QkquMUL?url=http://www.redhat.com/archives/rhelv5-announce/2009-September/msg00000.html>
-    | archivedate=2012-02-13 }}
+38. {{ cite web | url=<http://www.redhat.com/archives/rhelv5-announce/2009-September/msg00000.html> | title=Red Hat Enterprise Linux 5.4 GA Announcement | author=[Red Hat Enterprise Linux](../Page/Red_Hat_Enterprise_Linux.md "wikilink") team | date=2009-09-02 | accessdate=2009-09-22 | deadurl=yes | archiveurl=<https://www.webcitation.org/65QkquMUL?url=http://www.redhat.com/archives/rhelv5-announce/2009-September/msg00000.html> | archivedate=2012-02-13 }}
 
 39.
-40. {{ cite web |
-    url=<http://lists.centos.org/pipermail/centos-announce/2011-April/017282.html>
-    | title=Release for CentOS-5.6 i386 and x86_64 |
-    accessdate=2011-04-08 }}
+40. {{ cite web | url=<http://lists.centos.org/pipermail/centos-announce/2011-April/017282.html> | title=Release for CentOS-5.6 i386 and x86_64 | accessdate=2011-04-08 }}
 
 41.
 
@@ -331,16 +203,9 @@ CentOS](http://distrowatch.com/table.php?distribution=centos) 。
 
 45.
 
-46. {{ cite web |
-    url=<http://lists.centos.org/pipermail/centos-announce/2011-July/017645.html>
-    | title=Release for CentOS-6.0 i386 and x86_64 | date=2011-07-10 |
-    accessdate=2011-07-10 }}
+46. {{ cite web | url=<http://lists.centos.org/pipermail/centos-announce/2011-July/017645.html> | title=Release for CentOS-6.0 i386 and x86_64 | date=2011-07-10 | accessdate=2011-07-10 }}
 
-47. {{ cite web |
-    url=<http://www.redhat.com/archives/rhelv6-announce/2010-November/msg00000.html>
-    | title=Red Hat Enterprise Linux 6 Now Available | author=[Red Hat
-    Enterprise Linux](../Page/Red_Hat_Enterprise_Linux.md "wikilink")
-    team | date=2010-11-10 | accessdate=2010-11-10 }}
+47. {{ cite web | url=<http://www.redhat.com/archives/rhelv6-announce/2010-November/msg00000.html> | title=Red Hat Enterprise Linux 6 Now Available | author=[Red Hat Enterprise Linux](../Page/Red_Hat_Enterprise_Linux.md "wikilink") team | date=2010-11-10 | accessdate=2010-11-10 }}
 
 48.
 

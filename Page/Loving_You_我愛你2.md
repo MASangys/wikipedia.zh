@@ -1,5 +1,4 @@
-《**LovingYou我愛你2**》（The Threat of Love
-II），[香港](../Page/香港.md "wikilink")[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[翡翠台時裝單元愛情喜劇](../Page/翡翠台.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，於2002年1月開拍，2003年3月8日首播，為十集時裝單元愛情喜劇。如同上輯，本劇讓相近的演員陣容，演繹每集截然不同的故事。拍攝手法和選用題材於當時普遍電視作品中具有一定突破性。
+《**LovingYou我愛你2**》（The Threat of Love II），[香港](../Page/香港.md "wikilink")[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")時裝單元愛情喜劇[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，於2002年1月開拍，2003年3月8日首播，為十集時裝單元愛情喜劇。如同上輯，本劇讓相近的演員陣容，演繹每集截然不同的故事。拍攝手法和選用題材於當時普遍電視作品中具有一定突破性。
 
 ## 演員表
 
@@ -38,8 +37,7 @@ II），[香港](../Page/香港.md "wikilink")[無綫電視](https://zh.wikipedi
 
 ### 單元三《飛越瘋人丸》
 
-這是一個「食丸仔」的世界…似乎每個人每日都是活在丸仔之中，晨早起床吃維他命丸、餐前的消脂丸、平衡情緒的降血壓丸、頭痛丸、感冒丸…形形式式，五花八門…這是一個關於Fing頭丸的故事…
-許霞，曾經成為觀眾心中的寵兒，風頭一時無兩，但因銀色路途遇上挫折，她誤認為丸仔能讓她再次抖擻精神，再創事業高峰，於是她選擇了Fing頭丸。
+這是一個「食丸仔」的世界…似乎每個人每日都是活在丸仔之中，晨早起床吃維他命丸、餐前的消脂丸、平衡情緒的降血壓丸、頭痛丸、感冒丸…形形式式，五花八門…這是一個關於Fing頭丸的故事… 許霞，曾經成為觀眾心中的寵兒，風頭一時無兩，但因銀色路途遇上挫折，她誤認為丸仔能讓她再次抖擻精神，再創事業高峰，於是她選擇了Fing頭丸。
 
 沈穎，是一個慘綠少年，家境不錯，但由於早年母親的一次錯誤抉擇，讓她變成了憤世嫉俗，無心向學，為了宣洩她對家庭的不滿，她選擇了Fing頭丸。
 
@@ -198,10 +196,6 @@ Ray，髮型師兼老闆，生活井井有條，心思細密，關心身邊的�
 
 ## 外部連結
 
-  - [無綫電視官方網頁 -
-    LovingYou我愛你2](https://web.archive.org/web/20061202024551/http://tvcity.tvb.com/drama/lovingu2/)
+  - [無綫電視官方網頁 - LovingYou我愛你2](https://web.archive.org/web/20061202024551/http://tvcity.tvb.com/drama/lovingu2/)
 
-[Category:2003年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:2003年無綫電視劇集 "wikilink")
-[Category:無綫電視2000年代背景劇集](https://zh.wikipedia.org/wiki/Category:無綫電視2000年代背景劇集 "wikilink")
-[Category:無綫電視劇集系列](https://zh.wikipedia.org/wiki/Category:無綫電視劇集系列 "wikilink")
-[Category:单元剧](https://zh.wikipedia.org/wiki/Category:单元剧 "wikilink")
+[Category:2003年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:2003年無綫電視劇集 "wikilink") [Category:無綫電視2000年代背景劇集](https://zh.wikipedia.org/wiki/Category:無綫電視2000年代背景劇集 "wikilink") [Category:無綫電視劇集系列](https://zh.wikipedia.org/wiki/Category:無綫電視劇集系列 "wikilink") [Category:单元剧](https://zh.wikipedia.org/wiki/Category:单元剧 "wikilink")

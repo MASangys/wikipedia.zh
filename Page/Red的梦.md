@@ -1,5 +1,4 @@
-《**Red的梦**》(*Red's
-Dream*)，是[皮克斯动画工作室制作的的第二部动画短片](../Page/皮克斯动画工作室.md "wikilink")，制作发行于1987年，由[-{zh-hans:约翰·拉萨特;zh-hk:尊·賴斯達;zh-tw:約翰·拉薩特;}-编导](https://zh.wikipedia.org/wiki/约翰·雷斯特 "wikilink")。技术上短片开拓了夜景的制作，增加了下雨的场景，第一次尝试了人物角色设计，小丑形象尽管在今天看来看起来还没有多少表情，动作也显得僵硬，但是按照当时的计算机硬件水平和处理能力，应该算是同时期的上称作品了。
+《**Red的梦**》(*Red's Dream*)，是[皮克斯动画工作室](../Page/皮克斯动画工作室.md "wikilink")制作的的第二部动画短片，制作发行于1987年，由[-{zh-hans:约翰·拉萨特;zh-hk:尊·賴斯達;zh-tw:約翰·拉薩特;}-编导](https://zh.wikipedia.org/wiki/约翰·雷斯特 "wikilink")。技术上短片开拓了夜景的制作，增加了下雨的场景，第一次尝试了人物角色设计，小丑形象尽管在今天看来看起来还没有多少表情，动作也显得僵硬，但是按照当时的计算机硬件水平和处理能力，应该算是同时期的上称作品了。
 
 ## 剧情
 
@@ -13,20 +12,16 @@ Dream*)，是[皮克斯动画工作室制作的的第二部动画短片](../Page
 
 ## 获奖
 
-  - [旧金山国际电影节电脑综合影像奖](../Page/旧金山.md "wikilink")
-  - [奥地利Prix](https://zh.wikipedia.org/wiki/奥地利 "wikilink") Ars
-    Elcetronica电影节的金尼卡斯奖
+  - [旧金山](../Page/旧金山.md "wikilink")国际电影节电脑综合影像奖
+  - [奥地利Prix](https://zh.wikipedia.org/wiki/奥地利 "wikilink") Ars Elcetronica电影节的金尼卡斯奖
 
 ## 其他
 
 [redsdream11.jpg](https://zh.wikipedia.org/wiki/File:redsdream11.jpg "fig:redsdream11.jpg")
 
-  - 该片中出现的埃本的自行车店是皮克斯动画工作室另一部短片《[小雪人大行动](https://zh.wikipedia.org/wiki/小雪人大行动 "wikilink")》（Knick
-    Knack）的技术导演Eben Ostby。
+  - 该片中出现的埃本的自行车店是皮克斯动画工作室另一部短片《[小雪人大行动](https://zh.wikipedia.org/wiki/小雪人大行动 "wikilink")》（Knick Knack）的技术导演Eben Ostby。
   - 该片中在马戏团舞台中央的地板上出现的图案和皮克斯的前一部短片[-{zh-hans:小台灯;zh-hk:小洛素;zh-tw:頑皮跳跳燈;}-中的球的图案一样](../Page/小台灯.md "wikilink")。这个球多次出现在皮克斯各种影片中，被称为皮克斯球。
-  - 该片中展示了皮克斯第一个具有人形的角色，小丑。（短片：安德鲁和威利B的冒险（The Adventures of André and
-    Wally
-    B）是皮克斯作为[-{zh-hans:乔治·卢卡斯;zh-hk:佐治·魯卡斯;zh-tw:喬治·盧卡斯;}-电影公司下的电脑部时完成的作品](../Page/乔治·卢卡斯.md "wikilink")，严格来说不算皮克斯的作品）
+  - 该片中展示了皮克斯第一个具有人形的角色，小丑。（短片：安德鲁和威利B的冒险（The Adventures of André and Wally B）是皮克斯作为[-{zh-hans:乔治·卢卡斯;zh-hk:佐治·魯卡斯;zh-tw:喬治·盧卡斯;}-电影公司下的电脑部时完成的作品](../Page/乔治·卢卡斯.md "wikilink")，严格来说不算皮克斯的作品）
 
 ## 外部链接
 
@@ -34,7 +29,4 @@ Dream*)，是[皮克斯动画工作室制作的的第二部动画短片](../Page
   - [Youtube－Red's Dream](https://www.youtube.com/watch?v=zKgK2jagELw)
   - [该片在皮克斯官方网站](http://www.pixar.com/shorts/rd/index.html)
 
-[Category:1987年電影](https://zh.wikipedia.org/wiki/Category:1987年電影 "wikilink")
-[Category:美国电影作品](https://zh.wikipedia.org/wiki/Category:美国电影作品 "wikilink")
-[Category:皮克斯短片](https://zh.wikipedia.org/wiki/Category:皮克斯短片 "wikilink")
-[Category:約翰·拉薩特電影](https://zh.wikipedia.org/wiki/Category:約翰·拉薩特電影 "wikilink")
+[Category:1987年電影](https://zh.wikipedia.org/wiki/Category:1987年電影 "wikilink") [Category:美国电影作品](https://zh.wikipedia.org/wiki/Category:美国电影作品 "wikilink") [Category:皮克斯短片](https://zh.wikipedia.org/wiki/Category:皮克斯短片 "wikilink") [Category:約翰·拉薩特電影](https://zh.wikipedia.org/wiki/Category:約翰·拉薩特電影 "wikilink")

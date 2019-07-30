@@ -1,4 +1,4 @@
-**Aice<sup>5</sup>**是[日本的一個](../Page/日本.md "wikilink")[聲優組合](../Page/聲優.md "wikilink")，由[堀江由衣所發起](../Page/堀江由衣.md "wikilink")，隶属于[Starchild](https://zh.wikipedia.org/wiki/Starchild "wikilink")（[Kingrecords旗下公司](https://zh.wikipedia.org/wiki/Kingrecords "wikilink")）。團體於2005年尾出道，在2007年9月20日舉行最後一場演唱會並解散。
+**Aice<sup>5</sup>**是[日本](../Page/日本.md "wikilink")的一個[聲優](../Page/聲優.md "wikilink")組合，由[堀江由衣](../Page/堀江由衣.md "wikilink")所發起，隶属于[Starchild](https://zh.wikipedia.org/wiki/Starchild "wikilink")（[Kingrecords旗下公司](https://zh.wikipedia.org/wiki/Kingrecords "wikilink")）。團體於2005年尾出道，在2007年9月20日舉行最後一場演唱會並解散。
 
 於2015年7月17日宣佈再次展開活動，並參演[淺野真澄原作的動畫](https://zh.wikipedia.org/wiki/淺野真澄 "wikilink")《[那就是聲優！](../Page/那就是聲優！.md "wikilink")》。
 
@@ -89,28 +89,17 @@ KICM-91215（初回限定盤）</p></td>
 
 ### 雜誌
 
-  - Aice<sup>5</sup> In
-    Wonderland（[主婦の友社](https://zh.wikipedia.org/wiki/主婦の友社 "wikilink")「[SEIGURA](../Page/SEIGURA.md "wikilink")」）
-  - Music
-    Aice<sup>5</sup>（[音楽専科社](https://zh.wikipedia.org/wiki/音楽専科社 "wikilink")「hm<sup>3</sup>
-    SPECIAL」）
-  - Aice<sup>5</sup>物語
-    〜世界Aice<sup>5</sup>が始まった日〜（[角川書店](../Page/角川書店.md "wikilink")「[Newtype](../Page/Newtype_\(雜誌\).md "wikilink")」）
+  - Aice<sup>5</sup> In Wonderland（[主婦の友社](https://zh.wikipedia.org/wiki/主婦の友社 "wikilink")「[SEIGURA](../Page/SEIGURA.md "wikilink")」）
+  - Music Aice<sup>5</sup>（[音楽専科社](https://zh.wikipedia.org/wiki/音楽専科社 "wikilink")「hm<sup>3</sup> SPECIAL」）
+  - Aice<sup>5</sup>物語 〜世界Aice<sup>5</sup>が始まった日〜（[角川書店](../Page/角川書店.md "wikilink")「[Newtype](../Page/Newtype_\(雜誌\).md "wikilink")」）
 
 ### 廣播
 
-  - [Aice<sup>5</sup> In Wonder
-    RADIO](https://zh.wikipedia.org/wiki/Aice5_In_Wonder_RADIO "wikilink")
+  - [Aice<sup>5</sup> In Wonder RADIO](https://zh.wikipedia.org/wiki/Aice5_In_Wonder_RADIO "wikilink")
 
 ### Live
 
-  - Aice5 1st Tour 2007 "Love Aice5"|Aice<sup>5</sup> 1st Tour "Love
-    Aice<sup>5</sup>"
-  - Aice5 Final Party "Last Aice5"|Aice<sup>5</sup> Final Party "Last
-    Aice<sup>5</sup>"
+  - Aice5 1st Tour 2007 "Love Aice5"|Aice<sup>5</sup> 1st Tour "Love Aice<sup>5</sup>"
+  - Aice5 Final Party "Last Aice5"|Aice<sup>5</sup> Final Party "Last Aice<sup>5</sup>"
 
-[Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink")
-[Category:2005年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2005年成立的音樂團體 "wikilink")
-[Category:2007年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2007年解散的音樂團體 "wikilink")
-[Category:堀江由衣](https://zh.wikipedia.org/wiki/Category:堀江由衣 "wikilink")
-[Category:Aice5](https://zh.wikipedia.org/wiki/Category:Aice5 "wikilink")
+[Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink") [Category:2005年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2005年成立的音樂團體 "wikilink") [Category:2007年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2007年解散的音樂團體 "wikilink") [Category:堀江由衣](https://zh.wikipedia.org/wiki/Category:堀江由衣 "wikilink") [Category:Aice5](https://zh.wikipedia.org/wiki/Category:Aice5 "wikilink")

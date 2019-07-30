@@ -1,10 +1,10 @@
 [Noitamina.jpg](https://zh.wikipedia.org/wiki/File:Noitamina.jpg "fig:Noitamina.jpg")
 
-**noitaminA**是[日本](../Page/日本.md "wikilink")[富士電視台聯播網](../Page/富士電視台.md "wikilink")（[FNS系列](https://zh.wikipedia.org/wiki/FNS "wikilink")）專門播放[日本動畫的一個節目區塊](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")。本節目名稱是根據「Animation」（即英語的[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")）的倒寫而成，意思為「顛倒動畫的常識」。开播时间为2005年4月，每周播映一部；在2010年4月开始，每周播映两部。雖然其他FNS系電視台會播放此節目，但標題只有在富士電視台播放時才會出現。
+**noitaminA**是[日本](../Page/日本.md "wikilink")[富士電視台](../Page/富士電視台.md "wikilink")聯播網（[FNS系列](https://zh.wikipedia.org/wiki/FNS "wikilink")）專門播放[日本動畫的一個節目區塊](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")。本節目名稱是根據「Animation」（即英語的[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")）的倒寫而成，意思為「顛倒動畫的常識」。开播时间为2005年4月，每周播映一部；在2010年4月开始，每周播映两部。雖然其他FNS系電視台會播放此節目，但標題只有在富士電視台播放時才會出現。
 
 ## 概略
 
-節目區塊的出現緣於[富士電視台本來決定為人氣](../Page/富士電視台.md "wikilink")[少女漫畫作品](https://zh.wikipedia.org/wiki/少女漫畫 "wikilink")《[蜂蜜與四葉草](../Page/蜂蜜與四葉草.md "wikilink")》真人[電視劇版本](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，但是[集英社所提出的條件是先播映電視動畫版](../Page/集英社.md "wikilink")，於是需要跟代理商[Genco與電視台交涉](https://zh.wikipedia.org/wiki/Genco "wikilink")，並初步定於2004年10月播映，但是電視台後來在制訂全台策略時決定暫停播放深夜動畫，結果令原有計劃差點夭折，直至有觀眾提出「希望播放女性向動畫作品」的要求後才被再次考慮。最終，《蜂蜜與四葉草》在2005年4月開始播映，同時間製作人亦成功說服投資改編漫畫作品《[天國之吻](../Page/天國之吻.md "wikilink")》，並決定在《蜂蜜與四葉草》完畢後播映，繼而令有關動畫時段重新確立下來，命名為「noitaminA」。於2010年4月因著投資效益不俗，由一節電視動畫改為兩節，再於2014年因應劇場版動畫風潮，加入有別於電視播映的企劃部門，不過相對地於2015年4月開始將兩節電視動畫重新改為一節播放。
+節目區塊的出現緣於[富士電視台](../Page/富士電視台.md "wikilink")本來決定為人氣[少女漫畫作品](https://zh.wikipedia.org/wiki/少女漫畫 "wikilink")《[蜂蜜與四葉草](../Page/蜂蜜與四葉草.md "wikilink")》真人[電視劇版本](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，但是[集英社](../Page/集英社.md "wikilink")所提出的條件是先播映電視動畫版，於是需要跟代理商[Genco與電視台交涉](https://zh.wikipedia.org/wiki/Genco "wikilink")，並初步定於2004年10月播映，但是電視台後來在制訂全台策略時決定暫停播放深夜動畫，結果令原有計劃差點夭折，直至有觀眾提出「希望播放女性向動畫作品」的要求後才被再次考慮。最終，《蜂蜜與四葉草》在2005年4月開始播映，同時間製作人亦成功說服投資改編漫畫作品《[天國之吻](../Page/天國之吻.md "wikilink")》，並決定在《蜂蜜與四葉草》完畢後播映，繼而令有關動畫時段重新確立下來，命名為「noitaminA」。於2010年4月因著投資效益不俗，由一節電視動畫改為兩節，再於2014年因應劇場版動畫風潮，加入有別於電視播映的企劃部門，不過相對地於2015年4月開始將兩節電視動畫重新改為一節播放。
 
 節目區塊的宗旨被定為「尽可能地将动画做的趣味盎然」，而非「对原作品的完美重现」，希望制作方面有著更为广阔的发展空间。所以當中播放的改編动画往往都是小有名气，但但由于种种原因难以动画化的作品；此外亦有不少是小本投資的原創動畫，但近年亦有為了支持大型企劃，讓部分時段改為重播。另一方面，本區塊較傾向播放少女漫畫和[女性漫畫作品](https://zh.wikipedia.org/wiki/女性漫畫 "wikilink")，而作為過去動畫節目停播關鍵的男性向作品，直至後期擴張才重新納入，以較為中性的模樣演繹出來。製作人亦積極讓一些電視劇制作出身的人員參與動畫制作，嘗試為兩種媒體帶來連動。
 
@@ -41,12 +41,12 @@
 </tr>
 <tr class="odd">
 <td><p>2006年6月－09月</p></td>
-<td><p><a href="../Page/蜂蜜與四葉草.md" title="wikilink">蜂蜜與四葉草II</a></p></td>
+<td><p><a href="../Page/蜂蜜與四葉草.md" title="wikilink">蜂蜜與四葉草</a>II</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2006年10月－12月</p></td>
-<td><p><a href="../Page/工作狂.md" title="wikilink">工作狂</a></p></td>
+<td><p><a href="../Page/工作狂.md" title="wikilink">工作狂</a>人</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -247,7 +247,7 @@
 </tr>
 <tr class="even">
 <td><p>2017年4月－06月</p></td>
-<td><p><a href="../Page/不起眼女主角培育法.md" title="wikilink">不起眼女主角培育法♭</a></p></td>
+<td><p><a href="../Page/不起眼女主角培育法.md" title="wikilink">不起眼女主角培育法</a>♭</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -286,8 +286,8 @@
 <td></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
+<td><p>2019年7月－　</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Given" title="wikilink">Given</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -305,20 +305,14 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>2019年7月－</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Given" title="wikilink">Given</a><br />
-（）</p></td>
-<td><p>製作：<a href="../Page/Lerche.md" title="wikilink">Lerche</a></p></td>
-</tr>
-<tr class="even">
 <td><p>2019年10月－</p></td>
 <td><p><a href="../Page/PSYCHO-PASS.md" title="wikilink">PSYCHO-PASS 3</a><br />
 （）</p></td>
 <td><p>製作：<a href="../Page/Production_I.G.md" title="wikilink">Production I.G</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2020年1月－</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/UCHITAMA？！～貓狗寵物街～" title="wikilink">UCHITAMA？！～貓狗寵物街～</a><br />
+<td><p><a href="../Page/貓狗寵物街.md" title="wikilink">UCHITAMA？！～貓狗寵物街～</a><br />
 （）</p></td>
 <td><p>製作：<a href="../Page/MAPPA.md" title="wikilink">MAPPA</a>、Lapin Track</p></td>
 </tr>
@@ -404,5 +398,4 @@
 
   - [NoitaminA官方網頁](http://noitamina.tv/)
 
-[Category:NoitaminA](https://zh.wikipedia.org/wiki/Category:NoitaminA "wikilink")
-[Category:電視動畫時段](https://zh.wikipedia.org/wiki/Category:電視動畫時段 "wikilink")
+[Category:NoitaminA](https://zh.wikipedia.org/wiki/Category:NoitaminA "wikilink") [Category:電視動畫時段](https://zh.wikipedia.org/wiki/Category:電視動畫時段 "wikilink")

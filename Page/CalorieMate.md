@@ -1,18 +1,13 @@
-**CalorieMate**（カロリーメイト）是一個由[日本](../Page/日本.md "wikilink")[大塚製藥生產的](../Page/大塚製藥.md "wikilink")[能量補充食品品牌](https://zh.wikipedia.org/wiki/膳食補充劑 "wikilink")。CalorieMate產品包裝上只標注為"Balanced
-Food"，它們的包裝非常簡潔，可說是毫不起眼。
+**CalorieMate**（カロリーメイト）是一個由[日本](../Page/日本.md "wikilink")[大塚製藥](../Page/大塚製藥.md "wikilink")生產的[能量補充食品品牌](https://zh.wikipedia.org/wiki/膳食補充劑 "wikilink")。CalorieMate產品包裝上只標注為"Balanced Food"，它們的包裝非常簡潔，可說是毫不起眼。
 
 所有CalorieMate產品皆有以下描述：
 
   -
-    *CALORIE MATE*（產品名）*是每日活動所需能量的營養補充來源。CALORIE
-    MATE*（產品名）*自然適合在早餐、工作、運動、學習或任何忙碌時需要容易得到能量與營養的人。*
+    *CALORIE MATE*（產品名）*是每日活動所需能量的營養補充來源。CALORIE MATE*（產品名）*自然適合在早餐、工作、運動、學習或任何忙碌時需要容易得到能量與營養的人。*
 
 描述後是成份與營養資訊。
 
-CalorieMate擁有數種形式，分別為Block、Jelly與Can。*CalorieMate
-Block*（カロリーメイト　ブロック）是一種以二或四條包裝銷售的條狀[曲奇](../Page/曲奇.md "wikilink")；*CalorieMate
-Jelly*（カロリーメイト　ゼリー）是一種包裝在擁有吸管袋裝裏的[明膠](../Page/明膠.md "wikilink")；*CalorieMate
-Can*（カロリーメイト　缶）是一種罐裝飲品。
+CalorieMate擁有數種形式，分別為Block、Jelly與Can。*CalorieMate Block*（カロリーメイト　ブロック）是一種以二或四條包裝銷售的條狀[曲奇](../Page/曲奇.md "wikilink")；*CalorieMate Jelly*（カロリーメイト　ゼリー）是一種包裝在擁有吸管袋裝裏的[明膠](../Page/明膠.md "wikilink")；*CalorieMate Can*（カロリーメイト　缶）是一種罐裝飲品。
 
 ## 口味
 
@@ -37,8 +32,7 @@ Can*（カロリーメイト　缶）是一種罐裝飲品。
 
 ## 在流行文化中出現
 
-  - 在電子遊戲*[潛龍諜影3:食蛇者](https://zh.wikipedia.org/wiki/潛龍諜影3:食蛇者 "wikilink")*中有一個圖像為CalorieMate
-    Block（巧克力味）名為CalorieMate的道具，使用後會完全回復主角Snake(蛇)的精力。
+  - 在電子遊戲*[潛龍諜影3:食蛇者](https://zh.wikipedia.org/wiki/潛龍諜影3:食蛇者 "wikilink")*中有一個圖像為CalorieMate Block（巧克力味）名為CalorieMate的道具，使用後會完全回復主角Snake(蛇)的精力。
 
 <!-- end list -->
 
@@ -50,14 +44,11 @@ Can*（カロリーメイト　缶）是一種罐裝飲品。
 
 <!-- end list -->
 
-  - 動漫畫[驚爆危機的惡搞版いきなり](../Page/驚爆危機.md "wikilink")\!フルメタル・パニック\!中的男主角相良仲介表明他吃一種名為CalorieMark的能量補充食品，明顯是模仿CalorieMate；他亦在驚爆危機校園篇其中一集中吃看起來像CalorieMate
-    Block的棒狀物，儘管該項物品在動畫中沒有名字。在多本原著小說中他被描寫成在吃CalorieMates，當中亦有一些明確表示的插圖。
+  - 動漫畫[驚爆危機](../Page/驚爆危機.md "wikilink")的惡搞版いきなり\!フルメタル・パニック\!中的男主角相良仲介表明他吃一種名為CalorieMark的能量補充食品，明顯是模仿CalorieMate；他亦在驚爆危機校園篇其中一集中吃看起來像CalorieMate Block的棒狀物，儘管該項物品在動畫中沒有名字。在多本原著小說中他被描寫成在吃CalorieMates，當中亦有一些明確表示的插圖。
 
 <!-- end list -->
 
-  - 輕小說和動畫[NO GAME NO LIFE
-    遊戲人生中男主角](../Page/NO_GAME_NO_LIFE_遊戲人生.md "wikilink")
-    空 通宵玩遊戲所吃的補給品
+  - 輕小說和動畫[NO GAME NO LIFE 遊戲人生中男主角](../Page/NO_GAME_NO_LIFE_遊戲人生.md "wikilink") 空 通宵玩遊戲所吃的補給品
 
 ## 參考
 
@@ -65,5 +56,4 @@ Can*（カロリーメイト　缶）是一種罐裝飲品。
   - [包含CalorieMate的大塚製藥購物網站](http://www.otsuka-plus1.com)（日語）
   - [與電視劇*[24](../Page/24_\(電視劇\).md "wikilink")*合作宣傳CalorieMate的網站](http://www.cmt24.net)
 
-[Category:食品](https://zh.wikipedia.org/wiki/Category:食品 "wikilink")
-[Category:大塚製藥](https://zh.wikipedia.org/wiki/Category:大塚製藥 "wikilink")
+[Category:食品](https://zh.wikipedia.org/wiki/Category:食品 "wikilink") [Category:大塚製藥](https://zh.wikipedia.org/wiki/Category:大塚製藥 "wikilink")

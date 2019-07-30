@@ -1,19 +1,10 @@
 [Mslivelogo.png](https://zh.wikipedia.org/wiki/File:Mslivelogo.png "fig:Mslivelogo.png")
 
-**Windows
-Live**是[微軟推出的包含一系列線上應用服務的套裝](https://zh.wikipedia.org/wiki/微軟 "wikilink")[軟體](https://zh.wikipedia.org/wiki/軟體 "wikilink")，也是[Windows的網絡延伸](https://zh.wikipedia.org/wiki/Windows "wikilink")。這些服務透過[網路瀏覽器的介面來提供像](https://zh.wikipedia.org/wiki/網路瀏覽器 "wikilink")[Microsoft
-Office這一類的服務](../Page/Microsoft_Office.md "wikilink")。2005年11月1日，這套產品開始[Beta版本的測試](https://zh.wikipedia.org/wiki/軟件版本週期#Beta "wikilink")，並已經完成对大部分語言的開發。
+**Windows Live**是[微軟推出的包含一系列線上應用服務的套裝](https://zh.wikipedia.org/wiki/微軟 "wikilink")[軟體](https://zh.wikipedia.org/wiki/軟體 "wikilink")，也是[Windows的網絡延伸](https://zh.wikipedia.org/wiki/Windows "wikilink")。這些服務透過[網路瀏覽器的介面來提供像](https://zh.wikipedia.org/wiki/網路瀏覽器 "wikilink")[Microsoft Office這一類的服務](../Page/Microsoft_Office.md "wikilink")。2005年11月1日，這套產品開始[Beta版本的測試](https://zh.wikipedia.org/wiki/軟件版本週期#Beta "wikilink")，並已經完成对大部分語言的開發。
 
-目前Windows Live的大部分項目已經結束服務，包括使用率甚高的[Windows Live
-Messenger](../Page/Windows_Live_Messenger.md "wikilink")（一款[即時通訊軟體](https://zh.wikipedia.org/wiki/即時通訊軟體 "wikilink")）等，又或者轉換另一個名稱繼續存在，例如[Windows
-Live
-Hotmail更名為](https://zh.wikipedia.org/wiki/Windows_Live_Hotmail "wikilink")[Outlook.com](../Page/Outlook.com.md "wikilink")。
+目前Windows Live的大部分項目已經結束服務，包括使用率甚高的[Windows Live Messenger](../Page/Windows_Live_Messenger.md "wikilink")（一款[即時通訊軟體](https://zh.wikipedia.org/wiki/即時通訊軟體 "wikilink")）等，又或者轉換另一個名稱繼續存在，例如[Windows Live Hotmail更名為](https://zh.wikipedia.org/wiki/Windows_Live_Hotmail "wikilink")[Outlook.com](../Page/Outlook.com.md "wikilink")。
 
-Windows Live ID的密碼與[Xbox
-Live是相通的](../Page/Xbox_Live.md "wikilink")，故擁有Windows
-Live帳號也可以登入至[Xbox Live](../Page/Xbox_Live.md "wikilink")。Windows
-Live品牌由[Microsoft
-Account取代](https://zh.wikipedia.org/wiki/Microsoft_Account "wikilink")。
+Windows Live ID的密碼與[Xbox Live是相通的](../Page/Xbox_Live.md "wikilink")，故擁有Windows Live帳號也可以登入至[Xbox Live](../Page/Xbox_Live.md "wikilink")。Windows Live品牌由[Microsoft Account取代](https://zh.wikipedia.org/wiki/Microsoft_Account "wikilink")。
 
 ## 服務總覽
 
@@ -296,7 +287,7 @@ Account取代](https://zh.wikipedia.org/wiki/Microsoft_Account "wikilink")。
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/Windows_Live_QnA" title="wikilink">Windows Live QnA</a></p></td>
-<td><p>知識答問服務，與<a href="https://zh.wikipedia.org/wiki/Yahoo!知識+" title="wikilink">Yahoo!知識+</a>、<a href="../Page/百度知道.md" title="wikilink">百度知道類似</a></p></td>
+<td><p>知識答問服務，與<a href="https://zh.wikipedia.org/wiki/Yahoo!知識+" title="wikilink">Yahoo!知識+</a>、<a href="../Page/百度知道.md" title="wikilink">百度知道</a>類似</p></td>
 <td><p><a href="https://web.archive.org/web/20061017032152/http://qna.live.com/">https://web.archive.org/web/20061017032152/http://qna.live.com/</a></p></td>
 <td><p>已結束</p></td>
 <td></td>
@@ -352,7 +343,7 @@ Account取代](https://zh.wikipedia.org/wiki/Microsoft_Account "wikilink")。
 </tr>
 <tr class="even">
 <td><p><a href="../Page/Windows_Live_Spaces.md" title="wikilink">Windows Live Spaces</a></p></td>
-<td><p>基於<a href="../Page/AJAX.md" title="wikilink">AJAX的網誌社群</a></p></td>
+<td><p>基於<a href="../Page/AJAX.md" title="wikilink">AJAX</a>的網誌社群</p></td>
 <td><p><a href="http://spaces.live.com">http://spaces.live.com</a></p></td>
 <td><p>已結束</p></td>
 <td></td>
@@ -407,11 +398,7 @@ Account取代](https://zh.wikipedia.org/wiki/Microsoft_Account "wikilink")。
 
 ## 雲端運算服務
 
-Windows Live將是[Windows
-Azure雲端運算平台的一部份](https://zh.wikipedia.org/wiki/Windows_Azure "wikilink")，稱為Live
-Services，並提供一個Live Services
-Framework供開發人員發展[雲端運算服務的應用程式](../Page/雲端運算.md "wikilink")，目前Live
-Services支援16種服務：
+Windows Live將是[Windows Azure雲端運算平台的一部份](https://zh.wikipedia.org/wiki/Windows_Azure "wikilink")，稱為Live Services，並提供一個Live Services Framework供開發人員發展[雲端運算](../Page/雲端運算.md "wikilink")服務的應用程式，目前Live Services支援16種服務：
 
   - Windows Live Admin Center
   - Windows Live Alerts
@@ -504,16 +491,13 @@ Camera Roll</p></td>
 
 ## 特殊域名
 
-[w.cn](https://web.archive.org/web/20151005114813/http://www.w.cn/)和[9.cn](http://www.9.cn)这两个超短域名由微软购得，均指向Windows
-Live相关服务。（现在这两个域名分别转向至生活服务网站“[达步溜](https://zh.wikipedia.org/wiki/达步溜 "wikilink")”和游戏平台。）
+[w.cn](https://web.archive.org/web/20151005114813/http://www.w.cn/)和[9.cn](http://www.9.cn)这两个超短域名由微软购得，均指向Windows Live相关服务。（现在这两个域名分别转向至生活服务网站“[达步溜](https://zh.wikipedia.org/wiki/达步溜 "wikilink")”和游戏平台。）
 
 ## 审查
 
-2009年6月2日下午，Windows Live服务、以及一天前刚刚上线取代Windows Live
-Search的[Bing搜索引擎被](../Page/Bing.md "wikilink")[中国大陆封锁](../Page/中国大陆.md "wikilink")。据报道，此次网络封锁还涉及[Flickr](../Page/Flickr.md "wikilink")、[Twitter等网站](../Page/Twitter.md "wikilink")，有人估计与两天后的[六四事件](../Page/六四事件.md "wikilink")20周年有关。\[4\]\[5\]\[6\]\[7\]
+2009年6月2日下午，Windows Live服务、以及一天前刚刚上线取代Windows Live Search的[Bing](../Page/Bing.md "wikilink")搜索引擎被[中国大陆](../Page/中国大陆.md "wikilink")封锁。据报道，此次网络封锁还涉及[Flickr](../Page/Flickr.md "wikilink")、[Twitter](../Page/Twitter.md "wikilink")等网站，有人估计与两天后的[六四事件](../Page/六四事件.md "wikilink")20周年有关。\[4\]\[5\]\[6\]\[7\]
 
-MSN中国副总裁刘振宇则表示，微软将严格按照中国政策和法律对搜索内容进行监管和过滤。6月3日，对Windows
-Live的封锁被解除。6月5日，对Bing的封锁被解除。\[8\]
+MSN中国副总裁刘振宇则表示，微软将严格按照中国政策和法律对搜索内容进行监管和过滤。6月3日，对Windows Live的封锁被解除。6月5日，对Bing的封锁被解除。\[8\]
 
 ## 註釋
 
@@ -532,16 +516,9 @@ Live的封锁被解除。6月5日，对Bing的封锁被解除。\[8\]
 
   - [Windows Live程式集](http://essentials.live.com/)
 
-[Category:Windows_Live](https://zh.wikipedia.org/wiki/Category:Windows_Live "wikilink")
-[Category:Web_2.0](https://zh.wikipedia.org/wiki/Category:Web_2.0 "wikilink")
-[Category:微軟網站](https://zh.wikipedia.org/wiki/Category:微軟網站 "wikilink")
-[Category:MSN](https://zh.wikipedia.org/wiki/Category:MSN "wikilink")
-[Category:網路服務提供者](https://zh.wikipedia.org/wiki/Category:網路服務提供者 "wikilink")
-[Category:微軟](https://zh.wikipedia.org/wiki/Category:微軟 "wikilink")
-[Category:帕羅奧圖公司](https://zh.wikipedia.org/wiki/Category:帕羅奧圖公司 "wikilink")
+[Category:Windows_Live](https://zh.wikipedia.org/wiki/Category:Windows_Live "wikilink") [Category:Web_2.0](https://zh.wikipedia.org/wiki/Category:Web_2.0 "wikilink") [Category:微軟網站](https://zh.wikipedia.org/wiki/Category:微軟網站 "wikilink") [Category:MSN](https://zh.wikipedia.org/wiki/Category:MSN "wikilink") [Category:網路服務提供者](https://zh.wikipedia.org/wiki/Category:網路服務提供者 "wikilink") [Category:微軟](https://zh.wikipedia.org/wiki/Category:微軟 "wikilink") [Category:帕羅奧圖公司](https://zh.wikipedia.org/wiki/Category:帕羅奧圖公司 "wikilink")
 
-1.  [Windows Live
-    Drive](http://www.microsoft-watch.com/article2/0,2180,1951173,00.asp)
+1.  [Windows Live Drive](http://www.microsoft-watch.com/article2/0,2180,1951173,00.asp)
 2.  [CNN](http://money.cnn.com/magazines/fortune/fortune_archive/2006/05/01/8375454/index.htm)
 3.  www.blogs.msdn.com/b/b8/archive/2012/05/02/cloud-services-for-windows-8-and-windows-phone-windows-live-reimagined.aspx
 4.

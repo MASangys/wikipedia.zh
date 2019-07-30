@@ -1,10 +1,6 @@
-**ntv7**，全称为**NatSeven電視私人有限公司**（），是[馬來西亞私营电视台](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")，1998年4月7日早上8：00开播。ntv7的目标是为了使马来西亚社会更欢乐又更进步，正式的中文[口號是](https://zh.wikipedia.org/wiki/口號 "wikilink")**“感覺美好”**，当初为一家独立私营电视台，既是与[TV3与](../Page/TV3_\(马来西亚\).md "wikilink")[八度空间竞争](../Page/八度空间_\(电视台\).md "wikilink")。但在2005年，ntv7因财务困难而被[首要媒体收购](../Page/首要媒体.md "wikilink")，因此ntv7与TV3、八度空间与[TV9皆同屬於首要媒體](https://zh.wikipedia.org/wiki/TV9 "wikilink")。
+**ntv7**，全称为**NatSeven電視私人有限公司**（），是[馬來西亞私营电视台](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")，1998年4月7日早上8：00开播。ntv7的目标是为了使马来西亚社会更欢乐又更进步，正式的中文[口號是](https://zh.wikipedia.org/wiki/口號 "wikilink")**“感覺美好”**，当初为一家独立私营电视台，既是与[TV3与](../Page/TV3_\(马来西亚\).md "wikilink")[八度空间竞争](../Page/八度空间_\(电视台\).md "wikilink")。但在2005年，ntv7因财务困难而被[首要媒体](../Page/首要媒体.md "wikilink")收购，因此ntv7与TV3、八度空间与[TV9皆同屬於首要媒體](https://zh.wikipedia.org/wiki/TV9 "wikilink")。
 
-自2017年1月1日起，ntv7的全天播出时间改為06:00-次日凌晨01:50（[除夕](../Page/除夕.md "wikilink")02:00，有時會因播出《CJ
-WOW
-Shop》而延至02:20）。此外，ntv7也可透过[Astro](https://zh.wikipedia.org/wiki/Astro "wikilink")107频道，[Unifi
-TV](../Page/Unifi_TV.md "wikilink")107频道观看以及在數碼電視[MYTV
-Broadcasting](https://zh.wikipedia.org/wiki/MYTV_Broadcasting "wikilink")107頻道收看。
+自2017年1月1日起，ntv7的全天播出时间改為06:00-次日凌晨01:50（[除夕](../Page/除夕.md "wikilink")02:00，有時會因播出《CJ WOW Shop》而延至02:20）。此外，ntv7也可透过[Astro](https://zh.wikipedia.org/wiki/Astro "wikilink")107频道，[Unifi TV](../Page/Unifi_TV.md "wikilink")107频道观看以及在數碼電視[MYTV Broadcasting](https://zh.wikipedia.org/wiki/MYTV_Broadcasting "wikilink")107頻道收看。
 
 目前ntv7在馬來西亞為第7頻道，在[巴生谷的超高頻](https://zh.wikipedia.org/wiki/巴生河流域 "wikilink")([UHF](https://zh.wikipedia.org/wiki/特高頻 "wikilink"))頻率為37頻道。
 
@@ -14,8 +10,7 @@ ntv7華語新聞自2018年6月1日起，將目前2個時段的新聞時間（下
 
 自2018年12月31日起，NTV7全天节目安排中大部分内容均为播出CJ WOW SHOP中文版。
 
-自2019年6月1日起，CJ WOW
-SHOP中文版播出时段减少，暂时重播节目居多，保留最新韩剧时段和韩国综艺节目。同时，也恢复英语节目时段将会在每晚8点30分也就是英语新闻过后播放。
+自2019年6月1日起，CJ WOW SHOP中文版播出时段减少，暂时重播节目居多，保留最新韩剧时段和韩国综艺节目。同时，也恢复英语节目时段将会在每晚8点30分也就是英语新闻过后播放。
 
 
 
@@ -23,20 +18,12 @@ SHOP中文版播出时段减少，暂时重播节目居多，保留最新韩剧�
 
 ### 第一阶段試播（1998年3月7日－1998年3月30日）
 
-1998年3月7日-3月30日，ntv7开始第一阶段的试播，第一晚主要試播的内容為两部MV，分别为[葉玉卿的](../Page/葉玉卿.md "wikilink")《[記憶](../Page/擋不住的風情_\(國語專輯\).md "wikilink")》，和[Toni
-Braxton的](https://zh.wikipedia.org/wiki/唐妮·布蕾斯頓 "wikilink")《[You’re
-Makin’ Me
-High](https://zh.wikipedia.org/wiki/w:en:You’re_Makin’_Me_High "wikilink")》；試
+1998年3月7日-3月30日，ntv7开始第一阶段的试播，第一晚主要試播的内容為两部MV，分别为[葉玉卿](../Page/葉玉卿.md "wikilink")的《[記憶](../Page/擋不住的風情_\(國語專輯\).md "wikilink")》，和[Toni Braxton的](https://zh.wikipedia.org/wiki/唐妮·布蕾斯頓 "wikilink")《[You’re Makin’ Me High](https://zh.wikipedia.org/wiki/w:en:You’re_Makin’_Me_High "wikilink")》；試
 
   -
     {| class="wikitable"
 
-\! [馬來西亞時間](https://zh.wikipedia.org/wiki/馬來西亞標準時間 "wikilink") \! 節目名稱
-|- | 19:00-20:00 | [檢驗圖](../Page/檢驗圖.md "wikilink") |- | 20:00-20:01 |
-開播、[國歌](https://zh.wikipedia.org/wiki/馬來西亞國歌 "wikilink") |- |
-20:01-22:00 | [音樂影片](https://zh.wikipedia.org/wiki/音樂影片 "wikilink") |- |
-22:00-22:01 | [國歌](https://zh.wikipedia.org/wiki/馬來西亞國歌 "wikilink")、收播
-|}
+\! [馬來西亞時間](https://zh.wikipedia.org/wiki/馬來西亞標準時間 "wikilink") \! 節目名稱 |- | 19:00-20:00 | [檢驗圖](../Page/檢驗圖.md "wikilink") |- | 20:00-20:01 | 開播、[國歌](https://zh.wikipedia.org/wiki/馬來西亞國歌 "wikilink") |- | 20:01-22:00 | [音樂影片](https://zh.wikipedia.org/wiki/音樂影片 "wikilink") |- | 22:00-22:01 | [國歌](https://zh.wikipedia.org/wiki/馬來西亞國歌 "wikilink")、收播 |}
 
 ### 第二阶段試播（1998年3月31日－1998年4月6日）
 
@@ -49,49 +36,7 @@ High](https://zh.wikipedia.org/wiki/w:en:You’re_Makin’_Me_High "wikilink")�
   - ntv7開播當天（1998年4月7日）的節目-{表}-：
     {| class="wikitable"
 
-\! [馬來西亞時間](https://zh.wikipedia.org/wiki/馬來西亞標準時間 "wikilink") \! 節目名稱
-|- | 07:00-08:00 | [檢驗圖](../Page/檢驗圖.md "wikilink") |- | 08:00-08:01 |
-開播、[國歌](https://zh.wikipedia.org/wiki/馬來西亞國歌 "wikilink") |- |
-08:01-09:00 |
-[馬來西亞電視3台傳播](https://zh.wikipedia.org/wiki/TV3_\(馬來西亞\) "wikilink")：「[哈芝節禱告在](https://zh.wikipedia.org/wiki/哈芝節 "wikilink")[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[吉打州](https://zh.wikipedia.org/wiki/吉打州 "wikilink")[亞羅士打](https://zh.wikipedia.org/wiki/亞羅士打 "wikilink")[查希爾清真寺](https://zh.wikipedia.org/wiki/查希爾清真寺 "wikilink")」（[現場直播](../Page/現場直播.md "wikilink")）
-|- | 09:00-09:30 | [哈芝節節目](https://zh.wikipedia.org/wiki/哈芝節 "wikilink")
--
-[紀錄片及](../Page/紀錄片.md "wikilink")[科學](https://zh.wikipedia.org/wiki/科學 "wikilink")[教育](../Page/教育.md "wikilink")：「生活在真主的花園」
-|- | 09:30-10:30 |
-[舞台](https://zh.wikipedia.org/wiki/舞台 "wikilink")[音樂節](https://zh.wikipedia.org/wiki/音樂節 "wikilink")：「[Sheila
-Majid](https://zh.wikipedia.org/wiki/w:id:Sheila_Majid "wikilink")[演唱會在](https://zh.wikipedia.org/wiki/音樂會 "wikilink")[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[吉隆坡](../Page/吉隆坡.md "wikilink")[佩重納斯大廈](https://zh.wikipedia.org/wiki/佩重納斯大廈 "wikilink")」（[現場直播](../Page/現場直播.md "wikilink")）
-|- | 10:30-11:30 | [紀錄片](../Page/紀錄片.md "wikilink")：「Titanic: Breaking
-New Ground」 |- | 11:30-12:00 |
-[馬來語](https://zh.wikipedia.org/wiki/馬來語 "wikilink")[新聞](https://zh.wikipedia.org/wiki/新聞 "wikilink")
-|- | 12:00-13:00 |
-[舞台](https://zh.wikipedia.org/wiki/舞台 "wikilink")[音樂節](https://zh.wikipedia.org/wiki/音樂節 "wikilink")：「[邁克爾·傑克遜](https://zh.wikipedia.org/wiki/邁克爾·傑克遜 "wikilink")[HIStory世界演唱會在](https://zh.wikipedia.org/wiki/HIStory世界巡迴演唱會 "wikilink")[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[吉隆坡](../Page/吉隆坡.md "wikilink")[默迪卡體育場](../Page/默迪卡體育場.md "wikilink")」（[現場直播](../Page/現場直播.md "wikilink")）
-|- | 13:00-14:00 |
-[舞台](https://zh.wikipedia.org/wiki/舞台 "wikilink")[音樂節](https://zh.wikipedia.org/wiki/音樂節 "wikilink")：「[茜蒂·諾哈麗莎](../Page/茜蒂·諾哈麗莎.md "wikilink")[Cindai演唱會在](https://zh.wikipedia.org/wiki/w:en:Cindai "wikilink")[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[吉隆坡](../Page/吉隆坡.md "wikilink")[國家體育場](https://zh.wikipedia.org/wiki/國家體育場 "wikilink")」（[現場直播](../Page/現場直播.md "wikilink")）
-|- | 14:00-16:00 | [哈芝節節目](https://zh.wikipedia.org/wiki/哈芝節 "wikilink")
--
-[馬來語](https://zh.wikipedia.org/wiki/馬來語 "wikilink")[電視電影](../Page/電視電影.md "wikilink")：「大阿拉呼」（含[馬來語](https://zh.wikipedia.org/wiki/馬來語 "wikilink")[配音和](../Page/配音.md "wikilink")[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")[字幕](../Page/字幕.md "wikilink")）
-|- | 16:00-18:00 | [哈芝節節目](https://zh.wikipedia.org/wiki/哈芝節 "wikilink")
--
-[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")：「[阿拉伯的勞倫斯](https://zh.wikipedia.org/wiki/阿拉伯的勞倫斯 "wikilink")」（含[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")[配音和](../Page/配音.md "wikilink")[馬來語](https://zh.wikipedia.org/wiki/馬來語 "wikilink")[字幕](../Page/字幕.md "wikilink")）
-|- | 18:00-19:00 | [香港電視劇](../Page/香港電視劇.md "wikilink") -
-[TVB劇場](https://zh.wikipedia.org/wiki/無綫電視劇集 "wikilink")：「[家變](../Page/家變_\(無綫電視劇\).md "wikilink")」（含[粵語](https://zh.wikipedia.org/wiki/粵語 "wikilink")[配音和](../Page/配音.md "wikilink")[馬來語](https://zh.wikipedia.org/wiki/馬來語 "wikilink")[字幕](../Page/字幕.md "wikilink")）
-|- | 19:00-20:00 |
-[印度](../Page/印度.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")：「[摩訶婆羅多](https://zh.wikipedia.org/wiki/w:en:Mahabharat_\(1988_TV_series\) "wikilink")」（含[泰米爾語](https://zh.wikipedia.org/wiki/泰米爾語 "wikilink")[配音和](../Page/配音.md "wikilink")[馬來語](https://zh.wikipedia.org/wiki/馬來語 "wikilink")[字幕](../Page/字幕.md "wikilink")）
-|- | 20:00-20:30 |
-[馬來語](https://zh.wikipedia.org/wiki/馬來語 "wikilink")[新聞](https://zh.wikipedia.org/wiki/新聞 "wikilink")：「[Berita
-Nasional（國家新聞）](../Page/晚間新聞.md "wikilink")」 |- | 20:30-21:30 |
-[舞台](https://zh.wikipedia.org/wiki/舞台 "wikilink")[音樂節](https://zh.wikipedia.org/wiki/音樂節 "wikilink")：「[唐妮·布蕾斯頓](https://zh.wikipedia.org/wiki/唐妮·布蕾斯頓 "wikilink")[You’re
-Makin’ Me
-High演唱會在](https://zh.wikipedia.org/wiki/w:en:You’re_Makin’_Me_High "wikilink")[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[吉隆坡](../Page/吉隆坡.md "wikilink")[佩重納斯大廈](https://zh.wikipedia.org/wiki/佩重納斯大廈 "wikilink")」（[現場直播](../Page/現場直播.md "wikilink")）
-|- | 21:30-22:00 |
-[馬來語](https://zh.wikipedia.org/wiki/馬來語 "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")：「馬爾斯圖啦」（含[馬來語](https://zh.wikipedia.org/wiki/馬來語 "wikilink")[配音](../Page/配音.md "wikilink")）
-|- | 22:30-23:00 |
-[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")[新聞](https://zh.wikipedia.org/wiki/新聞 "wikilink")：「[World
-News（世界新聞）](../Page/晚間新聞.md "wikilink")」 |- | 23:00-00:00 |
-[喜劇及](../Page/喜劇.md "wikilink")[脫口秀](https://zh.wikipedia.org/wiki/脫口秀 "wikilink")：「[大衛·萊特曼深夜秀](https://zh.wikipedia.org/wiki/w:en:Late_Night_with_David_Letterman "wikilink")」（含[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")[配音](../Page/配音.md "wikilink")）
-|- | 00:00-01:00 |
-[國歌](https://zh.wikipedia.org/wiki/馬來西亞國歌 "wikilink")、收播
-|}
+\! [馬來西亞時間](https://zh.wikipedia.org/wiki/馬來西亞標準時間 "wikilink") \! 節目名稱 |- | 07:00-08:00 | [檢驗圖](../Page/檢驗圖.md "wikilink") |- | 08:00-08:01 | 開播、[國歌](https://zh.wikipedia.org/wiki/馬來西亞國歌 "wikilink") |- | 08:01-09:00 | [馬來西亞電視3台傳播](https://zh.wikipedia.org/wiki/TV3_\(馬來西亞\) "wikilink")：「[哈芝節禱告在](https://zh.wikipedia.org/wiki/哈芝節 "wikilink")[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[吉打州](https://zh.wikipedia.org/wiki/吉打州 "wikilink")[亞羅士打](https://zh.wikipedia.org/wiki/亞羅士打 "wikilink")[查希爾清真寺](https://zh.wikipedia.org/wiki/查希爾清真寺 "wikilink")」（[現場直播](../Page/現場直播.md "wikilink")） |- | 09:00-09:30 | [哈芝節節目](https://zh.wikipedia.org/wiki/哈芝節 "wikilink") - [紀錄片](../Page/紀錄片.md "wikilink")及[科學](https://zh.wikipedia.org/wiki/科學 "wikilink")[教育](../Page/教育.md "wikilink")：「生活在真主的花園」 |- | 09:30-10:30 | [舞台](https://zh.wikipedia.org/wiki/舞台 "wikilink")[音樂節](https://zh.wikipedia.org/wiki/音樂節 "wikilink")：「[Sheila Majid](https://zh.wikipedia.org/wiki/w:id:Sheila_Majid "wikilink")[演唱會在](https://zh.wikipedia.org/wiki/音樂會 "wikilink")[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[吉隆坡](../Page/吉隆坡.md "wikilink")[佩重納斯大廈](https://zh.wikipedia.org/wiki/佩重納斯大廈 "wikilink")」（[現場直播](../Page/現場直播.md "wikilink")） |- | 10:30-11:30 | [紀錄片](../Page/紀錄片.md "wikilink")：「Titanic: Breaking New Ground」 |- | 11:30-12:00 | [馬來語](https://zh.wikipedia.org/wiki/馬來語 "wikilink")[新聞](https://zh.wikipedia.org/wiki/新聞 "wikilink") |- | 12:00-13:00 | [舞台](https://zh.wikipedia.org/wiki/舞台 "wikilink")[音樂節](https://zh.wikipedia.org/wiki/音樂節 "wikilink")：「[邁克爾·傑克遜](https://zh.wikipedia.org/wiki/邁克爾·傑克遜 "wikilink")[HIStory世界演唱會在](https://zh.wikipedia.org/wiki/HIStory世界巡迴演唱會 "wikilink")[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[吉隆坡](../Page/吉隆坡.md "wikilink")[默迪卡體育場](../Page/默迪卡體育場.md "wikilink")」（[現場直播](../Page/現場直播.md "wikilink")） |- | 13:00-14:00 | [舞台](https://zh.wikipedia.org/wiki/舞台 "wikilink")[音樂節](https://zh.wikipedia.org/wiki/音樂節 "wikilink")：「[茜蒂·諾哈麗莎](../Page/茜蒂·諾哈麗莎.md "wikilink")[Cindai演唱會在](https://zh.wikipedia.org/wiki/w:en:Cindai "wikilink")[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[吉隆坡](../Page/吉隆坡.md "wikilink")[國家體育場](https://zh.wikipedia.org/wiki/國家體育場 "wikilink")」（[現場直播](../Page/現場直播.md "wikilink")） |- | 14:00-16:00 | [哈芝節節目](https://zh.wikipedia.org/wiki/哈芝節 "wikilink") - [馬來語](https://zh.wikipedia.org/wiki/馬來語 "wikilink")[電視電影](../Page/電視電影.md "wikilink")：「大阿拉呼」（含[馬來語](https://zh.wikipedia.org/wiki/馬來語 "wikilink")[配音](../Page/配音.md "wikilink")和[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")[字幕](../Page/字幕.md "wikilink")） |- | 16:00-18:00 | [哈芝節節目](https://zh.wikipedia.org/wiki/哈芝節 "wikilink") - [英語](https://zh.wikipedia.org/wiki/英語 "wikilink")[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")：「[阿拉伯的勞倫斯](https://zh.wikipedia.org/wiki/阿拉伯的勞倫斯 "wikilink")」（含[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")[配音](../Page/配音.md "wikilink")和[馬來語](https://zh.wikipedia.org/wiki/馬來語 "wikilink")[字幕](../Page/字幕.md "wikilink")） |- | 18:00-19:00 | [香港電視劇](../Page/香港電視劇.md "wikilink") - [TVB劇場](https://zh.wikipedia.org/wiki/無綫電視劇集 "wikilink")：「[家變](../Page/家變_\(無綫電視劇\).md "wikilink")」（含[粵語](https://zh.wikipedia.org/wiki/粵語 "wikilink")[配音](../Page/配音.md "wikilink")和[馬來語](https://zh.wikipedia.org/wiki/馬來語 "wikilink")[字幕](../Page/字幕.md "wikilink")） |- | 19:00-20:00 | [印度](../Page/印度.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")：「[摩訶婆羅多](https://zh.wikipedia.org/wiki/w:en:Mahabharat_\(1988_TV_series\) "wikilink")」（含[泰米爾語](https://zh.wikipedia.org/wiki/泰米爾語 "wikilink")[配音](../Page/配音.md "wikilink")和[馬來語](https://zh.wikipedia.org/wiki/馬來語 "wikilink")[字幕](../Page/字幕.md "wikilink")） |- | 20:00-20:30 | [馬來語](https://zh.wikipedia.org/wiki/馬來語 "wikilink")[新聞](https://zh.wikipedia.org/wiki/新聞 "wikilink")：「[Berita Nasional（國家新聞）](../Page/晚間新聞.md "wikilink")」 |- | 20:30-21:30 | [舞台](https://zh.wikipedia.org/wiki/舞台 "wikilink")[音樂節](https://zh.wikipedia.org/wiki/音樂節 "wikilink")：「[唐妮·布蕾斯頓](https://zh.wikipedia.org/wiki/唐妮·布蕾斯頓 "wikilink")[You’re Makin’ Me High演唱會在](https://zh.wikipedia.org/wiki/w:en:You’re_Makin’_Me_High "wikilink")[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[吉隆坡](../Page/吉隆坡.md "wikilink")[佩重納斯大廈](https://zh.wikipedia.org/wiki/佩重納斯大廈 "wikilink")」（[現場直播](../Page/現場直播.md "wikilink")） |- | 21:30-22:00 | [馬來語](https://zh.wikipedia.org/wiki/馬來語 "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")：「馬爾斯圖啦」（含[馬來語](https://zh.wikipedia.org/wiki/馬來語 "wikilink")[配音](../Page/配音.md "wikilink")） |- | 22:30-23:00 | [英語](https://zh.wikipedia.org/wiki/英語 "wikilink")[新聞](https://zh.wikipedia.org/wiki/新聞 "wikilink")：「[World News（世界新聞）](../Page/晚間新聞.md "wikilink")」 |- | 23:00-00:00 | [喜劇](../Page/喜劇.md "wikilink")及[脫口秀](https://zh.wikipedia.org/wiki/脫口秀 "wikilink")：「[大衛·萊特曼深夜秀](https://zh.wikipedia.org/wiki/w:en:Late_Night_with_David_Letterman "wikilink")」（含[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")[配音](../Page/配音.md "wikilink")） |- | 00:00-01:00 | [國歌](https://zh.wikipedia.org/wiki/馬來西亞國歌 "wikilink")、收播 |}
 
 ## 現時ntv7的播出時段節目
 
@@ -328,14 +273,10 @@ News（世界新聞）](../Page/晚間新聞.md "wikilink")」 |- | 23:00-00:00 
 
 ## 颁奖典礼
 
-  - [2010金視奬頒獎典禮](https://zh.wikipedia.org/wiki/2010金視奬頒獎典禮 "wikilink")
-    2010年9月25日
-  - [2012金視奬頒獎典禮](https://zh.wikipedia.org/wiki/2012金視奬頒獎典禮 "wikilink")
-    2012年9月22日
-  - [2014金視奬頒獎典禮](https://zh.wikipedia.org/wiki/2014金視奬頒獎典禮 "wikilink")
-    2014年9月20日
-  - [2017金視奬頒獎典禮](https://zh.wikipedia.org/wiki/2017金視奬頒獎典禮 "wikilink")
-    2017年5月20日
+  - [2010金視奬頒獎典禮](https://zh.wikipedia.org/wiki/2010金視奬頒獎典禮 "wikilink") 2010年9月25日
+  - [2012金視奬頒獎典禮](https://zh.wikipedia.org/wiki/2012金視奬頒獎典禮 "wikilink") 2012年9月22日
+  - [2014金視奬頒獎典禮](https://zh.wikipedia.org/wiki/2014金視奬頒獎典禮 "wikilink") 2014年9月20日
+  - [2017金視奬頒獎典禮](https://zh.wikipedia.org/wiki/2017金視奬頒獎典禮 "wikilink") 2017年5月20日
 
 ## 新闻节目
 
@@ -376,15 +317,13 @@ News（世界新聞）](../Page/晚間新聞.md "wikilink")」 |- | 23:00-00:00 
 ### 外国
 
   - [CSI犯罪现场](https://zh.wikipedia.org/wiki/CSI犯罪现场 "wikilink")
-  - [CSI犯罪现场:
-    迈阿密](https://zh.wikipedia.org/wiki/CSI犯罪现场:_迈阿密 "wikilink")
+  - [CSI犯罪现场: 迈阿密](https://zh.wikipedia.org/wiki/CSI犯罪现场:_迈阿密 "wikilink")
   - [CSI犯罪现场: 纽约](https://zh.wikipedia.org/wiki/CSI犯罪现场:_纽约 "wikilink")
   - Six Degrees
   - Frasier
   - [好汉两个半](../Page/好汉两个半.md "wikilink") Two and a Half Men
   - Pepper Dennis
-  - [实习医生格蕾](https://zh.wikipedia.org/wiki/实习医生格蕾 "wikilink") Grey's
-    Anatomy
+  - [实习医生格蕾](https://zh.wikipedia.org/wiki/实习医生格蕾 "wikilink") Grey's Anatomy
   - [24](https://zh.wikipedia.org/wiki/24_\(美国电视剧\) "wikilink")
   - [识骨寻踪](../Page/识骨寻踪.md "wikilink") Bones
   - [BASILISK甲贺忍法帖](https://zh.wikipedia.org/wiki/BASILISK甲贺忍法帖 "wikilink")
@@ -399,13 +338,10 @@ News（世界新聞）](../Page/晚間新聞.md "wikilink")」 |- | 23:00-00:00 
 
   - Oggy and the Cockroaches
   - Atomic Betty
-  - [豆豆先生](https://zh.wikipedia.org/wiki/豆豆先生 "wikilink") Mr. Bean the
-    Animated Series
-  - [Hi Hi Puffy
-    AmiYumi](https://zh.wikipedia.org/wiki/Hi_Hi_Puffy_AmiYumi "wikilink")
+  - [豆豆先生](https://zh.wikipedia.org/wiki/豆豆先生 "wikilink") Mr. Bean the Animated Series
+  - [Hi Hi Puffy AmiYumi](https://zh.wikipedia.org/wiki/Hi_Hi_Puffy_AmiYumi "wikilink")
   - Martin Mystery
-  - [小马宝莉：友情就是魔法My](https://zh.wikipedia.org/wiki/小马宝莉：友情就是魔法 "wikilink")
-    Little Pony:Friendship Is Magic Season 3
+  - [小马宝莉：友情就是魔法My](https://zh.wikipedia.org/wiki/小马宝莉：友情就是魔法 "wikilink") Little Pony:Friendship Is Magic Season 3
 
 ### 日本
 
@@ -472,15 +408,13 @@ News（世界新聞）](../Page/晚間新聞.md "wikilink")」 |- | 23:00-00:00 
   - 悬案<small>*Unsolved Mysterious*</small>
   - e7（娛樂新聞） <small>*e Seven*</small>
   - 强中自有强中手 <small>*Battle of the Best*</small>
-  - [一掷千金（马来西亚华语版本）](https://zh.wikipedia.org/wiki/一掷千金_\(马来西亚\) "wikilink")
-    <small>*Deal or No Deal*</small>
+  - [一掷千金（马来西亚华语版本）](https://zh.wikipedia.org/wiki/一掷千金_\(马来西亚\) "wikilink") <small>*Deal or No Deal*</small>
   - 马来西亚明星偶像 <small>*Star Idol Malaysia*</small>
   - 美食哗啦啦 <small>*Yummy Trail*</small>
   - 檐下温情 <small>*Helping Hands Season*</small>
   - 敢敢挑战II <small>*Feel Good Feel Cook*</small>
   - 女人占尚風 <small>*Women's Zone*</small>
-  - 誰來晚餐（[公視](../Page/公共電視文化事業基金會.md "wikilink")）<small>*Guess
-    Who*</small>
+  - 誰來晚餐（[公視](../Page/公共電視文化事業基金會.md "wikilink")）<small>*Guess Who*</small>
   - 阳光行动2 <small>*Project Sunshine 2*</small>
   - 開心就好II <small>*Shout Out\! It's Show Time Se2*</small>
   - 女人占尚風2 <small>*Women's Zone Season 2*</small>
@@ -579,9 +513,7 @@ News（世界新聞）](../Page/晚間新聞.md "wikilink")」 |- | 23:00-00:00 
 
 ## 歷年標誌
 
-Image:NTV7 New.JPG|被首要媒體收購後的標誌。使用時間為2006年至2012年
-Image:Ntv7_2012_logo.jpg|2012年至2018年3月4日 Image:Logo of
-newNTV7.png|thumb|new NTV7 logo|2018年3月5日起
+Image:NTV7 New.JPG|被首要媒體收購後的標誌。使用時間為2006年至2012年 Image:Ntv7_2012_logo.jpg|2012年至2018年3月4日 Image:Logo of newNTV7.png|thumb|new NTV7 logo|2018年3月5日起
 
 ## 参考文献
 
@@ -595,5 +527,4 @@ newNTV7.png|thumb|new NTV7 logo|2018年3月5日起
 
 {{-}}
 
-[Category:马来西亚電視台](https://zh.wikipedia.org/wiki/Category:马来西亚電視台 "wikilink")
-[Category:马来西亚公司](https://zh.wikipedia.org/wiki/Category:马来西亚公司 "wikilink")
+[Category:马来西亚電視台](https://zh.wikipedia.org/wiki/Category:马来西亚電視台 "wikilink") [Category:马来西亚公司](https://zh.wikipedia.org/wiki/Category:马来西亚公司 "wikilink")

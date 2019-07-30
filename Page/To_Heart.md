@@ -1,16 +1,10 @@
-《**To
-Heart**》是由[Leaf在](../Page/Leaf.md "wikilink")1997年5月23日發售的[視覺小說類型](https://zh.wikipedia.org/wiki/視覺小說 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，2003年6月27日發售全年齡版《**To
-Heart
-PSE**》，是PS版本再加上附加小遊戲而成。遊戲機版都是由[AQUAPLUS發售](../Page/AQUAPLUS.md "wikilink")，1999年3月25日發售加入[配音的](../Page/配音.md "wikilink")[PS版](../Page/PlayStation.md "wikilink")\[2\]，2004年12月28日發售[PS2版](https://zh.wikipedia.org/wiki/PS2 "wikilink")，2009年7月30日發售收錄1代和2代的[PSP版](https://zh.wikipedia.org/wiki/PSP "wikilink")《**ToHeart2
-PORTABLE
-Wパック**》，2011年10月27日發售1代的PSP廉價版。\[3\]1999年4月1日到6月24日播放電視動畫\[4\]，2004年10月2日到12月25日播放第二部電視動畫《**To
-Heart 〜Remember my Memories〜**》。\[5\]
+《**To Heart**》是由[Leaf](../Page/Leaf.md "wikilink")在1997年5月23日發售的[視覺小說類型](https://zh.wikipedia.org/wiki/視覺小說 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，2003年6月27日發售全年齡版《**To Heart PSE**》，是PS版本再加上附加小遊戲而成。遊戲機版都是由[AQUAPLUS](../Page/AQUAPLUS.md "wikilink")發售，1999年3月25日發售加入[配音](../Page/配音.md "wikilink")的[PS版](../Page/PlayStation.md "wikilink")\[2\]，2004年12月28日發售[PS2版](https://zh.wikipedia.org/wiki/PS2 "wikilink")，2009年7月30日發售收錄1代和2代的[PSP版](https://zh.wikipedia.org/wiki/PSP "wikilink")《**ToHeart2 PORTABLE Wパック**》，2011年10月27日發售1代的PSP廉價版。\[3\]1999年4月1日到6月24日播放電視動畫\[4\]，2004年10月2日到12月25日播放第二部電視動畫《**To Heart 〜Remember my Memories〜**》。\[5\]
 
 ## 故事
 
 ## 角色
 
-[聲優為PS全年齡版](../Page/聲優.md "wikilink")、PS2版、PSP版、電視動畫版、廣播劇CD版共同聲優。PC18禁版無配音。男主角名字如果玩家改名，女角不會念出名字。
+[聲優](../Page/聲優.md "wikilink")為PS全年齡版、PS2版、PSP版、電視動畫版、廣播劇CD版共同聲優。PC18禁版無配音。男主角名字如果玩家改名，女角不會念出名字。
 
 ### 主要角色
 
@@ -27,11 +21,10 @@ Heart 〜Remember my Memories〜**》。\[5\]
     [眼鏡娘](https://zh.wikipedia.org/wiki/眼鏡娘 "wikilink")[班長](../Page/班長.md "wikilink")，害羞內向，巨乳成為她煩惱的根源。
   -
     年齢：16歳　生日：12月21日　血型：A型　星座：射手座、身高：174cm　三圍：92/59/86
-    男主角的同級生，日美混血兒，英文名是Lemmy Christopher Helen
-    Miyauchi，小時候曾經把金髮染黑。強氣的高飛車女。
+    男主角的同級生，日美混血兒，英文名是Lemmy Christopher Helen Miyauchi，小時候曾經把金髮染黑。強氣的高飛車女。
   -
     年齢：17歳　生日：12月20日　血型：O型　星座：射手座　身高：159cm　三圍：84/54/87
-    藤田浩之的學姊，[無口天然的千金小姐](../Page/無口.md "wikilink")。對命理有些許的研究，喜歡幫人算命。
+    藤田浩之的學姊，[無口](../Page/無口.md "wikilink")天然的千金小姐。對命理有些許的研究，喜歡幫人算命。
   -
     年齢：16歳　生日：1月23日　血型：O型　星座：水瓶座　身高：161cm　三圍：88/56/85
     芹香的妹妹，和藤田浩之同年紀但不同校的女孩子，功夫很好，超強氣的高飛車女。PC版是攻略不能的角色。
@@ -84,8 +77,7 @@ Heart 〜Remember my Memories〜**》。\[5\]
 
 ### To Heart
 
-從遊戲原作改編的動畫，於1999年4月1日至6月24日播放，共13話。\[8\]臺灣的[中視](https://zh.wikipedia.org/wiki/中視 "wikilink")、[中都卡通台](../Page/中都卡通台.md "wikilink")、[ET
-Jacky播放過電視動畫版](https://zh.wikipedia.org/wiki/ET_Jacky "wikilink")，[VCD是由](../Page/VCD.md "wikilink")[木棉花國際代理發售](../Page/木棉花國際.md "wikilink")，片名譯作《**同班同學**》。香港則譯作《**青春萬歲**》，曾經在[無綫電視翡翠台播放過](https://zh.wikipedia.org/wiki/無綫電視翡翠台 "wikilink")。
+從遊戲原作改編的動畫，於1999年4月1日至6月24日播放，共13話。\[8\]臺灣的[中視](https://zh.wikipedia.org/wiki/中視 "wikilink")、[中都卡通台](../Page/中都卡通台.md "wikilink")、[ET Jacky播放過電視動畫版](https://zh.wikipedia.org/wiki/ET_Jacky "wikilink")，[VCD](../Page/VCD.md "wikilink")是由[木棉花國際](../Page/木棉花國際.md "wikilink")代理發售，片名譯作《**同班同學**》。香港則譯作《**青春萬歲**》，曾經在[無綫電視翡翠台播放過](https://zh.wikipedia.org/wiki/無綫電視翡翠台 "wikilink")。
 
 #### 主题曲
 
@@ -257,11 +249,13 @@ Jacky播放過電視動畫版](https://zh.wikipedia.org/wiki/ET_Jacky "wikilink"
   - 動畫製作：OLM
   - 製作：KSS
 
+#### 播放電視台
+
+  - 香港
+
 ### To Heart ～Remember My Memories～
 
-故事設定於To
-Heart的一年後，為全新的劇情，以マルチ重新回來校園生活為開始。於2004年10月2日到12月25日播放，共13話。臺灣正體中文版是由[曼迪傳播代理發售](../Page/曼迪傳播.md "wikilink")，片名譯作《**To
-Heart 青春紀事**》。
+故事設定於To Heart的一年後，為全新的劇情，以マルチ重新回來校園生活為開始。於2004年10月2日到12月25日播放，共13話。臺灣正體中文版是由[曼迪傳播](../Page/曼迪傳播.md "wikilink")代理發售，片名譯作《**To Heart 青春紀事**》。
 
 #### 主题曲
 
@@ -415,13 +409,12 @@ Heart 青春紀事**》。
   - 製作人：畑中利雄、中村誠、高山智子、水上高志、望月雄太郎、武智恒雄、土橋哲也、芝原靖史
   - 動畫製作人：渡辺欽哉、黄樹弐悠
   - 動畫製作：OLM、AIC A.S.T.A.
-  - 製作：THR
-    Works（IMAGICAエンタテインメント、フロンティアワークス、ジェネオンエンタテインメント、双日、AQUAPLUS、クロックワークス、AT-X、OLM）
+  - 製作：THR Works（IMAGICAエンタテインメント、フロンティアワークス、ジェネオンエンタテインメント、双日、AQUAPLUS、クロックワークス、AT-X、OLM）
 
 ## 漫畫
 
   - To Heart
-    由高雄右京擔任作畫，連載於[月刊Comic電擊大王](../Page/月刊Comic電擊大王.md "wikilink")1997年10月號到1999年12月號，單行本共3集由[MediaWorks發售](../Page/MediaWorks.md "wikilink")。\[12\]
+    由高雄右京擔任作畫，連載於[月刊Comic電擊大王](../Page/月刊Comic電擊大王.md "wikilink")1997年10月號到1999年12月號，單行本共3集由[MediaWorks](../Page/MediaWorks.md "wikilink")發售。\[12\]
 
 | 卷數 | 發售日        | [ISBN](https://zh.wikipedia.org/wiki/ISBN "wikilink") |
 | -- | ---------- | ----------------------------------------------------- |
@@ -430,14 +423,11 @@ Heart 青春紀事**》。
 | 3  | 2000年2月15日 | ISBN 4-8402-1460-3                                    |
 
   - To Heart 〜Remember my Memories〜
-    由高雄右京擔任作畫，連載於月刊Comic電擊大王2004年11月號到2005年7月號，單行本共1集由MediaWorks在2005年8月15日發售（ISBN
-    4-8402-3137-0）。\[13\]
+    由高雄右京擔任作畫，連載於月刊Comic電擊大王2004年11月號到2005年7月號，單行本共1集由MediaWorks在2005年8月15日發售（ISBN 4-8402-3137-0）。\[13\]
 
 ## 評價
 
-《[電擊G's
-magazine](../Page/電擊G's_magazine.md "wikilink")》2007年8月号舉辦的日本前五十名最佳美少女遊戲排名的票選活動，《To
-Heart》在入圍的249款遊戲中獲得14票而成為第19名\[14\]。PS版在《[ファミ通](https://zh.wikipedia.org/wiki/ファミ通 "wikilink")》537號的クロスレビュー的評分中，滿分40分獲得30分並且進入銀殿堂。\[15\]
+《[電擊G's magazine](../Page/電擊G's_magazine.md "wikilink")》2007年8月号舉辦的日本前五十名最佳美少女遊戲排名的票選活動，《To Heart》在入圍的249款遊戲中獲得14票而成為第19名\[14\]。PS版在《[ファミ通](https://zh.wikipedia.org/wiki/ファミ通 "wikilink")》537號的クロスレビュー的評分中，滿分40分獲得30分並且進入銀殿堂。\[15\]
 
 ## 參考來源
 
@@ -448,40 +438,17 @@ Heart》在入圍的249款遊戲中獲得14票而成為第19名\[14\]。PS版在
   - [To Heart 官方網站](http://www.aquaplus.co.jp/th/)
   - [To Heart \~Remember My Memories\~](http://www.toheart-r.net)
 
-[Category:Leaf](https://zh.wikipedia.org/wiki/Category:Leaf "wikilink")
-[Category:1997年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:1997年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:PlayStation_(游戏机)游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_\(游戏机\)游戏 "wikilink")
-[Category:PlayStation_2遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_2遊戲 "wikilink")
-[Category:PlayStation_Portable遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable遊戲 "wikilink")
-[Category:視覺小說](https://zh.wikipedia.org/wiki/Category:視覺小說 "wikilink")
-[Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:1999年日本電視動畫](https://zh.wikipedia.org/wiki/Category:1999年日本電視動畫 "wikilink")
-[Category:日本成人遊戲改編電視動畫](https://zh.wikipedia.org/wiki/Category:日本成人遊戲改編電視動畫 "wikilink")
-[Category:2004年UHF動畫](https://zh.wikipedia.org/wiki/Category:2004年UHF動畫 "wikilink")
-[Category:中視外購動畫](https://zh.wikipedia.org/wiki/Category:中視外購動畫 "wikilink")
-[Category:月刊Comic電擊大王連載作品](https://zh.wikipedia.org/wiki/Category:月刊Comic電擊大王連載作品 "wikilink")
-[Category:電擊G's文庫](https://zh.wikipedia.org/wiki/Category:電擊G's文庫 "wikilink")
-[Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink")
-[Category:OLM](https://zh.wikipedia.org/wiki/Category:OLM "wikilink")
-[Category:AIC](https://zh.wikipedia.org/wiki/Category:AIC "wikilink")
+[Category:Leaf](https://zh.wikipedia.org/wiki/Category:Leaf "wikilink") [Category:1997年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:1997年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:PlayStation_(游戏机)游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_\(游戏机\)游戏 "wikilink") [Category:PlayStation_2遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_2遊戲 "wikilink") [Category:PlayStation_Portable遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable遊戲 "wikilink") [Category:視覺小說](https://zh.wikipedia.org/wiki/Category:視覺小說 "wikilink") [Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:1999年日本電視動畫](https://zh.wikipedia.org/wiki/Category:1999年日本電視動畫 "wikilink") [Category:日本成人遊戲改編電視動畫](https://zh.wikipedia.org/wiki/Category:日本成人遊戲改編電視動畫 "wikilink") [Category:2004年UHF動畫](https://zh.wikipedia.org/wiki/Category:2004年UHF動畫 "wikilink") [Category:中視外購動畫](https://zh.wikipedia.org/wiki/Category:中視外購動畫 "wikilink") [Category:月刊Comic電擊大王連載作品](https://zh.wikipedia.org/wiki/Category:月刊Comic電擊大王連載作品 "wikilink") [Category:電擊G's文庫](https://zh.wikipedia.org/wiki/Category:電擊G's文庫 "wikilink") [Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink") [Category:OLM](https://zh.wikipedia.org/wiki/Category:OLM "wikilink") [Category:AIC](https://zh.wikipedia.org/wiki/Category:AIC "wikilink")
 
 1.  [To Heart](https://vndb.org/v18)The Visual Novel Database
 
 2.  [トゥハート](http://www.famitsu.com/cominy/?m=pc&a=page_h_title&title_id=2808)[ファミ通.com](https://zh.wikipedia.org/wiki/ファミ通.com "wikilink")
 
-3.  [ToHeart PORTABLE
-    (AQUAPRICE2800)](http://www.famitsu.com/cominy/?m=pc&a=page_h_title&title_id=24838)ファミ通.com
+3.  [ToHeart PORTABLE (AQUAPRICE2800)](http://www.famitsu.com/cominy/?m=pc&a=page_h_title&title_id=24838)ファミ通.com
 
-4.  [To Heart
-    (TV)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1089)[Anime
-    News
-    Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")
+4.  [To Heart (TV)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1089)[Anime News Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")
 
-5.  [ToHeart - Remember my memories
-    (TV)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4455)Anime
-    News Network
+5.  [ToHeart - Remember my memories (TV)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4455)Anime News Network
 
 6.  [ToHeart](http://erogetrailers.com/soft/7750)ErogeTrailers
 
@@ -491,19 +458,13 @@ Heart》在入圍的249款遊戲中獲得14票而成為第19名\[14\]。PS版在
 
 9.
 
-10. [To Heart トゥハート
-    (1999)](http://www.allcinema.net/prog/show_c.php?num_c=125552)allcinema
+10. [To Heart トゥハート (1999)](http://www.allcinema.net/prog/show_c.php?num_c=125552)allcinema
 
-11. [To Heart ～Remember my
-    memories～(2004)](http://www.allcinema.net/prog/show_c.php?num_c=321267)allcinema
+11. [To Heart ～Remember my memories～(2004)](http://www.allcinema.net/prog/show_c.php?num_c=321267)allcinema
 
-12. [To Heart
-    (manga)](http://www.animenewsnetwork.com/encyclopedia/manga.php?id=3599)Anime
-    News Network
+12. [To Heart (manga)](http://www.animenewsnetwork.com/encyclopedia/manga.php?id=3599)Anime News Network
 
-13. [To Heart Remember my memories
-    (manga)](http://www.animenewsnetwork.com/encyclopedia/manga.php?id=6205)Anime
-    News Network
+13. [To Heart Remember my memories (manga)](http://www.animenewsnetwork.com/encyclopedia/manga.php?id=6205)Anime News Network
 
 14.
 

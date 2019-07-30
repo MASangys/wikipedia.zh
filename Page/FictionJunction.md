@@ -1,6 +1,4 @@
-[FictionJunction_at_Anime_Expo_2012.jpg](https://zh.wikipedia.org/wiki/File:FictionJunction_at_Anime_Expo_2012.jpg "fig:FictionJunction_at_Anime_Expo_2012.jpg")
-**FictionJunction**（）是[日本](../Page/日本.md "wikilink")[作曲家](https://zh.wikipedia.org/wiki/作曲家 "wikilink")[梶浦由記Solo](../Page/梶浦由記.md "wikilink")
-Project的總稱。（但不包含梶浦制作的[原聲音樂](https://zh.wikipedia.org/wiki/原聲音樂 "wikilink")。）
+[FictionJunction_at_Anime_Expo_2012.jpg](https://zh.wikipedia.org/wiki/File:FictionJunction_at_Anime_Expo_2012.jpg "fig:FictionJunction_at_Anime_Expo_2012.jpg") **FictionJunction**（）是[日本](../Page/日本.md "wikilink")[作曲家](https://zh.wikipedia.org/wiki/作曲家 "wikilink")[梶浦由記](../Page/梶浦由記.md "wikilink")Solo Project的總稱。（但不包含梶浦制作的[原聲音樂](https://zh.wikipedia.org/wiki/原聲音樂 "wikilink")。）
 
 梶浦由記除擔當[鍵盤樂器](../Page/鍵盤樂器.md "wikilink")，還不定期（幾近於無，例如：synchronicity中一段梶浦語）以Vocal演出。
 
@@ -11,19 +9,15 @@ Project的總稱。（但不包含梶浦制作的[原聲音樂](https://zh.wikip
   - YUUKA （[南里侑香](../Page/南里侑香.md "wikilink")）
     声优及歌手，FJ的第一名成员。早在“南青山少女歌剧团”时就和梶浦有过合作关系。曾与前辈千叶纱子组成Tiaraway的音乐偶像组合，发表第一张专辑后便宣告解散。03年因演唱TV动画《鋼彈seed》的插曲《[晓之车](../Page/晓之车.md "wikilink")》而一举成名。声音清纯无暇，具有透明感。
   - KAORI（[織田香織](https://zh.wikipedia.org/wiki/織田かおり "wikilink")）
-    身为CHIX CHICKS（原BJ
-    Girls）成员，也以「KAORI」的名义参与了知名音乐团体SoundHorizon的活动。特技是排球和化妆。曾属事务所旗下的东京儿童剧团，也是在那个时代通过共同参与NHK的广播节目与声优平野绫成为好友。
+    身为CHIX CHICKS（原BJ Girls）成员，也以「KAORI」的名义参与了知名音乐团体SoundHorizon的活动。特技是排球和化妆。曾属事务所旗下的东京儿童剧团，也是在那个时代通过共同参与NHK的广播节目与声优平野绫成为好友。
   - KEIKO（[窪田啓子](../Page/窪田啓子.md "wikilink")）
-    同时也是[Kalafina的成员之一](../Page/Kalafina.md "wikilink")，拥有独特而成熟的低沉声线。2005年在一个名为「イアラ」（Iara）的女性萨克斯乐队中担任过主唱。2005年12月21日，Keiko和伊藤彩华的池袋路上Live组合イトクボ（Itokubo，取自两人姓氏罗马音的拆字组合）首次演出，一直持续活动至2007年6月。
+    同时也是[Kalafina](../Page/Kalafina.md "wikilink")的成员之一，拥有独特而成熟的低沉声线。2005年在一个名为「イアラ」（Iara）的女性萨克斯乐队中担任过主唱。2005年12月21日，Keiko和伊藤彩华的池袋路上Live组合イトクボ（Itokubo，取自两人姓氏罗马音的拆字组合）首次演出，一直持续活动至2007年6月。
   - WAKANA（[大滝若菜](https://zh.wikipedia.org/wiki/大滝若菜 "wikilink")）
     同时也是Kalafina的成员之一，她的歌声充满了具有延展性的清凉感，在抒情曲目里有着令人印象深刻的表现。曾被梶浦由记称赞声线是“神女一般的歌声”。12岁的时候便开始学习声乐。08年还为SMAP、藤泽ノリマサ、户松遥等歌手的作品做过和声。
   - YURIKO KAIDA（[貝田由-{里}-子](../Page/貝田由里子.md "wikilink")）
-    长期担任梶浦大部分OST的和声，和声的效果很出色。被梶浦称为“很有古典声线”的歌手，音域相对较广。同时在梶浦看来，贝田是最擅长她所创造<梶浦语>的，可称之为“梶浦语达人”。很少有独唱作品，比较有代表性的独唱作品为NOIR（黑街二人组）的"canta
-    per me"。
+    长期担任梶浦大部分OST的和声，和声的效果很出色。被梶浦称为“很有古典声线”的歌手，音域相对较广。同时在梶浦看来，贝田是最擅长她所创造<梶浦语>的，可称之为“梶浦语达人”。很少有独唱作品，比较有代表性的独唱作品为NOIR（黑街二人组）的"canta per me"。
   - ASUKA（[加藤あすか](https://zh.wikipedia.org/wiki/加藤あすか "wikilink")）
-    和梶浦由记只合作过TV动画《武器种族传说》的插曲everlasting
-    song，谜样的歌姬，具体资料不详。本人已证实，和Lantis的歌手[結城愛良是同一人](../Page/結城愛良.md "wikilink")，并在YUKI
-    KAJIURA LIVE VOL\#9 DAY4中作为special guest参演。
+    和梶浦由记只合作过TV动画《武器种族传说》的插曲everlasting song，谜样的歌姬，具体资料不详。本人已证实，和Lantis的歌手[結城愛良](../Page/結城愛良.md "wikilink")是同一人，并在YUKI KAJIURA LIVE VOL\#9 DAY4中作为special guest参演。
 
 ## 音樂作品
 
@@ -69,8 +63,7 @@ Project的總稱。（但不包含梶浦制作的[原聲音樂](https://zh.wikip
 
 1.  stone cold
       -
-        2011年[日本動畫](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")『[Sacred
-        Seven](../Page/Sacred_Seven.md "wikilink")』片頭曲。
+        2011年[日本動畫](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")『[Sacred Seven](../Page/Sacred_Seven.md "wikilink")』片頭曲。
     <!-- end list -->
       - Vocal：WAKANA・KEIKO・KAORI・YURIKO KAIDA
 2.  ひとりごと
@@ -86,8 +79,7 @@ Project的總稱。（但不包含梶浦制作的[原聲音樂](https://zh.wikip
 
 1.  Distance
       -
-        2012年[日本動畫](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")『[機動戰士GUNDAM
-        SEED HD Remaster](../Page/機動戰士GUNDAM_SEED.md "wikilink")』片尾曲。
+        2012年[日本動畫](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")『[機動戰士GUNDAM SEED HD Remaster](../Page/機動戰士GUNDAM_SEED.md "wikilink")』片尾曲。
     <!-- end list -->
       - Vocal：WAKANA・KEIKO・KAORI・YURIKO KAIDA
 2.  eternal blue
@@ -136,9 +128,7 @@ Project的總稱。（但不包含梶浦制作的[原聲音樂](https://zh.wikip
 
 1.  暁の車
       -
-        [日本動畫](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")『[機動戰士GUNDAM
-        SEED](../Page/機動戰士GUNDAM_SEED.md "wikilink")』插曲。是登場人物之一[卡嘉莉·尤拉·阿斯哈的主题曲](../Page/卡嘉莉·尤拉·阿斯哈.md "wikilink")，在她登场的重要剧集中出现。最早收录在一系列名为“Suit
-        CD"的同作品角色CD里，由于音乐本身广受欢迎，动画放映完毕一年后的2004年9月，《晓之車》發行单曲CD，首次登场即达到Oricon排行榜的第十位，销量突破10万张。
+        [日本動畫](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")『[機動戰士GUNDAM SEED](../Page/機動戰士GUNDAM_SEED.md "wikilink")』插曲。是登場人物之一[卡嘉莉·尤拉·阿斯哈](../Page/卡嘉莉·尤拉·阿斯哈.md "wikilink")的主题曲，在她登场的重要剧集中出现。最早收录在一系列名为“Suit CD"的同作品角色CD里，由于音乐本身广受欢迎，动画放映完毕一年后的2004年9月，《晓之車》發行单曲CD，首次登场即达到Oricon排行榜的第十位，销量突破10万张。
 2.  暁の車（piano version）
 3.  暁の車（acoustic version）
 4.  暁の車（without vocal）
@@ -151,10 +141,7 @@ Project的總稱。（但不包含梶浦制作的[原聲音樂](https://zh.wikip
 
 1.  焰之扉
       -
-        2005年[日本動畫](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")『[機動戰士GUNDAM
-        SEED
-        DESTINY](../Page/機動戰士GUNDAM_SEED_DESTINY.md "wikilink")』插曲。继「曉之車」之后，[卡嘉莉·尤拉·阿斯哈的主题曲](../Page/卡嘉莉·尤拉·阿斯哈.md "wikilink")。2005年9月22日获得Oricon排行榜单曲第一名，是有史以来第一次由声优夺得单曲榜第一名的位置。在此以前，2004年12月21日上榜的[文化部4人組获得第二位](https://zh.wikipedia.org/wiki/魔法先生ネギま!#CD "wikilink")，是史上最高记录。-{zh-hans:[林原惠美](https://zh.wikipedia.org/wiki/林原惠美 "wikilink");zh-hk:[林原惠美](https://zh.wikipedia.org/wiki/林原惠美 "wikilink");zh-tw:[林原惠](../Page/林原惠.md "wikilink");}-的「Northern
-        Lights」最高曾经获得第三位。
+        2005年[日本動畫](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")『[機動戰士GUNDAM SEED DESTINY](../Page/機動戰士GUNDAM_SEED_DESTINY.md "wikilink")』插曲。继「曉之車」之后，[卡嘉莉·尤拉·阿斯哈](../Page/卡嘉莉·尤拉·阿斯哈.md "wikilink")的主题曲。2005年9月22日获得Oricon排行榜单曲第一名，是有史以来第一次由声优夺得单曲榜第一名的位置。在此以前，2004年12月21日上榜的[文化部4人組获得第二位](https://zh.wikipedia.org/wiki/魔法先生ネギま!#CD "wikilink")，是史上最高记录。-{zh-hans:[林原惠美](https://zh.wikipedia.org/wiki/林原惠美 "wikilink");zh-hk:[林原惠美](https://zh.wikipedia.org/wiki/林原惠美 "wikilink");zh-tw:[林原惠](../Page/林原惠.md "wikilink");}-的「Northern Lights」最高曾经获得第三位。
 2.  焔の扉（hearty edition）
 3.  焔の扉（instrumental edition）
 4.  焔の扉（オリジナル・カラオケ）
@@ -167,9 +154,7 @@ Project的總稱。（但不包含梶浦制作的[原聲音樂](https://zh.wikip
 
 1.  Silly-Go-Round
       -
-        2006年[日本動畫](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")
-        『[.hack//Roots](https://zh.wikipedia.org/wiki/.hack/Roots "wikilink")』
-        片头曲。
+        2006年[日本動畫](https://zh.wikipedia.org/wiki/日本動畫 "wikilink") 『[.hack//Roots](https://zh.wikipedia.org/wiki/.hack/Roots "wikilink")』 片头曲。
 2.  angel gate
       -
         南里侑香所演出的舞台劇「ANGEL GATE～春の予感～」的插曲之一。
@@ -184,9 +169,7 @@ Project的總稱。（但不包含梶浦制作的[原聲音樂](https://zh.wikip
 
 1.  荒野流転
       -
-        2007年[日本動畫](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")『[幕末機関説
-        いろはにほへと](https://zh.wikipedia.org/wiki/幕末機関説_いろはにほへと "wikilink")』
-        片头曲。
+        2007年[日本動畫](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")『[幕末機関説 いろはにほへと](https://zh.wikipedia.org/wiki/幕末機関説_いろはにほへと "wikilink")』 片头曲。
 2.  blessing
 3.  荒野流転（without vocal）
 4.  blessing（without vocal）
@@ -199,8 +182,7 @@ Project的總稱。（但不包含梶浦制作的[原聲音樂](https://zh.wikip
 
 1.  romanesque
       -
-        2007年[日本動畫](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")『[魔女狩獵者](https://zh.wikipedia.org/wiki/魔女狩獵者 "wikilink")』
-        片尾曲。
+        2007年[日本動畫](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")『[魔女狩獵者](https://zh.wikipedia.org/wiki/魔女狩獵者 "wikilink")』 片尾曲。
 2.  約束
 3.  romanesque（without vocal）
 4.  約束（without vocal）
@@ -209,8 +191,7 @@ Project的總稱。（但不包含梶浦制作的[原聲音樂](https://zh.wikip
 
 '' FictionJunction ''
 
-  - 「Everlasting
-    Songs」（[2009年2月25日](https://zh.wikipedia.org/wiki/2009年2月25日 "wikilink")）
+  - 「Everlasting Songs」（[2009年2月25日](https://zh.wikipedia.org/wiki/2009年2月25日 "wikilink")）
 
 <table>
 <thead>
@@ -446,8 +427,6 @@ vocal：YUUKA</p></td>
 ## 外部連結
 
   - [FictionJunction.com](https://web.archive.org/web/20140214012428/http://www.fictionjunction.com/)（公式網頁，但只含梶浦由記自身的情報。）
-  - [FictionJunction
-    YUUKA](http://www.jvcmusic.co.jp/fj_yuuka/)（FictionJunction YUUKA
-    公式網頁）
+  - [FictionJunction YUUKA](http://www.jvcmusic.co.jp/fj_yuuka/)（FictionJunction YUUKA 公式網頁）
 
 [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")

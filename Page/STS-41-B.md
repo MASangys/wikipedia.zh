@@ -8,7 +8,4 @@
   - **[罗纳德·麦克内尔](../Page/罗纳德·麦克内尔.md "wikilink")**（，曾执行以及任务），任务专家
   - **[罗伯特·斯图尔特](https://zh.wikipedia.org/wiki/罗伯特·斯图尔特 "wikilink")**（，曾执行以及任务），任务专家
 
-[Category:1984年佛罗里达州](https://zh.wikipedia.org/wiki/Category:1984年佛罗里达州 "wikilink")
-[Category:1984年科學](https://zh.wikipedia.org/wiki/Category:1984年科學 "wikilink")
-[Category:挑战者号航天飞机任务](https://zh.wikipedia.org/wiki/Category:挑战者号航天飞机任务 "wikilink")
-[Category:1984年2月](https://zh.wikipedia.org/wiki/Category:1984年2月 "wikilink")
+[Category:1984年佛罗里达州](https://zh.wikipedia.org/wiki/Category:1984年佛罗里达州 "wikilink") [Category:1984年科學](https://zh.wikipedia.org/wiki/Category:1984年科學 "wikilink") [Category:挑战者号航天飞机任务](https://zh.wikipedia.org/wiki/Category:挑战者号航天飞机任务 "wikilink") [Category:1984年2月](https://zh.wikipedia.org/wiki/Category:1984年2月 "wikilink")

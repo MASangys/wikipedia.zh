@@ -1,6 +1,6 @@
-****是一颗[意大利和](../Page/意大利.md "wikilink")[荷兰合作研制的](../Page/荷兰.md "wikilink")[X射线天文学](../Page/X射线天文学.md "wikilink")[人造衛星](../Page/人造衛星.md "wikilink")。这颗卫星的结构和控制系统是由多个意大利和荷兰公司制造的，其科学仪器则由意大利[国家研究委员会的研究所研制](https://zh.wikipedia.org/wiki/国家研究委员会 "wikilink")。卫星以意大利天文学家[朱塞佩·奥基亚利尼的昵称](../Page/朱塞佩·奥基亚利尼.md "wikilink")命名，是X射线天文卫星（）的缩写。
+****是一颗[意大利](../Page/意大利.md "wikilink")和[荷兰](../Page/荷兰.md "wikilink")合作研制的[X射线天文学](../Page/X射线天文学.md "wikilink")[人造衛星](../Page/人造衛星.md "wikilink")。这颗卫星的结构和控制系统是由多个意大利和荷兰公司制造的，其科学仪器则由意大利[国家研究委员会的研究所研制](https://zh.wikipedia.org/wiki/国家研究委员会 "wikilink")。卫星以意大利天文学家[朱塞佩·奥基亚利尼](../Page/朱塞佩·奥基亚利尼.md "wikilink")的昵称命名，是X射线天文卫星（）的缩写。
 
-的一个重要成就是辨认了许多与[伽玛射线暴相关联的银河系外天体](../Page/伽玛射线暴.md "wikilink")。
+的一个重要成就是辨认了许多与[伽玛射线暴](../Page/伽玛射线暴.md "wikilink")相关联的银河系外天体。
 
 是1996年发射的，本来计划运行两年，但是实际上一直运行到2002年4月30日，此后该卫星的轨道跌落太快，一些亚系统开始失灵。最后于2003年脱离轨道，坠入[太平洋](https://zh.wikipedia.org/wiki/太平洋 "wikilink")。
 
@@ -34,11 +34,10 @@
 
 也是一台气体闪烁正比计数器，但是其气体的气压高（3大气压）。高气压意味着高密度，因此它可以探测到能量高达120keV的光子。
 
-是一台由两种闪烁体（[碘化钾和](../Page/碘化钾.md "wikilink")[碘化铯](https://zh.wikipedia.org/wiki/碘化铯 "wikilink")）组成的复合晶体探测器，它能够探测到至能量为300keV的光子。它的光谱分辨率比气体探测器的低。
+是一台由两种闪烁体（[碘化钾](../Page/碘化钾.md "wikilink")和[碘化铯](https://zh.wikipedia.org/wiki/碘化铯 "wikilink")）组成的复合晶体探测器，它能够探测到至能量为300keV的光子。它的光谱分辨率比气体探测器的低。
 
 ## 外部链接
 
   - [BeppoSAX卫星数据中心](http://www.asdc.asi.it/bepposax/)
 
-[Category:X射线天文卫星](https://zh.wikipedia.org/wiki/Category:X射线天文卫星 "wikilink")
-[Category:布鲁诺·罗西奖获得者](https://zh.wikipedia.org/wiki/Category:布鲁诺·罗西奖获得者 "wikilink")
+[Category:X射线天文卫星](https://zh.wikipedia.org/wiki/Category:X射线天文卫星 "wikilink") [Category:布鲁诺·罗西奖获得者](https://zh.wikipedia.org/wiki/Category:布鲁诺·罗西奖获得者 "wikilink")

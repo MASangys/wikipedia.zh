@@ -1,20 +1,14 @@
-**ZFS**是一個擁有[邏輯捲軸管理功能的](https://zh.wikipedia.org/wiki/邏輯捲軸管理 "wikilink")[檔案系統](https://zh.wikipedia.org/wiki/檔案系統 "wikilink")，最早源自于[昇陽電腦为](../Page/昇陽電腦.md "wikilink")[Solaris](../Page/Solaris.md "wikilink")[操作系统开发的文件系统](../Page/操作系统.md "wikilink")。ZFS是一个具有高存储容量、文件系统与卷管理概念整合、崭新的磁盘逻辑结构的轻量级文件系统，同时也是一个便捷的存储池管理系统。ZFS是一个使用[通用开发与散布许可证授权的](../Page/通用开发与散布许可证.md "wikilink")[开源项目](https://zh.wikipedia.org/wiki/开源 "wikilink")，這個商標名稱現由[甲骨文公司擁有](../Page/甲骨文公司.md "wikilink")。
+**ZFS**是一個擁有[邏輯捲軸管理功能的](https://zh.wikipedia.org/wiki/邏輯捲軸管理 "wikilink")[檔案系統](https://zh.wikipedia.org/wiki/檔案系統 "wikilink")，最早源自于[昇陽電腦](../Page/昇陽電腦.md "wikilink")为[Solaris](../Page/Solaris.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")开发的文件系统。ZFS是一个具有高存储容量、文件系统与卷管理概念整合、崭新的磁盘逻辑结构的轻量级文件系统，同时也是一个便捷的存储池管理系统。ZFS是一个使用[通用开发与散布许可证](../Page/通用开发与散布许可证.md "wikilink")授权的[开源项目](https://zh.wikipedia.org/wiki/开源 "wikilink")，這個商標名稱現由[甲骨文公司](../Page/甲骨文公司.md "wikilink")擁有。
 
 ## 历史
 
-ZFS的设计与开发由Sun公司的[Jeff
-Bonwick所领导的一支团队完成](https://zh.wikipedia.org/wiki/Jeff_Bonwick "wikilink")。最早宣布于2004年9月14日，\[1\]於2005年10月31日并入了Solaris开发的主干源代码。\[2\]并在2005年11月16日作为[OpenSolaris](../Page/OpenSolaris.md "wikilink")
-build 27的一部分发布。Sun在OpenSolaris社区开张1年后的2006年六月，将ZFS整合进了Solaris 10
-6/06版本更新。\[3\]
+ZFS的设计与开发由Sun公司的[Jeff Bonwick所领导的一支团队完成](https://zh.wikipedia.org/wiki/Jeff_Bonwick "wikilink")。最早宣布于2004年9月14日，\[1\]於2005年10月31日并入了Solaris开发的主干源代码。\[2\]并在2005年11月16日作为[OpenSolaris](../Page/OpenSolaris.md "wikilink") build 27的一部分发布。Sun在OpenSolaris社区开张1年后的2006年六月，将ZFS整合进了Solaris 10 6/06版本更新。\[3\]
 
-ZFS的命名來源發想於"[Zettabyte](https://zh.wikipedia.org/wiki/Zettabyte "wikilink")
-File
-System"的首字母缩写。\[4\]但ZFS本身並不具備任何的縮寫意涵，只是作者想闡述做為一個具備高擴充容量檔案系統且還有支援許多延伸功能的一個產品。
+ZFS的命名來源發想於"[Zettabyte](https://zh.wikipedia.org/wiki/Zettabyte "wikilink") File System"的首字母缩写。\[4\]但ZFS本身並不具備任何的縮寫意涵，只是作者想闡述做為一個具備高擴充容量檔案系統且還有支援許多延伸功能的一個產品。
 
 ## 存储池
 
-不同于传统文件系统需要驻留于单独设备或者需要一个卷管理系统去使用一个以上的设备，ZFS建立在虚拟的，被称为“zpools”的存储池之上（存储池最早在[AdvFS實現](../Page/AdvFS.md "wikilink")\[5\]，並且加到後來的[Btrfs](../Page/Btrfs.md "wikilink")）。每个存储池由若干虚拟设备（*virtual
-devices，vdevs*）组成。这些虚拟设备可以是原始磁盘，也可能是一个[RAID1镜像设备](https://zh.wikipedia.org/wiki/RAID1 "wikilink")，或是非标准RAID等级的多磁盘组。于是zpool上的文件系统可以使用这些虚拟设备的总存储容量。
+不同于传统文件系统需要驻留于单独设备或者需要一个卷管理系统去使用一个以上的设备，ZFS建立在虚拟的，被称为“zpools”的存储池之上（存储池最早在[AdvFS](../Page/AdvFS.md "wikilink")實現\[5\]，並且加到後來的[Btrfs](../Page/Btrfs.md "wikilink")）。每个存储池由若干虚拟设备（*virtual devices，vdevs*）组成。这些虚拟设备可以是原始磁盘，也可能是一个[RAID1镜像设备](https://zh.wikipedia.org/wiki/RAID1 "wikilink")，或是非标准RAID等级的多磁盘组。于是zpool上的文件系统可以使用这些虚拟设备的总存储容量。
 
 可以使用[磁盘限额以及设置磁盘预留空间来限制存储池中单个文件系统所占用的空间](https://zh.wikipedia.org/wiki/磁盘限额 "wikilink")。
 
@@ -26,12 +20,10 @@ ZFS是一个[128位的文件系统](https://zh.wikipedia.org/wiki/128位 "wikili
 
   - 2<sup>48</sup>—任意文件系统的[快照数量](https://zh.wikipedia.org/wiki/快照 "wikilink")（2×10<sup>14</sup>）
   - 2<sup>48</sup>—任何单独文件系统的文件数（2×10<sup>14</sup>）
-  - 16 [exabytes](https://zh.wikipedia.org/wiki/exabyte "wikilink")
-    (2<sup>64</sup> byte)—文件系统最大尺寸
+  - 16 [exabytes](https://zh.wikipedia.org/wiki/exabyte "wikilink") (2<sup>64</sup> byte)—文件系统最大尺寸
   - 16 exabytes (2<sup>64</sup> byte)—最大单个文件尺寸
   - 16 exabytes (2<sup>64</sup> byte)—最大属性大小
-  - 128 [Zettabytes](https://zh.wikipedia.org/wiki/Zettabyte "wikilink")
-    (2<sup>78</sup> byte)—最大zpool大小
+  - 128 [Zettabytes](https://zh.wikipedia.org/wiki/Zettabyte "wikilink") (2<sup>78</sup> byte)—最大zpool大小
   - 2<sup>56</sup>—单个文件的属性数量（受ZFS文件数量的约束，实际为2<sup>48</sup>）
   - 2<sup>56</sup>—单个目录的文件数（受ZFS文件数量的约束，实际为2<sup>48</sup>）
   - 2<sup>64</sup>—单一zpool的设备数
@@ -42,16 +34,11 @@ ZFS是一个[128位的文件系统](https://zh.wikipedia.org/wiki/128位 "wikili
 
 在辩解填满ZFS与煮沸海洋的关系时，Bonwick写到：
 
-> 尽管我们都希望[摩尔定律永远延续](../Page/摩尔定律.md "wikilink")，但是[量子力学给定了任何物理设备上计算速率](../Page/量子力学.md "wikilink")（computation
-> rate）与信息量的理论极限。举例而言，一个-{zh-hans;zh-hant|质量}-为1[公斤](https://zh.wikipedia.org/wiki/公斤 "wikilink")，体积为1[升的物体](../Page/升.md "wikilink")，每秒至多在10<sup>31</sup>[位](https://zh.wikipedia.org/wiki/位 "wikilink")[信息](../Page/信息.md "wikilink")
-> 上进行10<sup>51</sup>次运算\[7\]。一个完全的128位存储池将包含2<sup>128</sup>个块=
-> 2<sup>137</sup>字节= 2<sup>140</sup>位；应此，保存这些数据位至少需要(2<sup>140</sup>位) /
-> (10<sup>31</sup>位/公斤) = 1360亿公斤的物质。
+> 尽管我们都希望[摩尔定律](../Page/摩尔定律.md "wikilink")永远延续，但是[量子力学](../Page/量子力学.md "wikilink")给定了任何物理设备上计算速率（computation rate）与信息量的理论极限。举例而言，一个-{zh-hans;zh-hant|质量}-为1[公斤](https://zh.wikipedia.org/wiki/公斤 "wikilink")，体积为1[升](../Page/升.md "wikilink")的物体，每秒至多在10<sup>31</sup>[位](https://zh.wikipedia.org/wiki/位 "wikilink")[信息](../Page/信息.md "wikilink") 上进行10<sup>51</sup>次运算\[7\]。一个完全的128位存储池将包含2<sup>128</sup>个块= 2<sup>137</sup>字节= 2<sup>140</sup>位；应此，保存这些数据位至少需要(2<sup>140</sup>位) / (10<sup>31</sup>位/公斤) = 1360亿公斤的物质。
 
 ## 写入时复制事务模型
 
-ZFS采用[写入时复制事务对象模型](https://zh.wikipedia.org/wiki/写入时复制 "wikilink")。文件系统中的所有块指向都包含目标块的256位[校验和或](https://zh.wikipedia.org/wiki/校验和 "wikilink")[hash值](https://zh.wikipedia.org/wiki/密码散列函数 "wikilink")（目前有、
-Fletcher-4与[SHA-2供选择](../Page/SHA-2.md "wikilink")）\[8\]。在读取块时会对这些参数加以验证。包含活动数据的块不会被覆盖，而是给修改过的数据分配一个新块，任何引用此块的[元数据块都被重新读取](../Page/元数据.md "wikilink")、重新分配和重写。为减少该过程的开销，多次读写更新会被归纳为一个事件组，在需要同步写入语义时会使用ZIL（）写入缓存，而这些块会与校验和一同编入中。
+ZFS采用[写入时复制事务对象模型](https://zh.wikipedia.org/wiki/写入时复制 "wikilink")。文件系统中的所有块指向都包含目标块的256位[校验和或](https://zh.wikipedia.org/wiki/校验和 "wikilink")[hash值](https://zh.wikipedia.org/wiki/密码散列函数 "wikilink")（目前有、 Fletcher-4与[SHA-2](../Page/SHA-2.md "wikilink")供选择）\[8\]。在读取块时会对这些参数加以验证。包含活动数据的块不会被覆盖，而是给修改过的数据分配一个新块，任何引用此块的[元数据](../Page/元数据.md "wikilink")块都被重新读取、重新分配和重写。为减少该过程的开销，多次读写更新会被归纳为一个事件组，在需要同步写入语义时会使用ZIL（）写入缓存，而这些块会与校验和一同编入中。
 
 利用写入时复制使ZFS的快照和事物功能的实现变得更简单和自然，快照功能更灵活，但严重碎片化问题是其缺点之一。对于通过顺序写生成的大文件，如果以后随机的对其中的一部分进行了更改，那么这个文件在硬盘上的物理地址就变得不再连续，未来的顺序读会变得性能比较差。
 
@@ -69,12 +56,9 @@ ZFS能动态条带化所有设备以最大化吞吐量。当额外的设备被�
 
 ZFS使用可变大小的块，最大可至128KB。现有的代码允许管理员调整最大块大小，这在大块效果不好的时候有用。未来也许能做到自动调整适合工作量的块大小。\[需要引用\]
 
-ZFS的可变大小的块与BtrFS和Ext4的extent不同。在ZFS中，在一个文件中所有数据块的逻辑长度必须是相同的，不同文件之间的块大小可以不同，因此ZFS可以用直接映射（direct
-map）的方式（同ufs/ffs/ext2/ext3）来来搜索间接块的数据指针数组（blkptr）。BtrFS和Ext4的extent方式在同一个文件中每个数据快的大小都可以不相同，因此需要用B+
-Tree或者类B Tree的方式来组织间接块的数据。
+ZFS的可变大小的块与BtrFS和Ext4的extent不同。在ZFS中，在一个文件中所有数据块的逻辑长度必须是相同的，不同文件之间的块大小可以不同，因此ZFS可以用直接映射（direct map）的方式（同ufs/ffs/ext2/ext3）来来搜索间接块的数据指针数组（blkptr）。BtrFS和Ext4的extent方式在同一个文件中每个数据快的大小都可以不相同，因此需要用B+ Tree或者类B Tree的方式来组织间接块的数据。
 
-虽然直接映射方式比B+
-Tree的查找速度快，但是这种方式的缺点也非常明显，如：元数据开销过大、顺序IO的大文件性能不好、删除比较慢等等，因此在现代文件系统中映射方式逐渐被extent变长块取代。
+虽然直接映射方式比B+ Tree的查找速度快，但是这种方式的缺点也非常明显，如：元数据开销过大、顺序IO的大文件性能不好、删除比较慢等等，因此在现代文件系统中映射方式逐渐被extent变长块取代。
 
 如果数据压缩（LZJB）被启用，可变块大小需要被用到。如果一个数据块可被压缩至一个更小的数据块，则小的数据块将使用更少的存储和提高吞吐量（代价是增加CPU压缩和解压缩的负担）。
 
@@ -96,14 +80,12 @@ NetApp指控Sun的ZFS文件系统侵犯了它WAFL的七项专利，Sun[反诉](h
 
   - [Sun Solaris](../Page/Solaris.md "wikilink")
   - [OpenSolaris](../Page/OpenSolaris.md "wikilink")
-  - [Illumos发行版](../Page/Illumos.md "wikilink")
+  - [Illumos](../Page/Illumos.md "wikilink")发行版
   - [OpenIndiana](../Page/OpenIndiana.md "wikilink")
   - [FreeBSD](../Page/FreeBSD.md "wikilink")
-  - [Mac OS X Server
-    10.5](https://zh.wikipedia.org/wiki/Mac_OS_X_Server#Mac_OS_X_Server_10.5_\(Leopard_Server\) "wikilink")
+  - [Mac OS X Server 10.5](https://zh.wikipedia.org/wiki/Mac_OS_X_Server#Mac_OS_X_Server_10.5_\(Leopard_Server\) "wikilink")
   - [NetBSD](../Page/NetBSD.md "wikilink")
   - [Linux](../Page/Linux.md "wikilink")（通过[用户空间文件系统或原生第三方内核](https://zh.wikipedia.org/wiki/用户空间文件系统 "wikilink")[可載入核心模組支持](https://zh.wikipedia.org/wiki/可載入核心模組 "wikilink")）\[10\]
-  - [Ubuntu从](../Page/Ubuntu.md "wikilink")16.04起开始
 
 ## 参见
 
@@ -115,44 +97,22 @@ NetApp指控Sun的ZFS文件系统侵犯了它WAFL的七项专利，Sun[反诉](h
 ## 外部連結
 
   - [ZFS主頁](https://web.archive.org/web/20070408132558/http://www.opensolaris.org/os/community/zfs/)
-  - [ZFS on Linux](http://www.zfsonlinux.org/) -
-    美國[勞倫斯利福摩爾國家實驗室的ZFS](https://zh.wikipedia.org/wiki/勞倫斯利福摩爾國家實驗室 "wikilink")
-    on Linux開源計劃
+  - [ZFS on Linux](http://www.zfsonlinux.org/) - 美國[勞倫斯利福摩爾國家實驗室的ZFS](https://zh.wikipedia.org/wiki/勞倫斯利福摩爾國家實驗室 "wikilink") on Linux開源計劃
 
-[Category:磁盘文件系统](https://zh.wikipedia.org/wiki/Category:磁盘文件系统 "wikilink")
-[Category:昇陽電腦軟體](https://zh.wikipedia.org/wiki/Category:昇陽電腦軟體 "wikilink")
-[Category:Linux檔案系統](https://zh.wikipedia.org/wiki/Category:Linux檔案系統 "wikilink")
-[Category:OpenSolaris](https://zh.wikipedia.org/wiki/Category:OpenSolaris "wikilink")
+[Category:磁盘文件系统](https://zh.wikipedia.org/wiki/Category:磁盘文件系统 "wikilink") [Category:昇陽電腦軟體](https://zh.wikipedia.org/wiki/Category:昇陽電腦軟體 "wikilink") [Category:Linux檔案系統](https://zh.wikipedia.org/wiki/Category:Linux檔案系統 "wikilink") [Category:OpenSolaris](https://zh.wikipedia.org/wiki/Category:OpenSolaris "wikilink")
 
 1.
 
-2.  {{ cite web | url =
-    <http://blogs.sun.com/roller/page/bonwick?entry=zfs_the_last_word_in>
-    | title = ZFS: The Last Word in Filesystems | author = Jeff Bonwick
-    | work = Jeff Bonwick's Blog | date = October 31, 2005 | accessdate
-    = 2006-04-30 | deadurl = yes | archiveurl =
-    <https://www.webcitation.org/6BNdGOIEe?url=https://blogs.oracle.com/roller-ui/errors/404.jsp>
-    | archivedate = 2012年10月13日 }}
+2.  {{ cite web | url = <http://blogs.sun.com/roller/page/bonwick?entry=zfs_the_last_word_in> | title = ZFS: The Last Word in Filesystems | author = Jeff Bonwick | work = Jeff Bonwick's Blog | date = October 31, 2005 | accessdate = 2006-04-30 | deadurl = yes | archiveurl = <https://www.webcitation.org/6BNdGOIEe?url=https://blogs.oracle.com/roller-ui/errors/404.jsp> | archivedate = 2012年10月13日 }}
 
-3.  {{ cite web | url =
-    <http://www.sun.com/smi/Press/sunflash/2006-06/sunflash.20060620.1.xml>
-    | title = Sun Celebrates Successful One-Year Anniversary of
-    OpenSolaris | publisher = Sun Microsystems | date = June 20, 2006 }}
+3.  {{ cite web | url = <http://www.sun.com/smi/Press/sunflash/2006-06/sunflash.20060620.1.xml> | title = Sun Celebrates Successful One-Year Anniversary of OpenSolaris | publisher = Sun Microsystems | date = June 20, 2006 }}
 
-4.  {{ cite web | title = You say zeta, I say zetta | author = Jeff
-    Bonwick | date = 2006-05-04 | work = Jeff Bonwick's Blog |
-    accessdate = 2006-09-08 | url =
-    <http://blogs.sun.com/bonwick/entry/you_say_zeta_i_say> | deadurl =
-    yes | archiveurl =
-    <https://www.webcitation.org/6BNdHzNju?url=https://blogs.oracle.com/roller-ui/errors/404.jsp>
-    | archivedate = 2012-10-13 }}
+4.  {{ cite web | title = You say zeta, I say zetta | author = Jeff Bonwick | date = 2006-05-04 | work = Jeff Bonwick's Blog | accessdate = 2006-09-08 | url = <http://blogs.sun.com/bonwick/entry/you_say_zeta_i_say> | deadurl = yes | archiveurl = <https://www.webcitation.org/6BNdHzNju?url=https://blogs.oracle.com/roller-ui/errors/404.jsp> | archivedate = 2012-10-13 }}
 
 5.
 
 6.
-7.  Seth Lloyd, "[Ultimate physical limits to
-    computation（计算的终极物理限制）](http://puhep1.princeton.edu/~mcdonald/examples/QM/lloyd_nature_406_1047_00.pdf)."
-    Nature 406, 1047-1054 (2000)\]
+7.  Seth Lloyd, "[Ultimate physical limits to computation（计算的终极物理限制）](http://puhep1.princeton.edu/~mcdonald/examples/QM/lloyd_nature_406_1047_00.pdf)." Nature 406, 1047-1054 (2000)\]
 
 8.   见2.4节。
 

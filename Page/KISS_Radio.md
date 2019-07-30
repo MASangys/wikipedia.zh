@@ -1,43 +1,31 @@
-**KISS Radio
-聯播網**是以[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[高雄市為基地的音樂性](../Page/高雄市.md "wikilink")[廣播聯播網](https://zh.wikipedia.org/wiki/廣播聯播網 "wikilink")，以**大眾廣播**為中心，定頻為99.9兆赫，台呼分為「就是KISS最音樂」、「擋不住的魅力」兩種。「KISS」為[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")「**K**aohsiung
-**I**nteractive **S**uper **S**tation」縮寫，早期KISS
-Radio於高雄市部分[7-ELEVEN便利商店門市內播放](../Page/統一超商.md "wikilink")（2011年起已停止播放）。
+**KISS Radio 聯播網**是以[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[高雄市](../Page/高雄市.md "wikilink")為基地的音樂性[廣播聯播網](https://zh.wikipedia.org/wiki/廣播聯播網 "wikilink")，以**大眾廣播**為中心，定頻為99.9兆赫，台呼分為「就是KISS最音樂」、「擋不住的魅力」兩種。「KISS」為[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")「**K**aohsiung **I**nteractive **S**uper **S**tation」縮寫，早期KISS Radio於高雄市部分[7-ELEVEN便利商店門市內播放](../Page/統一超商.md "wikilink")（2011年起已停止播放）。
 
 ## 介紹
 
-KISS Radio
-主要以音樂為重心，多次在[台灣各地協辦歌手簽唱會](https://zh.wikipedia.org/wiki/台灣 "wikilink")，上午七點至晚間七點每半小時會播出半點新聞或娛樂新聞，主持人也會在廣播中提供當地的活動及演唱會資訊，上下班時間主持人會提供路況及交通安全互動遊戲。
+KISS Radio 主要以音樂為重心，多次在[台灣各地協辦歌手簽唱會](https://zh.wikipedia.org/wiki/台灣 "wikilink")，上午七點至晚間七點每半小時會播出半點新聞或娛樂新聞，主持人也會在廣播中提供當地的活動及演唱會資訊，上下班時間主持人會提供路況及交通安全互動遊戲。
 
-目前KISS
-Radio的台呼由多位歌手演唱，也有一些台呼由現有歌曲改編，團體[八三夭的](../Page/八三夭.md "wikilink")「東區東區」一曲即改編為台呼，並由八三夭親自演唱。
+目前KISS Radio的台呼由多位歌手演唱，也有一些台呼由現有歌曲改編，團體[八三夭](../Page/八三夭.md "wikilink")的「東區東區」一曲即改編為台呼，並由八三夭親自演唱。
 
 ## 歷史
 
   - 1995年2月14日開播，是高雄市第一家合法的民營調頻電台。
-  - 1996年，大眾廣播公司曾一度想和台北「人人廣播電台」進行策略聯盟，讓人人廣播電台聯播KISS
-    Radio部份節目，最後兩家電台未合作\[1\]。（人人廣播電台已於2002年9月成為[好事聯播網台北台](../Page/好事聯播網.md "wikilink")）。
-  - 1997年起，大眾廣播公司陸續與台南知音、大苗栗廣播、南投廣播進行[策略聯盟聯播大眾廣播公司部份節目](../Page/策略聯盟.md "wikilink")，四家電台合稱「KISS
-    Radio 聯播網」。
-  - 2000年，KISS
-    Radio跨足[數位廣播](https://zh.wikipedia.org/wiki/數位廣播 "wikilink")（[DAB](https://zh.wikipedia.org/wiki/DAB "wikilink")），並致力發展[網路電台](https://zh.wikipedia.org/wiki/網路電台 "wikilink")。同年與台北淡水河廣播電台（FM89.7）簽約聯播。
+  - 1996年，大眾廣播公司曾一度想和台北「人人廣播電台」進行策略聯盟，讓人人廣播電台聯播KISS Radio部份節目，最後兩家電台未合作\[1\]。（人人廣播電台已於2002年9月成為[好事聯播網](../Page/好事聯播網.md "wikilink")台北台）。
+  - 1997年起，大眾廣播公司陸續與台南知音、大苗栗廣播、南投廣播進行[策略聯盟](../Page/策略聯盟.md "wikilink")聯播大眾廣播公司部份節目，四家電台合稱「KISS Radio 聯播網」。
+  - 2000年，KISS Radio跨足[數位廣播](https://zh.wikipedia.org/wiki/數位廣播 "wikilink")（[DAB](https://zh.wikipedia.org/wiki/DAB "wikilink")），並致力發展[網路電台](https://zh.wikipedia.org/wiki/網路電台 "wikilink")。同年與台北淡水河廣播電台（FM89.7）簽約聯播。
   - 2001年，KISS Radio與淡水河電台解約，淡水河電台轉型為閩南語電台。
-  - 2006年，KISS
-    Radio與[公共電視文化事業基金會合作](../Page/公共電視文化事業基金會.md "wikilink")，播出《公視晚間新聞》的[聲音部分](https://zh.wikipedia.org/wiki/聲音 "wikilink")。(之後和[中天電視合作](../Page/中天電視.md "wikilink")，由中天主播播報當天的新聞（合作至2016年12月底）)
+  - 2006年，KISS Radio與[公共電視文化事業基金會](../Page/公共電視文化事業基金會.md "wikilink")合作，播出《公視晚間新聞》的[聲音部分](https://zh.wikipedia.org/wiki/聲音 "wikilink")。(之後和[中天電視](../Page/中天電視.md "wikilink")合作，由中天主播播報當天的新聞（合作至2016年12月底）)
   - 2006年，「網路音樂台」正式開播，並持續榮登HiNet網路廣播金榜的榜首。
   - 2006年，與新加坡動力883（的前身）進行節目交流，聯合製播《KISS發燒榜－華語榜》節目於新加坡播出。
   - 2007年，「KISS美少女啦啦隊全國選拔賽」，入圍廣播金鐘獎「電台行銷創新獎」。
   - 2008年，KK和JOHNNIE以「KISS K歌榜」節目獲得廣播金鐘獎流行音樂主持人獎。
-  - 2008年，高雄[夢時代OPEN](https://zh.wikipedia.org/wiki/夢時代 "wikilink")
-    STUDIO正式啓用。
+  - 2008年，高雄[夢時代OPEN](https://zh.wikipedia.org/wiki/夢時代 "wikilink") STUDIO正式啓用。
   - 2008年，舉行「暑期青少年嘉年華-青春專案」活動，經行政院內政部評鑑獲選為全國唯一廣播績優團體。
   - 2010年12月1日起，結束與「大苗栗廣播公司」及「臺南知音廣播」節目聯播關係，大苗栗及臺南知音聯播城市廣播網。（合作時名為GoldFM聯播網）
   - 2017年11月20日，KISS Radio更改12:32、18:30的《焦點新聞》片頭音樂。
 
 ## 收聽頻率
 
-KISS
-Radio屬於中、小功率聯播，部分地區會因地形因素無法收聽，收聽範圍集中在發射中心附近。若距離稍遠會出現雜訊及干擾，有些地區雖位於收聽範圍內卻完全無法收聽。**大眾廣播為目前全台唯一使用99.9
-Mhz的電台**。
+KISS Radio屬於中、小功率聯播，部分地區會因地形因素無法收聽，收聽範圍集中在發射中心附近。若距離稍遠會出現雜訊及干擾，有些地區雖位於收聽範圍內卻完全無法收聽。**大眾廣播為目前全台唯一使用99.9 Mhz的電台**。
 
 | 地區     | 電台名稱     | 收聽頻率                  | 收聽地區               |
 | ------ | -------- | --------------------- | ------------------ |
@@ -47,8 +35,7 @@ Mhz的電台**。
   - **網路音樂台**：KISS Radio 網路音樂臺
   - 線上收聽：大眾廣播\[2\]（[LIVEhouse.in](../Page/LIVEhouse.in.md "wikilink")）、南投廣播\[3\]（Youtube）、南投廣播\[4\]（hiChannel）
       - 雲林縣及嘉義縣因為「神農廣播電台」99.5 Mhz的關係，只能收聽高雄總台
-      - 原**大苗栗廣播**與**台南之音**為KISS
-        Radio聯播網，後退出聯播改與[城市廣播網聯播](../Page/城市廣播網.md "wikilink")
+      - 原**大苗栗廣播**與**台南之音**為KISS Radio聯播網，後退出聯播改與[城市廣播網](../Page/城市廣播網.md "wikilink")聯播
 
 ## 新聞時段
 
@@ -125,8 +112,7 @@ Mhz的電台**。
 
 ## 聯播制
 
-KISS
-Radio與南投廣播是採取聯播制，因法律規定聯播分臺需抽比例製作自製節目，因此部份時段南投廣播聽眾是無法收聽到高雄總台節目，目前週一00:00～07:00、14:00～17:00；週二至週五02:00～07:00、14:00～17:00；週六02:00～13:00、23:00～00:00（原13:00\~16:00的「自播時段」已改聯播高雄總台的《音樂嘉年華》）；週日00:00～11:00、23:00～00:00南投廣播為自製節目\[5\]。（[農曆新年](../Page/新春.md "wikilink")（除夕到初五）期間，南投廣播改為24小時聯播高雄總台的節目）
+KISS Radio與南投廣播是採取聯播制，因法律規定聯播分臺需抽比例製作自製節目，因此部份時段南投廣播聽眾是無法收聽到高雄總台節目，目前週一00:00～07:00、14:00～17:00；週二至週五02:00～07:00、14:00～17:00；週六02:00～13:00、23:00～00:00（原13:00\~16:00的「自播時段」已改聯播高雄總台的《音樂嘉年華》）；週日00:00～11:00、23:00～00:00南投廣播為自製節目\[5\]。（[農曆新年](../Page/新春.md "wikilink")（除夕到初五）期間，南投廣播改為24小時聯播高雄總台的節目）
 
 ## 參考資料
 
@@ -146,8 +132,7 @@ Radio與南投廣播是採取聯播制，因法律規定聯播分臺需抽比例
 
   -
   -
-[Category:台灣廣播電台](https://zh.wikipedia.org/wiki/Category:台灣廣播電台 "wikilink")
-[Category:電台網](https://zh.wikipedia.org/wiki/Category:電台網 "wikilink")
+[Category:台灣廣播電台](https://zh.wikipedia.org/wiki/Category:台灣廣播電台 "wikilink") [Category:電台網](https://zh.wikipedia.org/wiki/Category:電台網 "wikilink")
 
 1.  1998年，**蔡念中**等合著，《大眾傳播概論》，ISBN 978-957-11-1673-0，第112頁
 2.  [大眾廣播](http://www.kiss.com.tw/radio_hq.php?radio_id=156)

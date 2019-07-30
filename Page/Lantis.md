@@ -1,41 +1,27 @@
-**Lantis股份有限公司**（Lantis，一部分的CD上記載為Lantis Records
-Co.,Ltd.）原是與[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")、[遊戲](https://zh.wikipedia.org/wiki/遊戲 "wikilink")、[聲優相關的](../Page/聲優.md "wikilink")[唱片公司](../Page/唱片公司.md "wikilink")，為[萬代影視的](../Page/萬代.md "wikilink")[子公司](../Page/子公司.md "wikilink")，實際上擔任[萬代南夢宮集團的音樂軟體事業](https://zh.wikipedia.org/wiki/萬代南夢宮控股 "wikilink")。現已與[萬代影視一起被](../Page/萬代影視.md "wikilink")[萬代南夢宮控股重組為新的子公司](https://zh.wikipedia.org/wiki/萬代南夢宮控股 "wikilink")，但仍保留Lantis的厂牌。
+**Lantis股份有限公司**（Lantis，一部分的CD上記載為Lantis Records Co.,Ltd.）原是與[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")、[遊戲](https://zh.wikipedia.org/wiki/遊戲 "wikilink")、[聲優](../Page/聲優.md "wikilink")相關的[唱片公司](../Page/唱片公司.md "wikilink")，為[萬代](../Page/萬代.md "wikilink")影視的[子公司](../Page/子公司.md "wikilink")，實際上擔任[萬代南夢宮集團的音樂軟體事業](https://zh.wikipedia.org/wiki/萬代南夢宮控股 "wikilink")。現已與[萬代影視](../Page/萬代影視.md "wikilink")一起被[萬代南夢宮控股重組為新的子公司](https://zh.wikipedia.org/wiki/萬代南夢宮控股 "wikilink")，但仍保留Lantis的厂牌。
 
-公司名稱為《[魔法陣都市](../Page/魔法陣都市.md "wikilink")》原作者[麻宮騎亞所命名](../Page/麻宮騎亞.md "wikilink")\[1\]。取自傳說大陸[亞特蘭提斯](https://zh.wikipedia.org/wiki/亞特蘭提斯 "wikilink")（Atlantis），寄予公司繁榮的期望\[2\]。
+公司名稱為《[魔法陣都市](../Page/魔法陣都市.md "wikilink")》原作者[麻宮騎亞](../Page/麻宮騎亞.md "wikilink")所命名\[1\]。取自傳說大陸[亞特蘭提斯](https://zh.wikipedia.org/wiki/亞特蘭提斯 "wikilink")（Atlantis），寄予公司繁榮的期望\[2\]。
 
 ## 公司概要
 
-[萬代裁員時所清算的](../Page/萬代.md "wikilink")（舊：阿波龍音樂工業）以及子公司（和各出資一半）的原社員、職員們所創立。從前身的各家公司事業裡，專門針對[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")、[遊戲音樂事業](https://zh.wikipedia.org/wiki/遊戲 "wikilink")。
+[萬代](../Page/萬代.md "wikilink")裁員時所清算的（舊：阿波龍音樂工業）以及子公司（和各出資一半）的原社員、職員們所創立。從前身的各家公司事業裡，專門針對[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")、[遊戲音樂事業](https://zh.wikipedia.org/wiki/遊戲 "wikilink")。
 
 社長是擔任鍵盤手與音樂製作的**井上俊次**，董事是原的音樂監製**伊藤善之**與詞曲家**伊藤真澄**夫婦。
 
-2002年時，將陷入經營不善的舊 Group
-Corporation（現）關係企業的[動畫歌曲専門唱片公司](../Page/動畫歌曲.md "wikilink")
-Art Bank 予以合併（大久保薫等人隨此加入專屬artist）。
+2002年時，將陷入經營不善的舊 Group Corporation（現）關係企業的[動畫歌曲](../Page/動畫歌曲.md "wikilink")専門唱片公司 Art Bank 予以合併（大久保薫等人隨此加入專屬artist）。
 
-另於2004年7月與[Geneon
-Entertainment共同設立新公司](https://zh.wikipedia.org/wiki/Geneon "wikilink")**On
-The
-Run**（『MellowHead』廠牌），（在2006年8月31日被母公司的Lantis吸收合併。『MellowHead』成為該公司旗下廠牌之一）。
+另於2004年7月與[Geneon Entertainment共同設立新公司](https://zh.wikipedia.org/wiki/Geneon "wikilink")**On The Run**（『MellowHead』廠牌），（在2006年8月31日被母公司的Lantis吸收合併。『MellowHead』成為該公司旗下廠牌之一）。
 
-2014年9月，與 [Amuse](../Page/Amuse.md "wikilink") 和 [BANDAI NAMCO Live
-Creative](../Page/萬代影視.md "wikilink")
-兩家公司就**動畫相關內容的海外發展**發表締結業務合作聲明\[3\]。海外拓展的內容包含：
+2014年9月，與 [Amuse](../Page/Amuse.md "wikilink") 和 [BANDAI NAMCO Live Creative](../Page/萬代影視.md "wikilink") 兩家公司就**動畫相關內容的海外發展**發表締結業務合作聲明\[3\]。海外拓展的內容包含：
 
   -
     **Lantis 旗下藝人**（Amuse 擁有演唱會主辦權）、
-    Lantis、BANDAI NAMCO Live Creative 所有版權的**動漫歌曲**（於
-    [ASMART](https://www.asmart.jp/) 上架）、
-    動漫相關活動（如 **[Lantis
-    Festival](../Page/Lantis_Festival.md "wikilink")** 和 [**Anisong
-    World
-    Matsuri**](http://www.anime-expo.org/anisong-world-matsuri-2017/)）。
+    Lantis、BANDAI NAMCO Live Creative 所有版權的**動漫歌曲**（於 [ASMART](https://www.asmart.jp/) 上架）、
+    動漫相關活動（如 **[Lantis Festival](../Page/Lantis_Festival.md "wikilink")** 和 [**Anisong World Matsuri**](http://www.anime-expo.org/anisong-world-matsuri-2017/)）。
 
-為拓展至[歐洲市場](https://zh.wikipedia.org/wiki/歐洲 "wikilink")，於2016年1月再與 Amuse
-合資設立 [AmuseLantis Europe
-S.A.S.](https://zh.wikipedia.org/wiki/AmuseLantis_Europe_S.A.S. "wikilink")\[4\]，並於同年4月正式啟用\[5\]。
+為拓展至[歐洲市場](https://zh.wikipedia.org/wiki/歐洲 "wikilink")，於2016年1月再與 Amuse 合資設立 [AmuseLantis Europe S.A.S.](https://zh.wikipedia.org/wiki/AmuseLantis_Europe_S.A.S. "wikilink")\[4\]，並於同年4月正式啟用\[5\]。
 
-2018年4月1日，與[萬代影視一起被](../Page/萬代影視.md "wikilink")[萬代吸收合併](../Page/萬代.md "wikilink")，改名為新成立的，Lantis公司從此正式走入歷史\[6\]。而「Lantis」這個商標名稱由經過組織調整後的音樂部門繼承\[7\]。
+2018年4月1日，與[萬代影視](../Page/萬代影視.md "wikilink")一起被[萬代](../Page/萬代.md "wikilink")吸收合併，改名為新成立的，Lantis公司從此正式走入歷史\[6\]。而「Lantis」這個商標名稱由經過組織調整後的音樂部門繼承\[7\]。
 
 ## Lantis關係的藝人
 
@@ -59,8 +45,7 @@ S.A.S.](https://zh.wikipedia.org/wiki/AmuseLantis_Europe_S.A.S. "wikilink")\[4\]
 
   - [OLDCODEX](../Page/OLDCODEX.md "wikilink")（[鈴木達央](../Page/鈴木達央.md "wikilink")）
 
-  - [SCREEN
-    mode](../Page/SCREEN_mode.md "wikilink")（[林勇](../Page/林勇.md "wikilink")）
+  - [SCREEN mode](../Page/SCREEN_mode.md "wikilink")（[林勇](../Page/林勇.md "wikilink")）
 
   - [影山浩宣](../Page/影山浩宣.md "wikilink")
 
@@ -248,8 +233,7 @@ S.A.S.](https://zh.wikipedia.org/wiki/AmuseLantis_Europe_S.A.S. "wikilink")\[4\]
   - [疾速戰警](https://zh.wikipedia.org/wiki/疾速戰警 "wikilink")
   - [真蓋特機器人對NEO蓋特機器人](../Page/真蓋特機器人對NEO蓋特機器人.md "wikilink")
   - [天使禁獵區](https://zh.wikipedia.org/wiki/天使禁獵區 "wikilink")
-  - [Fragile Hearts
-    Series〜こわれもの〜](https://zh.wikipedia.org/wiki/Fragile_Hearts_Series〜こわれもの〜 "wikilink")
+  - [Fragile Hearts Series〜こわれもの〜](https://zh.wikipedia.org/wiki/Fragile_Hearts_Series〜こわれもの〜 "wikilink")
 
 **2001年**
 
@@ -299,11 +283,10 @@ S.A.S.](https://zh.wikipedia.org/wiki/AmuseLantis_Europe_S.A.S. "wikilink")\[4\]
   - [戀風](https://zh.wikipedia.org/wiki/戀風 "wikilink")
   - [新蓋特機器人](../Page/新蓋特機器人.md "wikilink")
   - [DearS](https://zh.wikipedia.org/wiki/親愛一族 "wikilink")
-  - [超重神GRAVIONZwei](../Page/超重神GRAVION.md "wikilink")
+  - [超重神GRAVION](../Page/超重神GRAVION.md "wikilink")Zwei
   - [熊貓鐵金剛](https://zh.wikipedia.org/wiki/熊貓鐵金剛 "wikilink")
   - [光與水的女神](https://zh.wikipedia.org/wiki/光與水的女神 "wikilink")
-  - [Phantom -PHANTOM THE
-    ANIMATION-](../Page/Phantom_-PHANTOM_OF_INFERNO-.md "wikilink")
+  - [Phantom -PHANTOM THE ANIMATION-](../Page/Phantom_-PHANTOM_OF_INFERNO-.md "wikilink")
   - [雙戀](https://zh.wikipedia.org/wiki/雙戀 "wikilink")
   - [舞-HiME](../Page/舞-HiME.md "wikilink")
   - [美鳥日記](https://zh.wikipedia.org/wiki/美鳥日記 "wikilink")
@@ -314,24 +297,22 @@ S.A.S.](https://zh.wikipedia.org/wiki/AmuseLantis_Europe_S.A.S. "wikilink")\[4\]
   - [女孩萬歲 second season](../Page/女孩萬歲.md "wikilink")
   - [高機動幻想GPM～嶄新之行軍歌～](https://zh.wikipedia.org/wiki/高機動幻想GPM～嶄新之行軍歌～ "wikilink")
   - [SHUFFLE\!](../Page/SHUFFLE!.md "wikilink")
-  - [超級機器人大戰ORIGINAL GENERATION THE
-    ANIMATION](https://zh.wikipedia.org/wiki/超級機器人大戰ORIGINAL_GENERATION_THE_ANIMATION "wikilink")
+  - [超級機器人大戰ORIGINAL GENERATION THE ANIMATION](https://zh.wikipedia.org/wiki/超級機器人大戰ORIGINAL_GENERATION_THE_ANIMATION "wikilink")
   - [喜歡所以喜歡](https://zh.wikipedia.org/wiki/喜歡所以喜歡 "wikilink")
   - [セイント・ビースト～幾千の昼と夜〜](https://zh.wikipedia.org/wiki/セイント・ビースト～幾千の昼と夜〜 "wikilink")
   - [初音島](../Page/初音島.md "wikilink")
   - [到另一個你的身邊去](../Page/到另一個你的身邊去.md "wikilink")
   - [雙戀Alternative](https://zh.wikipedia.org/wiki/雙戀 "wikilink")
   - [舞-乙HiME](../Page/舞-乙HiME.md "wikilink")
-  - [青檸色之戰奇譚X CROSS 〜恋、教ヘテクダサイ。〜](../Page/青檸色之戰奇譚.md "wikilink")
+  - [青檸色之戰奇譚 CROSS 〜恋、教ヘテクダサイ。〜](../Page/青檸色之戰奇譚.md "wikilink")X
 
 **2006年**
 
   - [後天的方向](https://zh.wikipedia.org/wiki/後天的方向 "wikilink")
   - [傳頌之物](https://zh.wikipedia.org/wiki/傳頌之物 "wikilink")
-  - [銀河天使II](../Page/銀河天使.md "wikilink")
+  - [銀河天使](../Page/銀河天使.md "wikilink")II
   - [不平衡♥抽籤](../Page/不平衡抽籤.md "wikilink")
-  - [超級機器人大戰OG -Divine
-    Wars-](https://zh.wikipedia.org/wiki/超級機器人大戰OG_-Divine_Wars- "wikilink")
+  - [超級機器人大戰OG -Divine Wars-](https://zh.wikipedia.org/wiki/超級機器人大戰OG_-Divine_Wars- "wikilink")
   - [涼宮春日的憂鬱](../Page/涼宮春日的憂鬱.md "wikilink")
   - [草莓狂熱](https://zh.wikipedia.org/wiki/草莓狂熱 "wikilink")
   - [地上最強新娘](../Page/地上最強新娘.md "wikilink")
@@ -351,8 +332,7 @@ S.A.S.](https://zh.wikipedia.org/wiki/AmuseLantis_Europe_S.A.S. "wikilink")\[4\]
   - [現視研2](https://zh.wikipedia.org/wiki/現視研2 "wikilink")
   - [鋼鐵神將](https://zh.wikipedia.org/wiki/鋼鐵神將 "wikilink")
   - [萌少女的戀愛時光](https://zh.wikipedia.org/wiki/萌少女的戀愛時光 "wikilink")
-  - [SHUFFLE\!
-    MEMORIES](https://zh.wikipedia.org/wiki/SHUFFLE!_MEMORIES "wikilink")
+  - [SHUFFLE\! MEMORIES](https://zh.wikipedia.org/wiki/SHUFFLE!_MEMORIES "wikilink")
   - [School Days](../Page/School_Days.md "wikilink")
   - [黑騎士(蜘蛛戰神記)](../Page/黑騎士_\(動畫\).md "wikilink")
   - [セイント・ビースト～光陰敘事詩天使譚～](https://zh.wikipedia.org/wiki/セイント・ビースト～光陰敘事詩天使譚～ "wikilink")
@@ -369,8 +349,7 @@ S.A.S.](https://zh.wikipedia.org/wiki/AmuseLantis_Europe_S.A.S. "wikilink")\[4\]
   - [君が主で執事が俺で](https://zh.wikipedia.org/wiki/君が主で執事が俺で "wikilink")
   - [狂乱家族日記](https://zh.wikipedia.org/wiki/狂乱家族日記 "wikilink")
   - [紅 kurenai](../Page/紅_\(小說\).md "wikilink")
-  - [Keroro軍曹](https://zh.wikipedia.org/wiki/Keroro軍曹_\(電視動畫\) "wikilink")
-    ※第五季以後
+  - [Keroro軍曹](https://zh.wikipedia.org/wiki/Keroro軍曹_\(電視動畫\) "wikilink") ※第五季以後
   - [死後文](https://zh.wikipedia.org/wiki/死後文 "wikilink")
   - [絕對衝激 ～柏拉圖之心～](../Page/絕對衝激_～柏拉圖之心～.md "wikilink")
   - [true tears](../Page/真實之淚_true_tears_\(動畫\).md "wikilink")
@@ -394,7 +373,7 @@ S.A.S.](https://zh.wikipedia.org/wiki/AmuseLantis_Europe_S.A.S. "wikilink")\[4\]
   - [天才麻將少女](https://zh.wikipedia.org/wiki/天才麻將少女 "wikilink")
   - [神曲奏界](../Page/神曲奏界.md "wikilink")
   - [真魔神 衝擊！Z篇](../Page/真魔神_衝擊！Z篇.md "wikilink")
-  - [涼宮春日的憂鬱（2009年版）](../Page/涼宮春日的憂鬱.md "wikilink")
+  - [涼宮春日的憂鬱](../Page/涼宮春日的憂鬱.md "wikilink")（2009年版）
   - [穿越宇宙的少女](../Page/穿越宇宙的少女.md "wikilink")
   - [仰望天空的少女瞳中的世界](../Page/仰望天空的少女瞳中的世界.md "wikilink")
   - [浪漫追星社](../Page/浪漫追星社.md "wikilink")
@@ -406,8 +385,7 @@ S.A.S.](https://zh.wikipedia.org/wiki/AmuseLantis_Europe_S.A.S. "wikilink")\[4\]
   - [NEEDLESS](https://zh.wikipedia.org/wiki/NEEDLESS "wikilink")
   - [初恋限定。](../Page/初恋限定。.md "wikilink")
   - [Battle Spirits 少年激霸彈](../Page/Battle_Spirits_少年激霸彈.md "wikilink")
-  - [Phantom 〜Requiem for the
-    Phantom〜](https://zh.wikipedia.org/wiki/Phantom_〜Requiem_for_the_Phantom〜 "wikilink")
+  - [Phantom 〜Requiem for the Phantom〜](https://zh.wikipedia.org/wiki/Phantom_〜Requiem_for_the_Phantom〜 "wikilink")
   - [公主戀人](../Page/公主戀人.md "wikilink")
   - [簡單易懂的現代魔法](../Page/簡單易懂的現代魔法.md "wikilink")
 
@@ -421,8 +399,7 @@ S.A.S.](https://zh.wikipedia.org/wiki/AmuseLantis_Europe_S.A.S. "wikilink")\[4\]
   - [文學少女](../Page/文學少女.md "wikilink")
   - [祝福的鐘聲](https://zh.wikipedia.org/wiki/祝福的鐘聲 "wikilink")
   - [侵略！花枝娘](../Page/侵略！花枝娘.md "wikilink")
-  - [超級機械人大戰OG -The
-    Inspector-](../Page/超級機械人大戰OG_-The_Inspector-.md "wikilink")
+  - [超級機械人大戰OG -The Inspector-](../Page/超級機械人大戰OG_-The_Inspector-.md "wikilink")
   - [涼宮春日的消失](../Page/涼宮春日的消失.md "wikilink")
   - [聖痕鍊金士](../Page/聖痕鍊金士.md "wikilink")
   - [装甲騎兵ボトムズ Case;IRVINE](../Page/裝甲騎兵.md "wikilink")
@@ -455,8 +432,7 @@ S.A.S.](https://zh.wikipedia.org/wiki/AmuseLantis_Europe_S.A.S. "wikilink")\[4\]
   - [世界一初戀](../Page/世界一初戀.md "wikilink")
   - [戰場女武神3](../Page/戰場女武神3.md "wikilink")
   - [迷糊軟網社](../Page/迷糊軟網社.md "wikilink")
-  - [T.P.さくら 〜タイムパラディンさくら〜
-    時空樹防衛戦](https://zh.wikipedia.org/wiki/T.P.さくら_〜タイムパラディンさくら〜_時空樹防衛戦 "wikilink")
+  - [T.P.さくら 〜タイムパラディンさくら〜 時空樹防衛戦](https://zh.wikipedia.org/wiki/T.P.さくら_〜タイムパラディンさくら〜_時空樹防衛戦 "wikilink")
   - [美食獵人](https://zh.wikipedia.org/wiki/美食獵人 "wikilink")
   - [永久之久遠](https://zh.wikipedia.org/wiki/永久之久遠 "wikilink")
   - [吸血猫](../Page/吸血猫.md "wikilink")
@@ -465,8 +441,7 @@ S.A.S.](https://zh.wikipedia.org/wiki/AmuseLantis_Europe_S.A.S. "wikilink")\[4\]
   - [笨蛋，測驗，召喚獸](../Page/笨蛋，測驗，召喚獸.md "wikilink")
   - [爆漫王。 第二季](https://zh.wikipedia.org/wiki/爆漫王。 "wikilink")
   - [花開物語](../Page/花開物語.md "wikilink")
-  - [維他命X
-    Addiction](https://zh.wikipedia.org/wiki/維他命X_Addiction "wikilink")
+  - [維他命X Addiction](https://zh.wikipedia.org/wiki/維他命X_Addiction "wikilink")
   - [+tic模型姊姊](../Page/+tic模型姊姊.md "wikilink")
   - [Baby Princess 3D 嘉年华0](../Page/寶貝公主.md "wikilink")
   - [小舞的魔法與家庭之日](https://zh.wikipedia.org/wiki/小舞的魔法與家庭之日 "wikilink")
@@ -484,7 +459,7 @@ S.A.S.](https://zh.wikipedia.org/wiki/AmuseLantis_Europe_S.A.S. "wikilink")\[4\]
   - [Aikatsu！偶像活動！](../Page/Aikatsu！偶像活動！.md "wikilink")
   - [翡翠森林狼與羊](../Page/翡翠森林狼与羊.md "wikilink")
   - [就算是哥哥，有愛就沒問題了，對吧](../Page/就算是哥哥，有愛就沒問題了，對吧.md "wikilink")
-  - [卡片戰鬥先導者亞洲環行篇](../Page/卡片戰鬥先導者.md "wikilink")
+  - [卡片戰鬥先導者](../Page/卡片戰鬥先導者.md "wikilink")亞洲環行篇
   - [少女與戰車](https://zh.wikipedia.org/wiki/少女與戰車 "wikilink")
   - [Campione 弒神者！](../Page/Campione_弒神者！.md "wikilink")
   - [黑子的籃球](../Page/黑子的籃球.md "wikilink")
@@ -500,8 +475,7 @@ S.A.S.](https://zh.wikipedia.org/wiki/AmuseLantis_Europe_S.A.S. "wikilink")\[4\]
   - [美少女死神 還我H之魂！](../Page/美少女死神_還我H之魂！.md "wikilink")
   - [TARI TARI](../Page/TARI_TARI.md "wikilink")
   - [侦探歌剧少女福尔摩斯\~第二幕](https://zh.wikipedia.org/wiki/侦探歌剧少女福尔摩斯 "wikilink")
-  - [偵探歌劇少女福爾摩斯Alternative
-    ONE](https://zh.wikipedia.org/wiki/偵探歌劇_少女福爾摩斯 "wikilink")
+  - [偵探歌劇少女福爾摩斯Alternative ONE](https://zh.wikipedia.org/wiki/偵探歌劇_少女福爾摩斯 "wikilink")
   - [中二病也想談戀愛！](../Page/中二病也想談戀愛！.md "wikilink")
   - [夏色奇蹟](../Page/夏色奇蹟.md "wikilink")
   - [惡魔高校D×D](https://zh.wikipedia.org/wiki/惡魔高校D×D "wikilink")
@@ -509,7 +483,7 @@ S.A.S.](https://zh.wikipedia.org/wiki/AmuseLantis_Europe_S.A.S. "wikilink")\[4\]
   - [無賴勇者的鬼畜美學](../Page/無賴勇者的鬼畜美學.md "wikilink")
   - [華麗一族](../Page/華麗一族.md "wikilink")
   - [緋色的碎片](../Page/緋色的碎片.md "wikilink")
-  - [向陽素描第四季](../Page/向陽素描.md "wikilink")
+  - [向陽素描](../Page/向陽素描.md "wikilink")第四季
   - [冰果](https://zh.wikipedia.org/wiki/冰果 "wikilink")
   - [最強學生會長](../Page/最強學生會長.md "wikilink")
 
@@ -522,7 +496,7 @@ S.A.S.](https://zh.wikipedia.org/wiki/AmuseLantis_Europe_S.A.S. "wikilink")\[4\]
   - [黑色嘉年華](../Page/黑色嘉年華.md "wikilink")
   - [境界的彼方](../Page/境界的彼方.md "wikilink")
   - [銀狐](../Page/銀狐.md "wikilink")
-  - [黑子的籃球第2期](../Page/黑子的籃球.md "wikilink")
+  - [黑子的籃球](../Page/黑子的籃球.md "wikilink")第2期
   - [鎖鎖美小姐@不好好努力](../Page/鎖鎖美小姐@不好好努力.md "wikilink")
   - [翠星的格爾岡帝亞](https://zh.wikipedia.org/wiki/翠星的格爾岡帝亞 "wikilink")
   - [閃亂神樂](https://zh.wikipedia.org/wiki/闪乱神乐 "wikilink")
@@ -531,17 +505,15 @@ S.A.S.](https://zh.wikipedia.org/wiki/AmuseLantis_Europe_S.A.S. "wikilink")\[4\]
   - [惡魔高校D×D NEW](https://zh.wikipedia.org/wiki/惡魔高校D×D "wikilink")
   - [八犬傳－東方八犬異聞－](../Page/八犬傳－東方八犬異聞－.md "wikilink")
   - [打工吧！魔王大人](https://zh.wikipedia.org/wiki/打工吧！魔王大人 "wikilink")
-  - [花開物語劇場版HOME SWEET HOME](../Page/花開物語.md "wikilink")
+  - [花開物語 SWEET HOME](../Page/花開物語.md "wikilink")劇場版HOME
   - [百花繚亂 SAMURAI GIRLS](../Page/百花繚亂_SAMURAI_GIRLS.md "wikilink")
-  - [Fate/kaleid liner
-    魔法少女伊莉雅](https://zh.wikipedia.org/wiki/Fate/kaleid_liner_魔法少女☆伊莉雅 "wikilink")
+  - [Fate/kaleid liner 魔法少女伊莉雅](https://zh.wikipedia.org/wiki/Fate/kaleid_liner_魔法少女☆伊莉雅 "wikilink")
   - [Free\!](../Page/Free!.md "wikilink")
   - [蒼翼默示錄Alter Memory](../Page/蒼翼默示錄系列.md "wikilink")
   - [當不成勇者的我，只好認真找工作了。](../Page/當不成勇者的我，只好認真找工作了。.md "wikilink")
   - [LoveLive](https://zh.wikipedia.org/wiki/LoveLive!_\(動畫\) "wikilink")
   - [新蔷薇少女](https://zh.wikipedia.org/wiki/蔷薇少女 "wikilink")
-  - [Walkure Romanze
-    少女騎士物語](../Page/Walkure_Romanze_少女騎士物語.md "wikilink")
+  - [Walkure Romanze 少女騎士物語](../Page/Walkure_Romanze_少女騎士物語.md "wikilink")
 
 **2014年**
 
@@ -551,13 +523,11 @@ S.A.S.](https://zh.wikipedia.org/wiki/AmuseLantis_Europe_S.A.S. "wikilink")\[4\]
   - [我們大家的河合莊](../Page/我們大家的河合莊.md "wikilink")
   - [愚者信長](../Page/愚者信長.md "wikilink")
   - [Free\!](../Page/Free!.md "wikilink")
-  - [LoveLive
-    第二期](https://zh.wikipedia.org/wiki/LoveLive!_\(動畫\) "wikilink")
+  - [LoveLive 第二期](https://zh.wikipedia.org/wiki/LoveLive!_\(動畫\) "wikilink")
   - [中二病也想談戀愛！](../Page/中二病也想談戀愛！.md "wikilink")
   - [健全機鬥士](../Page/健全機鬥士.md "wikilink")
   - [漫畫家與助手](../Page/漫畫家與助手.md "wikilink")
-  - [RAIL WARS\!
-    -日本國有鐵道公安隊-](../Page/RAIL_WARS!_-日本國有鐵道公安隊-.md "wikilink")
+  - [RAIL WARS\! -日本國有鐵道公安隊-](../Page/RAIL_WARS!_-日本國有鐵道公安隊-.md "wikilink")
   - [GLASSLIP](../Page/GLASSLIP.md "wikilink")
   - [LOVE STAGE\!\!](../Page/LOVE_STAGE!!.md "wikilink")
   - [東京ESP](../Page/東京ESP.md "wikilink")
@@ -572,8 +542,7 @@ S.A.S.](https://zh.wikipedia.org/wiki/AmuseLantis_Europe_S.A.S. "wikilink")\[4\]
   - [小長門有希的消失](../Page/小長門有希的消失.md "wikilink")
   - [電波教師](../Page/電波教師.md "wikilink")
   - [純情羅曼史](../Page/純情羅曼史.md "wikilink")
-  - [Fate/kaleid liner
-    魔法少女☆伊莉雅](https://zh.wikipedia.org/wiki/Fate/kaleid_liner_魔法少女☆伊莉雅 "wikilink")
+  - [Fate/kaleid liner 魔法少女☆伊莉雅](https://zh.wikipedia.org/wiki/Fate/kaleid_liner_魔法少女☆伊莉雅 "wikilink")
   - [櫻子小姐的腳下埋著屍體](../Page/櫻子小姐的腳下埋著屍體.md "wikilink")
   - [牙狼〈GARO〉](../Page/牙狼〈GARO〉.md "wikilink")
   - [見習神仙 秘密的心靈](https://zh.wikipedia.org/wiki/見習神仙_秘密的心靈 "wikilink")
@@ -589,8 +558,7 @@ S.A.S.](https://zh.wikipedia.org/wiki/AmuseLantis_Europe_S.A.S. "wikilink")\[4\]
   - [爆音少女！！](../Page/爆音少女！！.md "wikilink")
   - [至高指令](../Page/至高指令.md "wikilink")
   - [文豪Stray Dogs](../Page/文豪Stray_Dogs.md "wikilink")
-  - [Battle Spirits Double
-    Drive](../Page/Battle_Spirits_Double_Drive.md "wikilink")
+  - [Battle Spirits Double Drive](../Page/Battle_Spirits_Double_Drive.md "wikilink")
   - [偶像學園STARS！](https://zh.wikipedia.org/wiki/偶像學園STARS！ "wikilink")
   - [吸血鬼僕人](../Page/吸血鬼僕人.md "wikilink")
   - [食戟之靈](https://zh.wikipedia.org/wiki/食戟之靈 "wikilink")
@@ -599,8 +567,7 @@ S.A.S.](https://zh.wikipedia.org/wiki/AmuseLantis_Europe_S.A.S. "wikilink")\[4\]
   - [吹響吧！上低音號](../Page/吹響吧！上低音號.md "wikilink")
   - [競女\!\!\!\!\!\!\!\!](../Page/競女!!!!!!!!.md "wikilink")
   - [輕拍翻轉小魔女](../Page/輕拍翻轉小魔女.md "wikilink")
-  - [LoveLive\!
-    Sunshine\!\!](https://zh.wikipedia.org/wiki/LoveLive!_Sunshine!! "wikilink")
+  - [LoveLive\! Sunshine\!\!](https://zh.wikipedia.org/wiki/LoveLive!_Sunshine!! "wikilink")
   - [百無禁忌！女高中生私房話](../Page/百無禁忌！女高中生私房話.md "wikilink")
 
 **2017年**
@@ -616,11 +583,9 @@ S.A.S.](https://zh.wikipedia.org/wiki/AmuseLantis_Europe_S.A.S. "wikilink")\[4\]
   - [末日時在做什麼？有沒有空？可以來拯救嗎？](../Page/末日時在做什麼？有沒有空？可以來拯救嗎？.md "wikilink")
   - [時間支配者](../Page/時間支配者.md "wikilink")
   - [天使的3P！](../Page/天使的3P！.md "wikilink")
-  - [劇場版 Fate/kaleid liner 魔法少女☆伊莉雅
-    雪下的誓言](https://zh.wikipedia.org/wiki/Fate/kaleid_liner_魔法少女☆伊莉雅 "wikilink")
+  - [劇場版 Fate/kaleid liner 魔法少女☆伊莉雅 雪下的誓言](https://zh.wikipedia.org/wiki/Fate/kaleid_liner_魔法少女☆伊莉雅 "wikilink")
   - [如果有妹妹就好了。](../Page/如果有妹妹就好了。.md "wikilink")
-  - [LoveLive\!
-    Sunshine\!\!](https://zh.wikipedia.org/wiki/LoveLive!_Sunshine!!二期 "wikilink")
+  - [LoveLive\! Sunshine\!\!](https://zh.wikipedia.org/wiki/LoveLive!_Sunshine!!二期 "wikilink")
 
 ## 參考資料
 
@@ -636,24 +601,12 @@ S.A.S.](https://zh.wikipedia.org/wiki/AmuseLantis_Europe_S.A.S. "wikilink")\[4\]
 
   - [Kiramune官方網站](http://kiramune.jp/)
 
-[Category:Lantis](https://zh.wikipedia.org/wiki/Category:Lantis "wikilink")
-[Category:動畫產業公司](https://zh.wikipedia.org/wiki/Category:動畫產業公司 "wikilink")
-[Category:日本唱片公司](https://zh.wikipedia.org/wiki/Category:日本唱片公司 "wikilink")
-[Category:澀谷區公司](https://zh.wikipedia.org/wiki/Category:澀谷區公司 "wikilink")
-[Category:1999年成立的公司](https://zh.wikipedia.org/wiki/Category:1999年成立的公司 "wikilink")
-[Category:日本媒體公司](https://zh.wikipedia.org/wiki/Category:日本媒體公司 "wikilink")
+[Category:Lantis](https://zh.wikipedia.org/wiki/Category:Lantis "wikilink") [Category:動畫產業公司](https://zh.wikipedia.org/wiki/Category:動畫產業公司 "wikilink") [Category:日本唱片公司](https://zh.wikipedia.org/wiki/Category:日本唱片公司 "wikilink") [Category:澀谷區公司](https://zh.wikipedia.org/wiki/Category:澀谷區公司 "wikilink") [Category:1999年成立的公司](https://zh.wikipedia.org/wiki/Category:1999年成立的公司 "wikilink") [Category:日本媒體公司](https://zh.wikipedia.org/wiki/Category:日本媒體公司 "wikilink")
 
 1.
 2.
-3.  [AMUSE，\#Lantis\#，\#BANDAI NAMCO Live
-    Creative\#三家公司就動畫相關內容的海外發展發表締結業務合作聲明。](http://mindcity.sina.com.tw/weibo/user/amusecn/3759025587551213)
-    ・2014年9月26日。
-4.  [アミューズとランティスがフランスに合弁会社設立
-    アニメ関連を中心とした日本コンテンツの発信拠点に](http://www.lantis.jp/news.php?id=1453876200)・2014年1月27日。
-5.  [アミューズとランティスの合弁会社 AmuseLantis Europe
-    S.A.S.設立！フランス・パリにて記者会見が行われました！](http://www.lantis.jp/news.php?id=1459858850)・2014年4月5日。
-6.  [バンナムHD、子会社再編を実施　ナムコがバンダイナムコアミューズメントに社名変更 バンダイビジュアルとランティス合併 BANDAI
-    SPIRITSを設立](http://gamebiz.jp/?p=203770)，Social Game Info,
-    2018年2月9日閱覽 .
-7.  [ランティス、バンダイビジュアル統合に関するお知らせ](http://www.lantis.jp/news.php?id=1518500226),
-    Lantis, 2018年2月13日閱覽 .
+3.  [AMUSE，\#Lantis\#，\#BANDAI NAMCO Live Creative\#三家公司就動畫相關內容的海外發展發表締結業務合作聲明。](http://mindcity.sina.com.tw/weibo/user/amusecn/3759025587551213) ・2014年9月26日。
+4.  [アミューズとランティスがフランスに合弁会社設立 アニメ関連を中心とした日本コンテンツの発信拠点に](http://www.lantis.jp/news.php?id=1453876200)・2014年1月27日。
+5.  [アミューズとランティスの合弁会社 AmuseLantis Europe S.A.S.設立！フランス・パリにて記者会見が行われました！](http://www.lantis.jp/news.php?id=1459858850)・2014年4月5日。
+6.  [バンナムHD、子会社再編を実施　ナムコがバンダイナムコアミューズメントに社名変更 バンダイビジュアルとランティス合併 BANDAI SPIRITSを設立](http://gamebiz.jp/?p=203770)，Social Game Info, 2018年2月9日閱覽 .
+7.  [ランティス、バンダイビジュアル統合に関するお知らせ](http://www.lantis.jp/news.php?id=1518500226), Lantis, 2018年2月13日閱覽 .

@@ -2,17 +2,13 @@
 
 ## 簡介
 
-MIT授權條款之名源自麻省理工學院（Massachusetts Institute of Technology,
-MIT），又稱「X授權條款」（X License）或「X11授權條款」（X11 License）
+MIT授權條款之名源自麻省理工學院（Massachusetts Institute of Technology, MIT），又稱「X授權條款」（X License）或「X11授權條款」（X11 License）
 
-MIT內容與三條款[BSD授權條款](https://zh.wikipedia.org/wiki/BSD授權條款 "wikilink")（3-clause
-BSD license）內容頗為近似，但是賦予軟體被授權人更大的權利與更少的限制。
+MIT內容與三條款[BSD授權條款](https://zh.wikipedia.org/wiki/BSD授權條款 "wikilink")（3-clause BSD license）內容頗為近似，但是賦予軟體被授權人更大的權利與更少的限制。
 
 ## 運用情形
 
-有許多團體均採用MIT許可證。例如著名的[SSH連線軟體](../Page/Secure_Shell.md "wikilink")[PuTTY與](../Page/PuTTY.md "wikilink")[X視窗系統即為例子](https://zh.wikipedia.org/wiki/X視窗系統 "wikilink")。、[Mono開發平台函式庫](../Page/Mono.md "wikilink")、[Ruby
-on
-Rails](../Page/Ruby_on_Rails.md "wikilink")、[Lua等等也都採用MIT授權條款](../Page/Lua.md "wikilink")。
+有許多團體均採用MIT許可證。例如著名的[SSH連線軟體](../Page/Secure_Shell.md "wikilink")[PuTTY](../Page/PuTTY.md "wikilink")與[X視窗系統即為例子](https://zh.wikipedia.org/wiki/X視窗系統 "wikilink")。、[Mono](../Page/Mono.md "wikilink")開發平台函式庫、[Ruby on Rails](../Page/Ruby_on_Rails.md "wikilink")、[Lua](../Page/Lua.md "wikilink")等等也都採用MIT授權條款。
 
 ## 條款內容
 
@@ -30,11 +26,9 @@ Rails](../Page/Ruby_on_Rails.md "wikilink")、[Lua等等也都採用MIT授權條
 
 ### 其他重要特性
 
-此授權條款並非屬[copyleft的自由軟體授權條款](https://zh.wikipedia.org/wiki/copyleft "wikilink")，允許在[自由及開放原始碼軟體或非自由軟體](https://zh.wikipedia.org/wiki/自由及開放原始碼軟體 "wikilink")（proprietary
-software）所使用。
+此授權條款並非屬[copyleft的自由軟體授權條款](https://zh.wikipedia.org/wiki/copyleft "wikilink")，允許在[自由及開放原始碼軟體或非自由軟體](https://zh.wikipedia.org/wiki/自由及開放原始碼軟體 "wikilink")（proprietary software）所使用。
 
-MIT的內容可依照程式著作權者的需求更改內容。此亦為MIT與[BSD](https://zh.wikipedia.org/wiki/BSD_license "wikilink")（The
-BSD license, 3-clause BSD license）本質上不同處。
+MIT的內容可依照程式著作權者的需求更改內容。此亦為MIT與[BSD](https://zh.wikipedia.org/wiki/BSD_license "wikilink")（The BSD license, 3-clause BSD license）本質上不同處。
 
 MIT授權條款可與其他授權條款並存。另外，MIT條款也是自由軟體基金會（FSF）所認可的自由軟體授權條款，與[GPL相容](https://zh.wikipedia.org/wiki/GPL "wikilink")。
 
@@ -46,7 +40,6 @@ MIT授權條款可與其他授權條款並存。另外，MIT條款也是自由�
 
 {{-}}
 
-[Category:自由軟體授權](https://zh.wikipedia.org/wiki/Category:自由軟體授權 "wikilink")
-[Category:X_Window系统](https://zh.wikipedia.org/wiki/Category:X_Window系统 "wikilink")
+[Category:自由軟體授權](https://zh.wikipedia.org/wiki/Category:自由軟體授權 "wikilink") [Category:X_Window系统](https://zh.wikipedia.org/wiki/Category:X_Window系统 "wikilink")
 
 1.

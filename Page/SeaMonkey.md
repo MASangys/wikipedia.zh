@@ -1,46 +1,26 @@
-**SeaMonkey**是一個[自由的](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")[開放原始碼以及](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")[跨平台的網路套裝軟體](https://zh.wikipedia.org/wiki/跨平台 "wikilink")，包含一个[所见即所得的可视化](https://zh.wikipedia.org/wiki/所见即所得 "wikilink")[网页编辑器](https://zh.wikipedia.org/wiki/网页编辑器 "wikilink")。此軟體是以[Mozilla
-Suite為基礎建構之軟體](https://zh.wikipedia.org/wiki/Mozilla_Suite "wikilink")，是[Mozilla基金會旗下軟體Mozilla](../Page/Mozilla基金會.md "wikilink")
-Suite 1.7版本的延伸，目前由旗下的SeaMonkey專案領導團體開發\[1\]。
+**SeaMonkey**是一個[自由的](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")[開放原始碼以及](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")[跨平台的網路套裝軟體](https://zh.wikipedia.org/wiki/跨平台 "wikilink")，包含一个[所见即所得的可视化](https://zh.wikipedia.org/wiki/所见即所得 "wikilink")[网页编辑器](https://zh.wikipedia.org/wiki/网页编辑器 "wikilink")。此軟體是以[Mozilla Suite為基礎建構之軟體](https://zh.wikipedia.org/wiki/Mozilla_Suite "wikilink")，是[Mozilla基金會](../Page/Mozilla基金會.md "wikilink")旗下軟體Mozilla Suite 1.7版本的延伸，目前由旗下的SeaMonkey專案領導團體開發\[1\]。
 
 SeaMonkey在英文中指的是“[豐年蝦](https://zh.wikipedia.org/wiki/豐年蝦 "wikilink")”，所以圖示由海水和豐年蝦組成。不熟悉原文而望文生義者多誤解為“海猴子”\[2\]
 
 ## 軟體背景
 
-在2005年3月10日，自從Mozilla基金會將軟體開發部份專注於[Mozilla
-Firefox以及](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")[Mozilla
-Thunderbird之後](../Page/Mozilla_Thunderbird.md "wikilink")，就宣佈Mozilla
-Suite這個套件從1.7版本後，不會再出現更新的版本。
+在2005年3月10日，自從Mozilla基金會將軟體開發部份專注於[Mozilla Firefox以及](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")[Mozilla Thunderbird之後](../Page/Mozilla_Thunderbird.md "wikilink")，就宣佈Mozilla Suite這個套件從1.7版本後，不會再出現更新的版本。
 
-儘管如此，Mozilla基金會強調仍將持續提供類似於Mozilla
-Suite的網路套件給Mozilla的社群成員，也因此，SeaMonkey專案領導團體（SeaMonkey
-Council）應運而生，就承接了Mozilla
-Suite開發人員的班底，進而取代Mozilla基金會，而在2006年1月30日，SeaMonkey發布1.0正式版。
+儘管如此，Mozilla基金會強調仍將持續提供類似於Mozilla Suite的網路套件給Mozilla的社群成員，也因此，SeaMonkey專案領導團體（SeaMonkey Council）應運而生，就承接了Mozilla Suite開發人員的班底，進而取代Mozilla基金會，而在2006年1月30日，SeaMonkey發布1.0正式版。
 
 ### 命名過程
 
-為了避免某些人因仍需使用Mozilla
-Suite而和新問世的軟體名稱混淆，因此在經過Mozilla社群成員的決議之後，於2005年7月2日宣布，將以SeaMonkey此名正式取代並繼承Mozilla
-Suite這個[網路套件](https://zh.wikipedia.org/wiki/網路套件 "wikilink")。
+為了避免某些人因仍需使用Mozilla Suite而和新問世的軟體名稱混淆，因此在經過Mozilla社群成員的決議之後，於2005年7月2日宣布，將以SeaMonkey此名正式取代並繼承Mozilla Suite這個[網路套件](https://zh.wikipedia.org/wiki/網路套件 "wikilink")。
 
-「Seamonkey」是Mozilla基金會在開發Mozilla
-Suite時所使用的專案[代碼](https://zh.wikipedia.org/wiki/代碼 "wikilink")，而SeaMonkey專案領導團體（SeaMonkey
-Council）當時正透過Mozilla基金會進行[商標的註冊許可](https://zh.wikipedia.org/wiki/商標 "wikilink")\[3\]。與此同時，該組織在SeaMonkey
-1.0問世時，也將使用分立的版本計算系統。儘管SeaMonkey是使用不同的軟體名稱與版本序號，SeaMonkey
-1.0的程式碼編譯基礎還是和Mozilla 1.8完全相同。
+「Seamonkey」是Mozilla基金會在開發Mozilla Suite時所使用的專案[代碼](https://zh.wikipedia.org/wiki/代碼 "wikilink")，而SeaMonkey專案領導團體（SeaMonkey Council）當時正透過Mozilla基金會進行[商標的註冊許可](https://zh.wikipedia.org/wiki/商標 "wikilink")\[3\]。與此同時，該組織在SeaMonkey 1.0問世時，也將使用分立的版本計算系統。儘管SeaMonkey是使用不同的軟體名稱與版本序號，SeaMonkey 1.0的程式碼編譯基礎還是和Mozilla 1.8完全相同。
 
-在「SeaMonkey」正式成為官方名稱之前，這個軟體專案曾一度受到長時間使用Mozilla
-Suite的使用者與程式測試員的批評，主要是因為大多數的使用者與程式測試員仍舊希望使用「Mozilla」或「Mozilla
-Suite」作為軟體的正式名稱。儘管如此，Mozilla基金會仍舊開始必要的更名計畫，藉以與該組織旗下的另一個軟體Mozilla
-Suite進行區別。
+在「SeaMonkey」正式成為官方名稱之前，這個軟體專案曾一度受到長時間使用Mozilla Suite的使用者與程式測試員的批評，主要是因為大多數的使用者與程式測試員仍舊希望使用「Mozilla」或「Mozilla Suite」作為軟體的正式名稱。儘管如此，Mozilla基金會仍舊開始必要的更名計畫，藉以與該組織旗下的另一個軟體Mozilla Suite進行區別。
 
 ### SeaMonkey專案領導團體
 
-SeaMonkey專案領導團體（SeaMonkey
-Council），主要負責SeaMonkey的開發、測試，以及該軟體專案的管理，目前是隸屬於Mozilla基金會的一個組織，從Mozilla
-Suite的開發團隊中獨立出來，現在的成員如下\[4\]：
+SeaMonkey專案領導團體（SeaMonkey Council），主要負責SeaMonkey的開發、測試，以及該軟體專案的管理，目前是隸屬於Mozilla基金會的一個組織，從Mozilla Suite的開發團隊中獨立出來，現在的成員如下\[4\]：
 
-  - Christian
-    Biesinger：[Gecko編碼的主要負責人](../Page/Gecko.md "wikilink")，也負責使用者介面的修正與更新。
+  - Christian Biesinger：[Gecko](../Page/Gecko.md "wikilink")編碼的主要負責人，也負責使用者介面的修正與更新。
   - Robert Kaiser
   - Ian Neal：XUL、JS的開發者。
   - Neil Rashbrook
@@ -381,7 +361,7 @@ Suite的開發團隊中獨立出來，現在的成員如下\[4\]：
 <tr class="even">
 <td><p>2.3.3</p></td>
 <td><p>2011年9月6日</p></td>
-<td><p>移除了<a href="../Page/荷兰.md" title="wikilink">荷兰的证书例外</a>，修正了.gov.uk域名的一个错误。</p></td>
+<td><p>移除了<a href="../Page/荷兰.md" title="wikilink">荷兰</a>的证书例外，修正了.gov.uk域名的一个错误。</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -466,15 +446,15 @@ Suite的開發團隊中獨立出來，現在的成員如下\[4\]：
 <td><p>14.0</p></td>
 <td><p>2.11</p></td>
 <td><p>2012年7月17日</p></td>
-<td><p><a href="../Page/插件.md" title="wikilink">插件点击运行</a>。</p></td>
+<td><p><a href="../Page/插件.md" title="wikilink">插件</a>点击运行。</p></td>
 </tr>
 <tr class="odd">
 <td><p>15.0</p></td>
 <td><p>2.12</p></td>
 <td><p>2012年8月28日</p></td>
 <td><ul>
-<li>支持<a href="../Page/SPDY.md" title="wikilink">SPDYv</a>3。</li>
-<li><a href="../Page/WebGL.md" title="wikilink">WebGL增强</a>。</li>
+<li>支持<a href="../Page/SPDY.md" title="wikilink">SPDY</a>v3。</li>
+<li><a href="../Page/WebGL.md" title="wikilink">WebGL</a>增强。</li>
 <li>优化扩展的内存占用。</li>
 <li>支持word-break。</li>
 </ul></td>
@@ -491,7 +471,7 @@ Suite的開發團隊中獨立出來，現在的成員如下\[4\]：
 <td><p>2012年10月9日</p></td>
 <td><ul>
 <li>新增增量<a href="../Page/垃圾回收_(計算機科學).md" title="wikilink">垃圾回收增进JavaScript回应速度</a>。</li>
-<li><a href="../Page/數位簽章.md" title="wikilink">數位簽章中不再支持</a><a href="../Page/MD5.md" title="wikilink">MD5散列算法</a>。</li>
+<li><a href="../Page/數位簽章.md" title="wikilink">數位簽章</a>中不再支持<a href="../Page/MD5.md" title="wikilink">MD5</a>散列算法。</li>
 <li>默认支持<a href="https://zh.wikipedia.org/wiki/Opus_codec" title="wikilink">Opus codec</a>。</li>
 </ul></td>
 </tr>
@@ -519,7 +499,7 @@ Suite的開發團隊中獨立出來，現在的成員如下\[4\]：
 <tr class="odd">
 <td><p>2.14.1</p></td>
 <td><p>2012年11月30日</p></td>
-<td><p>回滚<a href="../Page/用户代理.md" title="wikilink">用户代理以适配部分网站</a>。</p></td>
+<td><p>回滚<a href="../Page/用户代理.md" title="wikilink">用户代理</a>以适配部分网站。</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -527,8 +507,8 @@ Suite的開發團隊中獨立出來，現在的成員如下\[4\]：
 <td><p>2.15</p></td>
 <td><p>2013年1月8日</p></td>
 <td><ul>
-<li>可设为<a href="https://zh.wikipedia.org/wiki/Mac_OS" title="wikilink">Mac OS和</a><a href="../Page/Linux.md" title="wikilink">Linux的默认浏览器</a>。</li>
-<li>初步<a href="../Page/WebRTC.md" title="wikilink">WebRTC支援</a>。</li>
+<li>可设为<a href="https://zh.wikipedia.org/wiki/Mac_OS" title="wikilink">Mac OS和</a><a href="../Page/Linux.md" title="wikilink">Linux</a>的默认浏览器。</li>
+<li>初步<a href="../Page/WebRTC.md" title="wikilink">WebRTC</a>支援。</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -869,8 +849,7 @@ Suite的開發團隊中獨立出來，現在的成員如下\[4\]：
 </tbody>
 </table>
 
-註：核心版本的序號是繼承[Mozilla
-Suite版本而來](https://zh.wikipedia.org/wiki/Mozilla_Suite "wikilink")。
+註：核心版本的序號是繼承[Mozilla Suite版本而來](https://zh.wikipedia.org/wiki/Mozilla_Suite "wikilink")。
 
 ## 参考资料
 
@@ -886,20 +865,9 @@ Suite版本而來](https://zh.wikipedia.org/wiki/Mozilla_Suite "wikilink")。
   - [电子邮件客户端列表](../Page/电子邮件客户端列表.md "wikilink")
   - [网页浏览器比较](../Page/网页浏览器比较.md "wikilink")
   - [电子邮件客户端比较](../Page/电子邮件客户端比较.md "wikilink")
-  - [Mozilla
-    Suite](https://zh.wikipedia.org/wiki/Mozilla_Suite "wikilink")
+  - [Mozilla Suite](https://zh.wikipedia.org/wiki/Mozilla_Suite "wikilink")
 
-[Category:Mozilla](https://zh.wikipedia.org/wiki/Category:Mozilla "wikilink")
-[Category:使用XUL的軟體](https://zh.wikipedia.org/wiki/Category:使用XUL的軟體 "wikilink")
-[Category:Gecko衍生軟體](https://zh.wikipedia.org/wiki/Category:Gecko衍生軟體 "wikilink")
-[Category:網頁設計軟體](https://zh.wikipedia.org/wiki/Category:網頁設計軟體 "wikilink")
-[Category:HTML编辑器](https://zh.wikipedia.org/wiki/Category:HTML编辑器 "wikilink")
-[Category:电子邮件客户端](https://zh.wikipedia.org/wiki/Category:电子邮件客户端 "wikilink")
-[Category:FTP客户端](https://zh.wikipedia.org/wiki/Category:FTP客户端 "wikilink")
-[Category:IRC客户端](https://zh.wikipedia.org/wiki/Category:IRC客户端 "wikilink")
-[Category:Usenet客户端](https://zh.wikipedia.org/wiki/Category:Usenet客户端 "wikilink")
-[Category:自由网页浏览器](https://zh.wikipedia.org/wiki/Category:自由网页浏览器 "wikilink")
-[Category:开放源代码](https://zh.wikipedia.org/wiki/Category:开放源代码 "wikilink")
+[Category:Mozilla](https://zh.wikipedia.org/wiki/Category:Mozilla "wikilink") [Category:使用XUL的軟體](https://zh.wikipedia.org/wiki/Category:使用XUL的軟體 "wikilink") [Category:Gecko衍生軟體](https://zh.wikipedia.org/wiki/Category:Gecko衍生軟體 "wikilink") [Category:網頁設計軟體](https://zh.wikipedia.org/wiki/Category:網頁設計軟體 "wikilink") [Category:HTML编辑器](https://zh.wikipedia.org/wiki/Category:HTML编辑器 "wikilink") [Category:电子邮件客户端](https://zh.wikipedia.org/wiki/Category:电子邮件客户端 "wikilink") [Category:FTP客户端](https://zh.wikipedia.org/wiki/Category:FTP客户端 "wikilink") [Category:IRC客户端](https://zh.wikipedia.org/wiki/Category:IRC客户端 "wikilink") [Category:Usenet客户端](https://zh.wikipedia.org/wiki/Category:Usenet客户端 "wikilink") [Category:自由网页浏览器](https://zh.wikipedia.org/wiki/Category:自由网页浏览器 "wikilink") [Category:开放源代码](https://zh.wikipedia.org/wiki/Category:开放源代码 "wikilink")
 
 1.
 

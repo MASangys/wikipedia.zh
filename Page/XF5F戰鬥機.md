@@ -1,8 +1,8 @@
-**XF5F**[戰鬥機是](https://zh.wikipedia.org/wiki/戰鬥機 "wikilink")[格鲁门公司設計的一款試驗性雙發動機艦載戰鬥機](../Page/格鲁门公司.md "wikilink")，這架飛機同時也被[美國陸軍看中](https://zh.wikipedia.org/wiki/美國陸軍 "wikilink")，改良成為[XP-50戰鬥機](https://zh.wikipedia.org/wiki/XP-50 "wikilink")，不過這兩架飛機都只處於試驗階段。官方正式名稱是**空中火箭**（Skyrocket）。
+**XF5F**[戰鬥機是](https://zh.wikipedia.org/wiki/戰鬥機 "wikilink")[格鲁门公司](../Page/格鲁门公司.md "wikilink")設計的一款試驗性雙發動機艦載戰鬥機，這架飛機同時也被[美國陸軍看中](https://zh.wikipedia.org/wiki/美國陸軍 "wikilink")，改良成為[XP-50戰鬥機](https://zh.wikipedia.org/wiki/XP-50 "wikilink")，不過這兩架飛機都只處於試驗階段。官方正式名稱是**空中火箭**（Skyrocket）。
 
 ## 歷史
 
-[美國海軍於](../Page/美國海軍.md "wikilink")1937年發出雙發動機艦載戰鬥機的設計需求，其中要求這架飛機的最大速度需要超過每小時480公里，一共有4家公司提出他們的設計方案，格魯曼公司的設計是採用兩具[艾利森公司](https://zh.wikipedia.org/wiki/艾利森公司 "wikilink")[V-1710](https://zh.wikipedia.org/wiki/V-1710 "wikilink")[液冷式發動機加上渦輪](https://zh.wikipedia.org/wiki/液冷式發動機 "wikilink")[增壓器](https://zh.wikipedia.org/wiki/增壓器 "wikilink")。經過審核之後，海軍認為沒有一款設計預估性能足以滿足需求。因此1938年初海軍提出修改方案，設計規格放寬為可以採用一具液冷式發動機加上機械增壓器，或者是兩具氣冷式發動機配合渦輪增壓器。
+[美國海軍](../Page/美國海軍.md "wikilink")於1937年發出雙發動機艦載戰鬥機的設計需求，其中要求這架飛機的最大速度需要超過每小時480公里，一共有4家公司提出他們的設計方案，格魯曼公司的設計是採用兩具[艾利森公司](https://zh.wikipedia.org/wiki/艾利森公司 "wikilink")[V-1710](https://zh.wikipedia.org/wiki/V-1710 "wikilink")[液冷式發動機加上渦輪](https://zh.wikipedia.org/wiki/液冷式發動機 "wikilink")[增壓器](https://zh.wikipedia.org/wiki/增壓器 "wikilink")。經過審核之後，海軍認為沒有一款設計預估性能足以滿足需求。因此1938年初海軍提出修改方案，設計規格放寬為可以採用一具液冷式發動機加上機械增壓器，或者是兩具氣冷式發動機配合渦輪增壓器。
 
 這一次一共有5家公司提出他們的設計案，其中[渥特公司](https://zh.wikipedia.org/wiki/渥特公司 "wikilink")（Vought）是採用一具普萊特·惠特尼公司的R-2800氣冷式發動機作為動力來源，雖然這一款發動機並未包含在海軍提出的需求裡面，稍後海軍還是發出合約給渥特公司進行研發，成為[F4U戰鬥機](https://zh.wikipedia.org/wiki/F4U "wikilink")。格魯門公司提出的設計是採用兩具普萊特·惠特尼公司R-1535氣冷式發動機配合兩速機械增壓器。可是在設計初期格魯門被迫改用萊特公司直徑較大的R-1820發動機。由於直徑較大的發動機會影響前方與下方的視野，這對在[航空母艦上起降作業相當不便](https://zh.wikipedia.org/wiki/航空母艦 "wikilink")，使得美國海軍很不願意接受這項變更。
 
@@ -18,20 +18,11 @@
 
 <references />
 
-  - Green, William. *War Planes of the Second World War - Fighters, Vol
-    4*. London, UK: MacDonald, 1961. ISBN 0-356-01448-7.
-  - Green, William and Swanborough, Gordon. *WW2 Aircraft Fact Files: US
-    Navy and Marine Corps Fighters*. London, UK: Macdonald and Jane's,
-    1976. ISBN 0-356-08222-9.
-  - Lucabaugh, David and Martin, Bob. *Grumman XF5F-1 & XP-50 Skyrocket,
-    Naval fighters number thirty-one*. Simi Valley, CA: Ginter Books,
-    1995. ISBN 0-942612-31-0.
-  - Morgan, Eric B. "Grumman F7F Tigercat F.7/30". *Twentyfirst Profile,
-    Volume 1, No. 11*. New Milton, Hants, UK: 21st Profile Ltd. ISBN
-    0-961-82100-4.
-  - Morgan, Eric B. "The Grumman Twins". *Twentyfirst Profile, Volume 2,
-    No. 15*. New Milton, Hants, UK: 21st Profile Ltd. ISBN
-    0-961-82101-1.
+  - Green, William. *War Planes of the Second World War - Fighters, Vol 4*. London, UK: MacDonald, 1961. ISBN 0-356-01448-7.
+  - Green, William and Swanborough, Gordon. *WW2 Aircraft Fact Files: US Navy and Marine Corps Fighters*. London, UK: Macdonald and Jane's, 1976. ISBN 0-356-08222-9.
+  - Lucabaugh, David and Martin, Bob. *Grumman XF5F-1 & XP-50 Skyrocket, Naval fighters number thirty-one*. Simi Valley, CA: Ginter Books, 1995. ISBN 0-942612-31-0.
+  - Morgan, Eric B. "Grumman F7F Tigercat F.7/30". *Twentyfirst Profile, Volume 1, No. 11*. New Milton, Hants, UK: 21st Profile Ltd. ISBN 0-961-82100-4.
+  - Morgan, Eric B. "The Grumman Twins". *Twentyfirst Profile, Volume 2, No. 15*. New Milton, Hants, UK: 21st Profile Ltd. ISBN 0-961-82101-1.
 
 </div>
 

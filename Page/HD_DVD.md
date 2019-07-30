@@ -1,30 +1,12 @@
-[IFA_2005_Toshiba_HBS_A_001_HD-DVD_Player_(Dual-Layer_HD-DVD_30GB)_and_(DVD-HD-DVD-Twin-Disc_5GB_15GB)_(by_HDTVTotalDOTcom).jpg](https://zh.wikipedia.org/wiki/File:IFA_2005_Toshiba_HBS_A_001_HD-DVD_Player_\(Dual-Layer_HD-DVD_30GB\)_and_\(DVD-HD-DVD-Twin-Disc_5GB_15GB\)_\(by_HDTVTotalDOTcom\).jpg "fig:IFA_2005_Toshiba_HBS_A_001_HD-DVD_Player_(Dual-Layer_HD-DVD_30GB)_and_(DVD-HD-DVD-Twin-Disc_5GB_15GB)_(by_HDTVTotalDOTcom).jpg")2005會場上展示的HD
-DVD播放機。\]\] **HD
-DVD**（，“高清晰度DVD”或“高畫質DVD”）是一種以藍光鐳射技術儲存[數位格式資訊於光碟上的產品](https://zh.wikipedia.org/wiki/數位格式 "wikilink")，現已發展成[高解析度](https://zh.wikipedia.org/wiki/高解析度 "wikilink")[DVD標準](https://zh.wikipedia.org/wiki/DVD "wikilink")，由[HD
-DVD推廣協會負責制定及開發](https://zh.wikipedia.org/wiki/HD_DVD推廣協會 "wikilink")。HD
-DVD與其競爭對手[Blu-ray
-Disc](https://zh.wikipedia.org/wiki/Blu-ray_Disc "wikilink")（简写为「BD」，藍光光碟）有些許些相似之處，光碟片均是和[CD同樣大小](../Page/CD.md "wikilink")（直徑120mm）的光學[數位格式儲存媒介](https://zh.wikipedia.org/wiki/數位格式儲存媒介 "wikilink")，使用405[奈米波長的藍色鐳射](https://zh.wikipedia.org/wiki/奈米 "wikilink")。
+[IFA_2005_Toshiba_HBS_A_001_HD-DVD_Player_(Dual-Layer_HD-DVD_30GB)_and_(DVD-HD-DVD-Twin-Disc_5GB_15GB)_(by_HDTVTotalDOTcom).jpg](https://zh.wikipedia.org/wiki/File:IFA_2005_Toshiba_HBS_A_001_HD-DVD_Player_\(Dual-Layer_HD-DVD_30GB\)_and_\(DVD-HD-DVD-Twin-Disc_5GB_15GB\)_\(by_HDTVTotalDOTcom\).jpg "fig:IFA_2005_Toshiba_HBS_A_001_HD-DVD_Player_(Dual-Layer_HD-DVD_30GB)_and_(DVD-HD-DVD-Twin-Disc_5GB_15GB)_(by_HDTVTotalDOTcom).jpg")2005會場上展示的HD DVD播放機。\]\] **HD DVD**（，“高清晰度DVD”或“高畫質DVD”）是一種以藍光鐳射技術儲存[數位格式資訊於光碟上的產品](https://zh.wikipedia.org/wiki/數位格式 "wikilink")，現已發展成[高解析度](https://zh.wikipedia.org/wiki/高解析度 "wikilink")[DVD標準](https://zh.wikipedia.org/wiki/DVD "wikilink")，由[HD DVD推廣協會負責制定及開發](https://zh.wikipedia.org/wiki/HD_DVD推廣協會 "wikilink")。HD DVD與其競爭對手[Blu-ray Disc](https://zh.wikipedia.org/wiki/Blu-ray_Disc "wikilink")（简写为「BD」，藍光光碟）有些許些相似之處，光碟片均是和[CD](../Page/CD.md "wikilink")同樣大小（直徑120mm）的光學[數位格式儲存媒介](https://zh.wikipedia.org/wiki/數位格式儲存媒介 "wikilink")，使用405[奈米波長的藍色鐳射](https://zh.wikipedia.org/wiki/奈米 "wikilink")。
 
-HD
-DVD由[東芝](https://zh.wikipedia.org/wiki/東芝 "wikilink")、[NEC](https://zh.wikipedia.org/wiki/NEC "wikilink")、[三洋電機等企業組成的](../Page/三洋電機.md "wikilink")[HD
-DVD推廣協會負責推廣](https://zh.wikipedia.org/wiki/HD_DVD推廣協會 "wikilink")，[惠普](../Page/惠普.md "wikilink")（同時支持[BD](../Page/藍光光碟.md "wikilink")）、[微軟及](https://zh.wikipedia.org/wiki/微軟 "wikilink")[英特爾等相繼加入HD](https://zh.wikipedia.org/wiki/英特爾 "wikilink")
-DVD陣營，其中的主流片廠[環球影業亦是成員之一](https://zh.wikipedia.org/wiki/環球影業 "wikilink")。
+HD DVD由[東芝](https://zh.wikipedia.org/wiki/東芝 "wikilink")、[NEC](https://zh.wikipedia.org/wiki/NEC "wikilink")、[三洋電機](../Page/三洋電機.md "wikilink")等企業組成的[HD DVD推廣協會負責推廣](https://zh.wikipedia.org/wiki/HD_DVD推廣協會 "wikilink")，[惠普](../Page/惠普.md "wikilink")（同時支持[BD](../Page/藍光光碟.md "wikilink")）、[微軟及](https://zh.wikipedia.org/wiki/微軟 "wikilink")[英特爾等相繼加入HD](https://zh.wikipedia.org/wiki/英特爾 "wikilink") DVD陣營，其中的主流片廠[環球影業亦是成員之一](https://zh.wikipedia.org/wiki/環球影業 "wikilink")。
 
-但在2008年，隨著原先支持HD
-DVD的[華納公司宣佈脫離HD](https://zh.wikipedia.org/wiki/華納公司 "wikilink")
-DVD，以及美國數家連鎖賣場決定支持藍光產品，東芝公司終在2008年2月19日正式宣佈將終止HD DVD事業。\[1\]
+但在2008年，隨著原先支持HD DVD的[華納公司宣佈脫離HD](https://zh.wikipedia.org/wiki/華納公司 "wikilink") DVD，以及美國數家連鎖賣場決定支持藍光產品，東芝公司終在2008年2月19日正式宣佈將終止HD DVD事業。\[1\]
 
 ## 光碟格式
 
-HD
-DVD單面單層容量為15[GB](https://zh.wikipedia.org/wiki/GB "wikilink")，單面雙層容量為30GB。東芝更聲稱單面**三層**碟片正在开发中，能够提供51GB的存储空间，大大低於他的主要對手“[Blu-ray
-Disc](https://zh.wikipedia.org/wiki/Blu-ray_Disc "wikilink")”，然而蓝光光碟的碟片单层就有25GB的存储容量，2层和4层分别可以储存50GB和100GB的数据。但HD
-DVD的支持者称多层蓝光光碟还在研发之中。 HD
-DVD光碟的表层厚度为0.6mm，与DVD光碟相同，但是比BD光碟厚0.1mm。光学读取头的[光圈开口数为](https://zh.wikipedia.org/wiki/光圈开口数 "wikilink")0.65，不同于DVD的0.6。
-两种格式均向后兼容DVD格式，使用相同的视频压缩技术：[H.262/MPEG-2 Part
-2](../Page/MPEG-2.md "wikilink")、[H.264/MPEG-4
-AVC](https://zh.wikipedia.org/wiki/H.264/MPEG-4_AVC "wikilink")。 HD
-DVD通常被人们误写成“HD-DVD”，因为人们认为中间的连接线和以前的[DVD-R](../Page/DVD-R.md "wikilink")／[DVD-RW之间的连接线类似](https://zh.wikipedia.org/wiki/DVD-RW "wikilink")。
+HD DVD單面單層容量為15[GB](https://zh.wikipedia.org/wiki/GB "wikilink")，單面雙層容量為30GB。東芝更聲稱單面**三層**碟片正在开发中，能够提供51GB的存储空间，大大低於他的主要對手“[Blu-ray Disc](https://zh.wikipedia.org/wiki/Blu-ray_Disc "wikilink")”，然而蓝光光碟的碟片单层就有25GB的存储容量，2层和4层分别可以储存50GB和100GB的数据。但HD DVD的支持者称多层蓝光光碟还在研发之中。 HD DVD光碟的表层厚度为0.6mm，与DVD光碟相同，但是比BD光碟厚0.1mm。光学读取头的[光圈开口数为](https://zh.wikipedia.org/wiki/光圈开口数 "wikilink")0.65，不同于DVD的0.6。 两种格式均向后兼容DVD格式，使用相同的视频压缩技术：[H.262/MPEG-2 Part 2](../Page/MPEG-2.md "wikilink")、[H.264/MPEG-4 AVC](https://zh.wikipedia.org/wiki/H.264/MPEG-4_AVC "wikilink")。 HD DVD通常被人们误写成“HD-DVD”，因为人们认为中间的连接线和以前的[DVD-R](../Page/DVD-R.md "wikilink")／[DVD-RW之间的连接线类似](https://zh.wikipedia.org/wiki/DVD-RW "wikilink")。
 
 | 直徑    | 單面單層容量 | 單面雙層容量 | 單面三層容量 |
 | ----- | ------ | ------ | ------ |
@@ -33,60 +15,44 @@ DVD通常被人们误写成“HD-DVD”，因为人们认为中间的连接线�
 
 ### 與DVD相容
 
-HD DVD光碟比现有的DVD光碟有许多先进之处，向后兼容性让所有HD DVD播放器可以播放HD
-DVD和DVD光碟。DVD光碟生产企业可以继续使用现有的设备生产HD
-DVD光碟，只需要作出些微的調整。由于单镜头光学头的结构，红光和蓝光二极體均可以用在更小，更紧凑的HD
-DVD播放器中。而且由于HD DVD的兼容性，同一部影片的DVD和HD
-DVD版本可以存储在同一张光碟上，使电影大厂在发布影片时能够更加平稳过渡到HD
-DVD格式。
+HD DVD光碟比现有的DVD光碟有许多先进之处，向后兼容性让所有HD DVD播放器可以播放HD DVD和DVD光碟。DVD光碟生产企业可以继续使用现有的设备生产HD DVD光碟，只需要作出些微的調整。由于单镜头光学头的结构，红光和蓝光二极體均可以用在更小，更紧凑的HD DVD播放器中。而且由于HD DVD的兼容性，同一部影片的DVD和HD DVD版本可以存储在同一张光碟上，使电影大厂在发布影片时能够更加平稳过渡到HD DVD格式。
 
 ### 鐳射種類
 
-HD
-DVD使用鐳射之[波長是](https://zh.wikipedia.org/wiki/波長 "wikilink")405[奈米](https://zh.wikipedia.org/wiki/奈米 "wikilink")，不同於DVD中使用的650奈米的紅光鐳射。
+HD DVD使用鐳射之[波長是](https://zh.wikipedia.org/wiki/波長 "wikilink")405[奈米](https://zh.wikipedia.org/wiki/奈米 "wikilink")，不同於DVD中使用的650奈米的紅光鐳射。
 
-波长更短减少了[衍射](../Page/衍射.md "wikilink")，使激光聚焦成更小的点，这就意味着可以从更高密度的碟片中读取数据。虽然HD
-DVD的碟片尺寸与DVD相同，但是由于更高的储存密度，所以拥有更大的存储容量。
+波长更短减少了[衍射](../Page/衍射.md "wikilink")，使激光聚焦成更小的点，这就意味着可以从更高密度的碟片中读取数据。虽然HD DVD的碟片尺寸与DVD相同，但是由于更高的储存密度，所以拥有更大的存储容量。
 
 ### [数字版权管理](../Page/数字版权管理.md "wikilink")
 
-商品化的HD DVD预计会集成由[AACS
-LA](https://zh.wikipedia.org/wiki/AACS_LA "wikilink")（Advanced Access
-Content System License Administrator）开发的防盜技術。“音频水印保护”也被用于HD DVD。所有的HD
-DVD播放器将由一个传感器监听在电影音轨中人耳无法辨识的水印，而且绝大多数影片将含有这种水印。如果HD
-DVD播放器侦测不到代码，这个碟片一定是直接复制而来或者是用[数码录像机和](https://zh.wikipedia.org/wiki/数码录像机 "wikilink")[麦克风从电影屏幕上翻录得来](../Page/麦克风.md "wikilink")，那么播放器就会因此拒绝播放碟片。这种标记是由不同於音乐和人声的声波按照一定的模式转变成一种数字代码。这些标记无法被人耳察觉，然而HD
-DVD播放机和音频编辑软件却很容易使之无法正常使用。在这个系统中，另一个方法就是阻止播放一种非法碟片，这种非法碟片通过数码录像机和麦克风翻录由[家庭影院播放的合法碟片获得](https://zh.wikipedia.org/wiki/家庭影院 "wikilink")。这种适用与家庭影院的方法利用了水印，以区别与电影的标记，从而使得播放器能够识别碟片合法与否。
+商品化的HD DVD预计会集成由[AACS LA](https://zh.wikipedia.org/wiki/AACS_LA "wikilink")（Advanced Access Content System License Administrator）开发的防盜技術。“音频水印保护”也被用于HD DVD。所有的HD DVD播放器将由一个传感器监听在电影音轨中人耳无法辨识的水印，而且绝大多数影片将含有这种水印。如果HD DVD播放器侦测不到代码，这个碟片一定是直接复制而来或者是用[数码录像机和](https://zh.wikipedia.org/wiki/数码录像机 "wikilink")[麦克风](../Page/麦克风.md "wikilink")从电影屏幕上翻录得来，那么播放器就会因此拒绝播放碟片。这种标记是由不同於音乐和人声的声波按照一定的模式转变成一种数字代码。这些标记无法被人耳察觉，然而HD DVD播放机和音频编辑软件却很容易使之无法正常使用。在这个系统中，另一个方法就是阻止播放一种非法碟片，这种非法碟片通过数码录像机和麦克风翻录由[家庭影院播放的合法碟片获得](https://zh.wikipedia.org/wiki/家庭影院 "wikilink")。这种适用与家庭影院的方法利用了水印，以区别与电影的标记，从而使得播放器能够识别碟片合法与否。
 
 ### 互动内容
 
-HD
-DVD会采用[iHD互动格式](https://zh.wikipedia.org/wiki/iHD互动格式 "wikilink")（後來改名[HDi互动格式](https://zh.wikipedia.org/wiki/HDi互动格式 "wikilink")）来支持互动内容，而BD光碟将使用[Java技术支持](../Page/Java.md "wikilink")。
+HD DVD会采用[iHD互动格式](https://zh.wikipedia.org/wiki/iHD互动格式 "wikilink")（後來改名[HDi互动格式](https://zh.wikipedia.org/wiki/HDi互动格式 "wikilink")）来支持互动内容，而BD光碟将使用[Java](../Page/Java.md "wikilink")技术支持。
 
 ### HD Upconverter
 
-這是一種輸出的設計，會有此種輸出的裝置在現有的市場有：高階機種的DVD-Player可支援720P/1080i/1080P輸出的機型，例如：將原本為1080i的節目內容經過內部的轉換為1080P輸出於高解晰度顯示器或是電視上、有些高階機上盒（Set-Top
-Box）接收數位電視節目內容（Content）亦有這種設計。最主要是，現階段大多（電視節目）內容為SD（Standard
-Definition）Content的，假以時日；所有的節目製作都昇級為HD（High
-Definition）content時；或許那時這種設計亦會被束之高閣了。
+這是一種輸出的設計，會有此種輸出的裝置在現有的市場有：高階機種的DVD-Player可支援720P/1080i/1080P輸出的機型，例如：將原本為1080i的節目內容經過內部的轉換為1080P輸出於高解晰度顯示器或是電視上、有些高階機上盒（Set-Top Box）接收數位電視節目內容（Content）亦有這種設計。最主要是，現階段大多（電視節目）內容為SD（Standard Definition）Content的，假以時日；所有的節目製作都昇級為HD（High Definition）content時；或許那時這種設計亦會被束之高閣了。
 
 ## 历史
 
 | 日期          | |事件                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2003年11月19日 | [DVD论坛以](https://zh.wikipedia.org/wiki/DVD论坛 "wikilink")8比6通过HD DVD是DVD配合[HDTV的下一代产品](https://zh.wikipedia.org/wiki/HDTV "wikilink")。在此次会议上，他们将碟片改名为“HD DVD”，之前称为“高级光学碟片”。[藍光光碟是由DVD论坛之外的企业发展出的](../Page/藍光光碟.md "wikilink")，因此未提交至论坛讨论。[HD DVD-ROM和](https://zh.wikipedia.org/wiki/HD_DVD-ROM "wikilink")[HD DVD-RW规格的版本是](https://zh.wikipedia.org/wiki/HD_DVD-RW "wikilink")1.0，[HD DVD-R规格的版本是](https://zh.wikipedia.org/wiki/HD_DVD-R "wikilink")0.9。                                                                                                                                                                      |
+| 2003年11月19日 | [DVD论坛以](https://zh.wikipedia.org/wiki/DVD论坛 "wikilink")8比6通过HD DVD是DVD配合[HDTV的下一代产品](https://zh.wikipedia.org/wiki/HDTV "wikilink")。在此次会议上，他们将碟片改名为“HD DVD”，之前称为“高级光学碟片”。[藍光光碟](../Page/藍光光碟.md "wikilink")是由DVD论坛之外的企业发展出的，因此未提交至论坛讨论。[HD DVD-ROM和](https://zh.wikipedia.org/wiki/HD_DVD-ROM "wikilink")[HD DVD-RW规格的版本是](https://zh.wikipedia.org/wiki/HD_DVD-RW "wikilink")1.0，[HD DVD-R规格的版本是](https://zh.wikipedia.org/wiki/HD_DVD-R "wikilink")0.9。                                                                                                                                                                      |
 | 2006年1月5日   | [HD DVD推廣協會於](https://zh.wikipedia.org/wiki/HD_DVD推廣協會 "wikilink")[国际消费电子展](https://zh.wikipedia.org/wiki/国际消费电子展 "wikilink")（CES）上称，到2006年年底将有200部影片支持该格式[1](https://archive.is/20120712132729/http://news.com.com/HD+DVD+backers+promise+200+movies/2100-1026_3-6019023.html) 。                                                                                                                                                                                                                                                                                                                                               |
-| 2006年3月31日  | 东芝第一批HD DVD播放器於-{日本}-地區發售，定價[日幣](https://zh.wikipedia.org/wiki/日幣 "wikilink")110,000元；美國地區則在同年4月18日發售，價格為499[美元和](../Page/美元.md "wikilink")799元。                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| 2006年3月31日  | 东芝第一批HD DVD播放器於-{日本}-地區發售，定價[日幣](https://zh.wikipedia.org/wiki/日幣 "wikilink")110,000元；美國地區則在同年4月18日發售，價格為499[美元](../Page/美元.md "wikilink")和799元。                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | 2006年4月18日  | 第一批HD DVD電影上市，包括[華納家庭影業和](https://zh.wikipedia.org/wiki/華納家庭影業 "wikilink")[環球電影下属](https://zh.wikipedia.org/wiki/環球電影 "wikilink")[Serenity公司的](https://zh.wikipedia.org/wiki/Serenity_\(電影公司\) "wikilink")《[末代武士](https://zh.wikipedia.org/wiki/末代武士 "wikilink")》、《[百万美元宝贝](https://zh.wikipedia.org/wiki/百万美元宝贝 "wikilink")》和《[歌劇魅影](../Page/歌劇魅影.md "wikilink")》。\[2\]。                                                                                                                                                                                                                                                       |
 | 2006年11月7日  | 微软的家用游戏主机[Xbox 360推出外接的HD](../Page/Xbox_360.md "wikilink") DVD播放器。                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | 2007年8月21日  | [派拉蒙電影公司宣佈由原先同時支持藍光光碟及HD](https://zh.wikipedia.org/wiki/派拉蒙電影公司 "wikilink") DVD，改為以HD DVD作為派拉蒙唯一認可的高清電影存儲光碟；同時宣佈，派拉蒙旗下的[夢工廠](https://zh.wikipedia.org/wiki/夢工廠 "wikilink")、[夢工廠動畫](https://zh.wikipedia.org/wiki/夢工廠動畫 "wikilink")、[派拉蒙優勢](https://zh.wikipedia.org/wiki/派拉蒙優勢 "wikilink")、[Nickelodeon Movies以及](https://zh.wikipedia.org/wiki/Nickelodeon_Movies "wikilink")[MTV電影等子公司轉為只支持HD](https://zh.wikipedia.org/wiki/MTV電影 "wikilink") DVD。派拉蒙高層透過[Viacom承認](https://zh.wikipedia.org/wiki/Viacom "wikilink")，派拉蒙共收取了HD DVD陣營的1億5千萬美元，以提供一年半之HD DVD獨佔權，款項以[現金及未來收益分帳支付](https://zh.wikipedia.org/wiki/現金 "wikilink")。 |
-| 2008年1月4日   | [華納兄弟電影公司宣佈脫離HD](https://zh.wikipedia.org/wiki/華納兄弟 "wikilink") DVD陣營，並且由2008年6月開始停止發行HD-DVD影碟，往後只支持藍光光碟作為影碟格式\[3\]。華納兄弟行政總裁[巴里．梅耶爾認為](https://zh.wikipedia.org/wiki/巴里．梅耶爾 "wikilink")，支持藍光光碟獨佔對整個高清市場普及化有利，長久的格式之爭只會令影業在高清市場上錯失良機。華納附屬的[新線影業於翌日作出同樣的決定](../Page/新線影業.md "wikilink")，停止HD DVD影碟的發行。                                                                                                                                                                                                                                                                                                                            |
+| 2008年1月4日   | [華納兄弟電影公司宣佈脫離HD](https://zh.wikipedia.org/wiki/華納兄弟 "wikilink") DVD陣營，並且由2008年6月開始停止發行HD-DVD影碟，往後只支持藍光光碟作為影碟格式\[3\]。華納兄弟行政總裁[巴里．梅耶爾認為](https://zh.wikipedia.org/wiki/巴里．梅耶爾 "wikilink")，支持藍光光碟獨佔對整個高清市場普及化有利，長久的格式之爭只會令影業在高清市場上錯失良機。華納附屬的[新線影業](../Page/新線影業.md "wikilink")於翌日作出同樣的決定，停止HD DVD影碟的發行。                                                                                                                                                                                                                                                                                                                            |
 | 2008年1月5日   | HD DVD推廣協會臨時取消即將於CES展場上召開的新聞發佈會。聲明指出，由於華納兄弟突然的決定，協會需要與其他HD-DVD陣營成員相討帶來的影響及重新評估將來的發展\[4\]。而东芝则声称不会因此而放弃对HD DVD的支持\[5\]。                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | 2008年1月8日   | 《[金融時報](../Page/金融時報.md "wikilink")》（Financial Times）報導[派拉蒙電影公司正考慮行使與HD](https://zh.wikipedia.org/wiki/派拉蒙 "wikilink") DVD陣營的獨佔協議中，「如華納兄弟放棄HD DVD陣營，派拉蒙可以跟隨離開」的一項條款，重新返回藍光光碟聯盟\[6\]。[微軟](https://zh.wikipedia.org/wiki/微軟 "wikilink")（Microsoft）則表示將來公司採用哪種格式，只會交由消費者的抉擇\[7\]。                                                                                                                                                                                                                                                                                                                                                  |
-| 2008年1月9日   | 時代華納另一附屬公司[HBO跟隨](../Page/HBO.md "wikilink")[華納兄弟的決定](https://zh.wikipedia.org/wiki/華納兄弟 "wikilink")，將會停止HD DVD影碟的發行\[8\]。                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| 2008年1月9日   | 時代華納另一附屬公司[HBO](../Page/HBO.md "wikilink")跟隨[華納兄弟的決定](https://zh.wikipedia.org/wiki/華納兄弟 "wikilink")，將會停止HD DVD影碟的發行\[8\]。                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | 2008年1月28日  | 英國[Woolworths Group PLC宣佈](https://zh.wikipedia.org/wiki/Woolworths_Group_PLC "wikilink")，根據2007年聖誕假期的銷售數字，藍光光碟大幅度以九比一的銷售數量領先HD DVD，所以決定全線商店即日開始只出售藍光光碟的影碟\[9\]。                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| 2008年2月11日  | 美國大型連鎖零售商[Best Buy宣佈](https://zh.wikipedia.org/wiki/Best_Buy "wikilink")，為了避免消費者在選擇次世代光碟格式播放器時感到困惑，決定全線商店即日開始全力支持藍光光碟的播放器、影碟及相關產品，使消費者正確掌握高清娛樂的內容\[10\]。同日，線上影碟商店[Netflix亦作出同樣的決定](../Page/Netflix.md "wikilink")，往後只支持藍光光碟為唯一認可的次世代光碟格式\[11\]。                                                                                                                                                                                                                                                                                                                                                                                 |
+| 2008年2月11日  | 美國大型連鎖零售商[Best Buy宣佈](https://zh.wikipedia.org/wiki/Best_Buy "wikilink")，為了避免消費者在選擇次世代光碟格式播放器時感到困惑，決定全線商店即日開始全力支持藍光光碟的播放器、影碟及相關產品，使消費者正確掌握高清娛樂的內容\[10\]。同日，線上影碟商店[Netflix](../Page/Netflix.md "wikilink")亦作出同樣的決定，往後只支持藍光光碟為唯一認可的次世代光碟格式\[11\]。                                                                                                                                                                                                                                                                                                                                                                                 |
 | 2008年2月15日  | 美國最大型連鎖零售商[沃爾瑪](https://zh.wikipedia.org/wiki/沃爾瑪 "wikilink")（Wal-Mart）宣佈，全線商店由6月開始只出售藍光光碟的播放器、影碟及相關產品，HD DVD的產品將會逐步撤離貨架\[12\]。同日，有傳東芝將會準備放棄HD DVD，儘管東芝目前拒絕承認，但這篇近期發表的文章指出每一台售出的HD DVD播放器實際上都在給東芝造成可觀的損失，再加上所遭遇的其它重大挫折，致使公司對此心灰意冷。一位自稱與HD DVD陣營關係密切的匿名人士稱“相關聲明即將發布……，最多再等個把星期！”。針對相關報導，東芝副總裁Jodi Sally重申了公司對HD DVD的支持\[13\]。                                                                                                                                                                                                                                                                                                    |
-| 2008年2月16日  | [日本放送協會報導](https://zh.wikipedia.org/wiki/日本放送協會 "wikilink")，領導HD DVD陣營的[東芝擬退出次世代光碟格式的競逐](https://zh.wikipedia.org/wiki/東芝 "wikilink")，同時在[青森縣的工廠將會全面停止HD](../Page/青森縣.md "wikilink") DVD播放器的生產\[14\]。                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| 2008年2月16日  | [日本放送協會報導](https://zh.wikipedia.org/wiki/日本放送協會 "wikilink")，領導HD DVD陣營的[東芝擬退出次世代光碟格式的競逐](https://zh.wikipedia.org/wiki/東芝 "wikilink")，同時在[青森縣](../Page/青森縣.md "wikilink")的工廠將會全面停止HD DVD播放器的生產\[14\]。                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | 2008年2月17日  | [東芝發表官方聲明](https://zh.wikipedia.org/wiki/東芝 "wikilink")，日本放送協會於昨日的報導並非既定事實，同時表明公司正在為HD DVD今後的事業方針作出檢討\[15\]。                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | 2008年2月19日  | 東芝公司宣佈決定終止HD DVD播放器、錄製器的開發，停止生產PC／遊戲用HD DVD光碟機，並在3月底結束其HD DVD事業\[16\]。                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 |             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
@@ -110,17 +76,12 @@ Definition）content時；或許那時這種設計亦會被束之高閣了。
 ## 参见
 
   - [BD](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")（Blu-ray Disc）
-  - [EVD](https://zh.wikipedia.org/wiki/EVD "wikilink")（Enhanced
-    Versatile Disc）
-  - [FVD](https://zh.wikipedia.org/wiki/FVD "wikilink")（Forward
-    Versatile Disc）
+  - [EVD](https://zh.wikipedia.org/wiki/EVD "wikilink")（Enhanced Versatile Disc）
+  - [FVD](https://zh.wikipedia.org/wiki/FVD "wikilink")（Forward Versatile Disc）
   - [VMD](../Page/VMD.md "wikilink")（Versatile Multilayer Disc）
-  - [FMD](https://zh.wikipedia.org/wiki/FMD "wikilink")（Fluorescent
-    Multilayer Disc）
-  - [DMD](https://zh.wikipedia.org/wiki/DMD "wikilink")（Digital
-    Multilayer Disk）
-  - [HVD](https://zh.wikipedia.org/wiki/HVD "wikilink")（Holographic
-    Versatile Disc）
+  - [FMD](https://zh.wikipedia.org/wiki/FMD "wikilink")（Fluorescent Multilayer Disc）
+  - [DMD](https://zh.wikipedia.org/wiki/DMD "wikilink")（Digital Multilayer Disk）
+  - [HVD](https://zh.wikipedia.org/wiki/HVD "wikilink")（Holographic Versatile Disc）
 
 [Category:DVD](https://zh.wikipedia.org/wiki/Category:DVD "wikilink")
 

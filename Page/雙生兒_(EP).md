@@ -1,5 +1,4 @@
-《**雙生兒**》是[香港](../Page/香港.md "wikilink")[組合](../Page/組合.md "wikilink")[Twins的粵語音樂專輯](https://zh.wikipedia.org/wiki/Twins "wikilink")，於2002年1月29日在[香港發行](../Page/香港.md "wikilink")，專輯《双生儿》CD+VCD收录了‘着睡衣跳舞’及贺年歌‘孖宝668’等5首新歌。而VCD上就有‘孖宝668’及‘爱情当入樽’的MTV。在‘孖宝668’的MTV中，Twins以全新搞笑形象示人，阿sa
-更反串男角，和风骚入骨的阿嬌向大家拜年。憑《大浪漫主義》及《孖寶668》兩曲廣受[香港欢迎](../Page/香港.md "wikilink")。
+《**雙生兒**》是[香港](../Page/香港.md "wikilink")[組合](../Page/組合.md "wikilink")[Twins的粵語音樂專輯](https://zh.wikipedia.org/wiki/Twins "wikilink")，於2002年1月29日在[香港](../Page/香港.md "wikilink")發行，專輯《双生儿》CD+VCD收录了‘着睡衣跳舞’及贺年歌‘孖宝668’等5首新歌。而VCD上就有‘孖宝668’及‘爱情当入樽’的MTV。在‘孖宝668’的MTV中，Twins以全新搞笑形象示人，阿sa 更反串男角，和风骚入骨的阿嬌向大家拜年。憑《大浪漫主義》及《孖寶668》兩曲廣受[香港](../Page/香港.md "wikilink")欢迎。
 
 ## 曲目
 
@@ -11,7 +10,7 @@
 
 ### Twins MV Karaoke VCD/DVD
 
-為收錄[愛情當入樽和](../Page/愛情當入樽.md "wikilink")[Twins碟內的MV](../Page/Twins_\(EP\).md "wikilink")，於2002年4月20日在[香港發行](../Page/香港.md "wikilink")，並收錄**雙生兒**曲目《孖寶668》。
+為收錄[愛情當入樽](../Page/愛情當入樽.md "wikilink")和[Twins碟內的MV](../Page/Twins_\(EP\).md "wikilink")，於2002年4月20日在[香港](../Page/香港.md "wikilink")發行，並收錄**雙生兒**曲目《孖寶668》。
 
 #### 曲目
 
@@ -26,8 +25,4 @@
 9.  和平日
 10. 孖寶668
 
-[Category:Twins音樂專輯](https://zh.wikipedia.org/wiki/Category:Twins音樂專輯 "wikilink")
-[Category:2002年音樂專輯](https://zh.wikipedia.org/wiki/Category:2002年音樂專輯 "wikilink")
-[Category:2002年迷你專輯](https://zh.wikipedia.org/wiki/Category:2002年迷你專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
+[Category:Twins音樂專輯](https://zh.wikipedia.org/wiki/Category:Twins音樂專輯 "wikilink") [Category:2002年音樂專輯](https://zh.wikipedia.org/wiki/Category:2002年音樂專輯 "wikilink") [Category:2002年迷你專輯](https://zh.wikipedia.org/wiki/Category:2002年迷你專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")

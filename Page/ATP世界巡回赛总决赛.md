@@ -1,68 +1,42 @@
-**ATP世界巡回赛总决赛**（**ATP World Tour
-Finals**），舊稱**网球大师杯赛**，是一项[网球锦标赛](../Page/网球.md "wikilink")，在每年的年底举行，参赛者是当年男子网球ATP冠軍排名（ATP
-Champion
-Race）前八的选手。但是根据大师杯赛的规则，在ATP冠軍排名第八位的选手并不一定能有资格参赛。如果一名选手是当年四大满贯赛事冠军之一且排名在前20名以内（但排名在第八名以外），那他就可取代排名第八的选手进入大师杯赛，但如果超過一名球員符合上述條件，以冠軍排名較高者為優先。
+**ATP世界巡回赛总决赛**（**ATP World Tour Finals**），舊稱**网球大师杯赛**，是一项[网球](../Page/网球.md "wikilink")锦标赛，在每年的年底举行，参赛者是当年男子网球ATP冠軍排名（ATP Champion Race）前八的选手。但是根据大师杯赛的规则，在ATP冠軍排名第八位的选手并不一定能有资格参赛。如果一名选手是当年四大满贯赛事冠军之一且排名在前20名以内（但排名在第八名以外），那他就可取代排名第八的选手进入大师杯赛，但如果超過一名球員符合上述條件，以冠軍排名較高者為優先。
 
 2017年ATP宣布由[日東電工](https://en.m.wikipedia.org/wiki/Nitto_Denko)贊助，合約直至2020年。
 
-同其它的男子巡回赛不同，网球大师杯赛不是采用直接淘汰的赛制。
-而是所有的8名选手被分成两组，每组4人，采用小组单循环的形式，即每个选手必须跟本组的其他选手各交手一次。每个小组成绩最好的前两名进入半决赛，再由半决赛的胜出者进入决赛来争夺冠军的归属。
+同其它的男子巡回赛不同，网球大师杯赛不是采用直接淘汰的赛制。 而是所有的8名选手被分成两组，每组4人，采用小组单循环的形式，即每个选手必须跟本组的其他选手各交手一次。每个小组成绩最好的前两名进入半决赛，再由半决赛的胜出者进入决赛来争夺冠军的归属。
 
-2009年開始，本賽事更名為**ATP世界巡回赛总决赛**（**ATP World Tour
-Finals**），並於2009—2020年在[倫敦舉行](https://zh.wikipedia.org/wiki/倫敦 "wikilink")。
+2009年開始，本賽事更名為**ATP世界巡回赛总决赛**（**ATP World Tour Finals**），並於2009—2020年在[倫敦舉行](https://zh.wikipedia.org/wiki/倫敦 "wikilink")。
 
 ## 历史
 
-[Tennis_Masters_Cup.jpg](https://zh.wikipedia.org/wiki/File:Tennis_Masters_Cup.jpg "fig:Tennis_Masters_Cup.jpg")
-这项赛事是始于1970年的锦标赛演化的第三个阶段。它最早是被大家所知的是由[国际网球总会](https://zh.wikipedia.org/wiki/国际网球总会 "wikilink")（International
-Tennis
-Federation，ITF）组织的大师巡回赛。大师赛是一项在每年年底举行的赛事，参赛者是男子巡回赛中最好的选手，但是它对世界排名没有任何价值。
+[Tennis_Masters_Cup.jpg](https://zh.wikipedia.org/wiki/File:Tennis_Masters_Cup.jpg "fig:Tennis_Masters_Cup.jpg") 这项赛事是始于1970年的锦标赛演化的第三个阶段。它最早是被大家所知的是由[国际网球总会](https://zh.wikipedia.org/wiki/国际网球总会 "wikilink")（International Tennis Federation，ITF）组织的大师巡回赛。大师赛是一项在每年年底举行的赛事，参赛者是男子巡回赛中最好的选手，但是它对世界排名没有任何价值。
 
-1990年，[國際職業網球聯合會](https://zh.wikipedia.org/wiki/國際職業網球聯合會 "wikilink")（ATP）接管男子巡回赛的运作并以ATP世界巡回锦标赛（ATP
-Tour World Championship）取代了大师赛。
-此时的世界排名制度正处于危险之中，因为一个全胜的冠军与一个仅赢得一项[四大满贯赛事冠军的选手所得的分值是一样的](https://zh.wikipedia.org/wiki/网球大满贯 "wikilink")。继续运作大满贯巡回赛的ITF创立了一项年终赛事，即[大满贯杯赛](https://zh.wikipedia.org/wiki/大满贯杯赛 "wikilink")（the
-Grand Slam
-Cup），参赛选手为当年大满贯回赛中纪录最好的16位选手。1999年12月，ATP和ITF同意中止这两项独立的赛事并成立一项新的联合赛事，即网球大师杯赛。
-与大师赛和ATP世界巡回锦标赛不同的是，网球大师杯赛有8名选手参加。
+1990年，[國際職業網球聯合會](https://zh.wikipedia.org/wiki/國際職業網球聯合會 "wikilink")（ATP）接管男子巡回赛的运作并以ATP世界巡回锦标赛（ATP Tour World Championship）取代了大师赛。 此时的世界排名制度正处于危险之中，因为一个全胜的冠军与一个仅赢得一项[四大满贯赛事冠军的选手所得的分值是一样的](https://zh.wikipedia.org/wiki/网球大满贯 "wikilink")。继续运作大满贯巡回赛的ITF创立了一项年终赛事，即[大满贯杯赛](https://zh.wikipedia.org/wiki/大满贯杯赛 "wikilink")（the Grand Slam Cup），参赛选手为当年大满贯回赛中纪录最好的16位选手。1999年12月，ATP和ITF同意中止这两项独立的赛事并成立一项新的联合赛事，即网球大师杯赛。 与大师赛和ATP世界巡回锦标赛不同的是，网球大师杯赛有8名选手参加。
 
 许多年以来，双打比赛总是作为一项独立的赛事在单打比赛之后的一个星期举行。但是最近几年，这两项赛事开始在同一个星期同一个地点举行。同单打赛事一样，双打比赛的参赛者是每年巡回赛中最成功的8支队伍，以小组单循环的形式進行比赛。
 
 ## 總決賽记录
 
   - 奪冠最多选手（6次）：
-      - [费德勒](../Page/罗杰·费德勒.md "wikilink")（Roger
-        Federer），[瑞士](https://zh.wikipedia.org/wiki/瑞士 "wikilink")：[2003年](https://zh.wikipedia.org/wiki/2003年網球大師杯賽 "wikilink")、[2004年](https://zh.wikipedia.org/wiki/2004年網球大師杯賽 "wikilink")、[2006年](https://zh.wikipedia.org/wiki/2006年網球大師杯賽 "wikilink")、[2007年](https://zh.wikipedia.org/wiki/2007年網球大師杯賽 "wikilink")、[2010年](https://zh.wikipedia.org/wiki/2010年ATP世界巡迴賽總決賽 "wikilink")、[2011年](https://zh.wikipedia.org/wiki/2011年ATP世界巡迴賽總決賽 "wikilink")
+      - [费德勒](../Page/罗杰·费德勒.md "wikilink")（Roger Federer），[瑞士](https://zh.wikipedia.org/wiki/瑞士 "wikilink")：[2003年](https://zh.wikipedia.org/wiki/2003年網球大師杯賽 "wikilink")、[2004年](https://zh.wikipedia.org/wiki/2004年網球大師杯賽 "wikilink")、[2006年](https://zh.wikipedia.org/wiki/2006年網球大師杯賽 "wikilink")、[2007年](https://zh.wikipedia.org/wiki/2007年網球大師杯賽 "wikilink")、[2010年](https://zh.wikipedia.org/wiki/2010年ATP世界巡迴賽總決賽 "wikilink")、[2011年](https://zh.wikipedia.org/wiki/2011年ATP世界巡迴賽總決賽 "wikilink")
 
 <!-- end list -->
 
   - 奪冠次多选手（5次）：
-      - [伦德尔](https://zh.wikipedia.org/wiki/伊萬·倫德爾 "wikilink")（Ivan
-        Lendl），[捷克斯洛伐克](https://zh.wikipedia.org/wiki/捷克斯洛伐克 "wikilink")：1981年、1982年、1985年、1986年、1987年
-      - [桑普拉斯](https://zh.wikipedia.org/wiki/皮特·桑普拉斯 "wikilink")（Pete
-        Sampras），[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")：1991年、1994年、1996年、1997年、1999年
-      - [德约科维奇](https://zh.wikipedia.org/wiki/诺瓦克·德约科维奇 "wikilink")（Novak
-        Djokovic），
-        [塞尔维亚](../Page/塞尔维亚.md "wikilink")：2008年、2012年、2013年、2014年、2015年
+      - [伦德尔](https://zh.wikipedia.org/wiki/伊萬·倫德爾 "wikilink")（Ivan Lendl），[捷克斯洛伐克](https://zh.wikipedia.org/wiki/捷克斯洛伐克 "wikilink")：1981年、1982年、1985年、1986年、1987年
+      - [桑普拉斯](https://zh.wikipedia.org/wiki/皮特·桑普拉斯 "wikilink")（Pete Sampras），[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")：1991年、1994年、1996年、1997年、1999年
+      - [德约科维奇](https://zh.wikipedia.org/wiki/诺瓦克·德约科维奇 "wikilink")（Novak Djokovic）， [塞尔维亚](../Page/塞尔维亚.md "wikilink")：2008年、2012年、2013年、2014年、2015年
 
 <!-- end list -->
 
   - 连续赢得冠军的选手：
-      - [德约科维奇](https://zh.wikipedia.org/wiki/诺瓦克·德约科维奇 "wikilink")（Novak
-        Djokovic）， [塞尔维亚](../Page/塞尔维亚.md "wikilink")：2012 -2015 （连续4次）
-      - [納斯塔塞](../Page/伊利耶·納斯塔塞.md "wikilink")（Ilie
-        Nastase），[羅馬尼亞](../Page/羅馬尼亞.md "wikilink")：1971年-1973年（连续3次）
-      - [博格](https://zh.wikipedia.org/wiki/比約恩·博格 "wikilink")（Bjorn
-        Borg），[瑞典](../Page/瑞典.md "wikilink")：1979年-1980年（连续2次）
-      - [伦德尔](https://zh.wikipedia.org/wiki/伊萬·倫德爾 "wikilink")（Ivan
-        Lendl），[捷克斯洛伐克](https://zh.wikipedia.org/wiki/捷克斯洛伐克 "wikilink")：1981年-1982年（连续2次）、1985年-1987年（连续3次）
-      - [约翰·麦肯罗](../Page/約翰·麥肯羅.md "wikilink")（John
-        McEnroe），[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")：1983年-1984年（连续2次）
-      - [桑普拉斯](https://zh.wikipedia.org/wiki/皮特·桑普拉斯 "wikilink")（Pete
-        Sampras），[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")：1996年-1997年（连续2次）
-      - [休伊特](https://zh.wikipedia.org/wiki/雷顿·休伊特 "wikilink")（Lleyton
-        Hewitt），[澳大利亚](../Page/澳大利亚.md "wikilink")：2001年-2002年（连续2次）
-      - [费德勒](../Page/罗杰·费德勒.md "wikilink")（Roger
-        Federer），[瑞士](https://zh.wikipedia.org/wiki/瑞士 "wikilink")：2003年-2004年（连续2次）、2006年-2007年（连续2次）、2010年-2011年（连续2次）
+      - [德约科维奇](https://zh.wikipedia.org/wiki/诺瓦克·德约科维奇 "wikilink")（Novak Djokovic）， [塞尔维亚](../Page/塞尔维亚.md "wikilink")：2012-2015 （连续4次）
+      - [納斯塔塞](../Page/伊利耶·納斯塔塞.md "wikilink")（Ilie Nastase），[羅馬尼亞](../Page/羅馬尼亞.md "wikilink")：1971年-1973年（连续3次）
+      - [博格](https://zh.wikipedia.org/wiki/比約恩·博格 "wikilink")（Bjorn Borg），[瑞典](../Page/瑞典.md "wikilink")：1979年-1980年（连续2次）
+      - [伦德尔](https://zh.wikipedia.org/wiki/伊萬·倫德爾 "wikilink")（Ivan Lendl），[捷克斯洛伐克](https://zh.wikipedia.org/wiki/捷克斯洛伐克 "wikilink")：1981年-1982年（连续2次）、1985年-1987年（连续3次）
+      - [约翰·麦肯罗](../Page/約翰·麥肯羅.md "wikilink")（John McEnroe），[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")：1983年-1984年（连续2次）
+      - [桑普拉斯](https://zh.wikipedia.org/wiki/皮特·桑普拉斯 "wikilink")（Pete Sampras），[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")：1996年-1997年（连续2次）
+      - [休伊特](https://zh.wikipedia.org/wiki/雷顿·休伊特 "wikilink")（Lleyton Hewitt），[澳大利亚](../Page/澳大利亚.md "wikilink")：2001年-2002年（连续2次）
+      - [费德勒](../Page/罗杰·费德勒.md "wikilink")（Roger Federer），[瑞士](https://zh.wikipedia.org/wiki/瑞士 "wikilink")：2003年-2004年（连续2次）、2006年-2007年（连续2次）、2010年-2011年（连续2次）
 
 ## 歷屆冠亞軍
 
@@ -642,8 +616,7 @@ Cup），参赛选手为当年大满贯回赛中纪录最好的16位选手。199
 </tbody>
 </table>
 
-<span style="font-size:smaller;">\*註：W: Win, F: Final, SF: Semi Final,
-RR: Round Robin</span>
+<span style="font-size:smaller;">\*註：W: Win, F: Final, SF: Semi Final, RR: Round Robin</span>
 
 ### 歷屆雙打冠軍
 
@@ -652,6 +625,4 @@ RR: Round Robin</span>
   - [官方網站](http://www.barclaysatpworldtourfinals.com/)
   - [ATP球星](https://web.archive.org/web/20111122151028/http://www.taimo.cn/star.html)
 
-[Category:ATP世界巡迴賽總決賽](https://zh.wikipedia.org/wiki/Category:ATP世界巡迴賽總決賽 "wikilink")
-[Category:ATP巡迴賽](https://zh.wikipedia.org/wiki/Category:ATP巡迴賽 "wikilink")
-[Category:1970年建立的週期性體育事件](https://zh.wikipedia.org/wiki/Category:1970年建立的週期性體育事件 "wikilink")
+[Category:ATP世界巡迴賽總決賽](https://zh.wikipedia.org/wiki/Category:ATP世界巡迴賽總決賽 "wikilink") [Category:ATP巡迴賽](https://zh.wikipedia.org/wiki/Category:ATP巡迴賽 "wikilink") [Category:1970年建立的週期性體育事件](https://zh.wikipedia.org/wiki/Category:1970年建立的週期性體育事件 "wikilink")

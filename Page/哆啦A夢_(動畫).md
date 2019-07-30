@@ -1,11 +1,8 @@
-《**哆啦A夢**》是一部改编自[藤子·F·不二雄的](../Page/藤子·F·不二雄.md "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")《[哆啦A夢](../Page/哆啦A夢.md "wikilink")》的國民級[日本动画](../Page/日本动画.md "wikilink")，於[日本電視台](../Page/日本電視台.md "wikilink")（1973年4月1日
-- 9月30日）及[朝日電視台](../Page/朝日電視台.md "wikilink")（1979年4月2日至今尚播放中）首播。
+《**哆啦A夢**》是一部改编自[藤子·F·不二雄](../Page/藤子·F·不二雄.md "wikilink")的[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")《[哆啦A夢](../Page/哆啦A夢.md "wikilink")》的國民級[日本动画](../Page/日本动画.md "wikilink")，於[日本電視台](../Page/日本電視台.md "wikilink")（1973年4月1日 - 9月30日）及[朝日電視台](../Page/朝日電視台.md "wikilink")（1979年4月2日至今尚播放中）首播。
 
 ## 日本電視台版本（1973年）
 
-《[哆啦A夢](../Page/哆啦A夢.md "wikilink")》在[朝日電視台熱播了三十年](../Page/朝日電視台.md "wikilink")，鮮少有人知道《哆啦A夢》最初是在[日本電視台播出的](../Page/日本電視台.md "wikilink")。日本電視台版哆啦A夢動畫(日語:日本テレビ版ドラえもん動畫)是1973年由日本電視台播出的哆啦A夢電視動畫，也是《哆啦A夢》第一次動畫化。後世又被稱作舊哆啦A夢（きゅうドラエモン）或舊哆啦（きゅうドラ）、幻之哆啦A夢（幻のドラえもん）、幻之作（幻の作），簡稱幻之版、日視版、《哆啦A夢》第一版動畫、第一代《哆啦A夢》動畫等。
-今日此作品已難見到，除日本外並無海外播出紀錄。
-日本電視台版的《哆啦A夢》，於1973年4月1日至9月30日，每周日下午七點播出。但哆啦A夢的收視率一直不見起色。製作團隊於是將原作中不曾出現的機器鴨ガチャ子變成真正班底，哆啦A夢的聲優途中出車禍而臨時換人。雖然還曾經有再繼續播出一季的計畫，不過，因為製作哆啦A夢動畫的[日本電視台動畫公司財務出現問題](https://zh.wikipedia.org/wiki/日本電視台動畫公司 "wikilink")，社長落跑，最後一巻播出時，該公司[辦公室已經被完全淨空](../Page/辦公室.md "wikilink")，可見其窘迫程度。因此《哆啦A夢》在日本電視台的播出也就匆匆了結。1973年9月30日，第26集第52回的《再见，哆啦A梦之巻》，是《哆啦A夢》在日本電視台最後的播出。當時，最後的哆啦A夢還穿插了黃色小鳥飛走的圖案，暗示著離別。而原本在片尾的圖卡「期待下周」（的播出）也改成了「期待下次」。
+《[哆啦A夢](../Page/哆啦A夢.md "wikilink")》在[朝日電視台](../Page/朝日電視台.md "wikilink")熱播了三十年，鮮少有人知道《哆啦A夢》最初是在[日本電視台](../Page/日本電視台.md "wikilink")播出的。日本電視台版哆啦A夢動畫(日語:日本テレビ版ドラえもん動畫)是1973年由日本電視台播出的哆啦A夢電視動畫，也是《哆啦A夢》第一次動畫化。後世又被稱作舊哆啦A夢（きゅうドラエモン）或舊哆啦（きゅうドラ）、幻之哆啦A夢（幻のドラえもん）、幻之作（幻の作），簡稱幻之版、日視版、《哆啦A夢》第一版動畫、第一代《哆啦A夢》動畫等。 今日此作品已難見到，除日本外並無海外播出紀錄。 日本電視台版的《哆啦A夢》，於1973年4月1日至9月30日，每周日下午七點播出。但哆啦A夢的收視率一直不見起色。製作團隊於是將原作中不曾出現的機器鴨ガチャ子變成真正班底，哆啦A夢的聲優途中出車禍而臨時換人。雖然還曾經有再繼續播出一季的計畫，不過，因為製作哆啦A夢動畫的[日本電視台動畫公司財務出現問題](https://zh.wikipedia.org/wiki/日本電視台動畫公司 "wikilink")，社長落跑，最後一巻播出時，該公司[辦公室](../Page/辦公室.md "wikilink")已經被完全淨空，可見其窘迫程度。因此《哆啦A夢》在日本電視台的播出也就匆匆了結。1973年9月30日，第26集第52回的《再见，哆啦A梦之巻》，是《哆啦A夢》在日本電視台最後的播出。當時，最後的哆啦A夢還穿插了黃色小鳥飛走的圖案，暗示著離別。而原本在片尾的圖卡「期待下周」（的播出）也改成了「期待下次」。
 
 日本電視台版《哆啦A夢》的特點有：
 
@@ -23,7 +20,7 @@
 
 ## 朝日電視台版本（1979年—）
 
-[日本電視台忽然宣告停止播放六年後](../Page/日本電視台.md "wikilink")，1979年4月2日終於在[朝日電視台重新再度於](../Page/朝日電視台.md "wikilink")-{zh-cn:小屏幕;zh-hant:螢光幕}-上播出《哆啦A夢》。初期是每週一到週五以十分鐘的小節目由朝日電視台（播映區域只在[關東](../Page/關東地方.md "wikilink")）開始放送。六天後（4月8日）才正式順次由朝日電視台全國[聯播網各成員電視台播放](../Page/聯播網.md "wikilink")，時間是在每週日上午8時30分以每次30分鐘的動畫節目播放。而這個版本又因製作群、[聲優和畫風的不同](../Page/聲優.md "wikilink")，分為兩個時期，詳細請參見[大山羨代時期和](https://zh.wikipedia.org/wiki/哆啦A夢_\(電視動畫\)#大山羨代時期（1979年～2005年） "wikilink")[水田山葵時期的介紹](https://zh.wikipedia.org/wiki/哆啦A夢_\(電視動畫\)#水田山葵時期（2005年至今） "wikilink")。水田山葵版由[楠葉宏三總監督執導](../Page/楠葉宏三.md "wikilink")，製作公司是由[東映動畫所獨立出來的](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")「[SHIN-EI動畫](https://zh.wikipedia.org/wiki/SHIN-EI動畫 "wikilink")」（/，Shinei）（新鋭動畫株式會社）所擔任。
+[日本電視台](../Page/日本電視台.md "wikilink")忽然宣告停止播放六年後，1979年4月2日終於在[朝日電視台](../Page/朝日電視台.md "wikilink")重新再度於-{zh-cn:小屏幕;zh-hant:螢光幕}-上播出《哆啦A夢》。初期是每週一到週五以十分鐘的小節目由朝日電視台（播映區域只在[關東](../Page/關東地方.md "wikilink")）開始放送。六天後（4月8日）才正式順次由朝日電視台全國[聯播網](../Page/聯播網.md "wikilink")各成員電視台播放，時間是在每週日上午8時30分以每次30分鐘的動畫節目播放。而這個版本又因製作群、[聲優](../Page/聲優.md "wikilink")和畫風的不同，分為兩個時期，詳細請參見[大山羨代時期和](https://zh.wikipedia.org/wiki/哆啦A夢_\(電視動畫\)#大山羨代時期（1979年～2005年） "wikilink")[水田山葵時期的介紹](https://zh.wikipedia.org/wiki/哆啦A夢_\(電視動畫\)#水田山葵時期（2005年至今） "wikilink")。水田山葵版由[楠葉宏三](../Page/楠葉宏三.md "wikilink")總監督執導，製作公司是由[東映動畫所獨立出來的](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")「[SHIN-EI動畫](https://zh.wikipedia.org/wiki/SHIN-EI動畫 "wikilink")」（/，Shinei）（新鋭動畫株式會社）所擔任。
 
 ### 大山羨代時期（1979年—2005年）
 
@@ -267,14 +264,11 @@
 
 之后可能还有一版配音，不过无相关资料。
 
-2001/2002年广电总局审查版本（上海配音版）的人物名称翻译除去世修被译作阿忙外与现在基本一致。此版的第一季与第二季片头使用出现哆啦A梦表情包的版本，片头曲则使用陈慧琳演唱的国语版本，没有片尾
-，而早期集数片尾后的几秒钟画面在该版本中也全部遭到删除。此版的第三季片头画面使用与现在的台湾配音版（第2作）片头一致的版本，片头曲则使用山野智子演唱版本，依旧没有片尾。第一季和第二季亦曾在多家电视台播出，而中国大陆视频网站中的正版哆啦A梦前五百多集亦使用该配音版本的第一季和第二季（后面的集数则使用台湾配音版本）。
+2001/2002年广电总局审查版本（上海配音版）的人物名称翻译除去世修被译作阿忙外与现在基本一致。此版的第一季与第二季片头使用出现哆啦A梦表情包的版本，片头曲则使用陈慧琳演唱的国语版本，没有片尾 ，而早期集数片尾后的几秒钟画面在该版本中也全部遭到删除。此版的第三季片头画面使用与现在的台湾配音版（第2作）片头一致的版本，片头曲则使用山野智子演唱版本，依旧没有片尾。第一季和第二季亦曾在多家电视台播出，而中国大陆视频网站中的正版哆啦A梦前五百多集亦使用该配音版本的第一季和第二季（后面的集数则使用台湾配音版本）。
 
-同时，如[南方电视台少儿频道](../Page/南方电视台.md "wikilink")、[江苏卫视等](../Page/江苏卫视.md "wikilink")[电视台也会在一些学生假期播放哆啦A梦第](../Page/电视台.md "wikilink")2作的2001/2002广电总局审查版本，如江苏卫视最近一次播出是在2009年[国际劳动节假期期间](../Page/国际劳动节.md "wikilink")。
+同时，如[南方电视台](../Page/南方电视台.md "wikilink")少儿频道、[江苏卫视](../Page/江苏卫视.md "wikilink")等[电视台](../Page/电视台.md "wikilink")也会在一些学生假期播放哆啦A梦第2作的2001/2002广电总局审查版本，如江苏卫视最近一次播出是在2009年[国际劳动节](../Page/国际劳动节.md "wikilink")假期期间。
 
-[北京电视台卡酷少儿频道等儿童频道曾长期循环播出哆啦A梦第](https://zh.wikipedia.org/wiki/北京电视台卡酷少儿频道 "wikilink")2作的2001/2002广电总局审查版本，第一季&第二季，但目前已停播。
-该版本由[佳韵社代理](https://zh.wikipedia.org/wiki/佳韵社 "wikilink")，第一季（1979） 152集
-\* 24分钟 ；第二季（1979） 641集 \* 24分钟；第三季（特别篇） 52集 \* 24分钟。
+[北京电视台卡酷少儿频道等儿童频道曾长期循环播出哆啦A梦第](https://zh.wikipedia.org/wiki/北京电视台卡酷少儿频道 "wikilink")2作的2001/2002广电总局审查版本，第一季&第二季，但目前已停播。 该版本由[佳韵社代理](https://zh.wikipedia.org/wiki/佳韵社 "wikilink")，第一季（1979） 152集 \* 24分钟 ；第二季（1979） 641集 \* 24分钟；第三季（特别篇） 52集 \* 24分钟。
 
 2006年代理哆啦A梦中国大陆地区业务[艾影](https://zh.wikipedia.org/wiki/艾影 "wikilink")（上海）商贸有限公司正式成立。艾影(上海)商贸有限公司经授权在中国大陆地区独家享有哆啦A梦形象的版权。
 
@@ -282,21 +276,19 @@
 
 ### 香港
 
-香港[無綫電視](../Page/電視廣播有限公司.md "wikilink")（TVB）[翡翠台在](../Page/翡翠台.md "wikilink")1981年8月（一說1982年2月）正式以[粵語播出](https://zh.wikipedia.org/wiki/粵語 "wikilink")，是多啦A夢首個海外播放地\[3\]。播放初期稱為**《叮噹》**，及至1999年6月30日將其改稱為**《多-{啦}-A夢》**。
+香港[無綫電視](../Page/電視廣播有限公司.md "wikilink")（TVB）[翡翠台](../Page/翡翠台.md "wikilink")在1981年8月（一說1982年2月）正式以[粵語播出](https://zh.wikipedia.org/wiki/粵語 "wikilink")，是多啦A夢首個海外播放地\[3\]。播放初期稱為**《叮噹》**，及至1999年6月30日將其改稱為**《多-{啦}-A夢》**。
 
 與日本不同的是，TVB播放多啦A夢並無長期固定時段，而是向日本購入一定集數後，就每星期播放1至5集，有時在兒童節目（先後有《[430-{穿}-梭機](../Page/430穿梭機.md "wikilink")》、《[閃電傳真機](../Page/閃電傳真機.md "wikilink")》、《[至Net小人類](https://zh.wikipedia.org/wiki/至Net小人類 "wikilink")》）內播出，有時以獨立節目形式播出，多是約16:00～17:30的兒童節目時段；播畢購入集數後即停播，若干年後購入新集數又再續播，如是者斷斷續續持續多年，與日本自1981年至今逾36年，均固定星期五19:00～19:30（除了曾短期稍為提早至18:50～19:20）播出的做法大相徑庭。
 
-香港版動畫更創造了一首與日本版旋律一樣的主題曲，初時名為《叮噹》，由兒童合唱團所唱，而其時亦有一首歌曲《畫叮噹》，也是由日本版旋律編上中文歌詞，因為歌詞第一句是「圓圈加一點」，所以也有不少人也稱它為《圓圈加一點》；1990年代初於閃電傳真機時段內播出時，歌曲曾由[陳松齡](https://zh.wikipedia.org/wiki/陳松齡 "wikilink")（現改名[陳松伶](../Page/陳松伶.md "wikilink")）主唱，旋律及歌詞重新編製，但並不流行；及後叮噹正名為多啦A夢，歌曲亦改名為《多啦A夢》，由[陳慧琳主唱](../Page/陳慧琳.md "wikilink")，而當中旋律不變，而這首歌曲也廣為香港兒童傳誦。至2009年1月26日開始，翡翠台開始播放水田版多啦A夢，而主題曲改自《哆啦A夢
-為我實現夢想》的粵語版《夢》，由[廖碧兒主唱](../Page/廖碧兒.md "wikilink")。到2013年3月11日，新一輯的《多啦A夢》主題曲改由歌手[謝安琪主唱](../Page/謝安琪.md "wikilink")，但沿用《夢》的歌詞，同日開始於第二聲道提供日文原曲。
+香港版動畫更創造了一首與日本版旋律一樣的主題曲，初時名為《叮噹》，由兒童合唱團所唱，而其時亦有一首歌曲《畫叮噹》，也是由日本版旋律編上中文歌詞，因為歌詞第一句是「圓圈加一點」，所以也有不少人也稱它為《圓圈加一點》；1990年代初於閃電傳真機時段內播出時，歌曲曾由[陳松齡](https://zh.wikipedia.org/wiki/陳松齡 "wikilink")（現改名[陳松伶](../Page/陳松伶.md "wikilink")）主唱，旋律及歌詞重新編製，但並不流行；及後叮噹正名為多啦A夢，歌曲亦改名為《多啦A夢》，由[陳慧琳](../Page/陳慧琳.md "wikilink")主唱，而當中旋律不變，而這首歌曲也廣為香港兒童傳誦。至2009年1月26日開始，翡翠台開始播放水田版多啦A夢，而主題曲改自《哆啦A夢 為我實現夢想》的粵語版《夢》，由[廖碧兒](../Page/廖碧兒.md "wikilink")主唱。到2013年3月11日，新一輯的《多啦A夢》主題曲改由歌手[謝安琪](../Page/謝安琪.md "wikilink")主唱，但沿用《夢》的歌詞，同日開始於第二聲道提供日文原曲。
 
-由2005年1月3日起連續七年逢星期一17:15（或17:20)於翡翠台播映（當中包括首播及重播、大山版及水田版），但至2012年1月30日於翡翠台播出水田版第235話後就暫停播映新集數，同年起4月2日逢星期一至五18:25～19:00於[J2重播水田版第二輯](../Page/J2.md "wikilink")，6月14日起再度重播水田版第一輯，為首度於翡翠台以外的頻道播出。
+由2005年1月3日起連續七年逢星期一17:15（或17:20)於翡翠台播映（當中包括首播及重播、大山版及水田版），但至2012年1月30日於翡翠台播出水田版第235話後就暫停播映新集數，同年起4月2日逢星期一至五18:25～19:00於[J2](../Page/J2.md "wikilink")重播水田版第二輯，6月14日起再度重播水田版第一輯，為首度於翡翠台以外的頻道播出。
 
-第3輯（第231話開始）《多啦A夢》於2013年2月18日起再次於翡翠台播出，是多年來聲演小夫的香港資深配音員[黃鳳英離開無綫電視的首部作品](../Page/黃鳳英.md "wikilink")\[4\]
-。另一方面，由於數碼[翡翠台於](../Page/翡翠台.md "wikilink")2013年3月18日改以[高清格式廣播](https://zh.wikipedia.org/wiki/高清 "wikilink")，故即日起，接收[數碼頻道之香港觀眾能以高清畫面收看本作](../Page/香港數碼地面電視廣播.md "wikilink")。2014年10月16日起於[J2重播本輯](../Page/J2.md "wikilink")。
+第3輯（第231話開始）《多啦A夢》於2013年2月18日起再次於翡翠台播出，是多年來聲演小夫的香港資深配音員[黃鳳英](../Page/黃鳳英.md "wikilink")離開無綫電視的首部作品\[4\] 。另一方面，由於數碼[翡翠台](../Page/翡翠台.md "wikilink")於2013年3月18日改以[高清格式廣播](https://zh.wikipedia.org/wiki/高清 "wikilink")，故即日起，接收[數碼頻道之香港觀眾能以高清畫面收看本作](../Page/香港數碼地面電視廣播.md "wikilink")。2014年10月16日起於[J2](../Page/J2.md "wikilink")重播本輯。
 
-第4輯（第321話開始）《多啦A夢》於2015年7月7日起再次於翡翠台播出，是多年來聲演多啦A夢的香港資深配音員[林保全離世後和胖虎配音員](../Page/林保全.md "wikilink")[陳卓智離開無綫電視的首部作品](../Page/陳卓智.md "wikilink")，播映時間為逢星期二、三17:20；此外，由第321話起，[無綫電視於官方網站中的](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[myTV提供粵語配音版本供香港市民重溫](https://zh.wikipedia.org/wiki/myTV "wikilink")，限期為7天（第363及364話誤設為14天）。此輯最後一集（第412話）於2015年12月30日播映。2017年8月5日起於翡翠台重播，每週六日播映。
+第4輯（第321話開始）《多啦A夢》於2015年7月7日起再次於翡翠台播出，是多年來聲演多啦A夢的香港資深配音員[林保全](../Page/林保全.md "wikilink")離世後和胖虎配音員[陳卓智](../Page/陳卓智.md "wikilink")離開無綫電視的首部作品，播映時間為逢星期二、三17:20；此外，由第321話起，[無綫電視於官方網站中的](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[myTV提供粵語配音版本供香港市民重溫](https://zh.wikipedia.org/wiki/myTV "wikilink")，限期為7天（第363及364話誤設為14天）。此輯最後一集（第412話）於2015年12月30日播映。2017年8月5日起於翡翠台重播，每週六日播映。
 
-第5輯（第413話開始）《哆啦A夢》於2016年7月4日起再次於翡翠台播出，亦是多年來聲演老師的香港資深配音員[陳曙光退休後的首部作品](../Page/陳曙光.md "wikilink")。此輯最後一集（第516話）於2017年7月3日播映。
+第5輯（第413話開始）《哆啦A夢》於2016年7月4日起再次於翡翠台播出，亦是多年來聲演老師的香港資深配音員[陳曙光](../Page/陳曙光.md "wikilink")退休後的首部作品。此輯最後一集（第516話）於2017年7月3日播映。
 
 第6輯（第517話開始）《哆啦A夢》於2018年7月2日起再次於翡翠台播出。此輯最後一集（第637話）於2019年6月24日播映。
 
@@ -440,21 +432,23 @@
 3.  「夢」
       -
         歌曲：兒童合唱，作詞：[余皓文](https://zh.wikipedia.org/wiki/余皓文 "wikilink")，作曲：黑須克彥，編曲：葉肇中
-        播放日期：2009年1月26日－
+        播放日期：2009年1月26日－2019年6月24日
+4.  「多啦A夢」
+      -
+        歌曲：[菊梓喬](../Page/菊梓喬.md "wikilink")，作詞：鄭國江、甄健強，作曲：菊池俊輔，編曲：[朱俊傑](../Page/朱俊傑.md "wikilink")
+        播放日期：2020年－
 
 ### 臺灣
 
-1994年，[中國電視公司先取得在](https://zh.wikipedia.org/wiki/中國電視公司 "wikilink")[臺灣的公開播映權](../Page/臺灣.md "wikilink")，於8月29日起全台首播。1996年，跳槽至[台灣電視公司](https://zh.wikipedia.org/wiki/台灣電視公司 "wikilink")，同時少部分內容在[衛視中文台晚間時段播映](../Page/衛視中文台.md "wikilink")。1997年，再次跳槽至[中華電視公司](../Page/中華電視公司.md "wikilink")，1999年9月20日起開播，才正式將公開播映權易主。目前《哆啦A夢》在華視主頻及[八大綜合台播出](../Page/八大綜合台.md "wikilink")，八大綜合台播出的是華視[配音版](../Page/配音.md "wikilink")。華視播映時間為每週一至週五18：28至18：58，以[雙語](https://zh.wikipedia.org/wiki/雙語 "wikilink")（主聲道為[國語配音](https://zh.wikipedia.org/wiki/國語 "wikilink")，副聲道為[日語原音](https://zh.wikipedia.org/wiki/日語 "wikilink")）發音的形式播出，然後在2006年中旬\[5\]以後已經改為[國語發音的形式播出](https://zh.wikipedia.org/wiki/國語 "wikilink")。八大綜合台播映時間為周一至周五早上5：30、早上7：30、17：00、周一至周四19：00和周六日的早上8：30及19：00，以單一[國語的形式播出](https://zh.wikipedia.org/wiki/國語 "wikilink")。（以上皆為[臺灣時間](../Page/國家標準時間.md "wikilink")。）
+1994年，[中國電視公司先取得在](https://zh.wikipedia.org/wiki/中國電視公司 "wikilink")[臺灣](../Page/臺灣.md "wikilink")的公開播映權，於8月29日起全台首播。1996年，跳槽至[台灣電視公司](https://zh.wikipedia.org/wiki/台灣電視公司 "wikilink")，同時少部分內容在[衛視中文台](../Page/衛視中文台.md "wikilink")晚間時段播映。1997年，再次跳槽至[中華電視公司](../Page/中華電視公司.md "wikilink")，1999年9月20日起開播，才正式將公開播映權易主。目前《哆啦A夢》在華視主頻及[八大綜合台](../Page/八大綜合台.md "wikilink")播出，八大綜合台播出的是華視[配音](../Page/配音.md "wikilink")版。華視播映時間為每週一至週五18：28至18：58，以[雙語](https://zh.wikipedia.org/wiki/雙語 "wikilink")（主聲道為[國語配音](https://zh.wikipedia.org/wiki/國語 "wikilink")，副聲道為[日語原音](https://zh.wikipedia.org/wiki/日語 "wikilink")）發音的形式播出，然後在2006年中旬\[5\]以後已經改為[國語發音的形式播出](https://zh.wikipedia.org/wiki/國語 "wikilink")。八大綜合台播映時間為周一至周五早上5：30、早上7：30、17：00、周一至周四19：00和周六日的早上8：30及19：00，以單一[國語的形式播出](https://zh.wikipedia.org/wiki/國語 "wikilink")。（以上皆為[臺灣時間](../Page/國家標準時間.md "wikilink")。）
 
 但在2009年新版播映後，原來的舊版動畫開始呈現出相同內容定期連環重播的傾向。2016年8月下旬根據一位提供華視播映記錄的忠實觀眾所述，其中一日播出的兩個內容〈阿拉丁神燈〉與〈神奇天線〉在新版開始播映之後至今為止已經重播約4次\[6\]，而且也有少部分觀眾已經發現到華視與八大電視台在平常日播出的內容多數是日本從1980年代初期到1995年初期首播的內容（自2003年6月6日到2005年3月8日舊版完結的內容僅限於華視播映；八大版本按目前播映情形僅至於2003年5月30日內容），其中在日本於1993年首播的部分內容有跟1988年的混合著播出。
 
 此後對於以上重播次數過高此事華視節目部門曾出面表示過：「《哆啦A夢》舊有集數（也就是所謂的大山版）共計684集，其中有52集過於老舊，尚有632集可輪番播出；《新哆啦A夢》華視目前(2016年)購播至208集，後續仍以每年購買52集左右之新集數交替播出。」\[7\]。
 
-2009年1月19日起，[華視開始播出水田版](https://zh.wikipedia.org/wiki/華視 "wikilink")《哆啦A夢》在台灣稱它為《新哆啦A夢》。當時華視的宣傳片以
-「哆啦A夢變瘦」、「大雄變高」
-作賣點誤導觀眾，事實上是水田版動畫是16:9畫面製作，但台灣觀眾當時看的大多還是4:3畫面的電視機，故畫面有所變形。華視目前固定在於每年暑假期間播出全新一輯的《新哆啦A夢》，隔年寒假期間重播去年暑假播過的集數（2013年與2016年寒假例外），新版集數播映完後便播回大山版《哆啦A夢》(2018年5月3日止)，自2018年5月3日起，華視在大山版播映到4200集後原本的舊版不再播映，同年9月3日八大電視台節目表改點後大山版在台灣正式走入歷史。
+2009年1月19日起，[華視開始播出水田版](https://zh.wikipedia.org/wiki/華視 "wikilink")《哆啦A夢》在台灣稱它為《新哆啦A夢》。當時華視的宣傳片以 「哆啦A夢變瘦」、「大雄變高」 作賣點誤導觀眾，事實上是水田版動畫是16:9畫面製作，但台灣觀眾當時看的大多還是4:3畫面的電視機，故畫面有所變形。華視目前固定在於每年暑假期間播出全新一輯的《新哆啦A夢》，隔年寒假期間重播去年暑假播過的集數（2013年與2016年寒假例外），新版集數播映完後便播回大山版《哆啦A夢》(2018年5月3日止)，自2018年5月3日起，華視在大山版播映到4200集後原本的舊版不再播映，同年9月3日八大電視台節目表改點後大山版在台灣正式走入歷史。
 
-2009年8月3日起，由於版權問題，[中華電信MOD用戶無法看到華視播映的新版](../Page/中華電信MOD.md "wikilink")《哆啦A夢》。
+2009年8月3日起，由於版權問題，[中華電信MOD](../Page/中華電信MOD.md "wikilink")用戶無法看到華視播映的新版《哆啦A夢》。
 
 2010年2月1日，華視再次播出全新一輯的《新哆啦A夢》，本次播出共26集。
 
@@ -468,7 +462,7 @@
 
 2015年7月13日，華視再次播出全新一輯的《新哆啦A夢》，但主題曲錯字又出現，本次播出共26集。
 
-2015年10月1日起，由於數位無線[華視主頻升規為HD規格播出](../Page/華視主頻.md "wikilink")，因此同年11月24日起，[華視綜合娛樂台](../Page/華視綜合娛樂台.md "wikilink")（原華視HD頻道）不再播出新舊版《哆啦A夢》。
+2015年10月1日起，由於數位無線[華視主頻](../Page/華視主頻.md "wikilink")升規為HD規格播出，因此同年11月24日起，[華視綜合娛樂台](../Page/華視綜合娛樂台.md "wikilink")（原華視HD頻道）不再播出新舊版《哆啦A夢》。
 
 2016年7月11日，華視再次播出全新一輯的《新哆啦A夢》，本次播出共26集。
 
@@ -525,8 +519,7 @@
 
   - [](http://hanaballoon.com/ntvdora/)（哆啦A夢房間內舊版哆啦A夢動畫大研究）
 
-  - [](https://web.archive.org/web/20070603173245/http://kiiboo.hp.infoseek.co.jp/)
-    （記載有關當時新聞與宣傳資料的公開網站）
+  - [](https://web.archive.org/web/20070603173245/http://kiiboo.hp.infoseek.co.jp/) （記載有關當時新聞與宣傳資料的公開網站）
 
   - [](https://web.archive.org/web/20070226174949/http://www.tv-asahi.co.jp/doraemon_25/)（～2005年3月的朝日電視台哆啦A夢網站）
 
@@ -561,27 +554,9 @@
 
 <references />
 
-[Category:多啦A夢動畫](https://zh.wikipedia.org/wiki/Category:多啦A夢動畫 "wikilink")
-[Category:1973年日本電視動畫](https://zh.wikipedia.org/wiki/Category:1973年日本電視動畫 "wikilink")
-[Category:1979年日本電視動畫](https://zh.wikipedia.org/wiki/Category:1979年日本電視動畫 "wikilink")
-[Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
-[Category:台視外購動畫](https://zh.wikipedia.org/wiki/Category:台視外購動畫 "wikilink")
-[Category:華視外購動畫](https://zh.wikipedia.org/wiki/Category:華視外購動畫 "wikilink")
-[Category:八大電視外購動畫](https://zh.wikipedia.org/wiki/Category:八大電視外購動畫 "wikilink")
-[Category:朝日電視台動畫](https://zh.wikipedia.org/wiki/Category:朝日電視台動畫 "wikilink")
-[Category:漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:漫畫改編動畫 "wikilink")
-[Category:東森電視外購動畫](https://zh.wikipedia.org/wiki/Category:東森電視外購動畫 "wikilink")
-[Category:時間旅行動畫](https://zh.wikipedia.org/wiki/Category:時間旅行動畫 "wikilink")
-[Category:自主機器人題材動畫](https://zh.wikipedia.org/wiki/Category:自主機器人題材動畫 "wikilink")
-[Category:藤子·F·不二雄](https://zh.wikipedia.org/wiki/Category:藤子·F·不二雄 "wikilink")
-[Category:幼稚園_(雜誌)](https://zh.wikipedia.org/wiki/Category:幼稚園_\(雜誌\) "wikilink")
-[Category:科幻漫畫](https://zh.wikipedia.org/wiki/Category:科幻漫畫 "wikilink")
-[Category:機器人主角題材作品](https://zh.wikipedia.org/wiki/Category:機器人主角題材作品 "wikilink")
-[Category:小學背景漫畫](https://zh.wikipedia.org/wiki/Category:小學背景漫畫 "wikilink")
-[Category:猫主角故事語](https://zh.wikipedia.org/wiki/Category:猫主角故事語 "wikilink")
+[Category:多啦A夢動畫](https://zh.wikipedia.org/wiki/Category:多啦A夢動畫 "wikilink") [Category:1973年日本電視動畫](https://zh.wikipedia.org/wiki/Category:1973年日本電視動畫 "wikilink") [Category:1979年日本電視動畫](https://zh.wikipedia.org/wiki/Category:1979年日本電視動畫 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink") [Category:台視外購動畫](https://zh.wikipedia.org/wiki/Category:台視外購動畫 "wikilink") [Category:華視外購動畫](https://zh.wikipedia.org/wiki/Category:華視外購動畫 "wikilink") [Category:八大電視外購動畫](https://zh.wikipedia.org/wiki/Category:八大電視外購動畫 "wikilink") [Category:朝日電視台動畫](https://zh.wikipedia.org/wiki/Category:朝日電視台動畫 "wikilink") [Category:漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:漫畫改編動畫 "wikilink") [Category:東森電視外購動畫](https://zh.wikipedia.org/wiki/Category:東森電視外購動畫 "wikilink") [Category:時間旅行動畫](https://zh.wikipedia.org/wiki/Category:時間旅行動畫 "wikilink") [Category:自主機器人題材動畫](https://zh.wikipedia.org/wiki/Category:自主機器人題材動畫 "wikilink") [Category:藤子·F·不二雄](https://zh.wikipedia.org/wiki/Category:藤子·F·不二雄 "wikilink") [Category:幼稚園_(雜誌)](https://zh.wikipedia.org/wiki/Category:幼稚園_\(雜誌\) "wikilink") [Category:科幻漫畫](https://zh.wikipedia.org/wiki/Category:科幻漫畫 "wikilink") [Category:機器人主角題材作品](https://zh.wikipedia.org/wiki/Category:機器人主角題材作品 "wikilink") [Category:小學背景漫畫](https://zh.wikipedia.org/wiki/Category:小學背景漫畫 "wikilink") [Category:猫主角故事語](https://zh.wikipedia.org/wiki/Category:猫主角故事語 "wikilink")
 
-1.  [](http://mcsammy.fc2web.com/)（這是當時參予這個作品的工作人員網站。如需要資料必須先申請註冊）；[](http://kiokunokasabuta.web.fc2.com/)
-     （有本作品的考察資料以及真佐美的訪問記事）
+1.  [](http://mcsammy.fc2web.com/)（這是當時參予這個作品的工作人員網站。如需要資料必須先申請註冊）；[](http://kiokunokasabuta.web.fc2.com/)  （有本作品的考察資料以及真佐美的訪問記事）
 2.
 3.
 4.  [《多啦A夢》（第231集開始）2013年2月18日起翡翠台播映](http://talk.doracity.com/viewtopic.php?f=2&t=16948)，叮噹小城，2012年12月19日

@@ -1,10 +1,8 @@
-**NBA三分球大赛**（）是[NBA全明星周末中的一项带有表演性质的比赛](../Page/NBA全明星周末.md "wikilink")，通常是在[NBA全明星赛前的周六举办](https://zh.wikipedia.org/wiki/NBA全明星赛 "wikilink")，每年有六名球员入选此赛事，每人在五個不同位置各投五顆[三分球](../Page/三分球.md "wikilink")，分别是左侧底线、左侧45度角、弧顶、右侧45度角、右侧底线處出手，共計25球。其中每组位置需投五颗球，前四球若命中則为一分，最后一个花色球（Money
-Ball）若命中則為兩分，所以總分為30分。从[2014年NBA全明星赛起](https://zh.wikipedia.org/wiki/2014年NBA全明星赛 "wikilink")，參賽球員可要求大會把一組五顆花色球放在其認爲最有信心的位置，而總分亦順勢變爲34分。前三名进入复赛，预赛成绩不带入复赛計算，复赛中的胜出者为当届的三分球冠军。
+**NBA三分球大赛**（）是[NBA全明星周末](../Page/NBA全明星周末.md "wikilink")中的一项带有表演性质的比赛，通常是在[NBA全明星赛前的周六举办](https://zh.wikipedia.org/wiki/NBA全明星赛 "wikilink")，每年有六名球员入选此赛事，每人在五個不同位置各投五顆[三分球](../Page/三分球.md "wikilink")，分别是左侧底线、左侧45度角、弧顶、右侧45度角、右侧底线處出手，共計25球。其中每组位置需投五颗球，前四球若命中則为一分，最后一个花色球（Money Ball）若命中則為兩分，所以總分為30分。从[2014年NBA全明星赛起](https://zh.wikipedia.org/wiki/2014年NBA全明星赛 "wikilink")，參賽球員可要求大會把一組五顆花色球放在其認爲最有信心的位置，而總分亦順勢變爲34分。前三名进入复赛，预赛成绩不带入复赛計算，复赛中的胜出者为当届的三分球冠军。
 
 ## 三分球大賽歷屆冠軍
 
-[Dirkn.jpg](https://zh.wikipedia.org/wiki/File:Dirkn.jpg "fig:Dirkn.jpg")贏得[2006年的三分球大賽](https://zh.wikipedia.org/wiki/2005-06_NBA賽季 "wikilink")\]\]
-[Jason_Kapono.JPG](https://zh.wikipedia.org/wiki/File:Jason_Kapono.JPG "fig:Jason_Kapono.JPG")在[2008年所屬](https://zh.wikipedia.org/wiki/2007-08_NBA賽季 "wikilink")[多倫多暴龍隊時](https://zh.wikipedia.org/wiki/多倫多暴龍隊 "wikilink")，贏得三分球大賽冠軍。\]\]
+[Dirkn.jpg](https://zh.wikipedia.org/wiki/File:Dirkn.jpg "fig:Dirkn.jpg")贏得[2006年的三分球大賽](https://zh.wikipedia.org/wiki/2005-06_NBA賽季 "wikilink")\]\] [Jason_Kapono.JPG](https://zh.wikipedia.org/wiki/File:Jason_Kapono.JPG "fig:Jason_Kapono.JPG")在[2008年所屬](https://zh.wikipedia.org/wiki/2007-08_NBA賽季 "wikilink")[多倫多暴龍隊時](https://zh.wikipedia.org/wiki/多倫多暴龍隊 "wikilink")，贏得三分球大賽冠軍。\]\]
 
 |         |                                                                        |
 | ------- | ---------------------------------------------------------------------- |
@@ -248,9 +246,9 @@ Ball）若命中則為兩分，所以總分為30分。从[2014年NBA全明星赛
 
 2015年開始三分球大賽由舊制的30分滿分調整為34分滿分，其中由選手自選一個點的5顆球都改為花球(花球若投進均可得兩分)，[斯蒂芬·库里](https://zh.wikipedia.org/wiki/斯蒂芬·库里 "wikilink")2015年&[克雷·湯普森](../Page/克雷·湯普森.md "wikilink")2016年所創下的27分紀錄若用舊制計算則為23分。
 
-[2018年](../Page/2018年NBA全明星賽.md "wikilink")[德文·布克以](../Page/德文·布克.md "wikilink")34分總分內奪得28分締造历史最佳成绩(PS:若以舊制來看，分數為25分)，而舊制的最佳成績則由[傑森·卡波諾於](https://zh.wikipedia.org/wiki/傑森·卡波諾 "wikilink")2008年的比賽中，以30分總分內得25分奪得，他當年同時蟬聯了這項比賽的冠軍。
+[2018年](../Page/2018年NBA全明星賽.md "wikilink")[德文·布克](../Page/德文·布克.md "wikilink")以34分總分內奪得28分締造历史最佳成绩(PS:若以舊制來看，分數為25分)，而舊制的最佳成績則由[傑森·卡波諾於](https://zh.wikipedia.org/wiki/傑森·卡波諾 "wikilink")2008年的比賽中，以30分總分內得25分奪得，他當年同時蟬聯了這項比賽的冠軍。
 
-[迈克尔·乔丹曾经尝试挑战](../Page/迈克尔·乔丹.md "wikilink")1990年的三分球大赛，第一轮只得5分，不但被刷掉，同時创下历史最低。
+[迈克尔·乔丹](../Page/迈克尔·乔丹.md "wikilink")曾经尝试挑战1990年的三分球大赛，第一轮只得5分，不但被刷掉，同時创下历史最低。
 
 1986年三分球大賽，完全是大鳥柏德的表演時間。賽前笑問各路射手誰準備拿第二名；比賽時游刃有餘到試著打板進球；賽後收下1萬美元支票時更笑說這支票上幾個星期前就寫上他的名字。
 
@@ -261,5 +259,4 @@ Ball）若命中則為兩分，所以總分為30分。从[2014年NBA全明星赛
 
 ## 參考資料
 
-[Category:NBA](https://zh.wikipedia.org/wiki/Category:NBA "wikilink")
-[Category:NBA全明星赛](https://zh.wikipedia.org/wiki/Category:NBA全明星赛 "wikilink")
+[Category:NBA](https://zh.wikipedia.org/wiki/Category:NBA "wikilink") [Category:NBA全明星赛](https://zh.wikipedia.org/wiki/Category:NBA全明星赛 "wikilink")

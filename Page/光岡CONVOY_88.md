@@ -1,9 +1,8 @@
-**CONVOY 88**（****）為[光岡汽車所推出的原創作品電動車輛](../Page/光岡汽車.md "wikilink")。
+**CONVOY 88**（****）為[光岡汽車](../Page/光岡汽車.md "wikilink")所推出的原創作品電動車輛。
 
 ## 車輛歷史
 
-2001年10月27日，第35屆[東京車展會場裏](../Page/東京車展.md "wikilink")，初次現身。當時，車輛被命名為ME-II。隔年，第36屆「東京車展」會場裏，公開招募ME-II的新車名。從大約3,500封招募信裏選擇命名，凡當選車輛命名者，將獲贈第一台生產的CONVOY
-88乙部，最終公怖決定新車名為CONVOY 88\[1\]。
+2001年10月27日，第35屆[東京車展](../Page/東京車展.md "wikilink")會場裏，初次現身。當時，車輛被命名為ME-II。隔年，第36屆「東京車展」會場裏，公開招募ME-II的新車名。從大約3,500封招募信裏選擇命名，凡當選車輛命名者，將獲贈第一台生產的CONVOY 88乙部，最終公怖決定新車名為CONVOY 88\[1\]。
 
 ### 車名語源
 
@@ -13,16 +12,13 @@
 
 #### CONVOY 88（2002年－2007年）
 
-2002年10月29日，電動車輛「CONVOY 88」（）發表。「CONVOY
-88」有著世界最窄小的88cm車身，加上有著30kg的承載重量。所以，此車輛也廣獲一般家庭與運輸業者的好評。
+2002年10月29日，電動車輛「CONVOY 88」（）發表。「CONVOY 88」有著世界最窄小的88cm車身，加上有著30kg的承載重量。所以，此車輛也廣獲一般家庭與運輸業者的好評。
 
 2007年8月31日，停止生產。
 
 #### CONVOY 88-Li（2004年－至今）
 
-2004年5月10日，電動車輛「CONVOY 88-Li」（）發表\[2\]。使用電動車輛「CONVOY
-88」為基礎，換裝鋰離子電池（Lithium ion
-Battery）使用。同時，也是日本第一臺使用鋰離子電池的電動車輛\[3\]。當鋰離子電池完成充電後，可具有100km以上的最大航程\[4\]，更適合公司行號使用。
+2004年5月10日，電動車輛「CONVOY 88-Li」（）發表\[2\]。使用電動車輛「CONVOY 88」為基礎，換裝鋰離子電池（Lithium ion Battery）使用。同時，也是日本第一臺使用鋰離子電池的電動車輛\[3\]。當鋰離子電池完成充電後，可具有100km以上的最大航程\[4\]，更適合公司行號使用。
 
 鋰離子電池特性：
 
@@ -86,15 +82,9 @@ Battery）使用。同時，也是日本第一臺使用鋰離子電池的電動�
   - [光岡自動車](http://www.mitsuoka-motor.com)
   - [MITSUOKA-MC.COM](https://web.archive.org/web/20170330011823/http://mitsuoka-mc.com/)
 
-[Category:光岡汽車](https://zh.wikipedia.org/wiki/Category:光岡汽車 "wikilink")
-[Category:微型車](https://zh.wikipedia.org/wiki/Category:微型車 "wikilink")
-[Category:電動車輛](https://zh.wikipedia.org/wiki/Category:電動車輛 "wikilink")
+[Category:光岡汽車](https://zh.wikipedia.org/wiki/Category:光岡汽車 "wikilink") [Category:微型車](https://zh.wikipedia.org/wiki/Category:微型車 "wikilink") [Category:電動車輛](https://zh.wikipedia.org/wiki/Category:電動車輛 "wikilink")
 
-1.  [【東京ショー2002速報】公募でネーミング決定\!
-    ---光岡のマイクロ商用車](http://response.jp/issue/2002/1029/article20464_1.html)，〈response.jp〉
-2.  [名は「コンボイ」　光岡自動車が1人乗り電気自動車](http://www.business-i.jp/news/top-page/topic/art-20040510230419-RJYXYIXBBI.nwc)
-    ，〈business-i.jp〉
-3.  [光岡、マイクロカーに
-    国内で初めてリチウムイオンを搭載](http://www.auto-g.jp/news/200405/10/newcar03/index.html)
-    ，〈auto-g.jp〉
+1.  [【東京ショー2002速報】公募でネーミング決定\! ---光岡のマイクロ商用車](http://response.jp/issue/2002/1029/article20464_1.html)，〈response.jp〉
+2.  [名は「コンボイ」　光岡自動車が1人乗り電気自動車](http://www.business-i.jp/news/top-page/topic/art-20040510230419-RJYXYIXBBI.nwc) ，〈business-i.jp〉
+3.  [光岡、マイクロカーに 国内で初めてリチウムイオンを搭載](http://www.auto-g.jp/news/200405/10/newcar03/index.html) ，〈auto-g.jp〉
 4.  [充電で100km…光岡自動車が開発の電気自動車](http://response.jp/issue/2004/0510/article60099_1.html)，〈response.jp〉

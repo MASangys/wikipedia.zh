@@ -1,7 +1,4 @@
-**Java Anon
-Proxy**[縮寫](../Page/縮寫.md "wikilink")**JAP**，旨在协助[匿名使用](../Page/匿名.md "wikilink")[互联网](../Page/互联网.md "wikilink")，主页上的口号是“匿名&隐私
--
-匿名无罪”。通过将连接逐级加密，来隐藏原始连接。JAP是开源免费软件，采用[Java制作所以自然跨平台](../Page/Java.md "wikilink")，能自动寻找服务器。
+**Java Anon Proxy**[縮寫](../Page/縮寫.md "wikilink")**JAP**，旨在协助[匿名](../Page/匿名.md "wikilink")使用[互联网](../Page/互联网.md "wikilink")，主页上的口号是“匿名&隐私 - 匿名无罪”。通过将连接逐级加密，来隐藏原始连接。JAP是开源免费软件，采用[Java](../Page/Java.md "wikilink")制作所以自然跨平台，能自动寻找服务器。
 
 最初是德国[德累斯顿工业大学](../Page/德累斯顿工业大学.md "wikilink")、[雷根斯堡大学以及](https://zh.wikipedia.org/wiki/雷根斯堡大学 "wikilink")[石勒苏益格-荷尔斯泰因州隐私委员会的研究项目](https://zh.wikipedia.org/wiki/石勒苏益格-荷尔斯泰因州 "wikilink")，现在仍然主要在德国开发。
 
@@ -9,7 +6,7 @@ Proxy**[縮寫](../Page/縮寫.md "wikilink")**JAP**，旨在协助[匿名使用
 
 起初JAP是闭源软件。2003年，有人发现德国刑警在JAP中安装信息审查系统\[1\]，新闻披露后引起很大轰动，导致了用户的不信任，JAP也受到指责。所以接下来JAP开放了源代码，清除审查后门，希望赢得用户信任。
 
-2005年5月，JAP宣布可以接入[Tor网络](../Page/Tor.md "wikilink")，2006年宣布可以接入[Mixminion](https://zh.wikipedia.org/wiki/Mixminion "wikilink")。
+2005年5月，JAP宣布可以接入[Tor](../Page/Tor.md "wikilink")网络，2006年宣布可以接入[Mixminion](https://zh.wikipedia.org/wiki/Mixminion "wikilink")。
 
 ## 评价
 
@@ -29,7 +26,6 @@ Proxy**[縮寫](../Page/縮寫.md "wikilink")**JAP**，旨在协助[匿名使用
 
   - [JAP官方网站](https://anonymous-proxy-servers.net/)
 
-[Category:匿名網路](https://zh.wikipedia.org/wiki/Category:匿名網路 "wikilink")
-[Category:翻墙软件](https://zh.wikipedia.org/wiki/Category:翻墙软件 "wikilink")
+[Category:匿名網路](https://zh.wikipedia.org/wiki/Category:匿名網路 "wikilink") [Category:翻墙软件](https://zh.wikipedia.org/wiki/Category:翻墙软件 "wikilink")
 
 1.  [1](http://www.securityfocus.com/news/6779)

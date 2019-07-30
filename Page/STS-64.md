@@ -9,7 +9,4 @@
   - **[卡尔·米德](https://zh.wikipedia.org/wiki/卡尔·米德 "wikilink")**（，曾执行、以及任务），任务专家
   - **[马克·李](https://zh.wikipedia.org/wiki/马克·李 "wikilink")**（，曾执行、、以及任务），任务专家
 
-[Category:1994年美国](https://zh.wikipedia.org/wiki/Category:1994年美国 "wikilink")
-[Category:1994年科學](https://zh.wikipedia.org/wiki/Category:1994年科學 "wikilink")
-[Category:发现号航天飞机任务](https://zh.wikipedia.org/wiki/Category:发现号航天飞机任务 "wikilink")
-[Category:1994年9月](https://zh.wikipedia.org/wiki/Category:1994年9月 "wikilink")
+[Category:1994年美国](https://zh.wikipedia.org/wiki/Category:1994年美国 "wikilink") [Category:1994年科學](https://zh.wikipedia.org/wiki/Category:1994年科學 "wikilink") [Category:发现号航天飞机任务](https://zh.wikipedia.org/wiki/Category:发现号航天飞机任务 "wikilink") [Category:1994年9月](https://zh.wikipedia.org/wiki/Category:1994年9月 "wikilink")

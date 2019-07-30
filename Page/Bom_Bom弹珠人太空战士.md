@@ -1,7 +1,4 @@
-**ボンバーマンジェッターズ**（**Bomberman Jetters**）台譯**炸彈超人**或**轟炸超人**，港譯**Bom
-Bom彈珠人太空戰士**（[無綫兒童台為](https://zh.wikipedia.org/wiki/無綫兒童台 "wikilink")**Bom
-Bom彈珠人太空保衛篇**），2002年10月2日至2003年9月24日於[東京電視台播映](../Page/東京電視台.md "wikilink")，是遊戲[炸彈人作藍本的改編](https://zh.wikipedia.org/wiki/炸彈人_\(遊戲\) "wikilink")[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")。此作與以前[Bom
-Bom彈珠人](../Page/彈珠人.md "wikilink")（B-爆外傳）系列**不同**，[無綫電視把其翻譯為彈珠可能是取其主角外表相似](../Page/電視廣播有限公司.md "wikilink")。以下內容會以**香港翻譯**作出介紹。
+**ボンバーマンジェッターズ**（**Bomberman Jetters**）台譯**炸彈超人**或**轟炸超人**，港譯**Bom Bom彈珠人太空戰士**（[無綫兒童台為](https://zh.wikipedia.org/wiki/無綫兒童台 "wikilink")**Bom Bom彈珠人太空保衛篇**），2002年10月2日至2003年9月24日於[東京電視台](../Page/東京電視台.md "wikilink")播映，是遊戲[炸彈人作藍本的改編](https://zh.wikipedia.org/wiki/炸彈人_\(遊戲\) "wikilink")[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")。此作與以前[Bom Bom彈珠人](../Page/彈珠人.md "wikilink")（B-爆外傳）系列**不同**，[無綫電視把其翻譯為彈珠可能是取其主角外表相似](../Page/電視廣播有限公司.md "wikilink")。以下內容會以**香港翻譯**作出介紹。
 
 ## 概要
 
@@ -101,7 +98,7 @@ Bom彈珠人](../Page/彈珠人.md "wikilink")（B-爆外傳）系列**不同**�
         彈珠星人。巴古拉與艾因的小學暗戀對象，通稱為桃桃。現在是白寶與穆迪的婆婆，對於兩名孫子的鍛鍊很嚴厲。雖然年紀不小，但功夫了得，而且容易看穿別人內心，但不知道穆迪除了章魚丸之外還喜歡吃什麼。
   - **囡囡（ルーイ）**（配音：寺田はるひ）
       -
-        白寶的朋友，[袋鼠樣野生動物的一種](../Page/袋鼠.md "wikilink")，比白寶成熟。說話「囡～伊」的，目前只有彈珠星人、沙度、岡古能明白他的語言，霸迪則在學習中。與白寶一同自稱為「藍色閃電」。
+        白寶的朋友，[袋鼠](../Page/袋鼠.md "wikilink")樣野生動物的一種，比白寶成熟。說話「囡～伊」的，目前只有彈珠星人、沙度、岡古能明白他的語言，霸迪則在學習中。與白寶一同自稱為「藍色閃電」。
   - **美絲迪（ミスティ）**（配音：日：[松本梨香](../Page/松本梨香.md "wikilink")、港：[曾佩儀](https://zh.wikipedia.org/wiki/曾佩儀 "wikilink")）
       -
         自稱是宇宙神偷的狐狸樣女角色，與希基軍團及捷達斯成敵。喜歡穆迪，但不懂表達自己的想法。總愛說別人單純，或是自己問自己到底在做什麼。在垃圾星救了零式，亦似乎知道零式其實是穆迪。在故事中作為穆迪一直想念的人存在。
@@ -122,14 +119,13 @@ Bom彈珠人](../Page/彈珠人.md "wikilink")（B-爆外傳）系列**不同**�
         沙度的父親，夏海館的老闆。在故事中只出現過兩次臉孔，亦只在最後一集出現對白。聽說他做的拉麵是全宇宙最好的拉麵，艾因及霸迪都非常喜歡光顧他。在失去妻子的同時，他支持著一直在裝堅強的沙度。最後一集似乎與謎之人再婚。
   - **奈津美（ナツミ）**
       -
-        沙度的母親，在1988A[超新星爆炸事件中去世](../Page/超新星.md "wikilink")，墓地立在能看到海的小山丘上。
+        沙度的母親，在1988A[超新星](../Page/超新星.md "wikilink")爆炸事件中去世，墓地立在能看到海的小山丘上。
   - **大佬寶（オヤボン）**（配音：日：[稲田徹](https://zh.wikipedia.org/wiki/稲田徹 "wikilink")、港：[潘文柏](../Page/潘文柏.md "wikilink")）
       -
         前B-1大賽的亞軍，很有大哥的風範，希望與穆迪決一勝負，使用會出現旋風的「大佬彈珠」。
   - **小寶（コボン）**（配音：日：[小林由美子](../Page/小林由美子.md "wikilink")、港：[何璐怡](../Page/何璐怡.md "wikilink")）
       -
-        常常聽大佬寶的說話，與白寶一樣有點自大，因為被白寶所救而與白寶成為好朋友。因為沒有彈珠星（Bomb
-        Star），所以他是彈珠星人卻不能使用彈珠。
+        常常聽大佬寶的說話，與白寶一樣有點自大，因為被白寶所救而與白寶成為好朋友。因為沒有彈珠星（Bomb Star），所以他是彈珠星人卻不能使用彈珠。
   - **大寶（ダイボン）**（配音：日：松山鷹志、港：[黃榮璋](../Page/黃榮璋.md "wikilink")）
       -
         常把「我是個無用的人」掛在嘴邊，為人膽小。為找尋佩佩（配音：[竹內順子](../Page/竹內順子.md "wikilink")）而認識白寶。登場時很有西部警察風格，使用「閃電短打彈珠」。
@@ -138,8 +134,7 @@ Bom彈珠人](../Page/彈珠人.md "wikilink")（B-爆外傳）系列**不同**�
 
   - **彈珠**
       -
-        事實上是指「炸彈」（Bomber），是彈珠人獨有的攻擊武器。有著不同的屬性，可以相剋；如果彈珠人希望，甚至有攻擊以外的用途。丟出彈珠時彈珠人都會說「彈珠射擊（Bomber
-        Shoot）」。理論上彈珠的力量決定在彈珠星的數目，但亦有「彈珠的力量不在於力量本身，而在於內心」的格言。
+        事實上是指「炸彈」（Bomber），是彈珠人獨有的攻擊武器。有著不同的屬性，可以相剋；如果彈珠人希望，甚至有攻擊以外的用途。丟出彈珠時彈珠人都會說「彈珠射擊（Bomber Shoot）」。理論上彈珠的力量決定在彈珠星的數目，但亦有「彈珠的力量不在於力量本身，而在於內心」的格言。
   - **彈珠人**
       -
         指能使用彈珠的彈珠星人。
@@ -148,8 +143,7 @@ Bom彈珠人](../Page/彈珠人.md "wikilink")（B-爆外傳）系列**不同**�
 <!-- end list -->
 
 1.  星球名。（Bomber Planet）
-2.  彈珠人收集的物品，代表自己使用彈珠的實力，一般都放在彈珠人身上腰帶處。傳說有七顆彈珠星就是真正的彈珠人、真正的英雄，但至今仍未有人得到。（Bomb
-    Star）
+2.  彈珠人收集的物品，代表自己使用彈珠的實力，一般都放在彈珠人身上腰帶處。傳說有七顆彈珠星就是真正的彈珠人、真正的英雄，但至今仍未有人得到。（Bomb Star）
 
 <!-- end list -->
 
@@ -208,8 +202,7 @@ Bom彈珠人](../Page/彈珠人.md "wikilink")（B-爆外傳）系列**不同**�
 <!-- end list -->
 
   - OP2
-    Hop\! Skip\! Jump\!（ホップ\! スキップ\!
-    ジャンプ\!）（作詞：すわひでお／作曲：片岡嗣実／編曲：古川竜也／歌：すわひでお）
+    Hop\! Skip\! Jump\!（ホップ\! スキップ\! ジャンプ\!）（作詞：すわひでお／作曲：片岡嗣実／編曲：古川竜也／歌：すわひでお）
 
 <!-- end list -->
 
@@ -284,11 +277,7 @@ Bom彈珠人](../Page/彈珠人.md "wikilink")（B-爆外傳）系列**不同**�
 
 ## 無線電視放映情況
 
-本節目本來於[無綫兒童台翻譯為](https://zh.wikipedia.org/wiki/無綫兒童台 "wikilink")《Bom
-Bom彈珠人太空保衛篇》，其後於2006年改名《Bom
-Bom彈珠人太空戰士》，星期一至五於翡翠台《[放學ICU](../Page/放學ICU.md "wikilink")》時段內放映。於翡翠台首播第1-33、36集時，OP、ED用了美化字幕，把原本的日文字幕蓋住，讀標題亦改成了白寶發射彈珠那一幕，首播時對白亦帶有中文字幕。
-其後因為放學ICU播放《[KERORO軍曹](https://zh.wikipedia.org/wiki/KERORO軍曹 "wikilink")》，本節目被調至星期六早上十一時零五分，放映第34、35、37-52集。當時[無線用了DVD版的特典OP及ED加上美化字幕](../Page/電視廣播有限公司.md "wikilink")，以致OP2、ED2沒有如常分別於第42集及第37集放出，對白帶有字幕，標題則用回原版。
-於2007年9月，翡翠台重播，第1-36集OP、ED及對白已經沒有了美化字幕，標題則改回原版方式；而第37集之後則用星期六首播時的方式，但沒有加上字幕。
+本節目本來於[無綫兒童台翻譯為](https://zh.wikipedia.org/wiki/無綫兒童台 "wikilink")《Bom Bom彈珠人太空保衛篇》，其後於2006年改名《Bom Bom彈珠人太空戰士》，星期一至五於翡翠台《[放學ICU](../Page/放學ICU.md "wikilink")》時段內放映。於翡翠台首播第1-33、36集時，OP、ED用了美化字幕，把原本的日文字幕蓋住，讀標題亦改成了白寶發射彈珠那一幕，首播時對白亦帶有中文字幕。 其後因為放學ICU播放《[KERORO軍曹](https://zh.wikipedia.org/wiki/KERORO軍曹 "wikilink")》，本節目被調至星期六早上十一時零五分，放映第34、35、37-52集。當時[無線用了DVD版的特典OP及ED加上美化字幕](../Page/電視廣播有限公司.md "wikilink")，以致OP2、ED2沒有如常分別於第42集及第37集放出，對白帶有字幕，標題則用回原版。 於2007年9月，翡翠台重播，第1-36集OP、ED及對白已經沒有了美化字幕，標題則改回原版方式；而第37集之後則用星期六首播時的方式，但沒有加上字幕。
 
 ## 遊戲
 
@@ -335,14 +324,8 @@ Bom彈珠人太空戰士》，星期一至五於翡翠台《[放學ICU](../Page/
 
   - [動畫「ボンバーマンジェッターズ」](https://web.archive.org/web/20031204145818/http://www.hudson.co.jp/gamenavi/gamedb/softinfo/bomb_jetters/anime/)
   - [ボンバーマンジェッターズ（ＧＣ）](http://www.hudson.co.jp/gamenavi/gamedb/softinfo/bomb_jetters/)
-  - [ボンバーマンジェッターズ
-    ゲームコレクション（ＧＢＡ）](http://www.hudson.co.jp/gamenavi/gamedb/softinfo/bombj_collection/)
-  - [ボンバーマンジェッターズ
-    伝説のボンバーマン（ＧＢＡ）](https://web.archive.org/web/20040805173221/http://www.hudson.co.jp/gamenavi/gamedb/softinfo/bomb_jetters/top.html)
+  - [ボンバーマンジェッターズ ゲームコレクション（ＧＢＡ）](http://www.hudson.co.jp/gamenavi/gamedb/softinfo/bombj_collection/)
+  - [ボンバーマンジェッターズ 伝説のボンバーマン（ＧＢＡ）](https://web.archive.org/web/20040805173221/http://www.hudson.co.jp/gamenavi/gamedb/softinfo/bomb_jetters/top.html)
   - [Ani-Kraze英文字幕社](https://web.archive.org/web/20070306104533/http://www.anime-kraze.org/)
 
-[Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
-[Category:2002年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2002年日本電視動畫 "wikilink")
-[Category:東京電視網動畫](https://zh.wikipedia.org/wiki/Category:東京電視網動畫 "wikilink")
-[Category:遊戲改編動畫](https://zh.wikipedia.org/wiki/Category:遊戲改編動畫 "wikilink")
-[Category:東森電視外購動畫](https://zh.wikipedia.org/wiki/Category:東森電視外購動畫 "wikilink")
+[Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink") [Category:2002年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2002年日本電視動畫 "wikilink") [Category:東京電視網動畫](https://zh.wikipedia.org/wiki/Category:東京電視網動畫 "wikilink") [Category:遊戲改編動畫](https://zh.wikipedia.org/wiki/Category:遊戲改編動畫 "wikilink") [Category:東森電視外購動畫](https://zh.wikipedia.org/wiki/Category:東森電視外購動畫 "wikilink")

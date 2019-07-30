@@ -1,6 +1,4 @@
-在[计算机科学中](../Page/计算机科学.md "wikilink")，**Bogo排序**（bogo-sort）是個既不實用又原始的[排序演算法](https://zh.wikipedia.org/wiki/排序演算法 "wikilink")，其原理等同將一堆卡片拋起，落在桌上後檢查卡片是否已整齊排列好，若非就再拋一次。其名字源自Quantum
-bogodynamics，又稱bozo sort、blort
-sort或猴子排序（參見[無限猴子定理](../Page/無限猴子定理.md "wikilink")）。
+在[计算机科学](../Page/计算机科学.md "wikilink")中，**Bogo排序**（bogo-sort）是個既不實用又原始的[排序演算法](https://zh.wikipedia.org/wiki/排序演算法 "wikilink")，其原理等同將一堆卡片拋起，落在桌上後檢查卡片是否已整齊排列好，若非就再拋一次。其名字源自Quantum bogodynamics，又稱bozo sort、blort sort或猴子排序（參見[無限猴子定理](../Page/無限猴子定理.md "wikilink")）。
 
 ## 实现
 
@@ -109,8 +107,7 @@ public boolean inOrder(int[] n) {
 
 ## 运行时间
 
-这个[排序算法基于](../Page/排序算法.md "wikilink")[可能性](https://zh.wikipedia.org/wiki/可能性 "wikilink")。平均而言，让所有元素都被排好序的期望比较次数[渐近于](https://zh.wikipedia.org/wiki/渐近 "wikilink")\((e-1) n!\)，期望的位置交换次数渐近\((n-1) n!\)。\[1\]
-期望的位置交换次数增长地比期望比较次数快，是因为只需要比较几对元素就能发现元素是无序的，但是随机地打乱顺序所需要的交换次数却与数据长度成比例。在最差的情况下，交换和比较次数都是无限的，这就像随机投掷硬币可能连续任意次正面向上。
+这个[排序算法](../Page/排序算法.md "wikilink")基于[可能性](https://zh.wikipedia.org/wiki/可能性 "wikilink")。平均而言，让所有元素都被排好序的期望比较次数[渐近于](https://zh.wikipedia.org/wiki/渐近 "wikilink")\((e-1) n!\)，期望的位置交换次数渐近\((n-1) n!\)。\[1\] 期望的位置交换次数增长地比期望比较次数快，是因为只需要比较几对元素就能发现元素是无序的，但是随机地打乱顺序所需要的交换次数却与数据长度成比例。在最差的情况下，交换和比较次数都是无限的，这就像随机投掷硬币可能连续任意次正面向上。
 
 最好的情况是所给的数据是已经排好序的，这种情况下不需要任何位置交换，而比较次数等于\(n-1\)。
 
@@ -124,8 +121,7 @@ public boolean inOrder(int[] n) {
 
 ### 量子Bogo排序
 
-计算机科学家之间的一个笑话说：[量子计算机能够以](../Page/量子计算机.md "wikilink") O(n)
-的复杂度更有效地实现Bogo排序。这将使用真正的量子的随机性来随机打乱列表。根据量子物理学的[多世界诠释](../Page/多世界诠释.md "wikilink")，量子的随机性分别在无限的宇宙序列中展开，其中的一些将会提供一个排好序的列表。因为需要重新排列的次数虽然很大但仍然是有限的。这个列表接着就被测试出来（需要*n-1*次比较）。接着，计算机就应该实施“摧毁宇宙”的操作，使得在剩下的宇宙中的观察者能够得到一个排好序的列表。
+计算机科学家之间的一个笑话说：[量子计算机](../Page/量子计算机.md "wikilink")能够以 O(n) 的复杂度更有效地实现Bogo排序。这将使用真正的量子的随机性来随机打乱列表。根据量子物理学的[多世界诠释](../Page/多世界诠释.md "wikilink")，量子的随机性分别在无限的宇宙序列中展开，其中的一些将会提供一个排好序的列表。因为需要重新排列的次数虽然很大但仍然是有限的。这个列表接着就被测试出来（需要*n-1*次比较）。接着，计算机就应该实施“摧毁宇宙”的操作，使得在剩下的宇宙中的观察者能够得到一个排好序的列表。
 
 ## 參見
 
@@ -137,22 +133,10 @@ public boolean inOrder(int[] n) {
 
 ## 外部連結
 
-  - [Jargon
-    File上的條目](http://www.catb.org/~esr/jargon/html/B/bogo-sort.html)
-  - [Bogosort](http://www.lysator.liu.se/~qha/bogosort/): an
-    implementation that runs on
-    [Unix-like](https://zh.wikipedia.org/wiki/Unix-like "wikilink")
-    systems, similar to the standard
-    [sort](https://zh.wikipedia.org/wiki/sort_\(Unix\) "wikilink")
-    program.
-  - [Bogosort](https://archive.is/20130103015524/http://github.com/versesane/algorithms-and-data-structures-in-c/tree/master/bogosort.c):
-    Simple C++ implementation of bogosort algorithm
+  - [Jargon File上的條目](http://www.catb.org/~esr/jargon/html/B/bogo-sort.html)
+  - [Bogosort](http://www.lysator.liu.se/~qha/bogosort/): an implementation that runs on [Unix-like](https://zh.wikipedia.org/wiki/Unix-like "wikilink") systems, similar to the standard [sort](https://zh.wikipedia.org/wiki/sort_\(Unix\) "wikilink") program.
+  - [Bogosort](https://archive.is/20130103015524/http://github.com/versesane/algorithms-and-data-structures-in-c/tree/master/bogosort.c): Simple C++ implementation of bogosort algorithm
 
 [Category:排序算法](https://zh.wikipedia.org/wiki/Category:排序算法 "wikilink")
 
-1.  H. Gruber, M. Holzer and O. Ruepp: *[Sorting the Slow Way: An
-    Analysis of Perversely Awful Randomized Sorting
-    Algorithms](http://www.tcs.ifi.lmu.de/~gruberh/data/fun07-final.pdf)
-    *, 4th International Conference on Fun with Algorithms,
-    Castiglioncello, Italy, 2007, Lecture Notes in Computer Science
-    4475, pp. 183-197.
+1.  H. Gruber, M. Holzer and O. Ruepp: *[Sorting the Slow Way: An Analysis of Perversely Awful Randomized Sorting Algorithms](http://www.tcs.ifi.lmu.de/~gruberh/data/fun07-final.pdf) *, 4th International Conference on Fun with Algorithms, Castiglioncello, Italy, 2007, Lecture Notes in Computer Science 4475, pp. 183-197.

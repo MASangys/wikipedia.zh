@@ -1,6 +1,4 @@
-是由[史克威尔](https://zh.wikipedia.org/wiki/史克威尔 "wikilink")（今[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")）为索尼[PlayStation游戏机开发并发行的](../Page/PlayStation.md "wikilink")[角色扮演游戏](https://zh.wikipedia.org/wiki/电子角色扮演游戏 "wikilink")。游戏于2000年首发，是[最终幻想系列第](https://zh.wikipedia.org/wiki/最终幻想系列 "wikilink")9部正传，也是系列最后一部首发于初代PlayStation的作品。[史克威爾在授權的港台版攻略與宣傳使用了舊譯名稱](../Page/史克威爾.md "wikilink")「太空-{}-戰士9」，因此此作又有玩家簡稱為太9。游戏2010年作为PSone
-Classics作品通过[PlayStation
-Network发行](../Page/PlayStation_Network.md "wikilink")。游戏为系列引入了“即時事件”“莫古通信网”，并使用独特的装备和技能系统。
+是由[史克威尔](https://zh.wikipedia.org/wiki/史克威尔 "wikilink")（今[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")）为索尼[PlayStation](../Page/PlayStation.md "wikilink")游戏机开发并发行的[角色扮演游戏](https://zh.wikipedia.org/wiki/电子角色扮演游戏 "wikilink")。游戏于2000年首发，是[最终幻想系列第](https://zh.wikipedia.org/wiki/最终幻想系列 "wikilink")9部正传，也是系列最后一部首发于初代PlayStation的作品。[史克威爾](../Page/史克威爾.md "wikilink")在授權的港台版攻略與宣傳使用了舊譯名稱「太空-{}-戰士9」，因此此作又有玩家簡稱為太9。游戏2010年作为PSone Classics作品通过[PlayStation Network发行](../Page/PlayStation_Network.md "wikilink")。游戏为系列引入了“即時事件”“莫古通信网”，并使用独特的装备和技能系统。
 
 《最终幻想IX》的情节围绕国家战争而展开。玩家扮演年轻盗贼吉坦及其伙伴，阻止发动战争的亚历山德里亚女王布拉奈。但当一行明白和布拉奈合作的人物[库加是更大的威胁后](https://zh.wikipedia.org/wiki/库加 "wikilink")，剧情中心发生改变。
 
@@ -8,8 +6,7 @@ Network发行](../Page/PlayStation_Network.md "wikilink")。游戏为系列引�
 
 ## 玩法
 
-在《最终幻想IX》中，玩家操控角色在游戏地图上移动，探索区域并与[非玩家角色互动](../Page/非玩家角色.md "wikilink")。玩家将多数时间用于城镇和迷宫等场景地图上\[2\]。
-游戏使用了“场景图标”辅助玩家探索场景——当玩家角色靠近道具或指示牌时，主角头顶就会出现感叹号图标\[3\]\[4\]。玩家和可以[莫古利对话储存游戏进度](https://zh.wikipedia.org/wiki/莫古利 "wikilink")、支帐篷恢复力量，或是购买道具\[5\]——而前作中这些功能主要通过[存档点实现](https://zh.wikipedia.org/wiki/存档点 "wikilink")。莫古利还会拜托玩家角色将信件送给莫古网络的其他莫古利，玩家角色还能收到其他非玩家角色的信件\[6\]。
+在《最终幻想IX》中，玩家操控角色在游戏地图上移动，探索区域并与[非玩家角色](../Page/非玩家角色.md "wikilink")互动。玩家将多数时间用于城镇和迷宫等场景地图上\[2\]。 游戏使用了“场景图标”辅助玩家探索场景——当玩家角色靠近道具或指示牌时，主角头顶就会出现感叹号图标\[3\]\[4\]。玩家和可以[莫古利对话储存游戏进度](https://zh.wikipedia.org/wiki/莫古利 "wikilink")、支帐篷恢复力量，或是购买道具\[5\]——而前作中这些功能主要通过[存档点实现](https://zh.wikipedia.org/wiki/存档点 "wikilink")。莫古利还会拜托玩家角色将信件送给莫古网络的其他莫古利，玩家角色还能收到其他非玩家角色的信件\[6\]。
 
 玩家通过[世界地图](https://zh.wikipedia.org/wiki/Overworld "wikilink")——以俯视视角、三维画面呈现缩小的《最终幻想IX》的世界——在各场景间旅行\[7\]。玩家可自由在世界地图上移动，水域或山脉等地形无法直接越过，但可以骑[陆行鸟](../Page/陆行鸟.md "wikilink")、乘船，或乘坐[飞空艇突破限制](https://zh.wikipedia.org/wiki/飞空艇 "wikilink")。和最终幻想前作相同，在世界地图和会遇敌的场景地图行走时会[随机遇敌](https://zh.wikipedia.org/wiki/随机遇敌 "wikilink")\[8\]\[9\]。
 
@@ -21,8 +18,7 @@ Network发行](../Page/PlayStation_Network.md "wikilink")。游戏为系列引�
 
 当角色进入“幻化状态”时，菜单就会出现特殊指令。类似于《[最终幻想VII](../Page/最终幻想VII.md "wikilink")》的极限技，不可控的幻化槽随随玩家受到伤害逐渐填充，幻化槽充满时角色就会短暂幻化。幻化角色的力量会提升，同时玩家可以选择特殊攻击指令\[13\]。比如吉坦的“秘技”菜单指令会变成“里技”，可以发动更强力的攻击；比比的“黑魔法”会变成“双黑魔法”，可以同时发动两次魔法\[14\]。玩家可以将设置界面的的战斗风格从常规改成自定，让两名玩家控制在战斗中控制任何角色，然而这必须为PlayStation插入双控制器\[15\]。
 
-角色的战斗表现由速度、力量、魔力等各类量化值（“能力值”）决定。角色能力值由经验值带动；角色战斗胜利会获得[经验值](https://zh.wikipedia.org/wiki/经验值 "wikilink")，而经验值累积到一定程度会让角色升级。当角色升级时，其能力值会永久增长，并随角色所佩装备获得不同加成。战斗胜利还能获得金钱、游戏卡牌Tetra
-Master、道具以及能力值（AP）\[16\]。
+角色的战斗表现由速度、力量、魔力等各类量化值（“能力值”）决定。角色能力值由经验值带动；角色战斗胜利会获得[经验值](https://zh.wikipedia.org/wiki/经验值 "wikilink")，而经验值累积到一定程度会让角色升级。当角色升级时，其能力值会永久增长，并随角色所佩装备获得不同加成。战斗胜利还能获得金钱、游戏卡牌Tetra Master、道具以及能力值（AP）\[16\]。
 
 ### 能力与装备
 
@@ -62,48 +58,43 @@ Master、道具以及能力值（AP）\[16\]。
 
 ## 开发
 
-史克威尔在《[最终幻想VIII](../Page/最终幻想VIII.md "wikilink")》开发尚未完成时即开始着手《最终幻想IX》\[67\]。作为对居住在美国开发者的折衷，游戏在[夏威夷开发](https://zh.wikipedia.org/wiki/夏威夷 "wikilink")\[68\]。作为PlayStation的最后一作，坂口期望“反映”系列旧作。在发售之前，坂口称《最终幻想IX》是他最喜欢的最终幻想游戏，因为这“最贴近（他）对于最终幻想应当如何的理想觀點”\[69\]。这一转变也是对爱好者和其他开发者诉求的回应\[70\]。此外，团队还想创作深入角色发展並可以理解的故事；这促成了“即時事件”的創作\[71\]。游戏剧本由坂口博信编写。他在1998年7月左右开始前期策划\[72\]\[73\]。总监[伊藤裕之提议主人公吉坦喜欢调情女性](../Page/伊藤裕之.md "wikilink")\[74\]。
+史克威尔在《[最终幻想VIII](../Page/最终幻想VIII.md "wikilink")》开发尚未完成时即开始着手《最终幻想IX》\[67\]。作为对居住在美国开发者的折衷，游戏在[夏威夷开发](https://zh.wikipedia.org/wiki/夏威夷 "wikilink")\[68\]。作为PlayStation的最后一作，坂口期望“反映”系列旧作。在发售之前，坂口称《最终幻想IX》是他最喜欢的最终幻想游戏，因为这“最贴近（他）对于最终幻想应当如何的理想觀點”\[69\]。这一转变也是对爱好者和其他开发者诉求的回应\[70\]。此外，团队还想创作深入角色发展並可以理解的故事；这促成了“即時事件”的創作\[71\]。游戏剧本由坂口博信编写。他在1998年7月左右开始前期策划\[72\]\[73\]。总监[伊藤裕之](../Page/伊藤裕之.md "wikilink")提议主人公吉坦喜欢调情女性\[74\]。
 
 在游戏的概念阶段时，开发者明言作品未必會命名為《最终幻想IX》，因为打破《[最终幻想VII](../Page/最终幻想VII.md "wikilink")》和《最终幻想VIII》的寫實主義可能會疏離受眾。爱好者因此推测遊戲可能会作為本传的[外传发行](https://zh.wikipedia.org/wiki/外传 "wikilink")\[75\]。但到1999年下半年，史克威尔确认游戏确实会以《最终幻想IX》名义发售，而到2000年早期时游戏基本完工。开发者数度调整游戏，如结局修改了7次\[76\]。总监伊藤设计游戏的战斗系统\[77\]。
 
-较之于PlayStation前作，开发人员打算讓游戏環境更为“奇幻導向”。创作者希望避免系列设定走向冗余，《最终幻想IX》再度引入中世纪设定，顯然打破了《最终幻想VII》和《最终幻想VIII》的未来主义风格\[78\]。游戏設定中，蒸汽技术正开始广泛应用；人口依赖[水力或](https://zh.wikipedia.org/wiki/水力 "wikilink")[风力为能源](https://zh.wikipedia.org/wiki/风力 "wikilink")，但有时以雾或蒸汽为高级发动机提供能源。游戏设定延续中世纪主题，从[挪威和](https://zh.wikipedia.org/wiki/挪威神话 "wikilink")[北欧神话中获得灵感](../Page/北欧神话.md "wikilink")。伊藤称开发团队“被欧洲历史和神话的深度和戏剧性吸引”\[79\]。《最终幻想IX》网站称，游戏世界的开发調和了“过往的成功元素
-”以及新元素，堪为系列的顶峰\[80\]。创作人將角色設計置於高優先地位\[81\]。回归系列根源还包括角色设计，所創角色更有“漫画式風貌”\[82\]。作曲植松伸夫称，设计人員试图赋予角色现实性並維持漫画風格\[83\]。为实现目的并令習慣《最终幻想VIII》写实设计的爱好者满意，设计师突出創作玩家容易認同的角色\[84\]。
+较之于PlayStation前作，开发人员打算讓游戏環境更为“奇幻導向”。创作者希望避免系列设定走向冗余，《最终幻想IX》再度引入中世纪设定，顯然打破了《最终幻想VII》和《最终幻想VIII》的未来主义风格\[78\]。游戏設定中，蒸汽技术正开始广泛应用；人口依赖[水力或](https://zh.wikipedia.org/wiki/水力 "wikilink")[风力为能源](https://zh.wikipedia.org/wiki/风力 "wikilink")，但有时以雾或蒸汽为高级发动机提供能源。游戏设定延续中世纪主题，从[挪威和](https://zh.wikipedia.org/wiki/挪威神话 "wikilink")[北欧神话](../Page/北欧神话.md "wikilink")中获得灵感。伊藤称开发团队“被欧洲历史和神话的深度和戏剧性吸引”\[79\]。《最终幻想IX》网站称，游戏世界的开发調和了“过往的成功元素 ”以及新元素，堪为系列的顶峰\[80\]。创作人將角色設計置於高優先地位\[81\]。回归系列根源还包括角色设计，所創角色更有“漫画式風貌”\[82\]。作曲植松伸夫称，设计人員试图赋予角色现实性並維持漫画風格\[83\]。为实现目的并令習慣《最终幻想VIII》写实设计的爱好者满意，设计师突出創作玩家容易認同的角色\[84\]。
 
 ### 音乐
 
-《最终幻想IX》的音乐由[植松伸夫创作](../Page/植松伸夫.md "wikilink")，这是到10年后《[最终幻想XIV](../Page/最终幻想XIV.md "wikilink")》之前，最后一部由他独自配乐的最终幻想游戏。在和伊藤的探讨中，植松被告知“你谱写八名角色的曲目，一首激情的战斗曲目，一首激情、唤起危险感，以及约10首其他曲目就可以了。然而植松用了估计一年的时间谱写制作了约160首曲目，其中游戏出现了140首\[85\]\[86\]。
+《最终幻想IX》的音乐由[植松伸夫](../Page/植松伸夫.md "wikilink")创作，这是到10年后《[最终幻想XIV](../Page/最终幻想XIV.md "wikilink")》之前，最后一部由他独自配乐的最终幻想游戏。在和伊藤的探讨中，植松被告知“你谱写八名角色的曲目，一首激情的战斗曲目，一首激情、唤起危险感，以及约10首其他曲目就可以了。然而植松用了估计一年的时间谱写制作了约160首曲目，其中游戏出现了140首\[85\]\[86\]。
 
-植松伸夫使用钢琴谱曲，并采用两种互衬的方法——“我去创作配合游戏场景的音乐，但有时，事件设计师会调整游戏事件来配合我已写成的音乐”\[87\]。植松认为《最终幻想VII》和《最终幻想VIII》有现实主义氛围，但《最终幻想IX》则是奇幻，因此“严肃而傻乎乎且有趣的曲目可与之相适应”。他认为主题曲是[中世纪音乐](https://zh.wikipedia.org/wiki/中世纪音乐 "wikilink")，并获假去欧洲旅行寻找灵感——“看看德国的老城堡等等”。音乐并非完全以中世纪调式谱曲，植松称否则“将会不平衡”且“有些令人厌烦”。他致力于“简洁、温馨”的风格，并使用[卡祖笛和](../Page/卡祖笛.md "wikilink")[扬琴等非常见乐器](https://zh.wikipedia.org/wiki/阿帕拉契扬琴 "wikilink")。因《最终幻想IX》“可以说回归原点”，植松使用了老最终幻想游戏的主乐调，并使用了“老序曲用于战斗音乐”创意，游戏还使用了《[最终幻想](../Page/最终幻想_\(游戏\).md "wikilink")》古鲁古火山和《[最终幻想II](../Page/最终幻想II.md "wikilink")》大混乱城主题曲的编曲\[88\]\[89\]。在游戏开头，还能听到坦塔洛斯乐队还演奏《最终幻想VII》的《路法斯欢迎式典》。
+植松伸夫使用钢琴谱曲，并采用两种互衬的方法——“我去创作配合游戏场景的音乐，但有时，事件设计师会调整游戏事件来配合我已写成的音乐”\[87\]。植松认为《最终幻想VII》和《最终幻想VIII》有现实主义氛围，但《最终幻想IX》则是奇幻，因此“严肃而傻乎乎且有趣的曲目可与之相适应”。他认为主题曲是[中世纪音乐](https://zh.wikipedia.org/wiki/中世纪音乐 "wikilink")，并获假去欧洲旅行寻找灵感——“看看德国的老城堡等等”。音乐并非完全以中世纪调式谱曲，植松称否则“将会不平衡”且“有些令人厌烦”。他致力于“简洁、温馨”的风格，并使用[卡祖笛](../Page/卡祖笛.md "wikilink")和[扬琴等非常见乐器](https://zh.wikipedia.org/wiki/阿帕拉契扬琴 "wikilink")。因《最终幻想IX》“可以说回归原点”，植松使用了老最终幻想游戏的主乐调，并使用了“老序曲用于战斗音乐”创意，游戏还使用了《[最终幻想](../Page/最终幻想_\(游戏\).md "wikilink")》古鲁古火山和《[最终幻想II](../Page/最终幻想II.md "wikilink")》大混乱城主题曲的编曲\[88\]\[89\]。在游戏开头，还能听到坦塔洛斯乐队还演奏《最终幻想VII》的《路法斯欢迎式典》。
 
-植松伸夫在两篇报道中不假思索的称《最终幻想IX》是他最喜爱的配乐\[90\]\[91\]。原版游戏[原声音乐收录了](../Page/原声音乐.md "wikilink")110首曲目；追加原声《最终幻想IX原声音乐Plus》收录了42首新曲目。与《最终幻想VIII》和《最终幻想X》类似，《最终幻想IX》使用了[日本流行乐](https://zh.wikipedia.org/wiki/日本流行乐 "wikilink")[民谣](https://zh.wikipedia.org/wiki/民谣 "wikilink")《Melodies
-of
-Life》。歌曲由植松伸夫作曲，[伊藤裕之](../Page/伊藤裕之.md "wikilink")（以塩见名义）作日语版词，[白鸟英美子演唱](https://zh.wikipedia.org/wiki/白鸟英美子 "wikilink")，英文版由[亚历山大·O·史密斯填词](https://zh.wikipedia.org/wiki/亚历山大·O·史密斯 "wikilink")。
+植松伸夫在两篇报道中不假思索的称《最终幻想IX》是他最喜爱的配乐\[90\]\[91\]。原版游戏[原声音乐](../Page/原声音乐.md "wikilink")收录了110首曲目；追加原声《最终幻想IX原声音乐Plus》收录了42首新曲目。与《最终幻想VIII》和《最终幻想X》类似，《最终幻想IX》使用了[日本流行乐](https://zh.wikipedia.org/wiki/日本流行乐 "wikilink")[民谣](https://zh.wikipedia.org/wiki/民谣 "wikilink")《Melodies of Life》。歌曲由植松伸夫作曲，[伊藤裕之](../Page/伊藤裕之.md "wikilink")（以塩见名义）作日语版词，[白鸟英美子演唱](https://zh.wikipedia.org/wiki/白鸟英美子 "wikilink")，英文版由[亚历山大·O·史密斯填词](https://zh.wikipedia.org/wiki/亚历山大·O·史密斯 "wikilink")。
 
 ## 发行
 
-《最终幻想IX》为避免和竞争者[艾尼克斯的](../Page/艾尼克斯.md "wikilink")《[勇者斗恶龙VII](https://zh.wikipedia.org/wiki/勇者斗恶龙VII "wikilink")》同时发行而延期。2000年10月7日，北美版《最终幻想IX》体验日在[加利福尼亚](https://zh.wikipedia.org/wiki/加利福尼亚 "wikilink")[旧金山的](../Page/旧金山.md "wikilink")[Metreon举办](https://zh.wikipedia.org/wiki/Metreon "wikilink")\[92\]。Metreon也是北美版首發點；游戏内含限量版商品，爱好者在发行庆典上[扮演了最终幻想角色](https://zh.wikipedia.org/wiki/cosplay "wikilink")\[93\]。加拿大版《最终幻想IX》因生产错误未含英文版说明书，数日后史克威尔给加拿大零售店出货英文手册\[94\]。
+《最终幻想IX》为避免和竞争者[艾尼克斯](../Page/艾尼克斯.md "wikilink")的《[勇者斗恶龙VII](https://zh.wikipedia.org/wiki/勇者斗恶龙VII "wikilink")》同时发行而延期。2000年10月7日，北美版《最终幻想IX》体验日在[加利福尼亚](https://zh.wikipedia.org/wiki/加利福尼亚 "wikilink")[旧金山](../Page/旧金山.md "wikilink")的[Metreon举办](https://zh.wikipedia.org/wiki/Metreon "wikilink")\[92\]。Metreon也是北美版首發點；游戏内含限量版商品，爱好者在发行庆典上[扮演了最终幻想角色](https://zh.wikipedia.org/wiki/cosplay "wikilink")\[93\]。加拿大版《最终幻想IX》因生产错误未含英文版说明书，数日后史克威尔给加拿大零售店出货英文手册\[94\]。
 
-游戏在发行前后展开大力推销。從2000年3月6日起，一系列[计算机成像](https://zh.wikipedia.org/wiki/计算机成像 "wikilink")[可口可乐广告中出現了](../Page/可口可乐.md "wikilink")《最终幻想IX》角色。在可口可乐的营销活动中还使用了几名角色的小雕像\[95\]。同年[IGN在他们的一些比赛中奖励最终幻想玩偶和小雕像](../Page/IGN.md "wikilink")\[96\]。
+游戏在发行前后展开大力推销。從2000年3月6日起，一系列[计算机成像](https://zh.wikipedia.org/wiki/计算机成像 "wikilink")[可口可乐](../Page/可口可乐.md "wikilink")广告中出現了《最终幻想IX》角色。在可口可乐的营销活动中还使用了几名角色的小雕像\[95\]。同年[IGN](../Page/IGN.md "wikilink")在他们的一些比赛中奖励最终幻想玩偶和小雕像\[96\]。
 
-《最终幻想IX》还是史克威尔互动服务[PlayOnline的标准检查程序](../Page/PlayOnline.md "wikilink")。PlayOnline初作为《最终幻想X》的互动程序而开发，但这些计划未能实现，成为《最终幻想IX》的战略网站。站点设计为BradyGames和Piggyback
-Interactive游戏官方攻略本的补足，玩家可以购买纸质攻略，获得可以在PlayOnline站点搜索附加秘诀与信息的“关键字”。攻略购买者被此激怒，因为他们认为购买昂贵纸质攻略受骗了。GameSpy将此疏忽选入的“游戏五大愚蠢瞬间”\[97\]，史克威尔在当时正在开发的《最终幻想X》上放弃了这一做法。
+《最终幻想IX》还是史克威尔互动服务[PlayOnline](../Page/PlayOnline.md "wikilink")的标准检查程序。PlayOnline初作为《最终幻想X》的互动程序而开发，但这些计划未能实现，成为《最终幻想IX》的战略网站。站点设计为BradyGames和Piggyback Interactive游戏官方攻略本的补足，玩家可以购买纸质攻略，获得可以在PlayOnline站点搜索附加秘诀与信息的“关键字”。攻略购买者被此激怒，因为他们认为购买昂贵纸质攻略受骗了。GameSpy将此疏忽选入的“游戏五大愚蠢瞬间”\[97\]，史克威尔在当时正在开发的《最终幻想X》上放弃了这一做法。
 
 2012年12月18日，游戏收录于《最终幻想25周年纪念终极包》在日本再版\[98\]。
 
 ## 评价
 
-虽然本作在日本和北美发售初期都是最畅销游戏\[99\]\[100\]，但两区累計销量皆不如《[最终幻想VII](../Page/最终幻想VII.md "wikilink")》和《[最终幻想VIII](../Page/最终幻想VIII.md "wikilink")》\[101\]\[102\]。游戏在日本杂志《[Fami通](../Page/Fami通.md "wikilink")》2006年的史上最佳游戏读者票选中获得第24名\[103\]，2005年在[GameFAQs网站的用户投票中获得第](../Page/GameFAQs.md "wikilink")42名\[104\]。游戏的PS版本在全球售出530万套\[105\]。
+虽然本作在日本和北美发售初期都是最畅销游戏\[99\]\[100\]，但两区累計销量皆不如《[最终幻想VII](../Page/最终幻想VII.md "wikilink")》和《[最终幻想VIII](../Page/最终幻想VIII.md "wikilink")》\[101\]\[102\]。游戏在日本杂志《[Fami通](../Page/Fami通.md "wikilink")》2006年的史上最佳游戏读者票选中获得第24名\[103\]，2005年在[GameFAQs](../Page/GameFAQs.md "wikilink")网站的用户投票中获得第42名\[104\]。游戏的PS版本在全球售出530万套\[105\]。
 
-《最终幻想IX》在日本和美国都获评论称赞。《Fami通》为游戏打出38/40\[106\]。游戏在[Metacritic上的汇总得分为](../Page/Metacritic.md "wikilink")94%，是该站上得分最高的最终幻想游戏\[107\]。
+《最终幻想IX》在日本和美国都获评论称赞。《Fami通》为游戏打出38/40\[106\]。游戏在[Metacritic](../Page/Metacritic.md "wikilink")上的汇总得分为94%，是该站上得分最高的最终幻想游戏\[107\]。
 
-评论称赞游戏图形和怀旧元素。评论指出游戏在其游戏性、角色发展和视觉显示上的实例。GameSpot称其学习曲线容易把握，能力系统不像《最终幻想VII》或《最终幻想VIII》那样复杂\[108\]。各玩家角色独有的能力避免了过强角色的出现。GameSpot称战斗系统有战术性质，扩大的玩家团队得以让玩家和敌人间互动更多\[109\]。然而[IGN不满于游戏漫长的战斗节奏和重复的战斗](../Page/IGN.md "wikilink")，谓其之“令人恼怒”\[110\]；RPGFan认为计量槽增长缓慢不定的幻化系统未达预期效果，同时角色恰敌人被杀前开始幻化\[111\]。
+评论称赞游戏图形和怀旧元素。评论指出游戏在其游戏性、角色发展和视觉显示上的实例。GameSpot称其学习曲线容易把握，能力系统不像《最终幻想VII》或《最终幻想VIII》那样复杂\[108\]。各玩家角色独有的能力避免了过强角色的出现。GameSpot称战斗系统有战术性质，扩大的玩家团队得以让玩家和敌人间互动更多\[109\]。然而[IGN](../Page/IGN.md "wikilink")不满于游戏漫长的战斗节奏和重复的战斗，谓其之“令人恼怒”\[110\]；RPGFan认为计量槽增长缓慢不定的幻化系统未达预期效果，同时角色恰敌人被杀前开始幻化\[111\]。
 
 角色和图形获得积极评价。虽然IGN认为《最终幻想IX》中深入的角色性格通常在其他最终幻想游戏中能看到，但依然表示角色动人且招人喜欢\[112\]。GameSpot认为从角色到他们的对话和特性，都风趣而充满幽默\[113\]。IGN还称，当玩家对角色很多思想和情感问题时，即时时间系统帮助他们理解角色性格\[114\]。RPGFan在评论中称，包括各种尺寸的怪物在内，角色半变形的外观使用了精细的动画和设计。他们给予游戏预渲染背景好评，并称设计师认真对待了原画、动画动作和角色互动。评论认为影片动情且令人信服，和游戏图形的无缝过度有助于情节推动\[115\]。
 
 评论普遍称总体情节主要构建在之前最终幻想作品元素之上，如邪恶的帝国和神秘的反派\[116\]。虽然GameSpot认为主要反派是系列中最没威胁的\[117\]，但IGN认为他是“凯夫卡咯咯笑的邪恶”与“像美少男萨菲罗斯这种受女子喜爱”的完美结合\[118\]。游戏音频方面反响不一。RPGFan等评论认为音乐“平凡无趣”，而GamePro称赞其“从战斗到悲伤到喜剧，在整个故事中（唤起）情感”\[119\]。一些批评称作曲植松伸夫重用了系列过去的一些曲目\[120\]。但评论亦赞同，对于老最终幻想作品爱好者而言，它同其他诸多元素营造了怀旧作品整体效果\[121\]\[122\]\[123\]。
 
-攻略本也受到批评——其强迫购买者登陆在线网站获得信息，而非在实体攻略中提供信息。书籍提供的连接已无法于PlayOnline网站上访问。GameSpot认为Tetra
-Master和《最终幻想VIII》小游戏[三三合会相比差劣且令人困惑](https://zh.wikipedia.org/wiki/三三合会 "wikilink")，游戏中只有其规则的含糊解释，且卡牌虽种类广泛，但游玩完全没有奖励\[124\]。
+攻略本也受到批评——其强迫购买者登陆在线网站获得信息，而非在实体攻略中提供信息。书籍提供的连接已无法于PlayOnline网站上访问。GameSpot认为Tetra Master和《最终幻想VIII》小游戏[三三合会相比差劣且令人困惑](https://zh.wikipedia.org/wiki/三三合会 "wikilink")，游戏中只有其规则的含糊解释，且卡牌虽种类广泛，但游玩完全没有奖励\[124\]。
 
 ## 参考文献
 
@@ -111,15 +102,7 @@ Master和《最终幻想VIII》小游戏[三三合会相比差劣且令人困惑
 
   -
 
-[Category:2000年电子游戏](https://zh.wikipedia.org/wiki/Category:2000年电子游戏 "wikilink")
-[Category:最终幻想IX](https://zh.wikipedia.org/wiki/Category:最终幻想IX "wikilink")
-[Category:最终幻想系列电子游戏](https://zh.wikipedia.org/wiki/Category:最终幻想系列电子游戏 "wikilink")
-[Category:PlayStation_Network游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Network游戏 "wikilink")
-[Category:PlayStation_(游戏机)游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_\(游戏机\)游戏 "wikilink")
-[Category:PlayStation_4游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_4游戏 "wikilink")
-[Category:任天堂Switch游戏](https://zh.wikipedia.org/wiki/Category:任天堂Switch游戏 "wikilink")
-[Category:反战电子游戏](https://zh.wikipedia.org/wiki/Category:反战电子游戏 "wikilink")
-[Category:美國開發電子遊戲](https://zh.wikipedia.org/wiki/Category:美國開發電子遊戲 "wikilink")
+[Category:2000年电子游戏](https://zh.wikipedia.org/wiki/Category:2000年电子游戏 "wikilink") [Category:最终幻想IX](https://zh.wikipedia.org/wiki/Category:最终幻想IX "wikilink") [Category:最终幻想系列电子游戏](https://zh.wikipedia.org/wiki/Category:最终幻想系列电子游戏 "wikilink") [Category:PlayStation_Network游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Network游戏 "wikilink") [Category:PlayStation_(游戏机)游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_\(游戏机\)游戏 "wikilink") [Category:PlayStation_4游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_4游戏 "wikilink") [Category:任天堂Switch游戏](https://zh.wikipedia.org/wiki/Category:任天堂Switch游戏 "wikilink") [Category:反战电子游戏](https://zh.wikipedia.org/wiki/Category:反战电子游戏 "wikilink") [Category:美國開發電子遊戲](https://zh.wikipedia.org/wiki/Category:美國開發電子遊戲 "wikilink")
 
 1.  <http://www.vgchartz.com/game/752/final-fantasy-ix/>
 
@@ -285,11 +268,7 @@ Master和《最终幻想VIII》小游戏[三三合会相比差劣且令人困惑
 
 98.
 
-99. [Dengeki
-    PlayStation](https://zh.wikipedia.org/wiki/Dengeki_PlayStation "wikilink")
-    sales chart, October 2000, published in [Official UK PlayStation
-    Magazine](https://zh.wikipedia.org/wiki/Official_UK_PlayStation_Magazine "wikilink")
-    issue 63
+99. [Dengeki PlayStation](https://zh.wikipedia.org/wiki/Dengeki_PlayStation "wikilink") sales chart, October 2000, published in [Official UK PlayStation Magazine](https://zh.wikipedia.org/wiki/Official_UK_PlayStation_Magazine "wikilink") issue 63
 
 100.
 
@@ -302,8 +281,7 @@ Master和《最终幻想VIII》小游戏[三三合会相比差劣且令人困惑
 104.
 
 105.
-106. プレイステーション - ファイナルファンタジーIX. Weekly Famitsu. No.915 Pt.2. Pg.16. 30
-     June 2006.
+106. プレイステーション - ファイナルファンタジーIX. Weekly Famitsu. No.915 Pt.2. Pg.16. 30 June 2006.
 
 107.
 

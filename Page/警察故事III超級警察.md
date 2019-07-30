@@ -1,6 +1,6 @@
-是一部於1992年上映的[香港電影](https://zh.wikipedia.org/wiki/香港電影 "wikilink")，由[唐季禮擔任導演兼武術指導](../Page/唐季禮.md "wikilink")，以及由[成龍](../Page/成龍.md "wikilink")、[張曼玉和](../Page/張曼玉.md "wikilink")[楊紫瓊擔任領銜主演](https://zh.wikipedia.org/wiki/楊紫瓊 "wikilink")；此電影為《警察故事系列》中的第三部，講述成龍飾演的警察陳家駒的故事。
+是一部於1992年上映的[香港電影](https://zh.wikipedia.org/wiki/香港電影 "wikilink")，由[唐季禮](../Page/唐季禮.md "wikilink")擔任導演兼武術指導，以及由[成龍](../Page/成龍.md "wikilink")、[張曼玉](../Page/張曼玉.md "wikilink")和[楊紫瓊擔任領銜主演](https://zh.wikipedia.org/wiki/楊紫瓊 "wikilink")；此電影為《警察故事系列》中的第三部，講述成龍飾演的警察陳家駒的故事。
 
-值得注意的是在这部影片中[張曼玉最后一次扮演陳家駒的女朋友阿梅](../Page/張曼玉.md "wikilink")，此後张開始接演藝術性較高的電影，也開始了與[王家衛的長期合作](https://zh.wikipedia.org/wiki/王家衛 "wikilink")。楊紫瓊之后主演了本片的一部續集《[超級計劃](../Page/超級計劃.md "wikilink")》。那部續集不能算在《[警察故事](../Page/警察故事.md "wikilink")》系列中，而是一个分岔出的新系列。
+值得注意的是在这部影片中[張曼玉](../Page/張曼玉.md "wikilink")最后一次扮演陳家駒的女朋友阿梅，此後张開始接演藝術性較高的電影，也開始了與[王家衛的長期合作](https://zh.wikipedia.org/wiki/王家衛 "wikilink")。楊紫瓊之后主演了本片的一部續集《[超級計劃](../Page/超級計劃.md "wikilink")》。那部續集不能算在《[警察故事](../Page/警察故事.md "wikilink")》系列中，而是一个分岔出的新系列。
 
 ## 故事
 
@@ -94,15 +94,4 @@
   -
   -
   -
-[Category:1990年代动作片](https://zh.wikipedia.org/wiki/Category:1990年代动作片 "wikilink")
-[Category:續集電影](https://zh.wikipedia.org/wiki/Category:續集電影 "wikilink")
-[Category:香港動作片](https://zh.wikipedia.org/wiki/Category:香港動作片 "wikilink")
-[Category:1990年代香港電影作品](https://zh.wikipedia.org/wiki/Category:1990年代香港電影作品 "wikilink")
-[Category:马来西亚背景电影](https://zh.wikipedia.org/wiki/Category:马来西亚背景电影 "wikilink")
-[Category:毒品相关电影](https://zh.wikipedia.org/wiki/Category:毒品相关电影 "wikilink")
-[Category:嘉禾电影](https://zh.wikipedia.org/wiki/Category:嘉禾电影 "wikilink")
-[Category:唐季禮電影](https://zh.wikipedia.org/wiki/Category:唐季禮電影 "wikilink")
-[Category:金馬獎最佳男主角獲獎電影](https://zh.wikipedia.org/wiki/Category:金馬獎最佳男主角獲獎電影 "wikilink")
-[Category:金馬獎最佳剪輯獲獎電影](https://zh.wikipedia.org/wiki/Category:金馬獎最佳剪輯獲獎電影 "wikilink")
-[Category:卧底题材电影](https://zh.wikipedia.org/wiki/Category:卧底题材电影 "wikilink")
-[Category:佛山背景电影](https://zh.wikipedia.org/wiki/Category:佛山背景电影 "wikilink")
+[Category:1990年代动作片](https://zh.wikipedia.org/wiki/Category:1990年代动作片 "wikilink") [Category:續集電影](https://zh.wikipedia.org/wiki/Category:續集電影 "wikilink") [Category:香港動作片](https://zh.wikipedia.org/wiki/Category:香港動作片 "wikilink") [Category:1990年代香港電影作品](https://zh.wikipedia.org/wiki/Category:1990年代香港電影作品 "wikilink") [Category:马来西亚背景电影](https://zh.wikipedia.org/wiki/Category:马来西亚背景电影 "wikilink") [Category:毒品相关电影](https://zh.wikipedia.org/wiki/Category:毒品相关电影 "wikilink") [Category:嘉禾电影](https://zh.wikipedia.org/wiki/Category:嘉禾电影 "wikilink") [Category:唐季禮電影](https://zh.wikipedia.org/wiki/Category:唐季禮電影 "wikilink") [Category:金馬獎最佳男主角獲獎電影](https://zh.wikipedia.org/wiki/Category:金馬獎最佳男主角獲獎電影 "wikilink") [Category:金馬獎最佳剪輯獲獎電影](https://zh.wikipedia.org/wiki/Category:金馬獎最佳剪輯獲獎電影 "wikilink") [Category:卧底题材电影](https://zh.wikipedia.org/wiki/Category:卧底题材电影 "wikilink") [Category:佛山背景电影](https://zh.wikipedia.org/wiki/Category:佛山背景电影 "wikilink")

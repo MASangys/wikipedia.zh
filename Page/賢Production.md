@@ -1,15 +1,14 @@
-**株式會社賢Production**（，）是[日本一家位於](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[澀谷區](../Page/澀谷區.md "wikilink")\[1\]的[聲優](../Page/聲優.md "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")。簡稱「**賢Pro**（<small></small>）」。
+**株式會社賢Production**（，）是[日本](../Page/日本.md "wikilink")一家位於[東京都](../Page/東京都.md "wikilink")[澀谷區](../Page/澀谷區.md "wikilink")\[1\]的[聲優](../Page/聲優.md "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")。簡稱「**賢Pro**（<small></small>）」。
 
 ## 概要
 
-1984年6月1日，由身兼[演員](../Page/演員.md "wikilink")、[聲優的](../Page/聲優.md "wikilink")**[內海賢二](../Page/內海賢二.md "wikilink")**代表創辦，而內海的妻子——聲優**[野村道子](../Page/野村道子.md "wikilink")**也是該經紀公司的職員。後來，內海辭去賢Production社長轉任主席，現任社長由兒子[內海賢太郎就任](https://zh.wikipedia.org/wiki/內海賢太郎 "wikilink")。
+1984年6月1日，由身兼[演員](../Page/演員.md "wikilink")、[聲優](../Page/聲優.md "wikilink")的**[內海賢二](../Page/內海賢二.md "wikilink")**代表創辦，而內海的妻子——聲優**[野村道子](../Page/野村道子.md "wikilink")**也是該經紀公司的職員。後來，內海辭去賢Production社長轉任主席，現任社長由兒子[內海賢太郎就任](https://zh.wikipedia.org/wiki/內海賢太郎 "wikilink")。
 
 2007年9月1日，賢Production從有限公司登記成為[株式會社](https://zh.wikipedia.org/wiki/株式會社 "wikilink")（股份有限公司）。
 
 賢Production附有養成學校兼子公司Office Duo（）\[2\]。
 
-2017年3月11日，紀念賢Production創立30週年，在[橫濱國際平和會議場國立大劇院舉辦](../Page/橫濱國際平和會議場.md "wikilink")**KENPROCK
-Festival**活動\[3\]。
+2017年3月11日，紀念賢Production創立30週年，在[橫濱國際平和會議場](../Page/橫濱國際平和會議場.md "wikilink")國立大劇院舉辦**KENPROCK Festival**活動\[3\]。
 
 ## 所屬聲優
 
@@ -385,7 +384,7 @@ Festival**活動\[3\]。
   - 水原真也
 
   -
-  - 武曹真之介
+  - 武藏真之介
 
 <!-- end list -->
 
@@ -516,8 +515,7 @@ Festival**活動\[3\]。
 
   - （自由職業）
 
-  - （現所屬：[Across
-    Entertainment](../Page/Across_Entertainment.md "wikilink")）
+  - （現所屬：[Across Entertainment](../Page/Across_Entertainment.md "wikilink")）
 
   -
   - [鈴置洋孝](../Page/鈴置洋孝.md "wikilink")（在籍中死去）
@@ -527,8 +525,7 @@ Festival**活動\[3\]。
   - 平拳（現所屬：Aksent）
 
   -
-  - [-{辻}-親八](../Page/辻親八.md "wikilink")（現所屬：[Office
-    PAC](../Page/Office_PAC.md "wikilink")）
+  - [-{辻}-親八](../Page/辻親八.md "wikilink")（現所屬：[Office PAC](../Page/Office_PAC.md "wikilink")）
 
   - [中澤匡智](../Page/中澤匡智.md "wikilink")（現所屬：東京俳優生活協同組合）
 
@@ -558,13 +555,11 @@ Festival**活動\[3\]。
 
   - （現所屬：代表）
 
-  - [藤原啓治](https://zh.wikipedia.org/wiki/藤原啓治 "wikilink")（現所屬：[AIR
-    AGENCY代表董事](../Page/AIR_AGENCY.md "wikilink")）
+  - [藤原啓治](https://zh.wikipedia.org/wiki/藤原啓治 "wikilink")（現所屬：[AIR AGENCY代表董事](../Page/AIR_AGENCY.md "wikilink")）
 
   - （現所屬：）
 
-  - [增川洋一](../Page/增川洋一.md "wikilink")（現所屬：[Production
-    Ace](../Page/Production_Ace.md "wikilink")）
+  - [增川洋一](../Page/增川洋一.md "wikilink")（現所屬：[Production Ace](../Page/Production_Ace.md "wikilink")）
 
   - （現所屬：[aptepro](https://zh.wikipedia.org/wiki/aptepro "wikilink")）
 
@@ -620,8 +615,7 @@ Festival**活動\[3\]。
   -
   - 廣瀨有香（自由職業）
 
-  - [伏田里穗](../Page/伏田里穗.md "wikilink")（現所屬：[Office
-    Anemone](../Page/Office_Anemone.md "wikilink")）
+  - [伏田里穗](../Page/伏田里穗.md "wikilink")（現所屬：[Office Anemone](../Page/Office_Anemone.md "wikilink")）
 
   - [堀中優希](../Page/堀中優希.md "wikilink")（自由職業）
 
@@ -668,21 +662,17 @@ Festival**活動\[3\]。
 
   - （2013年）
 
-  - [薩爾達傳說
-    眾神的三角神力2](https://zh.wikipedia.org/wiki/塞爾達傳說_眾神的三角力量2 "wikilink")（2013年）
+  - [薩爾達傳說 眾神的三角神力2](https://zh.wikipedia.org/wiki/塞爾達傳說_眾神的三角力量2 "wikilink")（2013年）
 
   - （2014年）
 
-  - [任天堂明星大亂鬥3DS/Wii
-    U](https://zh.wikipedia.org/wiki/任天堂明星大亂鬥3DS/Wii_U "wikilink")（2014年）
+  - [任天堂明星大亂鬥3DS/Wii U](https://zh.wikipedia.org/wiki/任天堂明星大亂鬥3DS/Wii_U "wikilink")（2014年）
 
-  - [真·三國無雙7
-    帝王傳](https://zh.wikipedia.org/wiki/真·三國無雙7#真·三國無雙7_帝王傳 "wikilink")（2015年）
+  - [真·三國無雙7 帝王傳](https://zh.wikipedia.org/wiki/真·三國無雙7#真·三國無雙7_帝王傳 "wikilink")（2015年）
 
   - （2016年）
 
-  - [薩爾達傳說
-    曠野之息](https://zh.wikipedia.org/wiki/塞爾達傳說_曠野之息 "wikilink")（2017年）
+  - [薩爾達傳說 曠野之息](https://zh.wikipedia.org/wiki/塞爾達傳說_曠野之息 "wikilink")（2017年）
 
   - （2017年）
 
@@ -704,10 +694,7 @@ Festival**活動\[3\]。
 
   -
 
-[Category:賢Production](https://zh.wikipedia.org/wiki/Category:賢Production "wikilink")
-[Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink")
-[Category:澀谷區公司](https://zh.wikipedia.org/wiki/Category:澀谷區公司 "wikilink")
-[Category:1984年成立的公司](https://zh.wikipedia.org/wiki/Category:1984年成立的公司 "wikilink")
+[Category:賢Production](https://zh.wikipedia.org/wiki/Category:賢Production "wikilink") [Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink") [Category:澀谷區公司](https://zh.wikipedia.org/wiki/Category:澀谷區公司 "wikilink") [Category:1984年成立的公司](https://zh.wikipedia.org/wiki/Category:1984年成立的公司 "wikilink")
 
 1.
 

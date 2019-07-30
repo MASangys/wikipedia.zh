@@ -1,24 +1,14 @@
-《**TVB周刊**》（英語：TVB
-Weekly）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")（英語：Television
-Broadcasts
-Limited，簡稱TVB）的官方刊物，由香港[電視廣播出版有限公司负责出版发行](https://zh.wikipedia.org/wiki/電視廣播出版有限公司 "wikilink")，主要報道無綫電視的藝員动向和節目資訊，以及其他生活消闲內容，於1997年5月20日創刊，以接替原官方刊物《[香港電視](../Page/香港電視_\(雜誌\).md "wikilink")》，首期[封面人物為](https://zh.wikipedia.org/wiki/封面人物 "wikilink")[沈殿霞](../Page/沈殿霞.md "wikilink")。《TVB周刊》最初為星期二出版，2007年5月28日第518期起改為逢周一-{出版}-，但通常前一天凌晨已可在便利店及報攤購買該期雜誌。創刊首期定價[港幣](https://zh.wikipedia.org/wiki/港幣 "wikilink")8元，在第646期開始售12元，及後改為售港幣13元。2006年7月至12月每周的發行量為61,127本\[1\]。2013年3月推出“TVB
-Zone” 流動應用程式，为《TVB周刋》电子揭頁版。
+《**TVB周刊**》（英語：TVB Weekly）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")（英語：Television Broadcasts Limited，簡稱TVB）的官方刊物，由香港[電視廣播出版有限公司负责出版发行](https://zh.wikipedia.org/wiki/電視廣播出版有限公司 "wikilink")，主要報道無綫電視的藝員动向和節目資訊，以及其他生活消闲內容，於1997年5月20日創刊，以接替原官方刊物《[香港電視](../Page/香港電視_\(雜誌\).md "wikilink")》，首期[封面人物為](https://zh.wikipedia.org/wiki/封面人物 "wikilink")[沈殿霞](../Page/沈殿霞.md "wikilink")。《TVB周刊》最初為星期二出版，2007年5月28日第518期起改為逢周一-{出版}-，但通常前一天凌晨已可在便利店及報攤購買該期雜誌。創刊首期定價[港幣](https://zh.wikipedia.org/wiki/港幣 "wikilink")8元，在第646期開始售12元，及後改為售港幣13元。2006年7月至12月每周的發行量為61,127本\[1\]。2013年3月推出“TVB Zone” 流動應用程式，为《TVB周刋》电子揭頁版。
 
-2018年8月23日，TVB在公布本年中期業績时，宣布《TVB周刊》印刷本將會停刊，由網上版取代。\[2\]TVB周刊在第1109期宣佈，2018年10月1日出版的第1110期為最後一期實體版，其后于TVB
-Weekly网站继续更新網上版。
+2018年8月23日，TVB在公布本年中期業績时，宣布《TVB周刊》印刷本將會停刊，由網上版取代。\[2\]TVB周刊在第1109期宣佈，2018年10月1日出版的第1110期為最後一期實體版，其后于TVB Weekly网站继续更新網上版。
 
 ## 原刊物内容
 
-《TVB周刊》一书两册，主要分為Book A「TVB周刊」及Book B「TVB Life」（后改为TVB
-ZONE，以生活·新智慧为口号），TVB周刊報道藝人消息、電視劇劇情、節目時間表等，TVB
-ZONE介紹其他生活、飲食、親子資訊。周刊有時亦另附「煲劇天書」、「[香港小姐](https://zh.wikipedia.org/wiki/香港小姐 "wikilink")」、农历年生肖运程、生活指南等專題特刊，或剧集主题文件套、年曆咭等赠品，亦曾在每月第一個星期一附上介紹女性護理資訊的「TVBeauty」，在每月最後一個星期一附上「J2
-Magazine」，主要介紹[J2台的節目以及年輕人資訊](https://zh.wikipedia.org/wiki/J2台 "wikilink")。為慶祝無綫台慶和周刊的週年紀念，Book
-A 和Book B 會合併而成為「珍藏号」。
+《TVB周刊》一书两册，主要分為Book A「TVB周刊」及Book B「TVB Life」（后改为TVB ZONE，以生活·新智慧为口号），TVB周刊報道藝人消息、電視劇劇情、節目時間表等，TVB ZONE介紹其他生活、飲食、親子資訊。周刊有時亦另附「煲劇天書」、「[香港小姐](https://zh.wikipedia.org/wiki/香港小姐 "wikilink")」、农历年生肖运程、生活指南等專題特刊，或剧集主题文件套、年曆咭等赠品，亦曾在每月第一個星期一附上介紹女性護理資訊的「TVBeauty」，在每月最後一個星期一附上「J2 Magazine」，主要介紹[J2台的節目以及年輕人資訊](https://zh.wikipedia.org/wiki/J2台 "wikilink")。為慶祝無綫台慶和周刊的週年紀念，Book A 和Book B 會合併而成為「珍藏号」。
 
 ## 大型活动
 
-曾于每年3月舉行的《TVB周刊》最強人氣選舉（2008年后改为《TVB周刊》最強人氣品牌大獎），是周刊舉辦的大型活動之一，由讀者選出最受歡迎的TVB藝人，並會設頒獎典禮表揚當選者。此外亦曾舉辦多屆「TVB
-Cover Girl 選舉」。
+曾于每年3月舉行的《TVB周刊》最強人氣選舉（2008年后改为《TVB周刊》最強人氣品牌大獎），是周刊舉辦的大型活動之一，由讀者選出最受歡迎的TVB藝人，並會設頒獎典禮表揚當選者。此外亦曾舉辦多屆「TVB Cover Girl 選舉」。
 
 ### 最強人氣選舉
 
@@ -64,8 +54,7 @@ Cover Girl 選舉」。
 
 <!-- end list -->
 
-  - 最强人气创意节目：《[名曲满天星](https://zh.wikipedia.org/wiki/名曲满天星 "wikilink")》《[残酷一叮](https://zh.wikipedia.org/wiki/殘酷一叮 "wikilink")》《[香港先生选举](https://zh.wikipedia.org/wiki/香港先生選舉 "wikilink")》《[百法百众](../Page/百法百眾.md "wikilink")》《[继续无敌奖门人](../Page/继续无敌奖门人.md "wikilink")》
-     
+  - 最强人气创意节目：《[名曲满天星](https://zh.wikipedia.org/wiki/名曲满天星 "wikilink")》《[残酷一叮](https://zh.wikipedia.org/wiki/殘酷一叮 "wikilink")》《[香港先生选举](https://zh.wikipedia.org/wiki/香港先生選舉 "wikilink")》《[百法百众](../Page/百法百眾.md "wikilink")》《[继续无敌奖门人](../Page/继续无敌奖门人.md "wikilink")》  
 
 <!-- end list -->
 
@@ -105,9 +94,7 @@ Cover Girl 選舉」。
   - 2003（第四屆）：[沈卓盈](../Page/沈卓盈.md "wikilink")（冠軍）、[王從希](https://zh.wikipedia.org/wiki/王從希 "wikilink")\[3\]
   - 2004（第五屆）：[梁寶賢](https://zh.wikipedia.org/wiki/梁寶賢 "wikilink")（冠軍）、[梁麗瑩](../Page/梁麗瑩.md "wikilink")（季軍）\[4\]
   - 2009 ctf2 真我演繹 Cover Girl 選舉：\[5\]
-  - 2011
-    TVB周刊CoverGirl選舉：[陳婉婷](../Page/陳婉婷_\(演員\).md "wikilink")、[周嘉莉](../Page/周嘉莉.md "wikilink")、[羅伊婷](../Page/羅伊婷.md "wikilink")
-    \[6\]
+  - 2011 TVB周刊CoverGirl選舉：[陳婉婷](../Page/陳婉婷_\(演員\).md "wikilink")、[周嘉莉](../Page/周嘉莉.md "wikilink")、[羅伊婷](../Page/羅伊婷.md "wikilink") \[6\]
 
 現為無綫電視藝員名單：
 
@@ -150,9 +137,7 @@ TVB周刊举办的推广活动及合作
   - [《TVB周刊》官方Facebook](http://facebook.com/tvbwkly)
   - [《TVB Weekly》官方IG](https://www.instagram.com/tvbweekly/)
 
-[Category:香港已停刊雜誌](https://zh.wikipedia.org/wiki/Category:香港已停刊雜誌 "wikilink")
-[Category:香港雜誌](https://zh.wikipedia.org/wiki/Category:香港雜誌 "wikilink")
-[Category:無綫電視](https://zh.wikipedia.org/wiki/Category:無綫電視 "wikilink")
+[Category:香港已停刊雜誌](https://zh.wikipedia.org/wiki/Category:香港已停刊雜誌 "wikilink") [Category:香港雜誌](https://zh.wikipedia.org/wiki/Category:香港雜誌 "wikilink") [Category:無綫電視](https://zh.wikipedia.org/wiki/Category:無綫電視 "wikilink")
 
 1.
 2.

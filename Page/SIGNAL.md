@@ -1,6 +1,4 @@
-《**SIGNAL**》是[KAT-TUN的第](../Page/KAT-TUN.md "wikilink")2張單曲。2006年7月19日開始發售。發行公司為[J-One
-Records](../Page/J_Storm.md "wikilink")。
-此細碟也取下2006年7月份的（[ORICON](https://zh.wikipedia.org/wiki/ORICON "wikilink")）公信榜月冠軍。
+《**SIGNAL**》是[KAT-TUN](../Page/KAT-TUN.md "wikilink")的第2張單曲。2006年7月19日開始發售。發行公司為[J-One Records](../Page/J_Storm.md "wikilink")。 此細碟也取下2006年7月份的（[ORICON](https://zh.wikipedia.org/wiki/ORICON "wikilink")）公信榜月冠軍。
 
 ## 解説
 
@@ -25,19 +23,13 @@ Records](../Page/J_Storm.md "wikilink")。
 ### 詞曲相關
 
 「SIGNAL」
-作詞：[ma-saya](https://zh.wikipedia.org/wiki/ma-saya "wikilink")／[JOKER](https://zh.wikipedia.org/wiki/JOKER "wikilink")　作曲：JOEY
-CARBONE／LISA HUANG　編曲：[AKIRA](../Page/AKIRA.md "wikilink")
+作詞：[ma-saya](https://zh.wikipedia.org/wiki/ma-saya "wikilink")／[JOKER](https://zh.wikipedia.org/wiki/JOKER "wikilink")　作曲：JOEY CARBONE／LISA HUANG　編曲：[AKIRA](../Page/AKIRA.md "wikilink")
 「I'll be with you」
-作詞：[白井裕紀](https://zh.wikipedia.org/wiki/白井裕紀 "wikilink")／[新美香](https://zh.wikipedia.org/wiki/新美香 "wikilink")　作曲：Shusui／Carl
-Sahlin／Peter Ledin／Peter
-Moden　編曲：[長岡成貢](https://zh.wikipedia.org/wiki/長岡成貢 "wikilink")
+作詞：[白井裕紀](https://zh.wikipedia.org/wiki/白井裕紀 "wikilink")／[新美香](https://zh.wikipedia.org/wiki/新美香 "wikilink")　作曲：Shusui／Carl Sahlin／Peter Ledin／Peter Moden　編曲：[長岡成貢](https://zh.wikipedia.org/wiki/長岡成貢 "wikilink")
 
 ## 特別相關
 
-  - [NTT DoCoMo](https://zh.wikipedia.org/wiki/NTT_DoCoMo "wikilink")
-    [new 9
-    series](https://zh.wikipedia.org/wiki/new_9_series "wikilink")
-    手機廣告主題曲
+  - [NTT DoCoMo](https://zh.wikipedia.org/wiki/NTT_DoCoMo "wikilink") [new 9 series](https://zh.wikipedia.org/wiki/new_9_series "wikilink") 手機廣告主題曲
 
 ## 排行榜
 
@@ -55,8 +47,4 @@ Moden　編曲：[長岡成貢](https://zh.wikipedia.org/wiki/長岡成貢 "wiki
 </tbody>
 </table>
 
-[Category:2006年單曲](https://zh.wikipedia.org/wiki/Category:2006年單曲 "wikilink")
-[Category:KAT-TUN歌曲](https://zh.wikipedia.org/wiki/Category:KAT-TUN歌曲 "wikilink")
-[Category:廣告歌曲](https://zh.wikipedia.org/wiki/Category:廣告歌曲 "wikilink")
-[Category:2006年Oricon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2006年Oricon單曲月榜冠軍作品 "wikilink")
-[Category:2006年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2006年Oricon單曲週榜冠軍作品 "wikilink")
+[Category:2006年單曲](https://zh.wikipedia.org/wiki/Category:2006年單曲 "wikilink") [Category:KAT-TUN歌曲](https://zh.wikipedia.org/wiki/Category:KAT-TUN歌曲 "wikilink") [Category:廣告歌曲](https://zh.wikipedia.org/wiki/Category:廣告歌曲 "wikilink") [Category:2006年Oricon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2006年Oricon單曲月榜冠軍作品 "wikilink") [Category:2006年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2006年Oricon單曲週榜冠軍作品 "wikilink")

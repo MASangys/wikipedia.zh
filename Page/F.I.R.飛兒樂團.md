@@ -1,14 +1,10 @@
-**飛兒樂團（F.I.R.）**，為華語樂壇少見一女二男三人組合樂團，由現任主唱Lydia（*韓睿）、*吉他手REAL
-阿沁（*黃漢青*）、鍵盤手IAN（*陳建寧*）組成。Faye 飛（*詹雯婷已離團*）為樂團前主唱 。
+**飛兒樂團（F.I.R.）**，為華語樂壇少見一女二男三人組合樂團，由現任主唱Lydia（*韓睿）、*吉他手REAL 阿沁（*黃漢青*）、鍵盤手IAN（*陳建寧*）組成。Faye 飛（*詹雯婷*）（*已離團*）為樂團前主唱 。
 
 ## 樂團歷程
 
-F.I.R.於2004年出道，推出首張專輯《[F.I.R.飛兒樂團
-同名專輯](../Page/F.I.R.飛兒樂團_同名專輯.md "wikilink")》，其出道歌曲《Lydia》搭配為[八大電視偶像劇](../Page/八大電視.md "wikilink")《[鬥魚](../Page/鬥魚_\(電視劇\).md "wikilink")》的片尾曲，在其正式出道前即在台灣各商業媒體大量曝光，因而在[亞洲及](https://zh.wikipedia.org/wiki/亞洲 "wikilink")[華人世界一炮而紅](https://zh.wikipedia.org/wiki/華人 "wikilink")。而《Lydia》和《Fly
-Away》兩首歌也曾經被韓國與日本藝人翻唱。F.I.R.出道至今，幾乎所有歌曲都是由團員自行創作。
+F.I.R.於2004年出道，推出首張專輯《[F.I.R.飛兒樂團 同名專輯](../Page/F.I.R.飛兒樂團_同名專輯.md "wikilink")》，其出道歌曲《Lydia》搭配為[八大電視](../Page/八大電視.md "wikilink")偶像劇《[鬥魚](../Page/鬥魚_\(電視劇\).md "wikilink")》的片尾曲，在其正式出道前即在台灣各商業媒體大量曝光，因而在[亞洲及](https://zh.wikipedia.org/wiki/亞洲 "wikilink")[華人世界一炮而紅](https://zh.wikipedia.org/wiki/華人 "wikilink")。而《Lydia》和《Fly Away》兩首歌也曾經被韓國與日本藝人翻唱。F.I.R.出道至今，幾乎所有歌曲都是由團員自行創作。
 
-2005年5月28日，憑《[F.I.R.飛兒樂團
-同名專輯](../Page/F.I.R.飛兒樂團_同名專輯.md "wikilink")》，獲得第16屆金曲獎「[最佳國語演唱新人獎](../Page/最佳新人獎_\(金曲獎\).md "wikilink")」\[1\]。
+2005年5月28日，憑《[F.I.R.飛兒樂團 同名專輯](../Page/F.I.R.飛兒樂團_同名專輯.md "wikilink")》，獲得第16屆金曲獎「[最佳國語演唱新人獎](../Page/最佳新人獎_\(金曲獎\).md "wikilink")」\[1\]。
 
 2007年10月20日，初次登上[臺北小巨蛋舞臺開唱舉辦](https://zh.wikipedia.org/wiki/臺北小巨蛋 "wikilink")「第十行星世界巡迴演唱會」，亦為F.I.R.首次在小巨蛋舉辦大型售票演唱會\[2\]。
 
@@ -18,8 +14,7 @@ Away》兩首歌也曾經被韓國與日本藝人翻唱。F.I.R.出道至今，�
 
 2015年6月16日宣布加盟[華研國際音樂](../Page/華研國際音樂.md "wikilink")\[5\]。
 
-2018年2月22日主唱Faye對於F.I.R.即將發新專輯卻未告知她，且她也未參與專輯製作，因此在臉書發文表示已是F.I.R.局外人，發出聲明避免混淆
-\[6\]；團員阿沁對主唱飛「被退團」表示自己不知情 \[7\]。
+2018年2月22日主唱Faye對於F.I.R.即將發新專輯卻未告知她，且她也未參與專輯製作，因此在臉書發文表示已是F.I.R.局外人，發出聲明避免混淆 \[6\]；團員阿沁對主唱飛「被退團」表示自己不知情 \[7\]。
 
 2018年8月22日發表鬥魚電影主題曲（星火），MV突破3000萬點閱。
 
@@ -39,11 +34,7 @@ Away》兩首歌也曾經被韓國與日本藝人翻唱。F.I.R.出道至今，�
 
 ### F.I.R.
 
-F.I.R.剛成軍，尚未與[華納唱片簽約時](https://zh.wikipedia.org/wiki/華納唱片 "wikilink")，原團名為「KISS
-IN
-REALITY」（真實之吻），縮寫為K.I.R.。與華納簽約後，公司老闆換掉了“K.I.R.”這個團名，改回原先三人成立樂團後第一個英文團名"Fairyland
-In
-Reality"（真實中的夢幻仙境），F.I.R.這個名稱恰好也是三位團員的英文名第一個字母縮寫組成的。然而中文名字卻一直搞不定，直到一次突發奇想，將中文團名取為飛兒，曾一度想放棄不用，但最後華納唱片決定使用此中文團名。
+F.I.R.剛成軍，尚未與[華納唱片簽約時](https://zh.wikipedia.org/wiki/華納唱片 "wikilink")，原團名為「KISS IN REALITY」（真實之吻），縮寫為K.I.R.。與華納簽約後，公司老闆換掉了“K.I.R.”這個團名，改回原先三人成立樂團後第一個英文團名"Fairyland In Reality"（真實中的夢幻仙境），F.I.R.這個名稱恰好也是三位團員的英文名第一個字母縮寫組成的。然而中文名字卻一直搞不定，直到一次突發奇想，將中文團名取為飛兒，曾一度想放棄不用，但最後華納唱片決定使用此中文團名。
 
 在台灣，多以F.I.R.來稱呼，而在中國大陆則多稱呼他們為飛兒樂團。
 
@@ -71,7 +62,7 @@ Reality"（真實中的夢幻仙境），F.I.R.這個名稱恰好也是三位團
 <p><a href="../Page/陳建寧.md" title="wikilink">陳建寧</a>（Ian）</p></td>
 <td><ul>
 <li>生日：</li>
-<li>學歷：<a href="../Page/中原大學.md" title="wikilink">中原大學心理學系畢業</a>、<a href="../Page/國立臺北大學.md" title="wikilink">國立臺北大學企業管理研究所碩士</a></li>
+<li>學歷：<a href="../Page/中原大學.md" title="wikilink">中原大學</a>心理學系畢業、<a href="../Page/國立臺北大學.md" title="wikilink">國立臺北大學</a>企業管理研究所碩士</li>
 <li>擔任：鍵盤樂器、部分音樂編曲、和聲、作詞、作曲</li>
 <li>擅長樂器：吉他、鍵盤鋼琴</li>
 </ul></td>
@@ -84,7 +75,7 @@ Reality"（真實中的夢幻仙境），F.I.R.這個名稱恰好也是三位團
 <p><a href="https://zh.wikipedia.org/wiki/黃漢青" title="wikilink">黃漢青</a>（Real）</p></td>
 <td><ul>
 <li>生日：</li>
-<li>學歷：<a href="https://zh.wikipedia.org/wiki/天主教輔仁大學" title="wikilink">天主教輔仁大學統計資訊學系肄業</a>、哲學系肄業<a href="../Page/國立臺北大學.md" title="wikilink">國立臺北大學進修部企業管理學系肄業</a>、<a href="../Page/東南科技大學.md" title="wikilink">東南科技大學就讀中</a></li>
+<li>學歷：<a href="https://zh.wikipedia.org/wiki/天主教輔仁大學" title="wikilink">天主教輔仁大學統計資訊學系肄業</a>、哲學系肄業<a href="../Page/國立臺北大學.md" title="wikilink">國立臺北大學</a>進修部企業管理學系肄業、<a href="../Page/東南科技大學.md" title="wikilink">東南科技大學</a>就讀中</li>
 <li>擔任：吉他、E.Guitar（電吉他）、部分音樂編曲、和聲、作詞、作曲</li>
 <li>擅長樂器：原音吉他、E.Guitar（電吉他）、部分鍵盤樂器</li>
 </ul></td>
@@ -143,8 +134,7 @@ Reality"（真實中的夢幻仙境），F.I.R.這個名稱恰好也是三位團
 
 ### F.I.R. Live Band
 
-F.I.R. Live
-Band目前的團員由F.I.R.第五張專輯開始加入，成員包含了來自世界各國的華人音樂人，樂手特性會包含[爵士](../Page/爵士.md "wikilink")、[搖滾](https://zh.wikipedia.org/wiki/搖滾 "wikilink")、[民俗等不同領域](../Page/民俗.md "wikilink")。這些具有強烈個人風格的專業樂手會出現在F.I.R.公開的現場演出活動如演唱會、簽唱會、以及各種型式的現場表演。
+F.I.R. Live Band目前的團員由F.I.R.第五張專輯開始加入，成員包含了來自世界各國的華人音樂人，樂手特性會包含[爵士](../Page/爵士.md "wikilink")、[搖滾](https://zh.wikipedia.org/wiki/搖滾 "wikilink")、[民俗](../Page/民俗.md "wikilink")等不同領域。這些具有強烈個人風格的專業樂手會出現在F.I.R.公開的現場演出活動如演唱會、簽唱會、以及各種型式的現場表演。
 
 <table style="width:10%;">
 <colgroup>
@@ -408,7 +398,7 @@ Band目前的團員由F.I.R.第五張專輯開始加入，成員包含了來自�
 <td><p>2007</p></td>
 <td><p><strong>時空寄情</strong></p></td>
 <td><ul>
-<li>收錄於<a href="../Page/馬兆駿.md" title="wikilink">馬兆駿追思音樂會</a></li>
+<li>收錄於<a href="../Page/馬兆駿.md" title="wikilink">馬兆駿</a>追思音樂會</li>
 <li>原唱為<a href="../Page/黃鶯鶯.md" title="wikilink">黃鶯鶯</a></li>
 </ul></td>
 <td></td>
@@ -419,7 +409,7 @@ Band目前的團員由F.I.R.第五張專輯開始加入，成員包含了來自�
 <td><p>F.I.R.飛兒樂團、<a href="../Page/老狼.md" title="wikilink">老狼</a>、<a href="../Page/金海心.md" title="wikilink">金海心</a>、<a href="../Page/張菲.md" title="wikilink">張菲</a>、<a href="../Page/5566.md" title="wikilink">5566</a>、<a href="../Page/七朵花.md" title="wikilink">七朵花</a>、<a href="https://zh.wikipedia.org/wiki/美美" title="wikilink">美美</a>、<a href="https://zh.wikipedia.org/wiki/183CLUB" title="wikilink">183CLUB</a>、<a href="../Page/蔡淳佳.md" title="wikilink">蔡淳佳</a>、<a href="https://zh.wikipedia.org/wiki/方大同" title="wikilink">方大同</a>、<a href="../Page/辛曉琪.md" title="wikilink">辛曉琪</a>、<a href="../Page/徐若瑄.md" title="wikilink">徐若瑄</a>、<a href="https://zh.wikipedia.org/wiki/陳偉聯" title="wikilink">陳偉聯</a>、<a href="../Page/郭采潔.md" title="wikilink">郭采潔</a>、<a href="https://zh.wikipedia.org/wiki/薛凱琪" title="wikilink">薛凱琪</a>、<a href="../Page/蕭敬騰.md" title="wikilink">蕭敬騰</a>、<a href="../Page/黑Girl.md" title="wikilink">黑Girl</a></p></td>
 <td><ul>
 <li>為<a href="https://zh.wikipedia.org/wiki/四川" title="wikilink">四川大地震演唱</a></li>
-<li>原唱者為<a href="../Page/飛碟唱片.md" title="wikilink">飛碟唱片眾歌手</a>：<a href="../Page/呂方.md" title="wikilink">呂方</a>、<a href="../Page/伊能靜.md" title="wikilink">伊能靜</a>、<a href="https://zh.wikipedia.org/wiki/姜育恆" title="wikilink">姜育恆</a>、<a href="../Page/葉歡.md" title="wikilink">葉歡</a>、<a href="../Page/溫兆倫.md" title="wikilink">溫兆倫</a>、任潔玲、劉漢強、<a href="../Page/潘越雲.md" title="wikilink">潘越雲</a>、<a href="../Page/鄭華娟.md" title="wikilink">鄭華娟</a>、<a href="https://zh.wikipedia.org/wiki/李碧華" title="wikilink">李碧華</a>、<a href="https://zh.wikipedia.org/wiki/錢薇娟" title="wikilink">錢薇娟</a>,<a href="../Page/蕭福德.md" title="wikilink">蕭福德</a>、<a href="https://zh.wikipedia.org/wiki/陶晶瑩" title="wikilink">陶晶瑩</a>、張小雯、林濛、<a href="../Page/關德輝.md" title="wikilink">關德輝</a>、郭嘉欣等17位歌手</li>
+<li>原唱者為<a href="../Page/飛碟唱片.md" title="wikilink">飛碟唱片</a>眾歌手：<a href="../Page/呂方.md" title="wikilink">呂方</a>、<a href="../Page/伊能靜.md" title="wikilink">伊能靜</a>、<a href="https://zh.wikipedia.org/wiki/姜育恆" title="wikilink">姜育恆</a>、<a href="../Page/葉歡.md" title="wikilink">葉歡</a>、<a href="../Page/溫兆倫.md" title="wikilink">溫兆倫</a>、任潔玲、劉漢強、<a href="../Page/潘越雲.md" title="wikilink">潘越雲</a>、<a href="../Page/鄭華娟.md" title="wikilink">鄭華娟</a>、<a href="https://zh.wikipedia.org/wiki/李碧華" title="wikilink">李碧華</a>、<a href="https://zh.wikipedia.org/wiki/錢薇娟" title="wikilink">錢薇娟</a>,<a href="../Page/蕭福德.md" title="wikilink">蕭福德</a>、<a href="https://zh.wikipedia.org/wiki/陶晶瑩" title="wikilink">陶晶瑩</a>、張小雯、林濛、<a href="../Page/關德輝.md" title="wikilink">關德輝</a>、郭嘉欣等17位歌手</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -452,7 +442,7 @@ Band目前的團員由F.I.R.第五張專輯開始加入，成員包含了來自�
 <tr class="odd">
 <td><p>2011</p></td>
 <td><p><strong>Believe（相信愛）</strong></p></td>
-<td><p><a href="../Page/馬英九.md" title="wikilink">馬英九旁白</a>，其他群星合唱。[10]</p></td>
+<td><p><a href="../Page/馬英九.md" title="wikilink">馬英九</a>旁白，其他群星合唱。[10]</p></td>
 <td><ul>
 <li>《相信希望fight &amp; smile》日本311大地震募款賑災晚會主題曲。</li>
 <li>陳建寧、謝宥慧作詞，陳建寧作曲</li>
@@ -463,8 +453,8 @@ Band目前的團員由F.I.R.第五張專輯開始加入，成員包含了來自�
 <td><p><strong>愛永遠</strong></p></td>
 <td><p>F.I.R.飛兒樂團、<a href="../Page/黃小琥.md" title="wikilink">黃小琥</a>、<a href="../Page/蕭煌奇.md" title="wikilink">蕭煌奇</a>、<a href="../Page/于美人.md" title="wikilink">于美人</a>、<a href="../Page/楊培安.md" title="wikilink">楊培安</a>、<a href="../Page/王彩樺.md" title="wikilink">王彩樺</a>、<a href="../Page/柯震東.md" title="wikilink">柯震東</a>、<a href="../Page/Dream_Girls.md" title="wikilink">Dream Girls</a>、<a href="../Page/安心亞.md" title="wikilink">安心亞</a>、<a href="https://zh.wikipedia.org/wiki/豆花妹" title="wikilink">豆花妹</a>、<a href="https://zh.wikipedia.org/wiki/賴雅妍" title="wikilink">賴雅妍</a>、<a href="../Page/孫協志.md" title="wikilink">孫協志</a>、<a href="../Page/王傳一.md" title="wikilink">王傳一</a>、<a href="../Page/馬念先.md" title="wikilink">馬念先</a>、<a href="../Page/陳思函.md" title="wikilink">陳思函</a>、<a href="../Page/解偉苓.md" title="wikilink">解偉苓</a></p></td>
 <td><ul>
-<li>門諾醫院 壽豐護理之家 2012募款主題曲，由<a href="../Page/陳建寧.md" title="wikilink">陳建寧老師發起</a>。</li>
-<li>由<a href="../Page/陳建寧.md" title="wikilink">陳建寧作詞作曲</a>。</li>
+<li>門諾醫院 壽豐護理之家 2012募款主題曲，由<a href="../Page/陳建寧.md" title="wikilink">陳建寧</a>老師發起。</li>
+<li>由<a href="../Page/陳建寧.md" title="wikilink">陳建寧</a>作詞作曲。</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -518,7 +508,7 @@ Band目前的團員由F.I.R.第五張專輯開始加入，成員包含了來自�
 | 《休止符》             | [陳永熙](https://zh.wikipedia.org/wiki/陳永熙 "wikilink")                                                                                                                                                                                                                                                                                                                                                                                                                                               |                                                              |                                      |
 | 《親愛的朋友》           | [馬奕強](https://zh.wikipedia.org/wiki/馬奕強 "wikilink")                                                                                                                                                                                                                                                                                                                                                                                                                                               |                                                              |                                      |
 | **2003年**         | 《有人在等你》                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | [何耀珊](../Page/何耀珊.md "wikilink")                             | 孤單旅行                                 |
-| 《遺失的美好》           | [張韶涵](../Page/張韶涵.md "wikilink")                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | [海豚灣戀人原聲帶](../Page/海豚灣戀人.md "wikilink")                      |                                      |
+| 《遺失的美好》           | [張韶涵](../Page/張韶涵.md "wikilink")                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | [海豚灣戀人](../Page/海豚灣戀人.md "wikilink")原聲帶                      |                                      |
 | 《我們之間的距離》         | [劉恆](https://zh.wikipedia.org/wiki/劉恆 "wikilink")。[高因軒](https://zh.wikipedia.org/wiki/高因軒 "wikilink")                                                                                                                                                                                                                                                                                                                                                                                             | 粉紅教父小甜甜原聲帶                                                   |                                      |
 | 《DIAMOND RING》    | [安雅](https://zh.wikipedia.org/wiki/安雅 "wikilink")                                                                                                                                                                                                                                                                                                                                                                                                                                                 |                                                              |                                      |
 | 《夏天的微笑》           | [S.H.E](../Page/S.H.E.md "wikilink")                                                                                                                                                                                                                                                                                                                                                                                                                                                              | SUPER STAR                                                   |                                      |
@@ -546,7 +536,7 @@ Band目前的團員由F.I.R.第五張專輯開始加入，成員包含了來自�
 | 《幸福不滅》            | [羅志祥](../Page/羅志祥.md "wikilink")                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | 潮男正傳                                                         |                                      |
 | **2009年**         | 《妥協》                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | [蔡依林](../Page/蔡依林.md "wikilink")                             | 花蝴蝶                                  |
 | **2010年**         | 《習慣就好》                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | [羅志祥](../Page/羅志祥.md "wikilink")                             | 羅生門                                  |
-| 《冬末之戀》            | [賴雅妍](https://zh.wikipedia.org/wiki/賴雅妍 "wikilink")、[楊千霈](../Page/楊千霈.md "wikilink")、[修杰楷](../Page/修杰楷.md "wikilink")、[藍鈞天](../Page/藍鈞天.md "wikilink")、[周孝安](../Page/周孝安.md "wikilink")                                                                                                                                                                                                                                                                                                           | [飯糰之家電視原聲帶](../Page/飯糰之家.md "wikilink")                      |                                      |
+| 《冬末之戀》            | [賴雅妍](https://zh.wikipedia.org/wiki/賴雅妍 "wikilink")、[楊千霈](../Page/楊千霈.md "wikilink")、[修杰楷](../Page/修杰楷.md "wikilink")、[藍鈞天](../Page/藍鈞天.md "wikilink")、[周孝安](../Page/周孝安.md "wikilink")                                                                                                                                                                                                                                                                                                           | [飯糰之家](../Page/飯糰之家.md "wikilink")電視原聲帶                      |                                      |
 | **2011年**         | 《不屬於我的淚》                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | [孫耀威](../Page/孫耀威.md "wikilink")                             | [沒有說再見](../Page/沒有說再見.md "wikilink") |
 | 《一百萬種親吻》          | [梁文音](../Page/梁文音.md "wikilink")                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | [情人×知己](https://zh.wikipedia.org/wiki/情人×知己 "wikilink")      |                                      |
 | 《遺忘天使》            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |                                                              |                                      |
@@ -566,47 +556,28 @@ Band目前的團員由F.I.R.第五張專輯開始加入，成員包含了來自�
 
   - [香港新城電台](https://zh.wikipedia.org/wiki/香港新城電台 "wikilink") - 新城勁爆新人王
   - [香港新城電台](https://zh.wikipedia.org/wiki/香港新城電台 "wikilink") - 新城勁爆組合
-  - [叱吒樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/叱吒樂壇流行榜頒獎典禮 "wikilink")
-    - 叱吒樂壇新力軍組合金獎
-  - [叱吒樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/叱吒樂壇流行榜頒獎典禮 "wikilink")
-    - 叱吒樂壇組合銅獎
-  - 第二十七屆[十大中文金曲頒獎禮](https://zh.wikipedia.org/wiki/十大中文金曲頒獎禮 "wikilink")
-    - 最有前途新人獎組合金獎（香港電台）
-  - 第二十七屆[十大中文金曲頒獎禮](https://zh.wikipedia.org/wiki/十大中文金曲頒獎禮 "wikilink")
-    - CASH全球華語最佳新進作曲人獎（香港電台）
-  - 第二十七屆[十大中文金曲頒獎禮](https://zh.wikipedia.org/wiki/十大中文金曲頒獎禮 "wikilink")
-    - CASH全球華語最佳新進作詞人獎（香港電台）
-  - 第二十七屆[十大中文金曲頒獎禮](https://zh.wikipedia.org/wiki/十大中文金曲頒獎禮 "wikilink")
-    - 優秀國語歌曲獎銀獎《Lydia》（香港電台）
-  - 第二十七屆[十大中文金曲頒獎禮](https://zh.wikipedia.org/wiki/十大中文金曲頒獎禮 "wikilink")
-    - 全國最受歡迎歌手獎組合銀獎（香港電台）
-  - 第十一屆[全球華語音樂榜中榜](https://zh.wikipedia.org/wiki/全球華語音樂榜中榜 "wikilink")
-    - 年度最佳歌曲《我們的愛》
-  - 第十二屆[北京音樂台──中國歌曲排行榜](https://zh.wikipedia.org/wiki/北京音樂台──中國歌曲排行榜 "wikilink")
-    - 年度最受歡迎港台樂隊
-  - 第十二屆[北京音樂台──中國歌曲排行榜](https://zh.wikipedia.org/wiki/北京音樂台──中國歌曲排行榜 "wikilink")
-    - 年度最受歡迎港台歌曲《我們的愛》
+  - [叱吒樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/叱吒樂壇流行榜頒獎典禮 "wikilink") - 叱吒樂壇新力軍組合金獎
+  - [叱吒樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/叱吒樂壇流行榜頒獎典禮 "wikilink") - 叱吒樂壇組合銅獎
+  - 第二十七屆[十大中文金曲頒獎禮](https://zh.wikipedia.org/wiki/十大中文金曲頒獎禮 "wikilink") - 最有前途新人獎組合金獎（香港電台）
+  - 第二十七屆[十大中文金曲頒獎禮](https://zh.wikipedia.org/wiki/十大中文金曲頒獎禮 "wikilink") - CASH全球華語最佳新進作曲人獎（香港電台）
+  - 第二十七屆[十大中文金曲頒獎禮](https://zh.wikipedia.org/wiki/十大中文金曲頒獎禮 "wikilink") - CASH全球華語最佳新進作詞人獎（香港電台）
+  - 第二十七屆[十大中文金曲頒獎禮](https://zh.wikipedia.org/wiki/十大中文金曲頒獎禮 "wikilink") - 優秀國語歌曲獎銀獎《Lydia》（香港電台）
+  - 第二十七屆[十大中文金曲頒獎禮](https://zh.wikipedia.org/wiki/十大中文金曲頒獎禮 "wikilink") - 全國最受歡迎歌手獎組合銀獎（香港電台）
+  - 第十一屆[全球華語音樂榜中榜](https://zh.wikipedia.org/wiki/全球華語音樂榜中榜 "wikilink") - 年度最佳歌曲《我們的愛》
+  - 第十二屆[北京音樂台──中國歌曲排行榜](https://zh.wikipedia.org/wiki/北京音樂台──中國歌曲排行榜 "wikilink") - 年度最受歡迎港台樂隊
+  - 第十二屆[北京音樂台──中國歌曲排行榜](https://zh.wikipedia.org/wiki/北京音樂台──中國歌曲排行榜 "wikilink") - 年度最受歡迎港台歌曲《我們的愛》
   - [台灣民生報](https://zh.wikipedia.org/wiki/台灣民生報 "wikilink") - 十大偶像新人獎
   - [台灣中國時報娛樂週報2004年](https://zh.wikipedia.org/wiki/台灣中國時報娛樂週報2004年 "wikilink")－年度最佳新人獎
-  - [Channel
-    【V】華語榜中榜TOP20](https://zh.wikipedia.org/wiki/Channel_【V】華語榜中榜TOP20 "wikilink")
-    - 最佳新人獎
-  - [Channel
-    【V】華語榜中榜TOP20](https://zh.wikipedia.org/wiki/Channel_【V】華語榜中榜TOP20 "wikilink")
-    - 最佳歌曲獎
-  - [台灣玫瑰唱片行2004年度國語專輯TOP10](https://zh.wikipedia.org/wiki/台灣玫瑰唱片行2004年度國語專輯TOP10 "wikilink")
-    - 第一名
-  - [台灣亞洲中盤2004年度國語專輯TOP10](https://zh.wikipedia.org/wiki/台灣亞洲中盤2004年度國語專輯TOP10 "wikilink")
-    - 第二名
-  - [新加坡SPVA中文唱片排行榜](https://zh.wikipedia.org/wiki/新加坡SPVA中文唱片排行榜 "wikilink")
-    - 第一名
+  - [Channel 【V】華語榜中榜TOP20](https://zh.wikipedia.org/wiki/Channel_【V】華語榜中榜TOP20 "wikilink") - 最佳新人獎
+  - [Channel 【V】華語榜中榜TOP20](https://zh.wikipedia.org/wiki/Channel_【V】華語榜中榜TOP20 "wikilink") - 最佳歌曲獎
+  - [台灣玫瑰唱片行2004年度國語專輯TOP10](https://zh.wikipedia.org/wiki/台灣玫瑰唱片行2004年度國語專輯TOP10 "wikilink") - 第一名
+  - [台灣亞洲中盤2004年度國語專輯TOP10](https://zh.wikipedia.org/wiki/台灣亞洲中盤2004年度國語專輯TOP10 "wikilink") - 第二名
+  - [新加坡SPVA中文唱片排行榜](https://zh.wikipedia.org/wiki/新加坡SPVA中文唱片排行榜 "wikilink") - 第一名
 
 3月
 
-  - [上海東方音樂台東方音樂風雲榜](https://zh.wikipedia.org/wiki/上海東方音樂台東方音樂風雲榜 "wikilink")
-    - 最佳組合樂團獎
-  - [百事音樂風雲榜](https://zh.wikipedia.org/wiki/音乐风云榜 "wikilink") -
-    最佳流行樂團及組合
+  - [上海東方音樂台東方音樂風雲榜](https://zh.wikipedia.org/wiki/上海東方音樂台東方音樂風雲榜 "wikilink") - 最佳組合樂團獎
+  - [百事音樂風雲榜](https://zh.wikipedia.org/wiki/音乐风云榜 "wikilink") - 最佳流行樂團及組合
   - [百事音樂風雲榜](https://zh.wikipedia.org/wiki/音乐风云榜 "wikilink") - 最佳作曲
   - [百事音樂風雲榜](https://zh.wikipedia.org/wiki/音乐风云榜 "wikilink") - 最佳唱作人
   - [百事音樂風雲榜](https://zh.wikipedia.org/wiki/音乐风云榜 "wikilink") - 港台十大金曲
@@ -614,34 +585,26 @@ Band目前的團員由F.I.R.第五張專輯開始加入，成員包含了來自�
 
 5月
 
-  - [第16屆金曲獎](https://zh.wikipedia.org/wiki/第16屆金曲獎 "wikilink") -
-    [最佳國語演唱新人獎](../Page/最佳新人獎_\(金曲獎\).md "wikilink")
+  - [第16屆金曲獎](https://zh.wikipedia.org/wiki/第16屆金曲獎 "wikilink") - [最佳國語演唱新人獎](../Page/最佳新人獎_\(金曲獎\).md "wikilink")
 
 12月
 
-  - [中國國際電視廣告藝術金椰子獎](https://zh.wikipedia.org/wiki/中國國際電視廣告藝術金椰子獎 "wikilink")
-    - 最佳電視廣告價值人物獎
+  - [中國國際電視廣告藝術金椰子獎](https://zh.wikipedia.org/wiki/中國國際電視廣告藝術金椰子獎 "wikilink") - 最佳電視廣告價值人物獎
 
 2月
 
-  - 第一屆[KKBOX華語金曲](https://zh.wikipedia.org/wiki/KKBOX華語金曲 "wikilink") -
-    最佳樂團獎
-  - 第一屆[KKBOX華語金曲](https://zh.wikipedia.org/wiki/KKBOX華語金曲 "wikilink") -
-    最佳單曲
+  - 第一屆[KKBOX華語金曲](https://zh.wikipedia.org/wiki/KKBOX華語金曲 "wikilink") - 最佳樂團獎
+  - 第一屆[KKBOX華語金曲](https://zh.wikipedia.org/wiki/KKBOX華語金曲 "wikilink") - 最佳單曲
 
 3月
 
-  - 第一屆[TVBS華語金曲](https://zh.wikipedia.org/wiki/TVBS華語金曲 "wikilink") -
-    最受歡迎樂隊
-  - 第一屆[TVBS華語金曲](https://zh.wikipedia.org/wiki/TVBS華語金曲 "wikilink") -
-    最佳專輯
-  - 第一屆[TVBS華語金曲](https://zh.wikipedia.org/wiki/TVBS華語金曲 "wikilink") -
-    最佳作曲
+  - 第一屆[TVBS華語金曲](https://zh.wikipedia.org/wiki/TVBS華語金曲 "wikilink") - 最受歡迎樂隊
+  - 第一屆[TVBS華語金曲](https://zh.wikipedia.org/wiki/TVBS華語金曲 "wikilink") - 最佳專輯
+  - 第一屆[TVBS華語金曲](https://zh.wikipedia.org/wiki/TVBS華語金曲 "wikilink") - 最佳作曲
 
 1月
 
-  - 第一屆中國移動M.MUSIC無線音樂頒獎盛典 -
-    無線音樂年度飛躍獎[2](https://archive.is/20070502055232/http://news.mdbchina.com/sections/news/20070114/373794.html)[3](http://music.yule.sohu.com/20070114/n247603193.shtml)
+  - 第一屆中國移動M.MUSIC無線音樂頒獎盛典 - 無線音樂年度飛躍獎[2](https://archive.is/20070502055232/http://news.mdbchina.com/sections/news/20070114/373794.html)[3](http://music.yule.sohu.com/20070114/n247603193.shtml)
 
 10月
 
@@ -650,12 +613,9 @@ Band目前的團員由F.I.R.第五張專輯開始加入，成員包含了來自�
 
 5月
 
-  - 第五屆[勁歌王全球華人樂壇年度總選](https://zh.wikipedia.org/wiki/勁歌王 "wikilink") -
-    台灣地區最受歡迎組合
-  - 第五屆[勁歌王全球華人樂壇年度總選](https://zh.wikipedia.org/wiki/勁歌王 "wikilink") -
-    最佳舞台演繹獎
-  - 第五屆[勁歌王全球華人樂壇年度總選](https://zh.wikipedia.org/wiki/勁歌王 "wikilink") -
-    國語金曲獎《月牙灣》
+  - 第五屆[勁歌王全球華人樂壇年度總選](https://zh.wikipedia.org/wiki/勁歌王 "wikilink") - 台灣地區最受歡迎組合
+  - 第五屆[勁歌王全球華人樂壇年度總選](https://zh.wikipedia.org/wiki/勁歌王 "wikilink") - 最佳舞台演繹獎
+  - 第五屆[勁歌王全球華人樂壇年度總選](https://zh.wikipedia.org/wiki/勁歌王 "wikilink") - 國語金曲獎《月牙灣》
 
 10月
 
@@ -664,8 +624,7 @@ Band目前的團員由F.I.R.第五張專輯開始加入，成員包含了來自�
 
 4月
 
-  - 第十六屆[全球華語音樂榜中榜](https://zh.wikipedia.org/wiki/全球華語音樂榜中榜 "wikilink")
-    - 最佳樂團
+  - 第十六屆[全球華語音樂榜中榜](https://zh.wikipedia.org/wiki/全球華語音樂榜中榜 "wikilink") - 最佳樂團
 
 ## 演唱會
 
@@ -1148,6 +1107,10 @@ Light Up The Way<br />
 
   - 10.10 新竹南寮漁港 國慶演火演唱會壓軸
 
+<!-- end list -->
+
+  - 06.22 華山文創園區 造夢者公益園遊會
+
 ## 廣告代言\[11\]
 
   - 台灣啤酒（2012）
@@ -1176,24 +1139,16 @@ Light Up The Way<br />
 
   -
   -
-[Category:台灣流行音樂團體](https://zh.wikipedia.org/wiki/Category:台灣流行音樂團體 "wikilink")
-[Category:華研國際音樂藝人](https://zh.wikipedia.org/wiki/Category:華研國際音樂藝人 "wikilink")
-[Category:華語流行音樂團體](https://zh.wikipedia.org/wiki/Category:華語流行音樂團體 "wikilink")
-[Category:2004年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2004年成立的音樂團體 "wikilink")
+[Category:台灣流行音樂團體](https://zh.wikipedia.org/wiki/Category:台灣流行音樂團體 "wikilink") [Category:華研國際音樂藝人](https://zh.wikipedia.org/wiki/Category:華研國際音樂藝人 "wikilink") [Category:華語流行音樂團體](https://zh.wikipedia.org/wiki/Category:華語流行音樂團體 "wikilink") [Category:2004年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2004年成立的音樂團體 "wikilink")
 
 1.  [第十六屆金曲獎得獎名單](https://www.bamid.gov.tw/files/15-1000-545,c131-1.php)
-
 2.  [F.I.R.第十行星演唱會CF](https://www.youtube.com/watch?v=6I8UUXSwFH8)
 3.  [F.I.R. 創‧世紀世界巡迴演唱會CF](https://www.youtube.com/watch?v=OwPHpnJrjBM)
-4.  [光合之旅 Light Up The Way
-    世界巡迴演唱會](https://www.youtube.com/watch?v=jym7FEUodRk)
+4.  [光合之旅 Light Up The Way 世界巡迴演唱會](https://www.youtube.com/watch?v=jym7FEUodRk)
 5.  [F.I.R.加盟華研 飛兒樂團全方位發展拓展](http://www.him.com.tw/newscon.php?nid=280)
-6.  [飛自爆被踢出F.I.R.
-    出新歌被瞞鼓裡](https://tw.appledaily.com/new/realtime/20180222/1302333)
+6.  [飛自爆被踢出F.I.R. 出新歌被瞞鼓裡](https://tw.appledaily.com/new/realtime/20180222/1302333)
 7.  [主唱飛慘遭退團 阿沁：我也不知道](https://today.line.me/TW/article/WGKvrL)
-8.  [Faye詹雯婷花落亞神
-    搖滾女王楊乃文驚喜現身](http://www.asiamuse.com.tw/news.php?id=163)
+8.  [Faye詹雯婷花落亞神 搖滾女王楊乃文驚喜現身](http://www.asiamuse.com.tw/news.php?id=163)
 9.  [1](https://stars.udn.com/star/story/10092/3441677)
 10. [陳建寧創作主題曲 江蕙金嗓幫腔慰災民](http://www.warnermusic.com.tw/node/38)
-11. [F.I.R星檔案|udn
-    聯合追星網](http://stars.udn.com/newstars/star/StarPage.do?sid=1406#ixzz1SngiAJbW)
+11. [F.I.R星檔案|udn 聯合追星網](http://stars.udn.com/newstars/star/StarPage.do?sid=1406#ixzz1SngiAJbW)

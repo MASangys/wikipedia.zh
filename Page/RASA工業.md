@@ -1,11 +1,10 @@
-**RASA工業**（****、**RASA Industries,
-LTD**）為[日本的一個](../Page/日本.md "wikilink")[化學製造廠商](../Page/化學.md "wikilink")。
+**RASA工業**（****、**RASA Industries, LTD**）為[日本](../Page/日本.md "wikilink")的一個[化學](../Page/化學.md "wikilink")製造廠商。
 
-參予產業包括化學[肥料](../Page/肥料.md "wikilink")、非鐵金屬煉製、[石炭開採](https://zh.wikipedia.org/wiki/石炭 "wikilink")、[硫酸製造](../Page/硫酸.md "wikilink")、採礦機械製造工業的事業。除了擁有[日本](../Page/日本.md "wikilink")[沖繩縣](../Page/沖繩縣.md "wikilink")[大東群島的](../Page/大東群島.md "wikilink")[沖大東島以外](../Page/沖大東島.md "wikilink")，經營的礦區還包括[岩手縣的](https://zh.wikipedia.org/wiki/岩手縣 "wikilink")[田老礦山](https://zh.wikipedia.org/wiki/田老礦山 "wikilink")、[宮崎縣](../Page/宮崎縣.md "wikilink")[見立礦山](https://zh.wikipedia.org/wiki/見立礦山 "wikilink")、[山形縣](https://zh.wikipedia.org/wiki/山形縣 "wikilink")[田川煤礦](https://zh.wikipedia.org/wiki/田川煤礦 "wikilink")。
+參予產業包括化學[肥料](../Page/肥料.md "wikilink")、非鐵金屬煉製、[石炭開採](https://zh.wikipedia.org/wiki/石炭 "wikilink")、[硫酸](../Page/硫酸.md "wikilink")製造、採礦機械製造工業的事業。除了擁有[日本](../Page/日本.md "wikilink")[沖繩縣](../Page/沖繩縣.md "wikilink")[大東群島](../Page/大東群島.md "wikilink")的[沖大東島](../Page/沖大東島.md "wikilink")以外，經營的礦區還包括[岩手縣的](https://zh.wikipedia.org/wiki/岩手縣 "wikilink")[田老礦山](https://zh.wikipedia.org/wiki/田老礦山 "wikilink")、[宮崎縣](../Page/宮崎縣.md "wikilink")[見立礦山](https://zh.wikipedia.org/wiki/見立礦山 "wikilink")、[山形縣](https://zh.wikipedia.org/wiki/山形縣 "wikilink")[田川煤礦](https://zh.wikipedia.org/wiki/田川煤礦 "wikilink")。
 
 最初的肥料製造事業已於1983年分割給關係企業Co-op化學股份有限公司\[1\]，並退出採礦、煉製和硫酸製造等事業，轉型為製造機械和電子材料，目前為全世界最大的[晶圓](../Page/晶圓.md "wikilink")（wafer）再生製造產。
 
-現於[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[梧棲區投資有子公司](../Page/梧棲區.md "wikilink")[理盛精密科技股份有限公司](https://zh.wikipedia.org/wiki/理盛精密科技股份有限公司 "wikilink")，生產[半導体和](https://zh.wikipedia.org/wiki/半導体 "wikilink")[液晶用高純度](../Page/液晶.md "wikilink")[磷酸](../Page/磷酸.md "wikilink")。\[2\]
+現於[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[梧棲區](../Page/梧棲區.md "wikilink")投資有子公司[理盛精密科技股份有限公司](https://zh.wikipedia.org/wiki/理盛精密科技股份有限公司 "wikilink")，生產[半導体和](https://zh.wikipedia.org/wiki/半導体 "wikilink")[液晶](../Page/液晶.md "wikilink")用高純度[磷酸](../Page/磷酸.md "wikilink")。\[2\]
 
 ## 社名由來
 

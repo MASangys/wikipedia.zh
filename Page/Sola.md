@@ -1,13 +1,12 @@
-《****》是[久彌直樹原作](../Page/久彌直樹.md "wikilink")、[七尾奈留設計角色的](../Page/七尾奈留.md "wikilink")[日本](../Page/日本.md "wikilink")[跨媒體製作作品](../Page/跨媒體製作.md "wikilink")，包括[漫畫](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")、[動畫](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")、[廣播劇](../Page/廣播劇.md "wikilink")、[廣播](https://zh.wikipedia.org/wiki/廣播 "wikilink")，但久彌直樹曾表明不會製成[遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")\[1\]。久彌等人約2004年開始構思，2006年春天開始正式進行企劃。漫畫版由[阿倍野茶子於](https://zh.wikipedia.org/wiki/阿倍野茶子 "wikilink")[電擊大王連載](https://zh.wikipedia.org/wiki/電擊大王 "wikilink")。網上廣播亦於2007年2月2日開始發放。動畫於2007年4月至6月播放。
+《****》是[久彌直樹](../Page/久彌直樹.md "wikilink")原作、[七尾奈留](../Page/七尾奈留.md "wikilink")設計角色的[日本](../Page/日本.md "wikilink")[跨媒體製作](../Page/跨媒體製作.md "wikilink")作品，包括[漫畫](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")、[動畫](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")、[廣播劇](../Page/廣播劇.md "wikilink")、[廣播](https://zh.wikipedia.org/wiki/廣播 "wikilink")，但久彌直樹曾表明不會製成[遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")\[1\]。久彌等人約2004年開始構思，2006年春天開始正式進行企劃。漫畫版由[阿倍野茶子於](https://zh.wikipedia.org/wiki/阿倍野茶子 "wikilink")[電擊大王連載](https://zh.wikipedia.org/wiki/電擊大王 "wikilink")。網上廣播亦於2007年2月2日開始發放。動畫於2007年4月至6月播放。
 
-而「sola」此詞可能是由[日語中的](https://zh.wikipedia.org/wiki/日語 "wikilink")「」的[羅馬字](https://zh.wikipedia.org/wiki/日語羅馬字 "wikilink")「sora」而來，即「[天空](../Page/天空.md "wikilink")」之意；亦可能是由「solar」（[太陽的](https://zh.wikipedia.org/wiki/太陽 "wikilink")、日光的）而來。動畫版中大量出現天空的[分鏡也是其特點之一](../Page/分鏡.md "wikilink")。最初在久彌等人進行《sola》的企劃和動畫錄音試聽時作品名為「」。
+而「sola」此詞可能是由[日語中的](https://zh.wikipedia.org/wiki/日語 "wikilink")「」的[羅馬字](https://zh.wikipedia.org/wiki/日語羅馬字 "wikilink")「sora」而來，即「[天空](../Page/天空.md "wikilink")」之意；亦可能是由「solar」（[太陽的](https://zh.wikipedia.org/wiki/太陽 "wikilink")、日光的）而來。動畫版中大量出現天空的[分鏡](../Page/分鏡.md "wikilink")也是其特點之一。最初在久彌等人進行《sola》的企劃和動畫錄音試聽時作品名為「」。
 
 作品的舞台——被觀眾認為是以[日本](../Page/日本.md "wikilink")[長崎縣](https://zh.wikipedia.org/wiki/長崎縣 "wikilink")[長崎市作為藍本](https://zh.wikipedia.org/wiki/長崎市 "wikilink")。
 
 ## 故事簡介
 
-森宮依人是喜歡「天空」的高校一年級生。每天放學後，依人和同學石月真名會一起探望在住院的蒼乃和真名的妹妹小依。
-另一方面，經常在街上流連的少女四方茉莉是住在教會的少女。在某個深夜，想拍攝黎明的依人在公園和遇到了茉莉。在這一刻，就是故事的開始……。
+森宮依人是喜歡「天空」的高校一年級生。每天放學後，依人和同學石月真名會一起探望在住院的蒼乃和真名的妹妹小依。 另一方面，經常在街上流連的少女四方茉莉是住在教會的少女。在某個深夜，想拍攝黎明的依人在公園和遇到了茉莉。在這一刻，就是故事的開始……。
 
 ## 角色介紹
 
@@ -16,7 +15,7 @@
   -
     於[C70所發售的原設本中的名字為](../Page/Comic_Market.md "wikilink")「****」。
     本作男主角，開朗的高校生，就讀御池高校，喜歡拍攝天空，15歲。雙親逝世後和親姊蒼乃生活，和石月真名等人是同校友人。當姊姊蒼乃入院時，每天放學也會去探望，還會每天買一隻外表奇怪的[布偶](https://zh.wikipedia.org/wiki/布偶 "wikilink")（只有茉莉覺得可愛）送給蒼乃。另外在一次偶然機會下，在準備拍攝黎明的天空時和茉莉邂逅，其後更知道茉莉的身份，許下「一定會給她看到晴空」的承諾。在同居相處的情況下，茉莉已成為對依人十分重要的人。
-    一直不知道蒼乃是夜禍人，之後依人被蒼乃操縱並刺傷茉莉，蒼乃用類似[催眠及夜禍人本身的能力令依人該段其間的記憶淡化和修改](../Page/催眠.md "wikilink")，並認為茉莉已經死了。但因為真名的一巴掌和一幅來自紗繪的茉莉照片而重新振作。
+    一直不知道蒼乃是夜禍人，之後依人被蒼乃操縱並刺傷茉莉，蒼乃用類似[催眠](../Page/催眠.md "wikilink")及夜禍人本身的能力令依人該段其間的記憶淡化和修改，並認為茉莉已經死了。但因為真名的一巴掌和一幅來自紗繪的茉莉照片而重新振作。
     實際上在很久以前**真正的**「森宮依人」因為一場大雨而回到村莊，結果遇到土石流房屋倒塌而死去（當時茉莉和蒼乃也和依人相識）。同樣，以前的依人也很想讓茉莉看到晴空。現在的依人只是由蒼乃三個月前製成的紙人偶，後來從茉莉得知這事實。
     在茉莉與蒼乃的最終決戰中，為了保護茉莉而挺身受了蒼乃攻擊變回紙片四散飛逝。漫畫版則是與姊姊繼續相處一段日子後，為履行與茉莉的約定悄悄離開家門，在當初遇到茉莉的地方帶著微笑離開人世。
 
@@ -30,8 +29,7 @@
 
 <!-- end list -->
 
-  - 注：四方茉莉的形象与[ef - a fairy tale of the
-    two.当中的](https://zh.wikipedia.org/wiki/ef_-_a_fairy_tale_of_the_two. "wikilink")**雨宫优子**非常相似，因此两个人物也经常被玩家们相提并论。
+  - 注：四方茉莉的形象与[ef - a fairy tale of the two.当中的](https://zh.wikipedia.org/wiki/ef_-_a_fairy_tale_of_the_two. "wikilink")**雨宫优子**非常相似，因此两个人物也经常被玩家们相提并论。
 
 <!-- end list -->
 
@@ -60,7 +58,7 @@
 <!-- end list -->
 
   -
-    經常和繭子一起的男人，27歲。不斷追殺茉莉，擅長使用[劍和](../Page/劍.md "wikilink")[飛鏢](../Page/飛鏢.md "wikilink")，身體能力也十分厲害，能在短時間內跑上數層樓。經常會買一些「怪口味[飯糰](https://zh.wikipedia.org/wiki/飯糰 "wikilink")」給繭子吃。
+    經常和繭子一起的男人，27歲。不斷追殺茉莉，擅長使用[劍](../Page/劍.md "wikilink")和[飛鏢](../Page/飛鏢.md "wikilink")，身體能力也十分厲害，能在短時間內跑上數層樓。經常會買一些「怪口味[飯糰](https://zh.wikipedia.org/wiki/飯糰 "wikilink")」給繭子吃。
     擁有一把能令夜禍人的能力無效化的劍，和大量命中物件時會發出強光的飛鏢，皆為專門對付夜禍人的武器。十七年前十歲時，因繭子被殺而瞞著她要殺掉其他夜禍人（如茉莉），以其生命作為犧牲交換，想令繭子變回人類。其後因為繭子阻止而停止了對茉莉的攻擊，最後把劍和使用的方法告訴給茉莉，和繭子一起離開城市。
 
 <!-- end list -->
@@ -90,17 +88,17 @@
 
 ### 夜禍人
 
-或稱夜禍。有生來就是夜禍人，也有原本是人類、但死後被其他夜禍人施力變成的案例，其外貌保留在變成夜禍人時的樣子，但是如原先的夜禍人力量減弱，被他變成的夜禍人之力量亦會隨之變小。和[吸血鬼相似的特點](../Page/吸血鬼.md "wikilink")，在於不能被**影子以外**的猛烈陽光照射（包括[太陽燈](https://zh.wikipedia.org/wiki/太陽燈 "wikilink")），被照射的部分會被燃燒起來，但在陰涼處亦可以慢慢回復。夜禍人除非被殺或待在太陽下太久，否則就是不老不死。各夜禍人的其他能力**未必**一樣。
+或稱夜禍。有生來就是夜禍人，也有原本是人類、但死後被其他夜禍人施力變成的案例，其外貌保留在變成夜禍人時的樣子，但是如原先的夜禍人力量減弱，被他變成的夜禍人之力量亦會隨之變小。和[吸血鬼](../Page/吸血鬼.md "wikilink")相似的特點，在於不能被**影子以外**的猛烈陽光照射（包括[太陽燈](https://zh.wikipedia.org/wiki/太陽燈 "wikilink")），被照射的部分會被燃燒起來，但在陰涼處亦可以慢慢回復。夜禍人除非被殺或待在太陽下太久，否則就是不老不死。各夜禍人的其他能力**未必**一樣。
 
 茉莉把夜禍人解釋為「被人類捨棄的痛苦和不安所聚集而成的存在」，而且總是孤獨一人。剛史則認為和夜禍人相處太久會被「夜」誘惑，而且不能逃脫。
 
   - 茉莉
-    生來就是夜禍人。身體能力異於常人，而且傷口癒合速度極高，對受傷的耐力亦較強。可以直接接觸或撒開一道「屏障」令接近自己的物體（包括人類）[風化或結構腐壞](https://zh.wikipedia.org/wiki/風化 "wikilink")，其原生性比較類似於[月姬的愛爾奎特](../Page/月姬.md "wikilink")·布倫史塔德。
+    生來就是夜禍人。身體能力異於常人，而且傷口癒合速度極高，對受傷的耐力亦較強。可以直接接觸或撒開一道「屏障」令接近自己的物體（包括人類）[風化或結構腐壞](https://zh.wikipedia.org/wiki/風化 "wikilink")，其原生性比較類似於[月姬](../Page/月姬.md "wikilink")的愛爾奎特·布倫史塔德。
 
 <!-- end list -->
 
   - 蒼乃
-    被茉莉變成的夜禍人，身體能力和傷口癒合速度與茉莉一樣比普通人類強，另外能隨意召喚、控制[紙張](https://zh.wikipedia.org/wiki/紙張 "wikilink")，並依自己的意思活動（有時需要滴血於紙上），和[陰陽道的](https://zh.wikipedia.org/wiki/陰陽道 "wikilink")[式神有相似之處](../Page/式神.md "wikilink")，另外也可以控制被紙張付著的物件。也可以用紙造出任何事物，不過有時可能會因過分使用力量而昏倒。
+    被茉莉變成的夜禍人，身體能力和傷口癒合速度與茉莉一樣比普通人類強，另外能隨意召喚、控制[紙張](https://zh.wikipedia.org/wiki/紙張 "wikilink")，並依自己的意思活動（有時需要滴血於紙上），和[陰陽道的](https://zh.wikipedia.org/wiki/陰陽道 "wikilink")[式神](../Page/式神.md "wikilink")有相似之處，另外也可以控制被紙張付著的物件。也可以用紙造出任何事物，不過有時可能會因過分使用力量而昏倒。
   - 繭子
     在十七年前被某不明人變成的夜禍人，久彌在sola Visual Fan Book表示她有一種特別能力，但在作品中沒有表現出來。
 
@@ -518,13 +516,11 @@
 
 <!-- end list -->
 
-  - 在第3、4回播放了一部份於[Comic
-    Market第](../Page/Comic_Market.md "wikilink")71屆所發售的廣播劇CD。
+  - 在第3、4回播放了一部份於[Comic Market第](../Page/Comic_Market.md "wikilink")71屆所發售的廣播劇CD。
 
 ### 第二期「天藍色廣播」
 
-[DIGITAL
-BEAT和](https://zh.wikipedia.org/wiki/DIGITAL_BEAT "wikilink")[Lantis於](../Page/Lantis.md "wikilink")2007年3月30日開始發放，逢星期五更新。而第七回在星期日（同年5月11日）才更新。
+[DIGITAL BEAT和](https://zh.wikipedia.org/wiki/DIGITAL_BEAT "wikilink")[Lantis](../Page/Lantis.md "wikilink")於2007年3月30日開始發放，逢星期五更新。而第七回在星期日（同年5月11日）才更新。
 
   - 主持
     四月：[清水愛](https://zh.wikipedia.org/wiki/清水愛 "wikilink")、本多陽子
@@ -601,8 +597,7 @@ BEAT和](https://zh.wikipedia.org/wiki/DIGITAL_BEAT "wikilink")[Lantis於](../Pa
 <!-- end list -->
 
   -
-    [Megami
-    MAGAZINE](../Page/Megami_MAGAZINE.md "wikilink")2007年7月號附送，2007年5月30日發售。
+    [Megami MAGAZINE](../Page/Megami_MAGAZINE.md "wikilink")2007年7月號附送，2007年5月30日發售。
 
 <!-- end list -->
 
@@ -610,8 +605,7 @@ BEAT和](https://zh.wikipedia.org/wiki/DIGITAL_BEAT "wikilink")[Lantis於](../Pa
 <!-- end list -->
 
   -
-    2007年10月10日發售，2,500日圓，[一迅社出版](../Page/一迅社.md "wikilink")，ISBN
-    978-4-7580-1085-6。
+    2007年10月10日發售，2,500日圓，[一迅社](../Page/一迅社.md "wikilink")出版，ISBN 978-4-7580-1085-6。
 
 ### 廣播劇CD
 
@@ -643,8 +637,7 @@ BEAT和](https://zh.wikipedia.org/wiki/DIGITAL_BEAT "wikilink")[Lantis於](../Pa
 
 <div class="references-small">
 
-  - [eg -
-    電視動畫《sola》錄音取材](https://web.archive.org/web/20070323160818/http://eg.nttpub.co.jp/news/20070316_13.html)
+  - [eg - 電視動畫《sola》錄音取材](https://web.archive.org/web/20070323160818/http://eg.nttpub.co.jp/news/20070316_13.html)
   - [動畫各集資料](https://web.archive.org/web/20070827000906/http://www2.tba.t-com.ne.jp/usapyon/sola.html)
   - sola Visual Fan Book，ISBN 978-4-7580-1085-6
 
@@ -654,18 +647,9 @@ BEAT和](https://zh.wikipedia.org/wiki/DIGITAL_BEAT "wikilink")[Lantis於](../Pa
 
   - [官網](http://www.sola-project.com/)
   - [chararadio](http://www.chararadio.com/)（為天藍色廣播開啟的網頁已於2007年3月5日關閉）
-  - [DIGITAL
-    BEAT](https://web.archive.org/web/20070401145756/http://dbeat.bandaivisual.co.jp/)
+  - [DIGITAL BEAT](https://web.archive.org/web/20070401145756/http://dbeat.bandaivisual.co.jp/)
 
-[Category:月刊Comic電擊大王連載作品](https://zh.wikipedia.org/wiki/Category:月刊Comic電擊大王連載作品 "wikilink")
-[Category:2007年UHF動畫](https://zh.wikipedia.org/wiki/Category:2007年UHF動畫 "wikilink")
-[Category:日本廣播節目](https://zh.wikipedia.org/wiki/Category:日本廣播節目 "wikilink")
-[Category:廣播劇CD](https://zh.wikipedia.org/wiki/Category:廣播劇CD "wikilink")
-[Category:戀愛漫畫](https://zh.wikipedia.org/wiki/Category:戀愛漫畫 "wikilink")
-[Category:奇幻動畫](https://zh.wikipedia.org/wiki/Category:奇幻動畫 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:長崎縣背景作品](https://zh.wikipedia.org/wiki/Category:長崎縣背景作品 "wikilink")
-[Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
+[Category:月刊Comic電擊大王連載作品](https://zh.wikipedia.org/wiki/Category:月刊Comic電擊大王連載作品 "wikilink") [Category:2007年UHF動畫](https://zh.wikipedia.org/wiki/Category:2007年UHF動畫 "wikilink") [Category:日本廣播節目](https://zh.wikipedia.org/wiki/Category:日本廣播節目 "wikilink") [Category:廣播劇CD](https://zh.wikipedia.org/wiki/Category:廣播劇CD "wikilink") [Category:戀愛漫畫](https://zh.wikipedia.org/wiki/Category:戀愛漫畫 "wikilink") [Category:奇幻動畫](https://zh.wikipedia.org/wiki/Category:奇幻動畫 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:長崎縣背景作品](https://zh.wikipedia.org/wiki/Category:長崎縣背景作品 "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
 
 1.  日本免費雜誌A-STATION 1月號
 2.  《Newtype》2007年5月號第84頁

@@ -8,7 +8,4 @@
   - **[詹姆斯·布克利](../Page/詹姆斯·布克利.md "wikilink")**（，曾执行、、以及任务），任务专家
   - **[加里·佩顿](https://zh.wikipedia.org/wiki/加里·佩顿_\(宇航员\) "wikilink")**（，曾执行任务），任务专家
 
-[Category:1985年佛罗里达州](https://zh.wikipedia.org/wiki/Category:1985年佛罗里达州 "wikilink")
-[Category:1985年科學](https://zh.wikipedia.org/wiki/Category:1985年科學 "wikilink")
-[Category:发现号航天飞机任务](https://zh.wikipedia.org/wiki/Category:发现号航天飞机任务 "wikilink")
-[Category:1985年1月](https://zh.wikipedia.org/wiki/Category:1985年1月 "wikilink")
+[Category:1985年佛罗里达州](https://zh.wikipedia.org/wiki/Category:1985年佛罗里达州 "wikilink") [Category:1985年科學](https://zh.wikipedia.org/wiki/Category:1985年科學 "wikilink") [Category:发现号航天飞机任务](https://zh.wikipedia.org/wiki/Category:发现号航天飞机任务 "wikilink") [Category:1985年1月](https://zh.wikipedia.org/wiki/Category:1985年1月 "wikilink")

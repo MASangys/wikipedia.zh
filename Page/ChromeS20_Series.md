@@ -1,17 +1,12 @@
-**Chrome
-S20系列**，是[VIA接手](https://zh.wikipedia.org/wiki/VIA "wikilink")[S3
-Graphics後第四代](../Page/S3_Graphics.md "wikilink")[顯示卡產品](https://zh.wikipedia.org/wiki/顯示卡 "wikilink")，由日本[富士通代工生產](../Page/富士通.md "wikilink")，采用90[奈米制程](https://zh.wikipedia.org/wiki/奈米 "wikilink")。整个系列均只支援[DirectX](../Page/DirectX.md "wikilink")
-9.0b，但不支援DirectX 9.0c。
+**Chrome S20系列**，是[VIA接手](https://zh.wikipedia.org/wiki/VIA "wikilink")[S3 Graphics後第四代](../Page/S3_Graphics.md "wikilink")[顯示卡產品](https://zh.wikipedia.org/wiki/顯示卡 "wikilink")，由日本[富士通](../Page/富士通.md "wikilink")代工生產，采用90[奈米制程](https://zh.wikipedia.org/wiki/奈米 "wikilink")。整个系列均只支援[DirectX](../Page/DirectX.md "wikilink") 9.0b，但不支援DirectX 9.0c。
 
 當S27使用MultiChrome模式時，效能約等於GeForce 6600 DDR2 SLi.
 
 ## 型號列表
 
-  - S27—8條像素流水線，4個頂點著色引擎，內建128Bit記憶體控制器，支援GDDR1、2及3，支援Direct
-    X9.0b，MultiChrome技術。核心時脈是700MHz，顯示記憶體（GDDR3）時脈是1.2 GHz。
+  - S27—8條像素流水線，4個頂點著色引擎，內建128Bit記憶體控制器，支援GDDR1、2及3，支援Direct X9.0b，MultiChrome技術。核心時脈是700MHz，顯示記憶體（GDDR3）時脈是1.2 GHz。
   - S25—核心晶片和S27相同。但核心時脈降至500MHz，可以配合DDR或GDDR2記憶體，支援AcceleRAM LowFB技術。
-  - S23—核心時脈是500MHz，只內建64Bit記憶體控制器，Die size比S27和S25小，可支援AcceleRAM
-    LowFB技術。
+  - S23—核心時脈是500MHz，只內建64Bit記憶體控制器，Die size比S27和S25小，可支援AcceleRAM LowFB技術。
 
 ## AcceleRAM LowFB技術
 
@@ -25,9 +20,7 @@ S27支持两种MultiChrome模式：
 
   - Alternate Frame Rendering（AFR）交替框架渲染
 
-这模式把Frame以單雙數分給不同的GPU處理，例如VGA 1負責（1,3,5,7,9），而VGA
-2負責（2,4,6,8,10），這個方法效能最佳。可以支援DirectX
-9和[OpenGL](../Page/OpenGL.md "wikilink") 1.5。
+这模式把Frame以單雙數分給不同的GPU處理，例如VGA 1負責（1,3,5,7,9），而VGA 2負責（2,4,6,8,10），這個方法效能最佳。可以支援DirectX 9和[OpenGL](../Page/OpenGL.md "wikilink") 1.5。
 
   - Split Frame Rendering（SFR）分割框架渲染。
 
@@ -35,10 +28,7 @@ S27支持两种MultiChrome模式：
 
 ## Chromotion 3.0 Video Engine
 
-**Chromotion 3.0**是[S3
-Graphics的提高影片播放畫質技術](../Page/S3_Graphics.md "wikilink")。它能優化影片播放畫質，加強[HDTV播放畫質](https://zh.wikipedia.org/wiki/HDTV "wikilink")，支援[WMV9及](https://zh.wikipedia.org/wiki/WMV9 "wikilink")[MPEG2硬體加速](https://zh.wikipedia.org/wiki/MPEG2 "wikilink")，降低CPU使用率。還支援Deblocking
-Filter、Non-Linear Adjustments、Artistic License及Chromotion 3.0 LCD
-Overdrive，提高影片播放畫質。
+**Chromotion 3.0**是[S3 Graphics的提高影片播放畫質技術](../Page/S3_Graphics.md "wikilink")。它能優化影片播放畫質，加強[HDTV播放畫質](https://zh.wikipedia.org/wiki/HDTV "wikilink")，支援[WMV9及](https://zh.wikipedia.org/wiki/WMV9 "wikilink")[MPEG2硬體加速](https://zh.wikipedia.org/wiki/MPEG2 "wikilink")，降低CPU使用率。還支援Deblocking Filter、Non-Linear Adjustments、Artistic License及Chromotion 3.0 LCD Overdrive，提高影片播放畫質。
 
 ## Deblocking Filter
 
@@ -50,9 +40,7 @@ Overdrive，提高影片播放畫質。
 
 ## 動態時脈控制
 
-GPU可以根據工作負載量，自動將核心和顯示記憶體時脈動態調整。有三個模式，分為3D Highest Frequency、2D Medium
-Frequency以及Power Save Lowest
-Frequency。此外，核心亦支援動態電壓控制。核心可根據負載量，由1V至1.3V自動調整，以達至最佳節能省電能效果。
+GPU可以根據工作負載量，自動將核心和顯示記憶體時脈動態調整。有三個模式，分為3D Highest Frequency、2D Medium Frequency以及Power Save Lowest Frequency。此外，核心亦支援動態電壓控制。核心可根據負載量，由1V至1.3V自動調整，以達至最佳節能省電能效果。
 
 ## 動態PCI-E頻寬調整技術
 
@@ -80,8 +68,6 @@ Frequency。此外，核心亦支援動態電壓控制。核心可根據負載�
   - [Chrome 400](../Page/Chrome_400系列显卡.md "wikilink") 系列
   - [Chrome 500](../Page/Chrome_500系列显卡.md "wikilink") 系列
 
-[de:S3 Chrome\#Chrome
-S20](https://zh.wikipedia.org/wiki/de:S3_Chrome#Chrome_S20 "wikilink")
+[de:S3 Chrome\#Chrome S20](https://zh.wikipedia.org/wiki/de:S3_Chrome#Chrome_S20 "wikilink")
 
-[Category:顯示卡](https://zh.wikipedia.org/wiki/Category:顯示卡 "wikilink")
-[Category:威盛電子](https://zh.wikipedia.org/wiki/Category:威盛電子 "wikilink")
+[Category:顯示卡](https://zh.wikipedia.org/wiki/Category:顯示卡 "wikilink") [Category:威盛電子](https://zh.wikipedia.org/wiki/Category:威盛電子 "wikilink")

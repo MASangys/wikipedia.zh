@@ -1,4 +1,4 @@
-《**Justin**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[側田的首張個人大碟](../Page/側田.md "wikilink")，於2005年11月29日推出。\[1\]
+《**Justin**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[側田](../Page/側田.md "wikilink")的首張個人大碟，於2005年11月29日推出。\[1\]
 
 ## 曲目
 
@@ -21,8 +21,7 @@
   - 冰淇淋之味
       - 這是一首關於反歧視的歌曲。側田剛移民到美國時，班上一共只有兩位華裔學生，加上他身材較矮小，於是常常被其他同學欺負。他以冰淇淋的顏色和味道比喻不同族裔和宗教，希望所有人都不會歧視或看不起其他人。
   - White Christmas
-      - 側田被同學欺負時，全校最漂亮、最受歡迎的外籍女同學反而和他最要好。有一年臨近聖誕節，這位女同學送給他一張聖誕卡，上面寫著“Welcome
-        to America”。側田在唱這首歌時，心中就是想著這位女同學，並且非常感動。側田說如果找到她的話，會把這首歌送給她。
+      - 側田被同學欺負時，全校最漂亮、最受歡迎的外籍女同學反而和他最要好。有一年臨近聖誕節，這位女同學送給他一張聖誕卡，上面寫著“Welcome to America”。側田在唱這首歌時，心中就是想著這位女同學，並且非常感動。側田說如果找到她的話，會把這首歌送給她。
 
 唱片出版當日，側田形容為“一生人最重要的日子”。
 
@@ -54,7 +53,6 @@
   - [YesAsia介紹](http://www.yesasia.com/us/1004095052-0-0-0-zh_TW/info.html)
   - [雅虎香港音樂介紹](https://web.archive.org/web/20090205111539/http://hk.music.yahoo.com/album-album.html?albumid=1480)
 
-[Category:側田音樂專輯](https://zh.wikipedia.org/wiki/Category:側田音樂專輯 "wikilink")
-[Category:2005年音樂專輯](https://zh.wikipedia.org/wiki/Category:2005年音樂專輯 "wikilink")
+[Category:側田音樂專輯](https://zh.wikipedia.org/wiki/Category:側田音樂專輯 "wikilink") [Category:2005年音樂專輯](https://zh.wikipedia.org/wiki/Category:2005年音樂專輯 "wikilink")
 
 1.  |work=ent.yxlady.com|deadurl=yes|archiveurl=[https://web.archive.org/web/20170316204457/https://ent.yxlady.com/201506/755787.shtml|archivedate=2017-03-16](https://web.archive.org/web/20170316204457/https://ent.yxlady.com/201506/755787.shtml%7Carchivedate=2017-03-16)}}

@@ -1,33 +1,24 @@
-[Handycam.svg](https://zh.wikipedia.org/wiki/File:Handycam.svg "fig:Handycam.svg")
-**Handycam**是[Sony公司的消費性](https://zh.wikipedia.org/wiki/Sony "wikilink")[攝影機品牌](../Page/攝影機.md "wikilink")。Sony自1980年代成功開發出CCD感光元件後，1985年1月，第一台Handycam
-M8問世以來至今。配合自身在硬體領域上的優異技術與卓越的[CCD感光元件](https://zh.wikipedia.org/wiki/CCD "wikilink")，在數位攝影機市場，目前在全球消費性數位攝影機市场取得占有率第一。
+[Handycam.svg](https://zh.wikipedia.org/wiki/File:Handycam.svg "fig:Handycam.svg") **Handycam**是[Sony公司的消費性](https://zh.wikipedia.org/wiki/Sony "wikilink")[攝影機](../Page/攝影機.md "wikilink")品牌。Sony自1980年代成功開發出CCD感光元件後，1985年1月，第一台Handycam M8問世以來至今。配合自身在硬體領域上的優異技術與卓越的[CCD感光元件](https://zh.wikipedia.org/wiki/CCD "wikilink")，在數位攝影機市場，目前在全球消費性數位攝影機市场取得占有率第一。
 
 ## Handycam共同特點
 
-  - 大部份的機種都搭載[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[卡爾·蔡司](../Page/卡爾·蔡司.md "wikilink")（Carl
-    Zeiss）Vario-Sonnar鏡頭，高階機款搭載卡爾·蔡司Vario-Sonnar T\*鏡頭。
-  - 大部份的機種都使用[Memory
-    Stick記憶卡](https://zh.wikipedia.org/wiki/Memory_Stick "wikilink")。
+  - 大部份的機種都搭載[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[卡爾·蔡司](../Page/卡爾·蔡司.md "wikilink")（Carl Zeiss）Vario-Sonnar鏡頭，高階機款搭載卡爾·蔡司Vario-Sonnar T\*鏡頭。
+  - 大部份的機種都使用[Memory Stick記憶卡](https://zh.wikipedia.org/wiki/Memory_Stick "wikilink")。
   - 2005年起消費型HD高畫質磁帶式機款錄影採用1440x1080（[MPEG-2](../Page/MPEG-2.md "wikilink")）格式。
-  - 2006年起消費型HD高畫質機款（硬碟、光碟、記憶卡3種機款）錄影採用1440x1080
-    AVCHD（[MPEG-4](../Page/MPEG-4.md "wikilink") AVC/H.264）格式。
+  - 2006年起消費型HD高畫質機款（硬碟、光碟、記憶卡3種機款）錄影採用1440x1080 AVCHD（[MPEG-4](../Page/MPEG-4.md "wikilink") AVC/H.264）格式。
   - 2007年起消費型HD高畫質機款支援[x.v.Color技術](https://zh.wikipedia.org/wiki/xvYCC "wikilink")。
   - 2008年起消費型HD高畫質機款（硬碟、光碟、記憶卡3種機款）錄影解析度提升為1920x1080。
   - 2008年起消費型硬碟式機款及光碟式機款支援HYBRID多重儲存媒體功能，具備兩種儲存媒體（硬碟／記憶卡）硬碟／記憶卡皆可存取動態影像。
-  - 2010年起消費型硬碟式機款及記憶卡式機款支援Direct
-    Copy檔案直接複製功能，將拍攝的影片不須透過電腦而直接儲存在[外接式硬碟](https://zh.wikipedia.org/wiki/外接式硬碟 "wikilink")。
-  - 2010年起，Handycam將全面支援Memory
-    Stick記憶卡和[SD卡](../Page/SD卡.md "wikilink")(含[SDHC](../Page/SDHC.md "wikilink"))。
+  - 2010年起消費型硬碟式機款及記憶卡式機款支援Direct Copy檔案直接複製功能，將拍攝的影片不須透過電腦而直接儲存在[外接式硬碟](https://zh.wikipedia.org/wiki/外接式硬碟 "wikilink")。
+  - 2010年起，Handycam將全面支援Memory Stick記憶卡和[SD卡](../Page/SD卡.md "wikilink")(含[SDHC](../Page/SDHC.md "wikilink"))。
 
 ## 產品系列
 
-  - 主機正確資訊可參閱[Sony ecatalog
-    Handy-cam列表](https://web.archive.org/web/20080406130655/http://www.ecat.sony.co.jp/camera/handycam/index.cfm?B2=33)
+  - 主機正確資訊可參閱[Sony ecatalog Handy-cam列表](https://web.archive.org/web/20080406130655/http://www.ecat.sony.co.jp/camera/handycam/index.cfm?B2=33)
 
 ### 專業機型
 
-專業級機型均採用磁帶式（[MiniDV](https://zh.wikipedia.org/wiki/MiniDV "wikilink")）紀錄影像，廣播級設備由[HDCAM](../Page/HDCAM.md "wikilink")、[XDCAM](../Page/XDCAM.md "wikilink")、[HDCAM
-SR取代](https://zh.wikipedia.org/wiki/HDCAM_SR "wikilink")。
+專業級機型均採用磁帶式（[MiniDV](https://zh.wikipedia.org/wiki/MiniDV "wikilink")）紀錄影像，廣播級設備由[HDCAM](../Page/HDCAM.md "wikilink")、[XDCAM](../Page/XDCAM.md "wikilink")、[HDCAM SR取代](https://zh.wikipedia.org/wiki/HDCAM_SR "wikilink")。
 
 #### HDR高畫質系列
 
@@ -74,8 +65,7 @@ Full HD 1080
   - 2006年4月－SR1
   - 2007年4月－SR5、SR7、SR8
   - 2008年4月－SR10、SR11(60G)、SR12(120G) （支援記憶卡可存取動態影像）
-  - 2009年4月－XR100(80G)、XR200(120G)、XR500(120G)、XR520(240G)（XR500、XR520是採用「G
-    Lens」鏡頭的攝影機）
+  - 2009年4月－XR100(80G)、XR200(120G)、XR500(120G)、XR520(240G)（XR500、XR520是採用「G Lens」鏡頭的攝影機）
   - 2010年3月－XR150、XR350、XR550
   - 2011年6月－XR160、
 
@@ -151,10 +141,8 @@ Full HD 1080
 ## 外部連結
 
   - [Sony Handycam官方網站](http://www.sony.jp/products/Consumer/handycam)
-  - [Sony
-    Handycam官方網站](https://web.archive.org/web/20070617081605/http://www.sonystyle.com.hk/ss/product/handycam/index.jsp)
+  - [Sony Handycam官方網站](https://web.archive.org/web/20070617081605/http://www.sonystyle.com.hk/ss/product/handycam/index.jsp)
   - [Sony Handycam官方網站](http://www.sonystyle.com.tw/handycam/)
-  - [Sony
-    Handycam歷史網站](http://www.sony.jp/products/Consumer/handycam/INFO/history/index.html)
+  - [Sony Handycam歷史網站](http://www.sony.jp/products/Consumer/handycam/INFO/history/index.html)
 
 [Category:索尼](https://zh.wikipedia.org/wiki/Category:索尼 "wikilink")

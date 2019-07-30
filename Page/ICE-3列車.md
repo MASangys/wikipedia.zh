@@ -1,21 +1,18 @@
-**ICE-3列车**（）是[德国铁路](../Page/德国铁路.md "wikilink")[ICE](https://zh.wikipedia.org/wiki/ICE列车 "wikilink")[高速列车家族中的一个](https://zh.wikipedia.org/wiki/高速列车 "wikilink")[电力动车组类别](https://zh.wikipedia.org/wiki/电力动车组 "wikilink")。伴随着最高速度可达330公里/小时的适航许可证，它们成为[德国运行速度最快的](../Page/德国.md "wikilink")[动车组](https://zh.wikipedia.org/wiki/动车组 "wikilink")。在常规运营中，列车于德国境内的定期服务可达300公里/小时，于[法国境内则为](https://zh.wikipedia.org/wiki/法国 "wikilink")320公里/小时。每列全长200.8米的动车组共由八节[车厢构成](https://zh.wikipedia.org/wiki/车厢 "wikilink")，自2000年7月起投入载客运营。它们代表着ICE领域的技术飞跃，并已获得多项技术创新。
+**ICE-3列车**（）是[德国铁路](../Page/德国铁路.md "wikilink")[ICE](https://zh.wikipedia.org/wiki/ICE列车 "wikilink")[高速列车家族中的一个](https://zh.wikipedia.org/wiki/高速列车 "wikilink")[电力动车组类别](https://zh.wikipedia.org/wiki/电力动车组 "wikilink")。伴随着最高速度可达330公里/小时的适航许可证，它们成为[德国](../Page/德国.md "wikilink")运行速度最快的[动车组](https://zh.wikipedia.org/wiki/动车组 "wikilink")。在常规运营中，列车于德国境内的定期服务可达300公里/小时，于[法国境内则为](https://zh.wikipedia.org/wiki/法国 "wikilink")320公里/小时。每列全长200.8米的动车组共由八节[车厢构成](https://zh.wikipedia.org/wiki/车厢 "wikilink")，自2000年7月起投入载客运营。它们代表着ICE领域的技术飞跃，并已获得多项技术创新。
 
-在全部67组ICE-3列车中，有50组为单电压的[403型](../Page/德国铁路403型电力动车组.md "wikilink")，它们可在德国国内及邻近的[巴塞尔巴登车站之间运行](../Page/巴塞尔巴登车站.md "wikilink")；17组（包括[荷兰铁路持有](https://zh.wikipedia.org/wiki/荷兰铁路 "wikilink")4组）为兼容多电压的[406型](../Page/德国铁路406型电力动车组.md "wikilink")（ICE-3M），可以前往[荷兰及](../Page/荷兰.md "wikilink")[比利时](../Page/比利时.md "wikilink")；6组406型又在2007年改造为406F型（ICE-3MF），以满足法国的跨境运输需求。此外，德国铁路在2008年订购的[407型动车组](../Page/德国铁路407型电力动车组.md "wikilink")（Velaro
-D）也作为“新ICE-3列车”而被纳入ICE-3类别\[1\]。所有ICE-3列车在企业内部都统称为**ICE-W**（W代表[涡流制动](../Page/涡流制动.md "wikilink")）。
+在全部67组ICE-3列车中，有50组为单电压的[403型](../Page/德国铁路403型电力动车组.md "wikilink")，它们可在德国国内及邻近的[巴塞尔巴登车站](../Page/巴塞尔巴登车站.md "wikilink")之间运行；17组（包括[荷兰铁路持有](https://zh.wikipedia.org/wiki/荷兰铁路 "wikilink")4组）为兼容多电压的[406型](../Page/德国铁路406型电力动车组.md "wikilink")（ICE-3M），可以前往[荷兰](../Page/荷兰.md "wikilink")及[比利时](../Page/比利时.md "wikilink")；6组406型又在2007年改造为406F型（ICE-3MF），以满足法国的跨境运输需求。此外，德国铁路在2008年订购的[407型动车组](../Page/德国铁路407型电力动车组.md "wikilink")（Velaro D）也作为“新ICE-3列车”而被纳入ICE-3类别\[1\]。所有ICE-3列车在企业内部都统称为**ICE-W**（W代表[涡流制动](../Page/涡流制动.md "wikilink")）。
 
 ## 历史
 
 ### 技术构思
 
-全新的ICE-3列车概念是根据[欧洲的](../Page/欧洲.md "wikilink")和技术规定进行开发的。它要求列车的运营最高时速为300[公里/小时](https://zh.wikipedia.org/wiki/公里/小时 "wikilink")（对应提升60%的加速功率）、静态轴重为17吨以及最大编组长度为400米，同时车辆的宽度也需要根据[UIC](https://zh.wikipedia.org/wiki/国际铁路联盟 "wikilink")
-505-1号标准进行缩减。最初的设想是在单组[ICE-2列车的基础上提供](https://zh.wikipedia.org/wiki/ICE-2列车 "wikilink")2节[动车及](https://zh.wikipedia.org/wiki/动车组动车 "wikilink")6节[拖车的编组配置](https://zh.wikipedia.org/wiki/动车组拖车 "wikilink")，但这种变体需要加装一台额外的助推器（其中一节中部动车没有驾驶室），从而导致较低的经济性及复杂的技术性。至1994年初，ICE-3决定放弃既有的[动力集中式概念](https://zh.wikipedia.org/wiki/动力集中式 "wikilink")，转而开发为[动力分散式列车](https://zh.wikipedia.org/wiki/动力分散式列车 "wikilink")。这一构思是由包括[德国铁路在内的业界所提供](../Page/德国铁路.md "wikilink")\[2\]。
+全新的ICE-3列车概念是根据[欧洲](../Page/欧洲.md "wikilink")的和技术规定进行开发的。它要求列车的运营最高时速为300[公里/小时](https://zh.wikipedia.org/wiki/公里/小时 "wikilink")（对应提升60%的加速功率）、静态轴重为17吨以及最大编组长度为400米，同时车辆的宽度也需要根据[UIC](https://zh.wikipedia.org/wiki/国际铁路联盟 "wikilink") 505-1号标准进行缩减。最初的设想是在单组[ICE-2列车的基础上提供](https://zh.wikipedia.org/wiki/ICE-2列车 "wikilink")2节[动车及](https://zh.wikipedia.org/wiki/动车组动车 "wikilink")6节[拖车的编组配置](https://zh.wikipedia.org/wiki/动车组拖车 "wikilink")，但这种变体需要加装一台额外的助推器（其中一节中部动车没有驾驶室），从而导致较低的经济性及复杂的技术性。至1994年初，ICE-3决定放弃既有的[动力集中式概念](https://zh.wikipedia.org/wiki/动力集中式 "wikilink")，转而开发为[动力分散式列车](https://zh.wikipedia.org/wiki/动力分散式列车 "wikilink")。这一构思是由包括[德国铁路](../Page/德国铁路.md "wikilink")在内的业界所提供\[2\]。
 
 在早期的规划中，还包括开发一款三电压制式的版本405型\[3\]，以及一款双电压制式的版本404型\[4\]。
 
 ### 订购
 
-德国铁路在1994年向业界共订购了50组新式ICE-3型[高速列车](https://zh.wikipedia.org/wiki/高速列车 "wikilink")。其中13组列车将被用于跨境运输。首批出厂的4组列车则应自1997年12月的运行图调整起，在[法兰克福](https://zh.wikipedia.org/wiki/法兰克福 "wikilink")、[科隆和](../Page/科隆.md "wikilink")[阿姆斯特丹间投入服务](../Page/阿姆斯特丹.md "wikilink")\[5\]\[6\]\[7\]
-。37组ICE-3和13组ICE-3M的购置费用最初为16亿[德国马克](https://zh.wikipedia.org/wiki/德国马克 "wikilink")，后来则上升至19亿德国马克\[8\]\[9\]。此外，这还包括另外50组列车的选择权\[10\]。1999年3月16日，当局在[德绍决定动用选择权增加订购](../Page/德绍.md "wikilink")14组列车。该选择权的其余部分则失效\[11\]。
+德国铁路在1994年向业界共订购了50组新式ICE-3型[高速列车](https://zh.wikipedia.org/wiki/高速列车 "wikilink")。其中13组列车将被用于跨境运输。首批出厂的4组列车则应自1997年12月的运行图调整起，在[法兰克福](https://zh.wikipedia.org/wiki/法兰克福 "wikilink")、[科隆](../Page/科隆.md "wikilink")和[阿姆斯特丹](../Page/阿姆斯特丹.md "wikilink")间投入服务\[5\]\[6\]\[7\] 。37组ICE-3和13组ICE-3M的购置费用最初为16亿[德国马克](https://zh.wikipedia.org/wiki/德国马克 "wikilink")，后来则上升至19亿德国马克\[8\]\[9\]。此外，这还包括另外50组列车的选择权\[10\]。1999年3月16日，当局在[德绍](../Page/德绍.md "wikilink")决定动用选择权增加订购14组列车。该选择权的其余部分则失效\[11\]。
 
 1995年9月，[荷兰铁路与](https://zh.wikipedia.org/wiki/荷兰铁路 "wikilink")[西门子交通集团签署了一份意向书](https://zh.wikipedia.org/wiki/西门子交通集团 "wikilink")，以购买6组ICE高速列车。这批总价值为2.1亿德国马克的列车应该自1996年1月起生产，并在1998年底交付。意向书也包括购买更多列车的选择权\[12\]。其后共有4组列车被落实订购及交付\[13\]。
 
@@ -23,52 +20,47 @@ D）也作为“新ICE-3列车”而被纳入ICE-3类别\[1\]。所有ICE-3列�
 
 这些[动车组均由](https://zh.wikipedia.org/wiki/动车组 "wikilink")“ICE-2”建造\[20\]，这是一个以[庞巴迪运输和西门子交通集团为首组成的制造商](https://zh.wikipedia.org/wiki/庞巴迪运输 "wikilink")[联盟](https://zh.wikipedia.org/wiki/联盟 "wikilink")。其中（今属西门子）、[Adtranz](../Page/Adtranz.md "wikilink")（今属庞巴迪）、庞巴迪和[阿尔斯通负责生产车身](https://zh.wikipedia.org/wiki/阿尔斯通 "wikilink")；西门子及Adtranz则负责供应电气设备\[21\]。西门子本身持有的份额约为20%至25%\[22\]\[23\]，并拥有另外50辆八节编组列车选项的生产权\[24\]。
 
-[奥地利联邦铁路也曾经](../Page/奥地利联邦铁路.md "wikilink")（于2005年）考虑订购ICE-3列车\[25\]。
+[奥地利联邦铁路](../Page/奥地利联邦铁路.md "wikilink")也曾经（于2005年）考虑订购ICE-3列车\[25\]。
 
 ### 设计
 
-[Lounge_ICE_3.jpg](https://zh.wikipedia.org/wiki/File:Lounge_ICE_3.jpg "fig:Lounge_ICE_3.jpg")
-[ICE_3-T_similar-different.jpg](https://zh.wikipedia.org/wiki/File:ICE_3-T_similar-different.jpg "fig:ICE_3-T_similar-different.jpg")
-ICE-3列车的外型设计是通过一个设计比赛后被确定为与[ICE-T列车相同的样式](https://zh.wikipedia.org/wiki/ICE-T列车 "wikilink")，这是由于ICE-T的构思应该很容易适应ICE-3列车\[26\]。设计公司[宾尼法利纳](../Page/宾尼法利纳.md "wikilink")（[都灵](../Page/都灵.md "wikilink")）、（[洛杉矶](../Page/洛杉矶.md "wikilink")）和（[慕尼黑](../Page/慕尼黑.md "wikilink")）都受到德国铁路的邀请，参加了在1994年秋天举行的这次设计比赛，并在五周内提交了设计方案。及另一家设计公司则是在比赛过程中主动要求参与\[27\]。除了精密的设计草图，它们还被要求制定一个1:10比例的内部模型\[28\]\[29\]。
+[Lounge_ICE_3.jpg](https://zh.wikipedia.org/wiki/File:Lounge_ICE_3.jpg "fig:Lounge_ICE_3.jpg") [ICE_3-T_similar-different.jpg](https://zh.wikipedia.org/wiki/File:ICE_3-T_similar-different.jpg "fig:ICE_3-T_similar-different.jpg") ICE-3列车的外型设计是通过一个设计比赛后被确定为与[ICE-T列车相同的样式](https://zh.wikipedia.org/wiki/ICE-T列车 "wikilink")，这是由于ICE-T的构思应该很容易适应ICE-3列车\[26\]。设计公司[宾尼法利纳](../Page/宾尼法利纳.md "wikilink")（[都灵](../Page/都灵.md "wikilink")）、（[洛杉矶](../Page/洛杉矶.md "wikilink")）和（[慕尼黑](../Page/慕尼黑.md "wikilink")）都受到德国铁路的邀请，参加了在1994年秋天举行的这次设计比赛，并在五周内提交了设计方案。及另一家设计公司则是在比赛过程中主动要求参与\[27\]。除了精密的设计草图，它们还被要求制定一个1:10比例的内部模型\[28\]\[29\]。
 
 ICE-3列车与ICE-T列车应该采用统一的设计\[30\]。1994年9月，德国铁路在对受邀设计师的简报中强调，新的列车应该“在技术上取得进步并具有明显的新世代车辆特征”\[31\]，它应当“能够完全反映面向未来的形态。同时需要高于当前的国内及国际标准，因为这些列车的使用重点是在第三个[千禧年](https://zh.wikipedia.org/wiki/千禧年 "wikilink")”\[32\]。
 
-相比以往的ICE世代，德国铁路给予了设计师们一份精简的框架限制（因而在很大程度上可以放开手脚设计）。因为前者已经意识到，为了强化运输工具在竞争中的地位，它们需要面向客户的需求及自身的独特之处塑造出清晰的设计。这些设计在德国铁路及业界进行内部评估后，于1994年12月提交德国铁路的[董事会作出决策](../Page/董事会.md "wikilink")\[33\]\[34\]。
+相比以往的ICE世代，德国铁路给予了设计师们一份精简的框架限制（因而在很大程度上可以放开手脚设计）。因为前者已经意识到，为了强化运输工具在竞争中的地位，它们需要面向客户的需求及自身的独特之处塑造出清晰的设计。这些设计在德国铁路及业界进行内部评估后，于1994年12月提交德国铁路的[董事会](../Page/董事会.md "wikilink")作出决策\[33\]\[34\]。
 
 两款动车组的形态设计最终被确定采纳由团队主导的方案。只有、（西门子设计，并与诺伊麦斯特进行协调）和座椅（美国设计工作室）是由其它公司所设计\[35\]\[36\]。[餐车的设计最初也由西门子拟定](https://zh.wikipedia.org/wiki/餐车 "wikilink")。但在未能获得德国铁路董事会的采纳后，诺伊麦斯特团队遂于短时间内开发出新的设计\[37\]。
 
-[DB_Museum_Nuernberg,_Adler_02_11.jpg](https://zh.wikipedia.org/wiki/File:DB_Museum_Nuernberg,_Adler_02_11.jpg "fig:DB_Museum_Nuernberg,_Adler_02_11.jpg")，与为邻\]\]
-ICE-3列车的设计理念与ICE-T列车平行\[38\]。其外部及内部设计与[20世纪90年代初期至中期投入服务的](https://zh.wikipedia.org/wiki/20世纪90年代 "wikilink")[ICE-1列车及ICE](https://zh.wikipedia.org/wiki/ICE-1列车 "wikilink")-2列车有着显著差异。然而，其连续性的、镜面化的带形窗及特有的涂装（白色底漆、红色条纹）则依然保留了ICE家族惯有的设计元素\[39\]。
+[DB_Museum_Nuernberg,_Adler_02_11.jpg](https://zh.wikipedia.org/wiki/File:DB_Museum_Nuernberg,_Adler_02_11.jpg "fig:DB_Museum_Nuernberg,_Adler_02_11.jpg")，与为邻\]\] ICE-3列车的设计理念与ICE-T列车平行\[38\]。其外部及内部设计与[20世纪90年代初期至中期投入服务的](https://zh.wikipedia.org/wiki/20世纪90年代 "wikilink")[ICE-1列车及ICE](https://zh.wikipedia.org/wiki/ICE-1列车 "wikilink")-2列车有着显著差异。然而，其连续性的、镜面化的带形窗及特有的涂装（白色底漆、红色条纹）则依然保留了ICE家族惯有的设计元素\[39\]。
 
 至1995年上半年，比赛的设计得到了进一步的发展和完善。在[平面图和设计要素完成后](https://zh.wikipedia.org/wiki/平面图 "wikilink")，两个个两米高的外观模型和一个1:20比例的内部模型就被建立及呈现出来。随后，一个价值数百万德国马克的原始大小[实物模型也开始耗时三个月进行建造](https://zh.wikipedia.org/wiki/实物模型 "wikilink")\[40\]。这个1:1比例的（静态）模型包含一节端部车厢及一节餐车车厢\[41\]，它们是在的[波因格工厂创建](https://zh.wikipedia.org/wiki/波因格 "wikilink")，并连同一个ICE-T列车模型一起发布及提交德国铁路董事会\[42\]。经过阐述过百项的细节、维护和生产问题以及测试后，细节和生产规划得到确定。该实物模型在慕尼黑维修车间停留了近一年的时间，主要被用作客户调查\[43\]\[44\]\[45\]\[46\]\[47\]。至1996年初，再有三个进行了技术优化的车厢模型按1:20至1:10的比例被建造\[48\]。
 
-在落实阶段，ICE-3列车及ICE-T列车特有的内饰设计元素包括有采用[喷砂](../Page/喷砂.md "wikilink")、半透明的玻璃行李架，以及大量来自[榉木的面板以及](https://zh.wikipedia.org/wiki/榉木 "wikilink")[镀铬](../Page/铬.md "wikilink")、[石材及](https://zh.wikipedia.org/wiki/石材 "wikilink")[皮革的应用](../Page/皮革.md "wikilink")\[49\]\[50\]。
+在落实阶段，ICE-3列车及ICE-T列车特有的内饰设计元素包括有采用[喷砂](../Page/喷砂.md "wikilink")、半透明的玻璃行李架，以及大量来自[榉木的面板以及](https://zh.wikipedia.org/wiki/榉木 "wikilink")[镀铬](../Page/铬.md "wikilink")、[石材及](https://zh.wikipedia.org/wiki/石材 "wikilink")[皮革](../Page/皮革.md "wikilink")的应用\[49\]\[50\]。
 
 诺伊麦斯特在比赛设计中还进行了多项内饰的创新探索，但都未能实现。这些措施包括可大范围旋转的座椅、不同的休息室概念，以及基于[光导纤维技术](https://zh.wikipedia.org/wiki/光导纤维 "wikilink")、可在昼夜之间进行颜色变换的室内照明灯等等。在最初的计划里，列车为完全的[开放空间配置](../Page/开放车厢.md "wikilink")，但在设计改进的过程中，德国铁路在一等车厢内增加了[隔间配置](https://zh.wikipedia.org/wiki/隔间车厢 "wikilink")\[51\]\[52\]。ICE-3列车的座席数量与ICE-2列车相比也有轻微的变化\[53\]。
 
-ICE-3列车的设计被授予了\[54\]。端部车厢实体模型的前面部分如今陈列于[纽伦堡德国铁路博物馆](https://zh.wikipedia.org/wiki/纽伦堡德国铁路博物馆 "wikilink")\[55\]。2006年，[德国邮政还发行了一枚ICE](../Page/德国邮政.md "wikilink")-3列车题材的[邮票](../Page/邮票.md "wikilink")\[56\]。
+ICE-3列车的设计被授予了\[54\]。端部车厢实体模型的前面部分如今陈列于[纽伦堡德国铁路博物馆](https://zh.wikipedia.org/wiki/纽伦堡德国铁路博物馆 "wikilink")\[55\]。2006年，[德国邮政](../Page/德国邮政.md "wikilink")还发行了一枚ICE-3列车题材的[邮票](../Page/邮票.md "wikilink")\[56\]。
 
 ### 开始运转
 
-首列ICE-3列车于1998年10月在的进行了滚动试验\[57\]。其部分车厢（编号为406
-001/002/003号的三节车厢\[58\]）是于同年10月底在[柏林举行的](../Page/柏林.md "wikilink")会议上正式亮相\[59\]。
+首列ICE-3列车于1998年10月在的进行了滚动试验\[57\]。其部分车厢（编号为406 001/002/003号的三节车厢\[58\]）是于同年10月底在[柏林](../Page/柏林.md "wikilink")举行的会议上正式亮相\[59\]。
 
-[ICE3_Dernbachertunnel.jpg](https://zh.wikipedia.org/wiki/File:ICE3_Dernbachertunnel.jpg "fig:ICE3_Dernbachertunnel.jpg")的[蒙塔鲍尔附近](../Page/蒙塔鲍尔.md "wikilink")\]\]
-自1998年12月起，首列8节编组的ICE-3列车开始入驻，并于1999年进行了调试\[60\]。1999年2月1日，301号动车组率先完成了自主运行，其中包括在高速范围内的运行\[61\]。1999年3月，荷兰铁路的首列两节端部车厢也进入试验中心\[62\]。
+[ICE3_Dernbachertunnel.jpg](https://zh.wikipedia.org/wiki/File:ICE3_Dernbachertunnel.jpg "fig:ICE3_Dernbachertunnel.jpg")的[蒙塔鲍尔](../Page/蒙塔鲍尔.md "wikilink")附近\]\] 自1998年12月起，首列8节编组的ICE-3列车开始入驻，并于1999年进行了调试\[60\]。1999年2月1日，301号动车组率先完成了自主运行，其中包括在高速范围内的运行\[61\]。1999年3月，荷兰铁路的首列两节端部车厢也进入试验中心\[62\]。
 
 1999年7月9日，ICE-3列车的首次展出仪式同样在举行。1999年中期，分别配属德国铁路和荷兰铁路的两组列车开始在德国的线路中运行。1999年8月上旬，再有一组列车开始在荷兰的线路中进行适航验证运行\[63\]。人员的培训运行于2000年3月及4月完成，同年5月则进行了搭载员工的测试\[64\]。
 
 2000年5月23日，首列ICE-3列车在的ICE工厂面向[专业媒体展出](../Page/新聞媒體.md "wikilink")\[65\]。ICE-3工作组代表象征性的向德国铁路前[CEO](https://zh.wikipedia.org/wiki/CEO "wikilink")移交了列车钥匙（303号动车组）。在为[新闻记者进行的展示运行中](https://zh.wikipedia.org/wiki/新闻记者 "wikilink")，列车获得临时授权达到了307公里/小时的最高速度\[66\]。
 
-至2000年5月底，已有14列403型或406型动车组可以开始载客运行\[67\]。它们最初获得了最高时速分别为250公里/小时（新造高速线）、200公里/小时（以于普速线）或160公里/小时（无LZB）的适航许可证\[68\]。其首次载客运行是在2000年6月1日至10月31日期间，作为[2000年世界博览会的](../Page/2000年世界博览会.md "wikilink")“世博快车（）”使用\[69\]。当时有1组ICE-3M列车专门在阿姆斯特丹经[奥斯纳布吕克至](../Page/奥斯纳布吕克.md "wikilink")[汉诺威之间运行](../Page/汉诺威.md "wikilink")\[70\]\[71\]。首批交付使用的是8组ICE-3列车和3组ICE-3M列车\[72\]。这些列车的最高速度最初通常被限制在200公里/小时，只有在[涡流制动生效的部分路段可以达到更高的速度](../Page/涡流制动.md "wikilink")\[73\]。
+至2000年5月底，已有14列403型或406型动车组可以开始载客运行\[67\]。它们最初获得了最高时速分别为250公里/小时（新造高速线）、200公里/小时（以于普速线）或160公里/小时（无LZB）的适航许可证\[68\]。其首次载客运行是在2000年6月1日至10月31日期间，作为[2000年世界博览会](../Page/2000年世界博览会.md "wikilink")的“世博快车（）”使用\[69\]。当时有1组ICE-3M列车专门在阿姆斯特丹经[奥斯纳布吕克](../Page/奥斯纳布吕克.md "wikilink")至[汉诺威](../Page/汉诺威.md "wikilink")之间运行\[70\]\[71\]。首批交付使用的是8组ICE-3列车和3组ICE-3M列车\[72\]。这些列车的最高速度最初通常被限制在200公里/小时，只有在[涡流制动](../Page/涡流制动.md "wikilink")生效的部分路段可以达到更高的速度\[73\]。
 
-自2000年10月起，已有23组ICE-3列车和6组ICE-3M列车可供使用\[74\]。2000年11月5日，它们开始在慕尼黑－[汉堡](../Page/汉堡.md "wikilink")/[不来梅的线路中使用](https://zh.wikipedia.org/wiki/不来梅 "wikilink")（慕尼黑－汉诺威区间[重联运行](https://zh.wikipedia.org/wiki/机车重联 "wikilink")，之后再分离各自前往汉堡或不来梅）\[75\]。同时它们已被纳入荷兰的定期服务。其中在阿姆斯特丹及[科隆之间开行有每两小时一班的列车](../Page/科隆.md "wikilink")，另有一班列车从法兰克福到发。这原本是由[欧城列车担当的交路](../Page/欧城列车.md "wikilink")，但自10月24日起，ICE-3M列车已完全接管了这项服务\[76\]。在投入服务的前几个月中，列车实现了平稳运营，然而由于假定的，列车在许多线路中的最高速度仍被限制为200公里/小时\[77\]。在列车投入服务的第一年，列车没有发生重大异常\[78\]。
+自2000年10月起，已有23组ICE-3列车和6组ICE-3M列车可供使用\[74\]。2000年11月5日，它们开始在慕尼黑－[汉堡](../Page/汉堡.md "wikilink")/[不来梅的线路中使用](https://zh.wikipedia.org/wiki/不来梅 "wikilink")（慕尼黑－汉诺威区间[重联运行](https://zh.wikipedia.org/wiki/机车重联 "wikilink")，之后再分离各自前往汉堡或不来梅）\[75\]。同时它们已被纳入荷兰的定期服务。其中在阿姆斯特丹及[科隆](../Page/科隆.md "wikilink")之间开行有每两小时一班的列车，另有一班列车从法兰克福到发。这原本是由[欧城列车](../Page/欧城列车.md "wikilink")担当的交路，但自10月24日起，ICE-3M列车已完全接管了这项服务\[76\]。在投入服务的前几个月中，列车实现了平稳运营，然而由于假定的，列车在许多线路中的最高速度仍被限制为200公里/小时\[77\]。在列车投入服务的第一年，列车没有发生重大异常\[78\]。
 
-2000年，列车还在[汉诺威－柏林高速铁路进行的另一次试运行中达到](../Page/汉诺威－柏林高速铁路.md "wikilink")368公里/小时的最高速度，从而创造了新的[軌道車輛速度紀錄](../Page/軌道車輛速度紀錄.md "wikilink")\[79\]。至2000年12月的运行图调整中，所订购的列车已有约三分之二投入服务。而在2001年8月，所有ICE-3M列车均已完成交付\[80\]。
+2000年，列车还在[汉诺威－柏林高速铁路](../Page/汉诺威－柏林高速铁路.md "wikilink")进行的另一次试运行中达到368公里/小时的最高速度，从而创造了新的[軌道車輛速度紀錄](../Page/軌道車輛速度紀錄.md "wikilink")\[79\]。至2000年12月的运行图调整中，所订购的列车已有约三分之二投入服务。而在2001年8月，所有ICE-3M列车均已完成交付\[80\]。
 
-为了获得330公里/小时的适航许可证，ICE-3列车于2001年9月3日在[加尔德莱根附近](../Page/加尔德莱根.md "wikilink")（汉诺威－柏林高速铁路）的一次轨道测试中又达到367公里/小时的最高速度。基于测试中所得到的测量数据，决定在2002年以前向列车颁发330公里/小时的适航许可证，同时列车运营的最高限速也首次被提升至230公里/小时\[81\]。而ICE-3M列车则已于2001年2月22日在柏林至[沃尔夫斯堡区间达到了](../Page/沃尔夫斯堡.md "wikilink")355公里/小时的最高速度\[82\]。
+为了获得330公里/小时的适航许可证，ICE-3列车于2001年9月3日在[加尔德莱根](../Page/加尔德莱根.md "wikilink")附近（汉诺威－柏林高速铁路）的一次轨道测试中又达到367公里/小时的最高速度。基于测试中所得到的测量数据，决定在2002年以前向列车颁发330公里/小时的适航许可证，同时列车运营的最高限速也首次被提升至230公里/小时\[81\]。而ICE-3M列车则已于2001年2月22日在柏林至[沃尔夫斯堡](../Page/沃尔夫斯堡.md "wikilink")区间达到了355公里/小时的最高速度\[82\]。
 
-为了获得在[瑞士运行的适航证](https://zh.wikipedia.org/wiki/瑞士 "wikilink")，一列ICE-3M动车组于2000年12月上旬前往当地进行测试。但涡流制动和在瑞士境内均不提供使用\[83\]。于2001年5月1日至15日期间，ICE-3列车的制造商[联盟代表又在当地进行了更多用于技术审批的测试运行](https://zh.wikipedia.org/wiki/联盟 "wikilink")。此外，列车还前往[圣哥达山口的南坡进行测试](https://zh.wikipedia.org/wiki/圣哥达山口 "wikilink")。在内，列车的最高速度首次超过了200公里/小时\[84\]。2001年底，列车又分别在瑞士、[比利时和](../Page/比利时.md "wikilink")[法国进行了适航试验](https://zh.wikipedia.org/wiki/法国 "wikilink")。六个月后，瑞士对其颁发了适航许可证\[85\]。然而，将列车原有的自动列车保护装置转换为当地要求的[歐洲列車控制系統](../Page/歐洲列車控制系統.md "wikilink")（）的计划由于成本原因而未实现，因此这项适航证最终也未及使用\[86\]。
+为了获得在[瑞士运行的适航证](https://zh.wikipedia.org/wiki/瑞士 "wikilink")，一列ICE-3M动车组于2000年12月上旬前往当地进行测试。但涡流制动和在瑞士境内均不提供使用\[83\]。于2001年5月1日至15日期间，ICE-3列车的制造商[联盟代表又在当地进行了更多用于技术审批的测试运行](https://zh.wikipedia.org/wiki/联盟 "wikilink")。此外，列车还前往[圣哥达山口的南坡进行测试](https://zh.wikipedia.org/wiki/圣哥达山口 "wikilink")。在内，列车的最高速度首次超过了200公里/小时\[84\]。2001年底，列车又分别在瑞士、[比利时](../Page/比利时.md "wikilink")和[法国进行了适航试验](https://zh.wikipedia.org/wiki/法国 "wikilink")。六个月后，瑞士对其颁发了适航许可证\[85\]。然而，将列车原有的自动列车保护装置转换为当地要求的[歐洲列車控制系統](../Page/歐洲列車控制系統.md "wikilink")（）的计划由于成本原因而未实现，因此这项适航证最终也未及使用\[86\]。
 
 在新造线路[科隆－莱茵/美因高速铁路通车前的筹备阶段](https://zh.wikipedia.org/wiki/科隆－莱茵/美因高速铁路 "wikilink")，列车还曾于2001年8月底在坡度陡峭的进行了拖曳测试及重联测试\[87\]。自2002年1月起，ICE-3列车获得了可在科隆－莱茵/美因高速铁路运行的线路适航许可证\[88\]。
 
@@ -82,9 +74,7 @@ ICE-3（M）列车最初是由4节二等车厢和3节一等车厢组成，并通
 
 ### 其它运转
 
-[Verkehrswegebündelung_KRM.jpg](https://zh.wikipedia.org/wiki/File:Verkehrswegebündelung_KRM.jpg "fig:Verkehrswegebündelung_KRM.jpg")平行的科隆－莱茵/美因高速铁路是如今ICE-3列车最主要的运用地点\]\]
-[Parallelfahrt_NIM.jpg](https://zh.wikipedia.org/wiki/File:Parallelfahrt_NIM.jpg "fig:Parallelfahrt_NIM.jpg")
-自2001年10月起，列车开始在新造的科隆-莱茵/美因高速铁路上进行（无载客）试运行。在后者正式通车当日，共有2列重联编组的ICE-3列车（328/331号及307/302号动车组）在双向同时开行\[97\]。从2002年8月1日至2002年12月14日期间，共有8组ICE-3列车被用于科隆至法兰克福之间的定期往返服务。在新造线路上，ICE-3列车首次在客运服务中达到300公里/小时的最高速度，其余的ICE列车也被批准以280公里/小时的最高速度运行\[98\]。
+[Verkehrswegebündelung_KRM.jpg](https://zh.wikipedia.org/wiki/File:Verkehrswegebündelung_KRM.jpg "fig:Verkehrswegebündelung_KRM.jpg")平行的科隆－莱茵/美因高速铁路是如今ICE-3列车最主要的运用地点\]\] [Parallelfahrt_NIM.jpg](https://zh.wikipedia.org/wiki/File:Parallelfahrt_NIM.jpg "fig:Parallelfahrt_NIM.jpg") 自2001年10月起，列车开始在新造的科隆-莱茵/美因高速铁路上进行（无载客）试运行。在后者正式通车当日，共有2列重联编组的ICE-3列车（328/331号及307/302号动车组）在双向同时开行\[97\]。从2002年8月1日至2002年12月14日期间，共有8组ICE-3列车被用于科隆至法兰克福之间的定期往返服务。在新造线路上，ICE-3列车首次在客运服务中达到300公里/小时的最高速度，其余的ICE列车也被批准以280公里/小时的最高速度运行\[98\]。
 
 为了改善列车在[侧风时的运行性能](https://zh.wikipedia.org/wiki/侧风 "wikilink")，所有单电压列车的端部车厢都于2002年下半年加装了重量为1,550千克的底板压载物\[99\]。随着被完全纳入新造线路的运用计划，自2002年12月15日起，ICE-3列车开始撤出慕尼黑－汉堡/不来梅的南北轴线服务\[100\]。在新造线路上，列车服务开始出现大量的技术问题而导致延误和取消。因此，所有由庞巴迪运输供应的[牵引电动机必须进行修改](https://zh.wikipedia.org/wiki/牵引电动机 "wikilink")。同时，由于涡流制动在线路上摩擦所导致的[绝缘体脱落](https://zh.wikipedia.org/wiki/绝缘体 "wikilink")，使得水份可以渗透至[线圈](https://zh.wikipedia.org/wiki/线圈 "wikilink")，从而导致[短路](../Page/短路.md "wikilink")。在德国铁路的公报中，列车诊断系统每日累计发送的两个最高级别故障信息最高可达700项\[101\]。据媒体报道，列车用作重联运行的[连接器也反复出现问题](https://zh.wikipedia.org/wiki/铁路连接器 "wikilink")\[102\]。此外，列车在过渡到比利时3千伏电网时也不时会出现问题\[103\]。在2003年夏天，列车的[空调系统被证明过弱](https://zh.wikipedia.org/wiki/空调 "wikilink")，并会导致大量的过载故障\[104\]。自2004年3月底，列车开始进行设备转换，其外部加装了一个明显的顶罩，它应该可阻挡暖湿气流的侵入\[105\]。
 
@@ -92,16 +82,15 @@ ICE-3（M）列车最初是由4节二等车厢和3节一等车厢组成，并通
 
 至2003年12月14日的运行图调整中，通过进一步的加密服务，ICE-3列车的定期运行年里程数被增加至55万公里。它由此也达到了ICE列车家族的最高峰值。对于2004年，列车的行驶里程预期还将继续增加\[107\]。
 
-2004年12月21日，时任[德国总理的](../Page/德国总理.md "wikilink")[格哈特·施羅德与](../Page/格哈特·施羅德.md "wikilink")[俄罗斯总统](../Page/俄罗斯总统.md "wikilink")[普京共同乘坐ICE](https://zh.wikipedia.org/wiki/普京 "wikilink")-3列车由[多特蒙德前往](../Page/多特蒙德.md "wikilink")[杜塞尔多夫](../Page/杜塞尔多夫.md "wikilink")。双方同时在车上签署了[俄罗斯铁路订购](../Page/俄罗斯铁路.md "wikilink")60组[Velaro
-RUS列车的意向协议](https://zh.wikipedia.org/wiki/Velaro_RUS列车 "wikilink")\[108\]。至2004年底，ICE-3列车的运行总里程达到约7,000万公里，单组列车的运营里程最高也达180万公里\[109\]。
+2004年12月21日，时任[德国总理](../Page/德国总理.md "wikilink")的[格哈特·施羅德](../Page/格哈特·施羅德.md "wikilink")与[俄罗斯总统](../Page/俄罗斯总统.md "wikilink")[普京共同乘坐ICE](https://zh.wikipedia.org/wiki/普京 "wikilink")-3列车由[多特蒙德](../Page/多特蒙德.md "wikilink")前往[杜塞尔多夫](../Page/杜塞尔多夫.md "wikilink")。双方同时在车上签署了[俄罗斯铁路](../Page/俄罗斯铁路.md "wikilink")订购60组[Velaro RUS列车的意向协议](https://zh.wikipedia.org/wiki/Velaro_RUS列车 "wikilink")\[108\]。至2004年底，ICE-3列车的运行总里程达到约7,000万公里，单组列车的运营里程最高也达180万公里\[109\]。
 
-2005年夏天，由于损耗增加和其它原因，在城际快车41号线（[纽伦堡](../Page/纽伦堡.md "wikilink")－[埃森](../Page/埃森.md "wikilink")）运营的部分ICE-3列车服务被暂时取消\[110\]。2005年底，7组ICE-3列车率先成为搭载移动[互联网接入设备的ICE列车](../Page/互联网.md "wikilink")。从这时起，所有用于国内运营（403型）的ICE-3列车均可使用这种设备，在部分线路通过[WLAN技术访问互联网](https://zh.wikipedia.org/wiki/WLAN "wikilink")\[111\]。
+2005年夏天，由于损耗增加和其它原因，在城际快车41号线（[纽伦堡](../Page/纽伦堡.md "wikilink")－[埃森](../Page/埃森.md "wikilink")）运营的部分ICE-3列车服务被暂时取消\[110\]。2005年底，7组ICE-3列车率先成为搭载移动[互联网](../Page/互联网.md "wikilink")接入设备的ICE列车。从这时起，所有用于国内运营（403型）的ICE-3列车均可使用这种设备，在部分线路通过[WLAN技术访问互联网](https://zh.wikipedia.org/wiki/WLAN "wikilink")\[111\]。
 
 在2006年中期，一款新的连接头开始在ICE-3列车上进行测试\[112\]。
 
 ### 轮轴问题
 
-2008年7月9日，正执行ICE518次服务、由慕尼黑开往多特蒙德的一列ICE-3列车（Tz310，沃尔夫斯堡号）在驶离[科隆中央车站时后不久于](https://zh.wikipedia.org/wiki/科隆中央车站 "wikilink")[霍亨索伦桥前出轨](../Page/霍亨索伦桥.md "wikilink")，原因为轮轴断裂\[113\]。列车是在轮对于枕木上发生异响后通过紧急制动而陷入停滞状态。无人在事故中受伤，乘客可以通过列尾的车门返回车站[月台](https://zh.wikipedia.org/wiki/月台 "wikilink")\[114\]。据乘客反映，列车所发出的异响早在进入科隆之前便已听见，而在驶出科隆后，动车组的两节车厢即发生分离\[115\]。
+2008年7月9日，正执行ICE518次服务、由慕尼黑开往多特蒙德的一列ICE-3列车（Tz310，沃尔夫斯堡号）在驶离[科隆中央车站时后不久于](https://zh.wikipedia.org/wiki/科隆中央车站 "wikilink")[霍亨索伦桥](../Page/霍亨索伦桥.md "wikilink")前出轨，原因为轮轴断裂\[113\]。列车是在轮对于枕木上发生异响后通过紧急制动而陷入停滞状态。无人在事故中受伤，乘客可以通过列尾的车门返回车站[月台](https://zh.wikipedia.org/wiki/月台 "wikilink")\[114\]。据乘客反映，列车所发出的异响早在进入科隆之前便已听见，而在驶出科隆后，动车组的两节车厢即发生分离\[115\]。
 
 由于面临安全危险，联邦铁路局于2008年7月10日下令，所有ICE-3列车必须在当天的运行结束后退出服务，其中运行里程超过6万公里的轮轴需要进行[超声波探伤检查](https://zh.wikipedia.org/wiki/超声波 "wikilink")。而采用34CrNiMo6型[合金钢轮轴的常规超声波检查周期也由原本的](https://zh.wikipedia.org/wiki/不锈钢 "wikilink")30万公里被缩短为6万公里\[116\]。所有67列动车组中共有61列受到影响。这也导致在随后的几天里，有过百班列车服务需要全部或部分由备用列车替换\[117\]。
 
@@ -117,20 +106,17 @@ RUS列车的意向协议](https://zh.wikipedia.org/wiki/Velaro_RUS列车 "wikili
 
 ### 407型
 
-德国铁路在2007年开始对更多的四电压制式（德国、法国、比利时，以及可选配瑞士）动车组进行招标，这些动车组需要满足最高速度达320公里/小时及提供至少420个座席的要求\[141\]。最终，西门子以其8节编组的[Velaro
-D列车赢得了订购合同](https://zh.wikipedia.org/wiki/Velaro_D列车 "wikilink")。这些被定型为407型的动车组将会纳入ICE-3家族，并可用作前往法国、比利时以及德国本土的运营\[142\]。
+德国铁路在2007年开始对更多的四电压制式（德国、法国、比利时，以及可选配瑞士）动车组进行招标，这些动车组需要满足最高速度达320公里/小时及提供至少420个座席的要求\[141\]。最终，西门子以其8节编组的[Velaro D列车赢得了订购合同](https://zh.wikipedia.org/wiki/Velaro_D列车 "wikilink")。这些被定型为407型的动车组将会纳入ICE-3家族，并可用作前往法国、比利时以及德国本土的运营\[142\]。
 
-原定于2011年12月开始运转的计划被推迟了两年。16组列车也未能按照计划在2012年12月的运行图调整中投入服务，因为它们仍未通过联邦铁路局的审批。德国铁路在2013年底预计，列车在德国境内的定期运营不会在2014年第一季度前实现\[143\]，完全的跨境运营可操作性也不会在2016年底实现\[144\]。联邦铁路局直至2013年[圣诞节前夕才为](../Page/圣诞节.md "wikilink")407型列车颁发了适航许可证\[145\]。
+原定于2011年12月开始运转的计划被推迟了两年。16组列车也未能按照计划在2012年12月的运行图调整中投入服务，因为它们仍未通过联邦铁路局的审批。德国铁路在2013年底预计，列车在德国境内的定期运营不会在2014年第一季度前实现\[143\]，完全的跨境运营可操作性也不会在2016年底实现\[144\]。联邦铁路局直至2013年[圣诞节](../Page/圣诞节.md "wikilink")前夕才为407型列车颁发了适航许可证\[145\]。
 
 ### 重新设计
 
-在德国铁路于2013年底完成对ICE-T列车的重新设计事项后，ICE-3列车也应在2015年底开始[现代化更新](../Page/现代化.md "wikilink")\[146\]。其中403型动车组应率先自2016年第一季度起配备新式座椅。在进行改造之前、最迟自2014年第四季度起，3家供应商将需要对两个席别中的最多70个座椅进行为期3到6个月的测试和[市场调研](https://zh.wikipedia.org/wiki/市场调研 "wikilink")\[147\]</ref>。德国铁路同时也考虑将空调系统作为重新设计的一部分进行更换\[148\]。
+在德国铁路于2013年底完成对ICE-T列车的重新设计事项后，ICE-3列车也应在2015年底开始[现代化](../Page/现代化.md "wikilink")更新\[146\]。其中403型动车组应率先自2016年第一季度起配备新式座椅。在进行改造之前、最迟自2014年第四季度起，3家供应商将需要对两个席别中的最多70个座椅进行为期3到6个月的测试和[市场调研](https://zh.wikipedia.org/wiki/市场调研 "wikilink")\[147\]</ref>。德国铁路同时也考虑将空调系统作为重新设计的一部分进行更换\[148\]。
 
 ## 构造及内饰
 
-[ICE3_1.Klasse_2010-07-03.jpg](https://zh.wikipedia.org/wiki/File:ICE3_1.Klasse_2010-07-03.jpg "fig:ICE3_1.Klasse_2010-07-03.jpg")
-[ICE3_2.Klasse_Bild3_2010-07-03.jpg](https://zh.wikipedia.org/wiki/File:ICE3_2.Klasse_Bild3_2010-07-03.jpg "fig:ICE3_2.Klasse_Bild3_2010-07-03.jpg")
-全部67组ICE-3列车均由8节车厢所组成\[149\]\[150\]：
+[ICE3_1.Klasse_2010-07-03.jpg](https://zh.wikipedia.org/wiki/File:ICE3_1.Klasse_2010-07-03.jpg "fig:ICE3_1.Klasse_2010-07-03.jpg") [ICE3_2.Klasse_Bild3_2010-07-03.jpg](https://zh.wikipedia.org/wiki/File:ICE3_2.Klasse_Bild3_2010-07-03.jpg "fig:ICE3_2.Klasse_Bild3_2010-07-03.jpg") 全部67组ICE-3列车均由8节车厢所组成\[149\]\[150\]：
 
   - 设有一等[开放座席及休息室的带动力端部车厢](https://zh.wikipedia.org/wiki/开放座车 "wikilink")（29/39号，403.0/406.0型）
   - 设有一等开放座席及3个[隔间的无动力中部车厢](https://zh.wikipedia.org/wiki/隔间座车 "wikilink")（28/38号，403.1/406.1型）
@@ -155,64 +141,53 @@ D列车赢得了订购合同](https://zh.wikipedia.org/wiki/Velaro_D列车 "wiki
 
 ### 分散式动力
 
-[Stromabnehmer_ICE_3.jpg](https://zh.wikipedia.org/wiki/File:Stromabnehmer_ICE_3.jpg "fig:Stromabnehmer_ICE_3.jpg")
-[FST_ICE3.jpg](https://zh.wikipedia.org/wiki/File:FST_ICE3.jpg "fig:FST_ICE3.jpg")
-[Loungescheibe_milchig.jpg](https://zh.wikipedia.org/wiki/File:Loungescheibe_milchig.jpg "fig:Loungescheibe_milchig.jpg")
-相比较以往的ICE-1列车及ICE-2列车，ICE-3列车最主要的创新在于采用了动力分散式技术。几乎所有的电气设备都被安装在整组列车的客舱底部，并可以藉此省去动力集中式车头。8节车厢中的4节形成了一个密不可分的动力车组，它们包含有牵引电动机、[牵引变频器及](https://zh.wikipedia.org/wiki/变频器 "wikilink")[变压器](../Page/变压器.md "wikilink")\[157\]。
+[Stromabnehmer_ICE_3.jpg](https://zh.wikipedia.org/wiki/File:Stromabnehmer_ICE_3.jpg "fig:Stromabnehmer_ICE_3.jpg") [FST_ICE3.jpg](https://zh.wikipedia.org/wiki/File:FST_ICE3.jpg "fig:FST_ICE3.jpg") [Loungescheibe_milchig.jpg](https://zh.wikipedia.org/wiki/File:Loungescheibe_milchig.jpg "fig:Loungescheibe_milchig.jpg") 相比较以往的ICE-1列车及ICE-2列车，ICE-3列车最主要的创新在于采用了动力分散式技术。几乎所有的电气设备都被安装在整组列车的客舱底部，并可以藉此省去动力集中式车头。8节车厢中的4节形成了一个密不可分的动力车组，它们包含有牵引电动机、[牵引变频器及](https://zh.wikipedia.org/wiki/变频器 "wikilink")[变压器](../Page/变压器.md "wikilink")\[157\]。
 
 2节无动力的中部车厢跟随动车组两端的各3节“牵引组”车厢被设置在编组中部。3节牵引组车厢则构成一个[电气化单元](https://zh.wikipedia.org/wiki/电机工程学 "wikilink")。两侧牵引组车厢中间均设有一个无动力的变压器车厢，它们各搭载有一副[受电弓及两副配备牵引电动机的](https://zh.wikipedia.org/wiki/受电弓 "wikilink")[转向架](https://zh.wikipedia.org/wiki/转向架 "wikilink")。两端的端部车厢则各设有一个驾驶室\[158\]\[159\]。单电压制式列车的两副受电弓被分别安装在2号及7号变压器车厢。多电压制式列车的受电弓则排列在4节车厢之上，同样为每节搭载一副\[160\]。
 
-动力车厢通过各自功率为500千瓦、重750千克的牵引电动机实现驱动，其转数为4,100转/分钟，预计使用里程可达230万公里\[161\]。随着每列动车组8,000千瓦的输出功率和最高420吨的整备重量，其19千瓦/吨的额定功率达到ICE-1列车的两倍之多\[162\]。此外，ICE-3列车也能比其前任车型更加胜任大[坡度的定期运营任务](../Page/坡度.md "wikilink")。截至2008年的运行图调整，它是唯一能在科隆-莱茵/美因铁路中高达40‰的坡道运行的客运列车，因此通过该线路的所有客运班次几乎都使用ICE-3列车担当\[163\]。
+动力车厢通过各自功率为500千瓦、重750千克的牵引电动机实现驱动，其转数为4,100转/分钟，预计使用里程可达230万公里\[161\]。随着每列动车组8,000千瓦的输出功率和最高420吨的整备重量，其19千瓦/吨的额定功率达到ICE-1列车的两倍之多\[162\]。此外，ICE-3列车也能比其前任车型更加胜任大[坡度](../Page/坡度.md "wikilink")的定期运营任务。截至2008年的运行图调整，它是唯一能在科隆-莱茵/美因铁路中高达40‰的坡道运行的客运列车，因此通过该线路的所有客运班次几乎都使用ICE-3列车担当\[163\]。
 
-通过被分配至多个轮轴的加速功率可以降低[粘着系数](https://zh.wikipedia.org/wiki/粘着系数 "wikilink")，因此列车最大轴重的平均配重被减轻至17吨。前者使动轮获得较小的空转倾向，从而得以在牵引力条件不理想的情况下实现更好的加速性能。通过减轻重量还可以获得较低的[道床载荷](https://zh.wikipedia.org/wiki/道砟 "wikilink")。采用底部技术的优点在于，被安装在客舱下方的[动力总成可以通过](../Page/动力总成.md "wikilink")[隔音板获得较佳的隔音效果](https://zh.wikipedia.org/wiki/隔音板 "wikilink")。但其缺点则是动车组无法分离使用\[164\]，以及自身较高的侧风敏感度\[165\]。这个概念还允许乘客在列车两端获得清晰的线路视野。坐在休息室的乘客可以通过驾驶室的玻璃隔板眺望列车的前方或后方景观。同时，座椅数也会比相同长度的列车提高约15%\[166\]。
+通过被分配至多个轮轴的加速功率可以降低[粘着系数](https://zh.wikipedia.org/wiki/粘着系数 "wikilink")，因此列车最大轴重的平均配重被减轻至17吨。前者使动轮获得较小的空转倾向，从而得以在牵引力条件不理想的情况下实现更好的加速性能。通过减轻重量还可以获得较低的[道床载荷](https://zh.wikipedia.org/wiki/道砟 "wikilink")。采用底部技术的优点在于，被安装在客舱下方的[动力总成](../Page/动力总成.md "wikilink")可以通过[隔音板获得较佳的隔音效果](https://zh.wikipedia.org/wiki/隔音板 "wikilink")。但其缺点则是动车组无法分离使用\[164\]，以及自身较高的侧风敏感度\[165\]。这个概念还允许乘客在列车两端获得清晰的线路视野。坐在休息室的乘客可以通过驾驶室的玻璃隔板眺望列车的前方或后方景观。同时，座椅数也会比相同长度的列车提高约15%\[166\]。
 
 ### 其它特点
 
-[Wirbelstrombremse_aktiv.jpg](https://zh.wikipedia.org/wiki/File:Wirbelstrombremse_aktiv.jpg "fig:Wirbelstrombremse_aktiv.jpg")
-ICE-3列车是欧洲首个配备涡流制动器的量产列车\[167\]。涡流制动可以在新造的科隆-莱茵/美因高速铁路和[纽伦堡-因戈尔施塔特高速铁路中作为](https://zh.wikipedia.org/wiki/纽伦堡-因戈尔施塔特高速铁路 "wikilink")使用，也可以在其它线路用作紧急制动的强化使用\[168\]。每组列车的涡流制动的最大功率为800千瓦。每个从动转向架上都安装有两块1,290毫米长的[磁块](../Page/磁鐵.md "wikilink")，每组列车产生的涡流制动力可达200千牛\[169\]。
+[Wirbelstrombremse_aktiv.jpg](https://zh.wikipedia.org/wiki/File:Wirbelstrombremse_aktiv.jpg "fig:Wirbelstrombremse_aktiv.jpg") ICE-3列车是欧洲首个配备涡流制动器的量产列车\[167\]。涡流制动可以在新造的科隆-莱茵/美因高速铁路和[纽伦堡-因戈尔施塔特高速铁路中作为](https://zh.wikipedia.org/wiki/纽伦堡-因戈尔施塔特高速铁路 "wikilink")使用，也可以在其它线路用作紧急制动的强化使用\[168\]。每组列车的涡流制动的最大功率为800千瓦。每个从动转向架上都安装有两块1,290毫米长的[磁块](../Page/磁鐵.md "wikilink")，每组列车产生的涡流制动力可达200千牛\[169\]。
 
-ICE-3列车也是欧洲首个集成“”的高速列车。列车连接器可在发生碰撞的情况下，将所产生的[动能有针对性的传递至车厢连接处的可变形元件](../Page/动能.md "wikilink")\[170\]\[171\]。驾驶室前端的三级制[圆柱形](../Page/圆柱体.md "wikilink")[能量吸收器则可控制碰撞能量向下承托](../Page/吸收_\(光学\).md "wikilink")\[172\]。
+ICE-3列车也是欧洲首个集成“”的高速列车。列车连接器可在发生碰撞的情况下，将所产生的[动能](../Page/动能.md "wikilink")有针对性的传递至车厢连接处的可变形元件\[170\]\[171\]。驾驶室前端的三级制[圆柱形](../Page/圆柱体.md "wikilink")[能量吸收器则可控制碰撞能量向下承托](../Page/吸收_\(光学\).md "wikilink")\[172\]。
 
 ### 其它技术
 
-车厢下方的转向架（SGP
-500型）是在ICE-2列车的基础上进一步发展而来。动力转向架和从动转向架采用相同的构造，它们仅可通过安装的牵引电动机（动轮）和涡流制动器（从动轮）作出区分。所有轮对均各自承载有两个（403型）或三个（406型）\[173\]。
+车厢下方的转向架（SGP 500型）是在ICE-2列车的基础上进一步发展而来。动力转向架和从动转向架采用相同的构造，它们仅可通过安装的牵引电动机（动轮）和涡流制动器（从动轮）作出区分。所有轮对均各自承载有两个（403型）或三个（406型）\[173\]。
 
-[ICE_3_gekuppelt.jpg](https://zh.wikipedia.org/wiki/File:ICE_3_gekuppelt.jpg "fig:ICE_3_gekuppelt.jpg")
-自动化的与、以及控制和信息导管相连\[174\]\[175\]。共有12个插塞接点和44个弹簧接点相互连接\[176\]。两组ICE-3列车可以连接成一组重联列车运行。-3列车在原则上还可与列车或列车重联\[177\]\[178\]。而更新了[软件系统的列车则也可与](../Page/软件.md "wikilink")407型动车组重联\[179\]。
+[ICE_3_gekuppelt.jpg](https://zh.wikipedia.org/wiki/File:ICE_3_gekuppelt.jpg "fig:ICE_3_gekuppelt.jpg") 自动化的与、以及控制和信息导管相连\[174\]\[175\]。共有12个插塞接点和44个弹簧接点相互连接\[176\]。两组ICE-3列车可以连接成一组重联列车运行。-3列车在原则上还可与列车或列车重联\[177\]\[178\]。而更新了[软件](../Page/软件.md "wikilink")系统的列车则也可与407型动车组重联\[179\]。
 
-独立通风的牵引电动机及涡流制动器是通过一个相同的供电。电动机的[力矩是通过一个扇形齿轮离合器传递至动轮](../Page/力矩.md "wikilink")，并做好了加装[连杆阻尼器的准备](https://zh.wikipedia.org/wiki/连杆阻尼器 "wikilink")。两节变压器车厢可以通过车顶的[特高壓引通線相连](https://zh.wikipedia.org/wiki/特高壓引通線 "wikilink")，因此仅需要升起一副受电弓便可进行驱动\[180\]。变压器车厢中两个功率为250千伏安的[变流器负责向](https://zh.wikipedia.org/wiki/变流器 "wikilink")输送670伏特的直流电压。若其中一个变流器失效，母线会通过相邻的牵引力单元继续相连。车厢照明、车门及制动控制、旅客信息系统以及传动和驾驶装置均由一个110伏特的[蓄电池母线供电](https://zh.wikipedia.org/wiki/蓄电池 "wikilink")。蓄电池充电器可在670伏特至110伏特间切换，并可在为母线供电的同时也为蓄电池充电\[181\]。
+独立通风的牵引电动机及涡流制动器是通过一个相同的供电。电动机的[力矩](../Page/力矩.md "wikilink")是通过一个扇形齿轮离合器传递至动轮，并做好了加装[连杆阻尼器的准备](https://zh.wikipedia.org/wiki/连杆阻尼器 "wikilink")。两节变压器车厢可以通过车顶的[特高壓引通線相连](https://zh.wikipedia.org/wiki/特高壓引通線 "wikilink")，因此仅需要升起一副受电弓便可进行驱动\[180\]。变压器车厢中两个功率为250千伏安的[变流器负责向](https://zh.wikipedia.org/wiki/变流器 "wikilink")输送670伏特的直流电压。若其中一个变流器失效，母线会通过相邻的牵引力单元继续相连。车厢照明、车门及制动控制、旅客信息系统以及传动和驾驶装置均由一个110伏特的[蓄电池母线供电](https://zh.wikipedia.org/wiki/蓄电池 "wikilink")。蓄电池充电器可在670伏特至110伏特间切换，并可在为母线供电的同时也为蓄电池充电\[181\]。
 
-[Sanden_ICE3.jpg](https://zh.wikipedia.org/wiki/File:Sanden_ICE3.jpg "fig:Sanden_ICE3.jpg")\]\]
-列车的制动系统是由制动控制计算机进行控制。大多数的正常制动功率均由[再生制动提供](https://zh.wikipedia.org/wiki/再生制动 "wikilink")，部分则依靠涡流制动支持；16台牵引电动机的最大制动功率总额为8.2兆瓦\[182\]。[盘式制动器仅在低速或加强的正常制动及紧急制动时使用](https://zh.wikipedia.org/wiki/盘式制动器 "wikilink")。火车司机也可以根据实际需要对盘式制动器进行切换。在300公里/小时的速度下，紧急制动的制动距离为2,800米；330公里/小时则为3,300米\[183\]。列车的[放沙裝置共可装载](../Page/放沙裝置.md "wikilink")440千克的沙子\[184\]。
+[Sanden_ICE3.jpg](https://zh.wikipedia.org/wiki/File:Sanden_ICE3.jpg "fig:Sanden_ICE3.jpg")\]\] 列车的制动系统是由制动控制计算机进行控制。大多数的正常制动功率均由[再生制动提供](https://zh.wikipedia.org/wiki/再生制动 "wikilink")，部分则依靠涡流制动支持；16台牵引电动机的最大制动功率总额为8.2兆瓦\[182\]。[盘式制动器仅在低速或加强的正常制动及紧急制动时使用](https://zh.wikipedia.org/wiki/盘式制动器 "wikilink")。火车司机也可以根据实际需要对盘式制动器进行切换。在300公里/小时的速度下，紧急制动的制动距离为2,800米；330公里/小时则为3,300米\[183\]。列车的[放沙裝置](../Page/放沙裝置.md "wikilink")共可装载440千克的沙子\[184\]。
 
-列车的控制系统根据[列车通信网络构建](../Page/列车通信网络.md "wikilink")，这是[国际电工委员会在](../Page/国际电工委员会.md "wikilink")1995年提出的标准草案。数据总线系统采用冗余设计。作为更高级别的系统，两节端部车厢各搭载有两个中央控制装置（），负责对两组牵引单元进行控制及监测。诊断信息会通过这些装置生成并发送至列车乘务员。ZSG还将以往相互分离实现功能的（）、中央路径及速度检测系统（）、（）、诊断系统（）和监测及控制中央处理器（）结合在了一起\[185\]。
+列车的控制系统根据[列车通信网络](../Page/列车通信网络.md "wikilink")构建，这是[国际电工委员会](../Page/国际电工委员会.md "wikilink")在1995年提出的标准草案。数据总线系统采用冗余设计。作为更高级别的系统，两节端部车厢各搭载有两个中央控制装置（），负责对两组牵引单元进行控制及监测。诊断信息会通过这些装置生成并发送至列车乘务员。ZSG还将以往相互分离实现功能的（）、中央路径及速度检测系统（）、（）、诊断系统（）和监测及控制中央处理器（）结合在了一起\[185\]。
 
-[FIS_ICE3.jpg](https://zh.wikipedia.org/wiki/File:FIS_ICE3.jpg "fig:FIS_ICE3.jpg")
-旅客信息系统是由乘务室进行控制。为了配合乘务员的通讯，列车还安装有全车范围内的[广播设备](https://zh.wikipedia.org/wiki/广播 "wikilink")、无线电话和紧急呼叫点。可视通讯则在所有的入口区域（内部及外部）提供[显示器](../Page/显示器.md "wikilink")、以及在每节车厢两端的顶部区域提供[LED显示器](https://zh.wikipedia.org/wiki/LED "wikilink")\[186\]。其中外部区域会显示列车运行的停站信息、内部区域会显示列车的实时运行速度，车厢两端的大屏幕显示器则会显示2至3行的公告短文。每排座位上方还设有一个带LED显示器的电子预订系统，用于显示乘客的订座信息。旅客信息系统的许多其它构想，例如[隨選視訊](../Page/隨選視訊.md "wikilink")、、[自动柜员机联网以及车票](https://zh.wikipedia.org/wiki/自动柜员机 "wikilink")、门票相关的自动售卖等功能，则尚未实现\[187\]。
+[FIS_ICE3.jpg](https://zh.wikipedia.org/wiki/File:FIS_ICE3.jpg "fig:FIS_ICE3.jpg") 旅客信息系统是由乘务室进行控制。为了配合乘务员的通讯，列车还安装有全车范围内的[广播设备](https://zh.wikipedia.org/wiki/广播 "wikilink")、无线电话和紧急呼叫点。可视通讯则在所有的入口区域（内部及外部）提供[显示器](../Page/显示器.md "wikilink")、以及在每节车厢两端的顶部区域提供[LED显示器](https://zh.wikipedia.org/wiki/LED "wikilink")\[186\]。其中外部区域会显示列车运行的停站信息、内部区域会显示列车的实时运行速度，车厢两端的大屏幕显示器则会显示2至3行的公告短文。每排座位上方还设有一个带LED显示器的电子预订系统，用于显示乘客的订座信息。旅客信息系统的许多其它构想，例如[隨選視訊](../Page/隨選視訊.md "wikilink")、、[自动柜员机联网以及车票](https://zh.wikipedia.org/wiki/自动柜员机 "wikilink")、门票相关的自动售卖等功能，则尚未实现\[187\]。
 
 ，包括乘务室的一台[传真机](https://zh.wikipedia.org/wiki/传真机 "wikilink")，最初是由进行处理，随后则改为[GSM网络](https://zh.wikipedia.org/wiki/全球移动通信系统 "wikilink")。列车的每节车厢都安装了。一等车厢则还设有服务呼叫按钮。第一批次生产的车型原本配备有时刻表信息[终端机](../Page/終端.md "wikilink")，但该功能在后来被停用\[188\]。
 
-\-3列车空调系统的一个特点是采用[空气为](../Page/空气.md "wikilink")[工作介质](https://zh.wikipedia.org/wiki/工作介质 "wikilink")。这种方式是经过[航空业的长其应用后](https://zh.wikipedia.org/wiki/航空运输 "wikilink")，于1991年开始被研究用作[铁路车辆空调](https://zh.wikipedia.org/wiki/铁路车辆 "wikilink")。经过自1992年起于实验样品上进行的开发，它最终得以在一节ICE-1列车的车厢内进行运行测试。1996年1月，当局决定在ICE-3列车上装备空气辅助的空调系统。相较于ICE-1列车的空调系统，它是采用[1,1,1,2-四氟乙烷](../Page/1,1,1,2-四氟乙烷.md "wikilink")（R134a）作为[制冷剂](../Page/制冷剂.md "wikilink")，可使每节车厢节省约500千克的重量。从属于[卤代烷烃家族的R](../Page/卤代烷烃.md "wikilink")134a同样还能避免[全球暖化潛勢](../Page/全球暖化潛勢.md "wikilink")\[189\]。在空调系统经历了多次故障后，其[换热器在](https://zh.wikipedia.org/wiki/换热器 "wikilink")2003年夏季的调查中被证实为体积过小，而顶部的进风和出风口布置也不利于交换空气。因此，列车在2003年秋季加装了强化设备，它们采用独特的方框结构，于车辆两端的顶部清晰可见，而原来的空调系统则与密闭的车顶齐平。第二批次的列车在出厂时便已完成空调换装，但其顶部结构采用了[空气动力学形态](../Page/空气动力学.md "wikilink")\[190\]。
+\-3列车空调系统的一个特点是采用[空气](../Page/空气.md "wikilink")为[工作介质](https://zh.wikipedia.org/wiki/工作介质 "wikilink")。这种方式是经过[航空业的长其应用后](https://zh.wikipedia.org/wiki/航空运输 "wikilink")，于1991年开始被研究用作[铁路车辆空调](https://zh.wikipedia.org/wiki/铁路车辆 "wikilink")。经过自1992年起于实验样品上进行的开发，它最终得以在一节ICE-1列车的车厢内进行运行测试。1996年1月，当局决定在ICE-3列车上装备空气辅助的空调系统。相较于ICE-1列车的空调系统，它是采用[1,1,1,2-四氟乙烷](../Page/1,1,1,2-四氟乙烷.md "wikilink")（R134a）作为[制冷剂](../Page/制冷剂.md "wikilink")，可使每节车厢节省约500千克的重量。从属于[卤代烷烃](../Page/卤代烷烃.md "wikilink")家族的R134a同样还能避免[全球暖化潛勢](../Page/全球暖化潛勢.md "wikilink")\[189\]。在空调系统经历了多次故障后，其[换热器在](https://zh.wikipedia.org/wiki/换热器 "wikilink")2003年夏季的调查中被证实为体积过小，而顶部的进风和出风口布置也不利于交换空气。因此，列车在2003年秋季加装了强化设备，它们采用独特的方框结构，于车辆两端的顶部清晰可见，而原来的空调系统则与密闭的车顶齐平。第二批次的列车在出厂时便已完成空调换装，但其顶部结构采用了[空气动力学](../Page/空气动力学.md "wikilink")形态\[190\]。
 
 随着每次冲刷为0.4升\[191\]（另有来源称1.5升\[192\]）的水消耗量，车内厕所被认为是有利于环境保护的。特殊的可将轮噪降低5至8分贝\[193\]。列车还大量使用了。轮对的完全燃烧条件需要达到至少15分钟以上\[194\]。
 
-根据每年约50万公里的行驶里程，平均每列ICE-3列车在2009年消耗了约百亿瓦时的[电能](https://zh.wikipedia.org/wiki/电能 "wikilink")\[195\]
-。与ICE-2列车相比，ICE-3列车的每个席位重量降低了约10%\[196\]。车梯踏面则根据55至76厘米的月台高度进行了优化\[197\]。
+根据每年约50万公里的行驶里程，平均每列ICE-3列车在2009年消耗了约百亿瓦时的[电能](https://zh.wikipedia.org/wiki/电能 "wikilink")\[195\] 。与ICE-2列车相比，ICE-3列车的每个席位重量降低了约10%\[196\]。车梯踏面则根据55至76厘米的月台高度进行了优化\[197\]。
 
 ### 维修保养
 
-[Kilometerzähler.jpg](https://zh.wikipedia.org/wiki/File:Kilometerzähler.jpg "fig:Kilometerzähler.jpg")
-ICE-3列车在投入运营后均配属于慕尼黑ICE运用车间\[198\]。列车的保养维护则可分别在法兰克福、慕尼黑、多特蒙德的[车辆段以及规模较小的科隆和](../Page/车辆段.md "wikilink")[巴塞尔车辆段进行](../Page/巴塞尔.md "wikilink")。ICE-3M列车则配属于，只有当地可以提供多电压组件的列车维修服务。出于此原因，法兰克福-格里斯海姆的维修场地还设有可为4种运行电压供电的[高架电缆](https://zh.wikipedia.org/wiki/高架电缆 "wikilink")\[199\]。
+[Kilometerzähler.jpg](https://zh.wikipedia.org/wiki/File:Kilometerzähler.jpg "fig:Kilometerzähler.jpg") ICE-3列车在投入运营后均配属于慕尼黑ICE运用车间\[198\]。列车的保养维护则可分别在法兰克福、慕尼黑、多特蒙德的[车辆段](../Page/车辆段.md "wikilink")以及规模较小的科隆和[巴塞尔](../Page/巴塞尔.md "wikilink")车辆段进行。ICE-3M列车则配属于，只有当地可以提供多电压组件的列车维修服务。出于此原因，法兰克福-格里斯海姆的维修场地还设有可为4种运行电压供电的[高架电缆](https://zh.wikipedia.org/wiki/高架电缆 "wikilink")\[199\]。
 
-据德国铁路介绍，每年用于每组ICE-3列车的维护费用将超过百万欧元\[200\]。列车在行驶里程达到165万公里后所进行的必要大修则需花费约120万欧元，它们会在德国铁路设于[克雷费尔德的维修车间完成](../Page/克雷费尔德.md "wikilink")\[201\]。
+据德国铁路介绍，每年用于每组ICE-3列车的维护费用将超过百万欧元\[200\]。列车在行驶里程达到165万公里后所进行的必要大修则需花费约120万欧元，它们会在德国铁路设于[克雷费尔德](../Page/克雷费尔德.md "wikilink")的维修车间完成\[201\]。
 
 在2003年，列车已经完成了行驶里程达120万公里的中修（称为600）和240万公里的大修（称为700）。除了这两个大型项目外，其它所有的维护工作均在晚上进行\[202\]。
 
 ## 事故
 
-2018年10月12日早晨，一列由[法兰克福开往](https://zh.wikipedia.org/wiki/法兰克福 "wikilink")[科隆的的ICE](../Page/科隆.md "wikilink")
-511次列车（ICE-3执行）在行驶至德国南部地区[迪尔多尔夫镇附近时](https://zh.wikipedia.org/wiki/迪尔多尔夫 "wikilink")，02号车内发生电器设备故障致车厢起火，02号车整节车厢及01号车后部被烧毁，车上约510名乘客安全疏散。事故造成几名乘客轻伤，并导致锡格堡与蒙塔鲍尔之间一段线路和附近的高速公路关闭、部分车次延误和取消。\[203\]值得一提的是，该事故与2018年1月25日发生在中国的G284/281次列车起火事件相似\[204\]，G284/281次列车起火事件中涉及车型为[CRH380BL](https://zh.wikipedia.org/wiki/CRH380BL "wikilink")，为ICE-3列车的衍生版（发展自[西门子Velaro平台](../Page/西门子Velaro.md "wikilink")），且G284/281次列车也是02号车内电气设备故障起火，与此次事故原因相同。
+2018年10月12日早晨，一列由[法兰克福开往](https://zh.wikipedia.org/wiki/法兰克福 "wikilink")[科隆](../Page/科隆.md "wikilink")的的ICE 511次列车（ICE-3执行）在行驶至德国南部地区[迪尔多尔夫镇附近时](https://zh.wikipedia.org/wiki/迪尔多尔夫 "wikilink")，02号车内发生电器设备故障致车厢起火，02号车整节车厢及01号车后部被烧毁，车上约510名乘客安全疏散。事故造成几名乘客轻伤，并导致锡格堡与蒙塔鲍尔之间一段线路和附近的高速公路关闭、部分车次延误和取消。\[203\]值得一提的是，该事故与2018年1月25日发生在中国的G284/281次列车起火事件相似\[204\]，G284/281次列车起火事件中涉及车型为[CRH380BL](https://zh.wikipedia.org/wiki/CRH380BL "wikilink")，为ICE-3列车的衍生版（发展自[西门子Velaro](../Page/西门子Velaro.md "wikilink")平台），且G284/281次列车也是02号车内电气设备故障起火，与此次事故原因相同。
 
 ## 注释
 
@@ -222,14 +197,7 @@ ICE-3列车在投入运营后均配属于慕尼黑ICE运用车间\[198\]。列�
   -
 ## 外部連結
 
-[Category:德國電力動車組](https://zh.wikipedia.org/wiki/Category:德國電力動車組 "wikilink")
-[Category:西門子製鐵路車輛](https://zh.wikipedia.org/wiki/Category:西門子製鐵路車輛 "wikilink")
-[Category:龐巴迪製鐵路車輛](https://zh.wikipedia.org/wiki/Category:龐巴迪製鐵路車輛 "wikilink")
-[Category:城际快车](https://zh.wikipedia.org/wiki/Category:城际快车 "wikilink")
-[Category:15千伏16.7赫兹交流电力动车组](https://zh.wikipedia.org/wiki/Category:15千伏16.7赫兹交流电力动车组 "wikilink")
-[Category:25千伏50赫兹交流电力动车组](https://zh.wikipedia.org/wiki/Category:25千伏50赫兹交流电力动车组 "wikilink")
-[Category:1500伏直流电力动车组](https://zh.wikipedia.org/wiki/Category:1500伏直流电力动车组 "wikilink")
-[Category:3000伏直流电力动车组](https://zh.wikipedia.org/wiki/Category:3000伏直流电力动车组 "wikilink")
+[Category:德國電力動車組](https://zh.wikipedia.org/wiki/Category:德國電力動車組 "wikilink") [Category:西門子製鐵路車輛](https://zh.wikipedia.org/wiki/Category:西門子製鐵路車輛 "wikilink") [Category:龐巴迪製鐵路車輛](https://zh.wikipedia.org/wiki/Category:龐巴迪製鐵路車輛 "wikilink") [Category:城际快车](https://zh.wikipedia.org/wiki/Category:城际快车 "wikilink") [Category:15千伏16.7赫兹交流电力动车组](https://zh.wikipedia.org/wiki/Category:15千伏16.7赫兹交流电力动车组 "wikilink") [Category:25千伏50赫兹交流电力动车组](https://zh.wikipedia.org/wiki/Category:25千伏50赫兹交流电力动车组 "wikilink") [Category:1500伏直流电力动车组](https://zh.wikipedia.org/wiki/Category:1500伏直流电力动车组 "wikilink") [Category:3000伏直流电力动车组](https://zh.wikipedia.org/wiki/Category:3000伏直流电力动车组 "wikilink")
 
 1.
 2.
@@ -413,9 +381,7 @@ ICE-3列车在投入运营后均配属于慕尼黑ICE运用车间\[198\]。列�
 116.
 
 117.
-118. Deutsche Bahn AG: *ICE-Achsbruch durch Herstellerfehler ausgelöst:
-     Staatsanwaltschaft Köln stellt Ermittlungen gegen DB ein*.
-     Presseinformation vom 17. Juli 2009.
+118. Deutsche Bahn AG: *ICE-Achsbruch durch Herstellerfehler ausgelöst: Staatsanwaltschaft Köln stellt Ermittlungen gegen DB ein*. Presseinformation vom 17. Juli 2009.
 
 119.
 
@@ -445,9 +411,7 @@ ICE-3列车在投入运营后均配属于慕尼黑ICE运用车间\[198\]。列�
 
 132.
 
-133. Deutsche Bahn AG: ''Grube: Einigung über gemeinsame Lösung für
-     ICE-Achsen wichtiger Fortschritt für die DB ''. Presseinformation
-     vom 12. Oktober 2009.
+133. Deutsche Bahn AG: ''Grube: Einigung über gemeinsame Lösung für ICE-Achsen wichtiger Fortschritt für die DB ''. Presseinformation vom 12. Oktober 2009.
 
 134.
 
@@ -534,8 +498,7 @@ ICE-3列车在投入运营后均配属于慕尼黑ICE运用车间\[198\]。列�
 
 194.
 
-195. Deutsche Bahn AG (Hrsg.): *Eisenbahn hat Schlüsselfunktion für
-     Klimaschutz*. Presseinformation vom 11. Januar 2010.
+195. Deutsche Bahn AG (Hrsg.): *Eisenbahn hat Schlüsselfunktion für Klimaschutz*. Presseinformation vom 11. Januar 2010.
 
 196.
 197.
@@ -543,9 +506,7 @@ ICE-3列车在投入运营后均配属于慕尼黑ICE运用车间\[198\]。列�
 
 199.
 
-200. Deutsche Bahn AG: *Deutsche Bahn: Sicherheit der ICE-Radsatzwellen
-     steht außer Frage / Vorwürfe entbehren jeder Grundlage*.
-     Presseinformation vom 14. August 2008.
+200. Deutsche Bahn AG: *Deutsche Bahn: Sicherheit der ICE-Radsatzwellen steht außer Frage / Vorwürfe entbehren jeder Grundlage*. Presseinformation vom 14. August 2008.
 
 201.
 

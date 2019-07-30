@@ -1,5 +1,4 @@
-為[英語發音的](https://zh.wikipedia.org/wiki/英語 "wikilink")
-"[SAMPA](../Page/SAMPA.md "wikilink") 簡明版"。
+為[英語發音的](https://zh.wikipedia.org/wiki/英語 "wikilink") "[SAMPA](../Page/SAMPA.md "wikilink") 簡明版"。
 
 請參見[歐洲語言完整發音](https://zh.wikipedia.org/wiki/歐洲語言 "wikilink")[SAMPA表](../Page/SAMPA表.md "wikilink")。
 
@@ -215,19 +214,11 @@
 
   - [單元音](https://zh.wikipedia.org/wiki/單元音 "wikilink")（Monophthong）
   - [三元音](https://zh.wikipedia.org/wiki/三元音 "wikilink")（triphthong）
-  - [美國英語口音](https://zh.wikipedia.org/wiki/美國英語口音 "wikilink")（GenAm；General
-    American）
-  - [澳洲英語音韻學](https://zh.wikipedia.org/wiki/澳洲英語音韻學 "wikilink")（AuE；Australian
-    English phonology）
-  - [英格蘭英語](https://zh.wikipedia.org/wiki/英格蘭英語 "wikilink")（[English
-    language in
-    England](https://zh.wikipedia.org/wiki/:en:English_language_in_England "wikilink")）
-  - [低後舌位音位併合](https://zh.wikipedia.org/wiki/英語低後舌位元音語音史#cot-caught整合 "wikilink")（low
-    back merger；cot-caught整合）
-  - [英語低後舌位元音語音史](https://zh.wikipedia.org/wiki/英語低後舌位元音語音史 "wikilink")（Phonological
-    history of English low back vowels）
-  - [Vocaloid](https://zh.wikipedia.org/wiki/Vocaloid "wikilink")——V2 及
-    V3
-    的编辑器在处理英语音源（如[巡音](https://zh.wikipedia.org/wiki/巡音 "wikilink")）时使用此记法
+  - [美國英語口音](https://zh.wikipedia.org/wiki/美國英語口音 "wikilink")（GenAm；General American）
+  - [澳洲英語音韻學](https://zh.wikipedia.org/wiki/澳洲英語音韻學 "wikilink")（AuE；Australian English phonology）
+  - [英格蘭英語](https://zh.wikipedia.org/wiki/英格蘭英語 "wikilink")（[English language in England](https://zh.wikipedia.org/wiki/:en:English_language_in_England "wikilink")）
+  - [低後舌位音位併合](https://zh.wikipedia.org/wiki/英語低後舌位元音語音史#cot-caught整合 "wikilink")（low back merger；cot-caught整合）
+  - [英語低後舌位元音語音史](https://zh.wikipedia.org/wiki/英語低後舌位元音語音史 "wikilink")（Phonological history of English low back vowels）
+  - [Vocaloid](https://zh.wikipedia.org/wiki/Vocaloid "wikilink")——V2 及 V3 的编辑器在处理英语音源（如[巡音](https://zh.wikipedia.org/wiki/巡音 "wikilink")）时使用此记法
 
 [Category:音標](https://zh.wikipedia.org/wiki/Category:音標 "wikilink")

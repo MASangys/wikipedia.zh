@@ -1,19 +1,16 @@
-[Canon_EF-S_lens_mount.jpg](https://zh.wikipedia.org/wiki/File:Canon_EF-S_lens_mount.jpg "fig:Canon_EF-S_lens_mount.jpg")
-**佳能EF-S接環鏡頭**是[佳能公司推出之專用於](https://zh.wikipedia.org/wiki/佳能公司 "wikilink")[APS-C画幅機身的鏡頭](https://zh.wikipedia.org/wiki/APS-C "wikilink")。由于APS-C画幅相机大小为1.6的转换系数，故等效于35mm胶片画幅的焦距为镜头示数乘以1.6之后的数值。
+[Canon_EF-S_lens_mount.jpg](https://zh.wikipedia.org/wiki/File:Canon_EF-S_lens_mount.jpg "fig:Canon_EF-S_lens_mount.jpg") **佳能EF-S接環鏡頭**是[佳能公司推出之專用於](https://zh.wikipedia.org/wiki/佳能公司 "wikilink")[APS-C画幅機身的鏡頭](https://zh.wikipedia.org/wiki/APS-C "wikilink")。由于APS-C画幅相机大小为1.6的转换系数，故等效于35mm胶片画幅的焦距为镜头示数乘以1.6之后的数值。
 
 虽然[佳能EF接环镜头也适用于APS](https://zh.wikipedia.org/wiki/佳能EF接环镜头 "wikilink")-C画幅机身，但是由于受到转换系数的影响，有的EF接环广角镜头的效果受到较大的影响。因此，APS-C画幅的机身最好搭配EF-S接环广角镜头。
 
 ## 適用機身
 
-  - [Canon EOS 7D
-    MarkII](https://zh.wikipedia.org/wiki/佳能_EOS_7D_MarkII "wikilink")
+  - [Canon EOS 7D MarkII](https://zh.wikipedia.org/wiki/佳能_EOS_7D_MarkII "wikilink")
   - [Canon EOS 7D](../Page/佳能_EOS_7D.md "wikilink")
   - [Canon EOS 80D](../Page/佳能_EOS_80D.md "wikilink")
   - [Canon EOS 77D](../Page/佳能_EOS_77D.md "wikilink")
   - [Canon EOS 70D](../Page/佳能_EOS_70D.md "wikilink")
   - [Canon EOS 60D](../Page/佳能_EOS_60D.md "wikilink")
-  - [Canon EOS
-    60Da](https://zh.wikipedia.org/wiki/佳能_EOS_60Da "wikilink")
+  - [Canon EOS 60Da](https://zh.wikipedia.org/wiki/佳能_EOS_60Da "wikilink")
   - [Canon EOS 50D](../Page/佳能_EOS_50D.md "wikilink")
   - [Canon EOS 40D](../Page/佳能_EOS_40D.md "wikilink")
   - [Canon EOS 30D](../Page/佳能_EOS_30D.md "wikilink")

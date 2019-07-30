@@ -10,7 +10,7 @@
 
 ::\*TL13 辐射化学
 
-:\*TL2 [核燃料及其生产](../Page/核燃料.md "wikilink")
+:\*TL2 [核燃料](../Page/核燃料.md "wikilink")及其生产
 
 ::\*TL21 铀燃料的生产
 
@@ -46,8 +46,7 @@
 
 ::\*TL38 反应堆运行与维修
 
-:\*TL4
-各种[核反应堆](../Page/核反应堆.md "wikilink")、[核电厂](https://zh.wikipedia.org/wiki/核电厂 "wikilink")
+:\*TL4 各种[核反应堆](../Page/核反应堆.md "wikilink")、[核电厂](https://zh.wikipedia.org/wiki/核电厂 "wikilink")
 
 ::\*TL41 核反应堆：按用途分
 
@@ -115,8 +114,7 @@
 
 ::\*TL77 辐射源的防护
 
-:\*TL8
-[粒子探测技术](https://zh.wikipedia.org/wiki/粒子探测技术 "wikilink")、[辐射探测技术与](https://zh.wikipedia.org/wiki/辐射探测技术 "wikilink")[核仪器仪表](https://zh.wikipedia.org/wiki/核仪器仪表 "wikilink")
+:\*TL8 [粒子探测技术](https://zh.wikipedia.org/wiki/粒子探测技术 "wikilink")、[辐射探测技术与](https://zh.wikipedia.org/wiki/辐射探测技术 "wikilink")[核仪器仪表](https://zh.wikipedia.org/wiki/核仪器仪表 "wikilink")
 
 ::\*TL81 辐射探测技术和仪器仪表
 
@@ -126,12 +124,11 @@
 
 ::\*TL91 [核爆炸](https://zh.wikipedia.org/wiki/核爆炸 "wikilink")
 
-::\*TL92 [放射性同位素的生产与制备](../Page/放射性同位素.md "wikilink")
+::\*TL92 [放射性同位素](../Page/放射性同位素.md "wikilink")的生产与制备
 
 :::\*TL929 辐射源
 
-::\*TL93
-[放射性物质的包装](https://zh.wikipedia.org/wiki/放射性物质 "wikilink")、运输和贮存
+::\*TL93 [放射性物质的包装](https://zh.wikipedia.org/wiki/放射性物质 "wikilink")、运输和贮存
 
 ::\*TL94 [放射性废物管理及综合利用](https://zh.wikipedia.org/wiki/放射性废物 "wikilink")
 

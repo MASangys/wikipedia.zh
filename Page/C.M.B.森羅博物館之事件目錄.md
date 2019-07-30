@@ -1,4 +1,4 @@
-為[加藤元浩所著之推理漫畫](../Page/加藤元浩.md "wikilink")，於[講談社出版之](https://zh.wikipedia.org/wiki/講談社 "wikilink")《[月刊少年Magazine](../Page/月刊少年Magazine.md "wikilink")》上連載。日文版截至2019年2月，已出版40卷。中文版由[東立出版社代理](../Page/東立出版社.md "wikilink")，已出至35卷。
+為[加藤元浩](../Page/加藤元浩.md "wikilink")所著之推理漫畫，於[講談社出版之](https://zh.wikipedia.org/wiki/講談社 "wikilink")《[月刊少年Magazine](../Page/月刊少年Magazine.md "wikilink")》上連載。日文版截至2019年2月，已出版40卷。中文版由[東立出版社](../Page/東立出版社.md "wikilink")代理，已出至35卷。
 
 ## 簡介
 
@@ -21,7 +21,7 @@
     入場費的形式很抽象，從贈送收藏品到來參觀博物館均有(也有幾次是森羅喜歡的宇治金時)，只要答應，他就會展開推理「讓我帶你們到驚異的房間吧」。
     經營博物館的理念是不論美麗與否，只收藏真實。
     母親春菜在他年幼時即過世，後來被三賢者收養並在湖邊的古堡傳授他許多知識，森羅為了想確認世上的一切而離開。
-    [神通小偵探主角](../Page/神通小偵探.md "wikilink") 燈馬想 是他母方的表哥。
+    [神通小偵探](../Page/神通小偵探.md "wikilink")主角 燈馬想 是他母方的表哥。
 
 <!-- end list -->
 
@@ -40,7 +40,7 @@
 <!-- end list -->
 
   -
-    [警視廳的刑警](../Page/警視廳.md "wikilink")，起初因明友高中的學生捲入傷害事件而和兩位主角認識。
+    [警視廳](../Page/警視廳.md "wikilink")的刑警，起初因明友高中的學生捲入傷害事件而和兩位主角認識。
     個性嚴肅熱血，以解決事件為己志，就算因追緝犯人撞壞車子也在所不惜（且還繼續駕駛）。
     但反應似乎有點慢，因此曾（雖然反對，但不知不覺中開始）借重森羅的能力解決案子。
 
@@ -103,18 +103,15 @@
   -
     是大英博物館負責收集、調查收藏品由來的調查員中最優秀的三人，被稱為智慧守護者「三賢者」的憑證。
     戒指上分別有著「**C**」「**M**」「**B**」三個英文字，是由當時的英國女王夏洛特賜予第一代的三賢者，之後三賢者會從弟子之中挑選出最優秀的人，並將戒指交付後作為繼承賢者之位的證明而如此代代相傳。
-    不過史實上的夏洛特其實是[喬治三世的王后](../Page/喬治三世.md "wikilink")，本作中則是為了故事性而加以改編。
+    不過史實上的夏洛特其實是[喬治三世](../Page/喬治三世.md "wikilink")的王后，本作中則是為了故事性而加以改編。
     只要持有其中的一枚戒指，就能無條件的閱覽世界各地的機構所收納的文獻、學術資料與各類作品，並能強制要求各大學術機關協助進行調查與研究，或要求當地政府機關協助，同時也能調動由大英博物館所提供的無上限資金，可說只要擁有它就能獲得莫大的權力。
     現在的戒指繼承者是榊森羅，他獲得了上代三賢者的認可而同時繼承了三枚戒指，
 
 <!-- end list -->
 
   - C.M.B.
-    三枚戒指上所刻著的文字。由來是聖經中所提到的東方三賢者。分別對應著三賢者的名字「卡斯帕爾（**C**asper
-    ）」「梅爾基歐爾（**M**elchior ）」「巴爾塔薩爾（**B**althasar
-    ）」的第一個字。
-    也有一說這是拉丁文的「**C**hristus **M**ansionem **B**enedicat
-    （主啊！請祝福我的家）」的祈禱語省略形。
+    三枚戒指上所刻著的文字。由來是聖經中所提到的東方三賢者。分別對應著三賢者的名字「卡斯帕爾（**C**asper ）」「梅爾基歐爾（**M**elchior ）」「巴爾塔薩爾（**B**althasar ）」的第一個字。
+    也有一說這是拉丁文的「**C**hristus **M**ansionem **B**enedicat （主啊！請祝福我的家）」的祈禱語省略形。
 
 <!-- end list -->
 
@@ -217,7 +214,7 @@ ISBN 9789861001388</p></td>
 <td><p>Op.09</p></td>
 <td><p>森林聖靈 (Spirit of Forest)</p></td>
 <td><p>2007年2月号・3月号</p></td>
-<td><p>玛乌再次到访，这次是希望森罗能一起寻找亦是森罗友人的身处<a href="../Page/婆罗洲.md" title="wikilink">婆罗洲的药剂师サダマン</a>。森罗对婆罗洲的自然环境和珍稀动物也很感兴趣而一口答应，于是两人出发前往婆罗洲。</p></td>
+<td><p>玛乌再次到访，这次是希望森罗能一起寻找亦是森罗友人的身处<a href="../Page/婆罗洲.md" title="wikilink">婆罗洲</a>的药剂师サダマン。森罗对婆罗洲的自然环境和珍稀动物也很感兴趣而一口答应，于是两人出发前往婆罗洲。</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -228,7 +225,7 @@ ISBN 9789861001388</p></td>
 <td><p>6卷</p></td>
 <td><p>2007年11月15日<br />
 ISBN 9789861006789</p></td>
-<td><p><a href="../Page/埃及.md" title="wikilink">埃及</a>・<a href="../Page/开罗.md" title="wikilink">开罗的</a><a href="https://zh.wikipedia.org/wiki/开罗国家博物馆" title="wikilink">考古学博物馆发生了杀人事件</a>。凶手枪杀被害者后还取走其一部分内脏。因为枪击波及了母亲的遗物，森罗决定要找出真凶。和姐妹作《<a href="../Page/神通小偵探.md" title="wikilink">神通小偵探</a>》52话 ・<em>法老的首飾</em><a href="../Page/跨界作品.md" title="wikilink">跨界</a>。</p></td>
+<td><p><a href="../Page/埃及.md" title="wikilink">埃及</a>・<a href="../Page/开罗.md" title="wikilink">开罗</a>的<a href="https://zh.wikipedia.org/wiki/开罗国家博物馆" title="wikilink">考古学博物馆发生了杀人事件</a>。凶手枪杀被害者后还取走其一部分内脏。因为枪击波及了母亲的遗物，森罗决定要找出真凶。和姐妹作《<a href="../Page/神通小偵探.md" title="wikilink">神通小偵探</a>》52话 ・<em>法老的首飾</em><a href="../Page/跨界作品.md" title="wikilink">跨界</a>。</p></td>
 </tr>
 <tr class="odd">
 <td><p>Op.11</p></td>
@@ -237,13 +234,13 @@ ISBN 9789861006789</p></td>
 <td><p>7卷</p></td>
 <td><p>! rowspan=4|2008年6月26日<br />
 ISBN 9789861014920</p></td>
-<td><p>在讨论是否要开辟道路的时候，村中发生了蝗灾。村里的少年找到森罗，告诉他“在森林看到了漂亮的鸟，如果喷洒<a href="../Page/农药.md" title="wikilink">农药的话恐怕会害死它</a>”。为了保护<a href="../Page/仙八色鸫.md" title="wikilink">八色鸟</a>，森罗前往村子。</p></td>
+<td><p>在讨论是否要开辟道路的时候，村中发生了蝗灾。村里的少年找到森罗，告诉他“在森林看到了漂亮的鸟，如果喷洒<a href="../Page/农药.md" title="wikilink">农药</a>的话恐怕会害死它”。为了保护<a href="../Page/仙八色鸫.md" title="wikilink">八色鸟</a>，森罗前往村子。</p></td>
 </tr>
 <tr class="even">
 <td><p>Op.12</p></td>
 <td><p>鐵門 (Iron Door)</p></td>
 <td><p>2007年9月号</p></td>
-<td><p>被关在<a href="../Page/防空洞.md" title="wikilink">防空洞中饥饿而死的男人</a>。凶手到底是如何关上300kg重的铁门的？</p></td>
+<td><p>被关在<a href="../Page/防空洞.md" title="wikilink">防空洞</a>中饥饿而死的男人。凶手到底是如何关上300kg重的铁门的？</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -276,7 +273,7 @@ ISBN 9789861020365</p></td>
 <td><p>Op.16</p></td>
 <td><p><a href="../Page/隕石.md" title="wikilink">隕石</a> (A Meteorite)</p></td>
 <td><p>2008年1月号</p></td>
-<td><p>在位于<a href="../Page/哈萨克斯坦.md" title="wikilink">哈萨克斯坦的</a><a href="../Page/俄罗斯.md" title="wikilink">俄罗斯</a><a href="../Page/拜科努尔航天发射场.md" title="wikilink">宇宙基地发现了</a><a href="https://zh.wikipedia.org/wiki/陨石" title="wikilink">陨石产生的</a><a href="../Page/撞击坑.md" title="wikilink">撞击坑</a>。为了争夺陨石的所有权，两国希望森罗进行裁决。虽然当地的少年说事件大约是3天前发生的，但现场却没有见到任何碎片。</p></td>
+<td><p>在位于<a href="../Page/哈萨克斯坦.md" title="wikilink">哈萨克斯坦</a>的<a href="../Page/俄罗斯.md" title="wikilink">俄罗斯</a><a href="../Page/拜科努尔航天发射场.md" title="wikilink">宇宙基地发现了</a><a href="https://zh.wikipedia.org/wiki/陨石" title="wikilink">陨石产生的</a><a href="../Page/撞击坑.md" title="wikilink">撞击坑</a>。为了争夺陨石的所有权，两国希望森罗进行裁决。虽然当地的少年说事件大约是3天前发生的，但现场却没有见到任何碎片。</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -328,7 +325,7 @@ ISBN 9789861027128</p></td>
 <td><p>10卷</p></td>
 <td><p>! rowspan=4|2009年3月30日<br />
 ISBN 9789861031743</p></td>
-<td><p><a href="../Page/蒙古国.md" title="wikilink">蒙古的</a><a href="../Page/戈壁.md" title="wikilink">戈壁中</a>、发现了<a href="../Page/恐龙.md" title="wikilink">恐龙和</a><a href="https://zh.wikipedia.org/wiki/人类" title="wikilink">人类处在同一</a><a href="../Page/地层.md" title="wikilink">地层的</a><a href="../Page/化石.md" title="wikilink">化石</a>。受到<a href="../Page/古生物学.md" title="wikilink">古生物学者兄妹的拜托</a>，森罗前往解明这相差6000万年之谜。</p></td>
+<td><p><a href="../Page/蒙古国.md" title="wikilink">蒙古的</a><a href="../Page/戈壁.md" title="wikilink">戈壁</a>中、发现了<a href="../Page/恐龙.md" title="wikilink">恐龙</a>和<a href="https://zh.wikipedia.org/wiki/人类" title="wikilink">人类处在同一</a><a href="../Page/地层.md" title="wikilink">地层</a>的<a href="../Page/化石.md" title="wikilink">化石</a>。受到<a href="../Page/古生物学.md" title="wikilink">古生物学</a>者兄妹的拜托，森罗前往解明这相差6000万年之谜。</p></td>
 </tr>
 <tr class="odd">
 <td><p>Op.23</p></td>
@@ -350,7 +347,7 @@ ISBN 9789861031743</p></td>
 <td><p>Op.25</p></td>
 <td><p>水風琴 (The Hydraulis)</p></td>
 <td><p>2008年11月号</p></td>
-<td><p>收到玛乌希望调查被认为是<a href="../Page/管风琴.md" title="wikilink">管风琴原型的水风琴的委托</a>，森罗和立树前往造访位于<a href="../Page/意大利.md" title="wikilink">意大利山中的音乐堂</a>。而那是在当地人中，流传着「弹奏了它的人就会死」的「诅咒的水风琴」。</p></td>
+<td><p>收到玛乌希望调查被认为是<a href="../Page/管风琴.md" title="wikilink">管风琴</a>原型的水风琴的委托，森罗和立树前往造访位于<a href="../Page/意大利.md" title="wikilink">意大利</a>山中的音乐堂。而那是在当地人中，流传着「弹奏了它的人就会死」的「诅咒的水风琴」。</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -381,7 +378,7 @@ ISBN</p></th>
 <td><p>11卷</p></td>
 <td><p>! rowspan=3|2009年9月7日<br />
 ISBN 9789861039619</p></td>
-<td><p>森罗和立树来到<a href="../Page/希腊.md" title="wikilink">希腊参观玛乌的收藏品</a>，在其中发现了传说是“费斯托斯圆盘”所使用过的印章。在他们在游艇上和印章买主，世界海运王之弟商谈的时候，海运王的妻子登船，两声枪响后众人赶到时，发现她已经被杀了。</p></td>
+<td><p>森罗和立树来到<a href="../Page/希腊.md" title="wikilink">希腊</a>参观玛乌的收藏品，在其中发现了传说是“费斯托斯圆盘”所使用过的印章。在他们在游艇上和印章买主，世界海运王之弟商谈的时候，海运王的妻子登船，两声枪响后众人赶到时，发现她已经被杀了。</p></td>
 </tr>
 <tr class="even">
 <td><p>Op.27</p></td>
@@ -406,7 +403,7 @@ ISBN 9789861039619</p></td>
 <td><p>12卷</p></td>
 <td><p>! rowspan=3|2010年3月8日<br />
 ISBN 9789861046594</p></td>
-<td><p><a href="../Page/卢浮宫.md" title="wikilink">卢浮宫藏品</a>，作为交易的行政文件，被装在壶里的<a href="https://zh.wikipedia.org/wiki/巴比伦尼亚" title="wikilink">古巴比伦粘土板不见了</a>。壶被用粘土封起来，但那封泥却未受到破坏。森罗3名养父之一、雷伊博士为解决此事，将他叫来法国。</p></td>
+<td><p><a href="../Page/卢浮宫.md" title="wikilink">卢浮宫</a>藏品，作为交易的行政文件，被装在壶里的<a href="https://zh.wikipedia.org/wiki/巴比伦尼亚" title="wikilink">古巴比伦粘土板不见了</a>。壶被用粘土封起来，但那封泥却未受到破坏。森罗3名养父之一、雷伊博士为解决此事，将他叫来法国。</p></td>
 </tr>
 <tr class="odd">
 <td><p>Op.30</p></td>
@@ -507,7 +504,7 @@ ISBN 9789861066233</p></td>
 <td><p>Op.41</p></td>
 <td><p>蘇丹 (His Name is "Stan")</p></td>
 <td><p>2010年6月号</p></td>
-<td><p><a href="../Page/柬埔寨.md" title="wikilink">柬埔寨女神像被盗运到日本</a>。为了夺回女神像，森罗的其中一名养父，苏丹博士来到日本。虽然苏丹博士看起来比较像是个常识人……</p></td>
+<td><p><a href="../Page/柬埔寨.md" title="wikilink">柬埔寨</a>女神像被盗运到日本。为了夺回女神像，森罗的其中一名养父，苏丹博士来到日本。虽然苏丹博士看起来比较像是个常识人……</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -581,7 +578,7 @@ ISBN 9789861080420</p></td>
 <td><p>Op.50</p></td>
 <td><p>夢幻汽車 (Phantom Car)</p></td>
 <td><p>2011年4月号</p></td>
-<td><p>森罗和立树来到车子部件的交换市场，在那里认识的修理工以René Lalique制作的装饰品为交换、希望他们能找到由大饮食企业会长所持有的<a href="../Page/第二次世界大战.md" title="wikilink">第二次世界大战前制造的梦幻之车</a>“筑波号”方向盘。</p></td>
+<td><p>森罗和立树来到车子部件的交换市场，在那里认识的修理工以René Lalique制作的装饰品为交换、希望他们能找到由大饮食企业会长所持有的<a href="../Page/第二次世界大战.md" title="wikilink">第二次世界大战</a>前制造的梦幻之车“筑波号”方向盘。</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -977,33 +974,24 @@ ISBN 9789863173595</p></td>
 
 除Op.39使用了较不常用的译名\[2\]外，目前本作品尚未被证实存在严重的翻译问题。
 
-  - Op.05
-    [阿兹特克](https://zh.wikipedia.org/wiki/阿兹特克 "wikilink")/[特斯卡特利波卡](../Page/特斯卡特利波卡.md "wikilink")/[魁札尔科亚特尔](https://zh.wikipedia.org/wiki/魁札尔科亚特尔 "wikilink")，[艾西斯](https://zh.wikipedia.org/wiki/艾西斯 "wikilink")
-  - Op.07
-    [西墙](../Page/西墙.md "wikilink")/[提图斯凯旋门](../Page/提图斯凯旋门.md "wikilink")/[メノーラー](https://zh.wikipedia.org/wiki/jp:メノーラー "wikilink")，[马尔他骑士团](https://zh.wikipedia.org/wiki/马尔他骑士团 "wikilink")
+  - Op.05 [阿兹特克](https://zh.wikipedia.org/wiki/阿兹特克 "wikilink")/[特斯卡特利波卡](../Page/特斯卡特利波卡.md "wikilink")/[魁札尔科亚特尔](https://zh.wikipedia.org/wiki/魁札尔科亚特尔 "wikilink")，[艾西斯](https://zh.wikipedia.org/wiki/艾西斯 "wikilink")
+  - Op.07 [西墙](../Page/西墙.md "wikilink")/[提图斯凯旋门](../Page/提图斯凯旋门.md "wikilink")/[メノーラー](https://zh.wikipedia.org/wiki/jp:メノーラー "wikilink")，[马尔他骑士团](https://zh.wikipedia.org/wiki/马尔他骑士团 "wikilink")
   - Op.10 [圣书体](https://zh.wikipedia.org/wiki/圣书体 "wikilink")
-  - Op.16
-    [月球陨石](https://zh.wikipedia.org/wiki/月球陨石 "wikilink")/[火星陨石](https://zh.wikipedia.org/wiki/火星陨石 "wikilink")/[玻璃陨石](https://zh.wikipedia.org/wiki/玻璃陨石 "wikilink")
-  - Op.18
-    [乌尔](../Page/乌尔.md "wikilink")/[苏美尔](../Page/苏美尔.md "wikilink")
-  - Op.26
-    [欧帕兹](https://zh.wikipedia.org/wiki/欧帕兹 "wikilink")/[オーパーツ一覧](https://zh.wikipedia.org/wiki/jp:オーパーツ一覧 "wikilink")/[オーパーツ](http://www.nazoo.org/ooparts.htm)，[线形文字A](../Page/线形文字A.md "wikilink")/[线形文字B](../Page/线形文字B.md "wikilink")
+  - Op.16 [月球陨石](https://zh.wikipedia.org/wiki/月球陨石 "wikilink")/[火星陨石](https://zh.wikipedia.org/wiki/火星陨石 "wikilink")/[玻璃陨石](https://zh.wikipedia.org/wiki/玻璃陨石 "wikilink")
+  - Op.18 [乌尔](../Page/乌尔.md "wikilink")/[苏美尔](../Page/苏美尔.md "wikilink")
+  - Op.26 [欧帕兹](https://zh.wikipedia.org/wiki/欧帕兹 "wikilink")/[オーパーツ一覧](https://zh.wikipedia.org/wiki/jp:オーパーツ一覧 "wikilink")/[オーパーツ](http://www.nazoo.org/ooparts.htm)，[线形文字A](../Page/线形文字A.md "wikilink")/[线形文字B](../Page/线形文字B.md "wikilink")
   - Op.29 [哈拉夫遗址](../Page/哈拉夫遗址.md "wikilink")
-  - Op.32
-    [卡尔·林奈](../Page/卡尔·林奈.md "wikilink")/[Flower_clock](https://zh.wikipedia.org/wiki/:en:Flower_clock "wikilink")
+  - Op.32 [卡尔·林奈](../Page/卡尔·林奈.md "wikilink")/[Flower_clock](https://zh.wikipedia.org/wiki/:en:Flower_clock "wikilink")
   - Op.34 [アサード](https://zh.wikipedia.org/wiki/jp:アサード "wikilink")
-  - Op.39
-    [克诺索斯](../Page/克诺索斯.md "wikilink")，[Ήλιος/Sol](../Page/太阳.md "wikilink")/[代达罗斯](https://zh.wikipedia.org/wiki/代达罗斯 "wikilink")（[伊卡洛斯](../Page/伊卡洛斯.md "wikilink")）
+  - Op.39 [克诺索斯](../Page/克诺索斯.md "wikilink")，[Ήλιος/Sol](../Page/太阳.md "wikilink")/[代达罗斯](https://zh.wikipedia.org/wiki/代达罗斯 "wikilink")（[伊卡洛斯](../Page/伊卡洛斯.md "wikilink")）
   - Op.40 [压舱水](https://zh.wikipedia.org/wiki/压舱水 "wikilink")
-  - Op.42
-    [キルト](https://zh.wikipedia.org/wiki/jp:キルト "wikilink")/[Quilt](https://zh.wikipedia.org/wiki/:en:Quilt "wikilink")
+  - Op.42 [キルト](https://zh.wikipedia.org/wiki/jp:キルト "wikilink")/[Quilt](https://zh.wikipedia.org/wiki/:en:Quilt "wikilink")
 
 ## 注释
 
 <references />
 
-3\. 皇帝紋黃蝶，由封底附上之學名（Colias Imperialis）可找到其資料，頁面顯示自1860年紀錄上只出現過11隻，推測已滅種
-<https://web.archive.org/web/20180404135018/https://theholoceneextinctionevent.wordpress.com/tag/colias-imperialis-butler/>
+3\. 皇帝紋黃蝶，由封底附上之學名（Colias Imperialis）可找到其資料，頁面顯示自1860年紀錄上只出現過11隻，推測已滅種 <https://web.archive.org/web/20180404135018/https://theholoceneextinctionevent.wordpress.com/tag/colias-imperialis-butler/>
 
 ## 参见
 
@@ -1014,11 +1002,7 @@ ISBN 9789863173595</p></td>
 ## 外部連結
 
   -
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:月刊少年Magazine](https://zh.wikipedia.org/wiki/Category:月刊少年Magazine "wikilink")
-[Category:推理漫畫](https://zh.wikipedia.org/wiki/Category:推理漫畫 "wikilink")
-[Category:都市傳說題材作品](https://zh.wikipedia.org/wiki/Category:都市傳說題材作品 "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:月刊少年Magazine](https://zh.wikipedia.org/wiki/Category:月刊少年Magazine "wikilink") [Category:推理漫畫](https://zh.wikipedia.org/wiki/Category:推理漫畫 "wikilink") [Category:都市傳說題材作品](https://zh.wikipedia.org/wiki/Category:都市傳說題材作品 "wikilink")
 
-1.  日文原文：ポンテンモンキチョウ
-    台译读法：皇帝/纹黄蝶；尚未找到此蝶相关参考资料。另外，[日文页面目前是根据本漫画内的记载撰写的](https://zh.wikipedia.org/wiki/jp:ポンテンモンキチョウ "wikilink")，不足以参考。[英文页面由于创建日期晚于本漫画刊载](https://zh.wikipedia.org/wiki/:en:Colias_ponteni "wikilink")，亦不参考。
+1.  日文原文：ポンテンモンキチョウ 台译读法：皇帝/纹黄蝶；尚未找到此蝶相关参考资料。另外，[日文页面目前是根据本漫画内的记载撰写的](https://zh.wikipedia.org/wiki/jp:ポンテンモンキチョウ "wikilink")，不足以参考。[英文页面由于创建日期晚于本漫画刊载](https://zh.wikipedia.org/wiki/:en:Colias_ponteni "wikilink")，亦不参考。
 2.  书中译为阿莉阿德尼，但较为常用的译名是“阿里阿德涅”；尚有其他使用较不常用译名的现象。

@@ -1,11 +1,10 @@
-《**Human我生**》是[香港](../Page/香港.md "wikilink")[男歌手](https://zh.wikipedia.org/wiki/男歌手 "wikilink")[古巨基的個人](../Page/古巨基.md "wikilink")[廣東](https://zh.wikipedia.org/wiki/廣東 "wikilink")[音樂專輯](../Page/音樂專輯.md "wikilink")，於2006年8月發行。
+《**Human我生**》是[香港](../Page/香港.md "wikilink")[男歌手](https://zh.wikipedia.org/wiki/男歌手 "wikilink")[古巨基](../Page/古巨基.md "wikilink")的個人[廣東](https://zh.wikipedia.org/wiki/廣東 "wikilink")[音樂專輯](../Page/音樂專輯.md "wikilink")，於2006年8月發行。
 
 ## 專輯簡介
 
-全碟歌詞由著名詞人[林夕執筆所填](../Page/林夕.md "wikilink")（除敢死隊由[黃仲凱填詞](https://zh.wikipedia.org/wiki/黃仲凱 "wikilink")），[雷頌德監製](../Page/雷頌德.md "wikilink")。作曲方面包括台灣唱作人[陶喆](../Page/陶喆.md "wikilink")，本地作曲人[陳輝陽](../Page/陳輝陽.md "wikilink")、[雷頌德](../Page/雷頌德.md "wikilink")，唱作人[側田](../Page/側田.md "wikilink")、[王菀之等](https://zh.wikipedia.org/wiki/王菀之 "wikilink")。
+全碟歌詞由著名詞人[林夕](../Page/林夕.md "wikilink")執筆所填（除敢死隊由[黃仲凱填詞](https://zh.wikipedia.org/wiki/黃仲凱 "wikilink")），[雷頌德](../Page/雷頌德.md "wikilink")監製。作曲方面包括台灣唱作人[陶喆](../Page/陶喆.md "wikilink")，本地作曲人[陳輝陽](../Page/陳輝陽.md "wikilink")、[雷頌德](../Page/雷頌德.md "wikilink")，唱作人[側田](../Page/側田.md "wikilink")、[王菀之等](https://zh.wikipedia.org/wiki/王菀之 "wikilink")。
 
-此碟一洗古巨基前兩年之「K歌」形象，以清新感覺及「人生」概念為主題貫串全碟，細說人生過程及道理。古巨基更首次操刀擔任音樂電影及MV導演，邀來好友[周慧敏擔任歌曲](../Page/周慧敏.md "wikilink")《愛得太遲》MV
-的女主角。
+此碟一洗古巨基前兩年之「K歌」形象，以清新感覺及「人生」概念為主題貫串全碟，細說人生過程及道理。古巨基更首次操刀擔任音樂電影及MV導演，邀來好友[周慧敏](../Page/周慧敏.md "wikilink")擔任歌曲《愛得太遲》MV 的女主角。
 
 專輯首批特別版2CD+DVD，內容包括︰60分鐘的音樂電影、MV、以及收錄在Bonus CD內的《愛得太遲》合唱版本。
 
@@ -17,11 +16,11 @@
 
 ### 歌曲《花灑》
 
-由[王菀之所作曲](https://zh.wikipedia.org/wiki/王菀之 "wikilink")，一派上台即獲[商台](https://zh.wikipedia.org/wiki/商台 "wikilink")（903）支持，得到超過200的播放率。此曲更為三台冠軍歌，惜未能在[TVB](https://zh.wikipedia.org/wiki/TVB "wikilink")[勁歌金榜中奪第一](../Page/勁歌金榜.md "wikilink")，成四台冠軍曲。不過最後在TVB的《[2006勁歌金曲優秀選第一回](https://zh.wikipedia.org/wiki/2006勁歌金曲優秀選第一回 "wikilink")》中成為入選歌之一。一度令大眾認為此曲是古巨基2006年之年度作品。
+由[王菀之所作曲](https://zh.wikipedia.org/wiki/王菀之 "wikilink")，一派上台即獲[商台](https://zh.wikipedia.org/wiki/商台 "wikilink")（903）支持，得到超過200的播放率。此曲更為三台冠軍歌，惜未能在[TVB](https://zh.wikipedia.org/wiki/TVB "wikilink")[勁歌金榜](../Page/勁歌金榜.md "wikilink")中奪第一，成四台冠軍曲。不過最後在TVB的《[2006勁歌金曲優秀選第一回](https://zh.wikipedia.org/wiki/2006勁歌金曲優秀選第一回 "wikilink")》中成為入選歌之一。一度令大眾認為此曲是古巨基2006年之年度作品。
 
 ### 歌曲《愛得太遲》
 
-由[楊鎮邦所作曲](../Page/楊鎮邦.md "wikilink")，一派台即引起回響。[林夕借此詞勸大家要珍惜眼前人](../Page/林夕.md "wikilink")，成功令大家共鳴。再一次成三台冠軍歌，惜又是未能在[TVB](https://zh.wikipedia.org/wiki/TVB "wikilink")[勁歌金榜中奪第一](../Page/勁歌金榜.md "wikilink")，成四台冠軍曲。不過最後在TVB的《[2006勁歌金曲優秀選第二回](https://zh.wikipedia.org/wiki/2006勁歌金曲優秀選第二回 "wikilink")》中成為入選歌之一。此歌的出現取替了花灑的年度作地位。最後此歌在四台年底頒獎禮中囊括所有歌曲大獎。
+由[楊鎮邦](../Page/楊鎮邦.md "wikilink")所作曲，一派台即引起回響。[林夕](../Page/林夕.md "wikilink")借此詞勸大家要珍惜眼前人，成功令大家共鳴。再一次成三台冠軍歌，惜又是未能在[TVB](https://zh.wikipedia.org/wiki/TVB "wikilink")[勁歌金榜](../Page/勁歌金榜.md "wikilink")中奪第一，成四台冠軍曲。不過最後在TVB的《[2006勁歌金曲優秀選第二回](https://zh.wikipedia.org/wiki/2006勁歌金曲優秀選第二回 "wikilink")》中成為入選歌之一。此歌的出現取替了花灑的年度作地位。最後此歌在四台年底頒獎禮中囊括所有歌曲大獎。
 
 ## 曲目
 
@@ -78,7 +77,4 @@
   - 2006年度新城勁爆頒獎禮 ——新城勁爆歌曲 -《花灑》
   - 2006勁歌金曲優秀選第二回 - 得獎歌曲《花灑》
 
-[Category:古巨基音樂專輯](https://zh.wikipedia.org/wiki/Category:古巨基音樂專輯 "wikilink")
-[Category:2006年音樂專輯](https://zh.wikipedia.org/wiki/Category:2006年音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
+[Category:古巨基音樂專輯](https://zh.wikipedia.org/wiki/Category:古巨基音樂專輯 "wikilink") [Category:2006年音樂專輯](https://zh.wikipedia.org/wiki/Category:2006年音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")

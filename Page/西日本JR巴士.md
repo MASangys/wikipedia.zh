@@ -1,4 +1,4 @@
-**西日本JR巴士**（）是由[JR西日本全資持有負責經營](../Page/西日本旅客鐵道.md "wikilink")[巴士業務的公司](https://zh.wikipedia.org/wiki/巴士 "wikilink")。總社在[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")[大阪市](../Page/大阪市.md "wikilink")[此花區北港一丁目](../Page/此花區.md "wikilink")3番23號。營業區域為[島根縣](https://zh.wikipedia.org/wiki/島根縣 "wikilink")、[岡山縣](../Page/岡山縣.md "wikilink")、[廣島縣](../Page/廣島縣.md "wikilink")、[山口縣以外的JR西日本轄區](https://zh.wikipedia.org/wiki/山口縣 "wikilink")。
+**西日本JR巴士**（）是由[JR西日本全資持有負責經營](../Page/西日本旅客鐵道.md "wikilink")[巴士業務的公司](https://zh.wikipedia.org/wiki/巴士 "wikilink")。總社在[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")[大阪市](../Page/大阪市.md "wikilink")[此花區](../Page/此花區.md "wikilink")北港一丁目3番23號。營業區域為[島根縣](https://zh.wikipedia.org/wiki/島根縣 "wikilink")、[岡山縣](../Page/岡山縣.md "wikilink")、[廣島縣](../Page/廣島縣.md "wikilink")、[山口縣以外的JR西日本轄區](https://zh.wikipedia.org/wiki/山口縣 "wikilink")。
 
 ## 历史
 
@@ -24,11 +24,7 @@
 
 ### 車輛稱號
 
-[644-9910-Nishinihon-JR-Bus-P-MS729SA.jpg](https://zh.wikipedia.org/wiki/File:644-9910-Nishinihon-JR-Bus-P-MS729SA.jpg "fig:644-9910-Nishinihon-JR-Bus-P-MS729SA.jpg")
-[JRbus_372.JPG](https://zh.wikipedia.org/wiki/File:JRbus_372.JPG "fig:JRbus_372.JPG")
-[JRbus_3175.JPG](https://zh.wikipedia.org/wiki/File:JRbus_3175.JPG "fig:JRbus_3175.JPG")
-[West_JR_Bus_Seishun_Mega_Dream.jpg](https://zh.wikipedia.org/wiki/File:West_JR_Bus_Seishun_Mega_Dream.jpg "fig:West_JR_Bus_Seishun_Mega_Dream.jpg")
-基本的上依據[國鐵巴士\#車輛稱號來編排](https://zh.wikipedia.org/wiki/國鐵巴士#車輛稱號 "wikilink")。
+[644-9910-Nishinihon-JR-Bus-P-MS729SA.jpg](https://zh.wikipedia.org/wiki/File:644-9910-Nishinihon-JR-Bus-P-MS729SA.jpg "fig:644-9910-Nishinihon-JR-Bus-P-MS729SA.jpg") [JRbus_372.JPG](https://zh.wikipedia.org/wiki/File:JRbus_372.JPG "fig:JRbus_372.JPG") [JRbus_3175.JPG](https://zh.wikipedia.org/wiki/File:JRbus_3175.JPG "fig:JRbus_3175.JPG") [West_JR_Bus_Seishun_Mega_Dream.jpg](https://zh.wikipedia.org/wiki/File:West_JR_Bus_Seishun_Mega_Dream.jpg "fig:West_JR_Bus_Seishun_Mega_Dream.jpg") 基本的上依據[國鐵巴士\#車輛稱號來編排](https://zh.wikipedia.org/wiki/國鐵巴士#車輛稱號 "wikilink")。
 
 | 7  | 4  | 8   | \- | 9  | 9  | 85   |
 | -- | -- | --- | -- | -- | -- | ---- |
@@ -77,6 +73,4 @@
 
   - [西日本JR巴士](http://www.nishinihonjrbus.co.jp/)
 
-[Category:日本巴士公司](https://zh.wikipedia.org/wiki/Category:日本巴士公司 "wikilink")
-[Category:西日本旅客鐵道](https://zh.wikipedia.org/wiki/Category:西日本旅客鐵道 "wikilink")
-[Category:大阪府公司](https://zh.wikipedia.org/wiki/Category:大阪府公司 "wikilink")
+[Category:日本巴士公司](https://zh.wikipedia.org/wiki/Category:日本巴士公司 "wikilink") [Category:西日本旅客鐵道](https://zh.wikipedia.org/wiki/Category:西日本旅客鐵道 "wikilink") [Category:大阪府公司](https://zh.wikipedia.org/wiki/Category:大阪府公司 "wikilink")

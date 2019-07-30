@@ -1,6 +1,4 @@
-《**IZUMO零**》是日本[Studio
-e.go\!公司在](../Page/Studio_e.go!.md "wikilink")2005年9月22日發售的[成人遊戲](../Page/日本成人遊戲.md "wikilink")，也是《[IZUMO](../Page/IZUMO.md "wikilink")》的前傳（但比《IZUMO》遲發售）。\[1\]\[2\]遊戲以19世紀，[日本的](../Page/日本.md "wikilink")[明治維新時代作背景](https://zh.wikipedia.org/wiki/明治維新 "wikilink")，時間是1879年（明治12年），舞台是國際都會[橫濱](https://zh.wikipedia.org/wiki/橫濱 "wikilink")。日本SUCCESS公司在2007年7月12日發售[PlayStation
-2版本](../Page/PlayStation_2.md "wikilink")，標題為《****》。\[3\]
+《**IZUMO零**》是日本[Studio e.go\!公司在](../Page/Studio_e.go!.md "wikilink")2005年9月22日發售的[成人遊戲](../Page/日本成人遊戲.md "wikilink")，也是《[IZUMO](../Page/IZUMO.md "wikilink")》的前傳（但比《IZUMO》遲發售）。\[1\]\[2\]遊戲以19世紀，[日本](../Page/日本.md "wikilink")的[明治維新時代作背景](https://zh.wikipedia.org/wiki/明治維新 "wikilink")，時間是1879年（明治12年），舞台是國際都會[橫濱](https://zh.wikipedia.org/wiki/橫濱 "wikilink")。日本SUCCESS公司在2007年7月12日發售[PlayStation 2版本](../Page/PlayStation_2.md "wikilink")，標題為《****》。\[3\]
 
 ## 遊戲系統
 
@@ -64,7 +62,7 @@ e.go\!公司在](../Page/Studio_e.go!.md "wikilink")2005年9月22日發售的[�
 ### 守護精靈
 
   - [多紀理](../Page/多紀理毘賣命.md "wikilink")（，聲優：如月美琴）
-    [宗像三女神的長女](../Page/宗像三女神.md "wikilink")。
+    [宗像三女神](../Page/宗像三女神.md "wikilink")的長女。
 
   - [多岐都](../Page/多岐都比賣命.md "wikilink")（，聲優：彩世ゆう）
     宗像三女神的次女。
@@ -75,7 +73,7 @@ e.go\!公司在](../Page/Studio_e.go!.md "wikilink")2005年9月22日發售的[�
   - ウズメ（聲優：柏木リナ）
 
   - キジムナー（聲優：雅）
-    [琉球的精靈](../Page/琉球.md "wikilink")。
+    [琉球](../Page/琉球.md "wikilink")的精靈。
 
   - ミシャグジ様（聲優：九條忍）
     白蛇的化身。
@@ -130,28 +128,15 @@ e.go\!公司在](../Page/Studio_e.go!.md "wikilink")2005年9月22日發售的[�
 
 ## 外部連結
 
-  - [遊戲主頁（Studio
-    e.go\!）](http://www.studio-ego.jp/game/izumo0/index.html)
+  - [遊戲主頁（Studio e.go\!）](http://www.studio-ego.jp/game/izumo0/index.html)
   - [遊戲主頁（Success）](http://www.success-corp.co.jp/software/ps2/izumo/index.html)
 
-[ja:IZUMO
-(ゲーム)\#IZUMO零](https://zh.wikipedia.org/wiki/ja:IZUMO_\(ゲーム\)#IZUMO零 "wikilink")
+[ja:IZUMO (ゲーム)\#IZUMO零](https://zh.wikipedia.org/wiki/ja:IZUMO_\(ゲーム\)#IZUMO零 "wikilink")
 
-[Category:2005年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2005年日本成人遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:PlayStation_2遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_2遊戲 "wikilink")
-[Category:Studio_e.go\!](https://zh.wikipedia.org/wiki/Category:Studio_e.go! "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戰略遊戲](https://zh.wikipedia.org/wiki/Category:戰略遊戲 "wikilink")
-[Category:日本神話題材作品](https://zh.wikipedia.org/wiki/Category:日本神話題材作品 "wikilink")
-[Category:明治時代背景作品](https://zh.wikipedia.org/wiki/Category:明治時代背景作品 "wikilink")
-[Category:橫濱市背景作品](https://zh.wikipedia.org/wiki/Category:橫濱市背景作品 "wikilink")
+[Category:2005年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2005年日本成人遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:PlayStation_2遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_2遊戲 "wikilink") [Category:Studio_e.go\!](https://zh.wikipedia.org/wiki/Category:Studio_e.go! "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戰略遊戲](https://zh.wikipedia.org/wiki/Category:戰略遊戲 "wikilink") [Category:日本神話題材作品](https://zh.wikipedia.org/wiki/Category:日本神話題材作品 "wikilink") [Category:明治時代背景作品](https://zh.wikipedia.org/wiki/Category:明治時代背景作品 "wikilink") [Category:橫濱市背景作品](https://zh.wikipedia.org/wiki/Category:橫濱市背景作品 "wikilink")
 
-1.  [IZUMO零（ゼロ）
-    特別版](http://www.getchu.com/soft.phtml?id=129381)Getchu.com
+1.  [IZUMO零（ゼロ） 特別版](http://www.getchu.com/soft.phtml?id=129381)Getchu.com
 2.  [Izumo 0](https://vndb.org/v619)The Visual Novel Database
-3.  [IZUMO零
-    〜横濱あやかし絵巻〜](http://www.famitsu.com/cominy/?m=pc&a=page_h_title&title_id=1293)ファミ通.com
+3.  [IZUMO零 〜横濱あやかし絵巻〜](http://www.famitsu.com/cominy/?m=pc&a=page_h_title&title_id=1293)ファミ通.com
 4.  [IZUMO零](http://erogetrailers.com/soft/3690#layout_page)ErogeTrailers
-5.  [IZUMO零](http://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=4909#ad)ErogameScape
-    -エロゲー批評空間-
+5.  [IZUMO零](http://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=4909#ad)ErogameScape -エロゲー批評空間-

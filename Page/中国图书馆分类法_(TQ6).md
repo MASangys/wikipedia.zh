@@ -1,5 +1,4 @@
-::\*TQ61
-[染料及](../Page/染料.md "wikilink")[中间体工业](https://zh.wikipedia.org/wiki/中间体工业 "wikilink")
+::\*TQ61 [染料](../Page/染料.md "wikilink")及[中间体工业](https://zh.wikipedia.org/wiki/中间体工业 "wikilink")
 
 ::::\*TQ610.1 基础理论
 
@@ -13,30 +12,23 @@
 
 :::::\*TQ610.4+4 [固色剂](https://zh.wikipedia.org/wiki/固色剂 "wikilink")
 
-:::::\*TQ610.4+5
-[还原剂与](https://zh.wikipedia.org/wiki/还原剂 "wikilink")[拔染助剂](https://zh.wikipedia.org/wiki/拔染助剂 "wikilink")
+:::::\*TQ610.4+5 [还原剂与](https://zh.wikipedia.org/wiki/还原剂 "wikilink")[拔染助剂](https://zh.wikipedia.org/wiki/拔染助剂 "wikilink")
 
-:::::\*TQ610.4+6
-[增染剂](https://zh.wikipedia.org/wiki/增染剂 "wikilink")、[促染剂](https://zh.wikipedia.org/wiki/促染剂 "wikilink")
+:::::\*TQ610.4+6 [增染剂](https://zh.wikipedia.org/wiki/增染剂 "wikilink")、[促染剂](https://zh.wikipedia.org/wiki/促染剂 "wikilink")
 
-:::::\*TQ610.4+7
-[渗透剂](https://zh.wikipedia.org/wiki/渗透剂 "wikilink")（印染用）
+:::::\*TQ610.4+7 [渗透剂](https://zh.wikipedia.org/wiki/渗透剂 "wikilink")（印染用）
 
 :::::\*TQ610.4+8 [织物整理剂](https://zh.wikipedia.org/wiki/织物整理剂 "wikilink")
 
-::::::\*TQ610.4+91
-[抗静电剂](https://zh.wikipedia.org/wiki/抗静电剂 "wikilink")、[紫外线吸收剂](https://zh.wikipedia.org/wiki/紫外线吸收剂 "wikilink")、[光放定剂](https://zh.wikipedia.org/wiki/光放定剂 "wikilink")
+::::::\*TQ610.4+91 [抗静电剂](https://zh.wikipedia.org/wiki/抗静电剂 "wikilink")、[紫外线吸收剂](https://zh.wikipedia.org/wiki/紫外线吸收剂 "wikilink")、[光放定剂](https://zh.wikipedia.org/wiki/光放定剂 "wikilink")
 
 ::::::\*TQ610.4+92 [柔软剂](https://zh.wikipedia.org/wiki/柔软剂 "wikilink")
 
-::::::\*TQ610.4+93
-[防水剂](https://zh.wikipedia.org/wiki/防水剂 "wikilink")、[防火剂](https://zh.wikipedia.org/wiki/防火剂 "wikilink")、[防蛀剂](https://zh.wikipedia.org/wiki/防蛀剂 "wikilink")
+::::::\*TQ610.4+93 [防水剂](https://zh.wikipedia.org/wiki/防水剂 "wikilink")、[防火剂](https://zh.wikipedia.org/wiki/防火剂 "wikilink")、[防蛀剂](https://zh.wikipedia.org/wiki/防蛀剂 "wikilink")
 
-::::::\*TQ610.4+94
-[乳化剂](https://zh.wikipedia.org/wiki/乳化剂 "wikilink")、[油剂](https://zh.wikipedia.org/wiki/油剂 "wikilink")
+::::::\*TQ610.4+94 [乳化剂](https://zh.wikipedia.org/wiki/乳化剂 "wikilink")、[油剂](https://zh.wikipedia.org/wiki/油剂 "wikilink")
 
-::::::\*TQ610.4+95
-[萤光增白剂](https://zh.wikipedia.org/wiki/萤光增白剂 "wikilink")
+::::::\*TQ610.4+95 [萤光增白剂](https://zh.wikipedia.org/wiki/萤光增白剂 "wikilink")
 
 ::::::\*TQ610.4+99 其他
 
@@ -558,8 +550,7 @@
 
 ::::\*TQ639.8 施工病态及防治法
 
-::\*TQ64
-[油脂和](https://zh.wikipedia.org/wiki/油脂 "wikilink")[蜡的化学加工工业](https://zh.wikipedia.org/wiki/蜡 "wikilink")、[肥皂工业](https://zh.wikipedia.org/wiki/肥皂工业 "wikilink")
+::\*TQ64 [油脂和](https://zh.wikipedia.org/wiki/油脂 "wikilink")[蜡的化学加工工业](https://zh.wikipedia.org/wiki/蜡 "wikilink")、[肥皂工业](https://zh.wikipedia.org/wiki/肥皂工业 "wikilink")
 
 :::\*TQ641 基础理论
 
@@ -773,8 +764,7 @@
 
 ::::\*TQ649.9 三废处理与综合利用
 
-::\*TQ65
-[香料及](https://zh.wikipedia.org/wiki/香料 "wikilink")[化妆品工业](https://zh.wikipedia.org/wiki/化妆品工业 "wikilink")
+::\*TQ65 [香料及](https://zh.wikipedia.org/wiki/香料 "wikilink")[化妆品工业](https://zh.wikipedia.org/wiki/化妆品工业 "wikilink")
 
 :::\*TQ651 香料化学
 

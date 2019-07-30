@@ -1,15 +1,11 @@
-**BEST
-最嘉精選**是[中島美嘉於](../Page/中島美嘉.md "wikilink")2005年12月7日發行的[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")。
+**BEST 最嘉精選**是[中島美嘉](../Page/中島美嘉.md "wikilink")於2005年12月7日發行的[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")。
 
 ## 概述
 
   - 收錄自出道以來的大部分單曲，為中島美嘉第一張精選輯。曲順正好為作品發表的年代順序。
   - 重唱了出道單曲「STARS」。
-  - 請到了爵士歌手綾戶智繪擔任製作人，重新詮釋了收錄於第一張專輯「[TRUE
-    唯美生存](../Page/TRUE_唯美生存.md "wikilink")」的翻唱名曲「AMAZING
-    GRACE」，綾戶智繪以前也曾詮釋過這首名曲。不僅整首改以爵士鋼琴演奏，唱腔也較為接近綾戶智繪的爵士唱法。
-  - 繼第一張專輯「[TRUE 唯美生存](../Page/TRUE_唯美生存.md "wikilink")」、第二張專輯「[LØVE
-    愛無止盡](https://zh.wikipedia.org/wiki/LØVE_愛無止盡 "wikilink")」之後，再度創下了百萬銷售量，主要是因為受到電影「[NANA](../Page/NANA.md "wikilink")」上映熱潮的影響。
+  - 請到了爵士歌手綾戶智繪擔任製作人，重新詮釋了收錄於第一張專輯「[TRUE 唯美生存](../Page/TRUE_唯美生存.md "wikilink")」的翻唱名曲「AMAZING GRACE」，綾戶智繪以前也曾詮釋過這首名曲。不僅整首改以爵士鋼琴演奏，唱腔也較為接近綾戶智繪的爵士唱法。
+  - 繼第一張專輯「[TRUE 唯美生存](../Page/TRUE_唯美生存.md "wikilink")」、第二張專輯「[LØVE 愛無止盡](https://zh.wikipedia.org/wiki/LØVE_愛無止盡 "wikilink")」之後，再度創下了百萬銷售量，主要是因為受到電影「[NANA](../Page/NANA.md "wikilink")」上映熱潮的影響。
   - 未收錄「火鳥」等其他人氣單曲，對此因而有些「不完整的BEST」的批評聲浪。
   - 2006年1月11日發行了黑膠唱片的版本，2片黑膠的曲順同CD曲目。
   - 2009年9月2日發行了限定生產的Blu-spec CD版本。
@@ -32,8 +28,7 @@
       - 作詞：秋元康・中島美嘉／作曲：長岡成貢／編曲：COLDFEET
 6.  **[我愛你](../Page/我愛你_\(中島美嘉單曲\).md "wikilink")**
       - 作詞・作曲：H／編曲：shinya
-7.  **[Love
-    Addict](https://zh.wikipedia.org/wiki/Love_Addict "wikilink")**
+7.  **[Love Addict](https://zh.wikipedia.org/wiki/Love_Addict "wikilink")**
       - 作詞：中島美嘉／作曲・編曲：大澤伸一
 8.  **[FIND THE WAY](../Page/FIND_THE_WAY.md "wikilink")**
       - 作詞：中島美嘉／作曲：Lori Fine／編曲：島健
@@ -49,8 +44,7 @@
 13. **[櫻花紛飛時](../Page/櫻花紛飛時.md "wikilink")**
       - 作詞・作曲：川江美奈子／編曲：武部聰志
 14. **[GLAMOROUS SKY](../Page/GLAMOROUS_SKY.md "wikilink")**
-      - 作詞：[AI
-        YAZAWA](../Page/矢澤愛.md "wikilink")／作曲：[HYDE](https://zh.wikipedia.org/wiki/hyde "wikilink")／編曲：HYDE・KAZ
+      - 作詞：[AI YAZAWA](../Page/矢澤愛.md "wikilink")／作曲：[HYDE](https://zh.wikipedia.org/wiki/hyde "wikilink")／編曲：HYDE・KAZ
 
 ## DVD
 
@@ -79,8 +73,4 @@
 19. **GLAMOROUS SKY**
 20. **BLOOD**(LIVE)
 
-[Category:中島美嘉音樂專輯](https://zh.wikipedia.org/wiki/Category:中島美嘉音樂專輯 "wikilink")
-[Category:2005年音樂專輯](https://zh.wikipedia.org/wiki/Category:2005年音樂專輯 "wikilink")
-[Category:RIAJ百萬認證專輯](https://zh.wikipedia.org/wiki/Category:RIAJ百萬認證專輯 "wikilink")
-[Category:Oricon百萬銷量達成專輯](https://zh.wikipedia.org/wiki/Category:Oricon百萬銷量達成專輯 "wikilink")
-[Category:2005年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2005年Oricon專輯週榜冠軍作品 "wikilink")
+[Category:中島美嘉音樂專輯](https://zh.wikipedia.org/wiki/Category:中島美嘉音樂專輯 "wikilink") [Category:2005年音樂專輯](https://zh.wikipedia.org/wiki/Category:2005年音樂專輯 "wikilink") [Category:RIAJ百萬認證專輯](https://zh.wikipedia.org/wiki/Category:RIAJ百萬認證專輯 "wikilink") [Category:Oricon百萬銷量達成專輯](https://zh.wikipedia.org/wiki/Category:Oricon百萬銷量達成專輯 "wikilink") [Category:2005年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2005年Oricon專輯週榜冠軍作品 "wikilink")

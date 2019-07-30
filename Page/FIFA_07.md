@@ -1,25 +1,15 @@
-**FIFA 07**（也叫做**FIFA Soccer 07** 和 **FIFA Football
-07**）是[美商藝电的](https://zh.wikipedia.org/wiki/美商藝电 "wikilink")[足球遊戏](../Page/足球.md "wikilink")，由美商藝电加拿大分支开发，美商藝电发行。遊戏於2006年9月27日在[欧洲发行](../Page/欧洲.md "wikilink")，而[美国则於](../Page/美国.md "wikilink")10月3日同时发行电脑版、[GameCube版](https://zh.wikipedia.org/wiki/GameCube "wikilink")、[PS2版](https://zh.wikipedia.org/wiki/PS2 "wikilink")、[GBA版](../Page/Game_Boy_Advance.md "wikilink")、[PSP版](https://zh.wikipedia.org/wiki/PSP "wikilink")、[NDS版和](https://zh.wikipedia.org/wiki/NDS "wikilink")[XBox版](https://zh.wikipedia.org/wiki/XBox "wikilink")。而[Xbox
-360版则於](../Page/Xbox_360.md "wikilink")10月27日在欧洲发行，而到11月3日则於美国发行。在未来的12个月，XB360版将会独家率先採用次世代的图像和物理处理引擎。而遊戏的标题是「这就是球季」（This
-is the season）。
+**FIFA 07**（也叫做**FIFA Soccer 07** 和 **FIFA Football 07**）是[美商藝电的](https://zh.wikipedia.org/wiki/美商藝电 "wikilink")[足球](../Page/足球.md "wikilink")遊戏，由美商藝电加拿大分支开发，美商藝电发行。遊戏於2006年9月27日在[欧洲](../Page/欧洲.md "wikilink")发行，而[美国](../Page/美国.md "wikilink")则於10月3日同时发行电脑版、[GameCube版](https://zh.wikipedia.org/wiki/GameCube "wikilink")、[PS2版](https://zh.wikipedia.org/wiki/PS2 "wikilink")、[GBA版](../Page/Game_Boy_Advance.md "wikilink")、[PSP版](https://zh.wikipedia.org/wiki/PSP "wikilink")、[NDS版和](https://zh.wikipedia.org/wiki/NDS "wikilink")[XBox版](https://zh.wikipedia.org/wiki/XBox "wikilink")。而[Xbox 360版则於](../Page/Xbox_360.md "wikilink")10月27日在欧洲发行，而到11月3日则於美国发行。在未来的12个月，XB360版将会独家率先採用次世代的图像和物理处理引擎。而遊戏的标题是「这就是球季」（This is the season）。
 
-FIFA
-07是[FIFA系列的第](../Page/FIFA系列.md "wikilink")14只作品，也是第11只採用[3D画面的作品](https://zh.wikipedia.org/wiki/3D "wikilink")。
+FIFA 07是[FIFA系列](../Page/FIFA系列.md "wikilink")的第14只作品，也是第11只採用[3D画面的作品](https://zh.wikipedia.org/wiki/3D "wikilink")。
 
-美商藝电发佈了七个球员於不同版本的封面，视乎发售区域而定。[罗纳尔迪尼奥会在每个版本都出现](../Page/罗纳尔迪尼奥.md "wikilink")，而[-{zh-hans:多诺万;zh-hk:當奴雲;zh-tw:唐納文;}-](https://zh.wikipedia.org/wiki/多诺万 "wikilink")（Landon
-Donovan）和[丰赛卡](https://zh.wikipedia.org/wiki/丰赛卡 "wikilink")（Francisco
-Fonseca）会於北美版出现，[鲁尼](https://zh.wikipedia.org/wiki/鲁尼 "wikilink")（Wayne
-Rooney）於[英国版出现](https://zh.wikipedia.org/wiki/英国 "wikilink")，[-{zh-hans:波多尔斯基;zh-hk:普度斯基;zh-tw:波多斯基;}-](https://zh.wikipedia.org/wiki/波多尔斯基 "wikilink")（Lukas
-Podolski）於[德国版出现](../Page/德国.md "wikilink")，[大卫·比利亚](../Page/大卫·比利亚.md "wikilink")（David
-Villa）於[西班牙版出现](../Page/西班牙.md "wikilink")，[卡卡](../Page/卡卡.md "wikilink")（Kaká）於[意大利版出现](../Page/意大利.md "wikilink")，还有[-{zh-hans:小儒尼尼奥;zh-hk:P.祖連奴;zh-tw:小儒尼尼奧;}-](https://zh.wikipedia.org/wiki/小儒尼尼奥 "wikilink")（Juninho）於[法国版出现](https://zh.wikipedia.org/wiki/法国 "wikilink")。
+美商藝电发佈了七个球员於不同版本的封面，视乎发售区域而定。[罗纳尔迪尼奥](../Page/罗纳尔迪尼奥.md "wikilink")会在每个版本都出现，而[-{zh-hans:多诺万;zh-hk:當奴雲;zh-tw:唐納文;}-](https://zh.wikipedia.org/wiki/多诺万 "wikilink")（Landon Donovan）和[丰赛卡](https://zh.wikipedia.org/wiki/丰赛卡 "wikilink")（Francisco Fonseca）会於北美版出现，[鲁尼](https://zh.wikipedia.org/wiki/鲁尼 "wikilink")（Wayne Rooney）於[英国版出现](https://zh.wikipedia.org/wiki/英国 "wikilink")，[-{zh-hans:波多尔斯基;zh-hk:普度斯基;zh-tw:波多斯基;}-](https://zh.wikipedia.org/wiki/波多尔斯基 "wikilink")（Lukas Podolski）於[德国](../Page/德国.md "wikilink")版出现，[大卫·比利亚](../Page/大卫·比利亚.md "wikilink")（David Villa）於[西班牙](../Page/西班牙.md "wikilink")版出现，[卡卡](../Page/卡卡.md "wikilink")（Kaká）於[意大利](../Page/意大利.md "wikilink")版出现，还有[-{zh-hans:小儒尼尼奥;zh-hk:P.祖連奴;zh-tw:小儒尼尼奧;}-](https://zh.wikipedia.org/wiki/小儒尼尼奥 "wikilink")（Juninho）於[法国版出现](https://zh.wikipedia.org/wiki/法国 "wikilink")。
 
 ## 游戏特色
 
 以下为游戏中的特色：
 
   - 全面的真实性：FIFA足球2007中包括来自20个国家的27个联赛，510余支球队各有其精确真实的球衣和徽章。
-  - EA SPORTS™
-    互动联赛：在网上代表你的俱乐部对抗各路对手，包括[英格蘭超級足球聯賽](https://zh.wikipedia.org/wiki/英格蘭超級足球聯賽 "wikilink")，[德國足球甲組聯賽](https://zh.wikipedia.org/wiki/德國足球甲組聯賽 "wikilink")，[法國甲組足球聯賽和](https://zh.wikipedia.org/wiki/法國甲組足球聯賽 "wikilink")[墨西哥足球甲級聯賽](../Page/墨西哥足球甲級聯賽.md "wikilink")，在角逐中享受游戏的快感。胜利将引领俱乐部走向荣耀；失败则会让球队积分垫底。每周包括用户访谈在内的播客宣传将把你的荣光传向全世界。
+  - EA SPORTS™ 互动联赛：在网上代表你的俱乐部对抗各路对手，包括[英格蘭超級足球聯賽](https://zh.wikipedia.org/wiki/英格蘭超級足球聯賽 "wikilink")，[德國足球甲組聯賽](https://zh.wikipedia.org/wiki/德國足球甲組聯賽 "wikilink")，[法國甲組足球聯賽和](https://zh.wikipedia.org/wiki/法國甲組足球聯賽 "wikilink")[墨西哥足球甲級聯賽](../Page/墨西哥足球甲級聯賽.md "wikilink")，在角逐中享受游戏的快感。胜利将引领俱乐部走向荣耀；失败则会让球队积分垫底。每周包括用户访谈在内的播客宣传将把你的荣光传向全世界。
   - 社交游戏：与最多8名朋友一起在FIFA07游戏大厅中角逐冠军。全新的障碍比赛系统令你可以在朋友面前尽情表现自己。
   - 强化经理模式：所有事物都很真实。真实的资金、青年球员的成长、媒体和球迷的反应，令你全身心地沉浸在足球经理的世界中。今年的全新之处——创建你自己的俱乐部。
   - 足球情感：人群会根据你的表现作出反应。进球和控球将会令球迷发出震耳的欢呼，赛事不利则会让他们垂头丧气。视角会集中在那些情绪特别明显的球员身上。
@@ -30,10 +20,8 @@ Villa）於[西班牙版出现](../Page/西班牙.md "wikilink")，[卡卡](../P
 ## 原聲帶
 
   - [Tigarah](../Page/Tigarah.md "wikilink") - "Girl Fight"
-  - [-{zh-cn:缪斯乐队;zh-hk:Muse;zh-tw:謬思合唱團;zh-hans:缪斯乐队;zh-hant:謬思合唱團;zh-mo:Muse;}-](../Page/缪斯乐队.md "wikilink")
-    - "Supermassive Black Hole"
-  - [-{zh-cn:基音乐团;zh-hk:Keane;zh-tw:基音樂團}-](https://zh.wikipedia.org/wiki/基音乐团 "wikilink")
-    - "Nothing In My Way"
+  - [-{zh-cn:缪斯乐队;zh-hk:Muse;zh-tw:謬思合唱團;zh-hans:缪斯乐队;zh-hant:謬思合唱團;zh-mo:Muse;}-](../Page/缪斯乐队.md "wikilink") - "Supermassive Black Hole"
+  - [-{zh-cn:基音乐团;zh-hk:Keane;zh-tw:基音樂團}-](https://zh.wikipedia.org/wiki/基音乐团 "wikilink") - "Nothing In My Way"
 
 ## 聯賽
 
@@ -70,8 +58,7 @@ FIFA 07一共有27個聯賽。一個“其他地方球會”（Rest of world）�
 
 Notes
 
-<sup>1</sup> [尤文圖斯於Xbox](https://zh.wikipedia.org/wiki/尤文圖斯 "wikilink")
-360版和英國發售的PS2版中會在乙組出現
+<sup>1</sup> [尤文圖斯於Xbox](https://zh.wikipedia.org/wiki/尤文圖斯 "wikilink") 360版和英國發售的PS2版中會在乙組出現
 <sup>2</sup> 丹麥足球超級聯賽於NDS版不會以實名出現
 <sup>4</sup> 不適用於NDS版
 <sup>5</sup> 網絡連線聯賽
@@ -139,8 +126,7 @@ FIFA 2007擁有27個國家隊。下面是FIFA2007所包含的國家隊名單：
   - [魯營球場](../Page/魯營球場.md "wikilink")，西班牙
   - [孔斯坦·範登·斯托克球場](https://zh.wikipedia.org/wiki/孔斯坦·範登·斯托克球場 "wikilink")，比利時
   - [大邱綜合競技場](https://zh.wikipedia.org/wiki/大邱綜合競技場 "wikilink")，韓國
-  - [阿聯酋航空球場](https://zh.wikipedia.org/wiki/阿聯酋航空球場 "wikilink")，英格蘭
-    <sup>1</sup>
+  - [阿聯酋航空球場](https://zh.wikipedia.org/wiki/阿聯酋航空球場 "wikilink")，英格蘭 <sup>1</sup>
   - [阿茲迪卡球場](https://zh.wikipedia.org/wiki/阿茲迪卡球場 "wikilink")，墨西哥
   - [光明球場](../Page/光明球場.md "wikilink")，葡萄牙
   - [比沙球場](https://zh.wikipedia.org/wiki/比沙球場 "wikilink")，葡萄牙
@@ -150,8 +136,7 @@ FIFA 2007擁有27個國家隊。下面是FIFA2007所包含的國家隊名單：
   - [梅斯塔利亞球場](https://zh.wikipedia.org/wiki/梅斯塔利亞球場 "wikilink")，西班牙<sup>2</sup>
   - [卡迪夫千禧球場](https://zh.wikipedia.org/wiki/卡迪夫千禧球場 "wikilink")，威爾士
   - [奧脫福球場](https://zh.wikipedia.org/wiki/奧脫福球場 "wikilink")，英格蘭
-  - [奧林匹克球場](https://zh.wikipedia.org/wiki/奧林匹克球場 "wikilink")，德國
-    <sup>1</sup>
+  - [奧林匹克球場](https://zh.wikipedia.org/wiki/奧林匹克球場 "wikilink")，德國 <sup>1</sup>
   - [王子公園球場](https://zh.wikipedia.org/wiki/王子公園球場 "wikilink")，法國
   - [聖西路球場](../Page/聖西路球場.md "wikilink")，意大利
   - [巴拿貝球場](https://zh.wikipedia.org/wiki/巴拿貝球場 "wikilink")，西班牙
@@ -163,8 +148,7 @@ FIFA 2007擁有27個國家隊。下面是FIFA2007所包含的國家隊名單：
   - [羅馬奧林匹克球場](https://zh.wikipedia.org/wiki/羅馬奧林匹克球場 "wikilink")，意大利<sup>1</sup>
   - [維諾多梅球場](https://zh.wikipedia.org/wiki/維諾多梅球場 "wikilink")，法國
   - [史丹福橋球場](../Page/史丹福橋球場.md "wikilink")，英格蘭
-  - [維爾廷斯球場](https://zh.wikipedia.org/wiki/維爾廷斯球場 "wikilink")，德國
-    <sup>1</sup>
+  - [維爾廷斯球場](https://zh.wikipedia.org/wiki/維爾廷斯球場 "wikilink")，德國 <sup>1</sup>
   - [溫布萊球場](https://zh.wikipedia.org/wiki/溫布萊球場 "wikilink")，英格蘭<sup>1</sup>
 
 <sup>1</sup> 新增加內容
@@ -172,14 +156,4 @@ FIFA 2007擁有27個國家隊。下面是FIFA2007所包含的國家隊名單：
 
 ## 外部链接
 
-[Category:2006年电子游戏](https://zh.wikipedia.org/wiki/Category:2006年电子游戏 "wikilink")
-[Category:FIFA系列](https://zh.wikipedia.org/wiki/Category:FIFA系列 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:任天堂GameCube游戏](https://zh.wikipedia.org/wiki/Category:任天堂GameCube游戏 "wikilink")
-[Category:任天堂DS遊戲](https://zh.wikipedia.org/wiki/Category:任天堂DS遊戲 "wikilink")
-[Category:Game_Boy_Advance遊戲](https://zh.wikipedia.org/wiki/Category:Game_Boy_Advance遊戲 "wikilink")
-[Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink")
-[Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink")
-[Category:Xbox遊戲](https://zh.wikipedia.org/wiki/Category:Xbox遊戲 "wikilink")
-[Category:Xbox_360遊戲](https://zh.wikipedia.org/wiki/Category:Xbox_360遊戲 "wikilink")
-[Category:N-Gage服务游戏](https://zh.wikipedia.org/wiki/Category:N-Gage服务游戏 "wikilink")
+[Category:2006年电子游戏](https://zh.wikipedia.org/wiki/Category:2006年电子游戏 "wikilink") [Category:FIFA系列](https://zh.wikipedia.org/wiki/Category:FIFA系列 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:任天堂GameCube游戏](https://zh.wikipedia.org/wiki/Category:任天堂GameCube游戏 "wikilink") [Category:任天堂DS遊戲](https://zh.wikipedia.org/wiki/Category:任天堂DS遊戲 "wikilink") [Category:Game_Boy_Advance遊戲](https://zh.wikipedia.org/wiki/Category:Game_Boy_Advance遊戲 "wikilink") [Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink") [Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink") [Category:Xbox遊戲](https://zh.wikipedia.org/wiki/Category:Xbox遊戲 "wikilink") [Category:Xbox_360遊戲](https://zh.wikipedia.org/wiki/Category:Xbox_360遊戲 "wikilink") [Category:N-Gage服务游戏](https://zh.wikipedia.org/wiki/Category:N-Gage服务游戏 "wikilink")

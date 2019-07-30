@@ -2,14 +2,13 @@
 
 另外，ING安泰人壽為了要讓台灣的各個長跑好手都能實際參與相關活動，也在各分區舉辦ING慢跑俱樂部訓練活動（）以及分區的暖身賽（舊稱「先鋒賽」，亦稱之「試跑賽」），希望能藉由各地區的訓練活動中，來發掘出各地的慢跑菁英，進而讓各地的好手能互相交流，達成良好的慢跑風氣。
 
-然而，因為台灣的行車文化極為不佳，而遭到各界（學術界與大眾媒體）的抨擊之下，曾經一度傳言要退出[台北國際馬拉松比賽贊助的ING安泰人壽](https://zh.wikipedia.org/wiki/台北國際馬拉松比賽 "wikilink")，經過2006年12月15日的會議之後，在承辦的[中華民國路跑協會與主辦的](../Page/中華民國.md "wikilink")[台北市政府承諾](https://zh.wikipedia.org/wiki/台北市政府 "wikilink")「比賽時，維持交通的良好秩序」的前提下，決議持續贊助至2009年（第13屆），並且宣佈在2007年確定會於12月16日舉行正式比賽\[1\]。
+然而，因為台灣的行車文化極為不佳，而遭到各界（學術界與大眾媒體）的抨擊之下，曾經一度傳言要退出[台北國際馬拉松比賽贊助的ING安泰人壽](https://zh.wikipedia.org/wiki/台北國際馬拉松比賽 "wikilink")，經過2006年12月15日的會議之後，在承辦的[中華民國](../Page/中華民國.md "wikilink")路跑協會與主辦的[台北市政府承諾](https://zh.wikipedia.org/wiki/台北市政府 "wikilink")「比賽時，維持交通的良好秩序」的前提下，決議持續贊助至2009年（第13屆），並且宣佈在2007年確定會於12月16日舉行正式比賽\[1\]。
 
 雖然ING台北國際馬拉松比賽已成為台灣有史以來企業冠名贊助最長久，也是最讓人印象深刻的馬拉松比賽，但由於ING安泰人壽在2008年10月20日，被[富邦金控合併的關係](https://zh.wikipedia.org/wiki/富邦金控 "wikilink")\[2\]，因此在2008年12月21日的最後一次舉辦後，台北國際馬拉松的冠名贊助權，將由2009年開始易手富邦金控，這個名詞將隨之走入歷史。
 
 ## 比賽分組方式
 
-[2005INGTaipeiMarathon_10K_Finish_Line.jpg](https://zh.wikipedia.org/wiki/File:2005INGTaipeiMarathon_10K_Finish_Line.jpg "fig:2005INGTaipeiMarathon_10K_Finish_Line.jpg")
-[2006INGTaipeiMarathon_Smart_Fortwo_1680DY_Side.jpg](https://zh.wikipedia.org/wiki/File:2006INGTaipeiMarathon_Smart_Fortwo_1680DY_Side.jpg "fig:2006INGTaipeiMarathon_Smart_Fortwo_1680DY_Side.jpg")
+[2005INGTaipeiMarathon_10K_Finish_Line.jpg](https://zh.wikipedia.org/wiki/File:2005INGTaipeiMarathon_10K_Finish_Line.jpg "fig:2005INGTaipeiMarathon_10K_Finish_Line.jpg") [2006INGTaipeiMarathon_Smart_Fortwo_1680DY_Side.jpg](https://zh.wikipedia.org/wiki/File:2006INGTaipeiMarathon_Smart_Fortwo_1680DY_Side.jpg "fig:2006INGTaipeiMarathon_Smart_Fortwo_1680DY_Side.jpg")
 
   - 競賽組\[3\]
     1.  路跑組：全長為九公里，僅於2005年改成10公里。\[4\]
@@ -19,8 +18,7 @@
     3.  [馬拉松組](https://zh.wikipedia.org/wiki/馬拉松 "wikilink")：42.195公里\[7\]。
     4.  視障組：是專門給視障路跑選手參與的組別，不分性別，里程分為9[公里](../Page/公里.md "wikilink")、21[公里](../Page/公里.md "wikilink")、42.195[公里](../Page/公里.md "wikilink")。\[8\]
     5.  兒童組：僅限國小3－6年級的小學生報名的活動，全長為1公里。\[9\]
-  - Fun
-    Run組（休閒組）：3公里，每年都會有不同廠商協力贊助相關贈品，目前是以持續舉辦年初五公里休閒路跑活動的[Nike為主力](https://zh.wikipedia.org/wiki/Nike "wikilink")，另有「團體搶衫活動」配合此活動來舉辦，是唯一開放現場報名的非競賽組別。
+  - Fun Run組（休閒組）：3公里，每年都會有不同廠商協力贊助相關贈品，目前是以持續舉辦年初五公里休閒路跑活動的[Nike為主力](https://zh.wikipedia.org/wiki/Nike "wikilink")，另有「團體搶衫活動」配合此活動來舉辦，是唯一開放現場報名的非競賽組別。
 
 ## 相關活動
 
@@ -34,8 +32,7 @@
 
 ### 安泰路跑俱樂部定期聚會
 
-[2006INGRunningClub_Taoyuan_Part3_WarmingUp.jpg](https://zh.wikipedia.org/wiki/File:2006INGRunningClub_Taoyuan_Part3_WarmingUp.jpg "fig:2006INGRunningClub_Taoyuan_Part3_WarmingUp.jpg")
-2004年開始，安泰人壽就廣邀各路慢跑好手，加入安泰的小型慢跑俱樂部訓練活動，區域分佈包含[臺北縣](https://zh.wikipedia.org/wiki/新北市 "wikilink")[市](https://zh.wikipedia.org/wiki/台北市 "wikilink")、[桃](https://zh.wikipedia.org/wiki/桃園市 "wikilink")[竹](https://zh.wikipedia.org/wiki/新竹 "wikilink")[苗](../Page/苗栗縣.md "wikilink")、[台中](https://zh.wikipedia.org/wiki/臺中市 "wikilink")、[雲林](https://zh.wikipedia.org/wiki/雲林縣 "wikilink")[嘉義](https://zh.wikipedia.org/wiki/嘉義 "wikilink")、[台南市](https://zh.wikipedia.org/wiki/台南市 "wikilink")、[高雄市](../Page/高雄市.md "wikilink")、[宜蘭](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")、[花蓮](../Page/花蓮縣.md "wikilink")、[台東](https://zh.wikipedia.org/wiki/台東縣 "wikilink")。訓練活動期間的講師陣容，除了有中華民國田徑協會的正式B級與A級裁判、教練，另外還有健康領域相關的講師。
+[2006INGRunningClub_Taoyuan_Part3_WarmingUp.jpg](https://zh.wikipedia.org/wiki/File:2006INGRunningClub_Taoyuan_Part3_WarmingUp.jpg "fig:2006INGRunningClub_Taoyuan_Part3_WarmingUp.jpg") 2004年開始，安泰人壽就廣邀各路慢跑好手，加入安泰的小型慢跑俱樂部訓練活動，區域分佈包含[臺北縣](https://zh.wikipedia.org/wiki/新北市 "wikilink")[市](https://zh.wikipedia.org/wiki/台北市 "wikilink")、[桃](https://zh.wikipedia.org/wiki/桃園市 "wikilink")[竹](https://zh.wikipedia.org/wiki/新竹 "wikilink")[苗](../Page/苗栗縣.md "wikilink")、[台中](https://zh.wikipedia.org/wiki/臺中市 "wikilink")、[雲林](https://zh.wikipedia.org/wiki/雲林縣 "wikilink")[嘉義](https://zh.wikipedia.org/wiki/嘉義 "wikilink")、[台南市](https://zh.wikipedia.org/wiki/台南市 "wikilink")、[高雄市](../Page/高雄市.md "wikilink")、[宜蘭](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")、[花蓮](../Page/花蓮縣.md "wikilink")、[台東](https://zh.wikipedia.org/wiki/台東縣 "wikilink")。訓練活動期間的講師陣容，除了有中華民國田徑協會的正式B級與A級裁判、教練，另外還有健康領域相關的講師。
 
 #### 2004年（種子代表隊選拔）
 
@@ -47,8 +44,7 @@
 
 ### 搶衫活動
 
-2005年起，為了鼓勵團體Fun
-Run健康路跑組的報名，特別在比賽前一個月進行「團體搶衫活動」，此一小活動受到各團體的好評，同時也吸引更多無法即時參與競賽組的好手，藉由搶衫活動，更進一步地瞭解ING臺北國際馬拉松比賽的健康慢跑。
+2005年起，為了鼓勵團體Fun Run健康路跑組的報名，特別在比賽前一個月進行「團體搶衫活動」，此一小活動受到各團體的好評，同時也吸引更多無法即時參與競賽組的好手，藉由搶衫活動，更進一步地瞭解ING臺北國際馬拉松比賽的健康慢跑。
 
 ### 馬拉松團體大車拼
 
@@ -70,34 +66,23 @@ Run健康路跑組的報名，特別在比賽前一個月進行「團體搶衫�
 
 #### 歷屆承攬志工招募的單位
 
-  - 2004年：[悍創運動行銷（Bros
-    Sports）](https://web.archive.org/web/20061128081413/http://www.bros.com.tw/)，發起人為[2004雅典奧運](https://zh.wikipedia.org/wiki/2004年夏季奥林匹克运动会 "wikilink")[台灣志工詹鈞智](https://zh.wikipedia.org/wiki/台灣 "wikilink")。\[10\]
-  - 2005年：[平實行銷股份有限公司（Peace
-    Marketing）](https://web.archive.org/web/20061128054952/http://www.peacemarketing.com.tw/)。
-  - 2006年：[平實行銷股份有限公司（Peace
-    Marketing）](https://web.archive.org/web/20061128054952/http://www.peacemarketing.com.tw/)、[拓肯行銷顧問股份有限公司（Too
-    Can
-    Sports）](https://web.archive.org/web/20071008052456/http://www.toocan.com.tw/)，總負責人：ING安泰人壽副總經理陳姿瑛。\[11\]
+  - 2004年：[悍創運動行銷（Bros Sports）](https://web.archive.org/web/20061128081413/http://www.bros.com.tw/)，發起人為[2004雅典奧運](https://zh.wikipedia.org/wiki/2004年夏季奥林匹克运动会 "wikilink")[台灣志工詹鈞智](https://zh.wikipedia.org/wiki/台灣 "wikilink")。\[10\]
+  - 2005年：[平實行銷股份有限公司（Peace Marketing）](https://web.archive.org/web/20061128054952/http://www.peacemarketing.com.tw/)。
+  - 2006年：[平實行銷股份有限公司（Peace Marketing）](https://web.archive.org/web/20061128054952/http://www.peacemarketing.com.tw/)、[拓肯行銷顧問股份有限公司（Too Can Sports）](https://web.archive.org/web/20071008052456/http://www.toocan.com.tw/)，總負責人：ING安泰人壽副總經理陳姿瑛。\[11\]
 
-[File:2006INGTaipeiMarathonVolunteerCertification.jpg|自2005年起，為了感謝志工的付出，主辦單位會頒贈](File:2006INGTaipeiMarathonVolunteerCertification.jpg%7C自2005年起，為了感謝志工的付出，主辦單位會頒贈)**「志工榮譽證書」**給參與志願服務的志工。
-<File:2006INGTaipeiMarathonVolunteerTopHonoraryCeremonyCertification.jpg>|**「最高榮譽志工證書」**只有**連續三屆（2004年－2006年）都參與志願服務的志工**才能獲得。
-[File:2006INGTaipeiMarathon_VolunteerTraining-24.jpg|前成功大學學生會長林紀甫（Jeff](File:2006INGTaipeiMarathon_VolunteerTraining-24.jpg%7C前成功大學學生會長林紀甫（Jeff)
-"the Barts" Lin）每年在志工統籌部分都會扮演重要的決策者。
+[File:2006INGTaipeiMarathonVolunteerCertification.jpg|自2005年起，為了感謝志工的付出，主辦單位會頒贈](File:2006INGTaipeiMarathonVolunteerCertification.jpg%7C自2005年起，為了感謝志工的付出，主辦單位會頒贈)**「志工榮譽證書」**給參與志願服務的志工。 <File:2006INGTaipeiMarathonVolunteerTopHonoraryCeremonyCertification.jpg>|**「最高榮譽志工證書」**只有**連續三屆（2004年－2006年）都參與志願服務的志工**才能獲得。 [File:2006INGTaipeiMarathon_VolunteerTraining-24.jpg|前成功大學學生會長林紀甫（Jeff](File:2006INGTaipeiMarathon_VolunteerTraining-24.jpg%7C前成功大學學生會長林紀甫（Jeff) "the Barts" Lin）每年在志工統籌部分都會扮演重要的決策者。
 
 ### 破紀錄獎金
 
 往年的[台北國際馬拉松比賽](https://zh.wikipedia.org/wiki/台北國際馬拉松比賽 "wikilink")，都會有國際級的貴賓選手來[台參與比賽](https://zh.wikipedia.org/wiki/台灣 "wikilink")，而路跑協會與安泰人壽為了要激勵國際選手在比賽中有更傑出的表現，在第一次（2004年）的ING臺北國際馬拉松比賽中就設立了破紀錄獎金。
 
-當時的破紀錄條件，是參考[中華民國路跑協會歷屆](../Page/中華民國.md "wikilink")[台北國際馬拉松比賽](https://zh.wikipedia.org/wiki/台北國際馬拉松比賽 "wikilink")（不是「[國道馬拉松](../Page/台北國際國道馬拉松比賽.md "wikilink")」）的最佳成績（依照[性別有區分](https://zh.wikipedia.org/wiki/性別 "wikilink")），來設置記錄門檻，以激勵更多國際好手能夠來[台參與比賽](https://zh.wikipedia.org/wiki/台灣 "wikilink")。
+當時的破紀錄條件，是參考[中華民國](../Page/中華民國.md "wikilink")路跑協會歷屆[台北國際馬拉松比賽](https://zh.wikipedia.org/wiki/台北國際馬拉松比賽 "wikilink")（不是「[國道馬拉松](../Page/台北國際國道馬拉松比賽.md "wikilink")」）的最佳成績（依照[性別有區分](https://zh.wikipedia.org/wiki/性別 "wikilink")），來設置記錄門檻，以激勵更多國際好手能夠來[台參與比賽](https://zh.wikipedia.org/wiki/台灣 "wikilink")。
 
 ### 登上國際認證
 
-[File:2006INGTaipeiMarathon-014.jpg|工業技術研究院引進的晶片計時系統，必須跟專用的「冠軍晶片」配合使用，且須小心架設，以免成績錯誤導致選手抗議](File:2006INGTaipeiMarathon-014.jpg%7C工業技術研究院引進的晶片計時系統，必須跟專用的「冠軍晶片」配合使用，且須小心架設，以免成績錯誤導致選手抗議)。
-[File:2006INGTaipeiMarathon-046.jpg|這是菁英選手的起跑，在地面上有一段紅色地毯擺設的區塊，就是晶片感應區。由於考量到安全問題，除了參賽者、工作人員以外，閒雜人等是不能任意進入的](File:2006INGTaipeiMarathon-046.jpg%7C這是菁英選手的起跑，在地面上有一段紅色地毯擺設的區塊，就是晶片感應區。由於考量到安全問題，除了參賽者、工作人員以外，閒雜人等是不能任意進入的)。
-<File:2007INGTaipeiMarathon> ChampionChip
-TheSensoringChip.jpg|自2005年起至今採用的「冠軍晶片」，已成為台灣各大馬拉松比賽仿效的重要對象。
+[File:2006INGTaipeiMarathon-014.jpg|工業技術研究院引進的晶片計時系統，必須跟專用的「冠軍晶片」配合使用，且須小心架設，以免成績錯誤導致選手抗議](File:2006INGTaipeiMarathon-014.jpg%7C工業技術研究院引進的晶片計時系統，必須跟專用的「冠軍晶片」配合使用，且須小心架設，以免成績錯誤導致選手抗議)。 [File:2006INGTaipeiMarathon-046.jpg|這是菁英選手的起跑，在地面上有一段紅色地毯擺設的區塊，就是晶片感應區。由於考量到安全問題，除了參賽者、工作人員以外，閒雜人等是不能任意進入的](File:2006INGTaipeiMarathon-046.jpg%7C這是菁英選手的起跑，在地面上有一段紅色地毯擺設的區塊，就是晶片感應區。由於考量到安全問題，除了參賽者、工作人員以外，閒雜人等是不能任意進入的)。 <File:2007INGTaipeiMarathon> ChampionChip TheSensoringChip.jpg|自2005年起至今採用的「冠軍晶片」，已成為台灣各大馬拉松比賽仿效的重要對象。
 
-[台灣在國際](https://zh.wikipedia.org/wiki/台灣 "wikilink")[體育界的能見度算是中低的](https://zh.wikipedia.org/wiki/體育 "wikilink")，由於[IAAF國際裁判在首屆來台參觀時](https://zh.wikipedia.org/wiki/IAAF "wikilink")，看見競賽組成果感到滿意，在[國際田徑總會](https://zh.wikipedia.org/wiki/IAAF "wikilink")、路跑協會、ING安泰人壽、[中華民國田徑協會](../Page/中華民國.md "wikilink")、行政院體育委員會商討後，於2005年將該比賽納入國際認證的比賽。
+[台灣在國際](https://zh.wikipedia.org/wiki/台灣 "wikilink")[體育界的能見度算是中低的](https://zh.wikipedia.org/wiki/體育 "wikilink")，由於[IAAF國際裁判在首屆來台參觀時](https://zh.wikipedia.org/wiki/IAAF "wikilink")，看見競賽組成果感到滿意，在[國際田徑總會](https://zh.wikipedia.org/wiki/IAAF "wikilink")、路跑協會、ING安泰人壽、[中華民國](../Page/中華民國.md "wikilink")田徑協會、行政院體育委員會商討後，於2005年將該比賽納入國際認證的比賽。
 
 而自2005年起，所有參加競賽組的選手，不但要掛上專屬計時晶片，得獎的[馬拉松選手](https://zh.wikipedia.org/wiki/馬拉松 "wikilink")（路跑組以外），如果打破了大會的紀錄，都必須經過嚴格的禁藥檢驗，才可以決定屬於該名次的選手是否保有得獎資格，也象徵該項比賽走向公平化的路線。
 
@@ -140,7 +125,7 @@ ING安泰人壽與[台灣風潮唱片股份有限公司](https://zh.wikipedia.or
 #### 公益募款分配
 
   - [罕見疾病基金會獲得](https://zh.wikipedia.org/wiki/罕見疾病基金會 "wikilink")[新台幣](https://zh.wikipedia.org/wiki/新台幣 "wikilink")191637元（50%[公益捐款](https://zh.wikipedia.org/wiki/公益捐款 "wikilink")）
-  - [花蓮](../Page/花蓮縣.md "wikilink")[卓溪](https://zh.wikipedia.org/wiki/卓溪國小 "wikilink")、[立山國小](https://zh.wikipedia.org/wiki/立山國小 "wikilink")[原住民長跑隊聯手獲得新台幣](../Page/原住民.md "wikilink")114982元（30%公益捐款）
+  - [花蓮](../Page/花蓮縣.md "wikilink")[卓溪](https://zh.wikipedia.org/wiki/卓溪國小 "wikilink")、[立山國小](https://zh.wikipedia.org/wiki/立山國小 "wikilink")[原住民](../Page/原住民.md "wikilink")長跑隊聯手獲得新台幣114982元（30%公益捐款）
   - [社團法人中華視障路跑運動協會獲得新台幣](https://zh.wikipedia.org/wiki/社團法人中華視障路跑運動協會 "wikilink")76655元（20%公益捐款）
 
 ### 第九屆（2005年12月18日）
@@ -153,17 +138,15 @@ ING安泰人壽與[台灣風潮唱片股份有限公司](https://zh.wikipedia.or
 
 #### 台灣第三個「百馬」選手─陳前
 
-[2006INGTaipeiMarathon-173.jpg](https://zh.wikipedia.org/wiki/File:2006INGTaipeiMarathon-173.jpg "fig:2006INGTaipeiMarathon-173.jpg")
-大腳丫長跑俱樂部的選手陳前，在2006年的ING臺北國際馬拉松比賽中也達成這項創舉。他是繼[現代三陽第七屆](https://zh.wikipedia.org/wiki/现代汽车股份有限公司 "wikilink")[台北國際馬拉松比賽](https://zh.wikipedia.org/wiki/台北國際馬拉松比賽 "wikilink")（2003年12月21日）的黃政德\[14\]、2006年第一屆風城盃[馬拉松比賽](https://zh.wikipedia.org/wiki/馬拉松 "wikilink")（2006年11月19日）的羅苔華（黃政德的妻子，第一位達成「百[馬](https://zh.wikipedia.org/wiki/馬拉松 "wikilink")」創舉的女子[馬拉松選手](https://zh.wikipedia.org/wiki/馬拉松 "wikilink")）\[15\]之後，台灣第三位達成「百馬」創舉的馬拉松選手，也是台灣第二位男子馬拉松選手達成這個紀錄。
+[2006INGTaipeiMarathon-173.jpg](https://zh.wikipedia.org/wiki/File:2006INGTaipeiMarathon-173.jpg "fig:2006INGTaipeiMarathon-173.jpg") 大腳丫長跑俱樂部的選手陳前，在2006年的ING臺北國際馬拉松比賽中也達成這項創舉。他是繼[現代三陽第七屆](https://zh.wikipedia.org/wiki/现代汽车股份有限公司 "wikilink")[台北國際馬拉松比賽](https://zh.wikipedia.org/wiki/台北國際馬拉松比賽 "wikilink")（2003年12月21日）的黃政德\[14\]、2006年第一屆風城盃[馬拉松比賽](https://zh.wikipedia.org/wiki/馬拉松 "wikilink")（2006年11月19日）的羅苔華（黃政德的妻子，第一位達成「百[馬](https://zh.wikipedia.org/wiki/馬拉松 "wikilink")」創舉的女子[馬拉松選手](https://zh.wikipedia.org/wiki/馬拉松 "wikilink")）\[15\]之後，台灣第三位達成「百馬」創舉的馬拉松選手，也是台灣第二位男子馬拉松選手達成這個紀錄。
 
-而他除了達成此項「百馬」紀錄，也因為捐血260次以上，以及曾經登上過台灣海拔超過3000公尺的高山達到百座以上，因而被[聯合晚報稱之](../Page/聯合晚報.md "wikilink")「三百」奇蹟。\[16\]
+而他除了達成此項「百馬」紀錄，也因為捐血260次以上，以及曾經登上過台灣海拔超過3000公尺的高山達到百座以上，因而被[聯合晚報](../Page/聯合晚報.md "wikilink")稱之「三百」奇蹟。\[16\]
 
 ## 難以被資深跑者認同的原因
 
 ### 台灣的行車文化影響比賽品質
 
-[2006INGTaipeiMarathon_TrafficControlRibbon.jpg](https://zh.wikipedia.org/wiki/File:2006INGTaipeiMarathon_TrafficControlRibbon.jpg "fig:2006INGTaipeiMarathon_TrafficControlRibbon.jpg")
-在首屆舉辦時，有眾多汽機車駕駛因為不滿交通管制，對競賽組的參賽者鳴按喇叭，甚至部分車輛因為不滿管制，直接衝入比賽選手群來妨礙比賽\[17\]，引起部分圍觀的外國人士與參賽者不滿，甚至還有外國人當場說了一句「Why?」\[18\]，形象確實丟到國際舞台，當時還登上[中國時報](../Page/中國時報.md "wikilink")[台灣年度十大](https://zh.wikipedia.org/wiki/台灣 "wikilink")[運動事件之一](https://zh.wikipedia.org/wiki/運動 "wikilink")（[中國時報記載為第五大事件](../Page/中國時報.md "wikilink")）\[19\]。
+[2006INGTaipeiMarathon_TrafficControlRibbon.jpg](https://zh.wikipedia.org/wiki/File:2006INGTaipeiMarathon_TrafficControlRibbon.jpg "fig:2006INGTaipeiMarathon_TrafficControlRibbon.jpg") 在首屆舉辦時，有眾多汽機車駕駛因為不滿交通管制，對競賽組的參賽者鳴按喇叭，甚至部分車輛因為不滿管制，直接衝入比賽選手群來妨礙比賽\[17\]，引起部分圍觀的外國人士與參賽者不滿，甚至還有外國人當場說了一句「Why?」\[18\]，形象確實丟到國際舞台，當時還登上[中國時報](../Page/中國時報.md "wikilink")[台灣年度十大](https://zh.wikipedia.org/wiki/台灣 "wikilink")[運動事件之一](https://zh.wikipedia.org/wiki/運動 "wikilink")（[中國時報](../Page/中國時報.md "wikilink")記載為第五大事件）\[19\]。
 
 因此，為了避免此事件導致形象嚴重受損，路跑協會與ING安泰人壽在幾經檢討後，決議於2005年拍攝「請『車』主放我們一『馬』」的廣告，提醒用路人注意交通管制。\[20\]
 
@@ -171,18 +154,17 @@ ING安泰人壽與[台灣風潮唱片股份有限公司](https://zh.wikipedia.or
 
 由於台灣的交通文化受到外國與台灣資深參賽者的不滿，[台北國際馬拉松比賽多次都是](https://zh.wikipedia.org/wiki/台北國際馬拉松比賽 "wikilink")「人車爭道」、車主「我行我素」的惡質態度，\[21\]以及台灣大多民眾對於舉辦馬拉松比賽的交通管制極度不配合，加上政府機關對於國際大型馬拉松比賽並未深度重視的情況下，ING安泰人壽荷蘭總公司日前曾一度宣佈，2007年停止贊助[台北國際馬拉松比賽](https://zh.wikipedia.org/wiki/台北國際馬拉松比賽 "wikilink")。\[22\]
 
-但是在[中華民國路跑協會](../Page/中華民國.md "wikilink")、[行政院體育委員會](../Page/行政院.md "wikilink")、[台北市政府](https://zh.wikipedia.org/wiki/台北市政府 "wikilink")、[台北市體育處](https://zh.wikipedia.org/wiki/台北市 "wikilink")、ING安泰人壽於12月15日的大型會議中，由於承辦的路跑協會與[台北市政府皆承諾會達成道路秩序維持的良好共識](https://zh.wikipedia.org/wiki/台北市政府 "wikilink")，因此，ING安泰人壽決議再行恢復贊助至2009年。\[23\]
+但是在[中華民國](../Page/中華民國.md "wikilink")路跑協會、[行政院](../Page/行政院.md "wikilink")體育委員會、[台北市政府](https://zh.wikipedia.org/wiki/台北市政府 "wikilink")、[台北市體育處](https://zh.wikipedia.org/wiki/台北市 "wikilink")、ING安泰人壽於12月15日的大型會議中，由於承辦的路跑協會與[台北市政府皆承諾會達成道路秩序維持的良好共識](https://zh.wikipedia.org/wiki/台北市政府 "wikilink")，因此，ING安泰人壽決議再行恢復贊助至2009年。\[23\]
 
 ### 真正投入競賽的選手不成比例
 
-[民生報曾經有一統計指出](../Page/民生報.md "wikilink")，台灣的「ING臺北國際馬拉松比賽」創下了參加人數最多的紀錄，但根據資深跑者如[林木森](https://zh.wikipedia.org/wiki/林木森 "wikilink")、[張財銘](https://zh.wikipedia.org/wiki/張財銘 "wikilink")、[陳永星](https://zh.wikipedia.org/wiki/陳永星 "wikilink")…等-{表示}-，真正參與比賽的，其實只不過是總數的一成罷了，而報紙上寫的人數，除了[台北以外](https://zh.wikipedia.org/wiki/台北 "wikilink")，其他那些國家有寫上萬的，都是真正有在跑馬拉松的參賽人數，由此可見台灣的長跑風氣有待提升。\[24\]
+[民生報](../Page/民生報.md "wikilink")曾經有一統計指出，台灣的「ING臺北國際馬拉松比賽」創下了參加人數最多的紀錄，但根據資深跑者如[林木森](https://zh.wikipedia.org/wiki/林木森 "wikilink")、[張財銘](https://zh.wikipedia.org/wiki/張財銘 "wikilink")、[陳永星](https://zh.wikipedia.org/wiki/陳永星 "wikilink")…等-{表示}-，真正參與比賽的，其實只不過是總數的一成罷了，而報紙上寫的人數，除了[台北以外](https://zh.wikipedia.org/wiki/台北 "wikilink")，其他那些國家有寫上萬的，都是真正有在跑馬拉松的參賽人數，由此可見台灣的長跑風氣有待提升。\[24\]
 
 ## 需要改進的地方
 
 ### 行車文化的改善
 
-眾多資深跑者與參觀比賽的民眾都認為，ING臺北國際馬拉松比賽要成功，必須先要從行車文化改進，一個國家的行車文化，可能會影響到國際形象，行車族應當以鼓勵替代喇叭聲，激勵參加比賽的所有選手，讓他們能安心與紮實地完成整個比賽。\[25\]
-[2006INGTaipeiMarathon-095.jpg](https://zh.wikipedia.org/wiki/File:2006INGTaipeiMarathon-095.jpg "fig:2006INGTaipeiMarathon-095.jpg")
+眾多資深跑者與參觀比賽的民眾都認為，ING臺北國際馬拉松比賽要成功，必須先要從行車文化改進，一個國家的行車文化，可能會影響到國際形象，行車族應當以鼓勵替代喇叭聲，激勵參加比賽的所有選手，讓他們能安心與紮實地完成整個比賽。\[25\] [2006INGTaipeiMarathon-095.jpg](https://zh.wikipedia.org/wiki/File:2006INGTaipeiMarathon-095.jpg "fig:2006INGTaipeiMarathon-095.jpg")
 
 ### 選手出發時的秩序
 
@@ -220,8 +202,7 @@ ING安泰人壽與[台灣風潮唱片股份有限公司](https://zh.wikipedia.or
       - [2007年](http://www.ingtaipeiinternationalmarathon.com/2007/)
       - [2008年](http://www.ingtaipeiinternationalmarathon.com/2008/chinese/2008_ING_homepage.htm)
 
-[Category:台北市體育](https://zh.wikipedia.org/wiki/Category:台北市體育 "wikilink")
-[Category:台灣馬拉松](https://zh.wikipedia.org/wiki/Category:台灣馬拉松 "wikilink")
+[Category:台北市體育](https://zh.wikipedia.org/wiki/Category:台北市體育 "wikilink") [Category:台灣馬拉松](https://zh.wikipedia.org/wiki/Category:台灣馬拉松 "wikilink")
 
 1.
 2.
@@ -248,5 +229,5 @@ ING安泰人壽與[台灣風潮唱片股份有限公司](https://zh.wikipedia.or
 23.
 24.
 25.
-26. 依照[中華民國路跑協會規定](../Page/中華民國.md "wikilink")，選手必須依照裁判指示完成比賽，否則不予計算成績，如有犯規之情況，將被禁賽兩年。
+26. 依照[中華民國](../Page/中華民國.md "wikilink")路跑協會規定，選手必須依照裁判指示完成比賽，否則不予計算成績，如有犯規之情況，將被禁賽兩年。
 27. 2006年12月2日，志工誓師大會現場，[成大學生會長林紀甫主持誓師大會時](https://zh.wikipedia.org/wiki/成功大學 "wikilink")，向現場志工告知的訊息。

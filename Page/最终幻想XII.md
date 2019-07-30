@@ -1,27 +1,20 @@
-是[史克威尔艾尼克斯为](../Page/史克威尔艾尼克斯.md "wikilink")[PlayStation
-2开发并发行的](../Page/PlayStation_2.md "wikilink")[电子角色扮演游戏](https://zh.wikipedia.org/wiki/电子角色扮演游戏 "wikilink")。本作是[最终幻想系列第](https://zh.wikipedia.org/wiki/最终幻想系列 "wikilink")12部正传，于2006年发行。游戏就系列而言有多项开创设计，包括无缝战斗系统、可控镜头、由玩家设定角色自动行动规则的“策略”系统，以及决定角色可用能力和装备的“执照”系统。《最终幻想XII》亦沿用[召唤兽](../Page/最終幻想系列中的召喚獸.md "wikilink")、[陆行鸟和](../Page/陆行鸟.md "wikilink")[莫古利等系列常驻元素](https://zh.wikipedia.org/wiki/莫古利 "wikilink")。
+是[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")为[PlayStation 2开发并发行的](../Page/PlayStation_2.md "wikilink")[电子角色扮演游戏](https://zh.wikipedia.org/wiki/电子角色扮演游戏 "wikilink")。本作是[最终幻想系列第](https://zh.wikipedia.org/wiki/最终幻想系列 "wikilink")12部正传，于2006年发行。游戏就系列而言有多项开创设计，包括无缝战斗系统、可控镜头、由玩家设定角色自动行动规则的“策略”系统，以及决定角色可用能力和装备的“执照”系统。《最终幻想XII》亦沿用[召唤兽](../Page/最終幻想系列中的召喚獸.md "wikilink")、[陆行鸟](../Page/陆行鸟.md "wikilink")和[莫古利等系列常驻元素](https://zh.wikipedia.org/wiki/莫古利 "wikilink")。
 
 游戏设定于[虚构世界](https://zh.wikipedia.org/wiki/虚构世界 "wikilink")[伊瓦莉斯](https://zh.wikipedia.org/wiki/伊瓦莉斯 "wikilink")，帝国阿尔卡迪亚和罗扎利亚常年处于战争。在地处两国间的小国达尔玛斯卡被阿尔卡迪亚吞并后，王国公主艾雪展开了抵抗活动。艾雪在抵抗活动中，结识了梦想成为飞空艇头领的年轻冒险者[梵](https://zh.wikipedia.org/wiki/梵_\(最终幻想\) "wikilink")。很快又有数名同伴加入队伍，共同反抗阿尔卡迪亚帝国的暴行。
 
-《最终幻想XII》的PS2版本全球累計銷量為606萬套\[1\]\[2\]。后传《[最终幻想XII
-归来之翼](../Page/最终幻想XII_归来之翼.md "wikilink")》于2007年在[任天堂DS平台推出](../Page/任天堂DS.md "wikilink")。而本作的高清复刻版《最终幻想XII：黄道年代》于2017年7月在PlayStation
-4平台发售，并有支持繁体和简体的中文版\[3\]\[4\]\[5\]；又于2018年2月2日通过[Steam发售了Windows版本](../Page/Steam.md "wikilink")；其后于2019年4月在[任天堂Switch和](../Page/任天堂Switch.md "wikilink")[Xbox
-One平台发售](../Page/Xbox_One.md "wikilink")。
+《最终幻想XII》的PS2版本全球累計銷量為606萬套\[1\]\[2\]。后传《[最终幻想XII 归来之翼](../Page/最终幻想XII_归来之翼.md "wikilink")》于2007年在[任天堂DS](../Page/任天堂DS.md "wikilink")平台推出。而本作的高清复刻版《最终幻想XII：黄道年代》于2017年7月在PlayStation 4平台发售，并有支持繁体和简体的中文版\[3\]\[4\]\[5\]；又于2018年2月2日通过[Steam](../Page/Steam.md "wikilink")发售了Windows版本；其后于2019年4月在[任天堂Switch](../Page/任天堂Switch.md "wikilink")和[Xbox One平台发售](../Page/Xbox_One.md "wikilink")。
 
 ## 玩法
 
-玩家以第三人称视角，直接控制屏幕中的角色与人物、对象和敌人互动。和前作不同，玩家还能用右类比摇杆，360°旋转镜头查看周围环境\[6\]。玩家在城镇时只能采用梵的视角，不过也有可能控制场景中任意角色。和早期最终幻想游戏中，以图标代表角色在微缩地图上移动不同，《最终幻想XII》的世界与角色呈真实比例。玩家可以步行、骑[陆行鸟或乘飞空艇在](../Page/陆行鸟.md "wikilink")[世界地图上移动](https://zh.wikipedia.org/wiki/Overworld "wikilink")\[7\]。玩家可在记忆水晶或传送水晶处，将游戏[保存到](https://zh.wikipedia.org/wiki/游戏存档 "wikilink")[记忆卡中](https://zh.wikipedia.org/wiki/记忆卡 "wikilink")\[8\]。游戏[怪兽图鉴收录有](https://zh.wikipedia.org/wiki/怪兽图鉴 "wikilink")《最终幻想XII》世界的小知识\[9\]。
+玩家以第三人称视角，直接控制屏幕中的角色与人物、对象和敌人互动。和前作不同，玩家还能用右类比摇杆，360°旋转镜头查看周围环境\[6\]。玩家在城镇时只能采用梵的视角，不过也有可能控制场景中任意角色。和早期最终幻想游戏中，以图标代表角色在微缩地图上移动不同，《最终幻想XII》的世界与角色呈真实比例。玩家可以步行、骑[陆行鸟](../Page/陆行鸟.md "wikilink")或乘飞空艇在[世界地图上移动](https://zh.wikipedia.org/wiki/Overworld "wikilink")\[7\]。玩家可在记忆水晶或传送水晶处，将游戏[保存到](https://zh.wikipedia.org/wiki/游戏存档 "wikilink")[记忆卡中](https://zh.wikipedia.org/wiki/记忆卡 "wikilink")\[8\]。游戏[怪兽图鉴收录有](https://zh.wikipedia.org/wiki/怪兽图鉴 "wikilink")《最终幻想XII》世界的小知识\[9\]。
 
 《最终幻想XII》改革了前作吉尔——最终幻想游戏的货币——的赚取系统；大多数怪物会掉下战利品而非吉尔，玩家再将战利品卖到商店\[10\]。这关系到新的战斗机制：玩家连续杀死特定类型敌人就会获得奖励\[11\]。玩家将若不同类型的战利品卖出，就可能解锁商店的义卖选项，之后即能卖到低价或义卖专有道具\[12\]。
 
 ### 战斗
 
-《最终幻想XII》延续了《最终幻想XI》的非[随机遇敌系统](https://zh.wikipedia.org/wiki/随机遇敌 "wikilink")\[13\]——有别于早期使用专门战斗画面的游戏，本作战斗直接在场景地图展开。游戏敌人会直接在世界地图上显示，玩家可决定交战或躲开。战斗使用强化的实时战斗系统——“即时多维战斗”（ADB）系统。当玩家团队进入敌人攻击范围、玩家主动攻击敌人，或是剧情触发战斗时，交战即为开始\[14\]。当角色或敌人发动行动时，角色和目标对象间就出现一条目标线；线的颜色对应特定的行动类型\[15\]。玩家可以任意替换三名参战角色，或是对其下达下令；不过临时角色由只能由游戏[人工智能控制](../Page/人工智能.md "wikilink")\[16\]。战斗命令包括攻击、魔法与技术、迷雾、策略与道具等，由玩家通过一系列菜单发动。只要场上角色不是攻击或能力发动对象，就能随时由场下角色替换。玩家可将倒下的角色换下。
+《最终幻想XII》延续了《最终幻想XI》的非[随机遇敌系统](https://zh.wikipedia.org/wiki/随机遇敌 "wikilink")\[13\]——有别于早期使用专门战斗画面的游戏，本作战斗直接在场景地图展开。游戏敌人会直接在世界地图上显示，玩家可决定交战或躲开。战斗使用强化的实时战斗系统——“即时多维战斗”（ADB）系统。当玩家团队进入敌人攻击范围、玩家主动攻击敌人，或是剧情触发战斗时，交战即为开始\[14\]。当角色或敌人发动行动时，角色和目标对象间就出现一条目标线；线的颜色对应特定的行动类型\[15\]。玩家可以任意替换三名参战角色，或是对其下达下令；不过临时角色由只能由游戏[人工智能](../Page/人工智能.md "wikilink")控制\[16\]。战斗命令包括攻击、魔法与技术、迷雾、策略与道具等，由玩家通过一系列菜单发动。只要场上角色不是攻击或能力发动对象，就能随时由场下角色替换。玩家可将倒下的角色换下。
 
-《最终幻想XII》引入了新的“策略”（Gambits）系统——玩家能为每名角色设定程序，角色会在战斗中满足特定条件时，执行所设定的命令\[17\]。玩家可通过策略，为角色单独设定特定条件下的反应。每条策略包括目标、操作、优先级三部分。目标用于指定作用对象——伙伴或敌人——与触发条件。比如“伙伴：HP
-\<
-70%”表示对象为任何[生命值](../Page/生命值.md "wikilink")（HP）低于70%的玩家队员。操作即对目标对象所执行的指令。优先度决定在同时满足多条策略时所执行的那条。角色在自主行动时有启发式向导，但玩家指示绝对优先\[18\]。
-《最终幻想XII》中有称作“雾”的神秘现象，雾是角色召唤[幻兽与发动](https://zh.wikipedia.org/wiki/最终幻想系列的召唤兽 "wikilink")“必杀技”（Quickenings）的关键能源。玩家在战斗中击败幻兽后，就可以在战场中将之召唤\[19\]。《最终幻想XII》的召唤类似于《[最终幻想X](../Page/最终幻想X.md "wikilink")》，幻兽也是参战者，而非早期作品那样，召唤相当于发动华丽效果的攻击。不过《最终幻想XII》的幻兽不能像《最终幻想X》那样直接控制，他们会依照隐藏的策略行动\[20\]。同时召唤者不会因幻兽在场而离队或休息，而是继续在场上作战，如攻击或发动魔法\[21\]。幻兽在被击倒、时间到期、或发动特定攻击后就会退场\[22\]。游戏召唤兽部分源自《[最终幻想战略版](../Page/最终幻想战略版.md "wikilink")》和《[最终幻想战略版Advance](../Page/最终幻想战略版Advance.md "wikilink")》，还有部分衍生自之前最终幻想游戏的最终头目，如初代《[最终幻想](../Page/最终幻想_\(游戏\).md "wikilink")》的[卡奥斯和](https://zh.wikipedia.org/wiki/最终幻想系列的角色设计#卡奥斯 "wikilink")《[最终幻想IV](https://zh.wikipedia.org/wiki/最终幻想IV "wikilink")》的热塞姆斯。
+《最终幻想XII》引入了新的“策略”（Gambits）系统——玩家能为每名角色设定程序，角色会在战斗中满足特定条件时，执行所设定的命令\[17\]。玩家可通过策略，为角色单独设定特定条件下的反应。每条策略包括目标、操作、优先级三部分。目标用于指定作用对象——伙伴或敌人——与触发条件。比如“伙伴：HP \< 70%”表示对象为任何[生命值](../Page/生命值.md "wikilink")（HP）低于70%的玩家队员。操作即对目标对象所执行的指令。优先度决定在同时满足多条策略时所执行的那条。角色在自主行动时有启发式向导，但玩家指示绝对优先\[18\]。 《最终幻想XII》中有称作“雾”的神秘现象，雾是角色召唤[幻兽与发动](https://zh.wikipedia.org/wiki/最终幻想系列的召唤兽 "wikilink")“必杀技”（Quickenings）的关键能源。玩家在战斗中击败幻兽后，就可以在战场中将之召唤\[19\]。《最终幻想XII》的召唤类似于《[最终幻想X](../Page/最终幻想X.md "wikilink")》，幻兽也是参战者，而非早期作品那样，召唤相当于发动华丽效果的攻击。不过《最终幻想XII》的幻兽不能像《最终幻想X》那样直接控制，他们会依照隐藏的策略行动\[20\]。同时召唤者不会因幻兽在场而离队或休息，而是继续在场上作战，如攻击或发动魔法\[21\]。幻兽在被击倒、时间到期、或发动特定攻击后就会退场\[22\]。游戏召唤兽部分源自《[最终幻想战略版](../Page/最终幻想战略版.md "wikilink")》和《[最终幻想战略版Advance](../Page/最终幻想战略版Advance.md "wikilink")》，还有部分衍生自之前最终幻想游戏的最终头目，如初代《[最终幻想](../Page/最终幻想_\(游戏\).md "wikilink")》的[卡奥斯和](https://zh.wikipedia.org/wiki/最终幻想系列的角色设计#卡奥斯 "wikilink")《[最终幻想IV](https://zh.wikipedia.org/wiki/最终幻想IV "wikilink")》的热塞姆斯。
 
 《最终幻想XII》加入了新[极限技能系统](https://zh.wikipedia.org/wiki/极限技能 "wikilink")“必杀技”，该系统较之于前作非常独特\[23\]。角色通过走执照板的特定格子学习必杀技\[24\]。每名角色可以学习三个不同于其他角色的必杀技\[25\]。角色通过适时按键，可发动必杀技联携，输出大连击伤害\[26\]。
 
@@ -47,7 +40,7 @@ One平台发售](../Page/Xbox_One.md "wikilink")。
 
 《最终幻想XII》从达尔玛斯卡王都拉巴纳斯塔，达尔玛斯卡公主艾雪和纳布拉迪亚王子拉斯拉的婚礼仪式开始，但这幸福的生活很快被打破。原來在达尔玛斯卡王国南北有各两大帝国（阿尔卡迪亚和罗扎利亚）的对峙，同样被夹在中间的还有一个纳布迪斯王国，它因为畏惧阿尔卡迪亚而与罗扎利亚签订了驻军协议，又希望通过与达尔马斯卡联姻的形式，巩固联盟势力。終於这一切触动了阿尔卡迪亚帝国的利益，在阿尔卡迪亚入侵纳布拉迪亚的战斗中，拉斯拉中箭身亡。随后阿尔卡迪亚攻下达尔玛斯卡，国王在签定投降条约的仪式上被杀。巴修手下一名叫雷克斯的骑士聲称，他目睹了巴修杀死国王，但之后因為巴修襲擊的重傷而不治身亡。而後，翁德尔侯爵对外宣称，巴修遭到處決，公主艾雪自杀\[44\]。
 
-游戏跳转到两年后的拉巴纳斯塔，雷克斯的弟弟梵不顾好友潘妮罗的劝阻，乘庆祝[执政官维因](../Page/执政官.md "wikilink")·索利德上任时潜入拉巴纳斯塔王宫。梵在拿得王室宝物魔石后，遇到了空贼巴尔弗雷亚和芙兰。三人离开时被卷入达尔玛斯卡反抗军与帝国军的冲突，并在下水道遇到反抗军头领阿玛利亚。之后三人被阿尔卡迪亚军抓捕，关入纳尔比那地牢。在这里，三人遇到未死亡而是入狱的巴修，四人一起逃走；巴修称他有一名双胞胎弟弟伽布拉斯，他是当年签订条约时行刺者。梵起初表示怀疑，但最终相信了他\[45\]。接着一行得知，赏金猎人邦加莫南为抓捕巴尔弗雷亚绑架了潘妮罗，在巴尔弗雷亚和弗兰的帮助下，一行来邦加莫南的所在地，空中都市布耶尔巴。在营救行动中，一行遇到了自称拉蒙，但实为维因弟弟的好学男孩拉萨\[46\]。巴修会见了侯爵，接着侯爵将一行抓捕，送交裁判基斯指挥的阿尔卡迪亚飞空艇利维坦。
+游戏跳转到两年后的拉巴纳斯塔，雷克斯的弟弟梵不顾好友潘妮罗的劝阻，乘庆祝[执政官](../Page/执政官.md "wikilink")维因·索利德上任时潜入拉巴纳斯塔王宫。梵在拿得王室宝物魔石后，遇到了空贼巴尔弗雷亚和芙兰。三人离开时被卷入达尔玛斯卡反抗军与帝国军的冲突，并在下水道遇到反抗军头领阿玛利亚。之后三人被阿尔卡迪亚军抓捕，关入纳尔比那地牢。在这里，三人遇到未死亡而是入狱的巴修，四人一起逃走；巴修称他有一名双胞胎弟弟伽布拉斯，他是当年签订条约时行刺者。梵起初表示怀疑，但最终相信了他\[45\]。接着一行得知，赏金猎人邦加莫南为抓捕巴尔弗雷亚绑架了潘妮罗，在巴尔弗雷亚和弗兰的帮助下，一行来邦加莫南的所在地，空中都市布耶尔巴。在营救行动中，一行遇到了自称拉蒙，但实为维因弟弟的好学男孩拉萨\[46\]。巴修会见了侯爵，接着侯爵将一行抓捕，送交裁判基斯指挥的阿尔卡迪亚飞空艇利维坦。
 
 一行在利维坦戰艦上再次遇到阿玛利亚，經帝國揭曉後，她表示自己是公主艾雪\[47\]。基斯夺走梵所拿的王室魔石神器并送回阿尔卡迪亚。一行在击败基斯后逃离飞空艇返回布耶尔巴；然而没有王室神器的艾雪无法证明她的王室血统，翁德尔让她先隐匿在布耶尔巴\[48\]。但是艾雪溜走，去收集霸王莱斯沃尔的宝物证明血统\[49\]。一行从莱斯沃尔王墓拿到了“神授的破魔石”晓之碎片，但被守在这里的基斯抓获。但帝國手下測試魔石發生意外，導致这块小魔石毁灭了利维坦、基斯，以及他的舰队，艾雪一行勉强逃生。各國政治開始互相角力，帝国元老院逼迫皇帝以此為藉口拉維因下台，立拉萨为太子。此時逃亡成功的艾雪一行人再次遇到想让达尔玛斯卡和帝国签订和平条约的拉萨；艾雪起初表示反对，但拉萨说服她此举可以保护达尔玛斯卡。之后他们前往神都布尔-奥米赛斯，请大僧正阿纳斯塔西斯授予她达尔玛斯卡女王\[50\]。
 
@@ -63,95 +56,69 @@ One平台发售](../Page/Xbox_One.md "wikilink")。
 
 ## 开发
 
-[Akitoshi_Kawazu_and_Hiroshi_Minagawa.jpg](https://zh.wikipedia.org/wiki/File:Akitoshi_Kawazu_and_Hiroshi_Minagawa.jpg "fig:Akitoshi_Kawazu_and_Hiroshi_Minagawa.jpg")（左）和[皆川裕史](../Page/皆川裕史.md "wikilink")（右），摄于2007年《最终幻想XII》伦敦HMV开幕会\]\]
-[E3_FFXII.jpg](https://zh.wikipedia.org/wiki/File:E3_FFXII.jpg "fig:E3_FFXII.jpg")的宣传\]\]
+[Akitoshi_Kawazu_and_Hiroshi_Minagawa.jpg](https://zh.wikipedia.org/wiki/File:Akitoshi_Kawazu_and_Hiroshi_Minagawa.jpg "fig:Akitoshi_Kawazu_and_Hiroshi_Minagawa.jpg")（左）和[皆川裕史](../Page/皆川裕史.md "wikilink")（右），摄于2007年《最终幻想XII》伦敦HMV开幕会\]\] [E3_FFXII.jpg](https://zh.wikipedia.org/wiki/File:E3_FFXII.jpg "fig:E3_FFXII.jpg")的宣传\]\]
 
-《最终幻想XII》从2000年12月开始开发，当时由《[最终幻想战略版](../Page/最终幻想战略版.md "wikilink")》总监[松野泰己和](../Page/松野泰己.md "wikilink")《[最终幻想IX](../Page/最终幻想IX.md "wikilink")》总监[伊藤裕之领衔开发](../Page/伊藤裕之.md "wikilink")\[69\]\[70\]\[71\]。松野起先创作原始概念和情节，但开发中途因健康原因辞职\[72\]。开发团队随之调整：伊藤和[皆川裕史二人共同担当新总监](../Page/皆川裕史.md "wikilink")，而[沙加系列制作人](../Page/沙加系列.md "wikilink")[河津秋敏担任执行制作人](../Page/河津秋敏.md "wikilink")\[73\]\[74\]。系列生父[坂口博信对松野的离去表示失望](../Page/坂口博信.md "wikilink")，并称拒玩游戏序章之外的部分\[75\]。
+《最终幻想XII》从2000年12月开始开发，当时由《[最终幻想战略版](../Page/最终幻想战略版.md "wikilink")》总监[松野泰己](../Page/松野泰己.md "wikilink")和《[最终幻想IX](../Page/最终幻想IX.md "wikilink")》总监[伊藤裕之](../Page/伊藤裕之.md "wikilink")领衔开发\[69\]\[70\]\[71\]。松野起先创作原始概念和情节，但开发中途因健康原因辞职\[72\]。开发团队随之调整：伊藤和[皆川裕史](../Page/皆川裕史.md "wikilink")二人共同担当新总监，而[沙加系列](../Page/沙加系列.md "wikilink")制作人[河津秋敏](../Page/河津秋敏.md "wikilink")担任执行制作人\[73\]\[74\]。系列生父[坂口博信](../Page/坂口博信.md "wikilink")对松野的离去表示失望，并称拒玩游戏序章之外的部分\[75\]。
 
-游戏开发伊始就提出了放弃[随机遇敌的想法](https://zh.wikipedia.org/wiki/随机遇敌 "wikilink")\[76\]。这一想法刺激了即时多维战斗系统的开发，即玩家可在战斗和探索场景无缝切换。为推动该变革，策略系统亦在很快诞生\[77\]。战斗系统设计时友松宽称，其逐渐从复杂严格的公式，改向最终版游戏弹性化\[78\]。伊藤策略系统的灵感源自[美式足球的进攻赛](../Page/美式足球.md "wikilink")——各队员根据形势和期望结果，执行特定的工作。
+游戏开发伊始就提出了放弃[随机遇敌的想法](https://zh.wikipedia.org/wiki/随机遇敌 "wikilink")\[76\]。这一想法刺激了即时多维战斗系统的开发，即玩家可在战斗和探索场景无缝切换。为推动该变革，策略系统亦在很快诞生\[77\]。战斗系统设计时友松宽称，其逐渐从复杂严格的公式，改向最终版游戏弹性化\[78\]。伊藤策略系统的灵感源自[美式足球](../Page/美式足球.md "wikilink")的进攻赛——各队员根据形势和期望结果，执行特定的工作。
 
 皆川在开发早期阶段表示有许多计划的构思和功能，但因某些约束和硬件限制而最终放弃，之中包括双玩家模式。团队还花费过相当的时间，设计征召非玩家角色团体狩猎的功能，但因游戏机技术限制及多角色结合的冲突，以至耗费超出预期的时间从而延期\[79\]。至于需要“执照”特定活动的系统，他表示这是阿尔卡迪亚裁判体制刚性结构的自然延展\[80\]。
 
-游戏设计灵感源自中世纪[地中海国家的不同](../Page/地中海.md "wikilink")，并通过伊瓦莉斯建筑风格和多样的种族来体现\[81\]。艺术团队参观土耳其学习地中海设定风格\[82\]；此外团队还从[印度和](../Page/印度.md "wikilink")[纽约等地借鉴风格和装饰艺术](../Page/纽约.md "wikilink")\[83\]\[84\]。空中都市布耶尔巴会使用[梵文词语](https://zh.wikipedia.org/wiki/梵文 "wikilink")，比如“svagatam”（欢迎）和“parijanah”（导游）就是直接借用梵文。共同艺术总监皆叶英夫与共同艺术总监[上国料勇称团队试图将](../Page/上国料勇.md "wikilink")[阿拉伯文化融入游戏设计](https://zh.wikipedia.org/wiki/阿拉伯文化 "wikilink")\[85\]。游戏的突出主题是战争，开发者确认战斗过场动画借鉴了[古罗马](../Page/古罗马.md "wikilink")\[86\]。对于游戏受到《[星球大战](https://zh.wikipedia.org/wiki/星球大战 "wikilink")》影响的爱好者观点，皆叶回应称，虽然自己也爱好该作品，但游戏设计不见得受之影响\[87\]。
+游戏设计灵感源自中世纪[地中海](../Page/地中海.md "wikilink")国家的不同，并通过伊瓦莉斯建筑风格和多样的种族来体现\[81\]。艺术团队参观土耳其学习地中海设定风格\[82\]；此外团队还从[印度](../Page/印度.md "wikilink")和[纽约](../Page/纽约.md "wikilink")等地借鉴风格和装饰艺术\[83\]\[84\]。空中都市布耶尔巴会使用[梵文词语](https://zh.wikipedia.org/wiki/梵文 "wikilink")，比如“svagatam”（欢迎）和“parijanah”（导游）就是直接借用梵文。共同艺术总监皆叶英夫与共同艺术总监[上国料勇](../Page/上国料勇.md "wikilink")称团队试图将[阿拉伯文化融入游戏设计](https://zh.wikipedia.org/wiki/阿拉伯文化 "wikilink")\[85\]。游戏的突出主题是战争，开发者确认战斗过场动画借鉴了[古罗马](../Page/古罗马.md "wikilink")\[86\]。对于游戏受到《[星球大战](https://zh.wikipedia.org/wiki/星球大战 "wikilink")》影响的爱好者观点，皆叶回应称，虽然自己也爱好该作品，但游戏设计不见得受之影响\[87\]。
 
-开发初期设定的故事主角是巴修，但在梵和潘妮罗创建后，主角最终转移到他们身上\[88\]。开发团队称，这是因为之前《[放浪冒险谭](../Page/放浪冒险谭.md "wikilink")》“正当年的健壮男”主角并不成功也不叫好；在考虑目标对象后，他们决定将主角从“强大、坚韧”型改成年轻型。电视剧演员[武田航平担任梵配音演员和动作演员](https://zh.wikipedia.org/wiki/武田航平 "wikilink")，使之不显女人味，同时更“活泼、乐观、积极”\[89\]\[90\]。有声音认为，本作角色与背景设计总监[吉田明彦和公司另一角色设计师](../Page/吉田明彦.md "wikilink")[野村哲也有相似之处](../Page/野村哲也.md "wikilink")。吉田认为交集源自二人在角色和环境用色风格上的一致性\[91\]。设计师称，受开发人员对历史之兴趣的影响，非人类角色与种族在游戏中扮演重要地位\[92\]。
+开发初期设定的故事主角是巴修，但在梵和潘妮罗创建后，主角最终转移到他们身上\[88\]。开发团队称，这是因为之前《[放浪冒险谭](../Page/放浪冒险谭.md "wikilink")》“正当年的健壮男”主角并不成功也不叫好；在考虑目标对象后，他们决定将主角从“强大、坚韧”型改成年轻型。电视剧演员[武田航平担任梵配音演员和动作演员](https://zh.wikipedia.org/wiki/武田航平 "wikilink")，使之不显女人味，同时更“活泼、乐观、积极”\[89\]\[90\]。有声音认为，本作角色与背景设计总监[吉田明彦](../Page/吉田明彦.md "wikilink")和公司另一角色设计师[野村哲也](../Page/野村哲也.md "wikilink")有相似之处。吉田认为交集源自二人在角色和环境用色风格上的一致性\[91\]。设计师称，受开发人员对历史之兴趣的影响，非人类角色与种族在游戏中扮演重要地位\[92\]。
 
 生田美和依加入团队时已确定的过场和设定来编写故事。剧本作者[渡边大佑又在生田之上充实脚本](https://zh.wikipedia.org/wiki/渡边大佑 "wikilink")\[93\]。曾参与《放浪冒险谭》和《[最终幻想X](../Page/最终幻想X.md "wikilink")》的在英文本地化中担任制作人和翻译\[94\]。他在保持日语脚本背后含义的基础上，采用不同英语方言代替日版发音的区域差异\[95\]\[96\]。他请有剧院工作经验的配音员，力避其他游戏作品的“平读”问题\[97\]。游戏英文化团队新增了16:9[宽屏幕分辨率](https://zh.wikipedia.org/wiki/宽屏幕 "wikilink")，同时恢复因政治因素和[CERO](https://zh.wikipedia.org/wiki/CERO "wikilink")“全年龄”分级而在日版删除的场景\[98\]\[99\]。
 
-游戏日版发售数度延期。2005年9月15日《[勇者斗恶龙VIII](https://zh.wikipedia.org/wiki/勇者斗恶龙VIII "wikilink")》北美版发行同时一并出货了本作[游戏演示](https://zh.wikipedia.org/wiki/游戏演示 "wikilink")\[100\]。在2006年10月11日纪念作品推出的“《最终幻想XII》玩家日”上，[纽约数字生活游戏馆中展出了英版游戏的试玩版](../Page/纽约.md "wikilink")\[101\]。此外史克威尔艾尼克斯还举办了玩家[扮演游戏角色的活动](https://zh.wikipedia.org/wiki/cosplay "wikilink")，给公司寄出三张扮装照片，即有机会赢得纽约之旅并参加游戏日活动的机会\[102\]。港台地区由索尼电脑娱乐香港代理，并与日本同时发行日文版游戏。
+游戏日版发售数度延期。2005年9月15日《[勇者斗恶龙VIII](https://zh.wikipedia.org/wiki/勇者斗恶龙VIII "wikilink")》北美版发行同时一并出货了本作[游戏演示](https://zh.wikipedia.org/wiki/游戏演示 "wikilink")\[100\]。在2006年10月11日纪念作品推出的“《最终幻想XII》玩家日”上，[纽约](../Page/纽约.md "wikilink")数字生活游戏馆中展出了英版游戏的试玩版\[101\]。此外史克威尔艾尼克斯还举办了玩家[扮演游戏角色的活动](https://zh.wikipedia.org/wiki/cosplay "wikilink")，给公司寄出三张扮装照片，即有机会赢得纽约之旅并参加游戏日活动的机会\[102\]。港台地区由索尼电脑娱乐香港代理，并与日本同时发行日文版游戏。
 
-《最终幻想XII》在2008年6月30日，获得[吉尼斯世界纪录认证的开发期最长的电子游戏记录](../Page/吉尼斯世界纪录.md "wikilink")。纪录称开发从2001年到2006年为其5年\[103\]。皆川在2009年3月[麻省理工学院举办的](../Page/麻省理工学院.md "wikilink")《最终幻想XII》“事后谈”中提到，开发期中有几年花在定制游戏开发工具上\[104\]。游戏还在2009年进入吉尼斯50大游戏榜单的第8名\[105\]。
+《最终幻想XII》在2008年6月30日，获得[吉尼斯世界纪录](../Page/吉尼斯世界纪录.md "wikilink")认证的开发期最长的电子游戏记录。纪录称开发从2001年到2006年为其5年\[103\]。皆川在2009年3月[麻省理工学院](../Page/麻省理工学院.md "wikilink")举办的《最终幻想XII》“事后谈”中提到，开发期中有几年花在定制游戏开发工具上\[104\]。游戏还在2009年进入吉尼斯50大游戏榜单的第8名\[105\]。
 
 ### 音乐
 
-游戏配乐多由[崎元仁谱写](../Page/崎元仁.md "wikilink")，[岩田匡治和](../Page/岩田匡治.md "wikilink")[松尾早人各谱写两曲与七曲](https://zh.wikipedia.org/wiki/松尾早人 "wikilink")。2004年从史克威尔艾尼克斯辞职的系列作曲人[植松伸夫仅创作片尾曲](../Page/植松伸夫.md "wikilink")《[Kiss
-Me
-Good-bye](https://zh.wikipedia.org/wiki/Kiss_Me_Good-bye "wikilink")》\[106\]。经验丰富的崎元仁不愿模仿植松的风格，而是自行创作不同的原声\[107\]\[108\]。《Kiss
-Me
-Good-bye》由[安杰拉·亚纪以日英双语分别演唱](https://zh.wikipedia.org/wiki/安杰拉·亚纪 "wikilink")\[109\]。植松称，亚纪边弹边唱的风格令他回想起童年偶像[埃尔顿·约翰](https://zh.wikipedia.org/wiki/埃尔顿·约翰 "wikilink")，这是他选择亚纪的原因之一\[110\]。日版和美版游戏皆收录英文版曲目。除了主题歌外，小提琴手叶加濑太郎还和鸟山雄司共同谱写、编曲与演奏职员表配乐《交响乐诗“希望”》\[111\]。
+游戏配乐多由[崎元仁](../Page/崎元仁.md "wikilink")谱写，[岩田匡治](../Page/岩田匡治.md "wikilink")和[松尾早人各谱写两曲与七曲](https://zh.wikipedia.org/wiki/松尾早人 "wikilink")。2004年从史克威尔艾尼克斯辞职的系列作曲人[植松伸夫](../Page/植松伸夫.md "wikilink")仅创作片尾曲《[Kiss Me Good-bye](https://zh.wikipedia.org/wiki/Kiss_Me_Good-bye "wikilink")》\[106\]。经验丰富的崎元仁不愿模仿植松的风格，而是自行创作不同的原声\[107\]\[108\]。《Kiss Me Good-bye》由[安杰拉·亚纪以日英双语分别演唱](https://zh.wikipedia.org/wiki/安杰拉·亚纪 "wikilink")\[109\]。植松称，亚纪边弹边唱的风格令他回想起童年偶像[埃尔顿·约翰](https://zh.wikipedia.org/wiki/埃尔顿·约翰 "wikilink")，这是他选择亚纪的原因之一\[110\]。日版和美版游戏皆收录英文版曲目。除了主题歌外，小提琴手叶加濑太郎还和鸟山雄司共同谱写、编曲与演奏职员表配乐《交响乐诗“希望”》\[111\]。
 
-史克威尔艾尼克斯在原声发售前，于推出2006年3月1日和15日，分别推出宣传碟《交响乐诗“希望”》和《最终幻想XII原声音乐精选》，日期分别是2006年3月1日与15日。前者囊括叶加濑太郎在游戏预告片中演奏的全部音乐，其中即含《交响乐诗“希望”》一曲\[112\]。原声于2006年5月31日在日本发行\[113\]，4碟装共100首曲目，限量版还附送两首游戏预告片专用的曲目\[114\]。《Kiss
-Me Good-Bye》CD单曲于2006年3月15日发行\[115\]；限量版还收录《Kiss Me
-Good-Bye》的音乐影片\[116\]。[Tofu
-Records发行了收录](https://zh.wikipedia.org/wiki/Tofu_Records "wikilink")31首曲目的精简版原声，其中保留了《Kiss
-me Good-Bye》\[117\]。
+史克威尔艾尼克斯在原声发售前，于推出2006年3月1日和15日，分别推出宣传碟《交响乐诗“希望”》和《最终幻想XII原声音乐精选》，日期分别是2006年3月1日与15日。前者囊括叶加濑太郎在游戏预告片中演奏的全部音乐，其中即含《交响乐诗“希望”》一曲\[112\]。原声于2006年5月31日在日本发行\[113\]，4碟装共100首曲目，限量版还附送两首游戏预告片专用的曲目\[114\]。《Kiss Me Good-Bye》CD单曲于2006年3月15日发行\[115\]；限量版还收录《Kiss Me Good-Bye》的音乐影片\[116\]。[Tofu Records发行了收录](https://zh.wikipedia.org/wiki/Tofu_Records "wikilink")31首曲目的精简版原声，其中保留了《Kiss me Good-Bye》\[117\]。
 
 ## 商品
 
 [Final_Fantasy_XII_Potions.jpg](https://zh.wikipedia.org/wiki/File:Final_Fantasy_XII_Potions.jpg "fig:Final_Fantasy_XII_Potions.jpg")
 
-[日本索尼电脑娱乐在游戏发售同日推出](https://zh.wikipedia.org/wiki/索尼电脑娱乐 "wikilink")《最终幻想XII》同捆包，内含[PlayStation
-2游戏系统](../Page/PlayStation_2.md "wikilink")、《最终幻想XII》游戏、标准[DualShock手柄](../Page/DualShock.md "wikilink")，以及直立式主机本体\[118\]\[119\]。日本第三方生产商Hori也于当日推出印有游戏角色的《最终幻想XII》[记忆卡](https://zh.wikipedia.org/wiki/记忆卡 "wikilink")\[120\]。游戏外设制造商[罗技也在同天推出](https://zh.wikipedia.org/wiki/罗技 "wikilink")《最终幻想XII》特别版手柄\[121\]。[三得利制作了饮料](../Page/三得利.md "wikilink")“最终幻想XII药水”——配方含蜂王浆、黄春菊、洋苏草、百里香、墨角兰等。饮料于游戏推出10日前市售。公司同时还推出了内含游戏收藏卡的“最终幻想XII保险箱”\[122\]。史克威尔艾尼克斯于2006年12月22日至2009年8月22日间，出版[天羽銀的五卷](https://zh.wikipedia.org/wiki/天羽銀 "wikilink")[单行本改编漫画](https://zh.wikipedia.org/wiki/单行本 "wikilink")\[123\]\[124\]。
+[日本索尼电脑娱乐在游戏发售同日推出](https://zh.wikipedia.org/wiki/索尼电脑娱乐 "wikilink")《最终幻想XII》同捆包，内含[PlayStation 2游戏系统](../Page/PlayStation_2.md "wikilink")、《最终幻想XII》游戏、标准[DualShock](../Page/DualShock.md "wikilink")手柄，以及直立式主机本体\[118\]\[119\]。日本第三方生产商Hori也于当日推出印有游戏角色的《最终幻想XII》[记忆卡](https://zh.wikipedia.org/wiki/记忆卡 "wikilink")\[120\]。游戏外设制造商[罗技也在同天推出](https://zh.wikipedia.org/wiki/罗技 "wikilink")《最终幻想XII》特别版手柄\[121\]。[三得利](../Page/三得利.md "wikilink")制作了饮料“最终幻想XII药水”——配方含蜂王浆、黄春菊、洋苏草、百里香、墨角兰等。饮料于游戏推出10日前市售。公司同时还推出了内含游戏收藏卡的“最终幻想XII保险箱”\[122\]。史克威尔艾尼克斯于2006年12月22日至2009年8月22日间，出版[天羽銀的五卷](https://zh.wikipedia.org/wiki/天羽銀 "wikilink")[单行本改编漫画](https://zh.wikipedia.org/wiki/单行本 "wikilink")\[123\]\[124\]。
 
-BentStuff
-Studio出版了三册[Ultimania攻略本](../Page/Ultimania.md "wikilink")，分别是2006年6月16日的《最终幻想XII
-战斗Ultimania》和《最终幻想XII 剧本Ultimania》和2006年11月24日的《最终幻想XII Ultimania
-Ω》。《战斗Ultimania》介绍并分析了新战斗系统及其要素，另收录开发者访谈\[125\]。《剧本Ultimania》收录游戏主要剧本、角色和伊瓦莉斯地区档案、开发者访谈，以及各地点的的详细信息\[126\]。最后的《Ultimania
-Ω》收录[配音员访谈](https://zh.wikipedia.org/wiki/配音员 "wikilink")、完整故事与更多角色档案、原图与插画集、完全游戏攻略\[127\]，以及Benny
-Matsuyama——《最终幻想VII Ultimania
-Ω攻略本》中小说《巡游星海的少女》的作者——的中篇小说\[128\]。《最终幻想XII
-国际版黄道十二宫职业系统》也有专门的《Ultimania》，于2007年9月6日推出\[129\]。2012年12月18日在日本推出的《最终幻想25周年纪念豪华包》收录了本作\[130\]。
+BentStuff Studio出版了三册[Ultimania](../Page/Ultimania.md "wikilink")攻略本，分别是2006年6月16日的《最终幻想XII 战斗Ultimania》和《最终幻想XII 剧本Ultimania》和2006年11月24日的《最终幻想XII Ultimania Ω》。《战斗Ultimania》介绍并分析了新战斗系统及其要素，另收录开发者访谈\[125\]。《剧本Ultimania》收录游戏主要剧本、角色和伊瓦莉斯地区档案、开发者访谈，以及各地点的的详细信息\[126\]。最后的《Ultimania Ω》收录[配音员访谈](https://zh.wikipedia.org/wiki/配音员 "wikilink")、完整故事与更多角色档案、原图与插画集、完全游戏攻略\[127\]，以及Benny Matsuyama——《最终幻想VII Ultimania Ω攻略本》中小说《巡游星海的少女》的作者——的中篇小说\[128\]。《最终幻想XII 国际版黄道十二宫职业系统》也有专门的《Ultimania》，于2007年9月6日推出\[129\]。2012年12月18日在日本推出的《最终幻想25周年纪念豪华包》收录了本作\[130\]。
 
-[GameStop和](../Page/GameStop.md "wikilink")[EB游戏在北美市场销售](https://zh.wikipedia.org/wiki/EB游戏 "wikilink")“收藏者版”\[131\]。该版本除了金属壳包装的游戏外，还赠送一张碟片，内含游戏开发者访谈、插画集、日本和美国的预告片，以及简述既往与预定发行最终幻想游戏的短故事片“最终幻想的历史”\[132\]。史克威尔艾尼克斯制作博客在2007年1月26日，展示了伽布拉斯、艾雪、巴尔弗雷亚和梵的全彩[人偶](https://zh.wikipedia.org/wiki/动态人偶 "wikilink")\[133\]。
+[GameStop](../Page/GameStop.md "wikilink")和[EB游戏在北美市场销售](https://zh.wikipedia.org/wiki/EB游戏 "wikilink")“收藏者版”\[131\]。该版本除了金属壳包装的游戏外，还赠送一张碟片，内含游戏开发者访谈、插画集、日本和美国的预告片，以及简述既往与预定发行最终幻想游戏的短故事片“最终幻想的历史”\[132\]。史克威尔艾尼克斯制作博客在2007年1月26日，展示了伽布拉斯、艾雪、巴尔弗雷亚和梵的全彩[人偶](https://zh.wikipedia.org/wiki/动态人偶 "wikilink")\[133\]。
 
 ## 评价
 
-《最终幻想XII》日本首周销量超过176.4万，相当于《[最终幻想X](../Page/最终幻想X.md "wikilink")》首周销量\[134\]。据史克威尔艾尼克斯的会议报告称，《最终幻想XII》发售两周后销量达238万\[135\]。北美版《最终幻想XII》首周出货约150万\[136\]。游戏到2007年3月时，全球出货超过520万\[137\]。游戏是2006年全球第四畅销PlayStation
-2游戏\[138\]。PS2版本全球累計銷量為606萬套\[139\]\[140\]。高清版于2017年7月在PlayStation
-4平台发售，史克威尔艾尼克斯在同年的10月底宣布PS4版的出货量已超过100万份。\[141\]
+《最终幻想XII》日本首周销量超过176.4万，相当于《[最终幻想X](../Page/最终幻想X.md "wikilink")》首周销量\[134\]。据史克威尔艾尼克斯的会议报告称，《最终幻想XII》发售两周后销量达238万\[135\]。北美版《最终幻想XII》首周出货约150万\[136\]。游戏到2007年3月时，全球出货超过520万\[137\]。游戏是2006年全球第四畅销PlayStation 2游戏\[138\]。PS2版本全球累計銷量為606萬套\[139\]\[140\]。高清版于2017年7月在PlayStation 4平台发售，史克威尔艾尼克斯在同年的10月底宣布PS4版的出货量已超过100万份。\[141\]
 
-《最终幻想XII》是第6款获得《[Fami通](../Page/Fami通.md "wikilink")》满分的游戏，也是首款获满分的最终幻想游戏与PlayStation
-2游戏。这还是松野泰己继《[放浪冒险谭](../Page/放浪冒险谭.md "wikilink")》后又一款满分游戏。评论对游戏图形、剧本、游戏系统表示称赞，并赞扬游戏为系列增加了新要素\[142\]。游戏甚至在西方发售前，就获得当地媒体的赞扬。《[Edge](../Page/Edge_\(杂志\).md "wikilink")》称赞了游戏全动态影像和游戏引擎画面的无缝切换\[143\]，同时游戏以其艺术风格获得“Top
-10星期二”的第一名\[144\]。《Newtype
-USA》称《最终幻想XII》将游戏选为2006年11月“月度游戏”，杂志对其系统、图形、故事表示称赞，是“索尼平台史上的最佳RPG”\[145\]。
+《最终幻想XII》是第6款获得《[Fami通](../Page/Fami通.md "wikilink")》满分的游戏，也是首款获满分的最终幻想游戏与PlayStation 2游戏。这还是松野泰己继《[放浪冒险谭](../Page/放浪冒险谭.md "wikilink")》后又一款满分游戏。评论对游戏图形、剧本、游戏系统表示称赞，并赞扬游戏为系列增加了新要素\[142\]。游戏甚至在西方发售前，就获得当地媒体的赞扬。《[Edge](../Page/Edge_\(杂志\).md "wikilink")》称赞了游戏全动态影像和游戏引擎画面的无缝切换\[143\]，同时游戏以其艺术风格获得“Top 10星期二”的第一名\[144\]。《Newtype USA》称《最终幻想XII》将游戏选为2006年11月“月度游戏”，杂志对其系统、图形、故事表示称赞，是“索尼平台史上的最佳RPG”\[145\]。
 
 GameSpot虽然称赞策略和执照系统是新颖而深入的角色控制方式，但也表示系统复杂困难、难以适应，对新手则尤甚。评论还批评间或乏味的来回折行。此外评论还特别称赞了“出色”的配音阵容\[146\]。IGN称赞游戏丰富的情节和艺术监督“深入了角色”。他还为“游戏自己玩自己”的批评做辩护，称策略系统少了玩家就不起作用。不过网站也称，虽然《最终幻想XII》“仍然非常强”，但原声是系列最无力的之一\[147\]。
 
-执行制作人[河津秋敏对](../Page/河津秋敏.md "wikilink")《Fami通》的评分表示高兴，但他承认游戏并非完美；他认为故事未不满足部分爱好者的期望\[148\]。河津还称[PlayOnline和](../Page/PlayOnline.md "wikilink")《最终幻想战略版》团队成员间有创造性分歧，这是他对故事的无奈与遗憾\[149\]。
+执行制作人[河津秋敏](../Page/河津秋敏.md "wikilink")对《Fami通》的评分表示高兴，但他承认游戏并非完美；他认为故事未不满足部分爱好者的期望\[148\]。河津还称[PlayOnline](../Page/PlayOnline.md "wikilink")和《最终幻想战略版》团队成员间有创造性分歧，这是他对故事的无奈与遗憾\[149\]。
 
-GameSpot、GameSpy、IGN等多家媒体将《最终幻想XII》称作2006年度的最佳PlayStation
-2游戏与最佳角色扮演游戏\[150\]\[151\]\[152\]\[153\]。《Edge》和《Fami通》授予《最终幻想XII》2006年年度游戏奖\[154\]\[155\]。本作在2006年度[日本游戏大奖摘得](../Page/日本游戏大奖.md "wikilink")“大奖”和“优秀奖”，以及该年度PlayStation奖的“双白金奖”\[156\]\[157\]\[158\]。游戏因作为“日本原产产品与服务的杰出象征”，入选“新100日本样式”榜单\[159\]\[160\]。《最终幻想XII》还获得不同机构的各类提名。机构如[互动艺术与科学协会](https://zh.wikipedia.org/wiki/互动艺术与科学协会 "wikilink")、[游戏开发者推荐奖](https://zh.wikipedia.org/wiki/游戏开发者推荐奖 "wikilink")、[英国电影和电视艺术学院](../Page/英国电影和电视艺术学院.md "wikilink")、[英国学院电子游戏奖](https://zh.wikipedia.org/wiki/英国学院电子游戏奖 "wikilink")、[Spike电子游戏大奖和](https://zh.wikipedia.org/wiki/Spike电子游戏大奖 "wikilink")[卫星奖](../Page/卫星奖.md "wikilink")，提名项目则涵盖最佳角色扮演游戏、最佳故事、最佳艺术指导、最佳配乐等\[161\]\[162\]\[163\]\[164\]\[165\]。
+GameSpot、GameSpy、IGN等多家媒体将《最终幻想XII》称作2006年度的最佳PlayStation 2游戏与最佳角色扮演游戏\[150\]\[151\]\[152\]\[153\]。《Edge》和《Fami通》授予《最终幻想XII》2006年年度游戏奖\[154\]\[155\]。本作在2006年度[日本游戏大奖](../Page/日本游戏大奖.md "wikilink")摘得“大奖”和“优秀奖”，以及该年度PlayStation奖的“双白金奖”\[156\]\[157\]\[158\]。游戏因作为“日本原产产品与服务的杰出象征”，入选“新100日本样式”榜单\[159\]\[160\]。《最终幻想XII》还获得不同机构的各类提名。机构如[互动艺术与科学协会](https://zh.wikipedia.org/wiki/互动艺术与科学协会 "wikilink")、[游戏开发者推荐奖](https://zh.wikipedia.org/wiki/游戏开发者推荐奖 "wikilink")、[英国电影和电视艺术学院](../Page/英国电影和电视艺术学院.md "wikilink")、[英国学院电子游戏奖](https://zh.wikipedia.org/wiki/英国学院电子游戏奖 "wikilink")、[Spike电子游戏大奖和](https://zh.wikipedia.org/wiki/Spike电子游戏大奖 "wikilink")[卫星奖](../Page/卫星奖.md "wikilink")，提名项目则涵盖最佳角色扮演游戏、最佳故事、最佳艺术指导、最佳配乐等\[161\]\[162\]\[163\]\[164\]\[165\]。
 
 ### 影响
 
-[BioWare在](../Page/BioWare.md "wikilink")2009年称，他们的角色扮演游戏《[龙腾世纪：起源](https://zh.wikipedia.org/wiki/龙腾世纪：起源 "wikilink")》受到《最终幻想XII》的影响。\[166\]
+[BioWare](../Page/BioWare.md "wikilink")在2009年称，他们的角色扮演游戏《[龙腾世纪：起源](https://zh.wikipedia.org/wiki/龙腾世纪：起源 "wikilink")》受到《最终幻想XII》的影响。\[166\]
 
 ## 续作与再发行版
 
 ### 国际版黄道十二宫职业系统
 
-史克威尔艾尼克斯在2007年5月10日对外公开了游戏[国际版](https://zh.wikipedia.org/wiki/国际版 "wikilink")《最终幻想XII国际版
-黄道十二宫职业系统》\[167\]。游戏作为最终幻想20周年纪念与[伊瓦莉斯联盟作品](https://zh.wikipedia.org/wiki/伊瓦莉斯联盟 "wikilink")，于2007年8月9日在日本推出\[168\]。游戏将原版单一执照版该为12个执照版，每个执照版各对应一个星座与职业。游戏战斗系统也有调整，如玩家可以控制临时角色和召唤兽，按L1键可以加速游戏。此外游戏采用英语配音，支持16:9宽屏分辨率，同时收录北美版首卖时的附赠光碟。国际版新增有三种模式：“[强模式](https://zh.wikipedia.org/wiki/二周目 "wikilink")”、“弱模式”（角色不获得经验）和“挑战模式”（玩家在100个地图中猎杀怪物，获得道具与金钱）\[169\]\[170\]\[171\]\[172\]。
+史克威尔艾尼克斯在2007年5月10日对外公开了游戏[国际版](https://zh.wikipedia.org/wiki/国际版 "wikilink")《最终幻想XII国际版 黄道十二宫职业系统》\[167\]。游戏作为最终幻想20周年纪念与[伊瓦莉斯联盟作品](https://zh.wikipedia.org/wiki/伊瓦莉斯联盟 "wikilink")，于2007年8月9日在日本推出\[168\]。游戏将原版单一执照版该为12个执照版，每个执照版各对应一个星座与职业。游戏战斗系统也有调整，如玩家可以控制临时角色和召唤兽，按L1键可以加速游戏。此外游戏采用英语配音，支持16:9宽屏分辨率，同时收录北美版首卖时的附赠光碟。国际版新增有三种模式：“[强模式](https://zh.wikipedia.org/wiki/二周目 "wikilink")”、“弱模式”（角色不获得经验）和“挑战模式”（玩家在100个地图中猎杀怪物，获得道具与金钱）\[169\]\[170\]\[171\]\[172\]。
 
 ### 归来之翼
 
-《最终幻想XII》的续作《[最终幻想XII
-归来之翼](../Page/最终幻想XII_归来之翼.md "wikilink")》于2007年在[任天堂DS发行](../Page/任天堂DS.md "wikilink")，游戏讲述梵在原作情节结尾一年后的冒险\[173\]。它和国际版《最终幻想XII》同属[伊瓦莉斯联盟四款作品之一](https://zh.wikipedia.org/wiki/伊瓦莉斯联盟 "wikilink")\[174\]。
+《最终幻想XII》的续作《[最终幻想XII 归来之翼](../Page/最终幻想XII_归来之翼.md "wikilink")》于2007年在[任天堂DS](../Page/任天堂DS.md "wikilink")发行，游戏讲述梵在原作情节结尾一年后的冒险\[173\]。它和国际版《最终幻想XII》同属[伊瓦莉斯联盟四款作品之一](https://zh.wikipedia.org/wiki/伊瓦莉斯联盟 "wikilink")\[174\]。
 
 ### 堡垒
 
-《[堡垒](../Page/堡垒_\(未发行游戏\).md "wikilink")》（）原是由[Grin开发的衍生动作冒险游戏](https://zh.wikipedia.org/wiki/Grin "wikilink")，讲述《归来之翼》后伊瓦莉斯的故事，是一部“故事和产值都呈史诗规模”的游戏\[175\]\[176\]。史克威尔艾尼克斯在开发六个月后，以质量问题为由取消项目并拒绝向Grin付费，此举致使Grin宣布破产\[177\]\[178\]。后有传言称作品交由其他工作室开发，但《归来之翼》总监[鸟山求在E](https://zh.wikipedia.org/wiki/鸟山求 "wikilink")3
-2011上正式宣布，作品“中止”开发并“永远不会发行”\[179\]。
+《[堡垒](../Page/堡垒_\(未发行游戏\).md "wikilink")》（）原是由[Grin开发的衍生动作冒险游戏](https://zh.wikipedia.org/wiki/Grin "wikilink")，讲述《归来之翼》后伊瓦莉斯的故事，是一部“故事和产值都呈史诗规模”的游戏\[175\]\[176\]。史克威尔艾尼克斯在开发六个月后，以质量问题为由取消项目并拒绝向Grin付费，此举致使Grin宣布破产\[177\]\[178\]。后有传言称作品交由其他工作室开发，但《归来之翼》总监[鸟山求在E](https://zh.wikipedia.org/wiki/鸟山求 "wikilink")3 2011上正式宣布，作品“中止”开发并“永远不会发行”\[179\]。
 
 ### 黄道年代
 
@@ -165,37 +132,17 @@ GameSpot、GameSpy、IGN等多家媒体将《最终幻想XII》称作2006年度�
   - [最终幻想XII国际版 黄道十二宫职业系统日本官方網站](http://www.ff12.com/zjs/zjs.html)
   - [最终幻想XII 黄道纪元日本官方网站](http://www.jp.square-enix.com/ff12_tza/)
 
-[Category:2006年电子游戏](https://zh.wikipedia.org/wiki/Category:2006年电子游戏 "wikilink")
-[Category:最终幻想系列电子游戏](https://zh.wikipedia.org/wiki/Category:最终幻想系列电子游戏 "wikilink")
-[Category:最終幻想XII](https://zh.wikipedia.org/wiki/Category:最終幻想XII "wikilink")
-[Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink")
-[Category:PlayStation_4游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_4游戏 "wikilink")
-[Category:任天堂Switch游戏](https://zh.wikipedia.org/wiki/Category:任天堂Switch游戏 "wikilink")
-[Category:Xbox_One游戏](https://zh.wikipedia.org/wiki/Category:Xbox_One游戏 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:Steam商店游戏](https://zh.wikipedia.org/wiki/Category:Steam商店游戏 "wikilink")
-[Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink")
-[Category:僅有單人模式的電子遊戲](https://zh.wikipedia.org/wiki/Category:僅有單人模式的電子遊戲 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:GANGAN_ONLINE](https://zh.wikipedia.org/wiki/Category:GANGAN_ONLINE "wikilink")
-[Category:GANGAN_POWERED](https://zh.wikipedia.org/wiki/Category:GANGAN_POWERED "wikilink")
-[Category:官方繁体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏 "wikilink")
-[Category:官方简体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方简体中文化游戏 "wikilink")
+[Category:2006年电子游戏](https://zh.wikipedia.org/wiki/Category:2006年电子游戏 "wikilink") [Category:最终幻想系列电子游戏](https://zh.wikipedia.org/wiki/Category:最终幻想系列电子游戏 "wikilink") [Category:最終幻想XII](https://zh.wikipedia.org/wiki/Category:最終幻想XII "wikilink") [Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink") [Category:PlayStation_4游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_4游戏 "wikilink") [Category:任天堂Switch游戏](https://zh.wikipedia.org/wiki/Category:任天堂Switch游戏 "wikilink") [Category:Xbox_One游戏](https://zh.wikipedia.org/wiki/Category:Xbox_One游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:Steam商店游戏](https://zh.wikipedia.org/wiki/Category:Steam商店游戏 "wikilink") [Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink") [Category:僅有單人模式的電子遊戲](https://zh.wikipedia.org/wiki/Category:僅有單人模式的電子遊戲 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:GANGAN_ONLINE](https://zh.wikipedia.org/wiki/Category:GANGAN_ONLINE "wikilink") [Category:GANGAN_POWERED](https://zh.wikipedia.org/wiki/Category:GANGAN_POWERED "wikilink") [Category:官方繁体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏 "wikilink") [Category:官方简体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方简体中文化游戏 "wikilink")
 
-1.  [Final Fantasy
-    XII](http://www.vgchartz.com/game/765/final-fantasy-xii/) VGChartz
+1.  [Final Fantasy XII](http://www.vgchartz.com/game/765/final-fantasy-xii/) VGChartz
 
-2.  [1](http://www.vgchartz.com/game/7158/final-fantasy-xii-international-zodiac-job-system/)
-    VGChartz (PS2 international)
+2.  [1](http://www.vgchartz.com/game/7158/final-fantasy-xii-international-zodiac-job-system/) VGChartz (PS2 international)
 
-3.  [《FF12
-    HD》2017年登录PS4平台](http://www.g-cores.com/articles/19107).机核网.2016-06-06.\[2016-06-06\].
+3.  [《FF12 HD》2017年登录PS4平台](http://www.g-cores.com/articles/19107).机核网.2016-06-06.\[2016-06-06\].
 
-4.  [【TpGS 17】【速報】《Final Fantasy XII
-    黃道時代》宣布將中文化推出！](https://gnn.gamer.com.tw/2/142842.html).巴哈姆特.2017-01-21.\[2017-01-21\].
+4.  [【TpGS 17】【速報】《Final Fantasy XII 黃道時代》宣布將中文化推出！](https://gnn.gamer.com.tw/2/142842.html).巴哈姆特.2017-01-21.\[2017-01-21\].
 
-5.  [PS4™ 『FINAL FANTASY® XII THE ZODIAC AGE』
-    繁體中文版 7月13日與全球同步上市](https://asia.playstation.com/hk/cht/newsdetail?id=4790).索尼互动娱乐香港.2017-02-08.\[2017-02-08\].
+5.  [PS4™ 『FINAL FANTASY® XII THE ZODIAC AGE』 繁體中文版 7月13日與全球同步上市](https://asia.playstation.com/hk/cht/newsdetail?id=4790).索尼互动娱乐香港.2017-02-08.\[2017-02-08\].
 
 6.
 7.
@@ -239,20 +186,13 @@ GameSpot、GameSpy、IGN等多家媒体将《最终幻想XII》称作2006年度�
 31.
 32.
 
-33. Sage Knowledge 12 of 78 (Hybrid Gator Bestiary entry) Magicite -
-    Common name for stones containing magickal power, or as it is
-    commonly manifest, Mist.
+33. Sage Knowledge 12 of 78 (Hybrid Gator Bestiary entry) Magicite - Common name for stones containing magickal power, or as it is commonly manifest, Mist.
 
-34. Sage Knowledge 14 of 78 (Steeling Bestiary entry) Airships -
-    Currently, they are one of the most popular forms of transportation
-    in Ivalice.
+34. Sage Knowledge 14 of 78 (Steeling Bestiary entry) Airships - Currently, they are one of the most popular forms of transportation in Ivalice.
 
 35.
 
-36. Sage Knowledge 30 of 78 (Urstrix Bestiary entry) Ordalia - Continent
-    on the western edge of Ivalice. The vast plains in the interior are
-    home to the great Rozarrian Empire. To the east of Rozarria, the
-    land is arid and largely desert.
+36. Sage Knowledge 30 of 78 (Urstrix Bestiary entry) Ordalia - Continent on the western edge of Ivalice. The vast plains in the interior are home to the great Rozarrian Empire. To the east of Rozarria, the land is arid and largely desert.
 
 37.
 
@@ -445,8 +385,7 @@ GameSpot、GameSpy、IGN等多家媒体将《最终幻想XII》称作2006年度�
 
 139.
 140.
-141. [《最终幻想12
-     黄道纪元》全球卖出100万份](http://www.vgtime.com/topic/873128.jhtml).游戏时光.2017-10-26.\[2017-10-26\].
+141. [《最终幻想12 黄道纪元》全球卖出100万份](http://www.vgtime.com/topic/873128.jhtml).游戏时光.2017-10-26.\[2017-10-26\].
 
 142.
 

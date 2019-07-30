@@ -1,24 +1,23 @@
-《**×××HOLiC**》（）[CLAMP所創作的](../Page/CLAMP.md "wikilink")[少年漫畫作品](https://zh.wikipedia.org/wiki/少年漫畫 "wikilink")。與同期連載的《[TSUBASA翼](https://zh.wikipedia.org/wiki/TSUBASA翼 "wikilink")》是相同的[平行世界觀](https://zh.wikipedia.org/wiki/平行世界 "wikilink")，劇情相互交錯。2005年劇場版上映，於2006年、2008年二度動畫化，港台電視台皆取得動畫版權。
+《**×××HOLiC**》（）[CLAMP](../Page/CLAMP.md "wikilink")所創作的[少年漫畫作品](https://zh.wikipedia.org/wiki/少年漫畫 "wikilink")。與同期連載的《[TSUBASA翼](https://zh.wikipedia.org/wiki/TSUBASA翼 "wikilink")》是相同的[平行世界觀](https://zh.wikipedia.org/wiki/平行世界 "wikilink")，劇情相互交錯。2005年劇場版上映，於2006年、2008年二度動畫化，港台電視台皆取得動畫版權。
 
 ## 故事簡介
 
-**四月一日君尋**進入了別名為**次元魔女**並自稱為**壹原侑子**所擁有的**能夠實現任何願望的店**。侑子說只要四月一日能付出對等的代價，就可以幫助四月一日實現－“可以讓你看不見妖怪，而且，讓[妖怪不受你的血所吸引](../Page/妖怪.md "wikilink")”的願望。因此四月一日答應侑子的條件，侑子便開出讓四月一日在其店中打工作為代價，直到時數足以實現願望。打工期間，四月一日遇到各式各樣不可思議的事，與當中的人、妖怪、客人接觸後，在心理上有很大的轉變，特別是侑子的影響。
+**四月一日君尋**進入了別名為**次元魔女**並自稱為**壹原侑子**所擁有的**能夠實現任何願望的店**。侑子說只要四月一日能付出對等的代價，就可以幫助四月一日實現－“可以讓你看不見妖怪，而且，讓[妖怪](../Page/妖怪.md "wikilink")不受你的血所吸引”的願望。因此四月一日答應侑子的條件，侑子便開出讓四月一日在其店中打工作為代價，直到時數足以實現願望。打工期間，四月一日遇到各式各樣不可思議的事，與當中的人、妖怪、客人接觸後，在心理上有很大的轉變，特別是侑子的影響。
 
 ## 登場角色
 
 ### 主要登場角色
 
-  - {{nihongo||壱原 侑子（いちはら
-    ゆうこ）||[聲](../Page/聲優.md "wikilink")：[大原沙耶香](../Page/大原沙耶香.md "wikilink")（日本）；[陳季霞](../Page/陳季霞.md "wikilink")（台灣）；[郭碧珍](../Page/郭碧珍.md "wikilink")（香港）
+  - {{nihongo||壱原 侑子（いちはら ゆうこ）||[聲](../Page/聲優.md "wikilink")：[大原沙耶香](../Page/大原沙耶香.md "wikilink")（日本）；[陳季霞](../Page/陳季霞.md "wikilink")（台灣）；[郭碧珍](../Page/郭碧珍.md "wikilink")（香港）
 
 }}
 
   -
-    本作品女主角之一，第一女主角。本人表示這個名字是假名。她被稱為「次元的魔女」、「極東的魔女」，對[咒術和](https://zh.wikipedia.org/wiki/咒術 "wikilink")[妖怪等的知識相當淵博](../Page/妖怪.md "wikilink")，除此之外也對[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")、[戲劇相當瞭解](https://zh.wikipedia.org/wiki/戲劇 "wikilink")。
+    本作品女主角之一，第一女主角。本人表示這個名字是假名。她被稱為「次元的魔女」、「極東的魔女」，對[咒術和](https://zh.wikipedia.org/wiki/咒術 "wikilink")[妖怪](../Page/妖怪.md "wikilink")等的知識相當淵博，除此之外也對[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")、[戲劇相當瞭解](https://zh.wikipedia.org/wiki/戲劇 "wikilink")。
 
     實現人們的願望，收取與願望有著對等代價的店家的女主人。與進行占卜等超自然世界的人們以及人類以外的存在之間，都有極廣的人脈，具有神奇不思議的能力。
 
-    年齡不詳，不過出現在對話中的卡通或漫畫話題多半是[昭和時代的作品](../Page/昭和.md "wikilink")。與創造「庫洛牌」的[庫洛·里德是同業的故知](https://zh.wikipedia.org/wiki/庫洛魔法使角色列表#配角 "wikilink")，稱他為「陰險的眼鏡仔」。
+    年齡不詳，不過出現在對話中的卡通或漫畫話題多半是[昭和](../Page/昭和.md "wikilink")時代的作品。與創造「庫洛牌」的[庫洛·里德是同業的故知](https://zh.wikipedia.org/wiki/庫洛魔法使角色列表#配角 "wikilink")，稱他為「陰險的眼鏡仔」。
 
     據四月一日所說，侑子從來不穿同樣的衣服兩次（除了接見[TSUBASA翼的人物時](https://zh.wikipedia.org/wiki/TSUBASA翼 "wikilink")）。代表的生物是[蝴蝶](../Page/蝴蝶.md "wikilink")，常在[服裝](https://zh.wikipedia.org/wiki/服裝 "wikilink")、[法術等出現](https://zh.wikipedia.org/wiki/法術 "wikilink")。
 
@@ -55,9 +54,7 @@
 
     「×××HOLiC・戻」故事的開始在四月一日在侑子店內打工發生的事情，一開始如同剛開始在店裡打工一樣稀鬆平常，然而遭遇到的人事物、四月一日的反應、百目鬼以及侑子之間的對話，或多或少提示著這個非現實的世界。在這個世界的後期，四月一日終於想起，自己是為了實現「小狼」的委託，前往夢中不同的次元中尋找代價，並再次見到侑子小姐，雖然只是四月一日創造的侑子小姐，但再次面對了與侑子小姐離別時的情感。最後四月一日回到原來的世界，透過黑摩可拿將夜雀給予的代價「只有一次，可以前往想去的地方」、用三個布丁交換的代價「強運的三十日元」、裝有「詛咒娃娃的斷頭」的木箱和裝有「寄生在等待他人才開放櫻花的寄生花」的鐵籠交給「小狼」，而最初是因為四月一日夢到「小狼」不會再醒來的夢，為了不讓那個夢發生，因此請「小狼」向他許下願望以便收集必要的東西。\[1\]
 
-  - {{nihongo|[百目鬼静](https://zh.wikipedia.org/wiki/百目鬼 "wikilink")|[百目鬼](https://zh.wikipedia.org/wiki/百目鬼 "wikilink")
-    靜（どうめき
-    しずか）||聲：[中井和哉](../Page/中井和哉.md "wikilink")（日本）；[曹冀魯](../Page/曹冀魯.md "wikilink")（台灣）；[陳旭恆](../Page/陳旭恆.md "wikilink")（香港）
+  - {{nihongo|[百目鬼静](https://zh.wikipedia.org/wiki/百目鬼 "wikilink")|[百目鬼](https://zh.wikipedia.org/wiki/百目鬼 "wikilink") 靜（どうめき しずか）||聲：[中井和哉](../Page/中井和哉.md "wikilink")（日本）；[曹冀魯](../Page/曹冀魯.md "wikilink")（台灣）；[陳旭恆](../Page/陳旭恆.md "wikilink")（香港）
 
 }}
 
@@ -70,7 +67,7 @@
 
     是在單行本2的占卜師婆婆所說的「和四月一日經常吵架但是緣分很深的男性朋友」。當初兩人剛見面四月一日就和他大吵一架。
 
-    酒量和打[麻將的技巧都很好](https://zh.wikipedia.org/wiki/麻將 "wikilink")，也相當擅長運動。參加的社團是[弓道社](../Page/弓道.md "wikilink")。能使用弓將自身的潔淨之氣發射以驅邪。
+    酒量和打[麻將的技巧都很好](https://zh.wikipedia.org/wiki/麻將 "wikilink")，也相當擅長運動。參加的社團是[弓道](../Page/弓道.md "wikilink")社。能使用弓將自身的潔淨之氣發射以驅邪。
 
     長的很帥，有很重的[雙眼皮](https://zh.wikipedia.org/wiki/雙眼皮 "wikilink")（但四月一日說他是[三白眼](https://zh.wikipedia.org/wiki/三白眼 "wikilink")），是很多女生所愛慕的對象。看起來沉默寡言，不常有感情起伏，但和四月一日一起時就經常吐嘈及捉弄四月一日並和他吵架，但其實和四月一日很有默契和友情，心裡也默默地在重視著四月一日，似乎也有特殊情感於其中。
 
@@ -82,8 +79,7 @@
 
     在**OVA「籠．徒夢」**最後他和五月七日小羽結婚。故事終章（過了100年以上），為避免讓四月一日察覺到時間的流動，他的曾孫代替他去找四月一日。
 
-  - {{nihongo||九軒 ひまわり（くのぎ
-    ひまわり）||聲：[伊藤靜](../Page/伊藤靜.md "wikilink")（日本）；[林美秀](../Page/林美秀_\(配音員\).md "wikilink")（台灣）；[鄭佩嘉](../Page/鄭佩嘉.md "wikilink")（香港）
+  - {{nihongo||九軒 ひまわり（くのぎ ひまわり）||聲：[伊藤靜](../Page/伊藤靜.md "wikilink")（日本）；[林美秀](../Page/林美秀_\(配音員\).md "wikilink")（台灣）；[鄭佩嘉](../Page/鄭佩嘉.md "wikilink")（香港）
 
 }}
 
@@ -93,7 +89,7 @@
     生日：11月27日。[射手座](https://zh.wikipedia.org/wiki/人馬宮 "wikilink")。
     高中時在學校裡和百目鬼同為學級委員，多半與四月一日及百目鬼在一起。經常將把百目鬼和四月一日兩人湊在一起認為感情要好、像是相聲的同伴。
     與四月一日相反的家事白痴。其便當都是買來的，就算加熱也是由媽媽負責（後來揭曉其實是避免帶來厄運），父親則在電視台上班。
-    侑子總對四月一日說「她不是你的幸運女神」，在故事的情節中可以看到壞事是會伴隨小葵出現，或是作為壞事的催化劑。因為小葵是**給旁人招來厄運的[靈能力者](../Page/靈能力.md "wikilink")**，她本人無法控制此厄運也無法選擇對象，從小時候開始她身邊的人（除了生下自己的父母）無一例外地遭受了各式各樣的厄運。這種靈能力無法用一般法術去除，而侑子表示如果通過支付代價來消除此靈能力的話，要支付的代價會過於巨大，已經到了非得拿所有的幸福來交換的地步。
+    侑子總對四月一日說「她不是你的幸運女神」，在故事的情節中可以看到壞事是會伴隨小葵出現，或是作為壞事的催化劑。因為小葵是**給旁人招來厄運的[靈能力](../Page/靈能力.md "wikilink")者**，她本人無法控制此厄運也無法選擇對象，從小時候開始她身邊的人（除了生下自己的父母）無一例外地遭受了各式各樣的厄運。這種靈能力無法用一般法術去除，而侑子表示如果通過支付代價來消除此靈能力的話，要支付的代價會過於巨大，已經到了非得拿所有的幸福來交換的地步。
     四月一日出事（墜樓）時，道出自己是招來厄運的靈能力者的事實。是為挽救四月一日生命而付出代價的三人之一。付出「**承擔四月一日的嚴重傷疤**」做為代價，並請求侑子保密。原本想以「再見」兩字永遠離開四月一日等人，但四月一日挽留了小葵。之後小葵從四月一日那裡收下了希望她幸福而誕生的小鳥——蒲公英（從蛋變來的），能不受小葵的體質影響並抑制住她的靈能力。
     在4年後所發生的故事「×××HOLiC·籠」，四月一日考量到店內有許多不乾淨的東西，對招來不幸的小葵非常危險，為了保護她，決定只在每年4月1日生日那天和小葵在店裡見面。**OVA「xxxHOLiC・籠\~徒夢\~」**的十年間和他人結婚，但仍和四月一日保持聯絡，以及每年在他生日那天見面。
   -
@@ -112,17 +108,14 @@
     本作品女主角之一。
     電視台名[靈能師](https://zh.wikipedia.org/wiki/靈能師 "wikilink")，11歲，有和年齡不符的強大靈能力，能夠看到靈魂和驅邪。在左眼下有顆痣。
     和四月一日有許多相似之處，包括姓氏、能看的見妖怪的體質和內心。
-    小時候[靈視到父親](https://zh.wikipedia.org/wiki/靈視 "wikilink")[外遇的場景](../Page/外遇.md "wikilink")，而最後導致父母離婚，後來成了母親報復丈夫的工具。小學中輟，常被母親送去靈異節目主持以換取金錢。家庭相當不和睦。在四月一日叫她名字前，已經很久沒人叫她的名字了。
+    小時候[靈視到父親](https://zh.wikipedia.org/wiki/靈視 "wikilink")[外遇](../Page/外遇.md "wikilink")的場景，而最後導致父母離婚，後來成了母親報復丈夫的工具。小學中輟，常被母親送去靈異節目主持以換取金錢。家庭相當不和睦。在四月一日叫她名字前，已經很久沒人叫她的名字了。
     後來因靈能力太強，而靈視到其他靈能師所看不見的影像而被懷疑、排擠和批評。在四月一日和百目鬼的幫助下來到侑子的店，以自身的力量做代價消除對母親和自己的流言，但過去不會消失。隨後侑子只取出使她有驅邪能力的**小櫻的羽毛**並安放在黑摩可拿的封印道具中，讓小羽保留本身的靈視能力，因此她依然能看見幽靈。
     為了給母親思考的空間，之後和母親分居，寄居在占卜師婆婆家中並學習占卜。
-    在4年後所發生的故事
-    OVA「×××HOLiC·籠」，就讀十字學園，對擔任店主的四月一日很擔心，希望他的身體和心都不要受傷。「籠．徒夢」小羽與靜結婚，據靜所說小羽最重視的人是四月一日。
+    在4年後所發生的故事 OVA「×××HOLiC·籠」，就讀十字學園，對擔任店主的四月一日很擔心，希望他的身體和心都不要受傷。「籠．徒夢」小羽與靜結婚，據靜所說小羽最重視的人是四月一日。
 
 ### 重要角色
 
-  - {{nihongo|[百目鬼遙](https://zh.wikipedia.org/wiki/百目鬼 "wikilink")|[百目鬼](https://zh.wikipedia.org/wiki/百目鬼 "wikilink")
-    遙（どうめき
-    はるか）||聲：[中井和哉](../Page/中井和哉.md "wikilink")（日本）；[陳旭恆](../Page/陳旭恆.md "wikilink")（香港）
+  - {{nihongo|[百目鬼遙](https://zh.wikipedia.org/wiki/百目鬼 "wikilink")|[百目鬼](https://zh.wikipedia.org/wiki/百目鬼 "wikilink") 遙（どうめき はるか）||聲：[中井和哉](../Page/中井和哉.md "wikilink")（日本）；[陳旭恆](../Page/陳旭恆.md "wikilink")（香港）
 
 }}
 
@@ -136,9 +129,9 @@
 ### 人類
 
   -
-    28歲的[牙科](https://zh.wikipedia.org/wiki/牙科 "wikilink")[診所女員工](../Page/診所.md "wikilink")，為了小指動彈不順的問題尋求[壹原侑子協助](https://zh.wikipedia.org/wiki/×××HOLiC#.E5.A3.B9.E5.8E.9F.E4.BE.91.E5.AD.90 "wikilink")，並從她手上獲得一枚戒指。儘管本人並無惡意，但基於面子問題，使她在無意中養成撒謊的惡習而不自知。四月一日為了提醒她而尾隨其後，結果察覺了真相。眼見該名女員工在過馬路期間取下戒指，隨即便受瘴氣影響而無法動彈，引發交通意外。後因為四月一日呼叫[救護車將她送到](../Page/救護車.md "wikilink")[醫院](../Page/醫院.md "wikilink")，保住了性命。但侑子給她的戒指卻因為承受過多的瘴氣，在交還給侑子沒多久便當場碎裂。
+    28歲的[牙科](https://zh.wikipedia.org/wiki/牙科 "wikilink")[診所](../Page/診所.md "wikilink")女員工，為了小指動彈不順的問題尋求[壹原侑子協助](https://zh.wikipedia.org/wiki/×××HOLiC#.E5.A3.B9.E5.8E.9F.E4.BE.91.E5.AD.90 "wikilink")，並從她手上獲得一枚戒指。儘管本人並無惡意，但基於面子問題，使她在無意中養成撒謊的惡習而不自知。四月一日為了提醒她而尾隨其後，結果察覺了真相。眼見該名女員工在過馬路期間取下戒指，隨即便受瘴氣影響而無法動彈，引發交通意外。後因為四月一日呼叫[救護車](../Page/救護車.md "wikilink")將她送到[醫院](../Page/醫院.md "wikilink")，保住了性命。但侑子給她的戒指卻因為承受過多的瘴氣，在交還給侑子沒多久便當場碎裂。
   -
-    居住於[銀座](../Page/銀座.md "wikilink")[高級住宅的](https://zh.wikipedia.org/wiki/高級住宅 "wikilink")[家庭主婦](../Page/家庭主婦.md "wikilink")。「**花花**」是她的[網名](https://zh.wikipedia.org/wiki/網名 "wikilink")。在[魔法少女兼](../Page/魔法少女.md "wikilink")[特攝電影](https://zh.wikipedia.org/wiki/特攝電影 "wikilink")[網站與](../Page/網站.md "wikilink")[網名為](https://zh.wikipedia.org/wiki/網名 "wikilink")「金藤」的[壹原侑子認識](https://zh.wikipedia.org/wiki/×××HOLiC#.E5.A3.B9.E5.8E.9F.E4.BE.91.E5.AD.90 "wikilink")，繼而成為[網友](../Page/網友.md "wikilink")。
+    居住於[銀座](../Page/銀座.md "wikilink")[高級住宅的](https://zh.wikipedia.org/wiki/高級住宅 "wikilink")[家庭主婦](../Page/家庭主婦.md "wikilink")。「**花花**」是她的[網名](https://zh.wikipedia.org/wiki/網名 "wikilink")。在[魔法少女](../Page/魔法少女.md "wikilink")兼[特攝電影](https://zh.wikipedia.org/wiki/特攝電影 "wikilink")[網站](../Page/網站.md "wikilink")與[網名為](https://zh.wikipedia.org/wiki/網名 "wikilink")「金藤」的[壹原侑子認識](https://zh.wikipedia.org/wiki/×××HOLiC#.E5.A3.B9.E5.8E.9F.E4.BE.91.E5.AD.90 "wikilink")，繼而成為[網友](../Page/網友.md "wikilink")。
     透過[網絡感覺到侑子是個的博學多才](https://zh.wikipedia.org/wiki/網絡 "wikilink")，而且值得信任的人，讓她不禁對侑子平添了幾分好感及仰慕。不其然把自己[網絡成癮的問題告知對方](https://zh.wikipedia.org/wiki/網絡成癮症 "wikilink")，希望得到一些有用的建議。之後侑子登門造訪，並對她進行了一番思想引導，最後還用剛買的紅色[球棒把花花家中的](https://zh.wikipedia.org/wiki/球棒 "wikilink")[手提電腦一分為二](https://zh.wikipedia.org/wiki/手提電腦 "wikilink")，問題總算是得已解決，於是便收了她兒子的兒童餐椅作為「代價」。（因為許下的願望是戒掉“那台”電腦，所以侑子破壞[電腦](https://zh.wikipedia.org/wiki/電腦 "wikilink")，但收取兒童餐椅的動作也是提示了“兒童餐椅能再買一張，那麼[電腦也是同理](https://zh.wikipedia.org/wiki/電腦 "wikilink")，可以再買一台”。）
   -
     大學攻讀[民俗學](../Page/民俗學.md "wikilink")，來到四月一日等人就讀高中見習的老師，經常因故發現些特殊的古物。由於偶然路過侑子的店家，見到侑子從倉庫搬出來整理的各項寶物，因而取得裝在銀筒裡的猿猴之手，但侑子特地警告她不能將猿猴之手的封印解開。後因為小葵碰到猿猴之手的封裝盒，導致封印解開，七未不顧警告，開始利用猿猴之手來實踐她的願望，但最後也被猿猴之手的力量反撲，在人間徹底消失。
@@ -153,7 +146,7 @@
   -
     以客人的身分出現於店內的高中女學生。因為家裡經常發生頻繁的怪現象，上門委托侑子讓家裡恢復平靜，接連從侑子手裡取得多數鈴鐺，但最終揭露茅乃才是侑子口裡所說於該棟房屋引起怪現象的「不可駐於此地之人」，被居於該棟房屋的夫妻請來的驅邪師小羽除去。
   -
-    侑子家附近**綠藥局**的工讀生們。由於店長和侑子是老交情，偶而會委託兩人去幫忙辦事，曾從祭典中無人管轄的神社偷得「水仙壺中天」到侑子家。四月一日到他們在的那家店買給侑子的解酒液。另外這2個人也是[CLAMP的另一部作品](../Page/CLAMP.md "wikilink")[迷幻藥局的主角們](https://zh.wikipedia.org/wiki/迷幻藥 "wikilink")。
+    侑子家附近**綠藥局**的工讀生們。由於店長和侑子是老交情，偶而會委託兩人去幫忙辦事，曾從祭典中無人管轄的神社偷得「水仙壺中天」到侑子家。四月一日到他們在的那家店買給侑子的解酒液。另外這2個人也是[CLAMP](../Page/CLAMP.md "wikilink")的另一部作品[迷幻藥局的主角們](https://zh.wikipedia.org/wiki/迷幻藥 "wikilink")。
   -
     溫柔慈祥的老婆婆，與侑子是舊識。只要看過某人一眼，就能大略理解該名對象的成長過程，替人占卜的時候，則會請占卜對象將手放在一座沙盤上的板子上，令沙盤的垂墜在沙盤中畫出影響該對象的因素。後來她讓五月七日小羽寄住籬下，並且教導她占卜術。
   -
@@ -176,11 +169,11 @@
 ### 非人的角色
 
   -
-    四月一日在異空間的[關東煮攤檔遇到](../Page/關東煮.md "wikilink")，一對穿著衣服，懂得用兩隻腳走路的狐狸父子。
+    四月一日在異空間的[關東煮](../Page/關東煮.md "wikilink")攤檔遇到，一對穿著衣服，懂得用兩隻腳走路的狐狸父子。
       -
     <!-- end list -->
       -
-        侑子家附近的[關東煮攤檔老闆](../Page/關東煮.md "wikilink")，牠的關東煮攤只有特定的人或非人才能看見。侑子和摩可拿都相當喜歡這家的食物。
+        侑子家附近的[關東煮](../Page/關東煮.md "wikilink")攤檔老闆，牠的關東煮攤只有特定的人或非人才能看見。侑子和摩可拿都相當喜歡這家的食物。
         四月一日曾誇獎牠煮的油炸豆腐時，狐狸爸爸回應道：「因為是狐狸煮的嘛。」，此句源自日本風俗說法『』。
     <!-- end list -->
       -
@@ -292,7 +285,7 @@
 <!-- end list -->
 
   - [人魚](https://zh.wikipedia.org/wiki/八百比丘尼 "wikilink")
-    又稱八百比丘尼，外觀看似普通少女，因為食用[人魚肉變成長生不老的不死之身](../Page/人魚.md "wikilink")。因其具有非人特質，使她的戀人有所畏懼甚至長期虐待她，後來戀人再也無法忍受她的存在而跳樓自盡，使她過度傷心流出血淚化成紅色珍珠，當女郎蜘蛛透過四月一日收到她的紅色珍珠後又交還給她。目前與女郎蜘蛛同住。
+    又稱八百比丘尼，外觀看似普通少女，因為食用[人魚](../Page/人魚.md "wikilink")肉變成長生不老的不死之身。因其具有非人特質，使她的戀人有所畏懼甚至長期虐待她，後來戀人再也無法忍受她的存在而跳樓自盡，使她過度傷心流出血淚化成紅色珍珠，當女郎蜘蛛透過四月一日收到她的紅色珍珠後又交還給她。目前與女郎蜘蛛同住。
 
 <!-- end list -->
 
@@ -341,7 +334,7 @@
   -
     任何形式的夢，都能被賣夢貘出售與收購，若是某個夢具有相當強大純淨的靈氣，代表這個夢的等級與價值相對較高。擁有法術的人，還能夠進入其他夢境與別人互動。
   -
-    在學生之間流行著的玩意。是由狐狗狸的名字演變而成，也有人會稱之為[邱比特](https://zh.wikipedia.org/wiki/邱比特 "wikilink")，與筆仙﹑[銀仙](https://zh.wikipedia.org/wiki/銀仙 "wikilink")﹑[碟仙等異曲同工](../Page/碟仙.md "wikilink")，是降靈術的一種，中途放手會受到詛咒，招來厄運，所以極俱危險性。一般情況下，外行人是無法召喚的，所以真正能夠召喚它們的次數少之有少。之不過由於大部分學生都會抱有『實在太無聊了』﹑『玩些恐怖點的』﹑『發生些奇怪事也好』等等的想法，因此當真正發生意外時，情況就會隨即變得有趣。
+    在學生之間流行著的玩意。是由狐狗狸的名字演變而成，也有人會稱之為[邱比特](https://zh.wikipedia.org/wiki/邱比特 "wikilink")，與筆仙﹑[銀仙](https://zh.wikipedia.org/wiki/銀仙 "wikilink")﹑[碟仙](../Page/碟仙.md "wikilink")等異曲同工，是降靈術的一種，中途放手會受到詛咒，招來厄運，所以極俱危險性。一般情況下，外行人是無法召喚的，所以真正能夠召喚它們的次數少之有少。之不過由於大部分學生都會抱有『實在太無聊了』﹑『玩些恐怖點的』﹑『發生些奇怪事也好』等等的想法，因此當真正發生意外時，情況就會隨即變得有趣。
   -
     又名「」。在本作中是一支擁有極大靈力的貴重。原本只是一支在比賽使用的普通弓箭，經百目鬼之手所發後，變成能夠保護其持有者免受邪惡侵害的**破邪箭**。
   -
@@ -535,8 +528,7 @@ ISBN 978-4-06-397018-0（限定版）</p></td>
 
 <!-- end list -->
 
-  - TV ANIMATION xxxHOLiC EXTRA OFFICIAL GUIDE：2006年5月17日發售、ISBN
-    978-4-06-372151-5
+  - TV ANIMATION xxxHOLiC EXTRA OFFICIAL GUIDE：2006年5月17日發售、ISBN 978-4-06-372151-5
 
 <!-- end list -->
 
@@ -569,15 +561,13 @@ xxxHOLiC全書：2011年3月17日發售、ISBN 978-4-06-376055-2
 
 ## 電視動畫
 
-自2006年4月到同年9月在[JNN](https://zh.wikipedia.org/wiki/JNN "wikilink")、[BS-i](https://zh.wikipedia.org/wiki/BS-i "wikilink")、Kids
-Station上播放（Kids Station是5月至10月）。
+自2006年4月到同年9月在[JNN](https://zh.wikipedia.org/wiki/JNN "wikilink")、[BS-i](https://zh.wikipedia.org/wiki/BS-i "wikilink")、Kids Station上播放（Kids Station是5月至10月）。
 
 ### 製作人員
 
   - 原作 - [CLAMP](../Page/CLAMP.md "wikilink")
   - 企劃 - 余田光隆、輕部重信、吉岡富夫、坂本直紀、石川光久、安田正樹、藤本清和
-  - 系列構成 -
-    [橫手美智子](https://zh.wikipedia.org/wiki/橫手美智子 "wikilink")、大川緋芭（CLAMP）
+  - 系列構成 - [橫手美智子](https://zh.wikipedia.org/wiki/橫手美智子 "wikilink")、大川緋芭（CLAMP）
   - 劇本 - 橫手美智子、大川緋芭（CLAMP）、平見瞠、櫻井圭記、水島努、谷村大四郎
   - 人物設定 - [黃瀨和哉](../Page/黃瀨和哉.md "wikilink")
   - 小物設計 - 植田實
@@ -586,19 +576,14 @@ Station上播放（Kids Station是5月至10月）。
   - 攝影監督 - 小西庸平
   - 編輯 - 濱宇津妙子（1期）→植松淳一（継）
   - 音響監督 - 若林和弘
-  - 音樂 - [S.E.N.S.
-    Project](https://zh.wikipedia.org/wiki/S.E.N.S. "wikilink")
-  - 音樂製作 - [BMG
-    JAPAN](https://zh.wikipedia.org/wiki/BMG_JAPAN "wikilink")、AUGUSTA
-    RECORDS
+  - 音樂 - [S.E.N.S. Project](https://zh.wikipedia.org/wiki/S.E.N.S. "wikilink")
+  - 音樂製作 - [BMG JAPAN](https://zh.wikipedia.org/wiki/BMG_JAPAN "wikilink")、AUGUSTA RECORDS
   - 製片人 - 中山佳久、岩崎豐明、松下卓也、須藤奈穗美、森下勝司、太布尚弘、鹿野郁子
   - 行政部門製片人 - 大川七瀨
   - 動畫製片人 - 川口徹
   - 監督 - 水島努
   - 動畫制作 - [Production I.G](../Page/Production_I.G.md "wikilink")
-  - 制作協力 - BMG
-    JAPAN、[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")、Kids
-    Station、Production I.G、Movic、PYROTECHNIST
+  - 制作協力 - BMG JAPAN、[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")、Kids Station、Production I.G、Movic、PYROTECHNIST
   - 製作 - TBS・AYAKASHI研究會
 
 ### 與漫畫相異處
@@ -620,16 +605,14 @@ Station上播放（Kids Station是5月至10月）。
 
 :\*「Reason」（第1話 - 第13話、外傳）
 
-:: 作詞 - 高山奈帆子 / 作曲 - 川口潤 / 歌 -
-[Fonogenico](https://zh.wikipedia.org/wiki/Fonogenico "wikilink")
+:: 作詞 - 高山奈帆子 / 作曲 - 川口潤 / 歌 - [Fonogenico](https://zh.wikipedia.org/wiki/Fonogenico "wikilink")
 
 :\*「」（第14話 - 第23話）
 
   -
 
       -
-        作詞 - 櫻井敦司 / 作曲 - 今井壽 / 編曲、歌 -
-        [BUCK-TICK](https://zh.wikipedia.org/wiki/BUCK-TICK "wikilink")
+        作詞 - 櫻井敦司 / 作曲 - 今井壽 / 編曲、歌 - [BUCK-TICK](https://zh.wikipedia.org/wiki/BUCK-TICK "wikilink")
 
 #### 各話標題
 
@@ -888,9 +871,7 @@ Station上播放（Kids Station是5月至10月）。
   -
 
       -
-        作詞 - Naoki Takada\&Ayuse / 作曲 - Naoki
-        Takada,Shintaro"Growth"lzuts\&Ayuse / 歌 -
-        [SEAMO](https://zh.wikipedia.org/wiki/SEAMO "wikilink")
+        作詞 - Naoki Takada\&Ayuse / 作曲 - Naoki Takada,Shintaro"Growth"lzuts\&Ayuse / 歌 - [SEAMO](https://zh.wikipedia.org/wiki/SEAMO "wikilink")
 
 #### 各話標題
 
@@ -1000,8 +981,7 @@ Station上播放（Kids Station是5月至10月）。
   -
 
       -
-        作詞 - AZU+eiliysh / 作曲 - KAZUHIKO MAEDA / 編曲 - TOHRU WATANABE &
-        KAZUHIKO MAEDA / 歌 - AZU
+        作詞 - AZU+eiliysh / 作曲 - KAZUHIKO MAEDA / 編曲 - TOHRU WATANABE & KAZUHIKO MAEDA / 歌 - AZU
 
 ### xxxHOLiC・籠
 
@@ -1106,8 +1086,7 @@ Station上播放（Kids Station是5月至10月）。
 
 ## 小說
 
-**×××HOLiC ANOTHERHOLiC 藍氏Ｃ型視力環**
-[西尾維新老師與CLAMP合作的小說短篇集](../Page/西尾維新.md "wikilink")。第一話於6月24日在文藝雜誌「MOOK」刊載。
+**×××HOLiC ANOTHERHOLiC 藍氏Ｃ型視力環** [西尾維新](../Page/西尾維新.md "wikilink")老師與CLAMP合作的小說短篇集。第一話於6月24日在文藝雜誌「MOOK」刊載。
 
 1.  未染癮者 被改編為TV動畫版第17話「」
 2.  即染癮者
@@ -1128,26 +1107,21 @@ Station上播放（Kids Station是5月至10月）。
 
 ## 遊戲
 
-PlayStation 2 遊戲『**xxxHOLiC
-〜四月一日の十六夜草話〜**』（）。2007年8月9日在日本正式公開發行。12歲以上對象玩家適用。
-{{-}}
+PlayStation 2 遊戲『**xxxHOLiC 〜四月一日の十六夜草話〜**』（）。2007年8月9日在日本正式公開發行。12歲以上對象玩家適用。 {{-}}
 
 ## 電視劇
 
-《**CLAMPドラマ　ホリック
-xxxHOLiC**》是由日本著名創作團體[CLAMP](../Page/CLAMP.md "wikilink")
-的人氣暢銷作品「xxxHOLiC」改編而成的[特攝](https://zh.wikipedia.org/wiki/特攝 "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")。自2013年2月24日開始，於每週星期日23:00-23:30（日本時間）以每集30分鐘的形式，在日本收費頻道[WOWOWオンライン播出](../Page/WOWOW.md "wikilink")。
+《**CLAMPドラマ　ホリック xxxHOLiC**》是由日本著名創作團體[CLAMP](../Page/CLAMP.md "wikilink") 的人氣暢銷作品「xxxHOLiC」改編而成的[特攝](https://zh.wikipedia.org/wiki/特攝 "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")。自2013年2月24日開始，於每週星期日23:00-23:30（日本時間）以每集30分鐘的形式，在日本收費頻道[WOWOW](../Page/WOWOW.md "wikilink")オンライン播出。
 
   -
     首集『縁』加長至45分鐘免費播放；第二集播放時間順延15分鐘，時間為23:15-23:45（日本時間）。全劇共8集，於同年4月14日放映完畢。
-    擔任真人版主角的兩位演員－[杏和](https://zh.wikipedia.org/wiki/杏_\(模特兒\) "wikilink")[東出昌大更於劇集結束後兩年](../Page/東出昌大.md "wikilink")（2015年）正式註冊結婚，成為一時佳話。
+    擔任真人版主角的兩位演員－[杏和](https://zh.wikipedia.org/wiki/杏_\(模特兒\) "wikilink")[東出昌大](../Page/東出昌大.md "wikilink")更於劇集結束後兩年（2015年）正式註冊結婚，成為一時佳話。
 
 ### 飾演者
 
   - 壹原侑子 - [杏](https://zh.wikipedia.org/wiki/杏_\(模特兒\) "wikilink")
 
-  - 四月一日君尋 -
-    [染谷將太](https://zh.wikipedia.org/wiki/染谷將太 "wikilink")（幼少期：小山颯）
+  - 四月一日君尋 - [染谷將太](https://zh.wikipedia.org/wiki/染谷將太 "wikilink")（幼少期：小山颯）
 
   - 百目鬼靜 - [東出昌大](../Page/東出昌大.md "wikilink")
 
@@ -1170,8 +1144,7 @@ xxxHOLiC**》是由日本著名創作團體[CLAMP](../Page/CLAMP.md "wikilink")
   - 原始 - CLAMP“xxxHOLiC”（講談社）
   - 劇本・監督 - 豐島圭介、繼田淳
   - 音樂 - 森野信彥
-  - 主題歌 - [菅止戈男](../Page/菅止戈男.md "wikilink")“**アイタイ**”（[SPEEDSTAR
-    RECORDS](../Page/SPEEDSTAR_RECORDS.md "wikilink")）
+  - 主題歌 - [菅止戈男](../Page/菅止戈男.md "wikilink")“**アイタイ**”（[SPEEDSTAR RECORDS](../Page/SPEEDSTAR_RECORDS.md "wikilink")）
   - 片尾曲 - “**You tell me**”（[日本華納音樂](../Page/日本華納音樂.md "wikilink")）
   - 攝影監督 - （）
   - 助監督 - 井上雄介
@@ -1256,53 +1229,11 @@ xxxHOLiC**》是由日本著名創作團體[CLAMP](../Page/CLAMP.md "wikilink")
 
   - [電視動畫「xxxHOLiC◆継」官方網站](http://www.tbs.co.jp/holic/)
 
-  - [「xxxHOLiC 春夢記」、「TSUBASA 春雷記」
-    OAD官方網站](http://kc.kodansha.co.jp/tsubaholi/)
+  - [「xxxHOLiC 春夢記」、「TSUBASA 春雷記」 OAD官方網站](http://kc.kodansha.co.jp/tsubaholi/)
 
-  - [「xxxHOLiC 〜四月一日的十六夜草話〜」PS2
-    遊戲官方網站](http://www.mmv.co.jp/special/game/ps2/xxxholic/)
+  - [「xxxHOLiC 〜四月一日的十六夜草話〜」PS2 遊戲官方網站](http://www.mmv.co.jp/special/game/ps2/xxxholic/)
 
-[Category:跨媒體製作](https://zh.wikipedia.org/wiki/Category:跨媒體製作 "wikilink")
-[Category:CLAMP](https://zh.wikipedia.org/wiki/Category:CLAMP "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:講談社](https://zh.wikipedia.org/wiki/Category:講談社 "wikilink")
-[Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink")
-[Category:青年漫畫](https://zh.wikipedia.org/wiki/Category:青年漫畫 "wikilink")
-[Category:週刊Young_Magazine](https://zh.wikipedia.org/wiki/Category:週刊Young_Magazine "wikilink")
-[Category:少年漫畫](https://zh.wikipedia.org/wiki/Category:少年漫畫 "wikilink")
-[Category:別冊少年Magazine](https://zh.wikipedia.org/wiki/Category:別冊少年Magazine "wikilink")
-[Category:奇幻漫畫](https://zh.wikipedia.org/wiki/Category:奇幻漫畫 "wikilink")
-[Category:神秘题材作品](https://zh.wikipedia.org/wiki/Category:神秘题材作品 "wikilink")
-[Category:異世界題材作品](https://zh.wikipedia.org/wiki/Category:異世界題材作品 "wikilink")
-[Category:平行世界題材漫畫](https://zh.wikipedia.org/wiki/Category:平行世界題材漫畫 "wikilink")
-[Category:2005年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2005年日本劇場動畫 "wikilink")
-[Category:2006年TBS電視網動畫](https://zh.wikipedia.org/wiki/Category:2006年TBS電視網動畫 "wikilink")
-[Category:2008年TBS電視網動畫](https://zh.wikipedia.org/wiki/Category:2008年TBS電視網動畫 "wikilink")
-[Category:奇幻動畫](https://zh.wikipedia.org/wiki/Category:奇幻動畫 "wikilink")
-[Category:妖怪題材動畫](https://zh.wikipedia.org/wiki/Category:妖怪題材動畫 "wikilink")
-[Category:日本OVA動畫](https://zh.wikipedia.org/wiki/Category:日本OVA動畫 "wikilink")
-[Category:奇幻電子遊戲](https://zh.wikipedia.org/wiki/Category:奇幻電子遊戲 "wikilink")
-[Category:2007年電子遊戲](https://zh.wikipedia.org/wiki/Category:2007年電子遊戲 "wikilink")
-[Category:PlayStation_2遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_2遊戲 "wikilink")
-[Category:漫畫改編電子遊戲](https://zh.wikipedia.org/wiki/Category:漫畫改編電子遊戲 "wikilink")
-[Category:指向與點擊式冒險遊戲](https://zh.wikipedia.org/wiki/Category:指向與點擊式冒險遊戲 "wikilink")
-[Category:僅有單人模式的電子遊戲](https://zh.wikipedia.org/wiki/Category:僅有單人模式的電子遊戲 "wikilink")
-[Category:廣播劇CD](https://zh.wikipedia.org/wiki/Category:廣播劇CD "wikilink")
-[Category:WOWOW電視劇](https://zh.wikipedia.org/wiki/Category:WOWOW電視劇 "wikilink")
-[Category:日本奇幻劇](https://zh.wikipedia.org/wiki/Category:日本奇幻劇 "wikilink")
-[Category:日本奇幻電影](https://zh.wikipedia.org/wiki/Category:日本奇幻電影 "wikilink")
-[Category:2013年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2013年開播的日本電視劇集 "wikilink")
-[Category:日本漫畫改編日本電視劇](https://zh.wikipedia.org/wiki/Category:日本漫畫改編日本電視劇 "wikilink")
-[Category:改编成电影的日本漫画](https://zh.wikipedia.org/wiki/Category:改编成电影的日本漫画 "wikilink")
-[Category:真人動畫電視節目](https://zh.wikipedia.org/wiki/Category:真人動畫電視節目 "wikilink")
-[Category:黑色幽默](https://zh.wikipedia.org/wiki/Category:黑色幽默 "wikilink")
-[Category:驅魔題材作品](https://zh.wikipedia.org/wiki/Category:驅魔題材作品 "wikilink")
-[Category:超能力题材動畫](https://zh.wikipedia.org/wiki/Category:超能力题材動畫 "wikilink")
-[Category:超能力题材漫畫](https://zh.wikipedia.org/wiki/Category:超能力题材漫畫 "wikilink")
-[Category:死後世界背景作品](https://zh.wikipedia.org/wiki/Category:死後世界背景作品 "wikilink")
-[Category:不死生物題材作品](https://zh.wikipedia.org/wiki/Category:不死生物題材作品 "wikilink")
-[Category:民間傳說與童話題材作品](https://zh.wikipedia.org/wiki/Category:民間傳說與童話題材作品 "wikilink")
+[Category:跨媒體製作](https://zh.wikipedia.org/wiki/Category:跨媒體製作 "wikilink") [Category:CLAMP](https://zh.wikipedia.org/wiki/Category:CLAMP "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:講談社](https://zh.wikipedia.org/wiki/Category:講談社 "wikilink") [Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink") [Category:青年漫畫](https://zh.wikipedia.org/wiki/Category:青年漫畫 "wikilink") [Category:週刊Young_Magazine](https://zh.wikipedia.org/wiki/Category:週刊Young_Magazine "wikilink") [Category:少年漫畫](https://zh.wikipedia.org/wiki/Category:少年漫畫 "wikilink") [Category:別冊少年Magazine](https://zh.wikipedia.org/wiki/Category:別冊少年Magazine "wikilink") [Category:奇幻漫畫](https://zh.wikipedia.org/wiki/Category:奇幻漫畫 "wikilink") [Category:神秘题材作品](https://zh.wikipedia.org/wiki/Category:神秘题材作品 "wikilink") [Category:異世界題材作品](https://zh.wikipedia.org/wiki/Category:異世界題材作品 "wikilink") [Category:平行世界題材漫畫](https://zh.wikipedia.org/wiki/Category:平行世界題材漫畫 "wikilink") [Category:2005年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2005年日本劇場動畫 "wikilink") [Category:2006年TBS電視網動畫](https://zh.wikipedia.org/wiki/Category:2006年TBS電視網動畫 "wikilink") [Category:2008年TBS電視網動畫](https://zh.wikipedia.org/wiki/Category:2008年TBS電視網動畫 "wikilink") [Category:奇幻動畫](https://zh.wikipedia.org/wiki/Category:奇幻動畫 "wikilink") [Category:妖怪題材動畫](https://zh.wikipedia.org/wiki/Category:妖怪題材動畫 "wikilink") [Category:日本OVA動畫](https://zh.wikipedia.org/wiki/Category:日本OVA動畫 "wikilink") [Category:奇幻電子遊戲](https://zh.wikipedia.org/wiki/Category:奇幻電子遊戲 "wikilink") [Category:2007年電子遊戲](https://zh.wikipedia.org/wiki/Category:2007年電子遊戲 "wikilink") [Category:PlayStation_2遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_2遊戲 "wikilink") [Category:漫畫改編電子遊戲](https://zh.wikipedia.org/wiki/Category:漫畫改編電子遊戲 "wikilink") [Category:指向與點擊式冒險遊戲](https://zh.wikipedia.org/wiki/Category:指向與點擊式冒險遊戲 "wikilink") [Category:僅有單人模式的電子遊戲](https://zh.wikipedia.org/wiki/Category:僅有單人模式的電子遊戲 "wikilink") [Category:廣播劇CD](https://zh.wikipedia.org/wiki/Category:廣播劇CD "wikilink") [Category:WOWOW電視劇](https://zh.wikipedia.org/wiki/Category:WOWOW電視劇 "wikilink") [Category:日本奇幻劇](https://zh.wikipedia.org/wiki/Category:日本奇幻劇 "wikilink") [Category:日本奇幻電影](https://zh.wikipedia.org/wiki/Category:日本奇幻電影 "wikilink") [Category:2013年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2013年開播的日本電視劇集 "wikilink") [Category:日本漫畫改編日本電視劇](https://zh.wikipedia.org/wiki/Category:日本漫畫改編日本電視劇 "wikilink") [Category:改编成电影的日本漫画](https://zh.wikipedia.org/wiki/Category:改编成电影的日本漫画 "wikilink") [Category:真人動畫電視節目](https://zh.wikipedia.org/wiki/Category:真人動畫電視節目 "wikilink") [Category:黑色幽默](https://zh.wikipedia.org/wiki/Category:黑色幽默 "wikilink") [Category:驅魔題材作品](https://zh.wikipedia.org/wiki/Category:驅魔題材作品 "wikilink") [Category:超能力题材動畫](https://zh.wikipedia.org/wiki/Category:超能力题材動畫 "wikilink") [Category:超能力题材漫畫](https://zh.wikipedia.org/wiki/Category:超能力题材漫畫 "wikilink") [Category:死後世界背景作品](https://zh.wikipedia.org/wiki/Category:死後世界背景作品 "wikilink") [Category:不死生物題材作品](https://zh.wikipedia.org/wiki/Category:不死生物題材作品 "wikilink") [Category:民間傳說與童話題材作品](https://zh.wikipedia.org/wiki/Category:民間傳說與童話題材作品 "wikilink")
 
-1.  《×××HOLiC・戻》第43話、《[TSUBASA翼
-    夢幻之島篇](../Page/TSUBASA翼_夢幻之島篇.md "wikilink")》第11話
+1.  《×××HOLiC・戻》第43話、《[TSUBASA翼 夢幻之島篇](../Page/TSUBASA翼_夢幻之島篇.md "wikilink")》第11話
 2.

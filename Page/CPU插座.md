@@ -1,18 +1,10 @@
-[Socket_775.jpg](https://zh.wikipedia.org/wiki/File:Socket_775.jpg "fig:Socket_775.jpg")插座（圖中為[LGA775](https://zh.wikipedia.org/wiki/LGA775 "wikilink")）\]\]
-[SocketA.jpg](https://zh.wikipedia.org/wiki/File:SocketA.jpg "fig:SocketA.jpg")插座（圖中為[Socket
-462](https://zh.wikipedia.org/wiki/Socket_462 "wikilink")）\]\]
+[Socket_775.jpg](https://zh.wikipedia.org/wiki/File:Socket_775.jpg "fig:Socket_775.jpg")插座（圖中為[LGA775](https://zh.wikipedia.org/wiki/LGA775 "wikilink")）\]\] [SocketA.jpg](https://zh.wikipedia.org/wiki/File:SocketA.jpg "fig:SocketA.jpg")插座（圖中為[Socket 462](https://zh.wikipedia.org/wiki/Socket_462 "wikilink")）\]\]
 
 **CPU插座**，中央处理器插座（）是電腦裡[主機板上固定住](https://zh.wikipedia.org/wiki/主機板 "wikilink")[CPU並導通電氣訊號的一種](https://zh.wikipedia.org/wiki/CPU "wikilink")[插座](https://zh.wikipedia.org/wiki/插座 "wikilink")。
 
 ## 簡介
 
-在CPU插座尚未問世之前，CPU是直接焊在主機板上，因早期電腦不普及、CPU種類較單純，尚不致發生問題。後來因CPU種類開始變得多樣，且[DIY風氣興起](../Page/DIY.md "wikilink")，為便利拆裝更換，CPU插座應運而生。早期使用PGA（[Pin
-Grid
-Array](https://zh.wikipedia.org/wiki/Pin_Grid_Array "wikilink")），即針腳全位於處理器上，安裝時要將處理器的針腳插到插座上，拔取時需使用工具方可拔起，但由於這種方式較易損壞CPU針腳且不好拆裝。後來發展出零插入施力（[ZIF](https://zh.wikipedia.org/wiki/ZIF "wikilink"),
-Zero Insertion
-Force）的CPU插座設計以便安裝。由於CPU接腳數量越多，針腳必須越做越細且密度越高。因此再發展為[LGA](https://zh.wikipedia.org/wiki/LGA "wikilink"),
-（Land Grid
-Array），即針腳改成彈性針腳位於CPU插座上，處理器上僅有接觸點。現在，[Intel的主要的個人電腦處理器是使用LGA](https://zh.wikipedia.org/wiki/Intel "wikilink")，而[AMD仍沿用PGA](https://zh.wikipedia.org/wiki/AMD "wikilink")，僅部份產品改用LGA。
+在CPU插座尚未問世之前，CPU是直接焊在主機板上，因早期電腦不普及、CPU種類較單純，尚不致發生問題。後來因CPU種類開始變得多樣，且[DIY](../Page/DIY.md "wikilink")風氣興起，為便利拆裝更換，CPU插座應運而生。早期使用PGA（[Pin Grid Array](https://zh.wikipedia.org/wiki/Pin_Grid_Array "wikilink")），即針腳全位於處理器上，安裝時要將處理器的針腳插到插座上，拔取時需使用工具方可拔起，但由於這種方式較易損壞CPU針腳且不好拆裝。後來發展出零插入施力（[ZIF](https://zh.wikipedia.org/wiki/ZIF "wikilink"), Zero Insertion Force）的CPU插座設計以便安裝。由於CPU接腳數量越多，針腳必須越做越細且密度越高。因此再發展為[LGA](https://zh.wikipedia.org/wiki/LGA "wikilink"), （Land Grid Array），即針腳改成彈性針腳位於CPU插座上，處理器上僅有接觸點。現在，[Intel的主要的個人電腦處理器是使用LGA](https://zh.wikipedia.org/wiki/Intel "wikilink")，而[AMD仍沿用PGA](https://zh.wikipedia.org/wiki/AMD "wikilink")，僅部份產品改用LGA。
 
 ## 處理器插座和插槽列表
 
@@ -691,7 +683,7 @@ Intel <a href="https://zh.wikipedia.org/wiki/Broadwell" title="wikilink">Broadwe
 <td><p><a href="https://zh.wikipedia.org/wiki/LGA_1151" title="wikilink">LGA 1151</a></p></td>
 <td><p>2015</p></td>
 <td><p>?</p></td>
-<td><p>Intel <a href="../Page/Skylake微架構.md" title="wikilink">Skylake微架構及</a><a href="https://zh.wikipedia.org/wiki/Kaby_Lake" title="wikilink">Kaby Lake微架構</a></p></td>
+<td><p>Intel <a href="../Page/Skylake微架構.md" title="wikilink">Skylake微架構</a>及<a href="https://zh.wikipedia.org/wiki/Kaby_Lake" title="wikilink">Kaby Lake微架構</a></p></td>
 <td><p>Desktop</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Land_grid_array" title="wikilink">LGA</a></p></td>
 <td><p>1151</p></td>
@@ -768,11 +760,9 @@ Intel <a href="https://zh.wikipedia.org/wiki/Broadwell" title="wikilink">Broadwe
 
 ## 外部連結
 
-  - [CPU Sockets
-    Chart](https://web.archive.org/web/20090322202532/http://users.erols.com/chare/sockets.htm)
+  - [CPU Sockets Chart](https://web.archive.org/web/20090322202532/http://users.erols.com/chare/sockets.htm)
   - [Socket ID Guide](http://www.cpushack.net/SocketID.html)
-  - [CPU Sockets Chart](http://pclinks.xtreemhost.com/) - 一個詳盡的x86
-    CPU插座及相關參數的頁面
+  - [CPU Sockets Chart](http://pclinks.xtreemhost.com/) - 一個詳盡的x86 CPU插座及相關參數的頁面
   - [techPowerUp\! CPU Database](http://www.techpowerup.com/cpudb/)
   - [Processor sockets](http://www.cpu-world.com/Sockets/index.html)
   - [超能课堂(7)：闲聊CPU针脚，一年一换都怪AMD不给力？](http://www.expreview.com/42725.html)
@@ -780,8 +770,7 @@ Intel <a href="https://zh.wikipedia.org/wiki/Broadwell" title="wikilink">Broadwe
 
 ## 参见
 
-  - [Intel
-    微處理器列表](https://zh.wikipedia.org/wiki/Intel_微處理器列表 "wikilink")
+  - [Intel 微處理器列表](https://zh.wikipedia.org/wiki/Intel_微處理器列表 "wikilink")
   - [AMD處理器列表](../Page/AMD處理器列表.md "wikilink")
 
 {{-}}

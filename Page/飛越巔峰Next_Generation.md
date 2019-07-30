@@ -1,10 +1,6 @@
-[Gunbusterng.gif](https://zh.wikipedia.org/wiki/File:Gunbusterng.gif "fig:Gunbusterng.gif")
-《**飛越巔峰Next
-Generation**》是延續[OVA動畫](https://zh.wikipedia.org/wiki/OVA "wikilink")[飛越巔峰故事的一系列小說](../Page/飛越巔峰.md "wikilink")。
+[Gunbusterng.gif](https://zh.wikipedia.org/wiki/File:Gunbusterng.gif "fig:Gunbusterng.gif") 《**飛越巔峰Next Generation**》是延續[OVA動畫](https://zh.wikipedia.org/wiki/OVA "wikilink")[飛越巔峰](../Page/飛越巔峰.md "wikilink")故事的一系列小說。
 
-講述Gunbuster未回到地球前地球上發生的事。相關內容也可以視為[飛越巔峰2的前傳](../Page/飛越巔峰2.md "wikilink")。
-
-飛越巔峰也可以被稱為勇往-{}-直前，飛越顛峰，飛躍顛峰和飛躍巔峰。
+講述Gunbuster未回到地球前地球上發生的事。相關內容也可以視為[飛越巔峰2](../Page/飛越巔峰2.md "wikilink")的前傳。
 
 ## 內容概要
 
@@ -12,7 +8,7 @@ Generation**》是延續[OVA動畫](https://zh.wikipedia.org/wiki/OVA "wikilink"
 
 <!-- end list -->
 
-  - 2049-2055年，人類開始離開地球前往[天狼星](../Page/天狼星.md "wikilink")，有人類在發現了[天狼星古代超文明](../Page/天狼星.md "wikilink")。2078年，在[天狼星上](../Page/天狼星.md "wikilink")，人類開始有能力把念力轉化成能量。他們以真地球之名向地球政府宣告獨立。地球政府反對，開始對他們發動戰爭。
+  - 2049-2055年，人類開始離開地球前往[天狼星](../Page/天狼星.md "wikilink")，有人類在發現了[天狼星](../Page/天狼星.md "wikilink")古代超文明。2078年，在[天狼星](../Page/天狼星.md "wikilink")上，人類開始有能力把念力轉化成能量。他們以真地球之名向地球政府宣告獨立。地球政府反對，開始對他們發動戰爭。
 
 <!-- end list -->
 
@@ -34,8 +30,7 @@ Generation**》是延續[OVA動畫](https://zh.wikipedia.org/wiki/OVA "wikilink"
 ## 和飛越巔峰2的關係
 
   -
-    官方沒有指出Next Generation和飛越巔峰2有直接關係，不過Next
-    Generation有把念力轉化成力量的技術，這方面和飛越巔峰2的Topless是屬於相同的元素。
+    官方沒有指出Next Generation和飛越巔峰2有直接關係，不過Next Generation有把念力轉化成力量的技術，這方面和飛越巔峰2的Topless是屬於相同的元素。
 
 ## 參考及相關項目
 
@@ -49,5 +44,4 @@ Generation**》是延續[OVA動畫](https://zh.wikipedia.org/wiki/OVA "wikilink"
   - [Next Generation](http://www.biwa.ne.jp/~buj/next/next.htm)
   - [「トップをねらえ！」年表](http://www.biwa.ne.jp/~buj/top/history/history.htm)
 
-[Category:飞越巅峰](https://zh.wikipedia.org/wiki/Category:飞越巅峰 "wikilink")
-[Category:日本科幻小說](https://zh.wikipedia.org/wiki/Category:日本科幻小說 "wikilink")
+[Category:飞越巅峰](https://zh.wikipedia.org/wiki/Category:飞越巅峰 "wikilink") [Category:日本科幻小說](https://zh.wikipedia.org/wiki/Category:日本科幻小說 "wikilink")

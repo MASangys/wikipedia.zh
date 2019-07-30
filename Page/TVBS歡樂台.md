@@ -2,8 +2,7 @@
 
 ## 歷史
 
-  - 1994年9月12日開播，原名「**TVBS-G
-    黃金娛樂台**」為[TVBS四個家族頻道中](https://zh.wikipedia.org/wiki/TVBS "wikilink")，第二個開播的頻道。
+  - 1994年9月12日開播，原名「**TVBS-G 黃金娛樂台**」為[TVBS四個家族頻道中](https://zh.wikipedia.org/wiki/TVBS "wikilink")，第二個開播的頻道。
   - 2009年6月1日零時更名「**TVBS歡樂台**」，簡稱「**歡樂台**」。
   - 專門播放[音樂](https://zh.wikipedia.org/wiki/音樂 "wikilink")、流行、戲劇、娛樂、體育等精選內容，尤以播放母公司[香港無綫電視（TVB）的](../Page/電視廣播有限公司.md "wikilink")[港劇著名](https://zh.wikipedia.org/wiki/港劇 "wikilink")（SD訊號為國語配音，HD訊號為國粵雙語）。除外購節目也製作不少青春偶像劇。
   - 最早TVBS節目部，在「[八德大樓](../Page/TVBS企業總部.md "wikilink")」內。
@@ -24,7 +23,6 @@
 
   - [TVBS官方網站](http://www.tvbs.com.tw/)
 
-[Category:聯利媒體電視頻道](https://zh.wikipedia.org/wiki/Category:聯利媒體電視頻道 "wikilink")
-[Category:台灣電視播放頻道](https://zh.wikipedia.org/wiki/Category:台灣電視播放頻道 "wikilink")
+[Category:聯利媒體電視頻道](https://zh.wikipedia.org/wiki/Category:聯利媒體電視頻道 "wikilink") [Category:台灣電視播放頻道](https://zh.wikipedia.org/wiki/Category:台灣電視播放頻道 "wikilink")
 
 1.  [TVBS新風貌！　全新logo亮相「新舊媒體融合」](http://news.tvbs.com.tw/news/detail/inter-news/694839).TVBS新聞網.2016-12-21

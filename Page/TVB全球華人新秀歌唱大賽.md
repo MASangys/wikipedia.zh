@@ -2,9 +2,9 @@
 
 1996年，無綫電視把華星唱片售予[南華早報集團後](https://zh.wikipedia.org/wiki/南華早報集團 "wikilink")，於1997年起自行舉辦，並將比賽改革為《**全球華人新秀歌唱大賽**》，從全球各地選拔參賽者參賽。
 
-2004年與[英皇娛樂合作舉辦](../Page/英皇娛樂.md "wikilink")，改稱《**英皇新秀歌唱大賽**》（其實早於2002年，即第21屆起，得獎者改為得到英皇娛樂的歌手合約）。比賽於2005年起改由無綫電視旗下另一頻道[TVB8舉辦後改稱](../Page/TVB8.md "wikilink")《**TVB8全球華人新秀歌唱大賽**》，而香港區選拔賽則續稱《**英皇新秀歌唱大賽**》。
+2004年與[英皇娛樂](../Page/英皇娛樂.md "wikilink")合作舉辦，改稱《**英皇新秀歌唱大賽**》（其實早於2002年，即第21屆起，得獎者改為得到英皇娛樂的歌手合約）。比賽於2005年起改由無綫電視旗下另一頻道[TVB8](../Page/TVB8.md "wikilink")舉辦後改稱《**TVB8全球華人新秀歌唱大賽**》，而香港區選拔賽則續稱《**英皇新秀歌唱大賽**》。
 
-直到2009年[英皇娛樂自行舉辦歌唱大賽後](../Page/英皇娛樂.md "wikilink")，《**英皇新秀歌唱大賽**》跟[無綫電視再無關係](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")。
+直到2009年[英皇娛樂](../Page/英皇娛樂.md "wikilink")自行舉辦歌唱大賽後，《**英皇新秀歌唱大賽**》跟[無綫電視再無關係](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")。
 
 比賽於2010年起再次由無綫電視自行舉辦，改稱《**TVB全球華人新秀歌唱大賽**》，直至於2017年停辦。
 
@@ -30,7 +30,8 @@
 <td style="text-align: center;"><p><a href="../Page/韋綺姍.md" title="wikilink">韋綺姍</a></p></td>
 <td style="text-align: center;"><p>黃汝玲</p></td>
 <td style="text-align: center;"><p>-</p></td>
-<td style="text-align: center;"><p><a href="../Page/胡渭康.md" title="wikilink">胡渭康</a>、<a href="../Page/林利.md" title="wikilink">林利</a>、蔣慶龍、<a href="../Page/溫兆倫.md" title="wikilink">溫兆倫</a>、陳少春、<a href="https://zh.wikipedia.org/wiki/姜蓓莉" title="wikilink">姜蓓莉</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/胡渭康.md" title="wikilink">胡渭康</a>、<a href="../Page/林利.md" title="wikilink">林利</a>、蔣慶龍、<a href="../Page/溫兆倫.md" title="wikilink">溫兆倫</a>、陳少春、<a href="https://zh.wikipedia.org/wiki/姜蓓莉" title="wikilink">姜蓓莉</a><br />
+退賽：<a href="../Page/楊立門.md" title="wikilink">楊立門</a></p></td>
 <td style="text-align: center;"><p>[1]</p></td>
 </tr>
 <tr class="odd">
@@ -50,7 +51,7 @@
 <td style="text-align: center;"><p><a href="../Page/戴蘊慧.md" title="wikilink">戴蘊慧</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/歐陽德勛.md" title="wikilink">歐陽德勛</a></p></td>
 <td style="text-align: center;"><p>最突出台風創新獎：張衛健</p></td>
-<td style="text-align: center;"><p><a href="../Page/江華_(演員).md" title="wikilink">江華</a>、<a href="../Page/羅嘉良.md" title="wikilink">羅嘉良</a>、區耀國、<a href="../Page/陳加玲.md" title="wikilink">陳加玲</a>、<a href="../Page/阮兆祥.md" title="wikilink">阮兆祥</a>、<a href="../Page/Raidas.md" title="wikilink">陳德彰</a>、曹潔敏、周影</p></td>
+<td style="text-align: center;"><p><a href="../Page/江華_(演員).md" title="wikilink">江華</a>、<a href="../Page/羅嘉良.md" title="wikilink">羅嘉良</a>、區耀國、<a href="../Page/陳加玲.md" title="wikilink">陳加玲</a>、<a href="../Page/阮兆祥.md" title="wikilink">阮兆祥</a>、<a href="../Page/Raidas.md" title="wikilink">陳德彰</a>、曹潔敏、<a href="../Page/周影.md" title="wikilink">周影</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
@@ -481,7 +482,7 @@
 金麦克风大奖： 刘维（上海）<br />
 民族龙情大奖： 吴文璟（江苏）<br />
 动人音色大奖： 符琼音（柔佛）<br />
-时尚形象大奖： 周美欣（温哥华）</p></td>
+时尚形象大奖： <a href="../Page/周美欣.md" title="wikilink">周美欣</a>（温哥华）</p></td>
 <td style="text-align: center;"><table>
 <thead>
 <tr class="header">
@@ -500,7 +501,7 @@
 <td><p>男</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/中国" title="wikilink">中国</a><a href="https://zh.wikipedia.org/wiki/江苏" title="wikilink">江苏</a></p></td>
 <td><p>第十一名</p></td>
-<td><p>2005年央视<a href="../Page/梦想中国.md" title="wikilink">梦想中国全国总冠军</a></p></td>
+<td><p>2005年央视<a href="../Page/梦想中国.md" title="wikilink">梦想中国</a>全国总冠军</p></td>
 </tr>
 <tr class="even">
 <td><p>02号</p></td>
@@ -564,7 +565,7 @@
 <td><p>男</p></td>
 <td><p>中国<a href="https://zh.wikipedia.org/wiki/上海" title="wikilink">上海</a></p></td>
 <td><p>冠軍</p></td>
-<td><p>2005年东方卫视<a href="../Page/我型我秀.md" title="wikilink">我型我秀全国总冠军</a></p></td>
+<td><p>2005年东方卫视<a href="../Page/我型我秀.md" title="wikilink">我型我秀</a>全国总冠军</p></td>
 </tr>
 <tr class="even">
 <td><p>10号</p></td>
@@ -749,7 +750,7 @@
 <td><p>男</p></td>
 <td><p>澳大利亚悉尼</p></td>
 <td></td>
-<td><p>2007年参加湖南卫视<a href="../Page/快乐男声.md" title="wikilink">快乐男声获得全国总亚军</a></p></td>
+<td><p>2007年参加湖南卫视<a href="../Page/快乐男声.md" title="wikilink">快乐男声</a>获得全国总亚军</p></td>
 </tr>
 <tr class="odd">
 <td><p>09号</p></td>
@@ -765,7 +766,7 @@
 <td><p>男</p></td>
 <td><p>中国<a href="https://zh.wikipedia.org/wiki/广东" title="wikilink">广东</a></p></td>
 <td></td>
-<td><p>2007年参加东方卫视<a href="../Page/加油好男儿.md" title="wikilink">加油好男儿获得广州亚军</a></p></td>
+<td><p>2007年参加东方卫视<a href="../Page/加油好男儿.md" title="wikilink">加油好男儿</a>获得广州亚军</p></td>
 </tr>
 <tr class="odd">
 <td><p>11号</p></td>
@@ -789,7 +790,7 @@
 <td><p>男</p></td>
 <td><p>中国<a href="https://zh.wikipedia.org/wiki/青海" title="wikilink">青海</a></p></td>
 <td><p>第六名</p></td>
-<td><p>2007年参加江苏卫视<a href="../Page/绝对唱响.md" title="wikilink">绝对唱响获得全国八强</a></p></td>
+<td><p>2007年参加江苏卫视<a href="../Page/绝对唱响.md" title="wikilink">绝对唱响</a>获得全国八强</p></td>
 </tr>
 <tr class="even">
 <td><p>14号</p></td>
@@ -1116,7 +1117,7 @@
 <td><p>女</p></td>
 <td><p><a href="../Page/马来西亚.md" title="wikilink">马来西亚</a><a href="../Page/柔佛.md" title="wikilink">柔佛</a></p></td>
 <td><p>殿军</p></td>
-<td><p>2009年马来西亚<a href="../Page/Astro新秀大赛.md" title="wikilink">Astro新秀大赛冠军</a></p></td>
+<td><p>2009年马来西亚<a href="../Page/Astro新秀大赛.md" title="wikilink">Astro新秀大赛</a>冠军</p></td>
 </tr>
 <tr class="even">
 <td><p>02号</p></td>
@@ -1172,7 +1173,7 @@
 <td><p>女</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/中国" title="wikilink">中国</a><a href="https://zh.wikipedia.org/wiki/北京" title="wikilink">北京</a></p></td>
 <td><p>季军</p></td>
-<td><p>2006年央视<a href="../Page/梦想中国.md" title="wikilink">梦想中国全国女子殿军</a></p></td>
+<td><p>2006年央视<a href="../Page/梦想中国.md" title="wikilink">梦想中国</a>全国女子殿军</p></td>
 </tr>
 <tr class="odd">
 <td><p>09号</p></td>
@@ -1204,7 +1205,7 @@
 <td><p>女</p></td>
 <td><p><a href="../Page/马来西亚.md" title="wikilink">马来西亚</a><a href="../Page/彭亨.md" title="wikilink">彭亨</a></p></td>
 <td><p>冠军</p></td>
-<td><p>2009年马来西亚<a href="../Page/Astro新秀大赛.md" title="wikilink">Astro新秀大赛季军</a></p></td>
+<td><p>2009年马来西亚<a href="../Page/Astro新秀大赛.md" title="wikilink">Astro新秀大赛</a>季军</p></td>
 </tr>
 <tr class="odd">
 <td><p>13号</p></td>
@@ -1228,7 +1229,7 @@
 <td><p>男</p></td>
 <td><p><a href="../Page/马来西亚.md" title="wikilink">马来西亚</a><a href="https://zh.wikipedia.org/wiki/霹雳州" title="wikilink">霹雳州</a></p></td>
 <td><p>第六名</p></td>
-<td><p>2009年马来西亚<a href="../Page/Astro新秀大赛.md" title="wikilink">Astro新秀大赛亚军</a></p></td>
+<td><p>2009年马来西亚<a href="../Page/Astro新秀大赛.md" title="wikilink">Astro新秀大赛</a>亚军</p></td>
 </tr>
 <tr class="even">
 <td><p>16号</p></td>
@@ -1256,8 +1257,7 @@
 
 ### TVB全球華人新秀歌唱大賽（2010-2016）
 
-改由[無綫電視自行舉辦](../Page/電視廣播有限公司.md "wikilink")
-（香港代表會從《[超級巨聲](../Page/超級巨聲.md "wikilink")》的參賽者當中挑選），與[英皇娛樂主辦](../Page/英皇娛樂.md "wikilink")「英皇新秀歌唱大賽」不同。
+改由[無綫電視自行舉辦](../Page/電視廣播有限公司.md "wikilink") （香港代表會從《[超級巨聲](../Page/超級巨聲.md "wikilink")》的參賽者當中挑選），與[英皇娛樂](../Page/英皇娛樂.md "wikilink")主辦「英皇新秀歌唱大賽」不同。
 
 <table>
 <tbody>
@@ -1845,7 +1845,7 @@
 <td><p>男</p></td>
 <td><p><a href="../Page/澳大利亚.md" title="wikilink">澳大利亚</a><a href="../Page/墨尔本.md" title="wikilink">墨尔本</a></p></td>
 <td></td>
-<td><p>2010年<a href="../Page/快乐男声.md" title="wikilink">快乐男声澳洲赛区亚军</a></p></td>
+<td><p>2010年<a href="../Page/快乐男声.md" title="wikilink">快乐男声</a>澳洲赛区亚军</p></td>
 </tr>
 <tr class="odd">
 <td><p>03号</p></td>
@@ -1861,8 +1861,8 @@
 <td><p>女</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/中国" title="wikilink">中国</a><a href="https://zh.wikipedia.org/wiki/四川" title="wikilink">四川</a></p></td>
 <td><p>殿军</p></td>
-<td><p><a href="../Page/2004年超级女声.md" title="wikilink">2004年超级女声成都赛区</a>20强<br />
-<a href="../Page/2005年超级女声.md" title="wikilink">2005年超级女声成都赛区</a>50强</p></td>
+<td><p><a href="../Page/2004年超级女声.md" title="wikilink">2004年超级女声</a>成都赛区20强<br />
+<a href="../Page/2005年超级女声.md" title="wikilink">2005年超级女声</a>成都赛区50强</p></td>
 </tr>
 <tr class="odd">
 <td><p>05号</p></td>
@@ -1910,7 +1910,7 @@
 <td><p>女</p></td>
 <td><p><a href="../Page/马来西亚.md" title="wikilink">马来西亚</a><a href="../Page/槟城.md" title="wikilink">槟城</a></p></td>
 <td></td>
-<td><p>2012年马来西亚<a href="../Page/Astro新秀大赛.md" title="wikilink">Astro新秀大赛季军</a></p></td>
+<td><p>2012年马来西亚<a href="../Page/Astro新秀大赛.md" title="wikilink">Astro新秀大赛</a>季军</p></td>
 </tr>
 <tr class="odd">
 <td><p>11号</p></td>
@@ -1983,7 +1983,7 @@
 <td><p>男</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/中国" title="wikilink">中国</a><a href="https://zh.wikipedia.org/wiki/四川" title="wikilink">四川</a></p></td>
 <td><p>亚军</p></td>
-<td><p>2013年<a href="../Page/快乐男声.md" title="wikilink">快乐男声成都</a>60强</p></td>
+<td><p>2013年<a href="../Page/快乐男声.md" title="wikilink">快乐男声</a>成都60强</p></td>
 </tr>
 <tr class="even">
 <td><p>04号</p></td>
@@ -1991,7 +1991,7 @@
 <td><p>女</p></td>
 <td><p><a href="../Page/马来西亚.md" title="wikilink">马来西亚</a><a href="../Page/吉隆坡.md" title="wikilink">吉隆坡</a></p></td>
 <td><p>第五名</p></td>
-<td><p>2013年马来西亚<a href="../Page/Astro新秀大赛.md" title="wikilink">Astro新秀大赛殿军</a><br />
+<td><p>2013年马来西亚<a href="../Page/Astro新秀大赛.md" title="wikilink">Astro新秀大赛</a>殿军<br />
 2014年参加<a href="../Page/中国梦之声_(第二季).md" title="wikilink">中国梦之声 (第二季)</a></p></td>
 </tr>
 <tr class="odd">
@@ -2040,7 +2040,7 @@
 <td><p>男</p></td>
 <td><p><a href="../Page/马来西亚.md" title="wikilink">马来西亚</a><a href="../Page/槟城.md" title="wikilink">槟城</a></p></td>
 <td><p>第七名</p></td>
-<td><p>2013年马来西亚<a href="../Page/Astro新秀大赛.md" title="wikilink">Astro新秀大赛季军</a></p></td>
+<td><p>2013年马来西亚<a href="../Page/Astro新秀大赛.md" title="wikilink">Astro新秀大赛</a>季军</p></td>
 </tr>
 <tr class="odd">
 <td><p>11号</p></td>
@@ -2526,8 +2526,7 @@
 
 ## 外部連結
 
-  - [回憶總是亞勳的 - 新秀歌唱大賽篇（蒸發實錄 1982
-    - 1997）](http://miho0311.blogspot.com/2007/07/1982-1997.html)
+  - [回憶總是亞勳的 - 新秀歌唱大賽篇（蒸發實錄 1982 - 1997）](http://miho0311.blogspot.com/2007/07/1982-1997.html)
   - [TVB全球華人新秀歌唱大賽2010](http://programme.tvb.com/music/icnt2010/)
   - [TVB全球華人新秀歌唱大賽2011](http://programme.tvb.com/music/icnt2011/)
   - [TVB全球華人新秀歌唱大賽2012](http://programme.tvb.com/music/icnt2012/)
@@ -2536,11 +2535,7 @@
   - [TVB全球華人新秀歌唱大賽2015](http://programme.tvb.com/music/icnt2015/)
   - [TVB全球華人新秀歌唱大賽2016](http://programme.tvb.com/music/internationalchinesenewtalentsingingchampionship2016/)
 
-[Category:香港音樂](https://zh.wikipedia.org/wiki/Category:香港音樂 "wikilink")
-[Category:無綫電視音樂節目](https://zh.wikipedia.org/wiki/Category:無綫電視音樂節目 "wikilink")
-[Category:無綫電視特備節目](https://zh.wikipedia.org/wiki/Category:無綫電視特備節目 "wikilink")
-[Category:演藝選拔節目](https://zh.wikipedia.org/wiki/Category:演藝選拔節目 "wikilink")
-[Category:歌唱比賽](https://zh.wikipedia.org/wiki/Category:歌唱比賽 "wikilink")
+[Category:香港音樂](https://zh.wikipedia.org/wiki/Category:香港音樂 "wikilink") [Category:無綫電視音樂節目](https://zh.wikipedia.org/wiki/Category:無綫電視音樂節目 "wikilink") [Category:無綫電視特備節目](https://zh.wikipedia.org/wiki/Category:無綫電視特備節目 "wikilink") [Category:演藝選拔節目](https://zh.wikipedia.org/wiki/Category:演藝選拔節目 "wikilink") [Category:歌唱比賽](https://zh.wikipedia.org/wiki/Category:歌唱比賽 "wikilink")
 
 1.
 
@@ -2566,4 +2561,4 @@
 
 16.
 
-17. 本屆由[超級巨聲的參賽者作為香港區代表](../Page/超級巨聲.md "wikilink")。
+17. 本屆由[超級巨聲](../Page/超級巨聲.md "wikilink")的參賽者作為香港區代表。

@@ -1,4 +1,4 @@
-《**陀槍師姐III**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司製作的時裝警匪](../Page/電視廣播有限公司.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，全劇共32集，監製[鄺業生](../Page/鄺業生.md "wikilink")。此劇為《[陀槍師姐](https://zh.wikipedia.org/wiki/陀槍師姐_\(電視劇\) "wikilink")》系列第3輯。
+《**陀槍師姐III**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")製作的時裝警匪[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，全劇共32集，監製[鄺業生](../Page/鄺業生.md "wikilink")。此劇為《[陀槍師姐](https://zh.wikipedia.org/wiki/陀槍師姐_\(電視劇\) "wikilink")》系列第3輯。
 
 ## 演員表
 
@@ -943,17 +943,11 @@ Rambo、了哥、黃玉基之老大<br />
 
 ## 外部連結
 
-  - [無綫電視官方網頁 -
-    陀槍師姐III](https://web.archive.org/web/20081231201348/http://tvcity.tvb.com/drama/armed3/story/index.html)
-  - [《陀槍師姐III》 GOTV
-    第1集重溫](https://web.archive.org/web/20140222162347/http://gotv.tvb.com/programme/102367/149262/)
+  - [無綫電視官方網頁 - 陀槍師姐III](https://web.archive.org/web/20081231201348/http://tvcity.tvb.com/drama/armed3/story/index.html)
+  - [《陀槍師姐III》 GOTV 第1集重溫](https://web.archive.org/web/20140222162347/http://gotv.tvb.com/programme/102367/149262/)
 
 ## 電視節目的變遷
 
 [分類:香港交通部題材作品](https://zh.wikipedia.org/wiki/分類:香港交通部題材作品 "wikilink")
 
-[Category:2001年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:2001年無綫電視劇集 "wikilink")
-[Category:陀槍師姐系列](https://zh.wikipedia.org/wiki/Category:陀槍師姐系列 "wikilink")
-[Category:無綫電視2000年代背景劇集](https://zh.wikipedia.org/wiki/Category:無綫電視2000年代背景劇集 "wikilink")
-[Category:電視劇續集](https://zh.wikipedia.org/wiki/Category:電視劇續集 "wikilink")
-[Category:多重人格題材電視劇](https://zh.wikipedia.org/wiki/Category:多重人格題材電視劇 "wikilink")
+[Category:2001年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:2001年無綫電視劇集 "wikilink") [Category:陀槍師姐系列](https://zh.wikipedia.org/wiki/Category:陀槍師姐系列 "wikilink") [Category:無綫電視2000年代背景劇集](https://zh.wikipedia.org/wiki/Category:無綫電視2000年代背景劇集 "wikilink") [Category:電視劇續集](https://zh.wikipedia.org/wiki/Category:電視劇續集 "wikilink") [Category:多重人格題材電視劇](https://zh.wikipedia.org/wiki/Category:多重人格題材電視劇 "wikilink")

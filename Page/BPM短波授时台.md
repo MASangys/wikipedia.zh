@@ -1,8 +1,6 @@
-**BPM短波授时台**是[中华人民共和国的国家短波](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")[授时台](https://zh.wikipedia.org/wiki/授时 "wikilink")，位于[陕西省](../Page/陕西省.md "wikilink")[蒲城县](../Page/蒲城县.md "wikilink")[临潼区东北约](../Page/临潼区.md "wikilink")70千米处，隶属[中国科学院](../Page/中国科学院.md "wikilink")[陕西天文台](https://zh.wikipedia.org/wiki/陕西天文台 "wikilink")\[1\]。一并广播的还有100
-kHz [BPL长波授时台](https://zh.wikipedia.org/wiki/BPL长波授时台 "wikilink")。
+**BPM短波授时台**是[中华人民共和国的国家短波](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")[授时台](https://zh.wikipedia.org/wiki/授时 "wikilink")，位于[陕西省](../Page/陕西省.md "wikilink")[蒲城县](../Page/蒲城县.md "wikilink")[临潼区](../Page/临潼区.md "wikilink")东北约70千米处，隶属[中国科学院](../Page/中国科学院.md "wikilink")[陕西天文台](https://zh.wikipedia.org/wiki/陕西天文台 "wikilink")\[1\]。一并广播的还有100 kHz [BPL长波授时台](https://zh.wikipedia.org/wiki/BPL长波授时台 "wikilink")。
 
-它于1987年7月1日开始广播，
-BPM以与美國[WWV和](https://zh.wikipedia.org/wiki/WWV_\(无线电台\) "wikilink")[WWVH授时台相同的](https://zh.wikipedia.org/wiki/WWVH "wikilink")2.5、5、10和15[兆赫频率广播](https://zh.wikipedia.org/wiki/兆赫 "wikilink")，时刻表如下：\[2\]
+它于1987年7月1日开始广播， BPM以与美國[WWV和](https://zh.wikipedia.org/wiki/WWV_\(无线电台\) "wikilink")[WWVH授时台相同的](https://zh.wikipedia.org/wiki/WWVH "wikilink")2.5、5、10和15[兆赫频率广播](https://zh.wikipedia.org/wiki/兆赫 "wikilink")，时刻表如下：\[2\]
 
 | MHz | [UTC](https://zh.wikipedia.org/wiki/UTC "wikilink") | [CST](https://zh.wikipedia.org/wiki/中国标准时间 "wikilink") |
 | --- | --------------------------------------------------- | ------------------------------------------------------ |
@@ -34,9 +32,7 @@ BPM的特点在于它于25分和29分及55分和59分之间发送[UT1时间信�
   - [国家授时中心](http://english.ntsc.cas.cn)
   - [短波授时台](https://web.archive.org/web/20150410130817/http://www.time.ac.cn/center/222.html)，中国科学院国家授时中心
 
-[Category:中國時間](https://zh.wikipedia.org/wiki/Category:中國時間 "wikilink")
-[Category:时码发播台](https://zh.wikipedia.org/wiki/Category:时码发播台 "wikilink")
-[Category:蒲城县](https://zh.wikipedia.org/wiki/Category:蒲城县 "wikilink")
+[Category:中國時間](https://zh.wikipedia.org/wiki/Category:中國時間 "wikilink") [Category:时码发播台](https://zh.wikipedia.org/wiki/Category:时码发播台 "wikilink") [Category:蒲城县](https://zh.wikipedia.org/wiki/Category:蒲城县 "wikilink")
 
 1.
 

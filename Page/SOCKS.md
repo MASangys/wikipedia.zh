@@ -1,11 +1,10 @@
 **SOCKS**是一种[网络传输协议](../Page/网络传输协议.md "wikilink")，主要用于客户端与外网服务器之间通讯的中间传递。SOCKS是"SOCKetS"的[缩写](https://zh.wikipedia.org/wiki/缩写 "wikilink")。
 
-当[防火墙后的客户端要访问外部的服务器时](https://zh.wikipedia.org/wiki/防火墙_\(网络\) "wikilink")，就跟SOCKS[代理服务器连接](../Page/代理服务器.md "wikilink")。这个代理服务器控制客户端访问外网的资格，允许的话，就将客户端的请求发往外部的服务器。
+当[防火墙后的客户端要访问外部的服务器时](https://zh.wikipedia.org/wiki/防火墙_\(网络\) "wikilink")，就跟SOCKS[代理服务器](../Page/代理服务器.md "wikilink")连接。这个代理服务器控制客户端访问外网的资格，允许的话，就将客户端的请求发往外部的服务器。
 
-这个协议最初由David Koblas开发，而后由NEC的Ying-Da
-Lee将其扩展到版本4。最新协议是版本5，与前一版本相比，增加支持[UDP](../Page/用户数据报协议.md "wikilink")、验证，以及[IPv6](../Page/IPv6.md "wikilink")。
+这个协议最初由David Koblas开发，而后由NEC的Ying-Da Lee将其扩展到版本4。最新协议是版本5，与前一版本相比，增加支持[UDP](../Page/用户数据报协议.md "wikilink")、验证，以及[IPv6](../Page/IPv6.md "wikilink")。
 
-根据[OSI模型](../Page/OSI模型.md "wikilink")，SOCKS是[会话层的协议](../Page/会话层.md "wikilink")，位于[表示层与](https://zh.wikipedia.org/wiki/表示层 "wikilink")[传输层之间](../Page/传输层.md "wikilink")。
+根据[OSI模型](../Page/OSI模型.md "wikilink")，SOCKS是[会话层](../Page/会话层.md "wikilink")的协议，位于[表示层与](https://zh.wikipedia.org/wiki/表示层 "wikilink")[传输层](../Page/传输层.md "wikilink")之间。
 
 ## 与HTTP代理的对比
 
@@ -64,7 +63,7 @@ Bill希望从Jane的Web服务器下载一个网页。Bill不能直接连接到Ja
 
 **SOCKS 4A**是SOCKS 4协议的简单扩展，允许客户端对无法解析的目的主机，进行自行规定。
 
-客户端对DSTIP的头三个字节设定为NULL，最后一个字节为非零；对应的IP地址就是0.0.0.x，其中x是非零，这当然不可能是目的主机的地址，这样即使客户端可以解析域名，对此也不会发生冲突。USERID以紧跟的NULL字节作结尾，客户端必须发送目的主机的域名，并以另一个NULL字节作结尾。CONNECT和[BIND请求的时候](../Page/BIND.md "wikilink")，都要按照这种格式（以字节为单位）：
+客户端对DSTIP的头三个字节设定为NULL，最后一个字节为非零；对应的IP地址就是0.0.0.x，其中x是非零，这当然不可能是目的主机的地址，这样即使客户端可以解析域名，对此也不会发生冲突。USERID以紧跟的NULL字节作结尾，客户端必须发送目的主机的域名，并以另一个NULL字节作结尾。CONNECT和[BIND](../Page/BIND.md "wikilink")请求的时候，都要按照这种格式（以字节为单位）：
 
 |    |    |         |               |          |      |          |      |
 | -- | -- | ------- | ------------- | -------- | ---- | -------- | ---- |
@@ -209,8 +208,7 @@ SOCKS5请求格式（以字节为单位）：
 
   - Dante Socks Server，http://www.inet.no/dante
   - Java Socks Server，http://jsocks.sourceforge.net
-  - Socks4
-    Server，https://archive.is/20130502024508/http://www.alhem.net/project/socks4
+  - Socks4 Server，https://archive.is/20130502024508/http://www.alhem.net/project/socks4
   - SS5 Socks Server，http://ss5.sourceforge.net
   - TcpToute2，https://github.com/GameXG/TcpRoute2
 
@@ -238,8 +236,7 @@ SOCKS5请求格式（以字节为单位）：
 
 ## 参见
 
-  - [SOCKS 4A](https://zh.wikipedia.org/wiki/SOCKS_4A "wikilink") -
-    SOCKS协议4A版
+  - [SOCKS 4A](https://zh.wikipedia.org/wiki/SOCKS_4A "wikilink") - SOCKS协议4A版
   - [SocksCap](https://zh.wikipedia.org/wiki/SocksCap "wikilink")
 
 ## 外部链接
@@ -248,18 +245,11 @@ SOCKS5请求格式（以字节为单位）：
   - RFC 1961 - GSS-API Authentication Method for SOCKS Version 5
   - RFC 1929 - Username/Password Authentication for SOCKS V5
   - RFC 1928 - SOCKS Protocol Version 5
-  - Ying-Da Lee，[SOCKS 4A: A Simple Extension to SOCKS 4
-    Protocol](https://web.archive.org/web/20070311092531/http://public.www.planetmirror.com/pub/smartftp/RFC/socks4a.protocol)（SOCKS
-    4A：SOCKS 4协议的一个简单扩展）
-  - Michel Arboi，[Vulnerability - Too long hostname kills the SOCKS4A
-    server](http://www.nessus.org/plugins/index.php?view=single&id=11126)（易受攻击性：域名过长导致SOCKS4A服务器死机）
-  - [SOCKS: A protocol for TCP proxy across firewalls, SOCKS Protocol
-    Version 4
-    (NEC)](http://ftp.icm.edu.pl/packages/socks/socks4/SOCKS4.protocol)
-    SOCKS:一个用于穿越防火墙的TCP代理协议，SOCKS协议版本4（NEC）
+  - Ying-Da Lee，[SOCKS 4A: A Simple Extension to SOCKS 4 Protocol](https://web.archive.org/web/20070311092531/http://public.www.planetmirror.com/pub/smartftp/RFC/socks4a.protocol)（SOCKS 4A：SOCKS 4协议的一个简单扩展）
+  - Michel Arboi，[Vulnerability - Too long hostname kills the SOCKS4A server](http://www.nessus.org/plugins/index.php?view=single&id=11126)（易受攻击性：域名过长导致SOCKS4A服务器死机）
+  - [SOCKS: A protocol for TCP proxy across firewalls, SOCKS Protocol Version 4 (NEC)](http://ftp.icm.edu.pl/packages/socks/socks4/SOCKS4.protocol) SOCKS:一个用于穿越防火墙的TCP代理协议，SOCKS协议版本4（NEC）
   - [Socks5协议中文文档](http://blog.csdn.net/testcs_dn/article/details/7915505)
 
-[Category:网际协议](https://zh.wikipedia.org/wiki/Category:网际协议 "wikilink")
-[Category:网络隐私](https://zh.wikipedia.org/wiki/Category:网络隐私 "wikilink")
+[Category:网际协议](https://zh.wikipedia.org/wiki/Category:网际协议 "wikilink") [Category:网络隐私](https://zh.wikipedia.org/wiki/Category:网络隐私 "wikilink")
 
 1.

@@ -1,5 +1,4 @@
-《**TENNIS
-Magazine**》是一本每月發行的[網球](https://zh.wikipedia.org/wiki/網球 "wikilink")[雜誌](https://zh.wikipedia.org/wiki/雜誌 "wikilink")，介紹世界上最重要的網球[新聞](https://zh.wikipedia.org/wiki/新聞 "wikilink")。
+《**TENNIS Magazine**》是一本每月發行的[網球](https://zh.wikipedia.org/wiki/網球 "wikilink")[雜誌](https://zh.wikipedia.org/wiki/雜誌 "wikilink")，介紹世界上最重要的網球[新聞](https://zh.wikipedia.org/wiki/新聞 "wikilink")。
 
 ## 網球史上最偉大的40位球員
 
@@ -23,10 +22,10 @@ Magazine**》是一本每月發行的[網球](https://zh.wikipedia.org/wiki/網�
 | 12\. | [安德烈·阿加西](../Page/安德烈·阿加西.md "wikilink")\*                              | 美国                                                           |
 | 13\. | [莫尼卡·塞莱斯](https://zh.wikipedia.org/wiki/莫尼卡·塞莱斯 "wikilink")\*           | [南斯拉夫](https://zh.wikipedia.org/wiki/南斯拉夫 "wikilink")／美国     |
 | 14\. | [斯特凡·埃德博格](https://zh.wikipedia.org/wiki/斯特凡·埃德博格 "wikilink")           | 瑞典                                                           |
-| 15\. | [马茨·维兰德](../Page/马茨·维兰德.md "wikilink")                                  | 瑞典                                                           |
+| 15\. | [马茨·韋兰德](https://zh.wikipedia.org/wiki/马茨·韋兰德 "wikilink")               | 瑞典                                                           |
 | 16\. | [约翰·纽康姆](https://zh.wikipedia.org/wiki/紐康姆 "wikilink")                  | 澳大利亚                                                         |
 | 17\. | [塞莱娜·威廉姆斯](https://zh.wikipedia.org/wiki/塞莱娜·威廉姆斯 "wikilink")\*         | 美国                                                           |
-| 18\. | [鲍里斯·贝克尔](../Page/鲍里斯·贝克尔.md "wikilink")                                | 德国                                                           |
+| 18\. | [鲍里斯·贝克](https://zh.wikipedia.org/wiki/鲍里斯·贝克 "wikilink")               | 德国                                                           |
 | 19\. | [罗杰·费德勒](../Page/罗杰·费德勒.md "wikilink")\*                                | [瑞士](https://zh.wikipedia.org/wiki/瑞士 "wikilink")            |
 | 20\. | [肯·罗斯威尔](https://zh.wikipedia.org/wiki/肯·罗斯威尔 "wikilink")               | 澳大利亚                                                         |
 | 21\. | [罗伊·爱默森](https://zh.wikipedia.org/wiki/罗伊·爱默森 "wikilink")               | 澳大利亚                                                         |
@@ -55,5 +54,4 @@ Magazine**》是一本每月發行的[網球](https://zh.wikipedia.org/wiki/網�
   - [Official website](http://www.tennis.com/)
   - [中文《网球》杂志](http://www.taimo.cn/category-225.html)
 
-[Category:網球](https://zh.wikipedia.org/wiki/Category:網球 "wikilink")
-[Category:月刊](https://zh.wikipedia.org/wiki/Category:月刊 "wikilink")
+[Category:網球](https://zh.wikipedia.org/wiki/Category:網球 "wikilink") [Category:月刊](https://zh.wikipedia.org/wiki/Category:月刊 "wikilink")

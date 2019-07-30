@@ -8,7 +8,4 @@
   - **[杰瑞·罗斯](https://zh.wikipedia.org/wiki/杰瑞·罗斯 "wikilink")**（，曾执行、、、、、以及任务），任务专家
   - **[威廉·谢泼德](https://zh.wikipedia.org/wiki/威廉·谢泼德 "wikilink")**（，曾执行、、、、以及任务），任务专家
 
-[Category:1988年佛罗里达州](https://zh.wikipedia.org/wiki/Category:1988年佛罗里达州 "wikilink")
-[Category:1988年科學](https://zh.wikipedia.org/wiki/Category:1988年科學 "wikilink")
-[Category:亚特兰蒂斯号航天飞机任务](https://zh.wikipedia.org/wiki/Category:亚特兰蒂斯号航天飞机任务 "wikilink")
-[Category:1988年12月](https://zh.wikipedia.org/wiki/Category:1988年12月 "wikilink")
+[Category:1988年佛罗里达州](https://zh.wikipedia.org/wiki/Category:1988年佛罗里达州 "wikilink") [Category:1988年科學](https://zh.wikipedia.org/wiki/Category:1988年科學 "wikilink") [Category:亚特兰蒂斯号航天飞机任务](https://zh.wikipedia.org/wiki/Category:亚特兰蒂斯号航天飞机任务 "wikilink") [Category:1988年12月](https://zh.wikipedia.org/wiki/Category:1988年12月 "wikilink")

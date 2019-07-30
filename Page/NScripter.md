@@ -1,13 +1,10 @@
-**NScripter**，簡稱**NS**，是一款由[高橋直樹所開發用於製作](https://zh.wikipedia.org/wiki/高橋直樹_\(剧本作家\) "wikilink")[視覺小說或](https://zh.wikipedia.org/wiki/視覺小說 "wikilink")[美少女遊戲的引擎](../Page/美少女遊戲.md "wikilink")。作業系統為[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。**N**取自作者名字中的「直樹」（平假名：なおき
-罗马字：Naoki）。同出自於高橋之手的**Scripter3**是它的前身。
+**NScripter**，簡稱**NS**，是一款由[高橋直樹所開發用於製作](https://zh.wikipedia.org/wiki/高橋直樹_\(剧本作家\) "wikilink")[視覺小說或](https://zh.wikipedia.org/wiki/視覺小說 "wikilink")[美少女遊戲](../Page/美少女遊戲.md "wikilink")的引擎。作業系統為[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。**N**取自作者名字中的「直樹」（平假名：なおき 罗马字：Naoki）。同出自於高橋之手的**Scripter3**是它的前身。
 
 ## 簡介
 
-開發者可利用所謂的[中間語言來撰寫遊戲的代碼](../Page/中間語言.md "wikilink")。由於NScripter上手容易，執行速度快，擴充性也不錯，廣泛受到[同人遊戲製作群的歡迎](../Page/同人遊戲.md "wikilink")。引擎程式碼本身雖然為非公開，但是在非商業用途下是屬於免費軟體。
+開發者可利用所謂的[中間語言](../Page/中間語言.md "wikilink")來撰寫遊戲的代碼。由於NScripter上手容易，執行速度快，擴充性也不錯，廣泛受到[同人遊戲](../Page/同人遊戲.md "wikilink")製作群的歡迎。引擎程式碼本身雖然為非公開，但是在非商業用途下是屬於免費軟體。
 
-NScripter本身只支援Windows，不過相容度極高非官方的[ONScripter可支援跨平台的需求](https://zh.wikipedia.org/wiki/ONScripter "wikilink")。相似的遊戲引擎還有W.Dee氏所開發的[吉里吉里以及](../Page/吉里吉里.md "wikilink")
-Alicesoft
-的[System4.0](https://zh.wikipedia.org/wiki/System4.0 "wikilink")。
+NScripter本身只支援Windows，不過相容度極高非官方的[ONScripter可支援跨平台的需求](https://zh.wikipedia.org/wiki/ONScripter "wikilink")。相似的遊戲引擎還有W.Dee氏所開發的[吉里吉里](../Page/吉里吉里.md "wikilink")以及 Alicesoft 的[System4.0](https://zh.wikipedia.org/wiki/System4.0 "wikilink")。
 
 目前流傳的中文版並無官方授權，乃由玩家自行改版產生。
 
@@ -21,11 +18,11 @@ Alicesoft
   - [Princess Holiday](../Page/Princess_Holiday.md "wikilink")（オーガスト）
   - [みずいろ](https://zh.wikipedia.org/wiki/みずいろ "wikilink")（ねこねこソフト）
   - [お姉ちゃんの3乗](https://zh.wikipedia.org/wiki/お姉ちゃんの3乗 "wikilink")（[Marron](https://zh.wikipedia.org/wiki/Marron "wikilink")）
-  - [妳是主人我是僕君が主で執事が俺で](../Page/妳是主人我是僕.md "wikilink")（[みなとそふと](https://zh.wikipedia.org/wiki/みなとそふと "wikilink")）
+  - [妳是主人我是僕](../Page/妳是主人我是僕.md "wikilink")君が主で執事が俺で（[みなとそふと](https://zh.wikipedia.org/wiki/みなとそふと "wikilink")）
 
 ### 同人作品
 
-  - [暮蟬悲鳴時系列](../Page/暮蟬悲鳴時.md "wikilink")（[07thExpansion](https://zh.wikipedia.org/wiki/07thExpansion "wikilink")）
+  - [暮蟬悲鳴時](../Page/暮蟬悲鳴時.md "wikilink")系列（[07thExpansion](https://zh.wikipedia.org/wiki/07thExpansion "wikilink")）
   - [海貓悲鳴時](../Page/海貓悲鳴時.md "wikilink")（[07thExpansion](https://zh.wikipedia.org/wiki/07thExpansion "wikilink")）
   - [月姫](../Page/月姬.md "wikilink")（[TYPE-MOON](../Page/TYPE-MOON.md "wikilink")）
   - [OneWayLove〜ミントちゃん物語](https://zh.wikipedia.org/wiki/OneWayLove〜ミントちゃん物語 "wikilink")（[王宮魔法劇団](https://zh.wikipedia.org/wiki/王宮魔法劇団 "wikilink")）
@@ -56,11 +53,8 @@ Alicesoft
 
 ## 外部链接
 
-  - [Takahashi's
-    Web](http://www.nscripter.com/)（[過去的站點](http://www2.osk.3web.ne.jp/~naokikun/)），作者高橋直樹的主页
+  - [Takahashi's Web](http://www.nscripter.com/)（[過去的站點](http://www2.osk.3web.ne.jp/~naokikun/)），作者高橋直樹的主页
 
-  - [ONScripter](http://onscripter.sourceforge.jp/onscripter.html) -
-    一個可執行NScripter語法的跨平台程式
+  - [ONScripter](http://onscripter.sourceforge.jp/onscripter.html) - 一個可執行NScripter語法的跨平台程式
 
-[Category:遊戲引擎](https://zh.wikipedia.org/wiki/Category:遊戲引擎 "wikilink")
-[Category:遊戲製作軟件](https://zh.wikipedia.org/wiki/Category:遊戲製作軟件 "wikilink")
+[Category:遊戲引擎](https://zh.wikipedia.org/wiki/Category:遊戲引擎 "wikilink") [Category:遊戲製作軟件](https://zh.wikipedia.org/wiki/Category:遊戲製作軟件 "wikilink")

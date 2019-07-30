@@ -1,32 +1,63 @@
-是由韓國RHAON開發\[1\]，[SmileGate發行的網路競速遊戲](https://zh.wikipedia.org/wiki/SmileGate "wikilink")，遊戲以跑這種競賽方式為特色吸引玩家，由於其童話風格及多樣化地圖，在各地很受好評。此為免費遊戲，官方不收取玩家費用，玩家可購買此遊戲的收費產品。2016年，[SmileGate宣布與開發商RHAON續約十年](https://zh.wikipedia.org/wiki/SmileGate "wikilink")，並且將共同開發遊戲續作《TalesRunner
-2》\[2\]。
+是由韓國RHAON開發\[1\]，[SmileGate發行的網路競速遊戲](https://zh.wikipedia.org/wiki/SmileGate "wikilink")，遊戲以跑這種競賽方式為特色吸引玩家，由於其童話風格及多樣化地圖，在各地很受好評。此為免費遊戲，官方不收取玩家費用，玩家可購買此遊戲的收費產品。2016年，[SmileGate宣布與開發商RHAON續約十年](https://zh.wikipedia.org/wiki/SmileGate "wikilink")，並且將共同開發遊戲續作《TalesRunner 2》\[2\]。
 
-## 伺服器訊息
+## 現存伺服器
 
-| 国家／地区                                                         | 官方译名                               | 代理商                                                                                                               | 时间           | 備註                                                                                                                                                      |
-| :------------------------------------------------------------ | :--------------------------------- | :---------------------------------------------------------------------------------------------------------------- | :----------- | :------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")             | 테일즈런너                              | [NOWCOM](../Page/NOWCOM.md "wikilink")→[SmileGate](https://zh.wikipedia.org/wiki/SmileGate "wikilink")            | 2005年\~      | 因[AfreecaTV專心營運旗下項目](../Page/AfreecaTV.md "wikilink")，因此將遊戲代理權出售，[SmileGate於](https://zh.wikipedia.org/wiki/SmileGate "wikilink")2014年12月 購入代理權並且成為新代理商 |
-| [台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")             | 新衝天跑                               | [戲谷](../Page/戲谷.md "wikilink")                                                                                    | 2006年\~      | 1.因合約到期而在於2015年將新衝天跑合併至香港伺服器 2.當前已合併至香港伺服器                                                                                                              |
-| [香港](../Page/香港.md "wikilink")/[澳門](../Page/澳門.md "wikilink") | \-{zh-hk:跑Online ; zh-tw:跑Online}- | [戲谷](../Page/戲谷.md "wikilink")                                                                                    | 2006年\~      | 港,澳,台於同一伺服器                                                                                                                                             |
-| [中國大陸](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")         | 超級跑跑                               | [盛大網絡](https://zh.wikipedia.org/wiki/盛大網絡 "wikilink")→[QIQU遊戲](https://zh.wikipedia.org/wiki/QIQU遊戲 "wikilink")   | 2007年\~2017年 | 因為QIQU遊戲代理營運效益不佳韓方原廠收回代理權限                                                                                                                              |
-| [泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")             | TalesRunner TH                     | [TOT](https://zh.wikipedia.org/wiki/TOT "wikilink")→[Asiasoft](https://zh.wikipedia.org/wiki/Asiasoft "wikilink") | 2008年\~      | 因為TOT在2016年的時候對於TalesRunner TH的代理合約已到期，所以將由Asiasoft獲得TalesRunner TH代理合約                                                                                 |
-|                                                               |                                    |                                                                                                                   |              |                                                                                                                                                         |
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: left;"><p>国家／地区</p></th>
+<th style="text-align: left;"><p>官方译名</p></th>
+<th style="text-align: left;"><p>代理商</p></th>
+<th style="text-align: left;"><p>时间</p></th>
+<th style="text-align: left;"><p>備註</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"></td>
+<td style="text-align: left;"><p>테일즈런너</p></td>
+<td style="text-align: left;"><p><a href="../Page/NOWCOM.md" title="wikilink">NOWCOM</a> → <a href="https://zh.wikipedia.org/wiki/SmileGate" title="wikilink">SmileGate</a></p></td>
+<td style="text-align: left;"><p>2005年～</p></td>
+<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/SmileGate" title="wikilink">SmileGate於</a>2014年12月購入代理權並且成為新代理商</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><p><br />
+<br />
+</p></td>
+<td style="text-align: left;"><p>-{zh-hk:跑Online ; zh-tw:跑Online}-</p></td>
+<td style="text-align: left;"><p><a href="../Page/戲谷.md" title="wikilink">戲谷</a>（香港）</p></td>
+<td style="text-align: left;"><p>2006年～</p></td>
+<td style="text-align: left;"><p>港澳台同一伺服器</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"></td>
+<td style="text-align: left;"><p>เทลส์รันเนอร์</p></td>
+<td style="text-align: left;"><p>TOT → Asiasoft</p></td>
+<td style="text-align: left;"><p>2008年～</p></td>
+<td style="text-align: left;"><p>TOT的代理合約在2016年到期，由Asiasoft獲得新的代理合約</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+</tbody>
+</table>
 
 ## 故事
 
 整個遊戲的意念設定是將現實世界中小孩所幻想的童話王國實體化。
 
-現實中不存在的童話王國，一直以童話國國民的[夢想以及](https://zh.wikipedia.org/wiki/夢想 "wikilink")[希望作為能量](https://zh.wikipedia.org/wiki/希望 "wikilink")，並創造出以[童話故事的美景點綴而成的人間樂土](https://zh.wikipedia.org/wiki/童話故事 "wikilink")。但因為童話國的國民不再擁有夢想與希望，令童話王國面臨重大危機，若這片土地失去原動力，現實世界的夢想與希望也會隨之而永久消失，童話王國的國王
--
-亨利三世，為了改變現狀，決定舉辦一次以「賽跑」為題的比賽，讓參賽者能夠在比賽的過程裡，重拾早已被遺忘的童心，故此，國民都稱呼此次比賽的跑手為「童話跑者」(Tales
-Runner)。
+現實中不存在的童話王國，一直以童話國國民的[夢想以及](https://zh.wikipedia.org/wiki/夢想 "wikilink")[希望作為能量](https://zh.wikipedia.org/wiki/希望 "wikilink")，並創造出以[童話故事的美景點綴而成的人間樂土](https://zh.wikipedia.org/wiki/童話故事 "wikilink")。但因為童話國的國民不再擁有夢想與希望，令童話王國面臨重大危機，若這片土地失去原動力，現實世界的夢想與希望也會隨之而永久消失，童話王國的國王 - 亨利三世，為了改變現狀，決定舉辦一次以「賽跑」為題的比賽，讓參賽者能夠在比賽的過程裡，重拾早已被遺忘的童心，故此，國民都稱呼此次比賽的跑手為「童話跑者」(Tales Runner)。
 
 ## 遊戲人物
 
 本遊戲有不同的[遊戲角色供玩家們選擇及使用](https://zh.wikipedia.org/wiki/遊戲角色 "wikilink")。每個角色各有不同能力、配音，可在不同場地發揮各自的長處，亦可配以裝備及服飾以加強角色實力。
 
   - 基本能力值為最高速度、加速度、力量及控制，一些角色更具備特殊能力，例如額外憤怒時間、防止被踩機率等等。
-  - 遊戲另設星級角色，多數為[明星及](https://zh.wikipedia.org/wiki/明星 "wikilink")[動漫角色](../Page/動漫.md "wikilink")。另外，遊戲中也設有**變身角色**，可以讓遊戲原創角色變成其他角色。
+  - 遊戲另設星級角色，多數為[明星及](https://zh.wikipedia.org/wiki/明星 "wikilink")[動漫](../Page/動漫.md "wikilink")角色。另外，遊戲中也設有**變身角色**，可以讓遊戲原創角色變成其他角色。
 
 ### 原創角色
 
@@ -35,7 +66,7 @@ Runner)。
 | 光光                                    | Chowon       | 초원      | 3    | 3   | 3  | 3  |
 | 明明                                    | Mingming     | 밍밍      | 3    | 3   | 2  | 4  |
 | 莉娜                                    | Lina         | 리나      | 1    | 6   | 2  | 5  |
-| \-{zh-tw: 大隻仔; zh-hk: 大隻仔; zh-cn:大熊}- | BigBo        | 빅보      | 5    | 2   | 6  | 1  |
+| \-{zh-tw: 大隻仔; zh-hk: 大隻仔; zh-cn:大熊}- | Bigbo        | 빅보      | 5    | 2   | 6  | 1  |
 | 蒂蒂                                    | DnD          | DnD     | 4    | 2   | 3  | 3  |
 | 納魯西斯                                  | Narucis      | 나르시스    | 6    | 1   | 3  | 4  |
 | 琪琪                                    | Maki         | 마키      | 2    | 5   | 1  | 6  |
@@ -54,7 +85,7 @@ Runner)。
 | \-{zh-tw: 小櫻; zh-hk: 小櫻; zh-cn:美狐}-   | Miho         | 미호      | 5    | 6   | 2  | 1  |
 | R                                     | R            | 알       | 6    | 1   | 6  | 1  |
 | \-{zh-tw: 夏郎; zh-hk: 夏郞}-             | Harang       | 하랑      | 4    | 4   | 4  | 2  |
-| \-{zh-tw: *未公布*; zh-hk: *未公布*}-       | Lala         | 라라      | 5    | 2   | 4  | 3  |
+| \-{zh-tw: LaLa; zh-hk: LaLa}-         | Lala         | 라라      | 5    | 2   | 4  | 3  |
 
 ### 版本獨家角色
 
@@ -106,7 +137,7 @@ Runner)。
 
 ### 動漫角色
 
-  - [守護甜心！角色](../Page/守護甜心！.md "wikilink")
+  - [守護甜心！](../Page/守護甜心！.md "wikilink")角色
   - 已於2016年下架。
 
 | 角色名稱(中) | 角色名稱(英) | 角色名稱(韓) | 最高速度 | 加速度 | 力量 | 控制 |
@@ -114,7 +145,7 @@ Runner)。
 | 亞夢      |         |         |      |     |    |    |
 |         |         |         |      |     |    |    |
 
-  - [Keroro軍曹角色](../Page/Keroro軍曹.md "wikilink")
+  - [Keroro軍曹](../Page/Keroro軍曹.md "wikilink")角色
   - 已於2016年下架。
 
 | 角色名稱(中) | 角色名稱(英) | 角色名稱(韓) | 最高速度 | 加速度 | 力量 | 控制 |
@@ -262,7 +293,7 @@ Runner)。
 
 ## 發行
 
-  - [日本地區曾兩度推出遊戲](../Page/日本.md "wikilink")《テイルズランナー》、《テイルズランド》，其後因各問題，伺服器相繼終止營運。
+  - [日本](../Page/日本.md "wikilink")地區曾兩度推出遊戲《テイルズランナー》、《テイルズランド》，其後因各問題，伺服器相繼終止營運。
 
 <!-- end list -->
 
@@ -270,12 +301,11 @@ Runner)。
 
 <!-- end list -->
 
-  - 韓代理商[NOWCOM於](../Page/NOWCOM.md "wikilink")2012年重奪北美區代理權，重開遊戲並且定位為[全球版](https://zh.wikipedia.org/wiki/全球 "wikilink")，但之後因部分原因而關閉[全球版伺服器](https://zh.wikipedia.org/wiki/全球 "wikilink")。
+  - 韓代理商[NOWCOM](../Page/NOWCOM.md "wikilink")於2012年重奪北美區代理權，重開遊戲並且定位為[全球版](https://zh.wikipedia.org/wiki/全球 "wikilink")，但之後因部分原因而關閉[全球版伺服器](https://zh.wikipedia.org/wiki/全球 "wikilink")。
 
 <!-- end list -->
 
-  - 新加坡Winner Online《TalesRunner
-    SGP》於2015年3月18日結束在新加坡的營運，伺服器、官方網站、討論區、專頁同步下線。
+  - 新加坡Winner Online《TalesRunner SGP》於2015年3月18日結束在新加坡的營運，伺服器、官方網站、討論區、專頁同步下線。
 
 <!-- end list -->
 
@@ -283,9 +313,7 @@ Runner)。
 
 <!-- end list -->
 
-  - 台灣戲谷《-{zh-tw: 新衝天跑; zh-hk: 新衝天跑; zh-cn: 新衝天跑;}-
-    》因合約到期，於2015年終止營運，台灣玩家獲安排轉移至香港《-{zh-hk:跑Online
-    ; zh-tw:跑Online}-》繼續遊玩，
+  - 台灣戲谷《-{zh-tw: 新衝天跑; zh-hk: 新衝天跑; zh-cn: 新衝天跑;}- 》因合約到期，於2015年終止營運，台灣玩家獲安排轉移至香港《-{zh-hk:跑Online ; zh-tw:跑Online}-》繼續遊玩，
     同時，香港《-{zh-hk:跑Online ; zh-tw:跑Online}-》開始兼任TR於台灣的營運服務。
 
 <!-- end list -->
@@ -306,58 +334,65 @@ Runner)。
 
 ## 官方軼事及爭議
 
-  - 2012年，[AfreecaTV以](../Page/AfreecaTV.md "wikilink")70億韓元收購開發商RHAON
-    20%股份，並在新平台上推出本遊戲\[3\]。
+  - 2012年，[AfreecaTV](../Page/AfreecaTV.md "wikilink")以70億韓元收購開發商RHAON 20%股份，並在新平台上推出本遊戲\[3\]。
   - 2012年6月 開發小組更換
-  - 2012年8月
-    韓國開發小組([AfreecaTV](../Page/AfreecaTV.md "wikilink"))推出「System」更新
-    進行地圖改版 引發玩家不滿
-  - 2013年3月 [NOWCOM正式改名為AfreecaTV](../Page/NOWCOM.md "wikilink")\[4\]。
-  - 2014年12月
-    [SmileGate以](https://zh.wikipedia.org/wiki/SmileGate "wikilink")30億韓元購入代理權
-    成為新的全球發行商。
+  - 2012年8月 韓國開發小組([AfreecaTV](../Page/AfreecaTV.md "wikilink"))推出「System」更新 進行地圖改版 引發玩家不滿
+  - 2013年3月 [NOWCOM](../Page/NOWCOM.md "wikilink")正式改名為AfreecaTV\[4\]。
+  - 2014年12月 [SmileGate以](https://zh.wikipedia.org/wiki/SmileGate "wikilink")30億韓元購入代理權 成為新的全球發行商。
   - 2015年10月 韓版更改Logo為純韓文圖標
   - 2016年 香港版本因應10週年活動而在香港地區舉辦現場電競比賽。
   - 2016年 中國大陸超級跑跑的伺服器將「仙之樹林」及「天使之翼」分流伺服器進行合併，並且將伺服器名稱重新更名為「幻想天使」。
-  - 2017年9月
-    網上傳出中國大陸超級跑跑將會與香港地區的跑Online合併，引起玩家不滿，事後並沒有真的轉移資料，而是將資料移至官方私服《奔跑吧》，不久後仍宣布結束營運
+  - 2017年9月 網上傳出中國大陸超級跑跑將會與香港地區的跑Online合併，引起玩家不滿，事後並沒有真的轉移資料，而是將資料移至官方私服《奔跑吧》，不久後仍宣布結束營運
   - 2018年4月韓國nopp網域轉移至onstove，並由原先的官網啟動遊戲整合至SmileGate自家的Stove平台啟動
   - 2018年6月官方宣布正式展開第二季並於7月修改登入動畫及重塑官網
 
 ## 合作代言
 
-  - 2005年
-    [디앤디프로젝트成為遊戲代言人](https://zh.wikipedia.org/wiki/디앤디프로젝트 "wikilink")，並成為一般角色蒂蒂(DnD)。\[5\]。
+  - 2005年 [디앤디프로젝트成為遊戲代言人](https://zh.wikipedia.org/wiki/디앤디프로젝트 "wikilink")，並成為一般角色蒂蒂(DnD)。\[5\]。
   - 2009年11月 [KARA成為代言人](https://zh.wikipedia.org/wiki/KARA "wikilink")。
   - 2012年7月 [Miss A成為代言人](../Page/Miss_A.md "wikilink")。
-  - 2012年7月 與電視節目[Running Man合作](../Page/Running_Man.md "wikilink")
-    推出「Running Man」頻道。
-  - 2012年暑假 《RUSH》更新中
-    男子團體[2PM角色原本在更新計劃之內](https://zh.wikipedia.org/wiki/2PM "wikilink")。
+  - 2012年7月 與電視節目[Running Man合作](../Page/Running_Man.md "wikilink") 推出「Running Man」頻道。
+  - 2012年暑假 《RUSH》更新中 男子團體[2PM角色原本在更新計劃之內](https://zh.wikipedia.org/wiki/2PM "wikilink")。
   - 2015年1月 [Block B成為民選](../Page/Block_B.md "wikilink")2015代言團體。
-  - 2015年7月 [B1A4加入代言行列](../Page/B1A4.md "wikilink")。
-  - 2015年9月 公佈與[YG娛樂合作](../Page/YG娛樂.md "wikilink")，共同慶祝營運十週年。
-  - 2015年9月
-    [樂童音樂家加入代言行列](https://zh.wikipedia.org/wiki/樂童音樂家 "wikilink")。
+  - 2015年7月 [B1A4](../Page/B1A4.md "wikilink")加入代言行列。
+  - 2015年9月 公佈與[YG娛樂](../Page/YG娛樂.md "wikilink")合作，共同慶祝營運十週年。
+  - 2015年9月 [樂童音樂家加入代言行列](https://zh.wikipedia.org/wiki/樂童音樂家 "wikilink")。
   - 2015年11月 柳炳宰、安英美加入代言行列。
-  - 2015年11月
-    [iKON加入代言行列](https://zh.wikipedia.org/wiki/iKON "wikilink")。
-  - 2015年11月 韓版舉行10週年線下派對，[Girl's
-    Day加入代言行列](../Page/Girl's_Day.md "wikilink")。
-  - 2016年2月 [GFRIEND加入代言行列](../Page/GFRIEND.md "wikilink")。
-  - 2016年6月 與[防彈少年團合作](../Page/防彈少年團.md "wikilink")，6月15日公開11週年紀念活動。
-  - 2016年9月
-    與韓劇[步步驚心：麗合作](https://zh.wikipedia.org/wiki/步步驚心：麗 "wikilink")，並公開4種角色寵物。
-  - 2016年12月
-    與[SEVENTEEN合作](https://zh.wikipedia.org/wiki/SEVENTEEN "wikilink")，推出了Hip-Hop
-    Team,Vocal Team和Performance Team的角色寵物。
+  - 2015年11月 [iKON加入代言行列](https://zh.wikipedia.org/wiki/iKON "wikilink")。
+  - 2015年11月 韓版舉行10週年線下派對，[Girl's Day加入代言行列](../Page/Girl's_Day.md "wikilink")。
+  - 2016年2月 [GFRIEND](../Page/GFRIEND.md "wikilink")加入代言行列。
+  - 2016年6月 與[防彈少年團](../Page/防彈少年團.md "wikilink")合作，6月15日公開11週年紀念活動。
+  - 2016年9月 與韓劇[步步驚心：麗合作](https://zh.wikipedia.org/wiki/步步驚心：麗 "wikilink")，並公開4種角色寵物。
+  - 2016年12月 與[SEVENTEEN合作](https://zh.wikipedia.org/wiki/SEVENTEEN "wikilink")，推出了Hip-Hop Team,Vocal Team和Performance Team的角色寵物。
   - 2017年 與[ASTRO合作](https://zh.wikipedia.org/wiki/ASTRO "wikilink")。
-  - 2017年12月
-    [鄭彩娟拍攝廣告並成為代言人](https://zh.wikipedia.org/wiki/鄭彩娟 "wikilink")\[6\]。
-  - 2018年7月
-    [路雲拍攝廣告並cosplay遊戲角色Harang](https://zh.wikipedia.org/wiki/路雲 "wikilink")。
+  - 2017年12月 [鄭彩娟拍攝廣告並成為代言人](https://zh.wikipedia.org/wiki/鄭彩娟 "wikilink")\[6\]。
+  - 2018年7月 [路雲拍攝廣告並cosplay遊戲角色Harang](https://zh.wikipedia.org/wiki/路雲 "wikilink")。
 
 ## 主題曲
+
+###
+
+  - 2006年︰ [DnD](https://zh.wikipedia.org/wiki/DnD "wikilink") - 非常非常美麗和夢幻的王國（韓語︰매우매우아름답고환상적인나라）
+  - 2007年︰ Knuckle Joe - Tales Runner
+  - 2007年︰ Lee Hoo - Heavenly Love
+  - 2018年︰ [DIA](https://zh.wikipedia.org/wiki/DIA "wikilink") 彩娟×主恩 - 非常非常美麗和夢幻的王國（韓語︰정채연X주은 of DIA - 매우매우아름답고환상적인나라）
+  - 2018年︰ LaLa - 成為風 （[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink"): 라라 - 바람이 되어）
+  - 2018年︰ LaLa - Dear My Friend （[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink"): 라라 - Dear My Friend）
+  - 2019年︰ LaLa - LALLA （[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink"): 라라 - LALLA）
+
+###
+
+  - 2007年︰ [鄧麗欣](../Page/鄧麗欣.md "wikilink") - Fantasy Tale
+  - 2008年︰ [張敬軒](https://zh.wikipedia.org/wiki/張敬軒 "wikilink") - 雪花抄
+  - 2010年︰ [野仔](https://zh.wikipedia.org/wiki/野仔 "wikilink") - 繼續向前
+  - 2011年︰ [糖兄妹](../Page/糖兄妹.md "wikilink") - 跑出天際
+  - 2012年︰ [王梓軒](../Page/王梓軒.md "wikilink") - 魅影世紀
+  - 2013年︰ [曾翠如](https://zh.wikipedia.org/wiki/曾翠如 "wikilink") - 跑足全程\[7\]
+  - 2019年︰ LaLa ([樂瞳](https://zh.wikipedia.org/wiki/樂瞳 "wikilink") 飾) - Fantasy Tale (yr. 2019)\[8\]
+
+###
+
+  - [城市俊傑](https://zh.wikipedia.org/wiki/城市俊傑 "wikilink") - Tales Runner
 
 ## 關聯產品
 
@@ -534,29 +569,19 @@ Android</p></td>
 
 ## 官方網站
 
-  - 韓國TalesRunner(테일즈런너)[官方網站](http://tr.nopp.co.kr/)(封鎖外來IP位址)
-  - 香港TalesRunner(-{zh-hk:跑Online ;
-    zh-tw:跑Online}-)[官方網站](http://www.talesrunner.com.hk/)(台灣與香港已合併)
-  - 中國大陸TalesRunner（超級跑跑）(並未與香港合併)
-  - 北美洲TalesRunner(TalesRunner
-    NA)[官方網站](http://tr.ogplanet.com/)(封鎖外來IP位址)
+  - 韓國《테일즈런너》[官方網站](http://tr.nopp.co.kr/)(封鎖外來IP位址)
+  - 香港《-{zh-hk:跑Online ; zh-tw:跑Online}-》[官方網站](http://www.talesrunner.com.hk/)
+  - 泰國《เทลส์รันเนอร์》[官方網站](https://talesrunner.playpark.com/th-th/)
 
 ## 参考资料
 
-[Category:2005年电子游戏](https://zh.wikipedia.org/wiki/Category:2005年电子游戏 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:多人線上競速遊戲](https://zh.wikipedia.org/wiki/Category:多人線上競速遊戲 "wikilink")
-[Category:卡通渲染风格电子游戏](https://zh.wikipedia.org/wiki/Category:卡通渲染风格电子游戏 "wikilink")
-[Category:韩国开发电子游戏](https://zh.wikipedia.org/wiki/Category:韩国开发电子游戏 "wikilink")
-[Category:盛趣遊戲](https://zh.wikipedia.org/wiki/Category:盛趣遊戲 "wikilink")
+[Category:2005年电子游戏](https://zh.wikipedia.org/wiki/Category:2005年电子游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:多人線上競速遊戲](https://zh.wikipedia.org/wiki/Category:多人線上競速遊戲 "wikilink") [Category:卡通渲染风格电子游戏](https://zh.wikipedia.org/wiki/Category:卡通渲染风格电子游戏 "wikilink") [Category:韩国开发电子游戏](https://zh.wikipedia.org/wiki/Category:韩国开发电子游戏 "wikilink") [Category:盛趣遊戲](https://zh.wikipedia.org/wiki/Category:盛趣遊戲 "wikilink")
 
 1.  [RHAON Talesrunner頁面](http://www.rhaon.co.kr/games/talesrunner.php)
-2.  [韓服“超級跑跑”續約10年2代後續作開發中](http://ol.tgbus.com/news/newgame/hr/201603/13780549.shtml)，著名人如Leo
-    Chen 亦表示喜愛玩
+2.  [韓服“超級跑跑”續約10年2代後續作開發中](http://ol.tgbus.com/news/newgame/hr/201603/13780549.shtml)
 3.  [韓服《超級跑跑》運營商收購開發商20%股份(2012-12-13 17173新聞中心)](http://news.17173.com/content/2012-12-13/20121213142329754.shtml)
-4.  [나우콤, '아프리카 TV'로 회사명 변경
-    추진](http://www.thisisgame.com/webzine/news/nboard/4/?n=42171)
-5.  [DnD Project(디앤디프로젝트) 테일즈런너를 아직도 즐겨하세요? 그렇다면
-    기억하실거에요\!](https://www.youtube.com/watch?v=_GDmEhHbLMw)
-6.  [오,나의 기사님\! 겨울방학 업데이트 홍보영상 (with
-    정채연)](https://www.youtube.com/watch?v=Mvclis6d18k)
+4.  [나우콤, '아프리카 TV'로 회사명 변경 추진](http://www.thisisgame.com/webzine/news/nboard/4/?n=42171)
+5.  [DnD Project(디앤디프로젝트) 테일즈런너를 아직도 즐겨하세요? 그렇다면 기억하실거에요\!](https://www.youtube.com/watch?v=_GDmEhHbLMw)
+6.  [오,나의 기사님\! 겨울방학 업데이트 홍보영상 (with 정채연)](https://www.youtube.com/watch?v=Mvclis6d18k)
+7.
+8.

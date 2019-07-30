@@ -1,18 +1,16 @@
-《**烈火雄心II**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司製作的時裝](../Page/電視廣播有限公司.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，全劇共35集，由[王喜](https://zh.wikipedia.org/wiki/王喜 "wikilink")、[方中信](../Page/方中信.md "wikilink")、[張可頤](https://zh.wikipedia.org/wiki/張可頤 "wikilink")、[蒙嘉慧](../Page/蒙嘉慧.md "wikilink")、[歐錦棠及](../Page/歐錦棠.md "wikilink")[文頌嫻領銜主演](../Page/文頌嫻.md "wikilink")，由[陳慧珊](../Page/陳慧珊.md "wikilink")、[宣萱特別演出](../Page/宣萱.md "wikilink")，並由[鄭嘉穎聯合主演](../Page/鄭嘉穎.md "wikilink")，監製[王心慰](../Page/王心慰.md "wikilink")。此劇為《[烈火雄心](https://zh.wikipedia.org/wiki/烈火雄心 "wikilink")》系列作，但在劇情上與上輯完全沒有關連。
+《**烈火雄心II**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")製作的時裝[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，全劇共35集，由[王喜](https://zh.wikipedia.org/wiki/王喜 "wikilink")、[方中信](../Page/方中信.md "wikilink")、[張可頤](https://zh.wikipedia.org/wiki/張可頤 "wikilink")、[蒙嘉慧](../Page/蒙嘉慧.md "wikilink")、[陳慧珊](../Page/陳慧珊.md "wikilink")、[歐錦棠](../Page/歐錦棠.md "wikilink")及[文頌嫻](../Page/文頌嫻.md "wikilink")領銜主演，由[鄭嘉穎](../Page/鄭嘉穎.md "wikilink")、[元華](../Page/元華.md "wikilink")、[蔣志光](../Page/蔣志光.md "wikilink")、[蔡子健](../Page/蔡子健.md "wikilink")、[成珈瑩](../Page/成珈瑩.md "wikilink")及[唐寧聯合主演](../Page/唐寧_\(香港\).md "wikilink")，並由[宣萱](../Page/宣萱.md "wikilink")特別演出，監製[王心慰](../Page/王心慰.md "wikilink")。此劇為《[烈火雄心](https://zh.wikipedia.org/wiki/烈火雄心 "wikilink")》系列作，但在劇情上與上輯完全沒有關連。
 
 ## 劇情大綱
 
 紀德田（[王喜飾](https://zh.wikipedia.org/wiki/王喜 "wikilink")）加入消防員多年，也不曾升職，表面上，消防員對紀德田來說，只是一份工作，平日的紀德田，凡事不認真，常愛打侃嬉笑渡日，其實的紀德田毅力非凡，應變能力極高，只是從不外露，也不爭功，這與他的背景有極的大關係。
 
-紀德田有一弟弟紀興田（[鄭嘉穎飾](../Page/鄭嘉穎.md "wikilink")），性格與紀德田大相逕庭。紀興田天生好勝，自小無論學業、運動均成績彪炳，大學畢業後，考進消防隊當起消防隊長，但是，當一個消防員對紀興田來說，只能夠滿足自己的英雄感，因此紀興田甫出班便力求表現，要成為消防隊中的明星。
+紀德田有一弟弟紀興田（[鄭嘉穎](../Page/鄭嘉穎.md "wikilink")飾），性格與紀德田大相逕庭。紀興田天生好勝，自小無論學業、運動均成績彪炳，大學畢業後，考進消防隊當起消防隊長，但是，當一個消防員對紀興田來說，只能夠滿足自己的英雄感，因此紀興田甫出班便力求表現，要成為消防隊中的明星。
 
-紀德田早婚，妻子卻在數年前因一起交通意外去世，留下女兒紀瑤（[成珈瑩飾](../Page/成珈瑩.md "wikilink")），紀德田獨力撫育紀瑩，故不想在此工作上有任何的損傷，一向只求盡了職責便交差了事，從來不冒不必要的險，就連一直鍾愛的賽車也放棄了，只求無風無浪，獨自撫養紀瑤成人。
+紀德田早婚，妻子卻在數年前因一起交通意外去世，留下女兒紀瑤（[成珈瑩](../Page/成珈瑩.md "wikilink")飾），紀德田獨力撫育紀瑩，故不想在此工作上有任何的損傷，一向只求盡了職責便交差了事，從來不冒不必要的險，就連一直鍾愛的賽車也放棄了，只求無風無浪，獨自撫養紀瑤成人。
 
-在一次遊輪大火之中，紀德田負責搜索的範圍內出現意外，因此受到上司唐明（[方中信飾](../Page/方中信.md "wikilink")）的責難，紀德田雖知此乃意外，但心中有愧，自覺拯救生命壓力極大，頓時起了逃避之心，主動要求調往潛水隊，可是世事往往難以預料，紀德田在潛水隊中過了一段短時期，又被調回陸上消防局，又再次重遇要求嚴格的唐明，紀德田面對唐明的嚴苛，以為唐明處處針對自己，不料在一次救火行動中，唐明居然甘願冒著生命危險，救了紀德田，由此令紀德田終於明白唐明一向以來，對下屬的嚴格要求，也是唐明對自己的要求，從這一刻開始，紀德田的工作態度轉趨積極，令周遭的人也同時另眼相看
-。
+在一次遊輪大火之中，紀德田負責搜索的範圍內出現意外，因此受到上司唐明（[方中信](../Page/方中信.md "wikilink")飾）的責難，紀德田雖知此乃意外，但心中有愧，自覺拯救生命壓力極大，頓時起了逃避之心，主動要求調往潛水隊，可是世事往往難以預料，紀德田在潛水隊中過了一段短時期，又被調回陸上消防局，又再次重遇要求嚴格的唐明，紀德田面對唐明的嚴苛，以為唐明處處針對自己，不料在一次救火行動中，唐明居然甘願冒著生命危險，救了紀德田，由此令紀德田終於明白唐明一向以來，對下屬的嚴格要求，也是唐明對自己的要求，從這一刻開始，紀德田的工作態度轉趨積極，令周遭的人也同時另眼相看 。
 
-紀德田對於紀興田的出色表現，沒有妒忌，反而引以為傲，而紀興田一直覺得大哥紀德田是個得過且過的人，然而，當紀德田受到唐明的啟發後，態度和表現大有進步，更贏得同袍和上司的讚賞；紀興田遂對這個大哥產生從未有過的妒忌，更決意在工作裏努力向上，爭功求名
-。
+紀德田對於紀興田的出色表現，沒有妒忌，反而引以為傲，而紀興田一直覺得大哥紀德田是個得過且過的人，然而，當紀德田受到唐明的啟發後，態度和表現大有進步，更贏得同袍和上司的讚賞；紀興田遂對這個大哥產生從未有過的妒忌，更決意在工作裏努力向上，爭功求名 。
 
 ## 演員表
 
@@ -89,7 +87,7 @@
 <td><p><strong>Kelvin</strong><br />
 唐明之兄<br />
 江逸雅之大伯<br />
-<a href="../Page/同性戀.md" title="wikilink">同性戀者</a><br />
+<a href="../Page/同性戀.md" title="wikilink">同性戀</a>者<br />
 於第9集因愛滋病身亡<br />
 （特別客串）</p></td>
 </tr>
@@ -137,14 +135,14 @@
 參見<strong><a href="https://zh.wikipedia.org/wiki/#唐家" title="wikilink">唐家</a></strong></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/歐瑞偉.md" title="wikilink">歐瑞偉</a></p></td>
-<td><p>鄭志光</p></td>
-<td><p>消防總隊目</p></td>
-</tr>
-<tr class="even">
 <td><p><a href="../Page/林敬剛.md" title="wikilink">林敬剛</a></p></td>
 <td><p>亞　飛</p></td>
 <td><p>消防隊長</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/歐瑞偉.md" title="wikilink">歐瑞偉</a></p></td>
+<td><p>鄭志光</p></td>
+<td><p>消防總隊目</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/馬國明" title="wikilink">馬國明</a></p></td>
@@ -768,7 +766,7 @@ Gary之前女友<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/藥房.md" title="wikilink">藥房職員</a></p></td>
+<td><p><a href="../Page/藥房.md" title="wikilink">藥房</a>職員</p></td>
 <td></td>
 <td><p>（第21集）</p></td>
 <td></td>
@@ -844,7 +842,7 @@ Gary之前女友<br />
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/虞天偉" title="wikilink">虞天偉</a></p></td>
-<td><p><a href="../Page/消防訓練學校.md" title="wikilink">消防訓練學校導師</a></p></td>
+<td><p><a href="../Page/消防訓練學校.md" title="wikilink">消防訓練學校</a>導師</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -992,7 +990,7 @@ Gary之前女友<br />
 <tr class="odd">
 <td><p><a href="../Page/鄧浩光.md" title="wikilink">鄧浩光</a></p></td>
 <td><p>亞　峰</p></td>
-<td><p>唐明之<a href="../Page/大學.md" title="wikilink">大學同學兼好友</a><br />
+<td><p>唐明之<a href="../Page/大學.md" title="wikilink">大學</a>同學兼好友<br />
 <a href="../Page/南丫島.md" title="wikilink">南丫島</a><a href="https://zh.wikipedia.org/wiki/餐館" title="wikilink">餐廳</a><a href="https://zh.wikipedia.org/wiki/老闆" title="wikilink">老闆</a><br />
 前<a href="../Page/消防員.md" title="wikilink">消防員</a></p></td>
 <td><p>（第15-16集）</p></td>
@@ -1007,7 +1005,7 @@ Gary之前女友<br />
 <tr class="odd">
 <td><p><a href="../Page/呂珊.md" title="wikilink">呂　珊</a></p></td>
 <td><p>康　珊</p></td>
-<td><p><a href="../Page/日本.md" title="wikilink">日本名牌代理商人</a><br />
+<td><p><a href="../Page/日本.md" title="wikilink">日本</a>名牌代理商人<br />
 關安蔭之前妻<br />
 東東及陳小蘭之母<br />
 李Sir之多年好友</p></td>
@@ -1074,7 +1072,7 @@ Gary之前女友<br />
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/張漢斌.md" title="wikilink">張漢斌</a></p></td>
-<td><p><a href="../Page/卡拉OK.md" title="wikilink">卡拉OK經理</a></p></td>
+<td><p><a href="../Page/卡拉OK.md" title="wikilink">卡拉OK</a>經理</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1373,20 +1371,23 @@ Gary之前女友<br />
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/李子明" title="wikilink">李子明</a></p></td>
+<td><p>穿白衣的人員</p></td>
 <td></td>
+<td><p>|</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/許思敏.md" title="wikilink">許思敏</a></p></td>
+<td><p>病人家屬</p></td>
 <td></td>
-<td></td>
-<td></td>
+<td><p>|</p></td>
 </tr>
 </tbody>
 </table>
 
 ## 小趣事
 
-本劇中奇怪地亦同上集《[烈火雄心](https://zh.wikipedia.org/wiki/烈火雄心 "wikilink")》一樣近半
-角色的名字均取自香港的公共屋邨、居屋及私人屋苑的名稱。較明顯的例子包括紀德田－[德田邨](../Page/德田邨.md "wikilink")、紀興田－[興田邨](../Page/興田邨.md "wikilink")、唐明－[唐明苑](https://zh.wikipedia.org/wiki/唐明苑 "wikilink")、
-鍾茵怡－
-[茵怡花園](../Page/茵怡花園.md "wikilink")、關安蔭－[安蔭邨](../Page/安蔭邨.md "wikilink")、蔡南豐－[南豐新邨等等](../Page/南豐新邨.md "wikilink")。
+本劇中奇怪地亦同上集《[烈火雄心](https://zh.wikipedia.org/wiki/烈火雄心 "wikilink")》一樣近半 角色的名字均取自香港的公共屋邨、居屋及私人屋苑的名稱。較明顯的例子包括紀德田－[德田邨](../Page/德田邨.md "wikilink")、紀興田－[興田邨](../Page/興田邨.md "wikilink")、唐明－[唐明苑](https://zh.wikipedia.org/wiki/唐明苑 "wikilink")、 鍾茵怡－ [茵怡花園](../Page/茵怡花園.md "wikilink")、關安蔭－[安蔭邨](../Page/安蔭邨.md "wikilink")、蔡南豐－[南豐新邨](../Page/南豐新邨.md "wikilink")等等。
 
 此外，本劇的消防局《鰂魚涌消防局》、《火炭消防局》、《碧瑤消防局》、及《蝴蝶灣滅火輪消防局》全是虛構出來，劇中的「碧瑤消防局」現實名稱為「薄扶林消防局」，與碧瑤灣約有一公里距離。而劇中早期部份取景就用「北角消防局」去替代「鰂魚涌消防局」。「火炭消防局」現實名稱為「沙田消防局」。而蝴蝶灣滅火輪消防局則取景於屯門滅火輪消防局。
 
@@ -1394,19 +1395,13 @@ Gary之前女友<br />
 
 ## 外部連結
 
-  - [無綫電視官方網頁 -
-    烈火雄心II](https://web.archive.org/web/20110804223839/http://tvcity.tvb.com/drama/burn_flame2/)
-  - [無綫電視官方網頁（TVBI） -
-    烈火雄心II](http://www.tvb.com/tvbi/program/flameII/index.html)
-  - [《烈火雄心II》 GOTV
-    第1集重溫](https://web.archive.org/web/20140222162413/http://gotv.tvb.com/programme/102437/151492/)
-  - [烈火雄心II - myTV
-    SUPER](https://programme.mytvsuper.com/tc/102437/%E7%83%88%E7%81%AB%E9%9B%84%E5%BF%83ii)
+  - [無綫電視官方網頁 - 烈火雄心II](https://web.archive.org/web/20110804223839/http://tvcity.tvb.com/drama/burn_flame2/)
+  - [無綫電視官方網頁（TVBI） - 烈火雄心II](http://www.tvb.com/tvbi/program/flameII/index.html)
+  - [《烈火雄心II》 GOTV 第1集重溫](https://web.archive.org/web/20140222162413/http://gotv.tvb.com/programme/102437/151492/)
+  - [烈火雄心II - myTV SUPER](https://programme.mytvsuper.com/tc/102437/%E7%83%88%E7%81%AB%E9%9B%84%E5%BF%83ii)
 
 ## 電視節目的變遷
 
 首播 重播
 
-[Category:烈火雄心系列](https://zh.wikipedia.org/wiki/Category:烈火雄心系列 "wikilink")
-[Category:2002年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:2002年無綫電視劇集 "wikilink")
-[Category:無綫電視2000年代背景劇集](https://zh.wikipedia.org/wiki/Category:無綫電視2000年代背景劇集 "wikilink")
+[Category:烈火雄心系列](https://zh.wikipedia.org/wiki/Category:烈火雄心系列 "wikilink") [Category:2002年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:2002年無綫電視劇集 "wikilink") [Category:無綫電視2000年代背景劇集](https://zh.wikipedia.org/wiki/Category:無綫電視2000年代背景劇集 "wikilink")

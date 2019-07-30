@@ -1,12 +1,12 @@
-**BPEL**（發音為'bipple'或'bee-pell'）是的縮寫，意为**业务过程执行语言**，是一种基于[XML的](../Page/XML.md "wikilink")，用来描写业务过程的编程语言，被描写的业务过程的每个单一步骤则由[Web服务来实现](../Page/Web服务.md "wikilink")。
+**BPEL**（發音為'bipple'或'bee-pell'）是的縮寫，意为**业务过程执行语言**，是一种基于[XML](../Page/XML.md "wikilink")的，用来描写业务过程的编程语言，被描写的业务过程的每个单一步骤则由[Web服务](../Page/Web服务.md "wikilink")来实现。
 
-2002年[IBM](../Page/IBM.md "wikilink")、[BEA和](https://zh.wikipedia.org/wiki/BEA "wikilink")[微软一起开发和引入了](../Page/微软.md "wikilink")作为描写协调Web服务的语言。这个描写的本身也由Web服务提供，并可以当作[Web服务来使用](../Page/Web服务.md "wikilink")。
+2002年[IBM](../Page/IBM.md "wikilink")、[BEA和](https://zh.wikipedia.org/wiki/BEA "wikilink")[微软](../Page/微软.md "wikilink")一起开发和引入了作为描写协调Web服务的语言。这个描写的本身也由Web服务提供，并可以当作[Web服务](../Page/Web服务.md "wikilink")来使用。
 
 通过BPEL可以描写一个参加一个Web服务过程的Web服务的[接口](https://zh.wikipedia.org/wiki/接口 "wikilink")，比如信息需要按照怎样的顺序被输入，但是BPEL无法用来描写一个业务过程的调谐。
 
 ## 综述
 
-WS-BPEL原名[BPEL4WS](https://zh.wikipedia.org/wiki/BPEL4WS "wikilink")，是基于[WSDL建立的](../Page/WSDL.md "wikilink")，除WSDL外它还使用[XML模式定义](https://zh.wikipedia.org/wiki/XML模式定义 "wikilink")、[XPath和](../Page/XPath.md "wikilink")[WS-Addressing等标准](../Page/WS-Addressing.md "wikilink")。
+WS-BPEL原名[BPEL4WS](https://zh.wikipedia.org/wiki/BPEL4WS "wikilink")，是基于[WSDL](../Page/WSDL.md "wikilink")建立的，除WSDL外它还使用[XML模式定义](https://zh.wikipedia.org/wiki/XML模式定义 "wikilink")、[XPath](../Page/XPath.md "wikilink")和[WS-Addressing](../Page/WS-Addressing.md "wikilink")等标准。
 
 BPEL将微软的[Xlang与IBM的](https://zh.wikipedia.org/wiki/Xlang "wikilink")[WSFL连接到一起](https://zh.wikipedia.org/wiki/WSFL "wikilink")。
 
@@ -14,7 +14,7 @@ BPEL的目的在于[大规模编程](https://zh.wikipedia.org/wiki/大规模编�
 
 BPEL本身提供一个基础，在这个基础上可以发展支撑新的应用的“支柱”。比如在BPEL本身的设置中就已经包括了“抽象业务过程”和“可执行业务过程”。其它的支柱包括[BPELJ](https://zh.wikipedia.org/wiki/BPELJ "wikilink")（[1](http://www-128.ibm.com/developerworks/library/specification/ws-bpelj/)）和[BPEL4People](../Page/BPEL4People.md "wikilink")（[2](http://www-128.ibm.com/developerworks/webservices/library/specification/ws-bpel4people/)）。
 
-BPELJ的目标在于将[Java语言结合到BPEL中来加速其操作过程](../Page/Java.md "wikilink")，缺点是它与Java息息相关，不能没有Java运行。IBM和[SAP公司一起发表了一份名为BPEL](../Page/SAP公司.md "wikilink")4people的白皮书，其目的是将BPEL扩展为能够直接与人交换信息。
+BPELJ的目标在于将[Java](../Page/Java.md "wikilink")语言结合到BPEL中来加速其操作过程，缺点是它与Java息息相关，不能没有Java运行。IBM和[SAP公司](../Page/SAP公司.md "wikilink")一起发表了一份名为BPEL4people的白皮书，其目的是将BPEL扩展为能够直接与人交换信息。
 
 BPEL使用块状结构，在定义局部环境时可以定义适用于这个环境范围内的[变数(變數)](https://zh.wikipedia.org/wiki/变数\(變數\) "wikilink")。此外故障处理、补偿处理和事故处理也可以与局部环境相连。
 
@@ -28,8 +28,7 @@ BPEL本身没有定义描写过程模型的图像表达，但是[BPMN标准可�
 
 BPEL本身没有对下级过程的定义，因此假如一个主过程结束了的话，要结束其下级过程不总是可行。通过专门使用一个起这个作用的Web服务可以达到这个目的，但这个解决方法在BPEL的标准中并没有提到。
 
-IBM和SAP公司发表了一个名为《WS-BPEL
-2.0，下级过程延展》的白皮书（[3](http://www-128.ibm.com/developerworks/library/specification/ws-bpelsubproc/)）来讨论将BPEL延展为可以控制下级过程的问题。
+IBM和SAP公司发表了一个名为《WS-BPEL 2.0，下级过程延展》的白皮书（[3](http://www-128.ibm.com/developerworks/library/specification/ws-bpelsubproc/)）来讨论将BPEL延展为可以控制下级过程的问题。
 
 ## 发展状况
 
@@ -69,16 +68,12 @@ IBM和SAP公司发表了一个名为《WS-BPEL
 
 使用BPEL引擎可以执行BPEL程序。
 
-  - **[Oracle BPEL Process
-    Manager](https://web.archive.org/web/20060616101148/http://www.oracle.com/technology/products/ias/bpel/index.html)**——甲骨文公司的BPEL标准的执行，带有[JDeveloper和](https://zh.wikipedia.org/wiki/JDeveloper "wikilink")[Eclipse的图像式模型和调配工具](../Page/Eclipse.md "wikilink")
+  - **[Oracle BPEL Process Manager](https://web.archive.org/web/20060616101148/http://www.oracle.com/technology/products/ias/bpel/index.html)**——甲骨文公司的BPEL标准的执行，带有[JDeveloper和](https://zh.wikipedia.org/wiki/JDeveloper "wikilink")[Eclipse](../Page/Eclipse.md "wikilink")的图像式模型和调配工具
   - **[Twister](https://web.archive.org/web/20060501171242/http://www.smartcomps.org/twister/)**——一个开放源代码的BPEL标准的执行，支持[面向服务架构和人机界面](https://zh.wikipedia.org/wiki/面向服务架构 "wikilink")，现名
-  - **[ActiveBPEL](https://web.archive.org/web/20040715010826/http://www.activebpel.org/)**——一个开放源代码的BPEL4WS
-    1.1的执行
+  - **[ActiveBPEL](https://web.archive.org/web/20040715010826/http://www.activebpel.org/)**——一个开放源代码的BPEL4WS 1.1的执行
   - **[BPWS4J](http://www.alphaworks.ibm.com/tech/bpws4j)**——IBM的BPEL执行
-  - **[Apache ODE](http://ode.apache.org/index.html)**——Apache
-    ODE引擎（还支持versioning）
-  - **[RiftSaw](http://riftsaw.jboss.org/)**——基于ODE，并针对JBOSS
-    Server优化的BPEL引擎
+  - **[Apache ODE](http://ode.apache.org/index.html)**——Apache ODE引擎（还支持versioning）
+  - **[RiftSaw](http://riftsaw.jboss.org/)**——基于ODE，并针对JBOSS Server优化的BPEL引擎
 
 ## 参见
 
@@ -86,6 +81,4 @@ IBM和SAP公司发表了一个名为《WS-BPEL
 
 [分类:Web服务规范](https://zh.wikipedia.org/wiki/分类:Web服务规范 "wikilink")
 
-[Category:基于XML的标准](https://zh.wikipedia.org/wiki/Category:基于XML的标准 "wikilink")
-[Category:程序设计语言](https://zh.wikipedia.org/wiki/Category:程序设计语言 "wikilink")
-[Category:电子商务](https://zh.wikipedia.org/wiki/Category:电子商务 "wikilink")
+[Category:基于XML的标准](https://zh.wikipedia.org/wiki/Category:基于XML的标准 "wikilink") [Category:程序设计语言](https://zh.wikipedia.org/wiki/Category:程序设计语言 "wikilink") [Category:电子商务](https://zh.wikipedia.org/wiki/Category:电子商务 "wikilink")

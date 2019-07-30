@@ -1,18 +1,10 @@
-**Calligra Suite**是一套開放原始碼的辦公室套裝軟體（office
-suite），可用於[Linux](../Page/Linux.md "wikilink")、[Mac OS
-X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")\[1\]、[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")\[2\]和[Haiku](../Page/Haiku.md "wikilink")\[3\]等作業系統。其中包含了多種軟體，包括：[文字處理器](https://zh.wikipedia.org/wiki/文字處理器 "wikilink")、[電子數據表](https://zh.wikipedia.org/wiki/電子數據表 "wikilink")、簡報軟體、資料庫管理，以及[向量圖形和數位繪圖軟體](https://zh.wikipedia.org/wiki/向量圖形 "wikilink")。
+**Calligra Suite**是一套開放原始碼的辦公室套裝軟體（office suite），可用於[Linux](../Page/Linux.md "wikilink")、[Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")\[1\]、[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")\[2\]和[Haiku](../Page/Haiku.md "wikilink")\[3\]等作業系統。其中包含了多種軟體，包括：[文字處理器](https://zh.wikipedia.org/wiki/文字處理器 "wikilink")、[電子數據表](https://zh.wikipedia.org/wiki/電子數據表 "wikilink")、簡報軟體、資料庫管理，以及[向量圖形和數位繪圖軟體](https://zh.wikipedia.org/wiki/向量圖形 "wikilink")。
 
-Calligra使用[開放文件格式](https://zh.wikipedia.org/wiki/開放文件格式 "wikilink")（[ODF](https://zh.wikipedia.org/wiki/ODF "wikilink")，OpenDocument
-Format）作為預設的檔案格式，並能匯入其他格式，如[Microsoft
-Office的檔案](../Page/Microsoft_Office.md "wikilink")。Calligra依賴於[KDE技術](../Page/KDE.md "wikilink")，並常與[KDE
-Software
-Compilation相結合](https://zh.wikipedia.org/wiki/KDE_Software_Compilation "wikilink")。
+Calligra使用[開放文件格式](https://zh.wikipedia.org/wiki/開放文件格式 "wikilink")（[ODF](https://zh.wikipedia.org/wiki/ODF "wikilink")，OpenDocument Format）作為預設的檔案格式，並能匯入其他格式，如[Microsoft Office的檔案](../Page/Microsoft_Office.md "wikilink")。Calligra依賴於[KDE](../Page/KDE.md "wikilink")技術，並常與[KDE Software Compilation相結合](https://zh.wikipedia.org/wiki/KDE_Software_Compilation "wikilink")。
 
 ## 支援的系統
 
-[KOffice_viewer_on_Maemo5.jpg](https://zh.wikipedia.org/wiki/File:KOffice_viewer_on_Maemo5.jpg "fig:KOffice_viewer_on_Maemo5.jpg")
-\]\] Calligra
-Suite很大程度上依赖于[Qt](../Page/Qt.md "wikilink")，因此能够相对轻松地被移植到绝大部分支持Qt的平台上。
+[KOffice_viewer_on_Maemo5.jpg](https://zh.wikipedia.org/wiki/File:KOffice_viewer_on_Maemo5.jpg "fig:KOffice_viewer_on_Maemo5.jpg") \]\] Calligra Suite很大程度上依赖于[Qt](../Page/Qt.md "wikilink")，因此能够相对轻松地被移植到绝大部分支持Qt的平台上。
 
 ### 桌上型電腦
 
@@ -22,19 +14,15 @@ Suite很大程度上依赖于[Qt](../Page/Qt.md "wikilink")，因此能够相对
 
 ## 歷史
 
-Calligra
-Suite的前身是KOffice，其開發開始於1997年\[4\]。在1998年加入[KPresenter和](https://zh.wikipedia.org/wiki/KPresenter "wikilink")[KWord](../Page/KWord.md "wikilink")\[5\]。
+Calligra Suite的前身是KOffice，其開發開始於1997年\[4\]。在1998年加入[KPresenter和](https://zh.wikipedia.org/wiki/KPresenter "wikilink")[KWord](../Page/KWord.md "wikilink")\[5\]。
 
-1999年，在美國對微軟反壟斷審判中KOffice被舉出作為證詞，被當時的微軟總裁Paul
-Maritz作為在作業系統和辦公套裝競爭的證據。\[6\]
+1999年，在美國對微軟反壟斷審判中KOffice被舉出作為證詞，被當時的微軟總裁Paul Maritz作為在作業系統和辦公套裝競爭的證據。\[6\]
 
 KOffice套裝的第一次正式發布是在2000年，作為KDE 2.0的一部分。\[7\]
 
-2010年12月6日，KDE社区发布声明，成立Calligra Suite项目，作为KOffice项目的延续，并表示即将发布的KOffice
-2.3仍将受到支持，而Calligra Suite的版本号将从2.4开始。
+2010年12月6日，KDE社区发布声明，成立Calligra Suite项目，作为KOffice项目的延续，并表示即将发布的KOffice 2.3仍将受到支持，而Calligra Suite的版本号将从2.4开始。
 
-2010年12月31日，KOffice
-2.3照常發佈，其後修正錯誤的版本（2.3.1–2.3.3）。仍然是KOffice和Calligra開發團隊合作努力的成果。它的開發者表示，此版本對實際用途有足夠穩定度，而Karbon14、Krita和KSpread建議可用於生產工作。\[8\]
+2010年12月31日，KOffice 2.3照常發佈，其後修正錯誤的版本（2.3.1–2.3.3）。仍然是KOffice和Calligra開發團隊合作努力的成果。它的開發者表示，此版本對實際用途有足夠穩定度，而Karbon14、Krita和KSpread建議可用於生產工作。\[8\]
 
 Calligra團隊2011年5月18日開始發佈每月快照。\[9\]
 
@@ -94,8 +82,7 @@ Calligra團隊2011年5月18日開始發佈每月快照。\[9\]
 
 ### Calligra Suite 2.6
 
-2012年10月12日，發佈Alpha版。\[35\]加入[Calligra
-Author新軟體](https://zh.wikipedia.org/wiki/Calligra_Author "wikilink")。
+2012年10月12日，發佈Alpha版。\[35\]加入[Calligra Author新軟體](https://zh.wikipedia.org/wiki/Calligra_Author "wikilink")。
 
 2012年10月31日，發佈Beta版。\[36\]
 
@@ -111,8 +98,7 @@ Author新軟體](https://zh.wikipedia.org/wiki/Calligra_Author "wikilink")。
 
 2013年5月15日，2.6.3版釋出，修正了數個問題。\[42\]
 
-2013年6月4日，2.6.4版釋出，修正了數個問題，另外為[Calligra
-Author更換新的程式圖示](https://zh.wikipedia.org/wiki/Calligra_Author "wikilink")。\[43\]
+2013年6月4日，2.6.4版釋出，修正了數個問題，另外為[Calligra Author更換新的程式圖示](https://zh.wikipedia.org/wiki/Calligra_Author "wikilink")。\[43\]
 
 ### Calligra Suite 2.7
 
@@ -189,21 +175,10 @@ Author更換新的程式圖示](https://zh.wikipedia.org/wiki/Calligra_Author "w
 Calligra包括下列的應用程式：
 
   - **[Words](../Page/Calligra_Words.md "wikilink")**，一个具有樣式表和複雜版面的排版風格編輯器的[文本编辑器](../Page/文本编辑器.md "wikilink")，用于专业的标准文档。
-  - **[Sheets](../Page/Calligra_Sheets.md "wikilink")**（過去稱為**KSpread**），强大的[-{zh-hans:电子制表软件;
-    zh-hant:電子試算表;}-](https://zh.wikipedia.org/wiki/電子數據表 "wikilink")。支持多表格，模板和100多個[數學公式](https://zh.wikipedia.org/wiki/數學 "wikilink")。
+  - **[Sheets](../Page/Calligra_Sheets.md "wikilink")**（過去稱為**KSpread**），强大的[-{zh-hans:电子制表软件; zh-hant:電子試算表;}-](https://zh.wikipedia.org/wiki/電子數據表 "wikilink")。支持多表格，模板和100多個[數學公式](https://zh.wikipedia.org/wiki/數學 "wikilink")。
   - **[Stage](../Page/Calligra_Stage.md "wikilink")**（過去稱為**KPresenter**），全功能的[幻灯演示程序](https://zh.wikipedia.org/wiki/幻灯 "wikilink")。
-  - **[Kexi](../Page/Kexi.md "wikilink")**，集成的[数据库环境存取软件](../Page/数据库.md "wikilink")。designed
-    as a [Microsoft Access](../Page/Microsoft_Access.md "wikilink") or
-    [FileMaker](../Page/FileMaker.md "wikilink") competitor. It has
-    limited compatibility with the MS Access file format.
-  - **[Flow](https://zh.wikipedia.org/wiki/Calligra_Flow "wikilink")**（過去稱為**Kivio**）,
-    a programmable
-    [flowchart](https://zh.wikipedia.org/wiki/flowchart "wikilink")
-    drawing program with dynamically loadable
-    [stencils](https://zh.wikipedia.org/wiki/stencil "wikilink").
-    Developed by
-    [theKompany](https://zh.wikipedia.org/wiki/theKompany "wikilink"),
-    which offers additional (non-free) stencils for sale.
+  - **[Kexi](../Page/Kexi.md "wikilink")**，集成的[数据库](../Page/数据库.md "wikilink")环境存取软件。designed as a [Microsoft Access](../Page/Microsoft_Access.md "wikilink") or [FileMaker](../Page/FileMaker.md "wikilink") competitor. It has limited compatibility with the MS Access file format.
+  - **[Flow](https://zh.wikipedia.org/wiki/Calligra_Flow "wikilink")**（過去稱為**Kivio**）, a programmable [flowchart](https://zh.wikipedia.org/wiki/flowchart "wikilink") drawing program with dynamically loadable [stencils](https://zh.wikipedia.org/wiki/stencil "wikilink"). Developed by [theKompany](https://zh.wikipedia.org/wiki/theKompany "wikilink"), which offers additional (non-free) stencils for sale.
   - **[Karbon14](https://zh.wikipedia.org/wiki/Karbon14 "wikilink")**，矢量绘图程序。
   - **[Krita](../Page/Krita.md "wikilink")**（過去稱為Krayon和KImageshop），点阵图象处理程序。
   - **[Plan](../Page/Calligra_Plan.md "wikilink")**（過去稱為**KPlato**），可以產生[甘特圖](https://zh.wikipedia.org/wiki/甘特圖 "wikilink")（[Gantt](https://zh.wikipedia.org/wiki/甘特图 "wikilink")）的專案管理軟體。
@@ -214,7 +189,7 @@ Calligra包括下列的應用程式：
 
 所有的套件都是採用自由軟體授權，並使用[開放文件格式作為原生格式](https://zh.wikipedia.org/wiki/開放文件格式 "wikilink")。
 
-Calligra使用[Flake和](../Page/Flake.md "wikilink")[Pigment於應用程式上](https://zh.wikipedia.org/wiki/Pigment "wikilink")。KOffice的開發計劃，以共享基礎設施，盡可能在應用程序之間減少錯誤和改善用戶體驗。\[77\]自動化測試任務，並可以使用D-Bus或腳本語言，像[Python](../Page/Python.md "wikilink")、[Ruby以及](../Page/Ruby.md "wikilink")[JavaScript增加自行定義功能](../Page/JavaScript.md "wikilink")。\[78\]
+Calligra使用[Flake](../Page/Flake.md "wikilink")和[Pigment於應用程式上](https://zh.wikipedia.org/wiki/Pigment "wikilink")。KOffice的開發計劃，以共享基礎設施，盡可能在應用程序之間減少錯誤和改善用戶體驗。\[77\]自動化測試任務，並可以使用D-Bus或腳本語言，像[Python](../Page/Python.md "wikilink")、[Ruby](../Page/Ruby.md "wikilink")以及[JavaScript](../Page/JavaScript.md "wikilink")增加自行定義功能。\[78\]
 
 ## 參見
 
@@ -227,23 +202,16 @@ Calligra使用[Flake和](../Page/Flake.md "wikilink")[Pigment於應用程式上]
 
   - [Calligra Suite website](http://www.calligra-suite.org/)
 
-[Category:KDE](https://zh.wikipedia.org/wiki/Category:KDE "wikilink")
-[Category:辦公室自動化軟體](https://zh.wikipedia.org/wiki/Category:辦公室自動化軟體 "wikilink")
-[Category:開放原始碼](https://zh.wikipedia.org/wiki/Category:開放原始碼 "wikilink")
-[Category:KOffice](https://zh.wikipedia.org/wiki/Category:KOffice "wikilink")
+[Category:KDE](https://zh.wikipedia.org/wiki/Category:KDE "wikilink") [Category:辦公室自動化軟體](https://zh.wikipedia.org/wiki/Category:辦公室自動化軟體 "wikilink") [Category:開放原始碼](https://zh.wikipedia.org/wiki/Category:開放原始碼 "wikilink") [Category:KOffice](https://zh.wikipedia.org/wiki/Category:KOffice "wikilink")
 
-1.  [Pencils Down for KOffice Summer of Code
-    Students\!](http://dot.kde.org/1188249220/)
-2.  [Another nightly build from Berlin |
-    kdedevelopers.org](http://www.kdedevelopers.org/node/3077)
-3.  [KDE applications available for
-    Haiku\!](http://tiltos.com/drupal/node/17)
+1.  [Pencils Down for KOffice Summer of Code Students\!](http://dot.kde.org/1188249220/)
+2.  [Another nightly build from Berlin | kdedevelopers.org](http://www.kdedevelopers.org/node/3077)
+3.  [KDE applications available for Haiku\!](http://tiltos.com/drupal/node/17)
 4.  <http://lists.kde.org/?t=88722491100011&r=139&w=2>
 5.  <http://lists.kde.org/?t=88722654500008&r=180&w=2>
 6.  <http://lists.kde.org/?l=koffice&m=92516339527344&w=2>
 7.  <http://www.kde.org/announcements/announce-2.0.php>
 8.  [Calligra-suite.org](http://www.calligra-suite.org/news/koffice-2-3-0-released/)
-
 9.  <http://www.calligra-suite.org/news/calligra-announces-first-snapshot-release/>
 10. <http://www.calligra.org/news/calligra-announces-second-snapshot-release/>
 11. <http://www.calligra.org/news/announcements/calligra-announces-third-snapshot-release/>
@@ -312,7 +280,5 @@ Calligra使用[Flake和](../Page/Flake.md "wikilink")[Pigment於應用程式上]
 74. <https://www.calligra.org/news/calligra-2-9-9-released/>
 75. <https://www.calligra.org/news/calligra-2-9-10-released/>
 76. <https://www.calligra.org/news/calligra-2-9-11-released/>
-77. [The KOffice Project - KOffice 2.0 Alpha 5 Release
-    Announcement](http://www.koffice.org/announcements/announce-2.0alpha5.php)
-
+77. [The KOffice Project - KOffice 2.0 Alpha 5 Release Announcement](http://www.koffice.org/announcements/announce-2.0alpha5.php)
 78. [Kross Scripting Framework](../Page/Kross.md "wikilink")

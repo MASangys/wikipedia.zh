@@ -8,10 +8,6 @@
   - **[张福林](../Page/張福林.md "wikilink")**（，曾执行、、、、、以及任务），任务专家
   - **[克劳德·尼克列](https://zh.wikipedia.org/wiki/克劳德·尼克列 "wikilink")**（，[瑞士宇航员](https://zh.wikipedia.org/wiki/瑞士 "wikilink")，曾执行、、以及任务），任务专家
   - **[玛莎·埃文斯](https://zh.wikipedia.org/wiki/玛莎·埃文斯 "wikilink")**（，曾执行、、、以及任务），有效载荷专家
-  - **[弗兰科·马勒巴](https://zh.wikipedia.org/wiki/弗兰科·马勒巴 "wikilink")**（，[意大利宇航员](../Page/意大利.md "wikilink")，曾执行任务），有效载荷专家
+  - **[弗兰科·马勒巴](https://zh.wikipedia.org/wiki/弗兰科·马勒巴 "wikilink")**（，[意大利](../Page/意大利.md "wikilink")宇航员，曾执行任务），有效载荷专家
 
-[Category:航天飞机任务](https://zh.wikipedia.org/wiki/Category:航天飞机任务 "wikilink")
-[Category:1992年佛罗里达州](https://zh.wikipedia.org/wiki/Category:1992年佛罗里达州 "wikilink")
-[Category:1992年科技](https://zh.wikipedia.org/wiki/Category:1992年科技 "wikilink")
-[Category:1992年7月](https://zh.wikipedia.org/wiki/Category:1992年7月 "wikilink")
-[Category:1992年8月](https://zh.wikipedia.org/wiki/Category:1992年8月 "wikilink")
+[Category:航天飞机任务](https://zh.wikipedia.org/wiki/Category:航天飞机任务 "wikilink") [Category:1992年佛罗里达州](https://zh.wikipedia.org/wiki/Category:1992年佛罗里达州 "wikilink") [Category:1992年科技](https://zh.wikipedia.org/wiki/Category:1992年科技 "wikilink") [Category:1992年7月](https://zh.wikipedia.org/wiki/Category:1992年7月 "wikilink") [Category:1992年8月](https://zh.wikipedia.org/wiki/Category:1992年8月 "wikilink")

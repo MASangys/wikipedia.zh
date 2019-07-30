@@ -23,7 +23,7 @@ libevent提供了一組[應用程序編程接口](https://zh.wikipedia.org/wiki/
 <!-- end list -->
 
   -
-    以[Solaris平台為主](../Page/Solaris.md "wikilink")。
+    以[Solaris](../Page/Solaris.md "wikilink")平台為主。
 
 <!-- end list -->
 
@@ -32,7 +32,7 @@ libevent提供了一組[應用程序編程接口](https://zh.wikipedia.org/wiki/
 <!-- end list -->
 
   -
-    以[BSD平台為主](../Page/BSD.md "wikilink")。
+    以[BSD](../Page/BSD.md "wikilink")平台為主。
 
 <!-- end list -->
 
@@ -41,36 +41,29 @@ libevent提供了一組[應用程序編程接口](https://zh.wikipedia.org/wiki/
 <!-- end list -->
 
   -
-    以[Linux平台為主](../Page/Linux.md "wikilink")。
+    以[Linux](../Page/Linux.md "wikilink")平台為主。
 
 ## 主要版本
 
   - libevent 0.1（2000年11月4日）：第一個公開版本。
   - libevent 1.0（2004年12月5日），支持多[线程](../Page/线程.md "wikilink")。
   - libevent 1.1（2005年5月14日）。
-  - libevent
-    1.2（2006年10月15日）：支援[DNS](https://zh.wikipedia.org/wiki/DNS "wikilink")[用戶端查詢函式](https://zh.wikipedia.org/wiki/用戶端 "wikilink")、支援[HTTP用戶端及](https://zh.wikipedia.org/wiki/HTTP "wikilink")[伺服器端函式](https://zh.wikipedia.org/wiki/伺服器 "wikilink")。
+  - libevent 1.2（2006年10月15日）：支援[DNS](https://zh.wikipedia.org/wiki/DNS "wikilink")[用戶端查詢函式](https://zh.wikipedia.org/wiki/用戶端 "wikilink")、支援[HTTP用戶端及](https://zh.wikipedia.org/wiki/HTTP "wikilink")[伺服器端函式](https://zh.wikipedia.org/wiki/伺服器 "wikilink")。
   - libevent 1.3（2007年2月15日）：支援DNS伺服器端函式。
-  - libevent
-    1.4（2008年4月7日）：新的RPC子系統。將內部[資料結構由](https://zh.wikipedia.org/wiki/資料結構 "wikilink")[pull改為](https://zh.wikipedia.org/wiki/pull "wikilink")[push](https://zh.wikipedia.org/wiki/push "wikilink")（Heap）以增加效率。
+  - libevent 1.4（2008年4月7日）：新的RPC子系統。將內部[資料結構由](https://zh.wikipedia.org/wiki/資料結構 "wikilink")[pull改為](https://zh.wikipedia.org/wiki/pull "wikilink")[push](https://zh.wikipedia.org/wiki/push "wikilink")（Heap）以增加效率。
   - libevent 2.0（2009年11月19日）。
 
 ## 外部連結
 
   - ，libevent的官方網站。
 
-  - [The C10K
-    problem](https://www.webcitation.org/6ICibHuyd?url=http://www.kegel.com/c10k.html)，討論連線數破萬時會遇到的瓶頸。
+  - [The C10K problem](https://www.webcitation.org/6ICibHuyd?url=http://www.kegel.com/c10k.html)，討論連線數破萬時會遇到的瓶頸。
 
-  - [Libevent 2.0 book](http://www.wangafu.net/~nickm/libevent-book/),
-    libevent 2.0参考书籍
+  - [Libevent 2.0 book](http://www.wangafu.net/~nickm/libevent-book/), libevent 2.0参考书籍
 
-  - [liboop - another asynchronous event notification
-    library](http://liboop.ofb.net/)，另一个异步事件库
+  - [liboop - another asynchronous event notification library](http://liboop.ofb.net/)，另一个异步事件库
 
-  - [A benchmark by the libev author comparing libevent with libev, a
-    similar
-    library](http://libev.schmorp.de/bench.html)，libevent与一个类似的库libev之间比较的基准测试程序
+  - [A benchmark by the libev author comparing libevent with libev, a similar library](http://libev.schmorp.de/bench.html)，libevent与一个类似的库libev之间比较的基准测试程序
 
 ## 替代品
 
@@ -78,6 +71,4 @@ libevent提供了一組[應用程序編程接口](https://zh.wikipedia.org/wiki/
   - [libuv](https://zh.wikipedia.org/wiki/libuv "wikilink")
   - [inotify](https://zh.wikipedia.org/wiki/inotify "wikilink")
 
-[Category:事件_(计算机)](https://zh.wikipedia.org/wiki/Category:事件_\(计算机\) "wikilink")
-[Category:自由發展元件與函式庫](https://zh.wikipedia.org/wiki/Category:自由發展元件與函式庫 "wikilink")
-[Category:C函式庫](https://zh.wikipedia.org/wiki/Category:C函式庫 "wikilink")
+[Category:事件_(计算机)](https://zh.wikipedia.org/wiki/Category:事件_\(计算机\) "wikilink") [Category:自由發展元件與函式庫](https://zh.wikipedia.org/wiki/Category:自由發展元件與函式庫 "wikilink") [Category:C函式庫](https://zh.wikipedia.org/wiki/Category:C函式庫 "wikilink")

@@ -1,14 +1,12 @@
-**XSL-FO**是**XSL Formatting
-Objects**的缩写，它是一种用于文档格式的[XML](../Page/XML.md "wikilink")
-[置标语言](../Page/置标语言.md "wikilink")。XSL-FO是[XSL的一部分](https://zh.wikipedia.org/wiki/XSL "wikilink")，而[XSL是一组定义XML数据转换与格式的](https://zh.wikipedia.org/wiki/XSL "wikilink")[W3C技术](https://zh.wikipedia.org/wiki/W3C "wikilink")。XSL的其他部分有[XSLT与](../Page/XSLT.md "wikilink")[XPath](../Page/XPath.md "wikilink")。截止到2006年12月12日，XSL-FO的最新版本是[v1.1](http://www.w3.org/TR/2006/REC-xsl11-20061205/)。
+**XSL-FO**是**XSL Formatting Objects**的缩写，它是一种用于文档格式的[XML](../Page/XML.md "wikilink") [置标语言](../Page/置标语言.md "wikilink")。XSL-FO是[XSL的一部分](https://zh.wikipedia.org/wiki/XSL "wikilink")，而[XSL是一组定义XML数据转换与格式的](https://zh.wikipedia.org/wiki/XSL "wikilink")[W3C技术](https://zh.wikipedia.org/wiki/W3C "wikilink")。XSL的其他部分有[XSLT](../Page/XSLT.md "wikilink")与[XPath](../Page/XPath.md "wikilink")。截止到2006年12月12日，XSL-FO的最新版本是[v1.1](http://www.w3.org/TR/2006/REC-xsl11-20061205/)。
 
 ## XSL-FO基础
 
-与其他的[HTML与](../Page/HTML.md "wikilink")[CSS组合不同](https://zh.wikipedia.org/wiki/CSS "wikilink")，XSL-FO是一种unified表示语言，它没有HTML中那样的置标语法格式，并且与CSS更改外部XML或者HMTL文档的缺省表示不同，XSL-FO将所有的文档数据保存在内部。
+与其他的[HTML](../Page/HTML.md "wikilink")与[CSS组合不同](https://zh.wikipedia.org/wiki/CSS "wikilink")，XSL-FO是一种unified表示语言，它没有HTML中那样的置标语法格式，并且与CSS更改外部XML或者HMTL文档的缺省表示不同，XSL-FO将所有的文档数据保存在内部。
 
-XSL-FO总的设计思想用户写到文档中的数据是XML语言的文档，而不是FO，所用语言可以是[XHTML](../Page/XHTML.md "wikilink")、[DocBook以及](../Page/DocBook.md "wikilink")[TEI或者其他任何的XML语言](https://zh.wikipedia.org/wiki/TEI "wikilink")。然后，用户自己写一个或者找一个[XSLT变换](../Page/XSLT.md "wikilink")，将XML转换成XSL-FO。
+XSL-FO总的设计思想用户写到文档中的数据是XML语言的文档，而不是FO，所用语言可以是[XHTML](../Page/XHTML.md "wikilink")、[DocBook](../Page/DocBook.md "wikilink")以及[TEI或者其他任何的XML语言](https://zh.wikipedia.org/wiki/TEI "wikilink")。然后，用户自己写一个或者找一个[XSLT](../Page/XSLT.md "wikilink")变换，将XML转换成XSL-FO。
 
-一旦生成了XSL-FO文档，就将它送到FO处理器这样的应用程序中。FO处理器将XSL-FO文档转换成可以阅读或者可以打印的格式。最常见的XSL-FO输出格式是[PDF或者](https://zh.wikipedia.org/wiki/PDF "wikilink")[PostScript](../Page/PostScript.md "wikilink")，有一些FO处理器只能输出成[RTF这样的格式或者只能输出到图形用户界面的页面序列及内容](../Page/RTF.md "wikilink")。
+一旦生成了XSL-FO文档，就将它送到FO处理器这样的应用程序中。FO处理器将XSL-FO文档转换成可以阅读或者可以打印的格式。最常见的XSL-FO输出格式是[PDF或者](https://zh.wikipedia.org/wiki/PDF "wikilink")[PostScript](../Page/PostScript.md "wikilink")，有一些FO处理器只能输出成[RTF](../Page/RTF.md "wikilink")这样的格式或者只能输出到图形用户界面的页面序列及内容。
 
 人们最初认为XSLT语言本身仅仅是为这个目的所用的，但是现在由于更加通用的XML转换的出现已经超出了这个范围。由于这个转换是一个必然的过程，因此人们也常常将XML转换为XSL-FO的XSLT当作XSL-FO文档本身。甚至是XSL-FO的教程也在FO处理用法也用XSLT命令表示。
 
@@ -26,8 +24,7 @@ XSL-FO语言的设计目的是用于分页媒体，采用的方式是类似于�
 
 FO最适合用在“内容驱动”设计的场合，这是图书、文章、法律文档等排版所用的标准方法。这涉及到一行邻近的文本以及嵌入在页面边界中的不同变化信息。这与报纸与杂志中所用的“布局驱动”设计有所不同。在那些文档中，如果无法在特定的位置完整地放进去，那么就会对内容进行裁减。XLS-FO很难处理杂志布局的严格要求，实际上在很多场合，它根本不具备表示所需布局的能力。
 
-尽管这种语言有这些设计局限，但是它仍然能够胜任很多的表现任务。它提供表格、列表、side
-floats等许多特性。这些特性与CSS的布局特性类似，但是其中一些特性需要用XSLT表示。
+尽管这种语言有这些设计局限，但是它仍然能够胜任很多的表现任务。它提供表格、列表、side floats等许多特性。这些特性与CSS的布局特性类似，但是其中一些特性需要用XSLT表示。
 
 ## XSL-FO文档结构
 
@@ -39,8 +36,7 @@ XSL-FO文档包括两个必须部分。第一部分列出页面布局的细节�
 
 文档数据部分是一系列的数据流组成的，每个数据流都附属于一个页面布局。数据流包括一系列的按顺序排列的数据块，每个部分一系列的文本数据、内嵌的置标元素或者是二者的组合。在文档边界上也可以加入页码、章节等类似内容。
 
-数据块以及内嵌元素的功能非常类似于CSS，但是空白的填补与保留在FO与CSS之间有所不同。相对于页面方向的数据块及内嵌元素排列方向可以进行充分的定义，这样FO文档可以处理与英文排列方向不同的其他语言。FO规范的语言与CSS
-2.1不同，使用开始与结束这样的呈方向中性的术语而不是左与右来表示方向。
+数据块以及内嵌元素的功能非常类似于CSS，但是空白的填补与保留在FO与CSS之间有所不同。相对于页面方向的数据块及内嵌元素排列方向可以进行充分的定义，这样FO文档可以处理与英文排列方向不同的其他语言。FO规范的语言与CSS 2.1不同，使用开始与结束这样的呈方向中性的术语而不是左与右来表示方向。
 
 XSL-FO的基本内容置标是从CSS及其层叠规则派生出来的，因此XSL-FO中的许多属性除非进行了显示重载否则就会延伸到子元素的部分。
 
@@ -97,8 +93,7 @@ FO有强大的文本方向控制能力。在一页中间可以设定另外一种
 
 ### 多数据流及数据流映射
 
-XSL-FO
-1.0对于一页中文本的排列位置的要求相当严格，而1.1版大幅度地放宽了这些限制，允许文本数据流能够映射到一页中多个区域。这样就可以象报纸那样进行排版。
+XSL-FO 1.0对于一页中文本的排列位置的要求相当严格，而1.1版大幅度地放宽了这些限制，允许文本数据流能够映射到一页中多个区域。这样就可以象报纸那样进行排版。
 
 ### 书签
 
@@ -112,16 +107,15 @@ XSL-FO 1.1支持生成某些图书后面具有的索引功能，这是通过对F
 
 ## XSL-FO的优点
 
-由于XSL-FO是一种XML语言，因此从任何的XML语言生成XSL-FO代码仅仅需要XSLT变换以及XSLT处理器。人们可以很容易地创作一个[TEI或者](https://zh.wikipedia.org/wiki/TEI "wikilink")[DocBook格式的文档](../Page/DocBook.md "wikilink")，然后将它转换成HTML用于网络浏览或者经过FO处理器转换成PDF用于打印。实际上，现在已经有许多用于这些目的的TEI以及DocBook
-XSLT转换工具。
+由于XSL-FO是一种XML语言，因此从任何的XML语言生成XSL-FO代码仅仅需要XSLT变换以及XSLT处理器。人们可以很容易地创作一个[TEI或者](https://zh.wikipedia.org/wiki/TEI "wikilink")[DocBook](../Page/DocBook.md "wikilink")格式的文档，然后将它转换成HTML用于网络浏览或者经过FO处理器转换成PDF用于打印。实际上，现在已经有许多用于这些目的的TEI以及DocBook XSLT转换工具。
 
 另外，由于它是一种XML语言，尤其是由于它没有固定的语法或者文件类型定义，它可以保存所有类型的XML数据。最常见的数据有SVG图像，许多FO处理器都可以读取或者将它加入到文档中。
 
-XSL-FO的另外一种优点是用法相当简单。这种语言大多数的功能都是基于CSS的工作，因此CSS用户对于那些基本的标记属性相当熟悉。相对于难于理解的[TeX这样的布局与排版来说](../Page/TeX.md "wikilink")，FO文档的特定部分将如何显示也显得很容易理解。
+XSL-FO的另外一种优点是用法相当简单。这种语言大多数的功能都是基于CSS的工作，因此CSS用户对于那些基本的标记属性相当熟悉。相对于难于理解的[TeX](../Page/TeX.md "wikilink")这样的布局与排版来说，FO文档的特定部分将如何显示也显得很容易理解。
 
 ## XSL-FO的缺点
 
-FO的主要缺点是对于它的支持不多。FO很难、或许没有一家能够具有与规范100%的兼容性。尽管规范已经出现了很多年，但是现实仍然是这样。通常这是由于缺少对于XSL-FO的需求而引起的。[TeX及其他类似产品已经在排版语言市场上占据了很长时间](../Page/TeX.md "wikilink")，大多数TeX用户都没有切换到XSL-FO的需求。
+FO的主要缺点是对于它的支持不多。FO很难、或许没有一家能够具有与规范100%的兼容性。尽管规范已经出现了很多年，但是现实仍然是这样。通常这是由于缺少对于XSL-FO的需求而引起的。[TeX](../Page/TeX.md "wikilink")及其他类似产品已经在排版语言市场上占据了很长时间，大多数TeX用户都没有切换到XSL-FO的需求。
 
 XSL-FO另外一个不太严重的缺点是将数据排列到页边的功能不够强大，控制类似数据的能力可能没有用户所想象的那样。
 
@@ -132,22 +126,17 @@ FO的另外一个问题是，尽管容易理解，但是如果手工生成这样
   - [XML](../Page/XML.md "wikilink")
   - [XSL](https://zh.wikipedia.org/wiki/Extensible_Stylesheet_Language "wikilink")
   - [XSLT](https://zh.wikipedia.org/wiki/XSL_Transformations "wikilink")
-  - [Cascading Style
-    Sheets](https://zh.wikipedia.org/wiki/Cascading_Style_Sheets "wikilink")
+  - [Cascading Style Sheets](https://zh.wikipedia.org/wiki/Cascading_Style_Sheets "wikilink")
   - [XHTML](../Page/XHTML.md "wikilink")
 
 ## 外部链接
 
   - [XSL-FO 1.0 Specification](http://www.w3.org/TR/xsl/)
   - [XSL-FO 1.1 Specification](http://www.w3.org/TR/xsl11/)
-  - [What is XSL-FO?](http://www.xml.com/pub/a/2002/03/20/xsl-fo.html)
-    on XML.com
+  - [What is XSL-FO?](http://www.xml.com/pub/a/2002/03/20/xsl-fo.html) on XML.com
 
 {{-}}
 
-[Category:置标语言](https://zh.wikipedia.org/wiki/Category:置标语言 "wikilink")
-[Category:页面描述语言](https://zh.wikipedia.org/wiki/Category:页面描述语言 "wikilink")
-[Category:基于XML的标准](https://zh.wikipedia.org/wiki/Category:基于XML的标准 "wikilink")
-[Category:W3C标准](https://zh.wikipedia.org/wiki/Category:W3C标准 "wikilink")
+[Category:置标语言](https://zh.wikipedia.org/wiki/Category:置标语言 "wikilink") [Category:页面描述语言](https://zh.wikipedia.org/wiki/Category:页面描述语言 "wikilink") [Category:基于XML的标准](https://zh.wikipedia.org/wiki/Category:基于XML的标准 "wikilink") [Category:W3C标准](https://zh.wikipedia.org/wiki/Category:W3C标准 "wikilink")
 
 1.  Widow指一个段落的最后一行落到一个新页，成为新页的第一行；Orphan相反，指一个段落的第一行单独留在前一页，而本段的其他内容在后面一页。

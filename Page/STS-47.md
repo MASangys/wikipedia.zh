@@ -16,7 +16,4 @@
   - **[土井隆雄](../Page/土井隆雄.md "wikilink")**（，日本宇航员，曾执行任务）
   - **[斯坦利·科斯扎拉克](https://zh.wikipedia.org/wiki/斯坦利·科斯扎拉克 "wikilink")**（）
 
-[Category:1992年佛罗里达州](https://zh.wikipedia.org/wiki/Category:1992年佛罗里达州 "wikilink")
-[Category:奋进号航天飞机任务](https://zh.wikipedia.org/wiki/Category:奋进号航天飞机任务 "wikilink")
-[Category:1992年科學](https://zh.wikipedia.org/wiki/Category:1992年科學 "wikilink")
-[Category:1992年9月](https://zh.wikipedia.org/wiki/Category:1992年9月 "wikilink")
+[Category:1992年佛罗里达州](https://zh.wikipedia.org/wiki/Category:1992年佛罗里达州 "wikilink") [Category:奋进号航天飞机任务](https://zh.wikipedia.org/wiki/Category:奋进号航天飞机任务 "wikilink") [Category:1992年科學](https://zh.wikipedia.org/wiki/Category:1992年科學 "wikilink") [Category:1992年9月](https://zh.wikipedia.org/wiki/Category:1992年9月 "wikilink")

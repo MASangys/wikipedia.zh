@@ -4,7 +4,7 @@
 
   - [川瀨未希](https://zh.wikipedia.org/wiki/川瀨未希 "wikilink")（[主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink")）
       -
-        1989年4月13日出生，[東京都出身](../Page/東京都.md "wikilink")。在試聽選拔中被選中。
+        1989年4月13日出生，[東京都](../Page/東京都.md "wikilink")出身。在試聽選拔中被選中。
   - [a.k.a.dRESS](https://zh.wikipedia.org/wiki/a.k.a.dRESS "wikilink")（[電子琴](../Page/電子琴.md "wikilink")、[作詞](https://zh.wikipedia.org/wiki/作詞 "wikilink")、[作曲](https://zh.wikipedia.org/wiki/作曲 "wikilink")、[編曲](https://zh.wikipedia.org/wiki/編曲 "wikilink")、[音聲制作](https://zh.wikipedia.org/wiki/音聲制作 "wikilink")）
       -
         「a.k.a」全寫是「as know as」。
@@ -18,8 +18,7 @@
   - scarlet
       -
         c/w veil
-        2005年11月25日／FCCM-0092 / [Frontier
-        Works](../Page/Frontier_Works.md "wikilink")
+        2005年11月25日／FCCM-0092 / [Frontier Works](../Page/Frontier_Works.md "wikilink")
         [動畫](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")「[增血鬼果林](../Page/增血鬼果林.md "wikilink")」片頭曲
   - Devotion
       -
@@ -48,14 +47,12 @@
 
 ## 外部連結
 
-  - [BRACE;d official
-    site](https://web.archive.org/web/20070216074507/http://www.brace-d.com/)（久未更新）
+  - [BRACE;d official site](https://web.archive.org/web/20070216074507/http://www.brace-d.com/)（久未更新）
   - [ave;new 上川瀨未希的個人資料（附照片）](http://www.avenew.jp/staff/miki.html)
 
 [ja:Ave;new\#BRACE;d](https://zh.wikipedia.org/wiki/ja:Ave;new#BRACE;d "wikilink")
 
-[Category:日本演唱團體](https://zh.wikipedia.org/wiki/Category:日本演唱團體 "wikilink")
-[Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")
+[Category:日本演唱團體](https://zh.wikipedia.org/wiki/Category:日本演唱團體 "wikilink") [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")
 
 1.  [](http://bb.watch.impress.co.jp/cda/news/11528.html)
 2.  [](http://www.dengekionline.com/g-net/strike/200510dress/gn20051014_strike_dress.htm)

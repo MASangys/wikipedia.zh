@@ -1,14 +1,10 @@
-**PowerVR**是[Imagination
-Technologies](../Page/Imagination_Technologies.md "wikilink")（）的軟硬體影像處理開發部門，也是其設計的圖形晶片的常用名稱。
-在1990年代後期，它的[3D領域主要競爭對手是](https://zh.wikipedia.org/wiki/3D "wikilink")[3dfx的](https://zh.wikipedia.org/wiki/3dfx "wikilink")[Voodoo系列](https://zh.wikipedia.org/wiki/Voodoo "wikilink")[顯示卡](https://zh.wikipedia.org/wiki/顯示卡 "wikilink")。其後在[ATi和](https://zh.wikipedia.org/wiki/ATi "wikilink")[Nvidia的激烈競爭中沒落](https://zh.wikipedia.org/wiki/Nvidia "wikilink")。自2002年起，很多[電腦遊戲都不會官方支持PowerVR](https://zh.wikipedia.org/wiki/電腦遊戲 "wikilink")，此後PowerVR主力發展低功耗市場。今天，很多[行動裝置上都能發現PowerVR的身影](https://zh.wikipedia.org/wiki/行動裝置 "wikilink")：在2010年，全球售出了超過2.15億枚包含PowerVR技術的晶片。
-PowerVR加速器並非由PowerVR製造，而是其集成電路設計和專利授權給其他公司，如[德州儀器](https://zh.wikipedia.org/wiki/德州儀器 "wikilink")，[英特爾](https://zh.wikipedia.org/wiki/英特爾 "wikilink")，[NEC](https://zh.wikipedia.org/wiki/NEC "wikilink")，[黑莓](../Page/黑莓.md "wikilink")，[瑞薩](../Page/瑞薩電子.md "wikilink")，[三星](../Page/三星電子.md "wikilink")，[意法半導體](../Page/意法半導體.md "wikilink")，[飛思卡爾](https://zh.wikipedia.org/wiki/飛思卡爾 "wikilink")，[蘋果](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")，[恩智浦半導體等](../Page/恩智浦半导体.md "wikilink")。
+**PowerVR**是[Imagination Technologies](../Page/Imagination_Technologies.md "wikilink")（）的軟硬體影像處理開發部門，也是其設計的圖形晶片的常用名稱。 在1990年代後期，它的[3D領域主要競爭對手是](https://zh.wikipedia.org/wiki/3D "wikilink")[3dfx的](https://zh.wikipedia.org/wiki/3dfx "wikilink")[Voodoo系列](https://zh.wikipedia.org/wiki/Voodoo "wikilink")[顯示卡](https://zh.wikipedia.org/wiki/顯示卡 "wikilink")。其後在[ATi和](https://zh.wikipedia.org/wiki/ATi "wikilink")[Nvidia的激烈競爭中沒落](https://zh.wikipedia.org/wiki/Nvidia "wikilink")。自2002年起，很多[電腦遊戲都不會官方支持PowerVR](https://zh.wikipedia.org/wiki/電腦遊戲 "wikilink")，此後PowerVR主力發展低功耗市場。今天，很多[行動裝置上都能發現PowerVR的身影](https://zh.wikipedia.org/wiki/行動裝置 "wikilink")：在2010年，全球售出了超過2.15億枚包含PowerVR技術的晶片。 PowerVR加速器並非由PowerVR製造，而是其集成電路設計和專利授權給其他公司，如[德州儀器](https://zh.wikipedia.org/wiki/德州儀器 "wikilink")，[英特爾](https://zh.wikipedia.org/wiki/英特爾 "wikilink")，[NEC](https://zh.wikipedia.org/wiki/NEC "wikilink")，[黑莓](../Page/黑莓.md "wikilink")，[瑞薩](../Page/瑞薩電子.md "wikilink")，[三星](../Page/三星電子.md "wikilink")，[意法半導體](../Page/意法半導體.md "wikilink")，[飛思卡爾](https://zh.wikipedia.org/wiki/飛思卡爾 "wikilink")，[蘋果](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")，[恩智浦半導體等](../Page/恩智浦半导体.md "wikilink")。
 
 ## 實作
 
 ### Sega Dreamcast
 
-在1998和2001之間，第二代PowerVR2晶片是作為[SEGA
-Dreamcast遊戲機的繪圖處理器](https://zh.wikipedia.org/wiki/SEGA_Dreamcast "wikilink")。
+在1998和2001之間，第二代PowerVR2晶片是作為[SEGA Dreamcast遊戲機的繪圖處理器](https://zh.wikipedia.org/wiki/SEGA_Dreamcast "wikilink")。
 
 ### Sega NAOMI/NAOMI2/Aurora
 
@@ -26,8 +22,7 @@ iPod Touch 6G 是採用PowerVR GX6450的4核心圖像處理器（GPU） GPU Spee
 
 ### Apple iPad 2
 
-[iPad 2採用PowerVR](https://zh.wikipedia.org/wiki/iPad_2 "wikilink")
-SGX543MP2圖形處理核心，同時脈下理論性能是SGX540及Geforce ULP的4倍。
+[iPad 2採用PowerVR](https://zh.wikipedia.org/wiki/iPad_2 "wikilink") SGX543MP2圖形處理核心，同時脈下理論性能是SGX540及Geforce ULP的4倍。
 
 ### Apple Apple TV
 
@@ -37,16 +32,13 @@ SGX543MP2圖形處理核心，同時脈下理論性能是SGX540及Geforce ULP的
 
 ### Sony PS Vita
 
-Sony PS vita是索尼的掌上遊戲機，采用PowerVR SGX543MP4+ 四核心繪圖處理器（GPU），支持 OpenGL ES
-2.0 与 Shader Model 3.0 標準。
+Sony PS vita是索尼的掌上遊戲機，采用PowerVR SGX543MP4+ 四核心繪圖處理器（GPU），支持 OpenGL ES 2.0 与 Shader Model 3.0 標準。
 
 ## PowerVR SGX系列
 
 ### Series1 (NEC)
 
-[VideoLogic_Apocalypse_3Dx.jpg](https://zh.wikipedia.org/wiki/File:VideoLogic_Apocalypse_3Dx.jpg "fig:VideoLogic_Apocalypse_3Dx.jpg")
-Apocalypse 3Dx顯示卡，採用[日本電氣於](../Page/日本電氣.md "wikilink")1999年推出的PowerVR
-PCX2顯示晶片\]\]
+[VideoLogic_Apocalypse_3Dx.jpg](https://zh.wikipedia.org/wiki/File:VideoLogic_Apocalypse_3Dx.jpg "fig:VideoLogic_Apocalypse_3Dx.jpg") Apocalypse 3Dx顯示卡，採用[日本電氣](../Page/日本電氣.md "wikilink")於1999年推出的PowerVR PCX2顯示晶片\]\]
 
 <table>
 <thead>
@@ -300,8 +292,7 @@ PCX2顯示晶片\]\]
 </tbody>
 </table>
 
-  - <sup>1</sup> [纹理映射單元](../Page/纹理映射單元.md "wikilink"):
-    [渲染輸出單元](https://zh.wikipedia.org/wiki/渲染輸出單元 "wikilink")
+  - <sup>1</sup> [纹理映射單元](../Page/纹理映射單元.md "wikilink"): [渲染輸出單元](https://zh.wikipedia.org/wiki/渲染輸出單元 "wikilink")
 
 ### Series4 (STMicro)
 
@@ -479,8 +470,7 @@ PCX2顯示晶片\]\]
 
 ## 使用
 
-PowerVR
-[GPU型號可在以下](https://zh.wikipedia.org/wiki/GPU "wikilink")[系统芯片](../Page/系统芯片.md "wikilink")（SOC）中找到：
+PowerVR [GPU型號可在以下](https://zh.wikipedia.org/wiki/GPU "wikilink")[系统芯片](../Page/系统芯片.md "wikilink")（SOC）中找到：
 
 | 供應商                                                                                                                                                                                               | 推出年分                                                                                                                                                                                                                                                                                                                   | [系统芯片](../Page/系统芯片.md "wikilink")（SOC）名稱                                                                                                                                                                                                                                                                                                                                                    | PowerVR芯片組                           | 核心頻率       | [GFLOPS](https://zh.wikipedia.org/wiki/FLOPS "wikilink") |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ | ---------- | -------------------------------------------------------- |
@@ -639,11 +629,9 @@ PowerVR
 ## 外部連結
 
   -
-  - [PowerVR Technology
-    Overview](https://www.imgtec.com/?do-download=powervr-graphics-brochure)
+  - [PowerVR Technology Overview](https://www.imgtec.com/?do-download=powervr-graphics-brochure)
 
-[Category:顯示卡](https://zh.wikipedia.org/wiki/Category:顯示卡 "wikilink")
-[Category:顯示設備硬件公司](https://zh.wikipedia.org/wiki/Category:顯示設備硬件公司 "wikilink")
+[Category:顯示卡](https://zh.wikipedia.org/wiki/Category:顯示卡 "wikilink") [Category:顯示設備硬件公司](https://zh.wikipedia.org/wiki/Category:顯示設備硬件公司 "wikilink")
 
 1.  <http://www.ti.com/product/am3358>
 2.

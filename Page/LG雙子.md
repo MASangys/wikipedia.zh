@@ -1,5 +1,4 @@
-**LG雙子**(韓語:LG
-트윈스)是一支[韓國棒球委員會的球隊](../Page/韓國棒球委員會.md "wikilink")，母公司為[LG集团](../Page/LG集团.md "wikilink")，主場為[蠶室綜合運動場棒球場](https://zh.wikipedia.org/wiki/蠶室綜合運動場棒球場 "wikilink")，成立於1982年，前身為**MBC青龍隊**，分別在1990年、1994年拿下兩次總冠軍。
+**LG雙子**(韓語:LG 트윈스)是一支[韓國棒球委員會](../Page/韓國棒球委員會.md "wikilink")的球隊，母公司為[LG集团](../Page/LG集团.md "wikilink")，主場為[蠶室綜合運動場棒球場](https://zh.wikipedia.org/wiki/蠶室綜合運動場棒球場 "wikilink")，成立於1982年，前身為**MBC青龍隊**，分別在1990年、1994年拿下兩次總冠軍。
 
 [JamsilBP.gif](https://zh.wikipedia.org/wiki/File:JamsilBP.gif "fig:JamsilBP.gif")迎戰[斗山熊](https://zh.wikipedia.org/wiki/斗山熊 "wikilink")\]\]
 
@@ -88,7 +87,4 @@
   - [LG雙子官方YouTube](https://www.youtube.com/c/LGTwinsTV)
   - [LG雙子官方IG](https://www.instagram.com/lgtwinsbaseballclub/)
 
-[Category:紀錄模板](https://zh.wikipedia.org/wiki/Category:紀錄模板 "wikilink")
-[Category:韓國職棒球隊](https://zh.wikipedia.org/wiki/Category:韓國職棒球隊 "wikilink")
-[Category:首爾](https://zh.wikipedia.org/wiki/Category:首爾 "wikilink")
-[Category:LG集團](https://zh.wikipedia.org/wiki/Category:LG集團 "wikilink")
+[Category:紀錄模板](https://zh.wikipedia.org/wiki/Category:紀錄模板 "wikilink") [Category:韓國職棒球隊](https://zh.wikipedia.org/wiki/Category:韓國職棒球隊 "wikilink") [Category:首爾](https://zh.wikipedia.org/wiki/Category:首爾 "wikilink") [Category:LG集團](https://zh.wikipedia.org/wiki/Category:LG集團 "wikilink")

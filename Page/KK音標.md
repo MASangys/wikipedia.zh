@@ -1,7 +1,4 @@
-**KK音標**（），是一種[美式英語發音的](https://zh.wikipedia.org/wiki/美式英語 "wikilink")[音素](../Page/語音.md "wikilink")[音標](https://zh.wikipedia.org/wiki/音標 "wikilink")，它所使用的符號幾乎與[國際音標](../Page/國際音標.md "wikilink")（IPA）相符。KK音標最初使用在1944年出版的《美式英語發音辭典》（*[A
-Pronouncing Dictionary of American
-English](http://www.archive.org/details/pronouncingdicti00unse)*），由於兩位作者及[托馬斯·A·克諾特](https://zh.wikipedia.org/wiki/托馬斯·A·克諾特 "wikilink")（）的姓皆以K為開頭，所以此辭典俗稱為KK（Kenyon
-and Knott）音標。
+**KK音標**（），是一種[美式英語發音的](https://zh.wikipedia.org/wiki/美式英語 "wikilink")[音素](../Page/語音.md "wikilink")[音標](https://zh.wikipedia.org/wiki/音標 "wikilink")，它所使用的符號幾乎與[國際音標](../Page/國際音標.md "wikilink")（IPA）相符。KK音標最初使用在1944年出版的《美式英語發音辭典》（*[A Pronouncing Dictionary of American English](http://www.archive.org/details/pronouncingdicti00unse)*），由於兩位作者及[托馬斯·A·克諾特](https://zh.wikipedia.org/wiki/托馬斯·A·克諾特 "wikilink")（）的姓皆以K為開頭，所以此辭典俗稱為KK（Kenyon and Knott）音標。
 
 ## 歷史背景
 
@@ -114,6 +111,12 @@ and Knott）音標。
 <td><p>r<strong>ear</strong></p></td>
 </tr>
 <tr class="odd">
+<td><p>[ɚ]</p></td>
+<td><p>[ə]</p></td>
+<td></td>
+<td><p>broth<strong>er</strong></p></td>
+</tr>
+<tr class="even">
 <td><p>[ɝ]</p></td>
 <td><p>[ɜː]</p></td>
 <td></td>
@@ -354,8 +357,7 @@ KK音標和IPA有一些違背之處，大多是為了印刷方便：
 
 ## 外部連結
 
-  - [1949 年版 A Pronouncing Dictionary of American English
-    下載](http://www.archive.org/details/pronouncingdicti00unse)
+  - [1949 年版 A Pronouncing Dictionary of American English 下載](http://www.archive.org/details/pronouncingdicti00unse)
 
   -
 ## 參見

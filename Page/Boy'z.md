@@ -1,36 +1,28 @@
-**Boy'z**是[英皇娛樂旗下的](../Page/英皇娛樂.md "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")，成員為[張致恆及](../Page/張致恆.md "wikilink")[關智斌](../Page/關智斌.md "wikilink")。2005年關智斌退出組合後先後增添新成員[麥子豪及](../Page/麥子豪.md "wikilink")[陳偉霆](../Page/陳偉霆.md "wikilink")，2006年時改名為**Sun
-Boy'z**，至2008年陳偉霆及麥子豪退出組合。2010年，張致恆及關智斌重組為**Boy'z**，組合名稱於2018年改為**BOYZ**。2018年10月，BOYZ舉行出道16年來首個正式演唱會。\[1\]
+**Boy'z**是[英皇娛樂](../Page/英皇娛樂.md "wikilink")旗下的[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")，成員為[張致恆](../Page/張致恆.md "wikilink")及[關智斌](../Page/關智斌.md "wikilink")。2005年關智斌退出組合後先後增添新成員[麥子豪](../Page/麥子豪.md "wikilink")及[陳偉霆](../Page/陳偉霆.md "wikilink")，2006年時改名為**Sun Boy'z**，至2008年陳偉霆及麥子豪退出組合。2010年，張致恆及關智斌重組為**Boy'z**，組合名稱於2018年改為**BOYZ**。2018年10月，BOYZ舉行出道16年來首個正式演唱會。\[1\]
 
 ## 歷史
 
 2003年，Boy'z打著「男版[Twins](https://zh.wikipedia.org/wiki/Twins "wikilink")」的旗號進軍[娛樂圈](https://zh.wikipedia.org/wiki/娛樂圈 "wikilink")，當時成員為[關智斌](../Page/關智斌.md "wikilink")（Kenny）及[張致恒](https://zh.wikipedia.org/wiki/張致恒 "wikilink")（Steven）。首張唱片為《[LALA世界](../Page/LALA世界.md "wikilink")》，出道同名作品《Lala世界》推出即大受歡迎，而同年作品《死性不改》更是街知巷聞，後來英皇娛樂更推出與Twins的合唱版。《死性不改》至今仍為香港K場大熱。Boy'z在2003年度[叱吒樂壇流行榜頒獎禮獲得叱吒樂壇新力軍組合金獎](https://zh.wikipedia.org/wiki/叱吒樂壇流行榜頒獎禮 "wikilink")。
 
-2005年2月，關智斌因作個人發展而退出Boy'z，後來加入新成員[麥子豪](../Page/麥子豪.md "wikilink")（Dennis），成為第二代Boy'z。2006年6月，Boy'z再加添新成員[陳偉霆](../Page/陳偉霆.md "wikilink")（William），變成三人組合，並改名為**Sun
-Boy'z**，以全新形象示人，而張致恆亦成為組合隊長。
+2005年2月，關智斌因作個人發展而退出Boy'z，後來加入新成員[麥子豪](../Page/麥子豪.md "wikilink")（Dennis），成為第二代Boy'z。2006年6月，Boy'z再加添新成員[陳偉霆](../Page/陳偉霆.md "wikilink")（William），變成三人組合，並改名為**Sun Boy'z**，以全新形象示人，而張致恆亦成為組合隊長。
 
-2008年4月，[陳偉霆宣佈作個人發展及退出Sun](../Page/陳偉霆.md "wikilink")
-Boy'z\[2\]。同年12月，麥子豪亦宣佈退出娛樂圏，計劃到[瑞士修讀](https://zh.wikipedia.org/wiki/瑞士 "wikilink")[酒店管理課程](https://zh.wikipedia.org/wiki/酒店管理 "wikilink")\[3\]。據悉，麥子豪自覺性格不適合在娛樂圈發展，早前已曾考慮前途問題，最後決定越洋留學。Sun
-Boy'z經理人[霍汶希對麥子豪的決定表示支持](../Page/霍汶希.md "wikilink")，，不排除短期內再度公開招募成員的可能。
+2008年4月，[陳偉霆](../Page/陳偉霆.md "wikilink")宣佈作個人發展及退出Sun Boy'z\[2\]。同年12月，麥子豪亦宣佈退出娛樂圏，計劃到[瑞士修讀](https://zh.wikipedia.org/wiki/瑞士 "wikilink")[酒店管理課程](https://zh.wikipedia.org/wiki/酒店管理 "wikilink")\[3\]。據悉，麥子豪自覺性格不適合在娛樂圈發展，早前已曾考慮前途問題，最後決定越洋留學。Sun Boy'z經理人[霍汶希](../Page/霍汶希.md "wikilink")對麥子豪的決定表示支持，，不排除短期內再度公開招募成員的可能。
 
-2010年4月，[關智斌及](../Page/關智斌.md "wikilink")[張致恆再以Boy](../Page/張致恆.md "wikilink")'z的名義於《Twins人人彈起2010演唱會》擔任嘉賓並參與其他活動之演出。
+2010年4月，[關智斌](../Page/關智斌.md "wikilink")及[張致恆](../Page/張致恆.md "wikilink")再以Boy'z的名義於《Twins人人彈起2010演唱會》擔任嘉賓並參與其他活動之演出。
 
-2011年6月，[張敬軒於星島日報之報導中證實](https://zh.wikipedia.org/wiki/張敬軒 "wikilink")[關智斌及](../Page/關智斌.md "wikilink")[張致恆重組Boy](../Page/張致恆.md "wikilink")'z\[4\]。
+2011年6月，[張敬軒於星島日報之報導中證實](https://zh.wikipedia.org/wiki/張敬軒 "wikilink")[關智斌](../Page/關智斌.md "wikilink")及[張致恆](../Page/張致恆.md "wikilink")重組Boy'z\[4\]。
 
 2011年7月，Boy'z推出全新歌曲《Ready To Go》，是二人分隔五年後再次合體的首支派台歌。
 
 雖然Boy'z在官方上仍未宣佈解散，但自2012年後二人已經分道揚鑣。其中關智斌已轉往中國大陸發展，而張致恆則留守香港並簽約無綫成爲旗下藝員。關智斌於2016年宣布續約英皇娛樂，唯張致恆已於2017年完成合約後離開。
 
-近年開始經常擔任其他歌手演唱會的嘉賓，例如 Twins LOL Live (2016) 及 張敬軒HINSIDEOUT (2018)
-演唱會的嘉賓。而[張敬軒於](https://zh.wikipedia.org/wiki/張敬軒 "wikilink")
-張敬軒HINSIDEOUT 尾場演唱會更提及 Boy'z 日後會開一場演唱會。\[5\]
+近年開始經常擔任其他歌手演唱會的嘉賓，例如 Twins LOL Live (2016) 及 張敬軒HINSIDEOUT (2018) 演唱會的嘉賓。而[張敬軒於](https://zh.wikipedia.org/wiki/張敬軒 "wikilink") 張敬軒HINSIDEOUT 尾場演唱會更提及 Boy'z 日後會開一場演唱會。\[5\]
 
-2018年10月16日，BOYZ官方宣佈於九龍灣國際展貿中心匯星 Star Hall舉行《BOYZ The Unboxing
-Live》演唱會。\[6\]。
+2018年10月16日，BOYZ官方宣佈於九龍灣國際展貿中心匯星 Star Hall舉行《BOYZ The Unboxing Live》演唱會。\[6\]。
 
 ## 音樂作品
 
-[Sunboyz2007.jpg](https://zh.wikipedia.org/wiki/File:Sunboyz2007.jpg "fig:Sunboyz2007.jpg")
-[Sun_Boy'z_@_Lan_Kwai_Fong_Carnival_-_2007-10-12_18h24m38s_SN203484.JPG](https://zh.wikipedia.org/wiki/File:Sun_Boy'z_@_Lan_Kwai_Fong_Carnival_-_2007-10-12_18h24m38s_SN203484.JPG "fig:Sun_Boy'z_@_Lan_Kwai_Fong_Carnival_-_2007-10-12_18h24m38s_SN203484.JPG")「開幕之夜」任表演嘉賓\]\]
+[Sunboyz2007.jpg](https://zh.wikipedia.org/wiki/File:Sunboyz2007.jpg "fig:Sunboyz2007.jpg") [Sun_Boy'z_@_Lan_Kwai_Fong_Carnival_-_2007-10-12_18h24m38s_SN203484.JPG](https://zh.wikipedia.org/wiki/File:Sun_Boy'z_@_Lan_Kwai_Fong_Carnival_-_2007-10-12_18h24m38s_SN203484.JPG "fig:Sun_Boy'z_@_Lan_Kwai_Fong_Carnival_-_2007-10-12_18h24m38s_SN203484.JPG")「開幕之夜」任表演嘉賓\]\]
 
 ### 專輯
 
@@ -259,10 +251,8 @@ Live》演唱會。\[6\]。
 #### 2006年
 
   - 2006年度[新城勁爆頒獎禮](../Page/新城勁爆頒獎禮.md "wikilink") ：新城勁爆新人王組合
-  - 2006年度[RoadShow至尊音樂頒獎禮](../Page/RoadShow至尊音樂頒獎禮.md "wikilink")
-    ：至尊新組合樂隊
-  - 第二十九屆[十大中文金曲](https://zh.wikipedia.org/wiki/十大中文金曲 "wikilink")
-    ：最有前途新人獎優異獎
+  - 2006年度[RoadShow至尊音樂頒獎禮](../Page/RoadShow至尊音樂頒獎禮.md "wikilink") ：至尊新組合樂隊
+  - 第二十九屆[十大中文金曲](https://zh.wikipedia.org/wiki/十大中文金曲 "wikilink") ：最有前途新人獎優異獎
   - 廣州電台《2006金曲金榜》： 最佳新人組合（港台及海外地區部份）
   - 《9+2音樂先鋒榜》： 港台最受歡迎新人獎（組合）
   - 加拿大中文電台《加拿大至Hit 中文歌曲排行榜06年總選》： 全國推崇新組合
@@ -270,10 +260,8 @@ Live》演唱會。\[6\]。
 
 #### 2007年
 
-  - 2007年度[新城勁爆頒獎禮](../Page/新城勁爆頒獎禮.md "wikilink") ：新城勁爆合唱歌曲
-    《3+1=1》（與[關智斌合唱](../Page/關智斌.md "wikilink")）
-  - 2007年度[RoadShow至尊音樂頒獎禮](../Page/RoadShow至尊音樂頒獎禮.md "wikilink")
-    ：RoadShow至尊舞臺演繹 《步步進逼》
+  - 2007年度[新城勁爆頒獎禮](../Page/新城勁爆頒獎禮.md "wikilink") ：新城勁爆合唱歌曲 《3+1=1》（與[關智斌](../Page/關智斌.md "wikilink")合唱）
+  - 2007年度[RoadShow至尊音樂頒獎禮](../Page/RoadShow至尊音樂頒獎禮.md "wikilink") ：RoadShow至尊舞臺演繹 《步步進逼》
 
 ## 參考資料
 
@@ -281,27 +269,17 @@ Live》演唱會。\[6\]。
 
 </div>
 
-[Category:香港男子演唱團體](https://zh.wikipedia.org/wiki/Category:香港男子演唱團體 "wikilink")
-[Category:粵語流行音樂團體](https://zh.wikipedia.org/wiki/Category:粵語流行音樂團體 "wikilink")
-[Category:2003年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2003年成立的音樂團體 "wikilink")
+[Category:香港男子演唱團體](https://zh.wikipedia.org/wiki/Category:香港男子演唱團體 "wikilink") [Category:粵語流行音樂團體](https://zh.wikipedia.org/wiki/Category:粵語流行音樂團體 "wikilink") [Category:2003年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2003年成立的音樂團體 "wikilink")
 
 1.
 2.  [陳偉霆：梁洛施英皇決裂可惜](http://hk.news.yahoo.com/080419/60/2snrf.html)
-3.  [Sun
-    Boy'z將重整旗鼓　麥子豪退出讀酒店管理](http://the-sun.on.cc/channels/ent/20081229/20081229001021_0000.html)
-4.  [大馬密會 酒店談心
-    Eason發功幫霆鋒](http://hk.news.yahoo.com/%E5%A4%A7%E9%A6%AC%E5%AF%86%E6%9C%83-%E9%85%92%E5%BA%97%E8%AB%87%E5%BF%83-eason%E7%99%BC%E5%8A%9F%E5%B9%AB%E9%9C%86%E9%8B%92-223000366.html)
+3.  [Sun Boy'z將重整旗鼓　麥子豪退出讀酒店管理](http://the-sun.on.cc/channels/ent/20081229/20081229001021_0000.html)
+4.  [大馬密會 酒店談心 Eason發功幫霆鋒](http://hk.news.yahoo.com/%E5%A4%A7%E9%A6%AC%E5%AF%86%E6%9C%83-%E9%85%92%E5%BA%97%E8%AB%87%E5%BF%83-eason%E7%99%BC%E5%8A%9F%E5%B9%AB%E9%9C%86%E9%8B%92-223000366.html)
 5.  [張敬軒降兩度演唱會～19/6尾埸](https://www.youtube.com/watch?v=5Fjw2l37oxQ&t=7m37s)
 6.
-7.  [iTunes - Music - LALA世界 - EP by
-    Boy'z](https://itunes.apple.com/hk/album/id543878501)
-8.  [iTunes - Music - 一起喝采 - EP by
-    Boy'z](https://itunes.apple.com/hk/album/id543878933)
-9.  [iTunes - Music - A Year to Remember - EP by
-    Boy'z](https://itunes.apple.com/hk/album/id544797319)
-10. [iTunes - Music - Boy'Zone 男生圍 by
-    Boy'z](https://itunes.apple.com/hk/album/id543880668)
-11. [iTunes - Music - Boy'z Can Cook by
-    Boy'z](https://itunes.apple.com/hk/album/id543881433)
-12. [iTunes - Music - Ready to Go by
-    Boy'z](https://itunes.apple.com/hk/album/id543885889)
+7.  [iTunes - Music - LALA世界 - EP by Boy'z](https://itunes.apple.com/hk/album/id543878501)
+8.  [iTunes - Music - 一起喝采 - EP by Boy'z](https://itunes.apple.com/hk/album/id543878933)
+9.  [iTunes - Music - A Year to Remember - EP by Boy'z](https://itunes.apple.com/hk/album/id544797319)
+10. [iTunes - Music - Boy'Zone 男生圍 by Boy'z](https://itunes.apple.com/hk/album/id543880668)
+11. [iTunes - Music - Boy'z Can Cook by Boy'z](https://itunes.apple.com/hk/album/id543881433)
+12. [iTunes - Music - Ready to Go by Boy'z](https://itunes.apple.com/hk/album/id543885889)

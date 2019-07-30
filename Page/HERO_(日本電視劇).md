@@ -1,10 +1,10 @@
-《**HERO**》是一齣[日本](../Page/日本.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")，於2001年1月8日至2001年3月19日於[富士電視台的](../Page/富士電視台.md "wikilink")「[月九](https://zh.wikipedia.org/wiki/月九 "wikilink")」時段播出，共有11集，主要描述一名中學畢業的行事與眾不同的[檢察官](../Page/檢察官.md "wikilink")，以獨特的視角和洞察力探求真實。
+《**HERO**》是一齣[日本](../Page/日本.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")，於2001年1月8日至2001年3月19日於[富士電視台](../Page/富士電視台.md "wikilink")的「[月九](https://zh.wikipedia.org/wiki/月九 "wikilink")」時段播出，共有11集，主要描述一名中學畢業的行事與眾不同的[檢察官](../Page/檢察官.md "wikilink")，以獨特的視角和洞察力探求真實。
 
-本劇是[木村拓哉與](../Page/木村拓哉.md "wikilink")[松隆子自](../Page/松隆子.md "wikilink")《[-{zh-hans:恋爱世纪;zh-hk:戀愛世紀;zh-tw:戀愛世代;}-](https://zh.wikipedia.org/wiki/戀愛世紀 "wikilink")》後再次創下收視紀錄的合作，平均收視率為34.2%。
+本劇是[木村拓哉](../Page/木村拓哉.md "wikilink")與[松隆子](../Page/松隆子.md "wikilink")自《[-{zh-hans:恋爱世纪;zh-hk:戀愛世紀;zh-tw:戀愛世代;}-](https://zh.wikipedia.org/wiki/戀愛世紀 "wikilink")》後再次創下收視紀錄的合作，平均收視率為34.2%。
 
-在本篇播出後5年，[富士電視台於](../Page/富士電視台.md "wikilink")2006年7月3日推出了長達138分鐘的HERO特別篇（僅有一集），除了原班人馬，亦加入[綾瀨遙](../Page/綾瀨遙.md "wikilink")、[堤真一等名演員](../Page/堤真一.md "wikilink")，有30.9%收視。劇集的成功也催生[電影版](../Page/HERO_\(2007年電影\).md "wikilink")，電影緊接特別篇於2007年9月8日在日本上映，並拿下年度票房第3。
+在本篇播出後5年，[富士電視台](../Page/富士電視台.md "wikilink")於2006年7月3日推出了長達138分鐘的HERO特別篇（僅有一集），除了原班人馬，亦加入[綾瀨遙](../Page/綾瀨遙.md "wikilink")、[堤真一](../Page/堤真一.md "wikilink")等名演員，有30.9%收視。劇集的成功也催生[電影版](../Page/HERO_\(2007年電影\).md "wikilink")，電影緊接特別篇於2007年9月8日在日本上映，並拿下年度票房第3。
 
-2014年4月28日[富士電視台宣布開拍續集](../Page/富士電視台.md "wikilink")，為該年度夏季檔，HERO睽違13年再次復活，這也是[木村拓哉第](../Page/木村拓哉.md "wikilink")10次主演月九劇，於2014年7月14日至2014年9月22日在[富士電視台的](../Page/富士電視台.md "wikilink")「[月九](https://zh.wikipedia.org/wiki/月九 "wikilink")」時段播出，共有11集。續集角色陣容有不少變動，如久利生公平的劇中搭檔從[松隆子改為](../Page/松隆子.md "wikilink")[北川景子](../Page/北川景子.md "wikilink")，由北川景子飾演事務官麻木千佳，新加入的共演者還有杉本哲太、[濱田岳](../Page/濱田岳.md "wikilink")、[吉田羊](../Page/吉田羊.md "wikilink")、[勝矢](https://zh.wikipedia.org/wiki/勝矢 "wikilink")、[松重豐等人](../Page/松重豐.md "wikilink")，正名僕藏、田中要次、八嶋智人、[小日向文世和角野卓造也再度回歸出演要角](../Page/小日向文世.md "wikilink")。
+2014年4月28日[富士電視台](../Page/富士電視台.md "wikilink")宣布開拍續集，為該年度夏季檔，HERO睽違13年再次復活，這也是[木村拓哉](../Page/木村拓哉.md "wikilink")第10次主演月九劇，於2014年7月14日至2014年9月22日在[富士電視台](../Page/富士電視台.md "wikilink")的「[月九](https://zh.wikipedia.org/wiki/月九 "wikilink")」時段播出，共有11集。續集角色陣容有不少變動，如久利生公平的劇中搭檔從[松隆子](../Page/松隆子.md "wikilink")改為[北川景子](../Page/北川景子.md "wikilink")，由北川景子飾演事務官麻木千佳，新加入的共演者還有杉本哲太、[濱田岳](../Page/濱田岳.md "wikilink")、[吉田羊](../Page/吉田羊.md "wikilink")、[勝矢](https://zh.wikipedia.org/wiki/勝矢 "wikilink")、[松重豐](../Page/松重豐.md "wikilink")等人，正名僕藏、田中要次、八嶋智人、[小日向文世](../Page/小日向文世.md "wikilink")和角野卓造也再度回歸出演要角。
 
 2015年7月18日[第二部電影版在日本上映](../Page/HERO_\(2015年電影\).md "wikilink")，松隆子以大阪地方檢查廳難波支部的雨宮舞子檢察官身分與久利生公平、麻木千佳共同調查一個涉及[治外法權的棘手案件](../Page/外交豁免權.md "wikilink")。主要角色陣容除松隆子和[佐藤浩市](../Page/佐藤浩市.md "wikilink")（飾演外務省歐洲局局長松葉圭介）外，與第二季相同。
 
@@ -12,11 +12,11 @@
 
   - 第一季
 
-久利生公平（[木村拓哉飾](../Page/木村拓哉.md "wikilink")）曾經因為行為不檢涉案並半途退學，只有國中畢業，後來因為負責他案件的檢察官盡心調查，為他爭取權益，使他決定報考同等學歷以及司法考試，合格後成為了[檢察官](../Page/檢察官.md "wikilink")。他喜愛一身便服，橙色夾克風衣加牛仔褲的打扮，跟一般西裝筆挺的檢察官很不一樣。
+久利生公平（[木村拓哉](../Page/木村拓哉.md "wikilink")飾）曾經因為行為不檢涉案並半途退學，只有國中畢業，後來因為負責他案件的檢察官盡心調查，為他爭取權益，使他決定報考同等學歷以及司法考試，合格後成為了[檢察官](../Page/檢察官.md "wikilink")。他喜愛一身便服，橙色夾克風衣加牛仔褲的打扮，跟一般西裝筆挺的檢察官很不一樣。
 
 故事的開始，講述久利生從[青森被調到](https://zh.wikipedia.org/wiki/青森 "wikilink")[東京地方檢察廳城西支部的刑事部](https://zh.wikipedia.org/wiki/東京 "wikilink")。久利生不按常規，獨豎一幟的作風，跟東京地檢的一眾檢察官和事務官們很自然地擦出火花。
 
-雨宮舞子（[松隆子飾](../Page/松隆子.md "wikilink")）擔任事務官，對晉升副檢察官一直抱著希望。她對工作專心，是典型的事業型女性。由於聽說久利生是個厲害的檢察官，覺得在他身上可以學到很多東西，所以就向上司毛遂自薦擔任久利生的事務官。但接觸到久利生本人後，就被他的外表和辦事手法嚇倒了。
+雨宮舞子（[松隆子](../Page/松隆子.md "wikilink")飾）擔任事務官，對晉升副檢察官一直抱著希望。她對工作專心，是典型的事業型女性。由於聽說久利生是個厲害的檢察官，覺得在他身上可以學到很多東西，所以就向上司毛遂自薦擔任久利生的事務官。但接觸到久利生本人後，就被他的外表和辦事手法嚇倒了。
 
 此外，各有其風格的同事檢察官中村美鈴、江上達夫、主任檢察官芝山貢、事務官末次隆之、遠藤賢司，還有刑事部部長牛丸豐，他們對久利生事無大小都熱情投入，衣著隨便的作風都感到格格不入，覺得很難理解。只有次席檢察長鍋島利光，對久利生公平的表現充滿著期待……
 
@@ -28,9 +28,9 @@
 
 相隔13年後，HERO回來了！久利生公平（木村拓哉飾）檢察官再現，與事務官北川景子全新搭檔，試圖揭發所有事件的真相。
 
-東京地檢城西支部的成員，都在八卦新檢察官報到的消息。而即將與新任檢察官搭檔的，是看似大小姐卻會撂狠話的事務官麻木千佳（[北川景子飾](../Page/北川景子.md "wikilink")）。
+東京地檢城西支部的成員，都在八卦新檢察官報到的消息。而即將與新任檢察官搭檔的，是看似大小姐卻會撂狠話的事務官麻木千佳（[北川景子](../Page/北川景子.md "wikilink")飾）。
 
-久利生才剛到任，便立刻展開偵訊。嫌犯大西（[森山直太朗飾](../Page/森山直太朗.md "wikilink")）的指紋和15年前的寶石大盜一模一樣，但大西卻矢口否認。眼見強盜案時效即將在3天後到期，久利生要如何在各方壓力下找出事件的真相？
+久利生才剛到任，便立刻展開偵訊。嫌犯大西（[森山直太朗](../Page/森山直太朗.md "wikilink")飾）的指紋和15年前的寶石大盜一模一樣，但大西卻矢口否認。眼見強盜案時效即將在3天後到期，久利生要如何在各方壓力下找出事件的真相？
 
 ## 角色與演員
 
@@ -61,7 +61,7 @@
 <p><a href="../Page/木村拓哉.md" title="wikilink">木村拓哉</a></p></td>
 <td><center>
 <p>久利生公平</p></td>
-<td><p>一名與眾不同的新進檢察官，平常總是穿著輕便的牛仔褲和夾克風衣，對於<a href="https://zh.wikipedia.org/wiki/電視購物" title="wikilink">電視購物非常熱衷</a>，因而買了各式各樣奇特的產品寄到檢查署，引起同事議論紛紛。雖然他自己也知道這不是好習慣，但在日常辦案過程中往往都能藉著這項嗜好，與其他人攀談拉近距離、化敵為友。他將日本檢察官佩戴在西裝領口的「<a href="https://zh.wikipedia.org/wiki/秋霜烈日" title="wikilink">秋霜烈日徽章</a>」放在牛仔褲的口袋裡，只有在行使檢察官職權時才會出示。高中時被退學，最高學歷僅有國中，後來考學歷鑑定後再經過司法考試成為檢察官。一開始在<a href="https://zh.wikipedia.org/wiki/青森" title="wikilink">青森任職</a>，之後調任到<a href="https://zh.wikipedia.org/wiki/東京" title="wikilink">東京地方檢察廳城西支部的刑事部</a>。久利生解決案件時以其他檢察官少有的獨特觀點，站在事件當事人的角度進行調查，他的信念認為檢察官就是被害者的辯護人，為了解決案件會堅持到底。過去曾為了保護朋友而因傷害案件被逮捕。久利生在負責那起事件的沼田檢察官面前一句話也不肯說，但因為看見沼田對於案件的用心調查，並且沼田找了許多證據，最後證明久利生無罪，讓久利生以沼田為目標，下定決心要成為一名檢察官。在最後一集時，因為過去曾被逮捕而引起騷動，久利生被調任到<a href="../Page/沖繩縣.md" title="wikilink">沖繩縣的</a><a href="../Page/石垣島.md" title="wikilink">石垣島</a>。在特別篇中，久利生又接著被調到<a href="../Page/北海道.md" title="wikilink">北海道和</a><a href="https://zh.wikipedia.org/wiki/山口縣" title="wikilink">山口縣</a>，最後再度回到東京。</p></td>
+<td><p>一名與眾不同的新進檢察官，平常總是穿著輕便的牛仔褲和夾克風衣，對於<a href="https://zh.wikipedia.org/wiki/電視購物" title="wikilink">電視購物非常熱衷</a>，因而買了各式各樣奇特的產品寄到檢查署，引起同事議論紛紛。雖然他自己也知道這不是好習慣，但在日常辦案過程中往往都能藉著這項嗜好，與其他人攀談拉近距離、化敵為友。他將日本檢察官佩戴在西裝領口的「<a href="https://zh.wikipedia.org/wiki/秋霜烈日" title="wikilink">秋霜烈日徽章</a>」放在牛仔褲的口袋裡，只有在行使檢察官職權時才會出示。高中時被退學，最高學歷僅有國中，後來考學歷鑑定後再經過司法考試成為檢察官。一開始在<a href="https://zh.wikipedia.org/wiki/青森" title="wikilink">青森任職</a>，之後調任到<a href="https://zh.wikipedia.org/wiki/東京" title="wikilink">東京地方檢察廳城西支部的刑事部</a>。久利生解決案件時以其他檢察官少有的獨特觀點，站在事件當事人的角度進行調查，他的信念認為檢察官就是被害者的辯護人，為了解決案件會堅持到底。過去曾為了保護朋友而因傷害案件被逮捕。久利生在負責那起事件的沼田檢察官面前一句話也不肯說，但因為看見沼田對於案件的用心調查，並且沼田找了許多證據，最後證明久利生無罪，讓久利生以沼田為目標，下定決心要成為一名檢察官。在最後一集時，因為過去曾被逮捕而引起騷動，久利生被調任到<a href="../Page/沖繩縣.md" title="wikilink">沖繩縣</a>的<a href="../Page/石垣島.md" title="wikilink">石垣島</a>。在特別篇中，久利生又接著被調到<a href="../Page/北海道.md" title="wikilink">北海道</a>和<a href="https://zh.wikipedia.org/wiki/山口縣" title="wikilink">山口縣</a>，最後再度回到東京。</p></td>
 <td><center>
 <p>27歲</p></td>
 <td><center>
@@ -72,7 +72,7 @@
 <p><a href="../Page/松隆子.md" title="wikilink">松隆子</a></p></td>
 <td><center>
 <p>雨宮舞子</p></td>
-<td><p>原本是協助中村美鈴的事務官，之後自願轉任久利生的協助事務官（美鈴因此用「劈腿」來揶揄她）。雨宮希望能成為個能獨當一面的專業女性，和久利生同樣抱持著「為了受害者，一定要讓壞人受到應有制裁」的想法，她希望通過檢察廳內部的特別考試，當上檢察官。雨宮一開始因為久利生被退學的經歷而嫌棄他，但在與久利生共事合作幾起案件後，雨宮的內心想法和態度也漸漸被改變。非常喜歡<a href="../Page/K-1.md" title="wikilink">K-1和各種格鬥技</a>。</p></td>
+<td><p>原本是協助中村美鈴的事務官，之後自願轉任久利生的協助事務官（美鈴因此用「劈腿」來揶揄她）。雨宮希望能成為個能獨當一面的專業女性，和久利生同樣抱持著「為了受害者，一定要讓壞人受到應有制裁」的想法，她希望通過檢察廳內部的特別考試，當上檢察官。雨宮一開始因為久利生被退學的經歷而嫌棄他，但在與久利生共事合作幾起案件後，雨宮的內心想法和態度也漸漸被改變。非常喜歡<a href="../Page/K-1.md" title="wikilink">K-1</a>和各種格鬥技。</p></td>
 <td><center>
 <p>24歲</p></td>
 <td><center>
@@ -180,7 +180,7 @@
 <td><center></td>
 <td><center>
 <p>酒吧「St.George's Tavern」老闆</p></td>
-<td><p>什麼料理都「有喔」的酒吧老闆</p></td>
+<td><p>總是板著撲克臉，從各式料理乃至電視購物的健身器材，什麼東西都「有喔」的神秘人物。</p></td>
 <td></td>
 <td><center>
 <p><a href="../Page/雷霆.md" title="wikilink">雷霆</a></p></td>
@@ -2581,8 +2581,7 @@
   - 第28屆[日劇學院賞](../Page/日劇學院賞.md "wikilink")，六項獲獎
       - 最佳作品
       - 最佳男主角（[木村拓哉](../Page/木村拓哉.md "wikilink")）
-      - 最佳主題曲（[宇多田光](../Page/宇多田光.md "wikilink")「[Can You Keep A
-        Secret?](../Page/Can_You_Keep_A_Secret?.md "wikilink")」）
+      - 最佳主題曲（[宇多田光](../Page/宇多田光.md "wikilink")「[Can You Keep A Secret?](../Page/Can_You_Keep_A_Secret?.md "wikilink")」）
       - 最佳服裝造型（木村拓哉）
       - 最佳導演
       - 最佳配樂
@@ -2594,7 +2593,7 @@
 
 ## 播出日程、收視率
 
-《HERO》於2001年1月8日至2001年3月19日在日本[富士電視台首播](../Page/富士電視台.md "wikilink")，時間（[JST](../Page/日本標準時間.md "wikilink")）為每星期一21:00～21:54（第一集加長版為21:00～22:09，結局篇為21:00～22:19）。
+《HERO》於2001年1月8日至2001年3月19日在日本[富士電視台](../Page/富士電視台.md "wikilink")首播，時間（[JST](../Page/日本標準時間.md "wikilink")）為每星期一21:00～21:54（第一集加長版為21:00～22:09，結局篇為21:00～22:19）。
 
 本劇首播時的收視率全部超過30%（日本[關東地區](https://zh.wikipedia.org/wiki/關東地區 "wikilink")）。《HERO》是富士電視台平均收視率最高的連續劇，此外也是單集最高收視率的第二名。
 
@@ -2848,8 +2847,7 @@
 <!-- end list -->
 
   - 谷村雅史（南場的前任男友，在結婚典禮上被淋成落湯雞） - [三浦力](../Page/三浦力.md "wikilink")
-  - 南場礼（向谷村潑水的嫌疑者） -
-    [小野百合子](https://zh.wikipedia.org/wiki/小野百合子 "wikilink")
+  - 南場礼（向谷村潑水的嫌疑者） - [小野百合子](https://zh.wikipedia.org/wiki/小野百合子 "wikilink")
 
 <!-- end list -->
 
@@ -2859,8 +2857,7 @@
 
   - 劇本 - [仁志光佑](https://zh.wikipedia.org/wiki/仁志光佑 "wikilink")
   - 導演 - 金井紘、平野眞、森脇智延、目黑由紀乃
-  - 主題曲 - 服部隆之「『HERO』-Main
-    Title-」（[EMI音樂日本](../Page/EMI音樂日本.md "wikilink")）
+  - 主題曲 - 服部隆之「『HERO』-Main Title-」（[EMI音樂日本](../Page/EMI音樂日本.md "wikilink")）
   - 助理導演 - 水戶祐介
   - 標題背景・VFX - 山本雅之
   - 製作人 - 渡邊恒也、池田拓也
@@ -2872,19 +2869,11 @@
   - 放送日程
     {| class="wikitable" style="text-align:center"
 
-|- \!各話\!\!放送日\!\!標題\!\!導演\!\!放送時間 |-
-|第一夜||style="text-align:right"|2014年8月11日||恐怖！城西支部的殺人鬼！？警衛小杉||金井紘||2:20
-- 2:35 |-
-|第二夜||style="text-align:right"|2014年8月18日||做有趣的事！警衛VS不笑兒童||平野眞||2:50
-- 3:05 |-
-|第三夜||style="text-align:right"|2014年8月25日||戀愛是事件的開始？檢察官馬場禮子，登場！||森脇智延||2:45
-- 3:00 |-
-|第四夜||style="text-align:right"|2014年9月15日||咦！？小杉是檢察官！？那男人奇妙的夢||目黒由紀乃||2:50
-- 3:05 |- |}
+|- \!各話\!\!放送日\!\!標題\!\!導演\!\!放送時間 |- |第一夜||style="text-align:right"|2014年8月11日||恐怖！城西支部的殺人鬼！？警衛小杉||金井紘||2:20 - 2:35 |- |第二夜||style="text-align:right"|2014年8月18日||做有趣的事！警衛VS不笑兒童||平野眞||2:50 - 3:05 |- |第三夜||style="text-align:right"|2014年8月25日||戀愛是事件的開始？檢察官馬場禮子，登場！||森脇智延||2:45 - 3:00 |- |第四夜||style="text-align:right"|2014年9月15日||咦！？小杉是檢察官！？那男人奇妙的夢||目黒由紀乃||2:50 - 3:05 |- |}
 
 ## 雜記
 
-[缩略图](https://zh.wikipedia.org/wiki/File:Utada_in_hero.jpg "fig:缩略图")演唱本劇片尾曲的歌手[宇多田光在第](../Page/宇多田光.md "wikilink")1季第8集客串演出一名進來倒水的餐廳女服務生，時間約14秒。而第8集創下了全系列最高收視率（36.8%）。之後被富士電視台問到有無意願往戲劇方面做進一步的發展，她回答「這似乎不是我所規劃的方向」婉拒。
+[缩略图](https://zh.wikipedia.org/wiki/File:Utada_in_hero.jpg "fig:缩略图")演唱本劇片尾曲的歌手[宇多田光](../Page/宇多田光.md "wikilink")在第1季第8集客串演出一名進來倒水的餐廳女服務生，時間約14秒。而第8集創下了全系列最高收視率（36.8%）。之後被富士電視台問到有無意願往戲劇方面做進一步的發展，她回答「這似乎不是我所規劃的方向」婉拒。
 
 ## 參考資料
 
@@ -2918,29 +2907,6 @@
 
 ## 節目的變遷
 
-[Category:電視劇集系列](https://zh.wikipedia.org/wiki/Category:電視劇集系列 "wikilink")
-[Category:富士電視台特別劇集](https://zh.wikipedia.org/wiki/Category:富士電視台特別劇集 "wikilink")
-[Category:2001年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2001年開播的日本電視劇集 "wikilink")
-[Category:2006年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2006年電視特別劇集 "wikilink")
-[Category:日劇學院賞最佳作品](https://zh.wikipedia.org/wiki/Category:日劇學院賞最佳作品 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
-[Category:華視外購電視劇](https://zh.wikipedia.org/wiki/Category:華視外購電視劇 "wikilink")
-[Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink")
-[Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink")
-[Category:日本法律劇](https://zh.wikipedia.org/wiki/Category:日本法律劇 "wikilink")
-[Category:日本犯罪劇](https://zh.wikipedia.org/wiki/Category:日本犯罪劇 "wikilink")
-[Category:日本電視喜劇](https://zh.wikipedia.org/wiki/Category:日本電視喜劇 "wikilink")
-[Category:檢察官題材電視劇](https://zh.wikipedia.org/wiki/Category:檢察官題材電視劇 "wikilink")
-[Category:東京背景電視劇](https://zh.wikipedia.org/wiki/Category:東京背景電視劇 "wikilink")
-[Category:山口縣背景作品](https://zh.wikipedia.org/wiki/Category:山口縣背景作品 "wikilink")
-[Category:亞樹直](https://zh.wikipedia.org/wiki/Category:亞樹直 "wikilink")
-[Category:福田靖劇本電視劇](https://zh.wikipedia.org/wiki/Category:福田靖劇本電視劇 "wikilink")
-[Category:銀河賞選獎獲獎作品](https://zh.wikipedia.org/wiki/Category:銀河賞選獎獲獎作品 "wikilink")
-[Category:2006年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2006年日本電視劇集 "wikilink")
-[Category:2014年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2014年日本電視劇集 "wikilink")
-[Category:木村拓哉](https://zh.wikipedia.org/wiki/Category:木村拓哉 "wikilink")
-[Category:日刊體育日劇大賞作品獎](https://zh.wikipedia.org/wiki/Category:日刊體育日劇大賞作品獎 "wikilink")
-[Category:香港有線電視外購劇集](https://zh.wikipedia.org/wiki/Category:香港有線電視外購劇集 "wikilink")
-[Category:阿部寬](https://zh.wikipedia.org/wiki/Category:阿部寬 "wikilink")
+[Category:電視劇集系列](https://zh.wikipedia.org/wiki/Category:電視劇集系列 "wikilink") [Category:富士電視台特別劇集](https://zh.wikipedia.org/wiki/Category:富士電視台特別劇集 "wikilink") [Category:2001年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2001年開播的日本電視劇集 "wikilink") [Category:2006年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2006年電視特別劇集 "wikilink") [Category:日劇學院賞最佳作品](https://zh.wikipedia.org/wiki/Category:日劇學院賞最佳作品 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink") [Category:華視外購電視劇](https://zh.wikipedia.org/wiki/Category:華視外購電視劇 "wikilink") [Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink") [Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink") [Category:日本法律劇](https://zh.wikipedia.org/wiki/Category:日本法律劇 "wikilink") [Category:日本犯罪劇](https://zh.wikipedia.org/wiki/Category:日本犯罪劇 "wikilink") [Category:日本電視喜劇](https://zh.wikipedia.org/wiki/Category:日本電視喜劇 "wikilink") [Category:檢察官題材電視劇](https://zh.wikipedia.org/wiki/Category:檢察官題材電視劇 "wikilink") [Category:東京背景電視劇](https://zh.wikipedia.org/wiki/Category:東京背景電視劇 "wikilink") [Category:山口縣背景作品](https://zh.wikipedia.org/wiki/Category:山口縣背景作品 "wikilink") [Category:亞樹直](https://zh.wikipedia.org/wiki/Category:亞樹直 "wikilink") [Category:福田靖劇本電視劇](https://zh.wikipedia.org/wiki/Category:福田靖劇本電視劇 "wikilink") [Category:銀河賞選獎獲獎作品](https://zh.wikipedia.org/wiki/Category:銀河賞選獎獲獎作品 "wikilink") [Category:2006年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2006年日本電視劇集 "wikilink") [Category:2014年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2014年日本電視劇集 "wikilink") [Category:木村拓哉](https://zh.wikipedia.org/wiki/Category:木村拓哉 "wikilink") [Category:日刊體育日劇大賞作品獎](https://zh.wikipedia.org/wiki/Category:日刊體育日劇大賞作品獎 "wikilink") [Category:香港有線電視外購劇集](https://zh.wikipedia.org/wiki/Category:香港有線電視外購劇集 "wikilink") [Category:阿部寬](https://zh.wikipedia.org/wiki/Category:阿部寬 "wikilink")
 
 1.

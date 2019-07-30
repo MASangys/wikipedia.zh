@@ -1,21 +1,16 @@
-**QQ瀏覽器**（****）是一款採用[WebKit和](../Page/WebKit.md "wikilink")[Trident雙引擎的](../Page/Trident_\(排版引擎\).md "wikilink")[网页浏览器](../Page/网页浏览器.md "wikilink")。此前，腾讯曾开发了**腾讯Explorer**（一般称为**腾讯TE**）和**腾讯TT**两款以Trident排版引擎为核心的浏览器，以及集成了WebKit引擎的QQ浏览器5、QQ浏览器6。2015年6月19日，QQ浏览器9.0版正式版发布\[1\]。
+**QQ瀏覽器**（****）是一款採用[WebKit](../Page/WebKit.md "wikilink")和[Trident雙引擎的](../Page/Trident_\(排版引擎\).md "wikilink")[网页浏览器](../Page/网页浏览器.md "wikilink")。此前，腾讯曾开发了**腾讯Explorer**（一般称为**腾讯TE**）和**腾讯TT**两款以Trident排版引擎为核心的浏览器，以及集成了WebKit引擎的QQ浏览器5、QQ浏览器6。2015年6月19日，QQ浏览器9.0版正式版发布\[1\]。
 
 ## 歷史
 
 ### 捆綁在OICQ內的騰訊TE（2000－2003）
 
-2000年11月15日，騰訊公司發布了**騰訊Explorer**（**T**encent
-**E**xplorer，簡稱**TE**）的首個版本，並將其捆綁於5日後發布的OICQ 2000
-Preview1
-1115（即現在的[騰訊QQ](https://zh.wikipedia.org/wiki/騰訊QQ "wikilink")）中。\[2\]該瀏覽器是中國大陸最早的[分頁瀏覽器之一](https://zh.wikipedia.org/wiki/分頁瀏覽器 "wikilink")\[3\]\[4\]，使用Trident排版引擎（即常說的Internet
-Explorer內核）對页面進行渲染\[5\]。
+2000年11月15日，騰訊公司發布了**騰訊Explorer**（**T**encent **E**xplorer，簡稱**TE**）的首個版本，並將其捆綁於5日後發布的OICQ 2000 Preview1 1115（即現在的[騰訊QQ](https://zh.wikipedia.org/wiki/騰訊QQ "wikilink")）中。\[2\]該瀏覽器是中國大陸最早的[分頁瀏覽器之一](https://zh.wikipedia.org/wiki/分頁瀏覽器 "wikilink")\[3\]\[4\]，使用Trident排版引擎（即常說的Internet Explorer內核）對页面進行渲染\[5\]。
 
 首個版本的騰訊TE中包含了「谁与我同在」的功能，該功能可以讓同時瀏覽同一網頁的OICQ用戶進行在線交流，然而這個功能引起用戶對個人資料安全的擔憂。為消除用戶疑慮，騰訊在2003年4月24日發布聲明，稱使用該功能時瀏覽網頁並不會暴露個人資料；若用戶不想使用該功能但同時要使用瀏覽器，可選擇「隱身」模式。\[6\]
 
 ### 剝離QQ並重寫原始碼的騰訊TT（2003－2009）
 
-2003年，騰訊在騰訊TE的基礎上對其原始碼進行重寫，並於11月11日發布首個版本的新瀏覽器，即**騰訊TT**（**T**encent
-**T**raveler）。\[7\]至此，軟件正式從騰訊QQ中剝離，成為獨立的一個軟件\[8\]。與騰訊TE相比，騰訊TT增加了如更換軟件皮膚等個性化功能；同時，還開始提供了[鼠標手勢](https://zh.wikipedia.org/wiki/鼠標手勢 "wikilink")、智能屏蔽廣告等輔助功能。\[9\]但其中的「智能屏蔽廣告」功能會對用戶上網瀏覽的內容進行記錄，並將記錄存儲在軟件安裝目錄下的TTraveler2.dat文件中，有洩漏用戶上網信息之虞。\[10\]
+2003年，騰訊在騰訊TE的基礎上對其原始碼進行重寫，並於11月11日發布首個版本的新瀏覽器，即**騰訊TT**（**T**encent **T**raveler）。\[7\]至此，軟件正式從騰訊QQ中剝離，成為獨立的一個軟件\[8\]。與騰訊TE相比，騰訊TT增加了如更換軟件皮膚等個性化功能；同時，還開始提供了[鼠標手勢](https://zh.wikipedia.org/wiki/鼠標手勢 "wikilink")、智能屏蔽廣告等輔助功能。\[9\]但其中的「智能屏蔽廣告」功能會對用戶上網瀏覽的內容進行記錄，並將記錄存儲在軟件安裝目錄下的TTraveler2.dat文件中，有洩漏用戶上網信息之虞。\[10\]
 
 騰訊於2008年再次對程式進行重寫，並於5月7日發布4.0版，自該版開始，TT打開網頁將以多線程進行瀏覽，以提高速度和性能。\[11\]但仍是以Trident排版引擎為核心。4.X系列的最後版本為2011年1月5日發布的4.8(1000)版\[12\]。
 
@@ -23,8 +18,7 @@ Explorer內核）對页面進行渲染\[5\]。
 
 ### 雙核的QQ瀏覽器（2010－）
 
-2010年5月25日，騰訊發布了QQ瀏覽器5.0
-Preview1版，QQ瀏覽器開始使用Webkit和Trident雙內核對網頁進行渲染\[13\]。
+2010年5月25日，騰訊發布了QQ瀏覽器5.0 Preview1版，QQ瀏覽器開始使用Webkit和Trident雙內核對網頁進行渲染\[13\]。
 
 QQ瀏覽器與同樣使用雙排版引擎進行渲染的[搜狗瀏覽器](https://zh.wikipedia.org/wiki/搜狗瀏覽器 "wikilink")、[楓樹瀏覽器](https://zh.wikipedia.org/wiki/楓樹瀏覽器 "wikilink")（ChromePlus）進行聯合推廣\[14\]，瀏覽者瀏覽[搜狐主頁](http://www.sohu.com/)和[楓樹瀏覽器主頁](http://www.chromeplus.org/)時，面頁頂端會彈出顯眼的提示條進行宣傳。
 
@@ -50,7 +44,7 @@ QQ瀏覽器與同樣使用雙排版引擎進行渲染的[搜狗瀏覽器](https:
 
 ## aiww事件
 
-2011年5月30日，有网民发现腾讯在其“腾讯软-{}-件中心”QQ浏览器介绍页面中的图片中出现了“aiww”（中国艺术家[艾未未的网名](../Page/艾未未.md "wikilink")，其于2011年被限制人身自由）及“[64](../Page/六四事件.md "wikilink")”字样，而在浏览器的介绍文字中“释放”两字也被加粗\[18\]\[19\]。
+2011年5月30日，有网民发现腾讯在其“腾讯软-{}-件中心”QQ浏览器介绍页面中的图片中出现了“aiww”（中国艺术家[艾未未](../Page/艾未未.md "wikilink")的网名，其于2011年被限制人身自由）及“[64](../Page/六四事件.md "wikilink")”字样，而在浏览器的介绍文字中“释放”两字也被加粗\[18\]\[19\]。
 
 事件之后字样变成了“Love”和“99”。\[20\]
 
@@ -92,12 +86,9 @@ QQ瀏覽器與同樣使用雙排版引擎進行渲染的[搜狗瀏覽器](https:
 
   - 搜搜百科上對[騰訊TT瀏覽器](http://baike.soso.com/v1848315.htm)和[QQ瀏覽器5](http://baike.soso.com/v9388181.htm)的描述
 
-  - [天极Myhard学院
-    介绍腾讯TT新功能](http://www.yesky.com/lesson/361419367654621184/20040326/1781353.shtml)，天极網，2004年3月26日
+  - [天极Myhard学院 介绍腾讯TT新功能](http://www.yesky.com/lesson/361419367654621184/20040326/1781353.shtml)，天极網，2004年3月26日
 
-[Category:腾讯软件](https://zh.wikipedia.org/wiki/Category:腾讯软件 "wikilink")
-[Category:網頁瀏覽器](https://zh.wikipedia.org/wiki/Category:網頁瀏覽器 "wikilink")
-[Category:免費軟件](https://zh.wikipedia.org/wiki/Category:免費軟件 "wikilink")
+[Category:腾讯软件](https://zh.wikipedia.org/wiki/Category:腾讯软件 "wikilink") [Category:網頁瀏覽器](https://zh.wikipedia.org/wiki/Category:網頁瀏覽器 "wikilink") [Category:免費軟件](https://zh.wikipedia.org/wiki/Category:免費軟件 "wikilink")
 
 1.
 

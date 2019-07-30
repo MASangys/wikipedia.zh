@@ -977,47 +977,29 @@
 
 ## 脚注
 
-1.  Page Access Control: Some wiki engines allow（可选）read/write access
-    restriction to users or user groups on a per-page basis (e.g.
-    through [Access control
-    lists](https://zh.wikipedia.org/wiki/Access_control_list "wikilink")).
+1.  Page Access Control: Some wiki engines allow（可选）read/write access restriction to users or user groups on a per-page basis (e.g. through [Access control lists](https://zh.wikipedia.org/wiki/Access_control_list "wikilink")).
 
-2.  Inline HTML *Safe* means that several features of HTML are
-    restricted. This is better than *Full*, for security reasons. Users
-    with complete access to HTML could, for example, create
-    [spoof](https://zh.wikipedia.org/wiki/phishing "wikilink") forms to
-    trick users.
+2.  Inline HTML *Safe* means that several features of HTML are restricted. This is better than *Full*, for security reasons. Users with complete access to HTML could, for example, create [spoof](https://zh.wikipedia.org/wiki/phishing "wikilink") forms to trick users.
 
-3.  User-customizable interface: Many items have administrator
-    hand-editable 模板。Even items which use hard-coded 模板 could still be
-    modified if the source is available.
+3.  User-customizable interface: Many items have administrator hand-editable 模板。Even items which use hard-coded 模板 could still be modified if the source is available.
 
-4.  Licenses here are a summary，和are not taken to be complete statements
-    of the licenses. Some packages 5月 use libraries under different
-    licenses.
+4.  Licenses here are a summary，和are not taken to be complete statements of the licenses. Some packages 5月 use libraries under different licenses.
 
-5.  “Ease of installation” is expressed relative to other server
-    software packages，和not to desktop applications.
-    [65](https://web.archive.org/web/20060926095452/http://halfpie.net/article/507/installing-instiki-on-windows)
+5.  “Ease of installation” is expressed relative to other server software packages，和not to desktop applications. [65](https://web.archive.org/web/20060926095452/http://halfpie.net/article/507/installing-instiki-on-windows)
 
 6.  MediaWiki 自定义接口 –模板。
 
-7.  Instiki - Ruby License Instiki is distributed under the same terms
-    as Ruby itself, per the [Ruby
-    license](https://web.archive.org/web/20061230055943/http://ruby.mirror.easynet.be/en/LICENSE.txt)。
+7.  Instiki - Ruby License Instiki is distributed under the same terms as Ruby itself, per the [Ruby license](https://web.archive.org/web/20061230055943/http://ruby.mirror.easynet.be/en/LICENSE.txt)。
 
-8.  "Evidence that demonstrates that a business model or idea is
-    feasible."[66](http://www.investorwords.com/3899/proof_of_concept.html)
+8.  "Evidence that demonstrates that a business model or idea is feasible."[66](http://www.investorwords.com/3899/proof_of_concept.html)
 
-9.  URL anding are available using a MediaWiki extension.
-    [67](http://mail.wikipedia.org/pipermail/wikitech-l/2005-12月/033270.html)
+9.  URL anding are available using a MediaWiki extension. [67](http://mail.wikipedia.org/pipermail/wikitech-l/2005-12月/033270.html)
 
 ## 外部链接
 
   - [68](http://www.wikideveloper.com/圍紀开发者) - 圍紀软件和开发搜索
   - [圍紀Matrix](http://www.wikimatrix.org/) - Wiki比较和特点介绍
-  - [免费圍紀信息](https://web.archive.org/web/20061222094003/http://www.freewiki.info/)
-    - Wiki展示，抓屏，链接
+  - [免费圍紀信息](https://web.archive.org/web/20061222094003/http://www.freewiki.info/) - Wiki展示，抓屏，链接
   - \[<http://www.wiki.org/wiki.cgi>? 什么是圍紀\] - 一般圍紀介绍
 
 ## 参见
@@ -1026,5 +1008,4 @@
 
 {{-}}
 
-[Category:Wiki软件](https://zh.wikipedia.org/wiki/Category:Wiki软件 "wikilink")
-[Category:软件比较](https://zh.wikipedia.org/wiki/Category:软件比较 "wikilink")
+[Category:Wiki软件](https://zh.wikipedia.org/wiki/Category:Wiki软件 "wikilink") [Category:软件比较](https://zh.wikipedia.org/wiki/Category:软件比较 "wikilink")

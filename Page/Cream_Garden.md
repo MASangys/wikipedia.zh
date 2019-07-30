@@ -1,5 +1,4 @@
-**《Cream
-Garden》**是香港歌唱組合[Cream的首張唱片](https://zh.wikipedia.org/wiki/Cream_\(香港樂隊\) "wikilink")，共推出2個版本。
+**《Cream Garden》**是香港歌唱組合[Cream的首張唱片](https://zh.wikipedia.org/wiki/Cream_\(香港樂隊\) "wikilink")，共推出2個版本。
 
 ## 曲目列表
 
@@ -106,10 +105,7 @@ Poul Dehnhardt</p></td>
 
 ## 外部連結
 
-  - [《Cream
-    Garden》於Cream歌迷會網頁的介紹](http://www.angelfire.com/super2/thebestgroup/garden.htm)
-  - [《Cream
-    Garden》於Yesasia的介紹](http://us.yesasia.com/b5/PrdDept.aspx/aid-1052903/section-music/code-c/version-all/pid-1003846283/)
+  - [《Cream Garden》於Cream歌迷會網頁的介紹](http://www.angelfire.com/super2/thebestgroup/garden.htm)
+  - [《Cream Garden》於Yesasia的介紹](http://us.yesasia.com/b5/PrdDept.aspx/aid-1052903/section-music/code-c/version-all/pid-1003846283/)
 
-[Category:Cream音樂專輯](https://zh.wikipedia.org/wiki/Category:Cream音樂專輯 "wikilink")
-[Category:2004年音樂專輯](https://zh.wikipedia.org/wiki/Category:2004年音樂專輯 "wikilink")
+[Category:Cream音樂專輯](https://zh.wikipedia.org/wiki/Category:Cream音樂專輯 "wikilink") [Category:2004年音樂專輯](https://zh.wikipedia.org/wiki/Category:2004年音樂專輯 "wikilink")

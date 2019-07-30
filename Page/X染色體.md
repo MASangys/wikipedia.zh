@@ -1,14 +1,10 @@
-**X染色體**是部分[動物決定性別的](https://zh.wikipedia.org/wiki/動物 "wikilink")[染色體之一](https://zh.wikipedia.org/wiki/染色體 "wikilink")。它出現在X0和XY[性別決定系統中](../Page/性別決定系統.md "wikilink")。對一般[人類來說](../Page/人類.md "wikilink")，[女性有兩條X染色體](../Page/女性.md "wikilink")，[男性X](../Page/男性.md "wikilink")、[Y染色體各有一條](../Page/Y染色體.md "wikilink")。
+**X染色體**是部分[動物決定性別的](https://zh.wikipedia.org/wiki/動物 "wikilink")[染色體之一](https://zh.wikipedia.org/wiki/染色體 "wikilink")。它出現在X0和XY[性別決定系統](../Page/性別決定系統.md "wikilink")中。對一般[人類](../Page/人類.md "wikilink")來說，[女性](../Page/女性.md "wikilink")有兩條X染色體，[男性](../Page/男性.md "wikilink")X、[Y染色體](../Page/Y染色體.md "wikilink")各有一條。
 
 ## 人類
 
-在人類約20000至25000個[基因之中](../Page/基因.md "wikilink")，X染色體約有2000個基因。
+在人類約20000至25000個[基因](../Page/基因.md "wikilink")之中，X染色體約有2000個基因。
 
-一般女性有兩條**X染色體**，有一條會惰性化，變成[巴爾體](https://zh.wikipedia.org/wiki/巴爾體 "wikilink")（Barr
-body），這個作用稱為[X去活性](https://zh.wikipedia.org/wiki/X去活性 "wikilink")（X
-inactivation）或[里昂化作用](https://zh.wikipedia.org/wiki/里昂化作用 "wikilink")（lyonization，以發現者Mary
-F. Lyon命名）。（參見：[三色貓](../Page/三色貓.md "wikilink")）
-不論生物遺傳了幾個X染色體，都只有一個X染色體會活性化，其餘皆惰性化，使生物能正常發揮功能，並具有修復功能。
+一般女性有兩條**X染色體**，有一條會惰性化，變成[巴爾體](https://zh.wikipedia.org/wiki/巴爾體 "wikilink")（Barr body），這個作用稱為[X去活性](https://zh.wikipedia.org/wiki/X去活性 "wikilink")（X inactivation）或[里昂化作用](https://zh.wikipedia.org/wiki/里昂化作用 "wikilink")（lyonization，以發現者Mary F. Lyon命名）。（參見：[三色貓](../Page/三色貓.md "wikilink")） 不論生物遺傳了幾個X染色體，都只有一個X染色體會活性化，其餘皆惰性化，使生物能正常發揮功能，並具有修復功能。
 
 ## 疾病
 
@@ -16,8 +12,7 @@ F. Lyon命名）。（參見：[三色貓](../Page/三色貓.md "wikilink")）
 
   - [X-三體](https://zh.wikipedia.org/wiki/X-三體 "wikilink")：女性有三條X染色體。她們發展較遲緩（但可由後天多加培養而糾正），平均智力為90，較正常的100為低。她們能正常生育。\[[https://web.archive.org/web/20070205222117/http://www.aaa.dk/TURNER/ENGELSK/TRIEN.HTM\]較罕見的情況如XXXX或XXXXX都有](https://web.archive.org/web/20070205222117/http://www.aaa.dk/TURNER/ENGELSK/TRIEN.HTM%5D較罕見的情況如XXXX或XXXXX都有)。
   - [克氏综合症](https://zh.wikipedia.org/wiki/克氏综合症 "wikilink")：男性有兩條X染色體。他們的[睪酮水平可能較低](https://zh.wikipedia.org/wiki/睪酮 "wikilink")，胸部發育接近女性。較罕見的情況如XXXY或XXXXY都有。
-  - [透納氏症](https://zh.wikipedia.org/wiki/透納氏症 "wikilink")（Turner
-    syndrome）：女性只有一條X染色體。她們身材較矮小，性功能不能正常發展。
+  - [透納氏症](https://zh.wikipedia.org/wiki/透納氏症 "wikilink")（Turner syndrome）：女性只有一條X染色體。她們身材較矮小，性功能不能正常發展。
   - [XYY-三体](https://zh.wikipedia.org/wiki/XYY-三体 "wikilink")：男性多出一条Y染色体。患者身材高大，智力一般与正常人没有过大的差别。
 
 ### 遺傳病
@@ -72,18 +67,14 @@ X性聯[隱性](https://zh.wikipedia.org/wiki/隱性基因 "wikilink")[遺傳病
   - [色素失調症](https://zh.wikipedia.org/wiki/色素失調症 "wikilink")
   - [維生素D型無效性](https://zh.wikipedia.org/wiki/維生素D "wikilink")[佝僂病](../Page/佝僂病.md "wikilink")
   - [CMTX](https://zh.wikipedia.org/wiki/CMTX "wikilink")（[腓骨肌萎縮症的一種](https://zh.wikipedia.org/wiki/腓骨肌萎縮症 "wikilink")）
-  - [蕾特氏症](../Page/蕾特氏症.md "wikilink")([Rett
-    Syndrome](https://zh.wikipedia.org/wiki/Rett_Syndrome "wikilink"))
+  - [蕾特氏症](../Page/蕾特氏症.md "wikilink")([Rett Syndrome](https://zh.wikipedia.org/wiki/Rett_Syndrome "wikilink"))
 
 ## 外部連結
 
   - [什麼是里昂化作用？，黃仲嘉（科學月刊0259期）](http://book.tngs.tn.edu.tw/database/scientieic/content/1991/00070259/0011.htm)
-  - [Sciscape
-    新聞Dec 20, 2002：愛斷裂的染色體](https://web.archive.org/web/20070522213127/http://www.sciscape.org/news_detail.php?news_id=907)
-  - [Sciscape
-    新聞Feb 12, 2004：逃離X染色體](https://web.archive.org/web/20070927173119/http://www.sciscape.org/news_detail.php?news_id=1385)
+  - [Sciscape 新聞Dec 20, 2002：愛斷裂的染色體](https://web.archive.org/web/20070522213127/http://www.sciscape.org/news_detail.php?news_id=907)
+  - [Sciscape 新聞Feb 12, 2004：逃離X染色體](https://web.archive.org/web/20070927173119/http://www.sciscape.org/news_detail.php?news_id=1385)
 
 {{-}}
 
-[Category:染色体](https://zh.wikipedia.org/wiki/Category:染色体 "wikilink")
-[Category:细胞遗传学](https://zh.wikipedia.org/wiki/Category:细胞遗传学 "wikilink")
+[Category:染色体](https://zh.wikipedia.org/wiki/Category:染色体 "wikilink") [Category:细胞遗传学](https://zh.wikipedia.org/wiki/Category:细胞遗传学 "wikilink")

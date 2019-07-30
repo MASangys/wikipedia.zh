@@ -1,18 +1,12 @@
-**Rurutia**（），日本女歌手。現所屬事務所為CRAFTSMAN
-MUSIC。作為一名歌手，她並沒有公開自己的履歷；她輕柔的聲音、富情感的音樂，無形中形成了獨一和神秘的魅力。
-藝名Rurutia是自身的[基督教](../Page/基督教.md "wikilink")[洗禮名](https://zh.wikipedia.org/wiki/洗禮名 "wikilink")\[1\]
-由雙親的朋友，出身於[大溪地島的神父命名](https://zh.wikipedia.org/wiki/大溪地島 "wikilink")\[2\]。在[大溪地語的意思就是](../Page/大溪地語.md "wikilink")「下雨」（rorotea）但是由於那裡雨水稀少，所以就帶上了「恩惠之雨」的含義。\[3\]
+**Rurutia**（），日本女歌手。現所屬事務所為CRAFTSMAN MUSIC。作為一名歌手，她並沒有公開自己的履歷；她輕柔的聲音、富情感的音樂，無形中形成了獨一和神秘的魅力。 藝名Rurutia是自身的[基督教](../Page/基督教.md "wikilink")[洗禮名](https://zh.wikipedia.org/wiki/洗禮名 "wikilink")\[1\] 由雙親的朋友，出身於[大溪地島的神父命名](https://zh.wikipedia.org/wiki/大溪地島 "wikilink")\[2\]。在[大溪地語](../Page/大溪地語.md "wikilink")的意思就是「下雨」（rorotea）但是由於那裡雨水稀少，所以就帶上了「恩惠之雨」的含義。\[3\]
 
 ## 音樂性
 
-RURUTIA自幼開始學習彈奏古典鋼琴。\[4\] 學生時代受到朋友自殺的衝擊\[5\]，為了整理自責和悲傷的感情，開始了制作歌曲。\[6\]
-音樂風格主要受[古典音樂和](https://zh.wikipedia.org/wiki/古典音樂 "wikilink")[额我略平咏聖歌的影響](https://zh.wikipedia.org/wiki/额我略平咏 "wikilink")。\[7\]
+RURUTIA自幼開始學習彈奏古典鋼琴。\[4\] 學生時代受到朋友自殺的衝擊\[5\]，為了整理自責和悲傷的感情，開始了制作歌曲。\[6\] 音樂風格主要受[古典音樂和](https://zh.wikipedia.org/wiki/古典音樂 "wikilink")[额我略平咏聖歌的影響](https://zh.wikipedia.org/wiki/额我略平咏 "wikilink")。\[7\]
 
-作詞作曲的方法，是先把旋律和當時印象的言語記錄下來，然後寫作歌詞。\[8\]
-除了作詞作曲以外，使用合成器和音樂序列器等編曲和程序編制等也親自動手，兼備音樂創作和編曲的能力。初期學習DTM的知識時，使用DAW軟件合成器。04年開始使用「SampleTank2」、「Atomosphere」、「Trilogi」和「Stylus」作為音源。\[9\]
+作詞作曲的方法，是先把旋律和當時印象的言語記錄下來，然後寫作歌詞。\[8\] 除了作詞作曲以外，使用合成器和音樂序列器等編曲和程序編制等也親自動手，兼備音樂創作和編曲的能力。初期學習DTM的知識時，使用DAW軟件合成器。04年開始使用「SampleTank2」、「Atomosphere」、「Trilogi」和「Stylus」作為音源。\[9\]
 
-獨特的歌唱方法屬於[Whisper
-voice系](https://zh.wikipedia.org/wiki/Whisper_voice "wikilink")，一種被形容為「[妖精的聲音](https://zh.wikipedia.org/wiki/妖精 "wikilink")」，具治癒效果的聲線。\[10\]
+獨特的歌唱方法屬於[Whisper voice系](https://zh.wikipedia.org/wiki/Whisper_voice "wikilink")，一種被形容為「[妖精的聲音](https://zh.wikipedia.org/wiki/妖精 "wikilink")」，具治癒效果的聲線。\[10\]
 
 ## 履历
 
@@ -42,13 +36,11 @@ voice系](https://zh.wikipedia.org/wiki/Whisper_voice "wikilink")，一種被形
 
 <!-- end list -->
 
-  - 12月6日 第二张单曲『ロスト
-    バタフライ』发售。被各地方FM点播播放，当关于曲名及艺人名等询问纷纷到来时，一下引发关注，连续五周Oricon上榜，销量累计破万。
+  - 12月6日 第二张单曲『ロスト バタフライ』发售。被各地方FM点播播放，当关于曲名及艺人名等询问纷纷到来时，一下引发关注，连续五周Oricon上榜，销量累计破万。
 
 <!-- end list -->
 
-  - 12月
-    音乐网站beatrip.com中期间限定特设网页"Rurutia'sRoom"开设。手机网站"rurutia.com"开设。第二年与官方网站合并。
+  - 12月 音乐网站beatrip.com中期间限定特设网页"Rurutia'sRoom"开设。手机网站"rurutia.com"开设。第二年与官方网站合并。
 
 ### 2002年
 
@@ -56,18 +48,15 @@ voice系](https://zh.wikipedia.org/wiki/Whisper_voice "wikilink")，一種被形
 
 <!-- end list -->
 
-  - 2月4日 Regular番组·bay-fm广播节目『ARTIST PARADISE with
-    Rurutia』（每周二25:05左右～约20分）放送开始。
+  - 2月4日 Regular番组·bay-fm广播节目『ARTIST PARADISE with Rurutia』（每周二25:05左右～约20分）放送开始。
 
 <!-- end list -->
 
-  - 2月 『ARTIST PARADISE with
-    Rurutia』网络流媒体放送開始。比FM放送稍晚几天，每周一回，可以与FM收听到相同内容。
+  - 2月 『ARTIST PARADISE with Rurutia』网络流媒体放送開始。比FM放送稍晚几天，每周一回，可以与FM收听到相同内容。
 
 <!-- end list -->
 
-  - 2月17日 excite.co.jp举行专辑Web先行试听会『RURUTIA Listening Party of
-    R°』。特设B.B.S.（期间限定）设置并运营。
+  - 2月17日 excite.co.jp举行专辑Web先行试听会『RURUTIA Listening Party of R°』。特设B.B.S.（期间限定）设置并运营。
 
 <!-- end list -->
 
@@ -87,13 +76,11 @@ voice系](https://zh.wikipedia.org/wiki/Whisper_voice "wikilink")，一種被形
 
 <!-- end list -->
 
-  - 5月2日&09日 『ARTISTPARADISE with Rurutia』节目中首次将『RURUTIA
-    文库』第一卷『R°+』中揭载的文章播送出来。
+  - 5月2日&09日 『ARTISTPARADISE with Rurutia』节目中首次将『RURUTIA 文库』第一卷『R°+』中揭载的文章播送出来。
 
 <!-- end list -->
 
-  - 5月26日
-    根据RURUTIA的形象而制作的广播剧『恵みの島～星のつぶやき（恩惠之屿\~繁星的呢喃细语）』获得民放连赏（娱乐部门参加作品）。FM東京先行放送。
+  - 5月26日 根据RURUTIA的形象而制作的广播剧『恵みの島～星のつぶやき（恩惠之屿\~繁星的呢喃细语）』获得民放连赏（娱乐部门参加作品）。FM東京先行放送。
 
 <!-- end list -->
 
@@ -109,8 +96,7 @@ voice系](https://zh.wikipedia.org/wiki/Whisper_voice "wikilink")，一種被形
 
 <!-- end list -->
 
-  - 7月1日～7月31日 限定期间·FM爱知『RURUTIA
-    ゆるぎない美しいもの』广播节目（每周一～四23:55～24:00）播送并放送RURUTIA的歌曲。
+  - 7月1日～7月31日 限定期间·FM爱知『RURUTIA ゆるぎない美しいもの』广播节目（每周一～四23:55～24:00）播送并放送RURUTIA的歌曲。
 
 <!-- end list -->
 
@@ -126,14 +112,11 @@ voice系](https://zh.wikipedia.org/wiki/Whisper_voice "wikilink")，一種被形
 
 <!-- end list -->
 
-  - 2月26日 第二张专辑『Water Forest』发售。『シャイン ～ヒマラヤンハーモニー～ feat.
-    インドラ』被收录在东芝EMI合集『New ASIA ～the most
-    relaxing～ feel presents』中。
+  - 2月26日 第二张专辑『Water Forest』发售。『シャイン ～ヒマラヤンハーモニー～ feat. インドラ』被收录在东芝EMI合集『New ASIA ～the most relaxing～ feel presents』中。
 
 <!-- end list -->
 
-  - 6月21日～7月4日 RURUTIA作曲佐藤鹰编曲的第二部短篇电影『MEMOIR』（监督：窪田崇 主演：蒼井優）于SkyPerfect
-    TV节目中播放。
+  - 6月21日～7月4日 RURUTIA作曲佐藤鹰编曲的第二部短篇电影『MEMOIR』（监督：窪田崇 主演：蒼井優）于SkyPerfect TV节目中播放。
 
 <!-- end list -->
 
@@ -141,13 +124,11 @@ voice系](https://zh.wikipedia.org/wiki/Whisper_voice "wikilink")，一種被形
 
 <!-- end list -->
 
-  - 8月24日 SkyPerfect TV 749频道So-net Channel节目『The Creators
-    JAM：COMUNICATION『KECHI　MATSULI』』中、『MEMOIR』播放。
+  - 8月24日 SkyPerfect TV 749频道So-net Channel节目『The Creators JAM：COMUNICATION『KECHI　MATSULI』』中、『MEMOIR』播放。
 
 <!-- end list -->
 
-  - 10月5日
-    由RURUTIA担当片头曲和片尾曲的电视动画『ポポロクロイス（波波罗库罗伊斯物语）』于东京TV开始播放。在同节目的CM时段，主题曲『トロイメライ』的单曲宣传CM播放。
+  - 10月5日 由RURUTIA担当片头曲和片尾曲的电视动画『ポポロクロイス（波波罗库罗伊斯物语）』于东京TV开始播放。在同节目的CM时段，主题曲『トロイメライ』的单曲宣传CM播放。
 
 <!-- end list -->
 
@@ -159,13 +140,11 @@ voice系](https://zh.wikipedia.org/wiki/Whisper_voice "wikilink")，一種被形
 
 <!-- end list -->
 
-  - 12月26日
-    动画『ポポロクロイス』录像\&DVD化。Vol.1发售。之后Vol2、3发售。DVD的Vol.1収録『トロイメライ』的PV。
+  - 12月26日 动画『ポポロクロイス』录像\&DVD化。Vol.1发售。之后Vol2、3发售。DVD的Vol.1収録『トロイメライ』的PV。
 
 ### 2004年
 
-  - 6月1日 官方網站改版。"blue zone"與"red zone"合并。手機向網頁"mobile
-    zone"改為手機専用，普通PC無法連接。
+  - 6月1日 官方網站改版。"blue zone"與"red zone"合并。手機向網頁"mobile zone"改為手機専用，普通PC無法連接。
 
 <!-- end list -->
 
@@ -177,8 +156,7 @@ voice系](https://zh.wikipedia.org/wiki/Whisper_voice "wikilink")，一種被形
 
 <!-- end list -->
 
-  - 6月17日 音楽情報站BARKS、ルルティア復刻特集系列開始。「朱雀の空」的短篇電影同廣播劇「恵みの島」、bayfm「ARTIST
-    PARADISE」等期間限定Streaming公開。
+  - 6月17日 音楽情報站BARKS、ルルティア復刻特集系列開始。「朱雀の空」的短篇電影同廣播劇「恵みの島」、bayfm「ARTIST PARADISE」等期間限定Streaming公開。
 
 <!-- end list -->
 
@@ -186,20 +164,17 @@ voice系](https://zh.wikipedia.org/wiki/Whisper_voice "wikilink")，一種被形
 
 <!-- end list -->
 
-  - 11月11日
-    由ルルティア負責音樂的短編電影「きみの秘密、僕のこころ」（監督·窪田崇／主演·忍成修吾、大沢あかね）、于川口SKIPシティ的川口摩托賽場宣布試映。川口市長岡村幸四郎同摩托選手森且行都參與觀賞。
+  - 11月11日 由ルルティア負責音樂的短編電影「きみの秘密、僕のこころ」（監督·窪田崇／主演·忍成修吾、大沢あかね）、于川口SKIPシティ的川口摩托賽場宣布試映。川口市長岡村幸四郎同摩托選手森且行都參與觀賞。
 
 <!-- end list -->
 
   - 11月22日 「きみの秘密、僕のこころ」、于ExciteCINEMA最先網絡獨家發布開始。
 
-12月9日～1月22日
-使用了ルルティア楽曲的廣播劇「ラッセ·ハルストレムがうまく言えない」在FM無線電JFN系「円都通信」內開始播放。1次／週、全7集播放。寒竹ゆり·腳本、窪田崇·監督、出演·池脇千鶴、津田寛治、滝沢涼子、前田綾花、ムッシュかまやつほか。
+12月9日～1月22日 使用了ルルティア楽曲的廣播劇「ラッセ·ハルストレムがうまく言えない」在FM無線電JFN系「円都通信」內開始播放。1次／週、全7集播放。寒竹ゆり·腳本、窪田崇·監督、出演·池脇千鶴、津田寛治、滝沢涼子、前田綾花、ムッシュかまやつほか。
 
 ### 2005年
 
-  - 1月8日 包括「きみの秘密、僕のこころ」在內的5部新進制作人的短篇電影于己于"MOVIE
-    HUSTLE"、テアトル池袋的劇場公開放映。連日晚場播放、截止21日放映。同時，So-net和NTTフレッツスクウェア的網上發布也開始。
+  - 1月8日 包括「きみの秘密、僕のこころ」在內的5部新進制作人的短篇電影于己于"MOVIE HUSTLE"、テアトル池袋的劇場公開放映。連日晚場播放、截止21日放映。同時，So-net和NTTフレッツスクウェア的網上發布也開始。
 
 <!-- end list -->
 
@@ -207,14 +182,11 @@ voice系](https://zh.wikipedia.org/wiki/Whisper_voice "wikilink")，一種被形
 
 <!-- end list -->
 
-  - 2月26日～3月13日 ルルティア擔當片頭曲的特別電視劇「彼らの海VII -Wish On The
-    Polestar-」，于Fujiテレビ系各局放送（テレビ熊本·電通制作）。出演·木村了、長谷部優、石橋蓮司等／監督？窪田崇。
+  - 2月26日～3月13日 ルルティア擔當片頭曲的特別電視劇「彼らの海VII -Wish On The Polestar-」，于Fujiテレビ系各局放送（テレビ熊本·電通制作）。出演·木村了、長谷部優、石橋蓮司等／監督？窪田崇。
 
 <!-- end list -->
 
-  - 3月2日 第七張Single「プライマリー」發售。電視劇「彼らの海VII -Wish On The
-    Polestar-」片頭曲。短篇電影「きみの秘密、僕のこころ」結尾曲「リラが散っても」、DVD動畫「鴉
-    -KARAS-」主題曲「セレナイト」這2首的錄入。另外、「きみの秘密、僕のこころ」于CD-EXTRA中完全収録。
+  - 3月2日 第七張Single「プライマリー」發售。電視劇「彼らの海VII -Wish On The Polestar-」片頭曲。短篇電影「きみの秘密、僕のこころ」結尾曲「リラが散っても」、DVD動畫「鴉 -KARAS-」主題曲「セレナイト」這2首的錄入。另外、「きみの秘密、僕のこころ」于CD-EXTRA中完全収録。
 
 <!-- end list -->
 
@@ -222,18 +194,15 @@ voice系](https://zh.wikipedia.org/wiki/Whisper_voice "wikilink")，一種被形
 
 <!-- end list -->
 
-  - 5月28日起用了Rurutia「月光石」為主題曲的動畫DVD「[鴉
-    -KARAS-](../Page/鴉_-KARAS-.md "wikilink")」第一話發售。此為龍之子Production株式會社四十周年紀念作品。第二話將于10月29日發售。
+  - 5月28日起用了Rurutia「月光石」為主題曲的動畫DVD「[鴉 -KARAS-](../Page/鴉_-KARAS-.md "wikilink")」第一話發售。此為龍之子Production株式會社四十周年紀念作品。第二話將于10月29日發售。
 
 <!-- end list -->
 
-  - 6月18日 由Rurutia負責音樂的電影「楳図かずお
-    恐怖劇場」、于澁谷Eurospace劇場公開上映。此後，將在神戸、名古屋、京都等地區依次上映。
+  - 6月18日 由Rurutia負責音樂的電影「楳図かずお 恐怖劇場」、于澁谷Eurospace劇場公開上映。此後，將在神戸、名古屋、京都等地區依次上映。
 
 <!-- end list -->
 
-  - 6月22日 原聲集『「楳図かずお 恐怖劇場」：Rurutia
-    Tracks』發行。本作品收錄了在電影里使用的兩首主題曲以及Rurutia歌曲的樂器演奏版本。本張作品之後，與東芝EMI的合約終止。轉入地下音樂活動。
+  - 6月22日 原聲集『「楳図かずお 恐怖劇場」：Rurutia Tracks』發行。本作品收錄了在電影里使用的兩首主題曲以及Rurutia歌曲的樂器演奏版本。本張作品之後，與東芝EMI的合約終止。轉入地下音樂活動。
 
 <!-- end list -->
 
@@ -261,20 +230,15 @@ voice系](https://zh.wikipedia.org/wiki/Whisper_voice "wikilink")，一種被形
 
 <!-- end list -->
 
-  - 1月26日～1月29日 劇團AND ENDLESS成立十周年紀念公演「forty seasons and endless
-    BIRTHDAY」（作・演出／西田大輔 出演／西田大輔、窪寺昭ほか），由Rurutia負責主題曲，并在東京Globe上演。
+  - 1月26日～1月29日 劇團AND ENDLESS成立十周年紀念公演「forty seasons and endless BIRTHDAY」（作・演出／西田大輔 出演／西田大輔、窪寺昭ほか），由Rurutia負責主題曲，并在東京Globe上演。
 
 <!-- end list -->
 
-  - 5月1日～6月11日 劇團AND
-    ENDLESS公演「美しい水」在東京和神戶上演。起用了Rurutia的新曲「玎玲手心」為「Blue（義経・復讐
-    編）」主題曲，此外，還分別在「White（義朝・清盛 編）」和「Blue（義経・復讐 編）」中使用了「Elements」和「Lost
-    Butterfly」。
+  - 5月1日～6月11日 劇團AND ENDLESS公演「美しい水」在東京和神戶上演。起用了Rurutia的新曲「玎玲手心」為「Blue（義経・復讐 編）」主題曲，此外，還分別在「White（義朝・清盛 編）」和「Blue（義経・復讐 編）」中使用了「Elements」和「Lost Butterfly」。
 
 <!-- end list -->
 
-  - 5月8日
-    新感覺音樂情報季刊「Presenter（プレザンテ）」第三期發售，內含Rurutia首次平面媒體訪談（兩大面／4頁），談論最新單曲「玎玲手心」和出道以來的經歷。
+  - 5月8日 新感覺音樂情報季刊「Presenter（プレザンテ）」第三期發售，內含Rurutia首次平面媒體訪談（兩大面／4頁），談論最新單曲「玎玲手心」和出道以來的經歷。
 
 <!-- end list -->
 
@@ -302,8 +266,7 @@ voice系](https://zh.wikipedia.org/wiki/Whisper_voice "wikilink")，一種被形
 
 <!-- end list -->
 
-  - 4月7日 官方網站Rurutia Planet欄目開始大量募集歌迷的原創音樂（MIDI／現場演奏／演唱等）和文字，「RURUTIA
-    Planet No.013」广播放送。
+  - 4月7日 官方網站Rurutia Planet欄目開始大量募集歌迷的原創音樂（MIDI／現場演奏／演唱等）和文字，「RURUTIA Planet No.013」广播放送。
 
 <!-- end list -->
 
@@ -319,8 +282,7 @@ voice系](https://zh.wikipedia.org/wiki/Whisper_voice "wikilink")，一種被形
 
 <!-- end list -->
 
-  - 8月28日 與「groove digital entertainment 」合作，在官網上提供「Contents Download
-    」，網上下載chorion專輯
+  - 8月28日 與「groove digital entertainment 」合作，在官網上提供「Contents Download 」，網上下載chorion專輯
 
 <!-- end list -->
 
@@ -336,13 +298,11 @@ voice系](https://zh.wikipedia.org/wiki/Whisper_voice "wikilink")，一種被形
 
 <!-- end list -->
 
-  - 3月22日
-    Rurutia擔當此日公開的恐怖電影[「口裂け女2」的主題曲Vocal](https://zh.wikipedia.org/wiki/「口裂け女2」 "wikilink")。
+  - 3月22日 Rurutia擔當此日公開的恐怖電影[「口裂け女2」的主題曲Vocal](https://zh.wikipedia.org/wiki/「口裂け女2」 "wikilink")。
 
 <!-- end list -->
 
-  - 3月31日 第二張mini album「氷鎖」歌曲构成及发售期公布，两首新曲，四首「Ballade Ver」及两首「Music Box
-    Ver」新编曲。
+  - 3月31日 第二張mini album「氷鎖」歌曲构成及发售期公布，两首新曲，四首「Ballade Ver」及两首「Music Box Ver」新编曲。
 
 <!-- end list -->
 
@@ -362,13 +322,11 @@ voice系](https://zh.wikipedia.org/wiki/Whisper_voice "wikilink")，一種被形
 
 <!-- end list -->
 
-  - 2月8日 「RURUTIA Planet
-    No.019」通過「Podcast」和「iTunes」放送，介紹了Rurutia對新專「Seirios」的闡釋。
+  - 2月8日 「RURUTIA Planet No.019」通過「Podcast」和「iTunes」放送，介紹了Rurutia對新專「Seirios」的闡釋。
 
 <!-- end list -->
 
-  - 2月10日
-    開始可以從官方網頁預訂新專輯「Seirios」，其中前30名可以得到RURUTIA首次放出的親筆簽名明信片，首300名可以得到明信片贈品。
+  - 2月10日 開始可以從官方網頁預訂新專輯「Seirios」，其中前30名可以得到RURUTIA首次放出的親筆簽名明信片，首300名可以得到明信片贈品。
 
 <!-- end list -->
 
@@ -380,8 +338,7 @@ voice系](https://zh.wikipedia.org/wiki/Whisper_voice "wikilink")，一種被形
 
 <!-- end list -->
 
-  - 7月30日 「RURUTIA Planet
-    No.020」放送，其中Rurutia表述說“「Seirios」毫無保留地表達了現在的我”並介紹了諸位歌迷來信。
+  - 7月30日 「RURUTIA Planet No.020」放送，其中Rurutia表述說“「Seirios」毫無保留地表達了現在的我”並介紹了諸位歌迷來信。
 
 ### 2010年
 
@@ -409,8 +366,7 @@ voice系](https://zh.wikipedia.org/wiki/Whisper_voice "wikilink")，一種被形
 
 <!-- end list -->
 
-  - 4月27日
-    第四張迷你專輯「RESONANCE」發售。從指定唱片店可購得附明信片及海報的特典專輯。專輯一部分收益將捐贈日本紅十字會以支持311日本大地震的救災工作
+  - 4月27日 第四張迷你專輯「RESONANCE」發售。從指定唱片店可購得附明信片及海報的特典專輯。專輯一部分收益將捐贈日本紅十字會以支持311日本大地震的救災工作
 
 <!-- end list -->
 
@@ -426,25 +382,19 @@ voice系](https://zh.wikipedia.org/wiki/Whisper_voice "wikilink")，一種被形
 
 <!-- end list -->
 
-  - 4月29日
-    官网发布信息称Rurutia经过长时间的疗养，已经克服了身体上的困难与新的团队投入到了新专辑的制作当中。此次的新专辑包含15首歌，具体的情报将会在“information”栏目中予以告知。Rurutia
-    Planet的情报也将会在“information”栏目中随时更新。
+  - 4月29日 官网发布信息称Rurutia经过长时间的疗养，已经克服了身体上的困难与新的团队投入到了新专辑的制作当中。此次的新专辑包含15首歌，具体的情报将会在“information”栏目中予以告知。Rurutia Planet的情报也将会在“information”栏目中随时更新。
 
 <!-- end list -->
 
-  - 4月30日
-    Rurutia本人在官網上更新信息以表達對于一直關心和等待著她的粉絲們的感謝，並表示“今後更加貼近大家的喜與悲，一直在大家身邊，繼續竭力地作曲唱歌”。
+  - 4月30日 Rurutia本人在官網上更新信息以表達對于一直關心和等待著她的粉絲們的感謝，並表示“今後更加貼近大家的喜與悲，一直在大家身邊，繼續竭力地作曲唱歌”。
 
 <!-- end list -->
 
-  - 5月1日 Rurutia擔任6月28日發售的PS3遊戲 「アーシャのアトリエ～黄昏の大地の錬金術士」主題曲「Mystic
-    Pendulum」
+  - 5月1日 Rurutia擔任6月28日發售的PS3遊戲 「アーシャのアトリエ～黄昏の大地の錬金術士」主題曲「Mystic Pendulum」
 
 <!-- end list -->
 
-  - 7月3日 Rurutia 接受PS3遊戲
-    「アーシャのアトリエ～黄昏の大地の錬金術士」的聲樂指導岡村佳人的訪談，並於animate.tv網頁上公佈。同時公佈第七張專輯「NODE
-    from R」於2012年9月5日發售。
+  - 7月3日 Rurutia 接受PS3遊戲 「アーシャのアトリエ～黄昏の大地の錬金術士」的聲樂指導岡村佳人的訪談，並於animate.tv網頁上公佈。同時公佈第七張專輯「NODE from R」於2012年9月5日發售。
 
 <!-- end list -->
 
@@ -456,11 +406,8 @@ voice系](https://zh.wikipedia.org/wiki/Whisper_voice "wikilink")，一種被形
 
 ### 2015年
 
-  - 4月 移籍至FUTURE SOUND(未来ノ音)，并先行限定公开两首新曲「Not Afraid」 & 「Don't look at
-    the color」试听。
-  - 11月18日 個人第11張單曲『Don't look at the color』正式發行，除收錄之前公開的「Not Afraid」 &
-    「Don't look at the color」外，還收錄一首歌曲「Little in my
-    Little」，此歌曲也是遊戲『[蘇菲的鍊金工房～不可思議書的鍊金術士～](../Page/蘇菲的鍊金工房～不可思議書的鍊金術士～.md "wikilink")』的結尾曲。
+  - 4月 移籍至FUTURE SOUND(未来ノ音)，并先行限定公开两首新曲「Not Afraid」 & 「Don't look at the color」试听。
+  - 11月18日 個人第11張單曲『Don't look at the color』正式發行，除收錄之前公開的「Not Afraid」 & 「Don't look at the color」外，還收錄一首歌曲「Little in my Little」，此歌曲也是遊戲『[蘇菲的鍊金工房～不可思議書的鍊金術士～](../Page/蘇菲的鍊金工房～不可思議書的鍊金術士～.md "wikilink")』的結尾曲。
 
 ### 电影
 
@@ -612,14 +559,11 @@ voice系](https://zh.wikipedia.org/wiki/Whisper_voice "wikilink")，一種被形
 
 2．第二部游戏：PS3游戏『アーシャのアトリエ～黄昏の大地の錬金术士～』
 
-  - ★『Mystic Pendulum』作为该游戏的世界印象主题曲，被收录在该游戏主题曲碟〖Twilight Hour
-    アーシャのアトリエ\~黄昏の大地の錬金术士\~ボーカルアルバム \[Soundtrack\]〗中。
+  - ★『Mystic Pendulum』作为该游戏的世界印象主题曲，被收录在该游戏主题曲碟〖Twilight Hour アーシャのアトリエ\~黄昏の大地の錬金术士\~ボーカルアルバム \[Soundtrack\]〗中。
 
 3．第三部游戏：PS3游戏『エスカ&ロジーのアトリエ～黄昏の空の錬金术士～』
 
-  - ★『Pluie』作为该游戏的终章主题曲，被收录在该游戏主题曲碟〖Twilight Sky(トワイライトスカイ)
-    エスカ&ロジーのアトリエ～黄昏の空の錬金术士～ボーカルアルバム
-    \[Soundtrack\]〗中。
+  - ★『Pluie』作为该游戏的终章主题曲，被收录在该游戏主题曲碟〖Twilight Sky(トワイライトスカイ) エスカ&ロジーのアトリエ～黄昏の空の錬金术士～ボーカルアルバム \[Soundtrack\]〗中。
 
 ### 舞台剧
 
@@ -634,8 +578,7 @@ voice系](https://zh.wikipedia.org/wiki/Whisper_voice "wikilink")，一種被形
 
 ### 广播节目
 
-1． 前三部广播节目：『Rurutia R°』； 『ARTIST PARADISE with Rurutia』； 『ルルティア
-Listening Party of R°』
+1． 前三部广播节目：『Rurutia R°』； 『ARTIST PARADISE with Rurutia』； 『ルルティア Listening Party of R°』
 
 2．现存的广播节目：『RURUTIA PLANET』
 
@@ -678,8 +621,7 @@ Listening Party of R°』
 
 3.  （2002年6月26日發售）
 
-      - TOKYO FM·JFN系『JET STREAM』內廣播廣播劇『LOVE SOUNDS ON JET STREAM
-        ミッドナイト・ラジオドラマ　恵みの島～星のつぶやき』主題歌
+      - TOKYO FM·JFN系『JET STREAM』內廣播廣播劇『LOVE SOUNDS ON JET STREAM ミッドナイト・ラジオドラマ　恵みの島～星のつぶやき』主題歌
 
 4.  （2002年9月30日發售）
 
@@ -753,8 +695,7 @@ Listening Party of R°』
 
 ### 参加作品
 
-1.  「Mystic Pendulum」 from 『Twilight Hour アーシャのアトリエ〜黄昏の大地の錬金術士〜
-    ボーカルアルバム』
+1.  「Mystic Pendulum」 from 『Twilight Hour アーシャのアトリエ〜黄昏の大地の錬金術士〜 ボーカルアルバム』
 2.  「Pluie」 from 『Twilight Sky エスカ&ロジーのアトリエ〜黄昏の空の錬金術士〜 ボーカルアルバム』
 3.  「Phronesis」 from 『PLACHTA ソフィーのアトリエ〜不思議な本の錬金術士〜ボーカルアルバム』
 4.  「Little in my Little」 from 『ソフィーのアトリエ\~不思議な本の錬金術士\~オリジナルサウンドトラック』
@@ -777,10 +718,7 @@ Listening Party of R°』
   - [RURUTIA英文站点](https://web.archive.org/web/20160507001045/http://en.rurutiafans.com/)
   - [东芝EMI官网](https://web.archive.org/web/20140808180353/http://www.rurutiafans.com/toshiba-emi/)
 
-[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink")
-[Category:日本創作歌手](https://zh.wikipedia.org/wiki/Category:日本創作歌手 "wikilink")
-[Category:日本作曲家](https://zh.wikipedia.org/wiki/Category:日本作曲家 "wikilink")
-[Category:EMI音樂旗下藝人](https://zh.wikipedia.org/wiki/Category:EMI音樂旗下藝人 "wikilink")
+[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:日本創作歌手](https://zh.wikipedia.org/wiki/Category:日本創作歌手 "wikilink") [Category:日本作曲家](https://zh.wikipedia.org/wiki/Category:日本作曲家 "wikilink") [Category:EMI音樂旗下藝人](https://zh.wikipedia.org/wiki/Category:EMI音樂旗下藝人 "wikilink")
 
 1.  RURUTIA(2005-11-20)『RURUTIA Planet』No.002,RURUTIA.COM
 
@@ -794,8 +732,7 @@ Listening Party of R°』
 6.
 7.  RURUTIA(2008-02-15)『RURUTIA Planet』No.017,RURUTIA.COM
 
-8.  清水雅,(2006-12-25)「私の音楽革命 04 "恵の雨"という名のアーティストが起こす15の奇蹟」『プレザンテ』、ART
-    COMMUNICATION・ENTREX
+8.  清水雅,(2006-12-25)「私の音楽革命 04 "恵の雨"という名のアーティストが起こす15の奇蹟」『プレザンテ』、ART COMMUNICATION・ENTREX
 
 9.  藤岡雅文 (2005-12-13). "☆取り付かれたように毎日楽器屋さんに通っていましたね☆".RURUTIA.COM
 

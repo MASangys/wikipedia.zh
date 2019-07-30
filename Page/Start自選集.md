@@ -4,8 +4,4 @@
 
 ## 參考資料
 
-[Category:孫燕姿音樂專輯](https://zh.wikipedia.org/wiki/Category:孫燕姿音樂專輯 "wikilink")
-[Category:台灣流行音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣流行音樂專輯 "wikilink")
-[Category:新加坡音樂專輯](https://zh.wikipedia.org/wiki/Category:新加坡音樂專輯 "wikilink")
-[Category:2002年音樂專輯](https://zh.wikipedia.org/wiki/Category:2002年音樂專輯 "wikilink")
-[Category:翻唱專輯](https://zh.wikipedia.org/wiki/Category:翻唱專輯 "wikilink")
+[Category:孫燕姿音樂專輯](https://zh.wikipedia.org/wiki/Category:孫燕姿音樂專輯 "wikilink") [Category:台灣流行音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣流行音樂專輯 "wikilink") [Category:新加坡音樂專輯](https://zh.wikipedia.org/wiki/Category:新加坡音樂專輯 "wikilink") [Category:2002年音樂專輯](https://zh.wikipedia.org/wiki/Category:2002年音樂專輯 "wikilink") [Category:翻唱專輯](https://zh.wikipedia.org/wiki/Category:翻唱專輯 "wikilink")

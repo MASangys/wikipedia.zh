@@ -1,5 +1,4 @@
-《**電腦少女★Mink**》是[日本漫畫家](../Page/日本.md "wikilink")[立川惠的作品](../Page/立川惠.md "wikilink")，1999年9月至2002年1月於日本[少女漫畫月刊](https://zh.wikipedia.org/wiki/少女漫畫 "wikilink")『[なかよし](https://zh.wikipedia.org/wiki/なかよし "wikilink")』連載，2001年1月開始在香港[Comic
-Fans](https://zh.wikipedia.org/wiki/Comic_Fans "wikilink") 連載。
+《**電腦少女★Mink**》是[日本](../Page/日本.md "wikilink")漫畫家[立川惠](../Page/立川惠.md "wikilink")的作品，1999年9月至2002年1月於日本[少女漫畫月刊](https://zh.wikipedia.org/wiki/少女漫畫 "wikilink")『[なかよし](https://zh.wikipedia.org/wiki/なかよし "wikilink")』連載，2001年1月開始在香港[Comic Fans](https://zh.wikipedia.org/wiki/Comic_Fans "wikilink") 連載。
 
 ## 人物
 
@@ -32,9 +31,4 @@ Fans](https://zh.wikipedia.org/wiki/Comic_Fans "wikilink") 連載。
 
   - [Satellite-M](http://www6.plala.or.jp/mts/)，作者的個人網站。
 
-[Category:Nakayoshi](https://zh.wikipedia.org/wiki/Category:Nakayoshi "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:偶像漫畫](https://zh.wikipedia.org/wiki/Category:偶像漫畫 "wikilink")
-[Category:虛擬世界背景作品](https://zh.wikipedia.org/wiki/Category:虛擬世界背景作品 "wikilink")
-[Category:少女漫畫](https://zh.wikipedia.org/wiki/Category:少女漫畫 "wikilink")
-[Category:变身女主角](https://zh.wikipedia.org/wiki/Category:变身女主角 "wikilink")
+[Category:Nakayoshi](https://zh.wikipedia.org/wiki/Category:Nakayoshi "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:偶像漫畫](https://zh.wikipedia.org/wiki/Category:偶像漫畫 "wikilink") [Category:虛擬世界背景作品](https://zh.wikipedia.org/wiki/Category:虛擬世界背景作品 "wikilink") [Category:少女漫畫](https://zh.wikipedia.org/wiki/Category:少女漫畫 "wikilink") [Category:变身女主角](https://zh.wikipedia.org/wiki/Category:变身女主角 "wikilink")

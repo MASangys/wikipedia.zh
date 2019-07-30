@@ -1,5 +1,4 @@
-**SINA
-MUSIC樂壇民意指數頒獎禮**，是由[世界網絡搜尋商](../Page/世界.md "wikilink")[新浪支部](../Page/新浪.md "wikilink")[香港](../Page/香港.md "wikilink")[新浪音樂所舉辦](../Page/新浪.md "wikilink")，由2006年起，於每年1月舉辦，為全港首個透過互聯網投票產生的樂壇頒獎禮。
+**SINA MUSIC樂壇民意指數頒獎禮**，是由[世界](../Page/世界.md "wikilink")網絡搜尋商[新浪](../Page/新浪.md "wikilink")支部[香港](../Page/香港.md "wikilink")[新浪](../Page/新浪.md "wikilink")音樂所舉辦，由2006年起，於每年1月舉辦，為全港首個透過互聯網投票產生的樂壇頒獎禮。
 
 ## 歷屆頒獎禮
 
@@ -9,7 +8,7 @@ MUSIC樂壇民意指數頒獎禮**，是由[世界網絡搜尋商](../Page/世�
 
   - 名稱：SINA Music樂壇民意指數頒獎禮2012
   - 舉辦日期：2013年1月16日
-  - 地點：[九龍灣國際展貿中心展貿廳](../Page/九龍灣國際展貿中心.md "wikilink")3
+  - 地點：[九龍灣國際展貿中心](../Page/九龍灣國際展貿中心.md "wikilink")展貿廳3
   - 主持：[農夫](../Page/農夫_\(組合\).md "wikilink")
   - 主題：微飛色舞，燃點SING光
   - 得獎名單
@@ -136,11 +135,11 @@ MUSIC樂壇民意指數頒獎禮**，是由[世界網絡搜尋商](../Page/世�
 <td><p>《<a href="../Page/...3mm.md" title="wikilink">...3mm</a>》——<a href="../Page/陳奕迅.md" title="wikilink">陳奕迅</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/新浪微博.md" title="wikilink">新浪微博發聲男歌手</a></p></td>
+<td><p><a href="../Page/新浪微博.md" title="wikilink">新浪微博</a>發聲男歌手</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/張敬軒" title="wikilink">張敬軒</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/新浪微博.md" title="wikilink">新浪微博發聲女歌手</a></p></td>
+<td><p><a href="../Page/新浪微博.md" title="wikilink">新浪微博</a>發聲女歌手</p></td>
 <td><p><a href="../Page/蔡卓妍.md" title="wikilink">蔡卓妍</a></p></td>
 </tr>
 <tr class="even">
@@ -218,7 +217,6 @@ MUSIC樂壇民意指數頒獎禮**，是由[世界網絡搜尋商](../Page/世�
 
 ## 外部連結
 
-  - [SINA
-    Music樂壇民意指數頒獎禮](https://web.archive.org/web/20070314202306/http://music.sina.com.hk/mu/event05/awards/)
+  - [SINA Music樂壇民意指數頒獎禮](https://web.archive.org/web/20070314202306/http://music.sina.com.hk/mu/event05/awards/)
 
 [Category:SINA_Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/Category:SINA_Music樂壇民意指數頒獎禮 "wikilink")

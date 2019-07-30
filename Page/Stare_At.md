@@ -1,11 +1,9 @@
-**Stare
-At**是[日本男歌手](../Page/日本.md "wikilink")[平井堅的第二張原創專輯](../Page/平井堅.md "wikilink")，日本地區於1996年12月1日發行。
+**Stare At**是[日本](../Page/日本.md "wikilink")男歌手[平井堅](../Page/平井堅.md "wikilink")的第二張原創專輯，日本地區於1996年12月1日發行。
 
 ## 解説
 
   - 距離上一張原創專輯『[un-balanced](https://zh.wikipedia.org/wiki/un-balanced "wikilink")』約一年的原創專輯。
-  - 收錄了單曲「[横顔](../Page/側臉_\(平井堅單曲\).md "wikilink")」、「[ドシャブリ](../Page/傾盆大雨_\(平井堅單曲\).md "wikilink")」及「[Stay
-    With Me](../Page/Stay_With_Me_\(平井堅單曲\).md "wikilink")」，未収録c/w曲。
+  - 收錄了單曲「[横顔](../Page/側臉_\(平井堅單曲\).md "wikilink")」、「[ドシャブリ](../Page/傾盆大雨_\(平井堅單曲\).md "wikilink")」及「[Stay With Me](../Page/Stay_With_Me_\(平井堅單曲\).md "wikilink")」，未収録c/w曲。
   - 平井堅目前唯一沒進過榜（[Oricon](../Page/Oricon.md "wikilink")）專輯。
 
 ## 収録曲
@@ -41,5 +39,4 @@ At**是[日本男歌手](../Page/日本.md "wikilink")[平井堅的第二張原�
 
   - [通常盤](http://www.sonymusic.co.jp/Music/Arch/DF/KenHirai/DFCZ-1002/index.html)
 
-[Category:平井堅音樂專輯](https://zh.wikipedia.org/wiki/Category:平井堅音樂專輯 "wikilink")
-[Category:1996年音樂專輯](https://zh.wikipedia.org/wiki/Category:1996年音樂專輯 "wikilink")
+[Category:平井堅音樂專輯](https://zh.wikipedia.org/wiki/Category:平井堅音樂專輯 "wikilink") [Category:1996年音樂專輯](https://zh.wikipedia.org/wiki/Category:1996年音樂專輯 "wikilink")

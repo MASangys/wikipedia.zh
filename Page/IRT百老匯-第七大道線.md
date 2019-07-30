@@ -1,6 +1,4 @@
-**IRT百老匯-第七大道線**（），亦稱為**第七大道線**，是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[IRT系統中的一條主要路線](../Page/跨區捷運公司.md "wikilink")。[紐約地鐵1號線](https://zh.wikipedia.org/wiki/紐約地鐵1號線 "wikilink")、[2號線](https://zh.wikipedia.org/wiki/紐約地鐵2號線 "wikilink")、[紐約地鐵3號線](https://zh.wikipedia.org/wiki/紐約地鐵3號線 "wikilink")、以及過去的[9號線等服務路線行經於此路線](https://zh.wikipedia.org/wiki/紐約地鐵9號線 "wikilink")。此路線主要行經上西城、[中城](../Page/曼哈頓中城.md "wikilink")、[紐約蘇豪區](../Page/紐約蘇豪區.md "wikilink")、以及下城，位於[布朗克斯](../Page/布朗克斯.md "wikilink")[范科特蘭公園-242街車站與](https://zh.wikipedia.org/wiki/范科特蘭公園-242街車站_\(IRT百老匯-第七大道線\) "wikilink")[曼哈頓](../Page/曼哈頓.md "wikilink")[南碼頭-白廳街車站之間](https://zh.wikipedia.org/wiki/南碼頭-白廳街車站 "wikilink")\[1\]\[2\]
-。另外在[錢伯斯街車站分支出後往東南方走的](https://zh.wikipedia.org/wiki/錢伯斯街車站_\(IRT百老匯－第七大道線\) "wikilink")**布魯克林支線**雖然經過前往[布魯克林區政府大樓](https://zh.wikipedia.org/wiki/布魯克林區 "wikilink")，但是還是屬於百老匯-第七大道線的一部分\[3\]
-。
+**IRT百老匯-第七大道線**（），亦稱為**第七大道線**，是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[IRT系統中的一條主要路線](../Page/跨區捷運公司.md "wikilink")。[紐約地鐵1號線](https://zh.wikipedia.org/wiki/紐約地鐵1號線 "wikilink")、[2號線](https://zh.wikipedia.org/wiki/紐約地鐵2號線 "wikilink")、[紐約地鐵3號線](https://zh.wikipedia.org/wiki/紐約地鐵3號線 "wikilink")、以及過去的[9號線等服務路線行經於此路線](https://zh.wikipedia.org/wiki/紐約地鐵9號線 "wikilink")。此路線主要行經上西城、[中城](../Page/曼哈頓中城.md "wikilink")、[紐約蘇豪區](../Page/紐約蘇豪區.md "wikilink")、以及下城，位於[布朗克斯](../Page/布朗克斯.md "wikilink")[范科特蘭公園-242街車站與](https://zh.wikipedia.org/wiki/范科特蘭公園-242街車站_\(IRT百老匯-第七大道線\) "wikilink")[曼哈頓](../Page/曼哈頓.md "wikilink")[南碼頭-白廳街車站之間](https://zh.wikipedia.org/wiki/南碼頭-白廳街車站 "wikilink")\[1\]\[2\] 。另外在[錢伯斯街車站分支出後往東南方走的](https://zh.wikipedia.org/wiki/錢伯斯街車站_\(IRT百老匯－第七大道線\) "wikilink")**布魯克林支線**雖然經過前往[布魯克林區政府大樓](https://zh.wikipedia.org/wiki/布魯克林區 "wikilink")，但是還是屬於百老匯-第七大道線的一部分\[3\] 。
 
 ## 服務
 
@@ -454,7 +452,7 @@
 <td><p>全部</p></td>
 <td></td>
 <td><p>1917年6月3日[30]</p></td>
-<td><p>可連接<a href="../Page/美鐵.md" title="wikilink">美鐵</a>、<a href="../Page/長島鐵路.md" title="wikilink">長島鐵路及</a><a href="https://zh.wikipedia.org/wiki/新澤西通勤鐵路" title="wikilink">新澤西通勤鐵路</a>，<a href="https://zh.wikipedia.org/wiki/賓夕法尼亞車站_(紐約市)" title="wikilink">賓夕法尼亞車站</a><br />
+<td><p>可連接<a href="../Page/美鐵.md" title="wikilink">美鐵</a>、<a href="../Page/長島鐵路.md" title="wikilink">長島鐵路</a>及<a href="https://zh.wikipedia.org/wiki/新澤西通勤鐵路" title="wikilink">新澤西通勤鐵路</a>，<a href="https://zh.wikipedia.org/wiki/賓夕法尼亞車站_(紐約市)" title="wikilink">賓夕法尼亞車站</a><br />
 M34 / M34A選擇巴士服務</p></td>
 <td></td>
 </tr>
@@ -730,21 +728,15 @@ IND第八大道線（），<a href="https://zh.wikipedia.org/wiki/世界貿易�
 
 ## 外部連結
 
-  - [nycsubway.org —
-    IRT西城線](http://www.nycsubway.org/wiki/IRT_West_Side_Line)
+  - [nycsubway.org — IRT西城線](http://www.nycsubway.org/wiki/IRT_West_Side_Line)
 
-[Category:紐約地鐵路線](https://zh.wikipedia.org/wiki/Category:紐約地鐵路線 "wikilink")
-[Category:1904年啟用的鐵路線](https://zh.wikipedia.org/wiki/Category:1904年啟用的鐵路線 "wikilink")
+[Category:紐約地鐵路線](https://zh.wikipedia.org/wiki/Category:紐約地鐵路線 "wikilink") [Category:1904年啟用的鐵路線](https://zh.wikipedia.org/wiki/Category:1904年啟用的鐵路線 "wikilink")
 
-1.   - [南碼頭總站計劃](https://zh.wikipedia.org/wiki/南碼頭-白廳街車站 "wikilink"),
-    [Environmental Assessment and Section 4(f)
-    Evaluation](http://www.mta.info/capconstr/sft/dea.htm),
+1.   - [南碼頭總站計劃](https://zh.wikipedia.org/wiki/南碼頭-白廳街車站 "wikilink"), [Environmental Assessment and Section 4(f) Evaluation](http://www.mta.info/capconstr/sft/dea.htm),
 
 2.  [大都會運輸署](../Page/大都會運輸署.md "wikilink"),
 
-3.  , [第二大道地鐵線](https://zh.wikipedia.org/wiki/紐約地鐵第二大道線 "wikilink"),
-    [Supplemental Draft Environmental Impact
-    Statement](http://www.mta.info/capconstr/sas/sdeis.htm),
+3.  , [第二大道地鐵線](https://zh.wikipedia.org/wiki/紐約地鐵第二大道線 "wikilink"), [Supplemental Draft Environmental Impact Statement](http://www.mta.info/capconstr/sas/sdeis.htm),
 
 4.
 5.
@@ -789,6 +781,4 @@ IND第八大道線（），<a href="https://zh.wikipedia.org/wiki/世界貿易�
 40.
 41.
 42.
-43. [MTA Opens New South Ferry
-    Station](http://web.mta.info/mta/news/releases/?en=090316-HQ8)
-    Retrieved March 16, 2009
+43. [MTA Opens New South Ferry Station](http://web.mta.info/mta/news/releases/?en=090316-HQ8) Retrieved March 16, 2009

@@ -1,9 +1,8 @@
-**Comic World
-香港**，簡稱CWHK（在[香港地區也常直接稱作](../Page/香港.md "wikilink")**CW**），是香港一個[同人誌即賣會](../Page/同人誌即賣會.md "wikilink")，由商業團體舉辦，現時每年舉行兩次。
+**Comic World 香港**，簡稱CWHK（在[香港](../Page/香港.md "wikilink")地區也常直接稱作**CW**），是香港一個[同人誌即賣會](../Page/同人誌即賣會.md "wikilink")，由商業團體舉辦，現時每年舉行兩次。
 
 ## 概要
 
-CWHK自1998年開始舉行，數年後便成為香港最大型及最為頻繁（早期一年4屆、2002年後一年兩屆）的[同人誌即賣會](../Page/同人誌即賣會.md "wikilink")，每屆均有不少[同人組織參與](https://zh.wikipedia.org/wiki/同人 "wikilink")，亦有來自[日本](../Page/日本.md "wikilink")、[中國大陸](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")、[台灣的同人團體](https://zh.wikipedia.org/wiki/台灣 "wikilink")，並邀請[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")、[聲優](../Page/聲優.md "wikilink")、[動畫導演](https://zh.wikipedia.org/wiki/動畫導演 "wikilink")、[Coser團體參予訪談或表演](https://zh.wikipedia.org/wiki/Coser "wikilink")，在場內展出和發售[同人創作的作品](https://zh.wikipedia.org/wiki/同人 "wikilink")。此外亦有愛好[Cosplay](../Page/Cosplay.md "wikilink")、[娃娃的人士參與](../Page/娃娃.md "wikilink")。CWHK的大會政策和行政，亦常引起香港同人界廣泛的爭議。一些同人畫師和創作者也藉此成名，並轉向全職創作，如[宮千栩和塵沙沙都是同人誌轉型成的創作者](../Page/宮千栩.md "wikilink")\[1\]。
+CWHK自1998年開始舉行，數年後便成為香港最大型及最為頻繁（早期一年4屆、2002年後一年兩屆）的[同人誌即賣會](../Page/同人誌即賣會.md "wikilink")，每屆均有不少[同人組織參與](https://zh.wikipedia.org/wiki/同人 "wikilink")，亦有來自[日本](../Page/日本.md "wikilink")、[中國大陸](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")、[台灣的同人團體](https://zh.wikipedia.org/wiki/台灣 "wikilink")，並邀請[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")、[聲優](../Page/聲優.md "wikilink")、[動畫導演](https://zh.wikipedia.org/wiki/動畫導演 "wikilink")、[Coser團體參予訪談或表演](https://zh.wikipedia.org/wiki/Coser "wikilink")，在場內展出和發售[同人創作的作品](https://zh.wikipedia.org/wiki/同人 "wikilink")。此外亦有愛好[Cosplay](../Page/Cosplay.md "wikilink")、[娃娃](../Page/娃娃.md "wikilink")的人士參與。CWHK的大會政策和行政，亦常引起香港同人界廣泛的爭議。一些同人畫師和創作者也藉此成名，並轉向全職創作，如[宮千栩](../Page/宮千栩.md "wikilink")和塵沙沙都是同人誌轉型成的創作者\[1\]。
 
 ## 活動單位
 
@@ -13,9 +12,7 @@ CWHK自1998年開始舉行，數年後便成為香港最大型及最為頻繁（
 
   - **COMIC WORLD HK LTD.**
 
-:\*「DELETER株式會社」（前身名稱為「S.E.株式會社」），是一間漫畫美術用品生產商。社長金子寬一是「Comic
-World日本」的創辦人，亦是於各地[Comic
-World的發起者](../Page/Comic_World.md "wikilink")，負責委託當地組織，以及向它提供協助。據官網消息，「DELETER株式會社」于2008年夏季開始停止日本本土CW的活動。
+:\*「DELETER株式會社」（前身名稱為「S.E.株式會社」），是一間漫畫美術用品生產商。社長金子寬一是「Comic World日本」的創辦人，亦是於各地[Comic World的發起者](../Page/Comic_World.md "wikilink")，負責委託當地組織，以及向它提供協助。據官網消息，「DELETER株式會社」于2008年夏季開始停止日本本土CW的活動。
 
   - 協辦單位
 
@@ -75,7 +72,7 @@ World的發起者](../Page/Comic_World.md "wikilink")，負責委託當地組織
 | 37 | 2014年2月9日        | 塵沙沙                                                                                                                                                    |                                                                                          |
 | 38 | 2014年8月23日至8月24日 |                                                                                                                                                        |                                                                                          |
 | 39 | 2015年3月1日        |                                                                                                                                                        |                                                                                          |
-| 40 | 2015年8月30日       | [馮志明](../Page/冯志明.md "wikilink")、[司徒劍僑](../Page/司徒劍僑.md "wikilink")、栢迪、[黃榮璋先生](../Page/黃榮璋.md "wikilink")、[鄧肇基先生](../Page/鄧肇基.md "wikilink")、張雪兒       |                                                                                          |
+| 40 | 2015年8月30日       | [馮志明](../Page/冯志明.md "wikilink")、[司徒劍僑](../Page/司徒劍僑.md "wikilink")、栢迪、[黃榮璋](../Page/黃榮璋.md "wikilink")先生、[鄧肇基](../Page/鄧肇基.md "wikilink")先生、張雪兒       |                                                                                          |
 | 41 | 2016年2月14日       | [三瓶由布子](../Page/三瓶由布子.md "wikilink")、[黃志明](../Page/黃志明_\(香港\).md "wikilink")、[張雪儀](../Page/張雪儀.md "wikilink")、[張振熙](../Page/張振熙.md "wikilink")         |                                                                                          |
 | 42 | 2016年8月20日至8月21日 | [方淑儀](../Page/方淑儀.md "wikilink")、[蘇裕邦](../Page/蘇裕邦.md "wikilink")、[竺諺鴻](../Page/竺諺鴻.md "wikilink")                                                     |                                                                                          |
 | 43 | 2017年2月5日        | [張雪儀](../Page/張雪儀.md "wikilink")、[簡懷甄](../Page/簡懷甄.md "wikilink")                                                                                      |                                                                                          |
@@ -87,7 +84,7 @@ World的發起者](../Page/Comic_World.md "wikilink")，負責委託當地組織
 
 CWHK的數屆會場內出現一群自稱「[明光社](../Page/明光社.md "wikilink")」或「電影、報刊及物品管理辦事處（簡稱：電報辦）」的人士，他們專門檢控出售成人向物品的畫師及[同人組織](../Page/同人_\(ACG\).md "wikilink")。例如在CWHK34舉辦期間，明光社於會場內進行「放蛇行動」，並強行沒收攤主作品\[5\]。雖然其後主辦單位安派專員預先審核各攤位作品以確保作品符合法律要求，但在CWHK41舉辦期間仍出現電報辦人士對場內作品進行檢控的事件，而事後主辦單位更沒有提供協助予受影響人士\[6\]。
 
-在第11屆CWHK，大會表示Coser會妨礙會場內的同人誌買賣，因此要向Coser徵收50[港元的額外費用](../Page/港元.md "wikilink")，導致Coser們的不滿，也導致Coser們另外自行舉辦Cosplay的專門活動。\[7\]
+在第11屆CWHK，大會表示Coser會妨礙會場內的同人誌買賣，因此要向Coser徵收50[港元](../Page/港元.md "wikilink")的額外費用，導致Coser們的不滿，也導致Coser們另外自行舉辦Cosplay的專門活動。\[7\]
 
 ## 註釋
 
@@ -108,8 +105,7 @@ CWHK的數屆會場內出現一群自稱「[明光社](../Page/明光社.md "wik
   - [CWHK官方網站](http://www.cwhk.org/)
   - [《動漫線》：香港同人誌展銷會簡介](http://www.cabeat.com/pub/index.php?option=com_content&task=view&id=258&Itemid=30)
 
-[Category:香港同人誌即賣會](https://zh.wikipedia.org/wiki/Category:香港同人誌即賣會 "wikilink")
-[Category:香港年度事件](https://zh.wikipedia.org/wiki/Category:香港年度事件 "wikilink")
+[Category:香港同人誌即賣會](https://zh.wikipedia.org/wiki/Category:香港同人誌即賣會 "wikilink") [Category:香港年度事件](https://zh.wikipedia.org/wiki/Category:香港年度事件 "wikilink")
 
 1.
 

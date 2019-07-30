@@ -1,14 +1,11 @@
-**Oricon**（）是以提供等娛樂資訊服務為主要業務的[日本企業](../Page/日本.md "wikilink")，其名稱來自[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")「」（絕對的信賴）的[縮寫](../Page/縮寫.md "wikilink")，也因此該公司的主要業務——[影音產品銷售排行榜在](https://zh.wikipedia.org/wiki/影音 "wikilink")[中文社群被稱為](https://zh.wikipedia.org/wiki/中文 "wikilink")「**公信榜**」。現任代表取締役社長（[總經理](https://zh.wikipedia.org/wiki/總經理 "wikilink")）為[小池恒](https://zh.wikipedia.org/wiki/小池恒 "wikilink")，是公司創辦者[小池聰行的長子](https://zh.wikipedia.org/wiki/小池聰行 "wikilink")。
+**Oricon**（）是以提供等娛樂資訊服務為主要業務的[日本](../Page/日本.md "wikilink")企業，其名稱來自[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")「」（絕對的信賴）的[縮寫](../Page/縮寫.md "wikilink")，也因此該公司的主要業務——[影音產品銷售排行榜在](https://zh.wikipedia.org/wiki/影音 "wikilink")[中文社群被稱為](https://zh.wikipedia.org/wiki/中文 "wikilink")「**公信榜**」。現任代表取締役社長（[總經理](https://zh.wikipedia.org/wiki/總經理 "wikilink")）為[小池恒](https://zh.wikipedia.org/wiki/小池恒 "wikilink")，是公司創辦者[小池聰行的長子](https://zh.wikipedia.org/wiki/小池聰行 "wikilink")。
 
-該公司公佈的[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")，是日本現時最具知名度及公信力的[音樂排行榜](https://zh.wikipedia.org/wiki/音樂 "wikilink")。銷量榜共提供每天、每星期、每月等不同計算方法的銷量榜，也提供諸如[流行曲](https://zh.wikipedia.org/wiki/流行曲 "wikilink")、[演歌](../Page/演歌.md "wikilink")、[西洋音樂等不同的音樂類型的排行榜](https://zh.wikipedia.org/wiki/西洋音樂 "wikilink")，甚至更會公佈[DVD及](https://zh.wikipedia.org/wiki/DVD "wikilink")[電視遊戲等的銷量榜](https://zh.wikipedia.org/wiki/電視遊戲 "wikilink")，以及由觀眾的[電視廣告好感度等](../Page/電視廣告.md "wikilink")。除此之外其透過[子公司Oricon](../Page/子公司.md "wikilink")
-ME出版[雜誌](https://zh.wikipedia.org/wiki/雜誌 "wikilink")。
+該公司公佈的[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")，是日本現時最具知名度及公信力的[音樂排行榜](https://zh.wikipedia.org/wiki/音樂 "wikilink")。銷量榜共提供每天、每星期、每月等不同計算方法的銷量榜，也提供諸如[流行曲](https://zh.wikipedia.org/wiki/流行曲 "wikilink")、[演歌](../Page/演歌.md "wikilink")、[西洋音樂等不同的音樂類型的排行榜](https://zh.wikipedia.org/wiki/西洋音樂 "wikilink")，甚至更會公佈[DVD及](https://zh.wikipedia.org/wiki/DVD "wikilink")[電視遊戲等的銷量榜](https://zh.wikipedia.org/wiki/電視遊戲 "wikilink")，以及由觀眾的[電視廣告](../Page/電視廣告.md "wikilink")好感度等。除此之外其透過[子公司](../Page/子公司.md "wikilink")Oricon ME出版[雜誌](https://zh.wikipedia.org/wiki/雜誌 "wikilink")。
 
 ## 沿革
 
-  - 1999年10月 -
-    Oricon株式會社（現Oricon娛樂株式會社）中的音樂[資料庫](https://zh.wikipedia.org/wiki/資料庫 "wikilink")・[手機鈴聲部門從母公司分離](https://zh.wikipedia.org/wiki/手機鈴聲 "wikilink")，以**Oricon直營數碼株式會社**（）名字成立新公司。
-  - 2000年11月 - 在[大阪證券交易所Nasdaq](../Page/大阪證券交易所.md "wikilink")
-    Japan市場（現[hercules市場](https://zh.wikipedia.org/wiki/hercules "wikilink")）上市。
+  - 1999年10月 - Oricon株式會社（現Oricon娛樂株式會社）中的音樂[資料庫](https://zh.wikipedia.org/wiki/資料庫 "wikilink")・[手機鈴聲部門從母公司分離](https://zh.wikipedia.org/wiki/手機鈴聲 "wikilink")，以**Oricon直營數碼株式會社**（）名字成立新公司。
+  - 2000年11月 - 在[大阪證券交易所](../Page/大阪證券交易所.md "wikilink")Nasdaq Japan市場（現[hercules市場](https://zh.wikipedia.org/wiki/hercules "wikilink")）上市。
   - 2001年6月 - 公司名稱更改為**Oricon全球娛樂株式會社**（），Oricon株式會社改屬旗下。
   - 2002年4月 - 手機鈴聲業務再次交與Oricon株式會社，同時從Oricon株式會社接收排行榜業務。
   - 2002年7月 - 公司更改為現時名稱。
@@ -27,8 +24,4 @@ ME出版[雜誌](https://zh.wikipedia.org/wiki/雜誌 "wikilink")。
   - [ORICON NEWS](http://www.oricon.co.jp/) - Oricon旗下娛樂資訊入口網站
   - [ORICON BiZ online](http://biz.oricon.co.jp/) - Oricon旗下娛樂營銷服務網站
 
-[Category:Oricon](https://zh.wikipedia.org/wiki/Category:Oricon "wikilink")
-[Category:日本音樂](https://zh.wikipedia.org/wiki/Category:日本音樂 "wikilink")
-[Category:港區公司_(東京都)](https://zh.wikipedia.org/wiki/Category:港區公司_\(東京都\) "wikilink")
-[Category:音樂網站](https://zh.wikipedia.org/wiki/Category:音樂網站 "wikilink")
-[Category:日本新聞網站](https://zh.wikipedia.org/wiki/Category:日本新聞網站 "wikilink")
+[Category:Oricon](https://zh.wikipedia.org/wiki/Category:Oricon "wikilink") [Category:日本音樂](https://zh.wikipedia.org/wiki/Category:日本音樂 "wikilink") [Category:港區公司_(東京都)](https://zh.wikipedia.org/wiki/Category:港區公司_\(東京都\) "wikilink") [Category:音樂網站](https://zh.wikipedia.org/wiki/Category:音樂網站 "wikilink") [Category:日本新聞網站](https://zh.wikipedia.org/wiki/Category:日本新聞網站 "wikilink")

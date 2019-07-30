@@ -15,8 +15,4 @@
   - **[约瑟夫·普拉](https://zh.wikipedia.org/wiki/约瑟夫·普拉 "wikilink")**（）
   - **[迈克尔·兰普顿](https://zh.wikipedia.org/wiki/迈克尔·兰普顿 "wikilink")**（，曾执行任务）
 
-[Category:1992年佛罗里达州](https://zh.wikipedia.org/wiki/Category:1992年佛罗里达州 "wikilink")
-[Category:哥伦比亚号航天飞机任务](https://zh.wikipedia.org/wiki/Category:哥伦比亚号航天飞机任务 "wikilink")
-[Category:1992年科學](https://zh.wikipedia.org/wiki/Category:1992年科學 "wikilink")
-[Category:1992年6月](https://zh.wikipedia.org/wiki/Category:1992年6月 "wikilink")
-[Category:1992年7月](https://zh.wikipedia.org/wiki/Category:1992年7月 "wikilink")
+[Category:1992年佛罗里达州](https://zh.wikipedia.org/wiki/Category:1992年佛罗里达州 "wikilink") [Category:哥伦比亚号航天飞机任务](https://zh.wikipedia.org/wiki/Category:哥伦比亚号航天飞机任务 "wikilink") [Category:1992年科學](https://zh.wikipedia.org/wiki/Category:1992年科學 "wikilink") [Category:1992年6月](https://zh.wikipedia.org/wiki/Category:1992年6月 "wikilink") [Category:1992年7月](https://zh.wikipedia.org/wiki/Category:1992年7月 "wikilink")

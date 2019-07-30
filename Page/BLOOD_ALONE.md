@@ -1,8 +1,4 @@
-《**BLOOD
-ALONE**》是一部[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[高野真之的](https://zh.wikipedia.org/wiki/高野真之 "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。日本版原為同人誌作品，後於《[月刊Comic電擊大王](../Page/月刊Comic電擊大王.md "wikilink")》（ASCII
-Media
-Works）自2004年4月號至2010年4月號連載，[台灣角川代理其](../Page/台灣角川.md "wikilink")[臺灣中文版](../Page/臺灣.md "wikilink")。其後於《[Evening](../Page/Evening.md "wikilink")》（[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")）2010年24号重開連載。2014年5月上，編輯部刊登了「由於諸多原因，《BLOOD
-ALONE》於前期連載結束」的通知，意即於4號連載結束。
+《**BLOOD ALONE**》是一部[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[高野真之的](https://zh.wikipedia.org/wiki/高野真之 "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。日本版原為同人誌作品，後於《[月刊Comic電擊大王](../Page/月刊Comic電擊大王.md "wikilink")》（ASCII Media Works）自2004年4月號至2010年4月號連載，[台灣角川](../Page/台灣角川.md "wikilink")代理其[臺灣](../Page/臺灣.md "wikilink")中文版。其後於《[Evening](../Page/Evening.md "wikilink")》（[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")）2010年24号重開連載。2014年5月上，編輯部刊登了「由於諸多原因，《BLOOD ALONE》於前期連載結束」的通知，意即於4號連載結束。
 
 漫畫ASCII Media Works共出版6冊，講談社版本則共發行十集。
 
@@ -10,8 +6,7 @@ ALONE》於前期連載結束」的通知，意即於4號連載結束。
 
 ## 概要
 
-  - 這個作品原本是以[同人誌的方式發表](../Page/同人誌.md "wikilink")，後來才移到商業誌『[月刊Comic電擊大王](../Page/月刊Comic電擊大王.md "wikilink")』中連載。在2010年5月號中，宣布因作者身體狀況不佳而休載，但在2010年6月號，卻直接宣布連載終止。在作者於部落格中表示，不管作品是任何形式，都會好好的把她畫完。後來，《**BLOOD
-    ALONE**》繼續於[講談社的青年漫畫周刊](https://zh.wikipedia.org/wiki/講談社 "wikilink")《》2010年24號連載。
+  - 這個作品原本是以[同人誌](../Page/同人誌.md "wikilink")的方式發表，後來才移到商業誌『[月刊Comic電擊大王](../Page/月刊Comic電擊大王.md "wikilink")』中連載。在2010年5月號中，宣布因作者身體狀況不佳而休載，但在2010年6月號，卻直接宣布連載終止。在作者於部落格中表示，不管作品是任何形式，都會好好的把她畫完。後來，《**BLOOD ALONE**》繼續於[講談社的青年漫畫周刊](https://zh.wikipedia.org/wiki/講談社 "wikilink")《》2010年24號連載。
 
 <!-- end list -->
 
@@ -19,7 +14,7 @@ ALONE》於前期連載結束」的通知，意即於4號連載結束。
 
 <!-- end list -->
 
-  - 本作品是以黑色為主色調，希望給讀者一種靜謐的氣氛，漫畫外圍的底色會隨著白日黑夜有所不同在黑夜是黑色，白日則是白色。（同時也因為[吸血鬼的生活都是在黑夜](../Page/吸血鬼.md "wikilink")。）
+  - 本作品是以黑色為主色調，希望給讀者一種靜謐的氣氛，漫畫外圍的底色會隨著白日黑夜有所不同在黑夜是黑色，白日則是白色。（同時也因為[吸血鬼](../Page/吸血鬼.md "wikilink")的生活都是在黑夜。）
 
 ### 故事簡介
 
@@ -163,14 +158,12 @@ ALONE》於前期連載結束」的通知，意即於4號連載結束。
 
 ### 日文版
 
-  - 2010年，**BLOOD
-    ALONE**的出版社[MediaWorks](../Page/MediaWorks.md "wikilink")，因《[月刊Comic電擊大王](../Page/月刊Comic電擊大王.md "wikilink")》停載，只出版到第六集。
+  - 2010年，**BLOOD ALONE**的出版社[MediaWorks](../Page/MediaWorks.md "wikilink")，因《[月刊Comic電擊大王](../Page/月刊Comic電擊大王.md "wikilink")》停載，只出版到第六集。
 
 <!-- end list -->
 
   -
-    後續是由日本[講談社連載](https://zh.wikipedia.org/wiki/講談社 "wikilink")，重新出版的第一至第六集內追加了同人志版的《EARLY
-    NIGHTS》；而第七集是[MediaWorks版第六集的後續](../Page/MediaWorks.md "wikilink")。
+    後續是由日本[講談社連載](https://zh.wikipedia.org/wiki/講談社 "wikilink")，重新出版的第一至第六集內追加了同人志版的《EARLY NIGHTS》；而第七集是[MediaWorks](../Page/MediaWorks.md "wikilink")版第六集的後續。
 
 <table>
 <thead>
@@ -246,7 +239,7 @@ ALONE》於前期連載結束」的通知，意即於4號連載結束。
 
 ### 中文版
 
-  - 由[台灣角川出版至第六集](../Page/台灣角川.md "wikilink")。第七集開始由[尖端出版](https://zh.wikipedia.org/wiki/尖端 "wikilink")。
+  - 由[台灣角川](../Page/台灣角川.md "wikilink")出版至第六集。第七集開始由[尖端出版](https://zh.wikipedia.org/wiki/尖端 "wikilink")。
 
 <table>
 <thead>
@@ -299,11 +292,4 @@ ALONE》於前期連載結束」的通知，意即於4號連載結束。
 
   - [高野真之的個人網頁](https://web.archive.org/web/20070325000010/http://www.h5.dion.ne.jp/~mtaka/)
 
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:講談社](https://zh.wikipedia.org/wiki/Category:講談社 "wikilink")
-[Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink")
-[Category:Evening](https://zh.wikipedia.org/wiki/Category:Evening "wikilink")
-[Category:青年漫畫](https://zh.wikipedia.org/wiki/Category:青年漫畫 "wikilink")
-[Category:月刊Comic電擊大王連載作品](https://zh.wikipedia.org/wiki/Category:月刊Comic電擊大王連載作品 "wikilink")
-[Category:吸血鬼題材漫畫](https://zh.wikipedia.org/wiki/Category:吸血鬼題材漫畫 "wikilink")
-[Category:廣播劇CD](https://zh.wikipedia.org/wiki/Category:廣播劇CD "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:講談社](https://zh.wikipedia.org/wiki/Category:講談社 "wikilink") [Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink") [Category:Evening](https://zh.wikipedia.org/wiki/Category:Evening "wikilink") [Category:青年漫畫](https://zh.wikipedia.org/wiki/Category:青年漫畫 "wikilink") [Category:月刊Comic電擊大王連載作品](https://zh.wikipedia.org/wiki/Category:月刊Comic電擊大王連載作品 "wikilink") [Category:吸血鬼題材漫畫](https://zh.wikipedia.org/wiki/Category:吸血鬼題材漫畫 "wikilink") [Category:廣播劇CD](https://zh.wikipedia.org/wiki/Category:廣播劇CD "wikilink")

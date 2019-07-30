@@ -1,4 +1,4 @@
-**Sneaker大賞**（[日文](https://zh.wikipedia.org/wiki/日文 "wikilink")：****）是由[角川書店主辦](../Page/角川書店.md "wikilink")，針對[新人](https://zh.wikipedia.org/wiki/新人 "wikilink")、以[輕小說為主的](../Page/輕小說.md "wikilink")[文學獎](../Page/文學獎.md "wikilink")。該獎每年發表一次，是以委員以合議的方式決定。最早在1996年成立，已經舉辦了十五屆，其中大賞只頒發過五次。
+**Sneaker大賞**（[日文](https://zh.wikipedia.org/wiki/日文 "wikilink")：****）是由[角川書店](../Page/角川書店.md "wikilink")主辦，針對[新人](https://zh.wikipedia.org/wiki/新人 "wikilink")、以[輕小說](../Page/輕小說.md "wikilink")為主的[文學獎](../Page/文學獎.md "wikilink")。該獎每年發表一次，是以委員以合議的方式決定。最早在1996年成立，已經舉辦了十五屆，其中大賞只頒發過五次。
 
 ## 評審委員
 
@@ -578,16 +578,12 @@
 
   - [Sneaker大賞網頁](https://web.archive.org/web/20120427175729/http://www.sneakerbunko.jp/award/)
 
-[Category:日本輕小說文學獎](https://zh.wikipedia.org/wiki/Category:日本輕小說文學獎 "wikilink")
-[Category:角川集團主辦的獎項](https://zh.wikipedia.org/wiki/Category:角川集團主辦的獎項 "wikilink")
-[Category:角川Sneaker文库](https://zh.wikipedia.org/wiki/Category:角川Sneaker文库 "wikilink")
+[Category:日本輕小說文學獎](https://zh.wikipedia.org/wiki/Category:日本輕小說文學獎 "wikilink") [Category:角川集團主辦的獎項](https://zh.wikipedia.org/wiki/Category:角川集團主辦的獎項 "wikilink") [Category:角川Sneaker文库](https://zh.wikipedia.org/wiki/Category:角川Sneaker文库 "wikilink")
 
 1.  獲獎作未出版，作者後憑小說ASUKA讀者大賞出道。
 2.  獲獎作未出版，後憑《》出道。
 3.  獲獎作未出版，後憑《》出道。
 4.  獲獎作未出版，後憑《[R-15 歡迎來到天才學園！](../Page/R-15.md "wikilink")》出道。
-5.  獲獎作未出版，後憑《[問題兒童都來自異世界？1
-    YES！是兔子叫來的！](../Page/問題兒童都來自異世界？.md "wikilink")》出道。
-6.  獲獎作未出版，後憑《[夜明けの死神](https://zh.wikipedia.org/wiki/夜明けの死神 "wikilink")》與雙月刊雜誌《The
-    Sneaker》出道。
+5.  獲獎作未出版，後憑《[問題兒童都來自異世界？ YES！是兔子叫來的！](../Page/問題兒童都來自異世界？.md "wikilink")1》出道。
+6.  獲獎作未出版，後憑《[夜明けの死神](https://zh.wikipedia.org/wiki/夜明けの死神 "wikilink")》與雙月刊雜誌《The Sneaker》出道。
 7.  獲獎作未出版，後憑《[煌帝のバトルスローネ！](https://zh.wikipedia.org/wiki/煌帝のバトルスローネ！ "wikilink")》出道。

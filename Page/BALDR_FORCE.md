@@ -1,27 +1,15 @@
-《**BALDR
-FORCE**》是[戲畫在](../Page/戲畫_\(遊戲品牌\).md "wikilink")2002年11月1日發售的[動作和](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，「[BALDR系列](https://zh.wikipedia.org/wiki/戲畫_\(遊戲品牌\)#BALDR系列 "wikilink")」的第四作。2003年1月24日發售《**BALDR
-FORCE
-EXE**》，另外由[Alchemist發售](../Page/Alchemist.md "wikilink")[Dreamcast版和](../Page/Dreamcast.md "wikilink")[PlayStation
-2版](../Page/PlayStation_2.md "wikilink")。2006年11月10日開始發售OVA版《**BALDR
-FORCE EXE RESOLUTION**》。\[2\]\[3\]
-2007年3月23日由[TGL發售PC全年齡版](../Page/TGL.md "wikilink")《**BALDR
-FORCE Standard Edition**》。遊戲的機械人戰鬥部分，是成人禁遊戲中較成功的例子之一\[4\]。
+《**BALDR FORCE**》是[戲畫在](../Page/戲畫_\(遊戲品牌\).md "wikilink")2002年11月1日發售的[動作和](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，「[BALDR系列](https://zh.wikipedia.org/wiki/戲畫_\(遊戲品牌\)#BALDR系列 "wikilink")」的第四作。2003年1月24日發售《**BALDR FORCE EXE**》，另外由[Alchemist](../Page/Alchemist.md "wikilink")發售[Dreamcast](../Page/Dreamcast.md "wikilink")版和[PlayStation 2版](../Page/PlayStation_2.md "wikilink")。2006年11月10日開始發售OVA版《**BALDR FORCE EXE RESOLUTION**》。\[2\]\[3\] 2007年3月23日由[TGL](../Page/TGL.md "wikilink")發售PC全年齡版《**BALDR FORCE Standard Edition**》。遊戲的機械人戰鬥部分，是成人禁遊戲中較成功的例子之一\[4\]。
 
 ## 發售歷史
 
-  - 2002年11月1日PC（[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")）版《BALDR
-    FORCE》發售。
+  - 2002年11月1日PC（[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")）版《BALDR FORCE》發售。
   - 2003年1月24日PC《BALDR FORCE EXE》發售。
   - 2003年12月5日PC《BALDR FORCE EXE》廉價版發售。\[5\]
-  - 2004年10月28日[Dreamcast版](../Page/Dreamcast.md "wikilink")《BALDR FORCE
-    EXE》發售。\[6\]\[7\]
-  - 2005年4月7日[PS2](../Page/PlayStation_2.md "wikilink")《BALDR FORCE
-    EXE》發售。\[8\]
+  - 2004年10月28日[Dreamcast](../Page/Dreamcast.md "wikilink")版《BALDR FORCE EXE》發售。\[6\]\[7\]
+  - 2005年4月7日[PS2](../Page/PlayStation_2.md "wikilink")《BALDR FORCE EXE》發售。\[8\]
   - 2006年3月23日PS2《BALDR FORCE EXE》通常版發售。\[9\]
   - 2007年3月23日發售PC全年齡版《Baldr Force Standard Edition》。\[10\]
-  - 2007年4月27日發售PC《[Xross
-    Scramble](../Page/Xross_Scramble.md "wikilink")》，其中所收錄的「BALDR FORCE
-    Re-Action」和BALDR系列電子畫集《》。
+  - 2007年4月27日發售PC《[Xross Scramble](../Page/Xross_Scramble.md "wikilink")》，其中所收錄的「BALDR FORCE Re-Action」和BALDR系列電子畫集《》。
 
 ## 遊戲系統
 
@@ -36,8 +24,7 @@ FORCE Standard Edition**》。遊戲的機械人戰鬥部分，是成人禁遊�
 3.  巴傑拉
 4.  憐
 
-TEAM BALDRHEAD其後的作品《[DUEL
-SAVIOR](../Page/DUEL_SAVIOR.md "wikilink")》亦有類似的次序。
+TEAM BALDRHEAD其後的作品《[DUEL SAVIOR](../Page/DUEL_SAVIOR.md "wikilink")》亦有類似的次序。
 
 #### 結局
 
@@ -150,7 +137,7 @@ SAVIOR](../Page/DUEL_SAVIOR.md "wikilink")》亦有類似的次序。
 
 #### 普通招式
 
-※**粗體**是由前作[機甲戰線承繼過來或改良後的武器](../Page/機甲戰線.md "wikilink")
+※**粗體**是由前作[機甲戰線](../Page/機甲戰線.md "wikilink")承繼過來或改良後的武器
 
 <table>
 <thead>
@@ -374,7 +361,7 @@ SAVIOR](../Page/DUEL_SAVIOR.md "wikilink")》亦有類似的次序。
 <td><p>光束劍</p></td>
 <td><p>52</p></td>
 <td></td>
-<td><p><a href="../Page/光子.md" title="wikilink">光子衝擊波</a></p></td>
+<td><p><a href="../Page/光子.md" title="wikilink">光子</a>衝擊波</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -680,9 +667,7 @@ SAVIOR](../Page/DUEL_SAVIOR.md "wikilink")》亦有類似的次序。
 
 ## 角色介紹
 
-※[聲優排序](../Page/聲優.md "wikilink")：PC、DC / PS2 / BALDR FORCE
-Re-Action。Standard Edition版除了相馬透是石田彰配音，其他也是PC十八禁版的聲優。OVA版見[BALDR FORCE
-EXE RESOLUTION](../Page/BALDR_FORCE_EXE_RESOLUTION.md "wikilink")。
+※[聲優](../Page/聲優.md "wikilink")排序：PC、DC / PS2 / BALDR FORCE Re-Action。Standard Edition版除了相馬透是石田彰配音，其他也是PC十八禁版的聲優。OVA版見[BALDR FORCE EXE RESOLUTION](../Page/BALDR_FORCE_EXE_RESOLUTION.md "wikilink")。
 
 ### 草原之狼（Steppen WOLF）
 
@@ -731,7 +716,7 @@ EXE RESOLUTION](../Page/BALDR_FORCE_EXE_RESOLUTION.md "wikilink")。
     年齡：戶籍紀錄上是21歲（實際上這紀錄有被篡改過的嫌疑）、生日：12月3日、血型：B型、學歷：不明
     基本能力：體力12、知識14、敏捷13。技能：操作等級4、駭客等級4、程式編寫等級1
     情報管理係第一小隊的駕駛員，處事樂觀，經常露出內衣在基地走來走去。
-    15歲時由[北美洲移居至](../Page/北美洲.md "wikilink")[東亞後自願加入軍隊](https://zh.wikipedia.org/wiki/東亞 "wikilink")，但在一年後因犯事而入獄一年。17歲時以平民身份鎮壓恐怖組織有功，被八木澤推薦再度入隊。
+    15歲時由[北美洲](../Page/北美洲.md "wikilink")移居至[東亞後自願加入軍隊](https://zh.wikipedia.org/wiki/東亞 "wikilink")，但在一年後因犯事而入獄一年。17歲時以平民身份鎮壓恐怖組織有功，被八木澤推薦再度入隊。
     身體多處受過最先進的人類工程學[加工手術美化](https://zh.wikipedia.org/wiki/整容 "wikilink")，8至6年前曾經以「」的名稱在網上活動。
     16歲時曾經與被通輯的駭客慣犯相戀，但凱拉在半年後被捕，那男人則逃走成功，但最後還是死了\[20\]。而一年刑期的輕判是因為法官認為凱拉精神受打擊而酌情處理。
 
@@ -795,7 +780,7 @@ EXE RESOLUTION](../Page/BALDR_FORCE_EXE_RESOLUTION.md "wikilink")。
 
   -
     一年前開始與「草原之狼」共同行動，技術極高的駭客\[23\]，連軍方構造體也可以輕易入侵。只在網絡和草原之狼來往，從來沒有露面，說話也是用電子聲音。但看起來似乎不成熟，曾被透認為是「思想幼稚但技術極強的中年同性戀男人」。
-    因為太聰明，與同年的人談不來，但比她大的人則看不起她是個女孩，所以堅持不露面。後來一直在「飛刀」基地附近的死城獨自生活，情緒寄託只有一些流浪貓、網絡和自己的專用[人工智能朋友](../Page/人工智能.md "wikilink")。
+    因為太聰明，與同年的人談不來，但比她大的人則看不起她是個女孩，所以堅持不露面。後來一直在「飛刀」基地附近的死城獨自生活，情緒寄託只有一些流浪貓、網絡和自己的專用[人工智能](../Page/人工智能.md "wikilink")朋友。
 
 <!-- end list -->
 
@@ -828,8 +813,7 @@ EXE RESOLUTION](../Page/BALDR_FORCE_EXE_RESOLUTION.md "wikilink")。
   - 腦死（Flatline）
     任何連接著網絡的情況下進入網絡死去即稱為腦死，不論有否沒入。一般分為四種：
       - 物理上破壞腦部
-        通常是因踩中「攻性防壁（Black
-        Ice）」（一種致命陷阱），經由神經插入子直接傳送大量信號至現實腦部，負荷過大，腦部燒焦而死。
+        通常是因踩中「攻性防壁（Black Ice）」（一種致命陷阱），經由神經插入子直接傳送大量信號至現實腦部，負荷過大，腦部燒焦而死。
       - 沒入時現實身體死去
         如缺水、老人不能負荷過量運動而死。死者會成為電子體幽靈，理論上將會永遠存在於網絡上。
       - 電子體被消滅
@@ -843,8 +827,7 @@ EXE RESOLUTION](../Page/BALDR_FORCE_EXE_RESOLUTION.md "wikilink")。
 
   -
     其凶手就是彩音，但當時她是神智不清的。
-    彩音18歲在I.V.S工作時被元霸派的恐怖組織捉走並成為人質監禁，更被施加[強姦以外的](https://zh.wikipedia.org/wiki/強姦 "wikilink")[性暴行](https://zh.wikipedia.org/wiki/性暴行 "wikilink")。其後，身為軍人的弟弟Yūsuke\[24\]
-    趕去救彩音，但卻在彩音面前被元霸[凌遲式慘殺](../Page/凌遲.md "wikilink")，因此對恐怖組織（特別是元霸）產生極大的怨恨。最後由八木澤宗次所指揮的部隊救出。在OVA內沒有發生這些事，只是弟弟出外工作時被元霸殺掉。
+    彩音18歲在I.V.S工作時被元霸派的恐怖組織捉走並成為人質監禁，更被施加[強姦以外的](https://zh.wikipedia.org/wiki/強姦 "wikilink")[性暴行](https://zh.wikipedia.org/wiki/性暴行 "wikilink")。其後，身為軍人的弟弟Yūsuke\[24\] 趕去救彩音，但卻在彩音面前被元霸[凌遲](../Page/凌遲.md "wikilink")式慘殺，因此對恐怖組織（特別是元霸）產生極大的怨恨。最後由八木澤宗次所指揮的部隊救出。在OVA內沒有發生這些事，只是弟弟出外工作時被元霸殺掉。
     為了復仇不惜隨便洩漏軍方保安漏洞，希望藉此引來恐怖份子而增加報仇的機會。絕大部分恐怖組織和駭客（包括草原之狼）入侵也是靠著這些情報。
     為可變型式，當時戰敗於元霸後神志不清而在透面前誤殺優哉。因為當時的是平時不用的較強裝備，透當初入隊時並不知道彩音就是仇人。
 
@@ -894,7 +877,7 @@ EXE RESOLUTION](../Page/BALDR_FORCE_EXE_RESOLUTION.md "wikilink")。
 <!-- end list -->
 
   - 計劃二
-    研究以腦內晶片提高[腦部思考能力](https://zh.wikipedia.org/wiki/腦部 "wikilink")、唯一一個有兩位（一男一女）實驗體的計劃。男性實驗體方面是強化[右腦以提高](../Page/右腦.md "wikilink")[直覺](https://zh.wikipedia.org/wiki/直覺 "wikilink")、感官、運動神經。女性實驗體方面是強化[左腦以提高](https://zh.wikipedia.org/wiki/左腦 "wikilink")[智商](../Page/智商.md "wikilink")、記憶力、思考力。
+    研究以腦內晶片提高[腦部思考能力](https://zh.wikipedia.org/wiki/腦部 "wikilink")、唯一一個有兩位（一男一女）實驗體的計劃。男性實驗體方面是強化[右腦](../Page/右腦.md "wikilink")以提高[直覺](https://zh.wikipedia.org/wiki/直覺 "wikilink")、感官、運動神經。女性實驗體方面是強化[左腦以提高](https://zh.wikipedia.org/wiki/左腦 "wikilink")[智商](../Page/智商.md "wikilink")、記憶力、思考力。
     男性方面以元霸為實驗體。實驗大致上成功，但副作用是過度強化後，他的本能衝動會比一般人強很多，導致他易怒、情緒不穩，且對性、暴力等行為異常熱衷而無法自控。雖然在施展惡行時了解這是不對的而有內疚的情緒，但無法停止。在憐路線的十一章「彼方」中，與透在山中小屋對決前，希望透能戰勝自己而得到解脫，在戰敗後對透表示謝意，並希望透能讓憐也解脫。\[25\]。
     女性方面以巴傑拉為實驗體。實驗也是大致上成功，副作用**聲稱**是情緒不穩，但看不出是，而且匡認為她副作用十分輕。實際上的副作用應是身體停止生長。因為身體停留在小女孩的狀態，巴傑拉對於胸部的大小似乎非常在意。
 
@@ -921,7 +904,7 @@ EXE RESOLUTION](../Page/BALDR_FORCE_EXE_RESOLUTION.md "wikilink")。
 #### 受害人
 
   - 笹桐月菜
-    月菜加入V.S.S後有一些小成績就升職至全公司最高級的α部隊就開始被洗腦（名義上是「訓練」），過程中一直有一定程度的抵抗力。而在故事最後，因為與洗腦的主[人工智能的切斷而永久失去連接網絡的能力](../Page/人工智能.md "wikilink")。
+    月菜加入V.S.S後有一些小成績就升職至全公司最高級的α部隊就開始被洗腦（名義上是「訓練」），過程中一直有一定程度的抵抗力。而在故事最後，因為與洗腦的主[人工智能](../Page/人工智能.md "wikilink")的切斷而永久失去連接網絡的能力。
     另外，月菜初加入V.S.S時使用的是V.S.S最基本的TYPE-02H；被洗腦的初階段使用α1；後期使用α2；被完全洗腦後使用V.S.S的超重量級光學。
 
 <!-- end list -->
@@ -950,8 +933,7 @@ EXE RESOLUTION](../Page/BALDR_FORCE_EXE_RESOLUTION.md "wikilink")。
   -
     利維坦其實是水坂憐的潛在意識，和她的情緒波動互相呼應。而且和憐一樣可以任意扭曲網絡世界的物理法則，任何接近它的數據、電子體、記錄等也會被吸進其中（在吸入時，被吸者的腦內晶片會發出「吸收（Drain）」的訊號，就算他未必聽到）。亦正因如此，在利維坦是另一個網絡世界，在網上「腦死」的人大部份還「活」在這裡。而憐會知道所有在利維坦世界中發生的所有事。在憐的劇情路線中，會吸去故事中幾乎所有角色。
     優哉的人格紀錄（類似現今的[緩存](https://zh.wikipedia.org/wiki/緩存 "wikilink")）在死後被利維坦吸去。在憐的劇情路線中，他在利維坦的空間對透說不希望為自己而報仇，並提議以透自殺的方式引發腦內的備份晶片的復元功能以回到現實世界。
-    遊戲中引用了[聖經](https://zh.wikipedia.org/wiki/聖經 "wikilink")[但以理書第七章二十三節](../Page/但以理書.md "wikilink")\[26\]
-    來解釋利維坦的存在。
+    遊戲中引用了[聖經](https://zh.wikipedia.org/wiki/聖經 "wikilink")[但以理書](../Page/但以理書.md "wikilink")第七章二十三節\[26\] 來解釋利維坦的存在。
 
 ## 主題曲
 
@@ -1154,8 +1136,7 @@ EXE RESOLUTION](../Page/BALDR_FORCE_EXE_RESOLUTION.md "wikilink")。
 </tbody>
 </table>
 
-  - Baldr Force "Standard Edition" FULL REMAKE SOUNDTRACK（Standard
-    Edition）
+  - Baldr Force "Standard Edition" FULL REMAKE SOUNDTRACK（Standard Edition）
 
 | \# | 歌名                   | \# | 歌名                         |
 | -- | -------------------- | -- | -------------------------- |
@@ -1179,16 +1160,14 @@ EXE RESOLUTION](../Page/BALDR_FORCE_EXE_RESOLUTION.md "wikilink")。
 
 ## 關聯項目
 
-  - [BALDR FORCE EXE
-    RESOLUTION](../Page/BALDR_FORCE_EXE_RESOLUTION.md "wikilink")
+  - [BALDR FORCE EXE RESOLUTION](../Page/BALDR_FORCE_EXE_RESOLUTION.md "wikilink")
   - [I've Sound](../Page/I've.md "wikilink")
 
 ## 参考資料
 
 <div class="references-small">
 
-1.  [Baldr Force:
-    Walkthrough](http://www.supercheats.com/pc/walkthroughs/baldrforce-walkthrough01.txt)
+1.  [Baldr Force: Walkthrough](http://www.supercheats.com/pc/walkthroughs/baldrforce-walkthrough01.txt)
 
 </div>
 
@@ -1198,8 +1177,7 @@ EXE RESOLUTION](../Page/BALDR_FORCE_EXE_RESOLUTION.md "wikilink")。
 
   - [DC、PS2版官網](https://web.archive.org/web/20080917032520/http://www.alchemist-net.co.jp/products/bf_exe/)
 
-  - [BALDR FORCE "Standard Edition" OFFICIAL
-    WEB-SITE](https://web.archive.org/web/20080921204659/http://www.play.tgl.jp/baldrforce/index.html)
+  - [BALDR FORCE "Standard Edition" OFFICIAL WEB-SITE](https://web.archive.org/web/20080921204659/http://www.play.tgl.jp/baldrforce/index.html)
 
   - [戲畫](http://www.web-giga.com/)
 
@@ -1207,15 +1185,7 @@ EXE RESOLUTION](../Page/BALDR_FORCE_EXE_RESOLUTION.md "wikilink")。
 
   - [機甲戰線和BALDR FORCE詳細資料及攻略Wiki](http://wiki.livedoor.jp/baldr_force/)
 
-[Category:Dreamcast遊戲](https://zh.wikipedia.org/wiki/Category:Dreamcast遊戲 "wikilink")
-[Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:動作遊戲](https://zh.wikipedia.org/wiki/Category:動作遊戲 "wikilink")
-[Category:月刊Comic電擊大王連載作品](https://zh.wikipedia.org/wiki/Category:月刊Comic電擊大王連載作品 "wikilink")
-[Category:BALDR系列](https://zh.wikipedia.org/wiki/Category:BALDR系列 "wikilink")
-[Category:等距視角遊戲](https://zh.wikipedia.org/wiki/Category:等距視角遊戲 "wikilink")
-[Category:2002年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2002年日本成人遊戲 "wikilink")
+[Category:Dreamcast遊戲](https://zh.wikipedia.org/wiki/Category:Dreamcast遊戲 "wikilink") [Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:動作遊戲](https://zh.wikipedia.org/wiki/Category:動作遊戲 "wikilink") [Category:月刊Comic電擊大王連載作品](https://zh.wikipedia.org/wiki/Category:月刊Comic電擊大王連載作品 "wikilink") [Category:BALDR系列](https://zh.wikipedia.org/wiki/Category:BALDR系列 "wikilink") [Category:等距視角遊戲](https://zh.wikipedia.org/wiki/Category:等距視角遊戲 "wikilink") [Category:2002年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2002年日本成人遊戲 "wikilink")
 
 1.
 2.

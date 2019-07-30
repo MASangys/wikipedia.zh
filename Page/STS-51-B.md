@@ -10,8 +10,4 @@
   - **[路德维克·范·登·伯格](https://zh.wikipedia.org/wiki/路德维克·范·登·伯格 "wikilink")**（，曾执行任务），有效载荷专家
   - **[王赣骏](../Page/王赣骏.md "wikilink")**（，曾执行任务），有效载荷专家
 
-[Category:1985年佛罗里达州](https://zh.wikipedia.org/wiki/Category:1985年佛罗里达州 "wikilink")
-[Category:1985年科学](https://zh.wikipedia.org/wiki/Category:1985年科学 "wikilink")
-[Category:挑战者号航天飞机任务](https://zh.wikipedia.org/wiki/Category:挑战者号航天飞机任务 "wikilink")
-[Category:1985年4月](https://zh.wikipedia.org/wiki/Category:1985年4月 "wikilink")
-[Category:1985年5月](https://zh.wikipedia.org/wiki/Category:1985年5月 "wikilink")
+[Category:1985年佛罗里达州](https://zh.wikipedia.org/wiki/Category:1985年佛罗里达州 "wikilink") [Category:1985年科学](https://zh.wikipedia.org/wiki/Category:1985年科学 "wikilink") [Category:挑战者号航天飞机任务](https://zh.wikipedia.org/wiki/Category:挑战者号航天飞机任务 "wikilink") [Category:1985年4月](https://zh.wikipedia.org/wiki/Category:1985年4月 "wikilink") [Category:1985年5月](https://zh.wikipedia.org/wiki/Category:1985年5月 "wikilink")

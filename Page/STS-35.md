@@ -10,7 +10,4 @@
   - **[萨穆埃尔·杜兰斯](https://zh.wikipedia.org/wiki/萨穆埃尔·杜兰斯 "wikilink")**（，曾执行以及任务），有效载荷专家
   - **[罗纳德·帕里斯](https://zh.wikipedia.org/wiki/罗纳德·帕里斯 "wikilink")**（，曾执行以及任务），有效载荷专家
 
-[Category:1990年佛罗里达州](https://zh.wikipedia.org/wiki/Category:1990年佛罗里达州 "wikilink")
-[Category:1990年科学](https://zh.wikipedia.org/wiki/Category:1990年科学 "wikilink")
-[Category:哥伦比亚号航天飞机任务](https://zh.wikipedia.org/wiki/Category:哥伦比亚号航天飞机任务 "wikilink")
-[Category:1990年12月](https://zh.wikipedia.org/wiki/Category:1990年12月 "wikilink")
+[Category:1990年佛罗里达州](https://zh.wikipedia.org/wiki/Category:1990年佛罗里达州 "wikilink") [Category:1990年科学](https://zh.wikipedia.org/wiki/Category:1990年科学 "wikilink") [Category:哥伦比亚号航天飞机任务](https://zh.wikipedia.org/wiki/Category:哥伦比亚号航天飞机任务 "wikilink") [Category:1990年12月](https://zh.wikipedia.org/wiki/Category:1990年12月 "wikilink")

@@ -1,9 +1,8 @@
-[Strugarden.JPG](https://zh.wikipedia.org/wiki/File:Strugarden.JPG "fig:Strugarden.JPG")
-《**幸福Online**》（英文：****，日文：****）是由[日本](../Page/日本.md "wikilink")[Dwango公司繼開發](https://zh.wikipedia.org/wiki/Dwango "wikilink")《[石器時代](https://zh.wikipedia.org/wiki/石器時代_\(遊戲\) "wikilink")》及《[魔力寶貝](https://zh.wikipedia.org/wiki/魔力寶貝 "wikilink")》後新推出的一款大型Q版[3D角色扮演](https://zh.wikipedia.org/wiki/3D "wikilink")[網路遊戲](https://zh.wikipedia.org/wiki/網路遊戲 "wikilink")。[台灣方面於](https://zh.wikipedia.org/wiki/台灣 "wikilink")2004年6月18日由[宏碁戲谷代理上市並開始](https://zh.wikipedia.org/wiki/宏碁戲谷 "wikilink")[封閉測試](https://zh.wikipedia.org/wiki/封閉測試 "wikilink")，而[中國大陸也於同年](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")11月25日對外封閉測試，在中國大陸的正式名稱是《幸福花園online》。2013年5月23日由GameCyber重新代理港澳中文版，名為夢之幸福Online。2018年5月11日，日本官網公告於2018年5月31日關閉伺服器(http://info.hangame.co.jp/index.nhn?m=detail\&infono=13352)
+[Strugarden.JPG](https://zh.wikipedia.org/wiki/File:Strugarden.JPG "fig:Strugarden.JPG") 《**幸福Online**》（英文：****，日文：****）是由[日本](../Page/日本.md "wikilink")[Dwango公司繼開發](https://zh.wikipedia.org/wiki/Dwango "wikilink")《[石器時代](https://zh.wikipedia.org/wiki/石器時代_\(遊戲\) "wikilink")》及《[魔力寶貝](https://zh.wikipedia.org/wiki/魔力寶貝 "wikilink")》後新推出的一款大型Q版[3D角色扮演](https://zh.wikipedia.org/wiki/3D "wikilink")[網路遊戲](https://zh.wikipedia.org/wiki/網路遊戲 "wikilink")。[台灣方面於](https://zh.wikipedia.org/wiki/台灣 "wikilink")2004年6月18日由[宏碁戲谷代理上市並開始](https://zh.wikipedia.org/wiki/宏碁戲谷 "wikilink")[封閉測試](https://zh.wikipedia.org/wiki/封閉測試 "wikilink")，而[中國大陸也於同年](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")11月25日對外封閉測試，在中國大陸的正式名稱是《幸福花園online》。2013年5月23日由GameCyber重新代理港澳中文版，名為夢之幸福Online。2018年5月11日，日本官網公告於2018年5月31日關閉伺服器(http://info.hangame.co.jp/index.nhn?m=detail\&infono=13352)
 
 ## 簡介
 
-戲谷代理之初，曾遭[董事長大力的反對](../Page/董事長.md "wikilink")，但高層主管群認為遊戲的賣相好，平衡以及畫面都屬一流，揚言若是公司不代理此遊戲將不排除集體出走另組公司來代理，終於在日本代表團即將搭上[飛機之前簽下合約](https://zh.wikipedia.org/wiki/飛機 "wikilink")，由於和戲谷位於同一座大樓裡的[華義國際也曾關切過代理權](../Page/華義國際.md "wikilink")，雙方為了避嫌，就決定在[速食店裡簽約](https://zh.wikipedia.org/wiki/速食店 "wikilink")。
+戲谷代理之初，曾遭[董事長](../Page/董事長.md "wikilink")大力的反對，但高層主管群認為遊戲的賣相好，平衡以及畫面都屬一流，揚言若是公司不代理此遊戲將不排除集體出走另組公司來代理，終於在日本代表團即將搭上[飛機之前簽下合約](https://zh.wikipedia.org/wiki/飛機 "wikilink")，由於和戲谷位於同一座大樓裡的[華義國際](../Page/華義國際.md "wikilink")也曾關切過代理權，雙方為了避嫌，就決定在[速食店裡簽約](https://zh.wikipedia.org/wiki/速食店 "wikilink")。
 
 雖然在使用者規約中預定代理至少三年，然而一年後，戲谷便火速結束此遊戲在兩岸三地的營運，並聲明此後便不代理任何MMO類型的網路遊戲，其後以[戰谷品牌重新代理MMO類型的網路遊戲](https://zh.wikipedia.org/wiki/戰谷 "wikilink")，台灣的[伺服器正式永久關機於](https://zh.wikipedia.org/wiki/伺服器 "wikilink")2005年12月8日晚間十一點整。
 
@@ -23,15 +22,11 @@
 
 \*: 遊戲是以隨機碰撞式的地雷式遭遇戰鬥，即是你無法看見敵人，一些頭目戰當然例外。
 
-\*: 其戰鬥方式與一般的網絡遊戲不一樣，以分成數格的不同地形為戰場，角色需在行動時決定行走路線，再選擇要使用的技能。
-由於每類怪物的行動模式都十分相似，能夠掌握怪物的行走路線，即可不扣血地擊倒怪物。
+\*: 其戰鬥方式與一般的網絡遊戲不一樣，以分成數格的不同地形為戰場，角色需在行動時決定行走路線，再選擇要使用的技能。 由於每類怪物的行動模式都十分相似，能夠掌握怪物的行走路線，即可不扣血地擊倒怪物。
 
-\*: 「SSBS同步策略戰鬥系統」結合了技能組合(DECK)概念、職業變化、地形高低、隊伍成員、陣形
-走位、寵物助攻等不同的策略要素，同時行進、攻擊的同時還要猜測對手的下一步動作
+\*: 「SSBS同步策略戰鬥系統」結合了技能組合(DECK)概念、職業變化、地形高低、隊伍成員、陣形 走位、寵物助攻等不同的策略要素，同時行進、攻擊的同時還要猜測對手的下一步動作
 
-\*:
-\[STRUGARDEN\]設計了戰鬥用和生產用兩大類，約有400種以上的各式技能。且\[STRUGARDEN\]採用了技能樹的概念，讓玩家可以
-培養多元化、獨特化的個人角色，連續使用取得的技能可以提高熟練度，進化成更強大的技能。
+\*: \[STRUGARDEN\]設計了戰鬥用和生產用兩大類，約有400種以上的各式技能。且\[STRUGARDEN\]採用了技能樹的概念，讓玩家可以 培養多元化、獨特化的個人角色，連續使用取得的技能可以提高熟練度，進化成更強大的技能。
 
 \*:說明
 
@@ -158,19 +153,14 @@
 
 ### 龍島－空中大陸
 
-浮在布雷塔利亞上空高處的大陸。只在少數冒險者的手記和傳言中聽說，沒有實際看到是很難令人相信的。有說坐在龍背上飛去或是從連接布雷塔利亞與龍島的彩虹走去也能去到龍島大陸。因為到過龍島的人實在很少的關係，情報亦很少。
-但是近來因為某事件，成為了龍島與布雷塔利亞大陸交流的契機，近來亦多了冒險者提起龍島大陸的事。
-龍島的首都依斯，大陸的人嚮往的地方。對冒險者來說，體驗在那裡的生活是人生中無可替代的重要一幕。
+浮在布雷塔利亞上空高處的大陸。只在少數冒險者的手記和傳言中聽說，沒有實際看到是很難令人相信的。有說坐在龍背上飛去或是從連接布雷塔利亞與龍島的彩虹走去也能去到龍島大陸。因為到過龍島的人實在很少的關係，情報亦很少。 但是近來因為某事件，成為了龍島與布雷塔利亞大陸交流的契機，近來亦多了冒險者提起龍島大陸的事。 龍島的首都依斯，大陸的人嚮往的地方。對冒險者來說，體驗在那裡的生活是人生中無可替代的重要一幕。
 
 ## 外部連結
 
-  - [港澳
-    新幸福Online官方網站](https://web.archive.org/web/20140519171035/http://sg.gamecyber.net/main.html)
+  - [港澳 新幸福Online官方網站](https://web.archive.org/web/20140519171035/http://sg.gamecyber.net/main.html)
   - [日本 幸福官方網站](http://www.strugarden.info/)
   - [やるならやらねば　ヽ(｀Д´)ノ](https://web.archive.org/web/20080512014106/http://www.geocities.jp/okita0111/)
   - [幸福-法恩(Fran)網站](http://tommyleu.myweb.hinet.net/SG/)
-  - [巴哈幸福
-    Online攻略百科](http://acg.gamer.com.tw/acgDetail.php?s=8077#guide)
+  - [巴哈幸福 Online攻略百科](http://acg.gamer.com.tw/acgDetail.php?s=8077#guide)
 
-[Category:大型多人在线角色扮演游戏](https://zh.wikipedia.org/wiki/Category:大型多人在线角色扮演游戏 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
+[Category:大型多人在线角色扮演游戏](https://zh.wikipedia.org/wiki/Category:大型多人在线角色扮演游戏 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")

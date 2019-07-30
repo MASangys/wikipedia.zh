@@ -1,4 +1,4 @@
-**Nexuiz**是一个[三维](https://zh.wikipedia.org/wiki/三维 "wikilink")[第一人称射击游戏](../Page/第一人称射击游戏.md "wikilink")，[游戏引擎為](../Page/游戏引擎.md "wikilink")[DarkPlaces](https://zh.wikipedia.org/wiki/DarkPlaces "wikilink")，修改自[雷神之锤引擎](../Page/雷神之锤引擎.md "wikilink")，它的游戏源代码在[GNU通用公共许可证许可下发布](../Page/GNU通用公共许可证.md "wikilink")，使用[自由内容](https://zh.wikipedia.org/wiki/自由内容 "wikilink")，故为“[自由游戏软件](../Page/自由软件.md "wikilink")”。[Nexuiz_logo.svg](https://zh.wikipedia.org/wiki/File:Nexuiz_logo.svg "fig:Nexuiz_logo.svg")为此游戏图标，可能算作中文名，
+**Nexuiz**是一个[三维](https://zh.wikipedia.org/wiki/三维 "wikilink")[第一人称射击游戏](../Page/第一人称射击游戏.md "wikilink")，[游戏引擎](../Page/游戏引擎.md "wikilink")為[DarkPlaces](https://zh.wikipedia.org/wiki/DarkPlaces "wikilink")，修改自[雷神之锤引擎](../Page/雷神之锤引擎.md "wikilink")，它的游戏源代码在[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")许可下发布，使用[自由内容](https://zh.wikipedia.org/wiki/自由内容 "wikilink")，故为“[自由游戏软件](../Page/自由软件.md "wikilink")”。[Nexuiz_logo.svg](https://zh.wikipedia.org/wiki/File:Nexuiz_logo.svg "fig:Nexuiz_logo.svg")为此游戏图标，可能算作中文名，
 
 ## 游戏特点
 
@@ -6,15 +6,14 @@
 
 ## 图像效果
 
-*Nexuiz*使用[DarkPlaces引擎](https://zh.wikipedia.org/wiki/DarkPlaces "wikilink")，支持OpenGL
-2.0，拥有[布隆过滤器](../Page/布隆过滤器.md "wikilink")、实时建模、动态光影、[视差映射和](https://zh.wikipedia.org/wiki/视差映射 "wikilink")[高动态光照渲染等特效](../Page/高动态光照渲染.md "wikilink")。
+*Nexuiz*使用[DarkPlaces引擎](https://zh.wikipedia.org/wiki/DarkPlaces "wikilink")，支持OpenGL 2.0，拥有[布隆过滤器](../Page/布隆过滤器.md "wikilink")、实时建模、动态光影、[视差映射和](https://zh.wikipedia.org/wiki/视差映射 "wikilink")[高动态光照渲染](../Page/高动态光照渲染.md "wikilink")等特效。
 
 ## 武器
 
-1.Laser（[激光枪](../Page/激光.md "wikilink")）
+1.Laser（[激光](../Page/激光.md "wikilink")枪）
 
   -
-    标准模式自带武器。火力弱，只有一种攻击模式，无限弹药。拥有击飞的能力，子弹爆炸后散溅只带来很少伤害，所以它能用于[火箭跳而不用花费太多](../Page/火箭跳.md "wikilink")[生命值](../Page/生命值.md "wikilink")。
+    标准模式自带武器。火力弱，只有一种攻击模式，无限弹药。拥有击飞的能力，子弹爆炸后散溅只带来很少伤害，所以它能用于[火箭跳](../Page/火箭跳.md "wikilink")而不用花费太多[生命值](../Page/生命值.md "wikilink")。
     弹药：不需
 
 2.Shotgun（[霰弹枪](https://zh.wikipedia.org/wiki/霰弹枪 "wikilink")）
@@ -35,8 +34,7 @@
     主攻击模式点射。次模式连续射击，但特殊的是这个武器需要装弹。
     弹药：常规子弹（主x3，次x10）
 
-4.Grenade
-Launcher/Mortar（[榴弹发射器](../Page/榴弹发射器.md "wikilink")，在遊戲中也稱[迫擊砲](https://zh.wikipedia.org/wiki/迫擊砲 "wikilink")）
+4.Grenade Launcher/Mortar（[榴弹发射器](../Page/榴弹发射器.md "wikilink")，在遊戲中也稱[迫擊砲](https://zh.wikipedia.org/wiki/迫擊砲 "wikilink")）
 
   -
     是Hager的改型。火力强大，但射击间隔长。次攻击模式为发射一个跳动的榴弹并计时两秒后爆炸。
@@ -51,7 +49,7 @@ Launcher/Mortar（[榴弹发射器](../Page/榴弹发射器.md "wikilink")，在
 6-1.CryLink（闪电链）
 
   -
-    发射五个小型高度不稳定的[等离子体球](../Page/等离子体.md "wikilink")。主攻击模式子弹密集在一个小圈里，这有时候对付单个敌人很有用，擊中牆壁會反彈一次。次攻击模式子弹成水平一排发射出去。即时等离子体球能弹跳，但它们只在直接命中时造成伤害。
+    发射五个小型高度不稳定的[等离子体](../Page/等离子体.md "wikilink")球。主攻击模式子弹密集在一个小圈里，这有时候对付单个敌人很有用，擊中牆壁會反彈一次。次攻击模式子弹成水平一排发射出去。即时等离子体球能弹跳，但它们只在直接命中时造成伤害。
     弹药：能量电池（主&次x1）
 
 6-2.Heavy Laser Assault Cannon（重型雷射突擊砲）
@@ -63,7 +61,7 @@ Launcher/Mortar（[榴弹发射器](../Page/榴弹发射器.md "wikilink")，在
 7-1.NexGun（力量之枪）
 
   -
-    力量之枪从磁性容器里发射出一列反物质然后以超音速直飞向目标，几乎能蒸发一路上所有遇到的物体，直到被重质量物质吸收，例如石头或者金属。[反物质的反应就是在空气中拖出一个可见的轨迹](../Page/反物质.md "wikilink")，威力極強但射擊頻率極低。次攻击模式為視野接近的瞄准功能。
+    力量之枪从磁性容器里发射出一列反物质然后以超音速直飞向目标，几乎能蒸发一路上所有遇到的物体，直到被重质量物质吸收，例如石头或者金属。[反物质](../Page/反物质.md "wikilink")的反应就是在空气中拖出一个可见的轨迹，威力極強但射擊頻率極低。次攻击模式為視野接近的瞄准功能。
     弹药：能量电池（主x5）
 
 7-2.Minstanex
@@ -117,14 +115,4 @@ Launcher/Mortar（[榴弹发射器](../Page/榴弹发射器.md "wikilink")，在
 
   - [muzuiget的Nexuiz研究-2.4.2](https://web.archive.org/web/20081023131408/http://muzuiget.blog.ubuntu.org.cn/tag/nexuiz/)
 
-[Category:免费游戏](https://zh.wikipedia.org/wiki/Category:免费游戏 "wikilink")
-[Category:網路遊戲](https://zh.wikipedia.org/wiki/Category:網路遊戲 "wikilink")
-[Category:SourceForge专案](https://zh.wikipedia.org/wiki/Category:SourceForge专案 "wikilink")
-[Category:第一人称射击游戏](https://zh.wikipedia.org/wiki/Category:第一人称射击游戏 "wikilink")
-[Category:Linux游戏](https://zh.wikipedia.org/wiki/Category:Linux游戏 "wikilink")
-[Category:MacOS遊戲](https://zh.wikipedia.org/wiki/Category:MacOS遊戲 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:开源游戏](https://zh.wikipedia.org/wiki/Category:开源游戏 "wikilink")
-[Category:2005年电子游戏](https://zh.wikipedia.org/wiki/Category:2005年电子游戏 "wikilink")
-[Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink")
-[Category:多人線上第一人稱射擊遊戲](https://zh.wikipedia.org/wiki/Category:多人線上第一人稱射擊遊戲 "wikilink")
+[Category:免费游戏](https://zh.wikipedia.org/wiki/Category:免费游戏 "wikilink") [Category:網路遊戲](https://zh.wikipedia.org/wiki/Category:網路遊戲 "wikilink") [Category:SourceForge专案](https://zh.wikipedia.org/wiki/Category:SourceForge专案 "wikilink") [Category:第一人称射击游戏](https://zh.wikipedia.org/wiki/Category:第一人称射击游戏 "wikilink") [Category:Linux游戏](https://zh.wikipedia.org/wiki/Category:Linux游戏 "wikilink") [Category:MacOS遊戲](https://zh.wikipedia.org/wiki/Category:MacOS遊戲 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:开源游戏](https://zh.wikipedia.org/wiki/Category:开源游戏 "wikilink") [Category:2005年电子游戏](https://zh.wikipedia.org/wiki/Category:2005年电子游戏 "wikilink") [Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink") [Category:多人線上第一人稱射擊遊戲](https://zh.wikipedia.org/wiki/Category:多人線上第一人稱射擊遊戲 "wikilink")

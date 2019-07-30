@@ -1,10 +1,8 @@
-《**戰鬥狂熱
-J**》（原題：，港譯：萬國戰隊）是日本[東映公司在](../Page/東映.md "wikilink")1979年製作的「[超級戰隊系列](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")」第3部[特攝作品](https://zh.wikipedia.org/wiki/特攝 "wikilink")，1979年2月3日至1980年1月26日在[朝日電視台於每週星期六](../Page/朝日電視台.md "wikilink")18:00-18:30全52話播映。
+《**戰鬥狂熱 J**》（原題：，港譯：萬國戰隊）是日本[東映](../Page/東映.md "wikilink")公司在1979年製作的「[超級戰隊系列](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")」第3部[特攝作品](https://zh.wikipedia.org/wiki/特攝 "wikilink")，1979年2月3日至1980年1月26日在[朝日電視台](../Page/朝日電視台.md "wikilink")於每週星期六18:00-18:30全52話播映。
 
 ## 故事概要
 
-在世界各地發生各式各樣的奇怪現象，神秘的洋傘美女帶來的國防部重要人物接連不斷地被殺。所以從世界各地集結了4個年輕人調查原因。4個人搜查中途相遇和神秘洋傘美女的樣貌一模一樣的女性搜查官戴安，成員5個戰士集結了。鐵礦山將軍的指揮下5個人各自給予戰鬥西服，組成Battle
-Fever J。
+在世界各地發生各式各樣的奇怪現象，神秘的洋傘美女帶來的國防部重要人物接連不斷地被殺。所以從世界各地集結了4個年輕人調查原因。4個人搜查中途相遇和神秘洋傘美女的樣貌一模一樣的女性搜查官戴安，成員5個戰士集結了。鐵礦山將軍的指揮下5個人各自給予戰鬥西服，組成Battle Fever J。
 
 ## 特色
 
@@ -15,17 +13,16 @@ Fever J。
 
 ## 戰鬥狂熱 J
 
-[國防部的](../Page/國防部.md "wikilink")[聯邦調查局內的成員精心挑選了](https://zh.wikipedia.org/wiki/聯邦調查局 "wikilink")**Battle
-Fever J**成員的5個人，並訓練他們學會以世界各地的舞蹈為基礎的戰鬥技術。
+[國防部](../Page/國防部.md "wikilink")的[聯邦調查局內的成員精心挑選了](https://zh.wikipedia.org/wiki/聯邦調查局 "wikilink")**Battle Fever J**成員的5個人，並訓練他們學會以世界各地的舞蹈為基礎的戰鬥技術。
 
 | 演員                                                                                                                                                                                                                                                                                                                                                    | 劇中角色名稱 | 代號        | 替身          |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | --------- | ----------- |
 | [<font color="White">谷岡弘規</font>](https://zh.wikipedia.org/wiki/谷岡弘規 "wikilink")                                                                                                                                                                                                                                                                      | 傳正夫    | 戰鬥日本      | 新堀和男        |
-| [亞洲代表的戰士](https://zh.wikipedia.org/wiki/亞洲 "wikilink")。Battle Fever J的領導人。做事十分認真，也是幽默精粹的男子。空手道和[功夫等的養成的格鬥術](../Page/功夫.md "wikilink")，戰鬥時驅使了這些的「功夫舞蹈」。                                                                                                                                                                                                |        |           |             |
+| [亞洲代表的戰士](https://zh.wikipedia.org/wiki/亞洲 "wikilink")。Battle Fever J的領導人。做事十分認真，也是幽默精粹的男子。空手道和[功夫](../Page/功夫.md "wikilink")等的養成的格鬥術，戰鬥時驅使了這些的「功夫舞蹈」。                                                                                                                                                                                                |        |           |             |
 |                                                                                                                                                                                                                                                                                                                                                       |        |           |             |
 | 演員                                                                                                                                                                                                                                                                                                                                                    | 劇中角色名稱 | 代號        | 替身          |
 | [<font color="black">伊藤武史</font>](https://zh.wikipedia.org/wiki/伊藤武史 "wikilink")（現:[<font color="black">伊藤幸雄</font>](https://zh.wikipedia.org/wiki/伊藤幸雄 "wikilink")）                                                                                                                                                                                  | 白石謙作   | 戰鬥哥薩克（初期） | 渥美博→古賀弘文    |
-| [歐亞大陸代表的戰士](../Page/歐亞大陸.md "wikilink")。Battle Fever J的初期的哥薩克。[中亞誕生的孤兒](https://zh.wikipedia.org/wiki/中亞 "wikilink")。然而，被鐵礦山將軍拾回收養了。視科學為主要戰術。性格溫和。戰鬥時用俄國時代的勇敢騎兵「哥薩克」充分的戰術「哥薩克舞蹈」驅散敵人。33話，為了打開自殺父親憎恨戰爭的心，被認為「血臭」的戰鬥服而自我發射子彈而死。 伊藤幸雄曾飾演1975年初作「[秘密戰隊五連者](../Page/秘密戰隊五連者.md "wikilink")」的**綠連者\~明日香健二**                                                 |        |           |             |
+| [歐亞大陸](../Page/歐亞大陸.md "wikilink")代表的戰士。Battle Fever J的初期的哥薩克。[中亞誕生的孤兒](https://zh.wikipedia.org/wiki/中亞 "wikilink")。然而，被鐵礦山將軍拾回收養了。視科學為主要戰術。性格溫和。戰鬥時用俄國時代的勇敢騎兵「哥薩克」充分的戰術「哥薩克舞蹈」驅散敵人。33話，為了打開自殺父親憎恨戰爭的心，被認為「血臭」的戰鬥服而自我發射子彈而死。 伊藤幸雄曾飾演1975年初作「[秘密戰隊五連者](../Page/秘密戰隊五連者.md "wikilink")」的**綠連者\~明日香健二**                                                 |        |           |             |
 | 演員                                                                                                                                                                                                                                                                                                                                                    | 劇中角色名稱 | 代號        | 替身          |
 | [<font color="black">伴直弥</font>](https://zh.wikipedia.org/wiki/伴直弥 "wikilink")（現:[<font color="black">伴大介</font>](https://zh.wikipedia.org/wiki/伴大介 "wikilink")）                                                                                                                                                                                      | 神誠     | 戰鬥哥薩克（後期） | 古賀弘文        |
 | 白石在國防部的前輩，是射擊高手。由於白石而死而繼任戰鬥哥薩克，也繼承了相當於副隊長的地位。以黃色系戰士為輔助領導人的隊員，為戰隊系列中最為罕見。（本作品以外「[百獸戰隊](https://zh.wikipedia.org/wiki/百獸戰隊 "wikilink")」的牙吠黃也是）。                                                                                                                                                                                                         |        |           |             |
@@ -36,7 +33,7 @@ Fever J**成員的5個人，並訓練他們學會以世界各地的舞蹈為基�
 |                                                                                                                                                                                                                                                                                                                                                       |        |           |             |
 | 演員                                                                                                                                                                                                                                                                                                                                                    | 劇中角色名稱 | 代號        | 替身          |
 | [<font color="Green">大葉健二</font>](https://zh.wikipedia.org/wiki/大葉健二 "wikilink")                                                                                                                                                                                                                                                                      | 曙四郎    | 戰鬥肯亞      | 大葉健二、喜多川務   |
-| [非洲代表的戰士](../Page/非洲.md "wikilink"),有著野孩子般的明朗性格,是個大食漢,有懂得與動物對話的特殊能力.戰鬥時會使用獨門的熱帶舞蹈(トロピカルダンス),專用武器是鞭子.其他有稱為動物行動(アニマルアクション)的技巧. 大葉健二後參演後作「[電子戰隊電磁人](../Page/電子戰隊電磁人.md "wikilink")」的**電磁藍\~青梅大五郎**。 其他登場作品:2011年第35作「[海賊戰隊豪快者](../Page/海賊戰隊豪快者.md "wikilink")」第44話、劇場版「[海賊戰隊豪快者 VS 宇宙刑事卡邦 The Movie](../Page/海賊戰隊豪快者_VS_宇宙刑事卡邦_The_Movie.md "wikilink")」 |        |           |             |
+| [非洲](../Page/非洲.md "wikilink")代表的戰士,有著野孩子般的明朗性格,是個大食漢,有懂得與動物對話的特殊能力.戰鬥時會使用獨門的熱帶舞蹈(トロピカルダンス),專用武器是鞭子.其他有稱為動物行動(アニマルアクション)的技巧. 大葉健二後參演後作「[電子戰隊電磁人](../Page/電子戰隊電磁人.md "wikilink")」的**電磁藍\~青梅大五郎**。 其他登場作品:2011年第35作「[海賊戰隊豪快者](../Page/海賊戰隊豪快者.md "wikilink")」第44話、劇場版「[海賊戰隊豪快者 VS 宇宙刑事卡邦 The Movie](../Page/海賊戰隊豪快者_VS_宇宙刑事卡邦_The_Movie.md "wikilink")」 |        |           |             |
 |                                                                                                                                                                                                                                                                                                                                                       |        |           |             |
 | 演員                                                                                                                                                                                                                                                                                                                                                    | 劇中角色名稱 | 代號        | 替身          |
 | [<font color="blue">Diane Martin</font>](https://zh.wikipedia.org/wiki/Diane_Martin "wikilink")                                                                                                                                                                                                                                                       | 黛安‧馬汀  | 美國小姐（初期）  | 小牧麗莎、小野寺えい子 |
@@ -50,8 +47,7 @@ Fever J**成員的5個人，並訓練他們學會以世界各地的舞蹈為基�
 
 ## 敵方
 
-是一个宗教性的秘密组织,其首领如神一般的存在,使用原始科学制造出各式各样的怪人。
-片子就没怎样说明他们的目的是什麼,似乎单纯地为破坏而行动,以下是成员简介。
+是一个宗教性的秘密组织,其首领如神一般的存在,使用原始科学制造出各式各样的怪人。 片子就没怎样说明他们的目的是什麼,似乎单纯地为破坏而行动,以下是成员简介。
 
 ### 邪恶秘密结社艾戈斯
 
@@ -88,8 +84,7 @@ Fever J**成員的5個人，並訓練他們學會以世界各地的舞蹈為基�
   -
     **艾哥斯怪人（エゴス怪人）**
       -
-        被视为撒旦艾哥斯的儿女，它们亦称撒旦艾哥斯为父亲(片中亦有其他叫法)
-        ；本身没有巨大化的能力，它们的职级比希达及莎乐美高，所以希达会尊称怪人为御子,女性怪人是王女。
+        被视为撒旦艾哥斯的儿女，它们亦称撒旦艾哥斯为父亲(片中亦有其他叫法) ；本身没有巨大化的能力，它们的职级比希达及莎乐美高，所以希达会尊称怪人为御子,女性怪人是王女。
 
 <!-- end list -->
 
@@ -109,13 +104,11 @@ Fever J**成員的5個人，並訓練他們學會以世界各地的舞蹈為基�
 
   - Commando Bat(コマンドバット)
 
-队员们的标准武器,亦可以变化成队员的个人武器. 单体投掷时可引发名为Battle Fire(バトルファイヤー)的技巧.
-它亦可反弹光线攻击,亦曾变化成绳索及双节棍等的形态. 　　
+队员们的标准武器,亦可以变化成队员的个人武器. 单体投掷时可引发名为Battle Fire(バトルファイヤー)的技巧. 它亦可反弹光线攻击,亦曾变化成绳索及双节棍等的形态. 　　
 
   - Penta-Force(ペンタフォース)
 
-把Commando Bat 合而为一的必杀武器,使出前队员会先做出BF 的文字姿势. 分成炮台形态的Bazooka Type(バズーカタイプ),
-及投掷用的星形Boomerang Type(ブーメランタイプ). 变成上述形态时只需把棒向上投掷,就会自动合体. 　　 　　
+把Commando Bat 合而为一的必杀武器,使出前队员会先做出BF 的文字姿势. 分成炮台形态的Bazooka Type(バズーカタイプ), 及投掷用的星形Boomerang Type(ブーメランタイプ). 变成上述形态时只需把棒向上投掷,就会自动合体. 　　 　　
 
   - Battle Shot 5(バトルショット5)
 
@@ -638,8 +631,7 @@ Fever J**成員的5個人，並訓練他們學會以世界各地的舞蹈為基�
 
   - 『**バトルフィーバー J**』
       -
-        作詞：[山川啟介](https://zh.wikipedia.org/wiki/山川啟介 "wikilink")　作曲／編曲：[渡邊宙明](https://zh.wikipedia.org/wiki/渡邊宙明 "wikilink")　歌：[MoJo](https://zh.wikipedia.org/wiki/MoJo "wikilink")、[哥倫比亞搖籠會](https://zh.wikipedia.org/wiki/音羽搖籠會 "wikilink")、[Feeling
-        Free](https://zh.wikipedia.org/wiki/Feeling_Free "wikilink")
+        作詞：[山川啟介](https://zh.wikipedia.org/wiki/山川啟介 "wikilink")　作曲／編曲：[渡邊宙明](https://zh.wikipedia.org/wiki/渡邊宙明 "wikilink")　歌：[MoJo](https://zh.wikipedia.org/wiki/MoJo "wikilink")、[哥倫比亞搖籠會](https://zh.wikipedia.org/wiki/音羽搖籠會 "wikilink")、[Feeling Free](https://zh.wikipedia.org/wiki/Feeling_Free "wikilink")
 
 ### 片尾曲
 
@@ -661,6 +653,4 @@ Fever J**成員的5個人，並訓練他們學會以世界各地的舞蹈為基�
 
 ## 註釋
 
-[Category:朝日電視台電視劇](https://zh.wikipedia.org/wiki/Category:朝日電視台電視劇 "wikilink")
-[Category:超級戰隊系列](https://zh.wikipedia.org/wiki/Category:超級戰隊系列 "wikilink")
-[Category:1979年日本電視劇集](https://zh.wikipedia.org/wiki/Category:1979年日本電視劇集 "wikilink")
+[Category:朝日電視台電視劇](https://zh.wikipedia.org/wiki/Category:朝日電視台電視劇 "wikilink") [Category:超級戰隊系列](https://zh.wikipedia.org/wiki/Category:超級戰隊系列 "wikilink") [Category:1979年日本電視劇集](https://zh.wikipedia.org/wiki/Category:1979年日本電視劇集 "wikilink")

@@ -1,9 +1,7 @@
 `# 符合此列表的外部連結在被加入頁面時會被`[`MediaWiki:Spam-blacklist阻攔而無法加入`](https://zh.wikipedia.org/wiki/MediaWiki:Spam-blacklist "wikilink")`，因此有此白名單防止過度阻攔`
-`# 黑名單僅在中文維基百科有效，維基媒體計劃共用的黑名單列表請見`[`:meta:Spam``
- ``blacklist`](https://zh.wikipedia.org/wiki/:meta:Spam_blacklist "wikilink")
+`# 黑名單僅在中文維基百科有效，維基媒體計劃共用的黑名單列表請見`[`:meta:Spam``   ``blacklist`](https://zh.wikipedia.org/wiki/:meta:Spam_blacklist "wikilink")
 `# Mediawiki軟體對黑名單列表的詳細說明請見`[`:mw:Extension:SpamBlacklist`](https://zh.wikipedia.org/wiki/:mw:Extension:SpamBlacklist "wikilink")
-`# 管理员可以通过`[`seth's``
- ``tool`](https://tools.wmflabs.org/searchsbl/?userdeflang=zh&userdefproj=w)`在垃圾链接黑名单中搜索匹配项`
+`# 管理员可以通过`[`seth's``   ``tool`](https://tools.wmflabs.org/searchsbl/?userdeflang=zh&userdefproj=w)`在垃圾链接黑名单中搜索匹配项`
 `#  `
 
 ```

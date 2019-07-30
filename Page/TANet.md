@@ -1,24 +1,16 @@
-**TANet**（\[1\]），即**臺灣學術網路**，為[中華民國](../Page/中華民國.md "wikilink")[教育部與](../Page/中華民國教育部.md "wikilink")[臺灣各學術單位共同建立的一個全國性](../Page/臺灣.md "wikilink")[教學](https://zh.wikipedia.org/wiki/教學 "wikilink")[研究用](../Page/研究.md "wikilink")[網際網路系統](https://zh.wikipedia.org/wiki/網際網路 "wikilink")。
+**TANet**（\[1\]），即**臺灣學術網路**，為[中華民國](../Page/中華民國.md "wikilink")[教育部與](../Page/中華民國教育部.md "wikilink")[臺灣](../Page/臺灣.md "wikilink")各學術單位共同建立的一個全國性[教學](https://zh.wikipedia.org/wiki/教學 "wikilink")[研究](../Page/研究.md "wikilink")用[網際網路系統](https://zh.wikipedia.org/wiki/網際網路 "wikilink")。
 
 ## 概要
 
-1980年代中期，教育部引進[BITNET大學教學研究網路系統](https://zh.wikipedia.org/wiki/BITNET "wikilink")，提供學術界跨國[電子郵件](https://zh.wikipedia.org/wiki/電子郵件 "wikilink")、檔案傳輸等應用服務。1980年代末期，教育部科技顧問室（1990年更名為[教育部顧問室](https://web.archive.org/web/20121115192314/http://www.edu.tw/consultant/content.aspx?site_content_sn=7285)）在[張進福主任任內編列經費](../Page/張進福.md "wikilink")，委由科技顧問[陳文村規劃](../Page/陳文村.md "wikilink")，補助主要國立大學建立校園網路、校際網路。於1990年7月，教育部[電子計算機中心](https://web.archive.org/web/20151026001156/http://www.edu.tw/moecc/index.aspx)邀集受補助大學成立「台灣學術網路」，建立以[TCP/IP通訊協定為基礎之](https://zh.wikipedia.org/wiki/TCP/IP協議 "wikilink")[網際網路系統](https://zh.wikipedia.org/wiki/網際網路 "wikilink")，為台灣第一個網際網路系統，也是台灣往後發展政府、商用網際網路系統之基礎。1999年起，教育部推動中小學使用[ADSL連線至TANet](../Page/ADSL.md "wikilink")，讓資訊教育向下扎根，迄今TANet已成為全台灣各級學校網路及資訊教育之平台。\[2\]
-TANet初期連接台灣部份的學術單位與研究機構，網路骨幹使用電話連線，頻寬為9.6kbps。1991年12月3日以64Kbps[數據專線連接](https://zh.wikipedia.org/wiki/數據專線 "wikilink")[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[普林斯頓大學的](https://zh.wikipedia.org/wiki/普林斯頓大學 "wikilink")[JvNCnet](https://zh.wikipedia.org/wiki/JvNCnet "wikilink")，成為台灣的第一條跨國網路連線\[3\]\[4\]。1994年年初，以[T1連接架設中的](https://zh.wikipedia.org/wiki/T载波 "wikilink")[Hinet](https://zh.wikipedia.org/wiki/Hinet "wikilink")，成為台灣第一條網際網路對等連線（），台灣的網際網路正式進入跨網時代。同年6月以10Mbps
-的[乙太網路連接](https://zh.wikipedia.org/wiki/乙太網路 "wikilink")[SEEDNet](https://zh.wikipedia.org/wiki/SEEDNet "wikilink")，台灣開始了多網系統的網網相連。歷經多年來擴充，TANet網路架構分為國家骨幹網路、地區性網路、校園網路三個階層，2005年TANet國家骨幹網路全面提昇至10GE之網路環境。截至2008年4月，連美國頻寬為[STM16](../Page/同步光网络.md "wikilink")
-(2488.32Mbps)，連台灣其它網路總頻寬達102.718Gbps。
-於2016年中旬後，主節點(中央研究院、臺北、新竹、臺中、臺南)主節點及各縣市區網中心間(臺東區網除外)交換骨幹均提升至100Gbps。各區網中心分別以兩條100Gbps線路接往主節點，均達線路備援。TANet骨幹的提升能舒緩以往TANet長年以來頻寬不足的問題。
-\[5\] \[6\] \[7\]
-TANet的管理組織分為三個階層：「台灣學術網路管理委員會」、「區域網路中心推動小組」以及「縣市教育網路中心推動小組」。
+1980年代中期，教育部引進[BITNET大學教學研究網路系統](https://zh.wikipedia.org/wiki/BITNET "wikilink")，提供學術界跨國[電子郵件](https://zh.wikipedia.org/wiki/電子郵件 "wikilink")、檔案傳輸等應用服務。1980年代末期，教育部科技顧問室（1990年更名為[教育部顧問室](https://web.archive.org/web/20121115192314/http://www.edu.tw/consultant/content.aspx?site_content_sn=7285)）在[張進福](../Page/張進福.md "wikilink")主任任內編列經費，委由科技顧問[陳文村](../Page/陳文村.md "wikilink")規劃，補助主要國立大學建立校園網路、校際網路。於1990年7月，教育部[電子計算機中心](https://web.archive.org/web/20151026001156/http://www.edu.tw/moecc/index.aspx)邀集受補助大學成立「台灣學術網路」，建立以[TCP/IP通訊協定為基礎之](https://zh.wikipedia.org/wiki/TCP/IP協議 "wikilink")[網際網路系統](https://zh.wikipedia.org/wiki/網際網路 "wikilink")，為台灣第一個網際網路系統，也是台灣往後發展政府、商用網際網路系統之基礎。1999年起，教育部推動中小學使用[ADSL](../Page/ADSL.md "wikilink")連線至TANet，讓資訊教育向下扎根，迄今TANet已成為全台灣各級學校網路及資訊教育之平台。\[2\] TANet初期連接台灣部份的學術單位與研究機構，網路骨幹使用電話連線，頻寬為9.6kbps。1991年12月3日以64Kbps[數據專線連接](https://zh.wikipedia.org/wiki/數據專線 "wikilink")[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[普林斯頓大學的](https://zh.wikipedia.org/wiki/普林斯頓大學 "wikilink")[JvNCnet](https://zh.wikipedia.org/wiki/JvNCnet "wikilink")，成為台灣的第一條跨國網路連線\[3\]\[4\]。1994年年初，以[T1連接架設中的](https://zh.wikipedia.org/wiki/T载波 "wikilink")[Hinet](https://zh.wikipedia.org/wiki/Hinet "wikilink")，成為台灣第一條網際網路對等連線（），台灣的網際網路正式進入跨網時代。同年6月以10Mbps 的[乙太網路連接](https://zh.wikipedia.org/wiki/乙太網路 "wikilink")[SEEDNet](https://zh.wikipedia.org/wiki/SEEDNet "wikilink")，台灣開始了多網系統的網網相連。歷經多年來擴充，TANet網路架構分為國家骨幹網路、地區性網路、校園網路三個階層，2005年TANet國家骨幹網路全面提昇至10GE之網路環境。截至2008年4月，連美國頻寬為[STM16](../Page/同步光网络.md "wikilink") (2488.32Mbps)，連台灣其它網路總頻寬達102.718Gbps。 於2016年中旬後，主節點(中央研究院、臺北、新竹、臺中、臺南)主節點及各縣市區網中心間(臺東區網除外)交換骨幹均提升至100Gbps。各區網中心分別以兩條100Gbps線路接往主節點，均達線路備援。TANet骨幹的提升能舒緩以往TANet長年以來頻寬不足的問題。 \[5\] \[6\] \[7\] TANet的管理組織分為三個階層：「台灣學術網路管理委員會」、「區域網路中心推動小組」以及「縣市教育網路中心推動小組」。
 
-TANet現行網路運作架構為 各區主節點 、各縣市區網中心(收攏鄰近大學大專技職院校及較近區域之高中職與國中小)
-、各縣市教育網路中心(收攏當地高中職、國中小及部分幼稚園)
+TANet現行網路運作架構為 各區主節點 、各縣市區網中心(收攏鄰近大學大專技職院校及較近區域之高中職與國中小) 、各縣市教育網路中心(收攏當地高中職、國中小及部分幼稚園)
 
 ## TANet架構
 
 TANet的骨幹架構如下\[8\]：
 
-一、主節點：
-TANet在中央研究院、臺北、新竹、臺中、臺南，全台五個點設置主節點，主要收攏各縣市所在之區域網路中心，提供各區域網路中心之間骨幹網路交換。\[9\]
+一、主節點： TANet在中央研究院、臺北、新竹、臺中、臺南，全台五個點設置主節點，主要收攏各縣市所在之區域網路中心，提供各區域網路中心之間骨幹網路交換。\[9\]
 
 1.  中央研究院
 2.  臺北主節點：國家教育研究院 \[10\]
@@ -67,13 +59,10 @@ TANet在中央研究院、臺北、新竹、臺中、臺南，全台五個點設
 
 ## 網域命名規則
 
-1.  大專以上院校，以兩個英文字母以上簡稱縮寫，附加 edu.tw 。如 ntu.edu.tw
-    為[國立台灣大學的網域名](https://zh.wikipedia.org/wiki/國立台灣大學 "wikilink")。
+1.  大專以上院校，以兩個英文字母以上簡稱縮寫，附加 edu.tw 。如 ntu.edu.tw 為[國立台灣大學的網域名](https://zh.wikipedia.org/wiki/國立台灣大學 "wikilink")。
 2.  高中職若有英文名稱則沿用之，附加縣市domain.edu.tw。
-    如[高雄市立高雄高級中學英文名為](../Page/高雄市立高雄高級中學.md "wikilink") kshs， 網域名為
-    kshs.kh.edu.tw;
-    [國立科學工業園區實驗高級中學英文名為](../Page/國立科學工業園區實驗高級中學.md "wikilink")
-    nehs，網域名為nehs.hc.edu.tw,
+    如[高雄市立高雄高級中學](../Page/高雄市立高雄高級中學.md "wikilink")英文名為 kshs， 網域名為 kshs.kh.edu.tw;
+    [國立科學工業園區實驗高級中學](../Page/國立科學工業園區實驗高級中學.md "wikilink")英文名為 nehs，網域名為nehs.hc.edu.tw,
     [國立內壢高級中學英文名為nlhs](https://zh.wikipedia.org/wiki/國立內壢高級中學 "wikilink")，網域名為nlhs.tyc.edu.tw。其他依下述規則命名：
     1.  高級中學：校名縮寫英文字母+hs.縣市domain.edu.tw
     2.  完全中學（分國中部、高中部的學校）：校名縮寫英文字母+sh.縣市domain.edu.tw
@@ -91,9 +80,7 @@ TANet在中央研究院、臺北、新竹、臺中、臺南，全台五個點設
 
 ## IP位址範圍
 
-[IP位址的分配依](https://zh.wikipedia.org/wiki/IP位址 "wikilink")[亞太網路資訊中心](../Page/亚太互联网络信息中心.md "wikilink")（APNIC）與[台灣網路資訊中心](https://zh.wikipedia.org/wiki/TWNIC "wikilink")（TWNIC）的規範。TANet多數IP開頭為
-140.92 、140.109至 140.138，尚有 192.83 、 192.192 與 163.13 至
-163.28，其中163.28保留作為TANet及區網[Proxy專用網段](https://zh.wikipedia.org/wiki/Proxy "wikilink")。網域名多以edu.tw結束，部份單位有獨立網域名。
+[IP位址的分配依](https://zh.wikipedia.org/wiki/IP位址 "wikilink")[亞太網路資訊中心](../Page/亚太互联网络信息中心.md "wikilink")（APNIC）與[台灣網路資訊中心](https://zh.wikipedia.org/wiki/TWNIC "wikilink")（TWNIC）的規範。TANet多數IP開頭為 140.92 、140.109至 140.138，尚有 192.83 、 192.192 與 163.13 至 163.28，其中163.28保留作為TANet及區網[Proxy專用網段](https://zh.wikipedia.org/wiki/Proxy "wikilink")。網域名多以edu.tw結束，部份單位有獨立網域名。
 
 ### 大專院校的IP範圍
 
@@ -117,15 +104,13 @@ TANet在中央研究院、臺北、新竹、臺中、臺南，全台五個點設
   - [國立屏東科技大學](../Page/國立屏東科技大學.md "wikilink")———140.**127**.1\~35
   - [國立高雄師範大學](../Page/國立高雄師範大學.md "wikilink")———140.**127**.36\~80
   - [輔英科技大學](../Page/輔英科技大學.md "wikilink")—————140.**127**.86\~110
-  - [國立高雄應用科技大學](../Page/國立高雄應用科技大學.md "wikilink")—140.**127**.111\~120
-    , 140.**127**.149\~150 , 140.**133**.64\~93
+  - [國立高雄應用科技大學](../Page/國立高雄應用科技大學.md "wikilink")—140.**127**.111\~120 , 140.**127**.149\~150 , 140.**133**.64\~93
   - [正修科技大學](../Page/正修科技大學.md "wikilink")—————140.**127**.121\~140
   - [空軍官校](https://zh.wikipedia.org/wiki/空軍官校 "wikilink")———————140.**127**.149\~160
   - [文藻外語大學](../Page/文藻外語大學.md "wikilink")—————140.**127**.164\~170
   - [國立台東大學](https://zh.wikipedia.org/wiki/國立台東大學 "wikilink")—————140.**127**.171\~175
   - [義守大學](../Page/義守大學.md "wikilink")———————140.**127**.176\~191
-  - [國立高雄大學](../Page/國立高雄大學.md "wikilink")—————140.**127**.198\~234 ,
-    140.**133**.32\~63
+  - [國立高雄大學](../Page/國立高雄大學.md "wikilink")—————140.**127**.198\~234 , 140.**133**.32\~63
   - [靜宜大學](../Page/靜宜大學.md "wikilink")———————140.**128**.1\~40
   - [南開科技大學](../Page/南開科技大學.md "wikilink")—————140.**128**.41\~60
   - [中國醫藥大學](../Page/中國醫藥大學.md "wikilink")—————140.**128**.61\~70
@@ -136,12 +121,10 @@ TANet在中央研究院、臺北、新竹、臺中、臺南，全台五個點設
   - [大同大學](https://zh.wikipedia.org/wiki/大同大學_\(臺灣\) "wikilink")———————140.**129**.1\~50
   - [國立陽明大學](https://zh.wikipedia.org/wiki/國立陽明大學 "wikilink")—————140.**129**.51\~80
   - [台北海洋技術學院](https://zh.wikipedia.org/wiki/台北海洋技術學院 "wikilink")———140.**129**.81\~85
-  - [國防大學](../Page/國防大學_\(中華民國\).md "wikilink")———————140.**129**.86\~115
-    , 140.**132**
+  - [國防大學](../Page/國防大學_\(中華民國\).md "wikilink")———————140.**129**.86\~115 , 140.**132**
   - [東南科技大學](../Page/東南科技大學.md "wikilink")—————140.**129**.116\~145
   - [國立虎尾科技大學](../Page/國立虎尾科技大學.md "wikilink")———140.**130**.1\~40
-  - [國立嘉義大學](https://zh.wikipedia.org/wiki/國立嘉義大學 "wikilink")—————140.**130**.41\~50
-    , 140.**130**.81\~100
+  - [國立嘉義大學](https://zh.wikipedia.org/wiki/國立嘉義大學 "wikilink")—————140.**130**.41\~50 , 140.**130**.81\~100
   - [吳鳳科技大學](../Page/吳鳳科技大學.md "wikilink")—————140.**130**.101\~130
   - [大同技術學院](../Page/大同技術學院.md "wikilink")—————140.**130**.131\~150
   - [環球科技大學](../Page/環球科技大學.md "wikilink")—————140.**130**.151\~168
@@ -181,8 +164,7 @@ TANet在中央研究院、臺北、新竹、臺中、臺南，全台五個點設
 #### **192**開頭的IP
 
   - [國立臺中教育大學](../Page/國立臺中教育大學.md "wikilink")———192.83.167
-  - [國立臺北大學](../Page/國立臺北大學.md "wikilink")—————192.83.170\~185,
-    192.192.35\~36
+  - [國立臺北大學](../Page/國立臺北大學.md "wikilink")—————192.83.170\~185, 192.192.35\~36
   - [國立臺中科技大學](../Page/國立臺中科技大學.md "wikilink")———192.83.172
   - [國立彰化師範大學](../Page/國立彰化師範大學.md "wikilink")———192.83.173
   - [大葉大學](../Page/大葉大學.md "wikilink")———————192.83.174
@@ -235,8 +217,7 @@ TANet在中央研究院、臺北、新竹、臺中、臺南，全台五個點設
 
 #### **203**開頭的IP
 
-  - [慈濟大學](https://zh.wikipedia.org/wiki/慈濟大學 "wikilink")———————203.**64**.76,
-    203.**72**.73\~87
+  - [慈濟大學](https://zh.wikipedia.org/wiki/慈濟大學 "wikilink")———————203.**64**.76, 203.**72**.73\~87
   - [國立屏東商業技術學院](https://zh.wikipedia.org/wiki/國立屏東商業技術學院 "wikilink")—203.**64**.120、127
   - [臺北城市科技大學](../Page/臺北城市科技大學.md "wikilink")———203.**64**.215
   - [國立高雄餐旅大學](../Page/國立高雄餐旅大學.md "wikilink")———203.**68**
@@ -259,13 +240,11 @@ TANet在中央研究院、臺北、新竹、臺中、臺南，全台五個點設
 
   - [振聲高中](../Page/桃園市私立振聲高級中學.md "wikilink")———————210.60.194
   - [鳳新高中](../Page/國立鳳新高級中學.md "wikilink")———————210.60.161
-  - [武陵高中](https://zh.wikipedia.org/wiki/國立武陵高級中學 "wikilink")———————210.70.26,
-    210.70.27, 210.70.28
+  - [武陵高中](https://zh.wikipedia.org/wiki/國立武陵高級中學 "wikilink")———————210.70.26, 210.70.27, 210.70.28
   - [台中高工](../Page/臺中市立臺中工業高級中等學校.md "wikilink")———————210.70.70
   - [大安高工](../Page/臺北市立大安高級工業職業學校.md "wikilink")———————210.70.131
   - [建國中學](https://zh.wikipedia.org/wiki/台北市立建國高級中學 "wikilink")———————210.71.78
-  - [臺中一中](../Page/臺中市立臺中第一高級中等學校.md "wikilink")———————210.60.107,
-    210.60.35, 210.60.36
+  - [臺中一中](../Page/臺中市立臺中第一高級中等學校.md "wikilink")———————210.60.107, 210.60.35, 210.60.36
   - [鳳山高中](../Page/國立鳳山高級中學.md "wikilink")———————210.70.89
   - [瑞芳高工](../Page/新北市立瑞芳高級工業職業學校.md "wikilink")———————210.59.2.4
   - [萬芳高中](https://zh.wikipedia.org/wiki/台北市立萬芳高級中學 "wikilink")———————210.70.212
@@ -304,7 +283,7 @@ TANet在中央研究院、臺北、新竹、臺中、臺南，全台五個點設
 
 #### **163**開頭的IP
 
-  - [連江縣政府教育處](../Page/連江縣政府.md "wikilink")——163.**25**.24
+  - [連江縣政府](../Page/連江縣政府.md "wikilink")教育處——163.**25**.24
 
 #### **192**開頭的IP
 
@@ -343,22 +322,16 @@ TANet在中央研究院、臺北、新竹、臺中、臺南，全台五個點設
   - [TWAREN網路](http://www.twaren.net/)
   - [TANet Whois](http://whois.tanet.edu.tw/)
 
-[Category:ISP](https://zh.wikipedia.org/wiki/Category:ISP "wikilink")
-[Category:台灣資訊科技教育](https://zh.wikipedia.org/wiki/Category:台灣資訊科技教育 "wikilink")
-[Category:台灣網際網路](https://zh.wikipedia.org/wiki/Category:台灣網際網路 "wikilink")
+[Category:ISP](https://zh.wikipedia.org/wiki/Category:ISP "wikilink") [Category:台灣資訊科技教育](https://zh.wikipedia.org/wiki/Category:台灣資訊科技教育 "wikilink") [Category:台灣網際網路](https://zh.wikipedia.org/wiki/Category:台灣網際網路 "wikilink")
 
 1.  [臺灣學術網路(TANet)概述.](http://www.edu.tw/pages/detail.aspx?Node=2796&Page=19614&Index=5)
-
 2.
 3.  台灣網際網路發展史編撰研究計畫 <http://www.twnic.net.tw/download/ip-94-1.pdf>
 4.
-5.  MOE 100G
-    記者會報導[1](http://www.appledaily.com.tw/realtimenews/article/new/20160426/847243/)
-6.  TANet骨幹圖
-    \[<http://ws.moe.edu.tw/Download.ashx?u=C099358C81D4876C725695F2070B467E8B81ED614D7AF43ECF00808DFAB229DD40B6A28FF6028BD63A910B8876E230D3D7BDADC759973A7CB3EF4249DD124F5F3F5AA6721A2C409001B3C5D36888D52F&n=860D9DAA32EDE53A6E91FA63935B7A06AF6C68038A4B10DE2BBA8F2A34D03FB2965A00D2E54B1C833FA7CA39399BAC142AEDBF07FEC05E34&icon=>..pdf\]
+5.  MOE 100G 記者會報導[1](http://www.appledaily.com.tw/realtimenews/article/new/20160426/847243/)
+6.  TANet骨幹圖 \[<http://ws.moe.edu.tw/Download.ashx?u=C099358C81D4876C725695F2070B467E8B81ED614D7AF43ECF00808DFAB229DD40B6A28FF6028BD63A910B8876E230D3D7BDADC759973A7CB3EF4249DD124F5F3F5AA6721A2C409001B3C5D36888D52F&n=860D9DAA32EDE53A6E91FA63935B7A06AF6C68038A4B10DE2BBA8F2A34D03FB2965A00D2E54B1C833FA7CA39399BAC142AEDBF07FEC05E34&icon=>..pdf\]
 7.  TANet骨幹100G介紹影片[2](https://www.youtube.com/watch?v=8ej4qe7n1Pw)
 8.  [台灣學術網路(TANet)骨幹架構圖](http://www.edu.tw/userfiles/url/20130605105646/TANet%E6%9E%B6%E6%A7%8B%E5%9C%96.pdf)
-
 9.  [3](http://www.cna.com.tw/news/ahel/201610060272-1.aspx)
 10.
 11. [6](http://depart.moe.edu.tw/ED2700/Content_List.aspx?n=241B451C0D3EBD9E)

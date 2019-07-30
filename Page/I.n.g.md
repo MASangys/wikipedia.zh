@@ -15,13 +15,7 @@
 
 <references />
 
-[Category:臺灣女子演唱團體](https://zh.wikipedia.org/wiki/Category:臺灣女子演唱團體 "wikilink")
-[Category:華語流行音樂團體](https://zh.wikipedia.org/wiki/Category:華語流行音樂團體 "wikilink")
-[Category:已解散的女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的女子演唱團體 "wikilink")
-[Category:2006年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2006年成立的音樂團體 "wikilink")
+[Category:臺灣女子演唱團體](https://zh.wikipedia.org/wiki/Category:臺灣女子演唱團體 "wikilink") [Category:華語流行音樂團體](https://zh.wikipedia.org/wiki/Category:華語流行音樂團體 "wikilink") [Category:已解散的女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的女子演唱團體 "wikilink") [Category:2006年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2006年成立的音樂團體 "wikilink")
 
-1.  [i.n.g 健健美
-    幫兄弟象加油](http://ndap.dils.tku.edu.tw:8080/ndap/querynews2.jsp?id=218536)
-    民生報
-2.  [女生團體i.n.g](http://ent.sina.com.tw/music/star/starinfo.php?singerId=2469&type=other)
-    ，台灣新浪網
+1.  [i.n.g 健健美 幫兄弟象加油](http://ndap.dils.tku.edu.tw:8080/ndap/querynews2.jsp?id=218536) 民生報
+2.  [女生團體i.n.g](http://ent.sina.com.tw/music/star/starinfo.php?singerId=2469&type=other) ，台灣新浪網

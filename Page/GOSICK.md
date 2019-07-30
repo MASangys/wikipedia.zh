@@ -1,13 +1,12 @@
-《**GOSICK**》是日本[直木賞作家](../Page/直木賞.md "wikilink")[櫻庭一樹的系列](../Page/櫻庭一樹.md "wikilink")[推理小說](../Page/推理小說.md "wikilink")，並改編成電視動畫。
+《**GOSICK**》是日本[直木賞](../Page/直木賞.md "wikilink")作家[櫻庭一樹](../Page/櫻庭一樹.md "wikilink")的系列[推理小說](../Page/推理小說.md "wikilink")，並改編成電視動畫。
 
 ## 概要
 
-最初在2003年以短篇的形式參加[龍皇杯](https://zh.wikipedia.org/wiki/龍皇杯 "wikilink")，但最終無緣連載，不過為了回應讀者的支持，2003年底開始於[富士見書房的](../Page/富士見書房.md "wikilink")《[富士見Mystery文庫](../Page/富士見Mystery文庫.md "wikilink")》（現已廢刊）以輕小說的形式出版[文庫本](../Page/文庫本.md "wikilink")，插圖作者為[武田日向](../Page/武田日向.md "wikilink")（該版本中文版由[台灣角川代理](../Page/台灣角川.md "wikilink")）。
+最初在2003年以短篇的形式參加[龍皇杯](https://zh.wikipedia.org/wiki/龍皇杯 "wikilink")，但最終無緣連載，不過為了回應讀者的支持，2003年底開始於[富士見書房](../Page/富士見書房.md "wikilink")的《[富士見Mystery文庫](../Page/富士見Mystery文庫.md "wikilink")》（現已廢刊）以輕小說的形式出版[文庫本](../Page/文庫本.md "wikilink")，插圖作者為[武田日向](../Page/武田日向.md "wikilink")（該版本中文版由[台灣角川](../Page/台灣角川.md "wikilink")代理）。
 
-在經歷過2007年《富士見Mystery文庫》的廢刊、短篇連載雜誌的停刊以及2008年作者獲得[直木賞](../Page/直木賞.md "wikilink")，《**GOSICK**》的版權自富士見書房轉移至[角川書店](../Page/角川書店.md "wikilink")，從[2009年9月開始以隔月發行的形式由](../Page/2009年9月.md "wikilink")[角川文庫以一般小說的形式發行既刊新裝版](https://zh.wikipedia.org/wiki/角川文庫 "wikilink")，角川文庫版刪除原先所有的插圖（長篇5以及短篇集1、2中的部份解說性插圖予以保留，例如“小馬拼圖”）和後記，但增加解說、重新編排登場人物簡介，調整了長篇第4卷和短篇集第1卷的發售順序，並進行相當程度的改筆修訂。續作則隨後推出
-雖然一度稱已完結，但在2013年11月27日根據作者推特的最新消息，最新作《GOSICK RED》將於12月25日發售。
+在經歷過2007年《富士見Mystery文庫》的廢刊、短篇連載雜誌的停刊以及2008年作者獲得[直木賞](../Page/直木賞.md "wikilink")，《**GOSICK**》的版權自富士見書房轉移至[角川書店](../Page/角川書店.md "wikilink")，從[2009年9月](../Page/2009年9月.md "wikilink")開始以隔月發行的形式由[角川文庫以一般小說的形式發行既刊新裝版](https://zh.wikipedia.org/wiki/角川文庫 "wikilink")，角川文庫版刪除原先所有的插圖（長篇5以及短篇集1、2中的部份解說性插圖予以保留，例如“小馬拼圖”）和後記，但增加解說、重新編排登場人物簡介，調整了長篇第4卷和短篇集第1卷的發售順序，並進行相當程度的改筆修訂。續作則隨後推出 雖然一度稱已完結，但在2013年11月27日根據作者推特的最新消息，最新作《GOSICK RED》將於12月25日發售。
 
-漫畫版的作者是女性畫家[天乃咲哉](../Page/天乃咲哉.md "wikilink")，中文版由台灣角川代理。此外，角川文庫版發售的同年，《**GOSICK**》系列由角川書店旗下的女性向文庫[角川Beans文庫發行新裝輕小說版](../Page/角川Beans文庫.md "wikilink")。Beans文庫版的《GOSICKsII》中收錄未發表全新插圖\[1\]。
+漫畫版的作者是女性畫家[天乃咲哉](../Page/天乃咲哉.md "wikilink")，中文版由台灣角川代理。此外，角川文庫版發售的同年，《**GOSICK**》系列由角川書店旗下的女性向文庫[角川Beans文庫](../Page/角川Beans文庫.md "wikilink")發行新裝輕小說版。Beans文庫版的《GOSICKsII》中收錄未發表全新插圖\[1\]。
 
 動畫版於2011年1月7日起播放，2011年7月1日完結，外加一話番外篇，全25話。
 
@@ -50,8 +49,7 @@
 <!-- end list -->
 
   -
-    維多利加的同父異母哥哥，擔任蘇瓦爾的警察。雖然是警察，但是卻沒唸過警校。是個容貌、服裝、行為舉止十分優雅的青年，但前面卻留著鑽頭般又尖又長的特別髮型。他是蘇瓦爾影響力極大的貴族－－布洛瓦侯爵的嫡長子。是個愛好警察工作的貴族，有兩個總是牽著手的部下二人組。喜愛陶瓷娃娃（bisque
-    doll），在警察署的房間內陳列了很多陶瓷娃娃。
+    維多利加的同父異母哥哥，擔任蘇瓦爾的警察。雖然是警察，但是卻沒唸過警校。是個容貌、服裝、行為舉止十分優雅的青年，但前面卻留著鑽頭般又尖又長的特別髮型。他是蘇瓦爾影響力極大的貴族－－布洛瓦侯爵的嫡長子。是個愛好警察工作的貴族，有兩個總是牽著手的部下二人組。喜愛陶瓷娃娃（bisque doll），在警察署的房間內陳列了很多陶瓷娃娃。
     鑽頭髮型就是因為在成為警察前為了救青梅竹馬的戀人，拜託維多利加語言化的代價。
     自從一彌出現之後，藉著一彌與維多利加問話解決很多案件。由於自己要求維多利加把推測出的結果「語言化」代價很高，而由一彌提出卻可以毫無限制，因此古雷溫常借一彌的口要求維多利加「語言化」，藉此破案。
     因為害怕與維多利加會再次提出古怪要求，很少與維多利加面對面說話。其實很關心維多利加，曾協助維多利加逃脫，並提供給一彌找到她的線索。
@@ -671,9 +669,7 @@
 </tbody>
 </table>
 
-P.S.在GOSICK後有小寫S即為主要以原本連載內容組成的短篇作品，GOSICKs 1 第一章刊載於「DRAGON
-MAGAZINE」，其餘除了少部分新內容的章節，皆連載於季刊「FANTASIA BATTLE
-ROYAL」（作者於GOSICKs 1的後記中提及）。
+P.S.在GOSICK後有小寫S即為主要以原本連載內容組成的短篇作品，GOSICKs 1 第一章刊載於「DRAGON MAGAZINE」，其餘除了少部分新內容的章節，皆連載於季刊「FANTASIA BATTLE ROYAL」（作者於GOSICKs 1的後記中提及）。
 
 ### 漫畫
 
@@ -682,8 +678,7 @@ ROYAL」（作者於GOSICKs 1的後記中提及）。
 <!-- end list -->
 
   -
-    於富士見書房「[月刊Dragon
-    Age](https://zh.wikipedia.org/wiki/月刊Dragon_Age "wikilink")」連載
+    於富士見書房「[月刊Dragon Age](https://zh.wikipedia.org/wiki/月刊Dragon_Age "wikilink")」連載
     富士見書房刊（富士見書房發行）已經出版8卷以下續刊\[5\]
 
 <table>
@@ -752,11 +747,9 @@ ROYAL」（作者於GOSICKs 1的後記中提及）。
 
 ### Drama CD
 
-  - GOSICK -ゴシック- 2006年4月21日 B000CFWQAK
-    基於原作小説「GOSICKs－ゴシックエス・春来たる死神－」，封面插圖作者為武田日向。
+  - GOSICK -ゴシック- 2006年4月21日 B000CFWQAK 基於原作小説「GOSICKs－ゴシックエス・春来たる死神－」，封面插圖作者為武田日向。
   - GOSICK -ゴシック- 知恵の泉と小夜曲(セレナード)「花降る亡霊は夏の夜を彩る」 2011年6月1日
-  - GOSICK -ゴシック- 知恵の泉と独唱曲(アリエッタ)「花びらと梟」 2011年8月31日 收錄了角色歌與Drama
-    CD，配音基於TV動畫。
+  - GOSICK -ゴシック- 知恵の泉と独唱曲(アリエッタ)「花びらと梟」 2011年8月31日 收錄了角色歌與Drama CD，配音基於TV動畫。
 
 ### 原聲集
 
@@ -771,8 +764,7 @@ ROYAL」（作者於GOSICKs 1的後記中提及）。
   - 角色原案 - [武田日向](../Page/武田日向.md "wikilink")
   - 監督 - [難波日登志](../Page/難波日登志.md "wikilink")
   - 系列構成 - [岡田麿里](../Page/岡田麿里.md "wikilink")
-  - 人物設定 -
-    [川元利浩](../Page/川元利浩.md "wikilink")、[富岡隆司](https://zh.wikipedia.org/wiki/富岡隆司 "wikilink")
+  - 人物設定 - [川元利浩](../Page/川元利浩.md "wikilink")、[富岡隆司](https://zh.wikipedia.org/wiki/富岡隆司 "wikilink")
   - 總作画监督 - 富岡隆司
   - 機械設計 - 竹内志保
   - 美術監督 - 近藤由美子
@@ -783,8 +775,7 @@ ROYAL」（作者於GOSICKs 1的後記中提及）。
   - 音響效果 - [倉橋静男](https://zh.wikipedia.org/wiki/倉橋静男 "wikilink")
   - 音樂 - [中川幸太郎](../Page/中川幸太郎.md "wikilink")
   - 音樂制作 - [古倫美亞音樂娛樂](https://zh.wikipedia.org/wiki/古倫美亞音樂娛樂 "wikilink")
-  - 動画制作 -
-    [BONES](https://zh.wikipedia.org/wiki/BONES_\(動画制作公司\) "wikilink")
+  - 動画制作 - [BONES](https://zh.wikipedia.org/wiki/BONES_\(動画制作公司\) "wikilink")
   - 制作 - GOSICK制作委員會
 
 ### 主題曲
@@ -808,8 +799,7 @@ ROYAL」（作者於GOSICKs 1的後記中提及）。
         作詞：渡部紫緒；作曲、編曲：坂部剛；歌：[小峰理紗](../Page/小峰理紗.md "wikilink")（コミネリサ）
 2.  「**unity**」（第13話 - 第24話）
       -
-        作詞：渡部紫緒；作曲：Asu（The New
-        Classics）；編曲：長谷川智樹；歌：[小峰理紗](../Page/小峰理紗.md "wikilink")（コミネリサ）
+        作詞：渡部紫緒；作曲：Asu（The New Classics）；編曲：長谷川智樹；歌：[小峰理紗](../Page/小峰理紗.md "wikilink")（コミネリサ）
 
 <!-- end list -->
 
@@ -1244,8 +1234,7 @@ GOSICK 退屈姫の迷宮
 
 ## 與網絡遊戲的合作
 
-在『Master of Epic -The ResonanceAge
-Universe-』及『』及『[テイルズウィーバー](https://zh.wikipedia.org/wiki/cmn:天翼之鍊 "wikilink")』進行了合作活動，實施了能獲得原創物件的特別任務，進行了服飾物件的販賣。
+在『Master of Epic -The ResonanceAge Universe-』及『』及『[テイルズウィーバー](https://zh.wikipedia.org/wiki/cmn:天翼之鍊 "wikilink")』進行了合作活動，實施了能獲得原創物件的特別任務，進行了服飾物件的販賣。
 
 ## 注釋
 
@@ -1261,28 +1250,10 @@ Universe-』及『』及『[テイルズウィーバー](https://zh.wikipedia.or
 
   - [《哥德-{}-偵探》TVB官方網站](http://programme.tvb.com/animation/gosick/)
 
-[Category:富士見Mystery文庫](https://zh.wikipedia.org/wiki/Category:富士見Mystery文庫 "wikilink")
-[Category:角川Beans文庫](https://zh.wikipedia.org/wiki/Category:角川Beans文庫 "wikilink")
-[Category:角川書店](https://zh.wikipedia.org/wiki/Category:角川書店 "wikilink")
-[Category:日本推理小說](https://zh.wikipedia.org/wiki/Category:日本推理小說 "wikilink")
-[Category:2003年長篇小說](https://zh.wikipedia.org/wiki/Category:2003年長篇小說 "wikilink")
-[Category:二戰小說](https://zh.wikipedia.org/wiki/Category:二戰小說 "wikilink")
-[Category:偵探主角題材小說](https://zh.wikipedia.org/wiki/Category:偵探主角題材小說 "wikilink")
-[Category:2011年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2011年東京電視網動畫 "wikilink")
-[Category:東京電視台製作動畫](https://zh.wikipedia.org/wiki/Category:東京電視台製作動畫 "wikilink")
-[Category:東京電視台深夜動畫](https://zh.wikipedia.org/wiki/Category:東京電視台深夜動畫 "wikilink")
-[Category:月刊Dragon_Age](https://zh.wikipedia.org/wiki/Category:月刊Dragon_Age "wikilink")
-[Category:少年漫畫](https://zh.wikipedia.org/wiki/Category:少年漫畫 "wikilink")
-[Category:偵探主角題材漫畫](https://zh.wikipedia.org/wiki/Category:偵探主角題材漫畫 "wikilink")
-[Category:廣播劇CD](https://zh.wikipedia.org/wiki/Category:廣播劇CD "wikilink")
-[Category:輕小說改編動畫](https://zh.wikipedia.org/wiki/Category:輕小說改編動畫 "wikilink")
-[Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
-[Category:偵探主角題材動畫](https://zh.wikipedia.org/wiki/Category:偵探主角題材動畫 "wikilink")
-[Category:歐洲背景作品](https://zh.wikipedia.org/wiki/Category:歐洲背景作品 "wikilink")
+[Category:富士見Mystery文庫](https://zh.wikipedia.org/wiki/Category:富士見Mystery文庫 "wikilink") [Category:角川Beans文庫](https://zh.wikipedia.org/wiki/Category:角川Beans文庫 "wikilink") [Category:角川書店](https://zh.wikipedia.org/wiki/Category:角川書店 "wikilink") [Category:日本推理小說](https://zh.wikipedia.org/wiki/Category:日本推理小說 "wikilink") [Category:2003年長篇小說](https://zh.wikipedia.org/wiki/Category:2003年長篇小說 "wikilink") [Category:二戰小說](https://zh.wikipedia.org/wiki/Category:二戰小說 "wikilink") [Category:偵探主角題材小說](https://zh.wikipedia.org/wiki/Category:偵探主角題材小說 "wikilink") [Category:2011年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2011年東京電視網動畫 "wikilink") [Category:東京電視台製作動畫](https://zh.wikipedia.org/wiki/Category:東京電視台製作動畫 "wikilink") [Category:東京電視台深夜動畫](https://zh.wikipedia.org/wiki/Category:東京電視台深夜動畫 "wikilink") [Category:月刊Dragon_Age](https://zh.wikipedia.org/wiki/Category:月刊Dragon_Age "wikilink") [Category:少年漫畫](https://zh.wikipedia.org/wiki/Category:少年漫畫 "wikilink") [Category:偵探主角題材漫畫](https://zh.wikipedia.org/wiki/Category:偵探主角題材漫畫 "wikilink") [Category:廣播劇CD](https://zh.wikipedia.org/wiki/Category:廣播劇CD "wikilink") [Category:輕小說改編動畫](https://zh.wikipedia.org/wiki/Category:輕小說改編動畫 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink") [Category:偵探主角題材動畫](https://zh.wikipedia.org/wiki/Category:偵探主角題材動畫 "wikilink") [Category:歐洲背景作品](https://zh.wikipedia.org/wiki/Category:歐洲背景作品 "wikilink")
 
 1.
 2.  角川ビーンズ文庫版2巻初版本付録の学生証より。
 3.
 4.
-5.  1卷〜3卷由「[Kadokawa
-    Comics](https://zh.wikipedia.org/wiki/Kadokawa_Comics "wikilink")」出版。
+5.  1卷〜3卷由「[Kadokawa Comics](https://zh.wikipedia.org/wiki/Kadokawa_Comics "wikilink")」出版。

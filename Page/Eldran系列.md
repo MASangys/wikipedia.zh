@@ -1,4 +1,4 @@
-**藍光人系列**（），是日本[日昇動畫公司於](../Page/日昇動畫.md "wikilink")1991年起製作的一系列機械人故事的總稱。藍光人系列作品的設定都在同一個世界觀內，共同的元素有守衛地球的藍光人（，Eldran）將巨大機器人交給一群小學生，讓他們駕駛為保衛地球戰鬥跟惡勢力作戰。和藍光人系列齊名的還有同樣是日昇動畫所製作的[勇者系列](../Page/勇者系列.md "wikilink")。
+**藍光人系列**（），是日本[日昇動畫](../Page/日昇動畫.md "wikilink")公司於1991年起製作的一系列機械人故事的總稱。藍光人系列作品的設定都在同一個世界觀內，共同的元素有守衛地球的藍光人（，Eldran）將巨大機器人交給一群小學生，讓他們駕駛為保衛地球戰鬥跟惡勢力作戰。和藍光人系列齊名的還有同樣是日昇動畫所製作的[勇者系列](../Page/勇者系列.md "wikilink")。
 
 ## 主要作品
 
@@ -18,13 +18,11 @@
 
   - [完全勝利](https://zh.wikipedia.org/wiki/完全勝利 "wikilink")（）
 
-只有在雜誌《電撃HOBBYMAGAZINE》和網路連載的作品，沒有製作成電視動畫。2001年舉辦的藍光人10周年紀念活動中播放宣傳動畫，2015年發售的Blu-ray
-BOX收錄重製版宣傳動畫。\[4\]
+只有在雜誌《電撃HOBBYMAGAZINE》和網路連載的作品，沒有製作成電視動畫。2001年舉辦的藍光人10周年紀念活動中播放宣傳動畫，2015年發售的Blu-ray BOX收錄重製版宣傳動畫。\[4\]
 
 ## 相關作品
 
-TOMY在[Game
-Boy平台分別於](../Page/Game_Boy.md "wikilink")1991年12月28日發售《絕對無敵》，1992年11月27日發售《元氣爆發》。另外在《[新世紀勇者大戰](https://zh.wikipedia.org/wiki/新世紀勇者大戰 "wikilink")》和《[超級機械人大戰NEO](https://zh.wikipedia.org/wiki/超級機械人大戰NEO "wikilink")》等遊戲作品中參戰登場。
+TOMY在[Game Boy平台分別於](../Page/Game_Boy.md "wikilink")1991年12月28日發售《絕對無敵》，1992年11月27日發售《元氣爆發》。另外在《[新世紀勇者大戰](https://zh.wikipedia.org/wiki/新世紀勇者大戰 "wikilink")》和《[超級機械人大戰NEO](https://zh.wikipedia.org/wiki/超級機械人大戰NEO "wikilink")》等遊戲作品中參戰登場。
 
 ## 參考來源
 
@@ -34,11 +32,7 @@ Boy平台分別於](../Page/Game_Boy.md "wikilink")1991年12月28日發售《絕
 
 [Category:Eldran系列](https://zh.wikipedia.org/wiki/Category:Eldran系列 "wikilink")
 
-1.  [絶対無敵ライジンオー
-    (1991)](http://www.allcinema.net/prog/show_c.php?num_c=89105)allcinema
-2.  [元気爆発ガンバルガー
-    (1992)](http://www.allcinema.net/prog/show_c.php?num_c=89062)allcinema
-3.  [熱血最強ゴウザウラー
-    (1993)](http://www.allcinema.net/prog/show_c.php?num_c=89035)allcinema
-4.  [完全勝利ダイテイオー
-    (2015)](http://www.allcinema.net/prog/show_c.php?num_c=352123)allcinema
+1.  [絶対無敵ライジンオー (1991)](http://www.allcinema.net/prog/show_c.php?num_c=89105)allcinema
+2.  [元気爆発ガンバルガー (1992)](http://www.allcinema.net/prog/show_c.php?num_c=89062)allcinema
+3.  [熱血最強ゴウザウラー (1993)](http://www.allcinema.net/prog/show_c.php?num_c=89035)allcinema
+4.  [完全勝利ダイテイオー (2015)](http://www.allcinema.net/prog/show_c.php?num_c=352123)allcinema

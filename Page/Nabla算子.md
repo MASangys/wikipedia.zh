@@ -1,4 +1,4 @@
-**Del算子**或稱**Nabla算子**，在中文中也叫**向量微分算子**、**劈形算子**、**倒三角算子**，[符号为](../Page/符号.md "wikilink")\(\nabla\)，是一个[向量](../Page/向量算子.md "wikilink")[微分算子](../Page/微分算子.md "wikilink")，但本身並非一個向量\[1\]。
+**Del算子**或稱**Nabla算子**，在中文中也叫**向量微分算子**、**劈形算子**、**倒三角算子**，[符号](../Page/符号.md "wikilink")为\(\nabla\)，是一个[向量](../Page/向量算子.md "wikilink")[微分算子](../Page/微分算子.md "wikilink")，但本身並非一個向量\[1\]。
 
 其形式化定义为：
 
@@ -24,13 +24,13 @@
 
 ## 名稱
 
-Nabla算子的名字来自[希腊语中一种被称为纳布拉琴的](https://zh.wikipedia.org/wiki/希腊语 "wikilink")[竖琴](https://zh.wikipedia.org/wiki/竖琴 "wikilink")。相关的词汇也存在于[亚拉姆语和](https://zh.wikipedia.org/wiki/亚拉姆语 "wikilink")[希伯来语中](../Page/希伯来语.md "wikilink")。
+Nabla算子的名字来自[希腊语中一种被称为纳布拉琴的](https://zh.wikipedia.org/wiki/希腊语 "wikilink")[竖琴](https://zh.wikipedia.org/wiki/竖琴 "wikilink")。相关的词汇也存在于[亚拉姆语和](https://zh.wikipedia.org/wiki/亚拉姆语 "wikilink")[希伯来语](../Page/希伯来语.md "wikilink")中。
 
 该符号的另一常见的名称是*atled*，因为它是希腊字母Δ倒过来的形状。除了*atled*外，它还有一个名称是*del*。
 
-Del算子在标准HTML中写为\&nabla，而在[LaTeX中为](https://zh.wikipedia.org/wiki/LaTeX "wikilink")\\nabla。在[Unicode中](https://zh.wikipedia.org/wiki/Unicode "wikilink")，它是[十进制](../Page/十进制.md "wikilink")[数](../Page/数.md "wikilink")8711，也即[十六进制数](../Page/十六进制.md "wikilink")0x2207。
+Del算子在标准HTML中写为\&nabla，而在[LaTeX中为](https://zh.wikipedia.org/wiki/LaTeX "wikilink")\\nabla。在[Unicode中](https://zh.wikipedia.org/wiki/Unicode "wikilink")，它是[十进制](../Page/十进制.md "wikilink")[数](../Page/数.md "wikilink")8711，也即[十六进制](../Page/十六进制.md "wikilink")数0x2207。
 
-Del算子在[数学中用于指代](../Page/数学.md "wikilink")[梯度算符](../Page/梯度.md "wikilink")，並可組成[散度](../Page/散度.md "wikilink")、[旋度和](../Page/旋度.md "wikilink")[拉普拉斯算子](../Page/拉普拉斯算子.md "wikilink")。它也用于指代[微分几何中的](../Page/微分几何.md "wikilink")[联络](../Page/联络.md "wikilink")（可以视为更广意义上的梯度算子）。它由[哈密尔顿引入](https://zh.wikipedia.org/wiki/威廉·哈密顿 "wikilink")。
+Del算子在[数学](../Page/数学.md "wikilink")中用于指代[梯度](../Page/梯度.md "wikilink")算符，並可組成[散度](../Page/散度.md "wikilink")、[旋度](../Page/旋度.md "wikilink")和[拉普拉斯算子](../Page/拉普拉斯算子.md "wikilink")。它也用于指代[微分几何](../Page/微分几何.md "wikilink")中的[联络](../Page/联络.md "wikilink")（可以视为更广意义上的梯度算子）。它由[哈密尔顿引入](https://zh.wikipedia.org/wiki/威廉·哈密顿 "wikilink")。
 
 ## 参见
 
@@ -38,9 +38,6 @@ Del算子在[数学中用于指代](../Page/数学.md "wikilink")[梯度算符](
 
 ## 參考
 
-[Category:数学符号](https://zh.wikipedia.org/wiki/Category:数学符号 "wikilink")
-[Category:數學表示法](https://zh.wikipedia.org/wiki/Category:數學表示法 "wikilink")
-[Category:微分算子](https://zh.wikipedia.org/wiki/Category:微分算子 "wikilink")
+[Category:数学符号](https://zh.wikipedia.org/wiki/Category:数学符号 "wikilink") [Category:數學表示法](https://zh.wikipedia.org/wiki/Category:數學表示法 "wikilink") [Category:微分算子](https://zh.wikipedia.org/wiki/Category:微分算子 "wikilink")
 
-1.  David J. Griffiths,*Introduction to electrodynamics*,Fourth
-    edition,Pearson Education, Inc.,p.16.
+1.  David J. Griffiths,*Introduction to electrodynamics*,Fourth edition,Pearson Education, Inc.,p.16.

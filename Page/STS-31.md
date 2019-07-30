@@ -8,7 +8,4 @@
   - **[布鲁斯·麦克坎德雷斯](https://zh.wikipedia.org/wiki/布鲁斯·麦克坎德雷斯 "wikilink")**（，曾执行以及任务），任务专家
   - **[凯瑟琳·萨利文](https://zh.wikipedia.org/wiki/凯瑟琳·萨利文 "wikilink")**（，曾执行、以及任务），任务专家
 
-[Category:1990年美国](https://zh.wikipedia.org/wiki/Category:1990年美国 "wikilink")
-[Category:1990年科學](https://zh.wikipedia.org/wiki/Category:1990年科學 "wikilink")
-[Category:发现号航天飞机任务](https://zh.wikipedia.org/wiki/Category:发现号航天飞机任务 "wikilink")
-[Category:1990年4月](https://zh.wikipedia.org/wiki/Category:1990年4月 "wikilink")
+[Category:1990年美国](https://zh.wikipedia.org/wiki/Category:1990年美国 "wikilink") [Category:1990年科學](https://zh.wikipedia.org/wiki/Category:1990年科學 "wikilink") [Category:发现号航天飞机任务](https://zh.wikipedia.org/wiki/Category:发现号航天飞机任务 "wikilink") [Category:1990年4月](https://zh.wikipedia.org/wiki/Category:1990年4月 "wikilink")

@@ -1,14 +1,10 @@
-**OpenSSH**（****）是使用[SSH透過](https://zh.wikipedia.org/wiki/SSH "wikilink")[計算機網路加密通訊的實現](https://zh.wikipedia.org/wiki/計算機網路 "wikilink")。它是取代由SSH
-Communications
-Security所提供的商用版本的[開放原始碼方案](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")。目前OpenSSH是OpenBSD的子計畫。
+**OpenSSH**（****）是使用[SSH透過](https://zh.wikipedia.org/wiki/SSH "wikilink")[計算機網路加密通訊的實現](https://zh.wikipedia.org/wiki/計算機網路 "wikilink")。它是取代由SSH Communications Security所提供的商用版本的[開放原始碼方案](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")。目前OpenSSH是OpenBSD的子計畫。
 
-OpenSSH常常被誤認以為與[OpenSSL有關聯](../Page/OpenSSL.md "wikilink")，但實際上這兩個計畫有不同的目的，不同的發展團隊，名稱相近只是因為兩者有同樣的軟體發展目標──提供開放原始碼的[加密通訊軟體](https://zh.wikipedia.org/wiki/加密通訊 "wikilink")。
+OpenSSH常常被誤認以為與[OpenSSL](../Page/OpenSSL.md "wikilink")有關聯，但實際上這兩個計畫有不同的目的，不同的發展團隊，名稱相近只是因為兩者有同樣的軟體發展目標──提供開放原始碼的[加密通訊軟體](https://zh.wikipedia.org/wiki/加密通訊 "wikilink")。
 
 ## 歷史
 
-OpenSSH是在1999年10月第一次在[OpenBSD](../Page/OpenBSD.md "wikilink")
-2.6裡出現，當初的計畫是取代由SSH Communications
-Security所提供的[SSH軟體](https://zh.wikipedia.org/wiki/SSH "wikilink")。
+OpenSSH是在1999年10月第一次在[OpenBSD](../Page/OpenBSD.md "wikilink") 2.6裡出現，當初的計畫是取代由SSH Communications Security所提供的[SSH軟體](https://zh.wikipedia.org/wiki/SSH "wikilink")。
 
 发布历史：
 
@@ -39,8 +35,7 @@ Security所提供的[SSH軟體](https://zh.wikipedia.org/wiki/SSH "wikilink")。
   - OpenSSH 5.1: 2008年7月21日
   - OpenSSH 5.0: 2008年4月3日
   - OpenSSH 4.9: 2008年3月30日
-      - 为[sshd加入](https://zh.wikipedia.org/wiki/sshd "wikilink")[chroot](https://zh.wikipedia.org/wiki/chroot "wikilink")
-        支持
+      - 为[sshd加入](https://zh.wikipedia.org/wiki/sshd "wikilink")[chroot](https://zh.wikipedia.org/wiki/chroot "wikilink") 支持
   - OpenSSH 4.7: 2007年9月4日
   - OpenSSH 4.6: 2007年3月9日
   - OpenSSH 4.5: 2006年11月7日
@@ -69,7 +64,7 @@ Security所提供的[SSH軟體](https://zh.wikipedia.org/wiki/SSH "wikilink")。
 <!-- end list -->
 
   -
-    [rlogin與](https://zh.wikipedia.org/wiki/rlogin "wikilink")[Telnet的替代方案](../Page/Telnet.md "wikilink")。
+    [rlogin與](https://zh.wikipedia.org/wiki/rlogin "wikilink")[Telnet](../Page/Telnet.md "wikilink")的替代方案。
 
 <!-- end list -->
 
@@ -127,8 +122,4 @@ Security所提供的[SSH軟體](https://zh.wikipedia.org/wiki/SSH "wikilink")。
   - [OpenSSH](http://www.openssh.com/)
   - [Portable OpenSSH](http://www.openssh.com/portable.html)
 
-[Category:加密软件](https://zh.wikipedia.org/wiki/Category:加密软件 "wikilink")
-[Category:自由跨平台軟體](https://zh.wikipedia.org/wiki/Category:自由跨平台軟體 "wikilink")
-[Category:自由網路軟體](https://zh.wikipedia.org/wiki/Category:自由網路軟體 "wikilink")
-[Category:OpenBSD](https://zh.wikipedia.org/wiki/Category:OpenBSD "wikilink")
-[Category:Secure_Shell](https://zh.wikipedia.org/wiki/Category:Secure_Shell "wikilink")
+[Category:加密软件](https://zh.wikipedia.org/wiki/Category:加密软件 "wikilink") [Category:自由跨平台軟體](https://zh.wikipedia.org/wiki/Category:自由跨平台軟體 "wikilink") [Category:自由網路軟體](https://zh.wikipedia.org/wiki/Category:自由網路軟體 "wikilink") [Category:OpenBSD](https://zh.wikipedia.org/wiki/Category:OpenBSD "wikilink") [Category:Secure_Shell](https://zh.wikipedia.org/wiki/Category:Secure_Shell "wikilink")

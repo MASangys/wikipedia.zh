@@ -18,18 +18,11 @@
 
 自2006-2007赛季之起，季后赛种子排名规则为：排名1由最好的榜首球隊获得，排名2-4由2個賽區的榜首球隊和最好的非榜首球隊以成績排列，而5-8則由其他非榜首球隊按排名排列。
 
-2015年6月26日新制上路後，東西區八強將完全按照戰績排名，分組龍頭不再享有優勢。以2014-2015賽季西北組龍頭[波特蘭拓荒者](https://zh.wikipedia.org/wiki/波特蘭拓荒者 "wikilink")([Portland
-Trail
-Blazers](https://zh.wikipedia.org/wiki/Portland_Trail_Blazers "wikilink"))為例，在一開始的制度下，他們會是西區第三，現行制度則是第四，而新制則會是第六。這制度對於像西南組這種地獄分組來說是比較公平一些，若以2014-2015賽季成績套用新制，西區前五名會有[休士頓火箭](https://zh.wikipedia.org/wiki/休士頓火箭 "wikilink")([Houston
-Rockets](https://zh.wikipedia.org/wiki/Houston_Rockets "wikilink")，第二)、[曼非斯灰熊](https://zh.wikipedia.org/wiki/曼非斯灰熊 "wikilink")([Memphis
-Grizzlies](https://zh.wikipedia.org/wiki/Memphis_Grizzlies "wikilink")，第四)、[聖安東尼奧馬刺](https://zh.wikipedia.org/wiki/聖安東尼奧馬刺 "wikilink")([San
-Antonio
-Spurs](https://zh.wikipedia.org/wiki/San_Antonio_Spurs "wikilink")，第五)等三隊是西南組球隊。
+2015年6月26日新制上路後，東西區八強將完全按照戰績排名，分組龍頭不再享有優勢。以2014-2015賽季西北組龍頭[波特蘭拓荒者](https://zh.wikipedia.org/wiki/波特蘭拓荒者 "wikilink")([Portland Trail Blazers](https://zh.wikipedia.org/wiki/Portland_Trail_Blazers "wikilink"))為例，在一開始的制度下，他們會是西區第三，現行制度則是第四，而新制則會是第六。這制度對於像西南組這種地獄分組來說是比較公平一些，若以2014-2015賽季成績套用新制，西區前五名會有[休士頓火箭](https://zh.wikipedia.org/wiki/休士頓火箭 "wikilink")([Houston Rockets](https://zh.wikipedia.org/wiki/Houston_Rockets "wikilink")，第二)、[曼非斯灰熊](https://zh.wikipedia.org/wiki/曼非斯灰熊 "wikilink")([Memphis Grizzlies](https://zh.wikipedia.org/wiki/Memphis_Grizzlies "wikilink")，第四)、[聖安東尼奧馬刺](https://zh.wikipedia.org/wiki/聖安東尼奧馬刺 "wikilink")([San Antonio Spurs](https://zh.wikipedia.org/wiki/San_Antonio_Spurs "wikilink")，第五)等三隊是西南組球隊。
 
 ## 比賽形式
 
-季後賽實行[七場四勝制](https://zh.wikipedia.org/wiki/七場四勝制 "wikilink")，每支球隊將與對手最多進行7場比賽，最先贏得4場比賽的球隊將進入下一輪，而敗者被淘汰。由於比賽共有4輪，因此此種比賽形式稱為7-7-7-7（2002年以前为5-7-7-7，2003年起为7-7-7-7）。
-一旬开始，东西岸各有八支球队获得季后赛资格，進行賽季最後的爭霸。東西兩个联盟中各个赛区的冠军加上成绩最好的赛区第二名组成前四号种子，这四支球队再按照常规赛的成绩依次排为一到四号种子。剩余四支球队则按成绩依次排为五到八号种子。
+季後賽實行[七場四勝制](https://zh.wikipedia.org/wiki/七場四勝制 "wikilink")，每支球隊將與對手最多進行7場比賽，最先贏得4場比賽的球隊將進入下一輪，而敗者被淘汰。由於比賽共有4輪，因此此種比賽形式稱為7-7-7-7（2002年以前为5-7-7-7，2003年起为7-7-7-7）。 一旬开始，东西岸各有八支球队获得季后赛资格，進行賽季最後的爭霸。東西兩个联盟中各个赛区的冠军加上成绩最好的赛区第二名组成前四号种子，这四支球队再按照常规赛的成绩依次排为一到四号种子。剩余四支球队则按成绩依次排为五到八号种子。
 
 採用2-2-1-1-1的主场分配方法（1985至2013年間，总决赛为2-3-2，2014年起恢復為2-2-1-1-1），拥有4个主场的一方将会在第1、2、5（如果需要）、7（如果需要）场比赛坐镇主场，第3、4、6（如果需要）场则是征战客场。对阵双方的主场优势并非由种子排位的高低来决定，而是由双方在常规赛的成绩（胜率）来决定。因此，如果一个赛区冠军作为4号甚至3号种子，但是常规赛胜率在联盟中却排在5名之后，那么在首轮对阵5号种子或者6号种子的时候将有可能没有主场优势（比较双方成绩）。种子排位只决定球队在季后赛的走势
 
@@ -41,11 +34,9 @@ Spurs](https://zh.wikipedia.org/wiki/San_Antonio_Spurs "wikilink")，第五)等�
 
 ## NBA總決賽
 
-季後賽的最後一輪，也就是所謂的
-「NBA總決賽」，是在兩聯盟的勝出者之間進行，最多共舉行7場比賽。總決賽在6月舉行。總決賽的冠軍將獲得拉里·奧布萊恩獎盃，冠軍的每位成員都將獲得一個NBA總冠軍戒指，其中最優秀的球員會獲得NBA總決賽最有價值球員的榮譽。而勝出球隊往往會於自己城市舉行勝利巡遊，成為城中大事。
+季後賽的最後一輪，也就是所謂的 「NBA總決賽」，是在兩聯盟的勝出者之間進行，最多共舉行7場比賽。總決賽在6月舉行。總決賽的冠軍將獲得拉里·奧布萊恩獎盃，冠軍的每位成員都將獲得一個NBA總冠軍戒指，其中最優秀的球員會獲得NBA總決賽最有價值球員的榮譽。而勝出球隊往往會於自己城市舉行勝利巡遊，成為城中大事。
 
-经过3轮的淘汰赛，获得东西岸冠军的2队将进入最后的总决赛。[总决赛](https://zh.wikipedia.org/wiki/NBA总决赛 "wikilink")（NBA
-Finals）一般在每年的6月进行，采用7场4胜2-2-1-1-1的赛制，双方成绩较佳者将获得第1、2、5（如果需要）、7（如果需要）4场的主场权利，成绩较差者将获得第3、4、6（如果需要）3场主场的权利。系列赛由一方先赢得4场比赛就结束，获胜的球队将获得[NBA总冠军](https://zh.wikipedia.org/wiki/NBA总冠军 "wikilink")。冠军球队将捧得[拉里·奧布賴恩冠軍獎盃](../Page/拉里·奧布賴恩冠軍獎盃.md "wikilink")，表现最出色的球员（一般是冠军队球员）将获颁[总决赛MVP](../Page/NBA总决赛最有价值球员.md "wikilink")。每位冠军成员在赛后还会获得一枚[总冠军戒指](https://zh.wikipedia.org/wiki/NBA总冠军戒指 "wikilink")，上面刻有球队标志以及夺冠年份。
+经过3轮的淘汰赛，获得东西岸冠军的2队将进入最后的总决赛。[总决赛](https://zh.wikipedia.org/wiki/NBA总决赛 "wikilink")（NBA Finals）一般在每年的6月进行，采用7场4胜2-2-1-1-1的赛制，双方成绩较佳者将获得第1、2、5（如果需要）、7（如果需要）4场的主场权利，成绩较差者将获得第3、4、6（如果需要）3场主场的权利。系列赛由一方先赢得4场比赛就结束，获胜的球队将获得[NBA总冠军](https://zh.wikipedia.org/wiki/NBA总冠军 "wikilink")。冠军球队将捧得[拉里·奧布賴恩冠軍獎盃](../Page/拉里·奧布賴恩冠軍獎盃.md "wikilink")，表现最出色的球员（一般是冠军队球员）将获颁[总决赛MVP](../Page/NBA总决赛最有价值球员.md "wikilink")。每位冠军成员在赛后还会获得一枚[总冠军戒指](https://zh.wikipedia.org/wiki/NBA总冠军戒指 "wikilink")，上面刻有球队标志以及夺冠年份。
 
 常规赛成绩较好的球队同样享有主场优势。1985至2013年間，总决赛的主客场交替曾改为2-3-2；而2014年起，NBA联盟恢復為2-2-1-1-1。
 
@@ -53,5 +44,4 @@ Finals）一般在每年的6月进行，采用7场4胜2-2-1-1-1的赛制，双�
 
   - [NBA 官方網站](http://www.nba.com)
 
-[Category:NBA](https://zh.wikipedia.org/wiki/Category:NBA "wikilink")
-[Category:NBA季后赛](https://zh.wikipedia.org/wiki/Category:NBA季后赛 "wikilink")
+[Category:NBA](https://zh.wikipedia.org/wiki/Category:NBA "wikilink") [Category:NBA季后赛](https://zh.wikipedia.org/wiki/Category:NBA季后赛 "wikilink")

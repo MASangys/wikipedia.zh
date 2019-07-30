@@ -1,5 +1,4 @@
-**F4F戰鬥機**是[美國海軍與](../Page/美國海軍.md "wikilink")[海軍陸戰隊在](../Page/海軍陸戰隊.md "wikilink")[二次世界大戰爆發之際最主要的艦載](https://zh.wikipedia.org/wiki/二次世界大戰 "wikilink")[戰鬥機](https://zh.wikipedia.org/wiki/戰鬥機 "wikilink")，他的暱稱**野貓**（Wild
-Cat）开启了[格魯曼公司以](https://zh.wikipedia.org/wiki/格魯曼公司 "wikilink")[貓作為戰鬥機暱稱的传统](https://zh.wikipedia.org/wiki/貓 "wikilink")。该型战斗机也在[英国皇家海军服役](https://zh.wikipedia.org/wiki/英国皇家海军 "wikilink")，被英国飞行员称为**岩燕**（Martlet）。由于大部分的F2A型因为战斗力低落而被F4F替换，该型战斗机是美国海军和海军陆战队在1941-1942年唯一可用的战斗机。日本的零式战斗机在速度，机动性和航程都强于F4F，然而依靠坚固的机身和正确的战术，F4F的击落比依旧可观。F4F在战斗中显露的问题在F6F型解决，后期F4F在大型航空母艦上被更先进的F6F替换，大多改为部署在[護航航空母艦上作為輔助用途](https://zh.wikipedia.org/wiki/護航航空母艦 "wikilink")。
+**F4F戰鬥機**是[美國海軍](../Page/美國海軍.md "wikilink")與[海軍陸戰隊](../Page/海軍陸戰隊.md "wikilink")在[二次世界大戰爆發之際最主要的艦載](https://zh.wikipedia.org/wiki/二次世界大戰 "wikilink")[戰鬥機](https://zh.wikipedia.org/wiki/戰鬥機 "wikilink")，他的暱稱**野貓**（Wild Cat）开启了[格魯曼公司以](https://zh.wikipedia.org/wiki/格魯曼公司 "wikilink")[貓作為戰鬥機暱稱的传统](https://zh.wikipedia.org/wiki/貓 "wikilink")。该型战斗机也在[英国皇家海军服役](https://zh.wikipedia.org/wiki/英国皇家海军 "wikilink")，被英国飞行员称为**岩燕**（Martlet）。由于大部分的F2A型因为战斗力低落而被F4F替换，该型战斗机是美国海军和海军陆战队在1941-1942年唯一可用的战斗机。日本的零式战斗机在速度，机动性和航程都强于F4F，然而依靠坚固的机身和正确的战术，F4F的击落比依旧可观。F4F在战斗中显露的问题在F6F型解决，后期F4F在大型航空母艦上被更先进的F6F替换，大多改为部署在[護航航空母艦上作為輔助用途](https://zh.wikipedia.org/wiki/護航航空母艦 "wikilink")。
 
 ## 歷史
 
@@ -7,7 +6,7 @@ Cat）开启了[格魯曼公司以](https://zh.wikipedia.org/wiki/格魯曼公�
 
 格魯門公司迅速展開設計修改，維持XF4F-1大致機身結構，將雙翼改為中單翼，發動機使用[普惠R](https://zh.wikipedia.org/wiki/普惠 "wikilink")-1830-66雙黃蜂[氣冷式發動機](https://zh.wikipedia.org/wiki/氣冷式引擎 "wikilink")。雖然外型上有很大的差異，但這架新飛機的軍用編號依旧沿用前一架，為X4F-2。1937年9月進行第一次試飛，雖然最大平飛速度有所提高，但仍然未能海軍的要求。當年12月XF4F-2移交美國海軍進行評估，在測試的過程當中不斷發生問題，直到1938年4月於模擬[航空母艦降落時發動機停机而墜毀](https://zh.wikipedia.org/wiki/航空母艦 "wikilink")。由於這一次的意外，海軍決定採用[F2A戰鬥機](../Page/F2A戰鬥機.md "wikilink")。
 
-但海军没有失去对XF4F-2的兴趣並且授權格魯門繼續研發。XF4F-2的修改設計將發動機改為出力更大的R-1830-76，配合兩級兩速機械[增壓器](https://zh.wikipedia.org/wiki/增壓器 "wikilink")，翼端改為方型并加長翼展，加长的机身强度也增加了，[螺旋槳自先前的兩葉換為三葉設計](../Page/螺旋槳.md "wikilink")。終於讓XF4F-3達到533.6公里／時的最大飛行速度，通过480公里／時的最低要求。在發動機整流罩兩側各有一挺0.30[英吋機槍](https://zh.wikipedia.org/wiki/英吋 "wikilink")，機翼兩邊各一挺0.50英吋機槍作为武装。
+但海军没有失去对XF4F-2的兴趣並且授權格魯門繼續研發。XF4F-2的修改設計將發動機改為出力更大的R-1830-76，配合兩級兩速機械[增壓器](https://zh.wikipedia.org/wiki/增壓器 "wikilink")，翼端改為方型并加長翼展，加长的机身强度也增加了，[螺旋槳](../Page/螺旋槳.md "wikilink")自先前的兩葉換為三葉設計。終於讓XF4F-3達到533.6公里／時的最大飛行速度，通过480公里／時的最低要求。在發動機整流罩兩側各有一挺0.30[英吋機槍](https://zh.wikipedia.org/wiki/英吋 "wikilink")，機翼兩邊各一挺0.50英吋機槍作为武装。
 
 美國海軍对XF4F-3的性能表示满意并在1939年8月提出第一批54架訂單，量产版將發動機整流罩的機槍取消，機翼兩側各增加兩挺0.50機槍，F4F-3没有裝甲與自封油箱。第一批量產型於1940年12月遞交海軍VF-4中隊，而**野貓**的暱稱則是在1941年10月正式被官方認可使用。
 
@@ -15,8 +14,7 @@ Cat）开启了[格魯曼公司以](https://zh.wikipedia.org/wiki/格魯曼公�
 
 ### 機身結構
 
-F4F為全金屬半硬殼，應力蒙皮以铆釘接合。中單翼內有兩條主樑，方形翼端，翼剖面採用NACA
-23015系列。起落架需轉動座艙中的一個搖臂轉盤29圈以人力的方式收起於機身兩側機翼前緣下方的位置，尾輪為固定式，不可伸縮。飛行員座艙為密閉式，位於機翼的中央，在機翼下方兩側各有一個觀測窗。
+F4F為全金屬半硬殼，應力蒙皮以铆釘接合。中單翼內有兩條主樑，方形翼端，翼剖面採用NACA 23015系列。起落架需轉動座艙中的一個搖臂轉盤29圈以人力的方式收起於機身兩側機翼前緣下方的位置，尾輪為固定式，不可伸縮。飛行員座艙為密閉式，位於機翼的中央，在機翼下方兩側各有一個觀測窗。
 
 ### 動力
 
@@ -30,8 +28,7 @@ F4F-3在機翼上裝有共四挺0.50英吋機槍，F4F-4增加為6挺同樣口�
 
 ## 主要生產次型
 
-[Cobrachen_f4f-1.jpg](https://zh.wikipedia.org/wiki/File:Cobrachen_f4f-1.jpg "fig:Cobrachen_f4f-1.jpg")
-[F4F-4_SOC_VGS-1_CVE-1_Jun1942.jpg](https://zh.wikipedia.org/wiki/File:F4F-4_SOC_VGS-1_CVE-1_Jun1942.jpg "fig:F4F-4_SOC_VGS-1_CVE-1_Jun1942.jpg")
+[Cobrachen_f4f-1.jpg](https://zh.wikipedia.org/wiki/File:Cobrachen_f4f-1.jpg "fig:Cobrachen_f4f-1.jpg") [F4F-4_SOC_VGS-1_CVE-1_Jun1942.jpg](https://zh.wikipedia.org/wiki/File:F4F-4_SOC_VGS-1_CVE-1_Jun1942.jpg "fig:F4F-4_SOC_VGS-1_CVE-1_Jun1942.jpg")
 
 ### F4F-3
 
@@ -63,51 +60,35 @@ FM-1將機翼機槍減回4挺，但增加了2個250磅炸彈硬點與6條空射�
 
 ### 岩燕MK I
 
-[法國在](https://zh.wikipedia.org/wiki/法國 "wikilink")1940年野貓量產前，就決定採購其作為[貝亞恩號航空母艦與](../Page/貝亞恩號航空母艦.md "wikilink")[霞飛級航空母艦的艦載機](../Page/霞飛級航空母艦.md "wikilink")，當時訂購了81架，但因為美國政府禁止輸出一級二速機械增壓器，因此只能換用配備一級一速增壓器的R-1820-G205A發動機，輸出功率同樣為1200匹馬力，但高空性能較美國原版較弱。法國投降後，這批飛機由英國承接訂單，運達英國後由改造符合皇家海軍需求。
+[法國在](https://zh.wikipedia.org/wiki/法國 "wikilink")1940年野貓量產前，就決定採購其作為[貝亞恩號航空母艦](../Page/貝亞恩號航空母艦.md "wikilink")與[霞飛級航空母艦](../Page/霞飛級航空母艦.md "wikilink")的艦載機，當時訂購了81架，但因為美國政府禁止輸出一級二速機械增壓器，因此只能換用配備一級一速增壓器的R-1820-G205A發動機，輸出功率同樣為1200匹馬力，但高空性能較美國原版較弱。法國投降後，這批飛機由英國承接訂單，運達英國後由改造符合皇家海軍需求。
 
-岩燕MK
-I除了引擎外，因為最初為外銷訂單，故配合法國飛行員的訓練而修改了部分設備。除了法製無線電與瞄具，武器更換為，最大的不同是[節流閥](https://zh.wikipedia.org/wiki/節流閥 "wikilink")，法國要求節流閥朝飛行員方向扳是提高輸出，與英美等國不同。
+岩燕MK I除了引擎外，因為最初為外銷訂單，故配合法國飛行員的訓練而修改了部分設備。除了法製無線電與瞄具，武器更換為，最大的不同是[節流閥](https://zh.wikipedia.org/wiki/節流閥 "wikilink")，法國要求節流閥朝飛行員方向扳是提高輸出，與英美等國不同。
 
-英國將法國特規的硬體重新修改回英美慣用硬體，原本英國希望將無線電換為英國產品，但是英軍了解到美製無線電品質更好，故放棄這個構想，僅在這型戰機上配備英製瞄具與英製彈射器支援硬體。機翼機槍也換回了12.7公厘重機槍。岩燕MK
-I在1940年8月服役，因為沒有機翼折疊裝置，故未配備至航空母艦艦載機單位，主要配發至，駐地。這批飛機首次空戰勝利在1940年12月25日，2架岩燕MK
-I共同擊落1架襲擾[斯卡帕灣的](https://zh.wikipedia.org/wiki/斯卡帕灣 "wikilink")[Ju
-88轟炸機](https://zh.wikipedia.org/wiki/Ju_88轟炸機 "wikilink")
+英國將法國特規的硬體重新修改回英美慣用硬體，原本英國希望將無線電換為英國產品，但是英軍了解到美製無線電品質更好，故放棄這個構想，僅在這型戰機上配備英製瞄具與英製彈射器支援硬體。機翼機槍也換回了12.7公厘重機槍。岩燕MK I在1940年8月服役，因為沒有機翼折疊裝置，故未配備至航空母艦艦載機單位，主要配發至，駐地。這批飛機首次空戰勝利在1940年12月25日，2架岩燕MK I共同擊落1架襲擾[斯卡帕灣的](https://zh.wikipedia.org/wiki/斯卡帕灣 "wikilink")[Ju 88轟炸機](https://zh.wikipedia.org/wiki/Ju_88轟炸機 "wikilink")
 
-除了法國的81架，[比利時在](https://zh.wikipedia.org/wiki/比利時 "wikilink")1940年也訂購了類似法國的外銷型，在比利時投降後同樣由英國接單，這批岩燕MK
-I總數為91架，稍後更名為野貓MK I。
+除了法國的81架，[比利時在](https://zh.wikipedia.org/wiki/比利時 "wikilink")1940年也訂購了類似法國的外銷型，在比利時投降後同樣由英國接單，這批岩燕MK I總數為91架，稍後更名為野貓MK I。
 
 ### 岩燕MK II
 
-除了法國訂購野貓，英國後來也跟進採購了100架，稱為岩燕MK
-II（G-36B）。G-36B主要架構仍是F4F-3，英國人選擇了普惠R-1830-S3C4-G發動機，該發動機配備與美軍同等規格之一級二速機械增壓器，原先這個規格導致它在美國政府審核中決定延後交機，但也因此岩燕MK
-II得以整合F4F-4的折疊機翼裝置。
+除了法國訂購野貓，英國後來也跟進採購了100架，稱為岩燕MK II（G-36B）。G-36B主要架構仍是F4F-3，英國人選擇了普惠R-1830-S3C4-G發動機，該發動機配備與美軍同等規格之一級二速機械增壓器，原先這個規格導致它在美國政府審核中決定延後交機，但也因此岩燕MK II得以整合F4F-4的折疊機翼裝置。
 
-岩燕MK
-II有兩種型號，最初交機的10架沒有機翼折疊裝置，後續的訂單因修改合約，延後到1941年8月起才交機，後續批次有機翼折疊裝置，得以佈署在升降電梯較狹窄的[光輝級航空母艦](https://zh.wikipedia.org/wiki/光輝級航空母艦 "wikilink")。除此之外岩燕MK
-II較F4F-3有更大的尾輪、裝甲、自封油箱，同樣的整合英製彈射器支援硬體。據測試數據，岩燕MK
-II標準重量3,333.9公斤（7,350磅），極速時速471.5公里（293英里）／1,645公尺（5,400英尺）、4,200公尺（13,800英尺）飛行表現，爬升速度在飛機重量為最佳為每分鐘591公尺（1940英尺），該數據為飛機重3,533公斤（7,790磅）爬升至2,316公尺（7,600英尺）的情況，若爬升至6,000公尺（20,000英尺）需12.5分鐘，升限則是9,448公尺（31,000英尺）。
+岩燕MK II有兩種型號，最初交機的10架沒有機翼折疊裝置，後續的訂單因修改合約，延後到1941年8月起才交機，後續批次有機翼折疊裝置，得以佈署在升降電梯較狹窄的[光輝級航空母艦](https://zh.wikipedia.org/wiki/光輝級航空母艦 "wikilink")。除此之外岩燕MK II較F4F-3有更大的尾輪、裝甲、自封油箱，同樣的整合英製彈射器支援硬體。據測試數據，岩燕MK II標準重量3,333.9公斤（7,350磅），極速時速471.5公里（293英里）／1,645公尺（5,400英尺）、4,200公尺（13,800英尺）飛行表現，爬升速度在飛機重量為最佳為每分鐘591公尺（1940英尺），該數據為飛機重3,533公斤（7,790磅）爬升至2,316公尺（7,600英尺）的情況，若爬升至6,000公尺（20,000英尺）需12.5分鐘，升限則是9,448公尺（31,000英尺）。
 
-具有摺疊機翼的90架岩燕MK II當中，有36架運至英國本土、54架撥交給遠東部隊。在英國本土的岩燕MK
-II主要由運用，它們以零散數量配給護衛航空母艦，為船團提供制空戰力。第一艘得到這架戰機的航艦為，這艘航艦無機庫，只露天放置6架岩燕MK
-II。
+具有摺疊機翼的90架岩燕MK II當中，有36架運至英國本土、54架撥交給遠東部隊。在英國本土的岩燕MK II主要由運用，它們以零散數量配給護衛航空母艦，為船團提供制空戰力。第一艘得到這架戰機的航艦為，這艘航艦無機庫，只露天放置6架岩燕MK II。
 
-大膽號的任務在1940年9月開始，首航任務是護航船隊至[直布羅陀](https://zh.wikipedia.org/wiki/直布羅陀 "wikilink")，這次任務中，岩燕MK
-II在9月21日擊墜一架Fw-200巡邏機。第二次締造空戰勝利的紀錄是在大膽號於10月底的開向直布羅陀的第三次護航任務，該次任務擊落了4架Fw-200巡邏機。大膽號則在第四次任務中遭到U艇擊沉，但是只要少量戰機便能讓德軍無功而返，讓英國軍方高層對這架戰機的性能與護衛航艦的戰力更有信心。
+大膽號的任務在1940年9月開始，首航任務是護航船隊至[直布羅陀](https://zh.wikipedia.org/wiki/直布羅陀 "wikilink")，這次任務中，岩燕MK II在9月21日擊墜一架Fw-200巡邏機。第二次締造空戰勝利的紀錄是在大膽號於10月底的開向直布羅陀的第三次護航任務，該次任務擊落了4架Fw-200巡邏機。大膽號則在第四次任務中遭到U艇擊沉，但是只要少量戰機便能讓德軍無功而返，讓英國軍方高層對這架戰機的性能與護衛航艦的戰力更有信心。
 
 稍後更名為野貓MK II。
 
 ### 岩燕MK III
 
-因為1940年11月義大利入侵希臘，美國允許希臘採購40架F4F-3A，但是當這批野貓才運到直布羅陀之際，希臘已在1941年4月投降。因此飛機全數撥交給直布羅陀防衛部隊使用，稍後更名為野貓MK
-III。
+因為1940年11月義大利入侵希臘，美國允許希臘採購40架F4F-3A，但是當這批野貓才運到直布羅陀之際，希臘已在1941年4月投降。因此飛機全數撥交給直布羅陀防衛部隊使用，稍後更名為野貓MK III。
 
 ### 岩燕MK IV
 
-援引[租借法案採購的F](../Page/租借法案.md "wikilink")4F-4，總計220架，稍後更名為野貓MK
-IV。這批戰機主要佈署在英軍的正規航艦上。其中有5架在運輸中損失（FN205、FN206、FN207、FN240、FN205）
+援引[租借法案](../Page/租借法案.md "wikilink")採購的F4F-4，總計220架，稍後更名為野貓MK IV。這批戰機主要佈署在英軍的正規航艦上。其中有5架在運輸中損失（FN205、FN206、FN207、FN240、FN205）
 
-岩燕MK IV配備R-1820-40B發動機，具有較緊湊且流線的整流罩。英方的測試報告表示岩燕MK
-IV標準飛行重量3,333.9公斤（7,350磅），高度1,000公尺（3,400英尺）時極速447公里（278英里）；高度4,450公尺（14,600英尺）極速479.8公里（298英里）。爬升速度在飛機重量為3,333.9公斤時最佳為每分鐘481.5公尺（1,580英尺），爬升高度1,889公尺（6,200英尺）；若爬升至6,000公尺（20,000英尺）需14.6分鐘，升限則是9,174公尺（30,0100英尺）。
+岩燕MK IV配備R-1820-40B發動機，具有較緊湊且流線的整流罩。英方的測試報告表示岩燕MK IV標準飛行重量3,333.9公斤（7,350磅），高度1,000公尺（3,400英尺）時極速447公里（278英里）；高度4,450公尺（14,600英尺）極速479.8公里（298英里）。爬升速度在飛機重量為3,333.9公斤時最佳為每分鐘481.5公尺（1,580英尺），爬升高度1,889公尺（6,200英尺）；若爬升至6,000公尺（20,000英尺）需14.6分鐘，升限則是9,174公尺（30,0100英尺）。
 
 ### 岩燕MK V
 
@@ -123,15 +104,13 @@ IV標準飛行重量3,333.9公斤（7,350磅），高度1,000公尺（3,400英�
 
 英國在大戰初期性能較為優異的艦上戰鬥機，英國給予的名稱有**岩燕**（Martlet）與野貓。
 
-當[珍珠港受到攻擊的時候](../Page/珍珠港.md "wikilink")，美國總共有131架野貓分屬於海軍和海軍陸戰隊的11個[中隊下](https://zh.wikipedia.org/wiki/中隊 "wikilink")，其中又只有[企業號航空母艦麾下的VF](../Page/企業號航空母艦_\(CV-6\).md "wikilink")-6中隊全面配屬野貓，攻擊當時企業號正將一部分的F4F-3A送往[威克島](../Page/威克島.md "wikilink")。位於[瓦胡島的](https://zh.wikipedia.org/wiki/瓦胡島 "wikilink")11架野貓在地面被摧毀9架。
+當[珍珠港](../Page/珍珠港.md "wikilink")受到攻擊的時候，美國總共有131架野貓分屬於海軍和海軍陸戰隊的11個[中隊下](https://zh.wikipedia.org/wiki/中隊 "wikilink")，其中又只有[企業號航空母艦麾下的VF](../Page/企業號航空母艦_\(CV-6\).md "wikilink")-6中隊全面配屬野貓，攻擊當時企業號正將一部分的F4F-3A送往[威克島](../Page/威克島.md "wikilink")。位於[瓦胡島的](https://zh.wikipedia.org/wiki/瓦胡島 "wikilink")11架野貓在地面被摧毀9架。
 
-F4F第一次的嶄露頭角是在12月8日[日本攻擊威克島的行動當中](../Page/日本.md "wikilink")，擔任防衛的海軍陸戰隊VMF-211中隊在蒙受重大打擊與面對高性能[零式戰機的威脅下](https://zh.wikipedia.org/wiki/零式戰機 "wikilink")，不僅擊落日本企圖轟炸威克島的[轟炸機](https://zh.wikipedia.org/wiki/轟炸機 "wikilink")，還將**[如月號](https://zh.wikipedia.org/wiki/如月號驅逐艦 "wikilink")**（Kisaragi）[驅逐艦擊沉](https://zh.wikipedia.org/wiki/驅逐艦 "wikilink")，迫使日軍終止攻擊並撤退。
+F4F第一次的嶄露頭角是在12月8日[日本](../Page/日本.md "wikilink")攻擊威克島的行動當中，擔任防衛的海軍陸戰隊VMF-211中隊在蒙受重大打擊與面對高性能[零式戰機的威脅下](https://zh.wikipedia.org/wiki/零式戰機 "wikilink")，不僅擊落日本企圖轟炸威克島的[轟炸機](https://zh.wikipedia.org/wiki/轟炸機 "wikilink")，還將**[如月號](https://zh.wikipedia.org/wiki/如月號驅逐艦 "wikilink")**（Kisaragi）[驅逐艦擊沉](https://zh.wikipedia.org/wiki/驅逐艦 "wikilink")，迫使日軍終止攻擊並撤退。
 
-由於同期服役的另一款[F2A戰鬥機被證明完全無法對抗日軍戰機](../Page/F2A戰鬥機.md "wikilink")，野貓式成為了1942年到1943年初海軍最主要的空戰力量，與同時期的對手[日本海軍](../Page/日本.md "wikilink")[零式艦上戰鬥機相比](../Page/零式艦上戰鬥機.md "wikilink")，F4F在迴轉半徑、低速性能上劣於零戰，難以在[纏鬥中與之抗衡](https://zh.wikipedia.org/wiki/纏鬥 "wikilink")；但F4F也有著結構強韌、火力強大、俯衝性能較佳等優勢。隨著戰鬥經驗的增加，美軍也開發出適於F4F的標準戰術─避免格鬥、盡量進行一擊脫離式的俯衝攻擊、並要求飛行員組成相互支援的雙機編隊（），與零戰形成勢均力敵之勢。野貓遠勝零式的裝甲還帶給美軍另一個潛在優勢─它讓更多的美軍飛行員能夠平安的返回基地與母艦，對於F4F來說挽救不少生命並能夠提高他們的生存率及吸收戰鬥經驗，進而為美國在太平洋上的中後期戰爭中培養出新一代王牌飛行員並且打開了勝利之路，同時拖垮人力資源匱乏的日軍。
+由於同期服役的另一款[F2A戰鬥機](../Page/F2A戰鬥機.md "wikilink")被證明完全無法對抗日軍戰機，野貓式成為了1942年到1943年初海軍最主要的空戰力量，與同時期的對手[日本](../Page/日本.md "wikilink")海軍[零式艦上戰鬥機](../Page/零式艦上戰鬥機.md "wikilink")相比，F4F在迴轉半徑、低速性能上劣於零戰，難以在[纏鬥中與之抗衡](https://zh.wikipedia.org/wiki/纏鬥 "wikilink")；但F4F也有著結構強韌、火力強大、俯衝性能較佳等優勢。隨著戰鬥經驗的增加，美軍也開發出適於F4F的標準戰術─避免格鬥、盡量進行一擊脫離式的俯衝攻擊、並要求飛行員組成相互支援的雙機編隊（），與零戰形成勢均力敵之勢。野貓遠勝零式的裝甲還帶給美軍另一個潛在優勢─它讓更多的美軍飛行員能夠平安的返回基地與母艦，對於F4F來說挽救不少生命並能夠提高他們的生存率及吸收戰鬥經驗，進而為美國在太平洋上的中後期戰爭中培養出新一代王牌飛行員並且打開了勝利之路，同時拖垮人力資源匱乏的日軍。
 
-F4F在大戰初期最有名的空戰紀錄之一發生於1942年2月20日，當時美國海軍派出企業號與約克鎮號航艦攻擊英國位於馬紹爾與吉柏特群島，同時以列克星敦号航空母舰攻擊[拉布爾的日軍基地時](https://zh.wikipedia.org/wiki/拉布爾 "wikilink")，列克星敦号航空母舰麾下VF-3中隊的艾德華
-H. 「平頭」 歐海爾（Edward H. 'Butch'
-O'Hare）海軍上尉在5分鐘之內以他的駕駛的野貓擊落5架日本[海軍](https://zh.wikipedia.org/wiki/海軍 "wikilink")[一式陸上攻擊機](../Page/一式陸上攻擊機.md "wikilink")，不僅阻止航艦受到攻擊的可能，也讓他在該次空戰中成為[王牌飛行員](https://zh.wikipedia.org/wiki/王牌飛行員 "wikilink")，稍後並且獲得美國軍人最高榮譽的[國會榮譽勳章](https://zh.wikipedia.org/wiki/國會榮譽勳章 "wikilink")。1943年歐海爾不幸作戰身亡，[芝加哥的](../Page/芝加哥.md "wikilink")**[歐海爾國際機場](https://zh.wikipedia.org/wiki/奧黑爾國際機場 "wikilink")**就是為了紀念他而更名。
+F4F在大戰初期最有名的空戰紀錄之一發生於1942年2月20日，當時美國海軍派出企業號與約克鎮號航艦攻擊英國位於馬紹爾與吉柏特群島，同時以列克星敦号航空母舰攻擊[拉布爾的日軍基地時](https://zh.wikipedia.org/wiki/拉布爾 "wikilink")，列克星敦号航空母舰麾下VF-3中隊的艾德華 H. 「平頭」 歐海爾（Edward H. 'Butch' O'Hare）海軍上尉在5分鐘之內以他的駕駛的野貓擊落5架日本[海軍](https://zh.wikipedia.org/wiki/海軍 "wikilink")[一式陸上攻擊機](../Page/一式陸上攻擊機.md "wikilink")，不僅阻止航艦受到攻擊的可能，也讓他在該次空戰中成為[王牌飛行員](https://zh.wikipedia.org/wiki/王牌飛行員 "wikilink")，稍後並且獲得美國軍人最高榮譽的[國會榮譽勳章](https://zh.wikipedia.org/wiki/國會榮譽勳章 "wikilink")。1943年歐海爾不幸作戰身亡，[芝加哥](../Page/芝加哥.md "wikilink")的**[歐海爾國際機場](https://zh.wikipedia.org/wiki/奧黑爾國際機場 "wikilink")**就是為了紀念他而更名。
 
 ## 結語
 
@@ -151,29 +130,16 @@ F4F在二次大戰太平洋戰場的初期，不但挽救了美國海軍，打�
 
 ## 外部連結
 
-  - [WW2DB:
-    F4F野貓戰鬥機](http://ww2db.com/aircraft_spec.php?aircraft_model_id=6)
-    \*[Grumman F4F
-    Wildcat](http://www.csd.uwo.ca/~pettypi/elevon/baugher_other/f4f.html)
-
-  - [The Grumman F4F Wildcat -
-    USA](http://www.aviation-history.com/grumman/f4f.htm)
+  - [WW2DB: F4F野貓戰鬥機](http://ww2db.com/aircraft_spec.php?aircraft_model_id=6) \*[Grumman F4F Wildcat](http://www.csd.uwo.ca/~pettypi/elevon/baugher_other/f4f.html)
+  - [The Grumman F4F Wildcat - USA](http://www.aviation-history.com/grumman/f4f.htm)
   - [F4F Wildcat](http://www.globalaircraft.org/planes/f4f_wildcat.pl)
-  - [Grumman F4F-3
-    'Wildcat'](https://web.archive.org/web/20070611141039/http://aeroweb.brooklyn.cuny.edu/specs/grumman/f4f-3.htm)
-
-  - [Grumman F4F
-    Wildcat](http://www.acepilots.com/planes/f4f_wildcat.html)
-  - [F4F "Wildcat"
-    Fighters](http://www.history.navy.mil/photos/ac-usn22/f-types/f4f.htmGrumman)
-
+  - [Grumman F4F-3 'Wildcat'](https://web.archive.org/web/20070611141039/http://aeroweb.brooklyn.cuny.edu/specs/grumman/f4f-3.htm)
+  - [Grumman F4F Wildcat](http://www.acepilots.com/planes/f4f_wildcat.html)
+  - [F4F "Wildcat" Fighters](http://www.history.navy.mil/photos/ac-usn22/f-types/f4f.htmGrumman)
   - [Grumman F4F Wildcat](http://www.warbirdalley.com/f4f.htm)
 
 ## 參考資料
 
-  - David Donald，American Warplanes of World War II，Airtime Publishing
-    USA，ISBN 1-880588-21-8
+  - David Donald，American Warplanes of World War II，Airtime Publishing USA，ISBN 1-880588-21-8
 
-[Category:美國戰鬥機](https://zh.wikipedia.org/wiki/Category:美國戰鬥機 "wikilink")
-[Category:單引擎飛機](https://zh.wikipedia.org/wiki/Category:單引擎飛機 "wikilink")
-[Category:舰载机](https://zh.wikipedia.org/wiki/Category:舰载机 "wikilink")
+[Category:美國戰鬥機](https://zh.wikipedia.org/wiki/Category:美國戰鬥機 "wikilink") [Category:單引擎飛機](https://zh.wikipedia.org/wiki/Category:單引擎飛機 "wikilink") [Category:舰载机](https://zh.wikipedia.org/wiki/Category:舰载机 "wikilink")

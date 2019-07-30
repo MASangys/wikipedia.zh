@@ -1,43 +1,18 @@
-**Mac Pro**（相對於[68k
-Mac](https://zh.wikipedia.org/wiki/Macintosh "wikilink")、[PPC
-Mac](../Page/Power_Macintosh.md "wikilink")、也被稱為**Intel
-Mac**）是[蘋果公司推出的高階桌上型電腦系列產品](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")，搭載[英特爾](https://zh.wikipedia.org/wiki/英特爾 "wikilink")（Intel）[Xeon](https://zh.wikipedia.org/wiki/Xeon "wikilink")
-[CPU以及](https://zh.wikipedia.org/wiki/CPU "wikilink")[PCI
-Express匯流排架構](../Page/PCI_Express.md "wikilink")。
+**2013mac pro 搭載X79晶片雙路主機板，Mac Pro**（相對於[68k Mac](https://zh.wikipedia.org/wiki/Macintosh "wikilink")、[PPC Mac](../Page/Power_Macintosh.md "wikilink")、也被稱為**Intel Mac**）是[蘋果公司推出的高階桌上型電腦系列產品](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")，搭載[英特爾](https://zh.wikipedia.org/wiki/英特爾 "wikilink")（Intel）[Xeon](https://zh.wikipedia.org/wiki/Xeon "wikilink") [CPU以及](https://zh.wikipedia.org/wiki/CPU "wikilink")[PCI Express匯流排架構](../Page/PCI_Express.md "wikilink")。
 
 ## 概要
 
-蘋果電腦公司在2006年8月7日的全球研發者大會（[WWDC](https://zh.wikipedia.org/wiki/WWDC "wikilink")）上發表了這台電腦。它是接替[Power
-Macintosh的系列產品](../Page/Power_Macintosh.md "wikilink")，與[Xserve同為最後](../Page/Xserve.md "wikilink")[移至Intel
-x86平台的蘋果電腦產品系列](https://zh.wikipedia.org/wiki/蘋果的英特爾平台遷移 "wikilink")\[1\]。其[鋁製機殼與](../Page/铝.md "wikilink")[Power
-Mac
-G5的幾乎相同](../Page/Power_Mac_G5.md "wikilink")，但擴充了[光碟機的插槽](https://zh.wikipedia.org/wiki/光碟機 "wikilink")，以及前後重新排列設計的[I/O連接埠](https://zh.wikipedia.org/wiki/I/O "wikilink")。不像其他的麥金塔系列產品，Mac
-Pro並沒有內建可接收[Apple
-Remote訊號的](https://zh.wikipedia.org/wiki/Apple_Remote "wikilink")[红外线裝置](../Page/红外线.md "wikilink")。
+蘋果電腦公司在2006年8月7日的全球研發者大會（[WWDC](https://zh.wikipedia.org/wiki/WWDC "wikilink")）上發表了這台電腦。它是接替[Power Macintosh的系列產品](../Page/Power_Macintosh.md "wikilink")，與[Xserve](../Page/Xserve.md "wikilink")同為最後[移至Intel x86平台的蘋果電腦產品系列](https://zh.wikipedia.org/wiki/蘋果的英特爾平台遷移 "wikilink")\[1\]。其[鋁製機殼與](../Page/铝.md "wikilink")[Power Mac G5的幾乎相同](../Page/Power_Mac_G5.md "wikilink")，但擴充了[光碟機的插槽](https://zh.wikipedia.org/wiki/光碟機 "wikilink")，以及前後重新排列設計的[I/O連接埠](https://zh.wikipedia.org/wiki/I/O "wikilink")。不像其他的麥金塔系列產品，Mac Pro並沒有內建可接收[Apple Remote訊號的](https://zh.wikipedia.org/wiki/Apple_Remote "wikilink")[红外线](../Page/红外线.md "wikilink")裝置。
 
-以2006年的標準衡量，Mac
-Pro是高階機種，擁有兩個[中央處理器](https://zh.wikipedia.org/wiki/中央處理器 "wikilink")（總共4顆核心）、4個[硬碟位置以及](https://zh.wikipedia.org/wiki/硬碟 "wikilink")8個[記憶體](https://zh.wikipedia.org/wiki/記憶體 "wikilink")（[RAM](https://zh.wikipedia.org/wiki/隨機存取記憶體 "wikilink")）插槽。Mac
-Pro的主力規格應該是定在搭載2.66GHz處理器的中階機種。在過去，蘋果電腦公司常會使用「起始於…」（starting
-at）或「從…」（from）來說明基本電腦款式的價格，但是這次在蘋果電腦商店（[Apple
-Store](../Page/Apple_Store.md "wikilink")）中，價格的標示為「Mac Pro **at**
-$2,799」，這是中階規格的價格。但透過自行選擇Mac
-Pro的零件，最基本機種從$2299起跳，較為接近以往的[雙核心G](https://zh.wikipedia.org/wiki/雙核心 "wikilink")5機型的價錢，但是相對的也提供了更強大的運算能力。
+以2006年的標準衡量，Mac Pro是高階機種，擁有兩個[中央處理器](https://zh.wikipedia.org/wiki/中央處理器 "wikilink")（總共4顆核心）、4個[硬碟位置以及](https://zh.wikipedia.org/wiki/硬碟 "wikilink")8個[記憶體](https://zh.wikipedia.org/wiki/記憶體 "wikilink")（[RAM](https://zh.wikipedia.org/wiki/隨機存取記憶體 "wikilink")）插槽。Mac Pro的主力規格應該是定在搭載2.66GHz處理器的中階機種。在過去，蘋果電腦公司常會使用「起始於…」（starting at）或「從…」（from）來說明基本電腦款式的價格，但是這次在蘋果電腦商店（[Apple Store](../Page/Apple_Store.md "wikilink")）中，價格的標示為「Mac Pro **at** $2,799」，這是中階規格的價格。但透過自行選擇Mac Pro的零件，最基本機種從$2299起跳，較為接近以往的[雙核心G](https://zh.wikipedia.org/wiki/雙核心 "wikilink")5機型的價錢，但是相對的也提供了更強大的運算能力。
 
-Mac
-Pro的其中一項特色在於不需要任何工具即可拆開機殼進行擴充（螺絲起子僅是備用，以防萬一），而硬碟的安裝也是使用滑入的方式，同樣也不須任何工具。
+Mac Pro的其中一項特色在於不需要任何工具即可拆開機殼進行擴充（螺絲起子僅是備用，以防萬一），而硬碟的安裝也是使用滑入的方式，同樣也不須任何工具。
 
-蘋果已於2013年6月10日的WWDC上發表最新型號的Mac
-Pro，外形與以往產品不同，呈黑色圓筒狀，並於同年12月開始銷售。\[2\]新一代Mac
-Pro採用[AMD](https://zh.wikipedia.org/wiki/AMD "wikilink")
-[FirePro而不是](https://zh.wikipedia.org/wiki/FirePro "wikilink")[NVIDIA
-Quadro是因為前者的](../Page/NVIDIA_Quadro.md "wikilink")[OpenCL運算能力較佳](../Page/OpenCL.md "wikilink")，這項技術正是由[蘋果公司開發](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")。\[3\]
+蘋果已於2013年6月10日的WWDC上發表最新型號的Mac Pro，外形與以往產品不同，呈黑色圓筒狀，並於同年12月開始銷售。\[2\]新一代Mac Pro採用[AMD](https://zh.wikipedia.org/wiki/AMD "wikilink") [FirePro而不是](https://zh.wikipedia.org/wiki/FirePro "wikilink")[NVIDIA Quadro是因為前者的](../Page/NVIDIA_Quadro.md "wikilink")[OpenCL](../Page/OpenCL.md "wikilink")運算能力較佳，這項技術正是由[蘋果公司開發](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")。\[3\]
 
-2017年推出[iMac
-Pro](https://zh.wikipedia.org/wiki/iMac_Pro "wikilink")，属台式一体机产品，并不属于严格意义上的Mac
-Pro产品线。
+2017年推出[iMac Pro](https://zh.wikipedia.org/wiki/iMac_Pro "wikilink")，属台式一体机产品，并不属于严格意义上的Mac Pro产品线。
 
-2019年6月3日，苹果在WWDC 2019大会上推出新一代模块化设计的Mac Pro。新Mac
-Pro采用了不同于上一代的矩形体块设计，极度强调易拆卸和模块化。正面和背面开设有大量令人印象深刻的散热孔矩阵。该代机型最高支持28核[英特尔Xeon处理器](https://zh.wikipedia.org/wiki/Xeon "wikilink")、1.5TB[内存和](https://zh.wikipedia.org/wiki/内存 "wikilink")4TB[固态硬盘](../Page/固态硬盘.md "wikilink")，并提供大量扩展接口。
+2019年6月3日，苹果在WWDC 2019大会上推出新一代模块化设计的Mac Pro。新Mac Pro采用了不同于上一代的矩形体块设计，极度强调易拆卸和模块化。正面和背面开设有大量令人印象深刻的散热孔矩阵。该代机型最高支持28核[英特尔Xeon处理器](https://zh.wikipedia.org/wiki/Xeon "wikilink")、1.5TB[内存和](https://zh.wikipedia.org/wiki/内存 "wikilink")4TB[固态硬盘](../Page/固态硬盘.md "wikilink")，并提供大量扩展接口。
 
 ## 規格
 
@@ -257,11 +232,9 @@ Expandable to four graphics cards</p></td>
 ## 外部連結
 
   -
-  - [近距離拍攝的Mac
-    Pro照片](http://www.engadget.com/2006/08/07/apple-mac-pro-hands-on/)
+  - [近距離拍攝的Mac Pro照片](http://www.engadget.com/2006/08/07/apple-mac-pro-hands-on/)
 
-[Category:麦金塔](https://zh.wikipedia.org/wiki/Category:麦金塔 "wikilink")
-[Category:2006年面世的產品](https://zh.wikipedia.org/wiki/Category:2006年面世的產品 "wikilink")
+[Category:麦金塔](https://zh.wikipedia.org/wiki/Category:麦金塔 "wikilink") [Category:2006年面世的產品](https://zh.wikipedia.org/wiki/Category:2006年面世的產品 "wikilink")
 
 1.  2006年8月7日[全球研發者大會](https://zh.wikipedia.org/wiki/WWDC "wikilink")（[WWDC](https://zh.wikipedia.org/wiki/WWDC "wikilink")）上的簡報。
 2.  [Apple - Mac Pro](http://www.apple.com/hk/mac-pro/)

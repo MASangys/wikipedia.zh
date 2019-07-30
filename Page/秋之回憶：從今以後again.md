@@ -1,13 +1,11 @@
-《**秋之回憶～從今以後again～**》（）是[日本遊戲廠商](../Page/日本.md "wikilink")[KID公司於](../Page/KID.md "wikilink")2006年3月23日發售，執行於[PlayStation
-2上的](../Page/PlayStation_2.md "wikilink")[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")。本遊戲為同系列《[秋之回憶：從今以後](../Page/秋之回憶：從今以後.md "wikilink")》的續篇。
+《**秋之回憶～從今以後again～**》（）是[日本](../Page/日本.md "wikilink")遊戲廠商[KID](../Page/KID.md "wikilink")公司於2006年3月23日發售，執行於[PlayStation 2上的](../Page/PlayStation_2.md "wikilink")[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")。本遊戲為同系列《[秋之回憶：從今以後](../Page/秋之回憶：從今以後.md "wikilink")》的續篇。
 
-[台灣由](https://zh.wikipedia.org/wiki/台灣 "wikilink")[光譜資訊代理](../Page/光譜資訊.md "wikilink")，中国大陆地区则由[娱乐通代理](../Page/娱乐通.md "wikilink")。
+[台灣由](https://zh.wikipedia.org/wiki/台灣 "wikilink")[光譜資訊](../Page/光譜資訊.md "wikilink")代理，中国大陆地区则由[娱乐通](../Page/娱乐通.md "wikilink")代理。
 
 ## 劇情簡介
 
   -
-    作為秋之回憶第四代的外傳，該遊戲以正傳其中三位女主角（陵祈、花祭果凜、藤原雅）各自的完美結局（True
-    Ending）作為前提，提供了三個彼此獨立的後續故事。如果沒有玩過正傳的話，玩家可能對外傳的劇情無法充分理解。
+    作為秋之回憶第四代的外傳，該遊戲以正傳其中三位女主角（陵祈、花祭果凜、藤原雅）各自的完美結局（True Ending）作為前提，提供了三個彼此獨立的後續故事。如果沒有玩過正傳的話，玩家可能對外傳的劇情無法充分理解。
     因為稻穗信去旅遊的關係，所以秋之回憶四的外傳沒有稻穗信出場（目前也只有這部沒有稻穗信）。
     關於本作的劇情簡介，請在參考正傳的所屬詞條之後（或者自己已經對正傳劇情有全面、具體的了解之後）接著往下看：
 
@@ -247,8 +245,7 @@
   - Drawing Again/僕のwish (2006年4月21日)
   - Memories Off 〜それから again〜 Audio Collection (2006年4月21日)
 
-全部由[5pb.發售](../Page/5pb..md "wikilink")、[GENEON
-ENTERTAINMENTより販売](https://zh.wikipedia.org/wiki/GENEON_ENTERTAINMENT "wikilink")。
+全部由[5pb.](../Page/5pb..md "wikilink")發售、[GENEON ENTERTAINMENTより販売](https://zh.wikipedia.org/wiki/GENEON_ENTERTAINMENT "wikilink")。
 
 ### 小説
 
@@ -262,13 +259,6 @@ ENTERTAINMENTより販売](https://zh.wikipedia.org/wiki/GENEON_ENTERTAINMENT "w
 
 ## 外部連結
 
-  - [秋之回憶：從今以後again
-    官方網站](https://web.archive.org/web/20070105181852/http://www.kid-game.co.jp/again/)，存於[網際網路檔案館](https://zh.wikipedia.org/wiki/網際網路檔案館 "wikilink")
+  - [秋之回憶：從今以後again 官方網站](https://web.archive.org/web/20070105181852/http://www.kid-game.co.jp/again/)，存於[網際網路檔案館](https://zh.wikipedia.org/wiki/網際網路檔案館 "wikilink")
 
-[Category:告别回憶系列](https://zh.wikipedia.org/wiki/Category:告别回憶系列 "wikilink")
-[Category:2006年电子游戏](https://zh.wikipedia.org/wiki/Category:2006年电子游戏 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink")
-[Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink")
+[Category:告别回憶系列](https://zh.wikipedia.org/wiki/Category:告别回憶系列 "wikilink") [Category:2006年电子游戏](https://zh.wikipedia.org/wiki/Category:2006年电子游戏 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink") [Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink")

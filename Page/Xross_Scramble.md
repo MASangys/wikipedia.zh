@@ -1,16 +1,11 @@
-《**Xross Scramble**》，全名「**Xross Scramble ～TEAM BALDRHEAD Perfect
-Collection～**」、簡稱「」，是[戲畫於](../Page/戲畫_\(遊戲品牌\).md "wikilink")2007年4月27日（由同年3月30日延期）發售的[十八禁](https://zh.wikipedia.org/wiki/十八禁遊戲 "wikilink")[戀愛冒險及](../Page/戀愛遊戲.md "wikilink")[動作遊戲](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")。把人氣製作組TEAM
-BALDRHEAD自1999年以來的「[BALDR系列](https://zh.wikipedia.org/wiki/戲畫_\(遊戲品牌\)#BALDR系列 "wikilink")」和「[DUEL
-SAVIOR系列](https://zh.wikipedia.org/wiki/戲畫_\(遊戲品牌\)#DUEL_SAVIOR系列 "wikilink")」合而為一，屬於fan
-disc性質的作品。
+《**Xross Scramble**》，全名「**Xross Scramble ～TEAM BALDRHEAD Perfect Collection～**」、簡稱「」，是[戲畫於](../Page/戲畫_\(遊戲品牌\).md "wikilink")2007年4月27日（由同年3月30日延期）發售的[十八禁](https://zh.wikipedia.org/wiki/十八禁遊戲 "wikilink")[戀愛冒險及](../Page/戀愛遊戲.md "wikilink")[動作遊戲](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")。把人氣製作組TEAM BALDRHEAD自1999年以來的「[BALDR系列](https://zh.wikipedia.org/wiki/戲畫_\(遊戲品牌\)#BALDR系列 "wikilink")」和「[DUEL SAVIOR系列](https://zh.wikipedia.org/wiki/戲畫_\(遊戲品牌\)#DUEL_SAVIOR系列 "wikilink")」合而為一，屬於fan disc性質的作品。
 
 ## 遊戲內容
 
 ### BALDR FORCE Re-Action
 
   - 這是把BALDR系列舊有的動作遊戲系統推翻的全新遊戲方式。
-  - 把《[BALDR
-    FORCE](../Page/BALDR_FORCE.md "wikilink")》中以「[電腦程式](https://zh.wikipedia.org/wiki/電腦程式 "wikilink")」組成的機械人和BALDR系列其餘三作中真正以零件砌成的機械人集在一起，實現跨作品、跨世界觀的機械人對戰。
+  - 把《[BALDR FORCE](../Page/BALDR_FORCE.md "wikilink")》中以「[電腦程式](https://zh.wikipedia.org/wiki/電腦程式 "wikilink")」組成的機械人和BALDR系列其餘三作中真正以零件砌成的機械人集在一起，實現跨作品、跨世界觀的機械人對戰。
   - 通關後會取得由[插畫師池上茜](https://zh.wikipedia.org/wiki/插畫師 "wikilink")、、村上水軍、、黑田晶見等所繪畫的[CG](https://zh.wikipedia.org/wiki/CG "wikilink")。
 
 <!-- end list -->
@@ -36,8 +31,7 @@ disc性質的作品。
 
 ### Duel Savior 外傳 ～二人的王女～
 
-顧名思義，就是[DUEL
-SAVIOR的外傳](../Page/DUEL_SAVIOR.md "wikilink")，新編劇的[十八禁](https://zh.wikipedia.org/wiki/十八禁遊戲 "wikilink")[戀愛遊戲](../Page/戀愛遊戲.md "wikilink")。
+顧名思義，就是[DUEL SAVIOR的外傳](../Page/DUEL_SAVIOR.md "wikilink")，新編劇的[十八禁](https://zh.wikipedia.org/wiki/十八禁遊戲 "wikilink")[戀愛遊戲](../Page/戀愛遊戲.md "wikilink")。
 
   - 故事簡介
     在某天，當真大河等人被召到王城，要求親自到王城地下的遺跡，護衛王女Clea。
@@ -161,8 +155,7 @@ SAVIOR的外傳](../Page/DUEL_SAVIOR.md "wikilink")，新編劇的[十八禁](ht
 
 <!-- end list -->
 
-  - SCRAMBLE
-    SAVIOR的試玩版，可選角色有《青空下的約定》的澤城凜奈和《Cheerful\!》的櫻木百合香，要在一分鐘內打倒50名敵人的「[時間競速](https://zh.wikipedia.org/wiki/真實時間競速攻略 "wikilink")」遊戲
+  - SCRAMBLE SAVIOR的試玩版，可選角色有《青空下的約定》的澤城凜奈和《Cheerful\!》的櫻木百合香，要在一分鐘內打倒50名敵人的「[時間競速](https://zh.wikipedia.org/wiki/真實時間競速攻略 "wikilink")」遊戲
 
 ## 音樂
 
@@ -196,8 +189,7 @@ SAVIOR的外傳](../Page/DUEL_SAVIOR.md "wikilink")，新編劇的[十八禁](ht
 
   - 原畫：菊池政治
   - 腳本：沙月 with 企畫屋（DUEL SAVOIR外傳）、琴吹 彬（Xross Savior）
-  - 影片：[神月社](https://zh.wikipedia.org/wiki/神月社 "wikilink") \[the Imaging
-    Studio Mju;z\]
+  - 影片：[神月社](https://zh.wikipedia.org/wiki/神月社 "wikilink") \[the Imaging Studio Mju;z\]
   - 企畫、製作：戲畫
 
 ## 關聯項目
@@ -210,14 +202,8 @@ SAVIOR的外傳](../Page/DUEL_SAVIOR.md "wikilink")，新編劇的[十八禁](ht
 
 ## 外部連結
 
-  - [Xross
-    Scramble](https://web.archive.org/web/20070315015037/http://www.web-giga.com/xross-scramble/index.html)（年齡限制）
+  - [Xross Scramble](https://web.archive.org/web/20070315015037/http://www.web-giga.com/xross-scramble/index.html)（年齡限制）
 
   - [戲畫](http://www.web-giga.com/top/top.html)（年齡限制）
 
-[Category:2007年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2007年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:動作遊戲](https://zh.wikipedia.org/wiki/Category:動作遊戲 "wikilink")
-[Category:BALDR系列](https://zh.wikipedia.org/wiki/Category:BALDR系列 "wikilink")
-[Category:等距視角遊戲](https://zh.wikipedia.org/wiki/Category:等距視角遊戲 "wikilink")
+[Category:2007年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2007年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:動作遊戲](https://zh.wikipedia.org/wiki/Category:動作遊戲 "wikilink") [Category:BALDR系列](https://zh.wikipedia.org/wiki/Category:BALDR系列 "wikilink") [Category:等距視角遊戲](https://zh.wikipedia.org/wiki/Category:等距視角遊戲 "wikilink")

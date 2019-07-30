@@ -1,6 +1,6 @@
 **SKI组合子演算**是一个计算系统，它是对无类型版本的[Lambda演算的简约](https://zh.wikipedia.org/wiki/Lambda演算 "wikilink")。这个系统声称在Lambda演算中所有运算都可以用三个组合子**S**、**K**和**I**来表达。
 
-在这个系统中的所有[函数可以只使用](../Page/函数.md "wikilink")**S**、**K**、**I**的字母表和圆括号（分组符号）来表达。通常假定组合子是[左结合的](https://zh.wikipedia.org/wiki/结合性 "wikilink")，从而在不影响执行次序的情况下精简表达式中的圆括号。
+在这个系统中的所有[函数](../Page/函数.md "wikilink")可以只使用**S**、**K**、**I**的字母表和圆括号（分组符号）来表达。通常假定组合子是[左结合的](https://zh.wikipedia.org/wiki/结合性 "wikilink")，从而在不影响执行次序的情况下精简表达式中的圆括号。
 
 ## 非形式定义
 
@@ -26,8 +26,7 @@
   -
     **SKK**x → **K**x(**K**x) → x
 
-事实上，只使用一个组合子定义一个完备的系统是可能的。一个例子是Chris
-Barker的[\(\iota\)](https://web.archive.org/web/20060428062101/http://ling.ucsd.edu/~barker/Iota/)组合子，定义如下：
+事实上，只使用一个组合子定义一个完备的系统是可能的。一个例子是Chris Barker的[\(\iota\)](https://web.archive.org/web/20060428062101/http://ling.ucsd.edu/~barker/Iota/)组合子，定义如下：
 
   -
     **ι**x = x**SK**
@@ -62,8 +61,7 @@ Barker的[\(\iota\)](https://web.archive.org/web/20060428062101/http://ling.ucsd
 这个表达式的一个有趣的性质是它使表达式**SII**(**SII**)不可归约：
 
   -
-    **SII**(**SII**) → **I**(**SII**)(**I**(**SII**)) →
-    **I**(**SII**)(**SII**) → **SII**(**SII**)
+    **SII**(**SII**) → **I**(**SII**)(**I**(**SII**)) → **I**(**SII**)(**SII**) → **SII**(**SII**)
 
 这个表达式的另一个结果是它允许你写应用某个东西到其他某个东西的自应用的函数：
 
@@ -116,8 +114,7 @@ SKI组合子演算还可以用if-then-else结构的形式实现[布尔逻辑](..
 布尔运算NOT（它返回给定布尔值的对立值）表现如同带有假和真作为第二个和第三个值的if-then-else结构，所以可以实现为后缀运算：
 
   -
-    NOT = (**F**)(**T**)
-    =(**KI**,**K**)如果把它们放入if-then-else结构中，可以证实它有预期的结果：
+    NOT = (**F**)(**T**) =(**KI**,**K**)如果把它们放入if-then-else结构中，可以证实它有预期的结果：
     (**T**)NOT=**T**(**F**)(**T**)=**F**
     (**F**)NOT=**F**(**F**)(**T**)=**T**
 
@@ -155,8 +152,7 @@ SKI组合子演算还可以用if-then-else结构的形式实现[布尔逻辑](..
 
   -
     **AK**: A →(B → A)
-    **AS**:(A →(B → C))→((A → B) →(A →
-    C))函數應用對應於[肯定前件規則](https://zh.wikipedia.org/wiki/肯定前件 "wikilink")：
+    **AS**:(A →(B → C))→((A → B) →(A → C))函數應用對應於[肯定前件規則](https://zh.wikipedia.org/wiki/肯定前件 "wikilink")：
 
 **MP**：從A和A → B推出B。
 
@@ -172,8 +168,7 @@ SKI组合子演算还可以用if-then-else结构的形式实现[布尔逻辑](..
 ## 外部链接
 
   - [S and K Combinators](http://c2.com/cgi/wiki?EssAndKayCombinators)
-  - [The SKI Combinator Calculus as a Universal
-    System](http://people.cs.uchicago.edu/~odonnell/Teacher/Lectures/Formal_Organization_of_Knowledge/Examples/combinator_calculus/)
+  - [The SKI Combinator Calculus as a Universal System](http://people.cs.uchicago.edu/~odonnell/Teacher/Lectures/Formal_Organization_of_Knowledge/Examples/combinator_calculus/)
   - [Javascript SKI combinator interpreter](http://pnetz.org/ski)
 
 [Category:Lambda演算](https://zh.wikipedia.org/wiki/Category:Lambda演算 "wikilink")

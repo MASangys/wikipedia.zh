@@ -10,7 +10,4 @@
   - **[罗纳德·帕里斯](https://zh.wikipedia.org/wiki/罗纳德·帕里斯 "wikilink")**（，曾执行以及任务），有效载荷专家
   - **[萨穆埃尔·杜兰斯](https://zh.wikipedia.org/wiki/萨穆埃尔·杜兰斯 "wikilink")**（，曾执行以及任务），有效载荷专家
 
-[Category:1995年佛罗里达州](https://zh.wikipedia.org/wiki/Category:1995年佛罗里达州 "wikilink")
-[Category:奋进号航天飞机任务](https://zh.wikipedia.org/wiki/Category:奋进号航天飞机任务 "wikilink")
-[Category:1995年科學](https://zh.wikipedia.org/wiki/Category:1995年科學 "wikilink")
-[Category:1995年3月](https://zh.wikipedia.org/wiki/Category:1995年3月 "wikilink")
+[Category:1995年佛罗里达州](https://zh.wikipedia.org/wiki/Category:1995年佛罗里达州 "wikilink") [Category:奋进号航天飞机任务](https://zh.wikipedia.org/wiki/Category:奋进号航天飞机任务 "wikilink") [Category:1995年科學](https://zh.wikipedia.org/wiki/Category:1995年科學 "wikilink") [Category:1995年3月](https://zh.wikipedia.org/wiki/Category:1995年3月 "wikilink")

@@ -1,7 +1,4 @@
-**JUnit**是一个[Java语言的](../Page/Java.md "wikilink")[单元测试框架](../Page/单元测试.md "wikilink")。它由[肯特·貝克和](../Page/肯特·貝克.md "wikilink")[埃里希·伽瑪](https://zh.wikipedia.org/wiki/埃里希·伽瑪 "wikilink")（Erich
-Gamma）建立，逐渐成为源于Kent
-Beck的[sUnit的](https://zh.wikipedia.org/wiki/sUnit "wikilink")[xUnit家族中为最成功的一个](https://zh.wikipedia.org/wiki/xUnit "wikilink")。
-JUnit有它自己的[JUnit扩展](https://web.archive.org/web/20051013060403/http://www.junit.org/news/extension/index.htm)生态圈。
+**JUnit**是一个[Java](../Page/Java.md "wikilink")语言的[单元测试](../Page/单元测试.md "wikilink")框架。它由[肯特·貝克](../Page/肯特·貝克.md "wikilink")和[埃里希·伽瑪](https://zh.wikipedia.org/wiki/埃里希·伽瑪 "wikilink")（Erich Gamma）建立，逐渐成为源于Kent Beck的[sUnit的](https://zh.wikipedia.org/wiki/sUnit "wikilink")[xUnit家族中为最成功的一个](https://zh.wikipedia.org/wiki/xUnit "wikilink")。 JUnit有它自己的[JUnit扩展](https://web.archive.org/web/20051013060403/http://www.junit.org/news/extension/index.htm)生态圈。
 
 ## 例子
 
@@ -35,9 +32,7 @@ JUnit 4.0 的"Hello world" ：
 
 `testMultiplication`由 **Test**的标签所定义。
 
-来自**JUnit**的体验对[测试驱动开发是很重要的](../Page/测试驱动开发.md "wikilink")，所以一些
-**JUnit**知识经常 和测试驱动开发的讨论融合在一起。可以参考Kent Beck的 《Test-Driven Development:
-By Example》一书（有中文版和影印版）。
+来自**JUnit**的体验对[测试驱动开发](../Page/测试驱动开发.md "wikilink")是很重要的，所以一些 **JUnit**知识经常 和测试驱动开发的讨论融合在一起。可以参考Kent Beck的 《Test-Driven Development: By Example》一书（有中文版和影印版）。
 
 ## 外部链接
 
@@ -58,5 +53,4 @@ By Example》一书（有中文版和影印版）。
   - [OCUnit](https://zh.wikipedia.org/wiki/OCUnit "wikilink")
   - [ASPUnit](https://zh.wikipedia.org/wiki/ASPUnit "wikilink")
 
-[Category:Java](https://zh.wikipedia.org/wiki/Category:Java "wikilink")
-[Category:軟體測試](https://zh.wikipedia.org/wiki/Category:軟體測試 "wikilink")
+[Category:Java](https://zh.wikipedia.org/wiki/Category:Java "wikilink") [Category:軟體測試](https://zh.wikipedia.org/wiki/Category:軟體測試 "wikilink")

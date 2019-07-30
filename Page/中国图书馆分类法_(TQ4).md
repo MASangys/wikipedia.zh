@@ -1,5 +1,4 @@
-::\*TQ41
-[溶剂与](../Page/溶剂.md "wikilink")[增塑剂的生产](https://zh.wikipedia.org/wiki/增塑剂 "wikilink")
+::\*TQ41 [溶剂](../Page/溶剂.md "wikilink")与[增塑剂的生产](https://zh.wikipedia.org/wiki/增塑剂 "wikilink")
 
 ::::\*TQ410.1 基础理论
 
@@ -57,7 +56,7 @@
 
 :::\*TQ414 增塑剂
 
-::::\*TQ414.1 [邻苯二甲酸酯类](../Page/邻苯二甲酸.md "wikilink")
+::::\*TQ414.1 [邻苯二甲酸](../Page/邻苯二甲酸.md "wikilink")酯类
 
 ::::\*TQ414.2 磷酸酯类
 
@@ -79,8 +78,7 @@
 
 :::\*TQ415 有毒溶剂
 
-::\*TQ42
-[试剂与](https://zh.wikipedia.org/wiki/试剂 "wikilink")[纯化学品的生产](https://zh.wikipedia.org/wiki/纯化学品 "wikilink")
+::\*TQ42 [试剂与](https://zh.wikipedia.org/wiki/试剂 "wikilink")[纯化学品的生产](https://zh.wikipedia.org/wiki/纯化学品 "wikilink")
 
 ::::\*TQ420.1 基础理论
 

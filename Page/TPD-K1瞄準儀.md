@@ -1,6 +1,4 @@
-**TPD-K1**是[蘇聯自](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")1970年代後期開始廣泛使用在[坦克上的主要射手瞄準儀](../Page/坦克.md "wikilink")（Primary
-Gunner Sight,
-PGS），配備在[T-64](https://zh.wikipedia.org/wiki/T-64 "wikilink")／[T-72](https://zh.wikipedia.org/wiki/T-72 "wikilink")／[T-80](https://zh.wikipedia.org/wiki/T-80 "wikilink")[主戰坦克上](https://zh.wikipedia.org/wiki/主戰坦克 "wikilink")，它的改良型是具有前置量計算功能的1A40與具有[導彈控制套件的](https://zh.wikipedia.org/wiki/導彈 "wikilink")1A40-1。TPD-K1具有獨立的垂直軸穩定，內建[雷射測距儀以及簡易的彈道](https://zh.wikipedia.org/wiki/雷射測距儀 "wikilink")、距離修正功能，在蘇聯解體後因為性能落伍所以被更先進的瞄準儀如1G46取代，或是被加以改良並且搭配[熱影像儀與新式彈道計算機模組以提升性能表現](https://zh.wikipedia.org/wiki/熱影像 "wikilink")。
+**TPD-K1**是[蘇聯自](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")1970年代後期開始廣泛使用在[坦克](../Page/坦克.md "wikilink")上的主要射手瞄準儀（Primary Gunner Sight, PGS），配備在[T-64](https://zh.wikipedia.org/wiki/T-64 "wikilink")／[T-72](https://zh.wikipedia.org/wiki/T-72 "wikilink")／[T-80](https://zh.wikipedia.org/wiki/T-80 "wikilink")[主戰坦克上](https://zh.wikipedia.org/wiki/主戰坦克 "wikilink")，它的改良型是具有前置量計算功能的1A40與具有[導彈控制套件的](https://zh.wikipedia.org/wiki/導彈 "wikilink")1A40-1。TPD-K1具有獨立的垂直軸穩定，內建[雷射測距儀以及簡易的彈道](https://zh.wikipedia.org/wiki/雷射測距儀 "wikilink")、距離修正功能，在蘇聯解體後因為性能落伍所以被更先進的瞄準儀如1G46取代，或是被加以改良並且搭配[熱影像儀與新式彈道計算機模組以提升性能表現](https://zh.wikipedia.org/wiki/熱影像 "wikilink")。
 
 ## 技術特性
 
@@ -23,7 +21,7 @@ PGS），配備在[T-64](https://zh.wikipedia.org/wiki/T-64 "wikilink")／[T-72]
 
 在TPD-K1右側有一個旋鈕用來輸入彈道修正資料，包含[大氣壓力](https://zh.wikipedia.org/wiki/大氣壓力 "wikilink")、[大氣溫度](https://zh.wikipedia.org/wiki/大氣 "wikilink")、藥溫與砲管磨耗等參數，射手必須根據當時環境查表輸入所需的修正值。在旋鈕正下方有兩個顯示燈：上面的顯示燈表示「[雷射已開啟](https://zh.wikipedia.org/wiki/雷射 "wikilink")」；下面的顯示燈表示「已經可以測距」，在測距過程中這個燈會暫時熄滅然後重新亮起。在這兩個顯示燈左下方有個「手動／自動」選擇開關，它用來決定是否將距離資料輸入瞄準儀中的刻劃位置。在旋鈕右下方有個數字顯示器，它以四位數顯示出[雷射測距儀量測的距離](https://zh.wikipedia.org/wiki/雷射測距儀 "wikilink")。在這個數字顯示器下方有個開關標示選擇1,200或1,800，當多重回波的情形發生時，射手可以切換這個開關以選擇正確的雷射回波，這個開關相當於西方戰車的雷射測距儀選擇首回波或末回波的功能。
 
-在TPD-K1最下方有三個開關和六個顯示燈。這三個開關從右至左分別是[穩定系統開關](https://zh.wikipedia.org/wiki/穩定系統 "wikilink")、穩定系統操作開關與Delta-D開關。穩定系統開關開啟後，相關的[液壓系統與電力系統就會開始運作](https://zh.wikipedia.org/wiki/液壓 "wikilink")，[陀螺儀也會開始旋轉直到工作轉速](../Page/陀螺儀.md "wikilink")；接著開啟穩定系統操作開關就能開啟主砲的雙軸穩定；Delta-D則是用在坦克移動時根據陀螺儀的訊號修正與目標之間的距離。六個顯示燈分別用來表示主砲雙軸穩定開啟、瞄準儀垂直軸穩定開啟、陀螺儀與液壓系統開啟、車長超越操作或閃爍表示駕駛正進行砲塔的平均迴轉、Delta-D開啟、武器與射控系統已準備好。
+在TPD-K1最下方有三個開關和六個顯示燈。這三個開關從右至左分別是[穩定系統開關](https://zh.wikipedia.org/wiki/穩定系統 "wikilink")、穩定系統操作開關與Delta-D開關。穩定系統開關開啟後，相關的[液壓系統與電力系統就會開始運作](https://zh.wikipedia.org/wiki/液壓 "wikilink")，[陀螺儀](../Page/陀螺儀.md "wikilink")也會開始旋轉直到工作轉速；接著開啟穩定系統操作開關就能開啟主砲的雙軸穩定；Delta-D則是用在坦克移動時根據陀螺儀的訊號修正與目標之間的距離。六個顯示燈分別用來表示主砲雙軸穩定開啟、瞄準儀垂直軸穩定開啟、陀螺儀與液壓系統開啟、車長超越操作或閃爍表示駕駛正進行砲塔的平均迴轉、Delta-D開啟、武器與射控系統已準備好。
 
 ### 操作程序
 
@@ -59,7 +57,6 @@ PGS），配備在[T-64](https://zh.wikipedia.org/wiki/T-64 "wikilink")／[T-72]
 ## 外部連結
 
   - [Kampfpanzer im Detail](http://www.kotsch88.de/autolader.htm)
-  - [Warfare.Ru—Russain Military
-    Analysis](http://warfare.ru/?lang=&catid=314&linkid=2359)
+  - [Warfare.Ru—Russain Military Analysis](http://warfare.ru/?lang=&catid=314&linkid=2359)
 
 [Category:坦克](https://zh.wikipedia.org/wiki/Category:坦克 "wikilink")

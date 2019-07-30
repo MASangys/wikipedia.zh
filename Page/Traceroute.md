@@ -1,31 +1,18 @@
-**traceroute**，現代[Linux系統稱為](../Page/Linux.md "wikilink")**tracepath**，[Windows系統稱為](https://zh.wikipedia.org/wiki/Windows "wikilink")**tracert**，是一種電腦網絡工具。它可顯示[封包在IP網絡經過的](https://zh.wikipedia.org/wiki/封包 "wikilink")[路由器的](../Page/路由器.md "wikilink")[IP位址](https://zh.wikipedia.org/wiki/IP位址 "wikilink")。
+**traceroute**，現代[Linux](../Page/Linux.md "wikilink")系統稱為**tracepath**，[Windows系統稱為](https://zh.wikipedia.org/wiki/Windows "wikilink")**tracert**，是一種電腦網絡工具。它可顯示[封包在IP網絡經過的](https://zh.wikipedia.org/wiki/封包 "wikilink")[路由器](../Page/路由器.md "wikilink")的[IP位址](https://zh.wikipedia.org/wiki/IP位址 "wikilink")。
 
 ## 原理
 
-程式是利用增加[存活時間](https://zh.wikipedia.org/wiki/存活時間 "wikilink")（TTL）值來實現其功能的。每當封包經過一個路由器，其存活時間就會減1。當其存活時間是0時，主機便取消封包，並傳送一個[ICMP](https://zh.wikipedia.org/wiki/ICMP "wikilink")
-TTL封包給原封包的發出者。
+程式是利用增加[存活時間](https://zh.wikipedia.org/wiki/存活時間 "wikilink")（TTL）值來實現其功能的。每當封包經過一個路由器，其存活時間就會減1。當其存活時間是0時，主機便取消封包，並傳送一個[ICMP](https://zh.wikipedia.org/wiki/ICMP "wikilink") TTL封包給原封包的發出者。
 
 程式發出的首3個封包TTL值是1，之後3個是2，如此類推，它便得到一連串封包路徑。注意IP不保證每個封包走的路徑都一樣。
 
 ## 實現
 
-主叫方首先發出 TTL=1 的數據包，第一個路由器將 TTL 減1得0后就不再繼續轉發此數據包，而是返回一個 ICMP
-逾時報文，主叫方從逾時報文中即可提取出數據包所經過的第一個閘道器位址。然後又發出一個
-TTL=2 的 ICMP 數據包，可獲得第二個閘道器位址，依次遞增 TTL 便獲取了沿途所有閘道器位址。
+主叫方首先發出 TTL=1 的數據包，第一個路由器將 TTL 減1得0后就不再繼續轉發此數據包，而是返回一個 ICMP 逾時報文，主叫方從逾時報文中即可提取出數據包所經過的第一個閘道器位址。然後又發出一個 TTL=2 的 ICMP 數據包，可獲得第二個閘道器位址，依次遞增 TTL 便獲取了沿途所有閘道器位址。
 
-需要注意的是，並不是所有閘道器都會如實返回 ICMP 超時報文。出於安全性考慮，大多數防火墻以及啓用了防火墻功能的路由器缺省配置為不返回各種
-ICMP
-報文，其餘路由器或[交換機也可被管理員主動修改配置變為不返回](https://zh.wikipedia.org/wiki/交換機 "wikilink")
-ICMP 報文。因此 Traceroute 程式不一定能拿全所有的沿途閘道器位址。所以，當某個 TTL
-值的數據包得不到響應時，並不能停止這一追蹤過程，程式仍然會把
-TTL 遞增而發出下一個數據包。一直達到預設或用參數指定的追蹤限制（maximum_hops）才结束追蹤。
+需要注意的是，並不是所有閘道器都會如實返回 ICMP 超時報文。出於安全性考慮，大多數防火墻以及啓用了防火墻功能的路由器缺省配置為不返回各種 ICMP 報文，其餘路由器或[交換機也可被管理員主動修改配置變為不返回](https://zh.wikipedia.org/wiki/交換機 "wikilink") ICMP 報文。因此 Traceroute 程式不一定能拿全所有的沿途閘道器位址。所以，當某個 TTL 值的數據包得不到響應時，並不能停止這一追蹤過程，程式仍然會把 TTL 遞增而發出下一個數據包。一直達到預設或用參數指定的追蹤限制（maximum_hops）才结束追蹤。
 
-依據上述原理，利用了 UDP 數據包的 Traceroute 程式在數據包到達真正的目的主機時，就可能因為該主機沒有提供
-[UDP](https://zh.wikipedia.org/wiki/UDP "wikilink")
-服務而簡單將數據包抛棄，並不返回任何信息。爲了解決這個問題，Traceroute
-故意使用了一個大於 30000 的端口號，因 UDP 協定規定端口號必須小於 30000
-，所以目標主機收到數據包后唯一能做的事就是返回一個“端口不可達”的
-ICMP 報文，於是主叫方就將端口不可達報文當作跟蹤結束的標誌。
+依據上述原理，利用了 UDP 數據包的 Traceroute 程式在數據包到達真正的目的主機時，就可能因為該主機沒有提供 [UDP](https://zh.wikipedia.org/wiki/UDP "wikilink") 服務而簡單將數據包抛棄，並不返回任何信息。爲了解決這個問題，Traceroute 故意使用了一個大於 30000 的端口號，因 UDP 協定規定端口號必須小於 30000 ，所以目標主機收到數據包后唯一能做的事就是返回一個“端口不可達”的 ICMP 報文，於是主叫方就將端口不可達報文當作跟蹤結束的標誌。
 
 ## 例子
 
@@ -53,20 +40,15 @@ ICMP 報文，於是主叫方就將端口不可達報文當作跟蹤結束的標
 
 ## 歷史
 
-根據traceroute的[man
-page](https://zh.wikipedia.org/wiki/man_page "wikilink")：1987年，Steve
-Deering建議Van Jacobson寫一個這樣的程式。C. Philip Wood、Tim Seaver和Ken
-Adelman為這個程式提供一些意見或改動。
+根據traceroute的[man page](https://zh.wikipedia.org/wiki/man_page "wikilink")：1987年，Steve Deering建議Van Jacobson寫一個這樣的程式。C. Philip Wood、Tim Seaver和Ken Adelman為這個程式提供一些意見或改動。
 
-[Windows
-NT系統有結合](../Page/Windows_NT.md "wikilink")[ping和traceroute的pathping工具](https://zh.wikipedia.org/wiki/ping "wikilink")。
+[Windows NT系統有結合](../Page/Windows_NT.md "wikilink")[ping和traceroute的pathping工具](https://zh.wikipedia.org/wiki/ping "wikilink")。
 
 ## 外部連結
 
   - [線上traceroute工具](http://www.traceroute.org/)
 
-  - [TRACEROUTE6.net](http://www.traceroute6.net/): 在亚洲区含IPv4 和 IPv6
-    的線上traceroute工具
+  - [TRACEROUTE6.net](http://www.traceroute6.net/): 在亚洲区含IPv4 和 IPv6 的線上traceroute工具
 
   - [Traceroute test](http://www.test-net.org/traceroute/)
 

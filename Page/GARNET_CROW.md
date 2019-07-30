@@ -1,6 +1,4 @@
-**GARNET CROW**是一组[日本樂團](../Page/日本.md "wikilink")，唱片公司为[GIZA
-studio](../Page/GIZA_studio.md "wikilink")，於1999年結成，2000年出道。以Neo
-Acoustic為主軸。結成初期沒有舉行任何演唱會，亦沒有在任何電視節目中表演，在2002年後才開始舉行演唱會及出演電視節目。2013年6月9日於最後一場演唱會中宣告解散。
+**GARNET CROW**是一组[日本](../Page/日本.md "wikilink")樂團，唱片公司为[GIZA studio](../Page/GIZA_studio.md "wikilink")，於1999年結成，2000年出道。以Neo Acoustic為主軸。結成初期沒有舉行任何演唱會，亦沒有在任何電視節目中表演，在2002年後才開始舉行演唱會及出演電視節目。2013年6月9日於最後一場演唱會中宣告解散。
 
 ## 樂團情報
 
@@ -8,9 +6,7 @@ Acoustic為主軸。結成初期沒有舉行任何演唱會，亦沒有在任何
 
   - 1、樂隊名的由來：關鍵詞“GARNET”（石榴石）
 
-關於“GARNET
-CROW”這個名字的由來，是出自某種名為“GARNET”的具有深邃紅色的寶石。“表示希望追尋更深的音樂性之意，另一方面，為了使得整體聽起來更悅耳而加上了CROW這個詞”──樂隊的成員們是這樣介紹的。除此之外，還有所謂“鮮紅的玻璃”這種只可意會不可言傳的想法，也一併加以考慮進去了。由利在電台的節目《GOOD
-DAY RIVERSIDE》上的訪問有提到：
+關於“GARNET CROW”這個名字的由來，是出自某種名為“GARNET”的具有深邃紅色的寶石。“表示希望追尋更深的音樂性之意，另一方面，為了使得整體聽起來更悅耳而加上了CROW這個詞”──樂隊的成員們是這樣介紹的。除此之外，還有所謂“鮮紅的玻璃”這種只可意會不可言傳的想法，也一併加以考慮進去了。由利在電台的節目《GOOD DAY RIVERSIDE》上的訪問有提到：
 
 > 這種寶石的顏色並不像紅寶石那麼鮮紅，但也不是說它是黑色，而是讓人覺得寶石的中心似深紅色或者說是暗紅色。就是說不上來（在音樂方面）的樸素感吧！從這么有質感的顏色看來總覺得有某種微妙差異，也可說對於音樂的某種微妙協調感等，似乎想表現著某種更深的意義。便決定用“GARNET”了。“CROW”是[烏鴉之意](https://zh.wikipedia.org/wiki/烏鴉 "wikilink")。
 
@@ -18,18 +14,13 @@ GARNET CROW於1999年成立，四位成員都屬優秀的實力派音樂人，�
 
   - 2、樂隊成員由[中村由利](../Page/中村由利.md "wikilink")、[AZUKI七](../Page/AZUKI七.md "wikilink")、[岡本仁志](https://zh.wikipedia.org/wiki/岡本仁志 "wikilink")、[古井弘人四人組成](https://zh.wikipedia.org/wiki/古井弘人 "wikilink")。
 
-雖然古井是實際上的領隊，但是在官方網站上是從樂隊主音中村由利為最先順次進行介紹的。樂隊全作曲、主唱是[中村由利](../Page/中村由利.md "wikilink")，全作詞、鍵盤手[AZUKI七](../Page/AZUKI七.md "wikilink")，再加上吉他手岡本和編曲兼鍵盤手古井。GARNET
-CROW是個全創作樂團，無論是現場LIVE還是音樂創作都有著明確的分工，而且在作為音樂製作流程中主干部分的作曲、作詞、編曲等方面全部都是樂隊成員們一手包辦的。
+雖然古井是實際上的領隊，但是在官方網站上是從樂隊主音中村由利為最先順次進行介紹的。樂隊全作曲、主唱是[中村由利](../Page/中村由利.md "wikilink")，全作詞、鍵盤手[AZUKI七](../Page/AZUKI七.md "wikilink")，再加上吉他手岡本和編曲兼鍵盤手古井。GARNET CROW是個全創作樂團，無論是現場LIVE還是音樂創作都有著明確的分工，而且在作為音樂製作流程中主干部分的作曲、作詞、編曲等方面全部都是樂隊成員們一手包辦的。
 
   - 3、成立經過與概述：
 
-四人於1999年在美國製作[倉木麻衣的DEMO帶時相識](../Page/倉木麻衣.md "wikilink")，感到在創作方面意氣相投，這為樂團的成立提供了契機。在那時除了中村由利之外的三人，一方面為[Being,Inc.中的其他藝人提供樂曲](https://zh.wikipedia.org/wiki/Being,Inc. "wikilink")，同時也以輔助支援為主進行各種活動。在當時，只有由利算是新人。之後由利引用自己的話說，就是“那時就已立下了以幕後音樂製作人作為自己工作的志向，至於後來就擔當了能夠廣泛活動的作曲、主唱”這樣。
+四人於1999年在美國製作[倉木麻衣](../Page/倉木麻衣.md "wikilink")的DEMO帶時相識，感到在創作方面意氣相投，這為樂團的成立提供了契機。在那時除了中村由利之外的三人，一方面為[Being,Inc.中的其他藝人提供樂曲](https://zh.wikipedia.org/wiki/Being,Inc. "wikilink")，同時也以輔助支援為主進行各種活動。在當時，只有由利算是新人。之後由利引用自己的話說，就是“那時就已立下了以幕後音樂製作人作為自己工作的志向，至於後來就擔當了能夠廣泛活動的作曲、主唱”這樣。
 
-GARNET CROW的作品以“neo acoustic”作為主要的風格。在出道時，他們把自己的音樂性質稱為“21世紀形態的neo
-acoustic”。最初作品是1999年Indies地下樂團時的迷你專輯，直到2000年才以雙出道單曲的模式正式出道。最初作風神祕，完全不上電視宣傳打歌，但是首張專輯就打入[ORICON榜第六名](https://zh.wikipedia.org/wiki/ORICON "wikilink")，而獲得了神之樂團的稱號。2002年在推出製作保留長達一年的單曲『夢みたあとで』後開始曝光，打開了知名度，並在同年初舉辦了首場大型巡迴演唱會，官方fan
-club G-NET成立。自此之後，他們將“為了舉行LIVE而製作CD”作為各種活動的中心，到了後期，GARNET
-CROW並未止步於單純的neo
-acoustic風格，而是進一步拓展了音樂內涵，在音樂創作中有意識地結合了現場演唱的經驗，同時還吸收了拉丁風格與canzone音樂的相關要素。
+GARNET CROW的作品以“neo acoustic”作為主要的風格。在出道時，他們把自己的音樂性質稱為“21世紀形態的neo acoustic”。最初作品是1999年Indies地下樂團時的迷你專輯，直到2000年才以雙出道單曲的模式正式出道。最初作風神祕，完全不上電視宣傳打歌，但是首張專輯就打入[ORICON榜第六名](https://zh.wikipedia.org/wiki/ORICON "wikilink")，而獲得了神之樂團的稱號。2002年在推出製作保留長達一年的單曲『夢みたあとで』後開始曝光，打開了知名度，並在同年初舉辦了首場大型巡迴演唱會，官方fan club G-NET成立。自此之後，他們將“為了舉行LIVE而製作CD”作為各種活動的中心，到了後期，GARNET CROW並未止步於單純的neo acoustic風格，而是進一步拓展了音樂內涵，在音樂創作中有意識地結合了現場演唱的經驗，同時還吸收了拉丁風格與canzone音樂的相關要素。
 
 ## 成員
 
@@ -38,144 +29,75 @@ acoustic風格，而是進一步拓展了音樂內涵，在音樂創作中有意
 
 1977年7月4日生，女性，匿稱是“ゆりっぺ”（Yurippe）。
 
-興趣是彈鋼琴、聽音樂、欣賞美術作品，受父母和身邊的朋友的影響很深。喜歡的音樂家有Bjork、[小紅莓樂隊](../Page/小紅莓樂隊.md "wikilink")、Sheryl
-Crow & Alanis Morissette。
+興趣是彈鋼琴、聽音樂、欣賞美術作品，受父母和身邊的朋友的影響很深。喜歡的音樂家有Bjork、[小紅莓樂隊](../Page/小紅莓樂隊.md "wikilink")、Sheryl Crow & Alanis Morissette。
 
-另外，作為她本人和媒體都已經公認的事，是她與同為GARNET
-CROW成員的[AZUKI七的關係十分親密](../Page/AZUKI七.md "wikilink")，據說私生活中兩人的交往也很多。
+另外，作為她本人和媒體都已經公認的事，是她與同為GARNET CROW成員的[AZUKI七](../Page/AZUKI七.md "wikilink")的關係十分親密，據說私生活中兩人的交往也很多。
 
-**[AZUKI七](../Page/AZUKI七.md "wikilink")（あずき　なな）Azuki
-nana（正式寫法的Z字有一斜線）
+**[AZUKI七](../Page/AZUKI七.md "wikilink")（あずき　なな）Azuki nana（正式寫法的Z字有一斜線）
 ** **鍵盤／全作詞（Keyboard+Lyrics）**
 
 1974年7月29日生，女性。
 
-AZUKI七在台上彈琴的風格輕盈優雅，習慣的動作是凝視前方唱歌的由利，時不時會露出或迷惘或陶醉的表情，有時還會小聲地跟著唱。很喜歡欺負岡本。參加GARNET
-CROW很大一部分原因是因為她喜歡由利的聲音。其詩作與歌詞中飄浮著獨特瑰麗的世界觀，因此擁有眾多狂熱的FANS。另外，作為她本人和媒體都已經承認的事，是她與同為GARNET
-CROW成員的[中村由利的關係十分親密](../Page/中村由利.md "wikilink")，據說私生活中兩人的交往也很多（順帶一提，[中村由利的暱稱](../Page/中村由利.md "wikilink")“ゆりっぺ”就是她起的。從這些小地方大概可以看出浸透其中的生活樂趣吧）
+AZUKI七在台上彈琴的風格輕盈優雅，習慣的動作是凝視前方唱歌的由利，時不時會露出或迷惘或陶醉的表情，有時還會小聲地跟著唱。很喜歡欺負岡本。參加GARNET CROW很大一部分原因是因為她喜歡由利的聲音。其詩作與歌詞中飄浮著獨特瑰麗的世界觀，因此擁有眾多狂熱的FANS。另外，作為她本人和媒體都已經承認的事，是她與同為GARNET CROW成員的[中村由利](../Page/中村由利.md "wikilink")的關係十分親密，據說私生活中兩人的交往也很多（順帶一提，[中村由利](../Page/中村由利.md "wikilink")的暱稱“ゆりっぺ”就是她起的。從這些小地方大概可以看出浸透其中的生活樂趣吧）
 
-**[古井弘人](https://zh.wikipedia.org/wiki/古井弘人 "wikilink")（ふるい　ひろひと）Hirohito
-Furui**
+**[古井弘人](https://zh.wikipedia.org/wiki/古井弘人 "wikilink")（ふるい　ひろひと）Hirohito Furui**
 **全編曲／鍵盤（Designer+Keyboard）**
 1967.2.7生，日本的鍵盤演奏家、作曲家、編曲家、音樂家。
 
-在大學時代時與[DEEN的現任鍵盤手](../Page/DEEN.md "wikilink")[山根公路組過樂隊](https://zh.wikipedia.org/wiki/山根公路 "wikilink")。因“BADオーディション”（曾出過T-BOLAN、[大黑摩季等人](../Page/大黑摩季.md "wikilink")）為契機而進入了[Being,Inc.](https://zh.wikipedia.org/wiki/Being,Inc. "wikilink")。他一方面作為編曲為[DEEN](../Page/DEEN.md "wikilink")、[宇德敬子](https://zh.wikipedia.org/wiki/宇德敬子 "wikilink")、[小松未步等各位Being系藝人提供音樂](../Page/小松未步.md "wikilink")，同時也作為輔助成員中的一人出演音樂電視節目，最近還進行了限定音樂配信的活動。另外，他還不時地會參加[愛內里菜](../Page/愛內里菜.md "wikilink")、[倉木麻衣](../Page/倉木麻衣.md "wikilink")、[ZARD等人的支援樂隊](../Page/ZARD.md "wikilink")。在工作方面，古井還擔任了[GIZA
-studio公司的創作培養訓練學校](../Page/GIZA_studio.md "wikilink")（舊稱關西Creators學院）的講師。
+在大學時代時與[DEEN](../Page/DEEN.md "wikilink")的現任鍵盤手[山根公路組過樂隊](https://zh.wikipedia.org/wiki/山根公路 "wikilink")。因“BADオーディション”（曾出過T-BOLAN、[大黑摩季](../Page/大黑摩季.md "wikilink")等人）為契機而進入了[Being,Inc.](https://zh.wikipedia.org/wiki/Being,Inc. "wikilink")。他一方面作為編曲為[DEEN](../Page/DEEN.md "wikilink")、[宇德敬子](https://zh.wikipedia.org/wiki/宇德敬子 "wikilink")、[小松未步](../Page/小松未步.md "wikilink")等各位Being系藝人提供音樂，同時也作為輔助成員中的一人出演音樂電視節目，最近還進行了限定音樂配信的活動。另外，他還不時地會參加[愛內里菜](../Page/愛內里菜.md "wikilink")、[倉木麻衣](../Page/倉木麻衣.md "wikilink")、[ZARD](../Page/ZARD.md "wikilink")等人的支援樂隊。在工作方面，古井還擔任了[GIZA studio公司的創作培養訓練學校](../Page/GIZA_studio.md "wikilink")（舊稱關西Creators學院）的講師。
 
-古井有著親切、平易近人的性格，因此獲得了各位成員的絕大信賴。除此之外，在演奏和編曲方面的出眾才華也為他贏得了“God
-Hand”（上帝之手）的綽號。在現場演唱會上古井有著激情四射的台風（著名的古井流橫掃鍵盤……據說還曾激動得彈壞過鍵盤），這與他自己平常酷酷的作風形成了鮮明對比。他的個人興趣是收集太陽眼鏡，所以他也經常會帶著它們出現下各種場合裡（\[80，0\]裡收錄了一張小七偷拍的、大叔沒戴眼鏡在沙發上打盹的照片）。喜歡吃口味重的東西。受K-1的選手Michael
-McDonanld影響很深，據說古井自己的演奏模式就是看了他的拳賽後受到啟發的。喜歡的音樂沒有固定的類型，鐘愛的音樂家有David
-Foster, Stonecake, Cranberry Jam, Paul Weller。
+古井有著親切、平易近人的性格，因此獲得了各位成員的絕大信賴。除此之外，在演奏和編曲方面的出眾才華也為他贏得了“God Hand”（上帝之手）的綽號。在現場演唱會上古井有著激情四射的台風（著名的古井流橫掃鍵盤……據說還曾激動得彈壞過鍵盤），這與他自己平常酷酷的作風形成了鮮明對比。他的個人興趣是收集太陽眼鏡，所以他也經常會帶著它們出現下各種場合裡（\[80，0\]裡收錄了一張小七偷拍的、大叔沒戴眼鏡在沙發上打盹的照片）。喜歡吃口味重的東西。受K-1的選手Michael McDonanld影響很深，據說古井自己的演奏模式就是看了他的拳賽後受到啟發的。喜歡的音樂沒有固定的類型，鐘愛的音樂家有David Foster, Stonecake, Cranberry Jam, Paul Weller。
 
-**[岡本仁志](https://zh.wikipedia.org/wiki/岡本仁志 "wikilink")（おかもと　ひとし）Hitoshi
-Okamoto（原名岡本仁，两者的日文发音完全相同）
+**[岡本仁志](https://zh.wikipedia.org/wiki/岡本仁志 "wikilink")（おかもと　ひとし）Hitoshi Okamoto（原名岡本仁，两者的日文发音完全相同）
 ** **吉他手（Guitar）**
 
 1976.6.12生，日本的吉他手、作曲家。血型分類A型。同志社大學工程系畢業。
 
-岡本仁志在大學時代裡就作為自創樂隊的一員進行著各種小型LIVE演奏活動。之後他因為所屬樂隊的活動終止，而作為求職活動的一環把自己製作的DEMO帶送到了當時的[Being,Inc.](https://zh.wikipedia.org/wiki/Being,Inc. "wikilink")，由此為契機而加入了[GIZA
-studio公司](../Page/GIZA_studio.md "wikilink")。在剛加入的時候沒有什麼活動，並沒能走上台面，但從1999年以來便開始進行面向公眾的音樂活動。1999年4月7日，同屬Being旗下的ZARD推出了單曲“MILD
-GAMES”，其中收錄了他作為“岡本仁”而進行作曲、編曲、配樂的曲子“Hypnosis”──這是岡本的作品中最早公諸於世的樂曲。同年8月31日他作為主音吉他參加了ZARD的船上演唱會（這時候岡本留著像牙買加音樂家一樣的三股髮型）。此外，他也向[小松未步](../Page/小松未步.md "wikilink")、[倉木麻衣](../Page/倉木麻衣.md "wikilink")、[菅崎茜等藝人提供大量的音樂](https://zh.wikipedia.org/wiki/菅崎茜 "wikilink")。之後，他參加了[倉木麻衣的全美DEMO製作](../Page/倉木麻衣.md "wikilink")，在這期間邂逅了當時還是新人，之後成為了出色的作曲家、歌手的[中村由利](../Page/中村由利.md "wikilink")、作詞家[AZUKI七](../Page/AZUKI七.md "wikilink")、編曲家[古井弘人](https://zh.wikipedia.org/wiki/古井弘人 "wikilink")。就這樣，意氣相投的四人一致推舉古井作領隊，由此成立了現下的GARNET
-CROW。
+岡本仁志在大學時代裡就作為自創樂隊的一員進行著各種小型LIVE演奏活動。之後他因為所屬樂隊的活動終止，而作為求職活動的一環把自己製作的DEMO帶送到了當時的[Being,Inc.](https://zh.wikipedia.org/wiki/Being,Inc. "wikilink")，由此為契機而加入了[GIZA studio公司](../Page/GIZA_studio.md "wikilink")。在剛加入的時候沒有什麼活動，並沒能走上台面，但從1999年以來便開始進行面向公眾的音樂活動。1999年4月7日，同屬Being旗下的ZARD推出了單曲“MILD GAMES”，其中收錄了他作為“岡本仁”而進行作曲、編曲、配樂的曲子“Hypnosis”──這是岡本的作品中最早公諸於世的樂曲。同年8月31日他作為主音吉他參加了ZARD的船上演唱會（這時候岡本留著像牙買加音樂家一樣的三股髮型）。此外，他也向[小松未步](../Page/小松未步.md "wikilink")、[倉木麻衣](../Page/倉木麻衣.md "wikilink")、[菅崎茜等藝人提供大量的音樂](https://zh.wikipedia.org/wiki/菅崎茜 "wikilink")。之後，他參加了[倉木麻衣](../Page/倉木麻衣.md "wikilink")的全美DEMO製作，在這期間邂逅了當時還是新人，之後成為了出色的作曲家、歌手的[中村由利](../Page/中村由利.md "wikilink")、作詞家[AZUKI七](../Page/AZUKI七.md "wikilink")、編曲家[古井弘人](https://zh.wikipedia.org/wiki/古井弘人 "wikilink")。就這樣，意氣相投的四人一致推舉古井作領隊，由此成立了現下的GARNET CROW。
 
-他從1999年12月4日起全職作為GARNET CROW的吉他手進行活動、自2000年3月2日後的活動開始多面兼顧，這就是岡本與GARNET
-CROW相平行的個人音樂創作的開始。2000年11月8日，以岡本仁志個人名義推出的單曲“First Fine
-Day”發售，從而開始了其個人活動。趁此機會，他把原名“岡本仁”改成了“岡本仁志”。自2004年1月22日舉行的麵包工房“Okamoto
-Night”以來，岡本的個人LIVE也在逐步順利進行中。當然，他的個人活躍對作為GARNET
-CROW成員的活動也有所影響：自2004年以來的大型巡迴演唱會上，GARNET
-CROW為本來是只擔任吉他手的岡本設定了一個“獨唱角”，即讓他作為主音隨意演唱GARNET
-CROW樂曲中的一首（如「千以上の言葉を並べても...」「Last
-love song」等）。另外，岡本還擔任了廣播節目“[Pastime
-Paradise](https://zh.wikipedia.org/wiki/Pastime_Paradise "wikilink")”的主持人（α-station
-周日播出），是現下的GARNET CROW中唯一一個有著自己個人節目的成員。
+他從1999年12月4日起全職作為GARNET CROW的吉他手進行活動、自2000年3月2日後的活動開始多面兼顧，這就是岡本與GARNET CROW相平行的個人音樂創作的開始。2000年11月8日，以岡本仁志個人名義推出的單曲“First Fine Day”發售，從而開始了其個人活動。趁此機會，他把原名“岡本仁”改成了“岡本仁志”。自2004年1月22日舉行的麵包工房“Okamoto Night”以來，岡本的個人LIVE也在逐步順利進行中。當然，他的個人活躍對作為GARNET CROW成員的活動也有所影響：自2004年以來的大型巡迴演唱會上，GARNET CROW為本來是只擔任吉他手的岡本設定了一個“獨唱角”，即讓他作為主音隨意演唱GARNET CROW樂曲中的一首（如「千以上の言葉を並べても...」「Last love song」等）。另外，岡本還擔任了廣播節目“[Pastime Paradise](https://zh.wikipedia.org/wiki/Pastime_Paradise "wikilink")”的主持人（α-station 周日播出），是現下的GARNET CROW中唯一一個有著自己個人節目的成員。
 
-說到岡本個人的作品，大多是以吉他為主的各種樂器進行演奏錄製的。作曲和歌唱都是他以自己的風格、在自家的錄音室“Okamoto
-Lab”裡一手包辦，至於歌詞就主要由AZUKI七提供。在作曲時，岡本會一邊自己用吉他伴奏，一邊以鼻音為主哼著旋律。
-岡本的愛好是上網。特長是倒下就能睡著，而且幾乎不會生病。喜歡的音樂有Teenage Fan Club，Jellyfish，Summercap &
-Toiling Midgets。綽號是Okamochi、Charismatic Guitarist（由利在演唱會上的介紹）、大餅。
+說到岡本個人的作品，大多是以吉他為主的各種樂器進行演奏錄製的。作曲和歌唱都是他以自己的風格、在自家的錄音室“Okamoto Lab”裡一手包辦，至於歌詞就主要由AZUKI七提供。在作曲時，岡本會一邊自己用吉他伴奏，一邊以鼻音為主哼著旋律。 岡本的愛好是上網。特長是倒下就能睡著，而且幾乎不會生病。喜歡的音樂有Teenage Fan Club，Jellyfish，Summercap & Toiling Midgets。綽號是Okamochi、Charismatic Guitarist（由利在演唱會上的介紹）、大餅。
 
 ## 樂器
 
 雖然樂器的擔任者是由AZUKI七、岡本仁志、古井弘人三位以二鍵一吉為主，但在不同情況時，AZUKI七也會使用長笛，中村使用[铃鼓](https://zh.wikipedia.org/wiki/铃鼓 "wikilink")（[タンブリン](../Page/鈴鼓.md "wikilink")）來演奏。
 
-至於AZUKI七和古井弘人雖然同樣是鍵盤，但在器材的數量和音色上有著相當的分別。AZUKI七在2004年的2nd
-LIVE以來，只使用一種類的鍵盤，而古井則使用多數的鍵盤。在音色上，AZUKI七以鋼琴的音色彈奏，古井卻是靈活運動電子音合成管風琴等多彩的音色。在第一張DVD裡，古井被标记为「Keyboards」，AZUKI七被标记为「Pianos」。
+至於AZUKI七和古井弘人雖然同樣是鍵盤，但在器材的數量和音色上有著相當的分別。AZUKI七在2004年的2nd LIVE以來，只使用一種類的鍵盤，而古井則使用多數的鍵盤。在音色上，AZUKI七以鋼琴的音色彈奏，古井卻是靈活運動電子音合成管風琴等多彩的音色。在第一張DVD裡，古井被标记为「Keyboards」，AZUKI七被标记为「Pianos」。
 
 ## 音樂製作
 
-[garnet_crow_process.png](https://zh.wikipedia.org/wiki/File:garnet_crow_process.png "fig:garnet_crow_process.png")
-在綜合了各種訪談和雜誌之後，我們可以勾勒出**GC音樂製作的具體流程圖**：先由[中村由利作曲](../Page/中村由利.md "wikilink")、寫出旋律，之後由古井編曲，岡本配吉他合弦，[AZUKI七進行作詞](../Page/AZUKI七.md "wikilink")。編曲與作詞的前後順序並不固定。
+[garnet_crow_process.png](https://zh.wikipedia.org/wiki/File:garnet_crow_process.png "fig:garnet_crow_process.png") 在綜合了各種訪談和雜誌之後，我們可以勾勒出**GC音樂製作的具體流程圖**：先由[中村由利](../Page/中村由利.md "wikilink")作曲、寫出旋律，之後由古井編曲，岡本配吉他合弦，[AZUKI七](../Page/AZUKI七.md "wikilink")進行作詞。編曲與作詞的前後順序並不固定。
 
-首先，在擇定要製作的曲目後，由利會把旋律記錄下來並製成DEMO帶。關於這點，據在由利身邊等待DEMO出爐的[AZUKI七說](../Page/AZUKI七.md "wikilink")，“DEMO裡的旋律會先用簡單的英文唱出來，然後進行第二次錄製”這樣。
-若是DEMO順利地完成了，GARNET CROW就會開始進行選曲的工作。當然，這並不是能任由GARNET
-CROW完全自行決定的。以“君の思い描いた夢
-集メルHEAVEN”為例，它需要讓起用這首曲子的企業也介入選曲的流程中來。但是，作品內容和商業執行的關係也並非是一成不變的。像“籟·來·也”這樣編曲、作詞都已經完成的作品，有時也會直接被企業方起用。
+首先，在擇定要製作的曲目後，由利會把旋律記錄下來並製成DEMO帶。關於這點，據在由利身邊等待DEMO出爐的[AZUKI七](../Page/AZUKI七.md "wikilink")說，“DEMO裡的旋律會先用簡單的英文唱出來，然後進行第二次錄製”這樣。 若是DEMO順利地完成了，GARNET CROW就會開始進行選曲的工作。當然，這並不是能任由GARNET CROW完全自行決定的。以“君の思い描いた夢 集メルHEAVEN”為例，它需要讓起用這首曲子的企業也介入選曲的流程中來。但是，作品內容和商業執行的關係也並非是一成不變的。像“籟·來·也”這樣編曲、作詞都已經完成的作品，有時也會直接被企業方起用。
 
-**編曲與作詞的先後順序並不固定。既有著同時進行的場合，也有著某一方現行的情況。**
-古井在進行編曲時會同時使用上synthesizer（一種為鍵盤準備的用於電子合成的設備）和電腦，並以“全副熱情的狀態”為基礎而投入工作。至於岡本的吉他旋律，則是在綜合了古井的意見與自己的點子後，對前者提供的伴奏部分加以合成並敲定錄製的。
-雖然大多數時候都是古井單獨擔任編曲工作，但是偶爾GARNET
-CROW也會將其拜托給隸屬於波士頓[Cybersound音樂公司的](https://zh.wikipedia.org/wiki/Cybersound "wikilink")[Miguel
-Sá
-Pessoa這號人物](https://zh.wikipedia.org/wiki/Miguel_Sá_Pessoa "wikilink")。他的編曲風格是以鋼琴作為伴奏的主體，比如“水のない晴れた海へ”和“永遠を駆け抜ける一瞬の僕ら”就是其中的代表曲目。難得的是，Miguel還能很好地理解日語歌詞，並能緊扣詞的意境進行編製，從而揭示出曲子的某些新視點。因此，GARNET
-CROW的成員們給予了他非常高的評價。
+**編曲與作詞的先後順序並不固定。既有著同時進行的場合，也有著某一方現行的情況。** 古井在進行編曲時會同時使用上synthesizer（一種為鍵盤準備的用於電子合成的設備）和電腦，並以“全副熱情的狀態”為基礎而投入工作。至於岡本的吉他旋律，則是在綜合了古井的意見與自己的點子後，對前者提供的伴奏部分加以合成並敲定錄製的。 雖然大多數時候都是古井單獨擔任編曲工作，但是偶爾GARNET CROW也會將其拜托給隸屬於波士頓[Cybersound音樂公司的](https://zh.wikipedia.org/wiki/Cybersound "wikilink")[Miguel Sá Pessoa這號人物](https://zh.wikipedia.org/wiki/Miguel_Sá_Pessoa "wikilink")。他的編曲風格是以鋼琴作為伴奏的主體，比如“水のない晴れた海へ”和“永遠を駆け抜ける一瞬の僕ら”就是其中的代表曲目。難得的是，Miguel還能很好地理解日語歌詞，並能緊扣詞的意境進行編製，從而揭示出曲子的某些新視點。因此，GARNET CROW的成員們給予了他非常高的評價。
 
-至於作詞方面的工作，則基本上是由[AZUKI七一肩承擔](../Page/AZUKI七.md "wikilink")。在從由利或古井處拿到音樂DEMO之後，[AZUKI七通常會坐在房間裡的CD唱機旁](../Page/AZUKI七.md "wikilink")，在自己的身體處於“即將入睡”的狀態時開始歌詞的創作（在5週年寫真的訪談裡，小七曾談到這種“入睡前的放鬆狀態”是大腦最富創造力的時刻）。但是，在樂曲“夏の幻”的製作過程中則是“被從業人員們團團包圍住而寫著歌詞”（AZUKI七本人談）。
+至於作詞方面的工作，則基本上是由[AZUKI七](../Page/AZUKI七.md "wikilink")一肩承擔。在從由利或古井處拿到音樂DEMO之後，[AZUKI七](../Page/AZUKI七.md "wikilink")通常會坐在房間裡的CD唱機旁，在自己的身體處於“即將入睡”的狀態時開始歌詞的創作（在5週年寫真的訪談裡，小七曾談到這種“入睡前的放鬆狀態”是大腦最富創造力的時刻）。但是，在樂曲“夏の幻”的製作過程中則是“被從業人員們團團包圍住而寫著歌詞”（AZUKI七本人談）。
 
-值得一提的是，雖然[中村由利在作曲時腦海中所想定的意象並未傳達給](../Page/中村由利.md "wikilink")[AZUKI七知道](../Page/AZUKI七.md "wikilink")，但是兩人一致的情況卻占了絕大多數。特別是在單曲“君を飾る花を咲かそう”的創作中，出現下兩人腦中的畫面竟然完全的吻合，對此她們彼此都感到非常驚奇。
-（同樣是在五週年寫真的訪談原文中，由利曾提到“君を飾る花を咲かそう”所寫的是她的親身經歷：“當時在歸途的電車中，我看到了窗外雨後的彩虹。而AZUKIさん創作出來的歌詞中的最後一句居然就是‘最後の雨が虹に変わるよ’……總之，當我看到詞的時候真的嚇了一跳。那時的第一回應是‘哎？難道她當時也在那裡嗎？’。之後才忽然想到‘啊，我明明什麼事都沒對AZUKIさん說吧’
-這樣”──由利本人談）
+值得一提的是，雖然[中村由利](../Page/中村由利.md "wikilink")在作曲時腦海中所想定的意象並未傳達給[AZUKI七](../Page/AZUKI七.md "wikilink")知道，但是兩人一致的情況卻占了絕大多數。特別是在單曲“君を飾る花を咲かそう”的創作中，出現下兩人腦中的畫面竟然完全的吻合，對此她們彼此都感到非常驚奇。 （同樣是在五週年寫真的訪談原文中，由利曾提到“君を飾る花を咲かそう”所寫的是她的親身經歷：“當時在歸途的電車中，我看到了窗外雨後的彩虹。而AZUKIさん創作出來的歌詞中的最後一句居然就是‘最後の雨が虹に変わるよ’……總之，當我看到詞的時候真的嚇了一跳。那時的第一回應是‘哎？難道她當時也在那裡嗎？’。之後才忽然想到‘啊，我明明什麼事都沒對AZUKIさん說吧’ 這樣”──由利本人談）
 
-**在作詞調整、編曲、以及由利的歌唱錄音之後，整個工作就大概算是完成了。**其間會根據由利的歌聲特質，並同時緊密地配合著伴奏的強弱和樂器音色上的細微差別進行製作，不會太過深入地探究詞的內容。關於一首歌曲的製作方面既有很快的情況，也會有漫長的等待。比如三天就完成了的“夏の幻”，以及經過了一年以上製作的“夢みたあとで”和“夢·花火”。特別值得一提的是“夏の幻”，這首曲子在短短的三天之中，歌詞和編曲都經歷了大幅度的調整。關於這點，在第一張大碟中收錄的“夏の幻～secret
-arrange ver.～”就是在正式發售的單曲之前製作的原版本。
+**在作詞調整、編曲、以及由利的歌唱錄音之後，整個工作就大概算是完成了。**其間會根據由利的歌聲特質，並同時緊密地配合著伴奏的強弱和樂器音色上的細微差別進行製作，不會太過深入地探究詞的內容。關於一首歌曲的製作方面既有很快的情況，也會有漫長的等待。比如三天就完成了的“夏の幻”，以及經過了一年以上製作的“夢みたあとで”和“夢·花火”。特別值得一提的是“夏の幻”，這首曲子在短短的三天之中，歌詞和編曲都經歷了大幅度的調整。關於這點，在第一張大碟中收錄的“夏の幻～secret arrange ver.～”就是在正式發售的單曲之前製作的原版本。
 
-在曲子接近完成的時候，音樂的整體風格就會再一次基於古井的編曲以及[AZUKI七的填詞進行變更或增加](../Page/AZUKI七.md "wikilink")。對此，可以用“僕らだけの未来”這首歌具體舉例。“僕らだけの未来”當初是作為第三張大碟的候補收錄曲“サンドヒル”而進行製作的、一首充滿西班牙風情的拉丁樂曲。之後，為了配合單曲化的需要，GARNET
-CROW成員們對它做出了速度上的加快和偏向搖滾風的編曲調整；在名字更換成“僕らだけの未来”之後，歌詞上也相應地做了變化。如上所述，儘管這種作曲、編曲、作詞、歌唱錄音都屬於GARNET
-CROW成員各自的單獨工作，但他們也仍然會不時地召開碰頭會以便交換意見。
+在曲子接近完成的時候，音樂的整體風格就會再一次基於古井的編曲以及[AZUKI七](../Page/AZUKI七.md "wikilink")的填詞進行變更或增加。對此，可以用“僕らだけの未来”這首歌具體舉例。“僕らだけの未来”當初是作為第三張大碟的候補收錄曲“サンドヒル”而進行製作的、一首充滿西班牙風情的拉丁樂曲。之後，為了配合單曲化的需要，GARNET CROW成員們對它做出了速度上的加快和偏向搖滾風的編曲調整；在名字更換成“僕らだけの未来”之後，歌詞上也相應地做了變化。如上所述，儘管這種作曲、編曲、作詞、歌唱錄音都屬於GARNET CROW成員各自的單獨工作，但他們也仍然會不時地召開碰頭會以便交換意見。
 
-還有一個這方面的例子便是[AZUKI七的詩集](../Page/AZUKI七.md "wikilink")\[80，0\]。作為製作過程的一環，書中收錄了很多[AZUKI七自己拍攝的各位GARNET](../Page/AZUKI七.md "wikilink")
-CROW成員的照片，除此之外大家也會對書的相關內容提出建議。在作詞方面，負責此事的AZUKI七還曾經難得地從由利和從業人員那裡收到過對詞的內容進行相關修正的督導意見──這件事在[G-NET的](https://zh.wikipedia.org/wiki/G-NET "wikilink")[FAN
-CLUB會報上和相關訪談中都有披露過](https://zh.wikipedia.org/wiki/FAN_CLUB "wikilink")。而且，在第二張大碟的收錄樂曲“Holy
-Ground”的製作過程中[AZUKI七也曾對由利做出過很強烈的提議](../Page/AZUKI七.md "wikilink")，所以最後這首歌也是據此進行了演唱與收錄工作。
+還有一個這方面的例子便是[AZUKI七](../Page/AZUKI七.md "wikilink")的詩集\[80，0\]。作為製作過程的一環，書中收錄了很多[AZUKI七](../Page/AZUKI七.md "wikilink")自己拍攝的各位GARNET CROW成員的照片，除此之外大家也會對書的相關內容提出建議。在作詞方面，負責此事的AZUKI七還曾經難得地從由利和從業人員那裡收到過對詞的內容進行相關修正的督導意見──這件事在[G-NET的](https://zh.wikipedia.org/wiki/G-NET "wikilink")[FAN CLUB會報上和相關訪談中都有披露過](https://zh.wikipedia.org/wiki/FAN_CLUB "wikilink")。而且，在第二張大碟的收錄樂曲“Holy Ground”的製作過程中[AZUKI七](../Page/AZUKI七.md "wikilink")也曾對由利做出過很強烈的提議，所以最後這首歌也是據此進行了演唱與收錄工作。
 
-**在每首樂曲的收錄工作順利完成之後，還無法立即進入發售階段。這是因為還有著各種諸如“CD收錄曲的敲定與排序”、“各首曲子的完成度”、“樂曲之間風格的平衡”之類的理由，需要在發售之前進行討論與回顧檢查。**關於這方面，不妨以經歷過兩次延期收錄的曲子“Float
-World”為例加以說明。
+**在每首樂曲的收錄工作順利完成之後，還無法立即進入發售階段。這是因為還有著各種諸如“CD收錄曲的敲定與排序”、“各首曲子的完成度”、“樂曲之間風格的平衡”之類的理由，需要在發售之前進行討論與回顧檢查。**關於這方面，不妨以經歷過兩次延期收錄的曲子“Float World”為例加以說明。
 
-“Float
-World”這首歌，當初是作為在2003年9月10日發售的單曲“君という光”中的預定曲而公開的。但是在這之後，它卻被排除在了預定收錄的曲目之外。“Float
-World”的再次公佈則是在兩個月後的11月12日發售的大碟“Crystallize～君という光～”的收錄預定曲目中，當時的音樂雜誌上還登載過岡本對這首曲子的相關解說。然而，這首歌卻再次被排除在名單之外。最後的一次，終於是做為在2004年1月14日推出的單曲CD“僕らだけの未来”中的附加曲而收錄並發售了。像這樣不停地改變預定收錄的CD曲目的理由，主要是出於與其它收錄樂曲的風格平衡的考慮。另一方面，伴隨著大碟或是單曲的發售而進行的便是PV（Promotion
-Video）的拍攝工作。PV的拍攝場所主要是在作為[GIZA
-studio大本營的關西地區](../Page/GIZA_studio.md "wikilink")。除此之外，成員們個人發表作品的攝影地點，則主要是在大阪與神戶市內等地。
+“Float World”這首歌，當初是作為在2003年9月10日發售的單曲“君という光”中的預定曲而公開的。但是在這之後，它卻被排除在了預定收錄的曲目之外。“Float World”的再次公佈則是在兩個月後的11月12日發售的大碟“Crystallize～君という光～”的收錄預定曲目中，當時的音樂雜誌上還登載過岡本對這首曲子的相關解說。然而，這首歌卻再次被排除在名單之外。最後的一次，終於是做為在2004年1月14日推出的單曲CD“僕らだけの未来”中的附加曲而收錄並發售了。像這樣不停地改變預定收錄的CD曲目的理由，主要是出於與其它收錄樂曲的風格平衡的考慮。另一方面，伴隨著大碟或是單曲的發售而進行的便是PV（Promotion Video）的拍攝工作。PV的拍攝場所主要是在作為[GIZA studio大本營的關西地區](../Page/GIZA_studio.md "wikilink")。除此之外，成員們個人發表作品的攝影地點，則主要是在大阪與神戶市內等地。
 
 ## 相關媒體
 
-雖然GARNET CROW在各種媒體上的露面相對較少，但仍然有**幾種持續提供著他們的相關情報的大眾媒介。其中，主要以同樣從屬於[Being
-Group的各種出版物與發行機構的產品為中心](https://zh.wikipedia.org/wiki/Being_Group "wikilink")。**直到現下（2006年10月）為止，負責提供GARNET
-CROW相關情報的代表性媒體有官方網站和[Music Freak
-Magazine](https://zh.wikipedia.org/wiki/Music_Freak_Magazine "wikilink")（簡稱MFM）等等。官網上的內容主要是成員們的日記以及雜誌登載、TV演出的時間表之類的情報確認。至於MFM則是大型CD店中作為每月配送用的免費資料。其中有著一個名為“wordscope
-in MFM”的供GARNET
-CROW成員們用來閒談近況的每月連載小專欄，截止到2005年為止已經連載超過了50回。另一方面，由於MFM的出版社是從屬於[Being
-Group的](https://zh.wikipedia.org/wiki/Being_Group "wikilink")，所以會登載有很豐富的採訪與演唱會報告。
+雖然GARNET CROW在各種媒體上的露面相對較少，但仍然有**幾種持續提供著他們的相關情報的大眾媒介。其中，主要以同樣從屬於[Being Group的各種出版物與發行機構的產品為中心](https://zh.wikipedia.org/wiki/Being_Group "wikilink")。**直到現下（2006年10月）為止，負責提供GARNET CROW相關情報的代表性媒體有官方網站和[Music Freak Magazine](https://zh.wikipedia.org/wiki/Music_Freak_Magazine "wikilink")（簡稱MFM）等等。官網上的內容主要是成員們的日記以及雜誌登載、TV演出的時間表之類的情報確認。至於MFM則是大型CD店中作為每月配送用的免費資料。其中有著一個名為“wordscope in MFM”的供GARNET CROW成員們用來閒談近況的每月連載小專欄，截止到2005年為止已經連載超過了50回。另一方面，由於MFM的出版社是從屬於[Being Group的](https://zh.wikipedia.org/wiki/Being_Group "wikilink")，所以會登載有很豐富的採訪與演唱會報告。
 
-除此之外的情報志還有官方俱樂部[G-NET發行的每年四次的會刊](https://zh.wikipedia.org/wiki/G-NET "wikilink")“Garnetscope”。因為這是GARNET
-CROW的專用雜誌，所以其中刊載的情報質量非常高，在同類雜誌中是出類拔萃的。但是由於一年四次的發刊頻率所限，它和其它雜誌相比在情報速度上則略遜一籌。為了彌補這個缺點，會員可以在加入[G-NET的同時註冊自己的電子郵箱](https://zh.wikipedia.org/wiki/G-NET "wikilink")，之後便會有名為“G-NET
-Mailing News”的郵件不定時地發送過來，為各位FANS提供最新的情報。
+除此之外的情報志還有官方俱樂部[G-NET發行的每年四次的會刊](https://zh.wikipedia.org/wiki/G-NET "wikilink")“Garnetscope”。因為這是GARNET CROW的專用雜誌，所以其中刊載的情報質量非常高，在同類雜誌中是出類拔萃的。但是由於一年四次的發刊頻率所限，它和其它雜誌相比在情報速度上則略遜一籌。為了彌補這個缺點，會員可以在加入[G-NET的同時註冊自己的電子郵箱](https://zh.wikipedia.org/wiki/G-NET "wikilink")，之後便會有名為“G-NET Mailing News”的郵件不定時地發送過來，為各位FANS提供最新的情報。
 
-（G-NET是GARNET CROW的官方[FAN
-CLUB](https://zh.wikipedia.org/wiki/FAN_CLUB "wikilink")，2002年10月首次巡迴演唱會時同步開始招收會員。會員的福利主要有：專屬會員卡、入會特典、一年四期的會報、E-mail
-news、演唱會可以優先訂票、特別周邊商品、會員限定活動等等。入會費1000yen，年費3000yen。G-net首次舉辦的活動是“GARNET
-CROW filmscope2005”
-2005年4月2日、3日、9日在大阪麵包工房，29日在東京。現場播放了未公開影像、PV、團員comment.
-message和Q\&A等等並有限定商品──由利的拖鞋、AZUKI七的項鍊、岡本的毛帽子、古井的God Hand
-T-shirt──的販賣。其它還有馬克杯、手機鏈等等，以及團員準備的特別的禮物。2006年的相關活動則是於2月13、14日舉辦的只給會員的GC情人節特別演唱會。）
+（G-NET是GARNET CROW的官方[FAN CLUB](https://zh.wikipedia.org/wiki/FAN_CLUB "wikilink")，2002年10月首次巡迴演唱會時同步開始招收會員。會員的福利主要有：專屬會員卡、入會特典、一年四期的會報、E-mail news、演唱會可以優先訂票、特別周邊商品、會員限定活動等等。入會費1000yen，年費3000yen。G-net首次舉辦的活動是“GARNET CROW filmscope2005” 2005年4月2日、3日、9日在大阪麵包工房，29日在東京。現場播放了未公開影像、PV、團員comment. message和Q\&A等等並有限定商品──由利的拖鞋、AZUKI七的項鍊、岡本的毛帽子、古井的God Hand T-shirt──的販賣。其它還有馬克杯、手機鏈等等，以及團員準備的特別的禮物。2006年的相關活動則是於2月13、14日舉辦的只給會員的GC情人節特別演唱會。）
 
-目前，除了以上所提到的各種相關媒體仍在運作之外，以前還曾有著**“GARNET TIME”、“アンダウン上岡本的連載專欄”、“J-groove
-magazine的攝影專題及採訪**”等種種情報志存在著。
+目前，除了以上所提到的各種相關媒體仍在運作之外，以前還曾有著**“GARNET TIME”、“アンダウン上岡本的連載專欄”、“J-groove magazine的攝影專題及採訪**”等種種情報志存在著。
 
-“GARNET TIME”是2002年6月至2003年10月之間在SKY PerfecTV\!The Music 272上播出的、GARNET
-CROW專屬的電視系列節目。它每隔周四晚間約12:00開始播出，每集約15分鐘，以岡本作為旁白，由利和AZUKI七交替擔任每一回的主持人，古井也會時不時地作為嘉賓出現。雖然GARNET
-TIME以樂隊全員的互動作為看點，但還是於2003年10月停止播出了。之後，作為播放局的The Music
-272自身也於2005年6月倒閉。儘管SKY PerfecTV\!曾將The
-Music272作為一個節目組重新投入播出，但是GARNET TIME並沒有繼續播放下去。
+“GARNET TIME”是2002年6月至2003年10月之間在SKY PerfecTV\!The Music 272上播出的、GARNET CROW專屬的電視系列節目。它每隔周四晚間約12:00開始播出，每集約15分鐘，以岡本作為旁白，由利和AZUKI七交替擔任每一回的主持人，古井也會時不時地作為嘉賓出現。雖然GARNET TIME以樂隊全員的互動作為看點，但還是於2003年10月停止播出了。之後，作為播放局的The Music 272自身也於2005年6月倒閉。儘管SKY PerfecTV\!曾將The Music272作為一個節目組重新投入播出，但是GARNET TIME並沒有繼續播放下去。
 
 **GARNET TIME的具體內容：**
 
@@ -189,27 +111,19 @@ Load of the Folk：介紹早期的西洋民歌歌手或樂團。
 Seven's song：觀眾寫俳句投稿，由AZUKI七來評分的單元。
 **GARNET TIME共通的單元：**
 
-call my name：回答觀眾提問。
-魅惑のGARNET：由利與[AZUKI七向彼此互相提問並回答的單元](../Page/AZUKI七.md "wikilink")
-仁志におまかせ！：[岡本仁志的單元](https://zh.wikipedia.org/wiki/岡本仁志 "wikilink")，負責解決觀眾的疑難雜症。
-あの人：[古井弘人的單元](https://zh.wikipedia.org/wiki/古井弘人 "wikilink")，與大叔對決吧！！
+call my name：回答觀眾提問。 魅惑のGARNET：由利與[AZUKI七](../Page/AZUKI七.md "wikilink")向彼此互相提問並回答的單元 仁志におまかせ！：[岡本仁志的單元](https://zh.wikipedia.org/wiki/岡本仁志 "wikilink")，負責解決觀眾的疑難雜症。 あの人：[古井弘人的單元](https://zh.wikipedia.org/wiki/古井弘人 "wikilink")，與大叔對決吧！！
 
-除了以上的固定單元外，GARNET TIME裡也不時地會有GARNET CROW最新消息、演唱會報導、CD封面或PV拍攝花絮、GARNET
-CROW內幕大公開以及贈與觀眾的禮品。（例如：情人節卡片、納豆巧克力、小熊娃娃、月歷、電影周邊等等）
+除了以上的固定單元外，GARNET TIME裡也不時地會有GARNET CROW最新消息、演唱會報導、CD封面或PV拍攝花絮、GARNET CROW內幕大公開以及贈與觀眾的禮品。（例如：情人節卡片、納豆巧克力、小熊娃娃、月歷、電影周邊等等）
 
-『アンダウン』則是和MFM同樣由[Being
-Group出版的免費資料志](https://zh.wikipedia.org/wiki/Being_Group "wikilink")。其中有著岡本連載的名為“岡本仁志のドントビークルエル\~冷たくしないで\~”的專欄。這本雜誌於2003年11月休刊，於是連載也隨之中斷了。至於J-groove
-magazine是一本每月27日由J-ROCK
-MAGAZINE出版，定價580yen的Being旗下雜誌。每期都有一個主題，有[Being系歌手樂團的新曲訪談](https://zh.wikipedia.org/wiki/Being系 "wikilink")、演唱會報導，有[小松未步](../Page/小松未步.md "wikilink")、[倉木麻衣等人的專欄連載](../Page/倉木麻衣.md "wikilink")。在內容方面，JGM儘管沒有定期連載的專欄，但與其他的音樂雜誌相比，它卻有著詳細的文章報道和本刊專用的成員攝影專題，於2006年5月號正式休刊。
+『アンダウン』則是和MFM同樣由[Being Group出版的免費資料志](https://zh.wikipedia.org/wiki/Being_Group "wikilink")。其中有著岡本連載的名為“岡本仁志のドントビークルエル\~冷たくしないで\~”的專欄。這本雜誌於2003年11月休刊，於是連載也隨之中斷了。至於J-groove magazine是一本每月27日由J-ROCK MAGAZINE出版，定價580yen的Being旗下雜誌。每期都有一個主題，有[Being系歌手樂團的新曲訪談](https://zh.wikipedia.org/wiki/Being系 "wikilink")、演唱會報導，有[小松未步](../Page/小松未步.md "wikilink")、[倉木麻衣](../Page/倉木麻衣.md "wikilink")等人的專欄連載。在內容方面，JGM儘管沒有定期連載的專欄，但與其他的音樂雜誌相比，它卻有著詳細的文章報道和本刊專用的成員攝影專題，於2006年5月號正式休刊。
 
-（GC的攝影專題以由利和小七為主要模特，下附GARNET
-CROW成員擔任封面的幾期封面和資料。順帶一提，經常出現下七由攝影現場左下角的那位大媽樣人物就是JGM的主編山田）
+（GC的攝影專題以由利和小七為主要模特，下附GARNET CROW成員擔任封面的幾期封面和資料。順帶一提，經常出現下七由攝影現場左下角的那位大媽樣人物就是JGM的主編山田）
 
 附：JGM中的GC封面期數和主題介紹圖，圖片出自GC專題站YAOF。：
 
 ## 作品
 
-所有銷售資料、最高位和登場回數以日本[Oricon提供的資料為準](../Page/Oricon.md "wikilink")。
+所有銷售資料、最高位和登場回數以日本[Oricon](../Page/Oricon.md "wikilink")提供的資料為準。
 
 ### 單曲
 
@@ -872,11 +786,8 @@ GZCA-5246/5247(通常盤)</p></td>
 
 ### 寫真和照片集
 
-  - LIVE ～GARNET CROW first live scope 2002～ 發行日：2003年2月5日 (ISBN
-    4-916019-35-0 C0073)）内容为2002年的first live
-    scope中的写真以及演唱会之后的个人采访和演唱会报告。
-  - GARNET CROW first photoscope～5th Anniversary～ 發行日：2005年1月21日（ISBN
-    4-916019-41-5 C0073）为2005年纪念5周年的写真集。还包括了全员的采访、资料、履历、作品列表。
+  - LIVE ～GARNET CROW first live scope 2002～ 發行日：2003年2月5日 (ISBN 4-916019-35-0 C0073)）内容为2002年的first live scope中的写真以及演唱会之后的个人采访和演唱会报告。
+  - GARNET CROW first photoscope～5th Anniversary～ 發行日：2005年1月21日（ISBN 4-916019-41-5 C0073）为2005年纪念5周年的写真集。还包括了全员的采访、资料、履历、作品列表。
 
 ## 个人名义的作品
 
@@ -884,23 +795,20 @@ GZCA-5246/5247(通常盤)</p></td>
 
 #### 参与的Single
 
-  - （2003年10月8日、BMCV-5005）此Single为[B'z結他手](../Page/B'z.md "wikilink")[松本孝弘的作品集中的一部](../Page/松本孝弘.md "wikilink")，其中歌曲均为老的一些Rock曲的翻唱，由[松本孝弘进行重新编配以及吉他出演](../Page/松本孝弘.md "wikilink")。这张Single中参与的兩位歌手为[倉木麻衣和](../Page/倉木麻衣.md "wikilink")[中村由利](../Page/中村由利.md "wikilink")。（参见下文Album中的THE
-    HIT PARADE）
+  - （2003年10月8日、BMCV-5005）此Single为[B'z](../Page/B'z.md "wikilink")結他手[松本孝弘](../Page/松本孝弘.md "wikilink")的作品集中的一部，其中歌曲均为老的一些Rock曲的翻唱，由[松本孝弘](../Page/松本孝弘.md "wikilink")进行重新编配以及吉他出演。这张Single中参与的兩位歌手为[倉木麻衣](../Page/倉木麻衣.md "wikilink")和[中村由利](../Page/中村由利.md "wikilink")。（参见下文Album中的THE HIT PARADE）
 
-最初是由在1978年以的名义发布的单曲。是具有[爱尔兰和](../Page/爱尔兰人.md "wikilink")[犹太](../Page/犹太人.md "wikilink")[血统的](https://zh.wikipedia.org/wiki/血统 "wikilink")，[美国父亲和](../Page/美国.md "wikilink")[日本母亲的](../Page/日本.md "wikilink")[混血儿](https://zh.wikipedia.org/wiki/混血儿 "wikilink")。
-此后这首歌曲被[中森明菜在翻唱过](../Page/中森明菜.md "wikilink")，收录在其专辑中，并两次在live中出演。[中森明菜的作品中此曲的风格并非rock而是轻钢琴伴奏](../Page/中森明菜.md "wikilink")。
+最初是由在1978年以的名义发布的单曲。是具有[爱尔兰和](../Page/爱尔兰人.md "wikilink")[犹太](../Page/犹太人.md "wikilink")[血统的](https://zh.wikipedia.org/wiki/血统 "wikilink")，[美国](../Page/美国.md "wikilink")父亲和[日本](../Page/日本.md "wikilink")母亲的[混血儿](https://zh.wikipedia.org/wiki/混血儿 "wikilink")。
+此后这首歌曲被[中森明菜](../Page/中森明菜.md "wikilink")在翻唱过，收录在其专辑中，并两次在live中出演。[中森明菜](../Page/中森明菜.md "wikilink")的作品中此曲的风格并非rock而是轻钢琴伴奏。
 
 #### 参与的Album
 
-  - GIZA studio R\&B RESPECT Vol.1 -six sisters
-    selection-（2001年12月5日、GZCA-5006）
+  - GIZA studio R\&B RESPECT Vol.1 -six sisters selection-（2001年12月5日、GZCA-5006）
 
-收錄6位歌手（[松田明子](https://zh.wikipedia.org/wiki/松田明子 "wikilink")，中村由利，[倉木麻衣](../Page/倉木麻衣.md "wikilink")，[松永安未](https://zh.wikipedia.org/wiki/松永安未 "wikilink")，[三好真美](https://zh.wikipedia.org/wiki/三好真美 "wikilink")，[愛內里菜所翻唱的英文歌曲](../Page/愛內里菜.md "wikilink")。
+收錄6位歌手（[松田明子](https://zh.wikipedia.org/wiki/松田明子 "wikilink")，中村由利，[倉木麻衣](../Page/倉木麻衣.md "wikilink")，[松永安未](https://zh.wikipedia.org/wiki/松永安未 "wikilink")，[三好真美](https://zh.wikipedia.org/wiki/三好真美 "wikilink")，[愛內里菜](../Page/愛內里菜.md "wikilink")所翻唱的英文歌曲。
 
   - GIZA studio MAI-K & FRIENDS HOTROD BEACH PARTY（2002年7月17日、GZCA-5017）
 
-收錄多位[GIZA
-Studio歌手唱的英文歌](https://zh.wikipedia.org/wiki/GIZA_Studio "wikilink")。
+收錄多位[GIZA Studio歌手唱的英文歌](https://zh.wikipedia.org/wiki/GIZA_Studio "wikilink")。
 
   - TAK MATSUMOTO「THE HIT PARADE」（2003年11月26日、BMCV-8009）
 
@@ -912,8 +820,7 @@ Studio歌手唱的英文歌](https://zh.wikipedia.org/wiki/GIZA_Studio "wikilink
 
 收錄數位GIZA歌手於hills麵包工場的演出。
 
-  - GIZA studio MAI-K & FRIENDS HOTROD BEACH PARTY Vol.1
-    〜2002夏〜（2002年11月6日、ONBD-7019）
+  - GIZA studio MAI-K & FRIENDS HOTROD BEACH PARTY Vol.1 〜2002夏〜（2002年11月6日、ONBD-7019）
 
 #### 参与的書籍
 
@@ -935,7 +842,7 @@ Studio歌手唱的英文歌](https://zh.wikipedia.org/wiki/GIZA_Studio "wikilink
 #### Album
 
 1.  a first fine day（2002年3月20日、GZCA-5012）
-2.  FF/REWIND（2004年11月17日、GZCA-5050）（[Oricon公信榜最高](../Page/Oricon.md "wikilink")154位）
+2.  FF/REWIND（2004年11月17日、GZCA-5050）（[Oricon](../Page/Oricon.md "wikilink")公信榜最高154位）
 3.  Now Printing... （2010年12月8日、GZCA-5232）（SUPER LIGHT名義）
 
 ### 古井弘人
@@ -956,7 +863,7 @@ Studio歌手唱的英文歌](https://zh.wikipedia.org/wiki/GIZA_Studio "wikilink
 
   - Graduation 主唱：三枝夕夏IN db（收錄於三枝夕夏IN db MiniAlbum Secret & Lies中）
 
-  - 主唱：ZARD（收錄於[ZARD同名大碟中](../Page/ZARD.md "wikilink")）
+  - 主唱：ZARD（收錄於[ZARD](../Page/ZARD.md "wikilink")同名大碟中）
 
 ### AZUKI 七提供的歌詞
 
@@ -1016,14 +923,11 @@ Studio歌手唱的英文歌](https://zh.wikipedia.org/wiki/GIZA_Studio "wikilink
 
   - 主唱：[竹井詩織里](../Page/竹井詩織里.md "wikilink")
 
-  - To Beat The Blues
-    主唱：[高冈亚衣](https://zh.wikipedia.org/wiki/高冈亚衣 "wikilink")
+  - To Beat The Blues 主唱：[高冈亚衣](https://zh.wikipedia.org/wiki/高冈亚衣 "wikilink")
 
-  - Summer Flooding
-    主唱：[高冈亚衣](https://zh.wikipedia.org/wiki/高冈亚衣 "wikilink")
+  - Summer Flooding 主唱：[高冈亚衣](https://zh.wikipedia.org/wiki/高冈亚衣 "wikilink")
 
-  - Never to Return
-    主唱：[高冈亚衣](https://zh.wikipedia.org/wiki/高冈亚衣 "wikilink")
+  - Never to Return 主唱：[高冈亚衣](https://zh.wikipedia.org/wiki/高冈亚衣 "wikilink")
 
   - 主唱：[高冈亚衣](https://zh.wikipedia.org/wiki/高冈亚衣 "wikilink")
 
@@ -1033,8 +937,7 @@ Studio歌手唱的英文歌](https://zh.wikipedia.org/wiki/GIZA_Studio "wikilink
 
   - 主唱：[菅崎茜](https://zh.wikipedia.org/wiki/菅崎茜 "wikilink")（作曲）
 
-  - (Boyfriend)
-    主唱：[菅崎茜](https://zh.wikipedia.org/wiki/菅崎茜 "wikilink")（作曲）
+  - (Boyfriend) 主唱：[菅崎茜](https://zh.wikipedia.org/wiki/菅崎茜 "wikilink")（作曲）
 
   - 主唱：[高岡亞衣](https://zh.wikipedia.org/wiki/高岡亞衣 "wikilink")（編曲）
 
@@ -1076,18 +979,15 @@ Studio歌手唱的英文歌](https://zh.wikipedia.org/wiki/GIZA_Studio "wikilink
 
   - Hypnoss 主唱：[ZARD](../Page/ZARD.md "wikilink")（作曲）
 
-  - Juliet（收錄於大碟Diamond
-    Wave中）主唱：[倉木麻衣](../Page/倉木麻衣.md "wikilink")（作曲及編曲）
+  - Juliet（收錄於大碟Diamond Wave中）主唱：[倉木麻衣](../Page/倉木麻衣.md "wikilink")（作曲及編曲）
 
 ### 古井弘人提供的編曲及作曲
 
   - 主唱：[宇德敬子](https://zh.wikipedia.org/wiki/宇德敬子 "wikilink")（編曲）
 
-  - Woon Body
-    主唱：[宇德敬子](https://zh.wikipedia.org/wiki/宇德敬子 "wikilink")（編曲）
+  - Woon Body 主唱：[宇德敬子](https://zh.wikipedia.org/wiki/宇德敬子 "wikilink")（編曲）
 
-  - YEAI YEAI
-    主唱：[宇德敬子](https://zh.wikipedia.org/wiki/宇德敬子 "wikilink")（編曲）
+  - YEAI YEAI 主唱：[宇德敬子](https://zh.wikipedia.org/wiki/宇德敬子 "wikilink")（編曲）
 
   - 主唱：[宇德敬子](https://zh.wikipedia.org/wiki/宇德敬子 "wikilink")（編曲）
 
@@ -1167,16 +1067,13 @@ Studio歌手唱的英文歌](https://zh.wikipedia.org/wiki/GIZA_Studio "wikilink
 
   - happy ending 主唱：[小松未步](../Page/小松未步.md "wikilink")（編曲）
 
-  - Miss You
-    主唱：[爱内里菜](https://zh.wikipedia.org/wiki/爱内里菜 "wikilink")（編曲）
+  - Miss You 主唱：[爱内里菜](https://zh.wikipedia.org/wiki/爱内里菜 "wikilink")（編曲）
 
   - 夏の幻 主唱：[爱内里菜](https://zh.wikipedia.org/wiki/爱内里菜 "wikilink")（編曲）
 
-  - Fall in Love 主唱：[三枝夕夏 IN
-    db](https://zh.wikipedia.org/wiki/三枝夕夏_IN_db "wikilink")（編曲）
+  - Fall in Love 主唱：[三枝夕夏 IN db](https://zh.wikipedia.org/wiki/三枝夕夏_IN_db "wikilink")（編曲）
 
-  - Shocking Blue - rearrange version - 主唱：[三枝夕夏 IN
-    db](https://zh.wikipedia.org/wiki/三枝夕夏_IN_db "wikilink")（編曲）
+  - Shocking Blue - rearrange version - 主唱：[三枝夕夏 IN db](https://zh.wikipedia.org/wiki/三枝夕夏_IN_db "wikilink")（編曲）
 
 ## 收錄GC歌曲的合輯
 
@@ -1317,12 +1214,9 @@ Over Drive</p></td>
 
 ### 其他與GC有關的書／DVD
 
-1.  【DVD】GIZA studio R＆B PARTY at the "Hillsパン工場"\[堀江\]vol.1
-    發行日：2002年2月14日
-2.  【DVD】GIZA studio MAI-K\&FRIENDS HOTROD BEACH PARTY Vol.1～2002夏～
-    發行日：2002年11月6日
-3.  【BOOK】MAI-K ＆ FRIENDS HOTROD BEACH PARTY～Book Edition 2002～
-    發行日：2003年10月23日
+1.  【DVD】GIZA studio R＆B PARTY at the "Hillsパン工場"\[堀江\]vol.1 發行日：2002年2月14日
+2.  【DVD】GIZA studio MAI-K\&FRIENDS HOTROD BEACH PARTY Vol.1～2002夏～ 發行日：2002年11月6日
+3.  【BOOK】MAI-K ＆ FRIENDS HOTROD BEACH PARTY～Book Edition 2002～ 發行日：2003年10月23日
 
 ## 其他網站
 
@@ -1330,6 +1224,4 @@ Over Drive</p></td>
   - [Garnet Crow 官方網站](http://garnetcrow.com/)
   - [岡本仁志官方網頁](http://www.giza.co.jp/okamoto/)
 
-[Category:日本摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本摇滚乐团 "wikilink")
-[Category:GARNET_CROW](https://zh.wikipedia.org/wiki/Category:GARNET_CROW "wikilink")
-[Category:Being旗下藝人](https://zh.wikipedia.org/wiki/Category:Being旗下藝人 "wikilink")
+[Category:日本摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本摇滚乐团 "wikilink") [Category:GARNET_CROW](https://zh.wikipedia.org/wiki/Category:GARNET_CROW "wikilink") [Category:Being旗下藝人](https://zh.wikipedia.org/wiki/Category:Being旗下藝人 "wikilink")

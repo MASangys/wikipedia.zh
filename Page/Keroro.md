@@ -1,24 +1,21 @@
-**Keroro**（）是[吉崎觀音的漫畫作品](../Page/吉崎觀音.md "wikilink")《[Keroro軍曹](../Page/Keroro軍曹.md "wikilink")》中登場的外星人主角，[動畫版的](https://zh.wikipedia.org/wiki/Keroro軍曹_\(電視動畫\) "wikilink")[配音員為](../Page/聲優.md "wikilink")[渡邊久美子](../Page/渡邊久美子.md "wikilink")，[台灣為](https://zh.wikipedia.org/wiki/台灣 "wikilink")[雷碧文](../Page/雷碧文.md "wikilink")，[香港為](../Page/香港.md "wikilink")[陸惠玲](../Page/陸惠玲.md "wikilink")。
+**Keroro**（）是[吉崎觀音](../Page/吉崎觀音.md "wikilink")的漫畫作品《[Keroro軍曹](../Page/Keroro軍曹.md "wikilink")》中登場的外星人主角，[動畫版的](https://zh.wikipedia.org/wiki/Keroro軍曹_\(電視動畫\) "wikilink")[配音員為](../Page/聲優.md "wikilink")[渡邊久美子](../Page/渡邊久美子.md "wikilink")，[台灣為](https://zh.wikipedia.org/wiki/台灣 "wikilink")[雷碧文](../Page/雷碧文.md "wikilink")，[香港](../Page/香港.md "wikilink")為[陸惠玲](../Page/陸惠玲.md "wikilink")。
 
 ## 人物簡介
 
   - Keroro為的隊長，K隆軍的[軍銜為](https://zh.wikipedia.org/wiki/日本軍銜 "wikilink")[軍曹](https://zh.wikipedia.org/wiki/軍曹 "wikilink")，是「伽瑪星雲第58號行星·宇宙侵略軍特殊先遣部隊隊長」。
   - 地球的[血型為O型](https://zh.wikipedia.org/wiki/血型 "wikilink")。身體脂肪率為30%（參考自:動畫版第154集）。
   - 其生日日期換算為地球曆為**12月9日。**（參考自:動畫版第128集）
-  - 至於年齡方面並沒有詳細透露，但由於Keroro在[安哥爾·摩亞童年時已經認識了她](https://zh.wikipedia.org/wiki/安哥爾·摩亞 "wikilink")（摩亞現時的地球年齡為2000歲），可以推斷出Keroro的地球年齡大於2000歲（擔當Keroro的[聲優](../Page/聲優.md "wikilink")[渡邊久美子曾說到自己以](../Page/渡邊久美子.md "wikilink")45歲左右的感覺去聲演這個角色）。然而這是具爭議性的，因在漫畫單行本第7冊第56集中童年時代的Keroro曾玩過[Game
-    & Watch](../Page/Game_&_Watch.md "wikilink")\[1\]。
+  - 至於年齡方面並沒有詳細透露，但由於Keroro在[安哥爾·摩亞童年時已經認識了她](https://zh.wikipedia.org/wiki/安哥爾·摩亞 "wikilink")（摩亞現時的地球年齡為2000歲），可以推斷出Keroro的地球年齡大於2000歲（擔當Keroro的[聲優](../Page/聲優.md "wikilink")[渡邊久美子](../Page/渡邊久美子.md "wikilink")曾說到自己以45歲左右的感覺去聲演這個角色）。然而這是具爭議性的，因在漫畫單行本第7冊第56集中童年時代的Keroro曾玩過[Game & Watch](../Page/Game_&_Watch.md "wikilink")\[1\]。
   - 其年齡目前大於10500歲(見漫畫第230話)。
   - 雖然是小隊隊長，可是領導能力卻不高，隊長姿態不明顯。計劃侵略作戰時，失敗居多，並多數以自己利益為優先，不過在朋友有事，也會間中突顯不錯的隊長風範。
   - 最怕夏美，如果Keroro偷偷出外不做家務，夏美便會用酷刑對待他。
   - 因為每天都無無閒閒，所以Keroro爸爸曾要求Keroro與夏美相親，結果失敗。
   - 目前寄住在日向家，用Kero球在地下室弄了個侵略用的秘密基地，但基地的最大功用是放置他最喜愛的[鋼普拉](https://zh.wikipedia.org/wiki/鋼普拉 "wikilink")（[GUNDAM相關模型](https://zh.wikipedia.org/wiki/機動戰士鋼彈 "wikilink")）。
-  - 對地球的流行事物很了解，例如知曉[Q太郎和](../Page/Q太郎.md "wikilink")[宇多田光](../Page/宇多田光.md "wikilink")。
-  - 個人電腦使用[蘋果公司的](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")（初期為[iMac
-    G3](https://zh.wikipedia.org/wiki/iMac_G3 "wikilink")），漫畫初期時也在架設自己的個人網站。
+  - 對地球的流行事物很了解，例如知曉[Q太郎](../Page/Q太郎.md "wikilink")和[宇多田光](../Page/宇多田光.md "wikilink")。
+  - 個人電腦使用[蘋果公司的](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")（初期為[iMac G3](https://zh.wikipedia.org/wiki/iMac_G3 "wikilink")），漫畫初期時也在架設自己的個人網站。
   - 擅長於做家事和組裝鋼普拉，
   - 個性頗懶散，而且也貪財。
-  - 在濕度提升至超越K隆星的濕度時，會變成無敵狀態（動畫原創：並可發出類似「Tamama衝擊波」的「KinKin
-    K隆波」）。但因為不喜歡塗上防濕液，所以常因此轉變為暴走狀態。（動畫原創：下場是被Nyororo吸乾水分，也因此十分害怕Nyororo）\[2\]
+  - 在濕度提升至超越K隆星的濕度時，會變成無敵狀態（動畫原創：並可發出類似「Tamama衝擊波」的「KinKin K隆波」）。但因為不喜歡塗上防濕液，所以常因此轉變為暴走狀態。（動畫原創：下場是被Nyororo吸乾水分，也因此十分害怕Nyororo）\[2\]
   - 非常有搞笑天份，看到香蕉皮時會忍不住去踩，一踩下去大家就會陷入爆笑漩渦。
   - 常因時、地、物需要，或是純粹為了製造趣味而穿上不同的「藍星人Suit」（見單行本第15集第123話第106頁）。
   - 擁有類似Dororo所有的「心靈創傷開關」，接上後會對自己的錯失作剖白和道歉。
@@ -44,7 +41,7 @@
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/Giroro" title="wikilink">Giroro</a></p></td>
 <td><p>常用：Keroro<br />
-<a href="../Page/Cosplay.md" title="wikilink">Cosplay造型</a>、變身：藍天Kero子</p></td>
+<a href="../Page/Cosplay.md" title="wikilink">Cosplay</a>造型、變身：藍天Kero子</p></td>
 <td><p>常用：Giroro（）／紅色不倒翁／紅色的／Giroro老弟／赤達摩／Giroro伍長<br />
 分身後：被惡搞專用小咖<br />
 Cosplay造型、變身：厄魯莫團的伊郎</p></td>
@@ -141,7 +138,7 @@ Cosplay造型、變身：海原摩亞</p></td>
 </tbody>
 </table>
 
-## [Cosplay造型](../Page/Cosplay.md "wikilink")、變身
+## [Cosplay](../Page/Cosplay.md "wikilink")造型、變身
 
   -
   - Keroro軍曹重裝型（）
@@ -216,7 +213,7 @@ Cosplay造型、變身：海原摩亞</p></td>
 
   - [德古拉](../Page/德古拉.md "wikilink")（）
 
-  - [稻穗](../Page/稻.md "wikilink")→[米粒](https://zh.wikipedia.org/wiki/米 "wikilink")（）
+  - [稻](../Page/稻.md "wikilink")穗→[米粒](https://zh.wikipedia.org/wiki/米 "wikilink")（）
 
   - 交涉人 Keroro軍曹（）
 
@@ -226,7 +223,7 @@ Cosplay造型、變身：海原摩亞</p></td>
   -
   - 赫伯特·馮·Kero揚（）
 
-  - [桃面具](../Page/桃.md "wikilink")（）
+  - [桃](../Page/桃.md "wikilink")面具（）
 
   -
   - [戇豆先生](../Page/戇豆先生.md "wikilink")（）
@@ -250,8 +247,7 @@ Cosplay造型、變身：海原摩亞</p></td>
   - 標誌：黃色的星形（K隆之星）
   - 官階：軍曹，亦為的隊長
   - 喜歡的食物：楊桃（Star fruit）
-  - 小時候喜歡的人：[Pururu護士長](https://zh.wikipedia.org/wiki/Pururu "wikilink")
-    (但漫畫版的Keroro表示對Pururu護士長只有青梅竹馬之情)
+  - 小時候喜歡的人：[Pururu護士長](https://zh.wikipedia.org/wiki/Pururu "wikilink") (但漫畫版的Keroro表示對Pururu護士長只有青梅竹馬之情)
 
 ## Keroro的別個體
 
@@ -259,17 +255,17 @@ Cosplay造型、變身：海原摩亞</p></td>
   - [黑暗Keroro](https://zh.wikipedia.org/wiki/黑暗Keroro "wikilink")
   - Keroro的分身
 
-:\*[印度的Keroro](../Page/印度.md "wikilink")
+:\*[印度](../Page/印度.md "wikilink")的Keroro
 
 :\*[美國的Keroro](https://zh.wikipedia.org/wiki/美國 "wikilink")
 
-:\*[中國的Keroro](../Page/中國.md "wikilink")
+:\*[中國](../Page/中國.md "wikilink")的Keroro
 
-:\*[智利的Keroro](../Page/智利.md "wikilink")
+:\*[智利](../Page/智利.md "wikilink")的Keroro
 
 :\*[瑞士的Keroro](https://zh.wikipedia.org/wiki/瑞士 "wikilink")
 
-:\*[埃及的Keroro](../Page/埃及.md "wikilink")
+:\*[埃及](../Page/埃及.md "wikilink")的Keroro
 
 ## 註釋
 
@@ -282,10 +278,7 @@ Cosplay造型、變身：海原摩亞</p></td>
 
 [分類:虛構外星生命](https://zh.wikipedia.org/wiki/分類:虛構外星生命 "wikilink")
 
-[Category:Keroro軍曹登場人物](https://zh.wikipedia.org/wiki/Category:Keroro軍曹登場人物 "wikilink")
-[Category:虛構男性動漫角色](https://zh.wikipedia.org/wiki/Category:虛構男性動漫角色 "wikilink")
-[Category:虚构青蛙与蟾蜍](https://zh.wikipedia.org/wiki/Category:虚构青蛙与蟾蜍 "wikilink")
-[Category:虚构军人](https://zh.wikipedia.org/wiki/Category:虚构军人 "wikilink")
+[Category:Keroro軍曹登場人物](https://zh.wikipedia.org/wiki/Category:Keroro軍曹登場人物 "wikilink") [Category:虛構男性動漫角色](https://zh.wikipedia.org/wiki/Category:虛構男性動漫角色 "wikilink") [Category:虚构青蛙与蟾蜍](https://zh.wikipedia.org/wiki/Category:虚构青蛙与蟾蜍 "wikilink") [Category:虚构军人](https://zh.wikipedia.org/wiki/Category:虚构军人 "wikilink")
 
 1.  單行本第7冊第56集：《第五人報到！Dororo傳…之卷》，第51頁
 2.  Nyororo跟毒蛇一樣是K隆星人的天敵。在漫畫中並沒有設定Nyororo、金K隆波

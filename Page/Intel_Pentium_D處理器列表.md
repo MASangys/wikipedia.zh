@@ -1,5 +1,4 @@
-Pentium D / Pentium Extreme
-Edition為[英特爾推出的第七代微處理器](https://zh.wikipedia.org/wiki/英特爾 "wikilink")。
+Pentium D / Pentium Extreme Edition為[英特爾推出的第七代微處理器](https://zh.wikipedia.org/wiki/英特爾 "wikilink")。
 
 ## 雙核心桌面處理器
 
@@ -7,9 +6,7 @@ Edition為[英特爾推出的第七代微處理器](https://zh.wikipedia.org/wik
 
 #### "Smithfield" (90 nm)
 
-  - 指令集：[MMX](../Page/MMX.md "wikilink")，[SSE](../Page/SSE.md "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink"),
-    [XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")，[EM64T](https://zh.wikipedia.org/wiki/EM64T "wikilink")
+  - 指令集：[MMX](../Page/MMX.md "wikilink")，[SSE](../Page/SSE.md "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink"), [XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")，[EM64T](https://zh.wikipedia.org/wiki/EM64T "wikilink")
   - 830及840支援[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")
 
 | 型號            | s-Spec 代號  | 時脈頻率              | L2 快取記憶體  | [前端匯流排](https://zh.wikipedia.org/wiki/前端匯流排 "wikilink") | 電壓         | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") | 插槽                                       | 發行日期       |
@@ -21,10 +18,8 @@ Edition為[英特爾推出的第七代微處理器](https://zh.wikipedia.org/wik
 
 #### "Presler" (65 nm)
 
-  - 指令集：[MMX](../Page/MMX.md "wikilink")，[SSE](../Page/SSE.md "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")，[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")，[EM64T](https://zh.wikipedia.org/wiki/EM64T "wikilink")
-  - 920，930，940，950及960支援[Intel
-    VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")
+  - 指令集：[MMX](../Page/MMX.md "wikilink")，[SSE](../Page/SSE.md "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")，[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")，[EM64T](https://zh.wikipedia.org/wiki/EM64T "wikilink")
+  - 920，930，940，950及960支援[Intel VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")
 
 | 型號            | s-Spec 代號  | 時脈頻率              | L2 快取記憶體  | [前端匯流排](https://zh.wikipedia.org/wiki/前端匯流排 "wikilink") | 電壓          | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") | 插槽                                       | 發行日期       |
 | ------------- | ---------- | ----------------- | --------- | ------------------------------------------------------- | ----------- | --------------------------------------------------- | ---------------------------------------- | ---------- |
@@ -45,8 +40,7 @@ Edition為[英特爾推出的第七代微處理器](https://zh.wikipedia.org/wik
 
 #### "Smithfield" (90 nm)
 
-  - 指令集：[MMX](../Page/MMX.md "wikilink")，[SSE](../Page/SSE.md "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")，[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")，[EM64T](https://zh.wikipedia.org/wiki/EM64T "wikilink")，[超執行緒](../Page/超執行緒.md "wikilink")
+  - 指令集：[MMX](../Page/MMX.md "wikilink")，[SSE](../Page/SSE.md "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")，[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")，[EM64T](https://zh.wikipedia.org/wiki/EM64T "wikilink")，[超執行緒](../Page/超執行緒.md "wikilink")
 
 | 型號                          | s-Spec 代號  | 時脈頻率              | L2 快取記憶體  | [前端匯流排](https://zh.wikipedia.org/wiki/前端匯流排 "wikilink") | 電壓        | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") | 插槽                                       | 發行日期      |
 | --------------------------- | ---------- | ----------------- | --------- | ------------------------------------------------------- | --------- | --------------------------------------------------- | ---------------------------------------- | --------- |
@@ -54,8 +48,7 @@ Edition為[英特爾推出的第七代微處理器](https://zh.wikipedia.org/wik
 
 #### "Presler" (65 nm)
 
-  - 指令集：[MMX](../Page/MMX.md "wikilink")，[SSE](../Page/SSE.md "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")，[xD](../Page/NX位元.md "wikilink")，[EM64T](https://zh.wikipedia.org/wiki/EM64T "wikilink")，[超執行緒](../Page/超執行緒.md "wikilink")，[Intel
-    VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")
+  - 指令集：[MMX](../Page/MMX.md "wikilink")，[SSE](../Page/SSE.md "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")，[xD](../Page/NX位元.md "wikilink")，[EM64T](https://zh.wikipedia.org/wiki/EM64T "wikilink")，[超執行緒](../Page/超執行緒.md "wikilink")，[Intel VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")
 
 | 型號                          | s-Spec 代號          | 時脈頻率              | L2 快取記憶體  | [前端匯流排](https://zh.wikipedia.org/wiki/前端匯流排 "wikilink") | 電壓          | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") | 插槽                                       | 發行日期       |
 | --------------------------- | ------------------ | ----------------- | --------- | ------------------------------------------------------- | ----------- | --------------------------------------------------- | ---------------------------------------- | ---------- |
@@ -65,13 +58,10 @@ Edition為[英特爾推出的第七代微處理器](https://zh.wikipedia.org/wik
 ## 另見
 
   - [Pentium D](https://zh.wikipedia.org/wiki/Pentium_D "wikilink")
-  - [Pentium Extreme
-    Edition](https://zh.wikipedia.org/wiki/Pentium_Extreme_Edition "wikilink")
+  - [Pentium Extreme Edition](https://zh.wikipedia.org/wiki/Pentium_Extreme_Edition "wikilink")
 
 ## 外部連結
 
-[Pentium D/Pentium Extreme
-Edition技術資料](https://web.archive.org/web/20060426222841/http://balusc.xs4all.nl/srv/har-cpu-int-pd.php)
+[Pentium D/Pentium Extreme Edition技術資料](https://web.archive.org/web/20060426222841/http://balusc.xs4all.nl/srv/har-cpu-int-pd.php)
 
-[Category:Intel_x86處理器](https://zh.wikipedia.org/wiki/Category:Intel_x86處理器 "wikilink")
-[Category:Intel处理器列表](https://zh.wikipedia.org/wiki/Category:Intel处理器列表 "wikilink")
+[Category:Intel_x86處理器](https://zh.wikipedia.org/wiki/Category:Intel_x86處理器 "wikilink") [Category:Intel处理器列表](https://zh.wikipedia.org/wiki/Category:Intel处理器列表 "wikilink")

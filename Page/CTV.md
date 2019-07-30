@@ -66,10 +66,10 @@
 
 ## 其他
 
-  - （）：一種主要通過[蚜蟲和](https://zh.wikipedia.org/wiki/蚜蟲 "wikilink")[嫁接傳播的橘柑類病毒](../Page/嫁接.md "wikilink")
+  - （）：一種主要通過[蚜蟲和](https://zh.wikipedia.org/wiki/蚜蟲 "wikilink")[嫁接](../Page/嫁接.md "wikilink")傳播的橘柑類病毒
 
   - （）
 
-  - （）：[委內瑞拉的一個](../Page/委內瑞拉.md "wikilink")[工會組織](https://zh.wikipedia.org/wiki/工會 "wikilink")
+  - （）：[委內瑞拉](../Page/委內瑞拉.md "wikilink")的一個[工會組織](https://zh.wikipedia.org/wiki/工會 "wikilink")
 
   - （）：[西班牙內戰時參戰的意大利遠征軍](https://zh.wikipedia.org/wiki/西班牙內戰 "wikilink")

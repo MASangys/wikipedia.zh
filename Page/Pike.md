@@ -10,10 +10,4 @@
   -
   - [社区页面](http://www.gotpike.org/)
 
-[Category:跨平台軟體](https://zh.wikipedia.org/wiki/Category:跨平台軟體 "wikilink")
-[Category:自由編譯器與直譯器](https://zh.wikipedia.org/wiki/Category:自由編譯器與直譯器 "wikilink")
-[Category:面向对象的编程语言](https://zh.wikipedia.org/wiki/Category:面向对象的编程语言 "wikilink")
-[Category:脚本语言](https://zh.wikipedia.org/wiki/Category:脚本语言 "wikilink")
-[Category:使用GPL许可证的软件](https://zh.wikipedia.org/wiki/Category:使用GPL许可证的软件 "wikilink")
-[Category:使用LGPL许可证的软件](https://zh.wikipedia.org/wiki/Category:使用LGPL许可证的软件 "wikilink")
-[Category:使用MPL许可证的软件](https://zh.wikipedia.org/wiki/Category:使用MPL许可证的软件 "wikilink")
+[Category:跨平台軟體](https://zh.wikipedia.org/wiki/Category:跨平台軟體 "wikilink") [Category:自由編譯器與直譯器](https://zh.wikipedia.org/wiki/Category:自由編譯器與直譯器 "wikilink") [Category:面向对象的编程语言](https://zh.wikipedia.org/wiki/Category:面向对象的编程语言 "wikilink") [Category:脚本语言](https://zh.wikipedia.org/wiki/Category:脚本语言 "wikilink") [Category:使用GPL许可证的软件](https://zh.wikipedia.org/wiki/Category:使用GPL许可证的软件 "wikilink") [Category:使用LGPL许可证的软件](https://zh.wikipedia.org/wiki/Category:使用LGPL许可证的软件 "wikilink") [Category:使用MPL许可证的软件](https://zh.wikipedia.org/wiki/Category:使用MPL许可证的软件 "wikilink")

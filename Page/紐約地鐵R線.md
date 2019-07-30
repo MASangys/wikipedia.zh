@@ -1,6 +1,6 @@
-**R線百老匯慢車**（），又稱**紐約地鐵R線**，是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")的[地鐵路線](../Page/地鐵.md "wikilink")。由於該線在[曼哈頓使用](../Page/曼哈頓.md "wikilink")[BMT百老匯線](https://zh.wikipedia.org/wiki/BMT百老匯線 "wikilink")，因此其路線徽號為黃色\[1\]
+**R線百老匯慢車**（），又稱**紐約地鐵R線**，是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")的[地鐵](../Page/地鐵.md "wikilink")路線。由於該線在[曼哈頓](../Page/曼哈頓.md "wikilink")使用[BMT百老匯線](https://zh.wikipedia.org/wiki/BMT百老匯線 "wikilink")，因此其路線徽號為黃色\[1\]
 
-R線任何時候都營運。日間來往[森林小丘的](../Page/森林小丘.md "wikilink")[71大道與](https://zh.wikipedia.org/wiki/森林小丘-71大道車站_\(IND皇后林蔭路線\) "wikilink")的[95街](https://zh.wikipedia.org/wiki/灣脊區-95街車站_\(BMT第四大道線\) "wikilink")，停靠全線所有車站；早上繁忙時段有1班北行列車以曼哈頓[上東城的](https://zh.wikipedia.org/wiki/上東城 "wikilink")[96街／第二大道為總站](https://zh.wikipedia.org/wiki/96街車站_\(第二大道線\) "wikilink")，而不是71大道。深夜時來往[曼哈頓下城的](https://zh.wikipedia.org/wiki/曼哈頓下城 "wikilink")[白廳街-南碼頭與](https://zh.wikipedia.org/wiki/白廳街-南碼頭車站_\(BMT百老匯線\) "wikilink")95街。
+R線任何時候都營運。日間來往[森林小丘](../Page/森林小丘.md "wikilink")的[71大道與](https://zh.wikipedia.org/wiki/森林小丘-71大道車站_\(IND皇后林蔭路線\) "wikilink")的[95街](https://zh.wikipedia.org/wiki/灣脊區-95街車站_\(BMT第四大道線\) "wikilink")，停靠全線所有車站；早上繁忙時段有1班北行列車以曼哈頓[上東城的](https://zh.wikipedia.org/wiki/上東城 "wikilink")[96街／第二大道為總站](https://zh.wikipedia.org/wiki/96街車站_\(第二大道線\) "wikilink")，而不是71大道。深夜時來往[曼哈頓下城的](https://zh.wikipedia.org/wiki/曼哈頓下城 "wikilink")[白廳街-南碼頭與](https://zh.wikipedia.org/wiki/白廳街-南碼頭車站_\(BMT百老匯線\) "wikilink")95街。
 
 R線在皇后區沿[BMT阿斯托利亞線以慢車營運](https://zh.wikipedia.org/wiki/BMT阿斯托利亞線 "wikilink")，以[阿斯托利亞-迪特馬斯林蔭路為總站](https://zh.wikipedia.org/wiki/阿斯托利亞-迪特馬斯林蔭路車站_\(BMT阿斯托利亞線\) "wikilink")，直至1987年與N線對調總站。1988年至1992年間也曾以慢車營運至[牙買加-179街](https://zh.wikipedia.org/wiki/牙買加-179街車站_\(IND皇后林蔭路線\) "wikilink")。
 
@@ -87,7 +87,7 @@ RJ線在數月後將訖站調回欽伯斯街，改為尖峰菱形RR線列車。
 
   - 桑迪颶風影響
 
-由於[桑迪颶風的破壞](../Page/颶風桑迪.md "wikilink")，被淹，淤沙嚴重，需進行清淤工作。這導致R線被迫分為兩段運行（西部七十一大道與白廳街-南碼頭車站區間，東部科特街與95街-灣脊區車站區間）至2014年10月，僅週末绕經[曼哈頓大橋得以恢復全線并跳過部分車站](../Page/曼哈頓大橋.md "wikilink")。\[2\]此間曾於2012年12月至2013年8月間短暫恢復，後因加固需要而再度關閉。\[3\]
+由於[桑迪颶風的破壞](../Page/颶風桑迪.md "wikilink")，被淹，淤沙嚴重，需進行清淤工作。這導致R線被迫分為兩段運行（西部七十一大道與白廳街-南碼頭車站區間，東部科特街與95街-灣脊區車站區間）至2014年10月，僅週末绕經[曼哈頓大橋](../Page/曼哈頓大橋.md "wikilink")得以恢復全線并跳過部分車站。\[2\]此間曾於2012年12月至2013年8月間短暫恢復，後因加固需要而再度關閉。\[3\]
 
 ## 路線
 
@@ -811,21 +811,17 @@ RJ線在數月後將訖站調回欽伯斯街，改為尖峰菱形RR線列車。
 
 ## 外部連結
 
-  - [MTA NYC Transit -
-    路線介紹](https://web.archive.org/web/20061108175152/http://mta.info/nyct/service/rline.htm)
+  - [MTA NYC Transit - 路線介紹](https://web.archive.org/web/20061108175152/http://mta.info/nyct/service/rline.htm)
   - [R線歷史](https://web.archive.org/web/20011202055509/http://members.aol.com/bdmnqr2/linehistory.html)
-  - [MTA NYC Transit -
-    R線時刻表（PDF）](https://web.archive.org/web/20060921225125/http://www.mta.info/nyct/service/pdf/trcur.pdf)
+  - [MTA NYC Transit - R線時刻表（PDF）](https://web.archive.org/web/20060921225125/http://www.mta.info/nyct/service/pdf/trcur.pdf)
 
 [Category:紐約地鐵服務路線](https://zh.wikipedia.org/wiki/Category:紐約地鐵服務路線 "wikilink")
 
 1.
 
-2.  [R線運行通告 -
-    MTA](http://web.mta.info/nyct/service/R_14monthMontagueTunnelClosure.htm)
+2.  [R線運行通告 - MTA](http://web.mta.info/nyct/service/R_14monthMontagueTunnelClosure.htm)
 
-3.  [R線運行通告 -
-    MTA](http://web.mta.info/nyct/service/R_ServiceChanges.htm)
+3.  [R線運行通告 - MTA](http://web.mta.info/nyct/service/R_ServiceChanges.htm)
 
 4.
 5.

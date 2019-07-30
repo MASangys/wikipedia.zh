@@ -1,14 +1,8 @@
-是由[史克威尔](https://zh.wikipedia.org/wiki/史克威尔 "wikilink")（今[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")）於2001年发行的[电子角色扮演游戏](https://zh.wikipedia.org/wiki/电子角色扮演游戏 "wikilink")，为[最终幻想系列第](https://zh.wikipedia.org/wiki/最终幻想系列 "wikilink")10部正传。由於台灣舊譯為當時[史克威爾授權的台版攻略本與媒體使用的名稱](../Page/史克威爾.md "wikilink")，故也有玩家簡稱此作為太10。游戏最初在[索尼的](https://zh.wikipedia.org/wiki/索尼电脑娱乐 "wikilink")[PlayStation
-2平台发售](../Page/PlayStation_2.md "wikilink")，2013年之后以「[最终幻想X/X-2
-HD重制版](https://zh.wikipedia.org/wiki/最终幻想X/X-2_HD重制版 "wikilink")」名义推出高清化复刻版，先后登陆[PlayStation
-3](../Page/PlayStation_3.md "wikilink")、[PlayStation
-Vita](../Page/PlayStation_Vita.md "wikilink")、[PlayStation
-4和](../Page/PlayStation_4.md "wikilink")[Microsoft
-Windows平台](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。本作為最终幻想本傳系列从预先渲染的背景转向全[3D運算场景的首例](../Page/三维计算机图形.md "wikilink")，並首度為遊戲角色启用[配音](../Page/配音.md "wikilink")。《最终幻想X》以“計算時間戰鬥”（CTB）系统取代了即时战斗（ATB）系统，并使用名为“幻光球盘”的新升级系统。
+是由[史克威尔](https://zh.wikipedia.org/wiki/史克威尔 "wikilink")（今[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")）於2001年发行的[电子角色扮演游戏](https://zh.wikipedia.org/wiki/电子角色扮演游戏 "wikilink")，为[最终幻想系列第](https://zh.wikipedia.org/wiki/最终幻想系列 "wikilink")10部正传。由於台灣舊譯為當時[史克威爾](../Page/史克威爾.md "wikilink")授權的台版攻略本與媒體使用的名稱，故也有玩家簡稱此作為太10。游戏最初在[索尼的](https://zh.wikipedia.org/wiki/索尼电脑娱乐 "wikilink")[PlayStation 2平台发售](../Page/PlayStation_2.md "wikilink")，2013年之后以「[最终幻想X/X-2 HD重制版](https://zh.wikipedia.org/wiki/最终幻想X/X-2_HD重制版 "wikilink")」名义推出高清化复刻版，先后登陆[PlayStation 3](../Page/PlayStation_3.md "wikilink")、[PlayStation Vita](../Page/PlayStation_Vita.md "wikilink")、[PlayStation 4和](../Page/PlayStation_4.md "wikilink")[Microsoft Windows平台](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。本作為最终幻想本傳系列从预先渲染的背景转向全[3D運算场景的首例](../Page/三维计算机图形.md "wikilink")，並首度為遊戲角色启用[配音](../Page/配音.md "wikilink")。《最终幻想X》以“計算時間戰鬥”（CTB）系统取代了即时战斗（ATB）系统，并使用名为“幻光球盘”的新升级系统。
 
 游戏设定于奇幻世界[史匹拉](../Page/史匹拉.md "wikilink")，讲述一行冒险者为击败破坏性怪物“辛”而踏上旅程的故事。玩家角色提达是水鬥球運動的球星，在家乡札纳尔坎德被辛毁灭后发现自己身处異世界的史匹拉。在到达史匹拉后不久，提达加入了召唤士尤娜巡迴朝圣并消灭辛的队伍。
 
-《最终幻想X》从1999年开始开发，製作预算約40億日圓，团队逾百人。本作是正传中首款非[植松伸夫独立配乐的游戏](../Page/植松伸夫.md "wikilink")，植松选择[滨涡正志和](../Page/滨涡正志.md "wikilink")[仲野顺也作為合作搭檔](../Page/仲野顺也.md "wikilink")。《最终幻想X》获得评论和商业成功，PS2版本全球销量超过800萬套\[1\]。续作《[最终幻想X-2](../Page/最终幻想X-2.md "wikilink")》于2003年3月发售，是首款最终幻想游戏后传。
+《最终幻想X》从1999年开始开发，製作预算約40億日圓，团队逾百人。本作是正传中首款非[植松伸夫](../Page/植松伸夫.md "wikilink")独立配乐的游戏，植松选择[滨涡正志](../Page/滨涡正志.md "wikilink")和[仲野顺也](../Page/仲野顺也.md "wikilink")作為合作搭檔。《最终幻想X》获得评论和商业成功，PS2版本全球销量超过800萬套\[1\]。续作《[最终幻想X-2](../Page/最终幻想X-2.md "wikilink")》于2003年3月发售，是首款最终幻想游戏后传。
 
 ## 玩法
 
@@ -18,11 +12,7 @@ Windows平台](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。本
 
 ### 战斗
 
-《最终幻想X》以計算時間战斗(Count Time Battle)\[4\]（美版称“条件回合制战斗”，Conditional
-Turn-Based
-Battle缩写CTB）系统取代自《[最终幻想IV](https://zh.wikipedia.org/wiki/最终幻想IV "wikilink")》起使用的即时战斗（Active
-Time
-Battle、ATB）系统。ATB的理念使用了实时元素，而CTB为等待玩家操作的回合制形式，因此CTB设计可让玩家在无时间压力的环境下选择指令。屏幕右上方的圖表时间轴列出了之後數回合中的行动对象，而所選行动会可能改變回合顺序。玩家在战斗中至多能同時控制三名角色，並可透過换人系统随时替换参战队员。可以打出高伤害的特殊攻击[极限技以](https://zh.wikipedia.org/wiki/极限技 "wikilink")“过载”名义在《最终幻想X》中重新出现。大多数技能要用按键输入来强化威力\[5\]。虽然角色最开始只能在受到强力攻击后增加过载，但之后可以切换为其它解锁过载增长方式\[6\]。
+《最终幻想X》以計算時間战斗(Count Time Battle)\[4\]（美版称“条件回合制战斗”，Conditional Turn-Based Battle缩写CTB）系统取代自《[最终幻想IV](https://zh.wikipedia.org/wiki/最终幻想IV "wikilink")》起使用的即时战斗（Active Time Battle、ATB）系统。ATB的理念使用了实时元素，而CTB为等待玩家操作的回合制形式，因此CTB设计可让玩家在无时间压力的环境下选择指令。屏幕右上方的圖表时间轴列出了之後數回合中的行动对象，而所選行动会可能改變回合顺序。玩家在战斗中至多能同時控制三名角色，並可透過换人系统随时替换参战队员。可以打出高伤害的特殊攻击[极限技以](https://zh.wikipedia.org/wiki/极限技 "wikilink")“过载”名义在《最终幻想X》中重新出现。大多数技能要用按键输入来强化威力\[5\]。虽然角色最开始只能在受到强力攻击后增加过载，但之后可以切换为其它解锁过载增长方式\[6\]。
 
 《最终幻想X》使用了和系列之前游戏大不相同的召唤系统。之前作品采用召唤兽出现，发动一次行动然后消失的方式，而《最终幻想X》的召唤兽出现时将完全替换战斗队伍，直到召唤兽打赢战斗、被击败，或是被玩家召回。召唤兽有自有其[能力值](https://zh.wikipedia.org/wiki/能力值 "wikilink")、指令、特殊攻击、魔法和过载。玩家在游戏过程中可以获得5个召唤兽，此外还能通过完成[支线任务获得](https://zh.wikipedia.org/wiki/支线任务 "wikilink")3个召唤兽\[7\]。
 
@@ -30,8 +20,7 @@ Battle、ATB）系统。ATB的理念使用了实时元素，而CTB为等待玩�
 
 如同系列前作，玩家可以通过击败敌人与获得道具来发展强化角色，然而传统的[经验值系统被新的](https://zh.wikipedia.org/wiki/经验值 "wikilink")“幻光球盘”系统取代。幻光球盘上有大量有能力值和能力节点，节点间以预定的路线连接。和角色升级时提升预设的能力值不同，每名角色在获得足够能力值（AP）后会提升“幻光球等级”（SP），玩家通过消耗幻光球等级在幻光球盘上移动，并使用“幻光球”道具解锁节点上的能力\[8\]。
 
-玩家可通过幻光球盘系统将角色自订为中意的战斗职能，例如将白魔导师职业的尤娜转为物理輸出手，将剑士奥隆转为治疗者。《国际版》和[PAL区版游戏加入了可选的](../Page/PAL区.md "wikilink")“专家”版幻光球盘；在此版本中，全部角色皆从图盘中央开始，玩家可自选路线走盘。与之相对，专家版图盘总节点数减少，游戏中可以强化的能力值也随之降低\[9\]。
-{{-}}
+玩家可通过幻光球盘系统将角色自订为中意的战斗职能，例如将白魔导师职业的尤娜转为物理輸出手，将剑士奥隆转为治疗者。《国际版》和[PAL区](../Page/PAL区.md "wikilink")版游戏加入了可选的“专家”版幻光球盘；在此版本中，全部角色皆从图盘中央开始，玩家可自选路线走盘。与之相对，专家版图盘总节点数减少，游戏中可以强化的能力值也随之降低\[9\]。 {{-}}
 
 ## 情节
 
@@ -55,103 +44,61 @@ Battle、ATB）系统。ATB的理念使用了实时元素，而CTB为等待玩�
 
 ## 开发
 
-《最终幻想X》从1999年开始开发，成本约40亿日元（合3230万美元）；工作人员超过100名，其中大多参与过系列前作的开发。执行制作人[坂口博信称](../Page/坂口博信.md "wikilink")，虽然他对2D到3D背景的转变、使用[配音以及即时故事讲述表示担忧](../Page/配音.md "wikilink")，但最终幻想系列的一大成功因素就是开发团队不断挑战尝试新事物\[69\]。制作人[北濑佳范兼任](https://zh.wikipedia.org/wiki/北濑佳范 "wikilink")《最终幻想X》主总监，事件、地图和战斗总监由[鸟山求](https://zh.wikipedia.org/wiki/鸟山求 "wikilink")、中里尚义和[土田俊郎分任](../Page/土田俊郎.md "wikilink")\[70\]\[71\]\[72\]\[73\]。剧本开发耗时三四个月，之后又用相同的时间完成配音录制\[74\]。[野岛一成与](../Page/野岛一成.md "wikilink")[渡边大佑](https://zh.wikipedia.org/wiki/渡边大佑 "wikilink")、鸟山及北濑合作编写剧本\[75\]\[76\]。野岛特别关注于建立玩家和主角的关系。因此在编剧中，他将玩家对世界的认知和知识的学习通过提达自己的理解和叙述表示出来\[77\]。
+《最终幻想X》从1999年开始开发，成本约40亿日元（合3230万美元）；工作人员超过100名，其中大多参与过系列前作的开发。执行制作人[坂口博信](../Page/坂口博信.md "wikilink")称，虽然他对2D到3D背景的转变、使用[配音](../Page/配音.md "wikilink")以及即时故事讲述表示担忧，但最终幻想系列的一大成功因素就是开发团队不断挑战尝试新事物\[69\]。制作人[北濑佳范兼任](https://zh.wikipedia.org/wiki/北濑佳范 "wikilink")《最终幻想X》主总监，事件、地图和战斗总监由[鸟山求](https://zh.wikipedia.org/wiki/鸟山求 "wikilink")、中里尚义和[土田俊郎](../Page/土田俊郎.md "wikilink")分任\[70\]\[71\]\[72\]\[73\]。剧本开发耗时三四个月，之后又用相同的时间完成配音录制\[74\]。[野岛一成](../Page/野岛一成.md "wikilink")与[渡边大佑](https://zh.wikipedia.org/wiki/渡边大佑 "wikilink")、鸟山及北濑合作编写剧本\[75\]\[76\]。野岛特别关注于建立玩家和主角的关系。因此在编剧中，他将玩家对世界的认知和知识的学习通过提达自己的理解和叙述表示出来\[77\]。
 
-角色设计师[野村哲也将南太平洋](../Page/野村哲也.md "wikilink")、泰国和日本作为史匹拉——特别是有关南方的比塞德和基利卡岛——的主要文化和地理设计来源。他还称史匹拉和以前最终幻想游戏游戏世界的细节体现水平不同，他必须在设计过程中刻意保持某些事物\[78\]。北濑认为如果设定回到中世纪欧洲奇幻，则似乎无法让开发团队进步。在他考虑不同的世界环境时，野岛提议使用亚洲元素的奇幻世界\[79\]。次要角色主设计师中岛二美注重保障，来自不同区域和文化的角色在着装风格上特征鲜明，能够快速容易的辨认出他们属于什么亚族。如她曾称，面具和護目让阿尔贝德族看着“稀奇古怪”，而隆索族的服装让他们能够容易参与战斗\[80\]。
+角色设计师[野村哲也](../Page/野村哲也.md "wikilink")将南太平洋、泰国和日本作为史匹拉——特别是有关南方的比塞德和基利卡岛——的主要文化和地理设计来源。他还称史匹拉和以前最终幻想游戏游戏世界的细节体现水平不同，他必须在设计过程中刻意保持某些事物\[78\]。北濑认为如果设定回到中世纪欧洲奇幻，则似乎无法让开发团队进步。在他考虑不同的世界环境时，野岛提议使用亚洲元素的奇幻世界\[79\]。次要角色主设计师中岛二美注重保障，来自不同区域和文化的角色在着装风格上特征鲜明，能够快速容易的辨认出他们属于什么亚族。如她曾称，面具和護目让阿尔贝德族看着“稀奇古怪”，而隆索族的服装让他们能够容易参与战斗\[80\]。
 
-《最终幻想X》在角色面部表情渲染上使用了新手段，如[动作捕捉和](../Page/动作捕捉.md "wikilink")[骨骼动画新技术](https://zh.wikipedia.org/wiki/骨骼动画 "wikilink")\[81\]\[82\]。该技术能让动画师创作逼真的嘴唇动作，并编程配合游戏配音演员的语音。野岛称和以往相比，[配音的应用能让他更强烈的表达情感](../Page/配音.md "wikilink")，继而能使故事情节易懂。他还称，为让配音员的特性与所配角色相符，他在剧本上做出了大量改变\[83\]。不过配音也带来一些难题。因游戏过场动画是依日语配音制作的，故在英文本地化时，团队需要按照角色嘴唇动作与时间，创作英文对话并修改文字。至于将配音调整自然的制作过程，主翻译[亚历山大·O·史密斯称](https://zh.wikipedia.org/wiki/亚历山大·O·史密斯 "wikilink")，“相当于为四五部电影写纯[俳句对话](../Page/俳句.md "wikilink")，演员必须在这种约束下演出，还必须演好”\[84\]。
+《最终幻想X》在角色面部表情渲染上使用了新手段，如[动作捕捉](../Page/动作捕捉.md "wikilink")和[骨骼动画新技术](https://zh.wikipedia.org/wiki/骨骼动画 "wikilink")\[81\]\[82\]。该技术能让动画师创作逼真的嘴唇动作，并编程配合游戏配音演员的语音。野岛称和以往相比，[配音](../Page/配音.md "wikilink")的应用能让他更强烈的表达情感，继而能使故事情节易懂。他还称，为让配音员的特性与所配角色相符，他在剧本上做出了大量改变\[83\]。不过配音也带来一些难题。因游戏过场动画是依日语配音制作的，故在英文本地化时，团队需要按照角色嘴唇动作与时间，创作英文对话并修改文字。至于将配音调整自然的制作过程，主翻译[亚历山大·O·史密斯称](https://zh.wikipedia.org/wiki/亚历山大·O·史密斯 "wikilink")，“相当于为四五部电影写纯[俳句](../Page/俳句.md "wikilink")对话，演员必须在这种约束下演出，还必须演好”\[84\]。
 
-游戏最初打算通过史克威尔的[PlayStation服务提供在线元素](../Page/PlayStation.md "wikilink")。然而此功能在制作中放弃，系列直到《[最终幻想XI](../Page/最终幻想XI.md "wikilink")》才实现在线游戏元素\[85\]\[86\]。地图总监中里想以写实的游戏3D背景取代预渲染背景，创作比传统最终幻想游戏更逼真的世界地图\[87\]。作为最终幻想系列游戏玩家之一，战斗总监土田想重新创作他感到有趣的元素，最后他放弃即时战斗系统，改用更重视策略的条件回合制战斗系统\[88\]。在《最终幻想X》的早先设计中，敌人会场景地图上出现与移动、战斗场景无缝过渡、玩家遇敌是还能在场上四处移动\[89\]。战斗艺术总监高井慎太郎称，他意图使《最终幻想X》的战斗系统留给人融为故事一环的印象，而非独立的元素\[90\]。然而因为该理念因硬件限制而放弃。不过作为折衷，在[场景画面结束时](https://zh.wikipedia.org/wiki/场景画面 "wikilink")，从场景地图切入战斗画面时会有一些过渡，即通过动作模糊效果实现相对无缝\[91\]。对无缝转换的希望亦催生了游戏中所见的新召唤系统\[92\]。北濑表示，幻光球盘旨在为带给玩家提升角色属性的互动方式，如此他们亲身观察这些属性的发展\[93\]。
+游戏最初打算通过史克威尔的[PlayStation](../Page/PlayStation.md "wikilink")服务提供在线元素。然而此功能在制作中放弃，系列直到《[最终幻想XI](../Page/最终幻想XI.md "wikilink")》才实现在线游戏元素\[85\]\[86\]。地图总监中里想以写实的游戏3D背景取代预渲染背景，创作比传统最终幻想游戏更逼真的世界地图\[87\]。作为最终幻想系列游戏玩家之一，战斗总监土田想重新创作他感到有趣的元素，最后他放弃即时战斗系统，改用更重视策略的条件回合制战斗系统\[88\]。在《最终幻想X》的早先设计中，敌人会场景地图上出现与移动、战斗场景无缝过渡、玩家遇敌是还能在场上四处移动\[89\]。战斗艺术总监高井慎太郎称，他意图使《最终幻想X》的战斗系统留给人融为故事一环的印象，而非独立的元素\[90\]。然而因为该理念因硬件限制而放弃。不过作为折衷，在[场景画面结束时](https://zh.wikipedia.org/wiki/场景画面 "wikilink")，从场景地图切入战斗画面时会有一些过渡，即通过动作模糊效果实现相对无缝\[91\]。对无缝转换的希望亦催生了游戏中所见的新召唤系统\[92\]。北濑表示，幻光球盘旨在为带给玩家提升角色属性的互动方式，如此他们亲身观察这些属性的发展\[93\]。
 
 ## 音乐
 
-《最终幻想X》是首款非系列长期作曲家[植松伸夫独自谱曲的正传游戏](../Page/植松伸夫.md "wikilink")。除植松伸夫外，[滨涡正志和](../Page/滨涡正志.md "wikilink")[仲野顺也也为](../Page/仲野顺也.md "wikilink")《最终幻想X》创作了曲目\[94\]。选二者乃因他们风格和植松有别，且能共同合作\[95\]。[PlayOnline.com在](../Page/PlayOnline.md "wikilink")2000年11月首次透漏游戏主题曲已完成。在史克威尔还未正式公布主题曲歌手时，植松在[GameSpot的一次个人采访中打趣的称](../Page/GameSpot.md "wikilink")“将是[罗德·斯图尔特](../Page/罗德·斯图尔特.md "wikilink")”\[96\]。
+《最终幻想X》是首款非系列长期作曲家[植松伸夫](../Page/植松伸夫.md "wikilink")独自谱曲的正传游戏。除植松伸夫外，[滨涡正志](../Page/滨涡正志.md "wikilink")和[仲野顺也](../Page/仲野顺也.md "wikilink")也为《最终幻想X》创作了曲目\[94\]。选二者乃因他们风格和植松有别，且能共同合作\[95\]。[PlayOnline](../Page/PlayOnline.md "wikilink").com在2000年11月首次透漏游戏主题曲已完成。在史克威尔还未正式公布主题曲歌手时，植松在[GameSpot](../Page/GameSpot.md "wikilink")的一次个人采访中打趣的称“将是[罗德·斯图尔特](../Page/罗德·斯图尔特.md "wikilink")”\[96\]。
 
-游戏有三首歌曲使用声乐元素，其中有[日本流行乐民谣](https://zh.wikipedia.org/wiki/日本流行乐 "wikilink")《[真好](https://zh.wikipedia.org/wiki/素敵だね "wikilink")》（）。歌曲由野岛一成作词，植松伸夫作曲，日本民谣歌手[Rikki演唱](https://zh.wikipedia.org/wiki/Rikki "wikilink")——音乐团队在寻找[冲绳歌曲歌手时与Rikki签约](https://zh.wikipedia.org/wiki/冲绳 "wikilink")\[97\]。日版和英文版游戏都使用了《完美》。和《最终幻想VIII》的《[Eyes
-on Me](../Page/Eyes_on_Me.md "wikilink")》与《最终幻想IX》的《[Melodies of
-Life](https://zh.wikipedia.org/wiki/Melodies_of_Life "wikilink")》类似，游戏片尾曲使用了弦乐版的《真好》。其他填词歌曲是：[比尔·缪尔以英文演唱的重金属片头曲](https://zh.wikipedia.org/wiki/比尔·缪尔 "wikilink")《Otherworld》；以及由日文假名演唱，在游戏中多次出现的《祈子之歌》\[98\]。
+游戏有三首歌曲使用声乐元素，其中有[日本流行乐民谣](https://zh.wikipedia.org/wiki/日本流行乐 "wikilink")《[真好](https://zh.wikipedia.org/wiki/素敵だね "wikilink")》（）。歌曲由野岛一成作词，植松伸夫作曲，日本民谣歌手[Rikki演唱](https://zh.wikipedia.org/wiki/Rikki "wikilink")——音乐团队在寻找[冲绳歌曲歌手时与Rikki签约](https://zh.wikipedia.org/wiki/冲绳 "wikilink")\[97\]。日版和英文版游戏都使用了《完美》。和《最终幻想VIII》的《[Eyes on Me](../Page/Eyes_on_Me.md "wikilink")》与《最终幻想IX》的《[Melodies of Life](https://zh.wikipedia.org/wiki/Melodies_of_Life "wikilink")》类似，游戏片尾曲使用了弦乐版的《真好》。其他填词歌曲是：[比尔·缪尔以英文演唱的重金属片头曲](https://zh.wikipedia.org/wiki/比尔·缪尔 "wikilink")《Otherworld》；以及由日文假名演唱，在游戏中多次出现的《祈子之歌》\[98\]。
 
-原声专辑专辑由DigiCube于2001年8月1日在日本首发，史克威尔艾尼克斯于2004年5月10日再版\[99\]；共4碟，收录91首曲目。2002年，东京流行在北美以《最终幻想X官方原声》名义发行了原声专辑，专辑计一碟，收录17首曲目，\[100\]。《feel/Go
-dream: Yuna &
-Tidus》由DigiCube于2001年10月11日在日本发行，收录与角色提达及尤娜有关的曲目\[101\]。2002年在日本还有《钢琴选辑
-最终幻想X》，以及收录独有角色对话和歌曲的合辑《最终幻想X声乐选辑》发行\[102\]\[103\]。
+原声专辑专辑由DigiCube于2001年8月1日在日本首发，史克威尔艾尼克斯于2004年5月10日再版\[99\]；共4碟，收录91首曲目。2002年，东京流行在北美以《最终幻想X官方原声》名义发行了原声专辑，专辑计一碟，收录17首曲目，\[100\]。《feel/Go dream: Yuna & Tidus》由DigiCube于2001年10月11日在日本发行，收录与角色提达及尤娜有关的曲目\[101\]。2002年在日本还有《钢琴选辑 最终幻想X》，以及收录独有角色对话和歌曲的合辑《最终幻想X声乐选辑》发行\[102\]\[103\]。
 
-由植松伸夫领衔，将最终幻想电子游戏音乐编曲为[摇滚音乐的乐团](https://zh.wikipedia.org/wiki/摇滚音乐 "wikilink")[黑魔导士曾为三首](../Page/黑魔导士.md "wikilink")《最终幻想X》乐曲编曲。它们是2003年同名专辑中的《与希摩尔之战》\[104\]，以及2004年专辑《黑魔导师II：苍天之上》中的《Otherworld》个《苍天之上》\[105\]。植松还在他的“Dear
-Friends: Music From Final
--{}-Fantasy”系列音乐会中演奏了数首曲目\[106\]。《最终幻想X》的音乐还出现在多个官方音乐会和现场专辑中，如管弦音乐现场录音专辑《[20020220
-Music from Final
--{}-Fantasy](https://zh.wikipedia.org/wiki/20020220_Music_from_Final_Fantasy "wikilink")》就收录了数首游戏曲目\[107\]。此外[皇家斯德哥尔摩爱乐乐团在](https://zh.wikipedia.org/wiki/皇家斯德哥尔摩爱乐乐团 "wikilink")“Distant
-Worlds － Music from Final -{}-Fantasy”音乐会巡演上演出了《Swing de
-Chocobo》\[108\]，[新日本爱乐乐团则在](https://zh.wikipedia.org/wiki/新日本爱乐乐团 "wikilink")“[Tour
-de Japon: Music from Final
--{}-Fantasy](https://zh.wikipedia.org/wiki/Tour_de_Japon "wikilink")”上演奏了《札纳尔坎德》\[109\]。专注电子游戏编曲的Project
-Majestic
-Mix等团体亦未经官方授权独立发行了《最终幻想X》的音乐\[110\]。游戏音乐还出现在日本[同人音乐重混专辑以及英语重混网站中](https://zh.wikipedia.org/wiki/同人音乐 "wikilink")\[111\]。
+由植松伸夫领衔，将最终幻想电子游戏音乐编曲为[摇滚音乐的乐团](https://zh.wikipedia.org/wiki/摇滚音乐 "wikilink")[黑魔导士](../Page/黑魔导士.md "wikilink")曾为三首《最终幻想X》乐曲编曲。它们是2003年同名专辑中的《与希摩尔之战》\[104\]，以及2004年专辑《黑魔导师II：苍天之上》中的《Otherworld》个《苍天之上》\[105\]。植松还在他的“Dear Friends: Music From Final -{}-Fantasy”系列音乐会中演奏了数首曲目\[106\]。《最终幻想X》的音乐还出现在多个官方音乐会和现场专辑中，如管弦音乐现场录音专辑《[20020220 Music from Final -{}-Fantasy](https://zh.wikipedia.org/wiki/20020220_Music_from_Final_Fantasy "wikilink")》就收录了数首游戏曲目\[107\]。此外[皇家斯德哥尔摩爱乐乐团在](https://zh.wikipedia.org/wiki/皇家斯德哥尔摩爱乐乐团 "wikilink")“Distant Worlds － Music from Final -{}-Fantasy”音乐会巡演上演出了《Swing de Chocobo》\[108\]，[新日本爱乐乐团则在](https://zh.wikipedia.org/wiki/新日本爱乐乐团 "wikilink")“[Tour de Japon: Music from Final -{}-Fantasy](https://zh.wikipedia.org/wiki/Tour_de_Japon "wikilink")”上演奏了《札纳尔坎德》\[109\]。专注电子游戏编曲的Project Majestic Mix等团体亦未经官方授权独立发行了《最终幻想X》的音乐\[110\]。游戏音乐还出现在日本[同人音乐重混专辑以及英语重混网站中](https://zh.wikipedia.org/wiki/同人音乐 "wikilink")\[111\]。
 
 ## 版本与商品
 
-日版《最终幻想X》还内含收录采访录像、画像制作的附加碟片“The Other Side of Final
--{}-Fantasy”，《[蓝天之翼](../Page/蓝天之翼.md "wikilink")》、《[王国之心](../Page/王国之心_\(游戏\).md "wikilink")》和《[最终幻想：灵魂深处](../Page/最终幻想：灵魂深处.md "wikilink")》的预告片，以及《[最终幻想XI](../Page/最终幻想XI.md "wikilink")》的首个演示视频\[112\]。游戏[国际版于](https://zh.wikipedia.org/wiki/国际版 "wikilink")2002年1月在日本为《最终幻想X国际版》名义，2002年5月发行的[PAL版亦继承了国际版的要素](../Page/PAL区.md "wikilink")。国际版在原[NTSC版上增加了一些特性](https://zh.wikipedia.org/wiki/NTSC "wikilink")，如和“黑暗”召唤兽及飞空艇上超级头目“Penance”的战斗\[113\]。日本国际版还收录了《永远的安宁节》——连接《最终幻想X》及后传《[最终幻想X-2](../Page/最终幻想X-2.md "wikilink")》故事的14分钟的影片剪辑\[114\]。影片剪辑以《永远的安宁节
-最终幻想X-2
-前奏》名义收录于《[无限：沙加收藏版](https://zh.wikipedia.org/wiki/无限：沙加 "wikilink")》的附加DVD中。它于2003年10月31日在欧洲首发，使用英文配音\[115\]。
+日版《最终幻想X》还内含收录采访录像、画像制作的附加碟片“The Other Side of Final -{}-Fantasy”，《[蓝天之翼](../Page/蓝天之翼.md "wikilink")》、《[王国之心](../Page/王国之心_\(游戏\).md "wikilink")》和《[最终幻想：灵魂深处](../Page/最终幻想：灵魂深处.md "wikilink")》的预告片，以及《[最终幻想XI](../Page/最终幻想XI.md "wikilink")》的首个演示视频\[112\]。游戏[国际版于](https://zh.wikipedia.org/wiki/国际版 "wikilink")2002年1月在日本为《最终幻想X国际版》名义，2002年5月发行的[PAL版亦继承了国际版的要素](../Page/PAL区.md "wikilink")。国际版在原[NTSC版上增加了一些特性](https://zh.wikipedia.org/wiki/NTSC "wikilink")，如和“黑暗”召唤兽及飞空艇上超级头目“Penance”的战斗\[113\]。日本国际版还收录了《永远的安宁节》——连接《最终幻想X》及后传《[最终幻想X-2](../Page/最终幻想X-2.md "wikilink")》故事的14分钟的影片剪辑\[114\]。影片剪辑以《永远的安宁节 最终幻想X-2 前奏》名义收录于《[无限：沙加收藏版](https://zh.wikipedia.org/wiki/无限：沙加 "wikilink")》的附加DVD中。它于2003年10月31日在欧洲首发，使用英文配音\[115\]。
 
-国际版和PAL版都收录了附加DVD《Beyond Final
--{}-Fantasy》，内含对游戏开发者及两名英文版配音员——[詹姆斯·阿诺德·泰勒](https://zh.wikipedia.org/wiki/詹姆斯·阿诺德·泰勒 "wikilink")（提达）、[赫蒂·布里斯](https://zh.wikipedia.org/wiki/赫蒂·布里斯 "wikilink")（尤娜）——的访谈。此外还有《最终幻想X》和《王国之心》的预告片，游戏概念图和促销画廊，以及Rikki演唱歌曲《真好》的音乐视频\[116\]。2005年，收录《最终幻想》和《最终幻想X-2》的合辑《最终幻想X/X-2
-Ultimate Box》在日本发行\[117\]。2012年12月18日，收录游戏的《Final-{}- Fantasy 25th
-Anniversary Ultimate Box》发行\[118\]。
+国际版和PAL版都收录了附加DVD《Beyond Final -{}-Fantasy》，内含对游戏开发者及两名英文版配音员——[詹姆斯·阿诺德·泰勒](https://zh.wikipedia.org/wiki/詹姆斯·阿诺德·泰勒 "wikilink")（提达）、[赫蒂·布里斯](https://zh.wikipedia.org/wiki/赫蒂·布里斯 "wikilink")（尤娜）——的访谈。此外还有《最终幻想X》和《王国之心》的预告片，游戏概念图和促销画廊，以及Rikki演唱歌曲《真好》的音乐视频\[116\]。2005年，收录《最终幻想》和《最终幻想X-2》的合辑《最终幻想X/X-2 Ultimate Box》在日本发行\[117\]。2012年12月18日，收录游戏的《Final-{}- Fantasy 25th Anniversary Ultimate Box》发行\[118\]。
 
-史克威尔还出品了许多商品与书籍\[119\]，如《The Art of Final -{}-Fantasy
-X》和三本《[Ultimania](../Page/Ultimania.md "wikilink")》攻略，一系列画集与[攻略本](https://zh.wikipedia.org/wiki/攻略本 "wikilink")，书籍皆由[DigiCube在日本发行](../Page/DigiCube.md "wikilink")。这些书籍或收录《最终幻想X》的原画与游戏攻略，或深入补充游戏设定；之中还收录数篇游戏设计师采访。\[120\]。
+史克威尔还出品了许多商品与书籍\[119\]，如《The Art of Final -{}-Fantasy X》和三本《[Ultimania](../Page/Ultimania.md "wikilink")》攻略，一系列画集与[攻略本](https://zh.wikipedia.org/wiki/攻略本 "wikilink")，书籍皆由[DigiCube](../Page/DigiCube.md "wikilink")在日本发行。这些书籍或收录《最终幻想X》的原画与游戏攻略，或深入补充游戏设定；之中还收录数篇游戏设计师采访。\[120\]。
 
 ### 高清重制版
 
-史克威尔在2011年9月13日宣布，为庆祝游戏发售10周年，将《最终幻想X》高清化移植于[PlayStation
-3和](../Page/PlayStation_3.md "wikilink")[PlayStation
-Vita平台](../Page/PlayStation_Vita.md "wikilink")\[121\]。游戏制作在2012年1月时已经开始。制作人[北濑佳范再度参与游戏制作](https://zh.wikipedia.org/wiki/北濑佳范 "wikilink")，有意负责质量\[122\]。2013年2月18日，PlayStation
-Vita版《最终幻想X HD》的首段剪辑公布，显示提达、尤娜、巴哈姆特和保鑣的高清模型\[123\]。3月19日，消息确认PlayStation
-3版游戏亦会收录续作《最终幻想X-2》，且亦会以高清重制。移植版由史克威尔艾尼克斯和索尼电脑娱乐亚洲汉化，采用中文字幕和日本配音\[124\]。
+史克威尔在2011年9月13日宣布，为庆祝游戏发售10周年，将《最终幻想X》高清化移植于[PlayStation 3和](../Page/PlayStation_3.md "wikilink")[PlayStation Vita平台](../Page/PlayStation_Vita.md "wikilink")\[121\]。游戏制作在2012年1月时已经开始。制作人[北濑佳范再度参与游戏制作](https://zh.wikipedia.org/wiki/北濑佳范 "wikilink")，有意负责质量\[122\]。2013年2月18日，PlayStation Vita版《最终幻想X HD》的首段剪辑公布，显示提达、尤娜、巴哈姆特和保鑣的高清模型\[123\]。3月19日，消息确认PlayStation 3版游戏亦会收录续作《最终幻想X-2》，且亦会以高清重制。移植版由史克威尔艾尼克斯和索尼电脑娱乐亚洲汉化，采用中文字幕和日本配音\[124\]。
 
-两款高清重制游戏的PlayStation 3版以“最终幻想X/X-2
-高清重制版”名义，收录于一张蓝光光碟发行\[125\]；而PlayStation
-Vita版在日本和台港分成兩個游戏卡带各自販賣\[126\]，北美则以《最终幻想X》通过卡带，《最终幻想X-2》通过下载码的方式成套销售\[127\]。下载版适用于双系统，史克威尔艾尼克斯在2013面3月为两款高清重制游戏建立官方网站\[128\]。游戏收录国际版版包括《最终任务》在内的全部内容\[129\]。
+两款高清重制游戏的PlayStation 3版以“最终幻想X/X-2 高清重制版”名义，收录于一张蓝光光碟发行\[125\]；而PlayStation Vita版在日本和台港分成兩個游戏卡带各自販賣\[126\]，北美则以《最终幻想X》通过卡带，《最终幻想X-2》通过下载码的方式成套销售\[127\]。下载版适用于双系统，史克威尔艾尼克斯在2013面3月为两款高清重制游戏建立官方网站\[128\]。游戏收录国际版版包括《最终任务》在内的全部内容\[129\]。
 
 ## 评价
 
 ### 销量
 
-《最终幻想X》获得媒体正面评价以及高销量。2000年PS2主機開始販售，2001年本作上市時史克威尔期望游戏在全球至少售出200万份，這是比前三部於PS平台上本傳都要少的數字，因為當時尚算PS2平台的初期，PS2主機的銷售數字還處於大幅落後前代PS主機的狀態\[130\]。然而游戏在日本前四天就通过预定售出140万，创下游戏机RPG最快销售的纪录\[131\]\[132\],超过发售同样时间时的《[最终幻想VII](../Page/最终幻想VII.md "wikilink")》和《[最终幻想IX](../Page/最终幻想IX.md "wikilink")》\[133\]。《最终幻想X》是最早突破200万和400万销量的PlayStation
-2游戏\[134\]\[135\]，到2004年1月时售出660万套\[136\]，在2009年10月时为第6畅销PlayStation
-2平台游戏\[137\]。PS2版本累計在全球出貨超過850萬份\[138\]，销量超过800萬份\[139\]。
+《最终幻想X》获得媒体正面评价以及高销量。2000年PS2主機開始販售，2001年本作上市時史克威尔期望游戏在全球至少售出200万份，這是比前三部於PS平台上本傳都要少的數字，因為當時尚算PS2平台的初期，PS2主機的銷售數字還處於大幅落後前代PS主機的狀態\[130\]。然而游戏在日本前四天就通过预定售出140万，创下游戏机RPG最快销售的纪录\[131\]\[132\],超过发售同样时间时的《[最终幻想VII](../Page/最终幻想VII.md "wikilink")》和《[最终幻想IX](../Page/最终幻想IX.md "wikilink")》\[133\]。《最终幻想X》是最早突破200万和400万销量的PlayStation 2游戏\[134\]\[135\]，到2004年1月时售出660万套\[136\]，在2009年10月时为第6畅销PlayStation 2平台游戏\[137\]。PS2版本累計在全球出貨超過850萬份\[138\]，销量超过800萬份\[139\]。
 
 ### 媒体评论
 
-日本和西方媒体都给游戏打出高分。日本电子游戏杂志《[Fami通](../Page/Fami通.md "wikilink")》和《Fami通
-PS2》给游戏打出接近满分的39/40\[140\]；而在《Fami通》2006年上半年的史上最佳游戏读者票选中，游戏获得首位\[141\]。另一日本游戏杂志《The
-Play
-Station》给游戏打出29/30。三本杂志特别称赞了游戏的情节、画面和影片\[142\]。游戏在[GameRankings和](https://zh.wikipedia.org/wiki/GameRankings "wikilink")[Metacritic的汇总得分为](../Page/Metacritic.md "wikilink")91%和92/100\[143\]\[144\]。制作人[桥本真司称总体评价](../Page/桥本真司.md "wikilink")“极好”，得到媒体的称赞和奖项\[145\]。
+日本和西方媒体都给游戏打出高分。日本电子游戏杂志《[Fami通](../Page/Fami通.md "wikilink")》和《Fami通 PS2》给游戏打出接近满分的39/40\[140\]；而在《Fami通》2006年上半年的史上最佳游戏读者票选中，游戏获得首位\[141\]。另一日本游戏杂志《The Play Station》给游戏打出29/30。三本杂志特别称赞了游戏的情节、画面和影片\[142\]。游戏在[GameRankings和](https://zh.wikipedia.org/wiki/GameRankings "wikilink")[Metacritic](../Page/Metacritic.md "wikilink")的汇总得分为91%和92/100\[143\]\[144\]。制作人[桥本真司](../Page/桥本真司.md "wikilink")称总体评价“极好”，得到媒体的称赞和奖项\[145\]。
 
-[IGN的大卫](../Page/IGN.md "wikilink")·史密斯对配音演员和游戏性的革新——特别是变化的战斗和召唤系统、可以选择在战斗中更换队员，以及角色发展和物品管理系统——表示称赞。他们亦称《最终幻想X》的图形在前作之上做了一切可能改进，游戏总的说来“是系列最好看的游戏，也大概是最好玩的游戏”\[146\]。[GameSpot的](../Page/GameSpot.md "wikilink")[格雷格·卡萨文赞扬了游戏的情节](https://zh.wikipedia.org/wiki/格雷格·卡萨文 "wikilink")，谓其相当复杂、结局令人满意、通过有感染力的主角提达避免了角色扮演游戏的俗套。他还称赞音乐“多样且在各种游戏场面都很应景”\[147\]。
-[GamePro同样对角色发展系统和战斗系统表示称赞](https://zh.wikipedia.org/wiki/GamePro "wikilink")，称其为“系列中的两大革新”\[148\]。GameSpot的雷蒙德·帕迪拉夸赞游戏画面“拔尖”，同时也对角色模型、背景、过场和动画表示肯定\[149\]。[Game
-Revolution称赞配音](https://zh.wikipedia.org/wiki/Game_Revolution "wikilink")“在平均之上”，并称赞音乐“充足”\[150\]。
+[IGN](../Page/IGN.md "wikilink")的大卫·史密斯对配音演员和游戏性的革新——特别是变化的战斗和召唤系统、可以选择在战斗中更换队员，以及角色发展和物品管理系统——表示称赞。他们亦称《最终幻想X》的图形在前作之上做了一切可能改进，游戏总的说来“是系列最好看的游戏，也大概是最好玩的游戏”\[146\]。[GameSpot](../Page/GameSpot.md "wikilink")的[格雷格·卡萨文赞扬了游戏的情节](https://zh.wikipedia.org/wiki/格雷格·卡萨文 "wikilink")，谓其相当复杂、结局令人满意、通过有感染力的主角提达避免了角色扮演游戏的俗套。他还称赞音乐“多样且在各种游戏场面都很应景”\[147\]。 [GamePro同样对角色发展系统和战斗系统表示称赞](https://zh.wikipedia.org/wiki/GamePro "wikilink")，称其为“系列中的两大革新”\[148\]。GameSpot的雷蒙德·帕迪拉夸赞游戏画面“拔尖”，同时也对角色模型、背景、过场和动画表示肯定\[149\]。[Game Revolution称赞配音](https://zh.wikipedia.org/wiki/Game_Revolution "wikilink")“在平均之上”，并称赞音乐“充足”\[150\]。
 
-《[Edge](../Page/Edge_\(杂志\).md "wikilink")》给予游戏相当的低分，批评游戏在诸多方面冗长且无新意，称对话以提达的为首“令人生厌”\[151\]。《Game
-Informer》的安德鲁·莱内尔批评游戏线性，玩家再无法通过骑[陆行鸟或操控飞空艇环游世界](../Page/陆行鸟.md "wikilink")\[152\]。[Eurogamer的汤姆](../Page/Eurogamer.md "wikilink")·布拉姆韦尔称游戏解密部分“令人沮丧”且“多余”，虽然幻光球盘“看着不错”，但占据游戏太多了\[153\]。《GamePro》对游戏的线性表示肯定，称能让无意于支线任务或小游戏者直通结局\[154\]。Game
-Revolution对游戏过场无法跳过表示不满，并认为其中一些太长了\[155\]。
+《[Edge](../Page/Edge_\(杂志\).md "wikilink")》给予游戏相当的低分，批评游戏在诸多方面冗长且无新意，称对话以提达的为首“令人生厌”\[151\]。《Game Informer》的安德鲁·莱内尔批评游戏线性，玩家再无法通过骑[陆行鸟](../Page/陆行鸟.md "wikilink")或操控飞空艇环游世界\[152\]。[Eurogamer](../Page/Eurogamer.md "wikilink")的汤姆·布拉姆韦尔称游戏解密部分“令人沮丧”且“多余”，虽然幻光球盘“看着不错”，但占据游戏太多了\[153\]。《GamePro》对游戏的线性表示肯定，称能让无意于支线任务或小游戏者直通结局\[154\]。Game Revolution对游戏过场无法跳过表示不满，并认为其中一些太长了\[155\]。
 
 ### 奖项
 
-《最终幻想X》获得2001－2002年度[日本游戏大奖之最佳游戏奖](../Page/日本游戏大奖.md "wikilink")\[156\]。在2001年GameSpot的“最佳与最劣奖”中，游戏获得“年度十大电子游戏”分类的第7名\[157\]。《最终幻想X》成为IGN
-2007年“史上25大PS2游戏”的第5名以及“史上10大最佳画面PS游戏”的第6名\[158\]\[159\]。游戏在GameSpy的史上25大PlayStation
-2游戏榜单中排名第21\[160\]。[1UP.com将游戏结局列为第](../Page/1UP.com.md "wikilink")3杰出的电子游戏桥段，而IGN将其列为第五大预渲染过场动画\[161\]\[162\]。在IGN
-2006年的最佳电子游戏读者票选中，游戏获得第60名\[163\]。游戏还被[Gamasutra选为](https://zh.wikipedia.org/wiki/Gamasutra "wikilink")20款必备日式角色扮演游戏之一\[164\]。游戏还登上《[Game
-Informer](../Page/Game_Informer.md "wikilink")》“史上200大电子游戏”榜单的第43位\[165\]。《最终幻想X》是[GameFAQs](../Page/GameFAQs.md "wikilink")2004年选出的最伟大的电子游戏之一\[166\]，2005年11月又在“史上最佳游戏”票选中获得第12名\[167\]。在系列横评中，[GamesRadar和IGN都将](https://zh.wikipedia.org/wiki/GamesRadar "wikilink")《最终幻想X》排在第4名\[168\]\[169\]。在2003年举办的第6届[互动成就奖中](https://zh.wikipedia.org/wiki/互动成就奖 "wikilink")，游戏被提名“动画杰出成就奖”和“年度游戏机角色扮演游戏”\[170\]。[吉尼斯世界纪录在](../Page/吉尼斯世界纪录.md "wikilink")2007年年末将《最终幻想X》认证为第9畅销RPG\[171\]。游戏在2001年被GameFAQs读者投票选为年度游戏\[172\]。在《电击》杂志2008年举办的读者投票中，游戏获选成为史上第二佳游戏\[173\]。游戏还获得《Fami通》和《电击》史上最催泪游戏投票的首位\[174\]\[175\]。提达和尤娜主要因个性和彼此浪漫关系而成为受欢迎的游戏角色\[176\]\[177\]\[178\]。
+《最终幻想X》获得2001－2002年度[日本游戏大奖](../Page/日本游戏大奖.md "wikilink")之最佳游戏奖\[156\]。在2001年GameSpot的“最佳与最劣奖”中，游戏获得“年度十大电子游戏”分类的第7名\[157\]。《最终幻想X》成为IGN 2007年“史上25大PS2游戏”的第5名以及“史上10大最佳画面PS游戏”的第6名\[158\]\[159\]。游戏在GameSpy的史上25大PlayStation 2游戏榜单中排名第21\[160\]。[1UP.com](../Page/1UP.com.md "wikilink")将游戏结局列为第3杰出的电子游戏桥段，而IGN将其列为第五大预渲染过场动画\[161\]\[162\]。在IGN 2006年的最佳电子游戏读者票选中，游戏获得第60名\[163\]。游戏还被[Gamasutra选为](https://zh.wikipedia.org/wiki/Gamasutra "wikilink")20款必备日式角色扮演游戏之一\[164\]。游戏还登上《[Game Informer](../Page/Game_Informer.md "wikilink")》“史上200大电子游戏”榜单的第43位\[165\]。《最终幻想X》是[GameFAQs](../Page/GameFAQs.md "wikilink")2004年选出的最伟大的电子游戏之一\[166\]，2005年11月又在“史上最佳游戏”票选中获得第12名\[167\]。在系列横评中，[GamesRadar和IGN都将](https://zh.wikipedia.org/wiki/GamesRadar "wikilink")《最终幻想X》排在第4名\[168\]\[169\]。在2003年举办的第6届[互动成就奖中](https://zh.wikipedia.org/wiki/互动成就奖 "wikilink")，游戏被提名“动画杰出成就奖”和“年度游戏机角色扮演游戏”\[170\]。[吉尼斯世界纪录](../Page/吉尼斯世界纪录.md "wikilink")在2007年年末将《最终幻想X》认证为第9畅销RPG\[171\]。游戏在2001年被GameFAQs读者投票选为年度游戏\[172\]。在《电击》杂志2008年举办的读者投票中，游戏获选成为史上第二佳游戏\[173\]。游戏还获得《Fami通》和《电击》史上最催泪游戏投票的首位\[174\]\[175\]。提达和尤娜主要因个性和彼此浪漫关系而成为受欢迎的游戏角色\[176\]\[177\]\[178\]。
 
 ## 影响
 
-随着PS2版《最终幻想X》的商业成功，2003年史克威尔艾尼克斯繼續在PS2平台上发行了后传《[最终幻想X-2](../Page/最终幻想X-2.md "wikilink")》\[179\]。续作设定于《最终幻想X》结局的两年后，以新冲突和难题为情节，并解释了原游戏留下的未解结局。虽然续作超過540万的销量\[180\]的销量不如前作的超過800万，但仍被视为商业成功。因为作品的人气，[北濑佳范和](https://zh.wikipedia.org/wiki/北濑佳范 "wikilink")[野岛一成决定在](../Page/野岛一成.md "wikilink")《最终幻想X》和《最终幻想VII》——另一畅销最终幻想游戏——中建立相关情节\[181\]。2013年在《高清重制版》发行后，野岛称他希望看到《最终幻想X》的第二部续作，且如果有需求，这并非不可能\[182\]。
+随着PS2版《最终幻想X》的商业成功，2003年史克威尔艾尼克斯繼續在PS2平台上发行了后传《[最终幻想X-2](../Page/最终幻想X-2.md "wikilink")》\[179\]。续作设定于《最终幻想X》结局的两年后，以新冲突和难题为情节，并解释了原游戏留下的未解结局。虽然续作超過540万的销量\[180\]的销量不如前作的超過800万，但仍被视为商业成功。因为作品的人气，[北濑佳范和](https://zh.wikipedia.org/wiki/北濑佳范 "wikilink")[野岛一成](../Page/野岛一成.md "wikilink")决定在《最终幻想X》和《最终幻想VII》——另一畅销最终幻想游戏——中建立相关情节\[181\]。2013年在《高清重制版》发行后，野岛称他希望看到《最终幻想X》的第二部续作，且如果有需求，这并非不可能\[182\]。
 
-《最终幻想X》通过配音和细致的面部表情达到的逼真情绪描绘优势已成为系列的基本特征，后来《最终幻想X-2》等作品也采用这种开发。以全程即时3D环境取代世界地图也成为系列标准之一，《最终幻想XI》、《[XII](../Page/最终幻想XII.md "wikilink")》、《[XIII](../Page/最终幻想XIII.md "wikilink")》及续作、《[XIV](../Page/最终幻想XIV.md "wikilink")》和《[XV](https://zh.wikipedia.org/wiki/最终幻想XV "wikilink")》都采用这种方式。《最终幻想X》可被视作3D
-RPG地图的先导\[183\]。
+《最终幻想X》通过配音和细致的面部表情达到的逼真情绪描绘优势已成为系列的基本特征，后来《最终幻想X-2》等作品也采用这种开发。以全程即时3D环境取代世界地图也成为系列标准之一，《最终幻想XI》、《[XII](../Page/最终幻想XII.md "wikilink")》、《[XIII](../Page/最终幻想XIII.md "wikilink")》及续作、《[XIV](../Page/最终幻想XIV.md "wikilink")》和《[XV](https://zh.wikipedia.org/wiki/最终幻想XV "wikilink")》都采用这种方式。《最终幻想X》可被视作3D RPG地图的先导\[183\]。
 
 ## 参考文献
 
@@ -159,18 +106,7 @@ RPG地图的先导\[183\]。
 
   -
 
-[Category:2001年电子游戏](https://zh.wikipedia.org/wiki/Category:2001年电子游戏 "wikilink")
-[Category:最终幻想系列电子游戏](https://zh.wikipedia.org/wiki/Category:最终幻想系列电子游戏 "wikilink")
-[Category:最终幻想X](https://zh.wikipedia.org/wiki/Category:最终幻想X "wikilink")
-[Category:史克威尔游戏](https://zh.wikipedia.org/wiki/Category:史克威尔游戏 "wikilink")
-[Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink")
-[Category:PlayStation_2独占游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2独占游戏 "wikilink")
-[Category:怪物題材作品](https://zh.wikipedia.org/wiki/Category:怪物題材作品 "wikilink")
-[Category:宗教批判](https://zh.wikipedia.org/wiki/Category:宗教批判 "wikilink")
-[Category:宗教題材作品](https://zh.wikipedia.org/wiki/Category:宗教題材作品 "wikilink")
-[Category:歧視與差別待遇題材作品](https://zh.wikipedia.org/wiki/Category:歧視與差別待遇題材作品 "wikilink")
-[Category:政府题材虚构作品](https://zh.wikipedia.org/wiki/Category:政府题材虚构作品 "wikilink")
-[Category:女性反派电子游戏](https://zh.wikipedia.org/wiki/Category:女性反派电子游戏 "wikilink")
+[Category:2001年电子游戏](https://zh.wikipedia.org/wiki/Category:2001年电子游戏 "wikilink") [Category:最终幻想系列电子游戏](https://zh.wikipedia.org/wiki/Category:最终幻想系列电子游戏 "wikilink") [Category:最终幻想X](https://zh.wikipedia.org/wiki/Category:最终幻想X "wikilink") [Category:史克威尔游戏](https://zh.wikipedia.org/wiki/Category:史克威尔游戏 "wikilink") [Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink") [Category:PlayStation_2独占游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2独占游戏 "wikilink") [Category:怪物題材作品](https://zh.wikipedia.org/wiki/Category:怪物題材作品 "wikilink") [Category:宗教批判](https://zh.wikipedia.org/wiki/Category:宗教批判 "wikilink") [Category:宗教題材作品](https://zh.wikipedia.org/wiki/Category:宗教題材作品 "wikilink") [Category:歧視與差別待遇題材作品](https://zh.wikipedia.org/wiki/Category:歧視與差別待遇題材作品 "wikilink") [Category:政府题材虚构作品](https://zh.wikipedia.org/wiki/Category:政府题材虚构作品 "wikilink") [Category:女性反派电子游戏](https://zh.wikipedia.org/wiki/Category:女性反派电子游戏 "wikilink")
 
 1.  <http://jp.ign.com/square-enix/17748/opinion/ffdqrpg>
 
@@ -308,8 +244,7 @@ RPG地图的先导\[183\]。
 
 104. (February 19, 2003). *The Black Mages*. DigiCube. SSCX-10080
 
-105. (December 22, 2004). *The Black Mages II: The Skies Above*.
-     Universal Music. UPCH-1377
+105. (December 22, 2004). *The Black Mages II: The Skies Above*. Universal Music. UPCH-1377
 
 106.
 

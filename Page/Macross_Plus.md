@@ -1,6 +1,4 @@
-《**Macross
-Plus**》是[超時空要塞系列於](https://zh.wikipedia.org/wiki/超時空要塞 "wikilink")1990年代中期發行的[OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")，由[TRIANGLE
-STAFF製作](../Page/TRIANGLE_STAFF.md "wikilink")。描述初代超時空要塞故事後30年，統合軍於外星殖民地開發新式[可變型戰鬥機的始末](../Page/可變型戰鬥機.md "wikilink")。本片共分四集，並於1995年公開由四集OVA剪輯而成的電影版。
+《**Macross Plus**》是[超時空要塞系列於](https://zh.wikipedia.org/wiki/超時空要塞 "wikilink")1990年代中期發行的[OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")，由[TRIANGLE STAFF製作](../Page/TRIANGLE_STAFF.md "wikilink")。描述初代超時空要塞故事後30年，統合軍於外星殖民地開發新式[可變型戰鬥機](../Page/可變型戰鬥機.md "wikilink")的始末。本片共分四集，並於1995年公開由四集OVA剪輯而成的電影版。
 
 ## 概要
 
@@ -8,8 +6,7 @@ STAFF製作](../Page/TRIANGLE_STAFF.md "wikilink")。描述初代超時空要塞
 
 2040年，地球統合軍為了替換[VF-11展開了一項名為](../Page/VF-11雷霆式戰鬥機.md "wikilink")「超新星」的計畫，開發新一代的可變型戰鬥機。卡爾德以通用銀河公司的試飛主任的身分，於殖民星伊甸上的新愛德華基地負責[YF-21的測試工作](https://zh.wikipedia.org/wiki/YF-21/VF-22雨燕 "wikilink")。已是統合軍中尉的勇也在此時調返故鄉，以試飛員的身分加入計畫，為另一競爭團隊試飛[YF-19](https://zh.wikipedia.org/wiki/YF-19/VF-19王者之劍 "wikilink")。而成為「夏濃之蘋果」經紀人的謬，則是為了公司的造勢活動而回到伊甸。在不預期的機緣中，三人終於又同時回到故鄉。這樣的重逢，挑起了他們心中塵封已久的心結。在新仇加舊恨下，勇與卡爾德兩人在超新星計畫中開始了激烈的互角。
 
-同時，統合軍也正在進行一項秘密計畫——開發取代有人飛機的無人戰鬥機[GHOST
-X-9](https://zh.wikipedia.org/wiki/GHOST_X-9 "wikilink")，並將於第一次宇宙大戰勝利紀念日發表。這一陰影，正要降臨在超新星計畫與兩位主角的身上。
+同時，統合軍也正在進行一項秘密計畫——開發取代有人飛機的無人戰鬥機[GHOST X-9](https://zh.wikipedia.org/wiki/GHOST_X-9 "wikilink")，並將於第一次宇宙大戰勝利紀念日發表。這一陰影，正要降臨在超新星計畫與兩位主角的身上。
 
 這一次，他們將為過去的矛盾作出最後的總決算。
 
@@ -17,8 +14,7 @@ X-9](https://zh.wikipedia.org/wiki/GHOST_X-9 "wikilink")，並將於第一次宇
 
   -
     統合軍中尉，新星計畫中YF-19試飛員。性格耿直豪爽，飛行技術高超，服役紀錄輝煌，曾三次獲得[洛伊·福克獎提名](https://zh.wikipedia.org/wiki/Macross_Zero#主要人物 "wikilink")，但以經常性違紀而惡名昭彰。
-    在[Macross
-    F劇場版中確認已加入民間軍事公司S](https://zh.wikipedia.org/wiki/Macross_F_戀離飛翼 "wikilink").M.S。
+    在[Macross F劇場版中確認已加入民間軍事公司S](https://zh.wikipedia.org/wiki/Macross_F_戀離飛翼 "wikilink").M.S。
   -
     新星計畫中YF-21試飛員兼設計主任，[傑特拉帝人後裔](https://zh.wikipedia.org/wiki/傑特拉帝人 "wikilink")，是勇與謬兒時的玩伴。高中畢業前，因謬而與勇交惡，是勇在公私兩方面的強勁對手。
   -
@@ -45,8 +41,7 @@ X-9](https://zh.wikipedia.org/wiki/GHOST_X-9 "wikilink")，並將於第一次宇
 
 本片中擔任*夏濃的蘋果*經紀人馬季之配音者，為初代[超時空要塞飾演主角之一的馬克思的速水獎先生](https://zh.wikipedia.org/wiki/超時空要塞 "wikilink")。由是之故，在某單曲CD中，出現過一段速水獎與勇及另一位初代超時空要塞主角米利亞的有趣對話。
 
-而本片的主角勇·戴森於2011年作品【劇場版 マクロスF
-戀離飛翼～サヨナラノツバサ～】中，作為SMS飛行員客串登場。當時為2059年，勇時值44歲。
+而本片的主角勇·戴森於2011年作品【劇場版 マクロスF 戀離飛翼～サヨナラノツバサ～】中，作為SMS飛行員客串登場。當時為2059年，勇時值44歲。
 
 ## 登場兵器
 
@@ -59,19 +54,15 @@ X-9](https://zh.wikipedia.org/wiki/GHOST_X-9 "wikilink")，並將於第一次宇
 ## 制作人员
 
   - 企画 - 大西良昌、茂木隆、末吉博彦、宮田達夫、浅見勇
-  - 原作 - [Studio
-    Nue](https://zh.wikipedia.org/wiki/Studio_Nue "wikilink")、[河森正治](../Page/河森正治.md "wikilink")
+  - 原作 - [Studio Nue](https://zh.wikipedia.org/wiki/Studio_Nue "wikilink")、[河森正治](../Page/河森正治.md "wikilink")
   - 总导演 - 河森正治
   - 导演 - [渡边信一郎](../Page/渡边信一郎.md "wikilink")
   - 剧本 - [信本敬子](https://zh.wikipedia.org/wiki/信本敬子 "wikilink")
   - [机械设计](https://zh.wikipedia.org/wiki/机械设计_\(动画\) "wikilink") - 河森正治
-  - [人物设计](https://zh.wikipedia.org/wiki/人物设计 "wikilink") -
-    [摩砂雪](../Page/摩砂雪.md "wikilink")
-  - 舞台設定、机械設定 -
-    [宫武一贵](https://zh.wikipedia.org/wiki/宫武一贵 "wikilink")、河森正治
+  - [人物设计](https://zh.wikipedia.org/wiki/人物设计 "wikilink") - [摩砂雪](../Page/摩砂雪.md "wikilink")
+  - 舞台設定、机械設定 - [宫武一贵](https://zh.wikipedia.org/wiki/宫武一贵 "wikilink")、河森正治
   - 分镜 - 河森正治、渡边信一郎、[樋口真嗣](../Page/樋口真嗣.md "wikilink")（2話、3話、劇場版）
-  - 作画監督 -
-    摩砂雪（**夷倭世**名義）（1話）、[青野厚司](https://zh.wikipedia.org/wiki/青野厚司 "wikilink")（2話）、[森山雄治](../Page/森山雄治.md "wikilink")（3話）、瀬尾康博（4話、劇場版）
+  - 作画監督 - 摩砂雪（**夷倭世**名義）（1話）、[青野厚司](https://zh.wikipedia.org/wiki/青野厚司 "wikilink")（2話）、[森山雄治](../Page/森山雄治.md "wikilink")（3話）、瀬尾康博（4話、劇場版）
   - 特技監督 - [板野一郎](../Page/板野一郎.md "wikilink")
 
 <!-- end list -->
@@ -91,30 +82,20 @@ X-9](https://zh.wikipedia.org/wiki/GHOST_X-9 "wikilink")，並將於第一次宇
 <!-- end list -->
 
   - 动画制作 - [TRIANGLE STAFF](../Page/TRIANGLE_STAFF.md "wikilink")
-  - 音楽 - [菅野洋子](../Page/菅野洋子.md "wikilink")（劇中曲「Information
-    High」のみ[CMJK](https://zh.wikipedia.org/wiki/CMJK "wikilink")）
+  - 音楽 - [菅野洋子](../Page/菅野洋子.md "wikilink")（劇中曲「Information High」のみ[CMJK](https://zh.wikipedia.org/wiki/CMJK "wikilink")）
 
 <!-- end list -->
 
   - 音楽監修 - [溝口肇](https://zh.wikipedia.org/wiki/溝口肇 "wikilink")
   - 出品 - 大西加紋、高梨実、津田義夫、井口亮、神田浩武
-  - 製作、著作 -
-    [万代影视](https://zh.wikipedia.org/wiki/万代影视 "wikilink")、BigWest、ヒーロー、[毎日放送](https://zh.wikipedia.org/wiki/毎日放送 "wikilink")、[小学馆](https://zh.wikipedia.org/wiki/小学馆 "wikilink")
+  - 製作、著作 - [万代影视](https://zh.wikipedia.org/wiki/万代影视 "wikilink")、BigWest、ヒーロー、[毎日放送](https://zh.wikipedia.org/wiki/毎日放送 "wikilink")、[小学馆](https://zh.wikipedia.org/wiki/小学馆 "wikilink")
 
 ## 外部链接
 
   - [Macross World](http://www.macrossworld.com/)
-  - [Macross
-    Nexus](https://web.archive.org/web/20060425145600/http://www.macrossnexus.com/)
+  - [Macross Nexus](https://web.archive.org/web/20060425145600/http://www.macrossnexus.com/)
   - [MAHQ](http://www.mahq.net/)
-  - [UN Spacy
-    Database](https://web.archive.org/web/20070126023352/http://unsd.macrossroleplay.org/)
-  - [Macross
-    Plus插曲](http://www.geocities.co.jp/HeartLand-Kaede/5804/voices.html)
+  - [UN Spacy Database](https://web.archive.org/web/20070126023352/http://unsd.macrossroleplay.org/)
+  - [Macross Plus插曲](http://www.geocities.co.jp/HeartLand-Kaede/5804/voices.html)
 
-[Category:1994年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:1994年日本OVA動畫 "wikilink")
-[Category:机器人动画](https://zh.wikipedia.org/wiki/Category:机器人动画 "wikilink")
-[Category:日本科幻片](https://zh.wikipedia.org/wiki/Category:日本科幻片 "wikilink")
-[Category:架空歷史作品](https://zh.wikipedia.org/wiki/Category:架空歷史作品 "wikilink")
-[Category:超時空要塞](https://zh.wikipedia.org/wiki/Category:超時空要塞 "wikilink")
-[Category:日本原創動畫電影](https://zh.wikipedia.org/wiki/Category:日本原創動畫電影 "wikilink")
+[Category:1994年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:1994年日本OVA動畫 "wikilink") [Category:机器人动画](https://zh.wikipedia.org/wiki/Category:机器人动画 "wikilink") [Category:日本科幻片](https://zh.wikipedia.org/wiki/Category:日本科幻片 "wikilink") [Category:架空歷史作品](https://zh.wikipedia.org/wiki/Category:架空歷史作品 "wikilink") [Category:超時空要塞](https://zh.wikipedia.org/wiki/Category:超時空要塞 "wikilink") [Category:日本原創動畫電影](https://zh.wikipedia.org/wiki/Category:日本原創動畫電影 "wikilink")

@@ -1,13 +1,12 @@
 **TVB兒童-{台}-**（；前稱****）是[香港](../Page/香港.md "wikilink")[無綫網絡電視](https://zh.wikipedia.org/wiki/無綫網絡電視 "wikilink")（2013年前身為[無綫收費電視](https://zh.wikipedia.org/wiki/無綫收費電視 "wikilink")）擁有的一條以兒童為對象而設的頻道，該頻道會播放家長可與小朋友一起收看最新的合家歡及益智的卡通，加強親子關係，而且亦會舉辦一系列由小朋友參與之選舉活動、讓小朋友發揮天賦才藝及潛質。2006年3月1日更名為“無綫兒童台”。
 
-該頻道的主要競爭對手是[香港有線電視擁有的](../Page/香港有線電視.md "wikilink")[兒童台](../Page/有線兒童台.md "wikilink")。
+該頻道的主要競爭對手是[香港有線電視](../Page/香港有線電視.md "wikilink")擁有的[兒童台](../Page/有線兒童台.md "wikilink")。
 
 ## 歷史
 
 2004年1月27日，「**銀河衞視**」開始試播，該頻道以「」作為頻道名稱正式開播。
 
-2006年3月1日，為配合「**SuperSun
-新電視**」易名「**無綫收費電視**」，其頻道名稱將「」更名為「**無綫兒童-{台}-**」，同年5月10日開始正式透過無綫收費電視使用第11頻道收看和[now寬頻電視的無綫收費電視特選組合第](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")811頻道播出。
+2006年3月1日，為配合「**SuperSun 新電視**」易名「**無綫收費電視**」，其頻道名稱將「」更名為「**無綫兒童-{台}-**」，同年5月10日開始正式透過無綫收費電視使用第11頻道收看和[now寬頻電視的無綫收費電視特選組合第](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")811頻道播出。
 
 2013年4月1日，無綫網絡電視部分頻道號碼正式更改，其中該頻道將使用原有的第11頻道更改為現有的第10頻道。\[1\]
 
@@ -17,9 +16,7 @@
 
 ## 播放模式
 
-「tvbQ」開台初期分為兩部份，早上6時正至晚上8時正為兒童節目時段，包括自製節目《小 Teen
-地》，外購真人演出之兒童節目《[天線得得B](https://zh.wikipedia.org/wiki/天線得得B "wikilink")》，另有不少歐美動畫片集及重播的日本動畫片集《[忍者小靈精](../Page/忍者小靈精.md "wikilink")》及《[我係小忌廉](../Page/我係小忌廉.md "wikilink")》；而晚上8時正至翌日早上6時正則會播放
-[BBC製作的紀錄片](https://zh.wikipedia.org/wiki/英國廣播公司 "wikilink")，自製節目[中西醫療坊及](https://zh.wikipedia.org/wiki/中西醫療坊 "wikilink")[成長的故事](https://zh.wikipedia.org/wiki/成長的故事 "wikilink")，外購劇集（例如：[我的這一班](../Page/我的這一班_\(台灣電視劇\).md "wikilink")）及資訊節目（例如：[寵物大本營](../Page/寵物當家.md "wikilink")），非以兒童為對象的動畫片集，包括：《[龍珠](https://zh.wikipedia.org/wiki/龍珠 "wikilink")》、《[金田一少年之事件簿](https://zh.wikipedia.org/wiki/金田一少年之事件簿_\(動畫\) "wikilink")》、《[火影忍者](../Page/火影忍者.md "wikilink")》、《[長空浪族](https://zh.wikipedia.org/wiki/LAST_EXILE "wikilink")》等。
+「tvbQ」開台初期分為兩部份，早上6時正至晚上8時正為兒童節目時段，包括自製節目《小 Teen 地》，外購真人演出之兒童節目《[天線得得B](https://zh.wikipedia.org/wiki/天線得得B "wikilink")》，另有不少歐美動畫片集及重播的日本動畫片集《[忍者小靈精](../Page/忍者小靈精.md "wikilink")》及《[我係小忌廉](../Page/我係小忌廉.md "wikilink")》；而晚上8時正至翌日早上6時正則會播放 [BBC製作的紀錄片](https://zh.wikipedia.org/wiki/英國廣播公司 "wikilink")，自製節目[中西醫療坊及](https://zh.wikipedia.org/wiki/中西醫療坊 "wikilink")[成長的故事](https://zh.wikipedia.org/wiki/成長的故事 "wikilink")，外購劇集（例如：[我的這一班](../Page/我的這一班_\(台灣電視劇\).md "wikilink")）及資訊節目（例如：[寵物大本營](../Page/寵物當家.md "wikilink")），非以兒童為對象的動畫片集，包括：《[龍珠](https://zh.wikipedia.org/wiki/龍珠 "wikilink")》、《[金田一少年之事件簿](https://zh.wikipedia.org/wiki/金田一少年之事件簿_\(動畫\) "wikilink")》、《[火影忍者](../Page/火影忍者.md "wikilink")》、《[長空浪族](https://zh.wikipedia.org/wiki/LAST_EXILE "wikilink")》等。
 
 於2005年6月13日晚上開始，停止播放非以兒童為對象的動畫片集，而受到影響之動畫片集《[龍珠](https://zh.wikipedia.org/wiki/龍珠 "wikilink")》及《[火影忍者](../Page/火影忍者.md "wikilink")》則由同年6月18日開始改於[無綫音樂台播放](../Page/TVB音樂台.md "wikilink")，但是《[長空浪族](https://zh.wikipedia.org/wiki/LAST_EXILE "wikilink")》仍然安排於「tvbQ」的晚間時段播放直至6月26日。
 
@@ -50,11 +47,11 @@
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/梁珈詠" title="wikilink">梁珈詠</a><br />
-(副首席主持兼<a href="../Page/放學ICU.md" title="wikilink">放學ICU主持</a>)</p></td>
+(副首席主持兼<a href="../Page/放學ICU.md" title="wikilink">放學ICU</a>主持)</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/霍健邦" title="wikilink">霍健邦</a><br />
-(高級主持兼<a href="../Page/放學ICU.md" title="wikilink">放學ICU主持</a>)</p></td>
+(高級主持兼<a href="../Page/放學ICU.md" title="wikilink">放學ICU</a>主持)</p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"></td>
@@ -71,11 +68,11 @@
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/許穎童" title="wikilink">許穎童</a><br />
-(首席小主持兼<a href="../Page/放學ICU.md" title="wikilink">放學ICU小主持</a>)</p></td>
+(首席小主持兼<a href="../Page/放學ICU.md" title="wikilink">放學ICU</a>小主持)</p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/何韻熙" title="wikilink">何韻熙</a><br />
-(高級小主持兼<a href="../Page/放學ICU.md" title="wikilink">放學ICU小主持</a>)</p></td>
+(高級小主持兼<a href="../Page/放學ICU.md" title="wikilink">放學ICU</a>小主持)</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/黃樂霖" title="wikilink">黃樂霖</a></p></td>
@@ -101,7 +98,7 @@
 
 ## 動畫
 
-  - [寶石寵物系列](../Page/寶石寵物.md "wikilink")
+  - [寶石寵物](../Page/寶石寵物.md "wikilink")系列
 
   - [雙子公主](https://zh.wikipedia.org/wiki/雙子公主 "wikilink")
 
@@ -189,7 +186,7 @@
 
   - [娛樂金魚眼](https://zh.wikipedia.org/wiki/娛樂金魚眼 "wikilink")
 
-  - [老夫子系列](../Page/老夫子.md "wikilink")
+  - [老夫子](../Page/老夫子.md "wikilink")系列
 
   - [魔界女王候補生](../Page/魔界女王候補生.md "wikilink")
 
@@ -199,8 +196,7 @@
 
   - [Battle Spirits 少年勇者](../Page/Battle_Spirits_Brave.md "wikilink")
 
-  - [Battle Spirits
-    小霸王](https://zh.wikipedia.org/wiki/Battle_Spirits_小霸王 "wikilink")
+  - [Battle Spirits 小霸王](https://zh.wikipedia.org/wiki/Battle_Spirits_小霸王 "wikilink")
 
   -
   - [絕對無敵](https://zh.wikipedia.org/wiki/絕對無敵 "wikilink")
@@ -211,11 +207,11 @@
 
   - [四驅小子](https://zh.wikipedia.org/wiki/四驅小子 "wikilink")
 
-  - [奇幻魔法Melody系列](../Page/奇幻魔法Melody.md "wikilink")
+  - [奇幻魔法Melody](../Page/奇幻魔法Melody.md "wikilink")系列
 
   - [哈姆太郎](../Page/哈姆太郎.md "wikilink")
 
-  - [爆丸系列](../Page/爆丸.md "wikilink")
+  - [爆丸](../Page/爆丸.md "wikilink")系列
 
   - [麵包超人](../Page/麵包超人.md "wikilink")
 
@@ -252,7 +248,7 @@
 
   - [幪面貓俠](https://zh.wikipedia.org/wiki/幪面貓俠 "wikilink")
 
-  - [馬達加斯加的企鵝系列](../Page/馬達加斯加的企鵝.md "wikilink")
+  - [馬達加斯加的企鵝](../Page/馬達加斯加的企鵝.md "wikilink")系列
 
   - [功夫熊貓至尊傳奇](https://zh.wikipedia.org/wiki/功夫熊貓至尊傳奇 "wikilink")
 
@@ -268,9 +264,6 @@
 
 ## 外部連結
 
-[Category:電視廣播有限公司電視頻道](https://zh.wikipedia.org/wiki/Category:電視廣播有限公司電視頻道 "wikilink")
-[Category:2006年成立的電視台或電視頻道](https://zh.wikipedia.org/wiki/Category:2006年成立的電視台或電視頻道 "wikilink")
-[Category:香港已停播的電視頻道](https://zh.wikipedia.org/wiki/Category:香港已停播的電視頻道 "wikilink")
-[Category:粤语电视频道](https://zh.wikipedia.org/wiki/Category:粤语电视频道 "wikilink")
+[Category:電視廣播有限公司電視頻道](https://zh.wikipedia.org/wiki/Category:電視廣播有限公司電視頻道 "wikilink") [Category:2006年成立的電視台或電視頻道](https://zh.wikipedia.org/wiki/Category:2006年成立的電視台或電視頻道 "wikilink") [Category:香港已停播的電視頻道](https://zh.wikipedia.org/wiki/Category:香港已停播的電視頻道 "wikilink") [Category:粤语电视频道](https://zh.wikipedia.org/wiki/Category:粤语电视频道 "wikilink")
 
 1.

@@ -1,5 +1,4 @@
-[Transmac_R211_35.JPG](https://zh.wikipedia.org/wiki/File:Transmac_R211_35.JPG "fig:Transmac_R211_35.JPG")
-[澳門新福利公共汽車有限公司由](../Page/澳門新福利公共汽車有限公司.md "wikilink")1988年開始購買由[日本](../Page/日本.md "wikilink")[三菱扶桑卡客車株式會社生產的](https://zh.wikipedia.org/wiki/三菱FUSO "wikilink")[ROSA小巴](https://zh.wikipedia.org/wiki/三菱Rosa "wikilink")。[新福利以](../Page/澳門新福利公共汽車有限公司.md "wikilink")「**R**（ROSA的首個字母）」作為此批巴士的車隊編號，車隊首部ROSA編號為R01，再如此類推。
+[Transmac_R211_35.JPG](https://zh.wikipedia.org/wiki/File:Transmac_R211_35.JPG "fig:Transmac_R211_35.JPG") [澳門新福利公共汽車有限公司](../Page/澳門新福利公共汽車有限公司.md "wikilink")由1988年開始購買由[日本](../Page/日本.md "wikilink")[三菱扶桑卡客車株式會社生產的](https://zh.wikipedia.org/wiki/三菱FUSO "wikilink")[ROSA小巴](https://zh.wikipedia.org/wiki/三菱Rosa "wikilink")。[新福利以](../Page/澳門新福利公共汽車有限公司.md "wikilink")「**R**（ROSA的首個字母）」作為此批巴士的車隊編號，車隊首部ROSA編號為R01，再如此類推。
 
 截至2015年，[新福利車隊中的ROSA小巴共有](../Page/澳門新福利公共汽車有限公司.md "wikilink")370輛。ROSA小巴佔新福利整個車隊達半數之多，不過當中不少已因車齡問題而陸續退役。
 
@@ -94,9 +93,7 @@
 
 ### 雙門版本
 
-[Transmac_R315_28C.JPG](https://zh.wikipedia.org/wiki/File:Transmac_R315_28C.JPG "fig:Transmac_R315_28C.JPG")
-[Transmac_Mitsubishi_Fuso_Rosa_R335.jpg](https://zh.wikipedia.org/wiki/File:Transmac_Mitsubishi_Fuso_Rosa_R335.jpg "fig:Transmac_Mitsubishi_Fuso_Rosa_R335.jpg")
-新福利自1990年開始要求三菱方面研製雙門版本的ROSA小巴，令乘客上落車變得更有效率。終在1998年，三菱方面向新福利提供5部雙門版的ROSA小巴作為試驗，新福利於是成為全球首家使用雙門版ROSA小巴的巴士公司。新福利旗下的雙門ROSA小巴現時共有105部，款式大致相同，車上設有19座位，連企位最高可載35人。全部車輛都採用[米芝蓮或](https://zh.wikipedia.org/wiki/米芝蓮 "wikilink")[橫濱橡膠生產的內膽式車胎](../Page/橫濱橡膠.md "wikilink")（前後輪尺寸均為7.00R16）。生產工場為三菱扶桑大江巴士工場（[愛知縣](../Page/愛知縣.md "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")），但在2011年引進的最新版本車輛已改由三菱扶桑客車製造株式會社（[富山縣](../Page/富山縣.md "wikilink")[富山市](../Page/富山市.md "wikilink")）負責生產。
+[Transmac_R315_28C.JPG](https://zh.wikipedia.org/wiki/File:Transmac_R315_28C.JPG "fig:Transmac_R315_28C.JPG") [Transmac_Mitsubishi_Fuso_Rosa_R335.jpg](https://zh.wikipedia.org/wiki/File:Transmac_Mitsubishi_Fuso_Rosa_R335.jpg "fig:Transmac_Mitsubishi_Fuso_Rosa_R335.jpg") 新福利自1990年開始要求三菱方面研製雙門版本的ROSA小巴，令乘客上落車變得更有效率。終在1998年，三菱方面向新福利提供5部雙門版的ROSA小巴作為試驗，新福利於是成為全球首家使用雙門版ROSA小巴的巴士公司。新福利旗下的雙門ROSA小巴現時共有105部，款式大致相同，車上設有19座位，連企位最高可載35人。全部車輛都採用[米芝蓮或](https://zh.wikipedia.org/wiki/米芝蓮 "wikilink")[橫濱橡膠](../Page/橫濱橡膠.md "wikilink")生產的內膽式車胎（前後輪尺寸均為7.00R16）。生產工場為三菱扶桑大江巴士工場（[愛知縣](../Page/愛知縣.md "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")），但在2011年引進的最新版本車輛已改由三菱扶桑客車製造株式會社（[富山縣](../Page/富山縣.md "wikilink")[富山市](../Page/富山市.md "wikilink")）負責生產。
 
 2013年引進兩輛新版車輛，引擎改用[快意製造的](https://zh.wikipedia.org/wiki/菲亞特汽車 "wikilink")4P10（T6）直列四汽缸DOHC共軌直噴渦輪柴油引擎並配合BLUETEC尿素SCR系統以符合歐盟環保五型標準，波箱同時改為六前速DUONIC半自動加減波箱，車胎也改用205/85R16尺寸之無內膽原子胎，唯因波箱在斜路停車時會被中控電腦強制切換至手動模式，該版本的Rosa在斜路起步時對比採用全自動波箱之舊版顯得吃力。
 

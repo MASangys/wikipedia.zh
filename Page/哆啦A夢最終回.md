@@ -1,5 +1,4 @@
-**哆啦A夢最終回**，意為[日本著名](../Page/日本.md "wikilink")[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")《[哆啦A夢](../Page/哆啦A夢.md "wikilink")》的結局。目前除了原作者[藤子·F·不二雄因出版社暫停哆啦A夢連載時的暫別篇](../Page/藤子·F·不二雄.md "wikilink")，及電視動畫季度播畢後的告別篇，幾乎為網上流傳作品，儘管如此，作者去世前仍表明《哆啦A夢》沒有實質上結局，並隨著過世而結束連載，現今《哆啦A夢》的動畫仍在日本[朝日電視台播放](../Page/朝日電視台.md "wikilink")，漫畫連載部分則由[小學館出版社及](../Page/小學館.md "wikilink")[藤子·F·不二雄製作公司繼續出版](../Page/藤子·F·不二雄製作公司.md "wikilink")，每年也會在日本黃金週檔期推出[動畫電影](https://zh.wikipedia.org/wiki/動畫電影 "wikilink")。
-__TOC__
+**哆啦A夢最終回**，意為[日本](../Page/日本.md "wikilink")著名[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")《[哆啦A夢](../Page/哆啦A夢.md "wikilink")》的結局。目前除了原作者[藤子·F·不二雄](../Page/藤子·F·不二雄.md "wikilink")因出版社暫停哆啦A夢連載時的暫別篇，及電視動畫季度播畢後的告別篇，幾乎為網上流傳作品，儘管如此，作者去世前仍表明《哆啦A夢》沒有實質上結局，並隨著過世而結束連載，現今《哆啦A夢》的動畫仍在日本[朝日電視台](../Page/朝日電視台.md "wikilink")播放，漫畫連載部分則由[小學館](../Page/小學館.md "wikilink")出版社及[藤子·F·不二雄製作公司](../Page/藤子·F·不二雄製作公司.md "wikilink")繼續出版，每年也會在日本黃金週檔期推出[動畫電影](https://zh.wikipedia.org/wiki/動畫電影 "wikilink")。 __TOC__
 
 ## 正式版本
 
@@ -13,15 +12,13 @@ __TOC__
 
 #### 昭和47版
 
-昭和47年（1972年）版，[世修認為如果哆啦A夢一直在大雄身邊](https://zh.wikipedia.org/wiki/世修 "wikilink")，大雄將會因為凡事依賴別人而一事無成，所以要哆啦A夢回未來。因而哆啦A夢裝病，但後來大雄很擔心，哆啦A夢便向大雄說他真正要回未來的原因，大雄說他也是這麼想，便讓哆啦A夢回未來。從此哆啦A夢天天用時光電視看大雄努力向上的樣子。[日本電視台昭和](../Page/日本電視台.md "wikilink")48年（1973年）放映的哆啦A夢依此為腳本，放映出哆啦A夢第1作的最後一集。
+昭和47年（1972年）版，[世修認為如果哆啦A夢一直在大雄身邊](https://zh.wikipedia.org/wiki/世修 "wikilink")，大雄將會因為凡事依賴別人而一事無成，所以要哆啦A夢回未來。因而哆啦A夢裝病，但後來大雄很擔心，哆啦A夢便向大雄說他真正要回未來的原因，大雄說他也是這麼想，便讓哆啦A夢回未來。從此哆啦A夢天天用時光電視看大雄努力向上的樣子。[日本電視台](../Page/日本電視台.md "wikilink")昭和48年（1973年）放映的哆啦A夢依此為腳本，放映出哆啦A夢第1作的最後一集。
 
 #### 昭和49版（再見，哆啦A夢）
 
-在[昭和](../Page/昭和.md "wikilink")49年（1974年）3月號繪製，哆啦A夢有日必須回未來了，[大雄靠自己打敗](../Page/野比大雄.md "wikilink")[胖虎後](https://zh.wikipedia.org/wiki/胖虎 "wikilink")，哆啦A夢就安心回去了。當時因為沒人氣，本來藤子想因此結束。但出於哆啦A夢的熱愛，他又在下一期畫了《哆啦A夢歸來了》
-，內容為大雄在[4月1日被胖虎騙](https://zh.wikipedia.org/wiki/愚人節 "wikilink")，他決定喝下哆啦A夢留給他的「[謊言800](https://zh.wikipedia.org/wiki/謊言800 "wikilink")」藥水，因為大雄說了：「哆啦A夢不會回來」終於和哆啦A夢重逢了。《再見，哆啦A夢》收錄於單行本第6卷、而《哆啦A夢歸來了》則收錄於單行本第7卷。
+在[昭和](../Page/昭和.md "wikilink")49年（1974年）3月號繪製，哆啦A夢有日必須回未來了，[大雄靠自己打敗](../Page/野比大雄.md "wikilink")[胖虎後](https://zh.wikipedia.org/wiki/胖虎 "wikilink")，哆啦A夢就安心回去了。當時因為沒人氣，本來藤子想因此結束。但出於哆啦A夢的熱愛，他又在下一期畫了《哆啦A夢歸來了》 ，內容為大雄在[4月1日被胖虎騙](https://zh.wikipedia.org/wiki/愚人節 "wikilink")，他決定喝下哆啦A夢留給他的「[謊言800](https://zh.wikipedia.org/wiki/謊言800 "wikilink")」藥水，因為大雄說了：「哆啦A夢不會回來」終於和哆啦A夢重逢了。《再見，哆啦A夢》收錄於單行本第6卷、而《哆啦A夢歸來了》則收錄於單行本第7卷。
 
-這段劇情被多次改編於動畫版，其中一次為1998劇場版[大雄的南海大冒險的附篇](../Page/大雄的南海大冒險.md "wikilink")[哆啦A夢回來了](../Page/哆啦A夢回來了.md "wikilink")，但由於影片廣為流傳遭到誤植或盜用，儘管電視動畫版仍然在播放中，卻經常被華文圈誤認為正式結局。2014年為紀念作者[藤子·F·不二雄诞辰](../Page/藤子·F·不二雄.md "wikilink")80週年的3D劇場版电影《STAND
-BY ME 哆啦A夢》，也經典重製此章節。
+這段劇情被多次改編於動畫版，其中一次為1998劇場版[大雄的南海大冒險](../Page/大雄的南海大冒險.md "wikilink")的附篇[哆啦A夢回來了](../Page/哆啦A夢回來了.md "wikilink")，但由於影片廣為流傳遭到誤植或盜用，儘管電視動畫版仍然在播放中，卻經常被華文圈誤認為正式結局。2014年為紀念作者[藤子·F·不二雄](../Page/藤子·F·不二雄.md "wikilink")诞辰80週年的3D劇場版电影《STAND BY ME 哆啦A夢》，也經典重製此章節。
 
 ### 動畫
 
@@ -29,11 +26,11 @@ BY ME 哆啦A夢》，也經典重製此章節。
 
 ## 網路流傳
 
-自[BBS時代開始](../Page/BBS.md "wikilink")，華文地區網路上就流傳著數種虛構的哆啦A夢結局，來源多半為[日本方面較早的謠傳](../Page/日本.md "wikilink")。
+自[BBS](../Page/BBS.md "wikilink")時代開始，華文地區網路上就流傳著數種虛構的哆啦A夢結局，來源多半為[日本](../Page/日本.md "wikilink")方面較早的謠傳。
 
 ### 植物人、自閉症兒童
 
-雖然內容略有差異，但皆以「大雄為[植物人](https://zh.wikipedia.org/wiki/植物人 "wikilink")、[自閉症兒童或其他失去身心自由之人](../Page/自閉症.md "wikilink")，所發生的一切皆如南柯一夢」為主要架構的灰暗版本結局，自從BBS流行之後即曾出現在各大動漫討論版，歷史悠久的假結局，其主要的版本包括：
+雖然內容略有差異，但皆以「大雄為[植物人](https://zh.wikipedia.org/wiki/植物人 "wikilink")、[自閉症](../Page/自閉症.md "wikilink")兒童或其他失去身心自由之人，所發生的一切皆如南柯一夢」為主要架構的灰暗版本結局，自從BBS流行之後即曾出現在各大動漫討論版，歷史悠久的假結局，其主要的版本包括：
 
   - 大雄是個自閉症兒童。而哆啦A夢及它的一切，只是大雄自己的幻想。
   - 大雄是個植物人，哆啦A夢的故事是他所做的夢。
@@ -55,13 +52,13 @@ BY ME 哆啦A夢》，也經典重製此章節。
 
 #### 版本出現的經緯
 
-本版本最早源於1990年代一名日本大學生在[個人網站所發表的](https://zh.wikipedia.org/wiki/個人網站 "wikilink")[同人](https://zh.wikipedia.org/wiki/同人 "wikilink")[小說](https://zh.wikipedia.org/wiki/小說 "wikilink")，但在被網友以電子郵件轉寄與藝人[鈴木蘭蘭於深夜](https://zh.wikipedia.org/wiki/鈴木蘭蘭 "wikilink")[廣播節目披露後引發意外的迴響](https://zh.wikipedia.org/wiki/廣播 "wikilink")。雖然原作者本人基於對藤子不二雄原作的尊重而撤除了-{zh-hant:連結;zh-hans:链接}-，但2005年時[同人誌漫畫家](../Page/同人誌.md "wikilink")[田嶋安恵仍以此為基礎推出了同人漫畫版的哆啦A夢完結篇](https://zh.wikipedia.org/wiki/田嶋安恵 "wikilink")，並在同人展售會取得1萬3千冊以上的驚人銷售量。稍後由於版權持有公司對此提出告訴，同人漫畫家最後以停止販售該漫畫，並將販售所得捐出的方式達成和解。
+本版本最早源於1990年代一名日本大學生在[個人網站所發表的](https://zh.wikipedia.org/wiki/個人網站 "wikilink")[同人](https://zh.wikipedia.org/wiki/同人 "wikilink")[小說](https://zh.wikipedia.org/wiki/小說 "wikilink")，但在被網友以電子郵件轉寄與藝人[鈴木蘭蘭於深夜](https://zh.wikipedia.org/wiki/鈴木蘭蘭 "wikilink")[廣播節目披露後引發意外的迴響](https://zh.wikipedia.org/wiki/廣播 "wikilink")。雖然原作者本人基於對藤子不二雄原作的尊重而撤除了-{zh-hant:連結;zh-hans:链接}-，但2005年時[同人誌](../Page/同人誌.md "wikilink")漫畫家[田嶋安恵仍以此為基礎推出了同人漫畫版的哆啦A夢完結篇](https://zh.wikipedia.org/wiki/田嶋安恵 "wikilink")，並在同人展售會取得1萬3千冊以上的驚人銷售量。稍後由於版權持有公司對此提出告訴，同人漫畫家最後以停止販售該漫畫，並將販售所得捐出的方式達成和解。
 
 雖然內容不被官方認同，但因風格極接近原作，被翻譯後在華文圈廣為流傳，因而被許多人誤認為「哆啦A夢真正的完結篇」。
 
 #### 爭議
 
-  - 該版本對主角未來的設定與原作並不同：[出木杉英才長大後成為了一名](../Page/出木杉英才.md "wikilink")[宇航员](../Page/宇航员.md "wikilink")，在這個版本則成為了日本總理；而[野比大雄長大後成為了環境廳公務員](../Page/野比大雄.md "wikilink")，在這個版本中則成為了機械博士。
+  - 該版本對主角未來的設定與原作並不同：[出木杉英才](../Page/出木杉英才.md "wikilink")長大後成為了一名[宇航员](../Page/宇航员.md "wikilink")，在這個版本則成為了日本總理；而[野比大雄](../Page/野比大雄.md "wikilink")長大後成為了環境廳公務員，在這個版本中則成為了機械博士。
   - 原設定[哆啦A夢的系統為重複利用能源](../Page/哆啦A夢_\(角色\).md "wikilink")，毀壞的理由不存在沒電的原因。
   - 雖然未來存在不確定性及變動可能，但照原計畫哆啦A夢應已回到世修的時代，原作中的大雄成人後生活並未提及哆啦A夢毀壞及保存一事。
   - 在多啦A夢第三作105集多啦A夢的重生之日中亦有交待研發者需要重新設定多啦A夢，因此應不存在多啦A夢及多啦美不知研發者是誰的一事。
@@ -69,7 +66,7 @@ BY ME 哆啦A夢》，也經典重製此章節。
 
 ### 無限輪迴
 
-网友的同人作，以[时间悖论做的一個虛構結局](../Page/时间悖论.md "wikilink")。
+网友的同人作，以[时间悖论](../Page/时间悖论.md "wikilink")做的一個虛構結局。
 
 #### 大綱
 
@@ -111,11 +108,9 @@ BY ME 哆啦A夢》，也經典重製此章節。
 
   - （哆啦A夢沒電了版）
 
-  - [植物人結局:哆啦A夢最終回 -
-    通往未來的夢](http://lavacity.blogspot.com/2018/06/blog-post.html)
+  - [植物人結局:哆啦A夢最終回 - 通往未來的夢](http://lavacity.blogspot.com/2018/06/blog-post.html)
 
-[Category:都市傳說](https://zh.wikipedia.org/wiki/Category:都市傳說 "wikilink")
-[Category:哆啦A夢](https://zh.wikipedia.org/wiki/Category:哆啦A夢 "wikilink")
+[Category:都市傳說](https://zh.wikipedia.org/wiki/Category:都市傳說 "wikilink") [Category:哆啦A夢](https://zh.wikipedia.org/wiki/Category:哆啦A夢 "wikilink")
 
 1.
 2.

@@ -1,18 +1,10 @@
-[SVideoConnector.jpg](https://zh.wikipedia.org/wiki/File:SVideoConnector.jpg "fig:SVideoConnector.jpg")
-[S-Video_pin_and_HK_ten_cents.JPG](https://zh.wikipedia.org/wiki/File:S-Video_pin_and_HK_ten_cents.JPG "fig:S-Video_pin_and_HK_ten_cents.JPG")對比。\]\]
-**S-端子**（），或稱「**獨立視訊端子**」
-，而當中的**S**是“**Separate**”的簡稱。也稱為**Y/C**（或误称为S-VHS或「超級端子（Super
-Video）」）。它是將[影像數據分成兩個單獨訊號](https://zh.wikipedia.org/wiki/影像 "wikilink")（[光亮度和](https://zh.wikipedia.org/wiki/光亮度_\(影像科技\) "wikilink")[色度](https://zh.wikipedia.org/wiki/色度_\(影像科技\) "wikilink")）進行傳送的[模擬訊號](../Page/模擬信號.md "wikilink")，不像[複合影像訊號](../Page/AV端子.md "wikilink")（composite
-video）是將所有訊號打包成一個整體進行傳送。
+[SVideoConnector.jpg](https://zh.wikipedia.org/wiki/File:SVideoConnector.jpg "fig:SVideoConnector.jpg") [S-Video_pin_and_HK_ten_cents.JPG](https://zh.wikipedia.org/wiki/File:S-Video_pin_and_HK_ten_cents.JPG "fig:S-Video_pin_and_HK_ten_cents.JPG")對比。\]\] **S-端子**（），或稱「**獨立視訊端子**」 ，而當中的**S**是“**Separate**”的簡稱。也稱為**Y/C**（或误称为S-VHS或「超級端子（Super Video）」）。它是將[影像數據分成兩個單獨訊號](https://zh.wikipedia.org/wiki/影像 "wikilink")（[光亮度和](https://zh.wikipedia.org/wiki/光亮度_\(影像科技\) "wikilink")[色度](https://zh.wikipedia.org/wiki/色度_\(影像科技\) "wikilink")）進行傳送的[模擬訊號](../Page/模擬信號.md "wikilink")，不像[複合影像訊號](../Page/AV端子.md "wikilink")（composite video）是將所有訊號打包成一個整體進行傳送。
 
 S-端子支援[480i或](https://zh.wikipedia.org/wiki/480i "wikilink")[576i](https://zh.wikipedia.org/wiki/576i "wikilink")[解析度](https://zh.wikipedia.org/wiki/解析度 "wikilink")。
 
 ## 概述
 
-[S-video_spectrum.svg](https://zh.wikipedia.org/wiki/File:S-video_spectrum.svg "fig:S-video_spectrum.svg")
-S-端子的[光亮度](https://zh.wikipedia.org/wiki/光亮度_\(影像科技\) "wikilink")（Y;
-Luminance，亮度）訊號和[調製](https://zh.wikipedia.org/wiki/調製 "wikilink")[色度](https://zh.wikipedia.org/wiki/色度_\(影像科技\) "wikilink")（C;
-Chrominance，色彩）訊號由獨立電線或電線組傳送。
+[S-video_spectrum.svg](https://zh.wikipedia.org/wiki/File:S-video_spectrum.svg "fig:S-video_spectrum.svg") S-端子的[光亮度](https://zh.wikipedia.org/wiki/光亮度_\(影像科技\) "wikilink")（Y; Luminance，亮度）訊號和[調製](https://zh.wikipedia.org/wiki/調製 "wikilink")[色度](https://zh.wikipedia.org/wiki/色度_\(影像科技\) "wikilink")（C; Chrominance，色彩）訊號由獨立電線或電線組傳送。
 
 在大部份傳統影像器材上，是一種可以不太高的價格，換取大幅畫質改善的方法。
 
@@ -34,8 +26,7 @@ S-Video與這些更高階色差影像的差別在於，S-Video的色度訊號（
 
 ## 連接器
 
-目前S-Video的訊號一般採用4
-接腳（pin）的[mini-DIN連接端子](https://zh.wikipedia.org/wiki/mini-DIN "wikilink")，終端阻抗須為75[歐姆](../Page/歐姆.md "wikilink")，除此之外與一般mini-DIN線材無異（如Apple所使用之），當沒有S-Video專用線材時，這些mini-DIN線材都可以當成S-Video訊號傳輸之用，但畫面品質可能沒有原本的那樣好。
+目前S-Video的訊號一般採用4 接腳（pin）的[mini-DIN連接端子](https://zh.wikipedia.org/wiki/mini-DIN "wikilink")，終端阻抗須為75[歐姆](../Page/歐姆.md "wikilink")，除此之外與一般mini-DIN線材無異（如Apple所使用之），當沒有S-Video專用線材時，這些mini-DIN線材都可以當成S-Video訊號傳輸之用，但畫面品質可能沒有原本的那樣好。
 
 [thumb](https://zh.wikipedia.org/wiki/FILE:S-Video_Connector\(jp\).jpg "wikilink")
 
@@ -51,11 +42,9 @@ S-Video與這些更高階色差影像的差別在於，S-Video的色度訊號（
 
 mini-DIN的接腳很脆弱且容易變形彎曲，進而造成色彩或其他訊號的損毀或遺失。變形彎曲的接腳可以再將之調整為原本的形狀，但此舉亦可能造成更進一步的損傷或接腳斷裂。
 
-在mini-DIN接頭標準化之前，S-Video訊號經常採用不同類型的接頭，例如在1980年代[Commodore
-64家用電腦的時代](https://zh.wikipedia.org/wiki/Commodore_64 "wikilink")，S-Video的輸出線材大部分採用8針DIN的電腦端接頭與一對[RCA的螢幕端接頭](../Page/RCA端子.md "wikilink")。S-Video是筆記型電腦最常使用的影像輸出端子，然而許多具有S-Video輸出的裝置也都有複合（合成）輸出端子。
+在mini-DIN接頭標準化之前，S-Video訊號經常採用不同類型的接頭，例如在1980年代[Commodore 64家用電腦的時代](https://zh.wikipedia.org/wiki/Commodore_64 "wikilink")，S-Video的輸出線材大部分採用8針DIN的電腦端接頭與一對[RCA的螢幕端接頭](../Page/RCA端子.md "wikilink")。S-Video是筆記型電腦最常使用的影像輸出端子，然而許多具有S-Video輸出的裝置也都有複合（合成）輸出端子。
 
-S-Video
-可以經由接頭傳送。但因為它並不是SCART標準一部份，所以並非所有的SCART兼容設備都支援。另外，在使用SCART時S-Video和RGB只能使用其中一個。這是由於S-Video實作所使用的針腳原本是分配給RGB的。
+S-Video 可以經由接頭傳送。但因為它並不是SCART標準一部份，所以並非所有的SCART兼容設備都支援。另外，在使用SCART時S-Video和RGB只能使用其中一個。這是由於S-Video實作所使用的針腳原本是分配給RGB的。
 
 ## 常規S-端子插孔
 
@@ -80,8 +69,7 @@ S-Video在美國、加拿大、澳洲、日本等地方相當普及，原本是�
 
 而日本地區銷售的主流以上電視機，則常多達3組S-Video輸入。
 
-個人電腦上，直至2009年左右為止，顯示卡的TV OUT也常使用S-Video端子，或者一種可直接相容S-Video端子及類比色差影像訊號的7
-Pin或9 Pin的Mini-DIN端子，直到HDMI真正普及。
+個人電腦上，直至2009年左右為止，顯示卡的TV OUT也常使用S-Video端子，或者一種可直接相容S-Video端子及類比色差影像訊號的7 Pin或9 Pin的Mini-DIN端子，直到HDMI真正普及。
 
 [Video_card_Outputs.jpg](https://zh.wikipedia.org/wiki/File:Video_card_Outputs.jpg "fig:Video_card_Outputs.jpg")
 
@@ -89,11 +77,9 @@ Pin或9 Pin的Mini-DIN端子，直到HDMI真正普及。
 
 因為將S-Video轉為合成訊號訊號十分容易，因此許多電子零售商皆有提供訊號轉換所使用的轉接器。訊號轉換主要在於讓原本沒有S-Video的裝置可以彼此進行連接，但此法僅能提供複合影像訊號品質。
 
-S-Video因為當制定時規格的關係，無法應用高解析度（HD）的影像訊號。所以高解析度的訊號，通常都必需以類比色差影像訊號或是數位的方式連接到顯示螢幕（數位通常採用[HDMI或](../Page/HDMI.md "wikilink")[DVI端子](../Page/DVI.md "wikilink")）。
+S-Video因為當制定時規格的關係，無法應用高解析度（HD）的影像訊號。所以高解析度的訊號，通常都必需以類比色差影像訊號或是數位的方式連接到顯示螢幕（數位通常採用[HDMI](../Page/HDMI.md "wikilink")或[DVI](../Page/DVI.md "wikilink")端子）。
 
-S-Video在VCR及LD播放機的應用情形上有點特殊，最初S-Video是設計給[Super
-VHS所使用的一種高頻寬影像連接端子](https://zh.wikipedia.org/wiki/Super_VHS "wikilink")，而且對其他大多數消費型裝置也是採用相同的設計理念，並延續到DVD格式的崛起。許多數位、Hi-8與S-VHS-C攝錄影機皆支援S-Video輸出，但標準VHS的VCR及LD播放機卻無法提供高解析度的訊號以滿足S-Video端子，這是因為VHS及LD原本就是直接以Y/C訊號混合（
-複合影像）的型式記錄於媒體上。所以大多數的裝置包括已經結合DVD播放器的裝置（具有S-Video或色差輸出），VHS的部分影像訊號仍需要從複合影像訊號或RF端子輸出。
+S-Video在VCR及LD播放機的應用情形上有點特殊，最初S-Video是設計給[Super VHS所使用的一種高頻寬影像連接端子](https://zh.wikipedia.org/wiki/Super_VHS "wikilink")，而且對其他大多數消費型裝置也是採用相同的設計理念，並延續到DVD格式的崛起。許多數位、Hi-8與S-VHS-C攝錄影機皆支援S-Video輸出，但標準VHS的VCR及LD播放機卻無法提供高解析度的訊號以滿足S-Video端子，這是因為VHS及LD原本就是直接以Y/C訊號混合（ 複合影像）的型式記錄於媒體上。所以大多數的裝置包括已經結合DVD播放器的裝置（具有S-Video或色差輸出），VHS的部分影像訊號仍需要從複合影像訊號或RF端子輸出。
 
 另外，使用LD播放機時，以S-Video端子連接品質未必會優於複合影像訊號，這是由於LD播放機內部也是從複合影像分離出Y/C訊號。若電視機內的Y/C分離電路比較先進時（如2線/3線/3D自適型Y/C分離器等），則採用複合影像訊號連接可能反而有較佳品質。
 
@@ -101,8 +87,7 @@ VHS所使用的一種高頻寬影像連接端子](https://zh.wikipedia.org/wiki/
 
 ## 外部連結
 
-  - [Schematics of S-Video
-    cables](https://web.archive.org/web/20060924145531/http://pinouts.ru/connector/4_pin_mini-DIN_female_connector.shtml)
+  - [Schematics of S-Video cables](https://web.archive.org/web/20060924145531/http://pinouts.ru/connector/4_pin_mini-DIN_female_connector.shtml)
   - [S-Video pinout](http://pinouts.ws/s-video-pinout.html)
 
 ## 參考

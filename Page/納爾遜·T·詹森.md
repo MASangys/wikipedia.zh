@@ -1,9 +1,8 @@
-[Nelson_T._Johnson_cph.3c35451.jpg](https://zh.wikipedia.org/wiki/File:Nelson_T._Johnson_cph.3c35451.jpg "fig:Nelson_T._Johnson_cph.3c35451.jpg")
-**納爾遜·特魯斯勒·詹森**（，），[美國外交家](https://zh.wikipedia.org/wiki/美國 "wikilink")，於1929年至1941年任[美國駐華大使](https://zh.wikipedia.org/wiki/美國駐華大使 "wikilink")，任期長達十二年。在[第二次世界大戰期間亦曾任美國駐](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")[大使](https://zh.wikipedia.org/wiki/大使 "wikilink")。
+[Nelson_T._Johnson_cph.3c35451.jpg](https://zh.wikipedia.org/wiki/File:Nelson_T._Johnson_cph.3c35451.jpg "fig:Nelson_T._Johnson_cph.3c35451.jpg") **納爾遜·特魯斯勒·詹森**（，），[美國外交家](https://zh.wikipedia.org/wiki/美國 "wikilink")，於1929年至1941年任[美國駐華大使](https://zh.wikipedia.org/wiki/美國駐華大使 "wikilink")，任期長達十二年。在[第二次世界大戰期間亦曾任美國駐](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")[大使](https://zh.wikipedia.org/wiki/大使 "wikilink")。
 
 ## 早年及職業生涯
 
-詹森出生於華盛頓哥倫比亞特區。年幼時曾在[奧克拉荷馬州生活](../Page/奧克拉荷馬州.md "wikilink")。之後返回華盛頓讀書，進入喬治華盛頓大學就讀。於大學一年級時決意加入外交機構，以奧克拉荷馬州居民身份考試獲得取錄，正式進入外交生涯。詹森一生於政府內服務，是外交部內的遠東事務及中國專家。他加入外交部最先作為傳譯員，後晉升成為領事官員，遠東事務處長，助理國務卿。1929年起任駐中國全權公使、全權大使。美國向日本宣戰後改任駐澳洲全權大使。
+詹森出生於華盛頓哥倫比亞特區。年幼時曾在[奧克拉荷馬州](../Page/奧克拉荷馬州.md "wikilink")生活。之後返回華盛頓讀書，進入喬治華盛頓大學就讀。於大學一年級時決意加入外交機構，以奧克拉荷馬州居民身份考試獲得取錄，正式進入外交生涯。詹森一生於政府內服務，是外交部內的遠東事務及中國專家。他加入外交部最先作為傳譯員，後晉升成為領事官員，遠東事務處長，助理國務卿。1929年起任駐中國全權公使、全權大使。美國向日本宣戰後改任駐澳洲全權大使。
 
 ## 對美國遠東政策的影響
 
@@ -26,8 +25,4 @@
   - *The American Secretaries of State and Their Diplomacy*, vol. 11.
   - *時代週刊*, 1939年12月11日
 
-[Category:美國駐澳大利亞大使](https://zh.wikipedia.org/wiki/Category:美國駐澳大利亞大使 "wikilink")
-[Category:美國駐中華民國大使](https://zh.wikipedia.org/wiki/Category:美國駐中華民國大使 "wikilink")
-[Category:美國外交官](https://zh.wikipedia.org/wiki/Category:美國外交官 "wikilink")
-[Category:喬治·華盛頓大學校友](https://zh.wikipedia.org/wiki/Category:喬治·華盛頓大學校友 "wikilink")
-[Category:華盛頓哥倫比亞特區人](https://zh.wikipedia.org/wiki/Category:華盛頓哥倫比亞特區人 "wikilink")
+[Category:美國駐澳大利亞大使](https://zh.wikipedia.org/wiki/Category:美國駐澳大利亞大使 "wikilink") [Category:美國駐中華民國大使](https://zh.wikipedia.org/wiki/Category:美國駐中華民國大使 "wikilink") [Category:美國外交官](https://zh.wikipedia.org/wiki/Category:美國外交官 "wikilink") [Category:喬治·華盛頓大學校友](https://zh.wikipedia.org/wiki/Category:喬治·華盛頓大學校友 "wikilink") [Category:華盛頓哥倫比亞特區人](https://zh.wikipedia.org/wiki/Category:華盛頓哥倫比亞特區人 "wikilink")

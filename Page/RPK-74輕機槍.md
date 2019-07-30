@@ -1,6 +1,6 @@
 [AK-74_RPK-74_DA-ST-89-06612.jpg](https://zh.wikipedia.org/wiki/File:AK-74_RPK-74_DA-ST-89-06612.jpg "fig:AK-74_RPK-74_DA-ST-89-06612.jpg")（上方）與RPK-74（下方）的對比圖\]\]
 
-**RPK-74**（[俄文](https://zh.wikipedia.org/wiki/俄语 "wikilink")：）是[苏联在](../Page/苏联.md "wikilink")1974年為蘇軍裝備以[AK-74改進而成](../Page/AK-74突击步枪.md "wikilink")，用於替換[RPK](../Page/RPK輕機槍.md "wikilink")[輕機槍](https://zh.wikipedia.org/wiki/輕機槍 "wikilink")，由[卡拉什尼科夫設計](https://zh.wikipedia.org/wiki/米哈伊尔·季莫费耶维奇·卡拉什尼科夫 "wikilink")。
+**RPK-74**（[俄文](https://zh.wikipedia.org/wiki/俄语 "wikilink")：）是[苏联](../Page/苏联.md "wikilink")在1974年為蘇軍裝備以[AK-74改進而成](../Page/AK-74突击步枪.md "wikilink")，用於替換[RPK](../Page/RPK輕機槍.md "wikilink")[輕機槍](https://zh.wikipedia.org/wiki/輕機槍 "wikilink")，由[卡拉什尼科夫設計](https://zh.wikipedia.org/wiki/米哈伊尔·季莫费耶维奇·卡拉什尼科夫 "wikilink")。
 
 ## 設計
 
@@ -8,14 +8,13 @@ RPK-74是[AK-74的一種變種槍](https://zh.wikipedia.org/wiki/AK-74 "wikilink
 
 ## 歷史
 
-RPK-74是與AK-74一起研發並同時服役的，研製目的是為了滿足蘇軍的火力支援單位，以取代原有的[7.62×39mm](../Page/7.62×39mm.md "wikilink")
-[RPK輕機槍](../Page/RPK輕機槍.md "wikilink")。
+RPK-74是與AK-74一起研發並同時服役的，研製目的是為了滿足蘇軍的火力支援單位，以取代原有的[7.62×39mm](../Page/7.62×39mm.md "wikilink") [RPK輕機槍](../Page/RPK輕機槍.md "wikilink")。
 
 目前RPK-74仍然在[俄軍及多個前蘇聯國家的軍隊中服役](https://zh.wikipedia.org/wiki/俄軍 "wikilink")，多個[華沙條約亦曾授權生產RPK](https://zh.wikipedia.org/wiki/華沙條約 "wikilink")-74。
 
 ## 型號
 
-  - **RPKS-74**—折叠枪托，裝備[傘兵部队](../Page/傘兵.md "wikilink")
+  - **RPKS-74**—折叠枪托，裝備[傘兵](../Page/傘兵.md "wikilink")部队
   - **RPK-74N**—装有NSPU夜视瞄准镜
   - **RPK-74N2**—RPK-74N的塑料护木及枪托版本
   - **RPK-74M**—装有塑料护木及塑料折叠枪托的現代化版本
@@ -61,16 +60,10 @@ RPK-74是與AK-74一起研發並同時服役的，研製目的是為了滿足蘇
 
 ## 外部連結
 
-  - —[Modern
-    Firearms-RPK-74](https://web.archive.org/web/20080913183205/http://world.guns.ru/machine/mg16-e.htm)
+  - —[Modern Firearms-RPK-74](https://web.archive.org/web/20080913183205/http://world.guns.ru/machine/mg16-e.htm)
 
   - —[weaponplace.ru-RPK-74](http://www.weaponplace.ru/rpk.php)
 
-  - —[D Boy Gun
-    World-RPK-74](http://firearmsworld.net/russain/kalash/ak/rpk74.htm)
+  - —[D Boy Gun World-RPK-74](http://firearmsworld.net/russain/kalash/ak/rpk74.htm)
 
-[Category:轻机枪](https://zh.wikipedia.org/wiki/Category:轻机枪 "wikilink")
-[Category:5.45×39毫米槍械](https://zh.wikipedia.org/wiki/Category:5.45×39毫米槍械 "wikilink")
-[Category:俄羅斯槍械](https://zh.wikipedia.org/wiki/Category:俄羅斯槍械 "wikilink")
-[Category:蘇聯槍械](https://zh.wikipedia.org/wiki/Category:蘇聯槍械 "wikilink")
-[Category:導氣式槍械](https://zh.wikipedia.org/wiki/Category:導氣式槍械 "wikilink")
+[Category:轻机枪](https://zh.wikipedia.org/wiki/Category:轻机枪 "wikilink") [Category:5.45×39毫米槍械](https://zh.wikipedia.org/wiki/Category:5.45×39毫米槍械 "wikilink") [Category:俄羅斯槍械](https://zh.wikipedia.org/wiki/Category:俄羅斯槍械 "wikilink") [Category:蘇聯槍械](https://zh.wikipedia.org/wiki/Category:蘇聯槍械 "wikilink") [Category:導氣式槍械](https://zh.wikipedia.org/wiki/Category:導氣式槍械 "wikilink")

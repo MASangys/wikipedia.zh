@@ -1,14 +1,12 @@
-是由Media-Vision開發，[索尼電腦娛樂於](https://zh.wikipedia.org/wiki/索尼電腦娛樂 "wikilink")2006年12月14日發售的角色扮演遊戲。[狂野歷險系列的第六作](../Page/狂野歷險系列.md "wikilink")。
+是由Media-Vision開發，[索尼電腦娛樂於](https://zh.wikipedia.org/wiki/索尼電腦娛樂 "wikilink")2006年12月14日發售的角色扮演遊戲。[狂野歷險系列](../Page/狂野歷險系列.md "wikilink")的第六作。
 
-本作是[狂野歷險系列的十週年記念作品](../Page/狂野歷險系列.md "wikilink")。本作的劇本及人物設計有所革新，劇本原案起用[黑崎薰](https://zh.wikipedia.org/wiki/黑崎薰 "wikilink")，而人物設計起用[佐佐木知美](https://zh.wikipedia.org/wiki/佐佐木知美 "wikilink")。
+本作是[狂野歷險系列](../Page/狂野歷險系列.md "wikilink")的十週年記念作品。本作的劇本及人物設計有所革新，劇本原案起用[黑崎薰](https://zh.wikipedia.org/wiki/黑崎薰 "wikilink")，而人物設計起用[佐佐木知美](https://zh.wikipedia.org/wiki/佐佐木知美 "wikilink")。
 
-主題曲方面，由前作主題曲的[麻生かほ里](https://zh.wikipedia.org/wiki/麻生かほ里 "wikilink")，改為由本作蕾貝卡·史特萊桑德的配音員[水樹奈奈主唱主題曲](../Page/水樹奈奈.md "wikilink")。作曲亦由改為[Elements
-Garden的](../Page/Elements_Garden.md "wikilink")[上松範康](../Page/上松範康.md "wikilink")。日本愛好者之間對主題曲改變的評價非常之高，在網上的留言板中引起熱論。
+主題曲方面，由前作主題曲的[麻生かほ里](https://zh.wikipedia.org/wiki/麻生かほ里 "wikilink")，改為由本作蕾貝卡·史特萊桑德的配音員[水樹奈奈](../Page/水樹奈奈.md "wikilink")主唱主題曲。作曲亦由改為[Elements Garden的](../Page/Elements_Garden.md "wikilink")[上松範康](../Page/上松範康.md "wikilink")。日本愛好者之間對主題曲改變的評價非常之高，在網上的留言板中引起熱論。
 
 ## 人物
 
-  - **汀・史塔克** (Dean
-    Stark)　[配音員](../Page/配音員.md "wikilink")：[下野紘](../Page/下野紘.md "wikilink")
+  - **汀・史塔克** (Dean Stark)　[配音員](../Page/配音員.md "wikilink")：[下野紘](../Page/下野紘.md "wikilink")
 
 <!-- end list -->
 
@@ -17,8 +15,7 @@ Garden的](../Page/Elements_Garden.md "wikilink")[上松範康](../Page/上松�
 
 <!-- end list -->
 
-  - **蕾貝卡‧史特萊桑德** (Rebecca
-    Streisand)　配音員：[水樹奈奈](../Page/水樹奈奈.md "wikilink")
+  - **蕾貝卡‧史特萊桑德** (Rebecca Streisand)　配音員：[水樹奈奈](../Page/水樹奈奈.md "wikilink")
 
 <!-- end list -->
 
@@ -27,8 +24,7 @@ Garden的](../Page/Elements_Garden.md "wikilink")[上松範康](../Page/上松�
 
 <!-- end list -->
 
-  - **雅薇莉・馮‧芙露露** (Averil
-    Fleur)　配音員：[伊藤静](https://zh.wikipedia.org/wiki/伊藤静 "wikilink")
+  - **雅薇莉・馮‧芙露露** (Averil Fleur)　配音員：[伊藤静](https://zh.wikipedia.org/wiki/伊藤静 "wikilink")
 
 <!-- end list -->
 
@@ -38,8 +34,7 @@ Garden的](../Page/Elements_Garden.md "wikilink")[上松範康](../Page/上松�
 
 <!-- end list -->
 
-  - **古雷格・羅素巴克** (Greig Russell
-    Bergh)　配音員：[志村知幸](https://zh.wikipedia.org/wiki/志村知幸 "wikilink")
+  - **古雷格・羅素巴克** (Greig Russell Bergh)　配音員：[志村知幸](https://zh.wikipedia.org/wiki/志村知幸 "wikilink")
 
 <!-- end list -->
 
@@ -49,8 +44,7 @@ Garden的](../Page/Elements_Garden.md "wikilink")[上松範康](../Page/上松�
 
 <!-- end list -->
 
-  - **凱洛・安德森** (Carol
-    Anderson)　配音員：[谷井あすか](https://zh.wikipedia.org/wiki/谷井あすか "wikilink")
+  - **凱洛・安德森** (Carol Anderson)　配音員：[谷井あすか](https://zh.wikipedia.org/wiki/谷井あすか "wikilink")
 
 <!-- end list -->
 
@@ -133,10 +127,6 @@ Garden的](../Page/Elements_Garden.md "wikilink")[上松範康](../Page/上松�
   - [WILD ARMS.net](http://www.wild-arms.net/)
   - [Media-Vision Entertainment](http://www.media-vision.co.jp/)
   - [高卒谷](https://web.archive.org/web/20070107062231/http://www.media-vision.co.jp/ko_sotutani/top.html)
-  - [PlayStation.com (Asia)
-    香港中文介紹網頁](https://web.archive.org/web/20070312062338/http://asia.playstation.com/tch_hk/index.php?q=node%2F357)
+  - [PlayStation.com (Asia) 香港中文介紹網頁](https://web.archive.org/web/20070312062338/http://asia.playstation.com/tch_hk/index.php?q=node%2F357)
 
-[Category:2006年电子游戏](https://zh.wikipedia.org/wiki/Category:2006年电子游戏 "wikilink")
-[Category:狂野歷險系列](https://zh.wikipedia.org/wiki/Category:狂野歷險系列 "wikilink")
-[Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink")
-[Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink")
+[Category:2006年电子游戏](https://zh.wikipedia.org/wiki/Category:2006年电子游戏 "wikilink") [Category:狂野歷險系列](https://zh.wikipedia.org/wiki/Category:狂野歷險系列 "wikilink") [Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink") [Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink")

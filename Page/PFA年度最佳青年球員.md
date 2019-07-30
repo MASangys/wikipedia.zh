@@ -1,24 +1,12 @@
-[MK_Dons_Vs_Barnsley_(16176325970,_cropped).jpg](https://zh.wikipedia.org/wiki/File:MK_Dons_Vs_Barnsley_\(16176325970,_cropped\).jpg "fig:MK_Dons_Vs_Barnsley_(16176325970,_cropped).jpg")\]\]
-**PFA年度最佳青年球員**（，簡稱為**PFA Young Player of the
-Year**），是[英格蘭職業足球運動員協會從](../Page/英格蘭職業足球運動員協會.md "wikilink")1973-74賽季開始頒發的獎項，旨在表彰在[英格蘭足球聯賽中](https://zh.wikipedia.org/wiki/英格蘭足球聯賽 "wikilink")，表現最出色的二十三歲或以下球員。得獎者每一年由[英格蘭職業足球運動員協會的會員互相投票選出](../Page/英格蘭職業足球運動員協會.md "wikilink")\[1\]。首位PFA年度最佳青年球員是效力[-{zh-hans:伊普斯维奇;
-zh-hk:葉士域治;zh-tw:伊普斯維奇;}-的後衛](../Page/伊普斯维奇城足球俱乐部.md "wikilink")[-{zh-hans:凯文·比尔堤;
-zh-hk:奇雲·比堤;zh-tw:凱文·比爾堤;}-](../Page/奇雲·比堤.md "wikilink")，而2016年最新的獲獎者是效力[-{zh-hans:托特纳姆热刺;
-zh-hk:托定咸熱刺;zh-tw:托特納姆熱刺;}-的中場](https://zh.wikipedia.org/wiki/托特纳姆热刺足球俱乐部 "wikilink")[-{zh-hans:迪尼·阿里;
-zh-hk:迪尼·阿里;
-zh-tw:迪尼·阿里;}-](https://zh.wikipedia.org/wiki/迪尼·阿里 "wikilink")。
+[MK_Dons_Vs_Barnsley_(16176325970,_cropped).jpg](https://zh.wikipedia.org/wiki/File:MK_Dons_Vs_Barnsley_\(16176325970,_cropped\).jpg "fig:MK_Dons_Vs_Barnsley_(16176325970,_cropped).jpg")\]\] **PFA年度最佳青年球員**（，簡稱為**PFA Young Player of the Year**），是[英格蘭職業足球運動員協會](../Page/英格蘭職業足球運動員協會.md "wikilink")從1973-74賽季開始頒發的獎項，旨在表彰在[英格蘭足球聯賽中](https://zh.wikipedia.org/wiki/英格蘭足球聯賽 "wikilink")，表現最出色的二十三歲或以下球員。得獎者每一年由[英格蘭職業足球運動員協會](../Page/英格蘭職業足球運動員協會.md "wikilink")的會員互相投票選出\[1\]。首位PFA年度最佳青年球員是效力[-{zh-hans:伊普斯维奇; zh-hk:葉士域治;zh-tw:伊普斯維奇;}-的後衛](../Page/伊普斯维奇城足球俱乐部.md "wikilink")[-{zh-hans:凯文·比尔堤; zh-hk:奇雲·比堤;zh-tw:凱文·比爾堤;}-](../Page/奇雲·比堤.md "wikilink")，而2016年最新的獲獎者是效力[-{zh-hans:托特纳姆热刺; zh-hk:托定咸熱刺;zh-tw:托特納姆熱刺;}-的中場](https://zh.wikipedia.org/wiki/托特纳姆热刺足球俱乐部 "wikilink")[-{zh-hans:迪尼·阿里; zh-hk:迪尼·阿里; zh-tw:迪尼·阿里;}-](https://zh.wikipedia.org/wiki/迪尼·阿里 "wikilink")。
 
-雖然所有效力[英格蘭足球聯賽球會的球員均有機會獲提名和獲獎](https://zh.wikipedia.org/wiki/英格蘭足球聯賽 "wikilink")\[2\]，但自設立獎項以來，所有得主均來自[英格蘭超級足球聯賽的球會](https://zh.wikipedia.org/wiki/英格蘭超級足球聯賽 "wikilink")。截至2016年，只有[-{zh-hans:瑞恩·吉格斯;zh-hk:賴恩·傑斯;zh-tw:瑞恩·吉格斯;}-](../Page/瑞恩·吉格斯.md "wikilink")、[-{zh-hans:罗比·福勒;
-zh-hk:羅比·科拿;zh-tw:羅比·福勒;}-和](../Page/罗比·福勒.md "wikilink")[-{zh-hans:韦恩·鲁尼;zh-hk:韋恩·朗尼;zh-tw:韋恩·魯尼;}-三人曾獲得此獎項多於一次](../Page/韦恩·鲁尼.md "wikilink")。此外，只有五名非[英國籍球員曾獲得此獎項](https://zh.wikipedia.org/wiki/英國 "wikilink")\[3\]。於開季時仍屬於二十三歲或以下的球員能同時有資格獲得[英格蘭PFA足球先生的獎項](../Page/英格蘭PFA足球先生.md "wikilink")，過去曾有三次同一位球員贏得此獎項和[英格蘭PFA足球先生](../Page/英格蘭PFA足球先生.md "wikilink")。
+雖然所有效力[英格蘭足球聯賽球會的球員均有機會獲提名和獲獎](https://zh.wikipedia.org/wiki/英格蘭足球聯賽 "wikilink")\[2\]，但自設立獎項以來，所有得主均來自[英格蘭超級足球聯賽的球會](https://zh.wikipedia.org/wiki/英格蘭超級足球聯賽 "wikilink")。截至2016年，只有[-{zh-hans:瑞恩·吉格斯;zh-hk:賴恩·傑斯;zh-tw:瑞恩·吉格斯;}-](../Page/瑞恩·吉格斯.md "wikilink")、[-{zh-hans:罗比·福勒; zh-hk:羅比·科拿;zh-tw:羅比·福勒;}-和](../Page/罗比·福勒.md "wikilink")[-{zh-hans:韦恩·鲁尼;zh-hk:韋恩·朗尼;zh-tw:韋恩·魯尼;}-三人曾獲得此獎項多於一次](../Page/韦恩·鲁尼.md "wikilink")。此外，只有五名非[英國籍球員曾獲得此獎項](https://zh.wikipedia.org/wiki/英國 "wikilink")\[3\]。於開季時仍屬於二十三歲或以下的球員能同時有資格獲得[英格蘭PFA足球先生](../Page/英格蘭PFA足球先生.md "wikilink")的獎項，過去曾有三次同一位球員贏得此獎項和[英格蘭PFA足球先生](../Page/英格蘭PFA足球先生.md "wikilink")。
 
-每年4月，[英格蘭職業足球運動員協會會公佈PFA年度最佳青年球員獲提名的球員名單](../Page/英格蘭職業足球運動員協會.md "wikilink")。在名單公佈後數日，在倫敦一個晚宴上，此獎項會聯同英格蘭職業足球運動員協會其他獎項一起公佈得獎球員\[4\]。PFA年度最佳青年球員在球員間有很高的聲望，因為此獎項由其他球員投票所選出\[5\]。
+每年4月，[英格蘭職業足球運動員協會](../Page/英格蘭職業足球運動員協會.md "wikilink")會公佈PFA年度最佳青年球員獲提名的球員名單。在名單公佈後數日，在倫敦一個晚宴上，此獎項會聯同英格蘭職業足球運動員協會其他獎項一起公佈得獎球員\[4\]。PFA年度最佳青年球員在球員間有很高的聲望，因為此獎項由其他球員投票所選出\[5\]。
 
 ## 歷屆獲獎人
 
-自成立獎項以來，截至2016年，PFA年度最佳青年球員已頒發四十三屆，共有四十位不同的球員曾經獲獎\[6\]\[7\]\[8\]。
-[Cskamu_17.jpg](https://zh.wikipedia.org/wiki/File:Cskamu_17.jpg "fig:Cskamu_17.jpg")是首位贏得此獎項兩次的球員。\]\]
-[Fowler,_Robbie.jpg](https://zh.wikipedia.org/wiki/File:Fowler,_Robbie.jpg "fig:Fowler,_Robbie.jpg")是第二位贏得此獎項兩次的球員。\]\]
-[Steven_Gerrard_in_2014.jpg](https://zh.wikipedia.org/wiki/File:Steven_Gerrard_in_2014.jpg "fig:Steven_Gerrard_in_2014.jpg")是首次贏得PFA年度最佳青年球員和的球員\]\]
-[Wayne-Rooney-2015-10-21.jpg](https://zh.wikipedia.org/wiki/File:Wayne-Rooney-2015-10-21.jpg "fig:Wayne-Rooney-2015-10-21.jpg")是第三位贏得此獎項兩次的球員。\]\]
+自成立獎項以來，截至2016年，PFA年度最佳青年球員已頒發四十三屆，共有四十位不同的球員曾經獲獎\[6\]\[7\]\[8\]。 [Cskamu_17.jpg](https://zh.wikipedia.org/wiki/File:Cskamu_17.jpg "fig:Cskamu_17.jpg")是首位贏得此獎項兩次的球員。\]\] [Fowler,_Robbie.jpg](https://zh.wikipedia.org/wiki/File:Fowler,_Robbie.jpg "fig:Fowler,_Robbie.jpg")是第二位贏得此獎項兩次的球員。\]\] [Steven_Gerrard_in_2014.jpg](https://zh.wikipedia.org/wiki/File:Steven_Gerrard_in_2014.jpg "fig:Steven_Gerrard_in_2014.jpg")是首次贏得PFA年度最佳青年球員和的球員\]\] [Wayne-Rooney-2015-10-21.jpg](https://zh.wikipedia.org/wiki/File:Wayne-Rooney-2015-10-21.jpg "fig:Wayne-Rooney-2015-10-21.jpg")是第三位贏得此獎項兩次的球員。\]\]
 
 <table>
 <thead>
@@ -569,15 +557,12 @@ zh-hk:羅比·科拿;zh-tw:羅比·福勒;}-和](../Page/罗比·福勒.md "wiki
 
   - [英格蘭職業足球員協會官方網頁](http://www.thepfa.com/)
 
-[Category:英格蘭足球](https://zh.wikipedia.org/wiki/Category:英格蘭足球 "wikilink")
-[Category:英国足球奖项](https://zh.wikipedia.org/wiki/Category:英国足球奖项 "wikilink")
-[Category:足球紀錄及統計數據](https://zh.wikipedia.org/wiki/Category:足球紀錄及統計數據 "wikilink")
-[Category:1974年建立的獎項](https://zh.wikipedia.org/wiki/Category:1974年建立的獎項 "wikilink")
+[Category:英格蘭足球](https://zh.wikipedia.org/wiki/Category:英格蘭足球 "wikilink") [Category:英国足球奖项](https://zh.wikipedia.org/wiki/Category:英国足球奖项 "wikilink") [Category:足球紀錄及統計數據](https://zh.wikipedia.org/wiki/Category:足球紀錄及統計數據 "wikilink") [Category:1974年建立的獎項](https://zh.wikipedia.org/wiki/Category:1974年建立的獎項 "wikilink")
 
 1.
 
 2.
-3.  並不包括，雖然他於[法屬圭亞那出生](../Page/法屬圭亞那.md "wikilink")，但他代表英格蘭國家隊上陣。
+3.  並不包括，雖然他於[法屬圭亞那](../Page/法屬圭亞那.md "wikilink")出生，但他代表英格蘭國家隊上陣。
 
 4.
 
@@ -591,17 +576,15 @@ zh-hk:羅比·科拿;zh-tw:羅比·福勒;}-和](../Page/罗比·福勒.md "wiki
 
 9.  PPY代表[英格蘭PFA足球先生](../Page/英格蘭PFA足球先生.md "wikilink")、FPY代表[英格蘭FWA足球先生](../Page/英格蘭FWA足球先生.md "wikilink")、FWA代表。
 
-10. [-{zh-hans:梅文·戴;
-    zh-hk:摩雲·地;zh-tw:梅文·戴}-是首次贏得此獎項的門將](../Page/摩雲·地.md "wikilink")。
+10. [-{zh-hans:梅文·戴; zh-hk:摩雲·地;zh-tw:梅文·戴}-是首次贏得此獎項的門將](../Page/摩雲·地.md "wikilink")。
 
-11. 是首位贏得此獎項的非英格蘭籍球員，亦是首位贏得PFA年度最佳青年球員的球員和[英格蘭PFA足球先生的球員](../Page/英格蘭PFA足球先生.md "wikilink")。
+11. 是首位贏得此獎項的非英格蘭籍球員，亦是首位贏得PFA年度最佳青年球員的球員和[英格蘭PFA足球先生](../Page/英格蘭PFA足球先生.md "wikilink")的球員。
 
 12. 是首位於英國外出生，而贏得此獎項的球員。
 
 13. [-{zh-hans:瑞恩·吉格斯;zh-hk:賴恩·傑斯;zh-tw:瑞恩·吉格斯;}-是首位贏得此獎項兩次和連續兩季贏得此獎項的球員](../Page/瑞恩·吉格斯.md "wikilink")。
 
-14. [-{zh-hans:尼古拉·阿内尔卡;
-    zh-hk:尼古拉·安歷卡;zh-tw:尼古拉·阿内爾卡;}-尼古拉](../Page/尼古拉·阿内尔卡.md "wikilink")·安歷卡是首位贏得此獎項的非英國籍球員。
+14. [-{zh-hans:尼古拉·阿内尔卡; zh-hk:尼古拉·安歷卡;zh-tw:尼古拉·阿内爾卡;}-尼古拉](../Page/尼古拉·阿内尔卡.md "wikilink")·安歷卡是首位贏得此獎項的非英國籍球員。
 
 15.
 

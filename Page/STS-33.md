@@ -10,7 +10,4 @@
 
 [STS33ByPhilKonstantin.jpg](https://zh.wikipedia.org/wiki/File:STS33ByPhilKonstantin.jpg "fig:STS33ByPhilKonstantin.jpg")
 
-[Category:1989年科学](https://zh.wikipedia.org/wiki/Category:1989年科学 "wikilink")
-[Category:1989年佛罗里达州](https://zh.wikipedia.org/wiki/Category:1989年佛罗里达州 "wikilink")
-[Category:发现号航天飞机任务](https://zh.wikipedia.org/wiki/Category:发现号航天飞机任务 "wikilink")
-[Category:1989年11月](https://zh.wikipedia.org/wiki/Category:1989年11月 "wikilink")
+[Category:1989年科学](https://zh.wikipedia.org/wiki/Category:1989年科学 "wikilink") [Category:1989年佛罗里达州](https://zh.wikipedia.org/wiki/Category:1989年佛罗里达州 "wikilink") [Category:发现号航天飞机任务](https://zh.wikipedia.org/wiki/Category:发现号航天飞机任务 "wikilink") [Category:1989年11月](https://zh.wikipedia.org/wiki/Category:1989年11月 "wikilink")

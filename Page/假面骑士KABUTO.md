@@ -1,16 +1,10 @@
-《**假面騎士KABUTO**》（）從2006年1月29日到2007年1月21日在[朝日電視台放映](../Page/朝日電視台.md "wikilink")，每週日早上8:00-8:30播出，共49話。本作為《[假面騎士系列](../Page/假面騎士系列.md "wikilink")》的第7部[平成系列作品](../Page/平成.md "wikilink")，也是假面騎士系列35週年紀念作。[劇場版](https://zh.wikipedia.org/wiki/劇場版 "wikilink")《**[假面騎士KABUTO
-GOD SPEED
-LOVE](https://zh.wikipedia.org/wiki/假面騎士KABUTO_GOD_SPEED_LOVE "wikilink")**》於2006年8月5日上映。2008年12月6日，香港[無線翡翠台播畢](https://zh.wikipedia.org/wiki/無線翡翠台 "wikilink")《[幪面超人響鬼](../Page/幪面超人響鬼.md "wikilink")》後於同樣時段播出，譯名為《**-{幪面超人甲鬥王}-**》，以一開始就有兩種形態及開始就能高速移動為賣點。台灣自2009年1月5日至同年3月12日，每週一至五17:30-18:00在[卡通頻道播出](../Page/卡通頻道.md "wikilink")。口號為「**行天之道、總司一切\!\!**」及「**我是正義的\!\!**」(同第3話標題)。
+《**假面騎士KABUTO**》（）從2006年1月29日到2007年1月21日在[朝日電視台](../Page/朝日電視台.md "wikilink")放映，每週日早上8:00-8:30播出，共49話。本作為《[假面騎士系列](../Page/假面騎士系列.md "wikilink")》的第7部[平成](../Page/平成.md "wikilink")系列作品，也是假面騎士系列35週年紀念作。[劇場版](https://zh.wikipedia.org/wiki/劇場版 "wikilink")《**[假面騎士KABUTO GOD SPEED LOVE](https://zh.wikipedia.org/wiki/假面騎士KABUTO_GOD_SPEED_LOVE "wikilink")**》於2006年8月5日上映。2008年12月6日，香港[無線翡翠台播畢](https://zh.wikipedia.org/wiki/無線翡翠台 "wikilink")《[幪面超人響鬼](../Page/幪面超人響鬼.md "wikilink")》後於同樣時段播出，譯名為《**-{幪面超人甲鬥王}-**》，以一開始就有兩種形態及開始就能高速移動為賣點。台灣自2009年1月5日至同年3月12日，每週一至五17:30-18:00在[卡通頻道](../Page/卡通頻道.md "wikilink")播出。口號為「**行天之道、總司一切\!\!**」及「**我是正義的\!\!**」(同第3話標題)。
 
 ## 本作特色
 
 由於前作《[假面騎士響鬼](https://zh.wikipedia.org/wiki/假面騎士響鬼 "wikilink")》過份標奇立異，加上本作是假面騎士系列35週年紀念作，因此再次採用昆蟲造型(巨型甲蟲角日語KABUTOMUSHI)的設計，亦加入各種昭和假面騎士系列的特色，例如用「變身」作爲變身口號、採用機車、騎士踢、使用「假面騎士」一詞、呼叫必殺技名稱。而本作再次使用闊別已久的大爆炸代表敵人已陣亡，但不同之處是大爆炸不是使用平時所見的[火焰](https://zh.wikipedia.org/wiki/火焰 "wikilink")，而是使用該異蟲的代表顔色（如該異蟲的身體是藍色，被擊敗後爆炸的火焰則是藍色，而雜兵級的綠色異蟲則是綠色火焰）。
 
-本作的賣點之一是**Clock Up**超速戰鬥。由於異蟲擁有難以肉眼辨認的高速移動能力「**Clock
-Up**」，為了得到足夠的力量和異蟲對抗，本作的假面騎士的通常形態(Rider
-Form)都裝置了**Clock
-Up**的能力，因此超速戰鬥成為本作一大賣點。跟前作《[假面騎士555](../Page/假面騎士555.md "wikilink")》的**Axel
-Form**不同，本作會以周遭事物緩慢地流動（如車輛、雨點）來表達假面騎士已經進入了**Clock Up**狀態戰鬥。
+本作的賣點之一是**Clock Up**超速戰鬥。由於異蟲擁有難以肉眼辨認的高速移動能力「**Clock Up**」，為了得到足夠的力量和異蟲對抗，本作的假面騎士的通常形態(Rider Form)都裝置了**Clock Up**的能力，因此超速戰鬥成為本作一大賣點。跟前作《[假面騎士555](../Page/假面騎士555.md "wikilink")》的**Axel Form**不同，本作會以周遭事物緩慢地流動（如車輛、雨點）來表達假面騎士已經進入了**Clock Up**狀態戰鬥。
 
 本作的另一個賣點是「料理」。劇中部分主要角色亦精通料理。料理更構成本作故事主線。
 
@@ -26,21 +20,17 @@ Form**不同，本作會以周遭事物緩慢地流動（如車輛、雨點）�
 
 1999年10月19日，巨大**[隕石](../Page/隕石.md "wikilink")**突然向地球飛來，落下並直接擊中[日本](../Page/日本.md "wikilink")**[涉谷](https://zh.wikipedia.org/wiki/涉谷 "wikilink")**，週圍地區因此毀滅，傷亡慘重，稱為「**涉谷隕石事件**」。7年後的現在，涉谷仍未復興，並持續封鎖中。只是災難並未就此結束，一切才剛開始。
 
-隕石落下後，不明宇宙生物擬態成人類活動於城市中，不斷殺害人類並繁殖，造成人們的恐慌。為了消滅這些被稱為**異蟲**（Worm）的生物，人類組成了一個祕密組織**ZECT**。但由於異蟲擁有難以肉眼辨認的高速移動能力「**Clock
-Up**」，ZECT一再戰敗。最後的希望只剩下未及完成的武裝系統**Masked Rider
-System**（假面騎士系統）。如果有能夠裝備這套系統，並運用自如的人出現，那麼ZECT就能得到足夠的力量和異蟲對抗。
+隕石落下後，不明宇宙生物擬態成人類活動於城市中，不斷殺害人類並繁殖，造成人們的恐慌。為了消滅這些被稱為**異蟲**（Worm）的生物，人類組成了一個祕密組織**ZECT**。但由於異蟲擁有難以肉眼辨認的高速移動能力「**Clock Up**」，ZECT一再戰敗。最後的希望只剩下未及完成的武裝系統**Masked Rider System**（假面騎士系統）。如果有能夠裝備這套系統，並運用自如的人出現，那麼ZECT就能得到足夠的力量和異蟲對抗。
 
 某天，ZECT的實習隊員**加賀美新**，遇見了一個自稱「**行天之道，總司一切**（行走天之道，掌管世間一切）」（）的奇怪男子。此人名為**天道總司**。對於他如此桀傲不馴的態度，加賀美感到驚愕而困惑。
 
-異蟲再度出沒，ZECT隊員們被逼入絕境。目睹苦戰的同伴，加賀美決心要成為騎士而戰。但是，從空中飛來的Masked Rider
-System核心「**Kabuto Zector**」，卻飛到了忽然出現的天道手中。
+異蟲再度出沒，ZECT隊員們被逼入絕境。目睹苦戰的同伴，加賀美決心要成為騎士而戰。但是，從空中飛來的Masked Rider System核心「**Kabuto Zector**」，卻飛到了忽然出現的天道手中。
 
-把從童年時就得到的腰帶與Kabuto
-Zector組合在一起，天道在一瞬間被獨角仙外型的裝甲服包住身體，輕而易舉的打倒異蟲，**假面騎士Kabuto**就此誕生。
+把從童年時就得到的腰帶與Kabuto Zector組合在一起，天道在一瞬間被獨角仙外型的裝甲服包住身體，輕而易舉的打倒異蟲，**假面騎士Kabuto**就此誕生。
 
 但是，對於不過是一介平民，而且非組織成員的天道，ZECT判定他沒有資格成為Kabuto的裝備者，並委託接連誕生的新騎士們，抹殺假面騎士Kabuto適任者天道總司。
 
-天道總司能否憑自己一個人的力量守護一切？逐漸明朗化的[世界真相又是如何](../Page/世界.md "wikilink")？
+天道總司能否憑自己一個人的力量守護一切？逐漸明朗化的[世界](../Page/世界.md "wikilink")真相又是如何？
 
 ## 登場人物
 
@@ -48,9 +38,7 @@ Zector組合在一起，天道在一瞬間被獨角仙外型的裝甲服包住�
 
 本作的假面騎士都是透過使用ZECT提供的變身器(Zecter)，再將Zecter嵌入專用的腰帶、手環、槍、劍後變身而成的。
 
-基本共通點為擁有至少2個形態(假面形態/Masked Form和騎士形態/Rider
-Form),並擁有在2個形態互相轉換的能力(從假面形態轉成騎士形態為Cast
-Off;反過來為Put On)、以及擁有名為Clock Up的超高速活動能力。
+基本共通點為擁有至少2個形態(假面形態/Masked Form和騎士形態/Rider Form),並擁有在2個形態互相轉換的能力(從假面形態轉成騎士形態為Cast Off;反過來為Put On)、以及擁有名為Clock Up的超高速活動能力。
 
 ### 假面騎士 Kabuto
 
@@ -174,24 +162,15 @@ Cast Off後轉至<strong>Rider Form</strong>。</p></td>
 <!-- end list -->
 
   -
-    在得到Hyper Zecter之後，天道又因此在第37話得到Perfect Zecter。是Hyper
-    Form專用武器。有劍模式及槍模式。
+    在得到Hyper Zecter之後，天道又因此在第37話得到Perfect Zecter。是Hyper Form專用武器。有劍模式及槍模式。
 
 #### 必殺技
 
   -
     **Rider Kick**
-    騎士形態的必殺技。背向敵人，然後在對方接近時轉身踢出的高迴旋踢（Roundhouse
-    Kick），有別於以往假面骑士的飛身踢擊，但因應不同情況下仍可使出飛踢。要使用騎士踢，必須在腰帶上的Zecter上按下三個按鍵，Zecter會回覆「One,
-    Two, Three」的語音，然後把Zecter的角推到左側成原型後，再把角拉回至右側，自我宣告「Rider
-    Kick」，在Zecter讀出「Rider
-    Kick」後，會類似充電一樣讓電流（能量）由腰帶傳輸到**Kabuto**的角，並且發光眼睛，再傳輸到右腳。接著，就可以使用Rider
-    Kick。
+    騎士形態的必殺技。背向敵人，然後在對方接近時轉身踢出的高迴旋踢（Roundhouse Kick），有別於以往假面骑士的飛身踢擊，但因應不同情況下仍可使出飛踢。要使用騎士踢，必須在腰帶上的Zecter上按下三個按鍵，Zecter會回覆「One, Two, Three」的語音，然後把Zecter的角推到左側成原型後，再把角拉回至右側，自我宣告「Rider Kick」，在Zecter讀出「Rider Kick」後，會類似充電一樣讓電流（能量）由腰帶傳輸到**Kabuto**的角，並且發光眼睛，再傳輸到右腳。接著，就可以使用Rider Kick。
     **Hyper Kick**
-    超越形態的必殺技。在Hyper clock up狀態，下旋Hyper Zecter的觸角後回覆「Maximum Rider
-    Power」的語音，同樣在腰帶上的Zecter上按下三個按鍵，Zecter回覆「One, Two,
-    Three」的語音，然後把Zecter的角推到左側成原型後，再把角拉回至右側，自我宣告「Hyper
-    Kick」，在Zector讀出「Rider Kick」後，飛身而出進行飛踢（Flying Side Kick）。
+    超越形態的必殺技。在Hyper clock up狀態，下旋Hyper Zecter的觸角後回覆「Maximum Rider Power」的語音，同樣在腰帶上的Zecter上按下三個按鍵，Zecter回覆「One, Two, Three」的語音，然後把Zecter的角推到左側成原型後，再把角拉回至右側，自我宣告「Hyper Kick」，在Zector讀出「Rider Kick」後，飛身而出進行飛踢（Flying Side Kick）。
 
 配合Perfect Zecter劍模式使用的必殺技：
 
@@ -199,16 +178,13 @@ Cast Off後轉至<strong>Rider Form</strong>。</p></td>
     **Hyper Blade**
     按壓Perfect Zecter的紅色按鈕，啟動Kabuto Power進行斬擊。
     **Hyper Sting**
-    TheBee Zecter飛入裝於劍尖，按壓Perfect Zecter的黃色按鈕，啟動TheBee
-    Power，射出布滿能量的TheBee Zecter進行刺擊。
+    TheBee Zecter飛入裝於劍尖，按壓Perfect Zecter的黃色按鈕，啟動TheBee Power，射出布滿能量的TheBee Zecter進行刺擊。
     **Hyper Axe**
     劇中未使用，啟動Drake Power的攻擊。
     **Hyper Slash**
-    Sasword Zecter飛入裝於劍身前端的背面，按壓Perfect Zecter的紫色按鈕，啟動Sasword
-    Power進行數道斬擊。
+    Sasword Zecter飛入裝於劍身前端的背面，按壓Perfect Zecter的紫色按鈕，啟動Sasword Power進行數道斬擊。
     **Maximum Hyper Typhoon**
-    TheBee Zecter、Drake Zecter、Sasword
-    Zecter飛入裝於劍身，依序按壓紅色、黃色、水色及紫色按鈕集合能量後，劍身被超巨大光子刃包圍，通過斬擊消滅對方。
+    TheBee Zecter、Drake Zecter、Sasword Zecter飛入裝於劍身，依序按壓紅色、黃色、水色及紫色按鈕集合能量後，劍身被超巨大光子刃包圍，通過斬擊消滅對方。
 
 配合Perfect Zecter槍模式使用的必殺技：
 
@@ -218,21 +194,18 @@ Cast Off後轉至<strong>Rider Form</strong>。</p></td>
     **Hyper Laser**
     劇中未使用，啟動TheBee Power的攻擊。
     **Hyper Shooting**
-    Drake Zecter飛入裝於槍身(劍身前端的正面)，按壓Perfect Zecter的水色按鈕，啟動Drake
-    Power，進行光彈射擊，光彈未命中目標時，會分散數道能量追擊對手。
+    Drake Zecter飛入裝於槍身(劍身前端的正面)，按壓Perfect Zecter的水色按鈕，啟動Drake Power，進行光彈射擊，光彈未命中目標時，會分散數道能量追擊對手。
     **Hyper Wave**
     劇中未使用，啟動Sasword Power的攻擊。
     *' Maximum Hyper Cyclone*'
-    TheBee Zecter、Drake Zecter、Sasword
-    Zecter飛入裝於劍身，依序按壓紅色、黃色、水色及紫色按鈕集合能量後，把能量射出，並附帶旋風效果，對消滅大範圍異蟲尤其有效。
+    TheBee Zecter、Drake Zecter、Sasword Zecter飛入裝於劍身，依序按壓紅色、黃色、水色及紫色按鈕集合能量後，把能量射出，並附帶旋風效果，對消滅大範圍異蟲尤其有效。
 
 #### 交通工具
 
   -
     **Kabuto Extender**
     原型車種：[ホンダ・CBR1000RR](https://zh.wikipedia.org/wiki/ホンダ・CBR1000RR "wikilink")。
-    電單車和**Kabuto**一樣能**Cast Off**和**Clock Up**。使出Rider
-    Kick時，前方的角會展開，加快**Kabuto**的速度。（第10話）
+    電單車和**Kabuto**一樣能**Cast Off**和**Clock Up**。使出Rider Kick時，前方的角會展開，加快**Kabuto**的速度。（第10話）
 
 <table>
 <tbody>
@@ -276,10 +249,8 @@ Cast Off後轉至<strong>Rider Form</strong>。</p></td>
   -
     是ZECT以消滅**Kabuto**為任務而開發的第二個登場的假面騎士。
     **TheBee Zecter**會選擇合群、保護同伴及能為同伴犠牲的人作為合資格者。
-    由於人物性格上的改變導致產生多位**TheBee**的合資格者，參考[TheBee
-    合資格者的演變](https://zh.wikipedia.org/wiki/#The_Bee_合資格者的演變 "wikilink")。
-    最後使用**TheBee Zecter**變身的是影山瞬（出現在第44話保護Area
-    Z戰事中），但最終因為不願與**Gatack**合作而被摒棄。
+    由於人物性格上的改變導致產生多位**TheBee**的合資格者，參考[TheBee 合資格者的演變](https://zh.wikipedia.org/wiki/#The_Bee_合資格者的演變 "wikilink")。
+    最後使用**TheBee Zecter**變身的是影山瞬（出現在第44話保護Area Z戰事中），但最終因為不願與**Gatack**合作而被摒棄。
     代表昆蟲是[黃蜂](https://zh.wikipedia.org/wiki/黃蜂 "wikilink")，基本顏色是[黃色](https://zh.wikipedia.org/wiki/黃色 "wikilink")，第7集登場。
     完全無人獨自使用的兩個懸空假面騎士之一。（三島正人在第16話是強行抓住TheBee Zecter而變身，非正式變身者）
 
@@ -359,8 +330,7 @@ Cast Off後轉至<strong>Rider Form</strong>。</p></td>
 <!-- end list -->
 
   -
-    特殊：**三島正人**，影山在任的時候，為了傳達不懂戰鬥的影山戰鬥的方式，ZECT的三島正人曾經撿起並嵌上騎士手環使用粗暴的手法捉住TheBee
-    Zecter強行變身（第16集）。
+    特殊：**三島正人**，影山在任的時候，為了傳達不懂戰鬥的影山戰鬥的方式，ZECT的三島正人曾經撿起並嵌上騎士手環使用粗暴的手法捉住TheBee Zecter強行變身（第16集）。
 
 <!-- end list -->
 
@@ -492,8 +462,7 @@ Cast Off後轉至<strong>Rider Form</strong>。</p></td>
 
   -
     變身劍。
-    大量的動力電纜（只限Masked Form）。全身的動力電纜在不斷輸送雙肩共有500ml毒液。可以像觸手束縛對手，只有Cast
-    Off可以破解。
+    大量的動力電纜（只限Masked Form）。全身的動力電纜在不斷輸送雙肩共有500ml毒液。可以像觸手束縛對手，只有Cast Off可以破解。
 
 #### 專用電單車
 
@@ -505,14 +474,11 @@ Cast Off後轉至<strong>Rider Form</strong>。</p></td>
 
 ### 假面騎士 Gatack（戰鍬）
 
-**假面騎士 Gatack**（，Masked Rider Gatack）。
-變身者：加賀美新（替身演員：伊藤慎、CV：[佐藤祐基](../Page/佐藤祐基.md "wikilink")）
-ZECT的直屬假面騎士，能力亦相對高強。雖然按照登場時序是第五位登場的假面騎士，但其實是本作的第二騎士。
+**假面騎士 Gatack**（，Masked Rider Gatack）。 變身者：加賀美新（替身演員：伊藤慎、CV：[佐藤祐基](../Page/佐藤祐基.md "wikilink")） ZECT的直屬假面騎士，能力亦相對高強。雖然按照登場時序是第五位登場的假面騎士，但其實是本作的第二騎士。
 
 合資格者：無論何時都勇往直前的品格。合資格者是加賀美新。第五個登場的假面騎士。
 
-代表昆蟲是[鍬形蟲](../Page/鍬形蟲.md "wikilink")，主要使用的武器是肩上炮（Masked Form）及雙彎刀（Rider
-Form），基本色是[藍色](../Page/藍色.md "wikilink")，第22集登場。
+代表昆蟲是[鍬形蟲](../Page/鍬形蟲.md "wikilink")，主要使用的武器是肩上炮（Masked Form）及雙彎刀（Rider Form），基本色是[藍色](../Page/藍色.md "wikilink")，第22集登場。
 
 本假面騎士能最大程度活化加賀美新的身體能力。
 
@@ -597,8 +563,7 @@ Cast Off後轉至<strong>Rider Form</strong>。<br />
 
   -
     **Gatack Extender**
-    原型車種：[ホンダXR250
-    モタード](https://zh.wikipedia.org/wiki/ホンダXR250_モタード "wikilink")。
+    原型車種：[ホンダXR250 モタード](https://zh.wikipedia.org/wiki/ホンダXR250_モタード "wikilink")。
     車身可以展開成為貌似鍬形蟲的巨形飛行座架（Ex Mode）。
 
 <table>
@@ -641,8 +606,7 @@ Cast Off後轉至<strong>Rider Form</strong>。<br />
 **假面騎士 KickHopper**（，Maskèd Rider KickHopper）。
 
   -
-    新登場的**矢車 想**，帶著新的 **Kick\&PunchHopper Zecter**
-    與仇恨登場。由於恨意与堕落的原因，矢車常以「真是羨慕你啊、你在笑我麼？」等語詞來表達自己自被**TheBee**拋棄以後是不被世人接納的。
+    新登場的**矢車 想**，帶著新的 **Kick\&PunchHopper Zecter** 與仇恨登場。由於恨意与堕落的原因，矢車常以「真是羨慕你啊、你在笑我麼？」等語詞來表達自己自被**TheBee**拋棄以後是不被世人接納的。
     合資格者：被ZECT捨棄的人，合資格者是矢車 想，第六個登場的假面騎士。
     代表昆蟲是[蚱蜢](https://zh.wikipedia.org/wiki/蚱蜢 "wikilink")，基本顏色是[綠色](../Page/綠色.md "wikilink")，第33集登場。
 
@@ -701,8 +665,7 @@ Cast Off後轉至<strong>Rider Form</strong>。<br />
 **假面騎士 PunchHopper**（，Maskèd Rider PunchHopper）。
 
   -
-    **影山瞬**，被ZECT踢出，遭ZECT&宇蟲圍剿；奄奄一息之時被**矢車 想**救走了，隨後即接收了**矢車
-    想**給他的**PunchHopper Zecter**，成為地獄兄弟的**PunchHopper**。
+    **影山瞬**，被ZECT踢出，遭ZECT&宇蟲圍剿；奄奄一息之時被**矢車 想**救走了，隨後即接收了**矢車 想**給他的**PunchHopper Zecter**，成為地獄兄弟的**PunchHopper**。
     代表昆蟲是[蚱蜢](https://zh.wikipedia.org/wiki/蚱蜢 "wikilink")，基本顏色是[棕色](https://zh.wikipedia.org/wiki/棕色 "wikilink")，第35集登場。
 
 #### 變身模式
@@ -815,27 +778,26 @@ Cast Off後轉至<strong>Rider Form</strong>。</p></td>
 
 ## 劇場版新登場假面騎士
 
-## 異蟲
+## 蟲类
+
+### 異蟲
 
 從掉落至涉谷的隕石也隨之帶來的不明宇宙生物。與地球上的昆蟲、甲殼類動物有著相似的外觀與特性。具有高度的智慧與下述的特殊能力•形態，並擬態成人類活動於城市中，不斷殺害人類並繁殖，造成人們的恐慌。
 
 異蟲基本上沒有固定的組織，而是以個體為主採取獨立行動，混跡於人類社會之中進行殺戮。不過其中也有為了異蟲全體的繁榮為目標，集結多數異蟲採取集團行動的存在。
 
-### 形態
+#### 形態
 
   -
-    第一形態。能被一般武器給擊倒。基本上分為外表是綠色（化為成蟲體前會變成茶色）的通常種，和外表為白色、外殼也更堅固且能發動Clock
-    Up，但數量稀少的變異種。有著能將ZECT
-    Trooper一擊打倒的威力。脫皮時會發出384克耳文（110.85℃）以上的熱度和一定程度的重力變動。
+    第一形態。能被一般武器給擊倒。基本上分為外表是綠色（化為成蟲體前會變成茶色）的通常種，和外表為白色、外殼也更堅固且能發動Clock Up，但數量稀少的變異種。有著能將ZECT Trooper一擊打倒的威力。脫皮時會發出384克耳文（110.85℃）以上的熱度和一定程度的重力變動。
     在本作中的地位有些類似過去系列中的戰鬥員。
 
 <!-- end list -->
 
   -
-    蛹體脫皮後的第二形態。有著與蛹體不同的各式顏色與外型。在戰鬥時會喚來蛹體群跟隨。有些可吐出酸、毒霧或是能量攻擊，或是有著能彈開飛行道具的觸手等。在一定程度後會發動Clock
-    Up來襲擊、玩弄對手。由於外殼更加堅固的緣故，絕大多數都是以巨化的雙腕來進行格鬥戰，只有少數會使用武器來進行戰鬥。
+    蛹體脫皮後的第二形態。有著與蛹體不同的各式顏色與外型。在戰鬥時會喚來蛹體群跟隨。有些可吐出酸、毒霧或是能量攻擊，或是有著能彈開飛行道具的觸手等。在一定程度後會發動Clock Up來襲擊、玩弄對手。由於外殼更加堅固的緣故，絕大多數都是以巨化的雙腕來進行格鬥戰，只有少數會使用武器來進行戰鬥。
 
-### 能力
+#### 能力
 
   -
     將外型變化為人類的能力。包括衣服、所有物和記憶都能完美呈現。也是異蟲用來取代人類的方式。
@@ -845,8 +807,7 @@ Cast Off後轉至<strong>Rider Form</strong>。</p></td>
 <!-- end list -->
 
   -
-    脫皮後的成蟲體才能使用的能力。在Clock
-    Up狀態下無法用肉眼確認其行動，在不使用ZECT所開發的假面騎士系統的情況下要將其打倒是非常困難的。
+    脫皮後的成蟲體才能使用的能力。在Clock Up狀態下無法用肉眼確認其行動，在不使用ZECT所開發的假面騎士系統的情況下要將其打倒是非常困難的。
 
 ### 原蟲
 
@@ -861,25 +822,19 @@ Cast Off後轉至<strong>Rider Form</strong>。</p></td>
 
   -
     「蛻殻」。原本是WORM從一般「雜兵」型態轉化成特殊型態的過程。因為假面騎士系統是模仿WORM的力量，所以也有相同的過程。
-    騎士必須邊喊著「Cast
-    Off\!」邊啟動Zecter上的開關，當Zecter回應同樣的命令之後，就會卸除騎士身上的裝甲，從[-{zh-tw:假面;
-    zh-hk:幪面;}-形態變成](https://zh.wikipedia.org/wiki/#-.7Bzh-tw:假面;zh-hk:幪面.7D-形態 "wikilink")[騎士形態](https://zh.wikipedia.org/wiki/#騎士形態 "wikilink")。
+    騎士必須邊喊著「Cast Off\!」邊啟動Zecter上的開關，當Zecter回應同樣的命令之後，就會卸除騎士身上的裝甲，從[-{zh-tw:假面; zh-hk:幪面;}-形態變成](https://zh.wikipedia.org/wiki/#-.7Bzh-tw:假面;zh-hk:幪面.7D-形態 "wikilink")[騎士形態](https://zh.wikipedia.org/wiki/#騎士形態 "wikilink")。
     飛脫出去的裝甲，有時候還可以傷敵。
 
 ### Clock Up
 
   -
     「超速模式」。啟動之後，能夠以超越人類肉眼可以看見的速度行動。這本來是WORM的能力，所以一般人類無法與之對抗，只有裝備了騎士系統的人類可以有相同的能力。
-    同《[假面騎士555](../Page/假面騎士555.md "wikilink")》的 Axel
-    Form（加速型態）不一样，是沒有時間限制的，只会消耗使用者體力，体力到極限或使用者想停止Clock
-    Up狀態時，恢复到正常的速度，當Clock Up停止後，腰带自動發出「Clock Over」的音效。
+    同《[假面騎士555](../Page/假面騎士555.md "wikilink")》的 Axel Form（加速型態）不一样，是沒有時間限制的，只会消耗使用者體力，体力到極限或使用者想停止Clock Up狀態時，恢复到正常的速度，當Clock Up停止後，腰带自動發出「Clock Over」的音效。
 
 ### Put On
 
   -
-    「裝甲」。將「Cast
-    Off」時蛻飛出去的裝甲重新裝嵌騎士身上（由[騎士形態重新回到](https://zh.wikipedia.org/wiki/#騎士形態 "wikilink")[-{zh-tw:假面;
-    zh-hk:幪面;}-形態](https://zh.wikipedia.org/wiki/#-.7Bzh-tw:假面;zh-hk:幪面.7D-形態 "wikilink")），可以局部復原。
+    「裝甲」。將「Cast Off」時蛻飛出去的裝甲重新裝嵌騎士身上（由[騎士形態重新回到](https://zh.wikipedia.org/wiki/#騎士形態 "wikilink")[-{zh-tw:假面; zh-hk:幪面;}-形態](https://zh.wikipedia.org/wiki/#-.7Bzh-tw:假面;zh-hk:幪面.7D-形態 "wikilink")），可以局部復原。
     （香港翡翠台譯作Cast On，於32話改正回Put On）
 
 ### 變身器(Zecter)
@@ -963,18 +918,14 @@ Cast Off後轉至<strong>Rider Form</strong>。</p></td>
 #### Hyper Cast Off
 
   -
-    當Hyper Zecter裝備在騎士身上時，騎士喊著「Hyper Cast
-    Off」後拉動Hyper-Zecter上的開關，即可啟動超越形態（Hyper
-    Rider Form），處於騎士形態的騎士身上的裝甲會有所變化。
+    當Hyper Zecter裝備在騎士身上時，騎士喊著「Hyper Cast Off」後拉動Hyper-Zecter上的開關，即可啟動超越形態（Hyper Rider Form），處於騎士形態的騎士身上的裝甲會有所變化。
     電視版中只有**Kabuto**可變身為**HyperKabuto**。
-    在假面騎士Kabuto特別篇-「[誕生！Gatack Hyper
-    Form](https://zh.wikipedia.org/wiki/假面騎士Kabuto_超戰鬥DVD_誕生！Gatack_Hyper_Form "wikilink")」中，**Gatack**亦可變身成**HyperGatack**。
+    在假面騎士Kabuto特別篇-「[誕生！Gatack Hyper Form](https://zh.wikipedia.org/wiki/假面騎士Kabuto_超戰鬥DVD_誕生！Gatack_Hyper_Form "wikilink")」中，**Gatack**亦可變身成**HyperGatack**。
 
 #### Hyper Clock Up
 
   -
-    當騎士Hyper Cast Off後，才可啟動Hyper Clock Up，Hyper Clock Up的速度比一般Clock
-    Up更快，更可以穿越時空。天道亦曾經透過Hyper Clock Up救回原本被Worm擊殺的加賀美。
+    當騎士Hyper Cast Off後，才可啟動Hyper Clock Up，Hyper Clock Up的速度比一般Clock Up更快，更可以穿越時空。天道亦曾經透過Hyper Clock Up救回原本被Worm擊殺的加賀美。
     結束後，會復原為**超越形態**並發出"Hyper Clock Over"的語音。
 
 ### 假面骑士
@@ -983,8 +934,7 @@ Cast Off後轉至<strong>Rider Form</strong>。</p></td>
 
   -
     **假面形態**（，Masked Form），是假面骑士的第一種形態。
-    為重視力量的重裝甲形態，在此形態下無法使用Clock
-    Up和必殺技。Hopper系列和劇場版登場的所有騎士都會跳過此形態而直接變成騎士形態。
+    為重視力量的重裝甲形態，在此形態下無法使用Clock Up和必殺技。Hopper系列和劇場版登場的所有騎士都會跳過此形態而直接變成騎士形態。
 
 #### 騎士形態
 
@@ -995,8 +945,7 @@ Cast Off後轉至<strong>Rider Form</strong>。</p></td>
 #### 超越形態
 
   -
-    **超越形態**（，Hyper Form），是**假面骑士Kabuto、Gatack**利用Hyper Zecter進行 Hyper
-    Cast Off 而成的第三種形態。
+    **超越形態**（，Hyper Form），是**假面骑士Kabuto、Gatack**利用Hyper Zecter進行 Hyper Cast Off 而成的第三種形態。
     詳細內容請參考[超越形態（詳細）](https://zh.wikipedia.org/wiki/#超越形態（詳細） "wikilink")。
 
 #### 紅舞鞋系統
@@ -1072,8 +1021,7 @@ Cast Off後轉至<strong>Rider Form</strong>。</p></td>
 <!-- end list -->
 
   -
-    作詞：[藤林聖子](../Page/藤林聖子.md "wikilink")　作曲 /
-    編曲：[渡部チェル](https://zh.wikipedia.org/wiki/渡部チェル "wikilink")　歌：YU-KI（[TRF](../Page/TRF.md "wikilink")）
+    作詞：[藤林聖子](../Page/藤林聖子.md "wikilink")　作曲 / 編曲：[渡部チェル](https://zh.wikipedia.org/wiki/渡部チェル "wikilink")　歌：YU-KI（[TRF](../Page/TRF.md "wikilink")）
 
 <!-- end list -->
 
@@ -1091,10 +1039,7 @@ Cast Off後轉至<strong>Rider Form</strong>。</p></td>
 <!-- end list -->
 
   -
-    作詞：[藤林聖子](../Page/藤林聖子.md "wikilink")　作曲：[nishi-ken](https://zh.wikipedia.org/wiki/nishi-ken "wikilink")　編曲：[RIDER
-    CHIPS](https://zh.wikipedia.org/wiki/RIDER_CHIPS "wikilink") /
-    [渡部チェル](https://zh.wikipedia.org/wiki/渡部チェル "wikilink")　歌:[RIDER
-    CHIPS](https://zh.wikipedia.org/wiki/RIDER_CHIPS "wikilink")
+    作詞：[藤林聖子](../Page/藤林聖子.md "wikilink")　作曲：[nishi-ken](https://zh.wikipedia.org/wiki/nishi-ken "wikilink")　編曲：[RIDER CHIPS](https://zh.wikipedia.org/wiki/RIDER_CHIPS "wikilink") / [渡部チェル](https://zh.wikipedia.org/wiki/渡部チェル "wikilink")　歌:[RIDER CHIPS](https://zh.wikipedia.org/wiki/RIDER_CHIPS "wikilink")
 
 <!-- end list -->
 
@@ -1112,15 +1057,14 @@ Cast Off後轉至<strong>Rider Form</strong>。</p></td>
 <!-- end list -->
 
   -
-    作詞 - 藤林聖子 作曲:渡部チェル 編曲:RIDER CHIPS / 渡部チェル 歌：RIDER CHIPS featuring
-    加賀美新（佐藤祐基）
+    作詞 - 藤林聖子 作曲:渡部チェル 編曲:RIDER CHIPS / 渡部チェル 歌：RIDER CHIPS featuring 加賀美新（佐藤祐基）
 
 插入歌在本作与『[假面騎士顎門](https://zh.wikipedia.org/wiki/假面騎士顎門 "wikilink")』、『[假面騎士龍騎](../Page/假面騎士龍騎.md "wikilink")』、『[假面騎士555](../Page/假面騎士555.md "wikilink")』、『[假面騎士劍](https://zh.wikipedia.org/wiki/假面騎士劍 "wikilink")』一樣，作為戰鬥曲在戰鬥中插入而非作为片尾曲。
 
 ## 獎項
 
-  - 2009年：由歌手[鄭融演唱之香港區粵語版片頭曲](../Page/鄭融.md "wikilink")《天道》曾於「[新城勁爆兒歌頒獎禮](https://zh.wikipedia.org/wiki/新城勁爆兒歌頒獎禮 "wikilink")2008」內奪得「新城勁爆兒歌」獎
-  - 2009年：由歌手[鄭融演唱之香港區粵語版片頭曲](../Page/鄭融.md "wikilink")《天道》曾於「[動畫歌曲音樂會之](https://zh.wikipedia.org/wiki/動畫歌曲音樂會 "wikilink")2009十大兒歌金曲頒獎禮」內奪得「十大兒歌金曲」獎
+  - 2009年：由歌手[鄭融](../Page/鄭融.md "wikilink")演唱之香港區粵語版片頭曲《天道》曾於「[新城勁爆兒歌頒獎禮](https://zh.wikipedia.org/wiki/新城勁爆兒歌頒獎禮 "wikilink")2008」內奪得「新城勁爆兒歌」獎
+  - 2009年：由歌手[鄭融](../Page/鄭融.md "wikilink")演唱之香港區粵語版片頭曲《天道》曾於「[動畫歌曲音樂會之](https://zh.wikipedia.org/wiki/動畫歌曲音樂會 "wikilink")2009十大兒歌金曲頒獎禮」內奪得「十大兒歌金曲」獎
 
 ## 放映列表
 
@@ -1893,13 +1837,6 @@ Cast Off後轉至<strong>Rider Form</strong>。</p></td>
   - [假面騎士KABUTO（朝日電視台）](http://www.tv-asahi.co.jp/kabuto/)
   - [假面騎士KABUTO（東映）](https://web.archive.org/web/20060807042100/http://www.toei.co.jp/tv/kabuto/index.asp)
 
-[Category:平成假面騎士系列](https://zh.wikipedia.org/wiki/Category:平成假面騎士系列 "wikilink")
-[Category:朝日電視台電視劇](https://zh.wikipedia.org/wiki/Category:朝日電視台電視劇 "wikilink")
-[Category:2006年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2006年日本電視劇集 "wikilink")
-[Category:昆蟲題材電視劇](https://zh.wikipedia.org/wiki/Category:昆蟲題材電視劇 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
-[Category:PlayStation_2遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_2遊戲 "wikilink")
-[Category:2006年電子遊戲](https://zh.wikipedia.org/wiki/Category:2006年電子遊戲 "wikilink")
-[Category:可以超人类速度移动的虚构角色](https://zh.wikipedia.org/wiki/Category:可以超人类速度移动的虚构角色 "wikilink")
+[Category:平成假面騎士系列](https://zh.wikipedia.org/wiki/Category:平成假面騎士系列 "wikilink") [Category:朝日電視台電視劇](https://zh.wikipedia.org/wiki/Category:朝日電視台電視劇 "wikilink") [Category:2006年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2006年日本電視劇集 "wikilink") [Category:昆蟲題材電視劇](https://zh.wikipedia.org/wiki/Category:昆蟲題材電視劇 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink") [Category:PlayStation_2遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_2遊戲 "wikilink") [Category:2006年電子遊戲](https://zh.wikipedia.org/wiki/Category:2006年電子遊戲 "wikilink") [Category:可以超人类速度移动的虚构角色](https://zh.wikipedia.org/wiki/Category:可以超人类速度移动的虚构角色 "wikilink")
 
 1.  同時也是本作口號。

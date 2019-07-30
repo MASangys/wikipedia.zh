@@ -1,22 +1,14 @@
-《**Happiness\!**》（）是[Windmill公司發售的第](../Page/Windmill.md "wikilink")6款[十八禁](https://zh.wikipedia.org/wiki/十八禁遊戲 "wikilink")[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")，以及以此發展出來的[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")、[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")。遊戲中的配角渡良瀨準是[偽娘的代表之一](../Page/偽娘.md "wikilink")，因為外型可愛，曾有人誤認其為女主角。
+《**Happiness\!**》（）是[Windmill](../Page/Windmill.md "wikilink")公司發售的第6款[十八禁](https://zh.wikipedia.org/wiki/十八禁遊戲 "wikilink")[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")，以及以此發展出來的[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")、[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")。遊戲中的配角渡良瀨準是[偽娘](../Page/偽娘.md "wikilink")的代表之一，因為外型可愛，曾有人誤認其為女主角。
 
 ## 作品歷史
 
 最早發售的[PC版遊戲是](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")2005年10月21日的初回限定版，有附贈原畫集和[原聲集](https://zh.wikipedia.org/wiki/原聲音樂 "wikilink")\[1\]，接著於同年11月18日發售通常版\[2\]。
 
-Windmill
-Oasis於2006年7月28日發售收錄有7個[短篇故事和](https://zh.wikipedia.org/wiki/短篇 "wikilink")[麻將遊戲的](https://zh.wikipedia.org/wiki/麻將 "wikilink")[Fan
-disc](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")《**Happiness\!
-Re:Lucks**》（****）\[3\]，這片Fan
-Disc的初回限定版有附贈原畫集和[原聲集](https://zh.wikipedia.org/wiki/原聲音樂 "wikilink")；接著於同年9月15日發售通常版\[4\]。
+Windmill Oasis於2006年7月28日發售收錄有7個[短篇故事和](https://zh.wikipedia.org/wiki/短篇 "wikilink")[麻將遊戲的](https://zh.wikipedia.org/wiki/麻將 "wikilink")[Fan disc](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")《**Happiness\! Re:Lucks**》（****）\[3\]，這片Fan Disc的初回限定版有附贈原畫集和[原聲集](https://zh.wikipedia.org/wiki/原聲音樂 "wikilink")；接著於同年9月15日發售通常版\[4\]。
 
-2007年1月25日由[Marvelous
-Interactive發售](https://zh.wikipedia.org/wiki/Marvelous_Interactive "wikilink")[PlayStation
-2版](../Page/PlayStation_2.md "wikilink")《**Happiness\!
-De:Lucks**》（****）\[5\]。
+2007年1月25日由[Marvelous Interactive發售](https://zh.wikipedia.org/wiki/Marvelous_Interactive "wikilink")[PlayStation 2版](../Page/PlayStation_2.md "wikilink")《**Happiness\! De:Lucks**》（****）\[5\]。
 
-另外本作品的副標題「It's a happy & heartful school
-life.」可能是[和製英語](../Page/和製英語.md "wikilink")，意思是「幸福而溫馨的校園生活」。
+另外本作品的副標題「It's a happy & heartful school life.」可能是[和製英語](../Page/和製英語.md "wikilink")，意思是「幸福而溫馨的校園生活」。
 
 ## 情節簡介
 
@@ -113,8 +105,7 @@ life.」可能是[和製英語](../Page/和製英語.md "wikilink")，意思是�
 <!-- end list -->
 
   -
-    歌：[佐藤裕美](../Page/佐藤裕美.md "wikilink")，作詞：[kanoko](https://zh.wikipedia.org/wiki/kanoko "wikilink")，作曲／編曲：（Elements
-    Garden）
+    歌：[佐藤裕美](../Page/佐藤裕美.md "wikilink")，作詞：[kanoko](https://zh.wikipedia.org/wiki/kanoko "wikilink")，作曲／編曲：（Elements Garden）
 
 <!-- end list -->
 
@@ -341,12 +332,9 @@ life.」可能是[和製英語](../Page/和製英語.md "wikilink")，意思是�
 
 ## 評價
 
-《Happiness\!》在日本美少女游戏与动画相关商品销售网站Getchu.com的2005年10月销量榜上排名第2\[6\]，2005年排名第6\[7\]。[Fan
-disc](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")《Happiness\!
-Re:Lucks》於2006年排名第9。\[8\]
+《Happiness\!》在日本美少女游戏与动画相关商品销售网站Getchu.com的2005年10月销量榜上排名第2\[6\]，2005年排名第6\[7\]。[Fan disc](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")《Happiness\! Re:Lucks》於2006年排名第9。\[8\]
 
-2007年10月，《電擊G's
-magazine》舉辦了日本前五十名最佳美少女遊戲排名的票選活動，《Happiness\!》在入圍的249款遊戲中獲得5票而成為第38名。\[9\]
+2007年10月，《電擊G's magazine》舉辦了日本前五十名最佳美少女遊戲排名的票選活動，《Happiness\!》在入圍的249款遊戲中獲得5票而成為第38名。\[9\]
 
 ## 參考資料
 
@@ -357,18 +345,7 @@ magazine》舉辦了日本前五十名最佳美少女遊戲排名的票選活動
   - [Happiness\!Re:Lucks官方網站](http://windmill.suki.jp/product/oa1st/html/oa1st_topframe.html)
   - [電視動畫官方網站](https://www.marv.jp/special/happiness-anime/)
 
-[Category:2005年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2005年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink")
-[Category:恋愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:恋愛冒險遊戲 "wikilink")
-[Category:魔法少女題材遊戲](https://zh.wikipedia.org/wiki/Category:魔法少女題材遊戲 "wikilink")
-[Category:偽娘題材遊戲](https://zh.wikipedia.org/wiki/Category:偽娘題材遊戲 "wikilink")
-[Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink")
-[Category:日本小說](https://zh.wikipedia.org/wiki/Category:日本小說 "wikilink")
-[Category:月刊Comic_Alive](https://zh.wikipedia.org/wiki/Category:月刊Comic_Alive "wikilink")
-[Category:2006年UHF動畫](https://zh.wikipedia.org/wiki/Category:2006年UHF動畫 "wikilink")
-[Category:日本成人遊戲改編電視動畫](https://zh.wikipedia.org/wiki/Category:日本成人遊戲改編電視動畫 "wikilink")
-[Category:魔法學校背景作品](https://zh.wikipedia.org/wiki/Category:魔法學校背景作品 "wikilink")
+[Category:2005年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2005年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink") [Category:恋愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:恋愛冒險遊戲 "wikilink") [Category:魔法少女題材遊戲](https://zh.wikipedia.org/wiki/Category:魔法少女題材遊戲 "wikilink") [Category:偽娘題材遊戲](https://zh.wikipedia.org/wiki/Category:偽娘題材遊戲 "wikilink") [Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink") [Category:日本小說](https://zh.wikipedia.org/wiki/Category:日本小說 "wikilink") [Category:月刊Comic_Alive](https://zh.wikipedia.org/wiki/Category:月刊Comic_Alive "wikilink") [Category:2006年UHF動畫](https://zh.wikipedia.org/wiki/Category:2006年UHF動畫 "wikilink") [Category:日本成人遊戲改編電視動畫](https://zh.wikipedia.org/wiki/Category:日本成人遊戲改編電視動畫 "wikilink") [Category:魔法學校背景作品](https://zh.wikipedia.org/wiki/Category:魔法學校背景作品 "wikilink")
 
 1.
 2.

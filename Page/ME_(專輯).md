@@ -14,5 +14,4 @@
 
 ## 曲目
 
-[Category:薛凱琪音樂專輯](https://zh.wikipedia.org/wiki/Category:薛凱琪音樂專輯 "wikilink")
-[Category:2005年音樂專輯](https://zh.wikipedia.org/wiki/Category:2005年音樂專輯 "wikilink")
+[Category:薛凱琪音樂專輯](https://zh.wikipedia.org/wiki/Category:薛凱琪音樂專輯 "wikilink") [Category:2005年音樂專輯](https://zh.wikipedia.org/wiki/Category:2005年音樂專輯 "wikilink")

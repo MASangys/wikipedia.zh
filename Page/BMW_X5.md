@@ -1,23 +1,7 @@
-[BMW_X5_(E53,_Facelift)_–_Frontansicht,_12._Juni_2011,_Düsseldorf.jpg](https://zh.wikipedia.org/wiki/File:BMW_X5_\(E53,_Facelift\)_–_Frontansicht,_12._Juni_2011,_Düsseldorf.jpg "fig:BMW_X5_(E53,_Facelift)_–_Frontansicht,_12._Juni_2011,_Düsseldorf.jpg")
-[BMW_X5_II_20090719_front.JPG](https://zh.wikipedia.org/wiki/File:BMW_X5_II_20090719_front.JPG "fig:BMW_X5_II_20090719_front.JPG")
-[2014_BMW_X5_(F15)_xDrive30d_wagon_(2015-06-27)_01.jpg](https://zh.wikipedia.org/wiki/File:2014_BMW_X5_\(F15\)_xDrive30d_wagon_\(2015-06-27\)_01.jpg "fig:2014_BMW_X5_(F15)_xDrive30d_wagon_(2015-06-27)_01.jpg"))\]\]
-[2019_BMW_X5_M50d_Automatic_3.0_Front.jpg](https://zh.wikipedia.org/wiki/File:2019_BMW_X5_M50d_Automatic_3.0_Front.jpg "fig:2019_BMW_X5_M50d_Automatic_3.0_Front.jpg"))\]\]
-**BMW
-X5**是[寶馬自](https://zh.wikipedia.org/wiki/寶馬 "wikilink")1999年開始銷售的豪華[跨界休旅車](../Page/跨界休旅車.md "wikilink")，官方稱其設計概念為「Sport
-Activity
-Vehicle」。特色是[四輪驅動](https://zh.wikipedia.org/wiki/四輪驅動 "wikilink")，以及配有[直列六缸或者](https://zh.wikipedia.org/wiki/直列六缸 "wikilink")[V型八缸引擎](https://zh.wikipedia.org/wiki/V8 "wikilink")。第一代X5，代號E53，在1999年首次亮相。
-這是寶馬的首款SUV（運動型多功能車）(在英國也稱為"Four-by-Four"
-(4x4))。具有[四輪驅動](https://zh.wikipedia.org/wiki/四輪驅動 "wikilink")。在2006年的推出第二代的X5(E70)，它的
-[自動變速箱擁有](https://zh.wikipedia.org/wiki/自動變速箱 "wikilink")「xDrive智慧型可變四輪傳動系統」。並在2009年推出了X5
-M。
+[BMW_X5_(E53,_Facelift)_–_Frontansicht,_12._Juni_2011,_Düsseldorf.jpg](https://zh.wikipedia.org/wiki/File:BMW_X5_\(E53,_Facelift\)_–_Frontansicht,_12._Juni_2011,_Düsseldorf.jpg "fig:BMW_X5_(E53,_Facelift)_–_Frontansicht,_12._Juni_2011,_Düsseldorf.jpg") [BMW_X5_II_20090719_front.JPG](https://zh.wikipedia.org/wiki/File:BMW_X5_II_20090719_front.JPG "fig:BMW_X5_II_20090719_front.JPG") [2014_BMW_X5_(F15)_xDrive30d_wagon_(2015-06-27)_01.jpg](https://zh.wikipedia.org/wiki/File:2014_BMW_X5_\(F15\)_xDrive30d_wagon_\(2015-06-27\)_01.jpg "fig:2014_BMW_X5_(F15)_xDrive30d_wagon_(2015-06-27)_01.jpg"))\]\] [2019_BMW_X5_M50d_Automatic_3.0_Front.jpg](https://zh.wikipedia.org/wiki/File:2019_BMW_X5_M50d_Automatic_3.0_Front.jpg "fig:2019_BMW_X5_M50d_Automatic_3.0_Front.jpg"))\]\] **BMW X5**是[寶馬自](https://zh.wikipedia.org/wiki/寶馬 "wikilink")1999年開始銷售的豪華[跨界休旅車](../Page/跨界休旅車.md "wikilink")，官方稱其設計概念為「Sport Activity Vehicle」。特色是[四輪驅動](https://zh.wikipedia.org/wiki/四輪驅動 "wikilink")，以及配有[直列六缸或者](https://zh.wikipedia.org/wiki/直列六缸 "wikilink")[V型八缸引擎](https://zh.wikipedia.org/wiki/V8 "wikilink")。第一代X5，代號E53，在1999年首次亮相。 這是寶馬的首款SUV（運動型多功能車）(在英國也稱為"Four-by-Four" (4x4))。具有[四輪驅動](https://zh.wikipedia.org/wiki/四輪驅動 "wikilink")。在2006年的推出第二代的X5(E70)，它的 [自動變速箱擁有](https://zh.wikipedia.org/wiki/自動變速箱 "wikilink")「xDrive智慧型可變四輪傳動系統」。並在2009年推出了X5 M。
 
 ## 外部連結
 
-[BMW
-X5](https://web.archive.org/web/20070324044518/http://www.bmw.com.tw/model/x5/index.htm)台灣官方網站
+[BMW X5](https://web.archive.org/web/20070324044518/http://www.bmw.com.tw/model/x5/index.htm)台灣官方網站
 
-[Category:1999年面世的汽車](https://zh.wikipedia.org/wiki/Category:1999年面世的汽車 "wikilink")
-[Category:BMW車輛](https://zh.wikipedia.org/wiki/Category:BMW車輛 "wikilink")
-[Category:跨界休旅車](https://zh.wikipedia.org/wiki/Category:跨界休旅車 "wikilink")
-[Category:1990年代汽車](https://zh.wikipedia.org/wiki/Category:1990年代汽車 "wikilink")
-[Category:2000年代汽車](https://zh.wikipedia.org/wiki/Category:2000年代汽車 "wikilink")
+[Category:1999年面世的汽車](https://zh.wikipedia.org/wiki/Category:1999年面世的汽車 "wikilink") [Category:BMW車輛](https://zh.wikipedia.org/wiki/Category:BMW車輛 "wikilink") [Category:跨界休旅車](https://zh.wikipedia.org/wiki/Category:跨界休旅車 "wikilink") [Category:1990年代汽車](https://zh.wikipedia.org/wiki/Category:1990年代汽車 "wikilink") [Category:2000年代汽車](https://zh.wikipedia.org/wiki/Category:2000年代汽車 "wikilink")

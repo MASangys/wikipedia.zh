@@ -1,13 +1,12 @@
-**我愛你**（**ILOVEYOU**）蠕蟲，又稱**VBS/Loveletter**或**Love Bug
-worm**，是一個以[VBScript撰寫的](../Page/VBScript.md "wikilink")[電腦蠕蟲](../Page/電腦蠕蟲.md "wikilink")。
+**我愛你**（**ILOVEYOU**）蠕蟲，又稱**VBS/Loveletter**或**Love Bug worm**，是一個以[VBScript](../Page/VBScript.md "wikilink")撰寫的[電腦蠕蟲](../Page/電腦蠕蟲.md "wikilink")。
 
 ## 敘述
 
-本蠕蟲首度在[香港發現](../Page/香港.md "wikilink")，第一次於2000年5月3日出現在電子郵件信箱中，以簡單的**ILOVEYOU**標題出現，並挾帶附件"LOVE-LETTER-FOR-YOU.TXT.vbs"。
+本蠕蟲首度在[香港](../Page/香港.md "wikilink")發現，第一次於2000年5月3日出現在電子郵件信箱中，以簡單的**ILOVEYOU**標題出現，並挾帶附件"LOVE-LETTER-FOR-YOU.TXT.vbs"。
 
 本蠕蟲因兩項特質而造成嚴重影響：
 
-  - 它以[VBScript作為其散佈媒體](../Page/VBScript.md "wikilink")，此語言之前尚未發現其破壞力與缺陷，因此降低它達到目的的難度。
+  - 它以[VBScript](../Page/VBScript.md "wikilink")作為其散佈媒體，此語言之前尚未發現其破壞力與缺陷，因此降低它達到目的的難度。
   - 它使用了強力的心理戰術，讓人們開啟此信的附件檔以達成持續散佈的目的。
 
 ## 散佈
@@ -16,28 +15,19 @@ worm**，是一個以[VBScript撰寫的](../Page/VBScript.md "wikilink")[電腦�
 
 ## 影響
 
-這個特殊的[惡意軟體造成了世界](https://zh.wikipedia.org/wiki/惡意軟體 "wikilink")55億美元的損失，使它成為史上最強的蠕蟲。此蠕蟲覆寫受感染電腦上的重要檔案，如音樂、多媒體與其他檔案。它也對受害者的郵件通訊列表上的每個朋友寄出病毒信，此蠕蟲僅感染執行[Microsoft
-Windows作業系統的電腦](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。
+這個特殊的[惡意軟體造成了世界](https://zh.wikipedia.org/wiki/惡意軟體 "wikilink")55億美元的損失，使它成為史上最強的蠕蟲。此蠕蟲覆寫受感染電腦上的重要檔案，如音樂、多媒體與其他檔案。它也對受害者的郵件通訊列表上的每個朋友寄出病毒信，此蠕蟲僅感染執行[Microsoft Windows作業系統的電腦](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。
 
 ### 創作者
 
-此蠕蟲據信是由Michael
-Buen所寫，而此蠕蟲所用的Barok[特洛伊木馬則是由](../Page/特洛伊木马_\(电脑\).md "wikilink")[菲律賓大學生Onel](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")
-A de Guzman所寫。
+此蠕蟲據信是由Michael Buen所寫，而此蠕蟲所用的Barok[特洛伊木馬則是由](../Page/特洛伊木马_\(电脑\).md "wikilink")[菲律賓大學生Onel](https://zh.wikipedia.org/wiki/菲律賓 "wikilink") A de Guzman所寫。
 
 ## 蠕蟲結構
 
-本蠕蟲的作者辯稱自己在意外中釋放了此惡意軟體。此蠕蟲以[Microsoft](https://zh.wikipedia.org/wiki/Microsoft "wikilink")
-Visual Basic
-Scripting寫成，並需要受害者親自啟動此檔案。它也會在Windows登錄編輯程式增加一些注册表键（registry
-key），使得此惡意程式可以在電腦每次開機時隨之啟動。
+本蠕蟲的作者辯稱自己在意外中釋放了此惡意軟體。此蠕蟲以[Microsoft](https://zh.wikipedia.org/wiki/Microsoft "wikilink") Visual Basic Scripting寫成，並需要受害者親自啟動此檔案。它也會在Windows登錄編輯程式增加一些注册表键（registry key），使得此惡意程式可以在電腦每次開機時隨之啟動。
 
-本蠕蟲將隨之尋找本受感染電腦所有的檔案裝置並將附檔名為\*.JPG, \*.JPEG, \*.VBS, \*.VBE, \*.JS,
-\*.JSE, \*.CSS, \*.WSH, \*.SCT,
-\*.HTA的檔案以自己的病毒碼覆蓋之，並再添加.VBS附檔名。此惡意程式也鎖定\*.MP3與\*.MP2檔案，並將它們隱藏，並複製份相同檔名且添增附檔名.VBS的受感染檔案。
+本蠕蟲將隨之尋找本受感染電腦所有的檔案裝置並將附檔名為\*.JPG, \*.JPEG, \*.VBS, \*.VBE, \*.JS, \*.JSE, \*.CSS, \*.WSH, \*.SCT, \*.HTA的檔案以自己的病毒碼覆蓋之，並再添加.VBS附檔名。此惡意程式也鎖定\*.MP3與\*.MP2檔案，並將它們隱藏，並複製份相同檔名且添增附檔名.VBS的受感染檔案。
 
-此蠕蟲藉由對每一位[Microsoft
-Outlook通訊名單上的使用者](../Page/Microsoft_Outlook.md "wikilink")，寄發含有受感染檔案的病毒信以達散播目的。除此之外它也會下載並執行一個名為WIN-BUGSFIX.EXE的檔案，此檔案將會偷竊使用者鍵入的密碼，並將密碼以電子郵件寄發。
+此蠕蟲藉由對每一位[Microsoft Outlook通訊名單上的使用者](../Page/Microsoft_Outlook.md "wikilink")，寄發含有受感染檔案的病毒信以達散播目的。除此之外它也會下載並執行一個名為WIN-BUGSFIX.EXE的檔案，此檔案將會偷竊使用者鍵入的密碼，並將密碼以電子郵件寄發。
 
 ## 變種
 
@@ -49,15 +39,10 @@ Outlook通訊名單上的使用者](../Page/Microsoft_Outlook.md "wikilink")，�
     郵件訊息：empty
 3.  附件檔名：mothersday.vbs
     信件標題：Mothers Day Order Confirmation
-    郵件訊息：We have proceeded to charge your credit card for the amount of
-    $326.92 for the mothers day diamond special. We have attached a
-    detailed invoice to this email. Please print out the attachment and
-    keep it in a safe place.Thanks Again and Have a Happy Mothers Day\!
-    mothersday@subdimension.com
+    郵件訊息：We have proceeded to charge your credit card for the amount of $326.92 for the mothers day diamond special. We have attached a detailed invoice to this email. Please print out the attachment and keep it in a safe place.Thanks Again and Have a Happy Mothers Day\! mothersday@subdimension.com
 4.  附件檔名：virus_warning.jpg.vbs
     信件標題：Dangerous Virus Warning
-    郵件訊息：There is a dangerous virus circulating. Please click attached
-    picture to view it and learn to avoid it.
+    郵件訊息：There is a dangerous virus circulating. Please click attached picture to view it and learn to avoid it.
 5.  附件檔名：protect.vbs
     信件標題：Virus ALERT\!\!\!
     郵件訊息：a long message regarding VBS.LoveLetter.A
@@ -69,12 +54,10 @@ Outlook通訊名單上的使用者](../Page/Microsoft_Outlook.md "wikilink")，�
     郵件訊息：Here's the easy way to fix the love virus.
 8.  附件檔名：KillEmAll.TXT.VBS
     信件標題：I Cant Believe This\!\!\!
-    郵件訊息：I Cant Believe I have Just received This Hate Email .. Take A
-    Look\!
+    郵件訊息：I Cant Believe I have Just received This Hate Email .. Take A Look\!
 9.  附件檔名：ArabAir.TXT.vbs
     信件標題：Thank You For Flying With Arab Airlines
-    郵件訊息：Please check if the bill is correct, by opening the attached
-    file
+    郵件訊息：Please check if the bill is correct, by opening the attached file
 10. 附件檔名：IMPORTANT.TXT.vbs
     信件標題：Variant Test
     郵件訊息：This is a variant to the vbs virus.
@@ -90,8 +73,7 @@ Outlook通訊名單上的使用者](../Page/Microsoft_Outlook.md "wikilink")，�
 
 ## 法律責任
 
-由於菲律賓在2000年8月21日尚未存在散佈電腦病毒相關法令，因此檢察官放棄對Onel A. de
-Guzman的電腦病毒犯罪偵察，轉而偵察其非法使用信用卡密碼與銀行交易的犯罪。而菲律賓電子商務法（公佈編號8792）於2000年6月14日通過，制訂了電子犯罪的罰則。根據此法，非法散佈電腦病毒或觸犯網路犯罪（包括[盜版與破解](https://zh.wikipedia.org/wiki/盜版 "wikilink")）可處以至少十萬[比索](https://zh.wikipedia.org/wiki/比索 "wikilink")（約2350美元），至多與造成損害相當的罰款，並處以六個月以上三年以下有期徒刑。
+由於菲律賓在2000年8月21日尚未存在散佈電腦病毒相關法令，因此檢察官放棄對Onel A. de Guzman的電腦病毒犯罪偵察，轉而偵察其非法使用信用卡密碼與銀行交易的犯罪。而菲律賓電子商務法（公佈編號8792）於2000年6月14日通過，制訂了電子犯罪的罰則。根據此法，非法散佈電腦病毒或觸犯網路犯罪（包括[盜版與破解](https://zh.wikipedia.org/wiki/盜版 "wikilink")）可處以至少十萬[比索](https://zh.wikipedia.org/wiki/比索 "wikilink")（約2350美元），至多與造成損害相當的罰款，並處以六個月以上三年以下有期徒刑。
 
 ## 參閱
 
@@ -107,9 +89,7 @@ Guzman的電腦病毒犯罪偵察，轉而偵察其非法使用信用卡密碼�
 
   - [描述頁](https://web.archive.org/web/20061208172637/http://www3.ca.com/securityadvisor/virusinfo/virus.aspx?id=9024)
 
-  - [ILOVEYOU作者：「毫不抱歉」](http://www.theregister.co.uk/2005/05/11/love_bug_author/)由
-    [The
-    Register報導](https://zh.wikipedia.org/wiki/The_Register "wikilink")
+  - [ILOVEYOU作者：「毫不抱歉」](http://www.theregister.co.uk/2005/05/11/love_bug_author/)由 [The Register報導](https://zh.wikipedia.org/wiki/The_Register "wikilink")
 
   - ["ILOVEYOU"郵件病毒顛覆企業只重視單機防毒的傳統觀念](https://imperia.trendmicro-europe.com/tw/about/news/pr/article/20070920055735.html)
 

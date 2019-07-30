@@ -1,12 +1,10 @@
-**PONY CANYON STYLE MARUNABI！？**（2005年1月18日前是**PONY CANYON STYLE
-MARUNABI？**）是[株式會社文化放送於](https://zh.wikipedia.org/wiki/株式會社文化放送 "wikilink")2004年9月28日至2007年9月25日所播放的[廣播節目](https://zh.wikipedia.org/wiki/廣播 "wikilink")，全157回。把[波麗佳音所制作的關連](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")[動畫完整地](https://zh.wikipedia.org/wiki/動畫 "wikilink")（）傳送（）出去。主持節目的是[聲優](../Page/聲優.md "wikilink")[能登麻美子和](../Page/能登麻美子.md "wikilink")[川澄綾子](../Page/川澄綾子.md "wikilink")（在「MARUNABI？」時則是能登單獨一人）。在2004年10月至2006年3月，本有[BSQR489播放附靜態映像的版本](https://zh.wikipedia.org/wiki/BSQR489 "wikilink")，但現在BSQR489已成歷史。
+**PONY CANYON STYLE MARUNABI！？**（2005年1月18日前是**PONY CANYON STYLE MARUNABI？**）是[株式會社文化放送於](https://zh.wikipedia.org/wiki/株式會社文化放送 "wikilink")2004年9月28日至2007年9月25日所播放的[廣播節目](https://zh.wikipedia.org/wiki/廣播 "wikilink")，全157回。把[波麗佳音所制作的關連](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")[動畫完整地](https://zh.wikipedia.org/wiki/動畫 "wikilink")（）傳送（）出去。主持節目的是[聲優](../Page/聲優.md "wikilink")[能登麻美子](../Page/能登麻美子.md "wikilink")和[川澄綾子](../Page/川澄綾子.md "wikilink")（在「MARUNABI？」時則是能登單獨一人）。在2004年10月至2006年3月，本有[BSQR489播放附靜態映像的版本](https://zh.wikipedia.org/wiki/BSQR489 "wikilink")，但現在BSQR489已成歷史。
 
 ## 播放時間
 
   - [文化放送](https://zh.wikipedia.org/wiki/株式會社文化放送 "wikilink")：星期二25:00～25:30
   - [超\!A\&G+](https://zh.wikipedia.org/wiki/超!A&G+ "wikilink")（DRP東京9302ch）：星期五17:00～17:30、星期六7:00～7:30（2007年9月）
-  - [UNIQue the
-    RADIO](https://zh.wikipedia.org/wiki/UNIQue_the_RADIO "wikilink")（DRP東京9301ch）：星期五17:00～17:30、星期一10:00～10:30（2007年4月－2007年8月）
+  - [UNIQue the RADIO](https://zh.wikipedia.org/wiki/UNIQue_the_RADIO "wikilink")（DRP東京9301ch）：星期五17:00～17:30、星期一10:00～10:30（2007年4月－2007年8月）
   - [BSQR489](https://zh.wikipedia.org/wiki/BSQR489 "wikilink")：星期五（2004年10月－2006年3月）
 
 ## 簡介
@@ -14,8 +12,7 @@ MARUNABI？**）是[株式會社文化放送於](https://zh.wikipedia.org/wiki/�
   - 2004年9月28日至2005年1月11日是能登單獨一人主持，當時節目名稱是「」（全16回）。而在第一次公開錄音（MARUNABI？最終回）發表節目完結後立刻發表川澄綾子在下一週（2005年1月18日）加入。並在節目名稱上加了個「！」。
       - 而實際上，最初本是計劃一開始就是兩人主持節目的，但為了方便川澄而變成了這樣。
       - 川澄加入後，節目的氣氛明顯產生變化，對比「MARUNABI？」，「MARUNABI！？」變得熱鬧起來。
-  - 節目片頭曲「Scoop\!」和片尾曲「7days
-    after」，在2006年12月20日發售CD前，一直也只在日本的[手提電話的網絡發放](https://zh.wikipedia.org/wiki/手提電話 "wikilink")。
+  - 節目片頭曲「Scoop\!」和片尾曲「7days after」，在2006年12月20日發售CD前，一直也只在日本的[手提電話的網絡發放](https://zh.wikipedia.org/wiki/手提電話 "wikilink")。
   - 另外，兩人在節目中不時會說「」一詞，節目中是解作「快樂」的意思\[1\]。
 
 ## 節目內容
@@ -28,8 +25,7 @@ MARUNABI？**）是[株式會社文化放送於](https://zh.wikipedia.org/wiki/�
 4.  能登或川澄與嘉賓閒談（自遊時間）。
 5.  播放歌曲。
       -
-        多是播放當時波麗佳音所贊助的動畫的關連歌曲，但有時也會播放「Scoop\!」（第40回）或「7days
-        after」（第41回）（多是沒有嘉賓的時候）。而能登曾在第14和15回自選歌曲（的「」和[松任谷由實的](../Page/松任谷由實.md "wikilink")「」）。
+        多是播放當時波麗佳音所贊助的動畫的關連歌曲，但有時也會播放「Scoop\!」（第40回）或「7days after」（第41回）（多是沒有嘉賓的時候）。而能登曾在第14和15回自選歌曲（的「」和[松任谷由實](../Page/松任谷由實.md "wikilink")的「」）。
 6.  挑戰系環節（沒有做不到的事／MARUNABI Quest！）
 7.  新聞系環節（News Flash/News Session/News Station）
 8.  播放著片尾曲「7days after」（MARUNABI！？時），一邊總結及反省。
@@ -39,13 +35,11 @@ MARUNABI？**）是[株式會社文化放送於](https://zh.wikipedia.org/wiki/�
   -
     能登把生活中所遇到感覺到的事情寫成[詩歌並朗讀出來的環節](https://zh.wikipedia.org/wiki/詩歌 "wikilink")。
   -
-    在第4回開始（2004年10月19日），這環節只在有嘉賓時出現。基本上是圍繞一個主題與嘉賓閒談，而且通常不會在錄音室中進行，而在PONY
-    CANYON公司的[大堂](https://zh.wikipedia.org/wiki/大堂 "wikilink")、[屋頂](https://zh.wikipedia.org/wiki/屋頂 "wikilink")、附近的[公園](https://zh.wikipedia.org/wiki/公園 "wikilink")、[神社等地錄音](../Page/神社.md "wikilink")。
+    在第4回開始（2004年10月19日），這環節只在有嘉賓時出現。基本上是圍繞一個主題與嘉賓閒談，而且通常不會在錄音室中進行，而在PONY CANYON公司的[大堂](https://zh.wikipedia.org/wiki/大堂 "wikilink")、[屋頂](https://zh.wikipedia.org/wiki/屋頂 "wikilink")、附近的[公園](https://zh.wikipedia.org/wiki/公園 "wikilink")、[神社](../Page/神社.md "wikilink")等地錄音。
   -
     挑戰聽眾們「試過去做但做不到的事」的環節。失敗的話「小麻美」人偶的衣服就要被脫去一件。
   -
-    配合[拍節機介紹PONY](https://zh.wikipedia.org/wiki/拍節機 "wikilink")
-    CANYON的消息。
+    配合[拍節機介紹PONY](https://zh.wikipedia.org/wiki/拍節機 "wikilink") CANYON的消息。
 
 ### PONY CANYON STYLE MARUNABI！？
 
@@ -56,8 +50,7 @@ MARUNABI？**）是[株式會社文化放送於](https://zh.wikipedia.org/wiki/�
     川澄把聽眾來信的主題作曲並唱出來的環節。
 
   -  /
-    內容和「MARUNABI？」的「麻美子的自遊時間」沒分別，但錄音多回到錄音室進行。「綾子的自遊時間」是川澄綾子和嘉賓閒談，反則是能登，「心之詩」的播放週是「綾子的自遊時間」，「HOT
-    TUNE」的播放週是「麻美子的自遊時間」。
+    內容和「MARUNABI？」的「麻美子的自遊時間」沒分別，但錄音多回到錄音室進行。「綾子的自遊時間」是川澄綾子和嘉賓閒談，反則是能登，「心之詩」的播放週是「綾子的自遊時間」，「HOT TUNE」的播放週是「麻美子的自遊時間」。
 
     通常嘉賓會連續出現兩回，以先川澄後能登的次序負責此環節，但在第139回（2007年5月22日）因能登喉嚨狀態不好而由川澄連續負責兩回\[2\]。
 
@@ -87,13 +80,10 @@ MARUNABI？**）是[株式會社文化放送於](https://zh.wikipedia.org/wiki/�
         挑戰失敗也不會立刻受罰，但其中一位同伴（抽卡決定）會減少HP（即健康值，勇者麻美子的初期數值是100。減少的數值也是由抽卡決定），HP0以下的話，「」會發生大災難，當時才會受罰。
 
   -
-    代替「MARUNABI？」時的「MARUNABI News Flash」。一人操作「」，一人介紹PONY
-    CANYON的消息。此環節於2005年11月15日（第60回）結束。
+    代替「MARUNABI？」時的「MARUNABI News Flash」。一人操作「」，一人介紹PONY CANYON的消息。此環節於2005年11月15日（第60回）結束。
 
   -
-    代替「MARUNABI News Session！」的新環節。以「沒有做不到的事！DUO」時的「小麻美」、「小綾」人偶介紹PONY
-    CANYON的消息。環節的標題是參考[朝日電視台的新聞節目](../Page/朝日電視台.md "wikilink")「[News
-    Station](https://zh.wikipedia.org/wiki/News_Station "wikilink")」。
+    代替「MARUNABI News Session！」的新環節。以「沒有做不到的事！DUO」時的「小麻美」、「小綾」人偶介紹PONY CANYON的消息。環節的標題是參考[朝日電視台](../Page/朝日電視台.md "wikilink")的新聞節目「[News Station](https://zh.wikipedia.org/wiki/News_Station "wikilink")」。
 
 ## 主題曲
 
@@ -1087,7 +1077,6 @@ MARUNABI？**）是[株式會社文化放送於](https://zh.wikipedia.org/wiki/�
 
 [Category:文化放送A\&G_Zone](https://zh.wikipedia.org/wiki/Category:文化放送A&G_Zone "wikilink")
 
-1.  [聲優Animedia](https://zh.wikipedia.org/wiki/聲優Animedia "wikilink")
-    vol.14（2006年12月1日發售）第95頁 -
+1.  [聲優Animedia](https://zh.wikipedia.org/wiki/聲優Animedia "wikilink") vol.14（2006年12月1日發售）第95頁 -
 2.  [MARUNABI！？錄音室寫真2007年5月22日](http://www.joqr.co.jp/ag/maru/studio070522.html)
 3.

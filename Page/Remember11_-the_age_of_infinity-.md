@@ -1,20 +1,12 @@
-《**Remember11 -the age of
-infinity-**》是[KID於](../Page/KID.md "wikilink")2004年3月18日發售的[Playstation
-2遊戲](https://zh.wikipedia.org/wiki/Playstation_2 "wikilink")。\[1\]『infinity』系列的第3部。在2005年5月12日發售以[SuperLite2000作遊戲平臺的版本](https://zh.wikipedia.org/wiki/SuperLite2000 "wikilink")。\[2\][CERO分級為適合](https://zh.wikipedia.org/wiki/CERO "wikilink")15歲以上對象。
+《**Remember11 -the age of infinity-**》是[KID](../Page/KID.md "wikilink")於2004年3月18日發售的[Playstation 2遊戲](https://zh.wikipedia.org/wiki/Playstation_2 "wikilink")。\[1\]『infinity』系列的第3部。在2005年5月12日發售以[SuperLite2000作遊戲平臺的版本](https://zh.wikipedia.org/wiki/SuperLite2000 "wikilink")。\[2\][CERO分級為適合](https://zh.wikipedia.org/wiki/CERO "wikilink")15歲以上對象。
 
-[臺灣](../Page/臺灣.md "wikilink")[光譜資訊於](../Page/光譜資訊.md "wikilink")2007年4月23日公佈「Remember11
--the age of infinity- 」將從
-[PS2](https://zh.wikipedia.org/wiki/PS2 "wikilink") 平台移植至
-[PC](../Page/PC.md "wikilink")，並將遊戲中文化。繁體中文化版本定名為「**時光的記憶
-Remember11**」，於2008年4月23日發行，售價為850元[新台幣](https://zh.wikipedia.org/wiki/新台幣 "wikilink")／港幣180元，附送攻略設定集及同名小說。台灣區首批預購版額外贈送infinity畫冊；攻略設定集的專有名詞解釋最為重要，遊戲是概念的實踐，同名小說為完整的故事，三者合一，就能理解這隻遊戲的全部，為infinity系列最高水準之作。香港區首批預購版則附送遊戲「[吸血姬夕維](../Page/吸血姬夕維.md "wikilink")
-- 千夜抄」。
+[臺灣](../Page/臺灣.md "wikilink")[光譜資訊](../Page/光譜資訊.md "wikilink")於2007年4月23日公佈「Remember11 -the age of infinity- 」將從 [PS2](https://zh.wikipedia.org/wiki/PS2 "wikilink") 平台移植至 [PC](../Page/PC.md "wikilink")，並將遊戲中文化。繁體中文化版本定名為「**時光的記憶 Remember11**」，於2008年4月23日發行，售價為850元[新台幣](https://zh.wikipedia.org/wiki/新台幣 "wikilink")／港幣180元，附送攻略設定集及同名小說。台灣區首批預購版額外贈送infinity畫冊；攻略設定集的專有名詞解釋最為重要，遊戲是概念的實踐，同名小說為完整的故事，三者合一，就能理解這隻遊戲的全部，為infinity系列最高水準之作。香港區首批預購版則附送遊戲「[吸血姬夕維](../Page/吸血姬夕維.md "wikilink") - 千夜抄」。
 
-2008年9月[北京娱乐通在中国大陆地区发行简体中文版](https://zh.wikipedia.org/wiki/北京娱乐通 "wikilink")，定名**Remember
-11 - 无限轮回的时光**。和台版不同，简体中文版通过 PS2 模拟器运行，并加入在繁体中文版中由于版权问题没有包含的全程语音对白。
+2008年9月[北京娱乐通在中国大陆地区发行简体中文版](https://zh.wikipedia.org/wiki/北京娱乐通 "wikilink")，定名**Remember 11 - 无限轮回的时光**。和台版不同，简体中文版通过 PS2 模拟器运行，并加入在繁体中文版中由于版权问题没有包含的全程语音对白。
 
 ## 概要
 
-企圖從無限重複的時間、封閉的空間中逃出的『infinity』系列第三部。雖然前作是[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")，為了跳脫這個類型的限制，本作品被分類為懸疑冒險類遊戲\[3\]，劇中也有許多相較於前兩部遊戲中少見的殘酷、血腥描寫。女性玩家的抗議也是不分類為[美少女遊戲的理由之一](../Page/美少女遊戲.md "wikilink")，比起前作女性玩家的比例確實變高了\[4\]。
+企圖從無限重複的時間、封閉的空間中逃出的『infinity』系列第三部。雖然前作是[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")，為了跳脫這個類型的限制，本作品被分類為懸疑冒險類遊戲\[3\]，劇中也有許多相較於前兩部遊戲中少見的殘酷、血腥描寫。女性玩家的抗議也是不分類為[美少女遊戲](../Page/美少女遊戲.md "wikilink")的理由之一，比起前作女性玩家的比例確實變高了\[4\]。
 
 由於遊戲破關難度高，有被稱為是「前衛的」遊戲，亦有人認為這是個未完成的作品，導致評價下降，相反的也有喜歡解謎的玩家群覺得這樣很好\[5\]，可以說是非常兩極。
 
@@ -82,8 +74,7 @@ Remember11**」，於2008年4月23日發行，售價為850元[新台幣](https:/
 
 <!-- end list -->
 
-  - 內海卡莉（、Utsumi
-    Kali，CV：[久川綾](https://zh.wikipedia.org/wiki/久川綾 "wikilink")）
+  - 內海卡莉（、Utsumi Kali，CV：[久川綾](https://zh.wikipedia.org/wiki/久川綾 "wikilink")）
 
 <!-- end list -->
 
@@ -132,33 +123,18 @@ Remember11**」，於2008年4月23日發行，售價為850元[新台幣](https:/
 
   - [Infinity](https://zh.wikipedia.org/wiki/無限輪迴 "wikilink")
 
-  - [Never7 -the end of
-    infinity](https://zh.wikipedia.org/wiki/無限輪迴 "wikilink")
+  - [Never7 -the end of infinity](https://zh.wikipedia.org/wiki/無限輪迴 "wikilink")
 
-  - [Ever17 -the out of
-    infinity-](https://zh.wikipedia.org/wiki/Ever17_-the_out_of_infinity- "wikilink")
+  - [Ever17 -the out of infinity-](https://zh.wikipedia.org/wiki/Ever17_-the_out_of_infinity- "wikilink")
 
   -
 ## 外部連結
 
   - [時光的記憶](http://www.ttime.com.tw/game/r11/)
-  - [infinity
-    系列首頁](https://web.archive.org/web/20061127034809/http://www.kid-game.co.jp/kid/game/game_galkid/infinity/index/)（infinity/Never7/Ever17/Remember11共通），存於[網際網路檔案館](https://zh.wikipedia.org/wiki/網際網路檔案館 "wikilink")
+  - [infinity 系列首頁](https://web.archive.org/web/20061127034809/http://www.kid-game.co.jp/kid/game/game_galkid/infinity/index/)（infinity/Never7/Ever17/Remember11共通），存於[網際網路檔案館](https://zh.wikipedia.org/wiki/網際網路檔案館 "wikilink")
+  - [Left Site](https://web.archive.org/web/20061230085417/http://www3.ctktv.ne.jp/~yosida-p/) — 左（Remember11 人物設計）的個人網頁，存於[網際網路檔案館](https://zh.wikipedia.org/wiki/網際網路檔案館 "wikilink")
 
-  - [Left
-    Site](https://web.archive.org/web/20061230085417/http://www3.ctktv.ne.jp/~yosida-p/)
-    — 左（Remember11
-    人物設計）的個人網頁，存於[網際網路檔案館](https://zh.wikipedia.org/wiki/網際網路檔案館 "wikilink")
-
-
-[Category:2004年电子游戏](https://zh.wikipedia.org/wiki/Category:2004年电子游戏 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink")
-[Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:KID](https://zh.wikipedia.org/wiki/Category:KID "wikilink")
-[Category:多重人格題材作品](https://zh.wikipedia.org/wiki/Category:多重人格題材作品 "wikilink")
+[Category:2004年电子游戏](https://zh.wikipedia.org/wiki/Category:2004年电子游戏 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink") [Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:KID](https://zh.wikipedia.org/wiki/Category:KID "wikilink") [Category:多重人格題材作品](https://zh.wikipedia.org/wiki/Category:多重人格題材作品 "wikilink")
 
 1.
 

@@ -1,4 +1,4 @@
-也作《醉拳2》，是1994年首映的一部[香港](../Page/香港.md "wikilink")[功夫片](https://zh.wikipedia.org/wiki/功夫片 "wikilink")，由[劉家良執導](https://zh.wikipedia.org/wiki/劉家良 "wikilink")，[成龍主演](../Page/成龍.md "wikilink")，[黃日華](../Page/黃日華.md "wikilink")、[狄龍](https://zh.wikipedia.org/wiki/狄龍 "wikilink")、[梅艷芳](../Page/梅艷芳.md "wikilink")、劉家良等人共同出演。梅艷芳演出鬼馬後母，為電影增添了許多喜劇元素，演出備受讚賞，是電影的一大亮點。片尾的決鬥場面超過十分鐘，成龍與[成家班成員之一的](../Page/成家班.md "wikilink")[盧惠光有一段](../Page/盧惠光.md "wikilink")[對手戲](https://zh.wikipedia.org/wiki/對手戲 "wikilink")。該片於2015年被[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")《[時代](https://zh.wikipedia.org/wiki/時代_\(雜誌\) "wikilink")》周刊評為「百大不朽電影」之一\[1\]。
+也作《醉拳2》，是1994年首映的一部[香港](../Page/香港.md "wikilink")[功夫片](https://zh.wikipedia.org/wiki/功夫片 "wikilink")，由[劉家良執導](https://zh.wikipedia.org/wiki/劉家良 "wikilink")，[成龍](../Page/成龍.md "wikilink")主演，[黃日華](../Page/黃日華.md "wikilink")、[狄龍](https://zh.wikipedia.org/wiki/狄龍 "wikilink")、[梅艷芳](../Page/梅艷芳.md "wikilink")、劉家良等人共同出演。梅艷芳演出鬼馬後母，為電影增添了許多喜劇元素，演出備受讚賞，是電影的一大亮點。片尾的決鬥場面超過十分鐘，成龍與[成家班](../Page/成家班.md "wikilink")成員之一的[盧惠光](../Page/盧惠光.md "wikilink")有一段[對手戲](https://zh.wikipedia.org/wiki/對手戲 "wikilink")。該片於2015年被[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")《[時代](https://zh.wikipedia.org/wiki/時代_\(雜誌\) "wikilink")》周刊評為「百大不朽電影」之一\[1\]。
 
 在大陆地区该电影称为《大醉拳》。
 
@@ -43,16 +43,6 @@
   -
   -
   -
-[Category:香港动作片](https://zh.wikipedia.org/wiki/Category:香港动作片 "wikilink")
-[Category:1990年代动作片](https://zh.wikipedia.org/wiki/Category:1990年代动作片 "wikilink")
-[Category:功夫片](https://zh.wikipedia.org/wiki/Category:功夫片 "wikilink")
-[Category:黃飛鴻電影](https://zh.wikipedia.org/wiki/Category:黃飛鴻電影 "wikilink")
-[Category:香港續集電影](https://zh.wikipedia.org/wiki/Category:香港續集電影 "wikilink")
-[Category:1990年代香港電影作品](https://zh.wikipedia.org/wiki/Category:1990年代香港電影作品 "wikilink")
-[Category:劉家良電影](https://zh.wikipedia.org/wiki/Category:劉家良電影 "wikilink")
-[Category:香港電影金像獎最佳動作設計獲獎電影](https://zh.wikipedia.org/wiki/Category:香港電影金像獎最佳動作設計獲獎電影 "wikilink")
-[Category:金马奖最佳动作设计获奖电影](https://zh.wikipedia.org/wiki/Category:金马奖最佳动作设计获奖电影 "wikilink")
-[Category:胡伟立配乐电影](https://zh.wikipedia.org/wiki/Category:胡伟立配乐电影 "wikilink")
-[Category:嘉禾电影](https://zh.wikipedia.org/wiki/Category:嘉禾电影 "wikilink")
+[Category:香港动作片](https://zh.wikipedia.org/wiki/Category:香港动作片 "wikilink") [Category:1990年代动作片](https://zh.wikipedia.org/wiki/Category:1990年代动作片 "wikilink") [Category:功夫片](https://zh.wikipedia.org/wiki/Category:功夫片 "wikilink") [Category:黃飛鴻電影](https://zh.wikipedia.org/wiki/Category:黃飛鴻電影 "wikilink") [Category:香港續集電影](https://zh.wikipedia.org/wiki/Category:香港續集電影 "wikilink") [Category:1990年代香港電影作品](https://zh.wikipedia.org/wiki/Category:1990年代香港電影作品 "wikilink") [Category:劉家良電影](https://zh.wikipedia.org/wiki/Category:劉家良電影 "wikilink") [Category:香港電影金像獎最佳動作設計獲獎電影](https://zh.wikipedia.org/wiki/Category:香港電影金像獎最佳動作設計獲獎電影 "wikilink") [Category:金马奖最佳动作设计获奖电影](https://zh.wikipedia.org/wiki/Category:金马奖最佳动作设计获奖电影 "wikilink") [Category:胡伟立配乐电影](https://zh.wikipedia.org/wiki/Category:胡伟立配乐电影 "wikilink") [Category:嘉禾电影](https://zh.wikipedia.org/wiki/Category:嘉禾电影 "wikilink")
 
 1.

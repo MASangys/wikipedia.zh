@@ -1,4 +1,4 @@
-《**壹號皇庭IV**》（[英文](https://zh.wikipedia.org/wiki/英語 "wikilink")：），[香港](../Page/香港.md "wikilink")[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[翡翠台時裝法律](../Page/翡翠台.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，於1995年9月11日首播，共26集，監製[鄧特希](../Page/鄧特希.md "wikilink")。星期一至五播出。\[1\]\[2\]本劇前往[新加坡拍攝外景](../Page/新加坡.md "wikilink")。
+《**壹號皇庭IV**》（[英文](https://zh.wikipedia.org/wiki/英語 "wikilink")：），[香港](../Page/香港.md "wikilink")[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")時裝法律[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，於1995年9月11日首播，共26集，監製[鄧特希](../Page/鄧特希.md "wikilink")。星期一至五播出。\[1\]\[2\]本劇前往[新加坡](../Page/新加坡.md "wikilink")拍攝外景。
 
 ## 演員表
 
@@ -137,13 +137,13 @@
 <td><p>Susan<br />
 設計師<br />
 江承宇前女友<br />
-在<a href="../Page/新加坡.md" title="wikilink">新加坡被羅偉林殺死</a></p></td>
+在<a href="../Page/新加坡.md" title="wikilink">新加坡</a>被羅偉林殺死</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/彭子晴.md" title="wikilink">彭子晴</a></p></td>
 <td><p>方家琪</p></td>
 <td><p>Jo／Josephine<br />
-（即第一輯的角色，第一輯由<a href="../Page/鄭秀文.md" title="wikilink">鄭秀文飾演</a>）</p></td>
+（即第一輯的角色，第一輯由<a href="../Page/鄭秀文.md" title="wikilink">鄭秀文</a>飾演）</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/洪朝豐.md" title="wikilink">洪朝豐</a></p></td>
@@ -180,7 +180,7 @@
 <td><p>羅偉林</p></td>
 <td><p>Philip<br />
 湯芷琪前度情夫<br />
-在<a href="../Page/新加坡.md" title="wikilink">新加坡因犯下謀殺罪被判處死刑而被問吊處死</a></p></td>
+在<a href="../Page/新加坡.md" title="wikilink">新加坡</a>因犯下謀殺罪被判處死刑而被問吊處死</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/葉振聲.md" title="wikilink">葉振聲</a></p></td>
@@ -925,24 +925,15 @@
 
 ## 歌曲
 
-  - 主題音樂：《[Your Latest
-    Trick](https://zh.wikipedia.org/wiki/Your_Latest_Trick "wikilink")》
-      - SAXO-PHONE：[Phil
-        Rombaoa](https://zh.wikipedia.org/wiki/Phil_Rombaoa "wikilink")
-      - 作曲：[Mark
-        Knopfler](https://zh.wikipedia.org/wiki/Mark_Knopfler "wikilink")
-        / [羅雁武](https://zh.wikipedia.org/wiki/羅雁武 "wikilink")
+  - 主題音樂：《[Your Latest Trick](https://zh.wikipedia.org/wiki/Your_Latest_Trick "wikilink")》
+      - SAXO-PHONE：[Phil Rombaoa](https://zh.wikipedia.org/wiki/Phil_Rombaoa "wikilink")
+      - 作曲：[Mark Knopfler](https://zh.wikipedia.org/wiki/Mark_Knopfler "wikilink") / [羅雁武](https://zh.wikipedia.org/wiki/羅雁武 "wikilink")
 
 <!-- end list -->
 
-  - 插曲《[Dreaming Of
-    You](https://zh.wikipedia.org/wiki/夢見你_\(音樂專輯\) "wikilink")》
-      - 作曲：[Franne
-        Golde](https://zh.wikipedia.org/wiki/Franne_Golde "wikilink") 及
-        [Tom Snow](https://zh.wikipedia.org/wiki/Tom_Snow "wikilink")
-      - 填詞：[Franne
-        Golde](https://zh.wikipedia.org/wiki/Franne_Golde "wikilink") 及
-        [Tom Snow](https://zh.wikipedia.org/wiki/Tom_Snow "wikilink")
+  - 插曲《[Dreaming Of You](https://zh.wikipedia.org/wiki/夢見你_\(音樂專輯\) "wikilink")》
+      - 作曲：[Franne Golde](https://zh.wikipedia.org/wiki/Franne_Golde "wikilink") 及 [Tom Snow](https://zh.wikipedia.org/wiki/Tom_Snow "wikilink")
+      - 填詞：[Franne Golde](https://zh.wikipedia.org/wiki/Franne_Golde "wikilink") 及 [Tom Snow](https://zh.wikipedia.org/wiki/Tom_Snow "wikilink")
       - 主唱：[Selena](../Page/莎麗娜.md "wikilink")
 
 <!-- end list -->
@@ -961,17 +952,14 @@
 
 ## 外部連結
 
-  - [無綫電視官方網頁 -
-    壹號皇庭IV](https://web.archive.org/web/20060825094120/http://tvcity.tvb.com/drama/just4/index.htm)
-  - [《壹號皇庭IV》 GOTV
-    第1集重溫](https://web.archive.org/web/20140222163157/http://gotv.tvb.com/programme/102401/150402/)
+  - [無綫電視官方網頁 - 壹號皇庭IV](https://web.archive.org/web/20060825094120/http://tvcity.tvb.com/drama/just4/index.htm)
+  - [《壹號皇庭IV》 GOTV 第1集重溫](https://web.archive.org/web/20140222163157/http://gotv.tvb.com/programme/102401/150402/)
 
 ## 參考
 
 ## 電視節目的變遷
 
-[Category:1995年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:1995年無綫電視劇集 "wikilink")
-[Category:無綫電視1990年代背景劇集](https://zh.wikipedia.org/wiki/Category:無綫電視1990年代背景劇集 "wikilink")
+[Category:1995年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:1995年無綫電視劇集 "wikilink") [Category:無綫電視1990年代背景劇集](https://zh.wikipedia.org/wiki/Category:無綫電視1990年代背景劇集 "wikilink")
 
 1.  [【集體回憶】逐個數！《壹號皇庭》造就紅星](http://hk.on.cc/hk/bkn/cnt/entertainment/20171210/bkn-20171210120011076-1210_00862_001.html)
 2.  [蘇永康自爆冇睇過《壹號皇庭IV》要晚晚追返](http://hd.stheadline.com/news/realtime/ent/1055792/)

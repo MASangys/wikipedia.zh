@@ -1,10 +1,6 @@
-[Smartmedia_on_keyboard.jpg](https://zh.wikipedia.org/wiki/File:Smartmedia_on_keyboard.jpg "fig:Smartmedia_on_keyboard.jpg")
-[Smart_Media_X-ray.jpg](https://zh.wikipedia.org/wiki/File:Smart_Media_X-ray.jpg "fig:Smart_Media_X-ray.jpg")
+[Smartmedia_on_keyboard.jpg](https://zh.wikipedia.org/wiki/File:Smartmedia_on_keyboard.jpg "fig:Smartmedia_on_keyboard.jpg") [Smart_Media_X-ray.jpg](https://zh.wikipedia.org/wiki/File:Smart_Media_X-ray.jpg "fig:Smart_Media_X-ray.jpg")
 
-**SmartMedia**，簡稱SM卡，是一种[快闪存储器](https://zh.wikipedia.org/wiki/flash_memory "wikilink")。在1995年夏，由[东芝公司推出](https://zh.wikipedia.org/wiki/东芝公司 "wikilink")，以與[MiniCard](https://zh.wikipedia.org/wiki/MiniCard "wikilink")、[CompactFlash和](../Page/CompactFlash.md "wikilink")[PC
-card等存储卡标准競爭](https://zh.wikipedia.org/wiki/PC_card "wikilink")。最早它被命名为「固态软盘卡」（SSFDC,
-Solid State Floppy Disk
-Card），并被视为[软磁盘的替代者](https://zh.wikipedia.org/wiki/软磁盘 "wikilink")。
+**SmartMedia**，簡稱SM卡，是一种[快闪存储器](https://zh.wikipedia.org/wiki/flash_memory "wikilink")。在1995年夏，由[东芝公司推出](https://zh.wikipedia.org/wiki/东芝公司 "wikilink")，以與[MiniCard](https://zh.wikipedia.org/wiki/MiniCard "wikilink")、[CompactFlash](../Page/CompactFlash.md "wikilink")和[PC card等存储卡标准競爭](https://zh.wikipedia.org/wiki/PC_card "wikilink")。最早它被命名为「固态软盘卡」（SSFDC, Solid State Floppy Disk Card），并被视为[软磁盘的替代者](https://zh.wikipedia.org/wiki/软磁盘 "wikilink")。
 
 ## 概要
 
@@ -18,7 +14,7 @@ SmartMedia卡曾是数码相机普遍支持的存储格式，并在2001年左右
 
 曾经有过传闻会推出256MB容量SM卡，相应的技术标准也已经公布，但大于128MB容量的SmartMedia卡从未问世，部分较老型号的产品如果不升级固件也无法支持32MB以上容量的SM卡。这两个因素加速了SM卡的消亡。
 
-[东芝和](../Page/东芝.md "wikilink")[三星仍然在为现有的设备生产SmartMedia卡](../Page/三星電子.md "wikilink")（最大至128MB），还授权其他的一些存储卡制造商如[Lexar和](https://zh.wikipedia.org/wiki/Lexar "wikilink")[Sandisk生产](https://zh.wikipedia.org/wiki/Sandisk "wikilink")。这一格式相比其他而言最大的好处是通过一个名为[FlashPath的转换器](https://zh.wikipedia.org/wiki/FlashPath "wikilink")，可以在标准的3.5英寸软盘驱动器内使用任何容量的SM卡。
+[东芝](../Page/东芝.md "wikilink")和[三星仍然在为现有的设备生产SmartMedia卡](../Page/三星電子.md "wikilink")（最大至128MB），还授权其他的一些存储卡制造商如[Lexar和](https://zh.wikipedia.org/wiki/Lexar "wikilink")[Sandisk生产](https://zh.wikipedia.org/wiki/Sandisk "wikilink")。这一格式相比其他而言最大的好处是通过一个名为[FlashPath的转换器](https://zh.wikipedia.org/wiki/FlashPath "wikilink")，可以在标准的3.5英寸软盘驱动器内使用任何容量的SM卡。
 
 ## 相容性
 
@@ -37,20 +33,11 @@ SmartMedia卡曾是数码相机普遍支持的存储格式，并在2001年左右
 
 ## 外部链接
 
-  - [SSFDC
-    Forum](https://web.archive.org/web/19990224200615/http://www.ssfdc.or.jp/english/)
-  - [1](http://www.pretec.com/index2/product/Mobile_peripherals/CompactSSFDC.htm)
-    Pretec SmartMedia to Type II CompactFlash adapter
-  - [2](https://web.archive.org/web/20021223023257/http://www.ritek.com.au/products/sm-card.html)
-    Ritek Website SmartMedia product overview, with 256 MB card listed
-    as largest size.
-  - [3](https://web.archive.org/web/20060215144451/http://www.ssfdc.or.jp/english/common/kikanshi.htm)
-    SSFDC News Site with PDF document listing news of the 256 MB
-    SmartMedia card technical specifications being released in
-    SmartMedia NEWS 2002.1 NO.1
-  - [Verbatim page on an oversize xD to SM
-    adapter](http://www.verbatim.com.au/products/productdetail.cfm?ID=SIXPA)
-  - [Olympus Emporium page on xD/SM to PCMCIA
-    adapter](https://web.archive.org/web/20060316031106/https://emporium.olympus.com/innards/empProdDetails.asp?sku=200835-410)
+  - [SSFDC Forum](https://web.archive.org/web/19990224200615/http://www.ssfdc.or.jp/english/)
+  - [1](http://www.pretec.com/index2/product/Mobile_peripherals/CompactSSFDC.htm) Pretec SmartMedia to Type II CompactFlash adapter
+  - [2](https://web.archive.org/web/20021223023257/http://www.ritek.com.au/products/sm-card.html) Ritek Website SmartMedia product overview, with 256 MB card listed as largest size.
+  - [3](https://web.archive.org/web/20060215144451/http://www.ssfdc.or.jp/english/common/kikanshi.htm) SSFDC News Site with PDF document listing news of the 256 MB SmartMedia card technical specifications being released in SmartMedia NEWS 2002.1 NO.1
+  - [Verbatim page on an oversize xD to SM adapter](http://www.verbatim.com.au/products/productdetail.cfm?ID=SIXPA)
+  - [Olympus Emporium page on xD/SM to PCMCIA adapter](https://web.archive.org/web/20060316031106/https://emporium.olympus.com/innards/empProdDetails.asp?sku=200835-410)
 
 [Category:記憶卡](https://zh.wikipedia.org/wiki/Category:記憶卡 "wikilink")

@@ -4,8 +4,7 @@
 
 本作品是接續第二作《[美少女戰士R](../Page/美少女戰士R.md "wikilink")》的續作，是[美少女戰士系列的第三部作品](https://zh.wikipedia.org/wiki/美少女戰士 "wikilink")。
 
-在漫畫版《美少女戰士S》連載期間，1994年11月17日，日本還推出了一本外傳的單行本《竹取公主的戀人》"，是武內直子原創的故事；香港[天下出版於](../Page/天下出版.md "wikilink")1995年1月26日推出這本外傳的中文版單行本。此外傳改編成[動畫劇場版](../Page/劇場版美少女戰士S.md "wikilink")。1994年12月4日劇場版在日本上映。而香港上映時，劇場版片名翻譯為《美少女戰士
-Sailor Moon S 水晶計劃》。
+在漫畫版《美少女戰士S》連載期間，1994年11月17日，日本還推出了一本外傳的單行本《竹取公主的戀人》"，是武內直子原創的故事；香港[天下出版](../Page/天下出版.md "wikilink")於1995年1月26日推出這本外傳的中文版單行本。此外傳改編成[動畫劇場版](../Page/劇場版美少女戰士S.md "wikilink")。1994年12月4日劇場版在日本上映。而香港上映時，劇場版片名翻譯為《美少女戰士 Sailor Moon S 水晶計劃》。
 
 之後武內直子決定把《竹取公主的戀人》這故事收錄入《美少女戰士》單行本第11期當中。在2003年，為配合實寫版電視，重新繪畫封面和部份內容，出版新裝版共十二期，番外篇兩期，而外傳收錄在這兩期番外篇中的其中一期。
 
@@ -121,9 +120,4 @@ Sailor Moon S 水晶計劃》。
   -
   -
   -
-[Category:1994年日本電視動畫](https://zh.wikipedia.org/wiki/Category:1994年日本電視動畫 "wikilink")
-[Category:美少女戰士](https://zh.wikipedia.org/wiki/Category:美少女戰士 "wikilink")
-[Category:朝日電視台動畫](https://zh.wikipedia.org/wiki/Category:朝日電視台動畫 "wikilink")
-[Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
-[Category:華視外購動畫](https://zh.wikipedia.org/wiki/Category:華視外購動畫 "wikilink")
-[Category:漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:漫畫改編動畫 "wikilink")
+[Category:1994年日本電視動畫](https://zh.wikipedia.org/wiki/Category:1994年日本電視動畫 "wikilink") [Category:美少女戰士](https://zh.wikipedia.org/wiki/Category:美少女戰士 "wikilink") [Category:朝日電視台動畫](https://zh.wikipedia.org/wiki/Category:朝日電視台動畫 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink") [Category:華視外購動畫](https://zh.wikipedia.org/wiki/Category:華視外購動畫 "wikilink") [Category:漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:漫畫改編動畫 "wikilink")

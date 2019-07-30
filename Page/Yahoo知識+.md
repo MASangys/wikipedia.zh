@@ -1,18 +1,10 @@
-**-{zh-cn:雅虎知识堂; zh-tw:Yahoo奇摩知識+;
-zh-hk:Yahoo知識+;}-**（-{zh-cn:香港：**Yahoo知识+**、台湾：**Yahoo奇摩知识+**;
-zh-tw:中國大陸：**雅虎知識堂**、香港：**Yahoo知識+**;
-zh-hk:中國大陸：**雅虎知識堂**、台灣：**Yahoo奇摩知識+**;}-），英語系地區稱為**Yahoo\!
-Answers**\[1\]，是一個開放性的知識分享平台，讓使用者可以與網友做問答的互動，藉由眾人的經驗與專長，在問與答的討論之間，幫助使用者找到滿意的答案\[2\]，與類似性質的[Answers](https://zh.wikipedia.org/wiki/Answers "wikilink")、[Google
-Answers](https://zh.wikipedia.org/wiki/Google_Answers "wikilink")（已關閉）、[愛問知識人以及](https://zh.wikipedia.org/wiki/愛問知識人 "wikilink")[百度知道可說是競爭關係](../Page/百度知道.md "wikilink")。使用單純的問答系統的好處是可以不必在不同且以分類為主的[論壇花費時間尋找答案](../Page/网络论坛.md "wikilink")，和在關鍵字搜索中的結果花費時間尋找答案。無論任何行動，都需要至少一個[雅虎帳號](../Page/雅虎.md "wikilink")，並且啟動自己知識檔案。（在香港，要評價要再手機認證）全球[雅虎最早的](../Page/雅虎.md "wikilink")-{zh-cn:知识堂;
-zh-tw:知識+; zh-hk:知識+;}-是由韓國於2003年6月架設。-{zh-cn:雅虎知识堂; zh-tw:Yahoo奇摩知識+;
-zh-hk:Yahoo知識+;}-已經在至少19個地區建立。
+**-{zh-cn:雅虎知识堂; zh-tw:Yahoo奇摩知識+; zh-hk:Yahoo知識+;}-**（-{zh-cn:香港：**Yahoo知识+**、台湾：**Yahoo奇摩知识+**; zh-tw:中國大陸：**雅虎知識堂**、香港：**Yahoo知識+**; zh-hk:中國大陸：**雅虎知識堂**、台灣：**Yahoo奇摩知識+**;}-），英語系地區稱為**Yahoo\! Answers**\[1\]，是一個開放性的知識分享平台，讓使用者可以與網友做問答的互動，藉由眾人的經驗與專長，在問與答的討論之間，幫助使用者找到滿意的答案\[2\]，與類似性質的[Answers](https://zh.wikipedia.org/wiki/Answers "wikilink")、[Google Answers](https://zh.wikipedia.org/wiki/Google_Answers "wikilink")（已關閉）、[愛問知識人以及](https://zh.wikipedia.org/wiki/愛問知識人 "wikilink")[百度知道](../Page/百度知道.md "wikilink")可說是競爭關係。使用單純的問答系統的好處是可以不必在不同且以分類為主的[論壇花費時間尋找答案](../Page/网络论坛.md "wikilink")，和在關鍵字搜索中的結果花費時間尋找答案。無論任何行動，都需要至少一個[雅虎](../Page/雅虎.md "wikilink")帳號，並且啟動自己知識檔案。（在香港，要評價要再手機認證）全球[雅虎](../Page/雅虎.md "wikilink")最早的-{zh-cn:知识堂; zh-tw:知識+; zh-hk:知識+;}-是由韓國於2003年6月架設。-{zh-cn:雅虎知识堂; zh-tw:Yahoo奇摩知識+; zh-hk:Yahoo知識+;}-已經在至少19個地區建立。
 
-知識服務是免費的會員服務。事實上，[雅虎因廣納沒有智慧財產權審核制度的知識問答](../Page/雅虎.md "wikilink")[條目卻促成了知識所屬雅虎搜尋引擎達到率](https://zh.wikipedia.org/wiki/條目 "wikilink")（reach）大增。另外在台灣，知識搜尋網甚至搶佔60%以上市佔率。到2015年2月26日，Yahoo奇摩知識+的解決問題數已超過2,215萬500則。
+知識服務是免費的會員服務。事實上，[雅虎](../Page/雅虎.md "wikilink")因廣納沒有智慧財產權審核制度的知識問答[條目卻促成了知識所屬雅虎搜尋引擎達到率](https://zh.wikipedia.org/wiki/條目 "wikilink")（reach）大增。另外在台灣，知識搜尋網甚至搶佔60%以上市佔率。到2015年2月26日，Yahoo奇摩知識+的解決問題數已超過2,215萬500則。
 
 ## 網站運作
 
-知識+可分為四個部份，包括：「發問」、「回答」、「搜尋」及「發表」（回答可分一般知識、個人煩惱和快問快答而發表也是可分一般知識和一些高級些的知識。）\[3\]
-目前使用知識+是完全免費的，無論在知識+中提問、回答以及進行知識共享都不收任何費用。只要使用者擁有Yahoo\!的個人帳戶，便可使用知識+這項服務。\[4\]
+知識+可分為四個部份，包括：「發問」、「回答」、「搜尋」及「發表」（回答可分一般知識、個人煩惱和快問快答而發表也是可分一般知識和一些高級些的知識。）\[3\] 目前使用知識+是完全免費的，無論在知識+中提問、回答以及進行知識共享都不收任何費用。只要使用者擁有Yahoo\!的個人帳戶，便可使用知識+這項服務。\[4\]
 
 知識+的運作是採取點數問答機制，並以「預付+回饋」制來實行。當用戶發問時，該用戶必須先預付5－20點不等的點數，這些點數將由系統先行扣除保管，等到該發問者選出最佳解答，再將點數轉贈給最佳解答者。預付的點數，因為會贈送給最佳解答者，所以稱為「解答贈點」。較高的解答贈點能吸引較多的網友來回答，用戶通常會自行依照問題的難易度、緊急度來斟酌給點。當選出最佳解答後，如果評價優良，發問者與最佳解答者可以各自獲得10－100點的系統贈點，作為將問題轉換為知識的回饋。\[5\]
 
@@ -107,12 +99,9 @@ zh-hk:Yahoo知識+;}-已經在至少19個地區建立。
 
 ## 合併
 
-2008年12月15日，香港知識+與台灣（奇摩）知識+的戶口進行合併 ，合併後香港及台灣的用戶均只需使用一個Yahoo\!
-ID，便可同時參與香港及台灣知識+，方便各用戶進行知識交流\[10\]。於革新後，台灣知識+的問題及知識也有機會在香港知識+中顯示，相對亦一樣。以香港用戶為例，由香港保留戶口所發問的問題及知識將會優先顯示在香港知識+中。如果用戶是選擇保留香港戶口，該用戶所發問的問題將會在香港知識+中獲得優先顯示，但在台灣知識+中的顯示次序則會較後。而用戶在知識+中搜查資料時亦一樣，由該地區戶口問的問題或知識的顯示次序將會較前，即香港知識+會以香港問題及知識為先，相反亦然。\[11\]
+2008年12月15日，香港知識+與台灣（奇摩）知識+的戶口進行合併 ，合併後香港及台灣的用戶均只需使用一個Yahoo\! ID，便可同時參與香港及台灣知識+，方便各用戶進行知識交流\[10\]。於革新後，台灣知識+的問題及知識也有機會在香港知識+中顯示，相對亦一樣。以香港用戶為例，由香港保留戶口所發問的問題及知識將會優先顯示在香港知識+中。如果用戶是選擇保留香港戶口，該用戶所發問的問題將會在香港知識+中獲得優先顯示，但在台灣知識+中的顯示次序則會較後。而用戶在知識+中搜查資料時亦一樣，由該地區戶口問的問題或知識的顯示次序將會較前，即香港知識+會以香港問題及知識為先，相反亦然。\[11\]
 
-2015年8月18日，香港知識+及台灣（奇摩）知識+將升級成與全球Yahoo Answers
-一致的系統。升級後香港及台灣的用戶均只需使用一個Yahoo\!
-ID，便可同時參與Yahoo Answers ，方便各用戶進行知識交流。
+2015年8月18日，香港知識+及台灣（奇摩）知識+將升級成與全球Yahoo Answers 一致的系統。升級後香港及台灣的用戶均只需使用一個Yahoo\! ID，便可同時參與Yahoo Answers ，方便各用戶進行知識交流。
 
 ## 服務衍生問題
 
@@ -124,8 +113,7 @@ ID，便可同時參與Yahoo Answers ，方便各用戶進行知識交流。
 ## 參見
 
   - [Answers](https://zh.wikipedia.org/wiki/Answers "wikilink")
-  - [Google
-    Answers](https://zh.wikipedia.org/wiki/Google_Answers "wikilink")
+  - [Google Answers](https://zh.wikipedia.org/wiki/Google_Answers "wikilink")
   - [百度知道](../Page/百度知道.md "wikilink")
   - [愛問知識人](https://zh.wikipedia.org/wiki/愛問知識人 "wikilink")
 
@@ -138,25 +126,16 @@ ID，便可同時參與Yahoo Answers ，方便各用戶進行知識交流。
 
   - [台灣CNET：Yahoo將知識服務納入搜尋應用](https://web.archive.org/web/20050729023625/http://taiwan.cnet.com/news/software/0,2000064574,20100474,00.htm)
 
-[Category:雅虎](https://zh.wikipedia.org/wiki/Category:雅虎 "wikilink")
-[Category:Web_2.0](https://zh.wikipedia.org/wiki/Category:Web_2.0 "wikilink")
-[Category:問答網站](https://zh.wikipedia.org/wiki/Category:問答網站 "wikilink")
-[Category:英文問答網站](https://zh.wikipedia.org/wiki/Category:英文問答網站 "wikilink")
+[Category:雅虎](https://zh.wikipedia.org/wiki/Category:雅虎 "wikilink") [Category:Web_2.0](https://zh.wikipedia.org/wiki/Category:Web_2.0 "wikilink") [Category:問答網站](https://zh.wikipedia.org/wiki/Category:問答網站 "wikilink") [Category:英文問答網站](https://zh.wikipedia.org/wiki/Category:英文問答網站 "wikilink")
 
 1.  [Yahoo\! Answers](http://answers.yahoo.com)
-2.  [雅虎香港知識+說明
-    甚麼是知識+？](http://help.cc.hk.yahoo.com/frame_sub_category.html?prodid=8&catyname=%B7s%A4%E2%A4W%B8%F4&id=1830&funclass=%BB%7B%C3%D1%AA%BE%C3%D1%A1%CF)
-3.  [知識+說明
-    如何使用知識+?](http://help.cc.hk.yahoo.com/frame_sub_category.html?prodid=8&catyname=%B7s%A4%E2%A4W%B8%F4&id=1832&funclass=%BB%7B%C3%D1%AA%BE%C3%D1%A1%CF)
+2.  [雅虎香港知識+說明 甚麼是知識+？](http://help.cc.hk.yahoo.com/frame_sub_category.html?prodid=8&catyname=%B7s%A4%E2%A4W%B8%F4&id=1830&funclass=%BB%7B%C3%D1%AA%BE%C3%D1%A1%CF)
+3.  [知識+說明 如何使用知識+?](http://help.cc.hk.yahoo.com/frame_sub_category.html?prodid=8&catyname=%B7s%A4%E2%A4W%B8%F4&id=1832&funclass=%BB%7B%C3%D1%AA%BE%C3%D1%A1%CF)
 4.  [知識+說明](http://help.cc.hk.yahoo.com/frame_sub_category.html?prodid=8&catyname=%B7s%A4%E2%A4W%B8%F4&id=1831&funclass=%BB%7B%C3%D1%AA%BE%C3%D1%A1%CF)
-5.  [知識+說明
-    我想發問](http://help.cc.hk.yahoo.com/frame_sub_category.html?prodid=8&catyname=%AA%BE%C3%D1%B0%DD%B5%AA&id=1405&funclass=%A7%DA%B7Q%B5o%B0%DD)
+5.  [知識+說明 我想發問](http://help.cc.hk.yahoo.com/frame_sub_category.html?prodid=8&catyname=%AA%BE%C3%D1%B0%DD%B5%AA&id=1405&funclass=%A7%DA%B7Q%B5o%B0%DD)
 6.
 7.
-8.  Thu Hiền. [Yahoo\! tăng tốc tại Việt
-    Nam](http://www.thesaigontimes.vn/ArticleDetails.aspx?id=991). Ngày
-    25 tháng 10 năm 2007 \[Ngày 27 tháng 8 năm 2013\].
+8.  Thu Hiền. [Yahoo\! tăng tốc tại Việt Nam](http://www.thesaigontimes.vn/ArticleDetails.aspx?id=991). Ngày 25 tháng 10 năm 2007 \[Ngày 27 tháng 8 năm 2013\].
 9.  [雅虎关闭公告](http://cn.yahoo.com/goodbye/yahoo.html)
-10. [雅虎香港知識+說明
-    什麼是知識+戶口合併?](http://help.cc.hk.yahoo.com/frame_sub_category.html?prodid=8&catyname=%B7s%A4%E2%A4W%B8%F4&funclass=%AA%BE%C3%D1%C0%C9%AE%D7&id=1988)
+10. [雅虎香港知識+說明 什麼是知識+戶口合併?](http://help.cc.hk.yahoo.com/frame_sub_category.html?prodid=8&catyname=%B7s%A4%E2%A4W%B8%F4&funclass=%AA%BE%C3%D1%C0%C9%AE%D7&id=1988)
 11. [香港及台灣知識+問題及知識同樣合併嗎？](http://help.cc.hk.yahoo.com/frame_sub_category.html?prodid=8&catyname=%B7s%A4%E2%A4W%B8%F4&id=1990&funclass=%AA%BE%C3%D1%C0%C9%AE%D7)

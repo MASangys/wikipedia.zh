@@ -1,6 +1,6 @@
 ## 艺术
 
-  - J0　[艺术理论](../Page/艺术.md "wikilink")
+  - J0　[艺术](../Page/艺术.md "wikilink")理论
 
 :\*J01 [艺术美学](https://zh.wikipedia.org/wiki/艺术美学 "wikilink")
 
@@ -40,17 +40,15 @@
 
 ::\*J211 一般技法
 
-::\*J212 [中国画画技法](../Page/中国画.md "wikilink")
+::\*J212 [中国画](../Page/中国画.md "wikilink")画技法
 
-::\*J213 [油画技法](../Page/油画.md "wikilink")
+::\*J213 [油画](../Page/油画.md "wikilink")技法
 
-::\*J214
-[素描](../Page/素描.md "wikilink")、[速写技法](https://zh.wikipedia.org/wiki/速写 "wikilink")
+::\*J214 [素描](../Page/素描.md "wikilink")、[速写技法](https://zh.wikipedia.org/wiki/速写 "wikilink")
 
-::\*J215
-[粉画](https://zh.wikipedia.org/wiki/粉画 "wikilink")、[蜡笔画技法](https://zh.wikipedia.org/wiki/蜡笔画 "wikilink")
+::\*J215 [粉画](https://zh.wikipedia.org/wiki/粉画 "wikilink")、[蜡笔画技法](https://zh.wikipedia.org/wiki/蜡笔画 "wikilink")
 
-::\*J217 [版画技法](../Page/版画.md "wikilink")
+::\*J217 [版画](../Page/版画.md "wikilink")技法
 
 ::\*J218 各种用途画技法
 
@@ -60,17 +58,13 @@
 
 ::\*J222 [国画](https://zh.wikipedia.org/wiki/国画 "wikilink")
 
-::\*J223
-[油画](../Page/油画.md "wikilink")、[漆画](https://zh.wikipedia.org/wiki/漆画 "wikilink")、[涂料画](https://zh.wikipedia.org/wiki/涂料画 "wikilink")
+::\*J223 [油画](../Page/油画.md "wikilink")、[漆画](https://zh.wikipedia.org/wiki/漆画 "wikilink")、[涂料画](https://zh.wikipedia.org/wiki/涂料画 "wikilink")
 
-::\*J224
-[素描](../Page/素描.md "wikilink")、[速写](https://zh.wikipedia.org/wiki/速写 "wikilink")
+::\*J224 [素描](../Page/素描.md "wikilink")、[速写](https://zh.wikipedia.org/wiki/速写 "wikilink")
 
-::\*J225
-[水彩](https://zh.wikipedia.org/wiki/水彩 "wikilink")、[水粉画](https://zh.wikipedia.org/wiki/水粉画 "wikilink")
+::\*J225 [水彩](https://zh.wikipedia.org/wiki/水彩 "wikilink")、[水粉画](https://zh.wikipedia.org/wiki/水粉画 "wikilink")
 
-::\*J226
-[粉画](https://zh.wikipedia.org/wiki/粉画 "wikilink")、[蜡笔画](https://zh.wikipedia.org/wiki/蜡笔画 "wikilink")
+::\*J226 [粉画](https://zh.wikipedia.org/wiki/粉画 "wikilink")、[蜡笔画](https://zh.wikipedia.org/wiki/蜡笔画 "wikilink")
 
 ::\*J227 [版画](../Page/版画.md "wikilink")
 
@@ -84,8 +78,7 @@
 
 :::\*J228.4 [连环画](../Page/连环画.md "wikilink")
 
-:::\*J228.7
-[动画](../Page/动画.md "wikilink")（[卡通](../Page/卡通.md "wikilink")）
+:::\*J228.7 [动画](../Page/动画.md "wikilink")（[卡通](../Page/卡通.md "wikilink")）
 
 :\*J23 各国绘画
 
@@ -93,33 +86,27 @@
 
 ::\*J232 民族技法画
 
-::\*J233
-[油画](../Page/油画.md "wikilink")、[漆画](https://zh.wikipedia.org/wiki/漆画 "wikilink")、[涂料画](https://zh.wikipedia.org/wiki/涂料画 "wikilink")
+::\*J233 [油画](../Page/油画.md "wikilink")、[漆画](https://zh.wikipedia.org/wiki/漆画 "wikilink")、[涂料画](https://zh.wikipedia.org/wiki/涂料画 "wikilink")
 
-::\*J234
-[素描](../Page/素描.md "wikilink")、[速写](https://zh.wikipedia.org/wiki/速写 "wikilink")
+::\*J234 [素描](../Page/素描.md "wikilink")、[速写](https://zh.wikipedia.org/wiki/速写 "wikilink")
 
-::\*J235
-[水彩](https://zh.wikipedia.org/wiki/水彩 "wikilink")、[水粉画](https://zh.wikipedia.org/wiki/水粉画 "wikilink")
+::\*J235 [水彩](https://zh.wikipedia.org/wiki/水彩 "wikilink")、[水粉画](https://zh.wikipedia.org/wiki/水粉画 "wikilink")
 
-::\*J236
-[粉画](https://zh.wikipedia.org/wiki/粉画 "wikilink")、[蜡笔画](https://zh.wikipedia.org/wiki/蜡笔画 "wikilink")
+::\*J236 [粉画](https://zh.wikipedia.org/wiki/粉画 "wikilink")、[蜡笔画](https://zh.wikipedia.org/wiki/蜡笔画 "wikilink")
 
 ::\*J237 [版画](../Page/版画.md "wikilink")
 
 ::\*J238 各种用途画
 
-:::\*J238.1
-[漫画](https://zh.wikipedia.org/wiki/漫画 "wikilink")、[宣传画](https://zh.wikipedia.org/wiki/宣传画 "wikilink")
+:::\*J238.1 [漫画](https://zh.wikipedia.org/wiki/漫画 "wikilink")、[宣传画](https://zh.wikipedia.org/wiki/宣传画 "wikilink")
 
-:::\*J238.7
-[动画](../Page/动画.md "wikilink")（[卡通](../Page/卡通.md "wikilink")）
+:::\*J238.7 [动画](../Page/动画.md "wikilink")（[卡通](../Page/卡通.md "wikilink")）
 
 :\*J29 [书法](../Page/书法.md "wikilink")[篆刻](../Page/篆刻.md "wikilink")
 
 ::\*J292 中国书法、篆刻
 
-::::\*J292.11 [毛笔字](../Page/毛笔.md "wikilink")
+::::\*J292.11 [毛笔](../Page/毛笔.md "wikilink")字
 
 ::::\*J292.12 [硬笔字](https://zh.wikipedia.org/wiki/硬笔字 "wikilink")
 
@@ -145,7 +132,7 @@
 
 :\*J33 各国雕塑
 
-  - J4　[摄影艺术](../Page/摄影.md "wikilink")
+  - J4　[摄影](../Page/摄影.md "wikilink")艺术
 
 :\*J40 摄影艺术理论
 
@@ -165,8 +152,7 @@
 
 ::\*J522 图案集
 
-::\*J523
-[染织](https://zh.wikipedia.org/wiki/染织 "wikilink")、[刺绣](https://zh.wikipedia.org/wiki/刺绣 "wikilink")、[服装](../Page/服装.md "wikilink")
+::\*J523 [染织](https://zh.wikipedia.org/wiki/染织 "wikilink")、[刺绣](https://zh.wikipedia.org/wiki/刺绣 "wikilink")、[服装](../Page/服装.md "wikilink")
 
 ::\*J524 工商工艺美术
 
@@ -174,12 +160,11 @@
 
 ::\*J526 [金属工艺美术](https://zh.wikipedia.org/wiki/金属工艺 "wikilink")
 
-::\*J527
-[陶瓷](https://zh.wikipedia.org/wiki/陶瓷 "wikilink")、[漆器](../Page/漆器.md "wikilink")
+::\*J527 [陶瓷](https://zh.wikipedia.org/wiki/陶瓷 "wikilink")、[漆器](../Page/漆器.md "wikilink")
 
 ::\*J528 民间[工艺美术](https://zh.wikipedia.org/wiki/工艺美术 "wikilink")
 
-:\*J59 [建筑艺术](../Page/建筑.md "wikilink")
+:\*J59 [建筑](../Page/建筑.md "wikilink")艺术
 
   - J6　[音乐](../Page/音乐.md "wikilink")
 
@@ -193,8 +178,7 @@
 
 :::\*J613.1 [视唱练耳](https://zh.wikipedia.org/wiki/视唱 "wikilink")
 
-:::\*J613.2
-[读谱法](https://zh.wikipedia.org/wiki/读谱法 "wikilink")、[记谱法](https://zh.wikipedia.org/wiki/记谱法 "wikilink")
+:::\*J613.2 [读谱法](https://zh.wikipedia.org/wiki/读谱法 "wikilink")、[记谱法](https://zh.wikipedia.org/wiki/记谱法 "wikilink")
 
 ::\*J616 [声乐理论](https://zh.wikipedia.org/wiki/声乐理论 "wikilink")
 
@@ -204,8 +188,7 @@
 
 ::\*J617 [戏剧音乐理论](https://zh.wikipedia.org/wiki/戏剧音乐理论 "wikilink")
 
-:\*J62
-[器乐理论与](https://zh.wikipedia.org/wiki/器乐 "wikilink")[演奏法](https://zh.wikipedia.org/wiki/演奏 "wikilink")
+:\*J62 [器乐理论与](https://zh.wikipedia.org/wiki/器乐 "wikilink")[演奏法](https://zh.wikipedia.org/wiki/演奏 "wikilink")
 
 :\*J63 [民族器乐理论与方法](https://zh.wikipedia.org/wiki/民族器乐 "wikilink")
 
@@ -217,8 +200,7 @@
 
 :::\*J642.1 [群众歌曲](https://zh.wikipedia.org/wiki/群众歌曲 "wikilink")
 
-:::\*J642.2
-[民族歌曲](https://zh.wikipedia.org/wiki/民族歌曲 "wikilink")、[地方歌曲](https://zh.wikipedia.org/wiki/地方歌曲 "wikilink")
+:::\*J642.2 [民族歌曲](https://zh.wikipedia.org/wiki/民族歌曲 "wikilink")、[地方歌曲](https://zh.wikipedia.org/wiki/地方歌曲 "wikilink")
 
 :::\*J642.3 [练声曲](https://zh.wikipedia.org/wiki/练声曲 "wikilink")
 
@@ -266,15 +248,15 @@
 
 :\*J79 舞蹈事业
 
-  - J8　[戏剧艺术](../Page/戏剧.md "wikilink")
+  - J8　[戏剧](../Page/戏剧.md "wikilink")艺术
 
 :\*J82 [中国戏剧](https://zh.wikipedia.org/wiki/中国戏剧 "wikilink")
 
-::\*J821 [京剧艺术](../Page/京剧.md "wikilink")
+::\*J821 [京剧](../Page/京剧.md "wikilink")艺术
 
 :\*J83 各国戏剧艺术
 
-  - J9 [电影](../Page/电影.md "wikilink")、[电视艺术](../Page/电视.md "wikilink")
+  - J9 [电影](../Page/电影.md "wikilink")、[电视](../Page/电视.md "wikilink")艺术
 
 ::\*J905 电影、电视的评论、欣赏
 

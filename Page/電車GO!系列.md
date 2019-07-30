@@ -4,15 +4,11 @@
 
 在本遊戲中，玩家必須以遊戲預先設定的時間表駕駛日本列車，並停在指定的位置。另外，列車的加減速性能、速度限制、天氣變化等都是本遊戲的要素。而且遊戲採用的規則、景觀、運行機制都是從實際情況修改而成。
 
-2004年5月27日發售的[「電車GO！Final」原本定位為本系列於家用平台發售的最後一套作品](../Page/電車GO!Final.md "wikilink")。根據發行商TAITO表示，不再發行的原因為在原有的系統（PlayStation
-2）已很難的加以「進化」。然而隨著[任天堂](../Page/任天堂.md "wikilink")[Wii的發售](../Page/Wii.md "wikilink")，TAITO於2007年3月1日在Wii上發售「[電車GO！
-新幹線EX
-山陽新幹線篇](../Page/電車GO!_新幹線EX_山陽新幹線.md "wikilink")」，新增KID模式（針對孩童玩家開發之簡易模式）以及2006年[山陽新幹線時刻表對應等](../Page/山陽新幹線.md "wikilink")，與先前於[PS2平台上發售之](../Page/PlayStation_2.md "wikilink")「電車GO！山陽新幹線篇」有明顯差異。
+2004年5月27日發售的[「電車GO！Final」原本定位為本系列於家用平台發售的最後一套作品](../Page/電車GO!Final.md "wikilink")。根據發行商TAITO表示，不再發行的原因為在原有的系統（PlayStation 2）已很難的加以「進化」。然而隨著[任天堂](../Page/任天堂.md "wikilink")[Wii](../Page/Wii.md "wikilink")的發售，TAITO於2007年3月1日在Wii上發售「[電車GO！ 新幹線EX 山陽新幹線篇](../Page/電車GO!_新幹線EX_山陽新幹線.md "wikilink")」，新增KID模式（針對孩童玩家開發之簡易模式）以及2006年[山陽新幹線](../Page/山陽新幹線.md "wikilink")時刻表對應等，與先前於[PS2平台上發售之](../Page/PlayStation_2.md "wikilink")「電車GO！山陽新幹線篇」有明顯差異。
 
 而針對日本[行動電話平台及掌機平台的電車GO](https://zh.wikipedia.org/wiki/行動電話 "wikilink")！系列則繼續開發，掌機平台方面，至2006年為止已在[PSP平台上發售四款由](../Page/PlayStation_Portable.md "wikilink")「電車GO！Final」移植而成的「電車GO！Pocket」。
 
-在2010年7月22日，[Square-Enix](https://zh.wikipedia.org/wiki/Square-Enix "wikilink")
-推出[NDS版電車go](https://zh.wikipedia.org/wiki/NDS "wikilink")-，是為紀念山手線命名100週年而推出。
+在2010年7月22日，[Square-Enix](https://zh.wikipedia.org/wiki/Square-Enix "wikilink") 推出[NDS版電車go](https://zh.wikipedia.org/wiki/NDS "wikilink")-，是為紀念山手線命名100週年而推出。
 
 ## 規則
 
@@ -37,16 +33,7 @@
     遊戲分別有6種燈號，詳列如下：
     {| class="wikitable"
 
-|- \! 顏色 \! 名稱 \! 意義 |- |  | <span lang="ja">高速進行</span> |
-<span lang="ja">只在[北越急行](../Page/北越急行.md "wikilink")[北北線](../Page/北北線.md "wikilink")</span>中出現，速度達130km/h或以上（只適用681系、681系2000番台），但是电车GOPRO一代中要求为100KM/H
-|- |  | <span lang="ja">進行</span> | 無速度限制，同時解除上一個閉塞區間的燈號速限 |- |
-（一黃一綠同時亮起） | <span lang="ja">減速</span> |
-在到達該信號前，需將速度限制在65km/h或以下，有可能出現在發車或特定區間，柴聯車則無此信號（部分版本為70km/h或60km/h）
-|- |  | <span lang="ja">注意</span> |
-在到達該信號前，需將速度限制在45km/h或以下，有可能出現在發車或特定區間（部分版本為50km/h、40km/h或15km/h，15km/h只在Professional
-2鶴見線中出現） |- |  | <span lang="ja">警戒</span> |
-在到達該信號前，需將速度限制在25km/h或以下，有可能出現在發車或特定區間，柴聯車則無此信號
-|- |  | <span lang="ja">停止</span> | 在到達該信號前，需要立即停車 |- |}
+|- \! 顏色 \! 名稱 \! 意義 |- |  | <span lang="ja">高速進行</span> | <span lang="ja">只在[北越急行](../Page/北越急行.md "wikilink")[北北線](../Page/北北線.md "wikilink")</span>中出現，速度達130km/h或以上（只適用681系、681系2000番台），但是电车GOPRO一代中要求为100KM/H |- |  | <span lang="ja">進行</span> | 無速度限制，同時解除上一個閉塞區間的燈號速限 |- | （一黃一綠同時亮起） | <span lang="ja">減速</span> | 在到達該信號前，需將速度限制在65km/h或以下，有可能出現在發車或特定區間，柴聯車則無此信號（部分版本為70km/h或60km/h） |- |  | <span lang="ja">注意</span> | 在到達該信號前，需將速度限制在45km/h或以下，有可能出現在發車或特定區間（部分版本為50km/h、40km/h或15km/h，15km/h只在Professional 2鶴見線中出現） |- |  | <span lang="ja">警戒</span> | 在到達該信號前，需將速度限制在25km/h或以下，有可能出現在發車或特定區間，柴聯車則無此信號 |- |  | <span lang="ja">停止</span> | 在到達該信號前，需要立即停車 |- |}
 
   -
     當玩者忽略燈號時，ATS會自動啟動，另減去玩家的秒數。
@@ -113,8 +100,7 @@
 
   -
     當玩者駕駛列車停站或通過車站，若停站／通過時間比時刻表遲之時，則以1:1或1:2（視乎該路線難度）換算減去玩者持有的秒數。(FINAL版會扣減乘客滿意分)
-    雖然早到太多時間不會有懲罰，但是極有可能在兩站之間的閉塞區間被行車處罰（高機率出現減速或徐行的信號），如果玩家選擇的路線是快車的路線，這是非常不利的情形；在Professional
-    2中則會因列車早到而減去玩者秒數。
+    雖然早到太多時間不會有懲罰，但是極有可能在兩站之間的閉塞區間被行車處罰（高機率出現減速或徐行的信號），如果玩家選擇的路線是快車的路線，這是非常不利的情形；在Professional 2中則會因列車早到而減去玩者秒數。
 
 <!-- end list -->
 
@@ -160,8 +146,7 @@
 <!-- end list -->
 
   -
-    當<span lang="ja">知らせ灯</span>未亮起就開動列車時，減去玩者秒數。（Professional
-    2版本中不會有這個功能。）
+    當<span lang="ja">知らせ灯</span>未亮起就開動列車時，減去玩者秒數。（Professional 2版本中不會有這個功能。）
 
 <!-- end list -->
 
@@ -280,10 +265,8 @@
 #### 電車GO\!EX
 
   -
-    此作是[TAKARA在](https://zh.wikipedia.org/wiki/TAKARA "wikilink")1998年10月1日於[世嘉土星上發售的](../Page/世嘉土星.md "wikilink")[PlayStation移植版本](../Page/PlayStation.md "wikilink")。內容基本上與Play
-    Station版本一樣。而此版本增加了於下雪運行的「Snow模式」，於此模式下駕駛的列車的制動性能會大幅度降低；以及各路線的「EX模式」。
-    此外此版本下之[山陰本線增加了Play](../Page/山陰本線.md "wikilink")
-    Station版本沒有的[嵯峨嵐山](https://zh.wikipedia.org/wiki/嵯峨嵐山站 "wikilink")～[丹波口的路段](../Page/丹波口站.md "wikilink")。但是此作由於把多邊形處理度大幅度降低，以及有貼圖錯誤等等問題（例如車頭貼圖會反轉等），故此作普遍評價並不高。
+    此作是[TAKARA在](https://zh.wikipedia.org/wiki/TAKARA "wikilink")1998年10月1日於[世嘉土星](../Page/世嘉土星.md "wikilink")上發售的[PlayStation](../Page/PlayStation.md "wikilink")移植版本。內容基本上與Play Station版本一樣。而此版本增加了於下雪運行的「Snow模式」，於此模式下駕駛的列車的制動性能會大幅度降低；以及各路線的「EX模式」。
+    此外此版本下之[山陰本線](../Page/山陰本線.md "wikilink")增加了Play Station版本沒有的[嵯峨嵐山](https://zh.wikipedia.org/wiki/嵯峨嵐山站 "wikilink")～[丹波口的路段](../Page/丹波口站.md "wikilink")。但是此作由於把多邊形處理度大幅度降低，以及有貼圖錯誤等等問題（例如車頭貼圖會反轉等），故此作普遍評價並不高。
 
 ### 電車GO\!2高速編
 
@@ -348,12 +331,11 @@
           -
             使用車輛：[205系](../Page/日本國鐵205系電力動車組.md "wikilink")
 
-另外，遊戲亦新增2段[485系](../Page/日本國鐵485系電力動車組.md "wikilink")、[485系3000番台於](../Page/日本國鐵485系電力動車組.md "wikilink")[北越急行](../Page/北越急行.md "wikilink")[北北線的時刻](../Page/北北線.md "wikilink")。
+另外，遊戲亦新增2段[485系](../Page/日本國鐵485系電力動車組.md "wikilink")、[485系3000番台於](../Page/日本國鐵485系電力動車組.md "wikilink")[北越急行](../Page/北越急行.md "wikilink")[北北線](../Page/北北線.md "wikilink")的時刻。
 
 #### 電車GO\!64
 
-本作是以電車GO\!2
-3000番台為藍本，於[任天堂64發售之版本](../Page/任天堂64.md "wikilink")。此作的特點是新增一個名為VRS（音聲辨識系統）的系統，在遊玩時的特定地點（例如列車出發時或是看到訊號燈時）發出對應的聲音（「出發進行」、「注意」等）時會有獎勵秒數。路線方面，完成一定程度的路線時刻之後就會出現[東北新幹線的單獨時刻](../Page/東北新幹線.md "wikilink")（[盛岡](https://zh.wikipedia.org/wiki/盛岡站 "wikilink")—[新花-{卷}-](https://zh.wikipedia.org/wiki/新花卷站 "wikilink")，[200系](https://zh.wikipedia.org/wiki/新幹線200系電力動車組 "wikilink")、[E2系](../Page/新幹線E2系電力動車組.md "wikilink")、[E3系](../Page/新幹線E3系電力動車組.md "wikilink")）。此外[北越急行](../Page/北越急行.md "wikilink")[北北線的](../Page/北北線.md "wikilink")「[白鷹](https://zh.wikipedia.org/wiki/白鷹號列車 "wikilink")（）」列車的難易度亦有所更改，及於「[小町](https://zh.wikipedia.org/wiki/小町號列車 "wikilink")（）」[大-{曲}-](https://zh.wikipedia.org/wiki/大曲站 "wikilink")—[盛岡段中](https://zh.wikipedia.org/wiki/盛岡站 "wikilink")[盛岡站達成](https://zh.wikipedia.org/wiki/盛岡站 "wikilink")0米停車時可以遊玩連結列車的獎勵遊戲。
+本作是以電車GO\!2 3000番台為藍本，於[任天堂64](../Page/任天堂64.md "wikilink")發售之版本。此作的特點是新增一個名為VRS（音聲辨識系統）的系統，在遊玩時的特定地點（例如列車出發時或是看到訊號燈時）發出對應的聲音（「出發進行」、「注意」等）時會有獎勵秒數。路線方面，完成一定程度的路線時刻之後就會出現[東北新幹線](../Page/東北新幹線.md "wikilink")的單獨時刻（[盛岡](https://zh.wikipedia.org/wiki/盛岡站 "wikilink")—[新花-{卷}-](https://zh.wikipedia.org/wiki/新花卷站 "wikilink")，[200系](https://zh.wikipedia.org/wiki/新幹線200系電力動車組 "wikilink")、[E2系](../Page/新幹線E2系電力動車組.md "wikilink")、[E3系](../Page/新幹線E3系電力動車組.md "wikilink")）。此外[北越急行](../Page/北越急行.md "wikilink")[北北線](../Page/北北線.md "wikilink")的「[白鷹](https://zh.wikipedia.org/wiki/白鷹號列車 "wikilink")（）」列車的難易度亦有所更改，及於「[小町](https://zh.wikipedia.org/wiki/小町號列車 "wikilink")（）」[大-{曲}-](https://zh.wikipedia.org/wiki/大曲站 "wikilink")—[盛岡段中](https://zh.wikipedia.org/wiki/盛岡站 "wikilink")[盛岡站達成](https://zh.wikipedia.org/wiki/盛岡站 "wikilink")0米停車時可以遊玩連結列車的獎勵遊戲。
 
 ### 電車GO\!3通勤編
 
@@ -409,7 +391,7 @@
             特急：[新名古屋](../Page/名鐵名古屋站.md "wikilink")—[新岐阜](../Page/名鐵岐阜站.md "wikilink")（部分特別車）、1000系・1200系
             急行：[新名古屋](../Page/名鐵名古屋站.md "wikilink")—須口、3700系
             普通：須口—新岐阜、6000系
-            高速：[新名古屋](../Page/名鐵名古屋站.md "wikilink")—新岐阜、3400系（「高速」已在1990年與急行統合，為[名古屋鐵道特有的一種列車種類](../Page/名古屋鐵道.md "wikilink")）
+            高速：[新名古屋](../Page/名鐵名古屋站.md "wikilink")—新岐阜、3400系（「高速」已在1990年與急行統合，為[名古屋鐵道](../Page/名古屋鐵道.md "wikilink")特有的一種列車種類）
 
 <!-- end list -->
 
@@ -459,13 +441,13 @@
         **[北越急行](../Page/北越急行.md "wikilink")[北北線](../Page/北北線.md "wikilink")**——[直江津](../Page/直江津站.md "wikilink")—[十日町](../Page/十日町站.md "wikilink")—[六日町](../Page/六日町站.md "wikilink")—[越後湯澤](https://zh.wikipedia.org/wiki/越後湯澤站 "wikilink")
           -
             使用車輛：[HK100](../Page/北越急行HK100型電力動車組.md "wikilink")、[115系](../Page/日本國鐵115系電力動車組.md "wikilink")、[181系](../Page/日本國鐵181系電力動車組.md "wikilink")「朱鹮12號」、[485系](../Page/日本國鐵485系電力動車組.md "wikilink")「[白鷹號列車](https://zh.wikipedia.org/wiki/白鷹號列車 "wikilink")（はくたか）」、[485系3000番台](../Page/日本國鐵485系電力動車組.md "wikilink")「[白鷹號列車](https://zh.wikipedia.org/wiki/白鷹號列車 "wikilink")」、[583系](https://zh.wikipedia.org/wiki/日本國鐵583系電力動車組 "wikilink")、[681系](https://zh.wikipedia.org/wiki/JR西日本681系電力動車組 "wikilink")「[白鷹號列車](https://zh.wikipedia.org/wiki/白鷹號列車 "wikilink")」、[681系2000番台](https://zh.wikipedia.org/wiki/JR西日本681系電力動車組 "wikilink")「[白鷹號列車](https://zh.wikipedia.org/wiki/白鷹號列車 "wikilink")」
-        **[山手線](../Page/山手線.md "wikilink")**——[澀谷](https://zh.wikipedia.org/wiki/澀谷站 "wikilink")—[東京](https://zh.wikipedia.org/wiki/東京站 "wikilink")—[上野](https://zh.wikipedia.org/wiki/上野站 "wikilink")（[東京](https://zh.wikipedia.org/wiki/東京站 "wikilink")—[上野部分使用](https://zh.wikipedia.org/wiki/上野站 "wikilink")[京濱東北線路軌](../Page/京濱東北線.md "wikilink")）
+        **[山手線](../Page/山手線.md "wikilink")**——[澀谷](https://zh.wikipedia.org/wiki/澀谷站 "wikilink")—[東京](https://zh.wikipedia.org/wiki/東京站 "wikilink")—[上野](https://zh.wikipedia.org/wiki/上野站 "wikilink")（[東京](https://zh.wikipedia.org/wiki/東京站 "wikilink")—[上野部分使用](https://zh.wikipedia.org/wiki/上野站 "wikilink")[京濱東北線](../Page/京濱東北線.md "wikilink")路軌）
           -
             使用車輛：[103系](../Page/日本國鐵103系電力動車組.md "wikilink")、[205系](../Page/日本國鐵205系電力動車組.md "wikilink")
-        **[京濱東北線北行](../Page/京濱東北線.md "wikilink")**——[品川](https://zh.wikipedia.org/wiki/品川站 "wikilink")—[上野](https://zh.wikipedia.org/wiki/上野站 "wikilink")
+        **[京濱東北線](../Page/京濱東北線.md "wikilink")北行**——[品川](https://zh.wikipedia.org/wiki/品川站 "wikilink")—[上野](https://zh.wikipedia.org/wiki/上野站 "wikilink")
           -
             使用車輛：[103系](../Page/日本國鐵103系電力動車組.md "wikilink")、[209系](https://zh.wikipedia.org/wiki/JR東日本209系電力動車組 "wikilink")
-        **[京濱東北線南行](../Page/京濱東北線.md "wikilink")**——[品川](https://zh.wikipedia.org/wiki/品川站 "wikilink")—[橫濱](https://zh.wikipedia.org/wiki/橫濱站 "wikilink")
+        **[京濱東北線](../Page/京濱東北線.md "wikilink")南行**——[品川](https://zh.wikipedia.org/wiki/品川站 "wikilink")—[橫濱](https://zh.wikipedia.org/wiki/橫濱站 "wikilink")
           -
             使用車輛：[103系](../Page/日本國鐵103系電力動車組.md "wikilink")、[209系](https://zh.wikipedia.org/wiki/JR東日本209系電力動車組 "wikilink")
         **[東海道本線](../Page/東海道本線.md "wikilink")**[品川](https://zh.wikipedia.org/wiki/品川站 "wikilink")—[川崎](../Page/川崎站.md "wikilink")—[橫濱](https://zh.wikipedia.org/wiki/橫濱站 "wikilink")
@@ -478,8 +460,7 @@
           -
             使用車輛：
             [201系](../Page/日本國鐵201系電力動車組.md "wikilink")、[205系](../Page/日本國鐵205系電力動車組.md "wikilink")、[207系](../Page/JR西日本207系電力動車組.md "wikilink")、[113系5000番台](../Page/日本國鐵113系電力動車組.md "wikilink")、[117系](https://zh.wikipedia.org/wiki/日本國鐵117系電力動車組 "wikilink")、[221系](https://zh.wikipedia.org/wiki/JR西日本221系電力動車組 "wikilink")、[223系2000番台](../Page/JR西日本223系電力動車組.md "wikilink")、
-            [485系](../Page/日本國鐵485系電力動車組.md "wikilink")「雷鳥」、[485系3000番台](../Page/日本國鐵485系電力動車組.md "wikilink")「雷鳥」、[681系](https://zh.wikipedia.org/wiki/JR西日本681系電力動車組 "wikilink")「Thunder
-            Bird」、[583系](https://zh.wikipedia.org/wiki/日本國鐵583系電力動車組 "wikilink")、
+            [485系](../Page/日本國鐵485系電力動車組.md "wikilink")「雷鳥」、[485系3000番台](../Page/日本國鐵485系電力動車組.md "wikilink")「雷鳥」、[681系](https://zh.wikipedia.org/wiki/JR西日本681系電力動車組 "wikilink")「Thunder Bird」、[583系](https://zh.wikipedia.org/wiki/日本國鐵583系電力動車組 "wikilink")、
             [485系](../Page/日本國鐵485系電力動車組.md "wikilink")「超級雷鳥」、[485系](../Page/日本國鐵485系電力動車組.md "wikilink")「白鳥」、KIHA58系「急行高山」
         **[大阪環狀線](../Page/大阪環狀線.md "wikilink")**——[大阪](https://zh.wikipedia.org/wiki/大阪站 "wikilink")—[天王寺](../Page/天王寺站.md "wikilink")
           -
@@ -519,9 +500,7 @@
 #### 電車GO\! 新幹線EX 山陽新幹線編
 
   -
-    本作以2001年發售之PS2版為藍本，更新為2006年所使用的時刻，列車方面增加了700系B編成以及亮綠（Flash
-    Green）塗裝的0系和100系，而可遊玩路線並沒有作出變更。此外遊戲亦增加了**兒童模式**（キッズモード,Kids
-    Mode），以[Wii遙控器移動作為加減速](../Page/Wii遙控器.md "wikilink")，或找尋於路程中出現的各種圖案。
+    本作以2001年發售之PS2版為藍本，更新為2006年所使用的時刻，列車方面增加了700系B編成以及亮綠（Flash Green）塗裝的0系和100系，而可遊玩路線並沒有作出變更。此外遊戲亦增加了**兒童模式**（キッズモード,Kids Mode），以[Wii遙控器](../Page/Wii遙控器.md "wikilink")移動作為加減速，或找尋於路程中出現的各種圖案。
 
 ### 電車GO\!旅情編
 
@@ -553,7 +532,7 @@
 ### 電車GO\!Professional 2
 
   - **遊戲原名：**電車でGO\!プロフェッショナル2
-  - **收錄路線**（除[鶴見線外](../Page/鶴見線.md "wikilink")，括號內為列車所經過路段的正式的路線名稱）
+  - **收錄路線**（除[鶴見線](../Page/鶴見線.md "wikilink")外，括號內為列車所經過路段的正式的路線名稱）
 
 <!-- end list -->
 
@@ -565,8 +544,7 @@
           -
             使用車輛：
             [211系](../Page/日本國鐵211系電力動車組.md "wikilink")、[215系](../Page/JR東日本215系電力動車組.md "wikilink")、[251系](../Page/JR東日本251系電力動車組.md "wikilink")、[E217系](../Page/JR東日本E217系電力動車組.md "wikilink")、[E231系列車](../Page/JR東日本E231系電力動車組.md "wikilink")
-        **[鶴見線](../Page/鶴見線.md "wikilink")**——
-        [鶴見](../Page/鶴見站.md "wikilink")—[扇町](https://zh.wikipedia.org/wiki/扇町站 "wikilink")（本線）、[鶴見](../Page/鶴見站.md "wikilink")—[大川](https://zh.wikipedia.org/wiki/大川站 "wikilink")（大川支線）、[鶴見](../Page/鶴見站.md "wikilink")—[海芝浦](../Page/海芝浦站.md "wikilink")（海芝浦支線）
+        **[鶴見線](../Page/鶴見線.md "wikilink")**—— [鶴見](../Page/鶴見站.md "wikilink")—[扇町](https://zh.wikipedia.org/wiki/扇町站 "wikilink")（本線）、[鶴見](../Page/鶴見站.md "wikilink")—[大川](https://zh.wikipedia.org/wiki/大川站 "wikilink")（大川支線）、[鶴見](../Page/鶴見站.md "wikilink")—[海芝浦](../Page/海芝浦站.md "wikilink")（海芝浦支線）
           -
             使用車輛：
             103系／kumoha12形（クモハ12形）
@@ -598,12 +576,10 @@
   -
 
       -
-        **[山手線](../Page/山手線.md "wikilink")**——
-        內／外圈全線（[大崎](../Page/大崎站.md "wikilink")—[上野](https://zh.wikipedia.org/wiki/上野站 "wikilink")—[新宿](https://zh.wikipedia.org/wiki/新宿站 "wikilink")—[大崎](../Page/大崎站.md "wikilink")）
+        **[山手線](../Page/山手線.md "wikilink")**—— 內／外圈全線（[大崎](../Page/大崎站.md "wikilink")—[上野](https://zh.wikipedia.org/wiki/上野站 "wikilink")—[新宿](https://zh.wikipedia.org/wiki/新宿站 "wikilink")—[大崎](../Page/大崎站.md "wikilink")）
           -
             使用車輛：[103系](../Page/日本國鐵103系電力動車組.md "wikilink")、[205系](../Page/日本國鐵205系電力動車組.md "wikilink")、[E231系](../Page/JR東日本E231系電力動車組.md "wikilink")
-        **[中央線](https://zh.wikipedia.org/wiki/中央線 "wikilink")**（中央快速線）——
-        [東京](https://zh.wikipedia.org/wiki/東京站 "wikilink")—[三鷹](../Page/三鷹站.md "wikilink")—[八王子](../Page/八王子站.md "wikilink")—[高尾上下行](https://zh.wikipedia.org/wiki/高尾站_\(東京都\) "wikilink")
+        **[中央線](https://zh.wikipedia.org/wiki/中央線 "wikilink")**（中央快速線）—— [東京](https://zh.wikipedia.org/wiki/東京站 "wikilink")—[三鷹](../Page/三鷹站.md "wikilink")—[八王子](../Page/八王子站.md "wikilink")—[高尾上下行](https://zh.wikipedia.org/wiki/高尾站_\(東京都\) "wikilink")
           -
             使用車輛：[115系](../Page/日本國鐵115系電力動車組.md "wikilink")、[183系](https://zh.wikipedia.org/wiki/日本國鐵183系電力動車組 "wikilink")、[201系](../Page/日本國鐵201系電力動車組.md "wikilink")、[253系](../Page/JR東日本253系電力動車組.md "wikilink")、[E257系](https://zh.wikipedia.org/wiki/JR東日本E257系電力動車組 "wikilink")、[E351系](../Page/JR東日本E351系電力動車組.md "wikilink")
         **[大阪環狀線](../Page/大阪環狀線.md "wikilink")**——內／外圈全線（[大阪](https://zh.wikipedia.org/wiki/大阪站 "wikilink")—[天王寺](../Page/天王寺站.md "wikilink")—[京橋](https://zh.wikipedia.org/wiki/京橋站_\(大阪府\) "wikilink")—[大阪](https://zh.wikipedia.org/wiki/大阪站 "wikilink")）
@@ -616,6 +592,4 @@
             [485系](../Page/日本國鐵485系電力動車組.md "wikilink")、[583系](https://zh.wikipedia.org/wiki/日本國鐵583系電力動車組 "wikilink")、[681系](https://zh.wikipedia.org/wiki/JR西日本681系電力動車組 "wikilink")、[683系](../Page/JR西日本683系電力動車組.md "wikilink")、EF66、
             EF81、DC181系
 
-[Category:1996年首发的电子游戏系列](https://zh.wikipedia.org/wiki/Category:1996年首发的电子游戏系列 "wikilink")
-[Category:電子遊戲系列](https://zh.wikipedia.org/wiki/Category:電子遊戲系列 "wikilink")
-[Category:电车GO\!系列](https://zh.wikipedia.org/wiki/Category:电车GO!系列 "wikilink")
+[Category:1996年首发的电子游戏系列](https://zh.wikipedia.org/wiki/Category:1996年首发的电子游戏系列 "wikilink") [Category:電子遊戲系列](https://zh.wikipedia.org/wiki/Category:電子遊戲系列 "wikilink") [Category:电车GO\!系列](https://zh.wikipedia.org/wiki/Category:电车GO!系列 "wikilink")

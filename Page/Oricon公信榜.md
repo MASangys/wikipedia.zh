@@ -1,12 +1,10 @@
-**Oricon公信榜**（，）為[日本](../Page/日本.md "wikilink")[Oricon公司所統計並發表的](../Page/Oricon.md "wikilink")[音樂等](https://zh.wikipedia.org/wiki/音樂 "wikilink")[出版品的](https://zh.wikipedia.org/wiki/出版品 "wikilink")，以日本國內為調查範圍。目前調查對象從最初的[唱片擴及音樂](https://zh.wikipedia.org/wiki/唱片 "wikilink")、[影視](https://zh.wikipedia.org/wiki/影視 "wikilink")、[書籍等](https://zh.wikipedia.org/wiki/書籍 "wikilink")3大領域，其中又以每週發布的[單曲及](https://zh.wikipedia.org/wiki/單曲 "wikilink")[專輯銷售排行榜最具指標意義](../Page/音樂專輯.md "wikilink")。
+**Oricon公信榜**（，）為[日本](../Page/日本.md "wikilink")[Oricon](../Page/Oricon.md "wikilink")公司所統計並發表的[音樂等](https://zh.wikipedia.org/wiki/音樂 "wikilink")[出版品的](https://zh.wikipedia.org/wiki/出版品 "wikilink")，以日本國內為調查範圍。目前調查對象從最初的[唱片擴及音樂](https://zh.wikipedia.org/wiki/唱片 "wikilink")、[影視](https://zh.wikipedia.org/wiki/影視 "wikilink")、[書籍等](https://zh.wikipedia.org/wiki/書籍 "wikilink")3大領域，其中又以每週發布的[單曲及](https://zh.wikipedia.org/wiki/單曲 "wikilink")[專輯銷售排行榜最具指標意義](../Page/音樂專輯.md "wikilink")。
 
 ## 概要
 
 ### 歷史
 
-在1967年11月2日開始（有說是1967年5月左右）試驗性地製作了首次的銷量榜，正式的開始日期是從1968年1月4日開始。當時獲得首次[單曲銷量榜第一位的是黑澤明與Los](https://zh.wikipedia.org/wiki/單曲 "wikilink")
-Primos的《Love You 東京》（不過在此之前卻由Jackie吉川與Blue
-Comets的『北國的二人』取得了試驗性銷量榜的第一位，稱為「夢幻第1位」），而獲得首次LP唱片銷量榜第一位的，是[森進一的](../Page/森進一.md "wikilink")《花與淚／森進一的所有》。
+在1967年11月2日開始（有說是1967年5月左右）試驗性地製作了首次的銷量榜，正式的開始日期是從1968年1月4日開始。當時獲得首次[單曲銷量榜第一位的是黑澤明與Los](https://zh.wikipedia.org/wiki/單曲 "wikilink") Primos的《Love You 東京》（不過在此之前卻由Jackie吉川與Blue Comets的『北國的二人』取得了試驗性銷量榜的第一位，稱為「夢幻第1位」），而獲得首次LP唱片銷量榜第一位的，是[森進一](../Page/森進一.md "wikilink")的《花與淚／森進一的所有》。
 
 ### 統計方法
 
@@ -18,24 +16,19 @@ Oricon銷量榜原則上從每星期的星期一開始的7天之間，計算[CD]
 
 ### POS系統
 
-計算方法是從一些預先指定的唱片店接收銷售數據。\[1\]最初是依靠[傳真機等接收](https://zh.wikipedia.org/wiki/傳真機 "wikilink")，但後期隨著唱片店[POS系統的普及](https://zh.wikipedia.org/wiki/POS系統 "wikilink")，近期均依靠POS的銷售數據來計算每天銷量榜。而納入計算範圍的指定唱片店方面，雖然近幾年諸如[Amazon.co.jp的線上商店也被納入成為計算範圍](../Page/亚马逊日本.md "wikilink")，但亦曾有些樂曲因為透過某些特別途徑銷售而沒被計算進Oricon銷量榜之中。舉例說，[NEWS的出道單曲](../Page/NEWS.md "wikilink")《NEWS
-NIPPON》只限定在[7-11發售](https://zh.wikipedia.org/wiki/7-11 "wikilink")，所以沒有被計算在Oricon銷量榜之內。而在DVD方面，具代表性的例子是「星期三怎麼好DVD全集」。
-雖然亦曾有透過特別途徑銷售的樂曲佔據過Oricon銷量榜上游位置，但若果只在[Lawson便利店或線上商店等等途徑銷售的話](https://zh.wikipedia.org/wiki/Lawson "wikilink")，縱然是以這種方式銷售的DVD取得了每週銷量第一位也好，也沒有被Oricon計算在內。（例如當年的「夢幻第1位」就是一個例子。）
+計算方法是從一些預先指定的唱片店接收銷售數據。\[1\]最初是依靠[傳真機等接收](https://zh.wikipedia.org/wiki/傳真機 "wikilink")，但後期隨著唱片店[POS系統的普及](https://zh.wikipedia.org/wiki/POS系統 "wikilink")，近期均依靠POS的銷售數據來計算每天銷量榜。而納入計算範圍的指定唱片店方面，雖然近幾年諸如[Amazon.co.jp的線上商店也被納入成為計算範圍](../Page/亚马逊日本.md "wikilink")，但亦曾有些樂曲因為透過某些特別途徑銷售而沒被計算進Oricon銷量榜之中。舉例說，[NEWS](../Page/NEWS.md "wikilink")的出道單曲《NEWS NIPPON》只限定在[7-11發售](https://zh.wikipedia.org/wiki/7-11 "wikilink")，所以沒有被計算在Oricon銷量榜之內。而在DVD方面，具代表性的例子是「星期三怎麼好DVD全集」。 雖然亦曾有透過特別途徑銷售的樂曲佔據過Oricon銷量榜上游位置，但若果只在[Lawson便利店或線上商店等等途徑銷售的話](https://zh.wikipedia.org/wiki/Lawson "wikilink")，縱然是以這種方式銷售的DVD取得了每週銷量第一位也好，也沒有被Oricon計算在內。（例如當年的「夢幻第1位」就是一個例子。）
 
 ### 累積銷售數字
 
-其實Oricon銷量榜上公佈的銷量是累積的銷售數字，是單純地把銷量榜內（CD的話以前只計算樂曲在佔據每週銷量榜首100位時的銷量，但從2002年12月開始，單曲會計算每週銷量榜內首200位，而專輯則達首300位）的銷量數字加起來計算，並不包含掉出銷量榜計算範圍以外的數字。（但業內其他公司如Planet・Sound
-Scan等只是一星期內有一張唱片賣出也計算在內）另外，由於沒有把在影視店銷售等特別途徑的銷量計算在內，所以其實公佈的銷量會比實際銷量較少。特別是諸如[演歌](../Page/演歌.md "wikilink")、[動畫原聲唱片等](https://zh.wikipedia.org/wiki/動畫 "wikilink")，由於這類型的唱片多於不被納入Oricon銷量榜計算範圍內的唱片店裡銷售，所以計算出來的銷量遠遠比實際的少。
+其實Oricon銷量榜上公佈的銷量是累積的銷售數字，是單純地把銷量榜內（CD的話以前只計算樂曲在佔據每週銷量榜首100位時的銷量，但從2002年12月開始，單曲會計算每週銷量榜內首200位，而專輯則達首300位）的銷量數字加起來計算，並不包含掉出銷量榜計算範圍以外的數字。（但業內其他公司如Planet・Sound Scan等只是一星期內有一張唱片賣出也計算在內）另外，由於沒有把在影視店銷售等特別途徑的銷量計算在內，所以其實公佈的銷量會比實際銷量較少。特別是諸如[演歌](../Page/演歌.md "wikilink")、[動畫原聲唱片等](https://zh.wikipedia.org/wiki/動畫 "wikilink")，由於這類型的唱片多於不被納入Oricon銷量榜計算範圍內的唱片店裡銷售，所以計算出來的銷量遠遠比實際的少。
 
 ### 影響度
 
-在日本音樂銷量榜業界之中，雖然還有Planet、Sound
-Scan等由其他公司公佈的銷量榜，但Oricon銷量榜的影響力最大。就如[美國的流行音樂排行榜](https://zh.wikipedia.org/wiki/美國 "wikilink")[Billboard一樣](https://zh.wikipedia.org/wiki/Billboard "wikilink")，多被音樂界視為評價指標。
+在日本音樂銷量榜業界之中，雖然還有Planet、Sound Scan等由其他公司公佈的銷量榜，但Oricon銷量榜的影響力最大。就如[美國的流行音樂排行榜](https://zh.wikipedia.org/wiki/美國 "wikilink")[Billboard一樣](https://zh.wikipedia.org/wiki/Billboard "wikilink")，多被音樂界視為評價指標。
 
-但由於大家都傾向重視新上榜，即發售首週的銷量多於總銷量，所以[唱片公司都會希望盡量在首週爭取最多銷量](../Page/唱片公司.md "wikilink")。正因如此，基本上榜上的樂曲經常會有急劇下降的傾向（近年這種傾向已經非常顯著）。反之跌勢較小，或者首週排位較低但第二週打後才打上前列位置的歌手傾向會獲得樂迷支持，由此可見他們的實力。另外，有傳對於一部份人氣下沉的歌手，唱片公司會特別派員到計算銷量的唱片店裡特意大量購入唱片，藉此提高銷量，控制銷量榜。
+但由於大家都傾向重視新上榜，即發售首週的銷量多於總銷量，所以[唱片公司](../Page/唱片公司.md "wikilink")都會希望盡量在首週爭取最多銷量。正因如此，基本上榜上的樂曲經常會有急劇下降的傾向（近年這種傾向已經非常顯著）。反之跌勢較小，或者首週排位較低但第二週打後才打上前列位置的歌手傾向會獲得樂迷支持，由此可見他們的實力。另外，有傳對於一部份人氣下沉的歌手，唱片公司會特別派員到計算銷量的唱片店裡特意大量購入唱片，藉此提高銷量，控制銷量榜。
 
-另外，有說是來自音樂業界的壓力「一定要讓[KinKi
-Kids](https://zh.wikipedia.org/wiki/KinKi_Kids "wikilink")（包括成員的各自個人活動）及[B'z取得第](../Page/B'z.md "wikilink")1位」，但其實事實上這兩隊組合根本從沒有作過正面交鋒。
+另外，有說是來自音樂業界的壓力「一定要讓[KinKi Kids](https://zh.wikipedia.org/wiki/KinKi_Kids "wikilink")（包括成員的各自個人活動）及[B'z](../Page/B'z.md "wikilink")取得第1位」，但其實事實上這兩隊組合根本從沒有作過正面交鋒。
 
 ### 計算方式的變化
 
@@ -60,17 +53,11 @@ Kids](https://zh.wikipedia.org/wiki/KinKi_Kids "wikilink")（包括成員的各�
 
 初動是指自發售日起的1週間，或者截至發售日起至最初的Oricon結果發表的星期一之間所統計的銷量。第1週的銷量稱之為「初動銷量」（）。即使是在大眾傳播等媒介中，亦會使用「初動銷量○萬張紀錄」（）的詞彙來進行宣傳。
 
-### [安利美特效果](../Page/安利美特.md "wikilink")
+### [安利美特](../Page/安利美特.md "wikilink")效果
 
-以發售**動畫CD/DVD**為主的商家連鎖店，如（[安利美特](../Page/安利美特.md "wikilink")）、（[虎之穴](https://zh.wikipedia.org/wiki/虎之穴 "wikilink")）、
-([GAMERS](https://zh.wikipedia.org/wiki/GAMERS "wikilink"))、
-([Sofmap](https://zh.wikipedia.org/wiki/Sofmap "wikilink"))、
-(YAMADA)、[石丸電器](https://zh.wikipedia.org/wiki/石丸電器 "wikilink")、
-(Laox)
-等等，公信榜並不會每天記錄他們的銷售量，而是**每週記錄一次**。因此，某些動畫或是[聲優的專輯CD雖然在日排行的成績日趨退步](../Page/聲優.md "wikilink")，等到週排行的時候又會再次擠進前幾名。由於[安利美特是日本國內規模最大](../Page/安利美特.md "wikilink")、據點最多的動漫產品連鎖店，所以大家普遍稱呼這種獨特現象為**安利美特效果**（）。較知名的例子有：
+以發售**動畫CD/DVD**為主的商家連鎖店，如（[安利美特](../Page/安利美特.md "wikilink")）、（[虎之穴](https://zh.wikipedia.org/wiki/虎之穴 "wikilink")）、 ([GAMERS](https://zh.wikipedia.org/wiki/GAMERS "wikilink"))、 ([Sofmap](https://zh.wikipedia.org/wiki/Sofmap "wikilink"))、 (YAMADA)、[石丸電器](https://zh.wikipedia.org/wiki/石丸電器 "wikilink")、 (Laox) 等等，公信榜並不會每天記錄他們的銷售量，而是**每週記錄一次**。因此，某些動畫或是[聲優](../Page/聲優.md "wikilink")的專輯CD雖然在日排行的成績日趨退步，等到週排行的時候又會再次擠進前幾名。由於[安利美特](../Page/安利美特.md "wikilink")是日本國內規模最大、據點最多的動漫產品連鎖店，所以大家普遍稱呼這種獨特現象為**安利美特效果**（）。較知名的例子有：
 
-  - 2006年5月，[Aice5](../Page/Aice5.md "wikilink")《Believe My
-    Love／友情物語》首賣，歷經
+  - 2006年5月，[Aice5](../Page/Aice5.md "wikilink")《Believe My Love／友情物語》首賣，歷經
 
 <!-- end list -->
 
@@ -88,8 +75,7 @@ Kids](https://zh.wikipedia.org/wiki/KinKi_Kids "wikilink")（包括成員的各�
 
 <!-- end list -->
 
-  - 2007年4月，[水樹奈奈](../Page/水樹奈奈.md "wikilink")《SECRET
-    AMBITION》首賣當天即獲好評，在
+  - 2007年4月，[水樹奈奈](../Page/水樹奈奈.md "wikilink")《SECRET AMBITION》首賣當天即獲好評，在
 
 <!-- end list -->
 
@@ -747,12 +733,10 @@ Kids](https://zh.wikipedia.org/wiki/KinKi_Kids "wikilink")（包括成員的各�
   - 最高初動銷售量且獲得冠軍單曲：[再見自由式](../Page/再見自由式.md "wikilink")（初動銷量：176.3萬張、歌手：[AKB48](../Page/AKB48.md "wikilink")）
   - 外國人歌手獲得銷量最多的單曲：Beautiful Sunday（銷量：192.4萬張、歌手：Daniel Boone）
   - 史上銷量最多的出道單曲：女人之路（銷量：325萬張、歌手：宮史郎）
-  - 女性個人歌手一週最高銷量：[Addicted To
-    You](../Page/Addicted_To_You.md "wikilink")（銷量：106.7萬張・1999年11月10日止、歌手：[宇多田光](../Page/宇多田光.md "wikilink")）
+  - 女性個人歌手一週最高銷量：[Addicted To You](../Page/Addicted_To_You.md "wikilink")（銷量：106.7萬張・1999年11月10日止、歌手：[宇多田光](../Page/宇多田光.md "wikilink")）
   - 男性個人歌手一週最高銷量：桜坂（銷量：75.1萬張・2000年4月26日止、歌手：[福山雅治](../Page/福山雅治.md "wikilink")）
   - 女性組合歌手一週最高銷量：[再見自由式](../Page/再見自由式.md "wikilink")（銷量：176.3萬張、歌手：[AKB48](../Page/AKB48.md "wikilink")）
-  - 外國歌手一週最高銷量：THE
-    ONES（銷量：104万枚・1998年1月18日止、歌手：[瑪麗亞·凱莉](../Page/瑪麗亞·凱莉.md "wikilink")）
+  - 外國歌手一週最高銷量：THE ONES（銷量：104万枚・1998年1月18日止、歌手：[瑪麗亞·凱莉](../Page/瑪麗亞·凱莉.md "wikilink")）
   - 初動史上最低但之後卻獲得冠軍：[化為千風](https://zh.wikipedia.org/wiki/化為千風 "wikilink")（2006年6月5日止初動銷量為513張→之後在2007年1月22日止，週間銷量29094張獲得冠軍歌手：[秋川雅史](../Page/秋川雅史.md "wikilink")）
   - 获得周榜第一的最低销量单曲：トイレの神様（銷量：11327張・2011年1月10日时第1位，歌手：[植村花菜](../Page/植村花菜.md "wikilink")）
   - 进入周榜前十的最低銷量單曲：（銷量：3346張・2011年4月11日時第10位，歌手：[山本讓二](../Page/山本讓二.md "wikilink")）
@@ -764,12 +748,9 @@ Kids](https://zh.wikipedia.org/wiki/KinKi_Kids "wikilink")（包括成員的各�
   - 進入銷量前100名，且並未掉出，經歷最久時間獲得冠軍單曲：：地上の星/ヘッドライト・テールライト（總計130週・2000年7月31日〜2003年1月20日止、歌手：[中島美雪](../Page/中島美雪.md "wikilink")）
   - 發售之後距離最久獲得冠軍單曲（包含再發售）：勝手にシンドバッド（1306週・1978年6月25日〜2003年7月7日、歌手：南方之星）
   - 同一曲已獲冠軍之後，再度獲得冠軍距離時間最久：[世界上唯一的花](../Page/世界上唯一的花.md "wikilink")（39週・2003年4月14日～2004年1月12日止、歌手：SMAP）
-      - 包含再發售的話（原版至混音版）：[CAN YOU
-        CELEBRATE?](../Page/CAN_YOU_CELEBRATE?.md "wikilink")（43週・1997年3月10日〜1998年1月5日、歌手：安室奈美惠）
-  - 再度獲得冠軍單曲時間相隔最久：小田和正「Oh\!
-    Yeah\!／突如其來的愛情故事」(第6張單曲)～「こころ」(第25張單曲)（16年個月・1991年4月17日～2007年8月27日）
-  - 再度进入周榜前十时间相隔最久：北島三郎（仁義、周第10位） - （夫婦一生、周第10位）（40年5か月・1969年7月21日 -
-    2010年1月11日）
+      - 包含再發售的話（原版至混音版）：[CAN YOU CELEBRATE?](../Page/CAN_YOU_CELEBRATE?.md "wikilink")（43週・1997年3月10日〜1998年1月5日、歌手：安室奈美惠）
+  - 再度獲得冠軍單曲時間相隔最久：小田和正「Oh\! Yeah\!／突如其來的愛情故事」(第6張單曲)～「こころ」(第25張單曲)（16年個月・1991年4月17日～2007年8月27日）
+  - 再度进入周榜前十时间相隔最久：北島三郎（仁義、周第10位） - （夫婦一生、周第10位）（40年5か月・1969年7月21日 - 2010年1月11日）
   - 總計進入前十名最久單曲：北の宿から（35週・1976年5月24日〜1976年9月20日、1976年10月11日〜1977年1月31日、歌手：都はるみ）
   - 連續進入前十名最久單曲：おもいで酒（32週・1979年6月18日～1980年1月21日、歌手：[小林幸子](../Page/小林幸子.md "wikilink")）
   - 冠軍獲得週數總計最多：歌手：[B'z](../Page/B'z.md "wikilink")（64週）
@@ -778,25 +759,19 @@ Kids](https://zh.wikipedia.org/wiki/KinKi_Kids "wikilink")（包括成員的各�
       - 個人歌手則為[山口百恵](https://zh.wikipedia.org/wiki/山口百恵 "wikilink")（239週）
   - 進入銷量前100名時間最久：地上の星（202週、歌手：[中島美雪](../Page/中島美雪.md "wikilink")）
   - 進入銷量前200名時間最久：世界に一つだけの花（233週、歌手：[SMAP](../Page/SMAP.md "wikilink")）
-  - 发售后达到百万销量花费最长时间的作品：WINTER
-    SONG（花费4年11个月・1994年1月7日发售・1998年12月14日付达成、歌手：[DREAMS
-    COME TRUE](../Page/DREAMS_COME_TRUE.md "wikilink")）
+  - 发售后达到百万销量花费最长时间的作品：WINTER SONG（花费4年11个月・1994年1月7日发售・1998年12月14日付达成、歌手：[DREAMS COME TRUE](../Page/DREAMS_COME_TRUE.md "wikilink")）
   - 出道之後獲得冠軍單曲相距時間最久：（歌手：[石原裕次郎](../Page/石原裕次郎.md "wikilink")・31年整）・北の旅人（1987年8月24日）
-  - 死後經過最久獲得冠軍：（[尾崎豐](../Page/尾崎豐.md "wikilink")・1年9個月）・OH MY LITTLE
-    GIRL（1994年2月7日）
-  - 连续获得周榜前100名以内排名年数最长的作品：クリスマス・イブ（连续31年都获得过周榜前100名以内的成绩（1986年 -
-    2016年）、歌手：[山下達郎](../Page/山下達郎.md "wikilink")）
+  - 死後經過最久獲得冠軍：（[尾崎豐](../Page/尾崎豐.md "wikilink")・1年9個月）・OH MY LITTLE GIRL（1994年2月7日）
+  - 连续获得周榜前100名以内排名年数最长的作品：クリスマス・イブ（连续31年都获得过周榜前100名以内的成绩（1986年 - 2016年）、歌手：[山下達郎](../Page/山下達郎.md "wikilink")）
   - 卡拉OK排行榜連續首位最高記錄的歌曲：歌手：[AKB48](../Page/AKB48.md "wikilink")・[無限重播](../Page/無限重播.md "wikilink")（48週）
   - 卡拉OK排行榜連續首位最高記錄的歌手：[AKB48](../Page/AKB48.md "wikilink")（54週）
 
 #### 年齡紀錄
 
   - 最年輕獲得冠軍單曲：歌手（皆川理・6歳9個月）・歌曲名：黒ネコのタンゴ（1969年11月10日）
-      - 團體組合的女性成員：フィンガー5（成員之中的[玉元妙子](https://zh.wikipedia.org/wiki/玉元妙子 "wikilink")・11歳5個月）・歌曲名：個人授業
-        （1973年12月3日）
+      - 團體組合的女性成員：フィンガー5（成員之中的[玉元妙子](https://zh.wikipedia.org/wiki/玉元妙子 "wikilink")・11歳5個月）・歌曲名：個人授業 （1973年12月3日）
       - 女性個人歌手：（[後藤真希](../Page/後藤真希.md "wikilink")・15歳6個月）・[愛のバカやろう](https://zh.wikipedia.org/wiki/愛のバカやろう "wikilink")（2001年4月9日）
-  - 最年長歌手獲得冠軍單曲(團體組合中的成員也計算在內)：Re:Japan成員中的花紀京・64歳3個月大・歌曲名：明日があるさ
-    （2001年4月16日）
+  - 最年長歌手獲得冠軍單曲(團體組合中的成員也計算在內)：Re:Japan成員中的花紀京・64歳3個月大・歌曲名：明日があるさ （2001年4月16日）
       - 女性個人歌手：（[秋元順子](../Page/秋元順子.md "wikilink")・61歳7個月）・歌曲名：[愛的原貌](https://zh.wikipedia.org/wiki/愛的原貌 "wikilink")（2009年1月24日）
       - 男性個人歌手（[小田和正](../Page/小田和正.md "wikilink")・59歳11個月）・歌曲名：こころ（2007年8月27日）
 
@@ -812,11 +787,10 @@ Kids](https://zh.wikipedia.org/wiki/KinKi_Kids "wikilink")（包括成員的各�
   - 年度排行前十名擁有作品最多：[嵐](../Page/嵐.md "wikilink")（6作品）（2010年）（第三、四、六、七、九、十）
   - 連續皆有作品進入年度前十名最长年数：[嵐](../Page/嵐.md "wikilink")（2007年～2016年，共10年）
   - 外國人歌手獲得最多冠軍單曲：[東方神起](../Page/東方神起.md "wikilink")（12作）
-      - 個人歌手則為：[歐陽菲菲](../Page/歐陽菲菲.md "wikilink")
-        、[金贤重](../Page/金賢重.md "wikilink")（2作）
+      - 個人歌手則為：[歐陽菲菲](../Page/歐陽菲菲.md "wikilink") 、[金贤重](../Page/金賢重.md "wikilink")（2作）
   - 連續單曲初發售即空降冠軍單曲數最多：B'z（48作・2015年6月22日）
   - 自出道以來，連續獲得冠軍單曲：近畿小子（37作・2016年11月14日）
-      - 個人歌手的話：[清水健太郎](https://zh.wikipedia.org/wiki/清水健太郎 "wikilink")、[藥師丸博子和](../Page/藥師丸博子.md "wikilink")[澤尻英龍華](../Page/澤尻英龍華.md "wikilink")\[6\]（2作）
+      - 個人歌手的話：[清水健太郎](https://zh.wikipedia.org/wiki/清水健太郎 "wikilink")、[藥師丸博子](../Page/藥師丸博子.md "wikilink")和[澤尻英龍華](../Page/澤尻英龍華.md "wikilink")\[6\]（2作）
       - 已出道但以個人名義發售單曲的話：[山下智久](../Page/山下智久.md "wikilink")、[渡邊美奈代和](https://zh.wikipedia.org/wiki/渡邊美奈代 "wikilink")[堂本剛](../Page/堂本剛.md "wikilink")（5作）
   - 出道曲以來連續獲得單曲進入前十名：[早安少女組。](../Page/早安少女組。.md "wikilink")（63作品・2017年3月8日）
   - 歷代最多百萬單曲的藝人：[AKB48](../Page/AKB48.md "wikilink")（28作品）
@@ -843,11 +817,8 @@ Kids](https://zh.wikipedia.org/wiki/KinKi_Kids "wikilink")（包括成員的各�
   - 公信榜統計以來，第一個初發售即空降冠軍：游吧！鯛魚燒君（1976年1月12日、歌手：子門真人）
   - 第一個為平成年間出生獲得冠軍單曲：高橋瞳（1989年（平成元年）4月8日出生）・歌曲名：僕たちの行方 （2005年4月24日）
   - 第一個純音樂單曲獲得冠軍：ウラBTTB（1999年6月28日、演奏者：[坂本龍一](../Page/坂本龍一.md "wikilink")）
-  - 第一個獲得冠軍單曲的聲優：[水樹奈奈](../Page/水樹奈奈.md "wikilink")（[PHANTOM
-    MINDS](../Page/PHANTOM_MINDS.md "wikilink")・2010年1月25日）
-  - 第一個以動畫角色名義發售單曲獲得冠軍之歌手：[放課後ティータイム](https://zh.wikipedia.org/wiki/放課後ティータイム "wikilink")
-    歌曲名：[GO\! GO\!
-    MANIAC](../Page/GO!_GO!_MANIAC.md "wikilink")・2010年5月10日
+  - 第一個獲得冠軍單曲的聲優：[水樹奈奈](../Page/水樹奈奈.md "wikilink")（[PHANTOM MINDS](../Page/PHANTOM_MINDS.md "wikilink")・2010年1月25日）
+  - 第一個以動畫角色名義發售單曲獲得冠軍之歌手：[放課後ティータイム](https://zh.wikipedia.org/wiki/放課後ティータイム "wikilink") 歌曲名：[GO\! GO\! MANIAC](../Page/GO!_GO!_MANIAC.md "wikilink")・2010年5月10日
       - 同時「[Listen\!\!](../Page/Listen!!.md "wikilink")」此曲也獲得了第二名，成為了第一個以動畫角色名義發售單曲並同時獲得週間第一名、第二名之歌手。
 
 ### 專輯部分的各種排行
@@ -995,28 +966,20 @@ Kids](https://zh.wikipedia.org/wiki/KinKi_Kids "wikilink")（包括成員的各�
 
 #### 銷量紀錄
 
-  - 史上銷售量最高專輯：[First
-    Love](https://zh.wikipedia.org/wiki/First_Love "wikilink")（總銷量：765萬張、歌手：[宇多田光](../Page/宇多田光.md "wikilink")）
-  - 外國人歌手獲得銷量最多的專輯：The Ones（銷量：280.9萬張、歌手：[Mariah
-    Carey](https://zh.wikipedia.org/wiki/Mariah_Carey "wikilink")）
-  - 初動銷量最高專輯：[Distance](../Page/Distance.md "wikilink")（首週銷量：300萬張・2001年3月28日
-    歌手：宇多田光）
-  - 初動銷量最高出道專輯：[Delicious
-    Way](https://zh.wikipedia.org/wiki/Delicious_Way "wikilink")（首週銷量：220萬張・2000年7月10日、歌手：[倉木麻衣](../Page/倉木麻衣.md "wikilink")）
+  - 史上銷售量最高專輯：[First Love](https://zh.wikipedia.org/wiki/First_Love "wikilink")（總銷量：765萬張、歌手：[宇多田光](../Page/宇多田光.md "wikilink")）
+  - 外國人歌手獲得銷量最多的專輯：The Ones（銷量：280.9萬張、歌手：[Mariah Carey](https://zh.wikipedia.org/wiki/Mariah_Carey "wikilink")）
+  - 初動銷量最高專輯：[Distance](../Page/Distance.md "wikilink")（首週銷量：300萬張・2001年3月28日 歌手：宇多田光）
+  - 初動銷量最高出道專輯：[Delicious Way](https://zh.wikipedia.org/wiki/Delicious_Way "wikilink")（首週銷量：220萬張・2000年7月10日、歌手：[倉木麻衣](../Page/倉木麻衣.md "wikilink")）
   - 單日銷售量最高的專輯：[Distance](../Page/Distance.md "wikilink")（首日銷量：163萬張・2001年3月28日、歌手：[宇多田光](../Page/宇多田光.md "wikilink")）
   - 發行次週單週銷量最高的專輯:[globe](https://zh.wikipedia.org/wiki/globe "wikilink")(次週銷量:105萬張、歌手:[globe](https://zh.wikipedia.org/wiki/globe "wikilink"))
   - 女性組合初動銷量最高專輯：[未來軌跡](../Page/未來軌跡.md "wikilink")（首週銷量：96.2萬張、歌手：[AKB48](../Page/AKB48.md "wikilink")）
-  - 外國人歌手獲得首一週內銷量最高專輯：The Ones（銷量：104.6萬張、歌手：[Mariah
-    Carey](https://zh.wikipedia.org/wiki/Mariah_Carey "wikilink")）
-  - 專輯連續破百萬紀錄：[ZARD](../Page/ZARD.md "wikilink")（「HOLD ME」～「ZARD BEST
-    〜Request Memorial〜」、連續9張）
-  - 進入銷量前十名之初動最低銷量：：こういう自分がS・U・K・I（初動銷量：7920張・
-    1988年10月10日，排名第10、歌手：明石家秋刀魚）
+  - 外國人歌手獲得首一週內銷量最高專輯：The Ones（銷量：104.6萬張、歌手：[Mariah Carey](https://zh.wikipedia.org/wiki/Mariah_Carey "wikilink")）
+  - 專輯連續破百萬紀錄：[ZARD](../Page/ZARD.md "wikilink")（「HOLD ME」～「ZARD BEST 〜Request Memorial〜」、連續9張）
+  - 進入銷量前十名之初動最低銷量：：こういう自分がS・U・K・I（初動銷量：7920張・ 1988年10月10日，排名第10、歌手：明石家秋刀魚）
 
 #### 時間紀錄
 
-  - 總計同一專輯獲得冠軍週數最多：氷の世界
-    （總計獲得週數：35週、歌手：[井上陽水](../Page/井上陽水.md "wikilink")）
+  - 總計同一專輯獲得冠軍週數最多：氷の世界 （總計獲得週數：35週、歌手：[井上陽水](../Page/井上陽水.md "wikilink")）
 
 <!-- end list -->
 
@@ -1029,22 +992,12 @@ Kids](https://zh.wikipedia.org/wiki/KinKi_Kids "wikilink")（包括成員的各�
   - 連續同一翻唱專輯獲得冠軍週數最多：VOCALIST4（總計獲得週數：4週、歌手：[德永英明](../Page/德永英明.md "wikilink")）
   - 連續五個年代皆獲得冠軍專輯女歌手：[松任谷由實](../Page/松任谷由實.md "wikilink")（1970年代、1980年代、1990年代、2000年代、2010年代）
       - 1970年代：14番目の月（1976年）、 YUMING BRAND（1976年）
-      - 1980年代：昨晩お会いしましょう（1981年）、PEARL
-        PIERCE（1982年）、REINCARNATION（1983年）、VOYAGER（1983年）、NO
-        SIDE（1984年）、DA・DI・DA（1985年）、ALARM à la mode（1986年）、YUMING
-        VISUALIVE DA・DI・DA（1986年）、ダイアモンドダストが消えぬまに（1987年）、Delight Slight
-        Light KISS（1988年）、LOVE WARS（1989年）
-      - 1990年代：天国のドア（1990年）、DAWN PURPLE（1991年）、TEARS AND
-        REASONS（1992年）、U-miz（1993年）、THE DANCING
-        SUN（1994年）、KATHMANDU（1995年）、Cowgirl Dreamin'（1996年）、Neue
-        Musik YUMI MATSUTOYA COMPLETE BEST VOL.1（1998年）
+      - 1980年代：昨晩お会いしましょう（1981年）、PEARL PIERCE（1982年）、REINCARNATION（1983年）、VOYAGER（1983年）、NO SIDE（1984年）、DA・DI・DA（1985年）、ALARM à la mode（1986年）、YUMING VISUALIVE DA・DI・DA（1986年）、ダイアモンドダストが消えぬまに（1987年）、Delight Slight Light KISS（1988年）、LOVE WARS（1989年）
+      - 1990年代：天国のドア（1990年）、DAWN PURPLE（1991年）、TEARS AND REASONS（1992年）、U-miz（1993年）、THE DANCING SUN（1994年）、KATHMANDU（1995年）、Cowgirl Dreamin'（1996年）、Neue Musik YUMI MATSUTOYA COMPLETE BEST VOL.1（1998年）
       - 2000年代：sweet,bitter sweet〜YUMING BALLAD BEST（2001年）
       - 2010年代：日本の恋と、ユーミンと。（2012年）、宇宙図書館（2016年）
   - 連續四個世代皆獲得百萬銷量歌手:[安室奈美惠](../Page/安室奈美惠.md "wikilink")
-      - 10代:[DANCE TRACKS
-        VOL.1](../Page/DANCE_TRACKS_VOL.1.md "wikilink")、[SWEET 19
-        BLUES](../Page/SWEET_19_BLUES.md "wikilink")、[Concentration
-        20](../Page/Concentration_20.md "wikilink")
+      - 10代:[DANCE TRACKS VOL.1](../Page/DANCE_TRACKS_VOL.1.md "wikilink")、[SWEET 19 BLUES](../Page/SWEET_19_BLUES.md "wikilink")、[Concentration 20](../Page/Concentration_20.md "wikilink")
       - 20代:[181920](../Page/181920.md "wikilink")
       - 30代:[BEST FICTION](../Page/BEST_FICTION.md "wikilink")
       - 40代:[Finally](../Page/Finally.md "wikilink")
@@ -1082,17 +1035,14 @@ Kids](https://zh.wikipedia.org/wiki/KinKi_Kids "wikilink")（包括成員的各�
 
 **銷量紀錄**
 
-  - 史上銷量最高DVD:namie amuro Final Tour 2018
-    〜Finally〜(總銷量:94.0萬張、歌手:[安室奈美惠](../Page/安室奈美惠.md "wikilink"))
+  - 史上銷量最高DVD:namie amuro Final Tour 2018 〜Finally〜(總銷量:94.0萬張、歌手:[安室奈美惠](../Page/安室奈美惠.md "wikilink"))
   - 海外歌手銷量最高DVD:[布加勒斯特現場：危險之旅巡迴演唱會](https://zh.wikipedia.org/wiki/布加勒斯特現場：危險之旅巡迴演唱會 "wikilink")(總銷量:30.2萬張、歌手:[麥可·傑克森](https://zh.wikipedia.org/wiki/麥可·傑克森 "wikilink"))
-  - 初動銷量最高DVD:ARASHI 10-11 TOUR "Scene"〜君と僕の見ている風景〜
-    STADIUM(初動量:61.8萬張、歌手:[嵐](../Page/嵐.md "wikilink"))
+  - 初動銷量最高DVD:ARASHI 10-11 TOUR "Scene"〜君と僕の見ている風景〜 STADIUM(初動量:61.8萬張、歌手:[嵐](../Page/嵐.md "wikilink"))
 
 **年齡紀錄**
 
   - 獲得首位最年長歌手:浜田省吾(59歲9個月)、ON THE ROAD 2011 "The Last Weekend"
-  - 獲得首位最年輕歌手:[Sexy Zone](../Page/Sexy_Zone.md "wikilink")(平均15.2歲)、Sexy
-    Zone アリーナコンサート2012
+  - 獲得首位最年輕歌手:[Sexy Zone](../Page/Sexy_Zone.md "wikilink")(平均15.2歲)、Sexy Zone アリーナコンサート2012
 
 **其他紀錄**
 
@@ -1166,8 +1116,7 @@ Kids](https://zh.wikipedia.org/wiki/KinKi_Kids "wikilink")（包括成員的各�
   - [Oricon](../Page/Oricon.md "wikilink")
   - [The Best Ten](../Page/The_Best_Ten.md "wikilink")
   - [RIAJ付費音樂下載榜](../Page/RIAJ付費音樂下載榜.md "wikilink")
-  - [Billboard
-    JAPAN](https://zh.wikipedia.org/wiki/Billboard_JAPAN "wikilink")
+  - [Billboard JAPAN](https://zh.wikipedia.org/wiki/Billboard_JAPAN "wikilink")
 
 ## 備註
 
@@ -1175,11 +1124,9 @@ Kids](https://zh.wikipedia.org/wiki/KinKi_Kids "wikilink")（包括成員的各�
 
   - [Oricon公信榜](http://www.oricon.co.jp/rank/)
 
-[Category:Oricon](https://zh.wikipedia.org/wiki/Category:Oricon "wikilink")
-[Category:日本音樂排行榜](https://zh.wikipedia.org/wiki/Category:日本音樂排行榜 "wikilink")
+[Category:Oricon](https://zh.wikipedia.org/wiki/Category:Oricon "wikilink") [Category:日本音樂排行榜](https://zh.wikipedia.org/wiki/Category:日本音樂排行榜 "wikilink")
 
-1.  [オリコンの音楽 (シングル、アルバム)・映像（DVD、Blu-ray
-    Disc）ソフトランキングについて](http://www.oricon.co.jp/rank/index2.html)
+1.  [オリコンの音楽 (シングル、アルバム)・映像（DVD、Blu-ray Disc）ソフトランキングについて](http://www.oricon.co.jp/rank/index2.html)
 2.  1992年、2008年發售的再發盤也算在內
 3.  2005年發售的12cm版本也算在內
 4.  1999年發售之CD版也計算在內

@@ -1,17 +1,12 @@
-**NBA进步最快球员奖**是[国家篮球协会自](https://zh.wikipedia.org/wiki/国家篮球协会 "wikilink")[1985-86
-NBA赛季起开始颁发的一个年度奖项](https://zh.wikipedia.org/wiki/1985-86_NBA赛季 "wikilink")，奖项在相应常规赛季中进步最多的球员。获奖者由[美国和](../Page/美国.md "wikilink")[加拿大的体育专栏作家投票选出](../Page/加拿大.md "wikilink")，每人可以投出一票，其中包含自己认为进步最多、第二多和第三多球员的姓名。球员每得到一张进步最多的选票支持则可得5分，第二多得3分，第三多得1分，总计得分最高者即可获奖（与实际所得进步最多选票的数量没有直接关系）\[1\]。
+**NBA进步最快球员奖**是[国家篮球协会自](https://zh.wikipedia.org/wiki/国家篮球协会 "wikilink")[1985-86 NBA赛季起开始颁发的一个年度奖项](https://zh.wikipedia.org/wiki/1985-86_NBA赛季 "wikilink")，奖项在相应常规赛季中进步最多的球员。获奖者由[美国](../Page/美国.md "wikilink")和[加拿大](../Page/加拿大.md "wikilink")的体育专栏作家投票选出，每人可以投出一票，其中包含自己认为进步最多、第二多和第三多球员的姓名。球员每得到一张进步最多的选票支持则可得5分，第二多得3分，第三多得1分，总计得分最高者即可获奖（与实际所得进步最多选票的数量没有直接关系）\[1\]。
 
-自成立以来，该奖项一共有30位得主，並沒有連續得獎者，最新的获奖者是[帕斯卡·席亞康](../Page/帕斯卡·席亞康.md "wikilink")。[伯利斯·迪奧是歷屆獲獎者中第一位以球員身份得過NBA總冠軍](https://zh.wikipedia.org/wiki/伯利斯·迪奧 "wikilink")。卓吉奇、[希达耶特·特克鲁](https://zh.wikipedia.org/wiki/希达耶特·特克鲁 "wikilink")、、[乔治·穆雷桑和](https://zh.wikipedia.org/wiki/乔治·穆雷桑 "wikilink")[伯利斯·迪奥是仅有的五位不是在美国出生的获奖者](../Page/伯利斯·迪奥.md "wikilink")，并且除了塞卡利以外，另外四位运动员也完全不是在美国接受籃球教育，塞卡利曾是[雪城大学男篮隊的成员](https://zh.wikipedia.org/wiki/雪城大学 "wikilink")。
+自成立以来，该奖项一共有30位得主，並沒有連續得獎者，最新的获奖者是[帕斯卡·席亞康](../Page/帕斯卡·席亞康.md "wikilink")。[伯利斯·迪奧是歷屆獲獎者中第一位以球員身份得過NBA總冠軍](https://zh.wikipedia.org/wiki/伯利斯·迪奧 "wikilink")。卓吉奇、[希达耶特·特克鲁](https://zh.wikipedia.org/wiki/希达耶特·特克鲁 "wikilink")、、[乔治·穆雷桑和](https://zh.wikipedia.org/wiki/乔治·穆雷桑 "wikilink")[伯利斯·迪奥](../Page/伯利斯·迪奥.md "wikilink")是仅有的五位不是在美国出生的获奖者，并且除了塞卡利以外，另外四位运动员也完全不是在美国接受籃球教育，塞卡利曾是[雪城大学男篮隊的成员](https://zh.wikipedia.org/wiki/雪城大学 "wikilink")。
 
-[阿尔文·罗伯逊](https://zh.wikipedia.org/wiki/阿尔文·罗伯逊 "wikilink")、[达纳·巴罗斯](../Page/达纳·巴罗斯.md "wikilink")、[崔西·麥葛雷迪](https://zh.wikipedia.org/wiki/崔西·麥葛雷迪 "wikilink")、[杰梅因·奥尼尔](../Page/杰梅因·奥尼尔.md "wikilink")、[丹尼·格兰杰](../Page/丹尼·格兰杰.md "wikilink")、[凱文·洛夫](https://zh.wikipedia.org/wiki/凱文·洛夫 "wikilink")、[保罗·乔治](../Page/保罗·乔治.md "wikilink")、[揚尼斯·安戴托昆波和](https://zh.wikipedia.org/wiki/揚尼斯·安戴托昆波 "wikilink")[维克多·歐拉迪波都曾在获奖的同一赛季入选](https://zh.wikipedia.org/wiki/维克多·歐拉迪波 "wikilink")[NBA全明星赛](https://zh.wikipedia.org/wiki/NBA全明星赛 "wikilink")。[达勒·艾利斯](https://zh.wikipedia.org/wiki/达勒·艾利斯 "wikilink")、[凯文·达克沃斯](../Page/凯文·达克沃斯.md "wikilink")、[凯文·约翰逊](../Page/凯文·约翰逊.md "wikilink")、[吉尔伯特·阿里纳斯和](https://zh.wikipedia.org/wiki/吉尔伯特·阿里纳斯 "wikilink")[扎克·兰多夫都在之后入选](../Page/扎克·兰多夫.md "wikilink")[全明星赛](https://zh.wikipedia.org/wiki/NBA全明星赛 "wikilink")。只有麥葛雷迪、奥尼尔和乔治在获奖的同一赛季入选[NBA最佳阵容](../Page/NBA最佳阵容.md "wikilink")，其中麥葛雷迪进入第二队，奥尼尔和乔治进入第三队。
+[阿尔文·罗伯逊](https://zh.wikipedia.org/wiki/阿尔文·罗伯逊 "wikilink")、[达纳·巴罗斯](../Page/达纳·巴罗斯.md "wikilink")、[崔西·麥葛雷迪](https://zh.wikipedia.org/wiki/崔西·麥葛雷迪 "wikilink")、[杰梅因·奥尼尔](../Page/杰梅因·奥尼尔.md "wikilink")、[丹尼·格兰杰](../Page/丹尼·格兰杰.md "wikilink")、[凱文·洛夫](https://zh.wikipedia.org/wiki/凱文·洛夫 "wikilink")、[保罗·乔治](../Page/保罗·乔治.md "wikilink")、[揚尼斯·安戴托昆波和](https://zh.wikipedia.org/wiki/揚尼斯·安戴托昆波 "wikilink")[维克多·歐拉迪波都曾在获奖的同一赛季入选](https://zh.wikipedia.org/wiki/维克多·歐拉迪波 "wikilink")[NBA全明星赛](https://zh.wikipedia.org/wiki/NBA全明星赛 "wikilink")。[达勒·艾利斯](https://zh.wikipedia.org/wiki/达勒·艾利斯 "wikilink")、[凯文·达克沃斯](../Page/凯文·达克沃斯.md "wikilink")、[凯文·约翰逊](../Page/凯文·约翰逊.md "wikilink")、[吉尔伯特·阿里纳斯和](https://zh.wikipedia.org/wiki/吉尔伯特·阿里纳斯 "wikilink")[扎克·兰多夫](../Page/扎克·兰多夫.md "wikilink")都在之后入选[全明星赛](https://zh.wikipedia.org/wiki/NBA全明星赛 "wikilink")。只有麥葛雷迪、奥尼尔和乔治在获奖的同一赛季入选[NBA最佳阵容](../Page/NBA最佳阵容.md "wikilink")，其中麥葛雷迪进入第二队，奥尼尔和乔治进入第三队。
 
 ## 获奖球员
 
-[TracyMcGrady.jpg](https://zh.wikipedia.org/wiki/File:TracyMcGrady.jpg "fig:TracyMcGrady.jpg")在[2000-01
-NBA赛季获奖](https://zh.wikipedia.org/wiki/2000-01_NBA赛季 "wikilink")。\]\]
-[Kevin_Love_2.jpg](https://zh.wikipedia.org/wiki/File:Kevin_Love_2.jpg "fig:Kevin_Love_2.jpg")在[2010-11年NBA赛季获奖](https://zh.wikipedia.org/wiki/2010-11年NBA赛季 "wikilink")。\]\]
-[RyanAndersonMagic.jpg](https://zh.wikipedia.org/wiki/File:RyanAndersonMagic.jpg "fig:RyanAndersonMagic.jpg")在[2011-12
-NBA赛季获奖](../Page/2011-12_NBA赛季.md "wikilink")。\]\]
+[TracyMcGrady.jpg](https://zh.wikipedia.org/wiki/File:TracyMcGrady.jpg "fig:TracyMcGrady.jpg")在[2000-01 NBA赛季获奖](https://zh.wikipedia.org/wiki/2000-01_NBA赛季 "wikilink")。\]\] [Kevin_Love_2.jpg](https://zh.wikipedia.org/wiki/File:Kevin_Love_2.jpg "fig:Kevin_Love_2.jpg")在[2010-11年NBA赛季获奖](https://zh.wikipedia.org/wiki/2010-11年NBA赛季 "wikilink")。\]\] [RyanAndersonMagic.jpg](https://zh.wikipedia.org/wiki/File:RyanAndersonMagic.jpg "fig:RyanAndersonMagic.jpg")在[2011-12 NBA赛季获奖](../Page/2011-12_NBA赛季.md "wikilink")。\]\]
 
 |  |             |
 |  | ----------- |
@@ -284,7 +279,6 @@ NBA赛季获奖](../Page/2011-12_NBA赛季.md "wikilink")。\]\]
 
   - 細節
 
-[Category:NBA獎項](https://zh.wikipedia.org/wiki/Category:NBA獎項 "wikilink")
-[Category:1986年建立的奖项](https://zh.wikipedia.org/wiki/Category:1986年建立的奖项 "wikilink")
+[Category:NBA獎項](https://zh.wikipedia.org/wiki/Category:NBA獎項 "wikilink") [Category:1986年建立的奖项](https://zh.wikipedia.org/wiki/Category:1986年建立的奖项 "wikilink")
 
 1.

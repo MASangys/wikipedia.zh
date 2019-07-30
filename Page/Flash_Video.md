@@ -1,23 +1,14 @@
-**Flash Video**（簡稱**FLV**），是一种
-[网络](https://zh.wikipedia.org/wiki/网络 "wikilink")[视频格式](../Page/视频.md "wikilink")，用作串流媒体格式，它的出现有效地解决了视频文件导入[Flash后](../Page/Adobe_Flash.md "wikilink")，使导出的SWF文件体积庞大，不能在网络上有效使用等缺点。
+**Flash Video**（簡稱**FLV**），是一种 [网络](https://zh.wikipedia.org/wiki/网络 "wikilink")[视频](../Page/视频.md "wikilink")格式，用作串流媒体格式，它的出现有效地解决了视频文件导入[Flash后](../Page/Adobe_Flash.md "wikilink")，使导出的SWF文件体积庞大，不能在网络上有效使用等缺点。
 
-一般FLV文件包在SWF
-PLAYER的壳里，并且FLV可以很好的保护原始地址，不容易被下载到，從而起到保护版权的作用。但还是有些视频格式转换软件将FLV转成一般的视频格式，如中国的软件[格式工厂](../Page/格式工厂.md "wikilink")。随着视频[网站的丰富](https://zh.wikipedia.org/wiki/网站 "wikilink")，在2008年時这个格式已经非常普及，包括[YouTube](../Page/YouTube.md "wikilink")、[NICONICO動畫](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")、Google
-Video、Yahoo\!
-Video、[MySpace](https://zh.wikipedia.org/wiki/MySpace "wikilink")，以及中国的[优酷](../Page/优酷.md "wikilink")、[酷6等大部分视频分享网站均采用这个格式](https://zh.wikipedia.org/wiki/酷6 "wikilink")。
+一般FLV文件包在SWF PLAYER的壳里，并且FLV可以很好的保护原始地址，不容易被下载到，從而起到保护版权的作用。但还是有些视频格式转换软件将FLV转成一般的视频格式，如中国的软件[格式工厂](../Page/格式工厂.md "wikilink")。随着视频[网站的丰富](https://zh.wikipedia.org/wiki/网站 "wikilink")，在2008年時这个格式已经非常普及，包括[YouTube](../Page/YouTube.md "wikilink")、[NICONICO動畫](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")、Google Video、Yahoo\! Video、[MySpace](https://zh.wikipedia.org/wiki/MySpace "wikilink")，以及中国的[优酷](../Page/优酷.md "wikilink")、[酷6等大部分视频分享网站均采用这个格式](https://zh.wikipedia.org/wiki/酷6 "wikilink")。
 
-然而，Flash存在著包括大量[耗電以及資訊安全等若干問題](https://zh.wikipedia.org/wiki/耗電 "wikilink")，隨著[移动设备與](../Page/移动设备.md "wikilink")[流動應用程式的發展與普及而日益嚴重](../Page/流動應用程式.md "wikilink")，2010年[乔布斯曾公開抨擊](https://zh.wikipedia.org/wiki/乔布斯 "wikilink")。2011年11月9日，Adobe公司宣布停止開發個人電腦平台以外的Flash
-Player，而專注於開發[非專利](https://zh.wikipedia.org/wiki/開源軟體 "wikilink")[標示語言](../Page/HTML.md "wikilink")[HTML5](../Page/HTML5.md "wikilink")。
+然而，Flash存在著包括大量[耗電以及資訊安全等若干問題](https://zh.wikipedia.org/wiki/耗電 "wikilink")，隨著[移动设备](../Page/移动设备.md "wikilink")與[流動應用程式](../Page/流動應用程式.md "wikilink")的發展與普及而日益嚴重，2010年[乔布斯曾公開抨擊](https://zh.wikipedia.org/wiki/乔布斯 "wikilink")。2011年11月9日，Adobe公司宣布停止開發個人電腦平台以外的Flash Player，而專注於開發[非專利](https://zh.wikipedia.org/wiki/開源軟體 "wikilink")[標示語言](../Page/HTML.md "wikilink")[HTML5](../Page/HTML5.md "wikilink")。
 
-2016年，[Youtube已經改採用](https://zh.wikipedia.org/wiki/Youtube "wikilink")[HTML5技術](../Page/HTML5.md "wikilink")，Google公司表示flash廣告会自動轉檔為HTML5形式\[1\]。2015年6月\[2\]，Google宣布公司旗下的Chrome瀏覽器停止了Flash外掛的自啟動。2015年9月1日起，Chrome瀏覽器停止支援這些外掛程式\[3\]，並且[Amazon公司旗下電子商務和廣告平台也停止支援Flash技術](../Page/亞馬遜公司.md "wikilink")\[4\]。
+2016年，[Youtube已經改採用](https://zh.wikipedia.org/wiki/Youtube "wikilink")[HTML5](../Page/HTML5.md "wikilink")技術，Google公司表示flash廣告会自動轉檔為HTML5形式\[1\]。2015年6月\[2\]，Google宣布公司旗下的Chrome瀏覽器停止了Flash外掛的自啟動。2015年9月1日起，Chrome瀏覽器停止支援這些外掛程式\[3\]，並且[Amazon公司旗下電子商務和廣告平台也停止支援Flash技術](../Page/亞馬遜公司.md "wikilink")\[4\]。
 
 ## F4V
 
-FLV在H.264的視頻規格或是AAC的音源規格都達到功能極限，為了克服這個格式上的限制，F4V於是誕生。F4V是基於制定出來的[容器格式](https://zh.wikipedia.org/wiki/容器格式 "wikilink")（Container
-format）。至少於[Flash
-Player](https://zh.wikipedia.org/wiki/Flash_Player "wikilink") 12.0
-update
-3以上版本才能播放。F4V支援的視頻類型為[H.264](https://zh.wikipedia.org/wiki/H.264 "wikilink")，影像類型為[GIF](../Page/GIF.md "wikilink")、[PNG以及](../Page/PNG.md "wikilink")[JPEG](../Page/JPEG.md "wikilink")，音頻類型為[AAC以及](https://zh.wikipedia.org/wiki/AAC "wikilink")[MP3](../Page/MP3.md "wikilink")。
+FLV在H.264的視頻規格或是AAC的音源規格都達到功能極限，為了克服這個格式上的限制，F4V於是誕生。F4V是基於制定出來的[容器格式](https://zh.wikipedia.org/wiki/容器格式 "wikilink")（Container format）。至少於[Flash Player](https://zh.wikipedia.org/wiki/Flash_Player "wikilink") 12.0 update 3以上版本才能播放。F4V支援的視頻類型為[H.264](https://zh.wikipedia.org/wiki/H.264 "wikilink")，影像類型為[GIF](../Page/GIF.md "wikilink")、[PNG](../Page/PNG.md "wikilink")以及[JPEG](../Page/JPEG.md "wikilink")，音頻類型為[AAC以及](https://zh.wikipedia.org/wiki/AAC "wikilink")[MP3](../Page/MP3.md "wikilink")。
 
 ## FLV文件构成
 
@@ -90,39 +81,29 @@ flv文件中的元信息，是一些描述flv文件各类属性的信息。这�
   - [MPlayer](../Page/MPlayer.md "wikilink")
   - [Perian](https://zh.wikipedia.org/wiki/Perian "wikilink")
   - [PotPlayer](../Page/PotPlayer.md "wikilink")
-  - [Real Player](https://zh.wikipedia.org/wiki/Real_Player "wikilink")
-    11
-  - [VLC media
-    player](https://zh.wikipedia.org/wiki/VLC_media_player "wikilink")
-  - [FLV Player by Martijn de
-    Visser](https://zh.wikipedia.org/wiki/FLV_Player_by_Martijn_de_Visser "wikilink")
+  - [Real Player](https://zh.wikipedia.org/wiki/Real_Player "wikilink") 11
+  - [VLC media player](https://zh.wikipedia.org/wiki/VLC_media_player "wikilink")
+  - [FLV Player by Martijn de Visser](https://zh.wikipedia.org/wiki/FLV_Player_by_Martijn_de_Visser "wikilink")
   - [Quick Time](https://zh.wikipedia.org/wiki/Quick_Time "wikilink") 10
-  - 任何基于[FFmpeg的播放程序](../Page/FFmpeg.md "wikilink")
+  - 任何基于[FFmpeg](../Page/FFmpeg.md "wikilink")的播放程序
   - 任何利用DirectShow配合[ffdshow的播放程式](https://zh.wikipedia.org/wiki/ffdshow "wikilink")
-      - [Media Player
-        Classic](../Page/Media_Player_Classic.md "wikilink")
+      - [Media Player Classic](../Page/Media_Player_Classic.md "wikilink")
       - [MPC-HC](https://zh.wikipedia.org/wiki/Media_Player_Classic_Homecinema "wikilink")
       - [MPC-BE](https://zh.wikipedia.org/wiki/MPC-BE "wikilink")
-      - [Windows Media
-        Player](https://zh.wikipedia.org/wiki/Windows_Media_Player "wikilink")
-      - [Windows Media
-        Center](../Page/Windows_Media_Center.md "wikilink")（需要改動[注册表](../Page/注册表.md "wikilink")）
+      - [Windows Media Player](https://zh.wikipedia.org/wiki/Windows_Media_Player "wikilink")
+      - [Windows Media Center](../Page/Windows_Media_Center.md "wikilink")（需要改動[注册表](../Page/注册表.md "wikilink")）
       - [暴风影音](../Page/暴风影音.md "wikilink")
       - [PowerDVD](../Page/PowerDVD.md "wikilink")
 
 ### 桌面軟體與網頁端播放程式
 
-  - JW FLV Player（授權方式：[CC
-    by-nc-sa](https://zh.wikipedia.org/wiki/CC_by-nc-sa "wikilink")）
-  - [Moyea Web
-    Player](http://www.playerdiy.com/)（免费使用。可装上插件进行功能上的扩展，[所见即所得图形界面软件](https://zh.wikipedia.org/wiki/所见即所得 "wikilink")。）
+  - JW FLV Player（授權方式：[CC by-nc-sa](https://zh.wikipedia.org/wiki/CC_by-nc-sa "wikilink")）
+  - [Moyea Web Player](http://www.playerdiy.com/)（免费使用。可装上插件进行功能上的扩展，[所见即所得图形界面软件](https://zh.wikipedia.org/wiki/所见即所得 "wikilink")。）
 
 ### 網頁端播放程式
 
-  - Dreamsocket Media Player（授權方式：[CC
-    by-nc-sa](https://zh.wikipedia.org/wiki/CC_by-nc-sa "wikilink")）
-  - [FV H.264 FLV Ads
-    Player免費軟體](https://zh.wikipedia.org/wiki/FV_H.264_FLV_Ads_Player "wikilink")
+  - Dreamsocket Media Player（授權方式：[CC by-nc-sa](https://zh.wikipedia.org/wiki/CC_by-nc-sa "wikilink")）
+  - [FV H.264 FLV Ads Player免費軟體](https://zh.wikipedia.org/wiki/FV_H.264_FLV_Ads_Player "wikilink")
   - Sonettic Cinema FLV Player免費與商業版軟體均有
   - Hitasoft Free RIPE FLVPlayer
   - FLV / H.264 Video Player I, II and III by FlashXpert
@@ -131,17 +112,11 @@ flv文件中的元信息，是一些描述flv文件各类属性的信息。这�
 
 ## 外部連結
 
-  - [Flash Developer Center - Flash Video
-    Articles](http://www.adobe.com/devnet/flash/video.html)
-  - [Adobe Flash (SWF) and Flash Video (FLV) File Format Specification
-    Licensing
-    Page](https://web.archive.org/web/20070407071053/http://www.adobe.com/licensing/developer/)（adobe.com）
-  - [Adobe Flash FLV Video File
-    Format](http://www.digitalpreservation.gov/formats/fdd/fdd000131.shtml)（Library
-    of Congress）
+  - [Flash Developer Center - Flash Video Articles](http://www.adobe.com/devnet/flash/video.html)
+  - [Adobe Flash (SWF) and Flash Video (FLV) File Format Specification Licensing Page](https://web.archive.org/web/20070407071053/http://www.adobe.com/licensing/developer/)（adobe.com）
+  - [Adobe Flash FLV Video File Format](http://www.digitalpreservation.gov/formats/fdd/fdd000131.shtml)（Library of Congress）
 
-[Category:文件格式](https://zh.wikipedia.org/wiki/Category:文件格式 "wikilink")
-[Category:Adobe软件](https://zh.wikipedia.org/wiki/Category:Adobe软件 "wikilink")
+[Category:文件格式](https://zh.wikipedia.org/wiki/Category:文件格式 "wikilink") [Category:Adobe软件](https://zh.wikipedia.org/wiki/Category:Adobe软件 "wikilink")
 
 1.
 2.

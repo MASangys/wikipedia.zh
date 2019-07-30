@@ -1,12 +1,12 @@
-**哆啦A夢的道具列表**是[藤子·F·不二雄原作](../Page/藤子·F·不二雄.md "wikilink")[漫畫以及衍生](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[動畫系列](https://zh.wikipedia.org/wiki/動畫 "wikilink")《[哆啦A夢](../Page/哆啦A夢.md "wikilink")》角色「[哆啦A夢](../Page/哆啦A夢_\(角色\).md "wikilink")」其腹部的「四次元百寶袋」所拿出的[法寶](../Page/法寶_\(多啦A夢\).md "wikilink")（秘密道-{}-具）的一覽表。**截止目前為止哆啦A夢共有約2616個道具。**\[1\]
+**哆啦A夢的道具列表**是[藤子·F·不二雄](../Page/藤子·F·不二雄.md "wikilink")原作[漫畫以及衍生](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[動畫系列](https://zh.wikipedia.org/wiki/動畫 "wikilink")《[哆啦A夢](../Page/哆啦A夢.md "wikilink")》角色「[哆啦A夢](../Page/哆啦A夢_\(角色\).md "wikilink")」其腹部的「四次元百寶袋」所拿出的[法寶](../Page/法寶_\(多啦A夢\).md "wikilink")（秘密道-{}-具）的一覽表。**截止目前為止哆啦A夢共有約2616個道具。**\[1\]
 
 ## 原作與動畫的差異
 
-  - 原作裡面有許多名稱不明的道具，在動畫版及[小學館發行的道具百科中都可找得到名字](../Page/小學館.md "wikilink")，例如「」（浪潮馬槍）、「、」（徽章製造照相機、徽章照相機）、「」（昆蟲聲音飲料）等。
+  - 原作裡面有許多名稱不明的道具，在動畫版及[小學館](../Page/小學館.md "wikilink")發行的道具百科中都可找得到名字，例如「」（浪潮馬槍）、「、」（徽章製造照相機、徽章照相機）、「」（昆蟲聲音飲料）等。
   - 有些道具在原作與動畫版中名稱不同，理由多為時代背景或商標等因素，例如原作「」→動畫「」、原作「」→動畫「」等。
   - 原作由於頁數關係，有些劇情或道具用法等交代得不太清楚，動畫版則對此加以補充和修改，會對某些道具的弱點加以補充，例如「」（迷你信號機）、「」等。
   - 原作交代得有些不合情理，動畫版則合理地變更工具的方法，例如「」等。
-  - 部分動畫版裡會大膽地變更原作的道具名稱和設計，在[大山羨代配音的中期至後期動畫版裡很明顯看得出](../Page/大山羨代.md "wikilink")，關於這些與原作有別的道具，本列表不特別記述。
+  - 部分動畫版裡會大膽地變更原作的道具名稱和設計，在[大山羨代](../Page/大山羨代.md "wikilink")配音的中期至後期動畫版裡很明顯看得出，關於這些與原作有別的道具，本列表不特別記述。
 
 ## 列表說明
 
@@ -147,7 +147,7 @@
 <tr class="odd">
 <td><p>公寓樹</p></td>
 <td></td>
-<td><p>一種其<a href="https://zh.wikipedia.org/wiki/根部" title="wikilink">根部會形成數個巨大空洞的</a><a href="../Page/植物.md" title="wikilink">植物</a>，可以當成<a href="../Page/地下室.md" title="wikilink">地下室以供人居住</a>。但是公寓樹的使用時限只有一天。若超過一天就會恢復為土壤。</p></td>
+<td><p>一種其<a href="https://zh.wikipedia.org/wiki/根部" title="wikilink">根部會形成數個巨大空洞的</a><a href="../Page/植物.md" title="wikilink">植物</a>，可以當成<a href="../Page/地下室.md" title="wikilink">地下室</a>以供人居住。但是公寓樹的使用時限只有一天。若超過一天就會恢復為土壤。</p></td>
 </tr>
 </tbody>
 </table>
@@ -852,7 +852,7 @@
 <tr class="odd">
 <td><p>想見的人迴轉壽司</p></td>
 <td></td>
-<td><p>外型跟<a href="../Page/迴轉壽司.md" title="wikilink">迴轉壽司無異</a>。此法寶可以使用11次。只要對著<a href="https://zh.wikipedia.org/wiki/咪高峰" title="wikilink">傳聲器說出想見的人</a>，那個人就會像迴轉壽司一樣轉出來。說出想見的人時，必須把那個人的全名唸出，否則會把一個地方，甚至全國同名的人全都轉出來。</p></td>
+<td><p>外型跟<a href="../Page/迴轉壽司.md" title="wikilink">迴轉壽司</a>無異。此法寶可以使用11次。只要對著<a href="https://zh.wikipedia.org/wiki/咪高峰" title="wikilink">傳聲器說出想見的人</a>，那個人就會像迴轉壽司一樣轉出來。說出想見的人時，必須把那個人的全名唸出，否則會把一個地方，甚至全國同名的人全都轉出來。</p></td>
 </tr>
 </tbody>
 </table>
@@ -1091,7 +1091,7 @@
 <tr class="odd">
 <td><p>相反面霜</p></td>
 <td></td>
-<td><p>擦上面霜後，<a href="../Page/皮膚.md" title="wikilink">皮膚上對溫度的</a><a href="https://zh.wikipedia.org/wiki/感覺" title="wikilink">感覺都會變的相反</a>。在寒冷的環境會覺得炎熱，在炎熱的環境則會覺得寒冷。</p></td>
+<td><p>擦上面霜後，<a href="../Page/皮膚.md" title="wikilink">皮膚</a>上對溫度的<a href="https://zh.wikipedia.org/wiki/感覺" title="wikilink">感覺都會變的相反</a>。在寒冷的環境會覺得炎熱，在炎熱的環境則會覺得寒冷。</p></td>
 </tr>
 <tr class="even">
 <td><p>相反世界的鏡子<br />
@@ -1227,7 +1227,8 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>背書麵包</p></td>
+<td><p>背書吐司<br />
+（<a href="../Page/香港.md" title="wikilink">港版</a>：記憶麵包）</p></td>
 <td></td>
 <td><p><em>請參閱「記憶方包」</em></p></td>
 </tr>
@@ -2164,7 +2165,7 @@
 <tr class="even">
 <td><p>南北极徽章（NS勛章）[2]</p></td>
 <td></td>
-<td><p>該道具是兩款貼紙，分別是<a href="https://zh.wikipedia.org/wiki/紅色" title="wikilink">紅色N</a>（<a href="https://zh.wikipedia.org/wiki/北極" title="wikilink">北極</a>）和<a href="../Page/藍色.md" title="wikilink">藍色S</a>（<a href="https://zh.wikipedia.org/wiki/南極" title="wikilink">南極</a>）。被貼上了貼紙的人，便會按著南北極<a href="../Page/磁鐵.md" title="wikilink">磁鐵的</a>「同性相拒，異性相吸」法則，因而互相彈開或緊緊地貼在一起。</p></td>
+<td><p>該道具是兩款貼紙，分別是<a href="https://zh.wikipedia.org/wiki/紅色" title="wikilink">紅色N</a>（<a href="https://zh.wikipedia.org/wiki/北極" title="wikilink">北極</a>）和<a href="../Page/藍色.md" title="wikilink">藍色</a>S（<a href="https://zh.wikipedia.org/wiki/南極" title="wikilink">南極</a>）。被貼上了貼紙的人，便會按著南北極<a href="../Page/磁鐵.md" title="wikilink">磁鐵</a>的「同性相拒，異性相吸」法則，因而互相彈開或緊緊地貼在一起。</p></td>
 </tr>
 <tr class="odd">
 <td><p>省能源熱氣球</p></td>
@@ -5803,7 +5804,7 @@
 <tr class="odd">
 <td><p>飛行行李籤 宇宙版</p></td>
 <td></td>
-<td><p>在電影大長篇<a href="../Page/大雄的宇宙漂流記.md" title="wikilink">大雄的宇宙漂流記出現的升級版</a>，可以在宇宙空間飛行，哆啦A夢使用這個將Boss摩亞送往黑洞</p></td>
+<td><p>在電影大長篇<a href="../Page/大雄的宇宙漂流記.md" title="wikilink">大雄的宇宙漂流記</a>出現的升級版，可以在宇宙空間飛行，哆啦A夢使用這個將Boss摩亞送往黑洞</p></td>
 </tr>
 <tr class="even">
 <td><p>飛包袱</p></td>
@@ -6065,7 +6066,7 @@
 <tr class="odd">
 <td><p><a href="../Page/竹蜻蜓_(哆啦A夢).md" title="wikilink">竹蜻蜓</a></p></td>
 <td></td>
-<td><p>早期有另一名稱 - <strong>直升蜻蜓</strong>，兩名稱一直並用至1979年製作電視動畫才統一稱為<strong>竹蜻蜓</strong>。內部裝有一個超小的<a href="https://zh.wikipedia.org/wiki/電池" title="wikilink">電池</a>。能夠以<a href="https://zh.wikipedia.org/wiki/時速" title="wikilink">時速</a>80<a href="../Page/公里.md" title="wikilink">公里連續在空中</a><a href="https://zh.wikipedia.org/wiki/飛行" title="wikilink">飛行</a>8<a href="https://zh.wikipedia.org/wiki/小時" title="wikilink">小時</a>（某些情況是4小時）。此外，據說如果是飛一會兒休息一會兒的話，電池就能夠維持更長的時間，飛行距離也更遠。可以在<a href="../Page/天空.md" title="wikilink">天上或</a><a href="../Page/海.md" title="wikilink">海裡使用</a>。但是在某些片段時，沒電時，休息20個小時還可以繼續使用。</p></td>
+<td><p>早期有另一名稱 - <strong>直升蜻蜓</strong>，兩名稱一直並用至1979年製作電視動畫才統一稱為<strong>竹蜻蜓</strong>。內部裝有一個超小的<a href="https://zh.wikipedia.org/wiki/電池" title="wikilink">電池</a>。能夠以<a href="https://zh.wikipedia.org/wiki/時速" title="wikilink">時速</a>80<a href="../Page/公里.md" title="wikilink">公里</a>連續在空中<a href="https://zh.wikipedia.org/wiki/飛行" title="wikilink">飛行</a>8<a href="https://zh.wikipedia.org/wiki/小時" title="wikilink">小時</a>（某些情況是4小時）。此外，據說如果是飛一會兒休息一會兒的話，電池就能夠維持更長的時間，飛行距離也更遠。可以在<a href="../Page/天空.md" title="wikilink">天上或</a><a href="../Page/海.md" title="wikilink">海</a>裡使用。但是在某些片段時，沒電時，休息20個小時還可以繼續使用。</p></td>
 </tr>
 <tr class="even">
 <td><p>竹筍蜻蜓<br />
@@ -6292,7 +6293,7 @@
 <tr class="even">
 <td><p>地球破壞炸彈</p></td>
 <td></td>
-<td><p>哆啦A夢曾拿出過的“破壞力最強”的武器道具，顧名思義，就是能炸毀<a href="../Page/地球.md" title="wikilink">地球的</a><a href="https://zh.wikipedia.org/wiki/炸彈" title="wikilink">炸彈</a>。在（日語：，於1979年9月22日首播）一集中，哆啦A夢因為快被<a href="https://zh.wikipedia.org/wiki/老鼠" title="wikilink">老鼠逼瘋了</a>，幾乎就要使用了這件道具來炸掉大雄家的房子（及地球）。但在其他如大長篇等緊要關頭中從來未試圖使用過這種武器。此外，在遊戲《<a href="https://zh.wikipedia.org/wiki/莉露露與鐵人兵團" title="wikilink">莉露露與鐵人兵團</a>》 中，哆啦A夢的武器中含有這種恐怖的武器。</p></td>
+<td><p>哆啦A夢曾拿出過的“破壞力最強”的武器道具，顧名思義，就是能炸毀<a href="../Page/地球.md" title="wikilink">地球</a>的<a href="https://zh.wikipedia.org/wiki/炸彈" title="wikilink">炸彈</a>。在（日語：，於1979年9月22日首播）一集中，哆啦A夢因為快被<a href="https://zh.wikipedia.org/wiki/老鼠" title="wikilink">老鼠逼瘋了</a>，幾乎就要使用了這件道具來炸掉大雄家的房子（及地球）。但在其他如大長篇等緊要關頭中從來未試圖使用過這種武器。此外，在遊戲《<a href="https://zh.wikipedia.org/wiki/莉露露與鐵人兵團" title="wikilink">莉露露與鐵人兵團</a>》 中，哆啦A夢的武器中含有這種恐怖的武器。</p></td>
 </tr>
 <tr class="odd">
 <td><p>爆炸貼紙</p></td>
@@ -6820,7 +6821,7 @@
 <tr class="odd">
 <td><p><a href="../Page/任意門.md" title="wikilink">任意門</a>（隨意門）</p></td>
 <td></td>
-<td><p>為一扇可至十<a href="../Page/光年.md" title="wikilink">光年內任何</a><a href="https://zh.wikipedia.org/wiki/地方" title="wikilink">地方的</a><a href="https://zh.wikipedia.org/wiki/門" title="wikilink">門</a>，在《<a href="../Page/大雄與雲之王國.md" title="wikilink">大雄與雲之王國</a>》中，任意門加裝了特殊旋鈕，更可以設定<a href="https://zh.wikipedia.org/wiki/時間" title="wikilink">時間</a>，只要扭動其門柄，門另一邊的時間便會改變。</p></td>
+<td><p>為一扇可至十<a href="../Page/光年.md" title="wikilink">光年</a>內任何<a href="https://zh.wikipedia.org/wiki/地方" title="wikilink">地方的</a><a href="https://zh.wikipedia.org/wiki/門" title="wikilink">門</a>，在《<a href="../Page/大雄與雲之王國.md" title="wikilink">大雄與雲之王國</a>》中，任意門加裝了特殊旋鈕，更可以設定<a href="https://zh.wikipedia.org/wiki/時間" title="wikilink">時間</a>，只要扭動其門柄，門另一邊的時間便會改變。</p></td>
 </tr>
 <tr class="even">
 <td><p>隨意箭</p></td>
@@ -7360,7 +7361,7 @@
 <tr class="odd">
 <td><p>熱線槍</p></td>
 <td></td>
-<td><p>哆啦A夢的強勁<a href="../Page/武器.md" title="wikilink">武器之一</a>，一發可摧毀一座建築物（熔解其鋼筋）。</p></td>
+<td><p>哆啦A夢的強勁<a href="../Page/武器.md" title="wikilink">武器</a>之一，一發可摧毀一座建築物（熔解其鋼筋）。</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -7888,7 +7889,7 @@
 <td><p>放大燈</p></td>
 <td></td>
 <td><p>跟<a href="https://zh.wikipedia.org/wiki/縮小燈" title="wikilink">縮小燈一樣是哆啦A夢常常使用的道具之一</a>，外型類似圓筒狀的<a href="../Page/手電筒.md" title="wikilink">手電筒</a>，可以用來放大物體的<a href="https://zh.wikipedia.org/wiki/體積" title="wikilink">體積與</a><a href="../Page/重量.md" title="wikilink">重量</a>，再照一次便恢復原狀，是個十分實用的道具，不過有時間的限制，若不持續照射，一陣子後便會恢復原狀。《<a href="https://zh.wikipedia.org/wiki/哆啦A夢百科" title="wikilink">哆啦A夢百科</a>》裡曾解說放大燈的運作原理，認為它是使物體構成分子間距膨脹，因此造成體積可放大到100倍。</p>
-<p>該道具在<a href="https://zh.wikipedia.org/wiki/哆啦A夢電影作品" title="wikilink">大長篇中常用來將普通的物品變大當作</a><a href="../Page/武器.md" title="wikilink">武器</a>，如<a href="../Page/大雄與白金迷宮.md" title="wikilink">大雄與白金迷宮</a>、<a href="../Page/大雄的發條都市冒險記.md" title="wikilink">大雄的發條都市冒險記</a>，或是在緊要關頭發揮作用，如在<a href="../Page/大雄的宇宙漂流記.md" title="wikilink">大雄的宇宙漂流記將閃避披風放大來改變</a><a href="https://zh.wikipedia.org/wiki/太空船" title="wikilink">太空船的方向</a>。</p></td>
+<p>該道具在<a href="https://zh.wikipedia.org/wiki/哆啦A夢電影作品" title="wikilink">大長篇中常用來將普通的物品變大當作</a><a href="../Page/武器.md" title="wikilink">武器</a>，如<a href="../Page/大雄與白金迷宮.md" title="wikilink">大雄與白金迷宮</a>、<a href="../Page/大雄的發條都市冒險記.md" title="wikilink">大雄的發條都市冒險記</a>，或是在緊要關頭發揮作用，如在<a href="../Page/大雄的宇宙漂流記.md" title="wikilink">大雄的宇宙漂流記</a>將閃避披風放大來改變<a href="https://zh.wikipedia.org/wiki/太空船" title="wikilink">太空船的方向</a>。</p></td>
 </tr>
 <tr class="even">
 <td><p>嚇人箱</p></td>
@@ -8831,7 +8832,7 @@
 <tr class="odd">
 <td><p>接觸未來機（飛碟召喚器）</p></td>
 <td></td>
-<td><p>按下機器上按紐就會召喚UFO和外星人。哆啦A夢曾叮囑大雄不要亂碰該機器。大雄因此而深深不滿，在胡亂使用的情況下終於召喚外星人，並向他的朋友分享。有一次，他再次利用接觸未來機召喚外星人，但惹起外星人不滿，說如果大雄沒有任何原因召喚外星人而浪費其UFO的燃料費和外星人的伙食費，就會發動宇宙戰爭。哆啦A夢和大雄設法令外星人得到歡心。最後，在媽媽不慎激怒外星人時，怡巧他在地上看到一粒在當地非常珍貴的<a href="../Page/玻璃.md" title="wikilink">玻璃製的</a><a href="../Page/彈珠.md" title="wikilink">彈珠</a>（該星球玻璃缺乏，因此比地球的<a href="https://zh.wikipedia.org/wiki/鑽石" title="wikilink">鑽石還值錢</a>），大雄便將一大盒彈珠送給外星人，整件事件得以平息。</p></td>
+<td><p>按下機器上按紐就會召喚UFO和外星人。哆啦A夢曾叮囑大雄不要亂碰該機器。大雄因此而深深不滿，在胡亂使用的情況下終於召喚外星人，並向他的朋友分享。有一次，他再次利用接觸未來機召喚外星人，但惹起外星人不滿，說如果大雄沒有任何原因召喚外星人而浪費其UFO的燃料費和外星人的伙食費，就會發動宇宙戰爭。哆啦A夢和大雄設法令外星人得到歡心。最後，在媽媽不慎激怒外星人時，怡巧他在地上看到一粒在當地非常珍貴的<a href="../Page/玻璃.md" title="wikilink">玻璃</a>製的<a href="../Page/彈珠.md" title="wikilink">彈珠</a>（該星球玻璃缺乏，因此比地球的<a href="https://zh.wikipedia.org/wiki/鑽石" title="wikilink">鑽石還值錢</a>），大雄便將一大盒彈珠送給外星人，整件事件得以平息。</p></td>
 </tr>
 <tr class="even">
 <td><p>算命機</p></td>
@@ -9220,7 +9221,7 @@
 <tr class="odd">
 <td><p>假如電話亭（如果電話亭、如意電話亭、如意箱、神奇實驗室）</p></td>
 <td></td>
-<td><p>外型像電話亭的箱子，使用者若使用裡面的電話說出心目中的幻想世界（關鍵詞為：「假如世界變成……」），則使用者走出電話亭後就會身處在說出的世界中。改變後的世界是與原本獨立的<a href="https://zh.wikipedia.org/wiki/平行世界" title="wikilink">平行世界</a>。哆啦A夢的妹妹哆啦美也擁有該道具，惟外型較<a href="../Page/女性.md" title="wikilink">女性化</a>。</p></td>
+<td><p>外型像電話亭的箱子，使用者若使用裡面的電話說出心目中的幻想世界（關鍵詞為：「假如世界變成……」），則使用者走出電話亭後就會身處在說出的世界中。改變後的世界是與原本獨立的<a href="https://zh.wikipedia.org/wiki/平行世界" title="wikilink">平行世界</a>。哆啦A夢的妹妹哆啦美也擁有該道具，惟外型較<a href="../Page/女性.md" title="wikilink">女性</a>化。</p></td>
 </tr>
 <tr class="even">
 <td><p>年糕製造機</p></td>
@@ -9596,7 +9597,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/四次元口袋" title="wikilink">四次元口袋</a>、法寶袋</p></td>
 <td></td>
 <td><p>正式名稱是「<a href="https://zh.wikipedia.org/wiki/機械人" title="wikilink">機械人專用</a><a href="https://zh.wikipedia.org/wiki/四次元空間" title="wikilink">四次元空間内藏秘密道具格納口袋</a>」，可讓哆啦A夢放置物品的容器，除了<a href="../Page/時光機_(哆啦A夢).md" title="wikilink">時光機和</a><a href="https://zh.wikipedia.org/wiki/四次元垃圾桶" title="wikilink">四次元垃圾桶外</a>，他所有道具都是放在這裡。由於連接<a href="https://zh.wikipedia.org/wiki/四次元世界" title="wikilink">四次元世界</a>，所以可以放置無限數目的東西。</p>
-<p>當使用者把手抽進<strong>四次元口袋</strong>，口袋會按照使用者的思想（想像該道具或是想像其用途），將道具傳送到使用者的<a href="../Page/手.md" title="wikilink">手上</a>。因此如果使用者心神混亂，就會像哆啦A夢一樣，找到一堆沒用的東西。</p></td>
+<p>當使用者把手抽進<strong>四次元口袋</strong>，口袋會按照使用者的思想（想像該道具或是想像其用途），將道具傳送到使用者的<a href="../Page/手.md" title="wikilink">手</a>上。因此如果使用者心神混亂，就會像哆啦A夢一樣，找到一堆沒用的東西。</p></td>
 </tr>
 <tr class="odd">
 <td><p>四度空間嫩葉卡</p></td>
@@ -10164,14 +10165,7 @@ X射線探測器、<br />
 
 ## 參考資料
 
-[Category:日本漫畫](https://zh.wikipedia.org/wiki/Category:日本漫畫 "wikilink")
-[Category:科幻漫畫](https://zh.wikipedia.org/wiki/Category:科幻漫畫 "wikilink")
-[Category:兒童漫畫](https://zh.wikipedia.org/wiki/Category:兒童漫畫 "wikilink")
-[Category:青少年漫畫](https://zh.wikipedia.org/wiki/Category:青少年漫畫 "wikilink")
-[Category:兒童叢書](https://zh.wikipedia.org/wiki/Category:兒童叢書 "wikilink")
-[Category:青少年叢書](https://zh.wikipedia.org/wiki/Category:青少年叢書 "wikilink")
-[Category:哆啦A夢道具](https://zh.wikipedia.org/wiki/Category:哆啦A夢道具 "wikilink")
-[Category:虛構事物列表](https://zh.wikipedia.org/wiki/Category:虛構事物列表 "wikilink")
+[Category:日本漫畫](https://zh.wikipedia.org/wiki/Category:日本漫畫 "wikilink") [Category:科幻漫畫](https://zh.wikipedia.org/wiki/Category:科幻漫畫 "wikilink") [Category:兒童漫畫](https://zh.wikipedia.org/wiki/Category:兒童漫畫 "wikilink") [Category:青少年漫畫](https://zh.wikipedia.org/wiki/Category:青少年漫畫 "wikilink") [Category:兒童叢書](https://zh.wikipedia.org/wiki/Category:兒童叢書 "wikilink") [Category:青少年叢書](https://zh.wikipedia.org/wiki/Category:青少年叢書 "wikilink") [Category:哆啦A夢道具](https://zh.wikipedia.org/wiki/Category:哆啦A夢道具 "wikilink") [Category:虛構事物列表](https://zh.wikipedia.org/wiki/Category:虛構事物列表 "wikilink")
 
 1.  [哆啦A夢中文網道具資料庫](https://chinesedora.com/gadget/)
 2.  2009年8月3日翡翠台播送版本。

@@ -1,4 +1,4 @@
-《**壹號皇庭V**》（[英文](https://zh.wikipedia.org/wiki/英語 "wikilink")：），[香港](../Page/香港.md "wikilink")[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[翡翠台時裝法律](../Page/翡翠台.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，於1997年3月10日首播，共45集，監製[鄧特希](../Page/鄧特希.md "wikilink")。星期一至五播出\[1\]\[2\]。
+《**壹號皇庭V**》（[英文](https://zh.wikipedia.org/wiki/英語 "wikilink")：），[香港](../Page/香港.md "wikilink")[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")時裝法律[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，於1997年3月10日首播，共45集，監製[鄧特希](../Page/鄧特希.md "wikilink")。星期一至五播出\[1\]\[2\]。
 
 ## 演員表
 
@@ -95,7 +95,7 @@
 <td><p>周少聰</p></td>
 <td><p>Eric<br />
 大律師<br />
-於第8集在<a href="../Page/中國.md" title="wikilink">中國被孫海基用刀殺死</a></p></td>
+於第8集在<a href="../Page/中國.md" title="wikilink">中國</a>被孫海基用刀殺死</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/楚原.md" title="wikilink">楚　原</a></p></td>
@@ -207,7 +207,7 @@
 <td><p>張家賢</p></td>
 <td><p>Jeff<br />
 於第12集被方偉豪教唆曾錦成槍殺<br />
-（第二至四輯由<a href="../Page/洪朝豐.md" title="wikilink">洪朝豐飾演</a>）</p></td>
+（第二至四輯由<a href="../Page/洪朝豐.md" title="wikilink">洪朝豐</a>飾演）</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/何嘉麗_(演員).md" title="wikilink">何嘉麗</a></p></td>
@@ -256,7 +256,7 @@
 <td><p><a href="../Page/張鴻昌.md" title="wikilink">張鴻昌</a></p></td>
 <td><p>孫海基</p></td>
 <td><p>於第8集在<a href="https://zh.wikipedia.org/wiki/大陸" title="wikilink">大陸用刀殺死周少聰</a>、張小燕<br />
-後於第10集在<a href="../Page/中國.md" title="wikilink">中國被判死刑</a></p></td>
+後於第10集在<a href="../Page/中國.md" title="wikilink">中國</a>被判死刑</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/黃偉森" title="wikilink">黃偉森</a></p></td>
@@ -1159,13 +1159,9 @@
 
 ## 歌曲
 
-  - 主題音樂：《[Your Latest
-    Trick](https://zh.wikipedia.org/wiki/Your_Latest_Trick "wikilink")》
-      - SAXO-PHONE：[Phil
-        Rombaoa](https://zh.wikipedia.org/wiki/Phil_Rombaoa "wikilink")
-      - 作曲：[Mark
-        Knopfler](https://zh.wikipedia.org/wiki/Mark_Knopfler "wikilink")
-        / [羅雁武](https://zh.wikipedia.org/wiki/羅雁武 "wikilink")
+  - 主題音樂：《[Your Latest Trick](https://zh.wikipedia.org/wiki/Your_Latest_Trick "wikilink")》
+      - SAXO-PHONE：[Phil Rombaoa](https://zh.wikipedia.org/wiki/Phil_Rombaoa "wikilink")
+      - 作曲：[Mark Knopfler](https://zh.wikipedia.org/wiki/Mark_Knopfler "wikilink") / [羅雁武](https://zh.wikipedia.org/wiki/羅雁武 "wikilink")
 
 <!-- end list -->
 
@@ -1184,46 +1180,36 @@
 <!-- end list -->
 
   - 插曲《That's Why （You Go Away）》
-      - 作曲：[Jascha
-        Richter](https://zh.wikipedia.org/wiki/Jascha_Richter "wikilink")
-      - 填詞：[Jascha
-        Richter](https://zh.wikipedia.org/wiki/Jascha_Richter "wikilink")
-      - 主唱：[Michael Learns to
-        Rock](https://zh.wikipedia.org/wiki/Michael_Learns_to_Rock "wikilink")
+      - 作曲：[Jascha Richter](https://zh.wikipedia.org/wiki/Jascha_Richter "wikilink")
+      - 填詞：[Jascha Richter](https://zh.wikipedia.org/wiki/Jascha_Richter "wikilink")
+      - 主唱：[Michael Learns to Rock](https://zh.wikipedia.org/wiki/Michael_Learns_to_Rock "wikilink")
 
 <!-- end list -->
 
   - 插曲《What Will I Do》
       - 作曲：[Cagnet](https://zh.wikipedia.org/wiki/Cagnet "wikilink")
       - 填詞：[Cagnet](https://zh.wikipedia.org/wiki/Cagnet "wikilink")
-      - 主唱：[Natalie
-        Burks](https://zh.wikipedia.org/wiki/Natalie_Burks "wikilink")
+      - 主唱：[Natalie Burks](https://zh.wikipedia.org/wiki/Natalie_Burks "wikilink")
 
 <!-- end list -->
 
   - 插曲《Close To Me》
       - 作曲：[Cagnet](https://zh.wikipedia.org/wiki/Cagnet "wikilink")
       - 填詞：[Cagnet](https://zh.wikipedia.org/wiki/Cagnet "wikilink")
-      - 主唱：[Natalie
-        Burks](https://zh.wikipedia.org/wiki/Natalie_Burks "wikilink")
+      - 主唱：[Natalie Burks](https://zh.wikipedia.org/wiki/Natalie_Burks "wikilink")
 
 ## 軼事
 
-  - 此劇是[陳慧珊首次參演](../Page/陳慧珊.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")。
+  - 此劇是[陳慧珊](../Page/陳慧珊.md "wikilink")首次參演[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")。
 
 ## 參考
 
 ## 外部連結
 
-  - [無綫電視官方網頁 -
-    壹號皇庭V](https://web.archive.org/web/20080726205419/http://tvcity.tvb.com/drama/file/index.htm)
-  - [《壹號皇庭Ⅴ》 GOTV
-    第1集重溫](https://web.archive.org/web/20140222162532/http://gotv.tvb.com/programme/102316/148238/)
+  - [無綫電視官方網頁 - 壹號皇庭V](https://web.archive.org/web/20080726205419/http://tvcity.tvb.com/drama/file/index.htm)
+  - [《壹號皇庭Ⅴ》 GOTV 第1集重溫](https://web.archive.org/web/20140222162532/http://gotv.tvb.com/programme/102316/148238/)
 
-[Category:1997年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:1997年無綫電視劇集 "wikilink")
-[Category:無綫電視1990年代背景劇集](https://zh.wikipedia.org/wiki/Category:無綫電視1990年代背景劇集 "wikilink")
+[Category:1997年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:1997年無綫電視劇集 "wikilink") [Category:無綫電視1990年代背景劇集](https://zh.wikipedia.org/wiki/Category:無綫電視1990年代背景劇集 "wikilink")
 
-1.  [【洗腦20年】《壹號皇庭V》帶挈爆紅 MLTR上大台熱爆Google流行榜
-    (游大東)](https://hk.lifestyle.appledaily.com/nextplus/magazine/article/20171205/2_523376_0/-%E6%B4%97%E8%85%A620%E5%B9%B4-%E5%A3%B9%E8%99%9F%E7%9A%87%E5%BA%ADV-%E5%B8%B6%E6%8C%88%E7%88%86%E7%B4%85-MLTR%E4%B8%8A%E5%A4%A7%E5%8F%B0%E7%86%B1%E7%88%86Google%E6%B5%81%E8%A1%8C%E6%A6%9C-%E6%B8%B8%E5%A4%A7%E6%9D%B1-)
-2.  [《壹號皇庭V》神秘歌曲《No
-    Matter》原來是TVB劇萬能key](https://www.hk01.com/%E5%A8%9B%E6%A8%82/140872/-%E5%A3%B9%E8%99%9F%E7%9A%87%E5%BA%ADV-%E7%A5%9E%E7%A7%98%E6%AD%8C%E6%9B%B2-No-Matter-%E5%8E%9F%E4%BE%86%E6%98%AFTVB%E5%8A%87%E8%90%AC%E8%83%BDkey)
+1.  [【洗腦20年】《壹號皇庭V》帶挈爆紅 MLTR上大台熱爆Google流行榜 (游大東)](https://hk.lifestyle.appledaily.com/nextplus/magazine/article/20171205/2_523376_0/-%E6%B4%97%E8%85%A620%E5%B9%B4-%E5%A3%B9%E8%99%9F%E7%9A%87%E5%BA%ADV-%E5%B8%B6%E6%8C%88%E7%88%86%E7%B4%85-MLTR%E4%B8%8A%E5%A4%A7%E5%8F%B0%E7%86%B1%E7%88%86Google%E6%B5%81%E8%A1%8C%E6%A6%9C-%E6%B8%B8%E5%A4%A7%E6%9D%B1-)
+2.  [《壹號皇庭V》神秘歌曲《No Matter》原來是TVB劇萬能key](https://www.hk01.com/%E5%A8%9B%E6%A8%82/140872/-%E5%A3%B9%E8%99%9F%E7%9A%87%E5%BA%ADV-%E7%A5%9E%E7%A7%98%E6%AD%8C%E6%9B%B2-No-Matter-%E5%8E%9F%E4%BE%86%E6%98%AFTVB%E5%8A%87%E8%90%AC%E8%83%BDkey)

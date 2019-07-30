@@ -1,5 +1,4 @@
-《**Be My
-Valentine**》是[歌手](../Page/歌手.md "wikilink")[古巨基的流行](../Page/古巨基.md "wikilink")[音樂專輯](https://zh.wikipedia.org/wiki/音樂 "wikilink")，於1998年12月29日正式發行。
+《**Be My Valentine**》是[歌手](../Page/歌手.md "wikilink")[古巨基](../Page/古巨基.md "wikilink")的流行[音樂專輯](https://zh.wikipedia.org/wiki/音樂 "wikilink")，於1998年12月29日正式發行。
 
 ## 派台歌曲成績
 
@@ -13,7 +12,4 @@ Valentine**》是[歌手](../Page/歌手.md "wikilink")[古巨基的流行](../P
 
 [古巨基](../Page/古巨基.md "wikilink")
 
-[Category:古巨基音樂專輯](https://zh.wikipedia.org/wiki/Category:古巨基音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:1998年音樂專輯](https://zh.wikipedia.org/wiki/Category:1998年音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
+[Category:古巨基音樂專輯](https://zh.wikipedia.org/wiki/Category:古巨基音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:1998年音樂專輯](https://zh.wikipedia.org/wiki/Category:1998年音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")

@@ -1,35 +1,28 @@
-**和谐号CRH3型电力动车组**，是[中华人民共和国铁道部为营运新建的](../Page/中华人民共和国铁道部.md "wikilink")[高速城际铁路及客运专线](https://zh.wikipedia.org/wiki/中国高速铁路 "wikilink")，而向[德国](../Page/德国.md "wikilink")[西门子交通集团和](https://zh.wikipedia.org/wiki/西门子交通集团 "wikilink")[中国北车集团](https://zh.wikipedia.org/wiki/中国北车集团 "wikilink")[唐山轨道客车有限责任公司订购的](https://zh.wikipedia.org/wiki/唐山轨道客车 "wikilink")[CRH系列高速](https://zh.wikipedia.org/wiki/CRH "wikilink")[动车组](https://zh.wikipedia.org/wiki/动车组 "wikilink")（只限CRH3A，CRH3C由[中国铁路总公司分別向](../Page/中国铁路总公司.md "wikilink")[唐山轨道客车有限责任公司和](https://zh.wikipedia.org/wiki/唐山轨道客车 "wikilink")[长春轨道客车股份有限公司订购](https://zh.wikipedia.org/wiki/长春轨道客车 "wikilink")）。中国铁道部将所有引进国外技术、联合设计生产的[中国铁路高速](https://zh.wikipedia.org/wiki/中国铁路高速 "wikilink")（CRH）车辆均命名为「**[和谐号](https://zh.wikipedia.org/wiki/和谐号 "wikilink")**」。
+**和谐号CRH3型电力动车组**，是[中华人民共和国铁道部](../Page/中华人民共和国铁道部.md "wikilink")为营运新建的[高速城际铁路及客运专线](https://zh.wikipedia.org/wiki/中国高速铁路 "wikilink")，而向[德国](../Page/德国.md "wikilink")[西门子交通集团和](https://zh.wikipedia.org/wiki/西门子交通集团 "wikilink")[中国北车集团](https://zh.wikipedia.org/wiki/中国北车集团 "wikilink")[唐山轨道客车有限责任公司订购的](https://zh.wikipedia.org/wiki/唐山轨道客车 "wikilink")[CRH系列高速](https://zh.wikipedia.org/wiki/CRH "wikilink")[动车组](https://zh.wikipedia.org/wiki/动车组 "wikilink")（只限CRH3A，CRH3C由[中国铁路总公司](../Page/中国铁路总公司.md "wikilink")分別向[唐山轨道客车有限责任公司和](https://zh.wikipedia.org/wiki/唐山轨道客车 "wikilink")[长春轨道客车股份有限公司订购](https://zh.wikipedia.org/wiki/长春轨道客车 "wikilink")）。中国铁道部将所有引进国外技术、联合设计生产的[中国铁路高速](https://zh.wikipedia.org/wiki/中国铁路高速 "wikilink")（CRH）车辆均命名为「**[和谐号](https://zh.wikipedia.org/wiki/和谐号 "wikilink")**」。
 
 ## 概要
 
-CRH3列车的原型为衍生自[德国铁路](../Page/德国铁路.md "wikilink")[ICE-3列車的](../Page/ICE-3列車.md "wikilink")[西门子Velaro平台](../Page/西门子Velaro.md "wikilink")，中国以引進[西门子交通集团先進技術並吸收的方式](https://zh.wikipedia.org/wiki/西门子交通集团 "wikilink")，由[中国北车](https://zh.wikipedia.org/wiki/中国北车集团 "wikilink")[唐山轨道客车在国内生产实现国产化](https://zh.wikipedia.org/wiki/唐山轨道客车 "wikilink")。2004年8月，鐵道部展開為用於中國鐵路第六次大提速、時速200公里級別的第一輪高速動車組技術引進招標，結果西門子公司因提出高昂的轉讓技術、車輛造價費用（原型车每列3.5亿元人民币，技术转让费3.9亿欧元）而無法在第一輪招標獲得任何訂單。至2005年11月，中國鐵道部與德國西門子在「以市場換技術」的原則下簽訂協議，西門子因而獲得60列時速300公里的高速列車訂單，总值6.69亿欧元（原型车每列2.5亿元人民币，技术转让费8000万欧元），最终被定型为CRH3C。
+CRH3列车的原型为衍生自[德国铁路](../Page/德国铁路.md "wikilink")[ICE-3列車](../Page/ICE-3列車.md "wikilink")的[西门子Velaro](../Page/西门子Velaro.md "wikilink")平台，中国以引進[西门子交通集团先進技術並吸收的方式](https://zh.wikipedia.org/wiki/西门子交通集团 "wikilink")，由[中国北车](https://zh.wikipedia.org/wiki/中国北车集团 "wikilink")[唐山轨道客车在国内生产实现国产化](https://zh.wikipedia.org/wiki/唐山轨道客车 "wikilink")。2004年8月，鐵道部展開為用於中國鐵路第六次大提速、時速200公里級別的第一輪高速動車組技術引進招標，結果西門子公司因提出高昂的轉讓技術、車輛造價費用（原型车每列3.5亿元人民币，技术转让费3.9亿欧元）而無法在第一輪招標獲得任何訂單。至2005年11月，中國鐵道部與德國西門子在「以市場換技術」的原則下簽訂協議，西門子因而獲得60列時速300公里的高速列車訂單，总值6.69亿欧元（原型车每列2.5亿元人民币，技术转让费8000万欧元），最终被定型为CRH3C。
 
 ### CRH3A
 
-[CRH3A-3087_EMU_at_Chengdu_East_Railway_Station.jpg](https://zh.wikipedia.org/wiki/File:CRH3A-3087_EMU_at_Chengdu_East_Railway_Station.jpg "fig:CRH3A-3087_EMU_at_Chengdu_East_Railway_Station.jpg")\]\]
-CRH3A型的原型衍生自[CRH5和](https://zh.wikipedia.org/wiki/CRH5 "wikilink")[CJ1平台](https://zh.wikipedia.org/wiki/CJ1 "wikilink")，由中國北車主導，中國北車所屬長客股份公司設計生產，並於2013年6月8日在長客亮相。CJ1型動車組以[CRH380BL技術平台為基礎](https://zh.wikipedia.org/wiki/CRH380BL "wikilink")，借鑑了CRH380BL、[CRH380CL](https://zh.wikipedia.org/wiki/CRH380CL "wikilink")、CRH380B、CRH5型動車組的優點，研製開發的自主知識產權動車組。
-CRH3A型動車組列車不完全與CJ1型實驗列車相同，採用新頭型，統型化的車內定員與設施配置，在優化空氣動力性能的同時，也減少了乘客上車後難於找到相應需求設施的難度，有利於乘車體驗的統一，減少乘客學習設施分佈的需要。
+[CRH3A-3087_EMU_at_Chengdu_East_Railway_Station.jpg](https://zh.wikipedia.org/wiki/File:CRH3A-3087_EMU_at_Chengdu_East_Railway_Station.jpg "fig:CRH3A-3087_EMU_at_Chengdu_East_Railway_Station.jpg")\]\] CRH3A型的原型衍生自[CRH5和](https://zh.wikipedia.org/wiki/CRH5 "wikilink")[CJ1平台](https://zh.wikipedia.org/wiki/CJ1 "wikilink")，由中國北車主導，中國北車所屬長客股份公司設計生產，並於2013年6月8日在長客亮相。CJ1型動車組以[CRH380BL技術平台為基礎](https://zh.wikipedia.org/wiki/CRH380BL "wikilink")，借鑑了CRH380BL、[CRH380CL](https://zh.wikipedia.org/wiki/CRH380CL "wikilink")、CRH380B、CRH5型動車組的優點，研製開發的自主知識產權動車組。 CRH3A型動車組列車不完全與CJ1型實驗列車相同，採用新頭型，統型化的車內定員與設施配置，在優化空氣動力性能的同時，也減少了乘客上車後難於找到相應需求設施的難度，有利於乘車體驗的統一，減少乘客學習設施分佈的需要。
 
 CRH3A型動車組列車的制動能力比現有的高速動車組列車提高了15%。另外，CRH3A列車也採用了中國自主研發的監測控制系統，以對列車的運營狀態進行實時監控。該車型採用全封閉車體，以期在橋隧比較大的線路運營時保證較好的氣密性與乘坐舒適度。該車型內飾採用中國電力動車組統型內飾設計，沒有「面壁」（即靠車廂兩側的座位無車窗）情況，亦將車窗加大以獲得更好的採光性能。一等座列車採用暖光照明，而二等座車廂為普通白光照明。在行李架下方，設置有座位標識貼。
 
 該型號列車為白色底色，車窗黑色塗裝並在車窗下有單條藍色腰線。另外該列車兩端的駕駛室觀察窗有金色點綴，與[CR400BF](https://zh.wikipedia.org/wiki/CR400BF "wikilink")「復興號」動車組塗裝有相似之處，[火车迷昵称为](https://zh.wikipedia.org/wiki/火车迷 "wikilink")“黄金眼”。
 
-2017年9月份起，CRH3A型陸續下綫交付，首先用於[西成客運專綫本綫車使用](https://zh.wikipedia.org/wiki/西成客運專綫 "wikilink")，但由於无法应付西成客運專線秦岭段的坡度，后退出西成客運專線的运营並陆续转配至[成渝客运专线](../Page/成渝客运专线.md "wikilink")、[成遂渝铁路](https://zh.wikipedia.org/wiki/成遂渝铁路 "wikilink")、[渝贵铁路](../Page/渝贵铁路.md "wikilink")、[贵广客运专线运营](../Page/贵广客运专线.md "wikilink")。
+2017年9月份起，CRH3A型陸續下綫交付，首先用於[西成客運專綫本綫車使用](https://zh.wikipedia.org/wiki/西成客運專綫 "wikilink")，但由於无法应付西成客運專線秦岭段的坡度，后退出西成客運專線的运营並陆续转配至[成渝客运专线](../Page/成渝客运专线.md "wikilink")、[成遂渝铁路](https://zh.wikipedia.org/wiki/成遂渝铁路 "wikilink")、[渝贵铁路](../Page/渝贵铁路.md "wikilink")、[贵广客运专线](../Page/贵广客运专线.md "wikilink")运营。
 
 ### CRH3C
 
-[201606_Headlamp_and_conductor_wire_of_CRH3C.jpg](https://zh.wikipedia.org/wiki/File:201606_Headlamp_and_conductor_wire_of_CRH3C.jpg "fig:201606_Headlamp_and_conductor_wire_of_CRH3C.jpg")最明顯的特征\]\]
-[CRH3C_at_Tianjin_Railway_Station_20171003.jpg](https://zh.wikipedia.org/wiki/File:CRH3C_at_Tianjin_Railway_Station_20171003.jpg "fig:CRH3C_at_Tianjin_Railway_Station_20171003.jpg")
-[CRH3C-3006@SPB_(20180217104648).jpg](https://zh.wikipedia.org/wiki/File:CRH3C-3006@SPB_\(20180217104648\).jpg "fig:CRH3C-3006@SPB_(20180217104648).jpg")的CRH3C-3006于[沙坪坝站](../Page/沙坪坝站.md "wikilink")\]\]
-CRH3C型电力动车组采用动力分散式，每列8节編組，共4節動車和4節拖車（4M4T），最高运营速度达350km/h。列车设有一等座车（ZY）1辆、二等座车（ZE）5辆，二等/特等座车（ZET）一辆和带酒吧的二等座车（ZEC）一辆。其中特等座采用1+2方式布置，一等座采用2+2方式布置，二等座为2+3布置。除了带酒吧的二等座车外，其他车厢所有座位均能旋转。但由于座位安排不合理，二等座车约有一半的靠窗座会出现“面壁”情况，目前为单数靠窗座面壁。
+[201606_Headlamp_and_conductor_wire_of_CRH3C.jpg](https://zh.wikipedia.org/wiki/File:201606_Headlamp_and_conductor_wire_of_CRH3C.jpg "fig:201606_Headlamp_and_conductor_wire_of_CRH3C.jpg")最明顯的特征\]\] [CRH3C_at_Tianjin_Railway_Station_20171003.jpg](https://zh.wikipedia.org/wiki/File:CRH3C_at_Tianjin_Railway_Station_20171003.jpg "fig:CRH3C_at_Tianjin_Railway_Station_20171003.jpg") [CRH3C-3006@SPB_(20180217104648).jpg](https://zh.wikipedia.org/wiki/File:CRH3C-3006@SPB_\(20180217104648\).jpg "fig:CRH3C-3006@SPB_(20180217104648).jpg")的CRH3C-3006于[沙坪坝站](../Page/沙坪坝站.md "wikilink")\]\] CRH3C型电力动车组采用动力分散式，每列8节編組，共4節動車和4節拖車（4M4T），最高运营速度达350km/h。列车设有一等座车（ZY）1辆、二等座车（ZE）5辆，二等/特等座车（ZET）一辆和带酒吧的二等座车（ZEC）一辆。其中特等座采用1+2方式布置，一等座采用2+2方式布置，二等座为2+3布置。除了带酒吧的二等座车外，其他车厢所有座位均能旋转。但由于座位安排不合理，二等座车约有一半的靠窗座会出现“面壁”情况，目前为单数靠窗座面壁。
 
-根据合同，西门子在德国本土制造首批3列CRH3C列车和一些重要部件；并向中方合作伙伴——北车集团唐山轨道客车、[永济电机厂和铁道部研究院提供技术支持和技术转让](https://zh.wikipedia.org/wiki/永济电机厂 "wikilink")，使中国具备相应的生产能力。唐山机车车辆厂将承担其余57列列车的生产，第一阶段国产率是30%，第二阶段将提高到
-50%，最终将达到70%。并且全部列车均使用中国品牌（CRH）。
+根据合同，西门子在德国本土制造首批3列CRH3C列车和一些重要部件；并向中方合作伙伴——北车集团唐山轨道客车、[永济电机厂和铁道部研究院提供技术支持和技术转让](https://zh.wikipedia.org/wiki/永济电机厂 "wikilink")，使中国具备相应的生产能力。唐山机车车辆厂将承担其余57列列车的生产，第一阶段国产率是30%，第二阶段将提高到 50%，最终将达到70%。并且全部列车均使用中国品牌（CRH）。
 
-2組由德國原裝進口的CRH3型列車原稱CRH3A，西门子内部称为Velaro
-CN，原編號為CRH<sub>3</sub>-002A及CRH<sub>3</sub>-004A，后改為002C及004C。第一组进口列车在2007年12月12日在[科勒非爾德舉行了隆重的交接儀式](../Page/克雷费尔德.md "wikilink")，并于2007年12月底在[德国](../Page/德国.md "wikilink")[不来梅装船付运](https://zh.wikipedia.org/wiki/不来梅 "wikilink")，在2008年1月运抵中国天津，随后到[北京环行铁道进行试验](../Page/中国国家铁道试验中心（东郊分院）.md "wikilink")。
+2組由德國原裝進口的CRH3型列車原稱CRH3A，西门子内部称为Velaro CN，原編號為CRH<sub>3</sub>-002A及CRH<sub>3</sub>-004A，后改為002C及004C。第一组进口列车在2007年12月12日在[科勒非爾德舉行了隆重的交接儀式](../Page/克雷费尔德.md "wikilink")，并于2007年12月底在[德国](../Page/德国.md "wikilink")[不来梅装船付运](https://zh.wikipedia.org/wiki/不来梅 "wikilink")，在2008年1月运抵中国天津，随后到[北京环行铁道进行试验](../Page/中国国家铁道试验中心（东郊分院）.md "wikilink")。
 
-由唐山轨道客车在中國制造的國產化CRH3型動車組稱為CRH3C，編號為CRH<sub>3</sub>-001C、CRH<sub>3</sub>-003C、CRH<sub>3</sub>-005C至CRH<sub>3</sub>-060C。其結構與進口車完全相同。首组国产化列车的铝合金车体于2007年9月完成，唐山方面原本预计这组列车会於2008年3月31日正式出厂。惟国产化列车部份零部件未能如期运抵车厂，官方遂把正式下线时间延至4月11日\[1\]\[2\]，而这列由唐山轨道客车制造的第一列国产化CRH3C（CRH<sub>3</sub>-001C）于2008年6月24日上午9时13分在[京津城际铁路的试验中创下了](../Page/京津城际铁路.md "wikilink")394.3公里的最高时速，当天的试验中CRH3C仅用了5分钟左右，速度就提升至300公里／小时\[3\]。
+由唐山轨道客车在中國制造的國產化CRH3型動車組稱為CRH3C，編號為CRH<sub>3</sub>-001C、CRH<sub>3</sub>-003C、CRH<sub>3</sub>-005C至CRH<sub>3</sub>-060C。其結構與進口車完全相同。首组国产化列车的铝合金车体于2007年9月完成，唐山方面原本预计这组列车会於2008年3月31日正式出厂。惟国产化列车部份零部件未能如期运抵车厂，官方遂把正式下线时间延至4月11日\[1\]\[2\]，而这列由唐山轨道客车制造的第一列国产化CRH3C（CRH<sub>3</sub>-001C）于2008年6月24日上午9时13分在[京津城际铁路](../Page/京津城际铁路.md "wikilink")的试验中创下了394.3公里的最高时速，当天的试验中CRH3C仅用了5分钟左右，速度就提升至300公里／小时\[3\]。
 
 随着京津城际铁路于2008年8月1日正式通车运营，CRH3C型动车组也于当日起投入运营，其商用运营时速达350Km/h，是当时世界日常运营时速最快的轮轨高速铁路\[4\]。
 
@@ -39,14 +32,7 @@ CRH<sub>3</sub>-013C重联CRH<sub>3</sub>-017C列车于2009年12月9日在[武�
 
 CRH3C车轮使用的钢材材质较软，车轮不均匀磨耗相对于其他车型更加严重，因此被中国大陆部分[火车迷讽刺称为](https://zh.wikipedia.org/wiki/火车迷 "wikilink")“多边形”（而由於上述原因，CRH3C在[甲種運送時限速](../Page/車輛運送.md "wikilink")80km/h，而非一般機車車輛的120km/h），后续的[CRH380B系列车型已经解决了此问题](https://zh.wikipedia.org/wiki/CRH380B "wikilink")。
 
-<File:CRH3C> VIP compartment 20101003.JPG|特等座席位 <File:201605> Interior
-of First Class of CRH3C.JPG|CRH3C的一等座车 <File:201605> Interior of CRH3C
-Second Class.JPG|CRH3C的二等座车
-[File:WuGuang-CRH3-G1001-Dinning.jpg|CRH3C的餐吧车](File:WuGuang-CRH3-G1001-Dinning.jpg%7CCRH3C的餐吧车)
-<File:201606> Buffet car of CRH3C.jpg|餐吧车的座位 <File:201606> Cleaner
-operation area on
-CRH3C.jpg|CRH3C的清洁护理台，在原[西门子Velaro平台中用作大件行李存放处](../Page/西门子Velaro.md "wikilink")
-[File:CRH3C-at-Tianjin-Station-2.JPG|CRH3C顶部](File:CRH3C-at-Tianjin-Station-2.JPG%7CCRH3C顶部)
+<File:CRH3C> VIP compartment 20101003.JPG|特等座席位 <File:201605> Interior of First Class of CRH3C.JPG|CRH3C的一等座车 <File:201605> Interior of CRH3C Second Class.JPG|CRH3C的二等座车 [File:WuGuang-CRH3-G1001-Dinning.jpg|CRH3C的餐吧车](File:WuGuang-CRH3-G1001-Dinning.jpg%7CCRH3C的餐吧车) <File:201606> Buffet car of CRH3C.jpg|餐吧车的座位 <File:201606> Cleaner operation area on CRH3C.jpg|CRH3C的清洁护理台，在原[西门子Velaro](../Page/西门子Velaro.md "wikilink")平台中用作大件行李存放处 [File:CRH3C-at-Tianjin-Station-2.JPG|CRH3C顶部](File:CRH3C-at-Tianjin-Station-2.JPG%7CCRH3C顶部)
 
 ### CRH3G
 
@@ -95,7 +81,7 @@ CRH3F型动车组采用铝合金轻量化焊接车体，采用2动2拖4编组，
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/广州局集团" title="wikilink">广州局集团</a></p></td>
 <td><p>33</p></td>
-<td><p>3023～3025、3027～3029、3033、3034、3036、3039、3040、3042、3043、3045、3047、3052、3059～3061、3063～3074、3076、3080</p></td>
+<td><p>3023～3025、3027～3030、3034、3036、3039、3040、3042、3043、3045、3047、3052、3059～3061、3063～3074、3076、3080</p></td>
 <td><p>长沙</p></td>
 <td><p><a href="../Page/京广高速铁路.md" title="wikilink">京广</a>-<a href="https://zh.wikipedia.org/wiki/广深港高速铁路" title="wikilink">广深港高速铁路</a>、<a href="../Page/衡柳铁路.md" title="wikilink">衡柳铁路</a>、<a href="https://zh.wikipedia.org/wiki/沪昆高速铁路" title="wikilink">沪昆高速铁路</a>、<a href="../Page/渝贵铁路.md" title="wikilink">渝贵铁路</a>、<a href="https://zh.wikipedia.org/wiki/成渝高速铁路" title="wikilink">成渝高速铁路</a>、<a href="https://zh.wikipedia.org/wiki/合福高铁" title="wikilink">合福高铁</a>、<a href="https://zh.wikipedia.org/wiki/杭福深客运专线" title="wikilink">杭福深铁路</a></p></td>
 <td><p>3061或之后为第二批列车。</p></td>
@@ -366,7 +352,7 @@ ZE 3xxx00</p></td>
   - 營運速度：CRH3A：250km／h／CRH3C：350km／h
   - 試驗速度：394.3km／h
   - 牽引功率：CRH3A：5,500kw／CRH3C：8,800kw
-  - 車體型式：大型中空型[鋁合金車體](../Page/鋁合金.md "wikilink")
+  - 車體型式：大型中空型[鋁合金](../Page/鋁合金.md "wikilink")車體
   - 轉向架：H型無搖枕、轉臂式定位、空氣彈簧
   - 軸重：≤17t
   - 受流電壓制式：AC25kV，50Hz
@@ -406,21 +392,15 @@ ZE 3xxx00</p></td>
 
 ## 外部链接
 
-  - [CRH3/Velaro CN技术资料
-    (西门子，2006，PDF)](https://web.archive.org/web/20111006080030/http://www.siemens.pl/upload/images/TS-Velaro%20CN.pdf)
+  - [CRH3/Velaro CN技术资料 (西门子，2006，PDF)](https://web.archive.org/web/20111006080030/http://www.siemens.pl/upload/images/TS-Velaro%20CN.pdf)
 
-  - [国产化首列铝合金车体在唐山下线
-    (新华网)](https://web.archive.org/web/20071130045347/http://www.he.xinhuanet.com/news/2007-09/04/content_11039774.htm)
+  - [国产化首列铝合金车体在唐山下线 (新华网)](https://web.archive.org/web/20071130045347/http://www.he.xinhuanet.com/news/2007-09/04/content_11039774.htm)
 
-  - [西门子为京津高铁生产列车提前交货
-    (地铁族)](http://www.ditiezu.com/thread-25439-1-1.html)
+  - [西门子为京津高铁生产列车提前交货 (地铁族)](http://www.ditiezu.com/thread-25439-1-1.html)
 
   - [G7409（上海虹桥—杭州）CRH380B-6403L虹桥出发](http://www.youtube.com/watch?v=V9ctr1zrplc)
 
-[Category:西门子製鐵路車輛](https://zh.wikipedia.org/wiki/Category:西门子製鐵路車輛 "wikilink")
-[Category:中车唐山制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车唐山制铁路车辆 "wikilink")
-[Category:25千伏50赫兹交流电力动车组](https://zh.wikipedia.org/wiki/Category:25千伏50赫兹交流电力动车组 "wikilink")
-[Category:和谐号电力动车组](https://zh.wikipedia.org/wiki/Category:和谐号电力动车组 "wikilink")
+[Category:西门子製鐵路車輛](https://zh.wikipedia.org/wiki/Category:西门子製鐵路車輛 "wikilink") [Category:中车唐山制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车唐山制铁路车辆 "wikilink") [Category:25千伏50赫兹交流电力动车组](https://zh.wikipedia.org/wiki/Category:25千伏50赫兹交流电力动车组 "wikilink") [Category:和谐号电力动车组](https://zh.wikipedia.org/wiki/Category:和谐号电力动车组 "wikilink")
 
 1.
 2.

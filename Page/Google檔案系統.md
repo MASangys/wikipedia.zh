@@ -1,4 +1,4 @@
-**Google檔案系統**（，縮寫為**GFS**或GoogleFS），一種专有[分布式文件系统](https://zh.wikipedia.org/wiki/分布式文件系统 "wikilink")，由[Google公司开发](../Page/Google.md "wikilink")，運行於[Linux平台上](../Page/Linux.md "wikilink")\[1\]。尽管Google在2003年公布了该系统的一些技术细节，但Google并没有将该系统的软件部分作为开源软件发布\[2\]。
+**Google檔案系統**（，縮寫為**GFS**或GoogleFS），一種专有[分布式文件系统](https://zh.wikipedia.org/wiki/分布式文件系统 "wikilink")，由[Google](../Page/Google.md "wikilink")公司开发，運行於[Linux](../Page/Linux.md "wikilink")平台上\[1\]。尽管Google在2003年公布了该系统的一些技术细节，但Google并没有将该系统的软件部分作为开源软件发布\[2\]。
 
 2013年，Google公布了Colossus專案，作為下一代的Google檔案系統\[3\]。
 
@@ -18,7 +18,7 @@ GFS专门为Google的核心数据即[页面搜索的存储进行了优化](https
 
 ## 批评意见
 
-只能有一个主服务器——代码不允许存在多个主服务器。这看起来是限制系统可扩展性和可靠性的一个缺陷，因为系统的最大存储容量和正常工作时间受制于主服务器的容量和正常工作时间，也因为它要将所有的元数据进行编制，并且因为几乎所有的动作和请求都经过它；但是Google的工程师们辩解说事实并不是这样。元数据是非常紧凑的，仅仅只有数K到数M的大小，并且主服务器通常是网络上性能最好的节点之一；至于可靠性，通常有一个“影子”主服务器制作主服务器的[镜像](https://zh.wikipedia.org/wiki/mirror_\(computing\) "wikilink")，一旦主服务器失败它将接替工作。另外，主服务器极少成为瓶颈，因为客户端仅仅取得元数据然后将它们[缓存起来](../Page/缓存.md "wikilink")；随后的交互工作是直接与chunkservers进行。同样，使用单个的主服务器可以大幅度地降低软件的复杂性，如果有多个的主服务器，软件将变得复杂以能够保证数据完整性、自动操作、负载均衡和安全性。
+只能有一个主服务器——代码不允许存在多个主服务器。这看起来是限制系统可扩展性和可靠性的一个缺陷，因为系统的最大存储容量和正常工作时间受制于主服务器的容量和正常工作时间，也因为它要将所有的元数据进行编制，并且因为几乎所有的动作和请求都经过它；但是Google的工程师们辩解说事实并不是这样。元数据是非常紧凑的，仅仅只有数K到数M的大小，并且主服务器通常是网络上性能最好的节点之一；至于可靠性，通常有一个“影子”主服务器制作主服务器的[镜像](https://zh.wikipedia.org/wiki/mirror_\(computing\) "wikilink")，一旦主服务器失败它将接替工作。另外，主服务器极少成为瓶颈，因为客户端仅仅取得元数据然后将它们[缓存](../Page/缓存.md "wikilink")起来；随后的交互工作是直接与chunkservers进行。同样，使用单个的主服务器可以大幅度地降低软件的复杂性，如果有多个的主服务器，软件将变得复杂以能够保证数据完整性、自动操作、负载均衡和安全性。
 
 ## 参考文献
 
@@ -32,23 +32,12 @@ GFS专门为Google的核心数据即[页面搜索的存储进行了优化](https
 
   - [Hadoop](https://zh.wikipedia.org/wiki/Hadoop "wikilink")－[Apache軟件基金會的](https://zh.wikipedia.org/wiki/Apache軟件基金會 "wikilink")[開放源碼項目](https://zh.wikipedia.org/wiki/開放源碼 "wikilink")，提供與Google檔案系統類似的功能。
   - [Google产品列表](../Page/Google产品列表.md "wikilink")
-  - Gmail文件系统[GmailFS使用一个可加载的Linux文件系统](../Page/GmailFS.md "wikilink")，它使用Gmail帐号作为存储媒介。
+  - Gmail文件系统[GmailFS](../Page/GmailFS.md "wikilink")使用一个可加载的Linux文件系统，它使用Gmail帐号作为存储媒介。
 
 {{-}}
 
-[Category:网络文件系统](https://zh.wikipedia.org/wiki/Category:网络文件系统 "wikilink")
-[Category:Google軟體](https://zh.wikipedia.org/wiki/Category:Google軟體 "wikilink")
-[Category:并行计算](https://zh.wikipedia.org/wiki/Category:并行计算 "wikilink")
-[Category:Linux内核支持的分布式文件系统](https://zh.wikipedia.org/wiki/Category:Linux内核支持的分布式文件系统 "wikilink")
+[Category:网络文件系统](https://zh.wikipedia.org/wiki/Category:网络文件系统 "wikilink") [Category:Google軟體](https://zh.wikipedia.org/wiki/Category:Google軟體 "wikilink") [Category:并行计算](https://zh.wikipedia.org/wiki/Category:并行计算 "wikilink") [Category:Linux内核支持的分布式文件系统](https://zh.wikipedia.org/wiki/Category:Linux内核支持的分布式文件系统 "wikilink")
 
-1.  Google提供的论文[The Google File
-    System](http://research.google.com/archive/gfs.html)中，多处提到
-2.  "Despite having published details on technologies like the Google
-    File System, Google has not released the software as open source and
-    shows little interest in selling it. The only way it is available to
-    another enterprise is in embedded form--if you buy a high-end
-    version of the Google Search Appliance, one that is delivered as a
-    rack of servers, you get Google's technology for managing that
-    cluster as part of the package." ["How Google
-    Works"](http://www.baselinemag.com/article2/0,1540,1985046,00.asp)
+1.  Google提供的论文[The Google File System](http://research.google.com/archive/gfs.html)中，多处提到
+2.  "Despite having published details on technologies like the Google File System, Google has not released the software as open source and shows little interest in selling it. The only way it is available to another enterprise is in embedded form--if you buy a high-end version of the Google Search Appliance, one that is delivered as a rack of servers, you get Google's technology for managing that cluster as part of the package." ["How Google Works"](http://www.baselinemag.com/article2/0,1540,1985046,00.asp)
 3.  .

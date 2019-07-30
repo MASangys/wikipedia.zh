@@ -1,5 +1,4 @@
-**NEEKO**（、），本名**西萩五十鈴**，[日本](../Page/日本.md "wikilink")[模特兒及](../Page/模特兒.md "wikilink")[聲優](../Page/聲優.md "wikilink")，[Smile
-Maker所屬](https://zh.wikipedia.org/wiki/Smile_Maker "wikilink")，[兵庫縣出身](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")。於2015年2月在自己的部落格上發表已經結婚並懷孕的訊息，同年的8月2日長男出生。
+**NEEKO**（、），本名**西萩五十鈴**，[日本](../Page/日本.md "wikilink")[模特兒](../Page/模特兒.md "wikilink")及[聲優](../Page/聲優.md "wikilink")，[Smile Maker所屬](https://zh.wikipedia.org/wiki/Smile_Maker "wikilink")，[兵庫縣出身](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")。於2015年2月在自己的部落格上發表已經結婚並懷孕的訊息，同年的8月2日長男出生。
 
 ## 演出作品
 
@@ -7,13 +6,12 @@ Maker所屬](https://zh.wikipedia.org/wiki/Smile_Maker "wikilink")，[兵庫縣�
 
 **2006年**
 
-  - [家庭教師HITMAN
-    REBORN\!](../Page/家庭教師HITMAN_REBORN!_\(動畫\).md "wikilink")（**里包恩**）
+  - [家庭教師HITMAN REBORN\!](../Page/家庭教師HITMAN_REBORN!_\(動畫\).md "wikilink")（**里包恩**）
 
 <!-- end list -->
 
   -
-    聲優出道作，[週刊少年Jump連載中REBORN的主角](../Page/週刊少年Jump.md "wikilink")。
+    聲優出道作，[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")連載中REBORN的主角。
 
 **2007年**
 
@@ -38,8 +36,7 @@ Maker所屬](https://zh.wikipedia.org/wiki/Smile_Maker "wikilink")，[兵庫縣�
 
 ### 遊戲
 
-  - [家庭教師HITMAN
-    REBORN\!シリーズ](https://zh.wikipedia.org/wiki/家庭教師HITMAN_REBORN! "wikilink")（**里包恩**）
+  - [家庭教師HITMAN REBORN\!シリーズ](https://zh.wikipedia.org/wiki/家庭教師HITMAN_REBORN! "wikilink")（**里包恩**）
       - 家庭教師ヒットマンREBORN\!DS 死ぬ気MAX\!ボンゴレカーニバル\!\!
       - 家庭教師ヒットマンREBORN\!DS フレイムランブル骸強襲\!
       - 家庭教師ヒットマンREBORN\! ドリームハイパーバトル\!
@@ -56,9 +53,6 @@ Maker所屬](https://zh.wikipedia.org/wiki/Smile_Maker "wikilink")，[兵庫縣�
 ## 外部連結
 
   - [](https://web.archive.org/web/20070402130854/http://www.neeko21.com/)
-  - [Smile
-    Maker官方網](https://web.archive.org/web/20070928071452/http://www.smilemaker.co.jp/sub/neeko.html)
+  - [Smile Maker官方網](https://web.archive.org/web/20070928071452/http://www.smilemaker.co.jp/sub/neeko.html)
 
-[Category:日本女性模特兒](https://zh.wikipedia.org/wiki/Category:日本女性模特兒 "wikilink")
-[Category:日本女性配音員](https://zh.wikipedia.org/wiki/Category:日本女性配音員 "wikilink")
-[Category:兵庫縣出身人物](https://zh.wikipedia.org/wiki/Category:兵庫縣出身人物 "wikilink")
+[Category:日本女性模特兒](https://zh.wikipedia.org/wiki/Category:日本女性模特兒 "wikilink") [Category:日本女性配音員](https://zh.wikipedia.org/wiki/Category:日本女性配音員 "wikilink") [Category:兵庫縣出身人物](https://zh.wikipedia.org/wiki/Category:兵庫縣出身人物 "wikilink")

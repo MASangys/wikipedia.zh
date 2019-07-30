@@ -2,12 +2,9 @@
 
 ## 概要
 
-《白髮魔女》將**英雄傳說**四字作為主標題，確定了《[英雄傳說系列](../Page/英雄傳說系列.md "wikilink")》正式從《[Dragon
-Slayer](https://zh.wikipedia.org/wiki/Dragon_Slayer "wikilink")》系列獨立成為新系列作品。
+《白髮魔女》將**英雄傳說**四字作為主標題，確定了《[英雄傳說系列](../Page/英雄傳說系列.md "wikilink")》正式從《[Dragon Slayer](https://zh.wikipedia.org/wiki/Dragon_Slayer "wikilink")》系列獨立成為新系列作品。
 
-與《[英雄傳說IV -{zh-cn:朱红的泪;
-zh-tw:朱紅血;}-](../Page/英雄傳說IV_朱紅的淚.md "wikilink")》、《[英雄傳說V
-海之檻歌](../Page/英雄傳說V_海之檻歌.md "wikilink")》合稱為《卡卡布三部曲》。
+與《[英雄傳說IV -{zh-cn:朱红的泪; zh-tw:朱紅血;}-](../Page/英雄傳說IV_朱紅的淚.md "wikilink")》、《[英雄傳說V 海之檻歌](../Page/英雄傳說V_海之檻歌.md "wikilink")》合稱為《卡卡布三部曲》。
 
 為《卡卡布三部曲》的首作。卡卡布三部曲這個名稱在《白髮魔女》重製為《新·英雄傳說III 白髮魔女》的時候第一次出現。
 
@@ -17,8 +14,7 @@ zh-tw:朱紅血;}-](../Page/英雄傳說IV_朱紅的淚.md "wikilink")》、《[
 
 ## 剧情提要
 
-故事发生在卡卡布一侧的提拉斯依鲁(Tirasweel)大陆。
-卡卡布历992年，拉克比库村的杰立欧和克莉丝这两个少年男女展开了作为成人礼仪式的周游提拉斯依鲁大陆的巡礼。
+故事发生在卡卡布一侧的提拉斯依鲁(Tirasweel)大陆。 卡卡布历992年，拉克比库村的杰立欧和克莉丝这两个少年男女展开了作为成人礼仪式的周游提拉斯依鲁大陆的巡礼。
 在巡礼的途中他们要拜访分布在不同地方的5个夏路，通过观看那里的魔法镜而获得启示。在巡礼的途中，他们听说了很多关于一名在二十年前的叫做耶鲁杜的白发女子的事迹，并逐渐被牵连到一个关系世界命运的阴谋之中。
 
 ## 主要角色
@@ -75,9 +71,7 @@ zh-tw:朱紅血;}-](../Page/英雄傳說IV_朱紅的淚.md "wikilink")》、《[
 <!-- end list -->
 
   -
-    因为年幼时双亲被海中的怪兽-{zh-cn:格路卡; zh-tw:加魯加;
-    zh-hk:格路卡;}-夺去了生命，所以立志要报仇。非常尊敬杜鲁塞-{zh-cn:尔;
-    zh-tw:留; zh-hk:爾;}-。
+    因为年幼时双亲被海中的怪兽-{zh-cn:格路卡; zh-tw:加魯加; zh-hk:格路卡;}-夺去了生命，所以立志要报仇。非常尊敬杜鲁塞-{zh-cn:尔; zh-tw:留; zh-hk:爾;}-。
 
 **阿-{zh-cn:鲁; zh-tw:爾; zh-hk:魯;}-夫(Alf)**
 
@@ -170,16 +164,11 @@ zh-tw:朱紅血;}-](../Page/英雄傳說IV_朱紅的淚.md "wikilink")》、《[
   - [Falcom](https://zh.wikipedia.org/wiki/Falcom "wikilink")
   - [英雄傳說系列](../Page/英雄傳說系列.md "wikilink")
   - [英雄傳說 卡卡布三部曲](../Page/英雄傳說_卡卡布三部曲.md "wikilink")
-  - [英雄傳說IV -{zh-cn:朱红的泪;
-    zh-tw:朱紅血;}-](../Page/英雄傳說IV_朱紅的淚.md "wikilink")
+  - [英雄傳說IV -{zh-cn:朱红的泪; zh-tw:朱紅血;}-](../Page/英雄傳說IV_朱紅的淚.md "wikilink")
   - [英雄傳說V 海之檻歌](../Page/英雄傳說V_海之檻歌.md "wikilink")
 
 ## 外部链接
 
   - [日文版官方主页](http://www.falcom.co.jp/ed3_win/)
 
-[Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink")
-[Category:英雄傳說系列](https://zh.wikipedia.org/wiki/Category:英雄傳說系列 "wikilink")
-[Category:1994年电子游戏](https://zh.wikipedia.org/wiki/Category:1994年电子游戏 "wikilink")
-[Category:日本Falcom游戏](https://zh.wikipedia.org/wiki/Category:日本Falcom游戏 "wikilink")
-[Category:魔女题材作品](https://zh.wikipedia.org/wiki/Category:魔女题材作品 "wikilink")
+[Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink") [Category:英雄傳說系列](https://zh.wikipedia.org/wiki/Category:英雄傳說系列 "wikilink") [Category:1994年电子游戏](https://zh.wikipedia.org/wiki/Category:1994年电子游戏 "wikilink") [Category:日本Falcom游戏](https://zh.wikipedia.org/wiki/Category:日本Falcom游戏 "wikilink") [Category:魔女题材作品](https://zh.wikipedia.org/wiki/Category:魔女题材作品 "wikilink")

@@ -1,5 +1,4 @@
-****是历史上第八次航天飞机任务，也是[-{zh-hans:挑战者号航天飞机;
-zh-hant:挑戰者號太空梭;}-的第三次太空飞行](../Page/挑戰者號太空梭.md "wikilink")。
+****是历史上第八次航天飞机任务，也是[-{zh-hans:挑战者号航天飞机; zh-hant:挑戰者號太空梭;}-的第三次太空飞行](../Page/挑戰者號太空梭.md "wikilink")。
 
 ## 任务成员
 
@@ -9,6 +8,4 @@ zh-hant:挑戰者號太空梭;}-的第三次太空飞行](../Page/挑戰者號�
   - **[圭恩·布鲁福德](../Page/圭恩·布鲁福德.md "wikilink")**（，曾执行、、以及任务），任务专家
   - **[威廉·桑顿](https://zh.wikipedia.org/wiki/威廉·桑顿 "wikilink")**（，曾执行以及任务），任务专家
 
-[Category:载人航天](https://zh.wikipedia.org/wiki/Category:载人航天 "wikilink")
-[Category:航天飞机任务](https://zh.wikipedia.org/wiki/Category:航天飞机任务 "wikilink")
-[Category:1983年科学](https://zh.wikipedia.org/wiki/Category:1983年科学 "wikilink")
+[Category:载人航天](https://zh.wikipedia.org/wiki/Category:载人航天 "wikilink") [Category:航天飞机任务](https://zh.wikipedia.org/wiki/Category:航天飞机任务 "wikilink") [Category:1983年科学](https://zh.wikipedia.org/wiki/Category:1983年科学 "wikilink")

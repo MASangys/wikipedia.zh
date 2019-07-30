@@ -2,15 +2,11 @@
 
 ## 概要
 
-《[超時空要塞](https://zh.wikipedia.org/wiki/超時空要塞 "wikilink")》10週年紀念作品。儘管初代《超時空要塞》製作人員如人物設計[美樹本晴彦](https://zh.wikipedia.org/wiki/美樹本晴彦 "wikilink")、劇本[富田祐弘均有參加](https://zh.wikipedia.org/wiki/富田祐弘 "wikilink")，但主要製作卻以AIC為中心。機械設計最初為[藤田一巳](https://zh.wikipedia.org/wiki/藤田一巳 "wikilink")，後來由[大畑晃一負責](https://zh.wikipedia.org/wiki/大畑晃一 "wikilink")。劇情原設定是[前作](../Page/超时空要塞.md "wikilink")80年後（即2090年）的事，但因为后来《MACROSS
-PLUS》、《MACROSS 7》及《MACROOS
-F》的推出，本作的故事越来越无法承担超时空要塞系列编年史的作用，于是本作被称作平行世界（黑历史）的说法开始流行（此为官方解释）。\[1\]
+《[超時空要塞](https://zh.wikipedia.org/wiki/超時空要塞 "wikilink")》10週年紀念作品。儘管初代《超時空要塞》製作人員如人物設計[美樹本晴彦](https://zh.wikipedia.org/wiki/美樹本晴彦 "wikilink")、劇本[富田祐弘均有參加](https://zh.wikipedia.org/wiki/富田祐弘 "wikilink")，但主要製作卻以AIC為中心。機械設計最初為[藤田一巳](https://zh.wikipedia.org/wiki/藤田一巳 "wikilink")，後來由[大畑晃一負責](https://zh.wikipedia.org/wiki/大畑晃一 "wikilink")。劇情原設定是[前作](../Page/超时空要塞.md "wikilink")80年後（即2090年）的事，但因为后来《MACROSS PLUS》、《MACROSS 7》及《MACROOS F》的推出，本作的故事越来越无法承担超时空要塞系列编年史的作用，于是本作被称作平行世界（黑历史）的说法开始流行（此为官方解释）。\[1\]
 
 為與前作有別而用相反的設定，如「主人公不是飛行員」、「敵人操作歌曲」、「非[傑特拉帝人的外星人](https://zh.wikipedia.org/wiki/傑特拉帝人 "wikilink")」、「王牌飛行員是美少女」等等，再加入《超時空要塞》不可或缺的「歌曲」、「三角關係」、「[女武神](../Page/VF-1女武神.md "wikilink")」三大要素構築新作品\[2\]。
 
-片中雖採「」標誌，實際上以「MACROSS
-II」為主，在[版權糾紛後曾長期替代](https://zh.wikipedia.org/wiki/超时空要塞#版權糾紛 "wikilink")，直到2014年發行Blu-ray
-Box才恢復原標誌使用。
+片中雖採「」標誌，實際上以「MACROSS II」為主，在[版權糾紛後曾長期替代](https://zh.wikipedia.org/wiki/超时空要塞#版權糾紛 "wikilink")，直到2014年發行Blu-ray Box才恢復原標誌使用。
 
 ## 故事簡介
 
@@ -20,8 +16,7 @@ Box才恢復原標誌使用。
 
 戰爭依舊持續著，而伊絲蒂在神崎響的帶領下，漸漸的瞭解了地球的文化，響也由她的口中得知SDF-1馬克羅斯（マクロス）其實原是亞爾斯（アルス）用來傳播愛的船。
 
-神崎響被軍方以知情不報和擅用軍方線路為由監禁。而面對馬爾杜克軍即將發動的總攻擊，部分有遠見的高層私下釋放了他，並希望他與女飛官蘇菲能重新啟動馬克羅斯；終於馬克羅斯升空並發射了主砲，但是並沒有擊沉敵旗艦。正當絕望之時，伊絲蒂趕到並站在當年林明美所站的平台上演唱もういちど
-LOVE YOU 『再一次‧愛你』，藉由所有通信線路的傳播，終於感化了馬爾杜克軍。
+神崎響被軍方以知情不報和擅用軍方線路為由監禁。而面對馬爾杜克軍即將發動的總攻擊，部分有遠見的高層私下釋放了他，並希望他與女飛官蘇菲能重新啟動馬克羅斯；終於馬克羅斯升空並發射了主砲，但是並沒有擊沉敵旗艦。正當絕望之時，伊絲蒂趕到並站在當年林明美所站的平台上演唱もういちど LOVE YOU 『再一次‧愛你』，藉由所有通信線路的傳播，終於感化了馬爾杜克軍。
 
 3日後，馬爾杜克軍與地球簽訂了和平條約，新的領導帶領著重新拾獲文化的同胞們即將啟程前往未知的宇宙彼端，臨行前伊絲蒂向神崎響及蘇菲道別，而這段割捨不下的三角戀情也深植在她的心中永藏心底……。
 
@@ -66,29 +61,16 @@ LOVE YOU 『再一次‧愛你』，藉由所有通信線路的傳播，終於�
 
 ## 黑歷史
 
-[萬代影視在](../Page/萬代影視.md "wikilink")2014年特設Blu-ray
-Box官網上，說明本作被[愛好者列為](https://zh.wikipedia.org/wiki/愛好者 "wikilink")「黑歷史」的主要原因：
+[萬代影視](../Page/萬代影視.md "wikilink")在2014年特設Blu-ray Box官網上，說明本作被[愛好者列為](https://zh.wikipedia.org/wiki/愛好者 "wikilink")「黑歷史」的主要原因：
 
-1.  設定80年後遙遠未來，不如《[Macross
-    Plus](../Page/Macross_Plus.md "wikilink")》、《[Macross
-    7](https://zh.wikipedia.org/wiki/Macross_7 "wikilink")》、《[Macross
-    F](https://zh.wikipedia.org/wiki/Macross_F "wikilink")》填補《[超時空要塞](https://zh.wikipedia.org/wiki/超時空要塞 "wikilink")》人類移民宇宙歷史來得貼近。
+1.  設定80年後遙遠未來，不如《[Macross Plus](../Page/Macross_Plus.md "wikilink")》、《[Macross 7](https://zh.wikipedia.org/wiki/Macross_7 "wikilink")》、《[Macross F](https://zh.wikipedia.org/wiki/Macross_F "wikilink")》填補《[超時空要塞](https://zh.wikipedia.org/wiki/超時空要塞 "wikilink")》人類移民宇宙歷史來得貼近。
 2.  Macross年表並未提及所致。
 
-這種說法顯然避重就輕，其實是《超時空要塞》原主要製作者對該作不滿意。[板野一郎表示若非](../Page/板野一郎.md "wikilink")《超時空要塞II》與他們所想的連不起來，是不會做《Macross
-Plus》\[5\]；那時年表未提及，乃因[河森正治操刀的世界觀排除之](../Page/河森正治.md "wikilink")。既然電影《[超時空要塞：愛，還記得嗎？](https://zh.wikipedia.org/wiki/超時空要塞：愛，還記得嗎？ "wikilink")》是劇中劇，延用其世界觀的《超時空要塞II》就當成平行故事\[6\]\[7\]。
+這種說法顯然避重就輕，其實是《超時空要塞》原主要製作者對該作不滿意。[板野一郎](../Page/板野一郎.md "wikilink")表示若非《超時空要塞II》與他們所想的連不起來，是不會做《Macross Plus》\[5\]；那時年表未提及，乃因[河森正治](../Page/河森正治.md "wikilink")操刀的世界觀排除之。既然電影《[超時空要塞：愛，還記得嗎？](https://zh.wikipedia.org/wiki/超時空要塞：愛，還記得嗎？ "wikilink")》是劇中劇，延用其世界觀的《超時空要塞II》就當成平行故事\[6\]\[7\]。
 
-而河森在《Macross Plus》、《Macross
-7》時則有解釋，指出各自是架空世界中依歷史創作作品，未必以史實為限\[8\]。年表可由當政者隨意詮釋\[9\]，虛構作品風格也不同，像《超時空要塞》是日常電視劇、《超時空要塞：愛，還記得嗎？》是舞台劇、《Macross
-Plus》是外片、《Macross 7》是漫画、《[Macross
-Zero](https://zh.wikipedia.org/wiki/Macross_Zero "wikilink")》是神話想像、《[Macross
-F](https://zh.wikipedia.org/wiki/Macross_F "wikilink")》是校園青春\[10\]。
+而河森在《Macross Plus》、《Macross 7》時則有解釋，指出各自是架空世界中依歷史創作作品，未必以史實為限\[8\]。年表可由當政者隨意詮釋\[9\]，虛構作品風格也不同，像《超時空要塞》是日常電視劇、《超時空要塞：愛，還記得嗎？》是舞台劇、《Macross Plus》是外片、《Macross 7》是漫画、《[Macross Zero](https://zh.wikipedia.org/wiki/Macross_Zero "wikilink")》是神話想像、《[Macross F](https://zh.wikipedia.org/wiki/Macross_F "wikilink")》是校園青春\[10\]。
 
-近年來更一改過去排除作法，於《Macross
-F》中玩起本作的[哏](https://zh.wikipedia.org/wiki/哏 "wikilink")（《Macross
-7》雖有但是特典惡搞性質）；《Macross
-Ace》的「超時空歷史年表」\[11\]，以及「30週年Macross超時空展覽會」的「Macross
-History」已將《超時空要塞II》相關歷史整合納入。
+近年來更一改過去排除作法，於《Macross F》中玩起本作的[哏](https://zh.wikipedia.org/wiki/哏 "wikilink")（《Macross 7》雖有但是特典惡搞性質）；《Macross Ace》的「超時空歷史年表」\[11\]，以及「30週年Macross超時空展覽會」的「Macross History」已將《超時空要塞II》相關歷史整合納入。
 
 ## 註釋
 
@@ -102,8 +84,7 @@ History」已將《超時空要塞II》相關歷史整合納入。
 1.
 2.
 
-3.  目前主要有2090年（Macross
-    Ace、[萬代影視](../Page/萬代影視.md "wikilink")）、2091年（30週年Macross超時空展覽會）、2092年（原聲帶vol.2小冊子）三種說法。
+3.  目前主要有2090年（Macross Ace、[萬代影視](../Page/萬代影視.md "wikilink")）、2091年（30週年Macross超時空展覽會）、2092年（原聲帶vol.2小冊子）三種說法。
 
 4.  富田祐弘『超時空要塞マクロスII』Vo.1 22頁
 

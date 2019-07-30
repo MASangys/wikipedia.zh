@@ -1,10 +1,10 @@
 **交易所交易基金、交易所買賣基金**（，常常縮寫為**ETF**，臺譯指數型證券投資信託基金），是一種在[證券交易所交易](https://zh.wikipedia.org/wiki/證券交易所 "wikilink")，提供投資人參與指數表現的[指數基金](https://zh.wikipedia.org/wiki/指數基金 "wikilink")。ETF將[指數](../Page/股價指數.md "wikilink")[證券化](../Page/资产证券化.md "wikilink")，投資人不以傳統方式直接進行一籃子證券之投資，而是透過持有表彰指數標的證券權益的受益憑證來間接投資。
 
-ETF基金以持有與指數相同之[證券為主](../Page/證券.md "wikilink")，分割成眾多單價較低之投資單位，進而發行[受益憑證](https://zh.wikipedia.org/wiki/受益憑證 "wikilink")\[1\]。ETF商品將指數的價值由傳統的證券市場漲跌指標，轉變成具有流動性的資本證券，指數成分股票的管理由專業機構來進行，指數變動的損益直接反映在憑證價值的漲跌中。因此，只會因為連動指數成分股內容及權重改變而調整投資組合之內容或比重以符合「被動式管理」之目的\[2\]。
+ETF基金以持有與指數相同之[證券](../Page/證券.md "wikilink")為主，分割成眾多單價較低之投資單位，進而發行[受益憑證](https://zh.wikipedia.org/wiki/受益憑證 "wikilink")\[1\]。ETF商品將指數的價值由傳統的證券市場漲跌指標，轉變成具有流動性的資本證券，指數成分股票的管理由專業機構來進行，指數變動的損益直接反映在憑證價值的漲跌中。因此，只會因為連動指數成分股內容及權重改變而調整投資組合之內容或比重以符合「被動式管理」之目的\[2\]。
 
 投資者可以通過兩種方式購買ETF：可以在[證券市場收盤之後](https://zh.wikipedia.org/wiki/證券市場 "wikilink")，按照當天的基金[净值向基金發行商購買](https://zh.wikipedia.org/wiki/净值 "wikilink")（同開放式[共同基金](../Page/共同基金.md "wikilink")）；也可以在證券市場上直接從其他投資者那裡購買（同封閉式共同基金），購買的價格由買賣雙方共同决定。透過實物申購與買回機制，ETF市價可以貼近淨值。
 
-絕大多數ETF的指數成分是[股票](../Page/股票.md "wikilink")，但基於固定收益證券、[債券](https://zh.wikipedia.org/wiki/債券 "wikilink")、商品和[貨幣的ETF也在發展中](../Page/貨幣.md "wikilink")。對於投資者來說，ETF的[交易費用和管理費用都很低廉](https://zh.wikipedia.org/wiki/交易費用 "wikilink")，持股組合比較穩定，[風險往往比較分散](https://zh.wikipedia.org/wiki/風險 "wikilink")，而且[流動性很高](https://zh.wikipedia.org/wiki/流動性 "wikilink")，單筆投資便可獲得多元化投資效果，節省大量之時間及金錢。
+絕大多數ETF的指數成分是[股票](../Page/股票.md "wikilink")，但基於固定收益證券、[債券](https://zh.wikipedia.org/wiki/債券 "wikilink")、商品和[貨幣](../Page/貨幣.md "wikilink")的ETF也在發展中。對於投資者來說，ETF的[交易費用和管理費用都很低廉](https://zh.wikipedia.org/wiki/交易費用 "wikilink")，持股組合比較穩定，[風險往往比較分散](https://zh.wikipedia.org/wiki/風險 "wikilink")，而且[流動性很高](https://zh.wikipedia.org/wiki/流動性 "wikilink")，單筆投資便可獲得多元化投資效果，節省大量之時間及金錢。
 
 到目前為止，幾乎所有的交易所都有ETF基金。
 
@@ -37,12 +37,9 @@ ETF的收益來源可能有以下情況：
 
 ### ETF
 
-  - DIAMONDS
-    Trust（[道瓊工業指數基金](https://zh.wikipedia.org/wiki/道瓊工業平均指數 "wikilink")）\[3\]
-  - PowerShares
-    QQQ（[那斯達克100科技指數基金](https://zh.wikipedia.org/wiki/納斯達克100指數 "wikilink")）
-  - SPDR S\&P 500
-    ETF（[標準普爾500指數基金](https://zh.wikipedia.org/wiki/標準普爾500指數 "wikilink")）
+  - DIAMONDS Trust（[道瓊工業指數基金](https://zh.wikipedia.org/wiki/道瓊工業平均指數 "wikilink")）\[3\]
+  - PowerShares QQQ（[那斯達克100科技指數基金](https://zh.wikipedia.org/wiki/納斯達克100指數 "wikilink")）
+  - SPDR S\&P 500 ETF（[標準普爾500指數基金](https://zh.wikipedia.org/wiki/標準普爾500指數 "wikilink")）
   - [稀土ETF](https://zh.wikipedia.org/wiki/稀土 "wikilink")\[4\]
   - 美國指數/ETF比較和簡介\[5\]\[6\]
 
@@ -77,8 +74,7 @@ ETF的收益來源可能有以下情況：
   - 159902 华夏中小板ETF基金
   - 510880 华泰柏瑞红利ETF基金
   - 510120 海富通上证非周期ETF基金
-  - 510050
-    华夏[上证50ETF基金](https://zh.wikipedia.org/wiki/上证50ETF "wikilink")
+  - 510050 华夏[上证50ETF基金](https://zh.wikipedia.org/wiki/上证50ETF "wikilink")
   - 159916 建信深证60ETF基金
   - 510060 工银上证央企50ETF基金
   - 159903 南方深成ETF基金
@@ -103,15 +99,14 @@ ETF的收益來源可能有以下情況：
   - 510160 南方中证小康产业ETF基金
   - 510020 博时上证超大盘ETF基金
   - 510420 景顺长城上证180ETF基金
-  - 159919 嘉实[沪深300ETF基金](../Page/沪深300.md "wikilink")
+  - 159919 嘉实[沪深300](../Page/沪深300.md "wikilink")ETF基金
   - 159918 嘉实中创400ETF基金
   - 510410 博时上证自然资源ETF基金
   - 510300 300ETF基金\[8\]
 
 ### 交易所買賣基金
 
-港交所ETF (2800-2848)|香港上市公司列表\#交易所ETF (3000-3087){{\!}}港交所ETF
-(3000-3087)}}
+港交所ETF (2800-2848)|香港上市公司列表\#交易所ETF (3000-3087){{\!}}港交所ETF (3000-3087)}}
 
   - [交易所買賣基金-證券名單](http://www.hkex.com.hk/Market-Data/Securities-Prices/Exchange-Traded-Products?sc_lang=zh-hk)
 
@@ -129,14 +124,13 @@ ETF的收益來源可能有以下情況：
 
   - [價值黃金ETF](https://zh.wikipedia.org/wiki/價值黃金ETF "wikilink")
 
-  - [易方達中證100
-    A股指數ETF](https://zh.wikipedia.org/wiki/易方達中證100 "wikilink")
+  - [易方達中證100 A股指數ETF](https://zh.wikipedia.org/wiki/易方達中證100 "wikilink")
 
   - [華夏滬深300指數ETF](../Page/華夏滬深300指數ETF.md "wikilink")
 
 ## 跨地区ETF
 
-2011年4月[臺灣證券交易所與](../Page/臺灣證券交易所.md "wikilink")[上海證券交易所合作爭取ETF互相掛牌](https://zh.wikipedia.org/wiki/上海證券交易所 "wikilink")，臺灣證券交易所、上海證券交易所、[深圳證券交易所與](https://zh.wikipedia.org/wiki/深圳證券交易所 "wikilink")[香港交易所更共同授權編製](../Page/香港交易所.md "wikilink")「中證兩岸三地500指數」，納編[臺灣海峽兩岸](https://zh.wikipedia.org/wiki/臺灣海峽 "wikilink")500檔個股\[9\]\[10\]。
+2011年4月[臺灣證券交易所](../Page/臺灣證券交易所.md "wikilink")與[上海證券交易所合作爭取ETF互相掛牌](https://zh.wikipedia.org/wiki/上海證券交易所 "wikilink")，臺灣證券交易所、上海證券交易所、[深圳證券交易所與](https://zh.wikipedia.org/wiki/深圳證券交易所 "wikilink")[香港交易所](../Page/香港交易所.md "wikilink")更共同授權編製「中證兩岸三地500指數」，納編[臺灣海峽兩岸](https://zh.wikipedia.org/wiki/臺灣海峽 "wikilink")500檔個股\[9\]\[10\]。
 
 ## ETF联接基金
 
@@ -161,18 +155,11 @@ ETF的收益來源可能有以下情況：
 
 ## 延伸閱讀
 
-  - Carrell, Lawrence. *ETFs for the Long Run: What They Are, How They
-    Work, and Simple Strategies for Successful Long-Term Investing*. JW
-    Wiley, 2008. ISBN 978-0-470-13894-6
-  - Ferri, Richard A. *The ETF Book: All You Need to Know About
-    Exchange-Traded Funds*. Wiley, 2009. ISBN 0-470-53746-9
-  - Humphries, William. *Leveraged ETFs: The Trojan Horse Has Passed the
-    Margin-Rule Gates*. 34 Seattle U.L. Rev. 299 (2010), available at
-    [1](http://lawpublications.seattleu.edu/sulr/vol34/iss1/8/).
-  - Koesterich, Russ. *The ETF Strategist: Balancing Risk and Reward for
-    Superior Returns*. Portfolio, 2008. ISBN 978-1-59184-207-1
-  - Lemke, Thomas P; Lins, Gerald T. & McGuire, W. John. *Regulation of
-    Exchange-Traded Funds*. Matthew Bender, 2015. ISBN 978-0-7698-9131-6
+  - Carrell, Lawrence. *ETFs for the Long Run: What They Are, How They Work, and Simple Strategies for Successful Long-Term Investing*. JW Wiley, 2008. ISBN 978-0-470-13894-6
+  - Ferri, Richard A. *The ETF Book: All You Need to Know About Exchange-Traded Funds*. Wiley, 2009. ISBN 0-470-53746-9
+  - Humphries, William. *Leveraged ETFs: The Trojan Horse Has Passed the Margin-Rule Gates*. 34 Seattle U.L. Rev. 299 (2010), available at [1](http://lawpublications.seattleu.edu/sulr/vol34/iss1/8/).
+  - Koesterich, Russ. *The ETF Strategist: Balancing Risk and Reward for Superior Returns*. Portfolio, 2008. ISBN 978-1-59184-207-1
+  - Lemke, Thomas P; Lins, Gerald T. & McGuire, W. John. *Regulation of Exchange-Traded Funds*. Matthew Bender, 2015. ISBN 978-0-7698-9131-6
 
 ## 外部連結
 
@@ -182,35 +169,19 @@ ETF的收益來源可能有以下情況：
 
   - [用ETF掌握世界脈動（上）](https://archive.is/20121223025023/http://www.fund.gov.tw/ct.asp?xItem=2752&ctNode=473&mp=1)[（下）](https://archive.is/20121222070742/http://www.fund.gov.tw/ct.asp?xItem=3074&ctNode=473&mp=1)
 
-  - [交易所買賣基金名單及交易安排](http://www.hkex.com.hk/chi/etfrc/ETFTA/ETFTradingArrangement_c.htm)
-    -
-    [香港交易及結算所有限公司](https://zh.wikipedia.org/wiki/香港交易及結算所有限公司 "wikilink")
+  - [交易所買賣基金名單及交易安排](http://www.hkex.com.hk/chi/etfrc/ETFTA/ETFTradingArrangement_c.htm) - [香港交易及結算所有限公司](https://zh.wikipedia.org/wiki/香港交易及結算所有限公司 "wikilink")
 
-[Category:金融工程學](https://zh.wikipedia.org/wiki/Category:金融工程學 "wikilink")
-[Category:交易所交易產品](https://zh.wikipedia.org/wiki/Category:交易所交易產品 "wikilink")
-[Category:股市](https://zh.wikipedia.org/wiki/Category:股市 "wikilink")
-[Category:基金](https://zh.wikipedia.org/wiki/Category:基金 "wikilink")
-[Category:期貨](https://zh.wikipedia.org/wiki/Category:期貨 "wikilink")
-[Category:金融創新](https://zh.wikipedia.org/wiki/Category:金融創新 "wikilink")
+[Category:金融工程學](https://zh.wikipedia.org/wiki/Category:金融工程學 "wikilink") [Category:交易所交易產品](https://zh.wikipedia.org/wiki/Category:交易所交易產品 "wikilink") [Category:股市](https://zh.wikipedia.org/wiki/Category:股市 "wikilink") [Category:基金](https://zh.wikipedia.org/wiki/Category:基金 "wikilink") [Category:期貨](https://zh.wikipedia.org/wiki/Category:期貨 "wikilink") [Category:金融創新](https://zh.wikipedia.org/wiki/Category:金融創新 "wikilink")
 
-1.  [高價股當道
-    買ETF搭上股王列車](http://mag.chinatimes.com/mag-cnt.aspx?artid=5714&page=1)
-2.  [ETF像股票也像基金
-    追蹤特定指數](http://www.libertytimes.com.tw/2010/new/nov/18/today-e24-2.htm)
-
+1.  [高價股當道 買ETF搭上股王列車](http://mag.chinatimes.com/mag-cnt.aspx?artid=5714&page=1)
+2.  [ETF像股票也像基金 追蹤特定指數](http://www.libertytimes.com.tw/2010/new/nov/18/today-e24-2.htm)
 3.  [美國掛牌ETF一覽表](http://www.ibts.com.tw/oversea/etf_03.htm)
 4.  [美國首創稀土ETF周四起於NYSE掛牌交易](http://211.20.76.50/099/10/0991028/1020102812401D89D65A84D049D1AAE9C697FBF262DA43A3.htm)
-
 5.  [美國指數/ETF比較和簡介](http://www.tradeoptions4living.com/%e5%b8%b8%e5%95%8f%e5%95%8f%e9%a1%8c/%e6%8c%87%e6%95%b8index-or-%e6%8c%87%e6%95%b8%e8%82%a1%e7%a5%a8%e5%9e%8b%e5%9f%ba%e9%87%91etf/)
 6.  [美股ETF知识介绍](http://www.usgupiao.com/us-stock/about-etf/)
 7.  [日央行傳將首度「直接」自市場購買ETF及J-REIT](http://www.funddj.com/KMDJ/News/NewsViewer.aspx?a=39d2a640-3eba-4b07-b556-98f58039025e)
 8.  [天天基金网-ETF基金净值表](http://fund.eastmoney.com/ETF_dwjz.html)
-9.  [兩岸證交所
-    爭取ETF互相掛牌](http://money.chinatimes.com/news/news-content.aspx?id=20110422000963&cid=1208)
-10. [兩岸三地500指數
-    台灣成分股](http://money.udn.com/report/storypage.jsp?f_ART_ID=203270)
-
-11. [懶人投資
-    選ETF 3步搞定](http://money.udn.com/fund/storypage.jsp?f_MAIN_ID=420&f_SUB_ID=3097&f_ART_ID=231076)
-
+9.  [兩岸證交所 爭取ETF互相掛牌](http://money.chinatimes.com/news/news-content.aspx?id=20110422000963&cid=1208)
+10. [兩岸三地500指數 台灣成分股](http://money.udn.com/report/storypage.jsp?f_ART_ID=203270)
+11. [懶人投資 選ETF 3步搞定](http://money.udn.com/fund/storypage.jsp?f_MAIN_ID=420&f_SUB_ID=3097&f_ART_ID=231076)
 12.

@@ -1,31 +1,19 @@
-**日本SF大獎**（）是由[日本SF作家俱樂部於](https://zh.wikipedia.org/wiki/日本SF作家俱樂部 "wikilink")1980年設立的獎項，主辦者為日本SF作家俱樂部，[德間書店支助](../Page/德間書店.md "wikilink")。不論媒體或藝術的種類，只要是有關[科幻的作品](https://zh.wikipedia.org/wiki/科幻 "wikilink")，都是本獎的受獎對象，是本獎的一大特色。有許多小說、電影等專屬的大獎，但像此獎一樣將不同種類的作品放在一起評價的，卻相當罕見。
+**日本SF大獎**（）是由[日本SF作家俱樂部於](https://zh.wikipedia.org/wiki/日本SF作家俱樂部 "wikilink")1980年設立的獎項，主辦者為日本SF作家俱樂部，[德間書店](../Page/德間書店.md "wikilink")支助。不論媒體或藝術的種類，只要是有關[科幻的作品](https://zh.wikipedia.org/wiki/科幻 "wikilink")，都是本獎的受獎對象，是本獎的一大特色。有許多小說、電影等專屬的大獎，但像此獎一樣將不同種類的作品放在一起評價的，卻相當罕見。
 
 ## 受賞作品
 
 ### 第1回至第10回
 
-  - 第1回(1980年) - [堀晃](https://zh.wikipedia.org/wiki/堀晃 "wikilink")
-    『太陽風交点』
-  - 第2回(1981年) - [井上廈](https://zh.wikipedia.org/wiki/井上廈 "wikilink")
-    『[吉里吉里人](https://zh.wikipedia.org/wiki/吉里吉里人 "wikilink")』
-  - 第3回(1982年) - [山田正紀](https://zh.wikipedia.org/wiki/山田正紀 "wikilink")
-    『最後の敵』
-  - 第4回(1983年) - [大友克洋](../Page/大友克洋.md "wikilink")
-    『[童夢](https://zh.wikipedia.org/wiki/童夢_\(漫畫\) "wikilink")』
-  - 第5回(1984年) - [川又千秋](https://zh.wikipedia.org/wiki/川又千秋 "wikilink")
-    『幻詩狩り』
-  - 第6回(1985年) - [小松左京](../Page/小松左京.md "wikilink")
-    『[首都消失](../Page/首都消失.md "wikilink")』
-  - 第7回(1986年) -
-    [かんべむさし](https://zh.wikipedia.org/wiki/かんべむさし "wikilink")
-    『笑い宇宙の旅芸人』
-  - 第8回(1987年) - [荒俣宏](https://zh.wikipedia.org/wiki/荒俣宏 "wikilink")
-    『[帝都物語](../Page/帝都物語.md "wikilink")』
-  - 第9回(1988年) - [半村良](../Page/半村良.md "wikilink")
-    『岬一郎の抵抗』、[横田順彌](https://zh.wikipedia.org/wiki/横田順彌 "wikilink")・[會津信吾](https://zh.wikipedia.org/wiki/會津信吾 "wikilink")
-    『快男児・押川春浪』
-  - 第10回(1989年) - [夢枕獏](../Page/夢枕獏.md "wikilink") 『吞食上弦月的獅子』、特別賞
-    [手塚治虫](../Page/手塚治虫.md "wikilink")
+  - 第1回(1980年) - [堀晃](https://zh.wikipedia.org/wiki/堀晃 "wikilink") 『太陽風交点』
+  - 第2回(1981年) - [井上廈](https://zh.wikipedia.org/wiki/井上廈 "wikilink") 『[吉里吉里人](https://zh.wikipedia.org/wiki/吉里吉里人 "wikilink")』
+  - 第3回(1982年) - [山田正紀](https://zh.wikipedia.org/wiki/山田正紀 "wikilink") 『最後の敵』
+  - 第4回(1983年) - [大友克洋](../Page/大友克洋.md "wikilink") 『[童夢](https://zh.wikipedia.org/wiki/童夢_\(漫畫\) "wikilink")』
+  - 第5回(1984年) - [川又千秋](https://zh.wikipedia.org/wiki/川又千秋 "wikilink") 『幻詩狩り』
+  - 第6回(1985年) - [小松左京](../Page/小松左京.md "wikilink") 『[首都消失](../Page/首都消失.md "wikilink")』
+  - 第7回(1986年) - [かんべむさし](https://zh.wikipedia.org/wiki/かんべむさし "wikilink") 『笑い宇宙の旅芸人』
+  - 第8回(1987年) - [荒俣宏](https://zh.wikipedia.org/wiki/荒俣宏 "wikilink") 『[帝都物語](../Page/帝都物語.md "wikilink")』
+  - 第9回(1988年) - [半村良](../Page/半村良.md "wikilink") 『岬一郎の抵抗』、[横田順彌](https://zh.wikipedia.org/wiki/横田順彌 "wikilink")・[會津信吾](https://zh.wikipedia.org/wiki/會津信吾 "wikilink") 『快男児・押川春浪』
+  - 第10回(1989年) - [夢枕獏](../Page/夢枕獏.md "wikilink") 『吞食上弦月的獅子』、特別賞 [手塚治虫](../Page/手塚治虫.md "wikilink")
 
 ### 第11回至第20回
 
@@ -197,40 +185,17 @@
 
 ### 第31回至第40回
 
-  - 第31回(2010年) -
-    [長山靖生](https://zh.wikipedia.org/wiki/長山靖生 "wikilink")『日本SF精神史』、[森見登美彦](https://zh.wikipedia.org/wiki/森見登美彦 "wikilink")『企鵝高速公路』、特別賞
-    [柴野拓美](https://zh.wikipedia.org/wiki/柴野拓美 "wikilink")、[浅倉久志](https://zh.wikipedia.org/wiki/浅倉久志 "wikilink")
-  - 第32回(2011年) -
-    [上田早夕里](https://zh.wikipedia.org/wiki/上田早夕里 "wikilink")『華竜の宮』、特別賞
-    [横田順彌](https://zh.wikipedia.org/wiki/横田順彌 "wikilink")『近代日本奇想小説史
-    明治篇』、 特別功劳賞 [小松左京](../Page/小松左京.md "wikilink")
-  - 第33回(2012年) - [月村了衛](../Page/月村了衛.md "wikilink")『機龍警察
-    自爆条項』、[宮内悠介](https://zh.wikipedia.org/wiki/宮内悠介 "wikilink")『盤上の夜』、特別賞
-    [伊藤計劃](../Page/伊藤計劃.md "wikilink")・[円城塔](https://zh.wikipedia.org/wiki/円城塔 "wikilink")『屍者の帝国』
-  - 第34回（2013年） -
-    [酉島伝法](https://zh.wikipedia.org/wiki/酉島伝法 "wikilink")『皆勤の徒』、特別賞
-    [大森望責任編集](https://zh.wikipedia.org/wiki/大森望 "wikilink")『[NOVA
-    書き下ろし日本SFコレクション](https://zh.wikipedia.org/wiki/NOVA_書き下ろし日本SFコレクション "wikilink")』
-    全10巻、[宮内悠介](https://zh.wikipedia.org/wiki/宮内悠介 "wikilink")『ヨハネスブルグの天使たち』
-  - 第35回（2014年） -
-    [藤井太洋](https://zh.wikipedia.org/wiki/藤井太洋 "wikilink")『オービタル・クラウド』、[長谷敏司](https://zh.wikipedia.org/wiki/長谷敏司 "wikilink")『My
-    Humanity』、功績賞 [平井和正](https://zh.wikipedia.org/wiki/平井和正 "wikilink")
-  - 第36回（2015年） - 谷甲州『コロンビア・ゼロ 新・航空宇宙軍史』、森岡浩之『突変』、特別賞 牧野修『月世界小説』、功績賞
-    生賴範義
-  - 第37回（2016年）-
-    [白井弓子](https://zh.wikipedia.org/wiki/白井弓子 "wikilink")『轉孕奇兵』、特別賞
-    庵野秀明（脚本・総監督)・樋口真嗣（監督・特技監督）・尾上克郎（准監督・特技統括）『シン・ゴジラ』
-  - 第38回（2017年）-
-    [小川哲](https://zh.wikipedia.org/wiki/小川哲 "wikilink")『ゲームの王国』、[飛浩隆](https://zh.wikipedia.org/wiki/飛浩隆 "wikilink")『自生の夢』、功績賞
-    [山野浩一](https://zh.wikipedia.org/wiki/山野浩一 "wikilink")
+  - 第31回(2010年) - [長山靖生](https://zh.wikipedia.org/wiki/長山靖生 "wikilink")『日本SF精神史』、[森見登美彦](https://zh.wikipedia.org/wiki/森見登美彦 "wikilink")『企鵝高速公路』、特別賞 [柴野拓美](https://zh.wikipedia.org/wiki/柴野拓美 "wikilink")、[浅倉久志](https://zh.wikipedia.org/wiki/浅倉久志 "wikilink")
+  - 第32回(2011年) - [上田早夕里](https://zh.wikipedia.org/wiki/上田早夕里 "wikilink")『華竜の宮』、特別賞 [横田順彌](https://zh.wikipedia.org/wiki/横田順彌 "wikilink")『近代日本奇想小説史 明治篇』、 特別功劳賞 [小松左京](../Page/小松左京.md "wikilink")
+  - 第33回(2012年) - [月村了衛](../Page/月村了衛.md "wikilink")『機龍警察 自爆条項』、[宮内悠介](https://zh.wikipedia.org/wiki/宮内悠介 "wikilink")『盤上の夜』、特別賞 [伊藤計劃](../Page/伊藤計劃.md "wikilink")・[円城塔](https://zh.wikipedia.org/wiki/円城塔 "wikilink")『屍者の帝国』
+  - 第34回（2013年） - [酉島伝法](https://zh.wikipedia.org/wiki/酉島伝法 "wikilink")『皆勤の徒』、特別賞 [大森望責任編集](https://zh.wikipedia.org/wiki/大森望 "wikilink")『[NOVA 書き下ろし日本SFコレクション](https://zh.wikipedia.org/wiki/NOVA_書き下ろし日本SFコレクション "wikilink")』 全10巻、[宮内悠介](https://zh.wikipedia.org/wiki/宮内悠介 "wikilink")『ヨハネスブルグの天使たち』
+  - 第35回（2014年） - [藤井太洋](https://zh.wikipedia.org/wiki/藤井太洋 "wikilink")『オービタル・クラウド』、[長谷敏司](https://zh.wikipedia.org/wiki/長谷敏司 "wikilink")『My Humanity』、功績賞 [平井和正](https://zh.wikipedia.org/wiki/平井和正 "wikilink")
+  - 第36回（2015年） - 谷甲州『コロンビア・ゼロ 新・航空宇宙軍史』、森岡浩之『突変』、特別賞 牧野修『月世界小説』、功績賞 生賴範義
+  - 第37回（2016年）- [白井弓子](https://zh.wikipedia.org/wiki/白井弓子 "wikilink")『轉孕奇兵』、特別賞 庵野秀明（脚本・総監督)・樋口真嗣（監督・特技監督）・尾上克郎（准監督・特技統括）『シン・ゴジラ』
+  - 第38回（2017年）- [小川哲](https://zh.wikipedia.org/wiki/小川哲 "wikilink")『ゲームの王国』、[飛浩隆](https://zh.wikipedia.org/wiki/飛浩隆 "wikilink")『自生の夢』、功績賞 [山野浩一](https://zh.wikipedia.org/wiki/山野浩一 "wikilink")
 
 ## 外部連結
 
   - [關於日本SF大賞](http://www.sfwj.or.jp/list.html)
 
-[Category:日本文學獎](https://zh.wikipedia.org/wiki/Category:日本文學獎 "wikilink")
-[Category:日本漫畫獎](https://zh.wikipedia.org/wiki/Category:日本漫畫獎 "wikilink")
-[Category:日本電影獎項](https://zh.wikipedia.org/wiki/Category:日本電影獎項 "wikilink")
-[Category:日本科幻小說](https://zh.wikipedia.org/wiki/Category:日本科幻小說 "wikilink")
-[Category:1980年建立的獎項](https://zh.wikipedia.org/wiki/Category:1980年建立的獎項 "wikilink")
-[Category:1980年日本建立](https://zh.wikipedia.org/wiki/Category:1980年日本建立 "wikilink")
+[Category:日本文學獎](https://zh.wikipedia.org/wiki/Category:日本文學獎 "wikilink") [Category:日本漫畫獎](https://zh.wikipedia.org/wiki/Category:日本漫畫獎 "wikilink") [Category:日本電影獎項](https://zh.wikipedia.org/wiki/Category:日本電影獎項 "wikilink") [Category:日本科幻小說](https://zh.wikipedia.org/wiki/Category:日本科幻小說 "wikilink") [Category:1980年建立的獎項](https://zh.wikipedia.org/wiki/Category:1980年建立的獎項 "wikilink") [Category:1980年日本建立](https://zh.wikipedia.org/wiki/Category:1980年日本建立 "wikilink")

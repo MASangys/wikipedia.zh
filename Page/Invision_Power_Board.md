@@ -1,25 +1,16 @@
 ## 简介
 
-Invision
-Community（原名为IPB或IP.Board）是世界上最著名的[論壇程式之一](https://zh.wikipedia.org/wiki/网络论坛#论坛程序 "wikilink")，由[PHP](../Page/PHP.md "wikilink")+[MySQL架構](../Page/MySQL.md "wikilink")。IPB
-1.X版本是免費的，但2.X版本起開始收費，在新版本的IPB中用了不少[AJAX技術](../Page/AJAX.md "wikilink")。現在有不少的國際知名公司和機構如[美國太空總署](https://zh.wikipedia.org/wiki/美國太空總署 "wikilink")、和[AMD等都是IPB的顧客](https://zh.wikipedia.org/wiki/AMD "wikilink")，目前在華人社區中只有少数論壇採用IPB作為論壇程式，目前唯一的中文支持论坛是[Chinese
-IPB](https://chineseipb.com/)，中文语言包由站长Francis一人更新。
+Invision Community（原名为IPB或IP.Board）是世界上最著名的[論壇程式之一](https://zh.wikipedia.org/wiki/网络论坛#论坛程序 "wikilink")，由[PHP](../Page/PHP.md "wikilink")+[MySQL](../Page/MySQL.md "wikilink")架構。IPB 1.X版本是免費的，但2.X版本起開始收費，在新版本的IPB中用了不少[AJAX](../Page/AJAX.md "wikilink")技術。現在有不少的國際知名公司和機構如[美國太空總署](https://zh.wikipedia.org/wiki/美國太空總署 "wikilink")、和[AMD等都是IPB的顧客](https://zh.wikipedia.org/wiki/AMD "wikilink")，目前在華人社區中只有少数論壇採用IPB作為論壇程式。
 
 ## 历史
 
-Invision Power Services (IPS) 公司由两位程序设计师 Matt Mechem 和 Charles Warner
-于2002年创立，在他们离开Jarvis Entertainment集团 (开发CGI的Ikonboard论坛)
-后不久，IPS公司发布了他们的第一个产品 IPB - 这吸引了许多Ikonboard用户的注意。
+Invision Power Services (IPS) 公司由两位程序设计师 Matt Mechem 和 Charles Warner 于2002年创立，在他们离开Jarvis Entertainment集团 (开发CGI的Ikonboard论坛) 后不久，IPS公司发布了他们的第一个产品 IPB - 这吸引了许多Ikonboard用户的注意。
 
-最初IPS公司倾向于免费给人下载并使用IPB论坛，这举动成就IPB中文市场的热烈发展，得到许许多多的第三方支援,开发中文增强版与各种娱乐插件。但2004年宣布停止IPB免费版本，虽然有将IPB
-2.0.0试用版给人免费下载，不过在2004年9月27日推出了功能受限制的试用版 -
-限制5000篇文章，1000个主题和200位会员。有了这些动作，IPS公司就终止了IPB论坛永远免费的说法，2005年7月1日，IPB
-Demo又有新的限制 - 使用时间不超过15天,几个月后，这段时间仅限于几天
+最初IPS公司倾向于免费给人下载并使用IPB论坛，这举动成就IPB中文市场的热烈发展，得到许许多多的第三方支援,开发中文增强版与各种娱乐插件。但2004年宣布停止IPB免费版本，虽然有将IPB 2.0.0试用版给人免费下载，不过在2004年9月27日推出了功能受限制的试用版 - 限制5000篇文章，1000个主题和200位会员。有了这些动作，IPS公司就终止了IPB论坛永远免费的说法，2005年7月1日，IPB Demo又有新的限制 - 使用时间不超过15天,几个月后，这段时间仅限于几天
 
 而在付费购买IPB正版授权的部份，一开始还有一年授权可以选择，后来停卖
 
-IPB 2.x 正版授权还有一个卖点为终身授权，但是在IPB 4 推出后,IPS公司宣布终身授权只能停留在IPB 3.4，也就是说IPB 4
-不会有终身授权的用户
+IPB 2.x 正版授权还有一个卖点为终身授权，但是在IPB 4 推出后,IPS公司宣布终身授权只能停留在IPB 3.4，也就是说IPB 4 不会有终身授权的用户
 
 对于IPB产品的名称,从IPB 1.0开始就改来改去,过往的名称有
 
@@ -121,8 +112,7 @@ IPB v4.2 开始从 IPS Community Suite 再度改为 Invision Community
 
 <small>IP.Board 2.3.6</small>
 
-<small>IP.Board 3.0.0 Beta 1 ------  建议 PHP 5.1 或以上、MySQL 4.1 (5.0.0
-或以上)</small>
+<small>IP.Board 3.0.0 Beta 1 ------  建议 PHP 5.1 或以上、MySQL 4.1 (5.0.0 或以上)</small>
 
 <small>IP.Board 3.0.0 Beta 2</small>
 
@@ -262,8 +252,7 @@ IPB v4.2 开始从 IPS Community Suite 再度改为 Invision Community
 
 <small>IPS Community Suite 4.0.0 RC 7 -- 2015年3月30日</small>
 
-<small>IPS Community Suite 4.0.0 -- 2015年4月9日 ------  建议 PHP 5.4、MySQL
-5.6</small>
+<small>IPS Community Suite 4.0.0 -- 2015年4月9日 ------  建议 PHP 5.4、MySQL 5.6</small>
 
 <small>IPS Community Suite 4.0.1 -- 2015年4月15日</small>
 
@@ -311,11 +300,9 @@ IPB v4.2 开始从 IPS Community Suite 再度改为 Invision Community
 
 <small>IPS Community Suite 4.1.0 Beta 1 -- 2015年10月1日</small>
 
-<small>IPS Community Suite 4.1.0 Beta ? --
-2015年10月13日,官方说这星期会更新大量的测试版</small>
+<small>IPS Community Suite 4.1.0 Beta ? -- 2015年10月13日,官方说这星期会更新大量的测试版</small>
 
-<small>IPS Community Suite 4.1.0 -- 2015年10月27日 -----  建议 PHP 5.5、MySQL
-5.6</small>
+<small>IPS Community Suite 4.1.0 -- 2015年10月27日 -----  建议 PHP 5.5、MySQL 5.6</small>
 
 <small>IPS Community Suite 4.1.1 -- 2015年10月29日</small>
 
@@ -521,11 +508,9 @@ IPB v4.2 开始从 IPS Community Suite 再度改为 Invision Community
 
 <small>Invision Community 4.3.2 -- 2018年5月10日</small>
 
-<small>Invision Community 4.3.3 --
-2018年5月22日,24日,25日,31日,6月6日,7日,12日,13日</small>
+<small>Invision Community 4.3.3 -- 2018年5月22日,24日,25日,31日,6月6日,7日,12日,13日</small>
 
-<small>Invision Community 4.3.4 -- 2018年6月18日,19日,20日,26日,28日 ----  支持
-PHP 7.2 & MySQL 5.6</small>
+<small>Invision Community 4.3.4 -- 2018年6月18日,19日,20日,26日,28日 ----  支持 PHP 7.2 & MySQL 5.6</small>
 
 <small>Invision Community 4.3.5 -- 2018年7月16日,23日,24日,26日,8月8日</small>
 
@@ -539,8 +524,7 @@ PHP 7.2 & MySQL 5.6</small>
 
 <small>Invision Community 4.4.0 Beta 4 -- 2019年2月12日</small>
 
-<small>Invision Community 4.4.0 -- 2019年2月19日 ----  支持 PHP 7.3 & MySQL
-MariaDB 10.x</small>
+<small>Invision Community 4.4.0 -- 2019年2月19日 ----  支持 PHP 7.3 & MySQL MariaDB 10.x</small>
 
 <small>Invision Community 4.4.1 Beta 1 -- 2019年2月28日</small>
 
@@ -566,7 +550,5 @@ MariaDB 10.x</small>
 
   - [官方网站](https://invisioncommunity.com)
   - [发行说明](https://invisioncommunity.com/release-notes)
-  - [Chinese IPB中文社区](https://chineseipb.com)
 
-[Category:PHP](https://zh.wikipedia.org/wiki/Category:PHP "wikilink")
-[Category:網絡討論區軟體](https://zh.wikipedia.org/wiki/Category:網絡討論區軟體 "wikilink")
+[Category:PHP](https://zh.wikipedia.org/wiki/Category:PHP "wikilink") [Category:網絡討論區軟體](https://zh.wikipedia.org/wiki/Category:網絡討論區軟體 "wikilink")

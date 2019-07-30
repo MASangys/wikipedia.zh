@@ -1,5 +1,4 @@
-::\*TQ31
-[高分子化合物工业](https://zh.wikipedia.org/wiki/高分子化合物工业 "wikilink")（[高聚物工业](https://zh.wikipedia.org/wiki/高聚物工业 "wikilink")）
+::\*TQ31 [高分子化合物工业](https://zh.wikipedia.org/wiki/高分子化合物工业 "wikilink")（[高聚物工业](https://zh.wikipedia.org/wiki/高聚物工业 "wikilink")）
 
 :::\*TQ311 基础理论
 
@@ -31,8 +30,7 @@
 
 ::::::\*TQ314.24+6 变性剂（改性剂）
 
-::::::\*TQ314.24+7
-静电消除剂（[抗静电剂](https://zh.wikipedia.org/wiki/抗静电剂 "wikilink")）
+::::::\*TQ314.24+7 静电消除剂（[抗静电剂](https://zh.wikipedia.org/wiki/抗静电剂 "wikilink")）
 
 ::::::\*TQ314.24+8 阻燃剂
 

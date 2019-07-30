@@ -1,11 +1,8 @@
-**OpenVPN**是一个用于创建[虚拟专用网络加密通道的软件包](https://zh.wikipedia.org/wiki/虚拟专用网络 "wikilink")，最早由James
-Yonan编写。OpenVPN允许建立的VPN使用[公开密钥](https://zh.wikipedia.org/wiki/公开密钥 "wikilink")、[電子證書](https://zh.wikipedia.org/wiki/電子證書 "wikilink")、或者用户名／密碼来进行身份验证。
+**OpenVPN**是一个用于创建[虚拟专用网络加密通道的软件包](https://zh.wikipedia.org/wiki/虚拟专用网络 "wikilink")，最早由James Yonan编写。OpenVPN允许建立的VPN使用[公开密钥](https://zh.wikipedia.org/wiki/公开密钥 "wikilink")、[電子證書](https://zh.wikipedia.org/wiki/電子證書 "wikilink")、或者用户名／密碼来进行身份验证。
 
-它大量使用了[OpenSSL加密库中的](../Page/OpenSSL.md "wikilink")[SSLv](https://zh.wikipedia.org/wiki/SSL "wikilink")3/[TLSv](https://zh.wikipedia.org/wiki/TLS "wikilink")1协议函数库。
+它大量使用了[OpenSSL](../Page/OpenSSL.md "wikilink")加密库中的[SSLv](https://zh.wikipedia.org/wiki/SSL "wikilink")3/[TLSv](https://zh.wikipedia.org/wiki/TLS "wikilink")1协议函数库。
 
-目前OpenVPN能在[Solaris](../Page/Solaris.md "wikilink")、[Linux](../Page/Linux.md "wikilink")、[OpenBSD](../Page/OpenBSD.md "wikilink")、[FreeBSD](../Page/FreeBSD.md "wikilink")、[NetBSD](../Page/NetBSD.md "wikilink")、[Mac
-OS X与](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Microsoft
-Windows以及](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Android和](../Page/Android.md "wikilink")[iOS上运行](https://zh.wikipedia.org/wiki/iOS "wikilink")，並包含了许多安全性的功能。它并不是一个基于Web的VPN软件，也不与[IPsec及其他VPN软件包兼容](../Page/IPsec.md "wikilink")。
+目前OpenVPN能在[Solaris](../Page/Solaris.md "wikilink")、[Linux](../Page/Linux.md "wikilink")、[OpenBSD](../Page/OpenBSD.md "wikilink")、[FreeBSD](../Page/FreeBSD.md "wikilink")、[NetBSD](../Page/NetBSD.md "wikilink")、[Mac OS X与](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Microsoft Windows以及](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Android](../Page/Android.md "wikilink")和[iOS上运行](https://zh.wikipedia.org/wiki/iOS "wikilink")，並包含了许多安全性的功能。它并不是一个基于Web的VPN软件，也不与[IPsec](../Page/IPsec.md "wikilink")及其他VPN软件包兼容。
 
 ## 原理
 
@@ -19,7 +16,7 @@ OpenVPN的技术核心是虚拟网卡，其次是[SSL协议实现](https://zh.wi
 
 ## 加密
 
-OpenVPN使用[OpenSSL库来加密数据与控制信息](../Page/OpenSSL.md "wikilink")。这意味着，它能够使用任何OpenSSL支持的算法。它提供了可选的数据包[HMAC功能以提高连接的安全性](https://zh.wikipedia.org/wiki/HMAC "wikilink")。此外，OpenSSL的硬件加速也能提高它的性能。2.3.0以後版本引入[PolarSSL](https://zh.wikipedia.org/wiki/PolarSSL "wikilink")。
+OpenVPN使用[OpenSSL](../Page/OpenSSL.md "wikilink")库来加密数据与控制信息。这意味着，它能够使用任何OpenSSL支持的算法。它提供了可选的数据包[HMAC功能以提高连接的安全性](https://zh.wikipedia.org/wiki/HMAC "wikilink")。此外，OpenSSL的硬件加速也能提高它的性能。2.3.0以後版本引入[PolarSSL](https://zh.wikipedia.org/wiki/PolarSSL "wikilink")。
 
 ## 身份验证
 
@@ -33,13 +30,9 @@ OpenVPN提供了多种[身份验证方式](https://zh.wikipedia.org/wiki/身份�
 
 ## 功能与端口
 
-  - OpenVPN所有的通信都基于一个单一的[IP](https://zh.wikipedia.org/wiki/IP "wikilink")[端口](https://zh.wikipedia.org/wiki/端口 "wikilink")，默认且推荐使用UDP协议通讯，同时也支持TCP。[IANA](https://zh.wikipedia.org/wiki/IANA "wikilink")（Internet
-    Assigned Numbers Authority）指定给OpenVPN的官方端口为1194。OpenVPN
-    2.0以后版本每个进程可以同时管理数个并发的隧道。OpenVPN使用通用网络协议（[TCP与](https://zh.wikipedia.org/wiki/TCP "wikilink")[UDP](https://zh.wikipedia.org/wiki/UDP "wikilink")）的特点使它成为[IPsec等协议的理想替代](../Page/IPsec.md "wikilink")，尤其是在[ISP](https://zh.wikipedia.org/wiki/ISP "wikilink")（Internet
-    service
-    provider）过滤某些特定[VPN协议的情况下](https://zh.wikipedia.org/wiki/VPN "wikilink")。
+  - OpenVPN所有的通信都基于一个单一的[IP](https://zh.wikipedia.org/wiki/IP "wikilink")[端口](https://zh.wikipedia.org/wiki/端口 "wikilink")，默认且推荐使用UDP协议通讯，同时也支持TCP。[IANA](https://zh.wikipedia.org/wiki/IANA "wikilink")（Internet Assigned Numbers Authority）指定给OpenVPN的官方端口为1194。OpenVPN 2.0以后版本每个进程可以同时管理数个并发的隧道。OpenVPN使用通用网络协议（[TCP与](https://zh.wikipedia.org/wiki/TCP "wikilink")[UDP](https://zh.wikipedia.org/wiki/UDP "wikilink")）的特点使它成为[IPsec](../Page/IPsec.md "wikilink")等协议的理想替代，尤其是在[ISP](https://zh.wikipedia.org/wiki/ISP "wikilink")（Internet service provider）过滤某些特定[VPN协议的情况下](https://zh.wikipedia.org/wiki/VPN "wikilink")。
   - OpenVPN连接能通过大多数的[代理服务器](../Page/代理服务器.md "wikilink")，并且能够在[NAT的环境中很好地工作](https://zh.wikipedia.org/wiki/NAT "wikilink")。
-  - 服务端具有向客户端“推送”某些网络配置信息的功能，这些信息包括：IP地址、[路由设置等](../Page/路由.md "wikilink")。
+  - 服务端具有向客户端“推送”某些网络配置信息的功能，这些信息包括：IP地址、[路由](../Page/路由.md "wikilink")设置等。
   - OpenVPN提供了两种虚拟网络接口：[通用Tun/Tap驱动](../Page/TUN与TAP.md "wikilink")，通过它们，可以建立三层IP隧道，或者虚拟二层[以太网](../Page/以太网.md "wikilink")，后者可以传送任何类型的二层以太网络数据。
   - 传送的数据可通过[LZO算法压缩](https://zh.wikipedia.org/wiki/LZO "wikilink")。
 
@@ -51,12 +44,11 @@ OpenVPN通过[PKCS\#11支持硬件加密标识](https://zh.wikipedia.org/wiki/PK
 
 ## 对比
 
-  - **OpenVPN**，能实现二／三层的基于隧道的VPN。
   - [stunnel](https://zh.wikipedia.org/wiki/stunnel "wikilink")，使用SSL向任何单一端口的TCP服务提供安全保护。
 
 ## 受中国大陆的限制
 
-[防火长城会针对](../Page/防火长城.md "wikilink")**OpenVPN**服务器回送证书完成握手创建有效加密连接时干扰连接，在使用TCP协议模式时握手会被连接重置，而使用UDP协议时含有服务器认证证书的数据包会被故意丢弃，使OpenVPN无法创建有效加密连接而连接失败。而在中国大陆内部的连接不受这种限制。
+[防火长城](../Page/防火长城.md "wikilink")会针对**OpenVPN**服务器回送证书完成握手创建有效加密连接时干扰连接，在使用TCP协议模式时握手会被连接重置，而使用UDP协议时含有服务器认证证书的数据包会被故意丢弃，使OpenVPN无法创建有效加密连接而连接失败。而在中国大陆内部的连接不受这种限制。
 
 ## 参考文献
 
@@ -64,10 +56,8 @@ OpenVPN通过[PKCS\#11支持硬件加密标识](https://zh.wikipedia.org/wiki/PK
 
   - [OpenVPN 项目主页](http://openvpn.net/)
   - [Windows的OpenVPN-GUI](http://openvpn.se/)
-  - [Tunnelblick, Mac OS
-    X的GUI](https://web.archive.org/web/20070225173533/http://www.tunnelblick.net/)
+  - [Tunnelblick, Mac OS X的GUI](https://web.archive.org/web/20070225173533/http://www.tunnelblick.net/)
   - [Android的OpenVPN-Settings](http://code.google.com/p/android-openvpn-settings/)
-  - [Vpntaiwan](http://vpntaiwan.com/)
 
 ## 参见
 
@@ -75,8 +65,4 @@ OpenVPN通过[PKCS\#11支持硬件加密标识](https://zh.wikipedia.org/wiki/PK
 
 {{-}}
 
-[Category:网络协议](https://zh.wikipedia.org/wiki/Category:网络协议 "wikilink")
-[Category:网络安全](https://zh.wikipedia.org/wiki/Category:网络安全 "wikilink")
-[Category:安全软件](https://zh.wikipedia.org/wiki/Category:安全软件 "wikilink")
-[Category:Unix软件](https://zh.wikipedia.org/wiki/Category:Unix软件 "wikilink")
-[Category:开放源代码](https://zh.wikipedia.org/wiki/Category:开放源代码 "wikilink")
+[Category:网络协议](https://zh.wikipedia.org/wiki/Category:网络协议 "wikilink") [Category:网络安全](https://zh.wikipedia.org/wiki/Category:网络安全 "wikilink") [Category:安全软件](https://zh.wikipedia.org/wiki/Category:安全软件 "wikilink") [Category:Unix软件](https://zh.wikipedia.org/wiki/Category:Unix软件 "wikilink") [Category:开放源代码](https://zh.wikipedia.org/wiki/Category:开放源代码 "wikilink")

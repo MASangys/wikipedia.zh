@@ -2,8 +2,7 @@
 
 ## COBOL的历史
 
-1959年5月，五角大廈委託[葛麗絲·霍普博士領導一個委員會](../Page/葛麗絲·霍普.md "wikilink")，制定了COBOL語言的標準，並於1961年由美國數據系統語言協會公布。正式發布於1960年4月，稱為Cobol－60，現在最新的版本是Cobol－2002。COBOL最早是以[葛麗絲·霍普開發的](../Page/葛麗絲·霍普.md "wikilink")語言為範本。值得注意的是，葛麗絲·霍普並不是發明COBOL的六人組成員之一。1959
-年，在紐約曼哈頓的雪梨荷蘭酒店， 和其他 5 位程序員封閉兩週，幾乎是無晝夜地開發，完成了 COBOL 的大部分設計。\[2\]
+1959年5月，五角大廈委託[葛麗絲·霍普](../Page/葛麗絲·霍普.md "wikilink")博士領導一個委員會，制定了COBOL語言的標準，並於1961年由美國數據系統語言協會公布。正式發布於1960年4月，稱為Cobol－60，現在最新的版本是Cobol－2002。COBOL最早是以[葛麗絲·霍普](../Page/葛麗絲·霍普.md "wikilink")開發的語言為範本。值得注意的是，葛麗絲·霍普並不是發明COBOL的六人組成員之一。1959 年，在紐約曼哈頓的雪梨荷蘭酒店， 和其他 5 位程序員封閉兩週，幾乎是無晝夜地開發，完成了 COBOL 的大部分設計。\[2\]
 
 1963年，[美國國家標準學會进行了标准化](https://zh.wikipedia.org/wiki/美國國家標準學會 "wikilink")，但是ANSI标准很少被遵循；因此，COBOL程序只是部分可移植的。
 
@@ -11,16 +10,13 @@
 
 经过40多年的不断修改、丰富完善和标准化，COBOL已发展为多种版本的庞大语言，在财会工作、统计报表、计划编制、情报检索、人事管理等数据管理及商业数据处理领域，都有着广泛的应用。
 
-COBOL主要是应用于金融和会计行业等非常重要的商业数据处理领域，即使 COBOL
-多年來被視為過時的語言，但是目前大多數的金融業核心系統仍多半使用COBOL，除了舊有系統太龐大修改不易外，COBOL
-平台的穩定性也是它生命一直超過預期延續的重要原因。
+COBOL主要是应用于金融和会计行业等非常重要的商业数据处理领域，即使 COBOL 多年來被視為過時的語言，但是目前大多數的金融業核心系統仍多半使用COBOL，除了舊有系統太龐大修改不易外，COBOL 平台的穩定性也是它生命一直超過預期延續的重要原因。
 
 ## COBOL的特点
 
 COBOL是一種面向數據處理的、面向文件的、[面向過程](https://zh.wikipedia.org/wiki/面向過程 "wikilink")（）的高級編程語言，是一種功能很強而又極為冗長的語言。
 
-COBOL适合于具有循环处理周期的环境（例如打印工资支票）以及数据操纵量相当大的环境。COBOL主要应用于商业数据处理领域，对各种类型的数据进行
-收集、存儲、傳送、分類、排序、計算及打印報表、輸出圖像是它的強項。
+COBOL适合于具有循环处理周期的环境（例如打印工资支票）以及数据操纵量相当大的环境。COBOL主要应用于商业数据处理领域，对各种类型的数据进行 收集、存儲、傳送、分類、排序、計算及打印報表、輸出圖像是它的強項。
 
 COBOL语法与英文很接近，即使不懂电脑的人也能看懂程序。
 
@@ -32,24 +28,19 @@ COBOL语法与英文很接近，即使不懂电脑的人也能看懂程序。
 
 ## COBOL的程序结构
 
-COBOL程序由4部（DIVISION）组成：IDENTIFICATION DIVISION.（标识部）、ENVIRONMENT
-DIVISION.（环境部）、DATA DIVISION.（数据部）、 PROCEDURE
-DIVISION.（过程部），而每个部又由若干节（SECTION）组成。
+COBOL程序由4部（DIVISION）组成：IDENTIFICATION DIVISION.（标识部）、ENVIRONMENT DIVISION.（环境部）、DATA DIVISION.（数据部）、 PROCEDURE DIVISION.（过程部），而每个部又由若干节（SECTION）组成。
 
 ### IDENTIFICATION DIVISION.
 
-「PROGRAM-ID」（程序識別ID）、「AUTHOR」（作者名）、「DATE-WRITTEN」（編寫日期），這些並不直接影響程序的執行，而是程序的註釋
-信息。程序註釋可以採用任何語言書寫，COBOL編譯器可以接受。
+「PROGRAM-ID」（程序識別ID）、「AUTHOR」（作者名）、「DATE-WRITTEN」（編寫日期），這些並不直接影響程序的執行，而是程序的註釋 信息。程序註釋可以採用任何語言書寫，COBOL編譯器可以接受。
 
 ### ENVIRONMENT DIVISION.
 
-用于记载程序可以被运行的计算机环境。“ENVIRONMENT DIVISION.”部包括“CONFIGURATION
-SECTION”环境节和“INPUT-OUTPUT SECTION”输入输出节。
+用于记载程序可以被运行的计算机环境。“ENVIRONMENT DIVISION.”部包括“CONFIGURATION SECTION”环境节和“INPUT-OUTPUT SECTION”输入输出节。
 
 ### DATA DIVISION.
 
-用于定义和声明程序所要使用的变量及其他数据。程序要使用的全部变量和数据必须在这里定义。“DATA DIVISION.”部主要包含“FILE
-SECTION.”和“WORKING-STORAGE SECTION.”节。
+用于定义和声明程序所要使用的变量及其他数据。程序要使用的全部变量和数据必须在这里定义。“DATA DIVISION.”部主要包含“FILE SECTION.”和“WORKING-STORAGE SECTION.”节。
 
 如果程序要通过参数接收数据，那么使用“LINKAGE SECTION”来声明。
 
@@ -73,8 +64,7 @@ COBOL的基本变量类型，有以下三种：
 
 用于容纳程序的实际处理代码。需要传入参数时，采用“PROCEDURE DIVISION USING引数名\[，参数名...\]”的方式。
 
-因為前3個DIVISION都是註釋，卻又必須，只到第4個DIVISION「PROCEDURE
-DIVISION」才真正涉及程序代碼，這樣的繁瑣規定使得COBOL被批評為太過冗長。但是，基於這樣的4個DIVISION的明確記述等的嚴格形式，COBOL也被公認是可讀性強的語言。另外，COBOL的保留字數量龐大，字數過長的保留字太多是COBOL的特徵之一。
+因為前3個DIVISION都是註釋，卻又必須，只到第4個DIVISION「PROCEDURE DIVISION」才真正涉及程序代碼，這樣的繁瑣規定使得COBOL被批評為太過冗長。但是，基於這樣的4個DIVISION的明確記述等的嚴格形式，COBOL也被公認是可讀性強的語言。另外，COBOL的保留字數量龐大，字數過長的保留字太多是COBOL的特徵之一。
 
 ## 参考文献
 

@@ -1,10 +1,8 @@
-**WTA巡迴賽錦標賽**（*The WTA Tour
-Championships*），又被称作**WTA年终总决赛**，是[国际女子网联在每年末定期举办的一项国际顶尖女子网球赛事](https://zh.wikipedia.org/wiki/国际女子网联 "wikilink")。其参赛者都是每年WTA巡回赛中成绩前列的选手。
+**WTA巡迴賽錦標賽**（*The WTA Tour Championships*），又被称作**WTA年终总决赛**，是[国际女子网联在每年末定期举办的一项国际顶尖女子网球赛事](https://zh.wikipedia.org/wiki/国际女子网联 "wikilink")。其参赛者都是每年WTA巡回赛中成绩前列的选手。
 
-首届WTA巡迴賽錦標賽在1972年[美国](../Page/美国.md "wikilink")[佛罗里达州的](../Page/佛罗里达州.md "wikilink")[博卡拉顿举行](https://zh.wikipedia.org/wiki/博卡拉顿 "wikilink")。在1972年到1986年期间，该项赛事都在每年三月举行。此后由于WTA决定将每年赛季改为1月至11月，因此总决赛也被改在每年的年末举行。因此，1986年的3月和11月举办了两次WTA总决赛。1979年至2000年期间，这项赛事一直都在美国[纽约的](../Page/纽约.md "wikilink")[麦迪逊广场花园举行](../Page/麦迪逊广场花园.md "wikilink")。此后，赛事的主办地点迁至[德国](../Page/德国.md "wikilink")，最近這項比賽以三年一輪於世界各地比賽，2014-2016在[新加坡](../Page/新加坡.md "wikilink")，2019-2029在[深圳](https://zh.wikipedia.org/wiki/深圳 "wikilink")。
+首届WTA巡迴賽錦標賽在1972年[美国](../Page/美国.md "wikilink")[佛罗里达州](../Page/佛罗里达州.md "wikilink")的[博卡拉顿举行](https://zh.wikipedia.org/wiki/博卡拉顿 "wikilink")。在1972年到1986年期间，该项赛事都在每年三月举行。此后由于WTA决定将每年赛季改为1月至11月，因此总决赛也被改在每年的年末举行。因此，1986年的3月和11月举办了两次WTA总决赛。1979年至2000年期间，这项赛事一直都在美国[纽约](../Page/纽约.md "wikilink")的[麦迪逊广场花园](../Page/麦迪逊广场花园.md "wikilink")举行。此后，赛事的主办地点迁至[德国](../Page/德国.md "wikilink")，最近這項比賽以三年一輪於世界各地比賽，2014-2016在[新加坡](../Page/新加坡.md "wikilink")，2019-2029在[深圳](https://zh.wikipedia.org/wiki/深圳 "wikilink")。\[1\]
 
-1972年至1994年期间，根据赞助商的要求，这项赛事又被称作**维珍妮烟草杯冠军赛**（Virginia Slims
-Championships），在1990年后期也有一段时间被称作**Chase冠军赛**。但是这项赛事最为人熟知的名称依然是WTA年终总决赛。
+1972年至1994年期间，根据赞助商的要求，这项赛事又被称作**维珍妮烟草杯冠军赛**（Virginia Slims Championships），在1990年后期也有一段时间被称作**Chase冠军赛**。但是这项赛事最为人熟知的名称依然是WTA年终总决赛。
 
 1984年至1998年期间，该项赛事的决赛一直采用5盤3胜制，这也是女子网球比赛中唯一采用的赛制。但在1999年，主办者将其改为普遍的3盤2胜制。
 
@@ -397,7 +395,7 @@ WTA年终总决赛通常被认为是继[四大网球公开赛之後水平最高�
 <td><p>1981年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/纳芙拉蒂洛娃" title="wikilink">纳芙拉蒂洛娃</a><br />
  <a href="https://zh.wikipedia.org/wiki/潘·雪莉佛" title="wikilink">潘·雪莉佛</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/芭芭拉·波特" title="wikilink">芭芭拉·波特</a><br />
+<td><p><a href="../Page/芭芭拉·波特.md" title="wikilink">芭芭拉·波特</a><br />
  <a href="https://zh.wikipedia.org/wiki/莎朗·華許" title="wikilink">莎朗·華許</a></p></td>
 <td><p>6-0, 7-6(6)</p></td>
 </tr>
@@ -705,6 +703,6 @@ WTA年终总决赛通常被认为是继[四大网球公开赛之後水平最高�
 ## 外部链接
 
   -
-[Category:WTA巡迴賽](https://zh.wikipedia.org/wiki/Category:WTA巡迴賽 "wikilink")
-[Category:WTA巡迴賽總決賽](https://zh.wikipedia.org/wiki/Category:WTA巡迴賽總決賽 "wikilink")
-[Category:1972年建立的週期性體育事件](https://zh.wikipedia.org/wiki/Category:1972年建立的週期性體育事件 "wikilink")
+[Category:WTA巡迴賽](https://zh.wikipedia.org/wiki/Category:WTA巡迴賽 "wikilink") [Category:WTA巡迴賽總決賽](https://zh.wikipedia.org/wiki/Category:WTA巡迴賽總決賽 "wikilink") [Category:1972年建立的週期性體育事件](https://zh.wikipedia.org/wiki/Category:1972年建立的週期性體育事件 "wikilink")
+
+1.

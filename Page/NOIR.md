@@ -1,5 +1,4 @@
-《**NOIR**》（）是2001年4月5日到同年9月27日於東京電視台進行放送的電視動畫作品。全26話。以「槍與少女」為主要概念，將此系列命名為美少女槍戰三部曲，本作即為第1部曲\[1\]、後年發表第2部曲《[MADLAX](https://zh.wikipedia.org/wiki/MADLAX "wikilink")》（2004年）、第3部曲《[EL
-CAZADOR](../Page/魔女獵人.md "wikilink")》（2007年）以此為順序進行製作。
+《**NOIR**》（）是2001年4月5日到同年9月27日於東京電視台進行放送的電視動畫作品。全26話。以「槍與少女」為主要概念，將此系列命名為美少女槍戰三部曲，本作即為第1部曲\[1\]、後年發表第2部曲《[MADLAX](https://zh.wikipedia.org/wiki/MADLAX "wikilink")》（2004年）、第3部曲《[EL CAZADOR](../Page/魔女獵人.md "wikilink")》（2007年）以此為順序進行製作。
 
 由於是殺手的故事、片中對於槍械有相當深入的描述。同時、藉由「殺手」與美少女的衝擊性，以及黑暗行業與悲慘身世，來突顯並描述更深層面的人性探討。
 
@@ -13,10 +12,8 @@ CAZADOR](../Page/魔女獵人.md "wikilink")》（2007年）以此為順序進�
 
 ## 主要角色
 
-  - 夕叢霧香（Yumura
-    Kirika、CV：[桑島法子](https://zh.wikipedia.org/wiki/桑島法子 "wikilink")）
-  - 蜜蕾優．布克（Mireille
-    Bouquet、ミレイユ・ブーケ、CV：[三石琴乃](../Page/三石琴乃.md "wikilink")）
+  - 夕叢霧香（Yumura Kirika、CV：[桑島法子](https://zh.wikipedia.org/wiki/桑島法子 "wikilink")）
+  - 蜜蕾優．布克（Mireille Bouquet、ミレイユ・ブーケ、CV：[三石琴乃](../Page/三石琴乃.md "wikilink")）
   - 阿爾蒂娜（Altena、アルテナ、CV：[TARAKO](../Page/TARAKO.md "wikilink")）
   - 克洛維（Chloe、クロエ、CV：[久川綾](https://zh.wikipedia.org/wiki/久川綾 "wikilink")）
 
@@ -24,8 +21,7 @@ CAZADOR](../Page/魔女獵人.md "wikilink")》（2007年）以此為順序進�
 
   - 原案、構成、腳本 - [月村了衛](../Page/月村了衛.md "wikilink")
   - 監督、音響演出 - [真下耕一](../Page/真下耕一.md "wikilink")
-  - 人物設計 -
-    [菊地洋子](../Page/菊地洋子.md "wikilink")、[芝美奈子](../Page/芝美奈子.md "wikilink")、宮地聰子
+  - 人物設計 - [菊地洋子](../Page/菊地洋子.md "wikilink")、[芝美奈子](../Page/芝美奈子.md "wikilink")、宮地聰子
   - 機械設計 - [寺岡賢司](https://zh.wikipedia.org/wiki/寺岡賢司 "wikilink")
   - 色彩設計 - 片山由美子
   - 美術監督 - 小山俊久
@@ -40,28 +36,23 @@ CAZADOR](../Page/魔女獵人.md "wikilink")》（2007年）以此為順序進�
 ## 主題曲
 
   - 片頭曲「[コッペリアの柩](https://zh.wikipedia.org/wiki/コッペリアの柩 "wikilink")」
-    作詞 - [寶野亞莉華](https://zh.wikipedia.org/wiki/寶野亞莉華 "wikilink") / 作曲 -
-    [片倉三起也](https://zh.wikipedia.org/wiki/片倉三起也 "wikilink") / 歌 - [ALI
-    PROJECT](../Page/ALI_PROJECT.md "wikilink")
+    作詞 - [寶野亞莉華](https://zh.wikipedia.org/wiki/寶野亞莉華 "wikilink") / 作曲 - [片倉三起也](https://zh.wikipedia.org/wiki/片倉三起也 "wikilink") / 歌 - [ALI PROJECT](../Page/ALI_PROJECT.md "wikilink")
 
   - 片尾曲「きれいな感情」
-    作詞・作曲・歌 - [新居昭乃](../Page/新居昭乃.md "wikilink") / 編曲 -
-    [保刈久明](https://zh.wikipedia.org/wiki/保刈久明 "wikilink")
+    作詞・作曲・歌 - [新居昭乃](../Page/新居昭乃.md "wikilink") / 編曲 - [保刈久明](https://zh.wikipedia.org/wiki/保刈久明 "wikilink")
 
   - 插入曲
 
 :; 「Indio」（第21話）
 
-:: 作詞・作曲・編曲 - [梶浦由記](../Page/梶浦由記.md "wikilink") / 歌 -
-[chiaki](../Page/石川智晶.md "wikilink")
+:: 作詞・作曲・編曲 - [梶浦由記](../Page/梶浦由記.md "wikilink") / 歌 - [chiaki](../Page/石川智晶.md "wikilink")
 
 :; 「a farewell song」（第23話）
 
   -
 
       -
-        作詞・作曲・編曲 - 梶浦由記 / 歌 -
-        [笠原由里](https://zh.wikipedia.org/wiki/笠原由里 "wikilink")
+        作詞・作曲・編曲 - 梶浦由記 / 歌 - [笠原由里](https://zh.wikipedia.org/wiki/笠原由里 "wikilink")
 
 ## 各話列表
 
@@ -287,10 +278,6 @@ CAZADOR](../Page/魔女獵人.md "wikilink")》（2007年）以此為順序進�
 
   - [動畫官網](http://www.jvcmusic.co.jp/m-serve/tv/noir/index.html)
 
-[Category:2001年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2001年日本電視動畫 "wikilink")
-[Category:東京電視台深夜動畫](https://zh.wikipedia.org/wiki/Category:東京電視台深夜動畫 "wikilink")
-[Category:殺手主角題材動畫](https://zh.wikipedia.org/wiki/Category:殺手主角題材動畫 "wikilink")
-[Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
-[Category:黑幫題材作品](https://zh.wikipedia.org/wiki/Category:黑幫題材作品 "wikilink")
+[Category:2001年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2001年日本電視動畫 "wikilink") [Category:東京電視台深夜動畫](https://zh.wikipedia.org/wiki/Category:東京電視台深夜動畫 "wikilink") [Category:殺手主角題材動畫](https://zh.wikipedia.org/wiki/Category:殺手主角題材動畫 "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink") [Category:黑幫題材作品](https://zh.wikipedia.org/wiki/Category:黑幫題材作品 "wikilink")
 
 1.

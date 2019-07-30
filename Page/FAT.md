@@ -99,13 +99,11 @@
 </tbody>
 </table>
 
-**檔案配置表**（，[首字母縮略字](../Page/首字母縮略字.md "wikilink")：**FAT**），是一種由[微軟發明並擁有部分](https://zh.wikipedia.org/wiki/微軟 "wikilink")[專利](https://zh.wikipedia.org/wiki/專利 "wikilink")\[2\]
-的[文件系統](https://zh.wikipedia.org/wiki/文件系統 "wikilink")，供[MS-DOS使用](../Page/MS-DOS.md "wikilink")，也是所有非[NT核心的](../Page/Windows_NT.md "wikilink")[**Windows系统**使用的檔案系統](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。
+**檔案配置表**（，[首字母縮略字](../Page/首字母縮略字.md "wikilink")：**FAT**），是一種由[微軟發明並擁有部分](https://zh.wikipedia.org/wiki/微軟 "wikilink")[專利](https://zh.wikipedia.org/wiki/專利 "wikilink")\[2\] 的[文件系統](https://zh.wikipedia.org/wiki/文件系統 "wikilink")，供[MS-DOS](../Page/MS-DOS.md "wikilink")使用，也是所有非[NT核心的](../Page/Windows_NT.md "wikilink")[**Windows系统**使用的檔案系統](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。
 
-FAT文件系統考慮當時電腦效能有限，所以未被複雜化，因此幾乎所有[個人電腦的](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")[作業系統都支持](https://zh.wikipedia.org/wiki/作業系統 "wikilink")。這特性使它成為理想的[軟碟和](https://zh.wikipedia.org/wiki/軟碟 "wikilink")[記憶卡檔案系統](../Page/記憶卡.md "wikilink")，也適合用作不同操作系统中的資料交流。現在，一般所講的FAT專指FAT32。
+FAT文件系統考慮當時電腦效能有限，所以未被複雜化，因此幾乎所有[個人電腦的](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")[作業系統都支持](https://zh.wikipedia.org/wiki/作業系統 "wikilink")。這特性使它成為理想的[軟碟和](https://zh.wikipedia.org/wiki/軟碟 "wikilink")[記憶卡](../Page/記憶卡.md "wikilink")檔案系統，也適合用作不同操作系统中的資料交流。現在，一般所講的FAT專指FAT32。
 
-但FAT有一個嚴重的缺點：當文件刪除後寫入新資料，FAT不會將檔案整理成完整片段再寫入，長期使用後會使檔案資料變得逐漸分散，而減慢了讀寫速度。[-{zh-cn:碎片整理;
-zh-tw:磁碟重組;}-是一種解決方法](https://zh.wikipedia.org/wiki/碎片整理 "wikilink")，但必須經常重組來保持FAT文件系統的效率。
+但FAT有一個嚴重的缺點：當文件刪除後寫入新資料，FAT不會將檔案整理成完整片段再寫入，長期使用後會使檔案資料變得逐漸分散，而減慢了讀寫速度。[-{zh-cn:碎片整理; zh-tw:磁碟重組;}-是一種解決方法](https://zh.wikipedia.org/wiki/碎片整理 "wikilink")，但必須經常重組來保持FAT文件系統的效率。
 
 ## 歷史
 
@@ -121,59 +119,39 @@ FAT文件系統遵行已用了多年的軟體方法來進行規範。它在1977�
 
 ### 目录
 
-MS-DOS 2.0为了支援以內建10MB硬盘为特色的IBM PC
-XT，因此几乎与该计算机同时在1983年初发布。它引进了层次目录结构，除了允许更有效率地组织文件外，目录允许在硬盘上存储更多的文件，这是因为最大文件个数不再受制于（仍然是固定且有限的）根目录大小。这个数目现在能够等同于簇的数目（甚至更大，这是考虑到长度为0的文件并不占据任何FAT簇）。
+MS-DOS 2.0为了支援以內建10MB硬盘为特色的IBM PC XT，因此几乎与该计算机同时在1983年初发布。它引进了层次目录结构，除了允许更有效率地组织文件外，目录允许在硬盘上存储更多的文件，这是因为最大文件个数不再受制于（仍然是固定且有限的）根目录大小。这个数目现在能够等同于簇的数目（甚至更大，这是考虑到长度为0的文件并不占据任何FAT簇）。
 
-FAT本身的格式并没有改变。PC XT的10MB的硬盘有4KB大小的簇。如果后来安装了一个20MB的硬盘，并且使用MS-DOS
-2.0格式化，最后的簇大小将变为8KB，硬盘容量将变为15.9MB。
+FAT本身的格式并没有改变。PC XT的10MB的硬盘有4KB大小的簇。如果后来安装了一个20MB的硬盘，并且使用MS-DOS 2.0格式化，最后的簇大小将变为8KB，硬盘容量将变为15.9MB。
 
 ### FAT16的開始
 
-在1984年，[IBM發布PC](../Page/IBM.md "wikilink")
-AT，內含一個20MB的硬碟。微软公司也同步发布了MS-DOS
-3.0。簇集位址增加至16位元，允許更大數量的簇（最大65,517），所以有更大的檔案系統大小。但是，最大數量磁區及最大分割區（相當於磁盤）的大小仍是32MB。所以，尽管技术上已经是“FAT16”，这种格式并不是我们今天常见到的这个名字所代表的格式。在MS-DOS
-3.0格式化一個20 MB的硬碟，這硬碟將不能被MS-DOS 2.0或之前的版本所存取。當然，MS-DOS 3.0仍然可存取MS-DOS
-2.0的格式（8KB叢集的分割區）。
+在1984年，[IBM](../Page/IBM.md "wikilink")發布PC AT，內含一個20MB的硬碟。微软公司也同步发布了MS-DOS 3.0。簇集位址增加至16位元，允許更大數量的簇（最大65,517），所以有更大的檔案系統大小。但是，最大數量磁區及最大分割區（相當於磁盤）的大小仍是32MB。所以，尽管技术上已经是“FAT16”，这种格式并不是我们今天常见到的这个名字所代表的格式。在MS-DOS 3.0格式化一個20 MB的硬碟，這硬碟將不能被MS-DOS 2.0或之前的版本所存取。當然，MS-DOS 3.0仍然可存取MS-DOS 2.0的格式（8KB叢集的分割區）。
 
-MS-DOS 3.0也开始支持高密度1.2MB
-5.25"磁盘，最著名的是每个磁道有15个扇区，这样就允许FAT有更大的空间。这或许促进了一个对于簇大小的不确定的优化，簇大小从2个扇区减到1个。这样做的最后结果是高密度磁盘比旧的*双密度*磁盘的速度大幅度降低。
+MS-DOS 3.0也开始支持高密度1.2MB 5.25"磁盘，最著名的是每个磁道有15个扇区，这样就允许FAT有更大的空间。这或许促进了一个对于簇大小的不确定的优化，簇大小从2个扇区减到1个。这样做的最后结果是高密度磁盘比旧的*双密度*磁盘的速度大幅度降低。
 
 ### 扩展分区和逻辑驱动器
 
-除了改进FAT文件系统本身的结构之外，另一個提高FAT存储空间的方式是支持多个磁盘分区。最初，受限於[主引导记录中文件分配表的固定结构一个硬盘最多只能切出多达](../Page/主引导记录.md "wikilink")4个分区。然而，由于DOS设计要求只能有一个分区标识为“活动的（Active）”，它也是主引导代码启动所用的分区。使用DOS工具不可能创建几个“主”DOS分区，并且第三方的工具也至少会警告这样一个机制将与DOS不兼容。
+除了改进FAT文件系统本身的结构之外，另一個提高FAT存储空间的方式是支持多个磁盘分区。最初，受限於[主引导记录](../Page/主引导记录.md "wikilink")中文件分配表的固定结构一个硬盘最多只能切出多达4个分区。然而，由于DOS设计要求只能有一个分区标识为“活动的（Active）”，它也是主引导代码启动所用的分区。使用DOS工具不可能创建几个“主”DOS分区，并且第三方的工具也至少会警告这样一个机制将与DOS不兼容。
 
-为了用一种兼容的方式使用更多的分区，一种新的分区类型被开发出来（1986年1月的MS-DOS
-3.2），*扩展分区*它实际上是另外称为*逻辑分区*的一个容器。最初它裡面只允许有一个逻辑分区、支持最大64MB的硬盘。在MS-DOS
-3.3（1987年8月）这个限制更改到24个分区；它可能来自于强制性的C:-Z：的磁盘命名规则。逻辑分区表使用盘上的数据结构来描述，可能是为了简化编码它与主引导记录非常相似，并且它们组织成类似于[俄罗斯套娃那样的结构](../Page/俄罗斯套娃.md "wikilink")。一顆硬碟中只能有一个扩展分区。
+为了用一种兼容的方式使用更多的分区，一种新的分区类型被开发出来（1986年1月的MS-DOS 3.2），*扩展分区*它实际上是另外称为*逻辑分区*的一个容器。最初它裡面只允许有一个逻辑分区、支持最大64MB的硬盘。在MS-DOS 3.3（1987年8月）这个限制更改到24个分区；它可能来自于强制性的C:-Z：的磁盘命名规则。逻辑分区表使用盘上的数据结构来描述，可能是为了简化编码它与主引导记录非常相似，并且它们组织成类似于[俄罗斯套娃](../Page/俄罗斯套娃.md "wikilink")那样的结构。一顆硬碟中只能有一个扩展分区。
 
 在扩展分区觀念導入之前，一些硬盘控制器（當時採用獨立的硬碟控制卡，[IDE标准尚未出現](../Page/ATA.md "wikilink")）能够将大硬盘显示为两个独立的硬盘。
 
 ### 最终的FAT16
 
-1987年11月，我们今天称之为*FAT*的格式最终到来，它在[康柏DOS](../Page/康柏.md "wikilink")
-3.31中去掉了磁盘扇区的16位计数器。这个结果曾经一度被称为*DOS
-3.31大文件系统*。尽管看起来磁盘上的变动很小，这个DOS的磁盘代码都必须检查并转换到32位的扇区数，由于它完全是16位的[汇编语言这样一个现实](../Page/汇编语言.md "wikilink")，这项工作就变得非常复杂。
+1987年11月，我们今天称之为*FAT*的格式最终到来，它在[康柏](../Page/康柏.md "wikilink")DOS 3.31中去掉了磁盘扇区的16位计数器。这个结果曾经一度被称为*DOS 3.31大文件系统*。尽管看起来磁盘上的变动很小，这个DOS的磁盘代码都必须检查并转换到32位的扇区数，由于它完全是16位的[汇编语言](../Page/汇编语言.md "wikilink")这样一个现实，这项工作就变得非常复杂。
 
-1988年，这项改进通过MS-DOS
-4.0得到广泛应用。现在分区大小受限于每个簇的8位有符号扇区计数，它最大能达到2的64次方，对于一个常用的有32KB个簇每扇区512字节的硬盘来说，将FAT16分区大小的“明显”限制扩充到2[GB](https://zh.wikipedia.org/wiki/GB "wikilink")。在[磁光碟媒体上](https://zh.wikipedia.org/wiki/磁光碟 "wikilink")，它能使用1或者2KB的扇区，这样大小限制也就成比例地增大。
+1988年，这项改进通过MS-DOS 4.0得到广泛应用。现在分区大小受限于每个簇的8位有符号扇区计数，它最大能达到2的64次方，对于一个常用的有32KB个簇每扇区512字节的硬盘来说，将FAT16分区大小的“明显”限制扩充到2[GB](https://zh.wikipedia.org/wiki/GB "wikilink")。在[磁光碟媒体上](https://zh.wikipedia.org/wiki/磁光碟 "wikilink")，它能使用1或者2KB的扇区，这样大小限制也就成比例地增大。
 
-后来，Windows
-NT通过将每个簇的扇区数当作无符号数将最大的簇大小增加到64KB。然而这个格式与当时其它任何格式的FAT都不兼容，并且这样的操作会产生大量的[内部碎片](https://zh.wikipedia.org/wiki/内部碎片 "wikilink")。Windows
-98 也支持这种格式的读写操作，但是它的磁盘管理工具不支持这种格式。
+后来，Windows NT通过将每个簇的扇区数当作无符号数将最大的簇大小增加到64KB。然而这个格式与当时其它任何格式的FAT都不兼容，并且这样的操作会产生大量的[内部碎片](https://zh.wikipedia.org/wiki/内部碎片 "wikilink")。Windows 98 也支持这种格式的读写操作，但是它的磁盘管理工具不支持这种格式。
 
 ### 长文件名（VFAT, LFN）
 
-[Windows
-95设计人员的一个用户体验目标就是](../Page/Windows_95.md "wikilink")：除了传统的[8.3文件名以外](https://zh.wikipedia.org/wiki/8.3 "wikilink")，在新操作系统中使用长文件名（LFN）。长文件名通过在目录条目排列时，使用一个工作区来实现（参见下面）。按照Windows
-95[VxD设备驱动程序的命名规则](../Page/VxD.md "wikilink")，这个新扩充的文件系统通常称为VFAT。
+[Windows 95设计人员的一个用户体验目标就是](../Page/Windows_95.md "wikilink")：除了传统的[8.3文件名以外](https://zh.wikipedia.org/wiki/8.3 "wikilink")，在新操作系统中使用长文件名（LFN）。长文件名通过在目录条目排列时，使用一个工作区来实现（参见下面）。按照Windows 95[VxD](../Page/VxD.md "wikilink")设备驱动程序的命名规则，这个新扩充的文件系统通常称为VFAT。
 
-有意思的是，VFAT驱动在早于Windows 95的[Windows for Groups
-3.11中就已经出现](https://zh.wikipedia.org/wiki/Windows_3.1 "wikilink")，但它仅仅用于实现[32位文件访问](https://zh.wikipedia.org/wiki/32位文件访问 "wikilink")，一个绕过DOS的视窗自带高性能[保护模式文件管理系统](https://zh.wikipedia.org/wiki/保护模式 "wikilink")，它能够直接使用[BIOS或者更好的](../Page/BIOS.md "wikilink")[32位磁盘访问](https://zh.wikipedia.org/wiki/32位磁盘访问 "wikilink")，如Windows自带的保护模式磁盘驱动程序。它是一个[后门](https://zh.wikipedia.org/wiki/后门 "wikilink")；微软为Windows
-for Groups 3.11所作的广告说32位文件访问基于“芝加哥项目的32位文件系统”。
+有意思的是，VFAT驱动在早于Windows 95的[Windows for Groups 3.11中就已经出现](https://zh.wikipedia.org/wiki/Windows_3.1 "wikilink")，但它仅仅用于实现[32位文件访问](https://zh.wikipedia.org/wiki/32位文件访问 "wikilink")，一个绕过DOS的视窗自带高性能[保护模式文件管理系统](https://zh.wikipedia.org/wiki/保护模式 "wikilink")，它能够直接使用[BIOS](../Page/BIOS.md "wikilink")或者更好的[32位磁盘访问](https://zh.wikipedia.org/wiki/32位磁盘访问 "wikilink")，如Windows自带的保护模式磁盘驱动程序。它是一个[后门](https://zh.wikipedia.org/wiki/后门 "wikilink")；微软为Windows for Groups 3.11所作的广告说32位文件访问基于“芝加哥项目的32位文件系统”。
 
-在[Windows
-NT中](../Page/Windows_NT.md "wikilink")，FAT文件系统对于长文件名的支持从3.5版就已经开始了。在MS-DOS
-7.0以后的版本中，则可使用类似DOSLFN这样的软件使得DIR等命令显示出长文件名。
+在[Windows NT中](../Page/Windows_NT.md "wikilink")，FAT文件系统对于长文件名的支持从3.5版就已经开始了。在MS-DOS 7.0以后的版本中，则可使用类似DOSLFN这样的软件使得DIR等命令显示出长文件名。
 
 ### FAT32
 
@@ -181,74 +159,41 @@ NT中](../Page/Windows_NT.md "wikilink")，FAT文件系统对于长文件名的�
 
 理论上，这将支持总数达268,435,438（\<2<sup>28</sup>）的簇，允许磁盘容量达到8TB。然而，由于微软公司[scandisk工具的限制](https://zh.wikipedia.org/wiki/scandisk "wikilink")，FAT32不能大于4,177,920（\<2<sup>22</sup>）个簇，这将卷的容量限制在了124.55[GB](https://zh.wikipedia.org/wiki/Gibibyte "wikilink")，除非不再使用“scandisk”。\[4\]
 
-FAT32随着[Windows 95](../Page/Windows_95.md "wikilink")
-OSR2发布，尽管需要重新格式化才能使用这种格式并且[DriveSpace](../Page/DriveSpace.md "wikilink")
-3（[Windows 95](../Page/Windows_95.md "wikilink") OSR2和[Windows
-98所带版本](../Page/Windows_98.md "wikilink") ）从来都不支援这种格式。[Windows
-98提供了一个工具用来在不丢失数据的情况下将现有的硬盘从FAT](../Page/Windows_98.md "wikilink")16转到FAT32格式。在NT产品线上对于它的支援从[Windows
-2000开始](../Page/Windows_2000.md "wikilink")。
+FAT32随着[Windows 95](../Page/Windows_95.md "wikilink") OSR2发布，尽管需要重新格式化才能使用这种格式并且[DriveSpace](../Page/DriveSpace.md "wikilink") 3（[Windows 95](../Page/Windows_95.md "wikilink") OSR2和[Windows 98所带版本](../Page/Windows_98.md "wikilink") ）从来都不支援这种格式。[Windows 98提供了一个工具用来在不丢失数据的情况下将现有的硬盘从FAT](../Page/Windows_98.md "wikilink")16转到FAT32格式。在NT产品线上对于它的支援从[Windows 2000开始](../Page/Windows_2000.md "wikilink")。
 
-[Windows 2000和](../Page/Windows_2000.md "wikilink")[Windows
-XP能够读写任何大小的FAT](../Page/Windows_XP.md "wikilink")32文件系统，但是这些平台上的格式化程序只能创建最大32GB的FAT32文件系统。Thompson
-and Thompson（2003）写道“奇怪的是微软公司说这种现象是故意设计的”\[5\]
-微软公司知识库文章184006的确是这么说的，但是没有提出任何关于这个限制的合理解释。[Peter
-Norton的观点是](https://zh.wikipedia.org/wiki/Peter_Norton "wikilink")“微软公司在有意地削弱FAT32文件系统”\[6\]。
+[Windows 2000和](../Page/Windows_2000.md "wikilink")[Windows XP能够读写任何大小的FAT](../Page/Windows_XP.md "wikilink")32文件系统，但是这些平台上的格式化程序只能创建最大32GB的FAT32文件系统。Thompson and Thompson（2003）写道“奇怪的是微软公司说这种现象是故意设计的”\[5\] 微软公司知识库文章184006的确是这么说的，但是没有提出任何关于这个限制的合理解释。[Peter Norton的观点是](https://zh.wikipedia.org/wiki/Peter_Norton "wikilink")“微软公司在有意地削弱FAT32文件系统”\[6\]。
 
 ### exFAT
 
-在[Windows Embedded CE
-6.0中引入](../Page/Windows_Embedded_CE_6.0.md "wikilink")，[Windows
-XP](../Page/Windows_XP.md "wikilink") SP3 以及 [Windows
-Vista](../Page/Windows_Vista.md "wikilink")
-SP1也引入了exFAT的支持。在很多方面exFAT有了相当大的改进，特別適合用於[快閃記憶體](https://zh.wikipedia.org/wiki/快閃記憶體 "wikilink")。
+在[Windows Embedded CE 6.0中引入](../Page/Windows_Embedded_CE_6.0.md "wikilink")，[Windows XP](../Page/Windows_XP.md "wikilink") SP3 以及 [Windows Vista](../Page/Windows_Vista.md "wikilink") SP1也引入了exFAT的支持。在很多方面exFAT有了相当大的改进，特別適合用於[快閃記憶體](https://zh.wikipedia.org/wiki/快閃記憶體 "wikilink")。
 
 ### 第三方支持
 
-其它IBM
-PC的可选操作系统，如[Linux](../Page/Linux.md "wikilink")、[FreeBSD和](../Page/FreeBSD.md "wikilink")[BeOS都支持FAT格式](../Page/BeOS.md "wikilink")，并且大部分都在相应的Windows版本发布以后很快就支持VFAT和FAT32格式。早期的Linux发布版本还包括称为[UMSDOS的格式](https://zh.wikipedia.org/wiki/UMSDOS "wikilink")，它是保存在一个独立的称为`--linux-.——`的带有Unix[文件属性](https://zh.wikipedia.org/wiki/文件属性 "wikilink")（如长文件名和访问许可）的FAT。UMSDOS在VFAT发布以后就不再使用。[Linux内核从](../Page/Linux内核.md "wikilink")2.5.7开始就禁止了这项功能。[Mac
-OS
-X操作系统在除](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[启动盘之外的其它卷上也支持FAT文件系统](https://zh.wikipedia.org/wiki/启动盘 "wikilink")。
+其它IBM PC的可选操作系统，如[Linux](../Page/Linux.md "wikilink")、[FreeBSD](../Page/FreeBSD.md "wikilink")和[BeOS](../Page/BeOS.md "wikilink")都支持FAT格式，并且大部分都在相应的Windows版本发布以后很快就支持VFAT和FAT32格式。早期的Linux发布版本还包括称为[UMSDOS的格式](https://zh.wikipedia.org/wiki/UMSDOS "wikilink")，它是保存在一个独立的称为`--linux-.——`的带有Unix[文件属性](https://zh.wikipedia.org/wiki/文件属性 "wikilink")（如长文件名和访问许可）的FAT。UMSDOS在VFAT发布以后就不再使用。[Linux内核](../Page/Linux内核.md "wikilink")从2.5.7开始就禁止了这项功能。[Mac OS X操作系统在除](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[启动盘之外的其它卷上也支持FAT文件系统](https://zh.wikipedia.org/wiki/启动盘 "wikilink")。
 
 ### FAT和其它数据流
 
-FAT文件系统本身不是为支持[ADS而设计的](https://zh.wikipedia.org/wiki/ADS "wikilink")，但是一些高度依赖它们的操作系统创造出了不同的方法以在FAT驱动器上处理它们。这些方法或者在额外的文件或路径中存储附加的信息（Mac
-OS），或者给那些磁盘数据结构中以前没有使用的变量赋予新的含义（OS/2和Windows
-NT）。第二种设计，尽管想像起来会更有效率，但是它们不能被不认识这种格式的工具复制或者备份；使用不能识别这种格式的磁盘工具（如碎片整理或[CHKDSK](../Page/CHKDSK.md "wikilink")）操控这些磁盘时可能会破坏这些信息。
+FAT文件系统本身不是为支持[ADS而设计的](https://zh.wikipedia.org/wiki/ADS "wikilink")，但是一些高度依赖它们的操作系统创造出了不同的方法以在FAT驱动器上处理它们。这些方法或者在额外的文件或路径中存储附加的信息（Mac OS），或者给那些磁盘数据结构中以前没有使用的变量赋予新的含义（OS/2和Windows NT）。第二种设计，尽管想像起来会更有效率，但是它们不能被不认识这种格式的工具复制或者备份；使用不能识别这种格式的磁盘工具（如碎片整理或[CHKDSK](../Page/CHKDSK.md "wikilink")）操控这些磁盘时可能会破坏这些信息。
 
-[Mac OS使用](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")[PC
-Exchange存储不同的数据](https://zh.wikipedia.org/wiki/PC_Exchange "wikilink")，文件属性和文件名存在一个名为FINDER.DAT的隐藏文件中，资源分支（ADS）存在名为RESSOURCE.FRK的子目录中，这些数据都存在使用它们的每个目录中。从PC
-Exchange 2.1开始，它们将Mac
-OS的长文件名保存为标准的FAT长文件名，并且将超过31个字符的FAT长文件名转换为唯一的31字符能够被Macintosh应用程序识别的文件名。
+[Mac OS使用](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")[PC Exchange存储不同的数据](https://zh.wikipedia.org/wiki/PC_Exchange "wikilink")，文件属性和文件名存在一个名为FINDER.DAT的隐藏文件中，资源分支（ADS）存在名为RESSOURCE.FRK的子目录中，这些数据都存在使用它们的每个目录中。从PC Exchange 2.1开始，它们将Mac OS的长文件名保存为标准的FAT长文件名，并且将超过31个字符的FAT长文件名转换为唯一的31字符能够被Macintosh应用程序识别的文件名。
 
-[Mac OS
-X将元数据](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")（资源分支、不同的ADS、文件属性）保存在与所有人相同并以“._”开始的名字的隐藏文件中，并且Finder将一些文件夹和文件元数据存在名为“[.DS
-Store](../Page/.DS_Store.md "wikilink")”的隐藏文件中。
+[Mac OS X将元数据](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")（资源分支、不同的ADS、文件属性）保存在与所有人相同并以“._”开始的名字的隐藏文件中，并且Finder将一些文件夹和文件元数据存在名为“[.DS Store](../Page/.DS_Store.md "wikilink")”的隐藏文件中。
 
-[OS/2高度依赖于](https://zh.wikipedia.org/wiki/OS/2 "wikilink")[扩展属性](https://zh.wikipedia.org/wiki/扩展属性 "wikilink")（EA）并且将它们存在位于FAT12或FAT16的根目录下名为“EA
-DATA.
-SF”的隐藏文件中。这个文件使用以前文件（或者目录）的目录清单中的两个保留字节索引。在FAT32格式中，这些字节中存有文件或者目录开始簇号的高16位，这样就使它难于在FAT32上保存EA。扩展属性可以通过[Workplace
-Shell桌面](https://zh.wikipedia.org/wiki/Workplace_Shell "wikilink")、[REXX脚本](../Page/REXX.md "wikilink")、许多系统[图形用户接口和](../Page/图形用户界面.md "wikilink")[命令行工具](../Page/命令行界面.md "wikilink")（如[4OS2](https://zh.wikipedia.org/wiki/4DOS "wikilink")）来访问。
+[OS/2高度依赖于](https://zh.wikipedia.org/wiki/OS/2 "wikilink")[扩展属性](https://zh.wikipedia.org/wiki/扩展属性 "wikilink")（EA）并且将它们存在位于FAT12或FAT16的根目录下名为“EA DATA. SF”的隐藏文件中。这个文件使用以前文件（或者目录）的目录清单中的两个保留字节索引。在FAT32格式中，这些字节中存有文件或者目录开始簇号的高16位，这样就使它难于在FAT32上保存EA。扩展属性可以通过[Workplace Shell桌面](https://zh.wikipedia.org/wiki/Workplace_Shell "wikilink")、[REXX](../Page/REXX.md "wikilink")脚本、许多系统[图形用户接口和](../Page/图形用户界面.md "wikilink")[命令行工具](../Page/命令行界面.md "wikilink")（如[4OS2](https://zh.wikipedia.org/wiki/4DOS "wikilink")）来访问。
 
-[Windows
-NT支持HPFS](../Page/Windows_NT.md "wikilink")、[NTFS和FAT中所有扩展属性的处理](../Page/NTFS.md "wikilink")（所用处理机制完全类似于OS/2），但是不能处理其它一些存于NTFS驱动器的ADS数据。试图从复制带有与NTFS驱动器属性不同扩展属性的ADS到FAT驱动器将报告一个警告信息提示ADS将会丢失。
+[Windows NT支持HPFS](../Page/Windows_NT.md "wikilink")、[NTFS](../Page/NTFS.md "wikilink")和FAT中所有扩展属性的处理（所用处理机制完全类似于OS/2），但是不能处理其它一些存于NTFS驱动器的ADS数据。试图从复制带有与NTFS驱动器属性不同扩展属性的ADS到FAT驱动器将报告一个警告信息提示ADS将会丢失。
 
-[Windows 2000以后产品的处理类似于Windows](../Page/Windows_2000.md "wikilink")
-NT但复制到FAT32时它们没有显示任何警告信息直接丢弃扩展属性（但报告其他像“Macintosh Finder
-Info”和“Macintosh Resource Fork”这些ADS引起的警告）。
+[Windows 2000以后产品的处理类似于Windows](../Page/Windows_2000.md "wikilink") NT但复制到FAT32时它们没有显示任何警告信息直接丢弃扩展属性（但报告其他像“Macintosh Finder Info”和“Macintosh Resource Fork”这些ADS引起的警告）。
 
 ### 前景
 
-微软公司最近获得了VFAT和FAT32的专利（但没有得到最初的FAT的专利），这引起了人们对于微软将会對Linux
-OS发布和初始化他们产品的媒体厂商收取专利费的担忧（参见下面的FAT授权协议）。尽管最初的裁定不利于微软公司，但是微软仍然取得了胜利并且得到了专利授权。
+微软公司最近获得了VFAT和FAT32的专利（但没有得到最初的FAT的专利），这引起了人们对于微软将会對Linux OS发布和初始化他们产品的媒体厂商收取专利费的担忧（参见下面的FAT授权协议）。尽管最初的裁定不利于微软公司，但是微软仍然取得了胜利并且得到了专利授权。
 
-由于微软公司已经宣布不再开发基于[MS-DOS作業系统](../Page/MS-DOS.md "wikilink")[Windows
-Me的后续版本](../Page/Windows_Me.md "wikilink")，所以不再有可能会有新版的FAT。对于大多数用途来说，为Windows
-NT系列开发的[NTFS檔案系统从效率](../Page/NTFS.md "wikilink")、性能、安全性及可靠性来说都优于FAT；它的主要缺点是小容量檔案所占的额外空間以及除了基于NT的Windows作業系統之外的很少有其他作業系統支援。由于确切的规范是微软公司的[商业秘密](../Page/商业秘密.md "wikilink")，这就使得使用一个DOS软盘用于恢复目的很困难（根據微軟MCSE訓練教材說明此點是刻意保密，以確保NTFS檔案系統不易被盜取資料）。微软公司提供了一个[恢复界面来解决这个问题](https://zh.wikipedia.org/wiki/恢复界面 "wikilink")，由于安全的原因它严重限制了缺省情况下它所能解决的问题。
+由于微软公司已经宣布不再开发基于[MS-DOS](../Page/MS-DOS.md "wikilink")作業系统[Windows Me的后续版本](../Page/Windows_Me.md "wikilink")，所以不再有可能会有新版的FAT。对于大多数用途来说，为Windows NT系列开发的[NTFS](../Page/NTFS.md "wikilink")檔案系统从效率、性能、安全性及可靠性来说都优于FAT；它的主要缺点是小容量檔案所占的额外空間以及除了基于NT的Windows作業系統之外的很少有其他作業系統支援。由于确切的规范是微软公司的[商业秘密](../Page/商业秘密.md "wikilink")，这就使得使用一个DOS软盘用于恢复目的很困难（根據微軟MCSE訓練教材說明此點是刻意保密，以確保NTFS檔案系統不易被盜取資料）。微软公司提供了一个[恢复界面来解决这个问题](https://zh.wikipedia.org/wiki/恢复界面 "wikilink")，由于安全的原因它严重限制了缺省情况下它所能解决的问题。
 
-FAT仍然是移动媒体所常用的一种文件系统（CD和DVD是例外），软碟使用的是FAT12，其他多数活动媒体用的是FAT32（如用于[数位相机的](https://zh.wikipedia.org/wiki/数位相机 "wikilink")[快閃記憶卡和](https://zh.wikipedia.org/wiki/快閃 "wikilink")[USB隨身碟](../Page/USB.md "wikilink")，Windows格式化的默认选项仍为FAT32），除非其容量超出FAT32的限制。出于兼容性和存储空间利用率的考虑FAT仍然用在这些驱动器上，同时也是由于这些活动媒体上的文件的许可更容易遇到麻烦而不是更重要这样一个事实。
+FAT仍然是移动媒体所常用的一种文件系统（CD和DVD是例外），软碟使用的是FAT12，其他多数活动媒体用的是FAT32（如用于[数位相机的](https://zh.wikipedia.org/wiki/数位相机 "wikilink")[快閃記憶卡和](https://zh.wikipedia.org/wiki/快閃 "wikilink")[USB](../Page/USB.md "wikilink")隨身碟，Windows格式化的默认选项仍为FAT32），除非其容量超出FAT32的限制。出于兼容性和存储空间利用率的考虑FAT仍然用在这些驱动器上，同时也是由于这些活动媒体上的文件的许可更容易遇到麻烦而不是更重要这样一个事实。
 
-Windows
-2000和XP支援的FAT32格式化的限制是32GB，这导致使用现代硬碟的用户必须要么使用NTFS要么使用其它程序格式化驱动器。一个解决的办法是使用从Linux移植到Windows平台的一个工具[mkdosfs](https://zh.wikipedia.org/wiki/mkdosfs "wikilink")。
+Windows 2000和XP支援的FAT32格式化的限制是32GB，这导致使用现代硬碟的用户必须要么使用NTFS要么使用其它程序格式化驱动器。一个解决的办法是使用从Linux移植到Windows平台的一个工具[mkdosfs](https://zh.wikipedia.org/wiki/mkdosfs "wikilink")。
 
 ## 设计
 
@@ -262,8 +207,7 @@ Windows
 
 一个FAT文件系统包括四个不同的部分。
 
-1.  **保留扇区**，位于最开始的位置。
-    第一个保留扇区是[引导扇区](https://zh.wikipedia.org/wiki/引导扇区 "wikilink")（*分区启动记录*）。它包括一个称为*基本输入输出参数块*的区域（包括一些基本的文件系统信息尤其是它的类型和其它指向其它扇区的指针），通常包括操作系统的启动调用代码。保留扇区的总数记录在引导扇区中的一个参数中。引导扇区中的重要信息可以被DOS和OS/2中称为*驱动器参数块*的操作系统结构访问。
+1.  **保留扇区**，位于最开始的位置。 第一个保留扇区是[引导扇区](https://zh.wikipedia.org/wiki/引导扇区 "wikilink")（*分区启动记录*）。它包括一个称为*基本输入输出参数块*的区域（包括一些基本的文件系统信息尤其是它的类型和其它指向其它扇区的指针），通常包括操作系统的启动调用代码。保留扇区的总数记录在引导扇区中的一个参数中。引导扇区中的重要信息可以被DOS和OS/2中称为*驱动器参数块*的操作系统结构访问。
 2.  **FAT区域**。它包含有两份*文件分配表*，这是出于系统冗余考虑，尽管它很少使用，即使是磁盘修复工具也很少使用它。它是分区信息的映射表，指示簇是如何存储的。
 3.  **根目录区域**。它是在根目录中存储文件和目录信息的*目录表*。在FAT32下它可以存在分区中的任何位置，但是在早期的版本中它永远紧随*FAT区域*之后。
 4.  **数据区域**。这是实际的文件和目录数据存储的区域，它占据了分区的绝大部分。通过简单地在FAT中添加文件链接的个数可以任意增加文件大小和子目录个数（只要有空簇存在）。然而需要注意的是每个簇只能被一个文件占有，这样的话如果在32KB大小的簇中有一个1KB大小的文件，那么31KB的空间就浪费掉了。
@@ -505,18 +449,13 @@ Windows
 </tbody>
 </table>
 
-这里描述的启动扇区能在如OS/2 1.3的启动盘上看到。早期的版本使用一个较短的基本输入输出系统参数块，它们的启动代码在前面开始（如OS/2
-1.1中是偏移0x2b）。
+这里描述的启动扇区能在如OS/2 1.3的启动盘上看到。早期的版本使用一个较短的基本输入输出系统参数块，它们的启动代码在前面开始（如OS/2 1.1中是偏移0x2b）。
 
 #### 例外情况
 
-[Apricot
-PC的](https://zh.wikipedia.org/wiki/Apricot_PC "wikilink")[MS-DOS所用FAT的实现有一个不同的启动扇区组织以使用计算机与IBM不兼容的](../Page/MS-DOS.md "wikilink")[基本输入输出系统](../Page/BIOS.md "wikilink")。跳转指令和OEM名被省略并且MS-DOS文件系统参数位于0x50（在标准扇区中偏移为0x0B
-- 0x17）。后来的Apricot MS-DOS版本除了Apricot特有的引导区之外也具有了读写标准启动分区的能力。
+[Apricot PC的](https://zh.wikipedia.org/wiki/Apricot_PC "wikilink")[MS-DOS](../Page/MS-DOS.md "wikilink")所用FAT的实现有一个不同的启动扇区组织以使用计算机与IBM不兼容的[基本输入输出系统](../Page/BIOS.md "wikilink")。跳转指令和OEM名被省略并且MS-DOS文件系统参数位于0x50（在标准扇区中偏移为0x0B - 0x17）。后来的Apricot MS-DOS版本除了Apricot特有的引导区之外也具有了读写标准启动分区的能力。
 
-[BBC Master](https://zh.wikipedia.org/wiki/BBC_Master "wikilink")
-512上的[DOS
-Plus根本就不使用传统的引导区](https://zh.wikipedia.org/wiki/DOS_Plus "wikilink")。数据磁盘省略了引导区并且以一个单份的FAT开始（FAT的第一个字节用来确定磁盘容量），启动磁盘使用一个包含启动调用程序的小型[ADFS文件系统](https://zh.wikipedia.org/wiki/ADFS "wikilink")，后面跟随一个单份的FAT。
+[BBC Master](https://zh.wikipedia.org/wiki/BBC_Master "wikilink") 512上的[DOS Plus根本就不使用传统的引导区](https://zh.wikipedia.org/wiki/DOS_Plus "wikilink")。数据磁盘省略了引导区并且以一个单份的FAT开始（FAT的第一个字节用来确定磁盘容量），启动磁盘使用一个包含启动调用程序的小型[ADFS文件系统](https://zh.wikipedia.org/wiki/ADFS "wikilink")，后面跟随一个单份的FAT。
 
 ### 文件分配表
 
@@ -778,8 +717,7 @@ DOS文件名位于[OEM字符集](../Page/代码页.md "wikilink")。
 
 长文件名（LFN）使用一个技巧存储在FAT文件系统上——在目录表中添加假的条目。这些条目使用一个普通文件无法使用的卷标属性标识，普通文件无法使用是由于它们被大多数旧的MS-DOS程序忽略。很显然，一个只包含卷标的目录被当作空卷，这样就允许删除；使用长文件名创建的文件在从普通的DOS删除就会发生这样的情形。
 
-[校验和也允许检验长文件名是否与](https://zh.wikipedia.org/wiki/校验和 "wikilink")8.3文件名匹配；当一个文件删除之后使用DOS在同一个目录位置重新创建之后就会出现不匹配现象。校验和使用下面的算法计算。（注意pFcbName是指向如正常目录条目中所显示的文件名的指针，例如前八个字符是文件名，最后三个是扩展名。点是隐含的。文件名中没有使用的空间将使用空格（ASCII
-0x20）补齐。例如，“Readme.txt”将记录为`"README TXT"`。
+[校验和也允许检验长文件名是否与](https://zh.wikipedia.org/wiki/校验和 "wikilink")8.3文件名匹配；当一个文件删除之后使用DOS在同一个目录位置重新创建之后就会出现不匹配现象。校验和使用下面的算法计算。（注意pFcbName是指向如正常目录条目中所显示的文件名的指针，例如前八个字符是文件名，最后三个是扩展名。点是隐含的。文件名中没有使用的空间将使用空格（ASCII 0x20）补齐。例如，“Readme.txt”将记录为`"README TXT"`。
 
 ``` c
 unsigned char lfn_checksum (const unsigned char *pFcbName)
@@ -810,8 +748,7 @@ unsigned char lfn_checksum (const unsigned char *pFcbName)
 | 0x1a | 2  | 第一个簇（永远是0x0000）                                                     |
 | 0x1c | 4  | 名称字符（两个[UTF-16字符](https://zh.wikipedia.org/wiki/UTF-16 "wikilink")） |
 
-如果一个文件名只包含小写字母、或者是一个小写字母的*名*加上大写扩展名的混合或者与此相反，没有特殊的字符并且满足8.3的限制，在Windows
-NT上就不创建VFAT的条目。相反，在目录条目的偏移0x0c处的没有说明的位用来指示文件名全部或者部分是小写字母。特别明确的是，位4意味着小写字母的扩展名，位3意味着*名*是小写字母，这样就允许如“example.TXT”和“HELLO.txt”这样的组合，但是不允许“Mixed.txt”这样的组合。很少有操作系统支持这种功能。非NT的Windows版本当这个扩展使用时将把文件名当作大写字母。缺省情况下，Linux的最近版本将认识这个扩展但是在写时并不使用它。
+如果一个文件名只包含小写字母、或者是一个小写字母的*名*加上大写扩展名的混合或者与此相反，没有特殊的字符并且满足8.3的限制，在Windows NT上就不创建VFAT的条目。相反，在目录条目的偏移0x0c处的没有说明的位用来指示文件名全部或者部分是小写字母。特别明确的是，位4意味着小写字母的扩展名，位3意味着*名*是小写字母，这样就允许如“example.TXT”和“HELLO.txt”这样的组合，但是不允许“Mixed.txt”这样的组合。很少有操作系统支持这种功能。非NT的Windows版本当这个扩展使用时将把文件名当作大写字母。缺省情况下，Linux的最近版本将认识这个扩展但是在写时并不使用它。
 
 #### 第三方扩展
 
@@ -997,56 +934,39 @@ NT上就不创建VFAT的条目。相反，在目录条目的偏移0x0c处的没�
 
 ## FAT授权
 
-在二十世纪九十年代中期微软公司申请并获得了一系列的FAT文件系统核心部分的专利。由于具有广泛的兼容性和易于理解，FAT经常被选为用于[数码相机和](../Page/数码相机.md "wikilink")[个人数-{zh-hans:码;zh-hk:碼;zh-tw:位;}-助理中](https://zh.wikipedia.org/wiki/PDA "wikilink")[闪存的数据交换格式](../Page/闪存.md "wikilink")。
+在二十世纪九十年代中期微软公司申请并获得了一系列的FAT文件系统核心部分的专利。由于具有广泛的兼容性和易于理解，FAT经常被选为用于[数码相机](../Page/数码相机.md "wikilink")和[个人数-{zh-hans:码;zh-hk:碼;zh-tw:位;}-助理中](https://zh.wikipedia.org/wiki/PDA "wikilink")[闪存](../Page/闪存.md "wikilink")的数据交换格式。
 
-2003年12月3日微软公司宣布使用FAT规范和“相关智慧产权”将需要得到
-[授权](http://www.microsoft.com/about/legal/intellectualproperty/search/details.mspx?ip_id=IDAEYWHD&techType=Any&ipCat=Patents&feeStructure=Any&keywords=&ipVenture=false)，每个销售单元支付0.25美元的版权费，每个授权协议最多250,000美元的版权费。
+2003年12月3日微软公司宣布使用FAT规范和“相关智慧产权”将需要得到 [授权](http://www.microsoft.com/about/legal/intellectualproperty/search/details.mspx?ip_id=IDAEYWHD&techType=Any&ipCat=Patents&feeStructure=Any&keywords=&ipVenture=false)，每个销售单元支付0.25美元的版权费，每个授权协议最多250,000美元的版权费。
 
-为了这个目的，微软公司提及了四个关于FAT文件系统的专利作为它的知识产权主张的基础。所有这些与长文件名扩展有关的FAT首先出现在[Windows
-95中](../Page/Windows_95.md "wikilink")：
+为了这个目的，微软公司提及了四个关于FAT文件系统的专利作为它的知识产权主张的基础。所有这些与长文件名扩展有关的FAT首先出现在[Windows 95中](../Page/Windows_95.md "wikilink")：
 
-  - \-
-    访问使用不同文件名格式的文件名的方法和系统。1992年7月6日备案。这包括生成、联系一个[8.3兼容格式的短文件名和长文件名的方法](https://zh.wikipedia.org/wiki/8.3 "wikilink")（如“Microsoft.txt”和“MICROS\~1.TXT”），以及列举相互冲突的短文件名的方法（如“MICROS\~2.TXT”和“MICROS\~3.TXT”）。现在还不清楚这个专利是否覆盖不具有显式长文件名能力的FAT实现。[Unix文件系统中的](https://zh.wikipedia.org/wiki/Unix "wikilink")[硬链接看起来不是先行者](https://zh.wikipedia.org/wiki/硬链接 "wikilink")：从长文件名删除一个FAT文件也将删除它的短文件名。将一个文件重命名为一个“短”文件名也将一致地更改长文件名；同样，将一个文件重命名为“长”文件名也将重新生成一个“短”文件名。在NTFS中，硬连结和两个名字是不同的概念，并且每个硬连结都有两个名字。最后，在API的层面上，当在系统中进行目录搜索时两个文件名都会出现；它们看起来不是两个独立的文件并且它们也没有有必要去“映射”确定同一个文件。
+  - \- 访问使用不同文件名格式的文件名的方法和系统。1992年7月6日备案。这包括生成、联系一个[8.3兼容格式的短文件名和长文件名的方法](https://zh.wikipedia.org/wiki/8.3 "wikilink")（如“Microsoft.txt”和“MICROS\~1.TXT”），以及列举相互冲突的短文件名的方法（如“MICROS\~2.TXT”和“MICROS\~3.TXT”）。现在还不清楚这个专利是否覆盖不具有显式长文件名能力的FAT实现。[Unix文件系统中的](https://zh.wikipedia.org/wiki/Unix "wikilink")[硬链接看起来不是先行者](https://zh.wikipedia.org/wiki/硬链接 "wikilink")：从长文件名删除一个FAT文件也将删除它的短文件名。将一个文件重命名为一个“短”文件名也将一致地更改长文件名；同样，将一个文件重命名为“长”文件名也将重新生成一个“短”文件名。在NTFS中，硬连结和两个名字是不同的概念，并且每个硬连结都有两个名字。最后，在API的层面上，当在系统中进行目录搜索时两个文件名都会出现；它们看起来不是两个独立的文件并且它们也没有有必要去“映射”确定同一个文件。
 
 <!-- end list -->
 
-  - \-
-    长、短文件名公用的命名空间。1995年4月24日备案。这包括将多个连续[8.3目录条目链接在一起支持长文件名的方法](https://zh.wikipedia.org/wiki/8.3 "wikilink")，其中一些条目特殊进行标记阻止可能引起混淆地早期的不支持长文件名的FAT实现。
+  - \- 长、短文件名公用的命名空间。1995年4月24日备案。这包括将多个连续[8.3目录条目链接在一起支持长文件名的方法](https://zh.wikipedia.org/wiki/8.3 "wikilink")，其中一些条目特殊进行标记阻止可能引起混淆地早期的不支持长文件名的FAT实现。
 
-      - [公共专利基金会成功地对这项专利发起了挑战](https://zh.wikipedia.org/wiki/Public_Patent_Foundation "wikilink")；这个专利申请由于所申请的技术在专利和中的
-        [先期发现](https://archive.is/20130102084746/http://news.com.com/Microsoft+FAT+patent+falls+flat/2100-1014_3-5390138.html)
-        在2004年9月14日被
-        [驳回](http://www.pubpat.org/Microsoft_517_Rejected.htm)。这个决定后来在2006年1月10日被美国专利局所推翻。
+      - [公共专利基金会成功地对这项专利发起了挑战](https://zh.wikipedia.org/wiki/Public_Patent_Foundation "wikilink")；这个专利申请由于所申请的技术在专利和中的 [先期发现](https://archive.is/20130102084746/http://news.com.com/Microsoft+FAT+patent+falls+flat/2100-1014_3-5390138.html) 在2004年9月14日被 [驳回](http://www.pubpat.org/Microsoft_517_Rejected.htm)。这个决定后来在2006年1月10日被美国专利局所推翻。
 
 <!-- end list -->
 
   - \- 长、短文件名公用的命名空间。1996年9月5日备案。它非常类似于5,579,517。
 
-      - [公共专利基金会成功地对这项专利发起了挑战](https://zh.wikipedia.org/wiki/Public_Patent_Foundation "wikilink")；[美国专利商标局基于](https://zh.wikipedia.org/wiki/美国专利商标局 "wikilink")
-        ["the six assignees names were
-        incorrect"](http://www.theregister.co.uk/2005/10/05/microsoft_patent/)
-        [2](http://www.out-law.com/default.aspx?page=6202)
-        在2005年10月5日驳回了这项专利。这个决定也在后来的2006年1月10日被美国专利局推翻。
+      - [公共专利基金会成功地对这项专利发起了挑战](https://zh.wikipedia.org/wiki/Public_Patent_Foundation "wikilink")；[美国专利商标局基于](https://zh.wikipedia.org/wiki/美国专利商标局 "wikilink") ["the six assignees names were incorrect"](http://www.theregister.co.uk/2005/10/05/microsoft_patent/) [2](http://www.out-law.com/default.aspx?page=6202) 在2005年10月5日驳回了这项专利。这个决定也在后来的2006年1月10日被美国专利局推翻。
 
 <!-- end list -->
 
-  - \- 在操作系统中为长、短文件名提供一个公用的命名空间的方法和系统。1997年1月28日备案。它所申请的内容包括[Windows
-    95](../Page/Windows_95.md "wikilink")、[Windows
-    98和](../Page/Windows_98.md "wikilink")[Windows
-    Me的长文件名提供给它们](../Page/Windows_Me.md "wikilink")[MS-DOS](../Page/MS-DOS.md "wikilink")[兼容层所用的方法](../Page/兼容层.md "wikilink")。它看起来不影响非微软的FAT实现。
+  - \- 在操作系统中为长、短文件名提供一个公用的命名空间的方法和系统。1997年1月28日备案。它所申请的内容包括[Windows 95](../Page/Windows_95.md "wikilink")、[Windows 98和](../Page/Windows_98.md "wikilink")[Windows Me的长文件名提供给它们](../Page/Windows_Me.md "wikilink")[MS-DOS](../Page/MS-DOS.md "wikilink")[兼容层](../Page/兼容层.md "wikilink")所用的方法。它看起来不影响非微软的FAT实现。
 
 许多技术评论断言这些专利仅仅涵盖了支持长文件名的FAT实现，那些只使用短名字的移动固态媒体和消费设备将不受影响。
 
-另外，在微软2000年12月6日出版的"Microsoft Extensible Firmware Initiative FAT 32 File
-System Specification, FAT: General Overview of On-Disk
-Format"，微软公司明确地给出了一些授权，许多读者将它认为是微软允许操作系统厂商实现FAT。
+另外，在微软2000年12月6日出版的"Microsoft Extensible Firmware Initiative FAT 32 File System Specification, FAT: General Overview of On-Disk Format"，微软公司明确地给出了一些授权，许多读者将它认为是微软允许操作系统厂商实现FAT。
 
 ### 控诉
 
-由于人们广泛要求重新审查这些专利，[公众专利基金会向](https://zh.wikipedia.org/wiki/公众专利基金会 "wikilink")[美国专利和商标局](https://zh.wikipedia.org/wiki/美国专利和商标局 "wikilink")（USPTO）提出了一些证据争辩这些专利的有效性，其中包括[施乐公司和](https://zh.wikipedia.org/wiki/施乐公司 "wikilink")[IBM的早期参考资料](../Page/IBM.md "wikilink")。美国专利商标局承认这些证据提出了“可专利性的实质性的新问题”并且对于微软公司FAT专利的有效性展开调查。
+由于人们广泛要求重新审查这些专利，[公众专利基金会向](https://zh.wikipedia.org/wiki/公众专利基金会 "wikilink")[美国专利和商标局](https://zh.wikipedia.org/wiki/美国专利和商标局 "wikilink")（USPTO）提出了一些证据争辩这些专利的有效性，其中包括[施乐公司和](https://zh.wikipedia.org/wiki/施乐公司 "wikilink")[IBM](../Page/IBM.md "wikilink")的早期参考资料。美国专利商标局承认这些证据提出了“可专利性的实质性的新问题”并且对于微软公司FAT专利的有效性展开调查。
 
-2004年9月30日，美国专利商标局主要基于[公共专利基金会所提供的证据驳回了](https://zh.wikipedia.org/wiki/公共专利基金会 "wikilink")的专利主张。这个基金会的执行总裁Dan
-Ravicher说“现在专利局只不过是确认了我们已经知道了一段时间的事情，微软公司的专利是假的。”
+2004年9月30日，美国专利商标局主要基于[公共专利基金会所提供的证据驳回了](https://zh.wikipedia.org/wiki/公共专利基金会 "wikilink")的专利主张。这个基金会的执行总裁Dan Ravicher说“现在专利局只不过是确认了我们已经知道了一段时间的事情，微软公司的专利是假的。”
 
 PUBPAT的新闻发布会说，“微软公司仍然有机会回应专利局的驳回。有代表性的是第三方的重新审查要求如[PUBPAT提供的资料成功地减小了专利的范围或者有](https://zh.wikipedia.org/wiki/PUBPAT "wikilink")70%的机会完全驳回专利。”
 
@@ -1063,52 +983,27 @@ PUBPAT的新闻发布会说，“微软公司仍然有机会回应专利局的�
   - [驱动器字母分配](https://zh.wikipedia.org/wiki/Drive_letter_assignment "wikilink")
   - [软件专利](https://zh.wikipedia.org/wiki/Software_patent "wikilink")
   - [文件系统列表](https://zh.wikipedia.org/wiki/List_of_file_systems "wikilink")
-  - [Rock
-    Ridge和](https://zh.wikipedia.org/wiki/Rock_Ridge "wikilink")[Joliet](https://zh.wikipedia.org/wiki/Joliet_\(file_system\) "wikilink")：象FAT上的VFAT一样为CD添加长文件名的系统。
+  - [Rock Ridge和](https://zh.wikipedia.org/wiki/Rock_Ridge "wikilink")[Joliet](https://zh.wikipedia.org/wiki/Joliet_\(file_system\) "wikilink")：象FAT上的VFAT一样为CD添加长文件名的系统。
 
 ## 外部链接
 
-  - [News article about final patent
-    ruling](https://archive.is/20130425112950/http://news.com.com/Microsofts+file+system+patent+upheld/2100-1012_3-6025447.html?part=rss&tag=6025447&subj=news)
-  - [Microsoft's statement on "FAT File System Technology and Patent
-    License"](https://web.archive.org/web/20060213224425/http://www.microsoft.com/mscorp/ip/tech/fat.asp)
-  - [FAT File
-    System](https://web.archive.org/web/20121114212231/http://www.zeeis.com/fat-file-system/)
-  - [Slashdot discussion on Microsoft's claims of FAT-related
-    patents](http://slashdot.org/article.pl?sid=03/12/04/1318212)
-  - [Microsoft Extensible Firmware Initiative FAT 32 File System
-    Specification, FAT: General Overview of On-Disk
-    Format](https://web.archive.org/web/20071013033802/http://www.microsoft.com/whdc/system/platform/firmware/fatgen.mspx)
-  - [Understanding FAT32 Filesystems (explained for embedded firmware
-    developers)](http://www.pjrc.com/tech/8051/ide/fat32.html)
-  - [Microsoft's war on GPL dealt patent
-    setback](http://www.theregister.co.uk/2004/06/14/ms_fat_patent_reexamined/)
-  - [A Short History of
-    MS-DOS](https://web.archive.org/web/20130801102940/http://patersontech.com/Dos/Byte/History.html)，by
-    [Tim
-    Paterson](https://zh.wikipedia.org/wiki/Tim_Paterson "wikilink")
-  - [Detailed Explanation of FAT Boot
-    Sector](http://support.microsoft.com/support/kb/articles/Q140/4/18.asp)
-    - Microsoft Knowledge Base Article 140418
-  - [At PUBPAT's Request, Patent Office Rejects Microsoft's FAT Patent:
-    All Claims of Reynolds '517 Patent Ruled
-    Invalid](http://www.pubpat.org/Microsoft_517_Rejected.htm)
-  - [Volume and file size limits of FAT
-    filesystems](https://web.archive.org/web/20050907181002/http://www.microsoft.com/resources/documentation/Windows/XP/all/reskit/en-us/prkc_fil_tdrn.asp)
+  - [News article about final patent ruling](https://archive.is/20130425112950/http://news.com.com/Microsofts+file+system+patent+upheld/2100-1012_3-6025447.html?part=rss&tag=6025447&subj=news)
+  - [Microsoft's statement on "FAT File System Technology and Patent License"](https://web.archive.org/web/20060213224425/http://www.microsoft.com/mscorp/ip/tech/fat.asp)
+  - [FAT File System](https://web.archive.org/web/20121114212231/http://www.zeeis.com/fat-file-system/)
+  - [Slashdot discussion on Microsoft's claims of FAT-related patents](http://slashdot.org/article.pl?sid=03/12/04/1318212)
+  - [Microsoft Extensible Firmware Initiative FAT 32 File System Specification, FAT: General Overview of On-Disk Format](https://web.archive.org/web/20071013033802/http://www.microsoft.com/whdc/system/platform/firmware/fatgen.mspx)
+  - [Understanding FAT32 Filesystems (explained for embedded firmware developers)](http://www.pjrc.com/tech/8051/ide/fat32.html)
+  - [Microsoft's war on GPL dealt patent setback](http://www.theregister.co.uk/2004/06/14/ms_fat_patent_reexamined/)
+  - [A Short History of MS-DOS](https://web.archive.org/web/20130801102940/http://patersontech.com/Dos/Byte/History.html)，by [Tim Paterson](https://zh.wikipedia.org/wiki/Tim_Paterson "wikilink")
+  - [Detailed Explanation of FAT Boot Sector](http://support.microsoft.com/support/kb/articles/Q140/4/18.asp) - Microsoft Knowledge Base Article 140418
+  - [At PUBPAT's Request, Patent Office Rejects Microsoft's FAT Patent: All Claims of Reynolds '517 Patent Ruled Invalid](http://www.pubpat.org/Microsoft_517_Rejected.htm)
+  - [Volume and file size limits of FAT filesystems](https://web.archive.org/web/20050907181002/http://www.microsoft.com/resources/documentation/Windows/XP/all/reskit/en-us/prkc_fil_tdrn.asp)
 
-[Category:1977年软件](https://zh.wikipedia.org/wiki/Category:1977年软件 "wikilink")
-[Category:微软磁盘文件系统](https://zh.wikipedia.org/wiki/Category:微软磁盘文件系统 "wikilink")
-[Category:磁盘操作系统](https://zh.wikipedia.org/wiki/Category:磁盘操作系统 "wikilink")
-[Category:Windows组件](https://zh.wikipedia.org/wiki/Category:Windows组件 "wikilink")
+[Category:1977年软件](https://zh.wikipedia.org/wiki/Category:1977年软件 "wikilink") [Category:微软磁盘文件系统](https://zh.wikipedia.org/wiki/Category:微软磁盘文件系统 "wikilink") [Category:磁盘操作系统](https://zh.wikipedia.org/wiki/Category:磁盘操作系统 "wikilink") [Category:Windows组件](https://zh.wikipedia.org/wiki/Category:Windows组件 "wikilink")
 
 1.  Archive（A）位元：檔案建立或更改後會被設成1，經作業系統內的backup做檔案備份後會被設成0。如只需備份上次備份後有修改的檔案，可藉此位元識別。
 2.  专利申请在於文件系统中支持长文件名的技术，而不是文件系统核心本身。
-3.  Duncan, Ray（1989）.[Design goals and implementation of the new High
-    Performance File
-    System](http://cd.textfiles.com/megademo2/INFO/OS2_HPFS.TXT).
-    *Microsoft Systems Journal* **4**（5）.
+3.  Duncan, Ray（1989）.[Design goals and implementation of the new High Performance File System](http://cd.textfiles.com/megademo2/INFO/OS2_HPFS.TXT). *Microsoft Systems Journal* **4**（5）.
 4.  [FAT32 文件系统的限制](http://support.microsoft.com/kb/184006)，微软支持知识库文章
-5.  Thompson, Robert Bruce and Barbara Fritchman Thompson, *PC Hardware
-    in a Nutshell, 3rd Edition,*, O'Reilly, ISBN 0-596-00513-X（p. 506 re
-    Microsoft "bizarrely" saying 32 GB limitation is by design
+5.  Thompson, Robert Bruce and Barbara Fritchman Thompson, *PC Hardware in a Nutshell, 3rd Edition,*, O'Reilly, ISBN 0-596-00513-X（p. 506 re Microsoft "bizarrely" saying 32 GB limitation is by design
 6.  Norton, Peter（2002页面文件）

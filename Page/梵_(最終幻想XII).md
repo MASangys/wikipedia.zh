@@ -4,7 +4,7 @@
 
 ### 外表和性格
 
-本作[主人公](../Page/主人公.md "wikilink")。在[阿凱迪亞帝國入侵](https://zh.wikipedia.org/wiki/阿凱迪亞帝國 "wikilink")[多瑪斯卡王國後](https://zh.wikipedia.org/wiki/多瑪斯卡王國 "wikilink")，梵的[哥哥](https://zh.wikipedia.org/wiki/哥哥 "wikilink")[雷克斯受到重傷](../Page/雷克斯.md "wikilink")，在失意中逝世，留下舉目無親的梵。梵其後與青梅竹馬的女朋友[潘妮蘿一同在道具店中打工](https://zh.wikipedia.org/wiki/潘妮蘿 "wikilink")。由於[氏族地位卑微](https://zh.wikipedia.org/wiki/氏族 "wikilink")，只能居住暗無天日的地下[街道](https://zh.wikipedia.org/wiki/街道 "wikilink")。他非常痛恨阿凱迪亞帝國對多瑪斯卡王國等國的摧殘，期望有朝一日能夠擺脫國家以及民族對自己的束縛，成為一個自由自在的空賊。留著金色短髮，灰藍色雙眼的青年，有些孩子氣。年齡17歲、身高170公分。在《[最終幻想：紛爭012](https://zh.wikipedia.org/wiki/最終幻想：紛爭012 "wikilink")》中甚至還洋蔥騎士的「哥哥」自居，武器多樣（平時為劍）。
+本作[主人公](../Page/主人公.md "wikilink")。在[阿凱迪亞帝國入侵](https://zh.wikipedia.org/wiki/阿凱迪亞帝國 "wikilink")[多瑪斯卡王國後](https://zh.wikipedia.org/wiki/多瑪斯卡王國 "wikilink")，梵的[哥哥](https://zh.wikipedia.org/wiki/哥哥 "wikilink")[雷克斯](../Page/雷克斯.md "wikilink")受到重傷，在失意中逝世，留下舉目無親的梵。梵其後與青梅竹馬的女朋友[潘妮蘿一同在道具店中打工](https://zh.wikipedia.org/wiki/潘妮蘿 "wikilink")。由於[氏族地位卑微](https://zh.wikipedia.org/wiki/氏族 "wikilink")，只能居住暗無天日的地下[街道](https://zh.wikipedia.org/wiki/街道 "wikilink")。他非常痛恨阿凱迪亞帝國對多瑪斯卡王國等國的摧殘，期望有朝一日能夠擺脫國家以及民族對自己的束縛，成為一個自由自在的空賊。留著金色短髮，灰藍色雙眼的青年，有些孩子氣。年齡17歲、身高170公分。在《[最終幻想：紛爭012](https://zh.wikipedia.org/wiki/最終幻想：紛爭012 "wikilink")》中甚至還洋蔥騎士的「哥哥」自居，武器多樣（平時為劍）。
 
 ### 身世和經歷
 
@@ -38,7 +38,4 @@
   - [Square-Enix官方網站](http://www.square-enix.com)
   - [最終幻想XII日文官方網站](http://www.ff12.com/)
 
-[Category:最終幻想XII](https://zh.wikipedia.org/wiki/Category:最終幻想XII "wikilink")
-[Category:空贼](https://zh.wikipedia.org/wiki/Category:空贼 "wikilink")
-[Category:最終幻想系列角色](https://zh.wikipedia.org/wiki/Category:最終幻想系列角色 "wikilink")
-[Category:虚构男性电子游戏角色](https://zh.wikipedia.org/wiki/Category:虚构男性电子游戏角色 "wikilink")
+[Category:最終幻想XII](https://zh.wikipedia.org/wiki/Category:最終幻想XII "wikilink") [Category:空贼](https://zh.wikipedia.org/wiki/Category:空贼 "wikilink") [Category:最終幻想系列角色](https://zh.wikipedia.org/wiki/Category:最終幻想系列角色 "wikilink") [Category:虚构男性电子游戏角色](https://zh.wikipedia.org/wiki/Category:虚构男性电子游戏角色 "wikilink")

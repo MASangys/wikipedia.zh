@@ -1,30 +1,20 @@
-**SG Wannabe**（，日本官方英文寫法為**sg WANNA
-BE+**\[1\]），為[韓國三人男子音樂團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")，於2004年成立。2004年1月19日以首張專輯《sg
-Wanna be+》正式出道。
+**SG Wannabe**（，日本官方英文寫法為**sg WANNA BE+**\[1\]），為[韓國三人男子音樂團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")，於2004年成立。2004年1月19日以首張專輯《sg Wanna be+》正式出道。
 
 2008年5月隊長蔡東河離隊，並加入新成員[李碩薰](../Page/李碩薰.md "wikilink")；隊長改由金勇俊擔任。
 
 ## SG Wannabe的意思
 
-其组合名字的含义主要是出自[美国著名乐队](../Page/美国.md "wikilink")“[Simon &
-Garfunkel](../Page/賽門與葛芬柯.md "wikilink")”，[Simon &
-Garfunkel拥有美妙与独特的音色及高水准的唱功](../Page/賽門與葛芬柯.md "wikilink")。SG
-Wannabe希望能够像影响美国六、七十年代一代年轻人的“[Simon &
-Garfunkel](../Page/賽門與葛芬柯.md "wikilink")”一样创造出抓住人心的经典音乐作品。而Wannabe是指想，有追求的意思。SG
-Wannabe是希望能以传奇组合[Simon &
-Garfunkel为目标](../Page/賽門與葛芬柯.md "wikilink")，以高水准的音乐来带给乐迷无限的音乐空间。
+其组合名字的含义主要是出自[美国](../Page/美国.md "wikilink")著名乐队“[Simon & Garfunkel](../Page/賽門與葛芬柯.md "wikilink")”，[Simon & Garfunkel拥有美妙与独特的音色及高水准的唱功](../Page/賽門與葛芬柯.md "wikilink")。SG Wannabe希望能够像影响美国六、七十年代一代年轻人的“[Simon & Garfunkel](../Page/賽門與葛芬柯.md "wikilink")”一样创造出抓住人心的经典音乐作品。而Wannabe是指想，有追求的意思。SG Wannabe是希望能以传奇组合[Simon & Garfunkel为目标](../Page/賽門與葛芬柯.md "wikilink")，以高水准的音乐来带给乐迷无限的音乐空间。
 
 ## 最近發展
 
-2012年2月1日，SG Wannabe和經紀公司IS Enterprise
-Media合約屆滿，金勇俊隨即在2月16日服役，以公益勤務要員入伍。因此，組合活動將會停止3年，原定3月在日本舉辦的兩場演唱會亦要取消。
+2012年2月1日，SG Wannabe和經紀公司IS Enterprise Media合約屆滿，金勇俊隨即在2月16日服役，以公益勤務要員入伍。因此，組合活動將會停止3年，原定3月在日本舉辦的兩場演唱會亦要取消。
 
-2012年4月，李碩薰和[Jellyfish
-Entertainment簽約](../Page/Jellyfish娛樂.md "wikilink")，開始個人活動。至於金振浩的經紀公司仍然未定。
+2012年4月，李碩薰和[Jellyfish Entertainment簽約](../Page/Jellyfish娛樂.md "wikilink")，開始個人活動。至於金振浩的經紀公司仍然未定。
 
 2015年8月19日，SG Wannabe時隔四年再度以完整體姿態回歸，發行迷你專輯《THE VOICE》，並於各大音樂節目開展回歸活動。
 
-2019年1月2日，成員[李碩薰以個人身份與C](../Page/李碩薰.md "wikilink")9娛樂簽訂專屬合約，將會開展個人活動。
+2019年1月2日，成員[李碩薰](../Page/李碩薰.md "wikilink")以個人身份與C9娛樂簽訂專屬合約，將會開展個人活動。
 
 ## 成員資料
 
@@ -46,15 +36,13 @@ Entertainment簽約](../Page/Jellyfish娛樂.md "wikilink")，開始個人活動
 
 (於2008年5月加入)
 
-  - 名字：[李碩薰](../Page/李碩薰.md "wikilink")\[4\] (이석훈 Lee Suk Hoon)
-    (又譯：李石薰、李石勛、李錫勳、李碩訓)
+  - 名字：[李碩薰](../Page/李碩薰.md "wikilink")\[4\] (이석훈 Lee Suk Hoon) (又譯：李石薰、李石勛、李錫勳、李碩訓)
   - 出生日期：
   - 身高：178公分
   - 體重：66公斤
   - 學歷：東亞放送大學 影像音樂專業學士－慶熙大學大學院言論情報學碩士研究生
   - 特殊：在公開選拔500:1的比例脫穎而出
-  - 出道：2008年 SG Wannabe 5輯《My Friend》(2008年4月24日於Mnet節目《[M\!
-    CountDown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》正式出道)
+  - 出道：2008年 SG Wannabe 5輯《My Friend》(2008年4月24日於Mnet節目《[M\! CountDown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》正式出道)
 
 ## 前成員資料
 
@@ -64,8 +52,7 @@ Entertainment簽約](../Page/Jellyfish娛樂.md "wikilink")，開始個人活動
   - 本名：崔道植 (최도식)
   - 出生日期：（29歲）
   - 學歷：首爾藝術大學放送演藝學專業、慶熙網絡（CYBER）大學全球經營學專業
-  - 2011年5月27日蔡東河在首爾恩平區家中被發現自殺死亡，出殯儀式29日上午9點30分在首爾大學醫院舉行。SG
-    Wannabe成員金勇俊、金振浩和[李碩薰參加了出殯儀式](../Page/李碩薰.md "wikilink")，與蔡東河一起走完了人生的最後一程。
+  - 2011年5月27日蔡東河在首爾恩平區家中被發現自殺死亡，出殯儀式29日上午9點30分在首爾大學醫院舉行。SG Wannabe成員金勇俊、金振浩和[李碩薰](../Page/李碩薰.md "wikilink")參加了出殯儀式，與蔡東河一起走完了人生的最後一程。
 
 ## 專輯
 
@@ -157,11 +144,7 @@ Entertainment簽約](../Page/Jellyfish娛樂.md "wikilink")，開始個人活動
 
 ## 参考文献
 
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:2004年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2004年成立的音樂團體 "wikilink")
-[Category:Mnet亞洲音樂大獎獲得者](https://zh.wikipedia.org/wiki/Category:Mnet亞洲音樂大獎獲得者 "wikilink")
+[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2004年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2004年成立的音樂團體 "wikilink") [Category:Mnet亞洲音樂大獎獲得者](https://zh.wikipedia.org/wiki/Category:Mnet亞洲音樂大獎獲得者 "wikilink")
 
 1.  [1](http://sgwannabe.net/)
 2.

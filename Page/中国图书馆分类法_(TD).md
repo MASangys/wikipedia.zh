@@ -982,8 +982,7 @@
 
 :::\*TD687 检验技术
 
-:\*TD7
-[矿山安全与](https://zh.wikipedia.org/wiki/矿山安全 "wikilink")[劳动保护](https://zh.wikipedia.org/wiki/劳动保护 "wikilink")
+:\*TD7 [矿山安全与](https://zh.wikipedia.org/wiki/矿山安全 "wikilink")[劳动保护](https://zh.wikipedia.org/wiki/劳动保护 "wikilink")
 
 ::\*TD71 矿井大气
 

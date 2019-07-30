@@ -1,6 +1,6 @@
-**L線14街-卡納西慢車**（），又稱**紐約地鐵L線**，是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")的[地鐵系統](../Page/地鐵.md "wikilink")。由於該線全線使用[BMT卡納西線](https://zh.wikipedia.org/wiki/BMT卡納西線 "wikilink")，因此其路線徽號為灰色\[1\]。
+**L線14街-卡納西慢車**（），又稱**紐約地鐵L線**，是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")的[地鐵](../Page/地鐵.md "wikilink")系統。由於該線全線使用[BMT卡納西線](https://zh.wikipedia.org/wiki/BMT卡納西線 "wikilink")，因此其路線徽號為灰色\[1\]。
 
-L線在任何時候都營運，來往[曼哈頓](../Page/曼哈頓.md "wikilink")[雀兒喜的](../Page/雀兒喜_\(紐約\).md "wikilink")[第八大道與](https://zh.wikipedia.org/wiki/第八大道車站_\(BMT卡納西線\) "wikilink")[布魯克林](https://zh.wikipedia.org/wiki/布魯克林 "wikilink")的[洛克威公園道](https://zh.wikipedia.org/wiki/卡納西-洛克威公園道車站_\(BMT卡納西線\) "wikilink")。此線也在短暫進入[皇后區](../Page/皇后區.md "wikilink")，服務\[2\]。此線是紐約地鐵第一條使用[通訊式列車控制進行](../Page/通訊式列車控制.md "wikilink")的路線。
+L線在任何時候都營運，來往[曼哈頓](../Page/曼哈頓.md "wikilink")[雀兒喜的](../Page/雀兒喜_\(紐約\).md "wikilink")[第八大道與](https://zh.wikipedia.org/wiki/第八大道車站_\(BMT卡納西線\) "wikilink")[布魯克林](https://zh.wikipedia.org/wiki/布魯克林 "wikilink")的[洛克威公園道](https://zh.wikipedia.org/wiki/卡納西-洛克威公園道車站_\(BMT卡納西線\) "wikilink")。此線也在短暫進入[皇后區](../Page/皇后區.md "wikilink")，服務\[2\]。此線是紐約地鐵第一條使用[通訊式列車控制](../Page/通訊式列車控制.md "wikilink")進行的路線。
 
 L線自1928年卡納西線完工後就使用現時的路線和營運模式。布魯克林中心L線軌道曾經有快車軌道營運，在東布魯克林沿運行，但在1956年中止。自此L線完全以慢車行駛。
 
@@ -14,8 +14,7 @@ L線自1928年卡納西線完工後就使用現時的路線和營運模式。布
 
 1931年新增第六大道車站至第八大道車站的延伸線，連接[IND第八大道線](https://zh.wikipedia.org/wiki/IND第八大道線 "wikilink")。
 
-1967年11月26日[克莉絲蒂街連接道通車](https://zh.wikipedia.org/wiki/克莉絲蒂街連接道 "wikilink")，BMT
-16號線改為LL線。 1986年雙字表慢車取消，LL線改為L線。
+1967年11月26日[克莉絲蒂街連接道通車](https://zh.wikipedia.org/wiki/克莉絲蒂街連接道 "wikilink")，BMT 16號線改為LL線。 1986年雙字表慢車取消，LL線改為L線。
 
 </div>
 
@@ -273,11 +272,9 @@ L線列車在任何時候都在同一條路線上使用相同的服務形式。\
 
 ## 外部連結
 
-  - [MTA NYC Transit -
-    路線介紹](https://web.archive.org/web/20060902103336/http://mta.info/nyct/service/lline.htm)
+  - [MTA NYC Transit - 路線介紹](https://web.archive.org/web/20060902103336/http://mta.info/nyct/service/lline.htm)
   - [L線歷史](https://web.archive.org/web/20011202055509/http://members.aol.com/bdmnqr2/linehistory.html)
-  - [MTA NYC Transit -
-    L線時刻表（PDF）](https://web.archive.org/web/20060921231454/http://www.mta.info/nyct/service/pdf/tlcur.pdf)
+  - [MTA NYC Transit - L線時刻表（PDF）](https://web.archive.org/web/20060921231454/http://www.mta.info/nyct/service/pdf/tlcur.pdf)
 
 [Category:紐約地鐵服務路線](https://zh.wikipedia.org/wiki/Category:紐約地鐵服務路線 "wikilink")
 

@@ -1,13 +1,12 @@
-是[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[椎名高志在](../Page/椎名高志.md "wikilink")[小學館](../Page/小學館.md "wikilink")《[週刊少年Sunday](../Page/週刊少年Sunday.md "wikilink")》的連載漫畫作品，發表於1991年第30號至1999年第41號。2013年後來以新作短篇形式發表（後述）。連載時話數的單位是用「REPORT.○」。
+是[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[椎名高志](../Page/椎名高志.md "wikilink")在[小學館](../Page/小學館.md "wikilink")《[週刊少年Sunday](../Page/週刊少年Sunday.md "wikilink")》的連載漫畫作品，發表於1991年第30號至1999年第41號。2013年後來以新作短篇形式發表（後述）。連載時話數的單位是用「REPORT.○」。
 
 連載當時副標題、封面、畫面及登場人物大多戲仿[科幻類的漫畫](../Page/科學幻想.md "wikilink")、動畫及電影，當中還包括動畫、電影的[名場面](https://zh.wikipedia.org/wiki/名場面 "wikilink")（含電影《[魔鬼終結者2：審判日](https://zh.wikipedia.org/wiki/魔鬼終結者2：審判日 "wikilink")》等）。
 
-動畫方面，1993年4月至1994年在[朝日放送](../Page/朝日放送.md "wikilink")、[朝日電視網播出同名電視動畫](../Page/全日本新聞網.md "wikilink")，但標題改名為《**GS美神**》（將「極樂大作戰！！」去除）。電視動畫播畢之後，1994年8月20日上映和電視動畫同名的電影動畫，[東映配給](../Page/東映.md "wikilink")。
+動畫方面，1993年4月至1994年在[朝日放送](../Page/朝日放送.md "wikilink")、[朝日電視網播出同名電視動畫](../Page/全日本新聞網.md "wikilink")，但標題改名為《**GS美神**》（將「極樂大作戰！！」去除）。電視動畫播畢之後，1994年8月20日上映和電視動畫同名的電影動畫，[東映](../Page/東映.md "wikilink")配給。
 
 ## 劇情簡介
 
-在妖魔橫行的世界，G.S.（Ghost
-Sweeper）也就是除靈師，是一個新興熱門的行業，嗜錢如命的女主角～美神令子則是該行業的佼佼者，而好色的男主角～橫島忠夫則是在該事務所打工的工讀生，此外、還有迷糊的打雜女幽靈金奴。
+在妖魔橫行的世界，G.S.（Ghost Sweeper）也就是除靈師，是一個新興熱門的行業，嗜錢如命的女主角～美神令子則是該行業的佼佼者，而好色的男主角～橫島忠夫則是在該事務所打工的工讀生，此外、還有迷糊的打雜女幽靈金奴。
 
 於是、三個人展開了驚險又刺激的除魔旅程。如果只是這樣子的漫畫、可是沒辦法連載了近十年的時間的，初期看起來是個很普通的故事，但是到了中期一個轉折，女主角的身世之謎，獨特的神魔世界觀，以及充滿特色的配角讓本作的架構發展得相當完整，按照少年漫畫的慣例，登場的人物會因為一次次的磨難而升級，同時、長得比較帥的角色也會成為戰友共同奮鬥，而且、對於壞人的角色也都將來龍去脈交代的相當清楚，讓他們死得瞑目！？
 
@@ -45,7 +44,7 @@ Sweeper）也就是除靈師，是一個新興熱門的行業，嗜錢如命的�
 <!-- end list -->
 
   - 士郎（港譯：小白）
-    [狼人族的女孩](../Page/狼人.md "wikilink")，曾拜橫島為師學習靈波刀
+    [狼人](../Page/狼人.md "wikilink")族的女孩，曾拜橫島為師學習靈波刀
 
 <!-- end list -->
 
@@ -67,7 +66,7 @@ Sweeper）也就是除靈師，是一個新興熱門的行業，嗜錢如命的�
 ### 唐巢神父的教會
 
   - 唐巢 和宏-[曾我部和恭](../Page/曾我部和恭.md "wikilink")
-    年齢45歳。美神與彼得的師父。原為[基督教的神父](../Page/基督教.md "wikilink")，和美神的母親為好朋友。
+    年齢45歳。美神與彼得的師父。原為[基督教](../Page/基督教.md "wikilink")的神父，和美神的母親為好朋友。
     名字來自於1973年的[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[恐怖電影](../Page/恐怖電影.md "wikilink")《[大法師](../Page/大法師.md "wikilink")》的角色達米安·卡拉斯神父。
     角色的原型、設定來自與作者同樣在小學館連載的[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")，《[潮與虎](https://zh.wikipedia.org/wiki/潮與虎 "wikilink")》、《[傀儡馬戲團](https://zh.wikipedia.org/wiki/傀儡馬戲團 "wikilink")》、《[月光條例](../Page/月光條例.md "wikilink")》等作品的作者[藤田和日郎](../Page/藤田和日郎.md "wikilink")。
 
@@ -211,28 +210,21 @@ Sweeper）也就是除靈師，是一個新興熱門的行業，嗜錢如命的�
 
 ## 出版書籍
 
-### 漫畫
-
-單行本〈少年Sunday Comics〉全39冊，新書寬幅版全20冊，小學館文庫已發行6冊（2017年1月現在）。
-
-另外，單行本連載完結之後，後來在新書版、文庫本、新書寬幅版多次進行加筆修正及補足說明。2011年[東日本大震災發生後](../Page/東日本大震災.md "wikilink")，小學館出身的多位漫畫家（由[細野不二彥發起](../Page/細野不二彥.md "wikilink")）組成「」，而該作品的角色也在復興支援活動中參與。2013年在《週刊少年Sunday》13號、14號復活，以短篇方式分前篇與後篇發表\[1\]。內容為椎名的別部作品《》出場的星龍鬥和《》出場的織田信長、明智光秀跨部和《GS美神》的3位主角美神、橫島、小絹共演。
+單行本連載完結之後，於新裝版、豪華版、文庫本多次進行加筆及補充說明。2011年[東日本大震災](../Page/東日本大震災.md "wikilink")發生後，小學館出身的多位漫畫家（由[細野不二彥](../Page/細野不二彥.md "wikilink")發起）組成「」，而該作品的角色也在復興支援活動中參與。2013年在《週刊少年Sunday》13號、14號復活，以短篇方式分前篇與後篇發表\[1\]。內容為椎名的別部作品《》出場的星龍鬥和《》出場的織田信長、明智光秀跨部和《GS美神》的3位主角美神、橫島、小絹共演。
 
 #### 單行本
-
-  - [椎名高志](../Page/椎名高志.md "wikilink")《GS美神
-    極樂大作戰\!\!》，[小學館發行](../Page/小學館.md "wikilink")，[台灣中文版由](https://zh.wikipedia.org/wiki/台灣 "wikilink")[青文出版社代理](../Page/青文出版社.md "wikilink")，[香港中文版由](../Page/香港.md "wikilink")[文化傳信代理](../Page/文化傳信.md "wikilink")，全39冊。
 
 <table>
 <thead>
 <tr class="header">
 <th><p>冊數</p></th>
-<th><p>小學館</p></th>
+<th><p><a href="../Page/小學館.md" title="wikilink">小學館</a></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>發行日期</p></td>
-<td><p>ISBN</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1</p></td>
@@ -397,26 +389,229 @@ Sweeper）也就是除靈師，是一個新興熱門的行業，嗜錢如命的�
 </tbody>
 </table>
 
-### 其它
+#### 新裝版
+
+<table>
+<thead>
+<tr class="header">
+<th><p>冊數</p></th>
+<th><p>小學館</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>發行日期</p></td>
+<td><p>ISBN</p></td>
+</tr>
+<tr class="even">
+<td><p>1</p></td>
+<td><p>2006年6月16日</p></td>
+</tr>
+<tr class="odd">
+<td><p>2</p></td>
+<td><p>ISBN 4-09-120455-4</p></td>
+</tr>
+<tr class="even">
+<td><p>3</p></td>
+<td><p>2006年7月18日</p></td>
+</tr>
+<tr class="odd">
+<td><p>4</p></td>
+<td><p>ISBN 4-09-120457-0</p></td>
+</tr>
+<tr class="even">
+<td><p>5</p></td>
+<td><p>2006年8月11日</p></td>
+</tr>
+<tr class="odd">
+<td><p>6</p></td>
+<td><p>ISBN 4-09-120459-7</p></td>
+</tr>
+<tr class="even">
+<td><p>7</p></td>
+<td><p>2006年9月16日</p></td>
+</tr>
+<tr class="odd">
+<td><p>8</p></td>
+<td><p>ISBN 4-09-120479-1</p></td>
+</tr>
+<tr class="even">
+<td><p>9</p></td>
+<td><p>2006年10月18日</p></td>
+</tr>
+<tr class="odd">
+<td><p>10</p></td>
+<td><p>ISBN 4-09-120489-9</p></td>
+</tr>
+<tr class="even">
+<td><p>11</p></td>
+<td><p>2006年11月18日</p></td>
+</tr>
+<tr class="odd">
+<td><p>12</p></td>
+<td><p>ISBN 4-09-120504-6</p></td>
+</tr>
+<tr class="even">
+<td><p>13</p></td>
+<td><p>2006年12月18日</p></td>
+</tr>
+<tr class="odd">
+<td><p>14</p></td>
+<td><p>ISBN 4-09-120506-2</p></td>
+</tr>
+<tr class="even">
+<td><p>15</p></td>
+<td><p>2007年1月18日</p></td>
+</tr>
+<tr class="odd">
+<td><p>16</p></td>
+<td><p>ISBN 978-4-09-120508-7</p></td>
+</tr>
+<tr class="even">
+<td><p>17</p></td>
+<td><p>2007年2月16日</p></td>
+</tr>
+<tr class="odd">
+<td><p>18</p></td>
+<td><p>ISBN 978-4-09-120510-0</p></td>
+</tr>
+<tr class="even">
+<td><p>19</p></td>
+<td><p>2007年3月16日</p></td>
+</tr>
+<tr class="odd">
+<td><p>20</p></td>
+<td><p>ISBN 978-4-09-120514-8</p></td>
+</tr>
+</tbody>
+</table>
+
+#### 文庫版
+
+<table>
+<thead>
+<tr class="header">
+<th><p>冊數</p></th>
+<th><p>小學館</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>發行日期</p></td>
+<td><p>ISBN</p></td>
+</tr>
+<tr class="even">
+<td><p>1</p></td>
+<td><p>2016年8月16日</p></td>
+</tr>
+<tr class="odd">
+<td><p>2</p></td>
+<td><p>2016年9月15日</p></td>
+</tr>
+<tr class="even">
+<td><p>3</p></td>
+<td><p>2016年10月14日</p></td>
+</tr>
+<tr class="odd">
+<td><p>4</p></td>
+<td><p>2016年11月15日</p></td>
+</tr>
+<tr class="even">
+<td><p>5</p></td>
+<td><p>2016年12月15日</p></td>
+</tr>
+<tr class="odd">
+<td><p>6</p></td>
+<td><p>2017年1月13日</p></td>
+</tr>
+<tr class="even">
+<td><p>7</p></td>
+<td><p>2017年2月15日</p></td>
+</tr>
+<tr class="odd">
+<td><p>8</p></td>
+<td><p>2017年3月15日</p></td>
+</tr>
+<tr class="even">
+<td><p>9</p></td>
+<td><p>2017年4月14日</p></td>
+</tr>
+<tr class="odd">
+<td><p>10</p></td>
+<td><p>2017年5月12日</p></td>
+</tr>
+<tr class="even">
+<td><p>11</p></td>
+<td><p>2017年6月15日</p></td>
+</tr>
+<tr class="odd">
+<td><p>12</p></td>
+<td><p>2017年7月14日</p></td>
+</tr>
+<tr class="even">
+<td><p>13</p></td>
+<td><p>2017年8月10日</p></td>
+</tr>
+<tr class="odd">
+<td><p>14</p></td>
+<td><p>2017年9月15日</p></td>
+</tr>
+<tr class="even">
+<td><p>15</p></td>
+<td><p>2017年10月13日</p></td>
+</tr>
+<tr class="odd">
+<td><p>16</p></td>
+<td><p>2017年11月15日</p></td>
+</tr>
+<tr class="even">
+<td><p>17</p></td>
+<td><p>2017年12月15日</p></td>
+</tr>
+<tr class="odd">
+<td><p>18</p></td>
+<td><p>2018年1月12日</p></td>
+</tr>
+<tr class="even">
+<td><p>19</p></td>
+<td><p>2018年2月15日</p></td>
+</tr>
+<tr class="odd">
+<td><p>20</p></td>
+<td><p>2018年3月15日</p></td>
+</tr>
+<tr class="even">
+<td><p>21</p></td>
+<td><p>2018年4月13日</p></td>
+</tr>
+<tr class="odd">
+<td><p>22</p></td>
+<td><p>2018年5月15日</p></td>
+</tr>
+<tr class="even">
+<td><p>23</p></td>
+<td><p>2018年6月15日</p></td>
+</tr>
+</tbody>
+</table>
+
+### 其他書籍
 
   - 小說
 
 全3冊，內容為電影動畫的小說化。
 
-  - [松井亞彌](../Page/松井亞彌.md "wikilink")《 前篇》（小學館〈〉，1993年）ISBN
-    4-09-440151-2
-  - 松井亞彌《GS美神極樂大作戰\!\! Vol.2 水迷宮的少女\!\! 後篇》（小學館〈Super
-    Quest文庫〉，1994年）ISBN 4-09-440152-0
+  - [松井亞彌](../Page/松井亞彌.md "wikilink")《 前篇》（小學館〈〉，1993年）ISBN 4-09-440151-2
+  - 松井亞彌《GS美神極樂大作戰\!\! Vol.2 水迷宮的少女\!\! 後篇》（小學館〈Super Quest文庫〉，1994年）ISBN 4-09-440152-0
 
 <!-- end list -->
 
   -
-    後來在2008年由[GAGAGA文庫以前篇](../Page/GAGAGA文庫.md "wikilink")、後篇的方式再收錄與復刊。但是，後篇沒有收錄全彩插圖。
+    後來在2008年由[GAGAGA文庫](../Page/GAGAGA文庫.md "wikilink")以前篇、後篇的方式再收錄與復刊。但是，後篇沒有收錄全彩插圖。
 
 <!-- end list -->
 
-  - 松井亞彌《GS美神極樂大作戰\!\! Vol.3 信長的野望\!\!》（小學館〈Super Quest文庫〉，1994年）ISBN
-    4-09-440153-9
+  - 松井亞彌《GS美神極樂大作戰\!\! Vol.3 信長的野望\!\!》（小學館〈Super Quest文庫〉，1994年）ISBN 4-09-440153-9
 
 <!-- end list -->
 
@@ -426,14 +621,13 @@ Sweeper）也就是除靈師，是一個新興熱門的行業，嗜錢如命的�
 
   - 椎名高志 原作《GS美神①》（小學館SSC視覺精選，1994年） ISBN 4-09-121875-X
   - 椎名高志 原作《GS美神②》（小學館SSC視覺精選，1994年） ISBN 4-09-121876-8
-  - 椎名高志 原作《<small>電影</small> GS美神極樂大作戰\!\!》（小學館SSC視覺精選，1994年） ISBN
-    4-09-121877-6
+  - 椎名高志 原作《<small>電影</small> GS美神極樂大作戰\!\!》（小學館SSC視覺精選，1994年） ISBN 4-09-121877-6
 
 ## 電視動畫
 
 1993年4月11日至1994年3月6日在[朝日放送](../Page/朝日放送.md "wikilink")、[朝日電視網的](../Page/全日本新聞網.md "wikilink")時段首播，動畫由[東映動畫製作](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")，全45話。
 
-配音陣容方面。主角美神令子、橫島忠夫、小絹依序分別由[鶴弘美](../Page/鶴弘美.md "wikilink")、[堀川亮](../Page/堀川亮.md "wikilink")、[國府田麻理子獻聲](../Page/國府田麻理子.md "wikilink")。旁白（見鬼愁／<small></small>）由[青野武配音](../Page/青野武.md "wikilink")。相反的是，當初小絹指定由[西原久美子擔任](../Page/西原久美子.md "wikilink")、六道冥子由國府田麻理子擔任，[千葉繁負責旁白](../Page/千葉繁.md "wikilink")（見鬼娃娃）。但在擔任導演和劇本總監的[梅澤淳稔的反對下](../Page/梅澤淳稔.md "wikilink")，才決定正式播出時的配音陣容，而六道冥子改由西原久美子配音、[千葉繁則飾演卡歐斯博士](../Page/千葉繁.md "wikilink")\[2\]。
+配音陣容方面。主角美神令子、橫島忠夫、小絹依序分別由[鶴弘美](../Page/鶴弘美.md "wikilink")、[堀川亮](../Page/堀川亮.md "wikilink")、[國府田麻理子](../Page/國府田麻理子.md "wikilink")獻聲。旁白（見鬼愁／<small></small>）由[青野武](../Page/青野武.md "wikilink")配音。相反的是，當初小絹指定由[西原久美子](../Page/西原久美子.md "wikilink")擔任、六道冥子由國府田麻理子擔任，[千葉繁](../Page/千葉繁.md "wikilink")負責旁白（見鬼娃娃）。但在擔任導演和劇本總監的[梅澤淳稔](../Page/梅澤淳稔.md "wikilink")的反對下，才決定正式播出時的配音陣容，而六道冥子改由西原久美子配音、[千葉繁](../Page/千葉繁.md "wikilink")則飾演卡歐斯博士\[2\]。
 
 與原作不同的地方是美神除靈事務的所在地一開始就設定在一軒屋（原作的初期設定是位於5樓的一般商業大樓，後來才轉移至一軒屋），基本上大致和原作相同。還有，美神的住所是在她的除靈事務所（原作的初期設定在高級公寓）。
 
@@ -953,8 +1147,7 @@ Sweeper）也就是除靈師，是一個新興熱門的行業，嗜錢如命的�
 
 #### 角色歌曲
 
-所有歌曲都以「[GS美神
-美麗的逃亡者系列](../Page/GS美神_美麗的逃亡者系列.md "wikilink")」發行。曾創下1994年3月度的2萬張最高銷售記錄。其中，小絹的聲優[國府田麻理子的](../Page/國府田麻理子.md "wikilink")『V』（「悲DESTINY」）更創下高達2萬8000張的銷售記錄\[4\]。
+所有歌曲都以「[GS美神 美麗的逃亡者系列](../Page/GS美神_美麗的逃亡者系列.md "wikilink")」發行。曾創下1994年3月度的2萬張最高銷售記錄。其中，小絹的聲優[國府田麻理子](../Page/國府田麻理子.md "wikilink")的『V』（「悲DESTINY」）更創下高達2萬8000張的銷售記錄\[4\]。
 
 | 發行日期                                                                                            | 標題                                                                                           | 規格編號    |
 | ----------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ------- |
@@ -997,18 +1190,15 @@ Sweeper）也就是除靈師，是一個新興熱門的行業，嗜錢如命的�
 
   - 配給：東映
   - 首映時間：1994年8月20日／東映動畫特輯
-  - 同時上映：『[亂馬½
-    超無差別決戰！亂馬隊VS傳說的鳳凰](https://zh.wikipedia.org/wiki/亂馬½#劇場版 "wikilink")』『[家有賤狗
-    原始家有賤狗](https://zh.wikipedia.org/wiki/家有賤狗#電影版 "wikilink")』
+  - 同時上映：『[亂馬½ 超無差別決戰！亂馬隊VS傳說的鳳凰](https://zh.wikipedia.org/wiki/亂馬½#劇場版 "wikilink")』『[家有賤狗 原始家有賤狗](https://zh.wikipedia.org/wiki/家有賤狗#電影版 "wikilink")』
   - 上映時間：60分鐘／彩色
   - 片頭主題曲：原田千榮「**GHOST SWEEPER**」
-  - 片尾主題曲：[奥井雅美](https://zh.wikipedia.org/wiki/奥井雅美 "wikilink")「**[My
-    Jolly Days](../Page/My_Jolly_Days.md "wikilink")**」
+  - 片尾主題曲：[奥井雅美](https://zh.wikipedia.org/wiki/奥井雅美 "wikilink")「**[My Jolly Days](../Page/My_Jolly_Days.md "wikilink")**」
   - 插入歌：奥井雅美「**BEATS the BAND**」
 
 ### 劇情簡介
 
-故事內容描寫於戰國時代戰死的[織田信長因執念而轉化成地上最強的](../Page/織田信長.md "wikilink")[吸血鬼](../Page/吸血鬼.md "wikilink")「」在東京現身，並向美神等人宣戰。
+故事內容描寫於戰國時代戰死的[織田信長](../Page/織田信長.md "wikilink")因執念而轉化成地上最強的[吸血鬼](../Page/吸血鬼.md "wikilink")「」在東京現身，並向美神等人宣戰。
 
 ### 配音員（電影動畫）
 
@@ -1035,24 +1225,20 @@ Sweeper）也就是除靈師，是一個新興熱門的行業，嗜錢如命的�
 
 ## 影碟版本
 
-  - [VHS版](../Page/VHS.md "wikilink")
+  - [VHS](../Page/VHS.md "wikilink")版
     收錄內容為全11卷的[電視動畫加全](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")1部的劇場版。還有，每一卷均收錄4話（僅第11巻收錄5話）。
   - [DVD版](https://zh.wikipedia.org/wiki/DVD "wikilink")
-    2005年1月26日由[King
-    Records第一次以DVD](../Page/國王唱片.md "wikilink")-BOX的形式發行。
+    2005年1月26日由[King Records第一次以DVD](../Page/國王唱片.md "wikilink")-BOX的形式發行。
     2009年1月21日至同年3月21日以單品版形式發行。全8卷，第1卷至第4卷各收錄6話，第5卷之後以降各收錄5話。以1到2、3到5、6到8的批次陸續發行。
     2016年9月14日，發行電影動畫的數位修復版，由[東映動畫發行](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")。
   - [藍光版](../Page/藍光光碟.md "wikilink")
-    2016年8月24日由[Frontier
-    Works發行](../Page/Frontier_Works.md "wikilink")。並附贈Liner
-    notes和作者椎名親筆繪製的迷你簽名板\[5\]。
+    2016年8月24日由[Frontier Works發行](../Page/Frontier_Works.md "wikilink")。並附贈Liner notes和作者椎名親筆繪製的迷你簽名板\[5\]。
 
 ## 廣播劇
 
 ### 內容
 
-全部由[King
-Records發行](../Page/國王唱片.md "wikilink")。為紀念電影動畫版的上映，於[聲優](../Page/聲優.md "wikilink")[林原惠主持的個人廣播節目](../Page/林原惠.md "wikilink")「[林原惠的東京不羈夜](../Page/林原惠的東京不羈夜.md "wikilink")」單元「熱血電波俱樂部」播出。
+全部由[King Records發行](../Page/國王唱片.md "wikilink")。為紀念電影動畫版的上映，於[聲優](../Page/聲優.md "wikilink")[林原惠](../Page/林原惠.md "wikilink")主持的個人廣播節目「[林原惠的東京不羈夜](../Page/林原惠的東京不羈夜.md "wikilink")」單元「熱血電波俱樂部」播出。
 
 ### 全話列表
 
@@ -1203,11 +1389,8 @@ Records發行](../Page/國王唱片.md "wikilink")。為紀念電影動畫版的
 
 ## 遊戲
 
-  - 『美神 除師』（對應機種：[Super
-    Famicom](../Page/超級任天堂.md "wikilink")，1993年9月23日發行，販售公司：）
-  - 『美神』（對應機種：[PC
-    Engine](https://zh.wikipedia.org/wiki/PC_Engine "wikilink") SUPER
-    CD-ROM<sup>2</sup>，1994年7月29日發行，販售公司：[萬普](../Page/萬普.md "wikilink")）
+  - 『美神 除師』（對應機種：[Super Famicom](../Page/超級任天堂.md "wikilink")，1993年9月23日發行，販售公司：）
+  - 『美神』（對應機種：[PC Engine](https://zh.wikipedia.org/wiki/PC_Engine "wikilink") SUPER CD-ROM<sup>2</sup>，1994年7月29日發行，販售公司：[萬普](../Page/萬普.md "wikilink")）
 
 ## 獎項
 
@@ -1221,35 +1404,19 @@ Records發行](../Page/國王唱片.md "wikilink")。為紀念電影動畫版的
 
   - －[創作歌手](../Page/創作歌手.md "wikilink")、[配音員](../Page/配音員.md "wikilink")，形象歌曲提供者。
 
-  - [大阿爾克那](../Page/大阿爾克那.md "wikilink")－單行本的扉頁插圖、電視動畫的過場動畫章節登場的[塔羅牌角色](../Page/塔羅牌.md "wikilink")。
+  - [大阿爾克那](../Page/大阿爾克那.md "wikilink")－單行本的扉頁插圖、電視動畫的過場動畫章節登場的[塔羅牌](../Page/塔羅牌.md "wikilink")角色。
 
   - －漫畫家的連載作品，曾在副標題中使用同名漫畫的名稱戲仿。
 
 ## 外部連結
 
   - [椎名百貨店the web](http://www.ne.jp/asahi/cna100/store/) －椎名高志的官方網站。
-  - [(有)椎名百貨店THE WEB 完成原稿速報·部落格版](http://cnanews.asablo.jp/blog/)
-    －椎名高志的官方個人部落格。
-  - [GS美神極樂大作戰\!\!](http://websunday.net/museum/no25/no25in.html)
-    －[小學館](../Page/小學館.md "wikilink")「[Sunday名作博物館](../Page/週刊少年Sunday.md "wikilink")」官網。
+  - [(有)椎名百貨店THE WEB 完成原稿速報·部落格版](http://cnanews.asablo.jp/blog/) －椎名高志的官方個人部落格。
+  - [GS美神極樂大作戰\!\!](http://websunday.net/museum/no25/no25in.html) －[小學館](../Page/小學館.md "wikilink")「[Sunday名作博物館](../Page/週刊少年Sunday.md "wikilink")」官網。
   - [TOKYO MX動畫官網](http://www.mxtv.co.jp/gs_mikami/)
   - [東映動畫作品官網](http://www.toei-anim.co.jp/tv/gs_mikami/)
 
-[Category:週刊少年Sunday](https://zh.wikipedia.org/wiki/Category:週刊少年Sunday "wikilink")
-[Category:1993年日本電視動畫](https://zh.wikipedia.org/wiki/Category:1993年日本電視動畫 "wikilink")
-[Category:搞笑動畫](https://zh.wikipedia.org/wiki/Category:搞笑動畫 "wikilink")
-[Category:奇幻動畫](https://zh.wikipedia.org/wiki/Category:奇幻動畫 "wikilink")
-[Category:亞洲電視外購動畫](https://zh.wikipedia.org/wiki/Category:亞洲電視外購動畫 "wikilink")
-[Category:台視外購動畫](https://zh.wikipedia.org/wiki/Category:台視外購動畫 "wikilink")
-[Category:改编成电影的日本漫画](https://zh.wikipedia.org/wiki/Category:改编成电影的日本漫画 "wikilink")
-[Category:靈異漫畫](https://zh.wikipedia.org/wiki/Category:靈異漫畫 "wikilink")
-[Category:驅魔題材作品](https://zh.wikipedia.org/wiki/Category:驅魔題材作品 "wikilink")
-[Category:超常現象題材作品](https://zh.wikipedia.org/wiki/Category:超常現象題材作品 "wikilink")
-[Category:Gagaga文庫](https://zh.wikipedia.org/wiki/Category:Gagaga文庫 "wikilink")
-[Category:少年漫畫](https://zh.wikipedia.org/wiki/Category:少年漫畫 "wikilink")
-[Category:1994年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:1994年日本劇場動畫 "wikilink")
-[Category:東京背景動畫電影](https://zh.wikipedia.org/wiki/Category:東京背景動畫電影 "wikilink")
-[Category:吸血鬼題材電影](https://zh.wikipedia.org/wiki/Category:吸血鬼題材電影 "wikilink")
+[Category:週刊少年Sunday](https://zh.wikipedia.org/wiki/Category:週刊少年Sunday "wikilink") [Category:1993年日本電視動畫](https://zh.wikipedia.org/wiki/Category:1993年日本電視動畫 "wikilink") [Category:搞笑動畫](https://zh.wikipedia.org/wiki/Category:搞笑動畫 "wikilink") [Category:奇幻動畫](https://zh.wikipedia.org/wiki/Category:奇幻動畫 "wikilink") [Category:亞洲電視外購動畫](https://zh.wikipedia.org/wiki/Category:亞洲電視外購動畫 "wikilink") [Category:台視外購動畫](https://zh.wikipedia.org/wiki/Category:台視外購動畫 "wikilink") [Category:改编成电影的日本漫画](https://zh.wikipedia.org/wiki/Category:改编成电影的日本漫画 "wikilink") [Category:靈異漫畫](https://zh.wikipedia.org/wiki/Category:靈異漫畫 "wikilink") [Category:驅魔題材作品](https://zh.wikipedia.org/wiki/Category:驅魔題材作品 "wikilink") [Category:超常現象題材作品](https://zh.wikipedia.org/wiki/Category:超常現象題材作品 "wikilink") [Category:Gagaga文庫](https://zh.wikipedia.org/wiki/Category:Gagaga文庫 "wikilink") [Category:少年漫畫](https://zh.wikipedia.org/wiki/Category:少年漫畫 "wikilink") [Category:1994年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:1994年日本劇場動畫 "wikilink") [Category:東京背景動畫電影](https://zh.wikipedia.org/wiki/Category:東京背景動畫電影 "wikilink") [Category:吸血鬼題材電影](https://zh.wikipedia.org/wiki/Category:吸血鬼題材電影 "wikilink")
 
 1.
 2.  來自動畫錄影帶第2巻收錄的製作人員對談。

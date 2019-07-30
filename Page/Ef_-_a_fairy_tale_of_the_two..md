@@ -1,36 +1,22 @@
-《**ef - a fairy tale of the
-two.**》，是[日本遊戲公司](../Page/日本.md "wikilink")[minori發售的](https://zh.wikipedia.org/wiki/minori "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")，前篇《ef
-- the first tale.》於2006年12月22日發售\[1\]，後篇《ef - the latter
-tale.》於2008年5月30日發售。\[2\]遊戲發行商[COMFORT於](https://zh.wikipedia.org/wiki/COMFORT "wikilink")2010年4月29日推出包含前後篇的[Playstation
-2版](https://zh.wikipedia.org/wiki/Playstation_2 "wikilink")《ef - a fairy
-tale of the two.》。\[3\]2010年9月17日發售[Fan
-disc](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")。\[4\]
+《**ef - a fairy tale of the two.**》，是[日本](../Page/日本.md "wikilink")遊戲公司[minori發售的](https://zh.wikipedia.org/wiki/minori "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")，前篇《ef - the first tale.》於2006年12月22日發售\[1\]，後篇《ef - the latter tale.》於2008年5月30日發售。\[2\]遊戲發行商[COMFORT於](https://zh.wikipedia.org/wiki/COMFORT "wikilink")2010年4月29日推出包含前後篇的[Playstation 2版](https://zh.wikipedia.org/wiki/Playstation_2 "wikilink")《ef - a fairy tale of the two.》。\[3\]2010年9月17日發售[Fan disc](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")。\[4\]
 
 ## 概要
 
-本作品是日本[minori公司的第五部作品](https://zh.wikipedia.org/wiki/minori "wikilink")，招攬了以《[水夏～SUIKA～](../Page/水夏.md "wikilink")》、《[初音島](../Page/初音島.md "wikilink")》原作者而聞名的[御影](https://zh.wikipedia.org/wiki/御影 "wikilink")，和負責該作品人物設定、原畫的[七尾奈留](../Page/七尾奈留.md "wikilink")，在2005年初發表製作消息。
+本作品是日本[minori公司的第五部作品](https://zh.wikipedia.org/wiki/minori "wikilink")，招攬了以《[水夏](../Page/水夏.md "wikilink")～SUIKA～》、《[初音島](../Page/初音島.md "wikilink")》原作者而聞名的[御影](https://zh.wikipedia.org/wiki/御影 "wikilink")，和負責該作品人物設定、原畫的[七尾奈留](../Page/七尾奈留.md "wikilink")，在2005年初發表製作消息。
 
 本作品並非採用[十八禁遊戲常見的](https://zh.wikipedia.org/wiki/十八禁遊戲 "wikilink")[冒險遊戲類型](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")，而採用了稱之為[視覺小說的類型](https://zh.wikipedia.org/wiki/視覺小說 "wikilink")。在這種類型當中玩家≠主角，而是以第三人稱視點參加戲劇一樣。同時御影對成人遊戲的故事進行時的互相排他性（跟有些女主角的關係發展進行的話與其他的女主角劇情幾乎不會受到影響）以自己的方式解讀，對於每個登場人物們，各章節皆以不同的視點與筆觸來描寫。
 
 同時遊戲中的插圖，也不是用其他冒險遊戲常見的站立圖像為底，大量使用了事件插圖，並取消了女主角的分歧路線，讓玩家沒有攻略遊戲的心態，而著重於鑑賞故事。
 
-由於上述的講究使得製作與研發時間拉長，是否能夠發行，各式各樣的揣測也一一浮現。2006年7月作品發表分為《ef - the first
-tale.》與《ef - the latter tale.》兩部，同時《ef - the first
-tale.》的發售日為2006年12月22日。過了兩年之後，《ef - the latter
-tale.》也於2008年5月30日推出。
+由於上述的講究使得製作與研發時間拉長，是否能夠發行，各式各樣的揣測也一一浮現。2006年7月作品發表分為《ef - the first tale.》與《ef - the latter tale.》兩部，同時《ef - the first tale.》的發售日為2006年12月22日。過了兩年之後，《ef - the latter tale.》也於2008年5月30日推出。
 
-《fairy tale of the
-two》是「兩個人的童話」之意。而「ef」一詞並無官方詳寫，但「ef」的相關音樂裡有五首代表作都是以「ef」為字首：遊戲主題曲「eternal
-feather」、「emotional flutter」，動畫主題曲「euphoric field」、「ebullient
-future」，以及ef全體作品都有的「ever forever」，
+《fairy tale of the two》是「兩個人的童話」之意。而「ef」一詞並無官方詳寫，但「ef」的相關音樂裡有五首代表作都是以「ef」為字首：遊戲主題曲「eternal feather」、「emotional flutter」，動畫主題曲「euphoric field」、「ebullient future」，以及ef全體作品都有的「ever forever」，
 
 本作品顛覆傳統作品的前衛劇情和架構給予18禁遊戲一個全新的面貌以及呈現方式，同時也反思了人類內心的真實糾纏而非只是普通的催淚劇本，BGM的配樂更突顯全新的風貌，大大的提升本作的價值。
 
 ## 故事簡介
 
-故事以二部共六章組成，在前篇《ef - the first
-tale.》以廣野紘、宮村宮子、新藤景及堤京介為中心的故事（以兩個章節構成），後篇《ef
-- the latter tale.》以新藤千尋、麻生蓮治、羽山瑞希、久瀬修一、火村夕及雨宮優子為中心的故事（以三個章節構成）。
+故事以二部共六章組成，在前篇《ef - the first tale.》以廣野紘、宮村宮子、新藤景及堤京介為中心的故事（以兩個章節構成），後篇《ef - the latter tale.》以新藤千尋、麻生蓮治、羽山瑞希、久瀬修一、火村夕及雨宮優子為中心的故事（以三個章節構成）。
 
 ### ef - the first tale.
 
@@ -49,13 +35,9 @@ tale.》以廣野紘、宮村宮子、新藤景及堤京介為中心的故事（
 
 ### ef - the latter tale.
 
-the latter tale.的登場人物和the first tale.有密切關係，而the latter tale.的故事風格與the
-first tale.爱情小品式的剧情有所不同，劇情充滿著悲傷、哀愁和無奈。
+the latter tale.的登場人物和the first tale.有密切關係，而the latter tale.的故事風格與the first tale.爱情小品式的剧情有所不同，劇情充滿著悲傷、哀愁和無奈。
 
-在the latter tale. 中的场景则和the first
-tale.几乎相同，但兩作的人物几乎没有通过直接见面的方式，而是以电子邮件等方式交流，使玩家往往误认为这是发生在两个互相连通的[平行宇宙中的故事](https://zh.wikipedia.org/wiki/平行宇宙 "wikilink")，而結局卻表明了the
-latter
-tale.中的音羽城是由火村夕参与设计建造，坐落于与原来音羽城经纬度基本相同而处于南半球（设定为[澳大利亚境内](../Page/澳大利亚.md "wikilink")）地点，并且完全仿造本尊的音羽城样式建造的景观城市。
+在the latter tale. 中的场景则和the first tale.几乎相同，但兩作的人物几乎没有通过直接见面的方式，而是以电子邮件等方式交流，使玩家往往误认为这是发生在两个互相连通的[平行宇宙中的故事](https://zh.wikipedia.org/wiki/平行宇宙 "wikilink")，而結局卻表明了the latter tale.中的音羽城是由火村夕参与设计建造，坐落于与原来音羽城经纬度基本相同而处于南半球（设定为[澳大利亚](../Page/澳大利亚.md "wikilink")境内）地点，并且完全仿造本尊的音羽城样式建造的景观城市。
 
   - 幕間
     緊接著the first tale.的尾聲，雨宮優子敍述了她的故事後，火村夕也把他過去一年的經歷與及會過來這間教會的原因細細道出。
@@ -79,8 +61,7 @@ tale.中的音羽城是由火村夕参与设计建造，坐落于与原来音羽
 
   - 終章（下）雨宮優子
     火村夕与优子排除萬難，雖然生活有點辛苦，但他們終於可以开始幸福的生活了。優子也認識了孤兒院的小孩未來。聖誕節就快來臨了，四周都充滿歡樂的氣氛，然而，這時卻發生了一場改變他們的意外…
-    離開那裡的夕在十年後，終究還是回到了音羽，而最後也終於再見到了優子。再次相遇的兩人，火村夕希望優子可以留下，但優子因為「神的旨意」而不得不再次離去，留下一片羽翼給了火村夕，Imperfect
-    Answer這首BGM娓娓道出兩人內心的傷痛和不捨，火村夕決定繼續一個人走下去，重建「音羽」
+    離開那裡的夕在十年後，終究還是回到了音羽，而最後也終於再見到了優子。再次相遇的兩人，火村夕希望優子可以留下，但優子因為「神的旨意」而不得不再次離去，留下一片羽翼給了火村夕，Imperfect Answer這首BGM娓娓道出兩人內心的傷痛和不捨，火村夕決定繼續一個人走下去，重建「音羽」
 
 ## 登場人物
 
@@ -116,13 +97,10 @@ tale.中的音羽城是由火村夕参与设计建造，坐落于与原来音羽
     小時候叫做未來（MIKI），以前就認識雨宮優子和火村夕，後來遇見剛從德國回來的久瀨修一，久瀨修一送了一條他頭上的髮飾。目前瑞希頭上的髮飾，就是當時久瀨送的，第四章的女主角。
   -
     生日5月5日，金牛座，血型AB。身高173cm，体重60kg，瞳色：黄。
-    在教會出現，並聽優子說著一年前各位少年少女故事的青年，終章的男主角，同時也是ef系列實質的男主角。在第三章中，總是待在教會裡，但卻表明自己並不是神父或牧師之類的角色。被蓮治認為是會給予年輕人忠告的大人般的存在，實質是千尋的監護人。和久瀨修一是好朋友也是高中同學。在ef
-    - the latter tale.中扮演講述者的角色，向優子說著一年前發生在澳洲音羽的往事。
+    在教會出現，並聽優子說著一年前各位少年少女故事的青年，終章的男主角，同時也是ef系列實質的男主角。在第三章中，總是待在教會裡，但卻表明自己並不是神父或牧師之類的角色。被蓮治認為是會給予年輕人忠告的大人般的存在，實質是千尋的監護人。和久瀨修一是好朋友也是高中同學。在ef - the latter tale.中扮演講述者的角色，向優子說著一年前發生在澳洲音羽的往事。
   -
     生日6月21日，雙子座，血型O。身高157cm，體重42kg，三圍：B82/W56/H83，瞳色：红。
-    在教會等待著某個人的神秘少女。常常在意想不到的時候出現，曾為音羽學生。音羽学園的OG（隸屬天文社、可在學期間便廢社了。）她長年穿冬服，在烈日下也不會流汗。第二章曾暗示她會離開音羽。終章的女主角，同時也是ef系列實質的女主角。在ef
-    - the first
-    tale.中扮演講述者的角色，向夕說著一年前發生在音羽的往事。當火村還是學生時，兩人在此之前亦曾見過面，之後又在學校久別重逢而交往。震災之前，是單親家庭。
+    在教會等待著某個人的神秘少女。常常在意想不到的時候出現，曾為音羽學生。音羽学園的OG（隸屬天文社、可在學期間便廢社了。）她長年穿冬服，在烈日下也不會流汗。第二章曾暗示她會離開音羽。終章的女主角，同時也是ef系列實質的女主角。在ef - the first tale.中扮演講述者的角色，向夕說著一年前發生在音羽的往事。當火村還是學生時，兩人在此之前亦曾見過面，之後又在學校久別重逢而交往。震災之前，是單親家庭。
 
 ### 其他人物
 
@@ -196,9 +174,7 @@ tale.中的音羽城是由火村夕参与设计建造，坐落于与原来音羽
 
 2007年10月6日開始於日本[千葉電視台等的](https://zh.wikipedia.org/wiki/千葉電視台 "wikilink")[獨立UHF放送局以及](https://zh.wikipedia.org/wiki/全國獨立UHF放送協議會 "wikilink")[AT-X](../Page/AT-X.md "wikilink")\[5\]播放，同年的12月25日完結。
 
-故事內容由 the first tale.的第一、二章及the latter
-tale.的第三章改編而成。為了遷就時間軸的構成，第二章的更改幅度比較大，把其內容刪減濃縮並完全融入第一章之中。由於動畫播放的時候the
-latter tale.仍未發售，因此有關第三章的內容引起支持者們很大的迴響。
+故事內容由 the first tale.的第一、二章及the latter tale.的第三章改編而成。為了遷就時間軸的構成，第二章的更改幅度比較大，把其內容刪減濃縮並完全融入第一章之中。由於動畫播放的時候the latter tale.仍未發售，因此有關第三章的內容引起支持者們很大的迴響。
 
 #### 製作人員
 
@@ -220,9 +196,7 @@ latter tale.仍未發售，因此有關第三章的內容引起支持者們很�
   - 製作人：松田章男、數馬英治、、、久保田光俊
   - 動畫制作：SHAFT
   - 製作：「ef」製作委員會（GENEON ENTERTAINMENT、minori、Movic、Frontier Works、SHAFT）
-  - 節目提供：GENEON
-    ENTERTAINMENT、[MediaWorks](../Page/MediaWorks.md "wikilink")、Frontier
-    Works
+  - 節目提供：GENEON ENTERTAINMENT、[MediaWorks](../Page/MediaWorks.md "wikilink")、Frontier Works
 
 #### 主題曲
 
@@ -230,8 +204,7 @@ latter tale.仍未發售，因此有關第三章的內容引起支持者們很�
 
 <!-- end list -->
 
-  - 「**[euphoric
-    field](https://zh.wikipedia.org/wiki/euphoric_field "wikilink")**」
+  - 「**[euphoric field](https://zh.wikipedia.org/wiki/euphoric_field "wikilink")**」
 
 <!-- end list -->
 
@@ -552,8 +525,7 @@ latter tale.仍未發售，因此有關第三章的內容引起支持者們很�
 
 ### 第二季「ef - a tale of melodies.」
 
-於2008年10月6日開始播放。故事內容由the latter
-tale.的第四章及終章改編而成。和第一期一樣，整套動畫都充滿著魄力的演出。對終章的修改幅度比較大：加入一些原創情節，但有些重要情節被刪除掉。
+於2008年10月6日開始播放。故事內容由the latter tale.的第四章及終章改編而成。和第一期一樣，整套動畫都充滿著魄力的演出。對終章的修改幅度比較大：加入一些原創情節，但有些重要情節被刪除掉。
 
 #### 製作人員
 
@@ -573,8 +545,7 @@ tale.的第四章及終章改編而成。和第一期一樣，整套動畫都充
   - 音響制作：樂音舎
   - 製作人：松田章男、數馬英治、金庭こず恵、シバタミツテル、久保田光俊
   - 動畫制作：SHAFT
-  - 製作：「ef2」製作委員會（GENEON ENTERTAINMENT、minori、Movic、Frontier
-    Works、SHAFT）
+  - 製作：「ef2」製作委員會（GENEON ENTERTAINMENT、minori、Movic、Frontier Works、SHAFT）
 
 #### 主題曲
 
@@ -582,8 +553,7 @@ tale.的第四章及終章改編而成。和第一期一樣，整套動畫都充
 
 <!-- end list -->
 
-  - 「**[ebullient
-    future](https://zh.wikipedia.org/wiki/ebullient_future "wikilink")**」
+  - 「**[ebullient future](https://zh.wikipedia.org/wiki/ebullient_future "wikilink")**」
 
 <!-- end list -->
 
@@ -623,8 +593,7 @@ tale.的第四章及終章改編而成。和第一期一樣，整套動畫都充
 
 <!-- end list -->
 
-  - 「**[euphoric
-    field](https://zh.wikipedia.org/wiki/euphoric_field "wikilink")**」
+  - 「**[euphoric field](https://zh.wikipedia.org/wiki/euphoric_field "wikilink")**」
 
 <!-- end list -->
 
@@ -820,8 +789,7 @@ tale.的第四章及終章改編而成。和第一期一樣，整套動畫都充
 
 ### 漫畫
 
-漫畫版在《[月刊電撃Comic
-Gao\!](https://zh.wikipedia.org/wiki/月刊電撃Comic_Gao! "wikilink")》連載。\[6\]
+漫畫版在《[月刊電撃Comic Gao\!](https://zh.wikipedia.org/wiki/月刊電撃Comic_Gao! "wikilink")》連載。\[6\]
 
 原作：[御影](https://zh.wikipedia.org/wiki/御影 "wikilink")、[鏡遊](https://zh.wikipedia.org/wiki/鏡遊 "wikilink")；漫畫：[雅樹里](https://zh.wikipedia.org/wiki/雅樹里 "wikilink")；發行：[MediaWorks](../Page/MediaWorks.md "wikilink")
 
@@ -839,9 +807,7 @@ Gao\!](https://zh.wikipedia.org/wiki/月刊電撃Comic_Gao! "wikilink")》連載
 
 ### 短篇小說
 
-以「**ef - a fairy tale of the two another
-tale**」這個標題在[Comptiq雜誌](../Page/Comptiq.md "wikilink")2006年7月號至2008年7月號連載。\[7\]\[8\]
-著：御影、鏡遊；插圖：七尾奈留、、庄名泉石
+以「**ef - a fairy tale of the two another tale**」這個標題在[Comptiq](../Page/Comptiq.md "wikilink")雜誌2006年7月號至2008年7月號連載。\[7\]\[8\] 著：御影、鏡遊；插圖：七尾奈留、、庄名泉石
 
 ### CD
 
@@ -867,21 +833,18 @@ tale**」這個標題在[Comptiq雜誌](../Page/Comptiq.md "wikilink")2006年7�
 
   -
     [minori於](https://zh.wikipedia.org/wiki/minori "wikilink")2006年10月27日發售。
-    收錄[主題曲](../Page/主題曲.md "wikilink")「」全曲長度版本、影片長度版本、各off
-    vocal版本、2種類的[獨角戲廣播劇](https://zh.wikipedia.org/wiki/獨角戲 "wikilink")（女性編、男性編）。
+    收錄[主題曲](../Page/主題曲.md "wikilink")「」全曲長度版本、影片長度版本、各off vocal版本、2種類的[獨角戲廣播劇](https://zh.wikipedia.org/wiki/獨角戲 "wikilink")（女性編、男性編）。
     兩個版本不同在付送的畫及側紙插畫。
     另外，有不少店鋪即日全部賣出。為了回應錯失機會的人，女性角色封面版本於2006年12月22日再版。
 
 ### 網路廣播
 
   -
-    在[音泉上播放](../Page/音泉.md "wikilink")。主持，由《ef》的演出聲優擔任嘉賓。
+    在[音泉](../Page/音泉.md "wikilink")上播放。主持，由《ef》的演出聲優擔任嘉賓。
 
 ## 評價
 
-在2007年10月，《[電擊G's
-magazine](../Page/電擊G's_magazine.md "wikilink")》舉辦了日本前五十名最佳美少女遊戲排名的票選活動，《Ef
-- a fairy tale of the two.》在入圍的249款遊戲中獲得11票而成為第23名。\[9\]
+在2007年10月，《[電擊G's magazine](../Page/電擊G's_magazine.md "wikilink")》舉辦了日本前五十名最佳美少女遊戲排名的票選活動，《Ef - a fairy tale of the two.》在入圍的249款遊戲中獲得11票而成為第23名。\[9\]
 
 ## 參考來源
 
@@ -903,24 +866,10 @@ magazine](../Page/電擊G's_magazine.md "wikilink")》舉辦了日本前五十�
   - [PS2版遊戲官方網站](http://www.comfort-soft.jp/products/ef/)
   - [第一期動畫官方網站](http://www.ef-memo.com/)
   - [第二期動畫官方網站](http://www.ef-melo.com/)
-  - [minori official web
-    site](https://web.archive.org/web/20090505215105/http://www.minori.ph/)
-  - [*Ef*](https://web.archive.org/web/20090516183046/http://asciimw.jp/mediamix/ef/)
-    at [ASCII Media Works](../Page/ASCII_Media_Works.md "wikilink")
+  - [minori official web site](https://web.archive.org/web/20090505215105/http://www.minori.ph/)
+  - [*Ef*](https://web.archive.org/web/20090516183046/http://asciimw.jp/mediamix/ef/) at [ASCII Media Works](../Page/ASCII_Media_Works.md "wikilink")
 
-[Category:Minori](https://zh.wikipedia.org/wiki/Category:Minori "wikilink")
-[Category:2006年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2006年日本成人遊戲 "wikilink")
-[Category:2008年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2008年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:視覺小說](https://zh.wikipedia.org/wiki/Category:視覺小說 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:PlayStation_2遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_2遊戲 "wikilink")
-[Category:失憶症題材遊戲](https://zh.wikipedia.org/wiki/Category:失憶症題材遊戲 "wikilink")
-[Category:2007年UHF動畫](https://zh.wikipedia.org/wiki/Category:2007年UHF動畫 "wikilink")
-[Category:2008年UHF動畫](https://zh.wikipedia.org/wiki/Category:2008年UHF動畫 "wikilink")
-[Category:月刊Comic電擊大王連載作品](https://zh.wikipedia.org/wiki/Category:月刊Comic電擊大王連載作品 "wikilink")
-[Category:日本成人遊戲改編電視動畫](https://zh.wikipedia.org/wiki/Category:日本成人遊戲改編電視動畫 "wikilink")
+[Category:Minori](https://zh.wikipedia.org/wiki/Category:Minori "wikilink") [Category:2006年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2006年日本成人遊戲 "wikilink") [Category:2008年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2008年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:視覺小說](https://zh.wikipedia.org/wiki/Category:視覺小說 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:PlayStation_2遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_2遊戲 "wikilink") [Category:失憶症題材遊戲](https://zh.wikipedia.org/wiki/Category:失憶症題材遊戲 "wikilink") [Category:2007年UHF動畫](https://zh.wikipedia.org/wiki/Category:2007年UHF動畫 "wikilink") [Category:2008年UHF動畫](https://zh.wikipedia.org/wiki/Category:2008年UHF動畫 "wikilink") [Category:月刊Comic電擊大王連載作品](https://zh.wikipedia.org/wiki/Category:月刊Comic電擊大王連載作品 "wikilink") [Category:日本成人遊戲改編電視動畫](https://zh.wikipedia.org/wiki/Category:日本成人遊戲改編電視動畫 "wikilink")
 
 1.
 2.

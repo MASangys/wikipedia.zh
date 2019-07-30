@@ -1,4 +1,4 @@
-《**我和殭屍有個約會II**》（）是[香港](../Page/香港.md "wikilink")[亞洲電視拍攝製作的時裝奇幻](../Page/亞洲電視.md "wikilink")[劇集](https://zh.wikipedia.org/wiki/劇集 "wikilink")，全劇共43集，監製[冼志偉](../Page/冼志偉.md "wikilink")，此劇為《[我和殭屍有個約會系列](../Page/我和殭屍有個約會系列.md "wikilink")》第二部，於1999年製作，2000年首播。大結局更打破無綫[慣性收視的規律](../Page/慣性收視.md "wikilink")，平均收視20點，最高更達22點，取得六成收視。主題曲《假如真的再有約會》更成為粵語流行經典作品，而[無綫電視更於](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")2014年的電視劇《[老表，你好hea！](../Page/老表，你好hea！.md "wikilink")》翻唱這首歌作為電視劇插曲。
+《**我和殭屍有個約會II**》（）是[香港](../Page/香港.md "wikilink")[亞洲電視](../Page/亞洲電視.md "wikilink")拍攝製作的時裝奇幻[劇集](https://zh.wikipedia.org/wiki/劇集 "wikilink")，全劇共43集，電視播映原版為41集，其中有數集為1小時加長版。監製[冼志偉](../Page/冼志偉.md "wikilink")，由[尹天照](../Page/尹天照.md "wikilink")、[萬綺雯](../Page/萬綺雯.md "wikilink")、[陳啟泰](../Page/陳啟泰.md "wikilink")、[楊恭如](../Page/楊恭如.md "wikilink")、[吳廷燁](../Page/吳廷燁.md "wikilink")、[張文慈](../Page/張文慈.md "wikilink")、[任達華](../Page/任達華.md "wikilink")、[張慧儀](../Page/張慧儀.md "wikilink")等主演。此劇為《[我和殭屍有個約會系列](../Page/我和殭屍有個約會系列.md "wikilink")》第二部，於1999年製作，2000年首播。大結局更打破無綫[慣性收視](../Page/慣性收視.md "wikilink")的規律，平均收視20點，最高更達22點，取得六成收視。主題曲《假如真的再有約會》更成為粵語流行經典作品，而[無綫電視更於](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")2014年的電視劇《[老表，你好hea！](../Page/老表，你好hea！.md "wikilink")》翻唱這首歌作為電視劇插曲。
 
 ## 內容簡介
 
@@ -80,7 +80,7 @@
 </tr>
 <tr class="odd">
 <td><p>況中棠</p></td>
-<td><p>況國華於秦朝的前世，為秦朝將軍，與馬靈兒為情侶，可惜因為<a href="../Page/秦始皇.md" title="wikilink">秦始皇成了殭屍</a>，怕被馬靈兒收伏，下令況中棠殺死馬靈兒。在誅九族的威脅之下，況中棠被迫忍痛含淚殺了馬靈兒，然後自盡而死。</p></td>
+<td><p>況國華於秦朝的前世，為秦朝將軍，與馬靈兒為情侶，可惜因為<a href="../Page/秦始皇.md" title="wikilink">秦始皇</a>成了殭屍，怕被馬靈兒收伏，下令況中棠殺死馬靈兒。在誅九族的威脅之下，況中棠被迫忍痛含淚殺了馬靈兒，然後自盡而死。</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -177,7 +177,7 @@
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/杜汶澤" title="wikilink">杜汶澤</a></p></td>
 <td><p>金正中</p></td>
-<td><p>馬小玲的徒弟；金未來的契表姨甥。愛上過女鬼貞子。後期被將臣命令的司徒奮仁所咬而變成殭屍，最後冰符都沒用，再求被人收，由其師馬小玲親手收伏而亡。<a href="https://zh.wikipedia.org/wiki/許仙" title="wikilink">許仙轉世</a>（參考<a href="../Page/我和殭屍有個約會.md" title="wikilink">我和殭屍有個約會第一部</a>）。</p></td>
+<td><p>馬小玲的徒弟；金未來的契表姨甥。愛上過女鬼貞子。後期被將臣命令的司徒奮仁所咬而變成殭屍，最後冰符都沒用，再求被人收，由其師馬小玲親手收伏而亡。<a href="https://zh.wikipedia.org/wiki/許仙" title="wikilink">許仙轉世</a>（參考<a href="../Page/我和殭屍有個約會.md" title="wikilink">我和殭屍有個約會</a>第一部）。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/張國權_(香港藝人)" title="wikilink">張國權</a></p></td>
@@ -382,7 +382,7 @@ Sunny</p></td>
 <p>之後因愛上正中而恢復善良，最後由正中親手將其超渡。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/林志豪" title="wikilink">林志豪</a>（原名：<a href="https://zh.wikipedia.org/wiki/山本晃之" title="wikilink">山本晃之</a>）</p></td>
+<td><p><a href="../Page/林志豪.md" title="wikilink">林志豪</a>（原名：<a href="https://zh.wikipedia.org/wiki/山本晃之" title="wikilink">山本晃之</a>）</p></td>
 <td><p>游志傑（矮仔傑）</p></td>
 <td><p>ITM電腦亞太區副總裁，馬小玲的舊同學，喜歡小玲。 尋找馬小玲協助於其公司捉鬼。</p></td>
 </tr>
@@ -425,12 +425,7 @@ Sunny</p></td>
 ## 外部連結
 
   - [ATV：我和殭屍有個約會II](https://web.archive.org/web/20110517065559/http://www.hkatv.com/drama/vampire-2/)
-  - [我和殭屍有個約會II
-    歲月留聲](https://web.archive.org/web/20140618231054/http://www.hkatv.com/events/date_vampire/)
+  - [我和殭屍有個約會II 歲月留聲](https://web.archive.org/web/20140618231054/http://www.hkatv.com/events/date_vampire/)
   - [緯來電視：我和殭屍有個約會II](http://drama.videoland.com.tw/channel/vampire2/default.htm)
 
-[Category:2000年亞視電視劇集](https://zh.wikipedia.org/wiki/Category:2000年亞視電視劇集 "wikilink")
-[Category:緯來電視外購電視劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購電視劇 "wikilink")
-[Category:中華民國大陸時期背景電視劇](https://zh.wikipedia.org/wiki/Category:中華民國大陸時期背景電視劇 "wikilink")
-[Category:抗日戰爭題材電視劇](https://zh.wikipedia.org/wiki/Category:抗日戰爭題材電視劇 "wikilink")
-[Category:殭屍題材電視劇](https://zh.wikipedia.org/wiki/Category:殭屍題材電視劇 "wikilink")
+[Category:2000年亞視電視劇集](https://zh.wikipedia.org/wiki/Category:2000年亞視電視劇集 "wikilink") [Category:緯來電視外購電視劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購電視劇 "wikilink") [Category:中華民國大陸時期背景電視劇](https://zh.wikipedia.org/wiki/Category:中華民國大陸時期背景電視劇 "wikilink") [Category:抗日戰爭題材電視劇](https://zh.wikipedia.org/wiki/Category:抗日戰爭題材電視劇 "wikilink") [Category:殭屍題材電視劇](https://zh.wikipedia.org/wiki/Category:殭屍題材電視劇 "wikilink")

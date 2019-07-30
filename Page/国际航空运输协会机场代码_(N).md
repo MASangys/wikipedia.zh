@@ -43,5 +43,5 @@
 
 [Category:航空代码列表](https://zh.wikipedia.org/wiki/Category:航空代码列表 "wikilink")
 
-1.  在[中部國際機場啟用前採用](../Page/中部國際機場.md "wikilink")**NGO**
+1.  在[中部國際機場](../Page/中部國際機場.md "wikilink")啟用前採用**NGO**
 2.  在[羽田機場恢復國際線運作時](https://zh.wikipedia.org/wiki/羽田機場 "wikilink")，一度使用代號**TYO**

@@ -1,5 +1,4 @@
-在[C和](https://zh.wikipedia.org/wiki/C語言 "wikilink")[C++](../Page/C++.md "wikilink")[程式語言中](https://zh.wikipedia.org/wiki/程式語言 "wikilink")，**`typedef`**是一個關鍵字。它用來對一個[資料類型取一個別名](../Page/資料類型.md "wikilink")，目的是為了使[原始碼更易於閱讀和理解](https://zh.wikipedia.org/wiki/原始碼 "wikilink")。它通常用於簡化宣告複雜的類型組成的結構
-，但它也常常在各種長度的整數資料型別中看到，例如`size_t`和`time_t`。
+在[C和](https://zh.wikipedia.org/wiki/C語言 "wikilink")[C++](../Page/C++.md "wikilink")[程式語言中](https://zh.wikipedia.org/wiki/程式語言 "wikilink")，**`typedef`**是一個[關鍵字](../Page/保留字.md "wikilink")。它用來對一個[資料類型](../Page/資料類型.md "wikilink")取一個別名，目的是為了使[原始碼更易於閱讀和理解](https://zh.wikipedia.org/wiki/原始碼 "wikilink")。它通常用於簡化宣告複雜的類型組成的結構 ，但它也常常在各種長度的整數資料型別中看到，例如`size_t`和`time_t`。
 
 ## 語法
 
@@ -52,8 +51,7 @@ void congratulate(points your_score) {
 
 前面兩段程式碼運作狀況一樣，但是使用`typedef`的第二段程式碼更清楚的表示了兩個變數(score和speed)，雖然資料型別都是`int`，卻是各自代表不同的意義，且他們的資料並不相容。
 
-但請注意，其清楚的表示不同意義只是對於工程師而言，C/C++的編譯器認為兩個變數都是`int`時，並不會顯示警告或錯誤，如:
-以下程式碼，使用宣告為速度的變數作為`congratulate`函式的參數 :
+但請注意，其清楚的表示不同意義只是對於工程師而言，C/C++的編譯器認為兩個變數都是`int`時，並不會顯示警告或錯誤，如: 以下程式碼，使用宣告為速度的變數作為`congratulate`函式的參數 :
 
 ``` c++
 void foo()
@@ -62,8 +60,7 @@ void foo()
     congratulate(km100);
 ```
 
-但是，雖然在上面的程式碼中，編譯器認為"km_per_hour"等於`int`，但在使用前綴 `unsigned`, `long`,
-`signed`時，兩者並不能互換使用。
+但是，雖然在上面的程式碼中，編譯器認為"km_per_hour"等於`int`，但在使用前綴 `unsigned`, `long`, `signed`時，兩者並不能互換使用。
 
 ``` c++
 void foo() {
@@ -99,8 +96,7 @@ if (jaffa == 10)
 ...
 ```
 
-這兩段程式碼都做同樣的一件事。第二個例子使用了
-`typedef`，使其更易於了解將要進行什麼。也就是一個變數包含關於蘋果的資訊，而另一個包含關於橘子的資訊。
+這兩段程式碼都做同樣的一件事。第二個例子使用了 `typedef`，使其更易於了解將要進行什麼。也就是一個變數包含關於蘋果的資訊，而另一個包含關於橘子的資訊。
 
 ### 簡化宣告語法
 
@@ -114,8 +110,7 @@ struct var {
 
 此處使用者定義一個資料類型 *`var`*。
 
-像這樣建立一個 *`var`* 類型的變數，程式碼必須寫為（注意，在 C++ 中宣告一個 `struct` 時，同時也隱含了
-`typedef`，C 則沒有）：
+像這樣建立一個 *`var`* 類型的變數，程式碼必須寫為（注意，在 C++ 中宣告一個 `struct` 時，同時也隱含了 `typedef`，C 則沒有）：
 
 ``` c
 struct var a;
@@ -160,8 +155,7 @@ arrType arr={1,2,3,4,5,6};  // same as: char arr[6]={1,2,3,4,5,6}
 arrType *pArr;              // same as: char (*pArr)[6];
 ```
 
-在這裡，`arrType`是`char[6]`的別稱。而`arrType
-*pArr;`則表示`pArr`是一個指向儲存`char[6]`型別記憶體的指標。
+在這裡，`arrType`是`char[6]`的別稱。而`arrType *pArr;`則表示`pArr`是一個指向儲存`char[6]`型別記憶體的指標。
 
 ### 與指標一起使用
 
@@ -174,9 +168,7 @@ typedef int *intptr;   // type name: intptr
 intptr ptr;            // same as: int *ptr
 ```
 
-在上面那段程式碼中，`intptr`是一個 指標型態`int*`的 新的別名。`intptr
-ptr;`宣告了一個變數(`ptr`)，其資料型別是`int*`。如此一來`ptr`就是一個
-可以指向一段儲存`int`資料的記憶體 的指標了。
+在上面那段程式碼中，`intptr`是一個 指標型態`int*`的 新的別名。`intptr ptr;`宣告了一個變數(`ptr`)，其資料型別是`int*`。如此一來`ptr`就是一個 可以指向一段儲存`int`資料的記憶體 的指標了。
 
 使用`typedef`來定義一個新的指標型別有時候會造成一些困惑 :
 
@@ -190,13 +182,11 @@ intptr cliff2, *allen2;     // cliff2 is int* type, but allen2 is int** type
                             //          intptr *allen2;
 ```
 
-在上面的程式碼中,*`ntptr cliff, allen;`*表示宣告兩個變數，其資料型別是`int*`，而`intptr
-*allan2`則使`allen2`的型別成為`int**`
+在上面的程式碼中,*`ntptr cliff, allen;`*表示宣告兩個變數，其資料型別是`int*`，而`intptr *allan2`則使`allen2`的型別成為`int**`
 
 ### 與結構指標一起使用
 
-`Typedef`可以跟[結構體](https://zh.wikipedia.org/wiki/結構體_\(C語言\) "wikilink")[指標一起使用](../Page/指標_\(電腦科學\).md "wikilink")。如下
-:
+`Typedef`可以跟[結構體](https://zh.wikipedia.org/wiki/結構體_\(C語言\) "wikilink")[指標一起使用](../Page/指標_\(電腦科學\).md "wikilink")。如下 :
 
 ``` c++
 struct Node {
@@ -273,8 +263,7 @@ int final_result = call_a_func(&do_math);
 void (*signal(int sig, void (*func)(int)))(int);
 ```
 
-上面宣告的函式相當的神祕，因為它沒有清楚的顯示它以什麼函式當作參數，或回傳了什麼資料型別。一個初心者工程師甚至可能以為它接收一個`int`作為參數，並不回傳任何東西。但它其實接收了一個`int`和一個`function
-pointer`作為參數，並回傳了一個`function pointer`。它可以被改寫成以下程式碼：
+上面宣告的函式相當的神祕，因為它沒有清楚的顯示它以什麼函式當作參數，或回傳了什麼資料型別。一個初心者工程師甚至可能以為它接收一個`int`作為參數，並不回傳任何東西。但它其實接收了一個`int`和一個`function pointer`作為參數，並回傳了一個`function pointer`。它可以被改寫成以下程式碼：
 
 ``` c++
 typedef void (*sighandler_t)(int);
@@ -305,15 +294,13 @@ int (*z)(double)  = (int (*p)(double));  // Right-hand side is not legal
 
 ## 外部連結
 
-  - [Cprogramming.com](http://www.cprogramming.com/tutorial/typedef.html)
-    - 詳細的討論
+  - [Cprogramming.com](http://www.cprogramming.com/tutorial/typedef.html) - 詳細的討論
 
 ## 參照
 
   - [抽象資料型別](../Page/抽象資料型別.md "wikilink")
   - [C syntax](https://zh.wikipedia.org/wiki/C_syntax "wikilink")
 
-[Category:C語言](https://zh.wikipedia.org/wiki/Category:C語言 "wikilink")
-[Category:C++](https://zh.wikipedia.org/wiki/Category:C++ "wikilink")
+[Category:C語言](https://zh.wikipedia.org/wiki/Category:C語言 "wikilink") [Category:C++](https://zh.wikipedia.org/wiki/Category:C++ "wikilink")
 
 1.

@@ -1,11 +1,10 @@
-《**超劇場版
-Keroro軍曹**》於2006年3月11日在日本上映\[1\]。電影片長約60分鐘，日本[票房約為](https://zh.wikipedia.org/wiki/票房 "wikilink")6億[日圓](../Page/日圓.md "wikilink")，香港[票房約為](https://zh.wikipedia.org/wiki/票房 "wikilink")900萬港元，而台灣[票房則約](https://zh.wikipedia.org/wiki/票房 "wikilink")980萬[台幣](https://zh.wikipedia.org/wiki/台幣 "wikilink")。劇場版1的[VCD和](../Page/VCD.md "wikilink")[DVD則在](https://zh.wikipedia.org/wiki/DVD "wikilink")2006年8月25日正式發行。
+《**超劇場版 Keroro軍曹**》於2006年3月11日在日本上映\[1\]。電影片長約60分鐘，日本[票房約為](https://zh.wikipedia.org/wiki/票房 "wikilink")6億[日圓](../Page/日圓.md "wikilink")，香港[票房約為](https://zh.wikipedia.org/wiki/票房 "wikilink")900萬港元，而台灣[票房則約](https://zh.wikipedia.org/wiki/票房 "wikilink")980萬[台幣](https://zh.wikipedia.org/wiki/台幣 "wikilink")。劇場版1的[VCD](../Page/VCD.md "wikilink")和[DVD則在](https://zh.wikipedia.org/wiki/DVD "wikilink")2006年8月25日正式發行。
 
 ## 情節簡介
 
 某日，感情融洽的冬樹與Keroro一起外出購買[鋼普拉](https://zh.wikipedia.org/wiki/鋼普拉 "wikilink")。不料在回家的路上，誤闖一間神秘小廟。冬樹對這個古文明遺址感到興奮不已的同時，Keroro卻不小心打破了一個壺狀物體。頓時萌生不祥預感的兩人，匆促慌張地掉頭跑回家。不久，Keroro和冬樹臉上浮現「╳」印記。隨著時間流逝，週遭的人們也開始在臉上浮現「╳」印記。這些有印記的人，彷彿擁有[念力](../Page/念力.md "wikilink")，能夠隨心所欲地讓其他人也浮現「╳」印記。這項不可思議卻很方便的能力深受人類喜愛，轉眼間就擴散開來。
 
-這時候，現身的外星人Mirara表示，「╳」印記是一個名為Kiruru的古代武器，它會吸收人類的負面能量，毀滅地球。但是由於「╳」印記並未帶來不好的影響，冬樹和Keroro小隊並未將這句話放在心上。稍後，Kiruru開始巨大化，「╳」印記也開始散播負面能量。人類對此感到恐慌，進而不相信身邊任何人。於是Keroro打算利用這股念力，展開侵略[地球大作戰](../Page/地球.md "wikilink")。
+這時候，現身的外星人Mirara表示，「╳」印記是一個名為Kiruru的古代武器，它會吸收人類的負面能量，毀滅地球。但是由於「╳」印記並未帶來不好的影響，冬樹和Keroro小隊並未將這句話放在心上。稍後，Kiruru開始巨大化，「╳」印記也開始散播負面能量。人類對此感到恐慌，進而不相信身邊任何人。於是Keroro打算利用這股念力，展開侵略[地球](../Page/地球.md "wikilink")大作戰。
 
 吸收人類負面能量的Kiruru，體型逐漸變得巨大，並且開始破壞街道。對這一切感到無力的人類，只能眼睜睜的看著一切被破壞殆盡。這樣下去，人類是否會滅亡呢？
 
@@ -62,9 +61,6 @@ Keroro軍曹**》於2006年3月11日在日本上映\[1\]。電影片長約60分�
   - [《Keroro軍曹》劇場版官方網站](https://web.archive.org/web/20111018185702/http://www.keroro-movie.net/)
   - [開眼電影《Keroro軍曹》介紹](https://web.archive.org/web/20070927192911/http://movie.atmovies.com.tw/movie/film.asp?action=next&film_id=fsjp90215463)
 
-[Category:超劇場版_Keroro軍曹](https://zh.wikipedia.org/wiki/Category:超劇場版_Keroro軍曹 "wikilink")
-[Category:2006年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2006年日本劇場動畫 "wikilink")
-[Category:日昇動畫](https://zh.wikipedia.org/wiki/Category:日昇動畫 "wikilink")
-[Category:多摩地域背景電影](https://zh.wikipedia.org/wiki/Category:多摩地域背景電影 "wikilink")
+[Category:超劇場版_Keroro軍曹](https://zh.wikipedia.org/wiki/Category:超劇場版_Keroro軍曹 "wikilink") [Category:2006年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2006年日本劇場動畫 "wikilink") [Category:日昇動畫](https://zh.wikipedia.org/wiki/Category:日昇動畫 "wikilink") [Category:多摩地域背景電影](https://zh.wikipedia.org/wiki/Category:多摩地域背景電影 "wikilink")
 
 1.  原作者吉崎觀音著有一份《超劇場版1》的草稿，內容請參照單行本第13冊。

@@ -1,20 +1,12 @@
-《**Over The
-Rainbow**》為[台灣藝人](https://zh.wikipedia.org/wiki/台灣 "wikilink")[張韶涵發行的第一張錄音室專輯](../Page/張韶涵.md "wikilink")。
+《**Over The Rainbow**》為[台灣藝人](https://zh.wikipedia.org/wiki/台灣 "wikilink")[張韶涵](../Page/張韶涵.md "wikilink")發行的第一張錄音室專輯。
 
-本張專輯的起名原由，是因為孩提時代張韶涵的母親喜歡唱的一首歌《Over The
-Rainbow》。專輯中的《遺失的美好》曾創下50萬人手機音樂下載第一名的記錄。
-\[1\]
+本張專輯的起名原由，是因為孩提時代張韶涵的母親喜歡唱的一首歌《Over The Rainbow》。專輯中的《遺失的美好》曾創下50萬人手機音樂下載第一名的記錄。 \[1\]
 
 ## 專輯名稱由來
 
-《Over the
-Rainbow》，原唱該屬[荷里活](https://zh.wikipedia.org/wiki/荷里活 "wikilink")[影星](https://zh.wikipedia.org/wiki/影星 "wikilink")[茱蒂·嘉蘭](https://zh.wikipedia.org/wiki/茱蒂·嘉蘭 "wikilink")。由Harold
-Arlen作曲、 E.Y. Harburg
-填詞，是1939年電影《[綠野仙蹤](../Page/綠野仙蹤_\(1939年電影\).md "wikilink")》內的一首歌曲。由飾演戲中主角桃樂絲（Dorothy
-Gale）的茱蒂·嘉蘭演繹。
+《Over the Rainbow》，原唱該屬[荷里活](https://zh.wikipedia.org/wiki/荷里活 "wikilink")[影星](https://zh.wikipedia.org/wiki/影星 "wikilink")[茱蒂·嘉蘭](https://zh.wikipedia.org/wiki/茱蒂·嘉蘭 "wikilink")。由Harold Arlen作曲、 E.Y. Harburg 填詞，是1939年電影《[綠野仙蹤](../Page/綠野仙蹤_\(1939年電影\).md "wikilink")》內的一首歌曲。由飾演戲中主角桃樂絲（Dorothy Gale）的茱蒂·嘉蘭演繹。
 
-此曲被選為美國世紀金曲（Songs of the
-Century）之首，[二次大戰時亦被遠征歐洲的美國士兵用作懷緬祖國的歌曲](https://zh.wikipedia.org/wiki/二次大戰 "wikilink")。
+此曲被選為美國世紀金曲（Songs of the Century）之首，[二次大戰時亦被遠征歐洲的美國士兵用作懷緬祖國的歌曲](https://zh.wikipedia.org/wiki/二次大戰 "wikilink")。
 
 ## 發行版本
 
@@ -28,7 +20,7 @@ Century）之首，[二次大戰時亦被遠征歐洲的美國士兵用作懷緬
 | \#   | 歌名                                                                                                        | 導演                                                  | 附註                                  |
 | ---- | --------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | ----------------------------------- |
 | 2\.  | [寓言](http://www.youtube.com/watch?v=-4eJy_cpvoo&list=PLD5ECAF4AA2860FF3&index=23&feature=plpp_video)      | [黃中平](../Page/黃中平.md "wikilink")                    |                                     |
-| 3\.  | [都只因為你](http://www.youtube.com/watch?v=74so0uVRqtk)                                                       | [黃中平](../Page/黃中平.md "wikilink")                    | 與[郭品超演出](../Page/郭品超.md "wikilink") |
+| 3\.  | [都只因為你](http://www.youtube.com/watch?v=74so0uVRqtk)                                                       | [黃中平](../Page/黃中平.md "wikilink")                    | 與[郭品超](../Page/郭品超.md "wikilink")演出 |
 | 4\.  | [我的最愛](http://www.youtube.com/watch?v=EXWUcGt9YV8&list=PLD5ECAF4AA2860FF3&index=20&feature=plpp_video)    | [黃中平](../Page/黃中平.md "wikilink")                    |                                     |
 | 5\.  | [天邊](http://www.youtube.com/watch?v=tlL6poy0XmA&list=PLD5ECAF4AA2860FF3&index=18&feature=plpp_video)      | [賴偉康](https://zh.wikipedia.org/wiki/賴偉康 "wikilink") |                                     |
 | 7\.  | [吶喊](http://www.youtube.com/watch?v=UU4p0eb0IBQ&list=PLD5ECAF4AA2860FF3&index=19&feature=plpp_video)      | [林炳存](https://zh.wikipedia.org/wiki/林炳存 "wikilink") |                                     |
@@ -73,9 +65,6 @@ Century）之首，[二次大戰時亦被遠征歐洲的美國士兵用作懷緬
   -
   -
   -
-[Category:張韶涵音樂專輯](https://zh.wikipedia.org/wiki/Category:張韶涵音樂專輯 "wikilink")
-[Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
-[Category:2004年音樂專輯](https://zh.wikipedia.org/wiki/Category:2004年音樂專輯 "wikilink")
+[Category:張韶涵音樂專輯](https://zh.wikipedia.org/wiki/Category:張韶涵音樂專輯 "wikilink") [Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:2004年音樂專輯](https://zh.wikipedia.org/wiki/Category:2004年音樂專輯 "wikilink")
 
 1.

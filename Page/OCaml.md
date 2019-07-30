@@ -1,25 +1,12 @@
-**OCaml**，最早稱為**Objective
-Caml**，是[Caml编程语言的主要实现](https://zh.wikipedia.org/wiki/Caml "wikilink")，由[Xavier
-Leroy](https://zh.wikipedia.org/wiki/Xavier_Leroy "wikilink")，[Jérôme
-Vouillon](https://zh.wikipedia.org/wiki/Jérôme_Vouillon "wikilink")，[Damien
-Doligez](https://zh.wikipedia.org/wiki/Damien_Doligez "wikilink")，[Didier
-Rémy及其他人于](https://zh.wikipedia.org/wiki/Didier_Rémy "wikilink")1996年创立。OCaml是[开放原始码项目](https://zh.wikipedia.org/wiki/开放原始码 "wikilink")。此项目的管理和大部分维护工作交由[INRIA](https://zh.wikipedia.org/wiki/INRIA "wikilink")。
+**OCaml**，最早稱為**Objective Caml**，是[Caml编程语言的主要实现](https://zh.wikipedia.org/wiki/Caml "wikilink")，由[Xavier Leroy](https://zh.wikipedia.org/wiki/Xavier_Leroy "wikilink")，[Jérôme Vouillon](https://zh.wikipedia.org/wiki/Jérôme_Vouillon "wikilink")，[Damien Doligez](https://zh.wikipedia.org/wiki/Damien_Doligez "wikilink")，[Didier Rémy及其他人于](https://zh.wikipedia.org/wiki/Didier_Rémy "wikilink")1996年创立。OCaml是[开放原始码项目](https://zh.wikipedia.org/wiki/开放原始码 "wikilink")。此项目的管理和大部分维护工作交由[INRIA](https://zh.wikipedia.org/wiki/INRIA "wikilink")。
 
 ## 参见
 
-  - [Categorical Abstract Machine
-    Language](https://zh.wikipedia.org/wiki/Categorical_Abstract_Machine_Language "wikilink")，the
-    language that preceeded OCaml
-  - [Standard
-    ML](https://zh.wikipedia.org/wiki/Standard_ML "wikilink")，a
-    related language
-  - [F
-    Sharp](https://zh.wikipedia.org/wiki/F_Sharp "wikilink")，Microsoft
-    .NET平台上 OCaml 风格的语言
-  - [OCamIL](http://www.pps.jussieu.fr/~montela/ocamil/)，Microsoft
-    .NET平台上的OCaml编译器
-  - [Extensible
-    ML](https://zh.wikipedia.org/wiki/Extensible_ML "wikilink")，另一种有面向对象扩展的ML
+  - [Categorical Abstract Machine Language](https://zh.wikipedia.org/wiki/Categorical_Abstract_Machine_Language "wikilink")，the language that preceeded OCaml
+  - [Standard ML](https://zh.wikipedia.org/wiki/Standard_ML "wikilink")，a related language
+  - [F Sharp](https://zh.wikipedia.org/wiki/F_Sharp "wikilink")，Microsoft .NET平台上 OCaml 风格的语言
+  - [OCamIL](http://www.pps.jussieu.fr/~montela/ocamil/)，Microsoft .NET平台上的OCaml编译器
+  - [Extensible ML](https://zh.wikipedia.org/wiki/Extensible_ML "wikilink")，另一种有面向对象扩展的ML
   - [O'Haskell带有面向对象扩展的](https://zh.wikipedia.org/wiki/O'Haskell "wikilink")[Haskell](../Page/Haskell.md "wikilink")
 
 ## 外部链接
@@ -27,84 +14,47 @@ Rémy及其他人于](https://zh.wikipedia.org/wiki/Didier_Rémy "wikilink")1996
   - [Caml language family official website](http://caml.inria.fr/)
       - [OCaml libraries](http://caml.inria.fr/humps/caml_latest.html)
       - [Books about Caml](http://pauillac.inria.fr/caml/books-eng.html)
-  - [OCaml tutorial for C, C++, Java and Perl
-    programmers](http://www.ocaml-tutorial.org/)
-  - [A basic OCaml
-    tutorial](http://www.ocf.berkeley.edu/~mbh/tutorial/index.html)
-  - [Comparison of the speed of various
-    languages](https://web.archive.org/web/20120831065317/http://shootout.alioth.debian.org/)
-    including Ocaml
-  - [LablGL and LablGTK](http://wwwfun.kurims.kyoto-u.ac.jp/soft/olabl/)
-    [OpenGL](../Page/OpenGL.md "wikilink")+ bindings (LablGL) and
-    [GTK+](https://zh.wikipedia.org/wiki/GTK+ "wikilink") bindings
-    (LablGTK)
-  - [Newest Ocaml Projects on
-    Sourceforge](http://sourceforge.net/softwaremap/trove_list.php?stquery=&sort=registration_date&sortdir=desc&offset=0&form_cat=454)
-  - [OCaml code wiki on
-    CodeCodex](http://www.codecodex.com/wiki/index.php?title=Category:Objective_Caml)
+  - [OCaml tutorial for C, C++, Java and Perl programmers](http://www.ocaml-tutorial.org/)
+  - [A basic OCaml tutorial](http://www.ocf.berkeley.edu/~mbh/tutorial/index.html)
+  - [Comparison of the speed of various languages](https://web.archive.org/web/20120831065317/http://shootout.alioth.debian.org/) including Ocaml
+  - [LablGL and LablGTK](http://wwwfun.kurims.kyoto-u.ac.jp/soft/olabl/) [OpenGL](../Page/OpenGL.md "wikilink")+ bindings (LablGL) and [GTK+](https://zh.wikipedia.org/wiki/GTK+ "wikilink") bindings (LablGTK)
+  - [Newest Ocaml Projects on Sourceforge](http://sourceforge.net/softwaremap/trove_list.php?stquery=&sort=registration_date&sortdir=desc&offset=0&form_cat=454)
+  - [OCaml code wiki on CodeCodex](http://www.codecodex.com/wiki/index.php?title=Category:Objective_Caml)
 
 ### 有关书籍
 
-  - [The Objective Caml
-    system](http://caml.inria.fr/pub/docs/manual-ocaml/) by Xavier Leroy
-    (with Damien Doligez, Jacques Garrigue, Didier Rémy and Jérôme
-    Vouillon).
-  - [Developing Applications With Objective
-    Caml](http://pauillac.inria.fr/caml/books-eng.html) by Emmanuel
-    Chailloux, Pascal Manoury and Bruno Pagano.
-  - [Introduction to the Objective Caml Programming
-    Language](https://web.archive.org/web/20131002091023/http://files.metaprl.org/doc/ocaml-book.pdf)
-    by Jason Hickey.
+  - [The Objective Caml system](http://caml.inria.fr/pub/docs/manual-ocaml/) by Xavier Leroy (with Damien Doligez, Jacques Garrigue, Didier Rémy and Jérôme Vouillon).
+  - [Developing Applications With Objective Caml](http://pauillac.inria.fr/caml/books-eng.html) by Emmanuel Chailloux, Pascal Manoury and Bruno Pagano.
+  - [Introduction to the Objective Caml Programming Language](https://web.archive.org/web/20131002091023/http://files.metaprl.org/doc/ocaml-book.pdf) by Jason Hickey.
 
 ### 用OCaml写成的程序
 
 #### 一般用途
 
-  - [MLDonkey](../Page/MLDonkey.md "wikilink") - a multi-network P2P
-    program
-  - [Unison](https://zh.wikipedia.org/wiki/Unison_\(file_synchronizer\) "wikilink")
-    - a file synchronizer
+  - [MLDonkey](../Page/MLDonkey.md "wikilink") - a multi-network P2P program
+  - [Unison](https://zh.wikipedia.org/wiki/Unison_\(file_synchronizer\) "wikilink") - a file synchronizer
 
 #### 教育
 
-  - [GeoProof](https://web.archive.org/web/20060421112504/http://home.gna.org/geoproof/)
-    - a dynamic geometry software
-  - [MinCaml](http://min-caml.sourceforge.net/index-e.html) - a small
-    tutorial compiler written in OCaml.
+  - [GeoProof](https://web.archive.org/web/20060421112504/http://home.gna.org/geoproof/) - a dynamic geometry software
+  - [MinCaml](http://min-caml.sourceforge.net/index-e.html) - a small tutorial compiler written in OCaml.
 
 #### 工程
 
-  - [Confluence](http://www.confluent.org) is a language for synchronous
-    reactive system design. A Confluence program can generate digital
-    logic for an FPGA or ASIC platform, or C code for hard real-time
-    software.
+  - [Confluence](http://www.confluent.org) is a language for synchronous reactive system design. A Confluence program can generate digital logic for an FPGA or ASIC platform, or C code for hard real-time software.
 
 #### 娱乐
 
-  - Index of [toys and
-    examples](https://web.archive.org/web/20061117112745/http://caml.inria.fr/cgi-bin/hump.en.cgi?sort=0&browse=19)
-    on the Caml hump.
-  - Several [International Conference on Functional Programming
-    Contest](https://zh.wikipedia.org/wiki/International_Conference_on_Functional_Programming_Contest "wikilink")
-    winners
-  - [Gravity
-    simulator](http://handhelds.freshmeat.net/projects/planets/)
+  - Index of [toys and examples](https://web.archive.org/web/20061117112745/http://caml.inria.fr/cgi-bin/hump.en.cgi?sort=0&browse=19) on the Caml hump.
+  - Several [International Conference on Functional Programming Contest](https://zh.wikipedia.org/wiki/International_Conference_on_Functional_Programming_Contest "wikilink") winners
+  - [Gravity simulator](http://handhelds.freshmeat.net/projects/planets/)
 
 #### 科学
 
   - [Coq](http://coq.inria.fr) is a proof assistant.
-  - [Orpie](https://web.archive.org/web/20040610115304/http://www.eecs.umich.edu/~pelzlpj/orpie/)
-    - a fullscreen RPN calculator for the console. Its operation is
-    similar to that of modern HP calculators.
-  - [FFTW](http://www.fftw.org) -
-    [C](https://zh.wikipedia.org/wiki/C_programming_language "wikilink")
-    [FFT](https://zh.wikipedia.org/wiki/Fast_Fourier_transform "wikilink")
-    library, most of whose performance-critical code is generated by a
-    program written in OCaml.
+  - [Orpie](https://web.archive.org/web/20040610115304/http://www.eecs.umich.edu/~pelzlpj/orpie/) - a fullscreen RPN calculator for the console. Its operation is similar to that of modern HP calculators.
+  - [FFTW](http://www.fftw.org) - [C](https://zh.wikipedia.org/wiki/C_programming_language "wikilink") [FFT](https://zh.wikipedia.org/wiki/Fast_Fourier_transform "wikilink") library, most of whose performance-critical code is generated by a program written in OCaml.
 
 ## 外部連結
 
-[Category:函数式编程语言](https://zh.wikipedia.org/wiki/Category:函数式编程语言 "wikilink")
-[Category:ML語言家族](https://zh.wikipedia.org/wiki/Category:ML語言家族 "wikilink")
-[Category:面向对象的编程语言](https://zh.wikipedia.org/wiki/Category:面向对象的编程语言 "wikilink")
-[Category:静态类型编程语言](https://zh.wikipedia.org/wiki/Category:静态类型编程语言 "wikilink")
+[Category:函数式编程语言](https://zh.wikipedia.org/wiki/Category:函数式编程语言 "wikilink") [Category:ML語言家族](https://zh.wikipedia.org/wiki/Category:ML語言家族 "wikilink") [Category:面向对象的编程语言](https://zh.wikipedia.org/wiki/Category:面向对象的编程语言 "wikilink") [Category:静态类型编程语言](https://zh.wikipedia.org/wiki/Category:静态类型编程语言 "wikilink")

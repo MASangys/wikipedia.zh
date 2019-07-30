@@ -1,5 +1,4 @@
-[NBA_All_Star_Game_2009_birds_eye_view.jpg](https://zh.wikipedia.org/wiki/File:NBA_All_Star_Game_2009_birds_eye_view.jpg "fig:NBA_All_Star_Game_2009_birds_eye_view.jpg")\]\]
-**NBA全明星周末**是[NBA每个赛季中的一项篮球娱乐活动](../Page/NBA.md "wikilink")，每年在2月左右在预先决定好的地点举行。整个NBA全明星周末包括以下几个主要活动：
+[NBA_All_Star_Game_2009_birds_eye_view.jpg](https://zh.wikipedia.org/wiki/File:NBA_All_Star_Game_2009_birds_eye_view.jpg "fig:NBA_All_Star_Game_2009_birds_eye_view.jpg")\]\] **NBA全明星周末**是[NBA](../Page/NBA.md "wikilink")每个赛季中的一项篮球娱乐活动，每年在2月左右在预先决定好的地点举行。整个NBA全明星周末包括以下几个主要活动：
 
   - [NBA全明星赛](https://zh.wikipedia.org/wiki/NBA全明星赛 "wikilink")：由球迷票选出的球员组成的东西部全明星阵容进行对抗；
   - [NBA嘉年华](https://zh.wikipedia.org/wiki/NBA嘉年华 "wikilink")：一系列与球迷之间进行互动的篮球娱乐活动；
@@ -11,8 +10,7 @@
 
 ## 明星是如何被選出
 
-通過公開投票形式，東部聯盟和西部聯盟各自選出5名先發明星球員（中鋒1名，後衛和前鋒各2名）(自2012-2013球季年開始改成後衛2名.前鋒3名)。聯盟中的每支球隊在投票開始前會提名各自的球員。
-由于贊助商的關係，選票除了通過正常比賽和網上選票兩種形式以外，贊助商也在其店舖內派發。
+通過公開投票形式，東部聯盟和西部聯盟各自選出5名先發明星球員（中鋒1名，後衛和前鋒各2名）(自2012-2013球季年開始改成後衛2名.前鋒3名)。聯盟中的每支球隊在投票開始前會提名各自的球員。 由于贊助商的關係，選票除了通過正常比賽和網上選票兩種形式以外，贊助商也在其店舖內派發。
 
 後備球員是由各隊主教練挑選，每隊可以選擇7名球員。為了以示公正，主教練不能挑選其執教球隊的球員。如果被選中的球員因傷或者其他事情未能如期參加比賽，NBA總裁將會挑選其他球員代替。
 
@@ -44,15 +42,10 @@ NBA全明星周六夜是NBA全明星赛開賽前一日舉行。該日將會舉�
 
 ## 外部链接
 
-  - [NBA official All-Star Balloting
-    portal](http://www.nba.com/news/allstar2006_051117.html)
-  - [NBA All-Star Game historical
-    results](https://web.archive.org/web/20061207004034/http://www.basketballreference.com/awards/allstar.htm)
-  - [InsideHoops.com -
-    NBA全明星周末](http://www.insidehoops.com/all-star-weekend.shtml)
-  - [NBA All-Star
-    News](https://web.archive.org/web/20060717063117/http://nba-all-star-game-news.blogspot.com/)
+  - [NBA official All-Star Balloting portal](http://www.nba.com/news/allstar2006_051117.html)
+  - [NBA All-Star Game historical results](https://web.archive.org/web/20061207004034/http://www.basketballreference.com/awards/allstar.htm)
+  - [InsideHoops.com - NBA全明星周末](http://www.insidehoops.com/all-star-weekend.shtml)
+  - [NBA All-Star News](https://web.archive.org/web/20060717063117/http://nba-all-star-game-news.blogspot.com/)
   - [NBA全明星周末球迷網站](https://web.archive.org/web/20061112030315/http://inicia.es/de/allstar/index.htm)
 
-[Category:NBA](https://zh.wikipedia.org/wiki/Category:NBA "wikilink")
-[Category:NBA全明星赛](https://zh.wikipedia.org/wiki/Category:NBA全明星赛 "wikilink")
+[Category:NBA](https://zh.wikipedia.org/wiki/Category:NBA "wikilink") [Category:NBA全明星赛](https://zh.wikipedia.org/wiki/Category:NBA全明星赛 "wikilink")

@@ -1,6 +1,4 @@
-**Half The World Is Watching
-Me**為[丹麥樂團](https://zh.wikipedia.org/wiki/丹麥 "wikilink")[Mew的專輯](../Page/Mew.md "wikilink")，於2000年由自創廠牌Evil
-Office於丹麥唱片公司Playground下，三種版本共發行約5000張。
+**Half The World Is Watching Me**為[丹麥樂團](https://zh.wikipedia.org/wiki/丹麥 "wikilink")[Mew](../Page/Mew.md "wikilink")的專輯，於2000年由自創廠牌Evil Office於丹麥唱片公司Playground下，三種版本共發行約5000張。
 
 第二版與第三版的CD內頁附有團員照片。
 
@@ -70,7 +68,4 @@ Office於丹麥唱片公司Playground下，三種版本共發行約5000張。
   - Niclas Bendixen—美式踢踏舞
   - Rasmus Sugarglam—鋼琴
 
-[Category:2000年音樂專輯](https://zh.wikipedia.org/wiki/Category:2000年音樂專輯 "wikilink")
-[Category:Mew音樂專輯](https://zh.wikipedia.org/wiki/Category:Mew音樂專輯 "wikilink")
-[Category:搖滾音樂專輯](https://zh.wikipedia.org/wiki/Category:搖滾音樂專輯 "wikilink")
-[Category:丹麥音樂專輯](https://zh.wikipedia.org/wiki/Category:丹麥音樂專輯 "wikilink")
+[Category:2000年音樂專輯](https://zh.wikipedia.org/wiki/Category:2000年音樂專輯 "wikilink") [Category:Mew音樂專輯](https://zh.wikipedia.org/wiki/Category:Mew音樂專輯 "wikilink") [Category:搖滾音樂專輯](https://zh.wikipedia.org/wiki/Category:搖滾音樂專輯 "wikilink") [Category:丹麥音樂專輯](https://zh.wikipedia.org/wiki/Category:丹麥音樂專輯 "wikilink")

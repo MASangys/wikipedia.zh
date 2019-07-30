@@ -8,8 +8,4 @@
   - **[戴尔·加德纳](../Page/戴尔·加德纳.md "wikilink")**（，曾执行以及任务），任务专家
   - **[约瑟夫·艾伦](https://zh.wikipedia.org/wiki/约瑟夫·艾伦 "wikilink")**（，曾执行以及任务），任务专家
 
-[Category:1984年美国](https://zh.wikipedia.org/wiki/Category:1984年美国 "wikilink")
-[Category:1984年佛罗里达州](https://zh.wikipedia.org/wiki/Category:1984年佛罗里达州 "wikilink")
-[Category:1984年科學](https://zh.wikipedia.org/wiki/Category:1984年科學 "wikilink")
-[Category:发现号航天飞机任务](https://zh.wikipedia.org/wiki/Category:发现号航天飞机任务 "wikilink")
-[Category:1984年11月](https://zh.wikipedia.org/wiki/Category:1984年11月 "wikilink")
+[Category:1984年美国](https://zh.wikipedia.org/wiki/Category:1984年美国 "wikilink") [Category:1984年佛罗里达州](https://zh.wikipedia.org/wiki/Category:1984年佛罗里达州 "wikilink") [Category:1984年科學](https://zh.wikipedia.org/wiki/Category:1984年科學 "wikilink") [Category:发现号航天飞机任务](https://zh.wikipedia.org/wiki/Category:发现号航天飞机任务 "wikilink") [Category:1984年11月](https://zh.wikipedia.org/wiki/Category:1984年11月 "wikilink")

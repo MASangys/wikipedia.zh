@@ -1,14 +1,8 @@
-**龙与地下城Online**（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：Dungeons
-& Dragons Online:
-Stormreach，缩写：DDO）是一款基于[龙与地下城规则](../Page/龙与地下城.md "wikilink")3.5版的一个[大型多人在线角色扮演游戏](../Page/大型多人在线角色扮演游戏.md "wikilink")。游戏由[美国](../Page/美国.md "wikilink")[Turbine公司开发](https://zh.wikipedia.org/wiki/Turbine公司 "wikilink")，在与现在掌握龙与地下城版权的[威世智经过约两年的合作后推出](../Page/威世智.md "wikilink")，游戏于2006年2月28日开始运行，由[雅达利发行](https://zh.wikipedia.org/wiki/雅达利 "wikilink")。在[中国大陆](../Page/中国大陆.md "wikilink")，游戏由[盛大代理](../Page/盛大网络.md "wikilink")，于2006年6月28日及7月28日分别开始第一及第二次内部测试，并于2006年8月28日开始进行公开测试。游戏于2006年10月10日荣获[英国电影和电视艺术学院](../Page/英国电影和电视艺术学院.md "wikilink")（BAFTA）最佳多人游戏奖。
+**龙与地下城Online**（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：Dungeons & Dragons Online: Stormreach，缩写：DDO）是一款基于[龙与地下城](../Page/龙与地下城.md "wikilink")规则3.5版的一个[大型多人在线角色扮演游戏](../Page/大型多人在线角色扮演游戏.md "wikilink")。游戏由[美国](../Page/美国.md "wikilink")[Turbine公司开发](https://zh.wikipedia.org/wiki/Turbine公司 "wikilink")，在与现在掌握龙与地下城版权的[威世智](../Page/威世智.md "wikilink")经过约两年的合作后推出，游戏于2006年2月28日开始运行，由[雅达利发行](https://zh.wikipedia.org/wiki/雅达利 "wikilink")。在[中国大陆](../Page/中国大陆.md "wikilink")，游戏由[盛大代理](../Page/盛大网络.md "wikilink")，于2006年6月28日及7月28日分别开始第一及第二次内部测试，并于2006年8月28日开始进行公开测试。游戏于2006年10月10日荣获[英国电影和电视艺术学院](../Page/英国电影和电视艺术学院.md "wikilink")（BAFTA）最佳多人游戏奖。
 
 ## 游戏世界设定
 
-龙与地下城Online基于龙与地下城规则3.5版，并稍做改动，游戏场景设定于[艾伯伦世界](https://zh.wikipedia.org/wiki/艾伯伦 "wikilink")（Eberron）的泽恩德瑞克大陆（Xen'drik
-）北部的风暴湾附近。目前游戏开放的地图主要包括冒险者渡口（即俗称的新手岛），海港区，市场区及菲奥兰家族（House
-Phiarlan）、德尼斯家族（House Deneith）、乔拉斯科家族（House
-Jorasco）和昆达拉克家族（House
-Kundarak）四个[龙纹家族](https://zh.wikipedia.org/wiki/龙纹 "wikilink")。此外，还有一些任务发生在上述地区附近的[岛屿或](https://zh.wikipedia.org/wiki/岛屿 "wikilink")[海湾等](https://zh.wikipedia.org/wiki/海湾 "wikilink")，如三桶湾、哀暮岛、陨梦岛等。
+龙与地下城Online基于龙与地下城规则3.5版，并稍做改动，游戏场景设定于[艾伯伦世界](https://zh.wikipedia.org/wiki/艾伯伦 "wikilink")（Eberron）的泽恩德瑞克大陆（Xen'drik ）北部的风暴湾附近。目前游戏开放的地图主要包括冒险者渡口（即俗称的新手岛），海港区，市场区及菲奥兰家族（House Phiarlan）、德尼斯家族（House Deneith）、乔拉斯科家族（House Jorasco）和昆达拉克家族（House Kundarak）四个[龙纹家族](https://zh.wikipedia.org/wiki/龙纹 "wikilink")。此外，还有一些任务发生在上述地区附近的[岛屿或](https://zh.wikipedia.org/wiki/岛屿 "wikilink")[海湾等](https://zh.wikipedia.org/wiki/海湾 "wikilink")，如三桶湾、哀暮岛、陨梦岛等。
 
 目前龙与地下城Online开放有6個種族、9種職業和6個陣營可供選擇
 
@@ -46,8 +40,7 @@ Kundarak）四个[龙纹家族](https://zh.wikipedia.org/wiki/龙纹 "wikilink")
 
 ## 玩法
 
-龙与地下城Online是一款具有明显动作要素的MMORPG，因此原来在桌面上由玩家自己掷[骰子改为了电脑自动投骰子来决定行动的效果](../Page/骰子.md "wikilink")，并且默认在游戏画面的右下角及战斗记录中显示结果。而地下城主的职责则是游戏预设，在适当的情况下以[文字或语音的形式加以提示](../Page/文字.md "wikilink")。在德里拉墓系列任务中，地下城主由龙与地下城的创始人[加里·吉盖克斯](https://zh.wikipedia.org/wiki/加里·吉盖克斯 "wikilink")（Gary
-Gygax）配音。
+龙与地下城Online是一款具有明显动作要素的MMORPG，因此原来在桌面上由玩家自己掷[骰子](../Page/骰子.md "wikilink")改为了电脑自动投骰子来决定行动的效果，并且默认在游戏画面的右下角及战斗记录中显示结果。而地下城主的职责则是游戏预设，在适当的情况下以[文字](../Page/文字.md "wikilink")或语音的形式加以提示。在德里拉墓系列任务中，地下城主由龙与地下城的创始人[加里·吉盖克斯](https://zh.wikipedia.org/wiki/加里·吉盖克斯 "wikilink")（Gary Gygax）配音。
 
 龙与地下城Online与很多常见的MMORPG相同，靠获得经验值来提升角色等级，但获得经验值的主要方式是完成副本任务，只有极少数的情况下可以靠打败怪物获得微量经验值。游戏注重团队合作，绝大多数任务都能组队进行，一个小队最多可以有六名成员，而个别大型任务副本则可以团队形式（raid）进行，一个团队人数上限为十二。
 
@@ -79,13 +72,6 @@ Gygax）配音。
   - [Dungeons & Dragons Online: Stormreach](http://www.ddo.com/)
   - [龙与地下城Online](http://www.ddo.com.cn/)
   - [艾伯伦碎片](http://www.ebecn.com/)
-  - [封神公會遊戲網 - 龍與地下城網路版(Dungeons & Dragons
-    Online)](http://fongshen.net/viewforum.php?f=99)
+  - [封神公會遊戲網 - 龍與地下城網路版(Dungeons & Dragons Online)](http://fongshen.net/viewforum.php?f=99)
 
-[Category:龙与地下城电子游戏](https://zh.wikipedia.org/wiki/Category:龙与地下城电子游戏 "wikilink")
-[Category:2006年电子游戏](https://zh.wikipedia.org/wiki/Category:2006年电子游戏 "wikilink")
-[Category:大型多人在线角色扮演游戏](https://zh.wikipedia.org/wiki/Category:大型多人在线角色扮演游戏 "wikilink")
-[Category:雅达利游戏](https://zh.wikipedia.org/wiki/Category:雅达利游戏 "wikilink")
-[Category:Codemasters遊戲](https://zh.wikipedia.org/wiki/Category:Codemasters遊戲 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:盛趣遊戲](https://zh.wikipedia.org/wiki/Category:盛趣遊戲 "wikilink")
+[Category:龙与地下城电子游戏](https://zh.wikipedia.org/wiki/Category:龙与地下城电子游戏 "wikilink") [Category:2006年电子游戏](https://zh.wikipedia.org/wiki/Category:2006年电子游戏 "wikilink") [Category:大型多人在线角色扮演游戏](https://zh.wikipedia.org/wiki/Category:大型多人在线角色扮演游戏 "wikilink") [Category:雅达利游戏](https://zh.wikipedia.org/wiki/Category:雅达利游戏 "wikilink") [Category:Codemasters遊戲](https://zh.wikipedia.org/wiki/Category:Codemasters遊戲 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:盛趣遊戲](https://zh.wikipedia.org/wiki/Category:盛趣遊戲 "wikilink")

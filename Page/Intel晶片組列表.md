@@ -1,14 +1,13 @@
-這是[英特爾](https://zh.wikipedia.org/wiki/英特爾 "wikilink")[公司推出的](../Page/公司.md "wikilink")[主機板](https://zh.wikipedia.org/wiki/主機板 "wikilink")[晶片組](https://zh.wikipedia.org/wiki/晶片組 "wikilink")[列表](https://zh.wikipedia.org/wiki/列表 "wikilink")，它包含四大類，分別是
+這是[英特爾](https://zh.wikipedia.org/wiki/英特爾 "wikilink")[公司](../Page/公司.md "wikilink")推出的[主機板](https://zh.wikipedia.org/wiki/主機板 "wikilink")[晶片組](https://zh.wikipedia.org/wiki/晶片組 "wikilink")[列表](https://zh.wikipedia.org/wiki/列表 "wikilink")，它包含四大類，分別是
 
   - 早期晶片組
   - 桌面與移動晶片組
-  - [伺服器與](https://zh.wikipedia.org/wiki/伺服器 "wikilink")[工作站晶片組](../Page/工作站.md "wikilink")
+  - [伺服器與](https://zh.wikipedia.org/wiki/伺服器 "wikilink")[工作站](../Page/工作站.md "wikilink")晶片組
   - [嵌入式晶片組](https://zh.wikipedia.org/wiki/嵌入式 "wikilink")
 
 ## 早期晶片組
 
-[英特爾授權](https://zh.wikipedia.org/wiki/英特爾 "wikilink")[ZyMOS推出的POACH系列晶片組來搭配](https://zh.wikipedia.org/wiki/ZyMOS "wikilink")[80286與](https://zh.wikipedia.org/wiki/80286 "wikilink")[Intel
-80386SX處理器](../Page/Intel_80386.md "wikilink")。
+[英特爾授權](https://zh.wikipedia.org/wiki/英特爾 "wikilink")[ZyMOS推出的POACH系列晶片組來搭配](https://zh.wikipedia.org/wiki/ZyMOS "wikilink")[80286與](https://zh.wikipedia.org/wiki/80286 "wikilink")[Intel 80386SX處理器](../Page/Intel_80386.md "wikilink")。
 
 [英特爾早期晶片組資料](https://zh.wikipedia.org/wiki/英特爾 "wikilink"):\[1\]
 
@@ -18,8 +17,7 @@
   - 82340SX PC AT
   - 82340DX PC AT
   - 82320 MCA
-  - 82360SL
-    用來搭配移動版[80386SL與](https://zh.wikipedia.org/wiki/80386SL "wikilink")[80486SL處理器](https://zh.wikipedia.org/wiki/80486SL "wikilink")。
+  - 82360SL 用來搭配移動版[80386SL與](https://zh.wikipedia.org/wiki/80386SL "wikilink")[80486SL處理器](https://zh.wikipedia.org/wiki/80486SL "wikilink")。
 
 ## 桌面與移動晶片組
 
@@ -52,7 +50,7 @@
 <th><p>奇偶校驗/錯誤檢查</p></th>
 <th><p>二級快取類型</p></th>
 <th><p>PCI支援</p></th>
-<th><p><a href="../Page/AGP.md" title="wikilink">AGP支援</a></p></th>
+<th><p><a href="../Page/AGP.md" title="wikilink">AGP</a>支援</p></th>
 </tr>
 </thead>
 <tbody>
@@ -370,8 +368,8 @@
 <tr class="header">
 <th><p>晶片組</p></th>
 <th><p>型號</p></th>
-<th><p><a href="../Page/ATA.md" title="wikilink">ATA支援</a></p></th>
-<th><p><a href="../Page/USB.md" title="wikilink">USB支援</a></p></th>
+<th><p><a href="../Page/ATA.md" title="wikilink">ATA</a>支援</p></th>
+<th><p><a href="../Page/USB.md" title="wikilink">USB</a>支援</p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/CMOS" title="wikilink">CMOS</a>/時鐘</p></th>
 <th><p>ISA支援</p></th>
 <th><p><a href="../Page/LPC匯流排.md" title="wikilink">LPC支援</a></p></th>
@@ -1085,20 +1083,15 @@
 摘要：
 
   - 875P (Canterwood)
-      - 規格與E7205基本相同,
-        但它支援800 MHz前端匯流排，支援[雙通道DDR](https://zh.wikipedia.org/wiki/雙通道 "wikilink")
-        400 ECC或Non-ECC記憶體以及CSA，SATA RAID與PAT技術
-      - 支援[Socket
-        640接口的Xeon處理器](https://zh.wikipedia.org/wiki/Socket_640 "wikilink")
+      - 規格與E7205基本相同, 但它支援800 MHz前端匯流排，支援[雙通道DDR](https://zh.wikipedia.org/wiki/雙通道 "wikilink") 400 ECC或Non-ECC記憶體以及CSA，SATA RAID與PAT技術
+      - 支援[Socket 640接口的Xeon處理器](https://zh.wikipedia.org/wiki/Socket_640 "wikilink")
   - 865PE (Springdale)
-      - 與875P相比，取消了PAT技術，只支援雙通道DDR 400 Non-ECC記憶體，後期支援Core 2
-        800MHz外頻的處理器，算是生命週期很長的晶片組。
+      - 與875P相比，取消了PAT技術，只支援雙通道DDR 400 Non-ECC記憶體，後期支援Core 2 800MHz外頻的處理器，算是生命週期很長的晶片組。
       - 簡化版：
           - 865P - 規格與865PE基本相同，但只支援533 MHz前端匯流排與雙通道DDR 333記憶體
           - 848P - 規格與865PE基本相同，但不支援雙通道記憶體
   - 865G (Springdale-G)
-      - 與865PE相比內部整合了[Extreme Graphics
-        2顯示核心](https://zh.wikipedia.org/wiki/Intel_Extreme_Graphics "wikilink")
+      - 與865PE相比內部整合了[Extreme Graphics 2顯示核心](https://zh.wikipedia.org/wiki/Intel_Extreme_Graphics "wikilink")
       - 簡化版：
           - 865GL - 規格與865G基本相同，但不提供AGP插槽
 
@@ -1296,7 +1289,7 @@
 <th><p>型號</p></th>
 <th><p><a href="../Page/ATA.md" title="wikilink">ATA</a></p></th>
 <th><p><a href="../Page/SATA.md" title="wikilink">SATA</a></p></th>
-<th><p><a href="../Page/RAID.md" title="wikilink">RAID等級</a></p></th>
+<th><p><a href="../Page/RAID.md" title="wikilink">RAID</a>等級</p></th>
 <th><p><a href="../Page/USB.md" title="wikilink">USB</a></p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/PCI" title="wikilink">PCI</a></p></th>
 </tr>
@@ -1629,35 +1622,27 @@
 摘要：
 
   - 915P (Grantsdale)
-      - 支援800 MHz的前端匯流排。支援最大4GB的雙通道DDR 400或DDR2 533記憶體。最多可提供一個PCI-E 1.0
-        X16插槽與四個PCI-E 1.0 X1插槽。可與其搭配ICH6R南橋來支援混合RAID
+      - 支援800 MHz的前端匯流排。支援最大4GB的雙通道DDR 400或DDR2 533記憶體。最多可提供一個PCI-E 1.0 X16插槽與四個PCI-E 1.0 X1插槽。可與其搭配ICH6R南橋來支援混合RAID
       - 簡化版：
           - 915PL - 與915P規格基本相同，但只支援最大2GB的雙通道DDR 400記憶體
   - 915G (Grantsdale-G)
       - 與915P相比內部整合了[GMA900顯示核心](../Page/Intel_GMA.md "wikilink")
       - 簡化版：
-          - 915GL -
-            與915PL規格基本相同，內部整合了[GMA900顯示核心](../Page/Intel_GMA.md "wikilink")，只支援最大4GB的雙通道DDR
-            400記憶體，不提供PCI-E X16插槽
+          - 915GL - 與915PL規格基本相同，內部整合了[GMA900顯示核心](../Page/Intel_GMA.md "wikilink")，只支援最大4GB的雙通道DDR 400記憶體，不提供PCI-E X16插槽
           - 915GV - 與915GL規格基本相同，只支援最大2GB的雙通道DDR 400記憶體，不提供PCI-E X16插槽
           - 910GL - 與915GV規格基本相同，但只支援533 MHz的前端匯流排
   - 925XE (Alderwood)
-      - 上一代875P的後續品，與915P規格基本相同，支援1066 MHz前端匯流排，強制支援雙通道DDR2 400/533
-        ECC或Non-ECC記憶體而不能使用DDR 400記憶體
+      - 上一代875P的後續品，與915P規格基本相同，支援1066 MHz前端匯流排，強制支援雙通道DDR2 400/533 ECC或Non-ECC記憶體而不能使用DDR 400記憶體
       - 簡化版：
           - 925X - 與925XE規格基本相同，只支援800 MHz前端匯流排
   - 945P (Lakeport)
-      - 上一代915P的替代品，原生支援雙核心處理器，支援1066 MHz前端匯流排，最大4GB的雙通道DDR2
-        533/667記憶體，可與其搭配ICH7R系列南橋支援SATA 3.0
-        Gbit/s與RAID5等級。晚期支援部份Core 2系列的CPU。
+      - 上一代915P的替代品，原生支援雙核心處理器，支援1066 MHz前端匯流排，最大4GB的雙通道DDR2 533/667記憶體，可與其搭配ICH7R系列南橋支援SATA 3.0 Gbit/s與RAID5等級。晚期支援部份Core 2系列的CPU。
       - 簡化版：
           - 945PL -與945P規格基本相同，只支援800 MHz前端匯流排，最大2GB記憶體
   - 945G (Lakeport-G)
       - 與945P相比內部整合了[GMA950顯示核心](../Page/Intel_GMA.md "wikilink")
       - 簡化版：
-          - 945GZ -
-            與945PL規格基本相同，內部整合了[GMA950顯示核心](../Page/Intel_GMA.md "wikilink")，不提供PCI-E
-            X16插槽
+          - 945GZ - 與945PL規格基本相同，內部整合了[GMA950顯示核心](../Page/Intel_GMA.md "wikilink")，不提供PCI-E X16插槽
   - 955X (Glenwood)
       - 上一代925XE的替代品，與945P規格基本相同，支援最大8GB的DDR2 533/667 ECC或Non-ECC記憶體
 
@@ -1768,9 +1753,7 @@
 
 #### [Core 2晶片組](https://zh.wikipedia.org/wiki/Intel_Core_2 "wikilink")
 
-以下所列晶片組全部支援Pentium
-Dual-Core以及[Core微架構的Celeron處理器](https://zh.wikipedia.org/wiki/Intel_Core微處理器架構 "wikilink")，支援部分[LGA
-775接口的](../Page/LGA_775.md "wikilink")[NetBurst架構處理器](https://zh.wikipedia.org/wiki/NetBurst "wikilink")\[9\]\[10\]。
+以下所列晶片組全部支援Pentium Dual-Core以及[Core微架構的Celeron處理器](https://zh.wikipedia.org/wiki/Intel_Core微處理器架構 "wikilink")，支援部分[LGA 775接口的](../Page/LGA_775.md "wikilink")[NetBurst架構處理器](https://zh.wikipedia.org/wiki/NetBurst "wikilink")\[9\]\[10\]。
 
 <table>
 <thead>
@@ -2304,68 +2287,37 @@ DDR2 667/800[19]</p></td>
 摘要：
 
   - 975X (Glenwood)
-      - 上一代955X的替代品，支援65奈米處理器，後期通過更改供電電路來支援[Core
-        2處理器](https://zh.wikipedia.org/wiki/Core_2 "wikilink")。提供兩個PCI-E
-        X16插槽，採用X8+X8的方式來支援[ATi的](https://zh.wikipedia.org/wiki/ATi "wikilink")[CrossFire雙顯卡互聯技術](https://zh.wikipedia.org/wiki/CrossFire "wikilink")，支援最大8GB的雙通道DDR2
-        667 ECC或Non-ECC記憶體
+      - 上一代955X的替代品，支援65奈米處理器，後期通過更改供電電路來支援[Core 2處理器](https://zh.wikipedia.org/wiki/Core_2 "wikilink")。提供兩個PCI-E X16插槽，採用X8+X8的方式來支援[ATi的](https://zh.wikipedia.org/wiki/ATi "wikilink")[CrossFire雙顯卡互聯技術](https://zh.wikipedia.org/wiki/CrossFire "wikilink")，支援最大8GB的雙通道DDR2 667 ECC或Non-ECC記憶體
   - P965 (Broadwater)
-      - 上一代945P的後續品，規格與975X基本相同，原生支援65奈米的[Core
-        2處理器](https://zh.wikipedia.org/wiki/Core_2 "wikilink")，後期通過更改供電電路來支援45奈米[Core
-        2處理器](https://zh.wikipedia.org/wiki/Core_2 "wikilink")，支援最大8GB的雙通道DDR2
-        667/800 Non-ECC。記憶體搭配ICH8系列南橋
+      - 上一代945P的後續品，規格與975X基本相同，原生支援65奈米的[Core 2處理器](https://zh.wikipedia.org/wiki/Core_2 "wikilink")，後期通過更改供電電路來支援45奈米[Core 2處理器](https://zh.wikipedia.org/wiki/Core_2 "wikilink")，支援最大8GB的雙通道DDR2 667/800 Non-ECC。記憶體搭配ICH8系列南橋
   - G965 (BroadwaterG)
       - 與P965相比內部整合了[GMA X3000顯示核心](../Page/Intel_GMA.md "wikilink")
   - Q965 (Broadwater)
-      - 定位於商用辦公平臺，規格與G965基本相同，支援[vPro技術](https://zh.wikipedia.org/wiki/博銳 "wikilink"),
-        支援[ADD2轉接顯示卡](https://zh.wikipedia.org/wiki/ADD2 "wikilink")。
+      - 定位於商用辦公平臺，規格與G965基本相同，支援[vPro技術](https://zh.wikipedia.org/wiki/博銳 "wikilink"), 支援[ADD2轉接顯示卡](https://zh.wikipedia.org/wiki/ADD2 "wikilink")。
       - 簡化版：
-          - Q963 -
-            規格與Q965基本相同，但不支援[ADD2轉接顯示卡](https://zh.wikipedia.org/wiki/ADD2 "wikilink")。
+          - Q963 - 規格與Q965基本相同，但不支援[ADD2轉接顯示卡](https://zh.wikipedia.org/wiki/ADD2 "wikilink")。
   - P35 (Bearlake)
-      - 上一代P965的後續品，原生支援65nm、1333 MHz前端匯流排[Core
-        2處理器](https://zh.wikipedia.org/wiki/Core_2 "wikilink")，後期也支援45nm[Core
-        2處理器](https://zh.wikipedia.org/wiki/Core_2 "wikilink")。支援最大8GB的雙通道DDR2(實際支援到16GB決定於主機板)
-        533/667/800或DDR3(8G) 800/1066記憶體。搭配ICH9系列南橋
+      - 上一代P965的後續品，原生支援65nm、1333 MHz前端匯流排[Core 2處理器](https://zh.wikipedia.org/wiki/Core_2 "wikilink")，後期也支援45nm[Core 2處理器](https://zh.wikipedia.org/wiki/Core_2 "wikilink")。支援最大8GB的雙通道DDR2(實際支援到16GB決定於主機板) 533/667/800或DDR3(8G) 800/1066記憶體。搭配ICH9系列南橋
       - 簡化版：
-          - P31 - 規格與P35基本相同，但記憶體只支援到最大4GB的雙通道DDR2
-            533/667/800，只搭配ICH7南橋。
+          - P31 - 規格與P35基本相同，但記憶體只支援到最大4GB的雙通道DDR2 533/667/800，只搭配ICH7南橋。
   - G35 Broadwater(GC) Refresh
-      - 上一代G965的後續品，整合了支援[DirectX](../Page/DirectX.md "wikilink")10的[GMA
-        X3500顯示核心](../Page/Intel_GMA.md "wikilink")，支援最大8GB的雙通道DDR2
-        533/667/800記憶體
+      - 上一代G965的後續品，整合了支援[DirectX](../Page/DirectX.md "wikilink")10的[GMA X3500顯示核心](../Page/Intel_GMA.md "wikilink")，支援最大8GB的雙通道DDR2 533/667/800記憶體
       - 簡化版：
-          - G33 Bearlake (G+) - 規格與G35基本相同，整合了[GMA
-            X3500的簡化版](../Page/Intel_GMA.md "wikilink")[GMA
-            X3100顯示核心](../Page/Intel_GMA.md "wikilink")
-          - G31 Bearlake (G) - 規格與G33基本相同，整合了[GMA
-            X3500的簡化版](../Page/Intel_GMA.md "wikilink")[GMA
-            X3100顯示核心](../Page/Intel_GMA.md "wikilink")，只支援最大4GB的雙通道DDR2
-            533/667/800記憶體，南橋只能搭配ICH7系列
+          - G33 Bearlake (G+) - 規格與G35基本相同，整合了[GMA X3500的簡化版](../Page/Intel_GMA.md "wikilink")[GMA X3100顯示核心](../Page/Intel_GMA.md "wikilink")
+          - G31 Bearlake (G) - 規格與G33基本相同，整合了[GMA X3500的簡化版](../Page/Intel_GMA.md "wikilink")[GMA X3100顯示核心](../Page/Intel_GMA.md "wikilink")，只支援最大4GB的雙通道DDR2 533/667/800記憶體，南橋只能搭配ICH7系列
   - X38 Bearlake (X)
-      - 上一代975X的後續品，規格與975X基本相同，支援65nm、1333 MHz前端匯流排[Core
-        2處理器](https://zh.wikipedia.org/wiki/Core_2 "wikilink")。支援最大8GB的雙通道DDR2
-        533/667/800 ECC或Non-ECC記憶體，或DDR3 800/1066 Non-ECC記憶體
+      - 上一代975X的後續品，規格與975X基本相同，支援65nm、1333 MHz前端匯流排[Core 2處理器](https://zh.wikipedia.org/wiki/Core_2 "wikilink")。支援最大8GB的雙通道DDR2 533/667/800 ECC或Non-ECC記憶體，或DDR3 800/1066 Non-ECC記憶體
   - X48 Eaglelake (X)
-      - 上一代X38的後續品，規格與X38基本相同，原生支援1600
-        MHz前端匯流排並支援PCIE2.0。支援最大16GB的雙通道DDR2
-        533/667/800/1066 ECC或Non-ECC記憶體，或DDR3 800/1066/1333
-        Non-ECC記憶體。搭配ICH10系列南橋。
+      - 上一代X38的後續品，規格與X38基本相同，原生支援1600 MHz前端匯流排並支援PCIE2.0。支援最大16GB的雙通道DDR2 533/667/800/1066 ECC或Non-ECC記憶體，或DDR3 800/1066/1333 Non-ECC記憶體。搭配ICH10系列南橋。
   - P45 Eaglelake (P+)
-      - 上一代P35的後續品，規格與P35基本相同，原生支援45nm、1600 MHz前端匯流排[Core
-        2並支援PCIE](https://zh.wikipedia.org/wiki/Core_2 "wikilink")2.0。支援雙通道DDR2(16GB)
-        533/667/800/1066或DDR3(8GB) 800/1066/1333記憶體。搭配ICH10系列南橋。
+      - 上一代P35的後續品，規格與P35基本相同，原生支援45nm、1600 MHz前端匯流排[Core 2並支援PCIE](https://zh.wikipedia.org/wiki/Core_2 "wikilink")2.0。支援雙通道DDR2(16GB) 533/667/800/1066或DDR3(8GB) 800/1066/1333記憶體。搭配ICH10系列南橋。
       - 簡化版：
-          - P43 Eaglelake (P) -
-            規格與P45基本相同，但不支援組建[ATi的](https://zh.wikipedia.org/wiki/ATi "wikilink")[CrossFire](https://zh.wikipedia.org/wiki/CrossFire "wikilink")，只支援最大8GB的雙通道DDR2
-            533/667/800或DDR3 800/1066記憶體
+          - P43 Eaglelake (P) - 規格與P45基本相同，但不支援組建[ATi的](https://zh.wikipedia.org/wiki/ATi "wikilink")[CrossFire](https://zh.wikipedia.org/wiki/CrossFire "wikilink")，只支援最大8GB的雙通道DDR2 533/667/800或DDR3 800/1066記憶體
   - G45 Eaglelake (G+)
-      - 上一代G35的後續品，規格與P45基本相同，但整合了[GMA
-        X4500HD顯示核心](../Page/Intel_GMA.md "wikilink")
+      - 上一代G35的後續品，規格與P45基本相同，但整合了[GMA X4500HD顯示核心](../Page/Intel_GMA.md "wikilink")
       - 簡化版：
-          - G43 Bearlake (G+) - 規格與G45基本相同，整合了[GMA
-            X4500顯示核心](../Page/Intel_GMA.md "wikilink")
-          - G41 Bearlake (G) - 規格與G43基本相同，只支援雙通道DDR2(8G)
-            533/667/800或DDR3(4G) 800/1066記憶體，南橋只能搭配ICH7系列
+          - G43 Bearlake (G+) - 規格與G45基本相同，整合了[GMA X4500顯示核心](../Page/Intel_GMA.md "wikilink")
+          - G41 Bearlake (G) - 規格與G43基本相同，只支援雙通道DDR2(8G) 533/667/800或DDR3(4G) 800/1066記憶體，南橋只能搭配ICH7系列
 
 #### [Core 2移動晶片組](https://zh.wikipedia.org/wiki/Intel_Core_2 "wikilink")
 
@@ -2388,7 +2340,7 @@ DDR2 667/800[19]</p></td>
 <th><p>型號</p></th>
 <th><p><a href="../Page/ATA.md" title="wikilink">ATA</a></p></th>
 <th><p><a href="../Page/SATA.md" title="wikilink">SATA</a></p></th>
-<th><p><a href="../Page/RAID.md" title="wikilink">RAID等級</a></p></th>
+<th><p><a href="../Page/RAID.md" title="wikilink">RAID</a>等級</p></th>
 <th><p><a href="../Page/USB.md" title="wikilink">USB</a></p></th>
 </tr>
 </thead>
@@ -2620,8 +2572,7 @@ DDR2 667/800[19]</p></td>
 </tbody>
 </table>
 
-ICH6-ICH8基础版本均只支援IDE模式，不支援AHCI模式，不能使用NCQ，热插拔等。 ICH9可由BIOS軟體控制AHCI、NCQ。
-ICH10原生支援AHCI、NCQ。 ICH8之後不再支援原生的IDE ATA 接口。
+ICH6-ICH8基础版本均只支援IDE模式，不支援AHCI模式，不能使用NCQ，热插拔等。 ICH9可由BIOS軟體控制AHCI、NCQ。 ICH10原生支援AHCI、NCQ。 ICH8之後不再支援原生的IDE ATA 接口。
 
 ## 5/6/7/8/9系列晶片組
 
@@ -2730,23 +2681,14 @@ SLH24 (B3)</p></td>
 摘要：
 
   - P55 (Ibex Peak)
-      - 上一代P45的替代品，支援[LGA
-        1156接口的](../Page/LGA_1156.md "wikilink")[Nehalem處理器](https://zh.wikipedia.org/wiki/Nehalem "wikilink")，由於處理器已整合過去[北橋中的所有功能](https://zh.wikipedia.org/wiki/北橋 "wikilink")，如記憶體控制器與PCI-E控制器（Lynnfield處理器）甚至顯示核心（Clarkdale處理器），傳統意義上的北橋已不存在，所以改為單晶片設計，被稱為[PCH](https://zh.wikipedia.org/wiki/Platform_Controller_Hub "wikilink")，功能相當於過去的[南橋](https://zh.wikipedia.org/wiki/南橋 "wikilink")。類似的PCH不存在需要高連接的設備，所以仍通過[DMI介面來連接到處理器中的原北橋部分](https://zh.wikipedia.org/wiki/DMI "wikilink")，速度為2.5
-        GT/s。同時支援[ATi的](https://zh.wikipedia.org/wiki/ATi "wikilink")[CrossFire和](https://zh.wikipedia.org/wiki/CrossFire "wikilink")[nVIDIA的](https://zh.wikipedia.org/wiki/nVIDIA "wikilink")[SLI](https://zh.wikipedia.org/wiki/SLI "wikilink")，支援最大16GB的雙通道DDR3
-        800/1066/1333記憶體。提供8條PCI-E 2.0通道（不包括處理器內PCI-E控制器所提供的16條PCI-E
-        2.0通道），6個SATA接口（支援Frame Information Structure\[21\]），14個USB接口。
+      - 上一代P45的替代品，支援[LGA 1156接口的](../Page/LGA_1156.md "wikilink")[Nehalem處理器](https://zh.wikipedia.org/wiki/Nehalem "wikilink")，由於處理器已整合過去[北橋中的所有功能](https://zh.wikipedia.org/wiki/北橋 "wikilink")，如記憶體控制器與PCI-E控制器（Lynnfield處理器）甚至顯示核心（Clarkdale處理器），傳統意義上的北橋已不存在，所以改為單晶片設計，被稱為[PCH](https://zh.wikipedia.org/wiki/Platform_Controller_Hub "wikilink")，功能相當於過去的[南橋](https://zh.wikipedia.org/wiki/南橋 "wikilink")。類似的PCH不存在需要高連接的設備，所以仍通過[DMI介面來連接到處理器中的原北橋部分](https://zh.wikipedia.org/wiki/DMI "wikilink")，速度為2.5 GT/s。同時支援[ATi的](https://zh.wikipedia.org/wiki/ATi "wikilink")[CrossFire和](https://zh.wikipedia.org/wiki/CrossFire "wikilink")[nVIDIA的](https://zh.wikipedia.org/wiki/nVIDIA "wikilink")[SLI](https://zh.wikipedia.org/wiki/SLI "wikilink")，支援最大16GB的雙通道DDR3 800/1066/1333記憶體。提供8條PCI-E 2.0通道（不包括處理器內PCI-E控制器所提供的16條PCI-E 2.0通道），6個SATA接口（支援Frame Information Structure\[21\]），14個USB接口。
       - 加強版：
   - H55 (Ibex Peak)
-      - 規格與P55基本相同，支援Identity Protection Technology與Flexible Display
-        Interface技術，可以使用Clarkdale處理器中的集成顯示核心。但只提供6條PCI-E
-        2.0通道，6個SATA接口（支援Frame Information
-        Structure），12個USB接口。
+      - 規格與P55基本相同，支援Identity Protection Technology與Flexible Display Interface技術，可以使用Clarkdale處理器中的集成顯示核心。但只提供6條PCI-E 2.0通道，6個SATA接口（支援Frame Information Structure），12個USB接口。
       - 加強版：
-          - H57 (Ibex Peak) - 規格與P57基本相同，支援Identity Protection
-            Technology，Flexible Display InterfaceBraidwood技術。
+          - H57 (Ibex Peak) - 規格與P57基本相同，支援Identity Protection Technology，Flexible Display InterfaceBraidwood技術。
   - Q57 (Ibex Peak)
-      - 上一代Q45的替代品，規格與H57基本相同，支援Flexible Display
-        Interface與Braidwood技術，並支援商用的Intel主动管理技术（AMT）6.0。
+      - 上一代Q45的替代品，規格與H57基本相同，支援Flexible Display Interface與Braidwood技術，並支援商用的Intel主动管理技术（AMT）6.0。
 
 #### LGA 1155
 
@@ -3266,10 +3208,7 @@ SLH24 (B3)</p></td>
 摘要：
 
   - X58 (Tylersburg)
-      - 上一代X48的替代品，支援[LGA
-        1366接口的](https://zh.wikipedia.org/wiki/LGA_1366 "wikilink")[Nehalem與](https://zh.wikipedia.org/wiki/Nehalem "wikilink")[Westmere處理器](https://zh.wikipedia.org/wiki/Westmere "wikilink")，由於處理器已整合傳統北橋中的記憶體控制器，所以原來的北橋MCH更名為IOH，不同於P5x系列，由於PCI-E控制器未被整合，所以通過全新設計的一條高速[QPI介面來連接處理器中的記憶體控制器](https://zh.wikipedia.org/wiki/QPI "wikilink")，支援的最高速度為6.4
-        GT/s。與其搭配的仍為[ICH10南橋](https://zh.wikipedia.org/wiki/I/O路径控制器 "wikilink")，IOH仍通過[DMI介面來連接南橋](https://zh.wikipedia.org/wiki/DMI "wikilink")。同時支援[ATi的](https://zh.wikipedia.org/wiki/ATi "wikilink")[CrossFire和](https://zh.wikipedia.org/wiki/CrossFire "wikilink")[nVIDIA的](https://zh.wikipedia.org/wiki/nVIDIA "wikilink")[SLI](https://zh.wikipedia.org/wiki/SLI "wikilink")，支援最大24GB的[三通道DDR](https://zh.wikipedia.org/wiki/三通道 "wikilink")3
-        800/1066記憶體
+      - 上一代X48的替代品，支援[LGA 1366接口的](https://zh.wikipedia.org/wiki/LGA_1366 "wikilink")[Nehalem與](https://zh.wikipedia.org/wiki/Nehalem "wikilink")[Westmere處理器](https://zh.wikipedia.org/wiki/Westmere "wikilink")，由於處理器已整合傳統北橋中的記憶體控制器，所以原來的北橋MCH更名為IOH，不同於P5x系列，由於PCI-E控制器未被整合，所以通過全新設計的一條高速[QPI介面來連接處理器中的記憶體控制器](https://zh.wikipedia.org/wiki/QPI "wikilink")，支援的最高速度為6.4 GT/s。與其搭配的仍為[ICH10南橋](https://zh.wikipedia.org/wiki/I/O路径控制器 "wikilink")，IOH仍通過[DMI介面來連接南橋](https://zh.wikipedia.org/wiki/DMI "wikilink")。同時支援[ATi的](https://zh.wikipedia.org/wiki/ATi "wikilink")[CrossFire和](https://zh.wikipedia.org/wiki/CrossFire "wikilink")[nVIDIA的](https://zh.wikipedia.org/wiki/nVIDIA "wikilink")[SLI](https://zh.wikipedia.org/wiki/SLI "wikilink")，支援最大24GB的[三通道DDR](https://zh.wikipedia.org/wiki/三通道 "wikilink")3 800/1066記憶體
 
 #### 移動晶片組
 
@@ -4281,63 +4220,41 @@ SLH24 (B3)</p></td>
 
 1.
 
-2.  [Intel 430LX
-    ("Mercury")](http://www.pcguide.com/ref/mbsys/chip/pop/g5iI430LX-c.html),
-    PC Guide, accessed August 20, 2007.
+2.  [Intel 430LX ("Mercury")](http://www.pcguide.com/ref/mbsys/chip/pop/g5iI430LX-c.html), PC Guide, accessed August 20, 2007.
 
-3.  [Intel 430NX
-    ("Neptune")](http://www.pcguide.com/ref/mbsys/chip/pop/g5iI430NX-c.html),
-    PC Guide, accessed August 20, 2007.
+3.  [Intel 430NX ("Neptune")](http://www.pcguide.com/ref/mbsys/chip/pop/g5iI430NX-c.html), PC Guide, accessed August 20, 2007.
 
-4.  [Intel 430FX
-    ("Triton")](http://www.pcguide.com/ref/mbsys/chip/pop/g5iI430FX-c.html),
-    PC Guide, accessed August 20, 2007.
+4.  [Intel 430FX ("Triton")](http://www.pcguide.com/ref/mbsys/chip/pop/g5iI430FX-c.html), PC Guide, accessed August 20, 2007.
 
-5.  [Summary of P5
-    chipsets](http://groups.google.com/group/comp.sys.intel/msg/0a0cd1fe2b61a6ff),
-    comp.sys.intel, September 1996.
+5.  [Summary of P5 chipsets](http://groups.google.com/group/comp.sys.intel/msg/0a0cd1fe2b61a6ff), comp.sys.intel, September 1996.
 
-6.  [Intel 430HX ("Triton
-    II")](http://www.pcguide.com/ref/mbsys/chip/pop/g5iI430HX-c.html),
-    PC Guide, accessed August 20, 2007.
+6.  [Intel 430HX ("Triton II")](http://www.pcguide.com/ref/mbsys/chip/pop/g5iI430HX-c.html), PC Guide, accessed August 20, 2007.
 
 7.
-8.  [Intel 430TX](http://www.pcguide.com/ref/mbsys/chip/pop/g5iI430TX-c.html),
-    PC Guide, accessed August 20, 2007.
+8.  [Intel 430TX](http://www.pcguide.com/ref/mbsys/chip/pop/g5iI430TX-c.html), PC Guide, accessed August 20, 2007.
 
 9.  [1](http://www.tomshardware.com/reviews/intel-intros-3-series-chipsets-FSB1333-ddr3,1607-3.html)
 
 10.
 
-11. <http://www.intel.com/products/chipsets/975x/index.htm> Intel 975X
-    Express Chipset Overview
+11. <http://www.intel.com/products/chipsets/975x/index.htm> Intel 975X Express Chipset Overview
 
-12. [Intel G35 Express Chipset
-    Overview](http://www.intel.com/products/chipsets/G35/index.htm)
+12. [Intel G35 Express Chipset Overview](http://www.intel.com/products/chipsets/G35/index.htm)
 
-13. [Intel said to have cut G35 chipset features - The Tech
-    Report](http://techreport.com/discussions.x/11720)
+13. [Intel said to have cut G35 chipset features - The Tech Report](http://techreport.com/discussions.x/11720)
 
-14. Pancescu, Alexandru. [Intel's X38 Express Chipset Is
-    Ready](http://news.softpedia.com/news/Intel-039-s-X38-Express-Chipset-Is-Ready-62908.shtml),
-    Softpedia News, August 16, 2007.
+14. Pancescu, Alexandru. [Intel's X38 Express Chipset Is Ready](http://news.softpedia.com/news/Intel-039-s-X38-Express-Chipset-Is-Ready-62908.shtml), Softpedia News, August 16, 2007.
 
-15. <http://www.intel.com/products/chipsets/x38/index.htm> Intel X38
-    Express Chipset Overview
+15. <http://www.intel.com/products/chipsets/x38/index.htm> Intel X38 Express Chipset Overview
 
-16. <http://www.intel.com/products/desktop/chipsets/g45/g45-overview.htm>
-    Intel G45 Express Chipset
+16. <http://www.intel.com/products/desktop/chipsets/g45/g45-overview.htm> Intel G45 Express Chipset
 
-17. <http://www.intel.com/Products/Desktop/Motherboards/DB43LD/DB43LD-overview.htm>
-    Intel Desktop Board DB43LD
+17. <http://www.intel.com/Products/Desktop/Motherboards/DB43LD/DB43LD-overview.htm> Intel Desktop Board DB43LD
 
-18. <http://www.intel.com/Products/Desktop/Chipsets/Q43/Q43-overview.htm>
-    Intel Q43 Express Chipset
+18. <http://www.intel.com/Products/Desktop/Chipsets/Q43/Q43-overview.htm> Intel Q43 Express Chipset
 
-19. <http://www.intel.com/products/desktop/chipsets/q45/q45-overview.htm>
-    Intel Q45 Express Chipset
+19. <http://www.intel.com/products/desktop/chipsets/q45/q45-overview.htm> Intel Q45 Express Chipset
 
-20. <http://www.intel.com/products/desktop/chipsets/q45/q45-overview.htm>
-    Intel Q45 Express Chipset
+20. <http://www.intel.com/products/desktop/chipsets/q45/q45-overview.htm> Intel Q45 Express Chipset
 
 21.  SATA-IO: Port Multipliers

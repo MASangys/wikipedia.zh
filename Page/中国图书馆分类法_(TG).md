@@ -1,12 +1,10 @@
-  - TG
-    [金属学与](https://zh.wikipedia.org/wiki/金属学 "wikilink")[金属工艺](https://zh.wikipedia.org/wiki/金属工艺 "wikilink")
+  - TG [金属学与](https://zh.wikipedia.org/wiki/金属学 "wikilink")[金属工艺](https://zh.wikipedia.org/wiki/金属工艺 "wikilink")
 
 :\*TG1 [金属学与热处理](https://zh.wikipedia.org/wiki/金属学 "wikilink")
 
 ::\*TG11 [金属学](https://zh.wikipedia.org/wiki/金属学 "wikilink")
 
-::\*TG13
-[合金学与各种性质](https://zh.wikipedia.org/wiki/合金学 "wikilink")[合金](../Page/合金.md "wikilink")
+::\*TG13 [合金学与各种性质](https://zh.wikipedia.org/wiki/合金学 "wikilink")[合金](../Page/合金.md "wikilink")
 
 ::\*TG14 [金属材料](https://zh.wikipedia.org/wiki/金属材料 "wikilink")
 
@@ -50,8 +48,7 @@
 
 ::\*TG39 高能成型
 
-:\*TG4
-[焊接](../Page/焊接.md "wikilink")、[金属切割及](https://zh.wikipedia.org/wiki/金属切割 "wikilink")[金属粘接](https://zh.wikipedia.org/wiki/金属粘接 "wikilink")
+:\*TG4 [焊接](../Page/焊接.md "wikilink")、[金属切割及](https://zh.wikipedia.org/wiki/金属切割 "wikilink")[金属粘接](https://zh.wikipedia.org/wiki/金属粘接 "wikilink")
 
 ::\*TG42 焊接材料
 
@@ -65,8 +62,7 @@
 
 ::\*TG49 粘接、胶接
 
-:\*TG5
-[金属切削加工及](https://zh.wikipedia.org/wiki/金属切削加工 "wikilink")[机床](https://zh.wikipedia.org/wiki/机床 "wikilink")
+:\*TG5 [金属切削加工及](https://zh.wikipedia.org/wiki/金属切削加工 "wikilink")[机床](https://zh.wikipedia.org/wiki/机床 "wikilink")
 
 ::\*TG51 车削加工及车床（旋床）
 
@@ -84,8 +80,7 @@
 
 ::\*TG58 磨削加工与磨床
 
-::\*TG61
-[齿轮加工及](https://zh.wikipedia.org/wiki/齿轮加工 "wikilink")[齿轮机床](https://zh.wikipedia.org/wiki/齿轮机床 "wikilink")
+::\*TG61 [齿轮加工及](https://zh.wikipedia.org/wiki/齿轮加工 "wikilink")[齿轮机床](https://zh.wikipedia.org/wiki/齿轮机床 "wikilink")
 
 ::\*TG62 螺纹加工及螺纹加工机床
 
@@ -101,8 +96,7 @@
 
 ::\*TG68 机床加工生产自动化
 
-:\*TG7
-[刀具](https://zh.wikipedia.org/wiki/刀具 "wikilink")、[磨料](https://zh.wikipedia.org/wiki/磨料 "wikilink")、[磨具](https://zh.wikipedia.org/wiki/磨具 "wikilink")、[夹具](https://zh.wikipedia.org/wiki/夹具 "wikilink")、[模具和](https://zh.wikipedia.org/wiki/模具 "wikilink")[手工具](https://zh.wikipedia.org/wiki/手工具 "wikilink")
+:\*TG7 [刀具](https://zh.wikipedia.org/wiki/刀具 "wikilink")、[磨料](https://zh.wikipedia.org/wiki/磨料 "wikilink")、[磨具](https://zh.wikipedia.org/wiki/磨具 "wikilink")、[夹具](https://zh.wikipedia.org/wiki/夹具 "wikilink")、[模具和](https://zh.wikipedia.org/wiki/模具 "wikilink")[手工具](https://zh.wikipedia.org/wiki/手工具 "wikilink")
 
 ::\*TG71 刀具
 
@@ -116,8 +110,7 @@
 
 ::\*TG78 手工具
 
-:\*TG8
-[公差与](https://zh.wikipedia.org/wiki/公差 "wikilink")[技术测量及](https://zh.wikipedia.org/wiki/技术测量 "wikilink")[机械量仪](https://zh.wikipedia.org/wiki/机械量仪 "wikilink")
+:\*TG8 [公差与](https://zh.wikipedia.org/wiki/公差 "wikilink")[技术测量及](https://zh.wikipedia.org/wiki/技术测量 "wikilink")[机械量仪](https://zh.wikipedia.org/wiki/机械量仪 "wikilink")
 
 ::\*TG81 长度测量及其量仪
 
@@ -135,8 +128,7 @@
 
 ::\*TG88 光学量仪
 
-:\*TG9
-[钳工工艺与](https://zh.wikipedia.org/wiki/钳工工艺 "wikilink")[装配工艺](https://zh.wikipedia.org/wiki/装配工艺 "wikilink")
+:\*TG9 [钳工工艺与](https://zh.wikipedia.org/wiki/钳工工艺 "wikilink")[装配工艺](https://zh.wikipedia.org/wiki/装配工艺 "wikilink")
 
 ::\*TG91 基本理论
 

@@ -10,7 +10,4 @@
   - **[查尔斯·沃克](https://zh.wikipedia.org/wiki/查尔斯·沃克 "wikilink")**（，曾执行、以及任务），有效载荷专家
   - **[杰克·加恩](https://zh.wikipedia.org/wiki/杰克·加恩 "wikilink")**（，曾执行任务），有效载荷专家
 
-[Category:1985年科學](https://zh.wikipedia.org/wiki/Category:1985年科學 "wikilink")
-[Category:1985年佛罗里达州](https://zh.wikipedia.org/wiki/Category:1985年佛罗里达州 "wikilink")
-[Category:发现号航天飞机任务](https://zh.wikipedia.org/wiki/Category:发现号航天飞机任务 "wikilink")
-[Category:1985年4月](https://zh.wikipedia.org/wiki/Category:1985年4月 "wikilink")
+[Category:1985年科學](https://zh.wikipedia.org/wiki/Category:1985年科學 "wikilink") [Category:1985年佛罗里达州](https://zh.wikipedia.org/wiki/Category:1985年佛罗里达州 "wikilink") [Category:发现号航天飞机任务](https://zh.wikipedia.org/wiki/Category:发现号航天飞机任务 "wikilink") [Category:1985年4月](https://zh.wikipedia.org/wiki/Category:1985年4月 "wikilink")

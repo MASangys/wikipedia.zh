@@ -1,8 +1,4 @@
-**AMD
-690G**晶片組（代號RS690）是由[ATi設計的](https://zh.wikipedia.org/wiki/ATi "wikilink")[AMD](https://zh.wikipedia.org/wiki/AMD "wikilink")、[INTEL雙平台整合型晶元組](https://zh.wikipedia.org/wiki/INTEL "wikilink")。它是AMD收購ATI後所推出的第一個晶元組，其AMD,INTEL平臺名稱分別叫做**690G**和**RS600**。它內建了Radeon
-X1250顯示核心。該顯示核心是建基於Radeon
-X700，但只有四條像素流水線。影像方面，它支援[AVIVO優化視訊播放](https://zh.wikipedia.org/wiki/AVIVO "wikilink")。它是業界首款晶元組同時支援[HDCP和](../Page/HDCP.md "wikilink")[HDMI影像輸出](../Page/HDMI.md "wikilink")。除此之外，它更取得Vista
-Premium認證。
+**AMD 690G**晶片組（代號RS690）是由[ATi設計的](https://zh.wikipedia.org/wiki/ATi "wikilink")[AMD](https://zh.wikipedia.org/wiki/AMD "wikilink")、[INTEL雙平台整合型晶元組](https://zh.wikipedia.org/wiki/INTEL "wikilink")。它是AMD收購ATI後所推出的第一個晶元組，其AMD,INTEL平臺名稱分別叫做**690G**和**RS600**。它內建了Radeon X1250顯示核心。該顯示核心是建基於Radeon X700，但只有四條像素流水線。影像方面，它支援[AVIVO優化視訊播放](https://zh.wikipedia.org/wiki/AVIVO "wikilink")。它是業界首款晶元組同時支援[HDCP](../Page/HDCP.md "wikilink")和[HDMI](../Page/HDMI.md "wikilink")影像輸出。除此之外，它更取得Vista Premium認證。
 
 ## 晶片組規格
 
@@ -17,8 +13,7 @@ Premium認證。
 南桥採用SB600晶片，采用130nm制程：
 
   - 擁有四个[SATA-2硬碟接口](https://zh.wikipedia.org/wiki/SATA-2 "wikilink")
-  - 支援[RAID
-    0](https://zh.wikipedia.org/wiki/RAID#Raid_0 "wikilink")，[1](https://zh.wikipedia.org/wiki/RAID#RAID_1 "wikilink")，10
+  - 支援[RAID 0](https://zh.wikipedia.org/wiki/RAID#Raid_0 "wikilink")，[1](https://zh.wikipedia.org/wiki/RAID#RAID_1 "wikilink")，10
 
 <!-- end list -->
 
@@ -26,14 +21,9 @@ Premium認證。
 
 ## 顯示核心
 
-**690G**晶片組整合了[Radeon
-X700顯示核心](https://zh.wikipedia.org/wiki/Radeon_X_Series "wikilink")，核心頻率是400MHz。它不支援Direct
-X9.0c及Shader Model 3.0，而只支援Direct X9.0及Shader Model
-2.0。縱使技術較旧，但憑著四條像素流水線，成為當時繒圖性能最強的晶元組。為了使產品更具競爭力，追加了[AVIVO視訊播放優化技術](https://zh.wikipedia.org/wiki/AVIVO "wikilink")，使得晶元組能為[H.264等視訊规格提供硬体影像解码功能](https://zh.wikipedia.org/wiki/H.264 "wikilink")。但根據實際用戶反饋指出其實並不提供H.264與VC-1硬体影像解码功能。在更新BIOS後，晶片組的超頻能力有所提升，亦增加對系統記憶體的调节選項、集成顯示核心理的频率调节選項，這都有效幫助系統播放高清電影。官方建議，若果处理器是[Athlon
-64 X2](https://zh.wikipedia.org/wiki/Athlon_64_X2 "wikilink")
-1.8GHz以上，就能良好播放[MPEG2編碼的](https://zh.wikipedia.org/wiki/MPEG2 "wikilink")1080P高清影片。2.2GHz以上，就可以良好支援[VC-1](../Page/VC-1.md "wikilink")；2.4GHz以上，就可以良好支援[H.264](https://zh.wikipedia.org/wiki/H.264 "wikilink")。
+**690G**晶片組整合了[Radeon X700顯示核心](https://zh.wikipedia.org/wiki/Radeon_X_Series "wikilink")，核心頻率是400MHz。它不支援Direct X9.0c及Shader Model 3.0，而只支援Direct X9.0及Shader Model 2.0。縱使技術較旧，但憑著四條像素流水線，成為當時繒圖性能最強的晶元組。為了使產品更具競爭力，追加了[AVIVO視訊播放優化技術](https://zh.wikipedia.org/wiki/AVIVO "wikilink")，使得晶元組能為[H.264等視訊规格提供硬体影像解码功能](https://zh.wikipedia.org/wiki/H.264 "wikilink")。但根據實際用戶反饋指出其實並不提供H.264與VC-1硬体影像解码功能。在更新BIOS後，晶片組的超頻能力有所提升，亦增加對系統記憶體的调节選項、集成顯示核心理的频率调节選項，這都有效幫助系統播放高清電影。官方建議，若果处理器是[Athlon 64 X2](https://zh.wikipedia.org/wiki/Athlon_64_X2 "wikilink") 1.8GHz以上，就能良好播放[MPEG2編碼的](https://zh.wikipedia.org/wiki/MPEG2 "wikilink")1080P高清影片。2.2GHz以上，就可以良好支援[VC-1](../Page/VC-1.md "wikilink")；2.4GHz以上，就可以良好支援[H.264](https://zh.wikipedia.org/wiki/H.264 "wikilink")。
 
-影像輸出方面，除了标准的[VGA接口外](https://zh.wikipedia.org/wiki/VGA "wikilink")，还提供[DVI和](../Page/DVI.md "wikilink")[HDMI數碼接口](../Page/HDMI.md "wikilink")。
+影像輸出方面，除了标准的[VGA接口外](https://zh.wikipedia.org/wiki/VGA "wikilink")，还提供[DVI](../Page/DVI.md "wikilink")和[HDMI](../Page/HDMI.md "wikilink")數碼接口。
 
 ## 晶片組版本
 
@@ -46,8 +36,7 @@ X9.0c及Shader Model 3.0，而只支援Direct X9.0及Shader Model
 筆記本電腦平台：
 
   - RS690T：整合了Radeon X1270顯示核心，並支援HDMI顯示輸出和AVIVO。顯示記憶體集成在顯核封裝上。
-  - RS690M：整合了Radeon
-    X1250顯示核心，並支援[TMDS](https://zh.wikipedia.org/wiki/TMDS "wikilink")
+  - RS690M：整合了Radeon X1250顯示核心，並支援[TMDS](https://zh.wikipedia.org/wiki/TMDS "wikilink")
   - RS690MC：整合了Radeon X1200顯示核心，不支援HDMI顯示輸出
 
 為了降低成本，主機板廠商能自行決定是否通过HDCP认证。所以支援HDMI不代表支援HDCP。
@@ -60,8 +49,7 @@ X9.0c及Shader Model 3.0，而只支援Direct X9.0及Shader Model
 
 ## 外部連結
 
-  - [泡泡网 - 游戏画质比拼
-    三款整合主板争夺王位](http://www.pcpop.com/doc/0/181/181416.shtml)
+  - [泡泡网 - 游戏画质比拼 三款整合主板争夺王位](http://www.pcpop.com/doc/0/181/181416.shtml)
 
 ## 已推出有關產品的廠商
 
@@ -448,5 +436,4 @@ D-sub顯示輸出</p></td>
 </tbody>
 </table>
 
-[Category:AMD晶片組](https://zh.wikipedia.org/wiki/Category:AMD晶片組 "wikilink")
-[Category:主機板](https://zh.wikipedia.org/wiki/Category:主機板 "wikilink")
+[Category:AMD晶片組](https://zh.wikipedia.org/wiki/Category:AMD晶片組 "wikilink") [Category:主機板](https://zh.wikipedia.org/wiki/Category:主機板 "wikilink")

@@ -1,16 +1,12 @@
-**本田CR-V**（**Honda
-CR-V**）是一款由[本田技研工业股份有限公司于](https://zh.wikipedia.org/wiki/本田技研工业股份有限公司 "wikilink")1995年推出的小型[SUV](https://zh.wikipedia.org/wiki/SUV "wikilink")，於2006年推出第三代車型，於2011年於日本推出第四代車型，2017年推出第五代車型，[Nissan
-X-Trail](../Page/日产奇骏.md "wikilink")、[豐田RAV4等車為其主要競爭對手](https://zh.wikipedia.org/wiki/豐田RAV4 "wikilink")。
+**本田CR-V**（**Honda CR-V**）是一款由[本田技研工业股份有限公司于](https://zh.wikipedia.org/wiki/本田技研工业股份有限公司 "wikilink")1995年推出的小型[SUV](https://zh.wikipedia.org/wiki/SUV "wikilink")，於2006年推出第三代車型，於2011年於日本推出第四代車型，2017年推出第五代車型，[Nissan X-Trail](../Page/日产奇骏.md "wikilink")、[豐田RAV4等車為其主要競爭對手](https://zh.wikipedia.org/wiki/豐田RAV4 "wikilink")。
 
-車名由來有三種說法，其一為本田官網所載的「Comfortable Runabout Vehicle」（舒適輕便車），另一為「Compact
-Recreational Vehicle」（小型休闲车）；再为“Civic related vehicle"。
+車名由來有三種說法，其一為本田官網所載的「Comfortable Runabout Vehicle」（舒適輕便車），另一為「Compact Recreational Vehicle」（小型休闲车）；再为“Civic related vehicle"。
 
 ## 規格
 
 ### 第一代
 
-時間：1995年－2000年
-[Honda_CR-V_silver_vr.jpg](https://zh.wikipedia.org/wiki/File:Honda_CR-V_silver_vr.jpg "fig:Honda_CR-V_silver_vr.jpg")
+時間：1995年－2000年 [Honda_CR-V_silver_vr.jpg](https://zh.wikipedia.org/wiki/File:Honda_CR-V_silver_vr.jpg "fig:Honda_CR-V_silver_vr.jpg")
 
   - 全長/寬/高（mm）4510/1750/1675
   - 車身結構 HASS高剛性車體
@@ -26,21 +22,18 @@ Recreational Vehicle」（小型休闲车）；再为“Civic related vehicle"�
   - 燃油系統 PGM-Fi 智慧型16位元電腦燃油噴射系統
   - 最大馬力 126ps @ 5400rpm / 2000年改版148ps @6200rpm
   - 最大扭力 18.4kg-m @ 4300rpm / 2000年改版18.4kg-m @6500rpm
-  - 變速系統 四速全自動變速箱附L/C鎖定離合器內置智慧型電腦控制斜坡邏輯變速系統 (GRADE LOGIC CONTROL SYSTEM
-    +4AT) 。 2000年改版+O/D檔(OVER DRIVE)扭力提升驅動鈕
+  - 變速系統 四速全自動變速箱附L/C鎖定離合器內置智慧型電腦控制斜坡邏輯變速系統 (GRADE LOGIC CONTROL SYSTEM +4AT) 。 2000年改版+O/D檔(OVER DRIVE)扭力提升驅動鈕
   - 驅動方式 FF 或 REAL TIME 4WD
   - 轉向系統 齒桿小齒輪/動力輔助
   - 懸吊系統 四輪獨立雙A臂多連桿懸吊系統(前後防傾桿)
   - 煞車系統 前碟後鼓(ABS)
   - 輪胎尺寸 P205/70 R15 95S
 
-1995年在日本推出的CR-V（底盤代碼RD1-RD3）是本田第一台由Hiroyuki
-Kawase設計的[運動型多用途車](https://zh.wikipedia.org/wiki/運動 "wikilink")。CR-V僅在日本本田Verno經銷商推出，由於外形寬度尺寸超過日本政府規定，被認為是日本的[豪華車](https://zh.wikipedia.org/wiki/豪華車 "wikilink")。對於[北美市場](https://zh.wikipedia.org/wiki/北美 "wikilink")，於1996年[芝加哥車展上展出](https://zh.wikipedia.org/wiki/芝加哥車展 "wikilink")，並於1997年2月上市。
+1995年在日本推出的CR-V（底盤代碼RD1-RD3）是本田第一台由Hiroyuki Kawase設計的[運動型多用途車](https://zh.wikipedia.org/wiki/運動 "wikilink")。CR-V僅在日本本田Verno經銷商推出，由於外形寬度尺寸超過日本政府規定，被認為是日本的[豪華車](https://zh.wikipedia.org/wiki/豪華車 "wikilink")。對於[北美市場](https://zh.wikipedia.org/wiki/北美 "wikilink")，於1996年[芝加哥車展上展出](https://zh.wikipedia.org/wiki/芝加哥車展 "wikilink")，並於1997年2月上市。
 
 ### 第二代
 
-時間：2001年－2006年
-[Honda_CR-V_black_vr.jpg](https://zh.wikipedia.org/wiki/File:Honda_CR-V_black_vr.jpg "fig:Honda_CR-V_black_vr.jpg")
+時間：2001年－2006年 [Honda_CR-V_black_vr.jpg](https://zh.wikipedia.org/wiki/File:Honda_CR-V_black_vr.jpg "fig:Honda_CR-V_black_vr.jpg")
 
   - 車身結構 G-CON 安全防護車體
   - 全長/寬/高（mm） 4550/1780/1710
@@ -66,18 +59,15 @@ Kawase設計的[運動型多用途車](https://zh.wikipedia.org/wiki/運動 "wik
   - 煞車系統 四輪碟煞附ABS+BA+EBD
   - 手煞車 機械式後輪內鼓煞
 
-更大更重的第2代CR-V（底盤代碼RD4-RD8）是基於第7代Civic的平台全面重新設計，由K20A1/24A1[引擎提供](https://zh.wikipedia.org/wiki/引擎 "wikilink")[動力](https://zh.wikipedia.org/wiki/動力 "wikilink")。儘管動力增加，新CR-V保留了以前型號的燃油經濟性，部分原因在於搭載有i-VTEC引擎系統。新開發的[底盤具有增加的扭轉和彎曲剛性](https://zh.wikipedia.org/wiki/底盤 "wikilink")，而新懸吊具有前端控制連接麥佛遜支柱和後多連桿雙A臂；緊湊的後懸掛將貨物空間增加到2,000公升之普。第2代CR-V是2002年和2003年的《Car
-and
-Driver》雜誌“最佳小型[SUV](https://zh.wikipedia.org/wiki/SUV "wikilink")”。2002至2004年的模型年份之間的改款變化很小，分別是在後兩年擴大了中間車廂和增加了前排乘客門鎖。CR-V的成功促使本田推出入門級SUV元素。
+更大更重的第2代CR-V（底盤代碼RD4-RD8）是基於第7代Civic的平台全面重新設計，由K20A1/24A1[引擎提供](https://zh.wikipedia.org/wiki/引擎 "wikilink")[動力](https://zh.wikipedia.org/wiki/動力 "wikilink")。儘管動力增加，新CR-V保留了以前型號的燃油經濟性，部分原因在於搭載有i-VTEC引擎系統。新開發的[底盤具有增加的扭轉和彎曲剛性](https://zh.wikipedia.org/wiki/底盤 "wikilink")，而新懸吊具有前端控制連接麥佛遜支柱和後多連桿雙A臂；緊湊的後懸掛將貨物空間增加到2,000公升之普。第2代CR-V是2002年和2003年的《Car and Driver》雜誌“最佳小型[SUV](https://zh.wikipedia.org/wiki/SUV "wikilink")”。2002至2004年的模型年份之間的改款變化很小，分別是在後兩年擴大了中間車廂和增加了前排乘客門鎖。CR-V的成功促使本田推出入門級SUV元素。
 
 #### Real Time 4WD的問題
 
-與第一代車款有著共同的毛病，雖然是[4WD車款](https://zh.wikipedia.org/wiki/4WD "wikilink")，但設計之初是以城市小型SUV的概念設計，不能真正拿來做離開道路的[越野操作](https://zh.wikipedia.org/wiki/越野 "wikilink")。後軸上的驅動軸咬合器只有在驅動輪打滑時才會由[油壓系統將後傳動系統打開](https://zh.wikipedia.org/wiki/油壓系統 "wikilink")，長時間上坡後會因為過熱而傳遞效能銳減，造成動力在咬合器中流失掉以外，更有部份駕駛者反應比FF更無動力，甚至出現只是出[停車場斜坡上坡打滑往後撞牆的情況](../Page/停車場.md "wikilink")，由於沒有手動切換控制，駕駛該輛車款爬坡時需要謹慎小心。
+與第一代車款有著共同的毛病，雖然是[4WD車款](https://zh.wikipedia.org/wiki/4WD "wikilink")，但設計之初是以城市小型SUV的概念設計，不能真正拿來做離開道路的[越野操作](https://zh.wikipedia.org/wiki/越野 "wikilink")。後軸上的驅動軸咬合器只有在驅動輪打滑時才會由[油壓系統將後傳動系統打開](https://zh.wikipedia.org/wiki/油壓系統 "wikilink")，長時間上坡後會因為過熱而傳遞效能銳減，造成動力在咬合器中流失掉以外，有少部份駕駛者反應比FF更無動力，出現只是出[停車場](../Page/停車場.md "wikilink")斜坡上坡打滑往後撞牆的情況，由於沒有手動切換控制，駕駛該輛車款爬坡時需要謹慎小心。
 
 ### 第三代
 
-時間：2007年－2012年
-[07-CRV-1.jpg](https://zh.wikipedia.org/wiki/File:07-CRV-1.jpg "fig:07-CRV-1.jpg")
+時間：2007年－2012年 [07-CRV-1.jpg](https://zh.wikipedia.org/wiki/File:07-CRV-1.jpg "fig:07-CRV-1.jpg")
 
   - 長/寬/高（mm）：4520/1820/1680
   - 軸距（mm）:2620
@@ -96,8 +86,7 @@ Driver》雜誌“最佳小型[SUV](https://zh.wikipedia.org/wiki/SUV "wikilink"
 
 ### 第四代
 
-時間：2012年－2016年
-[2012_Honda_CR-V_EX-L_--_01-20-2012_1.jpg](https://zh.wikipedia.org/wiki/File:2012_Honda_CR-V_EX-L_--_01-20-2012_1.jpg "fig:2012_Honda_CR-V_EX-L_--_01-20-2012_1.jpg")
+時間：2012年－2016年 [2012_Honda_CR-V_EX-L_--_01-20-2012_1.jpg](https://zh.wikipedia.org/wiki/File:2012_Honda_CR-V_EX-L_--_01-20-2012_1.jpg "fig:2012_Honda_CR-V_EX-L_--_01-20-2012_1.jpg")
 
   - 車體結構 ACE鋼骨防護車體
   - 全長/寬/高 （mm）4,545/1,820/1,685
@@ -122,30 +111,21 @@ Driver》雜誌“最佳小型[SUV](https://zh.wikipedia.org/wiki/SUV "wikilink"
 
 ### 第五代
 
-時間：2017年～現在
-[2018_Honda_CR-V_(RW_MY18)_+Sport_2WD_wagon_(2018-10-22)_01.jpg](https://zh.wikipedia.org/wiki/File:2018_Honda_CR-V_\(RW_MY18\)_+Sport_2WD_wagon_\(2018-10-22\)_01.jpg "fig:2018_Honda_CR-V_(RW_MY18)_+Sport_2WD_wagon_(2018-10-22)_01.jpg")
+時間：2017年～現在 [2018_Honda_CR-V_(RW_MY18)_+Sport_2WD_wagon_(2018-10-22)_01.jpg](https://zh.wikipedia.org/wiki/File:2018_Honda_CR-V_\(RW_MY18\)_+Sport_2WD_wagon_\(2018-10-22\)_01.jpg "fig:2018_Honda_CR-V_(RW_MY18)_+Sport_2WD_wagon_(2018-10-22)_01.jpg")
 
-第五代CR-V首度於2016年10月在[底特律正式發表](https://zh.wikipedia.org/wiki/底特律 "wikilink")，預定於12月以2017年份車款在北美市場開始銷售。第五代的基本架構將使用與第十代[Civic相同的本田中小型車平臺](../Page/本田思域.md "wikilink")\[1\]部份地區入門車款使用出力達184hp、180lb-ft的Earth
-Dream 2.4升 i-VTEC自然進氣引擎。
+第五代CR-V首度於2016年10月在[底特律正式發表](https://zh.wikipedia.org/wiki/底特律 "wikilink")，預定於12月以2017年份車款在北美市場開始銷售。第五代的基本架構將使用與第十代[Civic相同的本田中小型車平臺](../Page/本田思域.md "wikilink")\[1\]部份地區入門車款使用出力達184hp、180lb-ft的Earth Dream 2.4升 i-VTEC自然進氣引擎。
 
-主力車款將使用代號L15B出力達190hp、179lb-ft的1.5升DOHC渦輪增壓引擎。雖然兩部引擎出力相近，這具渦輪增壓引擎將可在2000至5000rpm時達到扭力輸出高點\[2\]。在[臺灣的稅制方面剛好小一個級距](../Page/臺灣.md "wikilink")，可以進一步的減輕消費者稅賦上的負擔。
+主力車款將使用代號L15B出力達190hp、179lb-ft的1.5升DOHC渦輪增壓引擎。雖然兩部引擎出力相近，這具渦輪增壓引擎將可在2000至5000rpm時達到扭力輸出高點\[2\]。在[臺灣](../Page/臺灣.md "wikilink")的稅制方面剛好小一個級距，可以進一步的減輕消費者稅賦上的負擔。
 
-之前只在最高Touring等級配備的「本田感測」安全套件將在EX以上等級成為標準配備，其中包括（Adaptive Cruise
-Control；ACC）、（Collision Mitigation Braking；CMBS）、及（Lane Keeping
-Assist；LKAS）。新安全套件如加上後方橫向交通監視系統（Rear Cross Traffic
-Monitor；CTM）的[盲點偵測系統](../Page/盲點偵測系統.md "wikilink")（Blind
-Spot Information；BSI）取代了裝置在前一代CR-V的「LaneWatch」系統，裝置了自動遠光燈（Auto High
-Beam；HSS）的大燈也將裝置在這一代CR-V上\[3\]。
+之前只在最高Touring等級配備的「本田感測」安全套件將在EX以上等級成為標準配備，其中包括（Adaptive Cruise Control；ACC）、（Collision Mitigation Braking；CMBS）、及（Lane Keeping Assist；LKAS）。新安全套件如加上後方橫向交通監視系統（Rear Cross Traffic Monitor；CTM）的[盲點偵測系統](../Page/盲點偵測系統.md "wikilink")（Blind Spot Information；BSI）取代了裝置在前一代CR-V的「LaneWatch」系統，裝置了自動遠光燈（Auto High Beam；HSS）的大燈也將裝置在這一代CR-V上\[3\]。
 
-國際標配包含[LED日間行車燈](https://zh.wikipedia.org/wiki/LED "wikilink")、18吋鋁合金鋼圈以及具有自動電子手煞車。頂級車款新功能還包括電動後尾門、水箱罩自動隔柵系統、7吋顯示器系統和LED大燈，支援Android
-Auto ＆ Apple CarPlay。\[4\]
+國際標配包含[LED日間行車燈](https://zh.wikipedia.org/wiki/LED "wikilink")、18吋鋁合金鋼圈以及具有自動電子手煞車。頂級車款新功能還包括電動後尾門、水箱罩自動隔柵系統、7吋顯示器系統和LED大燈，支援Android Auto ＆ Apple CarPlay。\[4\]
 
 #### 東風本田機油增多事件
 
 2018年初起中國大陸有28各省市大規模回報，購買的最新款[東風本田CR](https://zh.wikipedia.org/wiki/東風本田汽車 "wikilink")-V有機油異常增多事件，\[5\]通常汽車機油只會越用越少，莫名多出油量是怪異現象可能有深層問題。事件爆發初期有部分4S店以幫顧客更改機油尺和改說明手冊方式處理\[6\]，並不斷強調不是大問題只是小毛病，然而這種處理反而導致事件在網路更多發酵增長。
 
-2018年3月份[央視開始介入報導此一問題](https://zh.wikipedia.org/wiki/央視 "wikilink")，記者使用潛入偷拍方式，發現本田4S店對此一問題採取防禦抵抗態度，有店長聲稱整件事是敵對車廠汙衊造謠，也有店長還在使用更改機油尺和改說明手冊等應對。20日開始新聞見報，[國家質檢總局背書採信廣州機械工業油品檢驗中心報告](https://zh.wikipedia.org/wiki/國家質檢總局 "wikilink")，\[7\]顯示該款車一升機油內含有75毫升[汽油](../Page/汽油.md "wikilink")，表示有汽油外洩進入機油箱的問題屬實。質檢總局約談本田後，公司做出CR-V
-1500cc渦輪版汽車全面停售並召回決定，之後央視追蹤報導發現停售20天後還有直營銷售店在賣車，只是在條約上加一怪異條款說「已經告知本款車況全部訊息，消費者表示認可」，央視報導中說明此條款為違法條款，有簽字也一概無效，若打消費糾紛官司不會被採信。\[8\]
+2018年3月份[央視開始介入報導此一問題](https://zh.wikipedia.org/wiki/央視 "wikilink")，記者使用潛入偷拍方式，發現本田4S店對此一問題採取防禦抵抗態度，有店長聲稱整件事是敵對車廠汙衊造謠，也有店長還在使用更改機油尺和改說明手冊等應對。20日開始新聞見報，[國家質檢總局背書採信廣州機械工業油品檢驗中心報告](https://zh.wikipedia.org/wiki/國家質檢總局 "wikilink")，\[7\]顯示該款車一升機油內含有75毫升[汽油](../Page/汽油.md "wikilink")，表示有汽油外洩進入機油箱的問題屬實。質檢總局約談本田後，公司做出CR-V 1500cc渦輪版汽車全面停售並召回決定，之後央視追蹤報導發現停售20天後還有直營銷售店在賣車，只是在條約上加一怪異條款說「已經告知本款車況全部訊息，消費者表示認可」，央視報導中說明此條款為違法條款，有簽字也一概無效，若打消費糾紛官司不會被採信。\[8\]
 
 #### 動力編成
 
@@ -224,7 +204,7 @@ Auto ＆ Apple CarPlay。\[4\]
 ## 各地市場概況
 
   - 中國：由[东风本田汽车有限公司生产](https://zh.wikipedia.org/wiki/东风本田汽车有限公司 "wikilink")。
-  - 臺灣：第一代車款是由[三陽工業代理進口及生產](../Page/三陽工業.md "wikilink")。第二、三、四、五代則是由[台灣本田所生產](../Page/台灣本田.md "wikilink")。
+  - 臺灣：第一代車款是由[三陽工業](../Page/三陽工業.md "wikilink")代理進口及生產。第二、三、四、五代則是由[台灣本田](../Page/台灣本田.md "wikilink")所生產。
 
 ## 參考資料
 
@@ -233,12 +213,7 @@ Auto ＆ Apple CarPlay。\[4\]
   - [日本本田CR-V官方網站](http://www.honda.co.jp/CR-V/)
   - [台灣本田官方網站](http://www.honda-taiwan.com.tw)
 
-[Category:1995年面世的汽車](https://zh.wikipedia.org/wiki/Category:1995年面世的汽車 "wikilink")
-[Category:本田車輛](https://zh.wikipedia.org/wiki/Category:本田車輛 "wikilink")
-[Category:运动型多用途车](https://zh.wikipedia.org/wiki/Category:运动型多用途车 "wikilink")
-[Category:前置引擎](https://zh.wikipedia.org/wiki/Category:前置引擎 "wikilink")
-[Category:前輪驅動](https://zh.wikipedia.org/wiki/Category:前輪驅動 "wikilink")
-[Category:四輪驅動](https://zh.wikipedia.org/wiki/Category:四輪驅動 "wikilink")
+[Category:1995年面世的汽車](https://zh.wikipedia.org/wiki/Category:1995年面世的汽車 "wikilink") [Category:本田車輛](https://zh.wikipedia.org/wiki/Category:本田車輛 "wikilink") [Category:运动型多用途车](https://zh.wikipedia.org/wiki/Category:运动型多用途车 "wikilink") [Category:前置引擎](https://zh.wikipedia.org/wiki/Category:前置引擎 "wikilink") [Category:前輪驅動](https://zh.wikipedia.org/wiki/Category:前輪驅動 "wikilink") [Category:四輪驅動](https://zh.wikipedia.org/wiki/Category:四輪驅動 "wikilink")
 
 1.  <http://www.motortrend.com/cars/honda/cr-v/2017/2017-honda-cr-v-first-look-review/>
 2.

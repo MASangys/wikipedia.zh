@@ -1,6 +1,6 @@
 **国家篮球协会历史上最伟大的50名球员**（亦称**NBA50周年之队**或**NBA50大巨星**）于1996年[国家篮球协会](https://zh.wikipedia.org/wiki/国家篮球协会 "wikilink")（NBA）创立五十周年之际选出。媒体从业者、前运动员和教练及现任和前任总经理组成评审团，投票选出了这50名球员。此外，作为庆典的一部分，媒体还选出了NBA历史上十大[主教练和十支最伟大的球队](https://zh.wikipedia.org/wiki/主教练 "wikilink")（单赛季）\[1\]。这五十名球员必须在其职业生涯中在NBA效力过，并且不计其场上位置。
 
-时任NBA总裁[大卫·斯特恩于](../Page/大卫·斯特恩.md "wikilink")1996年10月29日在纽约凯悦酒店（原址为舰队司令酒店，1946年6月6日NBA宪章在此签订）宣布了这一名单，由此也开始了长达[一个赛季的NBA周年庆](https://zh.wikipedia.org/wiki/1996-97_NBA赛季 "wikilink")\[2\]。在[俄亥俄州](../Page/俄亥俄州.md "wikilink")[克里夫兰举行](https://zh.wikipedia.org/wiki/克里夫兰_\(俄亥俄州\) "wikilink")，半场休息时这50名球员中的47人集结到一起参加了仪式\[3\]。有三名球员缺席：[皮特·马拉维奇于](../Page/皮特·马拉维奇.md "wikilink")1988年去世，时年40岁\[4\]；[沙奎尔·奥尼尔正在膝伤康复中](../Page/沙奎尔·奥尼尔.md "wikilink")；[杰里·韦斯特则要进行耳感染手术](https://zh.wikipedia.org/wiki/杰里·韦斯特 "wikilink")，无法乘坐飞机\[5\]。在名单宣布之时，有11名球员现役。奥尼尔是最后一名NBA现役球员，他在结束后退役\[6\]。
+时任NBA总裁[大卫·斯特恩](../Page/大卫·斯特恩.md "wikilink")于1996年10月29日在纽约凯悦酒店（原址为舰队司令酒店，1946年6月6日NBA宪章在此签订）宣布了这一名单，由此也开始了长达[一个赛季的NBA周年庆](https://zh.wikipedia.org/wiki/1996-97_NBA赛季 "wikilink")\[2\]。在[俄亥俄州](../Page/俄亥俄州.md "wikilink")[克里夫兰举行](https://zh.wikipedia.org/wiki/克里夫兰_\(俄亥俄州\) "wikilink")，半场休息时这50名球员中的47人集结到一起参加了仪式\[3\]。有三名球员缺席：[皮特·马拉维奇](../Page/皮特·马拉维奇.md "wikilink")于1988年去世，时年40岁\[4\]；[沙奎尔·奥尼尔](../Page/沙奎尔·奥尼尔.md "wikilink")正在膝伤康复中；[杰里·韦斯特则要进行耳感染手术](https://zh.wikipedia.org/wiki/杰里·韦斯特 "wikilink")，无法乘坐飞机\[5\]。在名单宣布之时，有11名球员现役。奥尼尔是最后一名NBA现役球员，他在结束后退役\[6\]。
 
 ## 入选球员
 
@@ -1164,9 +1164,9 @@
 
 同样包括在NBA50周年庆典中的还有NBA历史十大球队名单。这一名单由时常报导NBA的纸面和广播媒体不排名，从所有单支单赛季球队中选出。每支球队都获得了[NBA总冠军](https://zh.wikipedia.org/wiki/NBA总冠军 "wikilink")，并且平均赛季胜场达到66场。1995-96赛季的芝加哥公牛队保持着NBA历史上单赛季72胜的记录。但於2015-2016賽季被金州勇士隊的73勝打破紀錄。
 
-三十支NBA球队中有六支球队上榜（在名单公布时）；[波士顿凯尔特人](../Page/波士顿凯尔特人.md "wikilink")、[芝加哥公牛](../Page/芝加哥公牛.md "wikilink")、[洛杉矶湖人和](../Page/洛杉矶湖人.md "wikilink")[费城76人各有两支球队上榜](../Page/费城76人.md "wikilink")。
+三十支NBA球队中有六支球队上榜（在名单公布时）；[波士顿凯尔特人](../Page/波士顿凯尔特人.md "wikilink")、[芝加哥公牛](../Page/芝加哥公牛.md "wikilink")、[洛杉矶湖人](../Page/洛杉矶湖人.md "wikilink")和[费城76人](../Page/费城76人.md "wikilink")各有两支球队上榜。
 
-有六名球员同时登上两支球队的名单——[威尔特·张伯伦](../Page/威尔特·张伯伦.md "wikilink")，1966-67赛季76人和1971-72赛季湖人；[詹姆斯·爱德华兹](../Page/詹姆斯·爱德华兹.md "wikilink")、[丹尼斯·罗德曼和](https://zh.wikipedia.org/wiki/丹尼斯·罗德曼 "wikilink")[约翰·萨利](../Page/约翰·萨利.md "wikilink")，1988-89赛季活塞和1995-96赛季公牛；[迈克尔·乔丹和](../Page/迈克尔·乔丹.md "wikilink")[斯科蒂·皮蓬](../Page/斯科蒂·皮蓬.md "wikilink")，1991-92赛季和1995-96赛季的公牛。还有三人曾经效力和执教过球队，并且都是为同一支球队达成此成就的——[K·C·琼斯在](https://zh.wikipedia.org/wiki/K·C·琼斯 "wikilink")1964-65赛季为凯尔特人球员，1985-86赛季执教；[比利·坎宁安在](../Page/比利·坎宁安.md "wikilink")1966-67赛季为76人球员，1982-83赛季执教；[帕特·莱利在](https://zh.wikipedia.org/wiki/帕特·莱利 "wikilink")1971-72赛季为湖人球员，1986-87赛季执教。[菲尔·杰克逊在](https://zh.wikipedia.org/wiki/菲尔·杰克逊 "wikilink")1989年至1998年为公牛教练，他是唯一一位执教了榜上两支球队的。同时，杰克逊在1969-70赛季为尼克斯球员，但他由于脊柱融合手术缺席了整个赛季\[68\]。
+有六名球员同时登上两支球队的名单——[威尔特·张伯伦](../Page/威尔特·张伯伦.md "wikilink")，1966-67赛季76人和1971-72赛季湖人；[詹姆斯·爱德华兹](../Page/詹姆斯·爱德华兹.md "wikilink")、[丹尼斯·罗德曼和](https://zh.wikipedia.org/wiki/丹尼斯·罗德曼 "wikilink")[约翰·萨利](../Page/约翰·萨利.md "wikilink")，1988-89赛季活塞和1995-96赛季公牛；[迈克尔·乔丹](../Page/迈克尔·乔丹.md "wikilink")和[斯科蒂·皮蓬](../Page/斯科蒂·皮蓬.md "wikilink")，1991-92赛季和1995-96赛季的公牛。还有三人曾经效力和执教过球队，并且都是为同一支球队达成此成就的——[K·C·琼斯在](https://zh.wikipedia.org/wiki/K·C·琼斯 "wikilink")1964-65赛季为凯尔特人球员，1985-86赛季执教；[比利·坎宁安](../Page/比利·坎宁安.md "wikilink")在1966-67赛季为76人球员，1982-83赛季执教；[帕特·莱利在](https://zh.wikipedia.org/wiki/帕特·莱利 "wikilink")1971-72赛季为湖人球员，1986-87赛季执教。[菲尔·杰克逊在](https://zh.wikipedia.org/wiki/菲尔·杰克逊 "wikilink")1989年至1998年为公牛教练，他是唯一一位执教了榜上两支球队的。同时，杰克逊在1969-70赛季为尼克斯球员，但他由于脊柱融合手术缺席了整个赛季\[68\]。
 
 名字为斜体的球员在最佳球队名单公布之后入选了名人堂。本表只计入作为球员入选名人堂者，以其他身份入选名人堂的不计入。
 
@@ -1302,26 +1302,17 @@
 
 2006年，在NBA50大巨星评选十周年之际，TNT电视台评选出了当初没有入选五十大巨星的十位优秀NBA球员为“未來名人堂十大巨星”。这个名单于2006年2月18日发表，包括以下球员：
 
-  - [阿伦·艾弗森](https://zh.wikipedia.org/wiki/阿伦·艾弗森 "wikilink")（Allen
-    Iverson）\*
-  - [蒂姆·邓肯](https://zh.wikipedia.org/wiki/蒂姆·邓肯 "wikilink")（Tim
-    Duncan）\*
+  - [阿伦·艾弗森](https://zh.wikipedia.org/wiki/阿伦·艾弗森 "wikilink")（Allen Iverson）\*
+  - [蒂姆·邓肯](https://zh.wikipedia.org/wiki/蒂姆·邓肯 "wikilink")（Tim Duncan）\*
   - [多米尼克·威尔金斯](../Page/多米尼克·威尔金斯.md "wikilink")（Dominique Wilkins）\*
-  - [鲍伯·麦卡杜](https://zh.wikipedia.org/wiki/鲍伯·麦卡杜 "wikilink")（Bob
-    McAdoo）\*
-  - [凯文·加內特](https://zh.wikipedia.org/wiki/凯文·加內特 "wikilink")（Kevin
-    Garnett）\*
-  - [雷吉·米勒](https://zh.wikipedia.org/wiki/雷吉·米勒 "wikilink")（Reggie
-    Miller）\*
-  - [康尼尔·霍金斯](https://zh.wikipedia.org/wiki/康尼尔·霍金斯 "wikilink")（Connie
-    Hawkins）\*
-  - [贾森·基德](https://zh.wikipedia.org/wiki/贾森·基德 "wikilink")（Jason
-    Kidd）\*
-  - [蓋瑞·裴頓](https://zh.wikipedia.org/wiki/加里·佩顿_\(籃球員\) "wikilink")（Gary
-    Payton）\*
+  - [鲍伯·麦卡杜](https://zh.wikipedia.org/wiki/鲍伯·麦卡杜 "wikilink")（Bob McAdoo）\*
+  - [凯文·加內特](https://zh.wikipedia.org/wiki/凯文·加內特 "wikilink")（Kevin Garnett）\*
+  - [雷吉·米勒](https://zh.wikipedia.org/wiki/雷吉·米勒 "wikilink")（Reggie Miller）\*
+  - [康尼尔·霍金斯](https://zh.wikipedia.org/wiki/康尼尔·霍金斯 "wikilink")（Connie Hawkins）\*
+  - [贾森·基德](https://zh.wikipedia.org/wiki/贾森·基德 "wikilink")（Jason Kidd）\*
+  - [蓋瑞·裴頓](https://zh.wikipedia.org/wiki/加里·佩顿_\(籃球員\) "wikilink")（Gary Payton）\*
   - [科比·布莱恩特](../Page/科比·布莱恩特.md "wikilink")（Kobe Bryant）\*
-  - [文斯·卡特](https://zh.wikipedia.org/wiki/文斯·卡特 "wikilink") (Vince
-    Carter)
+  - [文斯·卡特](https://zh.wikipedia.org/wiki/文斯·卡特 "wikilink") (Vince Carter)
 
 带\*为退役球员。
 
@@ -1333,7 +1324,7 @@
 
   - 斜体战绩和胜率为截至的成绩；无斜体的是教练在入选名单时的成绩。
 
-  - 以教练身份入选[奈史密斯篮球名人纪念堂](../Page/奈史密斯篮球名人纪念堂.md "wikilink")；[比尔·沙尔曼各以球员和教练身份入选](../Page/比尔·沙尔曼.md "wikilink")。
+  - 以教练身份入选[奈史密斯篮球名人纪念堂](../Page/奈史密斯篮球名人纪念堂.md "wikilink")；[比尔·沙尔曼](../Page/比尔·沙尔曼.md "wikilink")各以球员和教练身份入选。
 
   - 桑德斯于2011年8月以其对篮球的贡献而入选名人堂\[79\]。
 
@@ -1358,9 +1349,7 @@
   - [NBA.com：10大教练](http://www.nba.com/history/top_10_coaches.html)
   - [NBA.com：10大球队](http://www.nba.com/history/toptenteams_index.html)
 
-[Category:NBA](https://zh.wikipedia.org/wiki/Category:NBA "wikilink")
-[Category:美国男子篮球运动员](https://zh.wikipedia.org/wiki/Category:美国男子篮球运动员 "wikilink")
-[Category:人物排名表](https://zh.wikipedia.org/wiki/Category:人物排名表 "wikilink")
+[Category:NBA](https://zh.wikipedia.org/wiki/Category:NBA "wikilink") [Category:美国男子篮球运动员](https://zh.wikipedia.org/wiki/Category:美国男子篮球运动员 "wikilink") [Category:人物排名表](https://zh.wikipedia.org/wiki/Category:人物排名表 "wikilink")
 
 1.
 

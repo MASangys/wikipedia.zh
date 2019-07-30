@@ -1,6 +1,4 @@
-[Jung_1910-rotated.jpg](https://zh.wikipedia.org/wiki/File:Jung_1910-rotated.jpg "fig:Jung_1910-rotated.jpg")
-**INTP**（內向／直覺／思考／感知）是一種基於[榮格的](https://zh.wikipedia.org/wiki/榮格 "wikilink")[分析心理學所發展出來的](https://zh.wikipedia.org/wiki/分析心理學 "wikilink")[MBTI](https://zh.wikipedia.org/wiki/MBTI "wikilink")、[凯尔西气质分类及](https://zh.wikipedia.org/wiki/凯尔西气质分类 "wikilink")[社會人格學的人格型態](https://zh.wikipedia.org/wiki/社會人格學 "wikilink")。\[1\]根據[大卫·凯尔西](https://zh.wikipedia.org/wiki/大卫·凯尔西 "wikilink")（David
-Keirsey）所述，INTP型的人屬於[理性型氣質及被稱為](https://zh.wikipedia.org/wiki/理性型 "wikilink")「架構師」（[Architect](https://zh.wikipedia.org/wiki/w:en:Architect_\(role_variant\) "wikilink")），在美國人口中约占3.3%。
+[Jung_1910-rotated.jpg](https://zh.wikipedia.org/wiki/File:Jung_1910-rotated.jpg "fig:Jung_1910-rotated.jpg") **INTP**（內向／直覺／思考／感知）是一種基於[榮格的](https://zh.wikipedia.org/wiki/榮格 "wikilink")[分析心理學所發展出來的](https://zh.wikipedia.org/wiki/分析心理學 "wikilink")[MBTI](https://zh.wikipedia.org/wiki/MBTI "wikilink")、[凯尔西气质分类及](https://zh.wikipedia.org/wiki/凯尔西气质分类 "wikilink")[社會人格學的人格型態](https://zh.wikipedia.org/wiki/社會人格學 "wikilink")。\[1\]根據[大卫·凯尔西](https://zh.wikipedia.org/wiki/大卫·凯尔西 "wikilink")（David Keirsey）所述，INTP型的人屬於[理性型氣質及被稱為](https://zh.wikipedia.org/wiki/理性型 "wikilink")「架構師」（[Architect](https://zh.wikipedia.org/wiki/w:en:Architect_\(role_variant\) "wikilink")），在美國人口中约占3.3%。
 
 ## MBTI偏好
 
@@ -11,8 +9,7 @@ Keirsey）所述，INTP型的人屬於[理性型氣質及被稱為](https://zh.w
 
 ## INTP的特征
 
-[Einstein1921_by_F_Schmutzer_4.jpg](https://zh.wikipedia.org/wiki/File:Einstein1921_by_F_Schmutzer_4.jpg "fig:Einstein1921_by_F_Schmutzer_4.jpg")
-INTP是安靜、有思想、善於解析的個體。他們傾向於独處很長時間，尋找問題的解決方案。他們對系統及事情如何運作十分好奇。因此，他們中經常有人從事和[科學](https://zh.wikipedia.org/wiki/科學 "wikilink")、[建築和](https://zh.wikipedia.org/wiki/建築 "wikilink")[法律相關的職業](../Page/法律.md "wikilink")。INTP通常在社交場合或照顧他人的職業中不會很自在，但他們喜歡那些和他們有相同興趣的同伴。無論對他們自己還是對别人，他們都推崇独立自主。當他們嘗試一件事的時候，可能會被他人阻攔要求他們改變。他們傾向於對[官僚主義](https://zh.wikipedia.org/wiki/官僚主義 "wikilink")、森嚴的[等級制度和](https://zh.wikipedia.org/wiki/等級制度 "wikilink")[辦公室政治不耐煩](../Page/辦公室政治.md "wikilink")。INTP極少在意頭銜和勳章，這些東西總是被他們認為是不正當的。在求知的過程中，INTP通常會懷疑權威。他們接受一個觀念，是因為其優點，而非因為傳統或權威。他們對非邏輯性，或成為求知業障的社交場合很少有耐心。這會讓[SJ型的人覺得他們古怪](https://zh.wikipedia.org/wiki/監護人_\(氣質類型\) "wikilink")，因為SJ型的人傾向於順從權威、傳統和群體。INTP喜歡在不拘禮節的情況下工作，和他人完全平等。\[6\]
+[Einstein1921_by_F_Schmutzer_4.jpg](https://zh.wikipedia.org/wiki/File:Einstein1921_by_F_Schmutzer_4.jpg "fig:Einstein1921_by_F_Schmutzer_4.jpg") INTP是安靜、有思想、善於解析的個體。他們傾向於独處很長時間，尋找問題的解決方案。他們對系統及事情如何運作十分好奇。因此，他們中經常有人從事和[科學](https://zh.wikipedia.org/wiki/科學 "wikilink")、[建築和](https://zh.wikipedia.org/wiki/建築 "wikilink")[法律](../Page/法律.md "wikilink")相關的職業。INTP通常在社交場合或照顧他人的職業中不會很自在，但他們喜歡那些和他們有相同興趣的同伴。無論對他們自己還是對别人，他們都推崇独立自主。當他們嘗試一件事的時候，可能會被他人阻攔要求他們改變。他們傾向於對[官僚主義](https://zh.wikipedia.org/wiki/官僚主義 "wikilink")、森嚴的[等級制度和](https://zh.wikipedia.org/wiki/等級制度 "wikilink")[辦公室政治](../Page/辦公室政治.md "wikilink")不耐煩。INTP極少在意頭銜和勳章，這些東西總是被他們認為是不正當的。在求知的過程中，INTP通常會懷疑權威。他們接受一個觀念，是因為其優點，而非因為傳統或權威。他們對非邏輯性，或成為求知業障的社交場合很少有耐心。這會讓[SJ型的人覺得他們古怪](https://zh.wikipedia.org/wiki/監護人_\(氣質類型\) "wikilink")，因為SJ型的人傾向於順從權威、傳統和群體。INTP喜歡在不拘禮節的情況下工作，和他人完全平等。\[6\]
 
 INTP通過清晰表述的原則來組織他們對任何話題的理解，他們自己也經常被理論結構所吸引。在自己鉸接起這些原則之後，他們將具備用簡單清晰的語言闡述任何複雜概念的能力，特别是通過寫作。同時，他們對複雜事物的捕捉能力也可能讓他們對簡單的概念作出過度細節化的解釋，而聽者則會認為INTP把事情比原本需要的弄得更复雜。對INTP來說，他們則是在提出所有相關的事物，或者試圖讓概念更加明確。\[7\]
 
@@ -53,15 +50,11 @@ Fe尋找社會上的聯繫，並用禮貌、體貼、得體的舉止營造和諧
 
 ## INTP 的類型動力學
 
-*類型動力學*指的是一個人格類型中四種認知功能的相互關係。不僅是字母簡單結合，人格類型創造一個相互交織的系統，理解和判斷解釋了類型之間大部分的相同和不同之處。不幸的是，類型動力學没有太多以經驗為依據的支持，來證實它作為一個科學理論的可行性。\[18\]
-雖然如此，它現在繼續深深扎根於邁爾斯-布里格斯學說研究者的團體之中。
+*類型動力學*指的是一個人格類型中四種認知功能的相互關係。不僅是字母簡單結合，人格類型創造一個相互交織的系統，理解和判斷解釋了類型之間大部分的相同和不同之處。不幸的是，類型動力學没有太多以經驗為依據的支持，來證實它作為一個科學理論的可行性。\[18\] 雖然如此，它現在繼續深深扎根於邁爾斯-布里格斯學說研究者的團體之中。
 
-比如說，考慮一下兩個被稱為*內傾思考型*的類型（**INTP**和[ISTP](../Page/ISTP.md "wikilink")）他們共有*主導的內傾思考*，這讓他們的內在可以可靠地領會隱含邏輯。ISTP
-們因為他們對外傾感覺的偏好，喜歡理解物質上的、機械性的系統。INTP因為第二功能是外傾直覺，喜歡理解理論上的系統。ISTP
-們通常擅長於利用任何他們手頭的工具，將可得到的工具利用到極致用以完成他們的目標，因為他們的外傾感覺。INTP
-們，和他們感覺型的表親一樣，也喜歡用正確的工具做正確的工作，但他們同時也用直覺來解決問題。他們利用“虛擬的”工具更加輕松，這也反映了他們對技術的喜愛。
+比如說，考慮一下兩個被稱為*內傾思考型*的類型（**INTP**和[ISTP](../Page/ISTP.md "wikilink")）他們共有*主導的內傾思考*，這讓他們的內在可以可靠地領會隱含邏輯。ISTP 們因為他們對外傾感覺的偏好，喜歡理解物質上的、機械性的系統。INTP因為第二功能是外傾直覺，喜歡理解理論上的系統。ISTP 們通常擅長於利用任何他們手頭的工具，將可得到的工具利用到極致用以完成他們的目標，因為他們的外傾感覺。INTP 們，和他們感覺型的表親一樣，也喜歡用正確的工具做正確的工作，但他們同時也用直覺來解決問題。他們利用“虛擬的”工具更加輕松，這也反映了他們對技術的喜愛。
 
-因為他們與生俱來即席創作的能力，INTP們會對[ESTJ們和](../Page/ESTJ.md "wikilink")[ISTJ們持續造成挫敗感](../Page/ISTJ.md "wikilink")。後者類型通常不能像INTP天生能做到的那樣，擁有跳躍性的直覺。同時，ESTJ們和ISTJ們很快就會注意到INTP不得不在一個作業的正中停下來研究那些之前被扔到一邊的說明指令，而SJ型則是在作業一開始就閱讀了。\[19\]
+因為他們與生俱來即席創作的能力，INTP們會對[ESTJ](../Page/ESTJ.md "wikilink")們和[ISTJ](../Page/ISTJ.md "wikilink")們持續造成挫敗感。後者類型通常不能像INTP天生能做到的那樣，擁有跳躍性的直覺。同時，ESTJ們和ISTJ們很快就會注意到INTP不得不在一個作業的正中停下來研究那些之前被扔到一邊的說明指令，而SJ型則是在作業一開始就閱讀了。\[19\]
 
 ## 相關條目
 
@@ -74,18 +67,13 @@ Fe尋找社會上的聯繫，並用禮貌、體貼、得體的舉止營造和諧
 ## 外部連結
 
   - <https://web.archive.org/web/20010410044720/http://www.geocities.com/lifexplore/intp.htm>
-  - [Description from
-    www.typelogic.com](http://www.typelogic.com/intp.html)
-  - [Description from
-    typetango.com](https://web.archive.org/web/20070706154552/http://www.typetango.com/intp-personality.php)
-  - [Description on
-    keirsey.com](https://web.archive.org/web/20070507102921/http://keirsey.com/personality/ntip.html)
-  - [Research on
-    INTPs](http://www.discoveryourpersonality.com/intp.html)
+  - [Description from www.typelogic.com](http://www.typelogic.com/intp.html)
+  - [Description from typetango.com](https://web.archive.org/web/20070706154552/http://www.typetango.com/intp-personality.php)
+  - [Description on keirsey.com](https://web.archive.org/web/20070507102921/http://keirsey.com/personality/ntip.html)
+  - [Research on INTPs](http://www.discoveryourpersonality.com/intp.html)
   - [INTP information and mailing list](http://intp.org)
 
-[Category:心理測試](https://zh.wikipedia.org/wiki/Category:心理測試 "wikilink")
-[Category:性格分類](https://zh.wikipedia.org/wiki/Category:性格分類 "wikilink")
+[Category:心理測試](https://zh.wikipedia.org/wiki/Category:心理測試 "wikilink") [Category:性格分類](https://zh.wikipedia.org/wiki/Category:性格分類 "wikilink")
 
 1.
 

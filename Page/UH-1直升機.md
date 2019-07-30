@@ -1,10 +1,6 @@
-[Huey2004-01-29.jpg](https://zh.wikipedia.org/wiki/File:Huey2004-01-29.jpg "fig:Huey2004-01-29.jpg")
-[Bell_UH-1D_SAR_LTG_61.jpg](https://zh.wikipedia.org/wiki/File:Bell_UH-1D_SAR_LTG_61.jpg "fig:Bell_UH-1D_SAR_LTG_61.jpg")
-[UH-1J_&_rapeling_infantry.JPG](https://zh.wikipedia.org/wiki/File:UH-1J_&_rapeling_infantry.JPG "fig:UH-1J_&_rapeling_infantry.JPG")
-[UH-1H_Cabin_Side_View_in_Songshan_Air_Force_Base_20110813.jpg](https://zh.wikipedia.org/wiki/File:UH-1H_Cabin_Side_View_in_Songshan_Air_Force_Base_20110813.jpg "fig:UH-1H_Cabin_Side_View_in_Songshan_Air_Force_Base_20110813.jpg")UH-1H\]\]
+[Huey2004-01-29.jpg](https://zh.wikipedia.org/wiki/File:Huey2004-01-29.jpg "fig:Huey2004-01-29.jpg") [Bell_UH-1D_SAR_LTG_61.jpg](https://zh.wikipedia.org/wiki/File:Bell_UH-1D_SAR_LTG_61.jpg "fig:Bell_UH-1D_SAR_LTG_61.jpg") [UH-1J_&_rapeling_infantry.JPG](https://zh.wikipedia.org/wiki/File:UH-1J_&_rapeling_infantry.JPG "fig:UH-1J_&_rapeling_infantry.JPG") [UH-1H_Cabin_Side_View_in_Songshan_Air_Force_Base_20110813.jpg](https://zh.wikipedia.org/wiki/File:UH-1H_Cabin_Side_View_in_Songshan_Air_Force_Base_20110813.jpg "fig:UH-1H_Cabin_Side_View_in_Songshan_Air_Force_Base_20110813.jpg")UH-1H\]\]
 
-**UH-1
-Iroquois**，是[美國的](https://zh.wikipedia.org/wiki/美國 "wikilink")[貝爾直升機公司所設計製造的軍用中型](https://zh.wikipedia.org/wiki/貝爾直升機公司 "wikilink")[通用](https://zh.wikipedia.org/wiki/通用直升機 "wikilink")[直升机](https://zh.wikipedia.org/wiki/直升机 "wikilink")，根据美军命名传统正式命名为“Iroquois”（為北美原住部族之一的[伊洛魁部落名稱](https://zh.wikipedia.org/wiki/伊洛魁部落 "wikilink")），而[贝尔直升机公司另起了一个绰号名為Huey](https://zh.wikipedia.org/wiki/贝尔直升机公司 "wikilink")（休伊），“休伊”这个名称更广为人知。UH-1直升機為多用途設計，其U代表通用（），從運補作業皆宜到攻擊任務。是美军批量装备的第一个搭载了[涡轮轴发动机的直升机](https://zh.wikipedia.org/wiki/涡轮轴发动机 "wikilink")。它的民用版本是[貝爾204/205](https://zh.wikipedia.org/wiki/貝爾204/205直升機 "wikilink")。在[越南战争中UH](../Page/越南战争.md "wikilink")-1直升机成为美军标志性代表形象出现媒体的新闻图片中。
+**UH-1 Iroquois**，是[美國的](https://zh.wikipedia.org/wiki/美國 "wikilink")[貝爾直升機公司所設計製造的軍用中型](https://zh.wikipedia.org/wiki/貝爾直升機公司 "wikilink")[通用](https://zh.wikipedia.org/wiki/通用直升機 "wikilink")[直升机](https://zh.wikipedia.org/wiki/直升机 "wikilink")，根据美军命名传统正式命名为“Iroquois”（為北美原住部族之一的[伊洛魁部落名稱](https://zh.wikipedia.org/wiki/伊洛魁部落 "wikilink")），而[贝尔直升机公司另起了一个绰号名為Huey](https://zh.wikipedia.org/wiki/贝尔直升机公司 "wikilink")（休伊），“休伊”这个名称更广为人知。UH-1直升機為多用途設計，其U代表通用（），從運補作業皆宜到攻擊任務。是美军批量装备的第一个搭载了[涡轮轴发动机的直升机](https://zh.wikipedia.org/wiki/涡轮轴发动机 "wikilink")。它的民用版本是[貝爾204/205](https://zh.wikipedia.org/wiki/貝爾204/205直升機 "wikilink")。在[越南战争](../Page/越南战争.md "wikilink")中UH-1直升机成为美军标志性代表形象出现媒体的新闻图片中。
 
 ## 研制歷史
 
@@ -18,8 +14,7 @@ UH-1直升機大量装备美军，在越南战争中成为美军不可或缺的�
 
 1960年美国陆军少将汉密尔顿·豪兹提出使用直升机实施兵力投送的战术设想。即地面作战部队的空中机动战术。1963年美国陆军在佐治亚本宁堡基地专门成立了第11陆航师接受UH-1直升機来验证这个理论，训练课题包括空中协同指挥、空中火力突击、空中补给、快速兵力投送以及战术侦查等等。1964年，第11师与第82空降师进行了对抗演习，显示了快速反应，长距离兵力投送效率突出，反应灵活的优点，但是也暴露了地面机动与直升机机动无法匹配，面对敌方重装部队火力时乘直升机机动的步兵较脆弱，受天气影响较大等缺陷。美军颁布命令改编第1空中骑兵师，其兵员主要来源之一是第11师，拥有的直升机以UH-1为主。
 
-1962年3月美国陆军第57医疗团是首支派往越南执行任务的UH-1直升機部队。
-1965年7月第1空中骑兵师派往越南。1965年底在[德浪河谷战斗中](https://zh.wikipedia.org/wiki/德浪河谷战役 "wikilink")，空骑1师一个营由直升机投送并支援之下与优势兵力北越军发生激战，经过三天战斗北越军主动撤退。此战后来被视为UH-1直升機机成名之战。
+1962年3月美国陆军第57医疗团是首支派往越南执行任务的UH-1直升機部队。 1965年7月第1空中骑兵师派往越南。1965年底在[德浪河谷战斗中](https://zh.wikipedia.org/wiki/德浪河谷战役 "wikilink")，空骑1师一个营由直升机投送并支援之下与优势兵力北越军发生激战，经过三天战斗北越军主动撤退。此战后来被视为UH-1直升機机成名之战。
 
 在越戰時期，2202名UH-1飛行員死亡，損失各型号UH-1約2500余架。
 
@@ -42,21 +37,17 @@ UH-1直升機大量装备美军，在越南战争中成为美军不可或缺的�
       - **TH-1F**：以UH-1F改成的美國空軍專用教練機。
   - **UH-1G**：UH-1D/H的[武裝直升機版本](https://zh.wikipedia.org/wiki/武裝直升機 "wikilink")，柬埔寨軍隊命名為UH-1G。
   - **UH-1H**：UH-1D後的改進版本，裝有XT-53L13发动机（最大功率1029千瓦），采用俗称“跷跷板”式的主旋翼，1968年首批UH-1H开始交付美军，共交付了5435架。
-      - **CUH-1H**：[加拿大軍隊對UH](../Page/加拿大軍隊.md "wikilink")-1H通用直升機命名為CUH-1H，後來又改為**CH-118**
-        \[1\]。
+      - **CUH-1H**：[加拿大軍隊](../Page/加拿大軍隊.md "wikilink")對UH-1H通用直升機命名為CUH-1H，後來又改為**CH-118** \[1\]。
       - **EH-1H**：二十二架加裝AN/ARQ-33（4架）及ARQ-33A無線電裝置及具HF/VHF截聽、VHF干擾能力的版本，在1983年[急怒行動時被](https://zh.wikipedia.org/wiki/急怒行動 "wikilink")[美國陸軍第82空降師及](https://zh.wikipedia.org/wiki/美國陸軍第82空降師 "wikilink")[第2裝甲師採用](https://zh.wikipedia.org/wiki/美軍第2裝甲師 "wikilink")，後被EH-60A取代。
       - **HH-1H**：UH-1H的醫療運輸（MEDEVAC）直升機版本，美國空軍的救援任務版本更裝有吊索。
       - **JUH-1H**：五架加裝SOTAS戰場監視系統（假想敵部隊）的UH-1H，外型故意模仿俄羅斯的[Mi-24](https://zh.wikipedia.org/wiki/Mi-24 "wikilink")。
       - **TH-1H**：美國空軍以UH-1H運兵直升機改裝，用於基本訓練用的教練機版本。
-  - **UH-1J**：由[日本](../Page/日本.md "wikilink")[富士重工業授權生產的UH](https://zh.wikipedia.org/wiki/富士重工業 "wikilink")-1H改良版，原名「UH-1改」，1989至2007年間量產，總計產製130架，每架單價12億日圓。UH-1J換用了和AH-1S相同的T53-K-703渦輪軸發動機（輸出功率1,800匹軸馬力／1342
-    kW），飛機零件80%以日本國產品製造，駕駛儀表板更換可被[夜視鏡觀看](../Page/夜視鏡.md "wikilink")，使J型具備有限度夜間操縱能力。民用型稱為貝爾205B。
-  - **HH-1K**：以UH-1B发展的[美國海軍的救援任務版本](../Page/美國海軍.md "wikilink")。1970年首批交付美国海军，共交付了27架。
+  - **UH-1J**：由[日本](../Page/日本.md "wikilink")[富士重工業授權生產的UH](https://zh.wikipedia.org/wiki/富士重工業 "wikilink")-1H改良版，原名「UH-1改」，1989至2007年間量產，總計產製130架，每架單價12億日圓。UH-1J換用了和AH-1S相同的T53-K-703渦輪軸發動機（輸出功率1,800匹軸馬力／1342 kW），飛機零件80%以日本國產品製造，駕駛儀表板更換可被[夜視鏡](../Page/夜視鏡.md "wikilink")觀看，使J型具備有限度夜間操縱能力。民用型稱為貝爾205B。
+  - **HH-1K**：以UH-1B发展的[美國海軍](../Page/美國海軍.md "wikilink")的救援任務版本。1970年首批交付美国海军，共交付了27架。
   - **TH-1L**：美國海軍以HH-1K改裝成教練機的版本。
       - **UH-1L**：TH-1L的通用直升機版本。
-  - **UH-1M**：以UH-1C的加裝新型夜视系统（INFANT）的武裝直升機版本，最初三架UH-1M曾被用於在東南亞的夜間行動（SEA
-    NITEOPS），因而又被稱為「」。
-  - **[UH-1N Twin
-    Huey](../Page/UH-1N雙休伊直升機.md "wikilink")**：最初的[貝爾212直升機的军用生產型](https://zh.wikipedia.org/wiki/貝爾212直升機 "wikilink")，以UH-1D为蓝本，裝有雙引擎的版本。换装两台普·惠公司PT-6系列涡轴发动机（总最大功率1,125千瓦）。1970年开始交付。
+  - **UH-1M**：以UH-1C的加裝新型夜视系统（INFANT）的武裝直升機版本，最初三架UH-1M曾被用於在東南亞的夜間行動（SEA NITEOPS），因而又被稱為「」。
+  - **[UH-1N Twin Huey](../Page/UH-1N雙休伊直升機.md "wikilink")**：最初的[貝爾212直升機的军用生產型](https://zh.wikipedia.org/wiki/貝爾212直升機 "wikilink")，以UH-1D为蓝本，裝有雙引擎的版本。换装两台普·惠公司PT-6系列涡轴发动机（总最大功率1,125千瓦）。1970年开始交付。
   - **UH-1P**：美國空軍用於特別行動（如心理戰、攻擊及隱蔽潛入／脫離任務）的UH-1F武器加强改裝版本。
   - **UH-1U**：一架用於反砲擊及反雷達干擾的測試型，在[愛德華空軍基地測試時墜毀](https://zh.wikipedia.org/wiki/愛德華空軍基地 "wikilink")。
   - **UH-1V**：美國陸軍的醫療運輸直升機。
@@ -68,8 +59,7 @@ UH-1直升機大量装备美军，在越南战争中成为美军不可或缺的�
 ### 其他軍用型號
 
   - **[貝爾204](https://zh.wikipedia.org/wiki/貝爾204/205直升機 "wikilink")**：貝爾直升機公司的官方命名，包括了UH-1A、UH-1B、UH-1C、UH-1E、UH-1F、HH-1K、UH-1L、UH-1P及UH-1。
-      - **奧斯塔-貝爾AB
-        204**：授權由[義大利](https://zh.wikipedia.org/wiki/義大利 "wikilink")[奧斯塔](https://zh.wikipedia.org/wiki/奧斯塔 "wikilink")（Agusta）生產的通用運輸直升機。
+      - **奧斯塔-貝爾AB 204**：授權由[義大利](https://zh.wikipedia.org/wiki/義大利 "wikilink")[奧斯塔](https://zh.wikipedia.org/wiki/奧斯塔 "wikilink")（Agusta）生產的通用運輸直升機。
       - **奧斯塔-貝爾AB 204AS**：AB 204的反潛／水面作戰直升機版本。
       - **富士-貝爾204B-2**：授權[日本](../Page/日本.md "wikilink")[富士重工生產的通用運輸直升機](https://zh.wikipedia.org/wiki/富士重工 "wikilink")，由日本陸上自衛隊採用版本，命名為「鵲」。
 
@@ -77,7 +67,7 @@ UH-1直升機大量装备美军，在越南战争中成为美军不可或缺的�
 
   - **[貝爾205](https://zh.wikipedia.org/wiki/貝爾204/205直升機 "wikilink")**：貝爾直升機公司對UH-1D及UH-1H的官方命名。
       - **貝爾205A-1**：以UH-1H改進而成通用運輸直升機。
-      - **貝爾205A-1A**：[以色列版本](../Page/以色列.md "wikilink")，裝有武器系統及軍用航電設備的205A-1。
+      - **貝爾205A-1A**：[以色列](../Page/以色列.md "wikilink")版本，裝有武器系統及軍用航電設備的205A-1。
       - **貝爾205**：授權由義大利奧斯塔生產的通用運輸直升機。
   - **貝爾Huey II**：UH-1H的重新設計版本，大量內部零件升級。
 
@@ -91,8 +81,7 @@ UH-1直升機大量装备美军，在越南战争中成为美军不可或缺的�
 
 ## 規格（UH-1D）
 
-[Bell_UH-1_IROQUOIS.png](https://zh.wikipedia.org/wiki/File:Bell_UH-1_IROQUOIS.png "fig:Bell_UH-1_IROQUOIS.png")
-[M16_Schematic.jpg](https://zh.wikipedia.org/wiki/File:M16_Schematic.jpg "fig:M16_Schematic.jpg")
+[Bell_UH-1_IROQUOIS.png](https://zh.wikipedia.org/wiki/File:Bell_UH-1_IROQUOIS.png "fig:Bell_UH-1_IROQUOIS.png") [M16_Schematic.jpg](https://zh.wikipedia.org/wiki/File:M16_Schematic.jpg "fig:M16_Schematic.jpg")
 
 |       | 發動機   |
 | ----- | ----- |
@@ -204,22 +193,13 @@ UH-1直升機大量装备美军，在越南战争中成为美军不可或缺的�
 
 ## 外部链接
 
-  - [UH-1
-    Huey](https://web.archive.org/web/20110405092751/http://www.vectorsite.net/avhuey.html)
-  - [AF.mil-UH-1N
-    HUEY](https://web.archive.org/web/20070613004018/http://www.af.mil/factsheets/factsheet.asp?id=130)
+  - [UH-1 Huey](https://web.archive.org/web/20110405092751/http://www.vectorsite.net/avhuey.html)
+  - [AF.mil-UH-1N HUEY](https://web.archive.org/web/20070613004018/http://www.af.mil/factsheets/factsheet.asp?id=130)
 
-[Category:美國軍用直升機](https://zh.wikipedia.org/wiki/Category:美國軍用直升機 "wikilink")
-[Category:越南戰爭](https://zh.wikipedia.org/wiki/Category:越南戰爭 "wikilink")
-[Category:中華民國陸軍航空器](https://zh.wikipedia.org/wiki/Category:中華民國陸軍航空器 "wikilink")
+[Category:美國軍用直升機](https://zh.wikipedia.org/wiki/Category:美國軍用直升機 "wikilink") [Category:越戰武器](https://zh.wikipedia.org/wiki/Category:越戰武器 "wikilink") [Category:中華民國陸軍航空器](https://zh.wikipedia.org/wiki/Category:中華民國陸軍航空器 "wikilink")
 
-1.  [Canadian DND Bell CH-118 Iroquois
-    webpage（於2007年8月30日存取）](http://www.airforce.forces.gc.ca/equip/historical/iroquoislst_e.asp)
-
-2.  [UH-1H直昇機（1969\~1976）](http://www.aidc.com.tw/tw/services-1-1.asp?NumberID=s107)
-    ，漢翔公司
+1.  [Canadian DND Bell CH-118 Iroquois webpage（於2007年8月30日存取）](http://www.airforce.forces.gc.ca/equip/historical/iroquoislst_e.asp)
+2.  [UH-1H直昇機（1969\~1976）](http://www.aidc.com.tw/tw/services-1-1.asp?NumberID=s107) ，漢翔公司
 3.  [在台服役近50年　UH-1H通用直升機正式解除戰備](https://tw.news.appledaily.com/politics/realtime/20190206/1513663/)
-4.  [空勤UH-1H剩1個月除役
-    最後搜救綜合演練曝光](https://news.ltn.com.tw/news/life/breakingnews/2262064)
-5.  [陸航UH-1H服役近50年
-    汰除沒除役儀式令人憾](https://udn.com/news/story/10930/3736842?fbclid=IwAR0_oeZlEBmpxUv5eRnhCF9ovfu1cfAsdBxOUR9jVzR_7dLRa7VFS5qgLe4)
+4.  [空勤UH-1H剩1個月除役 最後搜救綜合演練曝光](https://news.ltn.com.tw/news/life/breakingnews/2262064)
+5.  [陸航UH-1H服役近50年 汰除沒除役儀式令人憾](https://udn.com/news/story/10930/3736842?fbclid=IwAR0_oeZlEBmpxUv5eRnhCF9ovfu1cfAsdBxOUR9jVzR_7dLRa7VFS5qgLe4)

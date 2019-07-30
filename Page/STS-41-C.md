@@ -8,7 +8,4 @@
   - **[詹姆斯·范·霍夫腾](https://zh.wikipedia.org/wiki/詹姆斯·范·霍夫腾 "wikilink")**（，曾执行以及任务），任务专家
   - **[特里·哈特](../Page/特里·哈特.md "wikilink")**（，曾执行任务），任务专家
 
-[Category:1984年佛罗里达州](https://zh.wikipedia.org/wiki/Category:1984年佛罗里达州 "wikilink")
-[Category:1984年科學](https://zh.wikipedia.org/wiki/Category:1984年科學 "wikilink")
-[Category:挑战者号航天飞机任务](https://zh.wikipedia.org/wiki/Category:挑战者号航天飞机任务 "wikilink")
-[Category:1984年4月](https://zh.wikipedia.org/wiki/Category:1984年4月 "wikilink")
+[Category:1984年佛罗里达州](https://zh.wikipedia.org/wiki/Category:1984年佛罗里达州 "wikilink") [Category:1984年科學](https://zh.wikipedia.org/wiki/Category:1984年科學 "wikilink") [Category:挑战者号航天飞机任务](https://zh.wikipedia.org/wiki/Category:挑战者号航天飞机任务 "wikilink") [Category:1984年4月](https://zh.wikipedia.org/wiki/Category:1984年4月 "wikilink")

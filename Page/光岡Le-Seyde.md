@@ -1,26 +1,22 @@
-**Le-Seyde**（****）為[光岡汽車所推出的仿古典豪華作品車輛](../Page/光岡汽車.md "wikilink")。車輛設計以Mercedes-Benz
-500K為藍本。
+**Le-Seyde**（****）為[光岡汽車](../Page/光岡汽車.md "wikilink")所推出的仿古典豪華作品車輛。車輛設計以Mercedes-Benz 500K為藍本。
 
 ## 車輛歷史
 
 ### 車名語源
 
-生活、第二、夢想（Life、Second、Dream）。第二人生，追求貪得無厭的夢想，一邊嚐自由，一邊歌頌的人生。人生＝Life、第二的夢想＝Second
-Dream，從簡短的大寫字母語意，賦予新創的詞彙。
+生活、第二、夢想（Life、Second、Dream）。第二人生，追求貪得無厭的夢想，一邊嚐自由，一邊歌頌的人生。人生＝Life、第二的夢想＝Second Dream，從簡短的大寫字母語意，賦予新創的詞彙。
 
 ### 歷代車輛
 
 #### Le-Seyde（1990年－2000年）
 
-1990年5月，原創車輛「Le-Seyde」（）發表。限量販售500台（四天內，全部預售完畢）。車輛以Nissan Silvia
-S13型（CA18DE）為基礎，車身前後的車體鈑件曲線部份設計變更，充份彰顯復古優雅主義。
+1990年5月，原創車輛「Le-Seyde」（）發表。限量販售500台（四天內，全部預售完畢）。車輛以Nissan Silvia S13型（CA18DE）為基礎，車身前後的車體鈑件曲線部份設計變更，充份彰顯復古優雅主義。
 
 2000年12月，停止生產。
 
 #### New Le-Seyde（2000年－2004年）
 
-2000年11月，原創車輛「New Le-Seyde」（）發表。限量販售100台。車輛以Nissan Silvia
-S15型（SR20DE）為基礎，車身前後的車體鈑件曲線部份設計變更，充份彰顯復古優雅主義\[1\]\[2\]。
+2000年11月，原創車輛「New Le-Seyde」（）發表。限量販售100台。車輛以Nissan Silvia S15型（SR20DE）為基礎，車身前後的車體鈑件曲線部份設計變更，充份彰顯復古優雅主義\[1\]\[2\]。
 
 2004年4月，停止生產。
 
@@ -28,9 +24,7 @@ S15型（SR20DE）為基礎，車身前後的車體鈑件曲線部份設計變�
 
 #### Le-Seyde Convertible
 
-2001年10月27日，第35屆「東京車展」會場裏，初次現身。展示以「New
-Le-Seyde」為基礎，重新修改的[概念車型](../Page/概念車.md "wikilink")「Le-Seyde
-Convertible」（）。
+2001年10月27日，第35屆「東京車展」會場裏，初次現身。展示以「New Le-Seyde」為基礎，重新修改的[概念車](../Page/概念車.md "wikilink")型「Le-Seyde Convertible」（）。
 
   - 動力系統：使用Nissan Silvia S15型的動力系統。
   - 底盤基礎：使用Nissan Silvia S15型的底盤基礎，外觀上覆加自製車身。
@@ -91,14 +85,9 @@ Convertible」（）。
 ## 外部連結
 
   - [光岡自動車](http://www.mitsuoka-motor.com)
-  - [New
-    Le-Seyde](https://web.archive.org/web/20070705085912/http://www.mitsuoka-motor.com/lineup/leseyde/)
+  - [New Le-Seyde](https://web.archive.org/web/20070705085912/http://www.mitsuoka-motor.com/lineup/leseyde/)
 
-[Category:光岡汽車](https://zh.wikipedia.org/wiki/Category:光岡汽車 "wikilink")
-[Category:復古車](https://zh.wikipedia.org/wiki/Category:復古車 "wikilink")
+[Category:光岡汽車](https://zh.wikipedia.org/wiki/Category:光岡汽車 "wikilink") [Category:復古車](https://zh.wikipedia.org/wiki/Category:復古車 "wikilink")
 
-1.  [古香古色顯豪華
-    光岡LE-SEYDE復古登場](http://www.gdnet.com.cn/hottopic/2004/1140/1124-42.htm)
-    ，〈[新浪網](https://zh.wikipedia.org/wiki/新浪網 "wikilink")〉
-2.  [光岡汽車設計師松井茂樹：改裝車的前景光明](http://auto.sina.com/news/2004-11-25/115687958.shtml)
-    ，〈大洋網〉
+1.  [古香古色顯豪華 光岡LE-SEYDE復古登場](http://www.gdnet.com.cn/hottopic/2004/1140/1124-42.htm) ，〈[新浪網](https://zh.wikipedia.org/wiki/新浪網 "wikilink")〉
+2.  [光岡汽車設計師松井茂樹：改裝車的前景光明](http://auto.sina.com/news/2004-11-25/115687958.shtml) ，〈大洋網〉

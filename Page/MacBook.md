@@ -1,57 +1,28 @@
 {{ otheruses | MacBook (Retina显示屏) }}
 
-**MacBook**是[苹果电脑所开发推出的](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[笔记型](../Page/筆記型電腦.md "wikilink")[麥金塔電腦](https://zh.wikipedia.org/wiki/麥金塔電腦 "wikilink")（Macintosh）。它最早于2006年5月推出，用以取代[iBook
-G4以及系列](https://zh.wikipedia.org/wiki/iBook "wikilink")12英寸[PowerBook系列笔记本电脑](../Page/PowerBook.md "wikilink")。MacBook是[MacBook
-家族的一部分](https://zh.wikipedia.org/wiki/MacBook系列 "wikilink")，其主要面向教育与消费者市场。
+**MacBook**是[苹果电脑所开发推出的](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[笔记型](../Page/筆記型電腦.md "wikilink")[麥金塔電腦](https://zh.wikipedia.org/wiki/麥金塔電腦 "wikilink")（Macintosh）。它最早于2006年5月推出，用以取代[iBook G4以及系列](https://zh.wikipedia.org/wiki/iBook "wikilink")12英寸[PowerBook](../Page/PowerBook.md "wikilink")系列笔记本电脑。MacBook是[MacBook 家族的一部分](https://zh.wikipedia.org/wiki/MacBook系列 "wikilink")，其主要面向教育与消费者市场。
 
-MacBook有4个独立设计。第一代中使用的是以iBook G4为蓝本，使用结合聚碳酸酯和玻璃纤维的白色或黑色外壳，是苹果第一个搭载
-[Intel](https://zh.wikipedia.org/wiki/Intel "wikilink") [Core
-Duo](https://zh.wikipedia.org/wiki/Core_Duo "wikilink")
-处理器的笔记型电脑。第二代在2008年10月與15寸 [MacBook
-Pro](../Page/MacBook_Pro.md "wikilink") 一同推出，采用了类似15寸 [MacBook
-Pro](../Page/MacBook_Pro.md "wikilink") 的一体式铝制外壳，但移除了
-[FireWire](https://zh.wikipedia.org/wiki/FireWire "wikilink")，以降低价格。FireWire
-的缺乏使客户抱怨，導致 MacBook 销售不佳。第三代在2009年1月推出，再次使用了聚碳酸酯外壳，并重新添加了
-FireWire。FireWire 是在2009年底发布的更新版本再度被移除。MacBook系列与入門級的[MacBook
-Air系列和专业級的](../Page/MacBook_Air.md "wikilink")[MacBook
-Pro系列組成完整的產品線](../Page/MacBook_Pro.md "wikilink")。
+MacBook有4个独立设计。第一代中使用的是以iBook G4为蓝本，使用结合聚碳酸酯和玻璃纤维的白色或黑色外壳，是苹果第一个搭载 [Intel](https://zh.wikipedia.org/wiki/Intel "wikilink") [Core Duo](https://zh.wikipedia.org/wiki/Core_Duo "wikilink") 处理器的笔记型电脑。第二代在2008年10月與15寸 [MacBook Pro](../Page/MacBook_Pro.md "wikilink") 一同推出，采用了类似15寸 [MacBook Pro](../Page/MacBook_Pro.md "wikilink") 的一体式铝制外壳，但移除了 [FireWire](https://zh.wikipedia.org/wiki/FireWire "wikilink")，以降低价格。FireWire 的缺乏使客户抱怨，導致 MacBook 销售不佳。第三代在2009年1月推出，再次使用了聚碳酸酯外壳，并重新添加了 FireWire。FireWire 是在2009年底发布的更新版本再度被移除。MacBook系列与入門級的[MacBook Air系列和专业級的](../Page/MacBook_Air.md "wikilink")[MacBook Pro系列組成完整的產品線](../Page/MacBook_Pro.md "wikilink")。
 
-由于消费者更青睐[MacBook
-Air](../Page/MacBook_Air.md "wikilink")，MacBook產品系列于2011年7月20日正式被苹果终止\[1\]。不过，苹果仍然向教育机构以
-US$899 的价格出售 MacBook
-直到2012年2月。\[2\]。在2015年4月10日，蘋果發表年度新產品，重新導入MacBook系列。对于新款的
-MacBook 系列，请参见[MacBook
-(Retina显示屏)](../Page/MacBook_\(Retina显示屏\).md "wikilink")。
+由于消费者更青睐[MacBook Air](../Page/MacBook_Air.md "wikilink")，MacBook產品系列于2011年7月20日正式被苹果终止\[1\]。不过，苹果仍然向教育机构以 US$899 的价格出售 MacBook 直到2012年2月。\[2\]。在2015年4月10日，蘋果發表年度新產品，重新導入MacBook系列。对于新款的 MacBook 系列，请参见[MacBook (Retina显示屏)](../Page/MacBook_\(Retina显示屏\).md "wikilink")。
 
 ## 第一代
 
-[MacBook.jpg](https://zh.wikipedia.org/wiki/File:MacBook.jpg "fig:MacBook.jpg")
-第一代 MacBook 的外觀大致保留其前身，即 iBook G4
-的設計。除了白色外壳之外，苹果电脑也新增了黑色的选择。此决定遭到了许多反弹，因为在几乎相同的规格下，黑色的却比白色外壳还贵了150美元。\[3\]更有苹果电脑愛好者認為黑色MacBook看來极像設計平凡的[筆記型電腦](../Page/筆記型電腦.md "wikilink")，與[Dell或](https://zh.wikipedia.org/wiki/Dell "wikilink")[惠普的產品外觀無異](../Page/惠普.md "wikilink")。2008年10月Apple公司已經停止生產黑色的MacBook了。
+[MacBook.jpg](https://zh.wikipedia.org/wiki/File:MacBook.jpg "fig:MacBook.jpg") 第一代 MacBook 的外觀大致保留其前身，即 iBook G4 的設計。除了白色外壳之外，苹果电脑也新增了黑色的选择。此决定遭到了许多反弹，因为在几乎相同的规格下，黑色的却比白色外壳还贵了150美元。\[3\]更有苹果电脑愛好者認為黑色MacBook看來极像設計平凡的[筆記型電腦](../Page/筆記型電腦.md "wikilink")，與[Dell或](https://zh.wikipedia.org/wiki/Dell "wikilink")[惠普](../Page/惠普.md "wikilink")的產品外觀無異。2008年10月Apple公司已經停止生產黑色的MacBook了。
 
 MacBook为苹果电脑第一种使用镜面屏幕的笔记型电脑，而这之前的笔记型电脑均为雾面屏幕。与雾面屏幕不同的是，镜面屏幕可产生更大的亮度，许多使用者抱怨，使用镜面屏幕造成了不适的画面反射，若是在采光较明亮的场合，镜面屏幕可能比雾面屏幕更难以观看。苹果电脑此项使用镜面屏幕的措施与其它的PC厂商类似，如[Sony的](https://zh.wikipedia.org/wiki/Sony "wikilink")[XBRITE屏幕](https://zh.wikipedia.org/wiki/XBRITE "wikilink")。
 
 ### 绘图运算
 
-[MacBook_white.png](https://zh.wikipedia.org/wiki/File:MacBook_white.png "fig:MacBook_white.png")
-MacBook不像其它的麦金塔笔记型电脑有单独的GPU，它使用Intel GMA
-X3100的集成显卡而不是已经被取代的iBook所内建的[ATI
-Radeon系列](../Page/Radeon.md "wikilink")。苹果电脑也不再于网站上强调MacBook的绘图运算技术。Intel的集成显卡在过去饱受批评，因为在执行3D游戏时不如独立显卡\[4\]。
+[MacBook_white.png](https://zh.wikipedia.org/wiki/File:MacBook_white.png "fig:MacBook_white.png") MacBook不像其它的麦金塔笔记型电脑有单独的GPU，它使用Intel GMA X3100的集成显卡而不是已经被取代的iBook所内建的[ATI Radeon系列](../Page/Radeon.md "wikilink")。苹果电脑也不再于网站上强调MacBook的绘图运算技术。Intel的集成显卡在过去饱受批评，因为在执行3D游戏时不如独立显卡\[4\]。
 
-苹果电脑使用Intel的绘图技术主要是成本考量，Intel
-GMA晶片比ATI与[nVidia的都来的便宜](https://zh.wikipedia.org/wiki/nVidia "wikilink")。\[5\]然而Intel
-GMA X3100缺少内建影像记忆体，并裁减其架构，使得在处理影像上比ATI与nVidia更省电省热（不需要散热风扇）。\[6\]
+苹果电脑使用Intel的绘图技术主要是成本考量，Intel GMA晶片比ATI与[nVidia的都来的便宜](https://zh.wikipedia.org/wiki/nVidia "wikilink")。\[5\]然而Intel GMA X3100缺少内建影像记忆体，并裁减其架构，使得在处理影像上比ATI与nVidia更省电省热（不需要散热风扇）。\[6\]
 
-2008年10月更新的新一代MacBook全线采用了NVIDIA的集成显卡（MacBook
-Pro则采用了NVIDIA独立显卡与集成显卡并存的双显卡模式），苹果公司称与上一代采用Intel
-GMA X3100集成显卡相比，新的MacBook在图形性能上提高了5倍，“可以完美运行大型3D游戏”。 据说，其绘图运算表现与MacBook
-Pro雷同。\[7\]
+2008年10月更新的新一代MacBook全线采用了NVIDIA的集成显卡（MacBook Pro则采用了NVIDIA独立显卡与集成显卡并存的双显卡模式），苹果公司称与上一代采用Intel GMA X3100集成显卡相比，新的MacBook在图形性能上提高了5倍，“可以完美运行大型3D游戏”。 据说，其绘图运算表现与MacBook Pro雷同。\[7\]
 
 ### 使用者維修便利性
 
-MacBook在維修便利性方面，与它的前身 iBook
-有显著的不同。重新设计过的键盘與电脑的主体合而為一，使用者無法輕易地移除或替换。对照之下，MacBook的內建硬碟可以容易地从底部进行替换，RAM
-（動態記憶體模組）也是如此。現已停產的 iBook要替换內建硬碟可沒這麼簡單，得由認可的維修人員進行，否則會喪失保固。\[8\]
+MacBook在維修便利性方面，与它的前身 iBook 有显著的不同。重新设计过的键盘與电脑的主体合而為一，使用者無法輕易地移除或替换。对照之下，MacBook的內建硬碟可以容易地从底部进行替换，RAM （動態記憶體模組）也是如此。現已停產的 iBook要替换內建硬碟可沒這麼簡單，得由認可的維修人員進行，否則會喪失保固。\[8\]
 
 ### 技術規格
 
@@ -295,22 +266,13 @@ MacBook在維修便利性方面，与它的前身 iBook
 
 ## 第二代
 
-[Aluminium_MacBook.png](https://zh.wikipedia.org/wiki/File:Aluminium_MacBook.png "fig:Aluminium_MacBook.png")
-2008年10月14日，苹果公司宣布了第二代的MacBook，並配备了新的[nVidia芯片](https://zh.wikipedia.org/wiki/nVidia "wikilink")。该芯片组配有1066
-MHz的[前端总线](../Page/前端总线.md "wikilink")，利用DDR3系统記憶體和[nVidia](https://zh.wikipedia.org/wiki/nVidia "wikilink")
-[GeForce](../Page/GeForce.md "wikilink")
-9400M[顯示卡](https://zh.wikipedia.org/wiki/顯示卡 "wikilink")，比原来的MacBook的[英特尔芯片组快五倍](../Page/英特尔.md "wikilink")。其他的变化包括一个使用LED背光的显示器和无砷玻璃的LED背光灯，一个新的Mini
-DisplayPort端口（取代第一代的MacBook的Mini-DVI端口），多点玻璃触控板作为鼠标按钮，并取消了[FireWire
-400端口](https://zh.wikipedia.org/wiki/FireWire "wikilink")。
+[Aluminium_MacBook.png](https://zh.wikipedia.org/wiki/File:Aluminium_MacBook.png "fig:Aluminium_MacBook.png") 2008年10月14日，苹果公司宣布了第二代的MacBook，並配备了新的[nVidia芯片](https://zh.wikipedia.org/wiki/nVidia "wikilink")。该芯片组配有1066 MHz的[前端总线](../Page/前端总线.md "wikilink")，利用DDR3系统記憶體和[nVidia](https://zh.wikipedia.org/wiki/nVidia "wikilink") [GeForce](../Page/GeForce.md "wikilink") 9400M[顯示卡](https://zh.wikipedia.org/wiki/顯示卡 "wikilink")，比原来的MacBook的[英特尔](../Page/英特尔.md "wikilink")芯片组快五倍。其他的变化包括一个使用LED背光的显示器和无砷玻璃的LED背光灯，一个新的Mini DisplayPort端口（取代第一代的MacBook的Mini-DVI端口），多点玻璃触控板作为鼠标按钮，并取消了[FireWire 400端口](https://zh.wikipedia.org/wiki/FireWire "wikilink")。
 
-2009年6月Apple公司將其銀色外殼MacBook改名為13吋[MacBook
-Pro](../Page/MacBook_Pro.md "wikilink")。而白色的MacBook是當時唯一一款還在生產的MacBook。
+2009年6月Apple公司將其銀色外殼MacBook改名為13吋[MacBook Pro](../Page/MacBook_Pro.md "wikilink")。而白色的MacBook是當時唯一一款還在生產的MacBook。
 
 ### 设计
 
-第二代MacBook设的設计融合了[MacBook
-Air的设计风格](../Page/MacBook_Air.md "wikilink")，並也在MacBook
-Pro的设计上使用。这种設計比原来的第一代聚碳酸酯MacBook更薄，利用了一个一体型，具有锥形边缘的铝合金外壳。高端型号的键盘包括背光燈。
+第二代MacBook设的設计融合了[MacBook Air的设计风格](../Page/MacBook_Air.md "wikilink")，並也在MacBook Pro的设计上使用。这种設計比原来的第一代聚碳酸酯MacBook更薄，利用了一个一体型，具有锥形边缘的铝合金外壳。高端型号的键盘包括背光燈。
 
 ### 技術規格
 
@@ -410,25 +372,15 @@ PC3-8500 DDR3 SDRAM (1066 MHz)</p></td>
 
 ## 第三代
 
-2009年10月20日，[苹果公司发布了新的第三代聚碳酸酯一体式机身设计的MacBook](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")，更快的DDR3[記憶體](https://zh.wikipedia.org/wiki/記憶體 "wikilink")，多点触摸触控板，一个LED背光显示屏，并内置7小时的电池。聚碳酸酯一体成型机身的MacBook，像它的上一代铝製機身，沒有[FireWire](https://zh.wikipedia.org/wiki/FireWire "wikilink")，但像13英寸的[MacBook
-Pro一樣](../Page/MacBook_Pro.md "wikilink")，設數碼/模擬音訊輸入/出端口。于2010年5月18日，MacBook被更新了，配置了更快的处理器，更快的显示卡，提高了电池的使用時間，并通过[Mini
-DisplayPort接口通过音频的能力](../Page/Mini_DisplayPort.md "wikilink")。
+2009年10月20日，[苹果公司发布了新的第三代聚碳酸酯一体式机身设计的MacBook](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")，更快的DDR3[記憶體](https://zh.wikipedia.org/wiki/記憶體 "wikilink")，多点触摸触控板，一个LED背光显示屏，并内置7小时的电池。聚碳酸酯一体成型机身的MacBook，像它的上一代铝製機身，沒有[FireWire](https://zh.wikipedia.org/wiki/FireWire "wikilink")，但像13英寸的[MacBook Pro一樣](../Page/MacBook_Pro.md "wikilink")，設數碼/模擬音訊輸入/出端口。于2010年5月18日，MacBook被更新了，配置了更快的处理器，更快的显示卡，提高了电池的使用時間，并通过[Mini DisplayPort接口通过音频的能力](../Page/Mini_DisplayPort.md "wikilink")。
 
 ### 設計
 
-与MacBook Pro一样，MacBook使用了在[MacBook
-Air上首次出现的锥形设计](../Page/MacBook_Air.md "wikilink")；但是，比起以前的MacBook的边缘的四隻角，新設計的四角顯得更圓滑。第三代MacBook有一个全白的防指纹的表面，不同于其前代的灰色表面，并使用了在MacBook
-Pro上的一个多点触摸玻璃触控板。视频可以透過Mini DisplayPort端口输出。
-MacBook的底部设有橡胶防滑涂层。苹果公司2009年第三代MacBook的内置电池和今年早些时候推出的MacBook
-Pro的電池，可使用7小时，跟5小时的舊款機型相比。然而，在Macworld进行的测试中，发现當在最高亮度下播放视频，而AirPort關閉的情況下，电池只持续约四小时。
+与MacBook Pro一样，MacBook使用了在[MacBook Air上首次出现的锥形设计](../Page/MacBook_Air.md "wikilink")；但是，比起以前的MacBook的边缘的四隻角，新設計的四角顯得更圓滑。第三代MacBook有一个全白的防指纹的表面，不同于其前代的灰色表面，并使用了在MacBook Pro上的一个多点触摸玻璃触控板。视频可以透過Mini DisplayPort端口输出。 MacBook的底部设有橡胶防滑涂层。苹果公司2009年第三代MacBook的内置电池和今年早些时候推出的MacBook Pro的電池，可使用7小时，跟5小时的舊款機型相比。然而，在Macworld进行的测试中，发现當在最高亮度下播放视频，而AirPort關閉的情況下，电池只持续约四小时。
 
 ### 停產
 
-隨著蘋果公司於2011年7月20日全面更新生産線，推出[OS X
-Lion和新的](https://zh.wikipedia.org/wiki/OS_X_Lion "wikilink")[MacBook
-Air及](../Page/MacBook_Air.md "wikilink")[Mac
-mini](https://zh.wikipedia.org/wiki/Mac_mini "wikilink")，之前唯一還在生產銷售的白色MacBook正式從官方網站上消失，標誌著延續六年多的MacBook生産線全面取消及被多種規格的MacBook
-Pro及MacBook Air所取代。
+隨著蘋果公司於2011年7月20日全面更新生産線，推出[OS X Lion和新的](https://zh.wikipedia.org/wiki/OS_X_Lion "wikilink")[MacBook Air及](../Page/MacBook_Air.md "wikilink")[Mac mini](https://zh.wikipedia.org/wiki/Mac_mini "wikilink")，之前唯一還在生產銷售的白色MacBook正式從官方網站上消失，標誌著延續六年多的MacBook生産線全面取消及被多種規格的MacBook Pro及MacBook Air所取代。
 
 ### 技術規格
 
@@ -563,13 +515,10 @@ Pro及MacBook Air所取代。
 
 ## 外部链接
 
-  - [Intel GM965
-    详细资料](http://www.intel.com/products/chipsets/GM965/index.htm)
-  - [LoopRumors -
-    开箱照片](https://web.archive.org/web/20060601144542/http://looprumors.com/macbookphotos.php)
+  - [Intel GM965 详细资料](http://www.intel.com/products/chipsets/GM965/index.htm)
+  - [LoopRumors - 开箱照片](https://web.archive.org/web/20060601144542/http://looprumors.com/macbookphotos.php)
   - [iFixit - MacBook更新指南](http://iFixit.com/Guide/86.0.0.html)
-  - [Kodawarisan - MacBook
-    分解](http://www.kodawarisan.com/macbook/macbook001.html)
+  - [Kodawarisan - MacBook 分解](http://www.kodawarisan.com/macbook/macbook001.html)
 
 ## 参见
 
@@ -577,30 +526,23 @@ Pro及MacBook Air所取代。
   - [MacBook Pro](../Page/MacBook_Pro.md "wikilink")
   - [MacBook Air](../Page/MacBook_Air.md "wikilink")
   - [蘋果電腦機種的比較](https://zh.wikipedia.org/wiki/蘋果電腦機種的比較 "wikilink")
-  - [MacBook
-    (Retina顯示屏)](https://zh.wikipedia.org/wiki/MacBook_\(Retina顯示屏\) "wikilink")
+  - [MacBook (Retina顯示屏)](https://zh.wikipedia.org/wiki/MacBook_\(Retina顯示屏\) "wikilink")
 
 {{-}}
 
-[Category:多點觸控](https://zh.wikipedia.org/wiki/Category:多點觸控 "wikilink")
-[Category:麦金塔](https://zh.wikipedia.org/wiki/Category:麦金塔 "wikilink")
-[Category:2006年面世的產品](https://zh.wikipedia.org/wiki/Category:2006年面世的產品 "wikilink")
+[Category:多點觸控](https://zh.wikipedia.org/wiki/Category:多點觸控 "wikilink") [Category:麦金塔](https://zh.wikipedia.org/wiki/Category:麦金塔 "wikilink") [Category:2006年面世的產品](https://zh.wikipedia.org/wiki/Category:2006年面世的產品 "wikilink")
 
 1.
 
 2.
 
-3.  [Ars Technica，评论：Apple
-    MacBook，2006年5月18日](http://arstechnica.com/reviews/hardware/macbook.ars)
+3.  [Ars Technica，评论：Apple MacBook，2006年5月18日](http://arstechnica.com/reviews/hardware/macbook.ars)
 
-4.  [Tom's
-    Hardware，Intel的集成显卡足够执行游戏吗？，2005年9月15日](http://www.tomshardware.com/2005/09/15/are_intel/)
+4.  [Tom's Hardware，Intel的集成显卡足够执行游戏吗？，2005年9月15日](http://www.tomshardware.com/2005/09/15/are_intel/)
 
-5.  [The
-    Inquirer，Intel对Nvidia与ATI具威胁，2005年9月16日](http://theinquirer.net/?article=24729)
+5.  [The Inquirer，Intel对Nvidia与ATI具威胁，2005年9月16日](http://theinquirer.net/?article=24729)
 
-6.  [Intel.com — IntelGMA
-    X3100绘图运算](http://www.intel.com/products/chipsets/GM965/index.htm)
+6.  [Intel.com — IntelGMA X3100绘图运算](http://www.intel.com/products/chipsets/GM965/index.htm)
 
 7.
 8.  [AppleInsider，Apple的MacBook改善了使用者的硬盘替换方式，2006年5月16日](http://appleinsider.com/article.php?id=1750)

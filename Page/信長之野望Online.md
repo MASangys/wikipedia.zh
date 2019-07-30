@@ -1,5 +1,4 @@
-《**信長之野望Online**》，由日本遊戲公司[KOEI所開發的](https://zh.wikipedia.org/wiki/KOEI "wikilink")[MMORPG](https://zh.wikipedia.org/wiki/MMORPG "wikilink")。此遊戲起始日2005年7月15日（開放
-BETA 版）開始至今。
+《**信長之野望Online**》，由日本遊戲公司[KOEI所開發的](https://zh.wikipedia.org/wiki/KOEI "wikilink")[MMORPG](https://zh.wikipedia.org/wiki/MMORPG "wikilink")。此遊戲起始日2005年7月15日（開放 BETA 版）開始至今。
 
 ## 職業
 
@@ -141,11 +140,11 @@ BETA 版）開始至今。
 
 #### 冒險景點
 
-[昇仙峽](https://zh.wikipedia.org/wiki/昇仙峽 "wikilink")（甲斐）、[地獄谷](https://zh.wikipedia.org/wiki/大涌谷 "wikilink")（相模）、[佐渡金山](../Page/佐渡金山.md "wikilink")（越後）、[富士地下洞穴](../Page/富士山.md "wikilink")（駿河）、[東尋坊洞穴](../Page/東尋坊.md "wikilink")（越前）、忍者砦（伊賀）、[比叡山](https://zh.wikipedia.org/wiki/比叡山 "wikilink")（近江）、比叡山叢雲堂（比叡山內部，NPC彪大師）、千引石洞穴（紀伊）、祕界（攝津和泉，堺港，NPC桑喬）、[濱名湖底洞穴](../Page/濱名湖.md "wikilink")（遠江）、蜃氣樓之塔（越中）、[三輪山](../Page/三輪山.md "wikilink")（大和）
+[昇仙峽](https://zh.wikipedia.org/wiki/昇仙峽 "wikilink")（甲斐）、[地獄谷](https://zh.wikipedia.org/wiki/大涌谷 "wikilink")（相模）、[佐渡金山](../Page/佐渡金山.md "wikilink")（越後）、[富士地下洞穴](../Page/富士山.md "wikilink")（駿河）、[東尋坊](../Page/東尋坊.md "wikilink")洞穴（越前）、忍者砦（伊賀）、[比叡山](https://zh.wikipedia.org/wiki/比叡山 "wikilink")（近江）、比叡山叢雲堂（比叡山內部，NPC彪大師）、千引石洞穴（紀伊）、祕界（攝津和泉，堺港，NPC桑喬）、[濱名湖](../Page/濱名湖.md "wikilink")底洞穴（遠江）、蜃氣樓之塔（越中）、[三輪山](../Page/三輪山.md "wikilink")（大和）
 
 #### 高級冒險區
 
-[黃泉比良坂](../Page/黃泉.md "wikilink")（山城神社，NPC八尋）、[根之國](https://zh.wikipedia.org/wiki/根之國 "wikilink")（黃泉比良坂後段）、伊邪那美神宮（根之國後段）
+[黃泉](../Page/黃泉.md "wikilink")比良坂（山城神社，NPC八尋）、[根之國](https://zh.wikipedia.org/wiki/根之國 "wikilink")（黃泉比良坂後段）、伊邪那美神宮（根之國後段）
 
 #### TD試練
 
@@ -206,7 +205,7 @@ BETA 版）開始至今。
   - [長篠](https://zh.wikipedia.org/wiki/長篠 "wikilink")：信濃 - 遠江
   - [三方原](https://zh.wikipedia.org/wiki/三方原 "wikilink")：遠江 - 三河
   - [桶狹間](https://zh.wikipedia.org/wiki/桶狹間 "wikilink")：三河 - 尾張
-  - [木曾川沖](../Page/木曾川.md "wikilink")：尾張 - 伊勢
+  - [木曾川](../Page/木曾川.md "wikilink")沖：尾張 - 伊勢
   - [小牧山](https://zh.wikipedia.org/wiki/小牧山 "wikilink")：尾張 - 美濃
   - [姉川](https://zh.wikipedia.org/wiki/姉川 "wikilink")：美濃 - 越前
   - [關原](https://zh.wikipedia.org/wiki/關原 "wikilink")：美濃 - 近江
@@ -218,8 +217,7 @@ BETA 版）開始至今。
   - [鈴鹿峠](https://zh.wikipedia.org/wiki/鈴鹿峠 "wikilink")：伊勢 - 伊賀
   - [笠置山](https://zh.wikipedia.org/wiki/笠置山 "wikilink")：伊賀 - 大和
   - [宇治](https://zh.wikipedia.org/wiki/宇治 "wikilink")：大和 - 山城
-  - [金剛山](https://zh.wikipedia.org/wiki/金剛山_\(金剛山地\) "wikilink")：大和 -
-    攝津和泉
+  - [金剛山](https://zh.wikipedia.org/wiki/金剛山_\(金剛山地\) "wikilink")：大和 - 攝津和泉
   - [吉野](../Page/吉野.md "wikilink")：大和 - 紀伊
   - [田倉崎](https://zh.wikipedia.org/wiki/田倉崎 "wikilink")：攝津和泉 - 紀伊
   - [天王山](../Page/天王山.md "wikilink")：攝津和泉 - 山城
@@ -454,9 +452,4 @@ BETA 版）開始至今。
   - [日本信長の野望Online官方網站（KOEI）](http://www.gamecity.ne.jp/nol/)
   - [台灣信長之野望Online官方網站](http://nobol.gameflier.com/index.asp)
 
-[Category:大型多人在线角色扮演游戏](https://zh.wikipedia.org/wiki/Category:大型多人在线角色扮演游戏 "wikilink")
-[Category:2005年电子游戏](https://zh.wikipedia.org/wiki/Category:2005年电子游戏 "wikilink")
-[Category:日本战国时代背景电子游戏](https://zh.wikipedia.org/wiki/Category:日本战国时代背景电子游戏 "wikilink")
-[Category:室町時代背景作品](https://zh.wikipedia.org/wiki/Category:室町時代背景作品 "wikilink")
-[Category:信長之野望系列](https://zh.wikipedia.org/wiki/Category:信長之野望系列 "wikilink")
-[Category:遊戲新幹線遊戲](https://zh.wikipedia.org/wiki/Category:遊戲新幹線遊戲 "wikilink")
+[Category:大型多人在线角色扮演游戏](https://zh.wikipedia.org/wiki/Category:大型多人在线角色扮演游戏 "wikilink") [Category:2005年电子游戏](https://zh.wikipedia.org/wiki/Category:2005年电子游戏 "wikilink") [Category:日本战国时代背景电子游戏](https://zh.wikipedia.org/wiki/Category:日本战国时代背景电子游戏 "wikilink") [Category:室町時代背景作品](https://zh.wikipedia.org/wiki/Category:室町時代背景作品 "wikilink") [Category:信長之野望系列](https://zh.wikipedia.org/wiki/Category:信長之野望系列 "wikilink") [Category:遊戲新幹線遊戲](https://zh.wikipedia.org/wiki/Category:遊戲新幹線遊戲 "wikilink")

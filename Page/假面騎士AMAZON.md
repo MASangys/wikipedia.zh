@@ -1,4 +1,4 @@
-《**假面騎士亞馬遜**》（原題：）是1974年（[昭和](../Page/昭和.md "wikilink")49年）10月19日～1975年（昭和50年）3月29日，於[每日放送](../Page/每日放送.md "wikilink")、[朝日電視台](../Page/朝日電視台.md "wikilink")（當時名稱為NET電視台）電視網在每週六19：30～20：00播映，由[東映所製作的特攝電視影集](../Page/東映.md "wikilink")，亦為劇中登場的超人英雄名稱。
+《**假面騎士亞馬遜**》（原題：）是1974年（[昭和](../Page/昭和.md "wikilink")49年）10月19日～1975年（昭和50年）3月29日，於[每日放送](../Page/每日放送.md "wikilink")、[朝日電視台](../Page/朝日電視台.md "wikilink")（當時名稱為NET電視台）電視網在每週六19：30～20：00播映，由[東映](../Page/東映.md "wikilink")所製作的特攝電視影集，亦為劇中登場的超人英雄名稱。
 
 ## 特徵
 
@@ -59,8 +59,6 @@
     作詞：[八手三郎](https://zh.wikipedia.org/wiki/八手三郎 "wikilink")　作曲：菊池俊輔　演唱：子門真人、[哥倫比亞搖籠會](https://zh.wikipedia.org/wiki/音羽搖籠會 "wikilink")
     第1～14集採用第一段歌詞，15集之後因劇中蓋頓消滅而變更為第二段。
 
-本作與系列前作同樣，包括製作了10首以上正副主題歌、插曲在內的歌曲，但特別的是，首次出現了由[小林昭二飾演的](../Page/小林昭二.md "wikilink")「立花藤兵衛」一角主題曲「」，並由他自己擔任演唱。不過此曲並未用於本作，而是在下一部作品《[假面騎士強人](https://zh.wikipedia.org/wiki/假面騎士強人 "wikilink")》中首度使用。
+本作與系列前作同樣，包括製作了10首以上正副主題歌、插曲在內的歌曲，但特別的是，首次出現了由[小林昭二](../Page/小林昭二.md "wikilink")飾演的「立花藤兵衛」一角主題曲「」，並由他自己擔任演唱。不過此曲並未用於本作，而是在下一部作品《[假面騎士強人](https://zh.wikipedia.org/wiki/假面騎士強人 "wikilink")》中首度使用。
 
-[Category:朝日電視台電視劇](https://zh.wikipedia.org/wiki/Category:朝日電視台電視劇 "wikilink")
-[Category:1974年日本電視劇集](https://zh.wikipedia.org/wiki/Category:1974年日本電視劇集 "wikilink")
-[Category:假面騎士](https://zh.wikipedia.org/wiki/Category:假面騎士 "wikilink")
+[Category:朝日電視台電視劇](https://zh.wikipedia.org/wiki/Category:朝日電視台電視劇 "wikilink") [Category:1974年日本電視劇集](https://zh.wikipedia.org/wiki/Category:1974年日本電視劇集 "wikilink") [Category:假面騎士](https://zh.wikipedia.org/wiki/Category:假面騎士 "wikilink")

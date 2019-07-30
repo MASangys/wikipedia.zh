@@ -10,7 +10,4 @@
 
 [Upperatmosphereresearchsatellite.jpg](https://zh.wikipedia.org/wiki/File:Upperatmosphereresearchsatellite.jpg "fig:Upperatmosphereresearchsatellite.jpg")
 
-[Category:1991年佛罗里达州](https://zh.wikipedia.org/wiki/Category:1991年佛罗里达州 "wikilink")
-[Category:1991年科學](https://zh.wikipedia.org/wiki/Category:1991年科學 "wikilink")
-[Category:发现号航天飞机任务](https://zh.wikipedia.org/wiki/Category:发现号航天飞机任务 "wikilink")
-[Category:1991年9月](https://zh.wikipedia.org/wiki/Category:1991年9月 "wikilink")
+[Category:1991年佛罗里达州](https://zh.wikipedia.org/wiki/Category:1991年佛罗里达州 "wikilink") [Category:1991年科學](https://zh.wikipedia.org/wiki/Category:1991年科學 "wikilink") [Category:发现号航天飞机任务](https://zh.wikipedia.org/wiki/Category:发现号航天飞机任务 "wikilink") [Category:1991年9月](https://zh.wikipedia.org/wiki/Category:1991年9月 "wikilink")

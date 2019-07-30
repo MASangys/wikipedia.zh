@@ -1,38 +1,16 @@
-**Windows Driver Frameworks**（Windows驱动程序框架，簡稱**WDF**，前称**Windows Driver
-Foundation**），是微軟公司所提供的驅動程式開發技術的集合，包括Kernel-Mode Driver
-Framework（核心模式驅動程式架構，[KMDF](https://zh.wikipedia.org/wiki/KMDF "wikilink")）、User-Mode
-Driver
-Framework（使用者模式驅動程式架構，[UMDF](https://zh.wikipedia.org/wiki/UMDF "wikilink")）以及PREfast
-plug-in for
-Drivers（[PFD](../Page/PREFast_for_Drivers.md "wikilink")），目的是要改善目前Windows平台的驅動程式品質，可支援[Windows
-2000](../Page/Windows_2000.md "wikilink")、[Windows
-XP](../Page/Windows_XP.md "wikilink")、[Windows Server
-2003](../Page/Windows_Server_2003.md "wikilink")、[Windows
-Vista](../Page/Windows_Vista.md "wikilink")、[Windows Server
-2008和](../Page/Windows_Server_2008.md "wikilink")[Windows
-7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")，以及更新的作業系統上之最新驅動程式架構。WDF架構提供了非同步輸入輸出、分層式驅動程式、隨插即用（PNP）、電源管理（Power
-Manager），以及視窗管理規範（Windows Management Instrumentation，WMI）等功能。
+**Windows Driver Frameworks**（Windows驱动程序框架，簡稱**WDF**，前称**Windows Driver Foundation**），是微軟公司所提供的驅動程式開發技術的集合，包括Kernel-Mode Driver Framework（核心模式驅動程式架構，[KMDF](https://zh.wikipedia.org/wiki/KMDF "wikilink")）、User-Mode Driver Framework（使用者模式驅動程式架構，[UMDF](https://zh.wikipedia.org/wiki/UMDF "wikilink")）以及PREfast plug-in for Drivers（[PFD](../Page/PREFast_for_Drivers.md "wikilink")），目的是要改善目前Windows平台的驅動程式品質，可支援[Windows 2000](../Page/Windows_2000.md "wikilink")、[Windows XP](../Page/Windows_XP.md "wikilink")、[Windows Server 2003](../Page/Windows_Server_2003.md "wikilink")、[Windows Vista](../Page/Windows_Vista.md "wikilink")、[Windows Server 2008和](../Page/Windows_Server_2008.md "wikilink")[Windows 7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")，以及更新的作業系統上之最新驅動程式架構。WDF架構提供了非同步輸入輸出、分層式驅動程式、隨插即用（PNP）、電源管理（Power Manager），以及視窗管理規範（Windows Management Instrumentation，WMI）等功能。
 
 ## User-Mode Driver Framework
 
-用户模式驱动程序框架（User-Mode Driver Framework）是内核模式驱动程序框架（Kernel-Mode Driver
-Framework）的子集合，提供即插即用（PNP）、电源管理（Power Manager）、异步输入输出等功能。
+用户模式驱动程序框架（User-Mode Driver Framework）是内核模式驱动程序框架（Kernel-Mode Driver Framework）的子集合，提供即插即用（PNP）、电源管理（Power Manager）、异步输入输出等功能。
 
 ## Kernel-Mode Driver Framework
 
-Kernel-Mode Driver
-Framework（核心模式驅動程式架構，簡稱KMDF），是美國微軟公司推出的視窗驅動程式基礎（Windows
-Driver Foundation）之一，建構Windows XP與Windows Server
-2003的核心模式（Kernel-Mode）驅動程式所需的基本功能，包括對隨插即用（PNP）、電源管理（Power
-Manager）、I/O佇列、直接記憶體存取（DMA）、Windows Management
-Instrumentation（WMI）和同步處理等的完整支援。KMDF的設計並不能用來取代WDM，它提供「Skeletal
-WDM」（一個骨架）建置來替代WDM；目前，KMDF並不支援匯流排篩選驅動程式（Bus Filter Driver）。
+Kernel-Mode Driver Framework（核心模式驅動程式架構，簡稱KMDF），是美國微軟公司推出的視窗驅動程式基礎（Windows Driver Foundation）之一，建構Windows XP與Windows Server 2003的核心模式（Kernel-Mode）驅動程式所需的基本功能，包括對隨插即用（PNP）、電源管理（Power Manager）、I/O佇列、直接記憶體存取（DMA）、Windows Management Instrumentation（WMI）和同步處理等的完整支援。KMDF的設計並不能用來取代WDM，它提供「Skeletal WDM」（一個骨架）建置來替代WDM；目前，KMDF並不支援匯流排篩選驅動程式（Bus Filter Driver）。
 
 ## PREfast
 
-PREfast（Prefast.exe）是靜態的原始碼分析工具（static source code analysis
-tool），可偵測原始程式碼中不易用一般編譯器找到的特定類型錯誤，目前已整合至Visual Studio
-2005 Team Suite中，使用時只要設定‘Enable Code Analysis For C/C++’為Yes即可。
+PREfast（Prefast.exe）是靜態的原始碼分析工具（static source code analysis tool），可偵測原始程式碼中不易用一般編譯器找到的特定類型錯誤，目前已整合至Visual Studio 2005 Team Suite中，使用時只要設定‘Enable Code Analysis For C/C++’為Yes即可。
 
 ### PREfast的工作
 
@@ -102,7 +80,7 @@ tool），可偵測原始程式碼中不易用一般編譯器找到的特定類�
  makecert -pe -ss PrivateCertStore -n CN=Contoso.com(Test) ContosoTest.cer
 ```
 
-`makecert.exe` 可制作cer格式的证书，即[X.509证书](../Page/X.509.md "wikilink")。
+`makecert.exe` 可制作cer格式的证书，即[X.509](../Page/X.509.md "wikilink")证书。
 
   - 產生一個cat檔
 
@@ -142,22 +120,12 @@ tool），可偵測原始程式碼中不易用一般編譯器找到的特定類�
 
 ## 外部連結
 
-  - [Kernel-Mode Code Signing
-    Walkthrough](http://www.microsoft.com/taiwan/whdc/winlogo/drvsign/kmcs_walkthrough.mspx)
-  - [Windows Driver Foundation
-    Homepage](https://web.archive.org/web/20080206174045/http://www.microsoft.com/whdc/driver/wdf/default.mspx)
-  - [Windows Driver
-    Kit](https://web.archive.org/web/20061205134139/http://www.microsoft.com/whdc/devtools/wdk/default.mspx)
-  - [1](https://web.archive.org/web/20070730233021/http://www.osronline.com/)
-    OSR Online, including many articles about WDF, KMDF, and Windows
-    driver development.
-  - [Introducing Windows Driver
-    Framework](http://www.wd-3.com/archive/FrameworkIntro.htm)，written
-    by well-known Windows driver developer, Walter Oney.
-  - [Building and deploying a basic WDF Kernel Mode
-    Driver](https://web.archive.org/web/20060422192541/http://www.codeproject.com/system/wdf_kmdf_basic.asp)，CodeProject
-  - [Developing a WDF USB Kernel Mode Driver for the OSR USB
-    FX2](https://web.archive.org/web/20071014004348/http://www.codeproject.com/system/kmdf_osr_usb_fx2.asp)，CodeProject
+  - [Kernel-Mode Code Signing Walkthrough](http://www.microsoft.com/taiwan/whdc/winlogo/drvsign/kmcs_walkthrough.mspx)
+  - [Windows Driver Foundation Homepage](https://web.archive.org/web/20080206174045/http://www.microsoft.com/whdc/driver/wdf/default.mspx)
+  - [Windows Driver Kit](https://web.archive.org/web/20061205134139/http://www.microsoft.com/whdc/devtools/wdk/default.mspx)
+  - [1](https://web.archive.org/web/20070730233021/http://www.osronline.com/) OSR Online, including many articles about WDF, KMDF, and Windows driver development.
+  - [Introducing Windows Driver Framework](http://www.wd-3.com/archive/FrameworkIntro.htm)，written by well-known Windows driver developer, Walter Oney.
+  - [Building and deploying a basic WDF Kernel Mode Driver](https://web.archive.org/web/20060422192541/http://www.codeproject.com/system/wdf_kmdf_basic.asp)，CodeProject
+  - [Developing a WDF USB Kernel Mode Driver for the OSR USB FX2](https://web.archive.org/web/20071014004348/http://www.codeproject.com/system/kmdf_osr_usb_fx2.asp)，CodeProject
 
-[Category:微軟API](https://zh.wikipedia.org/wiki/Category:微軟API "wikilink")
-[Category:驱动程序](https://zh.wikipedia.org/wiki/Category:驱动程序 "wikilink")
+[Category:微軟API](https://zh.wikipedia.org/wiki/Category:微軟API "wikilink") [Category:驱动程序](https://zh.wikipedia.org/wiki/Category:驱动程序 "wikilink")

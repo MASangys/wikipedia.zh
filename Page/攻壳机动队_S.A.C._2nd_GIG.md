@@ -1,11 +1,6 @@
-《**攻壳机动队 S.A.C. 2nd
-GIG**》（）是根據[士郎正宗原作漫畫改編的電視動畫](../Page/士郎正宗.md "wikilink")（第二季）。2004年1月1日於日本SKY電視播映。每集制作费高达3000万[日元](https://zh.wikipedia.org/wiki/日元 "wikilink")。故事内容延續第一季《[攻殼機動隊
-STAND ALONE
-COMPLEX](../Page/攻殼機動隊_STAND_ALONE_COMPLEX.md "wikilink")》的劇情發展。但TV版的2部作品與剧场版没有什么联系，可以看做是兩个平行世界裡发生的事情。
+《**攻壳机动队 S.A.C. 2nd GIG**》（）是根據[士郎正宗](../Page/士郎正宗.md "wikilink")原作漫畫改編的電視動畫（第二季）。2004年1月1日於日本SKY電視播映。每集制作费高达3000万[日元](https://zh.wikipedia.org/wiki/日元 "wikilink")。故事内容延續第一季《[攻殼機動隊 STAND ALONE COMPLEX](../Page/攻殼機動隊_STAND_ALONE_COMPLEX.md "wikilink")》的劇情發展。但TV版的2部作品與剧场版没有什么联系，可以看做是兩个平行世界裡发生的事情。
 
-这次電視動畫版第2季的制作班底与第一季相同，同时剧情表达上和第一季一样，每话由不同故事构成，各自独立成章，却贯穿着同一条主线。在剧情上同时电影版导演[押井守也参与了协力](../Page/押井守.md "wikilink")，不过电影版中凄凉的气氛没有在TV版第二季中体现。而最近有消息称「企劃階段《攻殻機動隊
-S.A.C.》新系列，動畫製作：[Production
-I.G](../Page/Production_I.G.md "wikilink")」，也许预示着S.A.C时代的续章又将继续在电视舞台上登场。获选为2005年第九回[日本](../Page/日本.md "wikilink")[文部省](../Page/文部省.md "wikilink")[文化厅媒体艺术祭动画部门推荐的作品](https://zh.wikipedia.org/wiki/文化厅媒体艺术祭 "wikilink")。
+这次電視動畫版第2季的制作班底与第一季相同，同时剧情表达上和第一季一样，每话由不同故事构成，各自独立成章，却贯穿着同一条主线。在剧情上同时电影版导演[押井守](../Page/押井守.md "wikilink")也参与了协力，不过电影版中凄凉的气氛没有在TV版第二季中体现。而最近有消息称「企劃階段《攻殻機動隊 S.A.C.》新系列，動畫製作：[Production I.G](../Page/Production_I.G.md "wikilink")」，也许预示着S.A.C时代的续章又将继续在电视舞台上登场。获选为2005年第九回[日本](../Page/日本.md "wikilink")[文部省](../Page/文部省.md "wikilink")[文化厅媒体艺术祭动画部门推荐的作品](https://zh.wikipedia.org/wiki/文化厅媒体艺术祭 "wikilink")。
 
 ## 故事簡介
 
@@ -39,8 +34,7 @@ I.G](../Page/Production_I.G.md "wikilink")」，也许预示着S.A.C时代的续
   - 企画 - [石川光久](../Page/石川光久.md "wikilink")、渡辺繁
   - 監督、系列構成 - [神山健治](../Page/神山健治.md "wikilink")
   - 故事概念 - [押井守](../Page/押井守.md "wikilink")
-  - 人物設計 -
-    [後藤隆幸](../Page/後藤隆幸.md "wikilink")、[西尾鉄也](https://zh.wikipedia.org/wiki/西尾鉄也 "wikilink")
+  - 人物設計 - [後藤隆幸](../Page/後藤隆幸.md "wikilink")、[西尾鉄也](https://zh.wikipedia.org/wiki/西尾鉄也 "wikilink")
   - 原始人物設計 - 下村一
   - 機械設計 - [寺岡賢司](https://zh.wikipedia.org/wiki/寺岡賢司 "wikilink")、常木志伸
   - 美術監督 - 竹田悠介
@@ -60,19 +54,16 @@ I.G](../Page/Production_I.G.md "wikilink")」，也许预示着S.A.C时代的续
   - 音樂製作 - [勝利娛樂](../Page/勝利娛樂.md "wikilink")
   - 製作人 - 松家雄一郎、国崎久徳
   - 動畫製作 - [Production I.G](../Page/Production_I.G.md "wikilink")
-  - 製作 - 攻殻機動隊製作委員会（Production
-    I.G、[萬代影視](../Page/萬代影視.md "wikilink")、萬代娛樂、[電通](https://zh.wikipedia.org/wiki/電通 "wikilink")、[日本電視台](../Page/日本電視台.md "wikilink")、[德間書店](../Page/德間書店.md "wikilink")、[勝利娛樂](../Page/勝利娛樂.md "wikilink")、MANGA娛樂）
+  - 製作 - 攻殻機動隊製作委員会（Production I.G、[萬代影視](../Page/萬代影視.md "wikilink")、萬代娛樂、[電通](https://zh.wikipedia.org/wiki/電通 "wikilink")、[日本電視台](../Page/日本電視台.md "wikilink")、[德間書店](../Page/德間書店.md "wikilink")、[勝利娛樂](../Page/勝利娛樂.md "wikilink")、MANGA娛樂）
 
 ## 主題曲
 
 ### 片頭曲
 
   - 「rise」
-    作詞 - Tim Jensen、Origa / 作曲、編曲 - [菅野洋子](../Page/菅野洋子.md "wikilink") /
-    歌 - [Origa](../Page/Origa.md "wikilink")
+    作詞 - Tim Jensen、Origa / 作曲、編曲 - [菅野洋子](../Page/菅野洋子.md "wikilink") / 歌 - [Origa](../Page/Origa.md "wikilink")
   - 「Christmas in the silent forest」
-    作詞 - Shanti Snydar / 作曲、編曲 - 菅野洋子 / 歌 - [Ilaria
-    Graziano](https://zh.wikipedia.org/wiki/Ilaria_Graziano "wikilink")
+    作詞 - Shanti Snydar / 作曲、編曲 - 菅野洋子 / 歌 - [Ilaria Graziano](https://zh.wikipedia.org/wiki/Ilaria_Graziano "wikilink")
       - 電視上放送使用。
 
 ### 片尾曲
@@ -418,11 +409,9 @@ I.G](../Page/Production_I.G.md "wikilink")」，也许预示着S.A.C时代的续
 
   - [攻殻機動隊 Information Site（官方網站）](http://www.kokaku-s.com/)
   - [攻殻機動隊S.A.C 2nd GIG 日視内頁面](http://www.ntv.co.jp/kokaku-s/)
-  - [攻殻機動隊S.A.C 2nd GIG
-    ProductionI.G内頁面](https://web.archive.org/web/20080624172237/http://www.production-ig.co.jp/contents/works_sp/1120_/index.html)
+  - [攻殻機動隊S.A.C 2nd GIG ProductionI.G内頁面](https://web.archive.org/web/20080624172237/http://www.production-ig.co.jp/contents/works_sp/1120_/index.html)
 
 [Category:2004年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2004年日本電視動畫 "wikilink")
 
 1.  最終回和電視版OP相同。
-2.  專輯收錄時的標題名稱為**「from the roof top〜somewhere in the silence \[sniper's
-    theme\] 」**。
+2.  專輯收錄時的標題名稱為**「from the roof top〜somewhere in the silence \[sniper's theme\] 」**。

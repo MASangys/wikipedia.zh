@@ -8,7 +8,4 @@
   - **[卡尔·米德](https://zh.wikipedia.org/wiki/卡尔·米德 "wikilink")**（，曾执行、以及任务），任务专家
   - **[查尔斯·格马](https://zh.wikipedia.org/wiki/查尔斯·格马 "wikilink")**（，曾执行、以及任务），任务专家
 
-[Category:1990年美国](https://zh.wikipedia.org/wiki/Category:1990年美国 "wikilink")
-[Category:1990年科學](https://zh.wikipedia.org/wiki/Category:1990年科學 "wikilink")
-[Category:亚特兰蒂斯号航天飞机任务](https://zh.wikipedia.org/wiki/Category:亚特兰蒂斯号航天飞机任务 "wikilink")
-[Category:1990年11月](https://zh.wikipedia.org/wiki/Category:1990年11月 "wikilink")
+[Category:1990年美国](https://zh.wikipedia.org/wiki/Category:1990年美国 "wikilink") [Category:1990年科學](https://zh.wikipedia.org/wiki/Category:1990年科學 "wikilink") [Category:亚特兰蒂斯号航天飞机任务](https://zh.wikipedia.org/wiki/Category:亚特兰蒂斯号航天飞机任务 "wikilink") [Category:1990年11月](https://zh.wikipedia.org/wiki/Category:1990年11月 "wikilink")

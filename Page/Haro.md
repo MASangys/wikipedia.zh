@@ -1,10 +1,8 @@
-**Haro**（譯為**「哈囉」**，但**英文名不是Hello**），是從[機動戰士GUNDAM開始的](../Page/機動戰士GUNDAM.md "wikilink")[GUNDAM系列作品中出現的架空寵物用機器人](../Page/GUNDAM系列作品.md "wikilink")。由[大河原邦男設計](../Page/大河原邦男.md "wikilink")，原本要用作[無敵鋼人泰坦3中的小型修理用機器人](https://zh.wikipedia.org/wiki/無敵鋼人泰坦3 "wikilink")，但在監督[富野由悠季的決定下在GUNDAM出場](../Page/富野由悠季.md "wikilink")。（泰坦3中，HARO作為修理機械人的角色，後來為[機動戰士GUNDAM
-00所沿用](../Page/機動戰士GUNDAM_00.md "wikilink")。）
+**Haro**（譯為**「哈囉」**，但**英文名不是Hello**），是從[機動戰士GUNDAM](../Page/機動戰士GUNDAM.md "wikilink")開始的[GUNDAM系列作品](../Page/GUNDAM系列作品.md "wikilink")中出現的架空寵物用機器人。由[大河原邦男](../Page/大河原邦男.md "wikilink")設計，原本要用作[無敵鋼人泰坦3中的小型修理用機器人](https://zh.wikipedia.org/wiki/無敵鋼人泰坦3 "wikilink")，但在監督[富野由悠季](../Page/富野由悠季.md "wikilink")的決定下在GUNDAM出場。（泰坦3中，HARO作為修理機械人的角色，後來為[機動戰士GUNDAM 00所沿用](../Page/機動戰士GUNDAM_00.md "wikilink")。）
 
-原本的造型是黃綠色的球體，在SEED系列（[宇宙紀元](https://zh.wikipedia.org/wiki/宇宙紀元 "wikilink")）和[機動戰士GUNDAM
-00](../Page/機動戰士GUNDAM_00.md "wikilink")（西元）中也有同形但顏色不同的Haro登場。
+原本的造型是黃綠色的球體，在SEED系列（[宇宙紀元](https://zh.wikipedia.org/wiki/宇宙紀元 "wikilink")）和[機動戰士GUNDAM 00](../Page/機動戰士GUNDAM_00.md "wikilink")（西元）中也有同形但顏色不同的Haro登場。
 
-除了[ACG作品裡的Haro](../Page/ACG.md "wikilink")，在現實中作為[吉祥物](https://zh.wikipedia.org/wiki/吉祥物 "wikilink")，也有許多Haro商品存在。
+除了[ACG](../Page/ACG.md "wikilink")作品裡的Haro，在現實中作為[吉祥物](https://zh.wikipedia.org/wiki/吉祥物 "wikilink")，也有許多Haro商品存在。
 
 ## 宇宙世紀中的Haro
 
@@ -14,8 +12,7 @@
 
 ### Z GUNDAM
 
-由於阿姆羅及白色基地在一年戰爭後一度成為頗受歡迎的傳奇，因此有廠商在戰後生產了商品化的哈囉；[卡缪在月面的废物堆中无意发现了哈囉](https://zh.wikipedia.org/wiki/卡缪 "wikilink")。卡缪将其修复后又成了[亚加玛号上两个孩子的玩伴](https://zh.wikipedia.org/wiki/亚加玛号 "wikilink")。（剧场版中被改为从补给品中找到）
-量產品與阿姆羅自製品不同之處在於，取消了伸縮內藏的四肢。改為可從中央（口部）打開成為手提式電腦的型態。
+由於阿姆羅及白色基地在一年戰爭後一度成為頗受歡迎的傳奇，因此有廠商在戰後生產了商品化的哈囉；[卡缪在月面的废物堆中无意发现了哈囉](https://zh.wikipedia.org/wiki/卡缪 "wikilink")。卡缪将其修复后又成了[亚加玛号上两个孩子的玩伴](https://zh.wikipedia.org/wiki/亚加玛号 "wikilink")。（剧场版中被改为从补给品中找到） 量產品與阿姆羅自製品不同之處在於，取消了伸縮內藏的四肢。改為可從中央（口部）打開成為手提式電腦的型態。
 
 ### GUNDAM ZZ
 
@@ -31,7 +28,7 @@
 
 ### V GUNDAM
 
-陪著[胡索](../Page/胡索·艾賓.md "wikilink")，有著電擊槍和[偷拍用攝影機的Haro](../Page/偷拍.md "wikilink")。
+陪著[胡索](../Page/胡索·艾賓.md "wikilink")，有著電擊槍和[偷拍](../Page/偷拍.md "wikilink")用攝影機的Haro。
 
 ### 機動戰士 鋼彈桑
 
@@ -65,20 +62,14 @@
 
 ### SD高達G世代系列
 
-在[Playstation的遊戲](https://zh.wikipedia.org/wiki/Playstation "wikilink")[SD高達G世代系列中](https://zh.wikipedia.org/wiki/SD高達G世代 "wikilink")，有被稱為Haro的原創機體。擁有壓倒性戰鬥能力的機體，在第一作SD高達G世代是最強的機體，被稱為球形的惡魔（「」），外觀跟寵物機器人Haro一樣，但是是擁有鑽頭爪（ドリルクロー）和擴散泡泡（）等強力武裝的MA。在續作中陸續登場了後繼型的Psycho
-Haro（サイコ・ハロ）、神哈囉（ゴッド・ハロ），在以SEED為主軸的SD高達G世代SEED有各色Haro登場，最強的粉紅Haro（ピンクハロ）還會使用鳥衛星（就是[原作中](../Page/機動戰士GUNDAM_SEED.md "wikilink")[阿斯兰送](../Page/阿斯兰·萨拉.md "wikilink")[基拉的那隻机器鸟](../Page/基拉·大和.md "wikilink")，攻擊時還會托利托利的叫）等武器攻擊。
+在[Playstation的遊戲](https://zh.wikipedia.org/wiki/Playstation "wikilink")[SD高達G世代系列中](https://zh.wikipedia.org/wiki/SD高達G世代 "wikilink")，有被稱為Haro的原創機體。擁有壓倒性戰鬥能力的機體，在第一作SD高達G世代是最強的機體，被稱為球形的惡魔（「」），外觀跟寵物機器人Haro一樣，但是是擁有鑽頭爪（ドリルクロー）和擴散泡泡（）等強力武裝的MA。在續作中陸續登場了後繼型的Psycho Haro（サイコ・ハロ）、神哈囉（ゴッド・ハロ），在以SEED為主軸的SD高達G世代SEED有各色Haro登場，最強的粉紅Haro（ピンクハロ）還會使用鳥衛星（就是[原作中](../Page/機動戰士GUNDAM_SEED.md "wikilink")[阿斯兰送](../Page/阿斯兰·萨拉.md "wikilink")[基拉的那隻机器鸟](../Page/基拉·大和.md "wikilink")，攻擊時還會托利托利的叫）等武器攻擊。
 
 ## 外部連結
 
   - [GBハロボッツ](https://web.archive.org/web/20060301142338/http://www.dricas.com/sunrise21/harobots.html)
-  - [ハロボッツ
-    ロボヒーローバトリング\!\!](https://web.archive.org/web/20050426015232/http://www.nintendo.co.jp/n08/software/ahqj/)
+  - [ハロボッツ ロボヒーローバトリング\!\!](https://web.archive.org/web/20050426015232/http://www.nintendo.co.jp/n08/software/ahqj/)
   - [ハロボッツ アクション\!\!](http://www.nintendo.co.jp/ds/software/ahgj/)
-  - [高達情侶裝
-    Haro做主角](https://web.archive.org/web/20131022190443/http://www.hket.com/eti/article/c9da8a0b-f3ee-412b-9d95-15f4270563dc-225359)
-  - [高達
-    HARO　變身扭計骰](http://hk.apple.nextmedia.com/supplement/retails/art/20030409/3221274)
+  - [高達情侶裝 Haro做主角](https://web.archive.org/web/20131022190443/http://www.hket.com/eti/article/c9da8a0b-f3ee-412b-9d95-15f4270563dc-225359)
+  - [高達 HARO　變身扭計骰](http://hk.apple.nextmedia.com/supplement/retails/art/20030409/3221274)
 
-[Category:GUNDAM](https://zh.wikipedia.org/wiki/Category:GUNDAM "wikilink")
-[Category:吉祥物](https://zh.wikipedia.org/wiki/Category:吉祥物 "wikilink")
-[Category:虛構機器人](https://zh.wikipedia.org/wiki/Category:虛構機器人 "wikilink")
+[Category:GUNDAM](https://zh.wikipedia.org/wiki/Category:GUNDAM "wikilink") [Category:吉祥物](https://zh.wikipedia.org/wiki/Category:吉祥物 "wikilink") [Category:虛構機器人](https://zh.wikipedia.org/wiki/Category:虛構機器人 "wikilink")

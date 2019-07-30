@@ -10,7 +10,7 @@
 
 ## 页面分类
 
-在目前版本中，文章可以分为6个大主题：[科技](https://zh.wikipedia.org/wiki/科技 "wikilink")、[科学](../Page/科学.md "wikilink")、[世界新闻](https://zh.wikipedia.org/wiki/世界新闻 "wikilink")、[影像](https://zh.wikipedia.org/wiki/影像 "wikilink")、[娱乐](https://zh.wikipedia.org/wiki/娱乐 "wikilink")、[游戏和](../Page/游戏.md "wikilink")[体育](../Page/体育.md "wikilink")。每个主题中也有小主题，例如科技可以分为[苹果公司](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")、[软件](../Page/软件.md "wikilink")、[硬件](../Page/硬件.md "wikilink")、[unix](https://zh.wikipedia.org/wiki/unix "wikilink")、[编程和安全等](https://zh.wikipedia.org/wiki/编程 "wikilink")。
+在目前版本中，文章可以分为6个大主题：[科技](https://zh.wikipedia.org/wiki/科技 "wikilink")、[科学](../Page/科学.md "wikilink")、[世界新闻](https://zh.wikipedia.org/wiki/世界新闻 "wikilink")、[影像](https://zh.wikipedia.org/wiki/影像 "wikilink")、[娱乐](https://zh.wikipedia.org/wiki/娱乐 "wikilink")、[游戏](../Page/游戏.md "wikilink")和[体育](../Page/体育.md "wikilink")。每个主题中也有小主题，例如科技可以分为[苹果公司](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")、[软件](../Page/软件.md "wikilink")、[硬件](../Page/硬件.md "wikilink")、[unix](https://zh.wikipedia.org/wiki/unix "wikilink")、[编程和安全等](https://zh.wikipedia.org/wiki/编程 "wikilink")。
 
 ## 参见
 
@@ -23,10 +23,4 @@
 
 ## 外部链接
 
-[Category:社群網站](https://zh.wikipedia.org/wiki/Category:社群網站 "wikilink")
-[Category:2004年建立的网站](https://zh.wikipedia.org/wiki/Category:2004年建立的网站 "wikilink")
-[Category:Web_2.0](https://zh.wikipedia.org/wiki/Category:Web_2.0 "wikilink")
-[Category:网站](https://zh.wikipedia.org/wiki/Category:网站 "wikilink")
-[Category:新聞網站](https://zh.wikipedia.org/wiki/Category:新聞網站 "wikilink")
-[Category:社会信息处理](https://zh.wikipedia.org/wiki/Category:社会信息处理 "wikilink")
-[Category:总部位于纽约市的公司](https://zh.wikipedia.org/wiki/Category:总部位于纽约市的公司 "wikilink")
+[Category:社群網站](https://zh.wikipedia.org/wiki/Category:社群網站 "wikilink") [Category:2004年建立的网站](https://zh.wikipedia.org/wiki/Category:2004年建立的网站 "wikilink") [Category:Web_2.0](https://zh.wikipedia.org/wiki/Category:Web_2.0 "wikilink") [Category:网站](https://zh.wikipedia.org/wiki/Category:网站 "wikilink") [Category:新聞網站](https://zh.wikipedia.org/wiki/Category:新聞網站 "wikilink") [Category:社会信息处理](https://zh.wikipedia.org/wiki/Category:社会信息处理 "wikilink") [Category:总部位于纽约市的公司](https://zh.wikipedia.org/wiki/Category:总部位于纽约市的公司 "wikilink")

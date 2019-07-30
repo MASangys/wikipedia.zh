@@ -20,30 +20,20 @@ Zune的操作系統基於適用於ARM體系結構的Windows CE內核，預裝了
 
 圖形用戶界面（GUI；扭曲界面）包含音樂、視頻、圖片、社交、收音機、播客、市場、遊戲和設置等部分。據說它提供了二維導航，用於通過方向鍵滾動物品。在音樂部分，用戶可以將歌曲添加到快速播放列表中，而無需重新連接到桌面軟件。在照片部分，可以使用設備上存儲的任何圖像（用於查看）將背景定制為壁紙。在收音機部分，用戶可以在北美，日本和歐洲的調諧範圍內部接收和播放FM廣播，並在可用時顯示廣播數據系統信息。當藝術家和歌曲信息可用時，設備可以在Zune市場中搜索歌曲進行下載或購買。在社交版塊中，用戶可以將用戶的個人資料和近期活動廣播給附近的其他人。
 
-如FCC
-FCC文件中所述，第一次更新了固件添加共享功能。固件1.1允許設備繼承由代號Pyxis描述的共享功能。早期的固件發布修補軟件錯誤。大約一年後，備受期待的2.2固件版本增加了對DVR-MS文件的支持，無損播放，增加了無線同步以及GUI界面改進。
+如FCC FCC文件中所述，第一次更新了固件添加共享功能。固件1.1允許設備繼承由代號Pyxis描述的共享功能。早期的固件發布修補軟件錯誤。大約一年後，備受期待的2.2固件版本增加了對DVR-MS文件的支持，無損播放，增加了無線同步以及GUI界面改進。
 
-Zune支持Windows Media
-DRM數字版權管理系統，該系統與其他DRM系統不兼容，不屬於PlaysForSure平台或程序。多媒體內容通過媒體傳輸協議（MTP）傳輸。然而，其專有的MTP擴展（MTPZ）在Zune和以前的基於MTP的軟件之間建立了互操作性屏障。
+Zune支持Windows Media DRM數字版權管理系統，該系統與其他DRM系統不兼容，不屬於PlaysForSure平台或程序。多媒體內容通過媒體傳輸協議（MTP）傳輸。然而，其專有的MTP擴展（MTPZ）在Zune和以前的基於MTP的軟件之間建立了互操作性屏障。
 
-  - 支援的音樂格式：[Windows Media
-    Audio](https://zh.wikipedia.org/wiki/WMA "wikilink")，[MP3](../Page/MP3.md "wikilink")，[AAC](https://zh.wikipedia.org/wiki/AAC "wikilink")。
-  - 支援的影片格式：[Windows Media
-    Video](https://zh.wikipedia.org/wiki/WMV "wikilink")，[MP4](../Page/MP4.md "wikilink")。
+  - 支援的音樂格式：[Windows Media Audio](https://zh.wikipedia.org/wiki/WMA "wikilink")，[MP3](../Page/MP3.md "wikilink")，[AAC](https://zh.wikipedia.org/wiki/AAC "wikilink")。
+  - 支援的影片格式：[Windows Media Video](https://zh.wikipedia.org/wiki/WMV "wikilink")，[MP4](../Page/MP4.md "wikilink")。
   - 支援的圖片格式：[JPEG](../Page/JPEG.md "wikilink")。
-  - 裝置可以播放使用[數位著作權管理方案](https://zh.wikipedia.org/wiki/數位著作權管理 "wikilink")（[Windows
-    Media
-    DRM](https://zh.wikipedia.org/wiki/Windows_Media_DRM "wikilink")）錄製的
-    [WMA](https://zh.wikipedia.org/wiki/WMA "wikilink") 和
-    [WMV](https://zh.wikipedia.org/wiki/WMV "wikilink") 。
-  - 它採用[东芝的硬盘](../Page/东芝.md "wikilink")，與[iPod一樣](https://zh.wikipedia.org/wiki/iPod "wikilink")。
-  - 主控晶片采用Freescale的i.MX31L多媒体应用处理器。i.MX31采用ARM1136内核，采用90纳米制程，处理頻率是532MHz，擁有128KB的L2
-    Cache。
+  - 裝置可以播放使用[數位著作權管理方案](https://zh.wikipedia.org/wiki/數位著作權管理 "wikilink")（[Windows Media DRM](https://zh.wikipedia.org/wiki/Windows_Media_DRM "wikilink")）錄製的 [WMA](https://zh.wikipedia.org/wiki/WMA "wikilink") 和 [WMV](https://zh.wikipedia.org/wiki/WMV "wikilink") 。
+  - 它採用[东芝](../Page/东芝.md "wikilink")的硬盘，與[iPod一樣](https://zh.wikipedia.org/wiki/iPod "wikilink")。
+  - 主控晶片采用Freescale的i.MX31L多媒体应用处理器。i.MX31采用ARM1136内核，采用90纳米制程，处理頻率是532MHz，擁有128KB的L2 Cache。
   - 电源管理器采用Freescale的MC13783，集成了电源管理、USB OTG、模拟录音、数模转换、时钟、背光功能等多种功能。
   - 视频转换器采用Focus Enhancements公司的FS456。
   - 采用[三星的緩衝記憶體](../Page/三星電子.md "wikilink")，容量為16MB。
-  - 无线模块採用KEYSTREAM的KS3021/KS7010，支援[IEEE
-    802.11g](https://zh.wikipedia.org/wiki/IEEE_802.11g "wikilink")。
+  - 无线模块採用KEYSTREAM的KS3021/KS7010，支援[IEEE 802.11g](https://zh.wikipedia.org/wiki/IEEE_802.11g "wikilink")。
   - 立体声编码解码器採用Wolfson的WM8978。
 
 <table>
@@ -143,24 +133,13 @@ DRM數字版權管理系統，該系統與其他DRM系統不兼容，不屬於Pl
 
 ## 外部連結
 
-[Category:數位音訊](https://zh.wikipedia.org/wiki/Category:數位音訊 "wikilink")
-[Category:數字音頻播放器](https://zh.wikipedia.org/wiki/Category:數字音頻播放器 "wikilink")
+[Category:數位音訊](https://zh.wikipedia.org/wiki/Category:數位音訊 "wikilink") [Category:數字音頻播放器](https://zh.wikipedia.org/wiki/Category:數字音頻播放器 "wikilink")
 
-1.  [Microsoft Argo's Final Name: The
-    Zune?](http://gizmodo.com/gadgets/top/microsoft-argos-final-name-the-zune-186359.php)（2006.07.11）《Gizmodo》2006.07.13
-    查證
-2.  [Microsoft Zune
-    Update](http://gizmodo.com/gadgets/itunes/microsoft-zune-update-186628.php)（2006.07.11）《Gizmodo》2006.07.13
-    查證
-3.  [Zune: what we know, think we know, and don't yet
-    know](http://www.engadget.com/2006/07/21/zune-what-we-know-think-we-know-and-dont-yet-know)（Engadget）2006.07.21，2006.09.29
-    查證
-4.  [How to update the firmware for your Zune
-    device](http://support.microsoft.com/default.aspx/kb/926770/)
+1.  [Microsoft Argo's Final Name: The Zune?](http://gizmodo.com/gadgets/top/microsoft-argos-final-name-the-zune-186359.php)（2006.07.11）《Gizmodo》2006.07.13 查證
+2.  [Microsoft Zune Update](http://gizmodo.com/gadgets/itunes/microsoft-zune-update-186628.php)（2006.07.11）《Gizmodo》2006.07.13 查證
+3.  [Zune: what we know, think we know, and don't yet know](http://www.engadget.com/2006/07/21/zune-what-we-know-think-we-know-and-dont-yet-know)（Engadget）2006.07.21，2006.09.29 查證
+4.  [How to update the firmware for your Zune device](http://support.microsoft.com/default.aspx/kb/926770/)
 5.
 6.
 7.
-8.  [Mobilecaster News - Portable Digital Media Trends - Mobile and
-    Portable Media Player Podcasting: Wireless Sharing of Video Podcasts
-    in Zune 2.5
-    Update](http://www.mobilecasternews.com/2008/06/wireless-sharing-of-video-podcasts-in.html)
+8.  [Mobilecaster News - Portable Digital Media Trends - Mobile and Portable Media Player Podcasting: Wireless Sharing of Video Podcasts in Zune 2.5 Update](http://www.mobilecasternews.com/2008/06/wireless-sharing-of-video-podcasts-in.html)

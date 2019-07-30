@@ -8,7 +8,4 @@
   - **[杰罗姆·阿普特](https://zh.wikipedia.org/wiki/杰罗姆·阿普特 "wikilink")**（，曾执行、、以及任务），任务专家
   - **[琳达·格得温](https://zh.wikipedia.org/wiki/琳达·格得温 "wikilink")**（，曾执行、、以及任务），任务专家
 
-[Category:1991年美国](https://zh.wikipedia.org/wiki/Category:1991年美国 "wikilink")
-[Category:1991年科學](https://zh.wikipedia.org/wiki/Category:1991年科學 "wikilink")
-[Category:亚特兰蒂斯号航天飞机任务](https://zh.wikipedia.org/wiki/Category:亚特兰蒂斯号航天飞机任务 "wikilink")
-[Category:1991年4月](https://zh.wikipedia.org/wiki/Category:1991年4月 "wikilink")
+[Category:1991年美国](https://zh.wikipedia.org/wiki/Category:1991年美国 "wikilink") [Category:1991年科學](https://zh.wikipedia.org/wiki/Category:1991年科學 "wikilink") [Category:亚特兰蒂斯号航天飞机任务](https://zh.wikipedia.org/wiki/Category:亚特兰蒂斯号航天飞机任务 "wikilink") [Category:1991年4月](https://zh.wikipedia.org/wiki/Category:1991年4月 "wikilink")

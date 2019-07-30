@@ -1,10 +1,6 @@
-**IAST**是**國際梵語轉寫字母**的英語名稱（）的縮寫，是學術上對於[梵語](https://zh.wikipedia.org/wiki/梵語 "wikilink")[轉寫的標準](https://zh.wikipedia.org/wiki/轉寫 "wikilink")，亦變成了一般出版界，如書籍及雜誌的非業界標準。隨着[Unicode字型的普及](https://zh.wikipedia.org/wiki/Unicode "wikilink")，它在電子文本的使用亦因此而相應地增加。這項標準是於1912年在[雅典舉行的](../Page/雅典.md "wikilink")[東方學會議](https://zh.wikipedia.org/wiki/東方學會議 "wikilink")（International
-Congress of
-Orientalists）上訂立的，而它又基於了1894年在[日內瓦舉行的東方學會議制定的標準](https://zh.wikipedia.org/wiki/日內瓦 "wikilink")。\[1\]\[2\]
+**IAST**是**國際梵語轉寫字母**的英語名稱（）的縮寫，是學術上對於[梵語](https://zh.wikipedia.org/wiki/梵語 "wikilink")[轉寫的標準](https://zh.wikipedia.org/wiki/轉寫 "wikilink")，亦變成了一般出版界，如書籍及雜誌的非業界標準。隨着[Unicode字型的普及](https://zh.wikipedia.org/wiki/Unicode "wikilink")，它在電子文本的使用亦因此而相應地增加。這項標準是於1912年在[雅典](../Page/雅典.md "wikilink")舉行的[東方學會議](https://zh.wikipedia.org/wiki/東方學會議 "wikilink")（International Congress of Orientalists）上訂立的，而它又基於了1894年在[日內瓦舉行的東方學會議制定的標準](https://zh.wikipedia.org/wiki/日內瓦 "wikilink")。\[1\]\[2\]
 
-IAST是羅馬化梵語和[巴利語的最流行的方案](https://zh.wikipedia.org/wiki/巴利語 "wikilink")，它允許無損的[天城文轉寫](../Page/天城文轉寫.md "wikilink")（和其他的[印度文字比如](https://zh.wikipedia.org/wiki/婆羅米系文字 "wikilink")[克什米爾語的傳統文字](https://zh.wikipedia.org/wiki/克什米爾語 "wikilink")[夏拉達文的轉寫](../Page/夏拉達文.md "wikilink")），而且不只是[梵語的](https://zh.wikipedia.org/wiki/梵語 "wikilink")[音素](https://zh.wikipedia.org/wiki/音素 "wikilink")，還允許本質上的語音標注（比如
-[{{IAST](https://zh.wikipedia.org/wiki/止韻 "wikilink")  是詞尾的  和
-的[同位異音](../Page/同位異音.md "wikilink")）。
+IAST是羅馬化梵語和[巴利語的最流行的方案](https://zh.wikipedia.org/wiki/巴利語 "wikilink")，它允許無損的[天城文轉寫](../Page/天城文轉寫.md "wikilink")（和其他的[印度文字比如](https://zh.wikipedia.org/wiki/婆羅米系文字 "wikilink")[克什米爾語的傳統文字](https://zh.wikipedia.org/wiki/克什米爾語 "wikilink")[夏拉達文](../Page/夏拉達文.md "wikilink")的轉寫），而且不只是[梵語的](https://zh.wikipedia.org/wiki/梵語 "wikilink")[音素](https://zh.wikipedia.org/wiki/音素 "wikilink")，還允許本質上的語音標注（比如 [{{IAST](https://zh.wikipedia.org/wiki/止韻 "wikilink")  是詞尾的  和  的[同位異音](../Page/同位異音.md "wikilink")）。
 
 ## IAST 符號清單和約定
 
@@ -12,113 +8,78 @@ IAST是羅馬化梵語和[巴利語的最流行的方案](https://zh.wikipedia.o
     {| class="wikitable nounderlines" style="font-family:Arial;"
 
 |- |<span style="font-size:150%;">अ</span> 
-|<span style="font-size:150%;">आ</span> 
-|<span style="font-size:150%;">इ</span> 
-|<span style="font-size:150%;">ई</span> 
-|<span style="font-size:150%;">उ</span> 
-|<span style="font-size:150%;">ऊ</span> 
-|<span style="font-size:150%;">ऋ</span> 
-|<span style="font-size:150%;">ॠ</span> 
-|<span style="font-size:150%;">ऌ</span> 
-|<span style="font-size:150%;">ॡ</span> 
-| style="font-size:80%;" | [元音](../Page/元音.md "wikilink") |}
+ |<span style="font-size:150%;">आ</span> 
+ |<span style="font-size:150%;">इ</span> 
+ |<span style="font-size:150%;">ई</span> 
+ |<span style="font-size:150%;">उ</span> 
+ |<span style="font-size:150%;">ऊ</span> 
+ |<span style="font-size:150%;">ऋ</span> 
+ |<span style="font-size:150%;">ॠ</span> 
+ |<span style="font-size:150%;">ऌ</span> 
+ |<span style="font-size:150%;">ॡ</span> 
+ | style="font-size:80%;" | [元音](../Page/元音.md "wikilink") |}
 
   -
     {| class="wikitable nounderlines" style="font-family:Arial;"
 
 |- |<span style="font-size:150%;">ए</span> 
-|<span style="font-size:150%;">ऐ</span> 
-|<span style="font-size:150%;">ओ</span> 
-|<span style="font-size:150%;">औ</span> 
-| style="font-size:80%;" |
-[雙元音](https://zh.wikipedia.org/wiki/雙元音 "wikilink") |}
+ |<span style="font-size:150%;">ऐ</span> 
+ |<span style="font-size:150%;">ओ</span> 
+ |<span style="font-size:150%;">औ</span> 
+ | style="font-size:80%;" | [雙元音](https://zh.wikipedia.org/wiki/雙元音 "wikilink") |}
 
   -
     {| class="wikitable nounderlines" style="font-family:Arial;"
 
 |- |<span style="font-size:150%;">अं</span> 
-| style="font-size:80%;" |
-[随韵](https://zh.wikipedia.org/wiki/随韵 "wikilink") |-
-|<span style="font-size:150%;">अः</span> 
-| style="font-size:80%;" |
-[止韵](https://zh.wikipedia.org/wiki/止韵 "wikilink") |}
+ | style="font-size:80%;" | [随韵](https://zh.wikipedia.org/wiki/随韵 "wikilink") |- |<span style="font-size:150%;">अः</span> 
+ | style="font-size:80%;" | [止韵](https://zh.wikipedia.org/wiki/止韵 "wikilink") |}
 
   -
     {| class="wikitable nounderlines" style="font-family:Arial;"
 
-|- | style="font-size:80%;" |
-[軟腭音](https://zh.wikipedia.org/wiki/軟腭音 "wikilink") |
-style="font-size:80%;" | [硬腭音](../Page/硬腭音.md "wikilink") |
-style="font-size:80%;" |
-[卷舌音](https://zh.wikipedia.org/wiki/卷舌音 "wikilink") |
-style="font-size:80%;" |
-[齒音](https://zh.wikipedia.org/wiki/齒音 "wikilink") |
-style="font-size:80%;" |
-[唇音](https://zh.wikipedia.org/wiki/唇音 "wikilink") |-
-|<span style="font-size:150%;">क</span> 
-|<span style="font-size:150%;">च</span> 
-|<span style="font-size:150%;">ट</span> 
-|<span style="font-size:150%;">त</span> 
-|<span style="font-size:150%;">प</span> 
-| style="font-size:80%;" |
-[清](https://zh.wikipedia.org/wiki/清音 "wikilink")[塞音](../Page/塞音.md "wikilink")
-|- |<span style="font-size:150%;">ख</span> 
-|<span style="font-size:150%;">छ</span> 
-|<span style="font-size:150%;">ठ</span> 
-|<span style="font-size:150%;">थ</span> 
-|<span style="font-size:150%;">फ</span> 
-| style="font-size:80%;" |
-[送氣](https://zh.wikipedia.org/wiki/送氣 "wikilink")[清](https://zh.wikipedia.org/wiki/清音 "wikilink")[塞音](../Page/塞音.md "wikilink")
-|- |<span style="font-size:150%;">ग</span> 
-|<span style="font-size:150%;">ज</span> 
-|<span style="font-size:150%;">ड</span> 
-|<span style="font-size:150%;">द</span> 
-|<span style="font-size:150%;">ब</span> 
-| style="font-size:80%;" |
-[濁](https://zh.wikipedia.org/wiki/濁音 "wikilink")[塞音](../Page/塞音.md "wikilink")
-|- |<span style="font-size:150%;">घ</span> 
-|<span style="font-size:150%;">झ</span> 
-|<span style="font-size:150%;">ढ</span> 
-|<span style="font-size:150%;">ध</span> 
-|<span style="font-size:150%;">भ</span> 
-| style="font-size:80%;" |
-[送氣](https://zh.wikipedia.org/wiki/送氣 "wikilink")[濁](https://zh.wikipedia.org/wiki/濁音 "wikilink")[塞音](../Page/塞音.md "wikilink")
-|- |<span style="font-size:150%;">ङ</span> 
-|<span style="font-size:150%;">ञ</span> 
-|<span style="font-size:150%;">ण</span> 
-|<span style="font-size:150%;">न</span> 
-|<span style="font-size:150%;">म</span> 
-| style="font-size:80%;" | [鼻音](../Page/鼻音_\(辅音\).md "wikilink") |- |  
-|<span style="font-size:150%;">य</span> 
-|<span style="font-size:150%;">र</span> 
-|<span style="font-size:150%;">ल</span> 
-|<span style="font-size:150%;">व</span> 
-| style="font-size:80%;" | [半元音](../Page/半元音.md "wikilink") |- |  
-|<span style="font-size:150%;">श </span> 
-|<span style="font-size:150%;">ष</span> 
-|<span style="font-size:150%;">स</span> 
-|   | style="font-size:80%;" |
-[噝擦音](https://zh.wikipedia.org/wiki/噝擦音 "wikilink") |-
-|<span style="font-size:150%;">ह</span> 
-|   |   |   |   | style="font-size:80%;" |
-[濁](https://zh.wikipedia.org/wiki/濁音 "wikilink")[擦音](https://zh.wikipedia.org/wiki/擦音 "wikilink")
-|}
+|- | style="font-size:80%;" | [軟腭音](https://zh.wikipedia.org/wiki/軟腭音 "wikilink") | style="font-size:80%;" | [硬腭音](../Page/硬腭音.md "wikilink") | style="font-size:80%;" | [卷舌音](https://zh.wikipedia.org/wiki/卷舌音 "wikilink") | style="font-size:80%;" | [齒音](https://zh.wikipedia.org/wiki/齒音 "wikilink") | style="font-size:80%;" | [唇音](https://zh.wikipedia.org/wiki/唇音 "wikilink") |- |<span style="font-size:150%;">क</span> 
+ |<span style="font-size:150%;">च</span> 
+ |<span style="font-size:150%;">ट</span> 
+ |<span style="font-size:150%;">त</span> 
+ |<span style="font-size:150%;">प</span> 
+ | style="font-size:80%;" | [清](https://zh.wikipedia.org/wiki/清音 "wikilink")[塞音](../Page/塞音.md "wikilink") |- |<span style="font-size:150%;">ख</span> 
+ |<span style="font-size:150%;">छ</span> 
+ |<span style="font-size:150%;">ठ</span> 
+ |<span style="font-size:150%;">थ</span> 
+ |<span style="font-size:150%;">फ</span> 
+ | style="font-size:80%;" | [送氣](https://zh.wikipedia.org/wiki/送氣 "wikilink")[清](https://zh.wikipedia.org/wiki/清音 "wikilink")[塞音](../Page/塞音.md "wikilink") |- |<span style="font-size:150%;">ग</span> 
+ |<span style="font-size:150%;">ज</span> 
+ |<span style="font-size:150%;">ड</span> 
+ |<span style="font-size:150%;">द</span> 
+ |<span style="font-size:150%;">ब</span> 
+ | style="font-size:80%;" | [濁](https://zh.wikipedia.org/wiki/濁音 "wikilink")[塞音](../Page/塞音.md "wikilink") |- |<span style="font-size:150%;">घ</span> 
+ |<span style="font-size:150%;">झ</span> 
+ |<span style="font-size:150%;">ढ</span> 
+ |<span style="font-size:150%;">ध</span> 
+ |<span style="font-size:150%;">भ</span> 
+ | style="font-size:80%;" | [送氣](https://zh.wikipedia.org/wiki/送氣 "wikilink")[濁](https://zh.wikipedia.org/wiki/濁音 "wikilink")[塞音](../Page/塞音.md "wikilink") |- |<span style="font-size:150%;">ङ</span> 
+ |<span style="font-size:150%;">ञ</span> 
+ |<span style="font-size:150%;">ण</span> 
+ |<span style="font-size:150%;">न</span> 
+ |<span style="font-size:150%;">म</span> 
+ | style="font-size:80%;" | [鼻音](../Page/鼻音_\(辅音\).md "wikilink") |- |   |<span style="font-size:150%;">य</span> 
+ |<span style="font-size:150%;">र</span> 
+ |<span style="font-size:150%;">ल</span> 
+ |<span style="font-size:150%;">व</span> 
+ | style="font-size:80%;" | [半元音](../Page/半元音.md "wikilink") |- |   |<span style="font-size:150%;">श </span> 
+ |<span style="font-size:150%;">ष</span> 
+ |<span style="font-size:150%;">स</span> 
+ |   | style="font-size:80%;" | [噝擦音](https://zh.wikipedia.org/wiki/噝擦音 "wikilink") |- |<span style="font-size:150%;">ह</span> 
+ |   |   |   |   | style="font-size:80%;" | [濁](https://zh.wikipedia.org/wiki/濁音 "wikilink")[擦音](https://zh.wikipedia.org/wiki/擦音 "wikilink") |}
 
-[母音连接时](https://zh.wikipedia.org/wiki/母音 "wikilink")，a+a i+i u+u 分别使用 â
-î û 表示。
+[母音连接时](https://zh.wikipedia.org/wiki/母音 "wikilink")，a+a i+i u+u 分别使用 â î û 表示。
 
-注意：與只用 [ASCII](../Page/ASCII.md "wikilink") 碼的羅馬化如
-[ITRANS](../Page/ITRANS.md "wikilink") 或
-[Harvard-Kyoto](https://zh.wikipedia.org/wiki/Harvard-Kyoto "wikilink")
-不同，使用變音符號的 IAST 允許專有名字的首字母大寫。永不出現在詞首的字母如
-的大寫只在[波你尼的文法中有用](../Page/波你尼.md "wikilink")，這里有把
-IT
-聲音排版為大寫字母的約定（參見《[八篇書](https://zh.wikipedia.org/wiki/八篇書 "wikilink")》）。
+注意：與只用 [ASCII](../Page/ASCII.md "wikilink") 碼的羅馬化如 [ITRANS](../Page/ITRANS.md "wikilink") 或 [Harvard-Kyoto](https://zh.wikipedia.org/wiki/Harvard-Kyoto "wikilink") 不同，使用變音符號的 IAST 允許專有名字的首字母大寫。永不出現在詞首的字母如  的大寫只在[波你尼](../Page/波你尼.md "wikilink")的文法中有用，這里有把 IT 聲音排版為大寫字母的約定（參見《[八篇書](https://zh.wikipedia.org/wiki/八篇書 "wikilink")》）。
 
 ## 與ISO15919的比較
 
-在大多數情況下，IAST是[ISO
-15919的一部分](../Page/ISO_15919.md "wikilink")。以下五個例外是由於ISO標準配合符號的擴展項目，以允許天城文及其他印度語字母的音譯用於梵文之外的其它語言。
+在大多數情況下，IAST是[ISO 15919的一部分](../Page/ISO_15919.md "wikilink")。以下五個例外是由於ISO標準配合符號的擴展項目，以允許天城文及其他印度語字母的音譯用於梵文之外的其它語言。
 
 <table>
 <thead>
@@ -214,29 +175,15 @@ IT
   - [简洁多功能梵语、巴利语输入法](http://www.sanskrit-input.com/)
   - [IAST在线输入法](http://sanskrit.sinaapp.com/sanskritinput2/)
   - [太清梵语转写在线输入法](http://abkai.net/core/zh/online-keyboard/online-keyboard-iast/)
-  - [IAST
-    梵文输入法](http://blog.sina.cn/dpool/blog/s/blog_55784b070101frex.html?type=-1)
-  - [Typing a
-    macron](http://www.personal.psu.edu/ejp10/psu/gotunicode/macron.html)
-    - page from Penn State University about typing with accents
-  - [International Phonetic Alphabet chart with pronunciation
-    guide](http://www.yorku.ca/earmstro/ipa/)
-  - [A visual chart which shows clearly 1. Which part of the mouth for
-    each sound 2. The 3 groups where the 12 diacritics
-    appear.](https://drive.google.com/file/d/0B5ph4C2WV1JqZ1pjNTkxVll1ZGM)
-  - [Sanskrit Pronunciation Tips for beginners & Simple Charts to help
-    memorize where the diacritics fit
-    in.](https://vimeo.com/groups/151501)
-  - [A pronunciation guide with chart and pronunciation
-    tips](https://drive.google.com/file/d/0B5ph4C2WV1JqeEdnZVhOVWx1MUE)
-  - [IAST \<==\> Devanagari online converter (Transliteration
-    tool)](https://sites.google.com/site/technicalhindi/files/IAST%20and%20other%20Roman%20encodings%20to%20Devanagari%20%20Converter_04.html?attredirects=0&d=1)
+  - [IAST 梵文输入法](http://blog.sina.cn/dpool/blog/s/blog_55784b070101frex.html?type=-1)
+  - [Typing a macron](http://www.personal.psu.edu/ejp10/psu/gotunicode/macron.html) - page from Penn State University about typing with accents
+  - [International Phonetic Alphabet chart with pronunciation guide](http://www.yorku.ca/earmstro/ipa/)
+  - [A visual chart which shows clearly 1. Which part of the mouth for each sound 2. The 3 groups where the 12 diacritics appear.](https://drive.google.com/file/d/0B5ph4C2WV1JqZ1pjNTkxVll1ZGM)
+  - [Sanskrit Pronunciation Tips for beginners & Simple Charts to help memorize where the diacritics fit in.](https://vimeo.com/groups/151501)
+  - [A pronunciation guide with chart and pronunciation tips](https://drive.google.com/file/d/0B5ph4C2WV1JqeEdnZVhOVWx1MUE)
+  - [IAST \<==\> Devanagari online converter (Transliteration tool)](https://sites.google.com/site/technicalhindi/files/IAST%20and%20other%20Roman%20encodings%20to%20Devanagari%20%20Converter_04.html?attredirects=0&d=1)
 
-[Category:转写系统](https://zh.wikipedia.org/wiki/Category:转写系统 "wikilink")
-[Category:梵語](https://zh.wikipedia.org/wiki/Category:梵語 "wikilink")
+[Category:转写系统](https://zh.wikipedia.org/wiki/Category:转写系统 "wikilink") [Category:梵語](https://zh.wikipedia.org/wiki/Category:梵語 "wikilink")
 
-1.  [History of Skt. transcription and *1894, Rapport de la
-    Trans.*](http://shashir.autodidactus.org/shashir_umich/sanskrit_transcription.html)
-2.  X<sup>me</sup> Congrès International des Orientalistes, Session de
-    Genève. 1894. [*Rapport de la Commission de
-    Transcription*](http://shashir.autodidactus.org/shashir_umich/dl/rapportdetranscription.pdf).
+1.  [History of Skt. transcription and *1894, Rapport de la Trans.*](http://shashir.autodidactus.org/shashir_umich/sanskrit_transcription.html)
+2.  X<sup>me</sup> Congrès International des Orientalistes, Session de Genève. 1894. [*Rapport de la Commission de Transcription*](http://shashir.autodidactus.org/shashir_umich/dl/rapportdetranscription.pdf).

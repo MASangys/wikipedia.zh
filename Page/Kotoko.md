@@ -1,22 +1,14 @@
-**KOTOKO**（），本名\[1\]，是一位[日本的女性](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")，出生於[北海道](../Page/北海道.md "wikilink")[札幌市](../Page/札幌市.md "wikilink")，血型A型。身高150公分。
+**KOTOKO**（），本名\[1\]，是一位[日本](../Page/日本.md "wikilink")的女性[歌手](../Page/歌手.md "wikilink")，出生於[北海道](../Page/北海道.md "wikilink")[札幌市](../Page/札幌市.md "wikilink")，血型A型。身高150公分。
 
 ## 簡歷
 
-  - **KOTOKO**，為日本[I've公司歌唱組合的主要](../Page/I've.md "wikilink")[歌手之一](../Page/歌手.md "wikilink")，並在多數的歌曲中擔任主唱。她所演唱的主要是[動畫以及](https://zh.wikipedia.org/wiki/動畫 "wikilink")[電腦遊戲](https://zh.wikipedia.org/wiki/電腦遊戲 "wikilink")（大多是[美少女遊戲](../Page/美少女遊戲.md "wikilink")）的主題曲。她的歌曲內大多由她自己作詞，同時她也會為I've旗下的歌手的樂曲作詞。包含以其他名義在內，擔任了超過150首歌曲的主唱。她的主要作品因為她的獨特聲線及風格，她本身因而被視為[電波歌曲的代表之一](https://zh.wikipedia.org/wiki/電波歌曲 "wikilink")。
+  - **KOTOKO**，為日本[I've](../Page/I've.md "wikilink")公司歌唱組合的主要[歌手](../Page/歌手.md "wikilink")之一，並在多數的歌曲中擔任主唱。她所演唱的主要是[動畫以及](https://zh.wikipedia.org/wiki/動畫 "wikilink")[電腦遊戲](https://zh.wikipedia.org/wiki/電腦遊戲 "wikilink")（大多是[美少女遊戲](../Page/美少女遊戲.md "wikilink")）的主題曲。她的歌曲內大多由她自己作詞，同時她也會為I've旗下的歌手的樂曲作詞。包含以其他名義在內，擔任了超過150首歌曲的主唱。她的主要作品因為她的獨特聲線及風格，她本身因而被視為[電波歌曲的代表之一](https://zh.wikipedia.org/wiki/電波歌曲 "wikilink")。
   - 參與I've以外的活動時會以小寫的**kotoko**名義。
-  - 2000年7月28日時為PC十八禁遊戲「」的同名主題曲作詞而出道，同年12月1日以歌手身份出道，為PC十八禁遊戲「」的主題曲「Close
-    to
-    me...」演唱（實際上是先以I've的其中一個名為[Outer的組合](https://zh.wikipedia.org/wiki/Outer "wikilink")（unit）名義出道，為2000年9月30日所發表的PC十八禁遊戲「」的主題曲「Synthetic
-    Organism」作演唱）。
-  - 2002年1月為電視動畫《-{zh-cn:[拜托了老師](https://zh.wikipedia.org/wiki/拜托了老師 "wikilink");
-    zh-tw:[星空的邂逅](https://zh.wikipedia.org/wiki/星空的邂逅 "wikilink");
-    zh-hk:[拜託了老師](https://zh.wikipedia.org/wiki/拜託了老師 "wikilink");}-》（）演唱主題曲「Shooting
-    Star」。這是她初次為電視動畫主唱主題曲。翌年7月、與[佐藤裕美共組團體](../Page/佐藤裕美.md "wikilink")，演唱電視動畫《[拜托了雙子星](https://zh.wikipedia.org/wiki/拜托了雙子星 "wikilink")》（）的主題曲「Second
-    Flight」，這首單曲在[Oricon中獲得了初登場](../Page/Oricon.md "wikilink")15名的記錄。
+  - 2000年7月28日時為PC十八禁遊戲「」的同名主題曲作詞而出道，同年12月1日以歌手身份出道，為PC十八禁遊戲「」的主題曲「Close to me...」演唱（實際上是先以I've的其中一個名為[Outer的組合](https://zh.wikipedia.org/wiki/Outer "wikilink")（unit）名義出道，為2000年9月30日所發表的PC十八禁遊戲「」的主題曲「Synthetic Organism」作演唱）。
+  - 2002年1月為電視動畫《-{zh-cn:[拜托了老師](https://zh.wikipedia.org/wiki/拜托了老師 "wikilink"); zh-tw:[星空的邂逅](https://zh.wikipedia.org/wiki/星空的邂逅 "wikilink"); zh-hk:[拜託了老師](https://zh.wikipedia.org/wiki/拜託了老師 "wikilink");}-》（）演唱主題曲「Shooting Star」。這是她初次為電視動畫主唱主題曲。翌年7月、與[佐藤裕美](../Page/佐藤裕美.md "wikilink")共組團體，演唱電視動畫《[拜托了雙子星](https://zh.wikipedia.org/wiki/拜托了雙子星 "wikilink")》（）的主題曲「Second Flight」，這首單曲在[Oricon](../Page/Oricon.md "wikilink")中獲得了初登場15名的記錄。
   - 2007年在[台灣歌迷的連署下](https://zh.wikipedia.org/wiki/台灣 "wikilink")，於2007年6月24日在台灣[台北舉辦演唱會](https://zh.wikipedia.org/wiki/台北 "wikilink")\[2\]。
   - 2011年8月1日宣佈脫離I've，並成立其自家工作室Orpheeco。
-  - 2018年2月3日宣佈正式廻歸原點（[NBC環球娛樂](../Page/NBC環球娛樂.md "wikilink")），並凖備新專輯及Live
-    Tours。\[3\]。
+  - 2018年2月3日宣佈正式廻歸原點（[NBC環球娛樂](../Page/NBC環球娛樂.md "wikilink")），並凖備新專輯及Live Tours。\[3\]。
 
 ## 作品列表
 
@@ -115,8 +107,7 @@ CD&lt;ALTIMA ver.&gt;：1000603709</p></td>
   - 『Mixed up』（2004年12月29日／C67）絶版
   - 『Fair Heaven』（2005年7月30日／I've Special Unit名義）絶版
   - 『Collective』（2005年9月30日）
-  - 『[SHORT CIRCUIT
-    II](../Page/SHORT_CIRCUIT_II.md "wikilink")』（2007年6月22日）
+  - 『[SHORT CIRCUIT II](../Page/SHORT_CIRCUIT_II.md "wikilink")』（2007年6月22日）
 
 ### 歌詞提供
 
@@ -265,21 +256,13 @@ CD&lt;ALTIMA ver.&gt;：1000603709</p></td>
 
 ## 外部連結
 
-  - [KOTOKO OFFICIAL WEB SITE](http://www.kotoko.asia/)
-    -{公式網頁|zh-cn:官方网站; zh-tw:公式網頁; zh-hk:公式網頁;}-
+  - [KOTOKO OFFICIAL WEB SITE](http://www.kotoko.asia/) -{公式網頁|zh-cn:官方网站; zh-tw:公式網頁; zh-hk:公式網頁;}-
 
-  - [KOTOKO GENEON OFFICIAL WEB SITE](http://nbcuni-music.com/kotoko/)
-    -{公式網頁|zh-cn:官方网站; zh-tw:公式網頁; zh-hk:公式網頁;}-（GENEON）
+  - [KOTOKO GENEON OFFICIAL WEB SITE](http://nbcuni-music.com/kotoko/) -{公式網頁|zh-cn:官方网站; zh-tw:公式網頁; zh-hk:公式網頁;}-（GENEON）
 
-  - [LOW TRANCE ASSEMBLY](http://ive.mu/) I've-{公式網頁|zh-cn:官方网站;
-    zh-tw:公式網頁; zh-hk:公式網頁;}-
+  - [LOW TRANCE ASSEMBLY](http://ive.mu/) I've-{公式網頁|zh-cn:官方网站; zh-tw:公式網頁; zh-hk:公式網頁;}-
 
-[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink")
-[Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")
-[Category:北海道出身人物](https://zh.wikipedia.org/wiki/Category:北海道出身人物 "wikilink")
-[Category:I've](https://zh.wikipedia.org/wiki/Category:I've "wikilink")
-[Category:NBC環球娛樂藝人](https://zh.wikipedia.org/wiki/Category:NBC環球娛樂藝人 "wikilink")
-[Category:萌系歌曲歌手](https://zh.wikipedia.org/wiki/Category:萌系歌曲歌手 "wikilink")
+[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink") [Category:北海道出身人物](https://zh.wikipedia.org/wiki/Category:北海道出身人物 "wikilink") [Category:I've](https://zh.wikipedia.org/wiki/Category:I've "wikilink") [Category:NBC環球娛樂藝人](https://zh.wikipedia.org/wiki/Category:NBC環球娛樂藝人 "wikilink") [Category:萌系歌曲歌手](https://zh.wikipedia.org/wiki/Category:萌系歌曲歌手 "wikilink")
 
 1.
 2.

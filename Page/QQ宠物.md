@@ -12,10 +12,7 @@
 
   - [游戏官方网站](http://pet.qq.com/)
 
-[Category:腾讯游戏](https://zh.wikipedia.org/wiki/Category:腾讯游戏 "wikilink")
-[Category:养成游戏](https://zh.wikipedia.org/wiki/Category:养成游戏 "wikilink")
-[Category:2005年电子游戏](https://zh.wikipedia.org/wiki/Category:2005年电子游戏 "wikilink")
-[Category:腾讯QQ](https://zh.wikipedia.org/wiki/Category:腾讯QQ "wikilink")
+[Category:腾讯游戏](https://zh.wikipedia.org/wiki/Category:腾讯游戏 "wikilink") [Category:养成游戏](https://zh.wikipedia.org/wiki/Category:养成游戏 "wikilink") [Category:2005年电子游戏](https://zh.wikipedia.org/wiki/Category:2005年电子游戏 "wikilink") [Category:腾讯QQ](https://zh.wikipedia.org/wiki/Category:腾讯QQ "wikilink")
 
 1.
 2.

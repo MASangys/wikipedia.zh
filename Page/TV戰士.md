@@ -11,76 +11,58 @@
   - [栗山祐哉](https://zh.wikipedia.org/wiki/栗山祐哉 "wikilink")（初代 1993～1996）
   - [清野努](https://zh.wikipedia.org/wiki/清野努 "wikilink")（初代 1993～1995）
   - [小林一裕](https://zh.wikipedia.org/wiki/小林一裕 "wikilink")（初代 1993～1995）
-  - [中條慎太郎](https://zh.wikipedia.org/wiki/中條慎太郎 "wikilink")（初代
-    1993～1995）
+  - [中條慎太郎](https://zh.wikipedia.org/wiki/中條慎太郎 "wikilink")（初代 1993～1995）
   - [小林三義](https://zh.wikipedia.org/wiki/小林三義 "wikilink")（2代目 1995）
-  - [斉藤拓実](https://zh.wikipedia.org/wiki/斉藤拓実 "wikilink")（2代目 1995）
-  - [Wentz瑛士](https://zh.wikipedia.org/wiki/Wentz瑛士 "wikilink")（ウエンツ瑛士）（2代目
-    1995～1999）
-  - [相ヶ瀬龍史](https://zh.wikipedia.org/wiki/相ヶ瀬龍史 "wikilink")（2代目
-    1995～1997）
+  - [斉藤拓実 (齊藤拓實)](https://zh.wikipedia.org/wiki/斉藤拓実_\(齊藤拓實\) "wikilink")（2代目 1995）
+  - [Wentz瑛士 (瑛士偉尼茲)](https://zh.wikipedia.org/wiki/Wentz瑛士_\(瑛士偉尼茲\) "wikilink")（ウエンツ瑛士）（2代目 1995～1999）
+  - [相ヶ瀬龍史 (相之瀨龍史)](https://zh.wikipedia.org/wiki/相ヶ瀬龍史_\(相之瀨龍史\) "wikilink")（2代目 1995～1997）
   - [佐藤北斗](https://zh.wikipedia.org/wiki/佐藤北斗 "wikilink")（3代目 1996）
   - [生田斗真](../Page/生田斗真.md "wikilink")（3代目 1996～1997）
   - [坂田慎一郎](https://zh.wikipedia.org/wiki/坂田慎一郎 "wikilink")（3代目 1996）
   - [伊東亮輔](https://zh.wikipedia.org/wiki/伊東亮輔 "wikilink")（3代目 1996～1997）
-  - [伊藤俊輔](https://zh.wikipedia.org/wiki/伊藤俊輔_\(talent\) "wikilink")（4代目
-    1997～2000）
+  - [伊藤俊輔](https://zh.wikipedia.org/wiki/伊藤俊輔_\(talent\) "wikilink")（4代目 1997～2000）
   - [海道亮平](https://zh.wikipedia.org/wiki/海道亮平 "wikilink")（4代目 1997～1998）
-  - [松浦顕一郎](https://zh.wikipedia.org/wiki/松浦顕一郎 "wikilink")（4代目
-    1997～1998）
+  - [松浦顕一郎 (松浦顯一郎)](https://zh.wikipedia.org/wiki/松浦顕一郎_\(松浦顯一郎\) "wikilink")（4代目 1997～1998）
   - [橋田紘緒](https://zh.wikipedia.org/wiki/橋田紘緒 "wikilink")（4代目 1997～2000）
-  - [ジェームス・マーティン](https://zh.wikipedia.org/wiki/ジミーMackey "wikilink")（5代目
-    1998～1999）
+  - [ジェームス・マーティン (詹姆斯馬丁)](https://zh.wikipedia.org/wiki/ジミーMackey "wikilink")（5代目 1998～1999）
   - [安藤奏](https://zh.wikipedia.org/wiki/安藤奏 "wikilink")（5代目 1998）
-  - [山元竜一](https://zh.wikipedia.org/wiki/山元竜一 "wikilink")（5代目 1998～2003）
+  - [山元竜一 (山元龍一)](https://zh.wikipedia.org/wiki/山元竜一_\(山元龍一\) "wikilink")（5代目 1998～2003）
   - [福田亮太](https://zh.wikipedia.org/wiki/福田亮太 "wikilink")（6代目 1999～2000）
   - [須田泰大](https://zh.wikipedia.org/wiki/須田泰大 "wikilink")（6代目 1999～2000）
-  - [エバンス太郎](https://zh.wikipedia.org/wiki/エバンス太郎 "wikilink")（7代目
-    2000～2001）
+  - [エバンス太郎 (約翰納森太郎艾樊斯/ Jonathan Taroh Evans)](https://zh.wikipedia.org/wiki/エバンス太郎_\(約翰納森太郎艾樊斯/_Jonathan_Taroh_Evans\) "wikilink")（7代目 2000～2001）
   - [熊木翔](https://zh.wikipedia.org/wiki/熊木翔 "wikilink")（7代目 2000～2002）
   - [松下博昭](https://zh.wikipedia.org/wiki/松下博昭 "wikilink")（7代目 2000）
-  - [ローブリィ翔](https://zh.wikipedia.org/wiki/ローブリィ翔 "wikilink")（7代目
-    2000～2002）
+  - [ローブリィ翔 (翔樓布利/ Shaw Rowbury)](https://zh.wikipedia.org/wiki/ローブリィ翔_\(翔樓布利/_Shaw_Rowbury\) "wikilink")（7代目 2000～2002）
   - [竪山隼太](https://zh.wikipedia.org/wiki/竪山隼太 "wikilink")（8代目 2001）
   - [松井蘭丸](https://zh.wikipedia.org/wiki/松井蘭丸 "wikilink")（8代目 2001～2002）
   - [井出卓也](https://zh.wikipedia.org/wiki/井出卓也 "wikilink")（8代目 2001～2004）
   - [八木俊彦](https://zh.wikipedia.org/wiki/八木俊彦 "wikilink")（8代目 2001～2003）
-  - [ブライアン・ウォルターズ](https://zh.wikipedia.org/wiki/ブライアン・ウォルターズ "wikilink")（9代目
-    2002～2003）
+  - [ブライアン・ウォルターズ (布萊恩華爾特斯/ Brian Walters](https://zh.wikipedia.org/wiki/ブライアン・ウォルターズ_\(布萊恩華爾特斯/_Brian_Walters "wikilink")（9代目 2002～2003）
   - [堀江幸生](https://zh.wikipedia.org/wiki/堀江幸生 "wikilink")（9代目 2002～2004）
-  - [マイケル・メンツァー](https://zh.wikipedia.org/wiki/Michael "wikilink")（9代目
-    2002～2003）
+  - [マイケル・メンツァー (麥可蒙慈爾)](https://zh.wikipedia.org/wiki/Michael "wikilink")（9代目 2002～2003）
   - [前田公輝](../Page/前田公輝.md "wikilink")（10代目 2003～2005）
-  - [de・Lencquesaing望](https://zh.wikipedia.org/wiki/de・Lencquesaing望 "wikilink")（10代目
-    2003～2005）
-  - [張沢紫星](https://zh.wikipedia.org/wiki/張沢紫星 "wikilink")（10代目
-    2003～2004）
-  - [洸太Lacey](../Page/洸太Lacey.md "wikilink")（洸太レイシー）（11代目 2004～2006）
-  - [Barnes勇氣](../Page/Barnes勇氣.md "wikilink")（バーンズ勇気）（11代目 2004～2006）
+  - [de・Lencquesaing望 (望德倫克桑)](https://zh.wikipedia.org/wiki/de・Lencquesaing望_\(望德倫克桑\) "wikilink")（10代目 2003～2005）
+  - [張沢紫星 (張澤紫星)](https://zh.wikipedia.org/wiki/張沢紫星_\(張澤紫星\) "wikilink")（10代目 2003～2004）
+  - [洸太Lacey (湯馬斯洸太雷西/ Thomas Kohta Lacey)](https://zh.wikipedia.org/wiki/洸太Lacey_\(湯馬斯洸太雷西/_Thomas_Kohta_Lacey\) "wikilink")（洸太レイシー）（11代目 2004～2006）
+  - [Barnes勇氣 (羅德尼勇氣巴恩斯/ Rodney Yuuki Barnes](https://zh.wikipedia.org/wiki/Barnes勇氣_\(羅德尼勇氣巴恩斯/_Rodney_Yuuki_Barnes "wikilink")（バーンズ勇気）（11代目 2004～2006）
   - [高橋郁哉](../Page/高橋郁哉.md "wikilink")（11代目 2004～2006）
-  - [千秋Lacey](https://zh.wikipedia.org/wiki/千秋Lacey "wikilink")（11代目
-    2004～2007）
+  - [千秋Lacey (帕特利克千秋雷西/ Patrick Chiaki Lacey](https://zh.wikipedia.org/wiki/千秋Lacey_\(帕特利克千秋雷西/_Patrick_Chiaki_Lacey "wikilink")（11代目 2004～2007）
   - [永島謙二郎](../Page/永島謙二郎.md "wikilink")（12代目 2005～2006）
   - [木村遼希](../Page/木村遼希.md "wikilink")（12代目 2005～2007）
   - [笠原拓巳](../Page/笠原拓巳.md "wikilink")（12代目 2005～）
-  - [Ryan](https://zh.wikipedia.org/wiki/藤田Ryan "wikilink")（藤田ライアン）（12代目
-    2005～2007）
+  - [藤田賴恩](https://zh.wikipedia.org/wiki/藤田賴恩 "wikilink")（藤田ライアン/ Ryan Fujita）（12代目 2005～2007）
   - [日向滉一](../Page/日向滉一.md "wikilink")（13代目 2006～2007）
   - [小關裕太](../Page/小關裕太.md "wikilink")（小関裕太）（13代目 2006～2008）
   - [千葉一磨](../Page/千葉一磨.md "wikilink")（13代目 2006～）
-  - [渡邉聖斗](https://zh.wikipedia.org/wiki/渡邉聖斗 "wikilink")（14代目
-    2007～2008）
-  - [吉野翔太](https://zh.wikipedia.org/wiki/吉野翔太 "wikilink")（14代目
-    2007～2008）
+  - [渡邉聖斗 (渡邊聖斗)](https://zh.wikipedia.org/wiki/渡邉聖斗_\(渡邊聖斗\) "wikilink")（14代目 2007～2008）
+  - [吉野翔太](https://zh.wikipedia.org/wiki/吉野翔太 "wikilink")（14代目 2007～2008）
   - [荒木次元](https://zh.wikipedia.org/wiki/荒木次元 "wikilink")（14代目 2007～）
-  - [丸山瀨南](https://zh.wikipedia.org/wiki/丸山瀨南 "wikilink")（丸山瀬南）（14代目
-    2007～2008）
-  - [Benjamin](https://zh.wikipedia.org/wiki/Mitchell_Benjamin "wikilink")（ミッチェル・ベンジャミン|ベンジャミン）
+  - [丸山瀨南](https://zh.wikipedia.org/wiki/丸山瀨南 "wikilink")（丸山瀬南）（14代目 2007～2008）
+  - [Benjamin](https://zh.wikipedia.org/wiki/Mitchell_Benjamin "wikilink")（ミッチェル・ベンジャミン|ベンジャミン/ 本嘉敏密齊爾）
   - [武田聖夜](https://zh.wikipedia.org/wiki/武田聖夜 "wikilink")（15代目 2008～）
   - [島田翼](https://zh.wikipedia.org/wiki/島田翼 "wikilink")（15代目 2008）
   - [伊藤元太](https://zh.wikipedia.org/wiki/伊藤元太 "wikilink")（15代目 2008～）
-  - [田中理來](https://zh.wikipedia.org/wiki/田中理來 "wikilink")（田中理来）（15代目
-    2008）
+  - [田中理來](https://zh.wikipedia.org/wiki/田中理來 "wikilink")（田中理来）（15代目 2008）
   - [木村遼](https://zh.wikipedia.org/wiki/木村遼 "wikilink")（15代目 2008～）
   - [齊藤稜駿](https://zh.wikipedia.org/wiki/齊藤稜駿 "wikilink")（16代目 2009～）
   - [上妻成吾](../Page/上妻成吾.md "wikilink")（16代目 2009～）
@@ -89,63 +71,50 @@
 
 ### 女性
 
-  - [クリスティー](https://zh.wikipedia.org/wiki/クリスティー_\(タレント\) "wikilink")（クリスティー・夏実・コーサル，初代
-    1993～1995）
+  - [クリスティー](https://zh.wikipedia.org/wiki/クリスティー_\(タレント\) "wikilink")（クリスティー・夏実・コーサル/ 克莉絲蒂高薩爾，初代 1993～1995）
   - [須山彩](https://zh.wikipedia.org/wiki/須山彩 "wikilink")（初代 1993～1995）
-  - [山口美沙](https://zh.wikipedia.org/wiki/山口美沙 "wikilink")（初代 1993～1995
-    ※2006年度現場直播「**快樂星期四\!**」主持人）
-  - [ジェニファー・ハースト](https://zh.wikipedia.org/wiki/ジェニファー・ハースト "wikilink")（初代
-    1993～1995）
-  - [田原加奈子](https://zh.wikipedia.org/wiki/田原加奈子 "wikilink")（初代
-    1993～1995）
+  - [山口美沙](https://zh.wikipedia.org/wiki/山口美沙 "wikilink")（初代 1993～1995 ※2006年度現場直播「**快樂星期四\!**」主持人）
+  - [ジェニファー・ハースト](https://zh.wikipedia.org/wiki/ジェニファー・ハースト "wikilink")（珍妮弗哈斯特 初代 1993～1995）
+  - [田原加奈子](https://zh.wikipedia.org/wiki/田原加奈子 "wikilink")（初代 1993～1995）
   - [三星眞奈美](https://zh.wikipedia.org/wiki/三星眞奈美 "wikilink")（2代目 1995）
   - [漆野友美](https://zh.wikipedia.org/wiki/漆野友美 "wikilink")（2代目 1995）
-  - [阿部七絵](https://zh.wikipedia.org/wiki/阿部七絵 "wikilink")（2代目 1995～1997）
-  - [渋谷桃子](https://zh.wikipedia.org/wiki/渋谷桃子 "wikilink")（2代目 1995）
+  - [阿部七絵](https://zh.wikipedia.org/wiki/阿部七絵 "wikilink")（阿部七繪 2代目 1995～1997）
+  - [渋谷桃子](https://zh.wikipedia.org/wiki/渋谷桃子 "wikilink")（澀谷桃子 2代目 1995）
   - [鈴木愛可](https://zh.wikipedia.org/wiki/鈴木愛可 "wikilink")（3代目 1996）
   - [保里優紀](https://zh.wikipedia.org/wiki/保里優紀 "wikilink")（3代目 1996）
   - [大塚清華](https://zh.wikipedia.org/wiki/大塚清華 "wikilink")（3代目 1996）
-  - [ジェニファー・ペリマン](https://zh.wikipedia.org/wiki/ジェニファー・ペリマン "wikilink")（3代目
-    1996～1997）
+  - [ジェニファー・ペリマン](https://zh.wikipedia.org/wiki/ジェニファー・ペリマン "wikilink")（珍妮弗培里曼 3代目 1996～1997）
   - [篠原麻里](https://zh.wikipedia.org/wiki/篠原麻里 "wikilink")（3代目 1996～1997）
   - [前田亞季](../Page/前田亞季.md "wikilink")（前田亜季）（3代目 1996～1997）
-  - [ジャスミン・アレン](https://zh.wikipedia.org/wiki/ジャスミン・アレン "wikilink")（3代目
-    1996～1999）
+  - [ジャスミン・アレン](https://zh.wikipedia.org/wiki/ジャスミン・アレン "wikilink")（嘉斯敏亞倫 3代目 1996～1999）
   - [棚橋由希](https://zh.wikipedia.org/wiki/棚橋由希 "wikilink")（3代目 1996～1999）
   - [饗場詩野](https://zh.wikipedia.org/wiki/饗場詩野 "wikilink")（3代目 1996～2000）
   - [松川佳以](https://zh.wikipedia.org/wiki/松川佳以 "wikilink")（4代目 1997～1998）
   - [田中樹里](https://zh.wikipedia.org/wiki/田中樹里 "wikilink")（4代目 1997～1998）
-  - [中田亞好美(中田あすみ)](https://zh.wikipedia.org/wiki/中田亞好美\(中田あすみ\) "wikilink")（5代目
-    1998～2001）
-  - [佐久間信子](https://zh.wikipedia.org/wiki/佐久間信子 "wikilink")（5代目
-    1998～2000）
-  - [有紗](https://zh.wikipedia.org/wiki/有紗 "wikilink")（ダーブロウ有紗，5代目
-    1998～2001）
+  - [中田明日見 (中田あすみ)](https://zh.wikipedia.org/wiki/中田明日見_\(中田あすみ\) "wikilink")（5代目 1998～2001）
+  - [佐久間信子](https://zh.wikipedia.org/wiki/佐久間信子 "wikilink")（5代目 1998～2000）
+  - [有紗](https://zh.wikipedia.org/wiki/有紗 "wikilink")（ダーブロウ有紗/ 有紗達布樓，5代目 1998～2001）
   - [石部里紗](https://zh.wikipedia.org/wiki/矢嶋里紗 "wikilink")（6代目 1999）
-  - [大沢あかね](https://zh.wikipedia.org/wiki/大沢あかね "wikilink")（6代目 1999）
-  - [モニーク・ローズ](https://zh.wikipedia.org/wiki/モニーク・ローズ "wikilink")（6代目
-    1999～2001）
+  - [大沢あかね](https://zh.wikipedia.org/wiki/大沢あかね "wikilink")（大澤茜 6代目 1999）
+  - [モニーク・ローズ](https://zh.wikipedia.org/wiki/モニーク・ローズ "wikilink")（莫妮克羅斯 6代目 1999～2001）
   - [徐桑安](https://zh.wikipedia.org/wiki/徐桑安 "wikilink")（6代目 1999～2000）
   - [安斎舞](https://zh.wikipedia.org/wiki/安齊舞 "wikilink")（6代目 1999～2002）
   - [石田比奈子](https://zh.wikipedia.org/wiki/石田比奈子 "wikilink")（7代目 2000）
   - [逵優希](https://zh.wikipedia.org/wiki/逵優希 "wikilink")（7代目 2000）
   - [俵有希子](https://zh.wikipedia.org/wiki/俵有希子 "wikilink")（7代目 2000～2002）
-  - [村田千宏](https://zh.wikipedia.org/wiki/村田Chihiro "wikilink")（村田ちひろ）（7代目
-    2000～2005　※從2001年開始以**村田Chihiro**作為別名，但從2002年起統一稱為村田Chihiro）
+  - [村田千宏](https://zh.wikipedia.org/wiki/村田Chihiro "wikilink")（村田ちひろ）（7代目 2000～2005　※從2001年開始以**村田Chihiro**作為別名，但從2002年起統一稱為村田Chihiro）
   - [村上東奈](https://zh.wikipedia.org/wiki/村上東奈 "wikilink")（8代目 2001～2002）
   - [岩井七世](https://zh.wikipedia.org/wiki/岩井七世 "wikilink")（8代目 2001～2003）
   - [俵小百合](https://zh.wikipedia.org/wiki/俵小百合 "wikilink")（8代目 2001～2003）
   - [中村有沙](https://zh.wikipedia.org/wiki/中村有沙 "wikilink")（8代目 2001～2004）
   - [豕瀬志穗](https://zh.wikipedia.org/wiki/豕瀬志穗 "wikilink")（8代目 2001～2003）
-  - [白木杏奈](https://zh.wikipedia.org/wiki/杏奈_\(タレント\) "wikilink")（9代目
-    2002～2004）
+  - [白木杏奈](https://zh.wikipedia.org/wiki/杏奈_\(タレント\) "wikilink")（現改名: 赤沼杏奈 9代目 2002～2004）
   - [飯田里穗](../Page/飯田里穗.md "wikilink")（9代目 2002～2005）
-  - [ジョアン・ヤマザキ](https://zh.wikipedia.org/wiki/ジョアン_\(タレント\) "wikilink")（9代目
-    2002～2004）
-  - [堀口美咲](https://zh.wikipedia.org/wiki/堀口美咲 "wikilink")（10代目 2003）
+  - [ジョアン・ヤマザキ](https://zh.wikipedia.org/wiki/ジョアン_\(タレント\) "wikilink")（山崎茱安 9代目 2002～2004）
+  - [堀口美咲](https://zh.wikipedia.org/wiki/堀口美咲 "wikilink")（崛口美笑 10代目 2003）
   - [桜井結花](https://zh.wikipedia.org/wiki/桜井結花 "wikilink")（10代目 2003）
-  - [近藤Emma](../Page/近藤Emma.md "wikilink")（近藤エマ）（10代目 2003～2005）
-  - [樹音](../Page/樹音.md "wikilink")（川崎樹音，10代目 2003～2008）
+  - [近藤Emma](../Page/近藤Emma.md "wikilink")（近藤エマ/ 近藤瑛茉）（10代目 2003～2005）
+  - [樹音](../Page/樹音.md "wikilink")（川崎樹音 現改名: 木笑樹音 (木咲樹音)，10代目 2003～2008）
   - [篠原愛實](../Page/篠原愛實.md "wikilink")（篠原愛実）（11代目 2004～2006）
   - [橋本甜歌](../Page/橋本甜歌.md "wikilink")（11代目 2004～）
   - [伊倉愛美](../Page/伊倉愛美.md "wikilink")（11代目 2004～）
@@ -156,31 +125,24 @@
   - [藤本七海](../Page/藤本七海.md "wikilink")（12代目 2005～2006）
   - [大木梓彩](../Page/大木梓彩.md "wikilink")（13代目 2006）
   - [細川藍](../Page/細川藍.md "wikilink")（13代目 2006～2007）
-  - [渡邊Elly](../Page/渡邊Elly.md "wikilink")（渡邊エリー）（13代目 2006～2007）
+  - [渡邊Elly](../Page/渡邊Elly.md "wikilink")（渡邊エリー/ 渡邊艾麗）（13代目 2006～2007）
   - [細田羅夢](../Page/細田羅夢.md "wikilink")（13代目 2006～2008）
-  - [加藤Gina](../Page/加藤Gina.md "wikilink")（加藤ジーナ）（13代目 2006～）
-  - [長谷川明里](https://zh.wikipedia.org/wiki/長谷川明里 "wikilink")（長谷川あかり）（14代目
-    2007～）
+  - [加藤Gina](../Page/加藤Gina.md "wikilink")（加藤ジーナ/ 加藤吉娜）（13代目 2006～）
+  - [長谷川明里](https://zh.wikipedia.org/wiki/長谷川明里 "wikilink")（長谷川あかり）（14代目 2007～）
   - [藤井千帆](https://zh.wikipedia.org/wiki/藤井千帆 "wikilink")（14代目 2007～）
   - [鍋本帆乃香](https://zh.wikipedia.org/wiki/鍋本帆乃香 "wikilink")（14代目 2007～）
-  - [Melody
-    Chuback](https://zh.wikipedia.org/wiki/Melody_Chuback "wikilink")（メロディー・チューバック）（14代目
-    2007～）
+  - [Melody Chubak](https://zh.wikipedia.org/wiki/Melody_Chubak "wikilink")（メロディー・チューバック/ 梅羅迪楚巴克）（14代目 2007～）
   - [松尾瑠璃](https://zh.wikipedia.org/wiki/松尾瑠璃 "wikilink")（14代目 2007）
   - [重本小鳥](../Page/重本小鳥.md "wikilink")（重本ことり）（15代目 2008～）
   - [山田樹里亞](https://zh.wikipedia.org/wiki/山田樹里亞 "wikilink")（15代目 2008）
-  - [中村彩乃](https://zh.wikipedia.org/wiki/中村彩乃 "wikilink")（中村あやの）（15代目
-    2008～）
+  - [中村彩乃](https://zh.wikipedia.org/wiki/中村彩乃 "wikilink")（中村あやの）（15代目 2008～）
   - [水本凛](https://zh.wikipedia.org/wiki/水本凛 "wikilink")（15代目 2008～）
   - [鈴木美知代](https://zh.wikipedia.org/wiki/鈴木美知代 "wikilink")（16代目 2009～）
-  - [脇菜菜香](https://zh.wikipedia.org/wiki/脇菜菜香 "wikilink")（脇菜々香）（16代目
-    2009～）
+  - [脇菜菜香](https://zh.wikipedia.org/wiki/脇菜菜香 "wikilink")（脇菜々香）（16代目 2009～）
   - [平田真優香](https://zh.wikipedia.org/wiki/平田真優香 "wikilink")（16代目 2009～）
   - [渡邊青萊](https://zh.wikipedia.org/wiki/渡邊青萊 "wikilink")（16代目 2009～）
-  - [鎮西壽壽歌](https://zh.wikipedia.org/wiki/鎮西壽壽歌 "wikilink")（鎮西寿々歌）（16代目
-    2009～）
-  - [白坂奈奈](https://zh.wikipedia.org/wiki/白坂奈奈 "wikilink")（白坂奈々）（16代目
-    2009～）
+  - [鎮西壽壽歌](https://zh.wikipedia.org/wiki/鎮西壽壽歌 "wikilink")（鎮西寿々歌）（16代目 2009～）
+  - [白坂奈奈](https://zh.wikipedia.org/wiki/白坂奈奈 "wikilink")（白坂奈々）（16代目 2009～）
 
 <!-- end list -->
 
@@ -203,7 +165,7 @@
 9.  安斎舞在2000年度途中改名為安齊舞。
 10. 村田千宏在2001年度以村田Chihiro（村田ちひろ）為別名（在2002年度正式改名）。
 11. 白木杏奈在2004年度末改名為杏奈。
-12. 岩井七世在畢業後在姊妹節目[天才ビットくん裡演出生活科教師的角色](https://zh.wikipedia.org/wiki/天才ビットくん "wikilink")。
+12. 岩井七世在畢業後在姊妹節目[天才ビットくん (天才電視小組之數位世界)裡演出生活科教師的角色](https://zh.wikipedia.org/wiki/天才ビットくん_\(天才電視小組之數位世界\) "wikilink")。以後， 前電視戰士中田明日見登上主演。
 13. [山口美沙在](https://zh.wikipedia.org/wiki/山口美沙 "wikilink")2006年度現場直播**快樂星期四\!**中擔任主持人。
 14. Ryan（ライアン）把藤田Ryan（藤田ライアン）作為別名，但是在2006年度正式改名。
 
@@ -211,27 +173,19 @@
 
 ### 主持人
 
-  - 初代 -
-    [鴕鳥俱樂部](../Page/鴕鳥俱樂部.md "wikilink")（[搞笑三人組](https://zh.wikipedia.org/wiki/搞笑藝人 "wikilink")、1993年4月播出～）
+  - 初代 - [鴕鳥俱樂部](../Page/鴕鳥俱樂部.md "wikilink")（[搞笑三人組](https://zh.wikipedia.org/wiki/搞笑藝人 "wikilink")、1993年4月播出～）
       - [バカルディ](https://zh.wikipedia.org/wiki/さまぁ～ず "wikilink")（1994－1995年星期五版**クイズ電脳バトラー**）
-  - 2代目 -
-    [キャイ～ン](https://zh.wikipedia.org/wiki/キャイ～ン "wikilink")（[搞笑搭檔](https://zh.wikipedia.org/wiki/搞笑搭檔 "wikilink")、1996年4月－）
-  - 3代目 -
-    [山崎邦正](https://zh.wikipedia.org/wiki/山崎邦正 "wikilink")（[搞笑藝人](https://zh.wikipedia.org/wiki/搞笑藝人 "wikilink")）、[リサ・ステッグマイヤー](https://zh.wikipedia.org/wiki/リサ・ステッグマイヤー "wikilink")（[talent](https://zh.wikipedia.org/wiki/talent "wikilink")）（1998年4月－）
-  - 4代目 -
-    [角田信朗](https://zh.wikipedia.org/wiki/角田信朗 "wikilink")（[talent](https://zh.wikipedia.org/wiki/talent "wikilink")、當時是[格闘家](https://zh.wikipedia.org/wiki/格闘家 "wikilink")）、[山川惠里佳](https://zh.wikipedia.org/wiki/山川惠里佳 "wikilink")（[talent](https://zh.wikipedia.org/wiki/talent "wikilink")）（2001年4月－）
-  - 5代目 -
-    [極楽とんぼ](https://zh.wikipedia.org/wiki/極楽とんぼ "wikilink")（[搞笑搭檔](https://zh.wikipedia.org/wiki/搞笑搭檔 "wikilink")、2002年4月－）
-  - 6代目 -
-    [TIM](https://zh.wikipedia.org/wiki/TIM "wikilink")（[搞笑搭檔](https://zh.wikipedia.org/wiki/搞笑搭檔 "wikilink")、2003年4月－2007年3月）
-  - 7代目 -
-    [ハリセンボン](https://zh.wikipedia.org/wiki/ハリセンボン "wikilink")（[搞笑搭檔](https://zh.wikipedia.org/wiki/搞笑搭檔 "wikilink")、2007年4月－現在）
+  - 2代目 - [キャイ～ン](https://zh.wikipedia.org/wiki/キャイ～ン "wikilink")（[搞笑搭檔](https://zh.wikipedia.org/wiki/搞笑搭檔 "wikilink")、1996年4月－）
+  - 3代目 - [山崎邦正](https://zh.wikipedia.org/wiki/山崎邦正 "wikilink")（[搞笑藝人](https://zh.wikipedia.org/wiki/搞笑藝人 "wikilink")）、[リサ・ステッグマイヤー (麗莎史特格麥亞)](https://zh.wikipedia.org/wiki/リサ・ステッグマイヤー_\(麗莎史特格麥亞\) "wikilink")（[talent](https://zh.wikipedia.org/wiki/talent "wikilink")）（1998年4月－）
+  - 4代目 - [角田信朗](https://zh.wikipedia.org/wiki/角田信朗 "wikilink")（[talent](https://zh.wikipedia.org/wiki/talent "wikilink")、當時是[格闘家](https://zh.wikipedia.org/wiki/格闘家 "wikilink")）、[山川惠里佳](https://zh.wikipedia.org/wiki/山川惠里佳 "wikilink")（[talent](https://zh.wikipedia.org/wiki/talent "wikilink")）（2001年4月－）
+  - 5代目 - [極楽とんぼ](https://zh.wikipedia.org/wiki/極楽とんぼ "wikilink")（[搞笑搭檔](https://zh.wikipedia.org/wiki/搞笑搭檔 "wikilink")、2002年4月－）
+  - 6代目 - [TIM](https://zh.wikipedia.org/wiki/TIM "wikilink")（[搞笑搭檔](https://zh.wikipedia.org/wiki/搞笑搭檔 "wikilink")、2003年4月－2007年3月）
+  - 7代目 - [ハリセンボン](https://zh.wikipedia.org/wiki/ハリセンボン "wikilink")（[搞笑搭檔](https://zh.wikipedia.org/wiki/搞笑搭檔 "wikilink")、2007年4月－現在）
       - [井上Ma-](https://zh.wikipedia.org/wiki/井上Ma- "wikilink")、[山口美沙](https://zh.wikipedia.org/wiki/山口美沙 "wikilink")（2006年星期四現場直播**快樂星期四\!**）
 
 <!-- end list -->
 
-1.  山川惠里佳降格為平Regular、在2002年**SF (?) スペース新喜劇
-    ラフィン★スター**、2003年**こちらHK学園笑芸部\!**裡演出。
+1.  山川惠里佳降格為平Regular、在2002年**SF (?) スペース新喜劇 ラフィン★スター**、2003年**こちらHK学園笑芸部\!**裡演出。
 
 ### 播報員
 

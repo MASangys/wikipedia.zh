@@ -2,8 +2,7 @@
 
 :\*TE-9 石油、天然气工业经济
 
-:\*TE0
-[能源与](../Page/能源.md "wikilink")[节能](https://zh.wikipedia.org/wiki/节能 "wikilink")
+:\*TE0 [能源](../Page/能源.md "wikilink")与[节能](https://zh.wikipedia.org/wiki/节能 "wikilink")
 
 ::\*TE01 能源计算
 
@@ -13,8 +12,7 @@
 
 ::\*TE09 能源综合利用
 
-:\*TE1
-[石油](../Page/石油.md "wikilink")、[天然气地质与勘探](../Page/天然气.md "wikilink")
+:\*TE1 [石油](../Page/石油.md "wikilink")、[天然气](../Page/天然气.md "wikilink")地质与勘探
 
 ::\*TE11 油气田勘探组织与管理
 

@@ -6,15 +6,8 @@
 
 #### Opteron 100-系列 "SledgeHammer" (130 nm)
 
-  - 全系列支援:
-    *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"),
-    [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"),
-    [SSE2](../Page/SSE2.md "wikilink"), [Enhanced
-    3DNow\!](../Page/3DNow!.md "wikilink"), [NX
-    bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"),
-    [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink")*
-  - All models with OPN ending in AG support up to Registered PC2700
-    [DDR SDRAM](../Page/DDR_SDRAM.md "wikilink")
+  - 全系列支援: *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"), [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"), [SSE2](../Page/SSE2.md "wikilink"), [Enhanced 3DNow\!](../Page/3DNow!.md "wikilink"), [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"), [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink")*
+  - All models with OPN ending in AG support up to Registered PC2700 [DDR SDRAM](../Page/DDR_SDRAM.md "wikilink")
   - 全系列支援DDR SDRAM
   - 全系列僅支援一顆CPU同時運作
 
@@ -42,15 +35,8 @@
 
 #### Opteron 200系列 "SledgeHammer" (130 nm)
 
-  - 全系列支援
-    *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"),
-    [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"),
-    [SSE2](../Page/SSE2.md "wikilink"), [Enhanced
-    3DNow\!](../Page/3DNow!.md "wikilink"), [NX
-    bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"),
-    [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink")*
-  - All models with OPN ending in AH support up to Registered PC2700
-    [DDR SDRAM](../Page/DDR_SDRAM.md "wikilink")
+  - 全系列支援 *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"), [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"), [SSE2](../Page/SSE2.md "wikilink"), [Enhanced 3DNow\!](../Page/3DNow!.md "wikilink"), [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"), [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink")*
+  - All models with OPN ending in AH support up to Registered PC2700 [DDR SDRAM](../Page/DDR_SDRAM.md "wikilink")
   - 全系列支援 [DDR SDRAM](../Page/DDR_SDRAM.md "wikilink")
   - 全系列支援兩顆CPU同時運作
 
@@ -78,15 +64,8 @@
 
 #### Opteron 800系列 "SledgeHammer" (130 nm)
 
-  - 全系列支援:
-    *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"),
-    [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"),
-    [SSE2](../Page/SSE2.md "wikilink"), [Enhanced
-    3DNow\!](../Page/3DNow!.md "wikilink"), [NX
-    bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"),
-    [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink")*
-  - All models with OPN ending in AI support up to Registered PC2700
-    [DDR SDRAM](../Page/DDR_SDRAM.md "wikilink")
+  - 全系列支援: *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"), [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"), [SSE2](../Page/SSE2.md "wikilink"), [Enhanced 3DNow\!](../Page/3DNow!.md "wikilink"), [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"), [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink")*
+  - All models with OPN ending in AI support up to Registered PC2700 [DDR SDRAM](../Page/DDR_SDRAM.md "wikilink")
   - 全系列支援 [DDR SDRAM](../Page/DDR_SDRAM.md "wikilink")
   - 全系列最高支援八個CPU同時運作
 
@@ -114,16 +93,8 @@
 
 #### Opteron 100 系列 "Venus" (90 nm, socket 939)
 
-  - 全系列支援
-    *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"),
-    [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"),
-    [SSE2](../Page/SSE2.md "wikilink"),
-    [SSE3](../Page/SSE3.md "wikilink"), [Enhanced
-    3DNow\!](../Page/3DNow!.md "wikilink"), [NX
-    bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"),
-    [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink")*
-  - All models support up to Unbuffered PC3200 [DDR
-    SDRAM](../Page/DDR_SDRAM.md "wikilink")
+  - 全系列支援 *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"), [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"), [SSE2](../Page/SSE2.md "wikilink"), [SSE3](../Page/SSE3.md "wikilink"), [Enhanced 3DNow\!](../Page/3DNow!.md "wikilink"), [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"), [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink")*
+  - All models support up to Unbuffered PC3200 [DDR SDRAM](../Page/DDR_SDRAM.md "wikilink")
   - 全系列僅支援一顆CPU同時運作
 
 | 型號                       | 頻率      | [L2-Cache](https://zh.wikipedia.org/wiki/CPU_caches#Multi-level_caches "wikilink") | [HT](../Page/HyperTransport.md "wikilink") | [Mult](https://zh.wikipedia.org/wiki/Clock_multiplier "wikilink") | [Voltage](https://zh.wikipedia.org/wiki/CPU_core_voltage "wikilink") | [TDP](https://zh.wikipedia.org/wiki/Thermal_Design_Power "wikilink") | [Socket](https://zh.wikipedia.org/wiki/CPU_socket "wikilink") | 發表時間           |
@@ -144,16 +115,8 @@
 
 #### Opteron 100 系列 "Venus" (90 nm, socket 940)
 
-  - 全系列支援
-    *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"),
-    [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"),
-    [SSE2](../Page/SSE2.md "wikilink"),
-    [SSE3](../Page/SSE3.md "wikilink"), [Enhanced
-    3DNow\!](../Page/3DNow!.md "wikilink"), [NX
-    bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"),
-    [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink")*
-  - All models support up to Unbuffered PC3200 [DDR
-    SDRAM](../Page/DDR_SDRAM.md "wikilink")
+  - 全系列支援 *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"), [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"), [SSE2](../Page/SSE2.md "wikilink"), [SSE3](../Page/SSE3.md "wikilink"), [Enhanced 3DNow\!](../Page/3DNow!.md "wikilink"), [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"), [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink")*
+  - All models support up to Unbuffered PC3200 [DDR SDRAM](../Page/DDR_SDRAM.md "wikilink")
   - 全系列僅支援一顆CPU同時運作
 
 | 型號r                                  | 頻率      | [L2-Cache](https://zh.wikipedia.org/wiki/CPU_caches#Multi-level_caches "wikilink") | [HT](../Page/HyperTransport.md "wikilink") | [Mult](https://zh.wikipedia.org/wiki/Clock_multiplier "wikilink") | [Voltage](https://zh.wikipedia.org/wiki/CPU_core_voltage "wikilink") | [TDP](https://zh.wikipedia.org/wiki/Thermal_Design_Power "wikilink") | [Socket](https://zh.wikipedia.org/wiki/CPU_socket "wikilink") | 發表時間          |
@@ -171,16 +134,8 @@
 
 #### Opteron 200 系列 "Troy" (90 nm)
 
-  - 全系列支援:
-    *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"),
-    [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"),
-    [SSE2](../Page/SSE2.md "wikilink"),
-    [SSE3](../Page/SSE3.md "wikilink"), [Enhanced
-    3DNow\!](../Page/3DNow!.md "wikilink"), [NX
-    bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"),
-    [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink")*
-  - All models support up to Registered PC3200 [DDR
-    SDRAM](../Page/DDR_SDRAM.md "wikilink")
+  - 全系列支援: *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"), [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"), [SSE2](../Page/SSE2.md "wikilink"), [SSE3](../Page/SSE3.md "wikilink"), [Enhanced 3DNow\!](../Page/3DNow!.md "wikilink"), [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"), [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink")*
+  - All models support up to Registered PC3200 [DDR SDRAM](../Page/DDR_SDRAM.md "wikilink")
   - 全系列僅支援兩顆CPU同時運作
 
 <table>
@@ -351,16 +306,8 @@
 
 #### Opteron 800 系列 "Athens" (90 nm)
 
-  - 全系列支援
-    *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"),
-    [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"),
-    [SSE2](../Page/SSE2.md "wikilink"),
-    [SSE3](../Page/SSE3.md "wikilink"), [Enhanced
-    3DNow\!](../Page/3DNow!.md "wikilink"), [NX
-    bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"),
-    [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink")*
-  - All models support up to Registered PC3200 [DDR
-    SDRAM](../Page/DDR_SDRAM.md "wikilink")
+  - 全系列支援 *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"), [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"), [SSE2](../Page/SSE2.md "wikilink"), [SSE3](../Page/SSE3.md "wikilink"), [Enhanced 3DNow\!](../Page/3DNow!.md "wikilink"), [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"), [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink")*
+  - All models support up to Registered PC3200 [DDR SDRAM](../Page/DDR_SDRAM.md "wikilink")
   - 全系列僅支援八顆CPU同時運作
 
 <table>
@@ -529,16 +476,8 @@
 
 #### Opteron 100 系列 "Denmark" (90 nm)
 
-  - 全系列支援:
-    *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"),
-    [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"),
-    [SSE2](../Page/SSE2.md "wikilink"),
-    [SSE3](../Page/SSE3.md "wikilink"), [Enhanced
-    3DNow\!](../Page/3DNow!.md "wikilink"), [NX
-    bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"),
-    [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink")*
-  - All models support up to Unbuffered PC3200 [DDR
-    SDRAM](../Page/DDR_SDRAM.md "wikilink")
+  - 全系列支援: *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"), [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"), [SSE2](../Page/SSE2.md "wikilink"), [SSE3](../Page/SSE3.md "wikilink"), [Enhanced 3DNow\!](../Page/3DNow!.md "wikilink"), [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"), [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink")*
+  - All models support up to Unbuffered PC3200 [DDR SDRAM](../Page/DDR_SDRAM.md "wikilink")
   - 全系列僅支援一顆CPU同時運作
 
 | 型號                | 頻率      | [L2-Cache](https://zh.wikipedia.org/wiki/CPU_caches#Multi-level_caches "wikilink") | [HT](../Page/HyperTransport.md "wikilink") | [Mult](https://zh.wikipedia.org/wiki/Clock_multiplier "wikilink") | [Voltage](https://zh.wikipedia.org/wiki/CPU_core_voltage "wikilink") | [TDP](https://zh.wikipedia.org/wiki/Thermal_Design_Power "wikilink") | [Socket](https://zh.wikipedia.org/wiki/CPU_socket "wikilink") | 發表時間           |
@@ -553,16 +492,8 @@
 
 #### Opteron 200 系列 "Italy" (90 nm)
 
-  - 全系列支援:
-    *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"),
-    [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"),
-    [SSE2](../Page/SSE2.md "wikilink"),
-    [SSE3](../Page/SSE3.md "wikilink"), [Enhanced
-    3DNow\!](../Page/3DNow!.md "wikilink"), [NX
-    bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"),
-    [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink")*
-  - All models support up to Registered PC3200 [DDR
-    SDRAM](../Page/DDR_SDRAM.md "wikilink")
+  - 全系列支援: *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"), [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"), [SSE2](../Page/SSE2.md "wikilink"), [SSE3](../Page/SSE3.md "wikilink"), [Enhanced 3DNow\!](../Page/3DNow!.md "wikilink"), [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"), [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink")*
+  - All models support up to Registered PC3200 [DDR SDRAM](../Page/DDR_SDRAM.md "wikilink")
   - 全系列僅支援兩顆CPU同時運作
 
 | Model Number                       | Freq.   | [L2-Cache](https://zh.wikipedia.org/wiki/CPU_caches#Multi-level_caches "wikilink") | [HT](../Page/HyperTransport.md "wikilink") | [Mult](https://zh.wikipedia.org/wiki/Clock_multiplier "wikilink") | [Voltage](https://zh.wikipedia.org/wiki/CPU_core_voltage "wikilink") | [TDP](https://zh.wikipedia.org/wiki/Thermal_Design_Power "wikilink") | [Socket](https://zh.wikipedia.org/wiki/CPU_socket "wikilink") | Release Date   |
@@ -590,15 +521,8 @@
 
 #### Opteron 800 系列 "Egypt" (90 nm)
 
-  - 全系列支援*[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"),
-    [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"),
-    [SSE2](../Page/SSE2.md "wikilink"),
-    [SSE3](../Page/SSE3.md "wikilink"), [Enhanced
-    3DNow\!](../Page/3DNow!.md "wikilink"), [NX
-    bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"),
-    [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink")*
-  - All models support up to Registered PC3200 [DDR
-    SDRAM](../Page/DDR_SDRAM.md "wikilink")
+  - 全系列支援*[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"), [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"), [SSE2](../Page/SSE2.md "wikilink"), [SSE3](../Page/SSE3.md "wikilink"), [Enhanced 3DNow\!](../Page/3DNow!.md "wikilink"), [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"), [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink")*
+  - All models support up to Registered PC3200 [DDR SDRAM](../Page/DDR_SDRAM.md "wikilink")
   - 全系列僅支援八顆CPU同時運作
 
 | Model Number                       | Freq.   | [L2-Cache](https://zh.wikipedia.org/wiki/CPU_caches#Multi-level_caches "wikilink") | [HT](../Page/HyperTransport.md "wikilink") | [Mult](https://zh.wikipedia.org/wiki/Clock_multiplier "wikilink") | [Voltage](https://zh.wikipedia.org/wiki/CPU_core_voltage "wikilink") | [TDP](https://zh.wikipedia.org/wiki/Thermal_Design_Power "wikilink") | [Socket](https://zh.wikipedia.org/wiki/CPU_socket "wikilink") | Release Date   |
@@ -631,16 +555,8 @@
 
 #### Opteron 1200 系列 "Santa Ana" (90 nm)
 
-  - 全系列支援*[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"),
-    [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"),
-    [SSE2](../Page/SSE2.md "wikilink"),
-    [SSE3](../Page/SSE3.md "wikilink"), [Enhanced
-    3DNow\!](../Page/3DNow!.md "wikilink"), [NX
-    bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"),
-    [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink"),
-    [AMD-V](https://zh.wikipedia.org/wiki/AMD-V "wikilink")*
-  - All models support up to Unbuffered PC2-6400 [DDR2
-    SDRAM](../Page/DDR2_SDRAM.md "wikilink")
+  - 全系列支援*[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"), [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"), [SSE2](../Page/SSE2.md "wikilink"), [SSE3](../Page/SSE3.md "wikilink"), [Enhanced 3DNow\!](../Page/3DNow!.md "wikilink"), [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"), [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink"), [AMD-V](https://zh.wikipedia.org/wiki/AMD-V "wikilink")*
+  - All models support up to Unbuffered PC2-6400 [DDR2 SDRAM](../Page/DDR2_SDRAM.md "wikilink")
   - 全系列僅支援一顆CPU同時運作
 
 | Model Number                        | [Step.](https://zh.wikipedia.org/wiki/Stepping_\(version_numbers\) "wikilink") | Freq.   | [L2-Cache](https://zh.wikipedia.org/wiki/CPU_caches#Multi-level_caches "wikilink") | [HT](../Page/HyperTransport.md "wikilink") | [Mult](https://zh.wikipedia.org/wiki/Clock_multiplier "wikilink") | [Voltage](https://zh.wikipedia.org/wiki/CPU_core_voltage "wikilink") | [TDP](https://zh.wikipedia.org/wiki/Thermal_Design_Power "wikilink") | [Socket](https://zh.wikipedia.org/wiki/CPU_socket "wikilink") | Release Date    |
@@ -667,16 +583,8 @@
 
 #### Opteron 2200 系列 "Santa Rosa" (90 nm)
 
-  - 全系列支援*[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"),
-    [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"),
-    [SSE2](../Page/SSE2.md "wikilink"),
-    [SSE3](../Page/SSE3.md "wikilink"), [Enhanced
-    3DNow\!](../Page/3DNow!.md "wikilink"), [NX
-    bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"),
-    [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink"),
-    [AMD-V](https://zh.wikipedia.org/wiki/AMD-V "wikilink")*
-  - All models support up to Registered PC2-5300 [DDR2
-    SDRAM](../Page/DDR2_SDRAM.md "wikilink")
+  - 全系列支援*[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"), [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"), [SSE2](../Page/SSE2.md "wikilink"), [SSE3](../Page/SSE3.md "wikilink"), [Enhanced 3DNow\!](../Page/3DNow!.md "wikilink"), [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"), [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink"), [AMD-V](https://zh.wikipedia.org/wiki/AMD-V "wikilink")*
+  - All models support up to Registered PC2-5300 [DDR2 SDRAM](../Page/DDR2_SDRAM.md "wikilink")
   - 全系列僅支援兩顆CPU同時運作
 
 | Model Number                            | [Step.](https://zh.wikipedia.org/wiki/Stepping_\(version_numbers\) "wikilink") | Freq.   | [L2-Cache](https://zh.wikipedia.org/wiki/CPU_caches#Multi-level_caches "wikilink") | [HT](../Page/HyperTransport.md "wikilink") | [Mult](https://zh.wikipedia.org/wiki/Clock_multiplier "wikilink") | [Voltage](https://zh.wikipedia.org/wiki/CPU_core_voltage "wikilink") | [TDP](https://zh.wikipedia.org/wiki/Thermal_Design_Power "wikilink") | [Socket](https://zh.wikipedia.org/wiki/CPU_socket "wikilink") | Release Date    |
@@ -704,16 +612,8 @@
 
 #### Opteron 8200 系列 "Santa Rosa" (90 nm)
 
-  - 全系列支援*[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"),
-    [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"),
-    [SSE2](../Page/SSE2.md "wikilink"),
-    [SSE3](../Page/SSE3.md "wikilink"), [Enhanced
-    3DNow\!](../Page/3DNow!.md "wikilink"), [NX
-    bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"),
-    [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink"),
-    [AMD-V](https://zh.wikipedia.org/wiki/AMD-V "wikilink")*
-  - All models support up to Registered PC2-5300 [DDR2
-    SDRAM](../Page/DDR2_SDRAM.md "wikilink")
+  - 全系列支援*[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"), [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"), [SSE2](../Page/SSE2.md "wikilink"), [SSE3](../Page/SSE3.md "wikilink"), [Enhanced 3DNow\!](../Page/3DNow!.md "wikilink"), [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"), [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink"), [AMD-V](https://zh.wikipedia.org/wiki/AMD-V "wikilink")*
+  - All models support up to Registered PC2-5300 [DDR2 SDRAM](../Page/DDR2_SDRAM.md "wikilink")
   - 全系列支援八顆CPU同時運作
 
 | Model Number                            | [Step.](https://zh.wikipedia.org/wiki/Stepping_\(version_numbers\) "wikilink") | Freq.   | [L2-Cache](https://zh.wikipedia.org/wiki/CPU_caches#Multi-level_caches "wikilink") | [HT](../Page/HyperTransport.md "wikilink") | [Mult](https://zh.wikipedia.org/wiki/Clock_multiplier "wikilink") | [Voltage](https://zh.wikipedia.org/wiki/CPU_core_voltage "wikilink") | [TDP](https://zh.wikipedia.org/wiki/Thermal_Design_Power "wikilink") | [Socket](https://zh.wikipedia.org/wiki/CPU_socket "wikilink") | Release Date    |
@@ -742,22 +642,10 @@
 
 #### Opteron 1300 系列 "Budapest" (65 nm)
 
-  - 全系列支援*[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"),
-    [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"),
-    [SSE2](../Page/SSE2.md "wikilink"),
-    [SSE3](../Page/SSE3.md "wikilink"),
-    [SSE4a](https://zh.wikipedia.org/wiki/SSE4a "wikilink"), [Enhanced
-    3DNow\!](../Page/3DNow!.md "wikilink"), [NX
-    bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"),
-    [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink"),
-    [AMD-V](https://zh.wikipedia.org/wiki/AMD-V "wikilink") (SVM & Rapid
-    Virtualization Indexing)*
-  - All models support up to Unbuffered PC2-6400 [DDR2
-    SDRAM](../Page/DDR2_SDRAM.md "wikilink")
+  - 全系列支援*[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"), [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"), [SSE2](../Page/SSE2.md "wikilink"), [SSE3](../Page/SSE3.md "wikilink"), [SSE4a](https://zh.wikipedia.org/wiki/SSE4a "wikilink"), [Enhanced 3DNow\!](../Page/3DNow!.md "wikilink"), [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"), [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink"), [AMD-V](https://zh.wikipedia.org/wiki/AMD-V "wikilink") (SVM & Rapid Virtualization Indexing)*
+  - All models support up to Unbuffered PC2-6400 [DDR2 SDRAM](../Page/DDR2_SDRAM.md "wikilink")
   - 全系列支援一顆CPU同時運作
-  - B2步進的CPU友TLB-BUG的問題 ([Translation Lookaside
-    Buffer](https://zh.wikipedia.org/wiki/Translation_Lookaside_Buffer "wikilink"),
-    see also AMD "errata number 298")
+  - B2步進的CPU友TLB-BUG的問題 ([Translation Lookaside Buffer](https://zh.wikipedia.org/wiki/Translation_Lookaside_Buffer "wikilink"), see also AMD "errata number 298")
 
 | Model Number          | [Step.](https://zh.wikipedia.org/wiki/Stepping_\(version_numbers\) "wikilink") | Freq.     | [L2-Cache](https://zh.wikipedia.org/wiki/CPU_caches#Multi-level_caches "wikilink") | [L3-Cache](https://zh.wikipedia.org/wiki/CPU_caches#Multi-level_caches "wikilink") | [HT](../Page/HyperTransport.md "wikilink") | [Mult](https://zh.wikipedia.org/wiki/Clock_multiplier "wikilink") | [Voltage](https://zh.wikipedia.org/wiki/CPU_core_voltage "wikilink") | [ACP](https://zh.wikipedia.org/wiki/Average_CPU_Power "wikilink") | [TDP](https://zh.wikipedia.org/wiki/Thermal_Design_Power "wikilink") | [Socket](https://zh.wikipedia.org/wiki/CPU_socket "wikilink") | Release Date |
 | --------------------- | ------------------------------------------------------------------------------ | --------- | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ------------------------------------------ | ----------------------------------------------------------------- | -------------------------------------------------------------------- | ----------------------------------------------------------------- | -------------------------------------------------------------------- | ------------------------------------------------------------- | ------------ |
@@ -769,19 +657,8 @@
 
 #### Opteron 2300 系列 "Barcelona" (65 nm)
 
-  - 全系列支援
-    *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"),
-    [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"),
-    [SSE2](../Page/SSE2.md "wikilink"),
-    [SSE3](../Page/SSE3.md "wikilink"),
-    [SSE4a](https://zh.wikipedia.org/wiki/SSE4a "wikilink"), [Enhanced
-    3DNow\!](../Page/3DNow!.md "wikilink"), [NX
-    bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"),
-    [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink"),
-    [AMD-V](https://zh.wikipedia.org/wiki/AMD-V "wikilink") (SVM & Rapid
-    Virtualization Indexing)*
-  - All models support up to Registered PC2-5300 [DDR2
-    SDRAM](../Page/DDR2_SDRAM.md "wikilink")
+  - 全系列支援 *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"), [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"), [SSE2](../Page/SSE2.md "wikilink"), [SSE3](../Page/SSE3.md "wikilink"), [SSE4a](https://zh.wikipedia.org/wiki/SSE4a "wikilink"), [Enhanced 3DNow\!](../Page/3DNow!.md "wikilink"), [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"), [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink"), [AMD-V](https://zh.wikipedia.org/wiki/AMD-V "wikilink") (SVM & Rapid Virtualization Indexing)*
+  - All models support up to Registered PC2-5300 [DDR2 SDRAM](../Page/DDR2_SDRAM.md "wikilink")
   - 全系列支援兩顆CPU同時運作
 
 | Model Number                                | [Step.](https://zh.wikipedia.org/wiki/Stepping_\(version_numbers\) "wikilink") | Freq.     | [L2-Cache](https://zh.wikipedia.org/wiki/CPU_caches#Multi-level_caches "wikilink") | [L3-Cache](https://zh.wikipedia.org/wiki/CPU_caches#Multi-level_caches "wikilink") | [HT](../Page/HyperTransport.md "wikilink") | [Mult](https://zh.wikipedia.org/wiki/Clock_multiplier "wikilink") | [Voltage](https://zh.wikipedia.org/wiki/CPU_core_voltage "wikilink") | [ACP](https://zh.wikipedia.org/wiki/Average_CPU_Power "wikilink") | [TDP](https://zh.wikipedia.org/wiki/Thermal_Design_Power "wikilink") | [Socket](https://zh.wikipedia.org/wiki/CPU_socket "wikilink") | Release Date |
@@ -818,18 +695,8 @@
 
 #### Opteron 8300 系列 "Barcelona" (65 nm)
 
-  - 全系列支援*[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"),
-    [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"),
-    [SSE2](../Page/SSE2.md "wikilink"),
-    [SSE3](../Page/SSE3.md "wikilink"),
-    [SSE4a](https://zh.wikipedia.org/wiki/SSE4a "wikilink"), [Enhanced
-    3DNow\!](../Page/3DNow!.md "wikilink"), [NX
-    bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"),
-    [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink"),
-    [AMD-V](https://zh.wikipedia.org/wiki/AMD-V "wikilink") (SVM & Rapid
-    Virtualization Indexing)*
-  - All models support up to Registered PC2-5300 [DDR2
-    SDRAM](../Page/DDR2_SDRAM.md "wikilink")
+  - 全系列支援*[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"), [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"), [SSE2](../Page/SSE2.md "wikilink"), [SSE3](../Page/SSE3.md "wikilink"), [SSE4a](https://zh.wikipedia.org/wiki/SSE4a "wikilink"), [Enhanced 3DNow\!](../Page/3DNow!.md "wikilink"), [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"), [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink"), [AMD-V](https://zh.wikipedia.org/wiki/AMD-V "wikilink") (SVM & Rapid Virtualization Indexing)*
+  - All models support up to Registered PC2-5300 [DDR2 SDRAM](../Page/DDR2_SDRAM.md "wikilink")
   - 全系列支援八顆CPU同時運作
 
 | Model Number                                    | [Step.](https://zh.wikipedia.org/wiki/Stepping_\(version_numbers\) "wikilink") | Freq.     | [L2-Cache](https://zh.wikipedia.org/wiki/CPU_caches#Multi-level_caches "wikilink") | [L3-Cache](https://zh.wikipedia.org/wiki/CPU_caches#Multi-level_caches "wikilink") | [HT](../Page/HyperTransport.md "wikilink") | [Mult](https://zh.wikipedia.org/wiki/Clock_multiplier "wikilink") | [Voltage](https://zh.wikipedia.org/wiki/CPU_core_voltage "wikilink") | [ACP](https://zh.wikipedia.org/wiki/Average_CPU_Power "wikilink") | [TDP](https://zh.wikipedia.org/wiki/Thermal_Design_Power "wikilink") | [Socket](https://zh.wikipedia.org/wiki/CPU_socket "wikilink") | Release Date |
@@ -863,18 +730,8 @@
 
 #### Opteron 1300 系列"Suzuka" (45 nm)
 
-  - 全系列支援*[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"),
-    [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"),
-    [SSE2](../Page/SSE2.md "wikilink"),
-    [SSE3](../Page/SSE3.md "wikilink"),
-    [SSE4a](https://zh.wikipedia.org/wiki/SSE4a "wikilink"), [Enhanced
-    3DNow\!](../Page/3DNow!.md "wikilink"), [NX
-    bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"),
-    [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink"),
-    [AMD-V](https://zh.wikipedia.org/wiki/AMD-V "wikilink") (SVM & Rapid
-    Virtualization Indexing)*
-  - All models support up to Unbuffered PC3-10600 [DDR3
-    SDRAM](../Page/DDR3_SDRAM.md "wikilink")
+  - 全系列支援*[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"), [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"), [SSE2](../Page/SSE2.md "wikilink"), [SSE3](../Page/SSE3.md "wikilink"), [SSE4a](https://zh.wikipedia.org/wiki/SSE4a "wikilink"), [Enhanced 3DNow\!](../Page/3DNow!.md "wikilink"), [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"), [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink"), [AMD-V](https://zh.wikipedia.org/wiki/AMD-V "wikilink") (SVM & Rapid Virtualization Indexing)*
+  - All models support up to Unbuffered PC3-10600 [DDR3 SDRAM](../Page/DDR3_SDRAM.md "wikilink")
   - 全系列支援一顆CPU同時運作
 
 | Model Number                        | [Step.](https://zh.wikipedia.org/wiki/Stepping_\(version_numbers\) "wikilink") | Freq.   | [L2-Cache](https://zh.wikipedia.org/wiki/CPU_caches#Multi-level_caches "wikilink") | [L3-Cache](https://zh.wikipedia.org/wiki/CPU_caches#Multi-level_caches "wikilink") | [HT](../Page/HyperTransport.md "wikilink") | [Mult](https://zh.wikipedia.org/wiki/Clock_multiplier "wikilink") | [Voltage](https://zh.wikipedia.org/wiki/CPU_core_voltage "wikilink") | [ACP](https://zh.wikipedia.org/wiki/Average_CPU_Power "wikilink") | [TDP](https://zh.wikipedia.org/wiki/Thermal_Design_Power "wikilink") | [Socket](https://zh.wikipedia.org/wiki/CPU_socket "wikilink") | Release Date   |
@@ -887,24 +744,12 @@
 | Opteron 13KS EE                     | C2                                                                             | 2.0 GHz | 4x 512 KB                                                                          | 6 MB                                                                               | 2 GHz                                      | 10x                                                               | 1.325                                                                |                                                                   | 50 W                                                                 | [Socket F](../Page/Socket_F.md "wikilink")                    | April 22, 2009 |
 | Opteron 13QS HE                     | C2                                                                             | 2.4 GHz | 4x 512 KB                                                                          | 6 MB                                                                               | 2 GHz                                      | 12x                                                               | 1.325                                                                | 55 W                                                              | 71 W                                                                 | April 22, 2009                                                |                |
 
-115W TDP Page 54
-<http://support.amd.com/us/Processor_TechDocs/43374.pdf>
+115W TDP Page 54 <http://support.amd.com/us/Processor_TechDocs/43374.pdf>
 
 #### Opteron 2300系列 "Shanghai" (45 nm)
 
-  - 全系列支援
-    *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"),
-    [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"),
-    [SSE2](../Page/SSE2.md "wikilink"),
-    [SSE3](../Page/SSE3.md "wikilink"),
-    [SSE4a](https://zh.wikipedia.org/wiki/SSE4a "wikilink"), [Enhanced
-    3DNow\!](../Page/3DNow!.md "wikilink"), [NX
-    bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"),
-    [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink"),
-    [AMD-V](https://zh.wikipedia.org/wiki/AMD-V "wikilink") (SVM & Rapid
-    Virtualization Indexing)*
-  - All models support up to Registered PC2-6400 [DDR2
-    SDRAM](../Page/DDR2_SDRAM.md "wikilink")
+  - 全系列支援 *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"), [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"), [SSE2](../Page/SSE2.md "wikilink"), [SSE3](../Page/SSE3.md "wikilink"), [SSE4a](https://zh.wikipedia.org/wiki/SSE4a "wikilink"), [Enhanced 3DNow\!](../Page/3DNow!.md "wikilink"), [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"), [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink"), [AMD-V](https://zh.wikipedia.org/wiki/AMD-V "wikilink") (SVM & Rapid Virtualization Indexing)*
+  - All models support up to Registered PC2-6400 [DDR2 SDRAM](../Page/DDR2_SDRAM.md "wikilink")
   - 全系列支援兩顆CPU同時運作
 
 | Model Number                        | [Step.](https://zh.wikipedia.org/wiki/Stepping_\(version_numbers\) "wikilink") | Freq.   | [L2-Cache](https://zh.wikipedia.org/wiki/CPU_caches#Multi-level_caches "wikilink") | [L3-Cache](https://zh.wikipedia.org/wiki/CPU_caches#Multi-level_caches "wikilink") | [HT](../Page/HyperTransport.md "wikilink") | [Mult](https://zh.wikipedia.org/wiki/Clock_multiplier "wikilink") | [Voltage](https://zh.wikipedia.org/wiki/CPU_core_voltage "wikilink")                                                                 | [ACP](https://zh.wikipedia.org/wiki/Average_CPU_Power "wikilink") | [TDP](https://zh.wikipedia.org/wiki/Thermal_Design_Power "wikilink") | [Socket](https://zh.wikipedia.org/wiki/CPU_socket "wikilink") | Release Date   |
@@ -934,18 +779,8 @@
 
 #### Opteron 8300 系列 "Shanghai" (45 nm)
 
-  - 全系列支援*[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"),
-    [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"),
-    [SSE2](../Page/SSE2.md "wikilink"),
-    [SSE3](../Page/SSE3.md "wikilink"),
-    [SSE4a](https://zh.wikipedia.org/wiki/SSE4a "wikilink"), [Enhanced
-    3DNow\!](../Page/3DNow!.md "wikilink"), [NX
-    bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"),
-    [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink"),
-    [AMD-V](https://zh.wikipedia.org/wiki/AMD-V "wikilink") (SVM & Rapid
-    Virtualization Indexing)*
-  - All models support up to Registered PC2-6400 [DDR2
-    SDRAM](../Page/DDR2_SDRAM.md "wikilink")
+  - 全系列支援*[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"), [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"), [SSE2](../Page/SSE2.md "wikilink"), [SSE3](../Page/SSE3.md "wikilink"), [SSE4a](https://zh.wikipedia.org/wiki/SSE4a "wikilink"), [Enhanced 3DNow\!](../Page/3DNow!.md "wikilink"), [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"), [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink"), [AMD-V](https://zh.wikipedia.org/wiki/AMD-V "wikilink") (SVM & Rapid Virtualization Indexing)*
+  - All models support up to Registered PC2-6400 [DDR2 SDRAM](../Page/DDR2_SDRAM.md "wikilink")
   - 全系列支援八顆CPU同時運作
 
 | Model Number                       | [Step.](https://zh.wikipedia.org/wiki/Stepping_\(version_numbers\) "wikilink") | Freq.   | [L2-Cache](https://zh.wikipedia.org/wiki/CPU_caches#Multi-level_caches "wikilink") | [L3-Cache](https://zh.wikipedia.org/wiki/CPU_caches#Multi-level_caches "wikilink") | [HT](../Page/HyperTransport.md "wikilink") | [Mult](https://zh.wikipedia.org/wiki/Clock_multiplier "wikilink") | [Voltage](https://zh.wikipedia.org/wiki/CPU_core_voltage "wikilink") | [ACP](https://zh.wikipedia.org/wiki/Average_CPU_Power "wikilink") | [TDP](https://zh.wikipedia.org/wiki/Thermal_Design_Power "wikilink") | [Socket](https://zh.wikipedia.org/wiki/CPU_socket "wikilink") | Release Date   |
@@ -969,19 +804,8 @@
 
 #### Opteron 2400 系列 "Istanbul" (45 nm)
 
-  - 全系列支援*[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"),
-    [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"),
-    [SSE2](../Page/SSE2.md "wikilink"),
-    [SSE3](../Page/SSE3.md "wikilink"),
-    [SSE4a](https://zh.wikipedia.org/wiki/SSE4a "wikilink"), [Enhanced
-    3DNow\!](../Page/3DNow!.md "wikilink"), [NX
-    bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"),
-    [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink"),
-    [AMD-V](https://zh.wikipedia.org/wiki/AMD-V "wikilink") (SVM & Rapid
-    Virtualization Indexing),
-    [HT-Assist](https://zh.wikipedia.org/wiki/HT-Assist "wikilink")*
-  - All models support up to Registered PC2-6400 [DDR2
-    SDRAM](../Page/DDR2_SDRAM.md "wikilink")
+  - 全系列支援*[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"), [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"), [SSE2](../Page/SSE2.md "wikilink"), [SSE3](../Page/SSE3.md "wikilink"), [SSE4a](https://zh.wikipedia.org/wiki/SSE4a "wikilink"), [Enhanced 3DNow\!](../Page/3DNow!.md "wikilink"), [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"), [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink"), [AMD-V](https://zh.wikipedia.org/wiki/AMD-V "wikilink") (SVM & Rapid Virtualization Indexing), [HT-Assist](https://zh.wikipedia.org/wiki/HT-Assist "wikilink")*
+  - All models support up to Registered PC2-6400 [DDR2 SDRAM](../Page/DDR2_SDRAM.md "wikilink")
   - 全系列支援一顆CPU同時運作
 
 | Model Number                       | [Step.](https://zh.wikipedia.org/wiki/Stepping_\(version_numbers\) "wikilink") | Freq.   | [L2-Cache](https://zh.wikipedia.org/wiki/CPU_caches#Multi-level_caches "wikilink") | [L3-Cache](https://zh.wikipedia.org/wiki/CPU_caches#Multi-level_caches "wikilink") | [HT](../Page/HyperTransport.md "wikilink") | [Mult](https://zh.wikipedia.org/wiki/Clock_multiplier "wikilink") | [Voltage](https://zh.wikipedia.org/wiki/CPU_core_voltage "wikilink") | [ACP](https://zh.wikipedia.org/wiki/Average_CPU_Power "wikilink") | [TDP](https://zh.wikipedia.org/wiki/Thermal_Design_Power "wikilink") | [Socket](https://zh.wikipedia.org/wiki/CPU_socket "wikilink") | Release Date    |
@@ -1000,19 +824,8 @@
 
 #### Opteron 8400 系列 "Istanbul" (45 nm)
 
-  - 全系列支援*[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"),
-    [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"),
-    [SSE2](../Page/SSE2.md "wikilink"),
-    [SSE3](../Page/SSE3.md "wikilink"),
-    [SSE4a](https://zh.wikipedia.org/wiki/SSE4a "wikilink"), [Enhanced
-    3DNow\!](../Page/3DNow!.md "wikilink"), [NX
-    bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"),
-    [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink"),
-    [AMD-V](https://zh.wikipedia.org/wiki/AMD-V "wikilink") (SVM & Rapid
-    Virtualization Indexing),
-    [HT-Assist](https://zh.wikipedia.org/wiki/HT-Assist "wikilink")*
-  - All models support up to Registered PC2-6400 [DDR2
-    SDRAM](../Page/DDR2_SDRAM.md "wikilink")
+  - 全系列支援*[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"), [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"), [SSE2](../Page/SSE2.md "wikilink"), [SSE3](../Page/SSE3.md "wikilink"), [SSE4a](https://zh.wikipedia.org/wiki/SSE4a "wikilink"), [Enhanced 3DNow\!](../Page/3DNow!.md "wikilink"), [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"), [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink"), [AMD-V](https://zh.wikipedia.org/wiki/AMD-V "wikilink") (SVM & Rapid Virtualization Indexing), [HT-Assist](https://zh.wikipedia.org/wiki/HT-Assist "wikilink")*
+  - All models support up to Registered PC2-6400 [DDR2 SDRAM](../Page/DDR2_SDRAM.md "wikilink")
   - 全系列支援八顆CPU同時運作
   - Istanbul 系列型號擁有6MB L3 Cache但僅5MB用於 HT Assist feature 1MB做為目錄快取
 
@@ -1033,24 +846,10 @@
 
 #### Opteron 4100 系列 "Lisbon" (45 nm)
 
-  - 全系列支援*[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"),
-    [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"),
-    [SSE2](../Page/SSE2.md "wikilink"),
-    [SSE3](../Page/SSE3.md "wikilink"),
-    [SSE4a](https://zh.wikipedia.org/wiki/SSE4a "wikilink"), [Enhanced
-    3DNow\!](../Page/3DNow!.md "wikilink"), [NX
-    bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"),
-    [AMD64](https://zh.wikipedia.org/wiki/x86-64#AMD64 "wikilink"),
-    [Cool'n'Quiet](../Page/Cool'n'Quiet.md "wikilink")*,
-    *[AMD-V](https://zh.wikipedia.org/wiki/x86_virtualization#AMD_virtualization_\(AMD-V\) "wikilink")*
+  - 全系列支援*[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"), [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"), [SSE2](../Page/SSE2.md "wikilink"), [SSE3](../Page/SSE3.md "wikilink"), [SSE4a](https://zh.wikipedia.org/wiki/SSE4a "wikilink"), [Enhanced 3DNow\!](../Page/3DNow!.md "wikilink"), [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"), [AMD64](https://zh.wikipedia.org/wiki/x86-64#AMD64 "wikilink"), [Cool'n'Quiet](../Page/Cool'n'Quiet.md "wikilink")*, *[AMD-V](https://zh.wikipedia.org/wiki/x86_virtualization#AMD_virtualization_\(AMD-V\) "wikilink")*
   - 全系列支援兩顆CPU同時運作
-  - 每顆CPU最高支援 4
-    DIMMs的雙通道[UDDR3](https://zh.wikipedia.org/wiki/Unbuffered_memory "wikilink")
-    /
-    [RDDR3](https://zh.wikipedia.org/wiki/Registered_memory "wikilink")
-    PC3-10667
-  - Lisbon models have 6MB of L3 cache but only 5 MB are visible when
-    the HT Assist feature is activated, using 1 MB as directory cache.
+  - 每顆CPU最高支援 4 DIMMs的雙通道[UDDR3](https://zh.wikipedia.org/wiki/Unbuffered_memory "wikilink") / [RDDR3](https://zh.wikipedia.org/wiki/Registered_memory "wikilink") PC3-10667
+  - Lisbon models have 6MB of L3 cache but only 5 MB are visible when the HT Assist feature is activated, using 1 MB as directory cache.
 
 | Model Number                       | [Step.](https://zh.wikipedia.org/wiki/Stepping_\(version_numbers\) "wikilink") | Cores | Freq.   | [L2 Cache](https://zh.wikipedia.org/wiki/CPU_caches#Multi-level_caches "wikilink") | L3 Cache | [HT](../Page/HyperTransport.md "wikilink") | [Multi](https://zh.wikipedia.org/wiki/Clock_multiplier "wikilink") | [Voltage](https://zh.wikipedia.org/wiki/CPU_core_voltage "wikilink") | [ACP](https://zh.wikipedia.org/wiki/Average_CPU_Power "wikilink") | [TDP](https://zh.wikipedia.org/wiki/Thermal_Design_Power "wikilink") | [Socket](https://zh.wikipedia.org/wiki/CPU_socket "wikilink") | Release Date  |
 | ---------------------------------- | ------------------------------------------------------------------------------ | ----- | ------- | ---------------------------------------------------------------------------------- | -------- | ------------------------------------------ | ------------------------------------------------------------------ | -------------------------------------------------------------------- | ----------------------------------------------------------------- | -------------------------------------------------------------------- | ------------------------------------------------------------- | ------------- |
@@ -1076,30 +875,13 @@
 
 #### Opteron 6100 系列 "Magny-Cours" (45 nm)
 
-  - 全系列支援*[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"),
-    [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"),
-    [SSE2](../Page/SSE2.md "wikilink"),
-    [SSE3](../Page/SSE3.md "wikilink"),
-    [SSE4a](https://zh.wikipedia.org/wiki/SSE4a "wikilink"), [Enhanced
-    3DNow\!](../Page/3DNow!.md "wikilink"), [NX
-    bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"),
-    [AMD64](https://zh.wikipedia.org/wiki/x86-64#AMD64 "wikilink"),
-    [Cool'n'Quiet](../Page/Cool'n'Quiet.md "wikilink")*,
-    *[AMD-V](https://zh.wikipedia.org/wiki/x86_virtualization#AMD_virtualization_\(AMD-V\) "wikilink")
-    (SVM & Rapid Virtualization Indexing),
-    [HT-Assist](https://zh.wikipedia.org/wiki/HT-Assist "wikilink")*
+  - 全系列支援*[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"), [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"), [SSE2](../Page/SSE2.md "wikilink"), [SSE3](../Page/SSE3.md "wikilink"), [SSE4a](https://zh.wikipedia.org/wiki/SSE4a "wikilink"), [Enhanced 3DNow\!](../Page/3DNow!.md "wikilink"), [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"), [AMD64](https://zh.wikipedia.org/wiki/x86-64#AMD64 "wikilink"), [Cool'n'Quiet](../Page/Cool'n'Quiet.md "wikilink")*, *[AMD-V](https://zh.wikipedia.org/wiki/x86_virtualization#AMD_virtualization_\(AMD-V\) "wikilink") (SVM & Rapid Virtualization Indexing), [HT-Assist](https://zh.wikipedia.org/wiki/HT-Assist "wikilink")*
   - 全系列支援二或四顆CPU同時運作
-  - 每顆CPU最高支援 12
-    DIMMs的四通道[UDDR3](https://zh.wikipedia.org/wiki/Unbuffered_memory "wikilink")
-    /
-    [RDDR3](https://zh.wikipedia.org/wiki/Registered_memory "wikilink")
-    PC3-10667<ref name=Opteron6100Series>
+  - 每顆CPU最高支援 12 DIMMs的四通道[UDDR3](https://zh.wikipedia.org/wiki/Unbuffered_memory "wikilink") / [RDDR3](https://zh.wikipedia.org/wiki/Registered_memory "wikilink") PC3-10667<ref name=Opteron6100Series>
 
 </ref>
 
-  - Magny-Cours models have 12 MB of L3 cache (2x6 MB) but only 10 MB is
-    visible with the HT Assist feature activated using 2 MB as a
-    directory cache.
+  - Magny-Cours models have 12 MB of L3 cache (2x6 MB) but only 10 MB is visible with the HT Assist feature activated using 2 MB as a directory cache.
 
 | Model Number                         | [Step.](https://zh.wikipedia.org/wiki/Stepping_\(version_numbers\) "wikilink") | Cores | Freq.   | [L2 Cache](https://zh.wikipedia.org/wiki/CPU_caches#Multi-level_caches "wikilink") | L3 Cache | [HT](../Page/HyperTransport.md "wikilink") | [Multi](https://zh.wikipedia.org/wiki/Clock_multiplier "wikilink") | [Voltage](https://zh.wikipedia.org/wiki/CPU_core_voltage "wikilink") | [ACP](https://zh.wikipedia.org/wiki/Average_CPU_Power "wikilink") | [TDP](https://zh.wikipedia.org/wiki/Thermal_Design_Power "wikilink") | [Socket](https://zh.wikipedia.org/wiki/CPU_socket "wikilink") | Release Date   |
 | ------------------------------------ | ------------------------------------------------------------------------------ | ----- | ------- | ---------------------------------------------------------------------------------- | -------- | ------------------------------------------ | ------------------------------------------------------------------ | -------------------------------------------------------------------- | ----------------------------------------------------------------- | -------------------------------------------------------------------- | ------------------------------------------------------------- | -------------- |
@@ -1131,33 +913,10 @@
 
 #### Opteron 3200 系列 "Zurich" (32 nm)
 
-  - 全系列支援
-    *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"),
-    [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"),
-    [SSE2](../Page/SSE2.md "wikilink"),
-    [SSE3](../Page/SSE3.md "wikilink"),
-    [SSSE3](../Page/SSSE3.md "wikilink"),
-    [SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink"),
-    [SSE4.2](https://zh.wikipedia.org/wiki/SSE4.2 "wikilink"),
-    [SSE4a](https://zh.wikipedia.org/wiki/SSE4a "wikilink"),
-    [IOMMU](https://zh.wikipedia.org/wiki/IOMMU "wikilink"), [NX
-    bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"),
-    [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink"),
-    [AMD-V](https://zh.wikipedia.org/wiki/AMD-V "wikilink"),
-    [AES](https://zh.wikipedia.org/wiki/AES_instruction_set "wikilink"),
-    [CLMUL](https://zh.wikipedia.org/wiki/CLMUL_instruction_set "wikilink"),
-    [AVX](https://zh.wikipedia.org/wiki/Advanced_Vector_Extensions "wikilink"),
-    [CVT16](https://zh.wikipedia.org/wiki/CVT16_instruction_set "wikilink"),
-    [XOP](https://zh.wikipedia.org/wiki/XOP_instruction_set "wikilink"),
-    [FMA4](https://zh.wikipedia.org/wiki/FMA4_instruction_set "wikilink").*
+  - 全系列支援 *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"), [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"), [SSE2](../Page/SSE2.md "wikilink"), [SSE3](../Page/SSE3.md "wikilink"), [SSSE3](../Page/SSSE3.md "wikilink"), [SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink"), [SSE4.2](https://zh.wikipedia.org/wiki/SSE4.2 "wikilink"), [SSE4a](https://zh.wikipedia.org/wiki/SSE4a "wikilink"), [IOMMU](https://zh.wikipedia.org/wiki/IOMMU "wikilink"), [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"), [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink"), [AMD-V](https://zh.wikipedia.org/wiki/AMD-V "wikilink"), [AES](https://zh.wikipedia.org/wiki/AES_instruction_set "wikilink"), [CLMUL](https://zh.wikipedia.org/wiki/CLMUL_instruction_set "wikilink"), [AVX](https://zh.wikipedia.org/wiki/Advanced_Vector_Extensions "wikilink"), [CVT16](https://zh.wikipedia.org/wiki/CVT16_instruction_set "wikilink"), [XOP](https://zh.wikipedia.org/wiki/XOP_instruction_set "wikilink"), [FMA4](https://zh.wikipedia.org/wiki/FMA4_instruction_set "wikilink").*
   - 全系列支援單顆CPU同時運作
-  - 每顆CPU最高支援 4
-    DIMMs的雙通道[UDDR3](https://zh.wikipedia.org/wiki/Unbuffered_memory "wikilink")
-    /
-    [RDDR3](https://zh.wikipedia.org/wiki/Registered_memory "wikilink")
-    PC3-15000
-  - [Die](https://zh.wikipedia.org/wiki/Die_\(integrated_circuit\) "wikilink")
-    size: 315 mm²
+  - 每顆CPU最高支援 4 DIMMs的雙通道[UDDR3](https://zh.wikipedia.org/wiki/Unbuffered_memory "wikilink") / [RDDR3](https://zh.wikipedia.org/wiki/Registered_memory "wikilink") PC3-15000
+  - [Die](https://zh.wikipedia.org/wiki/Die_\(integrated_circuit\) "wikilink") size: 315 mm²
 
 <table>
 <thead>
@@ -1262,29 +1021,9 @@ turbo</p></td>
 
 #### Opteron 4200 系列 "Valencia" (32 nm)
 
-  - 全系列支援
-    *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"),
-    [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"),
-    [SSE2](../Page/SSE2.md "wikilink"),
-    [SSE3](../Page/SSE3.md "wikilink"),
-    [SSSE3](../Page/SSSE3.md "wikilink"),
-    [SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink"),
-    [SSE4.2](https://zh.wikipedia.org/wiki/SSE4.2 "wikilink"),
-    [SSE4a](https://zh.wikipedia.org/wiki/SSE4a "wikilink"), [NX
-    bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"),
-    [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink"),
-    [AMD-V](https://zh.wikipedia.org/wiki/AMD-V "wikilink"),
-    [AES](https://zh.wikipedia.org/wiki/AES_instruction_set "wikilink"),
-    [CLMUL](https://zh.wikipedia.org/wiki/CLMUL_instruction_set "wikilink"),
-    [AVX](https://zh.wikipedia.org/wiki/Advanced_Vector_Extensions "wikilink"),
-    [XOP](https://zh.wikipedia.org/wiki/XOP_instruction_set "wikilink"),
-    [FMA4](https://zh.wikipedia.org/wiki/FMA4_instruction_set "wikilink").*
+  - 全系列支援 *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"), [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"), [SSE2](../Page/SSE2.md "wikilink"), [SSE3](../Page/SSE3.md "wikilink"), [SSSE3](../Page/SSSE3.md "wikilink"), [SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink"), [SSE4.2](https://zh.wikipedia.org/wiki/SSE4.2 "wikilink"), [SSE4a](https://zh.wikipedia.org/wiki/SSE4a "wikilink"), [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"), [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink"), [AMD-V](https://zh.wikipedia.org/wiki/AMD-V "wikilink"), [AES](https://zh.wikipedia.org/wiki/AES_instruction_set "wikilink"), [CLMUL](https://zh.wikipedia.org/wiki/CLMUL_instruction_set "wikilink"), [AVX](https://zh.wikipedia.org/wiki/Advanced_Vector_Extensions "wikilink"), [XOP](https://zh.wikipedia.org/wiki/XOP_instruction_set "wikilink"), [FMA4](https://zh.wikipedia.org/wiki/FMA4_instruction_set "wikilink").*
   - 全系列支援兩顆CPU同時運作
-  - 每顆CPU最高支援 4
-    DIMMs的雙通道[UDDR3](https://zh.wikipedia.org/wiki/Unbuffered_memory "wikilink")
-    /
-    [RDDR3](https://zh.wikipedia.org/wiki/Registered_memory "wikilink")
-    PC3-12800
+  - 每顆CPU最高支援 4 DIMMs的雙通道[UDDR3](https://zh.wikipedia.org/wiki/Unbuffered_memory "wikilink") / [RDDR3](https://zh.wikipedia.org/wiki/Registered_memory "wikilink") PC3-12800
 
 <table>
 <thead>
@@ -1570,31 +1309,10 @@ turbo</p></td>
 
 #### Opteron 6200 系列 "Interlagos" (32 nm)
 
-  - 全系列支援*[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"),
-    [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"),
-    [SSE2](../Page/SSE2.md "wikilink"),
-    [SSE3](../Page/SSE3.md "wikilink"),
-    [SSSE3](../Page/SSSE3.md "wikilink"),
-    [SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink"),
-    [SSE4.2](https://zh.wikipedia.org/wiki/SSE4.2 "wikilink"),
-    [SSE4a](https://zh.wikipedia.org/wiki/SSE4a "wikilink"), [NX
-    bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"),
-    [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink"),
-    [AMD-V](https://zh.wikipedia.org/wiki/AMD-V "wikilink"),
-    [AES](https://zh.wikipedia.org/wiki/AES_instruction_set "wikilink"),
-    [CLMUL](https://zh.wikipedia.org/wiki/CLMUL_instruction_set "wikilink"),
-    [AVX](https://zh.wikipedia.org/wiki/Advanced_Vector_Extensions "wikilink"),
-    [XOP](https://zh.wikipedia.org/wiki/XOP_instruction_set "wikilink"),
-    [FMA4](https://zh.wikipedia.org/wiki/FMA4_instruction_set "wikilink").*
+  - 全系列支援*[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"), [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"), [SSE2](../Page/SSE2.md "wikilink"), [SSE3](../Page/SSE3.md "wikilink"), [SSSE3](../Page/SSSE3.md "wikilink"), [SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink"), [SSE4.2](https://zh.wikipedia.org/wiki/SSE4.2 "wikilink"), [SSE4a](https://zh.wikipedia.org/wiki/SSE4a "wikilink"), [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"), [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink"), [AMD-V](https://zh.wikipedia.org/wiki/AMD-V "wikilink"), [AES](https://zh.wikipedia.org/wiki/AES_instruction_set "wikilink"), [CLMUL](https://zh.wikipedia.org/wiki/CLMUL_instruction_set "wikilink"), [AVX](https://zh.wikipedia.org/wiki/Advanced_Vector_Extensions "wikilink"), [XOP](https://zh.wikipedia.org/wiki/XOP_instruction_set "wikilink"), [FMA4](https://zh.wikipedia.org/wiki/FMA4_instruction_set "wikilink").*
   - 全系列支援二或四顆CPU同時運作
-  - 每顆CPU最高支援 12
-    DIMMs的四通道[UDDR3](https://zh.wikipedia.org/wiki/Unbuffered_memory "wikilink")
-    /
-    [RDDR3](https://zh.wikipedia.org/wiki/Registered_memory "wikilink")
-    PC3-12800
-  - Interlagos models have 16 MB of L3 cache (2x8 MB) but only 14 MB is
-    visible with the HT Assist feature activated using 2 MB as a
-    directory cache.
+  - 每顆CPU最高支援 12 DIMMs的四通道[UDDR3](https://zh.wikipedia.org/wiki/Unbuffered_memory "wikilink") / [RDDR3](https://zh.wikipedia.org/wiki/Registered_memory "wikilink") PC3-12800
+  - Interlagos models have 16 MB of L3 cache (2x8 MB) but only 14 MB is visible with the HT Assist feature activated using 2 MB as a directory cache.
 
 <table>
 <thead>
@@ -1884,38 +1602,10 @@ turbo</p></td>
 
 #### Opteron 3300 系列 "Delhi" (32 nm)
 
-  - 全系列支援
-    *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"),
-    [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"),
-    [SSE2](../Page/SSE2.md "wikilink"),
-    [SSE3](../Page/SSE3.md "wikilink"),
-    [SSSE3](../Page/SSSE3.md "wikilink"),
-    [SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink"),
-    [SSE4.2](https://zh.wikipedia.org/wiki/SSE4.2 "wikilink"),
-    [SSE4a](https://zh.wikipedia.org/wiki/SSE4a "wikilink"), [NX
-    bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"),
-    [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink"),
-    [AMD-V](https://zh.wikipedia.org/wiki/AMD-V "wikilink"),
-    [AES](https://zh.wikipedia.org/wiki/AES_instruction_set "wikilink"),
-    [CLMUL](https://zh.wikipedia.org/wiki/CLMUL_instruction_set "wikilink"),
-    [AVX](https://zh.wikipedia.org/wiki/Advanced_Vector_Extensions "wikilink"),
-    [AVX
-    1.1](https://zh.wikipedia.org/wiki/Advanced_Vector_Extensions "wikilink"),
-    [XOP](https://zh.wikipedia.org/wiki/XOP_instruction_set "wikilink"),
-    [FMA3](https://zh.wikipedia.org/wiki/FMA4_instruction_set "wikilink"),
-    [FMA4](https://zh.wikipedia.org/wiki/FMA4_instruction_set "wikilink"),
-    [CVT16](https://zh.wikipedia.org/wiki/CVT16_instruction_set "wikilink"),
-    [F16C](https://zh.wikipedia.org/wiki/F16C "wikilink"), [Turbo
-    Core](https://zh.wikipedia.org/wiki/Turbo_Core "wikilink")3.0.,
-    [ECC](https://zh.wikipedia.org/wiki/ECC_memory "wikilink")*
+  - 全系列支援 *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"), [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"), [SSE2](../Page/SSE2.md "wikilink"), [SSE3](../Page/SSE3.md "wikilink"), [SSSE3](../Page/SSSE3.md "wikilink"), [SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink"), [SSE4.2](https://zh.wikipedia.org/wiki/SSE4.2 "wikilink"), [SSE4a](https://zh.wikipedia.org/wiki/SSE4a "wikilink"), [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"), [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink"), [AMD-V](https://zh.wikipedia.org/wiki/AMD-V "wikilink"), [AES](https://zh.wikipedia.org/wiki/AES_instruction_set "wikilink"), [CLMUL](https://zh.wikipedia.org/wiki/CLMUL_instruction_set "wikilink"), [AVX](https://zh.wikipedia.org/wiki/Advanced_Vector_Extensions "wikilink"), [AVX 1.1](https://zh.wikipedia.org/wiki/Advanced_Vector_Extensions "wikilink"), [XOP](https://zh.wikipedia.org/wiki/XOP_instruction_set "wikilink"), [FMA3](https://zh.wikipedia.org/wiki/FMA4_instruction_set "wikilink"), [FMA4](https://zh.wikipedia.org/wiki/FMA4_instruction_set "wikilink"), [CVT16](https://zh.wikipedia.org/wiki/CVT16_instruction_set "wikilink"), [F16C](https://zh.wikipedia.org/wiki/F16C "wikilink"), [Turbo Core](https://zh.wikipedia.org/wiki/Turbo_Core "wikilink")3.0., [ECC](https://zh.wikipedia.org/wiki/ECC_memory "wikilink")*
   - 全系列支援單顆CPU同時運作
-  - 每顆CPU最高支援 4
-    DIMMs的雙通道[UDDR3](https://zh.wikipedia.org/wiki/Unbuffered_memory "wikilink")
-    /
-    [RDDR3](https://zh.wikipedia.org/wiki/Registered_memory "wikilink")
-    PC3-15000
-  - [Die](https://zh.wikipedia.org/wiki/Die_\(integrated_circuit\) "wikilink")
-    size: 315 mm²
+  - 每顆CPU最高支援 4 DIMMs的雙通道[UDDR3](https://zh.wikipedia.org/wiki/Unbuffered_memory "wikilink") / [RDDR3](https://zh.wikipedia.org/wiki/Registered_memory "wikilink") PC3-15000
+  - [Die](https://zh.wikipedia.org/wiki/Die_\(integrated_circuit\) "wikilink") size: 315 mm²
 
 <table>
 <thead>
@@ -2045,34 +1735,9 @@ turbo</p></td>
 
 #### Opteron 4300 系列 "Seoul" (32 nm)
 
-  - 全系列支援''[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"),
-    [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"),
-    [SSE2](../Page/SSE2.md "wikilink"),
-    [SSE3](../Page/SSE3.md "wikilink"),
-    [SSSE3](../Page/SSSE3.md "wikilink"),
-    [SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink"),
-    [SSE4.2](https://zh.wikipedia.org/wiki/SSE4.2 "wikilink"),
-    [SSE4a](https://zh.wikipedia.org/wiki/SSE4a "wikilink"), [NX
-    bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"),
-    [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink"),
-    [AMD-V](https://zh.wikipedia.org/wiki/AMD-V "wikilink"),
-    [AES](https://zh.wikipedia.org/wiki/AES_instruction_set "wikilink"),
-    [CLMUL](https://zh.wikipedia.org/wiki/CLMUL_instruction_set "wikilink"),
-    [AVX](https://zh.wikipedia.org/wiki/Advanced_Vector_Extensions "wikilink"),
-    [AVX
-    1.1](https://zh.wikipedia.org/wiki/Advanced_Vector_Extensions "wikilink"),
-    [XOP](https://zh.wikipedia.org/wiki/XOP_instruction_set "wikilink"),
-    [FMA3](https://zh.wikipedia.org/wiki/FMA4_instruction_set "wikilink"),
-    [FMA4](https://zh.wikipedia.org/wiki/FMA4_instruction_set "wikilink"),
-    [CVT16](https://zh.wikipedia.org/wiki/CVT16_instruction_set "wikilink"),
-    [F16C](https://zh.wikipedia.org/wiki/F16C "wikilink"), [Turbo
-    Core](https://zh.wikipedia.org/wiki/Turbo_Core "wikilink"),
-    [ECC](https://zh.wikipedia.org/wiki/ECC_memory "wikilink")
+  - 全系列支援''[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"), [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"), [SSE2](../Page/SSE2.md "wikilink"), [SSE3](../Page/SSE3.md "wikilink"), [SSSE3](../Page/SSSE3.md "wikilink"), [SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink"), [SSE4.2](https://zh.wikipedia.org/wiki/SSE4.2 "wikilink"), [SSE4a](https://zh.wikipedia.org/wiki/SSE4a "wikilink"), [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"), [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink"), [AMD-V](https://zh.wikipedia.org/wiki/AMD-V "wikilink"), [AES](https://zh.wikipedia.org/wiki/AES_instruction_set "wikilink"), [CLMUL](https://zh.wikipedia.org/wiki/CLMUL_instruction_set "wikilink"), [AVX](https://zh.wikipedia.org/wiki/Advanced_Vector_Extensions "wikilink"), [AVX 1.1](https://zh.wikipedia.org/wiki/Advanced_Vector_Extensions "wikilink"), [XOP](https://zh.wikipedia.org/wiki/XOP_instruction_set "wikilink"), [FMA3](https://zh.wikipedia.org/wiki/FMA4_instruction_set "wikilink"), [FMA4](https://zh.wikipedia.org/wiki/FMA4_instruction_set "wikilink"), [CVT16](https://zh.wikipedia.org/wiki/CVT16_instruction_set "wikilink"), [F16C](https://zh.wikipedia.org/wiki/F16C "wikilink"), [Turbo Core](https://zh.wikipedia.org/wiki/Turbo_Core "wikilink"), [ECC](https://zh.wikipedia.org/wiki/ECC_memory "wikilink")
   - 全系列支援兩顆CPU同時運作
-  - 每顆CPU最高支援 4
-    DIMMs的雙通道[UDDR3](https://zh.wikipedia.org/wiki/Unbuffered_memory "wikilink")
-    /
-    [RDDR3PC](https://zh.wikipedia.org/wiki/Registered_memory "wikilink")3-15000
+  - 每顆CPU最高支援 4 DIMMs的雙通道[UDDR3](https://zh.wikipedia.org/wiki/Unbuffered_memory "wikilink") / [RDDR3PC](https://zh.wikipedia.org/wiki/Registered_memory "wikilink")3-15000
 
 <table>
 <thead>
@@ -2306,47 +1971,14 @@ turbo</p></td>
 
 #### Opteron 6300 系列 "Abu Dhabi" (32 nm)
 
-  - 全系列支援''[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"),
-    [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"),
-    [SSE2](../Page/SSE2.md "wikilink"),
-    [SSE3](../Page/SSE3.md "wikilink"),
-    [SSSE3](../Page/SSSE3.md "wikilink"),
-    [SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink"),
-    [SSE4.2](https://zh.wikipedia.org/wiki/SSE4.2 "wikilink"),
-    [SSE4a](https://zh.wikipedia.org/wiki/SSE4a "wikilink"), [NX
-    bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"),
-    [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink"),
-    [AMD-V](https://zh.wikipedia.org/wiki/AMD-V "wikilink"),
-    [IOMMU](https://zh.wikipedia.org/wiki/IOMMU "wikilink"),
-    [AES](https://zh.wikipedia.org/wiki/AES_instruction_set "wikilink"),
-    [CLMUL](https://zh.wikipedia.org/wiki/CLMUL_instruction_set "wikilink"),
-    [AVX](https://zh.wikipedia.org/wiki/Advanced_Vector_Extensions "wikilink"),
-    [AVX
-    1.1](https://zh.wikipedia.org/wiki/Advanced_Vector_Extensions "wikilink"),BMI1(Bit
-    Manipulation Instructions1),ABM(Advanced Bit
-    Manipulation),TBM(Trailing Bit Manipulation instructions),
-    [XOP](https://zh.wikipedia.org/wiki/XOP_instruction_set "wikilink"),
-    [FMA3](https://zh.wikipedia.org/wiki/FMA4_instruction_set "wikilink"),
-    [FMA4](https://zh.wikipedia.org/wiki/FMA4_instruction_set "wikilink"),
-    [CVT16](https://zh.wikipedia.org/wiki/CVT16_instruction_set "wikilink"),
-    [F16C](https://zh.wikipedia.org/wiki/F16C "wikilink"), [Turbo
-    Core](https://zh.wikipedia.org/wiki/Turbo_Core "wikilink")2.0,EVP(Enhanced
-    Virus Protection),
-    [ECC](https://zh.wikipedia.org/wiki/ECC_memory "wikilink")
+  - 全系列支援''[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"), [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"), [SSE2](../Page/SSE2.md "wikilink"), [SSE3](../Page/SSE3.md "wikilink"), [SSSE3](../Page/SSSE3.md "wikilink"), [SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink"), [SSE4.2](https://zh.wikipedia.org/wiki/SSE4.2 "wikilink"), [SSE4a](https://zh.wikipedia.org/wiki/SSE4a "wikilink"), [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"), [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink"), [AMD-V](https://zh.wikipedia.org/wiki/AMD-V "wikilink"), [IOMMU](https://zh.wikipedia.org/wiki/IOMMU "wikilink"), [AES](https://zh.wikipedia.org/wiki/AES_instruction_set "wikilink"), [CLMUL](https://zh.wikipedia.org/wiki/CLMUL_instruction_set "wikilink"), [AVX](https://zh.wikipedia.org/wiki/Advanced_Vector_Extensions "wikilink"), [AVX 1.1](https://zh.wikipedia.org/wiki/Advanced_Vector_Extensions "wikilink"),BMI1(Bit Manipulation Instructions1),ABM(Advanced Bit Manipulation),TBM(Trailing Bit Manipulation instructions), [XOP](https://zh.wikipedia.org/wiki/XOP_instruction_set "wikilink"), [FMA3](https://zh.wikipedia.org/wiki/FMA4_instruction_set "wikilink"), [FMA4](https://zh.wikipedia.org/wiki/FMA4_instruction_set "wikilink"), [CVT16](https://zh.wikipedia.org/wiki/CVT16_instruction_set "wikilink"), [F16C](https://zh.wikipedia.org/wiki/F16C "wikilink"), [Turbo Core](https://zh.wikipedia.org/wiki/Turbo_Core "wikilink")2.0,EVP(Enhanced Virus Protection), [ECC](https://zh.wikipedia.org/wiki/ECC_memory "wikilink")
   - 全系列支援二或四顆CPU同時運作
-  - 每顆CPU最高支援12
-    DIMMs的四通道[UDDR3](https://zh.wikipedia.org/wiki/Unbuffered_memory "wikilink")
-    /
-    [RDDR3PC](https://zh.wikipedia.org/wiki/Registered_memory "wikilink")3-15000
-  - Abu Dhabi models have 16 MB of L3 cache (2x8 MB) but only 14 MB is
-    visible with the HT Assist feature activated using 2 MB as a
-    directory cache.
+  - 每顆CPU最高支援12 DIMMs的四通道[UDDR3](https://zh.wikipedia.org/wiki/Unbuffered_memory "wikilink") / [RDDR3PC](https://zh.wikipedia.org/wiki/Registered_memory "wikilink")3-15000
+  - Abu Dhabi models have 16 MB of L3 cache (2x8 MB) but only 14 MB is visible with the HT Assist feature activated using 2 MB as a directory cache.
 
 ##### Opteron 6300P 系列 "Warsaw" (32 nm)
 
-  - Two new 6300 models code-named "Warsaw" were added in 2014 (6338P
-    and 6370P) that operate at lower clock frequencies using less
-    power.\[19\]
+  - Two new 6300 models code-named "Warsaw" were added in 2014 (6338P and 6370P) that operate at lower clock frequencies using less power.\[19\]
 
 <table>
 <thead>
@@ -2650,14 +2282,10 @@ turbo</p></td>
 #### Opteron X1100-series "Kyoto" (28nm)
 
   - 採用Socket FT3 (BGA)
-  - 全系列4 CPU Cores ([Jaguar
-    (microarchitecture)](https://zh.wikipedia.org/wiki/Jaguar_\(microarchitecture\) "wikilink"))
-  - 支援SSE4.1, SSE4.2, AVX, AES, F16C, BMI1,
-    [AMD-V](https://zh.wikipedia.org/wiki/AMD-V "wikilink"), AMD-P
-    (power management)
+  - 全系列4 CPU Cores ([Jaguar (microarchitecture)](https://zh.wikipedia.org/wiki/Jaguar_\(microarchitecture\) "wikilink"))
+  - 支援SSE4.1, SSE4.2, AVX, AES, F16C, BMI1, [AMD-V](https://zh.wikipedia.org/wiki/AMD-V "wikilink"), AMD-P (power management)
   - 支援Turbo Dock Technology, C6 and CC6 low power states
-  - 128-bit
-    [FPU](https://zh.wikipedia.org/wiki/floating-point_unit "wikilink")
+  - 128-bit [FPU](https://zh.wikipedia.org/wiki/floating-point_unit "wikilink")
 
 <table>
 <thead>
@@ -2694,12 +2322,10 @@ support</p></th>
 #### Opteron X2100系列 "Kyoto" (28nm)
 
   - 採用Socket FT3 (BGA)
-  - 全系列4 CPU Cores ([Jaguar
-    (microarchitecture)](https://zh.wikipedia.org/wiki/Jaguar_\(microarchitecture\) "wikilink"))
+  - 全系列4 CPU Cores ([Jaguar (microarchitecture)](https://zh.wikipedia.org/wiki/Jaguar_\(microarchitecture\) "wikilink"))
   - 支援SSE4.1, SSE4.2, AVX, AES, F16C, BMI1
   - 支援Turbo Dock Technology, C6 and CC6 low power states
-  - GPU 基於 [GCN (Graphics Core Next)
-    architecture](https://zh.wikipedia.org/wiki/Graphics_Core_Next "wikilink")
+  - GPU 基於 [GCN (Graphics Core Next) architecture](https://zh.wikipedia.org/wiki/Graphics_Core_Next "wikilink")
 
 <table>
 <thead>
@@ -2758,8 +2384,7 @@ support</p></th>
 
 ## 參考資料
 
-[Category:AMD處理器列表](https://zh.wikipedia.org/wiki/Category:AMD處理器列表 "wikilink")
-[Category:AMD处理器](https://zh.wikipedia.org/wiki/Category:AMD处理器 "wikilink")
+[Category:AMD處理器列表](https://zh.wikipedia.org/wiki/Category:AMD處理器列表 "wikilink") [Category:AMD处理器](https://zh.wikipedia.org/wiki/Category:AMD处理器 "wikilink")
 
 1.
 2.

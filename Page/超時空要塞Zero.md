@@ -1,10 +1,8 @@
-**Macross
-Zero**是1980年代日本著名科幻戰爭動畫[超時空要塞的前傳故事](https://zh.wikipedia.org/wiki/超時空要塞 "wikilink")，也是21世紀的第一部超時空要塞系列作品，以[蘇聯並未於](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")20世紀90年代解體的架空平行世界為舞台，描述第一代超時空要塞中所提及，人類為爭奪外星科技而爆發的統合戰爭。為接續90年代後真實世界之現況，故全片有不少現代武器登場的場面。全劇共五集，於2002至2004年以OVA之形式發行。
+**Macross Zero**是1980年代日本著名科幻戰爭動畫[超時空要塞的前傳故事](https://zh.wikipedia.org/wiki/超時空要塞 "wikilink")，也是21世紀的第一部超時空要塞系列作品，以[蘇聯並未於](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")20世紀90年代解體的架空平行世界為舞台，描述第一代超時空要塞中所提及，人類為爭奪外星科技而爆發的統合戰爭。為接續90年代後真實世界之現況，故全片有不少現代武器登場的場面。全劇共五集，於2002至2004年以OVA之形式發行。
 
 ## 故事簡介
 
-1999年，一顆巨大隕石墜落在南太平洋亞塔利亞島。經過調查之後發現，宇宙中有可能為人類歷史上最大強敵的高等生物存在，於是各國政府凍結了國家之間的利害關係，成立了統合軍，意圖整合世界現有國家組成單一人類政府，並開始重建這艘代號為
-ASS-1 的外星太空船。
+1999年，一顆巨大隕石墜落在南太平洋亞塔利亞島。經過調查之後發現，宇宙中有可能為人類歷史上最大強敵的高等生物存在，於是各國政府凍結了國家之間的利害關係，成立了統合軍，意圖整合世界現有國家組成單一人類政府，並開始重建這艘代號為 ASS-1 的外星太空船。
 
 然而，也就是在這個時候，以蘇聯為首的[華約集團](https://zh.wikipedia.org/wiki/華約 "wikilink")，卻主張應重視各國之間文化的差異，而反對這項同盟，並組成反統合軍同盟，與由西方國家主導的統合軍對抗。在2000到2007年之間，雙方為取得外星人的遺跡與科技而在世界各地進行激烈的爭奪與互角。後世稱為（第一次）統合戰爭。
 
@@ -25,14 +23,12 @@ ASS-1 的外星太空船。
 <!-- end list -->
 
   -
-    莎拉的妹妹。13歲，性格活潑開朗，與姊姊莎拉相反，對現代文明懷有好奇與期待。其後接受了鳥之人的血而令她與姊姊莎拉一樣地擁有著巫女「風之引導者」的能力。鳥之人故事以後，經歷了對祖拿達人的戰爭，其後得到博士學位並成为第117次調查團船的團長並發表Vajra與V型感染病的第一篇研究論文。在Macross
-    Frontier故事中劇情透露了她有一位女兒，瑪奧將她以空間水晶所做的耳飾交給了女兒之後由外孫女「銀河妖精」雪露·諾姆繼承，因這耳飾中的空間水晶的增幅反應而使雪露的歌聲也能像蘭花．李一樣影嚮Vajra。A.D.2048瑪奧在Global星因為Vajra的突然出現並襲擊調查船團Gallia4而遇難（在故事中並未確實提及其死訊的証實）。
+    莎拉的妹妹。13歲，性格活潑開朗，與姊姊莎拉相反，對現代文明懷有好奇與期待。其後接受了鳥之人的血而令她與姊姊莎拉一樣地擁有著巫女「風之引導者」的能力。鳥之人故事以後，經歷了對祖拿達人的戰爭，其後得到博士學位並成为第117次調查團船的團長並發表Vajra與V型感染病的第一篇研究論文。在Macross Frontier故事中劇情透露了她有一位女兒，瑪奧將她以空間水晶所做的耳飾交給了女兒之後由外孫女「銀河妖精」雪露·諾姆繼承，因這耳飾中的空間水晶的增幅反應而使雪露的歌聲也能像蘭花．李一樣影嚮Vajra。A.D.2048瑪奧在Global星因為Vajra的突然出現並襲擊調查船團Gallia4而遇難（在故事中並未確實提及其死訊的証實）。
 
 <!-- end list -->
 
   -
-    26歲，統合軍上尉飛行員，也是統合軍陣營著名的[空戰英雄](https://zh.wikipedia.org/wiki/王牌飛行員 "wikilink")，與透納博士曾有過一段感情，因為友人在戰爭中死去而決定參軍成為了統合軍的王牌並負責帶領在前線的新手機司使用新投入戰役的VF-0作戰。為了救出與莎拉一同被擄的透納博士，而帶領工籐真一起出戰，可惜當救出透納博士時她已經身受重傷，透納博士對他說出”我愛你，這就是很簡單嘛”後便香消玉殞了。在鳥之人故事以後，成為了教導一條輝飛行技術的師傅，並以少校的軍階成為統合軍的王牌及出任ASS-1
-    Macross與祖拿達人對戰初期的骷髗機隊隊長，此為後話。
+    26歲，統合軍上尉飛行員，也是統合軍陣營著名的[空戰英雄](https://zh.wikipedia.org/wiki/王牌飛行員 "wikilink")，與透納博士曾有過一段感情，因為友人在戰爭中死去而決定參軍成為了統合軍的王牌並負責帶領在前線的新手機司使用新投入戰役的VF-0作戰。為了救出與莎拉一同被擄的透納博士，而帶領工籐真一起出戰，可惜當救出透納博士時她已經身受重傷，透納博士對他說出”我愛你，這就是很簡單嘛”後便香消玉殞了。在鳥之人故事以後，成為了教導一條輝飛行技術的師傅，並以少校的軍階成為統合軍的王牌及出任ASS-1 Macross與祖拿達人對戰初期的骷髗機隊隊長，此為後話。
 
 <!-- end list -->
 
@@ -86,8 +82,7 @@ ASS-1 的外星太空船。
 **反統合軍陣營**
 
   - [米高楊-格里維奇](https://zh.wikipedia.org/wiki/米高楊-格里維奇 "wikilink")，[米格29支點式戰鬥機](../Page/米格-29戰鬥機.md "wikilink")
-  - [蘇霍伊](https://zh.wikipedia.org/wiki/蘇霍伊 "wikilink")／IAI/[都尼爾](https://zh.wikipedia.org/wiki/都尼爾 "wikilink")
-    [SV-51](../Page/SV-51.md "wikilink")
+  - [蘇霍伊](https://zh.wikipedia.org/wiki/蘇霍伊 "wikilink")／IAI/[都尼爾](https://zh.wikipedia.org/wiki/都尼爾 "wikilink") [SV-51](../Page/SV-51.md "wikilink")
   - 機器人[章魚](https://zh.wikipedia.org/wiki/超時空要塞兵器#反統合同盟 "wikilink")
   - アゥエルシュテット潜水母舰
 
@@ -174,10 +169,4 @@ ASS-1 的外星太空船。
 
   - [MACROSS ZERO Official Web Site](http://www.macross.co.jp/zero/)
 
-[Category:超时空要塞](https://zh.wikipedia.org/wiki/Category:超时空要塞 "wikilink")
-[Category:2002年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:2002年日本OVA動畫 "wikilink")
-[Category:架空歷史作品](https://zh.wikipedia.org/wiki/Category:架空歷史作品 "wikilink")
-[Category:科幻片](https://zh.wikipedia.org/wiki/Category:科幻片 "wikilink")
-[Category:机器人动画](https://zh.wikipedia.org/wiki/Category:机器人动画 "wikilink")
-[Category:孤島背景作品](https://zh.wikipedia.org/wiki/Category:孤島背景作品 "wikilink")
-[Category:SATELIGHT](https://zh.wikipedia.org/wiki/Category:SATELIGHT "wikilink")
+[Category:超时空要塞](https://zh.wikipedia.org/wiki/Category:超时空要塞 "wikilink") [Category:2002年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:2002年日本OVA動畫 "wikilink") [Category:架空歷史作品](https://zh.wikipedia.org/wiki/Category:架空歷史作品 "wikilink") [Category:科幻片](https://zh.wikipedia.org/wiki/Category:科幻片 "wikilink") [Category:机器人动画](https://zh.wikipedia.org/wiki/Category:机器人动画 "wikilink") [Category:孤島背景作品](https://zh.wikipedia.org/wiki/Category:孤島背景作品 "wikilink") [Category:SATELIGHT](https://zh.wikipedia.org/wiki/Category:SATELIGHT "wikilink")

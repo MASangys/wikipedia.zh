@@ -1,5 +1,4 @@
-《**Yummy
-Yummy**》（，中國大陸譯名：**美味風雲**）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司製作的時裝](../Page/電視廣播有限公司.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，全劇共30集，由[鄭嘉穎](../Page/鄭嘉穎.md "wikilink")、[林峯](https://zh.wikipedia.org/wiki/林峯 "wikilink")、[佘詩曼及](https://zh.wikipedia.org/wiki/佘詩曼 "wikilink")[楊怡領銜主演](../Page/楊怡.md "wikilink")，監製[王心慰](../Page/王心慰.md "wikilink")。
+《**Yummy Yummy**》（，中國大陸譯名：**美味風雲**）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")製作的時裝[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，全劇共30集，由[鄭嘉穎](../Page/鄭嘉穎.md "wikilink")、[林峯](https://zh.wikipedia.org/wiki/林峯 "wikilink")、[佘詩曼及](https://zh.wikipedia.org/wiki/佘詩曼 "wikilink")[楊怡](../Page/楊怡.md "wikilink")領銜主演，監製[王心慰](../Page/王心慰.md "wikilink")。
 
 劇集特別之處，在於是香港無綫電視和[新加坡](../Page/新加坡.md "wikilink")[新傳媒合作的劇集](https://zh.wikipedia.org/wiki/新傳媒 "wikilink")。除了用上香港、新加坡兩地演員之外，劇集亦在香港、新加坡和[中國](../Page/中國.md "wikilink")[珠海三地取景](https://zh.wikipedia.org/wiki/珠海 "wikilink")。
 
@@ -575,7 +574,7 @@ Vicky之上司</p></td>
 
 ### 香港收视
 
-以下為本劇於[香港](../Page/香港.md "wikilink")[無綫電視](../Page/電視廣播有限公司.md "wikilink")[翡翠台之收視紀錄](../Page/翡翠台.md "wikilink")：
+以下為本劇於[香港](../Page/香港.md "wikilink")[無綫電視](../Page/電視廣播有限公司.md "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")之收視紀錄：
 
 |        |        |                                                     |                                                     |
 | ------ | ------ | --------------------------------------------------- | --------------------------------------------------- |
@@ -603,26 +602,19 @@ Vicky之上司</p></td>
 
 ## 外部連結
 
-  - [無綫電視官方網頁 - Yummy
-    Yummy](https://web.archive.org/web/20060718004959/http://tvcity.tvb.com/drama/yummyyummy/)
-  - [無綫電視官方網頁(TVBI) - Yummy
-    Yummy](http://www.tvb.com/tvbi/program/foodforlife/index.html)
+  - [無綫電視官方網頁 - Yummy Yummy](https://web.archive.org/web/20060718004959/http://tvcity.tvb.com/drama/yummyyummy/)
+  - [無綫電視官方網頁(TVBI) - Yummy Yummy](http://www.tvb.com/tvbi/program/foodforlife/index.html)
 
 ## 電視節目的變遷
 
 |align="center" colspan="1"|**上一套：**
 [開心賓館](../Page/開心賓館.md "wikilink")
-\-7月29日 |align="center"
-colspan="2"|**翡翠台第一線劇集[(2005)](https://zh.wikipedia.org/wiki/無線劇集列表_\(2005年\) "wikilink")**
+\-7月29日 |align="center" colspan="2"|**翡翠台第一線劇集[(2005)](https://zh.wikipedia.org/wiki/無線劇集列表_\(2005年\) "wikilink")**
 Yummy Yummy
 8月1日-9月9日 |align="center" colspan="1"|**下一套：**
 [翻新大少](../Page/翻新大少.md "wikilink")
-9月12日- |- |align="center"
-colspan="2"|[我的野蠻奶奶](../Page/我的野蠻奶奶.md "wikilink")
+9月12日- |- |align="center" colspan="2"|[我的野蠻奶奶](../Page/我的野蠻奶奶.md "wikilink")
 \-8月12日 |align="center" colspan="2"|[酒店風雲](../Page/酒店風雲.md "wikilink")
-8月15日- |- |align="center"
-colspan="4"|[妙手仁心III](../Page/妙手仁心.md "wikilink")
+8月15日- |- |align="center" colspan="4"|[妙手仁心](../Page/妙手仁心.md "wikilink")III
 
-[Category:2005年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:2005年無綫電視劇集 "wikilink")
-[Category:料理電視劇](https://zh.wikipedia.org/wiki/Category:料理電視劇 "wikilink")
-[Category:無綫電視2000年代背景劇集](https://zh.wikipedia.org/wiki/Category:無綫電視2000年代背景劇集 "wikilink")
+[Category:2005年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:2005年無綫電視劇集 "wikilink") [Category:料理電視劇](https://zh.wikipedia.org/wiki/Category:料理電視劇 "wikilink") [Category:無綫電視2000年代背景劇集](https://zh.wikipedia.org/wiki/Category:無綫電視2000年代背景劇集 "wikilink")

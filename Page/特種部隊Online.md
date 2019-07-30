@@ -1,18 +1,16 @@
-是一款[線上](https://zh.wikipedia.org/wiki/線上遊戲 "wikilink")[第一人稱射擊遊戲](https://zh.wikipedia.org/wiki/第一人稱射擊遊戲 "wikilink")。開發者是[南韓的](https://zh.wikipedia.org/wiki/南韓 "wikilink")[Dragon
-Fly](https://zh.wikipedia.org/wiki/Dragon_Fly "wikilink")（龍飛）公司。
+是一款[線上](https://zh.wikipedia.org/wiki/線上遊戲 "wikilink")[第一人稱射擊遊戲](https://zh.wikipedia.org/wiki/第一人稱射擊遊戲 "wikilink")。開發者是[南韓的](https://zh.wikipedia.org/wiki/南韓 "wikilink")[Dragon Fly](https://zh.wikipedia.org/wiki/Dragon_Fly "wikilink")（龍飛）公司。
 
 ## 运营历史
 
 2004年在南韓首先發行，發行商為[Pmang](https://zh.wikipedia.org/wiki/Pmang "wikilink")。
 
-2006年10月13日 -
-20日，台湾[华义国际进行](https://zh.wikipedia.org/wiki/华义国际 "wikilink")[封测](https://zh.wikipedia.org/wiki/封测 "wikilink")。当月25日，台湾[公测](https://zh.wikipedia.org/wiki/公测 "wikilink")\[1\]。
+2006年10月13日 - 20日，台湾[华义国际进行](https://zh.wikipedia.org/wiki/华义国际 "wikilink")[封测](https://zh.wikipedia.org/wiki/封测 "wikilink")。当月25日，台湾[公测](https://zh.wikipedia.org/wiki/公测 "wikilink")\[1\]。
 
-2007年5月中國由[中华网游戏集团开始负责运营](https://zh.wikipedia.org/wiki/中华网 "wikilink")。2011年9月22日，在其新版本发布会上，主持人曾喊出“虐死非专业”之口号，矛头直指同时期竞争对手[腾讯旗下的FPS游戏](../Page/腾讯.md "wikilink")《[穿越火线](../Page/穿越火线.md "wikilink")》\[2\]。但大约一年后，2012年8月17日以停止服务告终\[3\]。
+2007年5月中國由[中华网游戏集团开始负责运营](https://zh.wikipedia.org/wiki/中华网 "wikilink")。2011年9月22日，在其新版本发布会上，主持人曾喊出“虐死非专业”之口号，矛头直指同时期竞争对手[腾讯](../Page/腾讯.md "wikilink")旗下的FPS游戏《[穿越火线](../Page/穿越火线.md "wikilink")》\[2\]。但大约一年后，2012年8月17日以停止服务告终\[3\]。
 
 2012年11月台灣更名為New SFOnline。
 
-2017年韓國原廠不再與台灣代理商華義國際續約。台灣[華義國際於](../Page/華義國際.md "wikilink")2017年10月24日12:00結束營運，轉由韓國原廠繼續營運\[4\]。
+2017年韓國原廠不再與台灣代理商華義國際續約。台灣[華義國際](../Page/華義國際.md "wikilink")於2017年10月24日12:00結束營運，轉由韓國原廠繼續營運\[4\]。
 
 2017年10月24日23:11台灣LaMate國際公司宣布由韓國Dragon fly與原台灣華義國際交接台灣地區SF代理權。
 
@@ -59,11 +57,7 @@ Fly](https://zh.wikipedia.org/wiki/Dragon_Fly "wikilink")（龍飛）公司。
   - [中国SF官方网站](http://sf.8yx.com/)
   - [泰國SF官方網站](http://sf-web.gg.in.th/Landing/)
 
-[Category:多人線上第一人稱射擊遊戲](https://zh.wikipedia.org/wiki/Category:多人線上第一人稱射擊遊戲 "wikilink")
-[Category:2004年电子游戏](https://zh.wikipedia.org/wiki/Category:2004年电子游戏 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:韩国开发电子游戏](https://zh.wikipedia.org/wiki/Category:韩国开发电子游戏 "wikilink")
-[Category:華義國際遊戲](https://zh.wikipedia.org/wiki/Category:華義國際遊戲 "wikilink")
+[Category:多人線上第一人稱射擊遊戲](https://zh.wikipedia.org/wiki/Category:多人線上第一人稱射擊遊戲 "wikilink") [Category:2004年电子游戏](https://zh.wikipedia.org/wiki/Category:2004年电子游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:韩国开发电子游戏](https://zh.wikipedia.org/wiki/Category:韩国开发电子游戏 "wikilink") [Category:華義國際遊戲](https://zh.wikipedia.org/wiki/Category:華義國際遊戲 "wikilink")
 
 1.
 2.

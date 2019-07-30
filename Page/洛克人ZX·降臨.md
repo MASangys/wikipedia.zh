@@ -1,4 +1,4 @@
-是紀念[洛克人系列二十周年的第二部作品](../Page/洛克人系列.md "wikilink")，也是[洛克人ZX系列](https://zh.wikipedia.org/wiki/洛克人ZX系列 "wikilink")[洛克人ZX的續集](../Page/洛克人ZX.md "wikilink")。本作的舞台是《[洛克人ZX](../Page/洛克人ZX.md "wikilink")》的數年後，科技高度發達的未來世界，人類和人類創造的機械生命體“レプリロイド”之間的漫長戰爭已經結束，開始了共存之路。
+是紀念[洛克人系列](../Page/洛克人系列.md "wikilink")二十周年的第二部作品，也是[洛克人ZX系列](https://zh.wikipedia.org/wiki/洛克人ZX系列 "wikilink")[洛克人ZX](../Page/洛克人ZX.md "wikilink")的續集。本作的舞台是《[洛克人ZX](../Page/洛克人ZX.md "wikilink")》的數年後，科技高度發達的未來世界，人類和人類創造的機械生命體“レプリロイド”之間的漫長戰爭已經結束，開始了共存之路。
 
 本集與上集同樣推出男女主角的選擇，但故事發展將會為分歧路線。
 
@@ -99,7 +99,7 @@
 <!-- end list -->
 
   -
-    今作的Ａ形態主要武器為槍，不像往時[洛克人Zero和](../Page/洛克人零系列.md "wikilink")[洛克人ZX那樣以劍作為主要武器](../Page/洛克人ZX.md "wikilink")，不過在複製敵人能力仍然可以利用劍（包括ＺＸ形態）。兩支槍的攻擊分為五種︰
+    今作的Ａ形態主要武器為槍，不像往時[洛克人Zero和](../Page/洛克人零系列.md "wikilink")[洛克人ZX](../Page/洛克人ZX.md "wikilink")那樣以劍作為主要武器，不過在複製敵人能力仍然可以利用劍（包括ＺＸ形態）。兩支槍的攻擊分為五種︰
     1.  普通射擊︰直接按下射擊按鈕。（注︰男女主角的攻擊力和連射力有所不同　男為1傷害　女為1.5傷害，不過在首腦戰時攻擊力相同）
     2.  蓄力（短）攻擊︰按著射擊按鈕短時間。
     3.  蓄力（長）攻擊︰和蓄力（短）一樣，不過按著時間較長。（兩位主角的槍擊皆不同，男主角為普通炮擊，女主角則是線條型炮擊，碰到牆邊或地下會反彈，一段時間後消失。）
@@ -282,8 +282,7 @@
   -
     身體技能：衝刺、攀壁踢、壁踢飛躍、貼壁（會滑下）
     特別技能：無
-    普通攻擊：能源彈射擊、光刀三連擊、衝刺斬、揮刀（貼壁及攀梯時）、空斬（在空中時）、空圓斬（在空中時）
-    、（梵）升龍斬（提劍跳起）、（艾兒）龍牙墜（擊中地面後向兩邊震起石塊）
+    普通攻擊：能源彈射擊、光刀三連擊、衝刺斬、揮刀（貼壁及攀梯時）、空斬（在空中時）、空圓斬（在空中時） 、（梵）升龍斬（提劍跳起）、（艾兒）龍牙墜（擊中地面後向兩邊震起石塊）
     蓄氣攻擊：螺旋飛彈、破空劍氣
 
 <!-- end list -->
@@ -299,9 +298,7 @@
 <!-- end list -->
 
   - 三賢人
-    （╱ （CV：[柴田秀勝](../Page/柴田秀勝.md "wikilink")）、╱
-    （CV：[安原義人](../Page/安原義人.md "wikilink")）、╱
-    （CV：[長](https://zh.wikipedia.org/wiki/長_\(日本配音員\) "wikilink")）
+    （╱ （CV：[柴田秀勝](../Page/柴田秀勝.md "wikilink")）、╱ （CV：[安原義人](../Page/安原義人.md "wikilink")）、╱ （CV：[長](https://zh.wikipedia.org/wiki/長_\(日本配音員\) "wikilink")）
 
 ### 遺跡獵人
 
@@ -323,13 +320,13 @@
 
   - 宙冰戟魚‧角朗霍斯（╱  ）
     （CV：[小原雅一](https://zh.wikipedia.org/wiki/小原雅一 "wikilink")）
-    [中華鱟形類洛體機械人](../Page/中華鱟.md "wikilink")。冰屬性。同時能控制時間，體形巨大，性格暴躁、愛作挑戰。
+    [中華鱟](../Page/中華鱟.md "wikilink")形類洛體機械人。冰屬性。同時能控制時間，體形巨大，性格暴躁、愛作挑戰。
 
 <!-- end list -->
 
   - 玫瑰火花‧弗拉瓦洛依特（╱  ）
     （CV：[安井邦彥](../Page/安井邦彥.md "wikilink")）
-    [薔薇形類洛體機械人](https://zh.wikipedia.org/wiki/薔薇 "wikilink")。雷屬性。因為電子回路有問題而有[同性戀傾向](../Page/同性戀.md "wikilink")，在地上和管子上有不同的型態，卻只有在管子上才能發揮真正的實力。
+    [薔薇形類洛體機械人](https://zh.wikipedia.org/wiki/薔薇 "wikilink")。雷屬性。因為電子回路有問題而有[同性戀](../Page/同性戀.md "wikilink")傾向，在地上和管子上有不同的型態，卻只有在管子上才能發揮真正的實力。
 
 <!-- end list -->
 
@@ -347,7 +344,7 @@
 
   - （╱  ）
     （CV：[菊池心](../Page/菊池心.md "wikilink")）
-    [豪豬形類洛體機械人](../Page/豪豬.md "wikilink")。雷屬性。非常愛講話，類洛體機械人當中體積最小的一個。
+    [豪豬](../Page/豪豬.md "wikilink")形類洛體機械人。雷屬性。非常愛講話，類洛體機械人當中體積最小的一個。
 
 <!-- end list -->
 
@@ -394,8 +391,7 @@
 
 ## 花絮
 
-游戏中的BGM“bullet
-drive”，在后来的OST专辑中被作者改编为“寻求未来”的有歌词版本，为来自中国大陆的[生志恒演唱](https://zh.wikipedia.org/wiki/生志恒 "wikilink")\[1\]。
+游戏中的BGM“bullet drive”，在后来的OST专辑中被作者改编为“寻求未来”的有歌词版本，为来自中国大陆的[生志恒演唱](https://zh.wikipedia.org/wiki/生志恒 "wikilink")\[1\]。
 
 ## 外部連結
 
@@ -403,11 +399,6 @@ drive”，在后来的OST专辑中被作者改编为“寻求未来”的有歌
 
   - —[洛克人ZX‧降臨公式日誌](http://www.capcom-fc.com/rockman_zx/)
 
-[Category:2007年电子游戏](https://zh.wikipedia.org/wiki/Category:2007年电子游戏 "wikilink")
-[Category:洛克人系列](https://zh.wikipedia.org/wiki/Category:洛克人系列 "wikilink")
-[Category:動作遊戲](https://zh.wikipedia.org/wiki/Category:動作遊戲 "wikilink")
-[Category:任天堂DS遊戲](https://zh.wikipedia.org/wiki/Category:任天堂DS遊戲 "wikilink")
-[Category:任天堂DS独占游戏](https://zh.wikipedia.org/wiki/Category:任天堂DS独占游戏 "wikilink")
-[Category:類銀河戰士惡魔城遊戲](https://zh.wikipedia.org/wiki/Category:類銀河戰士惡魔城遊戲 "wikilink")
+[Category:2007年电子游戏](https://zh.wikipedia.org/wiki/Category:2007年电子游戏 "wikilink") [Category:洛克人系列](https://zh.wikipedia.org/wiki/Category:洛克人系列 "wikilink") [Category:動作遊戲](https://zh.wikipedia.org/wiki/Category:動作遊戲 "wikilink") [Category:任天堂DS遊戲](https://zh.wikipedia.org/wiki/Category:任天堂DS遊戲 "wikilink") [Category:任天堂DS独占游戏](https://zh.wikipedia.org/wiki/Category:任天堂DS独占游戏 "wikilink") [Category:類銀河戰士惡魔城遊戲](https://zh.wikipedia.org/wiki/Category:類銀河戰士惡魔城遊戲 "wikilink")
 
 1.

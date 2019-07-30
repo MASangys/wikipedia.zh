@@ -1,5 +1,4 @@
-**Eva**是一款[KDE下的](../Page/KDE.md "wikilink")[QQ客户端](https://zh.wikipedia.org/wiki/QQ "wikilink")，基于[Qt库开发](../Page/Qt.md "wikilink")，遵照[GNU
-GPL第二版发布](https://zh.wikipedia.org/wiki/GNU_GPL "wikilink")，是[自由软件](../Page/自由软件.md "wikilink")。
+**Eva**是一款[KDE](../Page/KDE.md "wikilink")下的[QQ客户端](https://zh.wikipedia.org/wiki/QQ "wikilink")，基于[Qt](../Page/Qt.md "wikilink")库开发，遵照[GNU GPL第二版发布](https://zh.wikipedia.org/wiki/GNU_GPL "wikilink")，是[自由软件](../Page/自由软件.md "wikilink")。
 
 目前的最新版是0.4.1
 
@@ -28,6 +27,4 @@ GPL第二版发布](https://zh.wikipedia.org/wiki/GNU_GPL "wikilink")，是[自�
   - [Eva首页](http://sourceforge.net/projects/evaq/)
   - [EvaQQ论坛](https://web.archive.org/web/20071120104802/http://www.myswear.net/forum/forumdisplay.php?fid=3)
 
-[Category:SourceForge专案](https://zh.wikipedia.org/wiki/Category:SourceForge专案 "wikilink")
-[Category:自由的即时通讯软件](https://zh.wikipedia.org/wiki/Category:自由的即时通讯软件 "wikilink")
-[Category:KDE](https://zh.wikipedia.org/wiki/Category:KDE "wikilink")
+[Category:SourceForge专案](https://zh.wikipedia.org/wiki/Category:SourceForge专案 "wikilink") [Category:自由的即时通讯软件](https://zh.wikipedia.org/wiki/Category:自由的即时通讯软件 "wikilink") [Category:KDE](https://zh.wikipedia.org/wiki/Category:KDE "wikilink")

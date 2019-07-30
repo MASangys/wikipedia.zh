@@ -1,30 +1,18 @@
-**AXN**是[索尼影業擁有的電視網](https://zh.wikipedia.org/wiki/索尼影業 "wikilink")，於1997年9月21日在[日本](../Page/日本.md "wikilink")[Sky
-PerfecTV\!平台啟播](https://zh.wikipedia.org/wiki/Sky_PerfecTV! "wikilink")，AXN至今已於全世界不同的地區播放。AXN
-24小時播放電視劇、電影、動畫、真實歷險和體育節目。
+**AXN**是[索尼影業擁有的電視網](https://zh.wikipedia.org/wiki/索尼影業 "wikilink")，於1997年9月21日在[日本](../Page/日本.md "wikilink")[Sky PerfecTV\!平台啟播](https://zh.wikipedia.org/wiki/Sky_PerfecTV! "wikilink")，AXN至今已於全世界不同的地區播放。AXN 24小時播放電視劇、電影、動畫、真實歷險和體育節目。
 
-AXN亞洲區經營者為索尼影業旗下的SPE
-Networks亞洲有限公司（簡稱SPENA），[台灣區經營者為](https://zh.wikipedia.org/wiki/台灣 "wikilink")「美商超躍有限公司台灣分公司」。
-AXN台灣頻道的前身，為[超級電視台於](https://zh.wikipedia.org/wiki/超級電視台 "wikilink")1996年12月開播的「超視二台」。
-1997年，隨著索尼影業與超級電視台以互相投資的方式合作，超視二台先挪出夜間固定時段作為熱身時段《極度動感AXN》（後改名《AXN動感特區》），後轉型為AXN台灣頻道。1999年1月，[緯來企業取得AXN台灣獨家代理權](https://zh.wikipedia.org/wiki/緯來企業 "wikilink")。
-2004年1月1日，[ANIMAX台灣頻道開播](../Page/Animax_Asia.md "wikilink")，AXN台灣頻道尚未播畢的動畫節目移往Animax台灣頻道繼續播出。
-2017年12月20日，台灣地區啟用高畫質版本「AXN 台灣頻道 HD」，2018年1月4日起，陸續在各有線電視系統商播出。
+AXN亞洲區經營者為索尼影業旗下的SPE Networks亞洲有限公司（簡稱SPENA），[台灣區經營者為](https://zh.wikipedia.org/wiki/台灣 "wikilink")「美商超躍有限公司台灣分公司」。 AXN台灣頻道的前身，為[超級電視台於](https://zh.wikipedia.org/wiki/超級電視台 "wikilink")1996年12月開播的「超視二台」。 1997年，隨著索尼影業與超級電視台以互相投資的方式合作，超視二台先挪出夜間固定時段作為熱身時段《極度動感AXN》（後改名《AXN動感特區》），後轉型為AXN台灣頻道。1999年1月，[緯來企業取得AXN台灣獨家代理權](https://zh.wikipedia.org/wiki/緯來企業 "wikilink")。 2004年1月1日，[ANIMAX台灣頻道開播](../Page/Animax_Asia.md "wikilink")，AXN台灣頻道尚未播畢的動畫節目移往Animax台灣頻道繼續播出。 2017年12月20日，台灣地區啟用高畫質版本「AXN 台灣頻道 HD」，2018年1月4日起，陸續在各有線電視系統商播出。
 
 ## 概述
 
-AXN 頻道是亞洲首屈一指的動作及實境冒險頻道，以 18 至 39
-歲的青年觀眾為主要對象，24小時全天候播放來自世界各地高收視電視影集、電影、實境冒險、動畫及
-AXN亞洲原創節目。
+AXN 頻道是亞洲首屈一指的動作及實境冒險頻道，以 18 至 39 歲的青年觀眾為主要對象，24小時全天候播放來自世界各地高收視電視影集、電影、實境冒險、動畫及 AXN亞洲原創節目。
 
-於1997年開播，AXN頻道目前已經是國際知名頻道，並於全世界60個國家播放，其中包括拉丁美洲和歐洲。在亞洲，橫跨21
-個亞洲國家的一億六百萬收視戶，共有一億四千八百萬觀眾群，其中約有五千萬的收視戶位於大中華地區。
+於1997年開播，AXN頻道目前已經是國際知名頻道，並於全世界60個國家播放，其中包括拉丁美洲和歐洲。在亞洲，橫跨21 個亞洲國家的一億六百萬收視戶，共有一億四千八百萬觀眾群，其中約有五千萬的收視戶位於大中華地區。
 
 2009年3月份，AXN也推出了HD高畫質頻道 （HD）。
 
-AXN Asia隸屬Sony Pictures Entertainment並在Sony Pictures Television
-Networks, Asia (SPENA) 轄下，該公司同時運作GEM、Animax、Sony Channel與ONE等頻道。
+AXN Asia隸屬Sony Pictures Entertainment並在Sony Pictures Television Networks, Asia (SPENA) 轄下，該公司同時運作GEM、Animax、Sony Channel與ONE等頻道。
 
-台灣行銷由徐樹翔統籌，[《馬蓋先》VR體驗活動2016年在網路掀起熱烈討論](https://www.facebook.com/AXNTW/posts/1516216148407322)。《亞洲達人秀》第三季於2019年2月7日（週四）晚間8:30全球首播，台灣嘻哈舞團MANIAC
-Family的亮眼表現，也被《[蘋果日報](https://zh.wikipedia.org/wiki/蘋果日報_\(台灣\) "wikilink")》、《[Yahoo奇摩新聞](../Page/Yahoo奇摩.md "wikilink")》、《[中時電子報](../Page/中時電子報.md "wikilink")》與《[NOWnews今日新聞](../Page/NOWnews今日新聞.md "wikilink")》大篇幅報導。
+台灣行銷由徐樹翔統籌，[《馬蓋先》VR體驗活動2016年在網路掀起熱烈討論](https://www.facebook.com/AXNTW/posts/1516216148407322)。《亞洲達人秀》第三季於2019年2月7日（週四）晚間8:30全球首播，台灣嘻哈舞團MANIAC Family的亮眼表現，也被《[蘋果日報](https://zh.wikipedia.org/wiki/蘋果日報_\(台灣\) "wikilink")》、《[Yahoo奇摩](../Page/Yahoo奇摩.md "wikilink")新聞》、《[中時電子報](../Page/中時電子報.md "wikilink")》與《[NOWnews今日新聞](../Page/NOWnews今日新聞.md "wikilink")》大篇幅報導。
 
 ## 播出節目
 
@@ -270,8 +258,7 @@ Family的亮眼表現，也被《[蘋果日報](https://zh.wikipedia.org/wiki/�
   -
 ## 歷年LOGO
 
-Image:AXN logo.svg|使用期間：開台至2015年9月23日 Image:Axn
-global.png|使用期間：2015年9月24日至今 Image:|使用期間： Image:|使用期間：
+Image:AXN logo.svg|使用期間：開台至2015年9月23日 Image:Axn global.png|使用期間：2015年9月24日至今 Image:|使用期間： Image:|使用期間：
 
 ## 註釋
 
@@ -288,10 +275,4 @@ global.png|使用期間：2015年9月24日至今 Image:|使用期間： Image:|�
   - [AXN日本](http://axn.co.jp/)
   - [AXN韓國](http://www.axntv.co.kr/)
 
-[Category:電視頻道](https://zh.wikipedia.org/wiki/Category:電視頻道 "wikilink")
-[Category:日本電視台](https://zh.wikipedia.org/wiki/Category:日本電視台 "wikilink")
-[Category:韓國電視台](https://zh.wikipedia.org/wiki/Category:韓國電視台 "wikilink")
-[Category:印度電視台](https://zh.wikipedia.org/wiki/Category:印度電視台 "wikilink")
-[Category:香港電視播放頻道](https://zh.wikipedia.org/wiki/Category:香港電視播放頻道 "wikilink")
-[Category:台灣電視播放頻道](https://zh.wikipedia.org/wiki/Category:台灣電視播放頻道 "wikilink")
-[Category:索尼影視電視公司](https://zh.wikipedia.org/wiki/Category:索尼影視電視公司 "wikilink")
+[Category:電視頻道](https://zh.wikipedia.org/wiki/Category:電視頻道 "wikilink") [Category:日本電視台](https://zh.wikipedia.org/wiki/Category:日本電視台 "wikilink") [Category:韓國電視台](https://zh.wikipedia.org/wiki/Category:韓國電視台 "wikilink") [Category:印度電視台](https://zh.wikipedia.org/wiki/Category:印度電視台 "wikilink") [Category:香港電視播放頻道](https://zh.wikipedia.org/wiki/Category:香港電視播放頻道 "wikilink") [Category:台灣電視播放頻道](https://zh.wikipedia.org/wiki/Category:台灣電視播放頻道 "wikilink") [Category:索尼影視電視公司](https://zh.wikipedia.org/wiki/Category:索尼影視電視公司 "wikilink")

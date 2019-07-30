@@ -1,5 +1,4 @@
-《**A-CLUB**》（後期全名為**A-CLUB
-動畫俱樂部**）是曾於[香港以半月刊形式出版的中文雜誌](../Page/香港.md "wikilink")，內容以介紹由[日本的](../Page/日本.md "wikilink")[動畫及](https://zh.wikipedia.org/wiki/動畫 "wikilink")[漫畫為主](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，當中亦包括日本[電玩遊戲及藝能界動態](https://zh.wikipedia.org/wiki/電玩遊戲 "wikilink")，發展至中後期更嘗試加插[美國漫畫專欄](https://zh.wikipedia.org/wiki/美國漫畫 "wikilink")。
+《**A-CLUB**》（後期全名為**A-CLUB 動畫俱樂部**）是曾於[香港](../Page/香港.md "wikilink")以半月刊形式出版的中文雜誌，內容以介紹由[日本](../Page/日本.md "wikilink")的[動畫及](https://zh.wikipedia.org/wiki/動畫 "wikilink")[漫畫為主](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，當中亦包括日本[電玩遊戲及藝能界動態](https://zh.wikipedia.org/wiki/電玩遊戲 "wikilink")，發展至中後期更嘗試加插[美國漫畫專欄](https://zh.wikipedia.org/wiki/美國漫畫 "wikilink")。
 
 鑑於當時資訊貧乏，傳媒、發行商以及主流社會都不太重視動漫，要獲取中文化的動漫資料並不容易，於是A-CLUB成為許多香港讀者認識日本動漫畫的唯一途徑。由對動漫畫傾向「被動接受」的八九十年代，過渡到普羅大眾因資訊媒體發達、進而獲得觀賞主導權的21世紀初，A-CLUB都在扮演著「入門網站」般的中間人角色。它對在香港成長於1980年代至1990年代中的青年族群，有著極為微妙的關係。但隨着VCD、DVD之類的媒體和互聯網等工具發展，取得相關資訊的途徑漸多，該刊最終於2001年停刊。
 
@@ -9,8 +8,7 @@ __TOC__
 
 **A-CLUB**這個名稱，有傳言是參考日本[Bandai當年出版的動漫雜誌](https://zh.wikipedia.org/wiki/Bandai "wikilink")"[B-Club](https://zh.wikipedia.org/wiki/B-Club "wikilink")"而來。然而上述說法並未得到確實。
 
-A-CLUB的**A**是動畫"Anime"的簡稱，A-CLUB的全名是**Anime
-Club**。它和國內出版的[A-Club並不相同](https://zh.wikipedia.org/wiki/A-Club "wikilink")。
+A-CLUB的**A**是動畫"Anime"的簡稱，A-CLUB的全名是**Anime Club**。它和國內出版的[A-Club並不相同](https://zh.wikipedia.org/wiki/A-Club "wikilink")。
 
 A-CLUB通常是以大楷書寫。
 
@@ -22,8 +20,7 @@ A-CLUB的出版人[林查理是](https://zh.wikipedia.org/wiki/林查理 "wikili
 
 ### 早期至中期
 
-在A-CLUB以前，香港出版界並沒有製作動漫畫雜誌的經驗，一般同好者只能到[銅鑼灣](../Page/銅鑼灣.md "wikilink")[大丸百貨的](https://zh.wikipedia.org/wiki/大丸百貨 "wikilink")[旭屋書店購買日本的動漫雜誌](https://zh.wikipedia.org/wiki/旭屋書店 "wikilink")，如《My
-Anime》、《Animation》等。很自然的，早期A-CLUB雜誌的編排格式，便參照了日本動漫刊物的形式，比如角川書店的Newtype。
+在A-CLUB以前，香港出版界並沒有製作動漫畫雜誌的經驗，一般同好者只能到[銅鑼灣](../Page/銅鑼灣.md "wikilink")[大丸百貨的](https://zh.wikipedia.org/wiki/大丸百貨 "wikilink")[旭屋書店購買日本的動漫雜誌](https://zh.wikipedia.org/wiki/旭屋書店 "wikilink")，如《My Anime》、《Animation》等。很自然的，早期A-CLUB雜誌的編排格式，便參照了日本動漫刊物的形式，比如角川書店的Newtype。
 
 相比日本同類刊物，A-CLUB的內文完成度低，編排亦顯得較為粗糙。
 
@@ -39,15 +36,14 @@ A-CLUB曾就雜誌內容進行過數次「革新」。
 
 ### 刊登不同的漫畫及小說作品
 
-在著作及版權並不普及的年代，A-CLUB會擅自截取及翻譯部份未在香港發行的日本漫畫及小說作品，作為雜誌的內文。在[文化傳信購入](../Page/文化傳信.md "wikilink")《[龍珠](../Page/七龙珠.md "wikilink")》漫畫版權以前，這是十分常見的現象。
+在著作及版權並不普及的年代，A-CLUB會擅自截取及翻譯部份未在香港發行的日本漫畫及小說作品，作為雜誌的內文。在[文化傳信](../Page/文化傳信.md "wikilink")購入《[龍珠](../Page/七龙珠.md "wikilink")》漫畫版權以前，這是十分常見的現象。
 
 #### 曾被A-CLUB及A-CLUB Special刊登及翻譯過的作品
 
-  - [聖鬥士星矢](https://zh.wikipedia.org/wiki/聖鬥士星矢 "wikilink")《星雲鎖·兄弟之絆》
-    [中文譯本](https://web.archive.org/web/20070214101029/http://saintseiyahk.net/storyfiles/shun_n_ikki.htm)
+  - [聖鬥士星矢](https://zh.wikipedia.org/wiki/聖鬥士星矢 "wikilink")《星雲鎖·兄弟之絆》 [中文譯本](https://web.archive.org/web/20070214101029/http://saintseiyahk.net/storyfiles/shun_n_ikki.htm)
   - 《歡迎光臨鋼彈村—少年ZZ的童年趣事》（小出拓　著）[介紹](https://web.archive.org/web/20060528162042/http://www.books.com.tw/exep/prod/booksfile.php?item=0010136239)
   - [機動戰士高達](../Page/機動戰士GUNDAM.md "wikilink")－馬沙之反擊小說版（[富野由悠季](../Page/富野由悠季.md "wikilink")　著，星野之宣　插畫）
-  - [天空之城小說版](../Page/天空之城.md "wikilink")（[宮崎駿](https://zh.wikipedia.org/wiki/宮崎駿 "wikilink")　原作）
+  - [天空之城](../Page/天空之城.md "wikilink")小說版（[宮崎駿](https://zh.wikipedia.org/wiki/宮崎駿 "wikilink")　原作）
 
 #### 曾出現過的專欄及內容
 
@@ -60,7 +56,7 @@ A-CLUB曾就雜誌內容進行過數次「革新」。
   - 港日聲優（配音員）介紹（聲色藝直播室、優聲聲優）
   - [TRPG](https://zh.wikipedia.org/wiki/TRPG "wikilink")
   - 英國Gameworkshop \~ Epic 4000戰棋
-  - [同人誌快訊](../Page/同人誌.md "wikilink")
+  - [同人誌](../Page/同人誌.md "wikilink")快訊
   - 本港動畫討論廣場（HKTVAR）
   - C.A.S大賞
   - A.S歌與畫
@@ -93,8 +89,7 @@ A-CLUB曾就雜誌內容進行過數次「革新」。
 
 跟日本同類型雜誌不同，A-CLUB並不會聘請不同的外來畫師來繪製封面，歷來的封面美術往往只是由同一人擔當。
 
-八十年代創刊號以手繪高達為封面，由製作部經理李德輝（Terry
-Lee)製作及繪畫。直至八十年代末期A-CLUB封面由談慶傑負責，雜誌內亦會有談慶傑寫的封面專欄（筆名「封面佬」）。談慶傑的畫功並非一流水準，但他的封面作品有著相當強的故事構圖及原創性。因此「封面佬」亦成為當時A-CLUB雜誌的特色之一。封面製作其後由詹國明及梅佬（梅修堯）等人接捧。
+八十年代創刊號以手繪高達為封面，由製作部經理李德輝（Terry Lee)製作及繪畫。直至八十年代末期A-CLUB封面由談慶傑負責，雜誌內亦會有談慶傑寫的封面專欄（筆名「封面佬」）。談慶傑的畫功並非一流水準，但他的封面作品有著相當強的故事構圖及原創性。因此「封面佬」亦成為當時A-CLUB雜誌的特色之一。封面製作其後由詹國明及梅佬（梅修堯）等人接捧。
 
 及至後期，雖然開始有電腦的協助，但由於畫師的技巧問題，A-CLUB封面開始變得拙劣、缺乏風格平平無奇。當時讀者們更戲稱A-CLUB製作的封面比投稿作品業餘味道更重。
 
@@ -114,8 +109,7 @@ Lee)製作及繪畫。直至八十年代末期A-CLUB封面由談慶傑負責，�
 
 ### A-CLUB所翻譯的部份名稱
 
-  - 《[銀河英雄傳說](../Page/銀河英雄傳說.md "wikilink")》的男主角，A-CLUB先翻譯成「恩·永利」。後來[亞洲電視播出將](../Page/亞洲電視.md "wikilink")《銀河英雄傳說》的始譯成「羅坤力」。最後中文小說正式以Yang
-    Wenli譯名是為「楊威利」（楊文里）。
+  - 《[銀河英雄傳說](../Page/銀河英雄傳說.md "wikilink")》的男主角，A-CLUB先翻譯成「恩·永利」。後來[亞洲電視](../Page/亞洲電視.md "wikilink")播出將《銀河英雄傳說》的始譯成「羅坤力」。最後中文小說正式以Yang Wenli譯名是為「楊威利」（楊文里）。
   - 將Bubble Gum Crisis (1987) 裡的Knight Sabers譯成「戰士飛刀」。
   - A-CLUB將《[龍珠](../Page/七龙珠.md "wikilink")》裡的「撒亞人」（[無線電視譯名](https://zh.wikipedia.org/wiki/無線電視 "wikilink")）譯作「西爾人」；「比達」（[無線電視譯名](https://zh.wikipedia.org/wiki/無線電視 "wikilink")）則譯成「柏西達」。
 
@@ -129,7 +123,7 @@ Lee)製作及繪畫。直至八十年代末期A-CLUB封面由談慶傑負責，�
   - [SD高達](https://zh.wikipedia.org/wiki/SD高達 "wikilink")（1）
   - [SD高達](https://zh.wikipedia.org/wiki/SD高達 "wikilink")（2）
   - [SD高達](https://zh.wikipedia.org/wiki/SD高達 "wikilink")（3）
-  - [幪面超人大圖鑑](../Page/幪面超人.md "wikilink")
+  - [幪面超人](../Page/幪面超人.md "wikilink")大圖鑑
   - [城市獵人特刊](https://zh.wikipedia.org/wiki/城市獵人 "wikilink")
 
 註：以上全部都是由capt.Dk／簡艦長 編集
@@ -151,22 +145,15 @@ A-CLUB對當時的讀者有以下影響：
 
   - [四百尺](../Page/四百尺.md "wikilink")
   - [漫畫周刊Facebook專頁群組](https://www.facebook.com/漫畫周刊-138320099549317)
-  - [A
-    CLUB動畫俱樂部Facebook專頁群組](https://www.facebook.com/A-Club動畫俱樂部香港經典動漫雜誌-284539014985007)
+  - [A CLUB動畫俱樂部Facebook專頁群組](https://www.facebook.com/A-Club動畫俱樂部香港經典動漫雜誌-284539014985007)
 
 ## 參考資料
 
   - [A-CLUB 舊專欄「漫畫人生」](http://www.animation-club.com/000001.html)
   - [從A-CLUB沒落到動畫無限氾濫](https://web.archive.org/web/20060428004547/http://www.poppop.net/?name=articledtl&CID=5&ArticleID=334)
-  - [本地動漫雜誌 A-CLUB
-    回顧](https://web.archive.org/web/20060517021920/http://www.huntershobby.com/infotoybook_talk.htm)
+  - [本地動漫雜誌 A-CLUB 回顧](https://web.archive.org/web/20060517021920/http://www.huntershobby.com/infotoybook_talk.htm)
   - [香港著名動漫雜誌《A-CLUB》停刊](https://web.archive.org/web/20051207202650/http://comic.sina.com.cn/j/584.html)
   - [夜骷髏有感](https://web.archive.org/web/20060212093519/http://tc.cabeat.com/cab/0408/040820.htm)
   - [以前香港動漫雜誌有A-CLUB](https://web.archive.org/web/20050426071547/http://www.inmediahk.net/public/article?item_id=25882&group_id=64)
 
-[Category:香港漫畫雜誌](https://zh.wikipedia.org/wiki/Category:香港漫畫雜誌 "wikilink")
-[Category:動畫雜誌](https://zh.wikipedia.org/wiki/Category:動畫雜誌 "wikilink")
-[Category:1986年創辦的雜誌](https://zh.wikipedia.org/wiki/Category:1986年創辦的雜誌 "wikilink")
-[Category:2001年停刊的雜誌](https://zh.wikipedia.org/wiki/Category:2001年停刊的雜誌 "wikilink")
-[Category:1986年香港建立](https://zh.wikipedia.org/wiki/Category:1986年香港建立 "wikilink")
-[Category:2001年香港廢除](https://zh.wikipedia.org/wiki/Category:2001年香港廢除 "wikilink")
+[Category:香港漫畫雜誌](https://zh.wikipedia.org/wiki/Category:香港漫畫雜誌 "wikilink") [Category:動畫雜誌](https://zh.wikipedia.org/wiki/Category:動畫雜誌 "wikilink") [Category:1986年創辦的雜誌](https://zh.wikipedia.org/wiki/Category:1986年創辦的雜誌 "wikilink") [Category:2001年停刊的雜誌](https://zh.wikipedia.org/wiki/Category:2001年停刊的雜誌 "wikilink") [Category:1986年香港建立](https://zh.wikipedia.org/wiki/Category:1986年香港建立 "wikilink") [Category:2001年香港廢除](https://zh.wikipedia.org/wiki/Category:2001年香港廢除 "wikilink")

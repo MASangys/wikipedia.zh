@@ -1,8 +1,4 @@
-**阿尔及尔莫罗迪亚俱乐部**（**MC
-Algiers**,[法语](../Page/法语.md "wikilink")：**Mouloudia Club
-d'Alger**,[阿拉伯语](https://zh.wikipedia.org/wiki/阿拉伯语 "wikilink")：مولودية
-الجزائر）是一家位于[阿尔及利亚首都](https://zh.wikipedia.org/wiki/阿尔及利亚 "wikilink")[阿尔及尔的职业足球俱乐部](https://zh.wikipedia.org/wiki/阿尔及尔 "wikilink")，俱乐部创建于1921年。球队队色为红色和绿色。主体育场为7月5日体育场（Stade
-5 Juillet 1962）。 俱乐部为誉为阿尔及利亚最受欢迎的足球队之一。
+**阿尔及尔莫罗迪亚俱乐部**（**MC Algiers**,[法语](../Page/法语.md "wikilink")：**Mouloudia Club d'Alger**,[阿拉伯语](https://zh.wikipedia.org/wiki/阿拉伯语 "wikilink")：مولودية الجزائر）是一家位于[阿尔及利亚首都](https://zh.wikipedia.org/wiki/阿尔及利亚 "wikilink")[阿尔及尔的职业足球俱乐部](https://zh.wikipedia.org/wiki/阿尔及尔 "wikilink")，俱乐部创建于1921年。球队队色为红色和绿色。主体育场为7月5日体育场（Stade 5 Juillet 1962）。 俱乐部为誉为阿尔及利亚最受欢迎的足球队之一。
 
 ## 球队荣誉
 

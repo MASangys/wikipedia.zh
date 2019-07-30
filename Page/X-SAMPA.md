@@ -1,6 +1,4 @@
-**拓展音标字母评估法**（）是[SAMPA的一種變體](../Page/SAMPA.md "wikilink")，最先於1995年由[倫敦大學的語言學教授](../Page/倫敦大學.md "wikilink")[約翰·克利斯多佛·威爾斯](https://zh.wikipedia.org/wiki/約翰·克利斯多佛·威爾斯 "wikilink")（John
-C.
-Wells）提出。X-SAMPA是為了統一各種SAMPA字母表而產生的，並且擴展至包含所有[國際音標符號](../Page/國際音標.md "wikilink")，能夠把所有音標轉寫成七位元的[ASCII碼](../Page/ASCII.md "wikilink")。
+**拓展音标字母评估法**（）是[SAMPA](../Page/SAMPA.md "wikilink")的一種變體，最先於1995年由[倫敦大學](../Page/倫敦大學.md "wikilink")的語言學教授[約翰·克利斯多佛·威爾斯](https://zh.wikipedia.org/wiki/約翰·克利斯多佛·威爾斯 "wikilink")（John C. Wells）提出。X-SAMPA是為了統一各種SAMPA字母表而產生的，並且擴展至包含所有[國際音標](../Page/國際音標.md "wikilink")符號，能夠把所有音標轉寫成七位元的[ASCII](../Page/ASCII.md "wikilink")碼。
 
 ## 概要
 
@@ -44,7 +42,7 @@ Wells）提出。X-SAMPA是為了統一各種SAMPA字母表而產生的，並且
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Xsampa-b_lessthan.png" title="fig:File:Xsampa-b lessthan.png"><a href="File:Xsampa-b">File:Xsampa-b</a> lessthan.png</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/濁雙唇內爆音" title="wikilink">濁雙唇內爆音</a></p></td>
-<td><p><a href="../Page/信德语.md" title="wikilink">信德语的</a> [<code>b_&lt;arU</code>]</p></td>
+<td><p><a href="../Page/信德语.md" title="wikilink">信德语</a>的 [<code>b_&lt;arU</code>]</p></td>
 </tr>
 <tr class="even">
 <td><p><code>c</code></p></td>
@@ -65,21 +63,21 @@ Wells）提出。X-SAMPA是為了統一各種SAMPA字母表而產生的，並且
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Xsampa-d&#39;.png" title="fig:File:Xsampa-d&#39;.png"><a href="File:Xsampa-d">File:Xsampa-d</a>'.png</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/濁卷舌塞音" title="wikilink">濁卷舌塞音</a></p></td>
-<td><p><a href="../Page/瑞典語.md" title="wikilink">瑞典語的ho</a><strong>rd</strong> [<code>hu:d`</code>]</p></td>
+<td><p><a href="../Page/瑞典語.md" title="wikilink">瑞典語</a>的ho<strong>rd</strong> [<code>hu:d`</code>]</p></td>
 </tr>
 <tr class="odd">
 <td><p><code>d_&lt;</code></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Xsampa-d_lessthan.png" title="fig:File:Xsampa-d lessthan.png"><a href="File:Xsampa-d">File:Xsampa-d</a> lessthan.png</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/濁齒齦內爆音" title="wikilink">濁齒齦內爆音</a></p></td>
-<td><p><a href="../Page/信德语.md" title="wikilink">信德语的</a> [<code>g_&lt;@ro</code>]</p></td>
+<td><p><a href="../Page/信德语.md" title="wikilink">信德语</a>的 [<code>g_&lt;@ro</code>]</p></td>
 </tr>
 <tr class="even">
 <td><p><code>e</code></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Xsampa-e.png" title="fig:File:Xsampa-e.png"><a href="File:Xsampa-e.png">File:Xsampa-e.png</a></a></p></td>
 <td><p><a href="../Page/半閉前不圓唇元音.md" title="wikilink">半閉前不圓唇元音</a></p></td>
-<td><p>法語的s<strong>e</strong>s [<code>se</code>],英語的m<strong>e</strong>t [<code>met</code>]（<a href="../Page/澳大利亚英语.md" title="wikilink">澳大利亚英语與</a> <a href="https://zh.wikipedia.org/wiki/新西兰英语" title="wikilink">新西兰英语</a>）</p></td>
+<td><p>法語的s<strong>e</strong>s [<code>se</code>],英語的m<strong>e</strong>t [<code>met</code>]（<a href="../Page/澳大利亚英语.md" title="wikilink">澳大利亚英语</a>與 <a href="https://zh.wikipedia.org/wiki/新西兰英语" title="wikilink">新西兰英语</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p><code>f</code></p></td>
@@ -100,7 +98,7 @@ Wells）提出。X-SAMPA是為了統一各種SAMPA字母表而產生的，並且
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Xsampa-g_lessthan.png" title="fig:File:Xsampa-g lessthan.png"><a href="File:Xsampa-g">File:Xsampa-g</a> lessthan.png</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/濁軟顎內爆音" title="wikilink">濁軟顎內爆音</a></p></td>
-<td><p><a href="../Page/信德语.md" title="wikilink">信德语的</a> [<code>g_&lt;@ro</code>]</p></td>
+<td><p><a href="../Page/信德语.md" title="wikilink">信德语</a>的 [<code>g_&lt;@ro</code>]</p></td>
 </tr>
 <tr class="even">
 <td><p><code>h</code></p></td>
@@ -114,7 +112,7 @@ Wells）提出。X-SAMPA是為了統一各種SAMPA字母表而產生的，並且
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Xsampa-hslash.png" title="fig:File:Xsampa-hslash.png"><a href="File:Xsampa-hslash.png">File:Xsampa-hslash.png</a></a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/濁喉擦音" title="wikilink">濁喉擦音</a></p></td>
-<td><p><a href="../Page/捷克语.md" title="wikilink">捷克语的hrad</a> [<code>h\rat</code>]</p></td>
+<td><p><a href="../Page/捷克语.md" title="wikilink">捷克语</a>的hrad [<code>h\rat</code>]</p></td>
 </tr>
 <tr class="even">
 <td><p><code>i</code></p></td>
@@ -184,7 +182,7 @@ Wells）提出。X-SAMPA是為了統一各種SAMPA字母表而產生的，並且
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Xsampa-n&#39;.png" title="fig:File:Xsampa-n&#39;.png"><a href="File:Xsampa-n">File:Xsampa-n</a>'.png</a></p></td>
 <td><p><a href="../Page/捲舌鼻音.md" title="wikilink">捲舌鼻音</a></p></td>
-<td><p><a href="../Page/瑞典語.md" title="wikilink">瑞典語的hö</a><strong>rn</strong> [<code>h2:n`</code>]</p></td>
+<td><p><a href="../Page/瑞典語.md" title="wikilink">瑞典語</a>的hö<strong>rn</strong> [<code>h2:n`</code>]</p></td>
 </tr>
 <tr class="even">
 <td><p><code>o</code></p></td>
@@ -240,7 +238,7 @@ Wells）提出。X-SAMPA是為了統一各種SAMPA字母表而產生的，並且
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Xsampa-rslash&#39;.png" title="fig:File:Xsampa-rslash&#39;.png"><a href="File:Xsampa-rslash">File:Xsampa-rslash</a>'.png</a></p></td>
 <td><p><a href="../Page/捲舌近音.md" title="wikilink">捲舌近音</a></p></td>
-<td><p><a href="../Page/马拉雅拉姆语.md" title="wikilink">马拉雅拉姆语的വഴ</a>ി [<code>"v6r\`i</code>]</p></td>
+<td><p><a href="../Page/马拉雅拉姆语.md" title="wikilink">马拉雅拉姆语</a>的വഴി [<code>"v6r\`i</code>]</p></td>
 </tr>
 <tr class="even">
 <td><p><code>s</code></p></td>
@@ -296,7 +294,7 @@ Wells）提出。X-SAMPA是為了統一各種SAMPA字母表而產生的，並且
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Xsampa-Porvslash.png" title="fig:File:Xsampa-Porvslash.png"><a href="File:Xsampa-Porvslash.png">File:Xsampa-Porvslash.png</a></a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/唇齒近音" title="wikilink">唇齒近音</a></p></td>
-<td><p><a href="../Page/荷蘭語.md" title="wikilink">荷蘭語的</a><strong>w</strong>est [<code>v\Est</code>]／[<code>PEst</code>]</p></td>
+<td><p><a href="../Page/荷蘭語.md" title="wikilink">荷蘭語</a>的<strong>w</strong>est [<code>v\Est</code>]／[<code>PEst</code>]</p></td>
 </tr>
 <tr class="even">
 <td><p><code>w</code></p></td>
@@ -317,7 +315,7 @@ Wells）提出。X-SAMPA是為了統一各種SAMPA字母表而產生的，並且
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Xsampa-xslash2.png" title="fig:File:Xsampa-xslash2.png"><a href="File:Xsampa-xslash2.png">File:Xsampa-xslash2.png</a></a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/清硬軟顎擦音" title="wikilink">清硬軟顎擦音</a></p></td>
-<td><p><a href="../Page/瑞典語.md" title="wikilink">瑞典語的</a><strong>sj</strong>al [<code>x\A:l</code>]</p></td>
+<td><p><a href="../Page/瑞典語.md" title="wikilink">瑞典語</a>的<strong>sj</strong>al [<code>x\A:l</code>]</p></td>
 </tr>
 <tr class="odd">
 <td><p><code>y</code></p></td>
@@ -558,7 +556,7 @@ Wells）提出。X-SAMPA是為了統一各種SAMPA字母表而產生的，並且
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Xsampa-Porvslash.png" title="fig:File:Xsampa-Porvslash.png"><a href="File:Xsampa-Porvslash.png">File:Xsampa-Porvslash.png</a></a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/唇齒近音" title="wikilink">唇齒近音</a></p></td>
-<td><p>荷蘭語的<strong>w</strong>est [<code>PEst</code>]/[<code>v\Est</code>],英語<a href="../Page/音位.md" title="wikilink">音位的</a><a href="../Page/同位異音.md" title="wikilink">同位異音</a><code>/r\/</code></p></td>
+<td><p>荷蘭語的<strong>w</strong>est [<code>PEst</code>]/[<code>v\Est</code>],英語<a href="../Page/音位.md" title="wikilink">音位</a>的<a href="../Page/同位異音.md" title="wikilink">同位異音</a><code>/r\/</code></p></td>
 </tr>
 <tr class="odd">
 <td><p><code>Q</code></p></td>
@@ -707,7 +705,7 @@ Wells）提出。X-SAMPA是為了統一各種SAMPA字母表而產生的，並且
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Xsampa-colonslash.png" title="fig:File:Xsampa-colonslash.png"><a href="File:Xsampa-colonslash.png">File:Xsampa-colonslash.png</a></a></p></td>
 <td><p>半長音</p></td>
-<td><p><a href="../Page/爱沙尼亚语.md" title="wikilink">爱沙尼亚语不同</a>3個<a href="../Page/元音長度.md" title="wikilink">元音長度</a></p></td>
+<td><p><a href="../Page/爱沙尼亚语.md" title="wikilink">爱沙尼亚语</a>不同3個<a href="../Page/元音長度.md" title="wikilink">元音長度</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><code>-</code></p></td>
@@ -1264,7 +1262,7 @@ Wells）提出。X-SAMPA是為了統一各種SAMPA字母表而產生的，並且
 | [邊近音](https://zh.wikipedia.org/wiki/边音 "wikilink")     |
 | [邊閃音](https://zh.wikipedia.org/wiki/边音 "wikilink")     |
 
-  - 劍形符號（†）所標記的這些IPA符號最近都已被加進到[Unicode里](https://zh.wikipedia.org/wiki/Unicode "wikilink")。從2008年4月起，在[唇齒閃音的表示上](../Page/唇齒閃音.md "wikilink")，是由IPA右勾的*v*符號來表示：[Labiodental_flap_(Gentium).svg](https://zh.wikipedia.org/wiki/File:Labiodental_flap_\(Gentium\).svg "fig:Labiodental_flap_(Gentium).svg")。實際上在X-SAMPA里並不存有一個專用的唇齒閃音符號。
+  - 劍形符號（†）所標記的這些IPA符號最近都已被加進到[Unicode里](https://zh.wikipedia.org/wiki/Unicode "wikilink")。從2008年4月起，在[唇齒閃音](../Page/唇齒閃音.md "wikilink")的表示上，是由IPA右勾的*v*符號來表示：[Labiodental_flap_(Gentium).svg](https://zh.wikipedia.org/wiki/File:Labiodental_flap_\(Gentium\).svg "fig:Labiodental_flap_(Gentium).svg")。實際上在X-SAMPA里並不存有一個專用的唇齒閃音符號。
 
 | 協同發音                                                       |
 | ---------------------------------------------------------- |
@@ -1275,18 +1273,18 @@ Wells）提出。X-SAMPA是為了統一各種SAMPA字母表而產生的，並且
 | [z\\](https://zh.wikipedia.org/wiki/濁齒齦硬顎擦音 "wikilink")    |
 | [x\\](https://zh.wikipedia.org/wiki/清硬軟顎擦音 "wikilink")     |
 
-| 擦音與雙發音                                                   |
-| -------------------------------------------------------- |
-| [ts](../Page/清齒齦擦音.md "wikilink")                        |
-| [dz](../Page/濁齒齦擦音.md "wikilink")                        |
-| [tS](https://zh.wikipedia.org/wiki/清後齒齦擦音 "wikilink")    |
-| [dZ](https://zh.wikipedia.org/wiki/濁後齒齦擦音 "wikilink")    |
-| [ts\\](https://zh.wikipedia.org/wiki/清齒齦硬顎擦音 "wikilink") |
-| [dz\\](https://zh.wikipedia.org/wiki/濁齒齦硬顎擦音 "wikilink") |
-| [tK](../Page/清齒齦邊擦音.md "wikilink")                       |
-| [kp](https://zh.wikipedia.org/wiki/清唇軟顎塞音 "wikilink")    |
-| [gb](https://zh.wikipedia.org/wiki/濁唇軟顎塞音 "wikilink")    |
-| [Nm](https://zh.wikipedia.org/wiki/唇軟顎鼻音 "wikilink")     |
+| 塞擦音與                                                    |
+| ------------------------------------------------------- |
+| [ts](../Page/清齒齦塞擦音.md "wikilink")                      |
+| [dz](https://zh.wikipedia.org/wiki/濁齒齦塞擦音 "wikilink")   |
+| [tS](https://zh.wikipedia.org/wiki/清齒齦後塞擦音 "wikilink")  |
+| [dZ](https://zh.wikipedia.org/wiki/濁齒齦後塞擦音 "wikilink")  |
+| [ts\\](../Page/清齦顎塞擦音.md "wikilink")                    |
+| [dz\\](https://zh.wikipedia.org/wiki/濁齦顎塞擦音 "wikilink") |
+| [tK](../Page/清齒齦邊擦音.md "wikilink")                      |
+| [kp](https://zh.wikipedia.org/wiki/清唇軟顎塞音 "wikilink")   |
+| [gb](https://zh.wikipedia.org/wiki/濁唇軟顎塞音 "wikilink")   |
+| [Nm](https://zh.wikipedia.org/wiki/唇軟顎鼻音 "wikilink")    |
 
 | 輔音（非肺音）                                                     |
 | ----------------------------------------------------------- |
@@ -1440,18 +1438,15 @@ Wells）提出。X-SAMPA是為了統一各種SAMPA字母表而產生的，並且
 
   - [國際音標](../Page/國際音標.md "wikilink")（IPA）
   - [英語國際音標列表](https://zh.wikipedia.org/wiki/英語國際音標列表 "wikilink")
-  - [SAMPA是X](../Page/SAMPA.md "wikilink")-SAMPA的前身，帶有不同的語言版本，互不相容
+  - [SAMPA](../Page/SAMPA.md "wikilink")是X-SAMPA的前身，帶有不同的語言版本，互不相容
   - [英語SAMPA表](../Page/英語SAMPA表.md "wikilink")
   - [Kirshenbaum有時也稱作ASCII](https://zh.wikipedia.org/wiki/Kirshenbaum "wikilink")-IPA，是另一種ASCII音標字母
   - [語音學](https://zh.wikipedia.org/wiki/語音學 "wikilink")
 
 ## 外部連結
 
-  - [Computer-coding the IPA: A proposed extension of
-    SAMPA](http://www.phon.ucl.ac.uk/home/sampa/x-sampa.htm)
-  - [X-SAMPA to IPA comparison
-    chart](http://www.conmicro.cx/~kturtle/language/xsamchart.gif)
-  - [Online converter between IPA and
-    X-Sampa](http://www.theiling.de/ipa/)
+  - [Computer-coding the IPA: A proposed extension of SAMPA](http://www.phon.ucl.ac.uk/home/sampa/x-sampa.htm)
+  - [X-SAMPA to IPA comparison chart](http://www.conmicro.cx/~kturtle/language/xsamchart.gif)
+  - [Online converter between IPA and X-Sampa](http://www.theiling.de/ipa/)
 
 [Category:音標](https://zh.wikipedia.org/wiki/Category:音標 "wikilink")

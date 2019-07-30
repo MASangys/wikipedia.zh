@@ -1,24 +1,18 @@
-****是[任天堂公司所推出的](../Page/任天堂.md "wikilink")[家用遊戲主機](https://zh.wikipedia.org/wiki/遊戲機 "wikilink")，Wii開發時的代號為
-「**R**e**v**o**l**ution」（革命），表示「電視遊戲的**革命**」。Wii
-本體和周邊製品型號的開頭均為「RVL」。任天堂於2006年4月28日\[1\]在其官方網站宣佈了正式名稱，2006年11月19日正式發售。Wii的創新體感玩法、可購買下載遊戲軟體、生活資訊內容、網路的功能等均為Wii的主要特色。
+****是[任天堂](../Page/任天堂.md "wikilink")公司所推出的[家用遊戲主機](https://zh.wikipedia.org/wiki/遊戲機 "wikilink")，Wii開發時的代號為 「**R**e**v**o**l**ution」（革命），表示「電視遊戲的**革命**」。Wii 本體和周邊製品型號的開頭均為「RVL」。任天堂於2006年4月28日\[1\]在其官方網站宣佈了正式名稱，2006年11月19日正式發售。Wii的創新體感玩法、可購買下載遊戲軟體、生活資訊內容、網路的功能等均為Wii的主要特色。
 
 『Wii』發音聽起來像是『we』（我們），強調該主機『老少咸宜』、能讓全家大小都樂在其中的概念。名稱中的「ii」不僅象徵着其獨特設計的控制器，也代表人們聚在一起同樂的形象。
 
 Wii 在全球累计销量為1億163萬台，軟體銷售數字則為9億1907萬套。\[2\]
 
-下一代的主机[Wii
-U在](../Page/Wii_U.md "wikilink")2012年11月18日於美國發售。而提供下載遊戲軟體的[Wii商店頻道](https://zh.wikipedia.org/wiki/Wii商店頻道 "wikilink")（Wii
-Shop Channel）在2019年1月31日正式關閉。
+下一代的主机[Wii U在](../Page/Wii_U.md "wikilink")2012年11月18日於美國發售。而提供下載遊戲軟體的[Wii商店頻道](https://zh.wikipedia.org/wiki/Wii商店頻道 "wikilink")（Wii Shop Channel）在2019年1月31日正式關閉。
 
 ## 歷史
 
 這部主機在2001年[GAMECUBE推出後就已經開始構想](https://zh.wikipedia.org/wiki/GAMECUBE "wikilink")。任天堂遊戲設計師[宮本茂在一篇專訪中表示](https://zh.wikipedia.org/wiki/宮本茂 "wikilink")，當時是將計畫重點放在遊戲機和玩者之間嶄新的互動方式上。「當時的共識認為硬體能力並不是遊戲機的全部。市場上無法同時讓太多高性能的主機共存。就像地球上若是只有兇猛的肉食性恐龍，牠們可能會自相殘殺，最後導致自身的滅絕。」\[3\]
 
-兩年後，任天堂召集了多位[遊戲引擎工程師和](https://zh.wikipedia.org/wiki/遊戲引擎 "wikilink")[設計師根據這份概念進行開發](https://zh.wikipedia.org/wiki/遊戲設計師 "wikilink")。到了2005年，控制器的界面設計已經成形，但卻未能在當年的[E3展覽上公開](https://zh.wikipedia.org/wiki/E3 "wikilink")。宮本表示「我們還有一些障礙需要排除。因此我們決定暫時不公開控制器的細節，而改為只進行主機本身的展示。」\[4\]任天堂社長[岩田聰隨後在](../Page/岩田聰.md "wikilink")9月的[東京電玩展上公開了控制器](https://zh.wikipedia.org/wiki/東京電玩展 "wikilink")[Wii
-Remote](https://zh.wikipedia.org/wiki/Wii_Remote "wikilink")，並進行了一段示範。
+兩年後，任天堂召集了多位[遊戲引擎工程師和](https://zh.wikipedia.org/wiki/遊戲引擎 "wikilink")[設計師根據這份概念進行開發](https://zh.wikipedia.org/wiki/遊戲設計師 "wikilink")。到了2005年，控制器的界面設計已經成形，但卻未能在當年的[E3展覽上公開](https://zh.wikipedia.org/wiki/E3 "wikilink")。宮本表示「我們還有一些障礙需要排除。因此我們決定暫時不公開控制器的細節，而改為只進行主機本身的展示。」\[4\]任天堂社長[岩田聰](../Page/岩田聰.md "wikilink")隨後在9月的[東京電玩展上公開了控制器](https://zh.wikipedia.org/wiki/東京電玩展 "wikilink")[Wii Remote](https://zh.wikipedia.org/wiki/Wii_Remote "wikilink")，並進行了一段示範。
 
-[Nintendo
-DS也影響了Wii的設計](https://zh.wikipedia.org/wiki/Nintendo_DS "wikilink")。任天堂的設計師[蘆田健一郎提到](https://zh.wikipedia.org/wiki/蘆田健一郎 "wikilink")：「在開發Wii的時候，我們一直想著DS。我們曾經想過要直接沿用DS的觸控界面，甚至還做出了原型。」而這個提案最後並沒有被採用，因為這樣一來兩部主機會太過相似。宮本也表示「如果DS徹底失敗的話，Wii的開發計畫可能會停止並重新檢討。」\[5\]
+[Nintendo DS也影響了Wii的設計](https://zh.wikipedia.org/wiki/Nintendo_DS "wikilink")。任天堂的設計師[蘆田健一郎提到](https://zh.wikipedia.org/wiki/蘆田健一郎 "wikilink")：「在開發Wii的時候，我們一直想著DS。我們曾經想過要直接沿用DS的觸控界面，甚至還做出了原型。」而這個提案最後並沒有被採用，因為這樣一來兩部主機會太過相似。宮本也表示「如果DS徹底失敗的話，Wii的開發計畫可能會停止並重新檢討。」\[5\]
 
 ### 上市發行
 
@@ -26,7 +20,7 @@ DS也影響了Wii的設計](https://zh.wikipedia.org/wiki/Nintendo_DS "wikilink"
 
 在2006年9月14日，任天堂宣佈了在日本、[北美](../Page/北美洲.md "wikilink")、[南美](../Page/南美洲.md "wikilink")、[澳大拉西亞](../Page/澳大拉西亞.md "wikilink")（大洋洲）、的上市資訊、[亞洲和](https://zh.wikipedia.org/wiki/亞洲 "wikilink")[歐洲地區的上市資訊](https://zh.wikipedia.org/wiki/歐洲 "wikilink")，包括日程、售價及出貨數量。在一場稍早舉行的政策簡報中，任天堂計畫在2007年3月31日[會計年度結束前釋出六百萬部主機和一千七百萬片遊戲軟體](https://zh.wikipedia.org/wiki/會計年度 "wikilink")\[6\]。其中包含了預期在[2006年度內出貨的四百萬部主機](../Page/以星期天开始的平年.md "wikilink")\[7\]。任天堂表示2006年內的出貨數量主要是針對美國市場\[8\]，而2006年內也將會推出33款遊戲作品\[9\]。根據媒體報導，Wii在2006年12月8日於[英國上市時發生嚴重的缺貨問題](https://zh.wikipedia.org/wiki/英國 "wikilink")，許多實體和網路商店甚至無法滿足預購玩者的需求量\[10\]。截至2007年3月，部份英國的商店仍然面臨Wii主機缺貨的困境\[11\]，而在2007年6月之際，Wii在[美國依然是供不應求的狀況](https://zh.wikipedia.org/wiki/美國 "wikilink")\[12\]。
 
-亞洲方面（除日本外），香港是首先出現Wii遊戲機發售的地區，於2007年已經開始發售，但唯獨一直只是從日本原廠引進，到了2009年12月12日才正式推出香港版本的Wii。此外，任天堂宣佈Wii[南韓於](https://zh.wikipedia.org/wiki/南韓 "wikilink")2008年4月26日上市\[13\]。[台灣則於](https://zh.wikipedia.org/wiki/台灣 "wikilink")2008年7月12日發售，惟仍採用日文介面，居住地區可選擇台灣各縣市，分區與日本相同，版本號亦同\[14\]。在中国大陆，原定由任天堂的合作伙伴[神游科技发行](../Page/神游科技.md "wikilink")“神游Wii”\[15\]，但最后因不明原因流產，内部消息称神游Wii未能通过審批\[16\]。据称，由于时值中国政府[大部制改革](../Page/国务院机构改革.md "wikilink")，各部门产生利益分配争议，文化产业审批收紧，最终导致Wii无法在中国发售，而神游科技的准备成果最终转化为港台版Wii。\[17\]
+亞洲方面（除日本外），香港是首先出現Wii遊戲機發售的地區，於2007年已經開始發售，但唯獨一直只是從日本原廠引進，到了2009年12月12日才正式推出香港版本的Wii。此外，任天堂宣佈Wii[南韓於](https://zh.wikipedia.org/wiki/南韓 "wikilink")2008年4月26日上市\[13\]。[台灣則於](https://zh.wikipedia.org/wiki/台灣 "wikilink")2008年7月12日發售，惟仍採用日文介面，居住地區可選擇台灣各縣市，分區與日本相同，版本號亦同\[14\]。在中国大陆，原定由任天堂的合作伙伴[神游科技](../Page/神游科技.md "wikilink")发行“神游Wii”\[15\]，但最后因不明原因流產，内部消息称神游Wii未能通过審批\[16\]。据称，由于时值中国政府[大部制改革](../Page/国务院机构改革.md "wikilink")，各部门产生利益分配争议，文化产业审批收紧，最终导致Wii无法在中国发售，而神游科技的准备成果最终转化为港台版Wii。\[17\]
 
 随着[游戏机第七世代落幕](https://zh.wikipedia.org/wiki/遊戲機歷史_\(第七世代\) "wikilink")，Wii也在日本地區於2013年3月30日停止銷售，並在同年10月22日正式停產。
 
@@ -38,8 +32,7 @@ DS也影響了Wii的設計](https://zh.wikipedia.org/wiki/Nintendo_DS "wikilink"
 
   - [任天堂](../Page/任天堂.md "wikilink")
       - [Wii Sports](../Page/Wii_Sports.md "wikilink")
-      - [Wii第一次接觸](https://zh.wikipedia.org/wiki/Wii第一次接觸 "wikilink")（包裝內含一支
-        Wii遙控器）
+      - [Wii第一次接觸](https://zh.wikipedia.org/wiki/Wii第一次接觸 "wikilink")（包裝內含一支 Wii遙控器）
       - [薩爾達傳說 黃昏公主](../Page/薩爾達傳說_黃昏公主.md "wikilink")
       - [舞動壞利歐工坊](../Page/舞動壞利歐工坊.md "wikilink")
   - [ATLUS](https://zh.wikipedia.org/wiki/ATLUS "wikilink")
@@ -53,8 +46,7 @@ DS也影響了Wii的設計](https://zh.wikipedia.org/wiki/Nintendo_DS "wikilink"
 
 <!-- end list -->
 
-  - [TECMO](https://zh.wikipedia.org/wiki/TECMO "wikilink")、[Ntreev
-    Soft](https://zh.wikipedia.org/wiki/Ntreev_Soft "wikilink")
+  - [TECMO](https://zh.wikipedia.org/wiki/TECMO "wikilink")、[Ntreev Soft](https://zh.wikipedia.org/wiki/Ntreev_Soft "wikilink")
       - [魔法飛球](https://zh.wikipedia.org/wiki/魔法飛球 "wikilink")
   - [HUDSON](../Page/Hudson_Soft.md "wikilink")
       - 飛翼之島
@@ -64,11 +56,9 @@ DS也影響了Wii的設計](https://zh.wikipedia.org/wiki/Nintendo_DS "wikilink"
       - 祭典遊戲高手
       - [電子雞](https://zh.wikipedia.org/wiki/電子雞 "wikilink") 閃亮大統領
   - [BANPRESTO](https://zh.wikipedia.org/wiki/BANPRESTO "wikilink")
-      - [蠟筆小新](https://zh.wikipedia.org/wiki/蠟筆小新 "wikilink") 最強家族春日部王
-        Wii～
+      - [蠟筆小新](https://zh.wikipedia.org/wiki/蠟筆小新 "wikilink") 最強家族春日部王 Wii～
   - [育碧软件](https://zh.wikipedia.org/wiki/育碧软件 "wikilink")
-      - [赤鋼鐵](https://zh.wikipedia.org/wiki/赤鋼鐵 "wikilink")（レッドスティール／*Red
-        Steel*）
+      - [赤鋼鐵](https://zh.wikipedia.org/wiki/赤鋼鐵 "wikilink")（レッドスティール／*Red Steel*）
 
 ## 概要
 
@@ -78,11 +68,9 @@ DS也影響了Wii的設計](https://zh.wikipedia.org/wiki/Nintendo_DS "wikilink"
 
 Wii主機的機體在2006年上市时是自任天堂製造電視遊戲機以來最小的（现体积最小的主机为[任天堂Switch](../Page/任天堂Switch.md "wikilink")），大約僅有三個DVD外盒排放在一起時的大小，可水平或直立擺放，包裝內包含直立專用的擺放架。
 
-遊戲機所使用的[CPU及](https://zh.wikipedia.org/wiki/CPU "wikilink")[GPU由](https://zh.wikipedia.org/wiki/GPU "wikilink")[IBM](../Page/IBM.md "wikilink")、[ATI共同開發](https://zh.wikipedia.org/wiki/ATI "wikilink")，主記憶體採用1T-SRAM。使用12公分（cm）的Wii遊戲光碟（單層／雙層），及8公分的[GameCube遊戲光碟](https://zh.wikipedia.org/wiki/GameCube "wikilink")。資料保存的部分，內建512MB的快閃記憶體，故遊戲的存檔資料、從網路服務「Wii
-Connect 24」所下載的資料及Virtual Console（虛擬遊戲平臺）軟體均能保存於此。另外可利用外接 SD 記憶卡的方式擴充容量。
+遊戲機所使用的[CPU及](https://zh.wikipedia.org/wiki/CPU "wikilink")[GPU由](https://zh.wikipedia.org/wiki/GPU "wikilink")[IBM](../Page/IBM.md "wikilink")、[ATI共同開發](https://zh.wikipedia.org/wiki/ATI "wikilink")，主記憶體採用1T-SRAM。使用12公分（cm）的Wii遊戲光碟（單層／雙層），及8公分的[GameCube遊戲光碟](https://zh.wikipedia.org/wiki/GameCube "wikilink")。資料保存的部分，內建512MB的快閃記憶體，故遊戲的存檔資料、從網路服務「Wii Connect 24」所下載的資料及Virtual Console（虛擬遊戲平臺）軟體均能保存於此。另外可利用外接 SD 記憶卡的方式擴充容量。
 
-儘管美國、日本、歐洲等地的發售日有所差異，不過銷售突破2000萬部僅花了60週的時間，相較之前的GameBoy
-Advance（75週）、Nintendo DS（約80週）及PlayStation 2（約95週）是歷來最快速的。
+儘管美國、日本、歐洲等地的發售日有所差異，不過銷售突破2000萬部僅花了60週的時間，相較之前的GameBoy Advance（75週）、Nintendo DS（約80週）及PlayStation 2（約95週）是歷來最快速的。
 
 ### Wii控制器
 
@@ -134,18 +122,15 @@ Advance（75週）、Nintendo DS（約80週）及PlayStation 2（約95週）是�
 ### Nintendo GameCube
 
   - Wii相容大部分GameCube的遊戲軟體和周邊(如：手把、記憶卡、遊戲光碟、麥克風、方向盤)。
-      - 少數的網路遊戲(如《夢幻之星Online 一章&二章》、《夢幻之星Online 一章&二章PLUS》、《夢幻之星Online
-        三章卡片革命》、《Home Land》)，則只能進行離線模式。
-      - 非官方的軟體[GC專用的](https://zh.wikipedia.org/wiki/GameCube "wikilink")《Pro
-        Action Replay》也無法讀取使用。
+      - 少數的網路遊戲(如《夢幻之星Online 一章&二章》、《夢幻之星Online 一章&二章PLUS》、《夢幻之星Online 三章卡片革命》、《Home Land》)，則只能進行離線模式。
+      - 非官方的軟體[GC專用的](https://zh.wikipedia.org/wiki/GameCube "wikilink")《Pro Action Replay》也無法讀取使用。
       - 後續版本（橫置版和Wii Mini）不支援向後相容所有的GameCube硬件
   - 用Wii來玩[GameCube的遊戲軟體時](https://zh.wikipedia.org/wiki/GameCube "wikilink")，需使用[GameCube的專屬控制器](https://zh.wikipedia.org/wiki/GameCube "wikilink")，無法使用Wii的[Wii遙控器](../Page/Wii遙控器.md "wikilink")、雙節棍控制器、Wii傳統控制器。
       - [GC的記憶存檔](https://zh.wikipedia.org/wiki/GameCube "wikilink")，也必須儲存於[GameCube的記憶卡](https://zh.wikipedia.org/wiki/GameCube "wikilink")，無法直接使用Wii主機的快閃記憶體。
 
 ### 與 Nintendo DS 的連動
 
-以點對點的連線技術（任天堂的專屬通訊協定）與[Nintendo
-DS無線通訊](https://zh.wikipedia.org/wiki/Nintendo_DS "wikilink")，因此支援的軟體可以進行各式各樣的連動，目前已經運用的連動內容如下：
+以點對點的連線技術（任天堂的專屬通訊協定）與[Nintendo DS無線通訊](https://zh.wikipedia.org/wiki/Nintendo_DS "wikilink")，因此支援的軟體可以進行各式各樣的連動，目前已經運用的連動內容如下：
 
   - 將Nintendo DS的遊戲軟體資料提供Wii軟體使用。
   - 利用Nintendo DS的觸控螢幕進行Wii上的遊戲操作。
@@ -159,15 +144,7 @@ DS無線通訊](https://zh.wikipedia.org/wiki/Nintendo_DS "wikilink")，因此�
 
 ### Virtual Console（虛擬遊戲平臺）
 
-虛擬遊戲平台為提供部分的懷舊主機遊戲軟體販賣下載的系統，可以玩到[紅白機](https://zh.wikipedia.org/wiki/FC遊戲機 "wikilink")（簡稱
-FC）、[超級任天堂](../Page/超級任天堂.md "wikilink")（簡稱 SFC）、[Nintendo
-64](https://zh.wikipedia.org/wiki/Nintendo_64 "wikilink")（簡稱 N64）、[Mega
-Drive](../Page/Mega_Drive.md "wikilink")（簡稱
-MD）、[PC-Engine](https://zh.wikipedia.org/wiki/PC-Engine "wikilink")（簡稱
-PCE）、[MSX](../Page/MSX.md "wikilink")、[NEOGEO等數種懷舊主機的部份遊戲軟體](https://zh.wikipedia.org/wiki/NEOGEO "wikilink")。Virtual
-Console的遊戲取得方式是經由網際網路下載，大部分需要付費。目前預定有諸如
-[CAPCOM](https://zh.wikipedia.org/wiki/CAPCOM "wikilink")、[KONAMI](https://zh.wikipedia.org/wiki/KONAMI "wikilink")
-等 24 家軟體公司已決定提供軟體。
+虛擬遊戲平台為提供部分的懷舊主機遊戲軟體販賣下載的系統，可以玩到[紅白機](https://zh.wikipedia.org/wiki/FC遊戲機 "wikilink")（簡稱 FC）、[超級任天堂](../Page/超級任天堂.md "wikilink")（簡稱 SFC）、[Nintendo 64](https://zh.wikipedia.org/wiki/Nintendo_64 "wikilink")（簡稱 N64）、[Mega Drive](../Page/Mega_Drive.md "wikilink")（簡稱 MD）、[PC-Engine](https://zh.wikipedia.org/wiki/PC-Engine "wikilink")（簡稱 PCE）、[MSX](../Page/MSX.md "wikilink")、[NEOGEO等數種懷舊主機的部份遊戲軟體](https://zh.wikipedia.org/wiki/NEOGEO "wikilink")。Virtual Console的遊戲取得方式是經由網際網路下載，大部分需要付費。目前預定有諸如 [CAPCOM](https://zh.wikipedia.org/wiki/CAPCOM "wikilink")、[KONAMI](https://zh.wikipedia.org/wiki/KONAMI "wikilink") 等 24 家軟體公司已決定提供軟體。
 
 ### WiiWare
 
@@ -191,8 +168,7 @@ Wii Channel 為Wii內建及可擴充軟體總稱，以櫥窗式的方格顯示�
   - 照片沖印頻道（日本限定）
   - 占卜頻道
   - Wii之間
-  - [薩爾達傳說：Skyward
-    Sword遊戲bug修復頻道](https://zh.wikipedia.org/wiki/薩爾達傳說：Skyward_Sword "wikilink")
+  - [薩爾達傳說：Skyward Sword遊戲bug修復頻道](https://zh.wikipedia.org/wiki/薩爾達傳說：Skyward_Sword "wikilink")
 
 另外還有遊戲特製頻道，可利用頻道來提供遊戲的服務，目前支援的遊戲有
 
@@ -206,10 +182,7 @@ Wii Channel 為Wii內建及可擴充軟體總稱，以櫥窗式的方格顯示�
 
 WiiConnect24為利用當Wii處於低噪音、低耗電的待機模式時，針對Wii所提供的新網路服務總稱。
 
-當Wii设置為待機模式時，採取消耗電力低於5W且風扇不運轉的方式連線至網際網路，下載來自遊戲廠商的各種最新資料，例如賽車遊戲的新賽道、RPG
-遊戲中的新道具、追加遊戲內容、下載最新遊戲的試玩版本，與已交換 Friend
-Code（朋友碼）的朋友們交換訊息等等，利用使用者休息的時候自動取得最新資料，將資料保存於
-Flash 記憶體中。同時處於待機模式時也可縮短開機的啟動時間。
+當Wii设置為待機模式時，採取消耗電力低於5W且風扇不運轉的方式連線至網際網路，下載來自遊戲廠商的各種最新資料，例如賽車遊戲的新賽道、RPG 遊戲中的新道具、追加遊戲內容、下載最新遊戲的試玩版本，與已交換 Friend Code（朋友碼）的朋友們交換訊息等等，利用使用者休息的時候自動取得最新資料，將資料保存於 Flash 記憶體中。同時處於待機模式時也可縮短開機的啟動時間。
 
 ### Wii 留言板
 
@@ -311,7 +284,7 @@ Nintendo Wi-Fi Connection是由任天堂所推出的網路服務，利用網際�
 
   - 2008年7月23日發佈：
 
-      - 新增照片沖印頻道，[任天堂與](../Page/任天堂.md "wikilink")[Fujifilm合作](https://zh.wikipedia.org/wiki/Fujifilm "wikilink")，可製作購買自己的相片、相簿、名片、寫真集（日本國內限定）
+      - 新增照片沖印頻道，[任天堂](../Page/任天堂.md "wikilink")與[Fujifilm合作](https://zh.wikipedia.org/wiki/Fujifilm "wikilink")，可製作購買自己的相片、相簿、名片、寫真集（日本國內限定）
       - 更新「大家的任天堂頻道」，更新項目包括：
           - 播放的影片將可以暫停與選擇前往影片進度
           - 影片音量大小的調整與播放進度的選擇
@@ -350,10 +323,8 @@ Nintendo Wi-Fi Connection是由任天堂所推出的網路服務，利用網際�
       - [马里奥派对8](https://zh.wikipedia.org/wiki/马里奥派对8 "wikilink")
       - [永恒蔚蓝](https://zh.wikipedia.org/wiki/永恒蔚蓝 "wikilink")
       - [马里奥足球：激情四射](https://zh.wikipedia.org/wiki/马里奥足球：激情四射 "wikilink")
-      - [Wii第一次接觸](https://zh.wikipedia.org/wiki/Wii第一次接觸 "wikilink")（在
-        2007年10月中旬發售，包含 Wii遙控器及其保護套的同捆版）
-      - [Wii Sports](../Page/Wii_Sports.md "wikilink")（在
-        2007年10月中旬之後出貨的版本）
+      - [Wii第一次接觸](https://zh.wikipedia.org/wiki/Wii第一次接觸 "wikilink")（在 2007年10月中旬發售，包含 Wii遙控器及其保護套的同捆版）
+      - [Wii Sports](../Page/Wii_Sports.md "wikilink")（在 2007年10月中旬之後出貨的版本）
   - Ver 3.0J 的更新程式及加入防盜版資料
       - [龙珠Z 电光火石](https://zh.wikipedia.org/wiki/龙珠Z_电光火石 "wikilink")
       - [超级马里奥银河](../Page/超级马里奥银河.md "wikilink")
@@ -379,26 +350,18 @@ Nintendo Wi-Fi Connection是由任天堂所推出的網路服務，利用網際�
 
 **處理器与内存**
 
-  - [CPU](https://zh.wikipedia.org/wiki/CPU "wikilink")：[IBM](../Page/IBM.md "wikilink")
-    "[Broadway](https://zh.wikipedia.org/wiki/Broadway "wikilink")"（研發代號：百老匯），以
-    [PowerPC](../Page/PowerPC.md "wikilink") 750CL
-    為基礎，時脈：729[MHz](https://zh.wikipedia.org/wiki/MHz "wikilink")
+  - [CPU](https://zh.wikipedia.org/wiki/CPU "wikilink")：[IBM](../Page/IBM.md "wikilink") "[Broadway](https://zh.wikipedia.org/wiki/Broadway "wikilink")"（研發代號：百老匯），以 [PowerPC](../Page/PowerPC.md "wikilink") 750CL 為基礎，時脈：729[MHz](https://zh.wikipedia.org/wiki/MHz "wikilink")
       - 製程：90nm SOI CMOS 製程
-  - [GPU](https://zh.wikipedia.org/wiki/GPU "wikilink")：[ATI](https://zh.wikipedia.org/wiki/ATI "wikilink")
-    "Hollywood"（研發代號：好萊塢），時脈243
-    [MHz](https://zh.wikipedia.org/wiki/MHz "wikilink")\[19\]
+  - [GPU](https://zh.wikipedia.org/wiki/GPU "wikilink")：[ATI](https://zh.wikipedia.org/wiki/ATI "wikilink") "Hollywood"（研發代號：好萊塢），時脈243 [MHz](https://zh.wikipedia.org/wiki/MHz "wikilink")\[19\]
       - 架構為具備一般電腦內建繪圖功能的「Vegas」及1T-SRAM晶片「Napa」的雙晶片設計
-      - 貼圖材質記憶體容量：3[MB](https://zh.wikipedia.org/wiki/Megabyte "wikilink")
-        [eDRAM](https://zh.wikipedia.org/wiki/eDRAM "wikilink")
+      - 貼圖材質記憶體容量：3[MB](https://zh.wikipedia.org/wiki/Megabyte "wikilink") [eDRAM](https://zh.wikipedia.org/wiki/eDRAM "wikilink")
       - 製程：90nm DRAM混合搭載CMOS製程
       - 製造：[NEC](https://zh.wikipedia.org/wiki/NEC "wikilink")
       - 畫面顯示
           - 標準輸出解析度[480i](https://zh.wikipedia.org/wiki/480i "wikilink")、[480p](https://zh.wikipedia.org/wiki/480p "wikilink")
           - 對應寬螢幕畫面
           - 對應輸出線材: 色差端子\[20\]，AV端子\[21\], S端子\[22\]，VGA端子\[23\]
-      - 內部主記憶體：Mosys公司製造，24 MB 1T-SRAM。显存：64
-        [MB](https://zh.wikipedia.org/wiki/Megabyte "wikilink")
-        [GDDR3](https://zh.wikipedia.org/wiki/GDDR3 "wikilink")
+      - 內部主記憶體：Mosys公司製造，24 MB 1T-SRAM。显存：64 [MB](https://zh.wikipedia.org/wiki/Megabyte "wikilink") [GDDR3](https://zh.wikipedia.org/wiki/GDDR3 "wikilink")
 
 <!-- end list -->
 
@@ -429,8 +392,7 @@ Nintendo Wi-Fi Connection是由任天堂所推出的網路服務，利用網際�
 
 **控制器**
 
-  - [Wii
-    Remote](https://zh.wikipedia.org/wiki/Wii_Remote "wikilink")（標準控制器，主機包含一組，另外購買為含稅￥3,800日圓）
+  - [Wii Remote](https://zh.wikipedia.org/wiki/Wii_Remote "wikilink")（標準控制器，主機包含一組，另外購買為含稅￥3,800日圓）
       - 尺寸（不包含凸出的部分）
           - 長：148 毫米 寬：36.2 毫米 厚度：30.8 毫米
       - 重量：約 87 公克（含電池）
@@ -463,13 +425,10 @@ Nintendo Wi-Fi Connection是由任天堂所推出的網路服務，利用網際�
 <!-- end list -->
 
   -
-    作為Wii的指標功能，於棒的兩端安裝紅外線LED，紅外線發光後讓Wii遙控器所內建的 CMOS
-    感應器攝影捕捉後取得與電視的距離、遙控器的姿勢資料等移動資訊。最大的辨識距離為五公尺，建議使用的距離為1～3公尺。
+    作為Wii的指標功能，於棒的兩端安裝紅外線LED，紅外線發光後讓Wii遙控器所內建的 CMOS 感應器攝影捕捉後取得與電視的距離、遙控器的姿勢資料等移動資訊。最大的辨識距離為五公尺，建議使用的距離為1～3公尺。
     與Wii本體以纜線連接，放置於顯示器的上或下方。
 
-[Broadwaycpu.JPG](https://zh.wikipedia.org/wiki/File:Broadwaycpu.JPG "fig:Broadwaycpu.JPG")
-[Hollywood_gpu.png](https://zh.wikipedia.org/wiki/File:Hollywood_gpu.png "fig:Hollywood_gpu.png")
-**光碟機**
+[Broadwaycpu.JPG](https://zh.wikipedia.org/wiki/File:Broadwaycpu.JPG "fig:Broadwaycpu.JPG") [Hollywood_gpu.png](https://zh.wikipedia.org/wiki/File:Hollywood_gpu.png "fig:Hollywood_gpu.png") **光碟機**
 
   - 對應媒體
       - Wii 專用的12公分光碟片（單層／雙層碟片）
@@ -478,17 +437,14 @@ Nintendo Wi-Fi Connection是由任天堂所推出的網路服務，利用網際�
 
 **網路**
 
-  - 無線網路
-    （[Broadcom產品](https://zh.wikipedia.org/wiki/Broadcom "wikilink")）
+  - 無線網路 （[Broadcom產品](https://zh.wikipedia.org/wiki/Broadcom "wikilink")）
       - 對應規格：
-          - [IEEE 802.11 B/G](../Page/IEEE_802.11.md "wikilink")
-            [Wi-Fi](../Page/Wi-Fi.md "wikilink")、
+          - [IEEE 802.11 B/G](../Page/IEEE_802.11.md "wikilink") [Wi-Fi](../Page/Wi-Fi.md "wikilink")、
           - 對應 WEP、WPA (AES/TKIP) 、WPA2 (AES) 加密
           - 任天堂的自訂通訊協定（做為與 Nintendo DS 通訊連線用）
   - 有線網路：需另購網路介面卡。
   - 對應服務：Nintendo Wi-Fi Connection、WiiConnect24
-  - 可從「Wii
-    購物頻道」免費下載[Opera](https://zh.wikipedia.org/wiki/Opera設備瀏覽器#Wii_Internet_Channel "wikilink")[瀏覽器](https://zh.wikipedia.org/wiki/瀏覽器 "wikilink")。
+  - 可從「Wii 購物頻道」免費下載[Opera](https://zh.wikipedia.org/wiki/Opera設備瀏覽器#Wii_Internet_Channel "wikilink")[瀏覽器](https://zh.wikipedia.org/wiki/瀏覽器 "wikilink")。
 
 **聲音**
 
@@ -504,19 +460,16 @@ Nintendo Wi-Fi Connection是由任天堂所推出的網路服務，利用網際�
   -
 
       -
-        GameCube大部分遊戲軟體可於 Wii
-        上執行。需另外購買GameCube用的手柄才能運行GameCube的遊戲軟體。控制器介面及記憶卡插槽均能沿用先前的GameCube周邊商品。
+        GameCube大部分遊戲軟體可於 Wii 上執行。需另外購買GameCube用的手柄才能運行GameCube的遊戲軟體。控制器介面及記憶卡插槽均能沿用先前的GameCube周邊商品。
 
 **Virtual Console 提供的遊戲平台** 透過Virtual Console購入遊戲軟體（僅限部分軟體）
 
   - [FC](https://zh.wikipedia.org/wiki/FC游戏机 "wikilink")
   - [SFC](https://zh.wikipedia.org/wiki/SFC "wikilink")
   - [Nintendo 64](https://zh.wikipedia.org/wiki/Nintendo_64 "wikilink")
-  - [Mega
-    Drive](../Page/Mega_Drive.md "wikilink")（[SEGA](https://zh.wikipedia.org/wiki/SEGA "wikilink")）
+  - [Mega Drive](../Page/Mega_Drive.md "wikilink")（[SEGA](https://zh.wikipedia.org/wiki/SEGA "wikilink")）
   - [PC-Engine](https://zh.wikipedia.org/wiki/PC-Engine "wikilink")（[NEC家庭電器](https://zh.wikipedia.org/wiki/NEC "wikilink")／[HUDSON](../Page/Hudson_Soft.md "wikilink")）
-  - [NEOGEO](https://zh.wikipedia.org/wiki/NEOGEO "wikilink")（SNK
-    PLAYMORE、D4 Enterprise）
+  - [NEOGEO](https://zh.wikipedia.org/wiki/NEOGEO "wikilink")（SNK PLAYMORE、D4 Enterprise）
   - [MSX](../Page/MSX.md "wikilink")（D4 Enterprise）
 
 **其他功能**
@@ -527,9 +480,7 @@ Nintendo Wi-Fi Connection是由任天堂所推出的網路服務，利用網際�
           - [ESRB](https://zh.wikipedia.org/wiki/ESRB "wikilink")：EC、E、E10+、T、M、AO
           - [CERO](https://zh.wikipedia.org/wiki/CERO "wikilink")：A（全年齡）、B（12+）、C（15+）、D（17+）、Z（18+）
           - [OFLC](https://zh.wikipedia.org/wiki/OFLC "wikilink")：G、PG、M、MA15+
-  - 可下載 [Nintendo
-    DS](https://zh.wikipedia.org/wiki/Nintendo_DS "wikilink")
-    遊戲的試玩版\[25\]
+  - 可下載 [Nintendo DS](https://zh.wikipedia.org/wiki/Nintendo_DS "wikilink") 遊戲的試玩版\[25\]
   - 風扇：有
       - 消耗電力
           - 遊戲執行時：低於 50W
@@ -623,7 +574,7 @@ Nintendo Wi-Fi Connection是由任天堂所推出的網路服務，利用網際�
 </tr>
 <tr class="even">
 <td><p>RVL-009</p></td>
-<td><p><a href="../Page/AV端子.md" title="wikilink">AV端子纜線</a></p></td>
+<td><p><a href="../Page/AV端子.md" title="wikilink">AV端子</a>纜線</p></td>
 <td><p>輸出聲音及畫面的纜線。端子為黃、白、紅的立體聲類型。<br />
 Wii主機套裝已包含一組。</p></td>
 <td><p>￥1,000</p></td>
@@ -636,14 +587,14 @@ Wii主機套裝已包含一組。</p></td>
 </tr>
 <tr class="even">
 <td><p>RVL-011</p></td>
-<td><p><a href="../Page/色差端子.md" title="wikilink">色差端子AV纜線</a></p></td>
+<td><p><a href="../Page/色差端子.md" title="wikilink">色差端子</a>AV纜線</p></td>
 <td><p>輸出聲音及畫面的纜線。對應倍頻畫面輸出。<br />
 電視須有色差輸入端子才能夠使用。</p></td>
 <td><p>￥2,500</p></td>
 </tr>
 <tr class="odd">
 <td><p>RVL-012</p></td>
-<td><p><a href="../Page/D端子.md" title="wikilink">D端子AV纜線</a></p></td>
+<td><p><a href="../Page/D端子.md" title="wikilink">D端子</a>AV纜線</p></td>
 <td><p>輸出聲音及畫面的纜線。對應倍頻畫面輸出。<br />
 電視須有D端子才能夠使用。</p></td>
 <td><p>￥2,500</p></td>
@@ -780,13 +731,11 @@ Wii 控制器</p></td>
 
 新增
 
-1.傳統控制器Pro（專業版），與《魔物獵人3》和黑色版Wii本體同捆發售，也和《魔物獵人3》軟體同捆發售，有黑白兩色可選。
-2.黑色Wii主機，與2009年8月1日與《魔物獵人3》和黑色傳統控制器Pro同捆發售，定價與白色版相同。（目前僅在日本地區）
+1.傳統控制器Pro（專業版），與《魔物獵人3》和黑色版Wii本體同捆發售，也和《魔物獵人3》軟體同捆發售，有黑白兩色可選。 2.黑色Wii主機，與2009年8月1日與《魔物獵人3》和黑色傳統控制器Pro同捆發售，定價與白色版相同。（目前僅在日本地區）
 
 ## 參見
 
-  - [Nintendo
-    GameCube](https://zh.wikipedia.org/wiki/Nintendo_GameCube "wikilink")
+  - [Nintendo GameCube](https://zh.wikipedia.org/wiki/Nintendo_GameCube "wikilink")
   - [Nintendo DS](https://zh.wikipedia.org/wiki/Nintendo_DS "wikilink")
   - [Vii](../Page/Vii.md "wikilink")
   - [CyWee Z](https://zh.wikipedia.org/wiki/CyWee_Z "wikilink")
@@ -796,27 +745,17 @@ Wii 控制器</p></td>
 
 ## 外部連結
 
-  - [Wii.com](http://wii.com/) 任天堂 Wii 官方網站
+  - [Wii.com](http://wii.com/) 國際任天堂 Wii 官方網站
 
-  - [任天堂 Wii](http://www.nintendo.co.jp/wii/) 日本任天堂 Wii 官方網站
+  - [任天堂 Wii](https://www.nintendo.com.hk/wii/wii_index.htm) 香港任天堂 Wii 官方網站
 
-  - [Wii at Nintendo](http://www.nintendo.com/wii) 美國任天堂 Wii 官方網站
+  - [任天堂 Wii](https://www.nintendo.tw/wii/wii_index.htm) 台灣任天堂 Wii 官方網站
 
-  - [Ｗｉｉ](http://www.nintendo.com.hk/wii_index.htm) 香港任天堂 Wii 官方網站
+  - [ニンテンドー Wii](http://www.nintendo.co.jp/wii/) 日本任天堂 Wii 官方網站
 
-  - [香港任天堂網站](http://www.nintendo.com.hk) 香港任 天堂 Wii 官方網站
+  - [닌텐도 Wii](http://www.nintendo.co.kr/Wii/) 韓國天堂 Wii 官方網站
 
-  - [台灣任天堂網站](http://www.nintendo.tw/wii_index.htm) 台灣任天堂 Wii 官方網站
-
-[Category:Wii](https://zh.wikipedia.org/wiki/Category:Wii "wikilink")
-[Category:2006年面世的產品](https://zh.wikipedia.org/wiki/Category:2006年面世的產品 "wikilink")
-[Category:第七世代遊戲機](https://zh.wikipedia.org/wiki/Category:第七世代遊戲機 "wikilink")
-[Category:任天堂遊戲機](https://zh.wikipedia.org/wiki/Category:任天堂遊戲機 "wikilink")
-[Category:家用游戏机](https://zh.wikipedia.org/wiki/Category:家用游戏机 "wikilink")
-[Category:2000年代玩具](https://zh.wikipedia.org/wiki/Category:2000年代玩具 "wikilink")
-[Category:2010年代玩具](https://zh.wikipedia.org/wiki/Category:2010年代玩具 "wikilink")
-[Category:POWER架構](https://zh.wikipedia.org/wiki/Category:POWER架構 "wikilink")
-[Category:好設計獎](https://zh.wikipedia.org/wiki/Category:好設計獎 "wikilink")
+[Category:Wii](https://zh.wikipedia.org/wiki/Category:Wii "wikilink") [Category:2006年面世的產品](https://zh.wikipedia.org/wiki/Category:2006年面世的產品 "wikilink") [Category:第七世代遊戲機](https://zh.wikipedia.org/wiki/Category:第七世代遊戲機 "wikilink") [Category:任天堂遊戲機](https://zh.wikipedia.org/wiki/Category:任天堂遊戲機 "wikilink") [Category:家用游戏机](https://zh.wikipedia.org/wiki/Category:家用游戏机 "wikilink") [Category:2000年代玩具](https://zh.wikipedia.org/wiki/Category:2000年代玩具 "wikilink") [Category:2010年代玩具](https://zh.wikipedia.org/wiki/Category:2010年代玩具 "wikilink") [Category:POWER架構](https://zh.wikipedia.org/wiki/Category:POWER架構 "wikilink") [Category:好設計獎](https://zh.wikipedia.org/wiki/Category:好設計獎 "wikilink")
 
 1.
 
@@ -844,17 +783,13 @@ Wii 控制器</p></td>
 
 14.
 
-15. [国内Wii计划
-    神游透露Wii主机新情报](http://article.pchome.net/content-240643.html)
+15. [国内Wii计划 神游透露Wii主机新情报](http://article.pchome.net/content-240643.html)
 
-16. [业界传闻：Wii行货未能通过审批
-    即将流产](http://www.gamespot.com.cn/news/2009/0321/96336.shtml)
-
+16. [业界传闻：Wii行货未能通过审批 即将流产](http://www.gamespot.com.cn/news/2009/0321/96336.shtml)
 
 17.
 
-18. [历时7年 任天堂Wii正式停产 销量1亿排名第五 -
-    网易游戏](http://game.163.com/13/1021/08/9BMSD5T500314K8I.html)
+18. [历时7年 任天堂Wii正式停产 销量1亿排名第五 - 网易游戏](http://game.163.com/13/1021/08/9BMSD5T500314K8I.html)
 
 19.
 20.

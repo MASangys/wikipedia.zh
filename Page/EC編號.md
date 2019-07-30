@@ -1,4 +1,4 @@
-**EC編號**或**EC號**是為[酶所製作的一套](../Page/酶.md "wikilink")[編號分類法](https://zh.wikipedia.org/wiki/編號 "wikilink")，是以每種酶所[催化的](../Page/催化.md "wikilink")[化學反應為分類基礎](https://zh.wikipedia.org/wiki/化學反應 "wikilink")。\[1\]這套分類法亦同時會為各種酶給予一個建議的名稱，所以亦稱為**酶學[委員會](https://zh.wikipedia.org/wiki/委員會 "wikilink")[命名法](https://zh.wikipedia.org/wiki/命名 "wikilink")**。
+**EC編號**或**EC號**是為[酶](../Page/酶.md "wikilink")所製作的一套[編號分類法](https://zh.wikipedia.org/wiki/編號 "wikilink")，是以每種酶所[催化](../Page/催化.md "wikilink")的[化學反應為分類基礎](https://zh.wikipedia.org/wiki/化學反應 "wikilink")。\[1\]這套分類法亦同時會為各種酶給予一個建議的名稱，所以亦稱為**酶學[委員會](https://zh.wikipedia.org/wiki/委員會 "wikilink")[命名法](https://zh.wikipedia.org/wiki/命名 "wikilink")**。
 
 ## 历史
 
@@ -6,10 +6,9 @@
 
 ## 编号规则
 
-每一個酶的[編號都以字母](https://zh.wikipedia.org/wiki/編號 "wikilink")「EC」起頭，接著以四個號碼來表示，這些號碼代表逐步更細緻的為酶作出分類。就如[三肽胺基
-蛋白酶的編號為EC](https://zh.wikipedia.org/wiki/三肽胺基_蛋白酶 "wikilink")3.4.11.4，當中的「EC3」是指[水解酶](../Page/水解酶.md "wikilink")（即以[水來將分子分解的酶](../Page/水.md "wikilink")）；「EC3.4」是那些與[肽鍵產生作用的水解酶](https://zh.wikipedia.org/wiki/肽鍵 "wikilink")；「EC3.4.11」是單指那些從[多胜肽中分開胺基末端的水解酶](../Page/肽.md "wikilink")；「EC3.4.11.4」則是從[三肽中分開胺基末端的水解酶](https://zh.wikipedia.org/wiki/三肽 "wikilink")。
+每一個酶的[編號都以字母](https://zh.wikipedia.org/wiki/編號 "wikilink")「EC」起頭，接著以四個號碼來表示，這些號碼代表逐步更細緻的為酶作出分類。就如[三肽胺基 蛋白酶的編號為EC](https://zh.wikipedia.org/wiki/三肽胺基_蛋白酶 "wikilink")3.4.11.4，當中的「EC3」是指[水解酶](../Page/水解酶.md "wikilink")（即以[水](../Page/水.md "wikilink")來將分子分解的酶）；「EC3.4」是那些與[肽鍵產生作用的水解酶](https://zh.wikipedia.org/wiki/肽鍵 "wikilink")；「EC3.4.11」是單指那些從[多胜肽中分開胺基末端的水解酶](../Page/肽.md "wikilink")；「EC3.4.11.4」則是從[三肽中分開胺基末端的水解酶](https://zh.wikipedia.org/wiki/三肽 "wikilink")。
 
-嚴格來說，EC編號並非指定不同種類的酶，而是指定[催化作用](../Page/催化.md "wikilink")。如不同的酶（在不同的生物中）催化同一的各應，它們均會編有同一的編號。
+嚴格來說，EC編號並非指定不同種類的酶，而是指定[催化](../Page/催化.md "wikilink")作用。如不同的酶（在不同的生物中）催化同一的各應，它們均會編有同一的編號。
 
 ## 顶层的编组
 
@@ -42,7 +41,7 @@ A + O → AO (<small><strong>氧化</strong></small>)</p></td>
 <tr class="odd">
 <td><p><br />
 <a href="../Page/水解酶.md" title="wikilink">水解酶</a></p></td>
-<td><p>從<a href="https://zh.wikipedia.org/wiki/底物" title="wikilink">底物以</a><a href="../Page/水解.md" title="wikilink">水解來生成兩個化合物</a></p></td>
+<td><p>從<a href="https://zh.wikipedia.org/wiki/底物" title="wikilink">底物以</a><a href="../Page/水解.md" title="wikilink">水解</a>來生成兩個化合物</p></td>
 <td><p>AB + H<sub>2</sub>O → AOH + BH</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/脂肪酶" title="wikilink">脂肪酶</a>， <a href="https://zh.wikipedia.org/wiki/澱粉酶" title="wikilink">澱粉酶</a>， <a href="https://zh.wikipedia.org/wiki/蛋白酶" title="wikilink">蛋白酶</a></p></td>
 </tr>
@@ -81,20 +80,13 @@ A + O → AO (<small><strong>氧化</strong></small>)</p></td>
 ## 外部链接
 
   - [Enzyme Nomenclature](http://www.chem.qmul.ac.uk/iubmb/enzyme/)
-  - [Enzyme nomenclature
-    database](https://web.archive.org/web/20060218084611/http://www.expasy.org/enzyme/)
-    — by
-  - [List of all EC
-    numbers](https://web.archive.org/web/20100802075720/http://www.brenda-enzymes.org/information/all_enzymes.php4)
-    — by
+  - [Enzyme nomenclature database](https://web.archive.org/web/20060218084611/http://www.expasy.org/enzyme/) — by
+  - [List of all EC numbers](https://web.archive.org/web/20100802075720/http://www.brenda-enzymes.org/information/all_enzymes.php4) — by
   - [Browse PDB structures by EC number](http://www.pdbe.org/ec)
 
 {{-}}
 
-[Category:酶](https://zh.wikipedia.org/wiki/Category:酶 "wikilink")
-[Category:生物信息学](https://zh.wikipedia.org/wiki/Category:生物信息学 "wikilink")
-[Category:化学信息学](https://zh.wikipedia.org/wiki/Category:化学信息学 "wikilink")
-[Category:化学品编号](https://zh.wikipedia.org/wiki/Category:化学品编号 "wikilink")
+[Category:酶](https://zh.wikipedia.org/wiki/Category:酶 "wikilink") [Category:生物信息学](https://zh.wikipedia.org/wiki/Category:生物信息学 "wikilink") [Category:化学信息学](https://zh.wikipedia.org/wiki/Category:化学信息学 "wikilink") [Category:化学品编号](https://zh.wikipedia.org/wiki/Category:化学品编号 "wikilink")
 
 1.
 2.

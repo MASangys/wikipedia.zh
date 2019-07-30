@@ -1,9 +1,4 @@
-**Intel 2700G**（代號：Marathon，马拉松）是一個用來搭配
-[Intel](https://zh.wikipedia.org/wiki/Intel "wikilink")
-[XScale](../Page/XScale.md "wikilink") PXA27x 系列處理器的低功率繪圖處理晶片（最高50
-mW）。其核心使用了PowerVR
-MBX技術（其後續產品有用在[SEGA](https://zh.wikipedia.org/wiki/SEGA "wikilink")
-[Dreamcast](../Page/Dreamcast.md "wikilink")）.
+**Intel 2700G**（代號：Marathon，马拉松）是一個用來搭配 [Intel](https://zh.wikipedia.org/wiki/Intel "wikilink") [XScale](../Page/XScale.md "wikilink") PXA27x 系列處理器的低功率繪圖處理晶片（最高50 mW）。其核心使用了PowerVR MBX技術（其後續產品有用在[SEGA](https://zh.wikipedia.org/wiki/SEGA "wikilink") [Dreamcast](../Page/Dreamcast.md "wikilink")）.
 
 ## 產品線
 
@@ -23,8 +18,7 @@ MBX技術（其後續產品有用在[SEGA](https://zh.wikipedia.org/wiki/SEGA "w
 
 ## 特點
 
-所有芯片都采用封装在[BGA中的](https://zh.wikipedia.org/wiki/BGA "wikilink")75 MHz,
-32位图形核心。
+所有芯片都采用封装在[BGA中的](https://zh.wikipedia.org/wiki/BGA "wikilink")75 MHz, 32位图形核心。
 
 ### 加速后的双头输出
 
@@ -32,28 +26,15 @@ MBX技術（其後續產品有用在[SEGA](https://zh.wikipedia.org/wiki/SEGA "w
 
 ### 2D繪圖的加速
 
-2700G支持[裁减](https://zh.wikipedia.org/wiki/裁减 "wikilink")（[clipping](https://zh.wikipedia.org/wiki/Clipping_\(computer_graphics\) "wikilink")）、[alpha混和](https://zh.wikipedia.org/wiki/alpha混和 "wikilink")（[alpha
-blending](https://zh.wikipedia.org/wiki/alpha_blending "wikilink")）以及[反锯齿](https://zh.wikipedia.org/wiki/反锯齿 "wikilink")（[anti-aliasing](https://zh.wikipedia.org/wiki/anti-aliasing "wikilink")）加速。同时也支持多种位块传送（BLT）功能（[BitBLT](https://zh.wikipedia.org/wiki/BitBLT "wikilink")，StretchBLT
-and
-CSCBLT）。2D加速器的[象素填充率高达每秒](https://zh.wikipedia.org/wiki/象素填充率 "wikilink")8千4百万象素。
+2700G支持[裁减](https://zh.wikipedia.org/wiki/裁减 "wikilink")（[clipping](https://zh.wikipedia.org/wiki/Clipping_\(computer_graphics\) "wikilink")）、[alpha混和](https://zh.wikipedia.org/wiki/alpha混和 "wikilink")（[alpha blending](https://zh.wikipedia.org/wiki/alpha_blending "wikilink")）以及[反锯齿](https://zh.wikipedia.org/wiki/反锯齿 "wikilink")（[anti-aliasing](https://zh.wikipedia.org/wiki/anti-aliasing "wikilink")）加速。同时也支持多种位块传送（BLT）功能（[BitBLT](https://zh.wikipedia.org/wiki/BitBLT "wikilink")，StretchBLT and CSCBLT）。2D加速器的[象素填充率高达每秒](https://zh.wikipedia.org/wiki/象素填充率 "wikilink")8千4百万象素。
 
 ### 3D繪圖的加速
 
-2700G具有完整的硬件渲染[管道并且兼容](https://zh.wikipedia.org/wiki/管道 "wikilink")[OpenGL
-ES标准](../Page/OpenGL_ES.md "wikilink")。它提供[纹理压缩](../Page/纹理压缩.md "wikilink")（[texture
-compression](https://zh.wikipedia.org/wiki/texture_compression "wikilink")）、[各向异性过滤](../Page/各向异性过滤.md "wikilink")（[anisotropic
-filtering](https://zh.wikipedia.org/wiki/anisotropic_filtering "wikilink")）和[定点雾化](https://zh.wikipedia.org/wiki/定点雾化 "wikilink")[per
-vertex
-fogging等功能](https://zh.wikipedia.org/wiki/distance_fog "wikilink")。3D加速器每秒能处理大约831千个三角形。
+2700G具有完整的硬件渲染[管道并且兼容](https://zh.wikipedia.org/wiki/管道 "wikilink")[OpenGL ES标准](../Page/OpenGL_ES.md "wikilink")。它提供[纹理压缩](../Page/纹理压缩.md "wikilink")（[texture compression](https://zh.wikipedia.org/wiki/texture_compression "wikilink")）、[各向异性过滤](../Page/各向异性过滤.md "wikilink")（[anisotropic filtering](https://zh.wikipedia.org/wiki/anisotropic_filtering "wikilink")）和[定点雾化](https://zh.wikipedia.org/wiki/定点雾化 "wikilink")[per vertex fogging等功能](https://zh.wikipedia.org/wiki/distance_fog "wikilink")。3D加速器每秒能处理大约831千个三角形。
 
 ### 影像處理之加速
 
-2700G能够执行[逆向Zig-Zag](https://zh.wikipedia.org/wiki/逆向Zig-Zag "wikilink")（[Inverse
-Zig-Zag](https://zh.wikipedia.org/wiki/Inverse_Zig-Zag "wikilink")）、[逆向离散余弦转换](https://zh.wikipedia.org/wiki/逆向离散余弦转换 "wikilink")（[Inverse
-Discrete Cosine
-Transform](https://zh.wikipedia.org/wiki/iDCT "wikilink")）和[运动补偿](../Page/运动补偿.md "wikilink")（[Motion
-Compensation](https://zh.wikipedia.org/wiki/Motion_Compensation "wikilink")）用以加速MPEG-1、MPEG-2、MPEG-4和WMV视频解码。加速器能以高于30帧每秒的速度解码720x480分辨率（[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")
-清晰度）的MPEG-1/2，WMV视频和640x480分辨率的MPEG-4视频。
+2700G能够执行[逆向Zig-Zag](https://zh.wikipedia.org/wiki/逆向Zig-Zag "wikilink")（[Inverse Zig-Zag](https://zh.wikipedia.org/wiki/Inverse_Zig-Zag "wikilink")）、[逆向离散余弦转换](https://zh.wikipedia.org/wiki/逆向离散余弦转换 "wikilink")（[Inverse Discrete Cosine Transform](https://zh.wikipedia.org/wiki/iDCT "wikilink")）和[运动补偿](../Page/运动补偿.md "wikilink")（[Motion Compensation](https://zh.wikipedia.org/wiki/Motion_Compensation "wikilink")）用以加速MPEG-1、MPEG-2、MPEG-4和WMV视频解码。加速器能以高于30帧每秒的速度解码720x480分辨率（[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink") 清晰度）的MPEG-1/2，WMV视频和640x480分辨率的MPEG-4视频。
 
 ## 使用之機種
 

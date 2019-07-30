@@ -1,6 +1,6 @@
-**Sweety**，[台灣的](https://zh.wikipedia.org/wiki/台灣 "wikilink")[女子歌唱組合](https://zh.wikipedia.org/wiki/女子 "wikilink")，由[劉品言和](../Page/劉品言.md "wikilink")[曾之喬所組成](../Page/曾之喬.md "wikilink")。2003年正式召開記者會，當年出道時，兩人均只有十四歲，(新加坡華人女子團體[BY2則為](https://zh.wikipedia.org/wiki/BY2 "wikilink")16歲時出道)成為台灣史上最年輕的少女團體，至今仍未有團體打破（不含[大小姐或](../Page/大小姐_\(組合\).md "wikilink")[左左右右等童星組合](../Page/左左右右.md "wikilink")）。經過幾年的發展，兩人在[戲劇及](https://zh.wikipedia.org/wiki/戲劇 "wikilink")[歌唱上都各有亮眼的表現](https://zh.wikipedia.org/wiki/歌唱 "wikilink")。直至2007年，其中成員劉品言決定暫停其演藝事業，前往[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")[巴黎](../Page/巴黎.md "wikilink")[留學](https://zh.wikipedia.org/wiki/留學 "wikilink")，Sweety團體單飛不解散。Sweety曾經在2008年播映的《型男大主廚》中提及到兩人單飛不解散，在2009年播映的《百萬大歌星》中，曾之喬也說到了兩人單飛不解散的事情。2015年，劉品言和曾之喬也多次在專訪提到兩人還在努力尋找最佳的合體機會。同年12月12日，兩人在三立華劇大賞頒獎典禮上正式合體。
+**Sweety**，[台灣的](https://zh.wikipedia.org/wiki/台灣 "wikilink")[女子歌唱組合](https://zh.wikipedia.org/wiki/女子 "wikilink")，由[劉品言](../Page/劉品言.md "wikilink")和[曾之喬](../Page/曾之喬.md "wikilink")所組成。2003年正式召開記者會，當年出道時，兩人均只有十四歲，(新加坡華人女子團體[BY2則為](https://zh.wikipedia.org/wiki/BY2 "wikilink")16歲時出道)成為台灣史上最年輕的少女團體，至今仍未有團體打破（不含[大小姐或](../Page/大小姐_\(組合\).md "wikilink")[左左右右](../Page/左左右右.md "wikilink")等童星組合）。經過幾年的發展，兩人在[戲劇及](https://zh.wikipedia.org/wiki/戲劇 "wikilink")[歌唱上都各有亮眼的表現](https://zh.wikipedia.org/wiki/歌唱 "wikilink")。直至2007年，其中成員劉品言決定暫停其演藝事業，前往[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")[巴黎](../Page/巴黎.md "wikilink")[留學](https://zh.wikipedia.org/wiki/留學 "wikilink")，Sweety團體單飛不解散。Sweety曾經在2008年播映的《型男大主廚》中提及到兩人單飛不解散，在2009年播映的《百萬大歌星》中，曾之喬也說到了兩人單飛不解散的事情。2015年，劉品言和曾之喬也多次在專訪提到兩人還在努力尋找最佳的合體機會。同年12月12日，兩人在三立華劇大賞頒獎典禮上正式合體。
 
-劉品言於2009年暑假過後，把學校由巴黎轉至[上海分校以方便工作](https://zh.wikipedia.org/wiki/上海 "wikilink")，並重返演藝界，但Sweety同台的蹤影仍寥寥可數，不過兩人私下仍是好朋友。目前兩人屬不同經紀公司，但據兩人透露，將來仍有合作的機會。
+劉品言於2009年暑假過後，把學校由巴黎轉至[上海分校以方便工作](https://zh.wikipedia.org/wiki/上海 "wikilink")，並重返演藝界，但Sweety同台的蹤影仍寥寥可數，不過兩人私下仍是好朋友。目前兩人屬不同經紀公司，形同正式解散。
 
 ## 成員
 
@@ -139,9 +139,8 @@
       - 該合輯同時也是《舞動奇蹟》電視原聲帶
       - 全新人作品，sweety擔任代言人並獻唱兩首《Sweety》&《愛是怎麼一回事》
   - 2005年11月《[綠光森林](../Page/綠光森林.md "wikilink")》電視原聲帶《勇敢的幸福》
-      - 原曲為[Kinki
-        Kids的](https://zh.wikipedia.org/wiki/Kinki_Kids "wikilink")《[在我背上的翅膀](../Page/在我背上的翅膀.md "wikilink")》
-  - 2007年2月13日[豐華唱片合輯](../Page/豐華唱片.md "wikilink")《再愛一次》
+      - 原曲為[Kinki Kids的](https://zh.wikipedia.org/wiki/Kinki_Kids "wikilink")《[在我背上的翅膀](../Page/在我背上的翅膀.md "wikilink")》
+  - 2007年2月13日[豐華唱片](../Page/豐華唱片.md "wikilink")合輯《再愛一次》
 
 #### 其他歌曲
 
@@ -171,7 +170,7 @@
 <p>2003年9月</p></td>
 <td><p><a href="../Page/華視主頻.md" title="wikilink">華視</a>、<a href="../Page/三立都會台.md" title="wikilink">三立都會台</a></p></td>
 <td><p>《<a href="../Page/西街少年.md" title="wikilink">西街少年</a>》</p></td>
-<td><p><a href="../Page/劉品言.md" title="wikilink">劉品言飾演</a> 藍玉梨</p></td>
+<td><p><a href="../Page/劉品言.md" title="wikilink">劉品言</a>飾演 藍玉梨</p></td>
 <td><p>女主角</p></td>
 </tr>
 <tr class="odd">
@@ -179,7 +178,7 @@
 <p>2004年5月</p></td>
 <td><p>華視、三立都會台</p></td>
 <td><p>《<a href="../Page/紫禁之巔.md" title="wikilink">紫禁之巔</a>》</p></td>
-<td><p><a href="../Page/曾之喬.md" title="wikilink">曾之喬飾演</a> 小影</p></td>
+<td><p><a href="../Page/曾之喬.md" title="wikilink">曾之喬</a>飾演 小影</p></td>
 <td><p>女主角</p></td>
 </tr>
 <tr class="even">
@@ -275,8 +274,8 @@
 
 | 拍攝時間  | 上映日期      | 劇名                                            | 飾演                                          | 性質 |
 | ----- | --------- | --------------------------------------------- | ------------------------------------------- | -- |
-|       | 2004年     | 《[20 30 40](../Page/20_30_40.md "wikilink")》  | [曾之喬飾演](../Page/曾之喬.md "wikilink") 張艾嘉劇中的女兒 | 客串 |
-| 2007年 | 2008年6月6日 | 《[九降風](../Page/九降風_\(電影\).md "wikilink")》之台灣篇 | [劉品言飾演](../Page/劉品言.md "wikilink") 謝孟倫      | 客串 |
+|       | 2004年     | 《[20 30 40](../Page/20_30_40.md "wikilink")》  | [曾之喬](../Page/曾之喬.md "wikilink")飾演 張艾嘉劇中的女兒 | 客串 |
+| 2007年 | 2008年6月6日 | 《[九降風](../Page/九降風_\(電影\).md "wikilink")》之台灣篇 | [劉品言](../Page/劉品言.md "wikilink")飾演 謝孟倫      | 客串 |
 |       |           |                                               |                                             |    |
 
 ### 書籍
@@ -291,12 +290,9 @@
 
 ### 主持
 
-  - 2005年
-    [東風衛視](../Page/東風衛視.md "wikilink")：[阿給大滿冠](https://zh.wikipedia.org/wiki/阿給大滿冠 "wikilink")
-  - 2005年
-    [台視](https://zh.wikipedia.org/wiki/台視主頻 "wikilink")：[齊天大勝](../Page/齊天大勝.md "wikilink")
-  - 2006年
-    [衛視中文台](../Page/衛視中文台.md "wikilink")：[電玩特攻](https://zh.wikipedia.org/wiki/電玩特攻 "wikilink")
+  - 2005年 [東風衛視](../Page/東風衛視.md "wikilink")：[阿給大滿冠](https://zh.wikipedia.org/wiki/阿給大滿冠 "wikilink")
+  - 2005年 [台視](https://zh.wikipedia.org/wiki/台視主頻 "wikilink")：[齊天大勝](../Page/齊天大勝.md "wikilink")
+  - 2006年 [衛視中文台](../Page/衛視中文台.md "wikilink")：[電玩特攻](https://zh.wikipedia.org/wiki/電玩特攻 "wikilink")
 
 ## 廣告
 
@@ -317,9 +313,4 @@
 
 ## 參考資料
 
-[Category:臺灣女子演唱團體](https://zh.wikipedia.org/wiki/Category:臺灣女子演唱團體 "wikilink")
-[Category:2003年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2003年成立的音樂團體 "wikilink")
-[Category:2002年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2002年成立的音樂團體 "wikilink")
-[Category:2003年台灣建立](https://zh.wikipedia.org/wiki/Category:2003年台灣建立 "wikilink")
-[Category:二人組](https://zh.wikipedia.org/wiki/Category:二人組 "wikilink")
-[Category:女子雙人演唱團體](https://zh.wikipedia.org/wiki/Category:女子雙人演唱團體 "wikilink")
+[Category:臺灣女子演唱團體](https://zh.wikipedia.org/wiki/Category:臺灣女子演唱團體 "wikilink") [Category:2003年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2003年成立的音樂團體 "wikilink") [Category:2002年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2002年成立的音樂團體 "wikilink") [Category:2003年台灣建立](https://zh.wikipedia.org/wiki/Category:2003年台灣建立 "wikilink") [Category:二人組](https://zh.wikipedia.org/wiki/Category:二人組 "wikilink") [Category:女子雙人演唱團體](https://zh.wikipedia.org/wiki/Category:女子雙人演唱團體 "wikilink")

@@ -1,18 +1,12 @@
-**Netburst微處理器架構**，[Intel内部称为](https://zh.wikipedia.org/wiki/Intel "wikilink")**P68**，為[英特爾的](https://zh.wikipedia.org/wiki/英特爾 "wikilink")[X86微處理器架構](../Page/X86.md "wikilink")，[P6微處理器製程的後繼者](https://zh.wikipedia.org/wiki/Intel_P6 "wikilink")。第一個使用這架構的[CPU是](https://zh.wikipedia.org/wiki/CPU "wikilink")[Pentium
-4的第一代核心](https://zh.wikipedia.org/wiki/Pentium_4 "wikilink")[Willamette](https://zh.wikipedia.org/wiki/Willamette "wikilink")，於2000年推出。所有后继的[Pentium
-4和](https://zh.wikipedia.org/wiki/Pentium_4 "wikilink")[Pentium
-D衍生架构也都基于Netburst](https://zh.wikipedia.org/wiki/Pentium_D "wikilink")。2001年中期推出的〔[Foster核心](https://zh.wikipedia.org/wiki/Foster "wikilink")〕亦是基于此架構；但此后[Xeon核心切换到其他架构](https://zh.wikipedia.org/wiki/Xeon "wikilink")。基於Pentium
-4的[Celeron也使用了此架構](https://zh.wikipedia.org/wiki/Celeron "wikilink")。
+**Netburst微處理器架構**，[Intel内部称为](https://zh.wikipedia.org/wiki/Intel "wikilink")**P68**，為[英特爾的](https://zh.wikipedia.org/wiki/英特爾 "wikilink")[X86](../Page/X86.md "wikilink")微處理器架構，[P6微處理器製程的後繼者](https://zh.wikipedia.org/wiki/Intel_P6 "wikilink")。第一個使用這架構的[CPU是](https://zh.wikipedia.org/wiki/CPU "wikilink")[Pentium 4的第一代核心](https://zh.wikipedia.org/wiki/Pentium_4 "wikilink")[Willamette](https://zh.wikipedia.org/wiki/Willamette "wikilink")，於2000年推出。所有后继的[Pentium 4和](https://zh.wikipedia.org/wiki/Pentium_4 "wikilink")[Pentium D衍生架构也都基于Netburst](https://zh.wikipedia.org/wiki/Pentium_D "wikilink")。2001年中期推出的〔[Foster核心](https://zh.wikipedia.org/wiki/Foster "wikilink")〕亦是基于此架構；但此后[Xeon核心切换到其他架构](https://zh.wikipedia.org/wiki/Xeon "wikilink")。基於Pentium 4的[Celeron也使用了此架構](https://zh.wikipedia.org/wiki/Celeron "wikilink")。
 
-为了与前代架构区别，有时也將Netburst稱作**Intel P7**或**Intel
-80786**，但都不是官方名稱。事實上，P7被[Intel内部用作](https://zh.wikipedia.org/wiki/Intel "wikilink")[Itanium處理器微架構的代號](https://zh.wikipedia.org/wiki/Itanium "wikilink")。
+为了与前代架构区别，有时也將Netburst稱作**Intel P7**或**Intel 80786**，但都不是官方名稱。事實上，P7被[Intel内部用作](https://zh.wikipedia.org/wiki/Intel "wikilink")[Itanium處理器微架構的代號](https://zh.wikipedia.org/wiki/Itanium "wikilink")。
 
 ## 技術
 
 ### 超深管線技術
 
-第一代的NetBurst架構的核心的Willamette擁有比[Pentium
-III的](https://zh.wikipedia.org/wiki/Pentium_III "wikilink")10級管線更多的12級管線。直到最後的Prescott核心，它有令人驚奇的31級管線。深管線可以讓處理器以更高的時脈運作，但這個做法有很多壞處，主要是減低了一個週期中可執行的指令數。另一方面，深管線在[預測執行預測錯誤時的效能損失更大](https://zh.wikipedia.org/wiki/預測執行 "wikilink")。因此NetBurst使用快速執行引擎以解決問題。
+第一代的NetBurst架構的核心的Willamette擁有比[Pentium III的](https://zh.wikipedia.org/wiki/Pentium_III "wikilink")10級管線更多的12級管線。直到最後的Prescott核心，它有令人驚奇的31級管線。深管線可以讓處理器以更高的時脈運作，但這個做法有很多壞處，主要是減低了一個週期中可執行的指令數。另一方面，深管線在[預測執行預測錯誤時的效能損失更大](https://zh.wikipedia.org/wiki/預測執行 "wikilink")。因此NetBurst使用快速執行引擎以解決問題。
 
 ### 快速執行引擎
 
@@ -20,8 +14,7 @@ III的](https://zh.wikipedia.org/wiki/Pentium_III "wikilink")10級管線更多�
 
 ### 执行跟踪高速缓存
 
-英特爾稱之為Execution Trace
-Cache（执行跟踪高速缓存）的快取包含在L1快取中，其儲存了已解碼的指令。當處理器收到新的指令時，處理器會在L1直接存取指令，取代一般的解碼工作，以減低時間。另外，在L2的指令都有預計的執行路徑，故在讀取後續指令時，處理器已經執行正確次序。
+英特爾稱之為Execution Trace Cache（执行跟踪高速缓存）的快取包含在L1快取中，其儲存了已解碼的指令。當處理器收到新的指令時，處理器會在L1直接存取指令，取代一般的解碼工作，以減低時間。另外，在L2的指令都有預計的執行路徑，故在讀取後續指令時，處理器已經執行正確次序。
 
 雖然有這些最佳化，但是NetBurst仍未能證明其成功。英特爾認為它可以挑戰10GHz的時脈速度，但當其時脈提昇至3.8GHz的時候，英特爾仍未能解決發熱量的問題。最後英特爾決定放棄NetBurst，並以全新架構取代。
 
@@ -56,10 +49,8 @@ Cache（执行跟踪高速缓存）的快取包含在L1快取中，其儲存了�
   - 31級管線
   - 90納米製程
   - 分別使用兩種介面
-      - [Socket 478](../Page/Socket_478.md "wikilink") -
-        型號一律加上E〔800MH外頻〕或A〔533MHz外頻〕
-      - [LGA775](https://zh.wikipedia.org/wiki/LGA775 "wikilink") -
-        一律以新命名法命名〔5XX系列及6XX系列〕
+      - [Socket 478](../Page/Socket_478.md "wikilink") - 型號一律加上E〔800MH外頻〕或A〔533MHz外頻〕
+      - [LGA775](https://zh.wikipedia.org/wiki/LGA775 "wikilink") - 一律以新命名法命名〔5XX系列及6XX系列〕
   - L2加大至1MB，隨後2MB
   - 支線預測器有重大的更新
   - 加入[SSE3](../Page/SSE3.md "wikilink")
@@ -80,28 +71,20 @@ Cache（执行跟踪高速缓存）的快取包含在L1快取中，其儲存了�
 
 ## 後繼者
 
-[英特爾宣佈以](https://zh.wikipedia.org/wiki/英特爾 "wikilink")[Intel
-Core微處理器架構取代NetBurst微處理器架構](https://zh.wikipedia.org/wiki/Intel_Core微處理器架構 "wikilink")。
-於2006年初推出的**Presler**將會是最後一個使用NetBurst的桌面處理器核心，將會被使用Intel
-Core架構的**Conroe**取代。
+[英特爾宣佈以](https://zh.wikipedia.org/wiki/英特爾 "wikilink")[Intel Core微處理器架構取代NetBurst微處理器架構](https://zh.wikipedia.org/wiki/Intel_Core微處理器架構 "wikilink")。 於2006年初推出的**Presler**將會是最後一個使用NetBurst的桌面處理器核心，將會被使用Intel Core架構的**Conroe**取代。
 
 ## 基於NetBurst的處理器
 
-  - [Celeron](https://zh.wikipedia.org/wiki/Celeron "wikilink")（與Pentium
-    4同期）
-  - [Celeron
-    D](https://zh.wikipedia.org/wiki/Celeron#Celeron_D "wikilink")
+  - [Celeron](https://zh.wikipedia.org/wiki/Celeron "wikilink")（與Pentium 4同期）
+  - [Celeron D](https://zh.wikipedia.org/wiki/Celeron#Celeron_D "wikilink")
   - [Pentium 4](https://zh.wikipedia.org/wiki/Pentium_4 "wikilink")
-  - [Pentium 4 Extreme
-    Edition](https://zh.wikipedia.org/wiki/Pentium_4#Extreme_Edition "wikilink")
+  - [Pentium 4 Extreme Edition](https://zh.wikipedia.org/wiki/Pentium_4#Extreme_Edition "wikilink")
   - [Pentium D](https://zh.wikipedia.org/wiki/Pentium_D "wikilink")
-  - [Pentium Extreme
-    Edition](https://zh.wikipedia.org/wiki/Pentium_Extreme_Edition "wikilink")
+  - [Pentium Extreme Edition](https://zh.wikipedia.org/wiki/Pentium_Extreme_Edition "wikilink")
   - [Xeon](https://zh.wikipedia.org/wiki/Xeon "wikilink")（與Pentium 4同期）
 
 ## 參見
 
   - [X86](../Page/X86.md "wikilink")
 
-[Category:Intel處理器架構](https://zh.wikipedia.org/wiki/Category:Intel處理器架構 "wikilink")
-[Category:X86架構](https://zh.wikipedia.org/wiki/Category:X86架構 "wikilink")
+[Category:Intel處理器架構](https://zh.wikipedia.org/wiki/Category:Intel處理器架構 "wikilink") [Category:X86架構](https://zh.wikipedia.org/wiki/Category:X86架構 "wikilink")

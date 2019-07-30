@@ -8,7 +8,4 @@
   - **[詹姆斯·亚当森](https://zh.wikipedia.org/wiki/詹姆斯·亚当森 "wikilink")**（，曾执行以及任务），任务专家
   - **[大卫·洛](https://zh.wikipedia.org/wiki/大卫·洛 "wikilink")**（，曾执行、以及任务），任务专家
 
-[Category:1991年美国](https://zh.wikipedia.org/wiki/Category:1991年美国 "wikilink")
-[Category:1991年科學](https://zh.wikipedia.org/wiki/Category:1991年科學 "wikilink")
-[Category:亚特兰蒂斯号航天飞机任务](https://zh.wikipedia.org/wiki/Category:亚特兰蒂斯号航天飞机任务 "wikilink")
-[Category:1991年8月](https://zh.wikipedia.org/wiki/Category:1991年8月 "wikilink")
+[Category:1991年美国](https://zh.wikipedia.org/wiki/Category:1991年美国 "wikilink") [Category:1991年科學](https://zh.wikipedia.org/wiki/Category:1991年科學 "wikilink") [Category:亚特兰蒂斯号航天飞机任务](https://zh.wikipedia.org/wiki/Category:亚特兰蒂斯号航天飞机任务 "wikilink") [Category:1991年8月](https://zh.wikipedia.org/wiki/Category:1991年8月 "wikilink")

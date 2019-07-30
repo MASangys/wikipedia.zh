@@ -78,13 +78,8 @@
 </tbody>
 </table>
 
-**NX级星舰**是科幻影集《[星际迷航：进取号](../Page/星艦前傳.md "wikilink")》裡虛構的[太空航行器](https://zh.wikipedia.org/wiki/星艦 "wikilink")，在《[星际迷航](https://zh.wikipedia.org/wiki/星际迷航 "wikilink")》的世界中，NX级星舰是第一种由地球人建造，配備可达曲速5级的[曲速引擎的星艦](https://zh.wikipedia.org/wiki/曲速引擎_\(星際奇旅\) "wikilink")。NX级星舰的第一艘命名為[企業號
-(NX-01)](https://zh.wikipedia.org/wiki/地球星艦企業號_\(NX-01\) "wikilink")，第二艘命名為[哥伦比亚号
-(NX-02)](https://zh.wikipedia.org/wiki/地球星舰哥伦比亚号_\(NX-02\) "wikilink")。
+**NX级星舰**是科幻影集《[星际迷航：进取号](../Page/星艦前傳.md "wikilink")》裡虛構的[太空航行器](https://zh.wikipedia.org/wiki/星艦 "wikilink")，在《[星际迷航](https://zh.wikipedia.org/wiki/星际迷航 "wikilink")》的世界中，NX级星舰是第一种由地球人建造，配備可达曲速5级的[曲速引擎的星艦](https://zh.wikipedia.org/wiki/曲速引擎_\(星際奇旅\) "wikilink")。NX级星舰的第一艘命名為[企業號 (NX-01)](https://zh.wikipedia.org/wiki/地球星艦企業號_\(NX-01\) "wikilink")，第二艘命名為[哥伦比亚号 (NX-02)](https://zh.wikipedia.org/wiki/地球星舰哥伦比亚号_\(NX-02\) "wikilink")。
 
-[it:Astronavi di Star Trek\#Classe
-NX](https://zh.wikipedia.org/wiki/it:Astronavi_di_Star_Trek#Classe_NX "wikilink")
+[it:Astronavi di Star Trek\#Classe NX](https://zh.wikipedia.org/wiki/it:Astronavi_di_Star_Trek#Classe_NX "wikilink")
 
-[Category:超光速航行](https://zh.wikipedia.org/wiki/Category:超光速航行 "wikilink")
-[Category:科幻](https://zh.wikipedia.org/wiki/Category:科幻 "wikilink")
-[Category:地球星舰](https://zh.wikipedia.org/wiki/Category:地球星舰 "wikilink")
+[Category:超光速航行](https://zh.wikipedia.org/wiki/Category:超光速航行 "wikilink") [Category:科幻](https://zh.wikipedia.org/wiki/Category:科幻 "wikilink") [Category:地球星舰](https://zh.wikipedia.org/wiki/Category:地球星舰 "wikilink")

@@ -1,17 +1,14 @@
-**ASOS**（全寫：**Adult Sisters of
-Shu**；中文名：**徐氏姊妹**）是一組[臺灣](../Page/臺灣.md "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")，由[徐熙媛](../Page/徐熙媛.md "wikilink")（大S）和[徐熙娣](../Page/徐熙娣.md "wikilink")（小S）組成
+**ASOS**（全寫：**Adult Sisters of Shu**；中文名：**徐氏姊妹**）是一組[臺灣](../Page/臺灣.md "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")，由[徐熙媛](../Page/徐熙媛.md "wikilink")（大S）和[徐熙娣](../Page/徐熙娣.md "wikilink")（小S）組成
 
-ASOS舊名為**S.O.S**（全寫：**Sisters of
-Shu**），但因合約糾紛而更換為現今的ASOS。且出道之初亦以**嘟比嘟哇**作為組合名稱（取自專輯《佔領年輕》中的歌曲《do
-bi di wa》
+ASOS舊名為**S.O.S**（全寫：**Sisters of Shu**），但因合約糾紛而更換為現今的ASOS。且出道之初亦以**嘟比嘟哇**作為組合名稱（取自專輯《佔領年輕》中的歌曲《do bi di wa》
 
 ## 簡介
 
-ASOS的成員[徐熙媛和](../Page/徐熙媛.md "wikilink")[徐熙娣是一對姐妹](../Page/徐熙娣.md "wikilink")。她們在就讀[華岡藝校之後發行第一張專輯](https://zh.wikipedia.org/wiki/華岡藝校 "wikilink")《[佔領年輕](https://zh.wikipedia.org/wiki/佔領年輕 "wikilink")》並獲得非常大的迴響。高中畢業後，ASOS因為「S.O.S」在換經紀公司時發生合約問題被禁止出版有聲品、被迫更名為ASOS。
+ASOS的成員[徐熙媛](../Page/徐熙媛.md "wikilink")和[徐熙娣](../Page/徐熙娣.md "wikilink")是一對姐妹。她們在就讀[華岡藝校之後發行第一張專輯](https://zh.wikipedia.org/wiki/華岡藝校 "wikilink")《[佔領年輕](https://zh.wikipedia.org/wiki/佔領年輕 "wikilink")》並獲得非常大的迴響。高中畢業後，ASOS因為「S.O.S」在換經紀公司時發生合約問題被禁止出版有聲品、被迫更名為ASOS。
 
 ## 作品
 
-以下僅列以SOS（ASOS）名義發表的作品，兩人的個別作品請參見[徐熙媛和](../Page/徐熙媛.md "wikilink")[徐熙娣之條目](../Page/徐熙娣.md "wikilink")。
+以下僅列以SOS（ASOS）名義發表的作品，兩人的個別作品請參見[徐熙媛](../Page/徐熙媛.md "wikilink")和[徐熙娣](../Page/徐熙娣.md "wikilink")之條目。
 
 ### 音樂專輯
 
@@ -109,5 +106,4 @@ TOYOTA[汽車](https://zh.wikipedia.org/wiki/汽車 "wikilink")
 ## 外部連結
 
   -
-[Category:臺灣女子演唱團體](https://zh.wikipedia.org/wiki/Category:臺灣女子演唱團體 "wikilink")
-[Category:華語流行音樂團體](https://zh.wikipedia.org/wiki/Category:華語流行音樂團體 "wikilink")
+[Category:臺灣女子演唱團體](https://zh.wikipedia.org/wiki/Category:臺灣女子演唱團體 "wikilink") [Category:華語流行音樂團體](https://zh.wikipedia.org/wiki/Category:華語流行音樂團體 "wikilink")

@@ -6,8 +6,8 @@
 
 ::\*X-019 [环境保护法](https://zh.wikipedia.org/wiki/环境保护法 "wikilink")
 
-  - X-1 [环境科学技术现状与发展](../Page/环境科学.md "wikilink")
-  - X-4 [环境保护宣传教育及普及](../Page/环境保护.md "wikilink")
+  - X-1 [环境科学](../Page/环境科学.md "wikilink")技术现状与发展
+  - X-4 [环境保护](../Page/环境保护.md "wikilink")宣传教育及普及
   - X-6 环境保护参考工具书
 
 :\*X-65 环境保护标准
@@ -20,7 +20,7 @@
 
 ::\*X-657 环境标志
 
-  - X1 [环境科学基础理论](../Page/环境科学.md "wikilink")
+  - X1 [环境科学](../Page/环境科学.md "wikilink")基础理论
 
 :\*X11 环境数学
 
@@ -48,13 +48,11 @@
 
   - X2 [环境保护管理](https://zh.wikipedia.org/wiki/环境保护管理 "wikilink")
 
-:\*X21
-[环境与](https://zh.wikipedia.org/wiki/环境 "wikilink")[环境系统](../Page/环境系统.md "wikilink")
+:\*X21 [环境与](https://zh.wikipedia.org/wiki/环境 "wikilink")[环境系统](../Page/环境系统.md "wikilink")
 
 :\*X22 环境与发展
 
-:\*X24
-[人类](https://zh.wikipedia.org/wiki/人类 "wikilink")、[资源](../Page/资源.md "wikilink")、[能源与环境的关系](../Page/能源.md "wikilink")
+:\*X24 [人类](https://zh.wikipedia.org/wiki/人类 "wikilink")、[资源](../Page/资源.md "wikilink")、[能源](../Page/能源.md "wikilink")与环境的关系
 
 :\*X26 环境容量与环境自净
 
@@ -122,8 +120,7 @@
 
 ::\*X799 其他
 
-  - X8
-    [环境质量评价与](https://zh.wikipedia.org/wiki/环境质量评价 "wikilink")[环境监测](https://zh.wikipedia.org/wiki/环境监测 "wikilink")
+  - X8 [环境质量评价与](https://zh.wikipedia.org/wiki/环境质量评价 "wikilink")[环境监测](https://zh.wikipedia.org/wiki/环境监测 "wikilink")
 
 :\*X82 环境质量分析与评价
 

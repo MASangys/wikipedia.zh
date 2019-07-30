@@ -1,11 +1,11 @@
-《**微笑PASTA**》（）是2006年三立華人電視劇週日十點檔系列的第十二部作品。全劇共17集。**Pasta**意指[義式麵食](https://zh.wikipedia.org/wiki/義式麵食 "wikilink")。於2006年5月25日開拍及於2006年7月16日在[台湾](https://zh.wikipedia.org/wiki/台湾 "wikilink")[台视播出](https://zh.wikipedia.org/wiki/台湾电视公司 "wikilink")，由[張棟樑](https://zh.wikipedia.org/wiki/張棟樑 "wikilink")、[王心凌](../Page/王心凌.md "wikilink")、[Gino](../Page/Gino.md "wikilink")、[小喬主演](https://zh.wikipedia.org/wiki/趙虹喬 "wikilink")。[香港无线电视已於](https://zh.wikipedia.org/wiki/香港无线电视 "wikilink")2007年买下在[香港的播映权](../Page/香港.md "wikilink")。接檔《[愛情魔髮師](../Page/愛情魔髮師.md "wikilink")》。
+《**微笑PASTA**》（）是2006年三立華人電視劇週日十點檔系列的第十二部作品。全劇共17集。**Pasta**意指[義式麵食](https://zh.wikipedia.org/wiki/義式麵食 "wikilink")。於2006年5月25日開拍及於2006年7月16日在[台湾](https://zh.wikipedia.org/wiki/台湾 "wikilink")[台视播出](https://zh.wikipedia.org/wiki/台湾电视公司 "wikilink")，由[張棟樑](https://zh.wikipedia.org/wiki/張棟樑 "wikilink")、[王心凌](../Page/王心凌.md "wikilink")、[Gino](../Page/Gino.md "wikilink")、[小喬主演](https://zh.wikipedia.org/wiki/趙虹喬 "wikilink")。[香港无线电视已於](https://zh.wikipedia.org/wiki/香港无线电视 "wikilink")2007年买下在[香港](../Page/香港.md "wikilink")的播映权。接檔《[愛情魔髮師](../Page/愛情魔髮師.md "wikilink")》。
 
 ## 播映時間
 
 ### 臺灣
 
   - 2006年7月16日起在[台视於每星期日晚上九時三十分播出](https://zh.wikipedia.org/wiki/台湾电视公司 "wikilink")。2006年11月5日結束。
-  - [三立都會台於](../Page/三立都會台.md "wikilink")2006年7月22日起，每星期六晚上九時播出。
+  - [三立都會台](../Page/三立都會台.md "wikilink")於2006年7月22日起，每星期六晚上九時播出。
 
 #### 續集
 
@@ -14,7 +14,7 @@
 ### 香港
 
 [無綫劇集台於](https://zh.wikipedia.org/wiki/無綫劇集台 "wikilink")2006年逢星期日晚上7:00播映。
-無綫[J2台亦於](../Page/J2.md "wikilink")2008年9月21日起逢星期一至五下午4:50及深夜12:50播映。
+無綫[J2](../Page/J2.md "wikilink")台亦於2008年9月21日起逢星期一至五下午4:50及深夜12:50播映。
 
 ### 中國大陸
 
@@ -277,7 +277,7 @@
 
 ## 收视率（台視）
 
-首集收視率打破[仔仔](https://zh.wikipedia.org/wiki/周渝民 "wikilink")、[朴恩惠主演的](../Page/朴恩惠.md "wikilink")《[Silence深情密碼](https://zh.wikipedia.org/wiki/Silence深情密碼 "wikilink")》，15歲至44歲平均收視為5.41，其中分段最高收視為6.15，同時打破《[愛情魔髮師](../Page/愛情魔髮師.md "wikilink")》的第一集15歲到44歲平均收視4.19和[臺灣](../Page/臺灣.md "wikilink")[偶像劇首播收視率的紀錄](../Page/偶像劇.md "wikilink")\[2\]，後被《[無敵珊寶妹](../Page/無敵珊寶妹.md "wikilink")》打破紀錄。
+首集收視率打破[仔仔](https://zh.wikipedia.org/wiki/周渝民 "wikilink")、[朴恩惠](../Page/朴恩惠.md "wikilink")主演的《[Silence深情密碼](https://zh.wikipedia.org/wiki/Silence深情密碼 "wikilink")》，15歲至44歲平均收視為5.41，其中分段最高收視為6.15，同時打破《[愛情魔髮師](../Page/愛情魔髮師.md "wikilink")》的第一集15歲到44歲平均收視4.19和[臺灣](../Page/臺灣.md "wikilink")[偶像劇](../Page/偶像劇.md "wikilink")首播收視率的紀錄\[2\]，後被《[無敵珊寶妹](../Page/無敵珊寶妹.md "wikilink")》打破紀錄。
 
 | 播映日期       | 集數   | 標題             | 收視率                       | 排名 |
 | ---------- | ---- | -------------- | ------------------------- | -- |
@@ -338,8 +338,7 @@
 
 ## Pasta超人
 
-[Pasta_superman.jpg](https://zh.wikipedia.org/wiki/File:Pasta_superman.jpg "fig:Pasta_superman.jpg")
-Pasta超人即義大利麵超人，外型酷似義大利麵。
+[Pasta_superman.jpg](https://zh.wikipedia.org/wiki/File:Pasta_superman.jpg "fig:Pasta_superman.jpg") Pasta超人即義大利麵超人，外型酷似義大利麵。
 
 在劇中，由曉詩親手製作，是一個陪伴娃娃。她之前送給了他男朋友Peter，但後來由於‘戀愛魔咒’的關係，Peter把它還給曉詩。在娃娃上面則寫著「不開心啊？打我囉，反正我會永遠陪伴你」。這個娃娃由於曉詩忘記帶回家，而落在何群手上，他似笑非笑地把娃娃打了一下後，丟在地上。最後，保姆玲姐把它撿了起来。
 
@@ -347,8 +346,7 @@ Pasta超人即義大利麵超人，外型酷似義大利麵。
 
 ### 精品
 
-這個超人還帶來了商機，如Pasta超人娃娃、Pasta超人鑰匙圈、pasta
-MP3、pasta隨身碟等等...創造偶像劇週邊效益並且帶來無限商機\[3\]。
+這個超人還帶來了商機，如Pasta超人娃娃、Pasta超人鑰匙圈、pasta MP3、pasta隨身碟等等...創造偶像劇週邊效益並且帶來無限商機\[3\]。
 
 ### 軟件
 
@@ -358,7 +356,7 @@ MP3、pasta隨身碟等等...創造偶像劇週邊效益並且帶來無限商機
 
 ## 批評
 
-  - 部份集數內容受到批評。批評者指其內含有[暴力傾向](../Page/暴力.md "wikilink")，對[青少年造成不良示範](../Page/青少年.md "wikilink")\[5\]。
+  - 部份集數內容受到批評。批評者指其內含有[暴力](../Page/暴力.md "wikilink")傾向，對[青少年](../Page/青少年.md "wikilink")造成不良示範\[5\]。
 
 ## 緋聞
 
@@ -370,11 +368,11 @@ MP3、pasta隨身碟等等...創造偶像劇週邊效益並且帶來無限商機
 
 ### 北極星的眼淚
 
-**北極星的眼淚**是劇中的片尾曲，在MV中請來了[張棟樑](https://zh.wikipedia.org/wiki/張棟樑 "wikilink")、[Gino和](../Page/Gino.md "wikilink")[趙虹喬來拍攝](https://zh.wikipedia.org/wiki/趙虹喬 "wikilink")。原本是情情詮釋兄弟情，結果他們入戲太深，拍得有點曖昧，被外界及觀眾誤以為是「[斷背](../Page/同性戀.md "wikilink")」劇情\[8\]，後來[張棟樑和](https://zh.wikipedia.org/wiki/張棟樑 "wikilink")[Gino被獲邀到](../Page/Gino.md "wikilink")[完全娛樂解釋事件及給予否認](https://zh.wikipedia.org/wiki/完全娛樂 "wikilink")。
+**北極星的眼淚**是劇中的片尾曲，在MV中請來了[張棟樑](https://zh.wikipedia.org/wiki/張棟樑 "wikilink")、[Gino](../Page/Gino.md "wikilink")和[趙虹喬來拍攝](https://zh.wikipedia.org/wiki/趙虹喬 "wikilink")。原本是情情詮釋兄弟情，結果他們入戲太深，拍得有點曖昧，被外界及觀眾誤以為是「[斷背](../Page/同性戀.md "wikilink")」劇情\[8\]，後來[張棟樑和](https://zh.wikipedia.org/wiki/張棟樑 "wikilink")[Gino](../Page/Gino.md "wikilink")被獲邀到[完全娛樂解釋事件及給予否認](https://zh.wikipedia.org/wiki/完全娛樂 "wikilink")。
 
 ## 漫畫版
 
-由於劇集內容新鮮容易吸引年輕族群，三立電視台與漫畫家[俞家燕合作推出本作的漫畫版本](https://zh.wikipedia.org/wiki/俞家燕 "wikilink")，由[青文出版社出版](../Page/青文出版社.md "wikilink")，共三冊，每本售價為140元新臺幣。
+由於劇集內容新鮮容易吸引年輕族群，三立電視台與漫畫家[俞家燕合作推出本作的漫畫版本](https://zh.wikipedia.org/wiki/俞家燕 "wikilink")，由[青文出版社](../Page/青文出版社.md "wikilink")出版，共三冊，每本售價為140元新臺幣。
 
 ## 注释
 
@@ -391,22 +389,13 @@ MP3、pasta隨身碟等等...創造偶像劇週邊效益並且帶來無限商機
 
 ## 作品的變遷
 
-[Category:台灣偶像劇](https://zh.wikipedia.org/wiki/Category:台灣偶像劇 "wikilink")
-[Category:2006年台灣電視劇集](https://zh.wikipedia.org/wiki/Category:2006年台灣電視劇集 "wikilink")
-[Category:中文連續劇](https://zh.wikipedia.org/wiki/Category:中文連續劇 "wikilink")
-[Category:台視電視劇](https://zh.wikipedia.org/wiki/Category:台視電視劇 "wikilink")
-[Category:三立都會台戲劇節目](https://zh.wikipedia.org/wiki/Category:三立都會台戲劇節目 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
-[Category:湖南衛視外購劇集](https://zh.wikipedia.org/wiki/Category:湖南衛視外購劇集 "wikilink")
+[Category:台灣偶像劇](https://zh.wikipedia.org/wiki/Category:台灣偶像劇 "wikilink") [Category:2006年台灣電視劇集](https://zh.wikipedia.org/wiki/Category:2006年台灣電視劇集 "wikilink") [Category:中文連續劇](https://zh.wikipedia.org/wiki/Category:中文連續劇 "wikilink") [Category:台視電視劇](https://zh.wikipedia.org/wiki/Category:台視電視劇 "wikilink") [Category:三立都會台戲劇節目](https://zh.wikipedia.org/wiki/Category:三立都會台戲劇節目 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink") [Category:湖南衛視外購劇集](https://zh.wikipedia.org/wiki/Category:湖南衛視外購劇集 "wikilink")
 
 1.  小護士樂團[一個由四人組成的地下樂團](http://www.lpnurse.net/index.php)
 2.  [臺視TTV情報-「『微笑PASTA』首播破六頂呱呱！」](http://www.ttv.com.tw/Taiwan/TTVInfo/TTVInfo1708.htm)
 3.  [1](http://www.ttv.com.tw/drama/2006/pasta/eshop.asp)
 4.  [2](http://vipblog.yam.com/events/pasta/)
-5.  何亞燕 [〈微笑PASTA
-    造孽〉](http://www.libertytimes.com.tw/2006/new/sep/5/today-o12.htm)
-    ，原刊於台灣《自由時報》2006年9月5日〈自由廣場〉。
+5.  何亞燕 [〈微笑PASTA 造孽〉](http://www.libertytimes.com.tw/2006/new/sep/5/today-o12.htm) ，原刊於台灣《自由時報》2006年9月5日〈自由廣場〉。
 6.  [消息來源：自由時報06年6月29日](http://www.epochtimes.com/b5/6/6/29/n1366865.htm)
 7.  [於2006年5月25日微笑Pasta試片會上張棟樑表示當天只是去錄音，所以大家一起去吃飯。](http://www.ettoday.com/2006/05/26/11185-1946215.htm)
-8.  [消息來源:
-    自由時報06年7月19日刊](http://forum.settv.com.tw/viewtopic.php?t=48536)
+8.  [消息來源: 自由時報06年7月19日刊](http://forum.settv.com.tw/viewtopic.php?t=48536)

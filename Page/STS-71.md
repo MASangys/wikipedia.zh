@@ -1,4 +1,4 @@
-****是历史上第六十九次[航天飞机任务](../Page/航天飞机.md "wikilink")，也是[亚特兰蒂斯号航天飞机的第十四次太空飞行](https://zh.wikipedia.org/wiki/亞特蘭提斯號太空梭 "wikilink")。
+****是历史上第六十九次[航天飞机](../Page/航天飞机.md "wikilink")任务，也是[亚特兰蒂斯号航天飞机的第十四次太空飞行](https://zh.wikipedia.org/wiki/亞特蘭提斯號太空梭 "wikilink")。
 
 ## 任务成员
 
@@ -16,12 +16,7 @@
 ### 返回：和平号18成员
 
   - **[诺曼·萨加德](../Page/诺曼·萨加德.md "wikilink")**（，曾执行、、、、以及任务）
-  - **[弗拉基米尔·德朱罗夫](https://zh.wikipedia.org/wiki/弗拉基米尔·德朱罗夫 "wikilink")**（Vladimir
-    Dezhurov）
-  - **[杰纳迪·斯特雷卡罗夫](https://zh.wikipedia.org/wiki/杰纳迪·斯特雷卡罗夫 "wikilink")**（Gennady
-    Strekalov）
+  - **[弗拉基米尔·德朱罗夫](https://zh.wikipedia.org/wiki/弗拉基米尔·德朱罗夫 "wikilink")**（Vladimir Dezhurov）
+  - **[杰纳迪·斯特雷卡罗夫](https://zh.wikipedia.org/wiki/杰纳迪·斯特雷卡罗夫 "wikilink")**（Gennady Strekalov）
 
-[Category:载人航天](https://zh.wikipedia.org/wiki/Category:载人航天 "wikilink")
-[Category:航天飞机任务](https://zh.wikipedia.org/wiki/Category:航天飞机任务 "wikilink")
-[Category:1995年6月](https://zh.wikipedia.org/wiki/Category:1995年6月 "wikilink")
-[Category:1995年7月](https://zh.wikipedia.org/wiki/Category:1995年7月 "wikilink")
+[Category:载人航天](https://zh.wikipedia.org/wiki/Category:载人航天 "wikilink") [Category:航天飞机任务](https://zh.wikipedia.org/wiki/Category:航天飞机任务 "wikilink") [Category:1995年6月](https://zh.wikipedia.org/wiki/Category:1995年6月 "wikilink") [Category:1995年7月](https://zh.wikipedia.org/wiki/Category:1995年7月 "wikilink")

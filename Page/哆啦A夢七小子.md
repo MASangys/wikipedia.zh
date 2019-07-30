@@ -2,8 +2,7 @@
 
 ## 概要
 
-《哆啦A夢七小子》原初出於[3DO](../Page/3DO.md "wikilink")[遊戲軟體](https://zh.wikipedia.org/wiki/遊戲軟體 "wikilink")《哆啦A夢
-友情傳說哆啦A夢七小子》，六位主角的設定為這部遊戲的原創人物；而這個設定方案後來經過原作者[藤子不二雄採認為正式角色設定](../Page/藤子不二雄.md "wikilink")，但基本上不會在原作登場。之後的1995年至2002年間，七小子系列以[並映作品的方式做成動畫](https://zh.wikipedia.org/wiki/哆啦A夢電影作品 "wikilink")。該漫畫分為兩種版本，分別是全六冊由原案作者[田中道明作畫的](../Page/田中道明.md "wikilink")《哆啦A夢歷險記》、和十二冊由[宮崎克編劇](https://zh.wikipedia.org/wiki/宮崎克 "wikilink")／[三谷幸廣作畫的](https://zh.wikipedia.org/wiki/三谷幸廣 "wikilink")《哆啦A夢歷險記特別篇》。
+《哆啦A夢七小子》原初出於[3DO](../Page/3DO.md "wikilink")[遊戲軟體](https://zh.wikipedia.org/wiki/遊戲軟體 "wikilink")《哆啦A夢 友情傳說哆啦A夢七小子》，六位主角的設定為這部遊戲的原創人物；而這個設定方案後來經過原作者[藤子不二雄](../Page/藤子不二雄.md "wikilink")採認為正式角色設定，但基本上不會在原作登場。之後的1995年至2002年間，七小子系列以[並映作品的方式做成動畫](https://zh.wikipedia.org/wiki/哆啦A夢電影作品 "wikilink")。該漫畫分為兩種版本，分別是全六冊由原案作者[田中道明](../Page/田中道明.md "wikilink")作畫的《哆啦A夢歷險記》、和十二冊由[宮崎克編劇](https://zh.wikipedia.org/wiki/宮崎克 "wikilink")／[三谷幸廣作畫的](https://zh.wikipedia.org/wiki/三谷幸廣 "wikilink")《哆啦A夢歷險記特別篇》。
 
 2005年四月以後的新版哆啦A夢動畫中，以未來世界為背景或哆啦A夢學生時代軼事中，並沒有包含七小子出場設定，而被帕瓦A夢等新角色取代。對此官方尚未做出正式說明。
 
@@ -39,7 +38,7 @@
   - 体色：[黄色](../Page/黄色.md "wikilink")
   - 胡须：6根，比哆啦A梦长很多（但动画版无此特征）
   - 性格：開朗直率、勇敢、魯莽急躁
-  - 喜好食物：沾滿[芥末和](https://zh.wikipedia.org/wiki/芥末 "wikilink")[番茄醬的](../Page/番茄醬.md "wikilink")[铜锣烧](https://zh.wikipedia.org/wiki/铜锣烧 "wikilink")
+  - 喜好食物：沾滿[芥末和](https://zh.wikipedia.org/wiki/芥末 "wikilink")[番茄醬](../Page/番茄醬.md "wikilink")的[铜锣烧](https://zh.wikipedia.org/wiki/铜锣烧 "wikilink")
   - 特技：射撃、套绳、棒球、格斗术、投掷
   - 優點：射擊技術好、開朗直率、果斷勇敢
   - 弱点：[恐高症](https://zh.wikipedia.org/wiki/懼高症 "wikilink")、處事欠周、魯莽急躁
@@ -78,11 +77,11 @@
   - 体色：[棕色](https://zh.wikipedia.org/wiki/棕色 "wikilink")（动画版为[橘红色](https://zh.wikipedia.org/wiki/橘红色 "wikilink")）
   - 胡须数：8根（每边四根）
   - 性格：認真有禮貌，又容易害羞
-  - 愛吃的食物：加入[醬油](https://zh.wikipedia.org/wiki/醬油 "wikilink")、[醋和](../Page/醋.md "wikilink")[辣油的](https://zh.wikipedia.org/wiki/辣油 "wikilink")[銅鑼燒](https://zh.wikipedia.org/wiki/銅鑼燒 "wikilink")
+  - 愛吃的食物：加入[醬油](https://zh.wikipedia.org/wiki/醬油 "wikilink")、[醋](../Page/醋.md "wikilink")和[辣油的](https://zh.wikipedia.org/wiki/辣油 "wikilink")[銅鑼燒](https://zh.wikipedia.org/wiki/銅鑼燒 "wikilink")
   - 特技：[功夫](../Page/功夫.md "wikilink")、[中医学](../Page/中医学.md "wikilink")、烹饪
   - 優點：成績頂尖、醫術高明、博學多聞、思路慎密、能冷靜面對危機
   - 弱點：恐女症
-  - 道具：收藏在所穿[马褂的](../Page/马褂.md "wikilink")「四次元袖子」之中
+  - 道具：收藏在所穿[马褂](../Page/马褂.md "wikilink")的「四次元袖子」之中
   - 常用武器：[雙節棍](../Page/雙節棍.md "wikilink")
   - 最尊敬的人：[李小龙](../Page/李小龙.md "wikilink")、[黄飞鸿](https://zh.wikipedia.org/wiki/黄飞鸿 "wikilink")
   - 職業：中醫助手
@@ -125,7 +124,7 @@
 <!-- end list -->
 
   -
-    如谜一般沉默寡言，唯一发出的声音就是「嗯嗯」、「呜呜」和「嗷--」，其他要表达的都是写在[纸上](../Page/纸.md "wikilink")。
+    如谜一般沉默寡言，唯一发出的声音就是「嗯嗯」、「呜呜」和「嗷--」，其他要表达的都是写在[纸](../Page/纸.md "wikilink")上。
     原是个靠"狼人系列"出名的电影演员，后来过气了，在没名的胖虎导演手下打杂，然而由于其他哆啦的帮忙和误打误撞，再次變成一線演員。
     尼可夫是个慢性子，习惯在后面默默无闻地帮助别人，因此在異性戀愛中他总是扮演忍痛割爱的角色，为喜歡的人牺牲。在動畫版的學生時代設定是與同學小桃互有好感，但漫畫版則設定為喜歡新人歌手妮娜。
 
@@ -198,8 +197,8 @@
     通稱哆啦梅度。常常自稱為「我輩」、「俺」、「吾」。说话时常用「……～」句尾。
     哆啦梅度三世表面看起来很随意懒散，但在调查方面十分有天赋。平时脾气很好，善良爱帮助人，一旦生气就会变成巨人，造成大规模破坏（毁坏建筑，甚至吹跑台风什么的）。
     给人的印象似乎很富有，但僅只是領雇主的固定薪水，資產不多，至今仍在不懈地为自己「给沙漠孩子建一座[水上遊樂園](https://zh.wikipedia.org/wiki/水上遊樂園 "wikilink")」的梦想努力存钱。
-    能操纵包括[飞毯在内的各种](https://zh.wikipedia.org/wiki/魔毯 "wikilink")[魔法](../Page/魔法.md "wikilink")，必杀技是霹雷，尤其是塔罗牌算命非常准确（可惜他从大巫师梅林手里拿到的那副牌最后被怪盗哆啦邦偷去作纪念品了），但有時候卻失敗了(有一次王哆啦在教阿恰[功夫時用力過度](../Page/功夫.md "wikilink")，他用咒語變走王多啦後卻誤中副車，踢傷正在吃[铜锣烧的](https://zh.wikipedia.org/wiki/铜锣烧 "wikilink")[哆啦A夢](https://zh.wikipedia.org/wiki/哆啦A夢_\(漫畫角色\) "wikilink"))。
-    哆啦梅度三世怕[水就像哆啦A梦怕](../Page/水.md "wikilink")[老鼠一样严重](https://zh.wikipedia.org/wiki/老鼠 "wikilink")，[游泳当然不会](../Page/游泳.md "wikilink")，泼到水就吓得晕过去。
+    能操纵包括[飞毯在内的各种](https://zh.wikipedia.org/wiki/魔毯 "wikilink")[魔法](../Page/魔法.md "wikilink")，必杀技是霹雷，尤其是塔罗牌算命非常准确（可惜他从大巫师梅林手里拿到的那副牌最后被怪盗哆啦邦偷去作纪念品了），但有時候卻失敗了(有一次王哆啦在教阿恰[功夫](../Page/功夫.md "wikilink")時用力過度，他用咒語變走王多啦後卻誤中副車，踢傷正在吃[铜锣烧的](https://zh.wikipedia.org/wiki/铜锣烧 "wikilink")[哆啦A夢](https://zh.wikipedia.org/wiki/哆啦A夢_\(漫畫角色\) "wikilink"))。
+    哆啦梅度三世怕[水](../Page/水.md "wikilink")就像哆啦A梦怕[老鼠一样严重](https://zh.wikipedia.org/wiki/老鼠 "wikilink")，[游泳](../Page/游泳.md "wikilink")当然不会，泼到水就吓得晕过去。
 
 <!-- end list -->
 
@@ -217,7 +216,7 @@
   - 体色：[黄綠色](https://zh.wikipedia.org/wiki/黄綠色 "wikilink")
   - 胡须：成米黄色的叶子型的一束。
   - 活躍地：巴西
-  - 性格：幼稚純真，连[外星人都可以在第一时间内交上朋友](../Page/外星人.md "wikilink")，所以朋友遍天下。
+  - 性格：幼稚純真，连[外星人](../Page/外星人.md "wikilink")都可以在第一时间内交上朋友，所以朋友遍天下。
   - 喜好食物：沾朝天椒油的[铜锣烧](https://zh.wikipedia.org/wiki/铜锣烧 "wikilink")
   - 特技：[足球](../Page/足球.md "wikilink")，是职业球员，也是哆啦A夢族中最具運動能力的，奔跑速度第一快。
   - 優點：踢球技術高明、跑步速度快
@@ -363,11 +362,7 @@
 ## 單行本
 
   - 「哆啦A夢歷險記」（[田中道明](../Page/田中道明.md "wikilink")）全6卷
-  - 「哆啦A夢歷險記
-    特別篇」（剧情：、绘画：[三谷幸廣](https://zh.wikipedia.org/wiki/三谷幸廣 "wikilink")）全12卷
-  - 「哆啦A夢七小子 特別篇
-    机器人学校篇」（[三谷幸廣](https://zh.wikipedia.org/wiki/三谷幸廣 "wikilink")）全3卷
+  - 「哆啦A夢歷險記 特別篇」（剧情：、绘画：[三谷幸廣](https://zh.wikipedia.org/wiki/三谷幸廣 "wikilink")）全12卷
+  - 「哆啦A夢七小子 特別篇 机器人学校篇」（[三谷幸廣](https://zh.wikipedia.org/wiki/三谷幸廣 "wikilink")）全3卷
 
-[Category:哆啦A夢七小子](https://zh.wikipedia.org/wiki/Category:哆啦A夢七小子 "wikilink")
-[Category:哆啦A夢登場角色](https://zh.wikipedia.org/wiki/Category:哆啦A夢登場角色 "wikilink")
-[Category:虛構貓型機器人](https://zh.wikipedia.org/wiki/Category:虛構貓型機器人 "wikilink")
+[Category:哆啦A夢七小子](https://zh.wikipedia.org/wiki/Category:哆啦A夢七小子 "wikilink") [Category:哆啦A夢登場角色](https://zh.wikipedia.org/wiki/Category:哆啦A夢登場角色 "wikilink") [Category:虛構貓型機器人](https://zh.wikipedia.org/wiki/Category:虛構貓型機器人 "wikilink")

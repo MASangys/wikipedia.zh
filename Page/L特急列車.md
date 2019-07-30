@@ -1,12 +1,10 @@
-[Name_Board_of_L-LimitedExpress_Lilac.jpg](https://zh.wikipedia.org/wiki/File:Name_Board_of_L-LimitedExpress_Lilac.jpg "fig:Name_Board_of_L-LimitedExpress_Lilac.jpg")的列車名牌，注意到「特急」兩字之前的圖樣化「L」字標誌\]\]
-**L特急**（[日文](https://zh.wikipedia.org/wiki/日文 "wikilink")：****或****）是[日本曾存在的一種](../Page/日本.md "wikilink")[列車等級](https://zh.wikipedia.org/wiki/日本的列車 "wikilink")，通常是日間行駛、往返班次較為密集的一種[在來線](../Page/在來線.md "wikilink")[特急（特快）列車](../Page/特別急行列車.md "wikilink")。這種列車的[特急券之車資](https://zh.wikipedia.org/wiki/特急券 "wikilink")（特急料金）與一般的特急列車同額，但在列車時刻表、列車的[頭徽](https://zh.wikipedia.org/wiki/頭徽 "wikilink")（Headmark）與[路線牌](../Page/路線牌.md "wikilink")（方向幕）上所標示的車名前面，會多打上一個圖樣化的「L」字以便與一般的特急列車有所區別。
+[Name_Board_of_L-LimitedExpress_Lilac.jpg](https://zh.wikipedia.org/wiki/File:Name_Board_of_L-LimitedExpress_Lilac.jpg "fig:Name_Board_of_L-LimitedExpress_Lilac.jpg")的列車名牌，注意到「特急」兩字之前的圖樣化「L」字標誌\]\] **L特急**（[日文](https://zh.wikipedia.org/wiki/日文 "wikilink")：****或****）是[日本](../Page/日本.md "wikilink")曾存在的一種[列車等級](https://zh.wikipedia.org/wiki/日本的列車 "wikilink")，通常是日間行駛、往返班次較為密集的一種[在來線](../Page/在來線.md "wikilink")[特急（特快）列車](../Page/特別急行列車.md "wikilink")。這種列車的[特急券之車資](https://zh.wikipedia.org/wiki/特急券 "wikilink")（特急料金）與一般的特急列車同額，但在列車時刻表、列車的[頭徽](https://zh.wikipedia.org/wiki/頭徽 "wikilink")（Headmark）與[路線牌](../Page/路線牌.md "wikilink")（方向幕）上所標示的車名前面，會多打上一個圖樣化的「L」字以便與一般的特急列車有所區別。
 
 ## 簡介
 
-在屬於舊[日本國鐵時代的](https://zh.wikipedia.org/wiki/日本國鐵 "wikilink")1972年10月2日之時刻表改點（）中，日本國鐵將[關東地區](https://zh.wikipedia.org/wiki/關東地區 "wikilink")6種、[山陽地區](https://zh.wikipedia.org/wiki/山陽地區 "wikilink")3種，總數達9種在白天時段每小時同時刻皆有發車的在來線特急列車改名為「L特急」。雖然L特急的「L」字並沒有什麼特定的意義存在，但在定位上這種每個小時定時發車的特快車，與[歐洲國家的](https://zh.wikipedia.org/wiki/歐洲 "wikilink")[城際列車](https://zh.wikipedia.org/wiki/城際列車 "wikilink")（InterCity）非常類似，其特殊之處包括[自由席](https://zh.wikipedia.org/wiki/自由席 "wikilink")（非對號入座席位）佔全車座位數的比例較一般特急高，較一般特急列車來得密集的停站，與較短的路線，因此廣受在大城市間通勤的旅客之歡迎。以某個角度來說，L特急頗有「地區性特急列車」（Local
-Limited Express）的味道存在。
+在屬於舊[日本國鐵時代的](https://zh.wikipedia.org/wiki/日本國鐵 "wikilink")1972年10月2日之時刻表改點（）中，日本國鐵將[關東地區](https://zh.wikipedia.org/wiki/關東地區 "wikilink")6種、[山陽地區](https://zh.wikipedia.org/wiki/山陽地區 "wikilink")3種，總數達9種在白天時段每小時同時刻皆有發車的在來線特急列車改名為「L特急」。雖然L特急的「L」字並沒有什麼特定的意義存在，但在定位上這種每個小時定時發車的特快車，與[歐洲國家的](https://zh.wikipedia.org/wiki/歐洲 "wikilink")[城際列車](https://zh.wikipedia.org/wiki/城際列車 "wikilink")（InterCity）非常類似，其特殊之處包括[自由席](https://zh.wikipedia.org/wiki/自由席 "wikilink")（非對號入座席位）佔全車座位數的比例較一般特急高，較一般特急列車來得密集的停站，與較短的路線，因此廣受在大城市間通勤的旅客之歡迎。以某個角度來說，L特急頗有「地區性特急列車」（Local Limited Express）的味道存在。
 
-L特急的存在有其時代背景，在當時，日本國內各大城市間的運輸大都是以[急行列車](../Page/急行列車.md "wikilink")（停站較普通車少但車資相同的快車）作為主力，而少數存在的特急列車則以全車[指定席](https://zh.wikipedia.org/wiki/指定席 "wikilink")（對號保留席位）為原則來區隔市場，因此能夠擁有特急列車服務品質與急行列車便利實惠的L特急，在高低兩種級距之間找到良好定位。但在歷經多次時刻表改點之後，除了班次設定更規則化外，特急列車也開始增設自由席，或甚至以[回數票的方式銷售特急車票](../Page/回數票.md "wikilink")，讓特急列車的使用逐漸大眾化。這種變化逐漸拉進特急與L特急之間的差別大小，再加上由於[新幹線持續建設並延伸營業範圍](../Page/新幹線.md "wikilink")，使得很多原本行駛在同樣城市間的在來線特急遭廢除，再再壓縮了L特急的生存空間，逐漸使得這種列車等級虛名化。
+L特急的存在有其時代背景，在當時，日本國內各大城市間的運輸大都是以[急行列車](../Page/急行列車.md "wikilink")（停站較普通車少但車資相同的快車）作為主力，而少數存在的特急列車則以全車[指定席](https://zh.wikipedia.org/wiki/指定席 "wikilink")（對號保留席位）為原則來區隔市場，因此能夠擁有特急列車服務品質與急行列車便利實惠的L特急，在高低兩種級距之間找到良好定位。但在歷經多次時刻表改點之後，除了班次設定更規則化外，特急列車也開始增設自由席，或甚至以[回數票](../Page/回數票.md "wikilink")的方式銷售特急車票，讓特急列車的使用逐漸大眾化。這種變化逐漸拉進特急與L特急之間的差別大小，再加上由於[新幹線](../Page/新幹線.md "wikilink")持續建設並延伸營業範圍，使得很多原本行駛在同樣城市間的在來線特急遭廢除，再再壓縮了L特急的生存空間，逐漸使得這種列車等級虛名化。
 
 1987年日本國鐵解散，拆散成六個地區性的JR（旅客鐵道）公司及其他相關營業體，分家之後各新公司對於「L特急」的定位解釋，也有些微妙的差異，甚至出現一些與當初車級定位相矛盾的情況。舉例來說，行駛於東京[上野車站與](https://zh.wikipedia.org/wiki/上野車站 "wikilink")[金澤車站間的L特急列車](https://zh.wikipedia.org/wiki/金澤車站 "wikilink")[白山號在](https://zh.wikipedia.org/wiki/白山號 "wikilink")1990年代的營運末期，僅剩下每天一班往返，與L特急當初「密集發車」的定義相悖。除此之外，越來越多公司開始以「超級某某號」的命名方式替一些快速特急列車命名，而鮮用L特急這命名方式。在這股風潮中，[JR東日本在](https://zh.wikipedia.org/wiki/JR東日本 "wikilink")2002年12月1日時，以「L特急與特急之間很難區別」的理由，率先將旗下所有獨營的L特急全都廢除，一律改為特急列車。另外[JR九州](https://zh.wikipedia.org/wiki/JR九州 "wikilink")、[JR西日本](https://zh.wikipedia.org/wiki/JR西日本 "wikilink")、[JR四國](https://zh.wikipedia.org/wiki/JR四國 "wikilink")、[JR北海道分別在](https://zh.wikipedia.org/wiki/JR北海道 "wikilink")2009年7月、2010年3月、2011年3月及2017年3月4日起不再使用L特急稱呼。2017年3月之後，僅剩[JR東海與其他業者聯營的少數列車仍保留L特急](https://zh.wikipedia.org/wiki/JR東海 "wikilink")，但JR東海已於2018年3月時刻表改點的時候，將僅有的3班L特急列車改稱為特急列車，L特急從此走入歷史\[1\]。
 
@@ -408,7 +406,7 @@ L特急的存在有其時代背景，在當時，日本國內各大城市間的�
 <tbody>
 <tr class="odd">
 <td><p>國鐵</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/神威號列車" title="wikilink">石狩</a><br />
+<td><p><a href="../Page/神威號列車.md" title="wikilink">石狩</a><br />
 （）</p></td>
 <td><p>札幌站 - 旭川站</p></td>
 <td><p>函館本線</p></td>
@@ -444,7 +442,7 @@ L特急的存在有其時代背景，在當時，日本國內各大城市間的�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/山彥號列車" title="wikilink">山彥</a><br />
+<td><p><a href="../Page/山彥號列車.md" title="wikilink">山彥</a><br />
 （）</p></td>
 <td><p>上野站 - <a href="https://zh.wikipedia.org/wiki/盛岡站" title="wikilink">盛岡站</a></p></td>
 <td><p>東北本線</p></td>
@@ -483,7 +481,7 @@ L特急的存在有其時代背景，在當時，日本國內各大城市間的�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/朱鷺號列車" title="wikilink">朱鷺</a><br />
+<td><p><a href="../Page/朱鷺號列車.md" title="wikilink">朱鷺</a><br />
 （）</p></td>
 <td><p>上野站 - <a href="https://zh.wikipedia.org/wiki/新潟站" title="wikilink">新潟站</a></p></td>
 <td><p><a href="../Page/上越線.md" title="wikilink">上越線</a></p></td>
@@ -670,7 +668,7 @@ L特急的存在有其時代背景，在當時，日本國內各大城市間的�
 <td><p>1982年11月15日</p></td>
 <td><p>改為新幹線接駁特急列車</p></td>
 <td><p>1992年7月1日</p></td>
-<td><p><a href="../Page/山形新幹線.md" title="wikilink">山形新幹線開業</a><br />
+<td><p><a href="../Page/山形新幹線.md" title="wikilink">山形新幹線</a>開業<br />
 變成新幹線列車的名稱</p></td>
 <td></td>
 </tr>
@@ -712,7 +710,7 @@ L特急的存在有其時代背景，在當時，日本國內各大城市間的�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/淺間號列車" title="wikilink">淺間</a><br />
+<td><p><a href="../Page/淺間號列車.md" title="wikilink">淺間</a><br />
 （）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/上野站" title="wikilink">上野站</a> - <a href="https://zh.wikipedia.org/wiki/長野站" title="wikilink">長野站</a></p></td>
 <td><p><a href="../Page/信越本線.md" title="wikilink">信越本線</a></p></td>
@@ -884,15 +882,13 @@ L特急的存在有其時代背景，在當時，日本國內各大城市間的�
 
 ## 參考資料
 
-[Category:日本铁路列车等级](https://zh.wikipedia.org/wiki/Category:日本铁路列车等级 "wikilink")
-[Category:日本特急列車](https://zh.wikipedia.org/wiki/Category:日本特急列車 "wikilink")
+[Category:日本铁路列车等级](https://zh.wikipedia.org/wiki/Category:日本铁路列车等级 "wikilink") [Category:日本特急列車](https://zh.wikipedia.org/wiki/Category:日本特急列車 "wikilink") [Category:2018年廢除](https://zh.wikipedia.org/wiki/Category:2018年廢除 "wikilink") [Category:1972年日本建立](https://zh.wikipedia.org/wiki/Category:1972年日本建立 "wikilink")
 
 1.
 
 2.  「あしずり」は[2003年](../Page/2003年.md "wikilink")（平成15年）10月1日から指定解除日まで、下り1本のみの運行だった。
 
-3.  「つばさ」の場合、1961年10月1日以来の上野 -
-    秋田間奥羽本線特急列車が在来線特急列車としての最終期まで1往復が設定されていた。しかし、1982年11月の東北・上越新幹線開業に際して登場した福島発着の「つばさ」が1985年の東北新幹線上野站乗り入れ以降、運行本数の大多数を占めるようになった。この新幹線接駁特急列車への變更を以て奥羽特急「つばさ」・「やまばと」は廃止、新幹線連絡特急「つばさ」と上野（暫定）乗り入れの「つばさ」・「やまばと」とみなす事例が多い。なお、「つばさ」・「やまばと」のエル特急指定は、「つばさ」の電車化による増発、運用共用化を受けてのものである。[こちらも参照されたい](https://zh.wikipedia.org/wiki/つばさ_\(列車\)#奥羽本線優等列車沿革 "wikilink")。
+3.  「つばさ」の場合、1961年10月1日以来の上野 - 秋田間奥羽本線特急列車が在来線特急列車としての最終期まで1往復が設定されていた。しかし、1982年11月の東北・上越新幹線開業に際して登場した福島発着の「つばさ」が1985年の東北新幹線上野站乗り入れ以降、運行本数の大多数を占めるようになった。この新幹線接駁特急列車への變更を以て奥羽特急「つばさ」・「やまばと」は廃止、新幹線連絡特急「つばさ」と上野（暫定）乗り入れの「つばさ」・「やまばと」とみなす事例が多い。なお、「つばさ」・「やまばと」のエル特急指定は、「つばさ」の電車化による増発、運用共用化を受けてのものである。[こちらも参照されたい](https://zh.wikipedia.org/wiki/つばさ_\(列車\)#奥羽本線優等列車沿革 "wikilink")。
 
 4.
 5.  2017年3月4日より運行されている「**ライラック**」は、「スーパーカムイ」から再度列車名變更により復活したものであり、「ライラック」としては一旦途絶えている。また、復活後はエル特急の指定を受けていない。

@@ -1,6 +1,6 @@
-[任天堂DS平台的一個](../Page/任天堂DS.md "wikilink")[動作遊戲](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")，於2006年11月23日發行，為2005年8月8日發行的的繼承作品。
+[任天堂DS](../Page/任天堂DS.md "wikilink")平台的一個[動作遊戲](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")，於2006年11月23日發行，為2005年8月8日發行的的繼承作品。
 
-此[電子遊戲集合了](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")[日本杂志](../Page/日本.md "wikilink")《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》刊登的41部[漫畫中的角色](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，共305人。
+此[電子遊戲集合了](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")[日本](../Page/日本.md "wikilink")杂志《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》刊登的41部[漫畫中的角色](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，共305人。
 
 ## 遊戲系統
 
@@ -12,13 +12,4 @@
 
   - [官方网站](http://www.nintendo.co.jp/ds/ajuj/index.html)
 
-[Category:2006年电子游戏](https://zh.wikipedia.org/wiki/Category:2006年电子游戏 "wikilink")
-[Category:動作遊戲](https://zh.wikipedia.org/wiki/Category:動作遊戲 "wikilink")
-[Category:任天堂遊戲](https://zh.wikipedia.org/wiki/Category:任天堂遊戲 "wikilink")
-[Category:任天堂DS遊戲](https://zh.wikipedia.org/wiki/Category:任天堂DS遊戲 "wikilink")
-[Category:任天堂DS独占游戏](https://zh.wikipedia.org/wiki/Category:任天堂DS独占游戏 "wikilink")
-[Category:任天堂Wi-Fi连接游戏](https://zh.wikipedia.org/wiki/Category:任天堂Wi-Fi连接游戏 "wikilink")
-[Category:后传电子游戏](https://zh.wikipedia.org/wiki/Category:后传电子游戏 "wikilink")
-[Category:漫畫改編電子遊戲](https://zh.wikipedia.org/wiki/Category:漫畫改編電子遊戲 "wikilink")
-[Category:電子遊戲跨界作品](https://zh.wikipedia.org/wiki/Category:電子遊戲跨界作品 "wikilink")
-[Category:日本开发电子游戏](https://zh.wikipedia.org/wiki/Category:日本开发电子游戏 "wikilink")
+[Category:2006年电子游戏](https://zh.wikipedia.org/wiki/Category:2006年电子游戏 "wikilink") [Category:動作遊戲](https://zh.wikipedia.org/wiki/Category:動作遊戲 "wikilink") [Category:任天堂遊戲](https://zh.wikipedia.org/wiki/Category:任天堂遊戲 "wikilink") [Category:任天堂DS遊戲](https://zh.wikipedia.org/wiki/Category:任天堂DS遊戲 "wikilink") [Category:任天堂DS独占游戏](https://zh.wikipedia.org/wiki/Category:任天堂DS独占游戏 "wikilink") [Category:任天堂Wi-Fi连接游戏](https://zh.wikipedia.org/wiki/Category:任天堂Wi-Fi连接游戏 "wikilink") [Category:后传电子游戏](https://zh.wikipedia.org/wiki/Category:后传电子游戏 "wikilink") [Category:漫畫改編電子遊戲](https://zh.wikipedia.org/wiki/Category:漫畫改編電子遊戲 "wikilink") [Category:電子遊戲跨界作品](https://zh.wikipedia.org/wiki/Category:電子遊戲跨界作品 "wikilink") [Category:日本开发电子游戏](https://zh.wikipedia.org/wiki/Category:日本开发电子游戏 "wikilink")

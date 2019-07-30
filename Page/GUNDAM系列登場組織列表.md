@@ -2,7 +2,7 @@
 
 ## 宇宙世纪（Universal Century, U.C.）系列作品
 
-（大陆译名中，[一年战争部分参照简体中文版](../Page/一年战争.md "wikilink")《[机动战士敢达-{zh-hans:在线;zh-hk:在綫;zh-tw:在綫;}-](https://zh.wikipedia.org/wiki/机动战士敢达在线 "wikilink")》译名，其余以约定俗成的称谓为准）
+（大陆译名中，[一年战争](../Page/一年战争.md "wikilink")部分参照简体中文版《[机动战士敢达-{zh-hans:在线;zh-hk:在綫;zh-tw:在綫;}-](https://zh.wikipedia.org/wiki/机动战士敢达在线 "wikilink")》译名，其余以约定俗成的称谓为准）
 
 <table>
 <tbody>

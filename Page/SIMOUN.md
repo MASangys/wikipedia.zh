@@ -1,10 +1,10 @@
-**SIMOUN**（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：シムーン），中文譯名**西蒙**，為2006年出版的一套[日本電視動畫影集](../Page/日本.md "wikilink")，隨後亦出版一系列的漫畫與小說。
+**SIMOUN**（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：シムーン），中文譯名**西蒙**，為2006年出版的一套[日本](../Page/日本.md "wikilink")電視動畫影集，隨後亦出版一系列的漫畫與小說。
 
 ## 概觀
 
 在一個不知名星球上，人們自稱其生活的世界為「大空陸」。每個人都是以[女性](../Page/女性.md "wikilink")（又稱為「未定性」）的身分出生。大陸的國家以宮國（シムラークルム宮國）為中心，其周圍則有嶺國（プルンブム嶺國）與礁國（アルゲントゥム礁國）。
 
-在宮國裡，司政院負責行政，司兵院掌管軍事，宮守掌管宗教祭祀。人民以[農耕為主](https://zh.wikipedia.org/wiki/農耕 "wikilink")，安居樂業。[宗教](../Page/宗教.md "wikilink")[遺跡亦在宮國境內](../Page/遺跡.md "wikilink")。宮國作為全大陸的[信仰中心](https://zh.wikipedia.org/wiki/信仰 "wikilink")，擁有「泉」，[未成年人](https://zh.wikipedia.org/wiki/未成年人 "wikilink")17歲時便前往「泉」，以自己決定自己的[性別](https://zh.wikipedia.org/wiki/性別 "wikilink")，之後才算成年。十七歲這個時點是固定的，有人對定性感到不安，有人則是期待，但幾乎沒有人去質疑；這是宮國文化的一部份。
+在宮國裡，司政院負責行政，司兵院掌管軍事，宮守掌管宗教祭祀。人民以[農耕為主](https://zh.wikipedia.org/wiki/農耕 "wikilink")，安居樂業。[宗教](../Page/宗教.md "wikilink")[遺跡](../Page/遺跡.md "wikilink")亦在宮國境內。宮國作為全大陸的[信仰中心](https://zh.wikipedia.org/wiki/信仰 "wikilink")，擁有「泉」，[未成年人](https://zh.wikipedia.org/wiki/未成年人 "wikilink")17歲時便前往「泉」，以自己決定自己的[性別](https://zh.wikipedia.org/wiki/性別 "wikilink")，之後才算成年。十七歲這個時點是固定的，有人對定性感到不安，有人則是期待，但幾乎沒有人去質疑；這是宮國文化的一部份。
 
 很久很久以前，宮國從地底掘出名為「Simoun」的[飛行器](https://zh.wikipedia.org/wiki/飛行器 "wikilink")，並將它視為不可褻瀆的「神之座騎」。「Simoun」只有未定性的少女可以搭乘，她們被宮國人民視為[巫女](../Page/巫女.md "wikilink")，稱呼她們為「Simoun西貝拉」；Simoun西貝拉們能藉著Simoun，在天空中以光之[航跡繪出](https://zh.wikipedia.org/wiki/航跡 "wikilink")「紋章」，作為獻給神的[祈禱](https://zh.wikipedia.org/wiki/祈禱 "wikilink")，這也是巫女們最重要的工作。
 
@@ -251,8 +251,7 @@
 
   - 監督：[西村純二](../Page/西村純二.md "wikilink")
   - 角色設定・總作畫監督：[西田 亜沙子](https://zh.wikipedia.org/wiki/西田_亜沙子 "wikilink")
-  - 機械設定：[Jin Seob
-    Song](https://zh.wikipedia.org/wiki/Jin_Seob_Song "wikilink")
+  - 機械設定：[Jin Seob Song](https://zh.wikipedia.org/wiki/Jin_Seob_Song "wikilink")
   - 美術監督：[小林 七郎](https://zh.wikipedia.org/wiki/小林_七郎 "wikilink")
   - 概念設計：[長濱 博史](https://zh.wikipedia.org/wiki/長濱_博史 "wikilink")
   - 動畫製作：[スタジオディーン](https://zh.wikipedia.org/wiki/スタジオディーン "wikilink")
@@ -261,9 +260,7 @@
   - 音樂制作：[ビクターエンタテインメント](https://zh.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")
   - 音樂製作人：[野崎 圭一](https://zh.wikipedia.org/wiki/野崎_圭一 "wikilink")
   - 音樂：[佐橋 俊彦](https://zh.wikipedia.org/wiki/佐橋_俊彦 "wikilink")
-  - 原作：[小山田風狂子](https://zh.wikipedia.org/wiki/小山田風狂子 "wikilink")／[篠吉
-    祥](https://zh.wikipedia.org/wiki/篠吉_祥 "wikilink")・[美原
-    轟](https://zh.wikipedia.org/wiki/美原_轟 "wikilink")
+  - 原作：[小山田風狂子](https://zh.wikipedia.org/wiki/小山田風狂子 "wikilink")／[篠吉 祥](https://zh.wikipedia.org/wiki/篠吉_祥 "wikilink")・[美原 轟](https://zh.wikipedia.org/wiki/美原_轟 "wikilink")
   - 製作：シムーン製作委員会
 
 ## 主題曲
@@ -272,8 +269,7 @@
 
 　　作詞・作曲：石川智晶　編曲：西田マサラ
 
-  - 片尾曲：[savage
-    genius](https://zh.wikipedia.org/wiki/savage_genius "wikilink")「祈りの詩」
+  - 片尾曲：[savage genius](https://zh.wikipedia.org/wiki/savage_genius "wikilink")「祈りの詩」
 
 　　作詞：ああ　作曲：Takumi　編曲：鈴木daichi秀行
 
@@ -293,10 +289,8 @@
 
   - 『Simoun』
 
-　　[速瀬羽柴作畫](https://zh.wikipedia.org/wiki/速瀬羽柴 "wikilink")，連載於『季刊コミック[百合姫](https://zh.wikipedia.org/wiki/百合姫 "wikilink")』，[一迅社出版](../Page/一迅社.md "wikilink")，1\~3話完。
-\*『シムーン ～まじかる美勇伝～』
-　　[あきづき弥作畫](https://zh.wikipedia.org/wiki/あきづき弥 "wikilink")。開始連載於2006年8月號（Vol.75）的『[Megami
-MAGAZINE](../Page/Megami_MAGAZINE.md "wikilink")』，[学習研究社出版](https://zh.wikipedia.org/wiki/学習研究社 "wikilink")。
+　　[速瀬羽柴作畫](https://zh.wikipedia.org/wiki/速瀬羽柴 "wikilink")，連載於『季刊コミック[百合姫](https://zh.wikipedia.org/wiki/百合姫 "wikilink")』，[一迅社](../Page/一迅社.md "wikilink")出版，1\~3話完。
+\*『シムーン ～まじかる美勇伝～』 　　[あきづき弥作畫](https://zh.wikipedia.org/wiki/あきづき弥 "wikilink")。開始連載於2006年8月號（Vol.75）的『[Megami MAGAZINE](../Page/Megami_MAGAZINE.md "wikilink")』，[学習研究社出版](https://zh.wikipedia.org/wiki/学習研究社 "wikilink")。
 \=== 廣播 ===
 
   - 『』第1回～第26回
@@ -305,8 +299,7 @@ MAGAZINE](../Page/Megami_MAGAZINE.md "wikilink")』，[学習研究社出版](ht
 
 ### 電玩
 
-  - 『SIMOUN
-    異薔薇戦争\~封印のリ・マージョン\~』（[PS2](https://zh.wikipedia.org/wiki/PS2 "wikilink")）
+  - 『SIMOUN 異薔薇戦争\~封印のリ・マージョン\~』（[PS2](https://zh.wikipedia.org/wiki/PS2 "wikilink")）
 
 　　動畫中第9話\~第14話為主要舞台。
 　　除了原有角色外，新增兩名關鍵的遊戲人物アーシュラ（配音員：[福圓美里](../Page/福圓美里.md "wikilink")）、サイルサンドラ（配音員：喜多村英梨）
@@ -323,24 +316,14 @@ MAGAZINE](../Page/Megami_MAGAZINE.md "wikilink")』，[学習研究社出版](ht
   - [東京電視台 シムーン](http://www.tv-tokyo.co.jp/anime/simoun/)
   - [西田亞沙子個人網站](http://www.eonet.ne.jp/~berries/menu.html)
   - [一迅社 コミック百合姫](http://www.ichijinsha.co.jp/yurihime/) 漫畫
-  - [<音泉> Simoun～電波 DE
-    リ・マージョン～](https://web.archive.org/web/20070118073520/http://onsen.ag/popup/simoun.html)
-    廣播
-  - [SIMOUN
-    異薔薇戦争\~封印のリ・マージョン\~](https://web.archive.org/web/20060705185528/http://www.mmv-i.net/game/ps2/simoun/)
-    遊戲
+  - [<音泉> Simoun～電波 DE リ・マージョン～](https://web.archive.org/web/20070118073520/http://onsen.ag/popup/simoun.html) 廣播
+  - [SIMOUN 異薔薇戦争\~封印のリ・マージョン\~](https://web.archive.org/web/20060705185528/http://www.mmv-i.net/game/ps2/simoun/) 遊戲
   - [シムーン情報まとめWiki](https://web.archive.org/web/20061128201831/http://bf02.bfit.jp/~dempa/simoun/wiki/)
   - [シムーン保管庫](https://web.archive.org/web/20061024011120/http://uppers.servebbs.com/simoun/upload.php)
 
 **其他地區**
 
   - [西蒙專題](http://simoun.ffsky.cn/index.htm)（中文簡體）
-  - [Simoun Hasegawa Vimana airframe world Fan
-    Page](http://www.geocities.jp/emiri_0623/simoun02-e1.htm)（英／日）
+  - [Simoun Hasegawa Vimana airframe world Fan Page](http://www.geocities.jp/emiri_0623/simoun02-e1.htm)（英／日）
 
-[Category:2006年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2006年東京電視網動畫 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink")
-[Category:百合_(類型)](https://zh.wikipedia.org/wiki/Category:百合_\(類型\) "wikilink")
-[Category:虛構行星背景作品](https://zh.wikipedia.org/wiki/Category:虛構行星背景作品 "wikilink")
-[Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
+[Category:2006年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2006年東京電視網動畫 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink") [Category:百合_(類型)](https://zh.wikipedia.org/wiki/Category:百合_\(類型\) "wikilink") [Category:虛構行星背景作品](https://zh.wikipedia.org/wiki/Category:虛構行星背景作品 "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")

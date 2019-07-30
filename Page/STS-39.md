@@ -10,8 +10,4 @@
   - **[唐纳德·麦克蒙纳格](https://zh.wikipedia.org/wiki/唐纳德·麦克蒙纳格 "wikilink")**（，曾执行、以及任务），任务专家
   - **[查尔斯·维茨](https://zh.wikipedia.org/wiki/查尔斯·维茨 "wikilink")**（，曾执行以及任务），任务专家
 
-[Category:1991年美国](https://zh.wikipedia.org/wiki/Category:1991年美国 "wikilink")
-[Category:1991年科學](https://zh.wikipedia.org/wiki/Category:1991年科學 "wikilink")
-[Category:发现号航天飞机任务](https://zh.wikipedia.org/wiki/Category:发现号航天飞机任务 "wikilink")
-[Category:1991年4月](https://zh.wikipedia.org/wiki/Category:1991年4月 "wikilink")
-[Category:1991年5月](https://zh.wikipedia.org/wiki/Category:1991年5月 "wikilink")
+[Category:1991年美国](https://zh.wikipedia.org/wiki/Category:1991年美国 "wikilink") [Category:1991年科學](https://zh.wikipedia.org/wiki/Category:1991年科學 "wikilink") [Category:发现号航天飞机任务](https://zh.wikipedia.org/wiki/Category:发现号航天飞机任务 "wikilink") [Category:1991年4月](https://zh.wikipedia.org/wiki/Category:1991年4月 "wikilink") [Category:1991年5月](https://zh.wikipedia.org/wiki/Category:1991年5月 "wikilink")

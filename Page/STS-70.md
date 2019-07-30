@@ -8,7 +8,4 @@
   - **[唐纳德·托马斯](https://zh.wikipedia.org/wiki/唐纳德·托马斯 "wikilink")**（，曾执行、、以及任务），任务专家
   - **[玛丽·韦伯](https://zh.wikipedia.org/wiki/玛丽·韦伯 "wikilink")**（，曾执行以及任务），任务专家
 
-[Category:1995年美国](https://zh.wikipedia.org/wiki/Category:1995年美国 "wikilink")
-[Category:1995年科學](https://zh.wikipedia.org/wiki/Category:1995年科學 "wikilink")
-[Category:发现号航天飞机任务](https://zh.wikipedia.org/wiki/Category:发现号航天飞机任务 "wikilink")
-[Category:1995年7月](https://zh.wikipedia.org/wiki/Category:1995年7月 "wikilink")
+[Category:1995年美国](https://zh.wikipedia.org/wiki/Category:1995年美国 "wikilink") [Category:1995年科學](https://zh.wikipedia.org/wiki/Category:1995年科學 "wikilink") [Category:发现号航天飞机任务](https://zh.wikipedia.org/wiki/Category:发现号航天飞机任务 "wikilink") [Category:1995年7月](https://zh.wikipedia.org/wiki/Category:1995年7月 "wikilink")

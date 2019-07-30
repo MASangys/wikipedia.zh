@@ -1,12 +1,8 @@
-**Big
-City遠東巨城購物中心**，是一座位於臺灣[新竹市](https://zh.wikipedia.org/wiki/新竹市 "wikilink")[東區的大型](../Page/東區_\(新竹市\).md "wikilink")[購物中心](https://zh.wikipedia.org/wiki/購物中心 "wikilink")，其商場總樓板面積為102,376坪，營業面積71,500坪，總土地面積11,920坪。本購物中心工程由1999年開始興建直至2003年開幕，當時的「風城購物中心」號稱是全東南亞最大的娛樂休閒購物中心。但是因設計及內部規畫不良，在2006年以後便因經營不善而大量負債，內部店家開始撤資，僅存少數幾家店面慘澹經營。到2007年底，因長久積欠電費之故遭到斷電。在剩餘的店家撤出之後，風城購物中心停止營業，於2009年底以前尚未有恢復營業的計畫。在2010年3月，傳出臺灣金聯資產管理公司以及中國長城資產管理公司表達了重新開發與投資本購物中心的意願。
-到了5月中旬，經過前2次拍賣流標後， 此棟建築終於在第3次拍賣中，被遠東集團透過競標取得產權與經營權。原預計於2011年12月初，以「Big
-City遠東巨城購物中心」的面貌重新開幕，因管線配置延至2012年4月28日開幕，為北台灣最大購物中心\[1\]。2015年起，突破台灣百貨公司業的目標一百億營業額，擠進台灣前8大營業額百貨、購物中心。2017年上半年[Facebook打卡數位居全臺第二](../Page/Facebook.md "wikilink")，250萬次僅次於[桃園國際機場](https://zh.wikipedia.org/wiki/桃園國際機場 "wikilink")\[2\]\[3\]，並宣布將隔壁旅館棟納入購物中心空間，引進更多知名品牌，定名為「創藝大樓」，於2018年6月15日正式納入營運\[4\]。
+**Big City遠東巨城購物中心**，是一座位於臺灣[新竹市](https://zh.wikipedia.org/wiki/新竹市 "wikilink")[東區的大型](../Page/東區_\(新竹市\).md "wikilink")[購物中心](https://zh.wikipedia.org/wiki/購物中心 "wikilink")，其商場總樓板面積為102,376坪，營業面積71,500坪，總土地面積11,920坪。本購物中心工程由1999年開始興建直至2003年開幕，當時的「風城購物中心」號稱是全東南亞最大的娛樂休閒購物中心。但是因設計及內部規畫不良，在2006年以後便因經營不善而大量負債，內部店家開始撤資，僅存少數幾家店面慘澹經營。到2007年底，因長久積欠電費之故遭到斷電。在剩餘的店家撤出之後，風城購物中心停止營業，於2009年底以前尚未有恢復營業的計畫。在2010年3月，傳出臺灣金聯資產管理公司以及中國長城資產管理公司表達了重新開發與投資本購物中心的意願。 到了5月中旬，經過前2次拍賣流標後， 此棟建築終於在第3次拍賣中，被遠東集團透過競標取得產權與經營權。原預計於2011年12月初，以「Big City遠東巨城購物中心」的面貌重新開幕，因管線配置延至2012年4月28日開幕，為北台灣最大購物中心\[1\]。2015年起，突破台灣百貨公司業的目標一百億營業額，擠進台灣前8大營業額百貨、購物中心。2017年上半年[Facebook](../Page/Facebook.md "wikilink")打卡數位居全臺第二，250萬次僅次於[桃園國際機場](https://zh.wikipedia.org/wiki/桃園國際機場 "wikilink")\[2\]\[3\]，並宣布將隔壁旅館棟納入購物中心空間，引進更多知名品牌，定名為「創藝大樓」，於2018年6月15日正式納入營運\[4\]。
 
 ## 風城購物中心時期（2001年-2007年）
 
-風城購物中心興建計畫之總投資金額達[新臺幣](../Page/新臺幣.md "wikilink")160億，被[行政院經建會列為](https://zh.wikipedia.org/wiki/行政院經建會 "wikilink")「民間建設重大投資案」。其股東團隊及持份比例為：雍聯公司（大雍集團）（67%）、利台紡織（14%）、[中華開發工業銀行](https://zh.wikipedia.org/wiki/中華開發工業銀行 "wikilink")<span style="font-size:smaller;">[（註1）](https://zh.wikipedia.org/wiki/#備註 "wikilink")</span>（5%）、[新竹國際商業銀行](https://zh.wikipedia.org/wiki/渣打國際商業銀行 "wikilink")<span style="font-size:smaller;">[（註2）](https://zh.wikipedia.org/wiki/#備註 "wikilink")</span>（3%）、其他（11%）。\[5\]
-[Taiwan_WINDANCE_Shopping_Mall_Map.png](https://zh.wikipedia.org/wiki/File:Taiwan_WINDANCE_Shopping_Mall_Map.png "fig:Taiwan_WINDANCE_Shopping_Mall_Map.png")
+風城購物中心興建計畫之總投資金額達[新臺幣](../Page/新臺幣.md "wikilink")160億，被[行政院經建會列為](https://zh.wikipedia.org/wiki/行政院經建會 "wikilink")「民間建設重大投資案」。其股東團隊及持份比例為：雍聯公司（大雍集團）（67%）、利台紡織（14%）、[中華開發工業銀行](https://zh.wikipedia.org/wiki/中華開發工業銀行 "wikilink")<span style="font-size:smaller;">[（註1）](https://zh.wikipedia.org/wiki/#備註 "wikilink")</span>（5%）、[新竹國際商業銀行](https://zh.wikipedia.org/wiki/渣打國際商業銀行 "wikilink")<span style="font-size:smaller;">[（註2）](https://zh.wikipedia.org/wiki/#備註 "wikilink")</span>（3%）、其他（11%）。\[5\] [Taiwan_WINDANCE_Shopping_Mall_Map.png](https://zh.wikipedia.org/wiki/File:Taiwan_WINDANCE_Shopping_Mall_Map.png "fig:Taiwan_WINDANCE_Shopping_Mall_Map.png")
 
 1999年，開始興建；2003年，正式開幕。
 
@@ -30,34 +26,15 @@ City遠東巨城購物中心」的面貌重新開幕，因管線配置延至2012
 
 #### 遠東巨城購物中心
 
-Big
-City可分為兩大部份，一邊為[遠東巨城購物中心](https://zh.wikipedia.org/wiki/遠東巨城購物中心 "wikilink")，另一邊為[遠東SOGO百貨](../Page/太平洋崇光百貨.md "wikilink")。在巨城Mall方面，地下1樓為較大型的店，例如[city'super](https://zh.wikipedia.org/wiki/c!ty'super "wikilink")、[UNIQLO](https://zh.wikipedia.org/wiki/UNIQLO "wikilink")、[GU](../Page/GU.md "wikilink")、、[無印良品](../Page/無印良品.md "wikilink")、[大創百貨](../Page/大創百貨.md "wikilink")、[宜得利家居](../Page/宜得利.md "wikilink")、[MINISO名創優品](../Page/名創優品.md "wikilink")、藍色尾巴寵物用品店、Tomod's、[LOG-ON](https://zh.wikipedia.org/wiki/c!ty'super "wikilink")、早點名露營用品店、[Family
-Mart全家便利商店等店](../Page/全家便利商店.md "wikilink")。3C區則在1樓及地下1樓，地下一樓有除了知名3C品牌[OPPO](../Page/OPPO.md "wikilink")、[SONY
-Smartphone](../Page/Xperia.md "wikilink")、[華為](https://zh.wikipedia.org/wiki/華為 "wikilink")、集雅社、[遠傳等](https://zh.wikipedia.org/wiki/遠傳 "wikilink")，一樓則有[德誼Apple](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")、[BOSE](../Page/博士音響.md "wikilink")、[SONY](https://zh.wikipedia.org/wiki/SONY "wikilink")。地下3樓為[愛買量販店](../Page/愛買.md "wikilink")。
+Big City可分為兩大部份，一邊為[遠東巨城購物中心](https://zh.wikipedia.org/wiki/遠東巨城購物中心 "wikilink")，另一邊為[遠東SOGO百貨](../Page/太平洋崇光百貨.md "wikilink")。在巨城Mall方面，地下1樓為較大型的店，例如[city'super](https://zh.wikipedia.org/wiki/c!ty'super "wikilink")、[UNIQLO](https://zh.wikipedia.org/wiki/UNIQLO "wikilink")、[GU](../Page/GU.md "wikilink")、、[無印良品](../Page/無印良品.md "wikilink")、[大創百貨](../Page/大創百貨.md "wikilink")、[宜得利](../Page/宜得利.md "wikilink")家居、[MINISO名創優品](../Page/名創優品.md "wikilink")、藍色尾巴寵物用品店、Tomod's、[LOG-ON](https://zh.wikipedia.org/wiki/c!ty'super "wikilink")、早點名露營用品店、[Family Mart全家便利商店等店](../Page/全家便利商店.md "wikilink")。3C區則在1樓及地下1樓，地下一樓有除了知名3C品牌[OPPO](../Page/OPPO.md "wikilink")、[SONY Smartphone](../Page/Xperia.md "wikilink")、[華為](https://zh.wikipedia.org/wiki/華為 "wikilink")、集雅社、[遠傳等](https://zh.wikipedia.org/wiki/遠傳 "wikilink")，一樓則有[德誼Apple](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")、[BOSE](../Page/博士音響.md "wikilink")、[SONY](https://zh.wikipedia.org/wiki/SONY "wikilink")。地下3樓為[愛買](../Page/愛買.md "wikilink")量販店。
 
-1樓為國際休閒服飾大店有[GAP](https://zh.wikipedia.org/wiki/Gap_\(服飾\) "wikilink")、H\&M、[PUMA
-SELECT](../Page/PUMA.md "wikilink")、[Nike Kicks
-Lounge](https://zh.wikipedia.org/wiki/Nike "wikilink")、[The North
-Face黑標等潮流店](https://zh.wikipedia.org/wiki/北臉 "wikilink")，更有知名的[星巴克](https://zh.wikipedia.org/wiki/星巴克 "wikilink")（STARBUCKS）及[PAUL麵包店](https://zh.wikipedia.org/wiki/PAUL餐廳 "wikilink")。2樓為OUTDOOR區，有[ESPRIT](https://zh.wikipedia.org/wiki/思捷环球 "wikilink")、SISLEY（[班尼顿子品牌](../Page/班尼顿.md "wikilink")）及眾多露營品牌等。3樓為流行少男及少女區，有ABC
-Mart MEGA
-STAGE、及各式服飾品牌等，4樓為美食街及[威秀影城](../Page/威秀影城.md "wikilink")，美食街有台灣復古、日式江戶及法式庭園風格等裝潢設計，共有33家店。5樓則是[誠品書店](../Page/誠品書店.md "wikilink")、生活工場、iloom怡倫家居、WHY
-AND 1/2、媽媽餵和Funbox等玩具親子街，6樓是世界健身俱樂部及永續號。
+1樓為國際休閒服飾大店有[GAP](https://zh.wikipedia.org/wiki/Gap_\(服飾\) "wikilink")、H\&M、[PUMA SELECT](../Page/PUMA.md "wikilink")、[Nike Kicks Lounge](https://zh.wikipedia.org/wiki/Nike "wikilink")、[The North Face黑標等潮流店](https://zh.wikipedia.org/wiki/北臉 "wikilink")，更有知名的[星巴克](https://zh.wikipedia.org/wiki/星巴克 "wikilink")（STARBUCKS）及[PAUL麵包店](https://zh.wikipedia.org/wiki/PAUL餐廳 "wikilink")。2樓為OUTDOOR區，有[ESPRIT](https://zh.wikipedia.org/wiki/思捷环球 "wikilink")、SISLEY（[班尼顿](../Page/班尼顿.md "wikilink")子品牌）及眾多露營品牌等。3樓為流行少男及少女區，有ABC Mart MEGA STAGE、及各式服飾品牌等，4樓為美食街及[威秀影城](../Page/威秀影城.md "wikilink")，美食街有台灣復古、日式江戶及法式庭園風格等裝潢設計，共有33家店。5樓則是[誠品書店](../Page/誠品書店.md "wikilink")、生活工場、iloom怡倫家居、WHY AND 1/2、媽媽餵和Funbox等玩具親子街，6樓是世界健身俱樂部及永續號。
 
-7樓是舊金山大街，包含了一些大型餐廳，有[瓦城泰國料理](https://zh.wikipedia.org/wiki/瓦城 "wikilink")、涓豆腐韓式料理、[彌生軒日式定食](../Page/彌生軒.md "wikilink")、鬥牛士牛排專賣店、開飯川食堂、銀湯匙泰式火鍋、BELLINI
-PASTA
-PASTA貝里尼義大利麵餐廳、天吉屋、大碼頭海鮮餐廳、京都勝牛、晴木千層豬排、時時香、乾杯燒肉和仿製的[金門大橋](https://zh.wikipedia.org/wiki/金門大橋 "wikilink")(Golden
-Gate
-Bridge)及漁人碼頭、1:1舊金山叮噹車，以及追風冰上世界和[玩具反斗城](../Page/玩具反斗城.md "wikilink")，最後8樓是運動大街、主題餐廳，包含了大魯閣[棒球打擊練習場](https://zh.wikipedia.org/wiki/棒球打擊練習場 "wikilink")、保齡球場、高爾夫球模擬場、星際戰場、及[湯姆熊歡樂世界和銅盤韓式燒烤](../Page/湯姆熊歡樂世界.md "wikilink")。
+7樓是舊金山大街，包含了一些大型餐廳，有[瓦城泰國料理](https://zh.wikipedia.org/wiki/瓦城 "wikilink")、涓豆腐韓式料理、[彌生軒](../Page/彌生軒.md "wikilink")日式定食、鬥牛士牛排專賣店、開飯川食堂、銀湯匙泰式火鍋、BELLINI PASTA PASTA貝里尼義大利麵餐廳、天吉屋、大碼頭海鮮餐廳、京都勝牛、晴木千層豬排、時時香、乾杯燒肉和仿製的[金門大橋](https://zh.wikipedia.org/wiki/金門大橋 "wikilink")(Golden Gate Bridge)及漁人碼頭、1:1舊金山叮噹車，以及追風冰上世界和[玩具反斗城](../Page/玩具反斗城.md "wikilink")，最後8樓是運動大街、主題餐廳，包含了大魯閣[棒球打擊練習場](https://zh.wikipedia.org/wiki/棒球打擊練習場 "wikilink")、保齡球場、高爾夫球模擬場、星際戰場、及[湯姆熊歡樂世界](../Page/湯姆熊歡樂世界.md "wikilink")和銅盤韓式燒烤。
 
-整體室內裝修的設計由英國設計公司 concept i及香港負責，將美式購物中心的氛圍帶入每層樓的設計中，例如1樓挑空區上方，鮮豔的Big
-City
-logo與地面的大同心圓造型相呼應，各個樓層皆以3米以上的挑高及6米的走道重新塑造舒適的購物空間，更賦予不同的空間設計概念，例如3樓針對流行少男及少女打造專屬的品牌迴廊，以及日系辣妹風格的專區，更有潮流鞋區ABC
-Mart MEGA
-STAGE；4樓美食街的設計更是環繞著台灣復古設計的風格及日系造景和法式庭園風格的美食的區域，仿真的大榕樹、人力車、票亭及仿舊的櫃台，更讓整體氣氛營造的更加生動。
+整體室內裝修的設計由英國設計公司 concept i及香港負責，將美式購物中心的氛圍帶入每層樓的設計中，例如1樓挑空區上方，鮮豔的Big City logo與地面的大同心圓造型相呼應，各個樓層皆以3米以上的挑高及6米的走道重新塑造舒適的購物空間，更賦予不同的空間設計概念，例如3樓針對流行少男及少女打造專屬的品牌迴廊，以及日系辣妹風格的專區，更有潮流鞋區ABC Mart MEGA STAGE；4樓美食街的設計更是環繞著台灣復古設計的風格及日系造景和法式庭園風格的美食的區域，仿真的大榕樹、人力車、票亭及仿舊的櫃台，更讓整體氣氛營造的更加生動。
 
-6樓的空間除知名的健身俱樂部外，更有從花博[流行館移設的環生方舟](https://zh.wikipedia.org/wiki/流行館 "wikilink")，為遠東集團投注在綠色環保的心力上增色不少。7樓更以舊金山漁人碼頭的街景來打造，除重新以1:12的比例縮小來打造知名的金門大橋外，Pier
-39([39號碼頭](https://zh.wikipedia.org/wiki/39號碼頭 "wikilink"))更是完整被呈現在整個走道上，知名的螃蟹造型地標以及噹噹車（Lum
-Lum Bus），都以一比一的比例來呈現，打造出濃厚的美西舊金山碼頭的氣氛。
+6樓的空間除知名的健身俱樂部外，更有從花博[流行館移設的環生方舟](https://zh.wikipedia.org/wiki/流行館 "wikilink")，為遠東集團投注在綠色環保的心力上增色不少。7樓更以舊金山漁人碼頭的街景來打造，除重新以1:12的比例縮小來打造知名的金門大橋外，Pier 39([39號碼頭](https://zh.wikipedia.org/wiki/39號碼頭 "wikilink"))更是完整被呈現在整個走道上，知名的螃蟹造型地標以及噹噹車（Lum Lum Bus），都以一比一的比例來呈現，打造出濃厚的美西舊金山碼頭的氣氛。
 
 #### 遠東SOGO百貨
 
@@ -65,7 +42,7 @@ Lum Bus），都以一比一的比例來呈現，打造出濃厚的美西舊金�
 
 ## 歷史
 
-[Taiwan_WINDANCE_Shopping_Mall.JPG](https://zh.wikipedia.org/wiki/File:Taiwan_WINDANCE_Shopping_Mall.JPG "fig:Taiwan_WINDANCE_Shopping_Mall.JPG")[Taiwan_WINDANCE_Shopping_Mall_Night.JPG](https://zh.wikipedia.org/wiki/File:Taiwan_WINDANCE_Shopping_Mall_Night.JPG "fig:Taiwan_WINDANCE_Shopping_Mall_Night.JPG")[巨城的外觀.jpg](https://zh.wikipedia.org/wiki/File:巨城的外觀.jpg "fig:巨城的外觀.jpg")1913至1952年，購物中心之原址曾為[新竹糖廠廠區](../Page/新竹糖廠.md "wikilink")。<span style="font-size:smaller;">[（註4）](https://zh.wikipedia.org/wiki/#備註 "wikilink")</span>\[21\]
+[Taiwan_WINDANCE_Shopping_Mall.JPG](https://zh.wikipedia.org/wiki/File:Taiwan_WINDANCE_Shopping_Mall.JPG "fig:Taiwan_WINDANCE_Shopping_Mall.JPG")[Taiwan_WINDANCE_Shopping_Mall_Night.JPG](https://zh.wikipedia.org/wiki/File:Taiwan_WINDANCE_Shopping_Mall_Night.JPG "fig:Taiwan_WINDANCE_Shopping_Mall_Night.JPG")[巨城的外觀.jpg](https://zh.wikipedia.org/wiki/File:巨城的外觀.jpg "fig:巨城的外觀.jpg")1913至1952年，購物中心之原址曾為[新竹糖廠](../Page/新竹糖廠.md "wikilink")廠區。<span style="font-size:smaller;">[（註4）](https://zh.wikipedia.org/wiki/#備註 "wikilink")</span>\[21\]
 
 1960年，美國氰胺公司<span style="font-size:smaller;">[（註5）](https://zh.wikipedia.org/wiki/#備註 "wikilink")</span>與台灣糖業公司合作投資成立中華民國境內第一家經核准的中外合資製造業公司[臺灣氰胺公司](https://zh.wikipedia.org/wiki/臺灣氰胺公司 "wikilink")，其主要工廠設於今風城購物中心。
 
@@ -77,7 +54,7 @@ Lum Bus），都以一比一的比例來呈現，打造出濃厚的美西舊金�
 
 2003年7月25日全館正式開幕\[26\]。
 
-2005年8月由風城購物中心開出，支付給廠商的貨款[支票跳票](../Page/支票.md "wikilink")，支票總額為1億2千萬元\[27\]。
+2005年8月由風城購物中心開出，支付給廠商的貨款[支票](../Page/支票.md "wikilink")跳票，支票總額為1億2千萬元\[27\]。
 
 2006年4月位於風城購物中心地下1樓的佳士客百貨（JUSCO）結束營業\[28\]。
 
@@ -95,7 +72,7 @@ Lum Bus），都以一比一的比例來呈現，打造出濃厚的美西舊金�
 
 2007年5月風城購物中心總負債已經達新台幣1百億元，其中銀行貸款共計新台幣81.5億元。在19家債權銀行中，新竹國際商銀是最大債權銀行，債權有新台幣13.5億元。[中國信託銀行](https://zh.wikipedia.org/wiki/中國信託銀行 "wikilink")、中華開發銀行、[台北富邦銀行及](https://zh.wikipedia.org/wiki/台北富邦銀行 "wikilink")[國泰世華銀行等](https://zh.wikipedia.org/wiki/國泰世華銀行 "wikilink")，也都是債權銀行。雍聯另外還積欠工程款、土地款、稅金及利息、廠商貨款共18億元\[35\]\[36\]，大部分的商家都已經停止租約。仍然續約的商家為：[亞力山大健康休閒俱樂部](../Page/亞力山大健康休閒俱樂部.md "wikilink")、湯姆熊歡樂世界（接手麻吉室內主題樂園）、威秀影城<span style="font-size:smaller;">[（註3）](https://zh.wikipedia.org/wiki/#備註 "wikilink")</span>、何嘉仁教育中心。
 
-2007年7月2日新竹市議會於市政總質詢時，建議新竹市長[林政則購入風城購物中心](../Page/林政則.md "wikilink")，改建為新竹市政府辦公大樓。
+2007年7月2日新竹市議會於市政總質詢時，建議新竹市長[林政則](../Page/林政則.md "wikilink")購入風城購物中心，改建為新竹市政府辦公大樓。
 
 2007年12月18日風城購物中心約60名員工集體抗議長期積欠薪資。
 
@@ -135,7 +112,7 @@ Lum Bus），都以一比一的比例來呈現，打造出濃厚的美西舊金�
 
 <!-- end list -->
 
-  - [國賓大飯店新竹店](../Page/國賓大飯店.md "wikilink")
+  - [國賓大飯店](../Page/國賓大飯店.md "wikilink")新竹店
   - [太平洋SOGO新竹店站前館](https://zh.wikipedia.org/wiki/太平洋SOGO "wikilink")
   - [晶品城購物廣場](../Page/晶品城購物廣場.md "wikilink")
   - [大遠百新竹店](https://zh.wikipedia.org/wiki/大遠百 "wikilink")
@@ -289,9 +266,8 @@ Lum Bus），都以一比一的比例來呈現，打造出濃厚的美西舊金�
 
   - <span style="font-size:smaller;">註1：「中華開發工業銀行」於2003年12月成為「[中華開發金融控股公司](https://zh.wikipedia.org/wiki/中華開發金融控股公司 "wikilink")」的子公司。</span>\[42\]
   - <span style="font-size:smaller;">註2：「新竹國際商業銀行」已在2006年11月被「[渣打銀行](https://zh.wikipedia.org/wiki/渣打銀行 "wikilink")」併購，並更名為「渣打國際商業銀行股份有限公司」。</span>\[43\]
-  - <span style="font-size:smaller;">註3：「華納威秀影城」於2005年2月更名為「[威秀影城公司](../Page/威秀影城.md "wikilink")」。</span>\[44\]
-  - <span style="font-size:smaller;">註4：「日本製糖會社」新竹廠是現今「[臺灣糖業公司](https://zh.wikipedia.org/wiki/臺灣糖業公司 "wikilink")」的前身，簡稱「臺糖」--現址後方
-    保留部分原貌。</span>\[45\]
+  - <span style="font-size:smaller;">註3：「華納威秀影城」於2005年2月更名為「[威秀影城](../Page/威秀影城.md "wikilink")公司」。</span>\[44\]
+  - <span style="font-size:smaller;">註4：「日本製糖會社」新竹廠是現今「[臺灣糖業公司](https://zh.wikipedia.org/wiki/臺灣糖業公司 "wikilink")」的前身，簡稱「臺糖」--現址後方 保留部分原貌。</span>\[45\]
   - <span style="font-size:smaller;">註5：「美國家庭用品公司」於1994年併購「」，成為現今的「[美商惠氏藥廠](../Page/惠氏.md "wikilink")」。</span>\[46\]
 
 ## 參考資料
@@ -303,14 +279,9 @@ Lum Bus），都以一比一的比例來呈現，打造出濃厚的美西舊金�
   -
   - [台灣公司資料](http://company.g0v.ronny.tw/id/53113432)
 
-[Category:東區_(新竹市)](https://zh.wikipedia.org/wiki/Category:東區_\(新竹市\) "wikilink")
-[Category:新竹市商場](https://zh.wikipedia.org/wiki/Category:新竹市商場 "wikilink")
-[Category:新竹市旅遊景點](https://zh.wikipedia.org/wiki/Category:新竹市旅遊景點 "wikilink")
-[Category:2003年完工建築物](https://zh.wikipedia.org/wiki/Category:2003年完工建築物 "wikilink")
-[Category:遠東集團](https://zh.wikipedia.org/wiki/Category:遠東集團 "wikilink")
+[Category:東區_(新竹市)](https://zh.wikipedia.org/wiki/Category:東區_\(新竹市\) "wikilink") [Category:新竹市商場](https://zh.wikipedia.org/wiki/Category:新竹市商場 "wikilink") [Category:新竹市旅遊景點](https://zh.wikipedia.org/wiki/Category:新竹市旅遊景點 "wikilink") [Category:2003年完工建築物](https://zh.wikipedia.org/wiki/Category:2003年完工建築物 "wikilink") [Category:遠東集團](https://zh.wikipedia.org/wiki/Category:遠東集團 "wikilink")
 
-1.  [北台灣最大Mall
-    新竹巨城試賣](http://m.xuite.net/blog/li_5516882/twblog/148470035)
+1.  [北台灣最大Mall 新竹巨城試賣](http://m.xuite.net/blog/li_5516882/twblog/148470035)
 
 2.  [出國瘋打卡　桃園機場上半年打卡300萬次奪冠](http://m.appledaily.com.tw/realtimenews/article/new/20170902/1195732/)
 
@@ -320,36 +291,25 @@ Lum Bus），都以一比一的比例來呈現，打造出濃厚的美西舊金�
 
 5.
 
-6.  [2010-03-02 經濟日報—台金聯
-    要活化風城購物中心](http://udn.com/NEWS/FINANCE/FIN1/5448230.shtml)
+6.  [2010-03-02 經濟日報—台金聯 要活化風城購物中心](http://udn.com/NEWS/FINANCE/FIN1/5448230.shtml)
 
-7.  [2010-03-08 工商時報—大陸長城資管
-    看上新竹風城購物中心](http://news.chinatimes.com/CMoney/News/News-Page-content/0,4993,11050702+122010030800217,00.html)
+7.  [2010-03-08 工商時報—大陸長城資管 看上新竹風城購物中心](http://news.chinatimes.com/CMoney/News/News-Page-content/0,4993,11050702+122010030800217,00.html)
 
-8.  [2010-04-08 自由電子報—最貴蚊子館
-    風城購物中心2度流標](http://www.libertytimes.com.tw/2010/new/apr/8/today-e1.htm)
+8.  [2010-04-08 自由電子報—最貴蚊子館 風城購物中心2度流標](http://www.libertytimes.com.tw/2010/new/apr/8/today-e1.htm)
 
 9.
 10.
-11. [2010-05-19
-    中時電子報—SOGO以58億多億標下新竹風城購物中心](http://news.chinatimes.com/CMoney/News/News-Page-content/0,4993,130507+132010051901684,00.html)
+11. [2010-05-19 中時電子報—SOGO以58億多億標下新竹風城購物中心](http://news.chinatimes.com/CMoney/News/News-Page-content/0,4993,130507+132010051901684,00.html)
 
-12. [2010-05-19 NOWnews 今日新聞網—風城購物中心三拍
-    太平洋崇光百貨58.88億擊敗新光三越](http://www.nownews.com/2010/05/19/11490-2605031.html)
+12. [2010-05-19 NOWnews 今日新聞網—風城購物中心三拍 太平洋崇光百貨58.88億擊敗新光三越](http://www.nownews.com/2010/05/19/11490-2605031.html)
 
-13. [2010-10-01 工商時報—遠東接手
-    風城購物中心變裝](http://news.chinatimes.com/CMoney/News/News-Page-content/0,4993,11050701+122010100100458,00.html)
+13. [2010-10-01 工商時報—遠東接手 風城購物中心變裝](http://news.chinatimes.com/CMoney/News/News-Page-content/0,4993,11050701+122010100100458,00.html)
 
+14. [2010-10-27 聯合新聞網—3大新百貨明年第3季開幕 內容搶先看](http://udn.com/NEWS/FASHION/FAS8/5935627.shtml)
 
-14. [2010-10-27 聯合新聞網—3大新百貨明年第3季開幕
-    內容搶先看](http://udn.com/NEWS/FASHION/FAS8/5935627.shtml)
+15. [2011-08-15 中時電子報—新竹巨城購物中心 12月初隆重開幕](http://life.chinatimes.com/2009Cti/Channel/Life/life-article/0,5047,100305+112011081500053,00.html)
 
-15. [2011-08-15
-    中時電子報—新竹巨城購物中心 12月初隆重開幕](http://life.chinatimes.com/2009Cti/Channel/Life/life-article/0,5047,100305+112011081500053,00.html)
-
-
-16. [2011-11-02 經濟日報—遠東巨城商場
-    延明年開幕](http://udn.com/NEWS/STOCK/STO4/6690598.shtml)
+16. [2011-11-02 經濟日報—遠東巨城商場 延明年開幕](http://udn.com/NEWS/STOCK/STO4/6690598.shtml)
 
 17. [BigCity遠東巨城購物中心的Facebook](https://m.facebook.com/FEBigCity)
 
@@ -368,15 +328,11 @@ Lum Bus），都以一比一的比例來呈現，打造出濃厚的美西舊金�
 
 25.
 26.
-27. [2005-08-03 跳票1.2億？ 新竹風城：聯貸撥款作業延遲
-    營運仍正常](http://nownews.com/2005/08/03/122-1826189.htm)
-    (今日新聞網)
+27. [2005-08-03 跳票1.2億？ 新竹風城：聯貸撥款作業延遲 營運仍正常](http://nownews.com/2005/08/03/122-1826189.htm) (今日新聞網)
 
 28. [條目：吉之島—臺灣佳士客](https://zh.wikipedia.org/wiki/吉之島#台灣佳世客 "wikilink")
 
-29. 2006-07-28
-    [台視](https://zh.wikipedia.org/wiki/台視 "wikilink")—[新竹風城購物中心
-    債六億封館](http://www.ttv.com.tw/news/view/?i=09507284343505L)
+29. 2006-07-28 [台視](https://zh.wikipedia.org/wiki/台視 "wikilink")—[新竹風城購物中心 債六億封館](http://www.ttv.com.tw/news/view/?i=09507284343505L)
 
 30.
 
@@ -387,8 +343,7 @@ Lum Bus），都以一比一的比例來呈現，打造出濃厚的美西舊金�
 
 34.
 35.
-36. [2007-05-11 聯合新聞網—購物中心競開
-    人潮難換錢潮](http://udn.com/NEWS/NATIONAL/NATS5/3840642.shtml)
+36. [2007-05-11 聯合新聞網—購物中心競開 人潮難換錢潮](http://udn.com/NEWS/NATIONAL/NATS5/3840642.shtml)
 
 37.
 38.
@@ -397,8 +352,7 @@ Lum Bus），都以一比一的比例來呈現，打造出濃厚的美西舊金�
 41.
 42.
 
-43. [2006-11-04 自由電子報—渣打併竹商銀
-    不規劃優離優退](http://www.libertytimes.com.tw/2006/new/nov/4/today-e2.htm)
+43. [2006-11-04 自由電子報—渣打併竹商銀 不規劃優離優退](http://www.libertytimes.com.tw/2006/new/nov/4/today-e2.htm)
 
 44. [YaHoo奇摩生活—華納威秀改名威秀影城](http://tw.lifestyle.yahoo.com/33b7edcf/061004/180/3k3io.html)
 

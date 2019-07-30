@@ -1,14 +1,14 @@
-《**我和殭屍有個約會III之永恆國度**》（）是[香港](../Page/香港.md "wikilink")[亞洲電視拍攝製作的時裝奇幻](../Page/亞洲電視.md "wikilink")[劇集](https://zh.wikipedia.org/wiki/劇集 "wikilink")，全劇共38集，第一至五集為序幕篇，時代背景為宋朝。劇情上承接第二輯，人物設定則貫穿全三輯。
+《**我和殭屍有個約會III之永恆國度**》（）是[香港](../Page/香港.md "wikilink")[亞洲電視](../Page/亞洲電視.md "wikilink")拍攝製作的時裝奇幻[劇集](https://zh.wikipedia.org/wiki/劇集 "wikilink")，全劇共38集，電視播映原版為36集，其中有數集為1小時加長版。劇情上承接第二輯，人物設定則貫穿全三輯，由原班人馬[尹天照](../Page/尹天照.md "wikilink")、[萬綺雯](../Page/萬綺雯.md "wikilink")、[陳啟泰](../Page/陳啟泰.md "wikilink")、[吳廷燁](../Page/吳廷燁.md "wikilink")、[張文慈](../Page/張文慈.md "wikilink")、[張國權等人主演](https://zh.wikipedia.org/wiki/張國權_\(香港藝人\) "wikilink")。
 
 由於故事內容艱澀難懂，情節亦較前兩輯天馬行空，令觀眾較難接受，所以此劇聲勢不如前兩輯。但也有人認為此劇為《[我和殭屍有個約會系列](../Page/我和殭屍有個約會系列.md "wikilink")》中最有深度的一輯。
 
-故事中之[殭屍近似](../Page/殭屍.md "wikilink")[吸血鬼](../Page/吸血鬼.md "wikilink")，多於傳統[殭屍](../Page/殭屍.md "wikilink")，並結合[中國神話](https://zh.wikipedia.org/wiki/中國神話 "wikilink")、[世界末日](https://zh.wikipedia.org/wiki/世界末日 "wikilink")、[時間旅行等等元素](https://zh.wikipedia.org/wiki/時間旅行 "wikilink")，此劇為《[我和殭屍有個約會系列](../Page/我和殭屍有個約會系列.md "wikilink")》第三輯。
+故事中之[殭屍](../Page/殭屍.md "wikilink")近似[吸血鬼](../Page/吸血鬼.md "wikilink")，多於傳統[殭屍](../Page/殭屍.md "wikilink")，並結合[中國神話](https://zh.wikipedia.org/wiki/中國神話 "wikilink")、[世界末日](https://zh.wikipedia.org/wiki/世界末日 "wikilink")、[時間旅行等等元素](https://zh.wikipedia.org/wiki/時間旅行 "wikilink")，此劇為《[我和殭屍有個約會系列](../Page/我和殭屍有個約會系列.md "wikilink")》第三輯。
 
 韓國SBS則計劃翻拍同名劇集第三部，並將會在晨間連續劇公開首播，預計集數為130集。
 
 ## 內容簡介
 
-於第三部中，來到[盤古聖地的馬小玲和況天佑適逢瑤池聖母衝破封印](https://zh.wikipedia.org/wiki/盤古 "wikilink")，使天佑身受[病毒之苦](../Page/病毒.md "wikilink")。馬小玲因而回到[宋朝](../Page/宋朝.md "wikilink")，尋找天佑前世－－箭頭。
+於第三部中，來到[盤古聖地的馬小玲和況天佑適逢瑤池聖母衝破封印](https://zh.wikipedia.org/wiki/盤古 "wikilink")，使天佑身受[病毒](../Page/病毒.md "wikilink")之苦。馬小玲因而回到[宋朝](../Page/宋朝.md "wikilink")，尋找天佑前世－－箭頭。
 
 而後箭頭、馬小玲受好友毛憂所託，加入[香港警隊](../Page/香港警務處.md "wikilink")[特別任務連](../Page/特別任務連.md "wikilink")，帶同一隊[SDU精英應付香港的靈異任務](https://zh.wikipedia.org/wiki/SDU "wikilink")。
 
@@ -50,7 +50,7 @@
 <td><p><a href="../Page/萬綺雯.md" title="wikilink">萬綺雯</a></p></td>
 <td><p>馬小玲</p></td>
 <td><p>素有「南毛北馬」之稱的驅魔龍族馬氏一家第四十代掌門人，理智，堅執，好勝，愛面子，嫉惡如仇，倔強剛強，口舌不饒人，說話尖酸刻薄，實是外冷內熱，口硬心軟，心地善良，重情重義，極力掩飾內裏的真實情感，內心深處極其渴望愛情和自由，深信命運可靠自己雙手開創。曾說過自己是馬家歷代傳人之中資質最差的一個。 在毛馬兩家傳人比試時，以和局結束，其後毛憂因私用還陽禁咒，被逐出毛家，臨行前，何應求將毛憂所有功力傳給馬小玲。 在盤古聖地中和況天佑舉行婚禮時，被瑤池聖母逃走，散播病毒，專殺害盤古族人和殭屍，由於馬小玲是人所以沒事。 奉命回到宋朝，帶著天佑的前生箭頭回到2004年，以阻止瑤池奪取天書。其後返回現代，阻止人王伏羲和瑤池聖母一戰。</p>
-<p>註；<a href="../Page/萬綺雯.md" title="wikilink">萬綺雯在</a><a href="../Page/袁文傑.md" title="wikilink">袁文傑工作的</a><a href="../Page/香港人網.md" title="wikilink">香港人網</a><a href="https://zh.wikipedia.org/wiki/袁外之音" title="wikilink">袁外之音節目中指出曾經在國內拍攝期間開工第二天已經嚴重受傷</a>，在拍攝一組對打場面不幸拉斷肋骨，她本人指出自己當時忍痛能力極強，加上當時拍攝期間工作人員都指出她沒有當場昏厥，應該沒有什麼大礙所以繼續拍攝。</p></td>
+<p>註；<a href="../Page/萬綺雯.md" title="wikilink">萬綺雯</a>在<a href="../Page/袁文傑.md" title="wikilink">袁文傑</a>工作的<a href="../Page/香港人網.md" title="wikilink">香港人網</a><a href="https://zh.wikipedia.org/wiki/袁外之音" title="wikilink">袁外之音節目中指出曾經在國內拍攝期間開工第二天已經嚴重受傷</a>，在拍攝一組對打場面不幸拉斷肋骨，她本人指出自己當時忍痛能力極強，加上當時拍攝期間工作人員都指出她沒有當場昏厥，應該沒有什麼大礙所以繼續拍攝。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/陳寶轅" title="wikilink">陳寶轅</a></p></td>
@@ -60,7 +60,7 @@
 <tr class="odd">
 <td><p><a href="../Page/麥家琪.md" title="wikilink">麥家琪</a></p></td>
 <td><p>毛憂</p></td>
-<td><p>香港警察<a href="../Page/特別任務連.md" title="wikilink">特別任務連警官</a>，「南毛北馬」中毛家傳人，有練功一個月，等於別人六、七年的功力的特殊能力，自小與馬小玲青梅竹馬，其後因男朋友因車禍去世，私下使用還陽禁咒，而被逐出毛家，並一直認為是小玲打散了男友的魂魄，怨恨了小玲十年，其後因瑤池聖母安排下化解恩怨。Mars在愛麗絲一戰死於流彈，毛憂為了再見Mars一面，甘願用還陽禁咒。性格開朗，個性決絕，大情大性，處事作風大膽，有新意，對與錯有很明顯的界別，從不會混淆。</p></td>
+<td><p>香港警察<a href="../Page/特別任務連.md" title="wikilink">特別任務連</a>警官，「南毛北馬」中毛家傳人，有練功一個月，等於別人六、七年的功力的特殊能力，自小與馬小玲青梅竹馬，其後因男朋友因車禍去世，私下使用還陽禁咒，而被逐出毛家，並一直認為是小玲打散了男友的魂魄，怨恨了小玲十年，其後因瑤池聖母安排下化解恩怨。Mars在愛麗絲一戰死於流彈，毛憂為了再見Mars一面，甘願用還陽禁咒。性格開朗，個性決絕，大情大性，處事作風大膽，有新意，對與錯有很明顯的界別，從不會混淆。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/劉以達" title="wikilink">劉以達</a></p></td>
@@ -94,14 +94,14 @@
 
 | 演員                                                  | 角色      | 介紹                                                                                                                                                                    |
 | --------------------------------------------------- | ------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [黃子雄](../Page/黃子雄.md "wikilink")                    | Mars    | 香港警察[特別任務連成員](../Page/特別任務連.md "wikilink")，與毛憂相戀，在愛麗絲一戰中死於流彈。後來毛憂打算利用還陽咒使其復活，最後被超渡。                                                                                   |
-| [周子濠](../Page/周子濠.md "wikilink")                    | 施崇佳/Sky | 香港警察[特別任務連成員](../Page/特別任務連.md "wikilink")。愛麗絲一戰後在Waiting Bar幫忙。很爱天涯，雖然時間不多，卻也是種幸福。愛情不能靠愧疚，同死的若不是自己愛的，也就沒有意義。Sky對Kary沒有動心過，他一直注視著的，只是天涯。就算記憶會消失，但是牆上的愛語，和擁有過的一切，無法抹滅。 |
-| [冼灝英](../Page/冼灝英.md "wikilink")                    | 盧植槐/老鬼  | 香港警察[特別任務連成員](../Page/特別任務連.md "wikilink")。愛麗絲一戰後在Waiting Bar幫忙。被命運殺死。                                                                                                |
-| [甄思羽](../Page/甄思羽.md "wikilink")                    | 趙偉行/大R  | 香港警察[特別任務連成員](../Page/特別任務連.md "wikilink")。細R的哥哥，愛麗絲一戰後在Waiting Bar幫忙。被命運殺死。                                                                                          |
-| [陳樂文](../Page/陳樂文.md "wikilink")                    | 細R      | 香港警察[特別任務連成員](../Page/特別任務連.md "wikilink")。大R的弟弟，愛麗絲一戰被烏龍殺死。                                                                                                          |
-| [卓慧敏](../Page/卓慧敏.md "wikilink")                    | Kary    | 香港警察[特別任務連成員](../Page/特別任務連.md "wikilink")。愛麗絲一戰後在Waiting Bar幫忙。 喜欢Sky，所以很讨厌天涯。後被瑤池聖母殺死                                                                               |
-| [阮民俊](https://zh.wikipedia.org/wiki/阮民俊 "wikilink") | 木村      | 香港警察[特別任務連成員](../Page/特別任務連.md "wikilink")。死于愛麗絲一戰。                                                                                                                   |
-| [伍偉樂](../Page/伍偉樂.md "wikilink")                    | 烏龍      | 香港警察[特別任務連成員](../Page/特別任務連.md "wikilink")。死於愛麗絲ㄧ戰。                                                                                                                   |
+| [黃子雄](../Page/黃子雄.md "wikilink")                    | Mars    | 香港警察[特別任務連](../Page/特別任務連.md "wikilink")成員，與毛憂相戀，在愛麗絲一戰中死於流彈。後來毛憂打算利用還陽咒使其復活，最後被超渡。                                                                                   |
+| [周子濠](../Page/周子濠.md "wikilink")                    | 施崇佳/Sky | 香港警察[特別任務連](../Page/特別任務連.md "wikilink")成員。愛麗絲一戰後在Waiting Bar幫忙。很爱天涯，雖然時間不多，卻也是種幸福。愛情不能靠愧疚，同死的若不是自己愛的，也就沒有意義。Sky對Kary沒有動心過，他一直注視著的，只是天涯。就算記憶會消失，但是牆上的愛語，和擁有過的一切，無法抹滅。 |
+| [冼灝英](../Page/冼灝英.md "wikilink")                    | 盧植槐/老鬼  | 香港警察[特別任務連](../Page/特別任務連.md "wikilink")成員。愛麗絲一戰後在Waiting Bar幫忙。被命運殺死。                                                                                                |
+| [甄思羽](../Page/甄思羽.md "wikilink")                    | 趙偉行/大R  | 香港警察[特別任務連](../Page/特別任務連.md "wikilink")成員。細R的哥哥，愛麗絲一戰後在Waiting Bar幫忙。被命運殺死。                                                                                          |
+| [陳樂文](../Page/陳樂文.md "wikilink")                    | 細R      | 香港警察[特別任務連](../Page/特別任務連.md "wikilink")成員。大R的弟弟，愛麗絲一戰被烏龍殺死。                                                                                                          |
+| [卓慧敏](../Page/卓慧敏.md "wikilink")                    | Kary    | 香港警察[特別任務連](../Page/特別任務連.md "wikilink")成員。愛麗絲一戰後在Waiting Bar幫忙。 喜欢Sky，所以很讨厌天涯。後被瑤池聖母殺死                                                                               |
+| [阮民俊](https://zh.wikipedia.org/wiki/阮民俊 "wikilink") | 木村      | 香港警察[特別任務連](../Page/特別任務連.md "wikilink")成員。死于愛麗絲一戰。                                                                                                                   |
+| [伍偉樂](../Page/伍偉樂.md "wikilink")                    | 烏龍      | 香港警察[特別任務連](../Page/特別任務連.md "wikilink")成員。死於愛麗絲一戰。                                                                                                                   |
 
 ### 其他
 
@@ -132,7 +132,7 @@
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/陳展鵬" title="wikilink">陳展鵬</a></p></td>
 <td><p>何有求／天逸先生／<a href="../Page/命運.md" title="wikilink">命運</a></p></td>
-<td><p>何應求之弟，算命師。皇極驚世書（天書）持有人，一直想令己死的女朋友還陽，後來被<a href="../Page/命運.md" title="wikilink">命運附身</a>。</p></td>
+<td><p>何應求之弟，算命師。皇極驚世書（天書）持有人，一直想令己死的女朋友還陽，後來被<a href="../Page/命運.md" title="wikilink">命運</a>附身。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/張文慈.md" title="wikilink">張文慈</a></p></td>
@@ -225,10 +225,4 @@
 
 ## 節目變遷
 
-[Category:2004年亞視電視劇集](https://zh.wikipedia.org/wiki/Category:2004年亞視電視劇集 "wikilink")
-[Category:殭屍題材電視劇](https://zh.wikipedia.org/wiki/Category:殭屍題材電視劇 "wikilink")
-[Category:吸血鬼題材電視劇](https://zh.wikipedia.org/wiki/Category:吸血鬼題材電視劇 "wikilink")
-[Category:奇幻愛情電視劇](https://zh.wikipedia.org/wiki/Category:奇幻愛情電視劇 "wikilink")
-[Category:南宋背景電視劇](https://zh.wikipedia.org/wiki/Category:南宋背景電視劇 "wikilink")
-[Category:中國傳說時代背景電視劇](https://zh.wikipedia.org/wiki/Category:中國傳說時代背景電視劇 "wikilink")
-[Category:時間旅行題材電視劇](https://zh.wikipedia.org/wiki/Category:時間旅行題材電視劇 "wikilink")
+[Category:2004年亞視電視劇集](https://zh.wikipedia.org/wiki/Category:2004年亞視電視劇集 "wikilink") [Category:殭屍題材電視劇](https://zh.wikipedia.org/wiki/Category:殭屍題材電視劇 "wikilink") [Category:吸血鬼題材電視劇](https://zh.wikipedia.org/wiki/Category:吸血鬼題材電視劇 "wikilink") [Category:奇幻愛情電視劇](https://zh.wikipedia.org/wiki/Category:奇幻愛情電視劇 "wikilink") [Category:南宋背景電視劇](https://zh.wikipedia.org/wiki/Category:南宋背景電視劇 "wikilink") [Category:中國傳說時代背景電視劇](https://zh.wikipedia.org/wiki/Category:中國傳說時代背景電視劇 "wikilink") [Category:時間旅行題材電視劇](https://zh.wikipedia.org/wiki/Category:時間旅行題材電視劇 "wikilink")

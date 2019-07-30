@@ -1,6 +1,6 @@
-**AIM-7麻雀**是[美國的一種中程](https://zh.wikipedia.org/wiki/美國 "wikilink")[半主動雷達導引的](https://zh.wikipedia.org/wiki/半主動雷達導引 "wikilink")[空對空飛彈](https://zh.wikipedia.org/wiki/空對空飛彈 "wikilink")。AIM-7是西方國家在1950年代至1990年代間最主要的[超視距空戰武器](https://zh.wikipedia.org/wiki/超視距作戰 "wikilink")。它現在仍在許多國家服役中，但更先進的[AIM-120先進中程空對空飛彈正逐步取代它](../Page/AIM-120先進中程空對空飛彈.md "wikilink")。
+**AIM-7麻雀**是[美國的一種中程](https://zh.wikipedia.org/wiki/美國 "wikilink")[半主動雷達導引的](https://zh.wikipedia.org/wiki/半主動雷達導引 "wikilink")[空對空飛彈](https://zh.wikipedia.org/wiki/空對空飛彈 "wikilink")。AIM-7是西方國家在1950年代至1990年代間最主要的[超視距空戰武器](https://zh.wikipedia.org/wiki/超視距作戰 "wikilink")。它現在仍在許多國家服役中，但更先進的[AIM-120先進中程空對空飛彈](../Page/AIM-120先進中程空對空飛彈.md "wikilink")正逐步取代它。
 
-**[RIM-7海麻雀](../Page/RIM-7海麻雀导弹.md "wikilink")**是以AIM-7為基礎發展的艦載近距離[防空飛彈](https://zh.wikipedia.org/wiki/防空飛彈 "wikilink")，[美國海軍現以海麻雀作船隻防空之用](../Page/美國海軍.md "wikilink")。**MIM-7**則是AIM-7的陸上版。
+**[RIM-7海麻雀](../Page/RIM-7海麻雀导弹.md "wikilink")**是以AIM-7為基礎發展的艦載近距離[防空飛彈](https://zh.wikipedia.org/wiki/防空飛彈 "wikilink")，[美國海軍](../Page/美國海軍.md "wikilink")現以海麻雀作船隻防空之用。**MIM-7**則是AIM-7的陸上版。
 
 ## 簡介
 
@@ -16,12 +16,9 @@ AIM-7分成四個主要區段：導引段、彈頭、控制器、火箭引擎（
 
 ### 史佩里公司，麻雀I型
 
-麻雀飛彈始於1940年代後期，當時美國海軍計畫發展一種可被導引的空對空火箭。美國海軍在1947年委託研發一種使用[乘波導引版本](https://zh.wikipedia.org/wiki/乘波導引 "wikilink")、直徑5[英吋](https://zh.wikipedia.org/wiki/英吋 "wikilink")（127毫米）的標準空用火箭（HVAR）。這個武器起初被劃分為**熱點計畫**（Project
-Hotshot）的一部分。最初編號KAS-1，之後更改為AAM-2，最後在1948年改為AAM-N-2。彈體由[道格拉斯飛機公司設計](https://zh.wikipedia.org/wiki/道格拉斯飛機公司 "wikilink")，由於HVAR直徑僅5英吋的彈體無法容納所需電子設備，彈體被增至8英吋（203毫米）。麻雀飛彈原型在1947年起進行氣動力實驗，1952年AAM-N-2原型全備彈首次成功攔截目標。
+麻雀飛彈始於1940年代後期，當時美國海軍計畫發展一種可被導引的空對空火箭。美國海軍在1947年委託研發一種使用[乘波導引版本](https://zh.wikipedia.org/wiki/乘波導引 "wikilink")、直徑5[英吋](https://zh.wikipedia.org/wiki/英吋 "wikilink")（127毫米）的標準空用火箭（HVAR）。這個武器起初被劃分為**熱點計畫**（Project Hotshot）的一部分。最初編號KAS-1，之後更改為AAM-2，最後在1948年改為AAM-N-2。彈體由[道格拉斯飛機公司設計](https://zh.wikipedia.org/wiki/道格拉斯飛機公司 "wikilink")，由於HVAR直徑僅5英吋的彈體無法容納所需電子設備，彈體被增至8英吋（203毫米）。麻雀飛彈原型在1947年起進行氣動力實驗，1952年AAM-N-2原型全備彈首次成功攔截目標。
 
-經過長時間的研發後，編號AAM-N-2的麻雀飛彈在1954年整合在上，測試乘波導引飛彈作為夜間戰鬥機主要武器適性；1956年正式服役，裝備在[F3H-2M
-Demon和](https://zh.wikipedia.org/wiki/F3H "wikilink")[F7U
-Cutlass上](https://zh.wikipedia.org/wiki/F7U "wikilink")，主要用途為攔截戰略轟炸機使用。日後變更代號為**AIM-7A**。
+經過長時間的研發後，編號AAM-N-2的麻雀飛彈在1954年整合在上，測試乘波導引飛彈作為夜間戰鬥機主要武器適性；1956年正式服役，裝備在[F3H-2M Demon和](https://zh.wikipedia.org/wiki/F3H "wikilink")[F7U Cutlass上](https://zh.wikipedia.org/wiki/F7U "wikilink")，主要用途為攔截戰略轟炸機使用。日後變更代號為**AIM-7A**。
 
 相對於後續型號，麻雀I型更具流線感，外型和子彈相仿，擁有一個細長的彈頭。但嚴格來說在1950年代中期配發的麻雀I型技術上仍未滿足設計目標，受限乘波導引必須由光學裝置識別和追蹤目標，因此麻雀I型並不具備超視距空戰性能，且對高速目標的跟蹤效果不好，就中程飛彈來講仍相當原始。最後麻雀I型生產了約2000枚。
 
@@ -29,7 +26,7 @@ Cutlass上](https://zh.wikipedia.org/wiki/F7U "wikilink")，主要用途為攔�
 
 早在1950年代初，道格拉斯的工程師便計畫將主動尋標器裝上空對空飛彈，當時正研發中的AAM-N-2因此獨立出另一個主動導引構型的子型號XAAM-N-2a，稱為麻雀II型；麻雀II型在1953年正式代號變更為AAM-N-3。後變更代號為**AIM-7B**。
 
-在麻雀I型投入實驗服役後，道格拉斯向美國海軍推薦繼續發展麻雀II型，並有意讓麻雀II型成為該公司研發中的主武器；美國海軍從1955年起始斥資研製麻雀II型，但隔年F5D計畫遭到終止。雖然美軍內已經沒有本計畫的有力支持者，但加拿大在相近時段向美國接洽授權生產麻雀II型。加拿大在1950年代開發，且為了配合該型機之Astra火控系統遂行長程攔截任務，向美方採購特許製造權，並預定在[魁北克省設廠製造](../Page/魁北克省.md "wikilink")。
+在麻雀I型投入實驗服役後，道格拉斯向美國海軍推薦繼續發展麻雀II型，並有意讓麻雀II型成為該公司研發中的主武器；美國海軍從1955年起始斥資研製麻雀II型，但隔年F5D計畫遭到終止。雖然美軍內已經沒有本計畫的有力支持者，但加拿大在相近時段向美國接洽授權生產麻雀II型。加拿大在1950年代開發，且為了配合該型機之Astra火控系統遂行長程攔截任務，向美方採購特許製造權，並預定在[魁北克省](../Page/魁北克省.md "wikilink")設廠製造。
 
 不過麻雀II型研發對1950年代的技術而言仍無法突破，預定為麻雀II型尋標器核心之AN/APQ-64測距雷達（操作頻率K波段）從測試起便被飛彈過細的彈體直徑給制約，致使該型雷達從未離開工程測試研發階段；在美軍預定配合操作機種終止研發後，麻雀II型計畫實際上進入半擱置狀態。原先道格拉斯寄望加拿大飛機公司的計畫可以為本型飛彈開拓生機，但隨著箭式戰鬥機在1959年終止開發後，所有關於麻雀II型的計畫均畫下句點。
 
@@ -37,9 +34,9 @@ Cutlass上](https://zh.wikipedia.org/wiki/F7U "wikilink")，主要用途為攔�
 
 ### 雷神公司，麻雀III型
 
-在1951年，由[雷神公司進行中程空對空飛彈研發計畫](../Page/雷神公司.md "wikilink")，尋標器使用[半主動雷達導引](https://zh.wikipedia.org/wiki/半主動雷達導引 "wikilink")，美國空軍編號AAM-N-6，代號麻雀III型；雖然與前兩型代號相同，但技術上只承襲了固態火箭發動機與彈體直徑，內在設計上與同時間發展的兩款麻雀系列並不互通。
+在1951年，由[雷神公司](../Page/雷神公司.md "wikilink")進行中程空對空飛彈研發計畫，尋標器使用[半主動雷達導引](https://zh.wikipedia.org/wiki/半主動雷達導引 "wikilink")，美國空軍編號AAM-N-6，代號麻雀III型；雖然與前兩型代號相同，但技術上只承襲了固態火箭發動機與彈體直徑，內在設計上與同時間發展的兩款麻雀系列並不互通。
 
-1955年麻雀II型計畫擱置之後，美軍將研發資源挹注在雷神公司的麻雀III型方案，1956年原型彈測試結果美軍對於其優於麻雀I型的射程及導引可靠度有著較高評價，之後國際間廣為人知的麻雀飛彈均是由本型號衍生款式。1958年第一批麻雀III型飛彈撥交[美國海軍服役](../Page/美國海軍.md "wikilink")，日後代號變更為**AIM-7C**。
+1955年麻雀II型計畫擱置之後，美軍將研發資源挹注在雷神公司的麻雀III型方案，1956年原型彈測試結果美軍對於其優於麻雀I型的射程及導引可靠度有著較高評價，之後國際間廣為人知的麻雀飛彈均是由本型號衍生款式。1958年第一批麻雀III型飛彈撥交[美國海軍](../Page/美國海軍.md "wikilink")服役，日後代號變更為**AIM-7C**。
 
   - AIM-7D
 
@@ -52,8 +49,7 @@ Cutlass上](https://zh.wikipedia.org/wiki/F7U "wikilink")，主要用途為攔�
 :;AIM-7E-2
 
   -
-    美國海軍的半主動雷達制導的過渡型纏鬥導彈
-    ，1969年用於越南戰場。AIM-7E-2擁有2種射擊模式，一種是基本射擊模式，另一種纏鬥模式則會啟動一個電子開關，將導彈的最小射程由900公尺減少至450公尺，用來近距離纏鬥使用。
+    美國海軍的半主動雷達制導的過渡型纏鬥導彈 ，1969年用於越南戰場。AIM-7E-2擁有2種射擊模式，一種是基本射擊模式，另一種纏鬥模式則會啟動一個電子開關，將導彈的最小射程由900公尺減少至450公尺，用來近距離纏鬥使用。
 
 [US_Navy_040521-N-5821P-001_Combat_Systems_personnel_download_a_RIM-7_Sea_Sparrow_missile_from_a_NATO_defense_weapon_system_aboard_USS_Kitty_Hawk_(CV_63).jpg](https://zh.wikipedia.org/wiki/File:US_Navy_040521-N-5821P-001_Combat_Systems_personnel_download_a_RIM-7_Sea_Sparrow_missile_from_a_NATO_defense_weapon_system_aboard_USS_Kitty_Hawk_\(CV_63\).jpg "fig:US_Navy_040521-N-5821P-001_Combat_Systems_personnel_download_a_RIM-7_Sea_Sparrow_missile_from_a_NATO_defense_weapon_system_aboard_USS_Kitty_Hawk_(CV_63).jpg")
 
@@ -88,9 +84,7 @@ Cutlass上](https://zh.wikipedia.org/wiki/F7U "wikilink")，主要用途為攔�
 
   - AIM-7R
 
-最後的麻雀改良型，以AIM-7P Block
-II飛彈為基礎改良；在改善既有的半主動雷達尋標器以外，並在彈頭增裝了紅外線尋標器，除了提高導引精度，理論上在終端追蹤目標時可具備射後不理效能；R型在1988年開始研製，1992年原型開始測試，1993年試射成功。
-因冷戰結束，[AIM-120先進中程空對空飛彈性能趨於穩定](../Page/AIM-120先進中程空對空飛彈.md "wikilink")，美軍終止了R型麻雀開發計畫，1997年計畫取消。
+最後的麻雀改良型，以AIM-7P Block II飛彈為基礎改良；在改善既有的半主動雷達尋標器以外，並在彈頭增裝了紅外線尋標器，除了提高導引精度，理論上在終端追蹤目標時可具備射後不理效能；R型在1988年開始研製，1992年原型開始測試，1993年試射成功。 因冷戰結束，[AIM-120先進中程空對空飛彈](../Page/AIM-120先進中程空對空飛彈.md "wikilink")性能趨於穩定，美軍終止了R型麻雀開發計畫，1997年計畫取消。
 
 ## 麻雀X型
 
@@ -102,25 +96,17 @@ II飛彈為基礎改良；在改善既有的半主動雷達尋標器以外，並
 
 ### 中國
 
-1980年代中期，中國從義大利進口了少量的蝮蛇 Mk 1飛彈，隨後與阿勒尼亞（Alenia）公司簽署授權生產協定。1989
-年，中國以義大利提供的零組件自行生產第一批蝮蛇 Mk 1 飛彈。然而，由於 1989 年 6
-月發生的「六四天安門」事件，歐盟決議對中國進行[武器禁運以為制裁](https://zh.wikipedia.org/wiki/歐盟對中國武器禁運 "wikilink")，使得中國無法取得蝮蛇飛彈零組件。
+1980年代中期，中國從義大利進口了少量的蝮蛇 Mk 1飛彈，隨後與阿勒尼亞（Alenia）公司簽署授權生產協定。1989 年，中國以義大利提供的零組件自行生產第一批蝮蛇 Mk 1 飛彈。然而，由於 1989 年 6 月發生的「六四天安門」事件，歐盟決議對中國進行[武器禁運以為制裁](https://zh.wikipedia.org/wiki/歐盟對中國武器禁運 "wikilink")，使得中國無法取得蝮蛇飛彈零組件。
 
-1990 年代早期，上海第二機械電子設計局被賦予生產性能更佳的中程空對空飛彈之任務。結合
-[HQ-61](https://zh.wikipedia.org/wiki/HQ-61 "wikilink")
-飛彈彈體與蝮蛇飛彈的單脈衝半主動雷達尋標器，第二局成功的研發了被定名為
-PL-11 的中程空對空飛彈。一些西方觀察家將 PL-11 與以 HQ-61 飛彈技術所研製的
-[PL-10](https://zh.wikipedia.org/wiki/PL-10 "wikilink") 飛彈混淆。
+1990 年代早期，上海第二機械電子設計局被賦予生產性能更佳的中程空對空飛彈之任務。結合 [HQ-61](https://zh.wikipedia.org/wiki/HQ-61 "wikilink") 飛彈彈體與蝮蛇飛彈的單脈衝半主動雷達尋標器，第二局成功的研發了被定名為 PL-11 的中程空對空飛彈。一些西方觀察家將 PL-11 與以 HQ-61 飛彈技術所研製的 [PL-10](https://zh.wikipedia.org/wiki/PL-10 "wikilink") 飛彈混淆。
 
 已知的 PL-11 版本包括：
 
-  - PL-11 － 以 HQ-61C 與蝮蛇（AIM-7M）飛彈技術為基礎的中程空對空飛彈。1992年由 J-8B 戰鬥機首先進行試驗，直到
-    1990 年代中期通過測試與評估後才進入現役。出口型稱為 FD-60。
+  - PL-11 － 以 HQ-61C 與蝮蛇（AIM-7M）飛彈技術為基礎的中程空對空飛彈。1992年由 J-8B 戰鬥機首先進行試驗，直到 1990 年代中期通過測試與評估後才進入現役。出口型稱為 FD-60。
 
 <!-- end list -->
 
-  - PL-11A － PL-11
-    的改進型，擁有更長的射程，更具威力的彈頭與性能更佳的尋標器。新尋標器只需在飛彈飛行過程的末期由機載雷達進行導引即可。
+  - PL-11A － PL-11 的改進型，擁有更長的射程，更具威力的彈頭與性能更佳的尋標器。新尋標器只需在飛彈飛行過程的末期由機載雷達進行導引即可。
 
 <!-- end list -->
 
@@ -128,17 +114,11 @@ PL-11 的中程空對空飛彈。一些西方觀察家將 PL-11 與以 HQ-61 飛
 
 <!-- end list -->
 
-  - LY-60 －
-    被稱為「中國版本的海麻雀飛彈」，做為海軍艦艇的防空武器。曾出售給巴基斯坦，但並未進入中國解放軍海軍服役。據傳正在發展垂直發射（VLS-launch）版本。
+  - LY-60 － 被稱為「中國版本的海麻雀飛彈」，做為海軍艦艇的防空武器。曾出售給巴基斯坦，但並未進入中國解放軍海軍服役。據傳正在發展垂直發射（VLS-launch）版本。
 
 ### 英國
 
-英國航太公司（British Aerospace, BAe）在 1970 年代取得 AIM-7E2
-飛彈科技的權利許可，用以生產天閃（Skyflash）飛彈。天閃飛彈採用馬可尼（Marconi）公司製造、經過電子元件升級改良的
-XJ-521 單脈衝半主動尋標器。動力裝置原採用航太推進公司（Aerojet）的 Mk52 Mod 2
-火箭引擎，後來改用洛克達因（Rocketdyne）公司的 Mk38 Mod 4
-火箭引擎。天閃飛彈於 1976 年進入英國皇家空軍服役，並配備於幽靈F3式戰鬥機上，接著被龍捲風F3 ADV
-式防空攔截機採用為制式武器。天閃飛彈也曾出口至瑞典，配備於 Saab 37 維京式戰鬥機上。
+英國航太公司（British Aerospace, BAe）在 1970 年代取得 AIM-7E2 飛彈科技的權利許可，用以生產天閃（Skyflash）飛彈。天閃飛彈採用馬可尼（Marconi）公司製造、經過電子元件升級改良的 XJ-521 單脈衝半主動尋標器。動力裝置原採用航太推進公司（Aerojet）的 Mk52 Mod 2 火箭引擎，後來改用洛克達因（Rocketdyne）公司的 Mk38 Mod 4 火箭引擎。天閃飛彈於 1976 年進入英國皇家空軍服役，並配備於幽靈F3式戰鬥機上，接著被龍捲風F3 ADV 式防空攔截機採用為制式武器。天閃飛彈也曾出口至瑞典，配備於 Saab 37 維京式戰鬥機上。
 
 英國航太公司與湯姆笙-CSF（Thomson-CSF）公司曾計畫為天閃飛彈改裝一具主動雷達尋標器，改裝後的天閃飛彈稱為「主動天閃」，然而因英國皇家空家計畫採用其他飛彈，因此並未投資該計畫，使「主動天閃」飛彈發展計畫胎死腹中。
 
@@ -156,8 +136,6 @@ XJ-521 單脈衝半主動尋標器。動力裝置原採用航太推進公司（A
 
 ## 外部連結
 
-  - [F-16.net 網站對 AIM-7
-    的介紹（英文）](http://www.f-16.net/f-16_armament_article10.html)
+  - [F-16.net 網站對 AIM-7 的介紹（英文）](http://www.f-16.net/f-16_armament_article10.html)
 
-[Category:空對空飛彈](https://zh.wikipedia.org/wiki/Category:空對空飛彈 "wikilink")
-[Category:美國飛彈](https://zh.wikipedia.org/wiki/Category:美國飛彈 "wikilink")
+[Category:空對空飛彈](https://zh.wikipedia.org/wiki/Category:空對空飛彈 "wikilink") [Category:美國飛彈](https://zh.wikipedia.org/wiki/Category:美國飛彈 "wikilink")

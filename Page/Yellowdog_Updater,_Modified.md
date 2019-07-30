@@ -1,16 +1,8 @@
-[PackageKit_on_Fedora.png](https://zh.wikipedia.org/wiki/File:PackageKit_on_Fedora.png "fig:PackageKit_on_Fedora.png")目前是Fedora默认的包管理器前端\]\]
-**Yum**（**Yellow dog Updater, Modified**）是由[Duke
-University團隊修改](https://zh.wikipedia.org/wiki/Duke_University "wikilink")[Yellow
-Dog Linux的](../Page/Yellow_Dog_Linux.md "wikilink")[Yellow Dog
-Updater開發而成](https://zh.wikipedia.org/wiki/Yellow_Dog_Updater "wikilink")，是一个基于[RPM包管理的字符前端软件包管理器](https://zh.wikipedia.org/wiki/RPM "wikilink")。能够从指定的服务器自动下载RPM包并且安装，可以处理依赖性关系，并且一次安装所有依赖的软件包，无须繁琐地一次次下载、安装。被[Yellow
-Dog
-Linux本身](../Page/Yellow_Dog_Linux.md "wikilink")，以及[Fedora](../Page/Fedora.md "wikilink")、[Red
-Hat Enterprise Linux採用](../Page/Red_Hat_Enterprise_Linux.md "wikilink")。
+[PackageKit_on_Fedora.png](https://zh.wikipedia.org/wiki/File:PackageKit_on_Fedora.png "fig:PackageKit_on_Fedora.png")目前是Fedora默认的包管理器前端\]\] **Yum**（**Yellow dog Updater, Modified**）是由[Duke University團隊修改](https://zh.wikipedia.org/wiki/Duke_University "wikilink")[Yellow Dog Linux的](../Page/Yellow_Dog_Linux.md "wikilink")[Yellow Dog Updater開發而成](https://zh.wikipedia.org/wiki/Yellow_Dog_Updater "wikilink")，是一个基于[RPM包管理的字符前端软件包管理器](https://zh.wikipedia.org/wiki/RPM "wikilink")。能够从指定的服务器自动下载RPM包并且安装，可以处理依赖性关系，并且一次安装所有依赖的软件包，无须繁琐地一次次下载、安装。被[Yellow Dog Linux本身](../Page/Yellow_Dog_Linux.md "wikilink")，以及[Fedora](../Page/Fedora.md "wikilink")、[Red Hat Enterprise Linux採用](../Page/Red_Hat_Enterprise_Linux.md "wikilink")。
 
 ## 软件包来源
 
-可供Yum下载的软件包包括[Fedora本身的软件包以及源自](../Page/Fedora.md "wikilink")[rpmfusion](http://rpmfusion.org/)等非官方软件仓库的软件包，全部是由[Linux社区维护的](../Page/Linux.md "wikilink")，并且基本是[自由软件](../Page/自由软件.md "wikilink")。所有的包都有一个独立的GPG签名，主要是为了用户的系统安全。对于Fedora
-core 4及更高版本的用户，来自新软件仓库的签名是自动导入并安装的。
+可供Yum下载的软件包包括[Fedora](../Page/Fedora.md "wikilink")本身的软件包以及源自[rpmfusion](http://rpmfusion.org/)等非官方软件仓库的软件包，全部是由[Linux](../Page/Linux.md "wikilink")社区维护的，并且基本是[自由软件](../Page/自由软件.md "wikilink")。所有的包都有一个独立的GPG签名，主要是为了用户的系统安全。对于Fedora core 4及更高版本的用户，来自新软件仓库的签名是自动导入并安装的。
 
 ## 图形化前端
 

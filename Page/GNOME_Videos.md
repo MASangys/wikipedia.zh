@@ -1,4 +1,4 @@
-****（原）是一套在类操作系统上运行的[多媒体播放器](../Page/多媒体.md "wikilink")，建基於桌面环境。默认的多媒体引擎是，但亦可使用程式库。在得到（现在）设为默认的多媒体播放器后大受欢迎。
+****（原）是一套在类操作系统上运行的[多媒体](../Page/多媒体.md "wikilink")播放器，建基於桌面环境。默认的多媒体引擎是，但亦可使用程式库。在得到（现在）设为默认的多媒体播放器后大受欢迎。
 
 ## 特色
 
@@ -48,6 +48,4 @@
 ## 外部链接
 
   -
-[Category:媒体播放器](https://zh.wikipedia.org/wiki/Category:媒体播放器 "wikilink")
-[Category:开放源代码](https://zh.wikipedia.org/wiki/Category:开放源代码 "wikilink")
-[Category:GNOME](https://zh.wikipedia.org/wiki/Category:GNOME "wikilink")
+[Category:媒体播放器](https://zh.wikipedia.org/wiki/Category:媒体播放器 "wikilink") [Category:开放源代码](https://zh.wikipedia.org/wiki/Category:开放源代码 "wikilink") [Category:GNOME](https://zh.wikipedia.org/wiki/Category:GNOME "wikilink")

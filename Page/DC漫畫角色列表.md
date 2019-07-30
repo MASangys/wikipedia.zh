@@ -1,5 +1,4 @@
-**DC漫畫角色列表**（）是[DC漫画曾出出版或拥有的主要角色索引列表](https://zh.wikipedia.org/wiki/DC漫画 "wikilink")（按英文字母排列）。
-**注意**：只列出了维基百科现创建的角色列表，欢迎创建更多角色资料。
+**DC漫畫角色列表**（）是[DC漫画曾出出版或拥有的主要角色索引列表](https://zh.wikipedia.org/wiki/DC漫画 "wikilink")（按英文字母排列）。 **注意**：只列出了维基百科现创建的角色列表，欢迎创建更多角色资料。
 
 ## 0-9
 
@@ -440,8 +439,10 @@
 <td><p>Iron</p></td>
 </tr>
 <tr class="odd">
-<td><p>脈衝</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/巴特·艾倫" title="wikilink">巴特·艾倫</a></p></td>
+<td><p><a href="../Page/脈衝_(DC漫畫).md" title="wikilink">脈衝</a></p></td>
+<td><p>肯特·莎士比亞<br />
+<a href="https://zh.wikipedia.org/wiki/巴特·艾倫" title="wikilink">巴特·艾倫</a><br />
+艾莉絲·威斯特II</p></td>
 <td><p>Impulse</p></td>
 </tr>
 </tbody>
@@ -726,21 +727,27 @@
 <td><p>Raven</p></td>
 </tr>
 <tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/紅箭俠" title="wikilink">紅箭俠</a></p></td>
+<td><p><a href="../Page/羅伊·哈珀.md" title="wikilink">羅伊·哈珀</a><br />
+<a href="../Page/惠美子·昆恩.md" title="wikilink">惠美子·昆恩</a></p></td>
+<td><p>Red Arrow</p></td>
+</tr>
+<tr class="odd">
 <td><p><a href="../Page/紅頭罩.md" title="wikilink">紅頭罩</a></p></td>
 <td><p><a href="../Page/傑森·托特.md" title="wikilink">傑森·托特</a></p></td>
 <td><p>Red Hood</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/紅羅賓" title="wikilink">紅羅賓</a></p></td>
 <td><p><a href="../Page/蒂姆·德雷克.md" title="wikilink">蒂姆·德雷克</a></p></td>
 <td><p>Red Robin</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/红色旋风.md" title="wikilink">紅捲風</a></p></td>
 <td><p>約翰·史密斯</p></td>
 <td><p>Red Tornado</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/逆閃電.md" title="wikilink">逆閃電</a></p></td>
 <td><p>愛德華·克拉瑞斯<br />
 <a href="https://zh.wikipedia.org/wiki/艾爾伯德·斯旺" title="wikilink">艾爾伯德·斯旺</a><br />
@@ -749,12 +756,12 @@
 丹尼爾·威斯特</p></td>
 <td><p>Reverse-Flash</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/謎語人.md" title="wikilink">謎語人</a></p></td>
 <td><p>愛德華·尼格瑪</p></td>
 <td><p>Riddler</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/羅賓_(漫畫).md" title="wikilink">羅賓</a></p></td>
 <td><p><a href="../Page/迪克·格雷森.md" title="wikilink">迪克·格雷森</a><br />
 <a href="../Page/傑森·托特.md" title="wikilink">傑森·托特</a><br />
@@ -763,7 +770,7 @@
 <a href="../Page/達米安·韋恩.md" title="wikilink">達米安·韋恩</a></p></td>
 <td><p>Robin</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/變臉羅夏.md" title="wikilink">變臉羅夏</a></p></td>
 <td><p>華特·喬瑟夫·寇瓦克斯</p></td>
 <td><p>Rorschach</p></td>
@@ -818,27 +825,33 @@
 <td><p>Sinestro</p></td>
 </tr>
 <tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/快手_(漫畫)" title="wikilink">快手</a></p></td>
+<td><p><a href="../Page/羅伊·哈珀.md" title="wikilink">羅伊·哈珀</a><br />
+米婭·迪爾登</p></td>
+<td><p>Speedy</p></td>
+</tr>
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/運動大師" title="wikilink">運動大師</a></p></td>
 <td><p>勞倫斯·克羅克</p></td>
 <td><p>Sportsmaster</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/荒狼" title="wikilink">荒狼</a></p></td>
 <td><p>荒狼</p></td>
 <td><p>Steppenwolf</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/史提夫·崔佛.md" title="wikilink">史提夫·崔佛</a></p></td>
 <td><p>史提夫·洛克韋爾·崔佛</p></td>
 <td><p>Steve Trevor</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/沼澤異形.md" title="wikilink">沼澤異形</a></p></td>
 <td><p>亞歷克斯·奧爾森<br />
 亞歷克·荷蘭</p></td>
 <td><p>Swamp Thing</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/幽灵_(DC漫画).md" title="wikilink">幽靈</a></p></td>
 <td><p>吉姆·柯瑞根</p></td>
 <td><p>Spectre</p></td>
@@ -908,7 +921,7 @@
 <td><p>Wonder Woman</p></td>
 </tr>
 <tr class="even">
-<td></td>
+<td><p><a href="../Page/神奇女孩.md" title="wikilink">神奇女孩</a></p></td>
 <td><p><a href="../Page/唐娜·特洛伊.md" title="wikilink">唐娜·特洛伊</a><br />
 <a href="../Page/凱西·桑茲瑪.md" title="wikilink">凱西·桑茲瑪</a></p></td>
 <td><p>Wonder Girl</p></td>
@@ -932,7 +945,6 @@
   -
   -
   -
-[\*](https://zh.wikipedia.org/wiki/分类:DC漫画角色 "wikilink")
-[\*](https://zh.wikipedia.org/wiki/分类:DC漫画角色列表 "wikilink")
+[\*](https://zh.wikipedia.org/wiki/分类:DC漫画角色 "wikilink") [\*](https://zh.wikipedia.org/wiki/分类:DC漫画角色列表 "wikilink")
 
 [Category:漫畫角色列表](https://zh.wikipedia.org/wiki/Category:漫畫角色列表 "wikilink")

@@ -1,17 +1,13 @@
-**Google
-網上論壇**（）是[Google提供的在线交流工具](../Page/Google.md "wikilink")，在[Web界面上类似于常见的](https://zh.wikipedia.org/wiki/Web "wikilink")[网络论坛](../Page/网络论坛.md "wikilink")。但Google
-Groups的实质却可以理解为一个[邮件列表](https://zh.wikipedia.org/wiki/邮件列表 "wikilink")。但与传统的邮件列表相比，它提供了基于[Web的更多功能](https://zh.wikipedia.org/wiki/Web "wikilink")。如共享文件、创建页面、帖子评分等。
+**Google 網上論壇**（）是[Google](../Page/Google.md "wikilink")提供的在线交流工具，在[Web界面上类似于常见的](https://zh.wikipedia.org/wiki/Web "wikilink")[网络论坛](../Page/网络论坛.md "wikilink")。但Google Groups的实质却可以理解为一个[邮件列表](https://zh.wikipedia.org/wiki/邮件列表 "wikilink")。但与传统的邮件列表相比，它提供了基于[Web的更多功能](https://zh.wikipedia.org/wiki/Web "wikilink")。如共享文件、创建页面、帖子评分等。
 
 ## 特色
 
-  - [Usenet存档](../Page/Usenet.md "wikilink")
+  - [Usenet](../Page/Usenet.md "wikilink")存档
       -
-        Google
-        Groups提供了自从1981年以来的[Usenet帖子存档](../Page/Usenet.md "wikilink")\[1\]，保存了许多珍贵史料\[2\]；
+        Google Groups提供了自从1981年以来的[Usenet](../Page/Usenet.md "wikilink")帖子存档\[1\]，保存了许多珍贵史料\[2\]；
   - [HTTPS加密连接](https://zh.wikipedia.org/wiki/HTTPS "wikilink")
       -
-        同[Gmail等](../Page/Gmail.md "wikilink")[Google服务一样](../Page/Google.md "wikilink")，Google
-        Groups允许通过[HTTPS协议进行连接](https://zh.wikipedia.org/wiki/HTTPS "wikilink")，这对处于较为严格的[网络审查之下的中国大陆网民尤为重要](../Page/中华人民共和国网络审查.md "wikilink")。
+        同[Gmail](../Page/Gmail.md "wikilink")等[Google](../Page/Google.md "wikilink")服务一样，Google Groups允许通过[HTTPS协议进行连接](https://zh.wikipedia.org/wiki/HTTPS "wikilink")，这对处于较为严格的[网络审查之下的中国大陆网民尤为重要](../Page/中华人民共和国网络审查.md "wikilink")。
 
 ## 中国大陆访问
 
@@ -31,8 +27,7 @@ Groups的实质却可以理解为一个[邮件列表](https://zh.wikipedia.org/w
       - [Google网上论坛](http://groups.google.com/?hl=zh-TW)
       - [Https安全连接](https://groups.google.com/)
 
-[Category:Google](https://zh.wikipedia.org/wiki/Category:Google "wikilink")
-[Category:被防火长城封锁的网站](https://zh.wikipedia.org/wiki/Category:被防火长城封锁的网站 "wikilink")
+[Category:Google](https://zh.wikipedia.org/wiki/Category:Google "wikilink") [Category:被防火长城封锁的网站](https://zh.wikipedia.org/wiki/Category:被防火长城封锁的网站 "wikilink")
 
 1.
 2.

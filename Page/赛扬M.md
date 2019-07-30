@@ -1,19 +1,14 @@
-**Celeron
-M**，属于[赛扬](https://zh.wikipedia.org/wiki/赛扬 "wikilink")[处理器家族的移动处理器系列](https://zh.wikipedia.org/wiki/处理器 "wikilink")。具体说来，采用Northwood之后核心，到目前为止的移动版赛扬处理器都属于Celeron
-M。
+**Celeron M**，属于[赛扬](https://zh.wikipedia.org/wiki/赛扬 "wikilink")[处理器家族的移动处理器系列](https://zh.wikipedia.org/wiki/处理器 "wikilink")。具体说来，采用Northwood之后核心，到目前为止的移动版赛扬处理器都属于Celeron M。
 
 ## 诞生
 
-正如赛扬处理器的存在一般，最早的Celeron M处理器基于当时的[Pentium
-M经过一些](https://zh.wikipedia.org/wiki/Pentium_M "wikilink")“精简”而来。
-常见的手段包括但不限于：缩减二级缓存，取消节电技术等。
+正如赛扬处理器的存在一般，最早的Celeron M处理器基于当时的[Pentium M经过一些](https://zh.wikipedia.org/wiki/Pentium_M "wikilink")“精简”而来。 常见的手段包括但不限于：缩减二级缓存，取消节电技术等。
 
 ## 历代核心
 
 ### Banias
 
-由同期的*Banias* [Pentium
-M改造而来](https://zh.wikipedia.org/wiki/Pentium_M "wikilink")。
+由同期的*Banias* [Pentium M改造而来](https://zh.wikipedia.org/wiki/Pentium_M "wikilink")。
 
   - L1缓存：32 + 32 KB（数据＋指令）
   - L2缓存：512KB
@@ -29,8 +24,7 @@ M改造而来](https://zh.wikipedia.org/wiki/Pentium_M "wikilink")。
 
 ### Dothan
 
-由同期的*Dothan* [Pentium
-M改造而来](https://zh.wikipedia.org/wiki/Pentium_M "wikilink")。
+由同期的*Dothan* [Pentium M改造而来](https://zh.wikipedia.org/wiki/Pentium_M "wikilink")。
 
   - L1缓存：32 + 32 KB（数据＋指令）
   - L2缓存：512KB \~ 1024KB
@@ -44,8 +38,7 @@ M改造而来](https://zh.wikipedia.org/wiki/Pentium_M "wikilink")。
 
 ### Yonah
 
-由同期的*Yonah* [Intel
-Core改造而来](https://zh.wikipedia.org/wiki/Intel_Core "wikilink")。
+由同期的*Yonah* [Intel Core改造而来](https://zh.wikipedia.org/wiki/Intel_Core "wikilink")。
 
   - L1缓存：32 + 32 KB（数据＋指令）
   - L2缓存：1024KB
@@ -62,11 +55,7 @@ Core改造而来](https://zh.wikipedia.org/wiki/Intel_Core "wikilink")。
 
 ### Merom
 
-由同期的*Merom* [Intel Core
-2改造而来](https://zh.wikipedia.org/wiki/Intel_Core_2 "wikilink")。*Merom*
-Core
-2本身支持[EM64T](https://zh.wikipedia.org/wiki/EM64T "wikilink")，Intel保持这一特性，使得这核心的Celeron
-M成为第一款支持64位技术的移动赛扬处理器。
+由同期的*Merom* [Intel Core 2改造而来](https://zh.wikipedia.org/wiki/Intel_Core_2 "wikilink")。*Merom* Core 2本身支持[EM64T](https://zh.wikipedia.org/wiki/EM64T "wikilink")，Intel保持这一特性，使得这核心的Celeron M成为第一款支持64位技术的移动赛扬处理器。
 
   - L1缓存：32 + 32 KB（数据＋指令）
   - L2缓存：1024KB
@@ -82,9 +71,7 @@ M成为第一款支持64位技术的移动赛扬处理器。
 
 ## 命名
 
-同一时期，桌面版本的赛扬处理器推出新系列[Celeron
-D](https://zh.wikipedia.org/wiki/Celeron_D "wikilink")。揣测Intel的意图，**Celeron**应当区分桌面产品和移动产品，即分别对应的**Celeron
-D**与**Celeron M**
+同一时期，桌面版本的赛扬处理器推出新系列[Celeron D](https://zh.wikipedia.org/wiki/Celeron_D "wikilink")。揣测Intel的意图，**Celeron**应当区分桌面产品和移动产品，即分别对应的**Celeron D**与**Celeron M**
 
 ## 参见
 

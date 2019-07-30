@@ -1,12 +1,10 @@
 ## 政治、法律
 
-  - D0 [政治理论](../Page/政治.md "wikilink")
+  - D0 [政治](../Page/政治.md "wikilink")理论
 
-:\*D0-0
-[科学社会主义理论](https://zh.wikipedia.org/wiki/科学社会主义理论 "wikilink")（总论）
+:\*D0-0 [科学社会主义理论](https://zh.wikipedia.org/wiki/科学社会主义理论 "wikilink")（总论）
 
-:\*D01
-[阶级](https://zh.wikipedia.org/wiki/阶级 "wikilink")、[阶级斗争理论](https://zh.wikipedia.org/wiki/阶级斗争 "wikilink")
+:\*D01 [阶级](https://zh.wikipedia.org/wiki/阶级 "wikilink")、[阶级斗争理论](https://zh.wikipedia.org/wiki/阶级斗争 "wikilink")
 
 ::\*D011 阶级的产生与消亡
 
@@ -14,7 +12,7 @@
 
 ::\*D013 社会阶层、利益集团理论
 
-:\*D02 [革命理论](../Page/革命.md "wikilink")
+:\*D02 [革命](../Page/革命.md "wikilink")理论
 
 ::\*D021 革命的起源和本质
 
@@ -32,7 +30,7 @@
 
 ::\*D028 不断革命论与革命发展阶段论
 
-:\*D03 [国家理论](../Page/国家.md "wikilink")
+:\*D03 [国家](../Page/国家.md "wikilink")理论
 
 ::\*D031 国家的起源、发展和消亡
 
@@ -84,8 +82,7 @@
 
 :::\*D035.5 地方行政管理、地方自治
 
-:\*D04
-[无产阶级革命与](https://zh.wikipedia.org/wiki/无产阶级革命 "wikilink")[无产阶级专政理论](../Page/无产阶级专政.md "wikilink")
+:\*D04 [无产阶级革命与](https://zh.wikipedia.org/wiki/无产阶级革命 "wikilink")[无产阶级专政](../Page/无产阶级专政.md "wikilink")理论
 
 ::\*D041 民主革命与社会主义革命的关系
 
@@ -103,7 +100,7 @@
 
 ::\*D047 社会主义向共产主义过渡
 
-:\*D05 [政党理论](../Page/政党.md "wikilink")
+:\*D05 [政党](../Page/政党.md "wikilink")理论
 
 ::\*D051 政党的起源和本质
 
@@ -113,8 +110,7 @@
 
 ::\*D054 领袖、政党、阶级、群众
 
-:\*D06
-[民族](../Page/民族.md "wikilink")、[殖民地问题理论](../Page/殖民地.md "wikilink")
+:\*D06 [民族](../Page/民族.md "wikilink")、[殖民地](../Page/殖民地.md "wikilink")问题理论
 
 ::\*D062 民族解放运动理论
 
@@ -138,8 +134,7 @@
 
 ::\*D089 其他
 
-:\*D09
-[政治学史](https://zh.wikipedia.org/wiki/政治学史 "wikilink")、[政治思想史](https://zh.wikipedia.org/wiki/政治思想史 "wikilink")
+:\*D09 [政治学史](https://zh.wikipedia.org/wiki/政治学史 "wikilink")、[政治思想史](https://zh.wikipedia.org/wiki/政治思想史 "wikilink")
 
 ::\*D091 世界政治思想史
 
@@ -321,8 +316,7 @@
 
 :::\*D267.9 其他
 
-:\*D27
-[中国共产党与各国](../Page/中国共产党.md "wikilink")[共产党的关系](../Page/共产党.md "wikilink")
+:\*D27 [中国共产党](../Page/中国共产党.md "wikilink")与各国[共产党](../Page/共产党.md "wikilink")的关系
 
 :\*D29 [中国共产主义青年团](../Page/中国共产主义青年团.md "wikilink")
 
@@ -352,15 +346,15 @@
 
 ::\*D297 团的工作
 
-:\*D33 [亚洲各国共产党](../Page/亚洲.md "wikilink")
+:\*D33 [亚洲](../Page/亚洲.md "wikilink")各国共产党
 
-:\*D34 [非洲各国共产党](../Page/非洲.md "wikilink")
+:\*D34 [非洲](../Page/非洲.md "wikilink")各国共产党
 
-:\*D35 [欧洲各国共产党](../Page/欧洲.md "wikilink")
+:\*D35 [欧洲](../Page/欧洲.md "wikilink")各国共产党
 
-:\*D36 [大洋洲各国共产党](../Page/大洋洲.md "wikilink")
+:\*D36 [大洋洲](../Page/大洋洲.md "wikilink")各国共产党
 
-:\*D37 [美洲各国共产党](../Page/美洲.md "wikilink")
+:\*D37 [美洲](../Page/美洲.md "wikilink")各国共产党
 
   - D4　[工人](https://zh.wikipedia.org/wiki/工人 "wikilink")、[农民](https://zh.wikipedia.org/wiki/农民 "wikilink")、[青年](../Page/青年.md "wikilink")、[妇女运动与组织](https://zh.wikipedia.org/wiki/妇女运动 "wikilink")
 
@@ -458,13 +452,11 @@
 
 ::\*D423/427 各国农民运动与组织
 
-:\*D43
-[青年](../Page/青年.md "wikilink")、[学生运动与组织](https://zh.wikipedia.org/wiki/学生运动 "wikilink")
+:\*D43 [青年](../Page/青年.md "wikilink")、[学生运动与组织](https://zh.wikipedia.org/wiki/学生运动 "wikilink")
 
 ::\*D430 青年、学生运动理论
 
-::\*D431
-[世界青年学生运动与组织](https://zh.wikipedia.org/wiki/世界青年学生运动 "wikilink")
+::\*D431 [世界青年学生运动与组织](https://zh.wikipedia.org/wiki/世界青年学生运动 "wikilink")
 
 :::\*D431.1 世界青年节、世界青年联欢节
 
@@ -478,8 +470,7 @@
 
 :::\*D431.9 世界青年、学生运动史，青年社会生活史
 
-::\*D432
-[中国青年学生运动与组织](https://zh.wikipedia.org/wiki/中国青年学生运动 "wikilink")
+::\*D432 [中国青年学生运动与组织](https://zh.wikipedia.org/wiki/中国青年学生运动 "wikilink")
 
 :::\*D432.0 党对青年、学生运动的领导
 
@@ -589,8 +580,7 @@
 
 ::\*D515 反对“和平演变”的斗争
 
-:\*D52
-世界[政治制度与](https://zh.wikipedia.org/wiki/政治制度 "wikilink")[国家机构](https://zh.wikipedia.org/wiki/国家机构 "wikilink")
+:\*D52 世界[政治制度与](https://zh.wikipedia.org/wiki/政治制度 "wikilink")[国家机构](https://zh.wikipedia.org/wiki/国家机构 "wikilink")
 
 ::\*D521 政治制度
 
@@ -628,18 +618,15 @@
 
 ::\*D569 社会调查分析
 
-:\*D57
-[社会福利与](../Page/社会福利.md "wikilink")[社会救济](https://zh.wikipedia.org/wiki/社会救济 "wikilink")
+:\*D57 [社会福利](../Page/社会福利.md "wikilink")与[社会救济](https://zh.wikipedia.org/wiki/社会救济 "wikilink")
 
-:\*D58
-[社会生活与](https://zh.wikipedia.org/wiki/社会生活 "wikilink")[社会问题](../Page/社会问题.md "wikilink")
+:\*D58 [社会生活与](https://zh.wikipedia.org/wiki/社会生活 "wikilink")[社会问题](../Page/社会问题.md "wikilink")
 
 :\*D59 [世界政治制度史](https://zh.wikipedia.org/wiki/世界政治制度史 "wikilink")
 
   - D6 [中国政治](https://zh.wikipedia.org/wiki/中国政治 "wikilink")
 
-:\*D60
-[政策](../Page/政策.md "wikilink")、[政论](https://zh.wikipedia.org/wiki/政论 "wikilink")
+:\*D60 [政策](../Page/政策.md "wikilink")、[政论](https://zh.wikipedia.org/wiki/政论 "wikilink")
 
 ::\*D601 方针、政策
 
@@ -669,8 +656,7 @@
 
 ::\*D619 社会主义革命和社会主义建设成就
 
-:\*D62
-[政治制度与](https://zh.wikipedia.org/wiki/政治制度 "wikilink")[国家机构](https://zh.wikipedia.org/wiki/国家机构 "wikilink")
+:\*D62 [政治制度与](https://zh.wikipedia.org/wiki/政治制度 "wikilink")[国家机构](https://zh.wikipedia.org/wiki/国家机构 "wikilink")
 
 ::\*D621 政治制度
 
@@ -738,8 +724,7 @@
 
 ::\*D632 民政工作
 
-:::\*D632.1
-[社会保障与](../Page/社会保障.md "wikilink")[社会福利](../Page/社会福利.md "wikilink")
+:::\*D632.1 [社会保障](../Page/社会保障.md "wikilink")与[社会福利](../Page/社会福利.md "wikilink")
 
 :::\*D632.2 干部离退休工作
 
@@ -795,26 +780,21 @@
 
 ::\*D643 [形势教育](https://zh.wikipedia.org/wiki/形势教育 "wikilink")、国情教育
 
-::\*D647
-[国际主义教育](https://zh.wikipedia.org/wiki/国际主义教育 "wikilink")、[爱国主义教育](https://zh.wikipedia.org/wiki/爱国主义教育 "wikilink")
+::\*D647 [国际主义教育](https://zh.wikipedia.org/wiki/国际主义教育 "wikilink")、[爱国主义教育](https://zh.wikipedia.org/wiki/爱国主义教育 "wikilink")
 
 ::\*D648 [道德教育](https://zh.wikipedia.org/wiki/道德教育 "wikilink")
 
 :::\*D648.1 [职业道德教育](https://zh.wikipedia.org/wiki/职业道德教育 "wikilink")
 
-:::\*D648.2
-[集体主义教育](https://zh.wikipedia.org/wiki/集体主义教育 "wikilink")、[纪律教育](https://zh.wikipedia.org/wiki/纪律教育 "wikilink")
+:::\*D648.2 [集体主义教育](https://zh.wikipedia.org/wiki/集体主义教育 "wikilink")、[纪律教育](https://zh.wikipedia.org/wiki/纪律教育 "wikilink")
 
 :::\*D648.3 [社会公德教育](https://zh.wikipedia.org/wiki/社会公德 "wikilink")
 
-:::\*D648.4
-[革命英雄主义](https://zh.wikipedia.org/wiki/革命英雄主义 "wikilink")、[革命乐观主义教育](https://zh.wikipedia.org/wiki/革命乐观主义 "wikilink")
+:::\*D648.4 [革命英雄主义](https://zh.wikipedia.org/wiki/革命英雄主义 "wikilink")、[革命乐观主义教育](https://zh.wikipedia.org/wiki/革命乐观主义 "wikilink")
 
-::\*D649
-[家庭](../Page/家庭.md "wikilink")、[婚姻道德教育](https://zh.wikipedia.org/wiki/婚姻道德 "wikilink")
+::\*D649 [家庭](../Page/家庭.md "wikilink")、[婚姻道德教育](https://zh.wikipedia.org/wiki/婚姻道德 "wikilink")
 
-:\*D65
-[政治运动](https://zh.wikipedia.org/wiki/政治运动 "wikilink")、[政治事件](https://zh.wikipedia.org/wiki/政治事件 "wikilink")
+:\*D65 [政治运动](https://zh.wikipedia.org/wiki/政治运动 "wikilink")、[政治事件](https://zh.wikipedia.org/wiki/政治事件 "wikilink")
 
 ::\*D651 1949年10月－1966年5月
 
@@ -840,8 +820,7 @@
 
 ::\*D654 1979年1月－
 
-:\*D66
-[阶级结构与](https://zh.wikipedia.org/wiki/阶级结构 "wikilink")[社会结构](../Page/社会结构.md "wikilink")
+:\*D66 [阶级结构与](https://zh.wikipedia.org/wiki/阶级结构 "wikilink")[社会结构](../Page/社会结构.md "wikilink")
 
 ::\*D661 我国社会主义历史时期的阶级和阶级斗争
 
@@ -885,18 +864,15 @@
 
 :::\*D665.9 其他
 
-::\*D668
-[社会调查和](https://zh.wikipedia.org/wiki/社会调查 "wikilink")[社会分析](https://zh.wikipedia.org/wiki/社会分析 "wikilink")
+::\*D668 [社会调查和](https://zh.wikipedia.org/wiki/社会调查 "wikilink")[社会分析](https://zh.wikipedia.org/wiki/社会分析 "wikilink")
 
 ::\*D669 [社会生活与社会问题](https://zh.wikipedia.org/wiki/社会生活 "wikilink")
 
-:::\*D669.1
-[恋爱](https://zh.wikipedia.org/wiki/恋爱 "wikilink")、[家庭](../Page/家庭.md "wikilink")[婚姻](../Page/婚姻.md "wikilink")
+:::\*D669.1 [恋爱](https://zh.wikipedia.org/wiki/恋爱 "wikilink")、[家庭](../Page/家庭.md "wikilink")[婚姻](../Page/婚姻.md "wikilink")
 
 :::\*D669.2 [职业](https://zh.wikipedia.org/wiki/职业 "wikilink")
 
-:::\*D669.3
-[生活](https://zh.wikipedia.org/wiki/生活 "wikilink")、[居住](https://zh.wikipedia.org/wiki/居住 "wikilink")、交通
+:::\*D669.3 [生活](https://zh.wikipedia.org/wiki/生活 "wikilink")、[居住](https://zh.wikipedia.org/wiki/居住 "wikilink")、交通
 
 :::\*D669.5 [青少年](../Page/青少年.md "wikilink")
 
@@ -1016,13 +992,13 @@
 
 ::\*D696 新民主主义政治
 
-:\*D73 [亚洲各国政治](../Page/亚洲.md "wikilink")
+:\*D73 [亚洲](../Page/亚洲.md "wikilink")各国政治
 
 :::\*D731.3 [日本政治](../Page/日本政治.md "wikilink")
 
-:\*D74 [非洲各国政治](../Page/非洲.md "wikilink")
+:\*D74 [非洲](../Page/非洲.md "wikilink")各国政治
 
-:\*D75 [欧洲各国政治](../Page/欧洲.md "wikilink")
+:\*D75 [欧洲](../Page/欧洲.md "wikilink")各国政治
 
 :::\*D751.2 [苏联政治](https://zh.wikipedia.org/wiki/苏联政治 "wikilink")
 
@@ -1032,16 +1008,15 @@
 
 :::\*D756.5 [法国政治](https://zh.wikipedia.org/wiki/法国政治 "wikilink")
 
-:\*D76 [大洋洲各国政治](../Page/大洋洲.md "wikilink")
+:\*D76 [大洋洲](../Page/大洋洲.md "wikilink")各国政治
 
-:\*D77 [美洲各国政治](../Page/美洲.md "wikilink")
+:\*D77 [美洲](../Page/美洲.md "wikilink")各国政治
 
 :::\*D771.2 [美国政治](../Page/美国政治.md "wikilink")
 
   - D8　[外交](../Page/外交.md "wikilink")、[国际关系](https://zh.wikipedia.org/wiki/国际关系 "wikilink")
 
-:\*D80
-[外交](../Page/外交.md "wikilink")、[国际关系理论](https://zh.wikipedia.org/wiki/国际关系 "wikilink")
+:\*D80 [外交](../Page/外交.md "wikilink")、[国际关系理论](https://zh.wikipedia.org/wiki/国际关系 "wikilink")
 
 ::\*D801 外交政策
 
@@ -1171,8 +1146,7 @@
 
 ::\*D9-49 法律普及读物
 
-:\*D90
-[法的理论](https://zh.wikipedia.org/wiki/法 "wikilink")（[法学](../Page/法学.md "wikilink")）
+:\*D90 [法的理论](https://zh.wikipedia.org/wiki/法 "wikilink")（[法学](../Page/法学.md "wikilink")）
 
 :::\*D90-05 法学与其他学科的关系
 
@@ -1372,8 +1346,7 @@
 
 :::\*D920.9 法律汇编
 
-::\*D921
-[国家法](https://zh.wikipedia.org/wiki/国家法 "wikilink")、[宪法](../Page/宪法.md "wikilink")
+::\*D921 [国家法](https://zh.wikipedia.org/wiki/国家法 "wikilink")、[宪法](../Page/宪法.md "wikilink")
 
 :::\*D921.1 [国家机构组织法](https://zh.wikipedia.org/wiki/国家机构组织法 "wikilink")
 
@@ -1391,8 +1364,7 @@
 
 :::\*D921.8 [地方自治法](https://zh.wikipedia.org/wiki/地方自治法 "wikilink")
 
-:::\*D921.9
-[特别行政区基本法](https://zh.wikipedia.org/wiki/特别行政区基本法 "wikilink")
+:::\*D921.9 [特别行政区基本法](https://zh.wikipedia.org/wiki/特别行政区基本法 "wikilink")
 
 :::\*D922.1 [行政法](../Page/行政法.md "wikilink")
 
@@ -1446,19 +1418,15 @@
 
 :::::\*D922.281 [银行法](https://zh.wikipedia.org/wiki/银行法 "wikilink")
 
-:::::\*D922.282
-[信托法](https://zh.wikipedia.org/wiki/信托法 "wikilink")、[信贷法](https://zh.wikipedia.org/wiki/信贷法 "wikilink")
+:::::\*D922.282 [信托法](https://zh.wikipedia.org/wiki/信托法 "wikilink")、[信贷法](https://zh.wikipedia.org/wiki/信贷法 "wikilink")
 
 :::::\*D922.284 [保险法](https://zh.wikipedia.org/wiki/保险法 "wikilink")
 
-:::::\*D922.285
-[货币管理法令](https://zh.wikipedia.org/wiki/货币管理法令 "wikilink")
+:::::\*D922.285 [货币管理法令](https://zh.wikipedia.org/wiki/货币管理法令 "wikilink")
 
-:::::\*D922.286
-[外汇管理法令](https://zh.wikipedia.org/wiki/外汇管理法令 "wikilink")
+:::::\*D922.286 [外汇管理法令](https://zh.wikipedia.org/wiki/外汇管理法令 "wikilink")
 
-:::::\*D922.287
-[证券管理法令](https://zh.wikipedia.org/wiki/证券管理法令 "wikilink")
+:::::\*D922.287 [证券管理法令](https://zh.wikipedia.org/wiki/证券管理法令 "wikilink")
 
 ::::\*D922.29 [经济法](../Page/经济法.md "wikilink")
 
@@ -1504,8 +1472,7 @@
 
 ::::\*D922.39 国家建设征用土地法
 
-:::\*D922.4
-[农业经济管理法令](https://zh.wikipedia.org/wiki/农业经济管理法令 "wikilink")
+:::\*D922.4 [农业经济管理法令](https://zh.wikipedia.org/wiki/农业经济管理法令 "wikilink")
 
 :::\*D922.5 [劳动法](https://zh.wikipedia.org/wiki/劳动法 "wikilink")
 
@@ -1669,15 +1636,15 @@
 
 ::\*D929 [中国法制史](https://zh.wikipedia.org/wiki/中国法制史 "wikilink")
 
-:\*D93 [亚洲各国法律](../Page/亚洲.md "wikilink")
+:\*D93 [亚洲](../Page/亚洲.md "wikilink")各国法律
 
-:\*D94 [非洲各国法律](../Page/非洲.md "wikilink")
+:\*D94 [非洲](../Page/非洲.md "wikilink")各国法律
 
-:\*D95 [欧洲各国法律](../Page/欧洲.md "wikilink")
+:\*D95 [欧洲](../Page/欧洲.md "wikilink")各国法律
 
-:\*D96 [大洋洲各国法律](../Page/大洋洲.md "wikilink")
+:\*D96 [大洋洲](../Page/大洋洲.md "wikilink")各国法律
 
-:\*D97 [美洲各国法律](../Page/美洲.md "wikilink")
+:\*D97 [美洲](../Page/美洲.md "wikilink")各国法律
 
 :\*D99 [国际法](https://zh.wikipedia.org/wiki/国际法 "wikilink")
 
@@ -1705,8 +1672,7 @@
 
 ::\*D994 [平时国际法](https://zh.wikipedia.org/wiki/平时国际法 "wikilink")
 
-::\*D995
-[战时国际法](https://zh.wikipedia.org/wiki/战时国际法 "wikilink")（[战争法](../Page/战争法.md "wikilink")）
+::\*D995 [战时国际法](https://zh.wikipedia.org/wiki/战时国际法 "wikilink")（[战争法](../Page/战争法.md "wikilink")）
 
 :::\*D995.9 中立
 

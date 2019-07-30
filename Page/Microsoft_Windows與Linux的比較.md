@@ -1,10 +1,8 @@
-[Linux和](../Page/Linux.md "wikilink")[Microsoft
-Windows的一个主要区别就是Linux是](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[自由軟體](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")，而[Windows是](https://zh.wikipedia.org/wiki/Windows "wikilink")[封闭软件](https://zh.wikipedia.org/wiki/封闭软件 "wikilink")。除此以外，还有下列诸多区别。
+[Linux](../Page/Linux.md "wikilink")和[Microsoft Windows的一个主要区别就是Linux是](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[自由軟體](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")，而[Windows是](https://zh.wikipedia.org/wiki/Windows "wikilink")[封闭软件](https://zh.wikipedia.org/wiki/封闭软件 "wikilink")。除此以外，还有下列诸多区别。
 
 ## 系統架構
 
-Linux的原始碼級別的可定製性：可滿足用戶對高性能、高效率或界面等涉及用戶體驗的方面高度的需求。
-Windows的封閉特性導致了架構的不透明，普遍被認為是一種混合核心型的作業系統，部分圖形界面的程式碼處在核心狀態運行，因此Windows圖形界面的反應速度上要高於GNU/Linux，但也因此使圖形界面的錯誤有可能導致整個系統故障。
+Linux的原始碼級別的可定製性：可滿足用戶對高性能、高效率或界面等涉及用戶體驗的方面高度的需求。 Windows的封閉特性導致了架構的不透明，普遍被認為是一種混合核心型的作業系統，部分圖形界面的程式碼處在核心狀態運行，因此Windows圖形界面的反應速度上要高於GNU/Linux，但也因此使圖形界面的錯誤有可能導致整個系統故障。
 
 ## 安全属性
 
@@ -24,17 +22,13 @@ Windows的封閉特性導致了架構的不透明，普遍被認為是一種混�
 
 Windows以商業軟體為主，Linux則以[自由軟體為主](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")。由於大多數人缺乏使用自由軟體的習慣，使得“找不到相應的應用軟體”成為Windows用戶轉換至Linux平台的一大阻力。
 
-因為Linux使用者不多，所以遊戲軟體公司選擇以使用者壓倒性勝利的Windows作為開發平台，除了少數願意製作兩種作業系統都能使用的遊戲公司外，Linux能執行的遊戲軟體不多而且很少有能跟Windows匹敵的遊戲。但是，这一局面随着[威尔乌](../Page/威尔乌.md "wikilink")（Valve）开发[SteamOS而有所缓解](../Page/SteamOS.md "wikilink")，一些3A大作，例如[XCOM
-2以及](../Page/XCOM_2.md "wikilink")[Dota
-2专门开发了Linux版](../Page/Dota_2.md "wikilink")。[Vulkan
-(API)的开发使得在Linux上实现高效的游戏画面渲染成为了可能](../Page/Vulkan_\(API\).md "wikilink")。
+因為Linux使用者不多，所以遊戲軟體公司選擇以使用者壓倒性勝利的Windows作為開發平台，除了少數願意製作兩種作業系統都能使用的遊戲公司外，Linux能執行的遊戲軟體不多而且很少有能跟Windows匹敵的遊戲。但是，这一局面随着[威尔乌](../Page/威尔乌.md "wikilink")（Valve）开发[SteamOS](../Page/SteamOS.md "wikilink")而有所缓解，一些3A大作，例如[XCOM 2以及](../Page/XCOM_2.md "wikilink")[Dota 2专门开发了Linux版](../Page/Dota_2.md "wikilink")。[Vulkan (API)的开发使得在Linux上实现高效的游戏画面渲染成为了可能](../Page/Vulkan_\(API\).md "wikilink")。
 
 ## 多語系支援
 
 早期的Windows系統無法解決多語言問題，因此針對每一種語言都要發行新的版本才能支援當地語言和使用此語言的軟體。例如在英文系統上安裝中文軟體就會出現顯示異常的現象，在中文系統上安裝日语軟體同樣會出現顯示不完全的問題。
 
-從Windows
-2000開始，Windows系統開始支援Unicode編碼以及同時支援多個國家的不同語言軟體。但是在支援西方語言和中文時仍然可以見到軟體亂碼的問題。
+從Windows 2000開始，Windows系統開始支援Unicode編碼以及同時支援多個國家的不同語言軟體。但是在支援西方語言和中文時仍然可以見到軟體亂碼的問題。
 
 Linux在解決多語言問題方面比Windows做得要好。在Linux系統中主要存在的問題是在本地化不徹底，因为更新特别迅速，需要志愿者长时间维护，經常可以發現在中文發行版的Linux中出現個別選單或者選項為英文等情況。相對於Windows系統必須先安裝語言包隨後通過設置並重新啟動以支援非本地語言版軟體，Linux只要修改一個環境變量就可以改變選單顯示語言，這樣甚至可以強制以指定的語言來執行特定應用程式而無須更改系統設置。
 
@@ -46,6 +40,4 @@ Linux和Windows都可以支援Unicode編碼，但是Linux顯示多多少少還�
 
   - [Linux的採用](../Page/Linux的採用.md "wikilink")
 
-[Category:作業系統](https://zh.wikipedia.org/wiki/Category:作業系統 "wikilink")
-[Category:Microsoft_Windows](https://zh.wikipedia.org/wiki/Category:Microsoft_Windows "wikilink")
-[Category:Linux](https://zh.wikipedia.org/wiki/Category:Linux "wikilink")
+[Category:作業系統](https://zh.wikipedia.org/wiki/Category:作業系統 "wikilink") [Category:Microsoft_Windows](https://zh.wikipedia.org/wiki/Category:Microsoft_Windows "wikilink") [Category:Linux](https://zh.wikipedia.org/wiki/Category:Linux "wikilink")

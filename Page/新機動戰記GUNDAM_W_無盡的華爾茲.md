@@ -1,13 +1,10 @@
-《**新機動戰記GUNDAM W：無盡的華爾茲**》（）是1997年發售的日本OVA作品共三集，後來剪輯成動畫電影《新機動戰記GUNDAM W
-Endless Waltz 特別篇》於1998年8月1日上映。故事承接《[新機動戰記GUNDAM
-W](../Page/新機動戰記GUNDAM_W.md "wikilink")》的劇情。
+《**新機動戰記GUNDAM W：無盡的華爾茲**》（）是1997年發售的日本OVA作品共三集，後來剪輯成動畫電影《新機動戰記GUNDAM W Endless Waltz 特別篇》於1998年8月1日上映。故事承接《[新機動戰記GUNDAM W](../Page/新機動戰記GUNDAM_W.md "wikilink")》的劇情。
 
 ## 故事背景
 
 在地球與宇宙间的冲突於殖民後195年圣诞前夜結束后，地球与殖民地联合在了新成立的地球圈统一国家旗下，走上了完全和平的道路。殖民後196年圣诞前夜，除五飛外，希洛等四位GUNDAM駕駛員決心把GUNDAM送往太陽丟棄。然而，就在全世界都在庆祝圣诞之时，地球圈统一国家直属的维和组织“预防者”却在L3宙域发现了战争的火种：用于制造新型机动战士的装甲材料--新鈦合金。
 
-巴頓財團的領袖以及流星作战原计划的主谋，德基姆·巴顿，利用前OZ統帥杜魯斯之女玛丽梅雅作傀儡領袖成立軍隊，以新建殖民地L3
-X-18999為基地，同時绑架擔任地球外交官，前往X-18999訪問的莉莉娜作人質。德基姆企圖利用新型机动战士“毒蛇”以及X-18999殖民地實行真正的流星作戰--通过殖民地落下使地球圈陷入混乱，再利用机动战士进行武力镇压。GUNDAM机师们不得不分头行动：卡特爾驾驶太空梭，前去取回即将被送入太阳的GUNDAM；而希洛与迪歐進入殖民地化解危機。然而，挡在两人面前的，却是已加入玛丽梅雅军的五飛与特洛瓦...
+巴頓財團的領袖以及流星作战原计划的主谋，德基姆·巴顿，利用前OZ統帥杜魯斯之女玛丽梅雅作傀儡領袖成立軍隊，以新建殖民地L3 X-18999為基地，同時绑架擔任地球外交官，前往X-18999訪問的莉莉娜作人質。德基姆企圖利用新型机动战士“毒蛇”以及X-18999殖民地實行真正的流星作戰--通过殖民地落下使地球圈陷入混乱，再利用机动战士进行武力镇压。GUNDAM机师们不得不分头行动：卡特爾驾驶太空梭，前去取回即将被送入太阳的GUNDAM；而希洛与迪歐進入殖民地化解危機。然而，挡在两人面前的，却是已加入玛丽梅雅军的五飛与特洛瓦...
 
 **OVA版(全3話)**
 
@@ -16,8 +13,7 @@ X-18999為基地，同時绑架擔任地球外交官，前往X-18999訪問的莉
   - 第三話 - 回歸於永恆
 
 **Endless Waltz 特別篇**
-特别篇是将OVA三话剪辑为一部电影的剧场版。其中去除了OVA每話間的回顧以及標題畫面，并加插了許多額外場景（如莎莉救出X-18999中的人質，桃樂斯鼓勵人群反抗等）以及各駕駛員戰後生活的片段，同時某些场景的配樂也有所不同（如希洛正式换乘飞翼零式時的BGM，在特别換為主题曲Last
-Impression）。
+特别篇是将OVA三话剪辑为一部电影的剧场版。其中去除了OVA每話間的回顧以及標題畫面，并加插了許多額外場景（如莎莉救出X-18999中的人質，桃樂斯鼓勵人群反抗等）以及各駕駛員戰後生活的片段，同時某些场景的配樂也有所不同（如希洛正式换乘飞翼零式時的BGM，在特别換為主题曲Last Impression）。
 
 ## 登場人物
 
@@ -88,14 +84,6 @@ Impression）。
 
 ## 外部連結
 
-  - [Mobile Suit Gundam Wing: The Movie - Endless
-    Waltz](http://www.imdb.com/title/tt0260191/)
+  - [Mobile Suit Gundam Wing: The Movie - Endless Waltz](http://www.imdb.com/title/tt0260191/)
 
-[Category:殖民後紀元](https://zh.wikipedia.org/wiki/Category:殖民後紀元 "wikilink")
-[Category:Comic_BomBom](https://zh.wikipedia.org/wiki/Category:Comic_BomBom "wikilink")
-[Category:GUNDAM系列](https://zh.wikipedia.org/wiki/Category:GUNDAM系列 "wikilink")
-[Category:1997年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:1997年日本OVA動畫 "wikilink")
-[Category:1998年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:1998年日本劇場動畫 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:講談社](https://zh.wikipedia.org/wiki/Category:講談社 "wikilink")
-[Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink")
+[Category:殖民後紀元](https://zh.wikipedia.org/wiki/Category:殖民後紀元 "wikilink") [Category:Comic_BomBom](https://zh.wikipedia.org/wiki/Category:Comic_BomBom "wikilink") [Category:GUNDAM系列](https://zh.wikipedia.org/wiki/Category:GUNDAM系列 "wikilink") [Category:1997年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:1997年日本OVA動畫 "wikilink") [Category:1998年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:1998年日本劇場動畫 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:講談社](https://zh.wikipedia.org/wiki/Category:講談社 "wikilink") [Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink")

@@ -614,8 +614,7 @@
 
 ::\*TF19 其他冶金技术
 
-:\*TF3
-[冶金机械](https://zh.wikipedia.org/wiki/冶金机械 "wikilink")、[冶金生产自动化](https://zh.wikipedia.org/wiki/冶金生产自动化 "wikilink")
+:\*TF3 [冶金机械](https://zh.wikipedia.org/wiki/冶金机械 "wikilink")、[冶金生产自动化](https://zh.wikipedia.org/wiki/冶金生产自动化 "wikilink")
 
 :::\*TF301 基础理论
 

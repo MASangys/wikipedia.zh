@@ -1,14 +1,12 @@
-[HK_TWGHs_WongChukHangComplex.JPG](https://zh.wikipedia.org/wiki/File:HK_TWGHs_WongChukHangComplex.JPG "fig:HK_TWGHs_WongChukHangComplex.JPG")取景拍攝\]\]
-《**妙手仁心II**》（），[香港](../Page/香港.md "wikilink")[電視廣播有限公司時裝醫務](../Page/電視廣播有限公司.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，由[吳啟華](../Page/吳啟華.md "wikilink")、[林保怡](../Page/林保怡.md "wikilink")、[蒙嘉慧](../Page/蒙嘉慧.md "wikilink")、[陳豪](../Page/陳豪.md "wikilink")、[邵美琪及](../Page/邵美琪.md "wikilink")[陳慧珊領銜主演](../Page/陳慧珊.md "wikilink")，由[曹永廉](../Page/曹永廉.md "wikilink")、[陳潔儀](../Page/陳潔儀_\(新加坡\).md "wikilink")、[唐文龍及](../Page/唐文龍.md "wikilink")[袁彩雲聯合主演](https://zh.wikipedia.org/wiki/袁彩雲 "wikilink")，並由[馬浚偉](../Page/馬浚偉.md "wikilink")、[蔡少芬及](../Page/蔡少芬.md "wikilink")[鄧萃雯特別演出](../Page/鄧萃雯.md "wikilink")，監製為[戚其義](../Page/戚其義.md "wikilink")。此劇為《[妙手仁心](../Page/妙手仁心.md "wikilink")》系列第二輯，**33周年台慶劇**。
+[HK_TWGHs_WongChukHangComplex.JPG](https://zh.wikipedia.org/wiki/File:HK_TWGHs_WongChukHangComplex.JPG "fig:HK_TWGHs_WongChukHangComplex.JPG")取景拍攝\]\] 《**妙手仁心II**》（），[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")時裝醫務[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，由[吳啟華](../Page/吳啟華.md "wikilink")、[林保怡](../Page/林保怡.md "wikilink")、[蒙嘉慧](../Page/蒙嘉慧.md "wikilink")、[陳豪](../Page/陳豪.md "wikilink")、[邵美琪](../Page/邵美琪.md "wikilink")及[陳慧珊](../Page/陳慧珊.md "wikilink")領銜主演，由[曹永廉](../Page/曹永廉.md "wikilink")、[陳潔儀](../Page/陳潔儀_\(新加坡\).md "wikilink")、[唐文龍](../Page/唐文龍.md "wikilink")及[袁彩雲聯合主演](https://zh.wikipedia.org/wiki/袁彩雲 "wikilink")，並由[馬浚偉](../Page/馬浚偉.md "wikilink")、[蔡少芬](../Page/蔡少芬.md "wikilink")及[鄧萃雯](../Page/鄧萃雯.md "wikilink")特別演出，監製為[戚其義](../Page/戚其義.md "wikilink")。此劇為《[妙手仁心](../Page/妙手仁心.md "wikilink")》系列第二輯，**33周年台慶劇**。
 
-此劇于2003年10月10日、2007年9月4日在[翡翠台](../Page/翡翠台.md "wikilink")，2014年6月在[TVB經典台](../Page/TVB經典台.md "wikilink")，2016年1月2日在[TVB星河頻道](../Page/TVB星河頻道.md "wikilink")，2017年4月15日再次在[翡翠台重播](../Page/翡翠台.md "wikilink")。
+此劇于2003年10月10日、2007年9月4日在[翡翠台](../Page/翡翠台.md "wikilink")，2014年6月在[TVB經典台](../Page/TVB經典台.md "wikilink")，2016年1月2日在[TVB星河頻道](../Page/TVB星河頻道.md "wikilink")，2017年4月15日再次在[翡翠台](../Page/翡翠台.md "wikilink")重播。
 
 ## 故事大綱
 
-自唐姿禮（[蔡少芬飾](../Page/蔡少芬.md "wikilink")）昏迷後
-，程至美（[吳啟華飾](../Page/吳啟華.md "wikilink")）一直在病床守候。至美對感情的執著深深吸引著同院另一名醫生何心妍（[蒙嘉慧飾](../Page/蒙嘉慧.md "wikilink")）。心妍是富家女，跟同樣出身豪門的風流醫生林敏智（[陳豪飾](../Page/陳豪.md "wikilink")）本是戀人，但至美的出現使她認識到什麼才是細水長流的愛情。
+自唐姿禮（[蔡少芬](../Page/蔡少芬.md "wikilink")飾）昏迷後 ，程至美（[吳啟華](../Page/吳啟華.md "wikilink")飾）一直在病床守候。至美對感情的執著深深吸引著同院另一名醫生何心妍（[蒙嘉慧](../Page/蒙嘉慧.md "wikilink")飾）。心妍是富家女，跟同樣出身豪門的風流醫生林敏智（[陳豪](../Page/陳豪.md "wikilink")飾）本是戀人，但至美的出現使她認識到什麼才是細水長流的愛情。
 
-自從江滿月（[蘇永康飾](../Page/蘇永康.md "wikilink")）愛滋病發辭世後，其姊江新月（[陳慧珊飾](../Page/陳慧珊.md "wikilink")）大受打擊，黎國柱（[林保怡飾](../Page/林保怡.md "wikilink")）從旁安慰，二人情苗得以滋長。正當大家都以為他倆能開花結果之際，國柱又再受考驗。他和助手阮朗平（[陳潔儀飾](https://zh.wikipedia.org/wiki/陳潔儀 "wikilink")）日夕相對，二人最終經不起誘惑，背著新月發展另一段感情。後來朗平對新月感萬分歉疚，寧願獨自離開香港。不久，遠方傳來朗平懷孕的消息，國柱知道後即推測自己就是孩子的父親，情急下向新月自揭偷情真相。
+自從江滿月（[蘇永康](../Page/蘇永康.md "wikilink")飾）愛滋病發辭世後，其姊江新月（[陳慧珊](../Page/陳慧珊.md "wikilink")飾）大受打擊，黎國柱（[林保怡](../Page/林保怡.md "wikilink")飾）從旁安慰，二人情苗得以滋長。正當大家都以為他倆能開花結果之際，國柱又再受考驗。他和助手阮朗平（[陳潔儀飾](https://zh.wikipedia.org/wiki/陳潔儀 "wikilink")）日夕相對，二人最終經不起誘惑，背著新月發展另一段感情。後來朗平對新月感萬分歉疚，寧願獨自離開香港。不久，遠方傳來朗平懷孕的消息，國柱知道後即推測自己就是孩子的父親，情急下向新月自揭偷情真相。
 
 ## 演員表
 
@@ -737,21 +735,17 @@ Johnson之女友</p></td>
 
 ## 記事
 
-  - 2000年7月31日：此劇在[清水灣](https://zh.wikipedia.org/wiki/清水灣 "wikilink")[電視城舉行試造型記者會](../Page/電視城.md "wikilink")。\[1\]
+  - 2000年7月31日：此劇在[清水灣](https://zh.wikipedia.org/wiki/清水灣 "wikilink")[電視城](../Page/電視城.md "wikilink")舉行試造型記者會。\[1\]
 
 ## 參考資料
 
 ## 外部連結
 
-  - [《妙手仁心II》 GOTV
-    第1集重溫](https://web.archive.org/web/20140222162421/http://gotv.tvb.com/programme/102369/149336/)
+  - [《妙手仁心II》 GOTV 第1集重溫](https://web.archive.org/web/20140222162421/http://gotv.tvb.com/programme/102369/149336/)
+  - [《妙手仁心II》 encoreTVB線上看](https://encoretvb.com/cantonese/series/1220-Healing_Hands_II)
 
 ## 電視節目的變遷
 
-[Category:無綫電視劇集系列](https://zh.wikipedia.org/wiki/Category:無綫電視劇集系列 "wikilink")
-[Category:2000年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:2000年無綫電視劇集 "wikilink")
-[Category:無綫電視2000年代背景劇集](https://zh.wikipedia.org/wiki/Category:無綫電視2000年代背景劇集 "wikilink")
-[Category:無綫電視醫學劇集](https://zh.wikipedia.org/wiki/Category:無綫電視醫學劇集 "wikilink")
-[Category:電視劇續集](https://zh.wikipedia.org/wiki/Category:電視劇續集 "wikilink")
+[Category:無綫電視劇集系列](https://zh.wikipedia.org/wiki/Category:無綫電視劇集系列 "wikilink") [Category:2000年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:2000年無綫電視劇集 "wikilink") [Category:無綫電視2000年代背景劇集](https://zh.wikipedia.org/wiki/Category:無綫電視2000年代背景劇集 "wikilink") [Category:無綫電視醫學劇集](https://zh.wikipedia.org/wiki/Category:無綫電視醫學劇集 "wikilink") [Category:電視劇續集](https://zh.wikipedia.org/wiki/Category:電視劇續集 "wikilink")
 
 1.

@@ -1,5 +1,4 @@
-[Pentium
-4處理器是](https://zh.wikipedia.org/wiki/Pentium_4 "wikilink")[英特爾針對消費者市場的第七代微處理器](https://zh.wikipedia.org/wiki/英特爾 "wikilink")。
+[Pentium 4處理器是](https://zh.wikipedia.org/wiki/Pentium_4 "wikilink")[英特爾針對消費者市場的第七代微處理器](https://zh.wikipedia.org/wiki/英特爾 "wikilink")。
 
 ## 桌上型處理器
 
@@ -49,10 +48,8 @@
 #### "Prescott" (90 nm)
 
   - 支援功能：[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")
-  - 型號5x6、511及519K支援[Intel
-    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")
-  - 型號5x5J、519J，及所有支援Intel 64的產品，均支援[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")
+  - 型號5x6、511及519K支援[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")
+  - 型號5x5J、519J，及所有支援Intel 64的產品，均支援[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")
 
 | 型號              | 時脈       | L2 快取記憶體 | [前端匯流排](https://zh.wikipedia.org/wiki/前端匯流排 "wikilink") | 倍頻  | 電壓         | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") | 插座                                             | 發行日期      |
 | --------------- | -------- | -------- | ------------------------------------------------------- | --- | ---------- | --------------------------------------------------- | ---------------------------------------------- | --------- |
@@ -89,10 +86,8 @@
 #### "Prescott" (90 nm)
 
   - 支援功能：[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[超執行緒](../Page/超執行緒.md "wikilink")
-  - 型號F系列、5x1、517及524支援[Intel
-    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")
-  - 型號5x0J、5x1、517及524支援[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")
+  - 型號F系列、5x1、517及524支援[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")
+  - 型號5x0J、5x1、517及524支援[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")
 
 | 型號                | 時脈       | L2 快取記憶體 | [前端匯流排](https://zh.wikipedia.org/wiki/前端匯流排 "wikilink") | 倍頻  | 電壓         | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") | 插座                                             | 發行日期        |
 | ----------------- | -------- | -------- | ------------------------------------------------------- | --- | ---------- | --------------------------------------------------- | ---------------------------------------------- | ----------- |
@@ -126,9 +121,7 @@
 
 #### "Prescott 2M"
 
-  - 支援功能：[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[超執行緒](../Page/超執行緒.md "wikilink")、[Intel
-    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")
+  - 支援功能：[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[超執行緒](../Page/超執行緒.md "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")
   - 6x2型號支援[虛擬化技術](https://zh.wikipedia.org/wiki/虛擬化技術 "wikilink")
   - 除620型號外，其餘均支援[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")
 
@@ -145,9 +138,7 @@
 
 #### "Cedar Mill" (65 nm)
 
-  - 支援功能：[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[超執行緒](../Page/超執行緒.md "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、[Intel
-    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")
+  - 支援功能：[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[超執行緒](../Page/超執行緒.md "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")
 
 | 型號               | 時脈       | L2 快取記憶體 | [前端匯流排](https://zh.wikipedia.org/wiki/前端匯流排 "wikilink") | 倍頻  | 電壓        | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") | 插座                                       | 發行日期       |
 | ---------------- | -------- | -------- | ------------------------------------------------------- | --- | --------- | --------------------------------------------------- | ---------------------------------------- | ---------- |
@@ -171,9 +162,7 @@
 
 #### "Prescott 2M" (90 nm)
 
-  - 支援功能：[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[超執行緒](../Page/超執行緒.md "wikilink")、[Intel
-    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")
+  - 支援功能：[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[超執行緒](../Page/超執行緒.md "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")
 
 | 型號                | 時脈       | L2 快取記憶體 | [前端匯流排](https://zh.wikipedia.org/wiki/前端匯流排 "wikilink") | 倍頻  | 電壓        | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") | 插座                                       | 發行日期       |
 | ----------------- | -------- | -------- | ------------------------------------------------------- | --- | --------- | --------------------------------------------------- | ---------------------------------------- | ---------- |

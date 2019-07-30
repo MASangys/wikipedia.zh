@@ -1,5 +1,4 @@
-**電車でGO\! 新幹線EX 山陽新幹線編**（前名：電車でGO\! 新幹線06
-山陽新幹線編）是[Taito公司](../Page/太東.md "wikilink")，在2007年3月1日於[Wii平台上推出的遊戲](../Page/Wii.md "wikilink")。
+**電車でGO\! 新幹線EX 山陽新幹線編**（前名：電車でGO\! 新幹線06 山陽新幹線編）是[Taito公司](../Page/太東.md "wikilink")，在2007年3月1日於[Wii](../Page/Wii.md "wikilink")平台上推出的遊戲。
 
 ## 遊戲規則
 
@@ -57,13 +56,11 @@
 
 ### 兒童模式
 
-本遊戲在兒童模式（Kids
-Mode）中，加入了體感要素。例如：揮動[Wii遙控器可讓列車加速](https://zh.wikipedia.org/wiki/Wii_Remote "wikilink")、以Wii遙控器指向[ATC確認按鈕來模擬實際列車駕駛的確認動作](https://zh.wikipedia.org/wiki/自動列車控制裝置 "wikilink")、用Wii遙控器瞄準行進路線上的加分的圖案可獲得少許加分。另外在一般模式中較困難的煞車過程，則被簡化成按一個按鈕即可動作，避免孩童在遊戲過程中遭受過大的挫折感。
+本遊戲在兒童模式（Kids Mode）中，加入了體感要素。例如：揮動[Wii遙控器可讓列車加速](https://zh.wikipedia.org/wiki/Wii_Remote "wikilink")、以Wii遙控器指向[ATC確認按鈕來模擬實際列車駕駛的確認動作](https://zh.wikipedia.org/wiki/自動列車控制裝置 "wikilink")、用Wii遙控器瞄準行進路線上的加分的圖案可獲得少許加分。另外在一般模式中較困難的煞車過程，則被簡化成按一個按鈕即可動作，避免孩童在遊戲過程中遭受過大的挫折感。
 
 ### 自由模式
 
-在自由模式（Freerun
-Mode）中，可以選擇任何遊戲中的車輛、以及起終點車站、出發時間以及天氣來進行遊戲。列車不會受到ATC速限的限制，也會受到路線上下坡的影響改變列車速度。但玩家無法選擇中途停靠車站，在停靠站會強制列車停車。
+在自由模式（Freerun Mode）中，可以選擇任何遊戲中的車輛、以及起終點車站、出發時間以及天氣來進行遊戲。列車不會受到ATC速限的限制，也會受到路線上下坡的影響改變列車速度。但玩家無法選擇中途停靠車站，在停靠站會強制列車停車。
 
 ## 遊戲資料
 
@@ -77,10 +74,8 @@ Mode）中，可以選擇任何遊戲中的車輛、以及起終點車站、出�
 
 ### 收錄路線
 
-  - [山陽新幹線](../Page/山陽新幹線.md "wikilink")：[新大阪](https://zh.wikipedia.org/wiki/新大阪站 "wikilink")
-    — [博多](https://zh.wikipedia.org/wiki/博多站 "wikilink") 上、下行
-  - [博多南線](../Page/博多南線.md "wikilink")：[博多](https://zh.wikipedia.org/wiki/博多站 "wikilink")
-    — [博多南](https://zh.wikipedia.org/wiki/博多南站 "wikilink") 上、下行
+  - [山陽新幹線](../Page/山陽新幹線.md "wikilink")：[新大阪](https://zh.wikipedia.org/wiki/新大阪站 "wikilink") — [博多](https://zh.wikipedia.org/wiki/博多站 "wikilink") 上、下行
+  - [博多南線](../Page/博多南線.md "wikilink")：[博多](https://zh.wikipedia.org/wiki/博多站 "wikilink") — [博多南](https://zh.wikipedia.org/wiki/博多南站 "wikilink") 上、下行
 
 ### 駕駛模式路線
 
@@ -645,13 +640,10 @@ Mode）中，可以選擇任何遊戲中的車輛、以及起終點車站、出�
 
 ## 外部連結
 
-[電車でＧＯ！ 新幹線ＥＸ
-山陽新幹線編](http://www.taito.co.jp/csm/title/2007/shinkansen06/)
+[電車でＧＯ！ 新幹線ＥＸ 山陽新幹線編](http://www.taito.co.jp/csm/title/2007/shinkansen06/)
 
-[ja:電車でGO\!\#電車でGO\! 新幹線EX
-山陽新幹線編](https://zh.wikipedia.org/wiki/ja:電車でGO!#電車でGO!_新幹線EX_山陽新幹線編 "wikilink")
+[ja:電車でGO\!\#電車でGO\! 新幹線EX 山陽新幹線編](https://zh.wikipedia.org/wiki/ja:電車でGO!#電車でGO!_新幹線EX_山陽新幹線編 "wikilink")
 
-[Category:Wii遊戲](https://zh.wikipedia.org/wiki/Category:Wii遊戲 "wikilink")
-[Category:模擬遊戲](https://zh.wikipedia.org/wiki/Category:模擬遊戲 "wikilink")
+[Category:Wii遊戲](https://zh.wikipedia.org/wiki/Category:Wii遊戲 "wikilink") [Category:模擬遊戲](https://zh.wikipedia.org/wiki/Category:模擬遊戲 "wikilink")
 
 1.  在現實行駛列車時，啟動緊急軔機會使乘客因慣性受到極大的衝擊，若非緊急事故停車，駕駛通常不會使用，而且新幹線不會有平交道，因此沒有可能因平交道被佔用而需緊急停車。此功能只在強烈地震時有用，但遊戲中沒有地震設定

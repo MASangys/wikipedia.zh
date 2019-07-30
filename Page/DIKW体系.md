@@ -2,13 +2,7 @@
 
 ## 歷史
 
-這個模型可以追溯於[托馬斯·斯特爾那斯·艾略特所寫的詩](https://zh.wikipedia.org/wiki/托馬斯·斯特爾那斯·艾略特 "wikilink")－《岩石》（The
-Rock）。在首段，他寫道：“知識中的智慧我們在那裡丟失？資訊中的知識我們在那裡丟失？”（*Where is the wisdom we
-have lost in knowledge? / Where is the knowledge we have lost in
-information?*）。[哈藍·克利夫蘭根據這個](https://zh.wikipedia.org/wiki/哈藍·克利夫蘭 "wikilink")1982年12月在《未來主義者》雜誌中的文章－“資訊有如資源”的基礎來建設這個[體系](https://zh.wikipedia.org/wiki/體系 "wikilink")。後來這個體系得到[米蘭·瑟蘭尼](https://zh.wikipedia.org/wiki/米蘭·瑟蘭尼 "wikilink")（Milan
-Zeleny）及[羅素·艾可夫](https://zh.wikipedia.org/wiki/羅素·艾可夫 "wikilink")（Russell
-.L. Ackoff）不斷的擴展。
-[1](https://web.archive.org/web/20051221151426/http://www-personal.si.umich.edu/~nsharma/dikw_origin.htm)
+這個模型可以追溯於[托馬斯·斯特爾那斯·艾略特所寫的詩](https://zh.wikipedia.org/wiki/托馬斯·斯特爾那斯·艾略特 "wikilink")－《岩石》（The Rock）。在首段，他寫道：“知識中的智慧我們在那裡丟失？資訊中的知識我們在那裡丟失？”（*Where is the wisdom we have lost in knowledge? / Where is the knowledge we have lost in information?*）。[哈藍·克利夫蘭根據這個](https://zh.wikipedia.org/wiki/哈藍·克利夫蘭 "wikilink")1982年12月在《未來主義者》雜誌中的文章－“資訊有如資源”的基礎來建設這個[體系](https://zh.wikipedia.org/wiki/體系 "wikilink")。後來這個體系得到[米蘭·瑟蘭尼](https://zh.wikipedia.org/wiki/米蘭·瑟蘭尼 "wikilink")（Milan Zeleny）及[羅素·艾可夫](https://zh.wikipedia.org/wiki/羅素·艾可夫 "wikilink")（Russell .L. Ackoff）不斷的擴展。 [1](https://web.archive.org/web/20051221151426/http://www-personal.si.umich.edu/~nsharma/dikw_origin.htm)
 
 ## 應用
 
@@ -21,10 +15,8 @@ Zeleny）及[羅素·艾可夫](https://zh.wikipedia.org/wiki/羅素·艾可夫 
 
 ## 參考文獻
 
-1.  [羅素·艾可夫](https://zh.wikipedia.org/wiki/羅素·艾可夫 "wikilink")（Russell
-    .L. Ackoff），從資料到智慧，《應用系統分析期刊》第16冊 (1989): 3-9.
-2.  [米蘭·瑟蘭尼](https://zh.wikipedia.org/wiki/米蘭·瑟蘭尼 "wikilink")（Milan
-    Zeleny），管理支援系統：邁向整合知識管理，《人力系統管理》第7冊，no 1 (1987): 59-70.
+1.  [羅素·艾可夫](https://zh.wikipedia.org/wiki/羅素·艾可夫 "wikilink")（Russell .L. Ackoff），從資料到智慧，《應用系統分析期刊》第16冊 (1989): 3-9.
+2.  [米蘭·瑟蘭尼](https://zh.wikipedia.org/wiki/米蘭·瑟蘭尼 "wikilink")（Milan Zeleny），管理支援系統：邁向整合知識管理，《人力系統管理》第7冊，no 1 (1987): 59-70.
 3.  M. Cooley. Architecture or Bee? (London: The Hogarth Press, 1987).
 4.  [哈藍·克利夫蘭](https://zh.wikipedia.org/wiki/哈藍·克利夫蘭 "wikilink")，資訊有如資源，《未來主義者》，1982年12月，34-39.
 5.  托馬斯·斯特爾那斯·艾略特，《岩石》 (Faber & Faber 1934).

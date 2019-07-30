@@ -1,12 +1,10 @@
-**Leet**（[英文中亦稱](https://zh.wikipedia.org/wiki/英文 "wikilink")
-**leetspeak** 或 **eleet**。Leet拼寫法：L337, 3L337,
-31337或1337），又稱**[駭客語](https://zh.wikipedia.org/wiki/駭客 "wikilink")**，是指一種發源於[歐美地區的](https://zh.wikipedia.org/wiki/歐美 "wikilink")[BBS](../Page/BBS.md "wikilink")、[線上遊戲和](https://zh.wikipedia.org/wiki/線上遊戲 "wikilink")[駭客社群所使用的文字書寫方式](https://zh.wikipedia.org/wiki/駭客 "wikilink")。通常是把[拉丁字母轉變成](../Page/拉丁字母.md "wikilink")[數字或是](../Page/數字.md "wikilink")[特殊符號](https://zh.wikipedia.org/wiki/特殊符號 "wikilink")，例如E寫成3、A寫成@等。或是將[單字寫成同音的](https://zh.wikipedia.org/wiki/單字 "wikilink")[字母或](../Page/字母.md "wikilink")[數字](../Page/數字.md "wikilink")，如to寫成2、for寫成4等等。
+**Leet**（[英文中亦稱](https://zh.wikipedia.org/wiki/英文 "wikilink") **leetspeak** 或 **eleet**。Leet拼寫法：L337, 3L337, 31337或1337），又稱**[駭客語](https://zh.wikipedia.org/wiki/駭客 "wikilink")**，是指一種發源於[歐美地區的](https://zh.wikipedia.org/wiki/歐美 "wikilink")[BBS](../Page/BBS.md "wikilink")、[線上遊戲和](https://zh.wikipedia.org/wiki/線上遊戲 "wikilink")[駭客社群所使用的文字書寫方式](https://zh.wikipedia.org/wiki/駭客 "wikilink")。通常是把[拉丁字母](../Page/拉丁字母.md "wikilink")轉變成[數字](../Page/數字.md "wikilink")或是[特殊符號](https://zh.wikipedia.org/wiki/特殊符號 "wikilink")，例如E寫成3、A寫成@等。或是將[單字寫成同音的](https://zh.wikipedia.org/wiki/單字 "wikilink")[字母](../Page/字母.md "wikilink")或[數字](../Page/數字.md "wikilink")，如to寫成2、for寫成4等等。
 
 在「Leet」作為這種書寫系統的通用稱呼之前，這個詞原先在英文中意指。但這裡的Leet則是源於[英語的elite](https://zh.wikipedia.org/wiki/英語 "wikilink")（精簡），後由elite轉為eleet，再轉變為leet。
 
 ## 英文的Leet寫法
 
-由於Leet不是正式的書寫系統，其拼寫方式並沒有一定的標準，因此一個字符可以同時存在多種Leet寫法。以[英文字母為例](../Page/英文字母.md "wikilink")，常見的Leet寫法包括：
+由於Leet不是正式的書寫系統，其拼寫方式並沒有一定的標準，因此一個字符可以同時存在多種Leet寫法。以[英文字母](../Page/英文字母.md "wikilink")為例，常見的Leet寫法包括：
 
 <div style="overflow-x: auto">
 
@@ -311,19 +309,11 @@
 
 原文：
 
-7h1$ 1$ 4n 3x4mp£3 0ƒ £337 47 17$ ƒ1n3$7. 1 w1££ 74|{3 7h1$ 0pp0r7µn17¥
-70 r3m1nÐ ¥0µ 7h47 ¥0µ $h0µ£Ð 4£w4¥$ 937 ¥0µr ~~|{1Ð$~~ p37 $p4¥3Ð 0r
-n3µ73r3Ð. N3v3r £34v3 h0m3 w17h0µ7 4 70w3£. 4nÐ n0 m4773r wh47 7h3¥
-$4¥, 7h3r3 1$ n0 (\[\]\\/\\/ |_3\\/3|_. |_0|_ h4x.
+7h1$ 1$ 4n 3x4mp£3 0ƒ £337 47 17$ ƒ1n3$7. 1 w1££ 74|{3 7h1$ 0pp0r7µn17¥ 70 r3m1nÐ ¥0µ 7h47 ¥0µ $h0µ£Ð 4£w4¥$ 937 ¥0µr ~~|{1Ð$~~ p37 $p4¥3Ð 0r n3µ73r3Ð. N3v3r £34v3 h0m3 w17h0µ7 4 70w3£. 4nÐ n0 m4773r wh47 7h3¥ $4¥, 7h3r3 1$ n0 (\[\]\\/\\/ |_3\\/3|_. |_0|_ h4x.
 
 翻譯：
 
-This is an example of leet at its finest. I will take this opportunity
-to remind you that you should always get your ~~kids~~ pet spayed or
-neutered. Never leave home without a towel. And no matter what they say,
-there is no cow level. Lol hax.
-这是一个LEET文字最好的例子。我要借此机会提醒你，你应该总是让你的~~孩子~~宠物绝育。永遠不要沒帶毛巾就出門。而不管他们说什么，根本沒有乳牛關。([見這裡](http://www.wowwiki.com/There_is_no_cow_level)、[這裡和](https://zh.wikipedia.org/wiki/暗黑破壞神II#.E7.A7.98.E5.AF.86.E6.AF.8D.E7.89.9B.E5.85.B3.E5.8D.A1 "wikilink")[這裡](http://diablo.wikia.com/wiki/The_Secret_Cow_Level))LOL
-HAX。
+This is an example of leet at its finest. I will take this opportunity to remind you that you should always get your ~~kids~~ pet spayed or neutered. Never leave home without a towel. And no matter what they say, there is no cow level. Lol hax. 这是一个LEET文字最好的例子。我要借此机会提醒你，你应该总是让你的~~孩子~~宠物绝育。永遠不要沒帶毛巾就出門。而不管他们说什么，根本沒有乳牛關。([見這裡](http://www.wowwiki.com/There_is_no_cow_level)、[這裡和](https://zh.wikipedia.org/wiki/暗黑破壞神II#.E7.A7.98.E5.AF.86.E6.AF.8D.E7.89.9B.E5.85.B3.E5.8D.A1 "wikilink")[這裡](http://diablo.wikia.com/wiki/The_Secret_Cow_Level))LOL HAX。
 
 （二）
 
@@ -347,8 +337,7 @@ Now is the time
 
 ## 中文的leet
 
-中文的網絡語言中，也有類似leet的寫法。利用部分[漢字由組件合成的特性](https://zh.wikipedia.org/wiki/漢字 "wikilink")，一個漢字被分拆成兩個或以上的組件，主要是左右拆分，讓個別的字看起來拉長了，如將-{zh-hans:“頭”字（“头”的繁体字形）;
-zh-hant:「頭」字;}-拆成「-{豆頁}-」。很多時組件本身是單獨漢字。中國簡體繁體會有一定差別，但實質差不多。例子：
+中文的網絡語言中，也有類似leet的寫法。利用部分[漢字由組件合成的特性](https://zh.wikipedia.org/wiki/漢字 "wikilink")，一個漢字被分拆成兩個或以上的組件，主要是左右拆分，讓個別的字看起來拉長了，如將-{zh-hans:“頭”字（“头”的繁体字形）; zh-hant:「頭」字;}-拆成「-{豆頁}-」。很多時組件本身是單獨漢字。中國簡體繁體會有一定差別，但實質差不多。例子：
 
 | 原來寫法      | leet寫法                         |
 | --------- | ------------------------------ |

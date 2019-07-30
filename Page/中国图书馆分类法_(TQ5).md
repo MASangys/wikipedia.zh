@@ -134,8 +134,7 @@
 
 ::::\*TQ529.2 间接液化
 
-::\*TQ53
-[煤化学及](../Page/煤化学.md "wikilink")[煤的加工利用](../Page/煤.md "wikilink")
+::\*TQ53 [煤化学](../Page/煤化学.md "wikilink")及[煤](../Page/煤.md "wikilink")的加工利用
 
 :::\*TQ530 煤化学基础理论
 
@@ -257,8 +256,7 @@
 
 ::\*TQ55 [燃料照明工业](https://zh.wikipedia.org/wiki/燃料照明工业 "wikilink")
 
-::\*TQ56
-[爆炸物工业](https://zh.wikipedia.org/wiki/爆炸物工业 "wikilink")、[火柴工业](https://zh.wikipedia.org/wiki/火柴工业 "wikilink")
+::\*TQ56 [爆炸物工业](https://zh.wikipedia.org/wiki/爆炸物工业 "wikilink")、[火柴工业](https://zh.wikipedia.org/wiki/火柴工业 "wikilink")
 
 ::::\*TQ56-09 火药史、古代火工术
 
@@ -834,7 +832,7 @@
 
 :::::\*TQ597.91 磁光存储产品
 
-:::::\*TQ597.92 [全息存储产品](../Page/全息存储.md "wikilink")
+:::::\*TQ597.92 [全息存储](../Page/全息存储.md "wikilink")产品
 
 :::\*TQ598 光学记录材料厂
 

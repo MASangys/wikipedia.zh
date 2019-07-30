@@ -1,5 +1,4 @@
-**Face To Face**
-是一隊已經解散的[香港](../Page/香港.md "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")，由[蔡慧玲和](https://zh.wikipedia.org/wiki/蔡慧玲_\(香港\) "wikilink")[吳少芳組成](https://zh.wikipedia.org/wiki/吳少芳 "wikilink")。
+**Face To Face** 是一隊已經解散的[香港](../Page/香港.md "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")，由[蔡慧玲和](https://zh.wikipedia.org/wiki/蔡慧玲_\(香港\) "wikilink")[吳少芳組成](https://zh.wikipedia.org/wiki/吳少芳 "wikilink")。
 
 ## 成員
 
@@ -40,15 +39,11 @@
 
 ## 音樂事業
 
-Face To Face在1990年出道。與
-[Echo](../Page/Echo_\(香港\).md "wikilink")（另一隊同期二人女子組合）一樣是注重形象包裝，[歌曲路線兩者也大致相近](../Page/歌曲.md "wikilink")。但Face
-To
-Face的歌格調較柔和，[音樂類型也多樣化](https://zh.wikipedia.org/wiki/音樂 "wikilink")，因此也頗受歡迎。以《一些》、《蝶夢》和《情迷Milano》較為熟悉。
+Face To Face在1990年出道。與 [Echo](../Page/Echo_\(香港\).md "wikilink")（另一隊同期二人女子組合）一樣是注重形象包裝，[歌曲](../Page/歌曲.md "wikilink")路線兩者也大致相近。但Face To Face的歌格調較柔和，[音樂類型也多樣化](https://zh.wikipedia.org/wiki/音樂 "wikilink")，因此也頗受歡迎。以《一些》、《蝶夢》和《情迷Milano》較為熟悉。
 
 ## 交通意外
 
-1992年，成員吳少芳（Jodi）和其[經理人駕車返回](https://zh.wikipedia.org/wiki/經紀人 "wikilink")[將軍澳寓所](../Page/將軍澳.md "wikilink")，在距離寓所還有3分鐘車程的地方與一架泥頭車相撞。這次撞車令吳少芳四肢癱瘓，其經理人亦逝世，蔡慧玲（Connie）在事故後宣佈退出，Face
-To Face亦隨之解散。
+1992年，成員吳少芳（Jodi）和其[經理人駕車返回](https://zh.wikipedia.org/wiki/經紀人 "wikilink")[將軍澳](../Page/將軍澳.md "wikilink")寓所，在距離寓所還有3分鐘車程的地方與一架泥頭車相撞。這次撞車令吳少芳四肢癱瘓，其經理人亦逝世，蔡慧玲（Connie）在事故後宣佈退出，Face To Face亦隨之解散。
 
 2013年1月4日，Face To Face再次亮相舞台演出，成員吳少芳復出坐輪椅獻唱，晚會為全癱病人籌款，故她義不容辭獻唱。\[2\]
 
@@ -207,6 +202,8 @@ To Face亦隨之解散。
 | [Face To Face（情迷Milano）](https://zh.wikipedia.org/wiki/Face_To_Face_\(1991年同名專輯\)_\(情迷Milano\) "wikilink") |
 | **1992年**                                                                                                  |
 | [In My Dreams](https://zh.wikipedia.org/wiki/In_My_Dreams "wikilink")                                      |
+| In My Dreams                                                                                               |
+| In My Dreams                                                                                               |
 | **2013年**                                                                                                  |
 | [Why Me？](https://zh.wikipedia.org/wiki/Why_Me？ "wikilink")                                                |
 
@@ -224,8 +221,7 @@ To Face亦隨之解散。
 
 <references/>
 
-FACE TO FACE @ "十大過四十”音樂會
-(http://hejnom.blogspot.hk/2012/12/12-3mon.html)
+FACE TO FACE @ "十大過四十”音樂會 (http://hejnom.blogspot.hk/2012/12/12-3mon.html)
 
 ### 書刊
 
@@ -236,8 +232,7 @@ FACE TO FACE @ "十大過四十”音樂會
   - [唱片資料](http://robokon.orgfree.com/9095/9095_FaceToFace.htm)
   - [憶13年前車禍吳少芳懷念已逝經理人](http://news.sina.com.hk/cgi-bin/news/show_news.cgi?date=2005-11-28&type=entertain&id=1572526&ct=entertain)
 
-[Category:香港女子演唱團體](https://zh.wikipedia.org/wiki/Category:香港女子演唱團體 "wikilink")
-[Category:已解散的女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的女子演唱團體 "wikilink")
+[Category:香港女子演唱團體](https://zh.wikipedia.org/wiki/Category:香港女子演唱團體 "wikilink") [Category:已解散的女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的女子演唱團體 "wikilink")
 
 1.
 2.

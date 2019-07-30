@@ -1,5 +1,4 @@
-  - A1
-    [马克思](https://zh.wikipedia.org/wiki/马克思 "wikilink")、[恩格斯著作](https://zh.wikipedia.org/wiki/恩格斯 "wikilink")
+  - A1 [马克思](https://zh.wikipedia.org/wiki/马克思 "wikilink")、[恩格斯著作](https://zh.wikipedia.org/wiki/恩格斯 "wikilink")
 
 :\*A11 选集、文集
 
@@ -17,8 +16,7 @@
 
 ::\*A125 第二国际时期（1889年7月－1895年）
 
-:\*A13
-[书信集](https://zh.wikipedia.org/wiki/书信集 "wikilink")、[日记](../Page/日记.md "wikilink")、[函电](https://zh.wikipedia.org/wiki/函电 "wikilink")、谈话
+:\*A13 [书信集](https://zh.wikipedia.org/wiki/书信集 "wikilink")、[日记](../Page/日记.md "wikilink")、[函电](https://zh.wikipedia.org/wiki/函电 "wikilink")、谈话
 
 :\*A14 [诗词](https://zh.wikipedia.org/wiki/诗词 "wikilink")
 
@@ -98,7 +96,7 @@
 
 :\*A38 语录
 
-  - A4 [毛泽东著作](../Page/毛泽东.md "wikilink")
+  - A4 [毛泽东](../Page/毛泽东.md "wikilink")著作
 
 :\*A41 选集、文集
 
@@ -128,7 +126,7 @@
 
 :\*A48 语录
 
-:\*A49 [邓小平著作](../Page/邓小平.md "wikilink")
+:\*A49 [邓小平](../Page/邓小平.md "wikilink")著作
 
 ::\*A491 选集、文集
 
@@ -152,8 +150,7 @@
 
 :\*A58 语录
 
-  - A7
-    马克思、恩格斯、列宁、斯大林、毛泽东、邓小平的生平和[传记](https://zh.wikipedia.org/wiki/传记 "wikilink")
+  - A7 马克思、恩格斯、列宁、斯大林、毛泽东、邓小平的生平和[传记](https://zh.wikipedia.org/wiki/传记 "wikilink")
 
 :\*A71 马克思
 
@@ -181,7 +178,7 @@
 
 :\*A76 邓小平
 
-  - A8　[马克思主义](../Page/马克思主义.md "wikilink")、[列宁主义](../Page/列宁主义.md "wikilink")、[毛泽东思想](../Page/毛泽东思想.md "wikilink")、[邓小平理论的学习和研究](../Page/邓小平理论.md "wikilink")
+  - A8　[马克思主义](../Page/马克思主义.md "wikilink")、[列宁主义](../Page/列宁主义.md "wikilink")、[毛泽东思想](../Page/毛泽东思想.md "wikilink")、[邓小平理论](../Page/邓小平理论.md "wikilink")的学习和研究
 
 :\*A81 马克思主义的学习和研究
 

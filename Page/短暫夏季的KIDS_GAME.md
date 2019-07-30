@@ -1,10 +1,8 @@
-《**短暫夏季的KIDS
-GAME**》（）是[日本漫畫家](https://zh.wikipedia.org/wiki/日本漫畫家 "wikilink")[赤松健首次獲得](../Page/赤松健.md "wikilink")[漫畫雜誌出版社](../Page/漫畫雜誌.md "wikilink")[講談社刊載的短篇作品](https://zh.wikipedia.org/wiki/講談社 "wikilink")。1993年9月10日於講談社旗下的《[Magazine
-Fresh](https://zh.wikipedia.org/wiki/Magazine_Fresh "wikilink")》（）1993年9月號刊載，作者同時憑作品獲得新人獎。2001年5月20日，作品再度被刊載。
+《**短暫夏季的KIDS GAME**》（）是[日本漫畫家](https://zh.wikipedia.org/wiki/日本漫畫家 "wikilink")[赤松健](../Page/赤松健.md "wikilink")首次獲得[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")出版社[講談社刊載的短篇作品](https://zh.wikipedia.org/wiki/講談社 "wikilink")。1993年9月10日於講談社旗下的《[Magazine Fresh](https://zh.wikipedia.org/wiki/Magazine_Fresh "wikilink")》（）1993年9月號刊載，作者同時憑作品獲得新人獎。2001年5月20日，作品再度被刊載。
 
 ## 內容簡介
 
-作品講述一個名為**松本晉作**\[1\]的[高中二年級生](https://zh.wikipedia.org/wiki/高中 "wikilink")，在[暑假期間發生的愛情故事](../Page/暑假.md "wikilink")。當時的松本晉作正為如何度過暑假而煩惱著，卻意外遇見一場[交通意外](https://zh.wikipedia.org/wiki/交通意外 "wikilink")。被送院的兩母子情況各有不同：小孩桐島大佑安然無恙，母親桐島禮子卻須在醫院住上三星期，不能照顧兒子。前往探望的**桐島友紀**不但是桐島禮子的妹妹，更恰巧是松本晉作暗戀的同學。由於沒有安置桐島大佑的地方，需要照顧他的桐島友紀面臨令人困惑的境況。這時松本晉作提議由他來負責桐島大佑的住宿，桐島友紀則定時到家中照料二人。因為意外而導致的三人一起生活，使男女主角的感情有了一定的發展。
+作品講述一個名為**松本晉作**\[1\]的[高中二年級生](https://zh.wikipedia.org/wiki/高中 "wikilink")，在[暑假](../Page/暑假.md "wikilink")期間發生的愛情故事。當時的松本晉作正為如何度過暑假而煩惱著，卻意外遇見一場[交通意外](https://zh.wikipedia.org/wiki/交通意外 "wikilink")。被送院的兩母子情況各有不同：小孩桐島大佑安然無恙，母親桐島禮子卻須在醫院住上三星期，不能照顧兒子。前往探望的**桐島友紀**不但是桐島禮子的妹妹，更恰巧是松本晉作暗戀的同學。由於沒有安置桐島大佑的地方，需要照顧他的桐島友紀面臨令人困惑的境況。這時松本晉作提議由他來負責桐島大佑的住宿，桐島友紀則定時到家中照料二人。因為意外而導致的三人一起生活，使男女主角的感情有了一定的發展。
 
 ## 故事角色
 
@@ -70,7 +68,7 @@ Fresh](https://zh.wikipedia.org/wiki/Magazine_Fresh "wikilink")》（）1993年9
 
 ## 對作者的影響
 
-這是赤松健第一部在主流[漫畫雜誌刊載的作品](../Page/漫畫雜誌.md "wikilink")，也憑這部作品獲得講談社頒發的新人獎。這不但確立作者投身漫畫界的志向，也因為新人獎的頭銜引起了漫畫編輯的注意，在編輯的建議中促成了後來的作品《[電腦情人夢](../Page/電腦情人夢.md "wikilink")》的誕生。
+這是赤松健第一部在主流[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")刊載的作品，也憑這部作品獲得講談社頒發的新人獎。這不但確立作者投身漫畫界的志向，也因為新人獎的頭銜引起了漫畫編輯的注意，在編輯的建議中促成了後來的作品《[電腦情人夢](../Page/電腦情人夢.md "wikilink")》的誕生。
 
 ## 注釋
 
@@ -80,19 +78,15 @@ Fresh](https://zh.wikipedia.org/wiki/Magazine_Fresh "wikilink")》（）1993年9
 
   - [](http://www2u.biglobe.ne.jp/~clown/kidsgame/index.htm)
 
-  - 《純情房東俏房客
-    0》監修：赤松健，台灣[東立出版社](../Page/東立出版社.md "wikilink")2001年1月8日出版，ISBN
-    9789573497011（9573497018）
+  - 《純情房東俏房客 0》監修：赤松健，台灣[東立出版社](../Page/東立出版社.md "wikilink")2001年1月8日出版，ISBN 9789573497011（9573497018）
 
 ## 外部連結
 
   - [赤松健作品綜合研究所](http://www2u.biglobe.ne.jp/~clown/)
 
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:赤松健](https://zh.wikipedia.org/wiki/Category:赤松健 "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:赤松健](https://zh.wikipedia.org/wiki/Category:赤松健 "wikilink")
 
-1.  此為《純情房東俏房客
-    0》記載的中文名稱。網站[赤松健作品綜合研究所](http://www2u.biglobe.ne.jp/~clown/)記載的日語名稱為，而「」與日語的「」明顯不同，中文譯名可能有誤。
+1.  此為《純情房東俏房客 0》記載的中文名稱。網站[赤松健作品綜合研究所](http://www2u.biglobe.ne.jp/~clown/)記載的日語名稱為，而「」與日語的「」明顯不同，中文譯名可能有誤。
 
 2.
 3.  [](http://www2u.biglobe.ne.jp/~clown/kidsgame/ura.htm)

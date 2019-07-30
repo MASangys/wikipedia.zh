@@ -518,7 +518,7 @@
 
 :\*TB8 [摄影技术](https://zh.wikipedia.org/wiki/摄影技术 "wikilink")
 
-::\*TB81 [摄影理论](../Page/摄影.md "wikilink")
+::\*TB81 [摄影](../Page/摄影.md "wikilink")理论
 
 :::\*TB811 摄影光学
 
@@ -746,15 +746,13 @@
 
 :\*TB9 [计量学](../Page/计量学.md "wikilink")
 
-::\*TB91
-[计量单位与](../Page/计量单位.md "wikilink")[单位制](https://zh.wikipedia.org/wiki/单位制 "wikilink")
+::\*TB91 [计量单位](../Page/计量单位.md "wikilink")与[单位制](https://zh.wikipedia.org/wiki/单位制 "wikilink")
 
 :::\*TB91-6 计量单位与单位制参考工具书
 
-::::\*TB91-62 [计量单位手册](../Page/计量单位.md "wikilink")
+::::\*TB91-62 [计量单位](../Page/计量单位.md "wikilink")手册
 
-::::\*TB91-64
-[度量衡换算法和换算表](https://zh.wikipedia.org/wiki/度量衡换算法 "wikilink")
+::::\*TB91-64 [度量衡换算法和换算表](https://zh.wikipedia.org/wiki/度量衡换算法 "wikilink")
 
 :::\*TB911 公制（米制）
 

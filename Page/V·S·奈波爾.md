@@ -1,4 +1,4 @@
-**維迪亞德哈爾·蘇拉吉普拉薩德·奈波爾**爵士，[Kt.](../Page/下級勳位爵士.md "wikilink")，（，簡稱，），又譯為**-{zh-tw:奈保爾;zh-hk:奈保爾;zh-cn:奈波尔;}-**，[印度裔](../Page/印度.md "wikilink")[英國作家](https://zh.wikipedia.org/wiki/英國 "wikilink")，[諾貝爾文學獎得主](https://zh.wikipedia.org/wiki/諾貝爾文學獎 "wikilink")。生於加勒比海[特立尼达岛](../Page/特立尼达岛.md "wikilink")，1950年進入[牛津大學攻讀英國文學](https://zh.wikipedia.org/wiki/牛津大學 "wikilink")，畢業後，遷居[倫敦](https://zh.wikipedia.org/wiki/倫敦 "wikilink")，曾任職[英國國家廣播公司](https://zh.wikipedia.org/wiki/英國國家廣播公司 "wikilink")。
+**維迪亞德哈爾·蘇拉吉普拉薩德·奈波爾**爵士，[Kt.](../Page/下級勳位爵士.md "wikilink")，（，簡稱，），又譯為**-{zh-tw:奈保爾;zh-hk:奈保爾;zh-cn:奈波尔;}-**，[印度](../Page/印度.md "wikilink")裔[英國作家](https://zh.wikipedia.org/wiki/英國 "wikilink")，[諾貝爾文學獎得主](https://zh.wikipedia.org/wiki/諾貝爾文學獎 "wikilink")。生於加勒比海[特立尼达岛](../Page/特立尼达岛.md "wikilink")，1950年進入[牛津大學攻讀英國文學](https://zh.wikipedia.org/wiki/牛津大學 "wikilink")，畢業後，遷居[倫敦](https://zh.wikipedia.org/wiki/倫敦 "wikilink")，曾任職[英國國家廣播公司](https://zh.wikipedia.org/wiki/英國國家廣播公司 "wikilink")。
 
 他的作品以小說和遊記居多，《[紐約時報](https://zh.wikipedia.org/wiki/紐約時報 "wikilink")》書評曾稱讚他為「世界作家、語言大師、眼光獨到的小說奇才。」他的小說作品《[畢斯華斯先生的房子](https://zh.wikipedia.org/wiki/畢斯華斯先生的房子 "wikilink")》（**）、《[大河灣](https://zh.wikipedia.org/wiki/大河灣 "wikilink")》（**）被列入[20世紀百大英文小說之一](https://zh.wikipedia.org/wiki/20世紀百大英文小說 "wikilink")。旅遊文學「印度三部曲」——《幽黯國度》、《印度：受傷的文明》及《印度：百萬叛亂的今天》是他在遊記方面的最著名作品。
 
@@ -6,7 +6,7 @@
 
 ## 私生活爭議
 
-奈波爾跟英國女子佩崔夏·海爾结婚41年，直到她于1996年因癌症去世。在-{zh-hant:派崔克·富蘭曲;zh-hans:帕特里克·弗兰奇}-撰寫的授权传记中，奈波爾承认虐待妻子以及经常有情妇，甚至承认他可能促成了她的死亡。\[1\]除了经常在伦敦去找应召女郎以外，奈波爾在1972年开始迷恋已婚英裔[阿根廷女子瑪格麗特](../Page/阿根廷.md "wikilink")·莫瑞，而且往往为了跟她旅游而抛弃了自己的妻子。-{zh-hant:富蘭曲;zh-hans:弗兰奇}-的传记也描述他们关系中的性暴力。奈波爾也往往会在心理上虐待他的妻子，告诉她他很想念他的情妇，但他还表示，他需要他的妻子帮助他编辑他的书籍。\[2\]佩崔夏去世之后两个月，奈波爾又拋棄情婦，另娶了娜迪拉·奈波爾，一位离過婚的[巴基斯坦女](../Page/巴基斯坦.md "wikilink")[记者](https://zh.wikipedia.org/wiki/记者 "wikilink")。
+奈波爾跟英國女子佩崔夏·海爾结婚41年，直到她于1996年因癌症去世。在-{zh-hant:派崔克·富蘭曲;zh-hans:帕特里克·弗兰奇}-撰寫的授权传记中，奈波爾承认虐待妻子以及经常有情妇，甚至承认他可能促成了她的死亡。\[1\]除了经常在伦敦去找应召女郎以外，奈波爾在1972年开始迷恋已婚英裔[阿根廷](../Page/阿根廷.md "wikilink")女子瑪格麗特·莫瑞，而且往往为了跟她旅游而抛弃了自己的妻子。-{zh-hant:富蘭曲;zh-hans:弗兰奇}-的传记也描述他们关系中的性暴力。奈波爾也往往会在心理上虐待他的妻子，告诉她他很想念他的情妇，但他还表示，他需要他的妻子帮助他编辑他的书籍。\[2\]佩崔夏去世之后两个月，奈波爾又拋棄情婦，另娶了娜迪拉·奈波爾，一位离過婚的[巴基斯坦](../Page/巴基斯坦.md "wikilink")女[记者](https://zh.wikipedia.org/wiki/记者 "wikilink")。
 
 ## 作品
 
@@ -108,7 +108,7 @@
 <!-- end list -->
 
   -
-    《大河灣》，[李永平譯](../Page/李永平.md "wikilink")，台北：天下遠見，1999。
+    《大河灣》，[李永平](../Page/李永平.md "wikilink")譯，台北：天下遠見，1999。
     《河灣》，方柏林譯，南京：譯林，2002。海口：南海出版公司，2014。（南海版改名《大河湾》）
 
 <!-- end list -->
@@ -157,8 +157,7 @@
 
 ### 散文及遊記
 
-  - *The Middle Passage: Impressions of Five Societies - British, French
-    and Dutch in the West Indies and South America*，1962
+  - *The Middle Passage: Impressions of Five Societies - British, French and Dutch in the West Indies and South America*，1962
 
 <!-- end list -->
 
@@ -238,8 +237,7 @@
 
 <!-- end list -->
 
-  - *Homeless by Choice*，與R.
-    Jhabvala及[薩爾曼·魯西迪三人合著](../Page/薩爾曼·魯西迪.md "wikilink")，1992
+  - *Homeless by Choice*，與R. Jhabvala及[薩爾曼·魯西迪](../Page/薩爾曼·魯西迪.md "wikilink")三人合著，1992
 
 <!-- end list -->
 
@@ -320,7 +318,7 @@
   - 陳宜瑛，〈奈波爾在「印度三部曲」中所呈現的敘述策略〉，南華大學文學研究所，2005年碩士論文。
   - 張惠菁，〈離散經驗：論析奈波爾《[大河灣](https://zh.wikipedia.org/wiki/大河灣 "wikilink")》的『家』與[身分認同](https://zh.wikipedia.org/wiki/身分認同 "wikilink")〉，國立政治大學外國語文研究所，2005年碩士論文。
   - 翁佳萍，〈奈波爾小說《模仿人》《[大河灣](https://zh.wikipedia.org/wiki/大河灣 "wikilink")》《世間之道》之離散經驗〉，高雄師範大學英語學系，2006年。
-  - 彭婉婷，〈奈波爾《模擬人》小說[轉喻存有的虛幻性](../Page/轉喻.md "wikilink")〉，東吳大學英文學系，2007年碩士論文。
+  - 彭婉婷，〈奈波爾《模擬人》小說[轉喻](../Page/轉喻.md "wikilink")存有的虛幻性〉，東吳大學英文學系，2007年碩士論文。
   - 李怡嬌，〈奈波爾〈模擬人〉與〈抵達之謎〉中家及[離散認同之探討](https://zh.wikipedia.org/wiki/離散 "wikilink")〉，國立彰化師範大學英語學系，2007年碩士論文。
   - 李敏芳，〈在離與返家之間：論奈波爾《抵達之謎》中一個流亡者的旅行〉，中興大學外國語文學系所，2008年。
   - 張麗蓉，〈奈波爾《浮生》中的認同危機：[被殖民者之困境](https://zh.wikipedia.org/wiki/被殖民 "wikilink")〉，高雄師範大學英語學系，2008年碩士論文。
@@ -334,15 +332,7 @@
   - [诺贝尔官方网站奈波爾作品列表](http://nobelprize.org/nobel_prizes/literature/laureates/2001/naipaul-bibl.html)
   - [诺贝尔官方网站关于奈波爾介绍](http://nobelprize.org/nobel_prizes/literature/laureates/2001/naipaul-bio.html)
 
-[Category:诺贝尔文学奖获得者](https://zh.wikipedia.org/wiki/Category:诺贝尔文学奖获得者 "wikilink")
-[Category:英國作家](https://zh.wikipedia.org/wiki/Category:英國作家 "wikilink")
-[Category:下級勳位爵士](https://zh.wikipedia.org/wiki/Category:下級勳位爵士 "wikilink")
-[Category:印度裔英國人](https://zh.wikipedia.org/wiki/Category:印度裔英國人 "wikilink")
-[Category:牛津大學大學學院校友](https://zh.wikipedia.org/wiki/Category:牛津大學大學學院校友 "wikilink")
-[Category:戴维·科恩奖获得者](https://zh.wikipedia.org/wiki/Category:戴维·科恩奖获得者 "wikilink")
-[Category:特立尼达和多巴哥作家](https://zh.wikipedia.org/wiki/Category:特立尼达和多巴哥作家 "wikilink")
+[Category:诺贝尔文学奖获得者](https://zh.wikipedia.org/wiki/Category:诺贝尔文学奖获得者 "wikilink") [Category:英國作家](https://zh.wikipedia.org/wiki/Category:英國作家 "wikilink") [Category:下級勳位爵士](https://zh.wikipedia.org/wiki/Category:下級勳位爵士 "wikilink") [Category:印度裔英國人](https://zh.wikipedia.org/wiki/Category:印度裔英國人 "wikilink") [Category:牛津大學大學學院校友](https://zh.wikipedia.org/wiki/Category:牛津大學大學學院校友 "wikilink") [Category:戴维·科恩奖获得者](https://zh.wikipedia.org/wiki/Category:戴维·科恩奖获得者 "wikilink") [Category:特立尼达和多巴哥作家](https://zh.wikipedia.org/wiki/Category:特立尼达和多巴哥作家 "wikilink")
 
-1.  The Daily Telegraph: Sir Vidia Naipaul admits his cruelty may have
-    killed wife
-    <http://www.telegraph.co.uk/news/uknews/1582389/Sir-Vidia-Naipaul-admits-his-cruelty-may-have-killed-wife.html>
+1.  The Daily Telegraph: Sir Vidia Naipaul admits his cruelty may have killed wife <http://www.telegraph.co.uk/news/uknews/1582389/Sir-Vidia-Naipaul-admits-his-cruelty-may-have-killed-wife.html>
 2.  V S Naipaul kept a mistress for almost 24 years (21 March 2008)

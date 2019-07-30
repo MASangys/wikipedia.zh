@@ -1,4 +1,4 @@
-**E線第八大道慢車**（）是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")的[地鐵系統](../Page/地鐵.md "wikilink")。由於該線使用[IND第八大道線通過](https://zh.wikipedia.org/wiki/IND第八大道線 "wikilink")[曼哈頓主要地區](../Page/曼哈頓.md "wikilink")，因此其路線徽號為藍色\[1\]。
+**E線第八大道慢車**（）是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")的[地鐵](../Page/地鐵.md "wikilink")系統。由於該線使用[IND第八大道線通過](https://zh.wikipedia.org/wiki/IND第八大道線 "wikilink")[曼哈頓](../Page/曼哈頓.md "wikilink")主要地區，因此其路線徽號為藍色\[1\]。
 
 E線在任何時候都營運，來往的[牙買加中心-帕森斯/射手和](https://zh.wikipedia.org/wiki/牙買加中心-帕森斯/射手車站_\(射手大道線\) "wikilink")[曼哈頓下城的](https://zh.wikipedia.org/wiki/曼哈頓下城 "wikilink")[錢伯斯街-世界貿易中心](https://zh.wikipedia.org/wiki/錢伯斯街-世界貿易中心／公園廣場車站 "wikilink")，有限度服務以[179街為總站](https://zh.wikipedia.org/wiki/牙買加-179街車站_\(IND皇后林蔭路線\) "wikilink")而不是牙買加中心。日間列車在皇后區以快車營運，在曼哈頓以慢車營運，深夜列車停靠全線所有車站。
 
@@ -48,7 +48,7 @@ E線在任何時候都營運，來往的[牙買加中心-帕森斯/射手和](ht
 
 1933年8月19日[皇后大道線通車](https://zh.wikipedia.org/wiki/皇后大道線 "wikilink")，E線開始羅斯福大道-傑克森高地至欽伯斯街的服務。
 
-1936年1月1日[IND第六大道線第二大道車站以北路段通車](../Page/IND第六大道線.md "wikilink")，E線行駛此線西四街車站以南路線。三個月後通至傑里街-區公所，E線取代線駛至教堂大道車站。
+1936年1月1日[IND第六大道線](../Page/IND第六大道線.md "wikilink")第二大道車站以北路段通車，E線行駛此線西四街車站以南路線。三個月後通至傑里街-區公所，E線取代線駛至教堂大道車站。
 
 同年12月31日及1937年4月24日皇后大道線分別擴展至聯合公路-克猶花園車站、169街車站。
 
@@ -68,7 +68,7 @@ E線在任何時候都營運，來往的[牙買加中心-帕森斯/射手和](ht
 
 1997年E線於皇后區行駛凌晨慢車。
 
-2001年受到[911事件事件影響](https://zh.wikipedia.org/wiki/911事件 "wikilink")，E線改行非凌晨慢車，經福爾頓街線至尤克利德大道車站以取代暫時停駛的線服務。9月21日線復駛，E線改行至運河街車站。同年12月16日[63街隧道至皇后大道線的線路完工通車](../Page/63街隧道.md "wikilink")，線列車走此線駛至牙買加-179街車站。
+2001年受到[911事件事件影響](https://zh.wikipedia.org/wiki/911事件 "wikilink")，E線改行非凌晨慢車，經福爾頓街線至尤克利德大道車站以取代暫時停駛的線服務。9月21日線復駛，E線改行至運河街車站。同年12月16日[63街隧道](../Page/63街隧道.md "wikilink")至皇后大道線的線路完工通車，線列車走此線駛至牙買加-179街車站。
 
 ## 路線
 
@@ -456,7 +456,7 @@ E線在任何時候都營運，來往的[牙買加中心-帕森斯/射手和](ht
 <td></td>
 <td></td>
 <td><p><br />
-<a href="../Page/美鐵.md" title="wikilink">美鐵</a>、<a href="../Page/長島鐵路.md" title="wikilink">長島鐵路及</a><a href="https://zh.wikipedia.org/wiki/新澤西通勤鐵路" title="wikilink">新澤西交通</a>，<a href="https://zh.wikipedia.org/wiki/賓夕法尼亞車站_(紐約市)" title="wikilink">賓州車站</a></p></td>
+<a href="../Page/美鐵.md" title="wikilink">美鐵</a>、<a href="../Page/長島鐵路.md" title="wikilink">長島鐵路</a>及<a href="https://zh.wikipedia.org/wiki/新澤西通勤鐵路" title="wikilink">新澤西交通</a>，<a href="https://zh.wikipedia.org/wiki/賓夕法尼亞車站_(紐約市)" title="wikilink">賓州車站</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -526,11 +526,9 @@ E線在任何時候都營運，來往的[牙買加中心-帕森斯/射手和](ht
 
 ## 外部連結
 
-  - [MTA NYC Transit -
-    路線介紹](https://web.archive.org/web/20061110014023/http://mta.info/nyct/service/eline.htm)
+  - [MTA NYC Transit - 路線介紹](https://web.archive.org/web/20061110014023/http://mta.info/nyct/service/eline.htm)
   - [E線歷史](https://web.archive.org/web/20011202055509/http://members.aol.com/bdmnqr2/linehistory.html)
-  - [MTA NYC Transit -
-    E線時刻表（PDF）](https://web.archive.org/web/20070421124846/http://www.mta.info/nyct/service/pdf/tecur.pdf)
+  - [MTA NYC Transit - E線時刻表（PDF）](https://web.archive.org/web/20070421124846/http://www.mta.info/nyct/service/pdf/tecur.pdf)
 
 [Category:紐約地鐵服務路線](https://zh.wikipedia.org/wiki/Category:紐約地鐵服務路線 "wikilink")
 

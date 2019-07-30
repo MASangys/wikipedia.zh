@@ -64,8 +64,7 @@
 
 :::::\*TV131.3+1 冲击波、滚波
 
-:::::\*TV131.3+2
-[气穴](https://zh.wikipedia.org/wiki/Cavitation "wikilink")（空穴）、[气蚀](https://zh.wikipedia.org/wiki/Cavitation "wikilink")（[空蚀](https://zh.wikipedia.org/wiki/Cavitation "wikilink")）
+:::::\*TV131.3+2 [气穴](https://zh.wikipedia.org/wiki/Cavitation "wikilink")（空穴）、[气蚀](https://zh.wikipedia.org/wiki/Cavitation "wikilink")（[空蚀](https://zh.wikipedia.org/wiki/Cavitation "wikilink")）
 
 :::::\*TV131.3+3 压力脉动与振动
 
@@ -323,7 +322,7 @@
 
 ::\*TV16 土力学
 
-::\*TV21 [水资源调查与不利规划](../Page/水资源.md "wikilink")
+::\*TV21 [水资源](../Page/水资源.md "wikilink")调查与不利规划
 
 :::\*TV211 水利调查
 
@@ -379,8 +378,7 @@
 
 :::\*TV214 水利计算
 
-::\*TV22
-[水工勘测](https://zh.wikipedia.org/wiki/水工勘测 "wikilink")、[水工设计](https://zh.wikipedia.org/wiki/水工设计 "wikilink")
+::\*TV22 [水工勘测](https://zh.wikipedia.org/wiki/水工勘测 "wikilink")、[水工设计](https://zh.wikipedia.org/wiki/水工设计 "wikilink")
 
 :::\*TV221 水工勘测
 
@@ -862,8 +860,7 @@
 
 ::::\*TV554+.9 其他
 
-:\*TV6
-[水利枢纽](https://zh.wikipedia.org/wiki/水利枢纽 "wikilink")、[水工建筑物](https://zh.wikipedia.org/wiki/水工建筑物 "wikilink")
+:\*TV6 [水利枢纽](https://zh.wikipedia.org/wiki/水利枢纽 "wikilink")、[水工建筑物](https://zh.wikipedia.org/wiki/水工建筑物 "wikilink")
 
 ::\*TV61 水利枢纽工程
 
@@ -1223,8 +1220,7 @@
 
 :::::\*TV698.2+6 水工建筑物抗冻措施与冻害
 
-:\*TV7
-[水能利用](https://zh.wikipedia.org/wiki/水能 "wikilink")、[水电站工程](https://zh.wikipedia.org/wiki/水电站工程 "wikilink")
+:\*TV7 [水能利用](https://zh.wikipedia.org/wiki/水能 "wikilink")、[水电站工程](https://zh.wikipedia.org/wiki/水电站工程 "wikilink")
 
 ::\*TV72 水能勘测与设计
 
@@ -1340,8 +1336,7 @@
 
 ::\*TV76 中小河道水能利用
 
-:\*TV8
-[治河工程与](https://zh.wikipedia.org/wiki/治河工程 "wikilink")[防洪工程](https://zh.wikipedia.org/wiki/防洪工程 "wikilink")
+:\*TV8 [治河工程与](https://zh.wikipedia.org/wiki/治河工程 "wikilink")[防洪工程](https://zh.wikipedia.org/wiki/防洪工程 "wikilink")
 
 ::\*TV81 河工学
 
@@ -1351,8 +1346,7 @@
 
 ::\*TV84 河工材料
 
-::\*TV85
-[治河方法](https://zh.wikipedia.org/wiki/治河方法 "wikilink")（[河道整治](https://zh.wikipedia.org/wiki/河道整治 "wikilink")）
+::\*TV85 [治河方法](https://zh.wikipedia.org/wiki/治河方法 "wikilink")（[河道整治](https://zh.wikipedia.org/wiki/河道整治 "wikilink")）
 
 :::\*TV851 疏浚（河床整理）
 
@@ -1438,8 +1432,7 @@
 
 :::\*TV883/887 各国
 
-::\*TV91
-运渠（[运河](../Page/运河.md "wikilink")、[渠道](https://zh.wikipedia.org/wiki/渠道 "wikilink")）工程
+::\*TV91 运渠（[运河](../Page/运河.md "wikilink")、[渠道](https://zh.wikipedia.org/wiki/渠道 "wikilink")）工程
 
 ::\*TV92 [港湾工程](https://zh.wikipedia.org/wiki/港湾工程 "wikilink")
 

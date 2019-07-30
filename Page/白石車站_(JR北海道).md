@@ -1,4 +1,4 @@
-**白石車站**（）是一個位於[日本](../Page/日本.md "wikilink")[北海道](../Page/北海道.md "wikilink")[札幌市](../Page/札幌市.md "wikilink")[白石區境內的](../Page/白石區.md "wikilink")[鐵路車站](https://zh.wikipedia.org/wiki/鐵路車站 "wikilink")（實際地址為平和通3丁目北6），隸屬於[北海道旅客鐵道](../Page/北海道旅客鐵道.md "wikilink")（JR北海道），是北海道地區兩條[幹線鐵路](https://zh.wikipedia.org/wiki/幹線鐵路_\(日本\) "wikilink")[函館本線與](../Page/函館本線.md "wikilink")[千歲線的交會車站](../Page/千歲線.md "wikilink")。
+**白石車站**（）是一個位於[日本](../Page/日本.md "wikilink")[北海道](../Page/北海道.md "wikilink")[札幌市](../Page/札幌市.md "wikilink")[白石區](../Page/白石區.md "wikilink")境內的[鐵路車站](https://zh.wikipedia.org/wiki/鐵路車站 "wikilink")（實際地址為平和通3丁目北6），隸屬於[北海道旅客鐵道](../Page/北海道旅客鐵道.md "wikilink")（JR北海道），是北海道地區兩條[幹線鐵路](https://zh.wikipedia.org/wiki/幹線鐵路_\(日本\) "wikilink")[函館本線](../Page/函館本線.md "wikilink")與[千歲線](../Page/千歲線.md "wikilink")的交會車站。
 
 ## 車站構造
 
@@ -45,8 +45,7 @@
 
 至於3號線與5號線之間沒有設置月台的路線，主要是提供給千歲線下行列車快速通過時使用。
 
-白石車站的東側原本設有[汽車載運列車](https://zh.wikipedia.org/wiki/汽車載運列車 "wikilink")（Car
-Train）的終點站，但因為目前位於[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")、隸屬於[JR東日本的](https://zh.wikipedia.org/wiki/JR東日本 "wikilink")[濱松町車站所附設之汽車載運終點站並沒有開放營運](https://zh.wikipedia.org/wiki/濱松町車站 "wikilink")，因此無法提供原本的服務事項，反而被轉作為[停車轉乘](https://zh.wikipedia.org/wiki/停車轉乘 "wikilink")（Park-and-Ride，在日本稱為Park-and-Train，）服務的停車場。
+白石車站的東側原本設有[汽車載運列車](https://zh.wikipedia.org/wiki/汽車載運列車 "wikilink")（Car Train）的終點站，但因為目前位於[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")、隸屬於[JR東日本的](https://zh.wikipedia.org/wiki/JR東日本 "wikilink")[濱松町車站所附設之汽車載運終點站並沒有開放營運](https://zh.wikipedia.org/wiki/濱松町車站 "wikilink")，因此無法提供原本的服務事項，反而被轉作為[停車轉乘](https://zh.wikipedia.org/wiki/停車轉乘 "wikilink")（Park-and-Ride，在日本稱為Park-and-Train，）服務的停車場。
 
 白石車站是JR北海道的直營車站，終日皆有站員守候，站內也設有[綠窗口](../Page/綠窗口.md "wikilink")（，JR系統的票務櫃臺）與[自動售票機](https://zh.wikipedia.org/wiki/自動售票機 "wikilink")、[自動補票機等設施](https://zh.wikipedia.org/wiki/自動補票機 "wikilink")。
 
@@ -54,13 +53,13 @@ Train）的終點站，但因為目前位於[東京](https://zh.wikipedia.org/wi
 
   - 1903年4月21日：開始營運。
   - 1918年10月17日：[定山溪鐵道開始營運](https://zh.wikipedia.org/wiki/定山溪鐵道 "wikilink")。
-  - 1945年：定山溪鐵道位於白石車站至[東札幌車站之間的路段廢止](../Page/東札幌車站.md "wikilink")。
-  - 1970年10月25日：與位於JR東日本[東北本線上的另一個](../Page/東北本線.md "wikilink")[白石車站締結為姊妹車站](../Page/白石車站_\(宮城縣\).md "wikilink")。
+  - 1945年：定山溪鐵道位於白石車站至[東札幌車站](../Page/東札幌車站.md "wikilink")之間的路段廢止。
+  - 1970年10月25日：與位於JR東日本[東北本線](../Page/東北本線.md "wikilink")上的另一個[白石車站締結為姊妹車站](../Page/白石車站_\(宮城縣\).md "wikilink")。
   - 1973年9月9日：伴隨千歲線的新線啟用，千歲線直通列車開始進入白石車站。
 
 ### 停靠列車
 
-由於是個郊區車站，在白天，行駛於函館本線與千歲線上的[快速列車](https://zh.wikipedia.org/wiki/快速列車 "wikilink")、[區間快速列車](https://zh.wikipedia.org/wiki/區間快速列車 "wikilink")、[急行列車與](../Page/急行列車.md "wikilink")[特別急行列車都會採直接通過而不停站的方式經過白石車站](../Page/特別急行列車.md "wikilink")，僅有幾班清早與夜間行駛的快速列車會在本站停車。由於清晨與夜間的區間快速列車是在手稻與札幌兩站之間停靠與快速列車相同的車站，因此會在已經超過市區區間的白石車站這裡停車。
+由於是個郊區車站，在白天，行駛於函館本線與千歲線上的[快速列車](https://zh.wikipedia.org/wiki/快速列車 "wikilink")、[區間快速列車](https://zh.wikipedia.org/wiki/區間快速列車 "wikilink")、[急行列車](../Page/急行列車.md "wikilink")與[特別急行列車](../Page/特別急行列車.md "wikilink")都會採直接通過而不停站的方式經過白石車站，僅有幾班清早與夜間行駛的快速列車會在本站停車。由於清晨與夜間的區間快速列車是在手稻與札幌兩站之間停靠與快速列車相同的車站，因此會在已經超過市區區間的白石車站這裡停車。
 
 ## 車站周邊
 
@@ -86,10 +85,9 @@ Train）的終點站，但因為目前位於[東京](https://zh.wikipedia.org/wi
   -
     <small>參見[白石車站](https://zh.wikipedia.org/wiki/白石車站 "wikilink")</small>
 
-除了上述與札幌市營地下鐵的車站重名的情況之外，縱使在JR系統裡，白石車站也不是唯一一個以「白石」為名的鐵路車站。在日本，總共有三個車站使用此名稱，包括位於[熊本縣](../Page/熊本縣.md "wikilink")、隸屬於[JR九州](https://zh.wikipedia.org/wiki/JR九州 "wikilink")[肥薩線的](../Page/肥薩線.md "wikilink")[白石車站](https://zh.wikipedia.org/wiki/白石車站_\(熊本縣\) "wikilink")，與位於[宮城縣](../Page/宮城縣.md "wikilink")、隸屬於[JR東日本](https://zh.wikipedia.org/wiki/JR東日本 "wikilink")[東北本線的](../Page/東北本線.md "wikilink")[白石車站](../Page/白石車站_\(宮城縣\).md "wikilink")。不過，北海道的白石與宮城縣的白石並不是因為單純的巧合關係而重名，而是因為當初來自宮城縣[白石市的移民在來到北海道發展時](../Page/白石市.md "wikilink")，將移居的地區取了與故鄉同樣的名稱，而導致兩地的車站會有重名的現象。目前兩車站也已締結了姊妹車站的關係，共同在營運與行銷上相互提攜。
+除了上述與札幌市營地下鐵的車站重名的情況之外，縱使在JR系統裡，白石車站也不是唯一一個以「白石」為名的鐵路車站。在日本，總共有三個車站使用此名稱，包括位於[熊本縣](../Page/熊本縣.md "wikilink")、隸屬於[JR九州](https://zh.wikipedia.org/wiki/JR九州 "wikilink")[肥薩線](../Page/肥薩線.md "wikilink")的[白石車站](https://zh.wikipedia.org/wiki/白石車站_\(熊本縣\) "wikilink")，與位於[宮城縣](../Page/宮城縣.md "wikilink")、隸屬於[JR東日本](https://zh.wikipedia.org/wiki/JR東日本 "wikilink")[東北本線](../Page/東北本線.md "wikilink")的[白石車站](../Page/白石車站_\(宮城縣\).md "wikilink")。不過，北海道的白石與宮城縣的白石並不是因為單純的巧合關係而重名，而是因為當初來自宮城縣[白石市](../Page/白石市.md "wikilink")的移民在來到北海道發展時，將移居的地區取了與故鄉同樣的名稱，而導致兩地的車站會有重名的現象。目前兩車站也已締結了姊妹車站的關係，共同在營運與行銷上相互提攜。
 
-票務上，為了與同屬JR系統的其他白石車站做出區隔，在北海道的白石車站購買車票時，票面上的站名會以「(函)白石 —
-某某」的方式顯示，其中的「函」字是函館本線的簡稱。
+票務上，為了與同屬JR系統的其他白石車站做出區隔，在北海道的白石車站購買車票時，票面上的站名會以「(函)白石 — 某某」的方式顯示，其中的「函」字是函館本線的簡稱。
 
 ## 相鄰車站
 
@@ -139,12 +137,4 @@ Train）的終點站，但因為目前位於[東京](https://zh.wikipedia.org/wi
   - [JR北海道官方網站](http://www.jrhokkaido.co.jp/)
   - [札幌市白石區公所官方網站](http://www.city.sapporo.jp/shiroishi/)
 
-[Category:日本鐵路車站_Shi](https://zh.wikipedia.org/wiki/Category:日本鐵路車站_Shi "wikilink")
-[Category:白石區鐵路車站](https://zh.wikipedia.org/wiki/Category:白石區鐵路車站 "wikilink")
-[Category:函館本線車站](https://zh.wikipedia.org/wiki/Category:函館本線車站 "wikilink")
-[Category:千歲線車站](https://zh.wikipedia.org/wiki/Category:千歲線車站 "wikilink")
-[Category:1903年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:1903年啟用的鐵路車站 "wikilink")
-[Category:1903年日本建立](https://zh.wikipedia.org/wiki/Category:1903年日本建立 "wikilink")
-[Category:定山溪鐵道車站](https://zh.wikipedia.org/wiki/Category:定山溪鐵道車站 "wikilink")
-[Category:北海道炭礦鐵道車站](https://zh.wikipedia.org/wiki/Category:北海道炭礦鐵道車站 "wikilink")
-[Category:官營幌內鐵道車站](https://zh.wikipedia.org/wiki/Category:官營幌內鐵道車站 "wikilink")
+[Category:日本鐵路車站_Shi](https://zh.wikipedia.org/wiki/Category:日本鐵路車站_Shi "wikilink") [Category:白石區鐵路車站](https://zh.wikipedia.org/wiki/Category:白石區鐵路車站 "wikilink") [Category:函館本線車站](https://zh.wikipedia.org/wiki/Category:函館本線車站 "wikilink") [Category:千歲線車站](https://zh.wikipedia.org/wiki/Category:千歲線車站 "wikilink") [Category:1903年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:1903年啟用的鐵路車站 "wikilink") [Category:1903年日本建立](https://zh.wikipedia.org/wiki/Category:1903年日本建立 "wikilink") [Category:定山溪鐵道車站](https://zh.wikipedia.org/wiki/Category:定山溪鐵道車站 "wikilink") [Category:北海道炭礦鐵道車站](https://zh.wikipedia.org/wiki/Category:北海道炭礦鐵道車站 "wikilink") [Category:官營幌內鐵道車站](https://zh.wikipedia.org/wiki/Category:官營幌內鐵道車站 "wikilink")

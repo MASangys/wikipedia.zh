@@ -1,6 +1,4 @@
-**PSYCHIC
-LOVER**(サイキックラバー)是[搖滾](https://zh.wikipedia.org/wiki/搖滾 "wikilink")、[動畫](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")、[特攝歌曲的二人組合](https://zh.wikipedia.org/wiki/特攝 "wikilink")，被稱為「ANISONG界日本代表樂隊」\[1\]，2013年之前為所屬，之後一度為[バーチェストン](http://virtuestone.com/)所屬；及後2015年9月至2018年10月30日期間為主唱YOFFY自身擔任社長的音樂制作會社「（株）フィアレス」所屬\[2\]，後來2018年11月1日起宣佈為Bright
-Idea Inc.(ブライトイデア)所屬\[3\]。。
+**PSYCHIC LOVER**(サイキックラバー)是[搖滾](https://zh.wikipedia.org/wiki/搖滾 "wikilink")、[動畫](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")、[特攝歌曲的二人組合](https://zh.wikipedia.org/wiki/特攝 "wikilink")，被稱為「ANISONG界日本代表樂隊」\[1\]，2013年之前為所屬，之後一度為[バーチェストン](http://virtuestone.com/)所屬；及後2015年9月至2018年10月30日期間為主唱YOFFY自身擔任社長的音樂制作會社「（株）フィアレス」所屬\[2\]，後來2018年11月1日起宣佈為Bright Idea Inc.(ブライトイデア)所屬\[3\]。。
 
 ## 概要
 
@@ -11,7 +9,7 @@ Idea Inc.(ブライトイデア)所屬\[3\]。。
 <!-- end list -->
 
   -
-    [長野縣](https://zh.wikipedia.org/wiki/長野縣 "wikilink")[長野市出身](../Page/長野市.md "wikilink")，[主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink")。
+    [長野縣](https://zh.wikipedia.org/wiki/長野縣 "wikilink")[長野市](../Page/長野市.md "wikilink")出身，[主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink")。
 
 2011年開始以彩木蔵葉、斎木蔵葉等名為18禁遊戲作曲填詞。
 
@@ -22,38 +20,31 @@ Idea Inc.(ブライトイデア)所屬\[3\]。。
   -
     [神奈川縣](../Page/神奈川縣.md "wikilink")[横濱市出身](https://zh.wikipedia.org/wiki/横濱市 "wikilink")，[吉他](../Page/吉他.md "wikilink")。
 
-近年也為[奧井雅美及](../Page/奧井雅美.md "wikilink")[中川翔子的演唱會擔任結他手](../Page/中川翔子.md "wikilink")。
+近年也為[奧井雅美](../Page/奧井雅美.md "wikilink")及[中川翔子](../Page/中川翔子.md "wikilink")的演唱會擔任結他手。
 
 ### 履歷
 
-最初是以YOFFY為中心的5人組樂團，但是成員經過多次的替換，最後與JOE再組成二人組合。及後，自制歌曲被「アニぱら音樂館」使用，以此為契機成為動畫歌曲團體。並在2003年2月1日以單曲「TRAMSFORMER-Dream
-Again」和「Never Ending Road」正式出道。
+最初是以YOFFY為中心的5人組樂團，但是成員經過多次的替換，最後與JOE再組成二人組合。及後，自制歌曲被「アニぱら音樂館」使用，以此為契機成為動畫歌曲團體。並在2003年2月1日以單曲「TRAMSFORMER-Dream Again」和「Never Ending Road」正式出道。
 
-2018年2月17日為紀念出道15周年，宣佈成立官方FAN CLUB「[PSYCHIC MANIA(サイキック
-マニア)](http://www.psychic-mania.com/)」\[4\]
+2018年2月17日為紀念出道15周年，宣佈成立官方FAN CLUB「[PSYCHIC MANIA(サイキック マニア)](http://www.psychic-mania.com/)」\[4\]
 
 ### 備註
 
-  - 《[特搜戰隊DEKARANGER](https://zh.wikipedia.org/wiki/特搜戰隊DEKARANGER "wikilink")》的[主題曲單曲突破了十萬張的發售量](../Page/主題曲.md "wikilink")。
+  - 《[特搜戰隊DEKARANGER](https://zh.wikipedia.org/wiki/特搜戰隊DEKARANGER "wikilink")》的[主題曲](../Page/主題曲.md "wikilink")單曲突破了十萬張的發售量。
   - JOE在未出道前是「MUSICIANS INSTITUTE JAPAN」的講師。
-  - 在事務所成立初期就和[野川櫻有不少一起演出的機會](../Page/野川櫻.md "wikilink")。
+  - 在事務所成立初期就和[野川櫻](../Page/野川櫻.md "wikilink")有不少一起演出的機會。
 
 ## 作品
 
 ### 單曲
 
-1.  **TRAMSFORMER-Dream Again**（2003年2月1日發售，[Columbia Music
-    Entertainment](https://zh.wikipedia.org/wiki/Columbia_Music_Entertainment "wikilink")）
-    1.  TRAMSFORMER-Dream
-        Again（[動畫](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")《[超機械生命體變形金剛
-        MICRON傳說](../Page/變形金剛：微型傳說.md "wikilink")》前期[片頭曲](https://zh.wikipedia.org/wiki/主題曲#片頭曲 "wikilink")）
-    2.  胸いっぱいの...（動畫《超機械生命體變形金剛
-        MICRON傳說》[印象曲](https://zh.wikipedia.org/wiki/主題曲#印象曲 "wikilink")）
+1.  **TRAMSFORMER-Dream Again**（2003年2月1日發售，[Columbia Music Entertainment](https://zh.wikipedia.org/wiki/Columbia_Music_Entertainment "wikilink")）
+    1.  TRAMSFORMER-Dream Again（[動畫](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")《[超機械生命體變形金剛 MICRON傳說](../Page/變形金剛：微型傳說.md "wikilink")》前期[片頭曲](https://zh.wikipedia.org/wiki/主題曲#片頭曲 "wikilink")）
+    2.  胸いっぱいの...（動畫《超機械生命體變形金剛 MICRON傳說》[印象曲](https://zh.wikipedia.org/wiki/主題曲#印象曲 "wikilink")）
     3.  TRAMSFORMER-Dream Again（Original Karaoke）
     4.  胸いっぱいの...（Original Karaoke）
 2.  **Never Ending Road**（2003年2月1日發售，Columbia）
-    1.  Never Ending Road（動畫《超機械生命體變形金剛
-        MICRON傳說》前期[片尾曲](https://zh.wikipedia.org/wiki/主題曲#片尾曲 "wikilink")）
+    1.  Never Ending Road（動畫《超機械生命體變形金剛 MICRON傳說》前期[片尾曲](https://zh.wikipedia.org/wiki/主題曲#片尾曲 "wikilink")）
     2.  NO NAME HEROES（動畫《超機械生命體變形金剛 MICRON傳說》印象曲）
     3.  Never Ending Road（Original Karaoke）
     4.  NO NAME HEROES（Original Karaoke）
@@ -68,8 +59,7 @@ Again」和「Never Ending Road」正式出道。
     3.  Transformers～鋼鉄の勇気～（Original Karaoke）
     4.  Don't Give Up\!\!（Original Karaoke）
 5.  **いつも手の中に**（2003年7月30日發售，Columbia）
-    1.  いつも手の中に（動畫《[急救超人兵團
-        ～すっとこ大戦ドッコイダー～](../Page/急救超人兵團.md "wikilink")》片頭曲）
+    1.  いつも手の中に（動畫《[急救超人兵團 ～すっとこ大戦ドッコイダー～](../Page/急救超人兵團.md "wikilink")》片頭曲）
     2.  熱血αドッコイダー（歌：Mr.ハイジマ）
     3.  いつも手の中に（Original Karaoke）
     4.  熱血αドッコイダー（Original Karaoke）
@@ -78,8 +68,7 @@ Again」和「Never Ending Road」正式出道。
     2.  ミッドナイトデカレンジャー！（歌：[佐佐木功](../Page/佐佐木功.md "wikilink")）
     3.  特捜デカレンジャー（Original Karaoke）
     4.  ミッドナイトデカレンジャー！（Original Karaoke）
-7.  **明日への闘志／TAKE MY SOUL
-    FOREVER**（2004年11月17日發售，[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")）
+7.  **明日への闘志／TAKE MY SOUL FOREVER**（2004年11月17日發售，[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")）
     1.  明日への闘志（歌：Marina del ray）
     2.  TAKE MY SOUL FOREVER（動畫《[熱拳本色](../Page/熱拳本色.md "wikilink")》片尾曲）
     3.  明日への闘志（Original Karaoke）
@@ -96,14 +85,12 @@ Again」和「Never Ending Road」正式出道。
     4.  ガイ・ガイ・ガイキング！（Original Karaoke）
 10. **轟轟戦隊ボウケンジャー／冒険者 ON THE ROAD**（2006年3月8日發售，Columbia）
     1.  轟轟戦隊ボウケンジャー（歌：[NoB](https://zh.wikipedia.org/wiki/NoB "wikilink")）
-    2.  冒険者 ON THE
-        ROAD（特攝[轟轟戰隊BOUKENGER](https://zh.wikipedia.org/wiki/轟轟戰隊BOUKENGER "wikilink")』片尾曲）
+    2.  冒険者 ON THE ROAD（特攝[轟轟戰隊BOUKENGER](https://zh.wikipedia.org/wiki/轟轟戰隊BOUKENGER "wikilink")』片尾曲）
     3.  轟轟戦隊ボウケンジャー（Original Karaoke）
     4.  冒険者 ON THE ROAD（Original Karaoke）
 11. **XTC**（2006年5月24日發售，Columbia）
     1.  XTC（動畫《[魔女之刃](../Page/魔女之刃_\(動畫\).md "wikilink")》片頭曲）
-    2.  鼓動～get
-        closer～（動畫《魔女之刃》[插入曲](https://zh.wikipedia.org/wiki/主題曲#插入曲 "wikilink")、結局主題曲）
+    2.  鼓動～get closer～（動畫《魔女之刃》[插入曲](https://zh.wikipedia.org/wiki/主題曲#插入曲 "wikilink")、結局主題曲）
     3.  XTC（Original Karaoke）
     4.  鼓動～get closer～（Original Karaoke）
 12. **Oh\! my god**（2006年7月19日發售，Columbia）
@@ -117,8 +104,7 @@ Again」和「Never Ending Road」正式出道。
     3.  爆丸バトルプローラーズ！（Original Karaoke）
     4.  Spinning Wheel（Original Karaoke）
 14. **Precious Time,Glory Days**（2007年11月21日發售，Columbia）
-    1.  Precious Time,Glory
-        Days（TV動畫『[遊戲王GX](https://zh.wikipedia.org/wiki/遊戲王GX "wikilink")』4th片頭曲）
+    1.  Precious Time,Glory Days（TV動畫『[遊戲王GX](https://zh.wikipedia.org/wiki/遊戲王GX "wikilink")』4th片頭曲）
           -
             作詞・作曲：YOFFY / 編曲：大石憲一郎
     2.  SUBLIMINAL I LOVE YOU
@@ -147,8 +133,7 @@ Again」和「Never Ending Road」正式出道。
 17. **侍戦隊シンケンジャー / 四六時夢中シンケンジャー**（2009年3月18日發售，Columbia）
     1.  侍戦隊シンケンジャー（『[侍戰隊真劍者](../Page/侍戰隊真劍者.md "wikilink")』片頭曲）
           -
-            作詞：[藤林聖子](../Page/藤林聖子.md "wikilink") / 作曲：YOFFY /
-            編曲：大石憲一郎・PSYCHIC LOVER
+            作詞：[藤林聖子](../Page/藤林聖子.md "wikilink") / 作曲：YOFFY / 編曲：大石憲一郎・PSYCHIC LOVER
     2.  四六時夢中シンケンジャー
           -
             歌：[高取秀明](../Page/高取秀明.md "wikilink")
@@ -163,8 +148,7 @@ Again」和「Never Ending Road」正式出道。
             作詞：YOFFY / 作曲：IMAJO / 編曲：大石憲一郎
     3.  超！最強！ウォーリアーズ（Original Karaoke）
     4.  Beginning of Love（Original Karaoke）
-19. **Rewrite 2nd Opening Theme song／Rewrite**（2011年5月27日發售，[Key Sounds
-    Label](../Page/Key_Sounds_Label.md "wikilink")）
+19. **Rewrite 2nd Opening Theme song／Rewrite**（2011年5月27日發售，[Key Sounds Label](../Page/Key_Sounds_Label.md "wikilink")）
     1.  Rewrite（Key新作遊戲『[Rewrite](../Page/Rewrite.md "wikilink")』的第2主題曲）
           -
             作詞 ‧ 曲 : YOFFY / 編曲 : 大石憲一郎
@@ -172,8 +156,7 @@ Again」和「Never Ending Road」正式出道。
     3.  Rewrite off vocal Ver.
     4.  Rewrite Instrumental Ver.
 20. **タギルチカラ**（2012年2月29日發售，Columbia）
-    1.  タギルチカラ\!
-        (動畫『[數碼獸合體戰爭](https://zh.wikipedia.org/wiki/數碼獸合體戰爭 "wikilink")』挿入歌)
+    1.  タギルチカラ\! (動畫『[數碼獸合體戰爭](https://zh.wikipedia.org/wiki/數碼獸合體戰爭 "wikilink")』挿入歌)
           -
             作詞・作曲：YOFFY / 編曲：大石憲一郎
     2.  Shining Dreamers 歌：岩崎貴文
@@ -182,8 +165,7 @@ Again」和「Never Ending Road」正式出道。
     5.  Shining Dreamers（カラオケ）
     6.  レジェンド・クロスウォーズ（カラオケ）
 21. **Vanguard Fight**（2013年2月20日發售，）
-    1.  Vanguard Fight (動畫『[卡片戰鬥先導者第三期](../Page/卡片戰鬥先導者.md "wikilink")
-        聯合王牌篇』片頭曲)
+    1.  Vanguard Fight (動畫『[卡片戰鬥先導者](../Page/卡片戰鬥先導者.md "wikilink")第三期 聯合王牌篇』片頭曲)
           -
             作詞・作曲：YOFFY / 編曲：大石憲一郎
     2.  ETERNAL FLAME〜永遠の炎
@@ -192,8 +174,7 @@ Again」和「Never Ending Road」正式出道。
     3.  Vanguard Fight（off vocal）
     4.  ETERNAL FLAME〜永遠の炎（off vocal）
 22. **Break your spell**（2013年12月18日發售，響MUSIC）
-    1.  Break your spell (動畫『[卡片戰鬥先導者第三期](../Page/卡片戰鬥先導者.md "wikilink")
-        聯合王牌篇』第3片頭曲)
+    1.  Break your spell (動畫『[卡片戰鬥先導者](../Page/卡片戰鬥先導者.md "wikilink")第三期 聯合王牌篇』第3片頭曲)
           -
             作詞・作曲：YOFFY / 編曲：大石憲一郎
     2.  BIG BANG
@@ -216,9 +197,7 @@ Again」和「Never Ending Road」正式出道。
   - **サイキックラバー**（2006年6月21日發售，Columbia）
     1.  冒険者 ON THE ROAD（Album Version）
     2.  とんでもねぇヤツらがやって来た！（「サイキックラバーのアニカンRADIO」片頭主題曲）
-    3.  NO WAY
-        OUT\!（[PS2](https://zh.wikipedia.org/wiki/PS2 "wikilink")[遊戲](https://zh.wikipedia.org/wiki/遊戲 "wikilink")《[DUEL
-        SAVIOR DESTINY](../Page/DUEL_SAVIOR.md "wikilink")》片頭曲）
+    3.  NO WAY OUT\!（[PS2](https://zh.wikipedia.org/wiki/PS2 "wikilink")[遊戲](https://zh.wikipedia.org/wiki/遊戲 "wikilink")《[DUEL SAVIOR DESTINY](../Page/DUEL_SAVIOR.md "wikilink")》片頭曲）
     4.  Don't Give Up\!\!
     5.  いつも手の中に
     6.  TAKE MY SOUL FOREVER
@@ -291,31 +270,25 @@ Again」和「Never Ending Road」正式出道。
     11. JUMP\!(Resized Version)
     12. WINTER SONG…「アニぱら音楽館」
     13. 鼓動 -get closer-…「[魔女之刃 (動畫)](../Page/魔女之刃_\(動畫\).md "wikilink")」
-    14. 冒険者 ON THE ROAD(Album
-        Version)…「[轟轟戰隊冒險者](../Page/轟轟戰隊冒險者.md "wikilink")」
+    14. 冒険者 ON THE ROAD(Album Version)…「[轟轟戰隊冒險者](../Page/轟轟戰隊冒險者.md "wikilink")」
     15. LOST IN SPACE…「[泰坦尼亞](../Page/泰坦尼亞.md "wikilink")」
     16. GAIKING…「[新宇宙飛龍](../Page/新宇宙飛龍.md "wikilink")」
     17. 特捜戦隊デカレンジャー…「[特搜戰隊DEKARANGER](https://zh.wikipedia.org/wiki/特搜戰隊DEKARANGER "wikilink")」
   - **RAISE YOUR HANDS** （2014年6月18日發售，響MUSIC）
     1.  Overture
     2.  RAISE YOUR HANDS\!\! ～Reach for the sky～
-    3.  Vanguard Fight　※動畫『[卡片戰鬥先導者第三期](../Page/卡片戰鬥先導者.md "wikilink")
-        王牌連接篇』OP主題曲
+    3.  Vanguard Fight　※動畫『[卡片戰鬥先導者](../Page/卡片戰鬥先導者.md "wikilink")第三期 王牌連接篇』OP主題曲
     4.  Save My Soul
-    5.  Break your spell　※動畫『[卡片戰鬥先導者第三期](../Page/卡片戰鬥先導者.md "wikilink")
-        王牌連接篇』OP主題曲
+    5.  Break your spell　※動畫『[卡片戰鬥先導者](../Page/卡片戰鬥先導者.md "wikilink")第三期 王牌連接篇』OP主題曲
     6.  Now and Forever \[Psychic style\]
     7.  ギガントシューターだっちゅーの！\[Retro-future style\]　※TV動畫「」OP主題曲
     8.  Merciless, Heartless
-    9.  Card of the Future \[Psychic style\]　※TV動畫『[未來卡片
-        戰鬥夥伴](../Page/未來卡片_戰鬥夥伴.md "wikilink")』OP主題曲
-        (SELFCOVER)
+    9.  Card of the Future \[Psychic style\]　※TV動畫『[未來卡片 戰鬥夥伴](../Page/未來卡片_戰鬥夥伴.md "wikilink")』OP主題曲 (SELFCOVER)
     10. BIG BANG
     11. Eternal Flame～永遠の炎-
     12. Welcome to the Real World
     13. Vanguard Fight　\[English style\] ※bonus track
-  - **特捜戦隊デカレンジャー 10 YEARS AFTER 特捜サウンドファイル サイキックラバー style
-    2015**（2015年10月7日發售，Columbia）
+  - **特捜戦隊デカレンジャー 10 YEARS AFTER 特捜サウンドファイル サイキックラバー style 2015**（2015年10月7日發售，Columbia）
     1.  特捜BGM1 The Emblem
           - (1)M25
     2.  特捜戦隊デカレンジャー 10 YEARS AFTER
@@ -346,23 +319,18 @@ Again」和「Never Ending Road」正式出道。
 
   - 風立ちぬ～PSYCHIC LOVER style～（「みすてぃっく放送部」片尾曲）
   - Voices～PSYCHIC LOVER style～（「みすてぃっく放送部」片尾曲）
-  - ゴーゴー！TODAY（「[秋葉原情報局](https://zh.wikipedia.org/wiki/秋葉原情報局 "wikilink")」片頭曲，與[福井裕佳梨合唱](../Page/福井裕佳梨.md "wikilink")）
-  - 宇チューに夢チュー（「[秋葉原情報局](https://zh.wikipedia.org/wiki/秋葉原情報局 "wikilink")」片尾曲，與[福井裕佳梨合唱](../Page/福井裕佳梨.md "wikilink")）
-  - Ticket to the
-    Paradise（「」片頭曲，與[影山浩宣](../Page/影山浩宣.md "wikilink")、[遠藤正明](../Page/遠藤正明.md "wikilink")、[下川美娜合唱](../Page/下川美娜.md "wikilink")）
-  - Generation-A ([Animelo Summer
-    Live](../Page/Animelo_Summer_Live.md "wikilink")2007主題曲)
+  - ゴーゴー！TODAY（「[秋葉原情報局](https://zh.wikipedia.org/wiki/秋葉原情報局 "wikilink")」片頭曲，與[福井裕佳梨](../Page/福井裕佳梨.md "wikilink")合唱）
+  - 宇チューに夢チュー（「[秋葉原情報局](https://zh.wikipedia.org/wiki/秋葉原情報局 "wikilink")」片尾曲，與[福井裕佳梨](../Page/福井裕佳梨.md "wikilink")合唱）
+  - Ticket to the Paradise（「」片頭曲，與[影山浩宣](../Page/影山浩宣.md "wikilink")、[遠藤正明](../Page/遠藤正明.md "wikilink")、[下川美娜](../Page/下川美娜.md "wikilink")合唱）
+  - Generation-A ([Animelo Summer Live](../Page/Animelo_Summer_Live.md "wikilink")2007主題曲)
   - Yells 〜It's a beautiful life〜(Animelo Summer Live2008主題曲)
   - RE:BRIDGE〜Return to oneself〜(Animelo Summer Live2009主題曲)
-  - Card of the Future (TV動畫『[未來卡片
-    戰鬥夥伴](../Page/未來卡片_戰鬥夥伴.md "wikilink")』OP主題曲，與[Suara合唱](../Page/Suara.md "wikilink"))
-  - V-ROAD (動畫『[卡片戰鬥先導者第四期](../Page/卡片戰鬥先導者.md "wikilink")
-    雙鬪搭檔篇』OP主題曲，BUSHI★7名義，與[DAIGO](https://zh.wikipedia.org/wiki/DAIGO "wikilink")、Suara、[橘田泉](../Page/橘田泉.md "wikilink")、[三森鈴子](https://zh.wikipedia.org/wiki/三森鈴子 "wikilink")、合唱)
+  - Card of the Future (TV動畫『[未來卡片 戰鬥夥伴](../Page/未來卡片_戰鬥夥伴.md "wikilink")』OP主題曲，與[Suara](../Page/Suara.md "wikilink")合唱)
+  - V-ROAD (動畫『[卡片戰鬥先導者](../Page/卡片戰鬥先導者.md "wikilink")第四期 雙鬪搭檔篇』OP主題曲，BUSHI★7名義，與[DAIGO](https://zh.wikipedia.org/wiki/DAIGO "wikilink")、Suara、[橘田泉](../Page/橘田泉.md "wikilink")、[三森鈴子](https://zh.wikipedia.org/wiki/三森鈴子 "wikilink")、合唱)
 
 ### 制作
 
-  - [德永愛](https://zh.wikipedia.org/wiki/德永愛 "wikilink")「Orange
-    planet」「Scarlet」「flame」
+  - [德永愛](https://zh.wikipedia.org/wiki/德永愛 "wikilink")「Orange planet」「Scarlet」「flame」
   - からふるまきあ～と
   - みすてぃっく放送部
 
@@ -374,17 +342,15 @@ Again」和「Never Ending Road」正式出道。
 
 ### 獎項
 
-  - 由和田欣之（YOFFY）作曲的日本特攝《[武侍戰隊](https://zh.wikipedia.org/wiki/武侍戰隊 "wikilink")》香港版主題曲由[李礎業主唱的](../Page/李礎業.md "wikilink")《武侍戰隊》曾於「[新城勁爆兒歌頒獎禮](https://zh.wikipedia.org/wiki/新城勁爆兒歌頒獎禮 "wikilink")2012」內奪得「新城勁爆兒歌」獎
+  - 由和田欣之（YOFFY）作曲的日本特攝《[武侍戰隊](https://zh.wikipedia.org/wiki/武侍戰隊 "wikilink")》香港版主題曲由[李礎業](../Page/李礎業.md "wikilink")主唱的《武侍戰隊》曾於「[新城勁爆兒歌頒獎禮](https://zh.wikipedia.org/wiki/新城勁爆兒歌頒獎禮 "wikilink")2012」內奪得「新城勁爆兒歌」獎
 
 ## 演出
 
 ### 廣播
 
   - アニカンRADIO（[Radio關西](https://zh.wikipedia.org/wiki/Radio關西 "wikilink")、[Anista.TV](https://zh.wikipedia.org/wiki/Anista.TV "wikilink")）
-  - ミュージックフォルダ（[Music
-    Bird](https://zh.wikipedia.org/wiki/Music_Bird "wikilink")，已結束）
-  - [TOKYO→NIIGATA MUSIC
-    CONVOY逢星期二](https://zh.wikipedia.org/wiki/TOKYO→NIIGATA_MUSIC_CONVOY "wikilink")（於2007年1月擔當主持）
+  - ミュージックフォルダ（[Music Bird](https://zh.wikipedia.org/wiki/Music_Bird "wikilink")，已結束）
+  - [TOKYO→NIIGATA MUSIC CONVOY逢星期二](https://zh.wikipedia.org/wiki/TOKYO→NIIGATA_MUSIC_CONVOY "wikilink")（於2007年1月擔當主持）
 
 ### 電視
 
@@ -402,8 +368,7 @@ Again」和「Never Ending Road」正式出道。
 
 :\*[PSYCHIC LOVER官方網站](http://psychiclover.net/)
 
-:\*[PSYCHIC
-LOVER日本哥倫比亞唱片公司官方網站](http://columbia.jp/artist-info/psychiclover/)
+:\*[PSYCHIC LOVER日本哥倫比亞唱片公司官方網站](http://columbia.jp/artist-info/psychiclover/)
 
 :\*[YOFFY's Planet](http://www.yoffy.net/)
 
@@ -413,14 +378,7 @@ LOVER日本哥倫比亞唱片公司官方網站](http://columbia.jp/artist-info/
 
 :\*
 
-[Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")
-[Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink")
-[Category:長野縣出身人物](https://zh.wikipedia.org/wiki/Category:長野縣出身人物 "wikilink")
-[Category:神奈川縣出身人物](https://zh.wikipedia.org/wiki/Category:神奈川縣出身人物 "wikilink")
-[Category:Project.R](https://zh.wikipedia.org/wiki/Category:Project.R "wikilink")
-[Category:日本搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本搖滾樂團 "wikilink")
-[Category:搖滾樂團](https://zh.wikipedia.org/wiki/Category:搖滾樂團 "wikilink")
-[Category:日本古倫美亞旗下藝人](https://zh.wikipedia.org/wiki/Category:日本古倫美亞旗下藝人 "wikilink")
+[Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink") [Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink") [Category:長野縣出身人物](https://zh.wikipedia.org/wiki/Category:長野縣出身人物 "wikilink") [Category:神奈川縣出身人物](https://zh.wikipedia.org/wiki/Category:神奈川縣出身人物 "wikilink") [Category:Project.R](https://zh.wikipedia.org/wiki/Category:Project.R "wikilink") [Category:日本搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本搖滾樂團 "wikilink") [Category:搖滾樂團](https://zh.wikipedia.org/wiki/Category:搖滾樂團 "wikilink") [Category:日本古倫美亞旗下藝人](https://zh.wikipedia.org/wiki/Category:日本古倫美亞旗下藝人 "wikilink")
 
 1.
 2.

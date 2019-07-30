@@ -1,12 +1,8 @@
-**-{zh-cn:杰弗里·雅各布·艾布拉姆斯; zh-tw:傑佛瑞·賈克柏·亞伯拉罕;
-zh-hk:謝菲·雅各·艾布斯}-**（，），常稱**J·J·艾布拉姆斯**（），[猶太人](https://zh.wikipedia.org/wiki/猶太人 "wikilink")，是一名[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[導演](../Page/電影導演.md "wikilink")、[監製](https://zh.wikipedia.org/wiki/電影監製 "wikilink")、[電視製作人](https://zh.wikipedia.org/wiki/電視製作人 "wikilink")、[編劇和](../Page/編劇.md "wikilink")[作家](https://zh.wikipedia.org/wiki/作家 "wikilink")。他成功創造出[美國廣播公司](https://zh.wikipedia.org/wiki/美國廣播公司 "wikilink")（ABC）的電視影集《[雙面女間諜](../Page/特務A.md "wikilink")》（*Alias*）和《[迷失](../Page/迷失.md "wikilink")》（*Lost*），並和麥特·瑞維斯（Matt
-Reeves）合作創造華納的《[大学生费莉希蒂](../Page/大学生费莉希蒂.md "wikilink")》（*Felicity*）。額外一提的是台灣譯名
-J. J. 亞伯-{}-拉罕其實是誤譯，Abrams 並非 Abraham ，發音上不存在「罕」的近似音，依照往例應譯作艾布蘭才是正確的。
+**-{zh-cn:杰弗里·雅各布·艾布拉姆斯; zh-tw:傑佛瑞·賈克柏·亞伯拉罕; zh-hk:謝菲·雅各·艾布斯}-**（，），常稱**J·J·艾布拉姆斯**（），[猶太人](https://zh.wikipedia.org/wiki/猶太人 "wikilink")，是一名[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[導演](../Page/電影導演.md "wikilink")、[監製](https://zh.wikipedia.org/wiki/電影監製 "wikilink")、[電視製作人](https://zh.wikipedia.org/wiki/電視製作人 "wikilink")、[編劇](../Page/編劇.md "wikilink")和[作家](https://zh.wikipedia.org/wiki/作家 "wikilink")。他成功創造出[美國廣播公司](https://zh.wikipedia.org/wiki/美國廣播公司 "wikilink")（ABC）的電視影集《[雙面女間諜](../Page/特務A.md "wikilink")》（*Alias*）和《[迷失](../Page/迷失.md "wikilink")》（*Lost*），並和麥特·瑞維斯（Matt Reeves）合作創造華納的《[大学生费莉希蒂](../Page/大学生费莉希蒂.md "wikilink")》（*Felicity*）。額外一提的是台灣譯名 J. J. 亞伯-{}-拉罕其實是誤譯，Abrams 並非 Abraham ，發音上不存在「罕」的近似音，依照往例應譯作艾布蘭才是正確的。
 
-亞伯拉罕出生於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[紐約市並在](https://zh.wikipedia.org/wiki/紐約市 "wikilink")[洛杉磯長大](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")。他在紐約[布隆克維](../Page/布隆克維.md "wikilink")（Bronxville）就讀[莎拉勞倫斯學院](https://zh.wikipedia.org/wiki/莎拉勞倫斯學院 "wikilink")（Sarah
-Lawrence College）。他的父親（Gerald W. Abrams）和母親（Carol Abrams）也是製作人。
+亞伯拉罕出生於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[紐約市並在](https://zh.wikipedia.org/wiki/紐約市 "wikilink")[洛杉磯長大](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")。他在紐約[布隆克維](../Page/布隆克維.md "wikilink")（Bronxville）就讀[莎拉勞倫斯學院](https://zh.wikipedia.org/wiki/莎拉勞倫斯學院 "wikilink")（Sarah Lawrence College）。他的父親（Gerald W. Abrams）和母親（Carol Abrams）也是製作人。
 
-2006年7月14日，亞伯拉罕分別和[派拉蒙影業及](../Page/派拉蒙影業.md "wikilink")[華納兄弟各簽下五年和六年合約](https://zh.wikipedia.org/wiki/華納兄弟 "wikilink")，價值超過5,500萬[美元](../Page/美元.md "wikilink")（約-{zh-hans:人民币4.3亿元;zh-hk:港幣4.2億元;zh-tw:新台幣17.7億元;}-）\[1\]。2013年1月，跟[華特迪士尼影業簽約執導](https://zh.wikipedia.org/wiki/華特迪士尼影業 "wikilink")《[星際大戰：原力覺醒](https://zh.wikipedia.org/wiki/星際大戰七部曲：原力覺醒 "wikilink")》\[2\]。
+2006年7月14日，亞伯拉罕分別和[派拉蒙影業](../Page/派拉蒙影業.md "wikilink")及[華納兄弟各簽下五年和六年合約](https://zh.wikipedia.org/wiki/華納兄弟 "wikilink")，價值超過5,500萬[美元](../Page/美元.md "wikilink")（約-{zh-hans:人民币4.3亿元;zh-hk:港幣4.2億元;zh-tw:新台幣17.7億元;}-）\[1\]。2013年1月，跟[華特迪士尼影業簽約執導](https://zh.wikipedia.org/wiki/華特迪士尼影業 "wikilink")《[星際大戰：原力覺醒](https://zh.wikipedia.org/wiki/星際大戰七部曲：原力覺醒 "wikilink")》\[2\]。
 
 ## 作品
 
@@ -326,8 +322,7 @@ Lawrence College）。他的父親（Gerald W. Abrams）和母親（Carol Abrams
   - 《[迷失](../Page/迷失.md "wikilink")》，創造者之一、編劇、執行製作、導演
   - 《What About Brian》，執行製作
   - 《[-{zh-hans:6ﾟ接触;zh-hk:六度分離;zh-tw:6ﾟ接觸;}-](https://zh.wikipedia.org/wiki/6ﾟ接觸 "wikilink")》，執行製作
-  - 《[-{zh-hans:危机边缘; zh-tw:危機邊緣;
-    zh-hk:F檔案}-](https://zh.wikipedia.org/wiki/F檔案 "wikilink")》，執行製作
+  - 《[-{zh-hans:危机边缘; zh-tw:危機邊緣; zh-hk:F檔案}-](https://zh.wikipedia.org/wiki/F檔案 "wikilink")》，執行製作
   - 《[恶魔岛](../Page/恶魔岛_\(电视剧\).md "wikilink")》，编剧
   - 《[疑犯追踪](https://zh.wikipedia.org/wiki/疑犯追踪 "wikilink")》，執行製作
   - 《[末日重生](https://zh.wikipedia.org/wiki/末日重生 "wikilink")》，執行製作
@@ -349,17 +344,7 @@ Lawrence College）。他的父親（Gerald W. Abrams）和母親（Carol Abrams
   -
   - [The J.J. Abrams Universe](http://www.j-j-abrams.com/)：非官方的支持者網站
 
-[Category:美国男性编剧](https://zh.wikipedia.org/wiki/Category:美国男性编剧 "wikilink")
-[Category:美國電視編劇](https://zh.wikipedia.org/wiki/Category:美國電視編劇 "wikilink")
-[Category:美國電影導演](https://zh.wikipedia.org/wiki/Category:美國電影導演 "wikilink")
-[Category:美国电视剧导演](https://zh.wikipedia.org/wiki/Category:美国电视剧导演 "wikilink")
-[Category:美國電視監製](https://zh.wikipedia.org/wiki/Category:美國電視監製 "wikilink")
-[Category:美國電影監製](https://zh.wikipedia.org/wiki/Category:美國電影監製 "wikilink")
-[Category:美國猶太人](https://zh.wikipedia.org/wiki/Category:美國猶太人 "wikilink")
-[Category:紐約市人](https://zh.wikipedia.org/wiki/Category:紐約市人 "wikilink")
-[Category:TED演讲人](https://zh.wikipedia.org/wiki/Category:TED演讲人 "wikilink")
-[Category:莎拉勞倫斯學院校友](https://zh.wikipedia.org/wiki/Category:莎拉勞倫斯學院校友 "wikilink")
-[Category:猶太導演](https://zh.wikipedia.org/wiki/Category:猶太導演 "wikilink")
+[Category:美国男性编剧](https://zh.wikipedia.org/wiki/Category:美国男性编剧 "wikilink") [Category:美國電視編劇](https://zh.wikipedia.org/wiki/Category:美國電視編劇 "wikilink") [Category:美國電影導演](https://zh.wikipedia.org/wiki/Category:美國電影導演 "wikilink") [Category:美国电视剧导演](https://zh.wikipedia.org/wiki/Category:美国电视剧导演 "wikilink") [Category:美國電視監製](https://zh.wikipedia.org/wiki/Category:美國電視監製 "wikilink") [Category:美國電影監製](https://zh.wikipedia.org/wiki/Category:美國電影監製 "wikilink") [Category:美國猶太人](https://zh.wikipedia.org/wiki/Category:美國猶太人 "wikilink") [Category:紐約市人](https://zh.wikipedia.org/wiki/Category:紐約市人 "wikilink") [Category:TED演讲人](https://zh.wikipedia.org/wiki/Category:TED演讲人 "wikilink") [Category:莎拉勞倫斯學院校友](https://zh.wikipedia.org/wiki/Category:莎拉勞倫斯學院校友 "wikilink") [Category:猶太導演](https://zh.wikipedia.org/wiki/Category:猶太導演 "wikilink")
 
 1.
 2.

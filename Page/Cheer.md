@@ -1,4 +1,4 @@
-《**CHEER**》是[台灣創作歌手](https://zh.wikipedia.org/wiki/台灣 "wikilink")[陳綺貞的](../Page/陳綺貞.md "wikilink")[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")。在台灣於2005年3月29日由[滾石唱片推出](../Page/滾石唱片.md "wikilink")。分為限量的精裝版和普通版。精裝版的包裝採用與[精裝書類似的翻頁設計](https://zh.wikipedia.org/wiki/精裝書 "wikilink")，並且附贈收錄了[音樂錄影帶和演唱會影片的](../Page/音樂錄影帶.md "wikilink")[VCD](../Page/VCD.md "wikilink")。
+《**CHEER**》是[台灣創作歌手](https://zh.wikipedia.org/wiki/台灣 "wikilink")[陳綺貞](../Page/陳綺貞.md "wikilink")的[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")。在台灣於2005年3月29日由[滾石唱片](../Page/滾石唱片.md "wikilink")推出。分為限量的精裝版和普通版。精裝版的包裝採用與[精裝書類似的翻頁設計](https://zh.wikipedia.org/wiki/精裝書 "wikilink")，並且附贈收錄了[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")和演唱會影片的[VCD](../Page/VCD.md "wikilink")。
 
 ## 曲目
 
@@ -28,7 +28,4 @@
 
 ## 排行資訊
 
-[Category:陳綺貞音樂專輯](https://zh.wikipedia.org/wiki/Category:陳綺貞音樂專輯 "wikilink")
-[Category:台灣流行音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣流行音樂專輯 "wikilink")
-[Category:2005年音樂專輯](https://zh.wikipedia.org/wiki/Category:2005年音樂專輯 "wikilink")
-[Category:滚石唱片音乐专辑](https://zh.wikipedia.org/wiki/Category:滚石唱片音乐专辑 "wikilink")
+[Category:陳綺貞音樂專輯](https://zh.wikipedia.org/wiki/Category:陳綺貞音樂專輯 "wikilink") [Category:台灣流行音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣流行音樂專輯 "wikilink") [Category:2005年音樂專輯](https://zh.wikipedia.org/wiki/Category:2005年音樂專輯 "wikilink") [Category:滚石唱片音乐专辑](https://zh.wikipedia.org/wiki/Category:滚石唱片音乐专辑 "wikilink")

@@ -1,35 +1,27 @@
-「**THE END**」是中島美嘉以NANA starring MIKA
-NAKASHIMA名義於2006年12月13日發行的專輯。在電影「[NANA
-2](../Page/NANA_2.md "wikilink")」上映的同時發行了這張專輯，象徵NANA starring MIKA
-NAKASHIMA這個角色的最初與最後登場。
+「**THE END**」是中島美嘉以NANA starring MIKA NAKASHIMA名義於2006年12月13日發行的專輯。在電影「[NANA 2](../Page/NANA_2.md "wikilink")」上映的同時發行了這張專輯，象徵NANA starring MIKA NAKASHIMA這個角色的最初與最後登場。
 
 ## 概述
 
   - 除了「一色」以外，整張專輯以搖滾為基調。
-  - 已於先前以單曲形式發行的「一色」，繼電影「[NANA](../Page/NANA.md "wikilink")」主題曲「GLAMOROUS
-    SKY 魅惑天空」，再度請到「NANA」漫畫的原作者[矢澤愛作詞](../Page/矢澤愛.md "wikilink")。
+  - 已於先前以單曲形式發行的「一色」，繼電影「[NANA](../Page/NANA.md "wikilink")」主題曲「GLAMOROUS SKY 魅惑天空」，再度請到「NANA」漫畫的原作者[矢澤愛](../Page/矢澤愛.md "wikilink")作詞。
   - ORICON最高第2名。銷量約18.2萬張
 
 ## 單曲銷量
 
-  - [GLAMOROUS
-    SKY](../Page/GLAMOROUS_SKY.md "wikilink")：ORICON最高第1名。銷量約44.4萬張
+  - [GLAMOROUS SKY](../Page/GLAMOROUS_SKY.md "wikilink")：ORICON最高第1名。銷量約44.4萬張
   - [一色](../Page/一色.md "wikilink")：ORICON最高第5名。銷量約9.7萬張
 
 ## 收錄曲目
 
 1.  **[一色](../Page/一色.md "wikilink")**
-      - 作詞：[AI
-        YAZAWA](../Page/矢澤愛.md "wikilink")、作曲：TAKURO、編曲：TAKURO・Masahide
-        Sakuma
+      - 作詞：[AI YAZAWA](../Page/矢澤愛.md "wikilink")、作曲：TAKURO、編曲：TAKURO・Masahide Sakuma
     <!-- end list -->
       -
         電影「[NANA 2](../Page/NANA_2.md "wikilink")」主題曲
 2.  **[EYES FOR THE MOON](../Page/一色.md "wikilink")**
       - 作詞・作曲：TAKURO、編曲：TAKURO・Masahide Sakuma
 3.  **[GLAMOROUS SKY](../Page/GLAMOROUS_SKY.md "wikilink")**
-      - 作詞：AI
-        YAZAWA、作曲：[HYDE](https://zh.wikipedia.org/wiki/hyde "wikilink")、編曲：HYDE・KAZ
+      - 作詞：AI YAZAWA、作曲：[HYDE](https://zh.wikipedia.org/wiki/hyde "wikilink")、編曲：HYDE・KAZ
     <!-- end list -->
       -
         電影「[NANA](../Page/NANA.md "wikilink")」主題曲
@@ -48,10 +40,8 @@ NAKASHIMA這個角色的最初與最後登場。
 10. **一色**(ALTAnative)
       - 作詞：AI YAZAWA、作曲：TAKURO、編曲：TAKURO・Masahide Sakuma
 11. **MY WAY**
-      - 作詞：[Paul Anka](../Page/保羅·安卡.md "wikilink")・Lucien Marie Antoine
-        Thibaut、作曲：Claude Francois・Jacques Revaux、編曲：根岸孝旨
+      - 作詞：[Paul Anka](../Page/保羅·安卡.md "wikilink")・Lucien Marie Antoine Thibaut、作曲：Claude Francois・Jacques Revaux、編曲：根岸孝旨
 
 ## 外部連結
 
-[Category:中島美嘉音樂專輯](https://zh.wikipedia.org/wiki/Category:中島美嘉音樂專輯 "wikilink")
-[Category:2006年音樂專輯](https://zh.wikipedia.org/wiki/Category:2006年音樂專輯 "wikilink")
+[Category:中島美嘉音樂專輯](https://zh.wikipedia.org/wiki/Category:中島美嘉音樂專輯 "wikilink") [Category:2006年音樂專輯](https://zh.wikipedia.org/wiki/Category:2006年音樂專輯 "wikilink")

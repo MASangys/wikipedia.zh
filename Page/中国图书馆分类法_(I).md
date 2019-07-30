@@ -12,8 +12,7 @@
 
 :\*I05 各体文学理论和创作方法
 
-:\*I06
-[文学评论](https://zh.wikipedia.org/wiki/文学评论 "wikilink")、[文学欣赏](https://zh.wikipedia.org/wiki/文学欣赏 "wikilink")
+:\*I06 [文学评论](https://zh.wikipedia.org/wiki/文学评论 "wikilink")、[文学欣赏](https://zh.wikipedia.org/wiki/文学欣赏 "wikilink")
 
   - I1　[世界文学](https://zh.wikipedia.org/wiki/世界文学 "wikilink")
 
@@ -21,8 +20,7 @@
 
 ::\*I106 各体文学评论与研究
 
-::\*I109
-[文学史](https://zh.wikipedia.org/wiki/文学史 "wikilink")、[文学思想史](https://zh.wikipedia.org/wiki/文学思想史 "wikilink")
+::\*I109 [文学史](https://zh.wikipedia.org/wiki/文学史 "wikilink")、[文学思想史](https://zh.wikipedia.org/wiki/文学思想史 "wikilink")
 
 :\*I11 [作品集](https://zh.wikipedia.org/wiki/作品集 "wikilink")
 
@@ -56,18 +54,15 @@
 
 ::\*I207 各体[文学评论和研究](https://zh.wikipedia.org/wiki/文学评论 "wikilink")
 
-:::\*I207.2
-[诗歌](../Page/诗歌.md "wikilink")、[韵文](https://zh.wikipedia.org/wiki/韵文 "wikilink")
+:::\*I207.2 [诗歌](../Page/诗歌.md "wikilink")、[韵文](https://zh.wikipedia.org/wiki/韵文 "wikilink")
 
 :::\*I207.3 [戏剧](../Page/戏剧.md "wikilink")
 
 :::\*I207.4 [小说](../Page/小说.md "wikilink")
 
-:::::\*I207.411
-《[红楼梦](https://zh.wikipedia.org/wiki/红楼梦 "wikilink")》评论与研究
+:::::\*I207.411 《[红楼梦](https://zh.wikipedia.org/wiki/红楼梦 "wikilink")》评论与研究
 
-:::::\*I207.412
-《[水浒](https://zh.wikipedia.org/wiki/水浒 "wikilink")》的评论与研究
+:::::\*I207.412 《[水浒](https://zh.wikipedia.org/wiki/水浒 "wikilink")》的评论与研究
 
 :::::\*I207.413 《[三国演义](../Page/三国演义.md "wikilink")》评论与研究
 
@@ -79,12 +74,11 @@
 
 :::\*I207.8 [儿童文学](../Page/儿童文学.md "wikilink")
 
-::\*I209
-[文学史](https://zh.wikipedia.org/wiki/文学史 "wikilink")、[文学思想史](https://zh.wikipedia.org/wiki/文学思想史 "wikilink")
+::\*I209 [文学史](https://zh.wikipedia.org/wiki/文学史 "wikilink")、[文学思想史](https://zh.wikipedia.org/wiki/文学思想史 "wikilink")
 
 :\*I21 作品集
 
-::\*I210 [鲁迅作品及研究](../Page/鲁迅.md "wikilink")
+::\*I210 [鲁迅](../Page/鲁迅.md "wikilink")作品及研究
 
 :::\*I210.1 全集
 
@@ -96,8 +90,7 @@
 
 :::\*I210.6 [小说](../Page/小说.md "wikilink")
 
-:::\*I210.7
-[日记](../Page/日记.md "wikilink")、[书信](../Page/书信.md "wikilink")
+:::\*I210.7 [日记](../Page/日记.md "wikilink")、[书信](../Page/书信.md "wikilink")
 
 ::::\*I210.96 鲁迅思想的学习和研究
 
@@ -109,8 +102,7 @@
 
 ::\*I219 群众文艺演唱材料
 
-:\*I22
-[诗歌](../Page/诗歌.md "wikilink")、[韵文](https://zh.wikipedia.org/wiki/韵文 "wikilink")
+:\*I22 [诗歌](../Page/诗歌.md "wikilink")、[韵文](https://zh.wikipedia.org/wiki/韵文 "wikilink")
 
 ::\*I222 古代作品
 
@@ -126,13 +118,11 @@
 
 ::\*I232 [京剧](../Page/京剧.md "wikilink")
 
-::\*I233
-[歌剧](../Page/歌剧.md "wikilink")、[歌舞剧](https://zh.wikipedia.org/wiki/歌舞剧 "wikilink")、[秧歌剧](https://zh.wikipedia.org/wiki/秧歌剧 "wikilink")
+::\*I233 [歌剧](../Page/歌剧.md "wikilink")、[歌舞剧](https://zh.wikipedia.org/wiki/歌舞剧 "wikilink")、[秧歌剧](https://zh.wikipedia.org/wiki/秧歌剧 "wikilink")
 
 ::\*I234 [话剧](https://zh.wikipedia.org/wiki/话剧 "wikilink")
 
-::\*I235
-[电影](../Page/电影.md "wikilink")、[电视](../Page/电视.md "wikilink")、[广播](https://zh.wikipedia.org/wiki/广播 "wikilink")[剧本](../Page/剧本.md "wikilink")
+::\*I235 [电影](../Page/电影.md "wikilink")、[电视](../Page/电视.md "wikilink")、[广播](https://zh.wikipedia.org/wiki/广播 "wikilink")[剧本](../Page/剧本.md "wikilink")
 
 ::\*I236 [地方剧](https://zh.wikipedia.org/wiki/地方剧 "wikilink")
 
@@ -148,8 +138,7 @@
 
 :::\*I242.1 [笔记小说](../Page/笔记小说.md "wikilink")
 
-:::\*I242.3
-[话本](https://zh.wikipedia.org/wiki/话本 "wikilink")、[评话](https://zh.wikipedia.org/wiki/评话 "wikilink")
+:::\*I242.3 [话本](https://zh.wikipedia.org/wiki/话本 "wikilink")、[评话](https://zh.wikipedia.org/wiki/评话 "wikilink")
 
 :::\*I242.4 [章回小说](https://zh.wikipedia.org/wiki/章回小说 "wikilink")
 
@@ -195,38 +184,29 @@
 
 :::\*I247.7 新体[短篇小说](https://zh.wikipedia.org/wiki/短篇小说 "wikilink")
 
-:::\*I247.8
-[故事](../Page/故事.md "wikilink")、[微型小说](https://zh.wikipedia.org/wiki/微型小说 "wikilink")
+:::\*I247.8 [故事](../Page/故事.md "wikilink")、[微型小说](https://zh.wikipedia.org/wiki/微型小说 "wikilink")
 
 :\*I25 [报告文学](../Page/报告文学.md "wikilink")
 
 ::\*I251 [回忆录](https://zh.wikipedia.org/wiki/回忆录 "wikilink")
 
-::\*I252
-[厂史](https://zh.wikipedia.org/wiki/厂史 "wikilink")、[村史](https://zh.wikipedia.org/wiki/村史 "wikilink")、[家史](https://zh.wikipedia.org/wiki/家史 "wikilink")
+::\*I252 [厂史](https://zh.wikipedia.org/wiki/厂史 "wikilink")、[村史](https://zh.wikipedia.org/wiki/村史 "wikilink")、[家史](https://zh.wikipedia.org/wiki/家史 "wikilink")
 
-::\*I253
-[通讯](https://zh.wikipedia.org/wiki/通讯 "wikilink")、[特写](https://zh.wikipedia.org/wiki/特写 "wikilink")
+::\*I253 [通讯](https://zh.wikipedia.org/wiki/通讯 "wikilink")、[特写](https://zh.wikipedia.org/wiki/特写 "wikilink")
 
-:::\*I253.1
-[政治](../Page/政治.md "wikilink")、[法律](../Page/法律.md "wikilink")
+:::\*I253.1 [政治](../Page/政治.md "wikilink")、[法律](../Page/法律.md "wikilink")
 
-:::\*I253.2
-[军事](https://zh.wikipedia.org/wiki/军事 "wikilink")、[国防建设](https://zh.wikipedia.org/wiki/国防 "wikilink")
+:::\*I253.2 [军事](https://zh.wikipedia.org/wiki/军事 "wikilink")、[国防建设](https://zh.wikipedia.org/wiki/国防 "wikilink")
 
 :::\*I253.3 [经济](../Page/经济.md "wikilink")
 
-:::\*I253.4
-[文化](../Page/文化.md "wikilink")、[教育](../Page/教育.md "wikilink")、[体育](../Page/体育.md "wikilink")
+:::\*I253.4 [文化](../Page/文化.md "wikilink")、[教育](../Page/教育.md "wikilink")、[体育](../Page/体育.md "wikilink")
 
-:::\*I253.5
-[文学](https://zh.wikipedia.org/wiki/文学 "wikilink")、[艺术](../Page/艺术.md "wikilink")
+:::\*I253.5 [文学](https://zh.wikipedia.org/wiki/文学 "wikilink")、[艺术](../Page/艺术.md "wikilink")
 
-:::\*I253.6
-[科学与](../Page/科学.md "wikilink")[工程技术](https://zh.wikipedia.org/wiki/工程技术 "wikilink")
+:::\*I253.6 [科学](../Page/科学.md "wikilink")与[工程技术](https://zh.wikipedia.org/wiki/工程技术 "wikilink")
 
-:::\*I253.7
-[社会生活与](https://zh.wikipedia.org/wiki/社会生活 "wikilink")[社会问题](../Page/社会问题.md "wikilink")
+:::\*I253.7 [社会生活与](https://zh.wikipedia.org/wiki/社会生活 "wikilink")[社会问题](../Page/社会问题.md "wikilink")
 
 :::\*I253.9 其他
 
@@ -234,21 +214,19 @@
 
 ::\*I262 古代作品（公元前21世纪－公元前475年）
 
-::\*I263 [封建社会作品](../Page/封建社会.md "wikilink")（公元前475年－1840年）
+::\*I263 [封建社会](../Page/封建社会.md "wikilink")作品（公元前475年－1840年）
 
 ::\*I265 近代作品（1840年－1919年）
 
 ::\*I266 现代作品（1919年－1949年）
 
-:::\*I266.1
-[随笔](https://zh.wikipedia.org/wiki/随笔 "wikilink")、[杂文](https://zh.wikipedia.org/wiki/杂文 "wikilink")
+:::\*I266.1 [随笔](https://zh.wikipedia.org/wiki/随笔 "wikilink")、[杂文](https://zh.wikipedia.org/wiki/杂文 "wikilink")
 
 :::\*I266.3 [小品文](https://zh.wikipedia.org/wiki/小品文 "wikilink")
 
 :::\*I266.4 [游记](https://zh.wikipedia.org/wiki/游记 "wikilink")
 
-:::\*I266.5
-[书信](../Page/书信.md "wikilink")、[日记](../Page/日记.md "wikilink")
+:::\*I266.5 [书信](../Page/书信.md "wikilink")、[日记](../Page/日记.md "wikilink")
 
 ::\*I267 当代作品（1949年－）
 
@@ -262,8 +240,7 @@
 
 :::\*I277.2 [民间歌谣](https://zh.wikipedia.org/wiki/民间歌谣 "wikilink")
 
-:::\*I277.3
-[民间故事](https://zh.wikipedia.org/wiki/民间故事 "wikilink")、[传说](../Page/传说.md "wikilink")
+:::\*I277.3 [民间故事](https://zh.wikipedia.org/wiki/民间故事 "wikilink")、[传说](../Page/传说.md "wikilink")
 
 :::\*I277.4 [寓言](../Page/寓言.md "wikilink")
 
@@ -271,8 +248,7 @@
 
 :::\*I277.7 [谚语](../Page/谚语.md "wikilink")
 
-:::\*I277.8
-[谜语](https://zh.wikipedia.org/wiki/谜语 "wikilink")、[笑话](https://zh.wikipedia.org/wiki/笑话 "wikilink")、[幽默](../Page/幽默.md "wikilink")
+:::\*I277.8 [谜语](https://zh.wikipedia.org/wiki/谜语 "wikilink")、[笑话](https://zh.wikipedia.org/wiki/笑话 "wikilink")、[幽默](../Page/幽默.md "wikilink")
 
 :\*I28 [儿童文学](../Page/儿童文学.md "wikilink")
 
@@ -280,25 +256,21 @@
 
 ::\*I287 当代作品（1949年－）
 
-:::\*I287.2
-[诗歌](../Page/诗歌.md "wikilink")、[童谣](https://zh.wikipedia.org/wiki/童谣 "wikilink")
+:::\*I287.2 [诗歌](../Page/诗歌.md "wikilink")、[童谣](https://zh.wikipedia.org/wiki/童谣 "wikilink")
 
-:::\*I287.3
-[儿童戏剧](https://zh.wikipedia.org/wiki/儿童戏剧 "wikilink")、[歌舞剧](https://zh.wikipedia.org/wiki/歌舞剧 "wikilink")
+:::\*I287.3 [儿童戏剧](https://zh.wikipedia.org/wiki/儿童戏剧 "wikilink")、[歌舞剧](https://zh.wikipedia.org/wiki/歌舞剧 "wikilink")
 
 :::\*I287.4 [儿童小说](https://zh.wikipedia.org/wiki/儿童小说 "wikilink")
 
 ::::\*I287.45 长篇、中篇小说
 
-::::\*I287.47
-[短篇小说](https://zh.wikipedia.org/wiki/短篇小说 "wikilink")、[微型小说](https://zh.wikipedia.org/wiki/微型小说 "wikilink")
+::::\*I287.47 [短篇小说](https://zh.wikipedia.org/wiki/短篇小说 "wikilink")、[微型小说](https://zh.wikipedia.org/wiki/微型小说 "wikilink")
 
 :::\*I287.5 [儿童故事](https://zh.wikipedia.org/wiki/儿童故事 "wikilink")
 
 :::\*I287.6 [儿童散文](https://zh.wikipedia.org/wiki/儿童散文 "wikilink")
 
-:::\*I287.7
-[童话](https://zh.wikipedia.org/wiki/童话 "wikilink")、[寓言](../Page/寓言.md "wikilink")
+:::\*I287.7 [童话](https://zh.wikipedia.org/wiki/童话 "wikilink")、[寓言](../Page/寓言.md "wikilink")
 
 :::\*I287.8 [图画故事](https://zh.wikipedia.org/wiki/图画故事 "wikilink")
 

@@ -1,33 +1,24 @@
-《**攻殼機動隊 STAND ALONE COMPLEX**》（簡稱：**攻殼機動隊
-S.A.C.**）是一部[日本](../Page/日本.md "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，改編自[士郎正宗原作的](../Page/士郎正宗.md "wikilink")[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")《[攻殼機動隊](../Page/攻殼機動隊.md "wikilink")》。於2002年播映，全26話。獲選為2002年[日本](../Page/日本.md "wikilink")[文部省](../Page/文部省.md "wikilink")[文化廳媒體藝術祭動畫部門第六回動畫優秀獎](../Page/文化廳媒體藝術祭.md "wikilink")。
+《**攻殼機動隊 STAND ALONE COMPLEX**》（簡稱：**攻殼機動隊 S.A.C.**）是一部[日本](../Page/日本.md "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，改編自[士郎正宗](../Page/士郎正宗.md "wikilink")原作的[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")《[攻殼機動隊](../Page/攻殼機動隊.md "wikilink")》。於2002年播映，全26話。獲選為2002年[日本](../Page/日本.md "wikilink")[文部省](../Page/文部省.md "wikilink")[文化廳媒體藝術祭](../Page/文化廳媒體藝術祭.md "wikilink")動畫部門第六回動畫優秀獎。
 
 相較於原作漫畫及電影改編的故事以「人偶師」為主軸而進行，在本作的故事中主角草薙素子並未遇見人偶師，而繼續留在公安九課之中。因此本作品可視為與其他作品無關的平行世界。
 
-由於本作品廣受好評，製作公司又推出了第二部電視動畫《[攻殼機動隊 S.A.C 2nd
-GIG](https://zh.wikipedia.org/wiki/攻殼機動隊_S.A.C_2nd_GIG "wikilink")》，人物繼續延續第一部動畫的設定而劇情的時間設定則為第一部動畫之後發生的事情。
+由於本作品廣受好評，製作公司又推出了第二部電視動畫《[攻殼機動隊 S.A.C 2nd GIG](https://zh.wikipedia.org/wiki/攻殼機動隊_S.A.C_2nd_GIG "wikilink")》，人物繼續延續第一部動畫的設定而劇情的時間設定則為第一部動畫之後發生的事情。
 
 ## 劇情簡介
 
-故事述敘西元2030年時，網路的加速性發展，也帶來了犯罪的複雜化，以事先找到犯罪的種子，並消除其危險性為目的的組織—[公安九課被設立了](../Page/公安九課.md "wikilink")，該組織是直屬日本內務省的獨立部隊，一支高度義體化並擅長電腦戰的特殊部隊，俗稱「[攻殼機動隊](../Page/攻殼機動隊.md "wikilink")」。從電腦犯罪、國內要人的保護、兇惡殺人犯的搜索、揭發政客的貪污、抑制恐怖活動的發生到不能公開的暗殺，都是公安九課工作範圍。
+故事述敘西元2030年時，網路的加速性發展，也帶來了犯罪的複雜化，以事先找到犯罪的種子，並消除其危險性為目的的組織—[公安九課](../Page/公安九課.md "wikilink")被設立了，該組織是直屬日本內務省的獨立部隊，一支高度義體化並擅長電腦戰的特殊部隊，俗稱「[攻殼機動隊](../Page/攻殼機動隊.md "wikilink")」。從電腦犯罪、國內要人的保護、兇惡殺人犯的搜索、揭發政客的貪污、抑制恐怖活動的發生到不能公開的暗殺，都是公安九課工作範圍。
 
 ## 登場人物
 
 ### [公安九課](../Page/公安九課.md "wikilink")
 
-  - **[草薙素子](../Page/草薙素子.md "wikilink")（草薙素子）**：日本軍事部隊
-    （「自衛軍」）出身，最終軍階「三佐」（少校），同時這也成了她在9課時的外號。在九課中地位近乎隊長，有極高的領導及指揮能力、豐富的實戰經驗、並擅長電腦戰。加入九課前和某些成員在軍隊共事過。更早的經歷不明。女性、身高
-    168 公分、體重及年齡不詳。
-  - **荒卷大輔（日文：荒巻大輔）**：公安九課課長，有清晰的判斷力及迅速的行動力，深受部下信賴。全身只有腦子作了一點必要的義體化。男性、身高
-    153 公分。
-  - **巴特（日文：バトー）**：全身幾乎完全義體化，谍报专家，有著相當強悍的實戰經驗及能力，與草薙素子有很好的搭配默契，男性、身高 187
-    公分。
-  - **德古沙（日文：トグサ）**：被草薙素子從日本刑事警察中提拔的新進隊員，有優秀的分析能力。因為全身只有腦子作了一點必要的義體化，在九課中是個特異的成員。有一名妻子和一名女兒，一名兒子。實戰能力普通，喜好使用左輪手槍。男性、身高
-    178.5 公分。
-  - **石川（日文：イシカワ）**：擅長情報收集及擔當接應，电子战仅次于草薙素子，很久前就曾經與草薙素子在日本軍隊的情報部共事過。義體化項目不明。男性、身高
-    180 公分。
+  - **[草薙素子](../Page/草薙素子.md "wikilink")（草薙素子）**：日本軍事部隊 （「自衛軍」）出身，最終軍階「三佐」（少校），同時這也成了她在9課時的外號。在九課中地位近乎隊長，有極高的領導及指揮能力、豐富的實戰經驗、並擅長電腦戰。加入九課前和某些成員在軍隊共事過。更早的經歷不明。女性、身高 168 公分、體重及年齡不詳。
+  - **荒卷大輔（日文：荒巻大輔）**：公安九課課長，有清晰的判斷力及迅速的行動力，深受部下信賴。全身只有腦子作了一點必要的義體化。男性、身高 153 公分。
+  - **巴特（日文：バトー）**：全身幾乎完全義體化，谍报专家，有著相當強悍的實戰經驗及能力，與草薙素子有很好的搭配默契，男性、身高 187 公分。
+  - **德古沙（日文：トグサ）**：被草薙素子從日本刑事警察中提拔的新進隊員，有優秀的分析能力。因為全身只有腦子作了一點必要的義體化，在九課中是個特異的成員。有一名妻子和一名女兒，一名兒子。實戰能力普通，喜好使用左輪手槍。男性、身高 178.5 公分。
+  - **石川（日文：イシカワ）**：擅長情報收集及擔當接應，电子战仅次于草薙素子，很久前就曾經與草薙素子在日本軍隊的情報部共事過。義體化項目不明。男性、身高 180 公分。
   - **齋藤（日文：サイトー）**：擔任狙擊手，經常參與作戰，左眼明顯義體化，專為狙擊用。男性、身高 172 公分。
-  - **波瑪（日文：ボーマ）**：經常與帕茲一起行動，设备、武器、爆破专家，有時也會幫忙石川進行情報收集，全身幾乎完全義體化。男性、身高
-    200 公分。
+  - **波瑪（日文：ボーマ）**：經常與帕茲一起行動，设备、武器、爆破专家，有時也會幫忙石川進行情報收集，全身幾乎完全義體化。男性、身高 200 公分。
   - **帕茲（日文：パズ）**：一個沉默寡言又愛抽菸的男人，万事通，義體化項目不明。身高 177 公分。
   - **[攻殼車](https://zh.wikipedia.org/wiki/攻殼車 "wikilink")（「塔奇克馬」，日文：タチコマ）**：配屬於公安九課的小型「思考戰車」，共九架。擁有高度的人工智慧，能獨立作戰。可供一名人類操作。
 
@@ -62,8 +53,7 @@ GIG](https://zh.wikipedia.org/wiki/攻殼機動隊_S.A.C_2nd_GIG "wikilink")》�
 
 <!-- end list -->
 
-  - **七尾**：36
-    歲，父親為警察，在大學時代曾加入"**人類解放戰線**"之一的"**綠之塔**"，並與當時左派勢力"**興國旅團**"一起行動過，有涉入武裝鬥爭事件而遭到逮捕的前科，後以專案程式設計師的身份進入**瀨良野基因科技公司**工作，但任職一年後，被密告其過往的經歷而遭到解僱，參與並執行暗殺警視總監的的計劃，原本打算假冒笑面男的身份而被逮捕，但在被逮捕之前卻遭到殺害。
+  - **七尾**：36 歲，父親為警察，在大學時代曾加入"**人類解放戰線**"之一的"**綠之塔**"，並與當時左派勢力"**興國旅團**"一起行動過，有涉入武裝鬥爭事件而遭到逮捕的前科，後以專案程式設計師的身份進入**瀨良野基因科技公司**工作，但任職一年後，被密告其過往的經歷而遭到解僱，參與並執行暗殺警視總監的的計劃，原本打算假冒笑面男的身份而被逮捕，但在被逮捕之前卻遭到殺害。
 
 <!-- end list -->
 
@@ -72,10 +62,7 @@ GIG](https://zh.wikipedia.org/wiki/攻殼機動隊_S.A.C_2nd_GIG "wikilink")》�
 
 <!-- end list -->
 
-  - **馬賽羅‧賈提（日文：マルセロ）**：**捷諾馬**的民主革命指導者，兼捷諾馬軍事顧問，同時也是南美的[毒品大王](../Page/毒品.md "wikilink")，是引導捷諾馬革命邁向成功的功臣。包含
-    **[SAS](https://zh.wikipedia.org/wiki/英國空降特勤隊 "wikilink")** 及
-    **Delta**
-    策劃的暗殺在內，在劇中至少遭到六次暗殺，但本人實際上早已死亡，於其後出現的皆是經過[靈魂複製的替身](https://zh.wikipedia.org/wiki/靈魂 "wikilink")。
+  - **馬賽羅‧賈提（日文：マルセロ）**：**捷諾馬**的民主革命指導者，兼捷諾馬軍事顧問，同時也是南美的[毒品](../Page/毒品.md "wikilink")大王，是引導捷諾馬革命邁向成功的功臣。包含 **[SAS](https://zh.wikipedia.org/wiki/英國空降特勤隊 "wikilink")** 及 **Delta** 策劃的暗殺在內，在劇中至少遭到六次暗殺，但本人實際上早已死亡，於其後出現的皆是經過[靈魂複製的替身](https://zh.wikipedia.org/wiki/靈魂 "wikilink")。
 
 <!-- end list -->
 
@@ -112,9 +99,7 @@ GIG](https://zh.wikipedia.org/wiki/攻殼機動隊_S.A.C_2nd_GIG "wikilink")》�
   - 音樂製作 - [勝利娛樂](../Page/勝利娛樂.md "wikilink")
   - 製作人 - 松家雄一郎、杉田敦
   - 動畫製作 - [Production I.G](../Page/Production_I.G.md "wikilink")
-  - 製作 -
-    攻殻機動隊[製作委員會](https://zh.wikipedia.org/wiki/製作委員會 "wikilink")（Production
-    I.G、[萬代影視](../Page/萬代影視.md "wikilink")、萬代娛樂、[電通](https://zh.wikipedia.org/wiki/電通 "wikilink")、[日本電視台](../Page/日本電視台.md "wikilink")、[德間書店](../Page/德間書店.md "wikilink")、勝利娛樂、MANGA娛樂）
+  - 製作 - 攻殻機動隊[製作委員會](https://zh.wikipedia.org/wiki/製作委員會 "wikilink")（Production I.G、[萬代影視](../Page/萬代影視.md "wikilink")、萬代娛樂、[電通](https://zh.wikipedia.org/wiki/電通 "wikilink")、[日本電視台](../Page/日本電視台.md "wikilink")、[德間書店](../Page/德間書店.md "wikilink")、勝利娛樂、MANGA娛樂）
 
 ## 配音員
 
@@ -133,14 +118,9 @@ GIG](https://zh.wikipedia.org/wiki/攻殼機動隊_S.A.C_2nd_GIG "wikilink")》�
 ### 片頭曲
 
   - 「inner universe」
-    作詞 - Origa、[Shanti
-    Snyder](https://zh.wikipedia.org/wiki/Shanti_Snyder "wikilink") /
-    作曲・編曲 - [菅野羊子](https://zh.wikipedia.org/wiki/菅野羊子 "wikilink")
-    / 歌 - [Origa](../Page/Origa.md "wikilink")
+    作詞 - Origa、[Shanti Snyder](https://zh.wikipedia.org/wiki/Shanti_Snyder "wikilink") / 作曲・編曲 - [菅野羊子](https://zh.wikipedia.org/wiki/菅野羊子 "wikilink") / 歌 - [Origa](../Page/Origa.md "wikilink")
   - 「GET9」
-    作詞 - [Tim
-    Jensen](https://zh.wikipedia.org/wiki/Tim_Jensen "wikilink") / 作曲・編曲
-    - 菅野洋子 / 歌 - jillmax
+    作詞 - [Tim Jensen](https://zh.wikipedia.org/wiki/Tim_Jensen "wikilink") / 作曲・編曲 - 菅野洋子 / 歌 - jillmax
       - 電視上放送時
 
 ### 片尾曲
@@ -148,12 +128,9 @@ GIG](https://zh.wikipedia.org/wiki/攻殼機動隊_S.A.C_2nd_GIG "wikilink")》�
   - 「lithium flower」
     作詞 - Tim Jensen / 作曲・編曲 - 菅野よう子 / 歌 - Scott Matthew
   - 「I do」
-    作詞・歌 - [Ilaria
-    Graziano](https://zh.wikipedia.org/wiki/Ilaria_Graziano "wikilink")
-    / 作曲、編曲 - 菅野洋子
+    作詞・歌 - [Ilaria Graziano](https://zh.wikipedia.org/wiki/Ilaria_Graziano "wikilink") / 作曲、編曲 - 菅野洋子
       - 電視上放送時
-    ※也是在《[攻殻機動隊 S.A.C. 2nd
-    GIG](https://zh.wikipedia.org/wiki/攻殻機動隊_S.A.C._2nd_GIG "wikilink")》當中的插入曲。
+    ※也是在《[攻殻機動隊 S.A.C. 2nd GIG](https://zh.wikipedia.org/wiki/攻殻機動隊_S.A.C._2nd_GIG "wikilink")》當中的插入曲。
 
 ## 各話列表
 
@@ -553,8 +530,7 @@ GIG](https://zh.wikipedia.org/wiki/攻殼機動隊_S.A.C_2nd_GIG "wikilink")》�
 <!-- end list -->
 
   -
-    時代背景設定為[攻殻機動隊 S.A.C. 2nd
-    GIG](https://zh.wikipedia.org/wiki/攻殻機動隊_S.A.C._2nd_GIG "wikilink")。
+    時代背景設定為[攻殻機動隊 S.A.C. 2nd GIG](https://zh.wikipedia.org/wiki/攻殻機動隊_S.A.C._2nd_GIG "wikilink")。
 
 <!-- end list -->
 
@@ -638,10 +614,8 @@ GIG](https://zh.wikipedia.org/wiki/攻殼機動隊_S.A.C_2nd_GIG "wikilink")》�
 
 ### 遊戲
 
-  - 《[攻殻機動隊 STAND ALONE
-    COMPLEX](https://zh.wikipedia.org/wiki/攻殻機動隊_STAND_ALONE_COMPLEX_\(遊戲\) "wikilink")》（[PS2](../Page/PlayStation_2.md "wikilink")、2004年3月發售）
-  - 《[攻殻機動隊 STAND ALONE COMPLEX
-    -狩人の領域-](https://zh.wikipedia.org/wiki/攻殻機動隊_STAND_ALONE_COMPLEX_-狩人の領域- "wikilink")》（[PSP](../Page/PlayStation_Portable.md "wikilink")、2005年9月發售）
+  - 《[攻殻機動隊 STAND ALONE COMPLEX](https://zh.wikipedia.org/wiki/攻殻機動隊_STAND_ALONE_COMPLEX_\(遊戲\) "wikilink")》（[PS2](../Page/PlayStation_2.md "wikilink")、2004年3月發售）
+  - 《[攻殻機動隊 STAND ALONE COMPLEX -狩人の領域-](https://zh.wikipedia.org/wiki/攻殻機動隊_STAND_ALONE_COMPLEX_-狩人の領域- "wikilink")》（[PSP](../Page/PlayStation_Portable.md "wikilink")、2005年9月發售）
   - 《攻殻機動隊 STAND ALONE COMPLEX オンライン》（電腦用線上FPS、2016年11月起β版伺服器開始營運）
 
 ### 機台
@@ -663,12 +637,8 @@ GIG](https://zh.wikipedia.org/wiki/攻殼機動隊_S.A.C_2nd_GIG "wikilink")》�
 ## 外部連結
 
   -
-  - [攻殻機動隊 STAND ALONE
-    COMPLEX](http://www.ntv.co.jp/kokaku-s/sac/index.html) ＠ 日本電視NTV
+  - [攻殻機動隊 STAND ALONE COMPLEX](http://www.ntv.co.jp/kokaku-s/sac/index.html) ＠ 日本電視NTV
 
-  - [攻殻機動隊 STAND ALONE COMPLEX /
-    作品紹介](https://www.production-ig.co.jp/works/ghost-in-the-shell-sac/)
-    / Production I.G
+  - [攻殻機動隊 STAND ALONE COMPLEX / 作品紹介](https://www.production-ig.co.jp/works/ghost-in-the-shell-sac/) / Production I.G
 
-[Category:2002年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2002年日本電視動畫 "wikilink")
-[Category:週刊Young_Magazine](https://zh.wikipedia.org/wiki/Category:週刊Young_Magazine "wikilink")
+[Category:2002年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2002年日本電視動畫 "wikilink") [Category:週刊Young_Magazine](https://zh.wikipedia.org/wiki/Category:週刊Young_Magazine "wikilink")

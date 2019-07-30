@@ -1,12 +1,8 @@
-《**文明IV**》（全称“**席德·梅尔之文明IV**”，）是一个[回合制策略](../Page/回合制策略游戏.md "wikilink")[电脑游戏](../Page/电脑游戏.md "wikilink")，它是[游戏设计师](https://zh.wikipedia.org/wiki/游戏设计师 "wikilink")[席德·梅尔的](https://zh.wikipedia.org/wiki/席德·梅尔 "wikilink")[文明系列作品](../Page/文明系列.md "wikilink")。由主设计师[索伦·约翰逊在梅尔的指导下](https://zh.wikipedia.org/wiki/w:Soren_Johnson "wikilink")，由梅尔的[工作室](https://zh.wikipedia.org/wiki/游戏开发商 "wikilink")[Firaxis
-Games开发](../Page/Firaxis_Games.md "wikilink")。文明IV于2005年10月25日和11月4日之间，在[北美](https://zh.wikipedia.org/wiki/北美 "wikilink")、[欧洲和](../Page/欧洲.md "wikilink")[澳大利亚发行](../Page/澳大利亚.md "wikilink")。[麦金塔版于](https://zh.wikipedia.org/wiki/麦金塔 "wikilink")2006年初发行。游戏的第一个[资料片](https://zh.wikipedia.org/wiki/资料片 "wikilink")——《战神》（*Warlord*）和第二个资料片——《超越刀锋》（*Beyond
-the
-Sword*）分别于2006年7月和2007年7月在美国和欧洲上市。采用相同引擎而玩法差异很大的“独立资料片”《殖民统治》（*Colonization*）于2008年9月上市。到2007年初，文明IV已经售出了超过150万套。\[1\]
+《**文明IV**》（全称“**席德·梅尔之文明IV**”，）是一个[回合制策略](../Page/回合制策略游戏.md "wikilink")[电脑游戏](../Page/电脑游戏.md "wikilink")，它是[游戏设计师](https://zh.wikipedia.org/wiki/游戏设计师 "wikilink")[席德·梅尔的](https://zh.wikipedia.org/wiki/席德·梅尔 "wikilink")[文明系列](../Page/文明系列.md "wikilink")作品。由主设计师[索伦·约翰逊在梅尔的指导下](https://zh.wikipedia.org/wiki/w:Soren_Johnson "wikilink")，由梅尔的[工作室](https://zh.wikipedia.org/wiki/游戏开发商 "wikilink")[Firaxis Games开发](../Page/Firaxis_Games.md "wikilink")。文明IV于2005年10月25日和11月4日之间，在[北美](https://zh.wikipedia.org/wiki/北美 "wikilink")、[欧洲](../Page/欧洲.md "wikilink")和[澳大利亚](../Page/澳大利亚.md "wikilink")发行。[麦金塔版于](https://zh.wikipedia.org/wiki/麦金塔 "wikilink")2006年初发行。游戏的第一个[资料片](https://zh.wikipedia.org/wiki/资料片 "wikilink")——《战神》（*Warlord*）和第二个资料片——《超越刀锋》（*Beyond the Sword*）分别于2006年7月和2007年7月在美国和欧洲上市。采用相同引擎而玩法差异很大的“独立资料片”《殖民统治》（*Colonization*）于2008年9月上市。到2007年初，文明IV已经售出了超过150万套。\[1\]
 
 与其他文明系列的游戏相似，文明IV游戏是由玩家从一个小城市开始来建立一个帝国的过程。一个标准的游戏过程通常是玩家选定一个文明（每个文明对应一个帝国）后，游戏从[公元前4000年开始](https://zh.wikipedia.org/wiki/前4千年 "wikilink")，玩家拥有一个“定居者”（settler），可用于建立一个城市；然后玩家通过内政、外交和战争来为自己的文明（即帝国）获取资源和土地，与多个由电脑（单人游戏中）或其他玩家（多人游戏中）控制的文明竞争，以争取最终的胜利。
 
-《文明IV》目前有[英语](../Page/英语.md "wikilink")、[德语](../Page/德语.md "wikilink")、[法语](../Page/法语.md "wikilink")、[西班牙语](../Page/西班牙语.md "wikilink")、[意大利语](../Page/意大利语.md "wikilink")、[日语](../Page/日语.md "wikilink")、[简体中文](https://zh.wikipedia.org/wiki/简体中文 "wikilink")、[繁体中文和](https://zh.wikipedia.org/wiki/繁体中文 "wikilink")[波兰语等多个语言版本](https://zh.wikipedia.org/wiki/波兰语 "wikilink")。而其他一些语言也有非官方翻译版，如[俄语](https://zh.wikipedia.org/wiki/俄语 "wikilink")、[芬兰语](../Page/芬兰语.md "wikilink")、[捷克语和](../Page/捷克语.md "wikilink")[匈牙利语](../Page/匈牙利语.md "wikilink")
-。\[2\]\[3\]
+《文明IV》目前有[英语](../Page/英语.md "wikilink")、[德语](../Page/德语.md "wikilink")、[法语](../Page/法语.md "wikilink")、[西班牙语](../Page/西班牙语.md "wikilink")、[意大利语](../Page/意大利语.md "wikilink")、[日语](../Page/日语.md "wikilink")、[简体中文](https://zh.wikipedia.org/wiki/简体中文 "wikilink")、[繁体中文和](https://zh.wikipedia.org/wiki/繁体中文 "wikilink")[波兰语等多个语言版本](https://zh.wikipedia.org/wiki/波兰语 "wikilink")。而其他一些语言也有非官方翻译版，如[俄语](https://zh.wikipedia.org/wiki/俄语 "wikilink")、[芬兰语](../Page/芬兰语.md "wikilink")、[捷克语](../Page/捷克语.md "wikilink")和[匈牙利语](../Page/匈牙利语.md "wikilink") 。\[2\]\[3\]
 
 ## 游戏设定
 
@@ -19,8 +15,8 @@ Sword*）分别于2006年7月和2007年7月在美国和欧洲上市。采用相�
 | [美国](../Page/美国.md "wikilink")                                  | [美利坚帝国](https://zh.wikipedia.org/wiki/美利坚帝国 "wikilink")        | [渔业](../Page/渔业.md "wikilink")、[农业](../Page/农业.md "wikilink")                                            | [海豹部隊](../Page/海豹部隊.md "wikilink")，替代[海军陆战队](https://zh.wikipedia.org/wiki/海军陆战队 "wikilink")                   | [购物中心](https://zh.wikipedia.org/wiki/购物中心 "wikilink")，替代[超级市场](https://zh.wikipedia.org/wiki/超级市场 "wikilink") | [喬治·華盛頓](https://zh.wikipedia.org/wiki/喬治·華盛頓 "wikilink")   | 理财、组织 | [普选制度](https://zh.wikipedia.org/wiki/普选权 "wikilink")  | [华盛顿](https://zh.wikipedia.org/wiki/华盛顿特区 "wikilink") |
 | [富蘭克林·羅斯福](https://zh.wikipedia.org/wiki/富蘭克林·羅斯福 "wikilink")   | 勤奋、组织                                                          |                                                                                                          |                                                                                                                |                                                                                                               |                                                             |       |                                                       |                                                       |
 | [阿拉伯](https://zh.wikipedia.org/wiki/阿拉伯 "wikilink")             | [阿拉伯帝国](../Page/阿拉伯帝国.md "wikilink")                           | [神秘主义](https://zh.wikipedia.org/wiki/神秘主义 "wikilink")、[车轮技术](https://zh.wikipedia.org/wiki/轮 "wikilink") | [駱駝弓箭手](https://zh.wikipedia.org/wiki/駱駝弓箭手 "wikilink")，替代[骑士](../Page/骑士.md "wikilink")                       | [伊斯兰学校](https://zh.wikipedia.org/wiki/伊斯兰学校 "wikilink")，替代[图书馆](../Page/图书馆.md "wikilink")                    | [薩拉丁](https://zh.wikipedia.org/wiki/薩拉丁 "wikilink")         | 思辨、虔信 | [神权政治](https://zh.wikipedia.org/wiki/神权政治 "wikilink") | [麦加](https://zh.wikipedia.org/wiki/麦加 "wikilink")     |
-| [阿茲特克](../Page/阿茲特克.md "wikilink")                              | [阿茲特克帝国](https://zh.wikipedia.org/wiki/阿茲特克帝国 "wikilink")      | 神秘主义、[狩獵技术](../Page/狩獵.md "wikilink")                                                                    | [美洲虎战士](https://zh.wikipedia.org/wiki/美洲虎战士 "wikilink")，替代[剑士](../Page/剑术.md "wikilink")                       | [人牲祭坛](https://zh.wikipedia.org/wiki/人牲祭坛 "wikilink")，替代[法庭](../Page/法庭.md "wikilink")                        | [蒙特祖馬](https://zh.wikipedia.org/wiki/蒙特祖馬二世 "wikilink")     | 好斗、虔信 | [警察制度](https://zh.wikipedia.org/wiki/警察制度 "wikilink") | [特諾奇提特蘭](../Page/特諾奇提特蘭.md "wikilink")                |
-| [中国](https://zh.wikipedia.org/wiki/中国 "wikilink")               | [中华帝国](https://zh.wikipedia.org/wiki/中国 "wikilink")            | [农业](../Page/农业.md "wikilink")、[采矿业](../Page/采矿业.md "wikilink")                                          | [諸葛弩](https://zh.wikipedia.org/wiki/諸葛弩 "wikilink")，替代[弩兵](../Page/弩.md "wikilink")                            | [舞榭](https://zh.wikipedia.org/wiki/舞榭 "wikilink")，替代[剧场](https://zh.wikipedia.org/wiki/剧场 "wikilink")         | [毛泽东](../Page/毛泽东.md "wikilink")                            | 思辨、组织 | [国有经济](https://zh.wikipedia.org/wiki/公有制 "wikilink")  | [北京](https://zh.wikipedia.org/wiki/北京 "wikilink")     |
+| [阿茲特克](../Page/阿茲特克.md "wikilink")                              | [阿茲特克帝国](https://zh.wikipedia.org/wiki/阿茲特克帝国 "wikilink")      | 神秘主义、[狩獵](../Page/狩獵.md "wikilink")技术                                                                    | [美洲虎战士](https://zh.wikipedia.org/wiki/美洲虎战士 "wikilink")，替代[剑士](../Page/剑术.md "wikilink")                       | [人牲祭坛](https://zh.wikipedia.org/wiki/人牲祭坛 "wikilink")，替代[法庭](../Page/法庭.md "wikilink")                        | [蒙特祖馬](https://zh.wikipedia.org/wiki/蒙特祖馬二世 "wikilink")     | 好斗、虔信 | [警察制度](https://zh.wikipedia.org/wiki/警察制度 "wikilink") | [特諾奇提特蘭](../Page/特諾奇提特蘭.md "wikilink")                |
+| [中国](https://zh.wikipedia.org/wiki/中国 "wikilink")               | [中华帝国](https://zh.wikipedia.org/wiki/中国 "wikilink")            | [农业](../Page/农业.md "wikilink")、[采矿业](../Page/采矿业.md "wikilink")                                          | [諸葛弩](https://zh.wikipedia.org/wiki/諸葛弩 "wikilink")，替代[弩](../Page/弩.md "wikilink")兵                            | [舞榭](https://zh.wikipedia.org/wiki/舞榭 "wikilink")，替代[剧场](https://zh.wikipedia.org/wiki/剧场 "wikilink")         | [毛泽东](../Page/毛泽东.md "wikilink")                            | 思辨、组织 | [国有经济](https://zh.wikipedia.org/wiki/公有制 "wikilink")  | [北京](https://zh.wikipedia.org/wiki/北京 "wikilink")     |
 | [秦始皇](../Page/秦始皇.md "wikilink")                                | 勤奋、理财                                                          | 警察制度                                                                                                     |                                                                                                                |                                                                                                               |                                                             |       |                                                       |                                                       |
 | [埃及](../Page/埃及.md "wikilink")                                  | [埃及帝国](https://zh.wikipedia.org/wiki/埃及帝国 "wikilink")          | [农业](../Page/农业.md "wikilink")、[车轮技术](https://zh.wikipedia.org/wiki/轮 "wikilink")                        | [强战车](https://zh.wikipedia.org/wiki/战车 "wikilink")，替代战车                                                        | [方尖塔](https://zh.wikipedia.org/wiki/方尖塔 "wikilink")，替代[纪念碑](https://zh.wikipedia.org/wiki/纪念碑 "wikilink")     | [哈特谢普苏特](../Page/哈特谢普苏特.md "wikilink")                      | 虔信、创新 | [世袭制度](https://zh.wikipedia.org/wiki/君主制 "wikilink")  | [底比斯](https://zh.wikipedia.org/wiki/底比斯 "wikilink")   |
 | [英格兰](../Page/英格兰.md "wikilink")                                | [大英帝国](../Page/大英帝国.md "wikilink")                             | 渔业、采矿业                                                                                                   | 英国[來复槍兵](https://zh.wikipedia.org/wiki/來复槍 "wikilink")，替代來复槍兵                                                  | [证券交易所](../Page/证券交易所.md "wikilink")，替代[银行](https://zh.wikipedia.org/wiki/银行 "wikilink")                      | [维多利亚](https://zh.wikipedia.org/wiki/维多利亚女王 "wikilink")     | 霸权、理财 | [代议制度](../Page/代議民主制.md "wikilink")                   | [伦敦](../Page/伦敦.md "wikilink")                        |
@@ -50,21 +46,19 @@ Sword*）分别于2006年7月和2007年7月在美国和欧洲上市。采用相�
 每位领袖都有两种性格，为对应文明提供加成。所有的特性如下：
 
   - 好斗：自动晋升格斗与火器部队至“战斗I”。[兵营与](https://zh.wikipedia.org/wiki/兵营 "wikilink")[船坞的建造速度加倍](https://zh.wikipedia.org/wiki/船坞 "wikilink")。
-  - 创新：每个城市每回合+2点文化。[剧院与](https://zh.wikipedia.org/wiki/剧院 "wikilink")[竞技场的建造速度加倍](../Page/竞技场.md "wikilink")。
+  - 创新：每个城市每回合+2点文化。[剧院与](https://zh.wikipedia.org/wiki/剧院 "wikilink")[竞技场](../Page/竞技场.md "wikilink")的建造速度加倍。
   - 开拓：每个城市+2健康值。[谷仓与](https://zh.wikipedia.org/wiki/谷仓 "wikilink")[海港的建造速度加倍](https://zh.wikipedia.org/wiki/海港 "wikilink")。
   - 理财：城市范围内有2点商业点的地方会产生1点商业点或更多。[银行的建造速度加倍](https://zh.wikipedia.org/wiki/银行 "wikilink")。
   - 勤奋：奇迹建造速度增加50%。[铸造厂的建造速度加倍](https://zh.wikipedia.org/wiki/铸造厂 "wikilink")。
-  - 组织：政体维护费用减少50%。[灯塔与](../Page/灯塔.md "wikilink")[法院的建造速度加倍](https://zh.wikipedia.org/wiki/法院 "wikilink")。
+  - 组织：政体维护费用减少50%。[灯塔](../Page/灯塔.md "wikilink")与[法院的建造速度加倍](https://zh.wikipedia.org/wiki/法院 "wikilink")。
   - 思辩：伟人出生率增加100%。[大学的建造速度加倍](https://zh.wikipedia.org/wiki/大学 "wikilink")。
   - 虔信：政府类型转换时不会出现无政府主义。[神庙的建造速度加倍](../Page/寺庙.md "wikilink")。
 
 在《战神》等后续资料片中又增加了防御、霸权、魅力3种性格。
 
-  - 保国:
-    自动晋升投射与火器部队至“操练I”和“城防I”。[城墙与](../Page/城墙.md "wikilink")[城堡的建造速度加倍](../Page/城堡.md "wikilink")。
+  - 保国: 自动晋升投射与火器部队至“操练I”和“城防I”。[城墙](../Page/城墙.md "wikilink")与[城堡](../Page/城堡.md "wikilink")的建造速度加倍。
   - 霸权: 大军事家出现几率增加100%。移民的训练速度增加50%。
-  - 魅力:
-    每座城市+1点快乐。单位晋升所需经验点数减少25%。[纪念碑和](https://zh.wikipedia.org/wiki/纪念碑 "wikilink")[广播塔](https://zh.wikipedia.org/wiki/广播 "wikilink")+1点快乐。
+  - 魅力: 每座城市+1点快乐。单位晋升所需经验点数减少25%。[纪念碑和](https://zh.wikipedia.org/wiki/纪念碑 "wikilink")[广播塔](https://zh.wikipedia.org/wiki/广播 "wikilink")+1点快乐。
 
 ### 科技
 
@@ -86,7 +80,7 @@ Sword*）分别于2006年7月和2007年7月在美国和欧洲上市。采用相�
       - [畜牧業](https://zh.wikipedia.org/wiki/畜牧 "wikilink")
       - [箭術](https://zh.wikipedia.org/wiki/箭 "wikilink")
       - [一神論](../Page/一神論.md "wikilink")
-      - [祭司制度](../Page/祭司.md "wikilink")
+      - [祭司](../Page/祭司.md "wikilink")制度
       - [書寫](../Page/書寫.md "wikilink")
       - [騎術](https://zh.wikipedia.org/wiki/馬術 "wikilink")
   - 古典時代
@@ -132,7 +126,7 @@ Sword*）分别于2006年7月和2007年7月在美国和欧洲上市。采用相�
       - [化学](https://zh.wikipedia.org/wiki/化学 "wikilink")
       - [来复线](https://zh.wikipedia.org/wiki/来复线 "wikilink")
       - [可替换部件](https://zh.wikipedia.org/wiki/可替换部件 "wikilink")
-      - [公司制](../Page/公司.md "wikilink")
+      - [公司](../Page/公司.md "wikilink")制
 
 <!-- end list -->
 
@@ -156,7 +150,7 @@ Sword*）分别于2006年7月和2007年7月在美国和欧洲上市。采用相�
       - [制冷](../Page/制冷.md "wikilink")
       - [大众传媒](https://zh.wikipedia.org/wiki/大众传媒 "wikilink")
       - [无线电](https://zh.wikipedia.org/wiki/无线电 "wikilink")
-      - [火箭学](../Page/火箭.md "wikilink")
+      - [火箭](../Page/火箭.md "wikilink")学
       - [飞行](https://zh.wikipedia.org/wiki/飞行 "wikilink")
       - [塑料](../Page/塑料.md "wikilink")
       - [生态学](../Page/生态学.md "wikilink")
@@ -341,7 +335,7 @@ Sword*）分别于2006年7月和2007年7月在美国和欧洲上市。采用相�
 <tr class="odd">
 <td><p><a href="../Page/环境保护主义.md" title="wikilink">环保主义</a></p></td>
 <td><p>中</p></td>
-<td><p>该文明的所有城市健康度＋6，城市范围内如果存在的<a href="../Page/森林.md" title="wikilink">森林和</a><a href="https://zh.wikipedia.org/wiki/丛林" title="wikilink">丛林可以提高快乐度</a>。</p></td>
+<td><p>该文明的所有城市健康度＋6，城市范围内如果存在的<a href="../Page/森林.md" title="wikilink">森林</a>和<a href="https://zh.wikipedia.org/wiki/丛林" title="wikilink">丛林可以提高快乐度</a>。</p></td>
 <td><p>“<a href="../Page/医学.md" title="wikilink">医学</a>”</p></td>
 <td></td>
 </tr>
@@ -404,7 +398,7 @@ Sword*）分别于2006年7月和2007年7月在美国和欧洲上市。采用相�
 
 ### 生产与贸易
 
-在「文明III」中，某些天然資源（比如[石油](../Page/石油.md "wikilink")，[煤等等](../Page/煤.md "wikilink")）在被開發後會有機會殆盡。「文明IV」中的天然資源則沒有機會殆盡，但它為城市提供的生產力會因為多種由電腦製做出來的事故而提高或降低。
+在「文明III」中，某些天然資源（比如[石油](../Page/石油.md "wikilink")，[煤](../Page/煤.md "wikilink")等等）在被開發後會有機會殆盡。「文明IV」中的天然資源則沒有機會殆盡，但它為城市提供的生產力會因為多種由電腦製做出來的事故而提高或降低。
 
 既有的天然資源可以在新地點被隨機發現。此制度在「文明III」已經出現，在「文明IV」維持不變。
 
@@ -424,8 +418,7 @@ Sword*）分别于2006年7月和2007年7月在美国和欧洲上市。采用相�
 
 ### 伟人
 
-《文明IV》中加入了“伟人”系统，游戏中所有的“伟人”都代入了歷史人物的名字。这些“伟人”都是历史人物。游戏中，“伟人”分为七类:
-大预言家、大商业家、大艺术家、大科学家、大工程师、大军事家和大间谍；其中后两类是在该游戏的[资料片](https://zh.wikipedia.org/wiki/资料片 "wikilink")《战神》和《超越刀锋》中分别添加。每一类“伟人”都可以加速所属文明的发展进程，并有各自的特殊作用，为玩家提供更多的文明发展途径；\[4\]并且由于所有出现的“伟人”都是历史上的名人，从而提高了玩家在游戏中的沉浸感，给游戏带来了更多的乐趣。\[5\]
+《文明IV》中加入了“伟人”系统，游戏中所有的“伟人”都代入了歷史人物的名字。这些“伟人”都是历史人物。游戏中，“伟人”分为七类: 大预言家、大商业家、大艺术家、大科学家、大工程师、大军事家和大间谍；其中后两类是在该游戏的[资料片](https://zh.wikipedia.org/wiki/资料片 "wikilink")《战神》和《超越刀锋》中分别添加。每一类“伟人”都可以加速所属文明的发展进程，并有各自的特殊作用，为玩家提供更多的文明发展途径；\[4\]并且由于所有出现的“伟人”都是历史上的名人，从而提高了玩家在游戏中的沉浸感，给游戏带来了更多的乐趣。\[5\]
 
 ### 评分系统
 
@@ -451,9 +444,9 @@ Sword*）分别于2006年7月和2007年7月在美国和欧洲上市。采用相�
 
   - 《文明IV》采用《[席德·梅尔的海盗](https://zh.wikipedia.org/wiki/席德·梅尔的海盗 "wikilink")》中所使用的[三维](https://zh.wikipedia.org/wiki/三维图形 "wikilink")[引擎](../Page/游戏引擎.md "wikilink")（[Gamebryo](../Page/Gamebryo.md "wikilink")）,它使得玩家能够从世界地图级别平滑的过渡到个别城市中的建筑。
   - 18个文明中的13个有两个领袖。每个领袖提供两种特性，基于该领袖历史上统治时期的突出的成就，而每个领袖做为不同的文明会有不同的行为和个性。
-  - 有些前作中未使用的历史人物在《文明IV》中作为可供玩家选择的领袖，包括：[阿育王](../Page/阿育王.md "wikilink")、[居魯士二世](https://zh.wikipedia.org/wiki/居魯士二世 "wikilink")、[富兰克林·罗斯福](https://zh.wikipedia.org/wiki/富兰克林·罗斯福 "wikilink")、[哈特謝普蘇特](https://zh.wikipedia.org/wiki/哈特謝普蘇特 "wikilink")、[忽必烈](../Page/忽必烈.md "wikilink")、[高麗太祖王建](../Page/高麗太祖.md "wikilink")、[秦始皇](../Page/秦始皇.md "wikilink")、[萨拉丁和](../Page/萨拉丁.md "wikilink")[维多利亚女王](https://zh.wikipedia.org/wiki/维多利亚女王 "wikilink")。
+  - 有些前作中未使用的历史人物在《文明IV》中作为可供玩家选择的领袖，包括：[阿育王](../Page/阿育王.md "wikilink")、[居魯士二世](https://zh.wikipedia.org/wiki/居魯士二世 "wikilink")、[富兰克林·罗斯福](https://zh.wikipedia.org/wiki/富兰克林·罗斯福 "wikilink")、[哈特謝普蘇特](https://zh.wikipedia.org/wiki/哈特謝普蘇特 "wikilink")、[忽必烈](../Page/忽必烈.md "wikilink")、[高麗太祖](../Page/高麗太祖.md "wikilink")王建、[秦始皇](../Page/秦始皇.md "wikilink")、[萨拉丁](../Page/萨拉丁.md "wikilink")和[维多利亚女王](https://zh.wikipedia.org/wiki/维多利亚女王 "wikilink")。
   - 有五类“伟人”:大预言家、大商业家、大艺术家、大科学家和大工程师。每个伟人给予一些奖励的能力。伟人中包括[柏拉图](../Page/柏拉图.md "wikilink")，[威廉·莎士比亚](../Page/威廉·莎士比亚.md "wikilink")，[米开朗基罗](../Page/米开朗基罗.md "wikilink")，[牛顿](../Page/艾萨克·牛顿.md "wikilink")，和[爱因斯坦](https://zh.wikipedia.org/wiki/爱因斯坦 "wikilink")。
-  - 游戏中出现了31类资源，例如[金子](../Page/金.md "wikilink")，[燃料](../Page/燃料.md "wikilink")，[鹿](../Page/鹿.md "wikilink")，等等，所有类型都可用于贸易。
+  - 游戏中出现了31类资源，例如[金](../Page/金.md "wikilink")子，[燃料](../Page/燃料.md "wikilink")，[鹿](../Page/鹿.md "wikilink")，等等，所有类型都可用于贸易。
   - 同一条河上或岸边的城市自动有贸易通路产生。
   - 玩家不能从一个建造计划中的生产转换到另一个计划，但某个特定建造计划中的产量会保持下去。例如，如果玩家在建造[神庙](https://zh.wikipedia.org/wiki/神庙 "wikilink")，但是决定切换到[港口](../Page/港口.md "wikilink")，新建筑的生产会从头开始。但是如果玩家换回生产神庙，则以前在神庙上的投入不会消失，但会随着时间有所减少。而且前一个建造计划中多余的产量会转移到下一个建造计划中。
   - 前作中所见的游戏初期的快速扩张变得更困难了。玩家的城市越多，他们就必须为他们的城市付出更多的维护费。所以游戏初期庞大的帝国会夺走玩家可支配的金钱。但是，法院可以减少维护开支，而不是减少腐败。
@@ -470,7 +463,7 @@ Sword*）分别于2006年7月和2007年7月在美国和欧洲上市。采用相�
   - AI文明不再拥有整个地图的知识；他们现在和玩家平等。
   - 外交系统作了改进，选项更多了。
   - 有些操作元素被引入，例如可以同时选中多个部队并对他们下达指令。
-  - 更多的重点也被放在音乐上；大量使用了巴洛克时期（[巴赫](https://zh.wikipedia.org/wiki/巴赫 "wikilink")），文艺复兴时期（[德普瑞和](https://zh.wikipedia.org/wiki/德普瑞 "wikilink")[帕莱斯特里纳等](https://zh.wikipedia.org/wiki/帕莱斯特里纳 "wikilink")），古典时期（[勃拉姆斯和](https://zh.wikipedia.org/wiki/勃拉姆斯 "wikilink")[贝多芬](https://zh.wikipedia.org/wiki/贝多芬 "wikilink")）和自创作的（主要由[傑夫·布里吉完成](../Page/傑夫·布里吉.md "wikilink")）音乐，使得音乐在游戏中使用的程度超越了所有前作。每个领袖（除了忽必烈）都有自己的外交音乐主题。
+  - 更多的重点也被放在音乐上；大量使用了巴洛克时期（[巴赫](https://zh.wikipedia.org/wiki/巴赫 "wikilink")），文艺复兴时期（[德普瑞和](https://zh.wikipedia.org/wiki/德普瑞 "wikilink")[帕莱斯特里纳等](https://zh.wikipedia.org/wiki/帕莱斯特里纳 "wikilink")），古典时期（[勃拉姆斯和](https://zh.wikipedia.org/wiki/勃拉姆斯 "wikilink")[贝多芬](https://zh.wikipedia.org/wiki/贝多芬 "wikilink")）和自创作的（主要由[傑夫·布里吉](../Page/傑夫·布里吉.md "wikilink")完成）音乐，使得音乐在游戏中使用的程度超越了所有前作。每个领袖（除了忽必烈）都有自己的外交音乐主题。
 
 ### 音乐与视觉效果
 
@@ -501,8 +494,7 @@ Sword*）分别于2006年7月和2007年7月在美国和欧洲上市。采用相�
 
 ## 參見
 
-  - [Freeciv](../Page/Freeciv.md "wikilink") -
-    与《文明》类似的[開源游戏](https://zh.wikipedia.org/wiki/開源 "wikilink")。
+  - [Freeciv](../Page/Freeciv.md "wikilink") - 与《文明》类似的[開源游戏](https://zh.wikipedia.org/wiki/開源 "wikilink")。
   - [文明III](../Page/文明III.md "wikilink")
   - [文明V](https://zh.wikipedia.org/wiki/文明V "wikilink")
   - [殖民帝國 (遊戲)](https://zh.wikipedia.org/wiki/殖民帝國_\(遊戲\) "wikilink")
@@ -510,25 +502,9 @@ Sword*）分别于2006年7月和2007年7月在美国和欧洲上市。采用相�
 
 {{-}}
 
-[de:Sid Meier’s Civilization\#Civilization
-IV](https://zh.wikipedia.org/wiki/de:Sid_Meier’s_Civilization#Civilization_IV "wikilink")
+[de:Sid Meier’s Civilization\#Civilization IV](https://zh.wikipedia.org/wiki/de:Sid_Meier’s_Civilization#Civilization_IV "wikilink")
 
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:Mac_OS遊戲](https://zh.wikipedia.org/wiki/Category:Mac_OS遊戲 "wikilink")
-[Category:文明系列电子游戏](https://zh.wikipedia.org/wiki/Category:文明系列电子游戏 "wikilink")
-[Category:2005年电子游戏](https://zh.wikipedia.org/wiki/Category:2005年电子游戏 "wikilink")
-[Category:回合制策略遊戲](https://zh.wikipedia.org/wiki/Category:回合制策略遊戲 "wikilink")
-[Category:多人及單人電子遊戲](https://zh.wikipedia.org/wiki/Category:多人及單人電子遊戲 "wikilink")
-[Category:多人在线游戏](https://zh.wikipedia.org/wiki/Category:多人在线游戏 "wikilink")
-[Category:美國開發電子遊戲](https://zh.wikipedia.org/wiki/Category:美國開發電子遊戲 "wikilink")
-[Category:有资料片的游戏](https://zh.wikipedia.org/wiki/Category:有资料片的游戏 "wikilink")
-[Category:合作模式遊戲](https://zh.wikipedia.org/wiki/Category:合作模式遊戲 "wikilink")
-[Category:熱座模式遊戲](https://zh.wikipedia.org/wiki/Category:熱座模式遊戲 "wikilink")
-[Category:Gamebryo引擎游戏](https://zh.wikipedia.org/wiki/Category:Gamebryo引擎游戏 "wikilink")
-[Category:4X電子遊戲](https://zh.wikipedia.org/wiki/Category:4X電子遊戲 "wikilink")
-[Category:官方简体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方简体中文化游戏 "wikilink")
-[Category:Steam商店遊戲](https://zh.wikipedia.org/wiki/Category:Steam商店遊戲 "wikilink")
-[Category:中电博亚游戏](https://zh.wikipedia.org/wiki/Category:中电博亚游戏 "wikilink")
+[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:Mac_OS遊戲](https://zh.wikipedia.org/wiki/Category:Mac_OS遊戲 "wikilink") [Category:文明系列电子游戏](https://zh.wikipedia.org/wiki/Category:文明系列电子游戏 "wikilink") [Category:2005年电子游戏](https://zh.wikipedia.org/wiki/Category:2005年电子游戏 "wikilink") [Category:回合制策略遊戲](https://zh.wikipedia.org/wiki/Category:回合制策略遊戲 "wikilink") [Category:多人及單人電子遊戲](https://zh.wikipedia.org/wiki/Category:多人及單人電子遊戲 "wikilink") [Category:多人在线游戏](https://zh.wikipedia.org/wiki/Category:多人在线游戏 "wikilink") [Category:美國開發電子遊戲](https://zh.wikipedia.org/wiki/Category:美國開發電子遊戲 "wikilink") [Category:有资料片的游戏](https://zh.wikipedia.org/wiki/Category:有资料片的游戏 "wikilink") [Category:合作模式遊戲](https://zh.wikipedia.org/wiki/Category:合作模式遊戲 "wikilink") [Category:熱座模式遊戲](https://zh.wikipedia.org/wiki/Category:熱座模式遊戲 "wikilink") [Category:Gamebryo引擎游戏](https://zh.wikipedia.org/wiki/Category:Gamebryo引擎游戏 "wikilink") [Category:4X電子遊戲](https://zh.wikipedia.org/wiki/Category:4X電子遊戲 "wikilink") [Category:官方简体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方简体中文化游戏 "wikilink") [Category:Steam商店遊戲](https://zh.wikipedia.org/wiki/Category:Steam商店遊戲 "wikilink") [Category:中电博亚游戏](https://zh.wikipedia.org/wiki/Category:中电博亚游戏 "wikilink")
 
 1.  <http://ir.take2games.com/ReleaseDetail.cfm?ReleaseID=235572>
 2.

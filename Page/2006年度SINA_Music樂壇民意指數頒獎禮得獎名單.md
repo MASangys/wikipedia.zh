@@ -10,8 +10,7 @@
       - 第四位：《情歌》 ——[側田](../Page/側田.md "wikilink")
       - 第五位：《在你遙遠的附近》 ——[方力申](../Page/方力申.md "wikilink")
       - 第六位：《富士山下》 ——[陳奕迅](../Page/陳奕迅.md "wikilink")
-      - 第七位：《小峽谷之1234》
-        ——[薛凱琪](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink")
+      - 第七位：《小峽谷之1234》 ——[薛凱琪](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink")
       - 第八位：《紅綠燈》 ——[鄭融](../Page/鄭融.md "wikilink")
       - 第九位：《愛愛愛》 ——[方大同](https://zh.wikipedia.org/wiki/方大同 "wikilink")
       - 第十位：《後窗知己》 ——[謝安琪](../Page/謝安琪.md "wikilink")
@@ -19,8 +18,7 @@
 <!-- end list -->
 
   - 新歌試聽 —合唱歌曲獎
-      - 《十分．愛》
-        ——[方力申](../Page/方力申.md "wikilink")、[鄧麗欣](../Page/鄧麗欣.md "wikilink")
+      - 《十分．愛》 ——[方力申](../Page/方力申.md "wikilink")、[鄧麗欣](../Page/鄧麗欣.md "wikilink")
 
 <!-- end list -->
 
@@ -104,12 +102,10 @@
 
 ## 媒體播放
 
-於[香港](../Page/香港.md "wikilink")、[中國](../Page/中國.md "wikilink")、[台灣網上直播及重溫](https://zh.wikipedia.org/wiki/台灣 "wikilink")。另外，本年度之賽果並不計算入[四台聯頒音樂大獎內](../Page/四台聯頒音樂大獎.md "wikilink")。
+於[香港](../Page/香港.md "wikilink")、[中國](../Page/中國.md "wikilink")、[台灣網上直播及重溫](https://zh.wikipedia.org/wiki/台灣 "wikilink")。另外，本年度之賽果並不計算入[四台聯頒音樂大獎](../Page/四台聯頒音樂大獎.md "wikilink")內。
 
 ## 參看
 
-  - [SINA
-    Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/SINA_Music樂壇民意指數頒獎禮 "wikilink")
+  - [SINA Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/SINA_Music樂壇民意指數頒獎禮 "wikilink")
 
-[Category:SINA_Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/Category:SINA_Music樂壇民意指數頒獎禮 "wikilink")
-[Category:2006年](https://zh.wikipedia.org/wiki/Category:2006年 "wikilink")
+[Category:SINA_Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/Category:SINA_Music樂壇民意指數頒獎禮 "wikilink") [Category:2006年](https://zh.wikipedia.org/wiki/Category:2006年 "wikilink")

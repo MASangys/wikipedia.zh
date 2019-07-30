@@ -1,37 +1,26 @@
-**姚中仁**（），[藝名](../Page/藝名.md "wikilink")**MC
-HotDog**，又稱**mc熱狗**或簡稱**熱狗**，生於[台北](https://zh.wikipedia.org/wiki/台北 "wikilink")，[饒舌](../Page/饒舌.md "wikilink")[歌手](../Page/歌手.md "wikilink")。[台北市立建國中學補校](../Page/臺北市立建國高級中學附設高級進修補習學校.md "wikilink")、[輔仁大學影像傳播學士](../Page/輔仁大學.md "wikilink")。他的歌曲大多使用直白的語言對各種社會現象進行赤裸裸的揭露。
+**姚中仁**（），[藝名](../Page/藝名.md "wikilink")**MC HotDog**，又稱**mc熱狗**或簡稱**熱狗**，生於[台北](https://zh.wikipedia.org/wiki/台北 "wikilink")，[饒舌](../Page/饒舌.md "wikilink")[歌手](../Page/歌手.md "wikilink")。[台北市立建國中學補校](../Page/臺北市立建國高級中學附設高級進修補習學校.md "wikilink")、[輔仁大學](../Page/輔仁大學.md "wikilink")影像傳播學士。他的歌曲大多使用直白的語言對各種社會現象進行赤裸裸的揭露。
 
 ## 年表
 
-  - 1996年，MC Hotdog
-    錄取[輔仁大學影像傳播學系第二屆](../Page/輔仁大學.md "wikilink")，於該屆迎新晚會上表演
-    Free style rap，開始小規模舞台表演。
-  - 1998年，於饒舌樂相關[網站](../Page/網站.md "wikilink")《Master
-    U》陸續公開個人創作的饒舌歌曲，成為網路饒舌愛好者口中的風雲人物。
-  - 1999年，自製的音樂在[校園與](https://zh.wikipedia.org/wiki/校園 "wikilink")[網路間四處流傳](https://zh.wikipedia.org/wiki/網路 "wikilink")，成為校園發燒話題；自製音樂甚至出現[盜版](https://zh.wikipedia.org/wiki/盜版 "wikilink")[CD於](../Page/CD.md "wikilink")[光華商場販售](../Page/光華商場.md "wikilink")，音樂瞬間蔓延[華人市場](https://zh.wikipedia.org/wiki/華人 "wikilink")（台灣、[香港](../Page/香港.md "wikilink")、[中國大陆](https://zh.wikipedia.org/wiki/中國大陆 "wikilink")），成為網路最神秘的人物，被譽為「台灣地下饒舌第一人」。後來受[學校社團邀請](https://zh.wikipedia.org/wiki/學校 "wikilink")，於[Pub演唱](https://zh.wikipedia.org/wiki/Pub "wikilink")，被Pub經營者發現而引薦給[魔岩唱片](../Page/魔岩唱片.md "wikilink")。
-  - 2000年，簽約加入魔岩唱片旗下之「大馬戲團音樂工作室」，成員有好友[大支等人](../Page/大支.md "wikilink")。
+  - 1996年，MC Hotdog 錄取[輔仁大學](../Page/輔仁大學.md "wikilink")影像傳播學系第二屆，於該屆迎新晚會上表演 Free style rap，開始小規模舞台表演。
+  - 1998年，於饒舌樂相關[網站](../Page/網站.md "wikilink")《Master U》陸續公開個人創作的饒舌歌曲，成為網路饒舌愛好者口中的風雲人物。
+  - 1999年，自製的音樂在[校園與](https://zh.wikipedia.org/wiki/校園 "wikilink")[網路間四處流傳](https://zh.wikipedia.org/wiki/網路 "wikilink")，成為校園發燒話題；自製音樂甚至出現[盜版](https://zh.wikipedia.org/wiki/盜版 "wikilink")[CD](../Page/CD.md "wikilink")於[光華商場](../Page/光華商場.md "wikilink")販售，音樂瞬間蔓延[華人市場](https://zh.wikipedia.org/wiki/華人 "wikilink")（台灣、[香港](../Page/香港.md "wikilink")、[中國大陆](https://zh.wikipedia.org/wiki/中國大陆 "wikilink")），成為網路最神秘的人物，被譽為「台灣地下饒舌第一人」。後來受[學校社團邀請](https://zh.wikipedia.org/wiki/學校 "wikilink")，於[Pub演唱](https://zh.wikipedia.org/wiki/Pub "wikilink")，被Pub經營者發現而引薦給[魔岩唱片](../Page/魔岩唱片.md "wikilink")。
+  - 2000年，簽約加入魔岩唱片旗下之「大馬戲團音樂工作室」，成員有好友[大支](../Page/大支.md "wikilink")等人。
   - 2001年，連續發行四張[EP](https://zh.wikipedia.org/wiki/EP "wikilink")，引起樂壇轟動，唱片累計銷量逾30萬張。自輔仁大學文學院影像傳播學系畢業（非應屆畢業生，為延畢；領取學位為藝術學士）；年底，入伍服役。
 
-[呂學淵塗鴉作品，《犬》，2001。.JPG](https://zh.wikipedia.org/wiki/File:呂學淵塗鴉作品，《犬》，2001。.JPG "fig:呂學淵塗鴉作品，《犬》，2001。.JPG")街頭[塗鴉先驅呂學淵為MC](../Page/塗鴉.md "wikilink")
-HotDog
-第二張[EP](https://zh.wikipedia.org/wiki/EP "wikilink")《犬》封面製作的同名作品\]\]
+[呂學淵塗鴉作品，《犬》，2001。.JPG](https://zh.wikipedia.org/wiki/File:呂學淵塗鴉作品，《犬》，2001。.JPG "fig:呂學淵塗鴉作品，《犬》，2001。.JPG")街頭[塗鴉](../Page/塗鴉.md "wikilink")先驅呂學淵為MC HotDog 第二張[EP](https://zh.wikipedia.org/wiki/EP "wikilink")《犬》封面製作的同名作品\]\]
 
   - 2003年年底，退伍。
-  - 2004年，受[張震嶽邀請](https://zh.wikipedia.org/wiki/張震嶽 "wikilink")，跑遍全台puB巡迴演出。10月，受[美國最大連鎖Pub](https://zh.wikipedia.org/wiki/美國 "wikilink")「House
-    of Blues」邀請，與張震嶽一起前往美國十大城市演出。
-  - 2005年6月，受邀前往[香港擔任張震嶽演唱會嘉賓](../Page/香港.md "wikilink")。
-  - 2006年1月，推出個人首張完整[專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")《[Wake
-    Up](../Page/Wake_Up_\(MC_HotDog专辑\).md "wikilink")》。發行了個人專輯後慢慢走出自我的風格，和好友[大支也開始結束彼此的合作關係](../Page/大支.md "wikilink")。4月，於[台北世貿二館舉辦個人首次售票演唱會](https://zh.wikipedia.org/wiki/台北世貿 "wikilink")；門票在演唱會前兩週即售罄，[黃牛票在網路上喊價十倍](https://zh.wikipedia.org/wiki/黃牛票 "wikilink")。6月，參加[第17屆金曲獎演出](https://zh.wikipedia.org/wiki/第17屆金曲獎 "wikilink")。
-  - 2007年6月，《[Wake
-    Up](../Page/Wake_Up_\(MC_HotDog专辑\).md "wikilink")》專輯獲[第18屆金曲獎最佳國語專輯獎](https://zh.wikipedia.org/wiki/第18屆金曲獎 "wikilink")，表示其另類風格受評審肯定。（兩人在金曲獎頒獎典禮上的表演片段在[中國大陸地區禁止播出](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")，其帶有粗口的專輯在中國大陸地區禁止發行。）
+  - 2004年，受[張震嶽邀請](https://zh.wikipedia.org/wiki/張震嶽 "wikilink")，跑遍全台puB巡迴演出。10月，受[美國最大連鎖Pub](https://zh.wikipedia.org/wiki/美國 "wikilink")「House of Blues」邀請，與張震嶽一起前往美國十大城市演出。
+  - 2005年6月，受邀前往[香港](../Page/香港.md "wikilink")擔任張震嶽演唱會嘉賓。
+  - 2006年1月，推出個人首張完整[專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")《[Wake Up](../Page/Wake_Up_\(MC_HotDog专辑\).md "wikilink")》。發行了個人專輯後慢慢走出自我的風格，和好友[大支](../Page/大支.md "wikilink")也開始結束彼此的合作關係。4月，於[台北世貿二館舉辦個人首次售票演唱會](https://zh.wikipedia.org/wiki/台北世貿 "wikilink")；門票在演唱會前兩週即售罄，[黃牛票在網路上喊價十倍](https://zh.wikipedia.org/wiki/黃牛票 "wikilink")。6月，參加[第17屆金曲獎演出](https://zh.wikipedia.org/wiki/第17屆金曲獎 "wikilink")。
+  - 2007年6月，《[Wake Up](../Page/Wake_Up_\(MC_HotDog专辑\).md "wikilink")》專輯獲[第18屆金曲獎最佳國語專輯獎](https://zh.wikipedia.org/wiki/第18屆金曲獎 "wikilink")，表示其另類風格受評審肯定。（兩人在金曲獎頒獎典禮上的表演片段在[中國大陸地區禁止播出](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")，其帶有粗口的專輯在中國大陸地區禁止發行。）
   - 2008年10月，推出第二張專輯《[差不多先生](https://zh.wikipedia.org/wiki/差不多先生 "wikilink")》。
   - 2012年7月，推出第三張專輯《[貧民百萬歌星](https://zh.wikipedia.org/wiki/貧民百萬歌星 "wikilink")》。
   - 2013年2月27日，首度登上[香港](../Page/香港.md "wikilink")[紅磡體育館舉辦個人售票演唱會](https://zh.wikipedia.org/wiki/紅磡體育館 "wikilink")。
   - 2013年8月3日，首度登上[台北小巨蛋舉辦個人售票演唱會](https://zh.wikipedia.org/wiki/台北小巨蛋 "wikilink")。
-  - 2014年8月21日，向《[ETtoday
-    東森新聞雲](https://zh.wikipedia.org/wiki/ETtoday_東森新聞雲 "wikilink")》坦言，在大學時曾在好奇心與朋友慫恿下[吸毒兩年](https://zh.wikipedia.org/wiki/吸毒 "wikilink")，曾經吸食[搖頭丸](../Page/搖頭丸.md "wikilink")、[大麻及](https://zh.wikipedia.org/wiki/大麻_\(藥用\) "wikilink")[K他命](https://zh.wikipedia.org/wiki/K他命 "wikilink")，吸毒亢奮完後反而心靈空虛、食慾不振、面黃肌瘦、沒精神；到了後期，吸毒後，心中會浮現悔意；直到有一天，突然想通了，決定把[手機裡藥頭及吸毒朋友們的電話號碼全部刪掉](https://zh.wikipedia.org/wiki/手機 "wikilink")，「吸毒傷身又花錢，沒意思，也沒必要一直玩」。坦率講出吸毒往事，他說：「玩過，沒什麼好避諱！」
-  - 2015年7月10日，創作過無數經典歌曲的創作歌手[張震嶽](https://zh.wikipedia.org/wiki/張震嶽 "wikilink")，與華語饒舌指標性歌手MC
-    HotDog(熱狗)，再加上華語音樂圈最潮嘻哈新人記錄王[頑童MJ116](../Page/頑童MJ116.md "wikilink")，在北京召開新聞發布會，宣布「兄弟本色日落黑趴世界巡迴演唱會」正式起航，並宣告「[兄弟本色](https://zh.wikipedia.org/wiki/兄弟本色 "wikilink")」時代正式降臨。
+  - 2014年8月21日，向《[ETtoday 東森新聞雲](https://zh.wikipedia.org/wiki/ETtoday_東森新聞雲 "wikilink")》坦言，在大學時曾在好奇心與朋友慫恿下[吸毒兩年](https://zh.wikipedia.org/wiki/吸毒 "wikilink")，曾經吸食[搖頭丸](../Page/搖頭丸.md "wikilink")、[大麻及](https://zh.wikipedia.org/wiki/大麻_\(藥用\) "wikilink")[K他命](https://zh.wikipedia.org/wiki/K他命 "wikilink")，吸毒亢奮完後反而心靈空虛、食慾不振、面黃肌瘦、沒精神；到了後期，吸毒後，心中會浮現悔意；直到有一天，突然想通了，決定把[手機裡藥頭及吸毒朋友們的電話號碼全部刪掉](https://zh.wikipedia.org/wiki/手機 "wikilink")，「吸毒傷身又花錢，沒意思，也沒必要一直玩」。坦率講出吸毒往事，他說：「玩過，沒什麼好避諱！」
+  - 2015年7月10日，創作過無數經典歌曲的創作歌手[張震嶽](https://zh.wikipedia.org/wiki/張震嶽 "wikilink")，與華語饒舌指標性歌手MC HotDog(熱狗)，再加上華語音樂圈最潮嘻哈新人記錄王[頑童MJ116](../Page/頑童MJ116.md "wikilink")，在北京召開新聞發布會，宣布「兄弟本色日落黑趴世界巡迴演唱會」正式起航，並宣告「[兄弟本色](https://zh.wikipedia.org/wiki/兄弟本色 "wikilink")」時代正式降臨。
   - 2017年，擔任[《中國有嘻哈》明星製作人兼評審](../Page/中国有嘻哈.md "wikilink")
   - 2018年，擔任[《中國新說唱》明星製作人兼評審](https://zh.wikipedia.org/wiki/中國新說唱 "wikilink")
   - 2019年，加盟[我是唱作人](../Page/我是唱作人.md "wikilink")
@@ -189,7 +178,7 @@ EP+<a href="../Page/VCD.md" title="wikilink">VCD</a></p></td>
 <li>厭世吉娃娃</li>
 <li>夢幻照相機</li>
 <li>寂寞の水怪</li>
-<li>怨偶</li>
+<li>怨偶 （Feat. <a href="https://zh.wikipedia.org/wiki/艾怡良" title="wikilink">艾怡良</a>）</li>
 <li>再見</li>
 <li>我是魯蛇</li>
 <li>Do You Remember</li>
@@ -205,8 +194,7 @@ EP+<a href="../Page/VCD.md" title="wikilink">VCD</a></p></td>
 
 ## 主持作品
 
-  - [音樂電視網台灣頻道](../Page/音樂電視網.md "wikilink")（MTV.tw）《狗嘴不吐象牙》（*Hot Dog
-    Show*，與大支合作）（播映期間：2007年9月11日）
+  - [音樂電視網](../Page/音樂電視網.md "wikilink")台灣頻道（MTV.tw）《狗嘴不吐象牙》（*Hot Dog Show*，與大支合作）（播映期間：2007年9月11日）
   - 愛奇藝《[中國有嘻哈](https://zh.wikipedia.org/wiki/中國有嘻哈 "wikilink")》導師之一，與張震嶽搭檔講評。
   - 愛奇藝《[中國新說唱](https://zh.wikipedia.org/wiki/中國新說唱 "wikilink")》導師之一，與張震嶽再次搭檔。
 
@@ -267,12 +255,11 @@ EP+<a href="../Page/VCD.md" title="wikilink">VCD</a></p></td>
 | 非贏不可？           |           |             |
 |                 |           |             |
 
-[我是唱作人創作單曲](../Page/我是唱作人.md "wikilink")
+[我是唱作人](../Page/我是唱作人.md "wikilink")創作單曲
 
 ## 网络剧
 
-  - 2015年
-    [搜狐視頻](https://zh.wikipedia.org/wiki/搜狐視頻 "wikilink")《[極品女士4](https://zh.wikipedia.org/wiki/極品女士4 "wikilink")》
+  - 2015年 [搜狐視頻](https://zh.wikipedia.org/wiki/搜狐視頻 "wikilink")《[極品女士4](https://zh.wikipedia.org/wiki/極品女士4 "wikilink")》
 
 ## 電影
 
@@ -300,11 +287,4 @@ EP+<a href="../Page/VCD.md" title="wikilink">VCD</a></p></td>
 
   - [狗嘴不吐象牙](http://www.mtvchinese.com/Channel/Show/HotDogShow/Index.html)
 
-[Category:台灣饒舌歌手](https://zh.wikipedia.org/wiki/Category:台灣饒舌歌手 "wikilink")
-[Category:臺北市立建國高級中學校友](https://zh.wikipedia.org/wiki/Category:臺北市立建國高級中學校友 "wikilink")
-[Category:輔仁大學校友](https://zh.wikipedia.org/wiki/Category:輔仁大學校友 "wikilink")
-[Category:金曲獎獲獎者](https://zh.wikipedia.org/wiki/Category:金曲獎獲獎者 "wikilink")
-[Category:姚姓](https://zh.wikipedia.org/wiki/Category:姚姓 "wikilink")
-[Category:台北市人](https://zh.wikipedia.org/wiki/Category:台北市人 "wikilink")
-[Category:台灣嘻哈歌手](https://zh.wikipedia.org/wiki/Category:台灣嘻哈歌手 "wikilink")
-[Category:台灣嘻哈音樂家](https://zh.wikipedia.org/wiki/Category:台灣嘻哈音樂家 "wikilink")
+[Category:台灣饒舌歌手](https://zh.wikipedia.org/wiki/Category:台灣饒舌歌手 "wikilink") [Category:臺北市立建國高級中學校友](https://zh.wikipedia.org/wiki/Category:臺北市立建國高級中學校友 "wikilink") [Category:輔仁大學校友](https://zh.wikipedia.org/wiki/Category:輔仁大學校友 "wikilink") [Category:金曲獎獲獎者](https://zh.wikipedia.org/wiki/Category:金曲獎獲獎者 "wikilink") [Category:姚姓](https://zh.wikipedia.org/wiki/Category:姚姓 "wikilink") [Category:台北市人](https://zh.wikipedia.org/wiki/Category:台北市人 "wikilink") [Category:台灣嘻哈歌手](https://zh.wikipedia.org/wiki/Category:台灣嘻哈歌手 "wikilink") [Category:台灣嘻哈音樂家](https://zh.wikipedia.org/wiki/Category:台灣嘻哈音樂家 "wikilink")

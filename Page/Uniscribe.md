@@ -1,11 +1,6 @@
-**Uniscribe**是[微軟公司開發的](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Windows作業系統為正確演示](https://zh.wikipedia.org/wiki/Windows "wikilink")[Unicode文字而開發的組件](https://zh.wikipedia.org/wiki/Unicode "wikilink")。系統的核心是一個名為*USP10.DLL*的[DLL](https://zh.wikipedia.org/wiki/DLL "wikilink")。它從[Windows
-2000開始連同Windows一起綑綁](../Page/Windows_2000.md "wikilink")；Win9x的用戶在更新至[Internet
-Explorer](../Page/Internet_Explorer.md "wikilink")
-5.0之後，系統亦會安裝有本組件。此外，[Windows
-CE從](https://zh.wikipedia.org/wiki/Windows_CE "wikilink")5.0開始亦支援Uniscribe。
+**Uniscribe**是[微軟公司開發的](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Windows作業系統為正確演示](https://zh.wikipedia.org/wiki/Windows "wikilink")[Unicode文字而開發的組件](https://zh.wikipedia.org/wiki/Unicode "wikilink")。系統的核心是一個名為*USP10.DLL*的[DLL](https://zh.wikipedia.org/wiki/DLL "wikilink")。它從[Windows 2000開始連同Windows一起綑綁](../Page/Windows_2000.md "wikilink")；Win9x的用戶在更新至[Internet Explorer](../Page/Internet_Explorer.md "wikilink") 5.0之後，系統亦會安裝有本組件。此外，[Windows CE從](https://zh.wikipedia.org/wiki/Windows_CE "wikilink")5.0開始亦支援Uniscribe。
 
-其實從[Windows
-7開始](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")，Uniscribe已經隨着功能更多的[DirectWrite的引入而被取代](../Page/DirectWrite.md "wikilink")，但這組件依然仍有繼續開發及維護。
+其實從[Windows 7開始](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")，Uniscribe已經隨着功能更多的[DirectWrite](../Page/DirectWrite.md "wikilink")的引入而被取代，但這組件依然仍有繼續開發及維護。
 
 ## USP10.dll
 
@@ -171,7 +166,7 @@ USP其實是[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")的簡稱�
 <td><p>2006-10-13</p></td>
 <td></td>
 <td><p><a href="../Page/Microsoft_Office_2007.md" title="wikilink">Microsoft Office 2007</a> Ultimate（RTM）</p></td>
-<td><p>支援<a href="../Page/奧里亞文.md" title="wikilink">奧里亞以及</a><a href="../Page/卡納達文.md" title="wikilink">卡納達文字</a></p></td>
+<td><p>支援<a href="../Page/奧里亞文.md" title="wikilink">奧里亞以及</a><a href="../Page/卡納達文.md" title="wikilink">卡納達文</a>字</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -685,10 +680,7 @@ Microsoft Global IME for <a href="../Page/Microsoft_Office.md" title="wikilink">
 
 ## 如何更新？
 
-雖然Uniscribe從Windows
-2000開始隨系統提供，但不同版本的Uniscribe對各地不同的文字有不同的支援：最初的版本只支援顯示[泰語](https://zh.wikipedia.org/wiki/泰語 "wikilink")、[越南語](https://zh.wikipedia.org/wiki/越南語 "wikilink")，之後到[希伯來語和](https://zh.wikipedia.org/wiki/希伯來語 "wikilink")[阿拉伯語](https://zh.wikipedia.org/wiki/阿拉伯語 "wikilink")。從[Windows
-XP開始支援幾個主要的南亞文字及](../Page/Windows_XP.md "wikilink")[亞述語](https://zh.wikipedia.org/wiki/亞述語 "wikilink")，但[僧加羅語](https://zh.wikipedia.org/wiki/僧加羅語 "wikilink")、[高棉語](https://zh.wikipedia.org/wiki/高棉語 "wikilink")、[緬甸語及各種使用](https://zh.wikipedia.org/wiki/緬甸語 "wikilink")[蒙古文字的語言](https://zh.wikipedia.org/wiki/蒙古文字 "wikilink")，由於他們的具體編碼方式在Windows
-XP推出時還未落實，因此未能正式支援。現時不少為這些語言而設計的軟件，在USP10.dll未更新之前，都不能正確操作。
+雖然Uniscribe從Windows 2000開始隨系統提供，但不同版本的Uniscribe對各地不同的文字有不同的支援：最初的版本只支援顯示[泰語](https://zh.wikipedia.org/wiki/泰語 "wikilink")、[越南語](https://zh.wikipedia.org/wiki/越南語 "wikilink")，之後到[希伯來語和](https://zh.wikipedia.org/wiki/希伯來語 "wikilink")[阿拉伯語](https://zh.wikipedia.org/wiki/阿拉伯語 "wikilink")。從[Windows XP開始支援幾個主要的南亞文字及](../Page/Windows_XP.md "wikilink")[亞述語](https://zh.wikipedia.org/wiki/亞述語 "wikilink")，但[僧加羅語](https://zh.wikipedia.org/wiki/僧加羅語 "wikilink")、[高棉語](https://zh.wikipedia.org/wiki/高棉語 "wikilink")、[緬甸語及各種使用](https://zh.wikipedia.org/wiki/緬甸語 "wikilink")[蒙古文字的語言](https://zh.wikipedia.org/wiki/蒙古文字 "wikilink")，由於他們的具體編碼方式在Windows XP推出時還未落實，因此未能正式支援。現時不少為這些語言而設計的軟件，在USP10.dll未更新之前，都不能正確操作。
 
 過往要更新USP10.dll並不容易，因為當時微軟並未有提及載件讓用戶透過安裝來自行更新有關檔案，而必須要透過安裝其他應用程式來更新。現時，有關更新已可透過安裝特別的應用程式來達成\[2\]。
 
@@ -698,8 +690,7 @@ XP推出時還未落實，因此未能正式支援。現時不少為這些語言
 
   - [Uniscribe](https://web.archive.org/web/20071024185416/http://www.microsoft.com/typography/developers/uniscribe/default.htm)
   - [Microsoft Typography](http://www.microsoft.com/typography)
-  - [SIL國際](../Page/SIL國際.md "wikilink")。[Uniscribe
-    versions](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&item_id=UniscribeVersions)
+  - [SIL國際](../Page/SIL國際.md "wikilink")。[Uniscribe versions](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&item_id=UniscribeVersions)
 
 ## 參看
 
@@ -710,9 +701,7 @@ XP推出時還未落實，因此未能正式支援。現時不少為這些語言
   - [如何在Windows 2000系統上更新USP10.dll（英語）](https://archive.is/20070928155732/http://www.aksharamala.com/help/chm/Installation/win2k.html)
   - [有關USP10.dll的各種疑難（英語）](http://uniburma.sourceforge.net/node/13)
 
-[Category:Unicode](https://zh.wikipedia.org/wiki/Category:Unicode "wikilink")
-[Category:數碼字體排印](https://zh.wikipedia.org/wiki/Category:數碼字體排印 "wikilink")
+[Category:Unicode](https://zh.wikipedia.org/wiki/Category:Unicode "wikilink") [Category:數碼字體排印](https://zh.wikipedia.org/wiki/Category:數碼字體排印 "wikilink")
 
-1.  [公开评议议题\#37](http://www.unicode.org/review/pr-37.pdf)
-    提议书：澄清与统一[零字距連接字符在](https://zh.wikipedia.org/wiki/零字距連接字符 "wikilink")[印度文字的用途](https://zh.wikipedia.org/wiki/印度文字 "wikilink")，統一碼聯盟
+1.  [公开评议议题\#37](http://www.unicode.org/review/pr-37.pdf) 提议书：澄清与统一[零字距連接字符在](https://zh.wikipedia.org/wiki/零字距連接字符 "wikilink")[印度文字的用途](https://zh.wikipedia.org/wiki/印度文字 "wikilink")，統一碼聯盟
 2.  <http://www.mongolfont.com/en/windows/index.html>

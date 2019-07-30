@@ -241,6 +241,4 @@
 
   - [官方網站](https://web.archive.org/web/20060906220952/http://www.peakasoul.jp/cooriehp/)
 
-[Category:日本演唱團體](https://zh.wikipedia.org/wiki/Category:日本演唱團體 "wikilink")
-[Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")
-[Category:Lantis旗下歌手](https://zh.wikipedia.org/wiki/Category:Lantis旗下歌手 "wikilink")
+[Category:日本演唱團體](https://zh.wikipedia.org/wiki/Category:日本演唱團體 "wikilink") [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink") [Category:Lantis旗下歌手](https://zh.wikipedia.org/wiki/Category:Lantis旗下歌手 "wikilink")

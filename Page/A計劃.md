@@ -1,4 +1,4 @@
-是一部於1983年上映的[香港電影](https://zh.wikipedia.org/wiki/香港電影 "wikilink")，由[成龍擔任執導](../Page/成龍.md "wikilink")，以及由[成龍](../Page/成龍.md "wikilink")、[洪金寶和](https://zh.wikipedia.org/wiki/洪金寶 "wikilink")[元彪等擔任演出](../Page/元彪.md "wikilink")；此電影為《A計劃系列》中的第一部，亦是成龍的[特技演出代表作之一](https://zh.wikipedia.org/wiki/特技 "wikilink")。
+是一部於1983年上映的[香港電影](https://zh.wikipedia.org/wiki/香港電影 "wikilink")，由[成龍](../Page/成龍.md "wikilink")擔任執導，以及由[成龍](../Page/成龍.md "wikilink")、[洪金寶和](https://zh.wikipedia.org/wiki/洪金寶 "wikilink")[元彪](../Page/元彪.md "wikilink")等擔任演出；此電影為《A計劃系列》中的第一部，亦是成龍的[特技演出代表作之一](https://zh.wikipedia.org/wiki/特技 "wikilink")。
 
 ## 劇情
 
@@ -163,12 +163,4 @@
   -
 {{-}}
 
-[Category:續集電影](https://zh.wikipedia.org/wiki/Category:續集電影 "wikilink")
-[Category:香港动作片](https://zh.wikipedia.org/wiki/Category:香港动作片 "wikilink")
-[Category:1980年代香港電影作品](https://zh.wikipedia.org/wiki/Category:1980年代香港電影作品 "wikilink")
-[Category:嘉禾电影](https://zh.wikipedia.org/wiki/Category:嘉禾电影 "wikilink")
-[Category:香港電影金像獎最佳動作設計獲獎電影](https://zh.wikipedia.org/wiki/Category:香港電影金像獎最佳動作設計獲獎電影 "wikilink")
-[Category:成龙电影](https://zh.wikipedia.org/wiki/Category:成龙电影 "wikilink")
-[Category:海盗电影](https://zh.wikipedia.org/wiki/Category:海盗电影 "wikilink")
-[Category:1980年代动作片](https://zh.wikipedia.org/wiki/Category:1980年代动作片 "wikilink")
-[Category:清朝晚期背景電影](https://zh.wikipedia.org/wiki/Category:清朝晚期背景電影 "wikilink")
+[Category:續集電影](https://zh.wikipedia.org/wiki/Category:續集電影 "wikilink") [Category:香港动作片](https://zh.wikipedia.org/wiki/Category:香港动作片 "wikilink") [Category:1980年代香港電影作品](https://zh.wikipedia.org/wiki/Category:1980年代香港電影作品 "wikilink") [Category:嘉禾电影](https://zh.wikipedia.org/wiki/Category:嘉禾电影 "wikilink") [Category:香港電影金像獎最佳動作設計獲獎電影](https://zh.wikipedia.org/wiki/Category:香港電影金像獎最佳動作設計獲獎電影 "wikilink") [Category:成龙电影](https://zh.wikipedia.org/wiki/Category:成龙电影 "wikilink") [Category:海盗电影](https://zh.wikipedia.org/wiki/Category:海盗电影 "wikilink") [Category:1980年代动作片](https://zh.wikipedia.org/wiki/Category:1980年代动作片 "wikilink") [Category:清朝晚期背景電影](https://zh.wikipedia.org/wiki/Category:清朝晚期背景電影 "wikilink")

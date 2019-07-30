@@ -1,4 +1,4 @@
-**RoadShow至尊音樂頒獎禮2006**於2007年1月4日假座[香港會議展覽中心舉行](../Page/香港會議展覽中心.md "wikilink")，當晚共頒發16個項目，總共51個獎項，司儀為[高皓正](https://zh.wikipedia.org/wiki/高皓正 "wikilink")、[張達明](https://zh.wikipedia.org/wiki/張達明 "wikilink")、[俞詠文](https://zh.wikipedia.org/wiki/俞詠文 "wikilink")，以下為當晚的得獎名單：
+**RoadShow至尊音樂頒獎禮2006**於2007年1月4日假座[香港會議展覽中心](../Page/香港會議展覽中心.md "wikilink")舉行，當晚共頒發16個項目，總共51個獎項，司儀為[高皓正](https://zh.wikipedia.org/wiki/高皓正 "wikilink")、[張達明](https://zh.wikipedia.org/wiki/張達明 "wikilink")、[俞詠文](https://zh.wikipedia.org/wiki/俞詠文 "wikilink")，以下為當晚的得獎名單：
 
 ## 歌曲獎項
 
@@ -15,20 +15,16 @@
   - 《糖不甩》 ——[薛凱琪](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink")
   - 《情歌》 ——[側田](../Page/側田.md "wikilink")
   - 《離家出走》 ——[衛蘭](../Page/衛蘭.md "wikilink")
-  - 《晏》 ——[Eric
-    Kwok](https://zh.wikipedia.org/wiki/Eric_Kwok "wikilink")
+  - 《晏》 ——[Eric Kwok](https://zh.wikipedia.org/wiki/Eric_Kwok "wikilink")
   - 《愛愛愛》 ——[方大同](https://zh.wikipedia.org/wiki/方大同 "wikilink")
   - 《阿博二世》 ——[黃貫中](../Page/黃貫中.md "wikilink")
   - 《阿姆斯特丹》 ——[黃耀明](../Page/黃耀明.md "wikilink")
 
 ### 至尊合唱歌曲
 
-  - 《大喊包》
-    ——[關楚耀](../Page/關楚耀.md "wikilink")、[譚詠麟](../Page/譚詠麟.md "wikilink")
-  - 《十分愛》
-    ——[方力申](../Page/方力申.md "wikilink")、[鄧麗欣](../Page/鄧麗欣.md "wikilink")
-  - 《Messenger》
-    ——[李逸朗](https://zh.wikipedia.org/wiki/李逸朗 "wikilink")、[蔣雅文](../Page/蔣雅文.md "wikilink")
+  - 《大喊包》 ——[關楚耀](../Page/關楚耀.md "wikilink")、[譚詠麟](../Page/譚詠麟.md "wikilink")
+  - 《十分愛》 ——[方力申](../Page/方力申.md "wikilink")、[鄧麗欣](../Page/鄧麗欣.md "wikilink")
+  - 《Messenger》 ——[李逸朗](https://zh.wikipedia.org/wiki/李逸朗 "wikilink")、[蔣雅文](../Page/蔣雅文.md "wikilink")
 
 ### 至尊舞臺演繹（排名不分先後）
 
@@ -111,7 +107,7 @@
 
 ## 媒體播放
 
-由RoadShow[路訊通將於其節目內播出精華片段](../Page/路訊通.md "wikilink")。[無線電視翡翠台於](https://zh.wikipedia.org/wiki/無線電視翡翠台 "wikilink")2007年2月20日（年初三）下午14:30-15:30播出一小時精裝版，這是該頒獎典禮首次在電視台播放。另外，本年度之賽果並不計算入[四台聯頒音樂大獎內](../Page/四台聯頒音樂大獎.md "wikilink")。
+由RoadShow[路訊通](../Page/路訊通.md "wikilink")將於其節目內播出精華片段。[無線電視翡翠台於](https://zh.wikipedia.org/wiki/無線電視翡翠台 "wikilink")2007年2月20日（年初三）下午14:30-15:30播出一小時精裝版，這是該頒獎典禮首次在電視台播放。另外，本年度之賽果並不計算入[四台聯頒音樂大獎](../Page/四台聯頒音樂大獎.md "wikilink")內。
 
 ## 參見
 

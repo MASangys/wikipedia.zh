@@ -1,5 +1,4 @@
-《**心跳回憶 Only
-Love**》是[科樂美數位娛樂製作](../Page/科樂美數位娛樂.md "wikilink")、[東京電視台自](../Page/東京電視台.md "wikilink")2006年10月2日到2007年3月26日播放的[日本電視動畫](../Page/日本電視動畫.md "wikilink")，以科樂美數位娛樂在[日本國內營運的](../Page/日本.md "wikilink")[網路遊戲](https://zh.wikipedia.org/wiki/網路遊戲 "wikilink")《[心跳回憶Online](https://zh.wikipedia.org/wiki/心跳回憶Online "wikilink")》裡的[世界觀為基礎而製作](https://zh.wikipedia.org/wiki/世界觀 "wikilink")。
+《**心跳回憶 Only Love**》是[科樂美數位娛樂](../Page/科樂美數位娛樂.md "wikilink")製作、[東京電視台](../Page/東京電視台.md "wikilink")自2006年10月2日到2007年3月26日播放的[日本電視動畫](../Page/日本電視動畫.md "wikilink")，以科樂美數位娛樂在[日本](../Page/日本.md "wikilink")國內營運的[網路遊戲](https://zh.wikipedia.org/wiki/網路遊戲 "wikilink")《[心跳回憶Online](https://zh.wikipedia.org/wiki/心跳回憶Online "wikilink")》裡的[世界觀為基礎而製作](https://zh.wikipedia.org/wiki/世界觀 "wikilink")。
 
 ## 故事簡介
 
@@ -10,8 +9,7 @@ Love**》是[科樂美數位娛樂製作](../Page/科樂美數位娛樂.md "wiki
 ### 主要登場人物
 
   -
-    主要主角，動畫版原創人物暨Only
-    Love劇情視點人物，紡野高中二年A班學生。從東北深雪的港口轉到紡野高中。因為父母工作的關係，國小定居在[福岡縣](https://zh.wikipedia.org/wiki/福岡縣 "wikilink")，國中定居在[北海道](../Page/北海道.md "wikilink")；在這期間還輾轉搬到全國各地。本人只希望過幸福的生活，卻經常被捲進學生會的活動裡。沒有特別拿手的技術，不過逃跑的速度卻是出乎意料的快。不知道為什麼，還能聽懂小雞說的話。因為能夠與小百合一起工作的關係，還參加了幾乎是在做打雜工作的文化祭實行委員。不過因為A班後來在[文化祭開設的鬼屋相當地成功](../Page/文化祭.md "wikilink")，也使得他一下子變成校園內的紅人。
+    主要主角，動畫版原創人物暨Only Love劇情視點人物，紡野高中二年A班學生。從東北深雪的港口轉到紡野高中。因為父母工作的關係，國小定居在[福岡縣](https://zh.wikipedia.org/wiki/福岡縣 "wikilink")，國中定居在[北海道](../Page/北海道.md "wikilink")；在這期間還輾轉搬到全國各地。本人只希望過幸福的生活，卻經常被捲進學生會的活動裡。沒有特別拿手的技術，不過逃跑的速度卻是出乎意料的快。不知道為什麼，還能聽懂小雞說的話。因為能夠與小百合一起工作的關係，還參加了幾乎是在做打雜工作的文化祭實行委員。不過因為A班後來在[文化祭](../Page/文化祭.md "wikilink")開設的鬼屋相當地成功，也使得他一下子變成校園內的紅人。
 
 <!-- end list -->
 
@@ -552,8 +550,4 @@ Love**》是[科樂美數位娛樂製作](../Page/科樂美數位娛樂.md "wiki
   - [官方網路電台](https://web.archive.org/web/20080916075827/http://www.jvcmusic.co.jp/m-serve/webradio/bucknumber/0005/index.html)
   - [手機遊戲版官方網站](http://www.konami.jp/mobile/appli/tkol.html)
 
-[Category:科樂美動畫](https://zh.wikipedia.org/wiki/Category:科樂美動畫 "wikilink")
-[Category:心跳回憶系列](https://zh.wikipedia.org/wiki/Category:心跳回憶系列 "wikilink")
-[Category:2006年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2006年東京電視網動畫 "wikilink")
-[Category:AIC](https://zh.wikipedia.org/wiki/Category:AIC "wikilink")
-[Category:戀愛遊戲改編電視動畫](https://zh.wikipedia.org/wiki/Category:戀愛遊戲改編電視動畫 "wikilink")
+[Category:科樂美動畫](https://zh.wikipedia.org/wiki/Category:科樂美動畫 "wikilink") [Category:心跳回憶系列](https://zh.wikipedia.org/wiki/Category:心跳回憶系列 "wikilink") [Category:2006年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2006年東京電視網動畫 "wikilink") [Category:AIC](https://zh.wikipedia.org/wiki/Category:AIC "wikilink") [Category:戀愛遊戲改編電視動畫](https://zh.wikipedia.org/wiki/Category:戀愛遊戲改編電視動畫 "wikilink")

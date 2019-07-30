@@ -1,4 +1,4 @@
-，是[日本](../Page/日本.md "wikilink")[推理小說作家](../Page/推理小說.md "wikilink")[森博嗣之](../Page/森博嗣.md "wikilink")「[犀川&萌繪系列](https://zh.wikipedia.org/wiki/犀川&萌繪系列 "wikilink")」的第一本著作。日語原文由[講談社於](https://zh.wikipedia.org/wiki/講談社 "wikilink")1996年出版，中譯本由尖端於2005年出版。《全部成為F》曾獲第一屆[梅菲斯特賞](https://zh.wikipedia.org/wiki/梅菲斯特賞 "wikilink")（）。
+，是[日本](../Page/日本.md "wikilink")[推理小說](../Page/推理小說.md "wikilink")作家[森博嗣](../Page/森博嗣.md "wikilink")之「[犀川&萌繪系列](https://zh.wikipedia.org/wiki/犀川&萌繪系列 "wikilink")」的第一本著作。日語原文由[講談社於](https://zh.wikipedia.org/wiki/講談社 "wikilink")1996年出版，中譯本由尖端於2005年出版。《全部成為F》曾獲第一屆[梅菲斯特賞](https://zh.wikipedia.org/wiki/梅菲斯特賞 "wikilink")（）。
 
 ## 劇情簡介
 
@@ -19,8 +19,7 @@
 ### 真賀田研究所
 
   -
-    真賀田研究所的博士，天才程式設計師，年幼時就發揮超常的才智而成名。14歲時真賀田研究所落成那天突然殺害自己雙親而引起社會譁然，因未成年且被視為[無意識行為而判無罪](https://zh.wikipedia.org/wiki/無意識 "wikilink")，之後便把自己關在研究所房裡進行研究，過著不與房外人直接接觸的生活。其間開發出「Red
-    magic」的獨家[操作系统](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，並做出名為「戴博拉」的研究所管理程序。
+    真賀田研究所的博士，天才程式設計師，年幼時就發揮超常的才智而成名。14歲時真賀田研究所落成那天突然殺害自己雙親而引起社會譁然，因未成年且被視為[無意識行為而判無罪](https://zh.wikipedia.org/wiki/無意識 "wikilink")，之後便把自己關在研究所房裡進行研究，過著不與房外人直接接觸的生活。其間開發出「Red magic」的獨家[操作系统](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，並做出名為「戴博拉」的研究所管理程序。
 
 <!-- end list -->
 
@@ -30,7 +29,7 @@
 <!-- end list -->
 
   -
-    具有[多重人格](https://zh.wikipedia.org/wiki/多重人格 "wikilink")，其角色分別為栗本其志雄、佐佐木棲麻和真賀田道流，全為四季身邊已故的要人或人偶。有比犀川更加非凡的邏輯思維，追尋自由且不受世間[道德觀念影響](../Page/道德.md "wikilink")。
+    具有[多重人格](https://zh.wikipedia.org/wiki/多重人格 "wikilink")，其角色分別為栗本其志雄、佐佐木棲麻和真賀田道流，全為四季身邊已故的要人或人偶。有比犀川更加非凡的邏輯思維，追尋自由且不受世間[道德](../Page/道德.md "wikilink")觀念影響。
 
 <!-- end list -->
 
@@ -136,13 +135,11 @@
 </tbody>
 </table>
 
-  - [講談社文庫版](https://zh.wikipedia.org/wiki/講談社文庫 "wikilink") -
-    1998年12月11日發行、ISBN 4-06-263924-6
+  - [講談社文庫版](https://zh.wikipedia.org/wiki/講談社文庫 "wikilink") - 1998年12月11日發行、ISBN 4-06-263924-6
 
 ## 遊戲
 
-[KID曾於](../Page/KID.md "wikilink")2002年3月28日發售以Play
-Station為平台冒險遊戲，詳情請見\[1\]
+[KID](../Page/KID.md "wikilink")曾於2002年3月28日發售以Play Station為平台冒險遊戲，詳情請見\[1\]
 
 ### 角色
 
@@ -158,9 +155,7 @@ Station為平台冒險遊戲，詳情請見\[1\]
 
 ## 電視劇
 
-，日本[富士電視台於](../Page/富士電視台.md "wikilink")2014年10月起在[火九時段](../Page/富士電視台週二晚間九點連續劇.md "wikilink")（週二21:00
--
-21:54，[JST](https://zh.wikipedia.org/wiki/日本標準時 "wikilink")）播出的[電視連續劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")，改編自同名小說，由[武井咲和](../Page/武井咲.md "wikilink")[綾野剛共同主演](../Page/綾野剛.md "wikilink")。
+，日本[富士電視台](../Page/富士電視台.md "wikilink")於2014年10月起在[火九時段](../Page/富士電視台週二晚間九點連續劇.md "wikilink")（週二21:00 - 21:54，[JST](https://zh.wikipedia.org/wiki/日本標準時 "wikilink")）播出的[電視連續劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")，改編自同名小說，由[武井咲](../Page/武井咲.md "wikilink")和[綾野剛](../Page/綾野剛.md "wikilink")共同主演。
 
 ### 演員陣容
 
@@ -267,26 +262,18 @@ Station為平台冒險遊戲，詳情請見\[1\]
 
 ### 製作團隊
 
-  - 原作 -
-    [森博嗣](../Page/森博嗣.md "wikilink")《全部成為F》他S\&M系列（[講談社文庫刊](https://zh.wikipedia.org/wiki/講談社文庫 "wikilink")）
+  - 原作 - [森博嗣](../Page/森博嗣.md "wikilink")《全部成為F》他S\&M系列（[講談社文庫刊](https://zh.wikipedia.org/wiki/講談社文庫 "wikilink")）
   - 系列腳本 - [黑岩勉](https://zh.wikipedia.org/wiki/黑岩勉 "wikilink")
   - 脚本 - 黑岩勉、[小山正太](https://zh.wikipedia.org/wiki/小山正太 "wikilink")
   - 音楽 - [川井憲次](../Page/川井憲次.md "wikilink")
-  - 演出 -
-    城宝秀則、[小椋久雄](https://zh.wikipedia.org/wiki/小椋久雄 "wikilink")、[小林義則](https://zh.wikipedia.org/wiki/小林義則 "wikilink")
-  - 主題曲 -
-    [ゲスの極み乙女。](https://zh.wikipedia.org/wiki/ゲスの極み乙女。 "wikilink")「[Digital
-    Mole](https://zh.wikipedia.org/wiki/魅力がすごいよ "wikilink")」（[Warner
-    Music
-    Japan](https://zh.wikipedia.org/wiki/Warner_Music_Japan "wikilink")
-    / [unBORDE](https://zh.wikipedia.org/wiki/unBORDE "wikilink")）\[2\]
+  - 演出 - 城宝秀則、[小椋久雄](https://zh.wikipedia.org/wiki/小椋久雄 "wikilink")、[小林義則](https://zh.wikipedia.org/wiki/小林義則 "wikilink")
+  - 主題曲 - [ゲスの極み乙女。](https://zh.wikipedia.org/wiki/ゲスの極み乙女。 "wikilink")「[Digital Mole](https://zh.wikipedia.org/wiki/魅力がすごいよ "wikilink")」（[Warner Music Japan](https://zh.wikipedia.org/wiki/Warner_Music_Japan "wikilink") / [unBORDE](https://zh.wikipedia.org/wiki/unBORDE "wikilink")）\[2\]
   - 演出候補 - [村谷嘉則](https://zh.wikipedia.org/wiki/村谷嘉則 "wikilink")、淵上正人
   - 標題背景 - 衛藤一郎
   - 動作指導 - [釼持誠](https://zh.wikipedia.org/wiki/釼持誠 "wikilink")
   - 弓道協力 - [全日本弓道連盟](https://zh.wikipedia.org/wiki/全日本弓道連盟 "wikilink")
   - 編成企劃 - 成河広明、加藤達也
-  - 製作人 -
-    [小椋久雄](https://zh.wikipedia.org/wiki/小椋久雄 "wikilink")、[貸川聡子](https://zh.wikipedia.org/wiki/貸川聡子 "wikilink")
+  - 製作人 - [小椋久雄](https://zh.wikipedia.org/wiki/小椋久雄 "wikilink")、[貸川聡子](https://zh.wikipedia.org/wiki/貸川聡子 "wikilink")
   - 候補製作人 - 関本純一、堀江愛佳
   - 製作 - 富士電視台
   - 製作著作 - [共同電視台](https://zh.wikipedia.org/wiki/共同電視台 "wikilink")
@@ -410,9 +397,7 @@ Station為平台冒險遊戲，詳情請見\[1\]
 
 ## 電視動畫
 
-[富士電視台於](../Page/富士電視台.md "wikilink")2014年11月27日公佈，將會結合包括本作在內的各個《[犀川&萌繪系列](https://zh.wikipedia.org/wiki/犀川&萌繪系列 "wikilink")》故事，改編[電視動畫標題為](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《**全部成為F
-THE PERFECT
-INSIDER**》，於2015年10月在[noitaminA時段播放](https://zh.wikipedia.org/wiki/noitaminA "wikilink")。
+[富士電視台](../Page/富士電視台.md "wikilink")於2014年11月27日公佈，將會結合包括本作在內的各個《[犀川&萌繪系列](https://zh.wikipedia.org/wiki/犀川&萌繪系列 "wikilink")》故事，改編[電視動畫標題為](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《**全部成為F THE PERFECT INSIDER**》，於2015年10月在[noitaminA時段播放](https://zh.wikipedia.org/wiki/noitaminA "wikilink")。
 
 ### 製作人員
 
@@ -621,14 +606,11 @@ INSIDER**》，於2015年10月在[noitaminA時段播放](https://zh.wikipedia.or
 
 ## 漫畫版
 
-2002年由[幻冬舎集結成單行本刊行](https://zh.wikipedia.org/wiki/幻冬舎 "wikilink")。2015年於電視動畫開播之前於『[ARIA](https://zh.wikipedia.org/wiki/ARIA_\(雜誌\) "wikilink")』（[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")）2015年7月號到2016年1月號的雜誌上連載，使用《**全部成為F-THE
-PERFECT INSIDER-**》此標題作為漫畫名稱。
+2002年由[幻冬舎集結成單行本刊行](https://zh.wikipedia.org/wiki/幻冬舎 "wikilink")。2015年於電視動畫開播之前於『[ARIA](https://zh.wikipedia.org/wiki/ARIA_\(雜誌\) "wikilink")』（[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")）2015年7月號到2016年1月號的雜誌上連載，使用《**全部成為F-THE PERFECT INSIDER-**》此標題作為漫畫名稱。
 
   - 幻冬舎
 
-:\*
-森博嗣（原作）[淺田寅ヲ](../Page/淺田寅ヲ.md "wikilink")（作画）[幻冬舎](https://zh.wikipedia.org/wiki/幻冬舎 "wikilink")〈BIRZ
-COMICS〉、全1卷
+:\* 森博嗣（原作）[淺田寅ヲ](../Page/淺田寅ヲ.md "wikilink")（作画）[幻冬舎](https://zh.wikipedia.org/wiki/幻冬舎 "wikilink")〈BIRZ COMICS〉、全1卷
 
 :\*\* 2001年9月28日發行、ISBN 978-4-7897-8380-4
 
@@ -640,8 +622,7 @@ COMICS〉、全1卷
 
   - 講談社
 
-:\* 森博嗣（原作）[霜月灰吏](../Page/霜月灰吏.md "wikilink")（作畫）
-[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")〈KCx ARIA〉、全2卷
+:\* 森博嗣（原作）[霜月灰吏](../Page/霜月灰吏.md "wikilink")（作畫） [講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")〈KCx ARIA〉、全2卷
 
 <table>
 <thead>
@@ -675,50 +656,29 @@ COMICS〉、全1卷
 ## 外部連結
 
   - 原作小說
-      - [S\&M series
-        犀川創平＆西之園萌繪系列](http://www001.upp.so-net.ne.jp/mori/myst/indexjpeg/S_M1.html)
-        - 作者的系列解說
+      - [S\&M series 犀川創平＆西之園萌繪系列](http://www001.upp.so-net.ne.jp/mori/myst/indexjpeg/S_M1.html) - 作者的系列解說
 
       - \[<https://web.archive.org/web/20141103044136/http://bookclub.kodansha.co.jp/product?code=181901>　《全部成為F》（森博嗣）：講談社小說｜講談社BOOK倶楽部\]
   - 漫畫
-      - [全部成為F:刊行情報 | 幻冬舍COMICS GENTOSHA
-        COMICS](http://www.gentosha-comics.net/book/label/cat6/gb/601406.html)
+      - [全部成為F:刊行情報 | 幻冬舍COMICS GENTOSHA COMICS](http://www.gentosha-comics.net/book/label/cat6/gb/601406.html)
 
-      - [《全部成為F-THE PERFECT INSIDER-》原作：森博嗣 漫畫：霜月海里 | ARIA | 講談社COMIC
-        PLUS](http://aria-comic.jp/contents/list173.html)
+      - [《全部成為F-THE PERFECT INSIDER-》原作：森博嗣 漫畫：霜月海里 | ARIA | 講談社COMIC PLUS](http://aria-comic.jp/contents/list173.html)
 
-      - [四季 - 原作：森博嗣 漫畫：猫目トーチカ | ITAN | 講談社COMIC
-        PLUS](https://web.archive.org/web/20150914162556/http://itan.jp/contents/list0037.html)
+      - [四季 - 原作：森博嗣 漫畫：猫目トーチカ | ITAN | 講談社COMIC PLUS](https://web.archive.org/web/20150914162556/http://itan.jp/contents/list0037.html)
   - 遊戲
-      - [全部成為F 〜THE PERFECT INSIDER
-        〜](https://web.archive.org/web/20090723183439/http://www.kid-game.jp/kid/game/game_coolkid/f/index.html)
+      - [全部成為F 〜THE PERFECT INSIDER 〜](https://web.archive.org/web/20090723183439/http://www.kid-game.jp/kid/game/game_coolkid/f/index.html)
   - 電視劇
-      - [全部成為F -
-        富士電視台](https://web.archive.org/web/20140826113931/http://www.fujitv.co.jp/F/)
+      - [全部成為F - 富士電視台](https://web.archive.org/web/20140826113931/http://www.fujitv.co.jp/F/)
 
       -
   - 電視動畫
-      - [電視動畫《全部成為F THE PERFECT
-        INSIDER》官方網站](http://www.f-noitamina.com/)
+      - [電視動畫《全部成為F THE PERFECT INSIDER》官方網站](http://www.f-noitamina.com/)
 
       -
-[Category:1996年小說](https://zh.wikipedia.org/wiki/Category:1996年小說 "wikilink")
-[Category:青年漫畫](https://zh.wikipedia.org/wiki/Category:青年漫畫 "wikilink")
-[Category:小說改編漫畫作品](https://zh.wikipedia.org/wiki/Category:小說改編漫畫作品 "wikilink")
-[Category:PlayStation_(游戏机)游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_\(游戏机\)游戏 "wikilink")
-[Category:2014年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2014年開播的日本電視劇集 "wikilink")
-[Category:日本推理小說改編電視劇](https://zh.wikipedia.org/wiki/Category:日本推理小說改編電視劇 "wikilink")
-[Category:2015年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2015年日本電視動畫 "wikilink")
-[Category:愛知縣背景作品](https://zh.wikipedia.org/wiki/Category:愛知縣背景作品 "wikilink")
-[Category:數學題材作品](https://zh.wikipedia.org/wiki/Category:數學題材作品 "wikilink")
-[Category:小說改編動畫](https://zh.wikipedia.org/wiki/Category:小說改編動畫 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
-[Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
+[Category:1996年小說](https://zh.wikipedia.org/wiki/Category:1996年小說 "wikilink") [Category:青年漫畫](https://zh.wikipedia.org/wiki/Category:青年漫畫 "wikilink") [Category:小說改編漫畫作品](https://zh.wikipedia.org/wiki/Category:小說改編漫畫作品 "wikilink") [Category:PlayStation_(游戏机)游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_\(游戏机\)游戏 "wikilink") [Category:2014年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2014年開播的日本電視劇集 "wikilink") [Category:日本推理小說改編電視劇](https://zh.wikipedia.org/wiki/Category:日本推理小說改編電視劇 "wikilink") [Category:2015年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2015年日本電視動畫 "wikilink") [Category:愛知縣背景作品](https://zh.wikipedia.org/wiki/Category:愛知縣背景作品 "wikilink") [Category:數學題材作品](https://zh.wikipedia.org/wiki/Category:數學題材作品 "wikilink") [Category:小說改編動畫](https://zh.wikipedia.org/wiki/Category:小說改編動畫 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink") [Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
 
 1.  [1](https://web.archive.org/web/20060811230800/http://www.kid-game.co.jp/kid/game/game_coolkid/f/index.html)
 2.
-3.  [すべてがFになる](http://www.sponichi.co.jp/entertainment/yomimono/drama/2014/10_12/F/index.html)
-    、[Sponti
-    Annex](https://zh.wikipedia.org/wiki/Sponti_Annex "wikilink")、2014年12月27日閱覧。
+3.  [すべてがFになる](http://www.sponichi.co.jp/entertainment/yomimono/drama/2014/10_12/F/index.html) 、[Sponti Annex](https://zh.wikipedia.org/wiki/Sponti_Annex "wikilink")、2014年12月27日閱覧。
 4.
 5.

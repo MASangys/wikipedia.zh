@@ -1,24 +1,16 @@
-在-{zh-tw:[電腦網路](https://zh.wikipedia.org/wiki/電腦網路 "wikilink");zh-cn:[计算机网络](../Page/计算机网络.md "wikilink")}-上，**OpenSSL**是一個[開放原始碼的](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")[軟體](https://zh.wikipedia.org/wiki/軟體 "wikilink")[函式庫套件](../Page/函式庫.md "wikilink")，應用程式可以使用這個套件來進行安全通訊，避免竊聽，同時確認另一端連線者的身份。這個套件廣泛被應用在網際網路的網頁伺服器上。
+在-{zh-tw:[電腦網路](https://zh.wikipedia.org/wiki/電腦網路 "wikilink");zh-cn:[计算机网络](../Page/计算机网络.md "wikilink")}-上，**OpenSSL**是一個[開放原始碼的](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")[軟體](https://zh.wikipedia.org/wiki/軟體 "wikilink")[函式庫](../Page/函式庫.md "wikilink")套件，應用程式可以使用這個套件來進行安全通訊，避免竊聽，同時確認另一端連線者的身份。這個套件廣泛被應用在網際網路的網頁伺服器上。
 
-其主要[函式庫是以](../Page/函式庫.md "wikilink")[C語言所寫成](https://zh.wikipedia.org/wiki/C語言 "wikilink")，實作了基本的[加密功能](https://zh.wikipedia.org/wiki/加密 "wikilink")，實作了[SSL與TLS協定](https://zh.wikipedia.org/wiki/傳輸層安全協議 "wikilink")。OpenSSL可以運行在[OpenVMS](https://zh.wikipedia.org/wiki/OpenVMS "wikilink")、
-[Microsoft
-Windows以及絕大多數](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[類Unix作業系統上](https://zh.wikipedia.org/wiki/類Unix "wikilink")（包括[Solaris](../Page/Solaris.md "wikilink")，[Linux](../Page/Linux.md "wikilink")，[Mac
-OS
-X與各種版本的開放原始碼](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[BSD作業系統](../Page/BSD.md "wikilink")）。它也提供了一個移植版本，可以在[IBM
-i](https://zh.wikipedia.org/wiki/IBM_i "wikilink")（OS/400）上運作。
+其主要[函式庫](../Page/函式庫.md "wikilink")是以[C語言所寫成](https://zh.wikipedia.org/wiki/C語言 "wikilink")，實作了基本的[加密功能](https://zh.wikipedia.org/wiki/加密 "wikilink")，實作了[SSL與TLS協定](https://zh.wikipedia.org/wiki/傳輸層安全協議 "wikilink")。OpenSSL可以運行在[OpenVMS](https://zh.wikipedia.org/wiki/OpenVMS "wikilink")、 [Microsoft Windows以及絕大多數](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[類Unix作業系統上](https://zh.wikipedia.org/wiki/類Unix "wikilink")（包括[Solaris](../Page/Solaris.md "wikilink")，[Linux](../Page/Linux.md "wikilink")，[Mac OS X與各種版本的開放原始碼](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[BSD](../Page/BSD.md "wikilink")作業系統）。它也提供了一個移植版本，可以在[IBM i](https://zh.wikipedia.org/wiki/IBM_i "wikilink")（OS/400）上運作。
 
 雖然此軟體是開放原始碼的，但其授權書條款與[GPL有衝突之處](https://zh.wikipedia.org/wiki/GPL "wikilink")，故GPL軟體使用OpenSSL時（如[Wget](../Page/Wget.md "wikilink")）必須對OpenSSL給予例外。
 
 ## 歷史
 
-OpenSSL計劃在1998年開始，其目標是發明一套自由的加密工具，在網際網路上使用。OpenSSL以Eric Young以及Tim
-Hudson兩人開發的[SSLeay為基礎](https://zh.wikipedia.org/wiki/SSLeay "wikilink")，隨著兩人前往[RSA公司任職](https://zh.wikipedia.org/wiki/RSA "wikilink")，SSLeay在1998年12月停止開發。因此在1998年12月，社群另外分支出OpenSSL，繼續開發下去。
+OpenSSL計劃在1998年開始，其目標是發明一套自由的加密工具，在網際網路上使用。OpenSSL以Eric Young以及Tim Hudson兩人開發的[SSLeay為基礎](https://zh.wikipedia.org/wiki/SSLeay "wikilink")，隨著兩人前往[RSA公司任職](https://zh.wikipedia.org/wiki/RSA "wikilink")，SSLeay在1998年12月停止開發。因此在1998年12月，社群另外分支出OpenSSL，繼續開發下去。
 
-OpenSSL管理委員會目前由7人組成\[1\]
-有13個開發人員\[2\]具有提交權限（其中許多人也是OpenSSL管理委員會的一部分）。只有兩名全職員工（研究員），其餘的是志願者。
+OpenSSL管理委員會目前由7人組成\[1\] 有13個開發人員\[2\]具有提交權限（其中許多人也是OpenSSL管理委員會的一部分）。只有兩名全職員工（研究員），其餘的是志願者。
 
-該項目每年的預算不到100萬美元，主要依靠捐款。 TLS
-1.3的開發由[Akamai贊助](https://zh.wikipedia.org/wiki/Akamai "wikilink")。\[3\]
+該項目每年的預算不到100萬美元，主要依靠捐款。 TLS 1.3的開發由[Akamai贊助](https://zh.wikipedia.org/wiki/Akamai "wikilink")。\[3\]
 
 ## 主要版本发布
 
@@ -172,7 +164,7 @@ OpenSSL管理委員會目前由7人組成\[1\]
 <li>支持</li>
 <li>支持</li>
 <li>支持多素數<a href="../Page/RSA加密演算法.md" title="wikilink">RSA</a>（RFC 8017）</li>
-<li>支持<a href="../Page/SM2.md" title="wikilink">SM2</a>、<a href="../Page/SM3.md" title="wikilink">SM3以及</a><a href="../Page/SM4.md" title="wikilink">SM4</a></li>
+<li>支持<a href="../Page/SM2.md" title="wikilink">SM2</a>、<a href="../Page/SM3.md" title="wikilink">SM3</a>以及<a href="../Page/SM4.md" title="wikilink">SM4</a></li>
 <li>移除<a href="../Page/心脏出血漏洞.md" title="wikilink">Heartbleed</a></li>
 <li>移除对QNX支持的支持</li>
 </ul></td>
@@ -196,11 +188,9 @@ OpenSSL支持许多不同的加密算法：
   - [密碼雜湊函數](https://zh.wikipedia.org/wiki/密碼雜湊函數 "wikilink"):
     [MD5](../Page/MD5.md "wikilink")、[MD4](https://zh.wikipedia.org/wiki/MD4 "wikilink")、、[SHA-1](../Page/SHA-1.md "wikilink")、[SHA-2](../Page/SHA-2.md "wikilink")、[SHA-3](../Page/SHA-3.md "wikilink")、[RIPEMD-160](https://zh.wikipedia.org/wiki/RIPEMD-160 "wikilink")、、\[15\]、[BLAKE2](https://zh.wikipedia.org/wiki/BLAKE#BLAKE2 "wikilink")、\[16\]、[SM3](../Page/SM3.md "wikilink")
   - [公开密钥加密](../Page/公开密钥加密.md "wikilink"):
-    [RSA](../Page/RSA加密演算法.md "wikilink")、、[迪菲-赫爾曼密鑰交換](../Page/迪菲-赫爾曼密鑰交換.md "wikilink")、[椭圆曲线](../Page/椭圆曲线密码学.md "wikilink")、[X25519](../Page/Curve25519.md "wikilink")、、、、[GOST
-    R
-    34.10-2001](https://zh.wikipedia.org/wiki/GOST_R_34.10-2001 "wikilink")\[17\]、[SM2](../Page/SM2.md "wikilink")
+    [RSA](../Page/RSA加密演算法.md "wikilink")、、[迪菲-赫爾曼密鑰交換](../Page/迪菲-赫爾曼密鑰交換.md "wikilink")、[椭圆曲线](../Page/椭圆曲线密码学.md "wikilink")、[X25519](../Page/Curve25519.md "wikilink")、、、、[GOST R 34.10-2001](https://zh.wikipedia.org/wiki/GOST_R_34.10-2001 "wikilink")\[17\]、[SM2](../Page/SM2.md "wikilink")
 
-（从1.0版开始，[橢圓曲線迪菲-赫爾曼金鑰交換用于支持](../Page/橢圓曲線迪菲-赫爾曼金鑰交換.md "wikilink")[前向安全性](https://zh.wikipedia.org/wiki/前向安全性 "wikilink")）\[18\])
+（从1.0版开始，[橢圓曲線迪菲-赫爾曼金鑰交換](../Page/橢圓曲線迪菲-赫爾曼金鑰交換.md "wikilink")用于支持[前向安全性](https://zh.wikipedia.org/wiki/前向安全性 "wikilink")）\[18\])
 
 ## 心脏出血漏洞
 
@@ -210,21 +200,19 @@ OpenSSL 1.0.1版本（不含1.0.1g）含有一个严重漏洞，可允许攻击�
 
 ### Agglomerated SSL
 
-在2009年，OpenSSL API受挫之后，当时的OpenBSD开发人员Marco Peereboom创建了分支Agglomerated
-SSL（assl），它重新使用OpenSSL API，但提供了更简单的外部接口。\[20\]
+在2009年，OpenSSL API受挫之后，当时的OpenBSD开发人员Marco Peereboom创建了分支Agglomerated SSL（assl），它重新使用OpenSSL API，但提供了更简单的外部接口。\[20\]
 
 ### LibreSSL
 
-2014年4月的[心脏出血漏洞事件之后](../Page/心脏出血漏洞.md "wikilink")，[OpenBSD项目成员以OpenSSL](../Page/OpenBSD.md "wikilink")
-1.0.1g作为分支，创建一个名为[LibreSSL的项目](../Page/LibreSSL.md "wikilink")。\[21\]在缩减OpenSSL的代码库的第一周，将超过90,000行的[C语言代码从分支中删除](https://zh.wikipedia.org/wiki/C语言 "wikilink")。\[22\]
+2014年4月的[心脏出血漏洞](../Page/心脏出血漏洞.md "wikilink")事件之后，[OpenBSD](../Page/OpenBSD.md "wikilink")项目成员以OpenSSL 1.0.1g作为分支，创建一个名为[LibreSSL](../Page/LibreSSL.md "wikilink")的项目。\[21\]在缩减OpenSSL的代码库的第一周，将超过90,000行的[C语言代码从分支中删除](https://zh.wikipedia.org/wiki/C语言 "wikilink")。\[22\]
 
 ### BoringSSL
 
-2014年6月，[Google发布了自己的OpenSSL分支BoringSSL](../Page/Google.md "wikilink")\[23\]，计划与OpenSSL和LibreSSL的开发者合作。\[24\]\[25\]\[26\]
+2014年6月，[Google](../Page/Google.md "wikilink")发布了自己的OpenSSL分支BoringSSL\[23\]，计划与OpenSSL和LibreSSL的开发者合作。\[24\]\[25\]\[26\]
 
 ### GmSSL
 
-支持SM2/SM3/SM4/SM9/ZUC等[商用密码](../Page/商用密码.md "wikilink")，主要使用[SM2替代](../Page/SM2.md "wikilink")[RSA](https://zh.wikipedia.org/wiki/RSA "wikilink")/[Diffie-Hellman](https://zh.wikipedia.org/wiki/Diffie-Hellman "wikilink")/[ECDSA](https://zh.wikipedia.org/wiki/ECDSA "wikilink")/[ECDH](https://zh.wikipedia.org/wiki/ECDH "wikilink")，[SM3替代](../Page/SM3.md "wikilink")[MD5](../Page/MD5.md "wikilink")/[SHA-1](../Page/SHA-1.md "wikilink")/[SHA-256](https://zh.wikipedia.org/wiki/SHA-256 "wikilink")，[SM4替代](../Page/SM4.md "wikilink")[DES](https://zh.wikipedia.org/wiki/DES "wikilink")/[AES](https://zh.wikipedia.org/wiki/AES "wikilink")，[SM9替代](../Page/SM9.md "wikilink")[PKI](https://zh.wikipedia.org/wiki/PKI "wikilink")/[CA体系](https://zh.wikipedia.org/wiki/CA "wikilink")，所有代码在[GitHub上开源](../Page/GitHub.md "wikilink")\[27\]，并由[北京大学信息安全实验室开发和维护](../Page/北京大学.md "wikilink")\[28\]。此项目获得2015年度中国Linux软件大赛二等奖（一等奖空缺）\[29\]。
+支持SM2/SM3/SM4/SM9/ZUC等[商用密码](../Page/商用密码.md "wikilink")，主要使用[SM2](../Page/SM2.md "wikilink")替代[RSA](https://zh.wikipedia.org/wiki/RSA "wikilink")/[Diffie-Hellman](https://zh.wikipedia.org/wiki/Diffie-Hellman "wikilink")/[ECDSA](https://zh.wikipedia.org/wiki/ECDSA "wikilink")/[ECDH](https://zh.wikipedia.org/wiki/ECDH "wikilink")，[SM3](../Page/SM3.md "wikilink")替代[MD5](../Page/MD5.md "wikilink")/[SHA-1](../Page/SHA-1.md "wikilink")/[SHA-256](https://zh.wikipedia.org/wiki/SHA-256 "wikilink")，[SM4](../Page/SM4.md "wikilink")替代[DES](https://zh.wikipedia.org/wiki/DES "wikilink")/[AES](https://zh.wikipedia.org/wiki/AES "wikilink")，[SM9](../Page/SM9.md "wikilink")替代[PKI](https://zh.wikipedia.org/wiki/PKI "wikilink")/[CA体系](https://zh.wikipedia.org/wiki/CA "wikilink")，所有代码在[GitHub](../Page/GitHub.md "wikilink")上开源\[27\]，并由[北京大学](../Page/北京大学.md "wikilink")信息安全实验室开发和维护\[28\]。此项目获得2015年度中国Linux软件大赛二等奖（一等奖空缺）\[29\]。
 
 ## 参见
 
@@ -237,20 +225,12 @@ SSL（assl），它重新使用OpenSSL API，但提供了更简单的外部接�
 
   - [OpenSSL官方網站](https://www.openssl.org/)
   - [SSLeay文件庫](https://web.archive.org/web/20060115145739/http://www.columbia.edu/~ariel/ssleay/)
-  - [OpenSSL License vs
-    GPL](http://www.gnome.org/~markmc/openssl-and-the-gpl.html)
-  - [wget's readme
-    file](https://web.archive.org/web/20070304090407/http://svn.dotsrc.org/repo/wget/trunk/README)，including
-    the GPL with exception
-  - [mICQ COPYING
-    file](https://web.archive.org/web/20060924233706/http://www.micq.org/source/micq-cvs-stable/COPYING)，citing
-    the GPL and including the exception
-  - [OpenSSL FAQ entry on interaction between the OpenSSL and GNU
-    licenses](https://www.openssl.org/support/faq.html#LEGAL2)
+  - [OpenSSL License vs GPL](http://www.gnome.org/~markmc/openssl-and-the-gpl.html)
+  - [wget's readme file](https://web.archive.org/web/20070304090407/http://svn.dotsrc.org/repo/wget/trunk/README)，including the GPL with exception
+  - [mICQ COPYING file](https://web.archive.org/web/20060924233706/http://www.micq.org/source/micq-cvs-stable/COPYING)，citing the GPL and including the exception
+  - [OpenSSL FAQ entry on interaction between the OpenSSL and GNU licenses](https://www.openssl.org/support/faq.html#LEGAL2)
 
-[Category:加密软件](https://zh.wikipedia.org/wiki/Category:加密软件 "wikilink")
-[Category:C函式庫](https://zh.wikipedia.org/wiki/Category:C函式庫 "wikilink")
-[Category:自由安全软件](https://zh.wikipedia.org/wiki/Category:自由安全软件 "wikilink")
+[Category:加密软件](https://zh.wikipedia.org/wiki/Category:加密软件 "wikilink") [Category:C函式庫](https://zh.wikipedia.org/wiki/Category:C函式庫 "wikilink") [Category:自由安全软件](https://zh.wikipedia.org/wiki/Category:自由安全软件 "wikilink")
 
 1.  ，
 

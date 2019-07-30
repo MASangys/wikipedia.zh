@@ -7,6 +7,4 @@
   - **[唐纳德·彼得森](../Page/唐纳德·彼得森.md "wikilink")**（，曾执行任务），任务专家
   - **[斯多里·马斯格雷夫](../Page/斯多里·马斯格雷夫.md "wikilink")**（，曾执行、、、、以及任务），任务专家
 
-[Category:载人航天](https://zh.wikipedia.org/wiki/Category:载人航天 "wikilink")
-[Category:航天飞机任务](https://zh.wikipedia.org/wiki/Category:航天飞机任务 "wikilink")
-[Category:1983年科学](https://zh.wikipedia.org/wiki/Category:1983年科学 "wikilink")
+[Category:载人航天](https://zh.wikipedia.org/wiki/Category:载人航天 "wikilink") [Category:航天飞机任务](https://zh.wikipedia.org/wiki/Category:航天飞机任务 "wikilink") [Category:1983年科学](https://zh.wikipedia.org/wiki/Category:1983年科学 "wikilink")

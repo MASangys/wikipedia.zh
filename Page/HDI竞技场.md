@@ -1,5 +1,4 @@
-**HDI竞技场**（）是一座位於[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[下萨克森首府](../Page/下萨克森.md "wikilink")[漢諾威的足球場](https://zh.wikipedia.org/wiki/漢諾威 "wikilink")，球場由1959年起成為[-{zh-hans:汉诺威96;
-zh-hant:漢諾威96;}-的主場](../Page/汉诺威96足球俱乐部.md "wikilink")，可容納48,933人。
+**HDI竞技场**（）是一座位於[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[下萨克森](../Page/下萨克森.md "wikilink")首府[漢諾威的足球場](https://zh.wikipedia.org/wiki/漢諾威 "wikilink")，球場由1959年起成為[-{zh-hans:汉诺威96; zh-hant:漢諾威96;}-的主場](../Page/汉诺威96足球俱乐部.md "wikilink")，可容納48,933人。
 
 ## 歷史
 
@@ -9,6 +8,4 @@ HDI竞技场原名為**下薩克森體育場**，建於1954年，採用[第二�
 
   - [BBC世界盃球場：漢諾威](http://news.bbc.co.uk/sport1/hi/football/world_cup_2006/venues/4459048.stm)
 
-[Category:德國足球場](https://zh.wikipedia.org/wiki/Category:德國足球場 "wikilink")
-[Category:1974年世界盃足球場](https://zh.wikipedia.org/wiki/Category:1974年世界盃足球場 "wikilink")
-[Category:2006年世界盃足球場](https://zh.wikipedia.org/wiki/Category:2006年世界盃足球場 "wikilink")
+[Category:德國足球場](https://zh.wikipedia.org/wiki/Category:德國足球場 "wikilink") [Category:1974年世界盃足球場](https://zh.wikipedia.org/wiki/Category:1974年世界盃足球場 "wikilink") [Category:2006年世界盃足球場](https://zh.wikipedia.org/wiki/Category:2006年世界盃足球場 "wikilink")

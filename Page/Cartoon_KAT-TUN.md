@@ -1,5 +1,4 @@
-《**Cartoon
-KAT-TUN**》（）是一個由[日本電視台製作播放的](../Page/日本電視台.md "wikilink")[綜藝電視節目](../Page/綜藝節目.md "wikilink")，播放期為2007年4月4日至2010年3月24日之間、[日本當地時間每週日的](../Page/日本標準時間.md "wikilink")23:55至0:26。該節目是由男子偶像團體[KAT-TUN主持](../Page/KAT-TUN.md "wikilink")，是KAT-TUN諸多冠名電視節目之一。
+《**Cartoon KAT-TUN**》（）是一個由[日本電視台](../Page/日本電視台.md "wikilink")製作播放的[綜藝電視節目](../Page/綜藝節目.md "wikilink")，播放期為2007年4月4日至2010年3月24日之間、[日本當地時間每週日的](../Page/日本標準時間.md "wikilink")23:55至0:26。該節目是由男子偶像團體[KAT-TUN](../Page/KAT-TUN.md "wikilink")主持，是KAT-TUN諸多冠名電視節目之一。
 
 ## 演出者
 
@@ -23,10 +22,9 @@ KAT-TUN**》（）是一個由[日本電視台製作播放的](../Page/日本電
 
 ### DAT-TUN5
 
-  - [KAT-TUN以射飛鏢的方式與來賓對決](../Page/KAT-TUN.md "wikilink")。在五乘五的方格中，先射中五個連成直線或斜線的方格的一方，即為勝者。
+  - [KAT-TUN](../Page/KAT-TUN.md "wikilink")以射飛鏢的方式與來賓對決。在五乘五的方格中，先射中五個連成直線或斜線的方格的一方，即為勝者。
   - 如果來賓勝利，可獲得節目特製飛鏢；反之落敗的話，則沒收來賓的飛鏢。
-  - 第5集與[Avril
-    Lavigne對決時](https://zh.wikipedia.org/wiki/Avril_Lavigne "wikilink")，特別修改規則為先射中3C（即中心點）的隊伍為勝。
+  - 第5集與[Avril Lavigne對決時](https://zh.wikipedia.org/wiki/Avril_Lavigne "wikilink")，特別修改規則為先射中3C（即中心點）的隊伍為勝。
 
 ## 來賓
 
@@ -95,7 +93,7 @@ DAT-TUN5：<a href="https://zh.wikipedia.org/wiki/Avril_Lavigne" title="wikilink
 <td><p>5月9日</p></td>
 <td><p>100Q：<a href="https://zh.wikipedia.org/wiki/mihimaru_GT" title="wikilink">mihimaru GT</a><br />
 DAT-TUN5：<a href="https://zh.wikipedia.org/wiki/所喬治" title="wikilink">所喬治</a></p></td>
-<td><p><a href="../Page/赤西仁.md" title="wikilink">赤西仁回國後初演出</a></p></td>
+<td><p><a href="../Page/赤西仁.md" title="wikilink">赤西仁</a>回國後初演出</p></td>
 <td><p>5.1%</p></td>
 <td><p>Jumpin' up（<a href="../Page/KAT-TUN.md" title="wikilink">KAT-TUN</a>）</p></td>
 </tr>
@@ -544,7 +542,7 @@ Cartoon town club：<a href="https://zh.wikipedia.org/wiki/Crystal_Kay" title="w
 <td><p>57</p></td>
 <td><p>5月7日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/友近" title="wikilink">友近</a></p></td>
-<td><p>友近和<a href="../Page/KAT-TUN.md" title="wikilink">KAT-TUN即興戲劇表演挑戰</a></p></td>
+<td><p>友近和<a href="../Page/KAT-TUN.md" title="wikilink">KAT-TUN</a>即興戲劇表演挑戰</p></td>
 <td><p>5.5%</p></td>
 <td></td>
 </tr>
@@ -1271,14 +1269,14 @@ Mini Stage：<a href="../Page/White_X&#39;mas.md" title="wikilink">White X'mas</
 <td><p>141</p></td>
 <td><p>1月6日</p></td>
 <td><p><a href="../Page/水川麻美.md" title="wikilink">水川麻美</a>・Cream(上田晉也・有田哲平)・松子DELUXE</p></td>
-<td><p>［<a href="../Page/KAT-TUN之前輩請教教我!大人的守則100!.md" title="wikilink">KAT-TUN之前輩請教教我!大人的守則100!part</a>３］未公開SP(前篇)</p></td>
+<td><p>［<a href="../Page/KAT-TUN之前輩請教教我!大人的守則100!.md" title="wikilink">KAT-TUN之前輩請教教我!大人的守則100!</a>part３］未公開SP(前篇)</p></td>
 <td><p>4.4%</p></td>
 </tr>
 <tr class="even">
 <td><p>142</p></td>
 <td><p>1月13日</p></td>
 <td><p><a href="../Page/水川麻美.md" title="wikilink">水川麻美</a>・Cream(上田晉也・有田哲平)・松子DELUXE</p></td>
-<td><p>［<a href="../Page/KAT-TUN之前輩請教教我!大人的守則100!.md" title="wikilink">KAT-TUN之前輩請教教我!大人的守則100!part</a>３］未公開SP(後篇)</p></td>
+<td><p>［<a href="../Page/KAT-TUN之前輩請教教我!大人的守則100!.md" title="wikilink">KAT-TUN之前輩請教教我!大人的守則100!</a>part３］未公開SP(後篇)</p></td>
 <td><p>5.0%</p></td>
 </tr>
 <tr class="odd">
@@ -1368,14 +1366,10 @@ Mini Stage：<a href="../Page/White_X&#39;mas.md" title="wikilink">White X'mas</
 
 ## 外部連結
 
-  - [カートゥンKAT-TUN](https://web.archive.org/web/20070623050804/http://www.ntv.co.jp/cartoonkat-tun/)
-    節目官網
-  - [カートゥンKAT-TUN｜お父さんBLOG](https://web.archive.org/web/20071024122914/http://www1.ntv.co.jp/cartoonkat-tun/diary/)
-    由 カートゥンKAT-TUN AD 原田大輔提供的節目情報
+  - [カートゥンKAT-TUN](https://web.archive.org/web/20070623050804/http://www.ntv.co.jp/cartoonkat-tun/) 節目官網
+  - [カートゥンKAT-TUN｜お父さんBLOG](https://web.archive.org/web/20071024122914/http://www1.ntv.co.jp/cartoonkat-tun/diary/) 由 カートゥンKAT-TUN AD 原田大輔提供的節目情報
 
-[Category:KAT-TUN](https://zh.wikipedia.org/wiki/Category:KAT-TUN "wikilink")
-[Category:日本電視台綜藝節目](https://zh.wikipedia.org/wiki/Category:日本電視台綜藝節目 "wikilink")
-[Category:2007年日本電視節目](https://zh.wikipedia.org/wiki/Category:2007年日本電視節目 "wikilink")
+[Category:KAT-TUN](https://zh.wikipedia.org/wiki/Category:KAT-TUN "wikilink") [Category:日本電視台綜藝節目](https://zh.wikipedia.org/wiki/Category:日本電視台綜藝節目 "wikilink") [Category:2007年日本電視節目](https://zh.wikipedia.org/wiki/Category:2007年日本電視節目 "wikilink")
 
 1.  赤西仁因季節性流感而缺席。
 2.  赤西仁因季節性流感而缺席。

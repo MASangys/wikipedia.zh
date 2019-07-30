@@ -1,20 +1,16 @@
-《**遊戲王GX**》（），是由日本[東京電視台播出的電視動畫](../Page/東京電視台.md "wikilink")，全180集。\[1\]\[2\]台灣由[中華電視公司於](../Page/中華電視公司.md "wikilink")2005年12月18日到2006年12月10日播放第一季為止。标题中的GX是「Generation
-next（下一世代）」的缩写。另外設計主要角色和怪物的原案是由原作者[高桥和希負責](https://zh.wikipedia.org/wiki/高桥和希 "wikilink")。
+《**遊戲王GX**》（），是由日本[東京電視台](../Page/東京電視台.md "wikilink")播出的電視動畫，全180集。\[1\]\[2\]台灣由[中華電視公司](../Page/中華電視公司.md "wikilink")於2005年12月18日到2006年12月10日播放第一季為止。标题中的GX是「Generation next（下一世代）」的缩写。另外設計主要角色和怪物的原案是由原作者[高桥和希負責](https://zh.wikipedia.org/wiki/高桥和希 "wikilink")。
 
 ## 故事大綱
 
 ### 三幻魔篇（1年級）
 
-遊城十代在前往决斗學院實技測驗的途中，與傳說中的決鬥者——武藤遊戲偶遇，並從武藤遊戲手中獲得一張幸運卡「羽翼栗子球」。
-為了奪取被封印在決鬥學院地底遺跡中，擁有毀滅世界力量的三幻魔「幻魔皇拉比耶魯」、「降雷皇哈蒙」、「神炎皇烏利亞」，出現名為七星（SEVEN
-STARS）的神秘團體。遊城十代、天上院明日香、[萬丈目準](https://zh.wikipedia.org/wiki/萬丈目準 "wikilink")、三澤大地、丸藤亮、庫洛諾斯老師和大德寺老師，被選為七精門鑰匙的守護者。每場決鬥都是黑暗決鬥(三澤大地與塔妮雅的決鬥例外)，輸了的話靈魂會被封印。後來意外發現大德寺老師也是七星之一，十代打敗大德寺老師後知道了事情的原委，並得到"賢者之石"的卡片
+遊城十代在前往决斗學院實技測驗的途中，與傳說中的決鬥者——武藤遊戲偶遇，並從武藤遊戲手中獲得一張幸運卡「羽翼栗子球」。 為了奪取被封印在決鬥學院地底遺跡中，擁有毀滅世界力量的三幻魔「幻魔皇拉比耶魯」、「降雷皇哈蒙」、「神炎皇烏利亞」，出現名為七星（SEVEN STARS）的神秘團體。遊城十代、天上院明日香、[萬丈目準](https://zh.wikipedia.org/wiki/萬丈目準 "wikilink")、三澤大地、丸藤亮、庫洛諾斯老師和大德寺老師，被選為七精門鑰匙的守護者。每場決鬥都是黑暗決鬥(三澤大地與塔妮雅的決鬥例外)，輸了的話靈魂會被封印。後來意外發現大德寺老師也是七星之一，十代打敗大德寺老師後知道了事情的原委，並得到"賢者之石"的卡片
 
 ### 尤貝爾篇（3年級）
 
 光之波動事件結束後，鮫島校長為了提高學生的決鬥水平，從決鬥學院四所分校請來約翰·安德森、歐斯汀·奧布萊恩、吉姆·闊克戴爾·庫克、亞蒙·加蘭姆和眼鏡蛇教授。
 
-按照眼鏡蛇教授的指導方針“公开决斗（Disclosure
-Duel）”，讓學生戴著“Dis-belt”進行決鬥，然而眾人漸漸發覺事情不單純，於是展開調查。因為"Dis-belt"的效果，倒致「尤貝爾」復活，決鬥學院被尤貝爾傳送到異世界，突然來到異世界頓時讓眾人亂了頭緒，還得對抗尤貝爾利用學生製造出來的僵屍，為了迷失在異世界的約翰，在這裡每場決鬥都必須賭上性命。不斷獨自前進的遊城十代，在同伴死亡和指摘下，被內心黑暗吞噬成了「霸王十代」，因為吉姆和奧布萊恩的犧牲終於讓他恢復正常，可是自責的他無法再使用融合。
+按照眼鏡蛇教授的指導方針“公开决斗（Disclosure Duel）”，讓學生戴著“Dis-belt”進行決鬥，然而眾人漸漸發覺事情不單純，於是展開調查。因為"Dis-belt"的效果，倒致「尤貝爾」復活，決鬥學院被尤貝爾傳送到異世界，突然來到異世界頓時讓眾人亂了頭緒，還得對抗尤貝爾利用學生製造出來的僵屍，為了迷失在異世界的約翰，在這裡每場決鬥都必須賭上性命。不斷獨自前進的遊城十代，在同伴死亡和指摘下，被內心黑暗吞噬成了「霸王十代」，因為吉姆和奧布萊恩的犧牲終於讓他恢復正常，可是自責的他無法再使用融合。
 
 ## 製作人員
 
@@ -30,8 +26,7 @@ Duel）”，讓學生戴著“Dis-belt”進行決鬥，然而眾人漸漸發�
   - 攝影監督→攝影兼修：枝光弘明→星知良
   - 音樂：蓑部雄崇
   - 音樂製作人：淺田裕之
-  - 錄音監督：[三矢雄二](../Page/三矢雄二.md "wikilink") （第1－151話） →平光琢也 （第152－156話）
-    →不在 （第157－話）
+  - 錄音監督：[三矢雄二](../Page/三矢雄二.md "wikilink") （第1－151話） →平光琢也 （第152－156話） →不在 （第157－話）
   - 音響監督：平光琢也
   - 製作人：山川典夫（[東京電視台](../Page/東京電視台.md "wikilink")）、笹田直樹→實松照晃（[NAS](../Page/日本AD_SYSTEMS.md "wikilink")）
   - 動畫製作人：長谷川徹→田中日出男（GALLOP）
@@ -1847,21 +1842,7 @@ You Bong Hyun</p></td>
   - [動畫官方網站](http://www.tv-tokyo.co.jp/yuugiou)
 
   -
-[Category:2004年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2004年東京電視網動畫 "wikilink")
-[Category:遊戲王](https://zh.wikipedia.org/wiki/Category:遊戲王 "wikilink")
-[Category:亞洲電視外購動畫](https://zh.wikipedia.org/wiki/Category:亞洲電視外購動畫 "wikilink")
-[Category:華視外購動畫](https://zh.wikipedia.org/wiki/Category:華視外購動畫 "wikilink")
-[Category:緯來電視外購動畫](https://zh.wikipedia.org/wiki/Category:緯來電視外購動畫 "wikilink")
-[Category:V_Jump](https://zh.wikipedia.org/wiki/Category:V_Jump "wikilink")
-[Category:交換卡片遊戲題材作品](https://zh.wikipedia.org/wiki/Category:交換卡片遊戲題材作品 "wikilink")
-[Category:科幻動畫](https://zh.wikipedia.org/wiki/Category:科幻動畫 "wikilink")
-[Category:奇幻動畫](https://zh.wikipedia.org/wiki/Category:奇幻動畫 "wikilink")
-[Category:架空專校背景作品](https://zh.wikipedia.org/wiki/Category:架空專校背景作品 "wikilink")
-[Category:GALLOP](https://zh.wikipedia.org/wiki/Category:GALLOP "wikilink")
+[Category:2004年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2004年東京電視網動畫 "wikilink") [Category:遊戲王](https://zh.wikipedia.org/wiki/Category:遊戲王 "wikilink") [Category:亞洲電視外購動畫](https://zh.wikipedia.org/wiki/Category:亞洲電視外購動畫 "wikilink") [Category:華視外購動畫](https://zh.wikipedia.org/wiki/Category:華視外購動畫 "wikilink") [Category:緯來電視外購動畫](https://zh.wikipedia.org/wiki/Category:緯來電視外購動畫 "wikilink") [Category:V_Jump](https://zh.wikipedia.org/wiki/Category:V_Jump "wikilink") [Category:交換卡片遊戲題材作品](https://zh.wikipedia.org/wiki/Category:交換卡片遊戲題材作品 "wikilink") [Category:科幻動畫](https://zh.wikipedia.org/wiki/Category:科幻動畫 "wikilink") [Category:奇幻動畫](https://zh.wikipedia.org/wiki/Category:奇幻動畫 "wikilink") [Category:架空專校背景作品](https://zh.wikipedia.org/wiki/Category:架空專校背景作品 "wikilink") [Category:GALLOP](https://zh.wikipedia.org/wiki/Category:GALLOP "wikilink")
 
-1.  [Yu-Gi-Oh\! GX
-    (TV)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4481)[Anime
-    News
-    Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")
-2.  [遊☆戯☆王 デュエルモンスターズ GX
-    (2004～)](http://www.allcinema.net/prog/show_c.php?num_c=321469)allcinema
+1.  [Yu-Gi-Oh\! GX (TV)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4481)[Anime News Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")
+2.  [遊☆戯☆王 デュエルモンスターズ GX (2004～)](http://www.allcinema.net/prog/show_c.php?num_c=321469)allcinema

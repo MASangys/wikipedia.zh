@@ -1,10 +1,8 @@
-是1992年根据[金庸小说](../Page/金庸.md "wikilink")《[笑傲江湖](../Page/笑傲江湖.md "wikilink")》改编的一部电影，由[李连杰和](../Page/李连杰.md "wikilink")[林青霞分别扮演](../Page/林青霞.md "wikilink")[令狐冲与](../Page/令狐冲.md "wikilink")[東方不敗](https://zh.wikipedia.org/wiki/東方不敗 "wikilink")，其他演员还有[關之琳](../Page/關之琳.md "wikilink")、[李嘉欣等](../Page/李嘉欣.md "wikilink")。
+是1992年根据[金庸](../Page/金庸.md "wikilink")小说《[笑傲江湖](../Page/笑傲江湖.md "wikilink")》改编的一部电影，由[李连杰](../Page/李连杰.md "wikilink")和[林青霞](../Page/林青霞.md "wikilink")分别扮演[令狐冲](../Page/令狐冲.md "wikilink")与[東方不敗](https://zh.wikipedia.org/wiki/東方不敗 "wikilink")，其他演员还有[關之琳](../Page/關之琳.md "wikilink")、[李嘉欣](../Page/李嘉欣.md "wikilink")等。
 
 ## 劇情
 
-華山大弟子令狐沖與[岳靈珊前往任盈盈所在野店與大暴牙](../Page/岳靈珊.md "wikilink")、傻屁股、陸大有等六個師兄弟相會，欲一同退出江湖。卻受任盈盈之託尋找其失蹤的父親，日月神教前教主任我行，終卷入血腥的江湖紛爭。
-[東方不敗取任我行而代之為教主](https://zh.wikipedia.org/wiki/東方不敗 "wikilink")，野心勃勃的他獲得武林秘笈《[葵花寶典](https://zh.wikipedia.org/wiki/葵花寶典 "wikilink")》後，不惜自宮苦練，望一統天下。其身心因為葵花寶典之故卻越發女性化。一日，令狐與東方相遇，將其誤認為女性，旋即互生情意。
-東方礙於自己是男兒身，遂命愛妾詩詩在黑暗中與令狐纏綿，而伺機夜襲野店欲殺任氏父女，一眾華山弟子被殺。令狐決心上黑木崖復仇，與東方決一生死……
+華山大弟子令狐沖與[岳靈珊](../Page/岳靈珊.md "wikilink")前往任盈盈所在野店與大暴牙、傻屁股、陸大有等六個師兄弟相會，欲一同退出江湖。卻受任盈盈之託尋找其失蹤的父親，日月神教前教主任我行，終卷入血腥的江湖紛爭。 [東方不敗取任我行而代之為教主](https://zh.wikipedia.org/wiki/東方不敗 "wikilink")，野心勃勃的他獲得武林秘笈《[葵花寶典](https://zh.wikipedia.org/wiki/葵花寶典 "wikilink")》後，不惜自宮苦練，望一統天下。其身心因為葵花寶典之故卻越發女性化。一日，令狐與東方相遇，將其誤認為女性，旋即互生情意。 東方礙於自己是男兒身，遂命愛妾詩詩在黑暗中與令狐纏綿，而伺機夜襲野店欲殺任氏父女，一眾華山弟子被殺。令狐決心上黑木崖復仇，與東方決一生死……
 天下風雲出我輩，一入江湖歲月催，皇圖霸業談笑中，不勝人生一場醉。—— **令狐沖（李連杰）**與**東方不敗（林青霞）**飲酒時所朗誦。
 提劍跨騎揮鬼雨，白骨如山鳥驚飛，塵事如潮人如水，只嘆江湖幾人回。—— **岳靈珊（李嘉欣）**將劍留在馬墳時所讀。
 
@@ -145,8 +143,7 @@
   - 字幕：[晶藝字幕公司](https://zh.wikipedia.org/wiki/晶藝字幕公司 "wikilink")
   - 錄音室：[九龍灣電影後期製作有限公司](https://zh.wikipedia.org/wiki/九龍灣電影後期製作有限公司 "wikilink")
   - 原著音樂：[袁卓繁](https://zh.wikipedia.org/wiki/袁卓繁 "wikilink")
-  - 器材：[Salon Films (HK)
-    Ltd.](https://zh.wikipedia.org/wiki/Salon_Films_\(HK\)_Ltd. "wikilink")
+  - 器材：[Salon Films (HK) Ltd.](https://zh.wikipedia.org/wiki/Salon_Films_\(HK\)_Ltd. "wikilink")
   - 沖印：[東方電影沖印有限公司](https://zh.wikipedia.org/wiki/東方電影沖印有限公司 "wikilink")
 
 ## 電影音樂
@@ -228,12 +225,9 @@
 
 ## 角色原型
 
-徐克多次提及東方不敗的角色靈感為新蜀山劍俠中林青霞的血魔造型。
-徐克：「我接觸東方不敗的第一印象就即時聯想起蜀山裡林青霞的妖女造型，一個結合邪惡與美麗的造型。」
-香港電影類型論 羅卡 p54
+徐克多次提及東方不敗的角色靈感為新蜀山劍俠中林青霞的血魔造型。 徐克：「我接觸東方不敗的第一印象就即時聯想起蜀山裡林青霞的妖女造型，一個結合邪惡與美麗的造型。」 香港電影類型論 羅卡 p54
 
-他在永遠的林青霞一書，偶像來了我們的偶像林青霞特輯中曾重複類似的故事。我們的偶像中尤其詳細。
-另外，林青霞和施南生也曾在著作和正式的訪問中提及此事，足見東方不敗一角令演員和創造者皆再三回味。
+他在永遠的林青霞一書，偶像來了我們的偶像林青霞特輯中曾重複類似的故事。我們的偶像中尤其詳細。 另外，林青霞和施南生也曾在著作和正式的訪問中提及此事，足見東方不敗一角令演員和創造者皆再三回味。
 
 ## 電影影響
 
@@ -264,10 +258,9 @@
 
 ## 其他
 
-有趣的是，後來的觀眾開始把《笑傲江湖II東方不敗》和《東方不敗之風雲再起》等港產武俠片視作「[邪典電影](https://zh.wikipedia.org/wiki/邪典電影 "wikilink")」（Cult
-Film）來欣賞。
+有趣的是，後來的觀眾開始把《笑傲江湖II東方不敗》和《東方不敗之風雲再起》等港產武俠片視作「[邪典電影](https://zh.wikipedia.org/wiki/邪典電影 "wikilink")」（Cult Film）來欣賞。
 
-日本動畫《[機動武鬥傳G鋼彈](https://zh.wikipedia.org/wiki/機動武鬥傳G鋼彈 "wikilink")》導演[今川泰宏受香港電影影響甚深](../Page/今川泰宏.md "wikilink")，動畫中主角的師父名為「東方不敗」，為電影「笑傲江湖二之東方不敗」同名主角；東方不敗的愛馬取名「風雲再起」，名稱來自電影東方不敗之風雲再起，所以東方不敗的愛駒就起名為風雲再起。
+日本動畫《[機動武鬥傳G鋼彈](https://zh.wikipedia.org/wiki/機動武鬥傳G鋼彈 "wikilink")》導演[今川泰宏](../Page/今川泰宏.md "wikilink")受香港電影影響甚深，動畫中主角的師父名為「東方不敗」，為電影「笑傲江湖二之東方不敗」同名主角；東方不敗的愛馬取名「風雲再起」，名稱來自電影東方不敗之風雲再起，所以東方不敗的愛駒就起名為風雲再起。
 
 ## 外部連結
 
@@ -283,11 +276,6 @@ Film）來欣賞。
 
 [悅博副刊第一期 東方不敗二十年](http://blog.sina.com.cn/lm/z/Swordsman2/)
 
-[Category:程小東電影](https://zh.wikipedia.org/wiki/Category:程小東電影 "wikilink")
-[Category:1990年代香港電影作品](https://zh.wikipedia.org/wiki/Category:1990年代香港電影作品 "wikilink")
-[Category:續集電影](https://zh.wikipedia.org/wiki/Category:續集電影 "wikilink")
-[Category:笑傲江湖改編影片](https://zh.wikipedia.org/wiki/Category:笑傲江湖改編影片 "wikilink")
-[Category:香港动作片](https://zh.wikipedia.org/wiki/Category:香港动作片 "wikilink")
-[Category:香港電影金像獎最佳服裝造型設計獲獎電影](https://zh.wikipedia.org/wiki/Category:香港電影金像獎最佳服裝造型設計獲獎電影 "wikilink")
+[Category:程小東電影](https://zh.wikipedia.org/wiki/Category:程小東電影 "wikilink") [Category:1990年代香港電影作品](https://zh.wikipedia.org/wiki/Category:1990年代香港電影作品 "wikilink") [Category:續集電影](https://zh.wikipedia.org/wiki/Category:續集電影 "wikilink") [Category:笑傲江湖改編影片](https://zh.wikipedia.org/wiki/Category:笑傲江湖改編影片 "wikilink") [Category:香港动作片](https://zh.wikipedia.org/wiki/Category:香港动作片 "wikilink") [Category:香港電影金像獎最佳服裝造型設計獲獎電影](https://zh.wikipedia.org/wiki/Category:香港電影金像獎最佳服裝造型設計獲獎電影 "wikilink")
 
 1.

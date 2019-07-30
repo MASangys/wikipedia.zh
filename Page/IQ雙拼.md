@@ -1,12 +1,10 @@
-[Iqshow.jpg](https://zh.wikipedia.org/wiki/File:Iqshow.jpg "fig:Iqshow.jpg")
-**IQ雙拼**（Atypical IQ
-Show，節目英文名稱依然不變）是一個由[香港有線電視製作的兒童節目](../Page/香港有線電視.md "wikilink")。
+[Iqshow.jpg](https://zh.wikipedia.org/wiki/File:Iqshow.jpg "fig:Iqshow.jpg") **IQ雙拼**（Atypical IQ Show，節目英文名稱依然不變）是一個由[香港有線電視](../Page/香港有線電視.md "wikilink")製作的兒童節目。
 
 IQ雙拼由2004年2月至2006年7月14日下午5時30分至6時30分，在[香港有線電視兒童台播放](https://zh.wikipedia.org/wiki/香港有線電視兒童台 "wikilink")。主持人為[區焯文](../Page/區焯文.md "wikilink")（Amen）和[劉蜀永](https://zh.wikipedia.org/wiki/劉蜀永 "wikilink")（Bean）。IQ雙拼多數為現場直播，翌日早上9時至10時、下午2時至3時（2006年7月初至7月15日）亦會重播。
 
 IQ雙拼前身為[IQ非典型](https://zh.wikipedia.org/wiki/IQ非典型 "wikilink")，由2003年4月起播放。
 
-IQ雙拼在2006年7月14日播映完最後一集後，2006年7月17日由另一兒童節目[智趣大本營取代](../Page/智趣大本營.md "wikilink")。
+IQ雙拼在2006年7月14日播映完最後一集後，2006年7月17日由另一兒童節目[智趣大本營](../Page/智趣大本營.md "wikilink")取代。
 
 當時很多人不太熟悉Amen和Bean，所以最初以為他們在IQ雙拼首度亮相，其實他們早已在2002年[校園爭霸戰節目中的](https://zh.wikipedia.org/wiki/校園爭霸戰 "wikilink")「校園特攻」首度在[兒童台亮相](https://zh.wikipedia.org/wiki/香港有線電視兒童台 "wikilink")。
 
@@ -30,14 +28,11 @@ IQ雙拼亦有多項特備節目，包括《[校園爭霸戰](https://zh.wikiped
 
 ## 歷史
 
-[Funnycamp.JPG](https://zh.wikipedia.org/wiki/File:Funnycamp.JPG "fig:Funnycamp.JPG")
-
-IQ雙拼前身IQ非典型，由2003年4月起至2004年2月6日播放，內容與IQ雙拼相似。由Amen和Bean主持，在下午5時至6時播放。著名環節包括《IQ擂台陣》。
+[Funnycamp.JPG](https://zh.wikipedia.org/wiki/File:Funnycamp.JPG "fig:Funnycamp.JPG")  IQ雙拼前身IQ非典型，由2003年4月起至2004年2月6日播放，內容與IQ雙拼相似。由Amen和Bean主持，在下午5時至6時播放。著名環節包括《IQ擂台陣》。
 
 2004年2月9日，IQ非典型改名為IQ雙拼，內容稍為改動，拍攝場地大為改變，遊戲亦大幅增加。但期間亦多次改動拍攝場地。IQ雙拼亦由Amen和Bean主持。
 
-智趣大本營（Funny
-Camp）取代IQ雙拼，由2006年7月17日起5時30分至6時30分播放。智趣大本營除了由Amen和Bean主持，主持人會增加，環節亦會更豐富。小朋友可以前往拍攝場地，和主持人一起玩遊戲和暢談話題。
+智趣大本營（Funny Camp）取代IQ雙拼，由2006年7月17日起5時30分至6時30分播放。智趣大本營除了由Amen和Bean主持，主持人會增加，環節亦會更豐富。小朋友可以前往拍攝場地，和主持人一起玩遊戲和暢談話題。
 
 ## 主持人
 
@@ -55,5 +50,4 @@ Camp）取代IQ雙拼，由2006年7月17日起5時30分至6時30分播放。智�
 
   - [IQ雙拼網頁](https://web.archive.org/web/20060618202404/http://www.cabletv.com.hk/what%27son/acup.html)
 
-[Category:香港有線電視節目](https://zh.wikipedia.org/wiki/Category:香港有線電視節目 "wikilink")
-[Category:香港兒童電視節目](https://zh.wikipedia.org/wiki/Category:香港兒童電視節目 "wikilink")
+[Category:香港有線電視節目](https://zh.wikipedia.org/wiki/Category:香港有線電視節目 "wikilink") [Category:香港兒童電視節目](https://zh.wikipedia.org/wiki/Category:香港兒童電視節目 "wikilink")

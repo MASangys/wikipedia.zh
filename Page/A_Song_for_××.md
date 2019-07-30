@@ -1,7 +1,4 @@
-《**A Song for
-xx**\[1\]》（給xx之歌）是日本歌手[濱崎步的第一張專輯](../Page/濱崎步.md "wikilink")，1999年1月1日於日本發售。濱崎步在這張專輯發行前，單曲銷售的成績並沒有特別的亮眼。但這張專輯卻出乎意料的首周佔據公信榜排行第一位，同時首周（雙週合併計算）銷量高達548,210張，成為她標誌性的一張專輯。而《A
-Song for xx》一曲更成為濱崎步出道20年以來的地位重要的歌曲，於其銷售量最高的一張精選輯《[A
-BEST](../Page/A_BEST.md "wikilink")》內，她重新翻唱了這一曲作為主打。
+《**A Song for xx**\[1\]》（給xx之歌）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")的第一張專輯，1999年1月1日於日本發售。濱崎步在這張專輯發行前，單曲銷售的成績並沒有特別的亮眼。但這張專輯卻出乎意料的首周佔據公信榜排行第一位，同時首周（雙週合併計算）銷量高達548,210張，成為她標誌性的一張專輯。而《A Song for xx》一曲更成為濱崎步出道20年以來的地位重要的歌曲，於其銷售量最高的一張精選輯《[A BEST](../Page/A_BEST.md "wikilink")》內，她重新翻唱了這一曲作為主打。
 
 ## 說明
 
@@ -31,11 +28,6 @@ BEST](../Page/A_BEST.md "wikilink")》內，她重新翻唱了這一曲作為主
 
 ## 參考資料
 
-[Category:濱崎步專輯](https://zh.wikipedia.org/wiki/Category:濱崎步專輯 "wikilink")
-[Category:1999年音樂專輯](https://zh.wikipedia.org/wiki/Category:1999年音樂專輯 "wikilink")
-[Category:RIAJ百萬認證專輯](https://zh.wikipedia.org/wiki/Category:RIAJ百萬認證專輯 "wikilink")
-[Category:Oricon百萬銷量達成專輯](https://zh.wikipedia.org/wiki/Category:Oricon百萬銷量達成專輯 "wikilink")
-[Category:1999年Oricon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1999年Oricon專輯月榜冠軍作品 "wikilink")
-[Category:1999年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1999年Oricon專輯週榜冠軍作品 "wikilink")
+[Category:濱崎步專輯](https://zh.wikipedia.org/wiki/Category:濱崎步專輯 "wikilink") [Category:1999年音樂專輯](https://zh.wikipedia.org/wiki/Category:1999年音樂專輯 "wikilink") [Category:RIAJ百萬認證專輯](https://zh.wikipedia.org/wiki/Category:RIAJ百萬認證專輯 "wikilink") [Category:Oricon百萬銷量達成專輯](https://zh.wikipedia.org/wiki/Category:Oricon百萬銷量達成專輯 "wikilink") [Category:1999年Oricon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1999年Oricon專輯月榜冠軍作品 "wikilink") [Category:1999年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1999年Oricon專輯週榜冠軍作品 "wikilink")
 
 1.  「××」不發音，念作「A Song for」。

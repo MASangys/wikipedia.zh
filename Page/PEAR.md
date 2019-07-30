@@ -1,7 +1,4 @@
-**PEAR**（**P**HP **E**xtension and **A**pplication **R**epository）是由Stig
-S. Bakken於2000年在[PHP開發者會議](../Page/PHP.md "wikilink")（PHP Developers'
-Meeting,
-PDM）上提出\[1\]，目的是實做可以重複使用的[函式庫來提供PHP社群使用](../Page/函式庫.md "wikilink")。\[2\]
+**PEAR**（**P**HP **E**xtension and **A**pplication **R**epository）是由Stig S. Bakken於2000年在[PHP](../Page/PHP.md "wikilink")開發者會議（PHP Developers' Meeting, PDM）上提出\[1\]，目的是實做可以重複使用的[函式庫](../Page/函式庫.md "wikilink")來提供PHP社群使用。\[2\]
 
 這個計畫的目標為：
 
@@ -40,8 +37,7 @@ PDM）上提出\[1\]，目的是實做可以重複使用的[函式庫來提供PH
   - [PHP](../Page/PHP.md "wikilink")
   - Processing
   - Science
-  - [Semantic
-    Web](https://zh.wikipedia.org/wiki/Semantic_Web "wikilink")
+  - [Semantic Web](https://zh.wikipedia.org/wiki/Semantic_Web "wikilink")
   - Streams
   - Structures
   - System
@@ -60,9 +56,7 @@ PDM）上提出\[1\]，目的是實做可以重複使用的[函式庫來提供PH
 
 {{-}}
 
-[Category:PHP软件](https://zh.wikipedia.org/wiki/Category:PHP软件 "wikilink")
-[Category:Web应用框架](https://zh.wikipedia.org/wiki/Category:Web应用框架 "wikilink")
-[Category:自由软件包管理系统](https://zh.wikipedia.org/wiki/Category:自由软件包管理系统 "wikilink")
+[Category:PHP软件](https://zh.wikipedia.org/wiki/Category:PHP软件 "wikilink") [Category:Web应用框架](https://zh.wikipedia.org/wiki/Category:Web应用框架 "wikilink") [Category:自由软件包管理系统](https://zh.wikipedia.org/wiki/Category:自由软件包管理系统 "wikilink")
 
 1.
 2.

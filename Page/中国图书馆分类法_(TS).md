@@ -1,10 +1,8 @@
-  - TS
-    [轻工业](https://zh.wikipedia.org/wiki/轻工业 "wikilink")、[手工业](https://zh.wikipedia.org/wiki/手工业 "wikilink")
+  - TS [轻工业](https://zh.wikipedia.org/wiki/轻工业 "wikilink")、[手工业](https://zh.wikipedia.org/wiki/手工业 "wikilink")
 
 :\*TS0 一般性问题
 
-:\*TS1
-[纺织工业](https://zh.wikipedia.org/wiki/纺织工业 "wikilink")、[染整工业](https://zh.wikipedia.org/wiki/染整工业 "wikilink")
+:\*TS1 [纺织工业](https://zh.wikipedia.org/wiki/纺织工业 "wikilink")、[染整工业](https://zh.wikipedia.org/wiki/染整工业 "wikilink")
 
 :\*TS2 [食品工业](https://zh.wikipedia.org/wiki/食品工业 "wikilink")
 
@@ -16,8 +14,7 @@
 
 ::\*TS24 [制糖工业](https://zh.wikipedia.org/wiki/制糖工业 "wikilink")
 
-:::\*TS251
-[屠宰及](../Page/屠宰.md "wikilink")[肉类加工工业](https://zh.wikipedia.org/wiki/肉类加工工业 "wikilink")
+:::\*TS251 [屠宰](../Page/屠宰.md "wikilink")及[肉类加工工业](https://zh.wikipedia.org/wiki/肉类加工工业 "wikilink")
 
 :::\*TS252 [乳品加工工业](https://zh.wikipedia.org/wiki/乳品加工工业 "wikilink")
 
@@ -25,8 +22,7 @@
 
 :::\*TS254 [水产加工工业](https://zh.wikipedia.org/wiki/水产加工工业 "wikilink")
 
-:::\*TS255
-[水果](https://zh.wikipedia.org/wiki/水果 "wikilink")、[蔬菜](../Page/蔬菜.md "wikilink")、[坚果加工工业](../Page/坚果.md "wikilink")
+:::\*TS255 [水果](https://zh.wikipedia.org/wiki/水果 "wikilink")、[蔬菜](../Page/蔬菜.md "wikilink")、[坚果](../Page/坚果.md "wikilink")加工工业
 
 ::\*TS26 [酿造工业](https://zh.wikipedia.org/wiki/酿造工业 "wikilink")
 
@@ -40,10 +36,9 @@
 
 :\*TS5 [皮革工业](https://zh.wikipedia.org/wiki/皮革工业 "wikilink")
 
-:\*TS6
-[木材加工工业](https://zh.wikipedia.org/wiki/木材加工工业 "wikilink")、[家具制造工业](https://zh.wikipedia.org/wiki/家具制造工业 "wikilink")
+:\*TS6 [木材加工工业](https://zh.wikipedia.org/wiki/木材加工工业 "wikilink")、[家具制造工业](https://zh.wikipedia.org/wiki/家具制造工业 "wikilink")
 
-:::::\*TS664-64 [家具图谱](../Page/家具.md "wikilink")
+:::::\*TS664-64 [家具](../Page/家具.md "wikilink")图谱
 
 :\*TS7 [造纸工业](https://zh.wikipedia.org/wiki/造纸工业 "wikilink")
 
@@ -59,8 +54,7 @@
 
 :::\*TS934 [金属工艺美术制品](https://zh.wikipedia.org/wiki/金属工艺美术制品 "wikilink")
 
-:::\*TS935
-[刺绣](https://zh.wikipedia.org/wiki/刺绣 "wikilink")、[编结](https://zh.wikipedia.org/wiki/编结 "wikilink")、[制毯](https://zh.wikipedia.org/wiki/制毯 "wikilink")
+:::\*TS935 [刺绣](https://zh.wikipedia.org/wiki/刺绣 "wikilink")、[编结](https://zh.wikipedia.org/wiki/编结 "wikilink")、[制毯](https://zh.wikipedia.org/wiki/制毯 "wikilink")
 
 ::::\*TS935.1 [中国刺绣](https://zh.wikipedia.org/wiki/中国刺绣 "wikilink")
 
@@ -68,8 +62,7 @@
 
 :::\*TS938 [民间工艺美术制品](https://zh.wikipedia.org/wiki/民间工艺美术制品 "wikilink")
 
-::\*TS94
-[服装工业](https://zh.wikipedia.org/wiki/服装工业 "wikilink")、[制鞋工业](https://zh.wikipedia.org/wiki/制鞋工业 "wikilink")
+::\*TS94 [服装工业](https://zh.wikipedia.org/wiki/服装工业 "wikilink")、[制鞋工业](https://zh.wikipedia.org/wiki/制鞋工业 "wikilink")
 
 ::::\*TS941 [服装工业](https://zh.wikipedia.org/wiki/服装工业 "wikilink")
 
@@ -93,8 +86,7 @@
 
 :::\*TS972 饮食调制技术及设备
 
-::::\*TS972.1
-[烹饪法](https://zh.wikipedia.org/wiki/烹饪法 "wikilink")、[食谱](../Page/食谱.md "wikilink")、[菜谱](https://zh.wikipedia.org/wiki/菜谱 "wikilink")
+::::\*TS972.1 [烹饪法](https://zh.wikipedia.org/wiki/烹饪法 "wikilink")、[食谱](../Page/食谱.md "wikilink")、[菜谱](https://zh.wikipedia.org/wiki/菜谱 "wikilink")
 
 :::::\*TS972.19 [调酒技术](https://zh.wikipedia.org/wiki/调酒技术 "wikilink")
 
@@ -102,18 +94,15 @@
 
 ::::\*TS972.3 饮食管理
 
-:::\*TS973
-[洗染](https://zh.wikipedia.org/wiki/洗染 "wikilink")、[缝补](https://zh.wikipedia.org/wiki/缝补 "wikilink")
+:::\*TS973 [洗染](https://zh.wikipedia.org/wiki/洗染 "wikilink")、[缝补](https://zh.wikipedia.org/wiki/缝补 "wikilink")
 
-:::\*TS974
-[美容](../Page/美容.md "wikilink")、[沐浴](https://zh.wikipedia.org/wiki/沐浴 "wikilink")、清洁
+:::\*TS974 [美容](../Page/美容.md "wikilink")、[沐浴](https://zh.wikipedia.org/wiki/沐浴 "wikilink")、清洁
 
 ::::\*TS974.1 [美容](../Page/美容.md "wikilink")
 
 :::\*TS975 [居住管理](https://zh.wikipedia.org/wiki/居住管理 "wikilink")
 
-:::\*TS976
-[家庭管理](https://zh.wikipedia.org/wiki/家庭管理 "wikilink")、[家庭生活](https://zh.wikipedia.org/wiki/家庭生活 "wikilink")、[家庭服务](https://zh.wikipedia.org/wiki/家庭服务 "wikilink")
+:::\*TS976 [家庭管理](https://zh.wikipedia.org/wiki/家庭管理 "wikilink")、[家庭生活](https://zh.wikipedia.org/wiki/家庭生活 "wikilink")、[家庭服务](https://zh.wikipedia.org/wiki/家庭服务 "wikilink")
 
 ::::\*TS976.1 [家庭管理](https://zh.wikipedia.org/wiki/家庭管理 "wikilink")
 

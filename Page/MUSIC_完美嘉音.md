@@ -30,8 +30,7 @@
 6.  **[Carrot & Whip](../Page/LEGEND_\(中島美嘉單曲\).md "wikilink")**
       - 作詞：中島美嘉／作曲：五島良子／編曲：CHOKKAKU
 7.  **Shadows of you**
-      - 作詞：Lori Fine（COLDFEET）、中島美嘉／作曲：Celetia Martin（Big Life
-        Music）／編曲：羽毛田丈史
+      - 作詞：Lori Fine（COLDFEET）、中島美嘉／作曲：Celetia Martin（Big Life Music）／編曲：羽毛田丈史
 8.  **[LEGEND](../Page/LEGEND_\(中島美嘉單曲\).md "wikilink")(Main)**
       - 作詞：中島美嘉／作曲：岡野泰也／編曲：COLDFEET
 9.  **毒胡蘿蔔**
@@ -47,6 +46,4 @@
 
 ## 外部連結
 
-[Category:2005年音乐专辑](https://zh.wikipedia.org/wiki/Category:2005年音乐专辑 "wikilink")
-[Category:中島美嘉音樂專輯](https://zh.wikipedia.org/wiki/Category:中島美嘉音樂專輯 "wikilink")
-[Category:2005年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2005年Oricon專輯週榜冠軍作品 "wikilink")
+[Category:2005年音乐专辑](https://zh.wikipedia.org/wiki/Category:2005年音乐专辑 "wikilink") [Category:中島美嘉音樂專輯](https://zh.wikipedia.org/wiki/Category:中島美嘉音樂專輯 "wikilink") [Category:2005年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2005年Oricon專輯週榜冠軍作品 "wikilink")

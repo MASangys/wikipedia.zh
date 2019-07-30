@@ -1,4 +1,4 @@
-《**下北SUNDAYS**》（）是[日本作家](../Page/日本.md "wikilink")[石田衣良的小說](../Page/石田衣良.md "wikilink")，其改編而成的電視劇版在2006年7月13日開始在[朝日電視台播放](../Page/朝日電視台.md "wikilink")。
+《**下北SUNDAYS**》（）是[日本](../Page/日本.md "wikilink")作家[石田衣良](../Page/石田衣良.md "wikilink")的小說，其改編而成的電視劇版在2006年7月13日開始在[朝日電視台](../Page/朝日電視台.md "wikilink")播放。
 
 ## 故事
 
@@ -49,8 +49,7 @@
 | 最終回 | 2006年9月7日  | <span lang="ja">さよならサンデーズ</span>           | 6.3%  |
 |     |            |                                            |       |
 
-（收視率為日本關東地區的收視率及由[Video
-Research社調查](../Page/Video_Research.md "wikilink")）
+（收視率為日本關東地區的收視率及由[Video Research社調查](../Page/Video_Research.md "wikilink")）
 
 ## 作品的變遷
 
@@ -58,7 +57,4 @@ Research社調查](../Page/Video_Research.md "wikilink")）
 
   - [官方網站](https://web.archive.org/web/20060704094557/http://www.tv-asahi.co.jp/shimokita/)
 
-[Category:石田衣良小說改編電視劇](https://zh.wikipedia.org/wiki/Category:石田衣良小說改編電視劇 "wikilink")
-[Category:朝日電視台週四晚間九點連續劇](https://zh.wikipedia.org/wiki/Category:朝日電視台週四晚間九點連續劇 "wikilink")
-[Category:2006年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2006年日本電視劇集 "wikilink")
-[Category:下北澤背景作品](https://zh.wikipedia.org/wiki/Category:下北澤背景作品 "wikilink")
+[Category:石田衣良小說改編電視劇](https://zh.wikipedia.org/wiki/Category:石田衣良小說改編電視劇 "wikilink") [Category:朝日電視台週四晚間九點連續劇](https://zh.wikipedia.org/wiki/Category:朝日電視台週四晚間九點連續劇 "wikilink") [Category:2006年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2006年日本電視劇集 "wikilink") [Category:下北澤背景作品](https://zh.wikipedia.org/wiki/Category:下北澤背景作品 "wikilink")

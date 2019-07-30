@@ -1,15 +1,13 @@
-**NBA新秀挑战赛**（Rookie
-Challenge）是[NBA全明星周末的其中一場重要表演賽](../Page/NBA全明星周末.md "wikilink")。第一屆舉辦於1994年。歷史上大部分比賽雙方是由應屆新秀隊挑戰上屆新秀隊（二年生隊），一眾教練團會於1月選出當時最佳的9名新秀球員和二年級球員，組成新秀隊和二年生隊，由東西部成績最好的球隊的助理教練分別擔任球隊臨時主教練，有時也會邀請NBA的明星球員擔任球隊的掛名經理以增加話題性。2012年起，比賽改為由兩位NBA退役名宿在優秀的年輕球員中挑選各自屬意的隊員組隊比賽。2015年起比賽改爲美國隊對世界隊。2019年首次使用兩位現役球員[凯里·欧文和](https://zh.wikipedia.org/wiki/凯里·欧文 "wikilink")[德克·诺维茨基作為教練](../Page/德克·诺维茨基.md "wikilink")，且比賽由兩節改為四節。比賽日期多數於[NBA全明星週末的第一天即週五](https://zh.wikipedia.org/wiki/NBA全明星週末 "wikilink")。賽事贊助商為[T-Mobile](../Page/T-Mobile.md "wikilink")。
+**NBA新秀挑战赛**（Rookie Challenge）是[NBA全明星周末](../Page/NBA全明星周末.md "wikilink")的其中一場重要表演賽。第一屆舉辦於1994年。歷史上大部分比賽雙方是由應屆新秀隊挑戰上屆新秀隊（二年生隊），一眾教練團會於1月選出當時最佳的9名新秀球員和二年級球員，組成新秀隊和二年生隊，由東西部成績最好的球隊的助理教練分別擔任球隊臨時主教練，有時也會邀請NBA的明星球員擔任球隊的掛名經理以增加話題性。2012年起，比賽改為由兩位NBA退役名宿在優秀的年輕球員中挑選各自屬意的隊員組隊比賽。2015年起比賽改爲美國隊對世界隊。2019年首次使用兩位現役球員[凯里·欧文和](https://zh.wikipedia.org/wiki/凯里·欧文 "wikilink")[德克·诺维茨基](../Page/德克·诺维茨基.md "wikilink")作為教練，且比賽由兩節改為四節。比賽日期多數於[NBA全明星週末的第一天即週五](https://zh.wikipedia.org/wiki/NBA全明星週末 "wikilink")。賽事贊助商為[T-Mobile](../Page/T-Mobile.md "wikilink")。
 
 ## 歷史
 
-於1994年首次舉行，當年分為優異隊及轟動隊，全由新秀球員組成。1995年改為白隊及綠隊，依然全由新秀球員組成。而兩隊的教練與全明星賽一樣都是由目前東西岸聯盟成績最好球隊的領隊，但鑒于東西岸聯盟成績最好球隊的領隊需要帶領東西岸球隊參與全明星賽，因此當晚比賽的領隊都是球隊的教練團中其中一位。1996年開始把新秀以球隊的所屬聯盟俱分。直至2000年改由新秀隊對二年生隊至2011年。每場比賽後會選出當場最有價值球員
-，2012年由两位退役名宿輪流選人，新秀或者二年生皆可，組成两队進行對抗（2012、2013年为[查尔斯·巴克利和](../Page/查尔斯·巴克利.md "wikilink")[沙奎尔·奥尼尔](../Page/沙奎尔·奥尼尔.md "wikilink")，2014年为[克里斯·韦伯和](https://zh.wikipedia.org/wiki/克里斯·韦伯 "wikilink")[格兰特·希尔](https://zh.wikipedia.org/wiki/格兰特·希尔 "wikilink")）。鑒于進軍NBA的海外球員越來越多，NBA決定於2015年起改爲美國新秀及二年生組成的美國隊和其他國家新秀及二年生組成的世界隊。為求公平，NBA要求兩隊都必須至少選出三個新秀及三個二年生，而且兩隊中必須有四個後衛，四個前場球員及兩個[搖擺人](https://zh.wikipedia.org/wiki/搖擺人 "wikilink")。
+於1994年首次舉行，當年分為優異隊及轟動隊，全由新秀球員組成。1995年改為白隊及綠隊，依然全由新秀球員組成。而兩隊的教練與全明星賽一樣都是由目前東西岸聯盟成績最好球隊的領隊，但鑒于東西岸聯盟成績最好球隊的領隊需要帶領東西岸球隊參與全明星賽，因此當晚比賽的領隊都是球隊的教練團中其中一位。1996年開始把新秀以球隊的所屬聯盟俱分。直至2000年改由新秀隊對二年生隊至2011年。每場比賽後會選出當場最有價值球員 ，2012年由两位退役名宿輪流選人，新秀或者二年生皆可，組成两队進行對抗（2012、2013年为[查尔斯·巴克利](../Page/查尔斯·巴克利.md "wikilink")和[沙奎尔·奥尼尔](../Page/沙奎尔·奥尼尔.md "wikilink")，2014年为[克里斯·韦伯和](https://zh.wikipedia.org/wiki/克里斯·韦伯 "wikilink")[格兰特·希尔](https://zh.wikipedia.org/wiki/格兰特·希尔 "wikilink")）。鑒于進軍NBA的海外球員越來越多，NBA決定於2015年起改爲美國新秀及二年生組成的美國隊和其他國家新秀及二年生組成的世界隊。為求公平，NBA要求兩隊都必須至少選出三個新秀及三個二年生，而且兩隊中必須有四個後衛，四個前場球員及兩個[搖擺人](https://zh.wikipedia.org/wiki/搖擺人 "wikilink")。
 
 ## 比賽規則
 
 1.  比賽共分為上下各20分鐘兩個半場（似NCAA美國大學籃球賽一樣規格）。
-2.  在上下半場各有一次100秒的長暫停，除此以外，上下半場各存在兩次強制性[商業](https://zh.wikipedia.org/wiki/商業 "wikilink")[廣告插播暫停](../Page/廣告.md "wikilink")，分別在半場的7分鐘與14分鐘的時候強制進行。兩只球隊將自動失去一次100秒長暫停如果他們沒有在14分鐘（新秀隊失去暫停機會）以及7分鐘（2年級失去暫停機會）時用掉各自的暫停。
+2.  在上下半場各有一次100秒的長暫停，除此以外，上下半場各存在兩次強制性[商業](https://zh.wikipedia.org/wiki/商業 "wikilink")[廣告](../Page/廣告.md "wikilink")插播暫停，分別在半場的7分鐘與14分鐘的時候強制進行。兩只球隊將自動失去一次100秒長暫停如果他們沒有在14分鐘（新秀隊失去暫停機會）以及7分鐘（2年級失去暫停機會）時用掉各自的暫停。
 3.  每支球隊半場各有一次20秒短暫停機會。
 4.  球員的犯規行為將被記錄台統計，但是不存在6犯離場的情況。而記錄台將在任何一方累計犯規次數達到第11次的時候通知裁判進入罰球程序，而半場結束前的2分鐘內任何一支隊伍的第二次犯規開始，同樣判罰罰球。
 5.  新秀對抗賽中如果在常規時間雙方比分持平，將進行長度為2分鐘的加時賽。
@@ -292,7 +290,7 @@ Challenge）是[NBA全明星周末的其中一場重要表演賽](../Page/NBA全
 <tr class="odd">
 <td><p>PF/SF</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/特雷·莱尔斯" title="wikilink">特雷·莱尔斯</a></p></td>
+<td><p><a href="../Page/特雷·莱尔斯.md" title="wikilink">特雷·莱尔斯</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/犹他爵士" title="wikilink">犹他爵士</a></p></td>
 </tr>
 <tr class="even">
@@ -305,9 +303,9 @@ Challenge）是[NBA全明星周末的其中一場重要表演賽](../Page/NBA全
 </table>
 
 诺伦斯·诺尔因伤病退出比赛。\[3\]
-德文·布克替换诺伦斯·诺尔。\[4\]
-尼古拉·米罗蒂奇因伤病退出比赛。\[5\]
-特雷·莱尔斯替换尼古拉·米罗蒂奇。\[6\]
+ 德文·布克替换诺伦斯·诺尔。\[4\]
+ 尼古拉·米罗蒂奇因伤病退出比赛。\[5\]
+ 特雷·莱尔斯替换尼古拉·米罗蒂奇。\[6\]
 
 #### 比赛结果
 
@@ -413,19 +411,13 @@ Challenge）是[NBA全明星周末的其中一場重要表演賽](../Page/NBA全
 
 ## 外部連結
 
-  - [2007 Rookie
-    Challenge](http://www.nba.com/allstar2007/rookie_challenge/)
-  - [2008 Rookie
-    Challenge](http://www.nba.com/allstar2008/rookie_challenge/)
-  - [Rookie Challenge Recaps and Box
-    Scores](http://www.nba.com/history/allstar/rookie_alltime_results.html)
-  - [Rookie Challenge
-    Coaches](http://www.nba.com/history/allstar/rookie_alltime_coaches.html)
-  - [Team-by-Team
-    Participants](http://www.nba.com/history/allstar/rookie_alltime_teambyteam.html)
+  - [2007 Rookie Challenge](http://www.nba.com/allstar2007/rookie_challenge/)
+  - [2008 Rookie Challenge](http://www.nba.com/allstar2008/rookie_challenge/)
+  - [Rookie Challenge Recaps and Box Scores](http://www.nba.com/history/allstar/rookie_alltime_results.html)
+  - [Rookie Challenge Coaches](http://www.nba.com/history/allstar/rookie_alltime_coaches.html)
+  - [Team-by-Team Participants](http://www.nba.com/history/allstar/rookie_alltime_teambyteam.html)
 
-[Category:NBA](https://zh.wikipedia.org/wiki/Category:NBA "wikilink")
-[Category:NBA全明星赛](https://zh.wikipedia.org/wiki/Category:NBA全明星赛 "wikilink")
+[Category:NBA](https://zh.wikipedia.org/wiki/Category:NBA "wikilink") [Category:NBA全明星赛](https://zh.wikipedia.org/wiki/Category:NBA全明星赛 "wikilink")
 
 1.
 

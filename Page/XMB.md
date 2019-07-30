@@ -1,16 +1,8 @@
-[LEFT](https://zh.wikipedia.org/wiki/File:XMB_logo.PNG "fig:LEFT")
-**Xross Media
-Bar**（**XMB**）“跨界导航菜单”是一種由[索尼開發的](../Page/索尼.md "wikilink")[圖形用戶界面](https://zh.wikipedia.org/wiki/圖形用戶界面 "wikilink")，最初用于[PSX媒體中心的](../Page/PSX.md "wikilink")[人機界面](https://zh.wikipedia.org/wiki/人機界面 "wikilink")。該界面擁有橫越螢幕水平展開的[圖示](https://zh.wikipedia.org/wiki/圖標 "wikilink")，可透過移動該些圖示而非[游標來導航瀏覽](https://zh.wikipedia.org/wiki/游標 "wikilink")。該些圖示用來組織可供使用者選擇的選項，當選擇水平條的圖示後會有更多的圖示在上或下方垂直顯示（可透過上下方向鍵選擇）。Xross
-Media Bar是[PlayStation
-Portable與](../Page/PlayStation_Portable.md "wikilink")[PlayStation
-3的預設界面](../Page/PlayStation_3.md "wikilink")，2006年開始XMB亦用於[高階的](https://zh.wikipedia.org/wiki/高階 "wikilink")[WEGA](https://zh.wikipedia.org/wiki/WEGA "wikilink")[電視中](https://zh.wikipedia.org/wiki/電視 "wikilink")\[1\]。在[VAIO](../Page/VAIO.md "wikilink")2008年夏季系列的筆記本電腦中，亦透過VAIO
-Media
-Plus[軟體](https://zh.wikipedia.org/wiki/軟體 "wikilink")，提供了XMB介面。\[2\]
+[LEFT](https://zh.wikipedia.org/wiki/File:XMB_logo.PNG "fig:LEFT") **Xross Media Bar**（**XMB**）“跨界导航菜单”是一種由[索尼](../Page/索尼.md "wikilink")開發的[圖形用戶界面](https://zh.wikipedia.org/wiki/圖形用戶界面 "wikilink")，最初用于[PSX](../Page/PSX.md "wikilink")媒體中心的[人機界面](https://zh.wikipedia.org/wiki/人機界面 "wikilink")。該界面擁有橫越螢幕水平展開的[圖示](https://zh.wikipedia.org/wiki/圖標 "wikilink")，可透過移動該些圖示而非[游標來導航瀏覽](https://zh.wikipedia.org/wiki/游標 "wikilink")。該些圖示用來組織可供使用者選擇的選項，當選擇水平條的圖示後會有更多的圖示在上或下方垂直顯示（可透過上下方向鍵選擇）。Xross Media Bar是[PlayStation Portable與](../Page/PlayStation_Portable.md "wikilink")[PlayStation 3的預設界面](../Page/PlayStation_3.md "wikilink")，2006年開始XMB亦用於[高階的](https://zh.wikipedia.org/wiki/高階 "wikilink")[WEGA](https://zh.wikipedia.org/wiki/WEGA "wikilink")[電視中](https://zh.wikipedia.org/wiki/電視 "wikilink")\[1\]。在[VAIO](../Page/VAIO.md "wikilink")2008年夏季系列的筆記本電腦中，亦透過VAIO Media Plus[軟體](https://zh.wikipedia.org/wiki/軟體 "wikilink")，提供了XMB介面。\[2\]
 
 ## Playstation Portable上的XMB
 
-[PlayStation
-Portable在選擇一個類別後其選項會出現在該圖示下](../Page/PlayStation_Portable.md "wikilink")，可透過按右方向鍵來選擇，可透過按左方向鍵、O鍵（歐美版）或X鍵（日版）來返回。XMB的背景顏色會按當前月份更改。
+[PlayStation Portable在選擇一個類別後其選項會出現在該圖示下](../Page/PlayStation_Portable.md "wikilink")，可透過按右方向鍵來選擇，可透過按左方向鍵、O鍵（歐美版）或X鍵（日版）來返回。XMB的背景顏色會按當前月份更改。
 
 | 月分  | 顏色 |
 | --- | -- |
@@ -29,11 +21,9 @@ Portable在選擇一個類別後其選項會出現在該圖示下](../Page/PlayS
 
 ## PlayStation 3上的XMB
 
-除新增了兩個額外的項目：Users與Friends外[PlayStation
-3上的XMB與PSP的非常相似](../Page/PlayStation_3.md "wikilink")。同時多工處理亦得到增強，如可在播放音樂時瀏覽照片或在瀏覽XMB時於背景播放視頻。
+除新增了兩個額外的項目：Users與Friends外[PlayStation 3上的XMB與PSP的非常相似](../Page/PlayStation_3.md "wikilink")。同時多工處理亦得到增強，如可在播放音樂時瀏覽照片或在瀏覽XMB時於背景播放視頻。
 
-類似於PlayStation Portable的XMB，PlayStation
-3的XMB背景顏色亦會按當前月份而更改，除此之外亮度亦會按每天的時間而改變。顏色會在每月的中旬逐漸出現變化，例如一月的顏色為灰色，而在十二月中旬顏色會開始逐漸由紅色（十二月的顏色）變為灰色。
+類似於PlayStation Portable的XMB，PlayStation 3的XMB背景顏色亦會按當前月份而更改，除此之外亮度亦會按每天的時間而改變。顏色會在每月的中旬逐漸出現變化，例如一月的顏色為灰色，而在十二月中旬顏色會開始逐漸由紅色（十二月的顏色）變為灰色。
 
 ## 選單
 
@@ -99,16 +89,12 @@ XMB的背景顏色會按當前月份更改。
 
 ## 外部連結
 
-  - [PlayStation
-    Portable系统固件](https://zh.wikipedia.org/wiki/PlayStation_Portable系统固件 "wikilink")
+  - [PlayStation Portable系统固件](https://zh.wikipedia.org/wiki/PlayStation_Portable系统固件 "wikilink")
   - [IGN上的9頁XMB介紹文章](http://ps3.ign.com/articles/740/740601p1.html)
 
 ## 參考
 
-[Category:圖形用戶界面](https://zh.wikipedia.org/wiki/Category:圖形用戶界面 "wikilink")
-[Category:索尼](https://zh.wikipedia.org/wiki/Category:索尼 "wikilink")
-[Category:PlayStation](https://zh.wikipedia.org/wiki/Category:PlayStation "wikilink")
-[Category:好設計獎](https://zh.wikipedia.org/wiki/Category:好設計獎 "wikilink")
+[Category:圖形用戶界面](https://zh.wikipedia.org/wiki/Category:圖形用戶界面 "wikilink") [Category:索尼](https://zh.wikipedia.org/wiki/Category:索尼 "wikilink") [Category:PlayStation](https://zh.wikipedia.org/wiki/Category:PlayStation "wikilink") [Category:好設計獎](https://zh.wikipedia.org/wiki/Category:好設計獎 "wikilink")
 
 1.
 2.  [索尼VAIO笔记本加入PS3 XMB界面](http://news.mydrivers.com/1/111/111580.htm)

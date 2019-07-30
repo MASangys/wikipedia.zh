@@ -42,13 +42,13 @@
 
 [F-14A_Tomcat_over_Iraq_during_Southern_Watch.jpg](https://zh.wikipedia.org/wiki/File:F-14A_Tomcat_over_Iraq_during_Southern_Watch.jpg "fig:F-14A_Tomcat_over_Iraq_during_Southern_Watch.jpg")
 
-**VF-1女武神**（Valkyrie）是日本科幻戰爭動畫《[超時空要塞](https://zh.wikipedia.org/wiki/超時空要塞 "wikilink")》及其美国改编版《[太空堡垒](../Page/太空堡垒.md "wikilink")》的第一部《麦可罗斯传奇》中地球統合軍第一種採用的[熱核引擎的可變型戰鬥機](https://zh.wikipedia.org/wiki/OTM_\(超時空要塞\)#小型熱核引擎 "wikilink")，也是動畫中第一種登場的可變型戰鬥機，由製作兼機械設定[河森正治設計](../Page/河森正治.md "wikilink")，參考當時[美國海軍最新式的](../Page/美國海軍.md "wikilink")[F-14雄貓式戰鬥機修改而來](../Page/F-14雄貓式戰鬥機.md "wikilink")，其命名則是引用[北美公司在](https://zh.wikipedia.org/wiki/北美公司 "wikilink")60年代生產的[XB-70女武神三倍音速轟炸機](https://zh.wikipedia.org/wiki/XB-70戰神侍婢 "wikilink")。在80年代初期，其參考現役戰機修改而來的流線外型與仿照美國海軍機的塗裝，曾隨著超時空要塞中精彩的戰鬥場面風靡無數當時的年輕動漫畫迷與軍事迷。
+**VF-1女武神**（Valkyrie）是日本科幻戰爭動畫《[超時空要塞](https://zh.wikipedia.org/wiki/超時空要塞 "wikilink")》及其美国改编版《[太空堡垒](../Page/太空堡垒.md "wikilink")》的第一部《麦可罗斯传奇》中地球統合軍第一種採用的[熱核引擎的可變型戰鬥機](https://zh.wikipedia.org/wiki/OTM_\(超時空要塞\)#小型熱核引擎 "wikilink")，也是動畫中第一種登場的可變型戰鬥機，由製作兼機械設定[河森正治](../Page/河森正治.md "wikilink")設計，參考當時[美國海軍](../Page/美國海軍.md "wikilink")最新式的[F-14雄貓式戰鬥機](../Page/F-14雄貓式戰鬥機.md "wikilink")修改而來，其命名則是引用[北美公司在](https://zh.wikipedia.org/wiki/北美公司 "wikilink")60年代生產的[XB-70女武神三倍音速轟炸機](https://zh.wikipedia.org/wiki/XB-70戰神侍婢 "wikilink")。在80年代初期，其參考現役戰機修改而來的流線外型與仿照美國海軍機的塗裝，曾隨著超時空要塞中精彩的戰鬥場面風靡無數當時的年輕動漫畫迷與軍事迷。
 
-在故事設定裡，這種飛機被廣泛發配於地球統合軍各單位，在並活躍於[超時空要塞各系列作品中](https://zh.wikipedia.org/wiki/超時空要塞 "wikilink")。儘管在21世紀20年代後逐步為[VF-4閃電三式戰鬥機與](https://zh.wikipedia.org/wiki/VF-4閃電三式 "wikilink")[VF-11雷霆式戰鬥機逐步取代](../Page/VF-11雷霆式戰鬥機.md "wikilink")，但是人們依舊以VF-1的代號「女武神」來稱呼這些後續的機種，並且在許多以21世紀中葉為故事背景的遊戲中，我們仍然可以看到這種飛機的蹤影。
+在故事設定裡，這種飛機被廣泛發配於地球統合軍各單位，在並活躍於[超時空要塞各系列作品中](https://zh.wikipedia.org/wiki/超時空要塞 "wikilink")。儘管在21世紀20年代後逐步為[VF-4閃電三式戰鬥機與](https://zh.wikipedia.org/wiki/VF-4閃電三式 "wikilink")[VF-11雷霆式戰鬥機](../Page/VF-11雷霆式戰鬥機.md "wikilink")逐步取代，但是人們依舊以VF-1的代號「女武神」來稱呼這些後續的機種，並且在許多以21世紀中葉為故事背景的遊戲中，我們仍然可以看到這種飛機的蹤影。
 
 ## 起源
 
-1999年外星隕石墜落地球。經調查後確認為外星文明所遺棄之太空船。與此同時也發現了身高約10公尺有可能為人類歷史上最大強敵的外星高等生物存在。為回應此項威脅，[地球統合軍政府開始由外星太空船所獲得的](https://zh.wikipedia.org/wiki/地球統合軍 "wikilink")[OTM技術為基礎](https://zh.wikipedia.org/wiki/OTM_\(超時空要塞\) "wikilink")，積極開發與之對抗的新武器。經反覆論證後，決定開發一種能夠同時執行陸戰、海戰、空戰，且具備高機動性與任務彈性的武器平台。在如是的要求下，[可變型戰鬥機開始進行研發作業](../Page/可變型戰鬥機.md "wikilink")。
+1999年外星隕石墜落地球。經調查後確認為外星文明所遺棄之太空船。與此同時也發現了身高約10公尺有可能為人類歷史上最大強敵的外星高等生物存在。為回應此項威脅，[地球統合軍政府開始由外星太空船所獲得的](https://zh.wikipedia.org/wiki/地球統合軍 "wikilink")[OTM技術為基礎](https://zh.wikipedia.org/wiki/OTM_\(超時空要塞\) "wikilink")，積極開發與之對抗的新武器。經反覆論證後，決定開發一種能夠同時執行陸戰、海戰、空戰，且具備高機動性與任務彈性的武器平台。在如是的要求下，[可變型戰鬥機](../Page/可變型戰鬥機.md "wikilink")開始進行研發作業。
 
 然而，由於採用了太多先進與不確定的技術，在未完全掌握外星科技的狀況下，VF的開發並不是一帆風順的。[小型熱核引擎就是一個例子](https://zh.wikipedia.org/wiki/OTM_\(超時空要塞\)#小型熱核引擎 "wikilink")。由於開發時程的推遲，致使第一代的可變型戰鬥機仍必須配備與現代飛機相同，使用石化燃料的[渦輪扇發動機](https://zh.wikipedia.org/wiki/渦輪扇葉引擎 "wikilink")。
 
@@ -78,7 +78,7 @@
 
 戰後，由於在地球上的生產線業已毀滅，只能靠著殘存於月球基地與其他宇宙殖民地的殘存零件拼合新機。不過，地球統合軍也知道這不是長久之計。2010年8月，生產線終於完成重整，開始製造新的機身與各種零件。地球生產線在2015年關閉，之後仍由許多殖民地工廠繼續生產。
 
-第一次宇宙大戰後之後，大量的VF-1轉任各地的警察任務。由於對於地球人類生活的不適應，以及居高不下的[失業問題](../Page/失業.md "wikilink")，微小化的巨人在地球各地發動了暴動。在鎮壓這些暴動中，本機也有著卓越的表現。但是，畢竟對付的是自己的國民。這一段歷史，也算是這架飛機服役生涯中不算光彩的一頁。
+第一次宇宙大戰後之後，大量的VF-1轉任各地的警察任務。由於對於地球人類生活的不適應，以及居高不下的[失業](../Page/失業.md "wikilink")問題，微小化的巨人在地球各地發動了暴動。在鎮壓這些暴動中，本機也有著卓越的表現。但是，畢竟對付的是自己的國民。這一段歷史，也算是這架飛機服役生涯中不算光彩的一頁。
 
 2020年，地球統合軍對其VF-1機隊實施了一次主要提升與延壽。以更輕且更堅固的新結構更換了已老化的結構，並且換裝了新引擎，性能大幅提升。改裝後的VF-1，曾活躍於21世紀30年代中期對抗殘餘[巨人軍基幹艦隊的戰役中](https://zh.wikipedia.org/wiki/:杰特拉帝人 "wikilink")。面對強敵，始終不見疲態。
 
@@ -110,7 +110,7 @@
 
 <!-- end list -->
 
-  - **VF-1A**：正式量產機型，頭部配備一門[毛瑟ROV](../Page/毛瑟.md "wikilink")-20雷射砲，曾授權新中洲與[諾斯洛普生產](https://zh.wikipedia.org/wiki/諾斯洛普 "wikilink")。
+  - **VF-1A**：正式量產機型，頭部配備一門[毛瑟](../Page/毛瑟.md "wikilink")ROV-20雷射砲，曾授權新中洲與[諾斯洛普生產](https://zh.wikipedia.org/wiki/諾斯洛普 "wikilink")。
 
 <!-- end list -->
 
@@ -130,11 +130,11 @@
 
 <!-- end list -->
 
-  - **VF-1J**：火力加強型，換裝九星重工製新型頭部莢艙，原先裝置於頭部的ROV-20雷射砲增為兩門，其他與VF-1A大致相同。由於這批飛機全在[日本工廠製造](../Page/日本.md "wikilink")，故付與「J」之型號。
+  - **VF-1J**：火力加強型，換裝九星重工製新型頭部莢艙，原先裝置於頭部的ROV-20雷射砲增為兩門，其他與VF-1A大致相同。由於這批飛機全在[日本](../Page/日本.md "wikilink")工廠製造，故付與「J」之型號。
 
 <!-- end list -->
 
-  - **VF-1S**：由[諾斯洛普生產之少量型號](https://zh.wikipedia.org/wiki/諾斯洛普 "wikilink")。大幅翻新航電設備，換裝推力更強的FF-2001D熱核引擎，頭部雷射砲增為四門。由於造價昂貴故產量不多，通常是分散配發於各中隊作為[隊長機之用](../Page/隊長機.md "wikilink")。
+  - **VF-1S**：由[諾斯洛普生產之少量型號](https://zh.wikipedia.org/wiki/諾斯洛普 "wikilink")。大幅翻新航電設備，換裝推力更強的FF-2001D熱核引擎，頭部雷射砲增為四門。由於造價昂貴故產量不多，通常是分散配發於各中隊作為[隊長機](../Page/隊長機.md "wikilink")之用。
 
 <!-- end list -->
 
@@ -164,20 +164,17 @@
 
 在《太空堡垒》中，本型机的代号「VF-1」没有改变，但名称换成了「Veritech」。分A、D、J、R、S五个型号。
 
-  - **Veritech
-    VF-1A**：标准量产型，绰号「小甜饼」。由于飞行员大部分为经验欠缺的新手，在面对天顶星人的战斗中常常是被欺负的对象，被天顶星人讥讽为「炮灰」。2014年后残存机被全部升级成为R型。
+  - **Veritech VF-1A**：标准量产型，绰号「小甜饼」。由于飞行员大部分为经验欠缺的新手，在面对天顶星人的战斗中常常是被欺负的对象，被天顶星人讥讽为「炮灰」。2014年后残存机被全部升级成为R型。
   - **Veritech VF-1D**：双座教练机，也是瑞克·卡特第一次驾驶的变形战斗机，很少用于战场。
-  - **Veritech
-    VF-1J**：[队长机](https://zh.wikipedia.org/wiki/队长机 "wikilink")，一般由三人小队或中队长驾驶，瑞克·卡特担任小队长期间驾驶的「红色战斗机」便为此型号。2014年停产并升级为R型。
+  - **Veritech VF-1J**：[队长机](https://zh.wikipedia.org/wiki/队长机 "wikilink")，一般由三人小队或中队长驾驶，瑞克·卡特担任小队长期间驾驶的「红色战斗机」便为此型号。2014年停产并升级为R型。
   - **Veritech VF-1R**：后期升级型，头部加装独立式自动脉冲炮一门，并拥有对敌方导弹的自动追踪系统。
-  - **Veritech
-    VF-1S**：为中队指挥官专门设计的机型，完全基于VF-1原型机的型号。先后由罗伊·福克和瑞克·卡特驾驶的鼎鼎大名的「骷髅战机」便是这其中的1号机，也是最后唯一经过战火生存下来的S型。
+  - **Veritech VF-1S**：为中队指挥官专门设计的机型，完全基于VF-1原型机的型号。先后由罗伊·福克和瑞克·卡特驾驶的鼎鼎大名的「骷髅战机」便是这其中的1号机，也是最后唯一经过战火生存下来的S型。
 
 在太空堡垒第二部《机器人统治者》的时代中，本型机已经完全被Veritech Logan「摇石」变形战斗机取代。
 
 ## 其它
 
-  - 一般觀眾常以**巴爾基里**（或**瓦爾基麗**、**韋基利**）稱呼這架飛機，而以**王爾古雷**稱呼[銀河英雄傳說中帝國軍單坐戰鬥艇](../Page/銀河英雄傳說.md "wikilink")。事實上；其差別僅在於：一個取英譯，一個取德譯；而兩者所指稱者同樣是[北歐神話中的](https://zh.wikipedia.org/wiki/北歐神話 "wikilink")[女武神](../Page/女武神.md "wikilink")。
+  - 一般觀眾常以**巴爾基里**（或**瓦爾基麗**、**韋基利**）稱呼這架飛機，而以**王爾古雷**稱呼[銀河英雄傳說](../Page/銀河英雄傳說.md "wikilink")中帝國軍單坐戰鬥艇。事實上；其差別僅在於：一個取英譯，一個取德譯；而兩者所指稱者同樣是[北歐神話中的](https://zh.wikipedia.org/wiki/北歐神話 "wikilink")[女武神](../Page/女武神.md "wikilink")。
 
 <!-- end list -->
 
@@ -211,11 +208,9 @@
   - [官方網站（日文）](http://www.macross.co.jp//)
   - [Macross World](http://www.macrossworld.com/)
   - [MAHQ](http://www.mahq.net/)
-  - [UN Spacy
-    Database](https://web.archive.org/web/20070126023352/http://unsd.macrossroleplay.org/)
+  - [UN Spacy Database](https://web.archive.org/web/20070126023352/http://unsd.macrossroleplay.org/)
 
 [Category:超時空要塞兵器](https://zh.wikipedia.org/wiki/Category:超時空要塞兵器 "wikilink")
 
-1.  [Macross
-    Zero](https://zh.wikipedia.org/wiki/Macross_Zero "wikilink")
+1.  [Macross Zero](https://zh.wikipedia.org/wiki/Macross_Zero "wikilink")
 2.

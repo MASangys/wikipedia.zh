@@ -1,5 +1,4 @@
-Simple API for
-XML（簡稱**SAX**）是個循序存取XML的解析器API。SAX提供一個機制從XML文件讀取資料。它是除了[文档对象模型](../Page/文档对象模型.md "wikilink")（DOM）的另外一種流行選擇。
+Simple API for XML（簡稱**SAX**）是個循序存取XML的解析器API。SAX提供一個機制從XML文件讀取資料。它是除了[文档对象模型](../Page/文档对象模型.md "wikilink")（DOM）的另外一種流行選擇。
 
 ## 使用SAX处理XML
 
@@ -16,8 +15,7 @@ SAX运行时是单向的；解析过的资料无法在不重新开始的情况�
 
 ## 定义
 
-不像
-DOM，对于SAX并沒有「正式的」规格。[Java对于SAX的实现被认为是一种规范](../Page/Java.md "wikilink")，在其他语言的实现尝试遵循著该实现的程序，必要時根据语言差异而调整。
+不像 DOM，对于SAX并沒有「正式的」规格。[Java](../Page/Java.md "wikilink")对于SAX的实现被认为是一种规范，在其他语言的实现尝试遵循著该实现的程序，必要時根据语言差异而调整。
 
 ## 優點
 
@@ -31,11 +29,9 @@ SAX解析器在某些方面優於DOM風格解析器。SAX解析器的[記憶體�
 
 SAX事件驅動的模型對於XML解析很有用，但它確實有某些缺點。
 
-某些種類的[XML驗證需要存取整份文件](https://zh.wikipedia.org/wiki/XML驗證 "wikilink")。例如，一個[DTD](https://zh.wikipedia.org/wiki/文件類型描述 "wikilink")
-IDREF屬性需要文件內有項目使用指定字串當成DTD
-ID屬性。要在SAX解析器內驗證，必須追蹤每個之前遇過的ID和IDREF屬性，檢查是否有任何相符。更甚者，一個IDREF找不到對應的ID，使用者只會在整份文件都解析完後才發現，若這種連結對於建立有效輸出是重要的，那用在處理整份文件的時間只是浪費。
+某些種類的[XML驗證需要存取整份文件](https://zh.wikipedia.org/wiki/XML驗證 "wikilink")。例如，一個[DTD](https://zh.wikipedia.org/wiki/文件類型描述 "wikilink") IDREF屬性需要文件內有項目使用指定字串當成DTD ID屬性。要在SAX解析器內驗證，必須追蹤每個之前遇過的ID和IDREF屬性，檢查是否有任何相符。更甚者，一個IDREF找不到對應的ID，使用者只會在整份文件都解析完後才發現，若這種連結對於建立有效輸出是重要的，那用在處理整份文件的時間只是浪費。
 
-另外，某些XML處理僅要求存取整份文件。舉例來說，[XSLT及](../Page/XSLT.md "wikilink")[XPath需要能夠任何時間存取任何解析過的XML樹](../Page/XPath.md "wikilink")。當SAX以用來建構此樹時，DOM解析器在設計上已經是如此了。
+另外，某些XML處理僅要求存取整份文件。舉例來說，[XSLT](../Page/XSLT.md "wikilink")及[XPath](../Page/XPath.md "wikilink")需要能夠任何時間存取任何解析過的XML樹。當SAX以用來建構此樹時，DOM解析器在設計上已經是如此了。
 
 ## 參見
 
@@ -46,8 +42,7 @@ ID屬性。要在SAX解析器內驗證，必須追蹤每個之前遇過的ID和I
   - [XSL Transformations (XSLT)](../Page/XSLT.md "wikilink")
 
   -
-  - [System Integrated Automation
-    parser](https://zh.wikipedia.org/wiki/System_Integrated_Automation_parser "wikilink")
+  - [System Integrated Automation parser](https://zh.wikipedia.org/wiki/System_Integrated_Automation_parser "wikilink")
 
 ### 支援SAX的解析器及API
 
@@ -60,14 +55,8 @@ ID屬性。要在SAX解析器內驗證，必須追蹤每個之前遇過的ID和I
 
 ## 參考
 
-  - [David
-    Brownell](https://zh.wikipedia.org/wiki/David_Brownell "wikilink")：*SAX2*,
-    O'Reilly, ISBN 0-596-00237-8
-  - [W. Scott
-    Means](https://zh.wikipedia.org/wiki/W._Scott_Means "wikilink")，[Michael
-    A.
-    Bodie](https://zh.wikipedia.org/wiki/Michael_A._Bodie "wikilink")：*The
-    Book of SAX*, No Starch Press, ISBN 1-886411-77-8
+  - [David Brownell](https://zh.wikipedia.org/wiki/David_Brownell "wikilink")：*SAX2*, O'Reilly, ISBN 0-596-00237-8
+  - [W. Scott Means](https://zh.wikipedia.org/wiki/W._Scott_Means "wikilink")，[Michael A. Bodie](https://zh.wikipedia.org/wiki/Michael_A._Bodie "wikilink")：*The Book of SAX*, No Starch Press, ISBN 1-886411-77-8
 
 ## 外部連結
 
@@ -81,5 +70,4 @@ ID屬性。要在SAX解析器內驗證，必須追蹤每個之前遇過的ID和I
       - [Python](https://web.archive.org/web/20070517233418/http://www.python.org/doc/current/lib/module-xml.sax.html)
       - [Java](http://www.saxproject.org/?selected=quickstart)
 
-[Category:XML](https://zh.wikipedia.org/wiki/Category:XML "wikilink")
-[Category:应用程序接口](https://zh.wikipedia.org/wiki/Category:应用程序接口 "wikilink")
+[Category:XML](https://zh.wikipedia.org/wiki/Category:XML "wikilink") [Category:应用程序接口](https://zh.wikipedia.org/wiki/Category:应用程序接口 "wikilink")

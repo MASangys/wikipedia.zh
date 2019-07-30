@@ -1,6 +1,4 @@
-**Camfrog**是一款由Camshare
-LLC开发的即时[聊天工具](https://zh.wikipedia.org/wiki/聊天工具 "wikilink")，允许来自世界各地的用户播放自己的[音频和](https://zh.wikipedia.org/wiki/音频 "wikilink")[视频。这个软件允许](https://zh.wikipedia.org/wiki/视频。 "wikilink")
-超过1000人的用户在一个即时的视频会议环境下聊天。
+**Camfrog**是一款由Camshare LLC开发的即时[聊天工具](https://zh.wikipedia.org/wiki/聊天工具 "wikilink")，允许来自世界各地的用户播放自己的[音频和](https://zh.wikipedia.org/wiki/音频 "wikilink")[视频。这个软件允许](https://zh.wikipedia.org/wiki/视频。 "wikilink") 超过1000人的用户在一个即时的视频会议环境下聊天。
 
 Camfrog允许用户使用"Camfrog Server"软件搭建自己的视频聊天室。
 
@@ -10,38 +8,20 @@ Camfrog允许用户使用"Camfrog Server"软件搭建自己的视频聊天室。
 
 Camfrog据称具有很好的防火墙和路由的适应性，因此视频更加流畅，很少出现卡的现象。
 
-Camfrog里面有18+聊天室，如果把Family
-Filter关闭（设置为off），就能看到聊天室列表中出现一个18+Only的页面，列出了很多18+的聊天室。因此建议大家尤其是18-的儿童，在使用该软件聊天的时候最好把Family
-Filter设置为on，过滤掉这些有可能有不健康内容的聊天室。
+Camfrog里面有18+聊天室，如果把Family Filter关闭（设置为off），就能看到聊天室列表中出现一个18+Only的页面，列出了很多18+的聊天室。因此建议大家尤其是18-的儿童，在使用该软件聊天的时候最好把Family Filter设置为on，过滤掉这些有可能有不健康内容的聊天室。
 
 ## 运行平台
 
-CamFrog视频聊天客户端支持[Microsoft
-Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")
-(XP, Vista, 2k and 2k3) 和 Apple Mac OS X.
+CamFrog视频聊天客户端支持[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink") (XP, Vista, 2k and 2k3) 和 Apple Mac OS X.
 
 ## 外部連結
 
-  - [Camfrog Video Chat](http://www.camfrog.com/) - Camfrog Webcam
-    Chat官方站点
-  - Camfrog is A Cacophony of Communication
-    [1](http://blog.wired.com/cultofmac/2007/03/camfrog_is_a_ca.html) -
-    Wired Article
-  - Camfrog Mac 版本下载地址
-    [2](http://www.apple.com/downloads/macosx/email_chat/camfrogvideochat.html)
-    - Apple.com Featured Download
-  - Leap into the vid-chat pond
-    [3](http://www.download.com/Camfrog-Video-Chat/3003-2348_4-10647263.html?tag=tab_rev)
-    - CNET Download.com Editor's Review
-  - Videoconferencing Provides Strong Support To Social Interaction
-    Services
-    [4](https://web.archive.org/web/20070421023447/http://www.kolabora.com/news/2004/01/13/videoconferencing_provides_strong_support_to.htm)
-    Kolabora Article about Camfrog
-  - Camfrog 3.9 Released
-    [5](http://www.europeansignlanguage.net/modules.php?name=News&file=article&sid=134)
-    European Signlanguage Article
-  - Spice up your webcam
-    [6](https://web.archive.org/web/20070326023134/http://www.insidetonic.com/spice-up-your-webcam)
-    - InsideTonic Article
+  - [Camfrog Video Chat](http://www.camfrog.com/) - Camfrog Webcam Chat官方站点
+  - Camfrog is A Cacophony of Communication [1](http://blog.wired.com/cultofmac/2007/03/camfrog_is_a_ca.html) - Wired Article
+  - Camfrog Mac 版本下载地址 [2](http://www.apple.com/downloads/macosx/email_chat/camfrogvideochat.html) - Apple.com Featured Download
+  - Leap into the vid-chat pond [3](http://www.download.com/Camfrog-Video-Chat/3003-2348_4-10647263.html?tag=tab_rev) - CNET Download.com Editor's Review
+  - Videoconferencing Provides Strong Support To Social Interaction Services [4](https://web.archive.org/web/20070421023447/http://www.kolabora.com/news/2004/01/13/videoconferencing_provides_strong_support_to.htm) Kolabora Article about Camfrog
+  - Camfrog 3.9 Released [5](http://www.europeansignlanguage.net/modules.php?name=News&file=article&sid=134) European Signlanguage Article
+  - Spice up your webcam [6](https://web.archive.org/web/20070326023134/http://www.insidetonic.com/spice-up-your-webcam) - InsideTonic Article
 
 [Category:VoIP軟體](https://zh.wikipedia.org/wiki/Category:VoIP軟體 "wikilink")

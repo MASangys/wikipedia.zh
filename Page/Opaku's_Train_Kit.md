@@ -1,31 +1,20 @@
-**Opaku's Train
-Kit**（[日文為](https://zh.wikipedia.org/wiki/日文 "wikilink")**おぱく堂版・電車走行キット**或**電車走行キット**），簡稱
-**Train Kit** 或 **TK** ，是一套由日本人**Mr.
-Opaku**（[日文為](https://zh.wikipedia.org/wiki/日文 "wikilink")**おぱく堂**）開發的模擬[鐵路行走的](../Page/鐵路.md "wikilink")[網頁](../Page/網頁.md "wikilink")[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")。
+**Opaku's Train Kit**（[日文為](https://zh.wikipedia.org/wiki/日文 "wikilink")**おぱく堂版・電車走行キット**或**電車走行キット**），簡稱 **Train Kit** 或 **TK** ，是一套由日本人**Mr. Opaku**（[日文為](https://zh.wikipedia.org/wiki/日文 "wikilink")**おぱく堂**）開發的模擬[鐵路](../Page/鐵路.md "wikilink")行走的[網頁](../Page/網頁.md "wikilink")[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")。
 
 ## 特點
 
-**Train Kit**
-是一套以規格***10cm[=](https://zh.wikipedia.org/wiki/等於 "wikilink")[1px](../Page/像素.md "wikilink")***繪製的動畫，可以放在網頁上供點綴或裝飾，用以模擬鐵路列車行駛的情況。加上製作簡單，[日本已有不少](../Page/日本.md "wikilink")'''
-Train Kit '''網站。
+**Train Kit** 是一套以規格***10cm[=](https://zh.wikipedia.org/wiki/等於 "wikilink")[1px](../Page/像素.md "wikilink")***繪製的動畫，可以放在網頁上供點綴或裝飾，用以模擬鐵路列車行駛的情況。加上製作簡單，[日本](../Page/日本.md "wikilink")已有不少''' Train Kit '''網站。
 
 ## 構造
 
-**Train Kit**
-由**背景**、**列車**、**物件**及**前景**<font face=標楷體>（如有）</font>組成，每部份都是由一<font face=標楷體>（或以上）</font>幅圖組成。再加上網頁原本的[原始檔](https://zh.wikipedia.org/wiki/原始檔 "wikilink")，即成一
-**Train Kit** 動畫。因此，製作非常簡單，只須畫好圖，設定好原始檔內容，快則一小時即可完成。
+**Train Kit** 由**背景**、**列車**、**物件**及**前景**<font face=標楷體>（如有）</font>組成，每部份都是由一<font face=標楷體>（或以上）</font>幅圖組成。再加上網頁原本的[原始檔](https://zh.wikipedia.org/wiki/原始檔 "wikilink")，即成一 **Train Kit** 動畫。因此，製作非常簡單，只須畫好圖，設定好原始檔內容，快則一小時即可完成。
 
 ## 展示
 
-**Train Kit**
-動畫是一個[網頁檔](../Page/網頁.md "wikilink")，可以輕易地放到[-{zh-hk:互聯網;zh-tw:網際網絡;}-](https://zh.wikipedia.org/wiki/網際網絡 "wikilink")，供網友觀看。（唯上載時須連同**<u>所有</u>**圖檔）
+**Train Kit** 動畫是一個[網頁](../Page/網頁.md "wikilink")檔，可以輕易地放到[-{zh-hk:互聯網;zh-tw:網際網絡;}-](https://zh.wikipedia.org/wiki/網際網絡 "wikilink")，供網友觀看。（唯上載時須連同**<u>所有</u>**圖檔）
 
 ## 分類
 
-**Train Kit**
-主要分為「**A類**」和「**M類**」。**A類**是[自動行駛](https://zh.wikipedia.org/wiki/自動 "wikilink")，即是只供觀看；**M類**是[手動行駛](https://zh.wikipedia.org/wiki/手動 "wikilink")，即列車由網友操作。分類的方法只須看[版本編號有](https://zh.wikipedia.org/wiki/版本 "wikilink")**A**字或是**M**字。例如**A01**、**A02**、**A667**等都是自動行駛；**M01**、**M02**、**M10SL**等都是手動行駛。還有一種叫做「**簡易行駛**」，識別方法是看有否*'
-00 **或** CA
-**字樣，如：**LA00**、**TA00SL**、**CA50SL**等。此外，「**SL*'」代表[蒸氣](https://zh.wikipedia.org/wiki/蒸氣 "wikilink")[機車](https://zh.wikipedia.org/wiki/機車 "wikilink")
+**Train Kit** 主要分為「**A類**」和「**M類**」。**A類**是[自動行駛](https://zh.wikipedia.org/wiki/自動 "wikilink")，即是只供觀看；**M類**是[手動行駛](https://zh.wikipedia.org/wiki/手動 "wikilink")，即列車由網友操作。分類的方法只須看[版本編號有](https://zh.wikipedia.org/wiki/版本 "wikilink")**A**字或是**M**字。例如**A01**、**A02**、**A667**等都是自動行駛；**M01**、**M02**、**M10SL**等都是手動行駛。還有一種叫做「**簡易行駛**」，識別方法是看有否*' 00 **或** CA **字樣，如：**LA00**、**TA00SL**、**CA50SL**等。此外，「**SL*'」代表[蒸氣](https://zh.wikipedia.org/wiki/蒸氣 "wikilink")[機車](https://zh.wikipedia.org/wiki/機車 "wikilink")
 
 ### 介紹
 
@@ -52,7 +41,7 @@ Train Kit '''網站。
 <!-- end list -->
 
   -
-    與**A01**差不多，都是有信號、平交道、月台等等。但此版本可以設定[柴油及](../Page/柴油.md "wikilink")[內燃機車行走](https://zh.wikipedia.org/wiki/內燃機車 "wikilink")，每一次出現時[機車都會在編成最前方](https://zh.wikipedia.org/wiki/機車 "wikilink")。
+    與**A01**差不多，都是有信號、平交道、月台等等。但此版本可以設定[柴油](../Page/柴油.md "wikilink")及[內燃機車行走](https://zh.wikipedia.org/wiki/內燃機車 "wikilink")，每一次出現時[機車都會在編成最前方](https://zh.wikipedia.org/wiki/機車 "wikilink")。
 
 <!-- end list -->
 
@@ -442,9 +431,7 @@ Train Kit '''網站。
 
 ## 標誌
 
-以下展示的是 **Train Kit**
-的一些[標誌](https://zh.wikipedia.org/wiki/標誌 "wikilink")。所有有關
-**Train Kit** 的網頁均要顯示任何一個 **TK** 標誌。（注意：以下列的只是較常用的標誌）
+以下展示的是 **Train Kit** 的一些[標誌](https://zh.wikipedia.org/wiki/標誌 "wikilink")。所有有關 **Train Kit** 的網頁均要顯示任何一個 **TK** 標誌。（注意：以下列的只是較常用的標誌）
 
 <File:TKbannerS001.gif>|
 
@@ -480,23 +467,17 @@ Train Kit '''網站。
 
 ## 下載
 
-下載點為官方網站。''' Train Kit
-'''是一套可供免費[下載而又合法的](https://zh.wikipedia.org/wiki/下載 "wikilink")[軟體](https://zh.wikipedia.org/wiki/軟體 "wikilink")。
+下載點為官方網站。''' Train Kit '''是一套可供免費[下載而又合法的](https://zh.wikipedia.org/wiki/下載 "wikilink")[軟體](https://zh.wikipedia.org/wiki/軟體 "wikilink")。
 
   - [基本組套（A01+M01+X01）](http://www.mars.dti.ne.jp/~opaku/zigzag/railway/kitBasicset.html)
   - [擴張組合（其他）](http://www.mars.dti.ne.jp/~opaku/zigzag/railway/kitExtension.html)
 
 ## 外部連結
 
-  - [Opaku's Train Kit
-    官方網站](http://www.mars.dti.ne.jp/~opaku/zigzag/railway/)
+  - [Opaku's Train Kit 官方網站](http://www.mars.dti.ne.jp/~opaku/zigzag/railway/)
 
-  - [TrainKit@HK](http://www.geocities.co.jp/train_kit_hk/) - 香港''' TK
-    '''網頁
+  - [TrainKit@HK](http://www.geocities.co.jp/train_kit_hk/) - 香港''' TK '''網頁
 
-  - [香港模擬鐵路聯盟（BVEHK）](https://web.archive.org/web/20070312021922/http://www.bvehk.net/)
-    -
-    香港[鐵路及](../Page/鐵路.md "wikilink")[BVE討論區](https://zh.wikipedia.org/wiki/BVE "wikilink")（C4版區是關於
-    **TK** 的）
+  - [香港模擬鐵路聯盟（BVEHK）](https://web.archive.org/web/20070312021922/http://www.bvehk.net/) - 香港[鐵路](../Page/鐵路.md "wikilink")及[BVE討論區](https://zh.wikipedia.org/wiki/BVE "wikilink")（C4版區是關於 **TK** 的）
 
 [Category:铁路模拟游戏](https://zh.wikipedia.org/wiki/Category:铁路模拟游戏 "wikilink")

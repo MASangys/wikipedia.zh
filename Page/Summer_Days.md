@@ -1,11 +1,6 @@
-《**Summer
-Days**》（）是[0verflow在](../Page/0verflow.md "wikilink")2006年6月23日發售的全動畫[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]2008年4月11日由AICHERRY（アイチェリー）發售[DVDPG版](https://zh.wikipedia.org/wiki/DVDPG "wikilink")。\[3\]2010年9月24日由Palace發售[UMDPG版](https://zh.wikipedia.org/wiki/UMDPG "wikilink")。\[4\]2012年4月27發售Summer
-Days的重製版《**SHINY DAYS**》（）。\[5\]2014年1月30日由AICHERRY發售SHINY
-DAYS的DVDPG版和[BDPG版](https://zh.wikipedia.org/wiki/BDPG "wikilink")。\[6\]除了遊戲之外還發售漫畫、小說等相關作品。
+《**Summer Days**》（）是[0verflow](../Page/0verflow.md "wikilink")在2006年6月23日發售的全動畫[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]2008年4月11日由AICHERRY（アイチェリー）發售[DVDPG版](https://zh.wikipedia.org/wiki/DVDPG "wikilink")。\[3\]2010年9月24日由Palace發售[UMDPG版](https://zh.wikipedia.org/wiki/UMDPG "wikilink")。\[4\]2012年4月27發售Summer Days的重製版《**SHINY DAYS**》（）。\[5\]2014年1月30日由AICHERRY發售SHINY DAYS的DVDPG版和[BDPG版](https://zh.wikipedia.org/wiki/BDPG "wikilink")。\[6\]除了遊戲之外還發售漫畫、小說等相關作品。
 
-本作品與前作《[School
-Days](../Page/School_Days.md "wikilink")》相比，殘虐的描寫消聲匿跡，不急不徐地描寫整個夏天，從淺淺的愛慕開始的故事。並且至今為止不甚明朗的種種人際關係也可判明了，另外還可以發現與[Overflow的其他作品間的關連性](https://zh.wikipedia.org/wiki/Overflow "wikilink")，帶有很高的[Fan
-disc意義](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")。但根據[Overflow表示](https://zh.wikipedia.org/wiki/Overflow "wikilink")，本作「」。
+本作品與前作《[School Days](../Page/School_Days.md "wikilink")》相比，殘虐的描寫消聲匿跡，不急不徐地描寫整個夏天，從淺淺的愛慕開始的故事。並且至今為止不甚明朗的種種人際關係也可判明了，另外還可以發現與[Overflow的其他作品間的關連性](https://zh.wikipedia.org/wiki/Overflow "wikilink")，帶有很高的[Fan disc意義](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")。但根據[Overflow表示](https://zh.wikipedia.org/wiki/Overflow "wikilink")，本作「」。
 
 ## 故事
 
@@ -43,7 +38,7 @@ disc意義](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")。但根據[Overf
 <!-- end list -->
 
   - 西園寺世界（聲優：）
-    榊野高中1年3班學生，與剎那是青梅竹馬且是同父異母姐妹。雖然是班上的氣氛製造者，但今年夏天因為[腮腺炎而昏睡不醒](../Page/腮腺炎.md "wikilink")。抱著與剎那一樣對誠隱藏的感情。
+    榊野高中1年3班學生，與剎那是青梅竹馬且是同父異母姐妹。雖然是班上的氣氛製造者，但今年夏天因為[腮腺炎](../Page/腮腺炎.md "wikilink")而昏睡不醒。抱著與剎那一樣對誠隱藏的感情。
 
 <!-- end list -->
 
@@ -52,8 +47,7 @@ disc意義](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")。但根據[Overf
 
 <!-- end list -->
 
-  - 加藤乙女（聲優：[松永雪希](../Page/松永雪希.md "wikilink")、[内野ぽち](https://zh.wikipedia.org/wiki/内野ぽち "wikilink")(SHINY
-    DAYS)）
+  - 加藤乙女（聲優：[松永雪希](../Page/松永雪希.md "wikilink")、[内野ぽち](https://zh.wikipedia.org/wiki/内野ぽち "wikilink")(SHINY DAYS)）
     榊野高中1年4班學生，和誠是同個國中出身的好友。雖然身屬女子籃球社，但因為是體育公費生，好像找不到敵手的樣子。很久以前就喜歡誠，但是對戀愛晚熟的個性，讓她不怎麼能拉近距離。和言葉關係極差，不過因為正在放暑假的關係並沒有欺負言葉。其妹可憐曾說她「沒有胸襟也沒有胸部」。
 
 <!-- end list -->
@@ -109,7 +103,7 @@ disc意義](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")。但根據[Overf
 <!-- end list -->
 
   - 桂真奈美（聲優：[鈴美巴](https://zh.wikipedia.org/wiki/鈴美巴 "wikilink")）
-    言葉和心的母親。擔任經營顧問，訪問踴子擔任店長的Radish視察。桂家是有錢人，因為自[丈夫她的買賣成功了](../Page/丈夫.md "wikilink")。與舞和-{踊}-子從很早以前有親密的交往。
+    言葉和心的母親。擔任經營顧問，訪問踴子擔任店長的Radish視察。桂家是有錢人，因為自[丈夫](../Page/丈夫.md "wikilink")她的買賣成功了。與舞和-{踊}-子從很早以前有親密的交往。
 
 <!-- end list -->
 
@@ -147,7 +141,7 @@ disc意義](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")。但根據[Overf
 
 <!-- end list -->
 
-  - 片尾曲：『Sweet Sunse』
+  - 片尾曲：『Sweet Sunset』
 
 <!-- end list -->
 
@@ -179,8 +173,7 @@ disc意義](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")。但根據[Overf
 ### 小説
 
   - Summer Days（ISBN 9784434085611）
-    作者是岡田留奈，[HARVEST出版在](../Page/HARVEST出版.md "wikilink")2006年12月1日發售\[10\]的18禁小說，正體中文版是由[青文出版社在](../Page/青文出版社.md "wikilink")2009年8月12日發售（ISBN
-    9789862099117\[11\]）。
+    作者是岡田留奈，[HARVEST出版](../Page/HARVEST出版.md "wikilink")在2006年12月1日發售\[10\]的18禁小說，正體中文版是由[青文出版社](../Page/青文出版社.md "wikilink")在2009年8月12日發售（ISBN 9789862099117\[11\]）。
   - エンジョイ\!\!サマーデイズ
     作者是関町台風，連載於BugBug 2006年8月號。
 
@@ -198,14 +191,11 @@ disc意義](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")。但根據[Overf
 
 ## 開發
 
-《Summer
-Days》原本預定在2006年1月發售\[15\]，但是因為製作上的問題而延期到6月23日。\[16\]在發售初回版的時候因為某些18禁場景沒有打碼違反[電腦軟體倫理機構的規定](https://zh.wikipedia.org/wiki/電腦軟體倫理機構 "wikilink")，在7月7日進行自主回收下架遊戲\[17\]\[18\]，使得銷量也沒能順利大規模成功。除此之外遊戲在運行過程中遇到許多BUG問題，官方從6月22日起不斷發佈修正檔，修正檔從1.01A發佈至1.09B版，累計檔案大小達到前所未聞的2.3G\[19\]，但BUG問題依然不斷讓0verflow苦不堪言，也導致當時Overflow有一半的社員離職\[20\]，最後在2006年10月27日發售修正後的新裝版，但依舊還有些許問題並發佈修正檔2.01版。
+《Summer Days》原本預定在2006年1月發售\[15\]，但是因為製作上的問題而延期到6月23日。\[16\]在發售初回版的時候因為某些18禁場景沒有打碼違反[電腦軟體倫理機構的規定](https://zh.wikipedia.org/wiki/電腦軟體倫理機構 "wikilink")，在7月7日進行自主回收下架遊戲\[17\]\[18\]，使得銷量也沒能順利大規模成功。除此之外遊戲在運行過程中遇到許多BUG問題，官方從6月22日起不斷發佈修正檔，修正檔從1.01A發佈至1.09B版，累計檔案大小達到前所未聞的2.3G\[19\]，但BUG問題依然不斷讓0verflow苦不堪言，也導致當時Overflow有一半的社員離職\[20\]，最後在2006年10月27日發售修正後的新裝版，但依舊還有些許問題並發佈修正檔2.01版。
 
 ## 評價
 
-根據有限公司Peaks曾發行的《[PC
-NEWS](https://zh.wikipedia.org/wiki/PC_NEWS "wikilink")》所公佈的日本全國美少女遊戲銷售量排行榜，《Summer
-Days》於首次銷售隨即成為排行榜第1名\[21\]；七月上旬排行榜第7名。\[22\]另外在Getchu.com舉辦的2006年美少女遊戲排名中獲得映像部門第10名。\[23\]
+根據有限公司Peaks曾發行的《[PC NEWS](https://zh.wikipedia.org/wiki/PC_NEWS "wikilink")》所公佈的日本全國美少女遊戲銷售量排行榜，《Summer Days》於首次銷售隨即成為排行榜第1名\[21\]；七月上旬排行榜第7名。\[22\]另外在Getchu.com舉辦的2006年美少女遊戲排名中獲得映像部門第10名。\[23\]
 
 ## 參考來源
 
@@ -214,44 +204,28 @@ Days》於首次銷售隨即成為排行榜第1名\[21\]；七月上旬排行榜
   - [Summer Days](http://schooldays.0verflow.com/sd_index.html)
   - [SHINYDAYS](https://web.archive.org/web/20150313003345/http://www.0verflow.com/SHINYDAYS/)
 
-[Category:2006年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2006年日本成人遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:UMDPG](https://zh.wikipedia.org/wiki/Category:UMDPG "wikilink")
-[Category:DVDPG](https://zh.wikipedia.org/wiki/Category:DVDPG "wikilink")
-[Category:神奈川縣背景作品](https://zh.wikipedia.org/wiki/Category:神奈川縣背景作品 "wikilink")
-[Category:高中題材電子遊戲](https://zh.wikipedia.org/wiki/Category:高中題材電子遊戲 "wikilink")
+[Category:2006年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2006年日本成人遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:UMDPG](https://zh.wikipedia.org/wiki/Category:UMDPG "wikilink") [Category:DVDPG](https://zh.wikipedia.org/wiki/Category:DVDPG "wikilink") [Category:神奈川縣背景作品](https://zh.wikipedia.org/wiki/Category:神奈川縣背景作品 "wikilink") [Category:高中題材電子遊戲](https://zh.wikipedia.org/wiki/Category:高中題材電子遊戲 "wikilink")
 
-1.  [Summer Days（サマーデイズ）
-    初回限定版](http://www.getchu.com/soft.phtml?id=208301)Getchu.com
+1.  [Summer Days（サマーデイズ） 初回限定版](http://www.getchu.com/soft.phtml?id=208301)Getchu.com
 2.  [Summer Days](https://vndb.org/v73)The Visual Novel Database
-3.  [Summer
-    Days](http://www.aicherry.com/aicherryhp/contents/aicherry/jacket/aicdv0155/aicdv0155.html)
-    アイチェリー
-4.  [Summer Days UMD-PG
-    Edition](http://www.palacegame.cc/detail.php?id=0017)Palace
-5.  [SHINY DAYS
-    初回プレス限定生産版](http://www.getchu.com/soft.phtml?id=707176)Getchu.com
+3.  [Summer Days](http://www.aicherry.com/aicherryhp/contents/aicherry/jacket/aicdv0155/aicdv0155.html) アイチェリー
+4.  [Summer Days UMD-PG Edition](http://www.palacegame.cc/detail.php?id=0017)Palace
+5.  [SHINY DAYS 初回プレス限定生産版](http://www.getchu.com/soft.phtml?id=707176)Getchu.com
 6.  [Shiny Days](https://vndb.org/v7751)The Visual Novel Database
-7.  [Summer Days
-    サマーデイズ](http://erogetrailers.com/soft/1768)ErogeTrailers
-8.  [SHINY DAYS
-    シャイニーデイズ](http://erogetrailers.com/soft/7687)ErogeTrailers
+7.  [Summer Days サマーデイズ](http://erogetrailers.com/soft/1768)ErogeTrailers
+8.  [SHINY DAYS シャイニーデイズ](http://erogetrailers.com/soft/7687)ErogeTrailers
 9.
 10.
 11.
 12.
 13.
 14.
-15. [Summer
-    Days](https://web.archive.org/web/20051212064910/http://schooldays.0verflow.com/index.html)Overflow
+15. [Summer Days](https://web.archive.org/web/20051212064910/http://schooldays.0verflow.com/index.html)Overflow
 16. [サマーデイズに関するお詫び](https://web.archive.org/web/20060705234330/http://www.0verflow.com/html/topic/060628_apology.html)Overflow
 17. [修正パッチが話題の美少女ゲーム「サマーデイズ」初回限定版が回収騒ぎに！](http://www.new-akiba.com/news/post_2537)new-Akiba.com
 18. [サマーデイズ自主回収　まだアキバには在庫あった](http://www.akibablog.net/archives/2006/07/post_622.html)[秋葉原Blog](../Page/秋葉原Blog.md "wikilink")
 19. [美少女ゲーム「サマーデイズ」修正パッチのサイズが２ＧＢを超えている](http://www.new-akiba.com/news/post_2165)new-Akiba.com
-20. [Overflowピンチ\!?
-    「サマーデイズ」回収騒ぎのあおりで社員の半分が退職との噂](http://www.new-akiba.com/news/overflow)new-Akiba.com
+20. [Overflowピンチ\!? 「サマーデイズ」回収騒ぎのあおりで社員の半分が退職との噂](http://www.new-akiba.com/news/overflow)new-Akiba.com
 21.
 22.
-23. [2006年美少女ゲームランキング 結果発表
-    ―映像―](http://www.getchu.com/pc/2006_g_ranking/result/2006_ur_result_visual.html)Getchu.com
+23. [2006年美少女ゲームランキング 結果発表 ―映像―](http://www.getchu.com/pc/2006_g_ranking/result/2006_ur_result_visual.html)Getchu.com

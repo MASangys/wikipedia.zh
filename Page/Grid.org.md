@@ -1,25 +1,18 @@
-**Grid.org**
-是一个以药物集成开发为主题的[分布式计算平台](https://zh.wikipedia.org/wiki/分布式计算平台 "wikilink")，它主要为一些生物医药类项目提供计算平台。
+**Grid.org** 是一个以药物集成开发为主题的[分布式计算平台](https://zh.wikipedia.org/wiki/分布式计算平台 "wikilink")，它主要为一些生物医药类项目提供计算平台。
 
-在该平台上曾经运行过的[分布式计算项目如下](../Page/分布式计算.md "wikilink")：
+在该平台上曾经运行过的[分布式计算](../Page/分布式计算.md "wikilink")项目如下：
 
-  - [Genetic Research with
-    HMMER](https://zh.wikipedia.org/wiki/Genetic_Research_with_HMMER "wikilink")
-  - [Web Performance
-    Testing](https://zh.wikipedia.org/wiki/Web_Performance_Testing "wikilink")
+  - [Genetic Research with HMMER](https://zh.wikipedia.org/wiki/Genetic_Research_with_HMMER "wikilink")
+  - [Web Performance Testing](https://zh.wikipedia.org/wiki/Web_Performance_Testing "wikilink")
   - [Anthrax](https://zh.wikipedia.org/wiki/Anthrax "wikilink")
   - [Smallpox](https://zh.wikipedia.org/wiki/Smallpox "wikilink")
 
 目前运行于该平台下的分布式计算项目如下：
 
-  - [Cancer
-    Research](https://zh.wikipedia.org/wiki/Cancer_Research "wikilink")
-  - [Human Proteome
-    Folding](https://zh.wikipedia.org/wiki/Human_Proteome_Folding "wikilink")
-  - [Pancreatic Cancer
-    Research](https://zh.wikipedia.org/wiki/Pancreatic_Cancer_Research "wikilink")
-  - [United
-    Devices](https://zh.wikipedia.org/wiki/United_Devices "wikilink")
+  - [Cancer Research](https://zh.wikipedia.org/wiki/Cancer_Research "wikilink")
+  - [Human Proteome Folding](https://zh.wikipedia.org/wiki/Human_Proteome_Folding "wikilink")
+  - [Pancreatic Cancer Research](https://zh.wikipedia.org/wiki/Pancreatic_Cancer_Research "wikilink")
+  - [United Devices](https://zh.wikipedia.org/wiki/United_Devices "wikilink")
 
 ## 時間線
 
@@ -68,7 +61,6 @@
 
 ## 外部链接
 
-  - [Grid.org
-    中文站](https://web.archive.org/web/20051126133937/http://www.equn.com/udgrid/)
+  - [Grid.org 中文站](https://web.archive.org/web/20051126133937/http://www.equn.com/udgrid/)
 
 [Category:分布式计算](https://zh.wikipedia.org/wiki/Category:分布式计算 "wikilink")

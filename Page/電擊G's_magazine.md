@@ -1,7 +1,6 @@
-**電擊G's magazine**是由[ASCII Media
-Works](../Page/ASCII_Media_Works.md "wikilink")（前[MediaWorks](../Page/MediaWorks.md "wikilink")）從1992年起發行的月刊[遊戲雜誌](https://zh.wikipedia.org/wiki/遊戲雜誌 "wikilink")。毎月30日發售。
+**電擊G's magazine**是由[ASCII Media Works](../Page/ASCII_Media_Works.md "wikilink")（前[MediaWorks](../Page/MediaWorks.md "wikilink")）從1992年起發行的月刊[遊戲雜誌](https://zh.wikipedia.org/wiki/遊戲雜誌 "wikilink")。毎月30日發售。
 
-該雜誌主要針對[家用遊戲機的](https://zh.wikipedia.org/wiki/家用遊戲機 "wikilink")[美少女遊戲軟件](../Page/美少女遊戲.md "wikilink")。另外它還推行近年常常所說的讀者參加雜誌上連載獨創規劃，並將其進行[遊戲軟體化](https://zh.wikipedia.org/wiki/遊戲軟體 "wikilink")、[動畫化的](https://zh.wikipedia.org/wiki/動畫 "wikilink")[跨媒體製作](../Page/跨媒體製作.md "wikilink")。
+該雜誌主要針對[家用遊戲機的](https://zh.wikipedia.org/wiki/家用遊戲機 "wikilink")[美少女遊戲](../Page/美少女遊戲.md "wikilink")軟件。另外它還推行近年常常所說的讀者參加雜誌上連載獨創規劃，並將其進行[遊戲軟體化](https://zh.wikipedia.org/wiki/遊戲軟體 "wikilink")、[動畫化的](https://zh.wikipedia.org/wiki/動畫 "wikilink")[跨媒體製作](../Page/跨媒體製作.md "wikilink")。
 
 ## 沿革
 
@@ -10,9 +9,7 @@ Works](../Page/ASCII_Media_Works.md "wikilink")（前[MediaWorks](../Page/MediaW
   - 1997年6月30日，《電擊G's Engine》改名為《電擊G's雜誌》（）並發行1997年8月號。
   - 2002年3月30日，《電擊G's雜誌》改名為《電擊G's magazine》（）並發行2002年5月號。
   - 2008年4月30日，《電擊G's magazine》發行2008年6月號，發行公司名稱改為ASCII Media Works。
-  - 2009年3月2日，《電擊G's
-    magazine》的[行動上網專用網站](https://zh.wikipedia.org/wiki/行動上網 "wikilink")《電擊G's
-    mobile》（）開站。
+  - 2009年3月2日，《電擊G's magazine》的[行動上網專用網站](https://zh.wikipedia.org/wiki/行動上網 "wikilink")《電擊G's mobile》（）開站。
 
 ## 本誌連載的主要讀者參加計劃
 
@@ -42,17 +39,15 @@ Works](../Page/ASCII_Media_Works.md "wikilink")（前[MediaWorks](../Page/MediaW
 
 <!-- end list -->
 
-  - [歡樂課程](../Page/歡樂課程.md "wikilink")/HAPPY
-    LESSON（原作・畫：[佐佐木睦美](https://zh.wikipedia.org/wiki/佐佐木睦美 "wikilink")（但是事實上擔任寫文的是鷹野よしき（高野希義現編集長））、1999年4月号～2002年9月号）遊戲・OVA・TV動畫・漫畫・小說
-  - [Milky
-    Season](https://zh.wikipedia.org/wiki/Milky_Season "wikilink")（畫：森藤卓弥、2000年3月號～2001年10月號）遊戲
+  - [歡樂課程](../Page/歡樂課程.md "wikilink")/HAPPY LESSON（原作・畫：[佐佐木睦美](https://zh.wikipedia.org/wiki/佐佐木睦美 "wikilink")（但是事實上擔任寫文的是鷹野よしき（高野希義現編集長））、1999年4月号～2002年9月号）遊戲・OVA・TV動畫・漫畫・小說
+  - [Milky Season](https://zh.wikipedia.org/wiki/Milky_Season "wikilink")（畫：森藤卓弥、2000年3月號～2001年10月號）遊戲
   - Merry Little Park（畫：ひさかた悠、2001年4月號～12月號）
   - [雙戀](https://zh.wikipedia.org/wiki/雙戀 "wikilink")（原作：雙葉雛、畫：佐佐木睦美、2002年10月號～2005年10月號）TV動畫・遊戲・漫畫
 
 <!-- end list -->
 
   -
-    [歡樂課程連載完結後立即開始的企劃](../Page/歡樂課程.md "wikilink")。2003年10月號～2005年10月號封面。
+    [歡樂課程](../Page/歡樂課程.md "wikilink")連載完結後立即開始的企劃。2003年10月號～2005年10月號封面。
 
 <!-- end list -->
 
@@ -63,13 +58,11 @@ Works](../Page/ASCII_Media_Works.md "wikilink")（前[MediaWorks](../Page/MediaW
 <!-- end list -->
 
   -
-    此作是與[Navel合作的合同企画](../Page/Navel.md "wikilink")。
+    此作是與[Navel](../Page/Navel.md "wikilink")合作的合同企画。
 
 <!-- end list -->
 
-  - [2/3
-    アイノキョウカイセン](https://zh.wikipedia.org/wiki/2/3_アイノキョウカイセン "wikilink")（畫：[京極しん](https://zh.wikipedia.org/wiki/京極しん "wikilink")・[小川静香](https://zh.wikipedia.org/wiki/小川静香 "wikilink")、2006年1月號～
-    2007年12月號）
+  - [2/3 アイノキョウカイセン](https://zh.wikipedia.org/wiki/2/3_アイノキョウカイセン "wikilink")（畫：[京極しん](https://zh.wikipedia.org/wiki/京極しん "wikilink")・[小川静香](https://zh.wikipedia.org/wiki/小川静香 "wikilink")、2006年1月號～ 2007年12月號）
 
 <!-- end list -->
 
@@ -78,8 +71,7 @@ Works](../Page/ASCII_Media_Works.md "wikilink")（前[MediaWorks](../Page/MediaW
 
 <!-- end list -->
 
-  - [A.I. Love
-    You\!](https://zh.wikipedia.org/wiki/A.I._Love_You! "wikilink")（畫：高階@聖人、2006年2月號～2009年11月號）
+  - [A.I. Love You\!](https://zh.wikipedia.org/wiki/A.I._Love_You! "wikilink")（畫：高階@聖人、2006年2月號～2009年11月號）
 
 <!-- end list -->
 
@@ -88,13 +80,9 @@ Works](../Page/ASCII_Media_Works.md "wikilink")（前[MediaWorks](../Page/MediaW
 
 <!-- end list -->
 
-  - [公主導航](https://zh.wikipedia.org/wiki/公主導航 "wikilink")（畫：[七尾奈留](../Page/七尾奈留.md "wikilink")、文：[SATZ](https://zh.wikipedia.org/wiki/SATZ "wikilink")）：2007年10月號
-    - 2011年5月號
-  - [寶貝公主](../Page/寶貝公主.md "wikilink")（原作：公野櫻子、畫：[みぶなつき](https://zh.wikipedia.org/wiki/みぶなつき "wikilink")）：2007年12月號
-    - 2012年6月號
-  - [Love
-    Live\!](../Page/Love_Live!.md "wikilink")（原作：[矢立肇](https://zh.wikipedia.org/wiki/矢立肇 "wikilink")、原案：公野櫻子）：2010年7月號
-    -
+  - [公主導航](https://zh.wikipedia.org/wiki/公主導航 "wikilink")（畫：[七尾奈留](../Page/七尾奈留.md "wikilink")、文：[SATZ](https://zh.wikipedia.org/wiki/SATZ "wikilink")）：2007年10月號 - 2011年5月號
+  - [寶貝公主](../Page/寶貝公主.md "wikilink")（原作：公野櫻子、畫：[みぶなつき](https://zh.wikipedia.org/wiki/みぶなつき "wikilink")）：2007年12月號 - 2012年6月號
+  - [Love Live\!](../Page/Love_Live!.md "wikilink")（原作：[矢立肇](https://zh.wikipedia.org/wiki/矢立肇 "wikilink")、原案：公野櫻子）：2010年7月號 -
 
 ## 增刊
 
@@ -115,8 +103,7 @@ Works](../Page/ASCII_Media_Works.md "wikilink")（前[MediaWorks](../Page/MediaW
 
 <!-- end list -->
 
-  - [夜明前的琉璃色](../Page/夜明前的琉璃色.md "wikilink")（封面）・[Fate/hollow
-    ataraxia特集](https://zh.wikipedia.org/wiki/Fate/hollow_ataraxia "wikilink")。
+  - [夜明前的琉璃色](../Page/夜明前的琉璃色.md "wikilink")（封面）・[Fate/hollow ataraxia特集](https://zh.wikipedia.org/wiki/Fate/hollow_ataraxia "wikilink")。
   - 附錄：「Fate/hollow ataraxia」雙面枕頭套・「夜明前的琉璃色」拼圖・手提電話吊帶（圖案: 間桐櫻・鷹見澤菜月）
 
 <!-- end list -->
@@ -257,8 +244,7 @@ Works](../Page/ASCII_Media_Works.md "wikilink")（前[MediaWorks](../Page/MediaW
 
   - [電擊文庫MAGAZINE](../Page/電擊文庫MAGAZINE.md "wikilink")
   - [コンプティーク](https://zh.wikipedia.org/wiki/コンプティーク "wikilink")
-  - [Virtual
-    IDOL](https://zh.wikipedia.org/wiki/Virtual_IDOL "wikilink")
+  - [Virtual IDOL](https://zh.wikipedia.org/wiki/Virtual_IDOL "wikilink")
   - [DearMy...](https://zh.wikipedia.org/wiki/DearMy... "wikilink")
   - [RASPBERRY](https://zh.wikipedia.org/wiki/RASPBERRY "wikilink")
 
@@ -268,8 +254,4 @@ Works](../Page/ASCII_Media_Works.md "wikilink")（前[MediaWorks](../Page/MediaW
 
 [Category:電擊G's雜誌](https://zh.wikipedia.org/wiki/Category:電擊G's雜誌 "wikilink")
 
-[Category:日本漫畫雜誌](https://zh.wikipedia.org/wiki/Category:日本漫畫雜誌 "wikilink")
-[Category:月刊漫畫雜誌](https://zh.wikipedia.org/wiki/Category:月刊漫畫雜誌 "wikilink")
-[Category:動畫雜誌](https://zh.wikipedia.org/wiki/Category:動畫雜誌 "wikilink")
-[Category:遊戲雜誌](https://zh.wikipedia.org/wiki/Category:遊戲雜誌 "wikilink")
-[Category:1992年日本建立](https://zh.wikipedia.org/wiki/Category:1992年日本建立 "wikilink")
+[Category:日本漫畫雜誌](https://zh.wikipedia.org/wiki/Category:日本漫畫雜誌 "wikilink") [Category:月刊漫畫雜誌](https://zh.wikipedia.org/wiki/Category:月刊漫畫雜誌 "wikilink") [Category:動畫雜誌](https://zh.wikipedia.org/wiki/Category:動畫雜誌 "wikilink") [Category:遊戲雜誌](https://zh.wikipedia.org/wiki/Category:遊戲雜誌 "wikilink") [Category:1992年日本建立](https://zh.wikipedia.org/wiki/Category:1992年日本建立 "wikilink")

@@ -10,7 +10,4 @@
   - **[罗伯特·森克](https://zh.wikipedia.org/wiki/罗伯特·森克 "wikilink")**（，曾执行任务），有效载荷专家
   - **[比爾·納爾遜](../Page/比爾·納爾遜.md "wikilink")**（，曾执行任务），有效载荷专家
 
-[Category:1986年佛罗里达州](https://zh.wikipedia.org/wiki/Category:1986年佛罗里达州 "wikilink")
-[Category:哥伦比亚号航天飞机任务](https://zh.wikipedia.org/wiki/Category:哥伦比亚号航天飞机任务 "wikilink")
-[Category:1986年科学](https://zh.wikipedia.org/wiki/Category:1986年科学 "wikilink")
-[Category:1986年1月](https://zh.wikipedia.org/wiki/Category:1986年1月 "wikilink")
+[Category:1986年佛罗里达州](https://zh.wikipedia.org/wiki/Category:1986年佛罗里达州 "wikilink") [Category:哥伦比亚号航天飞机任务](https://zh.wikipedia.org/wiki/Category:哥伦比亚号航天飞机任务 "wikilink") [Category:1986年科学](https://zh.wikipedia.org/wiki/Category:1986年科学 "wikilink") [Category:1986年1月](https://zh.wikipedia.org/wiki/Category:1986年1月 "wikilink")

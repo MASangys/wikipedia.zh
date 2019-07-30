@@ -1,35 +1,22 @@
-**Rain**（），本名“**鄭智薰**”（
-為[韓國著名男歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")、[演員](../Page/演員.md "wikilink")、製作人，出生於[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[忠清南道](../Page/忠清南道.md "wikilink")[瑞山市](../Page/瑞山市.md "wikilink")，是韓國樂壇天王級歌手、演員、音樂製作人。以高熱度動作舞蹈最為著名。
+**Rain**（），本名**鄭智薰**（），為[韓國著名男歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")、[演員](../Page/演員.md "wikilink")、製作人，出生於[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[忠清南道](../Page/忠清南道.md "wikilink")[瑞山市](../Page/瑞山市.md "wikilink")，是韓國樂壇天王級歌手、演員、音樂製作人。以高熱度動作舞蹈最為著名。
 
-2002年以藝名Rain發行個人首張專輯《First Drop》。其後發行了《Rain 2》、《It's Raining》、《Rain's
-World》、《Rainism》等專輯，榮獲Mnet亞洲音樂大獎、首爾歌謠大賞、金唱片大賞等韓國音樂獎項 。
-2005年成為首位獲得中、日、泰三國的亞洲MTV韓國最佳藝人獎的亞洲歌手。
-2006年起在中、美、日、澳、泰等多個國家開啟了首個世界巡迴演唱會。2006年2月2日，Rain在紐約[麥迪遜廣場花園劇場舉行了首次北美個人演唱會](https://zh.wikipedia.org/wiki/麥迪遜廣場花園 "wikilink")，並參加錄製紐約時代廣場MTV演播中心特別節目《Rain在紐約》。
-同年獲選美國《[時代
-(雜誌)](https://zh.wikipedia.org/wiki/時代_\(雜誌\) "wikilink")》選為全球最具影響力100人，成為[時代百大人物](https://zh.wikipedia.org/wiki/時代百大人物 "wikilink")。是韓國目前唯一入過此榜單的藝人。2007年1月，Rain繼韓國、美國世界巡演後，乘坐由大韓航空全程贊助並印有自身肖像的飛機，先後飛往新加坡、馬來西亞、泰國、中國、澳洲、日本等多個國家舉行世界巡迴演唱會，更成為首位登上日本[東京巨蛋開個人演唱會的韓國藝人](../Page/東京巨蛋.md "wikilink")。2008年擔任北京奧運會閉幕式表演嘉賓
-。同年榮獲韓國形象基石獎，並以Rain之名被寫入大英百科全書網絡版。2010年擔任廣州亞運會閉幕式表演嘉賓 。 2011年再度獲選美國《[時代
-(雜誌)](https://zh.wikipedia.org/wiki/時代_\(雜誌\) "wikilink")》全球最具影響力100人，並成為目前唯一一個入選過兩次[時代百大人物的亞洲藝人](https://zh.wikipedia.org/wiki/時代百大人物 "wikilink")
-。
+2002年以藝名Rain發行個人首張專輯《First Drop》。其後發行了《Rain 2》、《It's Raining》、《Rain's World》、《Rainism》等專輯，榮獲Mnet亞洲音樂大獎、首爾歌謠大賞、金唱片大賞等韓國音樂獎項 。 2005年成為首位獲得中、日、泰三國的亞洲MTV韓國最佳藝人獎的亞洲歌手。 2006年起在中、美、日、澳、泰等多個國家開啟了首個世界巡迴演唱會。2006年2月2日，Rain在紐約[麥迪遜廣場花園劇場舉行了首次北美個人演唱會](https://zh.wikipedia.org/wiki/麥迪遜廣場花園 "wikilink")，並參加錄製紐約時代廣場MTV演播中心特別節目《Rain在紐約》。 同年獲選美國《[時代 (雜誌)](https://zh.wikipedia.org/wiki/時代_\(雜誌\) "wikilink")》選為全球最具影響力100人，成為[時代百大人物](https://zh.wikipedia.org/wiki/時代百大人物 "wikilink")。是韓國目前唯一入過此榜單的藝人。2007年1月，Rain繼韓國、美國世界巡演後，乘坐由大韓航空全程贊助並印有自身肖像的飛機，先後飛往新加坡、馬來西亞、泰國、中國、澳洲、日本等多個國家舉行世界巡迴演唱會，更成為首位登上日本[東京巨蛋](../Page/東京巨蛋.md "wikilink")開個人演唱會的韓國藝人。2008年擔任北京奧運會閉幕式表演嘉賓 。同年榮獲韓國形象基石獎，並以Rain之名被寫入大英百科全書網絡版。2010年擔任廣州亞運會閉幕式表演嘉賓 。 2011年再度獲選美國《[時代 (雜誌)](https://zh.wikipedia.org/wiki/時代_\(雜誌\) "wikilink")》全球最具影響力100人，並成為目前唯一一個入選過兩次[時代百大人物的亞洲藝人](https://zh.wikipedia.org/wiki/時代百大人物 "wikilink") 。
 
-Rain的影視事業開始於2003年，當年憑藉電視劇《[小爸爸上學去](../Page/小爸爸上學去.md "wikilink")》獲得[KBS演技大賞的男子新人賞](https://zh.wikipedia.org/wiki/KBS演技大賞 "wikilink")。2004年，Rain與[宋慧喬主演的電視劇](../Page/宋慧喬.md "wikilink")《[浪漫滿屋](https://zh.wikipedia.org/wiki/浪漫滿屋 "wikilink")》獲得[KBS演技大賞的男子優秀演技賞](https://zh.wikipedia.org/wiki/KBS演技大賞 "wikilink")。與[金思朗](../Page/金思朗.md "wikilink")、[新慜娥出演電視劇](../Page/新慜娥.md "wikilink")《[這該死的愛情](../Page/這該死的愛情.md "wikilink")》之後，Rain出演了他的首部韓國電影《賽柏格之戀》，並獲得了[柏林國際電影節的](https://zh.wikipedia.org/wiki/柏林國際電影節 "wikilink")[亞佛雷德鮑爾獎](../Page/亞佛雷德鮑爾獎.md "wikilink")。Rain之後出演了美國電影《[駭速快手](https://zh.wikipedia.org/wiki/駭速快手 "wikilink")》和《[忍者刺客](../Page/忍者刺客.md "wikilink")》，成為首位擔任好萊塢主流電影主角的韓星。
-《[忍者刺客](../Page/忍者刺客.md "wikilink")》更讓他成為首位獲得美國本土電影獎獎項[MTV電影大獎的韓國藝人](https://zh.wikipedia.org/wiki/MTV電影大獎 "wikilink")。Rain之後出演了另一部韓國電影《R2B：獵鷹行動》，該片於2012年8月上映。
+Rain的影視事業開始於2003年，當年憑藉電視劇《[小爸爸上學去](../Page/小爸爸上學去.md "wikilink")》獲得[KBS演技大賞的男子新人賞](https://zh.wikipedia.org/wiki/KBS演技大賞 "wikilink")。2004年，Rain與[宋慧喬](../Page/宋慧喬.md "wikilink")主演的電視劇《[浪漫滿屋](https://zh.wikipedia.org/wiki/浪漫滿屋 "wikilink")》獲得[KBS演技大賞的男子優秀演技賞](https://zh.wikipedia.org/wiki/KBS演技大賞 "wikilink")。與[金思朗](../Page/金思朗.md "wikilink")、[新慜娥](../Page/新慜娥.md "wikilink")出演電視劇《[這該死的愛情](../Page/這該死的愛情.md "wikilink")》之後，Rain出演了他的首部韓國電影《賽柏格之戀》，並獲得了[柏林國際電影節的](https://zh.wikipedia.org/wiki/柏林國際電影節 "wikilink")[亞佛雷德鮑爾獎](../Page/亞佛雷德鮑爾獎.md "wikilink")。Rain之後出演了美國電影《[駭速快手](https://zh.wikipedia.org/wiki/駭速快手 "wikilink")》和《[忍者刺客](../Page/忍者刺客.md "wikilink")》，成為首位擔任好萊塢主流電影主角的韓星。 《[忍者刺客](../Page/忍者刺客.md "wikilink")》更讓他成為首位獲得美國本土電影獎獎項[MTV電影大獎的韓國藝人](https://zh.wikipedia.org/wiki/MTV電影大獎 "wikilink")。Rain之後出演了另一部韓國電影《R2B：獵鷹行動》，該片於2012年8月上映。
 
-2007年，Rain離開經紀公司[JYP娛樂](../Page/JYP娛樂.md "wikilink")，並創立了自己的公司[J.
-Tune娛樂](https://zh.wikipedia.org/wiki/J._Tune娛樂 "wikilink")，但公司依然與[朴轸永保持合作關係](https://zh.wikipedia.org/wiki/朴轸永 "wikilink")。2011年10月9日，作為江南區宣傳大使的Rain同時也為感謝回饋粉絲，在首爾永東大路舉辦了入伍前的大型封街告別演唱會“Last
-Of The Best”，免費熱唱兩小時，兩萬多名國內外粉絲到場，多位圈內好友亦到場支持。
-10月11日上午正式入伍。2013年7月10日正式退伍，並已經和由前任JYP娛樂[總裁擔任](https://zh.wikipedia.org/wiki/總裁 "wikilink")[執行長的](https://zh.wikipedia.org/wiki/執行長 "wikilink")[Cube娛樂旗下的](../Page/Cube娛樂.md "wikilink")[Cube
-DC公司簽約](https://zh.wikipedia.org/wiki/Cube_DC "wikilink")。2015年，Rain創立了自己的公司[R.A.I.N.
-Company](https://zh.wikipedia.org/wiki/R.A.I.N._Company "wikilink")。
+2007年，Rain離開經紀公司[JYP娛樂](../Page/JYP娛樂.md "wikilink")，並創立了自己的公司[J. Tune娛樂](https://zh.wikipedia.org/wiki/J._Tune娛樂 "wikilink")，但公司依然與[朴轸永保持合作關係](https://zh.wikipedia.org/wiki/朴轸永 "wikilink")。2011年10月9日，作為江南區宣傳大使的Rain同時也為感謝回饋粉絲，在首爾永東大路舉辦了入伍前的大型封街告別演唱會“Last Of The Best”，免費熱唱兩小時，兩萬多名國內外粉絲到場，多位圈內好友亦到場支持。 10月11日上午正式入伍。2013年7月10日正式退伍，並已經和由前任JYP娛樂[總裁擔任](https://zh.wikipedia.org/wiki/總裁 "wikilink")[執行長的](https://zh.wikipedia.org/wiki/執行長 "wikilink")[Cube娛樂](../Page/Cube娛樂.md "wikilink")旗下的[Cube DC公司簽約](https://zh.wikipedia.org/wiki/Cube_DC "wikilink")。2015年，Rain創立了自己的公司[R.A.I.N. Company](https://zh.wikipedia.org/wiki/R.A.I.N._Company "wikilink")。
 
 ## 個人生活
 
-2013年1月，網絡媒體Dispatch公開Rain與韓國女藝人[金泰希的約會照片](../Page/金泰希.md "wikilink")。之後，金泰希方面承認與Rain已經交往了一個多月的事實。
+2013年1月，網絡媒體Dispatch公開Rain與韓國女藝人[金泰希](../Page/金泰希.md "wikilink")的約會照片。之後，金泰希方面承認與Rain已經交往了一個多月的事實。
 
 2017年1月17日，Rain透過個人Twitter公開親筆信，宣布與女友金泰希即將步入禮堂的消息\[1\]。1月18日，新聞媒體報導兩人將於1月19日舉行非公開婚禮\[2\]。
 
 2017年5月23日，其妻金泰希宣佈懷孕15週。\[3\]
 
 2017年10月25日，其妻金泰希產下一女。
+
+2019年2月26日，其妻金泰希宣布懷上第二胎，預產期為9月。
 
 ## 音樂作品
 
@@ -155,9 +142,7 @@ Company](https://zh.wikipedia.org/wiki/R.A.I.N._Company "wikilink")。
 ### 中文單曲
 
   - 2006年《手記》（Pantech廣告歌）
-  - 2008年《Any
-    Dream》（[Samsung](https://zh.wikipedia.org/wiki/Samsung "wikilink")
-    Anycall廣告歌）
+  - 2008年《Any Dream》（[Samsung](https://zh.wikipedia.org/wiki/Samsung "wikilink") Anycall廣告歌）
   - 2008年《Rainism》
   - 2009年《Love Story》
   - 2011年《珍愛》
@@ -175,19 +160,19 @@ Company](https://zh.wikipedia.org/wiki/R.A.I.N._Company "wikilink")。
 
 ### 電視劇
 
-| 年份        | 電視台                                                                                                         | 劇名                                                                          | 飾演      | 性質    |
-| --------- | ----------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | ------- | ----- |
-| 2002年     | [SBS](../Page/SBS_\(韓國\).md "wikilink")                                                                     | 《[Orange](https://zh.wikipedia.org/wiki/Orange "wikilink")》                 | 小雨      | 第一男主角 |
-| 2003年     | [KBS](../Page/韓國放送公社.md "wikilink")                                                                         | 《[小爸爸上學去](../Page/小爸爸上學去.md "wikilink")》                                    | 車尚道     |       |
-| 2004年     | 《[浪漫滿屋](https://zh.wikipedia.org/wiki/浪漫滿屋 "wikilink")》                                                     | 李英宰                                                                         |         |       |
-| 2005年     | 《[這該死的愛情](../Page/這該死的愛情.md "wikilink")》                                                                    | 姜賦九                                                                         |         |       |
-| 2010年     | 《[逃亡者Plan.B](../Page/逃亡者Plan.B.md "wikilink")》                                                              | 智愚                                                                          |         |       |
-| 2014年     | SBS                                                                                                         | 《[對我而言可愛的她](../Page/對我而言可愛的她.md "wikilink")》                                | 李賢旭     |       |
-| 2015年     | [浙江衛視](https://zh.wikipedia.org/wiki/浙江衛視 "wikilink")/[安徽衛視](https://zh.wikipedia.org/wiki/安徽衛視 "wikilink") | 《[克拉戀人](https://zh.wikipedia.org/wiki/克拉戀人 "wikilink")》                     | 蕭亮      |       |
-| 2016年     | SBS                                                                                                         | 《[回來吧大叔](../Page/回來吧大叔.md "wikilink")》                                      | 金英洙/李海俊 |       |
-| 2018年     | [JTBC](../Page/JTBC.md "wikilink")                                                                          | 《[Sketch](../Page/Sketch_\(韓國電視劇\).md "wikilink")》                          | 姜東洙     |       |
-| 2018年(待播) | 待定                                                                                                          | 《[八月未央](https://zh.wikipedia.org/wiki/八月未央_\(電視劇\) "wikilink")》             | 沈八月     |       |
-| 2019年     | MBC                                                                                                         | 《[Welcome 2 life](https://zh.wikipedia.org/wiki/Welcome_2_life "wikilink")》 |         |       |
+| 年份        | 電視台                                                                                                         | 劇名                                                              | 飾演      | 性質    |
+| --------- | ----------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- | ------- | ----- |
+| 2002年     | [SBS](../Page/SBS_\(韓國\).md "wikilink")                                                                     | 《[Orange](https://zh.wikipedia.org/wiki/Orange "wikilink")》     | 小雨      | 第一男主角 |
+| 2003年     | [KBS](../Page/韓國放送公社.md "wikilink")                                                                         | 《[小爸爸上學去](../Page/小爸爸上學去.md "wikilink")》                        | 車尚道     |       |
+| 2004年     | 《[浪漫滿屋](https://zh.wikipedia.org/wiki/浪漫滿屋 "wikilink")》                                                     | 李英宰                                                             |         |       |
+| 2005年     | 《[這該死的愛情](../Page/這該死的愛情.md "wikilink")》                                                                    | 姜賦九                                                             |         |       |
+| 2010年     | 《[逃亡者Plan.B](../Page/逃亡者Plan.B.md "wikilink")》                                                              | 智愚                                                              |         |       |
+| 2014年     | SBS                                                                                                         | 《[對我而言可愛的她](../Page/對我而言可愛的她.md "wikilink")》                    | 李賢旭     |       |
+| 2015年     | [浙江衛視](https://zh.wikipedia.org/wiki/浙江衛視 "wikilink")/[安徽衛視](https://zh.wikipedia.org/wiki/安徽衛視 "wikilink") | 《[克拉戀人](https://zh.wikipedia.org/wiki/克拉戀人 "wikilink")》         | 蕭亮      |       |
+| 2016年     | SBS                                                                                                         | 《[回來吧大叔](../Page/回來吧大叔.md "wikilink")》                          | 金英洙/李海俊 |       |
+| 2018年     | [JTBC](../Page/JTBC.md "wikilink")                                                                          | 《[Sketch](../Page/Sketch_\(韓國電視劇\).md "wikilink")》              | 姜東洙     |       |
+| 2018年(待播) | 待定                                                                                                          | 《[八月未央](https://zh.wikipedia.org/wiki/八月未央_\(電視劇\) "wikilink")》 | 沈八月     |       |
+| 2019年     | MBC                                                                                                         | 《[Welcome 2 Life](../Page/Welcome_2_Life.md "wikilink")》        | 李宰尚     |       |
 
 ### 電影
 
@@ -773,7 +758,7 @@ Company](https://zh.wikipedia.org/wiki/R.A.I.N._Company "wikilink")。
 | [KBS演技大賞](https://zh.wikipedia.org/wiki/KBS演技大賞 "wikilink")                                     | 大賞                                                          | 《這該死的爱》        |                |
 | 最高人氣男演員獎                                                                                        |                                                             |                |                |
 | 第7屆CCTV-MTV音樂盛典                                                                                 | 韓國最佳藝人獎                                                     |                |                |
-| 2006                                                                                            | 美國[時代雜誌年度百大最具影響力人物](../Page/時代雜誌.md "wikilink")             |                |                |
+| 2006                                                                                            | 美國[時代雜誌](../Page/時代雜誌.md "wikilink")年度百大最具影響力人物             |                |                |
 | 第8屆Mnet KM Music Festival                                                                       | 最佳超級明星獎獎                                                    | 《I'm Coming》   |                |
 | 最佳男歌手獎                                                                                          |                                                             |                |                |
 | 新加坡亞洲電視大獎                                                                                       | 最佳電影風格獎                                                     | 《這該死的愛》        |                |
@@ -802,7 +787,7 @@ Company](https://zh.wikipedia.org/wiki/R.A.I.N._Company "wikilink")。
 | 美國MTV電影頒獎典禮                                                                                     | Biggest Badass Star獎                                        |                |                |
 | 韓國文化產業振興院                                                                                       | 成就獎                                                         |                |                |
 | 第12屆[Mnet Asian Music Awards](https://zh.wikipedia.org/wiki/Mnet_Asian_Music_Awards "wikilink") | 最佳個人舞蹈演繹獎                                                   |                |                |
-| 2011                                                                                            | 美國[時代雜誌年度百大最具影響力人物](../Page/時代雜誌.md "wikilink")             |                |                |
+| 2011                                                                                            | 美國[時代雜誌](../Page/時代雜誌.md "wikilink")年度百大最具影響力人物             |                |                |
 | 第2屆韓國首爾文化藝術大獎頒獎禮                                                                                | 世界明星大獎                                                      |                |                |
 | 美國MTV音樂頻道                                                                                       | 最佳時尚男藝人獎                                                    |                |                |
 | 2013                                                                                            | 芭莎男士品位成功年度人物頒獎盛典                                            | 亞洲全能藝人大獎       |                |
@@ -1086,25 +1071,8 @@ Company](https://zh.wikipedia.org/wiki/R.A.I.N._Company "wikilink")。
   -
   -
   -
-[Category:郑姓](https://zh.wikipedia.org/wiki/Category:郑姓 "wikilink")
-[Category:忠清南道出身人物](https://zh.wikipedia.org/wiki/Category:忠清南道出身人物 "wikilink")
-[Category:韓國男歌手](https://zh.wikipedia.org/wiki/Category:韓國男歌手 "wikilink")
-[Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink")
-[Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink")
-[Category:韓國華語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國華語流行音樂歌手 "wikilink")
-[Category:日語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:日語流行音樂歌手 "wikilink")
-[Category:韓國電視演員](https://zh.wikipedia.org/wiki/Category:韓國電視演員 "wikilink")
-[Category:韓國電影演員](https://zh.wikipedia.org/wiki/Category:韓國電影演員 "wikilink")
-[Category:慶熙大學校友](https://zh.wikipedia.org/wiki/Category:慶熙大學校友 "wikilink")
-[Category:檀國大學校友丨J](https://zh.wikipedia.org/wiki/Category:檀國大學校友丨J "wikilink")
-[Category:MTV亞洲大獎獲得者](https://zh.wikipedia.org/wiki/Category:MTV亞洲大獎獲得者 "wikilink")
-[Category:Mnet亞洲音樂大獎獲得者](https://zh.wikipedia.org/wiki/Category:Mnet亞洲音樂大獎獲得者 "wikilink")
-[Category:福布斯韩国年度前十名人](https://zh.wikipedia.org/wiki/Category:福布斯韩国年度前十名人 "wikilink")
-[Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink")
-[Category:韓國男演員](https://zh.wikipedia.org/wiki/Category:韓國男演員 "wikilink")
-[Category:1982年出生](https://zh.wikipedia.org/wiki/Category:1982年出生 "wikilink")
+[Category:郑姓](https://zh.wikipedia.org/wiki/Category:郑姓 "wikilink") [Category:忠清南道出身人物](https://zh.wikipedia.org/wiki/Category:忠清南道出身人物 "wikilink") [Category:韓國男歌手](https://zh.wikipedia.org/wiki/Category:韓國男歌手 "wikilink") [Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink") [Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink") [Category:韓國華語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國華語流行音樂歌手 "wikilink") [Category:日語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:日語流行音樂歌手 "wikilink") [Category:韓國電視演員](https://zh.wikipedia.org/wiki/Category:韓國電視演員 "wikilink") [Category:韓國電影演員](https://zh.wikipedia.org/wiki/Category:韓國電影演員 "wikilink") [Category:慶熙大學校友](https://zh.wikipedia.org/wiki/Category:慶熙大學校友 "wikilink") [Category:檀國大學校友丨J](https://zh.wikipedia.org/wiki/Category:檀國大學校友丨J "wikilink") [Category:MTV亞洲大獎獲得者](https://zh.wikipedia.org/wiki/Category:MTV亞洲大獎獲得者 "wikilink") [Category:Mnet亞洲音樂大獎獲得者](https://zh.wikipedia.org/wiki/Category:Mnet亞洲音樂大獎獲得者 "wikilink") [Category:福布斯韩国年度前十名人](https://zh.wikipedia.org/wiki/Category:福布斯韩国年度前十名人 "wikilink") [Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink") [Category:韓國男演員](https://zh.wikipedia.org/wiki/Category:韓國男演員 "wikilink") [Category:1982年出生](https://zh.wikipedia.org/wiki/Category:1982年出生 "wikilink")
 
-1.  [비, 손편지로 직접 결혼 발표 "김태희, 최고의
-    선물"](http://sports.chosun.com/news/ntype.htm?id=201701180100133670009192&servicedate=20170117)朝鮮體育
+1.  [비, 손편지로 직접 결혼 발표 "김태희, 최고의 선물"](http://sports.chosun.com/news/ntype.htm?id=201701180100133670009192&servicedate=20170117)朝鮮體育
 2.  [祝賀！17日剛宣佈婚訊的Rain＆金泰希19日大婚](http://www.koreastardaily.com/tc/news/89900)韓星網
 3.

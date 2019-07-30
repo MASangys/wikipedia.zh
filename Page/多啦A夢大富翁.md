@@ -1,6 +1,4 @@
-[Doraemon_2011-06-19_11-10-51-28.png](https://zh.wikipedia.org/wiki/File:Doraemon_2011-06-19_11-10-51-28.png "fig:Doraemon_2011-06-19_11-10-51-28.png")
-
-**多啦A夢大富翁**，舊名為**叮噹大富翁**，是由[香港](../Page/香港.md "wikilink")[智傲網絡遊戲集團](https://zh.wikipedia.org/wiki/智傲網絡遊戲集團 "wikilink")[1998年12月推出](https://zh.wikipedia.org/wiki/1998年12月 "wikilink")（[2007年2月再版](../Page/2007年2月.md "wikilink")，[台灣則由](https://zh.wikipedia.org/wiki/台灣 "wikilink")[智冠科技代理](../Page/智冠科技.md "wikilink")）\[1\]、以[多啦A夢為主題的](https://zh.wikipedia.org/wiki/多啦A夢 "wikilink")[大富翁](https://zh.wikipedia.org/wiki/大富翁 "wikilink")[電腦遊戲](https://zh.wikipedia.org/wiki/電腦遊戲 "wikilink")。該遊戲獲得[日本](../Page/日本.md "wikilink")[小學館授權及共同開發](../Page/小學館.md "wikilink")。因為該動畫在香港極受歡迎，遊戲同時由[無線電視原班](https://zh.wikipedia.org/wiki/無線電視 "wikilink")[配音員負責配音工作](../Page/配音員.md "wikilink")，遊戲銷量逾100,000套，創下了香港單機遊戲銷售紀錄。
+[Doraemon_2011-06-19_11-10-51-28.png](https://zh.wikipedia.org/wiki/File:Doraemon_2011-06-19_11-10-51-28.png "fig:Doraemon_2011-06-19_11-10-51-28.png")  **多啦A夢大富翁**，舊名為**叮噹大富翁**，是由[香港](../Page/香港.md "wikilink")[智傲網絡遊戲集團](https://zh.wikipedia.org/wiki/智傲網絡遊戲集團 "wikilink")[1998年12月推出](https://zh.wikipedia.org/wiki/1998年12月 "wikilink")（[2007年2月](../Page/2007年2月.md "wikilink")再版，[台灣則由](https://zh.wikipedia.org/wiki/台灣 "wikilink")[智冠科技](../Page/智冠科技.md "wikilink")代理）\[1\]、以[多啦A夢為主題的](https://zh.wikipedia.org/wiki/多啦A夢 "wikilink")[大富翁](https://zh.wikipedia.org/wiki/大富翁 "wikilink")[電腦遊戲](https://zh.wikipedia.org/wiki/電腦遊戲 "wikilink")。該遊戲獲得[日本](../Page/日本.md "wikilink")[小學館](../Page/小學館.md "wikilink")授權及共同開發。因為該動畫在香港極受歡迎，遊戲同時由[無線電視原班](https://zh.wikipedia.org/wiki/無線電視 "wikilink")[配音員](../Page/配音員.md "wikilink")負責配音工作，遊戲銷量逾100,000套，創下了香港單機遊戲銷售紀錄。
 
 ## 遊戲內容
 
@@ -48,9 +46,6 @@
   - 你睇\! 叮噹嚟喇 叮噹大富翁 準時今日登場，《星島日報》，1998-12-23
   - 電玩小子創大富翁淘金，《蘋果日報》，1998-12-18
 
-[Category:哆啦A夢衍生作品](https://zh.wikipedia.org/wiki/Category:哆啦A夢衍生作品 "wikilink")
-[Category:香港開發電子遊戲](https://zh.wikipedia.org/wiki/Category:香港開發電子遊戲 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:原生中文遊戲](https://zh.wikipedia.org/wiki/Category:原生中文遊戲 "wikilink")
+[Category:哆啦A夢衍生作品](https://zh.wikipedia.org/wiki/Category:哆啦A夢衍生作品 "wikilink") [Category:香港開發電子遊戲](https://zh.wikipedia.org/wiki/Category:香港開發電子遊戲 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:原生中文遊戲](https://zh.wikipedia.org/wiki/Category:原生中文遊戲 "wikilink")
 
 1.

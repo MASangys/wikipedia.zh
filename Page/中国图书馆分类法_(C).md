@@ -1,10 +1,10 @@
 ## 社会科学总论
 
-  - C0　[社会科学理论与](../Page/社会科学.md "wikilink")[方法论](https://zh.wikipedia.org/wiki/方法论 "wikilink")
+  - C0　[社会科学](../Page/社会科学.md "wikilink")理论与[方法论](https://zh.wikipedia.org/wiki/方法论 "wikilink")
 
 :\*C01 科学研究的方针、政策及其阐述
 
-:\*C02 [科学的哲学思想](../Page/科学.md "wikilink")
+:\*C02 [科学](../Page/科学.md "wikilink")的哲学思想
 
 :\*C03 科学的方法论
 
@@ -12,14 +12,13 @@
 
 :\*C05 与其他科学的关系
 
-:\*C06
-[学派及其](https://zh.wikipedia.org/wiki/学派 "wikilink")[学说](https://zh.wikipedia.org/wiki/学说 "wikilink")
+:\*C06 [学派及其](https://zh.wikipedia.org/wiki/学派 "wikilink")[学说](https://zh.wikipedia.org/wiki/学说 "wikilink")
 
 :\*C08 资产阶级理论及其评论研究
 
 :\*C09 [社会科学史](https://zh.wikipedia.org/wiki/社会科学史 "wikilink")
 
-  - C1　[社会科学现状](../Page/社会科学.md "wikilink")、概况
+  - C1　[社会科学](../Page/社会科学.md "wikilink")现状、概况
 
 :\*C18 专利
 
@@ -79,11 +78,9 @@
 
   - C5　社会科学[丛书](https://zh.wikipedia.org/wiki/丛书 "wikilink")、[文集](https://zh.wikipedia.org/wiki/文集 "wikilink")、[连续性出版物](https://zh.wikipedia.org/wiki/连续性出版物 "wikilink")
 
-:\*C51
-[丛书](https://zh.wikipedia.org/wiki/丛书 "wikilink")（汇刻书）、[文库](https://zh.wikipedia.org/wiki/文库 "wikilink")
+:\*C51 [丛书](https://zh.wikipedia.org/wiki/丛书 "wikilink")（汇刻书）、[文库](https://zh.wikipedia.org/wiki/文库 "wikilink")
 
-:\*C52
-[全集](../Page/全集.md "wikilink")、[选集](https://zh.wikipedia.org/wiki/选集 "wikilink")
+:\*C52 [全集](../Page/全集.md "wikilink")、[选集](https://zh.wikipedia.org/wiki/选集 "wikilink")
 
 :\*C53 [文集](https://zh.wikipedia.org/wiki/文集 "wikilink")、会议录
 
@@ -101,11 +98,9 @@
 
   - C6　社会科学[参考工具书](https://zh.wikipedia.org/wiki/参考工具书 "wikilink")
 
-:\*C61
-[名词术语](https://zh.wikipedia.org/wiki/名词术语 "wikilink")、[辞典](https://zh.wikipedia.org/wiki/辞典 "wikilink")、[百科全书](../Page/百科全书.md "wikilink")（[类书](https://zh.wikipedia.org/wiki/类书 "wikilink")）
+:\*C61 [名词术语](https://zh.wikipedia.org/wiki/名词术语 "wikilink")、[辞典](https://zh.wikipedia.org/wiki/辞典 "wikilink")、[百科全书](../Page/百科全书.md "wikilink")（[类书](https://zh.wikipedia.org/wiki/类书 "wikilink")）
 
-:\*C62
-[手册](https://zh.wikipedia.org/wiki/手册 "wikilink")、[指南](https://zh.wikipedia.org/wiki/指南 "wikilink")、[一览表](https://zh.wikipedia.org/wiki/一览表 "wikilink")、[年表](https://zh.wikipedia.org/wiki/年表 "wikilink")
+:\*C62 [手册](https://zh.wikipedia.org/wiki/手册 "wikilink")、[指南](https://zh.wikipedia.org/wiki/指南 "wikilink")、[一览表](https://zh.wikipedia.org/wiki/一览表 "wikilink")、[年表](https://zh.wikipedia.org/wiki/年表 "wikilink")
 
 :\*C63 目录、样本、说明书
 
@@ -176,24 +171,19 @@
 
 ::\*C911 社会发展和变迁
 
-::\*C912
-[社会结构和](../Page/社会结构.md "wikilink")[社会关系](../Page/社会关系.md "wikilink")
+::\*C912 [社会结构](../Page/社会结构.md "wikilink")和[社会关系](../Page/社会关系.md "wikilink")
 
-:::\*C912.1
-[个人](https://zh.wikipedia.org/wiki/个人 "wikilink")（[社会人](https://zh.wikipedia.org/wiki/社会人 "wikilink")）
+:::\*C912.1 [个人](https://zh.wikipedia.org/wiki/个人 "wikilink")（[社会人](https://zh.wikipedia.org/wiki/社会人 "wikilink")）
 
 :::\*C912.2 [社会团体](../Page/社会团体.md "wikilink")
 
-:::\*C912.3
-[社会关系](../Page/社会关系.md "wikilink")、[社会制约](https://zh.wikipedia.org/wiki/社会制约 "wikilink")
+:::\*C912.3 [社会关系](../Page/社会关系.md "wikilink")、[社会制约](https://zh.wikipedia.org/wiki/社会制约 "wikilink")
 
-:::\*C912.4
-[文化人类学](../Page/文化人类学.md "wikilink")、[社会人类学](https://zh.wikipedia.org/wiki/社会人类学 "wikilink")
+:::\*C912.4 [文化人类学](../Page/文化人类学.md "wikilink")、[社会人类学](https://zh.wikipedia.org/wiki/社会人类学 "wikilink")
 
 :::\*C912.5 [民族学](../Page/民族学.md "wikilink")
 
-:::\*C912.6
-[社会心理](https://zh.wikipedia.org/wiki/社会心理 "wikilink")、[社会行为](https://zh.wikipedia.org/wiki/社会行为 "wikilink")
+:::\*C912.6 [社会心理](https://zh.wikipedia.org/wiki/社会心理 "wikilink")、[社会行为](https://zh.wikipedia.org/wiki/社会行为 "wikilink")
 
 ::::\*C912.61 阶级心理
 
@@ -215,11 +205,9 @@
 
 ::::\*C912.82 农村社会学
 
-::\*C913
-[社会生活和](https://zh.wikipedia.org/wiki/社会生活 "wikilink")[社会问题](../Page/社会问题.md "wikilink")
+::\*C913 [社会生活和](https://zh.wikipedia.org/wiki/社会生活 "wikilink")[社会问题](../Page/社会问题.md "wikilink")
 
-:::\*C913.1
-[恋爱](https://zh.wikipedia.org/wiki/恋爱 "wikilink")、[家庭](../Page/家庭.md "wikilink")、[婚姻](../Page/婚姻.md "wikilink")
+:::\*C913.1 [恋爱](https://zh.wikipedia.org/wiki/恋爱 "wikilink")、[家庭](../Page/家庭.md "wikilink")、[婚姻](../Page/婚姻.md "wikilink")
 
 ::::\*C913.11 家庭、家族
 
@@ -231,8 +219,7 @@
 
 :::\*C913.2 [职业](https://zh.wikipedia.org/wiki/职业 "wikilink")
 
-:::\*C913.3
-[生活与](https://zh.wikipedia.org/wiki/生活 "wikilink")[消费](../Page/消费.md "wikilink")
+:::\*C913.3 [生活与](https://zh.wikipedia.org/wiki/生活 "wikilink")[消费](../Page/消费.md "wikilink")
 
 ::::\*C913.31 居住
 
@@ -250,8 +237,7 @@
 
 ::::\*C913.69[残疾人问题](https://zh.wikipedia.org/wiki/残疾人问题 "wikilink")
 
-:::\*C913.7
-[社会福利](../Page/社会福利.md "wikilink")、[救济](https://zh.wikipedia.org/wiki/救济 "wikilink")、[社会保障](../Page/社会保障.md "wikilink")
+:::\*C913.7 [社会福利](../Page/社会福利.md "wikilink")、[救济](https://zh.wikipedia.org/wiki/救济 "wikilink")、[社会保障](../Page/社会保障.md "wikilink")
 
 :::\*C913.8 [社会病态](https://zh.wikipedia.org/wiki/社会病态 "wikilink")
 
@@ -385,11 +371,9 @@
 
 :\*C96 [人才学](https://zh.wikipedia.org/wiki/人才学 "wikilink")
 
-::\*C961
-[人才培养与](https://zh.wikipedia.org/wiki/人才培养 "wikilink")[人才选拔](https://zh.wikipedia.org/wiki/人才选拔 "wikilink")
+::\*C961 [人才培养与](https://zh.wikipedia.org/wiki/人才培养 "wikilink")[人才选拔](https://zh.wikipedia.org/wiki/人才选拔 "wikilink")
 
-:::\*C961.9
-[人才预测与](https://zh.wikipedia.org/wiki/人才预测 "wikilink")[人才规划](https://zh.wikipedia.org/wiki/人才规划 "wikilink")
+:::\*C961.9 [人才预测与](https://zh.wikipedia.org/wiki/人才预测 "wikilink")[人才规划](https://zh.wikipedia.org/wiki/人才规划 "wikilink")
 
 ::\*C962 [人才管理](https://zh.wikipedia.org/wiki/人才管理 "wikilink")
 

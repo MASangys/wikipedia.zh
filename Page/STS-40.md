@@ -10,7 +10,4 @@
   - **[德鲁·加弗尼](https://zh.wikipedia.org/wiki/德鲁·加弗尼 "wikilink")**（，曾执行任务），任务专家
   - **[米莉·休斯-弗尔福德](https://zh.wikipedia.org/wiki/米莉·休斯-弗尔福德 "wikilink")**（，曾执行任务），任务专家
 
-[Category:1991年佛罗里达州](https://zh.wikipedia.org/wiki/Category:1991年佛罗里达州 "wikilink")
-[Category:1991年科學](https://zh.wikipedia.org/wiki/Category:1991年科學 "wikilink")
-[Category:哥伦比亚号航天飞机任务](https://zh.wikipedia.org/wiki/Category:哥伦比亚号航天飞机任务 "wikilink")
-[Category:1991年6月](https://zh.wikipedia.org/wiki/Category:1991年6月 "wikilink")
+[Category:1991年佛罗里达州](https://zh.wikipedia.org/wiki/Category:1991年佛罗里达州 "wikilink") [Category:1991年科學](https://zh.wikipedia.org/wiki/Category:1991年科學 "wikilink") [Category:哥伦比亚号航天飞机任务](https://zh.wikipedia.org/wiki/Category:哥伦比亚号航天飞机任务 "wikilink") [Category:1991年6月](https://zh.wikipedia.org/wiki/Category:1991年6月 "wikilink")

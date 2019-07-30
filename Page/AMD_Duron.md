@@ -1,10 +1,8 @@
-[Duron_1600_Applebred_model_A_Front.jpg](https://zh.wikipedia.org/wiki/File:Duron_1600_Applebred_model_A_Front.jpg "fig:Duron_1600_Applebred_model_A_Front.jpg")
-**Duron**是美國[AMD公司的一種為](https://zh.wikipedia.org/wiki/AMD "wikilink")[x86計算機平台而設的](https://zh.wikipedia.org/wiki/x86 "wikilink")[微處理器](https://zh.wikipedia.org/wiki/微處理器 "wikilink")，屬於AMD的第七代（[K7](https://zh.wikipedia.org/wiki/K7 "wikilink")）處理器，其中文官方名稱為“**钻龍**”，根据其英文发音被俗称为“**毒龙**”。
+[Duron_1600_Applebred_model_A_Front.jpg](https://zh.wikipedia.org/wiki/File:Duron_1600_Applebred_model_A_Front.jpg "fig:Duron_1600_Applebred_model_A_Front.jpg") **Duron**是美國[AMD公司的一種為](https://zh.wikipedia.org/wiki/AMD "wikilink")[x86計算機平台而設的](https://zh.wikipedia.org/wiki/x86 "wikilink")[微處理器](https://zh.wikipedia.org/wiki/微處理器 "wikilink")，屬於AMD的第七代（[K7](https://zh.wikipedia.org/wiki/K7 "wikilink")）處理器，其中文官方名稱為“**钻龍**”，根据其英文发音被俗称为“**毒龙**”。
 
 ## Duron 发展史
 
-为了与竞争对手[Intel的](https://zh.wikipedia.org/wiki/Intel "wikilink")[Celeron處理器争夺低端市场份额](https://zh.wikipedia.org/wiki/Celeron "wikilink")，2000年6月，AMD在[Athlon處理器基础上简化而来推出了Duron處理器](https://zh.wikipedia.org/wiki/Athlon "wikilink")。AMD前后共发布了基于**Spitfire**（烈火）、**Morgan**、**Applebred**
-3种核心的Duron處理器。
+为了与竞争对手[Intel的](https://zh.wikipedia.org/wiki/Intel "wikilink")[Celeron處理器争夺低端市场份额](https://zh.wikipedia.org/wiki/Celeron "wikilink")，2000年6月，AMD在[Athlon處理器基础上简化而来推出了Duron處理器](https://zh.wikipedia.org/wiki/Athlon "wikilink")。AMD前后共发布了基于**Spitfire**（烈火）、**Morgan**、**Applebred** 3种核心的Duron處理器。
 
 AMD已于2004年停产Duron處理器，Duron正式走入历史。其市场地位由AMD公司推出的[Sempron处理器接任](https://zh.wikipedia.org/wiki/Sempron "wikilink")。
 
@@ -12,11 +10,8 @@ AMD已于2004年停产Duron處理器，Duron正式走入历史。其市场地位
 
 ### Spitfire 核心 (Model 3, 180 nm)
 
-  - L1 快取：64 + 64 [KB](https://zh.wikipedia.org/wiki/KB "wikilink")（數據 +
-    指令）
-  - 支援的指令集：[MMX](../Page/MMX.md "wikilink")，Extended
-    [MMX](../Page/MMX.md "wikilink")，[3DNow\!](../Page/3DNow!.md "wikilink")，[Extended
-    3DNow\!](../Page/3DNow!.md "wikilink")
+  - L1 快取：64 + 64 [KB](https://zh.wikipedia.org/wiki/KB "wikilink")（數據 + 指令）
+  - 支援的指令集：[MMX](../Page/MMX.md "wikilink")，Extended [MMX](../Page/MMX.md "wikilink")，[3DNow\!](../Page/3DNow!.md "wikilink")，[Extended 3DNow\!](../Page/3DNow!.md "wikilink")
   - 推出日期：2000年6月19日
 
 | 型號                   | 時脈      | L2 [緩衝記憶體](https://zh.wikipedia.org/wiki/緩衝記憶體 "wikilink") | [前端匯流排](https://zh.wikipedia.org/wiki/前端匯流排 "wikilink") | 倍頻          | [電壓](../Page/電壓.md "wikilink") | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") | 插槽                                         | 發佈日期       |
@@ -36,11 +31,8 @@ AMD已于2004年停产Duron處理器，Duron正式走入历史。其市场地位
 
 ### Morgan 核心 (Model 7, 180 nm)
 
-  - L1 缓存：64 + 64 [KB](https://zh.wikipedia.org/wiki/KB "wikilink")（數據 +
-    指令）
-  - 支援的指令集：[MMX](../Page/MMX.md "wikilink")，Extended
-    [MMX](../Page/MMX.md "wikilink")，[3DNow\!](../Page/3DNow!.md "wikilink")，[Extended
-    3DNow\!](../Page/3DNow!.md "wikilink")，[SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink")
+  - L1 缓存：64 + 64 [KB](https://zh.wikipedia.org/wiki/KB "wikilink")（數據 + 指令）
+  - 支援的指令集：[MMX](../Page/MMX.md "wikilink")，Extended [MMX](../Page/MMX.md "wikilink")，[3DNow\!](../Page/3DNow!.md "wikilink")，[Extended 3DNow\!](../Page/3DNow!.md "wikilink")，[SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink")
   - 推出日期：2001年8月20日
 
 | 型號                    | 時脈       | L2 [緩衝記憶體](https://zh.wikipedia.org/wiki/緩衝記憶體 "wikilink") | [前端匯流排](https://zh.wikipedia.org/wiki/前端匯流排 "wikilink") | 倍頻          | [電壓](../Page/電壓.md "wikilink") | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") | 插槽                                         | 發佈日期       |
@@ -64,11 +56,8 @@ AMD已于2004年停产Duron處理器，Duron正式走入历史。其市场地位
 
 ### Applebred 核心 (Model 8, 130 nm)
 
-  - L1 快取：64 + 64 [KB](https://zh.wikipedia.org/wiki/KB "wikilink")（數據 +
-    指令）
-  - 支援的指令集：[MMX](../Page/MMX.md "wikilink")，Extended
-    [MMX](../Page/MMX.md "wikilink")，[3DNow\!](../Page/3DNow!.md "wikilink")，[Extended
-    3DNow\!](../Page/3DNow!.md "wikilink")，[SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink")
+  - L1 快取：64 + 64 [KB](https://zh.wikipedia.org/wiki/KB "wikilink")（數據 + 指令）
+  - 支援的指令集：[MMX](../Page/MMX.md "wikilink")，Extended [MMX](../Page/MMX.md "wikilink")，[3DNow\!](../Page/3DNow!.md "wikilink")，[Extended 3DNow\!](../Page/3DNow!.md "wikilink")，[SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink")
   - 推出日期：2003年8月21日
 
 | 型號             | 時脈       | L2 [緩衝記憶體](https://zh.wikipedia.org/wiki/緩衝記憶體 "wikilink") | [前端匯流排](https://zh.wikipedia.org/wiki/前端匯流排 "wikilink") | 倍頻    | [電壓](../Page/電壓.md "wikilink") | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") | 插槽                                         | 發佈日期       |
@@ -84,5 +73,4 @@ AMD已于2004年停产Duron處理器，Duron正式走入历史。其市场地位
   - [AMD Athlon處理器列表](../Page/AMD_Athlon處理器列表.md "wikilink")
   - [AMD Sempron處理器列表](../Page/AMD_Sempron處理器列表.md "wikilink")
 
-[Category:AMD处理器](https://zh.wikipedia.org/wiki/Category:AMD处理器 "wikilink")
-[Category:X86架構](https://zh.wikipedia.org/wiki/Category:X86架構 "wikilink")
+[Category:AMD处理器](https://zh.wikipedia.org/wiki/Category:AMD处理器 "wikilink") [Category:X86架構](https://zh.wikipedia.org/wiki/Category:X86架構 "wikilink")

@@ -1,4 +1,4 @@
-導演[王晶執導](https://zh.wikipedia.org/wiki/王晶_\(導演\) "wikilink")，並與[陳百祥自編自演的愛情喜劇](../Page/陳百祥.md "wikilink")。
+導演[王晶執導](https://zh.wikipedia.org/wiki/王晶_\(導演\) "wikilink")，並與[陳百祥](../Page/陳百祥.md "wikilink")自編自演的愛情喜劇。
 
 ## 劇情大綱
 
@@ -31,7 +31,4 @@
   -
   -
   -
-[Category:王晶電影](https://zh.wikipedia.org/wiki/Category:王晶電影 "wikilink")
-[Category:邵氏電影](https://zh.wikipedia.org/wiki/Category:邵氏電影 "wikilink")
-[Category:香港浪漫喜劇片](https://zh.wikipedia.org/wiki/Category:香港浪漫喜劇片 "wikilink")
-[Category:1980年代香港電影作品](https://zh.wikipedia.org/wiki/Category:1980年代香港電影作品 "wikilink")
+[Category:王晶電影](https://zh.wikipedia.org/wiki/Category:王晶電影 "wikilink") [Category:邵氏電影](https://zh.wikipedia.org/wiki/Category:邵氏電影 "wikilink") [Category:香港浪漫喜劇片](https://zh.wikipedia.org/wiki/Category:香港浪漫喜劇片 "wikilink") [Category:1980年代香港電影作品](https://zh.wikipedia.org/wiki/Category:1980年代香港電影作品 "wikilink")

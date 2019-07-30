@@ -1,10 +1,8 @@
-**SK飛龍**（[韓文](https://zh.wikipedia.org/wiki/韓文 "wikilink")：****，[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：**SK
-Wyverns**）為[韓國職棒的球團之一](https://zh.wikipedia.org/wiki/韓國職棒 "wikilink")，於2000年正式加盟韓國職棒，主場地設於[仁川廣域市的](../Page/仁川廣域市.md "wikilink")[文鶴棒球場](https://zh.wikipedia.org/wiki/文鶴棒球場 "wikilink")，累積至2018年共拿下4座年度總冠軍。
+**SK飛龍**（[韓文](https://zh.wikipedia.org/wiki/韓文 "wikilink")：****，[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：**SK Wyverns**）為[韓國職棒的球團之一](https://zh.wikipedia.org/wiki/韓國職棒 "wikilink")，於2000年正式加盟韓國職棒，主場地設於[仁川廣域市](../Page/仁川廣域市.md "wikilink")的[文鶴棒球場](https://zh.wikipedia.org/wiki/文鶴棒球場 "wikilink")，累積至2018年共拿下4座年度總冠軍。
 
 ## 球隊簡介
 
-'''SK飛龍 '''（ＳＫ 와이번스；SK
-Wyverns）為[韓國職棒球團](https://zh.wikipedia.org/wiki/韓國職棒 "wikilink")，於2000年加入韓國職棒，主球場為仁川市的[文鶴棒球場](https://zh.wikipedia.org/wiki/文鶴棒球場 "wikilink")。
+'''SK飛龍 '''（ＳＫ 와이번스；SK Wyverns）為[韓國職棒球團](https://zh.wikipedia.org/wiki/韓國職棒 "wikilink")，於2000年加入韓國職棒，主球場為仁川市的[文鶴棒球場](https://zh.wikipedia.org/wiki/文鶴棒球場 "wikilink")。
 
 2003年首度打入季後賽，但在韓國大賽3：4輸給[現代獨角獸](../Page/現代獨角獸.md "wikilink")。
 
@@ -19,7 +17,7 @@ Wyverns）為[韓國職棒球團](https://zh.wikipedia.org/wiki/韓國職棒 "wi
 ## 球隊簡史
 
   - 1999年成立，隊名ＳＫ飛龍隊。ＳＫ是以通信、石化為主的財團。
-  - 2000年加入韓國職棒，頂替了甫解散的[雙鈴突擊者留下的空缺](../Page/雙鈴突擊者.md "wikilink")，並吸收了雙鈴的所有球員；但兩隊之間並不被視為有繼承關係，以兩支各自獨立的球隊來處理。
+  - 2000年加入韓國職棒，頂替了甫解散的[雙鈴突擊者](../Page/雙鈴突擊者.md "wikilink")留下的空缺，並吸收了雙鈴的所有球員；但兩隊之間並不被視為有繼承關係，以兩支各自獨立的球隊來處理。
 
 ## 歷代教練
 
@@ -71,6 +69,4 @@ Wyverns）為[韓國職棒球團](https://zh.wikipedia.org/wiki/韓國職棒 "wi
   - [SK飛龍官方YouTube](https://www.youtube.com/user/Wyvernsstory)
   - [SK飛龍官方IG](https://www.instagram.com/skwyverns_official/)
 
-[Category:紀錄模板](https://zh.wikipedia.org/wiki/Category:紀錄模板 "wikilink")
-[Category:韓國職棒球隊](https://zh.wikipedia.org/wiki/Category:韓國職棒球隊 "wikilink")
-[Category:SK集團](https://zh.wikipedia.org/wiki/Category:SK集團 "wikilink")
+[Category:紀錄模板](https://zh.wikipedia.org/wiki/Category:紀錄模板 "wikilink") [Category:韓國職棒球隊](https://zh.wikipedia.org/wiki/Category:韓國職棒球隊 "wikilink") [Category:SK集團](https://zh.wikipedia.org/wiki/Category:SK集團 "wikilink")

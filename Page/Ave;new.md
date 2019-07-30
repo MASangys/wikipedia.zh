@@ -1,4 +1,4 @@
-**ave;new**（）是[日本一個](../Page/日本.md "wikilink")[音樂團體](https://zh.wikipedia.org/wiki/音樂 "wikilink")，兼營藝人仲介業務。團體組成初期是以[有限公司方式註冊](../Page/有限公司.md "wikilink")，總部設於[神奈川縣](../Page/神奈川縣.md "wikilink")[相模原市](../Page/相模原市.md "wikilink")。2010年4月19日改組為股份有限公司，並將總部遷移至[東京都](../Page/東京都.md "wikilink")[千代田區](../Page/千代田區.md "wikilink")。
+**ave;new**（）是[日本](../Page/日本.md "wikilink")一個[音樂團體](https://zh.wikipedia.org/wiki/音樂 "wikilink")，兼營藝人仲介業務。團體組成初期是以[有限公司](../Page/有限公司.md "wikilink")方式註冊，總部設於[神奈川縣](../Page/神奈川縣.md "wikilink")[相模原市](../Page/相模原市.md "wikilink")。2010年4月19日改組為股份有限公司，並將總部遷移至[東京都](../Page/東京都.md "wikilink")[千代田區](../Page/千代田區.md "wikilink")。
 
 ## 簡介
 
@@ -61,17 +61,12 @@ ave;new主要的活動是為[十八禁遊戲制作主題曲或](https://zh.wikip
 
 ### 原聲帶
 
-1.  「[Baldr Force](https://zh.wikipedia.org/wiki/Baldr_Force "wikilink")
-    "Standard Edition" FULL REMAKE SOUNDTRACK」（2007年3月23日發售）
+1.  「[Baldr Force](https://zh.wikipedia.org/wiki/Baldr_Force "wikilink") "Standard Edition" FULL REMAKE SOUNDTRACK」（2007年3月23日發售）
 
 ## 外部連結
 
   - [官方網站](http://www.avenew.jp/)
-  - [ave;new
-    project](https://archive.is/20121209081703/http://www.avenew.jp/avenewproject/main.html)
+  - [ave;new project](https://archive.is/20121209081703/http://www.avenew.jp/avenewproject/main.html)
   - [BRACE;d](https://web.archive.org/web/20070216074507/http://www.brace-d.com/)
 
-[Category:日本演唱團體](https://zh.wikipedia.org/wiki/Category:日本演唱團體 "wikilink")
-[Category:遊戲音樂團體](https://zh.wikipedia.org/wiki/Category:遊戲音樂團體 "wikilink")
-[Category:使用Vocaloid的音樂家](https://zh.wikipedia.org/wiki/Category:使用Vocaloid的音樂家 "wikilink")
-[Category:萌系歌曲歌手](https://zh.wikipedia.org/wiki/Category:萌系歌曲歌手 "wikilink")
+[Category:日本演唱團體](https://zh.wikipedia.org/wiki/Category:日本演唱團體 "wikilink") [Category:遊戲音樂團體](https://zh.wikipedia.org/wiki/Category:遊戲音樂團體 "wikilink") [Category:使用Vocaloid的音樂家](https://zh.wikipedia.org/wiki/Category:使用Vocaloid的音樂家 "wikilink") [Category:萌系歌曲歌手](https://zh.wikipedia.org/wiki/Category:萌系歌曲歌手 "wikilink")

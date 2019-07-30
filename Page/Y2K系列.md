@@ -1,13 +1,12 @@
-《**Y2K系列**》（）是[香港電台電視部製作的青春偶像](../Page/香港電台.md "wikilink")[單元劇系列](https://zh.wikipedia.org/wiki/單元劇 "wikilink")。每一輯都圍繞一個主題，以青少年勵志為主。這系列的特色是選用一群螢幕新人，於暑期選角拍攝，他們大都沒有演出經驗，最多也是兼職模特兒。推出的時候，非常受歡迎，亦令劇中主角的知名度大大提升。值得一提是，很多當時於首五套劇擔正的新人，現已成為樂壇、影壇的新一代，當中包括：[方力申](../Page/方力申.md "wikilink")、[余文樂](../Page/余文樂.md "wikilink")、[蔡卓妍](../Page/蔡卓妍.md "wikilink")、[關智斌](../Page/關智斌.md "wikilink")、[蔣雅文](../Page/蔣雅文.md "wikilink")、[唐詩詠](https://zh.wikipedia.org/wiki/唐詩詠 "wikilink")、[羅仲謙](../Page/羅仲謙.md "wikilink")、[談善言等](../Page/談善言.md "wikilink")。
+《**Y2K系列**》（）是[香港電台](../Page/香港電台.md "wikilink")電視部製作的青春偶像[單元劇系列](https://zh.wikipedia.org/wiki/單元劇 "wikilink")。每一輯都圍繞一個主題，以青少年勵志為主。這系列的特色是選用一群螢幕新人，於暑期選角拍攝，他們大都沒有演出經驗，最多也是兼職模特兒。推出的時候，非常受歡迎，亦令劇中主角的知名度大大提升。值得一提是，很多當時於首五套劇擔正的新人，現已成為樂壇、影壇的新一代，當中包括：[方力申](../Page/方力申.md "wikilink")、[余文樂](../Page/余文樂.md "wikilink")、[蔡卓妍](../Page/蔡卓妍.md "wikilink")、[關智斌](../Page/關智斌.md "wikilink")、[蔣雅文](../Page/蔣雅文.md "wikilink")、[唐詩詠](https://zh.wikipedia.org/wiki/唐詩詠 "wikilink")、[羅仲謙](../Page/羅仲謙.md "wikilink")、[談善言](../Page/談善言.md "wikilink")等。
 
 此劇系列共分為5輯：第1輯名為《**Y2K前的暑假**》，共有9集，於1999年播出；第2輯名為《**青春@Y2K**》，共有8集，於2000年播出；第3輯名為《**Y2K+01**》，共有10集，於2001年播出；第4輯名為《**過渡青春**》，共有10集，於2006年播出；第5輯名為《**DIY2K**》，於2012年播出。
 
 ## Y2K前的暑假
 
-《**Y2K前的暑假**》故事圍繞一班年青放暑假時因偶遇而引發的連串動人故事。合共8集，以青少年角度去看自己的行為，反映青少年的思想心態。
-暑假剛開始，一夥年青人機緣巧合之下，在警署聚首一堂結成好友，繼而一起投入各種暑期活動，引發連串友誼與愛情的衝擊，最後因友人Gilbert的突然死亡，令各人更珍惜生命，並努力踏上精彩前程。
+《**Y2K前的暑假**》故事圍繞一班年青放暑假時因偶遇而引發的連串動人故事。合共8集，以青少年角度去看自己的行為，反映青少年的思想心態。 暑假剛開始，一夥年青人機緣巧合之下，在警署聚首一堂結成好友，繼而一起投入各種暑期活動，引發連串友誼與愛情的衝擊，最後因友人Gilbert的突然死亡，令各人更珍惜生命，並努力踏上精彩前程。
 
-主題曲《渾身是愛》由[陳慧琳](../Page/陳慧琳.md "wikilink")、[雷頌德合唱](../Page/雷頌德.md "wikilink")。
+主題曲《渾身是愛》由[陳慧琳](../Page/陳慧琳.md "wikilink")、[雷頌德](../Page/雷頌德.md "wikilink")合唱。
 
 | 集數 | 首播日期       | 標題      | 編導                                                  |
 | -- | ---------- | ------- | --------------------------------------------------- |
@@ -37,7 +36,7 @@
 
 ## 青春@Y2K
 
-《**青春@Y2K**》於2000年暑假期間播出，共八集，主題曲為[王力宏之](../Page/王力宏.md "wikilink")《這就是愛》；此劇亦同時把劇中主角各人帶進娛樂圈發展，2005年出版影碟發售
+《**青春@Y2K**》於2000年暑假期間播出，共八集，主題曲為[王力宏](../Page/王力宏.md "wikilink")之《這就是愛》；此劇亦同時把劇中主角各人帶進娛樂圈發展，2005年出版影碟發售
 
 講述男子籃球隊聞名港九的德智中學，決定成立一支女子欖球隊。女欖球隊成員阿Yen與阿sa分別暗戀男子籃球隊的阿樂與阿Miu，而阿樂與阿Miu分別是隊中的競選對手，常生磨擦，令球隊爭取十連冠的希望日漸渺茫‥
 
@@ -70,8 +69,7 @@
 
 ## Y2K+01
 
-《**Y2K+01**》內容講述自幼嬌生慣養，從未經歷過風浪的名校高材生樂，因無牌醉酒駕駛而撞倒街頭舞王柯仔，柯仔昏迷入院，同時粉碎了一班生死之交的創業夢想。
-柯仔昏迷期間，樂巧遇柯仔女友阿魚，樂從而打入了柯仔朋友的生活圈子。一宗交通意外，令兩班不同世界的青年人緊緊扣在一起。主題曲為[方力申](../Page/方力申.md "wikilink")、[李彩樺主唱的](https://zh.wikipedia.org/wiki/李彩樺 "wikilink")《激流》。
+《**Y2K+01**》內容講述自幼嬌生慣養，從未經歷過風浪的名校高材生樂，因無牌醉酒駕駛而撞倒街頭舞王柯仔，柯仔昏迷入院，同時粉碎了一班生死之交的創業夢想。 柯仔昏迷期間，樂巧遇柯仔女友阿魚，樂從而打入了柯仔朋友的生活圈子。一宗交通意外，令兩班不同世界的青年人緊緊扣在一起。主題曲為[方力申](../Page/方力申.md "wikilink")、[李彩樺主唱的](https://zh.wikipedia.org/wiki/李彩樺 "wikilink")《激流》。
 
 | 集數 | 首播日期        | 標題      | 編導                                                  |
 | -- | ----------- | ------- | --------------------------------------------------- |
@@ -134,8 +132,7 @@
 
 ## DiY2K
 
-《**DiY2K**》（意思為**Design in
-Y2K**），講述幾名從事設計事業的年輕人，為了尋找創作空間，租用了工廠大廈的單位，並命名為Neverland。節目於2012年9月25日其逢週二晚7點於[無線電視](https://zh.wikipedia.org/wiki/無線電視 "wikilink")[翡翠台播出](../Page/翡翠台.md "wikilink")，共有13集，主題曲為[ToNick的](../Page/ToNick.md "wikilink")《異相》。
+《**DiY2K**》（意思為**Design in Y2K**），講述幾名從事設計事業的年輕人，為了尋找創作空間，租用了工廠大廈的單位，並命名為Neverland。節目於2012年9月25日其逢週二晚7點於[無線電視](https://zh.wikipedia.org/wiki/無線電視 "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")播出，共有13集，主題曲為[ToNick](../Page/ToNick.md "wikilink")的《異相》。
 
 | 集數 | 首播日期        | 標題       | 導演                                                  |
 | -- | ----------- | -------- | --------------------------------------------------- |
@@ -175,21 +172,12 @@ Y2K**），講述幾名從事設計事業的年輕人，為了尋找創作空間
 
 ## 外部連結
 
-  - [Y2K前的暑假](http://www.rthk.org.hk/classicschannel/pop_tv90s_0052.htm)
-    重溫 -
-    香港電台（[簡介](http://www.rthk.org.hk/classicschannel/90s_tv_0052_158.htm)）
-  - [青春@Y2K](http://www.rthk.org.hk/classicschannel/pop_tv90s_0061.htm)
-    重溫 -
-    香港電台（[簡介](http://www.rthk.org.hk/classicschannel/90s_tv_0061_159.htm)）
-  - [Y2K+01](http://www.rthk.org.hk/classicschannel/pop_tv90s_0070.htm)
-    重溫 -
-    香港電台（[簡介](http://www.rthk.org.hk/classicschannel/90s_tv_0070_160.htm)）
-  - [過渡青春](http://rthk.hk/special/awardpro/award07/tv12.htm) 重溫 -
-    香港電台（[簡介](http://programme.rthk.org.hk/rthk/tv/programme.php?p=3559)）
+  - [Y2K前的暑假](http://www.rthk.org.hk/classicschannel/pop_tv90s_0052.htm) 重溫 - 香港電台（[簡介](http://www.rthk.org.hk/classicschannel/90s_tv_0052_158.htm)）
+  - [青春@Y2K](http://www.rthk.org.hk/classicschannel/pop_tv90s_0061.htm) 重溫 - 香港電台（[簡介](http://www.rthk.org.hk/classicschannel/90s_tv_0061_159.htm)）
+  - [Y2K+01](http://www.rthk.org.hk/classicschannel/pop_tv90s_0070.htm) 重溫 - 香港電台（[簡介](http://www.rthk.org.hk/classicschannel/90s_tv_0070_160.htm)）
+  - [過渡青春](http://rthk.hk/special/awardpro/award07/tv12.htm) 重溫 - 香港電台（[簡介](http://programme.rthk.org.hk/rthk/tv/programme.php?p=3559)）
   - [DIY2K](http://rthk.hk/diy2k) 香港電台特備網頁
 
-[Category:香港電台電視劇集系列](https://zh.wikipedia.org/wiki/Category:香港電台電視劇集系列 "wikilink")
-[Category:青春劇](https://zh.wikipedia.org/wiki/Category:青春劇 "wikilink")
+[Category:香港電台電視劇集系列](https://zh.wikipedia.org/wiki/Category:香港電台電視劇集系列 "wikilink") [Category:青春劇](https://zh.wikipedia.org/wiki/Category:青春劇 "wikilink")
 
-1.  [港台青春劇捲土重來新推【過渡青春】
-    人氣偶像衛蘭演繹主題曲「孁眼嬌」](http://www.rthk.org.hk/press/chi/20061002_66_121145.html)，香港電台新聞發佈，2006年10月2日
+1.  [港台青春劇捲土重來新推【過渡青春】 人氣偶像衛蘭演繹主題曲「孁眼嬌」](http://www.rthk.org.hk/press/chi/20061002_66_121145.html)，香港電台新聞發佈，2006年10月2日

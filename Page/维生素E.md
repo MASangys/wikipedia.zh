@@ -1,12 +1,10 @@
-**維生素E**（）是一種[脂溶性維生素](https://zh.wikipedia.org/wiki/脂溶性維生素 "wikilink")，是最主要的[抗氧化劑之一](https://zh.wikipedia.org/wiki/抗氧化劑 "wikilink")。溶於[脂肪和](../Page/脂肪.md "wikilink")[乙醇等](../Page/乙醇.md "wikilink")[有機溶劑中](https://zh.wikipedia.org/wiki/有機溶劑 "wikilink")，不溶於[水](../Page/水.md "wikilink")，對熱、酸穩定，對鹼不穩定，對氧敏感，對熱不敏感，但[油炸時維生素E活性明顯降低](https://zh.wikipedia.org/wiki/油炸 "wikilink")。在缺乏维生素E后进行补充，能促進[性激素分泌](https://zh.wikipedia.org/wiki/性激素 "wikilink")，使男子[精子活力和數量增加](../Page/精子.md "wikilink")；使女子[雌性激素濃度增高](https://zh.wikipedia.org/wiki/雌性激素 "wikilink")，提高生育能力，預防[流產](https://zh.wikipedia.org/wiki/流產 "wikilink")。
+**維生素E**（）是一種[脂溶性](https://zh.wikipedia.org/wiki/脂溶性 "wikilink")[維生素](https://zh.wikipedia.org/wiki/維生素 "wikilink")，是最主要的[抗氧化劑之一](https://zh.wikipedia.org/wiki/抗氧化劑 "wikilink")。溶於[脂肪](../Page/脂肪.md "wikilink")和[乙醇](../Page/乙醇.md "wikilink")等[有機溶劑中](https://zh.wikipedia.org/wiki/有機溶劑 "wikilink")，不溶於[水](../Page/水.md "wikilink")，對熱、酸穩定，對鹼不穩定，對氧敏感，對熱不敏感，但[油炸時維生素E活性明顯降低](https://zh.wikipedia.org/wiki/油炸 "wikilink")。在缺乏维生素E后进行补充，能促進[性激素分泌](https://zh.wikipedia.org/wiki/性激素 "wikilink")，使男子[精子](../Page/精子.md "wikilink")活力和數量增加；使女子[雌性激素濃度增高](https://zh.wikipedia.org/wiki/雌性激素 "wikilink")，提高生育能力，預防[流產](https://zh.wikipedia.org/wiki/流產 "wikilink")。
 
-近来还发现维生素E可抑制眼睛[晶状体内的过氧化脂反应](../Page/晶状体.md "wikilink")，使末梢血管扩张，改善血液循环。维生素E苯环上的酚羟基被乙酰化，
-酯水解为酚羟基后为生育酚。人们常误认为维生素E就是[生育酚](https://zh.wikipedia.org/wiki/生育酚 "wikilink")。
+近来还发现维生素E可抑制眼睛[晶状体](../Page/晶状体.md "wikilink")内的过氧化脂反应，使末梢血管扩张，改善血液循环。维生素E苯环上的酚羟基被乙酰化， 酯水解为酚羟基后为生育酚。人们常误认为维生素E就是[生育酚](https://zh.wikipedia.org/wiki/生育酚 "wikilink")。
 
 ## 发现过程
 
-维生素E早在20世纪20年代就被人们发现，Dr.
-Evans和他的同事在研究生殖过程中发现，在使用完全去除维生素E的[饲料后可以引起大鼠的](../Page/饲料.md "wikilink")[不孕症](https://zh.wikipedia.org/wiki/不孕症 "wikilink")。曾称为维生素X。
+维生素E早在20世纪20年代就被人们发现，Dr. Evans和他的同事在研究生殖过程中发现，在使用完全去除维生素E的[饲料](../Page/饲料.md "wikilink")后可以引起大鼠的[不孕症](https://zh.wikipedia.org/wiki/不孕症 "wikilink")。曾称为维生素X。
 
 1922年国外专家发现一种脂溶性膳食因子对大白鼠的正常繁育必不可少。
 
@@ -41,7 +39,7 @@ Evans和他的同事在研究生殖过程中发现，在使用完全去除维生
 
 ## 結構
 
-生育酚主要有四種衍生物，按[甲基位置分為α](https://zh.wikipedia.org/wiki/甲基 "wikilink")、β、γ和δ四種。與生育酚相關的化合物生育三烯酚在[取代基不同時活性是一定的](../Page/取代基.md "wikilink")，但生育酚的活性會明顯降低。
+生育酚主要有四種衍生物，按[甲基位置分為α](https://zh.wikipedia.org/wiki/甲基 "wikilink")、β、γ和δ四種。與生育酚相關的化合物生育三烯酚在[取代基](../Page/取代基.md "wikilink")不同時活性是一定的，但生育酚的活性會明顯降低。
 
 下為二者結構簡式：
 
@@ -78,10 +76,10 @@ Evans和他的同事在研究生殖过程中发现，在使用完全去除维生
 
 天然的維他命E來自：
 
-  - 菜油：譬如[棕櫚油](../Page/棕櫚油.md "wikilink")、[向日葵油](../Page/向日葵.md "wikilink")、[介花籽油](https://zh.wikipedia.org/wiki/介花籽油 "wikilink")、[玉米油](https://zh.wikipedia.org/wiki/玉米油 "wikilink")、[大豆油和](../Page/大豆.md "wikilink")[橄欖油](../Page/橄欖油.md "wikilink")。
-  - [堅果](https://zh.wikipedia.org/wiki/堅果 "wikilink")（[花生](../Page/花生.md "wikilink")、[向日葵](../Page/向日葵.md "wikilink")[瓜子等](https://zh.wikipedia.org/wiki/瓜子 "wikilink")）、[沙棘果和](../Page/沙棘.md "wikilink")[麥芽](https://zh.wikipedia.org/wiki/麥芽 "wikilink")、[扁桃等](../Page/扁桃.md "wikilink")。
+  - 菜油：譬如[棕櫚油](../Page/棕櫚油.md "wikilink")、[向日葵](../Page/向日葵.md "wikilink")油、[介花籽油](https://zh.wikipedia.org/wiki/介花籽油 "wikilink")、[玉米油](https://zh.wikipedia.org/wiki/玉米油 "wikilink")、[大豆](../Page/大豆.md "wikilink")油和[橄欖油](../Page/橄欖油.md "wikilink")。
+  - [堅果](https://zh.wikipedia.org/wiki/堅果 "wikilink")（[花生](../Page/花生.md "wikilink")、[向日葵](../Page/向日葵.md "wikilink")[瓜子等](https://zh.wikipedia.org/wiki/瓜子 "wikilink")）、[沙棘](../Page/沙棘.md "wikilink")果和[麥芽](https://zh.wikipedia.org/wiki/麥芽 "wikilink")、[扁桃](../Page/扁桃.md "wikilink")等。
   - 其它維生素E的來源是原粒[五穀](https://zh.wikipedia.org/wiki/五穀 "wikilink")、[魚](https://zh.wikipedia.org/wiki/魚 "wikilink")、[花生醬和綠色葉](https://zh.wikipedia.org/wiki/花生醬 "wikilink")[蔬菜](../Page/蔬菜.md "wikilink")。在美國維他命E的一個重要來源是強化早餐穀物。
-  - 雖然最初多數自然維生素E從[麥芽油提取](https://zh.wikipedia.org/wiki/麥芽 "wikilink")，現在通常從[菜油](https://zh.wikipedia.org/wiki/菜油 "wikilink")、[大豆油中獲得](../Page/大豆.md "wikilink")。
+  - 雖然最初多數自然維生素E從[麥芽油提取](https://zh.wikipedia.org/wiki/麥芽 "wikilink")，現在通常從[菜油](https://zh.wikipedia.org/wiki/菜油 "wikilink")、[大豆](../Page/大豆.md "wikilink")油中獲得。
   - [蛋黄酱](https://zh.wikipedia.org/wiki/蛋黄酱 "wikilink")、[牛油](https://zh.wikipedia.org/wiki/牛油 "wikilink")
 
 ## 功能
@@ -91,7 +89,7 @@ Evans和他的同事在研究生殖过程中发现，在使用完全去除维生
 3.  維生素E與碘化合物，已證實能預防維生素E缺乏有關的症狀發生。
 4.  防止血液中的過氧化脂質增多。
 5.  一些研究報告顯示與防癌、抗老化有關，不过未受廣泛證實。
-6.  防止[血小板過度凝集的作用](../Page/血小板.md "wikilink")。
+6.  防止[血小板](../Page/血小板.md "wikilink")過度凝集的作用。
 7.  增進紅血球膜安定及[紅血球的合成](https://zh.wikipedia.org/wiki/紅血球 "wikilink")。
 8.  減少因空氣污染引起的效應，進而使肺臟的傷害降低。
 9.  維持細胞呼吸。
@@ -105,8 +103,8 @@ Evans和他的同事在研究生殖过程中发现，在使用完全去除维生
 
 1.  溶血性貧血。因為通過胎盤輸送給新生兒的維他命E很少，所以新生兒或[早產兒](https://zh.wikipedia.org/wiki/早產兒 "wikilink")[血漿中維生素E會偏低](https://zh.wikipedia.org/wiki/血漿 "wikilink")。若母體缺乏維他命E，致幼兒維他命E不足時會導致幼兒[血球容易破裂而發生貧血](https://zh.wikipedia.org/wiki/血球 "wikilink")，稱為[溶血性貧血](https://zh.wikipedia.org/wiki/溶血性貧血 "wikilink")，有時還會間接引發[黃膽](https://zh.wikipedia.org/wiki/黃膽 "wikilink")。
 2.  腸胃不適、[陽痿](https://zh.wikipedia.org/wiki/陽痿 "wikilink")、[水腫](https://zh.wikipedia.org/wiki/水腫 "wikilink")、皮膚病害、肌肉衰弱。
-3.  慢性[脂肪吸收不良](../Page/脂肪.md "wikilink")。
-4.  [溶血](https://zh.wikipedia.org/wiki/溶血 "wikilink")、[肌尿酸](https://zh.wikipedia.org/wiki/肌尿酸 "wikilink")、[平滑肌中](../Page/平滑肌.md "wikilink")[褐色素沉澱](https://zh.wikipedia.org/wiki/褐色素 "wikilink")。
+3.  慢性[脂肪](../Page/脂肪.md "wikilink")吸收不良。
+4.  [溶血](https://zh.wikipedia.org/wiki/溶血 "wikilink")、[肌尿酸](https://zh.wikipedia.org/wiki/肌尿酸 "wikilink")、[平滑肌](../Page/平滑肌.md "wikilink")中[褐色素沉澱](https://zh.wikipedia.org/wiki/褐色素 "wikilink")。
 5.  [膀胱纖維症](https://zh.wikipedia.org/wiki/膀胱纖維症 "wikilink")、[血小板增多](https://zh.wikipedia.org/wiki/血小板增多 "wikilink")、掉髮、頭髮乾燥。
 6.  成年人缺乏維他命E多年後，會顯現[紅血球的溶解增加](https://zh.wikipedia.org/wiki/紅血球 "wikilink")。
 7.  [月經失調](https://zh.wikipedia.org/wiki/月經失調 "wikilink")、末稍血液循環障礙所致的手腳虛冷、[凍傷等](https://zh.wikipedia.org/wiki/凍傷 "wikilink")。
@@ -121,23 +119,21 @@ Evans和他的同事在研究生殖过程中发现，在使用完全去除维生
 一些報告中顯示其副作用很不常見，但因其為油溶性維他命，易造成蓄積。雖其副作用不多見，可是其副作用依然存在，且過量攝食易造成體內大量的蓄積，故應盡量避免長期過量攝食。
 
 1.  美國約翰霍普金斯大學醫學院/美國心臟健康協會/美國醫學會期刊（ＪＡＭＡ）研究及文件指出，市面上的高單位維他命Ｅ，不但不能預防心臟病或癌症，且患有心血管疾病或糖尿病的中高齡患者，服用後反而增加心臟病發的機率。（本文引述來自美國約翰霍普金斯大學醫學院/美國心臟健康協會/美國醫學會期刊（ＪＡＭＡ）的研究發表及期刊文件）
-2.  [血脂過高](../Page/血脂.md "wikilink")，血液凝固障礙。
-3.  [血清甲狀腺素下降](../Page/血清.md "wikilink")。
+2.  [血脂](../Page/血脂.md "wikilink")過高，血液凝固障礙。
+3.  [血清](../Page/血清.md "wikilink")甲狀腺素下降。
 4.  腸胃不適。
-5.  降低[维生素A](https://zh.wikipedia.org/wiki/维生素A "wikilink")、[维生素K的利用](../Page/维生素K.md "wikilink")。
-6.  [頭昏](https://zh.wikipedia.org/wiki/頭昏 "wikilink")、[暈眩](https://zh.wikipedia.org/wiki/暈眩 "wikilink")、[噁心](https://zh.wikipedia.org/wiki/噁心 "wikilink")、[疲勞等](../Page/疲勞.md "wikilink")。
+5.  降低[维生素A](https://zh.wikipedia.org/wiki/维生素A "wikilink")、[维生素K](../Page/维生素K.md "wikilink")的利用。
+6.  [頭昏](https://zh.wikipedia.org/wiki/頭昏 "wikilink")、[暈眩](https://zh.wikipedia.org/wiki/暈眩 "wikilink")、[噁心](https://zh.wikipedia.org/wiki/噁心 "wikilink")、[疲勞](../Page/疲勞.md "wikilink")等。
 7.  根据美国国家癌症研究所资助的研究项目证实常年每日服用400毫克维生素E的男性为研究对象，经年服用的男性罹患前列腺癌几率较服用安慰剂的对照组增加17%。
 
 ### 建議每日攝取量
 
-维生素E建議每日攝取量是根據α-生育酚形式而計算出來，因為它是最活躍或最可用的形式。當時，美國二次全國調查、全國健康和營養考試調查（NHANES
-III 1988-91）和（1994 CSFII）的勘測結果表明，多數美國人飲食量無法提供足夠维生素E。
+维生素E建議每日攝取量是根據α-生育酚形式而計算出來，因為它是最活躍或最可用的形式。當時，美國二次全國調查、全國健康和營養考試調查（NHANES III 1988-91）和（1994 CSFII）的勘測結果表明，多數美國人飲食量無法提供足夠维生素E。
 
   - 現在從食物攝取维生素E建議每日攝取量是15 毫克，等於22 IU 的自然维生素E或33 IU 的人工合成维生素E。
   - 美國食品暨藥物管理局（ＦＤＡ）對於维生素Ｅ每日攝取建議量（ＲＤＡ）僅僅二十ＩＵ到三十ＩＵ，其實二十ＩＵ或三十ＩＵ的维生素Ｅ攝取量，可由食物中獲取。
   - 因為標準多種維他命通常包含大約30 IU，需要另外一個維他命E補充去達到水平。
-  - 目前的指南認為每天補充维生素E超過1000 毫克被認為不安全，等於1500 IU自然來源维生素E，或1100
-    IU的人工合成维生素E。\[2\]
+  - 目前的指南認為每天補充维生素E超過1000 毫克被認為不安全，等於1500 IU自然來源维生素E，或1100 IU的人工合成维生素E。\[2\]
 
 ### 身体代谢
 
@@ -149,51 +145,26 @@ III 1988-91）和（1994 CSFII）的勘測結果表明，多數美國人飲食�
 
 ### 来源
 
-  - Institute of Medicine, Food and Nutrition board. Dietary Reference
-    Intakes: Vitamin C, Vitamin E, Selenium, and Carotenoids. National
-    Academy Press, Washington, DC, 2000.
-  - U.S. Department of Agriculture, Agricultural Research Service, 1999.
-    USDA Nutrient Database for Standard Reference, Release 13. Nutrient
-    Data Laboratory Home Page,
-    <https://web.archive.org/web/20060105045324/http://www.nal.usda.gov/fnic/foodcomp/>
-  - Dietary Guidelines Advisory Committee, Agricultural Research
-    Service, United States Department of Agriculture (USDA). Report of
-    the Dietary Guidelines Advisory Committee on the Dietary Guidelines
-    for Americans, 2000.
-    <https://web.archive.org/web/20031204191827/http://www.ars.usda.gov/dgac/>
-  - Rosenberg H and Feldzamen AN. The book of vitamin therapy. New York:
-    Berkley Publishing Corp, 1974.
-  - Papas, A., (1999). The Vitamin E Factor, Harper Collins Publishers,
-    Inc.
-  - Rolfes, S,R., Pinna, K., & Whitney, E., (2012). Understanding Normal
-    and Clinical Nutrition, 9th ed. Belmont, CA: Wadsworth Cengage
-    Learning
+  - Institute of Medicine, Food and Nutrition board. Dietary Reference Intakes: Vitamin C, Vitamin E, Selenium, and Carotenoids. National Academy Press, Washington, DC, 2000.
+  - U.S. Department of Agriculture, Agricultural Research Service, 1999. USDA Nutrient Database for Standard Reference, Release 13. Nutrient Data Laboratory Home Page, <https://web.archive.org/web/20060105045324/http://www.nal.usda.gov/fnic/foodcomp/>
+  - Dietary Guidelines Advisory Committee, Agricultural Research Service, United States Department of Agriculture (USDA). Report of the Dietary Guidelines Advisory Committee on the Dietary Guidelines for Americans, 2000. <https://web.archive.org/web/20031204191827/http://www.ars.usda.gov/dgac/>
+  - Rosenberg H and Feldzamen AN. The book of vitamin therapy. New York: Berkley Publishing Corp, 1974.
+  - Papas, A., (1999). The Vitamin E Factor, Harper Collins Publishers, Inc.
+  - Rolfes, S,R., Pinna, K., & Whitney, E., (2012). Understanding Normal and Clinical Nutrition, 9th ed. Belmont, CA: Wadsworth Cengage Learning
 
 ## 外部連結
 
-  - [Vitamin E CAS No
-    is 59-02-9](https://web.archive.org/web/20111222223535/http://www.foodchem.com/Vitamins/Vitamin_E)
-  - [US Office of Dietary Supplements article on Vitamin
-    E](http://ods.od.nih.gov/factsheets/vitamine.asp)
-  - [Vitamin E (Tocopherols and
-    Tocotrienols)](http://www.benbest.com/nutrceut/VitaminE.html)
-  - [Vitamin E risk
-    assessment](http://www.food.gov.uk/multimedia/pdfs/evm_e.pdf),
-    Expert Group on Vitamins and Minerals,
-    [英国食品标准局](https://zh.wikipedia.org/wiki/:en:Food_Standards_Agency "wikilink"),
-    2003
-  - [High dose vitamin E leads to longer more active lives in
-    mice](http://www.newscientist.com/article.ns?id=dn7942)
-  - [Scientifically-proven benefits of regular vitamin e
-    consumption](http://www.avivahealth.com/shop/product_sections.asp?catid=207)
-  - [Harvard School of Public Health Nutrition
-    Source](http://www.hsph.harvard.edu/nutritionsource/vitamins.html)
+  - [Vitamin E CAS No is 59-02-9](https://web.archive.org/web/20111222223535/http://www.foodchem.com/Vitamins/Vitamin_E)
+  - [US Office of Dietary Supplements article on Vitamin E](http://ods.od.nih.gov/factsheets/vitamine.asp)
+  - [Vitamin E (Tocopherols and Tocotrienols)](http://www.benbest.com/nutrceut/VitaminE.html)
+  - [Vitamin E risk assessment](http://www.food.gov.uk/multimedia/pdfs/evm_e.pdf), Expert Group on Vitamins and Minerals, [英国食品标准局](https://zh.wikipedia.org/wiki/:en:Food_Standards_Agency "wikilink"), 2003
+  - [High dose vitamin E leads to longer more active lives in mice](http://www.newscientist.com/article.ns?id=dn7942)
+  - [Scientifically-proven benefits of regular vitamin e consumption](http://www.avivahealth.com/shop/product_sections.asp?catid=207)
+  - [Harvard School of Public Health Nutrition Source](http://www.hsph.harvard.edu/nutritionsource/vitamins.html)
 
 {{-}}
 
-[Category:维生素](https://zh.wikipedia.org/wiki/Category:维生素 "wikilink")
-[Category:维生素E](https://zh.wikipedia.org/wiki/Category:维生素E "wikilink")
-[Category:食品抗氧化剂](https://zh.wikipedia.org/wiki/Category:食品抗氧化剂 "wikilink")
+[Category:维生素](https://zh.wikipedia.org/wiki/Category:维生素 "wikilink") [Category:维生素E](https://zh.wikipedia.org/wiki/Category:维生素E "wikilink") [Category:食品抗氧化剂](https://zh.wikipedia.org/wiki/Category:食品抗氧化剂 "wikilink")
 
 1.
 2.  [1](http://www.hsph.harvard.edu/nutritionsource/vitamins.html)

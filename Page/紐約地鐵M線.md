@@ -1,6 +1,6 @@
-**M線第六大道慢車**（），又稱**紐約地鐵M線**，是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")的一條[地鐵路線](../Page/地鐵.md "wikilink")。由於該線在[曼哈頓使用](../Page/曼哈頓.md "wikilink")[IND第六大道線](../Page/IND第六大道線.md "wikilink")，因此其路線徽號為橙色\[1\]。
+**M線第六大道慢車**（），又稱**紐約地鐵M線**，是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")的一條[地鐵](../Page/地鐵.md "wikilink")路線。由於該線在[曼哈頓](../Page/曼哈頓.md "wikilink")使用[IND第六大道線](../Page/IND第六大道線.md "wikilink")，因此其路線徽號為橙色\[1\]。
 
-M線因為[BMT默特爾大道線短暫關閉而分為兩段](https://zh.wikipedia.org/wiki/BMT默特爾大道線 "wikilink")，正常情況下來往[中村-大都會大道](https://zh.wikipedia.org/wiki/中村-大都會大道車站_\(BMT默特爾大道線\) "wikilink")，直至2018年4月。其中一段以[接駁線來往](../Page/紐約地鐵S線.md "wikilink")的[大都會大道與](https://zh.wikipedia.org/wiki/中村-大都會大道車站_\(BMT默特爾大道線\) "wikilink")[布什維克的](https://zh.wikipedia.org/wiki/布什維克_\(布魯克林\) "wikilink")[默特爾-威克奧夫大道](https://zh.wikipedia.org/wiki/默特爾-威克奧夫大道車站_\(BMT默特爾大道線\) "wikilink")，任何時段都營運。另一段則除深夜外任何時段都營運。平日日間來往[森林小丘的](../Page/森林小丘.md "wikilink")[71大道與](https://zh.wikipedia.org/wiki/森林小丘-71大道車站_\(IND皇后林蔭路線\) "wikilink")的[百老匯交匯](https://zh.wikipedia.org/wiki/百老匯交匯車站_\(BMT牙買加線\) "wikilink")，停靠沿途所有車站；有限度服務以[東村的](https://zh.wikipedia.org/wiki/東村_\(曼哈頓\) "wikilink")[第二大道為總站而不是百老匯交匯車站](https://zh.wikipedia.org/wiki/第二大道車站_\(IND第六大道線\) "wikilink")；平日深夜列車由百老匯交匯開往[曼哈頓下城的](https://zh.wikipedia.org/wiki/曼哈頓下城 "wikilink")[錢伯斯街](https://zh.wikipedia.org/wiki/錢伯斯街車站_\(BMT納蘇街線\) "wikilink")而不是71大道；週末日間列車來往百老匯交匯與曼哈頓[下東城的](https://zh.wikipedia.org/wiki/下東城 "wikilink")[埃塞克斯街](https://zh.wikipedia.org/wiki/埃塞克斯街車站_\(BMT納蘇街線\) "wikilink")。
+M線因為[BMT默特爾大道線短暫關閉而分為兩段](https://zh.wikipedia.org/wiki/BMT默特爾大道線 "wikilink")，正常情況下來往[中村-大都會大道](https://zh.wikipedia.org/wiki/中村-大都會大道車站_\(BMT默特爾大道線\) "wikilink")，直至2018年4月。其中一段以[接駁線來往](../Page/紐約地鐵S線.md "wikilink")的[大都會大道與](https://zh.wikipedia.org/wiki/中村-大都會大道車站_\(BMT默特爾大道線\) "wikilink")[布什維克的](https://zh.wikipedia.org/wiki/布什維克_\(布魯克林\) "wikilink")[默特爾-威克奧夫大道](https://zh.wikipedia.org/wiki/默特爾-威克奧夫大道車站_\(BMT默特爾大道線\) "wikilink")，任何時段都營運。另一段則除深夜外任何時段都營運。平日日間來往[森林小丘](../Page/森林小丘.md "wikilink")的[71大道與](https://zh.wikipedia.org/wiki/森林小丘-71大道車站_\(IND皇后林蔭路線\) "wikilink")的[百老匯交匯](https://zh.wikipedia.org/wiki/百老匯交匯車站_\(BMT牙買加線\) "wikilink")，停靠沿途所有車站；有限度服務以[東村的](https://zh.wikipedia.org/wiki/東村_\(曼哈頓\) "wikilink")[第二大道為總站而不是百老匯交匯車站](https://zh.wikipedia.org/wiki/第二大道車站_\(IND第六大道線\) "wikilink")；平日深夜列車由百老匯交匯開往[曼哈頓下城的](https://zh.wikipedia.org/wiki/曼哈頓下城 "wikilink")[錢伯斯街](https://zh.wikipedia.org/wiki/錢伯斯街車站_\(BMT納蘇街線\) "wikilink")而不是71大道；週末日間列車來往百老匯交匯與曼哈頓[下東城的](https://zh.wikipedia.org/wiki/下東城 "wikilink")[埃塞克斯街](https://zh.wikipedia.org/wiki/埃塞克斯街車站_\(BMT納蘇街線\) "wikilink")。
 
 2010年以前M線途經[BMT納蘇街線](https://zh.wikipedia.org/wiki/BMT納蘇街線 "wikilink")、[BMT第四大道線](https://zh.wikipedia.org/wiki/BMT第四大道線 "wikilink")、[BMT西城線](../Page/BMT西城線.md "wikilink")、布魯克林南部到[第九大道或](https://zh.wikipedia.org/wiki/第九大道車站_\(BMT西城線\) "wikilink")[海灣公園道](https://zh.wikipedia.org/wiki/海灣公園道車站_\(BMT西城線\) "wikilink")。M線沿[BMT布萊頓線前往](https://zh.wikipedia.org/wiki/BMT布萊頓線 "wikilink")[康尼島-斯提威爾大道車站直至](https://zh.wikipedia.org/wiki/康尼島-斯提威爾大道車站 "wikilink")1987年為止。BMT默特爾大道線在以西路段拆除前曾經有MJ線行走全線。
 
@@ -58,7 +58,7 @@ M線因為[BMT默特爾大道線短暫關閉而分為兩段](https://zh.wikipedi
 
 1960年2月23日，尖峰方面的10號線列車增停瑪西大道車站。
 
-1968年7月1日，M線延駛至廣街。曾在此期間有提出經[IND第六大道線至](../Page/IND第六大道線.md "wikilink")57街車站的MM線，但無疾而終。
+1968年7月1日，M線延駛至廣街。曾在此期間有提出經[IND第六大道線](../Page/IND第六大道線.md "wikilink")至57街車站的MM線，但無疾而終。
 
 隔年10月3日麥朵大道線西半部關閉，MJ線停駛，增開SS線區間服務。
 
@@ -840,11 +840,9 @@ M線接駁巴士沿默特爾大道由百老匯開往威克奧夫大道，而M線
 
 ## 外部連結
 
-  - [MTA NYC Transit -
-    路線介紹](https://web.archive.org/web/20061206061413/http://mta.info/nyct/service/mline.htm)
+  - [MTA NYC Transit - 路線介紹](https://web.archive.org/web/20061206061413/http://mta.info/nyct/service/mline.htm)
   - [M線歷史](https://web.archive.org/web/20011202055509/http://members.aol.com/bdmnqr2/linehistory.html)
-  - [MTA NYC Transit -
-    M線時刻表（PDF）](https://web.archive.org/web/20081221064845/http://www.mta.info/nyct/service/pdf/tmcur.pdf)
+  - [MTA NYC Transit - M線時刻表（PDF）](https://web.archive.org/web/20081221064845/http://www.mta.info/nyct/service/pdf/tmcur.pdf)
 
 [Category:紐約地鐵服務路線](https://zh.wikipedia.org/wiki/Category:紐約地鐵服務路線 "wikilink")
 

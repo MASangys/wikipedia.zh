@@ -1,7 +1,4 @@
-在 [lambda
-演算中](https://zh.wikipedia.org/wiki/lambda_演算 "wikilink")，一个项是**beta
-范式**（规范型），如果没有“beta 归约”是可能的。一个项是 **beta-eta 范式**，如果既没有 beta 归约又没有“eta
-归约”是可能的。一个项是**头部范式**，如果没有“在头部位置的 beta-可规约式”。
+在 [lambda 演算中](https://zh.wikipedia.org/wiki/lambda_演算 "wikilink")，一个项是**beta 范式**（规范型），如果没有“beta 归约”是可能的。一个项是 **beta-eta 范式**，如果既没有 beta 归约又没有“eta 归约”是可能的。一个项是**头部范式**，如果没有“在头部位置的 beta-可规约式”。
 
 ## Beta 归约
 
@@ -19,8 +16,7 @@
 
 一个 beta 归约在头部位置，如果它有如下形式：
 
-  - <math> \\lambda x_0 \\ldots \\lambda x_{i-1} . (\\lambda x_i .
-    A(x_i)) M_1 M_2 \\ldots M_n \\rightarrow
+  - <math> \\lambda x_0 \\ldots \\lambda x_{i-1} . (\\lambda x_i . A(x_i)) M_1 M_2 \\ldots M_n \\rightarrow
 
 `        \lambda x_0 \ldots \lambda x_{i-1} . A(M_1) M_2 \ldots M_n `</math>`, where `\(i \geq 0, n \geq 1\)`.`
 
@@ -28,9 +24,7 @@
 
 ### 归约策略
 
-一般的说，对于给定项有多个不同的可能的 beta
-归约。**正规序归约**是一种[求值策略](../Page/求值策略.md "wikilink")，它始终应用“头部位置的
-beta 归约”的规则，直到没有更多的这种归约是可能的。在这一点上，结果的项是“头部范式”。
+一般的说，对于给定项有多个不同的可能的 beta 归约。**正规序归约**是一种[求值策略](../Page/求值策略.md "wikilink")，它始终应用“头部位置的 beta 归约”的规则，直到没有更多的这种归约是可能的。在这一点上，结果的项是“头部范式”。
 
 相反的，在**应用序归约**中，首先应用内部归约，而只在没有更多的内部归约是可能的时候应用头部归约。
 

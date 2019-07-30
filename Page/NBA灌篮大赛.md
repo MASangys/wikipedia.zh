@@ -241,22 +241,18 @@
 
 由於NBA灌籃大賽已舉辦多年，因此也曾被批評越來越難看。
 
-但在2016年NBA灌籃大賽中，[扎克·拉文和](../Page/扎克·拉文.md "wikilink")[阿隆·戈登的精采對決](https://zh.wikipedia.org/wiki/阿隆·戈登 "wikilink")，讓球迷有種「灌籃大賽要復活了」的感覺。而該屆也被評為近年來灌籃大賽最精彩的一屆。
+但在2016年NBA灌籃大賽中，[扎克·拉文](../Page/扎克·拉文.md "wikilink")和[阿隆·戈登的精采對決](https://zh.wikipedia.org/wiki/阿隆·戈登 "wikilink")，讓球迷有種「灌籃大賽要復活了」的感覺。而該屆也被評為近年來灌籃大賽最精彩的一屆。
 
-在2017年NBA灌籃大賽中，已經奪下灌籃大賽2連霸的[扎克·拉文確定不會參加該屆的灌籃大賽](../Page/扎克·拉文.md "wikilink")，因此讓2016年灌籃大賽亞軍[阿隆·戈登被看好能夠奪冠](https://zh.wikipedia.org/wiki/阿隆·戈登 "wikilink")，是該屆呼聲最高的，在首輪中，[阿隆·戈登噱頭十足](https://zh.wikipedia.org/wiki/阿隆·戈登 "wikilink")，第一灌就使出無人機灌籃，不過高登卻連續3次失敗，直到第4次才成功，只得到38分。接下來的第二灌更是連續4次失敗，只得到34分。最終總分72分，在首輪遭到淘汰。而最終雖然由[格連·羅賓森三世奪冠](https://zh.wikipedia.org/wiki/格連·羅賓森三世 "wikilink")，但由於該屆選手狀態不好，發生大量灌籃失敗的情形，因此精采度不如上屆（2016年）。
+在2017年NBA灌籃大賽中，已經奪下灌籃大賽2連霸的[扎克·拉文](../Page/扎克·拉文.md "wikilink")確定不會參加該屆的灌籃大賽，因此讓2016年灌籃大賽亞軍[阿隆·戈登被看好能夠奪冠](https://zh.wikipedia.org/wiki/阿隆·戈登 "wikilink")，是該屆呼聲最高的，在首輪中，[阿隆·戈登噱頭十足](https://zh.wikipedia.org/wiki/阿隆·戈登 "wikilink")，第一灌就使出無人機灌籃，不過高登卻連續3次失敗，直到第4次才成功，只得到38分。接下來的第二灌更是連續4次失敗，只得到34分。最終總分72分，在首輪遭到淘汰。而最終雖然由[格連·羅賓森三世奪冠](https://zh.wikipedia.org/wiki/格連·羅賓森三世 "wikilink")，但由於該屆選手狀態不好，發生大量灌籃失敗的情形，因此精采度不如上屆（2016年）。
 
 ## 參考資料
 
 ## 外部連結
 
-  - [NBA Top
-    Dunks](https://archive.is/20130102231245/http://www.goppo.com/nba)
-  - [Year By Year
-    Results](http://www.nba.com/history/allstar/slamdunk_year_by_year.html)
-  - [Slam Dunk
-    Records](http://www.nba.com/history/allstar/slamdunk_records.html)
-  - [Slam Dunk contest video
-    history](http://www.nba.com/history/allstar/slam_dunk_video.html)
+  - [NBA Top Dunks](https://archive.is/20130102231245/http://www.goppo.com/nba)
+  - [Year By Year Results](http://www.nba.com/history/allstar/slamdunk_year_by_year.html)
+  - [Slam Dunk Records](http://www.nba.com/history/allstar/slamdunk_records.html)
+  - [Slam Dunk contest video history](http://www.nba.com/history/allstar/slam_dunk_video.html)
 
 [Category:NBA全明星賽](https://zh.wikipedia.org/wiki/Category:NBA全明星賽 "wikilink")
 

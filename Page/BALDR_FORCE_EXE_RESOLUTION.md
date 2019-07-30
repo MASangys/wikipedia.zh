@@ -1,6 +1,4 @@
-《**BALDR FORCE EXE
-RESOLUTION**》是由[戲畫的遊戲](../Page/戲畫_\(遊戲品牌\).md "wikilink")《[BALDR
-FORCE](../Page/BALDR_FORCE.md "wikilink")》改編的[OVA作品](https://zh.wikipedia.org/wiki/OVA "wikilink")，由[SATELIGHT製做](../Page/SATELIGHT.md "wikilink")，於2006年到2007年期間共發售四集。
+《**BALDR FORCE EXE RESOLUTION**》是由[戲畫的遊戲](../Page/戲畫_\(遊戲品牌\).md "wikilink")《[BALDR FORCE](../Page/BALDR_FORCE.md "wikilink")》改編的[OVA作品](https://zh.wikipedia.org/wiki/OVA "wikilink")，由[SATELIGHT](../Page/SATELIGHT.md "wikilink")製做，於2006年到2007年期間共發售四集。
 
 ## 故事簡介
 
@@ -69,8 +67,7 @@ FORCE](../Page/BALDR_FORCE.md "wikilink")》改編的[OVA作品](https://zh.wiki
 ## 主題曲
 
   - 片頭曲「Face of Fact -Resolution Ver.-」
-    作詞：KOTOKO，作曲：C.G Mix，編曲：C.G
-    Mix，歌：[KOTOKO](https://zh.wikipedia.org/wiki/KOTOKO "wikilink")
+    作詞：KOTOKO，作曲：C.G Mix，編曲：C.G Mix，歌：[KOTOKO](https://zh.wikipedia.org/wiki/KOTOKO "wikilink")
   - 片尾曲「Undelete」
     作詞：川田麻美，作曲：中澤伴行，編曲：中澤伴行、井內舞子，歌：[川田真美](../Page/川田真美.md "wikilink")
 
@@ -176,54 +173,37 @@ FORCE](../Page/BALDR_FORCE.md "wikilink")》改編的[OVA作品](https://zh.wiki
 
 <references />
 
-  - [eg新聞 - OVA「BALDR FORCE EXE
-    RESOLUTION」錄音取材](https://web.archive.org/web/20070707020816/http://eg.nttpub.co.jp/news/20061107_06.html)
+  - [eg新聞 - OVA「BALDR FORCE EXE RESOLUTION」錄音取材](https://web.archive.org/web/20070707020816/http://eg.nttpub.co.jp/news/20061107_06.html)
 
-  - [BALDR FORCE EXE RESOLUTION |
-    INFO](https://web.archive.org/web/20070703154004/http://www.trinet-ent.com/baldrforce/info.html)
+  - [BALDR FORCE EXE RESOLUTION | INFO](https://web.archive.org/web/20070703154004/http://www.trinet-ent.com/baldrforce/info.html)
 
-  - [Baldr Force:
-    Walkthrough](http://www.supercheats.com/pc/walkthroughs/baldrforce-walkthrough01.txt)
+  - [Baldr Force: Walkthrough](http://www.supercheats.com/pc/walkthroughs/baldrforce-walkthrough01.txt)
 
 </div>
 
 ## 外部連結
 
-  - [BALDR FORCE EXE
-    RESOLUTION](https://web.archive.org/web/20080721020049/http://www.trinet-ent.com/baldrforce/)（OVA版官網）
-  - [Perfect
-    Choice作品介紹](https://web.archive.org/web/20070629223007/http://www.ppvj.co.jp/anime/0706baldrforce/index.html)
+  - [BALDR FORCE EXE RESOLUTION](https://web.archive.org/web/20080721020049/http://www.trinet-ent.com/baldrforce/)（OVA版官網）
+  - [Perfect Choice作品介紹](https://web.archive.org/web/20070629223007/http://www.ppvj.co.jp/anime/0706baldrforce/index.html)
   - [戲畫](http://www.web-giga.com/)
   - [ALCHEMIST](https://web.archive.org/web/20160401061216/http://alchemist-net.co.jp/)
 
-[ja:BALDR
-FORCE\#OVA](https://zh.wikipedia.org/wiki/ja:BALDR_FORCE#OVA "wikilink")
+[ja:BALDR FORCE\#OVA](https://zh.wikipedia.org/wiki/ja:BALDR_FORCE#OVA "wikilink")
 
-[Category:2006年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:2006年日本OVA動畫 "wikilink")
-[Category:机器人动画](https://zh.wikipedia.org/wiki/Category:机器人动画 "wikilink")
-[Category:BALDR系列](https://zh.wikipedia.org/wiki/Category:BALDR系列 "wikilink")
-[Category:SATELIGHT](https://zh.wikipedia.org/wiki/Category:SATELIGHT "wikilink")
+[Category:2006年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:2006年日本OVA動畫 "wikilink") [Category:机器人动画](https://zh.wikipedia.org/wiki/Category:机器人动画 "wikilink") [Category:BALDR系列](https://zh.wikipedia.org/wiki/Category:BALDR系列 "wikilink") [Category:SATELIGHT](https://zh.wikipedia.org/wiki/Category:SATELIGHT "wikilink")
 
-1.  [太平洋游戏网 - 年度跳票作《BALDR FORCE EXE
-    RESOLUTION》发售DVD](http://www.pcgames.com.cn/cartoon/dvdzone/dvd/0611/834418.html)
+1.  [太平洋游戏网 - 年度跳票作《BALDR FORCE EXE RESOLUTION》发售DVD](http://www.pcgames.com.cn/cartoon/dvdzone/dvd/0611/834418.html)
 
+2.  [GENEON ENTERTAINMENT - BALDR FORCE EXE RESOLUTION 01 First Contact](http://www.yodobashi.com/enjoy/more/i/cat_1107_251_750_8057327/50704946.html)
 
-2.  [GENEON ENTERTAINMENT - BALDR FORCE EXE RESOLUTION 01 First
-    Contact](http://www.yodobashi.com/enjoy/more/i/cat_1107_251_750_8057327/50704946.html)
-
-3.  [太平洋游戏网 - 在18禁与全年龄中挣扎？《BALDR FORCE EXE
-    RESOLUTION》方向性修正](http://www.pcgames.com.cn/cartoon/dvdzone/ova/0606/798205.html)
-
+3.  [太平洋游戏网 - 在18禁与全年龄中挣扎？《BALDR FORCE EXE RESOLUTION》方向性修正](http://www.pcgames.com.cn/cartoon/dvdzone/ova/0606/798205.html)
 
 4.
 5.
 6.
 7.
 8.
-9.  [太平洋游戏网 - 期待邪神再临?《BALDR FORCE EXE
-    RESOLUTION》第三卷](http://www.pcgames.com.cn/cartoon/dvdzone/ova/0701/858381.html)
-
+9.  [太平洋游戏网 - 期待邪神再临?《BALDR FORCE EXE RESOLUTION》第三卷](http://www.pcgames.com.cn/cartoon/dvdzone/ova/0701/858381.html)
 
 10.
-11. [太平洋游戏网 - 不完美终结?《BALDR FORCE EXE
-    RESOLUTION》最终卷](http://www.pcgames.com.cn/cartoon/dvdzone/ova/0703/869017.html)
+11. [太平洋游戏网 - 不完美终结?《BALDR FORCE EXE RESOLUTION》最终卷](http://www.pcgames.com.cn/cartoon/dvdzone/ova/0703/869017.html)

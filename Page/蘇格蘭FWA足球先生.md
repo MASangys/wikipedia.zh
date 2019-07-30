@@ -1,7 +1,4 @@
-**蘇格蘭FWA足球先生**（**Scottish Footballer of the Year**，全名**Scottish Football
-Writers' Association Footballer of the Year**）是「蘇格蘭足球記者協會」（Scottish
-Football Writers'
-Association，簡稱SFWA）主辦的年度頒獎禮中的重頭獎項，被認為是蘇格蘭本土足球最重要的兩個個人獎項之一。
+**蘇格蘭FWA足球先生**（**Scottish Footballer of the Year**，全名**Scottish Football Writers' Association Footballer of the Year**）是「蘇格蘭足球記者協會」（Scottish Football Writers' Association，簡稱SFWA）主辦的年度頒獎禮中的重頭獎項，被認為是蘇格蘭本土足球最重要的兩個個人獎項之一。
 
 ## 歷屆獲獎人
 
@@ -308,14 +305,10 @@ Association，簡稱SFWA）主辦的年度頒獎禮中的重頭獎項，被認�
 
 ## 參考資料
 
-[Category:蘇格蘭足球](https://zh.wikipedia.org/wiki/Category:蘇格蘭足球 "wikilink")
-[Category:英国足球奖项](https://zh.wikipedia.org/wiki/Category:英国足球奖项 "wikilink")
-[Category:1964年建立的獎項](https://zh.wikipedia.org/wiki/Category:1964年建立的獎項 "wikilink")
+[Category:蘇格蘭足球](https://zh.wikipedia.org/wiki/Category:蘇格蘭足球 "wikilink") [Category:英国足球奖项](https://zh.wikipedia.org/wiki/Category:英国足球奖项 "wikilink") [Category:1964年建立的獎項](https://zh.wikipedia.org/wiki/Category:1964年建立的獎項 "wikilink")
 
-1.  [Nakamura gets top writers'
-    prize](http://news.bbc.co.uk/sport2/hi/football/scot_prem/6615155.stm)
-2.  [Cuellar picks up writers'
-    award](http://news.bbc.co.uk/sport2/hi/football/scot_prem/7382973.stm)
+1.  [Nakamura gets top writers' prize](http://news.bbc.co.uk/sport2/hi/football/scot_prem/6615155.stm)
+2.  [Cuellar picks up writers' award](http://news.bbc.co.uk/sport2/hi/football/scot_prem/7382973.stm)
 3.
 4.
 5.

@@ -1,4 +1,4 @@
-**A線第八大道快車**（），又稱**紐約地鐵A線**，是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")的[地鐵系統](../Page/地鐵.md "wikilink")。由於該線使用[IND第八大道線通過](https://zh.wikipedia.org/wiki/IND第八大道線 "wikilink")[曼哈頓主要地區](../Page/曼哈頓.md "wikilink")，因此其路線徽號為藍色\[1\]。
+**A線第八大道快車**（），又稱**紐約地鐵A線**，是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")的[地鐵](../Page/地鐵.md "wikilink")系統。由於該線使用[IND第八大道線通過](https://zh.wikipedia.org/wiki/IND第八大道線 "wikilink")[曼哈頓](../Page/曼哈頓.md "wikilink")主要地區，因此其路線徽號為藍色\[1\]。
 
 A線列車任何時候都運行。日間列車來往[英伍德的](https://zh.wikipedia.org/wiki/英伍德_\(曼哈頓\) "wikilink")[207街和](https://zh.wikipedia.org/wiki/英伍德-207街車站_\(IND第八大道線\) "wikilink")的[莫特大道或](https://zh.wikipedia.org/wiki/遠洛克威-莫特大道車站_\(IND洛克威線\) "wikilink")的[勒弗茲林蔭路](https://zh.wikipedia.org/wiki/臭氧公園-勒弗茲林蔭路車站_\(IND福爾頓街線\) "wikilink")，在曼哈頓和布魯克林以快車行駛，在皇后區以慢車行駛，繁忙時段有限度服務列車以的[海灘116街到發](https://zh.wikipedia.org/wiki/洛克威公園-海灘116街車站_\(IND洛克威線\) "wikilink")，而不是遠洛克威或勒弗茲林蔭路。深夜列車只來往207街至遠洛克威，停靠沿線全部車站，此時設有接駁列車（勒弗茲林蔭路接駁線）來往[尤克利德大道與勒弗茲林蔭路](https://zh.wikipedia.org/wiki/尤克利德大道車站_\(IND福爾頓街線\) "wikilink")\[2\]
 
@@ -50,7 +50,7 @@ A線列車是紐約地鐵內最長的運行列車，來往英伍德至遠洛克�
 
 1936年4月9日，[IND福爾頓街線通至洛克威大街車站](https://zh.wikipedia.org/wiki/IND福爾頓街線 "wikilink")。1946年12月30日與1948年11月28日分別通至百老匯-東紐約車站（今百老匯聯運站）、尤克利德大道車站。
 
-1956年4月29日，格蘭特大道車站開幕，IND福爾頓街線跨過BMT福爾頓街線延伸至勒佛茲大道車站。兩個月後，前[長島鐵路洛克威線轉換成捷運形式](../Page/長島鐵路.md "wikilink")，開始營運洛克威公園-臨海116街車站至臨海25街的服務，同時間[E線也開始在福爾頓街線上行駛尖峰快車](../Page/紐約地鐵E線.md "wikilink")。
+1956年4月29日，格蘭特大道車站開幕，IND福爾頓街線跨過BMT福爾頓街線延伸至勒佛茲大道車站。兩個月後，前[長島鐵路](../Page/長島鐵路.md "wikilink")洛克威線轉換成捷運形式，開始營運洛克威公園-臨海116街車站至臨海25街的服務，同時間[E線也開始在福爾頓街線上行駛尖峰快車](../Page/紐約地鐵E線.md "wikilink")。
 
 1958年1月16日，新終點站—遠洛克威-莫特車站啟用。
 
@@ -374,7 +374,7 @@ A線列車是紐約地鐵內最長的運行列車，來往英伍德至遠洛克�
 <td></td>
 <td></td>
 <td><p><br />
-<a href="../Page/美鐵.md" title="wikilink">美鐵</a>、<a href="../Page/長島鐵路.md" title="wikilink">長島鐵路及</a><a href="https://zh.wikipedia.org/wiki/新澤西通勤鐵路" title="wikilink">新澤西交通</a>，<a href="https://zh.wikipedia.org/wiki/賓夕法尼亞車站_(紐約市)" title="wikilink">賓州車站</a></p></td>
+<a href="../Page/美鐵.md" title="wikilink">美鐵</a>、<a href="../Page/長島鐵路.md" title="wikilink">長島鐵路</a>及<a href="https://zh.wikipedia.org/wiki/新澤西通勤鐵路" title="wikilink">新澤西交通</a>，<a href="https://zh.wikipedia.org/wiki/賓夕法尼亞車站_(紐約市)" title="wikilink">賓州車站</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>|</p></td>
@@ -957,11 +957,9 @@ A線列車是紐約地鐵內最長的運行列車，來往英伍德至遠洛克�
 
 ## 外部連結
 
-  - [MTA NYC Transit -
-    路線介紹](https://web.archive.org/web/20060901201741/http://www.mta.info/nyct/service/aline.htm)
+  - [MTA NYC Transit - 路線介紹](https://web.archive.org/web/20060901201741/http://www.mta.info/nyct/service/aline.htm)
   - [A線歷史](https://web.archive.org/web/20011202055509/http://members.aol.com/bdmnqr2/linehistory.html)
-  - [MTA NYC Transit -
-    A線時刻表（PDF）](https://web.archive.org/web/20060921225532/http://www.mta.info/nyct/service/pdf/tacur.pdf)
+  - [MTA NYC Transit - A線時刻表（PDF）](https://web.archive.org/web/20060921225532/http://www.mta.info/nyct/service/pdf/tacur.pdf)
 
 [Category:紐約地鐵服務路線](https://zh.wikipedia.org/wiki/Category:紐約地鐵服務路線 "wikilink")
 

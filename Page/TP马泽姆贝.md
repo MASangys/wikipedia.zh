@@ -1,5 +1,4 @@
-**TP马泽姆贝**（**Tout Puissant
-Mazembe**），也譯为**马曾比**、**马赞姆贝**，是一支位于[民主刚果](https://zh.wikipedia.org/wiki/民主刚果 "wikilink")[卢本巴希的足球俱乐部](https://zh.wikipedia.org/wiki/卢本巴希 "wikilink")，球队的主场为。
+**TP马泽姆贝**（**Tout Puissant Mazembe**），也譯为**马曾比**、**马赞姆贝**，是一支位于[民主刚果](https://zh.wikipedia.org/wiki/民主刚果 "wikilink")[卢本巴希的足球俱乐部](https://zh.wikipedia.org/wiki/卢本巴希 "wikilink")，球队的主场为。
 
 ## 球队荣誉
 

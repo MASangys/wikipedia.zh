@@ -1,5 +1,4 @@
-**時光機**，（中国大陆又译**航时机**，美國版：TIME
-MACHINE）是[哆啦A夢中虛構的一種道具](../Page/哆啦A夢.md "wikilink")，用以穿越[時空](https://zh.wikipedia.org/wiki/時空 "wikilink")，也是故事第一個出現\[1\]與使用率第二高的道具（僅次於[竹蜻蜓](../Page/竹蜻蜓_\(哆啦A夢\).md "wikilink")）。\[2\]使用時先從入口進入[時空隧道](https://zh.wikipedia.org/wiki/時空隧道 "wikilink")，再駕駛[時光機前往到指定時間和地點](https://zh.wikipedia.org/wiki/時光機 "wikilink")。時光機的入口載體可自由訂制，例如哆啦A夢選用的載體是大雄[書桌的](https://zh.wikipedia.org/wiki/書桌 "wikilink")[抽屜](https://zh.wikipedia.org/wiki/抽屜 "wikilink")，哆啦美選用的載體是[房間的](https://zh.wikipedia.org/wiki/房間 "wikilink")[鏡子](https://zh.wikipedia.org/wiki/鏡子 "wikilink")。根據漫畫第41卷：《未来图书券》中的说法發明時間是西元2008年。\[3\]\[4\]
+**時光機**，（中国大陆又译**航时机**，美國版：TIME MACHINE）是[哆啦A夢](../Page/哆啦A夢.md "wikilink")中虛構的一種道具，用以穿越[時空](https://zh.wikipedia.org/wiki/時空 "wikilink")，也是故事第一個出現\[1\]與使用率第二高的道具（僅次於[竹蜻蜓](../Page/竹蜻蜓_\(哆啦A夢\).md "wikilink")）。\[2\]使用時先從入口進入[時空隧道](https://zh.wikipedia.org/wiki/時空隧道 "wikilink")，再駕駛[時光機前往到指定時間和地點](https://zh.wikipedia.org/wiki/時光機 "wikilink")。時光機的入口載體可自由訂制，例如哆啦A夢選用的載體是大雄[書桌的](https://zh.wikipedia.org/wiki/書桌 "wikilink")[抽屜](https://zh.wikipedia.org/wiki/抽屜 "wikilink")，哆啦美選用的載體是[房間的](https://zh.wikipedia.org/wiki/房間 "wikilink")[鏡子](https://zh.wikipedia.org/wiki/鏡子 "wikilink")。根據漫畫第41卷：《未来图书券》中的说法發明時間是西元2008年。\[3\]\[4\]
 
 ## 形號
 
@@ -14,8 +13,7 @@ MACHINE）是[哆啦A夢中虛構的一種道具](../Page/哆啦A夢.md "wikilin
 #### 性能
 
   - 座席：1人用
-  - 最多乘載上限5人，但也有過6人的狀況,如大長篇《日本誕生》、《天方夜譚》、電影版《人魚大海戰》、新舊 《日本誕生》、《天方夜譚》
-    。當有多人共乘時，別人必須站在后面。
+  - 最多乘載上限5人，但也有過6人的狀況,如大長篇《日本誕生》、《天方夜譚》、電影版《人魚大海戰》、新舊 《日本誕生》、《天方夜譚》 。當有多人共乘時，別人必須站在后面。
   - 時間選擇器
   - 磁場發生器：使用磁場產生動力來啓動機器。
   - 能量箱：儲存時間旅行用的能量，在機器左右各有一個。
@@ -27,15 +25,14 @@ MACHINE）是[哆啦A夢中虛構的一種道具](../Page/哆啦A夢.md "wikilin
 
 ### 郁金香號
 
-郁金香號是[哆啦美使用的型號](../Page/哆啦美.md "wikilink")，其價值相當於10部空飛簡易型。
+郁金香號是[哆啦美](../Page/哆啦美.md "wikilink")使用的型號，其價值相當於10部空飛簡易型。
 
 #### 性能
 
   - 座席：多人用。
   - 時間選擇器
   - 緊急拖吊功能: 可拖吊別的時光機。
-  - [太陽能板](https://zh.wikipedia.org/wiki/太陽能板 "wikilink"):
-    外形為鬱金香上面的葉子，收集光源來發動機器。
+  - [太陽能板](https://zh.wikipedia.org/wiki/太陽能板 "wikilink"): 外形為鬱金香上面的葉子，收集光源來發動機器。
   - 高級發動機：速度為空飛簡易型的2\~3倍。
   - 彎曲空間安定軸: 避免遇上時空亂流。
   - 時間流移動用板：防止時間流的沖撞。
@@ -49,14 +46,14 @@ MACHINE）是[哆啦A夢中虛構的一種道具](../Page/哆啦A夢.md "wikilin
   - 22世紀百貨公司所用的郵遞機器人時光機
   - \-{zh-hant:時空巡邏隊;zh-hans:航时巡逻队}-使用的時光機
   - 租賃用時光機(世修曾用過它的虛擬實境功能騙大雄22世紀被外星人占領)
-  - 黑衣男用的時光機([大雄的恐龍出现](../Page/大雄的恐龍.md "wikilink"))
-  - 鳥野守博士所用的鳥型時光機([大雄與翼之勇者出现](../Page/大雄與翼之勇者.md "wikilink"))
+  - 黑衣男用的時光機([大雄的恐龍](../Page/大雄的恐龍.md "wikilink")出现)
+  - 鳥野守博士所用的鳥型時光機([大雄與翼之勇者](../Page/大雄與翼之勇者.md "wikilink")出现)
   - 瑪吉邁所長所用蚂蚁型時光機（多啦A夢生日篇-感恩監獄大逃脫出现）
-  - 秘密道具博物館接駁時光機([大雄的秘密道具博物館出現](../Page/大雄的秘密道具博物館.md "wikilink"))
+  - 秘密道具博物館接駁時光機([大雄的秘密道具博物館](../Page/大雄的秘密道具博物館.md "wikilink")出現)
 
 ## 悖論
 
-由於故事裡未來世界有制定法律：《时空法》，明文規定任何人皆不能隨意更改歷史，甚至為此建立時空巡邏隊來維護相關秩序。因此有眾多人對於故事的起始與基礎——「為甚麼[哆啦A夢可以允許改變](../Page/哆啦A夢.md "wikilink")[大雄未來](../Page/野比大雄.md "wikilink")，以藉此振興野比家族命運。但從沒違反或引起未來世界注意？」產生了[歷史與](https://zh.wikipedia.org/wiki/歷史 "wikilink")[科學等相關問題](https://zh.wikipedia.org/wiki/科學 "wikilink")。有讀者由[故事中曾出現的時光迴圈悖論猜測](https://zh.wikipedia.org/wiki/多啦A夢 "wikilink")，或許大雄會運用某些方式讓哆啦A夢出現在未來，藉此迴避[法律](../Page/法律.md "wikilink")；有人則懷疑跟歷史重大事件相比，改變野比家族所產生的影響幅度實在相對輕微並不會被察覺。也有一說是由於哆啦A夢（在短篇與大長篇）常幫時空巡邏隊緝拿犯人，所以連未來世界也睜一隻眼閉一隻眼；又或者哆啦A夢是主角的關係，因劇情需要，所以牠不受此影響。
+由於故事裡未來世界有制定法律：《时空法》，明文規定任何人皆不能隨意更改歷史，甚至為此建立時空巡邏隊來維護相關秩序。因此有眾多人對於故事的起始與基礎——「為甚麼[哆啦A夢](../Page/哆啦A夢.md "wikilink")可以允許改變[大雄未來](../Page/野比大雄.md "wikilink")，以藉此振興野比家族命運。但從沒違反或引起未來世界注意？」產生了[歷史與](https://zh.wikipedia.org/wiki/歷史 "wikilink")[科學等相關問題](https://zh.wikipedia.org/wiki/科學 "wikilink")。有讀者由[故事中曾出現的時光迴圈悖論猜測](https://zh.wikipedia.org/wiki/多啦A夢 "wikilink")，或許大雄會運用某些方式讓哆啦A夢出現在未來，藉此迴避[法律](../Page/法律.md "wikilink")；有人則懷疑跟歷史重大事件相比，改變野比家族所產生的影響幅度實在相對輕微並不會被察覺。也有一說是由於哆啦A夢（在短篇與大長篇）常幫時空巡邏隊緝拿犯人，所以連未來世界也睜一隻眼閉一隻眼；又或者哆啦A夢是主角的關係，因劇情需要，所以牠不受此影響。
 
 關於「時間悖論」，在數個哆啦A夢的大長篇中，更突顯哆啦A夢必須在20世紀大雄家的必要性。例如：
 
@@ -65,7 +62,7 @@ MACHINE）是[哆啦A夢中虛構的一種道具](../Page/哆啦A夢.md "wikilin
 <!-- end list -->
 
   -
-    如果[哆啦A夢不在](../Page/哆啦A夢.md "wikilink")20世紀[大雄家](../Page/野比大雄.md "wikilink")，那20世紀的[人類將成為](../Page/人類.md "wikilink")[外星](https://zh.wikipedia.org/wiki/外星 "wikilink")[機械人的](https://zh.wikipedia.org/wiki/機械人 "wikilink")[奴隸](https://zh.wikipedia.org/wiki/奴隸 "wikilink")。
+    如果[哆啦A夢](../Page/哆啦A夢.md "wikilink")不在20世紀[大雄家](../Page/野比大雄.md "wikilink")，那20世紀的[人類](../Page/人類.md "wikilink")將成為[外星](https://zh.wikipedia.org/wiki/外星 "wikilink")[機械人的](https://zh.wikipedia.org/wiki/機械人 "wikilink")[奴隸](https://zh.wikipedia.org/wiki/奴隸 "wikilink")。
 
 <!-- end list -->
 
@@ -74,7 +71,7 @@ MACHINE）是[哆啦A夢中虛構的一種道具](../Page/哆啦A夢.md "wikilin
 <!-- end list -->
 
   -
-    如果[哆啦A夢不在](../Page/哆啦A夢.md "wikilink")20世紀[大雄家](../Page/野比大雄.md "wikilink")，甚至沒回到過去建立聖地拯救即將滅絕的恐龍的話，將導致地底人的滅絕。
+    如果[哆啦A夢](../Page/哆啦A夢.md "wikilink")不在20世紀[大雄家](../Page/野比大雄.md "wikilink")，甚至沒回到過去建立聖地拯救即將滅絕的恐龍的話，將導致地底人的滅絕。
 
 <!-- end list -->
 
@@ -83,7 +80,7 @@ MACHINE）是[哆啦A夢中虛構的一種道具](../Page/哆啦A夢.md "wikilin
 <!-- end list -->
 
   -
-    如果[哆啦A夢不在](../Page/哆啦A夢.md "wikilink")20世紀[大雄家](../Page/野比大雄.md "wikilink")，那21世紀的[地球將会被天上世界的人类利用](../Page/地球.md "wikilink")「挪亞計劃」（洪水）消灭
+    如果[哆啦A夢](../Page/哆啦A夢.md "wikilink")不在20世紀[大雄家](../Page/野比大雄.md "wikilink")，那21世紀的[地球](../Page/地球.md "wikilink")將会被天上世界的人类利用「挪亞計劃」（洪水）消灭
 
 因此就未來人的史觀而言，為保存自身存續而使過去[歷史產生更動](https://zh.wikipedia.org/wiki/歷史 "wikilink")，而能使自身繼續存在，為必要之惡；同時，因為改變歷史有可能一個閃失就影響人類甚至整個宇宙的存亡，所以受未來世界法律嚴格管制。
 
@@ -104,17 +101,14 @@ D.T.C.M.數據（哆啦A夢，時光機）\[6\]
   - 平衡/時間加速
     tα＝4\(g^2\)×C\(\frac{m}{E}\)
 
-它基于[E（能量）=
-m（质量）×c（光速）的平方](https://zh.wikipedia.org/wiki/E=mc2 "wikilink")。
+它基于[E（能量）= m（质量）×c（光速）的平方](https://zh.wikipedia.org/wiki/E=mc2 "wikilink")。
 
 ## 參考資料
 
   -
   - [任意門 or 時光機？](http://www.net4p.com/article.php?ID=157)
 
-[Category:哆啦A夢道具](https://zh.wikipedia.org/wiki/Category:哆啦A夢道具 "wikilink")
-[Category:虛構交通工具](https://zh.wikipedia.org/wiki/Category:虛構交通工具 "wikilink")
-[Category:時間旅行](https://zh.wikipedia.org/wiki/Category:時間旅行 "wikilink")
+[Category:哆啦A夢道具](https://zh.wikipedia.org/wiki/Category:哆啦A夢道具 "wikilink") [Category:虛構交通工具](https://zh.wikipedia.org/wiki/Category:虛構交通工具 "wikilink") [Category:時間旅行](https://zh.wikipedia.org/wiki/Category:時間旅行 "wikilink")
 
 1.  第1卷:《來自遙遠的未來》p.10（名稱）、《我的祖先》p.99（實體）
 2.  [哆啦A梦九個祕密](http://www.buzzhand.com/post_718114.html)

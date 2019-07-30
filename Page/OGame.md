@@ -1,13 +1,12 @@
-《**OGame銀河帝國**》是一款使用[网页浏览器進行的](../Page/网页浏览器.md "wikilink")[战争游戏](../Page/战争游戏.md "wikilink")，德國公司於2002年10月3日在德國首次運行，目前已在27個國家發行。
+《**OGame銀河帝國**》是一款使用[网页浏览器](../Page/网页浏览器.md "wikilink")進行的[战争游戏](../Page/战争游戏.md "wikilink")，德國公司於2002年10月3日在德國首次運行，目前已在27個國家發行。
 
 ## 遊戲設定
 
-[`OGame_Overview.PNG`](https://zh.wikipedia.org/wiki/File:OGame_Overview.PNG "fig:OGame_Overview.PNG")` 遊戲將伺服器稱之為「宇宙」，每個宇宙有九個銀河系、每個銀河系有四百九十九個`[`太陽系`](https://zh.wikipedia.org/wiki/太陽系 "wikilink")`，而每個太陽系有十五個`[`行星`](../Page/行星.md "wikilink")`。每位玩家最初擁有一顆星球，稱為「母星」（這個名字是可以被玩家重新命名的），該星球的位置隨機分佈於任意太陽系的4號~12號星球上。玩家首要任務是發展母星，並且對外殖民其它星球，每個玩家可以利用提昇研究等級增加可殖民星球數。建築、戰鬥與防禦都是發生在星球和`[`月球上的`](../Page/月球.md "wikilink")`。`
+[`OGame_Overview.PNG`](https://zh.wikipedia.org/wiki/File:OGame_Overview.PNG "fig:OGame_Overview.PNG")` 遊戲將伺服器稱之為「宇宙」，每個宇宙有九個銀河系、每個銀河系有四百九十九個`[`太陽系`](https://zh.wikipedia.org/wiki/太陽系 "wikilink")`，而每個太陽系有十五個`[`行星`](../Page/行星.md "wikilink")`。每位玩家最初擁有一顆星球，稱為「母星」（這個名字是可以被玩家重新命名的），該星球的位置隨機分佈於任意太陽系的4號~12號星球上。玩家首要任務是發展母星，並且對外殖民其它星球，每個玩家可以利用提昇研究等級增加可殖民星球數。建築、戰鬥與防禦都是發生在星球和`[`月球`](../Page/月球.md "wikilink")上的`。`
 
 ## 資源
 
-OGame裡有五種資源，分別是：[金屬](https://zh.wikipedia.org/wiki/金屬 "wikilink")（Metal）、[晶體](https://zh.wikipedia.org/wiki/晶體 "wikilink")（Crystal）、[重氫](https://zh.wikipedia.org/wiki/重氫 "wikilink")（Deuterium）、[能源](../Page/能源.md "wikilink")（Energy）和[暗物質](https://zh.wikipedia.org/wiki/暗物質 "wikilink")（Dark
-Matter）。
+OGame裡有五種資源，分別是：[金屬](https://zh.wikipedia.org/wiki/金屬 "wikilink")（Metal）、[晶體](https://zh.wikipedia.org/wiki/晶體 "wikilink")（Crystal）、[重氫](https://zh.wikipedia.org/wiki/重氫 "wikilink")（Deuterium）、[能源](../Page/能源.md "wikilink")（Energy）和[暗物質](https://zh.wikipedia.org/wiki/暗物質 "wikilink")（Dark Matter）。
 
   - 金屬是遊戲中最基本的資源，可透過星球上的金屬礦建築來開採，每顆星球皆有一个基本產量。金屬在遊戲中大量用以建造星球上的建築物和防禦、建造船艦和研發科技。
   - 晶體則是第二常見的資源，可以透過晶體礦來開採，每颗星球皆只有金属一半的基本產量。晶體在遊戲中用作建造建築物、防禦或船艦的量較少，但是會大量用於研發科技。
@@ -38,8 +37,7 @@ OGame的戰鬥發生在星球外的衛星軌道上，戰鬥只發生在一瞬間
 
 假若您面對一名壓倒性優勢敵人的攻擊時，您的艦隊能得以逃脫，如果對方實力與你為五比一，防禦艦隊將會脫逃，但是失格戰鬥無法脫逃。
 
-在戰鬥中被摧毀的船隻，其建造所需資源（不含重氫）的30%（普遍设定，具体视服务器设定）會成為太空廢墟而漂浮在軌道上。除非是在有“防禦成為廢墟（Defence
-to Dust，D2D）”設定的伺服器中，否則被摧毀的防禦設備不會形成廢墟。廢墟可以用回收船进行回收，供回收方利用。
+在戰鬥中被摧毀的船隻，其建造所需資源（不含重氫）的30%（普遍设定，具体视服务器设定）會成為太空廢墟而漂浮在軌道上。除非是在有“防禦成為廢墟（Defence to Dust，D2D）”設定的伺服器中，否則被摧毀的防禦設備不會形成廢墟。廢墟可以用回收船进行回收，供回收方利用。
 
 戰鬥只能摧毀星球上的船隻和防禦武器，以及掠奪資源。無法摧毀建筑物、奪取對方科技或者摧毀對方行星。但是月球是可以被摧毀的。一旦月球被摧毀，月球上的所有建筑物也都跟著消失。詳見[月球篇](https://zh.wikipedia.org/wiki/#月球 "wikilink")。
 
@@ -69,8 +67,7 @@ OGame是以戰鬥為主的遊戲，船艦當然極度的重要，玩家可以使
 
 ### 防禦
 
-[OGame_Defense.PNG](https://zh.wikipedia.org/wiki/File:OGame_Defense.PNG "fig:OGame_Defense.PNG")
-防禦是建築在星球上的武器，它的運作方式和艦隊是一樣的，但不能移動。當敵方艦隊來襲時，所有防禦設施都會參與戰鬥，被摧毀的防禦有70%的機率被修復。
+[OGame_Defense.PNG](https://zh.wikipedia.org/wiki/File:OGame_Defense.PNG "fig:OGame_Defense.PNG") 防禦是建築在星球上的武器，它的運作方式和艦隊是一樣的，但不能移動。當敵方艦隊來襲時，所有防禦設施都會參與戰鬥，被摧毀的防禦有70%的機率被修復。
 
 星際導彈是用來摧毀敌方防禦的武器，被星際導彈摧毀的防禦無法被修復，攔截導彈是唯一能抵禦星際導彈的武器，一枚攔截導彈可以摧毀一枚星際導彈。導彈攻擊後，餘下的導彈也不會回到派遣的星球，而是消失，所以要計算好大約要多少顆導彈才能剛好摧毀所有防禦。
 
@@ -96,7 +93,7 @@ OGame裡一個宇宙分為若干個銀河系（1～9或6等，视服务器设定
 
 ## 探索
 
-當玩家擁有探險科技後，可以派遣艦隊至每個太陽系的16號星進行探險。探險中玩家可能遭遇不同的结果，如没有發現任何東西、找到帶有資源的小行星、發現[黑暗物質](https://zh.wikipedia.org/wiki/黑暗物質 "wikilink")、擄獲無人船艦、遭遇海盜和外星人的攻擊，甚至是被[黑洞摧毀你所有的船艦](../Page/黑洞.md "wikilink")，航行中也有可能遇到導航錯誤的结果而造成返回時間的延長或縮短。玩家最多可以派遣探索的艦隊數為探索科技的平方根，而探險最長時間為探險科技等級數個小時。
+當玩家擁有探險科技後，可以派遣艦隊至每個太陽系的16號星進行探險。探險中玩家可能遭遇不同的结果，如没有發現任何東西、找到帶有資源的小行星、發現[黑暗物質](https://zh.wikipedia.org/wiki/黑暗物質 "wikilink")、擄獲無人船艦、遭遇海盜和外星人的攻擊，甚至是被[黑洞](../Page/黑洞.md "wikilink")摧毀你所有的船艦，航行中也有可能遇到導航錯誤的结果而造成返回時間的延長或縮短。玩家最多可以派遣探索的艦隊數為探索科技的平方根，而探險最長時間為探險科技等級數個小時。
 
 ## 月球
 
@@ -170,15 +167,7 @@ OGame中玩家的每一項動作都是能被遊戲維護員／超級維護員／
 
   - [德國官方網站](https://de.ogame.gameforge.com/)
 
-[Category:2002年電子遊戲](https://zh.wikipedia.org/wiki/Category:2002年電子遊戲 "wikilink")
-[Category:Gameforge遊戲](https://zh.wikipedia.org/wiki/Category:Gameforge遊戲 "wikilink")
-[Category:網頁遊戲](https://zh.wikipedia.org/wiki/Category:網頁遊戲 "wikilink")
-[Category:戰略遊戲](https://zh.wikipedia.org/wiki/Category:戰略遊戲 "wikilink")
-[Category:網路遊戲](https://zh.wikipedia.org/wiki/Category:網路遊戲 "wikilink")
-[Category:多人遊戲](https://zh.wikipedia.org/wiki/Category:多人遊戲 "wikilink")
-[Category:太空背景電子遊戲](https://zh.wikipedia.org/wiki/Category:太空背景電子遊戲 "wikilink")
-[Category:PHP引擎遊戲](https://zh.wikipedia.org/wiki/Category:PHP引擎遊戲 "wikilink")
-[Category:AJAX引擎遊戲](https://zh.wikipedia.org/wiki/Category:AJAX引擎遊戲 "wikilink")
+[Category:2002年電子遊戲](https://zh.wikipedia.org/wiki/Category:2002年電子遊戲 "wikilink") [Category:Gameforge遊戲](https://zh.wikipedia.org/wiki/Category:Gameforge遊戲 "wikilink") [Category:網頁遊戲](https://zh.wikipedia.org/wiki/Category:網頁遊戲 "wikilink") [Category:戰略遊戲](https://zh.wikipedia.org/wiki/Category:戰略遊戲 "wikilink") [Category:網路遊戲](https://zh.wikipedia.org/wiki/Category:網路遊戲 "wikilink") [Category:多人遊戲](https://zh.wikipedia.org/wiki/Category:多人遊戲 "wikilink") [Category:太空背景電子遊戲](https://zh.wikipedia.org/wiki/Category:太空背景電子遊戲 "wikilink") [Category:PHP引擎遊戲](https://zh.wikipedia.org/wiki/Category:PHP引擎遊戲 "wikilink") [Category:AJAX引擎遊戲](https://zh.wikipedia.org/wiki/Category:AJAX引擎遊戲 "wikilink")
 
 1.
 2.

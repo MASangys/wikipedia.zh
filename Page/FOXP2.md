@@ -1,5 +1,4 @@
-**FOXP2**（Forkhead box protein P2
-(FOXP2)）基因，即**叉头框P2**基因，是一个与[言语功能的](../Page/言语.md "wikilink")[发育有关的](https://zh.wikipedia.org/wiki/发育 "wikilink")[基因](../Page/基因.md "wikilink")。在人类，FOXP2基因位于第7对[染色体上](https://zh.wikipedia.org/wiki/染色体 "wikilink")。FOXP2基因在许多其它具有复杂发声、及发声学习能力的动物，例如[鸣禽中](https://zh.wikipedia.org/wiki/鸣禽 "wikilink")，也有发现。该基因的异常在人类导致特定的先天性[言语障碍](https://zh.wikipedia.org/wiki/言语障碍 "wikilink")。
+**FOXP2**（Forkhead box protein P2 (FOXP2)）基因，即**叉头框P2**基因，是一个与[言语](../Page/言语.md "wikilink")功能的[发育有关的](https://zh.wikipedia.org/wiki/发育 "wikilink")[基因](../Page/基因.md "wikilink")。在人类，FOXP2基因位于第7对[染色体上](https://zh.wikipedia.org/wiki/染色体 "wikilink")。FOXP2基因在许多其它具有复杂发声、及发声学习能力的动物，例如[鸣禽中](https://zh.wikipedia.org/wiki/鸣禽 "wikilink")，也有发现。该基因的异常在人类导致特定的先天性[言语障碍](https://zh.wikipedia.org/wiki/言语障碍 "wikilink")。
 
 ## 表型
 
@@ -18,12 +17,8 @@
 
 ## 参考文献
 
-  - Lai CSL, Fisher SE, Hurst JA, et al.: A forkhead-domain gene is
-    mutated in a severe speech and language disorder. Nature 2001,
-    413:519-523.
-  - Enard W, Przeworski M, Fisher SE, et al.: Molecular evolution of
-    FOXP2, a gene involved in speech and language. Nature 2002, 418:
-    869-872.
+  - Lai CSL, Fisher SE, Hurst JA, et al.: A forkhead-domain gene is mutated in a severe speech and language disorder. Nature 2001, 413:519-523.
+  - Enard W, Przeworski M, Fisher SE, et al.: Molecular evolution of FOXP2, a gene involved in speech and language. Nature 2002, 418: 869-872.
 
 ## 参见
 
@@ -36,24 +31,15 @@
 
   - [Gene information at NCBI](https://www.ncbi.nlm.nih.gov/gene/93986)
 
-  - [Gene information at Genetic Home
-    Reference](http://ghr.nlm.nih.gov/gene/FOXP2)
+  - [Gene information at Genetic Home Reference](http://ghr.nlm.nih.gov/gene/FOXP2)
 
-  - [Language and Genetics
-    Research](http://www.mpi.nl/departments/language-and-genetics) at
-    the [Max Planck Institute for
-    Psycholinguistics](https://zh.wikipedia.org/wiki/Max_Planck_Institute_for_Psycholinguistics "wikilink")
+  - [Language and Genetics Research](http://www.mpi.nl/departments/language-and-genetics) at the [Max Planck Institute for Psycholinguistics](https://zh.wikipedia.org/wiki/Max_Planck_Institute_for_Psycholinguistics "wikilink")
 
-  - [The FOXP2
-    story](https://web.archive.org/web/20091116190757/http://genome.wellcome.ac.uk/doc_WTD020797.html)
+  - [The FOXP2 story](https://web.archive.org/web/20091116190757/http://genome.wellcome.ac.uk/doc_WTD020797.html)
 
-  - [Revisiting FOXP2 and the origins of
-    language](http://scienceblogs.com/notrocketscience/2009/11/11/revisiting-foxp2-and-the-origins-of-language/)
+  - [Revisiting FOXP2 and the origins of language](http://scienceblogs.com/notrocketscience/2009/11/11/revisiting-foxp2-and-the-origins-of-language/)
 
-  - [FOXP2 and the Evolution of
-    Language](http://www.evolutionpages.com/FOXP2_language.htm)
+  - [FOXP2 and the Evolution of Language](http://www.evolutionpages.com/FOXP2_language.htm)
 
   -
-[Category:叉头转录因子](https://zh.wikipedia.org/wiki/Category:叉头转录因子 "wikilink")
-[Category:基因](https://zh.wikipedia.org/wiki/Category:基因 "wikilink")
-[Category:语言的演变](https://zh.wikipedia.org/wiki/Category:语言的演变 "wikilink")
+[Category:叉头转录因子](https://zh.wikipedia.org/wiki/Category:叉头转录因子 "wikilink") [Category:基因](https://zh.wikipedia.org/wiki/Category:基因 "wikilink") [Category:语言的演变](https://zh.wikipedia.org/wiki/Category:语言的演变 "wikilink")

@@ -1,10 +1,8 @@
-**MD5訊息摘要演算法**（），一種被廣泛使用的[密碼雜湊函數](https://zh.wikipedia.org/wiki/密碼雜湊函數 "wikilink")，可以產生出一個128位元（16[位元組](https://zh.wikipedia.org/wiki/位元組 "wikilink")）的散列值（hash
-value），用于确保信息传输完整一致。MD5由美國密碼學家[罗纳德·李维斯特](../Page/罗纳德·李维斯特.md "wikilink")（）設計，於1992年公開，用以取代[MD4演算法](https://zh.wikipedia.org/wiki/MD4 "wikilink")。這套演算法的程序在
-RFC 1321 中被加以規範。
+**MD5訊息摘要演算法**（），一種被廣泛使用的[密碼雜湊函數](https://zh.wikipedia.org/wiki/密碼雜湊函數 "wikilink")，可以產生出一個128位元（16[位元組](https://zh.wikipedia.org/wiki/位元組 "wikilink")）的散列值（hash value），用于确保信息传输完整一致。MD5由美國密碼學家[罗纳德·李维斯特](../Page/罗纳德·李维斯特.md "wikilink")（）設計，於1992年公開，用以取代[MD4演算法](https://zh.wikipedia.org/wiki/MD4 "wikilink")。這套演算法的程序在 RFC 1321 中被加以規範。
 
 将[数据](https://zh.wikipedia.org/wiki/数据 "wikilink")（如一段文字）运算变为另一固定长度值，是雜湊算法的基础原理。
 
-1996年後被證實存在弱點，可以被加以[破解](https://zh.wikipedia.org/wiki/破解 "wikilink")，對於需要高度安全性的資料，專家一般建議改用其他演算法，如[SHA-2](../Page/SHA-2.md "wikilink")。2004年，證實MD5演算法無法防止碰撞（collision），因此不適用於安全性認證，如[SSL](https://zh.wikipedia.org/wiki/SSL "wikilink")[公開金鑰認證或是](../Page/公開金鑰認證.md "wikilink")[數位簽章等用途](../Page/數位簽章.md "wikilink")。
+1996年後被證實存在弱點，可以被加以[破解](https://zh.wikipedia.org/wiki/破解 "wikilink")，對於需要高度安全性的資料，專家一般建議改用其他演算法，如[SHA-2](../Page/SHA-2.md "wikilink")。2004年，證實MD5演算法無法防止碰撞（collision），因此不適用於安全性認證，如[SSL](https://zh.wikipedia.org/wiki/SSL "wikilink")[公開金鑰認證](../Page/公開金鑰認證.md "wikilink")或是[數位簽章](../Page/數位簽章.md "wikilink")等用途。
 
 ## 历史与密码学
 
@@ -103,7 +101,7 @@ var int digest := h0 append h1 append h2 append h3 //(expressed as little-endian
 
 ## MD5散列
 
-一般128位的MD5散列被表示为32位[十六进制数字](../Page/十六进制.md "wikilink")。以下是一个43位长的仅[ASCII字母列的MD](../Page/ASCII.md "wikilink")5散列：
+一般128位的MD5散列被表示为32位[十六进制](../Page/十六进制.md "wikilink")数字。以下是一个43位长的仅[ASCII](../Page/ASCII.md "wikilink")字母列的MD5散列：
 
 `MD5("The quick brown fox jumps over the lazy dog")`
 `= 9e107d9d372bb6826bd81d3542a419d6`
@@ -137,9 +135,7 @@ var int digest := h0 append h1 append h2 append h3 //(expressed as little-endian
 
   -
   -
-  - Hans Dobbertin, Cryptanalysis of MD5 compress. Announcement on
-    Internet, May 1996
-    [1](http://citeseer.ist.psu.edu/dobbertin96cryptanalysis.html).
+  - Hans Dobbertin, Cryptanalysis of MD5 compress. Announcement on Internet, May 1996 [1](http://citeseer.ist.psu.edu/dobbertin96cryptanalysis.html).
 
   -
   -
@@ -148,50 +144,9 @@ var int digest := h0 append h1 append h2 append h3 //(expressed as little-endian
 
 ## 外部链接
 
-  - RFC 1321 *The MD5 Message-Digest Algorithm*
-  - [Hash Collision
-    Q\&A](https://web.archive.org/web/20040901184053/http://www.cryptography.com/cnews/hash.html)
-  - [MD5 Lookup](http://md5.rednoize.com) - reverses some MD5 hashes
-  - [MD5 Unofficial
-    homepage](http://userpages.umbc.edu/~mabzug1/cs/md5/md5.html)
-    contains links to implementations in various programming languages.
+  - [W3C关于MD5的建议](http://www.w3.org/TR/1998/REC-DSig-label/MD5-1_0)
 
-### 碰撞
-
-  - [Two colliding executable
-    files](http://www.mathstat.dal.ca/~selinger/md5collision/)
-  - [MD5 Collision, Visualised](http://www.links.org/?p=6)
-  - [Exploiting MD5 collisions, in
-    C\#](https://web.archive.org/web/20070714232132/http://www.codeproject.com/dotnet/HackingMd5.asp)
-  - [Fast MD5 Collision
-    Generator](https://web.archive.org/web/20070709075135/http://www.stachliu.com/files/md5coll.c)
-  - [Hash Collisions within a
-    Minute](https://web.archive.org/web/20060810204950/http://cryptography.hyperlink.cz/MD5_collisions.html)
-
-### 工具
-
-  - [MD5在线加密工具](https://passwordsgenerator.pro/cn/md5) - 在线MD5散列发生器
-  - [MD5 在线计算器](http://md5calculator.chromefans.org/) - 使用 JavaScript
-    技术制作的 MD5 安全计算器，含Android, Chrome 版本。
-  - [MD5 的VC++实现代码](http://download.csdn.net/detail/Kettylo/1439537)
-    CSDN 下载频道：MD5 的VC++实现代码
-  - [www.cmd5.com](http://www.cmd5.com) - 应用MD5散列数据库查询
-  - [MD5 Crack
-    online](https://web.archive.org/web/20121230154641/http://www.passcracking.ru/)
-    - Passwords Recovery by MD5 Rainbow Tables
-  - [md5.rednoize.com](http://md5.rednoize.com)- MD5转换
-  - [us.md5.crysm.net](http://us.md5.crysm.net) - MD5 Reverse lookup
-  - [md5.mmkey.com](https://web.archive.org/web/20170707053922/http://md5.mmkey.com/)
-    - MD5搜集，相关程序源码
-  - [xmd5.org](http://www.xmd5.org) - MD5转换
-  - [MD5 Hash
-    Example/Generator](https://web.archive.org/web/20050204164435/http://www.phpbbsupport.co.uk/md5.php)
-  - [winMd5Sum](http://www.nullriver.com/index/products/winmd5sum) -
-    MD5值计算
-
-[Category:密码散列函数](https://zh.wikipedia.org/wiki/Category:密码散列函数 "wikilink")
-[Category:校验和算法](https://zh.wikipedia.org/wiki/Category:校验和算法 "wikilink")
-[Category:已攻破的散列函数](https://zh.wikipedia.org/wiki/Category:已攻破的散列函数 "wikilink")
+[Category:密码散列函数](https://zh.wikipedia.org/wiki/Category:密码散列函数 "wikilink") [Category:校验和算法](https://zh.wikipedia.org/wiki/Category:校验和算法 "wikilink") [Category:已攻破的散列函数](https://zh.wikipedia.org/wiki/Category:已攻破的散列函数 "wikilink")
 
 1.
 2.

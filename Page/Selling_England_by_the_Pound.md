@@ -1,10 +1,6 @@
-《**Selling England by the
-Pound**》是前衛搖滾樂隊[創世紀樂團發行第五張專輯](../Page/創世紀樂團.md "wikilink")。
+《**Selling England by the Pound**》是前衛搖滾樂隊[創世紀樂團](../Page/創世紀樂團.md "wikilink")發行第五張專輯。
 
-《Foxtrot》發行後，是[Peter
-Gabriel時期團體的商業成就高峰](../Page/彼得·蓋布瑞爾.md "wikilink")，在英國最高達到第三名。
-歌曲如《Firth of Fifth》與《The Cinema Show》被視為是經典歌曲，較短的歌曲如《I Know What I Like
-(In Your Wardrobe)》成為創世紀第一首排行榜歌曲，1974年5月在英國拿下第17名。
+《Foxtrot》發行後，是[Peter Gabriel時期團體的商業成就高峰](../Page/彼得·蓋布瑞爾.md "wikilink")，在英國最高達到第三名。 歌曲如《Firth of Fifth》與《The Cinema Show》被視為是經典歌曲，較短的歌曲如《I Know What I Like (In Your Wardrobe)》成為創世紀第一首排行榜歌曲，1974年5月在英國拿下第17名。
 
 ## 曲目
 
@@ -112,7 +108,4 @@ John Burns</p></td>
   - Mike Rutherford: 貝司、吉他、西塔琴
   - Phil Collins: 爵士鼓、歌唱、打擊樂器
 
-[Category:1973年音樂專輯](https://zh.wikipedia.org/wiki/Category:1973年音樂專輯 "wikilink")
-[Category:創世紀樂團音樂專輯](https://zh.wikipedia.org/wiki/Category:創世紀樂團音樂專輯 "wikilink")
-[Category:前衛搖滾音樂專輯](https://zh.wikipedia.org/wiki/Category:前衛搖滾音樂專輯 "wikilink")
-[Category:英國音樂專輯](https://zh.wikipedia.org/wiki/Category:英國音樂專輯 "wikilink")
+[Category:1973年音樂專輯](https://zh.wikipedia.org/wiki/Category:1973年音樂專輯 "wikilink") [Category:創世紀樂團音樂專輯](https://zh.wikipedia.org/wiki/Category:創世紀樂團音樂專輯 "wikilink") [Category:前衛搖滾音樂專輯](https://zh.wikipedia.org/wiki/Category:前衛搖滾音樂專輯 "wikilink") [Category:英國音樂專輯](https://zh.wikipedia.org/wiki/Category:英國音樂專輯 "wikilink")

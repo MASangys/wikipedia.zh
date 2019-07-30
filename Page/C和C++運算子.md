@@ -2,7 +2,7 @@
 
 在不重载时，运算符`&&`、`||`、`,`（），在第一个操作数求值之后有一个[顺序点](../Page/顺序点.md "wikilink")。
 
-大部分C与C++运算符也可用于其它程序设计语言如[C\#](../Page/C♯.md "wikilink")、[Java](../Page/Java.md "wikilink")、[Perl](../Page/Perl.md "wikilink")、[PHP等](../Page/PHP.md "wikilink")，具有相同的优先级、结合性与语义。
+大部分C与C++运算符也可用于其它程序设计语言如[C\#](../Page/C♯.md "wikilink")、[Java](../Page/Java.md "wikilink")、[Perl](../Page/Perl.md "wikilink")、[PHP](../Page/PHP.md "wikilink")等，具有相同的优先级、结合性与语义。
 
 ## 運算子優先級
 
@@ -545,7 +545,7 @@
 <th><p>運算子名稱</p></th>
 <th><p>語法</p></th>
 <th><p>可重載</p></th>
-<th><p><a href="../Page/C.md" title="wikilink">C裡有</a></p></th>
+<th><p><a href="../Page/C.md" title="wikilink">C</a>裡有</p></th>
 </tr>
 </thead>
 <tbody>
@@ -656,7 +656,7 @@
 <th><p>運算子名稱</p></th>
 <th><p>語法</p></th>
 <th><p>可重載</p></th>
-<th><p><a href="../Page/C.md" title="wikilink">C裡有</a></p></th>
+<th><p><a href="../Page/C.md" title="wikilink">C</a>裡有</p></th>
 </tr>
 </thead>
 <tbody>
@@ -725,7 +725,7 @@
 <th><p>運算子名稱</p></th>
 <th><p>語法</p></th>
 <th><p>可重載</p></th>
-<th><p><a href="../Page/C.md" title="wikilink">C裡有</a></p></th>
+<th><p><a href="../Page/C.md" title="wikilink">C</a>裡有</p></th>
 </tr>
 </thead>
 <tbody>
@@ -806,7 +806,7 @@
 <th><p>運算子名稱</p></th>
 <th><p>語法</p></th>
 <th><p>可重載</p></th>
-<th><p><a href="../Page/C.md" title="wikilink">C裡有</a></p></th>
+<th><p><a href="../Page/C.md" title="wikilink">C</a>裡有</p></th>
 </tr>
 </thead>
 <tbody>
@@ -1016,11 +1016,7 @@ int main() {
 
 ## 外部連結
 
-  - [Experimental results](http://www.knosof.co.uk/cbook/accu06a.pdf)
-    showing that developers have poor knowledge of binary operator
-    precedence.
-  - [Basic types &
-    Operators](http://www.mycplus.com/tutorial.asp?TID=304)
+  - [Experimental results](http://www.knosof.co.uk/cbook/accu06a.pdf) showing that developers have poor knowledge of binary operator precedence.
+  - [Basic types & Operators](http://www.mycplus.com/tutorial.asp?TID=304)
 
-[Category:C語言](https://zh.wikipedia.org/wiki/Category:C語言 "wikilink")
-[Category:C++](https://zh.wikipedia.org/wiki/Category:C++ "wikilink")
+[Category:C語言](https://zh.wikipedia.org/wiki/Category:C語言 "wikilink") [Category:C++](https://zh.wikipedia.org/wiki/Category:C++ "wikilink")

@@ -7,7 +7,4 @@
   - **[约瑟夫·艾伦](https://zh.wikipedia.org/wiki/约瑟夫·艾伦 "wikilink")**（，曾执行以及任务），任务专家
   - **[威廉·勒诺](https://zh.wikipedia.org/wiki/威廉·勒诺 "wikilink")**（，曾执行任务），任务专家
 
-[Category:1982年佛罗里达州](https://zh.wikipedia.org/wiki/Category:1982年佛罗里达州 "wikilink")
-[Category:1982年科学](https://zh.wikipedia.org/wiki/Category:1982年科学 "wikilink")
-[Category:哥伦比亚号航天飞机任务](https://zh.wikipedia.org/wiki/Category:哥伦比亚号航天飞机任务 "wikilink")
-[Category:1982年11月](https://zh.wikipedia.org/wiki/Category:1982年11月 "wikilink")
+[Category:1982年佛罗里达州](https://zh.wikipedia.org/wiki/Category:1982年佛罗里达州 "wikilink") [Category:1982年科学](https://zh.wikipedia.org/wiki/Category:1982年科学 "wikilink") [Category:哥伦比亚号航天飞机任务](https://zh.wikipedia.org/wiki/Category:哥伦比亚号航天飞机任务 "wikilink") [Category:1982年11月](https://zh.wikipedia.org/wiki/Category:1982年11月 "wikilink")

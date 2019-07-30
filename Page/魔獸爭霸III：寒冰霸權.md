@@ -1,6 +1,4 @@
-是[暴雪娛樂发行的](../Page/暴雪娛樂.md "wikilink")[即时战略游戏](../Page/即时战略游戏.md "wikilink")《[魔獸爭霸III：
-混亂之治](../Page/魔兽争霸III：混乱之治.md "wikilink")》的[資料片](https://zh.wikipedia.org/wiki/資料片 "wikilink")。于2003年7月1日首次发行，从发布至今已历经了从1.07到1.30版本，而《[魔獸爭霸III：
-混亂之治](https://zh.wikipedia.org/wiki/魔獸爭霸III "wikilink")》则是该游戏刚开始发行时的版本。暴雪同时对《冰封王座》与《混亂之治》两个版本进行更新与维护，并在其[战网平台上提供免费的多人网络对战服务](https://zh.wikipedia.org/wiki/战网 "wikilink")。
+是[暴雪娛樂](../Page/暴雪娛樂.md "wikilink")发行的[即时战略游戏](../Page/即时战略游戏.md "wikilink")《[魔獸爭霸III： 混亂之治](../Page/魔兽争霸III：混乱之治.md "wikilink")》的[資料片](https://zh.wikipedia.org/wiki/資料片 "wikilink")。于2003年7月1日首次发行，从发布至今已历经了从1.07到1.30版本，而《[魔獸爭霸III： 混亂之治](https://zh.wikipedia.org/wiki/魔獸爭霸III "wikilink")》则是该游戏刚开始发行时的版本。暴雪同时对《冰封王座》与《混亂之治》两个版本进行更新与维护，并在其[战网平台上提供免费的多人网络对战服务](https://zh.wikipedia.org/wiki/战网 "wikilink")。
 
 ## 故事背景
 
@@ -8,9 +6,7 @@
 
 ## 制作
 
-《魔兽争霸III：冰封王座》最初于2003年1月22日公布。\[1\]
-2003年2月14日，暴雪宣布了本資料片的測試版本，共有1萬名玩家進行了試玩。\[2\]
-至2003年3月10日，另外的1萬名玩家被選中參與測試游戏。\[3\]
+《魔兽争霸III：冰封王座》最初于2003年1月22日公布。\[1\] 2003年2月14日，暴雪宣布了本資料片的測試版本，共有1萬名玩家進行了試玩。\[2\] 至2003年3月10日，另外的1萬名玩家被選中參與測試游戏。\[3\]
 
 ## 玩家自製地圖
 
@@ -25,20 +21,8 @@
 
   - [官方策略指南](http://classic.battle.net/war3/)
 
-[Category:2003年电子游戏](https://zh.wikipedia.org/wiki/Category:2003年电子游戏 "wikilink")
-[Category:魔兽系列电子游戏](https://zh.wikipedia.org/wiki/Category:魔兽系列电子游戏 "wikilink")
-[Category:暴雪娱乐游戏](https://zh.wikipedia.org/wiki/Category:暴雪娱乐游戏 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:Mac_OS游戏](https://zh.wikipedia.org/wiki/Category:Mac_OS游戏 "wikilink")
-[Category:MacOS遊戲](https://zh.wikipedia.org/wiki/Category:MacOS遊戲 "wikilink")
-[Category:资料片](https://zh.wikipedia.org/wiki/Category:资料片 "wikilink")
-[Category:电子竞技游戏](https://zh.wikipedia.org/wiki/Category:电子竞技游戏 "wikilink")
-[Category:苹果设计奖获奖作品](https://zh.wikipedia.org/wiki/Category:苹果设计奖获奖作品 "wikilink")
-[Category:官方简体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方简体中文化游戏 "wikilink")
+[Category:2003年电子游戏](https://zh.wikipedia.org/wiki/Category:2003年电子游戏 "wikilink") [Category:魔兽系列电子游戏](https://zh.wikipedia.org/wiki/Category:魔兽系列电子游戏 "wikilink") [Category:暴雪娱乐游戏](https://zh.wikipedia.org/wiki/Category:暴雪娱乐游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:Mac_OS游戏](https://zh.wikipedia.org/wiki/Category:Mac_OS游戏 "wikilink") [Category:MacOS遊戲](https://zh.wikipedia.org/wiki/Category:MacOS遊戲 "wikilink") [Category:资料片](https://zh.wikipedia.org/wiki/Category:资料片 "wikilink") [Category:电子竞技游戏](https://zh.wikipedia.org/wiki/Category:电子竞技游戏 "wikilink") [Category:苹果设计奖获奖作品](https://zh.wikipedia.org/wiki/Category:苹果设计奖获奖作品 "wikilink") [Category:官方简体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方简体中文化游戏 "wikilink")
 
-1.  [Warcraft III expansion revealed - PC News at
-    GameSpot](http://www.gamespot.com/pc/strategy/warcraft3thefrozenthrone/news.html?sid=2909333&mode=all)
-2.  [Warcraft III expansion beta soon - PC News at
-    GameSpot](http://www.gamespot.com/pc/strategy/warcraft3thefrozenthrone/news.html?sid=2910903&mode=all)
-3.  [The Frozen Throne beta expands - PC News at
-    GameSpot](http://www.gamespot.com/pc/strategy/warcraft3thefrozenthrone/news.html?sid=2912483&mode=all)
+1.  [Warcraft III expansion revealed - PC News at GameSpot](http://www.gamespot.com/pc/strategy/warcraft3thefrozenthrone/news.html?sid=2909333&mode=all)
+2.  [Warcraft III expansion beta soon - PC News at GameSpot](http://www.gamespot.com/pc/strategy/warcraft3thefrozenthrone/news.html?sid=2910903&mode=all)
+3.  [The Frozen Throne beta expands - PC News at GameSpot](http://www.gamespot.com/pc/strategy/warcraft3thefrozenthrone/news.html?sid=2912483&mode=all)

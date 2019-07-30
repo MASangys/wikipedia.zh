@@ -1,8 +1,8 @@
-**Q線百老匯快車**（），又稱**紐約地鐵Q線**，是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")的[地鐵路線](../Page/地鐵.md "wikilink")。由於該線在[曼哈頓使用](../Page/曼哈頓.md "wikilink")[BMT百老匯線](https://zh.wikipedia.org/wiki/BMT百老匯線 "wikilink")，因此其路線徽號為黃色。
+**Q線百老匯快車**（），又稱**紐約地鐵Q線**，是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")的[地鐵](../Page/地鐵.md "wikilink")路線。由於該線在[曼哈頓](../Page/曼哈頓.md "wikilink")使用[BMT百老匯線](https://zh.wikipedia.org/wiki/BMT百老匯線 "wikilink")，因此其路線徽號為黃色。
 
-Q線任何時候都營運，來往曼哈頓[上東城的](https://zh.wikipedia.org/wiki/上東城 "wikilink")[96街／第二大道與](https://zh.wikipedia.org/wiki/96街車站_\(第二大道線\) "wikilink")[布魯克林](https://zh.wikipedia.org/wiki/布魯克林 "wikilink")[康尼島的](../Page/康尼島.md "wikilink")[康尼島-斯提威爾大道](https://zh.wikipedia.org/wiki/康尼島-斯提威爾大道車站_\(BMT布萊頓線\) "wikilink")。日間列車在曼哈頓以快車營運，在布魯克林以慢車營運，深夜時段停靠全線所有車站。
+Q線任何時候都營運，來往曼哈頓[上東城的](https://zh.wikipedia.org/wiki/上東城 "wikilink")[96街／第二大道與](https://zh.wikipedia.org/wiki/96街車站_\(第二大道線\) "wikilink")[布魯克林](https://zh.wikipedia.org/wiki/布魯克林 "wikilink")[康尼島](../Page/康尼島.md "wikilink")的[康尼島-斯提威爾大道](https://zh.wikipedia.org/wiki/康尼島-斯提威爾大道車站_\(BMT布萊頓線\) "wikilink")。日間列車在曼哈頓以快車營運，在布魯克林以慢車營運，深夜時段停靠全線所有車站。
 
-過去，「QB」與「QT」分別經[曼哈頓大橋和](../Page/曼哈頓大橋.md "wikilink")營運在[BMT布萊頓線](https://zh.wikipedia.org/wiki/BMT布萊頓線 "wikilink")，但隧道服務後來停運。1988年至2001年間，Q線只在平日營運，途經[IND第六大道線前往](../Page/IND第六大道線.md "wikilink")[21街-皇后橋](https://zh.wikipedia.org/wiki/21街-皇后橋車站_\(IND_63街線\) "wikilink")，因此塗為黃色。2001年至2004年間有快車由布萊頓線前往[布萊頓海灘](https://zh.wikipedia.org/wiki/布萊頓海灘車站_\(BMT布萊頓線\) "wikilink")。2010年，Q線延長至皇后區的[阿斯托利亞-迪特馬斯林蔭路](https://zh.wikipedia.org/wiki/阿斯托利亞-迪特馬斯林蔭路車站_\(BMT阿斯托利亞線\) "wikilink")，但在2017年改道到[第二大道線](../Page/第二大道線.md "wikilink")。
+過去，「QB」與「QT」分別經[曼哈頓大橋](../Page/曼哈頓大橋.md "wikilink")和營運在[BMT布萊頓線](https://zh.wikipedia.org/wiki/BMT布萊頓線 "wikilink")，但隧道服務後來停運。1988年至2001年間，Q線只在平日營運，途經[IND第六大道線](../Page/IND第六大道線.md "wikilink")前往[21街-皇后橋](https://zh.wikipedia.org/wiki/21街-皇后橋車站_\(IND_63街線\) "wikilink")，因此塗為黃色。2001年至2004年間有快車由布萊頓線前往[布萊頓海灘](https://zh.wikipedia.org/wiki/布萊頓海灘車站_\(BMT布萊頓線\) "wikilink")。2010年，Q線延長至皇后區的[阿斯托利亞-迪特馬斯林蔭路](https://zh.wikipedia.org/wiki/阿斯托利亞-迪特馬斯林蔭路車站_\(BMT阿斯托利亞線\) "wikilink")，但在2017年改道到[第二大道線](../Page/第二大道線.md "wikilink")。
 
 <div class="thumb tright" style="width:auto;">
 
@@ -490,11 +490,9 @@ Q線任何時候都營運，來往曼哈頓[上東城的](https://zh.wikipedia.o
 
 ## 外部連結
 
-  - [MTA NYC Transit -
-    路線介紹](https://web.archive.org/web/20130208065422/http://www.mta.info/nyct/service/qline.htm)
+  - [MTA NYC Transit - 路線介紹](https://web.archive.org/web/20130208065422/http://www.mta.info/nyct/service/qline.htm)
   - [M線歷史](https://web.archive.org/web/20011202055509/http://members.aol.com/bdmnqr2/linehistory.html)
-  - [MTA NYC Transit -
-    M線時刻表（PDF）](https://web.archive.org/web/20031203132516/http://www.mta.info/nyct/service/pdf/tqcur.pdf)
+  - [MTA NYC Transit - M線時刻表（PDF）](https://web.archive.org/web/20031203132516/http://www.mta.info/nyct/service/pdf/tqcur.pdf)
 
 [Category:紐約地鐵服務路線](https://zh.wikipedia.org/wiki/Category:紐約地鐵服務路線 "wikilink")
 

@@ -1,22 +1,17 @@
-《**Venus Versus Virus
-除魔維納斯**》（）是[鈴見敦的](https://zh.wikipedia.org/wiki/鈴見敦 "wikilink")[日本漫畫作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")\[1\]。於[月刊電擊COMIC
-gao\!](https://zh.wikipedia.org/wiki/月刊電擊COMIC_gao! "wikilink")（[MediaWorks](../Page/MediaWorks.md "wikilink")）2005年開始至2008年結束連載。單行本全8冊。
+《**Venus Versus Virus 除魔維納斯**》（）是[鈴見敦的](https://zh.wikipedia.org/wiki/鈴見敦 "wikilink")[日本漫畫作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")\[1\]。於[月刊電擊COMIC gao\!](https://zh.wikipedia.org/wiki/月刊電擊COMIC_gao! "wikilink")（[MediaWorks](../Page/MediaWorks.md "wikilink")）2005年開始至2008年結束連載。單行本全8冊。
 
-2007年改編為[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")\[2\]。動畫版從2007年1月11日到3月29日開始在日本地區播映\[3\]。由於本作品的內容是青少年適宜觀看，加上主角有不良青少年行為和生死的故事場面，所以與[傳說巨神伊迪安和](https://zh.wikipedia.org/wiki/傳說巨神伊迪安 "wikilink")[聖槍修女一樣被嚴禁在](../Page/聖槍修女.md "wikilink")[香港播放動畫版](../Page/香港.md "wikilink")。
+2007年改編為[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")\[2\]。動畫版從2007年1月11日到3月29日開始在日本地區播映\[3\]。由於本作品的內容是青少年適宜觀看，加上主角有不良青少年行為和生死的故事場面，所以與[傳說巨神伊迪安和](https://zh.wikipedia.org/wiki/傳說巨神伊迪安 "wikilink")[聖槍修女](../Page/聖槍修女.md "wikilink")一樣被嚴禁在[香港](../Page/香港.md "wikilink")播放動畫版。
 
 ## 故事簡介
 
-**鷹花堇**是個可以見到幽靈的少女，有一天晚上當她要從校舍回到宿舍時，有一枚胸針刺中了她的手指，後來看到了「魔人」。突然地，一位穿著[哥德蘿莉塔裝的少女](https://zh.wikipedia.org/wiki/哥德蘿莉 "wikilink")**名橋露琪亞**，拿出一把巨大的槍並且解決了「魔人」，後來那位少女給了一張古董店「Venus
-Vangand」的傳單。
-當堇參觀商店時當他說出她看到「魔人」的時候，那位少女說出她名字後，並解釋堇為何被胸針刺中後可以看到魔人。後來露琪亞要堇幫助她驅逐在這個世界所有的魔人。
+**鷹花堇**是個可以見到幽靈的少女，有一天晚上當她要從校舍回到宿舍時，有一枚胸針刺中了她的手指，後來看到了「魔人」。突然地，一位穿著[哥德蘿莉塔裝的少女](https://zh.wikipedia.org/wiki/哥德蘿莉 "wikilink")**名橋露琪亞**，拿出一把巨大的槍並且解決了「魔人」，後來那位少女給了一張古董店「Venus Vangand」的傳單。 當堇參觀商店時當他說出她看到「魔人」的時候，那位少女說出她名字後，並解釋堇為何被胸針刺中後可以看到魔人。後來露琪亞要堇幫助她驅逐在這個世界所有的魔人。
 
 ## 登場人物
 
 <small>注意：本表中文譯名部分並非官方版本，而是網路上約定俗成的稱法。</small>
 
   -
-    古董店「Venus
-    Vangand」的店長。本行是接受擁有「視力」的人的委託，打倒魔人並獲取報酬的「退治屋」。當初只把堇所擁有的強大「視力」當作誘餌看待。後來見識到她的能力之後，變成跟她合作尋找其他的魔人。露琪亞天生就具有「視力」，左眼平常戴著總一郎特製的眼罩。遇到總一郎之前，周圍的人都叫她詛咒的小孩，因此憎恨自己的左眼與魔人。在左手臂上從親生父親繼承了所有的屬性的痣。15歲就有吸煙的習慣。（在動畫版裡並沒有描寫出來。）
+    古董店「Venus Vangand」的店長。本行是接受擁有「視力」的人的委託，打倒魔人並獲取報酬的「退治屋」。當初只把堇所擁有的強大「視力」當作誘餌看待。後來見識到她的能力之後，變成跟她合作尋找其他的魔人。露琪亞天生就具有「視力」，左眼平常戴著總一郎特製的眼罩。遇到總一郎之前，周圍的人都叫她詛咒的小孩，因此憎恨自己的左眼與魔人。在左手臂上從親生父親繼承了所有的屬性的痣。15歲就有吸煙的習慣。（在動畫版裡並沒有描寫出來。）
   -
     私立銀女學院中等部的學生。一開始住在學校的宿舍。從很久以前就可以看到像幽靈的東西，後來被露琪亞的胸針刺中而得到了「視力」，因此成為魔人的目標，後來被露琪亞救出來後要求報酬66萬日圓的費用，而到露琪亞的店幫忙，成為引誘魔人的誘餌。將魔人引誘過來的時候，受到了對魔人用子彈的影響，而產生變化瞬間殺了魔人的本體（本人並未察覺）。後來決定留在露琪亞身邊。
   -
@@ -123,18 +118,13 @@ Vangand」的傳單。
   - 動畫製作人 - 山崎成人
   - 製作人 - 田邉里英、中村伸一、金庭こず恵、斉藤公一、小池克実
   - 動畫製作 - [雲雀工作室](../Page/雲雀工作室.md "wikilink")
-  - 製作協力 -
-    [波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")、[Movic](https://zh.wikipedia.org/wiki/Movic "wikilink")、[Sony
-    PCL](https://zh.wikipedia.org/wiki/Sony_PCL "wikilink")、[Lantis](../Page/Lantis.md "wikilink")
+  - 製作協力 - [波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")、[Movic](https://zh.wikipedia.org/wiki/Movic "wikilink")、[Sony PCL](https://zh.wikipedia.org/wiki/Sony_PCL "wikilink")、[Lantis](../Page/Lantis.md "wikilink")
   - 製作 - Venus Vanguard製作委員會、TBS
 
 ### 主題曲
 
-  - 片頭曲《[Bravin' Bad
-    Brew](https://zh.wikipedia.org/wiki/Bravin'_Bad_Brew "wikilink")》
-    作詞 - [畑亜貴](https://zh.wikipedia.org/wiki/畑亜貴 "wikilink") / 作曲・編曲 -
-    [上松範康](../Page/上松範康.md "wikilink") / 歌 -
-    [Riryka](https://zh.wikipedia.org/wiki/Riryka "wikilink")
+  - 片頭曲《[Bravin' Bad Brew](https://zh.wikipedia.org/wiki/Bravin'_Bad_Brew "wikilink")》
+    作詞 - [畑亜貴](https://zh.wikipedia.org/wiki/畑亜貴 "wikilink") / 作曲・編曲 - [上松範康](../Page/上松範康.md "wikilink") / 歌 - [Riryka](https://zh.wikipedia.org/wiki/Riryka "wikilink")
   - 片尾曲《[至純の残酷](https://zh.wikipedia.org/wiki/至純の残酷 "wikilink")》
     作詞・作曲・編曲 - 橘尭葉 / 歌 - [妖精帝國](../Page/妖精帝國.md "wikilink")
 
@@ -339,9 +329,7 @@ Vangand」的傳單。
 
 ## 廣播劇CD
 
-第一卷[廣播劇CD](https://zh.wikipedia.org/wiki/廣播劇CD "wikilink")《Venus Versus
-Virus》於2006年10月25日由[Frontier
-Works發售](../Page/Frontier_Works.md "wikilink")。\[4\]
+第一卷[廣播劇CD](https://zh.wikipedia.org/wiki/廣播劇CD "wikilink")《Venus Versus Virus》於2006年10月25日由[Frontier Works發售](../Page/Frontier_Works.md "wikilink")。\[4\]
 
 ### 配音員
 
@@ -365,13 +353,7 @@ Works發售](../Page/Frontier_Works.md "wikilink")。\[4\]
 
   - [Venus Versus Virus動畫版官方網站](http://www.tbs.co.jp/anime/vvv/)
 
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:月刊Comic電擊大王連載作品](https://zh.wikipedia.org/wiki/Category:月刊Comic電擊大王連載作品 "wikilink")
-[Category:奇幻漫畫](https://zh.wikipedia.org/wiki/Category:奇幻漫畫 "wikilink")
-[Category:2007年TBS電視網動畫](https://zh.wikipedia.org/wiki/Category:2007年TBS電視網動畫 "wikilink")
-[Category:奇幻動畫](https://zh.wikipedia.org/wiki/Category:奇幻動畫 "wikilink")
-[Category:廣播劇CD](https://zh.wikipedia.org/wiki/Category:廣播劇CD "wikilink")
-[Category:百合_(類型)](https://zh.wikipedia.org/wiki/Category:百合_\(類型\) "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:月刊Comic電擊大王連載作品](https://zh.wikipedia.org/wiki/Category:月刊Comic電擊大王連載作品 "wikilink") [Category:奇幻漫畫](https://zh.wikipedia.org/wiki/Category:奇幻漫畫 "wikilink") [Category:2007年TBS電視網動畫](https://zh.wikipedia.org/wiki/Category:2007年TBS電視網動畫 "wikilink") [Category:奇幻動畫](https://zh.wikipedia.org/wiki/Category:奇幻動畫 "wikilink") [Category:廣播劇CD](https://zh.wikipedia.org/wiki/Category:廣播劇CD "wikilink") [Category:百合_(類型)](https://zh.wikipedia.org/wiki/Category:百合_\(類型\) "wikilink")
 
 1.
 2.

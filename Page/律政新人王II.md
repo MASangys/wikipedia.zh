@@ -1,4 +1,4 @@
-《**律政新人王II**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司拍攝製作的時裝](../Page/電視廣播有限公司.md "wikilink")[劇集](https://zh.wikipedia.org/wiki/劇集 "wikilink")，全劇共20集，由[陳鍵鋒](https://zh.wikipedia.org/wiki/陳鍵鋒 "wikilink")、[馬國明](https://zh.wikipedia.org/wiki/馬國明 "wikilink")、[官恩娜及](../Page/官恩娜.md "wikilink")[李詩韻領銜主演](https://zh.wikipedia.org/wiki/李詩韻 "wikilink")，監製[關永忠](../Page/關永忠.md "wikilink")。此劇為《律政新人王系列》第二輯。
+《**律政新人王II**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")拍攝製作的時裝[劇集](https://zh.wikipedia.org/wiki/劇集 "wikilink")，全劇共20集，由[陳鍵鋒](https://zh.wikipedia.org/wiki/陳鍵鋒 "wikilink")、[馬國明](https://zh.wikipedia.org/wiki/馬國明 "wikilink")、[官恩娜](../Page/官恩娜.md "wikilink")及[李詩韻領銜主演](https://zh.wikipedia.org/wiki/李詩韻 "wikilink")，監製[關永忠](../Page/關永忠.md "wikilink")。此劇為《律政新人王系列》第二輯。
 
 ## 演員表
 
@@ -230,7 +230,7 @@ Zenbi之徒弟</p></td>
 <tr class="even">
 <td><p><a href="../Page/秦煌.md" title="wikilink">秦　煌</a></p></td>
 <td><p>王天保</p></td>
-<td><p><a href="../Page/茶餐廳.md" title="wikilink">茶餐廳老闆</a></p></td>
+<td><p><a href="../Page/茶餐廳.md" title="wikilink">茶餐廳</a>老闆</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/胡楓.md" title="wikilink">胡　楓</a></p></td>
@@ -427,34 +427,24 @@ Elsa<br />
 
 ## 記事
 
-  - 2007年12月31日：由於21:00-22:30播映特備節目慶祝[高清翡翠台啟播](../Page/高清翡翠台.md "wikilink")，當晚本劇暫停播映。
+  - 2007年12月31日：由於21:00-22:30播映特備節目慶祝[高清翡翠台](../Page/高清翡翠台.md "wikilink")啟播，當晚本劇暫停播映。
   - 2008年1月18日：此劇於20:30-22:35播映兩小時大結局（香港首播版第19集，原裝版第19-20集）。
 
 ## 外部連結
 
-  - [無綫電視官方網頁 -
-    律政新人王II](https://web.archive.org/web/20071223082107/http://tvcity.tvb.com/drama/survivor_s_law_ii/)
+  - [無綫電視官方網頁 - 律政新人王II](https://web.archive.org/web/20071223082107/http://tvcity.tvb.com/drama/survivor_s_law_ii/)
 
 ## 電視節目的變遷
 
 |align="center" colspan="5"|[同事三分親](../Page/同事三分親.md "wikilink")
-\-2008年8月7日 |- |align="center"
-colspan="2"|[建築有情天](../Page/建築有情天.md "wikilink")
-\-12月28日 |align="center"
-colspan="3"|[野蠻奶奶大戰戈師奶](../Page/野蠻奶奶大戰戈師奶.md "wikilink")
+\-2008年8月7日 |- |align="center" colspan="2"|[建築有情天](../Page/建築有情天.md "wikilink")
+\-12月28日 |align="center" colspan="3"|[野蠻奶奶大戰戈師奶](../Page/野蠻奶奶大戰戈師奶.md "wikilink")
 2008年1月1日- |- |align="center" colspan="1"|**上一套：**
 [兩妻時代](../Page/兩妻時代.md "wikilink")
-\-12月21日 |align="center"
-colspan="3"|**翡翠台/高清翡翠台第三綫劇集（[2007](https://zh.wikipedia.org/wiki/翡翠台電視劇集列表_\(2007年\)#第三線劇集 "wikilink")-[2008](https://zh.wikipedia.org/wiki/翡翠台電視劇集列表_\(2008年\)#第三線劇集 "wikilink")）**
+\-12月21日 |align="center" colspan="3"|**翡翠台/高清翡翠台第三綫劇集（[2007](https://zh.wikipedia.org/wiki/翡翠台電視劇集列表_\(2007年\)#第三線劇集 "wikilink")-[2008](https://zh.wikipedia.org/wiki/翡翠台電視劇集列表_\(2008年\)#第三線劇集 "wikilink")）**
 **律政新人王II**
 12月24日-1月18日 |align="center" colspan="1"|**下一套：**
 [秀才愛上兵](../Page/秀才愛上兵.md "wikilink")
 1月21日-
 
-[Category:2007年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:2007年無綫電視劇集 "wikilink")
-[Category:2008年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:2008年無綫電視劇集 "wikilink")
-[Category:2007年AOD電視劇集](https://zh.wikipedia.org/wiki/Category:2007年AOD電視劇集 "wikilink")
-[Category:無綫電視劇集系列](https://zh.wikipedia.org/wiki/Category:無綫電視劇集系列 "wikilink")
-[Category:無綫電視律政劇集](https://zh.wikipedia.org/wiki/Category:無綫電視律政劇集 "wikilink")
-[Category:無綫電視2000年代背景劇集](https://zh.wikipedia.org/wiki/Category:無綫電視2000年代背景劇集 "wikilink")
-[Category:電視劇續集](https://zh.wikipedia.org/wiki/Category:電視劇續集 "wikilink")
+[Category:2007年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:2007年無綫電視劇集 "wikilink") [Category:2008年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:2008年無綫電視劇集 "wikilink") [Category:2007年AOD電視劇集](https://zh.wikipedia.org/wiki/Category:2007年AOD電視劇集 "wikilink") [Category:無綫電視劇集系列](https://zh.wikipedia.org/wiki/Category:無綫電視劇集系列 "wikilink") [Category:無綫電視律政劇集](https://zh.wikipedia.org/wiki/Category:無綫電視律政劇集 "wikilink") [Category:無綫電視2000年代背景劇集](https://zh.wikipedia.org/wiki/Category:無綫電視2000年代背景劇集 "wikilink") [Category:電視劇續集](https://zh.wikipedia.org/wiki/Category:電視劇續集 "wikilink")

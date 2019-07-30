@@ -1,5 +1,4 @@
-**And The Glass Handed
-Kites**為[丹麥樂團](https://zh.wikipedia.org/wiki/丹麥 "wikilink")[Mew於](../Page/Mew.md "wikilink")2005年發行的專輯。
+**And The Glass Handed Kites**為[丹麥樂團](https://zh.wikipedia.org/wiki/丹麥 "wikilink")[Mew](../Page/Mew.md "wikilink")於2005年發行的專輯。
 
 ## 曲目
 
@@ -39,8 +38,7 @@ Kites**為[丹麥樂團](https://zh.wikipedia.org/wiki/丹麥 "wikilink")[Mew於
 13. "White Lips Kissed" – 6:45
 14. "Louise Louisa" – 7:20
 15. "Forever And Ever" – 4:20
-16. "白い唇のいざない（Shiroi Kuchibiru No Izanai）" – 5:34（"White Lips
-    Kissed"之[日語版本](https://zh.wikipedia.org/wiki/日語 "wikilink")）
+16. "白い唇のいざない（Shiroi Kuchibiru No Izanai）" – 5:34（"White Lips Kissed"之[日語版本](https://zh.wikipedia.org/wiki/日語 "wikilink")）
 
 ## 資訊
 
@@ -60,13 +58,7 @@ Kites**為[丹麥樂團](https://zh.wikipedia.org/wiki/丹麥 "wikilink")[Mew於
 
 ## 其他
 
-  - Pitchfork Media『**Your Cover's Blown**: *Pitchfork's ongoing guide
-    to the worst in album
-    art*』評選為最差專輯封面第二名[1](https://web.archive.org/web/20070312042812/http://www.pitchforkmedia.com/page/news/category/yourcoversblown)。
-  - Pitchfork Media『**Top 25 Worst Album Covers Of
-    2006**』評選為最差專輯封面之一[2](https://web.archive.org/web/20070106164338/http://www.pitchforkmedia.com/article/feature/40185/Staff_List_Top_25_Worst_Album_Covers_of_2006)。
+  - Pitchfork Media『**Your Cover's Blown**: *Pitchfork's ongoing guide to the worst in album art*』評選為最差專輯封面第二名[1](https://web.archive.org/web/20070312042812/http://www.pitchforkmedia.com/page/news/category/yourcoversblown)。
+  - Pitchfork Media『**Top 25 Worst Album Covers Of 2006**』評選為最差專輯封面之一[2](https://web.archive.org/web/20070106164338/http://www.pitchforkmedia.com/article/feature/40185/Staff_List_Top_25_Worst_Album_Covers_of_2006)。
 
-[Category:2005年音樂專輯](https://zh.wikipedia.org/wiki/Category:2005年音樂專輯 "wikilink")
-[Category:Mew音樂專輯](https://zh.wikipedia.org/wiki/Category:Mew音樂專輯 "wikilink")
-[Category:搖滾音樂專輯](https://zh.wikipedia.org/wiki/Category:搖滾音樂專輯 "wikilink")
-[Category:丹麥音樂專輯](https://zh.wikipedia.org/wiki/Category:丹麥音樂專輯 "wikilink")
+[Category:2005年音樂專輯](https://zh.wikipedia.org/wiki/Category:2005年音樂專輯 "wikilink") [Category:Mew音樂專輯](https://zh.wikipedia.org/wiki/Category:Mew音樂專輯 "wikilink") [Category:搖滾音樂專輯](https://zh.wikipedia.org/wiki/Category:搖滾音樂專輯 "wikilink") [Category:丹麥音樂專輯](https://zh.wikipedia.org/wiki/Category:丹麥音樂專輯 "wikilink")

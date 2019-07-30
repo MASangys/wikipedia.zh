@@ -15,8 +15,4 @@
   - **[大卫·马蒂森](https://zh.wikipedia.org/wiki/大卫·马蒂森 "wikilink")**（）
   - **[格林·赫尔特](https://zh.wikipedia.org/wiki/格林·赫尔特 "wikilink")**（）
 
-[Category:1995年佛罗里达州](https://zh.wikipedia.org/wiki/Category:1995年佛罗里达州 "wikilink")
-[Category:1995年科学](https://zh.wikipedia.org/wiki/Category:1995年科学 "wikilink")
-[Category:哥伦比亚号航天飞机任务](https://zh.wikipedia.org/wiki/Category:哥伦比亚号航天飞机任务 "wikilink")
-[Category:1995年10月](https://zh.wikipedia.org/wiki/Category:1995年10月 "wikilink")
-[Category:1995年11月](https://zh.wikipedia.org/wiki/Category:1995年11月 "wikilink")
+[Category:1995年佛罗里达州](https://zh.wikipedia.org/wiki/Category:1995年佛罗里达州 "wikilink") [Category:1995年科学](https://zh.wikipedia.org/wiki/Category:1995年科学 "wikilink") [Category:哥伦比亚号航天飞机任务](https://zh.wikipedia.org/wiki/Category:哥伦比亚号航天飞机任务 "wikilink") [Category:1995年10月](https://zh.wikipedia.org/wiki/Category:1995年10月 "wikilink") [Category:1995年11月](https://zh.wikipedia.org/wiki/Category:1995年11月 "wikilink")

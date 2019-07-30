@@ -14,7 +14,4 @@
 
   - **[让-雅克·法维尔](https://zh.wikipedia.org/wiki/让-雅克·法维尔 "wikilink")**（，[法国宇航员](https://zh.wikipedia.org/wiki/法国 "wikilink")，曾执行任务）
 
-[Category:1994年佛罗里达州](https://zh.wikipedia.org/wiki/Category:1994年佛罗里达州 "wikilink")
-[Category:1994年科学](https://zh.wikipedia.org/wiki/Category:1994年科学 "wikilink")
-[Category:哥伦比亚号航天飞机任务](https://zh.wikipedia.org/wiki/Category:哥伦比亚号航天飞机任务 "wikilink")
-[Category:1994年7月](https://zh.wikipedia.org/wiki/Category:1994年7月 "wikilink")
+[Category:1994年佛罗里达州](https://zh.wikipedia.org/wiki/Category:1994年佛罗里达州 "wikilink") [Category:1994年科学](https://zh.wikipedia.org/wiki/Category:1994年科学 "wikilink") [Category:哥伦比亚号航天飞机任务](https://zh.wikipedia.org/wiki/Category:哥伦比亚号航天飞机任务 "wikilink") [Category:1994年7月](https://zh.wikipedia.org/wiki/Category:1994年7月 "wikilink")

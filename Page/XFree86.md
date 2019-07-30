@@ -1,19 +1,8 @@
-**XFree86**是[X
-Window系统的其中一个实现](https://zh.wikipedia.org/wiki/X_Window系统 "wikilink")，自1992年，它一直循著自由發放的[開放源代碼模式被發展](https://zh.wikipedia.org/wiki/開放源代碼 "wikilink")。它主要的運作平台是[Unix类](https://zh.wikipedia.org/wiki/Unix类 "wikilink")[操作系統](https://zh.wikipedia.org/wiki/操作系統 "wikilink")，包括各版本的[UNIX](../Page/UNIX.md "wikilink")、[Linux](../Page/Linux.md "wikilink")、[BSD](../Page/BSD.md "wikilink")、[Solaris](../Page/Solaris.md "wikilink")、[Mac
-OS
-X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")、[IRIX](../Page/IRIX.md "wikilink")、[OpenVMS及](https://zh.wikipedia.org/wiki/OpenVMS "wikilink")[Cygwin/X等](https://zh.wikipedia.org/wiki/Cygwin/X "wikilink")。
+**XFree86**是[X Window系统的其中一个实现](https://zh.wikipedia.org/wiki/X_Window系统 "wikilink")，自1992年，它一直循著自由發放的[開放源代碼模式被發展](https://zh.wikipedia.org/wiki/開放源代碼 "wikilink")。它主要的運作平台是[Unix类](https://zh.wikipedia.org/wiki/Unix类 "wikilink")[操作系統](https://zh.wikipedia.org/wiki/操作系統 "wikilink")，包括各版本的[UNIX](../Page/UNIX.md "wikilink")、[Linux](../Page/Linux.md "wikilink")、[BSD](../Page/BSD.md "wikilink")、[Solaris](../Page/Solaris.md "wikilink")、[Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")、[IRIX](../Page/IRIX.md "wikilink")、[OpenVMS及](https://zh.wikipedia.org/wiki/OpenVMS "wikilink")[Cygwin/X等](https://zh.wikipedia.org/wiki/Cygwin/X "wikilink")。
 
-由2004年開始，它再不是以[GPL](https://zh.wikipedia.org/wiki/GPL "wikilink")[軟件許可證的形式出現](https://zh.wikipedia.org/wiki/軟件許可證 "wikilink")，而是使用XFree86®Project公司所擁有的[XFree86
-License](https://zh.wikipedia.org/wiki/XFree86_License "wikilink")
-version 1.1
-[軟件许可證模式發放](https://zh.wikipedia.org/wiki/軟件许可證 "wikilink")。現時XFree86仍由XFree86®Project公司負責开发，該公司的主要負責人是[David
-Dawes](https://zh.wikipedia.org/wiki/David_Dawes "wikilink")。
+由2004年開始，它再不是以[GPL](https://zh.wikipedia.org/wiki/GPL "wikilink")[軟件許可證的形式出現](https://zh.wikipedia.org/wiki/軟件許可證 "wikilink")，而是使用XFree86®Project公司所擁有的[XFree86 License](https://zh.wikipedia.org/wiki/XFree86_License "wikilink") version 1.1 [軟件许可證模式發放](https://zh.wikipedia.org/wiki/軟件许可證 "wikilink")。現時XFree86仍由XFree86®Project公司負責开发，該公司的主要負責人是[David Dawes](https://zh.wikipedia.org/wiki/David_Dawes "wikilink")。
 
-自1992年至2004年，XFree86是[X
-Window系統最被廣泛使用的基建平台](../Page/X_Window系統.md "wikilink")。其後，XFree86的開發因[軟件許可證出現分岐](https://zh.wikipedia.org/wiki/軟件許可證 "wikilink")，而衍生出另一個發展自XFree86
-4.4
-RC2版本源代碼，名叫[X.Org伺服器的](https://zh.wikipedia.org/wiki/X.Org伺服器 "wikilink")[X
-Window系統](../Page/X_Window系統.md "wikilink")。大部分使用XFree86的开源操作系统和开发者都转为使用X.Org。XFree86从2008年底发布4.8.0以后已经完全停止更新。
+自1992年至2004年，XFree86是[X Window系統最被廣泛使用的基建平台](../Page/X_Window系統.md "wikilink")。其後，XFree86的開發因[軟件許可證出現分岐](https://zh.wikipedia.org/wiki/軟件許可證 "wikilink")，而衍生出另一個發展自XFree86 4.4 RC2版本源代碼，名叫[X.Org伺服器的](https://zh.wikipedia.org/wiki/X.Org伺服器 "wikilink")[X Window系統](../Page/X_Window系統.md "wikilink")。大部分使用XFree86的开源操作系统和开发者都转为使用X.Org。XFree86从2008年底发布4.8.0以后已经完全停止更新。
 
 ## 版本歷史
 
@@ -64,5 +53,4 @@ Window系統](../Page/X_Window系統.md "wikilink")。大部分使用XFree86的�
   - [XFree86項目主页](http://www.xfree86.org)
   - [XFree86配置文件样本](http://tldp.org/HOWTO/XFree-Local-multi-user-HOWTO/examples_xf_confs.html)
 
-[Category:开放源代码](https://zh.wikipedia.org/wiki/Category:开放源代码 "wikilink")
-[Category:X服务器](https://zh.wikipedia.org/wiki/Category:X服务器 "wikilink")
+[Category:开放源代码](https://zh.wikipedia.org/wiki/Category:开放源代码 "wikilink") [Category:X服务器](https://zh.wikipedia.org/wiki/Category:X服务器 "wikilink")

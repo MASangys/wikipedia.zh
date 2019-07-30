@@ -10,7 +10,4 @@
   - **[杰弗利·霍夫曼](../Page/杰弗利·霍夫曼.md "wikilink")**（，曾执行、、、以及任务），任务专家
   - **[托马斯·埃克斯](https://zh.wikipedia.org/wiki/托马斯·埃克斯 "wikilink")**（，曾执行、、以及任务），任务专家
 
-[Category:1993年佛罗里达州](https://zh.wikipedia.org/wiki/Category:1993年佛罗里达州 "wikilink")
-[Category:奋进号航天飞机任务](https://zh.wikipedia.org/wiki/Category:奋进号航天飞机任务 "wikilink")
-[Category:1993年科學](https://zh.wikipedia.org/wiki/Category:1993年科學 "wikilink")
-[Category:1993年12月](https://zh.wikipedia.org/wiki/Category:1993年12月 "wikilink")
+[Category:1993年佛罗里达州](https://zh.wikipedia.org/wiki/Category:1993年佛罗里达州 "wikilink") [Category:奋进号航天飞机任务](https://zh.wikipedia.org/wiki/Category:奋进号航天飞机任务 "wikilink") [Category:1993年科學](https://zh.wikipedia.org/wiki/Category:1993年科學 "wikilink") [Category:1993年12月](https://zh.wikipedia.org/wiki/Category:1993年12月 "wikilink")

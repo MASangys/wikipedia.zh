@@ -1,13 +1,12 @@
 本列表收錄[任天堂](../Page/任天堂.md "wikilink")「[Wii](../Page/Wii.md "wikilink")」平台的遊戲作品
 
-  - 依據[日本當地發售日期排序](../Page/日本.md "wikilink")，列表中不包含有追加資料等的廉價版及其他語言版本。
+  - 依據[日本](../Page/日本.md "wikilink")當地發售日期排序，列表中不包含有追加資料等的廉價版及其他語言版本。
   - 價格的幣值單位為「[日圓](../Page/日圓.md "wikilink")」（JPY），為廠商建議的含稅售價。
 
 <!-- end list -->
 
   - 以下發售日期皆為預定，可能會有所變更。
-  - 標記有 ● 符號的軟體，為支援或預定支援 Nintendo WiFi Connection 的軟體。另 EA
-    所推出的軟體將以獨立的伺服器提供網路連線。
+  - 標記有 ● 符號的軟體，為支援或預定支援 Nintendo WiFi Connection 的軟體。另 EA 所推出的軟體將以獨立的伺服器提供網路連線。
 
 ## 2006年（26 款軟體）
 
@@ -3016,8 +3015,7 @@ Wii平衡板套裝9,800日圓</p></td>
 
 <!-- end list -->
 
-  - （[日產汽車](../Page/日產汽車.md "wikilink")／開發：[AQ
-    Interactive](https://zh.wikipedia.org/wiki/AQ_Interactive "wikilink")）
+  - （[日產汽車](../Page/日產汽車.md "wikilink")／開發：[AQ Interactive](https://zh.wikipedia.org/wiki/AQ_Interactive "wikilink")）
 
 <!-- end list -->
 
@@ -3026,13 +3024,10 @@ Wii平衡板套裝9,800日圓</p></td>
 
 ## 外部連結
 
-  - [對應 Wii
-    的遊戲列表（任天堂網站）](http://www.nintendo.co.jp/wii/index.html#software)
+  - [對應 Wii 的遊戲列表（任天堂網站）](http://www.nintendo.co.jp/wii/index.html#software)
 
-  - [Wii遊戲清單](https://web.archive.org/web/20081205070836/http://wii.orz.tw/)
-    Wii中英日遊戲名稱對照表。 已於2009年7月停止更新
+  - [Wii遊戲清單](https://web.archive.org/web/20081205070836/http://wii.orz.tw/) Wii中英日遊戲名稱對照表。 已於2009年7月停止更新
 
   - [WII Title DataBase 對照表。](http://wiitdb.com/)
 
-[Category:Wii遊戲](https://zh.wikipedia.org/wiki/Category:Wii遊戲 "wikilink")
-[Category:各平台遊戲列表](https://zh.wikipedia.org/wiki/Category:各平台遊戲列表 "wikilink")
+[Category:Wii遊戲](https://zh.wikipedia.org/wiki/Category:Wii遊戲 "wikilink") [Category:各平台遊戲列表](https://zh.wikipedia.org/wiki/Category:各平台遊戲列表 "wikilink")

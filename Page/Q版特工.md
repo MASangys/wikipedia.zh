@@ -1,11 +1,6 @@
-**《Q版特工》系列**為香港作家[梁科慶以第一人稱敘述的科幻推理小說](../Page/梁科慶.md "wikilink")，
-小說主角為阿Wing。 此系列初在《突破少年》的《特工阿Wing》系列載出。
-其後由突破出版社協助出版第一本小說《Q版特工1
-極度任務》，於1998年8月出版。
+**《Q版特工》系列**為香港作家[梁科慶](../Page/梁科慶.md "wikilink")以第一人稱敘述的科幻推理小說， 小說主角為阿Wing。 此系列初在《突破少年》的《特工阿Wing》系列載出。 其後由突破出版社協助出版第一本小說《Q版特工1 極度任務》，於1998年8月出版。
 
-《Q版特工》系列小說主要是講述特工阿Wing執行其特工任務的故事。
-小說重要角色除了主角阿Wing，還有前女友兼小學同學葉真生、好友阿漆、阿Ken、露絲、嘉薰醫生、上司M、M的秘書Ada、女友R，以及死對頭金大芝。
-除此之外，阿Wing又隨身配備先進的武器，與敵周旋。
+《Q版特工》系列小說主要是講述特工阿Wing執行其特工任務的故事。 小說重要角色除了主角阿Wing，還有前女友兼小學同學葉真生、好友阿漆、阿Ken、露絲、嘉薰醫生、上司M、M的秘書Ada、女友R，以及死對頭金大芝。 除此之外，阿Wing又隨身配備先進的武器，與敵周旋。
 
 全個故事是一個完整的系列，角色性格和關係隨劇情發展變得豐富。
 
@@ -100,19 +95,17 @@
 **阿Wing**
 
   -
-    男主角，行動組[特工](https://zh.wikipedia.org/wiki/特工 "wikilink")，M的下屬，年齡二十至三十之間。他經常遭到聖經的難題，去問姐姐或姐夫(他們都是基督徒，姐夫更是傳道人,因為受到他們和真生的影響，他現在越來越信基督教但還未完全信基督教。勇敢果斷、機智，但會間歇性糊塗，是最不似特工的特工，最愛喝紙包奶，不喝紅酒。入行前在劍橋讀[兒童文學](https://zh.wikipedia.org/wiki/兒童文學 "wikilink")，以攝影師的身份作掩飾，有[鼻敏感](https://zh.wikipedia.org/wiki/鼻敏感 "wikilink")。與阿漆和葉真生是小學同學，亦與露絲、阿Ken等是好友。喜愛閱讀，例如詩集、《[時間簡史](https://zh.wikipedia.org/wiki/時間簡史 "wikilink")》、《劍河倒影》、《[格林童話](../Page/格林童話.md "wikilink")》，經常吟詩。小時與阿漆習武，因而精通百般武藝，例如「雲手」、「好漢拳」，甚至金庸小說的「彈指神通」、「打狗棒法」和「降龍十八掌」，以及「草上飛」、「梯雲縱」等絕頂輕功；習武時練精學懶，但善於融會貫通。第6集重遇真生後和她成為情人，但第11集真生中毒慘死後崩潰，刻意躲藏長達9個月，甚至為她而四處流浪。尋得眾毒剋星——辟毒碧眼獸後，結束流浪並聯同阿漆、阿Ken，到日本殺死金大芝（可惜她最終仍然生還），為真生報仇；但此後仍躲在日本筑波避世，直至第12集被露絲找到及協助阿漆完成臥底任務，終於在第14集初段返港。第10集末段被金大芝下毒，一度以為「苗疆蠱毒」在第11集被辟毒碧眼獸吸掉，事實上卻餘毒未清，導致長期耳鳴，更在第20集末段復發，幾乎命喪千面人手上，後來在《Q版特工X嘉薰醫生1
-    生死X緣》中仍然性命垂危，終於由嘉薰醫生和楚醫生以金大芝血清配製的解毒劑把劇毒清除。真生死後，在第17集和R成為情人，但在第24集一度分手(分手原因是莫需有)，在第25集復合。
+    男主角，行動組[特工](https://zh.wikipedia.org/wiki/特工 "wikilink")，M的下屬，年齡二十至三十之間。他經常遭到聖經的難題，去問姐姐或姐夫(他們都是基督徒，姐夫更是傳道人,因為受到他們和真生的影響，他現在越來越信基督教但還未完全信基督教。勇敢果斷、機智，但會間歇性糊塗，是最不似特工的特工，最愛喝紙包奶，不喝紅酒。入行前在劍橋讀[兒童文學](https://zh.wikipedia.org/wiki/兒童文學 "wikilink")，以攝影師的身份作掩飾，有[鼻敏感](https://zh.wikipedia.org/wiki/鼻敏感 "wikilink")。與阿漆和葉真生是小學同學，亦與露絲、阿Ken等是好友。喜愛閱讀，例如詩集、《[時間簡史](https://zh.wikipedia.org/wiki/時間簡史 "wikilink")》、《劍河倒影》、《[格林童話](../Page/格林童話.md "wikilink")》，經常吟詩。小時與阿漆習武，因而精通百般武藝，例如「雲手」、「好漢拳」，甚至金庸小說的「彈指神通」、「打狗棒法」和「降龍十八掌」，以及「草上飛」、「梯雲縱」等絕頂輕功；習武時練精學懶，但善於融會貫通。第6集重遇真生後和她成為情人，但第11集真生中毒慘死後崩潰，刻意躲藏長達9個月，甚至為她而四處流浪。尋得眾毒剋星——辟毒碧眼獸後，結束流浪並聯同阿漆、阿Ken，到日本殺死金大芝（可惜她最終仍然生還），為真生報仇；但此後仍躲在日本筑波避世，直至第12集被露絲找到及協助阿漆完成臥底任務，終於在第14集初段返港。第10集末段被金大芝下毒，一度以為「苗疆蠱毒」在第11集被辟毒碧眼獸吸掉，事實上卻餘毒未清，導致長期耳鳴，更在第20集末段復發，幾乎命喪千面人手上，後來在《Q版特工X嘉薰醫生1 生死X緣》中仍然性命垂危，終於由嘉薰醫生和楚醫生以金大芝血清配製的解毒劑把劇毒清除。真生死後，在第17集和R成為情人，但在第24集一度分手(分手原因是莫需有)，在第25集復合。
 
 **阿漆**
 
   -
-    男性，行動組特工，M的下屬。與阿Wing從小認識，既是小學同學，也是好朋友，並介紹他成為特工。在[大學修讀歷史](../Page/大學.md "wikilink")，熟悉[歐洲歷史](https://zh.wikipedia.org/wiki/歐洲歷史 "wikilink")，懂[俄語](https://zh.wikipedia.org/wiki/俄語 "wikilink")、[針灸](https://zh.wikipedia.org/wiki/針灸 "wikilink")。在阿漆眼中的露絲是「成熟、大方、熱愛工作」，與她在第14集成為情侶。與阿Wing一同習武，基本功紮實，精通[暗器](https://zh.wikipedia.org/wiki/暗器 "wikilink")（尤其飛刀）；亦懂一些上乘輕功，但這方面的功力不及阿Wing。由於父親賣豬肉維生，小時忍受多年「豬肉仔，沒出息」的侮辱，為了「讓難登大雅之堂的豬肉刀掦名立萬」，不惜親自求師父獨創「豬肉刀十八斬」。把此刀法練成後，更成為了絕技。
+    男性，行動組特工，M的下屬。與阿Wing從小認識，既是小學同學，也是好朋友，並介紹他成為特工。在[大學](../Page/大學.md "wikilink")修讀歷史，熟悉[歐洲歷史](https://zh.wikipedia.org/wiki/歐洲歷史 "wikilink")，懂[俄語](https://zh.wikipedia.org/wiki/俄語 "wikilink")、[針灸](https://zh.wikipedia.org/wiki/針灸 "wikilink")。在阿漆眼中的露絲是「成熟、大方、熱愛工作」，與她在第14集成為情侶。與阿Wing一同習武，基本功紮實，精通[暗器](https://zh.wikipedia.org/wiki/暗器 "wikilink")（尤其飛刀）；亦懂一些上乘輕功，但這方面的功力不及阿Wing。由於父親賣豬肉維生，小時忍受多年「豬肉仔，沒出息」的侮辱，為了「讓難登大雅之堂的豬肉刀掦名立萬」，不惜親自求師父獨創「豬肉刀十八斬」。把此刀法練成後，更成為了絕技。
 
 **葉真生**
 
   -
-    女性，阿Wing的女朋友兼小學同學。自從識了阿Wing的姐姐和姐夫後，信了基督教。小時較胖，因此被稱為「肥妹生」。為人富正義感，常揭發阿小時侯的Wing和阿漆欠交功課等行為，因而經常被作弄。大學畢業後加入警隊，但救嬰兒時被咬傷，意外染上[愛滋病](https://zh.wikipedia.org/wiki/愛滋病 "wikilink")，之後一直流浪，直至第6集重遇阿Wing，才重新振作。後來阿Wing成為情侶，可是在第11集，為救阿Wing，被金大芝在混戰中抓傷，中毒病危；為免連累阿Wing，決定假死。後來脫離危險期，改以新身份「吳芷晴」再次流浪以避開阿Wing，返港覆診時發現體內的毒素和HIV病毒竟然互相箝制，一年後證實康復。在第24集以複製人形式出現，但這是瑪姬用全息系統弄出來的幻覺；直至《Q版特工X嘉薰醫生3
-    真生再見》才以「吳芷晴」身份再度登場。
+    女性，阿Wing的女朋友兼小學同學。自從識了阿Wing的姐姐和姐夫後，信了基督教。小時較胖，因此被稱為「肥妹生」。為人富正義感，常揭發阿小時侯的Wing和阿漆欠交功課等行為，因而經常被作弄。大學畢業後加入警隊，但救嬰兒時被咬傷，意外染上[愛滋病](https://zh.wikipedia.org/wiki/愛滋病 "wikilink")，之後一直流浪，直至第6集重遇阿Wing，才重新振作。後來阿Wing成為情侶，可是在第11集，為救阿Wing，被金大芝在混戰中抓傷，中毒病危；為免連累阿Wing，決定假死。後來脫離危險期，改以新身份「吳芷晴」再次流浪以避開阿Wing，返港覆診時發現體內的毒素和HIV病毒竟然互相箝制，一年後證實康復。在第24集以複製人形式出現，但這是瑪姬用全息系統弄出來的幻覺；直至《Q版特工X嘉薰醫生3 真生再見》才以「吳芷晴」身份再度登場。
 
 ### 香港特工組織
 
@@ -121,7 +114,7 @@
 **M**
 
   -
-    男性，特工主管，阿Wing的上司。做事渾渾噩噩，不做不錯，小做小錯，維持現狀，50年不變，得過且過，愛在辦公室玩射箭、打高爾夫球，懂催眠。真人不露相，露相不真人，入行前是[警察](../Page/警察.md "wikilink")，頭十九年的[警察生涯渾渾噩噩](../Page/警察.md "wikilink")，但在第二十年突然迅速地破了多宗案件，連升九級，因而被納入組織，僅於第15和29集秀出其絕頂身手和過人智慧。\[2\]於第22集放大假，由阿Ken暫代主管，第23集復職。
+    男性，特工主管，阿Wing的上司。做事渾渾噩噩，不做不錯，小做小錯，維持現狀，50年不變，得過且過，愛在辦公室玩射箭、打高爾夫球，懂催眠。真人不露相，露相不真人，入行前是[警察](../Page/警察.md "wikilink")，頭十九年的[警察](../Page/警察.md "wikilink")生涯渾渾噩噩，但在第二十年突然迅速地破了多宗案件，連升九級，因而被納入組織，僅於第15和29集秀出其絕頂身手和過人智慧。\[2\]於第22集放大假，由阿Ken暫代主管，第23集復職。
 
 **阿Wing**
 
@@ -188,7 +181,7 @@
 **大力**
 
   -
-    男性，來自[非洲食人族](../Page/非洲.md "wikilink")，R的下屬兼親信，行動組特工。擅用吹箭，討厭[美國人](../Page/美國人.md "wikilink")，不放過所有不違法加害[美國人的機會](../Page/美國人.md "wikilink")，例如不斷請他們喝[汽水](https://zh.wikipedia.org/wiki/汽水 "wikilink")。首次登場於第12集，並在第17集跟R一起調查地獄門案。後來第20集在西鐵線[天水圍站追捕千面人時反被其暗算槍殺](../Page/天水圍.md "wikilink")。
+    男性，來自[非洲](../Page/非洲.md "wikilink")食人族，R的下屬兼親信，行動組特工。擅用吹箭，討厭[美國人](../Page/美國人.md "wikilink")，不放過所有不違法加害[美國人](../Page/美國人.md "wikilink")的機會，例如不斷請他們喝[汽水](https://zh.wikipedia.org/wiki/汽水 "wikilink")。首次登場於第12集，並在第17集跟R一起調查地獄門案。後來第20集在西鐵線[天水圍](../Page/天水圍.md "wikilink")站追捕千面人時反被其暗算槍殺。
 
 **S**
 
@@ -230,13 +223,13 @@
 **Q**
 
   -
-    男性，科研部[武器顧問](../Page/武器.md "wikilink")，露絲的師父，經常創造出一些奇怪但實用的武器。
+    男性，科研部[武器](../Page/武器.md "wikilink")顧問，露絲的師父，經常創造出一些奇怪但實用的武器。
     角色影射:[Q先生](https://zh.wikipedia.org/wiki/Q先生 "wikilink")
 
 **霍斯**
 
   -
-    男性，來自[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")，專責[X檔案的特工](https://zh.wikipedia.org/wiki/X檔案 "wikilink")。獨斷獨行喜愛追查[超自然現象的案件](https://zh.wikipedia.org/wiki/超自然現象 "wikilink")，愛玩[填字遊戲](https://zh.wikipedia.org/wiki/填字遊戲 "wikilink")、發掘[外星人的真相](../Page/外星人.md "wikilink")。
+    男性，來自[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")，專責[X檔案的特工](https://zh.wikipedia.org/wiki/X檔案 "wikilink")。獨斷獨行喜愛追查[超自然現象的案件](https://zh.wikipedia.org/wiki/超自然現象 "wikilink")，愛玩[填字遊戲](https://zh.wikipedia.org/wiki/填字遊戲 "wikilink")、發掘[外星人](../Page/外星人.md "wikilink")的真相。
 
 **丹娜**
 
@@ -251,7 +244,7 @@
 **「姓衞的」**
 
   -
-    男性，身份不明，但曾於第3集，協助阿Wing執行調查有關[百慕達三角船隻及飛機的失蹤事件](../Page/百慕達三角.md "wikilink")，阿Wing則揶揄他是「討厭的聲音、一張可憎的臉」。
+    男性，身份不明，但曾於第3集，協助阿Wing執行調查有關[百慕達三角](../Page/百慕達三角.md "wikilink")船隻及飛機的失蹤事件，阿Wing則揶揄他是「討厭的聲音、一張可憎的臉」。
 
 **AB2630**
 
@@ -262,7 +255,7 @@
 **原醫生**
 
   -
-    男性，整天鬧失戀，沒半點男子氣概；有[黎明的一號情深款款眼神](../Page/黎明.md "wikilink")。他曾經在阿Wing與阿珍的約會中搶走阿珍。但後來阿珍嫁予一名男子，令他與阿Wing同時失戀。
+    男性，整天鬧失戀，沒半點男子氣概；有[黎明](../Page/黎明.md "wikilink")的一號情深款款眼神。他曾經在阿Wing與阿珍的約會中搶走阿珍。但後來阿珍嫁予一名男子，令他與阿Wing同時失戀。
 
 **曹博士**
 
@@ -339,8 +332,7 @@
 **千面人**
 
   -
-    男性，職業殺手，手法比金大芝更狠辣，為殺一人可以引發酒吧大爆炸，或者亂槍掃射，把所有在場人士全部殺死。配槍為Vz.
-    61。行事亦非常謹慎，不留下任何線索，可是也成為其弱點。第20集被生擒，《隱市狂徒》中逃獄，並擲腐蝕性液體，但被引上當，再度被拘捕。
+    男性，職業殺手，手法比金大芝更狠辣，為殺一人可以引發酒吧大爆炸，或者亂槍掃射，把所有在場人士全部殺死。配槍為Vz. 61。行事亦非常謹慎，不留下任何線索，可是也成為其弱點。第20集被生擒，《隱市狂徒》中逃獄，並擲腐蝕性液體，但被引上當，再度被拘捕。
 
 **文迪高娃**
 
@@ -514,7 +506,7 @@
 <!-- end list -->
 
   -
-    阿Wing專用，服後會昏睡三天，呼吸中帶着酒氣，如醉酒一樣。沒有阿Wing的解藥，[华佗再世也無法救醒](../Page/华佗.md "wikilink")。
+    阿Wing專用，服後會昏睡三天，呼吸中帶着酒氣，如醉酒一樣。沒有阿Wing的解藥，[华佗](../Page/华佗.md "wikilink")再世也無法救醒。
 
 <!-- end list -->
 
@@ -523,7 +515,7 @@
 <!-- end list -->
 
   -
-    飛、爬、鑽、浮、遁、藏樣樣皆能，並有一對[蝙蝠俠披風](../Page/蝙蝠俠.md "wikilink")。
+    飛、爬、鑽、浮、遁、藏樣樣皆能，並有一對[蝙蝠俠](../Page/蝙蝠俠.md "wikilink")披風。
 
 <!-- end list -->
 
@@ -532,7 +524,7 @@
 <!-- end list -->
 
   -
-    [吸塵機狀](../Page/吸塵機.md "wikilink")，只要按掣，長管「卜」一聲，噴出一團綠色的漿狀物質，被射中會被黏在地上，動彈不得。
+    [吸塵機](../Page/吸塵機.md "wikilink")狀，只要按掣，長管「卜」一聲，噴出一團綠色的漿狀物質，被射中會被黏在地上，動彈不得。
 
 <!-- end list -->
 
@@ -559,47 +551,35 @@
 <!-- end list -->
 
   -
-    由觀塘劇團製作，改編自Q版特工系列第13部《Q版特工13鴉殺》，在2008年12月26日－30日於[牛池灣文娛中心劇院表演](../Page/牛池灣.md "wikilink")。由[香港](../Page/香港.md "wikilink")[戲劇導師羅文健主演](https://zh.wikipedia.org/wiki/戲劇 "wikilink")。\[3\]
+    由觀塘劇團製作，改編自Q版特工系列第13部《Q版特工13鴉殺》，在2008年12月26日－30日於[牛池灣](../Page/牛池灣.md "wikilink")文娛中心劇院表演。由[香港](../Page/香港.md "wikilink")[戲劇導師羅文健主演](https://zh.wikipedia.org/wiki/戲劇 "wikilink")。\[3\]
 
 ## 詩人名單
 
-本書作者[梁科慶在寫阿Wing這個人物時為他在說話中加入了不少詩詞](../Page/梁科慶.md "wikilink")，本表列出了在各集中阿Wing說話中加入的詩詞的詩人名單。
+本書作者[梁科慶](../Page/梁科慶.md "wikilink")在寫阿Wing這個人物時為他在說話中加入了不少詩詞，本表列出了在各集中阿Wing說話中加入的詩詞的詩人名單。
 
-  - Q1
-    [余光中](../Page/余光中.md "wikilink")/[洛夫](https://zh.wikipedia.org/wiki/洛夫 "wikilink")/[羅青](https://zh.wikipedia.org/wiki/羅青 "wikilink")/[北島](https://zh.wikipedia.org/wiki/北島 "wikilink")
+  - Q1 [余光中](../Page/余光中.md "wikilink")/[洛夫](https://zh.wikipedia.org/wiki/洛夫 "wikilink")/[羅青](https://zh.wikipedia.org/wiki/羅青 "wikilink")/[北島](https://zh.wikipedia.org/wiki/北島 "wikilink")
   - Q2 [王良和](../Page/王良和.md "wikilink")
-  - Q3
-    [楊牧](https://zh.wikipedia.org/wiki/楊牧 "wikilink")/[馮至](https://zh.wikipedia.org/wiki/馮至 "wikilink")
-  - Q4
-    [景曉東](https://zh.wikipedia.org/wiki/景曉東 "wikilink")/[秀實](https://zh.wikipedia.org/wiki/秀實 "wikilink")
-  - Q5
-    [也斯](../Page/也斯.md "wikilink")/[金力明](https://zh.wikipedia.org/wiki/金力明 "wikilink")/[朱湘](../Page/朱湘.md "wikilink")
+  - Q3 [楊牧](https://zh.wikipedia.org/wiki/楊牧 "wikilink")/[馮至](https://zh.wikipedia.org/wiki/馮至 "wikilink")
+  - Q4 [景曉東](https://zh.wikipedia.org/wiki/景曉東 "wikilink")/[秀實](https://zh.wikipedia.org/wiki/秀實 "wikilink")
+  - Q5 [也斯](../Page/也斯.md "wikilink")/[金力明](https://zh.wikipedia.org/wiki/金力明 "wikilink")/[朱湘](../Page/朱湘.md "wikilink")
   - Q6 洛夫/余光中/[陳德錦](../Page/陳德錦.md "wikilink")
   - Q7 [張婉雯](https://zh.wikipedia.org/wiki/張婉雯 "wikilink")
-  - Q8
-    [徐志摩](../Page/徐志摩.md "wikilink")/[胡燕青](../Page/胡燕青.md "wikilink")/[徐訏](../Page/徐訏.md "wikilink")/[鍾曉陽](../Page/鍾曉陽.md "wikilink")
-  - Q9
-    [鄭愁予](../Page/鄭愁予.md "wikilink")/[鄭敏](../Page/鄭敏.md "wikilink")/[溫乃堅](https://zh.wikipedia.org/wiki/溫乃堅 "wikilink")
-  - Q10
-    [夏斐](https://zh.wikipedia.org/wiki/夏斐 "wikilink")/[王良和](../Page/王良和.md "wikilink")
+  - Q8 [徐志摩](../Page/徐志摩.md "wikilink")/[胡燕青](../Page/胡燕青.md "wikilink")/[徐訏](../Page/徐訏.md "wikilink")/[鍾曉陽](../Page/鍾曉陽.md "wikilink")
+  - Q9 [鄭愁予](../Page/鄭愁予.md "wikilink")/[鄭敏](../Page/鄭敏.md "wikilink")/[溫乃堅](https://zh.wikipedia.org/wiki/溫乃堅 "wikilink")
+  - Q10 [夏斐](https://zh.wikipedia.org/wiki/夏斐 "wikilink")/[王良和](../Page/王良和.md "wikilink")
   - Q11 [馬俐](https://zh.wikipedia.org/wiki/馬俐 "wikilink")
   - Q12 [于承惠](../Page/于承惠.md "wikilink")
   - Q13 [焱冰](https://zh.wikipedia.org/wiki/焱冰 "wikilink")
   - Q14 [向明](https://zh.wikipedia.org/wiki/向明 "wikilink")
-  - Q15
-    [聶適之](https://zh.wikipedia.org/wiki/聶適之 "wikilink")/[溫乃堅](https://zh.wikipedia.org/wiki/溫乃堅 "wikilink")
-  - Q16
-    [李華川](https://zh.wikipedia.org/wiki/李華川 "wikilink")/[黃國彬](../Page/黃國彬.md "wikilink")/[謝傲霜](https://zh.wikipedia.org/wiki/謝傲霜 "wikilink")
+  - Q15 [聶適之](https://zh.wikipedia.org/wiki/聶適之 "wikilink")/[溫乃堅](https://zh.wikipedia.org/wiki/溫乃堅 "wikilink")
+  - Q16 [李華川](https://zh.wikipedia.org/wiki/李華川 "wikilink")/[黃國彬](../Page/黃國彬.md "wikilink")/[謝傲霜](https://zh.wikipedia.org/wiki/謝傲霜 "wikilink")
   - Q17 [秦島](https://zh.wikipedia.org/wiki/秦島 "wikilink")/余光中
-  - Q19
-    [馮志弘](https://zh.wikipedia.org/wiki/馮志弘 "wikilink")/[楊彗思](https://zh.wikipedia.org/wiki/楊彗思 "wikilink")
+  - Q19 [馮志弘](https://zh.wikipedia.org/wiki/馮志弘 "wikilink")/[楊彗思](https://zh.wikipedia.org/wiki/楊彗思 "wikilink")
   - Q20 [林浩光](https://zh.wikipedia.org/wiki/林浩光 "wikilink")
-  - Q23
-    [潘國靈](https://zh.wikipedia.org/wiki/潘國靈 "wikilink")/[黃燕萍](https://zh.wikipedia.org/wiki/黃燕萍 "wikilink")
+  - Q23 [潘國靈](https://zh.wikipedia.org/wiki/潘國靈 "wikilink")/[黃燕萍](https://zh.wikipedia.org/wiki/黃燕萍 "wikilink")
   - Q24 [鄭愁予](../Page/鄭愁予.md "wikilink")
   - Q26 [陳昌敏](https://zh.wikipedia.org/wiki/陳昌敏 "wikilink")
-  - Q27
-    [洛楓](https://zh.wikipedia.org/wiki/洛楓 "wikilink")/[卞之琳](../Page/卞之琳.md "wikilink")/[鍾偉民](../Page/鍾偉民.md "wikilink")
+  - Q27 [洛楓](https://zh.wikipedia.org/wiki/洛楓 "wikilink")/[卞之琳](../Page/卞之琳.md "wikilink")/[鍾偉民](../Page/鍾偉民.md "wikilink")
   - Q28 鄭煒明/余光中
   - Q30 路雅/胡燕青
 
@@ -613,14 +593,8 @@
   - [Q版特工 Facebook專頁(由梁科慶官方書迷會管理)](http://www.facebook.com/forhing)
   - [Q版特工 維基](http://zh.ahwing.wikia.com)，一個記載與Q版特工有關的維基
 
-[Category:科幻小说](https://zh.wikipedia.org/wiki/Category:科幻小说 "wikilink")
-[Category:香港小說](https://zh.wikipedia.org/wiki/Category:香港小說 "wikilink")
-[Category:間諜題材作品](https://zh.wikipedia.org/wiki/Category:間諜題材作品 "wikilink")
-[Category:推理小說](https://zh.wikipedia.org/wiki/Category:推理小說 "wikilink")
+[Category:科幻小说](https://zh.wikipedia.org/wiki/Category:科幻小说 "wikilink") [Category:香港小說](https://zh.wikipedia.org/wiki/Category:香港小說 "wikilink") [Category:間諜題材作品](https://zh.wikipedia.org/wiki/Category:間諜題材作品 "wikilink") [Category:推理小說](https://zh.wikipedia.org/wiki/Category:推理小說 "wikilink")
 
-1.  [《The Q-Files》香港閱讀城 HK Reading
-    City](http://www.hkreadingcity.net/library/book/index.phtml?isbn=9789628996025)
-
+1.  [《The Q-Files》香港閱讀城 HK Reading City](http://www.hkreadingcity.net/library/book/index.phtml?isbn=9789628996025)
 2.
-3.  [【Q版特工 – 鴉殺】舞台劇 | Movie Talk
-    電影迷](http://www.movietalk.com.hk/q-drama/)
+3.  [【Q版特工 – 鴉殺】舞台劇 | Movie Talk 電影迷](http://www.movietalk.com.hk/q-drama/)

@@ -8,7 +8,4 @@
   - **[布鲁斯·梅尔尼克](https://zh.wikipedia.org/wiki/布鲁斯·梅尔尼克 "wikilink")**（，曾执行以及任务），任务专家
   - **[托马斯·埃克斯](https://zh.wikipedia.org/wiki/托马斯·埃克斯 "wikilink")**（，曾执行、、以及任务），任务专家
 
-[Category:1990年美国](https://zh.wikipedia.org/wiki/Category:1990年美国 "wikilink")
-[Category:1990年科學](https://zh.wikipedia.org/wiki/Category:1990年科學 "wikilink")
-[Category:发现号航天飞机任务](https://zh.wikipedia.org/wiki/Category:发现号航天飞机任务 "wikilink")
-[Category:1990年10月](https://zh.wikipedia.org/wiki/Category:1990年10月 "wikilink")
+[Category:1990年美国](https://zh.wikipedia.org/wiki/Category:1990年美国 "wikilink") [Category:1990年科學](https://zh.wikipedia.org/wiki/Category:1990年科學 "wikilink") [Category:发现号航天飞机任务](https://zh.wikipedia.org/wiki/Category:发现号航天飞机任务 "wikilink") [Category:1990年10月](https://zh.wikipedia.org/wiki/Category:1990年10月 "wikilink")

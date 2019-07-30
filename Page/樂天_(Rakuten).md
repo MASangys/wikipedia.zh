@@ -1,25 +1,22 @@
-**樂天株式會社**（，），是[三木谷浩史于](../Page/三木谷浩史.md "wikilink")1997年2月7日創辦的一家经营互联网服务的公司。旗下企业包括：日本[電商平台](https://zh.wikipedia.org/wiki/電商 "wikilink")「樂天市場」、[门户网站](../Page/门户网站.md "wikilink")「Infoseek」等[網站](../Page/網站.md "wikilink")。
+**樂天株式會社**（，），是[三木谷浩史](../Page/三木谷浩史.md "wikilink")于1997年2月7日創辦的一家经营互联网服务的公司。旗下企业包括：日本[電商平台](https://zh.wikipedia.org/wiki/電商 "wikilink")「樂天市場」、[门户网站](../Page/门户网站.md "wikilink")「Infoseek」等[網站](../Page/網站.md "wikilink")。
 
 ## 历史
 
 1997年2月，樂天（Rakuten）株式會社創立。同年5月，「樂天市場」誕生，在網站開設的店舖共計13間。\[1\]
 
-樂天自2000年開始[併購其他公司](../Page/併購.md "wikilink")，相關企業還包含[證券公司](https://zh.wikipedia.org/wiki/證券公司 "wikilink")、[職業棒球隊](https://zh.wikipedia.org/wiki/東北樂天金鷹 "wikilink")、[旅遊網站等](https://zh.wikipedia.org/wiki/旅遊 "wikilink")。該公司現時是[JASDAQ](../Page/JASDAQ.md "wikilink")[上市公司](../Page/上市公司.md "wikilink")，也是日本[經團連會員](https://zh.wikipedia.org/wiki/經團連 "wikilink")。
+樂天自2000年開始[併購](../Page/併購.md "wikilink")其他公司，相關企業還包含[證券公司](https://zh.wikipedia.org/wiki/證券公司 "wikilink")、[職業棒球隊](https://zh.wikipedia.org/wiki/東北樂天金鷹 "wikilink")、[旅遊網站等](https://zh.wikipedia.org/wiki/旅遊 "wikilink")。該公司現時是[JASDAQ](../Page/JASDAQ.md "wikilink")[上市公司](../Page/上市公司.md "wikilink")，也是日本[經團連會員](https://zh.wikipedia.org/wiki/經團連 "wikilink")。
 
-2007年11月29日，樂天株式會社在[臺灣](../Page/臺灣.md "wikilink")[臺北市與](../Page/臺北市.md "wikilink")[統一企業集團簽約成立合資公司](../Page/統一企業.md "wikilink")[台灣樂天市場](../Page/台灣樂天市場.md "wikilink")（樂天株式會社持股51％，[統一超商持股](../Page/統一超商.md "wikilink")49％），2008年第二季正式開始營運，臺灣是樂天市場的第一個海外拓點。
+2007年11月29日，樂天株式會社在[臺灣](../Page/臺灣.md "wikilink")[臺北市](../Page/臺北市.md "wikilink")與[統一企業](../Page/統一企業.md "wikilink")集團簽約成立合資公司[台灣樂天市場](../Page/台灣樂天市場.md "wikilink")（樂天株式會社持股51％，[統一超商](../Page/統一超商.md "wikilink")持股49％），2008年第二季正式開始營運，臺灣是樂天市場的第一個海外拓點。
 
-2013年6月21日，發布聲明稿，因應樂天株式會社與[統一企業集團](../Page/統一企業.md "wikilink")，雙方集團未來電子商務事業的發展策略與藍圖需求，原先持股51%的樂天株式會社將購買[統一企業集團所持](../Page/統一企業.md "wikilink")49%股份，此股權交易預計於六月底前完成，[台灣樂天市場成為](../Page/台灣樂天市場.md "wikilink")100%由樂天株式會社持有的子公司（臺灣子公司）。
+2013年6月21日，發布聲明稿，因應樂天株式會社與[統一企業](../Page/統一企業.md "wikilink")集團，雙方集團未來電子商務事業的發展策略與藍圖需求，原先持股51%的樂天株式會社將購買[統一企業](../Page/統一企業.md "wikilink")集團所持49%股份，此股權交易預計於六月底前完成，[台灣樂天市場](../Page/台灣樂天市場.md "wikilink")成為100%由樂天株式會社持有的子公司（臺灣子公司）。
 
-2014年2月14日，樂天株式會社以總額九億美金併購即時通訊及語音VoIP公司Viber。樂天集團此前已併購電子書Kobo、視訊串流公司Wuaki.tv及視訊社群平台Viki，進入數位內容領域。
-2 014年6月18日，樂天株式會社取得台灣金管會核准，於台灣成立台灣樂天信用卡公司。
+2014年2月14日，樂天株式會社以總額九億美金併購即時通訊及語音VoIP公司Viber。樂天集團此前已併購電子書Kobo、視訊串流公司Wuaki.tv及視訊社群平台Viki，進入數位內容領域。 2 014年6月18日，樂天株式會社取得台灣金管會核准，於台灣成立台灣樂天信用卡公司。
 
 2014年9月9日，樂天株式會社以10億美元收購北美最大的現金回饋購物網站Ebates，並持有Ebates的發行股份100%。
 
-2015年8月24日，樂天株式會社宣佈總部將搬遷至[東京都](../Page/東京都.md "wikilink")[世田谷區的Rakuten](../Page/世田谷區.md "wikilink")
-Crimson House\[2\]，从事銀行業。
+2015年8月24日，樂天株式會社宣佈總部將搬遷至[東京都](../Page/東京都.md "wikilink")[世田谷區](../Page/世田谷區.md "wikilink")的Rakuten Crimson House\[2\]，从事銀行業。
 
-另外，樂天株式會社也有成立市場調查機構，名稱叫做「AIP」。2017年7月1日起，在名稱前面加上「Rakuten」，更改為「Rakuten
-AIP」。
+另外，樂天株式會社也有成立市場調查機構，名稱叫做「AIP」。2017年7月1日起，在名稱前面加上「Rakuten」，更改為「Rakuten AIP」。
 
 2016年9月29日，樂天株式會社在[台灣成立台灣樂天Kobo電子書](https://zh.wikipedia.org/wiki/台灣 "wikilink")\[3\]，與城邦、遠流、大塊、聯經、圓神等12家台灣出版社合作，首波推出數千冊繁體中文書籍。\[4\]
 
@@ -50,12 +47,7 @@ AIP」。
   - [樂天點數](https://www.rakuten.com.tw/superpoint/)
   - [樂天點數兌換](https://www.rakuten.com.tw/superpoint/exchange/)
 
-[Category:樂天_(1997年成立)](https://zh.wikipedia.org/wiki/Category:樂天_\(1997年成立\) "wikilink")
-[Category:日本零售商](https://zh.wikipedia.org/wiki/Category:日本零售商 "wikilink")
-[Category:线上零售商](https://zh.wikipedia.org/wiki/Category:线上零售商 "wikilink")
-[Category:日本網站](https://zh.wikipedia.org/wiki/Category:日本網站 "wikilink")
-[Category:1997年成立的公司](https://zh.wikipedia.org/wiki/Category:1997年成立的公司 "wikilink")
-[Category:1997年日本建立](https://zh.wikipedia.org/wiki/Category:1997年日本建立 "wikilink")
+[Category:樂天_(1997年成立)](https://zh.wikipedia.org/wiki/Category:樂天_\(1997年成立\) "wikilink") [Category:日本零售商](https://zh.wikipedia.org/wiki/Category:日本零售商 "wikilink") [Category:线上零售商](https://zh.wikipedia.org/wiki/Category:线上零售商 "wikilink") [Category:日本網站](https://zh.wikipedia.org/wiki/Category:日本網站 "wikilink") [Category:1997年成立的公司](https://zh.wikipedia.org/wiki/Category:1997年成立的公司 "wikilink") [Category:1997年日本建立](https://zh.wikipedia.org/wiki/Category:1997年日本建立 "wikilink")
 
 1.  [楽天の歴史](http://corp.rakuten.co.jp/about/history.html)
 2.  [楽天、新社屋「楽天クリムゾンハウス」へ移転開始](http://corp.rakuten.co.jp/news/press/2015/0622_02.html)

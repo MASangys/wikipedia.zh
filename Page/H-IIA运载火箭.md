@@ -1,12 +1,10 @@
-[H-IIA-Launch-Vehicle.png](https://zh.wikipedia.org/wiki/File:H-IIA-Launch-Vehicle.png "fig:H-IIA-Launch-Vehicle.png")
-**H-IIA運載火箭**是由[日本的](../Page/日本.md "wikilink")[捆绑式兩級](https://zh.wikipedia.org/wiki/捆绑式火箭 "wikilink")[火箭](../Page/火箭.md "wikilink")，第一級與第二級火箭採用液態氫氧為燃料；火箭直徑
-4 公尺，高度 53 公尺，是一具可擴充的發射系統依任務要求可安装不同數量的固態助推火箭。
+[H-IIA-Launch-Vehicle.png](https://zh.wikipedia.org/wiki/File:H-IIA-Launch-Vehicle.png "fig:H-IIA-Launch-Vehicle.png") **H-IIA運載火箭**是由[日本](../Page/日本.md "wikilink")的[捆绑式兩級](https://zh.wikipedia.org/wiki/捆绑式火箭 "wikilink")[火箭](../Page/火箭.md "wikilink")，第一級與第二級火箭採用液態氫氧為燃料；火箭直徑 4 公尺，高度 53 公尺，是一具可擴充的發射系統依任務要求可安装不同數量的固態助推火箭。
 
-H-IIA可用於將衛星送至[地球同步衛星軌道的](https://zh.wikipedia.org/wiki/地球同步衛星軌道 "wikilink")[商業發射](https://zh.wikipedia.org/wiki/商業 "wikilink")，也可用於發射月球軌道探測器、行星間飛行的太空探測器或是[軍事情報衛星](https://zh.wikipedia.org/wiki/間諜衛星 "wikilink")；由[三菱重工業公司為](https://zh.wikipedia.org/wiki/三菱重工業 "wikilink")[宇宙航空研究開發機構所建造](../Page/宇宙航空研究開發機構.md "wikilink")，發射地點在[種子島宇宙中心](../Page/種子島宇宙中心.md "wikilink")。
+H-IIA可用於將衛星送至[地球同步衛星軌道的](https://zh.wikipedia.org/wiki/地球同步衛星軌道 "wikilink")[商業發射](https://zh.wikipedia.org/wiki/商業 "wikilink")，也可用於發射月球軌道探測器、行星間飛行的太空探測器或是[軍事情報衛星](https://zh.wikipedia.org/wiki/間諜衛星 "wikilink")；由[三菱重工業公司為](https://zh.wikipedia.org/wiki/三菱重工業 "wikilink")[宇宙航空研究開發機構](../Page/宇宙航空研究開發機構.md "wikilink")所建造，發射地點在[種子島宇宙中心](../Page/種子島宇宙中心.md "wikilink")。
 
 ## 目標
 
-H-IIA運載火箭改良自H-II運載火箭，改良許多構造後，此火箭更加可靠也更便宜，證實H-II運載火箭是失敗的也較昂貴，共有四種形式供個別的需求，H-IIA運載火箭第一次發射於2001年8月29日；第六次於2003年11月29日發射，原本[宇宙航空研究開發機構打算將兩顆監視北韓的軍事衛星送至太空](../Page/宇宙航空研究開發機構.md "wikilink")，但不幸失敗；所以[宇宙航空研究開發機構從](../Page/宇宙航空研究開發機構.md "wikilink")2005年重新開始發射火箭，失敗後第一次成功發射在2005年2月26日衛星；是MTSAT-1。
+H-IIA運載火箭改良自H-II運載火箭，改良許多構造後，此火箭更加可靠也更便宜，證實H-II運載火箭是失敗的也較昂貴，共有四種形式供個別的需求，H-IIA運載火箭第一次發射於2001年8月29日；第六次於2003年11月29日發射，原本[宇宙航空研究開發機構](../Page/宇宙航空研究開發機構.md "wikilink")打算將兩顆監視北韓的軍事衛星送至太空，但不幸失敗；所以[宇宙航空研究開發機構](../Page/宇宙航空研究開發機構.md "wikilink")從2005年重新開始發射火箭，失敗後第一次成功發射在2005年2月26日衛星；是MTSAT-1。
 
 ## 各型規格
 
@@ -172,7 +170,7 @@ IGS(Information Gathering Satellites)-Optical 4#2</p></td>
 21:58:22[3][4][5]</p></td>
 <td><p>F17</p></td>
 <td><p>H-IIA202[6]</p></td>
-<td><p><a href="../Page/破曉號.md" title="wikilink">破曉號(Akatsuki)</a><br />
+<td><p><a href="../Page/破曉號.md" title="wikilink">破曉號</a>(Akatsuki)<br />
  <a href="../Page/IKAROS.md" title="wikilink">IKAROS</a><br />
  <a href="https://zh.wikipedia.org/wiki/深遠號" title="wikilink">UNITEC-1</a> (Shin'en)<br />
  <a href="https://zh.wikipedia.org/wiki/Waseda-SAT2" title="wikilink">Waseda-SAT2</a><br />
@@ -529,8 +527,7 @@ LEO</p></td>
 
 ## 评论
 
-[H-IIA_Family.png](https://zh.wikipedia.org/wiki/File:H-IIA_Family.png "fig:H-IIA_Family.png")
-据日本传媒介绍，H-IIA运载火箭设计用来满足各种发射需求。它能够使发射费用比H-II降低一半以上，是日本的有太空活动坐标意义的大型运载火箭。
+[H-IIA_Family.png](https://zh.wikipedia.org/wiki/File:H-IIA_Family.png "fig:H-IIA_Family.png") 据日本传媒介绍，H-IIA运载火箭设计用来满足各种发射需求。它能够使发射费用比H-II降低一半以上，是日本的有太空活动坐标意义的大型运载火箭。
 
 ## 參見
 
@@ -542,11 +539,7 @@ LEO</p></td>
 
 [de:H-II\#H-IIA](https://zh.wikipedia.org/wiki/de:H-II#H-IIA "wikilink")
 
-[Category:运载火箭](https://zh.wikipedia.org/wiki/Category:运载火箭 "wikilink")
-[Category:化學火箭](https://zh.wikipedia.org/wiki/Category:化學火箭 "wikilink")
-[Category:日本火箭](https://zh.wikipedia.org/wiki/Category:日本火箭 "wikilink")
-[Category:一次性火箭](https://zh.wikipedia.org/wiki/Category:一次性火箭 "wikilink")
-[Category:三菱重工業](https://zh.wikipedia.org/wiki/Category:三菱重工業 "wikilink")
+[Category:运载火箭](https://zh.wikipedia.org/wiki/Category:运载火箭 "wikilink") [Category:化學火箭](https://zh.wikipedia.org/wiki/Category:化學火箭 "wikilink") [Category:日本火箭](https://zh.wikipedia.org/wiki/Category:日本火箭 "wikilink") [Category:一次性火箭](https://zh.wikipedia.org/wiki/Category:一次性火箭 "wikilink") [Category:三菱重工業](https://zh.wikipedia.org/wiki/Category:三菱重工業 "wikilink")
 
 1.
 2.

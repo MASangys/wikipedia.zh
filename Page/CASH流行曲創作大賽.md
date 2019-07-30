@@ -4,11 +4,11 @@
 
 ### 舉辦資料
 
-該會於1989年首次舉辦，每年一屆。於每年下半年舉辦，約於每年8月中下旬開始接受報名，9月尾至10月初截止，12月進行決賽；第16屆（2004年）至第20屆（2008年）的比賽提早至6月尾至7月初接受報名，7月底至8月初截止，10月進行決賽。現時比賽資料在該會網站及[香港電台第](../Page/香港電台.md "wikilink")2台發放。參賽表格可在[香港電台](../Page/香港電台.md "wikilink")、香港[通利琴行及](../Page/通利琴行.md "wikilink")[香港演藝學院索取](../Page/香港演藝學院.md "wikilink")，或於該會網站下載。
+該會於1989年首次舉辦，每年一屆。於每年下半年舉辦，約於每年8月中下旬開始接受報名，9月尾至10月初截止，12月進行決賽；第16屆（2004年）至第20屆（2008年）的比賽提早至6月尾至7月初接受報名，7月底至8月初截止，10月進行決賽。現時比賽資料在該會網站及[香港電台](../Page/香港電台.md "wikilink")第2台發放。參賽表格可在[香港電台](../Page/香港電台.md "wikilink")、香港[通利琴行](../Page/通利琴行.md "wikilink")及[香港演藝學院](../Page/香港演藝學院.md "wikilink")索取，或於該會網站下載。
 
 ### 協辦與播映
 
-自第10屆（1998年）起，[電視廣播有限公司參與協辦](../Page/電視廣播有限公司.md "wikilink")，決賽在[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[翡翠台播映](../Page/翡翠台.md "wikilink")。自第20屆（2008年）起，[高清翡翠台亦會播映](../Page/高清翡翠台.md "wikilink")。現時，[myTV提供網上直播及重溫](https://zh.wikipedia.org/wiki/myTV "wikilink")。此外，[香港電台第二台亦為協辦機構](../Page/香港電台第二台.md "wikilink")，決賽亦會於香港電台第二台及其網站與[無綫電視同步播放](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")。無綫電視及[香港電台各派出一名司儀主持決賽節目](../Page/香港電台.md "wikilink")。
+自第10屆（1998年）起，[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")參與協辦，決賽在[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")播映。自第20屆（2008年）起，[高清翡翠台](../Page/高清翡翠台.md "wikilink")亦會播映。現時，[myTV提供網上直播及重溫](https://zh.wikipedia.org/wiki/myTV "wikilink")。此外，[香港電台第二台](../Page/香港電台第二台.md "wikilink")亦為協辦機構，決賽亦會於香港電台第二台及其網站與[無綫電視同步播放](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")。無綫電視及[香港電台](../Page/香港電台.md "wikilink")各派出一名司儀主持決賽節目。
 
 ### 參賽規則
 
@@ -16,7 +16,7 @@
 
 ### 入圍決賽
 
-所有參賽作品於截止後經評審委員會評選，入圍名單約於截止後1個月在該會網站公佈。近年每屆均有10首歌曲入圍決賽，每位作曲的參賽者只可有1首歌曲入圍決賽。第12屆（2000年）至第17屆（2005年）曾指定5首入圍歌曲需為香港參賽者的作品，另外5首則為內地或台灣參賽者的作品。於決賽時，作品會安排由流行樂壇歌手演繹，多為新晉歌手，近年有安排[無綫電視藝員以至](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[超級巨聲參賽者演繹](../Page/超級巨聲.md "wikilink")；亦有參賽者自行演繹。參賽者即使入圍甚至獲獎後可再度參加往後的比賽，故此有參賽者多次入圍及獲獎的情況。
+所有參賽作品於截止後經評審委員會評選，入圍名單約於截止後1個月在該會網站公佈。近年每屆均有10首歌曲入圍決賽，每位作曲的參賽者只可有1首歌曲入圍決賽。第12屆（2000年）至第17屆（2005年）曾指定5首入圍歌曲需為香港參賽者的作品，另外5首則為內地或台灣參賽者的作品。於決賽時，作品會安排由流行樂壇歌手演繹，多為新晉歌手，近年有安排[無綫電視藝員以至](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[超級巨聲](../Page/超級巨聲.md "wikilink")參賽者演繹；亦有參賽者自行演繹。參賽者即使入圍甚至獲獎後可再度參加往後的比賽，故此有參賽者多次入圍及獲獎的情況。
 
 ### 獎項與獎金
 
@@ -264,12 +264,11 @@
 | 爸爸       | 林永鏗                                                 | 林永鏗                    | Consent                          |
 | 棄物無聲     | Entonie Kwong                                       | 風泠                     | [陳美詩](../Page/陳美詩.md "wikilink") |
 | 各有各路     | [余翠芝](../Page/余翠芝.md "wikilink")                    | 余翠芝                    | 余翠芝                              |
-| 陪你流浪（國語） | 吳冠東、鄧曉峰、[香港理工大學宿舍合唱團](../Page/香港理工大學.md "wikilink") | 郭佳、李婉雯、葉希汶、香港理工大學宿舍合唱團 | 鄧曉峰、郭佳                           |
+| 陪你流浪（國語） | 吳冠東、鄧曉峰、[香港理工大學](../Page/香港理工大學.md "wikilink")宿舍合唱團 | 郭佳、李婉雯、葉希汶、香港理工大學宿舍合唱團 | 鄧曉峰、郭佳                           |
 
   - 決賽時間：2007年10月20日晚上10時正至11時30分
   - 首播時間：同上
-  - 評判：[方-{杰}-](../Page/方杰_\(填詞人\).md "wikilink")、[伍樂城](../Page/伍樂城.md "wikilink")、[杜麗莎](../Page/杜麗莎.md "wikilink")、[泰迪羅賓](../Page/泰迪羅賓.md "wikilink")、[馮穎琪](../Page/馮穎琪.md "wikilink")、[張美賢](../Page/張美賢.md "wikilink")、[劉以達](https://zh.wikipedia.org/wiki/劉以達 "wikilink")、Romeo
-    Diaz、James Ting
+  - 評判：[方-{杰}-](../Page/方杰_\(填詞人\).md "wikilink")、[伍樂城](../Page/伍樂城.md "wikilink")、[杜麗莎](../Page/杜麗莎.md "wikilink")、[泰迪羅賓](../Page/泰迪羅賓.md "wikilink")、[馮穎琪](../Page/馮穎琪.md "wikilink")、[張美賢](../Page/張美賢.md "wikilink")、[劉以達](https://zh.wikipedia.org/wiki/劉以達 "wikilink")、Romeo Diaz、James Ting
   - 音樂總監：Richard Yuen
   - 表演嘉賓：[杜麗莎](../Page/杜麗莎.md "wikilink")
   - 司儀：[李志剛](https://zh.wikipedia.org/wiki/李志剛 "wikilink")、李浩林
@@ -293,8 +292,7 @@
 | 兜兜轉轉  | 羅永業      | 羅永業                            | 蕭潤邦                                                 |
 | 早知今日  | 王文熙      | 勞啟聰                            | [徐浩](https://zh.wikipedia.org/wiki/徐浩 "wikilink")   |
 
-  - 20週年號外歌詞創作大賽 得獎作品 -
-    手汗（國語）　作曲：[譚詠麟](../Page/譚詠麟.md "wikilink")　作詞：許少榮
+  - 20週年號外歌詞創作大賽 得獎作品 - 手汗（國語）　作曲：[譚詠麟](../Page/譚詠麟.md "wikilink")　作詞：許少榮
   - 決賽時間：2008年10月18日晚上10時30分至11時30分
   - 首播時間：同上
   - 評判：[顧嘉煇](../Page/顧嘉煇.md "wikilink")（主席評判）、[伍仲衡](../Page/伍仲衡.md "wikilink")、[周禮茂](../Page/周禮茂.md "wikilink")、[夏至](../Page/蔡冕麗.md "wikilink")、[莫文蔚](../Page/莫文蔚.md "wikilink")、曾奕文、[馮翰銘](../Page/馮翰銘.md "wikilink")
@@ -322,10 +320,7 @@
 
   - 決賽時間：2009年12月17日晚上8時30分
   - 首播時間：2009年12月19日晚上9時30分至11時正
-  - 評判：[顧嘉煇](../Page/顧嘉煇.md "wikilink")（主席評判）、[李樂詩](https://zh.wikipedia.org/wiki/李樂詩 "wikilink")、[周博賢](../Page/周博賢.md "wikilink")、[倫永亮](../Page/倫永亮.md "wikilink")、[陳哲廬](../Page/陳哲廬.md "wikilink")
-    ([Swing](../Page/Swing_\(組合\).md "wikilink"))、[郭偉亮](../Page/郭偉亮.md "wikilink")
-    ([Swing](../Page/Swing_\(組合\).md "wikilink"))、[游思行](../Page/游思行.md "wikilink")、[Christopher
-    Chak](../Page/澤日生.md "wikilink")
+  - 評判：[顧嘉煇](../Page/顧嘉煇.md "wikilink")（主席評判）、[李樂詩](https://zh.wikipedia.org/wiki/李樂詩 "wikilink")、[周博賢](../Page/周博賢.md "wikilink")、[倫永亮](../Page/倫永亮.md "wikilink")、[陳哲廬](../Page/陳哲廬.md "wikilink") ([Swing](../Page/Swing_\(組合\).md "wikilink"))、[郭偉亮](../Page/郭偉亮.md "wikilink") ([Swing](../Page/Swing_\(組合\).md "wikilink"))、[游思行](../Page/游思行.md "wikilink")、[Christopher Chak](../Page/澤日生.md "wikilink")
   - 音樂總監：Richard Yuen
   - 表演嘉賓：[李樂詩](https://zh.wikipedia.org/wiki/李樂詩 "wikilink")
   - 司儀：[梁德輝](../Page/梁德輝.md "wikilink")、[陳敏之](../Page/陳敏之.md "wikilink")
@@ -350,8 +345,7 @@
 
   - 決賽時間：2010年12月21日晚上8時正
   - 首播時間：2010年12月25日晚上9時30分至11時正
-  - 評判：[顧嘉煇](../Page/顧嘉煇.md "wikilink")（主席評判）、[方樹樑](../Page/方樹樑.md "wikilink")、[梁榮駿](../Page/梁榮駿.md "wikilink")、[潘源良](https://zh.wikipedia.org/wiki/潘源良 "wikilink")、[謝-{杰}-](../Page/謝杰_\(音樂人\).md "wikilink")、[關心妍](../Page/關心妍.md "wikilink")、[Johnny
-    Yim](https://zh.wikipedia.org/wiki/Johnny_Yim "wikilink")
+  - 評判：[顧嘉煇](../Page/顧嘉煇.md "wikilink")（主席評判）、[方樹樑](../Page/方樹樑.md "wikilink")、[梁榮駿](../Page/梁榮駿.md "wikilink")、[潘源良](https://zh.wikipedia.org/wiki/潘源良 "wikilink")、[謝-{杰}-](../Page/謝杰_\(音樂人\).md "wikilink")、[關心妍](../Page/關心妍.md "wikilink")、[Johnny Yim](https://zh.wikipedia.org/wiki/Johnny_Yim "wikilink")
   - 音樂總監：Richard Yuen
   - 表演嘉賓：[呂方](../Page/呂方.md "wikilink")
   - 司儀：[梁德輝](../Page/梁德輝.md "wikilink")、[胡蓓蔚](../Page/胡蓓蔚.md "wikilink")
@@ -377,8 +371,7 @@
 
   - 決賽時間：2011年12月3日晚上8時正
   - 首播時間：2011年12月3日晚上10時正至11時30分
-  - 評判：[林健華](../Page/林健華.md "wikilink")、[周耀輝](../Page/周耀輝.md "wikilink")、區新明、[馮穎琪](../Page/馮穎琪.md "wikilink")、葉廣權、[趙增熹](../Page/趙增熹.md "wikilink")、[Edward
-    Chan](https://zh.wikipedia.org/wiki/Edward_Chan "wikilink")
+  - 評判：[林健華](../Page/林健華.md "wikilink")、[周耀輝](../Page/周耀輝.md "wikilink")、區新明、[馮穎琪](../Page/馮穎琪.md "wikilink")、葉廣權、[趙增熹](../Page/趙增熹.md "wikilink")、[Edward Chan](https://zh.wikipedia.org/wiki/Edward_Chan "wikilink")
   - 音樂總監：Richard Yuen
   - 表演嘉賓：[梁漢文](https://zh.wikipedia.org/wiki/梁漢文 "wikilink")
   - 司儀：[李志剛](https://zh.wikipedia.org/wiki/李志剛 "wikilink")、[陳芷菁](../Page/陳芷菁.md "wikilink")
@@ -429,9 +422,7 @@
 
   - 決賽時間：2013年12月28日晚上7時30分
   - 首播時間：2013年12月28日晚上10時正至11時30分
-  - 評判：[倫永亮](../Page/倫永亮.md "wikilink")（主席評判）、[方皓玟](../Page/方皓玟.md "wikilink")、[陳詠謙](../Page/陳詠謙.md "wikilink")、[馮翰銘](../Page/馮翰銘.md "wikilink")、賴映彤、[Adrian
-    Chan](../Page/陳偉文.md "wikilink")、[Christopher
-    Chak](../Page/澤日生.md "wikilink")
+  - 評判：[倫永亮](../Page/倫永亮.md "wikilink")（主席評判）、[方皓玟](../Page/方皓玟.md "wikilink")、[陳詠謙](../Page/陳詠謙.md "wikilink")、[馮翰銘](../Page/馮翰銘.md "wikilink")、賴映彤、[Adrian Chan](../Page/陳偉文.md "wikilink")、[Christopher Chak](../Page/澤日生.md "wikilink")
   - 音樂總監：Richard Yuen
   - 表演嘉賓：[倫永亮](../Page/倫永亮.md "wikilink")
   - 司儀：[李志剛](https://zh.wikipedia.org/wiki/李志剛 "wikilink")、[李璧琦](../Page/李璧琦.md "wikilink")
@@ -442,17 +433,17 @@
 
 | 歌名               | 歌手                                                                                   | 屆次          | 獎項              | 備註                                                     |
 | ---------------- | ------------------------------------------------------------------------------------ | ----------- | --------------- | ------------------------------------------------------ |
-| 戒心               | [鄧麗欣](../Page/鄧麗欣.md "wikilink")                                                     | 第24屆（2012年） | 亞軍              | 比賽時歌名為《假使有日被忘記》﹑決賽時由[周美欣演繹](../Page/周美欣.md "wikilink") |
+| 戒心               | [鄧麗欣](../Page/鄧麗欣.md "wikilink")                                                     | 第24屆（2012年） | 亞軍              | 比賽時歌名為《假使有日被忘記》﹑決賽時由[周美欣](../Page/周美欣.md "wikilink")演繹 |
 | 做戲               | [方文](../Page/方文_\(香港\).md "wikilink")                                                | 第9屆（1997年）  | 冠軍              |                                                        |
-| 魂遊太虛             | [許廷鏗](https://zh.wikipedia.org/wiki/許廷鏗 "wikilink")                                  | 第24屆（2012年） | 季軍、網上最受歡迎歌曲     | 決賽時由作曲人[馮彥中演繹](../Page/馮彥中.md "wikilink")              |
+| 魂遊太虛             | [許廷鏗](https://zh.wikipedia.org/wiki/許廷鏗 "wikilink")                                  | 第24屆（2012年） | 季軍、網上最受歡迎歌曲     | 決賽時由作曲人[馮彥中](../Page/馮彥中.md "wikilink")演繹              |
 | 第五季              | [樂瞳](https://zh.wikipedia.org/wiki/樂瞳 "wikilink")                                    | 第22屆（2010年） | 冠軍              | 決賽時由作詞人周沂演繹                                            |
-| 失寵               | [吳若希](../Page/吳若希.md "wikilink")                                                     | 第24屆（2012年） | 十強              | 決賽時由[Kellyjackie演繹](../Page/Kellyjackie.md "wikilink") |
+| 失寵               | [吳若希](../Page/吳若希.md "wikilink")                                                     | 第24屆（2012年） | 十強              | 決賽時由[Kellyjackie](../Page/Kellyjackie.md "wikilink")演繹 |
 | 知覺               | [麥貝夷](../Page/麥貝夷.md "wikilink")                                                     | 第23屆（2011年） | 冠軍              |                                                        |
 | 落差               | [鍾嘉欣](https://zh.wikipedia.org/wiki/鍾嘉欣 "wikilink")                                  | 第22屆（2010年） | 亞軍              | 比賽時為國語歌詞                                               |
 | Can't Let You Go | [吳若希](../Page/吳若希.md "wikilink")                                                     | 第22屆（2010年） | 十強              | 比賽時歌名為《Where Did You Go?》                              |
 | 一千種方法            | [王梓軒](../Page/王梓軒.md "wikilink")                                                     | 第21屆（2009年） | 冠軍              |                                                        |
 | 各有各路             | [余翠芝](../Page/余翠芝.md "wikilink")                                                     | 第19屆（2007年） | 十強              |                                                        |
-| Make A Love Song | [余翠芝](../Page/余翠芝.md "wikilink")                                                     | 第17屆（2005年） | 季軍              | 比賽時歌名為《For U》，決賽時由[謝安琪演繹](../Page/謝安琪.md "wikilink")   |
+| Make A Love Song | [余翠芝](../Page/余翠芝.md "wikilink")                                                     | 第17屆（2005年） | 季軍              | 比賽時歌名為《For U》，決賽時由[謝安琪](../Page/謝安琪.md "wikilink")演繹   |
 | 安全感              | [可嵐](../Page/可嵐.md "wikilink")                                                       | 第20屆（2008年） | 冠軍              |                                                        |
 | 寫真               | A-dAY                                                                                | 第19屆（2007年） | 冠軍              |                                                        |
 | 紅眼症              | [王友良](../Page/王友良.md "wikilink")                                                     | 第19屆（2007年） | 季軍              |                                                        |
@@ -466,7 +457,7 @@
 | 還沒有變（國語）         | [江希文](../Page/江希文.md "wikilink")                                                     | 第13屆（2001年） | 冠軍、網上及現場觀眾最喜愛歌曲 |                                                        |
 | 是誰（國語）           | [關心妍](../Page/關心妍.md "wikilink")                                                     | 第14屆（2002年） | 冠軍、網上及現場觀眾最喜愛歌曲 |                                                        |
 | Do You Know（國語）  | [方皓玟](../Page/方皓玟.md "wikilink")                                                     | 第13屆（2001年） | 十強              |                                                        |
-| 愛一個人原來不易（國語／粵語）  | [李彩華](../Page/李彩華.md "wikilink")                                                     | 第12屆（2000年） | 亞軍              | 比賽時為國語歌詞，由[彭海桐演繹](../Page/彭海桐.md "wikilink")           |
+| 愛一個人原來不易（國語／粵語）  | [李彩華](../Page/李彩華.md "wikilink")                                                     | 第12屆（2000年） | 亞軍              | 比賽時為國語歌詞，由[彭海桐](../Page/彭海桐.md "wikilink")演繹           |
 | 愈錯愈愛（極樂）         | [何嘉莉](../Page/何嘉莉.md "wikilink")                                                     | 第10屆（1998年） | 冠軍              | 比賽時歌名為《極樂》                                             |
 | 我恨我是女人           | [趙學而](../Page/趙學而.md "wikilink")                                                     | 第6屆（1994年）  | 亞軍              |                                                        |
 
@@ -475,5 +466,4 @@
   - [CASH流行曲創作大賽｜香港作曲家及作詞家協會](http://www.cash.org.hk/tc/index.php?main=3&id=23)
   - [香港作曲家及作詞家協會](http://www.cash.org.hk/)
 
-[Category:無綫電視音樂節目](https://zh.wikipedia.org/wiki/Category:無綫電視音樂節目 "wikilink")
-[Category:無綫電視特備節目](https://zh.wikipedia.org/wiki/Category:無綫電視特備節目 "wikilink")
+[Category:無綫電視音樂節目](https://zh.wikipedia.org/wiki/Category:無綫電視音樂節目 "wikilink") [Category:無綫電視特備節目](https://zh.wikipedia.org/wiki/Category:無綫電視特備節目 "wikilink")

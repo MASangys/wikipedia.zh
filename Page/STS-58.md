@@ -10,8 +10,4 @@
   - **[珊农·露茜德](../Page/珊农·露茜德.md "wikilink")**（，曾执行、、、以及任务），任务专家
   - **[马丁·菲特曼](https://zh.wikipedia.org/wiki/马丁·菲特曼 "wikilink")**（，曾执行任务），有效载荷专家
 
-[Category:1993年佛罗里达州](https://zh.wikipedia.org/wiki/Category:1993年佛罗里达州 "wikilink")
-[Category:1993年科学](https://zh.wikipedia.org/wiki/Category:1993年科学 "wikilink")
-[Category:哥伦比亚号航天飞机任务](https://zh.wikipedia.org/wiki/Category:哥伦比亚号航天飞机任务 "wikilink")
-[Category:1993年10月](https://zh.wikipedia.org/wiki/Category:1993年10月 "wikilink")
-[Category:1993年11月](https://zh.wikipedia.org/wiki/Category:1993年11月 "wikilink")
+[Category:1993年佛罗里达州](https://zh.wikipedia.org/wiki/Category:1993年佛罗里达州 "wikilink") [Category:1993年科学](https://zh.wikipedia.org/wiki/Category:1993年科学 "wikilink") [Category:哥伦比亚号航天飞机任务](https://zh.wikipedia.org/wiki/Category:哥伦比亚号航天飞机任务 "wikilink") [Category:1993年10月](https://zh.wikipedia.org/wiki/Category:1993年10月 "wikilink") [Category:1993年11月](https://zh.wikipedia.org/wiki/Category:1993年11月 "wikilink")

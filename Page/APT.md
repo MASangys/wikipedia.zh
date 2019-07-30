@@ -1,4 +1,4 @@
-**高级打包工具**（，缩写为）是[Debian及其衍生的](../Page/Debian.md "wikilink")[Linux軟體包管理器](https://zh.wikipedia.org/wiki/软件包 "wikilink")。APT可以自动下载，配置，安裝二进制或者源代码格式的[软件包](https://zh.wikipedia.org/wiki/软件包 "wikilink")，因此简化了[Unix系統上管理软件的过程](https://zh.wikipedia.org/wiki/Unix "wikilink")。APT最早被設計成[dpkg的前端](https://zh.wikipedia.org/wiki/dpkg "wikilink")，用來處理[deb格式的軟件包](https://zh.wikipedia.org/wiki/deb "wikilink")。現在經過APT-RPM組織修改，APT已經可以安裝在支援[RPM的系統管理](../Page/RPM套件管理員.md "wikilink")[RPM套件](../Page/RPM套件管理員.md "wikilink")。
+**高级打包工具**（，缩写为）是[Debian](../Page/Debian.md "wikilink")及其衍生的[Linux軟體包管理器](https://zh.wikipedia.org/wiki/软件包 "wikilink")。APT可以自动下载，配置，安裝二进制或者源代码格式的[软件包](https://zh.wikipedia.org/wiki/软件包 "wikilink")，因此简化了[Unix系統上管理软件的过程](https://zh.wikipedia.org/wiki/Unix "wikilink")。APT最早被設計成[dpkg的前端](https://zh.wikipedia.org/wiki/dpkg "wikilink")，用來處理[deb格式的軟件包](https://zh.wikipedia.org/wiki/deb "wikilink")。現在經過APT-RPM組織修改，APT已經可以安裝在支援[RPM的系統管理](../Page/RPM套件管理員.md "wikilink")[RPM套件](../Page/RPM套件管理員.md "wikilink")。
 
 ## 構成
 
@@ -12,7 +12,7 @@ APT由以下的幾個主要的命令構成：
 
 ## 安裝源
 
-APT的軟體安裝來源在[Debian安裝的時候即可進行初始](../Page/Debian.md "wikilink")[設置](https://zh.wikipedia.org/wiki/設置 "wikilink")，除了Debian官方的網路安裝來源之外，也可以使用Debian的安裝[光碟](../Page/光碟.md "wikilink")，甚至可以從非官方的安裝來源中下載非官方的軟體。APT同時也可以從一些安裝來源中下載原始碼軟體，並且自行編譯、安裝。
+APT的軟體安裝來源在[Debian](../Page/Debian.md "wikilink")安裝的時候即可進行初始[設置](https://zh.wikipedia.org/wiki/設置 "wikilink")，除了Debian官方的網路安裝來源之外，也可以使用Debian的安裝[光碟](../Page/光碟.md "wikilink")，甚至可以從非官方的安裝來源中下載非官方的軟體。APT同時也可以從一些安裝來源中下載原始碼軟體，並且自行編譯、安裝。
 
 ## 依賴關係處理
 
@@ -20,7 +20,7 @@ APT會從每一個安裝源下載一個軟件包的列表。這個列表中有�
 
 ## 軟件包更新方式
 
-[Debian系統的一大特色即為](../Page/Debian.md "wikilink")「永不停機」，事實上，APT達到了這一點。在軟體被升級的時候，它仍然可以繼續服務。APT可以智能地從安裝來源下載最新版本的軟體並且安裝，而無須在安裝後重新啟動電腦（除了更新[Linux內核之外](https://zh.wikipedia.org/wiki/Linux內核 "wikilink")）。所有的配置都可以得到保留，升級軟體不再是一個棘手的問題。
+[Debian](../Page/Debian.md "wikilink")系統的一大特色即為「永不停機」，事實上，APT達到了這一點。在軟體被升級的時候，它仍然可以繼續服務。APT可以智能地從安裝來源下載最新版本的軟體並且安裝，而無須在安裝後重新啟動電腦（除了更新[Linux內核之外](https://zh.wikipedia.org/wiki/Linux內核 "wikilink")）。所有的配置都可以得到保留，升級軟體不再是一個棘手的問題。
 
 ## 發行版升級
 
@@ -71,8 +71,7 @@ APT擁有不少的前端程序：
 
   - `apt-get update`
 
-這樣系統會自動由映射點更新套件列表，如果想安裝最新套件，必須先運行一次。每次修改了
-/etc/apt/sources.list後，也必須執行一次。
+這樣系統會自動由映射點更新套件列表，如果想安裝最新套件，必須先運行一次。每次修改了 /etc/apt/sources.list後，也必須執行一次。
 
 在終端機裡輸入：
 
@@ -102,13 +101,9 @@ APT擁有不少的前端程序：
 ..."Have you mooed today?"...
 ```
 
-与apt-get相似的一个叫做[aptitude的程序在aptitude](https://zh.wikipedia.org/wiki/aptitude "wikilink")
--h的末尾加上了“This aptitude does not have Super Cow
-Powers.（这个aptitude没有超级牛力）”。
+与apt-get相似的一个叫做[aptitude的程序在aptitude](https://zh.wikipedia.org/wiki/aptitude "wikilink") -h的末尾加上了“This aptitude does not have Super Cow Powers.（这个aptitude没有超级牛力）”。
 
-在后面加上moo（即输入aptitude
-moo），并且分别加上选项“-v”，“-vv”，“-vvv”，“-vvvv”，“-vvvvv”，“-vvvvvv”（即输入aptitude
--v moo;输入aptitude -vv moo;等等），则会有如下输出：
+在后面加上moo（即输入aptitude moo），并且分别加上选项“-v”，“-vv”，“-vvv”，“-vvvv”，“-vvvvv”，“-vvvvvv”（即输入aptitude -v moo;输入aptitude -vv moo;等等），则会有如下输出：
 
 ```
  $ aptitude moo
@@ -170,9 +165,4 @@ moo），并且分别加上选项“-v”，“-vv”，“-vvv”，“-vvvv”
 
 {{-}}
 
-[Category:跨平台軟體](https://zh.wikipedia.org/wiki/Category:跨平台軟體 "wikilink")
-[Category:Dpkg](https://zh.wikipedia.org/wiki/Category:Dpkg "wikilink")
-[Category:自由软件包管理系统](https://zh.wikipedia.org/wiki/Category:自由软件包管理系统 "wikilink")
-[Category:用C++編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用C++編程的自由軟體 "wikilink")
-[Category:Linux软件包管理相关软件](https://zh.wikipedia.org/wiki/Category:Linux软件包管理相关软件 "wikilink")
-[Category:Ubuntu](https://zh.wikipedia.org/wiki/Category:Ubuntu "wikilink")
+[Category:跨平台軟體](https://zh.wikipedia.org/wiki/Category:跨平台軟體 "wikilink") [Category:Dpkg](https://zh.wikipedia.org/wiki/Category:Dpkg "wikilink") [Category:自由软件包管理系统](https://zh.wikipedia.org/wiki/Category:自由软件包管理系统 "wikilink") [Category:用C++編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用C++編程的自由軟體 "wikilink") [Category:Linux软件包管理相关软件](https://zh.wikipedia.org/wiki/Category:Linux软件包管理相关软件 "wikilink") [Category:Ubuntu](https://zh.wikipedia.org/wiki/Category:Ubuntu "wikilink")

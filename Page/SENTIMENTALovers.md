@@ -1,11 +1,9 @@
-**SENTIMENTALovers**（中譯：情深意堅）是[日本男歌手](../Page/日本.md "wikilink")[平井堅的第六張原創專輯](../Page/平井堅.md "wikilink")，日本地區於2004年11月24日發行。發行首周空降[Oricon日本公信榜冠軍](../Page/Oricon.md "wikilink")，登場回數52周，總銷量超過160萬張，獲得[日本唱片協會百萬唱片認證](../Page/日本唱片協會.md "wikilink")。
+**SENTIMENTALovers**（中譯：情深意堅）是[日本](../Page/日本.md "wikilink")男歌手[平井堅](../Page/平井堅.md "wikilink")的第六張原創專輯，日本地區於2004年11月24日發行。發行首周空降[Oricon](../Page/Oricon.md "wikilink")日本公信榜冠軍，登場回數52周，總銷量超過160萬張，獲得[日本唱片協會](../Page/日本唱片協會.md "wikilink")百萬唱片認證。
 
 ## 解説
 
-  - 距離上一張原創專輯『[LIFE
-    is...](../Page/LIFE_is....md "wikilink")』約一年十個月的第六張原創專輯。
-  - 収録了上一張原創專輯『LIFE
-    is...』後發行的所有單曲「[style](../Page/Style_\(平井堅單曲\).md "wikilink")」、「[瞳をとじて](https://zh.wikipedia.org/wiki/輕閉雙眼 "wikilink")」、「[キミはともだち](../Page/朋友_\(平井堅單曲\).md "wikilink")」、「[思いがかさなるその前に・・・](../Page/在思緒重疊之前….md "wikilink")」，以及兩首c/w曲「signal」、「jealousy」。
+  - 距離上一張原創專輯『[LIFE is...](../Page/LIFE_is....md "wikilink")』約一年十個月的第六張原創專輯。
+  - 収録了上一張原創專輯『LIFE is...』後發行的所有單曲「[style](../Page/Style_\(平井堅單曲\).md "wikilink")」、「[瞳をとじて](https://zh.wikipedia.org/wiki/輕閉雙眼 "wikilink")」、「[キミはともだち](../Page/朋友_\(平井堅單曲\).md "wikilink")」、「[思いがかさなるその前に・・・](../Page/在思緒重疊之前….md "wikilink")」，以及兩首c/w曲「signal」、「jealousy」。
   - 平井堅第三張百萬專輯，收錄的單曲總銷量為所有專輯最多。
   - 本專輯所有作詞皆由平井堅擔當。
 
@@ -20,8 +18,7 @@
 
 1.  **[思いがかさなるその前に・・・](../Page/在思緒重疊之前….md "wikilink")**
       - 作詞・作曲：平井堅／編曲：亀田誠治
-      - 22nd單曲。[TOYOTA](https://zh.wikipedia.org/wiki/TOYOTA "wikilink")「COROLLA
-        FIELDER」電視廣告曲※本人出演
+      - 22nd單曲。[TOYOTA](https://zh.wikipedia.org/wiki/TOYOTA "wikilink")「COROLLA FIELDER」電視廣告曲※本人出演
       - 富士電視台連續劇「積木崩塌的真相」主題歌
 2.  **[jealousy](../Page/朋友_\(平井堅單曲\).md "wikilink")**
       - 作詞：平井堅／作曲：YOSHIKA／編曲：OCTOPUSSY
@@ -58,8 +55,4 @@
 
   - [通常盤](http://www.sonymusic.co.jp/Music/Arch/DF/KenHirai/DFCL-1170/index.html)
 
-[Category:2004年音樂專輯](https://zh.wikipedia.org/wiki/Category:2004年音樂專輯 "wikilink")
-[Category:平井堅音樂專輯](https://zh.wikipedia.org/wiki/Category:平井堅音樂專輯 "wikilink")
-[Category:RIAJ百萬認證專輯](https://zh.wikipedia.org/wiki/Category:RIAJ百萬認證專輯 "wikilink")
-[Category:Oricon百萬銷量達成專輯](https://zh.wikipedia.org/wiki/Category:Oricon百萬銷量達成專輯 "wikilink")
-[Category:2004年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2004年Oricon專輯週榜冠軍作品 "wikilink")
+[Category:2004年音樂專輯](https://zh.wikipedia.org/wiki/Category:2004年音樂專輯 "wikilink") [Category:平井堅音樂專輯](https://zh.wikipedia.org/wiki/Category:平井堅音樂專輯 "wikilink") [Category:RIAJ百萬認證專輯](https://zh.wikipedia.org/wiki/Category:RIAJ百萬認證專輯 "wikilink") [Category:Oricon百萬銷量達成專輯](https://zh.wikipedia.org/wiki/Category:Oricon百萬銷量達成專輯 "wikilink") [Category:2004年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2004年Oricon專輯週榜冠軍作品 "wikilink")

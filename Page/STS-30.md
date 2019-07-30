@@ -8,7 +8,4 @@
   - **[玛丽·克利夫](https://zh.wikipedia.org/wiki/玛丽·克利夫 "wikilink")**（，曾执行以及任务），任务专家
   - **[马克·李](https://zh.wikipedia.org/wiki/马克·李 "wikilink")**（，曾执行、、以及任务），任务专家
 
-[Category:1989年佛罗里达州](https://zh.wikipedia.org/wiki/Category:1989年佛罗里达州 "wikilink")
-[Category:1989年科學](https://zh.wikipedia.org/wiki/Category:1989年科學 "wikilink")
-[Category:亚特兰蒂斯号航天飞机任务](https://zh.wikipedia.org/wiki/Category:亚特兰蒂斯号航天飞机任务 "wikilink")
-[Category:1989年5月](https://zh.wikipedia.org/wiki/Category:1989年5月 "wikilink")
+[Category:1989年佛罗里达州](https://zh.wikipedia.org/wiki/Category:1989年佛罗里达州 "wikilink") [Category:1989年科學](https://zh.wikipedia.org/wiki/Category:1989年科學 "wikilink") [Category:亚特兰蒂斯号航天飞机任务](https://zh.wikipedia.org/wiki/Category:亚特兰蒂斯号航天飞机任务 "wikilink") [Category:1989年5月](https://zh.wikipedia.org/wiki/Category:1989年5月 "wikilink")

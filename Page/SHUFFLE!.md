@@ -1,32 +1,24 @@
-《**SHUFFLE\!**》是[Navel於](../Page/Navel.md "wikilink")2004年1月30日發售的[十八禁](https://zh.wikipedia.org/wiki/成人遊戲 "wikilink")[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")\[1\]，後移植至[PlayStation
-2平台](../Page/PlayStation_2.md "wikilink")，並被改編成[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")、[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。
+《**SHUFFLE\!**》是[Navel](../Page/Navel.md "wikilink")於2004年1月30日發售的[十八禁](https://zh.wikipedia.org/wiki/成人遊戲 "wikilink")[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")\[1\]，後移植至[PlayStation 2平台](../Page/PlayStation_2.md "wikilink")，並被改編成[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")、[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。
 
 ## 概要
 
-2004年2月27日發售Normal Edition\[2\]，12月17日發售Standard
-Edition\[3\]、2007年11月22日發售Anniversary Edition\[4\]\[5\]。
+2004年2月27日發售Normal Edition\[2\]，12月17日發售Standard Edition\[3\]、2007年11月22日發售Anniversary Edition\[4\]\[5\]。
 
-2005年7月7日至2006年1月5日在[WOWOW电视台播放電視動畫](../Page/WOWOW.md "wikilink")，全24話。\[6\]
+2005年7月7日至2006年1月5日在[WOWOW](../Page/WOWOW.md "wikilink")电视台播放電視動畫，全24話。\[6\]
 
-2005年10月20日由[角川書店製作的](../Page/角川書店.md "wikilink")[PlayStation
-2平台的](../Page/PlayStation_2.md "wikilink")《SHUFFLE\! ON THE
-STAGE》發售\[7\]，聲優變更成與動畫相同陣容，追加新製作的開頭動畫與女角色\[8\]。
+2005年10月20日由[角川書店](../Page/角川書店.md "wikilink")製作的[PlayStation 2平台的](../Page/PlayStation_2.md "wikilink")《SHUFFLE\! ON THE STAGE》發售\[7\]，聲優變更成與動畫相同陣容，追加新製作的開頭動畫與女角色\[8\]。
 
-2007年1月[独立UHF的电视台開始播放](https://zh.wikipedia.org/wiki/全国独立UHF放送协议会 "wikilink")《SHUFFLE\!
-Memories》，內容將是WOWOW版彙整為10話的總集篇，加上導入篇與新故事各1話，全12話\[9\]。
+2007年1月[独立UHF的电视台開始播放](https://zh.wikipedia.org/wiki/全国独立UHF放送协议会 "wikilink")《SHUFFLE\! Memories》，內容將是WOWOW版彙整為10話的總集篇，加上導入篇與新故事各1話，全12話\[9\]。
 
-繼《SHUFFLE\!》之後，[Navel製作了土见禀与奈莉奈回到奈莉奈出生前的](../Page/Navel.md "wikilink")《[Tick\!
-Tack\!](../Page/Tick!_Tack!.md "wikilink")》，2005年9月15日開始販售。
+繼《SHUFFLE\!》之後，[Navel](../Page/Navel.md "wikilink")製作了土见禀与奈莉奈回到奈莉奈出生前的《[Tick\! Tack\!](../Page/Tick!_Tack!.md "wikilink")》，2005年9月15日開始販售。
 
-2006年11月24日，平行世界作品《[Really?
-Really\!](../Page/Really?_Really!.md "wikilink")》開始販售。
+2006年11月24日，平行世界作品《[Really? Really\!](../Page/Really?_Really!.md "wikilink")》開始販售。
 
 2007年7月26日 - PS2版『SHUFFLE\! ON THE STAGE』KADOKAWA The Best開始發售\[10\]。
 
 2009年10月30日由PS2版逆移植PC並18禁化的《SHUFFLE\! Essence+》開始販售。
 
-2011年4月28日《SHUFFLE\! Essence+》的FANDISK《[SHUFFLE\! Love
-Rainbow](../Page/SHUFFLE!_Love_Rainbow.md "wikilink")》開始販售。
+2011年4月28日《SHUFFLE\! Essence+》的FANDISK《[SHUFFLE\! Love Rainbow](../Page/SHUFFLE!_Love_Rainbow.md "wikilink")》開始販售。
 
 ## 故事简介
 
@@ -64,7 +56,7 @@ Rainbow](../Page/SHUFFLE!_Love_Rainbow.md "wikilink")》開始販售。
     七年前和稟第一次見面的地方是在電車上，在電車上是因為當時神王來的時候，自己獨自去玩而走失，後來上了電車而迷路了，後稟就安慰自己並陪自己玩足一天直至神王來接自己(請見動畫第1季第8集)。
     原本是一名雙胞胎，有一名妹妹，但妹妹就被身邊的人希望不要生下來而死了，死前希亞接受了消失的妹妹既思念，之後兩人合而為一，就也是說是希亞現在是有兩個心靈，平時生活中出現的是姐姐，而妹妹是特別的時間才出現(請見動畫第1季第17集)。
     妹妹的性格比希亞更勇敢更有行動力及比較腹黑。
-    其名字的由來是植物的[洋桔梗的別名](../Page/洋桔梗.md "wikilink")。
+    其名字的由來是植物的[洋桔梗](../Page/洋桔梗.md "wikilink")的別名。
     平時在校園午飯時的便當是自己來煮的。自身認為秋葵是十分偉大的食物，所以十分不認同秋葵運入納豆的秋葵納豆(請見動畫第1季第5集)。
 
 <!-- end list -->
@@ -81,10 +73,10 @@ Rainbow](../Page/SHUFFLE!_Love_Rainbow.md "wikilink")》開始販售。
   -
     生日：11月10日。身高162cm，三圍：83/59/84，興趣是家務，喜歡為稟作各種事，討厭會讓稟覺得煩的事情。人物設定是西又葵。
     土見稟的[青梅竹馬](../Page/青梅竹馬.md "wikilink")。集希亞及琳的優點在一身的人，頭腦聰明、運動神經萬能、容姿端麗、擅長家務的完美超人。在學校極具人氣。是整個學校的偶像。其廚藝是由亞沙所教的(請見動畫第1季第4集)。平時在和家中早午晚飯和在校園吃的便當是自己煮的，還給稟和普莉姆拉煮一份。
-    年幼的時候自己的母親與稟的雙親因事故而死亡，之後就和稟生活在一起。之前曾經因為這個事故而失去了生存的動力，在住院時稟為了令楓有生存的動力而對楓說謊，說是自己害死楓的母親，聽了這謊言的楓就對稟起怨念、產生生存的動力，從此就怨恨著稟而不斷做出傷害稟的事，只有在父親面前才裝和稟是好朋友、但長大後知道事實真相後(其實是自己在生病時楓的父親打電話要求母親早點回來，請見動畫第1季第19集)，把憎恨轉換為200%的愛慕之情。一手包辦所有的家事並且為稟準備所有的餐點。但是卻因為過於重視稟，對於自己的事情反而有些少根筋。對稟感情就像[病嬌一樣](../Page/病嬌.md "wikilink")(見動畫第1季第19集)。
+    年幼的時候自己的母親與稟的雙親因事故而死亡，之後就和稟生活在一起。之前曾經因為這個事故而失去了生存的動力，在住院時稟為了令楓有生存的動力而對楓說謊，說是自己害死楓的母親，聽了這謊言的楓就對稟起怨念、產生生存的動力，從此就怨恨著稟而不斷做出傷害稟的事，只有在父親面前才裝和稟是好朋友、但長大後知道事實真相後(其實是自己在生病時楓的父親打電話要求母親早點回來，請見動畫第1季第19集)，把憎恨轉換為200%的愛慕之情。一手包辦所有的家事並且為稟準備所有的餐點。但是卻因為過於重視稟，對於自己的事情反而有些少根筋。對稟感情就像[病嬌](../Page/病嬌.md "wikilink")一樣(見動畫第1季第19集)。
     有時會因為太擔心稟，做出十分誇張的事(如動畫第1季第17集中，稟被希亞拉去約會一天而沒有上學時，會早退之後報警，請求警察尋找稟)。
     在希亞的父親在眾人面前宣布稟的結婚候選時曾在座位上坐著昏迷了。在動畫第1季第5集，因為自身平時為稟所做的事所被其他女角主取代，因此認為自身是稟的負擔，後來在病倒時受到稟的說話因而打起精神來，並應承稟的吩咐，生活要放鬆點，後把自身早起的時間由5點30分變為5點35分，但後來自身說睡得太長時間會頭痛，因而在之後的日子也變回5點30分起床。(請見動畫第1季第5集)。
-    其名字的由來正是植物[木芙蓉和](../Page/木芙蓉.md "wikilink")[楓樹](https://zh.wikipedia.org/wiki/楓樹 "wikilink")。
+    其名字的由來正是植物[木芙蓉](../Page/木芙蓉.md "wikilink")和[楓樹](https://zh.wikipedia.org/wiki/楓樹 "wikilink")。
     基於其父親經常出差，所以這一個家現居住者只有稟、楓和普莉姆拉。
 
 <!-- end list -->
@@ -105,7 +97,7 @@ Rainbow](../Page/SHUFFLE!_Love_Rainbow.md "wikilink")》開始販售。
   -
     生日：1月25日。身高151cm，三圍：78/55/80，沒有特別興趣、喜歡或討厭的事物，人物設定是西又葵。自身的名字普莉的發音和貼紙箱時發音十分相似(請見動畫第1季第8話)。
     暱稱**莉姆**（），是個神秘的女孩，神界與魔界共同開發的人工生命體，是「世界樹計劃」的第三個實驗者。擁有全世界最強的魔力，但還不會使用魔法，她在魔界時，就認識奈莉奈及莉可莉斯，聽到莉可莉斯對稟的描述後來到人間界尋找稟。
-    [無口性格](../Page/無口.md "wikilink")，對於和他人交際極端的不在行。喜歡抱著莉可莉斯送的貓玩偶(其貓玩偶是小時候莉可莉斯代替正直生病中奈莉奈去人間界時第一次見稟並和稟遊玩時，稟在遊戲店中的夾公仔遊戲夾的貓玩偶，請見動畫第1季第4集，之後莉可莉斯在離開普莉姆拉身邊時送給了普莉姆拉)。沒有興趣和好惡。不過在遇到稟之後有了改變。因經常留在家中看家，所以會看中午的肥皂泡劇場，現在說話時受到肥皂泡劇場的影響，會說出肥皂泡劇場裡面的內容及意思(請見動畫第1季第7集)。
+    [無口](../Page/無口.md "wikilink")性格，對於和他人交際極端的不在行。喜歡抱著莉可莉斯送的貓玩偶(其貓玩偶是小時候莉可莉斯代替正直生病中奈莉奈去人間界時第一次見稟並和稟遊玩時，稟在遊戲店中的夾公仔遊戲夾的貓玩偶，請見動畫第1季第4集，之後莉可莉斯在離開普莉姆拉身邊時送給了普莉姆拉)。沒有興趣和好惡。不過在遇到稟之後有了改變。因經常留在家中看家，所以會看中午的肥皂泡劇場，現在說話時受到肥皂泡劇場的影響，會說出肥皂泡劇場裡面的內容及意思(請見動畫第1季第7集)。
     在第一次和稟見面之後就抱住稟的樣子被綠葉樹看見因而稟被綠葉樹起了「Mr.Loli控」的稱呼(動畫第1季第2集)。
     自身識得採藥及製藥(動畫第1季第5集)和有很好的藝術天份(動畫第1季第9集)。
     其名字的由來是植物[櫻草屬的學名](../Page/報春花屬.md "wikilink")。
@@ -114,15 +106,13 @@ Rainbow](../Page/SHUFFLE!_Love_Rainbow.md "wikilink")》開始販售。
 
   -
     生日：9月1日。身高156cm，三圍：82/56/83，興趣是料理。
-    PS2版遊戲《SHUFFLE\! ON THE
-    STAGE》昇格為可攻略的主要角色。\[11\]神族少女，與亞沙非常要好，常和亞沙一起出現。和亞沙一樣同屬烹飪社。兩人分別被稱為「治癒的枯葉」和「驚愕的時雨」合稱「學園料理部雙壁」，並有著配得上這個稱號的廚藝。現在咖啡廳做女服務員。
+    PS2版遊戲《SHUFFLE\! ON THE STAGE》昇格為可攻略的主要角色。\[11\]神族少女，與亞沙非常要好，常和亞沙一起出現。和亞沙一樣同屬烹飪社。兩人分別被稱為「治癒的枯葉」和「驚愕的時雨」合稱「學園料理部雙壁」，並有著配得上這個稱號的廚藝。現在咖啡廳做女服務員。
     過分妄想症患者。常常把談話中的句子妄想擴展成為戀愛小説，然後會滿臉通紅說「嘛嘛」並會進一步妄想並更加臉紅地發出「嘛嘛嘛嘛」的聲音。是她的妹妹。
 
 <!-- end list -->
 
   -
-    生日：1月1日，身高167cm，三圍：77/57/82，她是在稟班上一個相當[平胸的女孩](../Page/平胸.md "wikilink")，但她在精神上補償它。喜歡假裝成一個記者，總是在追尋“最新的獨家新聞”。她經常帶著[數位相機出現](https://zh.wikipedia.org/wiki/數位相機 "wikilink")，偶爾會和樹策劃些小詭計，家中經營澡堂（請見動畫第11話）。PS2版遊戲《SHUFFLE\!
-    ON THE STAGE》昇格為可攻略的主要角色。\[12\]
+    生日：1月1日，身高167cm，三圍：77/57/82，她是在稟班上一個相當[平胸](../Page/平胸.md "wikilink")的女孩，但她在精神上補償它。喜歡假裝成一個記者，總是在追尋“最新的獨家新聞”。她經常帶著[數位相機出現](https://zh.wikipedia.org/wiki/數位相機 "wikilink")，偶爾會和樹策劃些小詭計，家中經營澡堂（請見動畫第11話）。PS2版遊戲《SHUFFLE\! ON THE STAGE》昇格為可攻略的主要角色。\[12\]
     曾在卡拉OK店中因唱得太大聲而被人投訴（請見動畫第1季第8集）。
     因為是人類和魔族的混血兒，所以兩眼瞳孔顏色不同：右眼為紅色，左眼為藍色。
 
@@ -152,8 +142,7 @@ Rainbow](../Page/SHUFFLE!_Love_Rainbow.md "wikilink")》開始販售。
     最初出現在Navel的遊戲《[魂鏈](https://zh.wikipedia.org/wiki/魂鏈 "wikilink")》。他是一個藍髪的男孩，十歲上下，喜歡掀女孩的裙子并看她們的內褲。
     他是《SHUFFLE\!》系列中隨意且經常出現的小角色，被他掀裙子的受害者包括枯葉和麻弓。
     他第一次出現在遊戲《SHUFFLE\!》是當枯葉在咖啡廳做女服務員時，這孩子在她裙子的后面掀起它來到逗枯葉。當她媽媽告訴他不要再掀枯葉的裙子時，透露出了他的名字是真聰。
-    他也再次出現在遊戲《[Tick\!
-    Tack\!](../Page/Tick!_Tack!.md "wikilink")》，掀了某魔族少女的裙子。但是，他的耳朵也是魔族的；他是否轉變為魔族或只是戴著假的魔族耳朵，就不知道了。
+    他也再次出現在遊戲《[Tick\! Tack\!](../Page/Tick!_Tack!.md "wikilink")》，掀了某魔族少女的裙子。但是，他的耳朵也是魔族的；他是否轉變為魔族或只是戴著假的魔族耳朵，就不知道了。
 
 <!-- end list -->
 
@@ -199,7 +188,7 @@ Rainbow](../Page/SHUFFLE!_Love_Rainbow.md "wikilink")》開始販售。
 《SHUFFLE\!》中有3位女主角拥有由自己的爱慕者和崇拜者组成的“亲卫队”，他们经常骚扰男主角。
 
   - KKK亲卫队
-    KKK是日语“”的[拉丁字母转写的缩写](../Page/拉丁字母.md "wikilink")，字面意思是“一定一定小枫”。他们算是楓的后援团，形容极其猥琐，在3个亲卫队中最早出现。他们经常在楓的面前作出滑稽的追求行为，并且会讨伐禀。而在Shuffle\!的fans中喜歡楓的一派也被稱爲KKK或者3K黨。
+    KKK是日语“”的[拉丁字母](../Page/拉丁字母.md "wikilink")转写的缩写，字面意思是“一定一定小枫”。他们算是楓的后援团，形容极其猥琐，在3个亲卫队中最早出现。他们经常在楓的面前作出滑稽的追求行为，并且会讨伐禀。而在Shuffle\!的fans中喜歡楓的一派也被稱爲KKK或者3K黨。
   - RRR亲卫队
     RRR是日语“”的拉丁字母转写的缩写，字面意思是“跑吧，跑吧，小琳”。他们是奈莉奈的[后援团](https://zh.wikipedia.org/wiki/后援团 "wikilink")。
   - SSS亲卫队
@@ -211,8 +200,7 @@ Rainbow](../Page/SHUFFLE!_Love_Rainbow.md "wikilink")》開始販售。
   - 人物设计・[原画](../Page/原画.md "wikilink")：
       - [西又葵](../Page/西又葵.md "wikilink")（リシアンサス、楓、プリムラ、麻弓及其他）
       - [鈴平ひろ](https://zh.wikipedia.org/wiki/鈴平ひろ "wikilink")（ネリネ、亜沙、カレハ、撫子、ツボミ他稟、樹及其他全部男性造型）
-  - [剧本](../Page/剧本.md "wikilink")：[あごバリア](https://zh.wikipedia.org/wiki/あごバリア "wikilink")、Long
-    Cube
+  - [剧本](../Page/剧本.md "wikilink")：[あごバリア](https://zh.wikipedia.org/wiki/あごバリア "wikilink")、Long Cube
   - 背景美術・CG监修：斉藤陽子
   - 演出：[王雀孫](https://zh.wikipedia.org/wiki/王雀孫 "wikilink")
   - 程序：ひろし
@@ -305,8 +293,7 @@ Rainbow](../Page/SHUFFLE!_Love_Rainbow.md "wikilink")》開始販售。
   - 音响监督：[鶴岡陽太](../Page/鶴岡陽太.md "wikilink")
   - 动画制作：[asread](https://zh.wikipedia.org/wiki/asread "wikilink")
   - 制作合作：[WOWOW](../Page/WOWOW.md "wikilink")
-  - 制作：SHUFFLE\! Media
-    Partners（[角川書店](../Page/角川書店.md "wikilink")、[角川エンタテインメント](https://zh.wikipedia.org/wiki/角川エンタテインメント "wikilink")、[クロックワークス](https://zh.wikipedia.org/wiki/クロックワークス "wikilink")、[メモリーテック](https://zh.wikipedia.org/wiki/メモリーテック "wikilink")、ランティス）
+  - 制作：SHUFFLE\! Media Partners（[角川書店](../Page/角川書店.md "wikilink")、[角川エンタテインメント](https://zh.wikipedia.org/wiki/角川エンタテインメント "wikilink")、[クロックワークス](https://zh.wikipedia.org/wiki/クロックワークス "wikilink")、[メモリーテック](https://zh.wikipedia.org/wiki/メモリーテック "wikilink")、ランティス）
 
 #### 主题曲
 
@@ -627,8 +614,7 @@ Rainbow](../Page/SHUFFLE!_Love_Rainbow.md "wikilink")》開始販售。
   - 音响艺术家工作室：スタジオごんぐ
   - 音响制作：樂音舎
   - 动画制作：[asread](https://zh.wikipedia.org/wiki/asread "wikilink")
-  - 制作：SHUFFLE\! Media
-    Partners（[角川書店](../Page/角川書店.md "wikilink")、[角川エンタテインメント](https://zh.wikipedia.org/wiki/角川エンタテインメント "wikilink")、[クロックワークス](https://zh.wikipedia.org/wiki/クロックワークス "wikilink")、[メモリーテック](https://zh.wikipedia.org/wiki/メモリーテック "wikilink")、ランティス）
+  - 制作：SHUFFLE\! Media Partners（[角川書店](../Page/角川書店.md "wikilink")、[角川エンタテインメント](https://zh.wikipedia.org/wiki/角川エンタテインメント "wikilink")、[クロックワークス](https://zh.wikipedia.org/wiki/クロックワークス "wikilink")、[メモリーテック](https://zh.wikipedia.org/wiki/メモリーテック "wikilink")、ランティス）
 
 #### 主題曲
 
@@ -850,30 +836,22 @@ Rainbow](../Page/SHUFFLE!_Love_Rainbow.md "wikilink")》開始販售。
 ## 漫畫
 
   - 《SHUFFLE\! －神魔一家親－》（）
-    Navel原作，[日下皓作畫](../Page/日下皓.md "wikilink")，[角川書店發行](../Page/角川書店.md "wikilink")，[單行本全](https://zh.wikipedia.org/wiki/單行本 "wikilink")6集。\[14\][長鴻出版社代理台灣中文版](../Page/長鴻出版社.md "wikilink")。
+    Navel原作，[日下皓](../Page/日下皓.md "wikilink")作畫，[角川書店](../Page/角川書店.md "wikilink")發行，[單行本全](https://zh.wikipedia.org/wiki/單行本 "wikilink")6集。\[14\][長鴻出版社](../Page/長鴻出版社.md "wikilink")代理台灣中文版。
     連載於《[comptiq](https://zh.wikipedia.org/wiki/comptiq "wikilink")》2003年12月號至2006年12月號（但2006年7月號暫停連載）。
   - 《SHUFFLE\! 青澀時光》（）
     短篇漫畫集，Navel原作，《comptiq》編輯部編，角川書店發行，2004年7月10日至2005年12月10日發售5集單行本\[15\]\[16\]。長鴻出版社代理台灣中文版。
   - 《SHUFFLE\! 短篇漫畫集》（）
-    Navel原作，[宙出版發行](https://zh.wikipedia.org/wiki/宙出版 "wikilink")，單行本全1集，2004年9月25日發售，ISBN
-    4-7767-1289-X\[17\]。
+    Navel原作，[宙出版發行](https://zh.wikipedia.org/wiki/宙出版 "wikilink")，單行本全1集，2004年9月25日發售，ISBN 4-7767-1289-X\[17\]。
 
 ## 逆移植
 
-在2009年6月10日，Navel在當日出版的《comptiq》雜誌內表示會把《SHUFFLE\! On The
-Stage》（PS2版）逆移植變成為電腦版，並命名《[SHUFFLE\!
-Essence+](https://zh.wikipedia.org/wiki/SHUFFLE!_Essence+ "wikilink")》，及在維持《SHUFFLE\!
-On The Stage》的結構下新增兩個新主角。此遊戲於2009年10月30日發售\[18\]\[19\]。[Fan
-disc](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")《[SHUFFLE\! Love
-Rainbow](../Page/SHUFFLE!_Love_Rainbow.md "wikilink")》於2011年4月28日推出。
+在2009年6月10日，Navel在當日出版的《comptiq》雜誌內表示會把《SHUFFLE\! On The Stage》（PS2版）逆移植變成為電腦版，並命名《[SHUFFLE\! Essence+](https://zh.wikipedia.org/wiki/SHUFFLE!_Essence+ "wikilink")》，及在維持《SHUFFLE\! On The Stage》的結構下新增兩個新主角。此遊戲於2009年10月30日發售\[18\]\[19\]。[Fan disc](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")《[SHUFFLE\! Love Rainbow](../Page/SHUFFLE!_Love_Rainbow.md "wikilink")》於2011年4月28日推出。
 
 ## 影響
 
-《SHUFFLE\!》在日本美少女游戏与动画相关商品销售网站Getchu.com的2004年上半年销量榜上排名第3\[20\]，2004全年排名第3\[21\]。《SHUFFLE\!
--Normal Edition- DVD-ROM版》於2004年銷售54483套。\[22\]
+《SHUFFLE\!》在日本美少女游戏与动画相关商品销售网站Getchu.com的2004年上半年销量榜上排名第3\[20\]，2004全年排名第3\[21\]。《SHUFFLE\! -Normal Edition- DVD-ROM版》於2004年銷售54483套。\[22\]
 
-在2007年10月，《[電擊G's
-magazine](../Page/電擊G's_magazine.md "wikilink")》舉辦了日本前五十名最佳美少女遊戲排名的票選活動，《SHUFFLE\!》在入圍的249款遊戲中獲得40票而成為第9名。\[23\]
+在2007年10月，《[電擊G's magazine](../Page/電擊G's_magazine.md "wikilink")》舉辦了日本前五十名最佳美少女遊戲排名的票選活動，《SHUFFLE\!》在入圍的249款遊戲中獲得40票而成為第9名。\[23\]
 
 在Getchu所公佈的2004年萌遊戲排行榜中，時雨亞沙和芙蓉楓各獲選為第十四名和第十五名的最佳女主角。\[24\]
 
@@ -882,22 +860,9 @@ magazine](../Page/電擊G's_magazine.md "wikilink")》舉辦了日本前五十�
 ## 外部链接
 
   - [Navel官方网站](http://www.project-navel.com/) - 游戏制作者官方网站
-  - [shuffle-tv.com](https://web.archive.org/web/20050815002128/http://www.shuffle-tv.com/)
-    - 动画官方网站
+  - [shuffle-tv.com](https://web.archive.org/web/20050815002128/http://www.shuffle-tv.com/) - 动画官方网站
 
-[Category:2004年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2004年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink")
-[Category:2005年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2005年日本電視動畫 "wikilink")
-[Category:2007年UHF動畫](https://zh.wikipedia.org/wiki/Category:2007年UHF動畫 "wikilink")
-[Category:WOWOW深夜動畫](https://zh.wikipedia.org/wiki/Category:WOWOW深夜動畫 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:奇幻動畫](https://zh.wikipedia.org/wiki/Category:奇幻動畫 "wikilink")
-[Category:日本成人遊戲改編電視動畫](https://zh.wikipedia.org/wiki/Category:日本成人遊戲改編電視動畫 "wikilink")
-[Category:PlayStation_2遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_2遊戲 "wikilink")
-[Category:Navel游戏](https://zh.wikipedia.org/wiki/Category:Navel游戏 "wikilink")
-[Category:遊戲改編漫畫](https://zh.wikipedia.org/wiki/Category:遊戲改編漫畫 "wikilink")
+[Category:2004年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2004年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink") [Category:2005年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2005年日本電視動畫 "wikilink") [Category:2007年UHF動畫](https://zh.wikipedia.org/wiki/Category:2007年UHF動畫 "wikilink") [Category:WOWOW深夜動畫](https://zh.wikipedia.org/wiki/Category:WOWOW深夜動畫 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:奇幻動畫](https://zh.wikipedia.org/wiki/Category:奇幻動畫 "wikilink") [Category:日本成人遊戲改編電視動畫](https://zh.wikipedia.org/wiki/Category:日本成人遊戲改編電視動畫 "wikilink") [Category:PlayStation_2遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_2遊戲 "wikilink") [Category:Navel游戏](https://zh.wikipedia.org/wiki/Category:Navel游戏 "wikilink") [Category:遊戲改編漫畫](https://zh.wikipedia.org/wiki/Category:遊戲改編漫畫 "wikilink")
 
 1.
 

@@ -1,11 +1,8 @@
-**Live In
-Copenhagen**為[丹麥樂團](https://zh.wikipedia.org/wiki/丹麥 "wikilink")[Mew的第一張演唱會實況DVD](../Page/Mew.md "wikilink")，內容為2006年3月25日在丹麥[哥本哈根KB](https://zh.wikipedia.org/wiki/哥本哈根 "wikilink")
-Hallen場地的演出，於2006年12月18日發行。
+**Live In Copenhagen**為[丹麥樂團](https://zh.wikipedia.org/wiki/丹麥 "wikilink")[Mew](../Page/Mew.md "wikilink")的第一張演唱會實況DVD，內容為2006年3月25日在丹麥[哥本哈根KB](https://zh.wikipedia.org/wiki/哥本哈根 "wikilink") Hallen場地的演出，於2006年12月18日發行。
 
 此次演出時間全長75分鐘，共使用19台攝影機拍攝。
 
-DVD另外收錄2004年間在美國錄製專輯《[And The Glass Handed
-Kites](../Page/And_The_Glass_Handed_Kites.md "wikilink")》的花絮影片，全長約為60分鐘，對話內容包含[英文與](https://zh.wikipedia.org/wiki/英文 "wikilink")[丹麥文](https://zh.wikipedia.org/wiki/丹麥文 "wikilink")，但無字幕。
+DVD另外收錄2004年間在美國錄製專輯《[And The Glass Handed Kites](../Page/And_The_Glass_Handed_Kites.md "wikilink")》的花絮影片，全長約為60分鐘，對話內容包含[英文與](https://zh.wikipedia.org/wiki/英文 "wikilink")[丹麥文](https://zh.wikipedia.org/wiki/丹麥文 "wikilink")，但無字幕。
 
 ## 曲目
 
@@ -35,5 +32,4 @@ Kites](../Page/And_The_Glass_Handed_Kites.md "wikilink")》的花絮影片，全
   - [TM Film](http://www.tmfilm.dk/)
   - [Kong Gulerod Film](http://www.kgfilm.dk/)
 
-[Category:2006年電影](https://zh.wikipedia.org/wiki/Category:2006年電影 "wikilink")
-[Category:哥本哈根](https://zh.wikipedia.org/wiki/Category:哥本哈根 "wikilink")
+[Category:2006年電影](https://zh.wikipedia.org/wiki/Category:2006年電影 "wikilink") [Category:哥本哈根](https://zh.wikipedia.org/wiki/Category:哥本哈根 "wikilink")

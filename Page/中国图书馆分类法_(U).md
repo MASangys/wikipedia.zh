@@ -55,12 +55,11 @@
 
 :\*U46 [汽车工程](https://zh.wikipedia.org/wiki/汽车工程 "wikilink")
 
-::\*U471 [汽车驾驶与使用](../Page/汽车.md "wikilink")
+::\*U471 [汽车](../Page/汽车.md "wikilink")驾驶与使用
 
 :\*U48 其他[道路运输工具](https://zh.wikipedia.org/wiki/道路运输工具 "wikilink")
 
-:\*U49
-[交通工程与](https://zh.wikipedia.org/wiki/交通工程 "wikilink")[公路运输技术管理](https://zh.wikipedia.org/wiki/公路运输技术管理 "wikilink")
+:\*U49 [交通工程与](https://zh.wikipedia.org/wiki/交通工程 "wikilink")[公路运输技术管理](https://zh.wikipedia.org/wiki/公路运输技术管理 "wikilink")
 
   - U6 [水路运输](https://zh.wikipedia.org/wiki/水路运输 "wikilink")
 
@@ -68,8 +67,7 @@
 
 :\*U61 [航道工程](https://zh.wikipedia.org/wiki/航道工程 "wikilink")
 
-:\*U64
-[通航建筑物与](https://zh.wikipedia.org/wiki/通航建筑物 "wikilink")[助航设备](https://zh.wikipedia.org/wiki/助航设备 "wikilink")
+:\*U64 [通航建筑物与](https://zh.wikipedia.org/wiki/通航建筑物 "wikilink")[助航设备](https://zh.wikipedia.org/wiki/助航设备 "wikilink")
 
 :\*U65 [港口工程](https://zh.wikipedia.org/wiki/港口工程 "wikilink")
 

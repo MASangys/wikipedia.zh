@@ -1,14 +1,8 @@
-《**Nothing Really
-Matters**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[陳奕迅的](../Page/陳奕迅.md "wikilink")[粵語音樂專輯](https://zh.wikipedia.org/wiki/粵語 "wikilink")，於2000年7月21日發行。
+《**Nothing Really Matters**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[陳奕迅](../Page/陳奕迅.md "wikilink")的[粵語音樂專輯](https://zh.wikipedia.org/wiki/粵語 "wikilink")，於2000年7月21日發行。
 
 ## 專輯簡介
 
-此乃陳奕迅於[華星唱片時期的最後一張錄音室專輯](https://zh.wikipedia.org/wiki/華星唱片 "wikilink")，因推出大碟後不久便轉簽[英皇娛樂](../Page/英皇娛樂.md "wikilink")，這專輯並沒有獲得足夠宣傳。然而陳奕迅在這專輯嘗試了多種曲風，例如《Made
-In Hong
-Kong》的重型[搖滾](https://zh.wikipedia.org/wiki/搖滾 "wikilink")、《美麗有罪》的[Techno
-Music等](https://zh.wikipedia.org/wiki/鐵克諾 "wikilink")，均為Eason
-首次嘗試的曲風。另外，這專輯亦收錄了Eason
-一首廣為人知的歌曲《黑夜不再來》，此曲其後被[容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")、[蘇永康等歌手翻唱](../Page/蘇永康.md "wikilink")。
+此乃陳奕迅於[華星唱片時期的最後一張錄音室專輯](https://zh.wikipedia.org/wiki/華星唱片 "wikilink")，因推出大碟後不久便轉簽[英皇娛樂](../Page/英皇娛樂.md "wikilink")，這專輯並沒有獲得足夠宣傳。然而陳奕迅在這專輯嘗試了多種曲風，例如《Made In Hong Kong》的重型[搖滾](https://zh.wikipedia.org/wiki/搖滾 "wikilink")、《美麗有罪》的[Techno Music等](https://zh.wikipedia.org/wiki/鐵克諾 "wikilink")，均為Eason 首次嘗試的曲風。另外，這專輯亦收錄了Eason 一首廣為人知的歌曲《黑夜不再來》，此曲其後被[容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")、[蘇永康](../Page/蘇永康.md "wikilink")等歌手翻唱。
 
 ## 曲目
 
@@ -28,7 +22,4 @@ Music等](https://zh.wikipedia.org/wiki/鐵克諾 "wikilink")，均為Eason
 
   - [2001年香港電影金像獎](https://zh.wikipedia.org/wiki/2001年香港電影金像獎 "wikilink")－最佳原創電影歌曲（提名）
 
-[Category:陳奕迅音樂專輯](https://zh.wikipedia.org/wiki/Category:陳奕迅音樂專輯 "wikilink")
-[Category:陳奕迅粵語專輯](https://zh.wikipedia.org/wiki/Category:陳奕迅粵語專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:2000年音樂專輯](https://zh.wikipedia.org/wiki/Category:2000年音樂專輯 "wikilink")
+[Category:陳奕迅音樂專輯](https://zh.wikipedia.org/wiki/Category:陳奕迅音樂專輯 "wikilink") [Category:陳奕迅粵語專輯](https://zh.wikipedia.org/wiki/Category:陳奕迅粵語專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:2000年音樂專輯](https://zh.wikipedia.org/wiki/Category:2000年音樂專輯 "wikilink")

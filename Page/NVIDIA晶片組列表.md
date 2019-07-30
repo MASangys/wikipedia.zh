@@ -1042,9 +1042,6 @@ FirstPacket</p></td>
 ## 外部链接
 
   - [nForce官方网站](http://www.nvidia.com/page/mobo.html)
-  - [nForce
-    Professional官方网站](http://www.nvidia.com/page/nforce_pro.html)
+  - [nForce Professional官方网站](http://www.nvidia.com/page/nforce_pro.html)
 
-[Category:计算机硬件列表](https://zh.wikipedia.org/wiki/Category:计算机硬件列表 "wikilink")
-[Category:主板](https://zh.wikipedia.org/wiki/Category:主板 "wikilink")
-[Category:英伟达](https://zh.wikipedia.org/wiki/Category:英伟达 "wikilink")
+[Category:计算机硬件列表](https://zh.wikipedia.org/wiki/Category:计算机硬件列表 "wikilink") [Category:主板](https://zh.wikipedia.org/wiki/Category:主板 "wikilink") [Category:英伟达](https://zh.wikipedia.org/wiki/Category:英伟达 "wikilink")

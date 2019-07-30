@@ -1,11 +1,10 @@
-**Visual
-Art's**（ビジュアルアーツ）是一家[日本](../Page/日本.md "wikilink")[遊戲公司](https://zh.wikipedia.org/wiki/遊戲 "wikilink")，[總部位於](https://zh.wikipedia.org/wiki/總部 "wikilink")[日本](../Page/日本.md "wikilink")[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")[大阪市](../Page/大阪市.md "wikilink")，在1991年3月26日成立。\[1\]擁有[Key及ZERO等遊戲品牌](https://zh.wikipedia.org/wiki/Key_\(公司\) "wikilink")。旗下各品牌之中，有的專注於發行[男性向](../Page/男性向.md "wikilink")，有的則專注製作[女性向戀愛冒險遊戲](../Page/女性向.md "wikilink")。
+**Visual Art's**（ビジュアルアーツ）是一家[日本](../Page/日本.md "wikilink")[遊戲公司](https://zh.wikipedia.org/wiki/遊戲 "wikilink")，[總部位於](https://zh.wikipedia.org/wiki/總部 "wikilink")[日本](../Page/日本.md "wikilink")[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")[大阪市](../Page/大阪市.md "wikilink")，在1991年3月26日成立。\[1\]擁有[Key及ZERO等遊戲品牌](https://zh.wikipedia.org/wiki/Key_\(公司\) "wikilink")。旗下各品牌之中，有的專注於發行[男性向](../Page/男性向.md "wikilink")，有的則專注製作[女性向](../Page/女性向.md "wikilink")戀愛冒險遊戲。
 
 目前該公司主要以發行利用自主開發的遊戲引擎（AVG32、RealLive、SiglusEngine）所製作的遊戲為主要業務，除此之外，也販售自遊戲所衍生的周邊商品及音樂CD。
 
-與[I've的合作](../Page/I've.md "wikilink")，更是創下遊戲業界首次登上日本武道館的紀錄。
+與[I've](../Page/I've.md "wikilink")的合作，更是創下遊戲業界首次登上日本武道館的紀錄。
 
-[2008年10月與](../Page/2008年10月.md "wikilink")[PARADIGM出版社合作](../Page/PARADIGM.md "wikilink")[VA文庫創刊](https://zh.wikipedia.org/wiki/VA文庫 "wikilink")，開始進入出版業。
+[2008年10月](../Page/2008年10月.md "wikilink")與[PARADIGM](../Page/PARADIGM.md "wikilink")出版社合作[VA文庫創刊](https://zh.wikipedia.org/wiki/VA文庫 "wikilink")，開始進入出版業。
 
 ## 合作品牌一覽
 
@@ -109,9 +108,6 @@ Art's**（ビジュアルアーツ）是一家[日本](../Page/日本.md "wikili
   - [最速VisualAntena\!](https://web.archive.org/web/20070401045759/http://visualarts.product.co.jp/)
 
   -
-[Category:Visual_Art's](https://zh.wikipedia.org/wiki/Category:Visual_Art's "wikilink")
-[Category:日本電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本電子遊戲公司 "wikilink")
-[Category:大阪府公司](https://zh.wikipedia.org/wiki/Category:大阪府公司 "wikilink")
-[Category:1991年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1991年開業電子遊戲公司 "wikilink")
+[Category:Visual_Art's](https://zh.wikipedia.org/wiki/Category:Visual_Art's "wikilink") [Category:日本電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本電子遊戲公司 "wikilink") [Category:大阪府公司](https://zh.wikipedia.org/wiki/Category:大阪府公司 "wikilink") [Category:1991年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1991年開業電子遊戲公司 "wikilink")
 
 1.  [会社概要](http://visual-arts.jp/outline.html)Visual Art's

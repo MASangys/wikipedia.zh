@@ -1,4 +1,4 @@
-**Ace球**，[网球运动的术语](../Page/网球.md "wikilink")。指发球方发出的球落在对方有效区内，但对方的球拍未能接触到该球，从而直接得分。如果接球方选手用球拍碰到了网球，即使未能打回发球方一侧的有效区域，也不能称之为Ace球。
+**Ace球**，[网球](../Page/网球.md "wikilink")运动的术语。指发球方发出的球落在对方有效区内，但对方的球拍未能接触到该球，从而直接得分。如果接球方选手用球拍碰到了网球，即使未能打回发球方一侧的有效区域，也不能称之为Ace球。
 
 在职业网球比赛中，因为第一次发球不中后还有第二次机会，在[一发中球员敢于冒较高失误的风险](https://zh.wikipedia.org/wiki/一发 "wikilink")，发出高速平击球和侧旋球，打向发球区的内角和外角。二发时发球方为了防止双误，往往会用更多的上旋，使球安全过网并落在界内，进攻性较一发小。所以Ace球多在[一发时出现](https://zh.wikipedia.org/wiki/一发 "wikilink")。
 
@@ -10,18 +10,14 @@
 
 ## 男子
 
-目前，根据[ATP的统计数据](../Page/职业网球联合会.md "wikilink")，个人单场比赛创造Ace球最高纪录是51个，由[乔·约翰森和](https://zh.wikipedia.org/wiki/乔·约翰森 "wikilink")[伊沃·卡洛维奇保持的](https://zh.wikipedia.org/wiki/伊沃·卡洛维奇 "wikilink")。但非常有意思的是，这两位Ace球专家都在创造纪录的比赛中最终落败。这一纪录在2009年5月24日的法网赛场上被打破，在[莱顿·休伊特与](../Page/莱顿·休伊特.md "wikilink")[伊沃·卡洛维奇的比赛中](https://zh.wikipedia.org/wiki/伊沃·卡洛维奇 "wikilink")，卡洛维奇一人就轰出了55记Ace球，但他最终也输掉了比赛，双方共发出74记Ace。2009年7月6日，由[安迪·罗迪克与](https://zh.wikipedia.org/wiki/安迪·罗迪克 "wikilink")[罗杰·费德勒对阵的](../Page/罗杰·费德勒.md "wikilink")[温布尔登网球锦标赛决赛中](../Page/温布尔登网球锦标赛.md "wikilink")，在决胜盘打到14-16的情况下，两人分别发出了27记和50记Ace球，以77记的总和再度打破了纪录。在2010年6月23\~25日，法國的[尼古拉·馬俞](../Page/尼古拉·馬俞.md "wikilink")（Nicolas
-Mahut）和美國的[約翰·伊斯內爾](../Page/約翰·伊斯內爾.md "wikilink")（John
-Isner）比賽，在決勝盤打到68比70的情況下，2人分別打出113個和103個Ace球，以總和216個Ace球创下新紀錄。
+目前，根据[ATP的统计数据](../Page/职业网球联合会.md "wikilink")，个人单场比赛创造Ace球最高纪录是51个，由[乔·约翰森和](https://zh.wikipedia.org/wiki/乔·约翰森 "wikilink")[伊沃·卡洛维奇保持的](https://zh.wikipedia.org/wiki/伊沃·卡洛维奇 "wikilink")。但非常有意思的是，这两位Ace球专家都在创造纪录的比赛中最终落败。这一纪录在2009年5月24日的法网赛场上被打破，在[莱顿·休伊特](../Page/莱顿·休伊特.md "wikilink")与[伊沃·卡洛维奇的比赛中](https://zh.wikipedia.org/wiki/伊沃·卡洛维奇 "wikilink")，卡洛维奇一人就轰出了55记Ace球，但他最终也输掉了比赛，双方共发出74记Ace。2009年7月6日，由[安迪·罗迪克与](https://zh.wikipedia.org/wiki/安迪·罗迪克 "wikilink")[罗杰·费德勒](../Page/罗杰·费德勒.md "wikilink")对阵的[温布尔登网球锦标赛](../Page/温布尔登网球锦标赛.md "wikilink")决赛中，在决胜盘打到14-16的情况下，两人分别发出了27记和50记Ace球，以77记的总和再度打破了纪录。在2010年6月23\~25日，法國的[尼古拉·馬俞](../Page/尼古拉·馬俞.md "wikilink")（Nicolas Mahut）和美國的[約翰·伊斯內爾](../Page/約翰·伊斯內爾.md "wikilink")（John Isner）比賽，在決勝盤打到68比70的情況下，2人分別打出113個和103個Ace球，以總和216個Ace球创下新紀錄。
 
 球速方面，[萨缪尔·格尔斯](https://zh.wikipedia.org/wiki/萨缪尔·格尔斯 "wikilink")2012年在釜山打出一记时速263公里（163.4英里/小时）的Ace球，创下Ace球球速新纪录。
 
 ## 女子
 
-数量方面，小威廉姆斯在2012年温网创下整个系列赛102粒Ace球的记录。2015年[萨比娜·利斯基在英國伯明瀚公開賽的一場比賽中開出](../Page/萨比娜·利斯基.md "wikilink")27球ace，打破了小威及亚历山卓·史蒂文森25球ace的記錄。
+数量方面，小威廉姆斯在2012年温网创下整个系列赛102粒Ace球的记录。2015年[萨比娜·利斯基](../Page/萨比娜·利斯基.md "wikilink")在英國伯明瀚公開賽的一場比賽中開出27球ace，打破了小威及亚历山卓·史蒂文森25球ace的記錄。
 
-球速方面，同樣地由享有重炮手之稱的萨比娜·利斯基保持紀錄，在2014年史丹福網球公開賽開出131英里/小時
-(212公里/小時)的發球，打破大威廉姆斯保有130英里/小时（209公里/小时）的女子Ace球球速的紀錄。
+球速方面，同樣地由享有重炮手之稱的萨比娜·利斯基保持紀錄，在2014年史丹福網球公開賽開出131英里/小時 (212公里/小時)的發球，打破大威廉姆斯保有130英里/小时（209公里/小时）的女子Ace球球速的紀錄。
 
-[Category:網球術語](https://zh.wikipedia.org/wiki/Category:網球術語 "wikilink")
-[Category:網球紀錄及統計數據](https://zh.wikipedia.org/wiki/Category:網球紀錄及統計數據 "wikilink")
+[Category:網球術語](https://zh.wikipedia.org/wiki/Category:網球術語 "wikilink") [Category:網球紀錄及統計數據](https://zh.wikipedia.org/wiki/Category:網球紀錄及統計數據 "wikilink")

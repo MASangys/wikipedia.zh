@@ -1,7 +1,4 @@
-本列表為[Intel Core
-2系列各處理器的技術資料](https://zh.wikipedia.org/wiki/Intel_Core_2 "wikilink")，有關Intel
-Core系列各處理器的技術資料，請參閱[Intel Core
-處理器列表](https://zh.wikipedia.org/wiki/Intel_Core_處理器列表 "wikilink")。
+本列表為[Intel Core 2系列各處理器的技術資料](https://zh.wikipedia.org/wiki/Intel_Core_2 "wikilink")，有關Intel Core系列各處理器的技術資料，請參閱[Intel Core 處理器列表](https://zh.wikipedia.org/wiki/Intel_Core_處理器列表 "wikilink")。
 
 ## 桌上型處理器
 
@@ -9,9 +6,7 @@ Core系列各處理器的技術資料，請參閱[Intel Core
 
 #### Allendale (65 nm)
 
-  - 指令集：[MMX](../Page/MMX.md "wikilink")，[SSE](../Page/SSE.md "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[SSSE3](../Page/SSSE3.md "wikilink")，[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")，[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")，[Intel
-    64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")，[iAMT2](https://zh.wikipedia.org/wiki/iAMT2 "wikilink")
+  - 指令集：[MMX](../Page/MMX.md "wikilink")，[SSE](../Page/SSE.md "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[SSSE3](../Page/SSSE3.md "wikilink")，[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")，[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")，[Intel 64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")，[iAMT2](https://zh.wikipedia.org/wiki/iAMT2 "wikilink")
 
 | 型號               | s-Spec 代號  | 時脈頻率              | L2 快取記憶體 | 匯流排速度    | 電壓            | TDP  | 腳座                                       | 出品日期        |
 | ---------------- | ---------- | ----------------- | -------- | -------- | ------------- | ---- | ---------------------------------------- | ----------- |
@@ -23,11 +18,7 @@ Core系列各處理器的技術資料，請參閱[Intel Core
 
 #### Conroe (65 nm)
 
-  - 指令集：[MMX](../Page/MMX.md "wikilink")，[SSE](../Page/SSE.md "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[SSSE3](../Page/SSSE3.md "wikilink")，[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")，[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")，[Intel
-    64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")，[iAMT2](https://zh.wikipedia.org/wiki/iAMT2 "wikilink")，[Intel
-    VT](https://zh.wikipedia.org/wiki/虛擬化技術 "wikilink")，[Intel
-    TXT](https://zh.wikipedia.org/wiki/Intel_TXT "wikilink")
+  - 指令集：[MMX](../Page/MMX.md "wikilink")，[SSE](../Page/SSE.md "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[SSSE3](../Page/SSSE3.md "wikilink")，[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")，[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")，[Intel 64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")，[iAMT2](https://zh.wikipedia.org/wiki/iAMT2 "wikilink")，[Intel VT](https://zh.wikipedia.org/wiki/虛擬化技術 "wikilink")，[Intel TXT](https://zh.wikipedia.org/wiki/Intel_TXT "wikilink")
 
 | 型號               | s-Spec 代號          | 時脈頻率              | L2 快取記憶體 | 匯流排速度     | 電壓           | TDP  | 腳座                                       | 出品日期       |
 | ---------------- | ------------------ | ----------------- | -------- | --------- | ------------ | ---- | ---------------------------------------- | ---------- |
@@ -44,10 +35,7 @@ Core系列各處理器的技術資料，請參閱[Intel Core
 
 #### Wolfdale (45 nm)
 
-  - 指令集：[MMX](../Page/MMX.md "wikilink")，[SSE](../Page/SSE.md "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[SSSE3](../Page/SSSE3.md "wikilink")，[SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink")，[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")，[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")，[Intel
-    64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")，[iAMT2](https://zh.wikipedia.org/wiki/iAMT2 "wikilink")，[Intel
-    VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")
+  - 指令集：[MMX](../Page/MMX.md "wikilink")，[SSE](../Page/SSE.md "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[SSSE3](../Page/SSSE3.md "wikilink")，[SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink")，[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")，[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")，[Intel 64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")，[iAMT2](https://zh.wikipedia.org/wiki/iAMT2 "wikilink")，[Intel VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")
 
 | 型號               | s-Spec 代號                                                             | 時脈頻率                | L2 快取記憶體 | 匯流排速度     | 電壓            | TDP  | 腳座                                       | 出品日期        |
 | ---------------- | --------------------------------------------------------------------- | ------------------- | -------- | --------- | ------------- | ---- | ---------------------------------------- | ----------- |
@@ -68,11 +56,7 @@ Core系列各處理器的技術資料，請參閱[Intel Core
 
 #### Kentsfield (65 nm)
 
-  - 指令集：[MMX](../Page/MMX.md "wikilink")，[SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[SSSE3](../Page/SSSE3.md "wikilink")，[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink"),
-    [Intel 64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")，[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")，iAMT2 , [Intel
-    VT](https://zh.wikipedia.org/wiki/虛擬化技術 "wikilink")，[Intel
-    TXT](https://zh.wikipedia.org/wiki/Intel_TXT "wikilink")
+  - 指令集：[MMX](../Page/MMX.md "wikilink")，[SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[SSSE3](../Page/SSSE3.md "wikilink")，[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink"), [Intel 64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")，[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")，iAMT2 , [Intel VT](https://zh.wikipedia.org/wiki/虛擬化技術 "wikilink")，[Intel TXT](https://zh.wikipedia.org/wiki/Intel_TXT "wikilink")
 
 | 型號                | s-Spec 代號  | 時脈頻率              | L2 快取記憶體 | 匯流排速度     | 電壓           | TDP   | 腳座                                       | 出品日期       |
 | ----------------- | ---------- | ----------------- | -------- | --------- | ------------ | ----- | ---------------------------------------- | ---------- |
@@ -83,11 +67,7 @@ Core系列各處理器的技術資料，請參閱[Intel Core
 
 #### Yorkfield (45 nm)
 
-  - 指令集：[MMX](../Page/MMX.md "wikilink")，[SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[SSSE3](../Page/SSSE3.md "wikilink")，[SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink")，[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink"),
-    [Intel 64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")，[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")，iAMT2，[Intel
-    VT](https://zh.wikipedia.org/wiki/虛擬化技術 "wikilink")，[Intel
-    TXT](https://zh.wikipedia.org/wiki/Intel_TXT "wikilink")
+  - 指令集：[MMX](../Page/MMX.md "wikilink")，[SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[SSSE3](../Page/SSSE3.md "wikilink")，[SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink")，[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink"), [Intel 64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")，[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")，iAMT2，[Intel VT](https://zh.wikipedia.org/wiki/虛擬化技術 "wikilink")，[Intel TXT](https://zh.wikipedia.org/wiki/Intel_TXT "wikilink")
 
 | 型號                 | s-Spec 代號                                                               | 時脈頻率               | L2 快取記憶體 | 匯流排速度     | 電壓            | TDP  | 腳座                                       | 出品日期        |
 | ------------------ | ----------------------------------------------------------------------- | ------------------ | -------- | --------- | ------------- | ---- | ---------------------------------------- | ----------- |
@@ -111,10 +91,7 @@ Core系列各處理器的技術資料，請參閱[Intel Core
 
 #### Conroe XE (65 nm)
 
-  - 指令集：[MMX](../Page/MMX.md "wikilink")，[SSE](../Page/SSE.md "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[SSSE3](../Page/SSSE3.md "wikilink")，[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")，[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")，[Intel
-    64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")，[Intel
-    VT](https://zh.wikipedia.org/wiki/虛擬化技術 "wikilink")
+  - 指令集：[MMX](../Page/MMX.md "wikilink")，[SSE](../Page/SSE.md "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[SSSE3](../Page/SSSE3.md "wikilink")，[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")，[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")，[Intel 64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")，[Intel VT](https://zh.wikipedia.org/wiki/虛擬化技術 "wikilink")
   - 未鎖倍頻
 
 | 型號                   | s-Spec 代號  | 時脈頻率              | L2 快取記憶體 | 匯流排速度     | 電壓           | TDP  | 腳座                                       | 出品日期       |
@@ -123,10 +100,7 @@ Core系列各處理器的技術資料，請參閱[Intel Core
 
 #### Kentsfield XE (65 nm)
 
-  - 指令集：[MMX](../Page/MMX.md "wikilink")，[SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[SSSE3](../Page/SSSE3.md "wikilink")，[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink"),
-    [Intel 64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")，[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")，[Intel
-    VT](https://zh.wikipedia.org/wiki/虛擬化技術 "wikilink")
+  - 指令集：[MMX](../Page/MMX.md "wikilink")，[SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[SSSE3](../Page/SSSE3.md "wikilink")，[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink"), [Intel 64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")，[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")，[Intel VT](https://zh.wikipedia.org/wiki/虛擬化技術 "wikilink")
   - 未鎖倍頻
 
 | 型號                    | s-Spec 代號  | 時脈頻率              | L2 快取記憶體 | 匯流排速度     | 電壓           | TDP   | 腳座                                       | 出品日期        |
@@ -137,10 +111,7 @@ Core系列各處理器的技術資料，請參閱[Intel Core
 
 #### Yorkfield XE (45 nm)
 
-  - 指令集：[MMX](../Page/MMX.md "wikilink")，[SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[SSSE3](../Page/SSSE3.md "wikilink")，[SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink")，[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink"),
-    [Intel 64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")，[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")，[Intel
-    VT](https://zh.wikipedia.org/wiki/虛擬化技術 "wikilink")
+  - 指令集：[MMX](../Page/MMX.md "wikilink")，[SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[SSSE3](../Page/SSSE3.md "wikilink")，[SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink")，[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink"), [Intel 64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")，[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")，[Intel VT](https://zh.wikipedia.org/wiki/虛擬化技術 "wikilink")
   - 未鎖倍頻
 
 | 型號                    | s-Spec 代號  | 時脈頻率             | L2 快取記憶體 | 匯流排速度     | 電壓            | TDP   | 腳座                                                          | 出品日期        |
@@ -155,11 +126,7 @@ Core系列各處理器的技術資料，請參閱[Intel Core
 
 #### Merom-L (65 nm)
 
-  - 指令集：[MMX](../Page/MMX.md "wikilink")，[SSE](../Page/SSE.md "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[SSSE3](../Page/SSSE3.md "wikilink")，[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")，[Intel
-    64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")，[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")，[iAMT2](https://zh.wikipedia.org/wiki/iAMT2 "wikilink")，[Intel
-    VT](https://zh.wikipedia.org/wiki/虛擬化技術 "wikilink")-x，[Intel
-    TXT](https://zh.wikipedia.org/wiki/Intel_TXT "wikilink")
+  - 指令集：[MMX](../Page/MMX.md "wikilink")，[SSE](../Page/SSE.md "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[SSSE3](../Page/SSSE3.md "wikilink")，[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")，[Intel 64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")，[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")，[iAMT2](https://zh.wikipedia.org/wiki/iAMT2 "wikilink")，[Intel VT](https://zh.wikipedia.org/wiki/虛擬化技術 "wikilink")-x，[Intel TXT](https://zh.wikipedia.org/wiki/Intel_TXT "wikilink")
 
 | 型號                    | s-Spec 代號  | 時脈頻率             | L2 快取記憶體 | 匯流排速度    | 電壓            | TDP   | 腳座                                                          | 出品日期      |
 | --------------------- | ---------- | ---------------- | -------- | -------- | ------------- | ----- | ----------------------------------------------------------- | --------- |
@@ -168,12 +135,7 @@ Core系列各處理器的技術資料，請參閱[Intel Core
 
 #### Penryn-L (45 nm)
 
-  - 指令集：[MMX](../Page/MMX.md "wikilink")，[SSE](../Page/SSE.md "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[SSSE3](../Page/SSSE3.md "wikilink")，[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")，[Intel
-    64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")，[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")，[iAMT2](https://zh.wikipedia.org/wiki/iAMT2 "wikilink")，[Intel
-    VT](https://zh.wikipedia.org/wiki/虛擬化技術 "wikilink")-x，[Intel
-    TXT](https://zh.wikipedia.org/wiki/Intel_TXT "wikilink")，Intel
-    Dynamic Acceleration (IDA)
+  - 指令集：[MMX](../Page/MMX.md "wikilink")，[SSE](../Page/SSE.md "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[SSSE3](../Page/SSSE3.md "wikilink")，[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")，[Intel 64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")，[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")，[iAMT2](https://zh.wikipedia.org/wiki/iAMT2 "wikilink")，[Intel VT](https://zh.wikipedia.org/wiki/虛擬化技術 "wikilink")-x，[Intel TXT](https://zh.wikipedia.org/wiki/Intel_TXT "wikilink")，Intel Dynamic Acceleration (IDA)
 
 | 型號                 | s-Spec 代號  | 時脈頻率             | L2 快取記憶體 | 匯流排速度    | 電壓            | TDP   | 腳座                                                          | 出品日期       |
 | ------------------ | ---------- | ---------------- | -------- | -------- | ------------- | ----- | ----------------------------------------------------------- | ---------- |
@@ -184,9 +146,7 @@ Core系列各處理器的技術資料，請參閱[Intel Core
 
 #### Merom (65 nm)
 
-  - 指令集：[MMX](../Page/MMX.md "wikilink")，[SSE](../Page/SSE.md "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[SSSE3](../Page/SSSE3.md "wikilink")，[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")，[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")，[Intel
-    VT](https://zh.wikipedia.org/wiki/虛擬化技術 "wikilink")
+  - 指令集：[MMX](../Page/MMX.md "wikilink")，[SSE](../Page/SSE.md "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[SSSE3](../Page/SSSE3.md "wikilink")，[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")，[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")，[Intel VT](https://zh.wikipedia.org/wiki/虛擬化技術 "wikilink")
 
 <table>
 <thead>
@@ -540,9 +500,7 @@ SLA75 (G0)</p></td>
 
 #### Penryn (45 nm)
 
-  - 指令集：[MMX](../Page/MMX.md "wikilink")，[SSE](../Page/SSE.md "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[SSSE3](../Page/SSSE3.md "wikilink")，[SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink")，[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")，[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")，[Intel
-    VT](https://zh.wikipedia.org/wiki/虛擬化技術 "wikilink")
+  - 指令集：[MMX](../Page/MMX.md "wikilink")，[SSE](../Page/SSE.md "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[SSSE3](../Page/SSSE3.md "wikilink")，[SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink")，[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")，[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")，[Intel VT](https://zh.wikipedia.org/wiki/虛擬化技術 "wikilink")
 
 <table>
 <thead>
@@ -1038,12 +996,7 @@ SLGE3 (R0)</p></td>
 
 #### Penryn QC (45 nm)
 
-  - 指令集：[MMX](../Page/MMX.md "wikilink")，[SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[SSSE3](../Page/SSSE3.md "wikilink")，[SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink")，[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink"),
-    [Intel 64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")，[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")，iAMT2 (Intel
-    Active Management), [Intel
-    VT](https://zh.wikipedia.org/wiki/虛擬化技術 "wikilink")，[Intel
-    TXT](https://zh.wikipedia.org/wiki/Intel_TXT "wikilink")
+  - 指令集：[MMX](../Page/MMX.md "wikilink")，[SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[SSSE3](../Page/SSSE3.md "wikilink")，[SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink")，[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink"), [Intel 64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")，[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")，iAMT2 (Intel Active Management), [Intel VT](https://zh.wikipedia.org/wiki/虛擬化技術 "wikilink")，[Intel TXT](https://zh.wikipedia.org/wiki/Intel_TXT "wikilink")
 
 | 型號                | s-Spec 代號  | 時脈頻率               | L2 快取記憶體 | 匯流排速度     | 電壓            | TDP  | 腳座                                                            | 出品日期        |
 | ----------------- | ---------- | ------------------ | -------- | --------- | ------------- | ---- | ------------------------------------------------------------- | ----------- |
@@ -1055,12 +1008,7 @@ SLGE3 (R0)</p></td>
 
 #### Merom XE (65 nm)
 
-  - 指令集：[MMX](../Page/MMX.md "wikilink")，[SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[SSSE3](../Page/SSSE3.md "wikilink")，[SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink")，[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink"),
-    [Intel 64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")，[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")，iAMT2 (Intel
-    Active Management), [Intel
-    VT](https://zh.wikipedia.org/wiki/虛擬化技術 "wikilink")，[Intel
-    TXT](https://zh.wikipedia.org/wiki/Intel_TXT "wikilink")
+  - 指令集：[MMX](../Page/MMX.md "wikilink")，[SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[SSSE3](../Page/SSSE3.md "wikilink")，[SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink")，[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink"), [Intel 64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")，[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")，iAMT2 (Intel Active Management), [Intel VT](https://zh.wikipedia.org/wiki/虛擬化技術 "wikilink")，[Intel TXT](https://zh.wikipedia.org/wiki/Intel_TXT "wikilink")
 
 | 型號                   | s-Spec 代號  | 時脈頻率              | L2 快取記憶體 | 匯流排速度    | 電壓           | TDP  | 腳座                                                            | 出品日期       |
 | -------------------- | ---------- | ----------------- | -------- | -------- | ------------ | ---- | ------------------------------------------------------------- | ---------- |
@@ -1069,12 +1017,7 @@ SLGE3 (R0)</p></td>
 
 #### Penryn XE (45 nm)
 
-  - 指令集：[MMX](../Page/MMX.md "wikilink")，[SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[SSSE3](../Page/SSSE3.md "wikilink")，[SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink")，[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink"),
-    [Intel 64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")，[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")，iAMT2 (Intel
-    Active Management), [Intel
-    VT](https://zh.wikipedia.org/wiki/虛擬化技術 "wikilink")，[Intel
-    TXT](https://zh.wikipedia.org/wiki/Intel_TXT "wikilink")
+  - 指令集：[MMX](../Page/MMX.md "wikilink")，[SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[SSSE3](../Page/SSSE3.md "wikilink")，[SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink")，[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink"), [Intel 64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")，[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")，iAMT2 (Intel Active Management), [Intel VT](https://zh.wikipedia.org/wiki/虛擬化技術 "wikilink")，[Intel TXT](https://zh.wikipedia.org/wiki/Intel_TXT "wikilink")
 
 | 型號                   | s-Spec 代號          | 時脈頻率              | L2 快取記憶體 | 匯流排速度     | 電壓            | TDP  | 腳座                                                            | 出品日期       |
 | -------------------- | ------------------ | ----------------- | -------- | --------- | ------------- | ---- | ------------------------------------------------------------- | ---------- |
@@ -1083,12 +1026,7 @@ SLGE3 (R0)</p></td>
 
 #### Penryn QC XE (45 nm)
 
-  - 指令集：[MMX](../Page/MMX.md "wikilink")，[SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[SSSE3](../Page/SSSE3.md "wikilink")，[SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink")，[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink"),
-    [Intel 64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")，[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")，iAMT2 (Intel
-    Active Management), [Intel
-    VT](https://zh.wikipedia.org/wiki/虛擬化技術 "wikilink")，[Intel
-    TXT](https://zh.wikipedia.org/wiki/Intel_TXT "wikilink")
+  - 指令集：[MMX](../Page/MMX.md "wikilink")，[SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[SSSE3](../Page/SSSE3.md "wikilink")，[SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink")，[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink"), [Intel 64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")，[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")，iAMT2 (Intel Active Management), [Intel VT](https://zh.wikipedia.org/wiki/虛擬化技術 "wikilink")，[Intel TXT](https://zh.wikipedia.org/wiki/Intel_TXT "wikilink")
 
 | 型號                    | s-Spec 代號  | 時脈頻率               | L2 快取記憶體 | 匯流排速度     | 電壓            | TDP  | 腳座                                                            | 出品日期       |
 | --------------------- | ---------- | ------------------ | -------- | --------- | ------------- | ---- | ------------------------------------------------------------- | ---------- |
@@ -1097,15 +1035,11 @@ SLGE3 (R0)</p></td>
 ## 另見
 
   - [英特爾微處理器列表](https://zh.wikipedia.org/wiki/英特爾微處理器列表 "wikilink")
-  - [Intel Core
-    2](https://zh.wikipedia.org/wiki/Intel_Core_2 "wikilink")
-  - [Intel
-    Core微處理器架構](https://zh.wikipedia.org/wiki/Intel_Core微處理器架構 "wikilink")
+  - [Intel Core 2](https://zh.wikipedia.org/wiki/Intel_Core_2 "wikilink")
+  - [Intel Core微處理器架構](https://zh.wikipedia.org/wiki/Intel_Core微處理器架構 "wikilink")
 
 ## 外部連結
 
-  - [Intel Core 2
-    處理器技術資料](http://www.cpu-world.com/CPUs/Core_2/index.html)
+  - [Intel Core 2 處理器技術資料](http://www.cpu-world.com/CPUs/Core_2/index.html)
 
-[Category:Intel_x86處理器](https://zh.wikipedia.org/wiki/Category:Intel_x86處理器 "wikilink")
-[Category:Intel處理器列表](https://zh.wikipedia.org/wiki/Category:Intel處理器列表 "wikilink")
+[Category:Intel_x86處理器](https://zh.wikipedia.org/wiki/Category:Intel_x86處理器 "wikilink") [Category:Intel處理器列表](https://zh.wikipedia.org/wiki/Category:Intel處理器列表 "wikilink")

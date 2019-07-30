@@ -8,9 +8,6 @@
   - **[大卫·里茨马](https://zh.wikipedia.org/wiki/大卫·里茨马 "wikilink")**（，曾执行、以及任务），任务专家
   - **[迈克尔·福奥勒](https://zh.wikipedia.org/wiki/迈克尔·福奥勒 "wikilink")**（，曾执行、、、、以及[远征8号任务](https://zh.wikipedia.org/wiki/远征8号 "wikilink")），任务专家
   - **[拜伦·利希滕贝格](https://zh.wikipedia.org/wiki/拜伦·利希滕贝格 "wikilink")**（，曾执行以及任务），有效载荷专家
-  - **[德克·福里莫特](https://zh.wikipedia.org/wiki/德克·福里莫特 "wikilink")**（，[比利时宇航员](../Page/比利时.md "wikilink")，曾执行任务），有效载荷专家
+  - **[德克·福里莫特](https://zh.wikipedia.org/wiki/德克·福里莫特 "wikilink")**（，[比利时](../Page/比利时.md "wikilink")宇航员，曾执行任务），有效载荷专家
 
-[Category:航天飞机任务](https://zh.wikipedia.org/wiki/Category:航天飞机任务 "wikilink")
-[Category:1992年佛罗里达州](https://zh.wikipedia.org/wiki/Category:1992年佛罗里达州 "wikilink")
-[Category:1992年3月](https://zh.wikipedia.org/wiki/Category:1992年3月 "wikilink")
-[Category:1992年4月](https://zh.wikipedia.org/wiki/Category:1992年4月 "wikilink")
+[Category:航天飞机任务](https://zh.wikipedia.org/wiki/Category:航天飞机任务 "wikilink") [Category:1992年佛罗里达州](https://zh.wikipedia.org/wiki/Category:1992年佛罗里达州 "wikilink") [Category:1992年3月](https://zh.wikipedia.org/wiki/Category:1992年3月 "wikilink") [Category:1992年4月](https://zh.wikipedia.org/wiki/Category:1992年4月 "wikilink")

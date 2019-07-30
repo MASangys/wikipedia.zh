@@ -1,8 +1,8 @@
-**維他命D**也称**抗佝偻病維他命**，是一类脂溶性[維他命](https://zh.wikipedia.org/wiki/維他命 "wikilink")，属[类固醇化合物](https://zh.wikipedia.org/wiki/类固醇 "wikilink")。在人类所需的维他命中，维他命D非常特殊，是一种[激素的前体](../Page/激素.md "wikilink")，而且人一天只要暴露在陽光下10分鐘，人體自身即可合成足夠的维他命D<sub>3</sub>。\[1\]
+**維他命D**也称**抗佝偻病維他命**，是一类脂溶性[維他命](https://zh.wikipedia.org/wiki/維他命 "wikilink")，属[类固醇化合物](https://zh.wikipedia.org/wiki/类固醇 "wikilink")。在人类所需的维他命中，维他命D非常特殊，是一种[激素](../Page/激素.md "wikilink")的前体，而且人一天只要暴露在陽光下10分鐘，人體自身即可合成足夠的维他命D<sub>3</sub>。\[1\]
 
 [血浆维生素D水平](https://zh.wikipedia.org/wiki/血浆 "wikilink")（來自）可以反映[紫外線B照射皮肤合成的和食物摄入的维生素D的总水平](https://zh.wikipedia.org/wiki/紫外線 "wikilink")，而现在认为，人体自身合成的维生素D是人体内获取维生素D的主要途径。[美国饮食营养摄入参考中维生素D摄入标准是假设没有日照](https://zh.wikipedia.org/wiki/美国饮食营养摄入参考 "wikilink")，所有维生素D都取自食物摄取而制定的。
 
-经过肝脏和肾脏的进一步转化，维生素D转化为[骨化三醇](../Page/骨化三醇.md "wikilink")，作为一种[激素重新进入循环](../Page/激素.md "wikilink")，调节[钙和](../Page/钙.md "wikilink")[磷的吸收](../Page/磷.md "wikilink")，促进骨骼的生长和重构，维生素D可以用来预防[小儿佝偻病和](https://zh.wikipedia.org/wiki/佝偻病 "wikilink")[成人骨软化症](https://zh.wikipedia.org/wiki/成人骨软化症 "wikilink")，维生素D与钙合用可以预防老年人[骨质疏松](https://zh.wikipedia.org/wiki/骨质疏松 "wikilink")。维生素D对神经肌肉功能、[炎症都有作用](../Page/炎症.md "wikilink")，还影响许多基因的表达和翻译，调节细胞的[增殖](https://zh.wikipedia.org/wiki/增殖 "wikilink")、[转化和](https://zh.wikipedia.org/wiki/转化 "wikilink")[凋亡](https://zh.wikipedia.org/wiki/凋亡 "wikilink")。\[2\]
+经过肝脏和肾脏的进一步转化，维生素D转化为[骨化三醇](../Page/骨化三醇.md "wikilink")，作为一种[激素](../Page/激素.md "wikilink")重新进入循环，调节[钙](../Page/钙.md "wikilink")和[磷](../Page/磷.md "wikilink")的吸收，促进骨骼的生长和重构，维生素D可以用来预防[小儿佝偻病和](https://zh.wikipedia.org/wiki/佝偻病 "wikilink")[成人骨软化症](https://zh.wikipedia.org/wiki/成人骨软化症 "wikilink")，维生素D与钙合用可以预防老年人[骨质疏松](https://zh.wikipedia.org/wiki/骨质疏松 "wikilink")。维生素D对神经肌肉功能、[炎症](../Page/炎症.md "wikilink")都有作用，还影响许多基因的表达和翻译，调节细胞的[增殖](https://zh.wikipedia.org/wiki/增殖 "wikilink")、[转化和](https://zh.wikipedia.org/wiki/转化 "wikilink")[凋亡](https://zh.wikipedia.org/wiki/凋亡 "wikilink")。\[2\]
 
 在一般人口統計中并沒有一致的證據顯示維生素D對健康影響效果。
 
@@ -16,8 +16,8 @@
 
 | 名称               | 化学名                                                                                                                                                                             | 结构                                                                                                                                 |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| 维生素D<sub>1</sub> | [麦角钙化醇和](../Page/麦角钙化醇.md "wikilink")[光甾醇](https://zh.wikipedia.org/wiki/光甾醇 "wikilink")1:1复合物                                                                                  |                                                                                                                                    |
-| 维生素D<sub>2</sub> | [麦角钙化醇](../Page/麦角钙化醇.md "wikilink") ([麦角固醇形成](../Page/麦角固醇.md "wikilink"))                                                                                                     | [Ergocalciferol.svg](https://zh.wikipedia.org/wiki/File:Ergocalciferol.svg "fig:Ergocalciferol.svg") at top center.\]\]            |
+| 维生素D<sub>1</sub> | [麦角钙化醇](../Page/麦角钙化醇.md "wikilink")和[光甾醇](https://zh.wikipedia.org/wiki/光甾醇 "wikilink")1:1复合物                                                                                  |                                                                                                                                    |
+| 维生素D<sub>2</sub> | [麦角钙化醇](../Page/麦角钙化醇.md "wikilink") ([麦角固醇](../Page/麦角固醇.md "wikilink")形成)                                                                                                     | [Ergocalciferol.svg](https://zh.wikipedia.org/wiki/File:Ergocalciferol.svg "fig:Ergocalciferol.svg") at top center.\]\]            |
 | 维生素D<sub>3</sub> | [膽鈣化醇](../Page/胆钙化醇.md "wikilink")([7-脱氢胆固醇在皮肤上形成](https://zh.wikipedia.org/wiki/7-脱氢胆固醇 "wikilink")) [骨化三醇](../Page/骨化三醇.md "wikilink")(1,25-二羥膽鈣化醇，维生素D<sub>3</sub>的在體內的活性形式) | [Cholecalciferol.svg](https://zh.wikipedia.org/wiki/File:Cholecalciferol.svg "fig:Cholecalciferol.svg")                            |
 | 维生素D<sub>4</sub> | [22-二氢麦角钙化醇](https://zh.wikipedia.org/wiki/22-二氢麦角钙化醇 "wikilink")                                                                                                               | [22-Dihydroergocalciferol.png](https://zh.wikipedia.org/wiki/File:22-Dihydroergocalciferol.png "fig:22-Dihydroergocalciferol.png") |
 | 维生素D<sub>5</sub> | [谷钙化醇](https://zh.wikipedia.org/wiki/谷钙化醇 "wikilink")(7-[脱氢谷甾醇形成](https://zh.wikipedia.org/wiki/脱氢谷甾醇 "wikilink"))                                                              | [Vitamin_D5_structure.svg](https://zh.wikipedia.org/wiki/File:Vitamin_D5_structure.svg "fig:Vitamin_D5_structure.svg")           |
@@ -36,22 +36,17 @@
 
 ### 皮肤合成
 
-[Skinlayers.png](https://zh.wikipedia.org/wiki/File:Skinlayers.png "fig:Skinlayers.png")
-皮肤合成：
+[Skinlayers.png](https://zh.wikipedia.org/wiki/File:Skinlayers.png "fig:Skinlayers.png") 皮肤合成：
 
-7-脱氢胆固醇在波长在270-300纳米(峰值295-297纳米)之间的紫外线照射下可以变构转化为维生素D3\[9\]，在阳光中的紫外线指数(夜间的紫外线指数为0，热带、高原地区、晴天时的紫外线指数为15——译者注)大于3时或者在日光浴灯下，才会有这种能发挥作用的紫外线。日光浴灯产生的紫外线大多数是长波的A型紫外线，而产生维生素D3所需要的中波紫外线(B型紫外线)之占其中4-10%，从地域上说，热带地区人们天天都可以产生维生素D3，温带地区的人们春夏季节也可以，而极地地区的人们，紫外线强度几乎不可能使之产生维生素D3.\[10\]
-似乎血清25(OH)D的平均浓度的差异应该随纬度升高而降低，但是实际上并不和预想那样一致，比如在夏天，加拿大北部地区的日照强度和时间综合起来比赤道地区还要强，而且，高纬度地区在春季夏季抑或秋季机体都有可能形成并储存足够的维生素D，UVB产生的维生素D(异构作用，非酶促反应，没法控制)功能非常强大，以至于皮肤形成的多余的维生素D3必须及时降解掉，以免产生毒性。最终使维生素D的合成和降解达到平衡状态。\[11\]
+7-脱氢胆固醇在波长在270-300纳米(峰值295-297纳米)之间的紫外线照射下可以变构转化为维生素D3\[9\]，在阳光中的紫外线指数(夜间的紫外线指数为0，热带、高原地区、晴天时的紫外线指数为15——译者注)大于3时或者在日光浴灯下，才会有这种能发挥作用的紫外线。日光浴灯产生的紫外线大多数是长波的A型紫外线，而产生维生素D3所需要的中波紫外线(B型紫外线)之占其中4-10%，从地域上说，热带地区人们天天都可以产生维生素D3，温带地区的人们春夏季节也可以，而极地地区的人们，紫外线强度几乎不可能使之产生维生素D3.\[10\] 似乎血清25(OH)D的平均浓度的差异应该随纬度升高而降低，但是实际上并不和预想那样一致，比如在夏天，加拿大北部地区的日照强度和时间综合起来比赤道地区还要强，而且，高纬度地区在春季夏季抑或秋季机体都有可能形成并储存足够的维生素D，UVB产生的维生素D(异构作用，非酶促反应，没法控制)功能非常强大，以至于皮肤形成的多余的维生素D3必须及时降解掉，以免产生毒性。最终使维生素D的合成和降解达到平衡状态。\[11\]
 
 皮肤分为两层：内层为真皮层，主要由结缔组织形成；外层为表皮层，在厚厚的脚掌和手掌，表皮层又分为五层，自外而内是:角化层、透明层、粒层、棘皮层和基底层，维生素D就在棘皮层和基底层细胞中合成，
 
-胆骨化醇主要由7-脱氢胆固醇经紫外线照射形成，7-脱氢胆固醇的合成在大多数脊椎动物，包括人类皮肤细胞中都非常旺盛。\[12\]而裸鼹鼠似乎生来缺乏胆骨化醇\[13\]，因为其血液中测不出25(OH)D,对某些动物来说，厚厚的毛皮阻挡住紫外线，而这些鸟兽也有自己的办法，它们把7-脱氢胆固醇分泌到毛皮表面，合成维生素D3后再自己舔回肚子里去。
-\[14\]
+胆骨化醇主要由7-脱氢胆固醇经紫外线照射形成，7-脱氢胆固醇的合成在大多数脊椎动物，包括人类皮肤细胞中都非常旺盛。\[12\]而裸鼹鼠似乎生来缺乏胆骨化醇\[13\]，因为其血液中测不出25(OH)D,对某些动物来说，厚厚的毛皮阻挡住紫外线，而这些鸟兽也有自己的办法，它们把7-脱氢胆固醇分泌到毛皮表面，合成维生素D3后再自己舔回肚子里去。 \[14\]
 
 ## 作用机理
 
-[Calcium_regulation.png](https://zh.wikipedia.org/wiki/File:Calcium_regulation.png "fig:Calcium_regulation.png")
-in the human body.\[15\] The role of vitamin D is shown in
-orange.(鈣在人體中的調節，維生素D的作用以橙色顯示)。\]\]
+[Calcium_regulation.png](https://zh.wikipedia.org/wiki/File:Calcium_regulation.png "fig:Calcium_regulation.png") in the human body.\[15\] The role of vitamin D is shown in orange.(鈣在人體中的調節，維生素D的作用以橙色顯示)。\]\]
 
 维生素D通过血流输送到肝脏，在那里转化为激素前体骨化二醇，循环中的骨化二醇在肾脏和单核巨噬细胞系统中转化为骨化三醇，从而成为具有生物活性的维生素D，而在免疫系统中，骨化三醇(1,25(OH)D)发挥着细胞因子的作用，保护机体抵抗微生物入侵。\[16\]肾脏将骨化二醇转化为骨化三醇释放入血，与维生素的结合蛋白结合，转运到靶器官。\[17\]
 
@@ -76,17 +71,11 @@ VDR除了可以激活某些基因外，还有其他一些作用机理已经阐�
 
 ## 历史
 
-1913年，美国科学家[Elmer
-McCollum和](https://zh.wikipedia.org/wiki/Elmer_McCollum "wikilink")[Marguerite
-Davis在鱼肝油里发现了一种物质](https://zh.wikipedia.org/wiki/Marguerite_Davis "wikilink")，起名叫“脂溶性维生素A”，后来，英国医生EdwardMellanby发现，喂了鱼肝油的狗不会得佝偻病，于是得出结论维生素A或者其协同因子可以预防佝偻病。1921年Elmer
-McCollum使用破坏掉鱼肝油中维生素A做同样的实验，结果相同，说明抗佝偻病并非维生素A所为。\[28\]\[29\]\[30\]
-他将其命名为维生素D，即第四种维生素。当时的人们还不知道其与其他人体无法自身合成的维生素不同，只要有紫外线，人体自己就可以合成维生素D。
+1913年，美国科学家[Elmer McCollum和](https://zh.wikipedia.org/wiki/Elmer_McCollum "wikilink")[Marguerite Davis在鱼肝油里发现了一种物质](https://zh.wikipedia.org/wiki/Marguerite_Davis "wikilink")，起名叫“脂溶性维生素A”，后来，英国医生EdwardMellanby发现，喂了鱼肝油的狗不会得佝偻病，于是得出结论维生素A或者其协同因子可以预防佝偻病。1921年Elmer McCollum使用破坏掉鱼肝油中维生素A做同样的实验，结果相同，说明抗佝偻病并非维生素A所为。\[28\]\[29\]\[30\] 他将其命名为维生素D，即第四种维生素。当时的人们还不知道其与其他人体无法自身合成的维生素不同，只要有紫外线，人体自己就可以合成维生素D。
 
-1923年，人们知道7-脱氢胆固醇经紫外线照射可以形成一种脂溶性维生素(现在知道是D3)，Alfred Fabian
-Hess甚至指出“阳光既是维生素”。\[31\]德国哥廷根大学教授AdolfWindaus与1928年荣获诺贝尔奖，以表彰其在研究固醇与维生素关系的工作。\[32\]到了三十年代，他又成功的研究出维生素D的化学结构。\[33\]
+1923年，人们知道7-脱氢胆固醇经紫外线照射可以形成一种脂溶性维生素(现在知道是D3)，Alfred Fabian Hess甚至指出“阳光既是维生素”。\[31\]德国哥廷根大学教授AdolfWindaus与1928年荣获诺贝尔奖，以表彰其在研究固醇与维生素关系的工作。\[32\]到了三十年代，他又成功的研究出维生素D的化学结构。\[33\]
 
-1923年威斯康辛大学[Harry
-Steenbock证明了用紫外线照射食物和其他有机物可以提高其中的维生素D含量](https://zh.wikipedia.org/wiki/Harry_Steenbock "wikilink")，\[34\]用紫外线照射过兔子的食物，可以治疗兔子的佝偻病。就用自己攒下的300美元为自己申请了专利，Steenbock用自己的技术对食品中的维生素D进行强化，到1945年他的专利权到期时，佝偻病已经在美国绝迹了。\[35\]
+1923年威斯康辛大学[Harry Steenbock证明了用紫外线照射食物和其他有机物可以提高其中的维生素D含量](https://zh.wikipedia.org/wiki/Harry_Steenbock "wikilink")，\[34\]用紫外线照射过兔子的食物，可以治疗兔子的佝偻病。就用自己攒下的300美元为自己申请了专利，Steenbock用自己的技术对食品中的维生素D进行强化，到1945年他的专利权到期时，佝偻病已经在美国绝迹了。\[35\]
 
 ## 工业化生产
 
@@ -105,35 +94,22 @@ Steenbock证明了用紫外线照射食物和其他有机物可以提高其中�
 
 ## 衍生阅读
 
-  - Ross, A.C/Taylor, C.L./Yaktine, A.L./Valle, H.B.D. (editors, 2011)
-    [Dietary Reference Intakes for Calcium and Vitamin
-    D](http://www.nap.edu/catalog.php?record_id=13050). National
-    Academies Press. ISBN 978-0-309-16394-1
-  - Rubin, A.L. (2011). *Vitamin D for Dummies*. Wiley Publishing. ISBN
-    978-0-470-89175-9
-  - [Dietary Supplement Fact Sheet: Vitamin
-    D](http://ods.od.nih.gov/factsheets/vitamind/) from the U.S.
-    [National Institutes of
-    Health](https://zh.wikipedia.org/wiki/National_Institutes_of_Health "wikilink")
-  - [Disagreement among experts about the correct vitamin D
-    dose.](http://www.nature.com/news/2011/110706/pdf/475023a.pdf)
-    (Nature News, July 6, 2011)
+  - Ross, A.C/Taylor, C.L./Yaktine, A.L./Valle, H.B.D. (editors, 2011) [Dietary Reference Intakes for Calcium and Vitamin D](http://www.nap.edu/catalog.php?record_id=13050). National Academies Press. ISBN 978-0-309-16394-1
+  - Rubin, A.L. (2011). *Vitamin D for Dummies*. Wiley Publishing. ISBN 978-0-470-89175-9
+  - [Dietary Supplement Fact Sheet: Vitamin D](http://ods.od.nih.gov/factsheets/vitamind/) from the U.S. [National Institutes of Health](https://zh.wikipedia.org/wiki/National_Institutes_of_Health "wikilink")
+  - [Disagreement among experts about the correct vitamin D dose.](http://www.nature.com/news/2011/110706/pdf/475023a.pdf) (Nature News, July 6, 2011)
 
 {{-}}
 
 [Category:维生素D](https://zh.wikipedia.org/wiki/Category:维生素D "wikilink")
 
-1.
-    穿过窗户的阳光不能帮助人体产生维生素D|url=[https://www.solidot.org/story?sid=59691|work=www.solidot.org|accessdate=2019-03-06](https://www.solidot.org/story?sid=59691%7Cwork=www.solidot.org%7Caccessdate=2019-03-06)}}
+1.   穿过窗户的阳光不能帮助人体产生维生素D|url=[https://www.solidot.org/story?sid=59691|work=www.solidot.org|accessdate=2019-03-06](https://www.solidot.org/story?sid=59691%7Cwork=www.solidot.org%7Caccessdate=2019-03-06)}}
 
 2.
 
-3.  [History of Vitamin D](http://vitamind.ucr.edu/history.html)
-    University of California, Riverside, Vitamin D Workshop.
+3.  [History of Vitamin D](http://vitamind.ucr.edu/history.html)  University of California, Riverside, Vitamin D Workshop.
 
-4.  [About Vitamin D](http://vitamind.ucr.edu/about.html)  Including
-    Sections: History, Nutrition, Chemistry, Biochemistry, and Diseases.
-    University of California Riverside
+4.  [About Vitamin D](http://vitamind.ucr.edu/about.html)  Including Sections: History, Nutrition, Chemistry, Biochemistry, and Diseases. University of California Riverside
 
 5.
 
@@ -145,8 +121,7 @@ Steenbock证明了用紫外线照射食物和其他有机物可以提高其中�
 
 9.
 
-10. [Dietary Reference Intakes for Calcium and Vitamin D
-    (2011)Page 104](http://www.nap.edu/openbook.php?record_id=13050&page=104)
+10. [Dietary Reference Intakes for Calcium and Vitamin D (2011)Page 104](http://www.nap.edu/openbook.php?record_id=13050&page=104)
 
 11.
 
@@ -168,9 +143,7 @@ Steenbock证明了用紫外线照射食物和其他有机物可以提高其中�
 
 21.
 
-22. [Vitamin
-    D](http://www.pdrhealth.com/drug_info/nmdrugprofiles/nutsupdrugs/vit_0265.shtml)
-     The Physicians Desk Reference. 2006 Thompson Healthcare.
+22. [Vitamin D](http://www.pdrhealth.com/drug_info/nmdrugprofiles/nutsupdrugs/vit_0265.shtml)  The Physicians Desk Reference. 2006 Thompson Healthcare.
 
 23.
 
@@ -186,17 +159,9 @@ Steenbock证明了用紫外线照射食物和其他有机物可以提高其中�
 
 29.
 
-30. McClean, Franklin C.; Budy, Ann M. "Vitamin A, Vitamin D, Cartilage,
-    Bones, and Teeth" in Harris, Robert S. (1963). *Vitamins and
-    Hormones*, volume 21, pp. 51–52. London: Academic Press [Partial
-    view](http://books.google.com/books?id=gGb7vm2SapcC&lpg=PA52&pg=PA51#v=onepage)
-    at [Google
-    Books](https://zh.wikipedia.org/wiki/Google_Books "wikilink").
+30. McClean, Franklin C.; Budy, Ann M. "Vitamin A, Vitamin D, Cartilage, Bones, and Teeth" in Harris, Robert S. (1963). *Vitamins and Hormones*, volume 21, pp. 51–52. London: Academic Press [Partial view](http://books.google.com/books?id=gGb7vm2SapcC&lpg=PA52&pg=PA51#v=onepage) at [Google Books](https://zh.wikipedia.org/wiki/Google_Books "wikilink").
 
-31. ["Unraveling The Enigma Of Vitamin
-    D"](http://www.beyonddiscovery.org/content/view.txt.asp?a=414)
-    [United States National Academy of
-    Sciences](https://zh.wikipedia.org/wiki/United_States_National_Academy_of_Sciences "wikilink")
+31. ["Unraveling The Enigma Of Vitamin D"](http://www.beyonddiscovery.org/content/view.txt.asp?a=414)  [United States National Academy of Sciences](https://zh.wikipedia.org/wiki/United_States_National_Academy_of_Sciences "wikilink")
 
 32.
 
@@ -211,6 +176,4 @@ Steenbock证明了用紫外线照射食物和其他有机物可以提高其中�
 37.
 38.
 
-39. Laing, CJ and Cooke, NE. *Vitamin D Binding Protein.* In: **Vitamin
-    D (Vol. 1)** David Feldman, Francis H. Glorieaux, J. Wesley Pike
-    (eds.). Elsevier Press. 2005. pp 117-134.
+39. Laing, CJ and Cooke, NE. *Vitamin D Binding Protein.* In: **Vitamin D (Vol. 1)** David Feldman, Francis H. Glorieaux, J. Wesley Pike (eds.). Elsevier Press. 2005. pp 117-134.

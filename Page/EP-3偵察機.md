@@ -1,6 +1,4 @@
-[EP-3A_EMPASS_VX-1_NAN5-6-83.jpg](https://zh.wikipedia.org/wiki/File:EP-3A_EMPASS_VX-1_NAN5-6-83.jpg "fig:EP-3A_EMPASS_VX-1_NAN5-6-83.jpg")
-**EP-3A/B獵戶式**（EP-3A/B Orion）與**EP-3E白羊I/II型**（EP-3E Aries
-I/II）是一系列主要由[美國海軍所操作](../Page/美國海軍.md "wikilink")，配備有[渦輪推進引擎的信號偵察機](https://zh.wikipedia.org/wiki/渦輪發動機 "wikilink")。它的機身設計取自同廠的[P-3](https://zh.wikipedia.org/wiki/P-3 "wikilink")「獵戶」海上巡邏機，而P-3的設計則取自民航客機。目前美軍共擁有11架EP-3E型偵察機，最後一架於1997年交付。
+[EP-3A_EMPASS_VX-1_NAN5-6-83.jpg](https://zh.wikipedia.org/wiki/File:EP-3A_EMPASS_VX-1_NAN5-6-83.jpg "fig:EP-3A_EMPASS_VX-1_NAN5-6-83.jpg") **EP-3A/B獵戶式**（EP-3A/B Orion）與**EP-3E白羊I/II型**（EP-3E Aries I/II）是一系列主要由[美國海軍](../Page/美國海軍.md "wikilink")所操作，配備有[渦輪推進引擎的信號偵察機](https://zh.wikipedia.org/wiki/渦輪發動機 "wikilink")。它的機身設計取自同廠的[P-3](https://zh.wikipedia.org/wiki/P-3 "wikilink")「獵戶」海上巡邏機，而P-3的設計則取自民航客機。目前美軍共擁有11架EP-3E型偵察機，最後一架於1997年交付。
 
 ## 型號
 
@@ -27,8 +25,7 @@ I/II）是一系列主要由[美國海軍所操作](../Page/美國海軍.md "wik
 
   - [美國海軍](../Page/美國海軍.md "wikilink")
       - VQ-1 中隊 美國[橡港市 (華盛頓州)基地](../Page/橡港市_\(華盛頓州\).md "wikilink")
-      - VQ-2 中隊
-        西班牙[加的斯省基地](https://zh.wikipedia.org/wiki/加的斯省 "wikilink")
+      - VQ-2 中隊 西班牙[加的斯省基地](https://zh.wikipedia.org/wiki/加的斯省 "wikilink")
 
 ## 規格
 
@@ -44,16 +41,11 @@ I/II）是一系列主要由[美國海軍所操作](../Page/美國海軍.md "wik
 
 ## 參考
 
-  - [P-3C fact
-    file](http://www.navy.mil/navydata/fact_display.asp?cid=1100&tid=1400&ct=1)
-    and [P-3 history page on U.S. Navy
-    site](https://web.archive.org/web/20080410114009/http://www.history.navy.mil/planes/p3.htm)
+  - [P-3C fact file](http://www.navy.mil/navydata/fact_display.asp?cid=1100&tid=1400&ct=1) and [P-3 history page on U.S. Navy site](https://web.archive.org/web/20080410114009/http://www.history.navy.mil/planes/p3.htm)
 
   -
-  - [NASA Wallops Flight Facility Aircraft Office operators of the NASA
-    P-3](https://web.archive.org/web/20060103044142/http://wacop.wff.nasa.gov/)
+  - [NASA Wallops Flight Facility Aircraft Office operators of the NASA P-3](https://web.archive.org/web/20060103044142/http://wacop.wff.nasa.gov/)
 
-  - [EP-3E on
-    CombatAircraft.com](http://combataircraft.com/aircraft/sep3e.aspx)
+  - [EP-3E on CombatAircraft.com](http://combataircraft.com/aircraft/sep3e.aspx)
 
 [Category:美國偵察機](https://zh.wikipedia.org/wiki/Category:美國偵察機 "wikilink")

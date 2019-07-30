@@ -1,6 +1,4 @@
-**Beep Media Player**
-(**BMP**)是一個自由的音樂播放器，其建基於[XMMS技術](../Page/XMMS.md "wikilink")。BMP主要是將XMMS重寫成[GTK+
-2的介面](../Page/GTK.md "wikilink")，並加強對[GNOME桌面環境的整合](../Page/GNOME.md "wikilink")。就如XMMS，BMP的外表極像[Winamp](../Page/Winamp.md "wikilink")，而且支援Winamp及XMMS的面板。BMP支援大部份XMMS支援的音訊檔案，而它們的輸入插件最主要的分別在於其在關於及設定的圖形介面。不過BMP不能直接使用全部XMMS的插件。
+**Beep Media Player** (**BMP**)是一個自由的音樂播放器，其建基於[XMMS](../Page/XMMS.md "wikilink")技術。BMP主要是將XMMS重寫成[GTK 2的介面](../Page/GTK.md "wikilink")+，並加強對[GNOME](../Page/GNOME.md "wikilink")桌面環境的整合。就如XMMS，BMP的外表極像[Winamp](../Page/Winamp.md "wikilink")，而且支援Winamp及XMMS的面板。BMP支援大部份XMMS支援的音訊檔案，而它們的輸入插件最主要的分別在於其在關於及設定的圖形介面。不過BMP不能直接使用全部XMMS的插件。
 
 ## 全新版本
 
@@ -8,8 +6,7 @@
 
 ## BMP分支 - [Audacious](../Page/Audacious.md "wikilink")
 
-  - 2005年10月26日，nenolod 把 BMP 0.9.7.1 拿來繼續開發，成為
-    [Audacious](../Page/Audacious.md "wikilink")[1](https://archive.is/20051125011444/http://audacious.nenolod.net/Main_Page)。
+  - 2005年10月26日，nenolod 把 BMP 0.9.7.1 拿來繼續開發，成為 [Audacious](../Page/Audacious.md "wikilink")[1](https://archive.is/20051125011444/http://audacious.nenolod.net/Main_Page)。
 
 官方公佈：
 

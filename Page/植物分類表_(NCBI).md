@@ -440,8 +440,7 @@ NCBI是[美国国家生物技术信息中心](../Page/美国国家生物技术�
 
 ## [被子植物門](https://zh.wikipedia.org/wiki/被子植物門 "wikilink")(Magnoliophyta)
 
-参见[克朗奎斯特分类法和](../Page/克朗奎斯特分类法.md "wikilink")[APG II
-分类法](https://zh.wikipedia.org/wiki/APG_II_分类法 "wikilink")
+参见[克朗奎斯特分类法](../Page/克朗奎斯特分类法.md "wikilink")和[APG II 分类法](https://zh.wikipedia.org/wiki/APG_II_分类法 "wikilink")
 
 ### [雙子葉植物綱](https://zh.wikipedia.org/wiki/雙子葉植物綱 "wikilink")(Dicotyledoneae)
 
@@ -502,7 +501,7 @@ NCBI是[美国国家生物技术信息中心](../Page/美国国家生物技术�
   - [胡椒科](../Page/胡椒科.md "wikilink")（Piperaceae）
   - [三白草科](../Page/三白草科.md "wikilink")（Saururaceae）
 
-#### [真雙子葉植物](https://zh.wikipedia.org/wiki/真雙子葉植物 "wikilink")
+#### [真雙子葉植物](https://zh.wikipedia.org/wiki/真雙子葉植物 "wikilink")(Eudicots)
 
 ##### [黃楊目](../Page/黃楊目.md "wikilink")(Buxales)
 

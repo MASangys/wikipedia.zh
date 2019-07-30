@@ -1,4 +1,4 @@
-**Frengers**為[丹麥樂團](https://zh.wikipedia.org/wiki/丹麥 "wikilink")[Mew於](../Page/Mew.md "wikilink")2003年發行的專輯，是其加入Sony/Epic唱片公司的第一張國際發行唱片。
+**Frengers**為[丹麥樂團](https://zh.wikipedia.org/wiki/丹麥 "wikilink")[Mew](../Page/Mew.md "wikilink")於2003年發行的專輯，是其加入Sony/Epic唱片公司的第一張國際發行唱片。
 
 ## 曲目
 
@@ -70,7 +70,4 @@
 
   - Jonas Bjerre對{{〈}}Wherever{{〉}}的註解
 
-[Category:2003年音樂專輯](https://zh.wikipedia.org/wiki/Category:2003年音樂專輯 "wikilink")
-[Category:Mew音樂專輯](https://zh.wikipedia.org/wiki/Category:Mew音樂專輯 "wikilink")
-[Category:搖滾音樂專輯](https://zh.wikipedia.org/wiki/Category:搖滾音樂專輯 "wikilink")
-[Category:丹麥音樂專輯](https://zh.wikipedia.org/wiki/Category:丹麥音樂專輯 "wikilink")
+[Category:2003年音樂專輯](https://zh.wikipedia.org/wiki/Category:2003年音樂專輯 "wikilink") [Category:Mew音樂專輯](https://zh.wikipedia.org/wiki/Category:Mew音樂專輯 "wikilink") [Category:搖滾音樂專輯](https://zh.wikipedia.org/wiki/Category:搖滾音樂專輯 "wikilink") [Category:丹麥音樂專輯](https://zh.wikipedia.org/wiki/Category:丹麥音樂專輯 "wikilink")

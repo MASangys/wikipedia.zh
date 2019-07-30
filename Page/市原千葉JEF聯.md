@@ -1,9 +1,8 @@
-**市原千葉JEF聯**（，一般稱為**千葉市原**）是一支[日本職業足球隊](../Page/日本.md "wikilink")，屬於[日本乙組職業足球聯賽的球隊之一](https://zh.wikipedia.org/wiki/日本乙組職業足球聯賽 "wikilink")。在日本的愛稱為「ジェフユナイテッド千葉」，即千葉JEF聯。
+**市原千葉JEF聯**（，一般稱為**千葉市原**）是一支[日本](../Page/日本.md "wikilink")職業足球隊，屬於[日本乙組職業足球聯賽的球隊之一](https://zh.wikipedia.org/wiki/日本乙組職業足球聯賽 "wikilink")。在日本的愛稱為「ジェフユナイテッド千葉」，即千葉JEF聯。
 
 ## 簡介
 
-球隊的名字JEF是[東日本旅客鐵道](../Page/東日本旅客鐵道.md "wikilink")（**J**R
-**E**ast）以及（**F**ukukawa）的簡稱。球隊的前身是古河電器工業足球部，1946年成立。他們是當時日本足球聯賽的班霸。1993年日本職業足球成立時加盟，球隊的根據地在[千葉縣](../Page/千葉縣.md "wikilink")[千葉市](../Page/千葉市.md "wikilink")，主場是[千葉市蘇我球技場](https://zh.wikipedia.org/wiki/千葉市蘇我球技場 "wikilink")。[2009年時戰績不理想以最一名降級](../Page/2009年日本職業足球聯賽.md "wikilink")，球隊首次被降級到乙級。
+球隊的名字JEF是[東日本旅客鐵道](../Page/東日本旅客鐵道.md "wikilink")（**J**R **E**ast）以及（**F**ukukawa）的簡稱。球隊的前身是古河電器工業足球部，1946年成立。他們是當時日本足球聯賽的班霸。1993年日本職業足球成立時加盟，球隊的根據地在[千葉縣](../Page/千葉縣.md "wikilink")[千葉市](../Page/千葉市.md "wikilink")，主場是[千葉市蘇我球技場](https://zh.wikipedia.org/wiki/千葉市蘇我球技場 "wikilink")。[2009年時戰績不理想以最一名降級](../Page/2009年日本職業足球聯賽.md "wikilink")，球隊首次被降級到乙級。
 
 ## 球員名單
 
@@ -311,17 +310,14 @@ N-51</p></td>
 
 ### 獲得榮譽（個人榮譽）
 
-  - 1994年 [Frank
-    Ordenewitz](https://zh.wikipedia.org/wiki/Frank_Ordenewitz "wikilink")
-  - 2005年 [Ilian
-    Stoyanov](https://zh.wikipedia.org/wiki/Ilian_Stoyanov "wikilink")・[阿部勇樹](https://zh.wikipedia.org/wiki/阿部勇樹 "wikilink")
+  - 1994年 [Frank Ordenewitz](https://zh.wikipedia.org/wiki/Frank_Ordenewitz "wikilink")
+  - 2005年 [Ilian Stoyanov](https://zh.wikipedia.org/wiki/Ilian_Stoyanov "wikilink")・[阿部勇樹](https://zh.wikipedia.org/wiki/阿部勇樹 "wikilink")
 
 ## 著名前球员
 
   - [马克·米利甘](../Page/马克·米利甘.md "wikilink")
 
-  - [Matthew
-    Bingley](https://zh.wikipedia.org/wiki/Matthew_Bingley "wikilink")
+  - [Matthew Bingley](https://zh.wikipedia.org/wiki/Matthew_Bingley "wikilink")
 
   - [瑪利歐·哈斯](../Page/瑪利歐·哈斯.md "wikilink")
 
@@ -361,6 +357,4 @@ N-51</p></td>
   -
   - [官方網站球隊介紹](http://jefunited.co.jp/top/player/2015/)
 
-[Category:日本足球俱樂部](https://zh.wikipedia.org/wiki/Category:日本足球俱樂部 "wikilink")
-[Category:市原市](https://zh.wikipedia.org/wiki/Category:市原市 "wikilink")
-[Category:千葉市](https://zh.wikipedia.org/wiki/Category:千葉市 "wikilink")
+[Category:日本足球俱樂部](https://zh.wikipedia.org/wiki/Category:日本足球俱樂部 "wikilink") [Category:市原市](https://zh.wikipedia.org/wiki/Category:市原市 "wikilink") [Category:千葉市](https://zh.wikipedia.org/wiki/Category:千葉市 "wikilink")

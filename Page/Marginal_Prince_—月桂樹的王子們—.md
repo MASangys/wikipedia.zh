@@ -1,7 +1,4 @@
-[Majipuri.jpg](https://zh.wikipedia.org/wiki/File:Majipuri.jpg "fig:Majipuri.jpg")
-《**Marginal Prince
-—邊境王子-月桂樹的王子們—**》（）是[日本](../Page/日本.md "wikilink")[手機平台的一款](https://zh.wikipedia.org/wiki/手機 "wikilink")[女性向](../Page/女性向.md "wikilink")[戀愛模擬遊戲](https://zh.wikipedia.org/wiki/戀愛模擬遊戲 "wikilink")，2005年8月開始配信，目前於[NTT
-DoCoMo的](https://zh.wikipedia.org/wiki/NTT_DoCoMo "wikilink")[i-mode平台與](https://zh.wikipedia.org/wiki/i-mode "wikilink")[au的](https://zh.wikipedia.org/wiki/au_\(行動電話\) "wikilink")[EZWeb平台展開服務](https://zh.wikipedia.org/wiki/EZWeb "wikilink")。嶄新的系統與豐富的故事性獲得玩家的廣大好評。本作獲選為第9回[文化廳媒體藝術祭審查委員會特別推薦作品](../Page/文化廳媒體藝術祭.md "wikilink")，在女性向遊戲界是首例。此外也改編成[TV動畫](https://zh.wikipedia.org/wiki/TV動畫 "wikilink")，2006年10月開始放送。
+[Majipuri.jpg](https://zh.wikipedia.org/wiki/File:Majipuri.jpg "fig:Majipuri.jpg") 《**Marginal Prince —邊境王子-月桂樹的王子們—**》（）是[日本](../Page/日本.md "wikilink")[手機平台的一款](https://zh.wikipedia.org/wiki/手機 "wikilink")[女性向](../Page/女性向.md "wikilink")[戀愛模擬遊戲](https://zh.wikipedia.org/wiki/戀愛模擬遊戲 "wikilink")，2005年8月開始配信，目前於[NTT DoCoMo的](https://zh.wikipedia.org/wiki/NTT_DoCoMo "wikilink")[i-mode平台與](https://zh.wikipedia.org/wiki/i-mode "wikilink")[au的](https://zh.wikipedia.org/wiki/au_\(行動電話\) "wikilink")[EZWeb平台展開服務](https://zh.wikipedia.org/wiki/EZWeb "wikilink")。嶄新的系統與豐富的故事性獲得玩家的廣大好評。本作獲選為第9回[文化廳媒體藝術祭](../Page/文化廳媒體藝術祭.md "wikilink")審查委員會特別推薦作品，在女性向遊戲界是首例。此外也改編成[TV動畫](https://zh.wikipedia.org/wiki/TV動畫 "wikilink")，2006年10月開始放送。
 
 ## 概要
 
@@ -9,8 +6,7 @@ DoCoMo的](https://zh.wikipedia.org/wiki/NTT_DoCoMo "wikilink")[i-mode平台與]
 
 ## 角色介紹
 
-  - ****／Joshua Grant（[配音員](../Page/配音員.md "wikilink")
-    [置鮎龍太郎](../Page/置鮎龍太郎.md "wikilink")）
+  - ****／Joshua Grant（[配音員](../Page/配音員.md "wikilink") [置鮎龍太郎](../Page/置鮎龍太郎.md "wikilink")）
 
 <!-- end list -->
 
@@ -48,14 +44,12 @@ DoCoMo的](https://zh.wikipedia.org/wiki/NTT_DoCoMo "wikilink")[i-mode平台與]
 
 <!-- end list -->
 
-  - ****／Henri-Hugues de Saint Germain（配音員
-    [野島健兒](../Page/野島健兒.md "wikilink")）
+  - ****／Henri-Hugues de Saint Germain（配音員 [野島健兒](../Page/野島健兒.md "wikilink")）
 
 <!-- end list -->
 
   -
-    被世人稱為[煉金術師或探鑛師的傳說貴族](../Page/炼金术.md "wikilink")、Saint
-    Germain伯爵的直系後代子孫。母親在生下他後便過世，與父親的關係則十分疏遠。13歲時進入聖Alfonso學院。成績優秀，甚至擁有自行經營的事業。冷酷傲慢的優雅毒舌派，基本上對陌生人完全不信任。
+    被世人稱為[煉金術師或探鑛師的傳說貴族](../Page/炼金术.md "wikilink")、Saint Germain伯爵的直系後代子孫。母親在生下他後便過世，與父親的關係則十分疏遠。13歲時進入聖Alfonso學院。成績優秀，甚至擁有自行經營的事業。冷酷傲慢的優雅毒舌派，基本上對陌生人完全不信任。
       - 17歲，6月6日出生，172cm，[雙子座](https://zh.wikipedia.org/wiki/雙子座 "wikilink")，AB型
       - 興趣：小提琴、劍術、塔羅牌
       - 擅長科目：法律、神秘學、科學、金融工學
@@ -81,7 +75,7 @@ DoCoMo的](https://zh.wikipedia.org/wiki/NTT_DoCoMo "wikilink")[i-mode平台與]
 <!-- end list -->
 
   -
-    祖父是國寶級的[日本舞名家之當家主](../Page/日本.md "wikilink")，母親是[藝妓](https://zh.wikipedia.org/wiki/藝妓 "wikilink")。因為常去母親所工作的日本舞名家之處，所以從小就耳濡目染，對日本舞以及茶道十分熟悉。經歷過一番曲折的幼年時期。16歲時進入聖Alfonso學院。在學校與Alfred一起接受舞蹈以及演戲的課程。與人相處時個別十分隨和。
+    祖父是國寶級的[日本](../Page/日本.md "wikilink")舞名家之當家主，母親是[藝妓](https://zh.wikipedia.org/wiki/藝妓 "wikilink")。因為常去母親所工作的日本舞名家之處，所以從小就耳濡目染，對日本舞以及茶道十分熟悉。經歷過一番曲折的幼年時期。16歲時進入聖Alfonso學院。在學校與Alfred一起接受舞蹈以及演戲的課程。與人相處時個別十分隨和。
       - 17歲，4月29日出生，175cm，[金牛座](../Page/金牛座.md "wikilink")，O型
       - 興趣：茶道、日本舞
       - 擅長科目：建築學、歷史學
@@ -94,7 +88,7 @@ DoCoMo的](https://zh.wikipedia.org/wiki/NTT_DoCoMo "wikilink")[i-mode平台與]
 <!-- end list -->
 
   -
-    於[莫斯科出生](../Page/莫斯科.md "wikilink")，父親是醫生，母親是東歐立陶宛貴族血統家族出身，有一個妹妹。小時候就接受了良好的英才教育，17歲時被送到[美國留學](https://zh.wikipedia.org/wiki/美國 "wikilink")，19歲便於美國的研究所畢業。畢業後前往某國的軍事機關擔任研究人員。6年前進入了聖Alfonso學院擔任保健醫與輔導教師，個性沉穩且冷靜。
+    於[莫斯科](../Page/莫斯科.md "wikilink")出生，父親是醫生，母親是東歐立陶宛貴族血統家族出身，有一個妹妹。小時候就接受了良好的英才教育，17歲時被送到[美國留學](https://zh.wikipedia.org/wiki/美國 "wikilink")，19歲便於美國的研究所畢業。畢業後前往某國的軍事機關擔任研究人員。6年前進入了聖Alfonso學院擔任保健醫與輔導教師，個性沉穩且冷靜。
       - 36歲，11月2日出生，180cm，[天蠍座](https://zh.wikipedia.org/wiki/天蠍座 "wikilink")，AB型，[俄羅斯出身](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")
       - 身份：保健醫生兼心理輔導師
       - 興趣：特雷門演奏
@@ -102,8 +96,7 @@ DoCoMo的](https://zh.wikipedia.org/wiki/NTT_DoCoMo "wikilink")[i-mode平台與]
 
 <!-- end list -->
 
-  - **染谷俊**／Shun Someya（配音員
-    [染谷俊](https://zh.wikipedia.org/wiki/染谷俊 "wikilink")）*註·染谷俊是實際存在的日本鋼琴家，但在遊戲內的人物設定為虛構*
+  - **染谷俊**／Shun Someya（配音員 [染谷俊](https://zh.wikipedia.org/wiki/染谷俊 "wikilink")）*註·染谷俊是實際存在的日本鋼琴家，但在遊戲內的人物設定為虛構*
 
 <!-- end list -->
 
@@ -139,8 +132,7 @@ DoCoMo的](https://zh.wikipedia.org/wiki/NTT_DoCoMo "wikilink")[i-mode平台與]
 <!-- end list -->
 
   -
-    Alfonso島上的計程車駕駛，Joshua入學之前就已經待在島上。對“DEAD
-    PRINCE（）”（Alfred＆Sylvain＆春也的樂團）而言是宛如大哥哥一般的存在。
+    Alfonso島上的計程車駕駛，Joshua入學之前就已經待在島上。對“DEAD PRINCE（）”（Alfred＆Sylvain＆春也的樂團）而言是宛如大哥哥一般的存在。
 
 ## TV動畫
 
@@ -244,12 +236,7 @@ DoCoMo的](https://zh.wikipedia.org/wiki/NTT_DoCoMo "wikilink")[i-mode平台與]
 ## 連結
 
   - [ 官方網站](https://web.archive.org/web/20090220014409/http://mpri.jp/)
-  - [
-    廣播官方網站](https://web.archive.org/web/20061010031010/http://www.mpri.jp/radio/index.html)
-  - [
-    TV動畫官方網站](https://web.archive.org/web/20061026004928/http://www.mpri-a.jp/)
+  - [ 廣播官方網站](https://web.archive.org/web/20061010031010/http://www.mpri.jp/radio/index.html)
+  - [ TV動畫官方網站](https://web.archive.org/web/20061026004928/http://www.mpri-a.jp/)
 
-[Category:2006年UHF動畫](https://zh.wikipedia.org/wiki/Category:2006年UHF動畫 "wikilink")
-[Category:行動電話遊戲](https://zh.wikipedia.org/wiki/Category:行動電話遊戲 "wikilink")
-[Category:少女遊戲](https://zh.wikipedia.org/wiki/Category:少女遊戲 "wikilink")
-[Category:戀愛模擬遊戲](https://zh.wikipedia.org/wiki/Category:戀愛模擬遊戲 "wikilink")
+[Category:2006年UHF動畫](https://zh.wikipedia.org/wiki/Category:2006年UHF動畫 "wikilink") [Category:行動電話遊戲](https://zh.wikipedia.org/wiki/Category:行動電話遊戲 "wikilink") [Category:少女遊戲](https://zh.wikipedia.org/wiki/Category:少女遊戲 "wikilink") [Category:戀愛模擬遊戲](https://zh.wikipedia.org/wiki/Category:戀愛模擬遊戲 "wikilink")

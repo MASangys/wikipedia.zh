@@ -1,11 +1,10 @@
-**株式會社Production
-baobab**（，）是[日本一家位於](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[新宿區](../Page/新宿區.md "wikilink")\[1\]的[聲優](../Page/聲優.md "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")。簡稱「**baobab**」。
+**株式會社Production baobab**（，）是[日本](../Page/日本.md "wikilink")一家位於[東京都](../Page/東京都.md "wikilink")[新宿區](../Page/新宿區.md "wikilink")\[1\]的[聲優](../Page/聲優.md "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")。簡稱「**baobab**」。
 
 ## 概要
 
 ### 歷史
 
-1979年8月1日\[2\]，由[青二Production出身的](../Page/青二製作.md "wikilink")16名聲優及6名工作人員獨立創社。當時主要創立元老是以[富田耕生為中心](../Page/富田耕生.md "wikilink")，參加者有[富山敬](../Page/富山敬.md "wikilink")、[小原乃梨子](../Page/小原乃梨子.md "wikilink")、[神谷明](../Page/神谷明.md "wikilink")、[井上和彥](../Page/井上和彥.md "wikilink")、[肝付兼太](../Page/肝付兼太.md "wikilink")、[緒方賢一](../Page/緒方賢一.md "wikilink")、[吉田理保子](../Page/吉田理保子.md "wikilink")、[千千松幸子](../Page/千千松幸子.md "wikilink")、、[水島裕](../Page/水島裕.md "wikilink")、、[北濱晴子](../Page/北濱晴子.md "wikilink")、[野澤雅子](../Page/野澤雅子.md "wikilink")、[三矢雄二](../Page/三矢雄二.md "wikilink")、[基頓山田等人](../Page/山田俊司.md "wikilink")。
+1979年8月1日\[2\]，由[青二Production出身的](../Page/青二製作.md "wikilink")16名聲優及6名工作人員獨立創社。當時主要創立元老是以[富田耕生](../Page/富田耕生.md "wikilink")為中心，參加者有[富山敬](../Page/富山敬.md "wikilink")、[小原乃梨子](../Page/小原乃梨子.md "wikilink")、[神谷明](../Page/神谷明.md "wikilink")、[井上和彥](../Page/井上和彥.md "wikilink")、[肝付兼太](../Page/肝付兼太.md "wikilink")、[緒方賢一](../Page/緒方賢一.md "wikilink")、[吉田理保子](../Page/吉田理保子.md "wikilink")、[千千松幸子](../Page/千千松幸子.md "wikilink")、、[水島裕](../Page/水島裕.md "wikilink")、、[北濱晴子](../Page/北濱晴子.md "wikilink")、[野澤雅子](../Page/野澤雅子.md "wikilink")、[三矢雄二](../Page/三矢雄二.md "wikilink")、[基頓山田等人](../Page/山田俊司.md "wikilink")。
 
 另外，該經紀公司的名稱是由清水鞠所決定的，其靈感來自法國小說《[小王子](../Page/小王子.md "wikilink")》作品中出現和劇情所用到的[baobab](https://zh.wikipedia.org/wiki/猴麵包樹 "wikilink")，而且是主要生長於[稀樹草原](https://zh.wikipedia.org/wiki/稀樹草原 "wikilink")（savanna）地帶的[植物](../Page/植物.md "wikilink")\[3\]。
 
@@ -13,12 +12,9 @@ baobab**（，）是[日本一家位於](../Page/日本.md "wikilink")[東京都
 
 ### 其它
 
-baobab擁有附屬聲優培訓學校「B·A·O」，其中現在baobab所屬的第一線聲優[兒玉明日美和](https://zh.wikipedia.org/wiki/兒玉明日美 "wikilink")[金元壽子都是從該培訓學校畢業](../Page/金元壽子.md "wikilink")。並有專用錄音工作室「a
-Spring Studio」。
+baobab擁有附屬聲優培訓學校「B·A·O」，其中現在baobab所屬的第一線聲優[兒玉明日美和](https://zh.wikipedia.org/wiki/兒玉明日美 "wikilink")[金元壽子](../Page/金元壽子.md "wikilink")都是從該培訓學校畢業。並有專用錄音工作室「a Spring Studio」。
 
-還有，baobab學園（<small></small>）是現在Visual
-Space演員培訓學校（<small></small>）的前身，而baobab學園本身是（現名劇團雙六）門下的培訓學校。因此，自從B·A·O成立之後，與Visual
-Space演員培訓學校目前並無直接關係。
+還有，baobab學園（<small></small>）是現在Visual Space演員培訓學校（<small></small>）的前身，而baobab學園本身是（現名劇團雙六）門下的培訓學校。因此，自從B·A·O成立之後，與Visual Space演員培訓學校目前並無直接關係。
 
 baobab自從成立以來，雖然大多作品的角色配音大半由baobab所屬聲優包辦，卻在工作人員列表的聲優協力很少出現該baobab公司的名稱，不過除了《[未來機械人達爾達尼亞斯](../Page/巨獸王.md "wikilink")》或《[科學小飛喵](https://zh.wikipedia.org/wiki/蒙面貓俠 "wikilink")》這2齣電視動畫例外。
 
@@ -40,18 +36,16 @@ baobab事務所的官方網站同時有架設官方部落格『bao通信（<smal
 
   - （1979年11月21日，德國樂隊[成吉思汗同名歌曲的日語翻唱版](../Page/成吉思汗_\(樂隊\).md "wikilink")，日文歌詞翻譯：　規格編號：GK-364）
 
-      - 曾經榮登[Oricon公信榜單曲最高排名第](../Page/Oricon公信榜.md "wikilink")80名\[6\]。
+      - 曾經榮登[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")單曲最高排名第80名\[6\]。
       - 另外日文版[歌詞則是完全無視原始歌詞](https://zh.wikipedia.org/wiki/歌詞 "wikilink")，而是依據[莫斯科奧運填詞而成](https://zh.wikipedia.org/wiki/1980年夏季奧林匹克運動會 "wikilink")，其中一部份內容跟當時成員所演出的的動畫角色有所關連。
       - 該歌曲後來CD化時，現在還能在《歌編 富》以及《/MF 超空想》這2張獨立CD裡聽到。
-      - 至於B面收錄由富田耕生與富山敬翻唱的歌曲「」（日文歌詞翻譯：，英文版請參照「」
-        ）第一次問世的時間是在1914年，1950年曾被作為電影《》的知名主題曲使用，由[德琵·雷諾和](../Page/德琵·雷諾.md "wikilink")主唱。
+      - 至於B面收錄由富田耕生與富山敬翻唱的歌曲「」（日文歌詞翻譯：，英文版請參照「」 ）第一次問世的時間是在1914年，1950年曾被作為電影《》的知名主題曲使用，由[德琵·雷諾](../Page/德琵·雷諾.md "wikilink")和主唱。
 
   - OH！（1980年，成吉思汗歌曲「Samurai」的日語翻唱版，日文歌詞翻譯：藤公之介　規格編號：GK-392）
 
       - B面收錄的是富山敬的主唱歌曲「」（作詞：藤公之介、作曲：）。
 
-後來在2017年，發行了聲優組合「」（由[井上和彥](../Page/井上和彥.md "wikilink")、[三矢雄二](../Page/三矢雄二.md "wikilink")、[水島裕共](../Page/水島裕.md "wikilink")3人組成）的同名歌曲翻唱版，並收錄在專輯《FULL
-Labs ～未早！～》裡。
+後來在2017年，發行了聲優組合「」（由[井上和彥](../Page/井上和彥.md "wikilink")、[三矢雄二](../Page/三矢雄二.md "wikilink")、[水島裕](../Page/水島裕.md "wikilink")共3人組成）的同名歌曲翻唱版，並收錄在專輯《FULL Labs ～未早！～》裡。
 
   - 專輯
 
@@ -72,11 +66,9 @@ Labs ～未早！～》裡。
 <!-- end list -->
 
   - 王耳（1980年2月 規格編號：SKS-104）
-      - [音樂劇](../Page/音樂劇.md "wikilink")「王耳」原聲音樂。全部以baobob
-        singers名義，收錄了「王耳」「」「前夜祭」等歌曲。
+      - [音樂劇](../Page/音樂劇.md "wikilink")「王耳」原聲音樂。全部以baobob singers名義，收錄了「王耳」「」「前夜祭」等歌曲。
 
-至於雙CD版「王耳」後來在1996年發行的『山本正之作品大全集』中（[日本華納音樂](../Page/日本華納音樂.md "wikilink")
-規格編號：WPC6-8255）中收錄。
+至於雙CD版「王耳」後來在1996年發行的『山本正之作品大全集』中（[日本華納音樂](../Page/日本華納音樂.md "wikilink") 規格編號：WPC6-8255）中收錄。
 
 ## 所屬聲優
 
@@ -376,11 +368,9 @@ Labs ～未早！～》裡。
 
   - （現所屬：[Bell Production](../Page/Bell_Production.md "wikilink")）
 
-  - [石野龍三](../Page/石野龍三.md "wikilink")（現所屬：[81
-    Produce](../Page/81_Produce.md "wikilink")）
+  - [石野龍三](../Page/石野龍三.md "wikilink")（現所屬：[81 Produce](../Page/81_Produce.md "wikilink")）
 
-  - （現所屬：[WITH
-    LINE](https://zh.wikipedia.org/wiki/EARLY_WING#WITH_LINE "wikilink")）
+  - （現所屬：[WITH LINE](https://zh.wikipedia.org/wiki/EARLY_WING#WITH_LINE "wikilink")）
 
   - [井上和彥](../Page/井上和彥.md "wikilink")（現所屬：）
 
@@ -420,8 +410,7 @@ Labs ～未早！～》裡。
   - [神谷明](../Page/神谷明.md "wikilink")（現所屬：冴羽商事代表）
 
   -
-  - [川村拓央](../Page/川村拓央.md "wikilink")（現所屬：[Bell
-    Production](../Page/Bell_Production.md "wikilink")）
+  - [川村拓央](../Page/川村拓央.md "wikilink")（現所屬：[Bell Production](../Page/Bell_Production.md "wikilink")）
 
   - （現所屬：）
 
@@ -442,11 +431,9 @@ Labs ～未早！～》裡。
 
   - （現所屬：[Yellow-Tail](../Page/Yellow-Tail.md "wikilink")）
 
-  - [子安武人](../Page/子安武人.md "wikilink")（現所屬：[T's
-    Factory代表](https://zh.wikipedia.org/wiki/子安武人#T's_Facory "wikilink")）
+  - [子安武人](../Page/子安武人.md "wikilink")（現所屬：[T's Factory代表](https://zh.wikipedia.org/wiki/子安武人#T's_Facory "wikilink")）
 
-  - [金野潤](../Page/金野潤.md "wikilink")（現所屬：[Mausu
-    Promotion](../Page/Mausu_Promotion.md "wikilink")）
+  - [金野潤](../Page/金野潤.md "wikilink")（現所屬：[Mausu Promotion](../Page/Mausu_Promotion.md "wikilink")）
 
 <!-- end list -->
 
@@ -468,8 +455,7 @@ Labs ～未早！～》裡。
   - （自由職業）
 
   -
-  - [杉山紀彰](../Page/杉山紀彰.md "wikilink")（現所屬：[Stay
-    Luck](../Page/Stay_Luck.md "wikilink")）
+  - [杉山紀彰](../Page/杉山紀彰.md "wikilink")（現所屬：[Stay Luck](../Page/Stay_Luck.md "wikilink")）
 
   - [鈴木勝美](../Page/鈴木勝美.md "wikilink")（現所屬：81 Produce）
 
@@ -502,8 +488,7 @@ Labs ～未早！～》裡。
 
   - （現所屬：[EARLY WING](../Page/EARLY_WING.md "wikilink")）
 
-  - [寺島拓篤](../Page/寺島拓篤.md "wikilink")（現所屬：[AXL
-    ONE](../Page/AXL_ONE.md "wikilink")）
+  - [寺島拓篤](../Page/寺島拓篤.md "wikilink")（現所屬：[AXL ONE](../Page/AXL_ONE.md "wikilink")）
 
   - [富山敬](../Page/富山敬.md "wikilink")（在籍中死去）
 
@@ -535,8 +520,7 @@ Labs ～未早！～》裡。
   - （現所屬：ARTSVISION）
 
   -
-  - [速水獎](../Page/速水獎.md "wikilink")（現所屬：[Rush
-    Style](http://rushstyle.net/)代表）
+  - [速水獎](../Page/速水獎.md "wikilink")（現所屬：[Rush Style](http://rushstyle.net/)代表）
 
   - [日野聰](../Page/日野聰.md "wikilink")（現所屬：AXL ONE）
 
@@ -554,8 +538,7 @@ Labs ～未早！～》裡。
 
   - （移籍Kenyu Office之後於在籍中死去）
 
-  - [宝龜克壽](https://zh.wikipedia.org/wiki/宝龜克壽 "wikilink")（現所屬：Kenyu
-    Office）
+  - [宝龜克壽](https://zh.wikipedia.org/wiki/宝龜克壽 "wikilink")（現所屬：Kenyu Office）
 
   - [堀內賢雄](../Page/堀內賢雄.md "wikilink")（現所屬：Kenyu Office代表）
 
@@ -571,13 +554,11 @@ Labs ～未早！～》裡。
 
   - （現所屬：[UE ENTERTAINMENT](http://ue-e.com/)）
 
-  - [松本保典](../Page/松本保典.md "wikilink")（現所屬：[Sigma
-    Seven](../Page/Sigma_Seven.md "wikilink")）
+  - [松本保典](../Page/松本保典.md "wikilink")（現所屬：[Sigma Seven](../Page/Sigma_Seven.md "wikilink")）
 
   - [水島大宙](../Page/水島大宙.md "wikilink")（現所屬：AXL ONE）
 
-  - [水島裕](../Page/水島裕.md "wikilink")（現所屬：[Knot
-    Communications](http://www.knot-com.com/)）
+  - [水島裕](../Page/水島裕.md "wikilink")（現所屬：[Knot Communications](http://www.knot-com.com/)）
 
   - [三矢雄二](../Page/三矢雄二.md "wikilink")（現所屬：[Combination](../Page/Combination_\(聲優事務所\).md "wikilink")）
 
@@ -631,8 +612,7 @@ Labs ～未早！～》裡。
   -
   - [荒井靜香](../Page/荒井靜香.md "wikilink")（現所屬：）
 
-  - [五十嵐麗](../Page/五十嵐麗.md "wikilink")（現所屬：[Rush
-    Style](http://rushstyle.net/)）
+  - [五十嵐麗](../Page/五十嵐麗.md "wikilink")（現所屬：[Rush Style](http://rushstyle.net/)）
 
   - [伊倉一惠](../Page/伊倉一惠.md "wikilink")（現所屬：[青二Production](../Page/青二製作.md "wikilink")）
 
@@ -829,8 +809,7 @@ Labs ～未早！～》裡。
 
 <!-- end list -->
 
-  - [矢島晶子](../Page/矢島晶子.md "wikilink")（自由職業、[AIR
-    AGENCY](../Page/AIR_AGENCY.md "wikilink")（業務提攜））
+  - [矢島晶子](../Page/矢島晶子.md "wikilink")（自由職業、[AIR AGENCY](../Page/AIR_AGENCY.md "wikilink")（業務提攜））
 
   -
   -
@@ -857,8 +836,7 @@ Labs ～未早！～》裡。
 按創辦年份順序排列：
 
   - [81 Produce](../Page/81_Produce.md "wikilink")（1981年）
-  - [T's
-    Factory](https://zh.wikipedia.org/wiki/子安武人#T's_Factory "wikilink")（1999年）
+  - [T's Factory](https://zh.wikipedia.org/wiki/子安武人#T's_Factory "wikilink")（1999年）
   - [Kenyu Office](../Page/Kenyu_Office.md "wikilink")（2002年）
 
 ## 參考來源
@@ -870,31 +848,21 @@ Labs ～未早！～》裡。
 
   - [株式會社Production baobab公式官網](http://pro-baobab.jp/)
 
-  - [bao通信](http://ameblo.jp/baobab-staff/)（株式會社Production
-    baobab官方網誌，2011年10月啟用，由所屬工作人員更新）
+  - [bao通信](http://ameblo.jp/baobab-staff/)（株式會社Production baobab官方網誌，2011年10月啟用，由所屬工作人員更新）
 
   -
 
-[Category:Production_baobab](https://zh.wikipedia.org/wiki/Category:Production_baobab "wikilink")
-[Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink")
-[Category:新宿區公司](https://zh.wikipedia.org/wiki/Category:新宿區公司 "wikilink")
-[Category:1979年成立的公司](https://zh.wikipedia.org/wiki/Category:1979年成立的公司 "wikilink")
+[Category:Production_baobab](https://zh.wikipedia.org/wiki/Category:Production_baobab "wikilink") [Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink") [Category:新宿區公司](https://zh.wikipedia.org/wiki/Category:新宿區公司 "wikilink") [Category:1979年成立的公司](https://zh.wikipedia.org/wiki/Category:1979年成立的公司 "wikilink")
 
 1.
 
 2.
-3.  [野澤雅子](../Page/野澤雅子.md "wikilink")「第2章 優『野雅子』誕生\!\! 青二」《我是聲優。》，[Opto
-    Communications](http://www.optocomm.co.jp/) 出版，1995年11月19日發行，第78頁
-    ISBN 4-07-217886-1
+3.  [野澤雅子](../Page/野澤雅子.md "wikilink")「第2章 優『野雅子』誕生\!\! 青二」《我是聲優。》，[Opto Communications](http://www.optocomm.co.jp/) 出版，1995年11月19日發行，第78頁 ISBN 4-07-217886-1
 
-4.  「VOICE
-    TOPICS」《[Animage](../Page/Animage.md "wikilink")》1984年8月號，[德間書店](../Page/德間書店.md "wikilink")，第133頁。
+4.  「VOICE TOPICS」《[Animage](../Page/Animage.md "wikilink")》1984年8月號，[德間書店](../Page/德間書店.md "wikilink")，第133頁。
 
-5.  「ANIME JOURNAL
-    央合併\!\!」《[Animedia](../Page/Animedia.md "wikilink")》1984年5月號，[學習研究社](../Page/學研控股.md "wikilink")，第120頁。
+5.  「ANIME JOURNAL 央合併\!\!」《[Animedia](../Page/Animedia.md "wikilink")》1984年5月號，[學習研究社](../Page/學研控股.md "wikilink")，第120頁。
 
-6.  《Oricon排行書：1968－1997》，[Oricon出版](../Page/Oricon公信榜.md "wikilink")，1997年發行，第265頁
-    ISBN 4-87131-041-8。
+6.  《Oricon排行書：1968－1997》，[Oricon出版](../Page/Oricon公信榜.md "wikilink")，1997年發行，第265頁 ISBN 4-87131-041-8。
 
-7.  《Oricon排行書 LP編 昭和45年－平成1年》，Original confidence，1990年發行，第237頁 ISBN
-    4871310256
+7.  《Oricon排行書 LP編 昭和45年－平成1年》，Original confidence，1990年發行，第237頁 ISBN 4871310256

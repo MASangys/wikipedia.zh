@@ -1,57 +1,36 @@
-**Maggie
-Q**（，；），父亲是[爱尔兰裔美国人](https://zh.wikipedia.org/wiki/爱尔兰裔美国人 "wikilink")，母亲是[越南人](https://zh.wikipedia.org/wiki/越南人 "wikilink")，生于[夏威夷州](../Page/夏威夷州.md "wikilink")[檀香山](../Page/檀香山.md "wikilink")，[香港](../Page/香港.md "wikilink")[模特](https://zh.wikipedia.org/wiki/模特 "wikilink")、女演员，成名后已回美發展，现为一线美剧演员。
+**Maggie Q**（，；），父亲是[爱尔兰裔美国人](https://zh.wikipedia.org/wiki/爱尔兰裔美国人 "wikilink")，母亲是[越南人](https://zh.wikipedia.org/wiki/越南人 "wikilink")，生于[夏威夷州](../Page/夏威夷州.md "wikilink")[檀香山](../Page/檀香山.md "wikilink")，[香港](../Page/香港.md "wikilink")[模特](https://zh.wikipedia.org/wiki/模特 "wikilink")、女演员，成名后已回美發展，现为一线美剧演员。
 
 ## 生平
 
 ### 早年生活
 
-Maggie
-Q的父亲是[爱尔兰和](../Page/爱尔兰.md "wikilink")[波兰血统的](https://zh.wikipedia.org/wiki/波兰 "wikilink")[美国人](https://zh.wikipedia.org/wiki/美国人 "wikilink")，派驻[越南时与其母相识结婚](https://zh.wikipedia.org/wiki/越南 "wikilink")，后定居[夏威夷州](../Page/夏威夷州.md "wikilink")[檀香山](../Page/檀香山.md "wikilink")，育有五个子女；因此她既拥有带有爱尔兰姓氏的英文名Margaret
-Denise Quigley（玛格丽特·丹尼斯·奎格利），又拥有越文名Lý Mỹ Kỳ（李美琪）\[1\]\[2\]。
+Maggie Q的父亲是[爱尔兰](../Page/爱尔兰.md "wikilink")和[波兰血统的](https://zh.wikipedia.org/wiki/波兰 "wikilink")[美国人](https://zh.wikipedia.org/wiki/美国人 "wikilink")，派驻[越南时与其母相识结婚](https://zh.wikipedia.org/wiki/越南 "wikilink")，后定居[夏威夷州](../Page/夏威夷州.md "wikilink")[檀香山](../Page/檀香山.md "wikilink")，育有五个子女；因此她既拥有带有爱尔兰姓氏的英文名Margaret Denise Quigley（玛格丽特·丹尼斯·奎格利），又拥有越文名Lý Mỹ Kỳ（李美琪）\[1\]\[2\]。
 
-Maggie
-在畢業而完成基礎教育後，便獨自旅行到[日本](../Page/日本.md "wikilink")，投入[模特兒行業](../Page/模特兒.md "wikilink")，後轉至[臺灣](../Page/臺灣.md "wikilink")、[香港發展](../Page/香港.md "wikilink")\[3\]\[4\]，1998年獲得第一次的電視演出機會。
+Maggie 在畢業而完成基礎教育後，便獨自旅行到[日本](../Page/日本.md "wikilink")，投入[模特兒](../Page/模特兒.md "wikilink")行業，後轉至[臺灣](../Page/臺灣.md "wikilink")、[香港](../Page/香港.md "wikilink")發展\[3\]\[4\]，1998年獲得第一次的電視演出機會。
 
 ### 職業生涯
 
-Maggie
-剛開始是在[香港演出](../Page/香港.md "wikilink")，但由於她不熟[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")，所以參與演出的電影，不是使用[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")，就是採用[配音](../Page/配音.md "wikilink")；Maggie
-為能使用中文演出，曾學習[漢語普通话與](https://zh.wikipedia.org/wiki/漢語普通话 "wikilink")[粵語](https://zh.wikipedia.org/wiki/粵語 "wikilink")。
+Maggie 剛開始是在[香港](../Page/香港.md "wikilink")演出，但由於她不熟[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")，所以參與演出的電影，不是使用[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")，就是採用[配音](../Page/配音.md "wikilink")；Maggie 為能使用中文演出，曾學習[漢語普通话與](https://zh.wikipedia.org/wiki/漢語普通话 "wikilink")[粵語](https://zh.wikipedia.org/wiki/粵語 "wikilink")。
 
-2000年，Maggie
-首次擔綱演出電影《[特警新人類2機動任務](https://zh.wikipedia.org/wiki/特警新人類2機動任務 "wikilink")》，飾演一位從[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[FBI派往](https://zh.wikipedia.org/wiki/FBI "wikilink")[香港的幹員](../Page/香港.md "wikilink")。
+2000年，Maggie 首次擔綱演出電影《[特警新人類2機動任務](https://zh.wikipedia.org/wiki/特警新人類2機動任務 "wikilink")》，飾演一位從[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[FBI派往](https://zh.wikipedia.org/wiki/FBI "wikilink")[香港](../Page/香港.md "wikilink")的幹員。
 
-2002年，她演出《[-{zh-hans:赤裸特工;zh-hk:赤裸特工;zh-tw:赤裸武器;}-](https://zh.wikipedia.org/wiki/赤裸武器 "wikilink")》，飾演其中一位受訓殺手「Charlene
-Ching」，其性感、魅惑又危險的刺客角色，深受華人與歐美觀眾的注意。
+2002年，她演出《[-{zh-hans:赤裸特工;zh-hk:赤裸特工;zh-tw:赤裸武器;}-](https://zh.wikipedia.org/wiki/赤裸武器 "wikilink")》，飾演其中一位受訓殺手「Charlene Ching」，其性感、魅惑又危險的刺客角色，深受華人與歐美觀眾的注意。
 
-2005年，Maggie
-參與[德國與](https://zh.wikipedia.org/wiki/德國 "wikilink")[新加坡合作的](../Page/新加坡.md "wikilink")[電視電影](../Page/電視電影.md "wikilink")《》（），飾演
-*Harmony* ，與-{[范文芳](../Page/范文芳.md "wikilink")}-演對手戲。同年，Maggie Q
-到[好萊塢發展](https://zh.wikipedia.org/wiki/好萊塢 "wikilink")，2006年，於《[-{zh-hans:谍中谍3;zh-hk:職業特工隊3;zh-tw:不可能的任務3;}-](https://zh.wikipedia.org/wiki/不可能的任務3 "wikilink")》中飾演[-{zh-hans:汤姆·克鲁斯;zh-hk:湯·告魯斯;zh-tw:湯姆·克魯斯;}-特工隊中惟一的女性成員](https://zh.wikipedia.org/wiki/湯姆克魯斯 "wikilink")
-*Zhen*。2007年，於[布魯斯·威利主演的](https://zh.wikipedia.org/wiki/布魯斯·威利 "wikilink")《[-{zh-hans:虎胆龙威4.0;zh-hk:虎膽龍威4.0;zh-tw:終極警探4.0;}-](../Page/終極警探4.0.md "wikilink")》，飾演一名[電腦駭客](https://zh.wikipedia.org/wiki/駭客 "wikilink")\[5\]。
+2005年，Maggie 參與[德國與](https://zh.wikipedia.org/wiki/德國 "wikilink")[新加坡](../Page/新加坡.md "wikilink")合作的[電視電影](../Page/電視電影.md "wikilink")《》（），飾演 *Harmony* ，與-{[范文芳](../Page/范文芳.md "wikilink")}-演對手戲。同年，Maggie Q 到[好萊塢發展](https://zh.wikipedia.org/wiki/好萊塢 "wikilink")，2006年，於《[-{zh-hans:谍中谍3;zh-hk:職業特工隊3;zh-tw:不可能的任務3;}-](https://zh.wikipedia.org/wiki/不可能的任務3 "wikilink")》中飾演[-{zh-hans:汤姆·克鲁斯;zh-hk:湯·告魯斯;zh-tw:湯姆·克魯斯;}-特工隊中惟一的女性成員](https://zh.wikipedia.org/wiki/湯姆克魯斯 "wikilink") *Zhen*。2007年，於[布魯斯·威利主演的](https://zh.wikipedia.org/wiki/布魯斯·威利 "wikilink")《[-{zh-hans:虎胆龙威4.0;zh-hk:虎膽龍威4.0;zh-tw:終極警探4.0;}-](../Page/終極警探4.0.md "wikilink")》，飾演一名[電腦駭客](https://zh.wikipedia.org/wiki/駭客 "wikilink")\[5\]。
 
-2008年，Maggie Q
-於《[三國之見龍卸甲](https://zh.wikipedia.org/wiki/見龍卸甲 "wikilink")》飾演虛構人物
-*曹嬰*，是她首次的中國古裝演出。
+2008年，Maggie Q 於《[三國之見龍卸甲](https://zh.wikipedia.org/wiki/見龍卸甲 "wikilink")》飾演虛構人物 *曹嬰*，是她首次的中國古裝演出。
 
-[2010年9月](../Page/2010年9月.md "wikilink")，Maggie Q
-於美國CW電視台主演影集《[NIKITA](https://zh.wikipedia.org/wiki/尼基塔女郎_\(2010年電視劇\) "wikilink")》飾演女特務Nikita
-,這是她在美國第一部主演的電視影集，於2013年底播畢。
+[2010年9月](../Page/2010年9月.md "wikilink")，Maggie Q 於美國CW電視台主演影集《[NIKITA](https://zh.wikipedia.org/wiki/尼基塔女郎_\(2010年電視劇\) "wikilink")》飾演女特務Nikita ,這是她在美國第一部主演的電視影集，於2013年底播畢。
 
 ### 社会活动
 
-因了解到工厂化养殖场中动物所受的苦难，Maggie
-Q严格奉行素食主义，并称放弃食肉是她一生获益最深的决定之一。“我感觉更好，片场内外精力更加充沛，而且我很欣慰所做的事情有助于停止动物的苦难。”在[亚洲善待动物组织（PETA
-Asia）](http://china.petaasiapacific.com/index.asp)拍摄的一辑素食广告中，Maggie
-Q近乎全裸地躺在一片红辣椒，意在宣传素食主义不仅是“点燃激情人生”的最佳方式，同时也有益于动物、身体健康和环境。另一幅海报中，Maggie则仅以生菜比基尼遮住关键部位，呼吁人们“揭开素食新一‘叶’”。\[6\]
+因了解到工厂化养殖场中动物所受的苦难，Maggie Q严格奉行素食主义，并称放弃食肉是她一生获益最深的决定之一。“我感觉更好，片场内外精力更加充沛，而且我很欣慰所做的事情有助于停止动物的苦难。”在[亚洲善待动物组织（PETA Asia）](http://china.petaasiapacific.com/index.asp)拍摄的一辑素食广告中，Maggie Q近乎全裸地躺在一片红辣椒，意在宣传素食主义不仅是“点燃激情人生”的最佳方式，同时也有益于动物、身体健康和环境。另一幅海报中，Maggie则仅以生菜比基尼遮住关键部位，呼吁人们“揭开素食新一‘叶’”。\[6\]
 
-在与刘德华联袂主演的电影《三国之见龙卸甲》的拍摄过程中，Maggie
-Q亦成功说服制作人员将戏服中用时尚的仿真皮草取代真的皮草。Maggie表示"几年前，当我成熟到能够心胸开阔面对现实的时候，我放弃了皮草。我们都是有同情心的人，我们愿意付出多少同情心决定了我们能够成为怎样的人。"
+在与刘德华联袂主演的电影《三国之见龙卸甲》的拍摄过程中，Maggie Q亦成功说服制作人员将戏服中用时尚的仿真皮草取代真的皮草。Maggie表示"几年前，当我成熟到能够心胸开阔面对现实的时候，我放弃了皮草。我们都是有同情心的人，我们愿意付出多少同情心决定了我们能够成为怎样的人。"
 
 ### 私人生活
 
-Maggie Q
-曾與[日本足球运动員](../Page/日本.md "wikilink")[中田英壽](../Page/中田英壽.md "wikilink")、香港演員[吳彥祖](../Page/吳彥祖.md "wikilink")、與[美籍韩裔演員](../Page/韓裔美國人.md "wikilink")[丹尼爾·海尼交往](../Page/丹尼爾·海尼.md "wikilink")，2000年與[陳冠希拍攝電影](../Page/陳冠希.md "wikilink")《特警新人類2機動任務》時又曾與陳冠希傳出緋聞，2014年與[迪倫·麥狄蒙因出演美劇](../Page/迪倫·麥狄蒙.md "wikilink")[跟蹤者認識](../Page/跟蹤者.md "wikilink")，最後交往3個月後訂婚。
+Maggie Q 曾與[日本](../Page/日本.md "wikilink")足球运动員[中田英壽](../Page/中田英壽.md "wikilink")、香港演員[吳彥祖](../Page/吳彥祖.md "wikilink")、與[美籍韩裔演員](../Page/韓裔美國人.md "wikilink")[丹尼爾·海尼](../Page/丹尼爾·海尼.md "wikilink")交往，2000年與[陳冠希](../Page/陳冠希.md "wikilink")拍攝電影《特警新人類2機動任務》時又曾與陳冠希傳出緋聞，2014年與[迪倫·麥狄蒙](../Page/迪倫·麥狄蒙.md "wikilink")因出演美劇[跟蹤者](../Page/跟蹤者.md "wikilink")認識，最後交往3個月後訂婚。
 
 ## 作品
 
@@ -334,36 +313,14 @@ Television
 
   -
   -
-[Category:美國電影女演員](https://zh.wikipedia.org/wiki/Category:美國電影女演員 "wikilink")
-[Category:香港電影演員](https://zh.wikipedia.org/wiki/Category:香港電影演員 "wikilink")
-[Category:夏威夷人](https://zh.wikipedia.org/wiki/Category:夏威夷人 "wikilink")
-[Category:香港女性模特兒](https://zh.wikipedia.org/wiki/Category:香港女性模特兒 "wikilink")
-[Category:法國裔美國人](https://zh.wikipedia.org/wiki/Category:法國裔美國人 "wikilink")
-[Category:波蘭裔美國人](https://zh.wikipedia.org/wiki/Category:波蘭裔美國人 "wikilink")
-[Category:爱尔兰裔美国人](https://zh.wikipedia.org/wiki/Category:爱尔兰裔美国人 "wikilink")
-[Category:越南裔美國人](https://zh.wikipedia.org/wiki/Category:越南裔美國人 "wikilink")
-[Category:京族裔混血兒](https://zh.wikipedia.org/wiki/Category:京族裔混血兒 "wikilink")
-[Category:波蘭裔混血兒](https://zh.wikipedia.org/wiki/Category:波蘭裔混血兒 "wikilink")
-[Category:越南裔香港人](https://zh.wikipedia.org/wiki/Category:越南裔香港人 "wikilink")
-[Category:愛爾蘭裔混血兒](https://zh.wikipedia.org/wiki/Category:愛爾蘭裔混血兒 "wikilink")
-[Category:亞洲裔美國模特兒](https://zh.wikipedia.org/wiki/Category:亞洲裔美國模特兒 "wikilink")
-[Category:20世纪美国女演员](https://zh.wikipedia.org/wiki/Category:20世纪美国女演员 "wikilink")
-[Category:21世纪美国女演员](https://zh.wikipedia.org/wiki/Category:21世纪美国女演员 "wikilink")
-[Category:美國女配音演員](https://zh.wikipedia.org/wiki/Category:美國女配音演員 "wikilink")
-[Category:美國電視女演員](https://zh.wikipedia.org/wiki/Category:美國電視女演員 "wikilink")
-[Category:在香港的美國人](https://zh.wikipedia.org/wiki/Category:在香港的美國人 "wikilink")
-[Category:美國女性模特兒](https://zh.wikipedia.org/wiki/Category:美國女性模特兒 "wikilink")
+[Category:美國電影女演員](https://zh.wikipedia.org/wiki/Category:美國電影女演員 "wikilink") [Category:香港電影演員](https://zh.wikipedia.org/wiki/Category:香港電影演員 "wikilink") [Category:夏威夷人](https://zh.wikipedia.org/wiki/Category:夏威夷人 "wikilink") [Category:香港女性模特兒](https://zh.wikipedia.org/wiki/Category:香港女性模特兒 "wikilink") [Category:法國裔美國人](https://zh.wikipedia.org/wiki/Category:法國裔美國人 "wikilink") [Category:波蘭裔美國人](https://zh.wikipedia.org/wiki/Category:波蘭裔美國人 "wikilink") [Category:爱尔兰裔美国人](https://zh.wikipedia.org/wiki/Category:爱尔兰裔美国人 "wikilink") [Category:越南裔美國人](https://zh.wikipedia.org/wiki/Category:越南裔美國人 "wikilink") [Category:京族裔混血兒](https://zh.wikipedia.org/wiki/Category:京族裔混血兒 "wikilink") [Category:波蘭裔混血兒](https://zh.wikipedia.org/wiki/Category:波蘭裔混血兒 "wikilink") [Category:越南裔香港人](https://zh.wikipedia.org/wiki/Category:越南裔香港人 "wikilink") [Category:愛爾蘭裔混血兒](https://zh.wikipedia.org/wiki/Category:愛爾蘭裔混血兒 "wikilink") [Category:亞洲裔美國模特兒](https://zh.wikipedia.org/wiki/Category:亞洲裔美國模特兒 "wikilink") [Category:20世纪美国女演员](https://zh.wikipedia.org/wiki/Category:20世纪美国女演员 "wikilink") [Category:21世纪美国女演员](https://zh.wikipedia.org/wiki/Category:21世纪美国女演员 "wikilink") [Category:美國女配音演員](https://zh.wikipedia.org/wiki/Category:美國女配音演員 "wikilink") [Category:美國電視女演員](https://zh.wikipedia.org/wiki/Category:美國電視女演員 "wikilink") [Category:在香港的美國人](https://zh.wikipedia.org/wiki/Category:在香港的美國人 "wikilink") [Category:美國女性模特兒](https://zh.wikipedia.org/wiki/Category:美國女性模特兒 "wikilink")
 
 1.
 2.
-3.  玩世界‧沒事兒:
-    [【廣播】混血魅力](http://miss-suzi.blogspot.tw/2011/06/maggie-q.html)…胡燕妮、**Maggie
-    Q**，2011-06-02
-4.  [MAGGIE
-    Q曾經窮困潦倒](http://news.xinhuanet.com/lady/2009-11/18/content_12423307.htm)_女性頻道_新華網，2009-11-18
+3.  玩世界‧沒事兒: [【廣播】混血魅力](http://miss-suzi.blogspot.tw/2011/06/maggie-q.html)…胡燕妮、**Maggie Q**，2011-06-02
+4.  [MAGGIE Q曾經窮困潦倒](http://news.xinhuanet.com/lady/2009-11/18/content_12423307.htm)_女性頻道_新華網，2009-11-18
 5.
-6.  \[<http://www.petaasia.cn/news/maggieq-and-peta/> 高冷女神Maggie
-    Q携手PETA为动物发声
+6.  \[<http://www.petaasia.cn/news/maggieq-and-peta/> 高冷女神Maggie Q携手PETA为动物发声
 7.  ???
 8.
 9.

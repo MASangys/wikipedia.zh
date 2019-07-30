@@ -1,6 +1,4 @@
-**LR剖析器**是一種由下而上（bottom-up）的[上下文無關語法剖析器](https://zh.wikipedia.org/wiki/上下文無關語法 "wikilink")。**LR**意指由左（**L**eft）至右處理輸入字串，並以最右邊優先衍生（**R**ight
-derivation）的推導順序（相對於[LL剖析器](../Page/LL剖析器.md "wikilink")）建構語法樹。能以此方式剖析的語法稱為**LR語法**。而在**LR(k)**這樣的名稱中，**k**代表的是剖析時所需**前瞻符號**（lookahead
-symbol）的數量，也就是除了目前處理到的輸入符號之外，還得再向右參照幾個符號之意；省略 **（k）**時即視為LR(1)，而非LR(0)。
+**LR剖析器**是一種由下而上（bottom-up）的[上下文無關語法剖析器](https://zh.wikipedia.org/wiki/上下文無關語法 "wikilink")。**LR**意指由左（**L**eft）至右處理輸入字串，並以最右邊優先衍生（**R**ight derivation）的推導順序（相對於[LL剖析器](../Page/LL剖析器.md "wikilink")）建構語法樹。能以此方式剖析的語法稱為**LR語法**。而在**LR(k)**這樣的名稱中，**k**代表的是剖析時所需**前瞻符號**（lookahead symbol）的數量，也就是除了目前處理到的輸入符號之外，還得再向右參照幾個符號之意；省略 **（k）**時即視為LR(1)，而非LR(0)。
 
 由於LR剖析器嘗試由剖析樹的葉節點開始，向上一層層透過文法規則的化簡，最後规约回到樹的根部（起始符號），所以它是一種由下而上的剖析方法。許多[程式語言使用LR](https://zh.wikipedia.org/wiki/程式語言 "wikilink")(1)描述文法，因此許多編譯器都使用LR剖析器分析原始碼的文法結構。LR剖析的優點如下：
 
@@ -8,22 +6,16 @@ symbol）的數量，也就是除了目前處理到的輸入符號之外，還�
   - LR剖析器可以很有效率的建置。
   - 對所有「由左而右」掃描原始碼的剖析器而言，LR剖析器可以在最短的時間內偵測到文法錯誤（這是指文法無法描述的字串）。
 
-然而LR剖析器很難以人工的方式設計，一般使用「剖析產生器（parser
-generator）」或「編譯器的編譯器（compiler-compiler，產生編譯器的工具）」來建構它。LR剖析器可根據剖析表（parsing
-table）的建構方式，分類為「簡單LR剖析器（SLR, Simple LR parser）」、「前瞻LR剖析器（LALR,
-Look-ahead LR parser）」以及「正統LR剖析器 (Canonical LR
-parser)」。這些解析器都可以處理大量的文法規則，其中LALR剖析器較SLR剖析器強大，而正統LR剖析器又比LALR剖析器能處理更多的文法。著名的Yacc即是用來產生LALR剖析器的工具。
+然而LR剖析器很難以人工的方式設計，一般使用「剖析產生器（parser generator）」或「編譯器的編譯器（compiler-compiler，產生編譯器的工具）」來建構它。LR剖析器可根據剖析表（parsing table）的建構方式，分類為「簡單LR剖析器（SLR, Simple LR parser）」、「前瞻LR剖析器（LALR, Look-ahead LR parser）」以及「正統LR剖析器 (Canonical LR parser)」。這些解析器都可以處理大量的文法規則，其中LALR剖析器較SLR剖析器強大，而正統LR剖析器又比LALR剖析器能處理更多的文法。著名的Yacc即是用來產生LALR剖析器的工具。
 
 ## LR剖析器的結構
 
-[LR_Parser.png](https://zh.wikipedia.org/wiki/File:LR_Parser.png "fig:LR_Parser.png")之剖析器的結構\]\]
-以表格為主（table-based）由下而上的剖析器可用圖一描述其結構，它包含：
+[LR_Parser.png](https://zh.wikipedia.org/wiki/File:LR_Parser.png "fig:LR_Parser.png")之剖析器的結構\]\] 以表格為主（table-based）由下而上的剖析器可用圖一描述其結構，它包含：
 
   - 一個輸入[緩衝區](https://zh.wikipedia.org/wiki/緩衝區 "wikilink")，輸入的原始碼儲存於此，剖析將由第一個符號開始依序向後掃描。
   - 一座[堆疊](https://zh.wikipedia.org/wiki/堆疊 "wikilink")，儲存過去的狀態與化簡中的符號。
   - 一張*狀態轉移表*（goto table），決定狀態的移轉規則。
-  - 一張*動作表*（action
-    table），決定目前的狀態碰到輸入符號時應採取的文法規則，輸入符號指的是終端符號（Terminals）與非終端符號（Non-terminals）。
+  - 一張*動作表*（action table），決定目前的狀態碰到輸入符號時應採取的文法規則，輸入符號指的是終端符號（Terminals）與非終端符號（Non-terminals）。
 
 ### 剖析演算法
 
@@ -115,17 +107,12 @@ LR(0)剖析器使用的表格如下：
 
 （為避免終端符號與狀態混淆，故堆疊中的終端符號都加上單引號區別）
 
-接著看到的終端符號是 '+'，根據**動作表**無論狀態**2**碰到任何終端符號，都執行**r5**動作（以第五條文法規則**B →
-1**化簡堆疊內容）。此化簡的動作表示剖析器已經在堆疊中認出第五條文法規則的**右手邊**部分，因此可以用該規則的**左手邊**符號*B*取代。因為**第五條文法的右邊有一個符號**，因此我們**將兩個元素（1
-× 2 =
-2）自堆疊彈出**，此時會回到狀態**0**，再推入符號*B*，並**查找轉移表中狀態0遇到非終端符號*B*後的新狀態**。新的狀態是**4**，完成此步驟後的堆疊是：
+接著看到的終端符號是 '+'，根據**動作表**無論狀態**2**碰到任何終端符號，都執行**r5**動作（以第五條文法規則**B → 1**化簡堆疊內容）。此化簡的動作表示剖析器已經在堆疊中認出第五條文法規則的**右手邊**部分，因此可以用該規則的**左手邊**符號*B*取代。因為**第五條文法的右邊有一個符號**，因此我們**將兩個元素（1 × 2 = 2）自堆疊彈出**，此時會回到狀態**0**，再推入符號*B*，並**查找轉移表中狀態0遇到非終端符號*B*後的新狀態**。新的狀態是**4**，完成此步驟後的堆疊是：
 
   -
     \[**$** **0** *B* **4**\]
 
-由於上一個終端符號 '+'尚未被處理，因此仍保留在輸入緩衝區中。依據**動作表**，在狀態**4**碰到
-'+'時做**r3**化簡。根據第三條文法**E →
-B**，我們將**4**與*B*從堆疊彈出，回到狀態**0**。接著壓入*E*，根據**狀態轉移表**，當狀態**0**遇到非終端符號*E*時需轉移至狀態**3**，因此將**3**壓入堆疊：
+由於上一個終端符號 '+'尚未被處理，因此仍保留在輸入緩衝區中。依據**動作表**，在狀態**4**碰到 '+'時做**r3**化簡。根據第三條文法**E → B**，我們將**4**與*B*從堆疊彈出，回到狀態**0**。接著壓入*E*，根據**狀態轉移表**，當狀態**0**遇到非終端符號*E*時需轉移至狀態**3**，因此將**3**壓入堆疊：
 
   -
     \[**$** **0** *E* **3**\]
@@ -145,8 +132,7 @@ B**，我們將**4**與*B*從堆疊彈出，回到狀態**0**。接著壓入*E*�
   -
     \[**$** **0** E **3** '+' **6** B **8**\]
 
-在狀態**8**看到符號$時剖析器會繼續化簡，根據**動作表**執行**r2**化簡動作，採用第二條文法規則**E → E +
-B**簡化堆疊。由於該規則的右手邊有三個符號，故從堆疊中彈出六個元素。這時回到狀態**0**，將規則左邊的符號*E*推入堆疊後，進入新狀態**3**（根據狀態轉移表），將之壓入後堆疊為：
+在狀態**8**看到符號$時剖析器會繼續化簡，根據**動作表**執行**r2**化簡動作，採用第二條文法規則**E → E + B**簡化堆疊。由於該規則的右手邊有三個符號，故從堆疊中彈出六個元素。這時回到狀態**0**，將規則左邊的符號*E*推入堆疊後，進入新狀態**3**（根據狀態轉移表），將之壓入後堆疊為：
 
   -
     \[**$** **0** E **3**\]
@@ -157,8 +143,7 @@ B**簡化堆疊。由於該規則的右手邊有三個符號，故從堆疊中�
 
 ### LR(0)項目（Items）
 
-建構剖析表的過程須使用*LR(0)項目*（以下簡稱為「項目」），這些**項目**是在文法規則的右手邊插入一個特殊的符號「·」所產生。例如文法*E
-→ E + B*有下列四個對應的項目：
+建構剖析表的過程須使用*LR(0)項目*（以下簡稱為「項目」），這些**項目**是在文法規則的右手邊插入一個特殊的符號「·」所產生。例如文法*E → E + B*有下列四個對應的項目：
 
   -
     *E →·E + B*
@@ -171,8 +156,7 @@ B**簡化堆疊。由於該規則的右手邊有三個符號，故從堆疊中�
   -
     *A →·*
 
-建立項目的用意是要決定剖析器的狀態，例如*E → E· + B*的意義是「剖析器已經在輸入的符號中認出*E*的部分，目前正等著看到一個
-'+'符號與接續的*B*的部份」。
+建立項目的用意是要決定剖析器的狀態，例如*E → E· + B*的意義是「剖析器已經在輸入的符號中認出*E*的部分，目前正等著看到一個 '+'符號與接續的*B*的部份」。
 
 <div style="text-align: center;">
 
@@ -196,8 +180,7 @@ B**簡化堆疊。由於該規則的右手邊有三個符號，故從堆疊中�
     *E → E· + B*
     *E → E·\* B*
 
-故我們使用項目的集合{ *E → E· + B*, *E → E·\* B* }來表示「剖析器認出*E*並期待 *+ B*或*\*
-B*」的狀態。
+故我們使用項目的集合{ *E → E· + B*, *E → E·\* B* }來表示「剖析器認出*E*並期待 *+ B*或*\* B*」的狀態。
 
 <div style="text-align: center;">
 
@@ -226,11 +209,9 @@ B*」的狀態。
 即是「已辨認出*E +*部分，目前期待看到*B*，而*B*也就是'0'與'1'」之意。此現象可以描述為：
 
   -
-    若項目集合中**包含*A → x·By*形式**的項目，其中***B*為非終端符號**，則對所有的文法規則*B → w*而言，*B
-    →·w*也會被加入項目集合中。
+    若項目集合中**包含*A → x·By*形式**的項目，其中***B*為非終端符號**，則對所有的文法規則*B → w*而言，*B →·w*也會被加入項目集合中。
 
-每個項目集合都應該以此規則擴充，將潛在的項目加到集合中**直到所有在·之後的非終端符號都處理過**。如此所產生的新集合**稱作該項目集合的「封閉集」**，符號的表示為*'closure(*I'')
-*'，其中*I''表示原項目集合。剖析過程中的各種狀態即是由這些封閉集所構成。
+每個項目集合都應該以此規則擴充，將潛在的項目加到集合中**直到所有在·之後的非終端符號都處理過**。如此所產生的新集合**稱作該項目集合的「封閉集」**，符號的表示為*'closure(*I'') *'，其中*I''表示原項目集合。剖析過程中的各種狀態即是由這些封閉集所構成。
 
 <div style="text-align: center;">
 
@@ -293,12 +274,7 @@ B*」的狀態。
 
 ## 參考資料
 
-  - *[Compilers: Principles, Techniques, and
-    Tools](https://zh.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools "wikilink")*,
-    [Aho](https://zh.wikipedia.org/wiki/Alfred_Aho "wikilink")，[Sethi](https://zh.wikipedia.org/wiki/Ravi_Sethi "wikilink")，[Ullman](https://zh.wikipedia.org/wiki/Jeffrey_Ullman "wikilink")，[Addison-Wesley](https://zh.wikipedia.org/wiki/Addison-Wesley "wikilink")，1986.
-    ISBN 0-201-10088-6
-  - [Internals of an LALR(1) parser generated by GNU
-    Bison](https://web.archive.org/web/20061126170612/http://cs.uic.edu/~spopuri/cparser.html)
+  - *[Compilers: Principles, Techniques, and Tools](https://zh.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools "wikilink")*, [Aho](https://zh.wikipedia.org/wiki/Alfred_Aho "wikilink")，[Sethi](https://zh.wikipedia.org/wiki/Ravi_Sethi "wikilink")，[Ullman](https://zh.wikipedia.org/wiki/Jeffrey_Ullman "wikilink")，[Addison-Wesley](https://zh.wikipedia.org/wiki/Addison-Wesley "wikilink")，1986. ISBN 0-201-10088-6
+  - [Internals of an LALR(1) parser generated by GNU Bison](https://web.archive.org/web/20061126170612/http://cs.uic.edu/~spopuri/cparser.html)
 
-[Category:编译原理](https://zh.wikipedia.org/wiki/Category:编译原理 "wikilink")
-[Category:分析演算法](https://zh.wikipedia.org/wiki/Category:分析演算法 "wikilink")
+[Category:编译原理](https://zh.wikipedia.org/wiki/Category:编译原理 "wikilink") [Category:分析演算法](https://zh.wikipedia.org/wiki/Category:分析演算法 "wikilink")

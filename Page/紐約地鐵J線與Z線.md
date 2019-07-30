@@ -1,9 +1,8 @@
-**J線納蘇街慢車**（）與**Z線納蘇街快車**（）\[1\]，過去曾稱為「牙買加快車」，在顯示為「牙買加慢車/快車」，是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")的兩條[地鐵路線](../Page/地鐵.md "wikilink")。由於該線在[曼哈頓下城使用](https://zh.wikipedia.org/wiki/曼哈頓下城 "wikilink")[BMT納蘇街線](https://zh.wikipedia.org/wiki/BMT納蘇街線 "wikilink")，因此其路線徽號為棕色\[2\]。
+**J線納蘇街慢車**（）與**Z線納蘇街快車**（）\[1\]，過去曾稱為「牙買加快車」，在顯示為「牙買加慢車/快車」，是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")的兩條[地鐵](../Page/地鐵.md "wikilink")路線。由於該線在[曼哈頓下城使用](https://zh.wikipedia.org/wiki/曼哈頓下城 "wikilink")[BMT納蘇街線](https://zh.wikipedia.org/wiki/BMT納蘇街線 "wikilink")，因此其路線徽號為棕色\[2\]。
 
-J線列車任何時候都營運，而Z線只在繁忙時段營運\[3\]，平日每個尖峰方向開行6班，來往的[牙買加中心-帕森斯／射手與](https://zh.wikipedia.org/wiki/牙買加中心-帕森斯／射手車站_\(射手大道線\) "wikilink")[曼哈頓下城的](https://zh.wikipedia.org/wiki/曼哈頓下城 "wikilink")[寬街](https://zh.wikipedia.org/wiki/寬街車站_\(BMT納蘇街線\) "wikilink")，途經[威廉斯堡大橋](../Page/威廉斯堡大橋.md "wikilink")，使用整條BMT[射手大道線](../Page/射手大道線.md "wikilink")、[BMT牙買加線](https://zh.wikipedia.org/wiki/BMT牙買加線 "wikilink")、[BMT納蘇街線](https://zh.wikipedia.org/wiki/BMT納蘇街線 "wikilink")。Z線營運時，兩條路線在[蘇特芬林蔭路-射手大道-JFK機場與](https://zh.wikipedia.org/wiki/蘇特芬林蔭路-射手大道-JFK機場車站_\(射手大道線\) "wikilink")[百老匯交匯之間形成一對](https://zh.wikipedia.org/wiki/百老匯交匯車站_\(BMT牙買加線\) "wikilink")[隔站停靠的路線](../Page/隔站停靠.md "wikilink")。其餘時間只有J線列車營運，停靠沿途所有車站。
+J線列車任何時候都營運，而Z線只在繁忙時段營運\[3\]，平日每個尖峰方向開行6班，來往的[牙買加中心-帕森斯／射手與](https://zh.wikipedia.org/wiki/牙買加中心-帕森斯／射手車站_\(射手大道線\) "wikilink")[曼哈頓下城的](https://zh.wikipedia.org/wiki/曼哈頓下城 "wikilink")[寬街](https://zh.wikipedia.org/wiki/寬街車站_\(BMT納蘇街線\) "wikilink")，途經[威廉斯堡大橋](../Page/威廉斯堡大橋.md "wikilink")，使用整條BMT[射手大道線](../Page/射手大道線.md "wikilink")、[BMT牙買加線](https://zh.wikipedia.org/wiki/BMT牙買加線 "wikilink")、[BMT納蘇街線](https://zh.wikipedia.org/wiki/BMT納蘇街線 "wikilink")。Z線營運時，兩條路線在[蘇特芬林蔭路-射手大道-JFK機場與](https://zh.wikipedia.org/wiki/蘇特芬林蔭路-射手大道-JFK機場車站_\(射手大道線\) "wikilink")[百老匯交匯之間形成一對](https://zh.wikipedia.org/wiki/百老匯交匯車站_\(BMT牙買加線\) "wikilink")[隔站停靠](../Page/隔站停靠.md "wikilink")的路線。其餘時間只有J線列車營運，停靠沿途所有車站。
 
-現時的J線/Z線衍生自若干路線，包括來往曼哈頓下城與[皇后區的](../Page/皇后區.md "wikilink")的「JJ/15」；
-來往[曼哈頓中城的](../Page/曼哈頓中城.md "wikilink")[57街與皇后區的](https://zh.wikipedia.org/wiki/57街車站_\(IND第六大道線\) "wikilink")168街的「KK」；來往皇后區的168街與[布魯克林的](https://zh.wikipedia.org/wiki/布魯克林 "wikilink")[布萊頓海灘的](https://zh.wikipedia.org/wiki/布萊頓海灘車站_\(BMT布萊頓線\) "wikilink")「QJ」；以及來往曼哈頓下城與[卡納西-洛克威公園道的](https://zh.wikipedia.org/wiki/卡納西-洛克威公園道車站_\(BMT卡納西線\) "wikilink")「14」。現時的隔站停靠措施自1988年起實行。
+現時的J線/Z線衍生自若干路線，包括來往曼哈頓下城與[皇后區](../Page/皇后區.md "wikilink")的的「JJ/15」； 來往[曼哈頓中城](../Page/曼哈頓中城.md "wikilink")的[57街與皇后區的](https://zh.wikipedia.org/wiki/57街車站_\(IND第六大道線\) "wikilink")168街的「KK」；來往皇后區的168街與[布魯克林的](https://zh.wikipedia.org/wiki/布魯克林 "wikilink")[布萊頓海灘的](https://zh.wikipedia.org/wiki/布萊頓海灘車站_\(BMT布萊頓線\) "wikilink")「QJ」；以及來往曼哈頓下城與[卡納西-洛克威公園道的](https://zh.wikipedia.org/wiki/卡納西-洛克威公園道車站_\(BMT卡納西線\) "wikilink")「14」。現時的隔站停靠措施自1988年起實行。
 
 ## 歷史
 
@@ -17,7 +16,7 @@ J線列車任何時候都營運，而Z線只在繁忙時段營運\[3\]，平日�
   - 隔年投入鋼鐵車廂營運。7月3日，電氣化工程鋪設至168街車站。列車改至此發車，駛往欽伯斯街車站，尖峰方向行快車自東園道駛往威廉堡橋，間甚至有只停起訖站的快速列車；其他時段自168街車站發車，駛往欽伯斯街。
   - 1924年啟用標示措施，快/慢車分別被編為15、14號。
   - 1931年5月30日[BMT納蘇街線通車](https://zh.wikipedia.org/wiki/BMT納蘇街線 "wikilink")，15號線延駛該線。
-  - 1959年6月18日起實施[隔站停靠措施](../Page/隔站停靠.md "wikilink")，15號線列車自東園道車站以西行快車，停靠「A」，14號線停靠「B」，列表如下：
+  - 1959年6月18日起實施[隔站停靠](../Page/隔站停靠.md "wikilink")措施，15號線列車自東園道車站以西行快車，停靠「A」，14號線停靠「B」，列表如下：
 
 |    | 車站    |    | 車站     |
 | -- | ----- | -- | ------ |
@@ -33,7 +32,7 @@ J線列車任何時候都營運，而Z線只在繁忙時段營運\[3\]，平日�
 
   - 1960年，編號15更為編號J及JJ，編號14更為[KK](../Page/紐約地鐵K線.md "wikilink")。
   - 1967年11月26日[克莉絲蒂街連接道通車](https://zh.wikipedia.org/wiki/克莉絲蒂街連接道 "wikilink")，15號線更為QJ線，行經[BMT布來頓線訖於布來頓海灘車站](https://zh.wikipedia.org/wiki/BMT布來頓線 "wikilink")。
-  - 1988年12月11日，[射手大道線完工](../Page/射手大道線.md "wikilink")，J線從121街改到牙買加中心-帕森斯/射手車站。同時間，J/Z線[隔站停靠措施啟用](../Page/隔站停靠.md "wikilink")。
+  - 1988年12月11日，[射手大道線](../Page/射手大道線.md "wikilink")完工，J線從121街改到牙買加中心-帕森斯/射手車站。同時間，J/Z線[隔站停靠](../Page/隔站停靠.md "wikilink")措施啟用。
   - 1990年9月30日後因工程因素，訖站調回運河街。
   - 1999年5月至9月，廉斯堡橋重建關閉，J線改為往返牙買加中心-帕森斯/射手車站與麥朵大道之間，於非尖峰行駛慢車。
   - 2001年9月11日後，線停駛，J線延駛至灣橋-95街，成為當時營運區間最長的列車，紐約地鐵各線於10月28日恢復正常營運。
@@ -489,13 +488,10 @@ K線於1976年取消，線於1988年[BMT射手大道線通車後調整為慢車]
 
 ## 外部連結
 
-  - [MTA NYC Transit -
-    J線介紹](https://web.archive.org/web/20070104072059/http://www.mta.info/nyct/service/jline.htm)
-  - [MTA NYC Transit -
-    Z線介紹](https://web.archive.org/web/20070113062412/http://www.mta.info/nyct/service/zline.htm)
+  - [MTA NYC Transit - J線介紹](https://web.archive.org/web/20070104072059/http://www.mta.info/nyct/service/jline.htm)
+  - [MTA NYC Transit - Z線介紹](https://web.archive.org/web/20070113062412/http://www.mta.info/nyct/service/zline.htm)
   - [兩線歷史](https://web.archive.org/web/20011202055509/http://members.aol.com/bdmnqr2/linehistory.html)
-  - [MTA NYC Transit -
-    J/Z線時刻表（PDF）](https://web.archive.org/web/20060921225912/http://www.mta.info/nyct/service/pdf/tjcur.pdf)
+  - [MTA NYC Transit - J/Z線時刻表（PDF）](https://web.archive.org/web/20060921225912/http://www.mta.info/nyct/service/pdf/tjcur.pdf)
 
 [Category:紐約地鐵服務路線](https://zh.wikipedia.org/wiki/Category:紐約地鐵服務路線 "wikilink")
 

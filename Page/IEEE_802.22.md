@@ -1,13 +1,6 @@
-IEEE 802.22标准全称为：*Standard for Wireless Regional Area Networks (WRAN) -
-Specific requirements - Part 22: Cognitive Wireless RAN Medium Access
-Control (MAC) and Physical Layer (PHY) Specifications: Policies and
-procedures for operation in the TV Bands*\[1\]
+IEEE 802.22标准全称为：*Standard for Wireless Regional Area Networks (WRAN) - Specific requirements - Part 22: Cognitive Wireless RAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications: Policies and procedures for operation in the TV Bands*\[1\]
 
-IEEE 802.22
-标准规定了在一个固定的基站与一个或多个固定或移动的用户通信终端之间的空中接口。该空中接口包括基于[认知无线电技术的介质访问控制层](https://zh.wikipedia.org/wiki/认知无线电 "wikilink")(MAC
-layer)以及物理层(PHY
-layer)，使用54MHz至862MHz之间的[甚高频](https://zh.wikipedia.org/wiki/甚高頻 "wikilink")(VHF)/[特高频](https://zh.wikipedia.org/wiki/特高频 "wikilink")(UHF)电视广播频段进行通信。IEEE
-802.22标准旨在解决用户密度较低但面积较大的郊区地带，低成本的无线宽带接入数据网络的问题。同时，保证不会对其所使用的频段上的其他通信设备，包括数字电视广播，模拟电视广播和低功率授权设备（如无线麦克风）等造成干扰。
+IEEE 802.22 标准规定了在一个固定的基站与一个或多个固定或移动的用户通信终端之间的空中接口。该空中接口包括基于[认知无线电技术的介质访问控制层](https://zh.wikipedia.org/wiki/认知无线电 "wikilink")(MAC layer)以及物理层(PHY layer)，使用54MHz至862MHz之间的[甚高频](https://zh.wikipedia.org/wiki/甚高頻 "wikilink")(VHF)/[特高频](https://zh.wikipedia.org/wiki/特高频 "wikilink")(UHF)电视广播频段进行通信。IEEE 802.22标准旨在解决用户密度较低但面积较大的郊区地带，低成本的无线宽带接入数据网络的问题。同时，保证不会对其所使用的频段上的其他通信设备，包括数字电视广播，模拟电视广播和低功率授权设备（如无线麦克风）等造成干扰。
 
 ## 标准产生背景
 
@@ -47,8 +40,7 @@ IEEE 802.22设备应具备48比特的通用MAC地址。设备之间的连接由1
 
 #### 自辨识能力
 
-IEEE
-802.22标准中，具有自辨识机制。每个IEEE802.22网络可以探测到其他在相邻地区的IEEE802.22网络的工作，以避免互相干扰。
+IEEE 802.22标准中，具有自辨识机制。每个IEEE802.22网络可以探测到其他在相邻地区的IEEE802.22网络的工作，以避免互相干扰。
 
 ### 认知无线电功能
 
@@ -56,20 +48,17 @@ IEEE
 
 #### 地理位置信息与合法用户频谱使用信息数据库
 
-使用本标准的所有通信设备都必须装备卫星定位系统（如[GPS](https://zh.wikipedia.org/wiki/GPS "wikilink")，[伽利略等](../Page/伽利略定位系統.md "wikilink")）。合法用户频谱使用数据库中，存储所有工作在电视频段上的授权设备的地理位置，通信时间，以及使用频段的信息。这样就可以保证IEEE
-802.22设备不会对其他已授权用户的通信产生影响。
+使用本标准的所有通信设备都必须装备卫星定位系统（如[GPS](https://zh.wikipedia.org/wiki/GPS "wikilink")，[伽利略等](../Page/伽利略定位系統.md "wikilink")）。合法用户频谱使用数据库中，存储所有工作在电视频段上的授权设备的地理位置，通信时间，以及使用频段的信息。这样就可以保证IEEE 802.22设备不会对其他已授权用户的通信产生影响。
 
 #### 频谱感知
 
-按照IEEE
-802.22标准要求，设备必须具备感知周围的信道是否被合法授权用户占用的能力。感知要求包括四部分：感知接收器灵敏度，信道检测时间，成功检测概率（信道被占用且被检测出占用）和假警报概率（信道未被占用且被检测出占用）。
+按照IEEE 802.22标准要求，设备必须具备感知周围的信道是否被合法授权用户占用的能力。感知要求包括四部分：感知接收器灵敏度，信道检测时间，成功检测概率（信道被占用且被检测出占用）和假警报概率（信道未被占用且被检测出占用）。
 
 ## 参见
 
   - [IEEE 802](../Page/IEEE_802.md "wikilink")
 
-[Category:無線通信](https://zh.wikipedia.org/wiki/Category:無線通信 "wikilink")
-[Category:IEEE_802](https://zh.wikipedia.org/wiki/Category:IEEE_802 "wikilink")
+[Category:無線通信](https://zh.wikipedia.org/wiki/Category:無線通信 "wikilink") [Category:IEEE_802](https://zh.wikipedia.org/wiki/Category:IEEE_802 "wikilink")
 
 1.
 2.

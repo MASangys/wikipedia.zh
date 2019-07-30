@@ -1,4 +1,4 @@
-「**TRUE 唯美生存**」是[中島美嘉於](../Page/中島美嘉.md "wikilink")2002年8月26日發行的第一張原創專輯。
+「**TRUE 唯美生存**」是[中島美嘉](../Page/中島美嘉.md "wikilink")於2002年8月26日發行的第一張原創專輯。
 
 ## 概述
 
@@ -10,18 +10,14 @@
 ## 單曲銷量
 
   - [STARS](../Page/STARS_\(中島美嘉單曲\).md "wikilink")：ORICON最高第3名。銷量約46.9萬張
-  - [CRESCENT
-    MOON](../Page/CRESCENT_MOON.md "wikilink")（10萬枚限定生產）:ORICON最高第4名。銷量約9.9萬張
-  - [ONE
-    SURVIVE](../Page/ONE_SURVIVE.md "wikilink")：ORICON最高第8名。銷量約8.7萬張
-  - [Helpless
-    Rain](../Page/Helpless_Rain.md "wikilink")：ORICON最高第8名。銷量約8.3萬張
+  - [CRESCENT MOON](../Page/CRESCENT_MOON.md "wikilink")（10萬枚限定生產）:ORICON最高第4名。銷量約9.9萬張
+  - [ONE SURVIVE](../Page/ONE_SURVIVE.md "wikilink")：ORICON最高第8名。銷量約8.7萬張
+  - [Helpless Rain](../Page/Helpless_Rain.md "wikilink")：ORICON最高第8名。銷量約8.3萬張
   - [WILL](../Page/WILL_\(中島美嘉單曲\).md "wikilink")：ORICON最高第3名。銷量約14.5萬張
 
 ## 收錄曲目
 
-1.  **[AMAZING GRACE](../Page/CRESCENT_MOON.md "wikilink")** (album
-    version)
+1.  **[AMAZING GRACE](../Page/CRESCENT_MOON.md "wikilink")** (album version)
       -
         作詞：John Newton、作曲：Traditional、編曲：DREAMFIELD
 2.  **[WILL](../Page/WILL_\(中島美嘉單曲\).md "wikilink")** (album version)
@@ -35,8 +31,7 @@
         作詞：Lori Fine・Kenn Kato、作曲：Lori Fine、編曲：COLDFEET
 5.  **[DESTINY'S LOTUS](../Page/CRESCENT_MOON.md "wikilink")**
       -
-        作詞：中島美嘉、Rap作詞：[大藏](../Page/決明子_\(團體\).md "wikilink")、作曲：Gajin、編曲：TOWA
-        TEI
+        作詞：中島美嘉、Rap作詞：[大藏](../Page/決明子_\(團體\).md "wikilink")、作曲：Gajin、編曲：TOWA TEI
 6.  **[Helpless Rain](../Page/Helpless_Rain.md "wikilink")**
       -
         作詞：Ochi Masato、作曲：shinya、編曲：今井大介
@@ -52,8 +47,7 @@
 10. **[CRESCENT MOON](../Page/CRESCENT_MOON.md "wikilink")**
       -
         作詞：松本隆、作曲：大野宏明、編曲：田中義人
-11. **[JUST TRUST IN OUR LOVE](../Page/WILL_\(中島美嘉單曲\).md "wikilink")**
-    (album version)
+11. **[JUST TRUST IN OUR LOVE](../Page/WILL_\(中島美嘉單曲\).md "wikilink")** (album version)
       -
         作詞：H、作曲：shinya、編曲：OCTOPUSSY
 12. **[STARS](../Page/STARS_\(中島美嘉單曲\).md "wikilink")** (album version)
@@ -65,9 +59,4 @@
 
 ## 外部連結
 
-[Category:2002年音乐专辑](https://zh.wikipedia.org/wiki/Category:2002年音乐专辑 "wikilink")
-[Category:中島美嘉音樂專輯](https://zh.wikipedia.org/wiki/Category:中島美嘉音樂專輯 "wikilink")
-[Category:RIAJ百萬認證專輯](https://zh.wikipedia.org/wiki/Category:RIAJ百萬認證專輯 "wikilink")
-[Category:Oricon百萬銷量達成專輯](https://zh.wikipedia.org/wiki/Category:Oricon百萬銷量達成專輯 "wikilink")
-[Category:2002年Oricon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2002年Oricon專輯月榜冠軍作品 "wikilink")
-[Category:2002年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2002年Oricon專輯週榜冠軍作品 "wikilink")
+[Category:2002年音乐专辑](https://zh.wikipedia.org/wiki/Category:2002年音乐专辑 "wikilink") [Category:中島美嘉音樂專輯](https://zh.wikipedia.org/wiki/Category:中島美嘉音樂專輯 "wikilink") [Category:RIAJ百萬認證專輯](https://zh.wikipedia.org/wiki/Category:RIAJ百萬認證專輯 "wikilink") [Category:Oricon百萬銷量達成專輯](https://zh.wikipedia.org/wiki/Category:Oricon百萬銷量達成專輯 "wikilink") [Category:2002年Oricon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2002年Oricon專輯月榜冠軍作品 "wikilink") [Category:2002年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2002年Oricon專輯週榜冠軍作品 "wikilink")

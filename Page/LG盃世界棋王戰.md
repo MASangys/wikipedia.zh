@@ -29,7 +29,7 @@
       - 韓國：[韓國棋院](https://zh.wikipedia.org/wiki/韓國棋院 "wikilink")
       - 日本：[日本棋院](../Page/日本棋院.md "wikilink")、[關西棋院](https://zh.wikipedia.org/wiki/關西棋院 "wikilink")
       - 中國：中國圍棋協會（[中國棋院](https://zh.wikipedia.org/wiki/中國棋院 "wikilink")）
-      - 台灣：中國圍棋會（[台灣棋院未獲參與種子分配](../Page/台灣棋院.md "wikilink")，只能參加公開預選）
+      - 台灣：中國圍棋會（[台灣棋院](../Page/台灣棋院.md "wikilink")未獲參與種子分配，只能參加公開預選）
 
 ## 賽制沿革
 
@@ -43,7 +43,7 @@
       - 韓國：韓國棋院
       - 日本：日本棋院、關西棋院
       - 中國：中國圍棋協會
-      - 台灣：中國圍棋會（[台灣棋院未獲參與種子分配](../Page/台灣棋院.md "wikilink")，只能參加公開預選）
+      - 台灣：中國圍棋會（[台灣棋院](../Page/台灣棋院.md "wikilink")未獲參與種子分配，只能參加公開預選）
       - 美國：美國圍棋協會（自第11屆起未獲參與種子分配，只能參加公開預選）
       - 歐洲：歐洲圍棋聯盟（自第11屆起未獲參與種子分配，只能參加公開預選）
 
@@ -71,7 +71,7 @@
       - 預選出線名額：韓國7名、中國6名、日本2名、台灣1名。
       - 本賽總計名額：韓國13名、中國11名、日本6名、台灣2名。
       - 參賽棋手午休時禁止與他人討論研究
-      - 台灣棋院首次有棋士（[林至涵七段](../Page/林至涵.md "wikilink")）打入LG杯本賽，與中國圍棋會周俊勳一品打入16強。
+      - 台灣棋院首次有棋士（[林至涵](../Page/林至涵.md "wikilink")七段）打入LG杯本賽，與中國圍棋會周俊勳一品打入16強。
       - 主辦方連續三年沒有選手進入決賽圈。
       - 台灣本土棋手周俊勳一品打入決賽，世界大賽首次有非圍棋三強（中、日、韓）棋籍選手進入決賽。且最終奪冠。
       - 海峽兩岸棋手（周俊勳、胡耀宇）首次在世界大賽決賽相遇。
@@ -116,7 +116,7 @@
 <tr class="odd">
 <td><p>1</p></td>
 <td><p>1996年－1997年</p></td>
-<td><p><a href="../Page/李昌鎬.md" title="wikilink">李昌鎬九段</a></p></td>
+<td><p><a href="../Page/李昌鎬.md" title="wikilink">李昌鎬</a>九段</p></td>
 <td><p>3:0</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/劉昌赫" title="wikilink">劉昌赫九段</a></p></td>
 <td><p><a href="../Page/马晓春.md" title="wikilink">马晓春</a></p></td>
@@ -140,7 +140,7 @@
 <tr class="even">
 <td><p>4</p></td>
 <td><p>1999年－2000年</p></td>
-<td><p><a href="../Page/俞斌.md" title="wikilink">俞斌九段</a></p></td>
+<td><p><a href="../Page/俞斌.md" title="wikilink">俞斌</a>九段</p></td>
 <td><p>3:1</p></td>
 <td><p>劉昌赫九段</p></td>
 <td><p>李昌镐</p></td>
@@ -150,7 +150,7 @@
 <td><p>2000年－2001年</p></td>
 <td><p>李昌鎬九段</p></td>
 <td><p>3:2</p></td>
-<td><p><a href="../Page/李世乭.md" title="wikilink">李世乭三段</a></p></td>
+<td><p><a href="../Page/李世乭.md" title="wikilink">李世乭</a>三段</p></td>
 <td><p>王立诚</p></td>
 </tr>
 <tr class="even">
@@ -180,7 +180,7 @@
 <tr class="odd">
 <td><p>9</p></td>
 <td><p>2004年－2005年</p></td>
-<td><p><a href="../Page/張栩.md" title="wikilink">張栩九段</a></p></td>
+<td><p><a href="../Page/張栩.md" title="wikilink">張栩</a>九段</p></td>
 <td><p>3:1</p></td>
 <td><p>俞斌九段</p></td>
 <td><p>趙漢乘</p></td>
@@ -188,7 +188,7 @@
 <tr class="even">
 <td><p>10</p></td>
 <td><p>2005年－2006年</p></td>
-<td><p><a href="../Page/古力.md" title="wikilink">古力七段</a></p></td>
+<td><p><a href="../Page/古力.md" title="wikilink">古力</a>七段</p></td>
 <td><p>3:2</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/陳耀燁" title="wikilink">陳耀燁五段</a></p></td>
 <td><p><a href="../Page/李世乭.md" title="wikilink">李世乭</a></p></td>
@@ -196,9 +196,9 @@
 <tr class="odd">
 <td><p>11</p></td>
 <td><p>2006年－2007年</p></td>
-<td><p><a href="../Page/周俊勳.md" title="wikilink">周俊勳九段</a></p></td>
+<td><p><a href="../Page/周俊勳.md" title="wikilink">周俊勳</a>九段</p></td>
 <td><p>2:1</p></td>
-<td><p><a href="../Page/胡耀宇.md" title="wikilink">胡耀宇八段</a></p></td>
+<td><p><a href="../Page/胡耀宇.md" title="wikilink">胡耀宇</a>八段</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/趙漢乘" title="wikilink">趙漢乘</a></p></td>
 </tr>
 <tr class="even">
@@ -220,7 +220,7 @@
 <tr class="even">
 <td><p>14</p></td>
 <td><p>2009年－2010年</p></td>
-<td><p><a href="../Page/孔杰.md" title="wikilink">孔杰九段</a></p></td>
+<td><p><a href="../Page/孔杰.md" title="wikilink">孔杰</a>九段</p></td>
 <td><p>2:0</p></td>
 <td><p>李昌镐九段</p></td>
 <td><p>朴永训</p></td>
@@ -246,21 +246,21 @@
 <td><p>2012年－2013年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/時越" title="wikilink">時越五段</a></p></td>
 <td><p>2:0</p></td>
-<td><p><a href="../Page/元晟溱.md" title="wikilink">元晟溱九段</a></p></td>
+<td><p><a href="../Page/元晟溱.md" title="wikilink">元晟溱</a>九段</p></td>
 <td><p><a href="../Page/崔哲瀚.md" title="wikilink">崔哲瀚</a></p></td>
 </tr>
 <tr class="even">
 <td><p>18</p></td>
 <td><p>2013年－2014年</p></td>
-<td><p><a href="../Page/柁嘉熹.md" title="wikilink">柁嘉熹三段</a></p></td>
+<td><p><a href="../Page/柁嘉熹.md" title="wikilink">柁嘉熹</a>三段</p></td>
 <td><p>2:1</p></td>
-<td><p><a href="../Page/周睿羊.md" title="wikilink">周睿羊九段</a></p></td>
+<td><p><a href="../Page/周睿羊.md" title="wikilink">周睿羊</a>九段</p></td>
 <td><p>陈耀烨</p></td>
 </tr>
 <tr class="odd">
 <td><p>19</p></td>
 <td><p>2014年－2015年</p></td>
-<td><p><a href="../Page/朴廷桓.md" title="wikilink">朴廷桓九段</a></p></td>
+<td><p><a href="../Page/朴廷桓.md" title="wikilink">朴廷桓</a>九段</p></td>
 <td><p>2:1</p></td>
 <td><p>金志锡九段</p></td>
 <td><p>朴永训</p></td>
@@ -284,15 +284,15 @@
 <tr class="even">
 <td><p>22</p></td>
 <td><p>2017年－2018年</p></td>
-<td><p><a href="../Page/谢尔豪.md" title="wikilink">谢尔豪五段</a></p></td>
+<td><p><a href="../Page/谢尔豪.md" title="wikilink">谢尔豪</a>五段</p></td>
 <td><p>2:1</p></td>
-<td><p><a href="../Page/井山裕太.md" title="wikilink">井山裕太九段</a></p></td>
+<td><p><a href="../Page/井山裕太.md" title="wikilink">井山裕太</a>九段</p></td>
 <td><p><a href="../Page/柯洁.md" title="wikilink">柯洁</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>23</p></td>
 <td><p>2018年-2019年</p></td>
-<td><p><a href="../Page/杨鼎新.md" title="wikilink">杨鼎新八段</a></p></td>
+<td><p><a href="../Page/杨鼎新.md" title="wikilink">杨鼎新</a>八段</p></td>
 <td><p>2:1</p></td>
 <td><p>时越九段</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/申旻埈" title="wikilink">申旻埈</a></p></td>
@@ -363,11 +363,11 @@
 
 种子棋手：
 
-  - ：[李昌镐九段](https://zh.wikipedia.org/wiki/李昌镐 "wikilink")（上届亚军）、[李世石九段](https://zh.wikipedia.org/wiki/李世石 "wikilink")、[朴廷桓九段](../Page/朴廷桓.md "wikilink")、[崔哲瀚九段](../Page/崔哲瀚.md "wikilink")、[元晟溱九段](../Page/元晟溱.md "wikilink")、[姜东润九段](../Page/姜东润.md "wikilink")
+  - ：[李昌镐九段](https://zh.wikipedia.org/wiki/李昌镐 "wikilink")（上届亚军）、[李世石九段](https://zh.wikipedia.org/wiki/李世石 "wikilink")、[朴廷桓](../Page/朴廷桓.md "wikilink")九段、[崔哲瀚](../Page/崔哲瀚.md "wikilink")九段、[元晟溱](../Page/元晟溱.md "wikilink")九段、[姜东润](../Page/姜东润.md "wikilink")九段
 
-  - ：[江维杰九段](https://zh.wikipedia.org/wiki/江维杰 "wikilink")（上届冠军）、[谢赫九段](https://zh.wikipedia.org/wiki/谢赫 "wikilink")、[古力九段](../Page/古力.md "wikilink")、[朴文垚九段](../Page/朴文垚.md "wikilink")、[时越五段](../Page/时越.md "wikilink")
+  - ：[江维杰九段](https://zh.wikipedia.org/wiki/江维杰 "wikilink")（上届冠军）、[谢赫九段](https://zh.wikipedia.org/wiki/谢赫 "wikilink")、[古力](../Page/古力.md "wikilink")九段、[朴文垚](../Page/朴文垚.md "wikilink")九段、[时越](../Page/时越.md "wikilink")五段
 
-  - ：[张栩九段](https://zh.wikipedia.org/wiki/张栩 "wikilink")、[结城聪九段](../Page/结城聪.md "wikilink")、[依田纪基九段](../Page/依田纪基.md "wikilink")、[坂井秀至八段](https://zh.wikipedia.org/wiki/坂井秀至 "wikilink")
+  - ：[张栩九段](https://zh.wikipedia.org/wiki/张栩 "wikilink")、[结城聪](../Page/结城聪.md "wikilink")九段、[依田纪基](../Page/依田纪基.md "wikilink")九段、[坂井秀至八段](https://zh.wikipedia.org/wiki/坂井秀至 "wikilink")
 
   - ：[萧正浩七段](https://zh.wikipedia.org/wiki/萧正浩 "wikilink")
 
@@ -383,19 +383,19 @@
 
 16名本赛种子：
 
-  - ：[时越九段](../Page/时越.md "wikilink")、[古力九段](../Page/古力.md "wikilink")、[陈耀烨九段](../Page/陈耀烨.md "wikilink")、[周睿羊九段](../Page/周睿羊.md "wikilink")、[范廷钰九段](../Page/范廷钰.md "wikilink")。
+  - ：[时越](../Page/时越.md "wikilink")九段、[古力](../Page/古力.md "wikilink")九段、[陈耀烨](../Page/陈耀烨.md "wikilink")九段、[周睿羊](../Page/周睿羊.md "wikilink")九段、[范廷钰](../Page/范廷钰.md "wikilink")九段。
 
-  - ：[李映九九段](https://zh.wikipedia.org/wiki/李映九 "wikilink")\[4\]、[李世石九段](https://zh.wikipedia.org/wiki/李世石 "wikilink")、[朴廷桓九段](../Page/朴廷桓.md "wikilink")、[金志锡八段](https://zh.wikipedia.org/wiki/金志锡 "wikilink")、[朴永训九段](../Page/朴永训.md "wikilink")、[赵汉乘九段](https://zh.wikipedia.org/wiki/赵汉乘 "wikilink")。
+  - ：[李映九九段](https://zh.wikipedia.org/wiki/李映九 "wikilink")\[4\]、[李世石九段](https://zh.wikipedia.org/wiki/李世石 "wikilink")、[朴廷桓](../Page/朴廷桓.md "wikilink")九段、[金志锡八段](https://zh.wikipedia.org/wiki/金志锡 "wikilink")、[朴永训](../Page/朴永训.md "wikilink")九段、[赵汉乘九段](https://zh.wikipedia.org/wiki/赵汉乘 "wikilink")。
 
-  - ：[井山裕太九段](../Page/井山裕太.md "wikilink")、[高尾绅路九段](../Page/高尾绅路.md "wikilink")、[羽根直树九段](../Page/羽根直树.md "wikilink")、[河野临九段](https://zh.wikipedia.org/wiki/河野临 "wikilink")。
+  - ：[井山裕太](../Page/井山裕太.md "wikilink")九段、[高尾绅路](../Page/高尾绅路.md "wikilink")九段、[羽根直树](../Page/羽根直树.md "wikilink")九段、[河野临九段](https://zh.wikipedia.org/wiki/河野临 "wikilink")。
 
   - ：[萧正浩八段](https://zh.wikipedia.org/wiki/萧正浩 "wikilink")。
 
 综合预选赛于2013年4月17-23日进行，16名出线者晋级本赛：\[5\]
 
-  - ：[李钦诚初段](https://zh.wikipedia.org/wiki/李钦诚 "wikilink")、[谢尔豪初段](../Page/谢尔豪.md "wikilink")、[柁嘉熹三段](../Page/柁嘉熹.md "wikilink")、[韩一洲二段](../Page/韩一洲.md "wikilink")、[李喆六段](https://zh.wikipedia.org/wiki/李喆 "wikilink")、[张涛三段](https://zh.wikipedia.org/wiki/张涛_\(围棋棋手\) "wikilink")、[国宇征三段](../Page/国宇征.md "wikilink")、[夏晨琨二段](../Page/夏晨琨.md "wikilink")
+  - ：[李钦诚初段](https://zh.wikipedia.org/wiki/李钦诚 "wikilink")、[谢尔豪](../Page/谢尔豪.md "wikilink")初段、[柁嘉熹](../Page/柁嘉熹.md "wikilink")三段、[韩一洲](../Page/韩一洲.md "wikilink")二段、[李喆六段](https://zh.wikipedia.org/wiki/李喆 "wikilink")、[张涛三段](https://zh.wikipedia.org/wiki/张涛_\(围棋棋手\) "wikilink")、[国宇征](../Page/国宇征.md "wikilink")三段、[夏晨琨](../Page/夏晨琨.md "wikilink")二段
 
-  - ：[李昌镐九段](https://zh.wikipedia.org/wiki/李昌镐 "wikilink")、[安祚永九段](https://zh.wikipedia.org/wiki/安祚永 "wikilink")、[洪性志九段](https://zh.wikipedia.org/wiki/洪性志 "wikilink")、[睦镇硕九段](../Page/睦镇硕.md "wikilink")、[安亨浚三段](https://zh.wikipedia.org/wiki/安亨浚 "wikilink")、[姜东润九段](../Page/姜东润.md "wikilink")、[金成进二段](https://zh.wikipedia.org/wiki/金成进 "wikilink")、[崔哲瀚九段](../Page/崔哲瀚.md "wikilink")
+  - ：[李昌镐九段](https://zh.wikipedia.org/wiki/李昌镐 "wikilink")、[安祚永九段](https://zh.wikipedia.org/wiki/安祚永 "wikilink")、[洪性志九段](https://zh.wikipedia.org/wiki/洪性志 "wikilink")、[睦镇硕](../Page/睦镇硕.md "wikilink")九段、[安亨浚三段](https://zh.wikipedia.org/wiki/安亨浚 "wikilink")、[姜东润](../Page/姜东润.md "wikilink")九段、[金成进二段](https://zh.wikipedia.org/wiki/金成进 "wikilink")、[崔哲瀚](../Page/崔哲瀚.md "wikilink")九段
 
 ## 第19届LG盃
 
@@ -434,26 +434,19 @@
 
   - [LG杯_TOM棋圣道场](http://weiqi.sports.tom.com/zhuantinew/7.html)
 
-  - [Web2go LG
-    盃‧世界棋王戰](http://www.web2go.idv.tw/gopro/ttlx1_list.php?id=404)
+  - [Web2go LG 盃‧世界棋王戰](http://www.web2go.idv.tw/gopro/ttlx1_list.php?id=404)
 
 ## 備註
 
 <references/>
 
-[Category:LG杯世界棋王赛](https://zh.wikipedia.org/wiki/Category:LG杯世界棋王赛 "wikilink")
-[Category:LG集團](https://zh.wikipedia.org/wiki/Category:LG集團 "wikilink")
+[Category:LG杯世界棋王赛](https://zh.wikipedia.org/wiki/Category:LG杯世界棋王赛 "wikilink") [Category:LG集團](https://zh.wikipedia.org/wiki/Category:LG集團 "wikilink")
 
 1.  韓國棋王戰1974年－1995年，其中1975年、1980年暫停
 2.  第11回中國即受此條例限制，上屆冠亞軍加上四名種子，超出5人限制，最後種子分配改為韓國6人，中國5人，日本4人，台灣1人
-3.  [向韓國棋手傾斜動作大了點
-    韓國棋院表示“意外和遺憾”](http://weiqi.sports.tom.com/news/21021.html)
+3.  [向韓國棋手傾斜動作大了點 韓國棋院表示“意外和遺憾”](http://weiqi.sports.tom.com/news/21021.html)
 4.  元晟溱由于军人特殊身份将放弃今年的国际比赛资格
-5.  [LG杯王昊洋不敌李昌镐
-    李喆柁嘉熹李钦诚谢尔豪8人进本赛](http://weiqi.tom.com/2013-04-23/00UP/22356294.html)
-6.  [LG杯预选李昌镐首轮出局
-    周睿羊陈耀烨等晋级](http://sports.sina.com.cn/go/2018-04-02/doc-ifysvuvq4360957.shtml)
-7.  [高清-第23届LG杯预选完全演进图
-    中国12人晋级](http://slide.sports.sina.com.cn/go/slide_2_820_179670.html#p=1)
-8.  [LG杯柁嘉熹出局俞斌晋级
-    中国6-2韩国夺12席](http://sports.sina.com.cn/go/2018-04-07/doc-ifyvtmxc5215581.shtml)
+5.  [LG杯王昊洋不敌李昌镐 李喆柁嘉熹李钦诚谢尔豪8人进本赛](http://weiqi.tom.com/2013-04-23/00UP/22356294.html)
+6.  [LG杯预选李昌镐首轮出局 周睿羊陈耀烨等晋级](http://sports.sina.com.cn/go/2018-04-02/doc-ifysvuvq4360957.shtml)
+7.  [高清-第23届LG杯预选完全演进图 中国12人晋级](http://slide.sports.sina.com.cn/go/slide_2_820_179670.html#p=1)
+8.  [LG杯柁嘉熹出局俞斌晋级 中国6-2韩国夺12席](http://sports.sina.com.cn/go/2018-04-07/doc-ifyvtmxc5215581.shtml)

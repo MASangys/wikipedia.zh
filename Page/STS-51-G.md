@@ -10,7 +10,4 @@
   - **[帕特里克·鲍德雷](https://zh.wikipedia.org/wiki/帕特里克·鲍德雷 "wikilink")**（，[法国宇航员](https://zh.wikipedia.org/wiki/法国 "wikilink")，曾执行任务），有效载荷专家
   - **[苏尔坦·萨尔曼·阿尔-萨德](https://zh.wikipedia.org/wiki/苏尔坦·萨尔曼·阿尔-萨德 "wikilink")**（，曾执行任务），有效载荷专家
 
-[Category:1985年科學](https://zh.wikipedia.org/wiki/Category:1985年科學 "wikilink")
-[Category:1985年佛罗里达州](https://zh.wikipedia.org/wiki/Category:1985年佛罗里达州 "wikilink")
-[Category:发现号航天飞机任务](https://zh.wikipedia.org/wiki/Category:发现号航天飞机任务 "wikilink")
-[Category:1985年6月](https://zh.wikipedia.org/wiki/Category:1985年6月 "wikilink")
+[Category:1985年科學](https://zh.wikipedia.org/wiki/Category:1985年科學 "wikilink") [Category:1985年佛罗里达州](https://zh.wikipedia.org/wiki/Category:1985年佛罗里达州 "wikilink") [Category:发现号航天飞机任务](https://zh.wikipedia.org/wiki/Category:发现号航天飞机任务 "wikilink") [Category:1985年6月](https://zh.wikipedia.org/wiki/Category:1985年6月 "wikilink")

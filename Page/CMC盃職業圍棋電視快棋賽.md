@@ -1,6 +1,6 @@
-**CMC盃[職業圍棋](https://zh.wikipedia.org/wiki/職業圍棋 "wikilink")[電視快棋賽](https://zh.wikipedia.org/wiki/電視 "wikilink")**，簡稱**CMC盃**，[台灣棋院主辦](../Page/台灣棋院.md "wikilink")，[中環公司贊助](../Page/中環公司.md "wikilink")，[緯來電視網播放](../Page/緯來電視網.md "wikilink")。
+**CMC盃[職業圍棋](https://zh.wikipedia.org/wiki/職業圍棋 "wikilink")[電視快棋賽](https://zh.wikipedia.org/wiki/電視 "wikilink")**，簡稱**CMC盃**，[台灣棋院](../Page/台灣棋院.md "wikilink")主辦，[中環公司](../Page/中環公司.md "wikilink")贊助，[緯來電視網](../Page/緯來電視網.md "wikilink")播放。
 
-成立宗旨在於提昇[台灣職業棋士之快棋能力](https://zh.wikipedia.org/wiki/台灣 "wikilink")，以期能進軍[亞洲盃電視快棋賽](https://zh.wikipedia.org/wiki/亞洲盃電視快棋賽 "wikilink")。但因為[台灣公共電視因轉播權利金問題而無法配合播放](https://zh.wikipedia.org/wiki/台灣公共電視 "wikilink")，只能向民營[電視台購買時段播放](https://zh.wikipedia.org/wiki/電視台 "wikilink")，也因此努力多年仍未能讓中日韓三方接受進軍亞洲盃。[日本](../Page/日本.md "wikilink")、[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")、[中國皆為公共電視台](../Page/中國.md "wikilink")（[日本放送協會](https://zh.wikipedia.org/wiki/日本放送協會 "wikilink")、[韓國放送公社](../Page/韓國放送公社.md "wikilink")）或國營電視台（[中國中央電視台](https://zh.wikipedia.org/wiki/中國中央電視台 "wikilink")）主辦、協辦或贊助。
+成立宗旨在於提昇[台灣職業棋士之快棋能力](https://zh.wikipedia.org/wiki/台灣 "wikilink")，以期能進軍[亞洲盃電視快棋賽](https://zh.wikipedia.org/wiki/亞洲盃電視快棋賽 "wikilink")。但因為[台灣公共電視因轉播權利金問題而無法配合播放](https://zh.wikipedia.org/wiki/台灣公共電視 "wikilink")，只能向民營[電視台購買時段播放](https://zh.wikipedia.org/wiki/電視台 "wikilink")，也因此努力多年仍未能讓中日韓三方接受進軍亞洲盃。[日本](../Page/日本.md "wikilink")、[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")、[中國](../Page/中國.md "wikilink")皆為公共電視台（[日本放送協會](https://zh.wikipedia.org/wiki/日本放送協會 "wikilink")、[韓國放送公社](../Page/韓國放送公社.md "wikilink")）或國營電視台（[中國中央電視台](https://zh.wikipedia.org/wiki/中國中央電視台 "wikilink")）主辦、協辦或贊助。
 
 ## 賽制
 

@@ -1,5 +1,4 @@
-在[微软](../Page/微软.md "wikilink")[windows操作系统中](https://zh.wikipedia.org/wiki/windows操作系统 "wikilink")，index.dat是一个由[Internet
-Explorer和](../Page/Internet_Explorer.md "wikilink")[资源管理器创建的文件](https://zh.wikipedia.org/wiki/资源管理器 "wikilink")。这个文件的功能就像一个[数据库](../Page/数据库.md "wikilink")，随系统启动。它的功能在于收集[个人信息](https://zh.wikipedia.org/wiki/个人信息 "wikilink")，就像[网址](https://zh.wikipedia.org/wiki/网址 "wikilink")，搜索[字符串](../Page/字符串.md "wikilink")，和最近打开的文件。它的职责就像数据库中的索引。简单来说，当IE开启自动完成，每一个浏览过的网址将被收录进index.dat，IE浏览器据此匹配用户输入的字符。index.dat也同样存在于IE的历史纪录，[缓存](../Page/缓存.md "wikilink")，和cookies.
+在[微软](../Page/微软.md "wikilink")[windows操作系统中](https://zh.wikipedia.org/wiki/windows操作系统 "wikilink")，index.dat是一个由[Internet Explorer和](../Page/Internet_Explorer.md "wikilink")[资源管理器创建的文件](https://zh.wikipedia.org/wiki/资源管理器 "wikilink")。这个文件的功能就像一个[数据库](../Page/数据库.md "wikilink")，随系统启动。它的功能在于收集[个人信息](https://zh.wikipedia.org/wiki/个人信息 "wikilink")，就像[网址](https://zh.wikipedia.org/wiki/网址 "wikilink")，搜索[字符串](../Page/字符串.md "wikilink")，和最近打开的文件。它的职责就像数据库中的索引。简单来说，当IE开启自动完成，每一个浏览过的网址将被收录进index.dat，IE浏览器据此匹配用户输入的字符。index.dat也同样存在于IE的历史纪录，[缓存](../Page/缓存.md "wikilink")，和cookies.
 
 提示：.dat是一个很常见的[扩展名](https://zh.wikipedia.org/wiki/扩展名 "wikilink")（甚至是不可读文件或者是非[文本文件](../Page/文本文件.md "wikilink")），所以你可能会遇到一个index.dat文件，但它并不是IE浏览器和windows的一部分。
 
@@ -15,15 +14,8 @@ Explorer和](../Page/Internet_Explorer.md "wikilink")[资源管理器创建的�
 
 ## 外部链接
 
-  - [How to remove
-    index.dat](https://web.archive.org/web/20040603212240/http://users.pandora.be/michel.beyens/vir/ie/ie.htm)
-  - [A Cleanup API for
-    Windows](https://web.archive.org/web/20060901232058/http://www.codeproject.com/system/Cleanup_API.asp)
-    - details on how to delete index.dat files
-  - [View the contents of index.dat
-    files](http://www.stevengould.org/software/indexdatspy/) - freeware
-    utility that allows you to view and optionally delete any index.dat
-    file from your computer.
+  - [How to remove index.dat](https://web.archive.org/web/20040603212240/http://users.pandora.be/michel.beyens/vir/ie/ie.htm)
+  - [A Cleanup API for Windows](https://web.archive.org/web/20060901232058/http://www.codeproject.com/system/Cleanup_API.asp) - details on how to delete index.dat files
+  - [View the contents of index.dat files](http://www.stevengould.org/software/indexdatspy/) - freeware utility that allows you to view and optionally delete any index.dat file from your computer.
 
-[Category:文件格式](https://zh.wikipedia.org/wiki/Category:文件格式 "wikilink")
-[Category:Internet_Explorer](https://zh.wikipedia.org/wiki/Category:Internet_Explorer "wikilink")
+[Category:文件格式](https://zh.wikipedia.org/wiki/Category:文件格式 "wikilink") [Category:Internet_Explorer](https://zh.wikipedia.org/wiki/Category:Internet_Explorer "wikilink")

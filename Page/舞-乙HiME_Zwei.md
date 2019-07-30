@@ -1,21 +1,14 @@
-《**舞-乙HiME
-Zwei**》是[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")《[舞-乙HiME](../Page/舞-乙HiME.md "wikilink")》的[OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")，由[日本](../Page/日本.md "wikilink")[日昇動畫製作](../Page/日昇動畫.md "wikilink")。（注：zwei為德文中的「二」）
+《**舞-乙HiME Zwei**》是[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")《[舞-乙HiME](../Page/舞-乙HiME.md "wikilink")》的[OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")，由[日本](../Page/日本.md "wikilink")[日昇動畫](../Page/日昇動畫.md "wikilink")製作。（注：zwei為德文中的「二」）
 
-《**舞-乙HiME
-Zwei**》共有4話，在日本，第1話至4話已於2006年11月24日至2007年8月24日期間開始發售。而[藍光光碟及](../Page/藍光光碟.md "wikilink")[UMD版的OVA將於](../Page/通用媒體光碟.md "wikilink")2009年10月27日\[1\]
+《**舞-乙HiME Zwei**》共有4話，在日本，第1話至4話已於2006年11月24日至2007年8月24日期間開始發售。而[藍光光碟](../Page/藍光光碟.md "wikilink")及[UMD版的OVA將於](../Page/通用媒體光碟.md "wikilink")2009年10月27日\[1\]
 
-以動畫為根本的漫畫版《舞-乙HiME
-Zwei》，於2006年10月在日本[秋田書店的雜誌](../Page/秋田書店.md "wikilink")《Champion
-RED》上開始連載。該漫畫原著是[矢立肇](https://zh.wikipedia.org/wiki/矢立肇 "wikilink")，而畫者則由阿倍野茶子擔任。
+以動畫為根本的漫畫版《舞-乙HiME Zwei》，於2006年10月在日本[秋田書店](../Page/秋田書店.md "wikilink")的雜誌《Champion RED》上開始連載。該漫畫原著是[矢立肇](https://zh.wikipedia.org/wiki/矢立肇 "wikilink")，而畫者則由阿倍野茶子擔任。
 
-[舞-HiME
-Project的監督](https://zh.wikipedia.org/wiki/舞-HiME_Project "wikilink")[小原正和表示](../Page/小原正和.md "wikilink")，《舞-乙HiME
-Zwei》的4話OVA實際上是電視播放的動畫的真正結局，劇情進行中會解釋清楚之前在《[舞-乙HiME](../Page/舞-乙HiME.md "wikilink")》埋下的伏筆。
+[舞-HiME Project的監督](https://zh.wikipedia.org/wiki/舞-HiME_Project "wikilink")[小原正和](../Page/小原正和.md "wikilink")表示，《舞-乙HiME Zwei》的4話OVA實際上是電視播放的動畫的真正結局，劇情進行中會解釋清楚之前在《[舞-乙HiME](../Page/舞-乙HiME.md "wikilink")》埋下的伏筆。
 
 ## 作品介紹
 
-**舞-乙HiME
-Zwei**的舞台是[舞-乙HiME動畫完結後的一年之後](../Page/舞-乙HiME.md "wikilink")。主角亞里香雖然已經成為了Meister，但顯然還不「合格」，須要繼續接受瑪莉亞女士的指導。而另一方面，透過不斷的學習，真白也更像一個女王了。
+**舞-乙HiME Zwei**的舞台是[舞-乙HiME](../Page/舞-乙HiME.md "wikilink")動畫完結後的一年之後。主角亞里香雖然已經成為了Meister，但顯然還不「合格」，須要繼續接受瑪莉亞女士的指導。而另一方面，透過不斷的學習，真白也更像一個女王了。
 
 某天，新建成的天文台偵測到將有隕石從天而降，萬一墜落的話，溫德布倫王國及鄰近的國家將會無一倖免，Meister們要攜手對抗這隕石！而行星有史以來最大的危機，亦由這一刻開始了……
 
@@ -68,8 +61,7 @@ Zwei**的舞台是[舞-乙HiME動畫完結後的一年之後](../Page/舞-乙HiM
 <!-- end list -->
 
   - 二次物質化（Materialise Zwei）
-    亞里香的固有能力，蒼天之青玉的原狀，得到認證並唸出「蒼天」，能將蒼天之青玉真正的力量發揮，舞鬥服由Ver.1.5變成Ver.2，GEM的英文名字會變為Ultimate
-    Blue Sky，並且可以使用雙手劍「曉之大太刀 Sword of Akatsuki」。
+    亞里香的固有能力，蒼天之青玉的原狀，得到認證並唸出「蒼天」，能將蒼天之青玉真正的力量發揮，舞鬥服由Ver.1.5變成Ver.2，GEM的英文名字會變為Ultimate Blue Sky，並且可以使用雙手劍「曉之大太刀 Sword of Akatsuki」。
 
 <!-- end list -->
 
@@ -306,7 +298,6 @@ Zwei**的舞台是[舞-乙HiME動畫完結後的一年之後](../Page/舞-乙HiM
   - [](http://www.tv-tokyo.co.jp/anime/maiotome/)
   - [](https://web.archive.org/web/20070612191219/http://character.biglobe.ne.jp/special/my-zhime/)
 
-[Category:舞-HiME_Project](https://zh.wikipedia.org/wiki/Category:舞-HiME_Project "wikilink")
-[Category:2006年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:2006年日本OVA動畫 "wikilink")
+[Category:舞-HiME_Project](https://zh.wikipedia.org/wiki/Category:舞-HiME_Project "wikilink") [Category:2006年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:2006年日本OVA動畫 "wikilink")
 
 1.  \[Blu-ray及UMD版出售資料 <http://www.my-zhime.net/bdumd/index.html>\]

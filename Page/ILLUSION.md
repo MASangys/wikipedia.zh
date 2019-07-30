@@ -1,4 +1,4 @@
-**ILLUSION**（[日语](../Page/日语.md "wikilink")：イリュージョン）是位于[日本](../Page/日本.md "wikilink")[横滨的アイワン公司旗下之](https://zh.wikipedia.org/wiki/横滨 "wikilink")[成人遊戲品牌](../Page/日本成人遊戲.md "wikilink")，華語地區俗稱「幻影社」。\[1\]在1993年推出了首個遊戲，依照公司的自行规定，其开发的游戏不會在日本以外的地区销售，官方也只會對日本在地用戶提供售後支援\[2\]。自1997年起，產品中開始有多數美術風格採用[3D建模的遊戲](https://zh.wikipedia.org/wiki/3D電腦圖形 "wikilink")，事實上ILLUSION也是成人遊戲業界投入3D技術研發的最早先驅者之一，3D圖像的遊戲作品有[尾行系列](https://zh.wikipedia.org/wiki/尾行 "wikilink")、[欲望格斗系列](../Page/欲望格斗.md "wikilink")、[欲望之血系列](https://zh.wikipedia.org/wiki/欲望之血 "wikilink")、[人工少女系列及](https://zh.wikipedia.org/wiki/人工少女 "wikilink")[性感沙滩系列等](https://zh.wikipedia.org/wiki/性感沙滩 "wikilink")。
+**ILLUSION**（[日语](../Page/日语.md "wikilink")：イリュージョン）是位于[日本](../Page/日本.md "wikilink")[横滨的アイワン公司旗下之](https://zh.wikipedia.org/wiki/横滨 "wikilink")[成人遊戲品牌](../Page/日本成人遊戲.md "wikilink")，華語地區俗稱「幻影社」。\[1\]在1993年推出了首個遊戲，依照公司的自行规定，其开发的游戏不會在日本以外的地区销售，官方也只會對日本在地用戶提供售後支援\[2\]。自1997年起，產品中開始有多數美術風格採用[3D建模的遊戲](https://zh.wikipedia.org/wiki/3D電腦圖形 "wikilink")，事實上ILLUSION也是成人遊戲業界投入3D技術研發的最早先驅者之一，3D圖像的遊戲作品有[尾行系列](https://zh.wikipedia.org/wiki/尾行 "wikilink")、[欲望格斗](../Page/欲望格斗.md "wikilink")系列、[欲望之血系列](https://zh.wikipedia.org/wiki/欲望之血 "wikilink")、[人工少女系列及](https://zh.wikipedia.org/wiki/人工少女 "wikilink")[性感沙滩系列等](https://zh.wikipedia.org/wiki/性感沙滩 "wikilink")。
 
 ## 作品一览
 
@@ -15,8 +15,7 @@
   - 1993年8月27日 - 性戦士もっこりまん
   - 1993年11月20日 - 牌牌遊戯
   - 1994年3月25日 - 闇の稜線
-  - 1994年6月24日 -
-    もっこりまんRPG（這是該公司的第一款[RPG](https://zh.wikipedia.org/wiki/角色扮演遊戲 "wikilink")。）
+  - 1994年6月24日 - もっこりまんRPG（這是該公司的第一款[RPG](https://zh.wikipedia.org/wiki/角色扮演遊戲 "wikilink")。）
   - 1994年11月2日 - 鬼頭島女子刑務所
   - 1995年3月1日 - 柔肌美少女
   - 1995年3月10日 - レッドコブラ
@@ -26,94 +25,60 @@
   - 1996年5月24日 - 裏マンション発禁
   - 1996年6月28日 - まんぐり
   - 1996年9月13日 - 漂流
-  - 1996年10月25日 -
-    生本（這是該公司的第一款[Windows遊戲](https://zh.wikipedia.org/wiki/Windows "wikilink")。）
+  - 1996年10月25日 - 生本（這是該公司的第一款[Windows遊戲](https://zh.wikipedia.org/wiki/Windows "wikilink")。）
   - 1997年2月14日 - 魔界★
-  - 1997年12月26日 - [DES
-    BLOOD](https://zh.wikipedia.org/wiki/DES_BLOOD "wikilink")★
+  - 1997年12月26日 - [DES BLOOD](https://zh.wikipedia.org/wiki/DES_BLOOD "wikilink")★
   - 1998年8月28日 - 過激ゲーム（1）<small>【在正式版中，标题LOGO的1在圓圈里。】</small>
   - 1998年11月6日 - DES BLOOD2★
-  - 1999年5月14日 - [尾行
-    〜夜の帰り道〜](https://zh.wikipedia.org/wiki/尾行_〜夜の帰り道〜 "wikilink")★
+  - 1999年5月14日 - [尾行 〜夜の帰り道〜](https://zh.wikipedia.org/wiki/尾行_〜夜の帰り道〜 "wikilink")★
   - 2000年3月10日 - DES BLOOD3★
-  - 2000年9月14日 - [BRUTISH
-    MINE](https://zh.wikipedia.org/wiki/BRUTISH_MINE "wikilink")★（永恒的传说）
+  - 2000年9月14日 - [BRUTISH MINE](https://zh.wikipedia.org/wiki/BRUTISH_MINE "wikilink")★（永恒的传说）
   - 2000年11月2日 - INTERACT PLAY★(电车之狼,旗下子公司Dreams制作）
   - 2001年1月12日 - [〜リバーシブルフェイス〜 尾行2](../Page/尾行2.md "wikilink")★
   - 2001年3月9日 - ですぶら運動会 〜イシスの逆襲〜★（欲望少女运动会）
   - 2001年6月29日 - [レクイエムハーツ 〜監禁〜](../Page/监禁_\(游戏\).md "wikilink")★
   - 2001年8月21日 - INTERACT PLAY VR★(电车之狼VR,旗下子公司Dreams制作）
   - 2002年4月19日 - [欲望格鬥](https://zh.wikipedia.org/wiki/欲望格鬥 "wikilink")
-  - 2002年9月13日 - DES BLOOD4 〜LOST
-    ALONE〜★（[欲望之血4](../Page/欲望之血4.md "wikilink")）
+  - 2002年9月13日 - DES BLOOD4 〜LOST ALONE〜★（[欲望之血4](../Page/欲望之血4.md "wikilink")）
   - 2003年3月28日 - DBVR★（欲望之血VR，系列第一部之复刻版）
   - 2004年1月30日 - [尾行3](../Page/尾行3.md "wikilink")★
-  - 2004年6月25日 - [A-GA](https://zh.wikipedia.org/wiki/A-GA "wikilink")
-    〜激動の惑星〜★
-  - 2004年11月26日 -
-    [人工少女2](https://zh.wikipedia.org/wiki/人工少女#人工少女2 "wikilink")★
-  - 2005年4月22日 - [Battle RaperII 〜THE
-    GAME〜](https://zh.wikipedia.org/wiki/バトルレイパー "wikilink")★（欲望格斗2）
-  - 2005年11月25日 -
-    [おっぱいスライダー2](https://zh.wikipedia.org/wiki/おっぱいスライダー2 "wikilink")★
-  - 2006年4月21日 -
-    [レイプレイ](https://zh.wikipedia.org/wiki/電車之狼 "wikilink")★（RapeLay、电车之狼R）
-  - 2006年9月29日 -
-    [Sexyビーチ3](https://zh.wikipedia.org/wiki/Sexyビーチ "wikilink")★
-  - 2007年5月25日 -
-    [すくぅ〜るメイト](https://zh.wikipedia.org/wiki/すくぅ〜るメイト "wikilink")★
-  - 2007年11月30日 -
-    [人工少女3](https://zh.wikipedia.org/wiki/人工少女3 "wikilink")★
-  - 2008年5月30日 - [人工少女3
-    はんなり](https://zh.wikipedia.org/wiki/人工少女#人工少女3 "wikilink")★
+  - 2004年6月25日 - [A-GA](https://zh.wikipedia.org/wiki/A-GA "wikilink") 〜激動の惑星〜★
+  - 2004年11月26日 - [人工少女2](https://zh.wikipedia.org/wiki/人工少女#人工少女2 "wikilink")★
+  - 2005年4月22日 - [Battle RaperII 〜THE GAME〜](https://zh.wikipedia.org/wiki/バトルレイパー "wikilink")★（欲望格斗2）
+  - 2005年11月25日 - [おっぱいスライダー2](https://zh.wikipedia.org/wiki/おっぱいスライダー2 "wikilink")★
+  - 2006年4月21日 - [レイプレイ](https://zh.wikipedia.org/wiki/電車之狼 "wikilink")★（RapeLay、电车之狼R）
+  - 2006年9月29日 - [Sexyビーチ3](https://zh.wikipedia.org/wiki/Sexyビーチ "wikilink")★
+  - 2007年5月25日 - [すくぅ〜るメイト](https://zh.wikipedia.org/wiki/すくぅ〜るメイト "wikilink")★
+  - 2007年11月30日 - [人工少女3](https://zh.wikipedia.org/wiki/人工少女3 "wikilink")★
+  - 2008年5月30日 - [人工少女3 はんなり](https://zh.wikipedia.org/wiki/人工少女#人工少女3 "wikilink")★
   - 2008年10月10日 - 箱 -はこ-★
   - 2009年2月27日 - すくぅ〜るメイト Sweets\!★
-  - 2009年5月29日 -
-    [@ふぉーむメイト](https://zh.wikipedia.org/wiki/@ふぉーむメイト "wikilink")★
-  - 2009年10月2日 -
-    [勇者からは逃げられない\!](https://zh.wikipedia.org/wiki/勇者からは逃げられない! "wikilink")★
-  - 2010年2月19日 -
-    [リアル彼女](https://zh.wikipedia.org/wiki/リアル彼女 "wikilink")★
-  - 2010年6月25日 -
-    [すくぅ〜るメイト2](https://zh.wikipedia.org/wiki/すくぅ〜るメイト2 "wikilink")★
+  - 2009年5月29日 - [@ふぉーむメイト](https://zh.wikipedia.org/wiki/@ふぉーむメイト "wikilink")★
+  - 2009年10月2日 - [勇者からは逃げられない\!](https://zh.wikipedia.org/wiki/勇者からは逃げられない! "wikilink")★
+  - 2010年2月19日 - [リアル彼女](https://zh.wikipedia.org/wiki/リアル彼女 "wikilink")★
+  - 2010年6月25日 - [すくぅ〜るメイト2](https://zh.wikipedia.org/wiki/すくぅ〜るメイト2 "wikilink")★
   - 2010年8月20日 - でじたるメイト★
-  - 2010年10月29日 -
-    [SexyビーチZERO](https://zh.wikipedia.org/wiki/Sexyビーチ "wikilink")★
-  - 2010年12月3日 - デジタル3Dフィギュア きゃらコレ\!
-    -[ALICESOFT](https://zh.wikipedia.org/wiki/アリスソフト "wikilink")-★
-      - 2010年12月17日 - デジタル3Dフィギュア きゃらコレ\!
-        -[BaseSon](../Page/BaseSon.md "wikilink")-★
-  - 2011年6月10日 -
-    [ジンコウガクエン](https://zh.wikipedia.org/wiki/ジンコウガクエン "wikilink")★
-  - 2011年11月11日 -
-    [ワケあり\!](https://zh.wikipedia.org/wiki/ワケあり! "wikilink")★
-  - 2012年2月24日 - [ラブガール
-    〜魅惑の個人レッスン〜](https://zh.wikipedia.org/wiki/ラブガール_〜魅惑の個人レッスン〜 "wikilink")★
-  - 2012年3月9日 - [ベストコレクション悶
-    〜もだえ〜](https://zh.wikipedia.org/wiki/ベストコレクション悶_〜もだえ〜 "wikilink")★
-  - 2012年5月25日 -
-    [俺が主人公](https://zh.wikipedia.org/wiki/俺が主人公 "wikilink")★
-  - 2012年10月12日 -
-    [ハッピーエンドトリガー](https://zh.wikipedia.org/wiki/ハッピーエンドトリガー "wikilink")★
-  - 2013年1月25日 - [プレミアムプレイ
-    〜ダークネス〜](https://zh.wikipedia.org/wiki/プレミアムプレイ_〜ダークネス〜 "wikilink")★
-      - 2013年4月19日 -
-        [プレミアムスタジオPro](https://zh.wikipedia.org/wiki/プレミアムスタジオPro "wikilink")★
-  - 2013年7月26日 -
-    [むすメイク](https://zh.wikipedia.org/wiki/むすメイク "wikilink")★
-  - 2013年11月1日 -
-    [インモラル病棟](https://zh.wikipedia.org/wiki/インモラル病棟 "wikilink")★
-  - 2014年3月7日 -
-    [リアルプレイ](https://zh.wikipedia.org/wiki/リアルプレイ "wikilink")★
-  - 2014年6月13日 -
-    [ジンコウガクエン2](https://zh.wikipedia.org/wiki/ジンコウガクエン2 "wikilink")★
+  - 2010年10月29日 - [SexyビーチZERO](https://zh.wikipedia.org/wiki/Sexyビーチ "wikilink")★
+  - 2010年12月3日 - デジタル3Dフィギュア きゃらコレ\! -[ALICESOFT](https://zh.wikipedia.org/wiki/アリスソフト "wikilink")-★
+      - 2010年12月17日 - デジタル3Dフィギュア きゃらコレ\! -[BaseSon](../Page/BaseSon.md "wikilink")-★
+  - 2011年6月10日 - [ジンコウガクエン](https://zh.wikipedia.org/wiki/ジンコウガクエン "wikilink")★
+  - 2011年11月11日 - [ワケあり\!](https://zh.wikipedia.org/wiki/ワケあり! "wikilink")★
+  - 2012年2月24日 - [ラブガール 〜魅惑の個人レッスン〜](https://zh.wikipedia.org/wiki/ラブガール_〜魅惑の個人レッスン〜 "wikilink")★
+  - 2012年3月9日 - [ベストコレクション悶 〜もだえ〜](https://zh.wikipedia.org/wiki/ベストコレクション悶_〜もだえ〜 "wikilink")★
+  - 2012年5月25日 - [俺が主人公](https://zh.wikipedia.org/wiki/俺が主人公 "wikilink")★
+  - 2012年10月12日 - [ハッピーエンドトリガー](https://zh.wikipedia.org/wiki/ハッピーエンドトリガー "wikilink")★
+  - 2013年1月25日 - [プレミアムプレイ 〜ダークネス〜](https://zh.wikipedia.org/wiki/プレミアムプレイ_〜ダークネス〜 "wikilink")★
+      - 2013年4月19日 - [プレミアムスタジオPro](https://zh.wikipedia.org/wiki/プレミアムスタジオPro "wikilink")★
+  - 2013年7月26日 - [むすメイク](https://zh.wikipedia.org/wiki/むすメイク "wikilink")★
+  - 2013年11月1日 - [インモラル病棟](https://zh.wikipedia.org/wiki/インモラル病棟 "wikilink")★
+  - 2014年3月7日 - [リアルプレイ](https://zh.wikipedia.org/wiki/リアルプレイ "wikilink")★
+  - 2014年6月13日 - [ジンコウガクエン2](https://zh.wikipedia.org/wiki/ジンコウガクエン2 "wikilink")★
   - 2014年8月29日 - ジンコウガクエン2 アペンドセット★
   - 2014年10月31日 - ジンコウガクエン2 アペンドセットII ★
   - 2014年12月26日 - ハーレムめいと★
   - 2015年4月24日 - プレイクラブ★
   - 2015年7月10日 - プレイクラブ追加データ+スタジオ★
-  - 2015年9月11日 - [Sexyビーチ
-    プレミアムリゾート](https://zh.wikipedia.org/wiki/Sexyビーチ "wikilink")★
+  - 2015年9月11日 - [Sexyビーチ プレミアムリゾート](https://zh.wikipedia.org/wiki/Sexyビーチ "wikilink")★
   - 2016年4月28日 - セクロスフィア★
   - 2016年9月9日 - ハニーセレクト★
   - 2017年2月28日 - [VR女友](../Page/VR女友.md "wikilink")★
@@ -149,16 +114,12 @@
 
 <!-- end list -->
 
-  - 1999年8月6日 -
-    [湾岸DREAM](https://zh.wikipedia.org/wiki/湾岸DREAM "wikilink")★
+  - 1999年8月6日 - [湾岸DREAM](https://zh.wikipedia.org/wiki/湾岸DREAM "wikilink")★
   - 2000年6月9日 - DANCING CAT's★
-  - 2000年11月3日 - [INTERACT
-    PLAY](https://zh.wikipedia.org/wiki/INTERACT_PLAY "wikilink")★
+  - 2000年11月3日 - [INTERACT PLAY](https://zh.wikipedia.org/wiki/INTERACT_PLAY "wikilink")★
   - 2001年8月24日 - INTERACT PLAY VR★
-  - 2002年4月19日 - [Battle
-    Raper](https://zh.wikipedia.org/wiki/Battle_Raper "wikilink")★
-  - 2003年7月11日 -
-    [Sexyビーチ2](https://zh.wikipedia.org/wiki/Sexyビーチ "wikilink")★
+  - 2002年4月19日 - [Battle Raper](https://zh.wikipedia.org/wiki/Battle_Raper "wikilink")★
+  - 2003年7月11日 - [Sexyビーチ2](https://zh.wikipedia.org/wiki/Sexyビーチ "wikilink")★
   - 2003年9月12日 - ちくちくビーチ 〜みんな大好き〜★
 
 ### mixwill soft
@@ -169,7 +130,7 @@
 
 ## 相關爭議
 
-雖然官方只在日本當地販售軟體，但2006年推出的[电车之狼遊戲](../Page/电车之狼.md "wikilink")，在2009年被第三方卖家於[英語系](https://zh.wikipedia.org/wiki/英語 "wikilink")[亚马逊網站上販賣](https://zh.wikipedia.org/wiki/亚马逊公司 "wikilink")，其游戏内容引起了很大的争议，亚马逊在接到用户投诉后将其下架\[3\]。
+雖然官方只在日本當地販售軟體，但2006年推出的[电车之狼](../Page/电车之狼.md "wikilink")遊戲，在2009年被第三方卖家於[英語系](https://zh.wikipedia.org/wiki/英語 "wikilink")[亚马逊網站上販賣](https://zh.wikipedia.org/wiki/亚马逊公司 "wikilink")，其游戏内容引起了很大的争议，亚马逊在接到用户投诉后将其下架\[3\]。
 
 ## 参考资料
 
@@ -177,12 +138,8 @@
 
   - [ILLUSION官方网站（日文）](http://www.illusion.jp/)
 
-[Category:1992年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1992年開業電子遊戲公司 "wikilink")
-[Category:日本成人遊戲公司](https://zh.wikipedia.org/wiki/Category:日本成人遊戲公司 "wikilink")
-[Category:日本電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本電子遊戲公司 "wikilink")
+[Category:1992年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1992年開業電子遊戲公司 "wikilink") [Category:日本成人遊戲公司](https://zh.wikipedia.org/wiki/Category:日本成人遊戲公司 "wikilink") [Category:日本電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本電子遊戲公司 "wikilink")
 
 1.
-2.  [Dear customers in foreign
-    countries](http://www.illusion.jp/contact/japanese_only.html),
-    Illusion. Retrieved on 2018-02-07.
+2.  [Dear customers in foreign countries](http://www.illusion.jp/contact/japanese_only.html), Illusion. Retrieved on 2018-02-07.
 3.

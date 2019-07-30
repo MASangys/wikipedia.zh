@@ -1,24 +1,19 @@
-**MLDonkey**是一个[开源](../Page/开源软件.md "wikilink")[免费的多协议P](https://zh.wikipedia.org/wiki/免费软件 "wikilink")2P应用程序。起初它只是一个[Linux下的](../Page/Linux.md "wikilink")[eDonkey协议客户端](https://zh.wikipedia.org/wiki/eDonkey网络 "wikilink")，现在它支持多种点对点协议，并能在在各种不同风格的[类Unix系统](https://zh.wikipedia.org/wiki/类Unix "wikilink")、[Mac
-OS
-X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")、[Windows以及](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[MorphOS下运行](https://zh.wikipedia.org/wiki/MorphOS "wikilink")。它使用[OCaml语言编写](../Page/OCaml.md "wikilink")，同时有些部分使用了一些[C语言以及](https://zh.wikipedia.org/wiki/C语言 "wikilink")[汇编语言的代码](../Page/汇编语言.md "wikilink")，从而保证了它的高效能。
+**MLDonkey**是一个[开源](../Page/开源软件.md "wikilink")[免费的多协议P](https://zh.wikipedia.org/wiki/免费软件 "wikilink")2P应用程序。起初它只是一个[Linux](../Page/Linux.md "wikilink")下的[eDonkey协议客户端](https://zh.wikipedia.org/wiki/eDonkey网络 "wikilink")，现在它支持多种点对点协议，并能在在各种不同风格的[类Unix系统](https://zh.wikipedia.org/wiki/类Unix "wikilink")、[Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")、[Windows以及](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[MorphOS下运行](https://zh.wikipedia.org/wiki/MorphOS "wikilink")。它使用[OCaml](../Page/OCaml.md "wikilink")语言编写，同时有些部分使用了一些[C语言以及](https://zh.wikipedia.org/wiki/C语言 "wikilink")[汇编语言](../Page/汇编语言.md "wikilink")的代码，从而保证了它的高效能。
 
 ## 历史
 
-MLDonkey的开发始于2001年，最初的开发者是[INRIA的Fabrice](https://zh.wikipedia.org/wiki/INRIA "wikilink")
-Le Fessant。
+MLDonkey的开发始于2001年，最初的开发者是[INRIA的Fabrice](https://zh.wikipedia.org/wiki/INRIA "wikilink") Le Fessant。
 
 ## 功能
 
 MLdonkey的核心功能包括：
 
   - [P2P](https://zh.wikipedia.org/wiki/P2P "wikilink")[文件共享](https://zh.wikipedia.org/wiki/文件共享 "wikilink")，支持如下协议：
-      - [EDonkey
-        Network](https://zh.wikipedia.org/wiki/EDonkey_Network "wikilink")
+      - [EDonkey Network](https://zh.wikipedia.org/wiki/EDonkey_Network "wikilink")
 
       - [Overnet](https://zh.wikipedia.org/wiki/Overnet "wikilink")
 
-      - [Kad
-        Network](https://zh.wikipedia.org/wiki/Kad_Network "wikilink")
+      - [Kad Network](https://zh.wikipedia.org/wiki/Kad_Network "wikilink")
 
       - [BitTorrent](https://zh.wikipedia.org/wiki/BitTorrent "wikilink")
 
@@ -51,12 +46,7 @@ MLdonkey的核心功能包括：
 
 ## 外部链接
 
-  - [MLDonkey
-    SourceForge项目页面](http://sourceforge.net/projects/mldonkey/)
+  - [MLDonkey SourceForge项目页面](http://sourceforge.net/projects/mldonkey/)
   - [MLDonkey 主页](http://mldonkey.sourceforge.net/)
 
-[Category:SourceForge专案](https://zh.wikipedia.org/wiki/Category:SourceForge专案 "wikilink")
-[Category:自由跨平台軟體](https://zh.wikipedia.org/wiki/Category:自由跨平台軟體 "wikilink")
-[Category:EDonkey客戶端](https://zh.wikipedia.org/wiki/Category:EDonkey客戶端 "wikilink")
-[Category:BitTorrent客戶端](https://zh.wikipedia.org/wiki/Category:BitTorrent客戶端 "wikilink")
-[Category:自由檔案分享軟體](https://zh.wikipedia.org/wiki/Category:自由檔案分享軟體 "wikilink")
+[Category:SourceForge专案](https://zh.wikipedia.org/wiki/Category:SourceForge专案 "wikilink") [Category:自由跨平台軟體](https://zh.wikipedia.org/wiki/Category:自由跨平台軟體 "wikilink") [Category:EDonkey客戶端](https://zh.wikipedia.org/wiki/Category:EDonkey客戶端 "wikilink") [Category:BitTorrent客戶端](https://zh.wikipedia.org/wiki/Category:BitTorrent客戶端 "wikilink") [Category:自由檔案分享軟體](https://zh.wikipedia.org/wiki/Category:自由檔案分享軟體 "wikilink")

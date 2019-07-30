@@ -1,6 +1,4 @@
-**Carview年度風雲車**（****；**Carview Car of the
-Year**；**CVCOTY**）依據每年度注目程度來決定成為話題的車輛。並且，遴選正式在日本國內有被發表的新型汽車為對象。目前，經由「車輛景觀株式會社」（；Carview
-Corporation All rights reserved）訪問所有使用者、投稿者和汽車專業記者，採取1個人1次的投票所決定。
+**Carview年度風雲車**（****；**Carview Car of the Year**；**CVCOTY**）依據每年度注目程度來決定成為話題的車輛。並且，遴選正式在日本國內有被發表的新型汽車為對象。目前，經由「車輛景觀株式會社」（；Carview Corporation All rights reserved）訪問所有使用者、投稿者和汽車專業記者，採取1個人1次的投票所決定。
 
 ## 設立
 
@@ -68,11 +66,9 @@ Corporation All rights reserved）訪問所有使用者、投稿者和汽車專�
 
 :\*年度國產風雲車：[Mitsubishi i](https://zh.wikipedia.org/wiki/三菱i "wikilink")
 
-:\*年度進口風雲車：[Audi TT
-Coupe](https://zh.wikipedia.org/wiki/奧迪TT "wikilink")
+:\*年度進口風雲車：[Audi TT Coupe](https://zh.wikipedia.org/wiki/奧迪TT "wikilink")
 
-:\*年度特別風雲車：[Mitsuoka
-Orochi](https://zh.wikipedia.org/wiki/光岡Orochi "wikilink")
+:\*年度特別風雲車：[Mitsuoka Orochi](https://zh.wikipedia.org/wiki/光岡Orochi "wikilink")
 
   - 2007年（第2屆：2007－2008）
 
@@ -100,8 +96,7 @@ Orochi](https://zh.wikipedia.org/wiki/光岡Orochi "wikilink")
 
 ## 外部連結
 
-  - [Carview年度風雲車（Carview Car of the
-    Year；CVCOTY）](http://www.carview.co.jp/magazine/special/2006/cvcoty/)
+  - [Carview年度風雲車（Carview Car of the Year；CVCOTY）](http://www.carview.co.jp/magazine/special/2006/cvcoty/)
 
 [Category:日本汽車獎項](https://zh.wikipedia.org/wiki/Category:日本汽車獎項 "wikilink")
 

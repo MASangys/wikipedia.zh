@@ -3,8 +3,7 @@
 ## 概要
 
   -
-    本作品是接續第一作《[美少女戰士](../Page/美少女戰士_\(動畫\).md "wikilink")》的續作，曾經由[Video
-    Research調查指出日本關東地區達](../Page/Video_Research.md "wikilink")16.3%的收視率概況；並在日本同系列中的零售影帶、[公仔銷售量方面都保持著作品中的最高紀錄](https://zh.wikipedia.org/wiki/公仔 "wikilink")。
+    本作品是接續第一作《[美少女戰士](../Page/美少女戰士_\(動畫\).md "wikilink")》的續作，曾經由[Video Research調查指出日本關東地區達](../Page/Video_Research.md "wikilink")16.3%的收視率概況；並在日本同系列中的零售影帶、[公仔銷售量方面都保持著作品中的最高紀錄](https://zh.wikipedia.org/wiki/公仔 "wikilink")。
 
 ## 故事背景
 
@@ -125,10 +124,4 @@
   -
   -
   -
-[Category:1993年日本電視動畫](https://zh.wikipedia.org/wiki/Category:1993年日本電視動畫 "wikilink")
-[Category:美少女戰士](https://zh.wikipedia.org/wiki/Category:美少女戰士 "wikilink")
-[Category:朝日電視台動畫](https://zh.wikipedia.org/wiki/Category:朝日電視台動畫 "wikilink")
-[Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
-[Category:華視外購動畫](https://zh.wikipedia.org/wiki/Category:華視外購動畫 "wikilink")
-[Category:漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:漫畫改編動畫 "wikilink")
-[Category:30世紀背景作品](https://zh.wikipedia.org/wiki/Category:30世紀背景作品 "wikilink")
+[Category:1993年日本電視動畫](https://zh.wikipedia.org/wiki/Category:1993年日本電視動畫 "wikilink") [Category:美少女戰士](https://zh.wikipedia.org/wiki/Category:美少女戰士 "wikilink") [Category:朝日電視台動畫](https://zh.wikipedia.org/wiki/Category:朝日電視台動畫 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink") [Category:華視外購動畫](https://zh.wikipedia.org/wiki/Category:華視外購動畫 "wikilink") [Category:漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:漫畫改編動畫 "wikilink") [Category:30世紀背景作品](https://zh.wikipedia.org/wiki/Category:30世紀背景作品 "wikilink")

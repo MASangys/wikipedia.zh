@@ -1,29 +1,10 @@
-**OpenVanilla**（簡稱**OV**）計畫在[台灣也常被稱為](https://zh.wikipedia.org/wiki/台灣 "wikilink")「香草輸入法」，是一套跨平台的[輸入法及文字輸出的處理架構](https://zh.wikipedia.org/wiki/輸入法 "wikilink")；由[台灣團隊於](https://zh.wikipedia.org/wiki/台灣 "wikilink")
-2004 年開始開發，迄今已有 [Mac OS
-X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")
-以及供
-[Linux](../Page/Linux.md "wikilink")／[FreeBSD](../Page/FreeBSD.md "wikilink")
-各種作業系統使用的版本，可處理簡繁[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")、台語[白話字](https://zh.wikipedia.org/wiki/白話字 "wikilink")、[日文以及](https://zh.wikipedia.org/wiki/日文 "wikilink")[藏文等語言](../Page/藏文.md "wikilink")。OV
-也是一套開放原始碼的[自由軟體](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")。
+**OpenVanilla**（簡稱**OV**）計畫在[台灣也常被稱為](https://zh.wikipedia.org/wiki/台灣 "wikilink")「香草輸入法」，是一套跨平台的[輸入法及文字輸出的處理架構](https://zh.wikipedia.org/wiki/輸入法 "wikilink")；由[台灣團隊於](https://zh.wikipedia.org/wiki/台灣 "wikilink") 2004 年開始開發，迄今已有 [Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink") 以及供 [Linux](../Page/Linux.md "wikilink")／[FreeBSD](../Page/FreeBSD.md "wikilink") 各種作業系統使用的版本，可處理簡繁[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")、台語[白話字](https://zh.wikipedia.org/wiki/白話字 "wikilink")、[日文以及](https://zh.wikipedia.org/wiki/日文 "wikilink")[藏文](../Page/藏文.md "wikilink")等語言。OV 也是一套開放原始碼的[自由軟體](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")。
 
 ## 簡介
 
-OV 最初設計的目的，是為了解決 [Mac OS
-X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")
-上[繁體中文輸入法不盡理想的長久問題](https://zh.wikipedia.org/wiki/繁體中文 "wikilink")。OV
-延續
-[SpaceChewingOSX](http://rt.openfoundry.org/Foundry/Project/Wiki/100/index.html)
-與 [香草輸入法](http://rt.openfoundry.org/Foundry/Project/Wiki/170/index.html)
-的開放源碼模式，提出一套架構，讓撰寫輸入法變得更加容易。其後因為其框架的設計彈性，加入了文字輸出過濾器（output filter），讓 OV
-成為相當適合實驗各種輸入法的環境。
+OV 最初設計的目的，是為了解決 [Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink") 上[繁體中文輸入法不盡理想的長久問題](https://zh.wikipedia.org/wiki/繁體中文 "wikilink")。OV 延續 [SpaceChewingOSX](http://rt.openfoundry.org/Foundry/Project/Wiki/100/index.html) 與 [香草輸入法](http://rt.openfoundry.org/Foundry/Project/Wiki/170/index.html) 的開放源碼模式，提出一套架構，讓撰寫輸入法變得更加容易。其後因為其框架的設計彈性，加入了文字輸出過濾器（output filter），讓 OV 成為相當適合實驗各種輸入法的環境。
 
-[Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink") 上的
-OpenVanilla，是 [Universal
-Binary](https://zh.wikipedia.org/wiki/通用二進位 "wikilink")
-的執行檔，因此無論在使用 [PowerPC](../Page/PowerPC.md "wikilink") 或是
-[Intel](https://zh.wikipedia.org/wiki/Intel "wikilink") 的
-[CPU](https://zh.wikipedia.org/wiki/CPU "wikilink")
-的[麥金塔電腦上](../Page/麥金塔.md "wikilink")，均可使用。
+[Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink") 上的 OpenVanilla，是 [Universal Binary](https://zh.wikipedia.org/wiki/通用二進位 "wikilink") 的執行檔，因此無論在使用 [PowerPC](../Page/PowerPC.md "wikilink") 或是 [Intel](https://zh.wikipedia.org/wiki/Intel "wikilink") 的 [CPU](https://zh.wikipedia.org/wiki/CPU "wikilink") 的[麥金塔](../Page/麥金塔.md "wikilink")電腦上，均可使用。
 
 OV 的安裝套件中，包含程式核心，以及輸入法模組、文字輸出模組、詞彙管理模組以及偏好設定程式。
 
@@ -33,9 +14,7 @@ OV 的開發者包括：劉燈、姜天戩、劉康民、楊維中、陳侃如�
 
 ## 套件模組內容
 
-OV
-團隊本身提供了繁體中文的[注音](https://zh.wikipedia.org/wiki/注音 "wikilink")、智慧型注音輸入法：[酷音](http://chewing.csie.net/)（使用[新酷音輸入法團隊的](../Page/新酷音輸入法.md "wikilink")
-libchewing）、[行列](https://zh.wikipedia.org/wiki/行列輸入法 "wikilink")、泛用輸入法、Holo（「[台語](https://zh.wikipedia.org/wiki/台語 "wikilink")」）[白話字以及](https://zh.wikipedia.org/wiki/白話字 "wikilink")[藏文輸入法](../Page/藏文.md "wikilink")。透過泛用輸入法模組，使用者可以自行創建新的輸入法，或者將公開取得的輸入法資料表拷貝至資料目錄中，即可擁有諸如繁體[倉頡](https://zh.wikipedia.org/wiki/倉頡輸入法 "wikilink")、簡易、[大易](../Page/大易輸入法.md "wikilink")、簡體[拼音](https://zh.wikipedia.org/wiki/汉语拼音输入法 "wikilink")、五筆等等輸入法。
+OV 團隊本身提供了繁體中文的[注音](https://zh.wikipedia.org/wiki/注音 "wikilink")、智慧型注音輸入法：[酷音](http://chewing.csie.net/)（使用[新酷音輸入法](../Page/新酷音輸入法.md "wikilink")團隊的 libchewing）、[行列](https://zh.wikipedia.org/wiki/行列輸入法 "wikilink")、泛用輸入法、Holo（「[台語](https://zh.wikipedia.org/wiki/台語 "wikilink")」）[白話字以及](https://zh.wikipedia.org/wiki/白話字 "wikilink")[藏文](../Page/藏文.md "wikilink")輸入法。透過泛用輸入法模組，使用者可以自行創建新的輸入法，或者將公開取得的輸入法資料表拷貝至資料目錄中，即可擁有諸如繁體[倉頡](https://zh.wikipedia.org/wiki/倉頡輸入法 "wikilink")、簡易、[大易](../Page/大易輸入法.md "wikilink")、簡體[拼音](https://zh.wikipedia.org/wiki/汉语拼音输入法 "wikilink")、五筆等等輸入法。
 
 在文字輸出上，目前的模組可以做到即時的「打繁出簡」、「打簡出繁」、字根反查，以及全形文字輸出、歐語智慧引號等功能。
 
@@ -59,23 +38,17 @@ libchewing）、[行列](https://zh.wikipedia.org/wiki/行列輸入法 "wikilink
 
 ## 參考資料
 
-  - [我的第一本蘋果書--Mac OS X
-    Mavericks](https://books.google.com.tw/books?id=-8gVBQAAQBAJ&pg=PR80&dq=%E9%A6%99%E8%8D%89%E8%BC%B8%E5%85%A5%E6%B3%95&hl=zh-TW&sa=X&ei=L-ExVaCdHoG_mwXw74DgAw&ved=0CCUQ6AEwAQ#v=onepage&q=%E9%A6%99%E8%8D%89%E8%BC%B8%E5%85%A5%E6%B3%95&f=false)
+  - [我的第一本蘋果書--Mac OS X Mavericks](https://books.google.com.tw/books?id=-8gVBQAAQBAJ&pg=PR80&dq=%E9%A6%99%E8%8D%89%E8%BC%B8%E5%85%A5%E6%B3%95&hl=zh-TW&sa=X&ei=L-ExVaCdHoG_mwXw74DgAw&ved=0CCUQ6AEwAQ#v=onepage&q=%E9%A6%99%E8%8D%89%E8%BC%B8%E5%85%A5%E6%B3%95&f=false)
 
 ## 外部連結
 
   - [OpenVanilla 官方網站](http://openvanilla.org/)
-  - [OpenVanilla 討論區](http://groups.google.com/group/openvanilla)（Google
-    Group）
-  - [OpenVanilla
-    開發專案網頁](https://github.com/openvanilla/openvanilla/)（GitHub）
-  - [論文：OpenVanilla – A Non-Intrusive Plug-In Framework of Text
-    Services](http://arxiv.org/pdf/cs/0508041)
+  - [OpenVanilla 討論區](http://groups.google.com/group/openvanilla)（Google Group）
+  - [OpenVanilla 開發專案網頁](https://github.com/openvanilla/openvanilla/)（GitHub）
+  - [論文：OpenVanilla – A Non-Intrusive Plug-In Framework of Text Services](http://arxiv.org/pdf/cs/0508041)
   - [新酷音輸入法](http://chewing.csie.net/)
   - [ChewingOSX](http://chewingosx.sourceforge.net/)
       - [SpaceChewingOSX](http://rt.openfoundry.org/Foundry/Project/Wiki/100/index.html)
   - [香草輸入法](http://rt.openfoundry.org/Foundry/Project/Wiki/170/index.html)
 
-[Category:中文輸入法平台](https://zh.wikipedia.org/wiki/Category:中文輸入法平台 "wikilink")
-[Category:开放源代码](https://zh.wikipedia.org/wiki/Category:开放源代码 "wikilink")
-[Category:MacOS軟體](https://zh.wikipedia.org/wiki/Category:MacOS軟體 "wikilink")
+[Category:中文輸入法平台](https://zh.wikipedia.org/wiki/Category:中文輸入法平台 "wikilink") [Category:开放源代码](https://zh.wikipedia.org/wiki/Category:开放源代码 "wikilink") [Category:MacOS軟體](https://zh.wikipedia.org/wiki/Category:MacOS軟體 "wikilink")

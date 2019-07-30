@@ -1,5 +1,4 @@
-**通用即插即用**（，简称**UPnP**）是由“通用即插即用论坛”（UPnP™
-Forum）推广的一套网络协议。该协议的目标是使家庭网络（数据共享、通信和娱乐）和公司网络中的各种设备能够相互无缝连接，并简化相关网络的实现。UPnP通过定义和发布基于开放、因特网通讯网协议标准的UPnP设备控制协议来实现这一目标。
+**通用即插即用**（，简称**UPnP**）是由“通用即插即用论坛”（UPnP™ Forum）推广的一套网络协议。该协议的目标是使家庭网络（数据共享、通信和娱乐）和公司网络中的各种设备能够相互无缝连接，并简化相关网络的实现。UPnP通过定义和发布基于开放、因特网通讯网协议标准的UPnP设备控制协议来实现这一目标。
 
 UPnP这个概念是从[隨插即用](../Page/隨插即用.md "wikilink")（Plug-and-play）衍生而来的，隨插即用是一种热拔插技术。
 
@@ -9,10 +8,10 @@ UPnP体系允许PC间的点对点连接、网际互连和无线设备。它是�
 
 UPnP使得任意两个设备能在[LAN控制设备的管理下相互通信](https://zh.wikipedia.org/wiki/LAN "wikilink")。其特性包括：
 
-  - 传输介质和设备独立。UPnP技术可以应用在许多媒体上，包括[电话线](https://zh.wikipedia.org/wiki/电话线 "wikilink")、[电线](https://zh.wikipedia.org/wiki/电线 "wikilink")（[電力線通信PLC](../Page/電力線通信.md "wikilink")）、[以太网](../Page/以太网.md "wikilink")、[紅外通訊技術](https://zh.wikipedia.org/wiki/紅外通訊技術 "wikilink")（IrDA）、[無線電](https://zh.wikipedia.org/wiki/無線電 "wikilink")（[Wi-Fi](../Page/Wi-Fi.md "wikilink")，[蓝牙](https://zh.wikipedia.org/wiki/蓝牙 "wikilink")）和[Firewire](https://zh.wikipedia.org/wiki/Firewire "wikilink")（1394）。无需任务设备驱动；而是采用共同的协议。
+  - 传输介质和设备独立。UPnP技术可以应用在许多媒体上，包括[电话线](https://zh.wikipedia.org/wiki/电话线 "wikilink")、[电线](https://zh.wikipedia.org/wiki/电线 "wikilink")（[電力線通信](../Page/電力線通信.md "wikilink")PLC）、[以太网](../Page/以太网.md "wikilink")、[紅外通訊技術](https://zh.wikipedia.org/wiki/紅外通訊技術 "wikilink")（IrDA）、[無線電](https://zh.wikipedia.org/wiki/無線電 "wikilink")（[Wi-Fi](../Page/Wi-Fi.md "wikilink")，[蓝牙](https://zh.wikipedia.org/wiki/蓝牙 "wikilink")）和[Firewire](https://zh.wikipedia.org/wiki/Firewire "wikilink")（1394）。无需任务设备驱动；而是采用共同的协议。
   - [用户界面](../Page/用户界面.md "wikilink")（UI）控制。UPnP技术使得设备厂商可以通过网页浏览器来控制设备並进行交互。
   - 操作系统和程序语言独立。任何操作系统和程序语言均可以用于构建UPnP产品。UPnP并没有设定或限制运行于控制设备上的应用程序[API](https://zh.wikipedia.org/wiki/API "wikilink")；OS厂商可以建立满足他们客户需求的API。UPnP使得厂商可以像开发常规应用程序一样来控制设备UI和交互。
-  - 基于因特网技术。UPnP构建于IP、TCP、UDP、HTTP，和[XML等许多协议之上](../Page/XML.md "wikilink")。
+  - 基于因特网技术。UPnP构建于IP、TCP、UDP、HTTP，和[XML](../Page/XML.md "wikilink")等许多协议之上。
   - 编程控制。UPnP体系同时支持常规应用程序编程控制。
   - 扩展性。每个UPnP设备都可以有构建于基本体系之上、与具体设备相关的服务。
 
@@ -44,7 +43,7 @@ UPnP网络的下一步是控制。当一个控制点获取到设备描述信息�
 
 ### NAT穿透
 
-UPnP为NAT（[网络地址转换](../Page/网络地址转换.md "wikilink")）穿透带来了一个解决方案：[互联网网关设备协议](../Page/互联网网关设备协议.md "wikilink")（IGD）。[NAT穿透允许UPnP数据包在没有用户交互的情况下](../Page/NAT穿透.md "wikilink")，无障碍的通过[路由器或者](../Page/路由器.md "wikilink")[防火墙](../Page/防火墙.md "wikilink")（假如那个[路由器或者](../Page/路由器.md "wikilink")[防火墙支持NAT](../Page/防火墙.md "wikilink")）。
+UPnP为NAT（[网络地址转换](../Page/网络地址转换.md "wikilink")）穿透带来了一个解决方案：[互联网网关设备协议](../Page/互联网网关设备协议.md "wikilink")（IGD）。[NAT穿透](../Page/NAT穿透.md "wikilink")允许UPnP数据包在没有用户交互的情况下，无障碍的通过[路由器](../Page/路由器.md "wikilink")或者[防火墙](../Page/防火墙.md "wikilink")（假如那个[路由器](../Page/路由器.md "wikilink")或者[防火墙](../Page/防火墙.md "wikilink")支持NAT）。
 
 ## 未来的发展
 
@@ -54,17 +53,9 @@ UPnP影音媒体服务器存储和共享数字媒体，比如：图片、电影�
 
 ## 參考資料
 
-  - [UPnP™ Forum Universal Plug and Play Device
-    Standards](http://upnp.org/standardizeddcps/default.asp)
-  - [Golden G.
-    Richard](https://zh.wikipedia.org/wiki/Golden_G._Richard "wikilink")：<cite>Service
-    and Device Discovery : Protocols and Programming</cite>, McGraw-Hill
-    Professional, ISBN 0-07-137959-2
-  - [Michael
-    Jeronimo](https://zh.wikipedia.org/wiki/Michael_Jeronimo "wikilink")，[Jack
-    Weast](https://zh.wikipedia.org/wiki/Jack_Weast "wikilink")：<cite>UPnP
-    Design by Example: A Software Developer's Guide to Universal Plug
-    and Play</cite>, Intel Press, ISBN 0-9717861-1-9
+  - [UPnP™ Forum Universal Plug and Play Device Standards](http://upnp.org/standardizeddcps/default.asp)
+  - [Golden G. Richard](https://zh.wikipedia.org/wiki/Golden_G._Richard "wikilink")：<cite>Service and Device Discovery : Protocols and Programming</cite>, McGraw-Hill Professional, ISBN 0-07-137959-2
+  - [Michael Jeronimo](https://zh.wikipedia.org/wiki/Michael_Jeronimo "wikilink")，[Jack Weast](https://zh.wikipedia.org/wiki/Jack_Weast "wikilink")：<cite>UPnP Design by Example: A Software Developer's Guide to Universal Plug and Play</cite>, Intel Press, ISBN 0-9717861-1-9
 
 <references/>
 
@@ -74,25 +65,14 @@ UPnP影音媒体服务器存储和共享数字媒体，比如：图片、电影�
 
   - [UPnP™ Forum](http://www.upnp.org)
   - [DLNA (Digital Living Network Alliance)](http://www.dlna.org)
-  - [The Jini,
-    Vision](https://web.archive.org/web/20031011210932/http://developer.java.sun.com/developer/technicalArticles/jini/JiniVision/jiniology.html)
-  - [technique
-    comparison](https://web.archive.org/web/20070311050352/http://cswl.com/whitepapers/upnp-devices.html)
-  - [Microsoft WHDC UPnP webpage &
-    links](https://web.archive.org/web/20071006001030/http://www.microsoft.com/whdc/device/netAttach/UPnP/default.mspx)
-  - [Universal Plug and Play in Windows
-    XP](https://web.archive.org/web/20070504044032/http://www.microsoft.com/technet/prodtechnol/winxppro/evaluate/upnpxp.mspx)
+  - [The Jini, Vision](https://web.archive.org/web/20031011210932/http://developer.java.sun.com/developer/technicalArticles/jini/JiniVision/jiniology.html)
+  - [technique comparison](https://web.archive.org/web/20070311050352/http://cswl.com/whitepapers/upnp-devices.html)
+  - [Microsoft WHDC UPnP webpage & links](https://web.archive.org/web/20071006001030/http://www.microsoft.com/whdc/device/netAttach/UPnP/default.mspx)
+  - [Universal Plug and Play in Windows XP](https://web.archive.org/web/20070504044032/http://www.microsoft.com/technet/prodtechnol/winxppro/evaluate/upnpxp.mspx)
 
 ### 新聞
 
-  - [Security firm predicts Microsoft Windows UPnP exploit by the end of
-    the
-    week](https://web.archive.org/web/20070716123550/http://www.theinquirer.net/default.aspx?article=38860)
-    at The Inquirer (Wednesday, 11 April 2007)
-      - [Microsoft security updates for
-        April 2007](https://web.archive.org/web/20070515102455/http://www.microsoft.com/athome/security/update/bulletins/200704.mspx)
-        to fix the above [Microsoft
-        Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")
-        UPnP security issue.
+  - [Security firm predicts Microsoft Windows UPnP exploit by the end of the week](https://web.archive.org/web/20070716123550/http://www.theinquirer.net/default.aspx?article=38860) at The Inquirer (Wednesday, 11 April 2007)
+      - [Microsoft security updates for April 2007](https://web.archive.org/web/20070515102455/http://www.microsoft.com/athome/security/update/bulletins/200704.mspx) to fix the above [Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink") UPnP security issue.
 
 [Category:网络协议](https://zh.wikipedia.org/wiki/Category:网络协议 "wikilink")

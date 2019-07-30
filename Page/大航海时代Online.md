@@ -4,11 +4,11 @@
 
 ## 故事背景
 
-遊戲設定在公元16世紀的[大航海時代](https://zh.wikipedia.org/wiki/大航海時代_\(地理\) "wikilink")，歐洲的六個國家──[葡萄牙](../Page/葡萄牙.md "wikilink")、[西班牙](../Page/西班牙.md "wikilink")、[英格蘭](https://zh.wikipedia.org/wiki/英格蘭王國 "wikilink")、[法蘭西](https://zh.wikipedia.org/wiki/法蘭西 "wikilink")、[荷蘭及](https://zh.wikipedia.org/wiki/荷蘭 "wikilink")[威尼斯為了開闢往](../Page/威尼斯.md "wikilink")[印度和](../Page/印度.md "wikilink")[美洲以及](../Page/美洲.md "wikilink")[遠東的新航路而進行海上的探索](../Page/遠東.md "wikilink")，而一些敵對陣營如[鄂圖曼帝國也會出現](https://zh.wikipedia.org/wiki/鄂圖曼帝國 "wikilink")。遊戲故事以史實為藍本，加入一些虛構的人物作為遊戲故事的中心，當中亦不乏一些著名的歷史人物如[哥倫布](https://zh.wikipedia.org/wiki/哥倫布 "wikilink")、[達·伽馬及](https://zh.wikipedia.org/wiki/達·伽馬 "wikilink")[伊莉沙白一世等](https://zh.wikipedia.org/wiki/伊莉莎白一世_\(英格蘭\) "wikilink")。在此，玩家可以自由選擇以上六國之一的航海者，並向未知而遙遠的新航路揚帆。除了探險外，玩家亦可以進行海上貿易及海戰。遊戲中不但有數百種世界各地的特產交易商品，讓玩家仿若置身16世紀，體驗大航海時代燦爛的商業之旅；數百個真實港口，上千種冒險任務，讓玩家能置身上千個歷史史詩之中；近百種船艦，也是忠實的呈現當時的面貌。本遊戲曾被選為[東京大學的研究課題](https://zh.wikipedia.org/wiki/東京大學 "wikilink")\[1\]。
+遊戲設定在公元16世紀的[大航海時代](https://zh.wikipedia.org/wiki/大航海時代_\(地理\) "wikilink")，歐洲的六個國家──[葡萄牙](../Page/葡萄牙.md "wikilink")、[西班牙](../Page/西班牙.md "wikilink")、[英格蘭](https://zh.wikipedia.org/wiki/英格蘭王國 "wikilink")、[法蘭西](https://zh.wikipedia.org/wiki/法蘭西 "wikilink")、[荷蘭及](https://zh.wikipedia.org/wiki/荷蘭 "wikilink")[威尼斯](../Page/威尼斯.md "wikilink")為了開闢往[印度](../Page/印度.md "wikilink")和[美洲](../Page/美洲.md "wikilink")以及[遠東](../Page/遠東.md "wikilink")的新航路而進行海上的探索，而一些敵對陣營如[鄂圖曼帝國也會出現](https://zh.wikipedia.org/wiki/鄂圖曼帝國 "wikilink")。遊戲故事以史實為藍本，加入一些虛構的人物作為遊戲故事的中心，當中亦不乏一些著名的歷史人物如[哥倫布](https://zh.wikipedia.org/wiki/哥倫布 "wikilink")、[達·伽馬及](https://zh.wikipedia.org/wiki/達·伽馬 "wikilink")[伊莉沙白一世等](https://zh.wikipedia.org/wiki/伊莉莎白一世_\(英格蘭\) "wikilink")。在此，玩家可以自由選擇以上六國之一的航海者，並向未知而遙遠的新航路揚帆。除了探險外，玩家亦可以進行海上貿易及海戰。遊戲中不但有數百種世界各地的特產交易商品，讓玩家仿若置身16世紀，體驗大航海時代燦爛的商業之旅；數百個真實港口，上千種冒險任務，讓玩家能置身上千個歷史史詩之中；近百種船艦，也是忠實的呈現當時的面貌。本遊戲曾被選為[東京大學的研究課題](https://zh.wikipedia.org/wiki/東京大學 "wikilink")\[1\]。
 
 ## 遊戲系統
 
-玩家可以因應自己的喜好選擇[葡萄牙](../Page/葡萄牙.md "wikilink")、[西班牙](../Page/西班牙.md "wikilink")、[英格蘭](https://zh.wikipedia.org/wiki/英格蘭王國 "wikilink")、[法蘭西](https://zh.wikipedia.org/wiki/法蘭西 "wikilink")、[荷蘭及](https://zh.wikipedia.org/wiki/荷蘭 "wikilink")[威尼斯共和國六國其中之一作為出生地](https://zh.wikipedia.org/wiki/威尼斯共和國 "wikilink")，敵對陣營的[鄂圖曼帝國則需以叛國亡命方式才能入籍](https://zh.wikipedia.org/wiki/鄂圖曼帝國 "wikilink")。當玩家選擇了國籍後，便會在此六國的首都──[里斯本](../Page/里斯本.md "wikilink")、[塞維爾](https://zh.wikipedia.org/wiki/塞維爾 "wikilink")、[倫敦](https://zh.wikipedia.org/wiki/倫敦 "wikilink")、[馬賽](https://zh.wikipedia.org/wiki/馬賽 "wikilink")、[阿姆斯特丹及](../Page/阿姆斯特丹.md "wikilink")[威尼斯開始遊戲](../Page/威尼斯.md "wikilink")，鄂圖曼的首都則是[伊斯坦堡](../Page/伊斯坦堡.md "wikilink")。此外，玩家在一開始時可以選擇三種不同的職業──[冒險家](https://zh.wikipedia.org/wiki/冒險家 "wikilink")、[商人及](../Page/商人.md "wikilink")[軍人](https://zh.wikipedia.org/wiki/軍人 "wikilink")。雖然有職業上的選擇，但玩家仍可以習得其他職業的技能作為輔助，更可以進行職業轉換（需進行特定任務）。而玩家在探險海洋的同時，也會探索其他事物諸如歷史遺物或寶藏等，而海上貿易及海戰也供玩家進行。另一方面，官方也會定期舉辦各國玩家之間混戰的「大海戰」，在特定海域，玩家之間更可以展開對戰；“大投資戰”，大幅度的投資，給予玩家快速獲取聲望的途徑，所在港口也得到快速發展；冒險家們的聚會──“卡片論戰”，讓玩家“紙上談兵”。
+玩家可以因應自己的喜好選擇[葡萄牙](../Page/葡萄牙.md "wikilink")、[西班牙](../Page/西班牙.md "wikilink")、[英格蘭](https://zh.wikipedia.org/wiki/英格蘭王國 "wikilink")、[法蘭西](https://zh.wikipedia.org/wiki/法蘭西 "wikilink")、[荷蘭及](https://zh.wikipedia.org/wiki/荷蘭 "wikilink")[威尼斯共和國六國其中之一作為出生地](https://zh.wikipedia.org/wiki/威尼斯共和國 "wikilink")，敵對陣營的[鄂圖曼帝國則需以叛國亡命方式才能入籍](https://zh.wikipedia.org/wiki/鄂圖曼帝國 "wikilink")。當玩家選擇了國籍後，便會在此六國的首都──[里斯本](../Page/里斯本.md "wikilink")、[塞維爾](https://zh.wikipedia.org/wiki/塞維爾 "wikilink")、[倫敦](https://zh.wikipedia.org/wiki/倫敦 "wikilink")、[馬賽](https://zh.wikipedia.org/wiki/馬賽 "wikilink")、[阿姆斯特丹](../Page/阿姆斯特丹.md "wikilink")及[威尼斯](../Page/威尼斯.md "wikilink")開始遊戲，鄂圖曼的首都則是[伊斯坦堡](../Page/伊斯坦堡.md "wikilink")。此外，玩家在一開始時可以選擇三種不同的職業──[冒險家](https://zh.wikipedia.org/wiki/冒險家 "wikilink")、[商人](../Page/商人.md "wikilink")及[軍人](https://zh.wikipedia.org/wiki/軍人 "wikilink")。雖然有職業上的選擇，但玩家仍可以習得其他職業的技能作為輔助，更可以進行職業轉換（需進行特定任務）。而玩家在探險海洋的同時，也會探索其他事物諸如歷史遺物或寶藏等，而海上貿易及海戰也供玩家進行。另一方面，官方也會定期舉辦各國玩家之間混戰的「大海戰」，在特定海域，玩家之間更可以展開對戰；“大投資戰”，大幅度的投資，給予玩家快速獲取聲望的途徑，所在港口也得到快速發展；冒險家們的聚會──“卡片論戰”，讓玩家“紙上談兵”。
 
 ## 國家劇情
 
@@ -18,21 +18,21 @@
 
   -
     **西方的軍事大國**
-    自[收復失地運動以來](../Page/收復失地運動.md "wikilink")，西班牙統一不足數十年。但在這段期間，西班牙已經走上海上霸權的道路，並支配著廣大的領地如[荷蘭等](https://zh.wikipedia.org/wiki/荷蘭 "wikilink")。
+    自[收復失地運動](../Page/收復失地運動.md "wikilink")以來，西班牙統一不足數十年。但在這段期間，西班牙已經走上海上霸權的道路，並支配著廣大的領地如[荷蘭等](https://zh.wikipedia.org/wiki/荷蘭 "wikilink")。
 
 <!-- end list -->
 
   - **巴爾特薩爾**：38歲，西班牙主線故事的主人翁，西班牙黑鯱傭兵艦隊隊長。為了追逐巴巴里海盜首領海雷丁而率領艦隊對抗之。
   - **艾德瓦多**：20歲，黑鯱艦隊新隊長。曾經為巴爾特薩爾的追隨者。
   - **阿格斯蒂諾**：39歲，西班牙官員。為巴爾特薩爾的戰友。
-  - **[海雷丁·巴巴羅薩](https://zh.wikipedia.org/wiki/海雷丁·巴巴羅薩 "wikilink")**：38歲，歷史人物。巴巴里海盜的首領，並在[阿爾及爾建立海盜基地](../Page/阿爾及爾.md "wikilink")，成為[鄂圖曼帝國的附屬](https://zh.wikipedia.org/wiki/鄂圖曼帝國 "wikilink")。
+  - **[海雷丁·巴巴羅薩](https://zh.wikipedia.org/wiki/海雷丁·巴巴羅薩 "wikilink")**：38歲，歷史人物。巴巴里海盜的首領，並在[阿爾及爾](../Page/阿爾及爾.md "wikilink")建立海盜基地，成為[鄂圖曼帝國的附屬](https://zh.wikipedia.org/wiki/鄂圖曼帝國 "wikilink")。
   - **伊萊諾**：29歲，[馬賽的酒館女郎](https://zh.wikipedia.org/wiki/馬賽 "wikilink")。她成為了很多冒險者所追求的對象。
 
 ### 葡萄牙
 
   -
     **遠洋航海的先驅者**
-    作為一個濱臨[大西洋的國家](../Page/大西洋.md "wikilink")，葡萄牙的海上探險事業為六國之中最早發展，如它成為最早到達[南非](https://zh.wikipedia.org/wiki/南非 "wikilink")[好望角](../Page/好望角.md "wikilink")，以及最早開闢印度航線的國家。雖然如此，但它也面對著與鄰國西班牙的競爭。
+    作為一個濱臨[大西洋](../Page/大西洋.md "wikilink")的國家，葡萄牙的海上探險事業為六國之中最早發展，如它成為最早到達[南非](https://zh.wikipedia.org/wiki/南非 "wikilink")[好望角](../Page/好望角.md "wikilink")，以及最早開闢印度航線的國家。雖然如此，但它也面對著與鄰國西班牙的競爭。
 
 <!-- end list -->
 
@@ -90,7 +90,7 @@
 
   -
     **夕陽的都市國家**
-    威尼斯為義大利半島的一個城邦共和國，有「水城」之美譽。作為六國之中最接近東方的國家，威尼斯壟斷了來自[亞歷山大港的少量](https://zh.wikipedia.org/wiki/亞歷山大港 "wikilink")[胡椒](https://zh.wikipedia.org/wiki/胡椒 "wikilink")，令胡椒價格非常昂貴。可是，自東方[鄂圖曼土耳其帝國的崛起](https://zh.wikipedia.org/wiki/鄂圖曼土耳其帝國 "wikilink")，以及[葡萄牙發現到達印度的新航線後](../Page/葡萄牙.md "wikilink")，威尼斯在地中海的壟斷走向未路……
+    威尼斯為義大利半島的一個城邦共和國，有「水城」之美譽。作為六國之中最接近東方的國家，威尼斯壟斷了來自[亞歷山大港的少量](https://zh.wikipedia.org/wiki/亞歷山大港 "wikilink")[胡椒](https://zh.wikipedia.org/wiki/胡椒 "wikilink")，令胡椒價格非常昂貴。可是，自東方[鄂圖曼土耳其帝國的崛起](https://zh.wikipedia.org/wiki/鄂圖曼土耳其帝國 "wikilink")，以及[葡萄牙](../Page/葡萄牙.md "wikilink")發現到達印度的新航線後，威尼斯在地中海的壟斷走向未路……
 
 <!-- end list -->
 
@@ -104,7 +104,7 @@
 
 ### La Frontera
 
-[加勒比海](../Page/加勒比海.md "wikilink")、[中美洲](../Page/中美洲.md "wikilink")、[南美洲東岸和](../Page/南美洲.md "wikilink")[東南亞地方開放](https://zh.wikipedia.org/wiki/東南亞 "wikilink")。
+[加勒比海](../Page/加勒比海.md "wikilink")、[中美洲](../Page/中美洲.md "wikilink")、[南美洲](../Page/南美洲.md "wikilink")東岸和[東南亞地方開放](https://zh.wikipedia.org/wiki/東南亞 "wikilink")。
 
   - 第一章 [阿茲特克](../Page/阿茲特克.md "wikilink")
   - 第二章 [吳哥王朝](https://zh.wikipedia.org/wiki/吳哥王朝 "wikilink")
@@ -112,23 +112,19 @@
 
 ### Cruz del Sur
 
-[太平洋](https://zh.wikipedia.org/wiki/太平洋 "wikilink")、[大洋洲和](../Page/大洋洲.md "wikilink")[南美洲西岸地方開放](../Page/南美洲.md "wikilink")。
+[太平洋](https://zh.wikipedia.org/wiki/太平洋 "wikilink")、[大洋洲](../Page/大洋洲.md "wikilink")和[南美洲](../Page/南美洲.md "wikilink")西岸地方開放。
 
-  - 第一章 環遊世界篇 —
-    以[麥哲倫環球航行作背景](https://zh.wikipedia.org/wiki/麥哲倫 "wikilink")，環绕地球一週航行。
+  - 第一章 環遊世界篇 — 以[麥哲倫環球航行作背景](https://zh.wikipedia.org/wiki/麥哲倫 "wikilink")，環绕地球一週航行。
       - 關鍵人物－**艾蓮娜**： 環遊世界篇的主角，跟随玩家在船上，是麥哲倫的養女。
       - 關鍵人物－**迪亞哥‧巴柏沙**： 艾蓮娜的爺爺。
-      - 關鍵人物－**[埃爾卡諾](https://zh.wikipedia.org/wiki/埃爾卡諾 "wikilink")**：
-        曾是麥哲倫艦隊的其中一員。處心積慮想除掉艾蓮娜。
+      - 關鍵人物－**[埃爾卡諾](https://zh.wikipedia.org/wiki/埃爾卡諾 "wikilink")**： 曾是麥哲倫艦隊的其中一員。處心積慮想除掉艾蓮娜。
   - 第二章 特殊裝飾物篇 — 加入寵物系統及冒險發現物裝飾品製作。
   - 第三章 歡度周年慶篇
-  - 第四章 [印加帝國篇](../Page/印加帝國.md "wikilink")
+  - 第四章 [印加帝國](../Page/印加帝國.md "wikilink")篇
       - 關鍵人物－**蘿拉**： 印加帝國篇的主角，印加帝國太陽巫女。
       - 關鍵人物－**舒萊登華爾德**： 盜賊騎士。
-      - 關鍵人物－**[法蘭西斯科·皮薩羅](../Page/法蘭西斯克·皮澤洛.md "wikilink")**：
-        [征服者](../Page/征服者.md "wikilink")。
-  - 第五章 鄂圖曼的威脅篇 —
-    開放亡命至[鄂圖曼帝國](https://zh.wikipedia.org/wiki/鄂圖曼帝國 "wikilink")。
+      - 關鍵人物－**[法蘭西斯科·皮薩羅](../Page/法蘭西斯克·皮澤洛.md "wikilink")**： [征服者](../Page/征服者.md "wikilink")。
+  - 第五章 鄂圖曼的威脅篇 — 開放亡命至[鄂圖曼帝國](https://zh.wikipedia.org/wiki/鄂圖曼帝國 "wikilink")。
   - 號外章 探索之旅篇
 
 ### El Oriente
@@ -233,14 +229,14 @@
 
 ### 中国大陆
 
-  - 2006年6月1日－2007年9月2日，[盛宣鸣代理](../Page/盛宣鸣.md "wikilink")。
+  - 2006年6月1日－2007年9月2日，[盛宣鸣](../Page/盛宣鸣.md "wikilink")代理。
   - 2007年10月30日－2010年11月26日，[中荣巡游代理](https://zh.wikipedia.org/wiki/中荣巡游 "wikilink")。
-  - 2012年10月18日－至今，[上海天戏代理](https://zh.wikipedia.org/wiki/上海天戏 "wikilink")。
+  - 2012年10月18日－2019年7月5日，[上海天戏代理](https://zh.wikipedia.org/wiki/上海天戏 "wikilink")。
 
 ### 臺灣
 
-  - 2005年12月20日－2009年10月30日，[大宇資訊代理](../Page/大宇資訊.md "wikilink")（月費制）。
-  - 2009年12月2日－至今，[紅心辣椒代理](../Page/紅心辣椒.md "wikilink")（免費制）。
+  - 2005年12月20日－2009年10月30日，[大宇資訊](../Page/大宇資訊.md "wikilink")代理（月費制）。
+  - 2009年12月2日－至今，[紅心辣椒](../Page/紅心辣椒.md "wikilink")代理（免費制）。
   - 2013年1月31日2nd Age正式上線。
 
 ### 南韓
@@ -262,11 +258,6 @@
   - [歐美大航海时代（国际服）官方网站（OGPlanet）](http://uwo.ogplanet.com/)
   - [大航海时代巴哈大百科（）](http://wiki2.gamer.com.tw/wiki.php?n=7501%3A%E9%81%8A%E6%88%B2%E4%BB%8B%E7%B4%B9&mpath=&gtNOB=1)
 
-[Category:2005年电子游戏](https://zh.wikipedia.org/wiki/Category:2005年电子游戏 "wikilink")
-[Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:光荣游戏](https://zh.wikipedia.org/wiki/Category:光荣游戏 "wikilink")
-[Category:大型多人在线角色扮演游戏](https://zh.wikipedia.org/wiki/Category:大型多人在线角色扮演游戏 "wikilink")
-[Category:大航海時代系列](https://zh.wikipedia.org/wiki/Category:大航海時代系列 "wikilink")
+[Category:2005年电子游戏](https://zh.wikipedia.org/wiki/Category:2005年电子游戏 "wikilink") [Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:光荣游戏](https://zh.wikipedia.org/wiki/Category:光荣游戏 "wikilink") [Category:大型多人在线角色扮演游戏](https://zh.wikipedia.org/wiki/Category:大型多人在线角色扮演游戏 "wikilink") [Category:大航海時代系列](https://zh.wikipedia.org/wiki/Category:大航海時代系列 "wikilink")
 
 1.  [東京大學引為歷史課教材](http://games.qq.com/a/20060904/000192.htm)

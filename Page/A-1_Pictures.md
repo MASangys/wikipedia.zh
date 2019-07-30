@@ -1,23 +1,16 @@
-**株式會社A-1
-Pictures**（，，簡稱**A1P**\[1\]）為[日本](../Page/日本.md "wikilink")[Aniplex所屬製作](../Page/Aniplex.md "wikilink")[動畫的](https://zh.wikipedia.org/wiki/動畫 "wikilink")[子公司](../Page/子公司.md "wikilink")，於2005年5月9日成立。[日本動畫協會正式會員](../Page/日本動畫協會.md "wikilink")。
+**株式會社A-1 Pictures**（，，簡稱**A1P**\[1\]）為[日本](../Page/日本.md "wikilink")[Aniplex](../Page/Aniplex.md "wikilink")所屬製作[動畫的](https://zh.wikipedia.org/wiki/動畫 "wikilink")[子公司](../Page/子公司.md "wikilink")，於2005年5月9日成立。[日本動畫協會](../Page/日本動畫協會.md "wikilink")正式會員。
 
 ## 概要、沿革
 
-2005年，[日本索尼音樂的旗下企業](https://zh.wikipedia.org/wiki/日本索尼音樂 "wikilink")[Aniplex希望更有效發展動畫製作業務](../Page/Aniplex.md "wikilink")，決意成立一間穩定和高品質的公司，A-1
-Pictures就此正式成立。2006年，與另一家動畫公司共同製作的動畫《》在電視上播出之後，便立即投入獨立製作。同年10月，A-1
-Pictures總部遷往在[東京都](../Page/東京都.md "wikilink")[杉並區的](../Page/杉並區.md "wikilink")[阿佐谷工作室](../Page/阿佐谷.md "wikilink")。2007年，由A-1
-Pictures獨立製作的第一部電視動畫《[王牌投手 振臂高揮](../Page/王牌投手_振臂高揮.md "wikilink")》播出。
+2005年，[日本索尼音樂的旗下企業](https://zh.wikipedia.org/wiki/日本索尼音樂 "wikilink")[Aniplex](../Page/Aniplex.md "wikilink")希望更有效發展動畫製作業務，決意成立一間穩定和高品質的公司，A-1 Pictures就此正式成立。2006年，與另一家動畫公司共同製作的動畫《》在電視上播出之後，便立即投入獨立製作。同年10月，A-1 Pictures總部遷往在[東京都](../Page/東京都.md "wikilink")[杉並區](../Page/杉並區.md "wikilink")的[阿佐谷](../Page/阿佐谷.md "wikilink")工作室。2007年，由A-1 Pictures獨立製作的第一部電視動畫《[王牌投手 振臂高揮](../Page/王牌投手_振臂高揮.md "wikilink")》播出。
 
-2011年，以偶像為題材的電玩遊戲系列原作的改編作品《偶像大師》於同年7月播出的之後，榮獲『Newtype×Machi☆Asobi動畫獎2011』的CM部門獎、『Newtype×Machi☆Asobi動畫獎2012』的導演獎和腳本獎等7個部門，並擠進排行榜上的前2名。2014年在劇院上映的劇場版獲得了『Newtype×Machi☆Asobi動畫獎2014』的工作室獎和導演獎等6個部門多種獎項。2015年，又再度獲得了『Newtype×Machi☆Asobi動畫獎2015』的工作室獎。同年1月，《偶像大師》推出的另一部電玩遊戲系列原作的改編作品《[偶像大師
-灰姑娘女孩](https://zh.wikipedia.org/wiki/偶像大師_灰姑娘女孩 "wikilink")》的電視動畫播出之後入圍人物設計獎。同時，另一部與[TROYCA共同製作的原創動畫](../Page/TROYCA.md "wikilink")《[ALDNOAH.ZERO](../Page/ALDNOAH.ZERO.md "wikilink")》入圍機械設計獎和音效獎。並達成4冠紀錄的成果。
+2011年，以偶像為題材的電玩遊戲系列原作的改編作品《偶像大師》於同年7月播出的之後，榮獲『Newtype×Machi☆Asobi動畫獎2011』的CM部門獎、『Newtype×Machi☆Asobi動畫獎2012』的導演獎和腳本獎等7個部門，並擠進排行榜上的前2名。2014年在劇院上映的劇場版獲得了『Newtype×Machi☆Asobi動畫獎2014』的工作室獎和導演獎等6個部門多種獎項。2015年，又再度獲得了『Newtype×Machi☆Asobi動畫獎2015』的工作室獎。同年1月，《偶像大師》推出的另一部電玩遊戲系列原作的改編作品《[偶像大師 灰姑娘女孩](https://zh.wikipedia.org/wiki/偶像大師_灰姑娘女孩 "wikilink")》的電視動畫播出之後入圍人物設計獎。同時，另一部與[TROYCA](../Page/TROYCA.md "wikilink")共同製作的原創動畫《[ALDNOAH.ZERO](../Page/ALDNOAH.ZERO.md "wikilink")》入圍機械設計獎和音效獎。並達成4冠紀錄的成果。
 
-2012年，同樣位於東京都杉並區的[高圓寺工作室正式啟用](../Page/高圓寺.md "wikilink")。
+2012年，同樣位於東京都杉並區的[高圓寺](../Page/高圓寺.md "wikilink")工作室正式啟用。
 
-2018年4月1日，高圆寺工作室改名**[CloverWorks](../Page/CloverWorks.md "wikilink")**，成为新品牌\[2\]。同年10月1日，CloverWorks從A-1
-Pictures獨立\[3\]。
+2018年4月1日，高圆寺工作室改名**[CloverWorks](../Page/CloverWorks.md "wikilink")**，成为新品牌\[2\]。同年10月1日，CloverWorks從A-1 Pictures獨立\[3\]。
 
-由於有[Aniplex的大量資金和周邊媒體業務支持](../Page/Aniplex.md "wikilink")，A-1
-Pictures發展明顯較其他動畫公司順利。但如成立初衷般壯大過後，內部運行開始偏向流水作業，偶然會出現Aniplex拿下作品改篇權後沒有接手公司，而急於交予本公司完成的狀況。不同製作人並沒有統一的管理風格，所管理的生產線與人脈關係亦極為分明，導致同社作品待遇和表現可以差天共地。
+由於有[Aniplex](../Page/Aniplex.md "wikilink")的大量資金和周邊媒體業務支持，A-1 Pictures發展明顯較其他動畫公司順利。但如成立初衷般壯大過後，內部運行開始偏向流水作業，偶然會出現Aniplex拿下作品改篇權後沒有接手公司，而急於交予本公司完成的狀況。不同製作人並沒有統一的管理風格，所管理的生產線與人脈關係亦極為分明，導致同社作品待遇和表現可以差天共地。
 
 ### 合作
 
@@ -45,8 +38,7 @@ Pictures發展明顯較其他動畫公司順利。但如成立初衷般壯大過
 
   - （）（2007年）
 
-  - [女神異聞錄
-    ～三位一體之魂～](https://zh.wikipedia.org/wiki/女神異聞錄_～三位一體之魂～ "wikilink")（）（2008年）
+  - [女神異聞錄 ～三位一體之魂～](https://zh.wikipedia.org/wiki/女神異聞錄_～三位一體之魂～ "wikilink")（）（2008年）
 
   - 系列（）
 
@@ -57,7 +49,7 @@ Pictures發展明顯較其他動畫公司順利。但如成立初衷般壯大過
 
   - （與Noside共同製作，2008年）
 
-  - [黑執事系列](../Page/黑執事.md "wikilink")
+  - [黑執事](../Page/黑執事.md "wikilink")系列
 
       - 黑執事（2008年）
       - 黑執事2（2010年）
@@ -67,7 +59,7 @@ Pictures發展明顯較其他動畫公司順利。但如成立初衷般壯大過
 
   - [魔導少年系列](https://zh.wikipedia.org/wiki/魔導少年 "wikilink")（FAIRY TAIL）
 
-      - 第1期（與[SATELIGHT共同製作](../Page/SATELIGHT.md "wikilink")，2009年－2013年）
+      - 第1期（與[SATELIGHT](../Page/SATELIGHT.md "wikilink")共同製作，2009年－2013年）
       - 第2期（與[Bridge共同製作](https://zh.wikipedia.org/wiki/Bridge_\(公司\) "wikilink")，2014年－2016年）
       - 第3期（與Bridge共同製作，2018年）
 
@@ -77,11 +69,11 @@ Pictures發展明顯較其他動畫公司順利。但如成立初衷般壯大過
 
 <!-- end list -->
 
-  - [動畫的力量系列](../Page/動畫的力量.md "wikilink")（）
+  - [動畫的力量](../Page/動畫的力量.md "wikilink")系列（）
       - [空·之·音](../Page/空·之·音.md "wikilink")（）
       - [閃光的夜襲](https://zh.wikipedia.org/wiki/閃光的夜襲 "wikilink")（）
       - [世紀末超自然學院](../Page/世紀末超自然學院.md "wikilink")（）
-  - [迷糊餐廳系列](../Page/迷糊餐廳.md "wikilink")（WORKING\!\!）
+  - [迷糊餐廳](../Page/迷糊餐廳.md "wikilink")系列（WORKING\!\!）
       - WORKING\!\!
       - WORKING'\!\!（2011年）
       - WORKING\!\!\!（2015年）
@@ -94,11 +86,11 @@ Pictures發展明顯較其他動畫公司順利。但如成立初衷般壯大過
 <!-- end list -->
 
   - [碎之星](../Page/Fractale.md "wikilink")（）
-  - [青之驅魔師系列](../Page/青之驅魔師.md "wikilink")
+  - [青之驅魔師](../Page/青之驅魔師.md "wikilink")系列
       - 青之驅魔師（）
       - 青之驅魔師 京都不淨王篇（）（2017年）
   - [我們仍未知道那天所看見的花的名字。](../Page/我們仍未知道那天所看見的花的名字。.md "wikilink")（）
-  - [歌之王子殿下系列](../Page/歌之王子殿下.md "wikilink")（）
+  - [歌之王子殿下](../Page/歌之王子殿下.md "wikilink")系列（）
       - 歌之王子殿下♪ MAJI LOVE1000%（）
       - 歌之王子殿下♪ MAJI LOVE2000%（）（2013年）
       - 歌之王子殿下♪ 真愛革命（）（2015年）
@@ -133,8 +125,7 @@ Pictures發展明顯較其他動畫公司順利。但如成立初衷般壯大過
   - [Vividred Operation](../Page/Vividred_Operation.md "wikilink")（）
   - [我的妹妹哪有這麼可愛。](../Page/我的妹妹哪有這麼可愛！.md "wikilink")（）
   - [SERVANT×SERVICE](https://zh.wikipedia.org/wiki/SERVANT×SERVICE "wikilink")（）
-  - [銀之匙 Silver
-    Spoon系列](https://zh.wikipedia.org/wiki/銀之匙_Silver_Spoon "wikilink")（）
+  - [銀之匙 Silver Spoon系列](https://zh.wikipedia.org/wiki/銀之匙_Silver_Spoon "wikilink")（）
       - 第1期
       - 第2期（2014年）
   - [伽利略少女](../Page/伽利略少女.md "wikilink")（）
@@ -147,7 +138,7 @@ Pictures發展明顯較其他動畫公司順利。但如成立初衷般壯大過
 
   - [世界征服 謀略之星](../Page/世界征服_謀略之星.md "wikilink")（）
   - [龍孃七七七埋藏的寶藏](../Page/龍孃七七七埋藏的寶藏.md "wikilink")（）
-  - [ALDNOAH.ZERO系列](../Page/ALDNOAH.ZERO.md "wikilink")（）（與TROYCA共同製作）
+  - [ALDNOAH.ZERO](../Page/ALDNOAH.ZERO.md "wikilink")系列（）（與TROYCA共同製作）
       - 第1期
       - 第2期（2015年）
   - [女神異聞錄4黃金版](https://zh.wikipedia.org/wiki/女神異聞錄4#第二季（Persona4_the_Golden_ANIMATION） "wikilink")（）
@@ -164,7 +155,7 @@ Pictures發展明顯較其他動畫公司順利。但如成立初衷般壯大過
 
 <!-- end list -->
 
-  - [不起眼女主角培育法系列](../Page/不起眼女主角培育法.md "wikilink")（）
+  - [不起眼女主角培育法](../Page/不起眼女主角培育法.md "wikilink")系列（）
       - 不起眼女主角培育法
       - 不起眼女主角培育法♭（2017年）
   - [偶像大師 灰姑娘女孩](../Page/偶像大師_灰姑娘女孩_\(動畫\).md "wikilink")（）
@@ -175,7 +166,7 @@ Pictures發展明顯較其他動畫公司順利。但如成立初衷般壯大過
       - 第1期
       - 第2期（2016年）
   - [全部成為F](../Page/全部成為F.md "wikilink")（）
-  - [學戰都市Asterisk系列](../Page/學戰都市Asterisk.md "wikilink")（）
+  - [學戰都市Asterisk](../Page/學戰都市Asterisk.md "wikilink")系列（）
       - 第1期
       - 第2期
 
@@ -301,7 +292,7 @@ Pictures發展明顯較其他動畫公司順利。但如成立初衷般壯大過
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/不起眼女主角培育法.md" title="wikilink">不起眼女主角培育法♭</a></p></td>
+<td><p><a href="../Page/不起眼女主角培育法.md" title="wikilink">不起眼女主角培育法</a>♭</p></td>
 <td></td>
 <td><p>4月13日－6月22日</p></td>
 <td><p><a href="../Page/龜井幹太.md" title="wikilink">龜井幹太</a></p></td>
@@ -402,8 +393,7 @@ Pictures發展明顯較其他動畫公司順利。但如成立初衷般壯大過
 
 ### OVA
 
-  - [On the Way to a Smile EPISODE DENZEL FINAL FANTASY
-    VII](../Page/最终幻想VII_降临之子.md "wikilink")（與BeStack共同製作，2009年）
+  - [On the Way to a Smile EPISODE DENZEL FINAL FANTASY VII](../Page/最终幻想VII_降临之子.md "wikilink")（與BeStack共同製作，2009年）
 
   - （2009年）－片頭動畫。
 
@@ -411,13 +401,11 @@ Pictures發展明顯較其他動畫公司順利。但如成立初衷般壯大過
 
   - [聖哥傳](../Page/聖哥傳.md "wikilink")（）（2012年－2013年）
 
-  - [刀劍神域 Extra
-    Edition](https://zh.wikipedia.org/wiki/刀劍神域 "wikilink")（）（2013年）
+  - [刀劍神域 Extra Edition](https://zh.wikipedia.org/wiki/刀劍神域 "wikilink")（）（2013年）
 
   - [黑執事 Book of Murder](../Page/黑執事.md "wikilink")（2015年）
 
-  - [FAIRY TAIL
-    妖精們的懲罰遊戲](https://zh.wikipedia.org/wiki/FAIRY_TAIL_\(動畫\)#OAD "wikilink")（OAD7）（2016年）
+  - [FAIRY TAIL 妖精們的懲罰遊戲](https://zh.wikipedia.org/wiki/FAIRY_TAIL_\(動畫\)#OAD "wikilink")（OAD7）（2016年）
 
   - [亞人醬有話要說](../Page/亞人醬有話要說.md "wikilink")（2017年）
 
@@ -429,13 +417,11 @@ Pictures發展明顯較其他動畫公司順利。但如成立初衷般壯大過
 
   - [聖☆哥傳](https://zh.wikipedia.org/wiki/聖☆哥傳 "wikilink")（）（2013年）
 
-  - [劇場版
-    我們仍未知道那天所看見的花的名字。](../Page/我們仍未知道那天所看見的花的名字。.md "wikilink")（）（2013年）
+  - [劇場版 我們仍未知道那天所看見的花的名字。](../Page/我們仍未知道那天所看見的花的名字。.md "wikilink")（）（2013年）
 
-  - [偶像大師 劇場版
-    前往光輝的另一端！](../Page/偶像大師_劇場版_前往光輝的另一端！.md "wikilink")（）（2014年）
+  - [偶像大師 劇場版 前往光輝的另一端！](../Page/偶像大師_劇場版_前往光輝的另一端！.md "wikilink")（）（2014年）
 
-  - [宇宙兄弟\#0](../Page/宇宙兄弟.md "wikilink")（2014年）
+  - [宇宙兄弟](../Page/宇宙兄弟.md "wikilink")\#0（2014年）
 
   - （2014年）－[動畫未來](https://zh.wikipedia.org/wiki/青年動畫製作者育成計劃 "wikilink")2014年參加作品。
 
@@ -455,37 +441,27 @@ Pictures發展明顯較其他動畫公司順利。但如成立初衷般壯大過
 
   - [刀劍神域劇場版：序列爭戰](../Page/刀劍神域劇場版：序列爭戰.md "wikilink")（）（2017年）
 
-  - [劇場版 FAIRY TAIL -DRAGON
-    CRY-](https://zh.wikipedia.org/wiki/FAIRY_TAIL "wikilink")（）（2017年）
+  - [劇場版 FAIRY TAIL -DRAGON CRY-](https://zh.wikipedia.org/wiki/FAIRY_TAIL "wikilink")（）（2017年）
 
 ### 遊戲動畫
 
-  - [王牌投手 振臂高揮 或許能成為真正的王牌](../Page/王牌投手_振臂高揮.md "wikilink")
-    （）（[任天堂DS](../Page/任天堂DS.md "wikilink")，2007年）－動畫、CG製作。
+  - [王牌投手 振臂高揮 或許能成為真正的王牌](../Page/王牌投手_振臂高揮.md "wikilink") （）（[任天堂DS](../Page/任天堂DS.md "wikilink")，2007年）－動畫、CG製作。
 
-  - [末世巡禮
-    ～再見了月之廢墟～](../Page/末世巡禮_～再見了月之廢墟～.md "wikilink")（）（[任天堂Wii](../Page/Wii.md "wikilink")，2009年）－OP動畫影片的分鏡、演出。
+  - [末世巡禮 ～再見了月之廢墟～](../Page/末世巡禮_～再見了月之廢墟～.md "wikilink")（）（[任天堂Wii](../Page/Wii.md "wikilink")，2009年）－OP動畫影片的分鏡、演出。
 
-  - [黑執事 Phantom & Ghost](../Page/黑執事.md "wikilink")（任天堂DS，2009年） -
-    遊戲片封套。
+  - [黑執事 Phantom & Ghost](../Page/黑執事.md "wikilink")（任天堂DS，2009年） - 遊戲片封套。
 
-  - [青之驅魔師
-    幻刻的迷宮](../Page/青之驅魔師.md "wikilink")（）（[PSP](../Page/PlayStation_Portable.md "wikilink")，2012年）－OP、ED動畫影片製作。
+  - [青之驅魔師 幻刻的迷宮](../Page/青之驅魔師.md "wikilink")（）（[PSP](../Page/PlayStation_Portable.md "wikilink")，2012年）－OP、ED動畫影片製作。
 
-  - 世界傳奇
-    骰子冒險（）（[網頁遊戲](https://zh.wikipedia.org/wiki/網頁遊戲 "wikilink")，2012年）－昇級影像動畫。
+  - 世界傳奇 骰子冒險（）（[網頁遊戲](https://zh.wikipedia.org/wiki/網頁遊戲 "wikilink")，2012年）－昇級影像動畫。
 
-  - [偶像大師 閃耀祭典](../Page/偶像大師_閃耀祭典.md "wikilink")（）（PSP，2012年） -
-    3套新作動畫包裝封套。
+  - [偶像大師 閃耀祭典](../Page/偶像大師_閃耀祭典.md "wikilink")（）（PSP，2012年） - 3套新作動畫包裝封套。
 
-  - [偶像大師
-    百萬人演唱會！](../Page/偶像大師_百萬人演唱會！.md "wikilink")（）（[社交網路遊戲](https://zh.wikipedia.org/wiki/社交網路遊戲 "wikilink")，2013年）－偶像角色們的卡片插圖。
+  - [偶像大師 百萬人演唱會！](../Page/偶像大師_百萬人演唱會！.md "wikilink")（）（[社交網路遊戲](https://zh.wikipedia.org/wiki/社交網路遊戲 "wikilink")，2013年）－偶像角色們的卡片插圖。
 
   - （2015年夏季）－擔任原作及製作。
 
-  - [Final Fantasy
-    XV](../Page/最終幻想XV.md "wikilink")（[PS4](../Page/PlayStation_4.md "wikilink")、[Xbox
-    One](../Page/Xbox_One.md "wikilink")，2016年）－網路動畫製作。
+  - [Final Fantasy XV](../Page/最終幻想XV.md "wikilink")（[PS4](../Page/PlayStation_4.md "wikilink")、[Xbox One](../Page/Xbox_One.md "wikilink")，2016年）－網路動畫製作。
 
   - [逆轉裁判6](https://zh.wikipedia.org/wiki/逆轉裁判6 "wikilink")（[任天堂3DS](../Page/任天堂3DS.md "wikilink")，2016年）－動畫製作。
 
@@ -493,23 +469,19 @@ Pictures發展明顯較其他動畫公司順利。但如成立初衷般壯大過
 
   - （）（2007年）
 
-  - [高嶺的單車](https://zh.wikipedia.org/wiki/高嶺的單車 "wikilink")（）（2008年）－第六回[Animax大賞得獎作品](../Page/Animax.md "wikilink")。
+  - [高嶺的單車](https://zh.wikipedia.org/wiki/高嶺的單車 "wikilink")（）（2008年）－第六回[Animax](../Page/Animax.md "wikilink")大賞得獎作品。
 
   - （2011年）
 
-  - [Sunday廣告劇場](../Page/週刊少年Sunday.md "wikilink")「[電波教師](../Page/電波教師.md "wikilink")」（2012年
-    - 2013年）
+  - [Sunday廣告劇場](../Page/週刊少年Sunday.md "wikilink")「[電波教師](../Page/電波教師.md "wikilink")」（2012年 - 2013年）
 
   - （2014年）
 
-  - [Shelter (避難所) (Porter ‧
-    Robinson歌曲)](../Page/避难所_\(波特·鲁滨逊歌曲\).md "wikilink")
-    （2016年）
+  - [Shelter (避難所) (Porter ‧ Robinson歌曲)](../Page/避难所_\(波特·鲁滨逊歌曲\).md "wikilink") （2016年）
 
 ## 爭議
 
-2010年10月，社內一名28歲的男性員工自殺，2014年4月11日透過日本新宿勞动基準監督署和醫院的病歷表記載的認定，原因是「一個月的工作時間高達600個小時，平均一天工作20個小時」\[4\]。經過了這次的事件之後，A-1
-Pictures於『』奪得2014業界賞。
+2010年10月，社內一名28歲的男性員工自殺，2014年4月11日透過日本新宿勞动基準監督署和醫院的病歷表記載的認定，原因是「一個月的工作時間高達600個小時，平均一天工作20個小時」\[4\]。經過了這次的事件之後，A-1 Pictures於『』奪得2014業界賞。
 
 ## 參見
 
@@ -538,11 +510,7 @@ Pictures於『』奪得2014業界賞。
   -
   -
   -
-[Category:2005年成立的公司](https://zh.wikipedia.org/wiki/Category:2005年成立的公司 "wikilink")
-[Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink")
-[Category:Aniplex](https://zh.wikipedia.org/wiki/Category:Aniplex "wikilink")
-[Category:A-1_Pictures](https://zh.wikipedia.org/wiki/Category:A-1_Pictures "wikilink")
-[Category:杉並區公司](https://zh.wikipedia.org/wiki/Category:杉並區公司 "wikilink")
+[Category:2005年成立的公司](https://zh.wikipedia.org/wiki/Category:2005年成立的公司 "wikilink") [Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink") [Category:Aniplex](https://zh.wikipedia.org/wiki/Category:Aniplex "wikilink") [Category:A-1_Pictures](https://zh.wikipedia.org/wiki/Category:A-1_Pictures "wikilink") [Category:杉並區公司](https://zh.wikipedia.org/wiki/Category:杉並區公司 "wikilink")
 
 1.  [母公司Aniplex新聞稿](http://www.aniplex.co.jp/company/press100120.html)
 2.

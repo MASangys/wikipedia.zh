@@ -2,19 +2,17 @@
 
 ## 歷史
 
-橫濱FC於1999年成立，當時橫濱市兩大球會：[橫濱飛翼和](../Page/橫濱飛翼.md "wikilink")[橫濱水手合併後的第二年](https://zh.wikipedia.org/wiki/橫濱水手 "wikilink")，一些橫濱飛翼的球迷不認為自己應該支持合併後的橫濱水手，因為實際上飛翼已經解散，和橫濱水手是橫濱飛翼的同市死敵。所以，他們向公眾募捐，與[國際管理集團結盟](https://zh.wikipedia.org/wiki/國際管理集團 "wikilink")，和集合橫濱飛翼的球迷，成立了橫濱Fulie體育會（Yokohama
-Fulie Sports
-Club）。然後他們仿效[巴塞羅拿採用的社會學模式](https://zh.wikipedia.org/wiki/巴塞羅拿足球會 "wikilink")，在Fulie體育會下成立了橫濱FC。這是日本首間由球迷擁有和經營的球會。
+橫濱FC於1999年成立，當時橫濱市兩大球會：[橫濱飛翼](../Page/橫濱飛翼.md "wikilink")和[橫濱水手合併後的第二年](https://zh.wikipedia.org/wiki/橫濱水手 "wikilink")，一些橫濱飛翼的球迷不認為自己應該支持合併後的橫濱水手，因為實際上飛翼已經解散，和橫濱水手是橫濱飛翼的同市死敵。所以，他們向公眾募捐，與[國際管理集團結盟](https://zh.wikipedia.org/wiki/國際管理集團 "wikilink")，和集合橫濱飛翼的球迷，成立了橫濱Fulie體育會（Yokohama Fulie Sports Club）。然後他們仿效[巴塞羅拿採用的社會學模式](https://zh.wikipedia.org/wiki/巴塞羅拿足球會 "wikilink")，在Fulie體育會下成立了橫濱FC。這是日本首間由球迷擁有和經營的球會。
 
-成立後的首季（即1999年），橫濱FC聘請了前[西德國家足球隊球星](https://zh.wikipedia.org/wiki/西德國家足球隊 "wikilink")[皮埃爾·列巴斯基成為經理](https://zh.wikipedia.org/wiki/皮埃爾·列巴斯基 "wikilink")。而[奧寺康彥則為成首任主席](../Page/奧寺康彥.md "wikilink")。奧寺康彥是首位於歐洲職業聯賽効力的日本球員。他們首季只能獲准於[日本足球聯賽角逐](../Page/日本足球聯賽_\(1999年以後\).md "wikilink")，未能直接於頂級聯賽角逐。他們於[日本足球聯賽連續奪得兩季冠軍後](../Page/日本足球聯賽_\(1999年以後\).md "wikilink")，獲升級至[日本職業足球乙級聯賽](https://zh.wikipedia.org/wiki/日本職業足球乙級聯賽 "wikilink")。
+成立後的首季（即1999年），橫濱FC聘請了前[西德國家足球隊球星](https://zh.wikipedia.org/wiki/西德國家足球隊 "wikilink")[皮埃爾·列巴斯基成為經理](https://zh.wikipedia.org/wiki/皮埃爾·列巴斯基 "wikilink")。而[奧寺康彥](../Page/奧寺康彥.md "wikilink")則為成首任主席。奧寺康彥是首位於歐洲職業聯賽効力的日本球員。他們首季只能獲准於[日本足球聯賽角逐](../Page/日本足球聯賽_\(1999年以後\).md "wikilink")，未能直接於頂級聯賽角逐。他們於[日本足球聯賽連續奪得兩季冠軍後](../Page/日本足球聯賽_\(1999年以後\).md "wikilink")，獲升級至[日本職業足球乙級聯賽](https://zh.wikipedia.org/wiki/日本職業足球乙級聯賽 "wikilink")。
 
 他們於日本聯業足球乙級聯賽角逐了6個賽季，在2001年至2005年都是中游分子。不過，他們於2006年贏得乙級聯賽冠軍，獲得直接升班至[日本職業足球甲級聯賽的資格](https://zh.wikipedia.org/wiki/日本職業足球甲級聯賽 "wikilink")。在2007年，即球會成立的九年後，他們首次於日本聯業足球甲級聯賽亮相。
 
-2012年，橫濱FC以40萬[港元無限期借用](../Page/港元.md "wikilink")[香港甲組足球聯賽球會](../Page/香港甲組足球聯賽.md "wikilink")[標準流浪的會籍](https://zh.wikipedia.org/wiki/標準流浪 "wikilink")，以[橫濱FC香港於當地競逐](https://zh.wikipedia.org/wiki/橫濱FC香港 "wikilink")。
+2012年，橫濱FC以40萬[港元](../Page/港元.md "wikilink")無限期借用[香港甲組足球聯賽](../Page/香港甲組足球聯賽.md "wikilink")球會[標準流浪的會籍](https://zh.wikipedia.org/wiki/標準流浪 "wikilink")，以[橫濱FC香港於當地競逐](https://zh.wikipedia.org/wiki/橫濱FC香港 "wikilink")。
 
 ## 爭取升班
 
-雖然他們於2005年只能在12隊中排第11，但他們於2006年球季表現出色，處於聯賽榜上游的位置。在11月26日，他們以第一名完成聯賽，最終獲得升班資格。他們有如戲劇般成功的故事在日本帶來很大的震撼，因為橫濱FC的財政不太健康，連自己的主場館和會址也沒有。每位球員要做他們自己的事，包括清洗球衣和搬龍門架。陣中一些球員是過氣的球星，例如39歲的[三浦知良](../Page/三浦知良.md "wikilink")、37歲的[山口素弘和同樣已](../Page/山口素弘.md "wikilink")37歲的[小村德男](../Page/小村德男.md "wikilink")。他們也曾經代表[日本國家足球隊出賽](https://zh.wikipedia.org/wiki/日本國家足球隊 "wikilink")，同樣地在較後時間被投閒置散。他們於季前的熱身賽全部敗陣，即使對手只是大學生，而他們也於首場聯賽敗陣。之後，他們突然撤換經理，把這個工作交給38歲的[高木琢也](../Page/高木琢也.md "wikilink")，他是一個缺乏經驗的新人。而很多人都不相信他們整季會有好表現。起初，高木琢也著重防守和簡單戰術。在他成為經理後，球會連續15場沒有失球。這個成功，給了年輕球員信心，有更多的進攻方法。結果，在他們沒有連輸紀錄下，最終贏得聯賽冠軍。
+雖然他們於2005年只能在12隊中排第11，但他們於2006年球季表現出色，處於聯賽榜上游的位置。在11月26日，他們以第一名完成聯賽，最終獲得升班資格。他們有如戲劇般成功的故事在日本帶來很大的震撼，因為橫濱FC的財政不太健康，連自己的主場館和會址也沒有。每位球員要做他們自己的事，包括清洗球衣和搬龍門架。陣中一些球員是過氣的球星，例如39歲的[三浦知良](../Page/三浦知良.md "wikilink")、37歲的[山口素弘](../Page/山口素弘.md "wikilink")和同樣已37歲的[小村德男](../Page/小村德男.md "wikilink")。他們也曾經代表[日本國家足球隊出賽](https://zh.wikipedia.org/wiki/日本國家足球隊 "wikilink")，同樣地在較後時間被投閒置散。他們於季前的熱身賽全部敗陣，即使對手只是大學生，而他們也於首場聯賽敗陣。之後，他們突然撤換經理，把這個工作交給38歲的[高木琢也](../Page/高木琢也.md "wikilink")，他是一個缺乏經驗的新人。而很多人都不相信他們整季會有好表現。起初，高木琢也著重防守和簡單戰術。在他成為經理後，球會連續15場沒有失球。這個成功，給了年輕球員信心，有更多的進攻方法。結果，在他們沒有連輸紀錄下，最終贏得聯賽冠軍。
 
 07球季，橫濱FC打破J1多項紀錄，包括最快降級、最少入球、最多失球、最少積分等，被戲稱為“弱濱”。
 
@@ -372,9 +370,4 @@ Club）。然後他們仿效[巴塞羅拿採用的社會學模式](https://zh.wi
 
   - [官方網站](http://www.yokohamafc.com/)
 
-[Category:日本足球俱樂部](https://zh.wikipedia.org/wiki/Category:日本足球俱樂部 "wikilink")
-[Category:保土谷區](https://zh.wikipedia.org/wiki/Category:保土谷區 "wikilink")
-[Category:球迷拥有的足球俱乐部](https://zh.wikipedia.org/wiki/Category:球迷拥有的足球俱乐部 "wikilink")
-[Category:1998年建立的足球會](https://zh.wikipedia.org/wiki/Category:1998年建立的足球會 "wikilink")
-[Category:神奈川區](https://zh.wikipedia.org/wiki/Category:神奈川區 "wikilink")
-[Category:1998年日本建立](https://zh.wikipedia.org/wiki/Category:1998年日本建立 "wikilink")
+[Category:日本足球俱樂部](https://zh.wikipedia.org/wiki/Category:日本足球俱樂部 "wikilink") [Category:保土谷區](https://zh.wikipedia.org/wiki/Category:保土谷區 "wikilink") [Category:球迷拥有的足球俱乐部](https://zh.wikipedia.org/wiki/Category:球迷拥有的足球俱乐部 "wikilink") [Category:1998年建立的足球會](https://zh.wikipedia.org/wiki/Category:1998年建立的足球會 "wikilink") [Category:神奈川區](https://zh.wikipedia.org/wiki/Category:神奈川區 "wikilink") [Category:1998年日本建立](https://zh.wikipedia.org/wiki/Category:1998年日本建立 "wikilink")
