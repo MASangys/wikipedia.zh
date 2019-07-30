@@ -1,9 +1,8 @@
-**AutoCAD**是由[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[Autodesk为](../Page/Autodesk.md "wikilink")[電腦上應用](https://zh.wikipedia.org/wiki/電腦 "wikilink")[電腦輔助設計技術而开发的繪圖程序軟體包](https://zh.wikipedia.org/wiki/電腦輔助設計 "wikilink")，現已經成為國際上廣為流行的繪圖工具。該軟體推廣的[.dwg文件格式成為二維繪圖的常用標準格式](../Page/.dwg.md "wikilink")。
+**AutoCAD**是由[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[Autodesk](../Page/Autodesk.md "wikilink")为[電腦上應用](https://zh.wikipedia.org/wiki/電腦 "wikilink")[電腦輔助設計技術而开发的繪圖程序軟體包](https://zh.wikipedia.org/wiki/電腦輔助設計 "wikilink")，現已經成為國際上廣為流行的繪圖工具。該軟體推廣的[.dwg](../Page/.dwg.md "wikilink")文件格式成為二維繪圖的常用標準格式。
 
 ## 支持语言
 
-AutoCAD和AutoCAD
-LT的可用语言包括德文、法文、意大利文、西班牙文、日文、韩文、简体中文、繁体中文、俄文、捷克文、波兰文、匈牙利文、巴西葡萄牙文、丹麦文、荷兰文、瑞典文、芬兰文、挪威文和越南文。各国语言版本文档因上市时间有很大的改变
+AutoCAD和AutoCAD LT的可用语言包括德文、法文、意大利文、西班牙文、日文、韩文、简体中文、繁体中文、俄文、捷克文、波兰文、匈牙利文、巴西葡萄牙文、丹麦文、荷兰文、瑞典文、芬兰文、挪威文和越南文。各国语言版本文档因上市时间有很大的改变
 
 ## 发展过程
 
@@ -52,8 +51,7 @@ AutoCAD的发展可分为初级阶段、发展阶段、高级发展阶段、完�
 <!-- end list -->
 
   -
-    在[Unix](https://zh.wikipedia.org/wiki/Unix "wikilink")、[DOS和Windows](../Page/DOS.md "wikilink")
-    3.11上的最后版本
+    在[Unix](https://zh.wikipedia.org/wiki/Unix "wikilink")、[DOS](../Page/DOS.md "wikilink")和Windows 3.11上的最后版本
 
 <!-- end list -->
 
@@ -90,6 +88,4 @@ AutoCAD的发展可分为初级阶段、发展阶段、高级发展阶段、完�
 
   - [台灣官網](https://www.autodesk.com.tw/products/autocad/overview)
 
-[Category:1982年软件](https://zh.wikipedia.org/wiki/Category:1982年软件 "wikilink")
-[Category:AutoCAD](https://zh.wikipedia.org/wiki/Category:AutoCAD "wikilink")
-[Category:三维图像软件](https://zh.wikipedia.org/wiki/Category:三维图像软件 "wikilink")
+[Category:1982年软件](https://zh.wikipedia.org/wiki/Category:1982年软件 "wikilink") [Category:AutoCAD](https://zh.wikipedia.org/wiki/Category:AutoCAD "wikilink") [Category:三维图像软件](https://zh.wikipedia.org/wiki/Category:三维图像软件 "wikilink")

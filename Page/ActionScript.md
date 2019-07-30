@@ -1,48 +1,21 @@
-{{ Infobox programming language | name = ActionScript | logo =
-[Farm-Fresh_page_white_actionscript.png](https://zh.wikipedia.org/wiki/File:Farm-Fresh_page_white_actionscript.png "fig:Farm-Fresh_page_white_actionscript.png")
-| paradigm =
-[多重编程范式](https://zh.wikipedia.org/wiki/多重编程范式 "wikilink")：[基於原型的](../Page/原型程式設計.md "wikilink")[物件導向程式設計](https://zh.wikipedia.org/wiki/物件導向程式設計 "wikilink")、[函數程式語言](https://zh.wikipedia.org/wiki/函數程式語言 "wikilink")、[指令式編程](../Page/指令式編程.md "wikilink")、[腳本語言](https://zh.wikipedia.org/wiki/腳本語言 "wikilink")
-| year = 1998年 | designer =  | developer = [Adobe
-Systems](https://zh.wikipedia.org/wiki/Adobe_Systems "wikilink") |
-latest_release_version = 3.0 | latest_release_date =  | typing =
-[強型別](https://zh.wikipedia.org/wiki/強型別 "wikilink")、[靜態型別](https://zh.wikipedia.org/wiki/靜態型別 "wikilink")
-| implementations = [Adobe
-Flash](../Page/Adobe_Flash.md "wikilink")、[Apache
-Flex](../Page/Apache_Flex.md "wikilink") | operating_system =
-[跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink") |
-influenced_by =
-[JavaScript](../Page/JavaScript.md "wikilink")、[Java](../Page/Java.md "wikilink")
-}}
+{{ Infobox programming language | name = ActionScript | logo = [Farm-Fresh_page_white_actionscript.png](https://zh.wikipedia.org/wiki/File:Farm-Fresh_page_white_actionscript.png "fig:Farm-Fresh_page_white_actionscript.png") | paradigm = [多重编程范式](https://zh.wikipedia.org/wiki/多重编程范式 "wikilink")：[基於原型的](../Page/原型程式設計.md "wikilink")[物件導向程式設計](https://zh.wikipedia.org/wiki/物件導向程式設計 "wikilink")、[函數程式語言](https://zh.wikipedia.org/wiki/函數程式語言 "wikilink")、[指令式編程](../Page/指令式編程.md "wikilink")、[腳本語言](https://zh.wikipedia.org/wiki/腳本語言 "wikilink") | year = 1998年 | designer =  | developer = [Adobe Systems](https://zh.wikipedia.org/wiki/Adobe_Systems "wikilink") | latest_release_version = 3.0 | latest_release_date =  | typing = [強型別](https://zh.wikipedia.org/wiki/強型別 "wikilink")、[靜態型別](https://zh.wikipedia.org/wiki/靜態型別 "wikilink") | implementations = [Adobe Flash](../Page/Adobe_Flash.md "wikilink")、[Apache Flex](../Page/Apache_Flex.md "wikilink") | operating_system = [跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink") | influenced_by = [JavaScript](../Page/JavaScript.md "wikilink")、[Java](../Page/Java.md "wikilink") }}
 
-**ActionScript**是原[Macromedia公司](../Page/Macromedia.md "wikilink")（后并入[Adobe](../Page/Adobe.md "wikilink")）为其[Flash产品开发的一种基于](https://zh.wikipedia.org/wiki/Flash "wikilink")[ECMAScript的](../Page/ECMAScript.md "wikilink")[面向对象编程语言](https://zh.wikipedia.org/wiki/面向对象 "wikilink")。ActionScript可用于[网页制作](https://zh.wikipedia.org/wiki/网页制作 "wikilink")、[Adobe
-Flash动画和](../Page/Adobe_Flash.md "wikilink")[RIA应用程序的开发](../Page/丰富互联网应用程序.md "wikilink")。
+**ActionScript**是原[Macromedia](../Page/Macromedia.md "wikilink")公司（后并入[Adobe](../Page/Adobe.md "wikilink")）为其[Flash产品开发的一种基于](https://zh.wikipedia.org/wiki/Flash "wikilink")[ECMAScript](../Page/ECMAScript.md "wikilink")的[面向对象编程语言](https://zh.wikipedia.org/wiki/面向对象 "wikilink")。ActionScript可用于[网页制作](https://zh.wikipedia.org/wiki/网页制作 "wikilink")、[Adobe Flash动画和](../Page/Adobe_Flash.md "wikilink")[RIA应用程序的开发](../Page/丰富互联网应用程序.md "wikilink")。
 
-ActionScript和[JavaScript均基于ECMAScript语法](../Page/JavaScript.md "wikilink")，因而拥有类似的语法。理论上它们互相可以很流畅地从一种语言翻译到另一种。不过JavaScript的[文档对象模型是以](../Page/文档对象模型.md "wikilink")[浏览器窗口](https://zh.wikipedia.org/wiki/浏览器 "wikilink")、[文档和](https://zh.wikipedia.org/wiki/超文本标记语言 "wikilink")[表单为主的](https://zh.wikipedia.org/wiki/表单 "wikilink")，ActionScript的[文档对象模型则以](../Page/文档对象模型.md "wikilink")[SWF格式动画为主](https://zh.wikipedia.org/wiki/SWF "wikilink")，可包括动画、音频、文字和[事件处理](https://zh.wikipedia.org/wiki/事件处理 "wikilink")。
+ActionScript和[JavaScript](../Page/JavaScript.md "wikilink")均基于ECMAScript语法，因而拥有类似的语法。理论上它们互相可以很流畅地从一种语言翻译到另一种。不过JavaScript的[文档对象模型](../Page/文档对象模型.md "wikilink")是以[浏览器窗口](https://zh.wikipedia.org/wiki/浏览器 "wikilink")、[文档和](https://zh.wikipedia.org/wiki/超文本标记语言 "wikilink")[表单为主的](https://zh.wikipedia.org/wiki/表单 "wikilink")，ActionScript的[文档对象模型](../Page/文档对象模型.md "wikilink")则以[SWF格式动画为主](https://zh.wikipedia.org/wiki/SWF "wikilink")，可包括动画、音频、文字和[事件处理](https://zh.wikipedia.org/wiki/事件处理 "wikilink")。
 
-ActionScript 開發時可藉由導入 ANE 作為跨平台使用；並且官方公布之認證Starling
-（基於OPGL協定）開放框架，可使用GPU高速繪圖，而非傳統的CPU運算功能。
+ActionScript 開發時可藉由導入 ANE 作為跨平台使用；並且官方公布之認證Starling （基於OPGL協定）開放框架，可使用GPU高速繪圖，而非傳統的CPU運算功能。
 
 ## 歷史
 
-[OSX10-2-actionscript2.png](https://zh.wikipedia.org/wiki/File:OSX10-2-actionscript2.png "fig:OSX10-2-actionscript2.png")操作系统上的Macromedia
-Flash MX专业版里，这些代码可以创建一个与MAC OS X启动过程中看见的类似的动画。\]\] ActionScript
-首次出现于Flash 5并实现了在Flash内编程。这个版本被命名为ActionScript 1.0。Flash
-6通过增加大量的内置函数和对[动画元素更好的编程控制更进一步增强了编程环境的功能](https://zh.wikipedia.org/wiki/SWF "wikilink")。Flash
-7（MX 2004）引进了ActionScript
-2.0，它增加了[强类型和](https://zh.wikipedia.org/wiki/强类型 "wikilink")[面向对象特征](https://zh.wikipedia.org/wiki/面向对象 "wikilink")，如显式[类声明](../Page/类_\(计算机科学\).md "wikilink")、[继承](https://zh.wikipedia.org/wiki/继承_\(计算机科学\) "wikilink")、[接口和严格数据类型](https://zh.wikipedia.org/wiki/接口 "wikilink")。ActionScript
-1.0 和 2.0 使用相同的编译形式编译成Flash
-[SWF文件](https://zh.wikipedia.org/wiki/SWF "wikilink")。
+[OSX10-2-actionscript2.png](https://zh.wikipedia.org/wiki/File:OSX10-2-actionscript2.png "fig:OSX10-2-actionscript2.png")操作系统上的Macromedia Flash MX专业版里，这些代码可以创建一个与MAC OS X启动过程中看见的类似的动画。\]\] ActionScript 首次出现于Flash 5并实现了在Flash内编程。这个版本被命名为ActionScript 1.0。Flash 6通过增加大量的内置函数和对[动画元素更好的编程控制更进一步增强了编程环境的功能](https://zh.wikipedia.org/wiki/SWF "wikilink")。Flash 7（MX 2004）引进了ActionScript 2.0，它增加了[强类型和](https://zh.wikipedia.org/wiki/强类型 "wikilink")[面向对象特征](https://zh.wikipedia.org/wiki/面向对象 "wikilink")，如显式[类声明](../Page/类_\(计算机科学\).md "wikilink")、[继承](https://zh.wikipedia.org/wiki/继承_\(计算机科学\) "wikilink")、[接口和严格数据类型](https://zh.wikipedia.org/wiki/接口 "wikilink")。ActionScript 1.0 和 2.0 使用相同的编译形式编译成Flash [SWF文件](https://zh.wikipedia.org/wiki/SWF "wikilink")。
 
 ### 播放器發展時間表
 
-  - **Flash Player 2**：第一个支持脚本的版本，包括控制时间轴的gotoAndPlay、
-    gotoAndStop、nextFrame和nextScene等方法。
-  - **Flash Player
-    3**：增强了载入外部[SWF文件的基本脚本支持](https://zh.wikipedia.org/wiki/SWF "wikilink")（loadMovie）。
-  - **Flash Player
-    4**：第一个完全实现脚本功能（称为「动作」）的播放器。这些脚本拥有简练的语法和对循环、条件、变量和其它基本语言结构的支持。
-  - **Flash Player
-    5**：第一个拥有真正意义上的ActionScript的版本。依据ECMAScript，\[1\]采用[基于原型编程](https://zh.wikipedia.org/wiki/基于原型编程 "wikilink")，并允许完全的[过程式编程和](https://zh.wikipedia.org/wiki/过程式编程 "wikilink")[面向对象编程](https://zh.wikipedia.org/wiki/面向对象编程 "wikilink")。
+  - **Flash Player 2**：第一个支持脚本的版本，包括控制时间轴的gotoAndPlay、 gotoAndStop、nextFrame和nextScene等方法。
+  - **Flash Player 3**：增强了载入外部[SWF文件的基本脚本支持](https://zh.wikipedia.org/wiki/SWF "wikilink")（loadMovie）。
+  - **Flash Player 4**：第一个完全实现脚本功能（称为「动作」）的播放器。这些脚本拥有简练的语法和对循环、条件、变量和其它基本语言结构的支持。
+  - **Flash Player 5**：第一个拥有真正意义上的ActionScript的版本。依据ECMAScript，\[1\]采用[基于原型编程](https://zh.wikipedia.org/wiki/基于原型编程 "wikilink")，并允许完全的[过程式编程和](https://zh.wikipedia.org/wiki/过程式编程 "wikilink")[面向对象编程](https://zh.wikipedia.org/wiki/面向对象编程 "wikilink")。
 
 <!-- end list -->
 
@@ -50,25 +23,15 @@ Flash MX专业版里，这些代码可以创建一个与MAC OS X启动过程中�
 
 <!-- end list -->
 
-  - **Flash Player 7**: 提供一些新特性，如支持CSS显示文本和增强显示效果。Macromedia
-    Flash编译器和Flash Player 7同时支持基于ECMAScript 4 Netscape
-    Proposal\[2\]的[类编程语言ActionScript](../Page/类_\(计算机科学\).md "wikilink")
-    2.0。不过ActionScript
-    2.0能[交叉编译成ActionScript](https://zh.wikipedia.org/wiki/交叉编译 "wikilink")
-    1.0的[字节码](https://zh.wikipedia.org/wiki/字节码 "wikilink")，因此它能运行于Flash
-    Player 6。
+  - **Flash Player 7**: 提供一些新特性，如支持CSS显示文本和增强显示效果。Macromedia Flash编译器和Flash Player 7同时支持基于ECMAScript 4 Netscape Proposal\[2\]的[类编程语言ActionScript](../Page/类_\(计算机科学\).md "wikilink") 2.0。不过ActionScript 2.0能[交叉编译成ActionScript](https://zh.wikipedia.org/wiki/交叉编译 "wikilink") 1.0的[字节码](https://zh.wikipedia.org/wiki/字节码 "wikilink")，因此它能运行于Flash Player 6。
 
 <!-- end list -->
 
-  - **Flash Player 8**：增加用于运行时图象数据控制和文件上传的新类库及APIs，ActionScript
-    2.0功能更为完善。
+  - **Flash Player 8**：增加用于运行时图象数据控制和文件上传的新类库及APIs，ActionScript 2.0功能更为完善。
 
 <!-- end list -->
 
-  - **Flash Player 9（原稱為Flash Player 8.5）**：增加ActionScript
-    3.0和一个称为AVM2（ActionScript Virtual Machine
-    2）新的虚拟机，它可以与前版本AVM1共存以便支持旧内容。增强性能是该版本的主要目标。這是adobe收購Macromedia後的第一個版本，並且也是Mac
-    OS X上第一個Universal版本的Flash Player。
+  - **Flash Player 9（原稱為Flash Player 8.5）**：增加ActionScript 3.0和一个称为AVM2（ActionScript Virtual Machine 2）新的虚拟机，它可以与前版本AVM1共存以便支持旧内容。增强性能是该版本的主要目标。這是adobe收購Macromedia後的第一個版本，並且也是Mac OS X上第一個Universal版本的Flash Player。
 
 <!-- end list -->
 
@@ -76,9 +39,7 @@ Flash MX专业版里，这些代码可以创建一个与MAC OS X启动过程中�
 
 <!-- end list -->
 
-  - **Flash Player
-    11**：2011年發表，運用[Stage3D](https://zh.wikipedia.org/wiki/Stage3D "wikilink")
-    API提供的硬體加速圖像渲染，支援GPU加速。\[3\]
+  - **Flash Player 11**：2011年發表，運用[Stage3D](https://zh.wikipedia.org/wiki/Stage3D "wikilink") API提供的硬體加速圖像渲染，支援GPU加速。\[3\]
 
 <!-- end list -->
 
@@ -172,17 +133,14 @@ Flash MX专业版里，这些代码可以创建一个与MAC OS X启动过程中�
 
 ### 語法
 
-在ActionScript
-2.0裡，函式館物件（如影片片段、按鈕）可與類聯繫在一起。類可寫在外在文件檔案內，並且這些文件必須有**.as**後綴。類是增設部分──對ActionScrip語言來說，可讓程式員自行開發，雖然有許多內建類譬如**MovieClip**類──可被用來動態地在螢幕上畫出向量──已經滿足需求了。類檔案可使編程更加容易，並且類檔案如果需要的話可在許多專案間轉移。
+在ActionScript 2.0裡，函式館物件（如影片片段、按鈕）可與類聯繫在一起。類可寫在外在文件檔案內，並且這些文件必須有**.as**後綴。類是增設部分──對ActionScrip語言來說，可讓程式員自行開發，雖然有許多內建類譬如**MovieClip**類──可被用來動態地在螢幕上畫出向量──已經滿足需求了。類檔案可使編程更加容易，並且類檔案如果需要的話可在許多專案間轉移。
 
 Flash ActionScript實現的特點如下，JavaScript程式員也許感興趣：
 
   - 一切設計是非同步的；[callback是普遍存在的](https://zh.wikipedia.org/wiki/Callback_\(computer_science\) "wikilink")，但[事件對象不存在](https://zh.wikipedia.org/wiki/事件 "wikilink")。
-  - [XML的實現從Flash](../Page/XML.md "wikilink")
-    5便存在了。Flash可送和收XML，該項功能可用來透過網路伺服器創造網上多玩者遊戲。
+  - [XML](../Page/XML.md "wikilink")的實現從Flash 5便存在了。Flash可送和收XML，該項功能可用來透過網路伺服器創造網上多玩者遊戲。
 
-ActionScript代碼常常直接寫在Flash開發環境。該環境提供參考、代碼提示和句法強調。原代碼常常與電影一起存在.fla檔案裡。自外部文件檔透過\#include語法導入ActionScript代碼也相當常見。在這種情況下，外部檔案也許被Flash[整合開發環境內建編譯器](https://zh.wikipedia.org/wiki/IDE "wikilink")，或Motion
-Twin ActionScript2編譯器（MTASC）編譯。
+ActionScript代碼常常直接寫在Flash開發環境。該環境提供參考、代碼提示和句法強調。原代碼常常與電影一起存在.fla檔案裡。自外部文件檔透過\#include語法導入ActionScript代碼也相當常見。在這種情況下，外部檔案也許被Flash[整合開發環境內建編譯器](https://zh.wikipedia.org/wiki/IDE "wikilink")，或Motion Twin ActionScript2編譯器（MTASC）編譯。
 
 ### 评价
 
@@ -190,8 +148,7 @@ Twin ActionScript2編譯器（MTASC）編譯。
 
 ### ActionScript 2.0樣本
 
-下-{面}-列印[Hello
-World](../Page/Hello_World.md "wikilink")。值得注意的是這只能在整合環境下執行，因為trace函式只有支援整合環境。
+下-{面}-列印[Hello World](../Page/Hello_World.md "wikilink")。值得注意的是這只能在整合環境下執行，因為trace函式只有支援整合環境。
 
 ``` actionscript
 trace("Hello world!");
@@ -206,8 +163,7 @@ onMouseMove = function () {
 };
 ```
 
-這個較先進的範例創造一個包括數字與字串的陣列，並利用原形函式（prototype
-function）與函式遞歸給變數名`num`指定一個數，給變數`str`指定一個字串。然後，利用MovieClip應用程序介面，文字區域被顯示在屏幕上，文字區域裡頭寫入了變數值。
+這個較先進的範例創造一個包括數字與字串的陣列，並利用原形函式（prototype function）與函式遞歸給變數名`num`指定一個數，給變數`str`指定一個字串。然後，利用MovieClip應用程序介面，文字區域被顯示在屏幕上，文字區域裡頭寫入了變數值。
 
 ``` actionscript
 var my_Array:Array = new Array("Hello", "ActionScript", 3, 7, 11, "Flash");
@@ -272,18 +228,13 @@ var _starling = new Starling(MainGame,stage);
     _starling.start();
 ```
 
-官方正式說明文件連結提供查證-[1](http://www.adobe.com/cn/devnet/flashplayer/articles/introducing_Starling.html)
-開源團隊官網說明文件連結提供查證-[2](http://gamua.com/starling/features/)
-線上電子書連結提供查證-[3](https://www.packtpub.com/game-development/starling-game-development-essentials)
-amazon連結提供查證-[4](https://www.amazon.com/Starling-Game-Development-Essentials-Juwal/dp/178398354X)
+官方正式說明文件連結提供查證-[1](http://www.adobe.com/cn/devnet/flashplayer/articles/introducing_Starling.html) 開源團隊官網說明文件連結提供查證-[2](http://gamua.com/starling/features/) 線上電子書連結提供查證-[3](https://www.packtpub.com/game-development/starling-game-development-essentials) amazon連結提供查證-[4](https://www.amazon.com/Starling-Game-Development-Essentials-Juwal/dp/178398354X)
 
 ## 參見
 
   - [ECMAScript](../Page/ECMAScript.md "wikilink")
-  - [Lingo](https://zh.wikipedia.org/wiki/Lingo_programming_language "wikilink")
-    for Macromedia Director
-  - [Macromedia
-    Flash](https://zh.wikipedia.org/wiki/Macromedia_Flash "wikilink")
+  - [Lingo](https://zh.wikipedia.org/wiki/Lingo_programming_language "wikilink") for Macromedia Director
+  - [Macromedia Flash](https://zh.wikipedia.org/wiki/Macromedia_Flash "wikilink")
   - [Scripting](https://zh.wikipedia.org/wiki/Scripting "wikilink")
   - [Macromedia](../Page/Macromedia.md "wikilink")
 
@@ -293,84 +244,54 @@ amazon連結提供查證-[4](https://www.amazon.com/Starling-Game-Development-Es
 
 ### 技術文件
 
-  - [官方
-    API](http://help.adobe.com/zh_TW/FlashPlatform/reference/actionscript/3/index.html)
+  - [官方 API](http://help.adobe.com/zh_TW/FlashPlatform/reference/actionscript/3/index.html)
   - 官方（發行前）[ActionScript 3.0語言參考（英）](http://www.macromedia.com/go/AS3LR)
   - [Macromedia實驗室](http://labs.macromedia.com)- Macromedia發展中技術資源站（英）
-  - [CodeAlloy:
-    ActionScript 2.0常見問題](https://web.archive.org/web/20060220011422/http://codealloy.com/actionscriptfaq.htm)
-    - 第二版變動相關資訊（英）
+  - [CodeAlloy: ActionScript 2.0常見問題](https://web.archive.org/web/20060220011422/http://codealloy.com/actionscriptfaq.htm) - 第二版變動相關資訊（英）
 
 ### 教程
 
-  - [Macromedia
-    Flash支援中心：使用ActionScript](https://web.archive.org/web/20060405004309/http://www.macromedia.com/support/flash/action_scripts.html)
-    - 直接來自Macromedia的教程與文章（英）
-  - [ActionScript.com](https://web.archive.org/web/20161107110658/http://actionscript.com/)
-    - 給Flash和Flex開發者的新聞、資訊、與教程（英）。
-  - [ActionScript.org](https://web.archive.org/web/20170608173948/http://actionscript.org/)
-    - 發展者社群與教程、實用代碼片段、與影片片段相關資源（英）。
-  - [Kirupa.com:
-    ActionScript指南](http://www.kirupa.com/developer/actionscript/index.htm)
-    - 大量教程，涵蓋許多業界技術（英）。
-  - [www.actionscript.be](https://web.archive.org/web/20150801050242/http://actionscript.be/)
-    - 荷蘭人開發者資源網頁，有教程、論壇、博客等等（荷）。
-  - [Flash遊戲設計](https://web.archive.org/web/20060318180319/http://www.kaleidoscope-multimedia.com/gameDesign/gameDesign.pdf)
-    - 按部就班的PDF介紹Flash遊戲設計的指南（英）。
-  - [ActionScript編程](https://web.archive.org/web/20060318180409/http://www.kaleidoscope-multimedia.com/programming/programming.pdf)
-    - 按部就班的PDF介紹ActionScript的指南（英）。
+  - [Macromedia Flash支援中心：使用ActionScript](https://web.archive.org/web/20060405004309/http://www.macromedia.com/support/flash/action_scripts.html) - 直接來自Macromedia的教程與文章（英）
+  - [ActionScript.com](https://web.archive.org/web/20161107110658/http://actionscript.com/) - 給Flash和Flex開發者的新聞、資訊、與教程（英）。
+  - [ActionScript.org](https://web.archive.org/web/20170608173948/http://actionscript.org/) - 發展者社群與教程、實用代碼片段、與影片片段相關資源（英）。
+  - [Kirupa.com: ActionScript指南](http://www.kirupa.com/developer/actionscript/index.htm) - 大量教程，涵蓋許多業界技術（英）。
+  - [www.actionscript.be](https://web.archive.org/web/20150801050242/http://actionscript.be/) - 荷蘭人開發者資源網頁，有教程、論壇、博客等等（荷）。
+  - [Flash遊戲設計](https://web.archive.org/web/20060318180319/http://www.kaleidoscope-multimedia.com/gameDesign/gameDesign.pdf) - 按部就班的PDF介紹Flash遊戲設計的指南（英）。
+  - [ActionScript編程](https://web.archive.org/web/20060318180409/http://www.kaleidoscope-multimedia.com/programming/programming.pdf) - 按部就班的PDF介紹ActionScript的指南（英）。
   - [Flashkit](http://www.flashkit.com) - 教學與可下載範例的優秀資源（英）。
   - \[ Flash遊戲編程維基\] - 有關Flash/ActionScript遊戲編程與發展的維基（英）。
 
 ### 資源
 
-  - [纬度网ActionScript知识库](https://web.archive.org/web/20101020161410/http://www.wedoswf.com/)
-    - 提供围绕ActionScript语言技术的问答形知识库（中文）
+  - [纬度网ActionScript知识库](https://web.archive.org/web/20101020161410/http://www.wedoswf.com/) - 提供围绕ActionScript语言技术的问答形知识库（中文）
   - [OSFlash](http://www.osflash.org/) - 提供開放源碼Flash專案與工具的資源站點（英）
-  - [MTASC](http://www.mtasc.org/) - OCaml寫的開放源碼式命令行ActionScript
-    2.0編譯器（英）
-  - [NeoSwiff](https://web.archive.org/web/20060314133451/http://www.globfx.com/products/neoswiff/)
-    C\#到SWF編譯器（英）
-  - [KineticFusion](http://www.kinesissoftware.com/) -
-    用Java寫的商業版跨平台ActionScript 2.0編譯器（英）
-  - [secureSWF](http://www.kindisoft.com/) -
-    免費的ActionScript擾亂器（英，譯按：Obfucastor指的是代碼編譯後擾亂bytecode防止反編譯的擾亂器）
+  - [MTASC](http://www.mtasc.org/) - OCaml寫的開放源碼式命令行ActionScript 2.0編譯器（英）
+  - [NeoSwiff](https://web.archive.org/web/20060314133451/http://www.globfx.com/products/neoswiff/) C\#到SWF編譯器（英）
+  - [KineticFusion](http://www.kinesissoftware.com/) - 用Java寫的商業版跨平台ActionScript 2.0編譯器（英）
+  - [secureSWF](http://www.kindisoft.com/) - 免費的ActionScript擾亂器（英，譯按：Obfucastor指的是代碼編譯後擾亂bytecode防止反編譯的擾亂器）
   - [SWF Protector](http://www.dcomsoft.com/) - Protect SWF Flash
-  - [SE|PY Actionscript編輯器](http://www.sephiroth.it/python/sepy.php) -
-    開放源碼的ActionScript編輯器（英）
-  - [V-Cam](http://www.oreillynet.com/pub/a/javascript/2004/08/17/flashhacks.html?page=last&x-order=date)
-    - Sham Bahngal寫的虛擬"攝影機"（英）
+  - [SE|PY Actionscript編輯器](http://www.sephiroth.it/python/sepy.php) - 開放源碼的ActionScript編輯器（英）
+  - [V-Cam](http://www.oreillynet.com/pub/a/javascript/2004/08/17/flashhacks.html?page=last&x-order=date) - Sham Bahngal寫的虛擬"攝影機"（英）
 
 ### 其他
 
-  - [FlashGuru](http://www.flashguru.co.uk/) -
-    FlashGuru給Flash開發者的參考博客（英）
-  - [Newgrounds](http://www.Newgrounds.com) -
-    社群站，您可以在此張貼Flash遊戲，同樣這裡有[Flash論壇](http://www.newgrounds.com/bbs/forum.php?id=2)如果你需要技術協助的話（英）
+  - [FlashGuru](http://www.flashguru.co.uk/) - FlashGuru給Flash開發者的參考博客（英）
+  - [Newgrounds](http://www.Newgrounds.com) - 社群站，您可以在此張貼Flash遊戲，同樣這裡有[Flash論壇](http://www.newgrounds.com/bbs/forum.php?id=2)如果你需要技術協助的話（英）
   - [Gotoandplay：一些Flash範例](http://www.gotoandplay.com/)：Flash應用（英）
-  - [Flashplayer](http://www.flashplayer.com/) -
-    一個免費站點讓使用者可以張貼Flash動畫、遊戲、或檢視其他人作品（英）
+  - [Flashplayer](http://www.flashplayer.com/) - 一個免費站點讓使用者可以張貼Flash動畫、遊戲、或檢視其他人作品（英）
   - [UnitZeroOne](http://www.unitzeroone.com) - 一個給Flash開發相關的博客（英）
-  - [Ioji.it](http://www.ioji.it/) -
-    一個Flash遊戲設計師擁有的站點；該站有Flash與ActionScript專屬論壇（英）
+  - [Ioji.it](http://www.ioji.it/) - 一個Flash遊戲設計師擁有的站點；該站有Flash與ActionScript專屬論壇（英）
   - [CodeDrive](http://www.codedrive.com/) - Flash/ActionScript 3 IDE
-  - <https://www.facebook.com/AdobeAnimateCC/?fref=ts> (Adobe Animate
-    CC官方臉書)
+  - <https://www.facebook.com/AdobeAnimateCC/?fref=ts> (Adobe Animate CC官方臉書)
   - <https://www.facebook.com/FlashDaily/?fref=ts> (FlashDaily.net官方臉書)
   - <http://labs.adobe.com/> (Adobe Labs 實驗室)
 
-[Category:程序设计语言](https://zh.wikipedia.org/wiki/Category:程序设计语言 "wikilink")
-[Category:脚本语言](https://zh.wikipedia.org/wiki/Category:脚本语言 "wikilink")
+[Category:程序设计语言](https://zh.wikipedia.org/wiki/Category:程序设计语言 "wikilink") [Category:脚本语言](https://zh.wikipedia.org/wiki/Category:脚本语言 "wikilink")
 
 1.
 2.
-3.  [Flash Player 11 Release
-    Notes](http://helpx.adobe.com/x-productkb/multi/release-notes-flash-player-11.html)
-4.  [Flash Player 12 Release
-    Notes](http://helpx.adobe.com/flash-player/release-note/fp_12_air_4_release_notes.html)
-5.  [Flash Player 13 Release
-    Notes](http://helpx.adobe.com/flash-player/release-note/fp_13_air_13_release_notes.html)
-6.  [Flash Player 14 Release
-    Notes](http://helpx.adobe.com/flash-player/release-note/fp_14_air_14_release_notes.html)
-7.  [Flash
-    Player 16](http://blogs.adobe.com/flashplayer/2014/12/flash-runtime-16-update-new-ppapi-installers-and-air-news.html)
+3.  [Flash Player 11 Release Notes](http://helpx.adobe.com/x-productkb/multi/release-notes-flash-player-11.html)
+4.  [Flash Player 12 Release Notes](http://helpx.adobe.com/flash-player/release-note/fp_12_air_4_release_notes.html)
+5.  [Flash Player 13 Release Notes](http://helpx.adobe.com/flash-player/release-note/fp_13_air_13_release_notes.html)
+6.  [Flash Player 14 Release Notes](http://helpx.adobe.com/flash-player/release-note/fp_14_air_14_release_notes.html)
+7.  [Flash Player 16](http://blogs.adobe.com/flashplayer/2014/12/flash-runtime-16-update-new-ppapi-installers-and-air-news.html)

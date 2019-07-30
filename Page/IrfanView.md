@@ -1,5 +1,4 @@
-**IrfanView**是[Microsoft
-Windows系統下的一款](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[图像浏览器](https://zh.wikipedia.org/wiki/图像浏览器 "wikilink")，基本功能包括圖像瀏覽、圖片的簡單編輯、圖片的格式轉換等。非商業使用是免費的，而商業使用則需要進行付費註冊。
+**IrfanView**是[Microsoft Windows系統下的一款](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[图像浏览器](https://zh.wikipedia.org/wiki/图像浏览器 "wikilink")，基本功能包括圖像瀏覽、圖片的簡單編輯、圖片的格式轉換等。非商業使用是免費的，而商業使用則需要進行付費註冊。
 
 该软件的作者是毕业于奥地利维也纳科技大学的Irfan Skiljan。
 
@@ -21,6 +20,4 @@ Windows系統下的一款](https://zh.wikipedia.org/wiki/Microsoft_Windows "wiki
 
   - [官网首頁](http://www.irfanview.com/)
 
-[Category:免費軟件](https://zh.wikipedia.org/wiki/Category:免費軟件 "wikilink")
-[Category:綠色軟件](https://zh.wikipedia.org/wiki/Category:綠色軟件 "wikilink")
-[Category:圖像檢視器](https://zh.wikipedia.org/wiki/Category:圖像檢視器 "wikilink")
+[Category:免費軟件](https://zh.wikipedia.org/wiki/Category:免費軟件 "wikilink") [Category:綠色軟件](https://zh.wikipedia.org/wiki/Category:綠色軟件 "wikilink") [Category:圖像檢視器](https://zh.wikipedia.org/wiki/Category:圖像檢視器 "wikilink")

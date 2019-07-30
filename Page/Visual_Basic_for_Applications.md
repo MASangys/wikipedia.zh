@@ -1,9 +1,4 @@
-**V**isual **B**asic for **A**pplications（**VBA**）是一種[Visual
-Basic的一種](../Page/Visual_Basic.md "wikilink")[巨集語言](https://zh.wikipedia.org/wiki/宏 "wikilink")，主要能用來擴展Windows的應用程式功能，特別是[Microsoft
-Office軟體](../Page/Microsoft_Office.md "wikilink")。也可說是一種應用程式視覺化的Basic
-Sc​​ript。
-1994年發行的[Excel](https://zh.wikipedia.org/wiki/Excel "wikilink")
-5.0版本中，即具備了VBA的巨集功能。
+**V**isual **B**asic for **A**pplications（**VBA**）是一種[Visual Basic的一種](../Page/Visual_Basic.md "wikilink")[巨集語言](https://zh.wikipedia.org/wiki/宏 "wikilink")，主要能用來擴展Windows的應用程式功能，特別是[Microsoft Office軟體](../Page/Microsoft_Office.md "wikilink")。也可說是一種應用程式視覺化的Basic Sc​​ript。 1994年發行的[Excel](https://zh.wikipedia.org/wiki/Excel "wikilink") 5.0版本中，即具備了VBA的巨集功能。
 
 ## 數據類型
 
@@ -194,9 +189,7 @@ VBA没有类似C语言的continue语句。通常可如此写程序：
 
 可以是Private、Public、Friend、Static等修飾。
 
-调用函数/过程时，可以加括号或者不加括号。如果调用表达式作为一行的一部分，那么必须用参数，例如函数调用的返回值赋给变量。 调用过程时，
-可以使用/不使用call关键字。使用call语句调用过程，如果无参数，则不加括号；如果有参数，必须加括号。如果调用时用括号包住单个参数，则该参数强行按值传递。需要特别注意，不用call不加括号的调用，形参与实参是传值(passed
-by value)而不是传引用(passed by reference)，这会导致一些对象的方法调用失败。例如：
+调用函数/过程时，可以加括号或者不加括号。如果调用表达式作为一行的一部分，那么必须用参数，例如函数调用的返回值赋给变量。 调用过程时， 可以使用/不使用call关键字。使用call语句调用过程，如果无参数，则不加括号；如果有参数，必须加括号。如果调用时用括号包住单个参数，则该参数强行按值传递。需要特别注意，不用call不加括号的调用，形参与实参是传值(passed by value)而不是传引用(passed by reference)，这会导致一些对象的方法调用失败。例如：
 
 ``` vb
     Dim cn As ADODB.Connection
@@ -247,15 +240,12 @@ VBA的常用内置函数列表参见：[1](https://msdn.microsoft.com/en-us/libr
       - TimeValue：由时间字符串得到时间对象
       - Weekday：获得日期的周几
       - WeekdayName
-  - 转换函数：CBool、CByte、CCur、 CDate、 CDbl、CDec、CInt、
-    CLng、CLngLng、CLngPtr、CSng、CStr、CVar、CVErr、Asc(<字符串表达式>)返回第一个字符的Ascii编码值、Chr(ASCII码)返回字符、Hex、Oct、Str(<数值表达式>)返回字符串、Val(string)、Format、FormatCurrency、FormatDateTime、FormatNumber、FormatPercent、MonthName
+  - 转换函数：CBool、CByte、CCur、 CDate、 CDbl、CDec、CInt、 CLng、CLngLng、CLngPtr、CSng、CStr、CVar、CVErr、Asc(<字符串表达式>)返回第一个字符的Ascii编码值、Chr(ASCII码)返回字符、Hex、Oct、Str(<数值表达式>)返回字符串、Val(string)、Format、FormatCurrency、FormatDateTime、FormatNumber、FormatPercent、MonthName
   - Nz(表达式或字段属性值\[,规定值\])如果是空，则返回0或者""或者函数的第二个参数值
-  - 验证函数：isNumeric、isDate、isNull、isEmpty
-    IsArray、IsError、IsMissing、IsObject
+  - 验证函数：isNumeric、isDate、isNull、isEmpty IsArray、IsError、IsMissing、IsObject
   - 数学函数：Abs、Sqr、Tan、Atn（即atan）、Sin、Cos、Exp（e为基的指数）、Log自然对数
   - Array:构造一个Array对象
-  - CallByName: get or set a property, or invoke a method at run time
-    using a string name.
+  - CallByName: get or set a property, or invoke a method at run time using a string name.
   - 控制流：Choose:类似于C语言的select语句、IIf相当于IF-ELSE语句、Switch
   - Command：获取命令行参数
   - CreateObject：创建ActiveX对象
@@ -278,8 +268,7 @@ VBA的常用内置函数列表参见：[1](https://msdn.microsoft.com/en-us/libr
       - Spc：使用Print做position output
       - Tab：用于Print函数
   - Error:错误号对应的错误消息
-  - [Windows
-    Registry中的数据](https://zh.wikipedia.org/wiki/Windows_Registry "wikilink")：GetAllSettings、SaveSetting、DeleteSetting、GetSetting
+  - [Windows Registry中的数据](https://zh.wikipedia.org/wiki/Windows_Registry "wikilink")：GetAllSettings、SaveSetting、DeleteSetting、GetSetting
   - GetObject：ActiveX组建的引用
   - IMEStatus：返回当前Input Method Editor (IME)。
   - Macintosh平台：MacID、MacScript
@@ -309,18 +298,13 @@ VBA的常用内置函数列表参见：[1](https://msdn.microsoft.com/en-us/libr
 
 ## 參考文獻
 
-  - \[<https://msdn.microsoft.com/en-us/library/dd941266(v=office.14>).aspx
-    VBA Language Reference for MS Office 2013\]
-  - \[<https://msdn.microsoft.com/zh-cn/library/office/gg2>​​64383.aspx
-    Office VBA 語言參考中文版for MS Office 2013\]
-  - [Office VBA 對像庫的引用for MS
-    Office 2013](https://msdn.microsoft.com/ZH-CN/library/office/ff862474.aspx)
-  - [VBA & Visual Basic Sc​​ripting
-    中文版語言參考](http://www.jb51.net/shouce/vbs/vtoriVBScript.htm)
+  - \[<https://msdn.microsoft.com/en-us/library/dd941266(v=office.14>).aspx VBA Language Reference for MS Office 2013\]
+  - \[<https://msdn.microsoft.com/zh-cn/library/office/gg2>​​64383.aspx Office VBA 語言參考中文版for MS Office 2013\]
+  - [Office VBA 對像庫的引用for MS Office 2013](https://msdn.microsoft.com/ZH-CN/library/office/ff862474.aspx)
+  - [VBA & Visual Basic Sc​​ripting 中文版語言參考](http://www.jb51.net/shouce/vbs/vtoriVBScript.htm)
 
 ## 外部連結
 
   - 官方網站：[大陸簡體](http://msdn.microsoft.com/zh-cn/office/ff688774.aspx)[台灣正體](http://msdn.microsoft.com/zh-tw/office/ff688774.aspx)
 
-[Category:Microsoft_Office](https://zh.wikipedia.org/wiki/Category:Microsoft_Office "wikilink")
-[Category:程序設計語言](https://zh.wikipedia.org/wiki/Category:程序設計語言 "wikilink")
+[Category:Microsoft_Office](https://zh.wikipedia.org/wiki/Category:Microsoft_Office "wikilink") [Category:程序設計語言](https://zh.wikipedia.org/wiki/Category:程序設計語言 "wikilink")

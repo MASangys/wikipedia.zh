@@ -21,7 +21,7 @@
   - 周靖錦歌劇團
   - 尚和歌仔戲劇團
   - 明珠女子歌劇團
-  - [明華園戲劇團](../Page/明華園.md "wikilink")
+  - [明華園](../Page/明華園.md "wikilink")戲劇團
   - 明霞歌劇團
   - [河洛歌子戲團](../Page/河洛歌子戲團.md "wikilink")
   - [春美歌劇團](../Page/郭春美.md "wikilink")
@@ -48,7 +48,7 @@
   - 明珠女子歌劇團
   - 雙喜戲劇坊\[1\]
 
-### [南管戲](../Page/南管.md "wikilink")、[北管戲](https://zh.wikipedia.org/wiki/北管 "wikilink")
+### [南管](../Page/南管.md "wikilink")戲、[北管戲](https://zh.wikipedia.org/wiki/北管 "wikilink")
 
 南管戲係包括[七子戲](https://zh.wikipedia.org/wiki/七子戲 "wikilink")（梨園戲）、[九甲戲](https://zh.wikipedia.org/wiki/九甲戲 "wikilink")（高甲戲），北管戲則目前僅餘[亂彈戲一類](https://zh.wikipedia.org/wiki/亂彈戲 "wikilink")。
 
@@ -292,7 +292,7 @@
 
   - 微笑唸歌團
   - 古意唸歌團
-  - [楊秀卿說唱藝術團](../Page/楊秀卿.md "wikilink")
+  - [楊秀卿](../Page/楊秀卿.md "wikilink")說唱藝術團
   - 愛客家說唱表演團
   - 台灣唸歌團
   - 蕙德藝術團
@@ -359,9 +359,7 @@
   -
 ## 外部連結
 
-[Category:台湾文化列表](https://zh.wikipedia.org/wiki/Category:台湾文化列表 "wikilink")
-[Category:台灣劇團](https://zh.wikipedia.org/wiki/Category:台灣劇團 "wikilink")
-[Category:剧团列表](https://zh.wikipedia.org/wiki/Category:剧团列表 "wikilink")
+[Category:台湾文化列表](https://zh.wikipedia.org/wiki/Category:台湾文化列表 "wikilink") [Category:台灣劇團](https://zh.wikipedia.org/wiki/Category:台灣劇團 "wikilink") [Category:剧团列表](https://zh.wikipedia.org/wiki/Category:剧团列表 "wikilink")
 
 1.
 

@@ -1,13 +1,10 @@
-**艾伯特·K·班德**（，），[美國有名的](https://zh.wikipedia.org/wiki/美國 "wikilink")[黑衣人證人](../Page/黑衣人.md "wikilink")，聲稱黑衣人其實就是[外星人在地球活動時派遣的幹員](../Page/外星人.md "wikilink")。出過《Flying
-Saucers and the Three Men in Black》一書。
+**艾伯特·K·班德**（，），[美國有名的](https://zh.wikipedia.org/wiki/美國 "wikilink")[黑衣人](../Page/黑衣人.md "wikilink")證人，聲稱黑衣人其實就是[外星人](../Page/外星人.md "wikilink")在地球活動時派遣的幹員。出過《Flying Saucers and the Three Men in Black》一書。
 
 ## 班德的確定經歷
 
-艾伯特·K·班德，生於1921年。1950年代時則是個在美國[康乃狄克州Bridgeport地區的工廠主管](../Page/康乃狄克州.md "wikilink")。
+艾伯特·K·班德，生於1921年。1950年代時則是個在美國[康乃狄克州](../Page/康乃狄克州.md "wikilink")Bridgeport地區的工廠主管。
 
-班德在開始對[幽浮](https://zh.wikipedia.org/wiki/不明飛行物 "wikilink")（時稱「飛碟」）產生興趣後，於1952年成立了International
-Flying Saucer
-Bureau（IFSB，直譯：國際飛碟社）。國際飛碟社成長迅速，成員多是美國人，不過也有其他國籍人民。這個民間組織的活動是調查、報告地方的相關事件。
+班德在開始對[幽浮](https://zh.wikipedia.org/wiki/不明飛行物 "wikilink")（時稱「飛碟」）產生興趣後，於1952年成立了International Flying Saucer Bureau（IFSB，直譯：國際飛碟社）。國際飛碟社成長迅速，成員多是美國人，不過也有其他國籍人民。這個民間組織的活動是調查、報告地方的相關事件。
 
 國際飛碟社在1953年10月發出兩份奇怪的聲明，表示真相已經大白，但是公開的時機還未到，接著就莫名其妙的解散了。很久以後班德才表示：有三個黑衣人來找他叫他閉嘴。
 
@@ -44,15 +41,14 @@ Bureau（IFSB，直譯：國際飛碟社）。國際飛碟社成長迅速，成�
 <!-- end list -->
 
   -
-    （接著簡報者放出了[核武器堆成一堆一堆的圖片](../Page/核武器.md "wikilink")，說明以下這事）
+    （接著簡報者放出了[核武器](../Page/核武器.md "wikilink")堆成一堆一堆的圖片，說明以下這事）
 
 <!-- end list -->
 
   -
     外星人有能力在同一時間引爆人類手上所有的核武。不過他們只有在人類想阻止他們在地球上的活動時才會這麼作。
 
-簡報告一段落後，出現了一個醜陋恐怖的怪物（他說長得像[西維吉尼亞州的Flatwoods怪物](https://zh.wikipedia.org/wiki/西弗吉尼亚州 "wikilink")）（可能是類男人實體變成的），繼續用心電感應告訴班德他們外星人有三種性別：雄性、雌性，和一種比雌雄都要更崇高的第三性別，稱為「exalted
-ones」（直譯：**崇高者**），在外星人中居領導地位。然後班德又感到一陣難耐的寒冷，他就被送回正常生活了。
+簡報告一段落後，出現了一個醜陋恐怖的怪物（他說長得像[西維吉尼亞州的Flatwoods怪物](https://zh.wikipedia.org/wiki/西弗吉尼亚州 "wikilink")）（可能是類男人實體變成的），繼續用心電感應告訴班德他們外星人有三種性別：雄性、雌性，和一種比雌雄都要更崇高的第三性別，稱為「exalted ones」（直譯：**崇高者**），在外星人中居領導地位。然後班德又感到一陣難耐的寒冷，他就被送回正常生活了。
 
 ### 第二次訪談
 
@@ -81,8 +77,7 @@ ones」（直譯：**崇高者**），在外星人中居領導地位。然後班
 
 這段聊完後，訪談結束前，崇高者表示他們最近將會在班德他家附近砸掉一個不值錢的東西，展示一下外星人的威力。然後訪談就結束了。班德又像上次一樣感到一陣冷然後回到正常生活中。
 
-1953-08-20（應該是在第二次訪談之後），「據說」有個[幽浮在New](https://zh.wikipedia.org/wiki/不明飛行物 "wikilink")
-Haven（距班德家只有幾哩）地區某處的一個標示牌上打了個洞。現場還有一股[硫磺味](https://zh.wikipedia.org/wiki/硫磺 "wikilink")。
+1953-08-20（應該是在第二次訪談之後），「據說」有個[幽浮在New](https://zh.wikipedia.org/wiki/不明飛行物 "wikilink") Haven（距班德家只有幾哩）地區某處的一個標示牌上打了個洞。現場還有一股[硫磺味](https://zh.wikipedia.org/wiki/硫磺 "wikilink")。
 
 ## 班德對外星人的看法
 
@@ -104,8 +99,7 @@ Haven（距班德家只有幾哩）地區某處的一個標示牌上打了個洞
 
 ## 參看
 
-David Ritchie著，《UFO: The Definitive Guide to UFO and Related
-Phenomena》，1994出版，ISBN 081602894X。
+David Ritchie著，《UFO: The Definitive Guide to UFO and Related Phenomena》，1994出版，ISBN 081602894X。
 
 [Category:不明飛行物體](https://zh.wikipedia.org/wiki/Category:不明飛行物體 "wikilink")
 

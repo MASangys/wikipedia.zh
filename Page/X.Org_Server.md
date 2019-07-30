@@ -1,21 +1,12 @@
-**X.Org Server**（全称）是[X Window
-System的官方](https://zh.wikipedia.org/wiki/X_Window_System "wikilink")[参考實作](https://zh.wikipedia.org/wiki/参考實作 "wikilink")，它是[开放源代码的](../Page/开放源代码.md "wikilink")[自由软件](../Page/自由软件.md "wikilink")。
+**X.Org Server**（全称）是[X Window System的官方](https://zh.wikipedia.org/wiki/X_Window_System "wikilink")[参考實作](https://zh.wikipedia.org/wiki/参考實作 "wikilink")，它是[开放源代码](../Page/开放源代码.md "wikilink")的[自由软件](../Page/自由软件.md "wikilink")。
 
-这个项目由[X.Org基金会运作](../Page/X.Org基金会.md "wikilink")，存放于[freedesktop.org的主机上](https://zh.wikipedia.org/wiki/freedesktop.org "wikilink")。
+这个项目由[X.Org基金会](../Page/X.Org基金会.md "wikilink")运作，存放于[freedesktop.org的主机上](https://zh.wikipedia.org/wiki/freedesktop.org "wikilink")。
 
-由于在XFree86
-4.4最终版本采用新许可证问题上的分歧，Xorg服务的第一个版本X11R6.7.0从[XFree86](../Page/XFree86.md "wikilink")
-4.4
-RC2[派生出来](https://zh.wikipedia.org/wiki/派生 "wikilink")，并加入了X11R6.6的一些改动。许多原先XFree86的开发者加入了这个比XFree86更开放的项目。
+由于在XFree86 4.4最终版本采用新许可证问题上的分歧，Xorg服务的第一个版本X11R6.7.0从[XFree86](../Page/XFree86.md "wikilink") 4.4 RC2[派生出来](https://zh.wikipedia.org/wiki/派生 "wikilink")，并加入了X11R6.6的一些改动。许多原先XFree86的开发者加入了这个比XFree86更开放的项目。
 
 選擇XOrg作為提供圖形與桌面服務為主的套件，逐渐在开源實作的[類Unix操作系统中流行](https://zh.wikipedia.org/wiki/類Unix "wikilink")。
 
-它被以下发行版本采用以代替XFree86：[Gentoo
-Linux](../Page/Gentoo_Linux.md "wikilink")、[Fedora
-Core](https://zh.wikipedia.org/wiki/Fedora_Core "wikilink")、[Slackware](../Page/Slackware.md "wikilink")、[SUSE](../Page/SUSE.md "wikilink")、[Mandrake
-Linux](https://zh.wikipedia.org/wiki/Mandrake_Linux "wikilink")、[Cygwin/X](https://zh.wikipedia.org/wiki/Cygwin/X "wikilink")、[Debian
-GNU/Linux](https://zh.wikipedia.org/wiki/Debian_GNU/Linux "wikilink")、[Ubuntu
-Linux](https://zh.wikipedia.org/wiki/Ubuntu_Linux "wikilink")、[OpenBSD和](../Page/OpenBSD.md "wikilink")[FreeBSD](../Page/FreeBSD.md "wikilink")。
+它被以下发行版本采用以代替XFree86：[Gentoo Linux](../Page/Gentoo_Linux.md "wikilink")、[Fedora Core](https://zh.wikipedia.org/wiki/Fedora_Core "wikilink")、[Slackware](../Page/Slackware.md "wikilink")、[SUSE](../Page/SUSE.md "wikilink")、[Mandrake Linux](https://zh.wikipedia.org/wiki/Mandrake_Linux "wikilink")、[Cygwin/X](https://zh.wikipedia.org/wiki/Cygwin/X "wikilink")、[Debian GNU/Linux](https://zh.wikipedia.org/wiki/Debian_GNU/Linux "wikilink")、[Ubuntu Linux](https://zh.wikipedia.org/wiki/Ubuntu_Linux "wikilink")、[OpenBSD](../Page/OpenBSD.md "wikilink")和[FreeBSD](../Page/FreeBSD.md "wikilink")。
 
 ## 发布历史
 
@@ -174,8 +165,7 @@ Linux](https://zh.wikipedia.org/wiki/Ubuntu_Linux "wikilink")、[OpenBSD和](../
 
   - on freenode
 
-[Category:X服务器](https://zh.wikipedia.org/wiki/Category:X服务器 "wikilink")
-[Category:开放源代码](https://zh.wikipedia.org/wiki/Category:开放源代码 "wikilink")
+[Category:X服务器](https://zh.wikipedia.org/wiki/Category:X服务器 "wikilink") [Category:开放源代码](https://zh.wikipedia.org/wiki/Category:开放源代码 "wikilink")
 
 1.
 

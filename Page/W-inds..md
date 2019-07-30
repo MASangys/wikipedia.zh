@@ -1,5 +1,4 @@
-**w-inds.**（）是[日本](../Page/日本.md "wikilink")3人男子[歌舞](https://zh.wikipedia.org/wiki/歌舞系 "wikilink")[組合](../Page/男子音乐组合.md "wikilink")，以歌唱與舞蹈著稱，擅長Rap和唱跳街舞，隊長是[千葉涼平](../Page/千葉涼平.md "wikilink")，[橘慶太是主唱](../Page/橘慶太.md "wikilink")，千葉涼平和[緒方龍一是和音](../Page/緒方龍一.md "wikilink")、Rap和伴舞。所屬經紀公司為[VISION
-FACTORY](https://zh.wikipedia.org/wiki/VISION_FACTORY "wikilink")，所屬唱片公司為[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。
+**w-inds.**（）是[日本](../Page/日本.md "wikilink")3人男子[歌舞](https://zh.wikipedia.org/wiki/歌舞系 "wikilink")[組合](../Page/男子音乐组合.md "wikilink")，以歌唱與舞蹈著稱，擅長Rap和唱跳街舞，隊長是[千葉涼平](../Page/千葉涼平.md "wikilink")，[橘慶太](../Page/橘慶太.md "wikilink")是主唱，千葉涼平和[緒方龍一](../Page/緒方龍一.md "wikilink")是和音、Rap和伴舞。所屬經紀公司為[VISION FACTORY](https://zh.wikipedia.org/wiki/VISION_FACTORY "wikilink")，所屬唱片公司為[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。
 
 ## 成員資料
 
@@ -611,8 +610,7 @@ w-inds. 10th Anniversary Best Album-We sing for you-</p></td>
 
   - 日本Best Hit Song Festival ゴールドアーティスト賞「最受歡迎組合」受賞
 
-  - 香港電台第十四屆國際流行音樂大獎 「最受歡迎日本新人獎」(14th RTHK International Pop Poll Award
-    Top Japanese New Art Gold）
+  - 香港電台第十四屆國際流行音樂大獎 「最受歡迎日本新人獎」(14th RTHK International Pop Poll Award Top Japanese New Art Gold）
 
 <!-- end list -->
 
@@ -622,8 +620,7 @@ w-inds. 10th Anniversary Best Album-We sing for you-</p></td>
 
   - 日本Best Hit Song Festival ゴールドアーティスト賞「最受歡迎組合」受賞
 
-  - Yahoo\!香港國際搜尋人氣歌手獎（Yahoo\!Hongkong Buzz Music Awards：The Best
-    International Group 2004）
+  - Yahoo\!香港國際搜尋人氣歌手獎（Yahoo\!Hongkong Buzz Music Awards：The Best International Group 2004）
 
   - IFPI銷量大獎「2004年最暢銷日韓專輯」［受賞專輯：w-inds. PRIME OF LIFE、w-inds. bestracks］
 
@@ -637,8 +634,7 @@ w-inds. 10th Anniversary Best Album-We sing for you-</p></td>
 
   - 日本Best Hit Song Festival ゴールドアーティスト賞「最受歡迎組合」受賞
 
-  - Yahoo\!香港國際搜尋人氣歌手獎（Yahoo\!Hongkong Buzz Music Awards ： The Best
-    International Group 2005）
+  - Yahoo\!香港國際搜尋人氣歌手獎（Yahoo\!Hongkong Buzz Music Awards ： The Best International Group 2005）
 
   - IFPI銷量大獎「2005年最暢銷日韓專輯」（受賞專輯：Ageha）
 
@@ -658,16 +654,13 @@ w-inds. 10th Anniversary Best Album-We sing for you-</p></td>
 
   - HITO流行音樂獎「年度HITO日亞歌曲」［受賞曲目：（美麗風采）］
 
-  - 2006 MTV Channel：Mandarin Awards 2006「The Most Popular Group of
-    Japan」
+  - 2006 MTV Channel：Mandarin Awards 2006「The Most Popular Group of Japan」
 
-  - 2006 MTV Channel：Mandarin Awards 2006「12 millions CD Sale Special
-    Awards」
+  - 2006 MTV Channel：Mandarin Awards 2006「12 millions CD Sale Special Awards」
 
   - Mnet KM Music Festival 2006「Best Asia Pop Artist」
 
-  - Yahoo\!香港國際搜尋人氣歌手獎（Yahoo\!Hongkong Buzz Music Awards ： The Best
-    International Group 2006）
+  - Yahoo\!香港國際搜尋人氣歌手獎（Yahoo\!Hongkong Buzz Music Awards ： The Best International Group 2006）
 
   - IFPI銷量大獎「2006年最暢銷日韓專輯」［受賞專輯：THANKS］
 
@@ -683,11 +676,9 @@ w-inds. 10th Anniversary Best Album-We sing for you-</p></td>
 
   - MTV Student Voice Awards「2007最優秀STUDENT VOICE小組賞」
 
-  - 第18屆流行音樂大獎「最受歡迎日本歌手／組合」（2007 RTHK 18th International Pop Poll
-    Awards：Top Japanese Artist or Group）
+  - 第18屆流行音樂大獎「最受歡迎日本歌手／組合」（2007 RTHK 18th International Pop Poll Awards：Top Japanese Artist or Group）
 
-  - Yahoo\!香港國際搜尋人氣歌手獎（Yahoo\!Hongkong Buzz Music Awards：The Best
-    International Group 2007）
+  - Yahoo\!香港國際搜尋人氣歌手獎（Yahoo\!Hongkong Buzz Music Awards：The Best International Group 2007）
 
 <!-- end list -->
 
@@ -701,8 +692,7 @@ w-inds. 10th Anniversary Best Album-We sing for you-</p></td>
 
   - 2008亞洲音樂節 亞洲最佳歌手獎「Best Asian Artist Award (JP)」
 
-  - 香港電台第十九屆國際流行音樂大獎 「最受歡迎日本金曲」(19th RTHK International Pop Poll Award
-    Top Japanese Gold Song 『Beautiful Life』）
+  - 香港電台第十九屆國際流行音樂大獎 「最受歡迎日本金曲」(19th RTHK International Pop Poll Award Top Japanese Gold Song 『Beautiful Life』）
 
 <!-- end list -->
 
@@ -732,8 +722,7 @@ w-inds. 10th Anniversary Best Album-We sing for you-</p></td>
 
   - IFPI銷量大獎「2010年最暢銷日韓專輯」［受賞專輯：Another World］
 
-  - 香港電台第二十二屆國際流行音樂大獎 「最受歡迎日本金曲」(22nd RTHK International Pop Poll Award
-    Top Japanese Gold Song 『Addicted to love』）
+  - 香港電台第二十二屆國際流行音樂大獎 「最受歡迎日本金曲」(22nd RTHK International Pop Poll Award Top Japanese Gold Song 『Addicted to love』）
 
 <!-- end list -->
 
@@ -771,11 +760,9 @@ w-inds. 10th Anniversary Best Album-We sing for you-</p></td>
 
   - IFPI銷量大獎「2015年最暢銷日韓專輯」［受賞專輯：Blue Blood］
 
-  - 香港電台第二十七屆國際流行音樂大獎 「全年最受歡迎日本金曲金獎」(27th RTHK International Pop Poll
-    Award Top Japanese Gold Song 『In Love With The Music』）
+  - 香港電台第二十七屆國際流行音樂大獎 「全年最受歡迎日本金曲金獎」(27th RTHK International Pop Poll Award Top Japanese Gold Song 『In Love With The Music』）
 
-  - 香港電台第二十七屆國際流行音樂大獎 「全年最受歡迎日本歌手或組合金獎」(27th RTHK International Pop Poll
-    Award Top Artist/Group Japan）
+  - 香港電台第二十七屆國際流行音樂大獎 「全年最受歡迎日本歌手或組合金獎」(27th RTHK International Pop Poll Award Top Artist/Group Japan）
 
 <!-- end list -->
 
@@ -783,11 +770,9 @@ w-inds. 10th Anniversary Best Album-We sing for you-</p></td>
 
 <!-- end list -->
 
-  - 香港電台第二十八屆國際流行音樂大獎 「全年最受歡迎日本金曲金獎」(28th RTHK International Pop Poll
-    Award Top Japanese Gold Song 『Boom Word Up』）
+  - 香港電台第二十八屆國際流行音樂大獎 「全年最受歡迎日本金曲金獎」(28th RTHK International Pop Poll Award Top Japanese Gold Song 『Boom Word Up』）
 
-  - 香港電台第二十八屆國際流行音樂大獎 「全年最受歡迎日本歌手或組合金獎」(28th RTHK International Pop Poll
-    Award Top Artist/Group Japan）
+  - 香港電台第二十八屆國際流行音樂大獎 「全年最受歡迎日本歌手或組合金獎」(28th RTHK International Pop Poll Award Top Artist/Group Japan）
 
 <!-- end list -->
 
@@ -795,8 +780,7 @@ w-inds. 10th Anniversary Best Album-We sing for you-</p></td>
 
 <!-- end list -->
 
-  - 香港電台第二十九屆國際流行音樂大獎 「全年最受歡迎日本金曲金獎」(29th RTHK International Pop Poll
-    Award Top Japanese Gold Song 『Time Has Gone』）
+  - 香港電台第二十九屆國際流行音樂大獎 「全年最受歡迎日本金曲金獎」(29th RTHK International Pop Poll Award Top Japanese Gold Song 『Time Has Gone』）
 
 ## 參考文獻
 
@@ -804,10 +788,4 @@ w-inds. 10th Anniversary Best Album-We sing for you-</p></td>
 
   - [w-inds.tv](http://www.w-inds.tv)
 
-[Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink")
-[Category:日本男子偶像團體](https://zh.wikipedia.org/wiki/Category:日本男子偶像團體 "wikilink")
-[Category:日本唱片大獎最優秀新人獎獲獎者](https://zh.wikipedia.org/wiki/Category:日本唱片大獎最優秀新人獎獲獎者 "wikilink")
-[Category:Burning_Production系列所屬藝人](https://zh.wikipedia.org/wiki/Category:Burning_Production系列所屬藝人 "wikilink")
-[Category:波麗佳音](https://zh.wikipedia.org/wiki/Category:波麗佳音 "wikilink")
-[Category:VISION_FACTORY](https://zh.wikipedia.org/wiki/Category:VISION_FACTORY "wikilink")
-[Category:Mnet亞洲音樂大獎獲得者](https://zh.wikipedia.org/wiki/Category:Mnet亞洲音樂大獎獲得者 "wikilink")
+[Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink") [Category:日本男子偶像團體](https://zh.wikipedia.org/wiki/Category:日本男子偶像團體 "wikilink") [Category:日本唱片大獎最優秀新人獎獲獎者](https://zh.wikipedia.org/wiki/Category:日本唱片大獎最優秀新人獎獲獎者 "wikilink") [Category:Burning_Production系列所屬藝人](https://zh.wikipedia.org/wiki/Category:Burning_Production系列所屬藝人 "wikilink") [Category:波麗佳音](https://zh.wikipedia.org/wiki/Category:波麗佳音 "wikilink") [Category:VISION_FACTORY](https://zh.wikipedia.org/wiki/Category:VISION_FACTORY "wikilink") [Category:Mnet亞洲音樂大獎獲得者](https://zh.wikipedia.org/wiki/Category:Mnet亞洲音樂大獎獲得者 "wikilink")

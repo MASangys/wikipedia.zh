@@ -1,21 +1,17 @@
-**C\#**是[微软推出的一种基于](../Page/微软.md "wikilink")[.NET框架的](../Page/.NET框架.md "wikilink")、[面向对象的高级](../Page/面向对象程序设计.md "wikilink")[编程语言](../Page/编程语言.md "wikilink")。C\#以.NET框架类库作为基础，拥有类似[Visual
-Basic的快速开发能力](../Page/Visual_Basic.md "wikilink")。C\#由[安德斯·海尔斯伯格主持开发](../Page/安德斯·海尔斯伯格.md "wikilink")，微软在2000年发布了这种语言，希望借助这种语言来取代[Java](../Page/Java.md "wikilink")。C\#已经成为[Ecma国际和](../Page/Ecma国际.md "wikilink")[国际标准组织的标准规范](https://zh.wikipedia.org/wiki/国际标准组织 "wikilink")。
+**C\#**是[微软](../Page/微软.md "wikilink")推出的一种基于[.NET框架](../Page/.NET框架.md "wikilink")的、[面向对象的高级](../Page/面向对象程序设计.md "wikilink")[编程语言](../Page/编程语言.md "wikilink")。C\#以.NET框架类库作为基础，拥有类似[Visual Basic的快速开发能力](../Page/Visual_Basic.md "wikilink")。C\#由[安德斯·海尔斯伯格](../Page/安德斯·海尔斯伯格.md "wikilink")主持开发，微软在2000年发布了这种语言，希望借助这种语言来取代[Java](../Page/Java.md "wikilink")。C\#已经成为[Ecma国际](../Page/Ecma国际.md "wikilink")和[国际标准组织的标准规范](https://zh.wikipedia.org/wiki/国际标准组织 "wikilink")。
 
 ## 命名
 
-C\#的发音为“C
-sharp”，“\#”读作“sharp”（），命名启发于音乐上的音名“**[C♯](../Page/C♯_\(音名\).md "wikilink")**”，在音乐中“C♯”表示C升半音，為比C高一点的音节，且“\#”形似4个加号，微软借助这样的命名，表示C\#在一些语言特性方面对C++的提升的意思。
+C\#的发音为“C sharp”，“\#”读作“sharp”（），命名启发于音乐上的音名“**[C♯](../Page/C♯_\(音名\).md "wikilink")**”，在音乐中“C♯”表示C升半音，為比C高一点的音节，且“\#”形似4个加号，微软借助这样的命名，表示C\#在一些语言特性方面对C++的提升的意思。
 
-由於[顯示器](https://zh.wikipedia.org/wiki/顯示器 "wikilink")（標準[字體](https://zh.wikipedia.org/wiki/字體 "wikilink")、[瀏覽器等](https://zh.wikipedia.org/wiki/瀏覽器 "wikilink")）的技術限制，且大部分的[鍵盤配置上不存在](https://zh.wikipedia.org/wiki/鍵盤配置 "wikilink")[升記號](https://zh.wikipedia.org/wiki/升記號 "wikilink")（♯），所以[井號](../Page/井號.md "wikilink")（\#）被用於此[程式語言的名稱中](https://zh.wikipedia.org/wiki/程式語言 "wikilink")，約定在ECMA-334
-C\#語言規範中\[1\]。
+由於[顯示器](https://zh.wikipedia.org/wiki/顯示器 "wikilink")（標準[字體](https://zh.wikipedia.org/wiki/字體 "wikilink")、[瀏覽器等](https://zh.wikipedia.org/wiki/瀏覽器 "wikilink")）的技術限制，且大部分的[鍵盤配置上不存在](https://zh.wikipedia.org/wiki/鍵盤配置 "wikilink")[升記號](https://zh.wikipedia.org/wiki/升記號 "wikilink")（♯），所以[井號](../Page/井號.md "wikilink")（\#）被用於此[程式語言的名稱中](https://zh.wikipedia.org/wiki/程式語言 "wikilink")，約定在ECMA-334 C\#語言規範中\[1\]。
 
 ## 设计目标
 
 ECMA标准列出的C\#设计目标：
 
   - C\#旨在设计成为一种「简单、现代、通用」，以及面向对象的程序设计语言
-  - 此种语言的实现，应提供对于以下软件工程要素的支持：强类型檢查、数组维度检查、未初始化的变量引用检测、[自动垃圾收集](https://zh.wikipedia.org/wiki/垃圾回收_\(计算机科学\) "wikilink")（Garbage
-    Collection，指一种記憶體自動释放技术）。软件必须做到強大、持久，并具有较强-{zh-hans:的编程;zh-hant:程式開發的}-生产力。
+  - 此种语言的实现，应提供对于以下软件工程要素的支持：强类型檢查、数组维度检查、未初始化的变量引用检测、[自动垃圾收集](https://zh.wikipedia.org/wiki/垃圾回收_\(计算机科学\) "wikilink")（Garbage Collection，指一种記憶體自動释放技术）。软件必须做到強大、持久，并具有较强-{zh-hans:的编程;zh-hant:程式開發的}-生产力。
   - 此种语言为在-{zh-hans:分布式;zh-hant:分散式}-环境中的开发提供适用的组件开发应用。
   - 为使程序员容易迁移到这种语言，源代码的可移植性十分重要，尤其是对于那些已熟悉C和C++的程序员而言。
   - 对国际化的支持非常重要。
@@ -24,12 +20,7 @@ ECMA标准列出的C\#设计目标：
 
 ## 歷史
 
-原Borland公司的首席研发设计师[安德斯·海爾斯伯格](https://zh.wikipedia.org/wiki/安德斯·海爾斯伯格 "wikilink")（Anders
-Hejlsberg）在微軟開發了[Visual
-J++](https://zh.wikipedia.org/wiki/Visual_J++ "wikilink") 1.0，很快的Visual
-J++由1.1版本升級到6.0版。[SUN公司认为Visual](../Page/昇陽電腦.md "wikilink") J++
-违反了Java开发平台的中立性，对微软提出了诉讼。2000年6月26日微软在奥兰多举行的“职业开发人员技术大会”（PDC
-2000）上，發表新的语言C\#。C\#语言取代了Visual J++，語言本身深受Visual Basic、Java、C和C++ 的影響。
+原Borland公司的首席研发设计师[安德斯·海爾斯伯格](https://zh.wikipedia.org/wiki/安德斯·海爾斯伯格 "wikilink")（Anders Hejlsberg）在微軟開發了[Visual J++](https://zh.wikipedia.org/wiki/Visual_J++ "wikilink") 1.0，很快的Visual J++由1.1版本升級到6.0版。[SUN公司认为Visual](../Page/昇陽電腦.md "wikilink") J++ 违反了Java开发平台的中立性，对微软提出了诉讼。2000年6月26日微软在奥兰多举行的“职业开发人员技术大会”（PDC 2000）上，發表新的语言C\#。C\#语言取代了Visual J++，語言本身深受Visual Basic、Java、C和C++ 的影響。
 
 ### 版本
 
@@ -39,7 +30,7 @@ J++由1.1版本升級到6.0版。[SUN公司认为Visual](../Page/昇陽電腦.md
 <th><p>版本</p></th>
 <th><p>語言規格</p></th>
 <th><p>日期</p></th>
-<th><p><a href="../Page/.NET框架.md" title="wikilink">.NET框架的版本</a></p></th>
+<th><p><a href="../Page/.NET框架.md" title="wikilink">.NET框架</a>的版本</p></th>
 <th><p><a href="../Page/Microsoft_Visual_Studio.md" title="wikilink">Visual Studio的版本</a></p></th>
 </tr>
 </thead>
@@ -138,15 +129,11 @@ C# 1.2</p></td>
 
   - [-{zh-hans:指针;zh-hant:指標}-](https://zh.wikipedia.org/wiki/指標 "wikilink")（Pointer）只能用於不安全模式之中。大多數對象訪問通過安全的引用实现，以避免無效的調用，並且有許多-{zh-hans:算法;zh-hant:演算法}-用於-{zh-hans:验证;zh-hant:檢查}--{zh-hans:溢出;zh-hant:溢位}-，-{zh-hans:指针;zh-hant:指標}-只能用於調用值类型，以及受[垃圾收集控制的托管對象](https://zh.wikipedia.org/wiki/垃圾回收_\(计算机科学\) "wikilink")。
   - 對象不能被顯式釋放，代替為當不存在被引用時通過垃圾回收器回收。
-  - 只允許[單一繼承](https://zh.wikipedia.org/wiki/單一繼承 "wikilink")（single
-    inheritance），但是一個類可以實現多個[-{zh-hans:接口;zh-hant:介面}-](https://zh.wikipedia.org/wiki/接口 "wikilink")（interfaces）。
+  - 只允許[單一繼承](https://zh.wikipedia.org/wiki/單一繼承 "wikilink")（single inheritance），但是一個類可以實現多個[-{zh-hans:接口;zh-hant:介面}-](https://zh.wikipedia.org/wiki/接口 "wikilink")（interfaces）。
   - C\#比C++更加[類型安全](https://zh.wikipedia.org/wiki/類型安全 "wikilink")。-{zh-hans:默认;zh-hant:預設}-的安全轉換是[隱含轉換](https://zh.wikipedia.org/wiki/隱含轉換 "wikilink")，例如由短整型轉換為長整型和從派生類轉換為基類。而-{zh-hans:接口;zh-hant:介面}--{zh-hans:布尔型;zh-hant:布林數}-同整型，及枚举型同整型不允許隱含轉換，非[空-{zh-hans:指针;zh-hant:指標}-](../Page/空指標.md "wikilink")（通過引用相似對象）同用戶定義類型的隱含轉換字段被顯式的確定，不同於C++的複製構造函數。
-  - 数组-{zh-hans:声明;zh-hant:宣告的}-語法不同（"int\[\] a = new int\[5\]"而不是"int
-    a\[5\]"）。
-  - [枚举位於其所在的](../Page/枚举.md "wikilink")[命名空間中](https://zh.wikipedia.org/wiki/命名空間 "wikilink")。
-  - C\#中沒有[模版](../Page/模板_\(C++\).md "wikilink")（Template），但是在C\#
-    2.0中引入了[泛型](../Page/泛型.md "wikilink")（Generic
-    programming），並且支持一些C++模版不支持的特性。比如泛型參數中的類型約束。另一方面，表達式不能像C++模版中被用於類型參數。
+  - 数组-{zh-hans:声明;zh-hant:宣告的}-語法不同（"int\[\] a = new int\[5\]"而不是"int a\[5\]"）。
+  - [枚举](../Page/枚举.md "wikilink")位於其所在的[命名空間中](https://zh.wikipedia.org/wiki/命名空間 "wikilink")。
+  - C\#中沒有[模版](../Page/模板_\(C++\).md "wikilink")（Template），但是在C\# 2.0中引入了[泛型](../Page/泛型.md "wikilink")（Generic programming），並且支持一些C++模版不支持的特性。比如泛型參數中的類型約束。另一方面，表達式不能像C++模版中被用於類型參數。
   - [屬性支持](https://zh.wikipedia.org/wiki/屬性 "wikilink")，使用類似訪問成員的方式調用。
   - 完整的[反射支持](https://zh.wikipedia.org/wiki/反射_\(電腦科學\) "wikilink")。
 
@@ -156,8 +143,7 @@ C# 1.2</p></td>
 
 ### 分部類別
 
-[分部類別将類別的实现分在多个文件中](../Page/分部类.md "wikilink")。该概念于C\#
-中首次出现，除了能将一个類別的成员分开存放，还使[ASP.NET中的代码后置得以实现](../Page/ASP.NET.md "wikilink")。代码后置实现了HTML代码和后台交互代码的分离。
+[分部類別将類別的实现分在多个文件中](../Page/分部类.md "wikilink")。该概念于C\# 中首次出现，除了能将一个類別的成员分开存放，还使[ASP.NET](../Page/ASP.NET.md "wikilink")中的代码后置得以实现。代码后置实现了HTML代码和后台交互代码的分离。
 
 file1.cs:
 
@@ -187,10 +173,7 @@ public partial class MyClass1
 
 ### 泛型
 
-[泛型](https://zh.wikipedia.org/wiki/泛型编程 "wikilink")，或参数化类型，是被C\#支持的.NET
-2.0特性。不同于C++模版，.NET参数化类型是在运行时被实例化，而不是编译时，因此它可以跨语言，而C++模版却不行。它支持的一些特性并不被C++模版直接支持，比如约束泛型参数实现一个接口。另一方面，C\#
-不支持无类型的泛型参数。不像Java中的泛型，在[CLI虚拟机中](../Page/通用语言架构.md "wikilink")，.NET
-generics使用[具化生成泛型参数](https://zh.wikipedia.org/wiki/具化 "wikilink")，它允许优化和保存类型信息。\[2\]
+[泛型](https://zh.wikipedia.org/wiki/泛型编程 "wikilink")，或参数化类型，是被C\#支持的.NET 2.0特性。不同于C++模版，.NET参数化类型是在运行时被实例化，而不是编译时，因此它可以跨语言，而C++模版却不行。它支持的一些特性并不被C++模版直接支持，比如约束泛型参数实现一个接口。另一方面，C\# 不支持无类型的泛型参数。不像Java中的泛型，在[CLI虚拟机中](../Page/通用语言架构.md "wikilink")，.NET generics使用[具化生成泛型参数](https://zh.wikipedia.org/wiki/具化 "wikilink")，它允许优化和保存类型信息。\[2\]
 
 ### 静态類別
 
@@ -198,8 +181,7 @@ generics使用[具化生成泛型参数](https://zh.wikipedia.org/wiki/具化 "w
 
 ### 迭代器
 
-一种新形式的[迭代器它提供了函数式编程中的](../Page/迭代器.md "wikilink")[generator](../Page/生成器_\(计算机编程\).md "wikilink")，使用`yield
-return`
+一种新形式的[迭代器](../Page/迭代器.md "wikilink")它提供了函数式编程中的[generator](../Page/生成器_\(计算机编程\).md "wikilink")，使用`yield return`
 
 类似于[Python中使用的](https://zh.wikipedia.org/wiki/Python_\(消歧义\) "wikilink")`yield`
 
@@ -257,8 +239,7 @@ public string Status
 
 ### 可空类型
 
-[可空类型](https://zh.wikipedia.org/wiki/可空类型 "wikilink")（跟个问号，如`int? i =
-null;`）允许设置`null`给任何类类型。
+[可空类型](https://zh.wikipedia.org/wiki/可空类型 "wikilink")（跟个问号，如`int? i = null;`）允许设置`null`给任何类类型。
 
 ``` csharp
 int? i = null;
@@ -288,15 +269,11 @@ int j = i ?? 0; // Unless i is null, initialize j to i. Else (if i is null), ini
 
 ## C\# 3.0的特性
 
-C\# 3.0发布于2007年10月17日，是.NET Framework
-3.5的一部分，它的新特性灵感来自于[函数式编程语言](../Page/函数式编程.md "wikilink")，如：[Haskell和](../Page/Haskell.md "wikilink")[ML](../Page/ML语言.md "wikilink")，并广泛地引入了[Language
-Integrated Query](../Page/语言集成查询.md "wikilink")（LINQ）模式到通用語言運行庫中e.\[5\]
+C\# 3.0发布于2007年10月17日，是.NET Framework 3.5的一部分，它的新特性灵感来自于[函数式编程](../Page/函数式编程.md "wikilink")语言，如：[Haskell](../Page/Haskell.md "wikilink")和[ML](../Page/ML语言.md "wikilink")，并广泛地引入了[Language Integrated Query](../Page/语言集成查询.md "wikilink")（LINQ）模式到通用語言運行庫中e.\[5\]
 
 ### Linq
 
-[语言集成查询](../Page/语言集成查询.md "wikilink")（，缩写：**LINQ**）：\[6\]
-上下文相关关键字"`from`, `where`,
-`select`"可用于查询SQL、XML、集合等。这些标识符在LINQ上下文中被作为关键字，但是它们的增加不会破坏原有的名为`from`、`where`或`select`的变量。
+[语言集成查询](../Page/语言集成查询.md "wikilink")（，缩写：**LINQ**）：\[6\] 上下文相关关键字"`from`, `where`, `select`"可用于查询SQL、XML、集合等。这些标识符在LINQ上下文中被作为关键字，但是它们的增加不会破坏原有的名为`from`、`where`或`select`的变量。
 
 ### 类型初始化器
 
@@ -434,9 +411,7 @@ partial class C
 
 ### 動態查閱
 
-C\# 4.0新增dynamic关键字，提供動態編程（dynamic
-programming），把既有的靜態物件標記為動態物件，類似[javascript](../Page/JavaScript.md "wikilink"),
-[Python或](https://zh.wikipedia.org/wiki/Python_\(消歧义\) "wikilink")[Ruby](../Page/红宝石.md "wikilink")。
+C\# 4.0新增dynamic关键字，提供動態編程（dynamic programming），把既有的靜態物件標記為動態物件，類似[javascript](../Page/JavaScript.md "wikilink"), [Python或](https://zh.wikipedia.org/wiki/Python_\(消歧义\) "wikilink")[Ruby](../Page/红宝石.md "wikilink")。
 
 dynamic关键字标记的字段被处理成一个特殊包装的object对象，它取消了CLI的编译时类型检查
 
@@ -483,8 +458,7 @@ excelObj.Cells[5, 5].Value = "This is sample text";
 
 ### 泛型的协变和逆变
 
-C\#
-4.0支援[协变和逆变](https://zh.wikipedia.org/wiki/协变和逆变_\(计算机科学\) "wikilink")，例如在泛型介面可以加上in、out-{zh:修饰字;zh-hk:修饰字;zh-cn:关键字}-。
+C\# 4.0支援[协变和逆变](https://zh.wikipedia.org/wiki/协变和逆变_\(计算机科学\) "wikilink")，例如在泛型介面可以加上in、out-{zh:修饰字;zh-hk:修饰字;zh-cn:关键字}-。
 
 ``` csharp
   public interface IComparer<in T>
@@ -501,8 +475,7 @@ C\#
 ## C\# 5.0的特性
 
 1.  C\# Evolution Matrix
-2.  Async Feature （补充：
-    async和await是一对语法糖，允许开发人员非常轻松的调用基于TASK的异步编程）async-await关键字并不会真的创建一个线程池任务，完成这个动作依赖于被调用方法中的函数。这一点在许多C\#的中文教程中被忽略，导致许多学习的新手误以为await关键字会直接创建一个新的线程池任务。
+2.  Async Feature （补充： async和await是一对语法糖，允许开发人员非常轻松的调用基于TASK的异步编程）async-await关键字并不会真的创建一个线程池任务，完成这个动作依赖于被调用方法中的函数。这一点在许多C\#的中文教程中被忽略，导致许多学习的新手误以为await关键字会直接创建一个新的线程池任务。
 3.  Caller Information
 
 ## C\# 6.0的特性
@@ -539,32 +512,23 @@ C\#
 
 ## 程序的执行
 
-C\#并不被编译成为能够直接在[计算机上执行的](https://zh.wikipedia.org/wiki/计算机 "wikilink")[二进制本地代码](https://zh.wikipedia.org/wiki/二进制 "wikilink")。与[Java类似](https://zh.wikipedia.org/wiki/Java编程语言 "wikilink")，它被编译成为中间代码（Microsoft
-Intermediate Language），然后通过[.NET
-Framework的](../Page/.NET框架.md "wikilink")[虚拟机](https://zh.wikipedia.org/wiki/虚拟机 "wikilink")——被称为[-{zh-hans:通用语言运行库;zh-hant:通用語言執行層}-](../Page/通用語言運行庫.md "wikilink")——执行。
+C\#并不被编译成为能够直接在[计算机上执行的](https://zh.wikipedia.org/wiki/计算机 "wikilink")[二进制本地代码](https://zh.wikipedia.org/wiki/二进制 "wikilink")。与[Java类似](https://zh.wikipedia.org/wiki/Java编程语言 "wikilink")，它被编译成为中间代码（Microsoft Intermediate Language），然后通过[.NET Framework的](../Page/.NET框架.md "wikilink")[虚拟机](https://zh.wikipedia.org/wiki/虚拟机 "wikilink")——被称为[-{zh-hans:通用语言运行库;zh-hant:通用語言執行層}-](../Page/通用語言運行庫.md "wikilink")——执行。
 
-所有的.Net[编程语言都被编译成这种被称为](../Page/编程语言.md "wikilink")[通用中间语言的中间代码](../Page/通用中间语言.md "wikilink")。因此虽然最终的[程序在表面上仍然与传统意义上的可执行文件都具有](../Page/计算机程序.md "wikilink")“.exe”的后缀名。如果计算机上没有安装.Net
-Framework，那么这些程序会弹出对话框，要求用户下载.net framework。
+所有的.Net[编程语言](../Page/编程语言.md "wikilink")都被编译成这种被称为[通用中间语言](../Page/通用中间语言.md "wikilink")的中间代码。因此虽然最终的[程序在表面上仍然与传统意义上的可执行文件都具有](../Page/计算机程序.md "wikilink")“.exe”的后缀名。如果计算机上没有安装.Net Framework，那么这些程序会弹出对话框，要求用户下载.net framework。
 
-在程序执行时，.Net
-Framework将中间代码翻译成为二进制机器码，从而使它得到正确的运行。最终的二进制代码被存储在一个缓冲区（Buffer）中。所以一旦程序使用了相同的代码，那么将会调用缓冲区中的版本。这样如果一个.Net程序第二次被运行，那么这种翻译不需要进行第二次，速度明显加快。
+在程序执行时，.Net Framework将中间代码翻译成为二进制机器码，从而使它得到正确的运行。最终的二进制代码被存储在一个缓冲区（Buffer）中。所以一旦程序使用了相同的代码，那么将会调用缓冲区中的版本。这样如果一个.Net程序第二次被运行，那么这种翻译不需要进行第二次，速度明显加快。
 
 ## 标准化
 
-微软公司已经向[ECMA申请将C](../Page/Ecma国际.md "wikilink")\#作为一种标准。在2001年12月，ECMA发布了ECMA-334
-C\#语言规范。C\#在2003年成为一个[ISO标准](../Page/國際標準化組織.md "wikilink")（ISO/IEC
-23270）。现在有一些独立的实现正在进行，包括：
+微软公司已经向[ECMA申请将C](../Page/Ecma国际.md "wikilink")\#作为一种标准。在2001年12月，ECMA发布了ECMA-334 C\#语言规范。C\#在2003年成为一个[ISO标准](../Page/國際標準化組織.md "wikilink")（ISO/IEC 23270）。现在有一些独立的实现正在进行，包括：
 
-  - [自由软件基金会的](../Page/自由软件基金会.md "wikilink")[dotGNU
-    Portable.NET](http://www.dotgnu.org/)
+  - [自由软件基金会](../Page/自由软件基金会.md "wikilink")的[dotGNU Portable.NET](http://www.dotgnu.org/)
   - [Mono](http://www.go-mono.org/)
-  - [Baltie](https://zh.wikipedia.org/wiki/Baltie "wikilink") - C\# IDE
-    for children and young [Baltie](http://www.sgpsys.com)
+  - [Baltie](https://zh.wikipedia.org/wiki/Baltie "wikilink") - C\# IDE for children and young [Baltie](http://www.sgpsys.com)
 
 ## C\# 的Hello World程式
 
-下面是一個在-{zh:命令列;zh-hans:命令行;zh-hant:命令提示字元}-上輸出[Hello
-World的小](../Page/Hello_World.md "wikilink")-{zh:程序;zh-hans:程序;zh-hant:程式}-，這種-{zh:程序;zh-hans:程序;zh-hant:程式}-通常作為開始學習-{zh:程序;zh-hans:程序;zh-hant:程式}-語言的第一個步驟：
+下面是一個在-{zh:命令列;zh-hans:命令行;zh-hant:命令提示字元}-上輸出[Hello World的小](../Page/Hello_World.md "wikilink")-{zh:程序;zh-hans:程序;zh-hant:程式}-，這種-{zh:程序;zh-hans:程序;zh-hant:程式}-通常作為開始學習-{zh:程序;zh-hans:程序;zh-hant:程式}-語言的第一個步驟：
 
 ``` csharp
 using System;
@@ -585,67 +549,40 @@ namespace ConsoleApp1
 
 C\# 有5個著名的編譯器（compilers）:
 
-  - 最標準的C\#
-    的實作當屬[微軟自己推出](https://zh.wikipedia.org/wiki/微軟 "wikilink")、並被包含在[.NET
-    Framework內的C](../Page/.NET框架.md "wikilink")\# 編譯器。
-  - 微軟的-{zh:Rotor;zh-hans:Rotor;zh-hant:轉軸}-项目（Rotor
-    Project，目前稱為），提供了[-{zh-hans:通用语言运行库;zh-hant:通用語言執行層}-](../Page/通用語言運行庫.md "wikilink")（*Common
-    Language Runtime*）的實作與C\# 編譯器。但是Shared Source Common Language
-    Infrastructure在2006年的2.0版後就停止了。
-  - 由Novell贊助的[Mono](../Page/Mono_\(消歧義\).md "wikilink")
-    -{zh:项目;zh-hans:项目;zh-hant:專案}-提供了C\# 編譯器，同時也接近百分之百地實作了[.NET
-    Framework](../Page/.NET框架.md "wikilink")-{zh:类库;zh-hans:类库;zh-hant:類別庫}-。而Mono後來衍伸出由微軟認可的第三方套件[Xamarin](https://zh.wikipedia.org/wiki/Xamarin "wikilink")。
-  - [Dot GNU](../Page/DotGNU.md "wikilink") 專案也提供了另一個自由版本的C\#
-    編譯器，也提供了[.NET
-    Framework](../Page/.NET框架.md "wikilink")-{zh:类库;zh-hans:类库;zh-hant:類別庫}-的實作。
-  - Borland提供了專案级的C\#
-    -{zh:集成;zh-hans:集成;zh-hant:整合}-開發環境，內部所使用的編譯器仍是[微軟](https://zh.wikipedia.org/wiki/微軟 "wikilink")[.NET
-    Framework所提供的C](../Page/.NET框架.md "wikilink")\#
-    編譯器（這也意味著你仍須安裝[微軟的](https://zh.wikipedia.org/wiki/微軟 "wikilink")[.NET
-    Framework](../Page/.NET框架.md "wikilink")）。產品：C\# Builder（商業版本），Turbo
-    C\# Explorer（免費版本）。
+  - 最標準的C\# 的實作當屬[微軟自己推出](https://zh.wikipedia.org/wiki/微軟 "wikilink")、並被包含在[.NET Framework內的C](../Page/.NET框架.md "wikilink")\# 編譯器。
+  - 微軟的-{zh:Rotor;zh-hans:Rotor;zh-hant:轉軸}-项目（Rotor Project，目前稱為），提供了[-{zh-hans:通用语言运行库;zh-hant:通用語言執行層}-](../Page/通用語言運行庫.md "wikilink")（*Common Language Runtime*）的實作與C\# 編譯器。但是Shared Source Common Language Infrastructure在2006年的2.0版後就停止了。
+  - 由Novell贊助的[Mono](../Page/Mono_\(消歧義\).md "wikilink") -{zh:项目;zh-hans:项目;zh-hant:專案}-提供了C\# 編譯器，同時也接近百分之百地實作了[.NET Framework](../Page/.NET框架.md "wikilink")-{zh:类库;zh-hans:类库;zh-hant:類別庫}-。而Mono後來衍伸出由微軟認可的第三方套件[Xamarin](https://zh.wikipedia.org/wiki/Xamarin "wikilink")。
+  - [Dot GNU](../Page/DotGNU.md "wikilink") 專案也提供了另一個自由版本的C\# 編譯器，也提供了[.NET Framework](../Page/.NET框架.md "wikilink")-{zh:类库;zh-hans:类库;zh-hant:類別庫}-的實作。
+  - Borland提供了專案级的C\# -{zh:集成;zh-hans:集成;zh-hant:整合}-開發環境，內部所使用的編譯器仍是[微軟](https://zh.wikipedia.org/wiki/微軟 "wikilink")[.NET Framework所提供的C](../Page/.NET框架.md "wikilink")\# 編譯器（這也意味著你仍須安裝[微軟的](https://zh.wikipedia.org/wiki/微軟 "wikilink")[.NET Framework](../Page/.NET框架.md "wikilink")）。產品：C\# Builder（商業版本），Turbo C\# Explorer（免費版本）。
 
 ## 参考文献
 
 ## 外部連結
 
-  - [C\# Language Specification
-    (MSDN)](http://msdn.microsoft.com/library/default.asp?url=/library/en-us/csspec/html/CSharpSpecStart.asp?frame=true)
+  - [C\# Language Specification (MSDN)](http://msdn.microsoft.com/library/default.asp?url=/library/en-us/csspec/html/CSharpSpecStart.asp?frame=true)
 
-  - [ECMA-334 C\# Language Specification
-    (.pdf)](https://web.archive.org/web/20121202194727/http://www.ecma-international.org/publications/files/ECMA-ST/Ecma-334.pdf)
+  - [ECMA-334 C\# Language Specification (.pdf)](https://web.archive.org/web/20121202194727/http://www.ecma-international.org/publications/files/ECMA-ST/Ecma-334.pdf)
 
-  - [ISO/IEC 23270:2003 C\# Language
-    Specification](http://www.iso.org/iso/en/CatalogueDetailPage.CatalogueDetail?CSNUMBER=36768&ICS1=35&ICS2=60&ICS3=)
+  - [ISO/IEC 23270:2003 C\# Language Specification](http://www.iso.org/iso/en/CatalogueDetailPage.CatalogueDetail?CSNUMBER=36768&ICS1=35&ICS2=60&ICS3=)
 
-  - [Visual C\# .NET入門
-    (MSDN)](http://www.microsoft.com/china/MSDN/library/langtool/VCSharp/USgetstart_vcsharp.mspx)
+  - [Visual C\# .NET入門 (MSDN)](http://www.microsoft.com/china/MSDN/library/langtool/VCSharp/USgetstart_vcsharp.mspx)
 
   - [MCS: Mono C\# 編譯器](http://www.mono-project.com/about/index.html)
 
-  - [Visual Studio
-    Express首頁](http://www.microsoft.com/taiwan/vstudio/express/)
+  - [Visual Studio Express首頁](http://www.microsoft.com/taiwan/vstudio/express/)
 
-  - [Visual C\#
-    Logo](http://cdn.instructables.com/FHW/SGEW/HS3GUNOY/FHWSGEWHS3GUNOY.LARGE.jpg)
+  - [Visual C\# Logo](http://cdn.instructables.com/FHW/SGEW/HS3GUNOY/FHWSGEWHS3GUNOY.LARGE.jpg)
 
 {{-}}
 
-[Category:.NET編程語言](https://zh.wikipedia.org/wiki/Category:.NET編程語言 "wikilink")
-[Category:C語言家族](https://zh.wikipedia.org/wiki/Category:C語言家族 "wikilink")
-[Category:面向对象的编程语言](https://zh.wikipedia.org/wiki/Category:面向对象的编程语言 "wikilink")
-[Category:Ecma標準](https://zh.wikipedia.org/wiki/Category:Ecma標準 "wikilink")
+[Category:.NET編程語言](https://zh.wikipedia.org/wiki/Category:.NET編程語言 "wikilink") [Category:C語言家族](https://zh.wikipedia.org/wiki/Category:C語言家族 "wikilink") [Category:面向对象的编程语言](https://zh.wikipedia.org/wiki/Category:面向对象的编程语言 "wikilink") [Category:Ecma標準](https://zh.wikipedia.org/wiki/Category:Ecma標準 "wikilink")
 
 1.
-2.  [An Introduction to C\#
-    Generics](http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnvs05/html/csharp_generics.asp)
-3.  \[<http://msdn2.microsoft.com/en-us/library/0yw3tz5k(VS.80>).aspx
-    Anonymous Methods (C\#)\]
-4.  \[<http://msdn2.microsoft.com/en-us/library/ms173174(VS.80>).aspx
-    Covariance and Contravariance in Delegates (C\#)\]
+2.  [An Introduction to C\# Generics](http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnvs05/html/csharp_generics.asp)
+3.  \[<http://msdn2.microsoft.com/en-us/library/0yw3tz5k(VS.80>).aspx Anonymous Methods (C\#)\]
+4.  \[<http://msdn2.microsoft.com/en-us/library/ms173174(VS.80>).aspx Covariance and Contravariance in Delegates (C\#)\]
 5.
 6.
-7.  [The Mellow Musings of Dr. T : What is a
-    collection?](http://blogs.msdn.com/madst/archive/2006/10/10/What-is-a-collection_3F00_.aspx)
+7.  [The Mellow Musings of Dr. T : What is a collection?](http://blogs.msdn.com/madst/archive/2006/10/10/What-is-a-collection_3F00_.aspx)
 8.
 9.

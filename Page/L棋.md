@@ -1,5 +1,4 @@
-**L棋**（L
-game）是[愛德華·波諾在](https://zh.wikipedia.org/wiki/愛德華·波諾 "wikilink")1968年推出兩人[棋類](../Page/棋類.md "wikilink")，用以解釋[水平思考法](https://zh.wikipedia.org/wiki/水平思考法 "wikilink")。
+**L棋**（L game）是[愛德華·波諾在](https://zh.wikipedia.org/wiki/愛德華·波諾 "wikilink")1968年推出兩人[棋類](../Page/棋類.md "wikilink")，用以解釋[水平思考法](https://zh.wikipedia.org/wiki/水平思考法 "wikilink")。
 
 ## 棋具
 
@@ -29,8 +28,7 @@ game）是[愛德華·波諾在](https://zh.wikipedia.org/wiki/愛德華·波諾
 
 [L_Game_all_final_positions.svg](https://zh.wikipedia.org/wiki/File:L_Game_all_final_positions.svg "fig:L_Game_all_final_positions.svg")
 
-以下則為到紅方行，而藍方則可以將死紅方的形勢：
-[L_Game_mate_positions.svg](https://zh.wikipedia.org/wiki/File:L_Game_mate_positions.svg "fig:L_Game_mate_positions.svg")
+以下則為到紅方行，而藍方則可以將死紅方的形勢： [L_Game_mate_positions.svg](https://zh.wikipedia.org/wiki/File:L_Game_mate_positions.svg "fig:L_Game_mate_positions.svg")
 
 只要雙方都沒有犯錯，遊戲就會不斷地進行下去。因此，它的先手和後手一方都沒有必勝的策略。
 
@@ -42,7 +40,6 @@ game）是[愛德華·波諾在](https://zh.wikipedia.org/wiki/愛德華·波諾
 
   - [蔡明原，林順喜，1999，益智遊戲「L棋（L-game）」之電腦解法及分析，科學教育月刊第二二一期，頁33-46](http://alg.ice.ntnu.edu.tw/icewise/docs/Lgame.doc)
   - [線上Java遊戲](https://web.archive.org/web/20041224112508/http://www.ice.ntnu.edu.tw/~u84340/L-game/index.html)
-  - [EDWARD DE BONO - THE L
-    GAME](http://www.edwdebono.com/debono/lgame.htm)
+  - [EDWARD DE BONO - THE L GAME](http://www.edwdebono.com/debono/lgame.htm)
 
 [Category:棋类](https://zh.wikipedia.org/wiki/Category:棋类 "wikilink")

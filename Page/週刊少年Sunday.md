@@ -1,13 +1,12 @@
 《**週刊少年Sunday**》（日語：）是[日本](../Page/日本.md "wikilink")[小学馆发行的综合性少年](https://zh.wikipedia.org/wiki/小学馆 "wikilink")[漫画杂志](https://zh.wikipedia.org/wiki/漫画杂志 "wikilink")。該雜誌创刊於1959年，取名為Sunday只是為使讀者感受週日般快樂輕鬆的氣氛，雜誌本身是於每周三发行。拥有包括[安达充](../Page/安达充.md "wikilink")、[高桥留美子](../Page/高桥留美子.md "wikilink")、[青山刚昌在内的一批著名](https://zh.wikipedia.org/wiki/青山刚昌 "wikilink")[漫画家](https://zh.wikipedia.org/wiki/漫画家 "wikilink")。刊载作品从画技到情节都很优秀，题材有运动、科幻、魔幻、侦破、历史、恋爱等，呈现多样化格局。相較於強調“努力”“友情”“勝利”的《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》，该刊作品相对欠缺明显的整体风格，比較傾向於由作家自行發揮。比起《週刊少年JUMP》以[市調至上](https://zh.wikipedia.org/wiki/市調 "wikilink")，經常在市調不佳時中止漫畫，該刊作品也多由作家畫至故事告一段落時才結束（也因此有故事冗長之批評）。发行量较《週刊少年Jump》和《[週刊少年Magazine](../Page/週刊少年Magazine.md "wikilink")》為低。
 
-台灣是由[青文出版社取得大部分漫畫的版權](../Page/青文出版社.md "wikilink")，曾在《[元氣少年](https://zh.wikipedia.org/wiki/元氣少年 "wikilink")》上進行連載，但該雜誌已於2009年5月5日停刊。
+台灣是由[青文出版社](../Page/青文出版社.md "wikilink")取得大部分漫畫的版權，曾在《[元氣少年](https://zh.wikipedia.org/wiki/元氣少年 "wikilink")》上進行連載，但該雜誌已於2009年5月5日停刊。
 
 ## 編輯部作風
 
-  - 2008年，《[魔法少年賈修](../Page/魔法少年賈修.md "wikilink")》作者[雷句誠和小學館因為遺失原稿的事件而鬧上法院](../Page/雷句誠.md "wikilink")；[新条真由也在部落格上反映小學館和周刊少年Sunday编辑部的问题](../Page/新条真由.md "wikilink")，指出編輯部有著不重視原稿以及對創作者缺乏基本尊重等弊病\[1\]\[2\]。
-  - 2013年，《[革神語](../Page/革神語.md "wikilink")》推出大幅度修改後的重製版，作者[渡瀨悠宇表示是因為當初與責編I的理念不合受於干涉](../Page/渡瀨悠宇.md "wikilink")，所以連載時的開端部分不能令她自己感到滿意\[3\]。
-  - 2017年，[青山剛昌在小学馆出版的](../Page/青山剛昌.md "wikilink")《青山刚昌
-    30周年书》中披露，《[名侦探柯南](https://zh.wikipedia.org/wiki/名侦探柯南 "wikilink")》连载初期，他曾经因为每周构思案件造成的劳累和编辑部之上某些人的干涉，想要结束连载，直到得知作品将被改编成电影时才改变想法\[4\]\[5\]\[6\]\[7\]。
+  - 2008年，《[魔法少年賈修](../Page/魔法少年賈修.md "wikilink")》作者[雷句誠](../Page/雷句誠.md "wikilink")和小學館因為遺失原稿的事件而鬧上法院；[新条真由](../Page/新条真由.md "wikilink")也在部落格上反映小學館和周刊少年Sunday编辑部的问题，指出編輯部有著不重視原稿以及對創作者缺乏基本尊重等弊病\[1\]\[2\]。
+  - 2013年，《[革神語](../Page/革神語.md "wikilink")》推出大幅度修改後的重製版，作者[渡瀨悠宇](../Page/渡瀨悠宇.md "wikilink")表示是因為當初與責編I的理念不合受於干涉，所以連載時的開端部分不能令她自己感到滿意\[3\]。
+  - 2017年，[青山剛昌](../Page/青山剛昌.md "wikilink")在小学馆出版的《青山刚昌 30周年书》中披露，《[名侦探柯南](https://zh.wikipedia.org/wiki/名侦探柯南 "wikilink")》连载初期，他曾经因为每周构思案件造成的劳累和编辑部之上某些人的干涉，想要结束连载，直到得知作品将被改编成电影时才改变想法\[4\]\[5\]\[6\]\[7\]。
 
 ## 連載中的作品
 
@@ -267,8 +266,7 @@
 ## 連載過的作品
 
   - [結界師](../Page/結界師.md "wikilink")（[田边伊衛郎](https://zh.wikipedia.org/wiki/田边伊衛郎 "wikilink")）
-  - [DEFESE
-    DEVIL惡魔辯護士](https://zh.wikipedia.org/wiki/DEFESE_DEVIL惡魔辯護士 "wikilink")（原作：[尹仁完](https://zh.wikipedia.org/wiki/尹仁完 "wikilink")、漫畫：[梁慶一](https://zh.wikipedia.org/wiki/梁慶一 "wikilink")）
+  - [DEFESE DEVIL惡魔辯護士](https://zh.wikipedia.org/wiki/DEFESE_DEVIL惡魔辯護士 "wikilink")（原作：[尹仁完](https://zh.wikipedia.org/wiki/尹仁完 "wikilink")、漫畫：[梁慶一](https://zh.wikipedia.org/wiki/梁慶一 "wikilink")）
   - [烘焙王](https://zh.wikipedia.org/wiki/烘焙王 "wikilink")——[橋口隆志](../Page/橋口隆志.md "wikilink")
   - [美鳥日記](https://zh.wikipedia.org/wiki/美鳥日記 "wikilink")——[井上和郎](../Page/井上和郎.md "wikilink")
   - [城市風雲兒](../Page/城市風雲兒.md "wikilink")——[青山剛昌](../Page/青山剛昌.md "wikilink")
@@ -286,16 +284,14 @@
   - [ROUGH](https://zh.wikipedia.org/wiki/我愛芳鄰_\(漫畫\) "wikilink")——[安达充](../Page/安达充.md "wikilink")
   - [多羅羅](../Page/多羅羅.md "wikilink")——[手塚治虫](../Page/手塚治虫.md "wikilink")
   - [植木的法則](../Page/植木的法則.md "wikilink")——[福地翼](../Page/福地翼.md "wikilink")
-  - [植木的法則
-    PLUS](../Page/植木的法則_PLUS.md "wikilink")——[福地翼](../Page/福地翼.md "wikilink")
+  - [植木的法則 PLUS](../Page/植木的法則_PLUS.md "wikilink")——[福地翼](../Page/福地翼.md "wikilink")
   - [MAR魔兵傳奇](https://zh.wikipedia.org/wiki/MAR魔兵傳奇 "wikilink")－－[安西信行](../Page/安西信行.md "wikilink")
   - [三星法廚](https://zh.wikipedia.org/wiki/三星法廚 "wikilink")——[谷古宇剛](https://zh.wikipedia.org/wiki/谷古宇剛 "wikilink")
   - [怪体真書Ø](https://zh.wikipedia.org/wiki/怪体真書Ø "wikilink")（[険持ちよ](https://zh.wikipedia.org/wiki/険持ちよ "wikilink")）
   - [棒球大聯盟](https://zh.wikipedia.org/wiki/棒球大聯盟 "wikilink")（[滿田拓也](../Page/滿田拓也.md "wikilink")）
   - [只有神知道的世界](../Page/只有神知道的世界.md "wikilink")（[若木民喜](../Page/若木民喜.md "wikilink")）
   - [史上最強弟子兼一](../Page/史上最強弟子兼一.md "wikilink")（[松江名俊](../Page/松江名俊.md "wikilink")）
-  - [-{zh-tw:今際之國的闖關者;zh-hk:今際之國的有栖;zh-hans:弥留之国的爱丽丝}-](https://zh.wikipedia.org/wiki/今际之国的闯关者 "wikilink")
-    （）
+  - [-{zh-tw:今際之國的闖關者;zh-hk:今際之國的有栖;zh-hans:弥留之国的爱丽丝}-](https://zh.wikipedia.org/wiki/今际之国的闯关者 "wikilink") （）
 
 ## 参见
 
@@ -310,11 +306,7 @@
   -
   - [Sunday Webry](https://www.sunday-webry.com/)
 
-[Category:週刊少年Sunday](https://zh.wikipedia.org/wiki/Category:週刊少年Sunday "wikilink")
-[Category:日本漫畫雜誌](https://zh.wikipedia.org/wiki/Category:日本漫畫雜誌 "wikilink")
-[Category:少年漫畫雜誌](https://zh.wikipedia.org/wiki/Category:少年漫畫雜誌 "wikilink")
-[Category:週刊漫畫雜誌](https://zh.wikipedia.org/wiki/Category:週刊漫畫雜誌 "wikilink")
-[Category:小學館的漫畫雜誌](https://zh.wikipedia.org/wiki/Category:小學館的漫畫雜誌 "wikilink")
+[Category:週刊少年Sunday](https://zh.wikipedia.org/wiki/Category:週刊少年Sunday "wikilink") [Category:日本漫畫雜誌](https://zh.wikipedia.org/wiki/Category:日本漫畫雜誌 "wikilink") [Category:少年漫畫雜誌](https://zh.wikipedia.org/wiki/Category:少年漫畫雜誌 "wikilink") [Category:週刊漫畫雜誌](https://zh.wikipedia.org/wiki/Category:週刊漫畫雜誌 "wikilink") [Category:小學館的漫畫雜誌](https://zh.wikipedia.org/wiki/Category:小學館的漫畫雜誌 "wikilink")
 
 1.
 2.

@@ -1,19 +1,15 @@
-**Nmap**（**网络映射器**）是一款用于[网络发现和](https://zh.wikipedia.org/wiki/网络发现 "wikilink")[安全审计的](https://zh.wikipedia.org/wiki/安全审计 "wikilink")[网络安全工具](../Page/网络安全.md "wikilink")，它是[自由软件](../Page/自由软件.md "wikilink")。软件名字Nmap是Network
-Mapper的简称。通常情况下，Nmap用于：
+**Nmap**（**网络映射器**）是一款用于[网络发现和](https://zh.wikipedia.org/wiki/网络发现 "wikilink")[安全审计的](https://zh.wikipedia.org/wiki/安全审计 "wikilink")[网络安全](../Page/网络安全.md "wikilink")工具，它是[自由软件](../Page/自由软件.md "wikilink")。软件名字Nmap是Network Mapper的简称。通常情况下，Nmap用于：
 \* 列举网络主机清单
 
   - 管理服务升级调度
   - 监控主机
   - 服务运行状况
 
-Nmap可以检测目标主机是否在线、端口开放情况、侦测运行的服务类型及版本信息、侦测操作系统与设备类型等信息。
-它是网络管理员必用的软件之一，用以评估网络系统安全。
+Nmap可以检测目标主机是否在线、端口开放情况、侦测运行的服务类型及版本信息、侦测操作系统与设备类型等信息。 它是网络管理员必用的软件之一，用以评估网络系统安全。
 
-Nmap
-是不少[黑客及](../Page/黑客.md "wikilink")[脚本小子爱用的工具](https://zh.wikipedia.org/wiki/脚本小子 "wikilink")
-。[系统管理员可以利用Nmap來探測工作環境中未經批准使用的服务器](../Page/系统管理员.md "wikilink")，黑客通常会利用Nmap來搜集目标电脑的網絡设定，从而计划攻击的方法。
+Nmap 是不少[黑客](../Page/黑客.md "wikilink")及[脚本小子爱用的工具](https://zh.wikipedia.org/wiki/脚本小子 "wikilink") 。[系统管理员](../Page/系统管理员.md "wikilink")可以利用Nmap來探測工作環境中未經批准使用的服务器，黑客通常会利用Nmap來搜集目标电脑的網絡设定，从而计划攻击的方法。
 
-Nmap通常用在信息搜集阶段，用于搜集目标机主机的基本状态信息。扫描结果可以作为[漏洞扫描](https://zh.wikipedia.org/wiki/漏洞扫描 "wikilink")、[漏洞利用和](https://zh.wikipedia.org/wiki/漏洞利用 "wikilink")[权限提升阶段的输入](https://zh.wikipedia.org/wiki/权限提升 "wikilink")。例如，业界流行的漏洞扫描工具[Nessus与漏洞利用工具](https://zh.wikipedia.org/wiki/Nessus "wikilink")[Metasploit都支持导入Nmap的](../Page/Metasploit.md "wikilink")[XML格式结果](../Page/XML.md "wikilink")，而Metasploit框架内也集成了Nmap工具（支持Metasploit直接扫描）。
+Nmap通常用在信息搜集阶段，用于搜集目标机主机的基本状态信息。扫描结果可以作为[漏洞扫描](https://zh.wikipedia.org/wiki/漏洞扫描 "wikilink")、[漏洞利用和](https://zh.wikipedia.org/wiki/漏洞利用 "wikilink")[权限提升阶段的输入](https://zh.wikipedia.org/wiki/权限提升 "wikilink")。例如，业界流行的漏洞扫描工具[Nessus与漏洞利用工具](https://zh.wikipedia.org/wiki/Nessus "wikilink")[Metasploit](../Page/Metasploit.md "wikilink")都支持导入Nmap的[XML](../Page/XML.md "wikilink")格式结果，而Metasploit框架内也集成了Nmap工具（支持Metasploit直接扫描）。
 
 Nmap不仅可以用于扫描单个主机，也可以适用于扫描大规模的[计算机网络](../Page/计算机网络.md "wikilink")（例如，扫描英特网上数万台计算机，从中找出感兴趣的主机和服务）。
 
@@ -78,8 +74,7 @@ NSE是Nmap最强大最灵活的特性之一，可以用于增强主机发现、�
 
 Nmap 常被跟評估系統漏洞軟件Nessus混為一談。Nmap 以隱祕的手法，避開闯入检测系统的監視，並儘可能不影響目標系統的日常操作。
 
-Nmap
-在电影《[黑客帝国](../Page/黑客帝国.md "wikilink")》中，連同的[32位元迴圈冗餘校驗漏洞](https://zh.wikipedia.org/wiki/32位元迴圈冗餘校驗 "wikilink")，被崔妮蒂用以入侵發電站的能源管理系統。
+Nmap 在电影《[黑客帝国](../Page/黑客帝国.md "wikilink")》中，連同的[32位元迴圈冗餘校驗漏洞](https://zh.wikipedia.org/wiki/32位元迴圈冗餘校驗 "wikilink")，被崔妮蒂用以入侵發電站的能源管理系統。
 
 ## 参见
 
@@ -96,21 +91,12 @@ Nmap
   - [Nmap扫描方法](http://blog.csdn.net/aspirationflow/article/details/7694274)
   - [如何利用nmap收集操作系统的资料](http://www.insecure.org/nmap/nmap-fingerprinting-article.html)
   - [Nessus 系統弱点扫描器](http://www.nessus.org)
-  - [BBC News: Matrix mixes life and
-    hacking](http://news.bbc.co.uk/1/hi/technology/3039329.stm)
+  - [BBC News: Matrix mixes life and hacking](http://news.bbc.co.uk/1/hi/technology/3039329.stm)
   - [*一種避開Nmap操作系統特徵辨識法的手段*](https://web.archive.org/web/20040903195457/http://voodoo.somoslopeor.com/papers/nmap.html)
 
 ## 参考资料
 
-[Category:网路管理软件](https://zh.wikipedia.org/wiki/Category:网路管理软件 "wikilink")
-[Category:端口掃描器](https://zh.wikipedia.org/wiki/Category:端口掃描器 "wikilink")
-[Category:Unix网络相关软件](https://zh.wikipedia.org/wiki/Category:Unix网络相关软件 "wikilink")
-[Category:跨平台軟體](https://zh.wikipedia.org/wiki/Category:跨平台軟體 "wikilink")
-[Category:Lua可脚本软件](https://zh.wikipedia.org/wiki/Category:Lua可脚本软件 "wikilink")
-[Category:网络分析器](https://zh.wikipedia.org/wiki/Category:网络分析器 "wikilink")
-[Category:C++軟體](https://zh.wikipedia.org/wiki/Category:C++軟體 "wikilink")
-[Category:Python軟體](https://zh.wikipedia.org/wiki/Category:Python軟體 "wikilink")
-[Category:Linux安全软件](https://zh.wikipedia.org/wiki/Category:Linux安全软件 "wikilink")
+[Category:网路管理软件](https://zh.wikipedia.org/wiki/Category:网路管理软件 "wikilink") [Category:端口掃描器](https://zh.wikipedia.org/wiki/Category:端口掃描器 "wikilink") [Category:Unix网络相关软件](https://zh.wikipedia.org/wiki/Category:Unix网络相关软件 "wikilink") [Category:跨平台軟體](https://zh.wikipedia.org/wiki/Category:跨平台軟體 "wikilink") [Category:Lua可脚本软件](https://zh.wikipedia.org/wiki/Category:Lua可脚本软件 "wikilink") [Category:网络分析器](https://zh.wikipedia.org/wiki/Category:网络分析器 "wikilink") [Category:C++軟體](https://zh.wikipedia.org/wiki/Category:C++軟體 "wikilink") [Category:Python軟體](https://zh.wikipedia.org/wiki/Category:Python軟體 "wikilink") [Category:Linux安全软件](https://zh.wikipedia.org/wiki/Category:Linux安全软件 "wikilink")
 
 1.
 2.

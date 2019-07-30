@@ -1,20 +1,18 @@
-**A/a**
-是[拉丁字母的首](../Page/拉丁字母.md "wikilink")[字母](../Page/字母.md "wikilink")，来源于[拉丁语中有](../Page/拉丁语.md "wikilink")[低元音](https://zh.wikipedia.org/wiki/開元音 "wikilink")和音值的[希腊字母](../Page/希腊字母.md "wikilink")。其可从[伊特鲁里亚语和希腊语α追溯到](https://zh.wikipedia.org/wiki/伊特鲁里亚语 "wikilink")[闪含语的](https://zh.wikipedia.org/wiki/闪含语 "wikilink")'âlep（用于[声门塞音](https://zh.wikipedia.org/wiki/声门塞音 "wikilink")）。其希腊名源自闪含语，而闪含语是因[希伯来语而闻名的](../Page/希伯来语.md "wikilink")。[古英语的](https://zh.wikipedia.org/wiki/古英语 "wikilink")和音变为现代的和，前者原由a和e连写的æ表示。在其他语言（例如[意大利语](../Page/意大利语.md "wikilink")、[西班牙语和](../Page/西班牙语.md "wikilink")[德语](../Page/德语.md "wikilink")）中，A的音也与拉丁语相同。
+**A/a** 是[拉丁字母](../Page/拉丁字母.md "wikilink")的首[字母](../Page/字母.md "wikilink")，来源于[拉丁语](../Page/拉丁语.md "wikilink")中有[低元音](https://zh.wikipedia.org/wiki/開元音 "wikilink")和音值的[希腊字母](../Page/希腊字母.md "wikilink")。其可从[伊特鲁里亚语和希腊语α追溯到](https://zh.wikipedia.org/wiki/伊特鲁里亚语 "wikilink")[闪含语的](https://zh.wikipedia.org/wiki/闪含语 "wikilink")'âlep（用于[声门塞音](https://zh.wikipedia.org/wiki/声门塞音 "wikilink")）。其希腊名源自闪含语，而闪含语是因[希伯来语](../Page/希伯来语.md "wikilink")而闻名的。[古英语的](https://zh.wikipedia.org/wiki/古英语 "wikilink")和音变为现代的和，前者原由a和e连写的æ表示。在其他语言（例如[意大利语](../Page/意大利语.md "wikilink")、[西班牙语](../Page/西班牙语.md "wikilink")和[德语](../Page/德语.md "wikilink")）中，A的音也与拉丁语相同。
 
-可以确定A最早源于[腓尼基字母表的第一个字母](../Page/腓尼基字母.md "wikilink")[Aleph](../Page/Aleph.md "wikilink")\[1\]（腓尼基字母表完全由辅音组成，是[辅音音素文字](../Page/辅音音素文字.md "wikilink")）。而Aleph的来源则可能是表示牛头的[埃及圣书体](https://zh.wikipedia.org/wiki/埃及圣书体 "wikilink")。
+可以确定A最早源于[腓尼基字母](../Page/腓尼基字母.md "wikilink")表的第一个字母[Aleph](../Page/Aleph.md "wikilink")\[1\]（腓尼基字母表完全由辅音组成，是[辅音音素文字](../Page/辅音音素文字.md "wikilink")）。而Aleph的来源则可能是表示牛头的[埃及圣书体](https://zh.wikipedia.org/wiki/埃及圣书体 "wikilink")。
 
 | 埃及语                                                                                                                      | 腓尼基文 *[aleph](https://zh.wikipedia.org/wiki/aleph "wikilink")*                                   | 希腊语 *[Alpha](https://zh.wikipedia.org/wiki/Α "wikilink")*                                     | 伊特鲁里亚语 A                                                                        | 罗马语/闪族语 A                                                                 |
 | ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
 | [Egyptian hieroglyphic ox head](https://zh.wikipedia.org/wiki/File:EgyptianA-01.svg "fig:Egyptian hieroglyphic ox head") | [Phoenician aleph](https://zh.wikipedia.org/wiki/File:PhoenicianA-01.svg "fig:Phoenician aleph") | [Alpha_uc_lc.svg](https://zh.wikipedia.org/wiki/File:Alpha_uc_lc.svg "fig:Alpha_uc_lc.svg") | [Etruscan A](https://zh.wikipedia.org/wiki/File:EtruscanA.svg "fig:Etruscan A") | [Roman A](https://zh.wikipedia.org/wiki/File:RomanA-01.svg "fig:Roman A") |
 
-在电脑使用的[ASCII中](../Page/ASCII.md "wikilink")，大写用编码65，小写用编码97。
+在电脑使用的[ASCII](../Page/ASCII.md "wikilink")中，大写用编码65，小写用编码97。
 
 在[演绎法中](../Page/演绎推理.md "wikilink")，字母A表作形如“甲均是乙”的全肯定命题。字母I、E和O表形如“一些甲是乙”的部分肯定，以及一些形如“一些甲非乙”的部分否定命题。以上可能来自拉丁动词affirmo（“我断言”）与nego（“我否认”）。这种用法可溯至13世纪，虽然一些学者认为来源是[希腊](../Page/希腊.md "wikilink")[逻辑学家](../Page/逻辑学家.md "wikilink")。
 
-上述用法也有应用在[数学和](../Page/数学.md "wikilink")[逻辑学中](../Page/逻辑.md "wikilink")，符号“∀”（反转的字母A），表示“（对）任意……”。例如：\(\forall x, x+x=2x\)。
+上述用法也有应用在[数学](../Page/数学.md "wikilink")和[逻辑](../Page/逻辑.md "wikilink")学中，符号“∀”（反转的字母A），表示“（对）任意……”。例如：\(\forall x, x+x=2x\)。
 
-在[十二小时制](https://zh.wikipedia.org/wiki/十二小时制 "wikilink")，a可代替午前（ante），用于表示[上午的时间段](https://zh.wikipedia.org/wiki/上午 "wikilink")。
-同時Ａ也是英文的第一個字母。
+在[十二小时制](https://zh.wikipedia.org/wiki/十二小时制 "wikilink")，a可代替午前（ante），用于表示[上午的时间段](https://zh.wikipedia.org/wiki/上午 "wikilink")。 同時Ａ也是英文的第一個字母。
 
 ## 字符编码
 

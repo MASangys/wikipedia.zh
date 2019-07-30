@@ -1,7 +1,4 @@
-[缩略图](https://zh.wikipedia.org/wiki/File:UMTS_Router_Surf@home_II,_o2-0017.jpg "fig:缩略图")
-**MAC地址**（**）**，直译为**媒體存取控制位址**，也稱為**局域网地址**（LAN
-Address），**以太网地址**（Ethernet Address）或**物理地址**（Physical
-Address），它是一个用來确认網路設備位置的位址。在[OSI模型中](../Page/OSI模型.md "wikilink")，第三層網路層負責[IP地址](../Page/IP地址.md "wikilink")，第二層資料鏈結層則負責MAC位址。MAC地址用于在网络中唯一标示一个[网卡](../Page/网卡.md "wikilink")，一台设备若有一或多个网卡，则每个网卡都需要并会有一个唯一的MAC地址。
+[缩略图](https://zh.wikipedia.org/wiki/File:UMTS_Router_Surf@home_II,_o2-0017.jpg "fig:缩略图") **MAC地址**（**）**，直译为**媒體存取控制位址**，也稱為**局域网地址**（LAN Address），**以太网地址**（Ethernet Address）或**物理地址**（Physical Address），它是一个用來确认網路設備位置的位址。在[OSI模型](../Page/OSI模型.md "wikilink")中，第三層網路層負責[IP地址](../Page/IP地址.md "wikilink")，第二層資料鏈結層則負責MAC位址。MAC地址用于在网络中唯一标示一个[网卡](../Page/网卡.md "wikilink")，一台设备若有一或多个网卡，则每个网卡都需要并会有一个唯一的MAC地址。
 
 ## 格式
 
@@ -9,7 +6,7 @@ MAC位址共48位元（6個位元組），以[十六進位表示](https://zh.wik
 
 ff:ff:ff:ff:ff:ff则作为廣播位址。
 
-01:xx:xx:xx:xx:xx是多播地址，01:00:5e:xx:xx:xx是[IPv4多播地址](../Page/IPv4.md "wikilink")。
+01:xx:xx:xx:xx:xx是多播地址，01:00:5e:xx:xx:xx是[IPv4](../Page/IPv4.md "wikilink")多播地址。
 
 ## 举例
 
@@ -19,8 +16,7 @@ ff:ff:ff:ff:ff:ff则作为廣播位址。
 
 ### Windows
 
-在[Windows命令提示符](https://zh.wikipedia.org/wiki/命令提示符 "wikilink")（cmd.exe）下运行
-ipconfig /all 命令。假设运行结果含：
+在[Windows命令提示符](https://zh.wikipedia.org/wiki/命令提示符 "wikilink")（cmd.exe）下运行 ipconfig /all 命令。假设运行结果含：
 
 `        Physical Address. . . . . . . . . : 00-05-5D-E8-0F-A3`
 
@@ -28,8 +24,7 @@ ipconfig /all 命令。假设运行结果含：
 
 ### Linux
 
-第一种： 在 [Linux](../Page/Linux.md "wikilink") 下运行
-[ifconfig](https://zh.wikipedia.org/wiki/ifconfig "wikilink") 命令，如下：
+第一种： 在 [Linux](../Page/Linux.md "wikilink") 下运行 [ifconfig](https://zh.wikipedia.org/wiki/ifconfig "wikilink") 命令，如下：
 
 `$ ifconfig`
 `eth0    Link encap:Ethernet HWaddr 00:0C:29:01:98:27`
@@ -51,8 +46,7 @@ ipconfig /all 命令。假设运行结果含：
 
 eth0 为第一块物理网卡， HWaddr 00:0C:29:01:98:27 就是MAC地址，lo为本地回环地址。
 
-第二种： 运行 [ip](https://zh.wikipedia.org/wiki/ip "wikilink")
-命令(是一个命令，不是Tcp/Ip里的ip)，示例如下：
+第二种： 运行 [ip](https://zh.wikipedia.org/wiki/ip "wikilink") 命令(是一个命令，不是Tcp/Ip里的ip)，示例如下：
 
 `$ ip link show`
 `1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN mode DEFAULT group default `
@@ -70,8 +64,7 @@ eth0 为第一块物理网卡， HWaddr 00:0C:29:01:98:27 就是MAC地址，lo�
 
 ## 外部链接
 
-  - [IEEE-SA - Registration Authority MA-L Public
-    Listing](http://standards.ieee.org/develop/regauth/oui/public.html)
+  - [IEEE-SA - Registration Authority MA-L Public Listing](http://standards.ieee.org/develop/regauth/oui/public.html)
 
   - [如何修改网卡的MAC地址](http://www.jeriffcheng.com/change-the-mac-address-of-adapter-with-ryll-mac-editor.html)
 

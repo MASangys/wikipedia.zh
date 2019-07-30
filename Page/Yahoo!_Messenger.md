@@ -1,18 +1,10 @@
-**Yahoo\!
-Messenger**是一个流行的免费[即时通讯软件](https://zh.wikipedia.org/wiki/即时通讯软件 "wikilink")，由[雅虎公司开发](../Page/雅虎.md "wikilink")，較早期的版本名稱為**Yahoo\!
-Pager**。用户使用Yahoo\!
-ID登入，使用同一个ID也可以访问Yahoo提供的其他服务，例如電子信箱、相簿、儲存空间和个人主页。在Yahoo\!
-Messenger中也集成了部分其他服务的功能，例如在用户的[Yahoo\!邮箱中有新信件时Yahoo](https://zh.wikipedia.org/wiki/Yahoo!邮箱 "wikilink")\!
-Messenger会提示用户。
+**Yahoo\! Messenger**是一个流行的免费[即时通讯软件](https://zh.wikipedia.org/wiki/即时通讯软件 "wikilink")，由[雅虎](../Page/雅虎.md "wikilink")公司开发，較早期的版本名稱為**Yahoo\! Pager**。用户使用Yahoo\! ID登入，使用同一个ID也可以访问Yahoo提供的其他服务，例如電子信箱、相簿、儲存空间和个人主页。在Yahoo\! Messenger中也集成了部分其他服务的功能，例如在用户的[Yahoo\!邮箱中有新信件时Yahoo](https://zh.wikipedia.org/wiki/Yahoo!邮箱 "wikilink")\! Messenger会提示用户。
 
 Yahoo\! Messenger在7.0之前的版本代號為「Iceman」。7.0版的版本是一個重新開發的軟件，加入了語音通話的內容。
 
 2007年5月2日推出線上版，並支援11種語言，可直接透過[Flash驅動於網頁上和好友傳訊](https://zh.wikipedia.org/wiki/Flash "wikilink")，雅虎宣布將於2011年11月1日，終止網上版服務。
 
-Yahoo\!奇摩即時通可以和[Windows Live
-Messenger互通](../Page/Windows_Live_Messenger.md "wikilink")，但僅限於基本的對話功能而已，像是視訊、動畫快遞，以及其他雙方軟體所各有的獨特功能仍無法互通，Yahoo奇摩即時通與Microsoft
-Windows Live Messenger
-的互通使用服務只提供到2013年12月14日止，同時停止服務的功能還包含Yahoo奇摩即時通公共聊天室及Yahoo奇摩即時通對講機\[1\]。
+Yahoo\!奇摩即時通可以和[Windows Live Messenger互通](../Page/Windows_Live_Messenger.md "wikilink")，但僅限於基本的對話功能而已，像是視訊、動畫快遞，以及其他雙方軟體所各有的獨特功能仍無法互通，Yahoo奇摩即時通與Microsoft Windows Live Messenger 的互通使用服務只提供到2013年12月14日止，同時停止服務的功能還包含Yahoo奇摩即時通公共聊天室及Yahoo奇摩即時通對講機\[1\]。
 
 2016年8月奇摩宣布終止舊版即時通服務\[2\]。2018年6月，Yahoo奇摩即時通宣布因為傳播環境不斷變化，將於同年7月17日終止服務，並表示會努力打造全新的溝通工具。\[3\]
 
@@ -105,7 +97,7 @@ Windows Live Messenger
 <td><p>2007年10月9日</p></td>
 <td><p>*新的联系人列表外观，包括大图标，可以与给发短信、即时通信、语音沟通。<br />
 *新的界面皮肤。<br />
-*新的<a href="../Page/Flickr.md" title="wikilink">Flickr的整合</a>。<br />
+*新的<a href="../Page/Flickr.md" title="wikilink">Flickr</a>的整合。<br />
 *内置播放器，支持视频播放与共享，无需额外插件。<br />
 *支持离线通话（需要拥有Phone Out帐号）。<br />
 *支持语音邮件。<br />
@@ -118,7 +110,7 @@ Windows Live Messenger
 *新增键盘快捷键。<br />
 *修复Windows vista系统下一些安装错误。<br />
 *暂时删除游戏功能。（2008年7月18日恢复）<br />
-*<a href="https://zh.wikipedia.org/wiki/奇虎360" title="wikilink">奇虎360插件依然存在</a>。</p></td>
+*<a href="../Page/奇虎360.md" title="wikilink">奇虎360</a>插件依然存在。</p></td>
 </tr>
 <tr class="odd">
 <td><p>9.0稳定版本</p></td>
@@ -185,7 +177,7 @@ Windows Live Messenger
 <td><p>2009年11月12日</p></td>
 <td><p>*支援<a href="https://zh.wikipedia.org/wiki/Windows7" title="wikilink">Windows7系统</a>。<br />
 *提供高质量视频通话。<br />
-*即时关注好友<a href="../Page/Twitter.md" title="wikilink">Twitter内容更新</a>、<br />
+*即时关注好友<a href="../Page/Twitter.md" title="wikilink">Twitter</a>内容更新、<br />
 *美国版本雅虎通支持16种语言转换。</p></td>
 </tr>
 <tr class="even">
@@ -218,9 +210,7 @@ Windows Live Messenger
 
 ## Yahoo\! Messenger 通訊協定
 
-**Yahoo\! Messenger 通訊協定**（**YMSG**）是一種由Yahoo\!
-Messenger所使用的[通訊協定](https://zh.wikipedia.org/wiki/通訊協定 "wikilink")。Yahoo\!
-Messenger 除了即時傳輸文字通訊外，還提供包括離線留言、檔案傳輸、語音交談、視訊通話、大頭貼等。
+**Yahoo\! Messenger 通訊協定**（**YMSG**）是一種由Yahoo\! Messenger所使用的[通訊協定](https://zh.wikipedia.org/wiki/通訊協定 "wikilink")。Yahoo\! Messenger 除了即時傳輸文字通訊外，還提供包括離線留言、檔案傳輸、語音交談、視訊通話、大頭貼等。
 
   - 封包結構
 
@@ -253,8 +243,7 @@ Yahoo\!自定義的封包結構如下：
   - [即时通讯软件比较](../Page/即时通讯软件比较.md "wikilink")
   - [即時通訊協定比較](https://zh.wikipedia.org/wiki/即時通訊協定比較 "wikilink")
   - [IRC客戶端比較](https://zh.wikipedia.org/wiki/IRC客戶端比較 "wikilink")
-  - [Yahoo\!
-    即時通訊協定](https://zh.wikipedia.org/wiki/Yahoo!_即時通訊協定 "wikilink")
+  - [Yahoo\! 即時通訊協定](https://zh.wikipedia.org/wiki/Yahoo!_即時通訊協定 "wikilink")
   - [YMSG](https://zh.wikipedia.org/wiki/YMSG "wikilink")
 
 ## 參考資料
@@ -271,11 +260,7 @@ Yahoo\!自定義的封包結構如下：
   - [Yahoo\! Messenger網路版即時通](http://webmessenger.yahoo.com/)
   - [Yahoo即時通開發套件（中文）](http://rd-program.blogspot.com/2008/11/msnsdk-yahoo.html)
 
-[Category:即时通讯软件](https://zh.wikipedia.org/wiki/Category:即时通讯软件 "wikilink")
-[Category:免費軟體](https://zh.wikipedia.org/wiki/Category:免費軟體 "wikilink")
-[Category:雅虎](https://zh.wikipedia.org/wiki/Category:雅虎 "wikilink")
-[Category:VoIP軟體](https://zh.wikipedia.org/wiki/Category:VoIP軟體 "wikilink")
-[Category:Windows即時通訊客戶端](https://zh.wikipedia.org/wiki/Category:Windows即時通訊客戶端 "wikilink")
+[Category:即时通讯软件](https://zh.wikipedia.org/wiki/Category:即时通讯软件 "wikilink") [Category:免費軟體](https://zh.wikipedia.org/wiki/Category:免費軟體 "wikilink") [Category:雅虎](https://zh.wikipedia.org/wiki/Category:雅虎 "wikilink") [Category:VoIP軟體](https://zh.wikipedia.org/wiki/Category:VoIP軟體 "wikilink") [Category:Windows即時通訊客戶端](https://zh.wikipedia.org/wiki/Category:Windows即時通訊客戶端 "wikilink")
 
 1.
 2.

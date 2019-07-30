@@ -1,26 +1,12 @@
-**Windows Embedded Compact**（曾被稱為Microsoft Windows
-CE），為[微軟研發的](https://zh.wikipedia.org/wiki/微軟 "wikilink")[嵌入式作業系統](https://zh.wikipedia.org/wiki/嵌入式作業系統 "wikilink")，可以應用在各種[嵌入式系統](https://zh.wikipedia.org/wiki/嵌入式系統 "wikilink")，或是硬體規格較低的電腦系統（例如很少的記憶體，較慢的[中央處理器等](https://zh.wikipedia.org/wiki/中央處理器 "wikilink")）。微軟並未定義CE縮寫由來，一般解釋則有Compact
-Edition、Customer Embedded、Consumer
-Electronics等等。在2008年4月15日舉行的嵌入式系统大会上，微軟宣布將Windows
-CE更名為Windows Embedded Compact，與[Windows Embedded
-Enterprise](https://zh.wikipedia.org/wiki/Windows_Embedded_Enterprise "wikilink")、[Windows
-Embedded
-Standard和](https://zh.wikipedia.org/wiki/Windows_Embedded_Standard "wikilink")[Windows
-Embedded
-POSReady組成](https://zh.wikipedia.org/wiki/Windows_Embedded_POSReady "wikilink")[Windows
-Embedded系列產品](https://zh.wikipedia.org/wiki/Windows_Embedded "wikilink")。\[1\]
+**Windows Embedded Compact**（曾被稱為Microsoft Windows CE），為[微軟研發的](https://zh.wikipedia.org/wiki/微軟 "wikilink")[嵌入式作業系統](https://zh.wikipedia.org/wiki/嵌入式作業系統 "wikilink")，可以應用在各種[嵌入式系統](https://zh.wikipedia.org/wiki/嵌入式系統 "wikilink")，或是硬體規格較低的電腦系統（例如很少的記憶體，較慢的[中央處理器等](https://zh.wikipedia.org/wiki/中央處理器 "wikilink")）。微軟並未定義CE縮寫由來，一般解釋則有Compact Edition、Customer Embedded、Consumer Electronics等等。在2008年4月15日舉行的嵌入式系统大会上，微軟宣布將Windows CE更名為Windows Embedded Compact，與[Windows Embedded Enterprise](https://zh.wikipedia.org/wiki/Windows_Embedded_Enterprise "wikilink")、[Windows Embedded Standard和](https://zh.wikipedia.org/wiki/Windows_Embedded_Standard "wikilink")[Windows Embedded POSReady組成](https://zh.wikipedia.org/wiki/Windows_Embedded_POSReady "wikilink")[Windows Embedded系列產品](https://zh.wikipedia.org/wiki/Windows_Embedded "wikilink")。\[1\]
 
 ## 概覽
 
-[Tektronix_Y400_NetTek_Analyzer_20150519_104452.jpg](https://zh.wikipedia.org/wiki/File:Tektronix_Y400_NetTek_Analyzer_20150519_104452.jpg "fig:Tektronix_Y400_NetTek_Analyzer_20150519_104452.jpg")
-Windows CE 1.0最早於1996年推出，是单色的[Windows
-95简化版本](../Page/Windows_95.md "wikilink")。
+[Tektronix_Y400_NetTek_Analyzer_20150519_104452.jpg](https://zh.wikipedia.org/wiki/File:Tektronix_Y400_NetTek_Analyzer_20150519_104452.jpg "fig:Tektronix_Y400_NetTek_Analyzer_20150519_104452.jpg") Windows CE 1.0最早於1996年推出，是单色的[Windows 95简化版本](../Page/Windows_95.md "wikilink")。
 
 1997年Fall Comdex大會上公佈的Windows CE 2.0仍是基於Win95的作業系統，效率遠高於1.0版。
 
-Windows CE 3.0是微软的Windows Compact Edition，已擺脫舊有的Windows
-95简化格式，是一套全新的作業系統，支持5種CPU：[x86](https://zh.wikipedia.org/wiki/x86 "wikilink")、[PowerPC](../Page/PowerPC.md "wikilink")、[ARM](https://zh.wikipedia.org/wiki/ARM架構 "wikilink")、[MIPS](../Page/MIPS架構.md "wikilink")、[SH3/4](https://zh.wikipedia.org/wiki/SH3/4 "wikilink")。並且改名为Windows
-for Pocket PC，简称Pocket PC。
+Windows CE 3.0是微软的Windows Compact Edition，已擺脫舊有的Windows 95简化格式，是一套全新的作業系統，支持5種CPU：[x86](https://zh.wikipedia.org/wiki/x86 "wikilink")、[PowerPC](../Page/PowerPC.md "wikilink")、[ARM](https://zh.wikipedia.org/wiki/ARM架構 "wikilink")、[MIPS](../Page/MIPS架構.md "wikilink")、[SH3/4](https://zh.wikipedia.org/wiki/SH3/4 "wikilink")。並且改名为Windows for Pocket PC，简称Pocket PC。
 
 2002年1月微軟又推出Windows CE.Net，即Windows CE 4.0。
 
@@ -30,17 +16,11 @@ for Pocket PC，简称Pocket PC。
 
 2010年10月，微软推出 Windows Phone 7，Windows Embedded Compact 7。
 
-Windows CE可以使用在各式各樣的系統上，最有名的是[Pocket
-PC以及微軟的](../Page/Pocket_PC.md "wikilink")[SmartPhone](https://zh.wikipedia.org/wiki/SmartPhone "wikilink")。其他較不為人知的裝置包括微軟的[车载电脑](https://zh.wikipedia.org/wiki/车载电脑 "wikilink")、[机顶盒](https://zh.wikipedia.org/wiki/机顶盒 "wikilink")、生產線上的控制設備、公共場所的[資訊站](https://zh.wikipedia.org/wiki/資訊站 "wikilink")（[Kiosk](https://zh.wikipedia.org/wiki/Kiosk "wikilink")）、[電子辭典及](https://zh.wikipedia.org/wiki/電子辭典 "wikilink")[导航仪等等](https://zh.wikipedia.org/wiki/导航仪 "wikilink")，有些裝置甚至沒有任何人機介面。
+Windows CE可以使用在各式各樣的系統上，最有名的是[Pocket PC以及微軟的](../Page/Pocket_PC.md "wikilink")[SmartPhone](https://zh.wikipedia.org/wiki/SmartPhone "wikilink")。其他較不為人知的裝置包括微軟的[车载电脑](https://zh.wikipedia.org/wiki/车载电脑 "wikilink")、[机顶盒](https://zh.wikipedia.org/wiki/机顶盒 "wikilink")、生產線上的控制設備、公共場所的[資訊站](https://zh.wikipedia.org/wiki/資訊站 "wikilink")（[Kiosk](https://zh.wikipedia.org/wiki/Kiosk "wikilink")）、[電子辭典及](https://zh.wikipedia.org/wiki/電子辭典 "wikilink")[导航仪等等](https://zh.wikipedia.org/wiki/导航仪 "wikilink")，有些裝置甚至沒有任何人機介面。
 
-Windows
-CE並非從桌上型電腦的Windows（NT，98，XP……）修改縮小而來，而是使用一套完全重新設計的核心，所以它可以在功能非常有限的硬體上執行。雖然核心不同，但是它卻提供了高度的Win32
-API軟體開發介面的相容性，功能有内存管理、文件操作、多线程、网络功能等。因此，開發桌上型電腦軟體的人可以很容易編寫甚或直接移植軟體到Windows
-CE上。
+Windows CE並非從桌上型電腦的Windows（NT，98，XP……）修改縮小而來，而是使用一套完全重新設計的核心，所以它可以在功能非常有限的硬體上執行。雖然核心不同，但是它卻提供了高度的Win32 API軟體開發介面的相容性，功能有内存管理、文件操作、多线程、网络功能等。因此，開發桌上型電腦軟體的人可以很容易編寫甚或直接移植軟體到Windows CE上。
 
-一個與其他微軟作業系統的差異是Windows CE提供原始碼，首先已經提供了原始碼給部分廠商，讓廠商能夠依照他們自己的硬體架構修改原始碼，
-例如在Windows CE的開發IDE軟體Platform
-Builder中就提供了許多開放原碼的常用軟體元件，但是一些與硬體架構的軟體元件仍然以二進制檔案形式來提供。
+一個與其他微軟作業系統的差異是Windows CE提供原始碼，首先已經提供了原始碼給部分廠商，讓廠商能夠依照他們自己的硬體架構修改原始碼， 例如在Windows CE的開發IDE軟體Platform Builder中就提供了許多開放原碼的常用軟體元件，但是一些與硬體架構的軟體元件仍然以二進制檔案形式來提供。
 
 ## 版本
 
@@ -135,15 +115,11 @@ Builder中就提供了許多開放原碼的常用軟體元件，但是一些與�
 </tbody>
 </table>
 
-CE v3.0是Pocket PC 2002的基礎. CE v3.0的下代為CE.net. \[32\] "PocketPC
-\[是\]核心Windows CE OS上的一整層程式... Pocket PC以Windows
-CE為基礎，但分發的方式不太一樣.". Pocket
-PC的使用證書禁止修改WinCE的程式.\[33\]
+CE v3.0是Pocket PC 2002的基礎. CE v3.0的下代為CE.net. \[32\] "PocketPC \[是\]核心Windows CE OS上的一整層程式... Pocket PC以Windows CE為基礎，但分發的方式不太一樣.". Pocket PC的使用證書禁止修改WinCE的程式.\[33\]
 
 ## 最新功能
 
-目前最新的**Windows CE**為[Windows CE
-7.0](https://zh.wikipedia.org/wiki/Windows_CE_7.0 "wikilink")，這個版本在核心部分有很大的進步：
+目前最新的**Windows CE**為[Windows CE 7.0](https://zh.wikipedia.org/wiki/Windows_CE_7.0 "wikilink")，這個版本在核心部分有很大的進步：
 
   - 雙核心處理器支援（SMP、ARMv6）
   - WIFI定位系统
@@ -157,63 +133,35 @@ PC的使用證書禁止修改WinCE的程式.\[33\]
   - UX C++ XAML API如使如Windows Presentation Foundation和Silverlight的用戶界面
   - 更佳觸摸和手勢輸入
 
-在開發環境上，微軟也提供相容於[.NET
-Framework的開發元件](https://zh.wikipedia.org/wiki/.NET_Framework "wikilink")：[.NET
-Compact
-Framework](../Page/.NET_Compact_Framework.md "wikilink")，讓正在學習[.NET或已擁有](https://zh.wikipedia.org/wiki/.NET "wikilink")[.NET程式開發技術的開發人員能迅速而順利的在搭載](https://zh.wikipedia.org/wiki/.NET "wikilink")**Windows
-CE .NET**系統的裝置上開發[應用程式](https://zh.wikipedia.org/wiki/應用程式 "wikilink")。
+在開發環境上，微軟也提供相容於[.NET Framework的開發元件](https://zh.wikipedia.org/wiki/.NET_Framework "wikilink")：[.NET Compact Framework](../Page/.NET_Compact_Framework.md "wikilink")，讓正在學習[.NET或已擁有](https://zh.wikipedia.org/wiki/.NET "wikilink")[.NET程式開發技術的開發人員能迅速而順利的在搭載](https://zh.wikipedia.org/wiki/.NET "wikilink")**Windows CE .NET**系統的裝置上開發[應用程式](https://zh.wikipedia.org/wiki/應用程式 "wikilink")。
 
-用于掌上电脑[Pocket
-PC以及](../Page/Pocket_PC.md "wikilink")[智能手机](../Page/智能手机.md "wikilink")[Smart
-Phone上的Windows](https://zh.wikipedia.org/wiki/SmartPhone "wikilink")
-CE系统称为[Windows
-Mobile](../Page/Windows_Mobile.md "wikilink")，目前成熟的最新版本为[Windows
-10 Mobile](../Page/Windows_10.md "wikilink")。
+用于掌上电脑[Pocket PC以及](../Page/Pocket_PC.md "wikilink")[智能手机](../Page/智能手机.md "wikilink")[Smart Phone上的Windows](https://zh.wikipedia.org/wiki/SmartPhone "wikilink") CE系统称为[Windows Mobile](../Page/Windows_Mobile.md "wikilink")，目前成熟的最新版本为[Windows 10 Mobile](../Page/Windows_10.md "wikilink")。
 
-在2009年10月6日，[Windows
-Mobile亦正式改名為](../Page/Windows_Mobile.md "wikilink")[Windows
-Phone](../Page/Windows_Phone.md "wikilink").
+在2009年10月6日，[Windows Mobile亦正式改名為](../Page/Windows_Mobile.md "wikilink")[Windows Phone](../Page/Windows_Phone.md "wikilink").
 
 ## 開發工具
 
-Windows
-CE可支援[MFC](https://zh.wikipedia.org/wiki/MFC "wikilink")，[ATL](https://zh.wikipedia.org/wiki/Active_Template_Library "wikilink")，[STL](https://zh.wikipedia.org/wiki/STL "wikilink")，[COM](https://zh.wikipedia.org/wiki/COM "wikilink")，[ActiveX](../Page/ActiveX.md "wikilink")，以及[.NET
-Compact
-Framework](../Page/.NET_Compact_Framework.md "wikilink")。開發工作可以分為：
+Windows CE可支援[MFC](https://zh.wikipedia.org/wiki/MFC "wikilink")，[ATL](https://zh.wikipedia.org/wiki/Active_Template_Library "wikilink")，[STL](https://zh.wikipedia.org/wiki/STL "wikilink")，[COM](https://zh.wikipedia.org/wiki/COM "wikilink")，[ActiveX](../Page/ActiveX.md "wikilink")，以及[.NET Compact Framework](../Page/.NET_Compact_Framework.md "wikilink")。開發工作可以分為：
 
-  - [Platform
-    Builder](https://zh.wikipedia.org/wiki/Platform_Builder "wikilink"):這個工具是一個編譯平台（BSP
-    + 作業系統核心）、驅動程式以及應用程式，是一個可以做單部執行的開發環境，也可以用來傳送SDK到目標平台再搭配另外一個下面的工具來使用。
+  - [Platform Builder](https://zh.wikipedia.org/wiki/Platform_Builder "wikilink"):這個工具是一個編譯平台（BSP + 作業系統核心）、驅動程式以及應用程式，是一個可以做單部執行的開發環境，也可以用來傳送SDK到目標平台再搭配另外一個下面的工具來使用。
 
 <!-- end list -->
 
-  - [Free Pascal](../Page/Free_Pascal.md "wikilink") and
-    [Lazarus](../Page/Lazarus.md "wikilink"):版本2.2.0以后的Free
-    Pascal都有Windows CE支持（包括ARM和x86）。随后，Windows
-    CE头文件也被翻译，供Lazarus（一个基于Free
-    Pascal的快速应用开发（RAD）软件包）使用。用户可以使用Lazarus IDE来设计Windows
-    CE应用程序，并通过交叉编译器（cross-compiler）生成用于Windows CE的可执行文件。
+  - [Free Pascal](../Page/Free_Pascal.md "wikilink") and [Lazarus](../Page/Lazarus.md "wikilink"):版本2.2.0以后的Free Pascal都有Windows CE支持（包括ARM和x86）。随后，Windows CE头文件也被翻译，供Lazarus（一个基于Free Pascal的快速应用开发（RAD）软件包）使用。用户可以使用Lazarus IDE来设计Windows CE应用程序，并通过交叉编译器（cross-compiler）生成用于Windows CE的可执行文件。
 
 <!-- end list -->
 
-  - [Embedded Visual
-    C++](https://zh.wikipedia.org/wiki/Embedded_Visual_C++ "wikilink")（eVC）這是一個用於開發基於Windows
-    CE作業系統嵌入式應用程式的工具，這個工具可以使用由[Platform
-    Builder輸出的SDK](https://zh.wikipedia.org/wiki/Platform_Builder "wikilink")。
+  - [Embedded Visual C++](https://zh.wikipedia.org/wiki/Embedded_Visual_C++ "wikilink")（eVC）這是一個用於開發基於Windows CE作業系統嵌入式應用程式的工具，這個工具可以使用由[Platform Builder輸出的SDK](https://zh.wikipedia.org/wiki/Platform_Builder "wikilink")。
 
 <!-- end list -->
 
-  - [Visual C++](https://zh.wikipedia.org/wiki/Visual_C++ "wikilink")
-    2005/2008/2010其中Platform Builder 6.0 for Windows Embedded
-    CE被改寫成Visual Studio 2005的一個插件。
+  - [Visual C++](https://zh.wikipedia.org/wiki/Visual_C++ "wikilink") 2005/2008/2010其中Platform Builder 6.0 for Windows Embedded CE被改寫成Visual Studio 2005的一個插件。
 
 ## 限制
 
-  - Windows CE為UNICODE作業系統，但char不必改為TCHAR，WCHAR，因為Windows
-    CE也支援非Unicode編程。
+  - Windows CE為UNICODE作業系統，但char不必改為TCHAR，WCHAR，因為Windows CE也支援非Unicode編程。
   - Windows CE不支援重叠I/O。
-  - WinCE的許多APIs功能都受限，如CreateThread函数在许多参数在Windows
-    CE下都不支持，第1、2、5的參數值必須设为NULL或0。
+  - WinCE的許多APIs功能都受限，如CreateThread函数在许多参数在Windows CE下都不支持，第1、2、5的參數值必須设为NULL或0。
 
 <!-- end list -->
 
@@ -229,12 +177,9 @@ Framework](../Page/.NET_Compact_Framework.md "wikilink")。開發工作可以分
 
 {{-}}
 
-[Category:Windows_CE](https://zh.wikipedia.org/wiki/Category:Windows_CE "wikilink")
-[Category:实时操作系统](https://zh.wikipedia.org/wiki/Category:实时操作系统 "wikilink")
+[Category:Windows_CE](https://zh.wikipedia.org/wiki/Category:Windows_CE "wikilink") [Category:实时操作系统](https://zh.wikipedia.org/wiki/Category:实时操作系统 "wikilink")
 
-1.  [Microsoft Charts Its Road Map for Windows Embedded
-    Business](http://www.microsoft.com/presspass/press/2008/apr08/04-15RoadMapEmbeddedPR.mspx)
-
+1.  [Microsoft Charts Its Road Map for Windows Embedded Business](http://www.microsoft.com/presspass/press/2008/apr08/04-15RoadMapEmbeddedPR.mspx)
 
 2.   090517 2000grad.com
 
@@ -246,10 +191,7 @@ Framework](../Page/.NET_Compact_Framework.md "wikilink")。開發工作可以分
 7.
 8.
 9.
-10. [Talk:Microsoft Windows CE\#Is Windows CE a trimmed down version of
-    desktop Windows
-    ???](https://zh.wikipedia.org/wiki/Talk:Microsoft_Windows_CE#Is_Windows_CE_a_trimmed_down_version_of_desktop_Windows_??? "wikilink")
-    090517
+10. [Talk:Microsoft Windows CE\#Is Windows CE a trimmed down version of desktop Windows ???](https://zh.wikipedia.org/wiki/Talk:Microsoft_Windows_CE#Is_Windows_CE_a_trimmed_down_version_of_desktop_Windows_??? "wikilink") 090517
 
 11.
 12.

@@ -2,8 +2,7 @@
 
 ## 历史
 
-`ls`首次出现于原始版本的[AT\&T](../Page/AT&T.md "wikilink")
-[Unix中](https://zh.wikipedia.org/wiki/Unix "wikilink")。它的名字来源于[Multics](../Page/Multics.md "wikilink")[操作系统的一个类似命令](../Page/操作系统.md "wikilink")，意思是“列出文件块”。目前有两种主流版本的`ls`：一种是[自由软件基金会开发的](../Page/自由软件基金会.md "wikilink")[GNU](../Page/GNU.md "wikilink")[核心程序的组成部分](https://zh.wikipedia.org/wiki/coreutils "wikilink")；另一种由各种BSD版本发布，如[FreeBSD](../Page/FreeBSD.md "wikilink")、[OpenBSD](../Page/OpenBSD.md "wikilink")、[NetBSD和](../Page/NetBSD.md "wikilink")[苹果公司的](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[Darwin](https://zh.wikipedia.org/wiki/Apple_Darwin "wikilink")。两种版本都是[自由以及](../Page/自由软件.md "wikilink")[开源软件](../Page/开源软件.md "wikilink")。
+`ls`首次出现于原始版本的[AT\&T](../Page/AT&T.md "wikilink") [Unix中](https://zh.wikipedia.org/wiki/Unix "wikilink")。它的名字来源于[Multics](../Page/Multics.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")的一个类似命令，意思是“列出文件块”。目前有两种主流版本的`ls`：一种是[自由软件基金会](../Page/自由软件基金会.md "wikilink")开发的[GNU](../Page/GNU.md "wikilink")[核心程序的组成部分](https://zh.wikipedia.org/wiki/coreutils "wikilink")；另一种由各种BSD版本发布，如[FreeBSD](../Page/FreeBSD.md "wikilink")、[OpenBSD](../Page/OpenBSD.md "wikilink")、[NetBSD](../Page/NetBSD.md "wikilink")和[苹果公司的](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[Darwin](https://zh.wikipedia.org/wiki/Apple_Darwin "wikilink")。两种版本都是[自由以及](../Page/自由软件.md "wikilink")[开源软件](../Page/开源软件.md "wikilink")。
 
 ## 使用方法
 
@@ -16,13 +15,12 @@
 不加参数时，ls仅仅列出文件和目录的名称，不加任何修饰。这通常让人很难区分文件的类型、大小、[权限等属性](https://zh.wikipedia.org/wiki/文件操作权限 "wikilink")。显示文件常用信息的一些参数如下：
 
   - \-l（long）长格式，显示文件类型、权限、[硬链接的数目](https://zh.wikipedia.org/wiki/硬链接 "wikilink")、文件拥有者、文件所在的[组](https://zh.wikipedia.org/wiki/组_\(计算机\) "wikilink")、大小、日期和文件名。
-  - \-F
-    在不同类型的文件的文件名结尾追加一个字符以示区别。可执行文件后加"\*"，目录后加"/"，管道文件后加"|"，套接字文件后加"="，普通文件没有后缀。
+  - \-F 在不同类型的文件的文件名结尾追加一个字符以示区别。可执行文件后加"\*"，目录后加"/"，管道文件后加"|"，套接字文件后加"="，普通文件没有后缀。
   - \-a（all）显示所有文件，包括以 . 开头的文件名（默认不显示）。
   - \-R（recursive）迭代显示目录下所有的子目录。ls -R／会显示文件系统中的所有文件。
   - \-d（directory）显示目录本身的信息，而不是列出目录下的文件。
 
-在某些环境下，使用参数"--color"（[GNU版](../Page/GNU.md "wikilink")）或者"-G"（[FreeBSD版](../Page/FreeBSD.md "wikilink")）后，ls会根据文件类型输出不同色彩的格式。GNU版的ls根据文件的类型、[扩展名和使用权限来决定颜色](https://zh.wikipedia.org/wiki/扩展名 "wikilink")，而FreeBSD版的ls仅仅检查文件类型和使用权限。
+在某些环境下，使用参数"--color"（[GNU](../Page/GNU.md "wikilink")版）或者"-G"（[FreeBSD](../Page/FreeBSD.md "wikilink")版）后，ls会根据文件类型输出不同色彩的格式。GNU版的ls根据文件的类型、[扩展名和使用权限来决定颜色](https://zh.wikipedia.org/wiki/扩展名 "wikilink")，而FreeBSD版的ls仅仅检查文件类型和使用权限。
 
 使用上述彩色选项时，输出示例如下：
 
@@ -66,25 +64,17 @@ ls有大量的选项，具体的用法请参考ls的[手册页](../Page/手册�
 
 ## 外部链接
 
-  - LinuxQustion.org
-    [wiki上的](https://zh.wikipedia.org/wiki/wiki "wikilink")[ls](http://wiki.linuxquestions.org/wiki/Ls)
-  - [ls.c](http://minnie.tuhs.org/UnixTree/V7/usr/src/cmd/ls.c.html)
-    第七版Unix中ls的源代码
-  - [ls.c](http://minnie.tuhs.org/UnixTree/V5/usr/source/s1/ls.c.html)
-    AT\&T第五版Unix中ls的源代码
-  - [newbie
-    ls](https://web.archive.org/web/20070529063634/http://www.codecrazy.net/newbie-ls-program.html)
-    简明版ls的源代码
+  - LinuxQustion.org [wiki上的](https://zh.wikipedia.org/wiki/wiki "wikilink")[ls](http://wiki.linuxquestions.org/wiki/Ls)
+  - [ls.c](http://minnie.tuhs.org/UnixTree/V7/usr/src/cmd/ls.c.html) 第七版Unix中ls的源代码
+  - [ls.c](http://minnie.tuhs.org/UnixTree/V5/usr/source/s1/ls.c.html) AT\&T第五版Unix中ls的源代码
+  - [newbie ls](https://web.archive.org/web/20070529063634/http://www.codecrazy.net/newbie-ls-program.html) 简明版ls的源代码
   - [GNU[核心程序版的](https://zh.wikipedia.org/wiki/GNU核心程序 "wikilink")`ls`源代码](http://ftp.gnu.org/pub/gnu/coreutils/)
   - [单一Unix标准规定的](https://zh.wikipedia.org/wiki/单一Unix标准 "wikilink")[ls标准](http://www.opengroup.org/onlinepubs/009695399/utilities/ls.html)
-  - [Computer Hope: Linux / UNIX, Information about the Linux / UNIX
-    `ls`
-    command.](https://web.archive.org/web/20070308050639/http://www.xmission.com/~comphope/unix/uls.htm)
-  - linux-command.com
-    [wiki上的](https://zh.wikipedia.org/wiki/wiki "wikilink")[ls命令介绍](https://web.archive.org/web/20070319211434/http://www.linux-command.com/ls.html)
+  - [Computer Hope: Linux / UNIX, Information about the Linux / UNIX `ls` command.](https://web.archive.org/web/20070308050639/http://www.xmission.com/~comphope/unix/uls.htm)
+  - linux-command.com [wiki上的](https://zh.wikipedia.org/wiki/wiki "wikilink")[ls命令介绍](https://web.archive.org/web/20070319211434/http://www.linux-command.com/ls.html)
 
 ### 文档
 
-  - [GNU版](../Page/GNU.md "wikilink")[ls文档](https://web.archive.org/web/20070329001344/http://www.gnu.org/software/coreutils/manual/html_chapter/coreutils_10.html#SEC52)
+  - [GNU](../Page/GNU.md "wikilink")版[ls文档](https://web.archive.org/web/20070329001344/http://www.gnu.org/software/coreutils/manual/html_chapter/coreutils_10.html#SEC52)
 
 [Category:标准Unix程序](https://zh.wikipedia.org/wiki/Category:标准Unix程序 "wikilink")

@@ -1,11 +1,8 @@
-**Prolog**（的缩写）是一种[逻辑编程语言](https://zh.wikipedia.org/wiki/逻辑编程 "wikilink")。它建立在[逻辑学的理论基础之上](https://zh.wikipedia.org/wiki/逻辑学 "wikilink")，
-最初被运用于[自然语言等研究领域](https://zh.wikipedia.org/wiki/自然语言 "wikilink")。现在它已广泛的应用在[人工智能的研究中](../Page/人工智能.md "wikilink")，它可以用来建造[专家系统](../Page/专家系统.md "wikilink")、自然语言理解、智能知识库等。
+**Prolog**（的缩写）是一种[逻辑编程语言](https://zh.wikipedia.org/wiki/逻辑编程 "wikilink")。它建立在[逻辑学的理论基础之上](https://zh.wikipedia.org/wiki/逻辑学 "wikilink")， 最初被运用于[自然语言等研究领域](https://zh.wikipedia.org/wiki/自然语言 "wikilink")。现在它已广泛的应用在[人工智能](../Page/人工智能.md "wikilink")的研究中，它可以用来建造[专家系统](../Page/专家系统.md "wikilink")、自然语言理解、智能知识库等。
 
 ## 历史
 
-Prolog语言最早由Aix-Marseille大学的Alain Colmerauer与Phillipe
-Roussel等人于60年代末研究开发。1972年被公认为是Prolog语言正式诞生的年份，自1972年以后，分支出多种Prolog的方言。最主要的两种方言为Edinburgh和Aix-Marseille。最早的Prolog解释器由Roussel建造，而第一个Prolog编译器则是David
-Warren编写的。
+Prolog语言最早由Aix-Marseille大学的Alain Colmerauer与Phillipe Roussel等人于60年代末研究开发。1972年被公认为是Prolog语言正式诞生的年份，自1972年以后，分支出多种Prolog的方言。最主要的两种方言为Edinburgh和Aix-Marseille。最早的Prolog解释器由Roussel建造，而第一个Prolog编译器则是David Warren编写的。
 
 Prolog一直在北美和欧洲被广泛使用。日本政府曾经为了建造智能计算机而用Prolog来开发ICOT第五代计算机系统。在早期的机器智能研究领域，Prolog曾经是主要的开发工具。
 
@@ -37,7 +34,7 @@ Prolog代码中以大写字母开头的元素是**变量**，[字符串](../Page
 
 ### Quicksort
 
-[快速排序範例](../Page/快速排序.md "wikilink")（對list作排序）：
+[快速排序](../Page/快速排序.md "wikilink")範例（對list作排序）：
 
 ``` prolog
 /* quicksort2.pl    原始來源：http://en.wikipedia.org/wiki/Prolog   */
@@ -90,8 +87,7 @@ ordered([A|[B|T]]) :- A =< B, ordered([B|T]).   /* 此规则約束所謂的排�
 
 ### Russell's paradox
 
-示範[羅素悖論在Prolog下會導致Stack](https://zh.wikipedia.org/wiki/羅素悖論 "wikilink")
-Overflow：
+示範[羅素悖論在Prolog下會導致Stack](https://zh.wikipedia.org/wiki/羅素悖論 "wikilink") Overflow：
 
 ``` prolog
 /* tstpx.pl */
@@ -109,8 +105,7 @@ px(1) :- \+ px(1).      /* 規定此规则不成立。 i.e. 此规则為假時�
 
 ## 外部連結
 
-  - [Prolog
-    人工智能语言中文论坛](https://web.archive.org/web/20180202221359/http://prolog.longluntan.net/)
+  - [Prolog 人工智能语言中文论坛](https://web.archive.org/web/20180202221359/http://prolog.longluntan.net/)
 
 <!-- end list -->
 
@@ -125,13 +120,8 @@ px(1) :- \+ px(1).      /* 規定此规则不成立。 i.e. 此规则為假時�
 
   - [Visual Prolog](../Page/Visual_Prolog.md "wikilink")
   - [LISP](../Page/LISP.md "wikilink")
-  - [non-Monotonic
-    Logic](https://zh.wikipedia.org/wiki/non-Monotonic_Logic "wikilink")
+  - [non-Monotonic Logic](https://zh.wikipedia.org/wiki/non-Monotonic_Logic "wikilink")
 
 {{-}}
 
-[Category:邏輯編程語言](https://zh.wikipedia.org/wiki/Category:邏輯編程語言 "wikilink")
-[Category:Prolog](https://zh.wikipedia.org/wiki/Category:Prolog "wikilink")
-[Category:知识表示](https://zh.wikipedia.org/wiki/Category:知识表示 "wikilink")
-[Category:专家系统](https://zh.wikipedia.org/wiki/Category:专家系统 "wikilink")
-[Category:人工智能](https://zh.wikipedia.org/wiki/Category:人工智能 "wikilink")
+[Category:邏輯編程語言](https://zh.wikipedia.org/wiki/Category:邏輯編程語言 "wikilink") [Category:Prolog](https://zh.wikipedia.org/wiki/Category:Prolog "wikilink") [Category:知识表示](https://zh.wikipedia.org/wiki/Category:知识表示 "wikilink") [Category:专家系统](https://zh.wikipedia.org/wiki/Category:专家系统 "wikilink") [Category:人工智能](https://zh.wikipedia.org/wiki/Category:人工智能 "wikilink")

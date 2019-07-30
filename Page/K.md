@@ -1,8 +1,6 @@
-**K**, **k**
-是[拉丁字母中的第](../Page/拉丁字母.md "wikilink")11个[字母](../Page/字母.md "wikilink")。它来源于[希腊字母的](../Page/希腊字母.md "wikilink")[Κ或](https://zh.wikipedia.org/wiki/Κ "wikilink")[κ](https://zh.wikipedia.org/wiki/κ "wikilink")
-(Kappa)，而希腊语的这个字母又来源于闪族语字母Kap，表示一支张开的手。
+**K**, **k** 是[拉丁字母](../Page/拉丁字母.md "wikilink")中的第11个[字母](../Page/字母.md "wikilink")。它来源于[希腊字母](../Page/希腊字母.md "wikilink")的[Κ或](https://zh.wikipedia.org/wiki/Κ "wikilink")[κ](https://zh.wikipedia.org/wiki/κ "wikilink") (Kappa)，而希腊语的这个字母又来源于闪族语字母Kap，表示一支张开的手。
 
-虽然拉丁语转用字母[C而完全抛弃字母K](../Page/C.md "wikilink")，但闪族语字母的音值/k/在很多古典语言和现代语言中得到保留。因此，[罗曼语族的字母K只用来拼写外来语](../Page/罗曼语族.md "wikilink")。
+虽然拉丁语转用字母[C](../Page/C.md "wikilink")而完全抛弃字母K，但闪族语字母的音值/k/在很多古典语言和现代语言中得到保留。因此，[罗曼语族](../Page/罗曼语族.md "wikilink")的字母K只用来拼写外来语。
 
 ## 歷史
 
@@ -28,9 +26,9 @@
 </tbody>
 </table>
 
-字母K是從希臘字母Κ（[kappa](https://zh.wikipedia.org/wiki/kappa "wikilink")）而來，源自[閃米特字母的](https://zh.wikipedia.org/wiki/閃米特字母 "wikilink")[kap](https://zh.wikipedia.org/wiki/kaph "wikilink")，是「一隻張開的手」的符號.\[1\]反過來說，這很可能是住在[埃及的](../Page/埃及.md "wikilink")[閃米族人](https://zh.wikipedia.org/wiki/閃米族 "wikilink")，從（即字母D）改編而來。閃米族人賦與這個字母一個新的音值，因為在它們的語言中，這個音是「手」這個字的開頭。\[2\]
+字母K是從希臘字母Κ（[kappa](https://zh.wikipedia.org/wiki/kappa "wikilink")）而來，源自[閃米特字母的](https://zh.wikipedia.org/wiki/閃米特字母 "wikilink")[kap](https://zh.wikipedia.org/wiki/kaph "wikilink")，是「一隻張開的手」的符號.\[1\]反過來說，這很可能是住在[埃及](../Page/埃及.md "wikilink")的[閃米族人](https://zh.wikipedia.org/wiki/閃米族 "wikilink")，從（即字母D）改編而來。閃米族人賦與這個字母一個新的音值，因為在它們的語言中，這個音是「手」這個字的開頭。\[2\]
 
-在早期的[拉丁銘文中](https://zh.wikipedia.org/wiki/拉丁 "wikilink")，字母C、K和Q都可以表示/k/或/g/的音（在書寫上尚未分化）。其中，Q比較常用於圓唇元音，K則是放在/a/之前，而C則用於其他地方。稍晚，C和它的變體G，替代了大多數K和Q的用途。K只留存在像「Kalendae」（拉丁語的calends，指[羅馬曆中每個月的首日](../Page/羅馬曆.md "wikilink")）這種少數僵固的形式中。\[3\]
+在早期的[拉丁銘文中](https://zh.wikipedia.org/wiki/拉丁 "wikilink")，字母C、K和Q都可以表示/k/或/g/的音（在書寫上尚未分化）。其中，Q比較常用於圓唇元音，K則是放在/a/之前，而C則用於其他地方。稍晚，C和它的變體G，替代了大多數K和Q的用途。K只留存在像「Kalendae」（拉丁語的calends，指[羅馬曆](../Page/羅馬曆.md "wikilink")中每個月的首日）這種少數僵固的形式中。\[3\]
 
 ## 字符编码
 
@@ -53,7 +51,6 @@
 
 [Category:拉丁字母](https://zh.wikipedia.org/wiki/Category:拉丁字母 "wikilink")
 
-1.  ["K". *The Oxford English Dictionary*, 2nd ed., 1977,
-    online](http://dictionary.oed.com/cgi/entry/50124982?query_type=word&queryword=k&first=1&max_to_show=10&sort_type=alpha&result_place=1&search_id=h5Sx-nTaC9b-24269&hilite=50124982)
+1.  ["K". *The Oxford English Dictionary*, 2nd ed., 1977, online](http://dictionary.oed.com/cgi/entry/50124982?query_type=word&queryword=k&first=1&max_to_show=10&sort_type=alpha&result_place=1&search_id=h5Sx-nTaC9b-24269&hilite=50124982)
 2.
 3.

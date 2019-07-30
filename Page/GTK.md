@@ -1,23 +1,18 @@
-****（原名****）最初是[GIMP的专用开发库](../Page/GIMP.md "wikilink")（），后来发展为[Unix-like系統下开发](https://zh.wikipedia.org/wiki/Unix-like "wikilink")[图形界面的应用程序的主流开发工具之一](https://zh.wikipedia.org/wiki/图形界面 "wikilink")。GTK是[自由软件](../Page/自由软件.md "wikilink")，并且是[GNU计划的一部分](https://zh.wikipedia.org/wiki/GNU计划 "wikilink")。自2019年2月6日起，GTK+改名为GTK。\[1\]
+****（原名****）最初是[GIMP](../Page/GIMP.md "wikilink")的专用开发库（），后来发展为[Unix-like系統下开发](https://zh.wikipedia.org/wiki/Unix-like "wikilink")[图形界面的应用程序的主流开发工具之一](https://zh.wikipedia.org/wiki/图形界面 "wikilink")。GTK是[自由软件](../Page/自由软件.md "wikilink")，并且是[GNU计划的一部分](https://zh.wikipedia.org/wiki/GNU计划 "wikilink")。自2019年2月6日起，GTK+改名为GTK。\[1\]
 
 ## 编程语言
 
-GTK使用[C语言开发](https://zh.wikipedia.org/wiki/C语言 "wikilink")，但是其设计者使用面向对象技术。也提供了[C++](../Page/C++.md "wikilink")（[gtkmm](https://zh.wikipedia.org/wiki/gtkmm "wikilink")）、[Perl](../Page/Perl.md "wikilink")、[Ruby](../Page/Ruby.md "wikilink")、[Java和](../Page/Java.md "wikilink")[Python](../Page/Python.md "wikilink")（PyGTK）绑定，其他的绑定有[Ada](../Page/Ada.md "wikilink")、[D](../Page/D語言.md "wikilink")、[Haskell](../Page/Haskell.md "wikilink")、[PHP和所有的](../Page/PHP.md "wikilink")[.NET编程语言](https://zh.wikipedia.org/wiki/.NET "wikilink")。
+GTK使用[C语言开发](https://zh.wikipedia.org/wiki/C语言 "wikilink")，但是其设计者使用面向对象技术。也提供了[C++](../Page/C++.md "wikilink")（[gtkmm](https://zh.wikipedia.org/wiki/gtkmm "wikilink")）、[Perl](../Page/Perl.md "wikilink")、[Ruby](../Page/Ruby.md "wikilink")、[Java](../Page/Java.md "wikilink")和[Python](../Page/Python.md "wikilink")（PyGTK）绑定，其他的绑定有[Ada](../Page/Ada.md "wikilink")、[D](../Page/D語言.md "wikilink")、[Haskell](../Page/Haskell.md "wikilink")、[PHP](../Page/PHP.md "wikilink")和所有的[.NET编程语言](https://zh.wikipedia.org/wiki/.NET "wikilink")。
 
-与其他很多[部件工具箱不同](../Page/部件工具箱.md "wikilink")，GTK并不基于[Xt](https://zh.wikipedia.org/wiki/Xt "wikilink")。这一决策优劣互见：优点是GTK可以应用于其他系统，其灵活性也很强；而缺点就是它无法利用以传统方法为[X11定制的X资源数据库](https://zh.wikipedia.org/wiki/X11 "wikilink")。GTK最早應用於X
-Window System，如今已移植至其他平台，諸如[Microsoft
-Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[DirectFB](https://zh.wikipedia.org/wiki/DirectFB "wikilink")，以及[Quartz在](https://zh.wikipedia.org/wiki/Quartz "wikilink")[Mac
-OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink").
+与其他很多[部件工具箱](../Page/部件工具箱.md "wikilink")不同，GTK并不基于[Xt](https://zh.wikipedia.org/wiki/Xt "wikilink")。这一决策优劣互见：优点是GTK可以应用于其他系统，其灵活性也很强；而缺点就是它无法利用以传统方法为[X11定制的X资源数据库](https://zh.wikipedia.org/wiki/X11 "wikilink")。GTK最早應用於X Window System，如今已移植至其他平台，諸如[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[DirectFB](https://zh.wikipedia.org/wiki/DirectFB "wikilink")，以及[Quartz在](https://zh.wikipedia.org/wiki/Quartz "wikilink")[Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink").
 
-[Glade是一个界面设计工具](../Page/Glade.md "wikilink")，但是它也包含了一种描述GUI界面的[XML语言](../Page/XML.md "wikilink")，它和[libglade一起工作就可以直接使用GTK和GNOME控件](https://zh.wikipedia.org/wiki/libglade "wikilink")；新的Glade-3不再直接支持生成编程语言[源代码](../Page/源代码.md "wikilink")。
+[Glade](../Page/Glade.md "wikilink")是一个界面设计工具，但是它也包含了一种描述GUI界面的[XML](../Page/XML.md "wikilink")语言，它和[libglade一起工作就可以直接使用GTK和GNOME控件](https://zh.wikipedia.org/wiki/libglade "wikilink")；新的Glade-3不再直接支持生成编程语言[源代码](../Page/源代码.md "wikilink")。
 
 ## 外观和视觉
 
-提供不同的显示引擎使得最终用户可以定制外观和视觉。目前已经有一些可以模仿其他流行的平台或者工具箱（例如[Windows
-95](../Page/Windows_95.md "wikilink")、[Motif](../Page/Motif.md "wikilink")、[Qt或者](../Page/Qt.md "wikilink")[NEXTSTEP](https://zh.wikipedia.org/wiki/NEXTSTEP "wikilink")）的引擎。
+提供不同的显示引擎使得最终用户可以定制外观和视觉。目前已经有一些可以模仿其他流行的平台或者工具箱（例如[Windows 95](../Page/Windows_95.md "wikilink")、[Motif](../Page/Motif.md "wikilink")、[Qt](../Page/Qt.md "wikilink")或者[NEXTSTEP](https://zh.wikipedia.org/wiki/NEXTSTEP "wikilink")）的引擎。
 
-[gimp2-2.png](https://zh.wikipedia.org/wiki/File:gimp2-2.png "fig:gimp2-2.png")上的[GIMP](../Page/GIMP.md "wikilink")
-2.0的快照\]\]
+[gimp2-2.png](https://zh.wikipedia.org/wiki/File:gimp2-2.png "fig:gimp2-2.png")上的[GIMP](../Page/GIMP.md "wikilink") 2.0的快照\]\]
 
 ## 使用
 
@@ -25,21 +20,18 @@ OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink").
 
 <!-- end list -->
 
-  - [GNOME是以GTK為基礎](../Page/GNOME.md "wikilink")，就是說為GNOME編寫的程式使用GTK做為其工具箱。
-  - [Xfce也基於GTK](../Page/Xfce.md "wikilink")，但是它的應用程式並不對很多其他程式有依賴。（這就是"GNOME程式"和"GTK程式"的不同。）
-  - [LXDE也基於GTK](../Page/LXDE.md "wikilink")，一個盡可能減少套件相依性的桌面環境。
-  - [GPE](../Page/GPE.md "wikilink")
-    Palmtop環境和[Nokia的](https://zh.wikipedia.org/wiki/Nokia "wikilink")[互聯網](https://zh.wikipedia.org/wiki/互聯網 "wikilink")[平板電腦的框架](../Page/平板電腦.md "wikilink")[Maemo基於GTK](../Page/Maemo.md "wikilink")。
+  - [GNOME](../Page/GNOME.md "wikilink")是以GTK為基礎，就是說為GNOME編寫的程式使用GTK做為其工具箱。
+  - [Xfce](../Page/Xfce.md "wikilink")也基於GTK，但是它的應用程式並不對很多其他程式有依賴。（這就是"GNOME程式"和"GTK程式"的不同。）
+  - [LXDE](../Page/LXDE.md "wikilink")也基於GTK，一個盡可能減少套件相依性的桌面環境。
+  - [GPE](../Page/GPE.md "wikilink") Palmtop環境和[Nokia的](https://zh.wikipedia.org/wiki/Nokia "wikilink")[互聯網](https://zh.wikipedia.org/wiki/互聯網 "wikilink")[平板電腦](../Page/平板電腦.md "wikilink")的框架[Maemo](../Page/Maemo.md "wikilink")基於GTK。
 
-這只是一部分，另外，GTK也可以運行在[KDE的環境下](../Page/KDE.md "wikilink")。而且GTK也可以在[Microsoft
-Windows運行](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，另外還有[DirectFB和](https://zh.wikipedia.org/wiki/DirectFB "wikilink")[ncurses](https://zh.wikipedia.org/wiki/ncurses "wikilink")。
+這只是一部分，另外，GTK也可以運行在[KDE](../Page/KDE.md "wikilink")的環境下。而且GTK也可以在[Microsoft Windows運行](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，另外還有[DirectFB和](https://zh.wikipedia.org/wiki/DirectFB "wikilink")[ncurses](https://zh.wikipedia.org/wiki/ncurses "wikilink")。
 
   - 使用GTK的窗口管理器
 
 <!-- end list -->
 
-  - [Metacity和](../Page/Metacity.md "wikilink")[Xfwm4使用GTK](https://zh.wikipedia.org/wiki/Xfwm4 "wikilink")
-    2.
+  - [Metacity](../Page/Metacity.md "wikilink")和[Xfwm4使用GTK](https://zh.wikipedia.org/wiki/Xfwm4 "wikilink") 2.
 
 ### GTK应用程序
 
@@ -49,8 +41,7 @@ Windows運行](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，另
   - [Geany](../Page/Geany.md "wikilink")－代码编辑器
   - [GIMP](../Page/GIMP.md "wikilink")－类似于[Photoshop的图像处理程序](https://zh.wikipedia.org/wiki/Photoshop "wikilink")
   - [Inkscape](../Page/Inkscape.md "wikilink")－类似于[Illustrator](https://zh.wikipedia.org/wiki/Illustrator "wikilink")、[CorelDraw的矢量图形绘制工具](https://zh.wikipedia.org/wiki/CorelDraw "wikilink")
-  - [Pidgin](../Page/Pidgin.md "wikilink")－支持多种协议（IRC、Gtalk、Yahoo
-    Talk、MSN等等）的聊天工具
+  - [Pidgin](../Page/Pidgin.md "wikilink")－支持多种协议（IRC、Gtalk、Yahoo Talk、MSN等等）的聊天工具
   - [gcin](https://zh.wikipedia.org/wiki/gcin "wikilink")－一種在Linux、Windows系統上常見的輸入法平台
 
 ## 版本歷史
@@ -172,17 +163,13 @@ GtkBuilder has gained support for text tags and menu toolbuttons and many intros
 
 ## 图形无关代码
 
-最初GTK包括一些和图形无关的常规功能，如[链表和](../Page/链表.md "wikilink")[二叉树等](../Page/二叉树.md "wikilink")[数据结构](../Page/数据结构.md "wikilink")。这些基本功能和对象系统GObject已经合并到独立的[库](../Page/函式庫.md "wikilink")[Glib](https://zh.wikipedia.org/wiki/Glib "wikilink")，它被程序员专门用于开发不需要[图形界面的代码](https://zh.wikipedia.org/wiki/图形界面 "wikilink")。
+最初GTK包括一些和图形无关的常规功能，如[链表](../Page/链表.md "wikilink")和[二叉树](../Page/二叉树.md "wikilink")等[数据结构](../Page/数据结构.md "wikilink")。这些基本功能和对象系统GObject已经合并到独立的[库](../Page/函式庫.md "wikilink")[Glib](https://zh.wikipedia.org/wiki/Glib "wikilink")，它被程序员专门用于开发不需要[图形界面的代码](https://zh.wikipedia.org/wiki/图形界面 "wikilink")。
 
 ## GTK 2
 
-2002年3月11日，GTK2.0版正式发布。GTK
-2是GTK后继版本，其新特性包括使用[Pango改进的文本渲染](../Page/Pango.md "wikilink")、新主题引擎、使用[ATK改进的可达性](https://zh.wikipedia.org/wiki/ATK "wikilink")、完全转换到使用[UTF-8的](../Page/UTF-8.md "wikilink")[Unicode和更灵活的](https://zh.wikipedia.org/wiki/Unicode "wikilink")[API](https://zh.wikipedia.org/wiki/API "wikilink")。但是它和GTK
-1不完全兼容，因此必须由程序员做移植工作。由于GTK
-1更快、相对更简单或更加适合[嵌入式应用](https://zh.wikipedia.org/wiki/嵌入式应用 "wikilink")，所以还被继续使用。
+2002年3月11日，GTK2.0版正式发布。GTK 2是GTK后继版本，其新特性包括使用[Pango](../Page/Pango.md "wikilink")改进的文本渲染、新主题引擎、使用[ATK改进的可达性](https://zh.wikipedia.org/wiki/ATK "wikilink")、完全转换到使用[UTF-8](../Page/UTF-8.md "wikilink")的[Unicode和更灵活的](https://zh.wikipedia.org/wiki/Unicode "wikilink")[API](https://zh.wikipedia.org/wiki/API "wikilink")。但是它和GTK 1不完全兼容，因此必须由程序员做移植工作。由于GTK 1更快、相对更简单或更加适合[嵌入式应用](https://zh.wikipedia.org/wiki/嵌入式应用 "wikilink")，所以还被继续使用。
 
-从GTK
-2的2.8版起，它依靠[程式庫](https://zh.wikipedia.org/wiki/程式庫 "wikilink")[Cairo完成](../Page/Cairo.md "wikilink")[渲染](../Page/渲染.md "wikilink")，而这引入了[矢量图形的支持](../Page/矢量图形.md "wikilink")。
+从GTK 2的2.8版起，它依靠[程式庫](https://zh.wikipedia.org/wiki/程式庫 "wikilink")[Cairo](../Page/Cairo.md "wikilink")完成[渲染](../Page/渲染.md "wikilink")，而这引入了[矢量图形](../Page/矢量图形.md "wikilink")的支持。
 
 ## 发展
 
@@ -190,9 +177,7 @@ GtkBuilder has gained support for text tags and menu toolbuttons and many intros
 
 ## GTK hello world
 
-GTK [hello
-world以C撰写](https://zh.wikipedia.org/wiki/hello_world "wikilink")，本程序含有窗口，标题是"Hello,
-World".
+GTK [hello world以C撰写](https://zh.wikipedia.org/wiki/hello_world "wikilink")，本程序含有窗口，标题是"Hello, World".
 
 ``` c
  #include <gtk/gtk.h>
@@ -235,14 +220,11 @@ World".
 
 ## GTK Runtime Environment for Windows
 
-由於GTK主要是作為Unix-like系統底下的介面，在Windows使用該系統所開發的軟體時就需要用到GTK執行環境，即GTK Runtime
-Environment for
-Windows。這個軟體與GTK不同的地方在於它僅僅是為了執行軟體用途而製作，以解決Windows沒有內建GTK函式庫的問題。
+由於GTK主要是作為Unix-like系統底下的介面，在Windows使用該系統所開發的軟體時就需要用到GTK執行環境，即GTK Runtime Environment for Windows。這個軟體與GTK不同的地方在於它僅僅是為了執行軟體用途而製作，以解決Windows沒有內建GTK函式庫的問題。
 
 ## 参见
 
-  - [Gtk\#](https://zh.wikipedia.org/wiki/Gtk_Sharp "wikilink")，GTK的.NET
-    API。
+  - [Gtk\#](https://zh.wikipedia.org/wiki/Gtk_Sharp "wikilink")，GTK的.NET API。
   - [PyGTK](../Page/PyGTK.md "wikilink")，GTK的Python API。
   - [Qt](../Page/Qt.md "wikilink")
   - [Motif](../Page/Motif.md "wikilink")
@@ -255,12 +237,6 @@ Windows。這個軟體與GTK不同的地方在於它僅僅是為了執行軟體�
   - [GTK主页](http://www.gtk.org)
 
   -
-[Category:应用程序接口](https://zh.wikipedia.org/wiki/Category:应用程序接口 "wikilink")
-[Category:GNU](https://zh.wikipedia.org/wiki/Category:GNU "wikilink")
-[Category:GNU計劃軟體](https://zh.wikipedia.org/wiki/Category:GNU計劃軟體 "wikilink")
-[Category:使用LGPL许可证的软件](https://zh.wikipedia.org/wiki/Category:使用LGPL许可证的软件 "wikilink")
-[Category:部件工具箱](https://zh.wikipedia.org/wiki/Category:部件工具箱 "wikilink")
-[Category:软件开发](https://zh.wikipedia.org/wiki/Category:软件开发 "wikilink")
-[Category:GTK](https://zh.wikipedia.org/wiki/Category:GTK "wikilink")
+[Category:应用程序接口](https://zh.wikipedia.org/wiki/Category:应用程序接口 "wikilink") [Category:GNU](https://zh.wikipedia.org/wiki/Category:GNU "wikilink") [Category:GNU計劃軟體](https://zh.wikipedia.org/wiki/Category:GNU計劃軟體 "wikilink") [Category:使用LGPL许可证的软件](https://zh.wikipedia.org/wiki/Category:使用LGPL许可证的软件 "wikilink") [Category:部件工具箱](https://zh.wikipedia.org/wiki/Category:部件工具箱 "wikilink") [Category:软件开发](https://zh.wikipedia.org/wiki/Category:软件开发 "wikilink") [Category:GTK](https://zh.wikipedia.org/wiki/Category:GTK "wikilink")
 
 1.

@@ -1,19 +1,14 @@
-**JScript**是由[微软公司开发的動態脚本语言](../Page/微软.md "wikilink")，是微软对[ECMAScript规范的实现](../Page/ECMAScript.md "wikilink")\[1\]。
+**JScript**是由[微软](../Page/微软.md "wikilink")公司开发的動態脚本语言，是微软对[ECMAScript](../Page/ECMAScript.md "wikilink")规范的实现\[1\]。
 
-JScript最初随[Internet Explorer
-3.0于](https://zh.wikipedia.org/wiki/Internet_Explorer_3.0 "wikilink")1996年8月发布。在网络程序员谈论[Internet
-Explorer中的](../Page/Internet_Explorer.md "wikilink")[JavaScript的时候](../Page/JavaScript.md "wikilink")，他们实际上是指JScript。和其他活动脚本一样，它后来也被[Windows
-Script Host和](../Page/Windows_Script_Host.md "wikilink")[Active Server
-Pages所支持](../Page/Active_Server_Pages.md "wikilink")\[2\]。典型的JScript源文件使用的[扩展名是](https://zh.wikipedia.org/wiki/扩展名 "wikilink")`.js`。
+JScript最初随[Internet Explorer 3.0于](https://zh.wikipedia.org/wiki/Internet_Explorer_3.0 "wikilink")1996年8月发布。在网络程序员谈论[Internet Explorer中的](../Page/Internet_Explorer.md "wikilink")[JavaScript](../Page/JavaScript.md "wikilink")的时候，他们实际上是指JScript。和其他活动脚本一样，它后来也被[Windows Script Host和](../Page/Windows_Script_Host.md "wikilink")[Active Server Pages所支持](../Page/Active_Server_Pages.md "wikilink")\[2\]。典型的JScript源文件使用的[扩展名是](https://zh.wikipedia.org/wiki/扩展名 "wikilink")`.js`。
 
-JScript最新的版本是基于尚未定稿的ECMAScript 4.0版规范的[JScript
-.NET](../Page/JScript_.NET.md "wikilink")，并且可以在微软的[.Net环境下编译](https://zh.wikipedia.org/wiki/.Net "wikilink")。JScript在ECMA的规范上增加了许多特性。
+JScript最新的版本是基于尚未定稿的ECMAScript 4.0版规范的[JScript .NET](../Page/JScript_.NET.md "wikilink")，并且可以在微软的[.Net环境下编译](https://zh.wikipedia.org/wiki/.Net "wikilink")。JScript在ECMA的规范上增加了许多特性。
 
 ## 版本
 
 ### JScript
 
-| 版本  | 發佈日期     | 實現\[3\]                                                                                                                                                         | 基於                                                                                    | 類似的[JavaScript版本](../Page/JavaScript.md "wikilink") |
+| 版本  | 發佈日期     | 實現\[3\]                                                                                                                                                         | 基於                                                                                    | 類似的[JavaScript](../Page/JavaScript.md "wikilink")版本 |
 | --- | -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | --------------------------------------------------- |
 | 1.0 | 1996年8月  | [Internet Explorer 3.0](https://zh.wikipedia.org/wiki/Internet_Explorer_3.0 "wikilink")                                                                         | Netscape JavaScript                                                                   | 1.0                                                 |
 | 2.0 | 1997年1月  | [Windows IIS](https://zh.wikipedia.org/wiki/Internet_Information_Services "wikilink") 3.0                                                                       | Netscape JavaScript                                                                   | 1.1                                                 |
@@ -47,9 +42,7 @@ JScript最新的版本是基于尚未定稿的ECMAScript 4.0版规范的[JScript
 
 {{-}}
 
-[Category:Internet_Explorer](https://zh.wikipedia.org/wiki/Category:Internet_Explorer "wikilink")
-[Category:基於對象的程式語言](https://zh.wikipedia.org/wiki/Category:基於對象的程式語言 "wikilink")
-[Category:脚本语言](https://zh.wikipedia.org/wiki/Category:脚本语言 "wikilink")
+[Category:Internet_Explorer](https://zh.wikipedia.org/wiki/Category:Internet_Explorer "wikilink") [Category:基於對象的程式語言](https://zh.wikipedia.org/wiki/Category:基於對象的程式語言 "wikilink") [Category:脚本语言](https://zh.wikipedia.org/wiki/Category:脚本语言 "wikilink")
 
 1.
 2.

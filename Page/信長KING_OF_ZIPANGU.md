@@ -1,13 +1,10 @@
-《**信長 KING OF
-ZIPANGU**》（****，****），是[NHK在](https://zh.wikipedia.org/wiki/NHK "wikilink")1992年1月5日—12月13日製播放送的第30部[大河劇](../Page/NHK大河劇.md "wikilink")。
+《**信長 KING OF ZIPANGU**》（****，****），是[NHK在](https://zh.wikipedia.org/wiki/NHK "wikilink")1992年1月5日—12月13日製播放送的第30部[大河劇](../Page/NHK大河劇.md "wikilink")。
 
-本劇是以[葡萄牙傳教士](../Page/葡萄牙.md "wikilink")[路易斯·弗洛伊斯的角度來闡述織田信長的一生](../Page/路易斯·弗洛伊斯.md "wikilink")，劇中以一個帶有洋腔的外國人用日文來當本劇的旁白，並於每一集終結時說一句
-"Ate breve\!
-Obrigado\!"（[葡萄牙語](https://zh.wikipedia.org/wiki/葡萄牙語 "wikilink")，約為「下回再見！謝謝！」）。在大河劇歷史上，可算是相當特別。
+本劇是以[葡萄牙](../Page/葡萄牙.md "wikilink")傳教士[路易斯·弗洛伊斯](../Page/路易斯·弗洛伊斯.md "wikilink")的角度來闡述織田信長的一生，劇中以一個帶有洋腔的外國人用日文來當本劇的旁白，並於每一集終結時說一句 "Ate breve\! Obrigado\!"（[葡萄牙語](https://zh.wikipedia.org/wiki/葡萄牙語 "wikilink")，約為「下回再見！謝謝！」）。在大河劇歷史上，可算是相當特別。
 
 本劇編劇田向正健之前曾編過「武田信玄」一劇，在當時創下很高的收視率；而本劇的主角演員如緒形直人、菊池桃子等等都是當時偶像級的演員。儘管本劇起用了高收視編劇與人氣偶像，而且劇本較傾向史實而非一般流行的俗說（像是平手政秀切腹一節，並不採通行的死諫說，而是採因過失被命自殺；而扮演信長的緒形直人也是長得較像流傳畫像的信長，也不如一般小說描寫的信長有英氣），以及戲劇中畫面陰暗、描寫虛構術士「隨天」裝神弄鬼部份甚多。因此本劇在一般評價部份，被大打折扣。
 
-台灣於1999年引進本劇，由[緯來日本台播出](../Page/緯來日本台.md "wikilink")，在當時片名被改為《**織田信長**》。
+台灣於1999年引進本劇，由[緯來日本台](../Page/緯來日本台.md "wikilink")播出，在當時片名被改為《**織田信長**》。
 
 ## 製作人員
 
@@ -215,9 +212,4 @@ Obrigado\!"（[葡萄牙語](https://zh.wikipedia.org/wiki/葡萄牙語 "wikilin
 2.  天下布武
 3.  本能寺之變
 
-[Category:1992年日本電視劇集](https://zh.wikipedia.org/wiki/Category:1992年日本電視劇集 "wikilink")
-[Category:日本小說改編電視劇](https://zh.wikipedia.org/wiki/Category:日本小說改編電視劇 "wikilink")
-[Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink")
-[Category:織田信長題材作品](https://zh.wikipedia.org/wiki/Category:織田信長題材作品 "wikilink")
-[Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink")
-[Category:兄弟謀殺相關作品](https://zh.wikipedia.org/wiki/Category:兄弟謀殺相關作品 "wikilink")
+[Category:1992年日本電視劇集](https://zh.wikipedia.org/wiki/Category:1992年日本電視劇集 "wikilink") [Category:日本小說改編電視劇](https://zh.wikipedia.org/wiki/Category:日本小說改編電視劇 "wikilink") [Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink") [Category:織田信長題材作品](https://zh.wikipedia.org/wiki/Category:織田信長題材作品 "wikilink") [Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink") [Category:兄弟謀殺相關作品](https://zh.wikipedia.org/wiki/Category:兄弟謀殺相關作品 "wikilink")

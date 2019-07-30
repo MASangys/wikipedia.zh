@@ -1,11 +1,8 @@
-**TrackBack**是一种[网络日誌应用工具](https://zh.wikipedia.org/wiki/网络日誌 "wikilink")，它可以让[網誌作者知道自己的文章的读者中有哪些人撰写哪些与之有关的文章](../Page/網誌作者.md "wikilink")。在[Movable
-Type和](../Page/Movable_Type.md "wikilink")[WordPress软件中](../Page/WordPress.md "wikilink")，包含有该功能。该功能通过在评论中显示引用者的文章链接和评论内容，实现了网站之间的互相通告；实现了网志间的沟通互动，使得更多人加入关于一个主题的讨论\[1\]。
+**TrackBack**是一种[网络日誌应用工具](https://zh.wikipedia.org/wiki/网络日誌 "wikilink")，它可以让[網誌作者](../Page/網誌作者.md "wikilink")知道自己的文章的读者中有哪些人撰写哪些与之有关的文章。在[Movable Type和](../Page/Movable_Type.md "wikilink")[WordPress](../Page/WordPress.md "wikilink")软件中，包含有该功能。该功能通过在评论中显示引用者的文章链接和评论内容，实现了网站之间的互相通告；实现了网志间的沟通互动，使得更多人加入关于一个主题的讨论\[1\]。
 
 TrackBack功能一般出现在一个網誌文章的下方，同时会显示对方網誌的摘要信息、[URL和網誌标题](https://zh.wikipedia.org/wiki/URL "wikilink")。
 
-TrackBack规范由[Six
-Apart在](https://zh.wikipedia.org/wiki/Six_Apart "wikilink")2000年制订，並在[Movable
-Type](../Page/Movable_Type.md "wikilink") 2.2中予以实现。
+TrackBack规范由[Six Apart在](https://zh.wikipedia.org/wiki/Six_Apart "wikilink")2000年制订，並在[Movable Type](../Page/Movable_Type.md "wikilink") 2.2中予以实现。
 
 ## 中文譯名
 

@@ -1,9 +1,8 @@
-**D**,
-**d**是[拉丁字母中的第](../Page/拉丁字母.md "wikilink")4个[字母](../Page/字母.md "wikilink")。
+**D**, **d**是[拉丁字母](../Page/拉丁字母.md "wikilink")中的第4个[字母](../Page/字母.md "wikilink")。
 
 [D_cursiva.gif](https://zh.wikipedia.org/wiki/File:D_cursiva.gif "fig:D_cursiva.gif")
 
-[闪族语的](https://zh.wikipedia.org/wiki/闪族语 "wikilink")可能是从[雨或](../Page/雨.md "wikilink")[门的缩略图中发展而来的](https://zh.wikipedia.org/wiki/门 "wikilink")。
+[闪族语的](https://zh.wikipedia.org/wiki/闪族语 "wikilink")可能是从[雨](../Page/雨.md "wikilink")或[门的缩略图中发展而来的](https://zh.wikipedia.org/wiki/门 "wikilink")。
 
 ## 字母D的含意
 
@@ -30,9 +29,9 @@
 
 ### 其他字母中的相近字母
 
-  - （[希腊字母Delta](../Page/希腊字母.md "wikilink")）
+  - （[希腊字母](../Page/希腊字母.md "wikilink")Delta）
 
-  - （[西里尔字母De](../Page/西里尔字母.md "wikilink")）
+  - （[西里尔字母](../Page/西里尔字母.md "wikilink")De）
 
 ## 其他
 

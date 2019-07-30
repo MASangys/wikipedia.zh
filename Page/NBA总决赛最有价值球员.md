@@ -1,5 +1,4 @@
-**比尔·拉塞尔NBA总决赛最有价值球员奖**（**Bill Russell NBA Finals Most Valuable Player
-Award**），原名NBA总决赛最有价值球员奖，是從1968-69球季開始，授予在每年度[NBA](../Page/NBA.md "wikilink")[总决赛中表现最突出的球员的奖项](https://zh.wikipedia.org/wiki/NBA总决赛 "wikilink")，通常该奖项都授予获得总冠军的球队的成员。这个奖项是由一个小组投票决定的，这个小组由9位媒体成员组成，他们根据总决赛系列赛的比赛中球员的表现进行投票，获得最高分的球员将获得该奖项。至少有一次NBA总决赛MVP的评选中，球迷是可以在NBA网站上进行投票，票选结果作为第10票计入了最终的结果（注：不容许同时投票给两位球员）。2009年2月14日，在菲尼克斯举办2009年NBA全明星周末的间隙，NBA总裁[大卫·斯特恩宣布](../Page/大卫·斯特恩.md "wikilink")，NBA总决赛最有价值球员奖正式更名为“比尔·拉塞尔NBA总决赛最有价值球员奖”，以纪念[比尔·拉塞尔](../Page/比尔·拉塞尔.md "wikilink")——这位11次获得NBA总冠军的球员。
+**比尔·拉塞尔NBA总决赛最有价值球员奖**（**Bill Russell NBA Finals Most Valuable Player Award**），原名NBA总决赛最有价值球员奖，是從1968-69球季開始，授予在每年度[NBA](../Page/NBA.md "wikilink")[总决赛中表现最突出的球员的奖项](https://zh.wikipedia.org/wiki/NBA总决赛 "wikilink")，通常该奖项都授予获得总冠军的球队的成员。这个奖项是由一个小组投票决定的，这个小组由9位媒体成员组成，他们根据总决赛系列赛的比赛中球员的表现进行投票，获得最高分的球员将获得该奖项。至少有一次NBA总决赛MVP的评选中，球迷是可以在NBA网站上进行投票，票选结果作为第10票计入了最终的结果（注：不容许同时投票给两位球员）。2009年2月14日，在菲尼克斯举办2009年NBA全明星周末的间隙，NBA总裁[大卫·斯特恩](../Page/大卫·斯特恩.md "wikilink")宣布，NBA总决赛最有价值球员奖正式更名为“比尔·拉塞尔NBA总决赛最有价值球员奖”，以纪念[比尔·拉塞尔](../Page/比尔·拉塞尔.md "wikilink")——这位11次获得NBA总冠军的球员。
 
 ## 圖例
 
@@ -339,7 +338,7 @@ Award**），原名NBA总决赛最有价值球员奖，是從1968-69球季開始
 </tr>
 <tr class="even">
 <td><p>2014年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/科怀·伦纳德" title="wikilink">科怀·伦纳德</a></p></td>
+<td><p><a href="../Page/科怀·伦纳德.md" title="wikilink">科怀·伦纳德</a></p></td>
 <td></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/圣安东尼奥马刺队" title="wikilink">圣安东尼奥马刺队</a></p></td>
@@ -374,7 +373,7 @@ Award**），原名NBA总决赛最有价值球员奖，是從1968-69球季開始
 </tr>
 <tr class="odd">
 <td><p>2019年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/科怀·伦纳德" title="wikilink">科怀·伦纳德</a>（2）</p></td>
+<td><p><a href="../Page/科怀·伦纳德.md" title="wikilink">科怀·伦纳德</a>（2）</p></td>
 <td></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/多倫多暴龍队" title="wikilink">多倫多暴龍队</a></p></td>
@@ -398,17 +397,17 @@ Award**），原名NBA总决赛最有价值球员奖，是從1968-69球季開始
       - [哈基姆·奥拉朱旺](../Page/哈基姆·奥拉朱旺.md "wikilink")，（1994，1995）
       - [科比·布莱恩特](../Page/科比·布莱恩特.md "wikilink")，（2009，2010）
       - [凯文·杜兰特](../Page/凯文·杜兰特.md "wikilink")，（2017，2018）
-      - [科怀·伦纳德](https://zh.wikipedia.org/wiki/科怀·伦纳德 "wikilink")，（2014，2019）
+      - [科怀·伦纳德](../Page/科怀·伦纳德.md "wikilink")，（2014，2019）
   - 代表两支不同的球队拿到总决赛最有价值球员奖的球员共三位，分别是：
       - [卡里姆·阿卜杜勒·贾巴尔](https://zh.wikipedia.org/wiki/卡里姆·阿卜杜勒·贾巴尔 "wikilink")，1971年代表[密尔沃基雄鹿队](https://zh.wikipedia.org/wiki/密尔沃基雄鹿队 "wikilink")、1985年代表[洛杉矶湖人队](https://zh.wikipedia.org/wiki/洛杉矶湖人队 "wikilink")
       - [雷霸龍·詹姆士](https://zh.wikipedia.org/wiki/雷霸龍·詹姆士 "wikilink")，2012和2013年代表[迈阿密热火队](https://zh.wikipedia.org/wiki/迈阿密热火队 "wikilink")、2016年代表[克利夫兰骑士队](https://zh.wikipedia.org/wiki/克利夫兰骑士队 "wikilink")
-      - [科怀·伦纳德](https://zh.wikipedia.org/wiki/科怀·伦纳德 "wikilink")，2014年代表[圣安东尼奥马刺队](https://zh.wikipedia.org/wiki/圣安东尼奥马刺队 "wikilink")、2019年代表[多伦多猛龙队](https://zh.wikipedia.org/wiki/多伦多猛龙队 "wikilink")
+      - [科怀·伦纳德](../Page/科怀·伦纳德.md "wikilink")，2014年代表[圣安东尼奥马刺队](https://zh.wikipedia.org/wiki/圣安东尼奥马刺队 "wikilink")、2019年代表[多伦多猛龙队](https://zh.wikipedia.org/wiki/多伦多猛龙队 "wikilink")
   - [1980年](../Page/1980年.md "wikilink")，[埃尔文·约翰逊获得该奖项](https://zh.wikipedia.org/wiki/埃尔文·约翰逊 "wikilink")，成为历史上最年轻的获奖者（20岁276天）。
   - [1982年](../Page/1982年.md "wikilink")，[埃尔文·约翰逊再次获得该奖项](https://zh.wikipedia.org/wiki/埃尔文·约翰逊 "wikilink")，成为历史上最二年轻的获奖者（22岁298天）。
-  - [2014年](https://zh.wikipedia.org/wiki/2014年NBA总决赛 "wikilink")，[科怀·伦纳德获得该奖项](https://zh.wikipedia.org/wiki/科怀·伦纳德 "wikilink")，成为历史上最三年轻的获奖者（22岁351天）。
-  - [2007年](../Page/2007年NBA总决赛.md "wikilink")，[托尼·帕克是首位获得该奖项的欧洲球员](../Page/托尼·帕克.md "wikilink")。
-  - [2011年](https://zh.wikipedia.org/wiki/2011年NBA总决赛 "wikilink")，[德克·诺维茨基是第二位獲得該獎項的歐洲球員](../Page/德克·诺维茨基.md "wikilink")。
-  - [2015年](https://zh.wikipedia.org/wiki/2015年NBA总决赛 "wikilink")，[安德烈·伊格达拉是唯一在例行賽全無先發過卻拿到FMVP的球員](../Page/安德烈·伊格达拉.md "wikilink")。
+  - [2014年](https://zh.wikipedia.org/wiki/2014年NBA总决赛 "wikilink")，[科怀·伦纳德](../Page/科怀·伦纳德.md "wikilink")获得该奖项，成为历史上最三年轻的获奖者（22岁351天）。
+  - [2007年](../Page/2007年NBA总决赛.md "wikilink")，[托尼·帕克](../Page/托尼·帕克.md "wikilink")是首位获得该奖项的欧洲球员。
+  - [2011年](https://zh.wikipedia.org/wiki/2011年NBA总决赛 "wikilink")，[德克·诺维茨基](../Page/德克·诺维茨基.md "wikilink")是第二位獲得該獎項的歐洲球員。
+  - [2015年](https://zh.wikipedia.org/wiki/2015年NBA总决赛 "wikilink")，[安德烈·伊格达拉](../Page/安德烈·伊格达拉.md "wikilink")是唯一在例行賽全無先發過卻拿到FMVP的球員。
   - [2019年](https://zh.wikipedia.org/wiki/2019年NBA总决赛 "wikilink")，[科懷·倫納德唯一一位分別在東西區的球隊贏得決賽MVP的球員](https://zh.wikipedia.org/wiki/科懷·倫納德 "wikilink")。
 
 ## 参见
@@ -430,6 +429,4 @@ Award**），原名NBA总决赛最有价值球员奖，是從1968-69球季開始
 
   - 細節
 
-[Category:NBA总决赛](https://zh.wikipedia.org/wiki/Category:NBA总决赛 "wikilink")
-[Category:NBA獎項](https://zh.wikipedia.org/wiki/Category:NBA獎項 "wikilink")
-[Category:最有价值球员](https://zh.wikipedia.org/wiki/Category:最有价值球员 "wikilink")
+[Category:NBA总决赛](https://zh.wikipedia.org/wiki/Category:NBA总决赛 "wikilink") [Category:NBA獎項](https://zh.wikipedia.org/wiki/Category:NBA獎項 "wikilink") [Category:最有价值球员](https://zh.wikipedia.org/wiki/Category:最有价值球员 "wikilink")

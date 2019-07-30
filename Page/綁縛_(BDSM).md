@@ -1,31 +1,26 @@
-[Spreizstange_(Bondage).jpg](https://zh.wikipedia.org/wiki/File:Spreizstange_\(Bondage\).jpg "fig:Spreizstange_(Bondage).jpg")
-[Leather,_Latex,_and_BDSM_pride_-_Light.svg](https://zh.wikipedia.org/wiki/File:Leather,_Latex,_and_BDSM_pride_-_Light.svg "fig:Leather,_Latex,_and_BDSM_pride_-_Light.svg")\]\]
-**绑缚**是一種人類性活動，以綑綁等約束肢體的方式來達到愉悅感。这是虐恋活动最常见的行为，也是最典型的活动。虐恋活动中，施虐者使用绳索、[手銬](https://zh.wikipedia.org/wiki/手銬#情趣手銬與玩具手銬 "wikilink")、脚镣、枷锁、铁链等用具捆绑、束缚受虐者，造成受虐者无法自由活动，再对被缚的受虐者施加其他项目。
+[Spreizstange_(Bondage).jpg](https://zh.wikipedia.org/wiki/File:Spreizstange_\(Bondage\).jpg "fig:Spreizstange_(Bondage).jpg") [Leather,_Latex,_and_BDSM_pride_-_Light.svg](https://zh.wikipedia.org/wiki/File:Leather,_Latex,_and_BDSM_pride_-_Light.svg "fig:Leather,_Latex,_and_BDSM_pride_-_Light.svg")\]\] **绑缚**是一種人類性活動，以綑綁等約束肢體的方式來達到愉悅感。这是虐恋活动最常见的行为，也是最典型的活动。虐恋活动中，施虐者使用绳索、[手銬](https://zh.wikipedia.org/wiki/手銬#情趣手銬與玩具手銬 "wikilink")、脚镣、枷锁、铁链等用具捆绑、束缚受虐者，造成受虐者无法自由活动，再对被缚的受虐者施加其他项目。
 
-绳索捆绑的手法多种多样，除了简单的捆绑手腕之外，还有更多复杂的绑法，最常用的主要有中式的五花大绑、[日式绑缚和欧式绑缚等](../Page/日式绑缚.md "wikilink")，每一种绑法都有很多的种类。甚至有的手法还拥有专门的名称和教学资料，绑缚爱好者社群通常会聚会举办活动，来相互交流、切磋各种捆绑方法。
+绳索捆绑的手法多种多样，除了简单的捆绑手腕之外，还有更多复杂的绑法，最常用的主要有中式的五花大绑、[日式绑缚](../Page/日式绑缚.md "wikilink")和欧式绑缚等，每一种绑法都有很多的种类。甚至有的手法还拥有专门的名称和教学资料，绑缚爱好者社群通常会聚会举办活动，来相互交流、切磋各种捆绑方法。
 
-现在的虐恋行为一般不进行其他项目，单纯只是实施捆绑，施虐者和受虐者着衣普通，并不暴露。单纯以交流捆绑手法、欣赏其艺术表现为目的，通常称作“绳艺”，各地有出现专门的绳艺摄影工作室，来拍摄与绳艺有关的[图片](https://zh.wikipedia.org/wiki/图片 "wikilink")、[视频或者](../Page/视频.md "wikilink")[影视剧](https://zh.wikipedia.org/wiki/影视 "wikilink")。有一些虐恋者因为担心安全问题或者不想暴露自己的爱好，而实施[自我绑缚](https://zh.wikipedia.org/wiki/自我绑缚 "wikilink")，不需要另一个人的帮助。
+现在的虐恋行为一般不进行其他项目，单纯只是实施捆绑，施虐者和受虐者着衣普通，并不暴露。单纯以交流捆绑手法、欣赏其艺术表现为目的，通常称作“绳艺”，各地有出现专门的绳艺摄影工作室，来拍摄与绳艺有关的[图片](https://zh.wikipedia.org/wiki/图片 "wikilink")、[视频](../Page/视频.md "wikilink")或者[影视剧](https://zh.wikipedia.org/wiki/影视 "wikilink")。有一些虐恋者因为担心安全问题或者不想暴露自己的爱好，而实施[自我绑缚](https://zh.wikipedia.org/wiki/自我绑缚 "wikilink")，不需要另一个人的帮助。
 
 ## 相关联系
 
-在美國的研究顯示，大約有一半的[男人覺得將人綁縛起來聽起來是](https://zh.wikipedia.org/wiki/男人 "wikilink")[情色的](../Page/情色.md "wikilink")，許多女人也如此認為。不過，就如同任何關於性想法與性行為的研究一樣，目前可得的研究資料操作得並非很好，而一些做得最好的研究則已經過時，绑缚行为现在以非情色的方式为主，变得纯粹是一种爱好而已。
+在美國的研究顯示，大約有一半的[男人覺得將人綁縛起來聽起來是](https://zh.wikipedia.org/wiki/男人 "wikilink")[情色](../Page/情色.md "wikilink")的，許多女人也如此認為。不過，就如同任何關於性想法與性行為的研究一樣，目前可得的研究資料操作得並非很好，而一些做得最好的研究則已經過時，绑缚行为现在以非情色的方式为主，变得纯粹是一种爱好而已。
 
-大眾對將緊縛作為一種个人爱好的接受程度以緩慢的速度上升，人们开始理解并且接受这种爱好。在1970年代受歡迎的主流性愛手冊《The Joy of
-Sex》一書，將緊縛視為一種正面的活動（如果時間不長的話）。[瑪丹娜出版的](https://zh.wikipedia.org/wiki/瑪丹娜 "wikilink")《Sex》一書中有被緊縛起來的裸體者圖片，這對大眾知覺並且接受緊縛具有很大的幫助。到了1990年代，緊縛可以在如《[魔法奇兵](https://zh.wikipedia.org/wiki/魔法奇兵 "wikilink")》（Buffy
-the Vampire
-Slayer）這種主流的黃金時段[電視影集中看到](https://zh.wikipedia.org/wiki/電視影集 "wikilink")，在那裡面會出現如绳索、手銬、項圈這類道具，以及安全暗號這種概念的使用。
+大眾對將緊縛作為一種个人爱好的接受程度以緩慢的速度上升，人们开始理解并且接受这种爱好。在1970年代受歡迎的主流性愛手冊《The Joy of Sex》一書，將緊縛視為一種正面的活動（如果時間不長的話）。[瑪丹娜出版的](https://zh.wikipedia.org/wiki/瑪丹娜 "wikilink")《Sex》一書中有被緊縛起來的裸體者圖片，這對大眾知覺並且接受緊縛具有很大的幫助。到了1990年代，緊縛可以在如《[魔法奇兵](https://zh.wikipedia.org/wiki/魔法奇兵 "wikilink")》（Buffy the Vampire Slayer）這種主流的黃金時段[電視影集中看到](https://zh.wikipedia.org/wiki/電視影集 "wikilink")，在那裡面會出現如绳索、手銬、項圈這類道具，以及安全暗號這種概念的使用。
 
 ## 分歧觀點
 
 不同團體對於綁縛擁有不同的觀點，在這些團體中，綁縛所扮演的社會角色與性角色都不相同，對於綁縛的界線也不一樣。這些團體包括有：
 
-  - [BDSM社群者](../Page/BDSM.md "wikilink")，他們主要將綁縛視為許多[權力交换技巧中的一種](../Page/權力.md "wikilink")。
+  - [BDSM](../Page/BDSM.md "wikilink")社群者，他們主要將綁縛視為許多[權力](../Page/權力.md "wikilink")交换技巧中的一種。
   - 绑缚爱好者将绑缚作为一种爱好，适当的捆绑或者捆绑他人会让他们感受到舒适与喜悦。
   - 伴侶，他們將緊縛視為許多性技巧中的一種。
-  - 某些人在[自慰時會](../Page/自慰.md "wikilink")[幻想緊縛的情結](https://zh.wikipedia.org/wiki/幻想 "wikilink")。
+  - 某些人在[自慰](../Page/自慰.md "wikilink")時會[幻想緊縛的情結](https://zh.wikipedia.org/wiki/幻想 "wikilink")。
   - 有些人會为了自己的爱好，而獨自進行緊縛。
 
-緊縛對兩性以及所有[性傾向的人有可能產生性刺激](https://zh.wikipedia.org/wiki/性傾向 "wikilink")。不過[男同性戀中的一個](../Page/男同性戀.md "wikilink")[次文化](../Page/次文化.md "wikilink")[皮革族](https://zh.wikipedia.org/wiki/皮革族 "wikilink")（leathermen），他們會在公眾場合表現出他們喜愛緊縛的明顯暗示，因此是否應該算在第一個團體中，是有爭議的。
+緊縛對兩性以及所有[性傾向的人有可能產生性刺激](https://zh.wikipedia.org/wiki/性傾向 "wikilink")。不過[男同性戀](../Page/男同性戀.md "wikilink")中的一個[次文化](../Page/次文化.md "wikilink")[皮革族](https://zh.wikipedia.org/wiki/皮革族 "wikilink")（leathermen），他們會在公眾場合表現出他們喜愛緊縛的明顯暗示，因此是否應該算在第一個團體中，是有爭議的。
 
 ### 拘束與伴侶
 
@@ -44,7 +39,7 @@ Slayer）這種主流的黃金時段[電視影集中看到](https://zh.wikipedia
   - 將身體與其他物體綑綁在一起的（椅子、柱子)
   - 將身體某部位吊起來的（吊绑）
   - 限制正常身體活動的（束裙、[手銬](../Page/手銬.md "wikilink")、马具）
-  - 包裹：利用布或塑料制品将整个身体包裹成[木乃伊状](../Page/木乃伊.md "wikilink")
+  - 包裹：利用布或塑料制品将整个身体包裹成[木乃伊](../Page/木乃伊.md "wikilink")状
 
 [Model_in_stringent_hogtie.jpg](https://zh.wikipedia.org/wiki/File:Model_in_stringent_hogtie.jpg "fig:Model_in_stringent_hogtie.jpg")
 
@@ -53,8 +48,8 @@ Slayer）這種主流的黃金時段[電視影集中看到](https://zh.wikipedia
   - [繩子為首要之選](https://zh.wikipedia.org/wiki/繩子 "wikilink")，因為它具有高靈活性，不需要足夠的練習與技巧都能安全使用。
   - [鐐銬](https://zh.wikipedia.org/wiki/鐐銬 "wikilink")，包含[警用手銬](https://zh.wikipedia.org/wiki/警用手銬 "wikilink")、[指銬與腹索](https://zh.wikipedia.org/wiki/指銬 "wikilink")。
   - 专门機構使用的器具，如[拘束衣](../Page/拘束衣.md "wikilink")（醫院為了拘束某些精神異常或粗暴的病患所使用的工具）
-  - 特別為綁縛活動製作的器具，像是索臂袋，[睡袋與钩子等](../Page/睡袋.md "wikilink")。
-  - 以一些日常用品充當的緊縛工具，例如以[絲襪充當繩索來進行捆綁](../Page/絲襪.md "wikilink")；或將[襪褲的一筒套於身上](https://zh.wikipedia.org/wiki/襪褲 "wikilink")（如雙手、雙腳，甚至全身）以約束身體活動。
+  - 特別為綁縛活動製作的器具，像是索臂袋，[睡袋](../Page/睡袋.md "wikilink")與钩子等。
+  - 以一些日常用品充當的緊縛工具，例如以[絲襪](../Page/絲襪.md "wikilink")充當繩索來進行捆綁；或將[襪褲的一筒套於身上](https://zh.wikipedia.org/wiki/襪褲 "wikilink")（如雙手、雙腳，甚至全身）以約束身體活動。
 
 ### 簡易綁縛技巧
 
@@ -84,16 +79,7 @@ Slayer）這種主流的黃金時段[電視影集中看到](https://zh.wikipedia
 
 ## 參考資料
 
-  - *The Seductive Art of Japanese Bondage* by
-    [Midori](https://zh.wikipedia.org/wiki/Fetish_Diva_Midori "wikilink"),
-    pub. [Greenery
-    Press](https://zh.wikipedia.org/wiki/Greenery_Press "wikilink").
-    ISBN 1890159387
-  - *Erotic Bondage Handbook* by [Jay
-    Wiseman](https://zh.wikipedia.org/wiki/Jay_Wiseman "wikilink"), pub.
-    [Greenery
-    Press](https://zh.wikipedia.org/wiki/Greenery_Press "wikilink").
-    ISBN 1890159131
+  - *The Seductive Art of Japanese Bondage* by [Midori](https://zh.wikipedia.org/wiki/Fetish_Diva_Midori "wikilink"), pub. [Greenery Press](https://zh.wikipedia.org/wiki/Greenery_Press "wikilink"). ISBN 1890159387
+  - *Erotic Bondage Handbook* by [Jay Wiseman](https://zh.wikipedia.org/wiki/Jay_Wiseman "wikilink"), pub. [Greenery Press](https://zh.wikipedia.org/wiki/Greenery_Press "wikilink"). ISBN 1890159131
 
-[Category:綁縛_(BDSM)](https://zh.wikipedia.org/wiki/Category:綁縛_\(BDSM\) "wikilink")
-[Category:BDSM術語](https://zh.wikipedia.org/wiki/Category:BDSM術語 "wikilink")
+[Category:綁縛_(BDSM)](https://zh.wikipedia.org/wiki/Category:綁縛_\(BDSM\) "wikilink") [Category:BDSM術語](https://zh.wikipedia.org/wiki/Category:BDSM術語 "wikilink")

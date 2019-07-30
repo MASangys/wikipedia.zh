@@ -1,12 +1,10 @@
-**Blender**是专业的[自由及开放源代码](../Page/自由及开放源代码软件.md "wikilink")[三维计算机图形軟體](../Page/三维计算机图形.md "wikilink")。
+**Blender**是专业的[自由及开放源代码](../Page/自由及开放源代码软件.md "wikilink")[三维计算机图形](../Page/三维计算机图形.md "wikilink")軟體。
 
 ## 歷史
 
-最初，這個程式是被荷蘭的一個动画工作室[NeoGeo設計為内部使用的程式](https://zh.wikipedia.org/wiki/NeoGeo "wikilink")。但後來NeoGeo被收購，其主要程式設計者[彤·羅森達爾於](https://zh.wikipedia.org/wiki/彤·羅森達爾 "wikilink")1998年6月成立[Not
-a Number
-Technologies](https://zh.wikipedia.org/wiki/Not_a_Number_Technologies "wikilink")（NaN）公司，將其進一步發展，並以[共享軟體的形式對外發佈這個程式](../Page/共享軟體.md "wikilink")，直到NaN公司於2002年宣告破產。
+最初，這個程式是被荷蘭的一個动画工作室[NeoGeo設計為内部使用的程式](https://zh.wikipedia.org/wiki/NeoGeo "wikilink")。但後來NeoGeo被收購，其主要程式設計者[彤·羅森達爾於](https://zh.wikipedia.org/wiki/彤·羅森達爾 "wikilink")1998年6月成立[Not a Number Technologies](https://zh.wikipedia.org/wiki/Not_a_Number_Technologies "wikilink")（NaN）公司，將其進一步發展，並以[共享軟體](../Page/共享軟體.md "wikilink")的形式對外發佈這個程式，直到NaN公司於2002年宣告破產。
 
-在經過債權人同意後，Blender繳付一次性報酬十萬歐元後變為自由軟體，並以[GNU通用公共许可证發佈](../Page/GNU通用公共许可证.md "wikilink")。在2002年7月18日，彤·羅森達爾開始為Blender籌集資金；同年9月7日，Blender宣佈籌集足夠資金，並將其源碼對外公佈。因此，Blender現在是[自由軟體](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")，並由[Blender基金會維護與更新](https://zh.wikipedia.org/wiki/Blender_Foundation "wikilink")。\[1\]
+在經過債權人同意後，Blender繳付一次性報酬十萬歐元後變為自由軟體，並以[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")發佈。在2002年7月18日，彤·羅森達爾開始為Blender籌集資金；同年9月7日，Blender宣佈籌集足夠資金，並將其源碼對外公佈。因此，Blender現在是[自由軟體](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")，並由[Blender基金會維護與更新](https://zh.wikipedia.org/wiki/Blender_Foundation "wikilink")。\[1\]
 
 ## 功能
 
@@ -15,13 +13,11 @@ Blender可以運行於不同的平台，而且安裝後佔很少空間。雖然�
   - 支持不同的幾何圖元，包括多邊形網紋，快速表層塑模，曲線及向量字元。
   - 多用途的內部渲染及整合[YafRay這個開源的射線追蹤套件](https://zh.wikipedia.org/wiki/YafRay "wikilink")。
   - 動畫工具，包括了[反向動作組件](https://zh.wikipedia.org/wiki/反向動作 "wikilink")，可設定骨幹，結構變形，關鍵影格，時間線，非線性動畫，系統規定參數，頂點量重及柔化動量組件，包括網孔碰撞偵察和一個具有偵察碰撞的粒子系統。
-  - 使用[Python語言來創作及製作遊戲及工作自動化腳本](../Page/Python.md "wikilink")。\[2\]
+  - 使用[Python](../Page/Python.md "wikilink")語言來創作及製作遊戲及工作自動化腳本。\[2\]
   - 基本的非線性影像編輯及製作功能。
-  - [Game
-    Blender](../Page/Game_Blender.md "wikilink")，一個子計劃，用以製作實時的[電腦遊戲](https://zh.wikipedia.org/wiki/電腦遊戲 "wikilink")。
+  - [Game Blender](../Page/Game_Blender.md "wikilink")，一個子計劃，用以製作實時的[電腦遊戲](https://zh.wikipedia.org/wiki/電腦遊戲 "wikilink")。
 
-[Engine_movingparts.jpg](https://zh.wikipedia.org/wiki/File:Engine_movingparts.jpg "fig:Engine_movingparts.jpg")渲染完成的[光线跟踪和环境光吸收特效的图象](https://zh.wikipedia.org/wiki/光线跟踪 "wikilink")\]\]
-[Physics-Fluid-Simulation-Blender.gif](https://zh.wikipedia.org/wiki/File:Physics-Fluid-Simulation-Blender.gif "fig:Physics-Fluid-Simulation-Blender.gif")
+[Engine_movingparts.jpg](https://zh.wikipedia.org/wiki/File:Engine_movingparts.jpg "fig:Engine_movingparts.jpg")渲染完成的[光线跟踪和环境光吸收特效的图象](https://zh.wikipedia.org/wiki/光线跟踪 "wikilink")\]\] [Physics-Fluid-Simulation-Blender.gif](https://zh.wikipedia.org/wiki/File:Physics-Fluid-Simulation-Blender.gif "fig:Physics-Fluid-Simulation-Blender.gif")
 
 ### 先進功能
 
@@ -97,25 +93,16 @@ Blender提供了非常多的工具，因此其使用者介面對初學者來說�
 
 [thumb](https://zh.wikipedia.org/wiki/文件:Experience_curiosity1.png "wikilink")
 
-国家航空航天局
-（[NASA](../Page/美国国家航空航天局.md "wikilink")）为[火星探测车“好奇”着陆三周年纪念日作出了交互web](../Page/火星科学实验室.md "wikilink")-软件\[5\]。探测车的动作、摄影机和机械手的操纵是基于
-Blender 和 [Blend4Web](../Page/Blend4Web.md "wikilink")
-创造的软件\[6\]实现的，也打了一些著名的使命事件\[7\]\[8\]。软件是在[SIGGRAPH](../Page/SIGGRAPH.md "wikilink")2015大会WebGL部分的开始在年提出的\[9\]。
+国家航空航天局 （[NASA](../Page/美国国家航空航天局.md "wikilink")）为[火星探测车“好奇”着陆三周年纪念日作出了交互web](../Page/火星科学实验室.md "wikilink")-软件\[5\]。探测车的动作、摄影机和机械手的操纵是基于 Blender 和 [Blend4Web](../Page/Blend4Web.md "wikilink") 创造的软件\[6\]实现的，也打了一些著名的使命事件\[7\]\[8\]。软件是在[SIGGRAPH](../Page/SIGGRAPH.md "wikilink")2015大会WebGL部分的开始在年提出的\[9\]。
 
 ## 使用Blender的藝術家
 
 以下的著名藝術家使用Blender為其主要或唯一的製片工具
 
-  - [Andreas Goralczyk（@ndy）](http://www.artificial3d.com)，winner of two
-    subsequent Suzanne Blender Awards（2003 - Best Animation，2004 - Best
-    Still）
-  - [Stefano Selleri
-    (S68)](https://web.archive.org/web/20051024010229/http://www.selleri.org/Blender/)（Suzanne
-    Blender Awards 2003 - Best Still）
-  - Bassam Kurdali (slikdigit)（Suzanne Blender Awards 2004 - Best
-    Animation）
-  - [Bastian Salmela
-    (basse)](https://web.archive.org/web/20050310080224/http://www.kimppu.org/basse/)
+  - [Andreas Goralczyk（@ndy）](http://www.artificial3d.com)，winner of two subsequent Suzanne Blender Awards（2003 - Best Animation，2004 - Best Still）
+  - [Stefano Selleri (S68)](https://web.archive.org/web/20051024010229/http://www.selleri.org/Blender/)（Suzanne Blender Awards 2003 - Best Still）
+  - Bassam Kurdali (slikdigit)（Suzanne Blender Awards 2004 - Best Animation）
+  - [Bastian Salmela (basse)](https://web.archive.org/web/20050310080224/http://www.kimppu.org/basse/)
   - Endre Barath (endi)
   - Jean-Sébastien Guillemette（Ecks，formerly X-WARRIOR）
   - [Robert Tiess (RobertT)](http://www.artofinterpretation.com)
@@ -137,12 +124,11 @@ Blender 和 [Blend4Web](../Page/Blend4Web.md "wikilink")
 
 ### 辛特尔（開源影片計劃：榴莲）
 
-[辛特尔是Blender基金会第三部基于开源代码创作工具集](../Page/辛特尔.md "wikilink")、[創作共用授權动画短片](https://zh.wikipedia.org/wiki/創作共用 "wikilink")，片长15分钟，本次电影目标是创作真实感效果的动画短片，并进一步提升Blender在电影应用中的实践水平。
+[辛特尔](../Page/辛特尔.md "wikilink")是Blender基金会第三部基于开源代码创作工具集、[創作共用授權动画短片](https://zh.wikipedia.org/wiki/創作共用 "wikilink")，片长15分钟，本次电影目标是创作真实感效果的动画短片，并进一步提升Blender在电影应用中的实践水平。
 
 ### Tears of Steel（開源影片計劃：芒果）
 
-[Tears of
-Steel是Blender基金会下属Blender研究所的第四部开源电影](https://zh.wikipedia.org/wiki/Tears_of_Steel "wikilink")，於2012年9月26日上映。Blender研究所以非常开放态度来对待所有电影投资人，让电影制作的开放程度达到了空前的高度，该影片是实拍和大量后期结合的电影，加入了真人演員的表演。持续的开发使得Blender的功能提升到新的地步。
+[Tears of Steel是Blender基金会下属Blender研究所的第四部开源电影](https://zh.wikipedia.org/wiki/Tears_of_Steel "wikilink")，於2012年9月26日上映。Blender研究所以非常开放态度来对待所有电影投资人，让电影制作的开放程度达到了空前的高度，该影片是实拍和大量后期结合的电影，加入了真人演員的表演。持续的开发使得Blender的功能提升到新的地步。
 
 ## 参考资料
 
@@ -154,15 +140,7 @@ Steel是Blender基金会下属Blender研究所的第四部开源电影](https://
   - [臺灣Blender使用者俱樂部](http://mis.lit.edu.tw/blgarage/)
   - [FetchCFD](http://fetchcfd.com/) 展示和探索工程模拟
 
-[Category:三维图像软件](https://zh.wikipedia.org/wiki/Category:三维图像软件 "wikilink")
-[Category:自由三维图形软件](https://zh.wikipedia.org/wiki/Category:自由三维图形软件 "wikilink")
-[Category:用C編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用C編程的自由軟體 "wikilink")
-[Category:用C++編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用C++編程的自由軟體 "wikilink")
-[Category:用Python編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用Python編程的自由軟體 "wikilink")
-[Category:動畫軟件](https://zh.wikipedia.org/wiki/Category:動畫軟件 "wikilink")
-[Category:跨平台軟體](https://zh.wikipedia.org/wiki/Category:跨平台軟體 "wikilink")
-[Category:自由跨平台軟體](https://zh.wikipedia.org/wiki/Category:自由跨平台軟體 "wikilink")
-[Category:荷兰发明](https://zh.wikipedia.org/wiki/Category:荷兰发明 "wikilink")
+[Category:三维图像软件](https://zh.wikipedia.org/wiki/Category:三维图像软件 "wikilink") [Category:自由三维图形软件](https://zh.wikipedia.org/wiki/Category:自由三维图形软件 "wikilink") [Category:用C編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用C編程的自由軟體 "wikilink") [Category:用C++編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用C++編程的自由軟體 "wikilink") [Category:用Python編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用Python編程的自由軟體 "wikilink") [Category:動畫軟件](https://zh.wikipedia.org/wiki/Category:動畫軟件 "wikilink") [Category:跨平台軟體](https://zh.wikipedia.org/wiki/Category:跨平台軟體 "wikilink") [Category:自由跨平台軟體](https://zh.wikipedia.org/wiki/Category:自由跨平台軟體 "wikilink") [Category:荷兰发明](https://zh.wikipedia.org/wiki/Category:荷兰发明 "wikilink")
 
 1.  <http://www.blender.org/blenderorg/blender-foundation/history/>
 2.

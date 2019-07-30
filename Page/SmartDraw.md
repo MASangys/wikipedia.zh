@@ -1,5 +1,4 @@
-**SmartDraw**是一套由SmartDraw.com開發的繪圖軟體，可以用來畫[流程圖](https://zh.wikipedia.org/wiki/流程圖 "wikilink")、[時間圖等不同形式的商業圖表](https://zh.wikipedia.org/wiki/時間圖 "wikilink")。目前推出的版本為SmartDraw
-2009。
+**SmartDraw**是一套由SmartDraw.com開發的繪圖軟體，可以用來畫[流程圖](https://zh.wikipedia.org/wiki/流程圖 "wikilink")、[時間圖等不同形式的商業圖表](https://zh.wikipedia.org/wiki/時間圖 "wikilink")。目前推出的版本為SmartDraw 2009。
 
 SmartDraw是一套專門為製作流程圖所開發的軟體，有了這套軟體，就可解決製作流程圖的問題，讓制作者的文件更具有可看性。
 
@@ -13,17 +12,13 @@ SmartDraw是一套專門為製作流程圖所開發的軟體，有了這套軟�
   - 在圖形上按一下滑鼠右鍵就可拉出修改該圖形的選單。
   - 可再Office的任一軟體中插入SmartDraw的物件。
 
-SmartDraw另外有兩套為特定行業而設的版本，分別是為律師行業而設的the SmartDraw Legal
-Edition和為醫療行業而設的the SmartDraw Healthcare Edition。
+SmartDraw另外有兩套為特定行業而設的版本，分別是為律師行業而設的the SmartDraw Legal Edition和為醫療行業而設的the SmartDraw Healthcare Edition。
 
 ## 批評
 
-在2008年5月，SmartDraw的授權協議中出現了以下條款：
-"SmartDraw有權在未知會你的情況下，透過遙控監視工具，存取或審查你的電腦，
-，以達前述之目的。"
+在2008年5月，SmartDraw的授權協議中出現了以下條款： "SmartDraw有權在未知會你的情況下，透過遙控監視工具，存取或審查你的電腦， ，以達前述之目的。"
 
-那條[條款可能會危及](https://zh.wikipedia.org/wiki/條款 "wikilink")[用戶的私隱](https://zh.wikipedia.org/wiki/用戶 "wikilink")，因為在該條款下，
-SmartDraw有權在用戶不知情的情況下，於用戶的電腦中安裝[間諜軟體](https://zh.wikipedia.org/wiki/間諜軟體 "wikilink")。
+那條[條款可能會危及](https://zh.wikipedia.org/wiki/條款 "wikilink")[用戶的私隱](https://zh.wikipedia.org/wiki/用戶 "wikilink")，因為在該條款下， SmartDraw有權在用戶不知情的情況下，於用戶的電腦中安裝[間諜軟體](https://zh.wikipedia.org/wiki/間諜軟體 "wikilink")。
 
 ## 參見
 
@@ -37,9 +32,6 @@ SmartDraw有權在用戶不知情的情況下，於用戶的電腦中安裝[間�
   - [SmartDraw首頁](http://www.smartdraw.com)
   - [SmartDraw中文官方網站](https://web.archive.org/web/20080724202207/http://www.smartdrawchina.com/)
   - [SmartDraw台灣經銷商](https://web.archive.org/web/20080819191832/http://sciformosa.com.tw/index.asp)
-  - [Software Development Times discusses using
-    SmartDraw](https://web.archive.org/web/20070930160124/http://www.sdtimes.com/article/story-20021215-14.html)
-    for software design diagrams
+  - [Software Development Times discusses using SmartDraw](https://web.archive.org/web/20070930160124/http://www.sdtimes.com/article/story-20021215-14.html) for software design diagrams
 
-[Category:图像软件](https://zh.wikipedia.org/wiki/Category:图像软件 "wikilink")
-[Category:流程图软件](https://zh.wikipedia.org/wiki/Category:流程图软件 "wikilink")
+[Category:图像软件](https://zh.wikipedia.org/wiki/Category:图像软件 "wikilink") [Category:流程图软件](https://zh.wikipedia.org/wiki/Category:流程图软件 "wikilink")

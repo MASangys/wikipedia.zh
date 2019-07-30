@@ -1,12 +1,10 @@
 [Remi_turtlegrafik.png](https://zh.wikipedia.org/wiki/File:Remi_turtlegrafik.png "fig:Remi_turtlegrafik.png")
 
-**Logo**是一种计算机[程式设计语言](https://zh.wikipedia.org/wiki/程序设计语言 "wikilink")，在1966年由[西摩爾·派普特和Wally](../Page/西摩爾·派普特.md "wikilink")
-Feurzeig设计，设计Logo的初衷是为了向儿童教授[计算机编程技能](https://zh.wikipedia.org/wiki/计算机编程 "wikilink")。Logo一词源自希腊语[邏各斯](../Page/邏各斯.md "wikilink")（logos）。
+**Logo**是一种计算机[程式设计语言](https://zh.wikipedia.org/wiki/程序设计语言 "wikilink")，在1966年由[西摩爾·派普特](../Page/西摩爾·派普特.md "wikilink")和Wally Feurzeig设计，设计Logo的初衷是为了向儿童教授[计算机编程技能](https://zh.wikipedia.org/wiki/计算机编程 "wikilink")。Logo一词源自希腊语[邏各斯](../Page/邏各斯.md "wikilink")（logos）。
 
 Logo的原型来自另一个计算机语言[LISP](../Page/LISP.md "wikilink")，派普特修改了LISP的语法使其更易于阅读。Logo常被称作没有括号的Lisp。
 
-Logo是一种[直譯語言](https://zh.wikipedia.org/wiki/直譯語言 "wikilink")，和其他语言不同的是，它内置一套海龟绘图（Turtle
-Graphics）系统，通过向海龟发送命令，用户可以直观地学习程序的运行过程，因此很适于儿童学习。它亦適合用作[數學教學](https://zh.wikipedia.org/wiki/數學 "wikilink")。
+Logo是一种[直譯語言](https://zh.wikipedia.org/wiki/直譯語言 "wikilink")，和其他语言不同的是，它内置一套海龟绘图（Turtle Graphics）系统，通过向海龟发送命令，用户可以直观地学习程序的运行过程，因此很适于儿童学习。它亦適合用作[數學教學](https://zh.wikipedia.org/wiki/數學 "wikilink")。
 
 Logo继承了Lisp的「表」的概念，所以在函数处理等方面拥有强大的能力，因此Logo不仅是初学者学习程序设计的良药，更是有特殊需求的计算机科学家的好帮手。
 
@@ -18,8 +16,7 @@ Logo继承了Lisp的「表」的概念，所以在函数处理等方面拥有强
 
 ## 程式实例
 
-初学者可以不需要任何程式设计的知识而直接向海龟发送命令。学习海龟作图将会让用户懂得一些关于[几何学方面的知识](../Page/几何学.md "wikilink")。而一旦掌握了海龟作图的基础之后，引入程式设计的概念也变得更加容易。下面看一些例子：
-FD是前进 LT是左转 画一个正方形
+初学者可以不需要任何程式设计的知识而直接向海龟发送命令。学习海龟作图将会让用户懂得一些关于[几何学](../Page/几何学.md "wikilink")方面的知识。而一旦掌握了海龟作图的基础之后，引入程式设计的概念也变得更加容易。下面看一些例子： FD是前进 LT是左转 画一个正方形
 
 `FD 100`
 `LT 90`
@@ -52,28 +49,24 @@ FD是前进 LT是左转 画一个正方形
 
 ## 多代理建模语言
 
-Logo的方言NetLogo、StarLogo进一步深化了Logo的海龟绘图概念，可以产生出成百上千个独立的海龟（被称为代理）来模拟诸如[物理](https://zh.wikipedia.org/wiki/物理 "wikilink")、[生物或](../Page/生物.md "wikilink")[社会等复杂系统](../Page/社会.md "wikilink")。建模者可以对众多海龟并行发送指令，来观察微观个体行为与个体之间相互影响产生的宏观样式之间的联系。
+Logo的方言NetLogo、StarLogo进一步深化了Logo的海龟绘图概念，可以产生出成百上千个独立的海龟（被称为代理）来模拟诸如[物理](https://zh.wikipedia.org/wiki/物理 "wikilink")、[生物](../Page/生物.md "wikilink")或[社会](../Page/社会.md "wikilink")等复杂系统。建模者可以对众多海龟并行发送指令，来观察微观个体行为与个体之间相互影响产生的宏观样式之间的联系。
 
 ## LOGO直譯器列表
 
   - [Turtleacademy](http://turtleacademy.com/index/zh)又叫海龟学院，免费学编程。
-  - [Berkeley
-    Logo](http://www.cs.berkeley.edu/~bh/logo.html)又叫UCBLogo，用[C寫成](../Page/C.md "wikilink")，可運行於多個平台。
-  - [MSWLogo](http://www.softronix.com/logo.html)有良好的GUI、詳盡的說明文件，運行於Windows，建基於Berkeley
-    Logo，由Borland [C++寫成](../Page/C++.md "wikilink")。它支援三維圖像、聲響、鍵盤等多個功能。
+  - [Berkeley Logo](http://www.cs.berkeley.edu/~bh/logo.html)又叫UCBLogo，用[C](../Page/C.md "wikilink")寫成，可運行於多個平台。
+  - [MSWLogo](http://www.softronix.com/logo.html)有良好的GUI、詳盡的說明文件，運行於Windows，建基於Berkeley Logo，由Borland [C++](../Page/C++.md "wikilink")寫成。它支援三維圖像、聲響、鍵盤等多個功能。
   - [StarLogo](https://web.archive.org/web/20061115214729/http://education.mit.edu/starlogo/)
   - [NetLogo](http://ccl.northwestern.edu/netlogo/)
-  - [Comenius
-    Logo](https://web.archive.org/web/20040603134510/http://www.input.sk/slogo/)
+  - [Comenius Logo](https://web.archive.org/web/20040603134510/http://www.input.sk/slogo/)
   - [rLogo](http://www.embry.com/rLogo/)可於瀏覽器上執行（需[Java](../Page/Java.md "wikilink")）
   - [CLogo](https://archive.is/20121222033208/http://plum.yuntech.edu.tw/Clogo/index.html)可用中文為指令（需要[Java](../Page/Java.md "wikilink")）
-  - [Galapago](http://www.hexidec.com/galapago.php)用[Java寫成](../Page/Java.md "wikilink")
-  - [ProLOGO](http://prologo.sourceforge.net/)用[Prolog寫成](../Page/Prolog.md "wikilink")，可用意大利語為指令
-  - [PyLogo](http://pylogo.sourceforge.net/)用[Python寫成](../Page/Python.md "wikilink")
+  - [Galapago](http://www.hexidec.com/galapago.php)用[Java](../Page/Java.md "wikilink")寫成
+  - [ProLOGO](http://prologo.sourceforge.net/)用[Prolog](../Page/Prolog.md "wikilink")寫成，可用意大利語為指令
+  - [PyLogo](http://pylogo.sourceforge.net/)用[Python](../Page/Python.md "wikilink")寫成
   - [SharpLOGO](https://web.archive.org/web/20040727125525/http://sharplogo.sourceforge.net/)用[C\#寫成](../Page/C♯.md "wikilink")
-  - [XLogo](http://xlogo.sourceforge.net/)用[Objective-C寫成](../Page/Objective-C.md "wikilink")，運行於Mac
+  - [XLogo](http://xlogo.sourceforge.net/)用[Objective-C](../Page/Objective-C.md "wikilink")寫成，運行於Mac
   - [Logo++](http://clpp.sourceforge.net/)可說是一種精簡化的Logo，主要的分別在於沒有了Logo的即時回應（interactive）、去掉了不少語法。
-  - 更多資料可見於PyLogo網站中的[Other
-    Logos](https://web.archive.org/web/20040809213824/http://pylogo.org/PyLogo.html#other-logos)
+  - 更多資料可見於PyLogo網站中的[Other Logos](https://web.archive.org/web/20040809213824/http://pylogo.org/PyLogo.html#other-logos)
 
 [Category:程序设计语言](https://zh.wikipedia.org/wiki/Category:程序设计语言 "wikilink")

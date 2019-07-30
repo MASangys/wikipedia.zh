@@ -1,18 +1,17 @@
-**Shift_JIS**是[日本电脑系统常用的编码表](../Page/日本.md "wikilink")，能容纳[全形及](https://zh.wikipedia.org/wiki/全形 "wikilink")[半形](https://zh.wikipedia.org/wiki/半形 "wikilink")[拉丁字母](../Page/拉丁字母.md "wikilink")、[平假名](../Page/平假名.md "wikilink")、[片假名](../Page/片假名.md "wikilink")、[符号及](../Page/符号.md "wikilink")[日语汉字](../Page/日语.md "wikilink")。
+**Shift_JIS**是[日本](../Page/日本.md "wikilink")电脑系统常用的编码表，能容纳[全形及](https://zh.wikipedia.org/wiki/全形 "wikilink")[半形](https://zh.wikipedia.org/wiki/半形 "wikilink")[拉丁字母](../Page/拉丁字母.md "wikilink")、[平假名](../Page/平假名.md "wikilink")、[片假名](../Page/片假名.md "wikilink")、[符号](../Page/符号.md "wikilink")及[日语](../Page/日语.md "wikilink")汉字。
 
 命名为Shift_JIS的原因，是在放置全形字符时，要避开原本在0xA1-0xDF放置的[半角假名字符](https://zh.wikipedia.org/wiki/半角假名 "wikilink")。
 
-[微软及](../Page/微软.md "wikilink")[IBM的日语电脑系统即使用了这个编码表](../Page/IBM.md "wikilink")，称为**CP932**。
+[微软](../Page/微软.md "wikilink")及[IBM](../Page/IBM.md "wikilink")的日语电脑系统即使用了这个编码表，称为**CP932**。
 
 ## 字节结构
 
 以下字元在Shift_JIS使用一个字节来表示。
 
   -
-    [ASCII字符](../Page/ASCII.md "wikilink")（0x20-0x7E），但“\\”被“¥”取代
+    [ASCII](../Page/ASCII.md "wikilink")字符（0x20-0x7E），但“\\”被“¥”取代
     ASCII[控制字符](../Page/控制字符.md "wikilink")（0x00-0x1F、0x7F）
-    [JIS X
-    0201标准内的半角标点及片假名](../Page/JIS_X_0201.md "wikilink")（0xA1-0xDF）
+    [JIS X 0201标准内的半角标点及片假名](../Page/JIS_X_0201.md "wikilink")（0xA1-0xDF）
     在部分操作系统中，0xA0用来放置“不换行空格”。
 
 以下字元在Shift_JIS使用两个字节来表示。
@@ -29,7 +28,7 @@
 
 在Shift_JIS编码表中，并未使用0xFD、0xFE及0xFF。
 
-在[微软及](../Page/微软.md "wikilink")[IBM的日语电脑系统中](../Page/IBM.md "wikilink")，在0xFA、0xFB及0xFC的两字节区域，加入了388个JIS X 0208没有收录的符号和汉字。
+在[微软](../Page/微软.md "wikilink")及[IBM](../Page/IBM.md "wikilink")的日语电脑系统中，在0xFA、0xFB及0xFC的两字节区域，加入了388个JIS X 0208没有收录的符号和汉字。
 
 ## Shift_JIS编码表
 
@@ -750,15 +749,12 @@
 ## JIS转换方法
 
   -
-    <math>s_1 = \\begin{cases} \\left \\lfloor \\frac{j_1 + 1}{2}
-    \\right \\rfloor + 112 & \\mbox{when } 33 \\le j_1 \\le 94 \\\\
+    <math>s_1 = \\begin{cases} \\left \\lfloor \\frac{j_1 + 1}{2} \\right \\rfloor + 112 & \\mbox{when } 33 \\le j_1 \\le 94 \\\\
 
 `                          \left \lfloor \frac{j_1 + 1}{2} \right \rfloor + 176  & \mbox{when } 95 \le j_1 \le 126             \end{cases}`</math>
 
   -
-    <math>s_2 = \\begin{cases} j_2 + 31 + \\left \\lfloor
-    \\frac{j_2}{96} \\right \\rfloor & \\mbox{when } j_1 \\mbox{ is
-    odd}\\\\
+    <math>s_2 = \\begin{cases} j_2 + 31 + \\left \\lfloor \\frac{j_2}{96} \\right \\rfloor & \\mbox{when } j_1 \\mbox{ is odd}\\\\
 
 `                          j_2 + 126 & \mbox{when } j_1 \mbox{ is even}`
 `            \end{cases}`</math>
@@ -768,8 +764,7 @@
   - [ASCII](../Page/ASCII.md "wikilink")
   - [JIS X 0201](../Page/JIS_X_0201.md "wikilink")
   - [JIS X 0208](../Page/JIS_X_0208.md "wikilink")
-  - [ISO/IEC
-    2022](https://zh.wikipedia.org/wiki/ISO/IEC_2022 "wikilink")
+  - [ISO/IEC 2022](https://zh.wikipedia.org/wiki/ISO/IEC_2022 "wikilink")
   - [EUC](../Page/EUC.md "wikilink")
   - [日本工業標準](https://zh.wikipedia.org/wiki/日本工業標準 "wikilink")
 
@@ -778,15 +773,10 @@
   - [微软CP932编码表](http://www.microsoft.com/globaldev/reference/dbcs/932.htm)
   - [Ping: Japanese text encoding](http://lfw.org/text/jp.html)
   - [Shift_JIS中，非ASCII部分的编码表](http://www.rikai.com/library/kanjitables/kanji_codes.sjis.shtml)
-  - Forms of Shift-JIS in ICU ([International Components for
-    Unicode](https://zh.wikipedia.org/wiki/International_Components_for_Unicode "wikilink"))
-      - [ibm-942
-        (sjis78)](http://demo.icu-project.org/icu-bin/convexp?conv=ibm-942)
-      - [ibm-943 (Contains the \\u00A5 ↔ \\x5C
-        mapping)](http://demo.icu-project.org/icu-bin/convexp?conv=ibm-943)
-      - [Shift JIS (Contains the \\u005C ↔ \\x5C
-        mapping)](http://demo.icu-project.org/icu-bin/convexp?conv=Shift_JIS)
+  - Forms of Shift-JIS in ICU ([International Components for Unicode](https://zh.wikipedia.org/wiki/International_Components_for_Unicode "wikilink"))
+      - [ibm-942 (sjis78)](http://demo.icu-project.org/icu-bin/convexp?conv=ibm-942)
+      - [ibm-943 (Contains the \\u00A5 ↔ \\x5C mapping)](http://demo.icu-project.org/icu-bin/convexp?conv=ibm-943)
+      - [Shift JIS (Contains the \\u005C ↔ \\x5C mapping)](http://demo.icu-project.org/icu-bin/convexp?conv=Shift_JIS)
   - [Shift_JIS的发展](http://www.atmarkit.co.jp/fjava/rensai3/mojibake02/mojibake02.html)
 
-[Category:日語編碼](https://zh.wikipedia.org/wiki/Category:日語編碼 "wikilink")
-[Category:字符集](https://zh.wikipedia.org/wiki/Category:字符集 "wikilink")
+[Category:日語編碼](https://zh.wikipedia.org/wiki/Category:日語編碼 "wikilink") [Category:字符集](https://zh.wikipedia.org/wiki/Category:字符集 "wikilink")

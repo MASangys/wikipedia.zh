@@ -1,19 +1,10 @@
-**國際科學理事會**（），簡稱**國際科聯**（），舊稱**國際科學聯合會理事會**（**I**nternational
-**C**ouncil of **S**cientific
-**U**nions），是世界上最大的[非政府組織及](https://zh.wikipedia.org/wiki/非政府組織 "wikilink")[國際學術組織之一](https://zh.wikipedia.org/wiki/國際學術組織 "wikilink")。
+**國際科學理事會**（），簡稱**國際科聯**（），舊稱**國際科學聯合會理事會**（**I**nternational **C**ouncil of **S**cientific **U**nions），是世界上最大的[非政府組織及](https://zh.wikipedia.org/wiki/非政府組織 "wikilink")[國際學術組織之一](https://zh.wikipedia.org/wiki/國際學術組織 "wikilink")。
 
-[国际科学理事会 (International Council for Science,
-ICSU）和](../Page/國際科學理事會_\(ICSU\).md "wikilink")[国际社会科学理事会（International
-Social Science
-Council，ISSC）于](../Page/国际社会科学理事会.md "wikilink")2018年合并为[國際科學理事會（International
-Science
-Council,ISC）](../Page/國際科學理事會_\(ISC\).md "wikilink")。\[1\]\[2\]\[3\]
+[国际科学理事会 (International Council for Science, ICSU）和](../Page/國際科學理事會_\(ICSU\).md "wikilink")[国际社会科学理事会 Social Science Council，ISSC）于](../Page/国际社会科学理事会.md "wikilink")（International2018年合并为[國際科學理事會（International Science Council,ISC）](../Page/國際科學理事會_\(ISC\).md "wikilink")。\[1\]\[2\]\[3\]
 
 ## 歷史與宗旨
 
-它的前身為[國際研究理事會](https://zh.wikipedia.org/wiki/國際研究理事會 "wikilink")（International
-Research
-Council），1931年於[比利時](https://zh.wikipedia.org/wiki/比利時 "wikilink")[布魯塞爾成立](https://zh.wikipedia.org/wiki/布魯塞爾 "wikilink")。理事會的宗旨是鼓勵及推動國際科技與學術活動，促進國際科學理事會會員及各個國家會員間之合作，促進、規劃、協調或參加國際科技計畫推展事項，擔任國際性科學議題之諮商組織，促進大眾理解科學等等。於1998年4月改為現名，[總部及](https://zh.wikipedia.org/wiki/總部 "wikilink")[秘書處則遷往](https://zh.wikipedia.org/wiki/秘書處 "wikilink")[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")[巴黎](../Page/巴黎.md "wikilink")。
+它的前身為[國際研究理事會](https://zh.wikipedia.org/wiki/國際研究理事會 "wikilink")（International Research Council），1931年於[比利時](https://zh.wikipedia.org/wiki/比利時 "wikilink")[布魯塞爾成立](https://zh.wikipedia.org/wiki/布魯塞爾 "wikilink")。理事會的宗旨是鼓勵及推動國際科技與學術活動，促進國際科學理事會會員及各個國家會員間之合作，促進、規劃、協調或參加國際科技計畫推展事項，擔任國際性科學議題之諮商組織，促進大眾理解科學等等。於1998年4月改為現名，[總部及](https://zh.wikipedia.org/wiki/總部 "wikilink")[秘書處則遷往](https://zh.wikipedia.org/wiki/秘書處 "wikilink")[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")[巴黎](../Page/巴黎.md "wikilink")。
 
 理事會集中了在自然科學各個領域的專家及學者代表，在它所召開的各個會議中經常反映出各國科學界共同關心的研究問題，同時也代表了當代世界科學發展的水準與動向。
 
@@ -25,8 +16,7 @@ Council），1931年於[比利時](https://zh.wikipedia.org/wiki/比利時 "wiki
 
 #### 國際科學聯合成員（Scientific Union）
 
-必須為國際性的非政府專業組織，而且在某一科學領域內已存在6年以上才符合資格。
-[国际纯粹与应用物理联合会](https://zh.wikipedia.org/wiki/国际纯粹与应用物理联合会 "wikilink")，[國際數學聯合會](https://zh.wikipedia.org/wiki/國際數學聯合會 "wikilink")，[國際天文聯合會](https://zh.wikipedia.org/wiki/國際天文聯合會 "wikilink")，[國際純粹與應用化學聯合會等都屬此類成員](https://zh.wikipedia.org/wiki/國際純粹與應用化學聯合會 "wikilink")。
+必須為國際性的非政府專業組織，而且在某一科學領域內已存在6年以上才符合資格。 [国际纯粹与应用物理联合会](https://zh.wikipedia.org/wiki/国际纯粹与应用物理联合会 "wikilink")，[國際數學聯合會](https://zh.wikipedia.org/wiki/國際數學聯合會 "wikilink")，[國際天文聯合會](https://zh.wikipedia.org/wiki/國際天文聯合會 "wikilink")，[國際純粹與應用化學聯合會等都屬此類成員](https://zh.wikipedia.org/wiki/國際純粹與應用化學聯合會 "wikilink")。
 
 #### 國家會員（National Member）
 
@@ -84,8 +74,7 @@ Council），1931年於[比利時](https://zh.wikipedia.org/wiki/比利時 "wiki
 
 ## 外部連結
 
-  - [ICSU - International Council for
-    Science](https://web.archive.org/web/19981111190700/http://www.icsu.org/)
+  - [ICSU - International Council for Science](https://web.archive.org/web/19981111190700/http://www.icsu.org/)
 
   -
   -
@@ -96,10 +85,7 @@ Council），1931年於[比利時](https://zh.wikipedia.org/wiki/比利時 "wiki
 
 世界經理人，国际科学理事会（ICSU），<https://web.archive.org/web/20150906225649/http://www.cajcd.cn/pub/wml.txt/9808_10_2.html>，2003-05-22
 
-[Category:科学组织](https://zh.wikipedia.org/wiki/Category:科学组织 "wikilink")
-[Category:总部在巴黎的国际组织](https://zh.wikipedia.org/wiki/Category:总部在巴黎的国际组织 "wikilink")
-[Category:1931年欧洲建立](https://zh.wikipedia.org/wiki/Category:1931年欧洲建立 "wikilink")
-[Category:1931年建立的組織](https://zh.wikipedia.org/wiki/Category:1931年建立的組織 "wikilink")
+[Category:科学组织](https://zh.wikipedia.org/wiki/Category:科学组织 "wikilink") [Category:总部在巴黎的国际组织](https://zh.wikipedia.org/wiki/Category:总部在巴黎的国际组织 "wikilink") [Category:1931年欧洲建立](https://zh.wikipedia.org/wiki/Category:1931年欧洲建立 "wikilink") [Category:1931年建立的組織](https://zh.wikipedia.org/wiki/Category:1931年建立的組織 "wikilink")
 
 1.
 2.

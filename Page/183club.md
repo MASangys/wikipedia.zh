@@ -1,8 +1,8 @@
-**183Club**，簡稱183，[喬傑立娛樂旗下的](../Page/喬傑立娛樂.md "wikilink")[臺灣藝人團體](../Page/臺灣.md "wikilink")，於2004年正式成立，當時[成員包括](https://zh.wikipedia.org/wiki/成員 "wikilink")[顏行書](https://zh.wikipedia.org/wiki/顏行書 "wikilink")、[王少偉](../Page/王少偉.md "wikilink")、[明道](../Page/明道_\(藝人\).md "wikilink")、[黃玉榮和](../Page/黃玉榮.md "wikilink")[祝釩剛](https://zh.wikipedia.org/wiki/祝釩剛 "wikilink")。因宣稱成員平均[身高為](https://zh.wikipedia.org/wiki/身高 "wikilink")183公分，故其組合名稱為「183Club」，
+**183Club**，簡稱183，[喬傑立娛樂](../Page/喬傑立娛樂.md "wikilink")旗下的[臺灣](../Page/臺灣.md "wikilink")藝人團體，於2004年正式成立，當時[成員包括](https://zh.wikipedia.org/wiki/成員 "wikilink")[顏行書](https://zh.wikipedia.org/wiki/顏行書 "wikilink")、[王少偉](../Page/王少偉.md "wikilink")、[明道](../Page/明道_\(藝人\).md "wikilink")、[黃玉榮](../Page/黃玉榮.md "wikilink")和[祝釩剛](https://zh.wikipedia.org/wiki/祝釩剛 "wikilink")。因宣稱成員平均[身高為](https://zh.wikipedia.org/wiki/身高 "wikilink")183公分，故其組合名稱為「183Club」，
 
 2005年，五位成员出演了台湾偶像剧《王子变青蛙》。2006年，推出了首张音乐专辑《183Club首张同名专辑》，同年在香港新城国语力颁奖典礼获得“亚洲人气偶像奖”。
 
-2007年6月，[喬傑立娛樂宣布與](../Page/喬傑立娛樂.md "wikilink")[祝釩剛解除合約關係](https://zh.wikipedia.org/wiki/祝釩剛 "wikilink")，183Club只剩4位成員\[1\]，2008年[顏行書重返籃壇](https://zh.wikipedia.org/wiki/顏行書 "wikilink")[SBL](https://zh.wikipedia.org/wiki/SBL "wikilink")，2009年更將視野朝向[CBA](../Page/中華職業籃球聯盟.md "wikilink")，結束了演藝事業。
+2007年6月，[喬傑立娛樂](../Page/喬傑立娛樂.md "wikilink")宣布與[祝釩剛解除合約關係](https://zh.wikipedia.org/wiki/祝釩剛 "wikilink")，183Club只剩4位成員\[1\]，2008年[顏行書重返籃壇](https://zh.wikipedia.org/wiki/顏行書 "wikilink")[SBL](https://zh.wikipedia.org/wiki/SBL "wikilink")，2009年更將視野朝向[CBA](../Page/中華職業籃球聯盟.md "wikilink")，結束了演藝事業。
 
 ## 成員資料
 
@@ -25,7 +25,7 @@
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p>O型</p></td>
 <td style="text-align: center;"><p>180 cm</p></td>
-<td style="text-align: center;"><p>副隊長 同時亦是<a href="../Page/5566.md" title="wikilink">5566成員</a><br />
+<td style="text-align: center;"><p>副隊長 同時亦是<a href="../Page/5566.md" title="wikilink">5566</a>成員<br />
 原名王紹偉，於2008年改名王少偉</p></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -89,7 +89,7 @@
 <p>2002年6月</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/華視" title="wikilink">華視</a></p></td>
 <td><p><a href="../Page/麻辣鮮師.md" title="wikilink">麻辣鮮師</a></p></td>
-<td><p><a href="../Page/王少偉.md" title="wikilink">王少偉飾演</a> 紹偉<br />
+<td><p><a href="../Page/王少偉.md" title="wikilink">王少偉</a>飾演 紹偉<br />
 <a href="https://zh.wikipedia.org/wiki/明道" title="wikilink">明道飾演</a> 大明</p></td>
 <td><p>客串</p></td>
 </tr>
@@ -99,7 +99,7 @@
 <td><p><a href="../Page/三立都會台.md" title="wikilink">三立都會台</a>、<a href="https://zh.wikipedia.org/wiki/華視" title="wikilink">華視</a></p></td>
 <td><p><a href="../Page/MVP情人.md" title="wikilink">MVP情人</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/顏行書" title="wikilink">顏行書飾演</a> 段臣風<br />
-<a href="../Page/王少偉.md" title="wikilink">王少偉飾演</a> 王紹偉</p></td>
+<a href="../Page/王少偉.md" title="wikilink">王少偉</a>飾演 王紹偉</p></td>
 <td><p>男主角<br />
 男配角</p></td>
 </tr>
@@ -108,7 +108,7 @@
 <p>2003年5月</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/華視" title="wikilink">華視</a>、<a href="../Page/三立都會台.md" title="wikilink">三立都會台</a></p></td>
 <td><p><a href="../Page/海豚灣戀人.md" title="wikilink">海豚灣戀人</a></p></td>
-<td><p><a href="../Page/王少偉.md" title="wikilink">王少偉飾演</a> 5566-王少偉</p></td>
+<td><p><a href="../Page/王少偉.md" title="wikilink">王少偉</a>飾演 5566-王少偉</p></td>
 <td><p>客串</p></td>
 </tr>
 <tr class="odd">
@@ -116,7 +116,7 @@
 <p>2003年9月</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/華視" title="wikilink">華視</a>、<a href="../Page/三立都會台.md" title="wikilink">三立都會台</a></p></td>
 <td><p><a href="../Page/西街少年.md" title="wikilink">西街少年</a></p></td>
-<td><p><a href="../Page/王少偉.md" title="wikilink">王少偉飾演</a> 辜天樂</p></td>
+<td><p><a href="../Page/王少偉.md" title="wikilink">王少偉</a>飾演 辜天樂</p></td>
 <td><p>男配角</p></td>
 </tr>
 <tr class="even">
@@ -124,7 +124,7 @@
 <p>2003年11月</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/中視" title="wikilink">中視</a>、<a href="../Page/東森電視.md" title="wikilink">東森</a></p></td>
 <td><p><a href="../Page/原味的夏天.md" title="wikilink">原味的夏天</a></p></td>
-<td><p><a href="../Page/黃玉榮.md" title="wikilink">黃玉榮飾演</a></p></td>
+<td><p><a href="../Page/黃玉榮.md" title="wikilink">黃玉榮</a>飾演</p></td>
 <td><p>客串</p></td>
 </tr>
 <tr class="odd">
@@ -132,7 +132,7 @@
 <p>2003年11月</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/華視" title="wikilink">華視</a>、<a href="../Page/三立都會台.md" title="wikilink">三立都會台</a></p></td>
 <td><p><a href="../Page/千金百分百.md" title="wikilink">千金百分百</a></p></td>
-<td><p><a href="../Page/王少偉.md" title="wikilink">王少偉飾演</a> 張小開</p></td>
+<td><p><a href="../Page/王少偉.md" title="wikilink">王少偉</a>飾演 張小開</p></td>
 <td><p>客串</p></td>
 </tr>
 <tr class="even">
@@ -140,7 +140,7 @@
 <p>2003年8月</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/中視" title="wikilink">中視</a>、<a href="../Page/東森電視.md" title="wikilink">東森</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/熟女慾望日記" title="wikilink">熟女慾望日記</a>(單元5集)</p></td>
-<td><p><a href="../Page/黃玉榮.md" title="wikilink">黃玉榮飾演</a> 蔣大同</p></td>
+<td><p><a href="../Page/黃玉榮.md" title="wikilink">黃玉榮</a>飾演 蔣大同</p></td>
 <td><p>男配角</p></td>
 </tr>
 <tr class="odd">
@@ -148,7 +148,7 @@
 <p>2003年9月</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/台視" title="wikilink">台視</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/牽手向明天" title="wikilink">牽手向明天</a></p></td>
-<td><p><a href="../Page/黃玉榮.md" title="wikilink">黃玉榮飾演</a> 李柏杉</p></td>
+<td><p><a href="../Page/黃玉榮.md" title="wikilink">黃玉榮</a>飾演 李柏杉</p></td>
 <td><p>男配角</p></td>
 </tr>
 <tr class="even">
@@ -156,7 +156,7 @@
 <p>2003年</p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/李心潔音樂愛情故事" title="wikilink">李心潔音樂愛情故事</a></p></td>
-<td><p><a href="../Page/黃玉榮.md" title="wikilink">黃玉榮飾演</a></p></td>
+<td><p><a href="../Page/黃玉榮.md" title="wikilink">黃玉榮</a>飾演</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -172,7 +172,7 @@
 <p>2004年5月</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/華視" title="wikilink">華視</a>、<a href="../Page/三立都會台.md" title="wikilink">三立都會台</a></p></td>
 <td><p><a href="../Page/紫禁之巔.md" title="wikilink">紫禁之巔</a></p></td>
-<td><p><a href="../Page/王少偉.md" title="wikilink">王少偉飾演</a> FIRE</p></td>
+<td><p><a href="../Page/王少偉.md" title="wikilink">王少偉</a>飾演 FIRE</p></td>
 <td><p>男主角</p></td>
 </tr>
 <tr class="odd">
@@ -180,7 +180,7 @@
 <p>2004年</p></td>
 <td><p><a href="../Page/八大綜合台.md" title="wikilink">八大綜合台</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/我是男子漢" title="wikilink">我是男子漢</a></p></td>
-<td><p><a href="../Page/黃玉榮.md" title="wikilink">黃玉榮飾演</a></p></td>
+<td><p><a href="../Page/黃玉榮.md" title="wikilink">黃玉榮</a>飾演</p></td>
 <td><p>客串</p></td>
 </tr>
 <tr class="even">
@@ -188,8 +188,8 @@
 <p>2004年8月</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/台視" title="wikilink">台視</a></p></td>
 <td><p><a href="http://www.ttv.com.tw/drama/2004/Beauty/default.html">愛上千金美眉</a></p></td>
-<td><p><a href="../Page/黃玉榮.md" title="wikilink">黃玉榮飾演</a> Justin<br />
-<a href="../Page/王少偉.md" title="wikilink">王少偉飾演</a>5566-王少偉</p></td>
+<td><p><a href="../Page/黃玉榮.md" title="wikilink">黃玉榮</a>飾演 Justin<br />
+<a href="../Page/王少偉.md" title="wikilink">王少偉</a>飾演5566-王少偉</p></td>
 <td><p>男配角<br />
 客串</p></td>
 </tr>
@@ -200,7 +200,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/天國的嫁衣" title="wikilink">天國的嫁衣</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/明道" title="wikilink">明道飾演</a> 程海諾<br />
 <a href="https://zh.wikipedia.org/wiki/祝釩剛" title="wikilink">祝釩剛飾演</a> 鷹<br />
-<a href="../Page/黃玉榮.md" title="wikilink">黃玉榮飾演</a> 阿KEN</p></td>
+<a href="../Page/黃玉榮.md" title="wikilink">黃玉榮</a>飾演 阿KEN</p></td>
 <td><p>男主角<br />
 男配角<br />
 男配角</p></td>
@@ -226,7 +226,7 @@
 <p>2005年1月</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/台視" title="wikilink">台視</a>、<a href="../Page/三立都會台.md" title="wikilink">三立都會台</a></p></td>
 <td><p><a href="../Page/格鬥天王_(電視劇).md" title="wikilink">格鬥天王</a></p></td>
-<td><p><a href="../Page/王少偉.md" title="wikilink">王少偉飾演</a> 對手</p></td>
+<td><p><a href="../Page/王少偉.md" title="wikilink">王少偉</a>飾演 對手</p></td>
 <td><p>客串</p></td>
 </tr>
 <tr class="odd">
@@ -235,8 +235,8 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/台視" title="wikilink">台視</a>、<a href="../Page/三立都會台.md" title="wikilink">三立都會台</a></p></td>
 <td><p><a href="../Page/王子變青蛙.md" title="wikilink">王子變青蛙</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/明道" title="wikilink">明道飾演</a> 單均昊(茼蒿)<br />
-<a href="../Page/王少偉.md" title="wikilink">王少偉飾演</a> 徐子騫<br />
-<a href="../Page/黃玉榮.md" title="wikilink">黃玉榮飾演</a> 李大偉<br />
+<a href="../Page/王少偉.md" title="wikilink">王少偉</a>飾演 徐子騫<br />
+<a href="../Page/黃玉榮.md" title="wikilink">黃玉榮</a>飾演 李大偉<br />
 <a href="https://zh.wikipedia.org/wiki/祝釩剛" title="wikilink">祝釩剛飾演</a> 黃麥克<br />
 <a href="https://zh.wikipedia.org/wiki/顏行書" title="wikilink">顏行書飾演</a> 謝全</p></td>
 <td><p>男主角<br />
@@ -250,7 +250,7 @@
 <p>2005年</p></td>
 <td><p><a href="../Page/三立都會台.md" title="wikilink">三立都會台</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/大熊醫師家" title="wikilink">大熊醫師家</a></p></td>
-<td><p><a href="../Page/王少偉.md" title="wikilink">王少偉飾演</a> 喬小偉<br />
+<td><p><a href="../Page/王少偉.md" title="wikilink">王少偉</a>飾演 喬小偉<br />
 <a href="https://zh.wikipedia.org/wiki/祝釩剛" title="wikilink">祝釩剛飾演</a></p></td>
 <td><p>客串<br />
 客串</p></td>
@@ -261,9 +261,9 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/台視" title="wikilink">台視</a>、<a href="../Page/三立都會台.md" title="wikilink">三立都會台</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/愛情魔法師" title="wikilink">愛情魔法師</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/明道" title="wikilink">明道飾演</a> 杜亞斯、杜亞鈞<br />
-<a href="../Page/王少偉.md" title="wikilink">王少偉飾演</a> 林爾奇<br />
+<a href="../Page/王少偉.md" title="wikilink">王少偉</a>飾演 林爾奇<br />
 <a href="https://zh.wikipedia.org/wiki/祝釩剛" title="wikilink">祝釩剛飾演</a> 費南度<br />
-<a href="../Page/黃玉榮.md" title="wikilink">黃玉榮飾演</a> 蕭哲明</p></td>
+<a href="../Page/黃玉榮.md" title="wikilink">黃玉榮</a>飾演 蕭哲明</p></td>
 <td><p>男主角<br />
 男主角<br />
 男配角<br />
@@ -293,7 +293,7 @@
 <p>2006年11月</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/華視" title="wikilink">華視</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/剪刀石頭布_(電視影集)" title="wikilink">剪刀石頭布</a></p></td>
-<td><p><a href="../Page/王少偉.md" title="wikilink">王少偉飾演</a> 剪刀-韋祺祥</p></td>
+<td><p><a href="../Page/王少偉.md" title="wikilink">王少偉</a>飾演 剪刀-韋祺祥</p></td>
 <td><p>男主角</p></td>
 </tr>
 <tr class="odd">
@@ -301,7 +301,7 @@
 <p>2007年1月</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/華視" title="wikilink">華視</a></p></td>
 <td><p><a href="../Page/食神_(2006年電視劇).md" title="wikilink">食神</a></p></td>
-<td><p><a href="../Page/王少偉.md" title="wikilink">王少偉飾演</a>369-6</p></td>
+<td><p><a href="../Page/王少偉.md" title="wikilink">王少偉</a>飾演369-6</p></td>
 <td><p>客串</p></td>
 </tr>
 <tr class="even">
@@ -309,7 +309,7 @@
 <p>2007年3月</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/台視" title="wikilink">台視</a>、<a href="../Page/三立都會台.md" title="wikilink">三立都會台</a></p></td>
 <td><p><a href="../Page/放羊的星星.md" title="wikilink">放羊的星星</a></p></td>
-<td><p><a href="../Page/黃玉榮.md" title="wikilink">黃玉榮飾演</a> 趙十三(夏之星前男友)</p></td>
+<td><p><a href="../Page/黃玉榮.md" title="wikilink">黃玉榮</a>飾演 趙十三(夏之星前男友)</p></td>
 <td><p>男配角</p></td>
 </tr>
 <tr class="odd">
@@ -317,7 +317,7 @@
 <p>2007年8月</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/華視" title="wikilink">華視</a>、<a href="../Page/東森戲劇台.md" title="wikilink">東森戲劇台</a></p></td>
 <td><p><a href="../Page/惡女阿楚.md" title="wikilink">惡女阿楚</a></p></td>
-<td><p><a href="../Page/王少偉.md" title="wikilink">王少偉飾演</a> 凌平之（諾門/NORMAN）</p></td>
+<td><p><a href="../Page/王少偉.md" title="wikilink">王少偉</a>飾演 凌平之（諾門/NORMAN）</p></td>
 <td><p>男主角</p></td>
 </tr>
 <tr class="even">
@@ -341,7 +341,7 @@
 <p>2008年1月</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/華視" title="wikilink">華視</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/歡喜來逗陣" title="wikilink">歡喜來逗陣</a></p></td>
-<td><p><a href="../Page/王少偉.md" title="wikilink">王少偉飾演</a> 石麥可（李麥可）</p></td>
+<td><p><a href="../Page/王少偉.md" title="wikilink">王少偉</a>飾演 石麥可（李麥可）</p></td>
 <td><p>男主角</p></td>
 </tr>
 <tr class="odd">
@@ -349,7 +349,7 @@
 <p>2008年7月</p></td>
 <td><p><a href="../Page/客家電視台.md" title="wikilink">客家電視台</a></p></td>
 <td><p><a href="../Page/花樹下的約定.md" title="wikilink">花樹下的約定</a></p></td>
-<td><p><a href="../Page/黃玉榮.md" title="wikilink">黃玉榮飾演</a> 夏昱雷(阿雷)</p></td>
+<td><p><a href="../Page/黃玉榮.md" title="wikilink">黃玉榮</a>飾演 夏昱雷(阿雷)</p></td>
 <td><p>男主角</p></td>
 </tr>
 </tbody>
@@ -450,7 +450,7 @@
 </tr>
 <tr class="even">
 <td style="text-align: left;"><p><strong>3rd</strong></p></td>
-<td style="text-align: left;"><p><a href="../Page/愛情魔髮師.md" title="wikilink">愛情魔髮師電視原聲帶</a></p>
+<td style="text-align: left;"><p><a href="../Page/愛情魔髮師.md" title="wikilink">愛情魔髮師</a>電視原聲帶</p>
 <ul>
 <li>發行日期：2006年2月10日</li>
 </ul></td>
@@ -476,7 +476,7 @@
 </tr>
 <tr class="even">
 <td style="text-align: left;"><p><strong>5th</strong></p></td>
-<td style="text-align: left;"><p><a href="../Page/櫻野三加一.md" title="wikilink">櫻野三加一電視原聲帶</a></p>
+<td style="text-align: left;"><p><a href="../Page/櫻野三加一.md" title="wikilink">櫻野三加一</a>電視原聲帶</p>
 <ul>
 <li>發行日期：2007年8月3日</li>
 </ul></td>
@@ -545,14 +545,10 @@
   - 2002年 [在中國的故事](../Page/在中國的故事.md "wikilink")(王紹偉)
   - 2002年 [螢幕八爪娛](https://zh.wikipedia.org/wiki/螢幕八爪娛 "wikilink")(祝釩剛)
   - 2003年 [少年特攻隊](../Page/少年特攻隊.md "wikilink")(王紹偉)
-  - 2003年
-    [冠軍家庭向前衝](https://zh.wikipedia.org/wiki/冠軍家庭向前衝 "wikilink")(王紹偉)
-  - 2004年
-    [嘻哈劈頭四](https://zh.wikipedia.org/wiki/嘻哈劈頭四 "wikilink")(顏行書，王紹偉)
-  - 2004年
-    [鬥陣聚樂部](https://zh.wikipedia.org/wiki/鬥陣聚樂部 "wikilink")(顏行書，王紹偉)
-  - 2005年
-    [完全娛樂週日版](https://zh.wikipedia.org/wiki/完全娛樂 "wikilink")：誰最帶種(王紹偉)
+  - 2003年 [冠軍家庭向前衝](https://zh.wikipedia.org/wiki/冠軍家庭向前衝 "wikilink")(王紹偉)
+  - 2004年 [嘻哈劈頭四](https://zh.wikipedia.org/wiki/嘻哈劈頭四 "wikilink")(顏行書，王紹偉)
+  - 2004年 [鬥陣聚樂部](https://zh.wikipedia.org/wiki/鬥陣聚樂部 "wikilink")(顏行書，王紹偉)
+  - 2005年 [完全娛樂週日版](https://zh.wikipedia.org/wiki/完全娛樂 "wikilink")：誰最帶種(王紹偉)
   - 2005年 [台灣全記錄](../Page/台灣全記錄.md "wikilink")(顏行書)
   - 2006年 [完全娛樂](https://zh.wikipedia.org/wiki/完全娛樂 "wikilink")(王紹偉)
 
@@ -562,8 +558,7 @@
   - 2004年 波蜜(明道)
   - 2005年 Proman 豪門內衣(全體)
   - 2005年 美國棉(全體)
-  - 2006年
-    德國飛利浦([Philips](https://zh.wikipedia.org/wiki/Philips "wikilink"))電動刮鬍刀(明道)
+  - 2006年 德國飛利浦([Philips](https://zh.wikipedia.org/wiki/Philips "wikilink"))電動刮鬍刀(明道)
   - 2006年 愛之味健康流糖茶(明道)
   - 2006年 搞鬼Online(王紹偉)
   - 2007年 甜蜜約定金飾(明道)
@@ -572,9 +567,6 @@
 
 ## 外部連結
 
-[Category:喬傑立娛樂](https://zh.wikipedia.org/wiki/Category:喬傑立娛樂 "wikilink")
-[Category:華語流行音樂團體](https://zh.wikipedia.org/wiki/Category:華語流行音樂團體 "wikilink")
-[Category:臺灣男子演唱團體](https://zh.wikipedia.org/wiki/Category:臺灣男子演唱團體 "wikilink")
-[Category:已解散的男子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的男子演唱團體 "wikilink")
+[Category:喬傑立娛樂](https://zh.wikipedia.org/wiki/Category:喬傑立娛樂 "wikilink") [Category:華語流行音樂團體](https://zh.wikipedia.org/wiki/Category:華語流行音樂團體 "wikilink") [Category:臺灣男子演唱團體](https://zh.wikipedia.org/wiki/Category:臺灣男子演唱團體 "wikilink") [Category:已解散的男子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的男子演唱團體 "wikilink")
 
 1.  \[ 愛泡夜店怒犯天條祝釩剛被踢出183club 中時電子報╱葉君遠、陳昱翰／台北─南京連線報導 2007-06-09 04:35\]

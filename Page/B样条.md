@@ -1,10 +1,8 @@
-在[数学的子学科](../Page/数学.md "wikilink")[数值分析裡](https://zh.wikipedia.org/wiki/数值分析 "wikilink")，**B-样条**是[样条曲线一种特殊的表示形式](https://zh.wikipedia.org/wiki/样条曲线 "wikilink")。它是B-样条基曲线的[线性组合](https://zh.wikipedia.org/wiki/线性组合 "wikilink")。B-样条是[貝茲曲線的一种一般化](../Page/貝茲曲線.md "wikilink")，可以进一步推广为[非均匀有理B样条](../Page/非均匀有理B样条.md "wikilink")（NURBS），使得我们能给更多一般的几何体建造精确的模型。
+在[数学](../Page/数学.md "wikilink")的子学科[数值分析裡](https://zh.wikipedia.org/wiki/数值分析 "wikilink")，**B-样条**是[样条曲线一种特殊的表示形式](https://zh.wikipedia.org/wiki/样条曲线 "wikilink")。它是B-样条基曲线的[线性组合](https://zh.wikipedia.org/wiki/线性组合 "wikilink")。B-样条是[貝茲曲線](../Page/貝茲曲線.md "wikilink")的一种一般化，可以进一步推广为[非均匀有理B样条](../Page/非均匀有理B样条.md "wikilink")（NURBS），使得我们能给更多一般的几何体建造精确的模型。
 
-[De
-Boor算法是一个](https://zh.wikipedia.org/wiki/De_Boor算法 "wikilink")[数值上稳定的计算B样条的方法](../Page/数值稳定性.md "wikilink")。
+[De Boor算法是一个](https://zh.wikipedia.org/wiki/De_Boor算法 "wikilink")[数值上稳定的计算B样条的方法](../Page/数值稳定性.md "wikilink")。
 
-[术语](https://zh.wikipedia.org/wiki/术语 "wikilink") *B样条*是[Isaac Jacob
-Schoenberg创造的](https://zh.wikipedia.org/wiki/Isaac_Jacob_Schoenberg "wikilink")，是基（basis）样条的缩略。
+[术语](https://zh.wikipedia.org/wiki/术语 "wikilink") *B样条*是[Isaac Jacob Schoenberg创造的](https://zh.wikipedia.org/wiki/Isaac_Jacob_Schoenberg "wikilink")，是基（basis）样条的缩略。
 
 ## 定义
 
@@ -20,8 +18,7 @@ Schoenberg创造的](https://zh.wikipedia.org/wiki/Isaac_Jacob_Schoenberg "wikil
 
 \[\mathbf{S}(t)= \sum_{i=0}^{m} \mathbf{P}_{i} b_{i,n}(t) \mbox{ , } t \in [0,1]\].
 
-**P**<sub>*i*</sub>称为**控制点**或**de Boor点**. *m*+1个*n*次B样条基可以用**Cox-de
-Boor递归公式** 定义
+**P**<sub>*i*</sub>称为**控制点**或**de Boor点**. *m*+1个*n*次B样条基可以用**Cox-de Boor递归公式** 定义
 
 \[b_{j,0}(t) := \left\{\begin{matrix}
 1 & \mathrm{} \quad t_j < t < t_{j+1} \\
@@ -51,14 +48,13 @@ Boor递归公式** 定义
 
 \[(t_i - t)_+\]
 
-是[截断幂函数](https://zh.wikipedia.org/wiki/截断幂函数 "wikilink")（truncated power
-function）
+是[截断幂函数](https://zh.wikipedia.org/wiki/截断幂函数 "wikilink")（truncated power function）
 
 ## 注解
 
-当节点数和多项式次数相等时，B样条退化为贝济埃曲线。即函数的形状由节点的位置决定。[缩放或者](../Page/缩放.md "wikilink")[平移](../Page/平移.md "wikilink")[节点向量不会改变基函数](https://zh.wikipedia.org/wiki/节点向量 "wikilink")。
+当节点数和多项式次数相等时，B样条退化为贝济埃曲线。即函数的形状由节点的位置决定。[缩放](../Page/缩放.md "wikilink")或者[平移](../Page/平移.md "wikilink")[节点向量不会改变基函数](https://zh.wikipedia.org/wiki/节点向量 "wikilink")。
 
-样条包含在它的控制点的[凸包中](../Page/凸包.md "wikilink")
+样条包含在它的控制点的[凸包](../Page/凸包.md "wikilink")中
 
 *n*次B样条的一个基
 
@@ -74,9 +70,7 @@ function）
 
 ### 常数B样条
 
-常数B样条是最简单的样条。只定义在一个[节点距离上](https://zh.wikipedia.org/wiki/节点距离 "wikilink")，而且不是节点的[函数](../Page/函数.md "wikilink")。它只是不同节点段（knot
-span）的[标志函数](https://zh.wikipedia.org/wiki/标志函数 "wikilink")（indicator
-function）。
+常数B样条是最简单的样条。只定义在一个[节点距离上](https://zh.wikipedia.org/wiki/节点距离 "wikilink")，而且不是节点的[函数](../Page/函数.md "wikilink")。它只是不同节点段（knot span）的[标志函数](https://zh.wikipedia.org/wiki/标志函数 "wikilink")（indicator function）。
 
 \[b_{j,0}(t) = 1_{[t_j,t_{j+1})} =
 \left\{\begin{matrix}
@@ -121,11 +115,7 @@ function）。
 
 ### 求导
 
-在几何处理中，对参数曲线及曲面的求导是最基本的运算之一，由于参数表达的特性，在给定点的切线及法线可通过求导直接得到。
-先来考察曲线的情形：采用本页定义中的B样条曲线表达式
-\(\mathbf{S}(t)= \sum_{i=0}^{m} \mathbf{P}_{i} b_{i,n}(t) \mbox{ , } t \in [0,1]\)
-对参数\(t\)进行求导：
-\(\frac{d\mathbf{S}}{dt} = \sum_{i=0}^{m} b'_{i,n}(t) \mathbf{P}_{i}\)
+在几何处理中，对参数曲线及曲面的求导是最基本的运算之一，由于参数表达的特性，在给定点的切线及法线可通过求导直接得到。 先来考察曲线的情形：采用本页定义中的B样条曲线表达式 \(\mathbf{S}(t)= \sum_{i=0}^{m} \mathbf{P}_{i} b_{i,n}(t) \mbox{ , } t \in [0,1]\) 对参数\(t\)进行求导： \(\frac{d\mathbf{S}}{dt} = \sum_{i=0}^{m} b'_{i,n}(t) \mathbf{P}_{i}\)
 
 ### 节点插入与删除
 
@@ -143,15 +133,11 @@ function）。
 
 ## 外部链接
 
-  - [Interactive java applets for
-    B-splines](http://www.ibiblio.org/e-notes/Splines/Basis.htm)
-  - [Introduction to Computing with Geometry Notes
-    (Dr.C.-K.Shene/Michigan Technological
-    University)](http://www.cs.mtu.edu/~shene/COURSES/cs3621/NOTES/)
+  - [Interactive java applets for B-splines](http://www.ibiblio.org/e-notes/Splines/Basis.htm)
+  - [Introduction to Computing with Geometry Notes (Dr.C.-K.Shene/Michigan Technological University)](http://www.cs.mtu.edu/~shene/COURSES/cs3621/NOTES/)
 
 [de:Spline\#B-Splines](https://zh.wikipedia.org/wiki/de:Spline#B-Splines "wikilink")
 
 [Category:样条](https://zh.wikipedia.org/wiki/Category:样条 "wikilink")
 
-1.  Les Piegl and Wayne Tiller: The NURBS Book, Springer-Verlag
-    1995-1997 (2nd ed).
+1.  Les Piegl and Wayne Tiller: The NURBS Book, Springer-Verlag 1995-1997 (2nd ed).

@@ -1,12 +1,12 @@
-《**non-no**》（）是[日本](../Page/日本.md "wikilink")[女性](../Page/女性.md "wikilink")，由[集英社發行](../Page/集英社.md "wikilink")。創刊於1971年5月25日，每[月發行一次](../Page/月.md "wikilink")。
+《**non-no**》（）是[日本](../Page/日本.md "wikilink")[女性](../Page/女性.md "wikilink")，由[集英社](../Page/集英社.md "wikilink")發行。創刊於1971年5月25日，每[月](../Page/月.md "wikilink")發行一次。
 
 ## 概要
 
-雜誌名稱「non-no」源自[阿伊努語中](../Page/阿伊努語.md "wikilink")「花」的意思。其為日本發行時間最久、且引領[潮流的時尚雜誌之一](https://zh.wikipedia.org/wiki/潮流 "wikilink")。長期的競爭對手為《》。其許多受歡迎的專屬模特兒均成功轉型為[演員或](../Page/演員.md "wikilink")[藝人](https://zh.wikipedia.org/wiki/藝人 "wikilink")。原本的編輯方針是針對[大學生](https://zh.wikipedia.org/wiki/大學生 "wikilink")、社會新鮮人等剛[成年的女性族群](https://zh.wikipedia.org/wiki/成年 "wikilink")，自2005年左右，較大學生年長的年齡層也成了目標對象。
+雜誌名稱「non-no」源自[阿伊努語](../Page/阿伊努語.md "wikilink")中「花」的意思。其為日本發行時間最久、且引領[潮流的時尚雜誌之一](https://zh.wikipedia.org/wiki/潮流 "wikilink")。長期的競爭對手為《》。其許多受歡迎的專屬模特兒均成功轉型為[演員](../Page/演員.md "wikilink")或[藝人](https://zh.wikipedia.org/wiki/藝人 "wikilink")。原本的編輯方針是針對[大學生](https://zh.wikipedia.org/wiki/大學生 "wikilink")、社會新鮮人等剛[成年的女性族群](https://zh.wikipedia.org/wiki/成年 "wikilink")，自2005年左右，較大學生年長的年齡層也成了目標對象。
 
 其原本一個月發行2回（毎月5日、20日發售），2010年9月18日發售的11月號起改為每月發行1回（[月刊](https://zh.wikipedia.org/wiki/月刊 "wikilink")）。
 
-海外銷售方面，在[香港](../Page/香港.md "wikilink")，除專賣日語書籍的[書店外](../Page/書店.md "wikilink")，在一些[書報攤均可找得到](../Page/報攤.md "wikilink")；[台灣則在日語專門書店](https://zh.wikipedia.org/wiki/台灣 "wikilink")、雜誌專賣店、以及各大連鎖書店均可買到。
+海外銷售方面，在[香港](../Page/香港.md "wikilink")，除專賣日語書籍的[書店](../Page/書店.md "wikilink")外，在一些[書報攤均可找得到](../Page/報攤.md "wikilink")；[台灣則在日語專門書店](https://zh.wikipedia.org/wiki/台灣 "wikilink")、雜誌專賣店、以及各大連鎖書店均可買到。
 
 ## 模特兒
 
@@ -23,8 +23,7 @@
   - [上田真央](https://zh.wikipedia.org/wiki/上田真央 "wikilink")（2011年3月號 - ）○
   - [岡田紗佳](https://zh.wikipedia.org/wiki/岡田紗佳 "wikilink")（2012年2月號 - ）○
   - [竹富聖花](https://zh.wikipedia.org/wiki/竹富聖花 "wikilink")（2013年6月號 - ）○
-  - [木下日名子](https://zh.wikipedia.org/wiki/木下日名子 "wikilink")（2013年11月號 -
-    ）○
+  - [木下日名子](https://zh.wikipedia.org/wiki/木下日名子 "wikilink")（2013年11月號 - ）○
   - [泉春](https://zh.wikipedia.org/wiki/泉春 "wikilink")（2013年11月號 - ）○
   - [佐藤美希](../Page/佐藤美希.md "wikilink")（2014年3月號 - ）○
   - [新木優子](../Page/新木優子.md "wikilink")（2014年3月號 - ）○
@@ -34,22 +33,15 @@
   - [高田里穗](../Page/高田里穗.md "wikilink")（2014年11月號 - ）○
   - [姜知英](https://zh.wikipedia.org/wiki/姜知英 "wikilink")（2014年12月號 - ）
   - [西野七濑](https://zh.wikipedia.org/wiki/西野七濑 "wikilink")（[乃木坂46](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")）（2015年6月號-）○
-  - [馬場富美香](https://zh.wikipedia.org/wiki/馬場富美香 "wikilink")（2015年6月號 -
-    ）○
-  - [佐谷戸ミナ](https://zh.wikipedia.org/wiki/佐谷戸ミナ "wikilink")（2015年6月號 -
-    ）○
+  - [馬場富美香](https://zh.wikipedia.org/wiki/馬場富美香 "wikilink")（2015年6月號 - ）○
+  - [佐谷戸ミナ](https://zh.wikipedia.org/wiki/佐谷戸ミナ "wikilink")（2015年6月號 - ）○
   - [新川優愛](../Page/新川優愛.md "wikilink")（2015年8月號 - ）○
   - [武田玲奈](../Page/武田玲奈.md "wikilink")（2016年6月号 - ）○\[1\]
-  - [金城茉奈](https://zh.wikipedia.org/wiki/金城茉奈 "wikilink")（2016年6月号 -
-    ）○\[2\]
-  - [佐藤エリ](https://zh.wikipedia.org/wiki/佐藤エリ "wikilink")（2016年6月号 -
-    ）○\[3\]
-  - [松川菜々花](https://zh.wikipedia.org/wiki/松川菜々花 "wikilink")（2017年6月号 -
-    ）○\[4\]
-  - [山田愛奈](https://zh.wikipedia.org/wiki/山田愛奈 "wikilink")（2017年6月号 -
-    ）○\[5\]
-  - [渡边理佐](../Page/渡边理佐.md "wikilink")（[欅坂46](https://zh.wikipedia.org/wiki/欅坂46 "wikilink")、2017年6月号
-    - ）○\[6\]
+  - [金城茉奈](https://zh.wikipedia.org/wiki/金城茉奈 "wikilink")（2016年6月号 - ）○\[2\]
+  - [佐藤エリ](https://zh.wikipedia.org/wiki/佐藤エリ "wikilink")（2016年6月号 - ）○\[3\]
+  - [松川菜々花](https://zh.wikipedia.org/wiki/松川菜々花 "wikilink")（2017年6月号 - ）○\[4\]
+  - [山田愛奈](https://zh.wikipedia.org/wiki/山田愛奈 "wikilink")（2017年6月号 - ）○\[5\]
+  - [渡边理佐](../Page/渡边理佐.md "wikilink")（[欅坂46](https://zh.wikipedia.org/wiki/欅坂46 "wikilink")、2017年6月号 - ）○\[6\]
 
 ### 以前活躍的模特兒
 
@@ -57,7 +49,7 @@
   - [涼](https://zh.wikipedia.org/wiki/涼_\(演員\) "wikilink")
   - [Hana](https://zh.wikipedia.org/wiki/Hana_\(藝人\) "wikilink")
   - [加藤幸子](https://zh.wikipedia.org/wiki/加藤幸子_\(模特兒\) "wikilink")
-  - [SHIHO（志保）](../Page/SHIHO.md "wikilink")
+  - [SHIHO](../Page/SHIHO.md "wikilink")（志保）
   - [未希](https://zh.wikipedia.org/wiki/未希 "wikilink")
   - [夏川結衣](../Page/夏川結衣.md "wikilink")
   - [松雪泰子](../Page/松雪泰子.md "wikilink")
@@ -117,41 +109,28 @@
   - [照屋愛美](https://zh.wikipedia.org/wiki/照屋愛美 "wikilink")
   - [渡邊早織](https://zh.wikipedia.org/wiki/渡邊早織 "wikilink")
   - [菜菜緒](../Page/菜菜緒.md "wikilink")
-  - [矢野未希子](https://zh.wikipedia.org/wiki/矢野未希子 "wikilink")（2008年2月號 -
-    2011年1月號）
-  - [田中美保](https://zh.wikipedia.org/wiki/田中美保_\(模特兒\) "wikilink")（2000年
-    - 2012年5月號）
+  - [矢野未希子](https://zh.wikipedia.org/wiki/矢野未希子 "wikilink")（2008年2月號 - 2011年1月號）
+  - [田中美保](https://zh.wikipedia.org/wiki/田中美保_\(模特兒\) "wikilink")（2000年 - 2012年5月號）
   - [野崎萌香](https://zh.wikipedia.org/wiki/野崎萌香 "wikilink")（2012年5月號畢業）
   - [赤谷奈緒子](https://zh.wikipedia.org/wiki/赤谷奈緒子 "wikilink")（2012年5月號畢業）
-  - [佐藤栞里](https://zh.wikipedia.org/wiki/佐藤栞里 "wikilink")（2010年5/20號 -
-    2012年8月號）
-  - [七菜香](https://zh.wikipedia.org/wiki/七菜香 "wikilink")（2010年4/5號 -
-    2012年8月號）
+  - [佐藤栞里](https://zh.wikipedia.org/wiki/佐藤栞里 "wikilink")（2010年5/20號 - 2012年8月號）
+  - [七菜香](https://zh.wikipedia.org/wiki/七菜香 "wikilink")（2010年4/5號 - 2012年8月號）
   - [佐佐木希](../Page/佐佐木希.md "wikilink")（2010年2/5號 - 2013年5月號）
-  - [西田有沙](https://zh.wikipedia.org/wiki/西田有沙 "wikilink")（2011年3月號 -
-    2013年5月號）
-  - [岩本乃蒼](https://zh.wikipedia.org/wiki/岩本乃蒼 "wikilink")（2011年3月號 -
-    2013年5月號）
-  - [大島渚](https://zh.wikipedia.org/wiki/大島渚_\(模特兒\) "wikilink")（2011年3月號
-    - 2013年5月號）
-  - [上間美緒](https://zh.wikipedia.org/wiki/上間美緒 "wikilink")（2012年2月號 -
-    2013年5月號）
+  - [西田有沙](https://zh.wikipedia.org/wiki/西田有沙 "wikilink")（2011年3月號 - 2013年5月號）
+  - [岩本乃蒼](https://zh.wikipedia.org/wiki/岩本乃蒼 "wikilink")（2011年3月號 - 2013年5月號）
+  - [大島渚](https://zh.wikipedia.org/wiki/大島渚_\(模特兒\) "wikilink")（2011年3月號 - 2013年5月號）
+  - [上間美緒](https://zh.wikipedia.org/wiki/上間美緒 "wikilink")（2012年2月號 - 2013年5月號）
   - [水澤惠麗奈](../Page/水澤惠麗奈.md "wikilink")（2011年6月號 - 2013年6月號）
   - [日南響子](../Page/日南響子.md "wikilink")（2011年6月號　- 2013年10月號）
-  - [SAORI](https://zh.wikipedia.org/wiki/SAORI_\(1989年生\) "wikilink")（2012年2月號
-    - 2014年6月號）
-  - [三根梓](https://zh.wikipedia.org/wiki/三根梓 "wikilink")（2012年7月號 -
-    2014年11月號）
+  - [SAORI](https://zh.wikipedia.org/wiki/SAORI_\(1989年生\) "wikilink")（2012年2月號 - 2014年6月號）
+  - [三根梓](https://zh.wikipedia.org/wiki/三根梓 "wikilink")（2012年7月號 - 2014年11月號）
   - [佐藤亞璃紗](../Page/佐藤亞璃紗.md "wikilink")（2010年4/20號 - 2014年9月號）
-  - [未來穗香](https://zh.wikipedia.org/wiki/未來穗香 "wikilink")（2013年11月號 -
-    2014年10月號）
+  - [未來穗香](https://zh.wikipedia.org/wiki/未來穗香 "wikilink")（2013年11月號 - 2014年10月號）
   - [荒井萌](../Page/荒井萌.md "wikilink")（2012年2月號 - 2014年11月號）
-  - [岸本聖紫瑠](https://zh.wikipedia.org/wiki/岸本聖紫瑠 "wikilink")（2008年7/20號 -
-    2015年2月號）
+  - [岸本聖紫瑠](https://zh.wikipedia.org/wiki/岸本聖紫瑠 "wikilink")（2008年7/20號 - 2015年2月號）
   - [波瑠](../Page/波瑠.md "wikilink")（2012年6月號 - 2015年5月號）
   - [桐谷美玲](../Page/桐谷美玲.md "wikilink")（2012年3月號 - 2015年6月號）
-  - [二村祥繪](https://zh.wikipedia.org/wiki/二村祥繪 "wikilink")（2013年6月號 -
-    2015年6月號）
+  - [二村祥繪](https://zh.wikipedia.org/wiki/二村祥繪 "wikilink")（2013年6月號 - 2015年6月號）
 
 ## 面試會
 
@@ -207,8 +186,7 @@
 
 ## 參見
 
-  - [MEN'S
-    NON-NO](https://zh.wikipedia.org/wiki/MEN'S_NON-NO "wikilink")（non-no的男性版）
+  - [MEN'S NON-NO](https://zh.wikipedia.org/wiki/MEN'S_NON-NO "wikilink")（non-no的男性版）
   - [Seventeen (雜誌)](../Page/Seventeen_\(雜誌\).md "wikilink")
 
 ## 參考資料
@@ -217,9 +195,7 @@
 
   - [non-no Web](https://nonno.hpplus.jp/)
 
-[Category:集英社的雜誌](https://zh.wikipedia.org/wiki/Category:集英社的雜誌 "wikilink")
-[Category:服裝](https://zh.wikipedia.org/wiki/Category:服裝 "wikilink")
-[Category:時尚雜誌](https://zh.wikipedia.org/wiki/Category:時尚雜誌 "wikilink")
+[Category:集英社的雜誌](https://zh.wikipedia.org/wiki/Category:集英社的雜誌 "wikilink") [Category:服裝](https://zh.wikipedia.org/wiki/Category:服裝 "wikilink") [Category:時尚雜誌](https://zh.wikipedia.org/wiki/Category:時尚雜誌 "wikilink")
 
 1.
 

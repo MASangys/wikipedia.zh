@@ -2,13 +2,11 @@
 
 从奖项设立至2018年止，共有27名球员获得过最佳第六人奖。[贾马尔·克劳福德](../Page/贾马尔·克劳福德.md "wikilink")、[路·威廉姆斯共有三次获奖](https://zh.wikipedia.org/wiki/路·威廉姆斯 "wikilink")，比其他球员都多。[凯文·麦克海尔](https://zh.wikipedia.org/wiki/凯文·麦克海尔 "wikilink")、[里奇·皮尔斯和](https://zh.wikipedia.org/wiki/里奇·皮尔斯 "wikilink")[德特夫·史伦夫都曾两次获奖](https://zh.wikipedia.org/wiki/德特夫·史伦夫 "wikilink")。麦克海尔和[比尔·沃尔顿是所有最佳第六人中仅有的两名已入选](https://zh.wikipedia.org/wiki/比尔·沃尔顿 "wikilink")[篮球名人堂的运动员](../Page/奈史密斯篮球名人纪念堂.md "wikilink")，沃尔顿和[詹姆士·哈登曾获](https://zh.wikipedia.org/wiki/詹姆士·哈登 "wikilink")[NBA最有价值球员奖的球员](https://zh.wikipedia.org/wiki/NBA最有价值球员 "wikilink")\[2\]。
 
-所有获奖球员中，只有[马努·吉诺比利](https://zh.wikipedia.org/wiki/马努·吉诺比利 "wikilink")、史伦夫、[莱昂德罗·巴博萨](../Page/莱昂德罗·巴博萨.md "wikilink")、[托尼·库科奇和](../Page/托尼·库科奇.md "wikilink")[本·戈登不是在美国出生](../Page/本·戈登.md "wikilink")，戈登则是唯一获奖的新手球员\[3\]。全部五名别国出生的球员中有吉诺比利\[4\]、巴博萨和库科奇三人不是在美国完成训练\[5\]\[6\]。史伦夫在华盛顿州[森特勒利亚打过两年高中篮球后进入](../Page/森特勒利亚_\(华盛顿州\).md "wikilink")[华盛顿大学的](https://zh.wikipedia.org/wiki/华盛顿大学 "wikilink")[华盛顿大学爱斯基摩犬队](https://zh.wikipedia.org/wiki/华盛顿大学爱斯基摩犬队 "wikilink")\[7\]，戈登则是在[纽约州](../Page/纽约州.md "wikilink")[弗農山长大](../Page/弗農山_\(紐約州\).md "wikilink")，然后在[康涅狄格大学爱斯基摩犬队效力](https://zh.wikipedia.org/wiki/康涅狄格大学爱斯基摩犬队 "wikilink")\[8\]。
+所有获奖球员中，只有[马努·吉诺比利](https://zh.wikipedia.org/wiki/马努·吉诺比利 "wikilink")、史伦夫、[莱昂德罗·巴博萨](../Page/莱昂德罗·巴博萨.md "wikilink")、[托尼·库科奇](../Page/托尼·库科奇.md "wikilink")和[本·戈登](../Page/本·戈登.md "wikilink")不是在美国出生，戈登则是唯一获奖的新手球员\[3\]。全部五名别国出生的球员中有吉诺比利\[4\]、巴博萨和库科奇三人不是在美国完成训练\[5\]\[6\]。史伦夫在华盛顿州[森特勒利亚打过两年高中篮球后进入](../Page/森特勒利亚_\(华盛顿州\).md "wikilink")[华盛顿大学的](https://zh.wikipedia.org/wiki/华盛顿大学 "wikilink")[华盛顿大学爱斯基摩犬队](https://zh.wikipedia.org/wiki/华盛顿大学爱斯基摩犬队 "wikilink")\[7\]，戈登则是在[纽约州](../Page/纽约州.md "wikilink")[弗農山长大](../Page/弗農山_\(紐約州\).md "wikilink")，然后在[康涅狄格大学爱斯基摩犬队效力](https://zh.wikipedia.org/wiki/康涅狄格大学爱斯基摩犬队 "wikilink")\[8\]。
 
 ## 历届最佳第六人
 
-[Lipofsky-Kevin_McHale.jpg](https://zh.wikipedia.org/wiki/File:Lipofsky-Kevin_McHale.jpg "fig:Lipofsky-Kevin_McHale.jpg")（中）曾两次当选最佳第六人並入选[奈史密斯篮球名人纪念堂](../Page/奈史密斯篮球名人纪念堂.md "wikilink")\]\]
-[Manu_Ginóbili_cropped.jpg](https://zh.wikipedia.org/wiki/File:Manu_Ginóbili_cropped.jpg "fig:Manu_Ginóbili_cropped.jpg")赢得[2007-2008年赛季的最佳第六人奖](../Page/2007-08_NBA赛季.md "wikilink")\]\]
-[LamarOdomLakers.jpg](https://zh.wikipedia.org/wiki/File:LamarOdomLakers.jpg "fig:LamarOdomLakers.jpg")是[2010-2011年赛季的最佳第六人](https://zh.wikipedia.org/wiki/2010-11_NBA赛季 "wikilink")\]\]
+[Lipofsky-Kevin_McHale.jpg](https://zh.wikipedia.org/wiki/File:Lipofsky-Kevin_McHale.jpg "fig:Lipofsky-Kevin_McHale.jpg")（中）曾两次当选最佳第六人並入选[奈史密斯篮球名人纪念堂](../Page/奈史密斯篮球名人纪念堂.md "wikilink")\]\] [Manu_Ginóbili_cropped.jpg](https://zh.wikipedia.org/wiki/File:Manu_Ginóbili_cropped.jpg "fig:Manu_Ginóbili_cropped.jpg")赢得[2007-2008年赛季的最佳第六人奖](../Page/2007-08_NBA赛季.md "wikilink")\]\] [LamarOdomLakers.jpg](https://zh.wikipedia.org/wiki/File:LamarOdomLakers.jpg "fig:LamarOdomLakers.jpg")是[2010-2011年赛季的最佳第六人](https://zh.wikipedia.org/wiki/2010-11_NBA赛季 "wikilink")\]\]
 
 |        |                                                          |
 | ------ | -------------------------------------------------------- |
@@ -305,9 +303,7 @@
 
   - 特定
 
-[Category:NBA獎項](https://zh.wikipedia.org/wiki/Category:NBA獎項 "wikilink")
-[Category:NBA列表](https://zh.wikipedia.org/wiki/Category:NBA列表 "wikilink")
-[Category:1983年建立的獎項](https://zh.wikipedia.org/wiki/Category:1983年建立的獎項 "wikilink")
+[Category:NBA獎項](https://zh.wikipedia.org/wiki/Category:NBA獎項 "wikilink") [Category:NBA列表](https://zh.wikipedia.org/wiki/Category:NBA列表 "wikilink") [Category:1983年建立的獎項](https://zh.wikipedia.org/wiki/Category:1983年建立的獎項 "wikilink")
 
 1.
 2.

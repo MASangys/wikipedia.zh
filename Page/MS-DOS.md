@@ -1,35 +1,20 @@
-**微軟磁碟作業系統**，**MS-DOS**，的縮寫，一個由美国[微软公司發展的](../Page/微软.md "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，運行在[Intel](https://zh.wikipedia.org/wiki/Intel "wikilink")
-[x86](https://zh.wikipedia.org/wiki/x86 "wikilink")[個人電腦上](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")。它是[DOS作業系統家族中最著名的一個](../Page/DOS.md "wikilink")，在[Windows
-95以前](../Page/Windows_95.md "wikilink")，[DOS是](../Page/DOS.md "wikilink")[IBM
-PC及](../Page/IBM_PC.md "wikilink")[兼容机中的最基本配备](../Page/IBM_PC兼容机.md "wikilink")，而MS-DOS则是[个人电脑中最普遍使用的DOS操作系统](../Page/个人电脑.md "wikilink")。
+**微軟磁碟作業系統**，**MS-DOS**，的縮寫，一個由美国[微软](../Page/微软.md "wikilink")公司發展的[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，運行在[Intel](https://zh.wikipedia.org/wiki/Intel "wikilink") [x86](https://zh.wikipedia.org/wiki/x86 "wikilink")[個人電腦上](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")。它是[DOS](../Page/DOS.md "wikilink")作業系統家族中最著名的一個，在[Windows 95以前](../Page/Windows_95.md "wikilink")，[DOS](../Page/DOS.md "wikilink")是[IBM PC及](../Page/IBM_PC.md "wikilink")[兼容机中的最基本配备](../Page/IBM_PC兼容机.md "wikilink")，而MS-DOS则是[个人电脑](../Page/个人电脑.md "wikilink")中最普遍使用的DOS操作系统。
 
 ## 概觀
 
-[MS-DOS_Deutsch.png](https://zh.wikipedia.org/wiki/File:MS-DOS_Deutsch.png "fig:MS-DOS_Deutsch.png")
-最基本的MS-DOS系统，由一个基于[主引导记录](../Page/主引导记录.md "wikilink")（[硬盘才有MBR](../Page/硬盘.md "wikilink")，[软盘沒有MBR](../Page/软盘.md "wikilink")，[啟動磁區位於第](https://zh.wikipedia.org/wiki/啟動磁區 "wikilink")0軌的磁區中，內容上與硬碟的MBR略有不同）的BOOT引导程序和三个文件模块组成。这三个模块是：输入输出模块（[IO.SYS](https://zh.wikipedia.org/wiki/IO.SYS "wikilink")）、文件管理模块（[MSDOS.SYS](https://zh.wikipedia.org/wiki/MSDOS.SYS "wikilink")）及命令解释模块（COMMAND.COM），不过在MS-DOS
-7.0中，MSDOS.SYS被改为启动配置文件，而IO.SYS增加了MSDOS.SYS的功能。除此之外，[微软还在零售的MS](../Page/微软.md "wikilink")-DOS系统包中加入了若干标准的外部程序（即[外部命令](https://zh.wikipedia.org/wiki/外部命令 "wikilink")），这才与[内部命令](https://zh.wikipedia.org/wiki/内部命令 "wikilink")（即由COMMAND.COM解释执行的命令）一同构建起一个在磁盘操作时代相对完备的人机交互环境。有关MS-DOS的各种命令，请参见[MS-DOS命令列表](../Page/MS-DOS命令列表.md "wikilink")。
+[MS-DOS_Deutsch.png](https://zh.wikipedia.org/wiki/File:MS-DOS_Deutsch.png "fig:MS-DOS_Deutsch.png") 最基本的MS-DOS系统，由一个基于[主引导记录](../Page/主引导记录.md "wikilink")（[硬盘](../Page/硬盘.md "wikilink")才有MBR，[软盘](../Page/软盘.md "wikilink")沒有MBR，[啟動磁區位於第](https://zh.wikipedia.org/wiki/啟動磁區 "wikilink")0軌的磁區中，內容上與硬碟的MBR略有不同）的BOOT引导程序和三个文件模块组成。这三个模块是：输入输出模块（[IO.SYS](https://zh.wikipedia.org/wiki/IO.SYS "wikilink")）、文件管理模块（[MSDOS.SYS](https://zh.wikipedia.org/wiki/MSDOS.SYS "wikilink")）及命令解释模块（COMMAND.COM），不过在MS-DOS 7.0中，MSDOS.SYS被改为启动配置文件，而IO.SYS增加了MSDOS.SYS的功能。除此之外，[微软](../Page/微软.md "wikilink")还在零售的MS-DOS系统包中加入了若干标准的外部程序（即[外部命令](https://zh.wikipedia.org/wiki/外部命令 "wikilink")），这才与[内部命令](https://zh.wikipedia.org/wiki/内部命令 "wikilink")（即由COMMAND.COM解释执行的命令）一同构建起一个在磁盘操作时代相对完备的人机交互环境。有关MS-DOS的各种命令，请参见[MS-DOS命令列表](../Page/MS-DOS命令列表.md "wikilink")。
 
 MS-DOS使用者可透过编辑兩个位于开机磁碟根目錄的系统档案來达到调控系統组态之目的，它们分別是CONFIG.SYS及AUTOEXEC.BAT，IO.SYS会檢视CONFIG.SYS以載入指定的硬体[驱动程式](https://zh.wikipedia.org/wiki/驱动程式 "wikilink")，而COMMAND.COM则自动執行AUTOEXEC.BAT所載的[批次指令](https://zh.wikipedia.org/wiki/批次作業 "wikilink")。
 
-MS-DOS一般使用[命令行界面来接受用户的指令](../Page/命令行界面.md "wikilink")，不过在后期的MS-DOS版本中，DOS程序也可以通过调用相应的DOS中断来进入[图形模式](https://zh.wikipedia.org/wiki/GUI "wikilink")，即DOS下的图形界面程序。
+MS-DOS一般使用[命令行界面](../Page/命令行界面.md "wikilink")来接受用户的指令，不过在后期的MS-DOS版本中，DOS程序也可以通过调用相应的DOS中断来进入[图形模式](https://zh.wikipedia.org/wiki/GUI "wikilink")，即DOS下的图形界面程序。
 
-早先版本的MS-DOS為[FAT12與](https://zh.wikipedia.org/wiki/檔案配置表 "wikilink")[FAT16](https://zh.wikipedia.org/wiki/檔案配置表 "wikilink")，事實上也因為MS-DOS的流行，造成日後磁碟格式受到檔案配置表影響相當巨大。从MS-DOS
-7.0开始，尤其是MS-DOS
-7.10版本则已全面支持[FAT32](https://zh.wikipedia.org/wiki/檔案配置表 "wikilink")、[长文件名和大](https://zh.wikipedia.org/wiki/长文件名 "wikilink")[硬盘等](../Page/硬盘.md "wikilink")。
+早先版本的MS-DOS為[FAT12與](https://zh.wikipedia.org/wiki/檔案配置表 "wikilink")[FAT16](https://zh.wikipedia.org/wiki/檔案配置表 "wikilink")，事實上也因為MS-DOS的流行，造成日後磁碟格式受到檔案配置表影響相當巨大。从MS-DOS 7.0开始，尤其是MS-DOS 7.10版本则已全面支持[FAT32](https://zh.wikipedia.org/wiki/檔案配置表 "wikilink")、[长文件名和大](https://zh.wikipedia.org/wiki/长文件名 "wikilink")[硬盘](../Page/硬盘.md "wikilink")等。
 
 ## 由來
 
-1980年，的一名24岁的程序员花费了四个月时间编写出了
-[86-DOS](https://zh.wikipedia.org/wiki/86-DOS "wikilink")
-操作系统。1981年7月，[微软以五萬](../Page/微软.md "wikilink")[美元的代價向西雅图公司购得本產品的全部版权](../Page/美元.md "wikilink")，并将它更名为
-MS-DOS。随后，[IBM](../Page/IBM.md "wikilink")
-发布了第一台个人计算机，当时采用的操作系统是西雅图電腦产品公司的
-86-DOS 1.14，但微软很快改进了 MS-DOS，并使它成功地成为 [IBM
-PC](../Page/IBM_PC.md "wikilink") 采用的操作系统。并于1981年8月12日，正式发布 MS-DOS 1.0 和
-PC-DOS 1.0。
+1980年，的一名24岁的程序员花费了四个月时间编写出了 [86-DOS](https://zh.wikipedia.org/wiki/86-DOS "wikilink") 操作系统。1981年7月，[微软](../Page/微软.md "wikilink")以五萬[美元](../Page/美元.md "wikilink")的代價向西雅图公司购得本產品的全部版权，并将它更名为 MS-DOS。随后，[IBM](../Page/IBM.md "wikilink") 发布了第一台个人计算机，当时采用的操作系统是西雅图電腦产品公司的 86-DOS 1.14，但微软很快改进了 MS-DOS，并使它成功地成为 [IBM PC](../Page/IBM_PC.md "wikilink") 采用的操作系统。并于1981年8月12日，正式发布 MS-DOS 1.0 和 PC-DOS 1.0。
 
-西雅图電腦产品公司后来曾将微软告上[法庭](../Page/法庭.md "wikilink")，指控微软在购买 86-DOS 版权时，并未透露
-IBM 是其客户。微软在1986年向西雅图计算机产品公司又支付了100万美元，了结了双方之间的纠纷。
+西雅图電腦产品公司后来曾将微软告上[法庭](../Page/法庭.md "wikilink")，指控微软在购买 86-DOS 版权时，并未透露 IBM 是其客户。微软在1986年向西雅图计算机产品公司又支付了100万美元，了结了双方之间的纠纷。
 
 2014年3月25日，微軟首次正式對外公開早期 MS-DOS 的原始碼。\[1\]
 
@@ -74,11 +59,11 @@ IBM 是其客户。微软在1986年向西雅图计算机产品公司又支付了
 </tr>
 <tr class="even">
 <td><p>MS-DOS 3.2</p></td>
-<td><p>1986年1月，加入了3.5吋软盘的強化支援，並開始可以透過<a href="https://zh.wikipedia.org/wiki/驅動程式" title="wikilink">驅動程式使用硬體EMS</a>。臺灣的<a href="https://zh.wikipedia.org/wiki/宏碁電腦" title="wikilink">宏碁電腦在</a><a href="https://zh.wikipedia.org/wiki/資策會" title="wikilink">資策會與公會的支持下</a>，與微软在MS-DOS 3.2的基礎上開發了符合<a href="https://zh.wikipedia.org/wiki/財團法人中文數位化技術推廣基金會" title="wikilink">財團法人中文數位化技術推廣基金會標準的全中文DOS</a>：MS-DOS 3.21，並配合當時第一代的松下<a href="https://zh.wikipedia.org/wiki/漢音輸入法" title="wikilink">漢音輸入法搭載於當時宏碁的機器上</a>，漢音輸入法是臺灣最早的智慧中文輸入法，現在則是MacOS中內建預設的中文輸入法之一。由於中文內碼採用<a href="https://zh.wikipedia.org/wiki/公會碼" title="wikilink">公會碼</a>，與主流的<a href="../Page/大五碼.md" title="wikilink">大五碼並不相容</a>，以致MS-DOS 3.21版本臺灣銷量並不好。但MS-DOS 3.21的技術受到廣泛的使用，中文系統獨立成為【宏碁中文工作室】軟體，CMEX規格則成為業界中文系統標準，並在後來主要的系統廠商如<a href="../Page/倚天中文系統.md" title="wikilink">倚天中文系統</a>、<a href="https://zh.wikipedia.org/wiki/微軟" title="wikilink">微軟的</a><a href="https://zh.wikipedia.org/wiki/Windows" title="wikilink">Windows中文版下被採用</a>，而其內部使用的GW-BASIC後來更成為後來MS-DOS的標準軟體。</p></td>
+<td><p>1986年1月，加入了3.5吋软盘的強化支援，並開始可以透過<a href="https://zh.wikipedia.org/wiki/驅動程式" title="wikilink">驅動程式使用硬體EMS</a>。臺灣的<a href="https://zh.wikipedia.org/wiki/宏碁電腦" title="wikilink">宏碁電腦在</a><a href="https://zh.wikipedia.org/wiki/資策會" title="wikilink">資策會與公會的支持下</a>，與微软在MS-DOS 3.2的基礎上開發了符合<a href="https://zh.wikipedia.org/wiki/財團法人中文數位化技術推廣基金會" title="wikilink">財團法人中文數位化技術推廣基金會標準的全中文DOS</a>：MS-DOS 3.21，並配合當時第一代的松下<a href="https://zh.wikipedia.org/wiki/漢音輸入法" title="wikilink">漢音輸入法搭載於當時宏碁的機器上</a>，漢音輸入法是臺灣最早的智慧中文輸入法，現在則是MacOS中內建預設的中文輸入法之一。由於中文內碼採用<a href="https://zh.wikipedia.org/wiki/公會碼" title="wikilink">公會碼</a>，與主流的<a href="../Page/大五碼.md" title="wikilink">大五碼</a>並不相容，以致MS-DOS 3.21版本臺灣銷量並不好。但MS-DOS 3.21的技術受到廣泛的使用，中文系統獨立成為【宏碁中文工作室】軟體，CMEX規格則成為業界中文系統標準，並在後來主要的系統廠商如<a href="../Page/倚天中文系統.md" title="wikilink">倚天中文系統</a>、<a href="https://zh.wikipedia.org/wiki/微軟" title="wikilink">微軟的</a><a href="https://zh.wikipedia.org/wiki/Windows" title="wikilink">Windows中文版下被採用</a>，而其內部使用的GW-BASIC後來更成為後來MS-DOS的標準軟體。</p></td>
 </tr>
 <tr class="odd">
 <td><p>MS-DOS 3.3</p></td>
-<td><p>1987年8月，修正部份內部錯誤、增加了許多關於檔案處理的外部命令、開始支援<a href="https://zh.wikipedia.org/wiki/軟碟" title="wikilink">軟碟之後</a>，MS-DOS 3.3成為當時最穩定、暢銷的版本，可以說是MS-DOS第二次的重大改版，一年後發行的4.0甚至還不如3.3普及。內部的BASIC直譯器在3.x之後逐漸由BASICA改為增強繪圖能力的GW-BASIC。此際<a href="https://zh.wikipedia.org/wiki/倚天公司" title="wikilink">倚天公司在前幾版本的BASICA基礎上開發了支援中文繪圖模式的ETBASIC</a>，幾乎成為當時<a href="../Page/臺灣.md" title="wikilink">臺灣學習BASIC語言的標準配備</a>。外部命令部分最重要的則是增加了XCOPY與APPEND，增強了早就該有的檔案管理能力。</p></td>
+<td><p>1987年8月，修正部份內部錯誤、增加了許多關於檔案處理的外部命令、開始支援<a href="https://zh.wikipedia.org/wiki/軟碟" title="wikilink">軟碟之後</a>，MS-DOS 3.3成為當時最穩定、暢銷的版本，可以說是MS-DOS第二次的重大改版，一年後發行的4.0甚至還不如3.3普及。內部的BASIC直譯器在3.x之後逐漸由BASICA改為增強繪圖能力的GW-BASIC。此際<a href="https://zh.wikipedia.org/wiki/倚天公司" title="wikilink">倚天公司在前幾版本的BASICA基礎上開發了支援中文繪圖模式的ETBASIC</a>，幾乎成為當時<a href="../Page/臺灣.md" title="wikilink">臺灣</a>學習BASIC語言的標準配備。外部命令部分最重要的則是增加了XCOPY與APPEND，增強了早就該有的檔案管理能力。</p></td>
 </tr>
 <tr class="even">
 <td><p>MS-DOS 4.0</p></td>
@@ -128,18 +113,11 @@ IBM 是其客户。微软在1986年向西雅图计算机产品公司又支付了
 
 ## 外部連結
 
-  - [github.com/microsoft/ms-dos － MS-DOS
-    開源原始碼](https://github.com/microsoft/ms-dos)
-  - [目前的授權協定政策 － MS-DOS 與
-    Windows](https://web.archive.org/web/20121024151449/http://support.microsoft.com/kb/79747)
-  - [DOSBox － 多平台 DOS
-    模擬器](http://dosbox.sourceforge.net/news.php?show_news=1)
-  - [Archive.Org － MS-DOS
-    模擬器](https://archive.org/details/softwarelibrary_msdos_games)
+  - [github.com/microsoft/ms-dos － MS-DOS 開源原始碼](https://github.com/microsoft/ms-dos)
+  - [目前的授權協定政策 － MS-DOS 與 Windows](https://web.archive.org/web/20121024151449/http://support.microsoft.com/kb/79747)
+  - [DOSBox － 多平台 DOS 模擬器](http://dosbox.sourceforge.net/news.php?show_news=1)
+  - [Archive.Org － MS-DOS 模擬器](https://archive.org/details/softwarelibrary_msdos_games)
 
-[Category:1981年软件](https://zh.wikipedia.org/wiki/Category:1981年软件 "wikilink")
-[Category:磁盘操作系统](https://zh.wikipedia.org/wiki/Category:磁盘操作系统 "wikilink")
-[Category:微軟操作系统](https://zh.wikipedia.org/wiki/Category:微軟操作系统 "wikilink")
-[Category:已停止開發的作業系統](https://zh.wikipedia.org/wiki/Category:已停止開發的作業系統 "wikilink")
+[Category:1981年软件](https://zh.wikipedia.org/wiki/Category:1981年软件 "wikilink") [Category:磁盘操作系统](https://zh.wikipedia.org/wiki/Category:磁盘操作系统 "wikilink") [Category:微軟操作系统](https://zh.wikipedia.org/wiki/Category:微軟操作系统 "wikilink") [Category:已停止開發的作業系統](https://zh.wikipedia.org/wiki/Category:已停止開發的作業系統 "wikilink")
 
 1.

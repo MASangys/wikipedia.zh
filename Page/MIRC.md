@@ -1,7 +1,6 @@
-**mIRC**是一個[Windows系統上的](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[即時通訊共享軟件](https://zh.wikipedia.org/wiki/即時通訊軟件 "wikilink")，由Khaled
-Mardam-Bey開發並在1995年發佈。現在它的[mIRC語言已经在原来的基础上得到了极大的拓展](https://zh.wikipedia.org/wiki/mIRC語言 "wikilink")。其主要附加功能包括：
+**mIRC**是一個[Windows系統上的](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[即時通訊共享軟件](https://zh.wikipedia.org/wiki/即時通訊軟件 "wikilink")，由Khaled Mardam-Bey開發並在1995年發佈。現在它的[mIRC語言已经在原来的基础上得到了极大的拓展](https://zh.wikipedia.org/wiki/mIRC語言 "wikilink")。其主要附加功能包括：
 
-  - 頻道[IRC自動管理](../Page/IRC.md "wikilink")
+  - 頻道[IRC](../Page/IRC.md "wikilink")自動管理
   - 支持多人遊戲[伺服器](https://zh.wikipedia.org/wiki/伺服器 "wikilink")
   - 内置MP3播放器
   - 網頁parser（多數用於觀看搜尋結果或標題）
@@ -15,7 +14,7 @@ Mardam-Bey開發並在1995年發佈。現在它的[mIRC語言已经在原来的�
   - 同時連接至多個伺服器（新增在版本6.0）
   - 高智能的事項性及指令性的程式語言
   - \-{zh-tw:支援;zh-cn:支持}-基本[CTCP](https://zh.wikipedia.org/wiki/CTCP "wikilink")
-  - \-{zh-tw:支援;zh-cn:支持}-CTCP的音訊（可播放[MP3](../Page/MP3.md "wikilink")、[WAV和](../Page/WAV.md "wikilink")[MIDI](../Page/MIDI.md "wikilink")）
+  - \-{zh-tw:支援;zh-cn:支持}-CTCP的音訊（可播放[MP3](../Page/MP3.md "wikilink")、[WAV](../Page/WAV.md "wikilink")和[MIDI](../Page/MIDI.md "wikilink")）
   - \-{zh-tw:支援;zh-cn:支持}-[DCC的交談及檔案發送](https://zh.wikipedia.org/wiki/DCC "wikilink")
   - 能停止下载隱藏的木馬
   - 檔案伺服器（由DCC交談控制）允許用戶瀏覽和下載指定的檔案
@@ -25,8 +24,7 @@ Mardam-Bey開發並在1995年發佈。現在它的[mIRC語言已经在原来的�
 ## 常見問題
 
   - mIRC語言允許鬧事者欺騙其他用戶執行危險命令程式。
-  - Khaled
-    Mardam-Bey沒有咨詢其他mIRC开发者，而选择了一种备受指责的颜色格式；這也許是为什么一些IRC程序作者不對mIRC进行支持。
+  - Khaled Mardam-Bey沒有咨詢其他mIRC开发者，而选择了一种备受指责的颜色格式；這也許是为什么一些IRC程序作者不對mIRC进行支持。
   - 利用mIRC可以傳送一個不引人注意的命令而令電腦关機，这个问题将会迫使用户升级。（6.1X版的mIRC已经修正了这个bug，更新后的用户已经不必再担心这个问题了）
 
 ## 復活節彩蛋

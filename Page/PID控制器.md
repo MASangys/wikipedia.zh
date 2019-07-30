@@ -1,8 +1,8 @@
-**PID控制器**（比例-积分-微分[控制器](https://zh.wikipedia.org/wiki/控制器 "wikilink")），由比例单元（P）、[积分单元](../Page/积分.md "wikilink")（I）和[微分单元](../Page/微分.md "wikilink")（D）组成\[1\]。可以透過調整這三個單元的增益Kp，Ki和Kd來調定其特性。PID控制器主要适用于基本上线性，且动态特性不随时间变化的系统。
+**PID控制器**（比例-积分-微分[控制器](https://zh.wikipedia.org/wiki/控制器 "wikilink")），由比例单元（P）、[积分](../Page/积分.md "wikilink")单元（I）和[微分](../Page/微分.md "wikilink")单元（D）组成\[1\]。可以透過調整這三個單元的增益Kp，Ki和Kd來調定其特性。PID控制器主要适用于基本上线性，且动态特性不随时间变化的系统。
 
 [Pid-feedback-nct-int-correct.png](https://zh.wikipedia.org/wiki/File:Pid-feedback-nct-int-correct.png "fig:Pid-feedback-nct-int-correct.png")
 
-PID控制器是一个在工业控制应用中常见的[反馈回路部件](../Page/反馈.md "wikilink")。这个控制器把收集到的数据和一个参考值进行比较，然后把这个差别用于计算新的输入值，这个新的输入值的目的是可以让系统的数据达到或者保持在参考值。PID控制器可以根据历史数据和差别的出现率来调整输入值，使系统更加准确而稳定。
+PID控制器是一个在工业控制应用中常见的[反馈](../Page/反馈.md "wikilink")回路部件。这个控制器把收集到的数据和一个参考值进行比较，然后把这个差别用于计算新的输入值，这个新的输入值的目的是可以让系统的数据达到或者保持在参考值。PID控制器可以根据历史数据和差别的出现率来调整输入值，使系统更加准确而稳定。
 
 PID控制器的比例单元(P)、积分单元(I)和微分单元(D)分別對應目前誤差、過去累計誤差及未來誤差。若是不知道受控系統的特性，一般認為PID控制器是最適用的控制器\[2\]。藉由調整PID控制器的三個參數，可以調整控制系統，設法滿足設計需求。控制器的響應可以用控制器對誤差的反應快慢、控制器[過衝的程度及系統震盪的程度來表示](https://zh.wikipedia.org/wiki/過衝 "wikilink")。不過使用PID控制器不一定保證可達到系統的[最佳控制](https://zh.wikipedia.org/wiki/最佳控制 "wikilink")，也不保證系統穩定性。
 
@@ -14,17 +14,17 @@ PID回路是要自动实现一个操作人员用量具和控制旋钮進行的�
 
 一个控制回路包括三个部分：
 
-1.  系统的[传感器得到的测量结果](../Page/传感器.md "wikilink")
+1.  系统的[传感器](../Page/传感器.md "wikilink")得到的测量结果
 2.  控制器作出决定
 3.  通过一个输出设备来作出反应
 
-控制器从[传感器得到测量结果](../Page/传感器.md "wikilink")，然后用需求结果减去测量结果来得到误差。然后用误差来计算出一个对系统的纠正值来作为输入结果，这样系统就可以从它的输出结果中消除误差。
+控制器从[传感器](../Page/传感器.md "wikilink")得到测量结果，然后用需求结果减去测量结果来得到误差。然后用误差来计算出一个对系统的纠正值来作为输入结果，这样系统就可以从它的输出结果中消除误差。
 
 在一个PID回路中，这个纠正值有三种算法，消除目前的误差，平均过去的误差，和透過误差的改变来预测将来的误差。
 
-比如说，假如利用水箱在为植物提供水，水箱的水需要保持在一定的高度。可以用[传感器来检查水箱里水的高度](../Page/传感器.md "wikilink")，这样就得到了测量结果。控制器会有一个固定的用户输入值来表示水箱需要的水面高度，假设这个值是保持65％的水量。控制器的输出设备会连在由马达控制的水阀门上。打开阀门就会给水箱注水，关上阀门就会让水箱里的水量下降。这个阀门的控制信号就是控制变量。
+比如说，假如利用水箱在为植物提供水，水箱的水需要保持在一定的高度。可以用[传感器](../Page/传感器.md "wikilink")来检查水箱里水的高度，这样就得到了测量结果。控制器会有一个固定的用户输入值来表示水箱需要的水面高度，假设这个值是保持65％的水量。控制器的输出设备会连在由马达控制的水阀门上。打开阀门就会给水箱注水，关上阀门就会让水箱里的水量下降。这个阀门的控制信号就是控制变量。
 
-PID控制器可以用来控制任何可被测量及可被控制变量。比如，它可以用来控制温度、[压强](../Page/压强.md "wikilink")、流量、化学成分、速度等等。汽车上的[巡航定速功能就是一个例子](../Page/巡航定速.md "wikilink")。
+PID控制器可以用来控制任何可被测量及可被控制变量。比如，它可以用来控制温度、[压强](../Page/压强.md "wikilink")、流量、化学成分、速度等等。汽车上的[巡航定速](../Page/巡航定速.md "wikilink")功能就是一个例子。
 
 一些控制系统把数个PID控制器[串联起来](https://zh.wikipedia.org/wiki/串联 "wikilink")，或是连成网络。这样的话，一个主控制器可能会为其他控制输出结果。一个常见的例子是马达的控制。控制系統會需要马达有一个受控的速度，最後停在一个确定的位置。可由一個子控制器用来管理速度，但是这个子控制器的速度是由控制马达位置的主控制器来管理的。
 
@@ -34,15 +34,15 @@ PID控制器可以用来控制任何可被测量及可被控制变量。比如�
 
 [Scross_helmsman.jpg](https://zh.wikipedia.org/wiki/File:Scross_helmsman.jpg "fig:Scross_helmsman.jpg")的動作而來\]\]
 
-PID控制器可以追溯到1890年代的設計\[3\]\[4\]。PID控制器是在船舶自动操作系統中漸漸發展。1911年開發的控制器是最早期PID型控制器的其中之一\[5\]，而第一個發表PID控制器理論分析論文的是[俄裔美国工程師](../Page/俄裔美国人.md "wikilink")。米诺尔斯基當時在設計美國海軍的自动操作系統，他的設計是基於對[舵手的觀察](../Page/舵手.md "wikilink")，控制船舶不只是依目前的誤差，也考慮過去的誤差以及誤差的變化趨勢\[6\]，後來米诺尔斯基也用數學的方式加以推導\[7\]。他的目的是在於穩定性，而不是泛用的控制，因此大幅的簡化了問題。比例控制可以在小的擾動下有穩定性，但無法消除穩態誤差，因此加入了積分項，後來也加入了微分項。
+PID控制器可以追溯到1890年代的設計\[3\]\[4\]。PID控制器是在船舶自动操作系統中漸漸發展。1911年開發的控制器是最早期PID型控制器的其中之一\[5\]，而第一個發表PID控制器理論分析論文的是[俄裔美国工程師](../Page/俄裔美国人.md "wikilink")。米诺尔斯基當時在設計美國海軍的自动操作系統，他的設計是基於對[舵手](../Page/舵手.md "wikilink")的觀察，控制船舶不只是依目前的誤差，也考慮過去的誤差以及誤差的變化趨勢\[6\]，後來米诺尔斯基也用數學的方式加以推導\[7\]。他的目的是在於穩定性，而不是泛用的控制，因此大幅的簡化了問題。比例控制可以在小的擾動下有穩定性，但無法消除穩態誤差，因此加入了積分項，後來也加入了微分項。
 
-當時在[新墨西哥號戰艦上進行測試](../Page/新墨西哥號戰艦.md "wikilink")，利用控制器控制[舵的](../Page/舵.md "wikilink")[角速度](../Page/角速度.md "wikilink")，利用PI控制器可以角度誤差維持在±2°以內，若加上D控制，角度誤差維持在±1/6°，比最好的舵手還要好\[8\]。
+當時在[新墨西哥號戰艦](../Page/新墨西哥號戰艦.md "wikilink")上進行測試，利用控制器控制[舵](../Page/舵.md "wikilink")的[角速度](../Page/角速度.md "wikilink")，利用PI控制器可以角度誤差維持在±2°以內，若加上D控制，角度誤差維持在±1/6°，比最好的舵手還要好\[8\]。
 
 不過因為海軍人員的抗拒，海軍那時候未使用這套系統，在1930年代也有其他人作出類似的研究。
 
-在自動控制發展的早期，用機械設備來實現PID控制，是由[槓桿](https://zh.wikipedia.org/wiki/槓桿 "wikilink")、[彈簧](https://zh.wikipedia.org/wiki/彈簧 "wikilink")、[阻尼及質量組成](../Page/阻尼.md "wikilink")，多半會用壓縮氣體驅動。[氣動控制器還一度是工業上的標準](../Page/氣動力學.md "wikilink")。
+在自動控制發展的早期，用機械設備來實現PID控制，是由[槓桿](https://zh.wikipedia.org/wiki/槓桿 "wikilink")、[彈簧](https://zh.wikipedia.org/wiki/彈簧 "wikilink")、[阻尼](../Page/阻尼.md "wikilink")及質量組成，多半會用壓縮氣體驅動。[氣動控制器還一度是工業上的標準](../Page/氣動力學.md "wikilink")。
 
-電子的類比控制器可以用[電晶體](https://zh.wikipedia.org/wiki/電晶體 "wikilink")、[真空管](../Page/真空管.md "wikilink")、[電容器及](https://zh.wikipedia.org/wiki/電容器 "wikilink")[電阻器組成](https://zh.wikipedia.org/wiki/電阻器 "wikilink")。許多複雜的電子系統中常會包括PID控制，例如[磁碟的讀寫頭定位](https://zh.wikipedia.org/wiki/磁碟 "wikilink")、[電源供應器的電源條件](../Page/電源供應器.md "wikilink")、甚至是現代[地震儀的運動偵測線路](../Page/地震儀.md "wikilink")。現代電子控制器已大幅的被這些利用[單晶片或](https://zh.wikipedia.org/wiki/單晶片 "wikilink")[FPGA來實現的數位控制器所取代](https://zh.wikipedia.org/wiki/FPGA "wikilink")。
+電子的類比控制器可以用[電晶體](https://zh.wikipedia.org/wiki/電晶體 "wikilink")、[真空管](../Page/真空管.md "wikilink")、[電容器及](https://zh.wikipedia.org/wiki/電容器 "wikilink")[電阻器組成](https://zh.wikipedia.org/wiki/電阻器 "wikilink")。許多複雜的電子系統中常會包括PID控制，例如[磁碟的讀寫頭定位](https://zh.wikipedia.org/wiki/磁碟 "wikilink")、[電源供應器](../Page/電源供應器.md "wikilink")的電源條件、甚至是現代[地震儀](../Page/地震儀.md "wikilink")的運動偵測線路。現代電子控制器已大幅的被這些利用[單晶片或](https://zh.wikipedia.org/wiki/單晶片 "wikilink")[FPGA來實現的數位控制器所取代](https://zh.wikipedia.org/wiki/FPGA "wikilink")。
 
 現代工業使用的PID控制器多半會用[PLC或有安装面板的數位控制器來實現](../Page/可编程逻辑控制器.md "wikilink")。軟體實現的好處是相對低廉，配合PID實現方式調整的靈敏度很大。在工業鍋爐、塑膠射出機械、烫金机及包裝行業中都會用到PID控制。
 
@@ -76,14 +76,13 @@ PID控制器的一般[转移函数是](../Page/传递函数.md "wikilink")：
 
 [PID_varyingP.jpg](https://zh.wikipedia.org/wiki/File:PID_varyingP.jpg "fig:PID_varyingP.jpg")
 
-[比例控制考慮当前誤差](../Page/比例.md "wikilink")，误差值和一个正值的常数K<sub>p</sub>（表示比例）相乘。K<sub>p</sub>只是在控制器的输出和系统的误差成比例的时候成立。比如说，一个电热器控制器是在目標溫度和實際溫度差10°C時有100%的輸出，而其目標值是25°C。那么它在15°C的时候会输出100%，在20°C的时候会输出50%，在24°C的时候输出10％，注意在误差是0的时候，控制器的输出也是0。
+[比例](../Page/比例.md "wikilink")控制考慮当前誤差，误差值和一个正值的常数K<sub>p</sub>（表示比例）相乘。K<sub>p</sub>只是在控制器的输出和系统的误差成比例的时候成立。比如说，一个电热器控制器是在目標溫度和實際溫度差10°C時有100%的輸出，而其目標值是25°C。那么它在15°C的时候会输出100%，在20°C的时候会输出50%，在24°C的时候输出10％，注意在误差是0的时候，控制器的输出也是0。
 
 比例控制的輸出如下：
 
 \[P_{\mathrm{out}}=K_p\,{e(t)}\]
 
-若比例增益大，在相同誤差量下，會有較大的輸出，但若比例增益太大，會使系統不穩定
-。相反的，若比例增益小，若在相同誤差量下，其輸出較小，因此控制器會較不敏感的。若比例增益太小，當有干擾出現時，其控制信號可能不夠大，無法修正干擾的影響。
+若比例增益大，在相同誤差量下，會有較大的輸出，但若比例增益太大，會使系統不穩定 。相反的，若比例增益小，若在相同誤差量下，其輸出較小，因此控制器會較不敏感的。若比例增益太小，當有干擾出現時，其控制信號可能不夠大，無法修正干擾的影響。
 
 #### 穩態誤差
 
@@ -93,7 +92,7 @@ PID控制器的一般[转移函数是](../Page/传递函数.md "wikilink")：
 
 [Change_with_Ki.png](https://zh.wikipedia.org/wiki/File:Change_with_Ki.png "fig:Change_with_Ki.png")
 
-[积分控制考慮过去誤差](../Page/积分.md "wikilink")，將误差值过去一段时间和（误差和）乘以一个正值的常数K<sub>i</sub>。K<sub>i</sub>从过去的平均误差值来找到系统的输出结果和预定值的平均误差。一个简单的比例系统会震盪，会在预定值的附近来回变化，因为系统无法消除多余的纠正。通过加上负的平均误差值，平均系统误差值就会漸漸减少。所以，最终这个PID回路系统会在設定值稳定下来。
+[积分](../Page/积分.md "wikilink")控制考慮过去誤差，將误差值过去一段时间和（误差和）乘以一个正值的常数K<sub>i</sub>。K<sub>i</sub>从过去的平均误差值来找到系统的输出结果和预定值的平均误差。一个简单的比例系统会震盪，会在预定值的附近来回变化，因为系统无法消除多余的纠正。通过加上负的平均误差值，平均系统误差值就会漸漸减少。所以，最终这个PID回路系统会在設定值稳定下来。
 
 積分控制的輸出如下：
 
@@ -106,7 +105,7 @@ PID控制器的一般[转移函数是](../Page/传递函数.md "wikilink")：
 
 [Change_with_Kd.png](https://zh.wikipedia.org/wiki/File:Change_with_Kd.png "fig:Change_with_Kd.png")
 
-[微分控制考慮将来誤差](../Page/微分.md "wikilink")，计算误差的一阶导，并和一个正值的常数K<sub>d</sub>相乘。这个导数的控制会对系统的改变作出反应。导数的结果越大，那么控制系统就对输出结果作出更快速的反应。这个K<sub>d</sub>参数也是PID被称为可预测的控制器的原因。K<sub>d</sub>参数对减少控制器短期的改变很有帮助。一些实际中的速度缓慢的系统可以不需要K<sub>d</sub>参数。
+[微分](../Page/微分.md "wikilink")控制考慮将来誤差，计算误差的一阶导，并和一个正值的常数K<sub>d</sub>相乘。这个导数的控制会对系统的改变作出反应。导数的结果越大，那么控制系统就对输出结果作出更快速的反应。这个K<sub>d</sub>参数也是PID被称为可预测的控制器的原因。K<sub>d</sub>参数对减少控制器短期的改变很有帮助。一些实际中的速度缓慢的系统可以不需要K<sub>d</sub>参数。
 
 微分控制的輸出如下：
 
@@ -128,21 +127,19 @@ PID控制器的設計及調試在概念上很直覺，但若有多個（且互�
 
 若PID控制器的參數未挑選妥當，其控制器輸出可能是不穩定的，也就是其輸出發散，過程中可能有震盪，也可能沒有震盪，且其輸出只受飽和或是機械損壞等原因所限制。不穩定一般是因為過大增益造成，特別是針對延遲時間很長的系統。
 
-一般而言，PID控制器會要求響應的穩定，不論程序條件及設定值如何組合，都不能出現大幅振盪的情形，不過有時可以接受[臨界穩定的情形](../Page/臨界穩定.md "wikilink")。
+一般而言，PID控制器會要求響應的穩定，不論程序條件及設定值如何組合，都不能出現大幅振盪的情形，不過有時可以接受[臨界穩定](../Page/臨界穩定.md "wikilink")的情形。
 
 ### 最佳性能
 
 PID控制器的最佳性能可能和針對過程變化或是設定值變化有關，也會隨應用而不同。
 
-兩個基本的需求是調整能力（regulation，干擾拒絕，使系統維持在設定值）及命令追隨
-（設定值變化下，控制器輸出追隨設定值的反應速度）。有關命令追隨的一些準則包括有及[整定時間](https://zh.wikipedia.org/wiki/整定時間 "wikilink")。有些應用可能因為安全考量，不允許輸出超過設定值，也有些應用要求在到達設定值過程中的能量可以最小化。
+兩個基本的需求是調整能力（regulation，干擾拒絕，使系統維持在設定值）及命令追隨 （設定值變化下，控制器輸出追隨設定值的反應速度）。有關命令追隨的一些準則包括有及[整定時間](https://zh.wikipedia.org/wiki/整定時間 "wikilink")。有些應用可能因為安全考量，不允許輸出超過設定值，也有些應用要求在到達設定值過程中的能量可以最小化。
 
 ### 各方法的簡介
 
 有許多種調試PID控制器參數的方法，最有效的方式多半是建立某種程序，再依不同參數下的動態特性來調試參數。相對而言人工調試其效率較差，若是系統的響應時間到數分鐘以上，更可以看出人工調試效率的不佳。
 
-調試方法的選擇和是否可以暫時將控制迴路「離線」有關，也和系統的響應時間有關。離線是指一個和實際使用有些不同的條件（例如不加負載），而且控制器的輸出只需考慮理論情況，不需考慮實際應用。在線調試是在實際應用的條件，控制器的輸出需考慮實際的系統
-。若控制迴路可以離線，最好的調試方法是對系統給一個步階輸入，量測其輸出對時間的關係，再用其響應來決定參數。
+調試方法的選擇和是否可以暫時將控制迴路「離線」有關，也和系統的響應時間有關。離線是指一個和實際使用有些不同的條件（例如不加負載），而且控制器的輸出只需考慮理論情況，不需考慮實際應用。在線調試是在實際應用的條件，控制器的輸出需考慮實際的系統 。若控制迴路可以離線，最好的調試方法是對系統給一個步階輸入，量測其輸出對時間的關係，再用其響應來決定參數。
 
 | 方法         | 優點                                                                                                                       | 缺點                       |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------ | ------------------------ |
@@ -155,9 +152,7 @@ PID控制器的最佳性能可能和針對過程變化或是設定值變化有�
 
 ### 人工調整
 
-若需在系統仍有負載的情形進行調試（線上調試），有一種作法是先將\(K_i\)及\(K_d\)設為零，增加\(K_p\)一直到迴路輸出震盪為止，之後再將\(K_p\)設定為「1/4振幅衰減」（使系統第二次過衝量是第一次的1/4）增益的一半，然後增加\(K_i\)直到一定時間後的穩態誤差可被修正為止。不過若\(K_i\)可能會造成不穩定，最後若有需要，可以增加\(K_d\)，並確認在負載變動後迴路可以夠快的回到其設定值，不過若\(K_d\)太大會造成響應太快及過衝。一般而言快速反應的PID應該會有輕微的過衝，只是有些系統不允許過衝。因此需要將回授系統調整為[過阻尼系統](https://zh.wikipedia.org/wiki/阻尼#阻尼 "wikilink")，而\(K_p\)比造成震盪\(K_p\)的一半還要小很多。
-[PID_Compensation_Animated.gif](https://zh.wikipedia.org/wiki/File:PID_Compensation_Animated.gif "fig:PID_Compensation_Animated.gif")
-調整PID參數對系統的影響如下
+若需在系統仍有負載的情形進行調試（線上調試），有一種作法是先將\(K_i\)及\(K_d\)設為零，增加\(K_p\)一直到迴路輸出震盪為止，之後再將\(K_p\)設定為「1/4振幅衰減」（使系統第二次過衝量是第一次的1/4）增益的一半，然後增加\(K_i\)直到一定時間後的穩態誤差可被修正為止。不過若\(K_i\)可能會造成不穩定，最後若有需要，可以增加\(K_d\)，並確認在負載變動後迴路可以夠快的回到其設定值，不過若\(K_d\)太大會造成響應太快及過衝。一般而言快速反應的PID應該會有輕微的過衝，只是有些系統不允許過衝。因此需要將回授系統調整為[過阻尼系統](https://zh.wikipedia.org/wiki/阻尼#阻尼 "wikilink")，而\(K_p\)比造成震盪\(K_p\)的一半還要小很多。 [PID_Compensation_Animated.gif](https://zh.wikipedia.org/wiki/File:PID_Compensation_Animated.gif "fig:PID_Compensation_Animated.gif") 調整PID參數對系統的影響如下
 
 | 調整方式            | (on) 上升时间 | 超调量  | 安定时间   | 稳态误差   | 稳定性\[14\] |
 | --------------- | --------- | ---- | ------ | ------ | --------- |
@@ -167,9 +162,7 @@ PID控制器的最佳性能可能和針對過程變化或是設定值變化有�
 
 ### 齊格勒－尼科爾斯方法
 
-[齊格勒－尼科爾斯方法是另一種啟發式的調試方式](https://zh.wikipedia.org/wiki/齊格勒－尼科爾斯方法 "wikilink")，由John
-G. Ziegler和Nathaniel B.
-Nichols在1940年代導入，一開始也是將\(K_i\)及\(K_d\)設定為零，增加比例增益直到系統開始振盪為止，當時的增益稱為\(K_u\)，而振盪週期為\(P_u\)，即可用以下的方式計算增益：
+[齊格勒－尼科爾斯方法是另一種啟發式的調試方式](https://zh.wikipedia.org/wiki/齊格勒－尼科爾斯方法 "wikilink")，由John G. Ziegler和Nathaniel B. Nichols在1940年代導入，一開始也是將\(K_i\)及\(K_d\)設定為零，增加比例增益直到系統開始振盪為止，當時的增益稱為\(K_u\)，而振盪週期為\(P_u\)，即可用以下的方式計算增益：
 
 | 控制器種類 | \(K_p\)       | \(K_i\)          | \(K_d\)          |
 | ----- | ------------- | ---------------- | ---------------- |
@@ -199,11 +192,11 @@ PID控制器最顯著的提昇是配合[前饋控制](https://zh.wikipedia.org/w
 
 ### 線性
 
-PID控制器常見的問題是在於其線性且對稱的特性，若應用在一些非線性的系統，其效果可能會有變化。以[暖通空調中常見的溫度控制](../Page/暖通空調.md "wikilink")，可能是採用主動加熱（用加熱器加熱），但冷卻是使用被動冷卻（不加熱，自然冷卻），其冷卻速度比加熱速度慢很多，輸出若有過衝，下降速度很慢，因此PID控制需調整為不會過衝的過阻尼，以減少或避免過衝，但這也延長了整定時間，使性能變差。
+PID控制器常見的問題是在於其線性且對稱的特性，若應用在一些非線性的系統，其效果可能會有變化。以[暖通空調](../Page/暖通空調.md "wikilink")中常見的溫度控制，可能是採用主動加熱（用加熱器加熱），但冷卻是使用被動冷卻（不加熱，自然冷卻），其冷卻速度比加熱速度慢很多，輸出若有過衝，下降速度很慢，因此PID控制需調整為不會過衝的過阻尼，以減少或避免過衝，但這也延長了整定時間，使性能變差。
 
 ### 雜訊對微分器的影響
 
-微分器的問題在於對量測或程序產生的高頻[雜訊會有放大效果](../Page/雜訊.md "wikilink")，因此會對輸出造成大幅的變動。因此真實的控制器不會有理想的微分器，只有一個有限頻寬的微分器或[高通濾波器](https://zh.wikipedia.org/wiki/高通濾波器 "wikilink")。一般為了移除高頻的雜訊，會在量測時加入[低通濾波器](https://zh.wikipedia.org/wiki/低通濾波器 "wikilink")，若低通濾波器和微分器對消，濾波效果也就受限了，因此低雜訊的量測設備相當重要。實務上可以使用[中值滤波器](../Page/中值滤波器.md "wikilink")，調昇濾波效率及實際上的性能\[17\]。有時可以將微分器關閉，對控制性能的影響不大，此時稱為PI控制器。
+微分器的問題在於對量測或程序產生的高頻[雜訊](../Page/雜訊.md "wikilink")會有放大效果，因此會對輸出造成大幅的變動。因此真實的控制器不會有理想的微分器，只有一個有限頻寬的微分器或[高通濾波器](https://zh.wikipedia.org/wiki/高通濾波器 "wikilink")。一般為了移除高頻的雜訊，會在量測時加入[低通濾波器](https://zh.wikipedia.org/wiki/低通濾波器 "wikilink")，若低通濾波器和微分器對消，濾波效果也就受限了，因此低雜訊的量測設備相當重要。實務上可以使用[中值滤波器](../Page/中值滤波器.md "wikilink")，調昇濾波效率及實際上的性能\[17\]。有時可以將微分器關閉，對控制性能的影響不大，此時稱為PI控制器。
 
 ## PID演算法的修改
 
@@ -211,7 +204,7 @@ PID控制器常見的問題是在於其線性且對稱的特性，若應用在�
 
 ### 積分飽和
 
-[積分飽和是理想PID演算法實現時常見的問題](../Page/積分飽和.md "wikilink")。若設定值有大的變動，其積分量會有大幅的變化，大到輸出值被上下限限制而飽和，因此系統會有[過衝](https://zh.wikipedia.org/wiki/過衝 "wikilink")，而且即使誤差量符號改變，積分量變小，但輸出值仍被上下限限制，維持在上限（或下限），因此輸出看似沒有變化，系統仍會持續的過衝，一直要到輸出值落在上下限的範圍內，系統的回授量才會開始下降。此問題可以用以下方式處理：
+[積分飽和](../Page/積分飽和.md "wikilink")是理想PID演算法實現時常見的問題。若設定值有大的變動，其積分量會有大幅的變化，大到輸出值被上下限限制而飽和，因此系統會有[過衝](https://zh.wikipedia.org/wiki/過衝 "wikilink")，而且即使誤差量符號改變，積分量變小，但輸出值仍被上下限限制，維持在上限（或下限），因此輸出看似沒有變化，系統仍會持續的過衝，一直要到輸出值落在上下限的範圍內，系統的回授量才會開始下降。此問題可以用以下方式處理：
 
   - 在[程序變數離開可控制範圍時](https://zh.wikipedia.org/wiki/程序變數 "wikilink")，暫停積分。
   - 讓積分值限制在一個較小的上下範圍內。
@@ -229,8 +222,7 @@ PI控制器（比例-積分控制器）是不用微分單元的PID控制器。
 
 \[\Delta = SP - PV\].
 
-PI控制器可以用[Simulink或](../Page/Simulink.md "wikilink")[Xcos之類的軟體進行建模](https://zh.wikipedia.org/wiki/Xcos "wikilink")，方式是使用「flow
-chart」圖框，其中用以下的拉氏運算子：
+PI控制器可以用[Simulink](../Page/Simulink.md "wikilink")或[Xcos之類的軟體進行建模](https://zh.wikipedia.org/wiki/Xcos "wikilink")，方式是使用「flow chart」圖框，其中用以下的拉氏運算子：
 
 \[C=\frac{G(1+\tau s)}{\tau s}\] 其中
 
@@ -242,12 +234,11 @@ chart」圖框，其中用以下的拉氏運算子：
 
 微分單元對輸入中的高頻信號格外敏感，PI控制器因為沒有微分單元，在訊號雜訊大時，在穩態時會更加穩定。但對狀態快速變化的反應較慢，因此相較於調適到最佳值的PID控制器，PI控制器會較慢到達設定值，受干擾後也比較慢恢復到正常值。
 
-[PDF控制](../Page/PDF控制.md "wikilink")（pseudo-derivative feedback
-control）可以視為是PI控制器的變體，比例控制器的輸入由誤差值改為回授值\[19\]。
+[PDF控制](../Page/PDF控制.md "wikilink")（pseudo-derivative feedback control）可以視為是PI控制器的變體，比例控制器的輸入由誤差值改為回授值\[19\]。
 
 ### 不動作區
 
-許多PID迴路是控制機械元件（例如閥）。機械保養是一筆可觀的費用，磨損會使得機械在有輸入信號時出現靜摩擦或是[不動作區](https://zh.wikipedia.org/wiki/不動作區 "wikilink")，都會導致控制性能的下降。機械損耗的速度主要和設備多常改變其狀態有關。若磨損是主要考量的話，PID迴路可以有輸出的[遲滯現象以減少輸出狀態的改變](../Page/遲滯現象.md "wikilink")。若變化小，仍在不動作區內，讓控制器的輸出維持上一次的值。變化要大到超過不動作區，實際的狀態才會隨之變化。
+許多PID迴路是控制機械元件（例如閥）。機械保養是一筆可觀的費用，磨損會使得機械在有輸入信號時出現靜摩擦或是[不動作區](https://zh.wikipedia.org/wiki/不動作區 "wikilink")，都會導致控制性能的下降。機械損耗的速度主要和設備多常改變其狀態有關。若磨損是主要考量的話，PID迴路可以有輸出的[遲滯現象](../Page/遲滯現象.md "wikilink")以減少輸出狀態的改變。若變化小，仍在不動作區內，讓控制器的輸出維持上一次的值。變化要大到超過不動作區，實際的狀態才會隨之變化。
 
 ### 設定值的步階變化
 
@@ -290,8 +281,7 @@ PID控制器若再配合控制（[開迴路控制](../Page/開迴路控制器.md
 
 工業上常看到PID控制器，而許多工業相關資料中看到的都是「標準形」的PID，其中比例增益\(K_p\)也作用在\(I_{\mathrm{out}}\)及\(D_{\mathrm{out}}\)兩項，和上述「理論」段落看到的形式不同。「標準形」的PID為：
 
-\[\mathrm{MV(t)}=K_p\left(\,{e(t)} + \frac{1}{T_i}\int_{0}^{t}{e(\tau)}\,{d\tau} + T_d\frac{d}{dt}e(t)\right)\]
-其中
+\[\mathrm{MV(t)}=K_p\left(\,{e(t)} + \frac{1}{T_i}\int_{0}^{t}{e(\tau)}\,{d\tau} + T_d\frac{d}{dt}e(t)\right)\] 其中
 
 \[T_i\]為積分時間
 
@@ -337,8 +327,7 @@ PID控制器的拉氏轉換也代表著控制器的[傳遞函數](https://zh.wik
 
 PID控制器可以寫成以下的形式
 
-\[G(s)=K_d \frac{s^2 + \frac{K_p}{K_d}s + \frac{K_i}{K_d}}{s}\]
-若受控設備的傳遞函數如下：
+\[G(s)=K_d \frac{s^2 + \frac{K_p}{K_d}s + \frac{K_i}{K_d}}{s}\] 若受控設備的傳遞函數如下：
 
 \[H(s)=\frac{1}{s^2 + 2\zeta \omega_0 s + \omega_0^2}\]
 
@@ -356,8 +345,7 @@ PID控制器可以寫成以下的形式
 
 另一種PID控制器的表示法為串級型（series）或稱為交互型（interacting）
 
-\[G(s) = K_c \frac{(\tau_i{s}+1)}{\tau_i{s}} (\tau_d{s}+1)\]
-其中參數和標準型的參數有以下的關係
+\[G(s) = K_c \frac{(\tau_i{s}+1)}{\tau_i{s}} (\tau_d{s}+1)\] 其中參數和標準型的參數有以下的關係
 
 \[K_p = K_c \cdot \alpha\], \(T_i = \tau_i \cdot \alpha\)
 
@@ -398,7 +386,7 @@ PID控制器可以寫成以下的形式
 `  wait(dt)`
 `  goto start`
 
-此例中有兩個變數在[迴圈前需](../Page/迴圈.md "wikilink")[初始化為](../Page/初始化.md "wikilink")0，然後開始迴圈。目前的誤差（error）是用目前目標值（setpoint）減去系统反馈值（measured_value）而得，然後再進行[積分和](https://zh.wikipedia.org/wiki/積分 "wikilink")[微分運算](../Page/微分.md "wikilink")，比例項、積分項及微分項乘以各自參數後得到輸出（output）。在實際系統中，這會透過[數位類比轉換器轉換為類比訊號](../Page/數位類比轉換器.md "wikilink")，作為受控系統的控制量。目前的誤差量及積分會儲存，以便下次計算微分及積分時使用，程式會等待dt秒後開始，迴圈繼續進行，透過[類比數位轉換器讀取新的系统反馈值及目標值](../Page/類比數位轉換器.md "wikilink")，再計算誤差量及輸出\[24\]。
+此例中有兩個變數在[迴圈](../Page/迴圈.md "wikilink")前需[初始化](../Page/初始化.md "wikilink")為0，然後開始迴圈。目前的誤差（error）是用目前目標值（setpoint）減去系统反馈值（measured_value）而得，然後再進行[積分和](https://zh.wikipedia.org/wiki/積分 "wikilink")[微分](../Page/微分.md "wikilink")運算，比例項、積分項及微分項乘以各自參數後得到輸出（output）。在實際系統中，這會透過[數位類比轉換器](../Page/數位類比轉換器.md "wikilink")轉換為類比訊號，作為受控系統的控制量。目前的誤差量及積分會儲存，以便下次計算微分及積分時使用，程式會等待dt秒後開始，迴圈繼續進行，透過[類比數位轉換器](../Page/類比數位轉換器.md "wikilink")讀取新的系统反馈值及目標值，再計算誤差量及輸出\[24\]。
 
 ## 参见
 
@@ -417,8 +405,7 @@ PID控制器可以寫成以下的形式
   - [改善PID微分和积分的方法及其它控制系统的计算机自动设计CAutoD](https://web.archive.org/web/20160507233728/http://userweb.eng.gla.ac.uk/yun.li/ga_demo/)
   - [学习PID和其他系统调试是如何工作的](http://www.bin95.com/PID_Process_Control_Saint-Louis.htm)
   - [PID控制器实验室，PID调试的Java applets](http://www.pidlab.com)
-  - [一系列的PID调试的Java
-    Applets](https://web.archive.org/web/20060327160331/http://ae.tut.fi/~juke/java/pidtuning/)
+  - [一系列的PID调试的Java Applets](https://web.archive.org/web/20060327160331/http://ae.tut.fi/~juke/java/pidtuning/)
   - [PID调试的问答](https://web.archive.org/web/20060616045146/http://www.tcnj.edu/~rgraham/PID-tuning.html)
   - [PID控制系统算法的信息和教程](https://web.archive.org/web/20060417151518/http://www.jashaw.com/pid/)
   - [用Excel模拟基本的PID](https://web.archive.org/web/20060413081016/http://www.htservices.com/Applications/Process/PID2.htm)
@@ -427,29 +414,17 @@ PID控制器可以寫成以下的形式
   - [一个控制系统的一部分](https://web.archive.org/web/20060417135557/http://www.industrial-electricity.com/open-and-closed-loop-feedback-systems-2-Parts-Typical-Control-System.html)
   - [PID定速控制應用](http://4rdp.blogspot.com/2008/05/pid-speed-control.html)
   - [PID馬達定速與定角控制公式比較](http://4rdp.blogspot.com/2008/12/apply-pid-to-control-lego-nxts-speed.html)
-  - [Ang, K.H., Chong, G.C.Y., and Li, Y. (2005)， **PID control system
-    analysis, design, and technology**. *IEEE Transactions on Control
-    Systems Technology*, 13 (4). pp. 559-576. ISSN
-    1063-6536](http://eprints.gla.ac.uk/3817/1/IEEE3.pdf)
-  - [Understanding Servo
-    Tune(其中包括PID調整方法範例)](http://www.ni.com/product-documentation/2923/en/)
-  - [LabView360技術文章
-    PID](http://labview360.com/article/info.asp?TID=10149&FID=165)
+  - [Ang, K.H., Chong, G.C.Y., and Li, Y. (2005)， **PID control system analysis, design, and technology**. *IEEE Transactions on Control Systems Technology*, 13 (4). pp. 559-576. ISSN 1063-6536](http://eprints.gla.ac.uk/3817/1/IEEE3.pdf)
+  - [Understanding Servo Tune(其中包括PID調整方法範例)](http://www.ni.com/product-documentation/2923/en/)
+  - [LabView360技術文章 PID](http://labview360.com/article/info.asp?TID=10149&FID=165)
 
 {{-}}
 
 [de:Regler\#PID-Regler](https://zh.wikipedia.org/wiki/de:Regler#PID-Regler "wikilink")
 
-[Category:控制理论](https://zh.wikipedia.org/wiki/Category:控制理论 "wikilink")
-[Category:控制工程](https://zh.wikipedia.org/wiki/Category:控制工程 "wikilink")
-[Category:控制器](https://zh.wikipedia.org/wiki/Category:控制器 "wikilink")
-[Category:经典控制](https://zh.wikipedia.org/wiki/Category:经典控制 "wikilink")
+[Category:控制理论](https://zh.wikipedia.org/wiki/Category:控制理论 "wikilink") [Category:控制工程](https://zh.wikipedia.org/wiki/Category:控制工程 "wikilink") [Category:控制器](https://zh.wikipedia.org/wiki/Category:控制器 "wikilink") [Category:经典控制](https://zh.wikipedia.org/wiki/Category:经典控制 "wikilink")
 
-1.  \[<http://eprints.gla.ac.uk/3816/1/IEEE2pdf.pdf>, Li, Y., Ang, K.H.,
-    and Chong, G.C.Y. (2006) **Patents, software and hardware for PID
-    control: an overview and analysis of the current art**. *IEEE
-    Control Systems Magazine*, 26 (1). pp. 42-54. ISSN 0272-1708
-    (doi:10.1109/MCS.2006.1580153)\]
+1.  \[<http://eprints.gla.ac.uk/3816/1/IEEE2pdf.pdf>, Li, Y., Ang, K.H., and Chong, G.C.Y. (2006) **Patents, software and hardware for PID control: an overview and analysis of the current art**. *IEEE Control Systems Magazine*, 26 (1). pp. 42-54. ISSN 0272-1708 (doi:10.1109/MCS.2006.1580153)\]
 
 2.
 3.
@@ -470,25 +445,14 @@ PID控制器可以寫成以下的形式
 
 11.
 12.
-13. Li, Y., et al. (2004) CAutoCSD - Evolutionary search and
-    optimisation enabled computer automated control system design, Int J
-    Automation and Computing, vol. 1, No. 1, pp. 76-88. ISSN 1751-8520.
-    <http://userweb.eng.gla.ac.uk/yun.li/ga_demo/>
+13. Li, Y., et al. (2004) CAutoCSD - Evolutionary search and optimisation enabled computer automated control system design, Int J Automation and Computing, vol. 1, No. 1, pp. 76-88. ISSN 1751-8520. <http://userweb.eng.gla.ac.uk/yun.li/ga_demo/>
 
-14. Ang, K.H., Chong, G.C.Y., and Li, Y. (2005). PID control system
-    analysis, design, and technology, *IEEE Trans Control Systems Tech*,
-    13(4), pp.559-576. <http://eprints.gla.ac.uk/3817/1/IEEE3.pdf>
+14. Ang, K.H., Chong, G.C.Y., and Li, Y. (2005). PID control system analysis, design, and technology, *IEEE Trans Control Systems Tech*, 13(4), pp.559-576. <http://eprints.gla.ac.uk/3817/1/IEEE3.pdf>
 
-15. Y Li, KH Ang, GCY Chong, Patents, software, and hardware for PID
-    control: An overview and analysis of the current art, Control
-    Systems, IEEE, 26 (1), 42-54.
-    <http://eprints.gla.ac.uk/3816/1/IEEE2pdf.pdf>
+15. Y Li, KH Ang, GCY Chong, Patents, software, and hardware for PID control: An overview and analysis of the current art, Control Systems, IEEE, 26 (1), 42-54. <http://eprints.gla.ac.uk/3816/1/IEEE2pdf.pdf>
 
 16.
-17. [Li, Y. and Ang, K.H. and Chong, G.C.Y. (2006) PID control system
-    analysis and design - Problems, remedies, and future directions.
-    IEEE Control Systems Magazine, 26 (1). pp. 32-41.
-    ISSN 0272-1708](http://eprints.gla.ac.uk/3815/1/IEEE_CS_PID_01580152.pdf)
+17. [Li, Y. and Ang, K.H. and Chong, G.C.Y. (2006) PID control system analysis and design - Problems, remedies, and future directions. IEEE Control Systems Magazine, 26 (1). pp. 32-41. ISSN 0272-1708](http://eprints.gla.ac.uk/3815/1/IEEE_CS_PID_01580152.pdf)
 
 18.
 
@@ -496,8 +460,7 @@ PID控制器可以寫成以下的形式
 
 20.
 
-21. [Two-Degree-of-Freedom PID Controllers Mituhiko Araki and Hidefumi
-    Taguchi](http://ijcas.com/admin/paper/files/401-411.pdf)
+21. [Two-Degree-of-Freedom PID Controllers Mituhiko Araki and Hidefumi Taguchi](http://ijcas.com/admin/paper/files/401-411.pdf)
 
 22.
 

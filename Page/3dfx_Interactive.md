@@ -1,17 +1,12 @@
-[缩略图](https://zh.wikipedia.org/wiki/File:VSA-100_GPUs.jpg "fig:缩略图")
-[缩略图](https://zh.wikipedia.org/wiki/File:3dfx_Voodoo_5500.jpg "fig:缩略图")
-**3dfx
-Interactive**是一家专门制造[显卡和](https://zh.wikipedia.org/wiki/显卡 "wikilink")[GPU的公司](https://zh.wikipedia.org/wiki/GPU "wikilink")，於1994年成立。1996年成為此领域的最初垄断者，在2000年12月25日被其主要竞争对手[NVIDIA以](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")7000万美元现金以及100万股票收购\[1\]，并于2002年宣布破产并结业。
+[缩略图](https://zh.wikipedia.org/wiki/File:VSA-100_GPUs.jpg "fig:缩略图") [缩略图](https://zh.wikipedia.org/wiki/File:3dfx_Voodoo_5500.jpg "fig:缩略图") **3dfx Interactive**是一家专门制造[显卡和](https://zh.wikipedia.org/wiki/显卡 "wikilink")[GPU的公司](https://zh.wikipedia.org/wiki/GPU "wikilink")，於1994年成立。1996年成為此领域的最初垄断者，在2000年12月25日被其主要竞争对手[NVIDIA以](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")7000万美元现金以及100万股票收购\[1\]，并于2002年宣布破产并结业。
 
-1997年3月31日3dfx剝離出其板卡製造部門，獨立為[Quantum3D](https://zh.wikipedia.org/wiki/Quantum3D "wikilink")（量子三維）公司，為美國軍用電子設備製造商。在1998年12月14日3dfx收購STB
-Systems公司後，其顯示卡的生產開始由自家獨攬，並不授權晶片給予第三方廠商生產，導致其成本過高，且其後期產品的設計循規蹈矩，創新力大減，最終導致其公司的破產並被競爭對手NVIDIA併購。
+1997年3月31日3dfx剝離出其板卡製造部門，獨立為[Quantum3D](https://zh.wikipedia.org/wiki/Quantum3D "wikilink")（量子三維）公司，為美國軍用電子設備製造商。在1998年12月14日3dfx收購STB Systems公司後，其顯示卡的生產開始由自家獨攬，並不授權晶片給予第三方廠商生產，導致其成本過高，且其後期產品的設計循規蹈矩，創新力大減，最終導致其公司的破產並被競爭對手NVIDIA併購。
 
 ## 历史
 
 ### Voodoo
 
-Voodoo是3dfx第一款纯3D加速芯片，它并非单独的显示卡，而是一块3D子卡，需要配合2D显示卡使用。即使其售价高于同时期的[RIVA
-128](https://zh.wikipedia.org/wiki/RIVA_128 "wikilink")、[i740](../Page/Intel740.md "wikilink")，但因为性能远远领先竞争对手，Voodoo依然在市场上非常受欢迎。
+Voodoo是3dfx第一款纯3D加速芯片，它并非单独的显示卡，而是一块3D子卡，需要配合2D显示卡使用。即使其售价高于同时期的[RIVA 128](https://zh.wikipedia.org/wiki/RIVA_128 "wikilink")、[i740](../Page/Intel740.md "wikilink")，但因为性能远远领先竞争对手，Voodoo依然在市场上非常受欢迎。
 
 ### Voodoo Rush
 
@@ -19,28 +14,23 @@ Voodoo是3dfx第一款纯3D加速芯片，它并非单独的显示卡，而是�
 
 ### Voodoo 2
 
-3dfx第二款纯3D加速芯片，同样须有2D卡配合使用。性能大幅优于Voodoo，且高于同期对手芯片，销量亦极佳，堪称3dfx最卖座的芯片。另外，其支持[SLI技术](../Page/NVIDIA_SLI.md "wikilink")，可以将两块Voodoo
-2同时使用，速度远超同期芯片，而且甚至可以与 Voodoo 3相比。
+3dfx第二款纯3D加速芯片，同样须有2D卡配合使用。性能大幅优于Voodoo，且高于同期对手芯片，销量亦极佳，堪称3dfx最卖座的芯片。另外，其支持[SLI技术](../Page/NVIDIA_SLI.md "wikilink")，可以将两块Voodoo 2同时使用，速度远超同期芯片，而且甚至可以与 Voodoo 3相比。
 
 ### Voodoo Banshee
 
-采用单一芯片，其中加入128位的2D加速核心，并配有250MHz的[RAMDAC](https://zh.wikipedia.org/wiki/RAMDAC "wikilink")。3dfx声称Banshee的3D性能较Voodoo
-2提高了15%，兼容性亦比Voodoo Rush优胜。
+采用单一芯片，其中加入128位的2D加速核心，并配有250MHz的[RAMDAC](https://zh.wikipedia.org/wiki/RAMDAC "wikilink")。3dfx声称Banshee的3D性能较Voodoo 2提高了15%，兼容性亦比Voodoo Rush优胜。
 
 ### Voodoo 3
 
-3dfx第一款真正全新设计的2D+3D芯片。性能与同期产品相近，但仅支持16bit和16MB显存，而且仅是将接口改为AGP
-2X（亦有PCI版本），不支持AGP 2X的绝大多数特性，导致性能略输。
+3dfx第一款真正全新设计的2D+3D芯片。性能与同期产品相近，但仅支持16bit和16MB显存，而且仅是将接口改为AGP 2X（亦有PCI版本），不支持AGP 2X的绝大多数特性，导致性能略输。
 
 ### Voodoo 4/5
 
-同为基于VSA-100的芯片，不同的是，Voodoo 4为VSA-100单芯片，Voodoo 5为多芯片。其最後的終極產品，四核心的Voodoo
-5 6000並未發表，目前全球僅存不到50張Voodoo 5 6000的完好工程樣品。
+同为基于VSA-100的芯片，不同的是，Voodoo 4为VSA-100单芯片，Voodoo 5为多芯片。其最後的終極產品，四核心的Voodoo 5 6000並未發表，目前全球僅存不到50張Voodoo 5 6000的完好工程樣品。
 
 ### Black Belt
 
-3dfx曾於1997年參與[日本](../Page/日本.md "wikilink")[世嘉公司](../Page/世嘉.md "wikilink")[Dreamcast遊戲機的開發](../Page/Dreamcast.md "wikilink")，合作代號為Black
-Belt（黑帶），但消息傳出不到半年時間，世嘉就捨棄3dfx轉而與同為日本廠商的[NEC合作](https://zh.wikipedia.org/wiki/NEC "wikilink")，開發代號改為Katana。
+3dfx曾於1997年參與[日本](../Page/日本.md "wikilink")[世嘉](../Page/世嘉.md "wikilink")公司[Dreamcast](../Page/Dreamcast.md "wikilink")遊戲機的開發，合作代號為Black Belt（黑帶），但消息傳出不到半年時間，世嘉就捨棄3dfx轉而與同為日本廠商的[NEC合作](https://zh.wikipedia.org/wiki/NEC "wikilink")，開發代號改為Katana。
 
 ## 產品列表
 
@@ -76,12 +66,8 @@ Belt（黑帶），但消息傳出不到半年時間，世嘉就捨棄3dfx轉而
       - <sup>1</sup> 雙核心，每核心為16 MiB
       - <sup>2</sup> 雙核心，每核心為32 MiB
       - <sup>3</sup> 四核心，每核心為32 MiB
-      - <sup>4</sup> 原先Voodoo 5
-        6000的記憶體時脈被設計成183MHz，但所有的樣品在183MHz只能執行一小會就停止工作。能持續工作的Voodoo
-        5 6000都只能工作在166MHz，因此3dfx決定放棄183/183MHz的打算。Voodoo 5
-        6000共有五個版本的工程開發設計。
-      - <sup>5</sup>
-        亦有可搭載於蘋果[Macintosh電腦的版本](https://zh.wikipedia.org/wiki/Apple_Macintosh "wikilink")，其規格相同，但只有PCI匯流排(66 MHz)
+      - <sup>4</sup> 原先Voodoo 5 6000的記憶體時脈被設計成183MHz，但所有的樣品在183MHz只能執行一小會就停止工作。能持續工作的Voodoo 5 6000都只能工作在166MHz，因此3dfx決定放棄183/183MHz的打算。Voodoo 5 6000共有五個版本的工程開發設計。
+      - <sup>5</sup> 亦有可搭載於蘋果[Macintosh電腦的版本](https://zh.wikipedia.org/wiki/Apple_Macintosh "wikilink")，其規格相同，但只有PCI匯流排(66 MHz)
 
 ## 参考連結
 
@@ -91,17 +77,11 @@ Belt（黑帶），但消息傳出不到半年時間，世嘉就捨棄3dfx轉而
   - [3dfxzone Fans 网站](http://www.3dfxzone.it/)
   - [3dfx.ch Fans 网站](http://www.3dfx.ch/)
   - [Voodoo3dfx Fans 网站](http://www.voodoo3dfx.com/)
-  - [3dfx Voodoo Bios
-    网站](https://web.archive.org/web/20110526231923/http://www.v3info.co.uk/)
+  - [3dfx Voodoo Bios 网站](https://web.archive.org/web/20110526231923/http://www.v3info.co.uk/)
 
-[Category:英伟达](https://zh.wikipedia.org/wiki/Category:英伟达 "wikilink")
-[Category:電腦硬件公司](https://zh.wikipedia.org/wiki/Category:電腦硬件公司 "wikilink")
-[Category:顯示設備硬件公司](https://zh.wikipedia.org/wiki/Category:顯示設備硬件公司 "wikilink")
-[Category:已結業電腦公司](https://zh.wikipedia.org/wiki/Category:已結業電腦公司 "wikilink")
-[Category:聖荷西公司](https://zh.wikipedia.org/wiki/Category:聖荷西公司 "wikilink")
+[Category:英伟达](https://zh.wikipedia.org/wiki/Category:英伟达 "wikilink") [Category:電腦硬件公司](https://zh.wikipedia.org/wiki/Category:電腦硬件公司 "wikilink") [Category:顯示設備硬件公司](https://zh.wikipedia.org/wiki/Category:顯示設備硬件公司 "wikilink") [Category:已結業電腦公司](https://zh.wikipedia.org/wiki/Category:已結業電腦公司 "wikilink") [Category:聖荷西公司](https://zh.wikipedia.org/wiki/Category:聖荷西公司 "wikilink")
 
-1.  [NVIDIA To Acquire 3dfx Core Graphics
-    Assets](http://www.nvidia.com/object/IO_20010612_6602.html)
+1.  [NVIDIA To Acquire 3dfx Core Graphics Assets](http://www.nvidia.com/object/IO_20010612_6602.html)
 
 2.  \=<http://www.falconfly.de/identify-3dfx.htm>
 

@@ -1,4 +1,4 @@
-****是[網誌中用来通知其他网志系统文章被引用情况的一种手段](../Page/網誌.md "wikilink")，它出现完全是为了解决Trackback的诸多问题。Pingback可以译作“自动引用通知”，因为Pingback的使用是完全自动的\[1\]。3G博客网將其翻译为“广播”，是指计算机系统向外部发出引用信息，但也有人認為會與日常生活中的[廣播混淆](https://zh.wikipedia.org/wiki/廣播 "wikilink")。
+****是[網誌](../Page/網誌.md "wikilink")中用来通知其他网志系统文章被引用情况的一种手段，它出现完全是为了解决Trackback的诸多问题。Pingback可以译作“自动引用通知”，因为Pingback的使用是完全自动的\[1\]。3G博客网將其翻译为“广播”，是指计算机系统向外部发出引用信息，但也有人認為會與日常生活中的[廣播混淆](https://zh.wikipedia.org/wiki/廣播 "wikilink")。
 
 當其他人連結至Web作者的網頁時，Web作者獲取通知的方法。這個方法使得Web作者可以追蹤什麼人連結至他的文章。有一些網誌軟體，如[WordPress](../Page/WordPress.md "wikilink")，具有當一篇文章出版的時候，自動pingback這篇文章中所有的連結的功能。
 
@@ -23,8 +23,7 @@ Pingback与Trackback的主要区别在于\[2\]：
 
   - [WordPress的Pingback和TrackBack机制及其优化](http://www.jeriffcheng.com/pingback-and-trackback-of-wordpress.html)
 
-[Category:网志](https://zh.wikipedia.org/wiki/Category:网志 "wikilink")
-[Category:网络技术](https://zh.wikipedia.org/wiki/Category:网络技术 "wikilink")
+[Category:网志](https://zh.wikipedia.org/wiki/Category:网志 "wikilink") [Category:网络技术](https://zh.wikipedia.org/wiki/Category:网络技术 "wikilink")
 
 1.
 

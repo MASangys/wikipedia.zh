@@ -31,26 +31,18 @@
 </tbody>
 </table>
 
-**Socket
-754**是[AMD處理器專用插座的一種](https://zh.wikipedia.org/wiki/AMD "wikilink")，用作取代[Athlon
-XP所使用的](https://zh.wikipedia.org/wiki/Athlon_XP "wikilink")[Socket
-A](../Page/Socket_A.md "wikilink")，也是首款支援自家的64位平台AMD64（[x86-64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")）的插座。它採用HyperTransport技術與晶片組連接。
+**Socket 754**是[AMD處理器專用插座的一種](https://zh.wikipedia.org/wiki/AMD "wikilink")，用作取代[Athlon XP所使用的](https://zh.wikipedia.org/wiki/Athlon_XP "wikilink")[Socket A](../Page/Socket_A.md "wikilink")，也是首款支援自家的64位平台AMD64（[x86-64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")）的插座。它採用HyperTransport技術與晶片組連接。
 
 這款插座屬PGA-ZIF形式，使用時-{只}-要把槓桿拉起，將處理器依正確方向插入，再把槓桿推落鎖緊即可。
 
-Socket 754支援K8微架構的[Athlon
-64](https://zh.wikipedia.org/wiki/Athlon_64 "wikilink")、[Sempron](https://zh.wikipedia.org/wiki/Sempron "wikilink")、[Turion
-64及](../Page/Turion_64.md "wikilink")[Athlon
-XP-M處理器](https://zh.wikipedia.org/wiki/Athlon "wikilink")，與[Socket
-939主要不同的地方計有](../Page/Socket_939.md "wikilink")：
+Socket 754支援K8微架構的[Athlon 64](https://zh.wikipedia.org/wiki/Athlon_64 "wikilink")、[Sempron](https://zh.wikipedia.org/wiki/Sempron "wikilink")、[Turion 64及](../Page/Turion_64.md "wikilink")[Athlon XP-M處理器](https://zh.wikipedia.org/wiki/Athlon "wikilink")，與[Socket 939主要不同的地方計有](../Page/Socket_939.md "wikilink")：
 
   - 支援包含最多3條DIMM插槽的單通道記憶體控制器（64位）
-  - [HyperTransport傳輸速度較低](../Page/HyperTransport.md "wikilink")（800MHz的16位雙向資料傳輸）
+  - [HyperTransport](../Page/HyperTransport.md "wikilink")傳輸速度較低（800MHz的16位雙向資料傳輸）
   - 有效資料頻寬較少 (9.6GB/s)
   - 主機版製作成本較低
 
-此外，Socket 754並不如Socket 939般支援雙通道記憶體，主要針對低價處理器Sempron及單通道記憶體版的Athlon
-64，而AMD方面也宣佈即將停止生產Socket 754版的Athlon 64。
+此外，Socket 754並不如Socket 939般支援雙通道記憶體，主要針對低價處理器Sempron及單通道記憶體版的Athlon 64，而AMD方面也宣佈即將停止生產Socket 754版的Athlon 64。
 
 ## 使用Socket 754的處理器核心
 

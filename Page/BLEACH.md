@@ -1,11 +1,10 @@
-《**BLEACH**》是日本漫画家[久保带人的](../Page/久保带人.md "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，於《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》连载，自2001年36·37合并号起至2016年37号結束。改編動畫版從2004年10月5日起於[東京電視台播放](../Page/東京電視台.md "wikilink")。於2018年7月推出真人電影版。系列漫畫的世界發行量達1億2000萬本\[1\]。
+《**BLEACH**》是日本漫画家[久保带人](../Page/久保带人.md "wikilink")的[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，於《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》连载，自2001年36·37合并号起至2016年37号結束。改編動畫版從2004年10月5日起於[東京電視台](../Page/東京電視台.md "wikilink")播放。於2018年7月推出真人電影版。系列漫畫的世界發行量達1億2000萬本\[1\]。
 
 ## 作品解說
 
 故事开始時致力于描述故事人物及其相互关系，而不是死神一族的工作。但随着剧情的发展，故事开始深入到死神们所处的“世界另一面”—[屍魂界](https://zh.wikipedia.org/wiki/屍魂界 "wikilink")，[虛所在的虛圈](https://zh.wikipedia.org/wiki/虛_\(BLEACH角色\) "wikilink")，以及人類居住的現世。
 
-作者多次在單行本的卷頭中創作詩句，每話副標題亦很貼題，例如第一回副標題「Death and
-Strawberry」，「Death」代表「朽木露琪亞」，而「Strawberry」代表「黑崎一護」（一護與草莓的日語讀音相同）。而有關虛的用語和[破面篇的一部分副標題](../Page/破面.md "wikilink")，亦常使用到[西班牙语](../Page/西班牙语.md "wikilink")，例如：
+作者多次在單行本的卷頭中創作詩句，每話副標題亦很貼題，例如第一回副標題「Death and Strawberry」，「Death」代表「朽木露琪亞」，而「Strawberry」代表「黑崎一護」（一護與草莓的日語讀音相同）。而有關虛的用語和[破面](../Page/破面.md "wikilink")篇的一部分副標題，亦常使用到[西班牙语](../Page/西班牙语.md "wikilink")，例如：
 
   - 意思是空虛的世界
 
@@ -19,7 +18,7 @@ Strawberry」，「Death」代表「朽木露琪亞」，而「Strawberry」代�
 
 在代理死神消失篇裡，完現術者的相關用語經常用到英語。至於滅卻師的用語多以[德語為主](https://zh.wikipedia.org/wiki/德語 "wikilink")。
 
-作者在2018年聖地牙哥的訪談中表示，該漫畫的原始名稱為「SNIPE（狙擊，伏擊）」，並設定故事人物使用槍作為武器（原本只有[朽木露琪亞使用鐮刀](../Page/朽木露琪亞.md "wikilink")）；但後來作者認為使用刀作為武器感覺更好，加上作品名稱的內涵還不夠，又顧慮到死神的代表色是黑色，於是利用黑色與白色相互襯托，漫畫也因此正式定名為「BLEACH」。同時在作畫的過程中，音樂也成為作者的創作來源<small>\[2\]</small>。
+作者在2018年聖地牙哥的訪談中表示，該漫畫的原始名稱為「SNIPE（狙擊，伏擊）」，並設定故事人物使用槍作為武器（原本只有[朽木露琪亞](../Page/朽木露琪亞.md "wikilink")使用鐮刀）；但後來作者認為使用刀作為武器感覺更好，加上作品名稱的內涵還不夠，又顧慮到死神的代表色是黑色，於是利用黑色與白色相互襯托，漫畫也因此正式定名為「BLEACH」。同時在作畫的過程中，音樂也成為作者的創作來源<small>\[2\]</small>。
 
 ## 故事概要
 
@@ -30,7 +29,7 @@ Strawberry」，「Death」代表「朽木露琪亞」，而「Strawberry」代�
 <!-- end list -->
 
   -
-    在現世，能看見幽靈的[黑崎一護與](../Page/黑崎一護.md "wikilink")[死神](../Page/死神.md "wikilink")[朽木露琪亞相會](../Page/朽木露琪亞.md "wikilink")，緊接著一隻「虛」攻擊了一護的家人，一護和露琪亞一齊投入了消滅虛的戰鬥中，露琪亞在戰鬥中受傷而無法行動，她只好把死神的靈力分給一護，讓他變成一位[死神](../Page/死神.md "wikilink")，但她發現一護的靈力非常強大，並且有著比大多數死神所持都要大的[斬魄刀](https://zh.wikipedia.org/wiki/斬魄刀 "wikilink")，隨後一護消滅了虛。由於一護將露琪亞的能力全吸收走，在這段時間，一護必須接手死神的任務，消滅在空座町一帶出沒的虛。
+    在現世，能看見幽靈的[黑崎一護](../Page/黑崎一護.md "wikilink")與[死神](../Page/死神.md "wikilink")[朽木露琪亞](../Page/朽木露琪亞.md "wikilink")相會，緊接著一隻「虛」攻擊了一護的家人，一護和露琪亞一齊投入了消滅虛的戰鬥中，露琪亞在戰鬥中受傷而無法行動，她只好把死神的靈力分給一護，讓他變成一位[死神](../Page/死神.md "wikilink")，但她發現一護的靈力非常強大，並且有著比大多數死神所持都要大的[斬魄刀](https://zh.wikipedia.org/wiki/斬魄刀 "wikilink")，隨後一護消滅了虛。由於一護將露琪亞的能力全吸收走，在這段時間，一護必須接手死神的任務，消滅在空座町一帶出沒的虛。
 
 <!-- end list -->
 
@@ -39,10 +38,7 @@ Strawberry」，「Death」代表「朽木露琪亞」，而「Strawberry」代�
 <!-- end list -->
 
   -
-    之後一護持續消滅虛的任務，直到有一天露琪亞因轉讓死神能力被[屍魂界發現](https://zh.wikipedia.org/wiki/屍魂界 "wikilink")，一護與前來現世追捕露琪亞的[阿散井戀次決鬥並佔得上風之時](../Page/阿散井戀次.md "wikilink")，卻被露琪亞的大哥「[護廷十三隊](../Page/護廷十三隊.md "wikilink")」六番隊隊長
-    [朽木白哉一擊擊倒](../Page/朽木白哉.md "wikilink")，露琪亞被強制送返[屍魂界](https://zh.wikipedia.org/wiki/屍魂界 "wikilink")，為了救出露琪亞，一護接受
-    [浦原喜助的特訓而領悟](../Page/浦原喜助.md "wikilink")『始解』，並和[井上織姬](../Page/井上織姬.md "wikilink")、[石田雨龍](../Page/石田雨龍.md "wikilink")、[茶渡泰虎](../Page/茶渡泰虎.md "wikilink")、[四楓院夜一一同前往](../Page/四楓院夜一.md "wikilink")[屍魂界](https://zh.wikipedia.org/wiki/屍魂界 "wikilink")。在一行人潛入了[瀞靈廷內不久後](../Page/瀞靈廷.md "wikilink")，
-    [藍染惣右介遭到殺害](../Page/藍染惣右介.md "wikilink")，引發瀞靈廷騷動。
+    之後一護持續消滅虛的任務，直到有一天露琪亞因轉讓死神能力被[屍魂界發現](https://zh.wikipedia.org/wiki/屍魂界 "wikilink")，一護與前來現世追捕露琪亞的[阿散井戀次](../Page/阿散井戀次.md "wikilink")決鬥並佔得上風之時，卻被露琪亞的大哥「[護廷十三隊](../Page/護廷十三隊.md "wikilink")」六番隊隊長 [朽木白哉](../Page/朽木白哉.md "wikilink")一擊擊倒，露琪亞被強制送返[屍魂界](https://zh.wikipedia.org/wiki/屍魂界 "wikilink")，為了救出露琪亞，一護接受 [浦原喜助](../Page/浦原喜助.md "wikilink")的特訓而領悟『始解』，並和[井上織姬](../Page/井上織姬.md "wikilink")、[石田雨龍](../Page/石田雨龍.md "wikilink")、[茶渡泰虎](../Page/茶渡泰虎.md "wikilink")、[四楓院夜一](../Page/四楓院夜一.md "wikilink")一同前往[屍魂界](https://zh.wikipedia.org/wiki/屍魂界 "wikilink")。在一行人潛入了[瀞靈廷](../Page/瀞靈廷.md "wikilink")內不久後， [藍染惣右介](../Page/藍染惣右介.md "wikilink")遭到殺害，引發瀞靈廷騷動。
 
 <!-- end list -->
 
@@ -51,7 +47,7 @@ Strawberry」，「Death」代表「朽木露琪亞」，而「Strawberry」代�
 <!-- end list -->
 
   -
-    為了救出露琪亞的一護在懺罪宮前遇上了[朽木白哉](../Page/朽木白哉.md "wikilink")，為了擊敗白哉，一護隨四楓院夜一進行「卍解」的修行。而背負著殺害藍染隊長罪名的[日番谷冬獅郎認定市丸銀為凶手](../Page/日番谷冬獅郎.md "wikilink")，與松本亂菊一起追查真相，最後發現主使者是眾人認為已故的[藍染惣右介](../Page/藍染惣右介.md "wikilink")，在藍染展現出壓倒性力量之後，他實現了自己的目的、取得了露琪亞體內的「崩玉」，並與市丸銀、東仙要在大虛的反膜保護下跑到「虛圈」。戰後滿目瘡痍的屍魂界逐漸被修復，而一護則回到現世正式開始代理死神工作。
+    為了救出露琪亞的一護在懺罪宮前遇上了[朽木白哉](../Page/朽木白哉.md "wikilink")，為了擊敗白哉，一護隨四楓院夜一進行「卍解」的修行。而背負著殺害藍染隊長罪名的[日番谷冬獅郎](../Page/日番谷冬獅郎.md "wikilink")認定市丸銀為凶手，與松本亂菊一起追查真相，最後發現主使者是眾人認為已故的[藍染惣右介](../Page/藍染惣右介.md "wikilink")，在藍染展現出壓倒性力量之後，他實現了自己的目的、取得了露琪亞體內的「崩玉」，並與市丸銀、東仙要在大虛的反膜保護下跑到「虛圈」。戰後滿目瘡痍的屍魂界逐漸被修復，而一護則回到現世正式開始代理死神工作。
 
 <!-- end list -->
 
@@ -60,7 +56,7 @@ Strawberry」，「Death」代表「朽木露琪亞」，而「Strawberry」代�
 <!-- end list -->
 
   -
-    回到現世的一護等人遇到轉學生[平子真子](../Page/平子真子.md "wikilink"),並隨即揭露自己的真實身分是[假面軍勢](../Page/假面軍勢.md "wikilink")。屍魂界派遣十一番隊到空座町，嚴密監控來自虛圈的任何異變。同時，藍染強大的[破面部隊也陸續登場](../Page/破面.md "wikilink")。屍魂界調查了藍染之前的行動，發現他的另一目的：製作“[王鍵](https://zh.wikipedia.org/wiki/死神中的物品 "wikilink")”，而製作王鍵所需的10靈哩重靈地正是目前的戰場“空座町”。此時織姬決定盡自己的力量幫助一護，但是卻被[烏爾奇奧拉在斷界攔截](../Page/烏爾奇奧拉·西法.md "wikilink")，並被脅迫在12小時內選擇一個人告別後到虛圈來。
+    回到現世的一護等人遇到轉學生[平子真子](../Page/平子真子.md "wikilink"),並隨即揭露自己的真實身分是[假面軍勢](../Page/假面軍勢.md "wikilink")。屍魂界派遣十一番隊到空座町，嚴密監控來自虛圈的任何異變。同時，藍染強大的[破面](../Page/破面.md "wikilink")部隊也陸續登場。屍魂界調查了藍染之前的行動，發現他的另一目的：製作“[王鍵](https://zh.wikipedia.org/wiki/死神中的物品 "wikilink")”，而製作王鍵所需的10靈哩重靈地正是目前的戰場“空座町”。此時織姬決定盡自己的力量幫助一護，但是卻被[烏爾奇奧拉在斷界攔截](../Page/烏爾奇奧拉·西法.md "wikilink")，並被脅迫在12小時內選擇一個人告別後到虛圈來。
 
 <!-- end list -->
 
@@ -69,7 +65,7 @@ Strawberry」，「Death」代表「朽木露琪亞」，而「Strawberry」代�
 <!-- end list -->
 
   -
-    由於屍魂界判定織姬是背叛者，故不提供幫助，並派[朽木白哉和更木劍八強制帶回了戀次和露琪亞等人](../Page/朽木白哉.md "wikilink")。一護、石田和茶渡三人出發前往虛圈救援織姬。他們在岔路口分開行動，並各自遇到強敵。被烏爾奇奧拉擊敗的一護，在擊敗了葛力姆喬後耗盡體力，不能再使用虛化。此時更木劍八出現在一護面前支援。另一邊，雨龍等面前出現的是涅繭利，茶渡那邊是卯之花烈和虎澈勇音，而正要對露琪亞那邊是[朽木白哉](../Page/朽木白哉.md "wikilink")。在四位進入虛圈的隊長戰勝之後，藍染帶領1-3「十刃」前往現世，留下第NO.4留守虛圈，黑崎一護衝進虛夜宮與其決戰，虛圈篇就此暫停。
+    由於屍魂界判定織姬是背叛者，故不提供幫助，並派[朽木白哉](../Page/朽木白哉.md "wikilink")和更木劍八強制帶回了戀次和露琪亞等人。一護、石田和茶渡三人出發前往虛圈救援織姬。他們在岔路口分開行動，並各自遇到強敵。被烏爾奇奧拉擊敗的一護，在擊敗了葛力姆喬後耗盡體力，不能再使用虛化。此時更木劍八出現在一護面前支援。另一邊，雨龍等面前出現的是涅繭利，茶渡那邊是卯之花烈和虎澈勇音，而正要對露琪亞那邊是[朽木白哉](../Page/朽木白哉.md "wikilink")。在四位進入虛圈的隊長戰勝之後，藍染帶領1-3「十刃」前往現世，留下第NO.4留守虛圈，黑崎一護衝進虛夜宮與其決戰，虛圈篇就此暫停。
 
 <!-- end list -->
 
@@ -106,7 +102,7 @@ Strawberry」，「Death」代表「朽木露琪亞」，而「Strawberry」代�
 <!-- end list -->
 
   -
-    重獲死神力量之後，一護正式返回代理死神的崗位，繼續在空座町執行工作。然而[屍魂界的技術開發局](https://zh.wikipedia.org/wiki/屍魂界 "wikilink")，卻偵測到虛不停被消滅和界線侵蝕的警訊，十二番隊隊長[涅繭利為了平衡屍魂界的魂魄](https://zh.wikipedia.org/wiki/護廷十三隊#十二番隊 "wikilink")，甚至還派遣隊士抹除兩萬八千名[流魂街居民的魂魄](https://zh.wikipedia.org/wiki/流魂街 "wikilink")。就在新任駐空座町死神來到現世的當晚，一護、[茶渡](../Page/茶渡泰虎.md "wikilink")、[雨龍](../Page/石田雨龍.md "wikilink")、[織姬為遭到特大虛襲擊而重傷的兩人解圍](../Page/井上織姬.md "wikilink")，卻在事發兩天後，遇上自稱阿茲基爾羅·伊邦的男子。一護主動迎擊並重創伊邦，發現對方企圖破壞他的卍解但未能得逞，正欲追問更多細節時，不慎讓對方逃跑。於此同時，一群來自「[無形帝國](https://zh.wikipedia.org/wiki/無形帝國 "wikilink")」的不明人士攻佔虛圈，將其他破面收編旗下作為兵力，入侵[瀞靈廷殺害一番隊副隊長](../Page/瀞靈廷.md "wikilink")[雀部長次郎在內共](https://zh.wikipedia.org/wiki/護廷十三隊#一番隊 "wikilink")117名死神，還向總隊長[山本元柳齋重國下達宣戰通告](https://zh.wikipedia.org/wiki/護廷十三隊#一番隊 "wikilink")，揚言在五天以內將屍魂界毀滅殆盡，屍魂界正式進入警戒狀態。
+    重獲死神力量之後，一護正式返回代理死神的崗位，繼續在空座町執行工作。然而[屍魂界的技術開發局](https://zh.wikipedia.org/wiki/屍魂界 "wikilink")，卻偵測到虛不停被消滅和界線侵蝕的警訊，十二番隊隊長[涅繭利為了平衡屍魂界的魂魄](https://zh.wikipedia.org/wiki/護廷十三隊#十二番隊 "wikilink")，甚至還派遣隊士抹除兩萬八千名[流魂街居民的魂魄](https://zh.wikipedia.org/wiki/流魂街 "wikilink")。就在新任駐空座町死神來到現世的當晚，一護、[茶渡](../Page/茶渡泰虎.md "wikilink")、[雨龍](../Page/石田雨龍.md "wikilink")、[織姬為遭到特大虛襲擊而重傷的兩人解圍](../Page/井上織姬.md "wikilink")，卻在事發兩天後，遇上自稱阿茲基爾羅·伊邦的男子。一護主動迎擊並重創伊邦，發現對方企圖破壞他的卍解但未能得逞，正欲追問更多細節時，不慎讓對方逃跑。於此同時，一群來自「[無形帝國](https://zh.wikipedia.org/wiki/無形帝國 "wikilink")」的不明人士攻佔虛圈，將其他破面收編旗下作為兵力，入侵[瀞靈廷](../Page/瀞靈廷.md "wikilink")殺害一番隊副隊長[雀部長次郎在內共](https://zh.wikipedia.org/wiki/護廷十三隊#一番隊 "wikilink")117名死神，還向總隊長[山本元柳齋重國下達宣戰通告](https://zh.wikipedia.org/wiki/護廷十三隊#一番隊 "wikilink")，揚言在五天以內將屍魂界毀滅殆盡，屍魂界正式進入警戒狀態。
 
 <!-- end list -->
 
@@ -128,8 +124,7 @@ BLEACH的世界觀設定，以及在劇中登場過的一些專門用語與特�
 
 在2008年的全年銷量排行日本漫畫中第五名\[3\]，而在2009年度排行第三，僅次於《[航海王](https://zh.wikipedia.org/wiki/航海王 "wikilink")》和《[火影忍者](../Page/火影忍者.md "wikilink")》。\[4\]
 
-单行本在[日本由](../Page/日本.md "wikilink")[集英社出版](../Page/集英社.md "wikilink")。
-含封面、收录章节信息。
+单行本在[日本](../Page/日本.md "wikilink")由[集英社](../Page/集英社.md "wikilink")出版。 含封面、收录章节信息。
 
 | 卷数 | 标题                                  | 收录章节               | 出版日期        | ISBN序号                 | 封面                 |
 | -- | ----------------------------------- | ------------------ | ----------- | ---------------------- | ------------------ |
@@ -294,7 +289,7 @@ BLEACH的世界觀設定，以及在劇中登場過的一些專門用語與特�
 
   - 香港
 
-漫畫單行本在[港澳地區由](../Page/港澳地區.md "wikilink")[文化傳信出版](../Page/文化傳信.md "wikilink")，封面使用原作英文標題。
+漫畫單行本在[港澳地區](../Page/港澳地區.md "wikilink")由[文化傳信](../Page/文化傳信.md "wikilink")出版，封面使用原作英文標題。
 
 | 集數 | 出版日期        | ISBN序號                 |
 | -- | ----------- | ---------------------- |
@@ -348,7 +343,7 @@ BLEACH的世界觀設定，以及在劇中登場過的一些專門用語與特�
 
   - 中國大陸
 
-单行本在[中国大陆由](../Page/中国大陆.md "wikilink")[连环画出版社出版](https://zh.wikipedia.org/wiki/连环画出版社 "wikilink")，[北京中少动漫制作发行](https://zh.wikipedia.org/wiki/北京中少动漫 "wikilink")，译者为[梁晓岩](https://zh.wikipedia.org/wiki/北京中少动漫#关联译者 "wikilink")。发行方先后拟定译名为“死神”和“净灵”\[5\]，但都被[中华人民共和国新闻出版署驳回](https://zh.wikipedia.org/wiki/中华人民共和国新闻出版署 "wikilink")，最终定译名为“境·界”（亦有读者认为此译名更符合作品内容）。\[6\]
+单行本在[中国大陆](../Page/中国大陆.md "wikilink")由[连环画出版社出版](https://zh.wikipedia.org/wiki/连环画出版社 "wikilink")，[北京中少动漫制作发行](https://zh.wikipedia.org/wiki/北京中少动漫 "wikilink")，译者为[梁晓岩](https://zh.wikipedia.org/wiki/北京中少动漫#关联译者 "wikilink")。发行方先后拟定译名为“死神”和“净灵”\[5\]，但都被[中华人民共和国新闻出版署驳回](https://zh.wikipedia.org/wiki/中华人民共和国新闻出版署 "wikilink")，最终定译名为“境·界”（亦有读者认为此译名更符合作品内容）。\[6\]
 
 单行本的封面有对原作英文标题的翻译。
 
@@ -578,11 +573,7 @@ BLEACH的世界觀設定，以及在劇中登場過的一些專門用語與特�
 
 ### 小說
 
-官方小說在[日本皆由](../Page/日本.md "wikilink")[集英社出版](../Page/集英社.md "wikilink")，在[台灣則透過](https://zh.wikipedia.org/wiki/台灣 "wikilink")[東立出版社出版](../Page/東立出版社.md "wikilink")。除了「letters
-from the other side」取自原著故事死神代行篇，「The Honey Dish
-Rhapsody」衍伸自屍魂界拯救篇正式落幕前的四天劇情，「Spirit
-Are Forever With You 」和「The Death Save The Strawberry
-」闡述原著空座町大戰結束後的17個月間劇情以外，其他皆為動畫劇場版改編而成。
+官方小說在[日本](../Page/日本.md "wikilink")皆由[集英社](../Page/集英社.md "wikilink")出版，在[台灣則透過](https://zh.wikipedia.org/wiki/台灣 "wikilink")[東立出版社](../Page/東立出版社.md "wikilink")出版。除了「letters from the other side」取自原著故事死神代行篇，「The Honey Dish Rhapsody」衍伸自屍魂界拯救篇正式落幕前的四天劇情，「Spirit Are Forever With You 」和「The Death Save The Strawberry 」闡述原著空座町大戰結束後的17個月間劇情以外，其他皆為動畫劇場版改編而成。
 
 BLEACH漫畫連載結束後，描述千年血戰篇落幕後十年間的故事的「WE DO knot ALWAYS LOVE YOU」正式出版。
 
@@ -721,8 +712,7 @@ ISBN 978-4-08-703466-0（第三集）</p></td>
 
 ### 動畫版
 
-死神動畫版由[Studio
-Pierrot製作](../Page/Studio_Pierrot.md "wikilink")，自2004年10月5日播放至2012年3月27日，進度至代理死神消失篇，尚未公布第二部消息。
+死神動畫版由[Studio Pierrot製作](../Page/Studio_Pierrot.md "wikilink")，自2004年10月5日播放至2012年3月27日，進度至代理死神消失篇，尚未公布第二部消息。
 
 ### 遊戲版
 
@@ -792,8 +782,7 @@ ROCK MUSICAL BLEACH（首次公演：2005年8月8日）
   - 松本乱菊：井上晴美
   - アンサンブル：立花拓也、加藤学、末吉司弥、安田裕、栗原功平、岩下政之、篠原辰也、岩間健児
 
-**ROCK MUSICAL BLEACH the LIVE "卍解SHOW code:001" (live
-show)（首次公演：2007年1月）**
+**ROCK MUSICAL BLEACH the LIVE "卍解SHOW code:001" (live show)（首次公演：2007年1月）**
 
   - CAST
 
@@ -841,8 +830,7 @@ show)（首次公演：2007年1月）**
 '''ROCK MUSICAL BLEACH DX（公演日期：2008年3月）
 
   - ROCK MUSICAL BLEACH THE ALL（公演日期：2008年3月24,25,26,30日）
-  - ROCK MUSICAL BLEACH the LIVE "卍解SHOW
-    code:002"（公演日期：2008年3月27,28,29,31）'''
+  - ROCK MUSICAL BLEACH the LIVE "卍解SHOW code:002"（公演日期：2008年3月27,28,29,31）'''
 
 <!-- end list -->
 
@@ -872,9 +860,9 @@ show)（首次公演：2007年1月）**
 
 ### 真人电影版
 
-由[佐藤信介导演](../Page/佐藤信介.md "wikilink")，预定于2018年7月20日上映。黑崎一护由[福士苍汰出演](https://zh.wikipedia.org/wiki/福士苍汰 "wikilink")，[杉咲花饰演朽木露琪亚](../Page/杉咲花.md "wikilink")，[吉澤亮饰演石田雨龙](../Page/吉澤亮.md "wikilink")，[MIYAVI饰演朽木白哉](https://zh.wikipedia.org/wiki/MIYAVI "wikilink")，[早乙女太一饰演阿散井恋次](https://zh.wikipedia.org/wiki/早乙女太一 "wikilink")。
+由[佐藤信介](../Page/佐藤信介.md "wikilink")导演，预定于2018年7月20日上映。黑崎一护由[福士苍汰出演](https://zh.wikipedia.org/wiki/福士苍汰 "wikilink")，[杉咲花](../Page/杉咲花.md "wikilink")饰演朽木露琪亚，[吉澤亮](../Page/吉澤亮.md "wikilink")饰演石田雨龙，[MIYAVI饰演朽木白哉](https://zh.wikipedia.org/wiki/MIYAVI "wikilink")，[早乙女太一饰演阿散井恋次](https://zh.wikipedia.org/wiki/早乙女太一 "wikilink")。
 
-後再次加碼宣佈由[真野惠里菜飾演井上織姬](../Page/真野惠里菜.md "wikilink")，[長澤雅美飾演一護之母黑崎真咲](https://zh.wikipedia.org/wiki/長澤雅美 "wikilink")，[江口洋介飾演一護之父黑崎一心](../Page/江口洋介.md "wikilink")，[小柳友飾演茶渡泰虎](../Page/小柳友.md "wikilink")，[田邊誠一飾演浦原喜助](../Page/田邊誠一.md "wikilink")。
+後再次加碼宣佈由[真野惠里菜](../Page/真野惠里菜.md "wikilink")飾演井上織姬，[長澤雅美飾演一護之母黑崎真咲](https://zh.wikipedia.org/wiki/長澤雅美 "wikilink")，[江口洋介](../Page/江口洋介.md "wikilink")飾演一護之父黑崎一心，[小柳友](../Page/小柳友.md "wikilink")飾演茶渡泰虎，[田邊誠一](../Page/田邊誠一.md "wikilink")飾演浦原喜助。
 
 ## 資料來源
 
@@ -892,44 +880,27 @@ show)（首次公演：2007年1月）**
 
   - <http://www.shonenjump.com/j/rensai/bleach.html> 週刊少年ジャンプ公式サイト\]
 
-  - [j-bleach.com](http://www.j-bleach.com/) -
-    [集英社の公式サイト](../Page/集英社.md "wikilink")。総合サイト。
+  - [j-bleach.com](http://www.j-bleach.com/) - [集英社](../Page/集英社.md "wikilink")の公式サイト。総合サイト。
 
-  - [テレビ東京・あにてれ　BLEACH](http://www.tv-tokyo.co.jp/anime/bleach/) -
-    [テレビ東京の公式サイト](https://zh.wikipedia.org/wiki/テレビ東京 "wikilink")。
+  - [テレビ東京・あにてれ　BLEACH](http://www.tv-tokyo.co.jp/anime/bleach/) - [テレビ東京の公式サイト](https://zh.wikipedia.org/wiki/テレビ東京 "wikilink")。
 
-  - [TV ANIMATION BLEACH - アニプレックス](http://www.aniplex.co.jp/bleach/) -
-    [ANIPLEXの公式サイト](https://zh.wikipedia.org/wiki/ANIPLEX "wikilink")。DVD・CDサイト。
+  - [TV ANIMATION BLEACH - アニプレックス](http://www.aniplex.co.jp/bleach/) - [ANIPLEXの公式サイト](https://zh.wikipedia.org/wiki/ANIPLEX "wikilink")。DVD・CDサイト。
 
-  - [『BLEACH』(ブリーチ) PlayStation
-    公式ポータルサイト](http://www.jp.playstation.com/scej/title/bleach/)
-    -
-    [SCEJの公式サイト](https://zh.wikipedia.org/wiki/SCEJ "wikilink")。PS2・PS3・PSPの公式サイト。
+  - [『BLEACH』(ブリーチ) PlayStation 公式ポータルサイト](http://www.jp.playstation.com/scej/title/bleach/) - [SCEJの公式サイト](https://zh.wikipedia.org/wiki/SCEJ "wikilink")。PS2・PS3・PSPの公式サイト。
 
-  - [SEGA×BLEACH](https://web.archive.org/web/20120513124806/http://bleach.sega.jp/)
-    -
-    [SEGAの公式サイト](https://zh.wikipedia.org/wiki/SEGA "wikilink")。ゲームボーイアドバンス・DS・ゲームキューブ・Wiiの公式サイト。
+  - [SEGA×BLEACH](https://web.archive.org/web/20120513124806/http://bleach.sega.jp/) - [SEGAの公式サイト](https://zh.wikipedia.org/wiki/SEGA "wikilink")。ゲームボーイアドバンス・DS・ゲームキューブ・Wiiの公式サイト。
 
-  - [カードダス BLEACH](http://www.carddas.com/bleach/) -
-    [BANDAIの](https://zh.wikipedia.org/wiki/BANDAI "wikilink")[カードダス公式サイト](https://zh.wikipedia.org/wiki/カードダス "wikilink")。バトルカードサイト。
+  - [カードダス BLEACH](http://www.carddas.com/bleach/) - [BANDAIの](https://zh.wikipedia.org/wiki/BANDAI "wikilink")[カードダス公式サイト](https://zh.wikipedia.org/wiki/カードダス "wikilink")。バトルカードサイト。
 
-  - [BLEACH “B” STATION](http://vstation.net/bleach/) -
-    [ラジオ大阪のラジオ公式サイト](https://zh.wikipedia.org/wiki/ラジオ大阪 "wikilink")。
+  - [BLEACH “B” STATION](http://vstation.net/bleach/) - [ラジオ大阪のラジオ公式サイト](https://zh.wikipedia.org/wiki/ラジオ大阪 "wikilink")。
 
-  - [BLEACH連載10周年記念公演「ROCK MUSICAL BLEACH」公式サイト](http://rmbleach.com/) -
-    ロックニュージカル公式サイト。
+  - [BLEACH連載10周年記念公演「ROCK MUSICAL BLEACH」公式サイト](http://rmbleach.com/) - ロックニュージカル公式サイト。
 
   - [BLEACH FAN ブリーチファン](http://www.bleach-fan.jp/) - 公式ファンサイト。
 
   - [騰訊動漫連載專區](http://ac.qq.com/bleach/)
 
-[Category:BLEACH](https://zh.wikipedia.org/wiki/Category:BLEACH "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:週刊少年Jump連載作品](https://zh.wikipedia.org/wiki/Category:週刊少年Jump連載作品 "wikilink")
-[Category:2018年日本電影](https://zh.wikipedia.org/wiki/Category:2018年日本電影 "wikilink")
-[Category:日本漫畫改編真人電影](https://zh.wikipedia.org/wiki/Category:日本漫畫改編真人電影 "wikilink")
-[Category:華納兄弟日本電影](https://zh.wikipedia.org/wiki/Category:華納兄弟日本電影 "wikilink")
-[Category:東京電視台製作的電影](https://zh.wikipedia.org/wiki/Category:東京電視台製作的電影 "wikilink")
+[Category:BLEACH](https://zh.wikipedia.org/wiki/Category:BLEACH "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:週刊少年Jump連載作品](https://zh.wikipedia.org/wiki/Category:週刊少年Jump連載作品 "wikilink") [Category:2018年日本電影](https://zh.wikipedia.org/wiki/Category:2018年日本電影 "wikilink") [Category:日本漫畫改編真人電影](https://zh.wikipedia.org/wiki/Category:日本漫畫改編真人電影 "wikilink") [Category:華納兄弟日本電影](https://zh.wikipedia.org/wiki/Category:華納兄弟日本電影 "wikilink") [Category:東京電視台製作的電影](https://zh.wikipedia.org/wiki/Category:東京電視台製作的電影 "wikilink")
 
 1.  <https://www.famitsu.com/news/201802/21152260.html>
 2.  2008年 American SHONEN JUMP 作者訪談

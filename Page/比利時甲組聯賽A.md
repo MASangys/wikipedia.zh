@@ -1,8 +1,4 @@
-**比利時甲組聯賽A**（**Belgian First Division A**，或加冠名稱**Jupiler Pro
-League**）是比利時最高級別的職業足球聯賽，簡稱「比甲」，聯賽於1895年成立，是世界上歷史最悠久的職業足球聯賽。[首都球會](https://zh.wikipedia.org/wiki/首都球會 "wikilink")[安德列治是聯賽歷史上最成功的球會](../Page/皇家安德列治體育會.md "wikilink")，曾經
-34 次奪得聯賽冠軍，其次是[布魯日](../Page/皇家布魯日足球會.md "wikilink")（15
-次），[聖基萊斯聯](../Page/皇家聖基萊斯聯.md "wikilink")（11
-次）和[標準列治](../Page/皇家標準列治.md "wikilink")（11 次）。
+**比利時甲組聯賽A**（**Belgian First Division A**，或加冠名稱**Jupiler Pro League**）是比利時最高級別的職業足球聯賽，簡稱「比甲」，聯賽於1895年成立，是世界上歷史最悠久的職業足球聯賽。[首都球會](https://zh.wikipedia.org/wiki/首都球會 "wikilink")[安德列治是聯賽歷史上最成功的球會](../Page/皇家安德列治體育會.md "wikilink")，曾經 34 次奪得聯賽冠軍，其次是[布魯日](../Page/皇家布魯日足球會.md "wikilink")（15 次），[聖基萊斯聯](../Page/皇家聖基萊斯聯.md "wikilink")（11 次）和[標準列治](../Page/皇家標準列治.md "wikilink")（11 次）。
 
 ## 參賽球隊
 
@@ -220,27 +216,18 @@ League**）是比利時最高級別的職業足球聯賽，簡稱「比甲」，
 
 ## 外部連結
 
-  -    [The Belgian Football Association official
-    website](https://web.archive.org/web/20110430232746/http://www.footbel.be/)
+  -    [The Belgian Football Association official website](https://web.archive.org/web/20110430232746/http://www.footbel.be/)
 
-  - [Sport website](http://www.sport.be/fr/jupilerleague) - On the
-    Jupiler League
+  - [Sport website](http://www.sport.be/fr/jupilerleague) - On the Jupiler League
 
-  - [Pluto
-    website](https://web.archive.org/web/20090214155218/http://users.skynet.be/pluto/Textfifa/soccer.html)
-    - Belgian football history
+  - [Pluto website](https://web.archive.org/web/20090214155218/http://users.skynet.be/pluto/Textfifa/soccer.html) - Belgian football history
 
-  - [RSSSF archive](http://www.rsssf.com/tablesb/belghist.html) - All
-    time tables
+  - [RSSSF archive](http://www.rsssf.com/tablesb/belghist.html) - All time tables
 
-  - [Football
-    results](http://www.resultsfromfootball.com/jupilerleague-from-belgium.html)
-    - Belgium football statistics
+  - [Football results](http://www.resultsfromfootball.com/jupilerleague-from-belgium.html) - Belgium football statistics
 
 {{-}}
 
-[Category:比利時足球](https://zh.wikipedia.org/wiki/Category:比利時足球 "wikilink")
-[Category:國家頂級足球聯賽](https://zh.wikipedia.org/wiki/Category:國家頂級足球聯賽 "wikilink")
-[Category:歐洲各國足球聯賽](https://zh.wikipedia.org/wiki/Category:歐洲各國足球聯賽 "wikilink")
+[Category:比利時足球](https://zh.wikipedia.org/wiki/Category:比利時足球 "wikilink") [Category:國家頂級足球聯賽](https://zh.wikipedia.org/wiki/Category:國家頂級足球聯賽 "wikilink") [Category:歐洲各國足球聯賽](https://zh.wikipedia.org/wiki/Category:歐洲各國足球聯賽 "wikilink")
 
 1.

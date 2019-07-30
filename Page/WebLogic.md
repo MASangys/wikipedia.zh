@@ -1,7 +1,4 @@
-**WebLogic**是美商[Oracle的主要產品之一](https://zh.wikipedia.org/wiki/Oracle "wikilink")，係購併得來。是商業市場上主要的[Java](../Page/Java.md "wikilink")（）應用[伺服器軟體](https://zh.wikipedia.org/wiki/伺服器 "wikilink")（）之一，是世界上第一个成功商业化的J2EE应用服务器，目前已推出到12c（12.1.1）版。而此產品也延伸出WebLogic
-Portal, WebLogic Integration等企業用的中介軟體（但目前Oracle主要以Fusion
-Middleware融合中间件来取代这些WebLogic Server之外的企业套件），以及OEPE（Oracle
-Enterprise Pack for Eclipse）開發工具。
+**WebLogic**是美商[Oracle的主要產品之一](https://zh.wikipedia.org/wiki/Oracle "wikilink")，係購併得來。是商業市場上主要的[Java](../Page/Java.md "wikilink")（）應用[伺服器軟體](https://zh.wikipedia.org/wiki/伺服器 "wikilink")（）之一，是世界上第一个成功商业化的J2EE应用服务器，目前已推出到12c（12.1.1）版。而此產品也延伸出WebLogic Portal, WebLogic Integration等企業用的中介軟體（但目前Oracle主要以Fusion Middleware融合中间件来取代这些WebLogic Server之外的企业套件），以及OEPE（Oracle Enterprise Pack for Eclipse）開發工具。
 
 WebLogic最早由WebLogic Inc.开发，後併入BEA公司，最终BEA公司又并入Oracle公司。
 
@@ -20,10 +17,8 @@ WebLogic最早由WebLogic Inc.开发，後併入BEA公司，最终BEA公司又�
   - ebXML Architecture
   - Java Authentication and Authorization Service（JAAS）
   - Java EE 1.3 & 1.4 & 5 & 6
-  - Java Persistence API(JPA) &
-    [2.0](http://download.oracle.com/docs/cd/E17904_01/web.1111/e13720/using_toplink.htm#EJBAD1309)
-  - [JMX和Simple](../Page/JMX.md "wikilink") Network Management
-    Protocol（SNMP）
+  - Java Persistence API(JPA) & [2.0](http://download.oracle.com/docs/cd/E17904_01/web.1111/e13720/using_toplink.htm#EJBAD1309)
+  - [JMX](../Page/JMX.md "wikilink")和Simple Network Management Protocol（SNMP）
   - 原生支持：
       - [SOAP](https://zh.wikipedia.org/wiki/SOAP "wikilink")
       - Universal Description Discovery and Integration（UDDI）
@@ -65,9 +60,8 @@ WebLogic最早由WebLogic Inc.开发，後併入BEA公司，最终BEA公司又�
 2010年，Oracle Corporation认定下列产品为"核心组件"
 
   - Enterprise Grid Messaging
-  - [JMS](https://zh.wikipedia.org/wiki/Java_Message_Service "wikilink")
-    Java消息服务
-  - [JRockit自定义Java虚拟机](../Page/JRockit.md "wikilink")
+  - [JMS](https://zh.wikipedia.org/wiki/Java_Message_Service "wikilink") Java消息服务
+  - [JRockit](../Page/JRockit.md "wikilink")自定义Java虚拟机
   - Oracle Coherence,跨服务器内存数据缓存
   - Oracle [TopLink](../Page/TopLink.md "wikilink")
   - Oracle WebLogic Server Web Services
@@ -75,23 +69,16 @@ WebLogic最早由WebLogic Inc.开发，後併入BEA公司，最终BEA公司又�
 
 ## 外部連結
 
-  - [Oracle
-    Corp](https://web.archive.org/web/20030205194523/https://oracle.com/)
-  - [Oracle's WebLogic Server
-    Blog](http://blogs.oracle.com/WebLogicServer/)
-  - [OEPE,
-    Oracle官方支持WebLogic的开发工具](http://www.oracle.com/technetwork/developer-tools/eclipse/overview/index.html)
-  - [甲骨文的Weblogic Server网站，可从此处下载最新版Weblogic
-    Server](http://www.oracle.com/technetwork/middleware/weblogic/overview/index.html)
+  - [Oracle Corp](https://web.archive.org/web/20030205194523/https://oracle.com/)
+  - [Oracle's WebLogic Server Blog](http://blogs.oracle.com/WebLogicServer/)
+  - [OEPE, Oracle官方支持WebLogic的开发工具](http://www.oracle.com/technetwork/developer-tools/eclipse/overview/index.html)
+  - [甲骨文的Weblogic Server网站，可从此处下载最新版Weblogic Server](http://www.oracle.com/technetwork/middleware/weblogic/overview/index.html)
   - [WebLogic中文博客](http://www.beansoft.biz/)
   - [WebLogic所有版本电子文档edoc在线阅读及下载地址](http://www.beansoft.biz/?p=1345)
-  - [BEA并购WebLogic,
-    Inc.,英文](https://archive.is/20120720015413/http://news.com.com/BEA+aims+for+app+server+market/2100-1001_3-216001.html)
+  - [BEA并购WebLogic, Inc.,英文](https://archive.is/20120720015413/http://news.com.com/BEA+aims+for+app+server+market/2100-1001_3-216001.html)
   - [使用JMX监控WebLogic,英文](http://www.performanceengineer.com/monitoring/monitoring-weblogic-using-jmx-2.html)
   - [原dev2dev中国成员建立的WebLogic社区](https://web.archive.org/web/20180812052756/http://dev2dev.us/)
   - [WebLogic中文爱好者社区\[原dev2dev中国管理团队建立](https://web.archive.org/web/20100903061047/http://www.weblogicfans.net/)\]
   - [WebLogic軟體的Wiki(英文)](http://en.wikipedia.org/wiki/Oracle_WebLogic_Server)
 
-[Category:Java企业平台](https://zh.wikipedia.org/wiki/Category:Java企业平台 "wikilink")
-[Category:甲骨文公司軟體](https://zh.wikipedia.org/wiki/Category:甲骨文公司軟體 "wikilink")
-[Category:網頁伺服器](https://zh.wikipedia.org/wiki/Category:網頁伺服器 "wikilink")
+[Category:Java企业平台](https://zh.wikipedia.org/wiki/Category:Java企业平台 "wikilink") [Category:甲骨文公司軟體](https://zh.wikipedia.org/wiki/Category:甲骨文公司軟體 "wikilink") [Category:網頁伺服器](https://zh.wikipedia.org/wiki/Category:網頁伺服器 "wikilink")

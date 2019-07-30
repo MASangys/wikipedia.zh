@@ -1,9 +1,8 @@
-**KAT-TUN**是日本[傑尼斯事務所旗下的藝人組合](../Page/傑尼斯事務所.md "wikilink")；於2001年3月16日組成，2006年3月22日正式發行CD出道。
+**KAT-TUN**是日本[傑尼斯事務所](../Page/傑尼斯事務所.md "wikilink")旗下的藝人組合；於2001年3月16日組成，2006年3月22日正式發行CD出道。
 
 團名原是由6名成員的姓氏羅馬拼音首字母所組成，因為在日文發音中與Cartoon（[卡通](../Page/卡通.md "wikilink")／[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")）及“勝利的運氣”（）相近，而有著像卡通般精采以及勝利的含意；至於KAT-TUN中間的「-」（ハイフン），則代表的是粉絲。
 
-出道發行的單曲、専輯與DVD，在發行首週即達成三項[公信榜冠軍](https://zh.wikipedia.org/wiki/公信榜 "wikilink")，成為日本史上甫出道即達成三項冠軍的團體
-/ 歌手；另外也是USEN（有線）綜合排行冠軍、原唱鈴聲下載排行冠軍，而達成前所未有的五冠王佳績\[1\]。
+出道發行的單曲、専輯與DVD，在發行首週即達成三項[公信榜冠軍](https://zh.wikipedia.org/wiki/公信榜 "wikilink")，成為日本史上甫出道即達成三項冠軍的團體 / 歌手；另外也是USEN（有線）綜合排行冠軍、原唱鈴聲下載排行冠軍，而達成前所未有的五冠王佳績\[1\]。
 
 ## 概要
 
@@ -67,7 +66,7 @@
 <p>N</p>
 </center></td>
 <td></td>
-<td><p><a href="../Page/東京都.md" title="wikilink">東京都北區</a></p></td>
+<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a>北區</p></td>
 <td><center>
 <p><font color=purple>紫色</font></p>
 </center></td>
@@ -140,31 +139,23 @@
 
 ## 入社時間及原由
 
-  - [龜梨和也](../Page/龜梨和也.md "wikilink")
-    ：1998年11月8日入社。親戚為其投遞的簡歷，在不知情的情況下被父親帶到甄選現場，硬著頭皮上場後還是甄選合格了。（與[中丸雄一及](../Page/中丸雄一.md "wikilink")
-    [赤西仁同期](../Page/赤西仁.md "wikilink")。）
-  - [上田龍也](../Page/上田龍也.md "wikilink")
-    ：1998年6月22日入社。對什麼行業都興趣缺缺因而被母親嘗試了投遞簡歷，最後得到社長的賞識而合格。
-  - [中丸雄一](../Page/中丸雄一.md "wikilink")
-    ：1998年11月8日入社。同年級要好的女孩子幫忙準備了簡歷，在甄試過程中想要收集及後和朋友的話題和好奇下大膽向社長提問：是不是帥才可進入事務所，最後得到了入社的機會。
+  - [龜梨和也](../Page/龜梨和也.md "wikilink") ：1998年11月8日入社。親戚為其投遞的簡歷，在不知情的情況下被父親帶到甄選現場，硬著頭皮上場後還是甄選合格了。（與[中丸雄一](../Page/中丸雄一.md "wikilink")及 [赤西仁](../Page/赤西仁.md "wikilink")同期。）
+  - [上田龍也](../Page/上田龍也.md "wikilink") ：1998年6月22日入社。對什麼行業都興趣缺缺因而被母親嘗試了投遞簡歷，最後得到社長的賞識而合格。
+  - [中丸雄一](../Page/中丸雄一.md "wikilink") ：1998年11月8日入社。同年級要好的女孩子幫忙準備了簡歷，在甄試過程中想要收集及後和朋友的話題和好奇下大膽向社長提問：是不是帥才可進入事務所，最後得到了入社的機會。
 
 ## 簡歷
 
 **2001年**
 
   - 3月16日，KAT-TUN組成。
-  - 3月27日，在《[POP
-    JAM](https://zh.wikipedia.org/wiki/POP_JAM "wikilink")》音樂節目中，公開發表成為主持人[堂本光一](../Page/堂本光一.md "wikilink")（[KinKi
-    Kids](https://zh.wikipedia.org/wiki/KinKi_Kids "wikilink")）的專屬伴舞團體。（該集後於4月7日播出，也是該組合首次在電視上亮相。）
-  - 3月30日，於《[MUSIC
-    STATION](../Page/MUSIC_STATION.md "wikilink")》中以組合名義初登場。
+  - 3月27日，在《[POP JAM](https://zh.wikipedia.org/wiki/POP_JAM "wikilink")》音樂節目中，公開發表成為主持人[堂本光一](../Page/堂本光一.md "wikilink")（[KinKi Kids](https://zh.wikipedia.org/wiki/KinKi_Kids "wikilink")）的專屬伴舞團體。（該集後於4月7日播出，也是該組合首次在電視上亮相。）
+  - 3月30日，於《[MUSIC STATION](../Page/MUSIC_STATION.md "wikilink")》中以組合名義初登場。
   - 4月7日，傑尼斯Jr.主持的《[裸之少年](../Page/裸之少年.md "wikilink")》開始播出，KAT-TUN成員為節目固定班底；官網上登記此日為正式結成日。
   - 4月8日，於傑尼斯常態節目《[少年俱樂部](https://zh.wikipedia.org/wiki/少年俱樂部 "wikilink")》初登場。
 
 **2002年**
 
-  - 5月17\~19日，隨[瀧與翼參與](../Page/瀧與翼.md "wikilink") 「Tackey & Tsubasa in
-    Taipei 從台灣開始\!...From us with LOVE」台灣演唱會。
+  - 5月17\~19日，隨[瀧與翼](../Page/瀧與翼.md "wikilink")參與 「Tackey & Tsubasa in Taipei 從台灣開始\!...From us with LOVE」台灣演唱會。
   - 8月10日\~11日，在東京國際論壇展開「歌迷至聖 夏 Concert～回應55萬人愛的支持！！」首次演唱會。
       - 原本預計4場公演共2萬人次的演唱會，卻因來自全國55萬人次的申請人數太多，因而緊急追加2場，2天共舉行6場公演。
   - 8月26日\~28日，在[大阪](https://zh.wikipedia.org/wiki/大阪 "wikilink")·松竹座舉行追加公演。
@@ -173,122 +164,84 @@
 
 **2003年**
 
-  - 2月26日發行「歌迷至聖 夏
-    Concert～回應55萬人愛的支持！！」演唱會DVD與VHS；這是尚未正式CD出道的團體裡首度獲得[ORICON排行榜DVD](https://zh.wikipedia.org/wiki/ORICON "wikilink")、VHS、綜合榜三項冠軍的創舉。
-  - 3月21\~22日，與[瀧澤秀明](../Page/瀧澤秀明.md "wikilink")、[YA-YA-YAH到](https://zh.wikipedia.org/wiki/YA-YA-YAH "wikilink")[泰國舉行](https://zh.wikipedia.org/wiki/泰國 "wikilink")「PATAYA
-    MUSIC FESTIVAL 2003」演唱會。
+  - 2月26日發行「歌迷至聖 夏 Concert～回應55萬人愛的支持！！」演唱會DVD與VHS；這是尚未正式CD出道的團體裡首度獲得[ORICON排行榜DVD](https://zh.wikipedia.org/wiki/ORICON "wikilink")、VHS、綜合榜三項冠軍的創舉。
+  - 3月21\~22日，與[瀧澤秀明](../Page/瀧澤秀明.md "wikilink")、[YA-YA-YAH到](https://zh.wikipedia.org/wiki/YA-YA-YAH "wikilink")[泰國舉行](https://zh.wikipedia.org/wiki/泰國 "wikilink")「PATAYA MUSIC FESTIVAL 2003」演唱會。
 
 **2004年**
 
-  - 12月28日\~2005年1月5日，東名阪召開巡迴演唱會「KAT-TUN Live
-    海賊帆」。1月5日的2場演唱會，也是[橫濱公演的最終回](https://zh.wikipedia.org/wiki/橫濱 "wikilink")，是KAT-TUN的第100場公演。
+  - 12月28日\~2005年1月5日，東名阪召開巡迴演唱會「KAT-TUN Live 海賊帆」。1月5日的2場演唱會，也是[橫濱公演的最終回](https://zh.wikipedia.org/wiki/橫濱 "wikilink")，是KAT-TUN的第100場公演。
 
 **2005年**
 
-  - 1月15日，由龜梨和也與赤西仁主演電視劇[極道鮮師2](../Page/極道鮮師.md "wikilink")（[日本電視台](../Page/日本電視台.md "wikilink")）開始播送。初回收視率為26.5%，為當週同時段播出戲劇之冠，也是該台的史上戲劇初回收視率第五名以及戲劇平均收視率第一。
-  - 5月3日，「KAT-TUN Live
-    海賊帆」DVD發售。初次銷售額12.9萬張，為ORICON音樂DVD初次銷售張數排行榜上歷代第3位，第2次DVD綜合排行榜第1位。
-  - 11月2日，龜梨和也與[山下智久共組期間限定團體](../Page/山下智久.md "wikilink")「[修二與彰](../Page/修二與彰.md "wikilink")」，演唱電視劇「[野豬大改造](../Page/野豬大改造.md "wikilink")」主題曲「青春Amigo」，首度推出CD。該單曲發售4週後就達到百萬銷售量。成為2005年ORICON年終單曲榜冠軍。銷售量超過百萬是自2004年[森山直太朗的](../Page/森山直太朗.md "wikilink")「[櫻花](../Page/櫻花_\(森山直太朗\).md "wikilink")」以來，相隔了1年又7個月的壯舉。
+  - 1月15日，由龜梨和也與赤西仁主演電視劇[極道鮮師](../Page/極道鮮師.md "wikilink")2（[日本電視台](../Page/日本電視台.md "wikilink")）開始播送。初回收視率為26.5%，為當週同時段播出戲劇之冠，也是該台的史上戲劇初回收視率第五名以及戲劇平均收視率第一。
+  - 5月3日，「KAT-TUN Live 海賊帆」DVD發售。初次銷售額12.9萬張，為ORICON音樂DVD初次銷售張數排行榜上歷代第3位，第2次DVD綜合排行榜第1位。
+  - 11月2日，龜梨和也與[山下智久](../Page/山下智久.md "wikilink")共組期間限定團體「[修二與彰](../Page/修二與彰.md "wikilink")」，演唱電視劇「[野豬大改造](../Page/野豬大改造.md "wikilink")」主題曲「青春Amigo」，首度推出CD。該單曲發售4週後就達到百萬銷售量。成為2005年ORICON年終單曲榜冠軍。銷售量超過百萬是自2004年[森山直太朗](../Page/森山直太朗.md "wikilink")的「[櫻花](../Page/櫻花_\(森山直太朗\).md "wikilink")」以來，相隔了1年又7個月的壯舉。
 
 **2006年**
 
-  - 1月29日，宣布將於3月22日以單曲「[Real
-    Face](../Page/Real_Face.md "wikilink")」CD正式出道。
-  - 3月17日，在[東京巨蛋舉行](../Page/東京巨蛋.md "wikilink")「Live of KAT-TUN 'Real
-    Face'」演唱會，並與MUSIC STATION節目現場連線直播Real
-    Face出道曲。是史上首次出道前就在東京巨蛋舉行演唱會的團體\[2\]。
-  - 3月22日，出道記者會，以單曲「[Real
-    Face](../Page/Real_Face.md "wikilink")」正式出道。同日發售專輯「[Best
-    of KAT-TUN](../Page/Best_of_KAT-TUN.md "wikilink")」和DVD「Real Face
-    Film」。並同時成立J-One Records。
-      - 創造「Real Face」75.4萬張，「Best of KAT-TUN」55.7萬張，「Real Face
-        Film」37.4萬張首週銷售額的記錄，達成三冠王\[3\]，成為史上首次新人出道即達成三冠王的紀錄，同時也是自2000年10月9日[濱崎步的單曲](../Page/濱崎步.md "wikilink")《[SURREAL](../Page/SURREAL.md "wikilink")（超現實）》、專輯《[Duty](../Page/Duty.md "wikilink")（以聲作責）》及演唱會DVD《[ayumi
-        hamasaki concert tour 2000 A
-        第2幕](https://zh.wikipedia.org/wiki/ayumi_hamasaki_concert_tour_2000_A_第2幕 "wikilink")》以來，隔5年半歷史上的第2組。另外也是USEN（有線）綜合排行冠軍、原唱鈴聲下載排行冠軍，因此擁有五冠王的佳績。
-      - 單曲連續三週獲得冠軍。是自KinKi
-        Kids「[Anniversary](../Page/Anniversary.md "wikilink")」以來，相隔了1年3個月再次出現的連續三周冠軍。至於出道單曲3週冠軍的成就，是自KinKi
-        Kids「[玻璃少年](../Page/玻璃少年.md "wikilink")」以來隔了8年8個月，而作為2000年以後出道的團體則是第一個。
-  - 3月28日\~5月14日，出道後的首次全國巡迴演唱會「Spring Tour'06 Live of KAT-TUN“Real
-    Face”」，總計共43場公演。
-  - 4月3日，「You &
-    J」即KAT-TUN、[NEWS](../Page/NEWS.md "wikilink")、[關∞的聯合歌迷俱樂部正式開始](https://zh.wikipedia.org/wiki/關∞ "wikilink")。
-  - 5月23日，首張單曲「Real
-    Face」發售9週後達到百萬銷售量。同時，在年度內（前一年12月第一週到該年11月最後一周）的成就，是自2003年3月24日
-    [SMAP](../Page/SMAP.md "wikilink")「[世界上唯一的花](../Page/世界上唯一的花.md "wikilink")」以來的百萬單曲，相隔了3年又2月。另外以出道曲而言，是自2001年6月25日（發售15週後）的[CHEMISTRY](https://zh.wikipedia.org/wiki/CHEMISTRY "wikilink")「PIECES
-    OF A DREAM」以來，相隔了約5年的壯舉。
+  - 1月29日，宣布將於3月22日以單曲「[Real Face](../Page/Real_Face.md "wikilink")」CD正式出道。
+  - 3月17日，在[東京巨蛋](../Page/東京巨蛋.md "wikilink")舉行「Live of KAT-TUN 'Real Face'」演唱會，並與MUSIC STATION節目現場連線直播Real Face出道曲。是史上首次出道前就在東京巨蛋舉行演唱會的團體\[2\]。
+  - 3月22日，出道記者會，以單曲「[Real Face](../Page/Real_Face.md "wikilink")」正式出道。同日發售專輯「[Best of KAT-TUN](../Page/Best_of_KAT-TUN.md "wikilink")」和DVD「Real Face Film」。並同時成立J-One Records。
+      - 創造「Real Face」75.4萬張，「Best of KAT-TUN」55.7萬張，「Real Face Film」37.4萬張首週銷售額的記錄，達成三冠王\[3\]，成為史上首次新人出道即達成三冠王的紀錄，同時也是自2000年10月9日[濱崎步](../Page/濱崎步.md "wikilink")的單曲《[SURREAL](../Page/SURREAL.md "wikilink")（超現實）》、專輯《[Duty](../Page/Duty.md "wikilink")（以聲作責）》及演唱會DVD《[ayumi hamasaki concert tour 2000 A 第2幕](https://zh.wikipedia.org/wiki/ayumi_hamasaki_concert_tour_2000_A_第2幕 "wikilink")》以來，隔5年半歷史上的第2組。另外也是USEN（有線）綜合排行冠軍、原唱鈴聲下載排行冠軍，因此擁有五冠王的佳績。
+      - 單曲連續三週獲得冠軍。是自KinKi Kids「[Anniversary](../Page/Anniversary.md "wikilink")」以來，相隔了1年3個月再次出現的連續三周冠軍。至於出道單曲3週冠軍的成就，是自KinKi Kids「[玻璃少年](../Page/玻璃少年.md "wikilink")」以來隔了8年8個月，而作為2000年以後出道的團體則是第一個。
+  - 3月28日\~5月14日，出道後的首次全國巡迴演唱會「Spring Tour'06 Live of KAT-TUN“Real Face”」，總計共43場公演。
+  - 4月3日，「You & J」即KAT-TUN、[NEWS](../Page/NEWS.md "wikilink")、[關∞的聯合歌迷俱樂部正式開始](https://zh.wikipedia.org/wiki/關∞ "wikilink")。
+  - 5月23日，首張單曲「Real Face」發售9週後達到百萬銷售量。同時，在年度內（前一年12月第一週到該年11月最後一周）的成就，是自2003年3月24日 [SMAP](../Page/SMAP.md "wikilink")「[世界上唯一的花](../Page/世界上唯一的花.md "wikilink")」以來的百萬單曲，相隔了3年又2月。另外以出道曲而言，是自2001年6月25日（發售15週後）的[CHEMISTRY](https://zh.wikipedia.org/wiki/CHEMISTRY "wikilink")「PIECES OF A DREAM」以來，相隔了約5年的壯舉。
   - 10月12日，媒體報導赤西仁將休止今年內的活動，當晚事務所網站公告其將暫停活動到[洛杉磯留學](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")。13日赤西本人於事務所內召開記者招待會，宣布並非引退或退團，但未說明復歸日期，及未承諾必定復歸，留給媒體更多的討論空間。
   - 10月16日，赤西仁出國到LA留學。
-  - 12月7日，發售第三張單曲《[僕らの街で](https://zh.wikipedia.org/wiki/僕らの街で "wikilink")（[在我們的城市裡](../Page/在我們的城市裡.md "wikilink")）》。出道以來連續三張單曲皆突破40萬大關。此外更獨佔日本2006年首週銷售排行榜的前三名：《Real
-    Face》75.4萬、《[SIGNAL](../Page/SIGNAL.md "wikilink")》45.1萬和《僕らの街で》的41萬。再加上《Best
-    of KAT-TUN》專輯跟《Real Face
-    Film》DVD等五項作品在出道當年都獲得第一，超越了2001年CHEMISTRY、1986年[少年隊以及](../Page/少年隊.md "wikilink")1981年的[近藤真彥的四項作品](https://zh.wikipedia.org/wiki/近藤真彥 "wikilink")，成為五冠王。
+  - 12月7日，發售第三張單曲《[僕らの街で](https://zh.wikipedia.org/wiki/僕らの街で "wikilink")（[在我們的城市裡](../Page/在我們的城市裡.md "wikilink")）》。出道以來連續三張單曲皆突破40萬大關。此外更獨佔日本2006年首週銷售排行榜的前三名：《Real Face》75.4萬、《[SIGNAL](../Page/SIGNAL.md "wikilink")》45.1萬和《僕らの街で》的41萬。再加上《Best of KAT-TUN》專輯跟《Real Face Film》DVD等五項作品在出道當年都獲得第一，超越了2001年CHEMISTRY、1986年[少年隊](../Page/少年隊.md "wikilink")以及1981年的[近藤真彥的四項作品](https://zh.wikipedia.org/wiki/近藤真彥 "wikilink")，成為五冠王。
 
 **2007年**
 
-  - 4月4日，冠名節目「[cartoon
-    KAT-TUN](https://zh.wikipedia.org/wiki/cartoon_KAT-TUN "wikilink")」正式播出。
-  - 4月18日，第二張專輯《[cartoon KAT-TUN II
-    You](https://zh.wikipedia.org/wiki/cartoon_KAT-TUN_II_You "wikilink")》發售。達成組團以來包含單曲、專輯，DVD連續十張作品第一名的紀錄。
-  - 4月19日，活動休止的赤西仁歸國。20日，6名成員於[六本木召開記者會](../Page/六本木.md "wikilink")，宣布赤西仁將於5人正進行的巡迴演唱會中，在[仙台站以客串身份露面](https://zh.wikipedia.org/wiki/仙台 "wikilink")，並於5月3日大阪場開始參與演出；完整的6人公演是6月開始的四場巨蛋公演。
+  - 4月4日，冠名節目「[cartoon KAT-TUN](https://zh.wikipedia.org/wiki/cartoon_KAT-TUN "wikilink")」正式播出。
+  - 4月18日，第二張專輯《[cartoon KAT-TUN II You](https://zh.wikipedia.org/wiki/cartoon_KAT-TUN_II_You "wikilink")》發售。達成組團以來包含單曲、專輯，DVD連續十張作品第一名的紀錄。
+  - 4月19日，活動休止的赤西仁歸國。20日，6名成員於[六本木](../Page/六本木.md "wikilink")召開記者會，宣布赤西仁將於5人正進行的巡迴演唱會中，在[仙台站以客串身份露面](https://zh.wikipedia.org/wiki/仙台 "wikilink")，並於5月3日大阪場開始參與演出；完整的6人公演是6月開始的四場巨蛋公演。
 
 **2008年**
 
   - 2月6日，第六張單曲《[LIPS](../Page/LIPS.md "wikilink")》發售。KAT-TUN連續六張單曲首週銷售量皆突破30萬張。
-  - 5月14日，第七張單曲《[DON'T U EVER
-    STOP](../Page/DON'T_U_EVER_STOP.md "wikilink")》發售，不但打破上張單曲「LIPS」的紀錄，更拿下2008年首週銷售（381,672張）最高的寶座。
-  - 6月21日\~8月5日，開始「KAT-TUN Concert Tour 2008」（6月13日更名為「KAT-TUN LIVE TOUR
-    2008 QUEEN OF PIRATES」）全國巡迴演唱會，總計31場，觀眾人次高達50萬。成為連續4日在東京巨蛋公演的日本歌手首例。
+  - 5月14日，第七張單曲《[DON'T U EVER STOP](../Page/DON'T_U_EVER_STOP.md "wikilink")》發售，不但打破上張單曲「LIPS」的紀錄，更拿下2008年首週銷售（381,672張）最高的寶座。
+  - 6月21日\~8月5日，開始「KAT-TUN Concert Tour 2008」（6月13日更名為「KAT-TUN LIVE TOUR 2008 QUEEN OF PIRATES」）全國巡迴演唱會，總計31場，觀眾人次高達50萬。成為連續4日在東京巨蛋公演的日本歌手首例。
   - 8月10日，成員中第一位展開個人公演的中丸雄一，在東京首演「中丸的快樂時光」舞台劇，並親自構思製作所有的周邊商品。東京公演日期為8月10日\~8月24日；大阪公演則為8月27日\~9月2日。
-  - 9月8日，成員中首位展開個人演唱會的上田龍也，以「Mouse Peace Tatsuya Ueda Live
-    2008」為名稱，在東京[台場開演](https://zh.wikipedia.org/wiki/台場 "wikilink")。從9月8日\~9月21日，共14場公演。
+  - 9月8日，成員中首位展開個人演唱會的上田龍也，以「Mouse Peace Tatsuya Ueda Live 2008」為名稱，在東京[台場開演](https://zh.wikipedia.org/wiki/台場 "wikilink")。從9月8日\~9月21日，共14場公演。
 
 **2009年**
 
   - 5月15日\~5月22日東京巨蛋創紀錄連續8天公演\[4\]。製作費高達32億日圓，動用Jr.約250人，總計現場工作人員6000人、警衛人員12000人。並突破消防法規的限制、首度於東京巨蛋內實行吊鋼索飛行。8天連續公演記錄將列入[金氏世界紀錄之中](https://zh.wikipedia.org/wiki/金氏世界紀錄 "wikilink")。另外夏季在6城市追加17場公演，動員人数達到81萬5千。
-  - 11月23日，職棒[讀賣巨人隊感謝祭於東京巨蛋舉行](../Page/讀賣巨人.md "wikilink")。因與[中居正廣主持的](../Page/中居正廣.md "wikilink")「黑色綜藝」節目交好，特別以黑玫瑰隊名舉行一場三局對抗賽。其中龜梨擔任第一打擊及[投手特別出演](../Page/投手.md "wikilink")。最終黑玫瑰以3:2擊敗巨人隊。隔天報紙大肆報導龜梨與剛加入巨人隊首度亮相的[長野久義選手間的對決](../Page/長野久義.md "wikilink")。
+  - 11月23日，職棒[讀賣巨人](../Page/讀賣巨人.md "wikilink")隊感謝祭於東京巨蛋舉行。因與[中居正廣](../Page/中居正廣.md "wikilink")主持的「黑色綜藝」節目交好，特別以黑玫瑰隊名舉行一場三局對抗賽。其中龜梨擔任第一打擊及[投手](../Page/投手.md "wikilink")特別出演。最終黑玫瑰以3:2擊敗巨人隊。隔天報紙大肆報導龜梨與剛加入巨人隊首度亮相的[長野久義](../Page/長野久義.md "wikilink")選手間的對決。
   - 11月25日，赤西以「[LANDS](https://zh.wikipedia.org/wiki/LANDS "wikilink")」的名義（個人姿態）發表《[BANDAGE](../Page/BANDAGE.md "wikilink")》單曲\[5\]。
   - 12月13日，隔了5年才舉辦的「傑尼斯選拔大運動會」在東京巨蛋展開，分成瀧澤率領紅組對抗龜梨率領的白組。競賽分為棒球、足球及接力賽跑三項。白組獲得優勝。龜梨為棒球[MVP](https://zh.wikipedia.org/wiki/MVP "wikilink")、中丸為足球MVP，各得獎金100萬日幣。
 
 **2010年**
 
   - 1月19日，赤西仁為電影《BANDAGE》主演以及樂隊LANDS的一員在東京[涉谷AX舉行了一夜限定的演唱會](https://zh.wikipedia.org/wiki/涉谷 "wikilink")，2場演出一共吸引了2800名觀眾。
-  - 3月25日，公布除了赤西仁以外的五名團員自5月開始展開日本國內巡迴（10地共21場）；7月中旬展開首度世界巡迴，行程：東京巨蛋（7/16，7/17，7/24，7/25）、泰國（7/31）、[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[首爾](../Page/首爾.md "wikilink")（8/6，8/7）、[大阪巨蛋](../Page/大阪巨蛋.md "wikilink")（8/21，8/22）、台灣[台北](https://zh.wikipedia.org/wiki/台北 "wikilink")（8/27，8/28）。26日台灣媒體各報多以「KAT-TUN登台
-    赤西仁缺席」為標題。\[6\]
+  - 3月25日，公布除了赤西仁以外的五名團員自5月開始展開日本國內巡迴（10地共21場）；7月中旬展開首度世界巡迴，行程：東京巨蛋（7/16，7/17，7/24，7/25）、泰國（7/31）、[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[首爾](../Page/首爾.md "wikilink")（8/6，8/7）、[大阪巨蛋](../Page/大阪巨蛋.md "wikilink")（8/21，8/22）、台灣[台北](https://zh.wikipedia.org/wiki/台北 "wikilink")（8/27，8/28）。26日台灣媒體各報多以「KAT-TUN登台 赤西仁缺席」為標題。\[6\]
   - 5月16日，新聞公布，原訂7月31日在泰國舉行的演唱會，因政情局勢不穩定而取消。
   - 6月13日，在公布售票時間不到一天之內，台灣演唱會發售兩個小時內售票超過九成，並一度癱瘓系統\[7\]，締造國外藝人來台舉辦演唱會售票的銷售新紀錄。
   - 6月24日，2萬張的韓國演唱會門票，在發售20分鐘內銷售完畢。
-  - 7月1日，為宣傳《[NO MORE
-    PAIN](https://zh.wikipedia.org/wiki/NO_MORE_PAIN "wikilink")》專輯在韓發行，團員應[Mnet媒體邀請](../Page/Mnet媒體.md "wikilink")，至韓國參加音樂節目表演，並首度於海外舉行記者招待會。於隔日返國。
-  - 7月3日\~4日，舉行「KAT-TUN SUMMER PREMIUM
-    2010」首次粉絲見面握手會，7/3於大阪（龜梨）、7/4於[札幌](https://zh.wikipedia.org/wiki/札幌 "wikilink")（田口）、仙台（上田）、[熊本](https://zh.wikipedia.org/wiki/熊本 "wikilink")（中丸）、東京（田中）。
+  - 7月1日，為宣傳《[NO MORE PAIN](https://zh.wikipedia.org/wiki/NO_MORE_PAIN "wikilink")》專輯在韓發行，團員應[Mnet媒體](../Page/Mnet媒體.md "wikilink")邀請，至韓國參加音樂節目表演，並首度於海外舉行記者招待會。於隔日返國。
+  - 7月3日\~4日，舉行「KAT-TUN SUMMER PREMIUM 2010」首次粉絲見面握手會，7/3於大阪（龜梨）、7/4於[札幌](https://zh.wikipedia.org/wiki/札幌 "wikilink")（田口）、仙台（上田）、[熊本](https://zh.wikipedia.org/wiki/熊本 "wikilink")（中丸）、東京（田中）。
   - 7月16日，[Johnny喜多川社長在世界巡迴開演首日](https://zh.wikipedia.org/wiki/Johnny喜多川 "wikilink")，宣佈赤西將脫離團體。其他五人在開演前記者會則強調「KAT-TUN不會解散」。
   - 7月20日，赤西本人在傑尼斯官方KAT-TUN的手機網誌中，承認退團的事實，並表達其單飛並非與團員有所不合。
   - 8月7日\~8日，首次海外巡迴的韓國場。
   - 8月27日\~28日，海外巡迴的最終站台灣場。總計今年巡迴動員人數高達97萬2千5百人。
   - 8月31日，傑尼斯官方網站正式將赤西仁從「KAT-TUN」頁面移除。
-  - 10月5日，龜梨與女歌手[倖田來未連繼](../Page/倖田來未.md "wikilink")5年連霸[牛仔褲名人獎](https://zh.wikipedia.org/wiki/牛仔褲 "wikilink")「Best
-    Jeanist」而進入牛仔褲名人堂\[8\]，也是史上首次男女同時入殿堂。
-  - 11月28日，推出的新單曲《[CHANGE UR
-    WORLD](../Page/CHANGE_UR_WORLD.md "wikilink")》中的通常版第三首〈NEVER x OVER
-    ～｢-｣ IS YOUR
-    PART～〉爆發前奏與副歌盜用[AVTechNO於](https://zh.wikipedia.org/wiki/AVTechNO "wikilink")2010年2月1日上傳至[NICONICO動畫的](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")〈DYE〉旋律之疑雲。
+  - 10月5日，龜梨與女歌手[倖田來未](../Page/倖田來未.md "wikilink")連繼5年連霸[牛仔褲名人獎](https://zh.wikipedia.org/wiki/牛仔褲 "wikilink")「Best Jeanist」而進入牛仔褲名人堂\[8\]，也是史上首次男女同時入殿堂。
+  - 11月28日，推出的新單曲《[CHANGE UR WORLD](../Page/CHANGE_UR_WORLD.md "wikilink")》中的通常版第三首〈NEVER x OVER ～｢-｣ IS YOUR PART～〉爆發前奏與副歌盜用[AVTechNO於](https://zh.wikipedia.org/wiki/AVTechNO "wikilink")2010年2月1日上傳至[NICONICO動畫的](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")〈DYE〉旋律之疑雲。
 
 **2011年**
 
-  - 1月19日，〈NEVER x OVER ～｢-｣ IS YOUR
-    PART～〉作曲者承認抄襲，AVTechNO認為這不是KAT-TUN本身的錯\[9\]。
-  - 5月30日，原先預計於七月中旬舉行的[工業區演唱會及](https://zh.wikipedia.org/wiki/工業區 "wikilink")5月至10月舉行的「5大巨蛋巡迴」宣佈中止，原因為3月的[東日本大震災及與職業棒球的開幕時間衝突](../Page/東日本大震災.md "wikilink")。
-  - 6月14日，龜梨和也、田中聖及中丸雄一出席[帝國劇場](../Page/帝國劇場.md "wikilink")100周年舞台劇《[DREAM
-    BOYS](https://zh.wikipedia.org/wiki/DREAM_BOYS "wikilink")》製作發表會，並宣布此劇在9月3至25日公演期間，組合將改名為「勝運」，意思是希望為觀眾帶來勝利的運氣\[10\]。
+  - 1月19日，〈NEVER x OVER ～｢-｣ IS YOUR PART～〉作曲者承認抄襲，AVTechNO認為這不是KAT-TUN本身的錯\[9\]。
+  - 5月30日，原先預計於七月中旬舉行的[工業區演唱會及](https://zh.wikipedia.org/wiki/工業區 "wikilink")5月至10月舉行的「5大巨蛋巡迴」宣佈中止，原因為3月的[東日本大震災](../Page/東日本大震災.md "wikilink")及與職業棒球的開幕時間衝突。
+  - 6月14日，龜梨和也、田中聖及中丸雄一出席[帝國劇場](../Page/帝國劇場.md "wikilink")100周年舞台劇《[DREAM BOYS](https://zh.wikipedia.org/wiki/DREAM_BOYS "wikilink")》製作發表會，並宣布此劇在9月3至25日公演期間，組合將改名為「勝運」，意思是希望為觀眾帶來勝利的運氣\[10\]。
 
 **2012年**
 
-  - 8月24日，KAT-TUN全體主持的[TBS節目](../Page/TBS.md "wikilink")「KAT-TUN的世界上最糟糕的夜晚」冠名節目開播。
+  - 8月24日，KAT-TUN全體主持的[TBS](../Page/TBS.md "wikilink")節目「KAT-TUN的世界上最糟糕的夜晚」冠名節目開播。
 
 **2013年**
 
-  - 5月15日，第21張單曲「[Face to
-    Face](https://zh.wikipedia.org/wiki/Face_to_Face "wikilink")」發行，此單曲達成出道以來21張單曲首週登上公信榜冠軍的連冠紀錄\[11\]。
+  - 5月15日，第21張單曲「[Face to Face](https://zh.wikipedia.org/wiki/Face_to_Face "wikilink")」發行，此單曲達成出道以來21張單曲首週登上公信榜冠軍的連冠紀錄\[11\]。
   - 10月9日，宣布田中聖因嚴重違規被傑尼斯事務所解約而脫離團體。
 
 **2014年**
@@ -297,7 +250,7 @@
 
 **2015年**
 
-  - 11月24日，田口淳之介在[日本電視台的直播節目中宣布將於](../Page/日本電視台.md "wikilink")2016年春天退團。\[12\]。
+  - 11月24日，田口淳之介在[日本電視台](../Page/日本電視台.md "wikilink")的直播節目中宣布將於2016年春天退團。\[12\]。
 
 **2016年**
 
@@ -456,8 +409,7 @@
 
 ### 新聞節目
 
-  - [Going\!
-    Sports\&News](https://zh.wikipedia.org/wiki/Going!_Sports&News "wikilink")（[日本電視台](../Page/日本電視台.md "wikilink")）
+  - [Going\! Sports\&News](https://zh.wikipedia.org/wiki/Going!_Sports&News "wikilink")（[日本電視台](../Page/日本電視台.md "wikilink")）
 
 <!-- end list -->
 
@@ -466,9 +418,7 @@
 
 <!-- end list -->
 
-  - [SUNDAY COWNTDOWN SHOW
-    シューイチ](https://zh.wikipedia.org/wiki/SUNDAY_COWNTDOWN_SHOW_シューイチ "wikilink")(shu
-    1)（[日本電視台](../Page/日本電視台.md "wikilink")）中丸
+  - [SUNDAY COWNTDOWN SHOW シューイチ](https://zh.wikipedia.org/wiki/SUNDAY_COWNTDOWN_SHOW_シューイチ "wikilink")(shu 1)（[日本電視台](../Page/日本電視台.md "wikilink")）中丸
 
 <!-- end list -->
 
@@ -550,7 +500,7 @@
 </tr>
 <tr class="even">
 <td><p>2005年1月~3月</p></td>
-<td><p><a href="../Page/極道鮮師.md" title="wikilink">極道鮮師2</a></p></td>
+<td><p><a href="../Page/極道鮮師.md" title="wikilink">極道鮮師</a>2</p></td>
 <td><p>日本電視台</p></td>
 <td><p>龜梨、赤西</p></td>
 <td><p>男配</p></td>
@@ -569,7 +519,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/一起加油吧" title="wikilink">一起加油吧</a></p></td>
 <td><p>富士電視台</p></td>
 <td><p>田口<br />
-（第4話起代替<a href="../Page/內博貴.md" title="wikilink">內博貴演出</a>）</p></td>
+（第4話起代替<a href="../Page/內博貴.md" title="wikilink">內博貴</a>演出）</p></td>
 <td><p>男配</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/錦戶亮" title="wikilink">錦戶亮</a></p></td>
 </tr>
@@ -894,7 +844,7 @@
 | 2006年4月4日             | [很多愛謝謝你](https://zh.wikipedia.org/wiki/很多愛謝謝你 "wikilink")                               | 日本電視台                                                       | 田中             |           |                                                   |
 | 2006年4月7日             | [Happy\!](../Page/Happy!.md "wikilink")                                                 | TBS                                                         | 田口             | 男主角       |                                                   |
 | 2006年8月26日            | [勇氣](../Page/勇氣.md "wikilink")                                                          | 日本電視台                                                       | 龜梨             | 男主角       |                                                   |
-| 2006年9月30日            | [美食偵探王特別篇](../Page/美食偵探王.md "wikilink") 吃遍香港                                            | 日本電視台                                                       | 龜梨             |           | 東山紀之、[森田剛](../Page/森田剛.md "wikilink")             |
+| 2006年9月30日            | [美食偵探王](../Page/美食偵探王.md "wikilink")特別篇 吃遍香港                                            | 日本電視台                                                       | 龜梨             |           | 東山紀之、[森田剛](../Page/森田剛.md "wikilink")             |
 | 2006年12月26日           | [Happy\!](../Page/Happy!.md "wikilink")2                                                | TBS                                                         | 田口             | 男主角       |                                                   |
 | 2007年1月6、7日           | [少年白虎隊](https://zh.wikipedia.org/wiki/白虎隊_\(電視劇\) "wikilink")                           | 朝日電視台                                                       | 田中             |           | 山下智久、[藤谷太輔](../Page/藤谷太輔.md "wikilink")           |
 | 2009年6月6日             | [MR.BRAIN](../Page/MR.BRAIN.md "wikilink")                                              | TBS                                                         | 龜梨             | 主演第3集     | [木村拓哉](../Page/木村拓哉.md "wikilink")                |
@@ -906,9 +856,9 @@
 | 2011年3月27日            | [三年B組金八先生最終章～「最後的贈言」](https://zh.wikipedia.org/wiki/3年B組金八先生#最終特集（2011年） "wikilink")    | TBS                                                         | 龜梨             | 客串        |                                                   |
 | 2011年10月5日            | [ダチタビ第一章ダルセーニョなキャンプ](https://zh.wikipedia.org/wiki/ダチタビ第一章ダルセーニョなキャンプ "wikilink")       | 日本電視台                                                       | 中丸             | 主演        | [增田貴久](../Page/增田貴久.md "wikilink")                |
 | 2012年2月19日            | [必殺仕事人2012](https://zh.wikipedia.org/wiki/必殺仕事人2012 "wikilink")                         | 朝日電視台                                                       | 田中             | 主演        | 東山紀之、松岡昌宏                                         |
-| 2012年6月10日、17日        | [被稱作早海的日子特別篇前篇](../Page/被稱作早海的日子.md "wikilink")、後篇                                      | 富士電視台                                                       | 中丸             |           |                                                   |
+| 2012年6月10日、17日        | [被稱作早海的日子](../Page/被稱作早海的日子.md "wikilink")特別篇前篇、後篇                                      | 富士電視台                                                       | 中丸             |           |                                                   |
 | 2012年9月25日、27日        | dragon青年團                                                                               | TBS                                                         | 龜梨             | 出演最終回     | [安田章大](../Page/安田章大.md "wikilink")                |
-| 2013年1月3日             | [幸運7人組特別篇](../Page/幸運7人組.md "wikilink")                                                 | 富士電視台                                                       | 中丸             | 客串        | 松本潤                                               |
+| 2013年1月3日             | [幸運7人組](../Page/幸運7人組.md "wikilink")特別篇                                                 | 富士電視台                                                       | 中丸             | 客串        | 松本潤                                               |
 | 2013年4月13日            | [Legal high特別篇](https://zh.wikipedia.org/wiki/Legal_high "wikilink")                    | 富士電視台                                                       | 田口             | 配角        |                                                   |
 | 2013年9月29日            | [The Partner ～給摯愛的百年朋友～](../Page/The_Partner_～給摯愛的百年朋友～.md "wikilink")                  | TBS、[越南電視台](https://zh.wikipedia.org/wiki/越南電視台 "wikilink") | 中丸             | 配角        | 東山紀之                                              |
 | 2014年12月24日           | [FIRST_CLASS](../Page/FIRST_CLASS.md "wikilink")2                                      | 富士電視台                                                       | 中丸             | 客串        | 岡本圭人                                              |
@@ -918,7 +868,7 @@
 
 #### 舞台劇
 
-  - [SHOCK系列](../Page/SHOCK.md "wikilink")，帝國劇場
+  - [SHOCK](../Page/SHOCK.md "wikilink")系列，帝國劇場
       - MILLENNIUM SHOCK（2000年11月2日－11月26日）中丸、赤西
       - SHOW劇・SHOCK(2001年12月1日－2002年1月27日，2002年6月4日－6月28日)KAT-TUN全員
       - SHOCK is Real Shock(2003年1月8日－2月25日)KATT-TUN全員
@@ -926,26 +876,17 @@
       - DREAM BOY(2004年1月8日－1月31，帝國劇場)KAT-TUN全員
       - 「KAT-TUN&関ジャニ∞編」(2004年4月30日-5月7日，梅田藝術劇場)KAT-TUN出演
       - 「瀧澤秀明編」(2004年5月8日-5月23日，梅田藝術劇場)KAT-TUN除田口(膝傷)以外全員出演
-      - [Hey\! Say\! Dream
-        Boy](https://zh.wikipedia.org/wiki/DREAM_BOY#Hey!_Say!_Dream_Boy "wikilink")（2005年4月27日-5月15日，[梅田芸術劇場](https://zh.wikipedia.org/wiki/梅田芸術劇場 "wikilink")）
-      - [KAT-TUN vs 関ジャニ∞ Musical Dream
-        Boys](https://zh.wikipedia.org/wiki/DREAM_BOY#DREAM_BOYS（2006年） "wikilink")（2006年1月3日-1月29日，帝国劇場）
-      - [DREAM
-        BOYS](https://zh.wikipedia.org/wiki/DREAM_BOY#DREAM_BOYS（2007年） "wikilink")（2007年9月5日-9月30日，帝国劇場、38公演）龜梨、田中
-      - [DREAM
-        BOYS](https://zh.wikipedia.org/wiki/DREAM_BOY#DREAM_BOYS（2008年） "wikilink")（2008年3月4日-3月30日，帝国劇場、2008年4月4日-4月16日、梅田芸術劇場）龜梨、田中
-      - [DREAM
-        BOYS](https://zh.wikipedia.org/wiki/DREAM_BOY#DREAM_BOYS（2009年） "wikilink")（2009年9月4日-9月29日，帝国劇場、2009年10月13日-10月25，梅田芸術劇場）龜梨和也
-      - [DREAM
-        BOYS](https://zh.wikipedia.org/wiki/DREAM_BOY#DREAM_BOYS（2011年） "wikilink")（2011年9月3日-9月25日，帝国劇場、38公演）龜梨、田中、中丸
-      - [DREAM
-        BOYS](https://zh.wikipedia.org/wiki/DREAM_BOY#DREAM_BOYS（2012年） "wikilink")（2012年9月3日-9月29日，帝国劇場）龜梨
+      - [Hey\! Say\! Dream Boy](https://zh.wikipedia.org/wiki/DREAM_BOY#Hey!_Say!_Dream_Boy "wikilink")（2005年4月27日-5月15日，[梅田芸術劇場](https://zh.wikipedia.org/wiki/梅田芸術劇場 "wikilink")）
+      - [KAT-TUN vs 関ジャニ∞ Musical Dream Boys](https://zh.wikipedia.org/wiki/DREAM_BOY#DREAM_BOYS（2006年） "wikilink")（2006年1月3日-1月29日，帝国劇場）
+      - [DREAM BOYS](https://zh.wikipedia.org/wiki/DREAM_BOY#DREAM_BOYS（2007年） "wikilink")（2007年9月5日-9月30日，帝国劇場、38公演）龜梨、田中
+      - [DREAM BOYS](https://zh.wikipedia.org/wiki/DREAM_BOY#DREAM_BOYS（2008年） "wikilink")（2008年3月4日-3月30日，帝国劇場、2008年4月4日-4月16日、梅田芸術劇場）龜梨、田中
+      - [DREAM BOYS](https://zh.wikipedia.org/wiki/DREAM_BOY#DREAM_BOYS（2009年） "wikilink")（2009年9月4日-9月29日，帝国劇場、2009年10月13日-10月25，梅田芸術劇場）龜梨和也
+      - [DREAM BOYS](https://zh.wikipedia.org/wiki/DREAM_BOY#DREAM_BOYS（2011年） "wikilink")（2011年9月3日-9月25日，帝国劇場、38公演）龜梨、田中、中丸
+      - [DREAM BOYS](https://zh.wikipedia.org/wiki/DREAM_BOY#DREAM_BOYS（2012年） "wikilink")（2012年9月3日-9月29日，帝国劇場）龜梨
 
 ### 廣播
 
-  - [KAT-TUN
-    STYLE](https://zh.wikipedia.org/wiki/KAT-TUN_STYLE "wikilink")（[ニッポン放送](https://zh.wikipedia.org/wiki/ニッポン放送 "wikilink")，田口・田中・龜梨
-    主持）
+  - [KAT-TUN STYLE](https://zh.wikipedia.org/wiki/KAT-TUN_STYLE "wikilink")（[ニッポン放送](https://zh.wikipedia.org/wiki/ニッポン放送 "wikilink")，田口・田中・龜梨 主持）
 
 <!-- end list -->
 
@@ -958,9 +899,7 @@
 
 <!-- end list -->
 
-  - [龜梨和也的 KS by
-    KS](https://zh.wikipedia.org/wiki/龜梨和也的_KS_by_KS "wikilink")（[ニッポン放送](https://zh.wikipedia.org/wiki/ニッポン放送 "wikilink")，龜梨
-    主持）
+  - [龜梨和也的 KS by KS](https://zh.wikipedia.org/wiki/龜梨和也的_KS_by_KS "wikilink")（[ニッポン放送](https://zh.wikipedia.org/wiki/ニッポン放送 "wikilink")，龜梨 主持）
 
 <!-- end list -->
 
@@ -971,25 +910,20 @@
 
 <!-- end list -->
 
-  - [R-One
-    KAT-TUN](https://zh.wikipedia.org/wiki/R-One_KAT-TUN "wikilink")（[文化放送](https://zh.wikipedia.org/wiki/文化放送 "wikilink")，上田・中丸
-    主持）
+  - [R-One KAT-TUN](https://zh.wikipedia.org/wiki/R-One_KAT-TUN "wikilink")（[文化放送](https://zh.wikipedia.org/wiki/文化放送 "wikilink")，上田・中丸 主持）
 
 <!-- end list -->
 
   -
     播放時間：每週二 24:00～24:30
     註：2006年三月至2007年三月，廣播時間為每週三。
-    2007年四月開始，為了不與2007年四月四日（星期三）起播放的綜藝節目[cartoon
-    KAT-TUN](https://zh.wikipedia.org/wiki/cartoon_KAT-TUN "wikilink")（23：55～24：26）衝突，調整廣播時間至週二。
+    2007年四月開始，為了不與2007年四月四日（星期三）起播放的綜藝節目[cartoon KAT-TUN](https://zh.wikipedia.org/wiki/cartoon_KAT-TUN "wikilink")（23：55～24：26）衝突，調整廣播時間至週二。
     2011年10月起，撥放時間改至每週一。
     2012年3月26日，播出最後一集。
 
 <!-- end list -->
 
-  - [KAT-TUN 亀梨和也のHANG
-    OUT](https://zh.wikipedia.org/wiki/KAT-TUN_亀梨和也のHANG_OUT "wikilink")
-    （[NACK 5](https://zh.wikipedia.org/wiki/NACK_5 "wikilink")，龜梨 主持）
+  - [KAT-TUN 亀梨和也のHANG OUT](https://zh.wikipedia.org/wiki/KAT-TUN_亀梨和也のHANG_OUT "wikilink") （[NACK 5](https://zh.wikipedia.org/wiki/NACK_5 "wikilink")，龜梨 主持）
 
 <!-- end list -->
 
@@ -998,9 +932,7 @@
 
 <!-- end list -->
 
-  - [KAT-TUNのがつーん](https://zh.wikipedia.org/wiki/KAT-TUNのがつーん "wikilink")
-    （[文化放送](https://zh.wikipedia.org/wiki/文化放送 "wikilink")，田口・田中・中丸
-    主持；田中退團後由田口、中丸繼續主持）
+  - [KAT-TUNのがつーん](https://zh.wikipedia.org/wiki/KAT-TUNのがつーん "wikilink") （[文化放送](https://zh.wikipedia.org/wiki/文化放送 "wikilink")，田口・田中・中丸 主持；田中退團後由田口、中丸繼續主持）
 
 <!-- end list -->
 
@@ -1016,40 +948,31 @@
   - Spring 05 Looking KAT-TUN（2005年3月25日 - 3月27日、横濱ARENA、4公演）
   - Looking 05 KAT-TUN（2005年5月29日 - 6月26日、5都市14公演）
   - Looking KAT-TUN 2005ing（2005年8月26日 - 8月28日、横濱ARENA、6公演）
-  - KAT-TUN Special TOKYODOME CONCERT Debut "Real
-    Face"（2006年3月17日、東京巨蛋、1公演）
-  - Spring Tour '06 Live of KAT-TUN "Real Face"（2006年3月28日 -
-    5月7日、8都市40公演）
-  - Spring Tour '06 in TOKYO DOME Live of KAT-TUN "Real
-    Face"（2006年5月13日-14日、東京巨蛋、2公演）
+  - KAT-TUN Special TOKYODOME CONCERT Debut "Real Face"（2006年3月17日、東京巨蛋、1公演）
+  - Spring Tour '06 Live of KAT-TUN "Real Face"（2006年3月28日 - 5月7日、8都市40公演）
+  - Spring Tour '06 in TOKYO DOME Live of KAT-TUN "Real Face"（2006年5月13日-14日、東京巨蛋、2公演）
   - TOUR 2007 cartoon KAT-TUN II You（2007年4月3日 - 6月17日、7都市28公演）
   - KAT-TUN LIVE TOUR 2008 QUEEN OF PIRATES（2008年6月21日 - 8月5日、8都市31公演）
-  - KAT-TUN Break the Records
-    東京巨蛋10days・大阪巨蛋3days（2009年5月15-22日、6月14-15日、東京巨蛋、10公演；5月29-31日、京瓷巨蛋、3公演）
-  - KAT-TUN SUMMER '09 Break the Records Tour（2009年7月22日 -
-    8月23日、6都市28公演）
+  - KAT-TUN Break the Records 東京巨蛋10days・大阪巨蛋3days（2009年5月15-22日、6月14-15日、東京巨蛋、10公演；5月29-31日、京瓷巨蛋、3公演）
+  - KAT-TUN SUMMER '09 Break the Records Tour（2009年7月22日 - 8月23日、6都市28公演）
   - KAT-TUN LIVE TOUR 2010 PART1:ARENA TOUR（2010年5月2日 - 6月27日、10都市26公演）
-  - KAT-TUN LIVE TOUR 2010 PART2:WORLD BIG
-    TOUR（2010年7月16-17日及8月24-25日、東京巨蛋；8月6-7日、韓國首爾；8月21-22日、大阪巨蛋；8月27-28日、台灣台北，共計10公演）
+  - KAT-TUN LIVE TOUR 2010 PART2:WORLD BIG TOUR（2010年7月16-17日及8月24-25日、東京巨蛋；8月6-7日、韓國首爾；8月21-22日、大阪巨蛋；8月27-28日、台灣台北，共計10公演）
   - KAT-TUN LIVE TOUR 2012 CHAIN （2012年2月11日 - 2012年4月28日、12都市23公演）
   - KAT-TUN LIVE 2013 COUNTDOWN (2013年12月30日-2013年12月31日、大阪巨蛋第一次單獨跨年)
   - KAT-TUN FAN MEETING 2014 新春勝詣(2014年1月2日 - 2014年1月4日、橫濱ARENA、5公演)
   - KAT-TUN LIVE TOUR 2014 come Here (2014年7月7日 - 2014年12月31日、10都市21公演)
   - KAT-TUN LIVE 2015 9uarter (2015年5月9日-2015年5月10日、東京巨蛋2公演)
-  - KAT-TUN LIVE 2016 10ks
-    (2016年4月3日名古屋巨蛋、2016年4月20日大阪京瓷巨蛋、2016年4月29日-2016年5月1日東京巨蛋，共計5公演)
+  - KAT-TUN LIVE 2016 10ks (2016年4月3日名古屋巨蛋、2016年4月20日大阪京瓷巨蛋、2016年4月29日-2016年5月1日東京巨蛋，共計5公演)
   - KAT-TUN LIVE 2018 UNION (2018年4月20日-2018年4月22日、東京巨蛋3公演)
   - KAT-TUN LIVE TOUR 2018 CAST (2018年8月4日-2018年10月21日、8都市23公演)
 
 ### CM 廣告
 
   - [NTT DOCOMO](../Page/NTT_DOCOMO.md "wikilink")
-      - [FOMA
-        new9（902iS）](https://zh.wikipedia.org/wiki/FOMA#902iSシリーズ "wikilink")（2006年6月）
+      - [FOMA new9（902iS）](https://zh.wikipedia.org/wiki/FOMA#902iSシリーズ "wikilink")（2006年6月）
       - NTT DoCoMo 903i（2006年11月26日 - 12月30日、JR西日本・大阪環状線的車身廣告）
       - 企業廣告「我們的自由篇」（2007年8月）
-  - [Sky
-    PerfecTV\!](https://zh.wikipedia.org/wiki/Sky_PerfecTV! "wikilink")
+  - [Sky PerfecTV\!](https://zh.wikipedia.org/wiki/Sky_PerfecTV! "wikilink")
       - 「新魔球篇」（2006年3月）
       - 「Free Kick篇」（2006年5月）
       - 「MUSIC LIFE\! 篇」（2006年8月）
@@ -1089,22 +1012,14 @@
 
 ## 外部連結
 
-  - [Johnny's
-    net](http://www.johnnys-net.jp/page?id=profile&artist=14)官方網站
+  - [Johnny's net](http://www.johnnys-net.jp/page?id=profile&artist=14)官方網站
 
-  - [カートゥンKAT-TUN](https://web.archive.org/web/20070623050804/http://www.ntv.co.jp/cartoonkat-tun/)
-    - 節目官網
+  - [カートゥンKAT-TUN](https://web.archive.org/web/20070623050804/http://www.ntv.co.jp/cartoonkat-tun/) - 節目官網
 
-  - [J Storm官方網站](http://www.j-storm.co.jp/) -
-    TOKIO、ARASHI、KAT-TUN、Hey\!Say\!JUMP官方網站
+  - [J Storm官方網站](http://www.j-storm.co.jp/) - TOKIO、ARASHI、KAT-TUN、Hey\!Say\!JUMP官方網站
 
   -
-[Category:KAT-TUN](https://zh.wikipedia.org/wiki/Category:KAT-TUN "wikilink")
-[Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink")
-[Category:傑尼斯事務所正式團體](https://zh.wikipedia.org/wiki/Category:傑尼斯事務所正式團體 "wikilink")
-[Category:日本男子偶像團體](https://zh.wikipedia.org/wiki/Category:日本男子偶像團體 "wikilink")
-[Category:Oricon單曲年榜冠軍獲得者](https://zh.wikipedia.org/wiki/Category:Oricon單曲年榜冠軍獲得者 "wikilink")
-[Category:Oricon音樂相關影像作品年榜冠軍獲得者](https://zh.wikipedia.org/wiki/Category:Oricon音樂相關影像作品年榜冠軍獲得者 "wikilink")
+[Category:KAT-TUN](https://zh.wikipedia.org/wiki/Category:KAT-TUN "wikilink") [Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink") [Category:傑尼斯事務所正式團體](https://zh.wikipedia.org/wiki/Category:傑尼斯事務所正式團體 "wikilink") [Category:日本男子偶像團體](https://zh.wikipedia.org/wiki/Category:日本男子偶像團體 "wikilink") [Category:Oricon單曲年榜冠軍獲得者](https://zh.wikipedia.org/wiki/Category:Oricon單曲年榜冠軍獲得者 "wikilink") [Category:Oricon音樂相關影像作品年榜冠軍獲得者](https://zh.wikipedia.org/wiki/Category:Oricon音樂相關影像作品年榜冠軍獲得者 "wikilink")
 
 1.
 2.

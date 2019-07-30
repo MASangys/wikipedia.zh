@@ -18,18 +18,14 @@
       -
         請在該使用者的使用者頁面或使用者討論頁也加上此模板並設置保護。
         如果這個使用者名稱有侮辱字眼或指名道姓，則請不要僅移除封禁記錄檔，而應尋找監管員執行[Oversight](https://zh.wikipedia.org/wiki/WP:Oversight "wikilink")。
-  - 動態IP破壞：{{[range
-    block](https://zh.wikipedia.org/wiki/Template:range_block "wikilink")}}（僅用於[廣域封禁](https://zh.wikipedia.org/wiki/mw:Range_blocks "wikilink")）
+  - 動態IP破壞：{{[range block](https://zh.wikipedia.org/wiki/Template:range_block "wikilink")}}（僅用於[廣域封禁](https://zh.wikipedia.org/wiki/mw:Range_blocks "wikilink")）
       -
-        請謹慎使用，建議先用\[//tools.wmflabs.org/blockcalc/index.php?lang=zh
-        封禁位址段計算器\]（[IPv6](http://nativeforeigner.com/calc/)）得出應封鎖的範圍。
-  - 開放式代理伺服器：{{[blocked
-    proxy](https://zh.wikipedia.org/wiki/Template:blocked_proxy "wikilink")}}
+        請謹慎使用，建議先用\[//tools.wmflabs.org/blockcalc/index.php?lang=zh 封禁位址段計算器\]（[IPv6](http://nativeforeigner.com/calc/)）得出應封鎖的範圍。
+  - 開放式代理伺服器：{{[blocked proxy](https://zh.wikipedia.org/wiki/Template:blocked_proxy "wikilink")}}
   - 3RR：{{[3rr](https://zh.wikipedia.org/wiki/Template:3rr "wikilink")|條目名稱}}
   - 使用者核查後封禁IP：{{[checkuserblock](https://zh.wikipedia.org/wiki/Template:checkuserblock "wikilink")}}
 
-以方便這些使用者點選「編輯本頁」時，看到這些告示，讓使用者知道他們被封禁的詳細原因。
-請務必指定封禁期間。也可以選擇「其他」自行輸入。唯輸入格式須遵守GNU標準格式，詳細資料請參閱[tar手冊](http://www.gnu.org/software/tar/manual/html_node/tar_115.html)。
+以方便這些使用者點選「編輯本頁」時，看到這些告示，讓使用者知道他們被封禁的詳細原因。 請務必指定封禁期間。也可以選擇「其他」自行輸入。唯輸入格式須遵守GNU標準格式，詳細資料請參閱[tar手冊](http://www.gnu.org/software/tar/manual/html_node/tar_115.html)。
 
 ### 後續處理
 

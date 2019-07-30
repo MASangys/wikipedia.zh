@@ -1,35 +1,26 @@
-**Xbox**是由[微软所開發](../Page/微软.md "wikilink")\[1\]、销售的家用[遊戲主機](https://zh.wikipedia.org/wiki/遊戲主機 "wikilink")。是[Xbox系列品牌的首个产品](../Page/Xbox.md "wikilink")。游戏机首先于2001年11月15日在北美发行，之后于2002年在澳大利亚、欧洲和日本发行。这是微软首次进军游戏机市场。在遊戲市場，同世代销售的主机还有[索尼公司的](../Page/索尼.md "wikilink")[PlayStation
-2](../Page/PlayStation_2.md "wikilink")、[任天堂公司的](../Page/任天堂.md "wikilink")[GameCube](https://zh.wikipedia.org/wiki/GameCube "wikilink")，而Xbox的性能在同世代主機中最為強大。
+**Xbox**是由[微软](../Page/微软.md "wikilink")所開發\[1\]、销售的家用[遊戲主機](https://zh.wikipedia.org/wiki/遊戲主機 "wikilink")。是[Xbox](../Page/Xbox.md "wikilink")系列品牌的首个产品。游戏机首先于2001年11月15日在北美发行，之后于2002年在澳大利亚、欧洲和日本发行。这是微软首次进军游戏机市场。在遊戲市場，同世代销售的主机还有[索尼](../Page/索尼.md "wikilink")公司的[PlayStation 2](../Page/PlayStation_2.md "wikilink")、[任天堂](../Page/任天堂.md "wikilink")公司的[GameCube](https://zh.wikipedia.org/wiki/GameCube "wikilink")，而Xbox的性能在同世代主機中最為強大。
 
 ## 历史
 
-1998年，微软DirectX小组的四名工程师Kevin Bachus、Seamus Blackley、Ted
-Hase以及DirectX组长Otto
-Berkes拆卸了一些戴尔笔记本电脑，以构建一个基于微软windows的电子游戏机原型。团队希望创建一个游戏机，能够与[索尼即将推出的PlayStation](../Page/索尼.md "wikilink")
-2竞争，后者正在吸引游戏开发者离开Windows平台。
+1998年，微软DirectX小组的四名工程师Kevin Bachus、Seamus Blackley、Ted Hase以及DirectX组长Otto Berkes拆卸了一些戴尔笔记本电脑，以构建一个基于微软windows的电子游戏机原型。团队希望创建一个游戏机，能够与[索尼](../Page/索尼.md "wikilink")即将推出的PlayStation 2竞争，后者正在吸引游戏开发者离开Windows平台。
 
-XBOX主機于2001年11月15日在[美國地區率先發售](https://zh.wikipedia.org/wiki/美國 "wikilink")，2002年2月22日在[日本發售](../Page/日本.md "wikilink")，随後又相繼登陸[北美](https://zh.wikipedia.org/wiki/北美 "wikilink")、[歐洲](https://zh.wikipedia.org/wiki/歐洲 "wikilink")、[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")，以及亞洲的[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")（2002年11月29日）和[香港等地區](../Page/香港.md "wikilink")。
+XBOX主機于2001年11月15日在[美國地區率先發售](https://zh.wikipedia.org/wiki/美國 "wikilink")，2002年2月22日在[日本](../Page/日本.md "wikilink")發售，随後又相繼登陸[北美](https://zh.wikipedia.org/wiki/北美 "wikilink")、[歐洲](https://zh.wikipedia.org/wiki/歐洲 "wikilink")、[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")，以及亞洲的[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")（2002年11月29日）和[香港](../Page/香港.md "wikilink")等地區。
 
 ## 硬體
 
-[0402_XBOX-Chipeinbau_PICT8723.JPG](https://zh.wikipedia.org/wiki/File:0402_XBOX-Chipeinbau_PICT8723.JPG "fig:0402_XBOX-Chipeinbau_PICT8723.JPG")\]\]
-XBOX主機內裝[Intel公司製造的](https://zh.wikipedia.org/wiki/英特爾 "wikilink")[Pentium
-III基本](https://zh.wikipedia.org/wiki/奔騰3 "wikilink")[CPU](https://zh.wikipedia.org/wiki/中央處理器 "wikilink")，使用內建8GB容量的[硬碟與](https://zh.wikipedia.org/wiki/硬碟 "wikilink")[DVD-ROM光碟機](https://zh.wikipedia.org/wiki/DVD-ROM "wikilink")。内置[乙太網路連接埠](https://zh.wikipedia.org/wiki/乙太網路 "wikilink")，支援網路的能力與[個人電腦類似](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")。控制器插槽的形狀，與USB規格不同，架構和世嘉Dreamcast的控制器十分相似。XBOX在硬體性能上比[PS2和](../Page/PlayStation_2.md "wikilink")[GC更強大](https://zh.wikipedia.org/wiki/GameCube "wikilink")。
+[0402_XBOX-Chipeinbau_PICT8723.JPG](https://zh.wikipedia.org/wiki/File:0402_XBOX-Chipeinbau_PICT8723.JPG "fig:0402_XBOX-Chipeinbau_PICT8723.JPG")\]\] XBOX主機內裝[Intel公司製造的](https://zh.wikipedia.org/wiki/英特爾 "wikilink")[Pentium III基本](https://zh.wikipedia.org/wiki/奔騰3 "wikilink")[CPU](https://zh.wikipedia.org/wiki/中央處理器 "wikilink")，使用內建8GB容量的[硬碟與](https://zh.wikipedia.org/wiki/硬碟 "wikilink")[DVD-ROM光碟機](https://zh.wikipedia.org/wiki/DVD-ROM "wikilink")。内置[乙太網路連接埠](https://zh.wikipedia.org/wiki/乙太網路 "wikilink")，支援網路的能力與[個人電腦類似](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")。控制器插槽的形狀，與USB規格不同，架構和世嘉Dreamcast的控制器十分相似。XBOX在硬體性能上比[PS2和](../Page/PlayStation_2.md "wikilink")[GC更強大](https://zh.wikipedia.org/wiki/GameCube "wikilink")。
 
 ### 技术規格
 
   - 中央處理器：特制 Intel Pentium III 733MHz（二级缓存128K）
-  - 圖型處理器：由[微軟與](https://zh.wikipedia.org/wiki/微軟 "wikilink")[NVIDIA公司共同研發的特製繪圖晶片](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")"
-    XGPU(X-Chip)" 233MHz（GeForce3的改良版）
+  - 圖型處理器：由[微軟與](https://zh.wikipedia.org/wiki/微軟 "wikilink")[NVIDIA公司共同研發的特製繪圖晶片](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")" XGPU(X-Chip)" 233MHz（GeForce3的改良版）
   - 多邊形表現效能：125M/秒
   - 記憶體：DDR SDRAM 64MB
   - 記憶體頻寬：6.4GB/秒
   - 記憶装置：5倍速DVD光碟機、8GB內建硬碟；支援8MB記憶卡
   - 輸出入埠：遊戲控制器連接埠x4、10/100Mbps[乙太網路連接埠](https://zh.wikipedia.org/wiki/乙太網路 "wikilink")
   - 音軌數量：256
-  - 音频输出：支援MIDI+DLS與[Dolby](https://zh.wikipedia.org/wiki/杜比 "wikilink")®
-    [Digital](https://zh.wikipedia.org/wiki/數位 "wikilink")
-    [5.1環繞音效](https://zh.wikipedia.org/wiki/5.1ch "wikilink")
+  - 音频输出：支援MIDI+DLS與[Dolby](https://zh.wikipedia.org/wiki/杜比 "wikilink")® [Digital](https://zh.wikipedia.org/wiki/數位 "wikilink") [5.1環繞音效](https://zh.wikipedia.org/wiki/5.1ch "wikilink")
   - 视频输出：支援色差分量端子输出；支援[HDTV规格](https://zh.wikipedia.org/wiki/HDTV "wikilink")。
   - 最大解析度：1920×1080i
   - 電源：规格依发售地所在国有所不同
@@ -115,10 +106,6 @@ XBOX在日本發售預定價格約為34,800日元，之後經過數次的價格�
   - [Xbox官方網站（香港）](http://www.xbox.com/zh-HK/)
   - [Xbox官方網站（中國）](http://www.xbox.com/zh-CN/)
 
-[Category:Xbox_(遊戲機)](https://zh.wikipedia.org/wiki/Category:Xbox_\(遊戲機\) "wikilink")
-[Category:第六世代遊戲機](https://zh.wikipedia.org/wiki/Category:第六世代遊戲機 "wikilink")
-[Category:微軟遊戲機](https://zh.wikipedia.org/wiki/Category:微軟遊戲機 "wikilink")
-[Category:家用游戏机](https://zh.wikipedia.org/wiki/Category:家用游戏机 "wikilink")
-[Category:2001年面世的產品](https://zh.wikipedia.org/wiki/Category:2001年面世的產品 "wikilink")
+[Category:Xbox_(遊戲機)](https://zh.wikipedia.org/wiki/Category:Xbox_\(遊戲機\) "wikilink") [Category:第六世代遊戲機](https://zh.wikipedia.org/wiki/Category:第六世代遊戲機 "wikilink") [Category:微軟遊戲機](https://zh.wikipedia.org/wiki/Category:微軟遊戲機 "wikilink") [Category:家用游戏机](https://zh.wikipedia.org/wiki/Category:家用游戏机 "wikilink") [Category:2001年面世的產品](https://zh.wikipedia.org/wiki/Category:2001年面世的產品 "wikilink")
 
 1.

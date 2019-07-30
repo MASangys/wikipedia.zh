@@ -1,10 +1,6 @@
-**M**, **m**
-是[拉丁字母中的第](../Page/拉丁字母.md "wikilink")13个[字母](../Page/字母.md "wikilink")，在古典语言和现代语言中都发双音。它起源于[希腊的](../Page/希腊.md "wikilink")[Μ,
-μ](https://zh.wikipedia.org/wiki/Μ "wikilink")。[闪族人起初用它来表述](https://zh.wikipedia.org/wiki/闪族 "wikilink")[水](../Page/水.md "wikilink")。
+**M**, **m** 是[拉丁字母](../Page/拉丁字母.md "wikilink")中的第13个[字母](../Page/字母.md "wikilink")，在古典语言和现代语言中都发双音。它起源于[希腊](../Page/希腊.md "wikilink")的[Μ, μ](https://zh.wikipedia.org/wiki/Μ "wikilink")。[闪族人起初用它来表述](https://zh.wikipedia.org/wiki/闪族 "wikilink")[水](../Page/水.md "wikilink")。
 
-[漢語拼音有一個](https://zh.wikipedia.org/wiki/漢語拼音 "wikilink") Unicode
-未收的帶[重音符的](../Page/重音符.md "wikilink") m
-（̀\[1\]）用來表示「呣」的發音。
+[漢語拼音有一個](https://zh.wikipedia.org/wiki/漢語拼音 "wikilink") Unicode 未收的帶[重音符](../Page/重音符.md "wikilink")的 m （̀\[1\]）用來表示「呣」的發音。
 
 在一些[醫學檢驗報告中](https://zh.wikipedia.org/wiki/醫學檢驗 "wikilink")，參考值標示的M為男性（Male）的意思。\[2\]
 

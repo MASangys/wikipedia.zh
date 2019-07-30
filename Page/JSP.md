@@ -1,12 +1,10 @@
-**JSP**（全称**J**ava**S**erver **P**ages）是由[Sun
-Microsystems公司主导建立的一种动态网页技术标准](https://zh.wikipedia.org/wiki/Sun_Microsystems "wikilink")。JSP部署于网络服务器上，可以响应客户端发送的请求，并根据请求内容动态地生成[HTML](../Page/HTML.md "wikilink")、[XML或其他格式文档的](../Page/XML.md "wikilink")[Web网页](https://zh.wikipedia.org/wiki/Web "wikilink")，然后返回给请求者。JSP技术以[Java语言作为](../Page/Java.md "wikilink")[脚本语言](../Page/脚本语言.md "wikilink")，为用户的[HTTP请求提供服务](https://zh.wikipedia.org/wiki/HTTP "wikilink")，并能与服务器上的其它Java程序共同处理复杂的业务需求。
+**JSP**（全称**J**ava**S**erver **P**ages）是由[Sun Microsystems公司主导建立的一种动态网页技术标准](https://zh.wikipedia.org/wiki/Sun_Microsystems "wikilink")。JSP部署于网络服务器上，可以响应客户端发送的请求，并根据请求内容动态地生成[HTML](../Page/HTML.md "wikilink")、[XML](../Page/XML.md "wikilink")或其他格式文档的[Web网页](https://zh.wikipedia.org/wiki/Web "wikilink")，然后返回给请求者。JSP技术以[Java](../Page/Java.md "wikilink")语言作为[脚本语言](../Page/脚本语言.md "wikilink")，为用户的[HTTP请求提供服务](https://zh.wikipedia.org/wiki/HTTP "wikilink")，并能与服务器上的其它Java程序共同处理复杂的业务需求。
 
 JSP将Java代码和特定变动内容嵌入到静态的页面中，实现以静态页面为模板，动态生成其中的部分内容。JSP引入了被称为“JSP动作”的XML标签，用来调用内建功能。另外，可以创建JSP标签库，然后像使用标准HTML或XML标签一样使用它们。标签库能增强功能和服务器性能，而且不受[跨平台问题的限制](https://zh.wikipedia.org/wiki/跨平台 "wikilink")。JSP文件在运行时会被其编译器转换成更原始的[Servlet代码](https://zh.wikipedia.org/wiki/Servlet "wikilink")。JSP编译器可以把JSP文件编译成用Java代码写的Servlet，然后再由Java编译器来编译成能快速执行的二进制[机器码](https://zh.wikipedia.org/wiki/机器码 "wikilink")，也可以直接编译成二进制码。
 
 ## 综述
 
-JSP从2.0版本开始，增加了[表达式语言](https://zh.wikipedia.org/wiki/表达式语言 "wikilink")（EL），以提供更快更简单的创建新标签的方法，并允许开发者创建[Velocity式模板](../Page/Apache_Velocity.md "wikilink")。如旧版本代码“`Hello,
-<%=request.getParameter("visitor")%>`”可简化为“`Hello, ${param.visitor}”`。
+JSP从2.0版本开始，增加了[表达式语言](https://zh.wikipedia.org/wiki/表达式语言 "wikilink")（EL），以提供更快更简单的创建新标签的方法，并允许开发者创建[Velocity式模板](../Page/Apache_Velocity.md "wikilink")。如旧版本代码“`Hello, <%=request.getParameter("visitor")%>`”可简化为“`Hello, ${param.visitor}”`。
 
 ## 特点
 
@@ -24,9 +22,7 @@ JSP从2.0版本开始，增加了[表达式语言](https://zh.wikipedia.org/wiki
 
 JSP指令控制JSP编译器如何去生成[servlet](https://zh.wikipedia.org/wiki/servlet "wikilink")，以下是可用的指令：
 
-  - 包含指令include
-    –包含指令通知JSP编译器把另外一个文件完全包含入当前文件中。效果就好像被包含文件的内容直接被粘贴到当前文件中一样。这个功能和C[预处理器所提供的很类似](../Page/预处理器.md "wikilink")。被包含文件的扩展名一般都是"jspf"（即JSP
-    **Fragment**，JSP片段）:
+  - 包含指令include –包含指令通知JSP编译器把另外一个文件完全包含入当前文件中。效果就好像被包含文件的内容直接被粘贴到当前文件中一样。这个功能和C[预处理器](../Page/预处理器.md "wikilink")所提供的很类似。被包含文件的扩展名一般都是"jspf"（即JSP **Fragment**，JSP片段）:
 
 <!-- end list -->
 
@@ -42,7 +38,7 @@ JSP指令控制JSP编译器如何去生成[servlet](https://zh.wikipedia.org/wik
 | **contentType**  | 规定了生成内容的类型。当生成非HTML内容或者当前[字符集并非默认字符集时使用](https://zh.wikipedia.org/wiki/字符集 "wikilink")。 |
 | **errorPage**    | 处理HTTP请求时，如果出现异常则显示该错误提示信息页面。                                                           |
 | **isErrorPage**  | 如果设置为TRUE，则表示当前文件是一个错误提示页面。                                                             |
-| **isThreadSafe** | 表示最终生成的servlet是否具有[线程安全性](../Page/线程.md "wikilink")。                                    |
+| **isThreadSafe** | 表示最终生成的servlet是否具有[线程](../Page/线程.md "wikilink")安全性。                                    |
 
 ``` jsp
 <%@ page import="java.util.*" %> //example import導入樣例
@@ -53,8 +49,7 @@ JSP指令控制JSP编译器如何去生成[servlet](https://zh.wikipedia.org/wik
 
 **注意：**在同一个JSP文件中只有“import”导入页面指令可以被多次使用。
 
-  - 标签库指令taglib
-    –标签库指令描述了要使用的JSP标签库。该指令需要指定一个前缀prefix（和C++的命名空间很类似）和标签库的描述URI:
+  - 标签库指令taglib –标签库指令描述了要使用的JSP标签库。该指令需要指定一个前缀prefix（和C++的命名空间很类似）和标签库的描述URI:
 
 <!-- end list -->
 
@@ -155,8 +150,7 @@ name:<%=request.getParameter("extraparam")%>
 </jsp:plugin>
 ```
 
-上述[plugin例子说明了一种在网页中嵌入](https://zh.wikipedia.org/wiki/plugin "wikilink")[applet的统一方法](https://zh.wikipedia.org/wiki/applet "wikilink")。在\<*OBJECT*\>标签出现之前，并没有一种嵌入applets的通用方法。这个标签设计得并不好，但有希望在以后加入动态属性（height="${param.height}",
-code="${chart}"等）和动态参数的新功能。目前jsp:plugin标签不允许动态调用applets。例如，你如果有一个图表applet需要数据点以参数形式被传入，除非数据点的数量是一个常量，否则你就不能使用ResultSet循环来创建jsp:param标签，你不得不手写每个jsp:param标签的代码。而每个上述jsp:param标签可以有一个动态命名和动态值。
+上述[plugin例子说明了一种在网页中嵌入](https://zh.wikipedia.org/wiki/plugin "wikilink")[applet的统一方法](https://zh.wikipedia.org/wiki/applet "wikilink")。在\<*OBJECT*\>标签出现之前，并没有一种嵌入applets的通用方法。这个标签设计得并不好，但有希望在以后加入动态属性（height="${param.height}", code="${chart}"等）和动态参数的新功能。目前jsp:plugin标签不允许动态调用applets。例如，你如果有一个图表applet需要数据点以参数形式被传入，除非数据点的数量是一个常量，否则你就不能使用ResultSet循环来创建jsp:param标签，你不得不手写每个jsp:param标签的代码。而每个上述jsp:param标签可以有一个动态命名和动态值。
 
 ##### jsp:useBean
 
@@ -171,15 +165,13 @@ scope属性可以是request, page, session or application，它有以下用意�
   - request— 该属性在请求的生命周期内有效，一旦请求被所有的JSP页处理完后，那么该属性就不可引用。
   - page— 该属性只是当前页中有效。
   - session— 该属性在用户会话的生命周期内有效。
-  - application— 该属性在各种情况下都有效，并且永远不会被变为不可引用，和全局变量[global
-    variable相同](https://zh.wikipedia.org/wiki/global_variable "wikilink")。
+  - application— 该属性在各种情况下都有效，并且永远不会被变为不可引用，和全局变量[global variable相同](https://zh.wikipedia.org/wiki/global_variable "wikilink")。
 
 上述例子将会用一个创建一个类的实例，并且把该实例存储在属性中，该属性将在该请求的生命周期内有效。它可以在所有被包含或者从主页面（最先接收请求的页面）转向到的JSP页之间共享。
 
 ### JSP标签库
 
-除了JSP预定义动作之外，开发者还可以使用JSP标签扩展API添加他们自定义的*动作*。开发者写一种实现一个标签的界面和一个标签库的XML描述文件的JAVA类，这就能指定标签和实现标签的JAVA类
-请看如下JSP：
+除了JSP预定义动作之外，开发者还可以使用JSP标签扩展API添加他们自定义的*动作*。开发者写一种实现一个标签的界面和一个标签库的XML描述文件的JAVA类，这就能指定标签和实现标签的JAVA类 请看如下JSP：
 
 ``` jsp
 <%@ taglib uri="mytaglib.tld" prefix="myprefix" %>
@@ -203,8 +195,7 @@ JSP编译器将会载入mytaglib.tld这个XML文件，然后可以看到标签*m
 
 当结束标签出现时，它会调用doEndTag()方法，该方法会返回如下两做之一：
 
-  - EVAL_PAGE - 表示JSP文件的剩余部份将会被执行。this indicates that the rest of the
-    JSP file should be processed.
+  - EVAL_PAGE - 表示JSP文件的剩余部份将会被执行。this indicates that the rest of the JSP file should be processed.
   - SKIP_PAGE - 表示将不会再有更多执行操作。当前JSP页交出控制权。就象在转发动作中的作用一样。
 
 上述myaction标签tag会有一个类似下面例子的用于实现的类：
@@ -229,29 +220,17 @@ JSP的[本地化是通过和JAVA应用程序相同的方式完成的](https://zh
 
 ## 模型-视图-控制器 模式
 
-为了把表现层（presentation）从请求处理（request processing）和数据存储（data
-storage）中分离开来（这样更利于开发、查错和功能扩展），[升阳公司推荐在JSP文件中使用一种称作](https://zh.wikipedia.org/wiki/升阳公司 "wikilink")[模型-视图-控制器](https://zh.wikipedia.org/wiki/Model-view-controller "wikilink")（MVC）的架构模式。按照此设计，当用户访问网站上的特定网址时，用户的处理请求会先由网站[服务器获取到](../Page/服务器.md "wikilink")，然后先交由网站的控制器程序作初步处理。用户的访问请求可能多种多样，比如查询信息或进行数据计算都是常见的网站业务。控制器程序会初步判断用户请求的种类，然后把用户请求转发给与特定业务对应的[Servlet程序或者另一个独立的JSP文件进行业务处理](https://zh.wikipedia.org/wiki/Servlet "wikilink")。当请求处理完后，再通过一个专门负责输出信息的JSP页以清晰、美观的方式向用户的浏览器输出结果。简而言之，先由控制器拦截用户请求并做初步判断，再由业务处理程序访问数据（从[数据库中访问](../Page/数据库.md "wikilink")）和处理业务，最后由视图组件生成结果页面并发送结果给用户。其中JSP一般用作展示输出结果，可以用于展示经Servlet查询或处理后的结果；也可以用一个JSP文件处理业务逻辑，再用另一个JSP文件展示结果。按功能做这样的文件拆分（而非由一个臃肿的JSP页面包揽所有功能）是为了便于团队分工。MVC本身是一种由来已久的设计思想，基于JSP的技术只是实现MVC架构的流行方案之一。[Struts和](../Page/Struts.md "wikilink")[Spring框架等好几种流行的网站建设框架都是基于MVC模式设计的](https://zh.wikipedia.org/wiki/Spring框架 "wikilink")。
+为了把表现层（presentation）从请求处理（request processing）和数据存储（data storage）中分离开来（这样更利于开发、查错和功能扩展），[升阳公司推荐在JSP文件中使用一种称作](https://zh.wikipedia.org/wiki/升阳公司 "wikilink")[模型-视图-控制器](https://zh.wikipedia.org/wiki/Model-view-controller "wikilink")（MVC）的架构模式。按照此设计，当用户访问网站上的特定网址时，用户的处理请求会先由网站[服务器](../Page/服务器.md "wikilink")获取到，然后先交由网站的控制器程序作初步处理。用户的访问请求可能多种多样，比如查询信息或进行数据计算都是常见的网站业务。控制器程序会初步判断用户请求的种类，然后把用户请求转发给与特定业务对应的[Servlet程序或者另一个独立的JSP文件进行业务处理](https://zh.wikipedia.org/wiki/Servlet "wikilink")。当请求处理完后，再通过一个专门负责输出信息的JSP页以清晰、美观的方式向用户的浏览器输出结果。简而言之，先由控制器拦截用户请求并做初步判断，再由业务处理程序访问数据（从[数据库](../Page/数据库.md "wikilink")中访问）和处理业务，最后由视图组件生成结果页面并发送结果给用户。其中JSP一般用作展示输出结果，可以用于展示经Servlet查询或处理后的结果；也可以用一个JSP文件处理业务逻辑，再用另一个JSP文件展示结果。按功能做这样的文件拆分（而非由一个臃肿的JSP页面包揽所有功能）是为了便于团队分工。MVC本身是一种由来已久的设计思想，基于JSP的技术只是实现MVC架构的流行方案之一。[Struts](../Page/Struts.md "wikilink")和[Spring框架等好几种流行的网站建设框架都是基于MVC模式设计的](https://zh.wikipedia.org/wiki/Spring框架 "wikilink")。
 
 ## JSP和Servlets
 
-从架构上说，JSP可以被看作是从Servlets高级提炼而作为[JAVA
-Servlet](https://zh.wikipedia.org/wiki/Servlet "wikilink") 2.1
-API的扩展而应用。Servlets和JSP最早都是由[Sun
-Microsystems](https://zh.wikipedia.org/wiki/Sun_Microsystems "wikilink")（太阳公司）开发的。从JSP1.2版本以来，JSP处于[Java
-Community
-Process](../Page/JCP.md "wikilink")（有人译为：Java社区组织）开发模式下。[JSR](https://zh.wikipedia.org/wiki/JSR "wikilink")-53规定了JSP
-1.2和Servlet
-2.4的规范，[JSR](https://zh.wikipedia.org/wiki/JSR "wikilink")-152规定了JSP
-2.0的规范。2006年5月，JSP 2.1的规范作为[Java
-EE](https://zh.wikipedia.org/wiki/Java_EE "wikilink")
-5的一部份，在[JSR](https://zh.wikipedia.org/wiki/JSR "wikilink")-245中发布。
+从架构上说，JSP可以被看作是从Servlets高级提炼而作为[JAVA Servlet](https://zh.wikipedia.org/wiki/Servlet "wikilink") 2.1 API的扩展而应用。Servlets和JSP最早都是由[Sun Microsystems](https://zh.wikipedia.org/wiki/Sun_Microsystems "wikilink")（太阳公司）开发的。从JSP1.2版本以来，JSP处于[Java Community Process](../Page/JCP.md "wikilink")（有人译为：Java社区组织）开发模式下。[JSR](https://zh.wikipedia.org/wiki/JSR "wikilink")-53规定了JSP 1.2和Servlet 2.4的规范，[JSR](https://zh.wikipedia.org/wiki/JSR "wikilink")-152规定了JSP 2.0的规范。2006年5月，JSP 2.1的规范作为[Java EE](https://zh.wikipedia.org/wiki/Java_EE "wikilink") 5的一部份，在[JSR](https://zh.wikipedia.org/wiki/JSR "wikilink")-245中发布。
 
 静态数据在输入文件中的内容和输出给[HTTP响应的内容完全一致](https://zh.wikipedia.org/wiki/HTTP "wikilink")。此时，该JSP输入文件会是一个没有内嵌JAVA或动作的HTML页面。而且，客户端每次请求都会得到相同的响应内容。
 
 ### 样例
 
-不管JSP编译器是生成SERVLET的JAVA源码，或者是直接发布二进制码，了解一下JSP编译器是如何把文件转换成一个JAVA
-SERVLET，都是很有帮助的。例如，看一下如下输入JSP和它最后生成的JAVA SERVLET：
+不管JSP编译器是生成SERVLET的JAVA源码，或者是直接发布二进制码，了解一下JSP编译器是如何把文件转换成一个JAVA SERVLET，都是很有帮助的。例如，看一下如下输入JSP和它最后生成的JAVA SERVLET：
 
 **Input JSP**
 
@@ -328,12 +307,9 @@ class _myserlvet implements javax.servlet.Servlet, javax.servlet.jsp.HttpJspPage
   - [JavaServer Faces](../Page/JavaServer_Faces.md "wikilink")
   - [Java Servlet](../Page/Java_Servlet.md "wikilink")
   - [SSJS](https://zh.wikipedia.org/wiki/SSJS "wikilink")
-  - [WAR (file
-    format)](https://zh.wikipedia.org/wiki/WAR_\(file_format\) "wikilink")
-  - [EAR (file
-    format)](https://zh.wikipedia.org/wiki/EAR_\(file_format\) "wikilink")
-  - [JAR (file
-    format)](https://zh.wikipedia.org/wiki/JAR_\(file_format\) "wikilink")
+  - [WAR (file format)](https://zh.wikipedia.org/wiki/WAR_\(file_format\) "wikilink")
+  - [EAR (file format)](https://zh.wikipedia.org/wiki/EAR_\(file_format\) "wikilink")
+  - [JAR (file format)](https://zh.wikipedia.org/wiki/JAR_\(file_format\) "wikilink")
   - [Tomcat服务器](../Page/Apache_Tomcat.md "wikilink")
 
 ## 参考资料
@@ -351,8 +327,7 @@ class _myserlvet implements javax.servlet.Servlet, javax.servlet.jsp.HttpJspPage
   - [JSR 152](http://www.jcp.org/en/jsr/detail?id=152) (JSP 2.0)
   - [JSR 53](http://www.jcp.org/en/jsr/detail?id=53) (JSP 1.2)
 
-[Category:Java企业平台](https://zh.wikipedia.org/wiki/Category:Java企业平台 "wikilink")
-[Category:Java规范请求](https://zh.wikipedia.org/wiki/Category:Java规范请求 "wikilink")
+[Category:Java企业平台](https://zh.wikipedia.org/wiki/Category:Java企业平台 "wikilink") [Category:Java规范请求](https://zh.wikipedia.org/wiki/Category:Java规范请求 "wikilink")
 
 1.
 

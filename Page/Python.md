@@ -1,84 +1,64 @@
-**Python**（
-）是一种广泛使用的[解释型](https://zh.wikipedia.org/wiki/直譯语言 "wikilink")、[高级编程](https://zh.wikipedia.org/wiki/高级编程語言 "wikilink")、[通用型编程语言](../Page/通用编程语言.md "wikilink")，由[吉多·范罗苏姆创造](../Page/吉多·范罗苏姆.md "wikilink")，第一版发布于1991年。可以視之為一種改良（加入一些其他程式語言的優點，如物件導向）的[LISP](../Page/LISP.md "wikilink")。Python的设计哲学强调代码的[可读性和简洁的语法](../Page/可读性.md "wikilink")（尤其是使用[空格缩进划分代码块](../Page/越位规则.md "wikilink")，而非使用大括号或者关键词）。相比於C++或Java，Python让开发者能够用更少的代码表达想法。不管是小型还是大型程序，该语言都试图让程序的结构清晰明了。
+**Python**（ ）是一种广泛使用的[解释型](https://zh.wikipedia.org/wiki/直譯语言 "wikilink")、[高级编程](https://zh.wikipedia.org/wiki/高级编程語言 "wikilink")、[通用型编程语言](../Page/通用编程语言.md "wikilink")，由[吉多·范罗苏姆](../Page/吉多·范罗苏姆.md "wikilink")创造，第一版发布于1991年。可以視之為一種改良（加入一些其他程式語言的優點，如物件導向）的[LISP](../Page/LISP.md "wikilink")。Python的设计哲学强调代码的[可读性](../Page/可读性.md "wikilink")和简洁的语法（尤其是使用[空格缩进划分代码块](../Page/越位规则.md "wikilink")，而非使用大括号或者关键词）。相比於C++或Java，Python让开发者能够用更少的代码表达想法。不管是小型还是大型程序，该语言都试图让程序的结构清晰明了。
 
-与[Scheme](../Page/Scheme.md "wikilink")、[Ruby](../Page/Ruby.md "wikilink")、[Perl](../Page/Perl.md "wikilink")、[Tcl等动态类型编程语言一样](../Page/Tcl.md "wikilink")，Python拥有[动态类型系统和](../Page/類型系統.md "wikilink")[垃圾回收功能](../Page/垃圾回收_\(計算機科學\).md "wikilink")，能够自动管理内存使用，并且支持多种编程范式，包括面向对象、命令式、函数式和过程式编程。其本身拥有一个巨大而广泛的标准库。
+与[Scheme](../Page/Scheme.md "wikilink")、[Ruby](../Page/Ruby.md "wikilink")、[Perl](../Page/Perl.md "wikilink")、[Tcl](../Page/Tcl.md "wikilink")等动态类型编程语言一样，Python拥有[动态类型系统和](../Page/類型系統.md "wikilink")[垃圾回收功能](../Page/垃圾回收_\(計算機科學\).md "wikilink")，能够自动管理内存使用，并且支持多种编程范式，包括面向对象、命令式、函数式和过程式编程。其本身拥有一个巨大而广泛的标准库。
 
-Python
-[解释器本身几乎可以在所有的](https://zh.wikipedia.org/wiki/解释器 "wikilink")[操作系统中运行](../Page/操作系统.md "wikilink")。Python的其中一個[直譯器](../Page/直譯器.md "wikilink")[CPython是用](../Page/CPython.md "wikilink")[C语言编写的](https://zh.wikipedia.org/wiki/C语言 "wikilink")、是一個由社群驱动的自由[软件](https://zh.wikipedia.org/wiki/軟體 "wikilink")，目前由[Python软件基金会管理](../Page/Python軟體基金會.md "wikilink")。
+Python [解释器本身几乎可以在所有的](https://zh.wikipedia.org/wiki/解释器 "wikilink")[操作系统](../Page/操作系统.md "wikilink")中运行。Python的其中一個[直譯器](../Page/直譯器.md "wikilink")[CPython](../Page/CPython.md "wikilink")是用[C语言编写的](https://zh.wikipedia.org/wiki/C语言 "wikilink")、是一個由社群驱动的自由[软件](https://zh.wikipedia.org/wiki/軟體 "wikilink")，目前由[Python软件基金会管理](../Page/Python軟體基金會.md "wikilink")。
 
 ## 歷史
 
-[Guido_van_Rossum_OSCON_2006.jpg](https://zh.wikipedia.org/wiki/File:Guido_van_Rossum_OSCON_2006.jpg "fig:Guido_van_Rossum_OSCON_2006.jpg")（Guido
-van Rossum）。\]\]
+[Guido_van_Rossum_OSCON_2006.jpg](https://zh.wikipedia.org/wiki/File:Guido_van_Rossum_OSCON_2006.jpg "fig:Guido_van_Rossum_OSCON_2006.jpg")（Guido van Rossum）。\]\]
 
-Python的創始人為[吉多·范羅蘇姆](https://zh.wikipedia.org/wiki/吉多·范羅蘇姆 "wikilink")。1989年的聖誕節期間，[吉多·范羅蘇姆為了在](https://zh.wikipedia.org/wiki/吉多·范羅蘇姆 "wikilink")[阿姆斯特丹打發时间](../Page/阿姆斯特丹.md "wikilink")，決心開發一個新的腳本解釋程式，作為[ABC語言的一種繼承](https://zh.wikipedia.org/wiki/ABC語言 "wikilink")。之所以選中Python作為程式的名字，是因為他是BBC電視劇——[蒙提·派森的飛行馬戲團的愛好者](../Page/蒙提·派森的飛行馬戲團.md "wikilink")。ABC是由吉多参加設计的一種教學語言。就吉多本人看来，ABC這種語言非常優美和强大，是專門為非專業程式設計師設計的。但是ABC語言并没有成功，究其原因，吉多認為是非開放造成的。吉多決心在Python中避免這一錯誤，并取得了非常好的效果，完美结合了[C和其他一些語言](https://zh.wikipedia.org/wiki/C语言 "wikilink")。\[1\]
+Python的創始人為[吉多·范羅蘇姆](https://zh.wikipedia.org/wiki/吉多·范羅蘇姆 "wikilink")。1989年的聖誕節期間，[吉多·范羅蘇姆為了在](https://zh.wikipedia.org/wiki/吉多·范羅蘇姆 "wikilink")[阿姆斯特丹](../Page/阿姆斯特丹.md "wikilink")打發时间，決心開發一個新的腳本解釋程式，作為[ABC語言的一種繼承](https://zh.wikipedia.org/wiki/ABC語言 "wikilink")。之所以選中Python作為程式的名字，是因為他是BBC電視劇——[蒙提·派森的飛行馬戲團](../Page/蒙提·派森的飛行馬戲團.md "wikilink")的愛好者。ABC是由吉多参加設计的一種教學語言。就吉多本人看来，ABC這種語言非常優美和强大，是專門為非專業程式設計師設計的。但是ABC語言并没有成功，究其原因，吉多認為是非開放造成的。吉多決心在Python中避免這一錯誤，并取得了非常好的效果，完美结合了[C和其他一些語言](https://zh.wikipedia.org/wiki/C语言 "wikilink")。\[1\]
 
-就這樣，Python在吉多手中誕生了。實際上，第一個實現是在[Mac電腦上](https://zh.wikipedia.org/wiki/Mac "wikilink")。可以说，Python是從ABC發展起来，主要受到了[Modula-3](../Page/Modula-3.md "wikilink")（另一種相當優美且强大的語言，為小型團體所设计的）的影響。并且結合了[Unix
-shell和C的習慣](../Page/Unix_shell.md "wikilink")。
+就這樣，Python在吉多手中誕生了。實際上，第一個實現是在[Mac電腦上](https://zh.wikipedia.org/wiki/Mac "wikilink")。可以说，Python是從ABC發展起来，主要受到了[Modula-3](../Page/Modula-3.md "wikilink")（另一種相當優美且强大的語言，為小型團體所设计的）的影響。并且結合了[Unix shell和C的習慣](../Page/Unix_shell.md "wikilink")。
 
 目前吉多仍然是Python的主要開發者，決定整個Python語言的發展方向。Python社群經常稱呼他是**[終身仁慈獨裁者](https://zh.wikipedia.org/wiki/終身仁慈獨裁者 "wikilink")**（BDFL）。
 
-Python
-2.0於2000年10月16日發布，增加了實現完整的[垃圾回收](../Page/垃圾回收_\(計算機科學\).md "wikilink")，并且支持[Unicode](https://zh.wikipedia.org/wiki/Unicode "wikilink")。同时，整個開發過程更加透明，社群對開發進度的影響逐渐擴大。
+Python 2.0於2000年10月16日發布，增加了實現完整的[垃圾回收](../Page/垃圾回收_\(計算機科學\).md "wikilink")，并且支持[Unicode](https://zh.wikipedia.org/wiki/Unicode "wikilink")。同时，整個開發過程更加透明，社群對開發進度的影響逐渐擴大。
 
-Python 3.0於2008年12月3日發布，此版不完全兼容之前的Python原始碼。不過，很多新特性後來也被移植到舊的Python
-2.6/2.7版本。
+Python 3.0於2008年12月3日發布，此版不完全兼容之前的Python原始碼。不過，很多新特性後來也被移植到舊的Python 2.6/2.7版本。
 
 ## 特性與設計哲學
 
-Python是完全物件導向的語言。函數、模組、數字、字串都是物件。並且完全支持繼承、重載、派生、多重繼承，有益於增强原始碼的複用性。Python支持重載運算符，因此Python也支持泛型設計。相對於Lisp這種傳統的函數式程式語言，Python對[函数式编程只提供了有限的支持](../Page/函数式编程.md "wikilink")。有兩個標準庫（functools,
-itertools）提供了与[Haskell和](../Page/Haskell.md "wikilink")[Standard
-ML中类似的函數式程式設計工具](https://zh.wikipedia.org/wiki/Standard_ML "wikilink")。
+Python是完全物件導向的語言。函數、模組、數字、字串都是物件。並且完全支持繼承、重載、派生、多重繼承，有益於增强原始碼的複用性。Python支持重載運算符，因此Python也支持泛型設計。相對於Lisp這種傳統的函數式程式語言，Python對[函数式编程](../Page/函数式编程.md "wikilink")只提供了有限的支持。有兩個標準庫（functools, itertools）提供了与[Haskell](../Page/Haskell.md "wikilink")和[Standard ML中类似的函數式程式設計工具](https://zh.wikipedia.org/wiki/Standard_ML "wikilink")。
 
-雖然Python可能被粗略地分類為「[腳本語言](https://zh.wikipedia.org/wiki/腳本語言 "wikilink")」，但實際上一些大規模軟體開發計划例如[Zope](../Page/Zope.md "wikilink")、Mnet及[BitTorrent](../Page/BitTorrent_\(软件\).md "wikilink")，[Google也广泛地使用它](../Page/Google.md "wikilink")。Python的支持者較喜歡稱它為一種高階動態程式語言，原因是「腳本語言」泛指僅作簡單程式設計任務的語言，如shell
-script、[VBScript等](../Page/VBScript.md "wikilink")-{只}-能處理簡單任務的程式語言，並不能與Python相提並論。
+雖然Python可能被粗略地分類為「[腳本語言](https://zh.wikipedia.org/wiki/腳本語言 "wikilink")」，但實際上一些大規模軟體開發計划例如[Zope](../Page/Zope.md "wikilink")、Mnet及[BitTorrent](../Page/BitTorrent_\(软件\).md "wikilink")，[Google](../Page/Google.md "wikilink")也广泛地使用它。Python的支持者較喜歡稱它為一種高階動態程式語言，原因是「腳本語言」泛指僅作簡單程式設計任務的語言，如shell script、[VBScript](../Page/VBScript.md "wikilink")等-{只}-能處理簡單任務的程式語言，並不能與Python相提並論。
 
-Python本身被設計為可擴充的。並非所有的特性和功能都集成到語言核心。Python提供了豐富的[API和工具](https://zh.wikipedia.org/wiki/API "wikilink")，以便程式設計師能够輕鬆地使用[C](https://zh.wikipedia.org/wiki/C语言 "wikilink")、[C++](../Page/C++.md "wikilink")、[Cython來編寫擴充模組](../Page/Cython.md "wikilink")。Python編譯器本身也可以被集成到其它需要腳本語言的程式内。因此，有很多人把Python作为一種「[膠水語言](https://zh.wikipedia.org/wiki/膠水語言 "wikilink")」使用。使用Python將其他語言編寫的程式進行集成和封裝。在[Google内部的很多项目](../Page/Google.md "wikilink")，例如[Google應用服務引擎使用](../Page/Google應用服務引擎.md "wikilink")[C++編寫性能要求極高的部分](../Page/C++.md "wikilink")，然后用Python或[Java](../Page/Java.md "wikilink")/[Go調用相應的模組](../Page/Go.md "wikilink")。\[2\]《Python技术手册》的作者马特利（Alex
-Martelli）說：“這很難講，不過，2004年，Python已在Google內部使用，Google召募許多Python高手，但在這之前就已決定使用Python。他們的目的是尽量使用Python，在不得已时改用C++；在操控硬體的場合使用C++，在快速開發時候使用Python。”\[3\]
+Python本身被設計為可擴充的。並非所有的特性和功能都集成到語言核心。Python提供了豐富的[API和工具](https://zh.wikipedia.org/wiki/API "wikilink")，以便程式設計師能够輕鬆地使用[C](https://zh.wikipedia.org/wiki/C语言 "wikilink")、[C++](../Page/C++.md "wikilink")、[Cython](../Page/Cython.md "wikilink")來編寫擴充模組。Python編譯器本身也可以被集成到其它需要腳本語言的程式内。因此，有很多人把Python作为一種「[膠水語言](https://zh.wikipedia.org/wiki/膠水語言 "wikilink")」使用。使用Python將其他語言編寫的程式進行集成和封裝。在[Google](../Page/Google.md "wikilink")内部的很多项目，例如[Google應用服務引擎](../Page/Google應用服務引擎.md "wikilink")使用[C++](../Page/C++.md "wikilink")編寫性能要求極高的部分，然后用Python或[Java](../Page/Java.md "wikilink")/[Go](../Page/Go.md "wikilink")調用相應的模組。\[2\]《Python技术手册》的作者马特利（Alex Martelli）說：“這很難講，不過，2004年，Python已在Google內部使用，Google召募許多Python高手，但在這之前就已決定使用Python。他們的目的是尽量使用Python，在不得已时改用C++；在操控硬體的場合使用C++，在快速開發時候使用Python。”\[3\]
 
-Python的設計哲學是“優雅”、“明確”、“簡單”。Python開發者的哲學是“用一種方法，最好是只有一種方法來做一件事”，也因此它和擁有明顯個人風格的其他語言很不一樣。在設計Python語言時，如果面臨多種選擇，Python開發者一般會拒绝花俏的語法，而選擇明確没有或者很少有歧義的語法。這些準則被稱為「**Python格言**」。在Python解釋器内運行`import
-this`可以獲得完整的列表。
+Python的設計哲學是“優雅”、“明確”、“簡單”。Python開發者的哲學是“用一種方法，最好是只有一種方法來做一件事”，也因此它和擁有明顯個人風格的其他語言很不一樣。在設計Python語言時，如果面臨多種選擇，Python開發者一般會拒绝花俏的語法，而選擇明確没有或者很少有歧義的語法。這些準則被稱為「**Python格言**」。在Python解釋器内運行`import this`可以獲得完整的列表。
 
-\>\>\> import this --From:
-[Python.org](https://www.python.org/dev/peps/pep-0020/)
+\>\>\> import this --From: [Python.org](https://www.python.org/dev/peps/pep-0020/)
 
-Python開發人員盡量避開不成熟或者不重要的優化。一些針對非重要部位的加快運行速度的補丁通常不會被合併到Python内。再加上因为Python属于动态类型语言，动态类型语言是在运行期间检查数据的类型，不得不保持描述变量值的实际类型标记，程序在每次操作变量时，需要执行数据依赖分支，而静态类型语言相对于动态类型语言，在声明变量时已经指定了数据类型和表示方法，根据这一原理导致Python相对于C、Visual
-Basic等静态类型语言来说运行速度较慢。不過，根據[二八定律](https://zh.wikipedia.org/wiki/帕雷托法則 "wikilink")，大多數程式對速度要求不高。在某些對運行速度要求很高的情況，目前可用的JIT技術是[PyPy](../Page/PyPy.md "wikilink")。
+Python開發人員盡量避開不成熟或者不重要的優化。一些針對非重要部位的加快運行速度的補丁通常不會被合併到Python内。再加上因为Python属于动态类型语言，动态类型语言是在运行期间检查数据的类型，不得不保持描述变量值的实际类型标记，程序在每次操作变量时，需要执行数据依赖分支，而静态类型语言相对于动态类型语言，在声明变量时已经指定了数据类型和表示方法，根据这一原理导致Python相对于C、Visual Basic等静态类型语言来说运行速度较慢。不過，根據[二八定律](https://zh.wikipedia.org/wiki/帕雷托法則 "wikilink")，大多數程式對速度要求不高。在某些對運行速度要求很高的情況，目前可用的JIT技術是[PyPy](../Page/PyPy.md "wikilink")。
 
 ## 應用范围
 
 ### [網絡應用程式](https://zh.wikipedia.org/wiki/網絡應用程式 "wikilink")
 
-Python經常被用於Web開發。比如，通過模組，[Apache可以運行用Python編寫的Web程式](https://zh.wikipedia.org/wiki/Apache "wikilink")。使用Python语言编写的[Gunicorn作为Web服务器](https://zh.wikipedia.org/wiki/Gunicorn "wikilink")，也能够运行Python语言编写的Web程序。Python定義了[WSGI標準應用接口来協調Http伺服器與基於Python的Web程式之間的溝通](https://zh.wikipedia.org/wiki/WSGI "wikilink")。一些Web框架，如[Django](../Page/Django.md "wikilink")、[Pyramid](https://zh.wikipedia.org/wiki/Pyramid "wikilink")、[TurboGears](../Page/TurboGears.md "wikilink")、[Tornado](../Page/Tornado.md "wikilink")、[web2py](https://zh.wikipedia.org/wiki/web2py "wikilink")、[Zope](../Page/Zope.md "wikilink")、[Flask等](../Page/Flask.md "wikilink")，可以讓程式設計師輕鬆地開發和管理複雜的Web程式。
+Python經常被用於Web開發。比如，通過模組，[Apache可以運行用Python編寫的Web程式](https://zh.wikipedia.org/wiki/Apache "wikilink")。使用Python语言编写的[Gunicorn作为Web服务器](https://zh.wikipedia.org/wiki/Gunicorn "wikilink")，也能够运行Python语言编写的Web程序。Python定義了[WSGI標準應用接口来協調Http伺服器與基於Python的Web程式之間的溝通](https://zh.wikipedia.org/wiki/WSGI "wikilink")。一些Web框架，如[Django](../Page/Django.md "wikilink")、[Pyramid](https://zh.wikipedia.org/wiki/Pyramid "wikilink")、[TurboGears](../Page/TurboGears.md "wikilink")、[Tornado](../Page/Tornado.md "wikilink")、[web2py](https://zh.wikipedia.org/wiki/web2py "wikilink")、[Zope](../Page/Zope.md "wikilink")、[Flask](../Page/Flask.md "wikilink")等，可以讓程式設計師輕鬆地開發和管理複雜的Web程式。
 
 Python對於各种網路協定的支援很完善，因此經常被用於編寫伺服器軟體、網路爬蟲。第三方函式庫[Twisted支援非同步線上編寫程式和多數標準的網路協定](https://zh.wikipedia.org/wiki/Twisted "wikilink")（包含客户端和伺服器），並且提供了多種工具，被廣泛用於編寫高性能的伺服器軟體。另有[gevent这个流行的第三方库](https://zh.wikipedia.org/wiki/gevent "wikilink")，同样能够支持高性能高并发的网络开发。
 
 ### [GUI开发](https://zh.wikipedia.org/wiki/GUI "wikilink")
 
-Python本身包含的Tkinter库能够支持简单的[GUI开发](https://zh.wikipedia.org/wiki/GUI "wikilink")。但是越来越多的Python程序员选择[wxPython或者](https://zh.wikipedia.org/wiki/wxPython "wikilink")[PyQt等GUI套件来开发跨平台的桌面软件](../Page/PyQt.md "wikilink")。使用它们开发的桌面软件运行速度快，与用户的桌面环境相契合。通过[PyInstaller还能将程序发布为独立的安装程序包](https://zh.wikipedia.org/wiki/PyInstaller "wikilink")。
+Python本身包含的Tkinter库能够支持简单的[GUI开发](https://zh.wikipedia.org/wiki/GUI "wikilink")。但是越来越多的Python程序员选择[wxPython或者](https://zh.wikipedia.org/wiki/wxPython "wikilink")[PyQt](../Page/PyQt.md "wikilink")等GUI套件来开发跨平台的桌面软件。使用它们开发的桌面软件运行速度快，与用户的桌面环境相契合。通过[PyInstaller还能将程序发布为独立的安装程序包](https://zh.wikipedia.org/wiki/PyInstaller "wikilink")。
 
 ### 作業系統
 
-在很多作業系統裡，Python是標準的系统元件。大多數Linux發行版和Mac OS
-X都集成了Python，可以在終端機下直接執行Python。有一些Linux發行版的安裝器使用Python語言編寫，比如Ubuntu的Ubiquity安裝器、[Red
-Hat
-Linux和Fedora的Anaconda安裝器](../Page/Red_Hat_Linux.md "wikilink")。在RPM系列Linux发行版中，有一些系统组件就是用Python编写的。Gentoo
-Linux使用Python來編寫它的Portage[軟件包管理系统](https://zh.wikipedia.org/wiki/軟件包管理系统 "wikilink")。Python標準庫包含了多個調用作業系统功能的函式庫。通過pywin32這個第三方軟體包，Python能夠訪問Windows的COM服務及其它Windows
-API。使用IronPython，Python程式能夠直接調用.Net Framework。
+在很多作業系統裡，Python是標準的系统元件。大多數Linux發行版和Mac OS X都集成了Python，可以在終端機下直接執行Python。有一些Linux發行版的安裝器使用Python語言編寫，比如Ubuntu的Ubiquity安裝器、[Red Hat Linux和Fedora的Anaconda安裝器](../Page/Red_Hat_Linux.md "wikilink")。在RPM系列Linux发行版中，有一些系统组件就是用Python编写的。Gentoo Linux使用Python來編寫它的Portage[軟件包管理系统](https://zh.wikipedia.org/wiki/軟件包管理系统 "wikilink")。Python標準庫包含了多個調用作業系统功能的函式庫。通過pywin32這個第三方軟體包，Python能夠訪問Windows的COM服務及其它Windows API。使用IronPython，Python程式能夠直接調用.Net Framework。
 
 ### 科學計算
 
 [NumPy](../Page/NumPy.md "wikilink")、[SciPy](../Page/SciPy.md "wikilink")、[Matplotlib可以讓Python程式設計師編寫科学計算程式](https://zh.wikipedia.org/wiki/Matplotlib "wikilink")。有些公司会使用[Scons代替make构建C](../Page/SCons.md "wikilink")++程序。
 
-很多遊戲使用C++編寫圖形顯示等高性能模組，而使用Python或者[Lua編寫遊戲的邏輯](../Page/Lua.md "wikilink")、伺服器。相較於Python，[Lua的功能更簡單](../Page/Lua.md "wikilink")、體積更小；而Python則支援更多的特性和數據類型。很多遊戲，如[EVE
-Online使用Python來處理遊戲中繁多的邏輯](https://zh.wikipedia.org/wiki/EVE_Online "wikilink")。
+很多遊戲使用C++編寫圖形顯示等高性能模組，而使用Python或者[Lua](../Page/Lua.md "wikilink")編寫遊戲的邏輯、伺服器。相較於Python，[Lua](../Page/Lua.md "wikilink")的功能更簡單、體積更小；而Python則支援更多的特性和數據類型。很多遊戲，如[EVE Online使用Python來處理遊戲中繁多的邏輯](https://zh.wikipedia.org/wiki/EVE_Online "wikilink")。
 
-YouTube、Google、Yahoo\!、NASA都在内部大量地使用Python。[OLPC的作業系统Sugar項目的大多數軟體都是使用Python編寫](../Page/OLPC.md "wikilink")。
+YouTube、Google、Yahoo\!、NASA都在内部大量地使用Python。[OLPC](../Page/OLPC.md "wikilink")的作業系统Sugar項目的大多數軟體都是使用Python編寫。
 
 ## Hello World
 
-一個在標準輸出設備上輸出[Hello
-World的簡單程式](../Page/Hello_World.md "wikilink")，這種程式通常作為開始學習程式語言時的第一個程式：
+一個在標準輸出設備上輸出[Hello World的簡單程式](../Page/Hello_World.md "wikilink")，這種程式通常作為開始學習程式語言時的第一個程式：
 
 \*;適用於Python 3.0以上版本以及Python 2.6、Python 2.7
 
@@ -94,8 +74,7 @@ print "Hello, world!"
 
 ### 單步執行
 
-Python也可以單步直譯執行。執行Python直譯器進入互動式命令列的環境，你可以在提示符號\>\>\>旁輸入print（"Hello,
-world\!"），按Enter鍵輸出結果：
+Python也可以單步直譯執行。執行Python直譯器進入互動式命令列的環境，你可以在提示符號\>\>\>旁輸入print（"Hello, world\!"），按Enter鍵輸出結果：
 
 \*;適用於Python 3.0以上版本以及Python 2.6、Python 2.7
 
@@ -137,8 +116,7 @@ print("這句話處於if語句塊的外面")
   - _单下划线开头：弱“内部使用”标识。对于“from M import \*”，将不导入所有以下划线开头的对象，包括包、模块、成员。
   - 单下划线结尾_：为了避免与python关键字的命名冲突
   - __双下划线开头：模块内的成员，表示私有成员，外部无法直接调用
-  - __双下划线开头双下划线结尾__：指那些包含在用户无法控制的命名空间中的“魔术”对象或属性，如类成员的name
-    、doc、init、import、file、等。推荐永远不要将这样的命名方式应用于自己的变量或函数。
+  - __双下划线开头双下划线结尾__：指那些包含在用户无法控制的命名空间中的“魔术”对象或属性，如类成员的name 、doc、init、import、file、等。推荐永远不要将这样的命名方式应用于自己的变量或函数。
 
 ### 語句和控制流
 
@@ -153,18 +131,13 @@ print("這句話處於if語句塊的外面")
   - `with`語句。Python2.6以後定義的語法，在一個場景中執行語句塊。比如，執行語句塊前加锁，然后在語句塊執行結束後释放锁。
   - `yield`语句。在迭代器函数内使用，用于返回一个元素。自从Python 2.5版本以后。这个语句变成一个运算符。
   - `raise`语句。抛出一个异常。
-  - `import`语句。导入一个模块或包。常用写法：`from module import name, import module as
-    name, from module import name as anothername`
+  - `import`语句。导入一个模块或包。常用写法：`from module import name, import module as name, from module import name as anothername`
 
 ### 表达式
 
 Python的表达式写法与C/C++类似。只是在某些写法有所差别。
 
-  - 主要的算术运算符与C/C++类似。`+, -, *, /, //, **, ~,
-    %`分别表示加法或者取正、减法或者取负、乘法、除法、整除、乘方、取反、取餘數。`>>,
-    <<`表示右移和左移。`&, |, ^`表示二进制的`AND, OR, XOR`运算。`>, <, ==, !=, <=,
-    >=`用于比较两个表达式的值，分别表示大于、小于、等于、不等于、小于等于、大于等于。在这些运算符里面，`~, |, ^,
-    &, <<, >>`必须应用于整数。
+  - 主要的算术运算符与C/C++类似。`+, -, *, /, //, **, ~, %`分别表示加法或者取正、减法或者取负、乘法、除法、整除、乘方、取反、取餘數。`>>, <<`表示右移和左移。`&, |, ^`表示二进制的`AND, OR, XOR`运算。`>, <, ==, !=, <=, >=`用于比较两个表达式的值，分别表示大于、小于、等于、不等于、小于等于、大于等于。在这些运算符里面，`~, |, ^, &, <<, >>`必须应用于整数。
 
 <!-- end list -->
 
@@ -176,8 +149,7 @@ Python的表达式写法与C/C++类似。只是在某些写法有所差别。
 
 <!-- end list -->
 
-  - Python支持字典、集合、列表的推导式（`dict comprehension, set comprehension, list
-    comprehension`）。比如：
+  - Python支持字典、集合、列表的推导式（`dict comprehension, set comprehension, list comprehension`）。比如：
 
 <!-- end list -->
 
@@ -209,8 +181,7 @@ Python的表达式写法与C/C++类似。只是在某些写法有所差别。
 5
 ```
 
-  - Python使用`y if cond else
-    x`表示条件表达式。意思是当`cond`为真时，表达式的值为`y`，否则表达式的值为`x`。相当于C++和Java里的`cond?y:x`。
+  - Python使用`y if cond else x`表示条件表达式。意思是当`cond`为真时，表达式的值为`y`，否则表达式的值为`x`。相当于C++和Java里的`cond?y:x`。
 
 <!-- end list -->
 
@@ -228,13 +199,11 @@ Python的表达式写法与C/C++类似。只是在某些写法有所差别。
 >>> x, y = y, x #最终结果：y=1, x=2
 ```
 
-  - Python使用'（单引号）和"（双引号）来表示字符串。与Perl、Unix
-    Shell语言或者Ruby、Groovy等语言不一样，两种符号作用相同。一般地，如果字符串中出现了双引号，就使用单引号来表示字符串;反之则使用双引号。如果都没有出现，就依个人喜好选择。出现在字符串中的\\（反斜杠）被解释为特殊字符，比如`\n`表示换行符。表达式前加`r`指示Python不解释字符串中出现的\\。这种写法通常用于编写正则表达式或者Windows文件路径。
+  - Python使用'（单引号）和"（双引号）来表示字符串。与Perl、Unix Shell语言或者Ruby、Groovy等语言不一样，两种符号作用相同。一般地，如果字符串中出现了双引号，就使用单引号来表示字符串;反之则使用双引号。如果都没有出现，就依个人喜好选择。出现在字符串中的\\（反斜杠）被解释为特殊字符，比如`\n`表示换行符。表达式前加`r`指示Python不解释字符串中出现的\\。这种写法通常用于编写正则表达式或者Windows文件路径。
 
 <!-- end list -->
 
-  - Python支持列表切割（list slices），可以取得完整列表的一部分。支持切割操作的类型有`str, bytes, list,
-    tuple`等。它的语法是`...[left:right]`或者`...[left:right:stride]`。假定`nums`变量的值是`[1, 3, 5, 7, 8, 13, 20]`，那么下面几个语句为真：
+  - Python支持列表切割（list slices），可以取得完整列表的一部分。支持切割操作的类型有`str, bytes, list, tuple`等。它的语法是`...[left:right]`或者`...[left:right:stride]`。假定`nums`变量的值是`[1, 3, 5, 7, 8, 13, 20]`，那么下面几个语句为真：
       - `nums[2:5] == [5, 7, 8]`从下标为2的元素切割到下标为5的元素，但不包含下标为5的元素。
       - `nums[1:] == [3, 5, 7, 8, 13, 20]`切割到最后一个元素。
       - `nums[:-3] == [1, 3, 5, 7]`从最开始的元素一直切割到倒数第3个元素。
@@ -243,8 +212,7 @@ Python的表达式写法与C/C++类似。只是在某些写法有所差别。
 
 ### 函数
 
-Python的函数支持[递归](../Page/递归.md "wikilink")、默认参数值、可变参数、闭包，但不支持函数[重载](https://zh.wikipedia.org/wiki/重载 "wikilink")。为了增强代码的可读性，可以在函数后书写“文档字符串”（Documentation
-Strings，或者简称docstrings），用于解释函数的作用、参数的类型与意义、返回值类型与取值范围等。可以使用内置函数`help()`打印出函数的使用帮助。比如：
+Python的函数支持[递归](../Page/递归.md "wikilink")、默认参数值、可变参数、闭包，但不支持函数[重载](https://zh.wikipedia.org/wiki/重载 "wikilink")。为了增强代码的可读性，可以在函数后书写“文档字符串”（Documentation Strings，或者简称docstrings），用于解释函数的作用、参数的类型与意义、返回值类型与取值范围等。可以使用内置函数`help()`打印出函数的使用帮助。比如：
 
 ``` Python
 >>> def randint(a, b):
@@ -257,8 +225,7 @@ randint(a, b)
     Return random integer in range [a, b], including both end points.
 ```
 
-函数调用时，实参可以如同C语言那样按照位置与形参匹配；也可以按照形式调用，即 param_name=value
-形式的实参。在一个函数调用的实参表中，關鍵字引數必须出现在位置参数之后。
+函数调用时，实参可以如同C语言那样按照位置与形参匹配；也可以按照形式调用，即 param_name=value 形式的实参。在一个函数调用的实参表中，關鍵字引數必须出现在位置参数之后。
 
 可变参数用\*args或\*\*dictargs表示，即在形式参数名字前加一个\*号，表示这是由多个实参组成的可变参数，该形参视作tuple数据类型；在形式参数名字前加\*\*号，表示这是由多个实参组成的可变参数，该形参视作dict数据类型。实际上，在一个"集合(collection)类型"（包括set、list、tuple甚至bytes、str等）的变量前加一个\*号，获得了其中所有元素作为多个对象。
 
@@ -301,9 +268,7 @@ print(b) #结果为100
 
 ### 面向对象开发方法
 
-面向对象开发方法是指绑定到对象的函数。调用对象方法的语法是`instance.method(arguments)`。它等价于调用`Class.method(instance,
-arguments)`。当定义对象方法时，必须显式地定义第一个参数，一般该参数名都使用`self`，用于访问对象的内部数据。这里的`self`相当于C++,
-Java里面的`this`变量，但是我们还可以使用任何其它合法的参数名，比如`this`和`mine`等，`self`与C++,Java里面的`this`不完全一样，它可以被看作是一个习惯性的用法，我们传入任何其它的合法名称都行，比如：
+面向对象开发方法是指绑定到对象的函数。调用对象方法的语法是`instance.method(arguments)`。它等价于调用`Class.method(instance, arguments)`。当定义对象方法时，必须显式地定义第一个参数，一般该参数名都使用`self`，用于访问对象的内部数据。这里的`self`相当于C++, Java里面的`this`变量，但是我们还可以使用任何其它合法的参数名，比如`this`和`mine`等，`self`与C++,Java里面的`this`不完全一样，它可以被看作是一个习惯性的用法，我们传入任何其它的合法名称都行，比如：
 
 ``` Python
 class Fish(object):
@@ -329,8 +294,7 @@ Python支持一些以“__”开始并以“__”结束的特殊方法名，它�
 
 ### 数据类型与动态类型
 
-[Python_3._The_standard_type_hierarchy.png](https://zh.wikipedia.org/wiki/File:Python_3._The_standard_type_hierarchy.png "fig:Python_3._The_standard_type_hierarchy.png")
-Python采用动态类型系统。Python不会在[编译期检查对象是否拥有被调用的方法或者属性](https://zh.wikipedia.org/wiki/编译期 "wikilink")，而是直至运行时，才做出检查。所以操作对象时可能会抛出异常。不过，虽然Python采用[动态类型系统](https://zh.wikipedia.org/wiki/類型系統#靜態和動態檢查 "wikilink")，它同时也是[强类型的](../Page/強弱型別.md "wikilink")。Python禁止没有明确定义的操作，比如数字加字符串。
+[Python_3._The_standard_type_hierarchy.png](https://zh.wikipedia.org/wiki/File:Python_3._The_standard_type_hierarchy.png "fig:Python_3._The_standard_type_hierarchy.png") Python采用动态类型系统。Python不会在[编译期检查对象是否拥有被调用的方法或者属性](https://zh.wikipedia.org/wiki/编译期 "wikilink")，而是直至运行时，才做出检查。所以操作对象时可能会抛出异常。不过，虽然Python采用[动态类型系统](https://zh.wikipedia.org/wiki/類型系統#靜態和動態檢查 "wikilink")，它同时也是[强类型的](../Page/強弱型別.md "wikilink")。Python禁止没有明确定义的操作，比如数字加字符串。
 
 与其它面向对象语言一样，Python允许程序员定义类型。构造一个对象只需要像函数一样调用类型即可，比如，对于前面定义的`Fish`类型，使用`Fish()`。类型本身也是特殊类型`type`的对象（`type`类型本身也是`type`对象），这种特殊的设计允许对类型进行[反射编程](../Page/反射_\(计算机科学\).md "wikilink")。
 
@@ -419,14 +383,9 @@ Python使用与C、Java类似的运算符，支持整数与浮点数的数学运
 
 `fractions`模块用于支持分数运算；`decimal`模块用于支持高精度的浮点数运算；第三方库`Sympy`用于支持数学符号运算。
 
-Python定义求余运行`a % b`的值处于开区间`[0,
-b)`内，如果`b`是负数，开区间变为`(b, 0]`。这是一个很常见的定义方式。不过其实它依赖于整除的定义。为了让方程式：`b
-* (a // b) + a % b = a`恒真，整除运行需要向负无穷小方向取值。比如`7 // 3`的结果是`2`，而`(-7)
-// 3`的结果却是`-3`。这个算法与其它很多编程语言不一样，需要注意，它们的整除运算会向0的方向取值。
+Python定义求余运行`a % b`的值处于开区间`[0, b)`内，如果`b`是负数，开区间变为`(b, 0]`。这是一个很常见的定义方式。不过其实它依赖于整除的定义。为了让方程式：`b * (a // b) + a % b = a`恒真，整除运行需要向负无穷小方向取值。比如`7 // 3`的结果是`2`，而`(-7) // 3`的结果却是`-3`。这个算法与其它很多编程语言不一样，需要注意，它们的整除运算会向0的方向取值。
 
-Python允许像数学的常用写法那样连着写两个比较运行符。比如`a < b < c`与`a < b and b <
-c`等价。C++的结果与Python不一样，首先它会先计算`a <
-b`，根据两者的大小获得0或者1两个值之一，然后再与c进行比较。
+Python允许像数学的常用写法那样连着写两个比较运行符。比如`a < b < c`与`a < b and b < c`等价。C++的结果与Python不一样，首先它会先计算`a < b`，根据两者的大小获得0或者1两个值之一，然后再与c进行比较。
 
 ## 标准库
 
@@ -442,9 +401,7 @@ Python标准库的主要功能有：
   - W3C格式支持，包含HTML，SGML，XML的处理。
   - 其它功能，包括国际化支持、数学运算、HASH、Tkinter等
 
-Python社区提供了大量的第三方模块，使用方式与标准库类似。它们的功能覆盖科学计算、Web开发、数据库接口、图形系统多个领域。第三方模块可以使用Python或者[C语言编写](../Page/C.md "wikilink")。[SWIG](https://zh.wikipedia.org/wiki/SWIG "wikilink")，[SIP常用于将C语言编写的程序库转化为Python模块](https://zh.wikipedia.org/wiki/系統級封裝 "wikilink")。[Boost
-C++
-Libraries包含了一組函式庫](../Page/Boost_C++_Libraries.md "wikilink")，Boost.Python，使得以Python或C++編寫的程式能互相调用。Python常被用做其他语言与工具之间的“胶水”语言。
+Python社区提供了大量的第三方模块，使用方式与标准库类似。它们的功能覆盖科学计算、Web开发、数据库接口、图形系统多个领域。第三方模块可以使用Python或者[C](../Page/C.md "wikilink")语言编写。[SWIG](https://zh.wikipedia.org/wiki/SWIG "wikilink")，[SIP常用于将C语言编写的程序库转化为Python模块](https://zh.wikipedia.org/wiki/系統級封裝 "wikilink")。[Boost C++ Libraries包含了一組函式庫](../Page/Boost_C++_Libraries.md "wikilink")，Boost.Python，使得以Python或C++編寫的程式能互相调用。Python常被用做其他语言与工具之间的“胶水”语言。
 
 ## 著名第三方库
 
@@ -516,7 +473,7 @@ Libraries包含了一組函式庫](../Page/Boost_C++_Libraries.md "wikilink")，
   - scikit-learn
     [機器學習第三方库](https://zh.wikipedia.org/wiki/機器學習 "wikilink")，實現許多知名的機器學習演算法。
   - [TensorFlow](../Page/TensorFlow.md "wikilink")
-    [Google开发维护的](../Page/Google.md "wikilink")[开源机器学习库](https://zh.wikipedia.org/wiki/开源 "wikilink")。
+    [Google](../Page/Google.md "wikilink")开发维护的[开源机器学习库](https://zh.wikipedia.org/wiki/开源 "wikilink")。
   - [Keras](../Page/Keras.md "wikilink")
     基於[TensorFlow](../Page/TensorFlow.md "wikilink")，[Theano與](https://zh.wikipedia.org/wiki/Theano "wikilink")[CNTK的高階](https://zh.wikipedia.org/wiki/CNTK "wikilink")[神經網路](https://zh.wikipedia.org/wiki/神經網路 "wikilink")[API](https://zh.wikipedia.org/wiki/API "wikilink")。
   - [SQLAlchemy](../Page/SQLAlchemy.md "wikilink")
@@ -524,29 +481,17 @@ Libraries包含了一組函式庫](../Page/Boost_C++_Libraries.md "wikilink")，
 
 ## Python 3.0
 
-Python的3.0版本，常被称为**Python
-3000**，或简称**Py3k**\[6\]。相对于Python的早期版本，这是一个较大的[升级](https://zh.wikipedia.org/wiki/升级 "wikilink")。为了不带入过多的累赘，Python
-3.0在设计的时候没有考虑[向下兼容](../Page/向下兼容.md "wikilink")。许多针对早期Python版本设计的程序都无法在Python
-3.0上正常运行。为了照顾现有程序，Python 2.6作为一个过渡版本，基本使用了Python
-2.x的语法和[库](https://zh.wikipedia.org/wiki/库_\(计算机\) "wikilink")，同时考虑了向Python
-3.0的迁移，允许使用部分Python 3.0的语法与函数。基于早期Python版本而能正常运行于Python
-2.6并无警告的程序可以通过一个2 to 3的转换工具无缝迁移到Python
-3.0\[7\]。
+Python的3.0版本，常被称为**Python 3000**，或简称**Py3k**\[6\]。相对于Python的早期版本，这是一个较大的[升级](https://zh.wikipedia.org/wiki/升级 "wikilink")。为了不带入过多的累赘，Python 3.0在设计的时候没有考虑[向下兼容](../Page/向下兼容.md "wikilink")。许多针对早期Python版本设计的程序都无法在Python 3.0上正常运行。为了照顾现有程序，Python 2.6作为一个过渡版本，基本使用了Python 2.x的语法和[库](https://zh.wikipedia.org/wiki/库_\(计算机\) "wikilink")，同时考虑了向Python 3.0的迁移，允许使用部分Python 3.0的语法与函数。基于早期Python版本而能正常运行于Python 2.6并无警告的程序可以通过一个2 to 3的转换工具无缝迁移到Python 3.0\[7\]。
 
-新的Python程序建议使用Python 3.0版本的语法\[8\]。除非运行环境无法安装Python
-3.0或者程序本身使用了不支持Python 3.0的第三方库。目前不支持Python
-3.0的第三方库有Twisted, PIL等。大多数第三方库都正在努力地兼容Python 3.0版本。即使无法立即使用Python
-3.0，也建议编写兼容Python 3.0版本的程序，然后使用Python 2.6, Python 2.7来运行。
+新的Python程序建议使用Python 3.0版本的语法\[8\]。除非运行环境无法安装Python 3.0或者程序本身使用了不支持Python 3.0的第三方库。目前不支持Python 3.0的第三方库有Twisted, PIL等。大多数第三方库都正在努力地兼容Python 3.0版本。即使无法立即使用Python 3.0，也建议编写兼容Python 3.0版本的程序，然后使用Python 2.6, Python 2.7来运行。
 
-**Python 2.7**被确定为**最后一个Python 2.x版本**，它除了支持Python 2.x语法外，还支持部分Python
-3.1语法。
+**Python 2.7**被确定为**最后一个Python 2.x版本**，它除了支持Python 2.x语法外，还支持部分Python 3.1语法。
 
 ### 主要变化
 
 Python 3.0的变化主要在以下几个方面\[9\]：
 
-  - `print`语句没有了，取而代之的是`print()`函数。可以使用`2to3`工具来自动转换。Python 2.6与Python
-    2.7部分地支持这种形式的`print`语法。在Python 2.6与Python 2.7里面，以下三种形式是等价的：
+  - `print`语句没有了，取而代之的是`print()`函数。可以使用`2to3`工具来自动转换。Python 2.6与Python 2.7部分地支持这种形式的`print`语法。在Python 2.6与Python 2.7里面，以下三种形式是等价的：
 
 <!-- end list -->
 
@@ -563,11 +508,7 @@ from __future__ import print_function
 print("fish", "panda", sep=', ')
 ```
 
-  - 新的`str`类型表示一个[Unicode字符串](https://zh.wikipedia.org/wiki/Unicode "wikilink")，相当于Python
-    2.x版本的`unicode`类型。而字节序列则用类似`b"abc"`的语法表示，用`bytes`类表示，相当于Python
-    2.x的`str`类型。现在两种类型不能再隐式地自动转换，因此在Python 3.x里`"fish" +
-    b"panda"`是错误的。正确的写法是`"fish" +
-    b"panda".decode("utf-8")`。Python 2.6可以自动地将字节序列识别为Unicode字符串，方法是：
+  - 新的`str`类型表示一个[Unicode字符串](https://zh.wikipedia.org/wiki/Unicode "wikilink")，相当于Python 2.x版本的`unicode`类型。而字节序列则用类似`b"abc"`的语法表示，用`bytes`类表示，相当于Python 2.x的`str`类型。现在两种类型不能再隐式地自动转换，因此在Python 3.x里`"fish" + b"panda"`是错误的。正确的写法是`"fish" + b"panda".decode("utf-8")`。Python 2.6可以自动地将字节序列识别为Unicode字符串，方法是：
 
 <!-- end list -->
 
@@ -576,9 +517,7 @@ from __future__ import unicode_literals
 print(repr("fish"))
 ```
 
-  - 除法运算符`/`在Python 3.x内总是返回浮点数。而在Python
-    2.6内会判断被除数与除数是否是整数。如果是整数会返回整数值，相当于整除;浮点数则返回浮点数值。为了让Python
-    2.6统一返回浮点数值，可以：
+  - 除法运算符`/`在Python 3.x内总是返回浮点数。而在Python 2.6内会判断被除数与除数是否是整数。如果是整数会返回整数值，相当于整除;浮点数则返回浮点数值。为了让Python 2.6统一返回浮点数值，可以：
 
 <!-- end list -->
 
@@ -587,8 +526,7 @@ from __future__ import division
 print(3/2)
 ```
 
-  - 捕获异常的语法由`except exc, var`改为`except exc as var`。使用语法`except (exc1,
-    exc2) as var`可以同时捕获多种类型的异常。Python 2.6已经支持这两种语法。
+  - 捕获异常的语法由`except exc, var`改为`except exc as var`。使用语法`except (exc1, exc2) as var`可以同时捕获多种类型的异常。Python 2.6已经支持这两种语法。
 
 <!-- end list -->
 
@@ -618,24 +556,19 @@ for x in stuff:
 return result
 ```
 
-  - 八进制数必须写成`0o777`，原来的形式`0777`不能用了；二进制必须写成`0b111`。新增了一个`bin()`函数用于将一个整数转换成二进制字符串。Python
-    2.6已经支持这两种语法。
+  - 八进制数必须写成`0o777`，原来的形式`0777`不能用了；二进制必须写成`0b111`。新增了一个`bin()`函数用于将一个整数转换成二进制字符串。Python 2.6已经支持这两种语法。
 
 <!-- end list -->
 
-  - `dict.keys(), dict.values(), dict.items(), map(), filter(), range(),
-    zip()`不再返回列表，而是迭代器。
+  - `dict.keys(), dict.values(), dict.items(), map(), filter(), range(), zip()`不再返回列表，而是迭代器。
 
 <!-- end list -->
 
-  - 如果两个对象之间没有定义明确的有意义的顺序。使用`<, >, <=, >=`比较它们会抛出异常。比如`1 < ""`在Python
-    2.6里面会返回`True`，而在Python 3.0里面会抛出异常。现在`cmp(),
-    instance.__cmp__()`函数已经被删除。
+  - 如果两个对象之间没有定义明确的有意义的顺序。使用`<, >, <=, >=`比较它们会抛出异常。比如`1 < ""`在Python 2.6里面会返回`True`，而在Python 3.0里面会抛出异常。现在`cmp(), instance.__cmp__()`函数已经被删除。
 
 <!-- end list -->
 
-  - Python 3.5支持型態提示（Type
-    Hints），可以注释函数的参数与返回值。此特性可方便IDE对源代码进行更深入的分析。例如给参数增加类型信息：
+  - Python 3.5支持型態提示（Type Hints），可以注释函数的参数与返回值。此特性可方便IDE对源代码进行更深入的分析。例如给参数增加类型信息：
 
 <!-- end list -->
 
@@ -659,16 +592,13 @@ def send_mail(from_: str, to: str, title: str, body: str) -> bool:
 | SocketServer | socketserver |
 | repr         | reprlib      |
 
-1.  `StringIO`模块现在被合并到新的`io`模块内。`new, md5, gopherlib`等模块被删除。Python
-    2.6已经支持新的`io`模块。
-2.  `httplib, BaseHTTPServer, CGIHTTPServer, SimpleHTTPServer, Cookie,
-    cookielib`被合并到`http`包内。
+1.  `StringIO`模块现在被合并到新的`io`模块内。`new, md5, gopherlib`等模块被删除。Python 2.6已经支持新的`io`模块。
+2.  `httplib, BaseHTTPServer, CGIHTTPServer, SimpleHTTPServer, Cookie, cookielib`被合并到`http`包内。
 3.  取消了`exec`语句，只剩下`exec()`函数。Python 2.6已经支持`exec()`函数。
 
 <!-- end list -->
 
-  - 其他变化详见參考文獻\[10\]。基本上，可以编写出使用Python 3.0语法并运行于Python 2.6, Python
-    2.7的程序。
+  - 其他变化详见參考文獻\[10\]。基本上，可以编写出使用Python 3.0语法并运行于Python 2.6, Python 2.7的程序。
 
 ## 实现
 
@@ -677,8 +607,7 @@ Python是一门跨平台的脚本语言，Python规定了一个Python语法规�
   - [CPython](../Page/CPython.md "wikilink")\[11\]，官方的直譯器。需要区别于其他直譯器的时候才以CPython称呼。这是最常用的Python版本。
   - [Jython](../Page/Jython.md "wikilink")（原名**JPython**；**J**ava语言实现的P**ython**，现已正式发布）。Jython可以直接调用Java的各种函数库。
   - [PyPy](../Page/PyPy.md "wikilink")（使用**Py**thon语言寫的**Py**thon）
-  - [IronPython](../Page/IronPython.md "wikilink")（面向[.NET和](https://zh.wikipedia.org/wiki/.NET "wikilink")[ECMA
-    CLI的Python实现](https://zh.wikipedia.org/wiki/ECMA_CLI "wikilink")）。IronPython能够直接调用.net平台的各种函数库。可以将Python程序编译成.net程序。
+  - [IronPython](../Page/IronPython.md "wikilink")（面向[.NET和](https://zh.wikipedia.org/wiki/.NET "wikilink")[ECMA CLI的Python实现](https://zh.wikipedia.org/wiki/ECMA_CLI "wikilink")）。IronPython能够直接调用.net平台的各种函数库。可以将Python程序编译成.net程序。
   - [ZhPy](https://zh.wikipedia.org/wiki/ZhPy "wikilink")（周蟒，支持使用繁/簡中文语句编写程序的**Py**thon语言）
 
 ## 开发环境
@@ -687,8 +616,7 @@ Python是一门跨平台的脚本语言，Python规定了一个Python语法规�
 
 很多并非集成开发环境软件的[文本编辑器](../Page/文本编辑器.md "wikilink")，也对Python有不同程度的支持，并且加上专门为Python设计的编辑器插件也会有很高的可用性。
 
-  - [Eclipse](../Page/Eclipse.md "wikilink") + pydev插件，目前对Python
-    3.X只支持到3.0
+  - [Eclipse](../Page/Eclipse.md "wikilink") + pydev插件，目前对Python 3.X只支持到3.0
   - [IntelliJ IDEA](../Page/IntelliJ_IDEA.md "wikilink") + Python 插件
   - [emacs](https://zh.wikipedia.org/wiki/emacs "wikilink") +插件
   - [NetBeans](../Page/NetBeans.md "wikilink") +插件
@@ -709,57 +637,41 @@ Python是一门跨平台的脚本语言，Python规定了一个Python语法规�
 适用于Python的[集成开发环境](../Page/集成开发环境.md "wikilink")（IDE）软件，除了标准二进制发布包所附的IDLE之外，还有许多其他选择。其中有些软件设计有语法着色、语法检查、运行[调试](https://zh.wikipedia.org/wiki/调试 "wikilink")、自动补全、智能感知等便利功能。由于Python的[跨平台出身](https://zh.wikipedia.org/wiki/跨平台 "wikilink")，这些软件往往也具备各种操作系统的版本或一定的移植性。
 
   - [Anaconda](../Page/Anaconda_\(Python发行版\).md "wikilink")：适用于windows和Linux等多个平台，采用conda对其包管理，随软件打包了许多科学计算的第三方Python库。
-  - [Eric](../Page/Eric_Python_IDE.md "wikilink")：基于[PyQt的自由软件](../Page/PyQt.md "wikilink")。支持自动补全、智能感知、自动语法检查、工程管理、svn/mercurial集成、自动单元测试等功能，具有可扩展的插件系统，通过可选插件支持[Git集成](../Page/Git.md "wikilink")。调试功能与Visual
-    Studio和Eclipse类似。目前版本为Eric6，可同时支持Python2.x和Python3.x，以及PyQt4和PyQt5。使用前需要先安装相应的Python和PyQt版本。
+  - [Eric](../Page/Eric_Python_IDE.md "wikilink")：基于[PyQt](../Page/PyQt.md "wikilink")的自由软件。支持自动补全、智能感知、自动语法检查、工程管理、svn/mercurial集成、自动单元测试等功能，具有可扩展的插件系统，通过可选插件支持[Git](../Page/Git.md "wikilink")集成。调试功能与Visual Studio和Eclipse类似。目前版本为Eric6，可同时支持Python2.x和Python3.x，以及PyQt4和PyQt5。使用前需要先安装相应的Python和PyQt版本。
   - IDLE：Python“标准”IDE。一般随Python而安装，支持较少的编辑功能。调试功能也比较弱。
-  - [Komodo和](https://zh.wikipedia.org/wiki/Komodo "wikilink")[Komodo
-    Edit](https://zh.wikipedia.org/wiki/Komodo_Edit "wikilink")：后者是前者的免费精简版。也可以用于PHP，Ruby，Javascript，Perl，Web和云开发。
-  - [PyCharm](../Page/PyCharm.md "wikilink")：由[JetBrains打造](../Page/JetBrains.md "wikilink")，该公司的Java
-    IDE软件IntelliJ（此软件也有Python开发插件）拥有海量的使用者；PyCharm具备一般IDE的功能，比如，调试、语法高亮、Project管理、代码跳转、智能提示、自动完成、单元测试、版本控制等等，同时另外，PyCharm还提供了一些很好的功能用于Django开发，同时支持[Google
-    App
-    Engine](https://zh.wikipedia.org/wiki/Google_App_Engine "wikilink")，PyCharm也支持IronPython。PyCharm是商业软件，但也具有社区版和教育版。
+  - [Komodo和](https://zh.wikipedia.org/wiki/Komodo "wikilink")[Komodo Edit](https://zh.wikipedia.org/wiki/Komodo_Edit "wikilink")：后者是前者的免费精简版。也可以用于PHP，Ruby，Javascript，Perl，Web和云开发。
+  - [PyCharm](../Page/PyCharm.md "wikilink")：由[JetBrains](../Page/JetBrains.md "wikilink")打造，该公司的Java IDE软件IntelliJ（此软件也有Python开发插件）拥有海量的使用者；PyCharm具备一般IDE的功能，比如，调试、语法高亮、Project管理、代码跳转、智能提示、自动完成、单元测试、版本控制等等，同时另外，PyCharm还提供了一些很好的功能用于Django开发，同时支持[Google App Engine](https://zh.wikipedia.org/wiki/Google_App_Engine "wikilink")，PyCharm也支持IronPython。PyCharm是商业软件，但也具有社区版和教育版。
   - [PyScripter](https://zh.wikipedia.org/wiki/PyScripter "wikilink")：功能较全的开源IDE，使用Delphi开发。
   - [PythonWin](https://zh.wikipedia.org/wiki/PythonWin "wikilink")：包含在pywin32内的编辑器，仅适用于Windows。
-  - [SPE](https://zh.wikipedia.org/wiki/SPE "wikilink")（Stani's Python
-    Editor）：功能较多的免费软件，依赖[wxPython](https://zh.wikipedia.org/wiki/wxPython "wikilink")。
+  - [SPE](https://zh.wikipedia.org/wiki/SPE "wikilink")（Stani's Python Editor）：功能较多的免费软件，依赖[wxPython](https://zh.wikipedia.org/wiki/wxPython "wikilink")。
   - [Spyder](../Page/Spyder.md "wikilink")：开源的跨平台科学计算IDE。
   - [Ulipad](https://zh.wikipedia.org/wiki/Ulipad "wikilink")：功能较全的免费软件，依赖[wxPython](https://zh.wikipedia.org/wiki/wxPython "wikilink")。
-  - [WingIDE](https://zh.wikipedia.org/wiki/WingIDE "wikilink")：商业软件，有免費的Wing
-    IDE 101，功能有限，適用於入門者教學。
+  - [WingIDE](https://zh.wikipedia.org/wiki/WingIDE "wikilink")：商业软件，有免費的Wing IDE 101，功能有限，適用於入門者教學。
 
 ## 使用Python编写的著名应用
 
   - [Youtube](https://zh.wikipedia.org/wiki/Youtube "wikilink") - 視頻社交网站
   - [Reddit](../Page/Reddit.md "wikilink") - 社交分享网站
   - [Dropbox](../Page/Dropbox.md "wikilink") - 文件分享服务
-  - [豆瓣网](https://zh.wikipedia.org/wiki/豆瓣网 "wikilink") -
-    图书、唱片、电影等文化产品的资料数据库网站
+  - [豆瓣网](https://zh.wikipedia.org/wiki/豆瓣网 "wikilink") - 图书、唱片、电影等文化产品的资料数据库网站
   - [Django](../Page/Django.md "wikilink") - 鼓励快速开发的Web应用框架
-  - [Pylons](../Page/Pylons.md "wikilink") -
-    [Web应用框架](../Page/Web应用框架.md "wikilink")
+  - [Pylons](../Page/Pylons.md "wikilink") - [Web应用框架](../Page/Web应用框架.md "wikilink")
   - [Zope](../Page/Zope.md "wikilink") - 应用服务器
   - [Plone](../Page/Plone.md "wikilink") - 内容管理系统
-  - [Instagram](../Page/Instagram.md "wikilink") -
-    是一款免费提供在线图片及视频分享的社交应用软件,使用Django作为后台
+  - [Instagram](../Page/Instagram.md "wikilink") - 是一款免费提供在线图片及视频分享的社交应用软件,使用Django作为后台
   - [TurboGears](../Page/TurboGears.md "wikilink") - 另一个Web应用快速开发框架
   - [Twisted](http://twistedmatrix.com) - Python的网络应用程序框架
   - [Fabric](http://fabfile.org/) - 用于管理成百上千台Linux主机的程序库
-  - [Python Wikipedia Robot
-    Framework](https://zh.wikipedia.org/wiki/:sourceforge:projects/pywikipediabot "wikilink")
-    - MediaWiki的機器人程式
-  - [MoinMoinWiki](http://moinmo.in/) -
-    Python寫成的[Wiki程序](../Page/Wiki.md "wikilink")
+  - [Python Wikipedia Robot Framework](https://zh.wikipedia.org/wiki/:sourceforge:projects/pywikipediabot "wikilink") - MediaWiki的機器人程式
+  - [MoinMoinWiki](http://moinmo.in/) - Python寫成的[Wiki](../Page/Wiki.md "wikilink")程序
   - [Trac](http://trac.edgewall.org/) - 使用Python编写的BUG管理系统
   - [Mailman](http://www.gnu.org/s/mailman) - 使用Python编写的邮件列表软件
-  - [Mezzanine](http://mezzanine.jupo.org/) -
-    基于Django编写的[内容管理系统](../Page/内容管理系统.md "wikilink")
+  - [Mezzanine](http://mezzanine.jupo.org/) - 基于Django编写的[内容管理系统](../Page/内容管理系统.md "wikilink")
   - [Flask](../Page/Flask.md "wikilink") - Python微Web框架
   - [Webpy](http://webpy.org/) - Python微Web框架
   - [Bottle](http://bottlepy.org/) - Python微Web框架
-  - [EVE](https://zh.wikipedia.org/wiki/EVE "wikilink") -
-    网络游戏EVE大量使用Python进行开发
-  - [Blender](../Page/Blender.md "wikilink") -
-    使用Python作為建模工具與GUI語言的開源3D繪圖軟體
+  - [EVE](https://zh.wikipedia.org/wiki/EVE "wikilink") - 网络游戏EVE大量使用Python进行开发
+  - [Blender](../Page/Blender.md "wikilink") - 使用Python作為建模工具與GUI語言的開源3D繪圖軟體
   - [Inkscape](../Page/Inkscape.md "wikilink") - 一个开源的SVG矢量图形编辑器。
   - [知乎](../Page/知乎.md "wikilink") - 一个问答网站
   - [果壳](../Page/果壳网.md "wikilink") - 一个泛科技主题网站
@@ -767,21 +679,15 @@ Python是一门跨平台的脚本语言，Python规定了一个Python语法规�
 
 ## 社群
 
-  - [PyCon](../Page/PyCon.md "wikilink") 是各地社群舉辦的會議，通常每年舉辦。各社群在會議中討論
-    Python 相關的議題。
-  - 台灣 Python 社群由 2012 年起舉辦 [PyCon
-    TW](https://zh.wikipedia.org/wiki/台灣_Python_年會 "wikilink")。
+  - [PyCon](../Page/PyCon.md "wikilink") 是各地社群舉辦的會議，通常每年舉辦。各社群在會議中討論 Python 相關的議題。
+  - 台灣 Python 社群由 2012 年起舉辦 [PyCon TW](https://zh.wikipedia.org/wiki/台灣_Python_年會 "wikilink")。
   - 由女性社群發起的  社群，主要注重於發展 Python 的女性程式設計社群。
-  - Django Girls 使用 [Django](../Page/Django.md "wikilink") 網頁設計框架，推廣使用
-    Python 進行網頁設計的技術。
+  - Django Girls 使用 [Django](../Page/Django.md "wikilink") 網頁設計框架，推廣使用 Python 進行網頁設計的技術。
 
 ## 影響
 
-  - [ECMAScript從Python參考了iterators](../Page/ECMAScript.md "wikilink")，generators，以及list
-    comprehensions。
-  - [OCaml有個optional](../Page/OCaml.md "wikilink") syntax，稱為twt（The
-    Whitespace
-    Thing），取材自Python與[Haskell](../Page/Haskell.md "wikilink")。
+  - [ECMAScript](../Page/ECMAScript.md "wikilink")從Python參考了iterators，generators，以及list comprehensions。
+  - [OCaml](../Page/OCaml.md "wikilink")有個optional syntax，稱為twt（The Whitespace Thing），取材自Python與[Haskell](../Page/Haskell.md "wikilink")。
 
 ## 参考文献
 
@@ -796,8 +702,7 @@ Python是一门跨平台的脚本语言，Python规定了一个Python语法规�
 ## 外部链接
 
   -
-  - [Python的歷史（Guido van
-    Rossum的博客）](http://python-history.blogspot.co.uk/)
+  - [Python的歷史（Guido van Rossum的博客）](http://python-history.blogspot.co.uk/)
 
   -
 ## 参见
@@ -808,26 +713,17 @@ Python是一门跨平台的脚本语言，Python规定了一个Python语法规�
 
 {{-}}
 
-[Category:Python](https://zh.wikipedia.org/wiki/Category:Python "wikilink")
-[Category:腳本語言](https://zh.wikipedia.org/wiki/Category:腳本語言 "wikilink")
-[Category:面向对象的编程语言](https://zh.wikipedia.org/wiki/Category:面向对象的编程语言 "wikilink")
-[Category:LAMP](https://zh.wikipedia.org/wiki/Category:LAMP "wikilink")
-[Category:荷兰发明](https://zh.wikipedia.org/wiki/Category:荷兰发明 "wikilink")
+[Category:Python](https://zh.wikipedia.org/wiki/Category:Python "wikilink") [Category:腳本語言](https://zh.wikipedia.org/wiki/Category:腳本語言 "wikilink") [Category:面向对象的编程语言](https://zh.wikipedia.org/wiki/Category:面向对象的编程语言 "wikilink") [Category:LAMP](https://zh.wikipedia.org/wiki/Category:LAMP "wikilink") [Category:荷兰发明](https://zh.wikipedia.org/wiki/Category:荷兰发明 "wikilink")
 
 1.
 
 2.
 
-3.  [Heavy usage of Python at
-    Google](http://stackoverflow.com/questions/2560310/heavy-usage-of-python-at-google)
+3.  [Heavy usage of Python at Google](http://stackoverflow.com/questions/2560310/heavy-usage-of-python-at-google)
 
-4.  call by value (where the value is always an object reference, not
-    the value of the object)或者称作call by object reference
+4.  call by value (where the value is always an object reference, not the value of the object)或者称作call by object reference
 
-5.  Przemyslaw Piotrowski, [Build a Rapid Web Development Environment
-    for Python Server Pages and
-    Oracle](http://www.oracle.com/technology/pub/articles/piotrowski-pythoncore.html),
-    Oracle Technology Network, July 2006. Accessed October 21, 2008.
+5.  Przemyslaw Piotrowski, [Build a Rapid Web Development Environment for Python Server Pages and Oracle](http://www.oracle.com/technology/pub/articles/piotrowski-pythoncore.html), Oracle Technology Network, July 2006. Accessed October 21, 2008.
 
 6.
 

@@ -24,7 +24,7 @@
 </tbody>
 </table>
 
-**IDEA联盟**是由五所[欧洲著名的理工科](../Page/欧洲.md "wikilink")[大学组成的大学联盟](https://zh.wikipedia.org/wiki/大学 "wikilink")，成立于1999年，后两位成员退出，又有两位新成员加入。这五所大学有很多共同点，他们都是各自国家中最大的理工科大学，但这并不意味这他们只提供理工科的课程，而是学科极为齐全的全球名校。
+**IDEA联盟**是由五所[欧洲](../Page/欧洲.md "wikilink")著名的理工科[大学组成的大学联盟](https://zh.wikipedia.org/wiki/大学 "wikilink")，成立于1999年，后两位成员退出，又有两位新成员加入。这五所大学有很多共同点，他们都是各自国家中最大的理工科大学，但这并不意味这他们只提供理工科的课程，而是学科极为齐全的全球名校。
 
 ## 现有成员
 
@@ -100,19 +100,13 @@
 
 ## 退出成员
 
-  - [伦敦帝国学院于](../Page/伦敦帝国学院.md "wikilink")2012年12月决定退出 IDEA 联盟。\[1\]
-  - [巴黎高科于](../Page/巴黎高科.md "wikilink")2013年末因学校重组而退出 IDEA 联盟。
+  - [伦敦帝国学院](../Page/伦敦帝国学院.md "wikilink")于2012年12月决定退出 IDEA 联盟。\[1\]
+  - [巴黎高科](../Page/巴黎高科.md "wikilink")于2013年末因学校重组而退出 IDEA 联盟。
 
 ## 参考文献
 
 {{-}}
 
-[Category:查尔姆斯工学院](https://zh.wikipedia.org/wiki/Category:查尔姆斯工学院 "wikilink")
-[Category:代尔夫特理工大学](https://zh.wikipedia.org/wiki/Category:代尔夫特理工大学 "wikilink")
-[Category:苏黎世联邦理工学院](https://zh.wikipedia.org/wiki/Category:苏黎世联邦理工学院 "wikilink")
-[Category:阿亨工业大学](https://zh.wikipedia.org/wiki/Category:阿亨工业大学 "wikilink")
-[Category:米兰理工大学](https://zh.wikipedia.org/wiki/Category:米兰理工大学 "wikilink")
-[Category:欧洲大学联盟](https://zh.wikipedia.org/wiki/Category:欧洲大学联盟 "wikilink")
+[Category:查尔姆斯工学院](https://zh.wikipedia.org/wiki/Category:查尔姆斯工学院 "wikilink") [Category:代尔夫特理工大学](https://zh.wikipedia.org/wiki/Category:代尔夫特理工大学 "wikilink") [Category:苏黎世联邦理工学院](https://zh.wikipedia.org/wiki/Category:苏黎世联邦理工学院 "wikilink") [Category:阿亨工业大学](https://zh.wikipedia.org/wiki/Category:阿亨工业大学 "wikilink") [Category:米兰理工大学](https://zh.wikipedia.org/wiki/Category:米兰理工大学 "wikilink") [Category:欧洲大学联盟](https://zh.wikipedia.org/wiki/Category:欧洲大学联盟 "wikilink")
 
-1.  [Imperial College London withdraw from the IDEA
-    League](http://www3.imperial.ac.uk/international/current/opportunities/idea)
+1.  [Imperial College London withdraw from the IDEA League](http://www3.imperial.ac.uk/international/current/opportunities/idea)

@@ -1,8 +1,4 @@
-1980年代，美國生物學家[查勒斯·西布萊](https://zh.wikipedia.org/wiki/查勒斯·西布萊 "wikilink")（Charles
-C.
-Sibley）利用以[DNA交杂之](https://zh.wikipedia.org/wiki/DNA交杂 "wikilink")[分子生物學技术对](https://zh.wikipedia.org/wiki/分子生物學 "wikilink")[鸟类的](https://zh.wikipedia.org/wiki/鸟类 "wikilink")[系统演化和](https://zh.wikipedia.org/wiki/系统演化 "wikilink")[亲缘关系进行研究](https://zh.wikipedia.org/wiki/亲缘关系 "wikilink")，总共做了12000份[鸟类的DNA](https://zh.wikipedia.org/wiki/鸟类 "wikilink")-DNA交杂實验，然後於1988-1993年发表了一系列文章。1988年查勒斯·西布萊发表了《A
-Classification of the Living Birds of the World Based on DNA-DNA
-Hybridization》，提出DNA分类系统。在此一分类系统對各種[鳥類分佈提供了解釋](https://zh.wikipedia.org/wiki/鳥類 "wikilink")，同一地區的鳥類多半被歸在一起。
+1980年代，美國生物學家[查勒斯·西布萊](https://zh.wikipedia.org/wiki/查勒斯·西布萊 "wikilink")（Charles C. Sibley）利用以[DNA交杂之](https://zh.wikipedia.org/wiki/DNA交杂 "wikilink")[分子生物學技术对](https://zh.wikipedia.org/wiki/分子生物學 "wikilink")[鸟类的](https://zh.wikipedia.org/wiki/鸟类 "wikilink")[系统演化和](https://zh.wikipedia.org/wiki/系统演化 "wikilink")[亲缘关系进行研究](https://zh.wikipedia.org/wiki/亲缘关系 "wikilink")，总共做了12000份[鸟类的DNA](https://zh.wikipedia.org/wiki/鸟类 "wikilink")-DNA交杂實验，然後於1988-1993年发表了一系列文章。1988年查勒斯·西布萊发表了《A Classification of the Living Birds of the World Based on DNA-DNA Hybridization》，提出DNA分类系统。在此一分类系统對各種[鳥類分佈提供了解釋](https://zh.wikipedia.org/wiki/鳥類 "wikilink")，同一地區的鳥類多半被歸在一起。
 
 近年被全新的[鸟类全基因组测序分类系统取代](../Page/鸟类分类系统.md "wikilink")。
 
@@ -46,7 +42,7 @@ Hybridization》，提出DNA分类系统。在此一分类系统對各種[鳥類
                       - \-
                           - \-
                               - \-
-                                  - [三趾鹑科Turuicidae](../Page/三趾鹑科.md "wikilink")
+                                  - [三趾鹑科](../Page/三趾鹑科.md "wikilink")Turuicidae
 
 <!-- end list -->
 
@@ -64,7 +60,7 @@ Hybridization》，提出DNA分类系统。在此一分类系统對各種[鳥類
                           - \-
                               - \-
                                   - 塚雉科Megapodiidae(大洋洲)
-              - [鸡形目Galliformes](../Page/鸡形目.md "wikilink")
+              - [鸡形目](../Page/鸡形目.md "wikilink")Galliformes
                   - \-
                       - \-
                           - 雉小目Phasianida
@@ -79,7 +75,7 @@ Hybridization》，提出DNA分类系统。在此一分类系统對各種[鳥類
                               - \-
                                   - 林鹑科Odontophoridae(美洲)
           - 雁形总目Anserimorphae(旧雁形目)
-              - [雁形目Anseriformes](../Page/雁形目.md "wikilink")
+              - [雁形目](../Page/雁形目.md "wikilink")Anseriformes
                   - \-
                       - [叫鸭下目Anhimides](https://zh.wikipedia.org/wiki/叫鸭下目 "wikilink")
                           - \-
@@ -99,7 +95,7 @@ Hybridization》，提出DNA分类系统。在此一分类系统對各種[鳥類
                                           - (雁族Anserini，鸭族Anatini)
       - 鴷小纲Picae(舊鴷形目，鹟鴷科、喷鴷科除外)
           - \-
-              - [鴷形目Piciformes](../Page/鴷形目.md "wikilink")
+              - [鴷形目](../Page/鴷形目.md "wikilink")Piciformes
                   - \-
                       - 鴷下目Picides
                           - \-
@@ -229,7 +225,7 @@ Hybridization》，提出DNA分类系统。在此一分类系统對各種[鳥類
                               - \-
                                   - 鹦鹉科Psittacidae(美洲、大洋洲、非洲的種類在DNA上屬不同類別，但未分出)
           - 雨燕总目Apodimorphae(舊雨燕目)
-              - [雨燕目Apodiformes](../Page/雨燕目.md "wikilink")
+              - [雨燕目](../Page/雨燕目.md "wikilink")Apodiformes
                   - \-
                       - \-
                           - \-
@@ -294,8 +290,7 @@ Hybridization》，提出DNA分类系统。在此一分类系统對各種[鳥類
                               - \-
                                   - 孤鸽科Raphidae(灭绝，暫列於鸽形目)
                                   - 鸠鸽科Columbidae
-              - [鹤形目Gruiformes](https://zh.wikipedia.org/wiki/鹤形目 "wikilink")
-                (舊鹤形目，领鹑科除外)
+              - [鹤形目Gruiformes](https://zh.wikipedia.org/wiki/鹤形目 "wikilink") (舊鹤形目，领鹑科除外)
                   - 鹤亚目Grui
                       - 日鳽下目Eurypygides
                           - \-
@@ -413,7 +408,7 @@ Hybridization》，提出DNA分类系统。在此一分类系统對各種[鳥類
                                       - 海燕亚科Hydrobatinae(旧海燕科)
                                       - 鸌亚科Pricellariinae
                                       - 信天翁亚科Diomedeinae(旧信天翁科)
-              - [雀形目Passeriformes](../Page/雀形目.md "wikilink")
+              - [雀形目](../Page/雀形目.md "wikilink")Passeriformes
                   - 霸鹟亚目Tyranni(亚鸣禽，琴鸟除外)
                       - 刺鹩下目Acanthisittides(新西兰)
                           -   - 刺鹩科Acanthisittidae
@@ -494,7 +489,7 @@ Hybridization》，提出DNA分类系统。在此一分类系统對各種[鳥類
                                       - 丛林伯劳亚科Malaconofinae
                                           - 丛林伯劳族Malaconotini
                                           - 盔伯劳族Prionopini(非洲)
-                                  - [垂耳鸦科Callaeatidae](../Page/垂耳鸦科.md "wikilink")(新西兰)
+                                  - [垂耳鸦科](../Page/垂耳鸦科.md "wikilink")Callaeatidae(新西兰)
                                   - 岩鹛科Picathartidae
                           - 雀小目Passerida
                               - 鹟总科Musicicapoidea
@@ -578,5 +573,4 @@ Hybridization》，提出DNA分类系统。在此一分类系统對各種[鳥類
   - [鸟类传统分类系统](../Page/鸟类传统分类系统.md "wikilink")
   - 2014年[鸟类全基因组测序分类系统](../Page/鸟类分类系统.md "wikilink")
 
-[Category:鸟类](https://zh.wikipedia.org/wiki/Category:鸟类 "wikilink")
-[Category:生物分類學](https://zh.wikipedia.org/wiki/Category:生物分類學 "wikilink")
+[Category:鸟类](https://zh.wikipedia.org/wiki/Category:鸟类 "wikilink") [Category:生物分類學](https://zh.wikipedia.org/wiki/Category:生物分類學 "wikilink")

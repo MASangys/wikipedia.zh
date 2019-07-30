@@ -6,30 +6,21 @@
 
 ### 使用GoldSrc引擎的Valve遊戲
 
-  - [戰慄時空](https://zh.wikipedia.org/wiki/戰慄時空 "wikilink") （Half-Life,
-    1998年）
-  - [戰慄時空：正面交鋒](https://zh.wikipedia.org/wiki/戰慄時空：正面交鋒 "wikilink")
-    （Half-Life: Opposing Force, 1999年）
-  - [戰慄時空：關鍵時刻](https://zh.wikipedia.org/wiki/戰慄時空：關鍵時刻 "wikilink")
-    （Half-Life: Blue Shift, 2001年）
+  - [戰慄時空](https://zh.wikipedia.org/wiki/戰慄時空 "wikilink") （Half-Life, 1998年）
+  - [戰慄時空：正面交鋒](https://zh.wikipedia.org/wiki/戰慄時空：正面交鋒 "wikilink") （Half-Life: Opposing Force, 1999年）
+  - [戰慄時空：關鍵時刻](https://zh.wikipedia.org/wiki/戰慄時空：關鍵時刻 "wikilink") （Half-Life: Blue Shift, 2001年）
   - [絕地要塞](../Page/絕地要塞.md "wikilink") （Team Fortress Classic, 2001年）
-  - [絕對武力](https://zh.wikipedia.org/wiki/絕對武力 "wikilink")
-    （Counter-Strike, 2000年）
-  - [絕對武力：一觸即發](../Page/絕對武力：一觸即發.md "wikilink") （Counter-Strike:
-    Condition Zero, 2004年）
-  - [決勝之日](https://zh.wikipedia.org/wiki/決勝之日 "wikilink") （Day of
-    Defeat, 2003年）
+  - [絕對武力](https://zh.wikipedia.org/wiki/絕對武力 "wikilink") （Counter-Strike, 2000年）
+  - [絕對武力：一觸即發](../Page/絕對武力：一觸即發.md "wikilink") （Counter-Strike: Condition Zero, 2004年）
+  - [決勝之日](https://zh.wikipedia.org/wiki/決勝之日 "wikilink") （Day of Defeat, 2003年）
 
 ### 使用GoldSrc引擎的非Valve遊戲
 
-  - [絕對武力Online](../Page/絕對武力Online.md "wikilink") （Counter-Strike
-    Online, 韓國[NEXON重製](https://zh.wikipedia.org/wiki/NEXON "wikilink"),
-    2008年）
+  - [絕對武力Online](../Page/絕對武力Online.md "wikilink") （Counter-Strike Online, 韓國[NEXON重製](https://zh.wikipedia.org/wiki/NEXON "wikilink"), 2008年）
   - [Cry of Fear](https://zh.wikipedia.org/wiki/Cry_of_Fear "wikilink")
 
 ## 相關條目
 
   - [Source引擎](../Page/Source引擎.md "wikilink")
 
-[Category:游戏引擎](https://zh.wikipedia.org/wiki/Category:游戏引擎 "wikilink")
-[Category:威爾烏](https://zh.wikipedia.org/wiki/Category:威爾烏 "wikilink")
+[Category:游戏引擎](https://zh.wikipedia.org/wiki/Category:游戏引擎 "wikilink") [Category:威爾烏](https://zh.wikipedia.org/wiki/Category:威爾烏 "wikilink")

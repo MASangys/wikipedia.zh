@@ -1,10 +1,6 @@
 企业级JavaBean（Enterprise JavaBean, **EJB**）是一个用来构筑企业级应用的服务器端可被管理组件。
 
-[Java企业版API](../Page/Java.md "wikilink")（Java Enterprise
-Edition）中提供了对EJB的规范。EJB是一个封装有某个应用程序之业务逻辑服务器端组件。EJB最早于1997年由IBM提出，旋即被[太阳微系统采用并形成标准](https://zh.wikipedia.org/wiki/升阳公司 "wikilink")（EJB
-1.0 和EJB 1.1）。其后在Java社区进程（Java Community
-Process）支持下陆续有一些[JSR被制订来定义新的EJB标准](https://zh.wikipedia.org/wiki/JSR "wikilink")，分别是JSR
-19 (EJB 2.0), JSR 153 (EJB 2.1) 以及最新的JSR 220 (EJB 3.0)。
+[Java](../Page/Java.md "wikilink")企业版API（Java Enterprise Edition）中提供了对EJB的规范。EJB是一个封装有某个应用程序之业务逻辑服务器端组件。EJB最早于1997年由IBM提出，旋即被[太阳微系统采用并形成标准](https://zh.wikipedia.org/wiki/升阳公司 "wikilink")（EJB 1.0 和EJB 1.1）。其后在Java社区进程（Java Community Process）支持下陆续有一些[JSR被制订来定义新的EJB标准](https://zh.wikipedia.org/wiki/JSR "wikilink")，分别是JSR 19 (EJB 2.0), JSR 153 (EJB 2.1) 以及最新的JSR 220 (EJB 3.0)。
 
 EJB规范的目的在于为企业及应用开发人员实现后台业务提供一个标准方式，从而解决一些此前总是在作业过程中总是重复发生的问题。EJB以一个标准方式自动处理了诸如数据持久化，事务整合，安全对策等不同应用的共有问题，使得软件开发人员可以专注于程序的特定需求而不再饱受那些非业务元素的困扰。
 
@@ -15,7 +11,7 @@ EJB规范的目的在于为企业及应用开发人员实现后台业务提供�
   - 并发控制
   - 基于[JMS的事件驱动](https://zh.wikipedia.org/wiki/JMS "wikilink")
   - 基于[JNDI的名字和空间管理](https://zh.wikipedia.org/wiki/JNDI "wikilink")
-  - 基于[JCE和](https://zh.wikipedia.org/wiki/JCE "wikilink")[JAAS的安全管理](../Page/JAAS.md "wikilink")
+  - 基于[JCE和](https://zh.wikipedia.org/wiki/JCE "wikilink")[JAAS](../Page/JAAS.md "wikilink")的安全管理
   - 应用服务器端的软件组件部署
   - 使用[RMI-IIOP协议的远程过程调用](https://zh.wikipedia.org/wiki/RMI-IIOP "wikilink")
   - 将业务方法暴露为[Web服务](../Page/Web服务.md "wikilink")
@@ -28,22 +24,15 @@ EJB规范的目的在于为企业及应用开发人员实现后台业务提供�
 
 ### 从拥抱到抛弃
 
-由于[IBM和](../Page/IBM.md "wikilink")[Sun
-Microsystems等EJB提倡者力推其前景](https://zh.wikipedia.org/wiki/Sun_Microsystems "wikilink")，起初一些大公司纷纷采用EJB部署他们的系统。然而随后各种问题便接踵而至，对EJB的恶评短时间内激增。对于初学者，EJB的[API显得太过困难](https://zh.wikipedia.org/wiki/API "wikilink")；对于许多程序员来说，书写那些必须抛出特定异常的接口并将bean类作为抽象类实现的做法既不直观也不正常。当然，EJB所被赋予的使命，如对象关系映射和事务管理确实有其天然复杂性，但其API之复杂还是令开发人员们觉得望而却步，一些人开始怀疑EJB除了引入了复杂的实现手段以外似乎并未带来什么实际好处。
+由于[IBM](../Page/IBM.md "wikilink")和[Sun Microsystems等EJB提倡者力推其前景](https://zh.wikipedia.org/wiki/Sun_Microsystems "wikilink")，起初一些大公司纷纷采用EJB部署他们的系统。然而随后各种问题便接踵而至，对EJB的恶评短时间内激增。对于初学者，EJB的[API显得太过困难](https://zh.wikipedia.org/wiki/API "wikilink")；对于许多程序员来说，书写那些必须抛出特定异常的接口并将bean类作为抽象类实现的做法既不直观也不正常。当然，EJB所被赋予的使命，如对象关系映射和事务管理确实有其天然复杂性，但其API之复杂还是令开发人员们觉得望而却步，一些人开始怀疑EJB除了引入了复杂的实现手段以外似乎并未带来什么实际好处。
 
-另外，实际运用中被发现，如果使用EJB来封装业务逻辑会带来性能上的下降。这是因为，最早的EJB规范只允许客户端通过特定协议（如[CORBA](../Page/CORBA.md "wikilink")）进行远程方法调用来调用，即使大部分实际应用根本就不需要分布式计算。直到EJB
-2.0才引入了本地接口，以支持可以开发不通过网络就能直接本地调用的EJB系统。
+另外，实际运用中被发现，如果使用EJB来封装业务逻辑会带来性能上的下降。这是因为，最早的EJB规范只允许客户端通过特定协议（如[CORBA](../Page/CORBA.md "wikilink")）进行远程方法调用来调用，即使大部分实际应用根本就不需要分布式计算。直到EJB 2.0才引入了本地接口，以支持可以开发不通过网络就能直接本地调用的EJB系统。
 
-尽管如此，EJB的广泛普及仍然为其复杂度所制约。尽管已经有一些高质量的整合开发工具可以协助开发人员通过自动编码解决一部分重复作业，但这并不能降低学习此项技术的难度。另一方面，“草根阶层”的编程爱好者们发起了一场旨在使用
-“轻量级”技术以代替复杂的EJB的运动。这些技术包括[Hibernate](../Page/Hibernate.md "wikilink")（用于提供数据持久化和对象-关系映射）及[Spring框架](https://zh.wikipedia.org/wiki/Spring "wikilink")（用于封装业务逻辑）。尽管它们不像EJB那样有巨头支持，但其在庶民间却更加流行，并且也被一些对EJB深感失望的企业所采用。
+尽管如此，EJB的广泛普及仍然为其复杂度所制约。尽管已经有一些高质量的整合开发工具可以协助开发人员通过自动编码解决一部分重复作业，但这并不能降低学习此项技术的难度。另一方面，“草根阶层”的编程爱好者们发起了一场旨在使用 “轻量级”技术以代替复杂的EJB的运动。这些技术包括[Hibernate](../Page/Hibernate.md "wikilink")（用于提供数据持久化和对象-关系映射）及[Spring框架](https://zh.wikipedia.org/wiki/Spring "wikilink")（用于封装业务逻辑）。尽管它们不像EJB那样有巨头支持，但其在庶民间却更加流行，并且也被一些对EJB深感失望的企业所采用。
 
 ### 重生
 
-EJB规范起初的一个主要价值—对分布式应用进行事务管理—在随后的实践中被一致认为几乎没能派上用场。对于企业级应用来说，Spring和Hibernate等简化框架更加实用。因此，EJB
-3.0规范（JSR 220）为了迎合这个趋势相比于其前辈进行了一次激进的大跳跃。受到Spring 影响，EJB
-3.0也使用所谓的“传统简单Java对象（[POJO](https://zh.wikipedia.org/wiki/POJO "wikilink")）”；同时，支持依赖注入来简化全异系统的整合与配置。Hibernate的创始人Gavin
-King参与了这一新版规范的制订，并对EJB大加提倡。Hibernate的许多特性也被引入到Java持久化API当中，从而取代原来的实体bean。EJB
-3.0规范大幅采用[Java注释](https://zh.wikipedia.org/wiki/Java注释 "wikilink")（annotation）来对代码进行元数据修饰，从而消减了此前EJB编程的冗杂性。
+EJB规范起初的一个主要价值—对分布式应用进行事务管理—在随后的实践中被一致认为几乎没能派上用场。对于企业级应用来说，Spring和Hibernate等简化框架更加实用。因此，EJB 3.0规范（JSR 220）为了迎合这个趋势相比于其前辈进行了一次激进的大跳跃。受到Spring 影响，EJB 3.0也使用所谓的“传统简单Java对象（[POJO](https://zh.wikipedia.org/wiki/POJO "wikilink")）”；同时，支持依赖注入来简化全异系统的整合与配置。Hibernate的创始人Gavin King参与了这一新版规范的制订，并对EJB大加提倡。Hibernate的许多特性也被引入到Java持久化API当中，从而取代原来的实体bean。EJB 3.0规范大幅采用[Java注释](https://zh.wikipedia.org/wiki/Java注释 "wikilink")（annotation）来对代码进行元数据修饰，从而消减了此前EJB编程的冗杂性。
 
 相应地，EJB 3.0几乎成为了一个全新的API，与此前的数版可谓毫无相似度可言。
 
@@ -61,19 +50,15 @@ EJB容器可以接受三类EJB
 
 有状态会话Bean是包含状态的分布式对象，即是说，贯穿整个会话它们都要保有客户端信息。举例而言，在一个网上商店进行实施结账很可能就需要一个有状态会话Bean，因为结账是一个多步动作，服务器端必须可以随时了解到用户已经进行到了哪一步。此外，尽管有状态会话Bean的状态信息可被保持，但始终只能是由同一个用户来访问之。
 
-实体Bean是含有持久化状态的分布式对象。这个持久化状态的管理既可以交给Bean自身（Bean-Managed
-Persistence，BMP），也可以托付于外部机制（Container-Managed Persistence，CMP）。
+实体Bean是含有持久化状态的分布式对象。这个持久化状态的管理既可以交给Bean自身（Bean-Managed Persistence，BMP），也可以托付于外部机制（Container-Managed Persistence，CMP）。
 
-消息驱动Bean是支持异步行为的分布式对象。它们并不对请求进行当即响应。比方说，某网站用户点击“请通知我更新信息”按钮，将会触发某个MDB将这名用户加入到数据库的希望获得更新信息用户列表中。这个动作就是一个异步的消息驱动过程，因为用户不必等待当时会返回某个结果。MDB的消息源来自Java消息服务（JMS）提供的消息队列或消息主题。自EJB
-2.0规范起，JMS被加入进来以允许在容器内部实施事件驱动处理。与其他EJB不同，MDB不存在一个用户视图（如需要用户引用的远程接口），用户也不能通过资源定位获得一个MDB实例。MDB只在后台监听消息源并实施自动处理。
+消息驱动Bean是支持异步行为的分布式对象。它们并不对请求进行当即响应。比方说，某网站用户点击“请通知我更新信息”按钮，将会触发某个MDB将这名用户加入到数据库的希望获得更新信息用户列表中。这个动作就是一个异步的消息驱动过程，因为用户不必等待当时会返回某个结果。MDB的消息源来自Java消息服务（JMS）提供的消息队列或消息主题。自EJB 2.0规范起，JMS被加入进来以允许在容器内部实施事件驱动处理。与其他EJB不同，MDB不存在一个用户视图（如需要用户引用的远程接口），用户也不能通过资源定位获得一个MDB实例。MDB只在后台监听消息源并实施自动处理。
 
-除了上述以外，目前还有一些EJB处于设想阶段，如JSR 86提出了用于在Java EE应用中整合多媒体对象的媒体Bean（Enterprise
-Media Beans）。
+除了上述以外，目前还有一些EJB处于设想阶段，如JSR 86提出了用于在Java EE应用中整合多媒体对象的媒体Bean（Enterprise Media Beans）。
 
 ## EJB实行
 
-EJB部署于应用服务器端的EJB容器中。规范给定了EJB与EJB容器之间，以及用户代码与EJB/EJB容器之间的交互方式。对于Java EE
-API，javax.ejb包定义了EJB类，javax.ejb.spi包定义了EJB容器应当实现的各个接口。
+EJB部署于应用服务器端的EJB容器中。规范给定了EJB与EJB容器之间，以及用户代码与EJB/EJB容器之间的交互方式。对于Java EE API，javax.ejb包定义了EJB类，javax.ejb.spi包定义了EJB容器应当实现的各个接口。
 
 在EJB 2.1和以前的版本中，每个EJB都由一个类和两个接口组成。EJB容器负责创建这个类的实例，接口则供客户端调用。
 

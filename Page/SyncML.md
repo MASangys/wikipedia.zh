@@ -1,12 +1,8 @@
-**SyncML** (Synchronization Markup
-Language)是一平台无关的信息同步标准协议集。分为SyncML数据传输协议（SyncML-DS）和SyncML设备管理协议(SyncML-DM).
+**SyncML** (Synchronization Markup Language)是一平台无关的信息同步标准协议集。分为SyncML数据传输协议（SyncML-DS）和SyncML设备管理协议(SyncML-DM).
 
-现存的大部分同步解决方案绝大部分依赖于某个厂商、应用，或者是某个操作系统，而SyncML的目的就是要提供一个开放标准。目前，该标准已经得到[Nokia](https://zh.wikipedia.org/wiki/Nokia "wikilink")、[Symbian](https://zh.wikipedia.org/wiki/Symbian "wikilink")，[Motorola](https://zh.wikipedia.org/wiki/Motorola "wikilink")，[Sony
-Ericsson](https://zh.wikipedia.org/wiki/SonyEricsson "wikilink")、[Siemens
-AG等公司的产品的支持](https://zh.wikipedia.org/wiki/Siemens_AG "wikilink")。
+现存的大部分同步解决方案绝大部分依赖于某个厂商、应用，或者是某个操作系统，而SyncML的目的就是要提供一个开放标准。目前，该标准已经得到[Nokia](https://zh.wikipedia.org/wiki/Nokia "wikilink")、[Symbian](https://zh.wikipedia.org/wiki/Symbian "wikilink")，[Motorola](https://zh.wikipedia.org/wiki/Motorola "wikilink")，[Sony Ericsson](https://zh.wikipedia.org/wiki/SonyEricsson "wikilink")、[Siemens AG等公司的产品的支持](https://zh.wikipedia.org/wiki/Siemens_AG "wikilink")。
 
-手机通讯录的同步和备份是SyncML协议的最主要应用，SyncML[服务器端和](https://zh.wikipedia.org/wiki/服务器端 "wikilink")[客户端数据传输基于下层的](https://zh.wikipedia.org/wiki/客户端 "wikilink")[网路传输协议](https://zh.wikipedia.org/wiki/网路传输协议 "wikilink")。如[obex](https://zh.wikipedia.org/wiki/obex "wikilink")，[wsp](https://zh.wikipedia.org/wiki/wsp "wikilink")，[http等](https://zh.wikipedia.org/wiki/http "wikilink")。增值业务提供商也已经提供基于SyncML协议的同步服务，可以让手机用户通过[GPRS网络上传或下载通讯录数据](../Page/GPRS.md "wikilink")，避免手机丢失或更更换手机时遗失重要通讯录数据的麻烦。从SyncML
-1.2起，协议开始支持对[电子邮件](../Page/电子邮件.md "wikilink")，目录和文件进行同步。
+手机通讯录的同步和备份是SyncML协议的最主要应用，SyncML[服务器端和](https://zh.wikipedia.org/wiki/服务器端 "wikilink")[客户端数据传输基于下层的](https://zh.wikipedia.org/wiki/客户端 "wikilink")[网路传输协议](https://zh.wikipedia.org/wiki/网路传输协议 "wikilink")。如[obex](https://zh.wikipedia.org/wiki/obex "wikilink")，[wsp](https://zh.wikipedia.org/wiki/wsp "wikilink")，[http等](https://zh.wikipedia.org/wiki/http "wikilink")。增值业务提供商也已经提供基于SyncML协议的同步服务，可以让手机用户通过[GPRS](../Page/GPRS.md "wikilink")网络上传或下载通讯录数据，避免手机丢失或更更换手机时遗失重要通讯录数据的麻烦。从SyncML 1.2起，协议开始支持对[电子邮件](../Page/电子邮件.md "wikilink")，目录和文件进行同步。
 
 ## 应用
 
@@ -653,11 +649,8 @@ AG等公司的产品的支持](https://zh.wikipedia.org/wiki/Siemens_AG "wikilin
 ## 外部链接
 
   - [SyncML - 数据同步及设备管理](http://www.openmobilealliance.org/syncml/)
-  - [OMA SyncML Common Specification
-    V1.2.2](http://www.openmobilealliance.org/Technical/release_program/SyncML_v1_2_2.aspx)
-  - [OMA Data Synchronization
-    V1.2.2](http://www.openmobilealliance.org/Technical/release_program/ds_v1_2_2.aspx)
+  - [OMA SyncML Common Specification V1.2.2](http://www.openmobilealliance.org/Technical/release_program/SyncML_v1_2_2.aspx)
+  - [OMA Data Synchronization V1.2.2](http://www.openmobilealliance.org/Technical/release_program/ds_v1_2_2.aspx)
   - [技术报告：The SyncML Initiative](http://xml.coverpages.org/syncML.html)
 
-[Category:移动通信标准](https://zh.wikipedia.org/wiki/Category:移动通信标准 "wikilink")
-[Category:公開標準](https://zh.wikipedia.org/wiki/Category:公開標準 "wikilink")
+[Category:移动通信标准](https://zh.wikipedia.org/wiki/Category:移动通信标准 "wikilink") [Category:公開標準](https://zh.wikipedia.org/wiki/Category:公開標準 "wikilink")

@@ -1,11 +1,8 @@
-**KNOPPIX**是一套光盘或USB[闪存盘启动的](../Page/闪存盘.md "wikilink")[GNU/Linux系统](https://zh.wikipedia.org/wiki/GNU/Linux "wikilink")（[LiveCD](https://zh.wikipedia.org/wiki/LiveCD "wikilink")），功能包括：自动硬件监测、支持常见的显卡、声卡、SCSI和USB设备，以及其它外设。KNOPPIX可用于Linux演示、光盘教学、系统急救，经过适当改造，还可以用于商业软件的产品演示。KNOPPIX采用了特殊的解压缩技术，不需要硬盘安装，一张CD，就容纳了2GB的可执行程序，供用户自由使用。
+**KNOPPIX**是一套光盘或USB[闪存盘](../Page/闪存盘.md "wikilink")启动的[GNU/Linux系统](https://zh.wikipedia.org/wiki/GNU/Linux "wikilink")（[LiveCD](https://zh.wikipedia.org/wiki/LiveCD "wikilink")），功能包括：自动硬件监测、支持常见的显卡、声卡、SCSI和USB设备，以及其它外设。KNOPPIX可用于Linux演示、光盘教学、系统急救，经过适当改造，还可以用于商业软件的产品演示。KNOPPIX采用了特殊的解压缩技术，不需要硬盘安装，一张CD，就容纳了2GB的可执行程序，供用户自由使用。
 
 Knoppix最初由德国工程师Klaus Knopper设计，取名于其姓氏Knopper + Linux，读作“k'nopiks”，重音在no。
 
-KNOPPIX基于[Debian](../Page/Debian.md "wikilink")
-GNU/Linux，桌面系统主要采用[KDE](../Page/KDE.md "wikilink")，主要软件还包括[GIMP](../Page/GIMP.md "wikilink")、[LibreOffice等](https://zh.wikipedia.org/wiki/LibreOffice "wikilink")。不同的團體基於Knoppix的穩定性，都利用Knoppix的distro開發自己的工具碟。例如：[CHFI就有一張利用Knoppix](https://zh.wikipedia.org/wiki/CHFI "wikilink")
-Linux改裝的[信息鑑證启动光盘](https://zh.wikipedia.org/wiki/信息鑑證 "wikilink")；而[台灣的](https://zh.wikipedia.org/wiki/台灣 "wikilink")[台南市教育局亦有製作中文化的Knoppix](https://zh.wikipedia.org/wiki/台南市教育局 "wikilink")
-Distro，當中還包括[文鼎字型和](https://zh.wikipedia.org/wiki/文鼎 "wikilink")[字型編輯器](https://zh.wikipedia.org/wiki/字型編輯器 "wikilink")。
+KNOPPIX基于[Debian](../Page/Debian.md "wikilink") GNU/Linux，桌面系统主要采用[KDE](../Page/KDE.md "wikilink")，主要软件还包括[GIMP](../Page/GIMP.md "wikilink")、[LibreOffice等](https://zh.wikipedia.org/wiki/LibreOffice "wikilink")。不同的團體基於Knoppix的穩定性，都利用Knoppix的distro開發自己的工具碟。例如：[CHFI就有一張利用Knoppix](https://zh.wikipedia.org/wiki/CHFI "wikilink") Linux改裝的[信息鑑證启动光盘](https://zh.wikipedia.org/wiki/信息鑑證 "wikilink")；而[台灣的](https://zh.wikipedia.org/wiki/台灣 "wikilink")[台南市教育局亦有製作中文化的Knoppix](https://zh.wikipedia.org/wiki/台南市教育局 "wikilink") Distro，當中還包括[文鼎字型和](https://zh.wikipedia.org/wiki/文鼎 "wikilink")[字型編輯器](https://zh.wikipedia.org/wiki/字型編輯器 "wikilink")。
 
 ## 内容
 
@@ -13,19 +10,15 @@ Distro，當中還包括[文鼎字型和](https://zh.wikipedia.org/wiki/文鼎 "
 
 在CD版本超过有1000软件包，而在DVD版本超过有2600软件包。在DVD上，以[压缩格式存储了容量高达](https://zh.wikipedia.org/wiki/压缩 "wikilink")9GB的内容。在这些软件包中包括：
 
-  - [LXDE](../Page/LXDE.md "wikilink")，一个轻量级的[X11](https://zh.wikipedia.org/wiki/X11 "wikilink")[桌面环境](../Page/桌面环境.md "wikilink")（默认为6.0.1和更高版本），或[KDE
-    3](https://zh.wikipedia.org/wiki/KDE_3 "wikilink")，一个更多特性的桌面环境，默认为5.3.1和更早的版本。
+  - [LXDE](../Page/LXDE.md "wikilink")，一个轻量级的[X11](https://zh.wikipedia.org/wiki/X11 "wikilink")[桌面环境](../Page/桌面环境.md "wikilink")（默认为6.0.1和更高版本），或[KDE 3](https://zh.wikipedia.org/wiki/KDE_3 "wikilink")，一个更多特性的桌面环境，默认为5.3.1和更早的版本。
 
-  - [MPlayer](../Page/MPlayer.md "wikilink")，带有[MP3和](../Page/MP3.md "wikilink")[Ogg
-    Vorbis音频播放支持](https://zh.wikipedia.org/wiki/Ogg_Vorbis "wikilink")。
+  - [MPlayer](../Page/MPlayer.md "wikilink")，带有[MP3](../Page/MP3.md "wikilink")和[Ogg Vorbis音频播放支持](https://zh.wikipedia.org/wiki/Ogg_Vorbis "wikilink")。
 
-  - [網路存取软件](https://zh.wikipedia.org/wiki/網路存取 "wikilink")，包括[KPPP拨号器和](https://zh.wikipedia.org/wiki/KPPP "wikilink")[综合业务数字网实用程序](../Page/综合业务数字网.md "wikilink")
+  - [網路存取软件](https://zh.wikipedia.org/wiki/網路存取 "wikilink")，包括[KPPP拨号器和](https://zh.wikipedia.org/wiki/KPPP "wikilink")[综合业务数字网](../Page/综合业务数字网.md "wikilink")实用程序
 
-  - [Iceweasel网络浏览器](../Page/Iceweasel.md "wikilink")（基于[Mozilla
-    Firefox](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")）
+  - [Iceweasel](../Page/Iceweasel.md "wikilink")网络浏览器（基于[Mozilla Firefox](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")）
 
-  - e-mail客户端（基于[Mozilla
-    Thunderbird](../Page/Mozilla_Thunderbird.md "wikilink")）
+  - e-mail客户端（基于[Mozilla Thunderbird](../Page/Mozilla_Thunderbird.md "wikilink")）
 
   - [GIMP](../Page/GIMP.md "wikilink")，一个图像处理程序
 
@@ -39,8 +32,7 @@ Distro，當中還包括[文鼎字型和](https://zh.wikipedia.org/wiki/文鼎 "
 
 ## 歷史版本
 
-截至2008年4月，从版本4起直到5.1.1，Knoppix的已分割成一个DVD版的“Maxi”（与超过9
-GB的软件），和CD版的“Light”，两者并行发展的\[1\]\[2\]。從2014年8月起發行的7.4版開始，除特別版本外僅發行DVD版\[3\]。
+截至2008年4月，从版本4起直到5.1.1，Knoppix的已分割成一个DVD版的“Maxi”（与超过9 GB的软件），和CD版的“Light”，两者并行发展的\[1\]\[2\]。從2014年8月起發行的7.4版開始，除特別版本外僅發行DVD版\[3\]。
 
 以下是主要发行版的版本历史记录：
 
@@ -410,14 +402,9 @@ Knoppix對中日韓環境的支援極差，在系統預建的漢字字型檔裡�
   -
 ### 新闻文章
 
-  - [Cameron Laird: Knoppix gives bootable, one-disk
-    Linux](http://www-106.ibm.com/developerworks/linux/library/l-knopp.html)（IBM
-    developer works）
-  - [Distrowatch.com interview with Klaus
-    Knopper](http://www.distrowatch.com/dwres.php?resource=interview-knoppix)
-  - [System recovery with
-    Knoppix](http://www-106.ibm.com/developerworks/linux/library/l-knopx.html)（IBM
-    developer works）
+  - [Cameron Laird: Knoppix gives bootable, one-disk Linux](http://www-106.ibm.com/developerworks/linux/library/l-knopp.html)（IBM developer works）
+  - [Distrowatch.com interview with Klaus Knopper](http://www.distrowatch.com/dwres.php?resource=interview-knoppix)
+  - [System recovery with Knoppix](http://www-106.ibm.com/developerworks/linux/library/l-knopx.html)（IBM developer works）
 
 ## 参见
 
@@ -427,8 +414,7 @@ Knoppix對中日韓環境的支援極差，在系統預建的漢字字型檔裡�
 
   - [Linux发行版比较](../Page/Linux发行版比较.md "wikilink")
 
-  - [Damn Small
-    Linux](https://zh.wikipedia.org/wiki/Damn_Small_Linux "wikilink")
+  - [Damn Small Linux](https://zh.wikipedia.org/wiki/Damn_Small_Linux "wikilink")
 
   - [Debian](../Page/Debian.md "wikilink")
 

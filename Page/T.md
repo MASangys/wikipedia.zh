@@ -1,9 +1,8 @@
-**T**, **t**
-是[拉丁字母中的第](../Page/拉丁字母.md "wikilink")20个[字母](../Page/字母.md "wikilink")。
+**T**, **t** 是[拉丁字母](../Page/拉丁字母.md "wikilink")中的第20个[字母](../Page/字母.md "wikilink")。
 
-是西方[闪族语字母表和](https://zh.wikipedia.org/wiki/闪族语 "wikilink")[希伯来字母的最后一个字母](../Page/希伯来字母.md "wikilink")。闪族语的Taw的音值、[希腊字母](../Page/希腊字母.md "wikilink")（Tau）以及[伊特鲁里亚字母和](https://zh.wikipedia.org/wiki/伊特鲁里亚字母 "wikilink")[拉丁字母的T都曾发作](../Page/拉丁字母.md "wikilink")/t/。
+是西方[闪族语字母表和](https://zh.wikipedia.org/wiki/闪族语 "wikilink")[希伯来字母](../Page/希伯来字母.md "wikilink")的最后一个字母。闪族语的Taw的音值、[希腊字母](../Page/希腊字母.md "wikilink")（Tau）以及[伊特鲁里亚字母和](https://zh.wikipedia.org/wiki/伊特鲁里亚字母 "wikilink")[拉丁字母](../Page/拉丁字母.md "wikilink")的T都曾发作/t/。
 
-[北约音标字母以](../Page/北约音标字母.md "wikilink")*Tango*来表示字母T。
+[北约音标字母](../Page/北约音标字母.md "wikilink")以*Tango*来表示字母T。
 
 ## 字母T的含意
 
@@ -16,8 +15,7 @@
 
 ## 在其他字母系統中的相似字母
 
-  - ⲧ̅: [古努比亞語](https://zh.wikipedia.org/wiki/古努比亞語 "wikilink")(Old
-    Nubian language)裡所使用的[科普特字母](../Page/科普特字母.md "wikilink")。
+  - ⲧ̅: [古努比亞語](https://zh.wikipedia.org/wiki/古努比亞語 "wikilink")(Old Nubian language)裡所使用的[科普特字母](../Page/科普特字母.md "wikilink")。
 
 ## 其他表示方法
 

@@ -1,7 +1,6 @@
 ****（前稱****）是公司的網站開發軟件。它使用[所見即所得的介面](https://zh.wikipedia.org/wiki/所見即所得 "wikilink")，亦有編輯的功能。它現在有和系統的版本。原本由公司所開發。
 
-Dreamweaver由MX版本開始使用[Opera軟體公司的](https://zh.wikipedia.org/wiki/Opera軟體公司 "wikilink")[排版引擎](../Page/排版引擎.md "wikilink")「[Presto](../Page/Presto.md "wikilink")」作為網頁預覽。由CS4版本開始，則轉用WebKit排版引擎（亦即Google
-Chrome和Apple Safari瀏覽器所用的排版引擎）作為網頁預覽。
+Dreamweaver由MX版本開始使用[Opera軟體公司的](https://zh.wikipedia.org/wiki/Opera軟體公司 "wikilink")[排版引擎](../Page/排版引擎.md "wikilink")「[Presto](../Page/Presto.md "wikilink")」作為網頁預覽。由CS4版本開始，則轉用WebKit排版引擎（亦即Google Chrome和Apple Safari瀏覽器所用的排版引擎）作為網頁預覽。
 
 ## 特色
 
@@ -9,9 +8,7 @@ Dreamweaver允許用戶於已經安裝的網頁瀏覽器中預覽網頁。
 
 ## 背景
 
-Dreamweaver是收購Macromedia公司所得的產品。Dreamweaver
-8是Macromedia被收購前的最後版本。收購後由Adobe繼續發展Dreamweaver，由版本9起改以CS3（Creative
-Suite）命名，並併入當時的CS3套裝。以CS3開始命名而非CS1，相信是為了與其他Adobe CS產品版本看齊，避免混淆。
+Dreamweaver是收購Macromedia公司所得的產品。Dreamweaver 8是Macromedia被收購前的最後版本。收購後由Adobe繼續發展Dreamweaver，由版本9起改以CS3（Creative Suite）命名，並併入當時的CS3套裝。以CS3開始命名而非CS1，相信是為了與其他Adobe CS產品版本看齊，避免混淆。
 
 Dreamweaver現多捆綁其他Adobe產品以套裝發售，但仍可個別購買。
 
@@ -202,33 +199,13 @@ Dreamweaver現多捆綁其他Adobe產品以套裝發售，但仍可個別購買�
   - [Adobe Extensions](http://www.adobe.com/cfusion/exchange/index.cfm)
   - [Adobe Software Distributor List](http://www.pspss.com)
 
-[Category:Adobe软件](https://zh.wikipedia.org/wiki/Category:Adobe软件 "wikilink")
-[Category:C++软件](https://zh.wikipedia.org/wiki/Category:C++软件 "wikilink")
-[Category:HTML编辑器](https://zh.wikipedia.org/wiki/Category:HTML编辑器 "wikilink")
-[Category:网页设计软件](https://zh.wikipedia.org/wiki/Category:网页设计软件 "wikilink")
-[Category:1997年软件](https://zh.wikipedia.org/wiki/Category:1997年软件 "wikilink")
+[Category:Adobe软件](https://zh.wikipedia.org/wiki/Category:Adobe软件 "wikilink") [Category:C++软件](https://zh.wikipedia.org/wiki/Category:C++软件 "wikilink") [Category:HTML编辑器](https://zh.wikipedia.org/wiki/Category:HTML编辑器 "wikilink") [Category:网页设计软件](https://zh.wikipedia.org/wiki/Category:网页设计软件 "wikilink") [Category:1997年软件](https://zh.wikipedia.org/wiki/Category:1997年软件 "wikilink")
 
 1.
-2.  [Adobe's Subscription-Only CC Release Carries Obvious Upside But Big
-    Risk |
-    Forbes](http://www.forbes.com/sites/amadoudiallo/2013/06/17/adobe-cc-subscription-release-big-upside-and-risk/)
-3.  [Adobe exec: Creative Cloud complainers will love us once they try
-    us
-    (interview)](http://venturebeat.com/2013/05/11/adobe-creative-cloud-interview/),
-    VentureBeat
-4.  [Adobe's Move to the Cloud Incites Anger and Other Top
-    Comments](http://mashable.com/2013/05/13/adobe-creative-cloud-top-comments/),
-    Mashable
-5.  [Adobe Creative Cloud: Reactions, responses and reassurance |
-    Macworld
-    UK](http://www.macworld.co.uk/digitallifestyle/news/?newsid=3446802)
-6.  Neil Bennett (15 May 2013) [Analysis: The real reason Adobe ditched
-    Creative Suite for Creative
-    Cloud](http://www.digitalartsonline.co.uk/news/creative-software/analysis-real-reason-adobe-ditched-creative-suite-for-creative-cloud/),
-    Retrieved on 2013-07-21, www.digitalartsonline.co.uk
-7.  [Adobe’s Creative Cloud Sparks Thunderous
-    Revolt](http://www.truth-out.org/speakout/item/16442-adobes-creative-cloud-sparks-thunderous-revolt)
-    , 25 May 2013, truth-out.org
-8.  [Some Artists Give Adobe's Cloud Switch a Critical
-    Review](http://www.foxbusiness.com/technology/2013/05/17/some-artists-give-adobe-cloud-switch-critical-review/)
-    , Fox Business
+2.  [Adobe's Subscription-Only CC Release Carries Obvious Upside But Big Risk | Forbes](http://www.forbes.com/sites/amadoudiallo/2013/06/17/adobe-cc-subscription-release-big-upside-and-risk/)
+3.  [Adobe exec: Creative Cloud complainers will love us once they try us (interview)](http://venturebeat.com/2013/05/11/adobe-creative-cloud-interview/), VentureBeat
+4.  [Adobe's Move to the Cloud Incites Anger and Other Top Comments](http://mashable.com/2013/05/13/adobe-creative-cloud-top-comments/), Mashable
+5.  [Adobe Creative Cloud: Reactions, responses and reassurance | Macworld UK](http://www.macworld.co.uk/digitallifestyle/news/?newsid=3446802)
+6.  Neil Bennett (15 May 2013) [Analysis: The real reason Adobe ditched Creative Suite for Creative Cloud](http://www.digitalartsonline.co.uk/news/creative-software/analysis-real-reason-adobe-ditched-creative-suite-for-creative-cloud/), Retrieved on 2013-07-21, www.digitalartsonline.co.uk
+7.  [Adobe’s Creative Cloud Sparks Thunderous Revolt](http://www.truth-out.org/speakout/item/16442-adobes-creative-cloud-sparks-thunderous-revolt) , 25 May 2013, truth-out.org
+8.  [Some Artists Give Adobe's Cloud Switch a Critical Review](http://www.foxbusiness.com/technology/2013/05/17/some-artists-give-adobe-cloud-switch-critical-review/) , Fox Business

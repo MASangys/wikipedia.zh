@@ -1,7 +1,6 @@
-《**CSI犯罪現場：紐約**》（****，簡稱****）是一部[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[刑事](https://zh.wikipedia.org/wiki/刑事 "wikilink")[電視影集](https://zh.wikipedia.org/wiki/電視影集 "wikilink")，首播於2004年9月22日。它是《[CSI犯罪現場](../Page/CSI犯罪現場.md "wikilink")》的第二個[衍生影集](https://zh.wikipedia.org/wiki/衍生影集 "wikilink")（）。首次出現是在《[CSI犯罪現場:
-邁阿密](https://zh.wikipedia.org/wiki/CSI犯罪現場:_邁阿密 "wikilink")－》第二季的23集（），劇中主角何瑞修（）前往[紐約市追捕一名從邁阿密逃逸的謀殺嫌犯](https://zh.wikipedia.org/wiki/紐約市 "wikilink")。有趣的是，影集在美國播映的時段與[國家廣播公司的](https://zh.wikipedia.org/wiki/國家廣播公司 "wikilink")《[法網遊龍](../Page/法律與秩序.md "wikilink")》（**）一樣，而後者是以[紐約市為舞臺的老牌犯罪影集](https://zh.wikipedia.org/wiki/紐約市 "wikilink")。
+《**CSI犯罪現場：紐約**》（****，簡稱****）是一部[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[刑事](https://zh.wikipedia.org/wiki/刑事 "wikilink")[電視影集](https://zh.wikipedia.org/wiki/電視影集 "wikilink")，首播於2004年9月22日。它是《[CSI犯罪現場](../Page/CSI犯罪現場.md "wikilink")》的第二個[衍生影集](https://zh.wikipedia.org/wiki/衍生影集 "wikilink")（）。首次出現是在《[CSI犯罪現場: 邁阿密](https://zh.wikipedia.org/wiki/CSI犯罪現場:_邁阿密 "wikilink")－》第二季的23集（），劇中主角何瑞修（）前往[紐約市追捕一名從邁阿密逃逸的謀殺嫌犯](https://zh.wikipedia.org/wiki/紐約市 "wikilink")。有趣的是，影集在美國播映的時段與[國家廣播公司的](https://zh.wikipedia.org/wiki/國家廣播公司 "wikilink")《[法網遊龍](../Page/法律與秩序.md "wikilink")》（**）一樣，而後者是以[紐約市為舞臺的老牌犯罪影集](https://zh.wikipedia.org/wiki/紐約市 "wikilink")。
 
-除了[蓋瑞·辛尼茲](../Page/蓋瑞·辛尼茲.md "wikilink")、[美琳娜·卡娜卡瑞迪斯](https://zh.wikipedia.org/wiki/美琳娜·卡娜卡瑞迪斯 "wikilink")、以及[安娜·貝爾納普以外](../Page/安娜·貝爾納普.md "wikilink")，所有的演員都是來自[紐約](https://zh.wikipedia.org/wiki/紐約 "wikilink")。然而，[蓋瑞·辛尼茲和](../Page/蓋瑞·辛尼茲.md "wikilink")[安娜·貝爾納普都曾在紐約居住過一段時間](../Page/安娜·貝爾納普.md "wikilink")。
+除了[蓋瑞·辛尼茲](../Page/蓋瑞·辛尼茲.md "wikilink")、[美琳娜·卡娜卡瑞迪斯](https://zh.wikipedia.org/wiki/美琳娜·卡娜卡瑞迪斯 "wikilink")、以及[安娜·貝爾納普](../Page/安娜·貝爾納普.md "wikilink")以外，所有的演員都是來自[紐約](https://zh.wikipedia.org/wiki/紐約 "wikilink")。然而，[蓋瑞·辛尼茲](../Page/蓋瑞·辛尼茲.md "wikilink")和[安娜·貝爾納普](../Page/安娜·貝爾納普.md "wikilink")都曾在紐約居住過一段時間。
 
 2012年5月13日，CBS续订本片第九季\[1\]。
 
@@ -17,19 +16,15 @@
 
 <!-- end list -->
 
-  - 在[2004年11月](../Page/2004年11月.md "wikilink")，[Spike
-    TV電視網以破紀錄的價格](https://zh.wikipedia.org/wiki/Spike_TV "wikilink")，一集190萬美金，買下了這個系列的重播權。這家電視網先前已經以一集160萬美金的價格買下《CSI犯罪現場》的重播權。《CSI犯罪現場：紐約》預計於2005年末加入的影集重播行列。
+  - 在[2004年11月](../Page/2004年11月.md "wikilink")，[Spike TV電視網以破紀錄的價格](https://zh.wikipedia.org/wiki/Spike_TV "wikilink")，一集190萬美金，買下了這個系列的重播權。這家電視網先前已經以一集160萬美金的價格買下《CSI犯罪現場》的重播權。《CSI犯罪現場：紐約》預計於2005年末加入的影集重播行列。
 
 <!-- end list -->
 
-  - 紐約篇和CSI犯罪現場的職業定位有所區別，CSI犯罪現場的角色是屬於刑事鑑證的科学家，而紐約篇和邁阿密篇的角色均隸屬於警察部門，而紐約篇的角色職業是屬於城市刑警與科學家混搭的職業設定，所以與邁阿密篇的角色一樣能夠持有槍械。本作有明確描寫到紐約鑑證科警察的專用車是**雪佛蘭Chevrolet
-    Avalanche**，拍攝手法比另外兩個系列較為血腥，畫面風格呈現冷藍，還有陰天的環境和二氧化碳的排放畫面比較多。
+  - 紐約篇和CSI犯罪現場的職業定位有所區別，CSI犯罪現場的角色是屬於刑事鑑證的科学家，而紐約篇和邁阿密篇的角色均隸屬於警察部門，而紐約篇的角色職業是屬於城市刑警與科學家混搭的職業設定，所以與邁阿密篇的角色一樣能夠持有槍械。本作有明確描寫到紐約鑑證科警察的專用車是**雪佛蘭Chevrolet Avalanche**，拍攝手法比另外兩個系列較為血腥，畫面風格呈現冷藍，還有陰天的環境和二氧化碳的排放畫面比較多。
 
 <!-- end list -->
 
-  - 在第三季的「Cold
-    Reveal」，出現同為CBS製播的[鐵證懸案](https://zh.wikipedia.org/wiki/鐵證懸案 "wikilink")（Cold
-    Case）中的Scotty Valens，這是CSI系列首次與非CSI系列影集合作。
+  - 在第三季的「Cold Reveal」，出現同為CBS製播的[鐵證懸案](https://zh.wikipedia.org/wiki/鐵證懸案 "wikilink")（Cold Case）中的Scotty Valens，這是CSI系列首次與非CSI系列影集合作。
 
 <!-- end list -->
 
@@ -39,7 +34,7 @@
 
 ### 主角
 
-  - **[麥克·泰勒](https://zh.wikipedia.org/wiki/麥克·泰勒 "wikilink")（）：[蓋瑞·辛尼茲飾演](../Page/蓋瑞·辛尼茲.md "wikilink")**，是紐約CSI團隊的領導人，獨身（劇中設定他的妻子死於[911事件](https://zh.wikipedia.org/wiki/911事件 "wikilink")）。曾經在美軍[海軍陸戰隊服役](../Page/海軍陸戰隊.md "wikilink")；他也曾經說過在這世界上最想做的事就是為國家服務。他與波納席拉探員之間有著極其信賴的友誼關係。他是一名[貝斯樂手](https://zh.wikipedia.org/wiki/貝斯 "wikilink")，在一間[爵士樂俱樂部中定期表演](https://zh.wikipedia.org/wiki/爵士樂 "wikilink")。他在第五季二十三集中欣然接受部下丹尼及琳賽請託，擔任他們女兒的[教父](https://zh.wikipedia.org/wiki/教父母 "wikilink")。
+  - **[麥克·泰勒](https://zh.wikipedia.org/wiki/麥克·泰勒 "wikilink")（）：[蓋瑞·辛尼茲](../Page/蓋瑞·辛尼茲.md "wikilink")飾演**，是紐約CSI團隊的領導人，獨身（劇中設定他的妻子死於[911事件](https://zh.wikipedia.org/wiki/911事件 "wikilink")）。曾經在美軍[海軍陸戰隊](../Page/海軍陸戰隊.md "wikilink")服役；他也曾經說過在這世界上最想做的事就是為國家服務。他與波納席拉探員之間有著極其信賴的友誼關係。他是一名[貝斯樂手](https://zh.wikipedia.org/wiki/貝斯 "wikilink")，在一間[爵士樂俱樂部中定期表演](https://zh.wikipedia.org/wiki/爵士樂 "wikilink")。他在第五季二十三集中欣然接受部下丹尼及琳賽請託，擔任他們女兒的[教父](https://zh.wikipedia.org/wiki/教父母 "wikilink")。
 
 <!-- end list -->
 
@@ -53,8 +48,7 @@
 <!-- end list -->
 
   -
-    因揭發和她共事12年的FBI探員法蘭克·華特（Frank
-    Waters）在偵辦馬修斯議員女兒被強姦案時銷毀一份由他執行的鑑定結果失誤的DNA文件，使該名強姦犯無罪釋放，她也由華盛頓特區聯邦調查局轉調紐約市犯罪調查實驗室為三級調查員副主管（第七季第三集）。
+    因揭發和她共事12年的FBI探員法蘭克·華特（Frank Waters）在偵辦馬修斯議員女兒被強姦案時銷毀一份由他執行的鑑定結果失誤的DNA文件，使該名強姦犯無罪釋放，她也由華盛頓特區聯邦調查局轉調紐約市犯罪調查實驗室為三級調查員副主管（第七季第三集）。
 
 <!-- end list -->
 
@@ -69,23 +63,21 @@
 
   -
     第二季「法網恢恢」中，丹尼被捲入一宗十五年前的兇殺案。他的哥哥路易為得到真正兇手的證言，被痛打癱瘓成植物人，但成功地證明了丹尼的清白。在第五季第九集，丹尼以旁白的方式發展和琳賽的感情。兩人在第五季第十七集公證結婚，由麥克跟史黛拉擔任[證婚人](https://zh.wikipedia.org/wiki/證婚人 "wikilink")。
-    於第五季「Pay up」的最後一幕時，和CSI們在小酒吧裡紀念因公殉職的Jessica
-    Angell時遭受攻擊不慎被子彈擊中，於第六季起開始漫長的復健之路，但復健期間仍參與CSI辦案。
+    於第五季「Pay up」的最後一幕時，和CSI們在小酒吧裡紀念因公殉職的Jessica Angell時遭受攻擊不慎被子彈擊中，於第六季起開始漫長的復健之路，但復健期間仍參與CSI辦案。
 
 <!-- end list -->
 
-  - **[薛爾登·霍克](https://zh.wikipedia.org/wiki/薛爾登·霍克 "wikilink")（）法醫與鑑識員：[希爾·哈潑](https://zh.wikipedia.org/wiki/希爾·哈潑 "wikilink")（）飾演**，天才兒童，才18歲就從大學畢業；24歲獲得[外科醫師執業執照](../Page/外科醫師.md "wikilink")。
-
-<!-- end list -->
-
-  -
-    然而，因無法救回兩個病人，從此放棄成為一個外科醫生，成為一個法醫。在第2季裡，霍克離開[解剖室](../Page/解剖.md "wikilink")，投入現場調查工作。
+  - **[薛爾登·霍克](https://zh.wikipedia.org/wiki/薛爾登·霍克 "wikilink")（）法醫與鑑識員：[希爾·哈潑](https://zh.wikipedia.org/wiki/希爾·哈潑 "wikilink")（）飾演**，天才兒童，才18歲就從大學畢業；24歲獲得[外科醫師](../Page/外科醫師.md "wikilink")執業執照。
 
 <!-- end list -->
 
   -
-    在「Raising
-    Shane」，他在一兇殺案中成為主要嫌疑犯，而整個團隊也被要求移交此案件。但最後還是其他團員發現線索，證明了霍克的清白。
+    然而，因無法救回兩個病人，從此放棄成為一個外科醫生，成為一個法醫。在第2季裡，霍克離開[解剖](../Page/解剖.md "wikilink")室，投入現場調查工作。
+
+<!-- end list -->
+
+  -
+    在「Raising Shane」，他在一兇殺案中成為主要嫌疑犯，而整個團隊也被要求移交此案件。但最後還是其他團員發現線索，證明了霍克的清白。
 
 <!-- end list -->
 
@@ -94,8 +86,7 @@
 
 <!-- end list -->
 
-  - **[唐·弗拉克](https://zh.wikipedia.org/wiki/唐·弗拉克 "wikilink")（）探員：[艾迪·卡希爾](https://zh.wikipedia.org/wiki/艾迪·卡希爾 "wikilink")（[Eddie
-    Cahill](https://zh.wikipedia.org/wiki/埃迪·卡希爾 "wikilink")）飾演**，來自一個世代從事執法工作的家族。他是紐約警局舊式辦案風格與新時代的之間的橋樑。
+  - **[唐·弗拉克](https://zh.wikipedia.org/wiki/唐·弗拉克 "wikilink")（）探員：[艾迪·卡希爾](https://zh.wikipedia.org/wiki/艾迪·卡希爾 "wikilink")（[Eddie Cahill](https://zh.wikipedia.org/wiki/埃迪·卡希爾 "wikilink")）飾演**，來自一個世代從事執法工作的家族。他是紐約警局舊式辦案風格與新時代的之間的橋樑。
 
 <!-- end list -->
 
@@ -109,20 +100,17 @@
 
 <!-- end list -->
 
-  - **[琳賽·夢露](../Page/琳賽·夢露.md "wikilink")：[安娜·貝爾納普飾演](../Page/安娜·貝爾納普.md "wikilink")**，鑑識科學家，在艾婷·波恩被解僱之後從[蒙大拿州調過來](../Page/蒙大拿州.md "wikilink")。
+  - **[琳賽·夢露](../Page/琳賽·夢露.md "wikilink")：[安娜·貝爾納普](../Page/安娜·貝爾納普.md "wikilink")飾演**，鑑識科學家，在艾婷·波恩被解僱之後從[蒙大拿州](../Page/蒙大拿州.md "wikilink")調過來。
 
 <!-- end list -->
 
   -
-    來自中西部的琳賽是一名性格爽朗的女孩子，身手矯健，加入不久就完全融入了原來的團隊。在第三季第十二集「Silent
-    Night」中，她在剛到達兇殺現場後就立即離開，神情激動。及後她向史黛拉說出自己曾經是一件兇殺案中唯一的悻存者，而被害者當中有她的朋友。在第三季第十四集「Lying
-    Game」中，她被要求回到蒙大拿為這件兇殺出庭作證，因而短暫地離開了團隊。
+    來自中西部的琳賽是一名性格爽朗的女孩子，身手矯健，加入不久就完全融入了原來的團隊。在第三季第十二集「Silent Night」中，她在剛到達兇殺現場後就立即離開，神情激動。及後她向史黛拉說出自己曾經是一件兇殺案中唯一的悻存者，而被害者當中有她的朋友。在第三季第十四集「Lying Game」中，她被要求回到蒙大拿為這件兇殺出庭作證，因而短暫地離開了團隊。
 
 <!-- end list -->
 
   -
-    丹尼不時表現出對琳賽的興趣；第三季第三集「Love Run
-    Cold」中，當丹尼向琳賽表示他對她有好感時，琳賽承認自己對丹尼也有好感，但因為個人的問題而不希望有進一步的發展。第五季的第九集琳賽懷孕，第十集丹尼求婚，但琳賽拒絕了，因為她認為丹尼還沒準備好要結婚。但丹尼還是在第五季第十七集求婚成功，由麥克跟史黛拉擔任[證婚人](https://zh.wikipedia.org/wiki/證婚人 "wikilink")，並於第二十三集誕下一女。
+    丹尼不時表現出對琳賽的興趣；第三季第三集「Love Run Cold」中，當丹尼向琳賽表示他對她有好感時，琳賽承認自己對丹尼也有好感，但因為個人的問題而不希望有進一步的發展。第五季的第九集琳賽懷孕，第十集丹尼求婚，但琳賽拒絕了，因為她認為丹尼還沒準備好要結婚。但丹尼還是在第五季第十七集求婚成功，由麥克跟史黛拉擔任[證婚人](https://zh.wikipedia.org/wiki/證婚人 "wikilink")，並於第二十三集誕下一女。
 
 <!-- end list -->
 
@@ -135,8 +123,7 @@
 
 <!-- end list -->
 
-  - **[亞當](https://zh.wikipedia.org/wiki/亞當_\(CSI犯罪現場角色\) "wikilink")（）：[A.J.
-    Buckley飾演](../Page/A·J·巴克利.md "wikilink")**，實驗室技師。在第4季虛擬世界殺人案中，他發揮電腦專長。第5季開始到現場勘驗。
+  - **[亞當](https://zh.wikipedia.org/wiki/亞當_\(CSI犯罪現場角色\) "wikilink")（）：[A.J. Buckley飾演](../Page/A·J·巴克利.md "wikilink")**，實驗室技師。在第4季虛擬世界殺人案中，他發揮電腦專長。第5季開始到現場勘驗。
 
 ### 配角
 
@@ -149,8 +136,7 @@
 
 ### 離開的角色
 
-  - 艾婷·波恩（）探員：
-    飾演，她土生土長於[布魯克林區](https://zh.wikipedia.org/wiki/布魯克林區 "wikilink")，具有可以快速適應新情境的能力。
+  - 艾婷·波恩（）探員： 飾演，她土生土長於[布魯克林區](https://zh.wikipedia.org/wiki/布魯克林區 "wikilink")，具有可以快速適應新情境的能力。
 
 <!-- end list -->
 
@@ -159,23 +145,17 @@
 
 <!-- end list -->
 
-  - 史黛拉·波納席拉（）探員：
-    飾演，把自己完全奉獻給工作。她常常被叫做「[自由女神](https://zh.wikipedia.org/wiki/自由女神 "wikilink")」，因為她強硬的個性、強烈的決心、以及高度的智慧使然。她是一半[希臘](https://zh.wikipedia.org/wiki/希臘 "wikilink")、一半[義大利血統的孤兒](https://zh.wikipedia.org/wiki/義大利 "wikilink")，從小在[寄養家庭中長大](https://zh.wikipedia.org/wiki/寄養家庭 "wikilink")。她跟麥克是非常好的朋友，總是擔心他的生理與心理的狀態。
+  - 史黛拉·波納席拉（）探員： 飾演，把自己完全奉獻給工作。她常常被叫做「[自由女神](https://zh.wikipedia.org/wiki/自由女神 "wikilink")」，因為她強硬的個性、強烈的決心、以及高度的智慧使然。她是一半[希臘](https://zh.wikipedia.org/wiki/希臘 "wikilink")、一半[義大利血統的孤兒](https://zh.wikipedia.org/wiki/義大利 "wikilink")，從小在[寄養家庭中長大](https://zh.wikipedia.org/wiki/寄養家庭 "wikilink")。她跟麥克是非常好的朋友，總是擔心他的生理與心理的狀態。
 
 <!-- end list -->
 
   -
-    第二季「全面通行」中，史黛拉被精神狀態不穩的男友禁錮於她的家中，並且嘗試殺害她。最後史黛拉被迫因自衛而開槍殺死男友，但她卻受了很大的精神傷害。在第三季的「Heart
-    of Glass」中，她被兇案現場的染血玻璃割傷，及後發現死者是愛滋病患者，她也有可能會被感染；在第20集「What Schemes
-    May Come」中，檢測由Adam Ross進行；在第21集「Past
-    Imperfect」，得知檢測結果為HIV陰性。在第四季第十六集中，史黛拉所住的公寓失火，牽扯出失蹤兒童案。在第七季起離開劇組。The
-    34th floor中交代了她到紐爾良就任CSI隊長。
+    第二季「全面通行」中，史黛拉被精神狀態不穩的男友禁錮於她的家中，並且嘗試殺害她。最後史黛拉被迫因自衛而開槍殺死男友，但她卻受了很大的精神傷害。在第三季的「Heart of Glass」中，她被兇案現場的染血玻璃割傷，及後發現死者是愛滋病患者，她也有可能會被感染；在第20集「What Schemes May Come」中，檢測由Adam Ross進行；在第21集「Past Imperfect」，得知檢測結果為HIV陰性。在第四季第十六集中，史黛拉所住的公寓失火，牽扯出失蹤兒童案。在第七季起離開劇組。The 34th floor中交代了她到紐爾良就任CSI隊長。
 
 <!-- end list -->
 
   -
-    CBS對外表示「我們希望她續約，但是也尊重她選擇離開」，並且肯定她六年來精采的演出；Melina
-    Kanakaredes也表示很珍惜六年在CSI:NY的演出與製作單位同仁的友誼。
+    CBS對外表示「我們希望她續約，但是也尊重她選擇離開」，並且肯定她六年來精采的演出；Melina Kanakaredes也表示很珍惜六年在CSI:NY的演出與製作單位同仁的友誼。
 
 <!-- end list -->
 
@@ -184,9 +164,7 @@
 <!-- end list -->
 
   -
-    安琪與第三季起即有登場，但一開始名字為Jennifer Angell，第四季起改名為Jessica
-    Angell。在第五季帶著證人Conner
-    Dunbrook吃早餐時遭受攻擊，受到嚴重的槍傷後送醫不治。
+    安琪與第三季起即有登場，但一開始名字為Jennifer Angell，第四季起改名為Jessica Angell。在第五季帶著證人Conner Dunbrook吃早餐時遭受攻擊，受到嚴重的槍傷後送醫不治。
 
 ## 集名列表
 
@@ -195,30 +173,14 @@
 ## 參見
 
   - [CSI犯罪現場](../Page/CSI犯罪現場.md "wikilink")
-  - [CSI犯罪現場:
-    邁阿密](https://zh.wikipedia.org/wiki/CSI犯罪現場:_邁阿密 "wikilink")
+  - [CSI犯罪現場: 邁阿密](https://zh.wikipedia.org/wiki/CSI犯罪現場:_邁阿密 "wikilink")
 
 ## 参考文献
 
 ## 外部連結
 
   -
-[Category:CSI犯罪現場](https://zh.wikipedia.org/wiki/Category:CSI犯罪現場 "wikilink")
-[Category:2000年代美國電視劇](https://zh.wikipedia.org/wiki/Category:2000年代美國電視劇 "wikilink")
-[Category:2004年開播的美國電視影集](https://zh.wikipedia.org/wiki/Category:2004年開播的美國電視影集 "wikilink")
-[Category:2010年代美國電視劇](https://zh.wikipedia.org/wiki/Category:2010年代美國電視劇 "wikilink")
-[Category:2013年停播的美國電視影集](https://zh.wikipedia.org/wiki/Category:2013年停播的美國電視影集 "wikilink")
-[Category:英語電視劇](https://zh.wikipedia.org/wiki/Category:英語電視劇 "wikilink")
-[Category:美國劇情電視劇](https://zh.wikipedia.org/wiki/Category:美國劇情電視劇 "wikilink")
-[Category:美国犯罪电视剧](https://zh.wikipedia.org/wiki/Category:美国犯罪电视剧 "wikilink")
-[Category:警匪電視劇](https://zh.wikipedia.org/wiki/Category:警匪電視劇 "wikilink")
-[Category:電視影集衍生作品](https://zh.wikipedia.org/wiki/Category:電視影集衍生作品 "wikilink")
-[Category:紐約市背景電視節目](https://zh.wikipedia.org/wiki/Category:紐約市背景電視節目 "wikilink")
-[Category:CBS電視節目](https://zh.wikipedia.org/wiki/Category:CBS電視節目 "wikilink")
-[Category:CBS電視工作室製作的電視節目](https://zh.wikipedia.org/wiki/Category:CBS電視工作室製作的電視節目 "wikilink")
-[Category:亞洲電視外購劇集](https://zh.wikipedia.org/wiki/Category:亞洲電視外購劇集 "wikilink")
-[Category:福斯傳媒集團外購電視劇](https://zh.wikipedia.org/wiki/Category:福斯傳媒集團外購電視劇 "wikilink")
-[Category:索尼影業電視外購電視劇](https://zh.wikipedia.org/wiki/Category:索尼影業電視外購電視劇 "wikilink")
+[Category:CSI犯罪現場](https://zh.wikipedia.org/wiki/Category:CSI犯罪現場 "wikilink") [Category:2000年代美國電視劇](https://zh.wikipedia.org/wiki/Category:2000年代美國電視劇 "wikilink") [Category:2004年開播的美國電視影集](https://zh.wikipedia.org/wiki/Category:2004年開播的美國電視影集 "wikilink") [Category:2010年代美國電視劇](https://zh.wikipedia.org/wiki/Category:2010年代美國電視劇 "wikilink") [Category:2013年停播的美國電視影集](https://zh.wikipedia.org/wiki/Category:2013年停播的美國電視影集 "wikilink") [Category:英語電視劇](https://zh.wikipedia.org/wiki/Category:英語電視劇 "wikilink") [Category:美國劇情電視劇](https://zh.wikipedia.org/wiki/Category:美國劇情電視劇 "wikilink") [Category:美国犯罪电视剧](https://zh.wikipedia.org/wiki/Category:美国犯罪电视剧 "wikilink") [Category:警匪電視劇](https://zh.wikipedia.org/wiki/Category:警匪電視劇 "wikilink") [Category:電視影集衍生作品](https://zh.wikipedia.org/wiki/Category:電視影集衍生作品 "wikilink") [Category:紐約市背景電視節目](https://zh.wikipedia.org/wiki/Category:紐約市背景電視節目 "wikilink") [Category:CBS電視節目](https://zh.wikipedia.org/wiki/Category:CBS電視節目 "wikilink") [Category:CBS電視工作室製作的電視節目](https://zh.wikipedia.org/wiki/Category:CBS電視工作室製作的電視節目 "wikilink") [Category:亞洲電視外購劇集](https://zh.wikipedia.org/wiki/Category:亞洲電視外購劇集 "wikilink") [Category:福斯傳媒集團外購電視劇](https://zh.wikipedia.org/wiki/Category:福斯傳媒集團外購電視劇 "wikilink") [Category:索尼影業電視外購電視劇](https://zh.wikipedia.org/wiki/Category:索尼影業電視外購電視劇 "wikilink")
 
 1.  <http://tvbythenumbers.zap2it.com/2012/05/13/report-csi-miami-canceled-csi-ny-renewed/133850/>
 2.  <http://tvbythenumbers.zap2it.com/2012/12/06/cbs-announces-mid-season-lineup-including-premiere-of-golden-boy-and-return-of-rules-of-engagement-survivor-the-amazing-race/160626/>

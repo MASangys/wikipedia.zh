@@ -1,7 +1,4 @@
-**佳能
-EOS-350D**（2005年3月上市）是[佳能公司生產的](../Page/佳能.md "wikilink")[數碼單鏡反光相機](https://zh.wikipedia.org/wiki/數碼單鏡反光相機 "wikilink")，又稱為**EOS
-Kiss Digital N**（[日本市場](../Page/日本.md "wikilink")）或**Digital Rebel
-XT**（[北美市場](https://zh.wikipedia.org/wiki/北美 "wikilink")）。
+**佳能 EOS-350D**（2005年3月上市）是[佳能](../Page/佳能.md "wikilink")公司生產的[數碼單鏡反光相機](https://zh.wikipedia.org/wiki/數碼單鏡反光相機 "wikilink")，又稱為**EOS Kiss Digital N**（[日本](../Page/日本.md "wikilink")市場）或**Digital Rebel XT**（[北美市場](https://zh.wikipedia.org/wiki/北美 "wikilink")）。
 
 ## 參見
 
@@ -18,10 +15,6 @@ XT**（[北美市場](https://zh.wikipedia.org/wiki/北美 "wikilink")）。
 
       - [香港佳能官方網頁](http://www.canon.com.hk/tc/Product/Product.aspx?product_id=10169)
 
-  - [Flickr](../Page/Flickr.md "wikilink"): [Camera Finder: Canon: EOS
-    Digital Rebel
-    XT](http://www.flickr.com/cameras/canon/eos_digital_rebel_xt/)
+  - [Flickr](../Page/Flickr.md "wikilink"): [Camera Finder: Canon: EOS Digital Rebel XT](http://www.flickr.com/cameras/canon/eos_digital_rebel_xt/)
 
-[Category:数码单反相机](https://zh.wikipedia.org/wiki/Category:数码单反相机 "wikilink")
-[Category:佳能相機](https://zh.wikipedia.org/wiki/Category:佳能相機 "wikilink")
-[Category:2008年面世的相機](https://zh.wikipedia.org/wiki/Category:2008年面世的相機 "wikilink")
+[Category:数码单反相机](https://zh.wikipedia.org/wiki/Category:数码单反相机 "wikilink") [Category:佳能相機](https://zh.wikipedia.org/wiki/Category:佳能相機 "wikilink") [Category:2008年面世的相機](https://zh.wikipedia.org/wiki/Category:2008年面世的相機 "wikilink")

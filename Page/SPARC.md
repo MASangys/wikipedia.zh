@@ -1,13 +1,10 @@
 [Sun_UltraSPARCII.jpg](https://zh.wikipedia.org/wiki/File:Sun_UltraSPARCII.jpg "fig:Sun_UltraSPARCII.jpg")
 
-**SPARC**，名稱源自於**可擴充處理器架構**（**S**calable **P**rocessor
-**ARC**hitecture）的縮寫，是一種[RISC](https://zh.wikipedia.org/wiki/RISC "wikilink")[指令集架構](../Page/指令集架構.md "wikilink")，最早於1985年由[昇陽電腦所設計](../Page/昇陽電腦.md "wikilink")，也是**SPARC國際公司**的注冊商標之一。這家公司於1989年成立，其目的是向外界推廣SPARC，以及為該架構進行符合性測試。此外該公司為了擴闊SPARC設計的生態系統，SPARC國際也把標準開放，並授權予多間生產商採用，包括[德州儀器](https://zh.wikipedia.org/wiki/德州儀器 "wikilink")、Cypress半導體、[富士通等](../Page/富士通.md "wikilink")。由於SPARC架構也對外完全開放，因此也出現了完全[開放原始碼的](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")[LEON處理器](https://zh.wikipedia.org/wiki/LEON "wikilink")，這款處理器以[VHDL語言寫成](../Page/VHDL.md "wikilink")，並採用[LGPL授權](https://zh.wikipedia.org/wiki/LGPL "wikilink")。
+**SPARC**，名稱源自於**可擴充處理器架構**（**S**calable **P**rocessor **ARC**hitecture）的縮寫，是一種[RISC](https://zh.wikipedia.org/wiki/RISC "wikilink")[指令集架構](../Page/指令集架構.md "wikilink")，最早於1985年由[昇陽電腦](../Page/昇陽電腦.md "wikilink")所設計，也是**SPARC國際公司**的注冊商標之一。這家公司於1989年成立，其目的是向外界推廣SPARC，以及為該架構進行符合性測試。此外該公司為了擴闊SPARC設計的生態系統，SPARC國際也把標準開放，並授權予多間生產商採用，包括[德州儀器](https://zh.wikipedia.org/wiki/德州儀器 "wikilink")、Cypress半導體、[富士通](../Page/富士通.md "wikilink")等。由於SPARC架構也對外完全開放，因此也出現了完全[開放原始碼的](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")[LEON處理器](https://zh.wikipedia.org/wiki/LEON "wikilink")，這款處理器以[VHDL](../Page/VHDL.md "wikilink")語言寫成，並採用[LGPL授權](https://zh.wikipedia.org/wiki/LGPL "wikilink")。
 
-SPARC架構原設計給工作站使用，及後應用在昇陽、富士通等製造的大型[SMP伺服器上](https://zh.wikipedia.org/wiki/对称多处理机 "wikilink")。而昇陽開發的[Solaris](../Page/Solaris.md "wikilink")[作業系統也是為SPARC設計的系統之一](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，除Solaris外，[NeXTSTEP](../Page/NeXTSTEP.md "wikilink")、[Linux](../Page/Linux.md "wikilink")、[FreeBSD](../Page/FreeBSD.md "wikilink")、[OpenBSD及](../Page/OpenBSD.md "wikilink")[NetBSD系統也提供SPARC版本](../Page/NetBSD.md "wikilink")。
+SPARC架構原設計給工作站使用，及後應用在昇陽、富士通等製造的大型[SMP伺服器上](https://zh.wikipedia.org/wiki/对称多处理机 "wikilink")。而昇陽開發的[Solaris](../Page/Solaris.md "wikilink")[作業系統也是為SPARC設計的系統之一](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，除Solaris外，[NeXTSTEP](../Page/NeXTSTEP.md "wikilink")、[Linux](../Page/Linux.md "wikilink")、[FreeBSD](../Page/FreeBSD.md "wikilink")、[OpenBSD](../Page/OpenBSD.md "wikilink")及[NetBSD](../Page/NetBSD.md "wikilink")系統也提供SPARC版本。
 
-現時最新版本的SPARC為第8及第9版，在2005年12月，昇陽方面宣佈其[UltraSPARC
-T1處理器將採用開放原始碼方式](../Page/UltraSPARC_T1.md "wikilink")。2007年，[昇陽電腦宣佈](../Page/昇陽電腦.md "wikilink")[UltraSPARC
-T2處理器已經加入](../Page/UltraSPARC_T2.md "wikilink")[OpenSPARC開放原始碼計劃](../Page/OpenSPARC.md "wikilink")。
+現時最新版本的SPARC為第8及第9版，在2005年12月，昇陽方面宣佈其[UltraSPARC T1處理器將採用開放原始碼方式](../Page/UltraSPARC_T1.md "wikilink")。2007年，[昇陽電腦](../Page/昇陽電腦.md "wikilink")宣佈[UltraSPARC T2處理器已經加入](../Page/UltraSPARC_T2.md "wikilink")[OpenSPARC](../Page/OpenSPARC.md "wikilink")開放原始碼計劃。
 
 ## SPARC 微處理器規格
 
@@ -585,7 +582,6 @@ T2處理器已經加入](../Page/UltraSPARC_T2.md "wikilink")[OpenSPARC開放原
 
 ## 參考文獻
 
-[Category:Sun微处理器](https://zh.wikipedia.org/wiki/Category:Sun微处理器 "wikilink")
-[Category:SPARC微处理器架构](https://zh.wikipedia.org/wiki/Category:SPARC微处理器架构 "wikilink")
+[Category:Sun微处理器](https://zh.wikipedia.org/wiki/Category:Sun微处理器 "wikilink") [Category:SPARC微处理器架构](https://zh.wikipedia.org/wiki/Category:SPARC微处理器架构 "wikilink")
 
 1.

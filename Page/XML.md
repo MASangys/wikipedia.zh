@@ -1,4 +1,4 @@
-**可扩展标记语言**（，简称：）是一种[标记语言](https://zh.wikipedia.org/wiki/标记语言 "wikilink")。标记指[计算机所能理解的信息符号](https://zh.wikipedia.org/wiki/计算机 "wikilink")，通过此种标记，[计算机之间可以处理包含各种信息的文章等](https://zh.wikipedia.org/wiki/電腦 "wikilink")。如何定义这些标记，既可以选择国际通用的标记语言，比如[HTML](../Page/HTML.md "wikilink")，也可以使用像XML这样由相关人士自由决定的标记语言，这就是语言的可扩展性。XML是从[标准通用标记语言](https://zh.wikipedia.org/wiki/标准通用标记语言 "wikilink")（SGML）中简化修改出来的。它主要用到的有可扩展标记语言、[可扩展样式语言](../Page/可扩展样式语言.md "wikilink")（XSL）、[XBRL和](https://zh.wikipedia.org/wiki/XBRL "wikilink")[XPath等](../Page/XPath.md "wikilink")。
+**可扩展标记语言**（，简称：）是一种[标记语言](https://zh.wikipedia.org/wiki/标记语言 "wikilink")。标记指[计算机所能理解的信息符号](https://zh.wikipedia.org/wiki/计算机 "wikilink")，通过此种标记，[计算机之间可以处理包含各种信息的文章等](https://zh.wikipedia.org/wiki/電腦 "wikilink")。如何定义这些标记，既可以选择国际通用的标记语言，比如[HTML](../Page/HTML.md "wikilink")，也可以使用像XML这样由相关人士自由决定的标记语言，这就是语言的可扩展性。XML是从[标准通用标记语言](https://zh.wikipedia.org/wiki/标准通用标记语言 "wikilink")（SGML）中简化修改出来的。它主要用到的有可扩展标记语言、[可扩展样式语言](../Page/可扩展样式语言.md "wikilink")（XSL）、[XBRL和](https://zh.wikipedia.org/wiki/XBRL "wikilink")[XPath](../Page/XPath.md "wikilink")等。
 
 ## 历史
 
@@ -9,8 +9,7 @@ GML的重要概念：
   - 文件中能夠明確的將標示與內容分開
   - 所有文件的標示使用方法均一致
 
-1978年，[ANSI將GML加以整理規範](https://zh.wikipedia.org/wiki/ANSI "wikilink")，發佈成為SGML，1986年起為[ISO所採用](https://zh.wikipedia.org/wiki/ISO "wikilink")（ISO
-8879），並且被廣泛地運用在各種大型的文件計劃中，但是SGML是一種非常嚴謹的文件描述法，導致過於龐大複雜（標準手冊就有500多頁），難以理解和學習，進而影響其推廣與應用。
+1978年，[ANSI將GML加以整理規範](https://zh.wikipedia.org/wiki/ANSI "wikilink")，發佈成為SGML，1986年起為[ISO所採用](https://zh.wikipedia.org/wiki/ISO "wikilink")（ISO 8879），並且被廣泛地運用在各種大型的文件計劃中，但是SGML是一種非常嚴謹的文件描述法，導致過於龐大複雜（標準手冊就有500多頁），難以理解和學習，進而影響其推廣與應用。
 
 同時W3C也發現到HTML的問題：
 
@@ -28,12 +27,9 @@ XML被廣泛用來作為跨平台之間交互數據的形式，主要針對數�
 
 ## 用途
 
-[RecipeBook_XML_Example.svg](https://zh.wikipedia.org/wiki/File:RecipeBook_XML_Example.svg "fig:RecipeBook_XML_Example.svg"),
-[PDF以及](https://zh.wikipedia.org/wiki/Portable_Document_Format "wikilink")[Rich
-Text
-Format並使用](https://zh.wikipedia.org/wiki/Rich_Text_Format "wikilink")[程式語言或](https://zh.wikipedia.org/wiki/程式語言 "wikilink")[XSL](https://zh.wikipedia.org/wiki/可擴充套件樣式語言 "wikilink")。\]\]
+[RecipeBook_XML_Example.svg](https://zh.wikipedia.org/wiki/File:RecipeBook_XML_Example.svg "fig:RecipeBook_XML_Example.svg"), [PDF以及](https://zh.wikipedia.org/wiki/Portable_Document_Format "wikilink")[Rich Text Format並使用](https://zh.wikipedia.org/wiki/Rich_Text_Format "wikilink")[程式語言或](https://zh.wikipedia.org/wiki/程式語言 "wikilink")[XSL](https://zh.wikipedia.org/wiki/可擴充套件樣式語言 "wikilink")。\]\]
 
-XML设计用来传送及携带数据信息，不用来表现或展示数据，[HTML則用来表现数据](../Page/HTML.md "wikilink")，所以XML用途的焦点是它说明数据是什么，以及携带数据信息。
+XML设计用来传送及携带数据信息，不用来表现或展示数据，[HTML](../Page/HTML.md "wikilink")則用来表现数据，所以XML用途的焦点是它说明数据是什么，以及携带数据信息。
 
   - 丰富文件（Rich Documents）- 自定文件描述并使其更丰富
       - 属于文件为主的XML技术应用
@@ -47,9 +43,7 @@ XML设计用来传送及携带数据信息，不用来表现或展示数据，[H
 
 ### 字符（characters）
 
-XML 1.0规范允许的（转义后的最终解码值）合法字符：
-\#x9（水平制表符）、\#xA（回车符）、\#xD（换行符）、\#x20-\#xD7FF、\#xE000-\#xFFFD、\#x10000-\#x10FFFF。即任何Unicode字符，不包含surrogate
-blocks, FFFE, FFFF。
+XML 1.0规范允许的（转义后的最终解码值）合法字符： \#x9（水平制表符）、\#xA（回车符）、\#xD（换行符）、\#x20-\#xD7FF、\#xE000-\#xFFFD、\#x10000-\#x10FFFF。即任何Unicode字符，不包含surrogate blocks, FFFE, FFFF。
 
 XML规范定义了5个"预定义实体"来表示特殊字符. XML也允许在每个文档定义任意数量的其它命名实体.
 
@@ -69,14 +63,11 @@ XML处理器（Processor，也称作XML parser）分析标记语言并传递结�
 
 ### 标记（Markup）与内容（content）
 
-XML文档的字符分为标记（Markup）与内容（content）两类。标记通常以`<`开头，以`>`结尾；或者以字符`&`
-开头，以`;`结尾。不是标记的字符就是内容。但是[CDATA部分](../Page/CDATA.md "wikilink")，分解符号与`]]>`是标记，二者之间的文本为内容。
-最外界的空白符是标记。
+XML文档的字符分为标记（Markup）与内容（content）两类。标记通常以`<`开头，以`>`结尾；或者以字符`&` 开头，以`;`结尾。不是标记的字符就是内容。但是[CDATA](../Page/CDATA.md "wikilink")部分，分解符号与`]]>`是标记，二者之间的文本为内容。 最外界的空白符是标记。
 
 ### 標籤（Tag）
 
-一个*tag*属于标记结构，以`<`开头，以`>`结尾。Tag名字是大小写敏感，不能包括任何字符
-\!"\#$%&'()\*+,/;\<=\>?@\[\\\]^\`{|}\~， 也不能有空格符， 不能以"-"或"."或数字开始。可分为三类：
+一个*tag*属于标记结构，以`<`开头，以`>`结尾。Tag名字是大小写敏感，不能包括任何字符 \!"\#$%&'()\*+,/;\<=\>?@\[\\\]^\`{|}\~， 也不能有空格符， 不能以"-"或"."或数字开始。可分为三类：
 
 :\* *start-tag*，如<code>
 
@@ -94,16 +85,13 @@ XML文档的字符分为标记（Markup）与内容（content）两类。标记�
 
 ### 元素（Element）
 
-元素是文档逻辑组成，或者在start-tag与匹配的end-tag之间，或者仅作为一个empty-element
-tag。例如：<greeting>`Hello, world!`</greeting>. 另一个例子是：
-`<line-break />`.
+元素是文档逻辑组成，或者在start-tag与匹配的end-tag之间，或者仅作为一个empty-element tag。例如：<greeting>`Hello, world!`</greeting>. 另一个例子是： `<line-break />`.
 
 单个根（root）元素包含所有的其他元素。
 
 ### 属性（Attribute）
 
-属性是一种标记结构，在start-tag或empty-element
-tag内部的“名字-值对”。例如：<img src="madonna.jpg" alt="Madonna" />。每个元素中，一个属性最多出现一次，一个属性只能有一个值。
+属性是一种标记结构，在start-tag或empty-element tag内部的“名字-值对”。例如：<img src="madonna.jpg" alt="Madonna" />。每个元素中，一个属性最多出现一次，一个属性只能有一个值。
 
 如果属性有多个值，这需要采取XML协议以外的方式来表示，如采用逗号或分号间隔，对于[CSS类或标识符的名字可用空格来分隔](https://zh.wikipedia.org/wiki/CSS "wikilink")。
 
@@ -139,13 +127,11 @@ XML定义结构、存储信息、传送信息。下例為<u>小张</u>发送给<
 
 。这一行代码会告诉解析器或浏览器这个文件应该按照XML规则进行解析。
 
-但是，根元素到底叫<小纸条>还是<小便条>，则是由[文档类型定义](https://zh.wikipedia.org/wiki/文档类型定义 "wikilink")（DTD）或[XML纲要](../Page/XML_Schema.md "wikilink")（XML
-Schema）定义的。如果DTD规定根元素必须叫<小便条>，那么若写作<小纸条>就不符合要求。这种不符合DTD或XML纲要的要求的XML文档，被称作**不合法的XML**，反之则是**合法的XML**。
+但是，根元素到底叫<小纸条>还是<小便条>，则是由[文档类型定义](https://zh.wikipedia.org/wiki/文档类型定义 "wikilink")（DTD）或[XML纲要](../Page/XML_Schema.md "wikilink")（XML Schema）定义的。如果DTD规定根元素必须叫<小便条>，那么若写作<小纸条>就不符合要求。这种不符合DTD或XML纲要的要求的XML文档，被称作**不合法的XML**，反之则是**合法的XML**。
 
 XML文件的第二行并不一定要包含文档元素；如果有注释或者其他内容，文档元素可以迟些出现。
 
-最常見的PI（processing instruction,像XML序言, 卻是不同類型的語法）是用來指定XML文件的樣式表,
-这个PI一般会直接放在XML序言之后，通常由Web浏览器使用，来将XML数据以特殊的样式显示出来。
+最常見的PI（processing instruction,像XML序言, 卻是不同類型的語法）是用來指定XML文件的樣式表, 这个PI一般会直接放在XML序言之后，通常由Web浏览器使用，来将XML数据以特殊的样式显示出来。
 
 XML的结构有一个缺陷，那就是不支持分帧（framing）。当多条XML消息在TCP上传输的时候，无法基于XML协议来确定一条XML消息是否已经结束。
 
@@ -186,8 +172,4 @@ XML的结构有一个缺陷，那就是不支持分帧（framing）。当多条X
 
 {{-}}
 
-[Category:XML](https://zh.wikipedia.org/wiki/Category:XML "wikilink")
-[Category:W3C标准](https://zh.wikipedia.org/wiki/Category:W3C标准 "wikilink")
-[Category:文件格式](https://zh.wikipedia.org/wiki/Category:文件格式 "wikilink")
-[Category:标记语言](https://zh.wikipedia.org/wiki/Category:标记语言 "wikilink")
-[Category:数据序列化格式](https://zh.wikipedia.org/wiki/Category:数据序列化格式 "wikilink")
+[Category:XML](https://zh.wikipedia.org/wiki/Category:XML "wikilink") [Category:W3C标准](https://zh.wikipedia.org/wiki/Category:W3C标准 "wikilink") [Category:文件格式](https://zh.wikipedia.org/wiki/Category:文件格式 "wikilink") [Category:标记语言](https://zh.wikipedia.org/wiki/Category:标记语言 "wikilink") [Category:数据序列化格式](https://zh.wikipedia.org/wiki/Category:数据序列化格式 "wikilink")

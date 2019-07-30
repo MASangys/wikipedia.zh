@@ -1,6 +1,4 @@
-**Discuz\!**是個可免費下載的[PHP](../Page/PHP.md "wikilink")[網絡論壇](https://zh.wikipedia.org/wiki/網絡論壇 "wikilink")[程式](https://zh.wikipedia.org/wiki/程式 "wikilink")，簡稱**DZ**，由[戴志康](https://zh.wikipedia.org/wiki/戴志康 "wikilink")（Crossday）所創立，目前最新版本是Discuz\!
-X3.4。\[1\]前身為Crossday
-Bulletin（CDB），最初改自XMBForum，爾後改寫成為現今的Discuz\!社群論壇程式，由康盛創想所有（現已被[騰訊收購](https://zh.wikipedia.org/wiki/騰訊 "wikilink")）。現在Discuz\!已成為[大中華地區最多用戶使用的論壇程序](https://zh.wikipedia.org/wiki/大中華地區 "wikilink")。
+**Discuz\!**是個可免費下載的[PHP](../Page/PHP.md "wikilink")[網絡論壇](https://zh.wikipedia.org/wiki/網絡論壇 "wikilink")[程式](https://zh.wikipedia.org/wiki/程式 "wikilink")，簡稱**DZ**，由[戴志康](https://zh.wikipedia.org/wiki/戴志康 "wikilink")（Crossday）所創立，目前最新版本是Discuz\! X3.4。\[1\]前身為Crossday Bulletin（CDB），最初改自XMBForum，爾後改寫成為現今的Discuz\!社群論壇程式，由康盛創想所有（現已被[騰訊收購](https://zh.wikipedia.org/wiki/騰訊 "wikilink")）。現在Discuz\!已成為[大中華地區最多用戶使用的論壇程序](https://zh.wikipedia.org/wiki/大中華地區 "wikilink")。
 
 Discuz\!的原始碼可免費下載，但它并不是[開源軟件](https://zh.wikipedia.org/wiki/開源軟件 "wikilink")，因為其許可證不符合開放原始碼的定義。\[2\]\[3\]\[4\]
 
@@ -8,27 +6,15 @@ Discuz\!的原始碼可免費下載，但它并不是[開源軟件](https://zh.w
 
 2001年，Crossday成立Crossday Bulletin（CDB）(即後來Discuz\!)，為Discuz\!的開拓。
 
-2002年3月，Crossday根據網路論壇程式"XMB"的英文版作為核心，開發Crossday
-Bulletin（CDB）。經徹底中文化及改良後，於同月正式發佈Crossday
-Bulletin。後經商業評估，將論壇改名為Discuz\!，並在2002年10月15日發表Discuz\! 1.0。
+2002年3月，Crossday根據網路論壇程式"XMB"的英文版作為核心，開發Crossday Bulletin（CDB）。經徹底中文化及改良後，於同月正式發佈Crossday Bulletin。後經商業評估，將論壇改名為Discuz\!，並在2002年10月15日發表Discuz\! 1.0。
 
-2003年2月，Discuz\!
-2.0以商業軟體發行，後因盜版泛濫而在6月推出免費版本。為防止盜版問題，2003年8月發行的商業版本Discuz\!
-3.0開始以[Zend加密](https://zh.wikipedia.org/wiki/Zend "wikilink")，並於2004年2月成立康盛創想，正式完全商業化。\[5\]
-Discuz\! 2.0
-COML之後的免費版本皆由[FreeDiscuz\!](http://www.freediscuz.net/bbs/)所開發，直到官方自4.0起都以免費發行為止。
+2003年2月，Discuz\! 2.0以商業軟體發行，後因盜版泛濫而在6月推出免費版本。為防止盜版問題，2003年8月發行的商業版本Discuz\! 3.0開始以[Zend加密](https://zh.wikipedia.org/wiki/Zend "wikilink")，並於2004年2月成立康盛創想，正式完全商業化。\[5\] Discuz\! 2.0 COML之後的免費版本皆由[FreeDiscuz\!](http://www.freediscuz.net/bbs/)所開發，直到官方自4.0起都以免費發行為止。
 
-2005年9月27日，康盛創想開始販售Discuz\!
-4.0商業版，但因之後[Zend加密技術被攻破](https://zh.wikipedia.org/wiki/Zend "wikilink")，解密程度達95%以上，Discuz\!
-4.0即被破解，造成大亂。同年12月11日，Discuz\!開發團隊宣佈，Discuz\!正式[開放源碼](https://zh.wikipedia.org/wiki/開放源碼 "wikilink")，把Discuz\!
-4.0免費發佈給部分填問卷的用戶，並發佈了“[Discuz\!蚂蚁宣言](http://www.discuz.net/forum.php?mod=viewthread&tid=201053)”。由於Discuz\!
-4.0[開放源碼](https://zh.wikipedia.org/wiki/開放源碼 "wikilink")，FreeDiscuz\!同日宣布不再開發3.0免費版，引起部分用戶不滿。
+2005年9月27日，康盛創想開始販售Discuz\! 4.0商業版，但因之後[Zend加密技術被攻破](https://zh.wikipedia.org/wiki/Zend "wikilink")，解密程度達95%以上，Discuz\! 4.0即被破解，造成大亂。同年12月11日，Discuz\!開發團隊宣佈，Discuz\!正式[開放源碼](https://zh.wikipedia.org/wiki/開放源碼 "wikilink")，把Discuz\! 4.0免費發佈給部分填問卷的用戶，並發佈了“[Discuz\!蚂蚁宣言](http://www.discuz.net/forum.php?mod=viewthread&tid=201053)”。由於Discuz\! 4.0[開放源碼](https://zh.wikipedia.org/wiki/開放源碼 "wikilink")，FreeDiscuz\!同日宣布不再開發3.0免費版，引起部分用戶不滿。
 
-2006年1月1日Discuz\!
-4.0正式免費發佈，從此Discuz\!只有免費發行版本。Discuz\!的技術支持仍然收費，此事件損害了之前的諸多商業版用戶利益，其中包括僅購買了數日的用戶，他們紛紛表示不滿，並曾嘗試組織申訴團，但最終所有都並未申訴。官方对2005年12月12日前购买商业授权的老用户延长了一定的支持时间。
+2006年1月1日Discuz\! 4.0正式免費發佈，從此Discuz\!只有免費發行版本。Discuz\!的技術支持仍然收費，此事件損害了之前的諸多商業版用戶利益，其中包括僅購買了數日的用戶，他們紛紛表示不滿，並曾嘗試組織申訴團，但最終所有都並未申訴。官方对2005年12月12日前购买商业授权的老用户延长了一定的支持时间。
 
-從Discuz\!
-4.0開始每年都會推出一次大改版，並從4.0起，因功能迎合華人的口味，Discuz\!從小眾形態快速成為中文語系地區最廣泛的論壇系統，中國絕大多數論壇都使用Discuz\!。從6.1.0開始，因強行捆綁UCenter而引來不少批評，后来内置于论坛程序中，关于UCenter的指责减少。最新的X3.0已於2013年5月9日推出。\[6\]
+從Discuz\! 4.0開始每年都會推出一次大改版，並從4.0起，因功能迎合華人的口味，Discuz\!從小眾形態快速成為中文語系地區最廣泛的論壇系統，中國絕大多數論壇都使用Discuz\!。從6.1.0開始，因強行捆綁UCenter而引來不少批評，后来内置于论坛程序中，关于UCenter的指责减少。最新的X3.0已於2013年5月9日推出。\[6\]
 
 2010年8月23日公告[騰訊已與開發Discuz](https://zh.wikipedia.org/wiki/騰訊 "wikilink")\!的康盛創想達成收購協議，康盛創想成為騰訊的全資子公司。\[7\]
 
@@ -65,9 +51,9 @@ COML之後的免費版本皆由[FreeDiscuz\!](http://www.freediscuz.net/bbs/)所
 | **Discuz\! 5**        | 5.0.0 RC1\[12\]                     | 2006年7月19日                                                                                                                                                      | 5.0.0首個候選版。                                 |
 | 5.0.0 RC2\[13\]       | 2006年8月21日                          | 5.0.0第二個候選版。                                                                                                                                                    |                                             |
 | 5.0.0\[14\]           | 2006年9月1日                           | 新增多樣式主題，融入更多[Web 2.0元素](../Page/Web_2.0.md "wikilink")，整合X-Space個人門戶系統並支援SupeSite，更穩定安全的交易系統，後台布局大變動。                                                           |                                             |
-| 5.5.0\[15\]           | 2007年3月12日                          | 新增MiniSpace功能，改善X-Space，可自定論壇說明頁面，獨立風格系統，加入[AJAX元素](../Page/AJAX.md "wikilink")，修正外觀與安全性問題。                                                                     |                                             |
+| 5.5.0\[15\]           | 2007年3月12日                          | 新增MiniSpace功能，改善X-Space，可自定論壇說明頁面，獨立風格系統，加入[AJAX](../Page/AJAX.md "wikilink")元素，修正外觀與安全性問題。                                                                     |                                             |
 | **Discuz\! 6**        | 6.0.0 RC1\[16\]                     | 2007年7月25日                                                                                                                                                      | 6.0.0候選版。                                   |
-| 6.0.0\[17\]           | 2007年8月28日                          | 加入更多[AJAX元素](../Page/AJAX.md "wikilink")，增加Insenz社區營銷服務，新增標籖（tag）功能，增加多個討論功能，強化交易功能，對SEO也強化，首見中文[驗證碼](https://zh.wikipedia.org/wiki/驗證碼 "wikilink")，強化安全性與發文功能。 |                                             |
+| 6.0.0\[17\]           | 2007年8月28日                          | 加入更多[AJAX](../Page/AJAX.md "wikilink")元素，增加Insenz社區營銷服務，新增標籖（tag）功能，增加多個討論功能，強化交易功能，對SEO也強化，首見中文[驗證碼](https://zh.wikipedia.org/wiki/驗證碼 "wikilink")，強化安全性與發文功能。 |                                             |
 | 6.1.0\[18\]           | 2008年4月21日                          | 對會員功能與標籖修正與強化，管理機制亦有改進，驗證碼、頭像、上傳圖檔也有改良。                                                                                                                         |                                             |
 | **Discuz\! 7**        | 7.0.0 Beta\[19\]                    | 2008年11月3日                                                                                                                                                      | 7.0.0首個公眾測試版。                               |
 | 7.0.0\[20\]           | 2008年12月12日                         | 可選擇整合UCenter 1.5，或獨立的版本。風格系統完全改寫，網頁布局大變動，引入多個新風格。大量運用[AJAX](../Page/AJAX.md "wikilink")，對用戶使用與論壇管理的流程進行改善。新增了邊欄系統，可高自由度自定義。                                     |                                             |
@@ -131,10 +117,9 @@ Discuz版本號系列分為非X系列(例如Discuz 7.2)、Discuz X系列(例如D
 
 ### 架構層面
 
-  - 大量運用[AJAX以加快使用流程](../Page/AJAX.md "wikilink")。
+  - 大量運用[AJAX](../Page/AJAX.md "wikilink")以加快使用流程。
   - 內建多種大膽變革之風格，風格系統模板化，有可視化編輯器，並可一鍵安裝或移除風格、插件。
-  - 以[PHP為核心](../Page/PHP.md "wikilink")，具跨平台特性，可使用[Apache](https://zh.wikipedia.org/wiki/Apache "wikilink")（或[Microsoft
-    Windows中的](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[IIS](https://zh.wikipedia.org/wiki/IIS "wikilink")）配合[MySQL運行Discuz](../Page/MySQL.md "wikilink")\!。
+  - 以[PHP](../Page/PHP.md "wikilink")為核心，具跨平台特性，可使用[Apache](https://zh.wikipedia.org/wiki/Apache "wikilink")（或[Microsoft Windows中的](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[IIS](https://zh.wikipedia.org/wiki/IIS "wikilink")）配合[MySQL](../Page/MySQL.md "wikilink")運行Discuz\!。
   - 可與插件整合，如[SupeSite](../Page/SupeSite.md "wikilink")、[X-Space](https://zh.wikipedia.org/wiki/X-Space "wikilink")、[SiteEngine](https://zh.wikipedia.org/wiki/SiteEngine "wikilink")、[ShopEx等等](https://zh.wikipedia.org/wiki/ShopEx "wikilink")，可在論壇使用也可以只在管理界面裡使用。
   - 可對於論壇程序以及模板進行擴充。
   - 支持插件钩子扩展，插件机制完善
@@ -143,28 +128,21 @@ Discuz版本號系列分為非X系列(例如Discuz 7.2)、Discuz X系列(例如D
 
 ### Discuz\!NT
 
-**[Discuz\!NT](../Page/Discuz!NT.md "wikilink")**由Discuz\!NT開發團隊開發，此版本由[C\#语言编写而成](../Page/C♯.md "wikilink")，使用[ASP.NET技术](../Page/ASP.NET.md "wikilink")。官方論壇[Discuz\!NT官方論壇](http://nt.discuz.net/)有最新版本下載。
+**[Discuz\!NT](../Page/Discuz!NT.md "wikilink")**由Discuz\!NT開發團隊開發，此版本由[C\#语言编写而成](../Page/C♯.md "wikilink")，使用[ASP.NET](../Page/ASP.NET.md "wikilink")技术。官方論壇[Discuz\!NT官方論壇](http://nt.discuz.net/)有最新版本下載。
 
 ### Discuz\! Lite
 
-由FreeDiscuz\!開發的Discuz\!
-Lite與Discuz\!同樣運行於[PHP以及](../Page/PHP.md "wikilink")[MySQL](../Page/MySQL.md "wikilink")，目前正公開測試，可在[FreeDiscuz\!](http://www.freediscuz.net/bbs/)下載。此版本由FreeDiscuz\!
-管理團隊一名來自香港的成員於2003年提出，最終於2006年官方技術團隊正式採納建議，進行前期開發工作。
+由FreeDiscuz\!開發的Discuz\! Lite與Discuz\!同樣運行於[PHP](../Page/PHP.md "wikilink")以及[MySQL](../Page/MySQL.md "wikilink")，目前正公開測試，可在[FreeDiscuz\!](http://www.freediscuz.net/bbs/)下載。此版本由FreeDiscuz\! 管理團隊一名來自香港的成員於2003年提出，最終於2006年官方技術團隊正式採納建議，進行前期開發工作。
 
 ### Discuz\! 6.1.0F
 
-由FreeDiscuz\!製作去除了UCenter的版本，可在[FreeDiscuz\!](http://www.freediscuz.net/bbs/)下载。不過FreeDiscuz\!已經宣布，不會開發對應Discuz\!
-7的Discuz\! 7.0F，而是繼續維護Discuz\! 6.1.0F，並將把Discuz\! 7的部分模塊移植上Discuz\!
-6.1.0F。\[39\]
+由FreeDiscuz\!製作去除了UCenter的版本，可在[FreeDiscuz\!](http://www.freediscuz.net/bbs/)下载。不過FreeDiscuz\!已經宣布，不會開發對應Discuz\! 7的Discuz\! 7.0F，而是繼續維護Discuz\! 6.1.0F，並將把Discuz\! 7的部分模塊移植上Discuz\! 6.1.0F。\[39\]
 
 ## 批評
 
 ### 國際化
 
-一直以來Discuz\!只有[簡體中文與](https://zh.wikipedia.org/wiki/簡體中文 "wikilink")[繁體中文版本](https://zh.wikipedia.org/wiki/繁體中文 "wikilink")，而[英文版本一直被收藏在簡體及繁體中文版的Discuz](https://zh.wikipedia.org/wiki/英文 "wikilink")\!\[40\]，6.0.0開始更沒有官方英文版，目前Discuz\!的使用範圍僅限於[華人圈](https://zh.wikipedia.org/wiki/華人 "wikilink")。2010年起，Comsenz與[Msg2me
-Translation
-Group](http://www.msg2me.com/)合作推出discuz英文版与其它语种版本，填補了該項空白，除此之外有少數第三方網站開發非官方語系，知名的有[泰語的](https://zh.wikipedia.org/wiki/泰語 "wikilink")[Discuz
-Thai\!](http://www.discuzthai.com/)。
+一直以來Discuz\!只有[簡體中文與](https://zh.wikipedia.org/wiki/簡體中文 "wikilink")[繁體中文版本](https://zh.wikipedia.org/wiki/繁體中文 "wikilink")，而[英文版本一直被收藏在簡體及繁體中文版的Discuz](https://zh.wikipedia.org/wiki/英文 "wikilink")\!\[40\]，6.0.0開始更沒有官方英文版，目前Discuz\!的使用範圍僅限於[華人圈](https://zh.wikipedia.org/wiki/華人 "wikilink")。2010年起，Comsenz與[Msg2me Translation Group](http://www.msg2me.com/)合作推出discuz英文版与其它语种版本，填補了該項空白，除此之外有少數第三方網站開發非官方語系，知名的有[泰語的](https://zh.wikipedia.org/wiki/泰語 "wikilink")[Discuz Thai\!](http://www.discuzthai.com/)。
 
 開發團隊稱其可透過修改模板系統裡的檔案來實現[國際化與本地化的機制](https://zh.wikipedia.org/wiki/國際化與本地化 "wikilink")。繁體中文版本是簡單使用轉換機將簡體中文轉換到繁體中文，使得繁體中文版也充斥眾多[中國大陸的用語](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")，例如**数-{}-据库**相對香港、澳門與台灣的**資-{}-料庫**。
 
@@ -176,21 +154,17 @@ Discuz\!占用的MySQL數據表和論壇程式較肥大，主要原因是預設�
 
 由於Discuz\!早期抄襲XMB論壇系統，<ref>戴志康表示Discuz\!抄襲XMB：
 
-> 很多人吃慣了免費的午餐，所以我開始收費時他們都想不通，有人在論壇上詆毀Discuz\!和我的人格，甚至說我設計的Discuz\!是抄襲的。當時，我很難過。CDB確實是從XMB改進過來的，但是後來新開發的Discuz\!尤其是Discuz\!
-> 2.0以後的產品，全部技術都是我們自己開發的。
+> 很多人吃慣了免費的午餐，所以我開始收費時他們都想不通，有人在論壇上詆毀Discuz\!和我的人格，甚至說我設計的Discuz\!是抄襲的。當時，我很難過。CDB確實是從XMB改進過來的，但是後來新開發的Discuz\!尤其是Discuz\! 2.0以後的產品，全部技術都是我們自己開發的。
 
 </ref>被指違反XMB的[GPL的牌照](https://zh.wikipedia.org/wiki/GPL "wikilink")。當康盛創想提出收費更收到不少的攻擊。雖然後來康盛聲稱擁有Discuz\!獨立的知識產權，不過卻引來了爭議。
 
 ### 程式編碼
 
-Discuz\!
-开发过程中未大量使用[OOP方式](https://zh.wikipedia.org/wiki/OOP "wikilink")，使用函数与类相结合的方式，在多数系统程序中，函数提供具体功能支持，代码风格严谨统一，较容易阅读。
+Discuz\! 开发过程中未大量使用[OOP方式](https://zh.wikipedia.org/wiki/OOP "wikilink")，使用函数与类相结合的方式，在多数系统程序中，函数提供具体功能支持，代码风格严谨统一，较容易阅读。
 
 ### 強制捆綁UCenter
 
-由Discuz\!
-6.1.0開始，康盛強制捆綁其產品UCenter，Discuz\!論壇程式不再以獨立程序發佈。由於UCenter對伺服器需求高，很多免費網頁寄存空間並沒有能力寄存，故引起大量用戶不滿，並拒絕將論壇升級到6.1.0，更有用戶「跳槽」至主要對手[PHPWind或](../Page/PHPWind.md "wikilink")[phpBB](https://zh.wikipedia.org/wiki/phpBB "wikilink")。针对用户不满，FreeDiscuz\!利用自身优势，开发自捆绑UCenter的Discuz\!
-6.1.0F，给用户更多选择，挽回一部分失望的用户。延后版本中，提供自动带有UCenter的Discuz\!版本，许多用户便不再有“被强行捆绑”的感觉，但其实UCenter已随Discuz\!安装。
+由Discuz\! 6.1.0開始，康盛強制捆綁其產品UCenter，Discuz\!論壇程式不再以獨立程序發佈。由於UCenter對伺服器需求高，很多免費網頁寄存空間並沒有能力寄存，故引起大量用戶不滿，並拒絕將論壇升級到6.1.0，更有用戶「跳槽」至主要對手[PHPWind](../Page/PHPWind.md "wikilink")或[phpBB](https://zh.wikipedia.org/wiki/phpBB "wikilink")。针对用户不满，FreeDiscuz\!利用自身优势，开发自捆绑UCenter的Discuz\! 6.1.0F，给用户更多选择，挽回一部分失望的用户。延后版本中，提供自动带有UCenter的Discuz\!版本，许多用户便不再有“被强行捆绑”的感觉，但其实UCenter已随Discuz\!安装。
 
 ## 佚事
 
@@ -200,8 +174,7 @@ Discuz\!的第一位商業用戶是“[香港警察俱樂部](http://pcchk.com)�
 
   - [網路論壇](https://zh.wikipedia.org/wiki/網路論壇 "wikilink")
   - [SupeSite](../Page/SupeSite.md "wikilink")
-  - [掌上论坛](https://zh.wikipedia.org/wiki/掌上论坛 "wikilink") -
-    Discuz的手机客户端应用
+  - [掌上论坛](https://zh.wikipedia.org/wiki/掌上论坛 "wikilink") - Discuz的手机客户端应用
   - [贝客悦读。掌上论坛聚合手机论坛和Discuz的手机客户端应用](https://zh.wikipedia.org/wiki/贝客悦读。掌上论坛 "wikilink")
 
 ## 类似的程序
@@ -233,9 +206,7 @@ Discuz\!的第一位商業用戶是“[香港警察俱樂部](http://pcchk.com)�
   - [XMB 主页](https://www.xmbforum2.com/)
   - [XMB 源代码](https://sourceforge.net/projects/xmb-forum/)
 
-[Category:用PHP编程的自由软件](https://zh.wikipedia.org/wiki/Category:用PHP编程的自由软件 "wikilink")
-[Category:網絡討論區軟體](https://zh.wikipedia.org/wiki/Category:網絡討論區軟體 "wikilink")
-[Category:康盛創想](https://zh.wikipedia.org/wiki/Category:康盛創想 "wikilink")
+[Category:用PHP编程的自由软件](https://zh.wikipedia.org/wiki/Category:用PHP编程的自由软件 "wikilink") [Category:網絡討論區軟體](https://zh.wikipedia.org/wiki/Category:網絡討論區軟體 "wikilink") [Category:康盛創想](https://zh.wikipedia.org/wiki/Category:康盛創想 "wikilink")
 
 1.
 2.  <http://www.opentech.org.cn/open_technic/OpenTech.php>

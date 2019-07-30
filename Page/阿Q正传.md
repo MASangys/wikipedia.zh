@@ -6,14 +6,14 @@
 
 ## 主題
 
-《阿Q正傳》寫出[辛亥革命並未給農村帶來真正的改革](../Page/辛亥革命.md "wikilink")，並透過農村中貧苦僱農阿Q的藝術形象，影射出人性的劣根性，如卑怯、[精神勝利法](https://zh.wikipedia.org/wiki/精神勝利法 "wikilink")、善於投機、誇大狂與自尊癖等。
+《阿Q正傳》寫出[辛亥革命](../Page/辛亥革命.md "wikilink")並未給農村帶來真正的改革，並透過農村中貧苦僱農阿Q的藝術形象，影射出人性的劣根性，如卑怯、[精神勝利法](https://zh.wikipedia.org/wiki/精神勝利法 "wikilink")、善於投機、誇大狂與自尊癖等。
 
 ## 人物
 
   - 阿Q──小说主人公，社會中的小人物，一窮二白，但自尊心很重。每次遭遇到不幸的事，都會找些似是而非的理由為自己安慰。小說中寫明“Q”為“quei”(ㄍㄨㄟˋ)之縮寫，不過如今大多數人已經習慣按英語字母Q的發音來唸。
   - 趙太爺──鄉紳，阿Q的「米飯班主」，對阿Q甚為苛刻。
   - 吳媽──趙太爺家女工，阿Q曾對她出言不遜。
-  - 小D──亦为底层人物，帮佣为生，曾与阿Q幹架。D為Don之縮寫，[鲁迅表示小D應讀做](../Page/鲁迅.md "wikilink")「小同」，並认为他“长大后也是另一个阿Q”。\[3\]
+  - 小D──亦为底层人物，帮佣为生，曾与阿Q幹架。D為Don之縮寫，[鲁迅](../Page/鲁迅.md "wikilink")表示小D應讀做「小同」，並认为他“长大后也是另一个阿Q”。\[3\]
 
 ## 內容
 
@@ -31,15 +31,15 @@
 
 阿Q这一形象有其复杂的性格，但人物的内心世界并不复杂。在欺压时期用[精神胜利法来使自己获得感情上的平衡](https://zh.wikipedia.org/wiki/精神胜利法 "wikilink")，精神没有执着的追求；相反，玩世不恭的态度反映了[流氓无产者的信念丧失](https://zh.wikipedia.org/wiki/流氓无产阶级 "wikilink")\[4\]。鲁迅“哀其不幸，怒其不争”，当年编者曾放在“开心话”专栏内，其实饱含着沉痛、哀伤，有心人读来并不认为开心。
 
-1937年3月，[毛泽东在](../Page/毛泽东.md "wikilink")[延安和美国作家](../Page/延安市.md "wikilink")[史沫特莱说起](../Page/艾格尼丝·史沫特莱.md "wikilink")《阿Q正传》，评价到中国国内有一部分人是带着阿Q精神，在任何时候都认为自己是胜利的，别人则是失败的。并在1955年10月，七届六中全会上谈不要当“假洋鬼子”，不准别人从事革命\[5\]。
+1937年3月，[毛泽东](../Page/毛泽东.md "wikilink")在[延安和美国作家](../Page/延安市.md "wikilink")[史沫特莱说起](../Page/艾格尼丝·史沫特莱.md "wikilink")《阿Q正传》，评价到中国国内有一部分人是带着阿Q精神，在任何时候都认为自己是胜利的，别人则是失败的。并在1955年10月，七届六中全会上谈不要当“假洋鬼子”，不准别人从事革命\[5\]。
 
-[任继愈认为研究评论](../Page/任继愈.md "wikilink")《阿Q正传》的文章很多，也有写得相当好的，他们从文学方面着眼的多，抓住中国农民的本质来深入剖析的文章却是少见。许多人看不到这一点，嘲笑阿Q的某些缺点、毛病，其实这些毛病人人都有，是中华传统文化长期带来的胎记。[钱理群认为鲁迅直到临死前](https://zh.wikipedia.org/wiki/钱理群 "wikilink")，还为“《阿Q正传》的本意……能了解者不多”而感到“隔膜”，其主要方面就是鲁迅对“阿Q似的革命”的思考不为人们所了解。[鲁迅的感慨](../Page/鲁迅.md "wikilink")“《阿Q正传》的本意，我留心各种评论，觉得能了解者不多。搬上银幕以后，大约也未免隔膜，供人一笑，颇亦无聊，不如不作也。”\[6\]
+[任继愈](../Page/任继愈.md "wikilink")认为研究评论《阿Q正传》的文章很多，也有写得相当好的，他们从文学方面着眼的多，抓住中国农民的本质来深入剖析的文章却是少见。许多人看不到这一点，嘲笑阿Q的某些缺点、毛病，其实这些毛病人人都有，是中华传统文化长期带来的胎记。[钱理群认为鲁迅直到临死前](https://zh.wikipedia.org/wiki/钱理群 "wikilink")，还为“《阿Q正传》的本意……能了解者不多”而感到“隔膜”，其主要方面就是鲁迅对“阿Q似的革命”的思考不为人们所了解。[鲁迅](../Page/鲁迅.md "wikilink")的感慨“《阿Q正传》的本意，我留心各种评论，觉得能了解者不多。搬上银幕以后，大约也未免隔膜，供人一笑，颇亦无聊，不如不作也。”\[6\]
 
 魯迅曾說過，阿Q的身上也有革命的意識，\[7\]但研究者對此探討不多。[汪暉指出](https://zh.wikipedia.org/wiki/汪暉 "wikilink")“阿Q有几次要觉醒的意思。这里说的觉醒不是成为革命者的觉醒，而是对于自己的处境的本能的贴近。……阿Q的革命动力隐伏在他的本能和潜意识里。”\[8\]
 
 ## 地位
 
-该小说被翻译成各种语言。法国文豪[罗曼·罗兰认为](../Page/罗曼·罗兰.md "wikilink")“这部讽刺写实作品是世界性的，法国大革命时也有过阿Q，我永远忘不了阿Q那副苦恼的面孔。”\[9\]\[10\]此外也影响着中国其他的文学家及其著作，比如[老舍先生的](../Page/老舍.md "wikilink")《[猫城记](https://zh.wikipedia.org/wiki/猫城记 "wikilink")》中描写看客的冷漠\[11\]。
+该小说被翻译成各种语言。法国文豪[罗曼·罗兰](../Page/罗曼·罗兰.md "wikilink")认为“这部讽刺写实作品是世界性的，法国大革命时也有过阿Q，我永远忘不了阿Q那副苦恼的面孔。”\[9\]\[10\]此外也影响着中国其他的文学家及其著作，比如[老舍](../Page/老舍.md "wikilink")先生的《[猫城记](https://zh.wikipedia.org/wiki/猫城记 "wikilink")》中描写看客的冷漠\[11\]。
 
 ## 文化影響
 
@@ -61,12 +61,7 @@
 
 {{-}}
 
-[Category:中國農村題材作品](https://zh.wikipedia.org/wiki/Category:中國農村題材作品 "wikilink")
-[Category:中华民国大陆时期小说](https://zh.wikipedia.org/wiki/Category:中华民国大陆时期小说 "wikilink")
-[Category:1921年長篇小說](https://zh.wikipedia.org/wiki/Category:1921年長篇小說 "wikilink")
-[Category:中文中篇小說](https://zh.wikipedia.org/wiki/Category:中文中篇小說 "wikilink")
-[Category:鲁迅作品](https://zh.wikipedia.org/wiki/Category:鲁迅作品 "wikilink")
-[Category:宣統時期背景小說](https://zh.wikipedia.org/wiki/Category:宣統時期背景小說 "wikilink")
+[Category:中國農村題材作品](https://zh.wikipedia.org/wiki/Category:中國農村題材作品 "wikilink") [Category:中华民国大陆时期小说](https://zh.wikipedia.org/wiki/Category:中华民国大陆时期小说 "wikilink") [Category:1921年長篇小說](https://zh.wikipedia.org/wiki/Category:1921年長篇小說 "wikilink") [Category:中文中篇小說](https://zh.wikipedia.org/wiki/Category:中文中篇小說 "wikilink") [Category:鲁迅作品](https://zh.wikipedia.org/wiki/Category:鲁迅作品 "wikilink") [Category:宣統時期背景小說](https://zh.wikipedia.org/wiki/Category:宣統時期背景小說 "wikilink")
 
 1.  鲁迅《1930年10月13日致王乔春书信》，载《[鲁迅全集](../Page/鲁迅全集.md "wikilink")》，第12卷，第26页
 

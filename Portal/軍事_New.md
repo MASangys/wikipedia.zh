@@ -22,7 +22,7 @@
 
 <!-- end list -->
 
-  - 1214年[法蘭西](https://zh.wikipedia.org/wiki/法蘭西 "wikilink")[卡佩王朝贏得了](../Page/卡佩王朝.md "wikilink")**[哪一場戰役](https://zh.wikipedia.org/wiki/布汶戰役 "wikilink")**，同時削弱了[英格蘭](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")[金雀花王朝和](https://zh.wikipedia.org/wiki/金雀花王朝 "wikilink")[神聖羅馬帝國](https://zh.wikipedia.org/wiki/神聖羅馬帝國 "wikilink")[韋爾夫王朝聯盟勢力](https://zh.wikipedia.org/wiki/韋爾夫王朝 "wikilink")？
+  - 1214年[法蘭西](https://zh.wikipedia.org/wiki/法蘭西 "wikilink")[卡佩王朝](../Page/卡佩王朝.md "wikilink")贏得了**[哪一場戰役](https://zh.wikipedia.org/wiki/布汶戰役 "wikilink")**，同時削弱了[英格蘭](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")[金雀花王朝和](https://zh.wikipedia.org/wiki/金雀花王朝 "wikilink")[神聖羅馬帝國](https://zh.wikipedia.org/wiki/神聖羅馬帝國 "wikilink")[韋爾夫王朝聯盟勢力](https://zh.wikipedia.org/wiki/韋爾夫王朝 "wikilink")？
 
 <!-- end list -->
 
@@ -46,13 +46,10 @@
 
 <!-- end list -->
 
-  - [亞歷山大大帝在遠征](https://zh.wikipedia.org/wiki/亞歷山大大帝 "wikilink")[波斯前](../Page/波斯.md "wikilink")，經過**[哪些征戰](../Page/亞歷山大大帝於巴爾幹的征戰.md "wikilink")**？
+  - [亞歷山大大帝在遠征](https://zh.wikipedia.org/wiki/亞歷山大大帝 "wikilink")[波斯](../Page/波斯.md "wikilink")前，經過**[哪些征戰](../Page/亞歷山大大帝於巴爾幹的征戰.md "wikilink")**？
 
 <div align="right" style="font-size:small;">
 
-**[存档](https://zh.wikipedia.org/wiki/Wikipedia:新条目推荐 "wikilink") |
-[创建新条目](https://zh.wikipedia.org/wiki/Help:如何创建新页面 "wikilink")
-|
-[更多新条目...](https://zh.wikipedia.org/wiki/Special:Newpages "wikilink")**
+**[存档](https://zh.wikipedia.org/wiki/Wikipedia:新条目推荐 "wikilink") | [创建新条目](https://zh.wikipedia.org/wiki/Help:如何创建新页面 "wikilink") | [更多新条目...](https://zh.wikipedia.org/wiki/Special:Newpages "wikilink")**
 
 </div>

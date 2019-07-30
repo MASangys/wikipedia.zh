@@ -6,12 +6,11 @@
 
 ## 劇集介紹
 
-  - 主題曲是《不再上當》（**），是1960年代英國搖滾樂團「[何許人合唱團](https://zh.wikipedia.org/wiki/何許人合唱團 "wikilink")」（）的作品。誰樂團的作品同時也被《[CSI犯罪現場](../Page/CSI犯罪現場.md "wikilink")》（《你是誰？》（**））以及《[CSI犯罪現場:
-    紐約](https://zh.wikipedia.org/wiki/CSI犯罪現場:_紐約 "wikilink")》（《巴巴·歐萊禮》（**））所採用。
+  - 主題曲是《不再上當》（**），是1960年代英國搖滾樂團「[何許人合唱團](https://zh.wikipedia.org/wiki/何許人合唱團 "wikilink")」（）的作品。誰樂團的作品同時也被《[CSI犯罪現場](../Page/CSI犯罪現場.md "wikilink")》（《你是誰？》（**））以及《[CSI犯罪現場: 紐約](https://zh.wikipedia.org/wiki/CSI犯罪現場:_紐約 "wikilink")》（《巴巴·歐萊禮》（**））所採用。
 
 <!-- end list -->
 
-  - 自2000年的[犯罪现场调查大受歡迎之後兩年](https://zh.wikipedia.org/wiki/犯罪现场调查 "wikilink")，衍生本系列犯罪现场调查：迈阿密。本劇目是在[加州的](https://zh.wikipedia.org/wiki/加州 "wikilink")[曼哈顿海滩的](../Page/曼哈顿海滩_\(加利福尼亚州\).md "wikilink")[洛杉磯國際機場一間舊倉庫拍攝](../Page/洛杉磯國際機場.md "wikilink")，附近的海灘都被利用在拍攝中；CSI總部是在美国联邦航空管理局轄下的储蓄互助社所拍攝，實景拍攝全無邁阿密地區，而部分外景是在巴西所拍攝\[3\]。
+  - 自2000年的[犯罪现场调查大受歡迎之後兩年](https://zh.wikipedia.org/wiki/犯罪现场调查 "wikilink")，衍生本系列犯罪现场调查：迈阿密。本劇目是在[加州的](https://zh.wikipedia.org/wiki/加州 "wikilink")[曼哈顿海滩的](../Page/曼哈顿海滩_\(加利福尼亚州\).md "wikilink")[洛杉磯國際機場](../Page/洛杉磯國際機場.md "wikilink")一間舊倉庫拍攝，附近的海灘都被利用在拍攝中；CSI總部是在美国联邦航空管理局轄下的储蓄互助社所拍攝，實景拍攝全無邁阿密地區，而部分外景是在巴西所拍攝\[3\]。
 
 <!-- end list -->
 
@@ -23,13 +22,11 @@
 
 <!-- end list -->
 
-  - 在第2季第4集 Death
-    Grip，環保人士[傑考溫](https://zh.wikipedia.org/wiki/傑考溫 "wikilink")（，是[動物星球頻道知名節目](https://zh.wikipedia.org/wiki/動物星球 "wikilink")《[傑考溫闖天下](https://zh.wikipedia.org/wiki/傑考溫闖天下 "wikilink")》的主持人）應邀演出，幫助探員們從一隻活生生的[鱷魚肚子裡取出一隻人類的腳](https://zh.wikipedia.org/wiki/鱷魚 "wikilink")。
+  - 在第2季第4集 Death Grip，環保人士[傑考溫](https://zh.wikipedia.org/wiki/傑考溫 "wikilink")（，是[動物星球頻道知名節目](https://zh.wikipedia.org/wiki/動物星球 "wikilink")《[傑考溫闖天下](https://zh.wikipedia.org/wiki/傑考溫闖天下 "wikilink")》的主持人）應邀演出，幫助探員們從一隻活生生的[鱷魚肚子裡取出一隻人類的腳](https://zh.wikipedia.org/wiki/鱷魚 "wikilink")。
 
 <!-- end list -->
 
-  - 第2季的23集，主角何瑞修到紐約辦案，并與犯罪现场调查：紐約的主角麥克共同追捕一名兇手。引出犯罪现场调查：紐約，同時新係列犯罪现场调查：紐約在此集後衍生開播。交錯劇情（）章節「**」有特別收錄在《[CSI犯罪現場:
-    紐約](https://zh.wikipedia.org/wiki/CSI犯罪現場:_紐約 "wikilink")》的第1季套裝中。
+  - 第2季的23集，主角何瑞修到紐約辦案，并與犯罪现场调查：紐約的主角麥克共同追捕一名兇手。引出犯罪现场调查：紐約，同時新係列犯罪现场调查：紐約在此集後衍生開播。交錯劇情（）章節「**」有特別收錄在《[CSI犯罪現場: 紐約](https://zh.wikipedia.org/wiki/CSI犯罪現場:_紐約 "wikilink")》的第1季套裝中。
 
 <!-- end list -->
 
@@ -41,19 +38,13 @@
 
 <!-- end list -->
 
-  - 第8季的交錯劇情是第七集「Bone
-    Voyage」，它的下集是《[CSI犯罪現場：紐約](../Page/CSI犯罪現場：紐約.md "wikilink")》第6季的第七集「Hammer
-    Down」，直到《[CSI犯罪現場](../Page/CSI犯罪現場.md "wikilink")》第10季的第七集The Lost
-    Girls方暫告一段落，案件涉及一個龐大的黑幫組織在全美綁架女孩，用於賣淫、代理孕母和摘取器官的慘忍犯罪，多名女孩無辜被殺，但三集過後本案並未解決。這次的交錯劇情主要在介紹[CSI犯罪現場的新主角雷蒙](../Page/CSI犯罪現場.md "wikilink")·藍斯頓。
+  - 第8季的交錯劇情是第七集「Bone Voyage」，它的下集是《[CSI犯罪現場：紐約](../Page/CSI犯罪現場：紐約.md "wikilink")》第6季的第七集「Hammer Down」，直到《[CSI犯罪現場](../Page/CSI犯罪現場.md "wikilink")》第10季的第七集The Lost Girls方暫告一段落，案件涉及一個龐大的黑幫組織在全美綁架女孩，用於賣淫、代理孕母和摘取器官的慘忍犯罪，多名女孩無辜被殺，但三集過後本案並未解決。這次的交錯劇情主要在介紹[CSI犯罪現場](../Page/CSI犯罪現場.md "wikilink")的新主角雷蒙·藍斯頓。
 
 ## 角色介紹
 
 ### 主角
 
-  - **何瑞修·肯恩（）**：[大衛·卡羅素](https://zh.wikipedia.org/wiki/大衛·卡羅素 "wikilink")（）飾演，是[邁阿密戴德郡犯罪實驗室的主管](https://zh.wikipedia.org/wiki/邁阿密-戴德縣 "wikilink")，曾經是炸彈拆除小組的警官，現在是鑑識分析師。他致力於保護善良百姓，尤其是對於婦女及小孩，部分影迷們開玩笑地稱他為「全美婦孺之友」。他的招牌動作是戴上與拿下他的太陽眼鏡（該副太陽眼鏡是艾瑞克當警察前送給何瑞修的禮物）每一集都會表演很多次。
-    有人因為他淡出鏡頭的動作稱他為
-    「何公飄」，甚至金凱瑞也曾經在電視上模仿過。在前三季裡，何瑞修的背景故事（關於他弟弟的）慢慢地被揭露。在第四季裡，在先前這條故事線結束後，另外一部份關於他的過去也開始被揭露。
-    在編號408的「**」這一集裡，肯恩發現紐約的一個地方[檢察官開始調查他與殺母兇手被謀殺這件事之間的關聯](../Page/檢察官.md "wikilink")。第四季中何瑞修和艾瑞克的姊姊瑪莉索有感情的發展，但兩人短暫的姻緣隨著瑪莉索遭到槍殺而結束。而在第六季亦揭明過往他化名擔任臥底時，曾經與一名護士發生感情，並生下一子凱爾，但凱爾卻因為犯罪而在第六季的第一集被逮捕，整個第六季的劇情都是伴隨他跟凱爾及其母親的關係和凱爾所犯的案件展開。
+  - **何瑞修·肯恩（）**：[大衛·卡羅素](https://zh.wikipedia.org/wiki/大衛·卡羅素 "wikilink")（）飾演，是[邁阿密戴德郡犯罪實驗室的主管](https://zh.wikipedia.org/wiki/邁阿密-戴德縣 "wikilink")，曾經是炸彈拆除小組的警官，現在是鑑識分析師。他致力於保護善良百姓，尤其是對於婦女及小孩，部分影迷們開玩笑地稱他為「全美婦孺之友」。他的招牌動作是戴上與拿下他的太陽眼鏡（該副太陽眼鏡是艾瑞克當警察前送給何瑞修的禮物）每一集都會表演很多次。 有人因為他淡出鏡頭的動作稱他為 「何公飄」，甚至金凱瑞也曾經在電視上模仿過。在前三季裡，何瑞修的背景故事（關於他弟弟的）慢慢地被揭露。在第四季裡，在先前這條故事線結束後，另外一部份關於他的過去也開始被揭露。 在編號408的「**」這一集裡，肯恩發現紐約的一個地方[檢察官](../Page/檢察官.md "wikilink")開始調查他與殺母兇手被謀殺這件事之間的關聯。第四季中何瑞修和艾瑞克的姊姊瑪莉索有感情的發展，但兩人短暫的姻緣隨著瑪莉索遭到槍殺而結束。而在第六季亦揭明過往他化名擔任臥底時，曾經與一名護士發生感情，並生下一子凱爾，但凱爾卻因為犯罪而在第六季的第一集被逮捕，整個第六季的劇情都是伴隨他跟凱爾及其母親的關係和凱爾所犯的案件展開。
 
 <!-- end list -->
 
@@ -61,21 +52,19 @@
 
 <!-- end list -->
 
-  - **艾瑞克·戴可（）**：[亞當·羅德瑞茲](https://zh.wikipedia.org/wiki/亞當·羅德瑞茲 "wikilink")（）飾演，[指紋與藥品辨識專家](../Page/指紋.md "wikilink")，土生土長於邁阿密，曾在[邁阿密大學獲得](../Page/邁阿密大學_\(佛罗里达州\).md "wikilink")[化學學士學位](../Page/化學.md "wikilink")。母親[古巴人](../Page/古巴.md "wikilink")，所以西班牙語和[俄語都很流利](https://zh.wikipedia.org/wiki/俄語 "wikilink")。是劇情設定中唯一有正式潛水資格的組員，當情況需要時，達可在小組裡通常是扮演[蛙人的角色](https://zh.wikipedia.org/wiki/蛙人 "wikilink")。在集數編號410「**」這一集裡，達可被控藏匿[毒品因而危害了他的工作](../Page/毒品.md "wikilink")。不過後來證實他買這些藥是為了幫助他重病的姊姊Marisol減少癌症的疼痛。他在第五季中差點因恐怖分子槍擊而身亡，最後在危急關頭被一劑強心劑救回。而第七季的劇情也揭露出他的父親乃是一名黑道大豪，並雇傭殺手要將他除掉，直到第八季為止這些事情才告一段落，同時也讓艾瑞克心生對短暫生命的無奈，而退出CSI行列。但在第八季客串部份演出，最後幾集更是密集現身，於最後一集（24集）向何瑞修提出重回CSI的要求，何瑞修接受請求，艾瑞克重回CSI。
+  - **艾瑞克·戴可（）**：[亞當·羅德瑞茲](https://zh.wikipedia.org/wiki/亞當·羅德瑞茲 "wikilink")（）飾演，[指紋](../Page/指紋.md "wikilink")與藥品辨識專家，土生土長於邁阿密，曾在[邁阿密大學獲得](../Page/邁阿密大學_\(佛罗里达州\).md "wikilink")[化學](../Page/化學.md "wikilink")學士學位。母親[古巴](../Page/古巴.md "wikilink")人，所以西班牙語和[俄語都很流利](https://zh.wikipedia.org/wiki/俄語 "wikilink")。是劇情設定中唯一有正式潛水資格的組員，當情況需要時，達可在小組裡通常是扮演[蛙人的角色](https://zh.wikipedia.org/wiki/蛙人 "wikilink")。在集數編號410「**」這一集裡，達可被控藏匿[毒品](../Page/毒品.md "wikilink")因而危害了他的工作。不過後來證實他買這些藥是為了幫助他重病的姊姊Marisol減少癌症的疼痛。他在第五季中差點因恐怖分子槍擊而身亡，最後在危急關頭被一劑強心劑救回。而第七季的劇情也揭露出他的父親乃是一名黑道大豪，並雇傭殺手要將他除掉，直到第八季為止這些事情才告一段落，同時也讓艾瑞克心生對短暫生命的無奈，而退出CSI行列。但在第八季客串部份演出，最後幾集更是密集現身，於最後一集（24集）向何瑞修提出重回CSI的要求，何瑞修接受請求，艾瑞克重回CSI。
 
 <!-- end list -->
 
-  - **萊恩.沃夫（）**：[強納森·托哥](https://zh.wikipedia.org/wiki/強納森·托哥 "wikilink")（）飾演，是一個想進入實際鑑識工作的基層巡邏員警。何瑞修僱用他以遞補已[殉職的史畢的位置](../Page/殉職.md "wikilink")，因為他不僅有足夠的技術，而且他平時有注意保養他的配槍——史畢就是忽略了這個防備措施才殉職的。他瞭解到自己永遠無法取代史畢的地位，只能盡力地成為小組的一員。沃夫首次出現在「**」這一集，不過直到「**」這一集之後才變成常態演出。在集數編號408的「**」這一集裡，雷恩的右眼眼角被釘槍射中，傷勢初期對他造成了某種程度的影響，但在就醫治療後已無大礙。沃夫在新一季，第五季第22集因為賭博而被開除了，第六季又重新歸隊。
+  - **萊恩.沃夫（）**：[強納森·托哥](https://zh.wikipedia.org/wiki/強納森·托哥 "wikilink")（）飾演，是一個想進入實際鑑識工作的基層巡邏員警。何瑞修僱用他以遞補已[殉職](../Page/殉職.md "wikilink")的史畢的位置，因為他不僅有足夠的技術，而且他平時有注意保養他的配槍——史畢就是忽略了這個防備措施才殉職的。他瞭解到自己永遠無法取代史畢的地位，只能盡力地成為小組的一員。沃夫首次出現在「**」這一集，不過直到「**」這一集之後才變成常態演出。在集數編號408的「**」這一集裡，雷恩的右眼眼角被釘槍射中，傷勢初期對他造成了某種程度的影響，但在就醫治療後已無大礙。沃夫在新一季，第五季第22集因為賭博而被開除了，第六季又重新歸隊。
 
 <!-- end list -->
 
-  - **娜塔莉亞·波娃·薇絲塔（Natalia Boa Vista）**：伊芙·拉茹（Eva
-    Larue）飾演，第四季才加入實驗室的拉丁美洲裔DNA分析員，主要任務為分析關於懸案以及舊案的DNA證據。由於她的聯邦僱約的限制，所以只能處理非熱門案件或是懸案。在第五季中已被扶正。曾經有過一次因家暴而結束的婚姻，而和艾瑞克也有一段曖昧的關係，而在第四季末也證實她原是檢察官辦公室所安排的眼線。第五季角色更加重要，成為正式的鑑識人員，已不是配角了。第一次跟何瑞修見面是在1997年，何瑞修到FBI要求進行PCR實驗時。
+  - **娜塔莉亞·波娃·薇絲塔（Natalia Boa Vista）**：伊芙·拉茹（Eva Larue）飾演，第四季才加入實驗室的拉丁美洲裔DNA分析員，主要任務為分析關於懸案以及舊案的DNA證據。由於她的聯邦僱約的限制，所以只能處理非熱門案件或是懸案。在第五季中已被扶正。曾經有過一次因家暴而結束的婚姻，而和艾瑞克也有一段曖昧的關係，而在第四季末也證實她原是檢察官辦公室所安排的眼線。第五季角色更加重要，成為正式的鑑識人員，已不是配角了。第一次跟何瑞修見面是在1997年，何瑞修到FBI要求進行PCR實驗時。
 
 <!-- end list -->
 
-  - **華特·西蒙斯（）** ：奧馬·班森·米勒（Omar Benson
-    Miller）飾演，在第八季第三集出場，夜班的犯罪現場攝影師，在Travers出庭當專家證人的時候就身兼數職，調往日班和何瑞修·肯恩的小組一起工作。
+  - **華特·西蒙斯（）** ：奧馬·班森·米勒（Omar Benson Miller）飾演，在第八季第三集出場，夜班的犯罪現場攝影師，在Travers出庭當專家證人的時候就身兼數職，調往日班和何瑞修·肯恩的小組一起工作。
 
 <!-- end list -->
 
@@ -84,24 +73,19 @@
 ### 其他配角
 
   - **泰勒·簡森（）**：[布萊恩·波斯](https://zh.wikipedia.org/wiki/布萊恩·波斯 "wikilink")（）飾演，實驗室技師，專長是多媒體分析。
-  - *'
-    瑞克·史特勒（）*'：[大衛·李·史密斯](https://zh.wikipedia.org/wiki/大衛·李·史密斯 "wikilink")（）飾演，第2季開始出現，內務部警官，何瑞修的死對頭。後來他與椰莉娜交往，不過她在第3季結尾時與她丈夫一起離開。他對肯恩相當不友善，據信是因為後者取代他晉陞為組長的挫敗感使然。他認為肯恩一定是搞了一些「小動作」才獲得這個職位的。在第八季23集被證實是警方的內鬼，不斷偷竊各種扣銷的證物變賣牟獲暴利。
+  - *' 瑞克·史特勒（）*'：[大衛·李·史密斯](https://zh.wikipedia.org/wiki/大衛·李·史密斯 "wikilink")（）飾演，第2季開始出現，內務部警官，何瑞修的死對頭。後來他與椰莉娜交往，不過她在第3季結尾時與她丈夫一起離開。他對肯恩相當不友善，據信是因為後者取代他晉陞為組長的挫敗感使然。他認為肯恩一定是搞了一些「小動作」才獲得這個職位的。在第八季23集被證實是警方的內鬼，不斷偷竊各種扣銷的證物變賣牟獲暴利。
 
 <!-- end list -->
 
-  - *'
-    麥欣·薇樂拉（）*'：[波提·安·布莉絲](https://zh.wikipedia.org/wiki/波提·安·布莉絲 "wikilink")（）飾演，分析師，第2季開始出現。在第3季因把性侵被害者資料輸入系統而被停職，於第4季再度出現。
+  - *' 麥欣·薇樂拉（）*'：[波提·安·布莉絲](https://zh.wikipedia.org/wiki/波提·安·布莉絲 "wikilink")（）飾演，分析師，第2季開始出現。在第3季因把性侵被害者資料輸入系統而被停職，於第4季再度出現。
 
 <!-- end list -->
 
   - **彼得·艾略特（）**：[麥克·西爾弗](https://zh.wikipedia.org/wiki/麥克·西爾弗 "wikilink")（）飾演，第2季開始出現，美國特勤局經濟犯罪部門的探員。在實驗室檢驗犯罪現場所查扣的鈔票真偽時會登場，並協助檢驗。
   - **約瑟夫·凱爾（）**：[小萊斯里·歐多姆](https://zh.wikipedia.org/wiki/小萊斯里·歐多姆 "wikilink")（）飾演，第2季開始出現，實驗室技師。
-  - *'
-    亞倫·彼得斯（）*'：[亞曼多·維得-甘迺迪](https://zh.wikipedia.org/wiki/亞曼多·維得-甘迺迪 "wikilink")（）飾演，第3季開始出現，實驗室技師。
+  - *' 亞倫·彼得斯（）*'：[亞曼多·維得-甘迺迪](https://zh.wikipedia.org/wiki/亞曼多·維得-甘迺迪 "wikilink")（）飾演，第3季開始出現，實驗室技師。
   - **丹·庫柏（）**：[布蘭登·費爾](https://zh.wikipedia.org/wiki/布蘭登·費爾 "wikilink")（）飾演，第4季開始出現，新來的影音分析師，於第六季第四集時使用已過世史畢的信用卡，觸犯法律，因而離開實驗室，并对卡莉怀恨于心，制作针对卡莉的恶意网站，公布她的个人信息并导致卡莉被坏人绑架。
-  - *' 吉姆·馬肯（Jim Markham）*'：約書亞李歐納（Joshua
-    Leonard）飾演，只在402、404、410這三集裡出現過，負責檢查槍械和子彈，三集裡都只有和卡莉有對手戲，是一個很懶散的人，因為常常把證物放著而不進行檢驗而被卡莉教訓，還曾經認為「毒販槍殺了毒販，這是沒有受害人的案件」，在沒有他出現的一些集數中，從小組的對話中得知他經常請假或不見人影，要讓其他人來代替他的工作，410之後應該是被調走了（410中卡莉曾提過可以把他調走）。另外，演員Joshua
-    Leonard也曾參演CSI:NY的105，飾演其中一個嫌疑犯。
+  - *' 吉姆·馬肯（Jim Markham）*'：約書亞李歐納（Joshua Leonard）飾演，只在402、404、410這三集裡出現過，負責檢查槍械和子彈，三集裡都只有和卡莉有對手戲，是一個很懶散的人，因為常常把證物放著而不進行檢驗而被卡莉教訓，還曾經認為「毒販槍殺了毒販，這是沒有受害人的案件」，在沒有他出現的一些集數中，從小組的對話中得知他經常請假或不見人影，要讓其他人來代替他的工作，410之後應該是被調走了（410中卡莉曾提過可以把他調走）。另外，演員Joshua Leonard也曾參演CSI:NY的105，飾演其中一個嫌疑犯。
 
 ### 離開的角色
 
@@ -109,8 +93,7 @@
 
 <!-- end list -->
 
-  - **提姆·
-    「史畢」·史畢鐸（）**：[羅瑞·寇克蘭](https://zh.wikipedia.org/wiki/羅瑞·寇克蘭 "wikilink")（）飾演，出現在前兩季。證據追蹤與壓痕專家，出生於[紐約州](https://zh.wikipedia.org/wiki/紐約州 "wikilink")[西拉鳩斯市](https://zh.wikipedia.org/wiki/西拉鳩斯市 "wikilink")（），曾在[哥倫比亞大學獲得](https://zh.wikipedia.org/wiki/哥倫比亞大學 "wikilink")[生物學學位](https://zh.wikipedia.org/wiki/生物學 "wikilink")。史畢在第3季第1集「**」一開始就在任務中陣亡，劇中他的[武器在槍戰時故障](../Page/武器.md "wikilink")。他的角色離開的原因是因為本人的請求。寇克蘭希望可以發展他的電影事業，而且他不是很喜歡影集冗長的拍攝行程。在604當中重返，飾演因戴可第五季中腦部受傷，而產生的史畢的幻覺。
+  - **提姆· 「史畢」·史畢鐸（）**：[羅瑞·寇克蘭](https://zh.wikipedia.org/wiki/羅瑞·寇克蘭 "wikilink")（）飾演，出現在前兩季。證據追蹤與壓痕專家，出生於[紐約州](https://zh.wikipedia.org/wiki/紐約州 "wikilink")[西拉鳩斯市](https://zh.wikipedia.org/wiki/西拉鳩斯市 "wikilink")（），曾在[哥倫比亞大學獲得](https://zh.wikipedia.org/wiki/哥倫比亞大學 "wikilink")[生物學學位](https://zh.wikipedia.org/wiki/生物學 "wikilink")。史畢在第3季第1集「**」一開始就在任務中陣亡，劇中他的[武器](../Page/武器.md "wikilink")在槍戰時故障。他的角色離開的原因是因為本人的請求。寇克蘭希望可以發展他的電影事業，而且他不是很喜歡影集冗長的拍攝行程。在604當中重返，飾演因戴可第五季中腦部受傷，而產生的史畢的幻覺。
 
 <!-- end list -->
 
@@ -118,17 +101,12 @@
 
 <!-- end list -->
 
-  - **艾利絲·伍德醫生（）**：[甘蒂·亞歷山大](https://zh.wikipedia.org/wiki/甘蒂·亞歷山大 "wikilink")（）飾演，邁阿密達德郡的[驗屍官](https://zh.wikipedia.org/wiki/驗屍官 "wikilink")。艾利絲的醫生生涯從當一名實習醫師開始，後來她離開紐約來到邁阿密擔任驗屍官。她有一個古怪的習慣就是在[驗屍的時候跟](../Page/驗屍.md "wikilink")[屍體講話](../Page/屍體.md "wikilink")，通常是想要讓死者死後可以更為安詳。已婚，育有一子一女。在第六季19集，由於兒子陷入兇殺案，而退出實驗室。在退出實驗室後他成為醫院義工，在後來的不少劇情中皆有出場為人員手術治療的戲份。
-  - **塔拉·普萊斯醫生（Dr. Tara Price ）**：美嘉琳·伊絲昆沃克（Megalyn
-    Echikunwoke）飾演，自第七季加入的新角色，也是接替退出的Alexx醫生的邁阿密達德郡的[驗屍官](https://zh.wikipedia.org/wiki/驗屍官 "wikilink")。在第七季中曾不斷出現偷取實驗室藥物證據的伏筆。直到同一季後期偷藥的行為才被視作造成Julia在實驗室持槍恐嚇的起因，而以重大偷竊罪及盜竊損毀證據罪被捕。
+  - **艾利絲·伍德醫生（）**：[甘蒂·亞歷山大](https://zh.wikipedia.org/wiki/甘蒂·亞歷山大 "wikilink")（）飾演，邁阿密達德郡的[驗屍官](https://zh.wikipedia.org/wiki/驗屍官 "wikilink")。艾利絲的醫生生涯從當一名實習醫師開始，後來她離開紐約來到邁阿密擔任驗屍官。她有一個古怪的習慣就是在[驗屍](../Page/驗屍.md "wikilink")的時候跟[屍體](../Page/屍體.md "wikilink")講話，通常是想要讓死者死後可以更為安詳。已婚，育有一子一女。在第六季19集，由於兒子陷入兇殺案，而退出實驗室。在退出實驗室後他成為醫院義工，在後來的不少劇情中皆有出場為人員手術治療的戲份。
+  - **塔拉·普萊斯醫生（Dr. Tara Price ）**：美嘉琳·伊絲昆沃克（Megalyn Echikunwoke）飾演，自第七季加入的新角色，也是接替退出的Alexx醫生的邁阿密達德郡的[驗屍官](https://zh.wikipedia.org/wiki/驗屍官 "wikilink")。在第七季中曾不斷出現偷取實驗室藥物證據的伏筆。直到同一季後期偷藥的行為才被視作造成Julia在實驗室持槍恐嚇的起因，而以重大偷竊罪及盜竊損毀證據罪被捕。
 
 <!-- end list -->
 
-  - **瑪麗莎·戴可（）**：[雅蘭娜‧德‧拉‧加薩](https://zh.wikipedia.org/wiki/雅蘭娜‧德‧拉‧加薩 "wikilink")()飾演，為艾瑞克·戴可（Eric
-    Delko）的姊姊，四季12集中因為購買海洛因被捕，在何瑞修幫忙下脫罪劇末瑪麗莎邀請何瑞修共進晚餐，兩人開始正式交往，四季23集中和何瑞修結婚步入禮堂，在四季24集中遭Antonio
-    Riaz的手下Memmo
-    Fierro槍殺身亡，五季一集中何瑞修和艾瑞克一路追殺到巴西，在直昇機停機坪旁何瑞修正當防衛下殺了Antonio
-    Riaz。
+  - **瑪麗莎·戴可（）**：[雅蘭娜‧德‧拉‧加薩](https://zh.wikipedia.org/wiki/雅蘭娜‧德‧拉‧加薩 "wikilink")()飾演，為艾瑞克·戴可（Eric Delko）的姊姊，四季12集中因為購買海洛因被捕，在何瑞修幫忙下脫罪劇末瑪麗莎邀請何瑞修共進晚餐，兩人開始正式交往，四季23集中和何瑞修結婚步入禮堂，在四季24集中遭Antonio Riaz的手下Memmo Fierro槍殺身亡，五季一集中何瑞修和艾瑞克一路追殺到巴西，在直昇機停機坪旁何瑞修正當防衛下殺了Antonio Riaz。
 
 <!-- end list -->
 
@@ -137,9 +115,7 @@
 
 <!-- end list -->
 
-  - **傑西·卡多薩（Jesse Cardoza）** ：艾迪·斯比安（Eddie
-    Cibrian）飾演，1973年6月18日生於加利福尼亞州Burbank，在第八季第一集中艾瑞克·戴可從沼澤區脫險後，以回顧的方式登場，傑西因為妻子被其外遇對象Tony
-    Enright謀殺，在偵辦該謀殺案中的關鍵證物遺失，背負上不名譽的罪名而請調洛杉磯，同時推薦了聖皮特分局的提姆·史畢。劇中第八季第二集中又調回邁阿密，第八季第十六集才在何瑞修·肯恩的幫助下恢復聲譽。在第九季第一集中，因實驗室被放入毒氣，雖然其他人平安無事，但唯有他因吸入過多毒氣昏迷並撞擊到頭部而死。
+  - **傑西·卡多薩（Jesse Cardoza）** ：艾迪·斯比安（Eddie Cibrian）飾演，1973年6月18日生於加利福尼亞州Burbank，在第八季第一集中艾瑞克·戴可從沼澤區脫險後，以回顧的方式登場，傑西因為妻子被其外遇對象Tony Enright謀殺，在偵辦該謀殺案中的關鍵證物遺失，背負上不名譽的罪名而請調洛杉磯，同時推薦了聖皮特分局的提姆·史畢。劇中第八季第二集中又調回邁阿密，第八季第十六集才在何瑞修·肯恩的幫助下恢復聲譽。在第九季第一集中，因實驗室被放入毒氣，雖然其他人平安無事，但唯有他因吸入過多毒氣昏迷並撞擊到頭部而死。
 
 ## 集名列表
 
@@ -333,24 +309,7 @@
   -
   - [MBC上的資料](http://www.imbc.com/broad/tv/ent/csi_miami/index.html)
 
-[Category:CSI犯罪現場](https://zh.wikipedia.org/wiki/Category:CSI犯罪現場 "wikilink")
-[Category:2002年開播的美國電視影集](https://zh.wikipedia.org/wiki/Category:2002年開播的美國電視影集 "wikilink")
-[Category:2000年代美國電視劇](https://zh.wikipedia.org/wiki/Category:2000年代美國電視劇 "wikilink")
-[Category:2012年停播的美國電視影集](https://zh.wikipedia.org/wiki/Category:2012年停播的美國電視影集 "wikilink")
-[Category:2010年代美國電視劇](https://zh.wikipedia.org/wiki/Category:2010年代美國電視劇 "wikilink")
-[Category:美國劇情電視劇](https://zh.wikipedia.org/wiki/Category:美國劇情電視劇 "wikilink")
-[Category:美國犯罪電視劇](https://zh.wikipedia.org/wiki/Category:美國犯罪電視劇 "wikilink")
-[Category:警匪電視劇](https://zh.wikipedia.org/wiki/Category:警匪電視劇 "wikilink")
-[Category:電視影集衍生作品](https://zh.wikipedia.org/wiki/Category:電視影集衍生作品 "wikilink")
-[Category:邁阿密背景電視節目](https://zh.wikipedia.org/wiki/Category:邁阿密背景電視節目 "wikilink")
-[Category:佛羅里達州背景電視節目](https://zh.wikipedia.org/wiki/Category:佛羅里達州背景電視節目 "wikilink")
-[Category:佛羅里達州取景電視節目](https://zh.wikipedia.org/wiki/Category:佛羅里達州取景電視節目 "wikilink")
-[Category:佛羅里達州影視](https://zh.wikipedia.org/wiki/Category:佛羅里達州影視 "wikilink")
-[Category:CBS電視節目](https://zh.wikipedia.org/wiki/Category:CBS電視節目 "wikilink")
-[Category:CBS電視工作室製作的電視節目](https://zh.wikipedia.org/wiki/Category:CBS電視工作室製作的電視節目 "wikilink")
-[Category:亞洲電視外購劇集](https://zh.wikipedia.org/wiki/Category:亞洲電視外購劇集 "wikilink")
-[Category:福斯傳媒集團外購電視劇](https://zh.wikipedia.org/wiki/Category:福斯傳媒集團外購電視劇 "wikilink")
-[Category:索尼影業電視外購電視劇](https://zh.wikipedia.org/wiki/Category:索尼影業電視外購電視劇 "wikilink")
+[Category:CSI犯罪現場](https://zh.wikipedia.org/wiki/Category:CSI犯罪現場 "wikilink") [Category:2002年開播的美國電視影集](https://zh.wikipedia.org/wiki/Category:2002年開播的美國電視影集 "wikilink") [Category:2000年代美國電視劇](https://zh.wikipedia.org/wiki/Category:2000年代美國電視劇 "wikilink") [Category:2012年停播的美國電視影集](https://zh.wikipedia.org/wiki/Category:2012年停播的美國電視影集 "wikilink") [Category:2010年代美國電視劇](https://zh.wikipedia.org/wiki/Category:2010年代美國電視劇 "wikilink") [Category:美國劇情電視劇](https://zh.wikipedia.org/wiki/Category:美國劇情電視劇 "wikilink") [Category:美國犯罪電視劇](https://zh.wikipedia.org/wiki/Category:美國犯罪電視劇 "wikilink") [Category:警匪電視劇](https://zh.wikipedia.org/wiki/Category:警匪電視劇 "wikilink") [Category:電視影集衍生作品](https://zh.wikipedia.org/wiki/Category:電視影集衍生作品 "wikilink") [Category:邁阿密背景電視節目](https://zh.wikipedia.org/wiki/Category:邁阿密背景電視節目 "wikilink") [Category:佛羅里達州背景電視節目](https://zh.wikipedia.org/wiki/Category:佛羅里達州背景電視節目 "wikilink") [Category:佛羅里達州取景電視節目](https://zh.wikipedia.org/wiki/Category:佛羅里達州取景電視節目 "wikilink") [Category:佛羅里達州影視](https://zh.wikipedia.org/wiki/Category:佛羅里達州影視 "wikilink") [Category:CBS電視節目](https://zh.wikipedia.org/wiki/Category:CBS電視節目 "wikilink") [Category:CBS電視工作室製作的電視節目](https://zh.wikipedia.org/wiki/Category:CBS電視工作室製作的電視節目 "wikilink") [Category:亞洲電視外購劇集](https://zh.wikipedia.org/wiki/Category:亞洲電視外購劇集 "wikilink") [Category:福斯傳媒集團外購電視劇](https://zh.wikipedia.org/wiki/Category:福斯傳媒集團外購電視劇 "wikilink") [Category:索尼影業電視外購電視劇](https://zh.wikipedia.org/wiki/Category:索尼影業電視外購電視劇 "wikilink")
 
 1.
 2.

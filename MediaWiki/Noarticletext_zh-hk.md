@@ -160,30 +160,11 @@
 
 </div>
 
-}} {{\#ifeq:|User
-talk|這位用戶的討論頁尚未貼有**留言**。|**維基百科目前還沒有與上述標題相同的{{\#switch:
-|=條目 |=[討論頁](https://zh.wikipedia.org/wiki/{{ns:Help}}:討論頁 "wikilink")
-|=[分類](https://zh.wikipedia.org/wiki/{{ns:Project}}:分類 "wikilink")
-|=[幫助頁](https://zh.wikipedia.org/wiki/{{ns:Help}}:內容 "wikilink")
-|=[主題](https://zh.wikipedia.org/wiki/{{ns:Project}}:主題 "wikilink")
-|=[模板](https://zh.wikipedia.org/wiki/{{ns:Project}}:模板訊息 "wikilink")
-|=[用戶頁](https://zh.wikipedia.org/wiki/{{ns:Project}}:用戶頁 "wikilink")
-|=[圖像頁](https://zh.wikipedia.org/wiki/{{ns:Project}}:圖像 "wikilink") |=
-計劃頁 |頁 }}。**{{\#ifeq:||{{\#switch:
-|=請先在維基百科上[尋找「」是否已有名稱相近或不同文字寫法的條目](https://zh.wikipedia.org/wiki/{{ns:Special}}:Search/{{PAGENAME}} "wikilink")。
-|=請瀏覽[現有的分類來檢查您需要的分類是否使用了其他的名稱](https://zh.wikipedia.org/wiki/{{ns:Project}}:探索 "wikilink")。
-|=請瀏覽[現有的幫助頁來檢查您需要的幫助主題是否使用了其他的名稱](https://zh.wikipedia.org/wiki/{{ns:Help}}:內容 "wikilink")。
-|=請瀏覽[現有的主題來檢查是否已有相似的主題](https://zh.wikipedia.org/wiki/{{ns:Portal}}:首頁 "wikilink")。
-|=請瀏覽[現有的模板來檢查您需要的模板是否使用了其他的名稱](https://zh.wikipedia.org/wiki/{{ns:Project}}:模板訊息 "wikilink")。
-|=通常來說，這一頁只應由[:來建立和編輯](https://zh.wikipedia.org/wiki/{{ns:User}}:{{PAGENAME}} "wikilink")。如果您對此抱有疑惑，請驗證用戶「」<span class="plainlinksneverexpand">\[//zh.wikipedia.org/wiki/Special:Listusers?username=\&limit=1\&group=
-**是否已被註冊**\]</span>。 }}
-|在建立這一頁面前，請詳閱[:子頁面](https://zh.wikipedia.org/wiki/{{ns:Project}}:子頁面 "wikilink")。}}}}
+}} {{\#ifeq:|User talk|這位用戶的討論頁尚未貼有**留言**。|**維基百科目前還沒有與上述標題相同的{{\#switch: |=條目 |=[討論頁](https://zh.wikipedia.org/wiki/{{ns:Help}}:討論頁 "wikilink") |=[分類](https://zh.wikipedia.org/wiki/{{ns:Project}}:分類 "wikilink") |=[幫助頁](https://zh.wikipedia.org/wiki/{{ns:Help}}:內容 "wikilink") |=[主題](https://zh.wikipedia.org/wiki/{{ns:Project}}:主題 "wikilink") |=[模板](https://zh.wikipedia.org/wiki/{{ns:Project}}:模板訊息 "wikilink") |=[用戶頁](https://zh.wikipedia.org/wiki/{{ns:Project}}:用戶頁 "wikilink") |=[圖像頁](https://zh.wikipedia.org/wiki/{{ns:Project}}:圖像 "wikilink") |= 計劃頁 |頁 }}。**{{\#ifeq:||{{\#switch: |=請先在維基百科上[尋找「」是否已有名稱相近或不同文字寫法的條目](https://zh.wikipedia.org/wiki/{{ns:Special}}:Search/{{PAGENAME}} "wikilink")。 |=請瀏覽[現有的分類來檢查您需要的分類是否使用了其他的名稱](https://zh.wikipedia.org/wiki/{{ns:Project}}:探索 "wikilink")。 |=請瀏覽[現有的幫助頁來檢查您需要的幫助主題是否使用了其他的名稱](https://zh.wikipedia.org/wiki/{{ns:Help}}:內容 "wikilink")。 |=請瀏覽[現有的主題來檢查是否已有相似的主題](https://zh.wikipedia.org/wiki/{{ns:Portal}}:首頁 "wikilink")。 |=請瀏覽[現有的模板來檢查您需要的模板是否使用了其他的名稱](https://zh.wikipedia.org/wiki/{{ns:Project}}:模板訊息 "wikilink")。 |=通常來說，這一頁只應由[:來建立和編輯](https://zh.wikipedia.org/wiki/{{ns:User}}:{{PAGENAME}} "wikilink")。如果您對此抱有疑惑，請驗證用戶「」<span class="plainlinksneverexpand">\[//zh.wikipedia.org/wiki/Special:Listusers?username=\&limit=1\&group= **是否已被註冊**\]</span>。 }} |在建立這一頁面前，請詳閱[:子頁面](https://zh.wikipedia.org/wiki/{{ns:Project}}:子頁面 "wikilink")。}}}}
 
-  - **\[ {{\#switch:|User
-    talk=給「」留言|開始編輯「」{{\#if:|頁面|條目}}}}\]**{{\#switch:|=，你也可以使用[建立條目精靈](https://zh.wikipedia.org/wiki/Wikipedia:創建條目精靈 "wikilink")，或者[向其他編者請求這個條目](https://zh.wikipedia.org/wiki/{{ns:Project}}:條目請求 "wikilink")}}。
+  - **\[ {{\#switch:|User talk=給「」留言|開始編輯「」{{\#if:|頁面|條目}}}}\]**{{\#switch:|=，你也可以使用[建立條目精靈](https://zh.wikipedia.org/wiki/Wikipedia:創建條目精靈 "wikilink")，或者[向其他編者請求這個條目](https://zh.wikipedia.org/wiki/{{ns:Project}}:條目請求 "wikilink")}}。
 
-{{\#switch:|User talk= |\*
-在現有{{\#if:|頁面|條目}}中[搜尋「」](https://zh.wikipedia.org/wiki/{{ns:Special}}:Search/{{PAGENAME}} "wikilink")。
+{{\#switch:|User talk= |\* 在現有{{\#if:|頁面|條目}}中[搜尋「」](https://zh.wikipedia.org/wiki/{{ns:Special}}:Search/{{PAGENAME}} "wikilink")。
 
   - [搜尋連結到這個標題的頁面](https://zh.wikipedia.org/wiki/{{ns:Special}}:Whatlinkshere/{{FULLPAGENAME}} "wikilink")。}}
 
@@ -193,8 +174,7 @@ talk|這位用戶的討論頁尚未貼有**留言**。|**維基百科目前還�
 
 **可能出現此提示的其他原因：**
 
-  - 如果您剛剛建立了{{\#switch:|Image=這一圖像|這一頁面}}，有可能是資料庫太忙而沒來得及更新；請等待幾分鐘並嘗試\[
-    清除快取\]。
+  - 如果您剛剛建立了{{\#switch:|Image=這一圖像|這一頁面}}，有可能是資料庫太忙而沒來得及更新；請等待幾分鐘並嘗試\[ 清除快取\]。
 
 <!-- end list -->
 
@@ -202,8 +182,7 @@ talk|這位用戶的討論頁尚未貼有**留言**。|**維基百科目前還�
 
 <!-- end list -->
 
-  - 還有可能是{{\#switch:|Image=這一圖像|這一頁面}}已被刪除。請檢查**\[
-    刪除日誌\]**和[Wikipedia:刪除方針上的一些理由](https://zh.wikipedia.org/wiki/Wikipedia:刪除方針 "wikilink")。
+  - 還有可能是{{\#switch:|Image=這一圖像|這一頁面}}已被刪除。請檢查**\[ 刪除日誌\]**和[Wikipedia:刪除方針上的一些理由](https://zh.wikipedia.org/wiki/Wikipedia:刪除方針 "wikilink")。
 
 {{\#ifeq:||
 

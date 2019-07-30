@@ -1,40 +1,16 @@
-**Adobe Animate**（前稱**Adobe Flash Professional，Macromedia
-Flash，FutureSplash Animator**）是由[Adobe
-Systems開發的多媒體創作和](https://zh.wikipedia.org/wiki/Adobe_Systems "wikilink")[電腦動畫程式](../Page/计算机动画.md "wikilink")。
+**Adobe Animate**（前稱**Adobe Flash Professional，Macromedia Flash，FutureSplash Animator**）是由[Adobe Systems開發的多媒體創作和](https://zh.wikipedia.org/wiki/Adobe_Systems "wikilink")[電腦動畫程式](../Page/计算机动画.md "wikilink")。
 
-Animate可用於設計[矢量图形和動畫](../Page/矢量图形.md "wikilink")，並發佈到電視節目，網上影片，網站，網絡應用程式，大型互聯網應用程式和電子遊戲中。該程式還支援[點陣圖形](https://zh.wikipedia.org/wiki/Raster_graphics "wikilink")，豐富文本，音頻和影片嵌入以及ActionScript腳本。可以為[HTML5](../Page/HTML5.md "wikilink")，[WebGL](../Page/WebGL.md "wikilink")，[可縮放向量圖形](../Page/可縮放向量圖形.md "wikilink")（SVG）動畫和[Spritesheet以及傳統](https://zh.wikipedia.org/wiki/Spritesheet "wikilink")[Flash
-Player](../Page/Adobe_Flash_Player.md "wikilink")（SWF）和[Adobe
-AIR格式發佈動畫](../Page/Adobe_AIR.md "wikilink")。
+Animate可用於設計[矢量图形](../Page/矢量图形.md "wikilink")和動畫，並發佈到電視節目，網上影片，網站，網絡應用程式，大型互聯網應用程式和電子遊戲中。該程式還支援[點陣圖形](https://zh.wikipedia.org/wiki/Raster_graphics "wikilink")，豐富文本，音頻和影片嵌入以及ActionScript腳本。可以為[HTML5](../Page/HTML5.md "wikilink")，[WebGL](../Page/WebGL.md "wikilink")，[可縮放向量圖形](../Page/可縮放向量圖形.md "wikilink")（SVG）動畫和[Spritesheet以及傳統](https://zh.wikipedia.org/wiki/Spritesheet "wikilink")[Flash Player](../Page/Adobe_Flash_Player.md "wikilink")（SWF）和[Adobe AIR格式發佈動畫](../Page/Adobe_AIR.md "wikilink")。
 
-它於1996年首次發佈行名為FutureSplash
-Animator，然後在[Macromedia收購後更名為Macromedia](../Page/Macromedia.md "wikilink")
-Flash。它用作Adobe Flash平台的主要創作環境，因向量基礎軟件用於創作動畫和互動式內容。於2016年名為Adobe
-Animate，以更好地反映其市場地位，因為在Animate中創作的所有內容超過三分之一使用[HTML5](../Page/HTML5.md "wikilink")。
+它於1996年首次發佈行名為FutureSplash Animator，然後在[Macromedia](../Page/Macromedia.md "wikilink")收購後更名為Macromedia Flash。它用作Adobe Flash平台的主要創作環境，因向量基礎軟件用於創作動畫和互動式內容。於2016年名為Adobe Animate，以更好地反映其市場地位，因為在Animate中創作的所有內容超過三分之一使用[HTML5](../Page/HTML5.md "wikilink")。
 
 ## 歷史
 
-Adobe Flash / Adobe Animate的第一版是FutureSplash
-Animator，這是一個在1996年5月發佈的向量圖形和向量動畫程式。FutureSplash
-Animator由[FutureWave
-Software開發](https://zh.wikipedia.org/wiki/FutureWave_Software "wikilink")。FutureWave
-Software是一家小型軟件公司，其第一款產品SmartSketch，是向量的繪圖程式，用於筆式電腦。隨著筆式操作系統內爆，它被移到Windows及Mac
-OS上。1995年，該公司決定為其產品添加動畫功能，並為國際網絡建立一個向量的動畫平台；因此有了FutureSplash Animator。
-（當時，在網絡上配置這種動畫的唯一方法是通過使用[Java](../Page/Java.md "wikilink")）。FutureSplash的動畫技術曾於多個著名網站上使用，如[MSN](../Page/MSN.md "wikilink")，[辛普森家庭網站和](../Page/辛普森一家.md "wikilink")[迪士尼公司的Disney](../Page/华特迪士尼公司.md "wikilink")
-Daily Blast。
+Adobe Flash / Adobe Animate的第一版是FutureSplash Animator，這是一個在1996年5月發佈的向量圖形和向量動畫程式。FutureSplash Animator由[FutureWave Software開發](https://zh.wikipedia.org/wiki/FutureWave_Software "wikilink")。FutureWave Software是一家小型軟件公司，其第一款產品SmartSketch，是向量的繪圖程式，用於筆式電腦。隨著筆式操作系統內爆，它被移到Windows及Mac OS上。1995年，該公司決定為其產品添加動畫功能，並為國際網絡建立一個向量的動畫平台；因此有了FutureSplash Animator。 （當時，在網絡上配置這種動畫的唯一方法是通過使用[Java](../Page/Java.md "wikilink")）。FutureSplash的動畫技術曾於多個著名網站上使用，如[MSN](../Page/MSN.md "wikilink")，[辛普森家庭網站和](../Page/辛普森一家.md "wikilink")[迪士尼公司的Disney](../Page/华特迪士尼公司.md "wikilink") Daily Blast。
 
-1996年12月，[Macromedia收購了FutureWave](../Page/Macromedia.md "wikilink")，並將該產品重新命名為Macromedia
-Flash，該品牌名稱持續使用了8個主要版本。[Adobe
-Systems於](https://zh.wikipedia.org/wiki/Adobe_Systems "wikilink")2005年收購了Macromedia，並重新命名產品Adobe
-Flash Professional以區別播放器[Adobe Flash
-Player](../Page/Adobe_Flash_Player.md "wikilink")。它被列入為[Creative
-Suite產品中](../Page/Adobe_Creative_Suite.md "wikilink")（CS3至CS6），直到Adobe逐步淘汰[Creative
-Suite系列產品以支援](../Page/Adobe_Creative_Suite.md "wikilink")[Creative
-Cloud](../Page/Adobe_Creative_Cloud.md "wikilink")（CC）。
+1996年12月，[Macromedia](../Page/Macromedia.md "wikilink")收購了FutureWave，並將該產品重新命名為Macromedia Flash，該品牌名稱持續使用了8個主要版本。[Adobe Systems於](https://zh.wikipedia.org/wiki/Adobe_Systems "wikilink")2005年收購了Macromedia，並重新命名產品Adobe Flash Professional以區別播放器[Adobe Flash Player](../Page/Adobe_Flash_Player.md "wikilink")。它被列入為[Creative Suite產品中](../Page/Adobe_Creative_Suite.md "wikilink")（CS3至CS6），直到Adobe逐步淘汰[Creative Suite系列產品以支援](../Page/Adobe_Creative_Suite.md "wikilink")[Creative Cloud](../Page/Adobe_Creative_Cloud.md "wikilink")（CC）。
 
-2015年12月1日，Adobe宣布該程式將在下一次重大更新中名為Adobe Animate。此舉是為了將該程式與[Adobe Flash
-Player分離](../Page/Adobe_Flash_Player.md "wikilink")，並承認越來越多地用[HTML5製作和影片內容](../Page/HTML5.md "wikilink")，並努力鼓勵停用Flash
-Player來支持[web
-standards解決方案](https://zh.wikipedia.org/wiki/Web_standard "wikilink")。新名稱下的第一版於2016年2月8日發佈。
+2015年12月1日，Adobe宣布該程式將在下一次重大更新中名為Adobe Animate。此舉是為了將該程式與[Adobe Flash Player分離](../Page/Adobe_Flash_Player.md "wikilink")，並承認越來越多地用[HTML5](../Page/HTML5.md "wikilink")製作和影片內容，並努力鼓勵停用Flash Player來支持[web standards解決方案](https://zh.wikipedia.org/wiki/Web_standard "wikilink")。新名稱下的第一版於2016年2月8日發佈。
 
 ## 版本
 
@@ -81,7 +57,7 @@ standards解決方案](https://zh.wikipedia.org/wiki/Web_standard "wikilink")。
 <tr class="even">
 <td><p>Macromedia Flash 5</p></td>
 <td><p>2000</p></td>
-<td><p>隨Flash Player 5釋出。新特性：Javascript、智能剪辑、<a href="../Page/HTML.md" title="wikilink">HTML文本格式</a>。</p></td>
+<td><p>隨Flash Player 5釋出。新特性：Javascript、智能剪辑、<a href="../Page/HTML.md" title="wikilink">HTML</a>文本格式。</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -112,7 +88,7 @@ standards解決方案](https://zh.wikipedia.org/wiki/Web_standard "wikilink")。
 <td><p>Adobe Flash CS4 (10) Professional</p></td>
 <td><p>2008</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Adobe_Flash_Professional_CS4_icon.png" title="fig:Adobe_Flash_Professional_CS4_icon.png">Adobe_Flash_Professional_CS4_icon.png</a></p></td>
-<td><p>极大地改变了以往的动画编辑方式。新的动画补间不再由时间线的关键帧组成，而是完全基于动画对象而创建，同时还增加了动画编辑器作为新动画方式的辅助工具。Flash CS4还集成了3D变形和反向运动骨骼，增强了字体引擎，并可以直接发布Adobe Air文件。此外，Flash CS4增强了<a href="../Page/ActionScript.md" title="wikilink">ActionScript3.0的音频类</a>（Sound Class），使其能够从数据动态输出音频，这为Flash的多媒体应用开发又开拓了更广的领域。並可透過中繼語言（java、php、.net）增強了與後台資料庫溝通讀取格式能力。</p></td>
+<td><p>极大地改变了以往的动画编辑方式。新的动画补间不再由时间线的关键帧组成，而是完全基于动画对象而创建，同时还增加了动画编辑器作为新动画方式的辅助工具。Flash CS4还集成了3D变形和反向运动骨骼，增强了字体引擎，并可以直接发布Adobe Air文件。此外，Flash CS4增强了<a href="../Page/ActionScript.md" title="wikilink">ActionScript</a>3.0的音频类（Sound Class），使其能够从数据动态输出音频，这为Flash的多媒体应用开发又开拓了更广的领域。並可透過中繼語言（java、php、.net）增強了與後台資料庫溝通讀取格式能力。</p></td>
 </tr>
 <tr class="even">
 <td><p>Adobe Flash Professional CS5 (11)</p></td>
@@ -162,7 +138,7 @@ standards解決方案](https://zh.wikipedia.org/wiki/Web_standard "wikilink")。
 <td><p>Adobe Animate CC (2015.1)</p></td>
 <td><p>2016</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Adobe_Animate_CC_2015_icon.png" title="fig:Adobe_Animate_CC_2015_icon.png">Adobe_Animate_CC_2015_icon.png</a></p></td>
-<td><p>Adobe把<a href="../Page/Adobe_Edge_Animate.md" title="wikilink">Edge Animate与</a><a href="https://zh.wikipedia.org/wiki/Adobe_Flash_Professional" title="wikilink">Flash Professional产品线进行整合之后并更名为Adobe</a> Animate，更名之后除了保留原有功能以外，还新增了<a href="../Page/HTML5.md" title="wikilink">HTML5动画的开发</a>。</p></td>
+<td><p>Adobe把<a href="../Page/Adobe_Edge_Animate.md" title="wikilink">Edge Animate与</a><a href="https://zh.wikipedia.org/wiki/Adobe_Flash_Professional" title="wikilink">Flash Professional产品线进行整合之后并更名为Adobe</a> Animate，更名之后除了保留原有功能以外，还新增了<a href="../Page/HTML5.md" title="wikilink">HTML5</a>动画的开发。</p></td>
 </tr>
 <tr class="even">
 <td><p>Adobe Animate CC 2017 (16)</p></td>
@@ -182,13 +158,11 @@ standards解決方案](https://zh.wikipedia.org/wiki/Web_standard "wikilink")。
 ### 2010年舊版特性
 
   - 被大量应用于[因特网](https://zh.wikipedia.org/wiki/因特网 "wikilink")[网页的向量动画文件格式](https://zh.wikipedia.org/wiki/网页 "wikilink")。
-  - 使用[向量圖形](https://zh.wikipedia.org/wiki/向量圖形 "wikilink")（向量
-    Graphics）的方式，產生出來的影片占用存储空间较小。
+  - 使用[向量圖形](https://zh.wikipedia.org/wiki/向量圖形 "wikilink")（向量 Graphics）的方式，產生出來的影片占用存储空间较小。
   - 使用Flash創作出的影片有自己的特殊檔案格式（[swf](https://zh.wikipedia.org/wiki/swf "wikilink")）
-  - 該公司號稱(或者聲稱)全世界97%的[網路瀏覽器都內建Flash播放器](https://zh.wikipedia.org/wiki/網路瀏覽器 "wikilink")（[Flash
-    Player](https://zh.wikipedia.org/wiki/Flash_Player "wikilink")）
+  - 該公司號稱(或者聲稱)全世界97%的[網路瀏覽器都內建Flash播放器](https://zh.wikipedia.org/wiki/網路瀏覽器 "wikilink")（[Flash Player](https://zh.wikipedia.org/wiki/Flash_Player "wikilink")）
   - 是Adobe提出的“富因特网应用”（[RIA](https://zh.wikipedia.org/wiki/RIA "wikilink")）概念的实现平台
-  - Flash6之後版本納入物件導向程式概念。與其他語言比較，不論是在資料庫、[XML](../Page/XML.md "wikilink")、[PHP等各種平台上](../Page/PHP.md "wikilink")，都能更進一步的相互結合應用。
+  - Flash6之後版本納入物件導向程式概念。與其他語言比較，不論是在資料庫、[XML](../Page/XML.md "wikilink")、[PHP](../Page/PHP.md "wikilink")等各種平台上，都能更進一步的相互結合應用。
   - 从用户体验的角度，是目前最好的前端技术。
 
 ### 2014年FLASH發展
@@ -196,8 +170,7 @@ standards解決方案](https://zh.wikipedia.org/wiki/Web_standard "wikilink")。
   - 瀏覽器路線：
       - 目前各大瀏覽器偏向自行吸收flash swf檔案，再經由自家的系統轉換成HTML，並高速化，藉以彰顯自家技術高超和維持市場占有率
       - 原player路線　持續增加3D和效能支持
-  - 行動裝置路線：由Adobe推行多年已經漸漸成熟的的Adobe AIR成為國際app開發新寵，同時省略維護和跨平台成本。詳見[Adobe
-    AIR相關介紹](../Page/Adobe_AIR.md "wikilink")
+  - 行動裝置路線：由Adobe推行多年已經漸漸成熟的的Adobe AIR成為國際app開發新寵，同時省略維護和跨平台成本。詳見[Adobe AIR相關介紹](../Page/Adobe_AIR.md "wikilink")
 
 ### 2014年後標準
 
@@ -214,9 +187,9 @@ standards解決方案](https://zh.wikipedia.org/wiki/Web_standard "wikilink")。
 
 | 文件格式                                                         | 說明                                                                                                                                                                                                                                                                     |
 | ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [swf](https://zh.wikipedia.org/wiki/swf "wikilink")          | **Shockwave Flash**的縮寫，這是一個完整的影片檔，無法被編輯。有時會被念作「swiff」或「swaif」\[6\]。SWF在發佈時可以選擇保護功能，如果沒有選擇，很容易被別人輸入到他的原始檔中使用。然而保護功能依然阻擋不了為數眾多的破解軟體，有不少[閃客專門以此來學習別人的程式碼和設計方式](../Page/閃客.md "wikilink")。                                                                                 |
+| [swf](https://zh.wikipedia.org/wiki/swf "wikilink")          | **Shockwave Flash**的縮寫，這是一個完整的影片檔，無法被編輯。有時會被念作「swiff」或「swaif」\[6\]。SWF在發佈時可以選擇保護功能，如果沒有選擇，很容易被別人輸入到他的原始檔中使用。然而保護功能依然阻擋不了為數眾多的破解軟體，有不少[閃客](../Page/閃客.md "wikilink")專門以此來學習別人的程式碼和設計方式。                                                                                 |
 | [fla](https://zh.wikipedia.org/wiki/fla "wikilink")          | Flash的原始檔，-{只}-能用 Adobe Animate 打開編輯。                                                                                                                                                                                                                                  |
-| [as](https://zh.wikipedia.org/wiki/Action_Script "wikilink") | 為**ActionScript**的缩写，是一種[程式語言的簡單文字檔案](https://zh.wikipedia.org/wiki/程式語言 "wikilink")。FLA檔案能夠直接包含[ActionScript](../Page/ActionScript.md "wikilink")，但是也可以把它存成AS檔做為外部連結檔案（如定义[ActionScript類別则必须在写在as文件裡](../Page/ActionScript.md "wikilink")，再匯入以加入類別），以方便共同工作和更進階的程式修改。 |
+| [as](https://zh.wikipedia.org/wiki/Action_Script "wikilink") | 為**ActionScript**的缩写，是一種[程式語言的簡單文字檔案](https://zh.wikipedia.org/wiki/程式語言 "wikilink")。FLA檔案能夠直接包含[ActionScript](../Page/ActionScript.md "wikilink")，但是也可以把它存成AS檔做為外部連結檔案（如定义[ActionScript](../Page/ActionScript.md "wikilink")類別则必须在写在as文件裡，再匯入以加入類別），以方便共同工作和更進階的程式修改。 |
 | [flv](https://zh.wikipedia.org/wiki/FLV "wikilink")          | Flash Video的簡稱，FLV串流媒體格式是一種視頻格式，它的出現有效地解決了視頻文件導入Flash後，使導出的SWF文件體積龐大，不能在網路上有效使用等缺點。                                                                                                                                                                                    |
 | [exe](https://zh.wikipedia.org/wiki/EXE "wikilink")          | 匯出Flash的時候的執行檔。要傳送Flash動畫給別人，要把它存成執行檔。目前支援至Windows 8 。                                                                                                                                                                                                                 |
 | [apk](../Page/APK.md "wikilink")                             | 匯出適用Android平台檔案，可單獨安裝執行；或送至Google Play平台審核，成為可搜尋下載軟件。詳見[Adobe AIR](../Page/Adobe_AIR.md "wikilink")。                                                                                                                                                                   |
@@ -240,13 +213,11 @@ standards解決方案](https://zh.wikipedia.org/wiki/Web_standard "wikilink")。
 ## 外部連結
 
   -
-[Category:Adobe软件](https://zh.wikipedia.org/wiki/Category:Adobe软件 "wikilink")
-[Category:Adobe_Flash](https://zh.wikipedia.org/wiki/Category:Adobe_Flash "wikilink")
+[Category:Adobe软件](https://zh.wikipedia.org/wiki/Category:Adobe软件 "wikilink") [Category:Adobe_Flash](https://zh.wikipedia.org/wiki/Category:Adobe_Flash "wikilink")
 
 1.
 2.
 3.
-4.  Apple Inc. modified terms & conditions for developers in the app
-    store. Adobe is developing again for iPhone and iPad CS5
+4.  Apple Inc. modified terms & conditions for developers in the app store. Adobe is developing again for iPhone and iPad CS5
 5.
 6.  <http://www.the-labs.com/MacromediaFlash/SWF-Spec/SWFfileformat.html>

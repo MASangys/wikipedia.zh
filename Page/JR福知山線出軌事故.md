@@ -1,8 +1,8 @@
-**JR福知山線出軌事故**（）是發生在2005年4月25日上午9時18分（[日本標準時間](../Page/日本標準時間.md "wikilink")），於日本[兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")[尼崎市](../Page/尼崎市.md "wikilink")，一列[西日本旅客鐵道](../Page/西日本旅客鐵道.md "wikilink")（JR西日本）[福知山線](../Page/福知山線.md "wikilink")（官方暱稱為「JR寶塚線」）的[快速電車因為](https://zh.wikipedia.org/wiki/快速電車 "wikilink")[脫軌撞擊路旁](https://zh.wikipedia.org/wiki/脫軌 "wikilink")[公寓大樓而造成](../Page/公寓.md "wikilink")107人死亡，562人受傷的重大鐵路事故。
+**JR福知山線出軌事故**（）是發生在2005年4月25日上午9時18分（[日本標準時間](../Page/日本標準時間.md "wikilink")），於日本[兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")[尼崎市](../Page/尼崎市.md "wikilink")，一列[西日本旅客鐵道](../Page/西日本旅客鐵道.md "wikilink")（JR西日本）[福知山線](../Page/福知山線.md "wikilink")（官方暱稱為「JR寶塚線」）的[快速電車因為](https://zh.wikipedia.org/wiki/快速電車 "wikilink")[脫軌撞擊路旁](https://zh.wikipedia.org/wiki/脫軌 "wikilink")[公寓](../Page/公寓.md "wikilink")大樓而造成107人死亡，562人受傷的重大鐵路事故。
 
 ## 事故概述
 
-事故發生地點位於JR西日本福知山線上[塚口與](https://zh.wikipedia.org/wiki/塚口站 "wikilink")[尼崎間](../Page/尼崎站_\(JR西日本\).md "wikilink")，一個位於[兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")[尼崎市久久知](../Page/尼崎市.md "wikilink")（<span lang="ja">久々知</span>），塚口以南約1公里的彎道區間上（彎位曲線半徑304公尺）。一列由[寶塚駛往](https://zh.wikipedia.org/wiki/寶塚車站 "wikilink")[同志社前](https://zh.wikipedia.org/wiki/同志社前站 "wikilink")（[JR東西線](../Page/JR東西線.md "wikilink")，別稱「JR學研都市線」）的上行[快速電車](https://zh.wikipedia.org/wiki/快速電車 "wikilink")（車型為[JR西日本207系0·1000番台](../Page/JR西日本207系電力動車組.md "wikilink")，七節車廂編組，班次代號5418M，之後班次代號停用）在行經該路段時，前五節車廂突然出軌，其中二節甚至撞擊鐵路旁9層樓公寓大樓一樓室內停車場的外部結構，不鏽鋼製車廂嚴重變形，車內乘客傷亡慘重。截至4月28日下午現場的搜救工作結束為止，共有107人死亡（包括23歲的司機高見隆二郎，死者中有59人為男性，48人為女性），562人受傷。
+事故發生地點位於JR西日本福知山線上[塚口與](https://zh.wikipedia.org/wiki/塚口站 "wikilink")[尼崎間](../Page/尼崎站_\(JR西日本\).md "wikilink")，一個位於[兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")[尼崎市](../Page/尼崎市.md "wikilink")久久知（<span lang="ja">久々知</span>），塚口以南約1公里的彎道區間上（彎位曲線半徑304公尺）。一列由[寶塚駛往](https://zh.wikipedia.org/wiki/寶塚車站 "wikilink")[同志社前](https://zh.wikipedia.org/wiki/同志社前站 "wikilink")（[JR東西線](../Page/JR東西線.md "wikilink")，別稱「JR學研都市線」）的上行[快速電車](https://zh.wikipedia.org/wiki/快速電車 "wikilink")（車型為[JR西日本207系0·1000番台](../Page/JR西日本207系電力動車組.md "wikilink")，七節車廂編組，班次代號5418M，之後班次代號停用）在行經該路段時，前五節車廂突然出軌，其中二節甚至撞擊鐵路旁9層樓公寓大樓一樓室內停車場的外部結構，不鏽鋼製車廂嚴重變形，車內乘客傷亡慘重。截至4月28日下午現場的搜救工作結束為止，共有107人死亡（包括23歲的司機高見隆二郎，死者中有59人為男性，48人為女性），562人受傷。
 
 肇事列車是一列混編列車，由前面的四節車廂與後面的三節車廂組成，預計在中途的[京田邊分離](https://zh.wikipedia.org/wiki/京田邊站 "wikilink")。列車從行駛方向數去的前四節車廂（207型0番台）與後三節車廂（207型1000番台）是不同時期製造，其中較新穎的後三節車廂最前端（也就是列車的第五節車廂）上，裝置有一個能在緊急煞車系統啟動5秒後開始紀錄電車速度的「監視控制器」（）。根據[國土交通省](../Page/國土交通省.md "wikilink")[航空與鐵道事故調查委員會事後分析控制器裡面的速度紀錄](../Page/航空、鐵道事故調查委員會_\(日本\).md "wikilink")，得知第五節車廂在出軌事件發生當時的車速曾高達每小時108公里，而到達事發地點前，肇事電車以時速120公里通過前一站的[塚口](https://zh.wikipedia.org/wiki/塚口站 "wikilink")，並以時速116公里通過失事彎道。
 
@@ -12,15 +12,11 @@
 
 由於遭列車撞擊的建築物有倒塌的危險，因此JR西日本安排受影響的42戶人家暫時入住旅館避難。
 
-此事故震驚日本國內及海外，成為了不少傳媒報章的頭條。法國總統[-{zh-hans:希拉克;
-zh-hant:席哈克;}-](https://zh.wikipedia.org/wiki/希拉克 "wikilink")、[德國外長](https://zh.wikipedia.org/wiki/德國 "wikilink")[-{zh-hans:菲舍尔;
-zh-hant:費雪;}-](https://zh.wikipedia.org/wiki/約書卡·費雪 "wikilink")、[美國國務卿](https://zh.wikipedia.org/wiki/美國國務卿 "wikilink")[-{zh-hans:赖斯;
-zh-hant:萊斯;}-及中國駐日大使](https://zh.wikipedia.org/wiki/康多莉扎·賴斯 "wikilink")[王毅均對日本政府就事件表示慰問](../Page/王毅.md "wikilink")。
+此事故震驚日本國內及海外，成為了不少傳媒報章的頭條。法國總統[-{zh-hans:希拉克; zh-hant:席哈克;}-](https://zh.wikipedia.org/wiki/希拉克 "wikilink")、[德國外長](https://zh.wikipedia.org/wiki/德國 "wikilink")[-{zh-hans:菲舍尔; zh-hant:費雪;}-](https://zh.wikipedia.org/wiki/約書卡·費雪 "wikilink")、[美國國務卿](https://zh.wikipedia.org/wiki/美國國務卿 "wikilink")[-{zh-hans:赖斯; zh-hant:萊斯;}-及中國駐日大使](https://zh.wikipedia.org/wiki/康多莉扎·賴斯 "wikilink")[王毅](../Page/王毅.md "wikilink")均對日本政府就事件表示慰問。
 
 ## 原因
 
-[JR-West207.jpg](https://zh.wikipedia.org/wiki/File:JR-West207.jpg "fig:JR-West207.jpg")
-根據航空與鐵道事故調查委員會，出事原因比較複雜。調查指稱，橫曲線半徑達300米的出事現場「是一個相當急的彎位」。不過，現場附近裝設的[自動列車停止裝置](../Page/自動列車停止裝置.md "wikilink")（ATS-Sw）是日本仍使用中最舊的款式。加上彎位半徑304米的缘故，這個彎位並没有[護軌等防止出軌的安全措施](https://zh.wikipedia.org/wiki/護軌 "wikilink")。
+[JR-West207.jpg](https://zh.wikipedia.org/wiki/File:JR-West207.jpg "fig:JR-West207.jpg") 根據航空與鐵道事故調查委員會，出事原因比較複雜。調查指稱，橫曲線半徑達300米的出事現場「是一個相當急的彎位」。不過，現場附近裝設的[自動列車停止裝置](../Page/自動列車停止裝置.md "wikilink")（ATS-Sw）是日本仍使用中最舊的款式。加上彎位半徑304米的缘故，這個彎位並没有[護軌等防止出軌的安全措施](https://zh.wikipedia.org/wiki/護軌 "wikilink")。
 
 事故列車的司機，在前一站伊丹站超過停止線約72公尺（過走），需要倒退回標準位置，導致誤點1分20秒。在JR西日本的政策下，司機誤點達一分鐘或以上，會遭處分，接受嚴苛的「[日勤教育](https://zh.wikipedia.org/wiki/日勤教育 "wikilink")」；官方報告指出，司機為避免接受日勤教育，加上當日司機聽到車長經內線上報在前一站伊丹站超過停止線約8公尺（實際為72公尺）的失誤，「將車速推至極限以圖追回誤點的時間」（到達事發地點前，肇事電車以120km/h通過前一站，並以116km/h抵達失事彎道），同時該失誤也「令司機分心，導致列車到失事彎道時延誤啟動煞車」，結果到彎道前（事發前4秒）才減速，即使使用了緊急制動，也已來不及將車速減至限制速度以下（70km/h），而造成嚴重的出軌事故。\[1\]\[2\]
 
@@ -43,12 +39,11 @@ zh-hant:萊斯;}-及中國駐日大使](https://zh.wikipedia.org/wiki/康多莉�
 ### 關於線路設備
 
   - 事故發生現場所在的彎道，並未設置預防出軌的內護軌；在1997年時JR為了縮短至尼崎的行車耗時，配合車站的整建將路線的曲率半徑由原本較緩和的600公尺縮減至較彎曲的304公尺。
-  - 雖然是非常繁忙的路線，但是[自動列車停止裝置上只使用了ATS](../Page/自動列車停止裝置.md "wikilink")-SW，是當時日本國內仍在使用的ATS設計中最舊的一款。
+  - 雖然是非常繁忙的路線，但是[自動列車停止裝置](../Page/自動列車停止裝置.md "wikilink")上只使用了ATS-SW，是當時日本國內仍在使用的ATS設計中最舊的一款。
 
 ### 關於JR西日本經營方針
 
-  - 為了跟自國鐵時代就有惡性競爭的私鐵公司（同區間有阪急電車寶塚線可直通大阪梅田與三宮）抗衡，實施日勤教育，嚴懲誤點的司機，然而根據日本2005年NHK特別節目報導（CLOSE
-    UP現代），JR西日本當時所實施的日勤教育，並沒有針對列車司機員與車掌進行精進教育，而是以[學長學弟制對新進人員辱罵與處罰清潔廁所等](../Page/學長學弟制.md "wikilink")[職場霸凌行為](../Page/職場霸凌.md "wikilink")，一般推測致使該名司機員不顧路段限速而超速行車的原因，是害怕被學長欺負，此外由於該員先前也有誤點兩次的紀錄，曾被口頭告知若是再犯就會面臨解僱的情形，在列車情況不佳，公司又不檢討是否有硬體上的缺失，加以制度面所帶來的壓力，終於造成這場悲劇；
+  - 為了跟自國鐵時代就有惡性競爭的私鐵公司（同區間有阪急電車寶塚線可直通大阪梅田與三宮）抗衡，實施日勤教育，嚴懲誤點的司機，然而根據日本2005年NHK特別節目報導（CLOSE UP現代），JR西日本當時所實施的日勤教育，並沒有針對列車司機員與車掌進行精進教育，而是以[學長學弟制](../Page/學長學弟制.md "wikilink")對新進人員辱罵與處罰清潔廁所等[職場霸凌](../Page/職場霸凌.md "wikilink")行為，一般推測致使該名司機員不顧路段限速而超速行車的原因，是害怕被學長欺負，此外由於該員先前也有誤點兩次的紀錄，曾被口頭告知若是再犯就會面臨解僱的情形，在列車情況不佳，公司又不檢討是否有硬體上的缺失，加以制度面所帶來的壓力，終於造成這場悲劇；
   - 「」（時間補償）全廢，餘裕時分是指站與站之間的最短行車時間上加數秒至數十秒的時間，以便在誤點時逐漸追回。JR西日本在事發時的政策是在設計時刻表時沒有加上時間補償；
   - 班次過密（根據日本2005年NHK特別節目報導，當時尖峰時段列車車次數量，為兩分鐘一班車，超過當時線路所能負荷之量，這還不包括特急列車在內）；
   - JR西日本在2002年重新整理行車時間表，令事故路段容許誤點的時間由71秒降至29秒。
@@ -58,9 +53,8 @@ zh-hant:萊斯;}-及中國駐日大使](https://zh.wikipedia.org/wiki/康多莉�
 ### 關於路線週邊環境
 
   - 肇事電車撞上的住宅樓宇跟路線僅有不足6公尺的距離。
-  - 根據日本2005年NHK報導節目《[CLOSE
-    UP現代](../Page/今日焦點.md "wikilink")》，事故發生之原路段在國鐵時期是貨物列車調度站。在改為JR西日本之後，鑑於土地利用與重工業沒落，遂將其調度站裁撤，並改建成現有路段（上下行雙線化），然而計畫之初卻沒有考慮保持原有的直線上下線，而是現在所看到的S字型彎道，這讓人質疑不但讓列車行駛於該路段必須減速，甚至也是造成此次事故的間接原因。有專家指出若是當初採用直線直接通往尼崎站的話，列車速度不僅大幅提昇，亦可能避免掉此次重大意外。惟通過路段之後，受限於物理原因，必須以高架橋路段跨過東海道本線而駛入尼崎車站（因寶塚線是與東西線的地下化路段直通，所以寶塚線的月台是在尼崎車站的最中間），由於此一原因，彎道形成的原因被視為是減少坡度所致。然而詳情卻不清楚。
-  - 此路段「JR寶塚線」正式名稱「福知山線」，是京阪神通往山陰地區的重要幹線之一。原本此一路段並沒有考慮行駛通勤電車，故與山陰本線所面臨的兩個問題大致雷同：一是線路設計標準，原有的福知山線與山陰本線，是以考量通往山陰地方的聯絡，僅需行車即可，也因此電氣化年代最晚；然而1986年11月1日全線電氣化之後，受限於先前尚未電氣化時代的線路，彎道較多的情形則未改善，爾後有改良工程，如雙線化與部份路段以截彎取直方式改建，必要時配合地形修築隧道與橋樑，但福知山至[篠山口路段仍為單線](../Page/篠山口站.md "wikilink")，使得列車會車的時間必定受到延誤，列車調度的彈性也不足。其二是與山陰本線單線有關，山陰本線目前從京都到[城崎溫泉車站為電氣化](../Page/城崎溫泉車站.md "wikilink")，城崎溫泉至[伯耆大山站長達](../Page/伯耆大山站.md "wikilink")160公里路段仍為未電氣化區間，但單線區間與彎道多的問題仍舊未能獲得改善，故京都與大阪至山陰地方的列車，只要稍有延誤就會影響到其他線路的轉乘，同時各站停車與快速等級的電車就必須遷就於特急列車的誤點（如往來大阪到城崎溫泉的「[特急北近畿號](https://zh.wikipedia.org/wiki/北近畿號 "wikilink")」列車，與往來[天橋立車站的](../Page/天橋立車站.md "wikilink")「[丹後發現號](../Page/丹後發現號列車.md "wikilink")」，在天候不佳與觀光旺季的情形下列車誤點時有所聞）；此一情形下，準點率大幅降低。偏偏在高度經濟成長期，大量的勞動人口湧入了以往福知山線沿線的[新市鎮](../Page/新市鎮.md "wikilink")（尤以寶塚到[新三田最嚴重](https://zh.wikipedia.org/wiki/新三田站 "wikilink")），大批[國宅興建](https://zh.wikipedia.org/wiki/國宅 "wikilink")，使得人口爆增，一時之間列車運能跟不上通勤人口成長速度，又因過去不考慮通勤的情形下單一列車皆以四至七節車廂為主，使得單一車次載客量一直無法提昇，月台長度又受限於舊的土地利用無法擴建，以致通勤尖峰時間上下車人次過多導致誤點。另，福知山車站是山陰本線和寶塚線及[舞鶴線等的重要樞紐](../Page/舞鶴線.md "wikilink")，轉乘與直達列車相互干擾，一直是困擾著JR西日本的重要問題。
+  - 根據日本2005年NHK報導節目《[CLOSE UP現代](../Page/今日焦點.md "wikilink")》，事故發生之原路段在國鐵時期是貨物列車調度站。在改為JR西日本之後，鑑於土地利用與重工業沒落，遂將其調度站裁撤，並改建成現有路段（上下行雙線化），然而計畫之初卻沒有考慮保持原有的直線上下線，而是現在所看到的S字型彎道，這讓人質疑不但讓列車行駛於該路段必須減速，甚至也是造成此次事故的間接原因。有專家指出若是當初採用直線直接通往尼崎站的話，列車速度不僅大幅提昇，亦可能避免掉此次重大意外。惟通過路段之後，受限於物理原因，必須以高架橋路段跨過東海道本線而駛入尼崎車站（因寶塚線是與東西線的地下化路段直通，所以寶塚線的月台是在尼崎車站的最中間），由於此一原因，彎道形成的原因被視為是減少坡度所致。然而詳情卻不清楚。
+  - 此路段「JR寶塚線」正式名稱「福知山線」，是京阪神通往山陰地區的重要幹線之一。原本此一路段並沒有考慮行駛通勤電車，故與山陰本線所面臨的兩個問題大致雷同：一是線路設計標準，原有的福知山線與山陰本線，是以考量通往山陰地方的聯絡，僅需行車即可，也因此電氣化年代最晚；然而1986年11月1日全線電氣化之後，受限於先前尚未電氣化時代的線路，彎道較多的情形則未改善，爾後有改良工程，如雙線化與部份路段以截彎取直方式改建，必要時配合地形修築隧道與橋樑，但福知山至[篠山口路段仍為單線](../Page/篠山口站.md "wikilink")，使得列車會車的時間必定受到延誤，列車調度的彈性也不足。其二是與山陰本線單線有關，山陰本線目前從京都到[城崎溫泉車站](../Page/城崎溫泉車站.md "wikilink")為電氣化，城崎溫泉至[伯耆大山站](../Page/伯耆大山站.md "wikilink")長達160公里路段仍為未電氣化區間，但單線區間與彎道多的問題仍舊未能獲得改善，故京都與大阪至山陰地方的列車，只要稍有延誤就會影響到其他線路的轉乘，同時各站停車與快速等級的電車就必須遷就於特急列車的誤點（如往來大阪到城崎溫泉的「[特急北近畿號](https://zh.wikipedia.org/wiki/北近畿號 "wikilink")」列車，與往來[天橋立車站](../Page/天橋立車站.md "wikilink")的「[丹後發現號](../Page/丹後發現號列車.md "wikilink")」，在天候不佳與觀光旺季的情形下列車誤點時有所聞）；此一情形下，準點率大幅降低。偏偏在高度經濟成長期，大量的勞動人口湧入了以往福知山線沿線的[新市鎮](../Page/新市鎮.md "wikilink")（尤以寶塚到[新三田最嚴重](https://zh.wikipedia.org/wiki/新三田站 "wikilink")），大批[國宅興建](https://zh.wikipedia.org/wiki/國宅 "wikilink")，使得人口爆增，一時之間列車運能跟不上通勤人口成長速度，又因過去不考慮通勤的情形下單一列車皆以四至七節車廂為主，使得單一車次載客量一直無法提昇，月台長度又受限於舊的土地利用無法擴建，以致通勤尖峰時間上下車人次過多導致誤點。另，福知山車站是山陰本線和寶塚線及[舞鶴線](../Page/舞鶴線.md "wikilink")等的重要樞紐，轉乘與直達列車相互干擾，一直是困擾著JR西日本的重要問題。
 
 ## 紀念
 
@@ -73,8 +67,8 @@ JR西日本依罹難者家屬及受傷者的意見，於事故現場闢建名為
 ### 彎道超速肇禍
 
   - [2013年聖地亞哥-德孔波斯特拉火車事故](../Page/2013年聖地亞哥-德孔波斯特拉火車事故.md "wikilink")：2013年7月24日，一列從西班牙馬德里往聖地亞哥-德孔波斯特拉的Alvia客運列車，在進入聖地亞哥-德孔波斯特拉的車站之前發生出軌事故，造成78人死亡，178人受傷。
-  - [2008年膠濟鐵路列車相撞事故](https://zh.wikipedia.org/wiki/2008年膠濟鐵路列車相撞事故 "wikilink")：2008年4月28日發生在[中國](../Page/中國.md "wikilink")[山東省](https://zh.wikipedia.org/wiki/山東省 "wikilink")[淄博市](../Page/淄博市.md "wikilink")[膠濟鐵路王村站附近](../Page/膠濟鐵路.md "wikilink")，因鐵路局間調度命令傳遞混亂造成[T195次司機員使用的IC卡資料未更新](https://zh.wikipedia.org/wiki/T195/196次列車 "wikilink")，王村站亦未通知該列車相關限速，加上司機員未確實瞭望，最後在彎道時超速出軌，車廂並侵入對向路線和5034次列車發生衝突，造成72人死亡，416人受傷。
-  - [2018年宜蘭普悠瑪列車出軌事故](https://zh.wikipedia.org/wiki/2018年宜蘭普悠瑪列車出軌事故 "wikilink")：2018年10月21日下午4點50分，一列從[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[樹林車站開往](https://zh.wikipedia.org/wiki/樹林車站 "wikilink")[臺東車站的](../Page/臺東車站.md "wikilink")[普悠瑪](https://zh.wikipedia.org/wiki/普悠瑪 "wikilink")[自強號列車](https://zh.wikipedia.org/wiki/自強號 "wikilink")，於[宜蘭縣](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")[蘇澳鎮](../Page/蘇澳鎮_\(台灣\).md "wikilink")[新馬車站發生列車出軌意外](../Page/新馬車站.md "wikilink")，造成18人死亡，215人（包含司機員）受傷。是普悠瑪號列車開行以來最重大之事故。
+  - [2008年膠濟鐵路列車相撞事故](https://zh.wikipedia.org/wiki/2008年膠濟鐵路列車相撞事故 "wikilink")：2008年4月28日發生在[中國](../Page/中國.md "wikilink")[山東省](https://zh.wikipedia.org/wiki/山東省 "wikilink")[淄博市](../Page/淄博市.md "wikilink")[膠濟鐵路](../Page/膠濟鐵路.md "wikilink")王村站附近，因鐵路局間調度命令傳遞混亂造成[T195次司機員使用的IC卡資料未更新](https://zh.wikipedia.org/wiki/T195/196次列車 "wikilink")，王村站亦未通知該列車相關限速，加上司機員未確實瞭望，最後在彎道時超速出軌，車廂並侵入對向路線和5034次列車發生衝突，造成72人死亡，416人受傷。
+  - [2018年宜蘭普悠瑪列車出軌事故](https://zh.wikipedia.org/wiki/2018年宜蘭普悠瑪列車出軌事故 "wikilink")：2018年10月21日下午4點50分，一列從[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[樹林車站開往](https://zh.wikipedia.org/wiki/樹林車站 "wikilink")[臺東車站](../Page/臺東車站.md "wikilink")的[普悠瑪](https://zh.wikipedia.org/wiki/普悠瑪 "wikilink")[自強號列車](https://zh.wikipedia.org/wiki/自強號 "wikilink")，於[宜蘭縣](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")[蘇澳鎮](../Page/蘇澳鎮_\(台灣\).md "wikilink")[新馬車站](../Page/新馬車站.md "wikilink")發生列車出軌意外，造成18人死亡，215人（包含司機員）受傷。是普悠瑪號列車開行以來最重大之事故。
 
 ### 信號故障
 
@@ -87,7 +81,7 @@ JR西日本依罹難者家屬及受傷者的意見，於事故現場闢建名為
 
 [國家地理頻道](../Page/國家地理頻道.md "wikilink")2012年至2013年節目《[重返危機現場](../Page/重返危機現場.md "wikilink")》（）拍成紀錄片，在第六季第七集播放。
 
-[2014年日本導演](../Page/2014年.md "wikilink")[三宅響子與](https://zh.wikipedia.org/wiki/三宅響子 "wikilink")[NHK拍了一個紀錄片](https://zh.wikipedia.org/wiki/NHK "wikilink")，片名《死亡列車終點站（原名；）》，該片回顧事件發生原因，並訪問當事人或其家屬，探討那一天發生的事故。[2015年](../Page/2015年.md "wikilink")[臺灣](../Page/臺灣.md "wikilink")[公視以](https://zh.wikipedia.org/wiki/公視 "wikilink")「80秒殺人事件」播出此紀錄片，並在[2018年宜蘭普悠瑪列車出軌事故發生後不久再度重播](https://zh.wikipedia.org/wiki/2018年宜蘭普悠瑪列車出軌事故 "wikilink")。
+[2014年](../Page/2014年.md "wikilink")日本導演[三宅響子與](https://zh.wikipedia.org/wiki/三宅響子 "wikilink")[NHK拍了一個紀錄片](https://zh.wikipedia.org/wiki/NHK "wikilink")，片名《死亡列車終點站（原名；）》，該片回顧事件發生原因，並訪問當事人或其家屬，探討那一天發生的事故。[2015年](../Page/2015年.md "wikilink")[臺灣](../Page/臺灣.md "wikilink")[公視以](https://zh.wikipedia.org/wiki/公視 "wikilink")「80秒殺人事件」播出此紀錄片，並在[2018年宜蘭普悠瑪列車出軌事故發生後不久再度重播](https://zh.wikipedia.org/wiki/2018年宜蘭普悠瑪列車出軌事故 "wikilink")。
 
 國家地理頻道節目《[絕處逢生](https://zh.wikipedia.org/wiki/絕處逢生 "wikilink")》（）以《大阪火車意外》為標題，採訪第一線救援人員、家屬、倖存乘客，並輔以模擬現場拍攝的短片製作，於第一季第三集播出。
 
@@ -96,18 +90,10 @@ JR西日本依罹難者家屬及受傷者的意見，於事故現場闢建名為
 ## 外部連結
 
   - [運輸安全委員会](http://www.mlit.go.jp/jtsb/index.html)
-  - [Yahoo\! News -
-    JR福知山線脱線事故](https://web.archive.org/web/20050428030228/http://dailynews.yahoo.co.jp/fc/local/jr_fukuchiyama_accident/)
-
+  - [Yahoo\! News - JR福知山線脱線事故](https://web.archive.org/web/20050428030228/http://dailynews.yahoo.co.jp/fc/local/jr_fukuchiyama_accident/)
   - [維基新聞報導](https://zh.wikipedia.org/wiki/:en:n:Rescuers_search_for_survivors_of_Japan_rail_disaster "wikilink")
 
-
-[Category:脱轨](https://zh.wikipedia.org/wiki/Category:脱轨 "wikilink")
-[Category:西日本旅客鐵道](https://zh.wikipedia.org/wiki/Category:西日本旅客鐵道 "wikilink")
-[Category:日本鐵路事故](https://zh.wikipedia.org/wiki/Category:日本鐵路事故 "wikilink")
-[Category:2005年铁路事故](https://zh.wikipedia.org/wiki/Category:2005年铁路事故 "wikilink")
-[Category:2005年日本](https://zh.wikipedia.org/wiki/Category:2005年日本 "wikilink")
-[Category:尼崎市](https://zh.wikipedia.org/wiki/Category:尼崎市 "wikilink")
+[Category:脱轨](https://zh.wikipedia.org/wiki/Category:脱轨 "wikilink") [Category:西日本旅客鐵道](https://zh.wikipedia.org/wiki/Category:西日本旅客鐵道 "wikilink") [Category:日本鐵路事故](https://zh.wikipedia.org/wiki/Category:日本鐵路事故 "wikilink") [Category:2005年铁路事故](https://zh.wikipedia.org/wiki/Category:2005年铁路事故 "wikilink") [Category:2005年日本](https://zh.wikipedia.org/wiki/Category:2005年日本 "wikilink") [Category:尼崎市](https://zh.wikipedia.org/wiki/Category:尼崎市 "wikilink")
 
 1.  [航空與鐵道事故調查委員會官方報告](http://www.mlit.go.jp/jtsb/eng-rail_report/RA2007-3-1en.pdf)（英文）
 

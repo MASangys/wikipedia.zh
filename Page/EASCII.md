@@ -1,23 +1,16 @@
-（，延伸美国标准信息交换码）是将[ASCII码由](../Page/ASCII.md "wikilink")7[位扩充为](https://zh.wikipedia.org/wiki/位 "wikilink")8位而成。EASCII的内码是由0到255共有256个字符组成。EASCII码比ASCII码扩充出来的符号包括表格符号、计算符号、希腊字母和特殊的拉丁符号。
+（，延伸美国标准信息交换码）是将[ASCII](../Page/ASCII.md "wikilink")码由7[位扩充为](https://zh.wikipedia.org/wiki/位 "wikilink")8位而成。EASCII的内码是由0到255共有256个字符组成。EASCII码比ASCII码扩充出来的符号包括表格符号、计算符号、希腊字母和特殊的拉丁符号。
 
 ## Code Page 437
 
-[代码页437](https://zh.wikipedia.org/wiki/代碼頁437 "wikilink")（[Code
-page 437](https://en.wikipedia.org/wiki/Code_page_437)）是始祖[IBM
-PC](../Page/IBM_PC.md "wikilink")（[个人电脑](../Page/个人电脑.md "wikilink")）或[MS-DOS使用的字元编码](../Page/MS-DOS.md "wikilink")。又名为CP437、OEM
-437\[1\] PC-8\[2\]、或MS-DOS Latin
-US\[3\]。该字集包含[ASCII由](../Page/ASCII.md "wikilink")32–126的字码、附加符号、一些[希腊字母](../Page/希腊字母.md "wikilink")、图示以及制图符号。其有时也称为“OEM字型”或“high
-ASCII”或“extended ASCII”\[2\]（互不兼容的众多ASCII扩充字集之一）。
+[代码页437](https://zh.wikipedia.org/wiki/代碼頁437 "wikilink")（[Code page 437](https://en.wikipedia.org/wiki/Code_page_437)）是始祖[IBM PC](../Page/IBM_PC.md "wikilink")（[个人电脑](../Page/个人电脑.md "wikilink")）或[MS-DOS](../Page/MS-DOS.md "wikilink")使用的字元编码。又名为CP437、OEM 437\[1\] PC-8\[2\]、或MS-DOS Latin US\[3\]。该字集包含[ASCII](../Page/ASCII.md "wikilink")由32–126的字码、附加符号、一些[希腊字母](../Page/希腊字母.md "wikilink")、图示以及制图符号。其有时也称为“OEM字型”或“high ASCII”或“extended ASCII”\[2\]（互不兼容的众多ASCII扩充字集之一）。
 
 [Codepage-437.png](https://zh.wikipedia.org/wiki/File:Codepage-437.png "fig:Codepage-437.png")以[VGA顯示卡顯現的](https://zh.wikipedia.org/wiki/VGA "wikilink")「代碼頁437」\]\]
 
 ## ISO/IEC 8859-1
 
-[ISO/IEC
-8859是最常見的](https://zh.wikipedia.org/wiki/ISO/IEC_8859 "wikilink")8位字符編碼。除此之外，不同的操作系統都會有它的8位字符編碼。
+[ISO/IEC 8859是最常見的](https://zh.wikipedia.org/wiki/ISO/IEC_8859 "wikilink")8位字符編碼。除此之外，不同的操作系統都會有它的8位字符編碼。
 
-下列符号是[ISO/IEC
-8859-1所包含的符号](https://zh.wikipedia.org/wiki/ISO/IEC_8859-1 "wikilink")，是在[万维网和中使用的扩展](../Page/万维网.md "wikilink")[ASCII](../Page/ASCII.md "wikilink")[字符集中最常见的的符号](https://zh.wikipedia.org/wiki/字符集 "wikilink")。
+下列符号是[ISO/IEC 8859-1所包含的符号](https://zh.wikipedia.org/wiki/ISO/IEC_8859-1 "wikilink")，是在[万维网](../Page/万维网.md "wikilink")和中使用的扩展[ASCII](../Page/ASCII.md "wikilink")[字符集中最常见的的符号](https://zh.wikipedia.org/wiki/字符集 "wikilink")。
 
 <table class="wikitable">
 
@@ -2159,7 +2152,7 @@ NBSP
 
 ## 在计算机可读语言中的应用
 
-在例如[C和](../Page/C.md "wikilink")[HTML这样的编程语言和文档语中](../Page/HTML.md "wikilink")，EASCII的编码原理起着重要作用。它使得计算机可读语言的解释器能以较小的开发代价支持众多编码，达到多语言支持。
+在例如[C](../Page/C.md "wikilink")和[HTML](../Page/HTML.md "wikilink")这样的编程语言和文档语中，EASCII的编码原理起着重要作用。它使得计算机可读语言的解释器能以较小的开发代价支持众多编码，达到多语言支持。
 
 EASCII的编码原理即：
 
@@ -2175,8 +2168,8 @@ EASCII的编码原理即：
 
 ## EASCII字符快速输入法
 
-在[Windows下](https://zh.wikipedia.org/wiki/Windows "wikilink")，打开[小键盘](https://zh.wikipedia.org/wiki/小键盘 "wikilink")，按住ALT键，然后输入EASCII码［如按住ALT键并依次输入数字键区数字2、5、5可输入带[分音符的y](../Page/分音符.md "wikilink")（[ÿ](https://zh.wikipedia.org/wiki/ÿ "wikilink")）］。
+在[Windows下](https://zh.wikipedia.org/wiki/Windows "wikilink")，打开[小键盘](https://zh.wikipedia.org/wiki/小键盘 "wikilink")，按住ALT键，然后输入EASCII码［如按住ALT键并依次输入数字键区数字2、5、5可输入带[分音符](../Page/分音符.md "wikilink")的y（[ÿ](https://zh.wikipedia.org/wiki/ÿ "wikilink")）］。
 
-在[Vim中](../Page/Vim.md "wikilink")，在插入模式下，可以先按Ctrl-V，再输入代表EASCII码的（至多三位）[十进制数字](../Page/十进制.md "wikilink")。
+在[Vim](../Page/Vim.md "wikilink")中，在插入模式下，可以先按Ctrl-V，再输入代表EASCII码的（至多三位）[十进制](../Page/十进制.md "wikilink")数字。
 
 [Category:字符集](https://zh.wikipedia.org/wiki/Category:字符集 "wikilink")

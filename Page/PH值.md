@@ -1,5 +1,4 @@
-**pH**，亦称**pH值**、**氢离子浓度指数**、**酸鹼值**\[1\]、**\[-{离}-巠\]（音<span title=líng>ㄌㄧㄥˊ</span>）標值**\[2\]，是[溶液中](../Page/溶液.md "wikilink")[氢](../Page/氢.md "wikilink")[离子](../Page/离子.md "wikilink")[活度的一种标度](https://zh.wikipedia.org/wiki/活度 "wikilink")，也就是通常意义上溶液[酸](../Page/酸.md "wikilink")[碱程度的衡量标准](../Page/碱.md "wikilink")。这个概念是1909年由[丹麦](https://zh.wikipedia.org/wiki/丹麦 "wikilink")[生物化学家](../Page/生物化学.md "wikilink")[瑟倫·索倫森提出的](../Page/瑟倫·索倫森.md "wikilink")。「pH」中的「H」代表氫離子（H<sup>+</sup>），而「p」的來源則有幾種說法。第一種稱p代表德语「Potenz」，意思是力度、強度；第二種稱pH代表[拉丁文](https://zh.wikipedia.org/wiki/拉丁文 "wikilink")「pondus
-hydrogenii」，即「氫的量」；第三種認為p只是索倫森随意选定的符号，因为他也用了q。现今的化学界把p加在[无量纲量前面表示该量的负](../Page/无量纲量.md "wikilink")[对数](https://zh.wikipedia.org/wiki/对数 "wikilink")。
+**pH**，亦称**pH值**、**氢离子浓度指数**、**酸鹼值**\[1\]、**\[-{离}-巠\]（音<span title=líng>ㄌㄧㄥˊ</span>）標值**\[2\]，是[溶液](../Page/溶液.md "wikilink")中[氢](../Page/氢.md "wikilink")[离子](../Page/离子.md "wikilink")[活度的一种标度](https://zh.wikipedia.org/wiki/活度 "wikilink")，也就是通常意义上溶液[酸](../Page/酸.md "wikilink")[碱](../Page/碱.md "wikilink")程度的衡量标准。这个概念是1909年由[丹麦](https://zh.wikipedia.org/wiki/丹麦 "wikilink")[生物化学](../Page/生物化学.md "wikilink")家[瑟倫·索倫森](../Page/瑟倫·索倫森.md "wikilink")提出的。「pH」中的「H」代表氫離子（H<sup>+</sup>），而「p」的來源則有幾種說法。第一種稱p代表德语「Potenz」，意思是力度、強度；第二種稱pH代表[拉丁文](https://zh.wikipedia.org/wiki/拉丁文 "wikilink")「pondus hydrogenii」，即「氫的量」；第三種認為p只是索倫森随意选定的符号，因为他也用了q。现今的化学界把p加在[无量纲量](../Page/无量纲量.md "wikilink")前面表示该量的负[对数](https://zh.wikipedia.org/wiki/对数 "wikilink")。
 
 通常情况下（25[℃](https://zh.wikipedia.org/wiki/摄氏度 "wikilink")、298[K左右](../Page/开尔文.md "wikilink")），当pH小于7的时候，溶液呈[酸性](https://zh.wikipedia.org/wiki/酸性 "wikilink")，当pH大于7的时候，溶液呈[碱性](https://zh.wikipedia.org/wiki/碱性 "wikilink")，当pH等于7的时候，溶液为[中性](https://zh.wikipedia.org/wiki/中性 "wikilink")。
 
@@ -18,7 +17,7 @@ pH允许小于0，如[鹽酸](https://zh.wikipedia.org/wiki/鹽酸 "wikilink")�
 | [檸檬汁](https://zh.wikipedia.org/wiki/檸檬 "wikilink")                                  | <span style="color:#FFFFFF;">2.40</span>                |
 | [可樂](https://zh.wikipedia.org/wiki/可樂 "wikilink")                                   | <span style="color:#FFFFFF;">2.50</span>                |
 | [食醋](https://zh.wikipedia.org/wiki/食醋 "wikilink")                                   | <span style="color:#FFFFFF;">2.90</span>                |
-| [橙汁](../Page/橙.md "wikilink")                                                       | 3.50                                                    |
+| [橙](../Page/橙.md "wikilink")汁                                                       | 3.50                                                    |
 | [蘋果汁](https://zh.wikipedia.org/wiki/蘋果 "wikilink")                                  | 4.00                                                    |
 | [啤酒](../Page/啤酒.md "wikilink")                                                      | 4.50                                                    |
 | [咖啡](../Page/咖啡.md "wikilink")                                                      | 5.00                                                    |
@@ -26,10 +25,10 @@ pH允许小于0，如[鹽酸](https://zh.wikipedia.org/wiki/鹽酸 "wikilink")�
 | [酸雨](../Page/酸雨.md "wikilink")                                                      | \< 5.60                                                 |
 | [牛奶](../Page/牛奶.md "wikilink")                                                      | 6.50                                                    |
 | 純[水](../Page/水.md "wikilink")，[氯化钠溶液](https://zh.wikipedia.org/wiki/氯化钠 "wikilink") | 7.00（[中性](https://zh.wikipedia.org/wiki/中性 "wikilink")） |
-| [人类](../Page/人.md "wikilink")[血液](../Page/血液.md "wikilink")                         | <span style="color:#FFFFFF">7.34 - 7.45</span>          |
+| [人](../Page/人.md "wikilink")类[血液](../Page/血液.md "wikilink")                         | <span style="color:#FFFFFF">7.34 - 7.45</span>          |
 | [海水](../Page/海水.md "wikilink")                                                      | <span style="color:#FFFFFF">8.00</span>                 |
 | 洗手[皂](../Page/肥皂.md "wikilink")                                                     | <span style="color:#FFFFFF">9.00 - 10.0</span>          |
-| 家用[氨水除垢劑](../Page/氨水.md "wikilink")                                                 | <span style="color:#FFFFFF;">11.5</span>                |
+| 家用[氨水](../Page/氨水.md "wikilink")除垢劑                                                 | <span style="color:#FFFFFF;">11.5</span>                |
 | [漂白水（次氯酸鈉）](../Page/次氯酸鈉.md "wikilink")                                             | <span style="color:#FFFFFF;">12.5</span>                |
 | 家用[氫氧化鈉](https://zh.wikipedia.org/wiki/氫氧化鈉 "wikilink")                             | <span style="color:#FFFFFF;">13.5</span>                |
 | [氫氧化鈉](https://zh.wikipedia.org/wiki/氫氧化鈉 "wikilink")（1 mol/L）                      | <span style="color:#FFFFFF;">14.0</span>                |
@@ -46,8 +45,7 @@ pH的計算公式如下：
 
 在25°C下，pH=7的水溶液（如：純[水](../Page/水.md "wikilink")）為中性，這是因為水在25°C下自然電離出的氫離子和[氫氧根離子濃度的乘積](https://zh.wikipedia.org/wiki/氫氧根 "wikilink")（水的[離子積常數](https://zh.wikipedia.org/wiki/離子積 "wikilink")）始終是1×10<sup>−14</sup>，且兩種離子的濃度都是1×10<sup>−7</sup>mol/L。pH小于7說明H<sup>+</sup>的濃度大於OH<sup>−</sup>的濃度，故溶液酸性強，而pH大于7則說明H<sup>+</sup>的濃度小於OH<sup>−</sup>的濃度，故溶液鹼性強。所以pH愈小，溶液的酸性愈強；pH愈大，溶液的鹼性也就愈強。
 
-在非水溶液或25°C的條件下，pH=7可能並不代表溶液呈中性，這需要通過計算該[溶劑在這種條件下的電離常數來決定pH為中性的值](https://zh.wikipedia.org/wiki/溶劑 "wikilink")。如373[K](https://zh.wikipedia.org/wiki/開爾文 "wikilink")（100℃）的溫度下，水的离子积常数为5.5×10<sup>−13</sup>，即pH约为6.13，此时為中性溶液。
-由于实际中的溶液不是理想溶液，所以仅仅用H<sup>+</sup>浓度是不可以准确测量的，因此也无法准确计算得到溶液的pH。故而应当采用H<sup>+</sup>活度，即
+在非水溶液或25°C的條件下，pH=7可能並不代表溶液呈中性，這需要通過計算該[溶劑在這種條件下的電離常數來決定pH為中性的值](https://zh.wikipedia.org/wiki/溶劑 "wikilink")。如373[K](https://zh.wikipedia.org/wiki/開爾文 "wikilink")（100℃）的溫度下，水的离子积常数为5.5×10<sup>−13</sup>，即pH约为6.13，此时為中性溶液。 由于实际中的溶液不是理想溶液，所以仅仅用H<sup>+</sup>浓度是不可以准确测量的，因此也无法准确计算得到溶液的pH。故而应当采用H<sup>+</sup>活度，即
 
 \[\mathrm{pH} = - \log_{10}(a {H}^+) = \log_{10}\left(\frac{1}{a {H}^+}\right)\]
 
@@ -62,8 +60,7 @@ pH的計算公式如下：
 
 \[\text{pH(X)} = \text{pH(S)}+\frac{(E_\text{S} - E_\text{X}) F}{RTln(10)}\]
 
-式中F为法拉第常数，\(R\)为摩尔气体常数，\(T\)为热力学温度。
-因此可以通过测定未知溶液与标准溶液的电动势就可以计算出未知溶液的pH。为此IUPAC规定了一些标准溶液的pH。\[5\]
+式中F为法拉第常数，\(R\)为摩尔气体常数，\(T\)为热力学温度。 因此可以通过测定未知溶液与标准溶液的电动势就可以计算出未知溶液的pH。为此IUPAC规定了一些标准溶液的pH。\[5\]
 
 ## 测量
 
@@ -144,7 +141,7 @@ pOH（[氢氧根离子浓度指数](https://zh.wikipedia.org/wiki/氢氧根离�
 
   - 医学上：人体血液的pH通常在7.35-7.45之间，如果发生波动，就是病理现象。唾液的pH也用于判断病情。
   - 化学和化工上：很多化学反应需要在特定的pH下进行，否则得不到所期望的产物。
-  - 农业上：很多植物有喜歡酸性土壤或碱性土壤的习性，例如[茶的种植](../Page/茶.md "wikilink")。控制土壤的pH可以使种植的植物生长的更好。
+  - 农业上：很多植物有喜歡酸性土壤或碱性土壤的习性，例如[茶](../Page/茶.md "wikilink")的种植。控制土壤的pH可以使种植的植物生长的更好。
 
 ## 参见
 
@@ -162,26 +159,16 @@ pOH（[氢氧根离子浓度指数](https://zh.wikipedia.org/wiki/氢氧根离�
 
 ## 外部連接
 
-  - [The pH
-    Scale](https://web.archive.org/web/20180929070151/http://www.science.uwaterloo.ca/~cchieh/cact/c123/ph.html)
-  - [Chem1 Virtual Textbook, Acid-base Equilibria and
-    Calculations](http://www.chem1.com/acad/webtext/pdf/c1xacid2.pdf)
-  - [Red Cabbage pH
-    Indicator](http://chemistry.about.com/library/weekly/aa012803a.htm)
-  - [Food and Foodstuff – pH
-    Values](http://www.engineeringtoolbox.com/food-ph-d_403.html)
-  - [Online pH Calculator for about 100 inorganic Acids, Bases, and
-    Salts](http://www.aqion.onl)
+  - [The pH Scale](https://web.archive.org/web/20180929070151/http://www.science.uwaterloo.ca/~cchieh/cact/c123/ph.html)
+  - [Chem1 Virtual Textbook, Acid-base Equilibria and Calculations](http://www.chem1.com/acad/webtext/pdf/c1xacid2.pdf)
+  - [Red Cabbage pH Indicator](http://chemistry.about.com/library/weekly/aa012803a.htm)
+  - [Food and Foodstuff – pH Values](http://www.engineeringtoolbox.com/food-ph-d_403.html)
+  - [Online pH Calculator for about 100 inorganic Acids, Bases, and Salts](http://www.aqion.onl)
 
-[Category:酸碱化学](https://zh.wikipedia.org/wiki/Category:酸碱化学 "wikilink")
-[Category:度量](https://zh.wikipedia.org/wiki/Category:度量 "wikilink")
-[Category:化学性质](https://zh.wikipedia.org/wiki/Category:化学性质 "wikilink")
+[Category:酸碱化学](https://zh.wikipedia.org/wiki/Category:酸碱化学 "wikilink") [Category:度量](https://zh.wikipedia.org/wiki/Category:度量 "wikilink") [Category:化学性质](https://zh.wikipedia.org/wiki/Category:化学性质 "wikilink")
 
-1.  [高立出版集團 --
-    普通化學實驗(彩色版)](http://www.gau-lih.com.tw/tier/front/bin/partprint.phtml?Part=00032X&Category=0&Style=1)
+1.  [高立出版集團 -- 普通化學實驗(彩色版)](http://www.gau-lih.com.tw/tier/front/bin/partprint.phtml?Part=00032X&Category=0&Style=1)
 2.
 3.  <http://www.xieshil.com/post/48714.htm> pH的操作定义
 4.  中华人民共和国国家标准 物理化学和分子物理学的量和单位 GB3102.8-1993 附录C
-5.  IUPAC, Definition of pH Scales, Standard Reference Values,
-    Measurement of pH and Related Terminology, Pure Appl Chem, 57（1985）,
-    531-542
+5.  IUPAC, Definition of pH Scales, Standard Reference Values, Measurement of pH and Related Terminology, Pure Appl Chem, 57（1985）, 531-542

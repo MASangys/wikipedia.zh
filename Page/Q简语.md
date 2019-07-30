@@ -1,14 +1,10 @@
 **Q简语**是一种标准化的三字母通信简略语，因短语开头字母均为“Q”而得名。
 
-Q简语最初用于商业无线电通信，后来延伸到各个领域，特别是[业余无线电通信](../Page/业余无线电.md "wikilink")。
-虽然Q简语最初专用于[莫尔斯电码通信](https://zh.wikipedia.org/wiki/莫尔斯电码 "wikilink")，但是现在也用于语音通信。为了避免混淆，没有一个国家的呼号以"Q"开头（但有时会有例外，如VE3QRP是低功率通信的业余电台）。Q简语中，QAA到QNZ供航空领域使用，QOA到QOZ供航海领域使用,
-QRA到QUZ供所有服务使用。
+Q简语最初用于商业无线电通信，后来延伸到各个领域，特别是[业余无线电](../Page/业余无线电.md "wikilink")通信。 虽然Q简语最初专用于[莫尔斯电码通信](https://zh.wikipedia.org/wiki/莫尔斯电码 "wikilink")，但是现在也用于语音通信。为了避免混淆，没有一个国家的呼号以"Q"开头（但有时会有例外，如VE3QRP是低功率通信的业余电台）。Q简语中，QAA到QNZ供航空领域使用，QOA到QOZ供航海领域使用, QRA到QUZ供所有服务使用。
 
 ## 早期发展
 
-Q简语在1909年前后，由[英国政府在一份文件](https://zh.wikipedia.org/wiki/英国 "wikilink")\[1\]中提出。因为Q简语使得讲不同语言的人在海上的无线电通信变得简便，所以Q简语很快国际化。1912年，
-一共40个Q简语出现在第三次[国际无线电报公约事务条例的一个列表中](https://zh.wikipedia.org/wiki/国际无线电报公约 "wikilink")\[2\]。
-这是1912年公布的的Q简语，语义与现行Q简语有所不同。
+Q简语在1909年前后，由[英国政府在一份文件](https://zh.wikipedia.org/wiki/英国 "wikilink")\[1\]中提出。因为Q简语使得讲不同语言的人在海上的无线电通信变得简便，所以Q简语很快国际化。1912年， 一共40个Q简语出现在第三次[国际无线电报公约事务条例的一个列表中](https://zh.wikipedia.org/wiki/国际无线电报公约 "wikilink")\[2\]。 这是1912年公布的的Q简语，语义与现行Q简语有所不同。
 
 | Q简语 | 问句含义       | 答句含义. |+ **以下12个Q简语在1912公布** |
 | --- | ---------- | ---------------------------- |
@@ -27,11 +23,9 @@ Q简语在1909年前后，由[英国政府在一份文件](https://zh.wikipedia.
 
 ## 之后使用
 
-多年以来，一些Q简语被修改，以适应业务变化。在最早的国际列表中，QSW/QSX表示“我应增加/减少我的火花频率？”。这两个Q简语失效于1920年，当年[火花隙式发射机禁止在](https://zh.wikipedia.org/wiki/火花隙式发射机 "wikilink")[美国使用](../Page/美国.md "wikilink")。
+多年以来，一些Q简语被修改，以适应业务变化。在最早的国际列表中，QSW/QSX表示“我应增加/减少我的火花频率？”。这两个Q简语失效于1920年，当年[火花隙式发射机禁止在](https://zh.wikipedia.org/wiki/火花隙式发射机 "wikilink")[美国](../Page/美国.md "wikilink")使用。
 
-一些Q简语用于[民用航空领域](https://zh.wikipedia.org/wiki/民用航空 "wikilink")，特别是QNH和QFE，这些简语用于[空中交通管制的无线电通信](https://zh.wikipedia.org/wiki/空中交通管制 "wikilink")。*QRA*到*QUZ*由[国际电讯联盟规定用于所有服务](../Page/国际电信联盟.md "wikilink")。\[3\]*QAA*...*QNZ*
-由[国际民用航空组织规定基本用于航空服务](../Page/国际民用航空组织.md "wikilink")\[4\]。\[5\]
-*QOA*到*QQZ*保留给航海业务，*QVA*到*QZZ*没有分配。\[6\]
+一些Q简语用于[民用航空领域](https://zh.wikipedia.org/wiki/民用航空 "wikilink")，特别是QNH和QFE，这些简语用于[空中交通管制的无线电通信](https://zh.wikipedia.org/wiki/空中交通管制 "wikilink")。*QRA*到*QUZ*由[国际电讯联盟规定用于所有服务](../Page/国际电信联盟.md "wikilink")。\[3\]*QAA*...*QNZ* 由[国际民用航空组织](../Page/国际民用航空组织.md "wikilink")规定基本用于航空服务\[4\]。\[5\] *QOA*到*QQZ*保留给航海业务，*QVA*到*QZZ*没有分配。\[6\]
 
 许多军事和其他使用莫尔斯电码的组织使用其他的代码，包括大多数欧洲及北约国家使用的[Z简语](https://zh.wikipedia.org/wiki/Z简语 "wikilink")。
 
@@ -66,7 +60,7 @@ Q简语在1909年前后，由[英国政府在一份文件](https://zh.wikipedia.
 | QSA     | 我的信号强度是多少？                                  | 你的信号强度是...                         |
 | QSB     | 我的信号有衰落吗？                                   | 你的信号强度是，1.几乎不能抄收 2.弱 3.还好 4.好 5.很好 |
 | QSD     | 我的信号不完整吗?                                   | 你的信号不完整                            |
-| QSL     | 你确认收妥／[QSL卡片吗](../Page/QSL卡.md "wikilink")？ | 我确认收妥／QSL卡片                        |
+| QSL     | 你确认收妥／[QSL卡](../Page/QSL卡.md "wikilink")片吗？ | 我确认收妥／QSL卡片                        |
 | QSO     | 你能否和...直接（或转接）通信？                           | 你能和...直接（或转接）通信？                   |
 | QSP     | 你能中转到...吗？                                  | 我能中转到...                           |
 | QSU     | 能在这个频率(或某个频率)回复吗？                           | 我将在此频率(或某频率)回复                     |
@@ -85,34 +79,21 @@ Q简语在1909年前后，由[英国政府在一份文件](https://zh.wikipedia.
 ## 外部链接
 
   - [国际电联Q简语列表](https://web.archive.org/web/20110706234327/http://life.itu.ch/radioclub/rr/m1172.htm#Section)
-  - [Easy to read Q Code
-    graphic.](http://www.zipscanners.com/resources/ham-radio-crib-notes/)
-  - [Handbook for Wireless Telegraph
-    Operators](http://www.telegraph-office.com/pages/q-signals-1909.html),
-    October, 1909.
-  - [Radio Laws and Regulations of the United States: Edition
-    July 27, 1914](http://www.earlyradiohistory.us/1914reg.htm).
-    (Includes the 1912 London Radiotelegraphic Convention)
+  - [Easy to read Q Code graphic.](http://www.zipscanners.com/resources/ham-radio-crib-notes/)
+  - [Handbook for Wireless Telegraph Operators](http://www.telegraph-office.com/pages/q-signals-1909.html), October, 1909.
+  - [Radio Laws and Regulations of the United States: Edition July 27, 1914](http://www.earlyradiohistory.us/1914reg.htm). (Includes the 1912 London Radiotelegraphic Convention)
   - [List of Q codes](http://www.kloth.net/radio/qcodes.php)
-  - [A resource for Morse Code operation in the amateur radio
-    hobby](http://cw.hfradio.org/)
-  - [Amateur Radio Q
-    Codes](http://www.yourprepconnection.com/attachments/history-q-coes.pdf)
+  - [A resource for Morse Code operation in the amateur radio hobby](http://cw.hfradio.org/)
+  - [Amateur Radio Q Codes](http://www.yourprepconnection.com/attachments/history-q-coes.pdf)
   - ["Q-Signals"](http://www.zerobeat.net/qrp/qsignals.html)
-  - [Radiotelegraph and Radiotelephone Codes, Prowords And
-    Abbreviations](https://web.archive.org/web/20150402131626/http://phonetic.org.au/Codes3.pdf)
-  - \[<https://www.itu.int/dms_pubrec/itu-r/rec/m/R-REC-M.1172-0-199510-I>\!\!PDF-E.pdf
-    Recommendation ITU-R M.1172\]
+  - [Radiotelegraph and Radiotelephone Codes, Prowords And Abbreviations](https://web.archive.org/web/20150402131626/http://phonetic.org.au/Codes3.pdf)
+  - \[<https://www.itu.int/dms_pubrec/itu-r/rec/m/R-REC-M.1172-0-199510-I>\!\!PDF-E.pdf Recommendation ITU-R M.1172\]
 
-[Category:通信技术](https://zh.wikipedia.org/wiki/Category:通信技术 "wikilink")
-[Category:无线电](https://zh.wikipedia.org/wiki/Category:无线电 "wikilink")
-[Category:摩斯電碼](https://zh.wikipedia.org/wiki/Category:摩斯電碼 "wikilink")
+[Category:通信技术](https://zh.wikipedia.org/wiki/Category:通信技术 "wikilink") [Category:无线电](https://zh.wikipedia.org/wiki/Category:无线电 "wikilink") [Category:摩斯電碼](https://zh.wikipedia.org/wiki/Category:摩斯電碼 "wikilink")
 
-1.  list of abbreviations... prepared for the use of British ships and
-    coast stations licensed by the Postmaster-General
+1.  list of abbreviations... prepared for the use of British ships and coast stations licensed by the Postmaster-General
 2.  List of Abbreviations to be used in Radio Communications
 3.  <http://www.globalsecurity.org/military/library/policy/navy/nrtc/14244_ch4.pdf>
 4.  <http://www.airwaysmuseum.com/Q%20code.htm>
-5.  [ICAO](https://zh.wikipedia.org/wiki/ICAO "wikilink") PANS
-    (Procedures for Air Navigation Services) Doc 8400 : The ICAO Q Code.
+5.  [ICAO](https://zh.wikipedia.org/wiki/ICAO "wikilink") PANS (Procedures for Air Navigation Services) Doc 8400 : The ICAO Q Code.
 6.

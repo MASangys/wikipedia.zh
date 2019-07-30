@@ -1,87 +1,54 @@
-**NHK大河劇**（）是[日本放送協會](https://zh.wikipedia.org/wiki/日本放送協會 "wikilink")（NHK）自1963年起每年製作一檔的[電視連續劇系列](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")，於[日本時間每星期日晚間](../Page/日本標準時間.md "wikilink")8點在[NHK綜合頻道播出](../Page/NHK綜合頻道.md "wikilink")，每集播出時間為45分鐘，每一檔製作約50集（不過在1993年到1994年這兩年，則一共製播了三檔）。其以[日本歷史的人物或是一個時代為主題製作](https://zh.wikipedia.org/wiki/日本歷史 "wikilink")，與[時代劇類似](../Page/時代劇_\(日本\).md "wikilink")。
+**NHK大河劇**（）是[日本放送協會](https://zh.wikipedia.org/wiki/日本放送協會 "wikilink")（NHK）自1963年起每年製作一檔的[電視連續劇系列](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")，於[日本時間每星期日晚間](../Page/日本標準時間.md "wikilink")8點在[NHK綜合頻道](../Page/NHK綜合頻道.md "wikilink")播出，每集播出時間為45分鐘，每一檔製作約50集（不過在1993年到1994年這兩年，則一共製播了三檔）。其以[日本歷史的人物或是一個時代為主題製作](https://zh.wikipedia.org/wiki/日本歷史 "wikilink")，與[時代劇類似](../Page/時代劇_\(日本\).md "wikilink")。
 
 ## 概要
 
 大河劇中的“大河”來自[法文詞彙中的](https://zh.wikipedia.org/wiki/法文 "wikilink")“”（[大河小说](https://zh.wikipedia.org/wiki/大河小说 "wikilink")），意即以家族世系的生活思想为题材而写成的系列长篇小说，從這個名字也可看出大河劇的定位。
 
-大河劇的主要題材，以日本家喻戶曉的[戰國時代故事為主](https://zh.wikipedia.org/wiki/戰國時代_\(日本\) "wikilink")，其次則是[幕末故事](../Page/幕末.md "wikilink")，改編自歷史小說的也不在少數。在選角方面多以實力派演員優先，但因近年來[收視率不振的關係](https://zh.wikipedia.org/wiki/收視率 "wikilink")，大量採用了偶像演員，且在故事上虛構部份頗多，遭到非議的地方也不少；所以一度有人提出「大河廢止論」\[1\]，認為應該停拍大河劇。
+大河劇的主要題材，以日本家喻戶曉的[戰國時代故事為主](https://zh.wikipedia.org/wiki/戰國時代_\(日本\) "wikilink")，其次則是[幕末](../Page/幕末.md "wikilink")故事，改編自歷史小說的也不在少數。在選角方面多以實力派演員優先，但因近年來[收視率不振的關係](https://zh.wikipedia.org/wiki/收視率 "wikilink")，大量採用了偶像演員，且在故事上虛構部份頗多，遭到非議的地方也不少；所以一度有人提出「大河廢止論」\[1\]，認為應該停拍大河劇。
 
 特別的是，在1984年到1986年之間，大河劇連續三部都是近代戲。NHK為此開闢了一個「水曜時代劇」時段，也做了三檔古裝劇，演員絕大多數都曾經參與過大河劇的演出，使得水曜時代劇在實質上地位與大河劇可以相提並論。
 
-大河劇的演出者幅度非常廣，有時候邀請的主角、配角，會橫跨非電視電影界的人物，比如舞台劇演員、傳統藝術人員、歌手、偶像、搞笑藝人，陣容非常多元，因此會看到一些平常看不到的面孔。在一開播時，曾有五社協定（僅用松竹、東宝、大映、新東宝、東映的導演與演員），因此啟用的很多當時新進演員，如[緒形拳](../Page/緒形拳.md "wikilink")、[高橋幸治](https://zh.wikipedia.org/wiki/高橋幸治 "wikilink")、[石坂浩二等](../Page/石坂浩二.md "wikilink")，一演出就變成超級巨星。在五社協定結束後，像第21作《[德川家康](../Page/德川家康_\(大河劇\).md "wikilink")》演出信長的[役所廣司](../Page/役所廣司.md "wikilink")、第25作《獨眼龍政宗》的[渡邊謙也都是新人爆紅的案例](../Page/渡邊謙.md "wikilink")。另外在2000年後，《北條時宗》的[北村一輝和](../Page/北村一輝.md "wikilink")[宮迫博之](../Page/宮迫博之.md "wikilink")、《[新選組！](../Page/新選組！.md "wikilink")》的[山本耕史和](../Page/山本耕史.md "wikilink")[堺雅人等](../Page/堺雅人.md "wikilink")，也都是因為演出大河劇後活躍起來。
+大河劇的演出者幅度非常廣，有時候邀請的主角、配角，會橫跨非電視電影界的人物，比如舞台劇演員、傳統藝術人員、歌手、偶像、搞笑藝人，陣容非常多元，因此會看到一些平常看不到的面孔。在一開播時，曾有五社協定（僅用松竹、東宝、大映、新東宝、東映的導演與演員），因此啟用的很多當時新進演員，如[緒形拳](../Page/緒形拳.md "wikilink")、[高橋幸治](https://zh.wikipedia.org/wiki/高橋幸治 "wikilink")、[石坂浩二](../Page/石坂浩二.md "wikilink")等，一演出就變成超級巨星。在五社協定結束後，像第21作《[德川家康](../Page/德川家康_\(大河劇\).md "wikilink")》演出信長的[役所廣司](../Page/役所廣司.md "wikilink")、第25作《獨眼龍政宗》的[渡邊謙](../Page/渡邊謙.md "wikilink")也都是新人爆紅的案例。另外在2000年後，《北條時宗》的[北村一輝](../Page/北村一輝.md "wikilink")和[宮迫博之](../Page/宮迫博之.md "wikilink")、《[新選組！](../Page/新選組！.md "wikilink")》的[山本耕史](../Page/山本耕史.md "wikilink")和[堺雅人](../Page/堺雅人.md "wikilink")等，也都是因為演出大河劇後活躍起來。
 
 目前統計，歷年大河劇主角歲數最長者為2000年《[葵德川三代](../Page/葵德川三代.md "wikilink")》的[津川雅彥](../Page/津川雅彥.md "wikilink")，最後一次出現劇中時年60歲7個月；最年輕者為2008年《[篤姬](https://zh.wikipedia.org/wiki/篤姬 "wikilink")》的[宮崎葵](../Page/宮崎葵.md "wikilink")，第一集出現劇中時年22歲1個月。
 
 第6作《龍馬來了》以前都是黑白色作品、第7作《天與地》開始採彩色拍攝。第29作《太平記》開始採音響效果。第39作《葵德川三代》開始採[高畫質拍攝](https://zh.wikipedia.org/wiki/高解析度電視 "wikilink")，同時開啟片尾一分鐘歷史紀行橋段，加深觀眾對歷史史蹟的印象，觀賞地方風情。第49作《龍馬傳》採30P攝影機拍攝。第58作《韋駄天～東京奧運故事～》進一步採用[4K超高畫質拍攝](../Page/4K解析度.md "wikilink")，片尾大河劇紀行首次介紹國外城市。
 
-大河劇原則上是一年一作。但1993-1994年間出現短作：《琉球之風》播出6個月、《炎立與花之亂》均僅9個月。2009年至2011年，NHK推出「21世紀特別大河劇」，原定在2006年播出[司馬遼太郎原著的](https://zh.wikipedia.org/wiki/司馬遼太郎 "wikilink")《[坂上之雲](../Page/坂上之雲.md "wikilink")》（）；但因編劇[野澤尚自殺身亡的關係](../Page/野澤尚.md "wikilink")，使本劇要在三年內的12月分部上檔。
+大河劇原則上是一年一作。但1993-1994年間出現短作：《琉球之風》播出6個月、《炎立與花之亂》均僅9個月。2009年至2011年，NHK推出「21世紀特別大河劇」，原定在2006年播出[司馬遼太郎原著的](https://zh.wikipedia.org/wiki/司馬遼太郎 "wikilink")《[坂上之雲](../Page/坂上之雲.md "wikilink")》（）；但因編劇[野澤尚](../Page/野澤尚.md "wikilink")自殺身亡的關係，使本劇要在三年內的12月分部上檔。
 
-因為保存技術與版權等問題，現存較為完整的大河劇，約從1976年《風雲虹》開始。1970年代由於底片成本高昂，故放送後節目會拿去錄製其他節目。因此NHK在1970年代以前自身留存的大河劇完全度也無法得知。但現在已經逐步發掘或透過民間提供，送至美國修復。目前有16部作品仍處於殘缺狀態，確定的是1978年《黃金的日子》有完全版、1980年《獅子的時代》以後完全版、總集篇都有。1977年《花神》有留存總集篇，1975年《元祿太平記》有完全版（男主角[江守徹錄製](../Page/江守徹.md "wikilink")）。另外像1971年《春的坂道》最終回有家庭錄影帶版、1979年的《草燃》部分內容也有民間提供。
+因為保存技術與版權等問題，現存較為完整的大河劇，約從1976年《風雲虹》開始。1970年代由於底片成本高昂，故放送後節目會拿去錄製其他節目。因此NHK在1970年代以前自身留存的大河劇完全度也無法得知。但現在已經逐步發掘或透過民間提供，送至美國修復。目前有16部作品仍處於殘缺狀態，確定的是1978年《黃金的日子》有完全版、1980年《獅子的時代》以後完全版、總集篇都有。1977年《花神》有留存總集篇，1975年《元祿太平記》有完全版（男主角[江守徹](../Page/江守徹.md "wikilink")錄製）。另外像1971年《春的坂道》最終回有家庭錄影帶版、1979年的《草燃》部分內容也有民間提供。
 
-2013年播出的第52部大河劇《[八重之櫻](../Page/八重之櫻.md "wikilink")》（），描述[同志社大學創辦者](../Page/同志社大學.md "wikilink")之妻[新島八重的一生](../Page/新島八重.md "wikilink")。2011年3月11日[東日本大震災後](../Page/東日本大震災.md "wikilink")，NHK內部出現以支持東北復興的題材作為大河劇的意見，促使NHK決定以[福島縣](https://zh.wikipedia.org/wiki/福島縣 "wikilink")[會津出身的新島八重為主角的本作為](https://zh.wikipedia.org/wiki/會津 "wikilink")2013年大河劇。
+2013年播出的第52部大河劇《[八重之櫻](../Page/八重之櫻.md "wikilink")》（），描述[同志社大學](../Page/同志社大學.md "wikilink")創辦者之妻[新島八重](../Page/新島八重.md "wikilink")的一生。2011年3月11日[東日本大震災](../Page/東日本大震災.md "wikilink")後，NHK內部出現以支持東北復興的題材作為大河劇的意見，促使NHK決定以[福島縣](https://zh.wikipedia.org/wiki/福島縣 "wikilink")[會津出身的新島八重為主角的本作為](https://zh.wikipedia.org/wiki/會津 "wikilink")2013年大河劇。
 
 另外，在大河劇中飾演同一角色的演員也是非常少有，目前有紀錄的共27位：
-{|class=wikitable border=1 |-align=center \!演員\!\!角色\!\!劇名
-|-align=center
-|[神木隆之介](https://zh.wikipedia.org/wiki/神木隆之介 "wikilink")||[源義經](../Page/源義經.md "wikilink")||《[義經](../Page/義經_\(大河劇\).md "wikilink")》
-《[平清盛](../Page/平清盛_\(大河劇\).md "wikilink")》 |-align=center
-|||[織田信長](../Page/織田信長.md "wikilink")||《[太閤記](https://zh.wikipedia.org/wiki/:ja:太閤記_\(NHK大河ドラマ\) "wikilink")》
-《》 |-align=center
-|||[織田信長](../Page/織田信長.md "wikilink")||《[女太閤記](../Page/女太閤記.md "wikilink")》
-《[春日局](../Page/春日局_\(大河劇\).md "wikilink")》 |-align=center
-|[緒形拳](../Page/緒形拳.md "wikilink")||[豐臣秀吉](https://zh.wikipedia.org/wiki/豐臣秀吉 "wikilink")||《[太閤記](https://zh.wikipedia.org/wiki/:ja:太閤記_\(NHK大河ドラマ\) "wikilink")》
-《》 |-align=center
-|[仲村亨](../Page/仲村亨.md "wikilink")||[羽柴秀吉](https://zh.wikipedia.org/wiki/羽柴秀吉 "wikilink")||《[信長KING
-OF ZIPANGU](../Page/信長KING_OF_ZIPANGU.md "wikilink")》
-《[琉球之風](../Page/琉球之風_\(電視劇\).md "wikilink")》 |-align=center
-|[竹中直人](../Page/竹中直人.md "wikilink")||[豐臣秀吉](https://zh.wikipedia.org/wiki/豐臣秀吉 "wikilink")||《[秀吉](../Page/秀吉_\(大河劇\).md "wikilink")》
-《[軍師官兵衛](../Page/軍師官兵衛.md "wikilink")》 |-align=center
-|[寺尾聰](../Page/寺尾聰.md "wikilink")||[德川家康](../Page/德川家康.md "wikilink")||《》
-《[軍師官兵衛](../Page/軍師官兵衛.md "wikilink")》 |-align=center
-|[津川雅彥](../Page/津川雅彥.md "wikilink")||[德川家康](../Page/德川家康.md "wikilink")||《[獨眼龍政宗](../Page/獨眼龍政宗.md "wikilink")》
-《[葵德川三代](../Page/葵德川三代.md "wikilink")》 |-align=center
-|||[淺井久政](../Page/淺井久政.md "wikilink")||《[信長KING OF
-ZIPANGU](../Page/信長KING_OF_ZIPANGU.md "wikilink")》
-《[江～公主們的戰國～](../Page/江～公主們的戰國～.md "wikilink")》 |-align=center
-|[伊吹吾郎](../Page/伊吹吾郎.md "wikilink")||[北條氏政](../Page/北條氏政.md "wikilink")||《[天地人](../Page/天地人_\(大河劇\).md "wikilink")》
-《[軍師官兵衛](../Page/軍師官兵衛.md "wikilink")》 |-align=center
-|[田中健](https://zh.wikipedia.org/wiki/:JA:田中健_\(俳優\) "wikilink")||[佐久間信盛](../Page/佐久間信盛.md "wikilink")||《[信長KING
-OF ZIPANGU](../Page/信長KING_OF_ZIPANGU.md "wikilink")》
-《[利家與松](../Page/利家與松.md "wikilink")》 |-align=center
-|[唐澤壽明](../Page/唐澤壽明.md "wikilink")||[前田利家](../Page/前田利家.md "wikilink")||《[利家與松](../Page/利家與松.md "wikilink")》
-《[功名十字路](../Page/功名十字路_\(大河劇\).md "wikilink")》 |-align=center
-|||[瀧川一益](../Page/瀧川一益.md "wikilink")||《[秀吉](../Page/秀吉_\(大河劇\).md "wikilink")》
-《[真田丸](../Page/真田丸_\(大河劇\).md "wikilink")》 |-align=center
-|||[真田幸村](https://zh.wikipedia.org/wiki/真田幸村 "wikilink")||《[德川家康](../Page/德川家康_\(大河劇\).md "wikilink")》
-《[獨眼龍政宗](../Page/獨眼龍政宗.md "wikilink")》 |-align=center
-|||[德川秀忠](../Page/德川秀忠.md "wikilink")||《[德川家康](../Page/德川家康_\(大河劇\).md "wikilink")》
-《[獨眼龍政宗](../Page/獨眼龍政宗.md "wikilink")》 |-align=center
-|||[榊原康政](../Page/榊原康政.md "wikilink")||《[功名十字路](../Page/功名十字路_\(大河劇\).md "wikilink")》
-《[天地人](../Page/天地人_\(大河劇\).md "wikilink")》 |-align=center
-|||[本多正信](../Page/本多正信.md "wikilink")||《[女太閤記](../Page/女太閤記.md "wikilink")》
-《[葵德川三代](../Page/葵德川三代.md "wikilink")》 |-align=center
-|||[大久保忠隣](https://zh.wikipedia.org/wiki/大久保忠隣 "wikilink")||《[春日局](../Page/春日局_\(大河劇\).md "wikilink")》
-《[葵德川三代](../Page/葵德川三代.md "wikilink")》 |-align=center
-|中村元則||[藤田傳五](https://zh.wikipedia.org/wiki/藤田行政 "wikilink")||《[春日局](../Page/春日局_\(大河劇\).md "wikilink")》
-《[信長KING OF ZIPANGU](../Page/信長KING_OF_ZIPANGU.md "wikilink")》
-|-align=center
-|[小栗旬](../Page/小栗旬.md "wikilink")||[石田三成](../Page/石田三成.md "wikilink")||《[秀吉](../Page/秀吉_\(大河劇\).md "wikilink")》
-《[天地人](../Page/天地人_\(大河劇\).md "wikilink")》 |-align=center
-|[松本幸四郎](../Page/松本白鸚_\(第二代\).md "wikilink")||[呂宋助左衛門](../Page/呂宋助左衛門.md "wikilink")||《》
-《[真田丸](../Page/真田丸_\(大河劇\).md "wikilink")》 |-align=center
-|[淺利陽介](../Page/淺利陽介.md "wikilink")||[小早川秀秋](../Page/小早川秀秋.md "wikilink")||《[軍師官兵衛](../Page/軍師官兵衛.md "wikilink")》
-《[真田丸](../Page/真田丸_\(大河劇\).md "wikilink")》 |-align=center
-|||[大藏卿局](https://zh.wikipedia.org/wiki/大藏卿局 "wikilink")||《[春日局](../Page/春日局_\(大河劇\).md "wikilink")》
-《[葵德川三代](../Page/葵德川三代.md "wikilink")》 |-align=center
-|高崎晃子||||《[德川家康](../Page/德川家康_\(大河劇\).md "wikilink")》
-《[春日局](../Page/春日局_\(大河劇\).md "wikilink")》 |-align=center
-|||[西鄉隆盛](../Page/西鄉隆盛.md "wikilink")||《[勝海舟](https://zh.wikipedia.org/wiki/:JA:勝海舟_\(NHK大河ドラマ\) "wikilink")》
-《》 |-align=center
-|||[薩道義](../Page/薩道義.md "wikilink")||《[三姊妹](https://zh.wikipedia.org/wiki/:JA:三姉妹 "wikilink")》
+{|class=wikitable border=1 |-align=center \!演員\!\!角色\!\!劇名 |-align=center |[神木隆之介](https://zh.wikipedia.org/wiki/神木隆之介 "wikilink")||[源義經](../Page/源義經.md "wikilink")||《[義經](../Page/義經_\(大河劇\).md "wikilink")》
+《[平清盛](../Page/平清盛_\(大河劇\).md "wikilink")》 |-align=center |||[織田信長](../Page/織田信長.md "wikilink")||《[太閤記](https://zh.wikipedia.org/wiki/:ja:太閤記_\(NHK大河ドラマ\) "wikilink")》
+《》 |-align=center |||[織田信長](../Page/織田信長.md "wikilink")||《[女太閤記](../Page/女太閤記.md "wikilink")》
+《[春日局](../Page/春日局_\(大河劇\).md "wikilink")》 |-align=center |[緒形拳](../Page/緒形拳.md "wikilink")||[豐臣秀吉](https://zh.wikipedia.org/wiki/豐臣秀吉 "wikilink")||《[太閤記](https://zh.wikipedia.org/wiki/:ja:太閤記_\(NHK大河ドラマ\) "wikilink")》
+《》 |-align=center |[仲村亨](../Page/仲村亨.md "wikilink")||[羽柴秀吉](https://zh.wikipedia.org/wiki/羽柴秀吉 "wikilink")||《[信長KING OF ZIPANGU](../Page/信長KING_OF_ZIPANGU.md "wikilink")》
+《[琉球之風](../Page/琉球之風_\(電視劇\).md "wikilink")》 |-align=center |[竹中直人](../Page/竹中直人.md "wikilink")||[豐臣秀吉](https://zh.wikipedia.org/wiki/豐臣秀吉 "wikilink")||《[秀吉](../Page/秀吉_\(大河劇\).md "wikilink")》
+《[軍師官兵衛](../Page/軍師官兵衛.md "wikilink")》 |-align=center |[寺尾聰](../Page/寺尾聰.md "wikilink")||[德川家康](../Page/德川家康.md "wikilink")||《》
+《[軍師官兵衛](../Page/軍師官兵衛.md "wikilink")》 |-align=center |[津川雅彥](../Page/津川雅彥.md "wikilink")||[德川家康](../Page/德川家康.md "wikilink")||《[獨眼龍政宗](../Page/獨眼龍政宗.md "wikilink")》
+《[葵德川三代](../Page/葵德川三代.md "wikilink")》 |-align=center |||[淺井久政](../Page/淺井久政.md "wikilink")||《[信長KING OF ZIPANGU](../Page/信長KING_OF_ZIPANGU.md "wikilink")》
+《[江～公主們的戰國～](../Page/江～公主們的戰國～.md "wikilink")》 |-align=center |[伊吹吾郎](../Page/伊吹吾郎.md "wikilink")||[北條氏政](../Page/北條氏政.md "wikilink")||《[天地人](../Page/天地人_\(大河劇\).md "wikilink")》
+《[軍師官兵衛](../Page/軍師官兵衛.md "wikilink")》 |-align=center |[田中健](https://zh.wikipedia.org/wiki/:JA:田中健_\(俳優\) "wikilink")||[佐久間信盛](../Page/佐久間信盛.md "wikilink")||《[信長KING OF ZIPANGU](../Page/信長KING_OF_ZIPANGU.md "wikilink")》
+《[利家與松](../Page/利家與松.md "wikilink")》 |-align=center |[唐澤壽明](../Page/唐澤壽明.md "wikilink")||[前田利家](../Page/前田利家.md "wikilink")||《[利家與松](../Page/利家與松.md "wikilink")》
+《[功名十字路](../Page/功名十字路_\(大河劇\).md "wikilink")》 |-align=center |||[瀧川一益](../Page/瀧川一益.md "wikilink")||《[秀吉](../Page/秀吉_\(大河劇\).md "wikilink")》
+《[真田丸](../Page/真田丸_\(大河劇\).md "wikilink")》 |-align=center |||[真田幸村](https://zh.wikipedia.org/wiki/真田幸村 "wikilink")||《[德川家康](../Page/德川家康_\(大河劇\).md "wikilink")》
+《[獨眼龍政宗](../Page/獨眼龍政宗.md "wikilink")》 |-align=center |||[德川秀忠](../Page/德川秀忠.md "wikilink")||《[德川家康](../Page/德川家康_\(大河劇\).md "wikilink")》
+《[獨眼龍政宗](../Page/獨眼龍政宗.md "wikilink")》 |-align=center |||[榊原康政](../Page/榊原康政.md "wikilink")||《[功名十字路](../Page/功名十字路_\(大河劇\).md "wikilink")》
+《[天地人](../Page/天地人_\(大河劇\).md "wikilink")》 |-align=center |||[本多正信](../Page/本多正信.md "wikilink")||《[女太閤記](../Page/女太閤記.md "wikilink")》
+《[葵德川三代](../Page/葵德川三代.md "wikilink")》 |-align=center |||[大久保忠隣](https://zh.wikipedia.org/wiki/大久保忠隣 "wikilink")||《[春日局](../Page/春日局_\(大河劇\).md "wikilink")》
+《[葵德川三代](../Page/葵德川三代.md "wikilink")》 |-align=center |中村元則||[藤田傳五](https://zh.wikipedia.org/wiki/藤田行政 "wikilink")||《[春日局](../Page/春日局_\(大河劇\).md "wikilink")》
+《[信長KING OF ZIPANGU](../Page/信長KING_OF_ZIPANGU.md "wikilink")》 |-align=center |[小栗旬](../Page/小栗旬.md "wikilink")||[石田三成](../Page/石田三成.md "wikilink")||《[秀吉](../Page/秀吉_\(大河劇\).md "wikilink")》
+《[天地人](../Page/天地人_\(大河劇\).md "wikilink")》 |-align=center |[松本幸四郎](../Page/松本白鸚_\(第二代\).md "wikilink")||[呂宋助左衛門](../Page/呂宋助左衛門.md "wikilink")||《》
+《[真田丸](../Page/真田丸_\(大河劇\).md "wikilink")》 |-align=center |[淺利陽介](../Page/淺利陽介.md "wikilink")||[小早川秀秋](../Page/小早川秀秋.md "wikilink")||《[軍師官兵衛](../Page/軍師官兵衛.md "wikilink")》
+《[真田丸](../Page/真田丸_\(大河劇\).md "wikilink")》 |-align=center |||[大藏卿局](https://zh.wikipedia.org/wiki/大藏卿局 "wikilink")||《[春日局](../Page/春日局_\(大河劇\).md "wikilink")》
+《[葵德川三代](../Page/葵德川三代.md "wikilink")》 |-align=center |高崎晃子||||《[德川家康](../Page/德川家康_\(大河劇\).md "wikilink")》
+《[春日局](../Page/春日局_\(大河劇\).md "wikilink")》 |-align=center |||[西鄉隆盛](../Page/西鄉隆盛.md "wikilink")||《[勝海舟](https://zh.wikipedia.org/wiki/:JA:勝海舟_\(NHK大河ドラマ\) "wikilink")》
+《》 |-align=center |||[薩道義](../Page/薩道義.md "wikilink")||《[三姊妹](https://zh.wikipedia.org/wiki/:JA:三姉妹 "wikilink")》
 《[龍馬來了](https://zh.wikipedia.org/wiki/龍馬來了 "wikilink")》
-《[勝海舟](https://zh.wikipedia.org/wiki/:JA:勝海舟_\(NHK大河ドラマ\) "wikilink")》
-|-align=center
-|[濱野謙太](../Page/濱野謙太.md "wikilink")||[伊藤博文](../Page/伊藤博文.md "wikilink")||《[西鄉殿](../Page/西鄉殿_\(大河劇\).md "wikilink")》
+《[勝海舟](https://zh.wikipedia.org/wiki/:JA:勝海舟_\(NHK大河ドラマ\) "wikilink")》 |-align=center |[濱野謙太](../Page/濱野謙太.md "wikilink")||[伊藤博文](../Page/伊藤博文.md "wikilink")||《[西鄉殿](../Page/西鄉殿_\(大河劇\).md "wikilink")》
 《[韋駄天～東京奧運故事～](../Page/韋駄天～東京奧運故事～.md "wikilink")》 |}
 
 和[NHK晨間劇一樣](https://zh.wikipedia.org/wiki/晨間劇 "wikilink")，在下一部劇播映前，上一部和下一部的主角也會交換紀念品作為交接紀念，例如2015年《花燃》主角井上真央和2016年《真田丸》主角堺雅人分別以群馬縣絲綢圍巾和信州蘋果作為紀念品互相交換。
@@ -122,7 +89,7 @@ OF ZIPANGU](../Page/信長KING_OF_ZIPANGU.md "wikilink")》
 <td><p><a href="https://zh.wikipedia.org/wiki/:JA:尾上松緑_(2代目)" title="wikilink">尾上松綠</a><br />
 <a href="../Page/佐田啓二.md" title="wikilink">佐田啓二</a></p></td>
 <td><p>＊全劇為黑白。<br />
-＊講述江戶<a href="../Page/幕末.md" title="wikilink">幕末時代之</a><a href="../Page/大老_(日本古官職).md" title="wikilink">大老</a>・<a href="../Page/井伊直弼.md" title="wikilink">井伊直弼的生涯</a>。</p></td>
+＊講述江戶<a href="../Page/幕末.md" title="wikilink">幕末</a>時代之<a href="../Page/大老_(日本古官職).md" title="wikilink">大老</a>・<a href="../Page/井伊直弼.md" title="wikilink">井伊直弼</a>的生涯。</p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
@@ -135,7 +102,7 @@ OF ZIPANGU](../Page/信長KING_OF_ZIPANGU.md "wikilink")》
 <td></td>
 <td><p><a href="../Page/芥川也寸志.md" title="wikilink">芥川也寸志</a></p></td>
 <td><p><a href="../Page/長谷川一夫.md" title="wikilink">長谷川一夫</a></p></td>
-<td><p>＊講述<a href="https://zh.wikipedia.org/wiki/江戶幕府" title="wikilink">江戶幕府五代將軍</a><a href="../Page/德川綱吉.md" title="wikilink">德川綱吉時之</a><a href="../Page/元祿赤穗事件.md" title="wikilink">忠臣藏事件</a>。</p></td>
+<td><p>＊講述<a href="https://zh.wikipedia.org/wiki/江戶幕府" title="wikilink">江戶幕府五代將軍</a><a href="../Page/德川綱吉.md" title="wikilink">德川綱吉</a>時之<a href="../Page/元祿赤穗事件.md" title="wikilink">忠臣藏事件</a>。</p></td>
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
@@ -165,7 +132,7 @@ OF ZIPANGU](../Page/信長KING_OF_ZIPANGU.md "wikilink")》
 <td><p><br />
 <a href="../Page/緒形拳.md" title="wikilink">緒形拳</a></p></td>
 <td><p>＊2005年重新製播成<a href="../Page/義經_(大河劇).md" title="wikilink">義經</a>，全劇為黑白。<br />
-＊講述<a href="https://zh.wikipedia.org/wiki/平安時代" title="wikilink">平安時代的</a><a href="../Page/源平合戰.md" title="wikilink">源平合戰的主角</a><a href="../Page/源義經.md" title="wikilink">源義經</a>。</p></td>
+＊講述<a href="https://zh.wikipedia.org/wiki/平安時代" title="wikilink">平安時代的</a><a href="../Page/源平合戰.md" title="wikilink">源平合戰</a>的主角<a href="../Page/源義經.md" title="wikilink">源義經</a>。</p></td>
 </tr>
 <tr class="odd">
 <td><p>5</p></td>
@@ -181,7 +148,7 @@ OF ZIPANGU](../Page/信長KING_OF_ZIPANGU.md "wikilink")》
 <br />
 <a href="../Page/栗原小卷.md" title="wikilink">栗原小卷</a></p></td>
 <td><p>＊全劇為黑白。<br />
-＊背景為江戶<a href="../Page/幕末.md" title="wikilink">幕末到</a><a href="https://zh.wikipedia.org/wiki/明治維新" title="wikilink">明治維新</a>，第一次以虛構人物為主角的大河劇。</p></td>
+＊背景為江戶<a href="../Page/幕末.md" title="wikilink">幕末</a>到<a href="https://zh.wikipedia.org/wiki/明治維新" title="wikilink">明治維新</a>，第一次以虛構人物為主角的大河劇。</p></td>
 </tr>
 <tr class="even">
 <td><p>6</p></td>
@@ -247,7 +214,7 @@ OF ZIPANGU](../Page/信長KING_OF_ZIPANGU.md "wikilink")》
 <td><p><br />
 <a href="../Page/原田芳雄.md" title="wikilink">原田芳雄</a><br />
 </p></td>
-<td><p>＊本劇為紀念主角<a href="https://zh.wikipedia.org/wiki/江戶時代" title="wikilink">江戶時代前期之軍法劍術家</a><a href="../Page/柳生宗矩.md" title="wikilink">柳生宗矩誕辰</a>400週年。</p></td>
+<td><p>＊本劇為紀念主角<a href="https://zh.wikipedia.org/wiki/江戶時代" title="wikilink">江戶時代前期之軍法劍術家</a><a href="../Page/柳生宗矩.md" title="wikilink">柳生宗矩</a>誕辰400週年。</p></td>
 </tr>
 <tr class="even">
 <td><p>10</p></td>
@@ -277,7 +244,7 @@ OF ZIPANGU](../Page/信長KING_OF_ZIPANGU.md "wikilink")》
 <td><p><br />
 <br />
 </p></td>
-<td><p>＊主角是戰國時代之<a href="../Page/齋藤道三.md" title="wikilink">齋藤道三</a>、<a href="../Page/織田信長.md" title="wikilink">織田信長與</a><a href="../Page/明智光秀.md" title="wikilink">明智光秀</a>。</p></td>
+<td><p>＊主角是戰國時代之<a href="../Page/齋藤道三.md" title="wikilink">齋藤道三</a>、<a href="../Page/織田信長.md" title="wikilink">織田信長</a>與<a href="../Page/明智光秀.md" title="wikilink">明智光秀</a>。</p></td>
 </tr>
 <tr class="even">
 <td><p>12</p></td>
@@ -293,7 +260,7 @@ OF ZIPANGU](../Page/信長KING_OF_ZIPANGU.md "wikilink")》
 <td><p><br />
 <br />
 <a href="../Page/大原麗子.md" title="wikilink">大原麗子</a></p></td>
-<td><p>＊主角是江戶<a href="../Page/幕末.md" title="wikilink">幕末時代之開明派幕臣</a><a href="https://zh.wikipedia.org/wiki/勝海舟" title="wikilink">勝海舟</a>。</p></td>
+<td><p>＊主角是江戶<a href="../Page/幕末.md" title="wikilink">幕末</a>時代之開明派幕臣<a href="https://zh.wikipedia.org/wiki/勝海舟" title="wikilink">勝海舟</a>。</p></td>
 </tr>
 <tr class="odd">
 <td><p>13</p></td>
@@ -309,7 +276,7 @@ OF ZIPANGU](../Page/信長KING_OF_ZIPANGU.md "wikilink")》
 <td></td>
 <td><p><a href="../Page/石坂浩二.md" title="wikilink">石坂浩二</a><br />
 <a href="../Page/江守徹.md" title="wikilink">江守徹</a></p></td>
-<td><p>＊第二次以江戶幕府時代之<a href="../Page/元祿赤穗事件.md" title="wikilink">忠臣藏事件為題材</a>，主角是五代將軍<a href="../Page/德川綱吉.md" title="wikilink">德川綱吉之側用人</a><a href="../Page/柳澤吉保.md" title="wikilink">柳澤吉保</a>。</p></td>
+<td><p>＊第二次以江戶幕府時代之<a href="../Page/元祿赤穗事件.md" title="wikilink">忠臣藏事件為題材</a>，主角是五代將軍<a href="../Page/德川綱吉.md" title="wikilink">德川綱吉</a>之側用人<a href="../Page/柳澤吉保.md" title="wikilink">柳澤吉保</a>。</p></td>
 </tr>
 <tr class="even">
 <td><p>14</p></td>
@@ -328,7 +295,7 @@ OF ZIPANGU](../Page/信長KING_OF_ZIPANGU.md "wikilink")》
 <br />
 <br />
 <a href="../Page/露口茂.md" title="wikilink">露口茂</a></p></td>
-<td><p>＊講述<a href="https://zh.wikipedia.org/wiki/平安時代" title="wikilink">平安時代中期</a><a href="../Page/承平天慶之亂.md" title="wikilink">承平天慶之亂之策動者</a><a href="../Page/平將門.md" title="wikilink">平將門與</a><a href="../Page/藤原純友.md" title="wikilink">藤原純友</a>。</p></td>
+<td><p>＊講述<a href="https://zh.wikipedia.org/wiki/平安時代" title="wikilink">平安時代中期</a><a href="../Page/承平天慶之亂.md" title="wikilink">承平天慶之亂</a>之策動者<a href="../Page/平將門.md" title="wikilink">平將門</a>與<a href="../Page/藤原純友.md" title="wikilink">藤原純友</a>。</p></td>
 </tr>
 <tr class="odd">
 <td><p>15</p></td>
@@ -344,7 +311,7 @@ OF ZIPANGU](../Page/信長KING_OF_ZIPANGU.md "wikilink")》
 淺丘琉璃子<br />
 <a href="https://zh.wikipedia.org/wiki/篠田三郎" title="wikilink">篠田三郎</a><br />
 <a href="../Page/中村雅俊.md" title="wikilink">中村雅俊</a></p></td>
-<td><p>＊主角是江戶<a href="../Page/幕末.md" title="wikilink">幕末時代</a><a href="https://zh.wikipedia.org/wiki/長州藩" title="wikilink">長州藩的軍事家</a><a href="../Page/大村益次郎.md" title="wikilink">大村益次郎</a>。</p></td>
+<td><p>＊主角是江戶<a href="../Page/幕末.md" title="wikilink">幕末</a>時代<a href="https://zh.wikipedia.org/wiki/長州藩" title="wikilink">長州藩的軍事家</a><a href="../Page/大村益次郎.md" title="wikilink">大村益次郎</a>。</p></td>
 </tr>
 <tr class="even">
 <td><p>16</p></td>
@@ -395,7 +362,7 @@ OF ZIPANGU](../Page/信長KING_OF_ZIPANGU.md "wikilink")》
 <br />
 <a href="../Page/大原麗子.md" title="wikilink">大原麗子</a><br />
 <a href="../Page/大竹忍.md" title="wikilink">大竹忍</a></p></td>
-<td><p>＊背景是江戶<a href="../Page/幕末.md" title="wikilink">幕末至</a><a href="https://zh.wikipedia.org/wiki/明治維新" title="wikilink">明治維新</a>，第二次以虛構人物為主角的大河劇。</p></td>
+<td><p>＊背景是江戶<a href="../Page/幕末.md" title="wikilink">幕末</a>至<a href="https://zh.wikipedia.org/wiki/明治維新" title="wikilink">明治維新</a>，第二次以虛構人物為主角的大河劇。</p></td>
 </tr>
 <tr class="odd">
 <td><p>19</p></td>
@@ -445,7 +412,7 @@ OF ZIPANGU](../Page/信長KING_OF_ZIPANGU.md "wikilink")》
 <a href="../Page/武田鐵矢.md" title="wikilink">武田鐵矢</a><br />
 <br />
 <a href="../Page/夏目雅子.md" title="wikilink">夏目雅子</a></p></td>
-<td><p>＊涵蓋安土桃山到<a href="https://zh.wikipedia.org/wiki/江戶時代" title="wikilink">江戶時代前期</a>，以戰國後三雄之<a href="../Page/德川家康.md" title="wikilink">德川家康為主角</a>。</p></td>
+<td><p>＊涵蓋安土桃山到<a href="https://zh.wikipedia.org/wiki/江戶時代" title="wikilink">江戶時代前期</a>，以戰國後三雄之<a href="../Page/德川家康.md" title="wikilink">德川家康</a>為主角。</p></td>
 </tr>
 <tr class="even">
 <td><p>22</p></td>
@@ -462,7 +429,7 @@ OF ZIPANGU](../Page/信長KING_OF_ZIPANGU.md "wikilink")》
 <a href="../Page/西田敏行.md" title="wikilink">西田敏行</a><br />
 <a href="../Page/三船敏郎.md" title="wikilink">三船敏郎</a><br />
 <a href="../Page/大原麗子.md" title="wikilink">大原麗子</a></p></td>
-<td><p>＊第一部（和到目前為止，唯一一部）以<a href="https://zh.wikipedia.org/wiki/第二次世界大戰" title="wikilink">第二次世界大戰時期的</a><a href="../Page/日裔美國人.md" title="wikilink">日裔美國人為主題的大河劇</a>，「近現代三部作」之第一部，水曜時代劇（現稱『木曜時代劇』）的始祖。<br />
+<td><p>＊第一部（和到目前為止，唯一一部）以<a href="https://zh.wikipedia.org/wiki/第二次世界大戰" title="wikilink">第二次世界大戰時期的</a><a href="../Page/日裔美國人.md" title="wikilink">日裔美國人</a>為主題的大河劇，「近現代三部作」之第一部，水曜時代劇（現稱『木曜時代劇』）的始祖。<br />
 ＊涵蓋昭和時代，第三次以虛構人物為主角。</p></td>
 </tr>
 <tr class="odd">
@@ -555,7 +522,7 @@ OF ZIPANGU](../Page/信長KING_OF_ZIPANGU.md "wikilink")》
 <a href="../Page/山下真司.md" title="wikilink">山下真司</a><br />
 <a href="../Page/丹波哲郎.md" title="wikilink">丹波哲郎</a><br />
 <a href="../Page/江口洋介.md" title="wikilink">江口洋介</a></p></td>
-<td><p>＊主角是<a href="https://zh.wikipedia.org/wiki/江戶幕府" title="wikilink">江戶幕府三代將軍</a><a href="../Page/德川家光.md" title="wikilink">德川家光乳母</a><a href="../Page/春日局.md" title="wikilink">春日局</a>。</p></td>
+<td><p>＊主角是<a href="https://zh.wikipedia.org/wiki/江戶幕府" title="wikilink">江戶幕府三代將軍</a><a href="../Page/德川家光.md" title="wikilink">德川家光</a>乳母<a href="../Page/春日局.md" title="wikilink">春日局</a>。</p></td>
 </tr>
 <tr class="even">
 <td><p>28</p></td>
@@ -573,7 +540,7 @@ OF ZIPANGU](../Page/信長KING_OF_ZIPANGU.md "wikilink")》
 <br />
 <br />
 <a href="../Page/加山雄三.md" title="wikilink">加山雄三</a></p></td>
-<td><p>＊採雙主人公模式，以薩摩藩下級武士<a href="../Page/西鄉隆盛.md" title="wikilink">西鄉隆盛和</a><a href="../Page/大久保利通.md" title="wikilink">大久保利通為主角</a>，描述他們年輕時代推翻幕府、建立明治政府、意見相左等的故事。</p></td>
+<td><p>＊採雙主人公模式，以薩摩藩下級武士<a href="../Page/西鄉隆盛.md" title="wikilink">西鄉隆盛</a>和<a href="../Page/大久保利通.md" title="wikilink">大久保利通</a>為主角，描述他們年輕時代推翻幕府、建立明治政府、意見相左等的故事。</p></td>
 </tr>
 <tr class="odd">
 <td><p>29</p></td>
@@ -592,7 +559,7 @@ OF ZIPANGU](../Page/信長KING_OF_ZIPANGU.md "wikilink")》
 <br />
 <a href="../Page/緒形拳.md" title="wikilink">緒形拳</a><br />
 </p></td>
-<td><p>＊主角是鎌倉<a href="https://zh.wikipedia.org/wiki/南北朝時代" title="wikilink">南北朝時代建立</a><a href="../Page/室町幕府.md" title="wikilink">室町幕府的</a><a href="../Page/足利尊氏.md" title="wikilink">足利尊氏</a>，描述其推翻鐮倉幕府、北條執政與朝廷爭鬥的故事。</p></td>
+<td><p>＊主角是鎌倉<a href="https://zh.wikipedia.org/wiki/南北朝時代" title="wikilink">南北朝時代建立</a><a href="../Page/室町幕府.md" title="wikilink">室町幕府</a>的<a href="../Page/足利尊氏.md" title="wikilink">足利尊氏</a>，描述其推翻鐮倉幕府、北條執政與朝廷爭鬥的故事。</p></td>
 </tr>
 <tr class="even">
 <td><p>30</p></td>
@@ -650,7 +617,7 @@ OF ZIPANGU](../Page/信長KING_OF_ZIPANGU.md "wikilink")》
 <br />
 </p></td>
 <td><p>＊「浪漫大河劇」之第二部。<br />
-＊講述<a href="https://zh.wikipedia.org/wiki/平安時代" title="wikilink">平安時代的</a><a href="../Page/奧州藤原氏.md" title="wikilink">奧州藤原氏的興亡</a>，主角為、<a href="../Page/藤原清衡.md" title="wikilink">藤原清衡</a>、<a href="../Page/藤原秀衡.md" title="wikilink">藤原秀衡與</a><a href="../Page/藤原泰衡.md" title="wikilink">藤原泰衡四代</a>。</p></td>
+＊講述<a href="https://zh.wikipedia.org/wiki/平安時代" title="wikilink">平安時代的</a><a href="../Page/奧州藤原氏.md" title="wikilink">奧州藤原氏</a>的興亡，主角為、<a href="../Page/藤原清衡.md" title="wikilink">藤原清衡</a>、<a href="../Page/藤原秀衡.md" title="wikilink">藤原秀衡</a>與<a href="../Page/藤原泰衡.md" title="wikilink">藤原泰衡</a>四代。</p></td>
 </tr>
 <tr class="odd">
 <td><p>33</p></td>
@@ -668,7 +635,7 @@ OF ZIPANGU](../Page/信長KING_OF_ZIPANGU.md "wikilink")》
 萬屋錦之介<br />
 <a href="../Page/野村萬齋.md" title="wikilink">野村萬齋</a></p></td>
 <td><p>＊「浪漫大河劇」之第三部。<br />
-＊主角是<a href="../Page/室町幕府.md" title="wikilink">室町幕府八代將軍</a><a href="https://zh.wikipedia.org/wiki/足利義政" title="wikilink">足利義政正室</a><a href="../Page/日野富子.md" title="wikilink">日野富子</a>。</p></td>
+＊主角是<a href="../Page/室町幕府.md" title="wikilink">室町幕府</a>八代將軍<a href="https://zh.wikipedia.org/wiki/足利義政" title="wikilink">足利義政正室</a><a href="../Page/日野富子.md" title="wikilink">日野富子</a>。</p></td>
 </tr>
 <tr class="even">
 <td><p>34</p></td>
@@ -780,7 +747,7 @@ OF ZIPANGU](../Page/信長KING_OF_ZIPANGU.md "wikilink")》
 <a href="../Page/岩下志麻.md" title="wikilink">岩下志麻</a><br />
 <br />
 <a href="../Page/江守徹.md" title="wikilink">江守徹</a></p></td>
-<td><p>＊<a href="https://zh.wikipedia.org/wiki/江戶幕府" title="wikilink">江戶幕府將軍</a><a href="../Page/德川家康.md" title="wikilink">德川家康</a>、<a href="../Page/德川秀忠.md" title="wikilink">德川秀忠</a>、<a href="../Page/德川家光.md" title="wikilink">德川家光祖孫三代的故事</a> ＊第一部開始以高畫質製作，並加入片尾歷史紀行片段的大河劇。<br />
+<td><p>＊<a href="https://zh.wikipedia.org/wiki/江戶幕府" title="wikilink">江戶幕府將軍</a><a href="../Page/德川家康.md" title="wikilink">德川家康</a>、<a href="../Page/德川秀忠.md" title="wikilink">德川秀忠</a>、<a href="../Page/德川家光.md" title="wikilink">德川家光</a>祖孫三代的故事 ＊第一部開始以高畫質製作，並加入片尾歷史紀行片段的大河劇。<br />
 ＊此劇為紀念<a href="../Page/關原之戰.md" title="wikilink">關原之戰</a>400週年，故本劇以關原之戰為開頭。</p></td>
 </tr>
 <tr class="even">
@@ -803,7 +770,7 @@ OF ZIPANGU](../Page/信長KING_OF_ZIPANGU.md "wikilink")》
 </tr>
 <tr class="odd">
 <td><p>41</p></td>
-<td><p><a href="../Page/利家與松.md" title="wikilink">利家與松～加賀百萬石物語～</a><br />
+<td><p><a href="../Page/利家與松.md" title="wikilink">利家與松</a>～加賀百萬石物語～<br />
 <br />
 (Toshiie to Matsu)</p></td>
 <td><p>2002年1月6日<br />
@@ -819,7 +786,7 @@ OF ZIPANGU](../Page/信長KING_OF_ZIPANGU.md "wikilink")》
 <a href="../Page/竹野內豐.md" title="wikilink">竹野內豐</a><br />
 <a href="../Page/松平健.md" title="wikilink">松平健</a></p></td>
 <td><p>＊第一部以<a href="https://zh.wikipedia.org/wiki/高解析度電視" title="wikilink">高解像廣播的大河劇</a>。<br />
-＊主角是安土桃山時代的<a href="../Page/戰國大名.md" title="wikilink">戰國大名</a><a href="../Page/前田利家.md" title="wikilink">前田利家與正室</a><a href="../Page/芳春院.md" title="wikilink">芳春院</a>。</p></td>
+＊主角是安土桃山時代的<a href="../Page/戰國大名.md" title="wikilink">戰國大名</a><a href="../Page/前田利家.md" title="wikilink">前田利家</a>與正室<a href="../Page/芳春院.md" title="wikilink">芳春院</a>。</p></td>
 </tr>
 <tr class="even">
 <td><p>42</p></td>
@@ -856,7 +823,7 @@ OF ZIPANGU](../Page/信長KING_OF_ZIPANGU.md "wikilink")》
 <a href="../Page/江口洋介.md" title="wikilink">江口洋介</a><br />
 <a href="../Page/佐藤浩市.md" title="wikilink">佐藤浩市</a><br />
 <a href="https://zh.wikipedia.org/wiki/優香" title="wikilink">優香</a></p></td>
-<td><p>＊講述<a href="https://zh.wikipedia.org/wiki/江戶時代" title="wikilink">江戶時代</a><a href="../Page/幕末.md" title="wikilink">幕末的京都守護職下由</a><a href="../Page/近藤勇.md" title="wikilink">近藤勇與</a><a href="../Page/土方歲三.md" title="wikilink">土方歲三帶領的警備組織</a><a href="../Page/新選組.md" title="wikilink">新選組的興衰</a>。</p></td>
+<td><p>＊講述<a href="https://zh.wikipedia.org/wiki/江戶時代" title="wikilink">江戶時代</a><a href="../Page/幕末.md" title="wikilink">幕末</a>的京都守護職下由<a href="../Page/近藤勇.md" title="wikilink">近藤勇</a>與<a href="../Page/土方歲三.md" title="wikilink">土方歲三</a>帶領的警備組織<a href="../Page/新選組.md" title="wikilink">新選組</a>的興衰。</p></td>
 </tr>
 <tr class="even">
 <td><p>44</p></td>
@@ -877,7 +844,7 @@ OF ZIPANGU](../Page/信長KING_OF_ZIPANGU.md "wikilink")》
 <a href="../Page/中井貴一.md" title="wikilink">中井貴一</a><br />
 </p></td>
 <td><p>＊為1966年大河劇「源義經」重新製播版。<br />
-＊講述<a href="https://zh.wikipedia.org/wiki/平安時代" title="wikilink">平安時代的</a><a href="../Page/源平合戰.md" title="wikilink">源平合戰主角</a><a href="../Page/源義經.md" title="wikilink">源義經</a>。</p></td>
+＊講述<a href="https://zh.wikipedia.org/wiki/平安時代" title="wikilink">平安時代的</a><a href="../Page/源平合戰.md" title="wikilink">源平合戰</a>主角<a href="../Page/源義經.md" title="wikilink">源義經</a>。</p></td>
 </tr>
 <tr class="odd">
 <td><p>45</p></td>
@@ -897,7 +864,7 @@ OF ZIPANGU](../Page/信長KING_OF_ZIPANGU.md "wikilink")》
 <a href="../Page/西田敏行.md" title="wikilink">西田敏行</a><br />
 </p></td>
 <td><p>＊原定播放「<a href="../Page/坂上之雲.md" title="wikilink">坂上之雲</a>」，但因編劇自殺身亡，使「坂上之雲」延遲播放。<br />
-＊講述安土桃山時代的戰國大名<a href="../Page/山內一豐.md" title="wikilink">山內一豐與正室</a>。</p></td>
+＊講述安土桃山時代的戰國大名<a href="../Page/山內一豐.md" title="wikilink">山內一豐</a>與正室。</p></td>
 </tr>
 <tr class="even">
 <td><p>46</p></td>
@@ -917,7 +884,7 @@ OF ZIPANGU](../Page/信長KING_OF_ZIPANGU.md "wikilink")》
 <br />
 <a href="../Page/緒形拳.md" title="wikilink">緒形拳</a><br />
 <a href="../Page/仲代達矢.md" title="wikilink">仲代達矢</a></p></td>
-<td><p>＊講述<a href="../Page/战国时代_(日本).md" title="wikilink">戰國時代</a><a href="../Page/武田信玄.md" title="wikilink">武田信玄的</a><a href="../Page/軍師.md" title="wikilink">軍師</a><a href="../Page/山本勘助.md" title="wikilink">山本勘助</a>。</p></td>
+<td><p>＊講述<a href="../Page/战国时代_(日本).md" title="wikilink">戰國時代</a><a href="../Page/武田信玄.md" title="wikilink">武田信玄</a>的<a href="../Page/軍師.md" title="wikilink">軍師</a><a href="../Page/山本勘助.md" title="wikilink">山本勘助</a>。</p></td>
 </tr>
 <tr class="odd">
 <td><p>47</p></td>
@@ -937,7 +904,7 @@ OF ZIPANGU](../Page/信長KING_OF_ZIPANGU.md "wikilink")》
 <a href="../Page/松坂慶子.md" title="wikilink">松坂慶子</a><br />
 <br />
 <a href="../Page/北大路欣也.md" title="wikilink">北大路欣也</a></p></td>
-<td><p>＊講述<a href="https://zh.wikipedia.org/wiki/江戶時代" title="wikilink">江戶時代</a><a href="../Page/幕末.md" title="wikilink">幕末的</a>13代將軍<a href="../Page/德川家定.md" title="wikilink">德川家定的正室</a><a href="../Page/天璋院.md" title="wikilink">天璋院</a>。<br />
+<td><p>＊講述<a href="https://zh.wikipedia.org/wiki/江戶時代" title="wikilink">江戶時代</a><a href="../Page/幕末.md" title="wikilink">幕末</a>的13代將軍<a href="../Page/德川家定.md" title="wikilink">德川家定</a>的正室<a href="../Page/天璋院.md" title="wikilink">天璋院</a>。<br />
 ＊此劇為紀念明治維新及<a href="https://zh.wikipedia.org/wiki/無血開城" title="wikilink">無血開城</a>140週年。</p></td>
 </tr>
 <tr class="even">
@@ -995,7 +962,7 @@ OF ZIPANGU](../Page/信長KING_OF_ZIPANGU.md "wikilink")》
 <a href="../Page/廣末涼子.md" title="wikilink">廣末涼子</a><br />
 <a href="../Page/真木陽子.md" title="wikilink">真木陽子</a><br />
 <a href="../Page/蒼井優.md" title="wikilink">蒼井優</a></p></td>
-<td><p>＊以明治時代三菱郵便汽船商社創始人<a href="../Page/岩崎彌太郎.md" title="wikilink">岩崎彌太郎的觀點描述</a><a href="https://zh.wikipedia.org/wiki/坂本龍馬" title="wikilink">坂本龍馬三十一年的生涯</a>。</p></td>
+<td><p>＊以明治時代三菱郵便汽船商社創始人<a href="../Page/岩崎彌太郎.md" title="wikilink">岩崎彌太郎</a>的觀點描述<a href="https://zh.wikipedia.org/wiki/坂本龍馬" title="wikilink">坂本龍馬三十一年的生涯</a>。</p></td>
 </tr>
 <tr class="odd">
 <td><p>50</p></td>
@@ -1015,7 +982,7 @@ OF ZIPANGU](../Page/信長KING_OF_ZIPANGU.md "wikilink")》
 <a href="../Page/豐川悅司.md" title="wikilink">豐川悅司</a><br />
 <a href="../Page/岸谷五朗.md" title="wikilink">岸谷五朗</a><br />
 <a href="../Page/北大路欣也.md" title="wikilink">北大路欣也</a></p></td>
-<td><p>＊講訴<a href="../Page/淺井長政.md" title="wikilink">淺井長政與</a><a href="../Page/織田信長.md" title="wikilink">織田信長之妹</a><a href="../Page/阿市.md" title="wikilink">阿市的女兒</a>、<a href="../Page/德川秀忠.md" title="wikilink">德川秀忠之妻</a><a href="../Page/崇源院.md" title="wikilink">江和两位姐姐</a><a href="../Page/淀殿.md" title="wikilink">茶茶</a>、<a href="../Page/常高院.md" title="wikilink">阿初各自波亂的一生</a>。</p></td>
+<td><p>＊講訴<a href="../Page/淺井長政.md" title="wikilink">淺井長政</a>與<a href="../Page/織田信長.md" title="wikilink">織田信長</a>之妹<a href="../Page/阿市.md" title="wikilink">阿市</a>的女兒、<a href="../Page/德川秀忠.md" title="wikilink">德川秀忠</a>之妻<a href="../Page/崇源院.md" title="wikilink">江和两位姐姐</a><a href="../Page/淀殿.md" title="wikilink">茶茶</a>、<a href="../Page/常高院.md" title="wikilink">阿初各自波亂的一生</a>。</p></td>
 </tr>
 <tr class="even">
 <td><p>51</p></td>
@@ -1100,7 +1067,7 @@ OF ZIPANGU](../Page/信長KING_OF_ZIPANGU.md "wikilink")》
 <a href="https://zh.wikipedia.org/wiki/伊勢谷友介" title="wikilink">伊勢谷友介</a><br />
 <a href="../Page/高良健吾.md" title="wikilink">高良健吾</a><br />
 <a href="../Page/東出昌大.md" title="wikilink">東出昌大</a></p></td>
-<td><p>＊主角為幕末長州藩士<a href="https://zh.wikipedia.org/wiki/吉田松陰" title="wikilink">吉田松陰的妹妹</a>、<a href="../Page/久坂玄瑞.md" title="wikilink">久坂玄瑞之妻杉文</a>（後改名楫取美和子）。<br />
+<td><p>＊主角為幕末長州藩士<a href="https://zh.wikipedia.org/wiki/吉田松陰" title="wikilink">吉田松陰的妹妹</a>、<a href="../Page/久坂玄瑞.md" title="wikilink">久坂玄瑞</a>之妻杉文（後改名楫取美和子）。<br />
 ＊本劇自2017年為止為大河劇最低的平均收視率。</p></td>
 </tr>
 <tr class="even">
@@ -1118,7 +1085,7 @@ OF ZIPANGU](../Page/信長KING_OF_ZIPANGU.md "wikilink")》
 <a href="https://zh.wikipedia.org/wiki/長澤雅美" title="wikilink">長澤雅美</a><br />
 <a href="../Page/內野聖陽.md" title="wikilink">內野聖陽</a><br />
 </p></td>
-<td><p>＊描述被稱為「日本第一勇士」，信濃豪族真田氏領主<a href="../Page/真田昌幸.md" title="wikilink">真田昌幸次子</a><a href="../Page/真田信繁.md" title="wikilink">真田信繁的故事</a>。<br />
+<td><p>＊描述被稱為「日本第一勇士」，信濃豪族真田氏領主<a href="../Page/真田昌幸.md" title="wikilink">真田昌幸</a>次子<a href="../Page/真田信繁.md" title="wikilink">真田信繁</a>的故事。<br />
 ＊此劇正值<a href="https://zh.wikipedia.org/wiki/大坂夏之陣" title="wikilink">大坂夏之陣</a>400週年。</p></td>
 </tr>
 <tr class="odd">
@@ -1136,7 +1103,7 @@ OF ZIPANGU](../Page/信長KING_OF_ZIPANGU.md "wikilink")》
 <a href="../Page/高橋一生.md" title="wikilink">高橋一生</a><br />
 <a href="../Page/菅田將暉.md" title="wikilink">菅田將暉</a><br />
 <a href="../Page/阿部貞夫.md" title="wikilink">阿部貞夫</a></p></td>
-<td><p>＊主角為<a href="../Page/井伊直政.md" title="wikilink">井伊直政之養母</a>，俗稱「女地頭」的<a href="../Page/井伊直虎.md" title="wikilink">井伊直虎</a>。</p></td>
+<td><p>＊主角為<a href="../Page/井伊直政.md" title="wikilink">井伊直政</a>之養母，俗稱「女地頭」的<a href="../Page/井伊直虎.md" title="wikilink">井伊直虎</a>。</p></td>
 </tr>
 <tr class="even">
 <td><p>57</p></td>
@@ -1170,7 +1137,7 @@ OF ZIPANGU](../Page/信長KING_OF_ZIPANGU.md "wikilink")》
 <a href="../Page/綾瀨遙.md" title="wikilink">綾瀨遙</a><br />
 <a href="../Page/生田斗真.md" title="wikilink">生田斗真</a><br />
 <a href="../Page/役所廣司.md" title="wikilink">役所廣司</a></p></td>
-<td><p>＊主角為有「日本馬拉松之父」之譽的<a href="../Page/金栗四三.md" title="wikilink">金栗四三及</a><a href="https://zh.wikipedia.org/wiki/1964年東京奧運" title="wikilink">1964年東京奧運的主要籌措者</a>。<br />
+<td><p>＊主角為有「日本馬拉松之父」之譽的<a href="../Page/金栗四三.md" title="wikilink">金栗四三</a>及<a href="https://zh.wikipedia.org/wiki/1964年東京奧運" title="wikilink">1964年東京奧運的主要籌措者</a>。<br />
 ＊時代背景為日本初次參加的<a href="https://zh.wikipedia.org/wiki/1912年夏季奧林匹克運動會" title="wikilink">1912年斯德哥爾摩奧運至首次主辦的</a><a href="https://zh.wikipedia.org/wiki/1964年夏季奧林匹克運動會" title="wikilink">1964年東京奧運之間</a>，是齣橫跨50年的群像劇，並是33年來再度的近現代題材。<br />
 ＊此劇為慶祝下一年舉行－由日本主辦的<a href="https://zh.wikipedia.org/wiki/2020年夏季奧林匹克運動會" title="wikilink">2020年東京奧運</a>。</p></td>
 </tr>
@@ -1239,7 +1206,7 @@ OF ZIPANGU](../Page/信長KING_OF_ZIPANGU.md "wikilink")》
 <td><p><br />
 <br />
 <a href="../Page/丹波哲郎.md" title="wikilink">丹波哲郎</a></p></td>
-<td><p>＊主角為戰國時期真田家父子三人<a href="../Page/真田昌幸.md" title="wikilink">真田昌幸</a>、<a href="../Page/真田信之.md" title="wikilink">真田信之和</a><a href="https://zh.wikipedia.org/wiki/真田幸村" title="wikilink">真田幸村</a><br />
+<td><p>＊主角為戰國時期真田家父子三人<a href="../Page/真田昌幸.md" title="wikilink">真田昌幸</a>、<a href="../Page/真田信之.md" title="wikilink">真田信之</a>和<a href="https://zh.wikipedia.org/wiki/真田幸村" title="wikilink">真田幸村</a><br />
 ＊播出30年後於2016年新再製<a href="../Page/真田丸_(大河劇).md" title="wikilink">真田丸_(大河劇)</a></p></td>
 </tr>
 <tr class="odd">
@@ -1257,7 +1224,7 @@ OF ZIPANGU](../Page/信長KING_OF_ZIPANGU.md "wikilink")》
 <br />
 <br />
 </p></td>
-<td><p>＊主角為平安時期追隨<a href="../Page/源義經.md" title="wikilink">源義經的僧兵</a><a href="../Page/武藏坊弁慶.md" title="wikilink">武藏坊弁慶</a><br />
+<td><p>＊主角為平安時期追隨<a href="../Page/源義經.md" title="wikilink">源義經</a>的僧兵<a href="../Page/武藏坊弁慶.md" title="wikilink">武藏坊弁慶</a><br />
 ＊此劇正值導致平家滅亡的<a href="../Page/壇之浦之戰.md" title="wikilink">壇之浦之戰</a>、以及弁慶逝世800週年</p></td>
 </tr>
 </tbody>
@@ -1347,8 +1314,6 @@ NHK不定期會邀請大河劇主角擔任[紅白歌合戰的主持人](https://
 
   - [NHK大河劇一覽](http://www9.nhk.or.jp/taiga/)
 
-[Category:NHK大河劇](https://zh.wikipedia.org/wiki/Category:NHK大河劇 "wikilink")
-[Category:NHK電視劇](https://zh.wikipedia.org/wiki/Category:NHK電視劇 "wikilink")
-[Category:日本電視劇播放時段](https://zh.wikipedia.org/wiki/Category:日本電視劇播放時段 "wikilink")
+[Category:NHK大河劇](https://zh.wikipedia.org/wiki/Category:NHK大河劇 "wikilink") [Category:NHK電視劇](https://zh.wikipedia.org/wiki/Category:NHK電視劇 "wikilink") [Category:日本電視劇播放時段](https://zh.wikipedia.org/wiki/Category:日本電視劇播放時段 "wikilink")
 
 1.

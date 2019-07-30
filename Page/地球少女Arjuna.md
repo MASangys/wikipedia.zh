@@ -1,5 +1,4 @@
-《**地球少女Arjuna**》是一套[日本的環保](../Page/日本.md "wikilink")[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")，由[Bandai
-Visual制作](https://zh.wikipedia.org/wiki/Bandai_Visual "wikilink")。講述地球失衡之後世界的變化。共有六個部份13集。有[DVD發行](https://zh.wikipedia.org/wiki/DVD "wikilink")。已在日本、香港和台灣上映。
+《**地球少女Arjuna**》是一套[日本](../Page/日本.md "wikilink")的環保[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")，由[Bandai Visual制作](https://zh.wikipedia.org/wiki/Bandai_Visual "wikilink")。講述地球失衡之後世界的變化。共有六個部份13集。有[DVD發行](https://zh.wikipedia.org/wiki/DVD "wikilink")。已在日本、香港和台灣上映。
 
 ## 登場人物
 
@@ -30,9 +29,4 @@ Visual制作](https://zh.wikipedia.org/wiki/Bandai_Visual "wikilink")。講述�
   - [官方網頁](http://www.bandaivisual.co.jp/arjuna/)
   - [台版代理普威爾](http://www.prowaremedia.com.tw/shop/default.php?cPath=500_132)
 
-[Category:2001年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2001年日本電視動畫 "wikilink")
-[Category:東京電視網動畫](https://zh.wikipedia.org/wiki/Category:東京電視網動畫 "wikilink")
-[Category:环境保护题材作品](https://zh.wikipedia.org/wiki/Category:环境保护题材作品 "wikilink")
-[Category:兵庫縣背景作品](https://zh.wikipedia.org/wiki/Category:兵庫縣背景作品 "wikilink")
-[Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
-[Category:SATELIGHT](https://zh.wikipedia.org/wiki/Category:SATELIGHT "wikilink")
+[Category:2001年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2001年日本電視動畫 "wikilink") [Category:東京電視網動畫](https://zh.wikipedia.org/wiki/Category:東京電視網動畫 "wikilink") [Category:环境保护题材作品](https://zh.wikipedia.org/wiki/Category:环境保护题材作品 "wikilink") [Category:兵庫縣背景作品](https://zh.wikipedia.org/wiki/Category:兵庫縣背景作品 "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink") [Category:SATELIGHT](https://zh.wikipedia.org/wiki/Category:SATELIGHT "wikilink")

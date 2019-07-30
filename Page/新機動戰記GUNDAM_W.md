@@ -1,15 +1,10 @@
-《**新機動戰記GUNDAM
-W**》，是1995年4月到1996年3月在[日本](../Page/日本.md "wikilink")[朝日電視台所播映的](../Page/朝日電視台.md "wikilink")[GUNDAM系列作品電視動畫影集共](../Page/GUNDAM系列作品.md "wikilink")49話。本作是GUNDAM系列首部成功打入女性觀眾市場的作品。
+《**新機動戰記GUNDAM W**》，是1995年4月到1996年3月在[日本](../Page/日本.md "wikilink")[朝日電視台](../Page/朝日電視台.md "wikilink")所播映的[GUNDAM系列作品](../Page/GUNDAM系列作品.md "wikilink")電視動畫影集共49話。本作是GUNDAM系列首部成功打入女性觀眾市場的作品。
 
-《**新機動戰記GUNDAM W**》與《[機動武鬥傳G
-GUNDAM](../Page/機動武鬥傳G_GUNDAM.md "wikilink")》及《[機動新世紀GUNDAM
-X](../Page/機動新世紀GUNDAM_X.md "wikilink")》常被並稱為「平成三部曲」。
+《**新機動戰記GUNDAM W**》與《[機動武鬥傳G GUNDAM](../Page/機動武鬥傳G_GUNDAM.md "wikilink")》及《[機動新世紀GUNDAM X](../Page/機動新世紀GUNDAM_X.md "wikilink")》常被並稱為「平成三部曲」。
 
 ## 故事背景
 
-從人類開始開發宇宙，開始進入A.C.（After Colony）紀年，在第一個宇宙殖民地 L1
-完成後百年，地球統一政府對殖民地以武力實行高壓統治。在A.C.165宇宙殖民地居民對地球圈發起抗爭，而在其中的調停者是非暴力非武裝份子的德利安，並在各殖民地和地上展開演說推廣其理想，但其在A.C.175遭到暗殺（其中一種說法為殺手是OZ前身的特務組織的成員），隨後殖民地陷入混亂並遭到特務部隊（OZ前身）鎮壓。之後在地球上提倡和平主義的山克王國和其王室匹斯克拉福特家族也遭消滅。A.C.195年反對地球統一政府強力支配的殖民地份子，對地球送入五架GUNDAM，開始殲滅特務部隊OZ的「流星作戰」（Operation
-Meteor）。
+從人類開始開發宇宙，開始進入A.C.（After Colony）紀年，在第一個宇宙殖民地 L1 完成後百年，地球統一政府對殖民地以武力實行高壓統治。在A.C.165宇宙殖民地居民對地球圈發起抗爭，而在其中的調停者是非暴力非武裝份子的德利安，並在各殖民地和地上展開演說推廣其理想，但其在A.C.175遭到暗殺（其中一種說法為殺手是OZ前身的特務組織的成員），隨後殖民地陷入混亂並遭到特務部隊（OZ前身）鎮壓。之後在地球上提倡和平主義的山克王國和其王室匹斯克拉福特家族也遭消滅。A.C.195年反對地球統一政府強力支配的殖民地份子，對地球送入五架GUNDAM，開始殲滅特務部隊OZ的「流星作戰」（Operation Meteor）。
 
 ## 人物介紹
 
@@ -213,8 +208,7 @@ Meteor）。
 <!-- end list -->
 
   -
-    Mobile Suit為「**M**anipulatavl **O**rder **B**uild and **I**ndustrial
-    **L**abors **E**xtended **SUIT**」的簡稱，其意思為「建設及工業勞動用有腕式擴充型（宇宙）服」。
+    Mobile Suit為「**M**anipulatavl **O**rder **B**uild and **I**ndustrial **L**abors **E**xtended **SUIT**」的簡稱，其意思為「建設及工業勞動用有腕式擴充型（宇宙）服」。
     MS原本是為了輔助建造宇宙殖民地而開發出來的產物，基本上沒有保護駕駛員的防護裝備，但執行危險作業時，可以額外加裝防護板等組件，標準作業用MS擁有六隻機械手臂，可視用途不同而進行更改，從動畫版第21話可以看見其身影。
 
 <!-- end list -->
@@ -224,8 +218,7 @@ Meteor）。
 <!-- end list -->
 
   -
-    Mobile Doll為「**MOBILE** **D**irect **O**perational **L**eaded
-    **L**abor」的簡稱，其意思為「直接指揮及作戰用機動作業機器」。
+    Mobile Doll為「**MOBILE** **D**irect **O**perational **L**eaded **L**abor」的簡稱，其意思為「直接指揮及作戰用機動作業機器」。
 
 <!-- end list -->
 
@@ -244,8 +237,7 @@ Meteor）。
 <!-- end list -->
 
   -
-    GUNDAnium為「（**G**enetic on **U**niversal **N**eutraly **D**ifferent
-    **A**lloy）nium」的簡稱，其意思為「宇宙製電中性異構合金」。
+    GUNDAnium為「（**G**enetic on **U**niversal **N**eutraly **D**ifferent **A**lloy）nium」的簡稱，其意思為「宇宙製電中性異構合金」。
 
 <!-- end list -->
 
@@ -254,13 +246,11 @@ Meteor）。
 <!-- end list -->
 
   -
-    Zero System為「**Z**oning and **E**motional **R**ange **O**mitted
-    **SYSTEM**」的簡稱，其意思為「領域化及情緒域忽略裝置」。
+    Zero System為「**Z**oning and **E**motional **R**ange **O**mitted **SYSTEM**」的簡稱，其意思為「領域化及情緒域忽略裝置」。
 
 #### OZ體系
 
-OZ為隸屬地球圈統一聯合的特務部隊，全名為「Organization of
-Zodiac」，其中的"Zodiac"意思為[黃道](https://zh.wikipedia.org/wiki/黃道 "wikilink")，因此OZ體系的機體其命名往往來自[星座或是](../Page/星座.md "wikilink")[天體](../Page/天體.md "wikilink")。但由五位科學家替OZ開發的機體，其命名則不在此限。
+OZ為隸屬地球圈統一聯合的特務部隊，全名為「Organization of Zodiac」，其中的"Zodiac"意思為[黃道](https://zh.wikipedia.org/wiki/黃道 "wikilink")，因此OZ體系的機體其命名往往來自[星座](../Page/星座.md "wikilink")或是[天體](../Page/天體.md "wikilink")。但由五位科學家替OZ開發的機體，其命名則不在此限。
 
   - 里歐（Leo）︰[獅子座](https://zh.wikipedia.org/wiki/獅子座 "wikilink")
   - 特拉哥斯（Tragos）:[魔羯座](https://zh.wikipedia.org/wiki/魔羯座 "wikilink")
@@ -271,22 +261,13 @@ Zodiac」，其中的"Zodiac"意思為[黃道](https://zh.wikipedia.org/wiki/黃
   - 比爾哥（Virgo）︰[處女座](https://zh.wikipedia.org/wiki/處女座 "wikilink")
   - 沙貝特（Serpent）︰[巨蛇座](../Page/巨蛇座.md "wikilink")
   - 斯德畢爾（Scorpio）︰[天蠍座](https://zh.wikipedia.org/wiki/天蠍座 "wikilink")
-  - Capricorn（Capricorn）︰[魔羯座出自外傳Tiel](https://zh.wikipedia.org/wiki/魔羯座 "wikilink")'s
-    Impluse，其型號為OZ-11MS。
-  - 薩吉塔利烏斯 (Sagittarius) :
-    [人馬座](https://zh.wikipedia.org/wiki/人馬座 "wikilink") 出自小說
-    frozen teardrop 中的聯邦軍的月面巨大戰艦
-  - 肯塔烏魯斯 (Centaurus) :
-    [半人馬座](https://zh.wikipedia.org/wiki/半人馬座 "wikilink")
-    出自小說 frozen teardrop 中的聯邦軍的月面巨大戰艦
-  - 水瓶座GUNDAM（Gundam
-    Aquarius）︰[水瓶座](https://zh.wikipedia.org/wiki/水瓶座 "wikilink")
-  - GUNDAM傑姆納斯（Gundam
-    Geminass）︰[雙子座](https://zh.wikipedia.org/wiki/雙子座 "wikilink")
-  - GUNDAM亞斯克雷普歐斯（Gundam
-    Aesculapius）︰[蛇夫座](../Page/蛇夫座.md "wikilink")、"醫神"[阿斯克勒庇俄斯](https://zh.wikipedia.org/wiki/阿斯克勒庇俄斯 "wikilink")
-  - 海德拉GUNDAM（Hydra
-    Gundam）︰[長蛇座](https://zh.wikipedia.org/wiki/長蛇座 "wikilink")
+  - Capricorn（Capricorn）︰[魔羯座出自外傳Tiel](https://zh.wikipedia.org/wiki/魔羯座 "wikilink")'s Impluse，其型號為OZ-11MS。
+  - 薩吉塔利烏斯 (Sagittarius) : [人馬座](https://zh.wikipedia.org/wiki/人馬座 "wikilink") 出自小說 frozen teardrop 中的聯邦軍的月面巨大戰艦
+  - 肯塔烏魯斯 (Centaurus) : [半人馬座](https://zh.wikipedia.org/wiki/半人馬座 "wikilink") 出自小說 frozen teardrop 中的聯邦軍的月面巨大戰艦
+  - 水瓶座GUNDAM（Gundam Aquarius）︰[水瓶座](https://zh.wikipedia.org/wiki/水瓶座 "wikilink")
+  - GUNDAM傑姆納斯（Gundam Geminass）︰[雙子座](https://zh.wikipedia.org/wiki/雙子座 "wikilink")
+  - GUNDAM亞斯克雷普歐斯（Gundam Aesculapius）︰[蛇夫座](../Page/蛇夫座.md "wikilink")、"醫神"[阿斯克勒庇俄斯](https://zh.wikipedia.org/wiki/阿斯克勒庇俄斯 "wikilink")
+  - 海德拉GUNDAM（Hydra Gundam）︰[長蛇座](https://zh.wikipedia.org/wiki/長蛇座 "wikilink")
 
 <!-- end list -->
 
@@ -399,16 +380,11 @@ Zodiac」，其中的"Zodiac"意思為[黃道](https://zh.wikipedia.org/wiki/黃
   - 新機動戰記GUNDAMW
       - TV版全49話
       - 小說
-          - 「新機動戰記GUNDAMW」
-            [神代創](https://zh.wikipedia.org/wiki/神代創 "wikilink")
-            全5卷 角川書店 1996年-1997年
+          - 「新機動戰記GUNDAMW」 [神代創](https://zh.wikipedia.org/wiki/神代創 "wikilink") 全5卷 角川書店 1996年-1997年
           - 「新機動戰記GUNDAMW外傳 右手持鐮左手擁你」 皆川ゆか 講談社 通常版 1996年 文庫版 2005年
-          - 「新機動戰記鋼彈W冰結的淚滴 Frozen Teardrop」
-            [隅澤克之](../Page/隅澤克之.md "wikilink") 角川書店
-            目前13卷 2016年
+          - 「新機動戰記鋼彈W冰結的淚滴 Frozen Teardrop」 [隅澤克之](../Page/隅澤克之.md "wikilink") 角川書店 目前13卷 2016年
       - 漫畫
-          - 「新機動戰記GUNDAMW」 1995年-1996年 通常版全3卷 普及版全2卷
-            新裝版全2卷　[鴇田洸一](https://zh.wikipedia.org/wiki/鴇田洸一 "wikilink")　講談社ボンボンKC　
+          - 「新機動戰記GUNDAMW」 1995年-1996年 通常版全3卷 普及版全2卷 新裝版全2卷　[鴇田洸一](https://zh.wikipedia.org/wiki/鴇田洸一 "wikilink")　講談社ボンボンKC　
           - 「新機動戰記GUNDAMW EPISODE ZERO」 1997年 学研
           - 「新機動戰記GUNDAMW BATTLEFIELD OF PACIFIST」 1997年 鴇田洸一 講談社ボンボンKC
   - 新機動戰記GUNDAMW G-UNIT
@@ -425,9 +401,7 @@ Zodiac」，其中的"Zodiac"意思為[黃道](https://zh.wikipedia.org/wiki/黃
 
 ## 評價
 
-鋼彈W在日本獲得平均4.35％的收視率，也獲得日本 [Animage
-雜誌](../Page/Animage.md "wikilink")1996年 Anime GrandPrix
-獎項的第二名\[1\]，以及2001年最佳100動畫的第76名\[2\]。
+鋼彈W在日本獲得平均4.35％的收視率，也獲得日本 [Animage 雜誌](../Page/Animage.md "wikilink")1996年 Anime GrandPrix 獎項的第二名\[1\]，以及2001年最佳100動畫的第76名\[2\]。
 
 ## 參考資料
 
@@ -437,21 +411,9 @@ Zodiac」，其中的"Zodiac"意思為[黃道](https://zh.wikipedia.org/wiki/黃
 
   - [新機動戦記ガンダムＷ](http://www.gundam-w.jp/) 日本動畫官方網站
 
-  - [新機動戦記ガンダムＷ](http://www.b-ch.com/cgi-bin/contents/ttl/det.cgi?ttl_c=113)
-    萬代影視的介紹頁
+  - [新機動戦記ガンダムＷ](http://www.b-ch.com/cgi-bin/contents/ttl/det.cgi?ttl_c=113) 萬代影視的介紹頁
 
-[Category:殖民後紀元](https://zh.wikipedia.org/wiki/Category:殖民後紀元 "wikilink")
-[Category:1995年日本電視動畫](https://zh.wikipedia.org/wiki/Category:1995年日本電視動畫 "wikilink")
-[Category:朝日電視台動畫](https://zh.wikipedia.org/wiki/Category:朝日電視台動畫 "wikilink")
-[Category:日昇動畫](https://zh.wikipedia.org/wiki/Category:日昇動畫 "wikilink")
-[Category:中視外購動畫](https://zh.wikipedia.org/wiki/Category:中視外購動畫 "wikilink")
-[Category:緯來電視外購動畫](https://zh.wikipedia.org/wiki/Category:緯來電視外購動畫 "wikilink")
-[Category:GUNDAM_ACE](https://zh.wikipedia.org/wiki/Category:GUNDAM_ACE "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:講談社](https://zh.wikipedia.org/wiki/Category:講談社 "wikilink")
-[Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink")
-[Category:Comic_BomBom](https://zh.wikipedia.org/wiki/Category:Comic_BomBom "wikilink")
-[Category:GUNDAM系列](https://zh.wikipedia.org/wiki/Category:GUNDAM系列 "wikilink")
+[Category:殖民後紀元](https://zh.wikipedia.org/wiki/Category:殖民後紀元 "wikilink") [Category:1995年日本電視動畫](https://zh.wikipedia.org/wiki/Category:1995年日本電視動畫 "wikilink") [Category:朝日電視台動畫](https://zh.wikipedia.org/wiki/Category:朝日電視台動畫 "wikilink") [Category:日昇動畫](https://zh.wikipedia.org/wiki/Category:日昇動畫 "wikilink") [Category:中視外購動畫](https://zh.wikipedia.org/wiki/Category:中視外購動畫 "wikilink") [Category:緯來電視外購動畫](https://zh.wikipedia.org/wiki/Category:緯來電視外購動畫 "wikilink") [Category:GUNDAM_ACE](https://zh.wikipedia.org/wiki/Category:GUNDAM_ACE "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:講談社](https://zh.wikipedia.org/wiki/Category:講談社 "wikilink") [Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink") [Category:Comic_BomBom](https://zh.wikipedia.org/wiki/Category:Comic_BomBom "wikilink") [Category:GUNDAM系列](https://zh.wikipedia.org/wiki/Category:GUNDAM系列 "wikilink")
 
 1.
 2.

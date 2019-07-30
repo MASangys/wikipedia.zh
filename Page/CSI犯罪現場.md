@@ -1,38 +1,28 @@
 《**CSI犯罪現場**》（****，简称****）是一部受歡迎的[美国](../Page/美国.md "wikilink")[刑事系列](https://zh.wikipedia.org/wiki/刑事 "wikilink")[电视剧](../Page/电视剧.md "wikilink")，由[亚特兰提斯同盟](https://zh.wikipedia.org/wiki/亚特兰提斯同盟 "wikilink")（）与[哥伦比亚广播公司](https://zh.wikipedia.org/wiki/哥伦比亚广播公司 "wikilink")（）联合制播，从2000年10月6日开始播映，於2015年9月27日播出。
 
-内容是描述一组[刑事鑑识](https://zh.wikipedia.org/wiki/刑事鑑识 "wikilink")[科学家的故事](https://zh.wikipedia.org/wiki/科学家 "wikilink")。剧中案件发生地点是设定在今日美国[内华达州的](../Page/内华达州.md "wikilink")[拉斯维加斯](../Page/拉斯维加斯.md "wikilink")。之所以选择拉斯维加斯，主要的原因是拉斯维加斯都会警察局的犯罪研究室是全美第二活跃的，仅次於[联邦调查局在](../Page/联邦调查局.md "wikilink")[弗吉尼亚州宽提科](../Page/弗吉尼亚州.md "wikilink")（）的实验室。
+内容是描述一组[刑事鑑识](https://zh.wikipedia.org/wiki/刑事鑑识 "wikilink")[科学家的故事](https://zh.wikipedia.org/wiki/科学家 "wikilink")。剧中案件发生地点是设定在今日美国[内华达州](../Page/内华达州.md "wikilink")的[拉斯维加斯](../Page/拉斯维加斯.md "wikilink")。之所以选择拉斯维加斯，主要的原因是拉斯维加斯都会警察局的犯罪研究室是全美第二活跃的，仅次於[联邦调查局](../Page/联邦调查局.md "wikilink")在[弗吉尼亚州](../Page/弗吉尼亚州.md "wikilink")宽提科（）的实验室。
 
 小组成员们调查神秘、不寻常、有时阴森的死亡事件以判定事实。他们同时也调查其他重大犯罪事件，不过[谋杀案件还是这个系列影集的主题所在](https://zh.wikipedia.org/wiki/谋杀 "wikilink")。
 
 ## 影集的歷史
 
-一開始《》原本是打算給[美國廣播公司](https://zh.wikipedia.org/wiki/美國廣播公司 "wikilink")（）播映的。當時，是全美第二大電視網，僅次於[國家廣播公司](https://zh.wikipedia.org/wiki/國家廣播公司 "wikilink")（），而正處於一個收視率難以回升的下坡之中。
-然而，1999年當的評論者預先看過之後，他們覺得這個影集對於一般人來說過於艱深，所以否決了它。於是影集催生者[安東尼·在克](https://zh.wikipedia.org/wiki/安東尼·在克 "wikilink")（）轉而投靠。
-很快地接受了它，並安排在星期五的時段播映，影集本身及電視網也衝上了收視率圖表的頂端。全新一集通常有2500萬人收看，重播的集數也有1500萬人的收視率。
+一開始《》原本是打算給[美國廣播公司](https://zh.wikipedia.org/wiki/美國廣播公司 "wikilink")（）播映的。當時，是全美第二大電視網，僅次於[國家廣播公司](https://zh.wikipedia.org/wiki/國家廣播公司 "wikilink")（），而正處於一個收視率難以回升的下坡之中。 然而，1999年當的評論者預先看過之後，他們覺得這個影集對於一般人來說過於艱深，所以否決了它。於是影集催生者[安東尼·在克](https://zh.wikipedia.org/wiki/安東尼·在克 "wikilink")（）轉而投靠。 很快地接受了它，並安排在星期五的時段播映，影集本身及電視網也衝上了收視率圖表的頂端。全新一集通常有2500萬人收看，重播的集數也有1500萬人的收視率。
 
 在2000年，將影集改到星期四播出，成功地衝擊了的地位。這個時段的剧集有《[-{zh-hans:六人行;zh-hk:老友記;zh-tw:六人行;}-](https://zh.wikipedia.org/wiki/六人行 "wikilink")》（**）、《[威爾與格蕾絲](https://zh.wikipedia.org/wiki/威爾與格蕾絲 "wikilink")》以及《[仁心仁術](../Page/仁心仁術.md "wikilink")》（**）等等。《》在新時段也繼續維持高收視率，當《[-{zh-hans:六人行;zh-hk:老友記;zh-tw:六人行;}-](https://zh.wikipedia.org/wiki/六人行 "wikilink")》在2004年下檔之後，《》的收視率繼續攀升，給了新的星期四影集極大的壓力。
 
-此劇重播權在2003年由[Spike
-TV電視網以一集](https://zh.wikipedia.org/wiki/Spike_TV "wikilink")160
-萬美金的天價所購得。影集的夜間重播也成為該電視網收視率最高的節目。
+此劇重播權在2003年由[Spike TV電視網以一集](https://zh.wikipedia.org/wiki/Spike_TV "wikilink")160 萬美金的天價所購得。影集的夜間重播也成為該電視網收視率最高的節目。
 
-《》有時也被認為有功於重新引領美國刑事影集的風潮，不過其實早先的一些影集，像是《[-{zh-hans:法律与秩序;
-zh-hant:法網遊龍;}-](https://zh.wikipedia.org/wiki/法律与秩序 "wikilink")》（），在此劇播映之前已辛苦經營多年，也產生一系列頗為成功的衍生影集。《》與它的衍生影集《[CSI犯罪現場：邁阿密](../Page/CSI犯罪現場：邁阿密.md "wikilink")》（2002年起在播映），以及《[CSI犯罪現場：紐約](../Page/CSI犯罪現場：紐約.md "wikilink")》（2004
-年起在播映）共同讓這個類型的電視影集重新受到歡迎。
-也有一些其他同類型的節目試圖沾此劇高收視率的光，包括《》、《》、《》以及《》等等。為了更加提高收視率，也製作了其他同類型的影集，包括《[鐵證懸案](https://zh.wikipedia.org/wiki/鐵證懸案 "wikilink")》（**）與《[-{zh-hans:失蹤現場;zh-hk:尋人密探組;zh-tw:失蹤現場;}-](../Page/失蹤現場.md "wikilink")》（**）。
+《》有時也被認為有功於重新引領美國刑事影集的風潮，不過其實早先的一些影集，像是《[-{zh-hans:法律与秩序; zh-hant:法網遊龍;}-](https://zh.wikipedia.org/wiki/法律与秩序 "wikilink")》（），在此劇播映之前已辛苦經營多年，也產生一系列頗為成功的衍生影集。《》與它的衍生影集《[CSI犯罪現場：邁阿密](../Page/CSI犯罪現場：邁阿密.md "wikilink")》（2002年起在播映），以及《[CSI犯罪現場：紐約](../Page/CSI犯罪現場：紐約.md "wikilink")》（2004 年起在播映）共同讓這個類型的電視影集重新受到歡迎。 也有一些其他同類型的節目試圖沾此劇高收視率的光，包括《》、《》、《》以及《》等等。為了更加提高收視率，也製作了其他同類型的影集，包括《[鐵證懸案](https://zh.wikipedia.org/wiki/鐵證懸案 "wikilink")》（**）與《[-{zh-hans:失蹤現場;zh-hk:尋人密探組;zh-tw:失蹤現場;}-](../Page/失蹤現場.md "wikilink")》（**）。
 
 本篇故事，雖然劇情的地點是設定在拉斯維加斯發生，但是實際的製作地點是在[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[聖塔克拉利塔](https://zh.wikipedia.org/wiki/聖塔克拉利塔 "wikilink")（），而且大部分的場景都是在聖塔克拉利塔或是附近拍攝的。不過演員和工作人員們偶爾會到拉斯維加斯去拍攝部分實景。每集的劇情不會單只一件案件的發生，通常會以多起案件的故事發展。本作設定與邁阿密篇和紐約篇不同，本作的角色均隸屬於警察局的犯罪研究室，是屬於獨立工作機構的科學家，而不屬於警察職業。
 
 在2004年7月，喬治·艾德斯（飾演尼克）和喬雅·福克斯（飾演莎拉）被暫時解雇，宣稱是因為違反合約規定。艾德斯是因為在拍攝第五季的第一天遲到了幾個小時，福克斯則是未依照CBS要求寄回聲明書確認她會準時參加拍攝。一周之後這個合約爭論終於獲得解決，這兩位也獲得CBS的重新聘用。
 
-根據[尼爾森收視率調查](https://zh.wikipedia.org/wiki/AC尼爾森 "wikilink")，自 2003-2004
-這一季，在美國是收視率第一的電視影集。它也讓申請就讀大學[鑑識科學學程的學生數量大為增加](https://zh.wikipedia.org/wiki/鑑識科學 "wikilink")。據推測，這部影集之所以大受歡迎（特別是在[911事件之後](https://zh.wikipedia.org/wiki/911事件 "wikilink")），部分是因為它的主題是描寫熟練的專家解決問題的過程。影集的故事線一再地強調，無論犯罪與陰謀這些威脅再怎麼躲避隱藏，總是會有人努力工作去揭發它們，伸張正義。
+根據[尼爾森收視率調查](https://zh.wikipedia.org/wiki/AC尼爾森 "wikilink")，自 2003-2004 這一季，在美國是收視率第一的電視影集。它也讓申請就讀大學[鑑識科學學程的學生數量大為增加](https://zh.wikipedia.org/wiki/鑑識科學 "wikilink")。據推測，這部影集之所以大受歡迎（特別是在[911事件之後](https://zh.wikipedia.org/wiki/911事件 "wikilink")），部分是因為它的主題是描寫熟練的專家解決問題的過程。影集的故事線一再地強調，無論犯罪與陰謀這些威脅再怎麼躲避隱藏，總是會有人努力工作去揭發它們，伸張正義。
 
-在2002年，它的第一個[衍生影集](https://zh.wikipedia.org/wiki/衍生影集 "wikilink")《[CSI犯罪現場：邁阿密](../Page/CSI犯罪現場：邁阿密.md "wikilink")》開始製播，由[大衛·卡羅素](https://zh.wikipedia.org/wiki/大衛·卡羅素 "wikilink")（）主演。第二個衍生影集《[CSI犯罪現場：紐約](../Page/CSI犯罪現場：紐約.md "wikilink")》，由[蓋瑞·辛尼茲](../Page/蓋瑞·辛尼茲.md "wikilink")（）主演，也在
-2004 年秋季首映。同一時期其他類似的影集，像是《[-{zh-hans:海军罪案调查处;
-zh-hant:重返犯罪現場;}-](../Page/重返犯罪現場.md "wikilink")》（**）、《》、以及《》等，都曾在和電視網上播映過。
+在2002年，它的第一個[衍生影集](https://zh.wikipedia.org/wiki/衍生影集 "wikilink")《[CSI犯罪現場：邁阿密](../Page/CSI犯罪現場：邁阿密.md "wikilink")》開始製播，由[大衛·卡羅素](https://zh.wikipedia.org/wiki/大衛·卡羅素 "wikilink")（）主演。第二個衍生影集《[CSI犯罪現場：紐約](../Page/CSI犯罪現場：紐約.md "wikilink")》，由[蓋瑞·辛尼茲](../Page/蓋瑞·辛尼茲.md "wikilink")（）主演，也在 2004 年秋季首映。同一時期其他類似的影集，像是《[-{zh-hans:海军罪案调查处; zh-hant:重返犯罪現場;}-](../Page/重返犯罪現場.md "wikilink")》（**）、《》、以及《》等，都曾在和電視網上播映過。
 
-本劇第316集作為第三部衍生劇《[CSI犯罪現場：網路犯罪](../Page/CSI犯罪現場：網路犯罪.md "wikilink")》的前導試播集，而該劇已於2015年3月4日首播。同年5月，CBS證實本劇將在第15季畫下句點，並表示將在2015年9月27日播出2小時完結篇，同時主要演員[泰德·丹森將加入](../Page/泰德·丹森.md "wikilink")《CSI犯罪現場：網路犯罪》。
+本劇第316集作為第三部衍生劇《[CSI犯罪現場：網路犯罪](../Page/CSI犯罪現場：網路犯罪.md "wikilink")》的前導試播集，而該劇已於2015年3月4日首播。同年5月，CBS證實本劇將在第15季畫下句點，並表示將在2015年9月27日播出2小時完結篇，同時主要演員[泰德·丹森](../Page/泰德·丹森.md "wikilink")將加入《CSI犯罪現場：網路犯罪》。
 
 ## 演員列表
 
@@ -481,7 +471,7 @@ Turn, Turn, Turn</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/雷可福磊斯.md" title="wikilink">雷可福磊斯樂團</a><br />
+<td><p><a href="../Page/雷可福磊斯.md" title="wikilink">雷可福磊斯</a>樂團<br />
 Rascal Flatts</p></td>
 <td><p>自己</p></td>
 <td><p>第10季第14集<br />
@@ -571,7 +561,7 @@ A Kiss Before Frying</p></td>
 
 虽然现实生活裡的犯罪科学调查员们除了进行现场测试外，很少离开实验室，而且几乎不（或乾脆不）侦讯嫌疑犯，《》仍因刻画罕知的警察办案过程而备受讚譽。如果在演绎调查员的职责时没有如此戏剧化的修饰，影集可能没有办法如此成功。然而，真正的鑑識专家们对於这些修饰颇有微词，他们发现使用同样的器材，剧中的鑑識检验卻能快速得到结论是不切实际。举例来说，主角们用来检查痕迹证据，例如[指纹的虚构电脑](https://zh.wikipedia.org/wiki/指纹 "wikilink")[资料库在几秒钟之内就可以得到结果](https://zh.wikipedia.org/wiki/资料库 "wikilink")，而实际上的分析却是一段冗长和缜密的过程。同时这也导致现实生活中的警探们对专家们做出不切实际的要求。
 
-此外还有人会担心这样子的电视影集会让[陪审团对於](https://zh.wikipedia.org/wiki/陪审团 "wikilink")[法庭上所呈现的鑑識证据产生不切实际的期待](../Page/法庭.md "wikilink")，在第六季的617，就可以了解。另一个关於CSI的问题不是因为它太假，而是因为它太真。有些[FBI的探员和警探对於](https://zh.wikipedia.org/wiki/FBI "wikilink")《》对[罪犯产生的影响感到困扰](https://zh.wikipedia.org/wiki/罪犯 "wikilink")。一位主管（，）说，在《》等鑑識类影集越来越流行之後，重刑犯们也变得更加聪明。有越来越多的枪击案在发生後，罪犯会记得从犯罪现场拿走[弹壳](https://zh.wikipedia.org/wiki/弹壳 "wikilink")。凶杀案裡有时会找不到指纹。罪犯已经找到更加聪明的方法来犯罪。
+此外还有人会担心这样子的电视影集会让[陪审团对於](https://zh.wikipedia.org/wiki/陪审团 "wikilink")[法庭](../Page/法庭.md "wikilink")上所呈现的鑑識证据产生不切实际的期待，在第六季的617，就可以了解。另一个关於CSI的问题不是因为它太假，而是因为它太真。有些[FBI的探员和警探对於](https://zh.wikipedia.org/wiki/FBI "wikilink")《》对[罪犯产生的影响感到困扰](https://zh.wikipedia.org/wiki/罪犯 "wikilink")。一位主管（，）说，在《》等鑑識类影集越来越流行之後，重刑犯们也变得更加聪明。有越来越多的枪击案在发生後，罪犯会记得从犯罪现场拿走[弹壳](https://zh.wikipedia.org/wiki/弹壳 "wikilink")。凶杀案裡有时会找不到指纹。罪犯已经找到更加聪明的方法来犯罪。
 
 ## 风格
 
@@ -765,8 +755,7 @@ A Kiss Before Frying</p></td>
 </tbody>
 </table>
 
-在2004年11月18日播出的第5季第8集《變變變》，收視人口高達3千1百50萬人，創下了《CSI》開播至當時最高的單集收視人數。
-而在第5季季末第24、25集《葬身，上下集》，兩集聯播的最後半小時收視人口達到3千5百15萬人，但並沒有打破《變變變》的收視記錄（兩集聯播收視平均約3千萬人）。
+在2004年11月18日播出的第5季第8集《變變變》，收視人口高達3千1百50萬人，創下了《CSI》開播至當時最高的單集收視人數。 而在第5季季末第24、25集《葬身，上下集》，兩集聯播的最後半小時收視人口達到3千5百15萬人，但並沒有打破《變變變》的收視記錄（兩集聯播收視平均約3千萬人）。
 
 ## 获奖情况
 
@@ -800,16 +789,11 @@ A Kiss Before Frying</p></td>
 
 <!-- end list -->
 
-  - 第2季集数编号223：《名模之死》（**，台译）-
-    这一集的名称（以及部分剧情）取材自[弗兰兹·卡夫卡](https://zh.wikipedia.org/wiki/弗兰兹·卡夫卡 "wikilink")（）的同名短篇小说《*[A
-    Hunger
-    Artist](https://zh.wikipedia.org/wiki/A_Hunger_Artist "wikilink")*》。
+  - 第2季集数编号223：《名模之死》（**，台译）- 这一集的名称（以及部分剧情）取材自[弗兰兹·卡夫卡](https://zh.wikipedia.org/wiki/弗兰兹·卡夫卡 "wikilink")（）的同名短篇小说《*[A Hunger Artist](https://zh.wikipedia.org/wiki/A_Hunger_Artist "wikilink")*》。
 
 <!-- end list -->
 
-  - 第5季集数编号508：《變變變》（**）-
-    一个施行「慈善」[变性手术密医的名字叫做](https://zh.wikipedia.org/wiki/变性手术 "wikilink")「卡尔·班威医生」（）。班[威廉·柏洛茲](../Page/威廉·柏洛茲.md "wikilink")（）的许多作品里是一个「缺乏医德的医生」的姓名。「改、改、改变」这个名字是[大卫·鲍伊](../Page/大卫·鲍伊.md "wikilink")（）的[Hunky
-    Dory专辑里的](https://zh.wikipedia.org/wiki/Hunky_Dory "wikilink")「改变」这首歌的别名（「改变」的[歌词](https://web.archive.org/web/20050609082828/http://www.teenagewildlife.com/Albums/HD/C.html)可以解读为鲍伊在那个怀疑人的真实性别的年代里，於生理及心理上变化的一种调和）。
+  - 第5季集数编号508：《變變變》（**）- 一个施行「慈善」[变性手术密医的名字叫做](https://zh.wikipedia.org/wiki/变性手术 "wikilink")「卡尔·班威医生」（）。班[威廉·柏洛茲](../Page/威廉·柏洛茲.md "wikilink")（）的许多作品里是一个「缺乏医德的医生」的姓名。「改、改、改变」这个名字是[大卫·鲍伊](../Page/大卫·鲍伊.md "wikilink")（）的[Hunky Dory专辑里的](https://zh.wikipedia.org/wiki/Hunky_Dory "wikilink")「改变」这首歌的别名（「改变」的[歌词](https://web.archive.org/web/20050609082828/http://www.teenagewildlife.com/Albums/HD/C.html)可以解读为鲍伊在那个怀疑人的真实性别的年代里，於生理及心理上变化的一种调和）。
 
 <!-- end list -->
 
@@ -820,15 +804,11 @@ A Kiss Before Frying</p></td>
 
 <!-- end list -->
 
-  - 第5季集数编号524及525：《葬身，上下集》（**）-
-    这一季的最终章是由[奥斯卡金像奖得主](../Page/奥斯卡金像奖.md "wikilink")[昆汀·塔倫提諾](https://zh.wikipedia.org/wiki/昆汀·塔倫提諾 "wikilink")（）所执导，剧中的情境跟塔伦蒂诺的电影《[追杀比尔](https://zh.wikipedia.org/wiki/追杀比尔 "wikilink")》（**）第2集中的部分场景类似。探员尼克·史多克斯被抓，放进[压克力製的](../Page/聚甲基丙烯酸甲酯.md "wikilink")[棺材裡](../Page/棺材.md "wikilink")[活埋](../Page/活埋.md "wikilink")，整个过程并用网路摄影机[实况转播](https://zh.wikipedia.org/wiki/实况转播 "wikilink")。在追杀比尔第2集里，新娘（[乌玛·舒曼](../Page/乌玛·瑟曼.md "wikilink")）同样也是被抓，然後放到棺材里活埋。
+  - 第5季集数编号524及525：《葬身，上下集》（**）- 这一季的最终章是由[奥斯卡金像奖](../Page/奥斯卡金像奖.md "wikilink")得主[昆汀·塔倫提諾](https://zh.wikipedia.org/wiki/昆汀·塔倫提諾 "wikilink")（）所执导，剧中的情境跟塔伦蒂诺的电影《[追杀比尔](https://zh.wikipedia.org/wiki/追杀比尔 "wikilink")》（**）第2集中的部分场景类似。探员尼克·史多克斯被抓，放进[压克力製的](../Page/聚甲基丙烯酸甲酯.md "wikilink")[棺材](../Page/棺材.md "wikilink")裡[活埋](../Page/活埋.md "wikilink")，整个过程并用网路摄影机[实况转播](https://zh.wikipedia.org/wiki/实况转播 "wikilink")。在追杀比尔第2集里，新娘（[乌玛·舒曼](../Page/乌玛·瑟曼.md "wikilink")）同样也是被抓，然後放到棺材里活埋。
 
 <!-- end list -->
 
-  - 第10季的第七集《Lost
-    Girls》與另外兩部衍生劇交錯，承襲《[CSI犯罪現場：邁阿密](../Page/CSI犯罪現場：邁阿密.md "wikilink")》第8季的是第七集《Bone
-    Voyage》，以及《[CSI犯罪現場：紐約](../Page/CSI犯罪現場：紐約.md "wikilink")》第6季的第七集《Hammer
-    Down》，案件涉及一個龐大的黑幫組織在全美綁架女孩，用於賣淫、代理孕母和摘取器官的慘忍犯罪，多名女孩無辜被殺，但三集過後本案並未解決。這次的交錯劇情主要在介紹新主角雷蒙·藍斯頓。
+  - 第10季的第七集《Lost Girls》與另外兩部衍生劇交錯，承襲《[CSI犯罪現場：邁阿密](../Page/CSI犯罪現場：邁阿密.md "wikilink")》第8季的是第七集《Bone Voyage》，以及《[CSI犯罪現場：紐約](../Page/CSI犯罪現場：紐約.md "wikilink")》第6季的第七集《Hammer Down》，案件涉及一個龐大的黑幫組織在全美綁架女孩，用於賣淫、代理孕母和摘取器官的慘忍犯罪，多名女孩無辜被殺，但三集過後本案並未解決。這次的交錯劇情主要在介紹新主角雷蒙·藍斯頓。
 
 ## 參见
 
@@ -873,8 +853,7 @@ NDS平台
   - [神探阿蒙](../Page/神探阿蒙.md "wikilink")（*Monk*）
   - [失蹤現場](../Page/失蹤現場.md "wikilink")（*Without a Trace*）
   - [神探可伦坡](../Page/神探可伦坡.md "wikilink")（*Columbo*）
-  - [犯罪心理](https://zh.wikipedia.org/wiki/犯罪心理 "wikilink")（*Criminal
-    Minds*）
+  - [犯罪心理](https://zh.wikipedia.org/wiki/犯罪心理 "wikilink")（*Criminal Minds*）
   - [重返犯罪現場](../Page/重返犯罪現場.md "wikilink")（*NCIS*）
 
 ### CSI犯罪現場系列書籍
@@ -889,8 +868,7 @@ NDS平台
 
   - [CSI刑事鑑定學](http://www.csi-forensics.com/) 影迷小說區
 
-  - [科學人雜誌](http://sa.ylib.com/circus/circusshow.asp?FDocNo=694&CL=25) -
-    CSI帶來的影響
+  - [科學人雜誌](http://sa.ylib.com/circus/circusshow.asp?FDocNo=694&CL=25) - CSI帶來的影響
 
   - [AXN](http://www.axn-taiwan.com/programs/csi-fan-zui-xian-chang)
 
@@ -910,17 +888,4 @@ NDS平台
   -
   -
   -
-[Category:CSI犯罪現場](https://zh.wikipedia.org/wiki/Category:CSI犯罪現場 "wikilink")
-[Category:2000年代美國電視劇](https://zh.wikipedia.org/wiki/Category:2000年代美國電視劇 "wikilink")
-[Category:2010年代美國電視劇](https://zh.wikipedia.org/wiki/Category:2010年代美國電視劇 "wikilink")
-[Category:2000年開播的美國電視影集](https://zh.wikipedia.org/wiki/Category:2000年開播的美國電視影集 "wikilink")
-[Category:2015年停播的美國電視影集](https://zh.wikipedia.org/wiki/Category:2015年停播的美國電視影集 "wikilink")
-[Category:美國劇情電視劇](https://zh.wikipedia.org/wiki/Category:美國劇情電視劇 "wikilink")
-[Category:美國犯罪電視劇](https://zh.wikipedia.org/wiki/Category:美國犯罪電視劇 "wikilink")
-[Category:拉斯維加斯背景作品](https://zh.wikipedia.org/wiki/Category:拉斯維加斯背景作品 "wikilink")
-[Category:警匪電視劇](https://zh.wikipedia.org/wiki/Category:警匪電視劇 "wikilink")
-[Category:CBS電視節目](https://zh.wikipedia.org/wiki/Category:CBS電視節目 "wikilink")
-[Category:CBS電視工作室製作的電視節目](https://zh.wikipedia.org/wiki/Category:CBS電視工作室製作的電視節目 "wikilink")
-[Category:推理電視劇](https://zh.wikipedia.org/wiki/Category:推理電視劇 "wikilink")
-[Category:福斯傳媒集團外購電視劇](https://zh.wikipedia.org/wiki/Category:福斯傳媒集團外購電視劇 "wikilink")
-[Category:索尼影業電視外購電視劇](https://zh.wikipedia.org/wiki/Category:索尼影業電視外購電視劇 "wikilink")
+[Category:CSI犯罪現場](https://zh.wikipedia.org/wiki/Category:CSI犯罪現場 "wikilink") [Category:2000年代美國電視劇](https://zh.wikipedia.org/wiki/Category:2000年代美國電視劇 "wikilink") [Category:2010年代美國電視劇](https://zh.wikipedia.org/wiki/Category:2010年代美國電視劇 "wikilink") [Category:2000年開播的美國電視影集](https://zh.wikipedia.org/wiki/Category:2000年開播的美國電視影集 "wikilink") [Category:2015年停播的美國電視影集](https://zh.wikipedia.org/wiki/Category:2015年停播的美國電視影集 "wikilink") [Category:美國劇情電視劇](https://zh.wikipedia.org/wiki/Category:美國劇情電視劇 "wikilink") [Category:美國犯罪電視劇](https://zh.wikipedia.org/wiki/Category:美國犯罪電視劇 "wikilink") [Category:拉斯維加斯背景作品](https://zh.wikipedia.org/wiki/Category:拉斯維加斯背景作品 "wikilink") [Category:警匪電視劇](https://zh.wikipedia.org/wiki/Category:警匪電視劇 "wikilink") [Category:CBS電視節目](https://zh.wikipedia.org/wiki/Category:CBS電視節目 "wikilink") [Category:CBS電視工作室製作的電視節目](https://zh.wikipedia.org/wiki/Category:CBS電視工作室製作的電視節目 "wikilink") [Category:推理電視劇](https://zh.wikipedia.org/wiki/Category:推理電視劇 "wikilink") [Category:福斯傳媒集團外購電視劇](https://zh.wikipedia.org/wiki/Category:福斯傳媒集團外購電視劇 "wikilink") [Category:索尼影業電視外購電視劇](https://zh.wikipedia.org/wiki/Category:索尼影業電視外購電視劇 "wikilink")

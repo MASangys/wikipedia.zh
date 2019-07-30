@@ -8,23 +8,12 @@
 ## 外部連結
 
   -
-  - [Prescribing Information for Retin-A
-    Micro](http://www.retinamicro.com/sites/default/files/RetinAMicro.pdf)
-    Ortho
+  - [Prescribing Information for Retin-A Micro](http://www.retinamicro.com/sites/default/files/RetinAMicro.pdf) Ortho
 
-  - [Tretinoin AHFS Consumer Medication
-    Information](http://www.ncbi.nlm.nih.gov/pubmedhealth/PMH0000458/)
-    at PubMed Health
+  - [Tretinoin AHFS Consumer Medication Information](http://www.ncbi.nlm.nih.gov/pubmedhealth/PMH0000458/) at PubMed Health
 
-  - [Tretinoin Cream Prescribing
-    Information](http://www.drugs.com/pro/tretinoin.html) Drugs.com
+  - [Tretinoin Cream Prescribing Information](http://www.drugs.com/pro/tretinoin.html) Drugs.com
 
-  - [Retin-A Cream, Gel, Liquid Prescribing
-    Information](http://www.drugs.com/pro/retin-a-cream-gel-liquid.html)
-    Drugs.com
+  - [Retin-A Cream, Gel, Liquid Prescribing Information](http://www.drugs.com/pro/retin-a-cream-gel-liquid.html) Drugs.com
 
-[Category:抗痤疮制剂](https://zh.wikipedia.org/wiki/Category:抗痤疮制剂 "wikilink")
-[Category:抗肿瘤药](https://zh.wikipedia.org/wiki/Category:抗肿瘤药 "wikilink")
-[Category:羧酸](https://zh.wikipedia.org/wiki/Category:羧酸 "wikilink")
-[Category:類胡蘿蔔素](https://zh.wikipedia.org/wiki/Category:類胡蘿蔔素 "wikilink")
-[Category:类视黄醇](https://zh.wikipedia.org/wiki/Category:类视黄醇 "wikilink")
+[Category:抗痤疮制剂](https://zh.wikipedia.org/wiki/Category:抗痤疮制剂 "wikilink") [Category:抗肿瘤药](https://zh.wikipedia.org/wiki/Category:抗肿瘤药 "wikilink") [Category:羧酸](https://zh.wikipedia.org/wiki/Category:羧酸 "wikilink") [Category:類胡蘿蔔素](https://zh.wikipedia.org/wiki/Category:類胡蘿蔔素 "wikilink") [Category:类视黄醇](https://zh.wikipedia.org/wiki/Category:类视黄醇 "wikilink")

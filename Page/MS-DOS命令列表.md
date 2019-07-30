@@ -1,4 +1,4 @@
-以下是[微软的](../Page/微软.md "wikilink")[DOS](../Page/DOS.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")（[MS-DOS](../Page/MS-DOS.md "wikilink")）的DOS命令列表。其它DOS的命令和用法可能类似。
+以下是[微软](../Page/微软.md "wikilink")的[DOS](../Page/DOS.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")（[MS-DOS](../Page/MS-DOS.md "wikilink")）的DOS命令列表。其它DOS的命令和用法可能类似。
 
 後期版本的 DOS 可以通过help命令来得到命令與參數列表，通过help *<命令>*或者*<命令>* /?来获得命令的详细信息。
 
@@ -35,19 +35,11 @@
 
 複製或合并文件
 
-语法：COPY \[/D\]\[/V\]\[/N\]\[/Y|/-Y\]\[/Z\]\[/A|/B\] 命令形式：COPY source
-\[/A|/B\]\[+source \[/A|/B\][+
-...](https://zh.wikipedia.org/wiki/+_... "wikilink") \[destination
-\[/A|/B\]\] 　 方括号括起来的是可选部分，不是必须部分。 比如：copy c:\\source.exe
-c:\\destination.exe //就是把source.exe
-复制到destination.exe,不论destination.exe存在与否，扩展名可以使其它
+语法：COPY \[/D\]\[/V\]\[/N\]\[/Y|/-Y\]\[/Z\]\[/A|/B\] 命令形式：COPY source \[/A|/B\]\[+source \[/A|/B\][+ ...](https://zh.wikipedia.org/wiki/+_... "wikilink") \[destination \[/A|/B\]\] 　 方括号括起来的是可选部分，不是必须部分。 比如：copy c:\\source.exe c:\\destination.exe //就是把source.exe 复制到destination.exe,不论destination.exe存在与否，扩展名可以使其它
 
-/D 允许解密要创建的目标文件 /V 验证新文件写入是否正确。 /N 复制带有非8dot3名称的文件 /Y |/-Y
-使用确认是否要覆盖现有目标文件的提示 /Z可重新启动模式复制已联网的文件
-\[/A|/B\]表示ASCII文本文件和二进位文件
+/D 允许解密要创建的目标文件 /V 验证新文件写入是否正确。 /N 复制带有非8dot3名称的文件 /Y |/-Y 使用确认是否要覆盖现有目标文件的提示 /Z可重新启动模式复制已联网的文件 \[/A|/B\]表示ASCII文本文件和二进位文件
 
-要附加文件，用通配符或 file1+file2+file3 格式 source 指定要复制的文件;destination
-为新文件指定目录和/或文件名。
+要附加文件，用通配符或 file1+file2+file3 格式 source 指定要复制的文件;destination 为新文件指定目录和/或文件名。
 
 ### ren 或 rename
 
@@ -55,16 +47,13 @@ c:\\destination.exe //就是把source.exe
 
 语法
 
-RENAME \[drive:\]\[path\]filename1 filename2 例如：rename
-d:\\soft\\setup.exe setup123.exe REN \[drive:\]\[path\]filename1
-filename2
+RENAME \[drive:\]\[path\]filename1 filename2 例如：rename d:\\soft\\setup.exe setup123.exe REN \[drive:\]\[path\]filename1 filename2
 
 ### cd 或 chdir
 
 显示或者更改当前路径
 
-语法 CHDIR \[/D\] \[drive:\]\[path\] CHDIR \[..\] CD \[/D\]
-\[drive:\]\[path\] CD \[..\]
+语法 CHDIR \[/D\] \[drive:\]\[path\] CHDIR \[..\] CD \[/D\] \[drive:\]\[path\] CD \[..\]
 
 ### md 或 mkdir
 
@@ -91,10 +80,8 @@ RD \[/S\] \[/Q\] \[drive:\]path
 删除一个或者多个文件
 
 语法
-ERASE \[/P\] \[/F\] \[/S\] \[/Q\]
-\[/A\[\[:\]attributes|:\]attributes\]\] names
-DEL \[/P\] \[/F\] \[/S\] \[/Q\] \[/A\[\[:\]attributes|:\]attributes\]\]
-names
+ERASE \[/P\] \[/F\] \[/S\] \[/Q\] \[/A\[\[:\]attributes|:\]attributes\]\] names
+DEL \[/P\] \[/F\] \[/S\] \[/Q\] \[/A\[\[:\]attributes|:\]attributes\]\] names
 
 參數說明：
 
@@ -135,8 +122,7 @@ echo You typed: "%choice%"
 3.  格式 PATH\[;\]\[盘符1\]\[路径1\]\[;\]\[盘符2\]\[路径2\]\[;...\]
 4.  使用说明
 
-:\#
-PATH命令可用来设置可执行文件（仅包括：.COM、.EXE及.BAT文件）的搜索路径。当您執行一个可执行文件时，DOS会先在当前目录中搜索该文件，若找到则运行之；若找不到该文件，则根据PATH命令所设置的路径，顺序逐条地到各目录中搜索该文件；
+:\# PATH命令可用来设置可执行文件（仅包括：.COM、.EXE及.BAT文件）的搜索路径。当您執行一个可执行文件时，DOS会先在当前目录中搜索该文件，若找到则运行之；若找不到该文件，则根据PATH命令所设置的路径，顺序逐条地到各目录中搜索该文件；
 
 :\# PATH命令中的路径，若有两条以上，各路径之间以一个分号“；”隔开；
 
@@ -164,8 +150,7 @@ PATH命令可用来设置可执行文件（仅包括：.COM、.EXE及.BAT文件�
 
 显示目录的树状结构。
 
-TREE 命令自 DOS 2.0
-系統開始支援[子目錄以後提供](https://zh.wikipedia.org/wiki/子目錄 "wikilink")，用以讓用戶得知磁碟或硬碟目錄的樹狀結構。
+TREE 命令自 DOS 2.0 系統開始支援[子目錄以後提供](https://zh.wikipedia.org/wiki/子目錄 "wikilink")，用以讓用戶得知磁碟或硬碟目錄的樹狀結構。
 
 ### more
 
@@ -181,9 +166,7 @@ dir | more
 
 ### attrib
 
-修改文件的
-[S](https://zh.wikipedia.org/wiki/系统文件 "wikilink")/[H](https://zh.wikipedia.org/wiki/隐藏文件 "wikilink")/[R](https://zh.wikipedia.org/wiki/只读文件 "wikilink")/[A](https://zh.wikipedia.org/wiki/归档文件 "wikilink")
-等属性。 无法更改 NTFS 的 ACL。
+修改文件的 [S](https://zh.wikipedia.org/wiki/系统文件 "wikilink")/[H](https://zh.wikipedia.org/wiki/隐藏文件 "wikilink")/[R](https://zh.wikipedia.org/wiki/只读文件 "wikilink")/[A](https://zh.wikipedia.org/wiki/归档文件 "wikilink") 等属性。 无法更改 NTFS 的 ACL。
 
 ### deltree
 
@@ -193,18 +176,11 @@ dir | more
 
 复制文件或子目录。XCOPY意指*extended copy*\[1\]。
 
-XCOPY 指令由 DOS 3.2 開始提供，用以提供一個更快捷及穩定的檔案抄寫模式。傳統 DOS 的內部指令在抄寫檔案時，會利用標準 DOS
-呼叫把檔案逐一由源路徑複制往目的路徑；但 XCOPY
-會先把要抄的內容抄往記憶作暫存，待記憶填滿了，再寫往目的路徑。由於磁碟動作減少了，所以抄寫動作得以大幅提高。
+XCOPY 指令由 DOS 3.2 開始提供，用以提供一個更快捷及穩定的檔案抄寫模式。傳統 DOS 的內部指令在抄寫檔案時，會利用標準 DOS 呼叫把檔案逐一由源路徑複制往目的路徑；但 XCOPY 會先把要抄的內容抄往記憶作暫存，待記憶填滿了，再寫往目的路徑。由於磁碟動作減少了，所以抄寫動作得以大幅提高。
 
-如果全路径名的长度超过254个字符，则Xcopy报"insufficient
-memory"错误。\[2\]如果move大文件但未使用"/j"选项（Windows
-Server
-2008R2开始使用），可能会耗尽所有可用内存。\[3\]对于未使用FILE_SHARE_READ选项被其它进程打开的文件，Xcopy不能打开这个文件；Windows
-Volume Shadow Copy服务可用于此种情形，但Xcopy没有用它。所以Xcopy不能用于备份live操作系统的文件。
+如果全路径名的长度超过254个字符，则Xcopy报"insufficient memory"错误。\[2\]如果move大文件但未使用"/j"选项（Windows Server 2008R2开始使用），可能会耗尽所有可用内存。\[3\]对于未使用FILE_SHARE_READ选项被其它进程打开的文件，Xcopy不能打开这个文件；Windows Volume Shadow Copy服务可用于此种情形，但Xcopy没有用它。所以Xcopy不能用于备份live操作系统的文件。
 
-虽然[Windows
-10中还有Xcopy](../Page/Windows_10.md "wikilink")，但它已经过时，应该使用更强有力的[Robocopy](https://zh.wikipedia.org/wiki/Robocopy "wikilink")。\[4\]
+虽然[Windows 10中还有Xcopy](../Page/Windows_10.md "wikilink")，但它已经过时，应该使用更强有力的[Robocopy](https://zh.wikipedia.org/wiki/Robocopy "wikilink")。\[4\]
 
 ### format
 
@@ -230,13 +206,11 @@ Volume Shadow Copy服务可用于此种情形，但Xcopy没有用它。所以Xco
 
 硬盘分区。
 
-有些时候需要重置 [MBR](../Page/主引导记录.md "wikilink") 的信息（例如卸载掉 Linux
-的启动菜单等），这时候可以使用这个命令： fdisk /mbr
+有些时候需要重置 [MBR](../Page/主引导记录.md "wikilink") 的信息（例如卸载掉 Linux 的启动菜单等），这时候可以使用这个命令： fdisk /mbr
 
 ## 參考資料
 
-[Category:磁盘操作系统](https://zh.wikipedia.org/wiki/Category:磁盘操作系统 "wikilink")
-[Category:软件列表](https://zh.wikipedia.org/wiki/Category:软件列表 "wikilink")
+[Category:磁盘操作系统](https://zh.wikipedia.org/wiki/Category:磁盘操作系统 "wikilink") [Category:软件列表](https://zh.wikipedia.org/wiki/Category:软件列表 "wikilink")
 
 1.
 2.

@@ -1,76 +1,10 @@
-  - **[台灣地理](https://zh.wikipedia.org/wiki/Category:台灣地理 "wikilink")**：[島嶼](https://zh.wikipedia.org/wiki/Category:台灣島嶼 "wikilink")
-    - [山峰](https://zh.wikipedia.org/wiki/Category:台灣山峰 "wikilink") -
-    [河川](https://zh.wikipedia.org/wiki/Category:台灣河流 "wikilink") -
-    [湖泊](https://zh.wikipedia.org/wiki/Category:台灣湖泊 "wikilink") -
-    [溫泉](https://zh.wikipedia.org/wiki/Category:臺灣溫泉 "wikilink") -
-    [生物](https://zh.wikipedia.org/wiki/Category:台灣生物 "wikilink") -
-    [斷層](https://zh.wikipedia.org/wiki/Category:台灣斷層 "wikilink")
-  - **[台灣歷史](https://zh.wikipedia.org/wiki/Category:台灣歷史 "wikilink")**：[史前](https://zh.wikipedia.org/wiki/Category:台灣史前時期 "wikilink")
-    - [荷西](https://zh.wikipedia.org/wiki/Category:台灣荷西殖民時期 "wikilink") -
-    [鄭氏](https://zh.wikipedia.org/wiki/Category:鄭氏王朝 "wikilink") -
-    [清治](https://zh.wikipedia.org/wiki/Category:台灣清治時期 "wikilink") -
-    [日治](https://zh.wikipedia.org/wiki/Category:台灣日治時期 "wikilink") -
-    [戰後](https://zh.wikipedia.org/wiki/Category:台灣戰後時期 "wikilink")
-  - **[台灣政治](https://zh.wikipedia.org/wiki/Category:台湾政治 "wikilink")**：[國家](https://zh.wikipedia.org/wiki/Category:中華民國 "wikilink")
-    - [政區](https://zh.wikipedia.org/wiki/Category:中華民國行政區劃 "wikilink") -
-    [法律](https://zh.wikipedia.org/wiki/Category:中華民國法律 "wikilink") -
-    [政府](https://zh.wikipedia.org/wiki/Category:中華民國政府機構 "wikilink")
-    - [政黨](https://zh.wikipedia.org/wiki/Category:臺灣政黨 "wikilink") -
-    [兩岸](https://zh.wikipedia.org/wiki/Category:台灣海峽兩岸關係 "wikilink")
-  - **[台灣教育](https://zh.wikipedia.org/wiki/Category:台灣教育 "wikilink")**：[國民教育](https://zh.wikipedia.org/wiki/Category:台灣國民教育 "wikilink")
-    - [高等教育](https://zh.wikipedia.org/wiki/Category:台灣高等教育 "wikilink") -
-    [職業教育](https://zh.wikipedia.org/wiki/Category:台灣職業教育 "wikilink") -
-    [各級學校](https://zh.wikipedia.org/wiki/Category:台灣學校 "wikilink") -
-    [圖書館](https://zh.wikipedia.org/wiki/Category:台灣圖書館 "wikilink")
-  - **[台灣文化](https://zh.wikipedia.org/wiki/Category:台灣文化 "wikilink")**：[藝術](https://zh.wikipedia.org/wiki/Category:台灣藝術 "wikilink")
-    - [飲食](https://zh.wikipedia.org/wiki/Category:台灣飲食 "wikilink") -
-    [夜市](https://zh.wikipedia.org/wiki/Category:台灣夜市 "wikilink") -
-    [音樂](https://zh.wikipedia.org/wiki/Category:台灣音樂 "wikilink") -
-    [文學](https://zh.wikipedia.org/wiki/Category:台灣文學 "wikilink") -
-    [媒體](https://zh.wikipedia.org/wiki/Category:台灣媒體 "wikilink") -
-    [宗教](https://zh.wikipedia.org/wiki/Category:台灣宗教 "wikilink") -
-    [語言](https://zh.wikipedia.org/wiki/Category:台灣語言 "wikilink") -
-    [建築](https://zh.wikipedia.org/wiki/Category:台灣建築 "wikilink") -
-    [族群](https://zh.wikipedia.org/wiki/Category:台灣族群 "wikilink")
-  - **[台灣社會](https://zh.wikipedia.org/wiki/Category:台灣社會 "wikilink")**：[經濟](https://zh.wikipedia.org/wiki/Category:台灣經濟 "wikilink")
-    -
-    [組織](https://zh.wikipedia.org/wiki/Category:台灣組織 "wikilink")（[公司](https://zh.wikipedia.org/wiki/Category:台灣工商業機構 "wikilink")
-    -
-    [非政府組織](https://zh.wikipedia.org/wiki/Category:台灣非政府組織 "wikilink")）
-    - [社運](https://zh.wikipedia.org/wiki/Category:臺灣社會運動 "wikilink")
-  - **[台灣交通](https://zh.wikipedia.org/wiki/Category:台灣交通 "wikilink")**：[公路](https://zh.wikipedia.org/wiki/Category:台灣公路 "wikilink")
-    - [高速公路](https://zh.wikipedia.org/wiki/Category:台灣高速公路 "wikilink") -
-    [鐵路](https://zh.wikipedia.org/wiki/Category:台灣鐵路 "wikilink") -
-    [捷運](https://zh.wikipedia.org/wiki/Category:台灣捷運 "wikilink") -
-    [高速鐵路](https://zh.wikipedia.org/wiki/Category:台灣高速鐵路 "wikilink") -
-    [航運](https://zh.wikipedia.org/wiki/Category:台灣水運 "wikilink") -
-    [港口](https://zh.wikipedia.org/wiki/Category:台湾港口 "wikilink") -
-    [航空](https://zh.wikipedia.org/wiki/Category:台灣空運 "wikilink") -
-    [機場](https://zh.wikipedia.org/wiki/Category:台灣機場 "wikilink")
-  - **[台灣都市](https://zh.wikipedia.org/wiki/Category:台灣城市 "wikilink")**：[台北](https://zh.wikipedia.org/wiki/Category:台北市 "wikilink")
-    - [基隆](https://zh.wikipedia.org/wiki/Category:基隆市 "wikilink") -
-    [新北](https://zh.wikipedia.org/wiki/Category:新北市 "wikilink") -
-    [桃園](https://zh.wikipedia.org/wiki/Category:桃園市 "wikilink") -
-    [新竹](https://zh.wikipedia.org/wiki/Category:新竹市 "wikilink") -
-    [苗栗](https://zh.wikipedia.org/wiki/Category:苗栗市 "wikilink") -
-    [頭份](https://zh.wikipedia.org/wiki/Category:頭份市 "wikilink") -
-    [台中](https://zh.wikipedia.org/wiki/Category:台中市 "wikilink") -
-    [彰化](https://zh.wikipedia.org/wiki/Category:彰化市 "wikilink") -
-    [員林](https://zh.wikipedia.org/wiki/Category:員林市 "wikilink") -
-    [南投](https://zh.wikipedia.org/wiki/Category:南投市 "wikilink") -
-    [斗六](https://zh.wikipedia.org/wiki/Category:斗六市 "wikilink") -
-    [嘉義](https://zh.wikipedia.org/wiki/Category:嘉義市 "wikilink") -
-    [台南](https://zh.wikipedia.org/wiki/Category:台南市 "wikilink") -
-    [高雄](https://zh.wikipedia.org/wiki/Category:高雄市 "wikilink") -
-    [屏東](https://zh.wikipedia.org/wiki/Category:屏東市 "wikilink") -
-    [宜蘭](https://zh.wikipedia.org/wiki/Category:宜蘭市 "wikilink") -
-    [花蓮](https://zh.wikipedia.org/wiki/Category:花蓮市 "wikilink") -
-    [臺東](https://zh.wikipedia.org/wiki/Category:臺東市 "wikilink")
-  - **[台灣體育](https://zh.wikipedia.org/wiki/Category:台灣體育 "wikilink")**：[中華職棒](https://zh.wikipedia.org/wiki/Category:中華職棒 "wikilink")
-    - [超級籃球聯賽](https://zh.wikipedia.org/wiki/Category:超級籃球聯賽 "wikilink")
-    - [運動員](https://zh.wikipedia.org/wiki/Category:台灣運動員 "wikilink")
-  - **[台灣人物](https://zh.wikipedia.org/wiki/Category:臺灣人 "wikilink")**：[依時代](https://zh.wikipedia.org/wiki/Category:各時期台灣人 "wikilink")
-    - [依職業](https://zh.wikipedia.org/wiki/Category:各職業台灣人 "wikilink") -
-    [依地區](https://zh.wikipedia.org/wiki/Category:台灣各地人物 "wikilink") -
-    [原住民](https://zh.wikipedia.org/wiki/Category:台灣原住民人物 "wikilink")
-    - [維基人](https://zh.wikipedia.org/wiki/wikipedia:台灣維基人列表 "wikilink")
+  - **[台灣地理](https://zh.wikipedia.org/wiki/Category:台灣地理 "wikilink")**：[島嶼](https://zh.wikipedia.org/wiki/Category:台灣島嶼 "wikilink") - [山峰](https://zh.wikipedia.org/wiki/Category:台灣山峰 "wikilink") - [河川](https://zh.wikipedia.org/wiki/Category:台灣河流 "wikilink") - [湖泊](https://zh.wikipedia.org/wiki/Category:台灣湖泊 "wikilink") - [溫泉](https://zh.wikipedia.org/wiki/Category:臺灣溫泉 "wikilink") - [生物](https://zh.wikipedia.org/wiki/Category:台灣生物 "wikilink") - [斷層](https://zh.wikipedia.org/wiki/Category:台灣斷層 "wikilink")
+  - **[台灣歷史](https://zh.wikipedia.org/wiki/Category:台灣歷史 "wikilink")**：[史前](https://zh.wikipedia.org/wiki/Category:台灣史前時期 "wikilink") - [荷西](https://zh.wikipedia.org/wiki/Category:台灣荷西殖民時期 "wikilink") - [鄭氏](https://zh.wikipedia.org/wiki/Category:鄭氏王朝 "wikilink") - [清治](https://zh.wikipedia.org/wiki/Category:台灣清治時期 "wikilink") - [日治](https://zh.wikipedia.org/wiki/Category:台灣日治時期 "wikilink") - [戰後](https://zh.wikipedia.org/wiki/Category:台灣戰後時期 "wikilink")
+  - **[台灣政治](https://zh.wikipedia.org/wiki/Category:台湾政治 "wikilink")**：[國家](https://zh.wikipedia.org/wiki/Category:中華民國 "wikilink") - [政區](https://zh.wikipedia.org/wiki/Category:中華民國行政區劃 "wikilink") - [法律](https://zh.wikipedia.org/wiki/Category:中華民國法律 "wikilink") - [政府](https://zh.wikipedia.org/wiki/Category:中華民國政府機構 "wikilink") - [政黨](https://zh.wikipedia.org/wiki/Category:臺灣政黨 "wikilink") - [兩岸](https://zh.wikipedia.org/wiki/Category:台灣海峽兩岸關係 "wikilink")
+  - **[台灣教育](https://zh.wikipedia.org/wiki/Category:台灣教育 "wikilink")**：[國民教育](https://zh.wikipedia.org/wiki/Category:台灣國民教育 "wikilink") - [高等教育](https://zh.wikipedia.org/wiki/Category:台灣高等教育 "wikilink") - [職業教育](https://zh.wikipedia.org/wiki/Category:台灣職業教育 "wikilink") - [各級學校](https://zh.wikipedia.org/wiki/Category:台灣學校 "wikilink") - [圖書館](https://zh.wikipedia.org/wiki/Category:台灣圖書館 "wikilink")
+  - **[台灣文化](https://zh.wikipedia.org/wiki/Category:台灣文化 "wikilink")**：[藝術](https://zh.wikipedia.org/wiki/Category:台灣藝術 "wikilink") - [飲食](https://zh.wikipedia.org/wiki/Category:台灣飲食 "wikilink") - [夜市](https://zh.wikipedia.org/wiki/Category:台灣夜市 "wikilink") - [音樂](https://zh.wikipedia.org/wiki/Category:台灣音樂 "wikilink") - [文學](https://zh.wikipedia.org/wiki/Category:台灣文學 "wikilink") - [媒體](https://zh.wikipedia.org/wiki/Category:台灣媒體 "wikilink") - [宗教](https://zh.wikipedia.org/wiki/Category:台灣宗教 "wikilink") - [語言](https://zh.wikipedia.org/wiki/Category:台灣語言 "wikilink") - [建築](https://zh.wikipedia.org/wiki/Category:台灣建築 "wikilink") - [族群](https://zh.wikipedia.org/wiki/Category:台灣族群 "wikilink")
+  - **[台灣社會](https://zh.wikipedia.org/wiki/Category:台灣社會 "wikilink")**：[經濟](https://zh.wikipedia.org/wiki/Category:台灣經濟 "wikilink") - [組織](https://zh.wikipedia.org/wiki/Category:台灣組織 "wikilink")（[公司](https://zh.wikipedia.org/wiki/Category:台灣工商業機構 "wikilink") - [非政府組織](https://zh.wikipedia.org/wiki/Category:台灣非政府組織 "wikilink")） - [社運](https://zh.wikipedia.org/wiki/Category:臺灣社會運動 "wikilink")
+  - **[台灣交通](https://zh.wikipedia.org/wiki/Category:台灣交通 "wikilink")**：[公路](https://zh.wikipedia.org/wiki/Category:台灣公路 "wikilink") - [高速公路](https://zh.wikipedia.org/wiki/Category:台灣高速公路 "wikilink") - [鐵路](https://zh.wikipedia.org/wiki/Category:台灣鐵路 "wikilink") - [捷運](https://zh.wikipedia.org/wiki/Category:台灣捷運 "wikilink") - [高速鐵路](https://zh.wikipedia.org/wiki/Category:台灣高速鐵路 "wikilink") - [航運](https://zh.wikipedia.org/wiki/Category:台灣水運 "wikilink") - [港口](https://zh.wikipedia.org/wiki/Category:台湾港口 "wikilink") - [航空](https://zh.wikipedia.org/wiki/Category:台灣空運 "wikilink") - [機場](https://zh.wikipedia.org/wiki/Category:台灣機場 "wikilink")
+  - **[台灣都市](https://zh.wikipedia.org/wiki/Category:台灣城市 "wikilink")**：[台北](https://zh.wikipedia.org/wiki/Category:台北市 "wikilink") - [基隆](https://zh.wikipedia.org/wiki/Category:基隆市 "wikilink") - [新北](https://zh.wikipedia.org/wiki/Category:新北市 "wikilink") - [桃園](https://zh.wikipedia.org/wiki/Category:桃園市 "wikilink") - [新竹](https://zh.wikipedia.org/wiki/Category:新竹市 "wikilink") - [苗栗](https://zh.wikipedia.org/wiki/Category:苗栗市 "wikilink") - [頭份](https://zh.wikipedia.org/wiki/Category:頭份市 "wikilink") - [台中](https://zh.wikipedia.org/wiki/Category:台中市 "wikilink") - [彰化](https://zh.wikipedia.org/wiki/Category:彰化市 "wikilink") - [員林](https://zh.wikipedia.org/wiki/Category:員林市 "wikilink") - [南投](https://zh.wikipedia.org/wiki/Category:南投市 "wikilink") - [斗六](https://zh.wikipedia.org/wiki/Category:斗六市 "wikilink") - [嘉義](https://zh.wikipedia.org/wiki/Category:嘉義市 "wikilink") - [台南](https://zh.wikipedia.org/wiki/Category:台南市 "wikilink") - [高雄](https://zh.wikipedia.org/wiki/Category:高雄市 "wikilink") - [屏東](https://zh.wikipedia.org/wiki/Category:屏東市 "wikilink") - [宜蘭](https://zh.wikipedia.org/wiki/Category:宜蘭市 "wikilink") - [花蓮](https://zh.wikipedia.org/wiki/Category:花蓮市 "wikilink") - [臺東](https://zh.wikipedia.org/wiki/Category:臺東市 "wikilink")
+  - **[台灣體育](https://zh.wikipedia.org/wiki/Category:台灣體育 "wikilink")**：[中華職棒](https://zh.wikipedia.org/wiki/Category:中華職棒 "wikilink") - [超級籃球聯賽](https://zh.wikipedia.org/wiki/Category:超級籃球聯賽 "wikilink") - [運動員](https://zh.wikipedia.org/wiki/Category:台灣運動員 "wikilink")
+  - **[台灣人物](https://zh.wikipedia.org/wiki/Category:臺灣人 "wikilink")**：[依時代](https://zh.wikipedia.org/wiki/Category:各時期台灣人 "wikilink") - [依職業](https://zh.wikipedia.org/wiki/Category:各職業台灣人 "wikilink") - [依地區](https://zh.wikipedia.org/wiki/Category:台灣各地人物 "wikilink") - [原住民](https://zh.wikipedia.org/wiki/Category:台灣原住民人物 "wikilink") - [維基人](https://zh.wikipedia.org/wiki/wikipedia:台灣維基人列表 "wikilink")

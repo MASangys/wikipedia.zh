@@ -2,7 +2,7 @@
 
 ## 故事大綱
 
-講述一家世界級的[胸圍公司過去一直都只僱用女性僱員](../Page/胸罩.md "wikilink")，但在面對同行競爭愈來愈激烈之時，她們首次僱用了兩位男性作首席設計師，務求在產品上能夠有突破性的發展。故事講述Wayne（[古天樂飾](../Page/古天樂.md "wikilink")）及強尼（[劉青雲飾](../Page/劉青雲.md "wikilink")）兩位本來對胸圍一無所知的大男人，在加入了這一家胸圍公司之後，除了學會有關胸圍的一切以外，還學曉了真正的[愛與](../Page/愛.md "wikilink")[關懷](https://zh.wikipedia.org/wiki/關懷 "wikilink")。
+講述一家世界級的[胸圍公司過去一直都只僱用女性僱員](../Page/胸罩.md "wikilink")，但在面對同行競爭愈來愈激烈之時，她們首次僱用了兩位男性作首席設計師，務求在產品上能夠有突破性的發展。故事講述Wayne（[古天樂](../Page/古天樂.md "wikilink")飾）及強尼（[劉青雲](../Page/劉青雲.md "wikilink")飾）兩位本來對胸圍一無所知的大男人，在加入了這一家胸圍公司之後，除了學會有關胸圍的一切以外，還學曉了真正的[愛](../Page/愛.md "wikilink")與[關懷](https://zh.wikipedia.org/wiki/關懷 "wikilink")。
 
 ## 劇情簡介
 
@@ -62,10 +62,8 @@
   -
   -
   -
-  - [HK cinemagic
-    entry](http://www.hkcinemagic.com/en/movie.asp?id=2713)
+  - [HK cinemagic entry](http://www.hkcinemagic.com/en/movie.asp?id=2713)
 
-[Category:2000年代香港電影作品](https://zh.wikipedia.org/wiki/Category:2000年代香港電影作品 "wikilink")
-[Category:香港浪漫喜剧片](https://zh.wikipedia.org/wiki/Category:香港浪漫喜剧片 "wikilink")
+[Category:2000年代香港電影作品](https://zh.wikipedia.org/wiki/Category:2000年代香港電影作品 "wikilink") [Category:香港浪漫喜剧片](https://zh.wikipedia.org/wiki/Category:香港浪漫喜剧片 "wikilink")
 
 1.  <http://ent.qq.com/d/movie/8/7704/>

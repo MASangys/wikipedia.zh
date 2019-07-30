@@ -1,13 +1,8 @@
-**LOVELESS**（又名**无爱之战**，原名**LOVELESS**）是[日本漫画家](../Page/日本.md "wikilink")[高河弓的漫画作品](../Page/高河弓.md "wikilink")，该作品自2002年起连载于[Square
-Enix的](https://zh.wikipedia.org/wiki/Square_Enix "wikilink")《[月刊GFantasy](../Page/月刊GFantasy.md "wikilink")》，当前连载于[日本](../Page/日本.md "wikilink")[一迅社的](../Page/一迅社.md "wikilink")《[Comic
-ZERO-SUM](../Page/Comic_ZERO-SUM.md "wikilink")》月刊。漫画作品包括 Toy Master
-篇（完结）、Sacrifice 篇（完结）、诞生者篇（完结）和七月篇（连载中）。 该作的 Sacrifice
-篇大部分已制作成同名动画，于2005年4月至6月在[日本](../Page/日本.md "wikilink")[朝日電視台播出](../Page/朝日電視台.md "wikilink")，其後[朝日放送](../Page/朝日放送.md "wikilink")、[名古屋電視台和](../Page/名古屋電視台.md "wikilink")[AT-X也陆续播出本作](../Page/AT-X.md "wikilink")。
+**LOVELESS**（又名**无爱之战**，原名**LOVELESS**）是[日本](../Page/日本.md "wikilink")漫画家[高河弓](../Page/高河弓.md "wikilink")的漫画作品，该作品自2002年起连载于[Square Enix的](https://zh.wikipedia.org/wiki/Square_Enix "wikilink")《[月刊GFantasy](../Page/月刊GFantasy.md "wikilink")》，当前连载于[日本](../Page/日本.md "wikilink")[一迅社](../Page/一迅社.md "wikilink")的《[Comic ZERO-SUM](../Page/Comic_ZERO-SUM.md "wikilink")》月刊。漫画作品包括 Toy Master 篇（完结）、Sacrifice 篇（完结）、诞生者篇（完结）和七月篇（连载中）。 该作的 Sacrifice 篇大部分已制作成同名动画，于2005年4月至6月在[日本](../Page/日本.md "wikilink")[朝日電視台](../Page/朝日電視台.md "wikilink")播出，其後[朝日放送](../Page/朝日放送.md "wikilink")、[名古屋電視台](../Page/名古屋電視台.md "wikilink")和[AT-X](../Page/AT-X.md "wikilink")也陆续播出本作。
 
 ## 简介
 
-12岁的小学生青柳立夏，在六年级转学的第一天，放学时遇见了声称是故去哥哥青柳清明的朋友我妻草灯。立夏发现清明是由秘密组织杀害的，便以
-Sacrifice（创伤承担者／犧牲者）的身份与身为战斗机的草灯，以“语言作战”的方式，一起去揭开隐藏在清明之死和立夏失忆背后的秘密。
+12岁的小学生青柳立夏，在六年级转学的第一天，放学时遇见了声称是故去哥哥青柳清明的朋友我妻草灯。立夏发现清明是由秘密组织杀害的，便以 Sacrifice（创伤承担者／犧牲者）的身份与身为战斗机的草灯，以“语言作战”的方式，一起去揭开隐藏在清明之死和立夏失忆背后的秘密。
 
 ## 特点
 
@@ -17,13 +12,7 @@ Sacrifice（创伤承担者／犧牲者）的身份与身为战斗机的草灯�
 
 ### 战斗和联系
 
-本作的战斗系统很独特，发动战斗的双方必须均由两人组成（特殊情况除外），两人中一人是承受所有创伤的
-Sacrifice，另一人是攻击对方的战斗机。战斗名称为“语言作战（spell）”，通过说一些特定的战斗词汇，来达到攻击和防御的效果。在这类词汇中，有用来构建
-Sacrifice 和战斗机联系的组合，如“Breathless”“Zero”“Sleepless”等。Sacrifice
-的名字是出生前就已经定好了的，基本都有与自己同名的战斗机，但 Sacrifice
-和战斗机并不是一开始就在一起，而且拥有不同名字的 Sacrifice
-和战斗机也可以形成联系，不过战斗力会减半。战斗机也可以独立作战，战斗力也会减半。
-战斗机是听命于Sacrifice的，如果Sacrifice过于软弱而无法给予战斗机明白的指令的话是会影响战斗的質素。
+本作的战斗系统很独特，发动战斗的双方必须均由两人组成（特殊情况除外），两人中一人是承受所有创伤的 Sacrifice，另一人是攻击对方的战斗机。战斗名称为“语言作战（spell）”，通过说一些特定的战斗词汇，来达到攻击和防御的效果。在这类词汇中，有用来构建 Sacrifice 和战斗机联系的组合，如“Breathless”“Zero”“Sleepless”等。Sacrifice 的名字是出生前就已经定好了的，基本都有与自己同名的战斗机，但 Sacrifice 和战斗机并不是一开始就在一起，而且拥有不同名字的 Sacrifice 和战斗机也可以形成联系，不过战斗力会减半。战斗机也可以独立作战，战斗力也会减半。 战斗机是听命于Sacrifice的，如果Sacrifice过于软弱而无法给予战斗机明白的指令的话是会影响战斗的質素。
 
 ## 主要人物
 
@@ -32,8 +21,7 @@ Sacrifice 和战斗机联系的组合，如“Breathless”“Zero”“Sleeples
 <!-- end list -->
 
   -
-    本作主人公，12岁，12月21日生，小学6年级。两年前唯一理解自己的哥哥清明突然去世，自己也失去了10岁前的记忆。草灯带来了清明的遗言，并告诉立夏的真名是
-    LOVELESS，使立夏心绪完全混乱。立夏是草灯的 Sacrifice。
+    本作主人公，12岁，12月21日生，小学6年级。两年前唯一理解自己的哥哥清明突然去世，自己也失去了10岁前的记忆。草灯带来了清明的遗言，并告诉立夏的真名是 LOVELESS，使立夏心绪完全混乱。立夏是草灯的 Sacrifice。
 
 <!-- end list -->
 
@@ -195,9 +183,7 @@ Sacrifice 和战斗机联系的组合，如“Breathless”“Zero”“Sleeples
 <!-- end list -->
 
   -
-    接替爱和碧来试图带走立夏，是银华的战斗机，带有装有“立夏想要的东西”的信封（内夹“W098N074A11T0005”的字条，是网络游戏
-    Wisdom Resurrection 中某处的位置）。在战斗失败、信封被夺后，与银华一同逃离，不知去向。与银华一样，本名为
-    SLEEPLESS。
+    接替爱和碧来试图带走立夏，是银华的战斗机，带有装有“立夏想要的东西”的信封（内夹“W098N074A11T0005”的字条，是网络游戏 Wisdom Resurrection 中某处的位置）。在战斗失败、信封被夺后，与银华一同逃离，不知去向。与银华一样，本名为 SLEEPLESS。
 
 <!-- end list -->
 
@@ -237,9 +223,7 @@ Sacrifice 和战斗机联系的组合，如“Breathless”“Zero”“Sleeples
   - 音乐：[笹路正德](https://zh.wikipedia.org/wiki/笹路正德 "wikilink")
   - 音乐制作：[Frontier Works](../Page/Frontier_Works.md "wikilink")
   - 动画制作：[J.C.STAFF](https://zh.wikipedia.org/wiki/J.C.STAFF "wikilink")
-  - 制作：七之月（[Bandai
-    Visual](https://zh.wikipedia.org/wiki/Bandai_Visual "wikilink")、[Movic](https://zh.wikipedia.org/wiki/Movic "wikilink")、Frontier
-    Works、J.C.STAFF）
+  - 制作：七之月（[Bandai Visual](https://zh.wikipedia.org/wiki/Bandai_Visual "wikilink")、[Movic](https://zh.wikipedia.org/wiki/Movic "wikilink")、Frontier Works、J.C.STAFF）
 
 ### 各話标题
 
@@ -396,23 +380,13 @@ Sacrifice 和战斗机联系的组合，如“Breathless”“Zero”“Sleeples
 2006年9月8日发行 2940日圓 フロンティアワークス
 
 1.  **愛しい人よ**
-      - 作曲：先海伊織 / 編曲：すみださとし /
-        作詞：[吉田美奈子](https://zh.wikipedia.org/wiki/吉田美奈子 "wikilink")
-        / 歌：[小西克幸](../Page/小西克幸.md "wikilink")
+      - 作曲：先海伊織 / 編曲：すみださとし / 作詞：[吉田美奈子](https://zh.wikipedia.org/wiki/吉田美奈子 "wikilink") / 歌：[小西克幸](../Page/小西克幸.md "wikilink")
 2.  **太陽とともに**
-      - 作詞・作曲：廣田由佳 /
-        編曲：[松浦晃久](https://zh.wikipedia.org/wiki/松浦晃久 "wikilink")
-        / 歌：[皆川純子](../Page/皆川純子.md "wikilink")
+      - 作詞・作曲：廣田由佳 / 編曲：[松浦晃久](https://zh.wikipedia.org/wiki/松浦晃久 "wikilink") / 歌：[皆川純子](../Page/皆川純子.md "wikilink")
 3.  **走れ 思うまま**
-      - 作曲：依田和夫 / 編曲：Picasso / 作詞：
-        [かの香織](https://zh.wikipedia.org/wiki/かの香織 "wikilink")
-        /
-        歌：[吉野裕行](../Page/吉野裕行.md "wikilink")、[斋贺观月](https://zh.wikipedia.org/wiki/斋贺观月 "wikilink")
+      - 作曲：依田和夫 / 編曲：Picasso / 作詞： [かの香織](https://zh.wikipedia.org/wiki/かの香織 "wikilink") / 歌：[吉野裕行](../Page/吉野裕行.md "wikilink")、[斋贺观月](https://zh.wikipedia.org/wiki/斋贺观月 "wikilink")
 4.  **Growing up**
-      - 作曲：[割田康彦](https://zh.wikipedia.org/wiki/割田康彦 "wikilink") /
-        編曲：[EBBY](https://zh.wikipedia.org/wiki/EBBY "wikilink") /
-        作詞：[影山浩宣](../Page/影山浩宣.md "wikilink") /
-        歌：[福山潤](../Page/福山潤.md "wikilink")
+      - 作曲：[割田康彦](https://zh.wikipedia.org/wiki/割田康彦 "wikilink") / 編曲：[EBBY](https://zh.wikipedia.org/wiki/EBBY "wikilink") / 作詞：[影山浩宣](../Page/影山浩宣.md "wikilink") / 歌：[福山潤](../Page/福山潤.md "wikilink")
 5.  **ENTRUST**
       - 作曲：コーニッシュ / 編曲：佐佐木聡作 / 作詞：小笠原千秋 / 歌：皆川純子、小西克幸
 6.  愛しい人よ -Instrumental-
@@ -699,30 +673,13 @@ Sacrifice 和战斗机联系的组合，如“Breathless”“Zero”“Sleeples
 
 夏居あや、小說《LOVELESS》〈[一迅社](../Page/一迅社.md "wikilink")・[一迅社文庫Iris](https://zh.wikipedia.org/wiki/一迅社文庫Iris "wikilink")、[東立出版社](../Page/東立出版社.md "wikilink")・[東立酷小說](https://zh.wikipedia.org/wiki/東立酷小說 "wikilink")〉
 
-  - 泡沫之絆　2008年7月19日發售、ISBN 978-4-758-04014-3；2011年7月28日發售、ISBN
-    978-986-10-8061-1
-  - 兩片雪花　2009年4月20日發售、ISBN 978-4-758-04065-5；2011年11月17日發售、ISBN
-    978-986-10-8917-1
+  - 泡沫之絆　2008年7月19日發售、ISBN 978-4-758-04014-3；2011年7月28日發售、ISBN 978-986-10-8061-1
+  - 兩片雪花　2009年4月20日發售、ISBN 978-4-758-04065-5；2011年11月17日發售、ISBN 978-986-10-8917-1
 
 ## 外部链接
 
   - [LOVELESS 动画网站](http://www.loveless.tv/)（日语）
-  - [J.C.STAFF LOVELESS
-    动画网站](https://web.archive.org/web/20160130020202/http://www.jcstaff.co.jp/sho-sai/love-shokai/love-index.htm)（日语）
+  - [J.C.STAFF LOVELESS 动画网站](https://web.archive.org/web/20160130020202/http://www.jcstaff.co.jp/sho-sai/love-shokai/love-index.htm)（日语）
   - [高河弓官方网站](http://yunk.jp/)（日语）
 
-[Category:未完結作品](https://zh.wikipedia.org/wiki/Category:未完結作品 "wikilink")
-[Category:失憶症題材漫畫](https://zh.wikipedia.org/wiki/Category:失憶症題材漫畫 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:月刊GFantasy](https://zh.wikipedia.org/wiki/Category:月刊GFantasy "wikilink")
-[Category:奇幻漫畫](https://zh.wikipedia.org/wiki/Category:奇幻漫畫 "wikilink")
-[Category:戀愛漫畫](https://zh.wikipedia.org/wiki/Category:戀愛漫畫 "wikilink")
-[Category:懸疑漫畫](https://zh.wikipedia.org/wiki/Category:懸疑漫畫 "wikilink")
-[Category:BL漫画](https://zh.wikipedia.org/wiki/Category:BL漫画 "wikilink")
-[Category:2005年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2005年日本電視動畫 "wikilink")
-[Category:奇幻动画](https://zh.wikipedia.org/wiki/Category:奇幻动画 "wikilink")
-[Category:广播剧CD](https://zh.wikipedia.org/wiki/Category:广播剧CD "wikilink")
-[Category:Comic_ZERO-SUM](https://zh.wikipedia.org/wiki/Category:Comic_ZERO-SUM "wikilink")
-[Category:高河弓](https://zh.wikipedia.org/wiki/Category:高河弓 "wikilink")
-[Category:一迅社文庫](https://zh.wikipedia.org/wiki/Category:一迅社文庫 "wikilink")
-[Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
+[Category:未完結作品](https://zh.wikipedia.org/wiki/Category:未完結作品 "wikilink") [Category:失憶症題材漫畫](https://zh.wikipedia.org/wiki/Category:失憶症題材漫畫 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:月刊GFantasy](https://zh.wikipedia.org/wiki/Category:月刊GFantasy "wikilink") [Category:奇幻漫畫](https://zh.wikipedia.org/wiki/Category:奇幻漫畫 "wikilink") [Category:戀愛漫畫](https://zh.wikipedia.org/wiki/Category:戀愛漫畫 "wikilink") [Category:懸疑漫畫](https://zh.wikipedia.org/wiki/Category:懸疑漫畫 "wikilink") [Category:BL漫画](https://zh.wikipedia.org/wiki/Category:BL漫画 "wikilink") [Category:2005年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2005年日本電視動畫 "wikilink") [Category:奇幻动画](https://zh.wikipedia.org/wiki/Category:奇幻动画 "wikilink") [Category:广播剧CD](https://zh.wikipedia.org/wiki/Category:广播剧CD "wikilink") [Category:Comic_ZERO-SUM](https://zh.wikipedia.org/wiki/Category:Comic_ZERO-SUM "wikilink") [Category:高河弓](https://zh.wikipedia.org/wiki/Category:高河弓 "wikilink") [Category:一迅社文庫](https://zh.wikipedia.org/wiki/Category:一迅社文庫 "wikilink") [Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")

@@ -1,9 +1,6 @@
-**Dingbats**，俗称**杂锦[字型](../Page/字型.md "wikilink")**
-，本来是印刷品之中使用的装饰及图形符号。在[计算机被用来制作](https://zh.wikipedia.org/wiki/计算机 "wikilink")[印刷刊物后](../Page/印刷.md "wikilink")，印刷业界便制造了各种杂锦字型，最著名的是[Adobe的](../Page/Adobe.md "wikilink")[Zapf
-Dingbats字型](https://zh.wikipedia.org/wiki/Zapf_Dingbats "wikilink")。
+**Dingbats**，俗称**杂锦[字型](../Page/字型.md "wikilink")** ，本来是印刷品之中使用的装饰及图形符号。在[计算机被用来制作](https://zh.wikipedia.org/wiki/计算机 "wikilink")[印刷](../Page/印刷.md "wikilink")刊物后，印刷业界便制造了各种杂锦字型，最著名的是[Adobe](../Page/Adobe.md "wikilink")的[Zapf Dingbats字型](https://zh.wikipedia.org/wiki/Zapf_Dingbats "wikilink")。
 
-[微软于](../Page/微软.md "wikilink")[Windows
-3.1](../Page/Windows_3.x.md "wikilink")[操作系统之中](../Page/操作系统.md "wikilink")，提供了[Wingdings杂锦符号字型](https://zh.wikipedia.org/wiki/Wingdings "wikilink")。而微软于1997年之后发行的操作系统，再加入了[Webdings杂锦符号字型](../Page/Webdings.md "wikilink")。
+[微软](../Page/微软.md "wikilink")于[Windows 3.1](../Page/Windows_3.x.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")之中，提供了[Wingdings杂锦符号字型](https://zh.wikipedia.org/wiki/Wingdings "wikilink")。而微软于1997年之后发行的操作系统，再加入了[Webdings](../Page/Webdings.md "wikilink")杂锦符号字型。
 
 | **Zapf Dingbats 字符集** |
 | --------------------- |
@@ -79,15 +76,7 @@ Dingbats字型](https://zh.wikipedia.org/wiki/Zapf_Dingbats "wikilink")。
 
 <center>
 
-Image:ZapfDingbats_charset.png|[ZapfDingbats
-BT](https://zh.wikipedia.org/wiki/ZapfDingbats_BT "wikilink")
-Image:Webdings-big.png|[Webdings](../Page/Webdings.md "wikilink")
-Image:Wingdings
-sample.png|[Wingdings](https://zh.wikipedia.org/wiki/Wingdings "wikilink")
-Image:Wingdings 2 sample.png|[Wingdings
-2](https://zh.wikipedia.org/wiki/Wingdings_2 "wikilink") Image:Wingdings
-3 sample.png|[Wingdings
-3](https://zh.wikipedia.org/wiki/Wingdings_3 "wikilink")
+Image:ZapfDingbats_charset.png|[ZapfDingbats BT](https://zh.wikipedia.org/wiki/ZapfDingbats_BT "wikilink") Image:Webdings-big.png|[Webdings](../Page/Webdings.md "wikilink") Image:Wingdings sample.png|[Wingdings](https://zh.wikipedia.org/wiki/Wingdings "wikilink") Image:Wingdings 2 sample.png|[Wingdings 2](https://zh.wikipedia.org/wiki/Wingdings_2 "wikilink") Image:Wingdings 3 sample.png|[Wingdings 3](https://zh.wikipedia.org/wiki/Wingdings_3 "wikilink")
 
 </center>
 

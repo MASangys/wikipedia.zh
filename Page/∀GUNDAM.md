@@ -1,37 +1,28 @@
-**∀鋼彈**是於1999年為了慶祝[鋼彈系列誕生二十週年而製作的一套TV版動畫作品](../Page/GUNDAM系列作品.md "wikilink")，由鋼彈原作者的[富野由悠季擔綱編導](../Page/富野由悠季.md "wikilink")，並集結了許多重量級陣容製作而成，從1999年4月9日到2000年4月14日，由日本富士電視台播放了全系列共五十話，而2002年又以TV版内容為基礎之下做剪輯與編輯，製作出∀鋼彈電影版「地球光」和「月光蝶」。本作品與《[機動神腦](../Page/機動神腦.md "wikilink")》、《[極限戰士](https://zh.wikipedia.org/wiki/極限戰士 "wikilink")》並稱為富野的復活三部曲，並獲選為2002年第六回日本文部省文化廳媒體藝術祭的動畫部門推薦作品。
+**∀鋼彈**是於1999年為了慶祝[鋼彈系列誕生二十週年而製作的一套TV版動畫作品](../Page/GUNDAM系列作品.md "wikilink")，由鋼彈原作者的[富野由悠季](../Page/富野由悠季.md "wikilink")擔綱編導，並集結了許多重量級陣容製作而成，從1999年4月9日到2000年4月14日，由日本富士電視台播放了全系列共五十話，而2002年又以TV版内容為基礎之下做剪輯與編輯，製作出∀鋼彈電影版「地球光」和「月光蝶」。本作品與《[機動神腦](../Page/機動神腦.md "wikilink")》、《[極限戰士](https://zh.wikipedia.org/wiki/極限戰士 "wikilink")》並稱為富野的復活三部曲，並獲選為2002年第六回日本文部省文化廳媒體藝術祭的動畫部門推薦作品。
 
 ## ∀的意義
 
-∀這個符號在數學上代表著**For
-All**，也就是**對於所有的**的意思。這代表著本作品試著把所有的GUNDAM作品結合在同一個時空下。因此在此作品裡會出現之前在不同鋼彈作品以及世界觀出現的不同機械。
+∀這個符號在數學上代表著**For All**，也就是**對於所有的**的意思。這代表著本作品試著把所有的GUNDAM作品結合在同一個時空下。因此在此作品裡會出現之前在不同鋼彈作品以及世界觀出現的不同機械。
 
-在其劇中人所理解以前鋼彈的紀元乃至後續的新紀元，都屬於遙遠的古代歷史的一部分，而且一律稱為[宇宙世紀](../Page/宇宙世紀.md "wikilink")，使用的是類似[基地系列和](../Page/基地系列.md "wikilink")[沙丘系列的設定](https://zh.wikipedia.org/wiki/沙丘系列 "wikilink")，即是發生在遠未來的，其時代和現代中間隔著擁有一個近未來以地球為中心的太空開拓歷史，而在故事時代人類遺忘了地球。而比這兩部好的是地球沒有被遺棄地球的遠離太陽系的新人類所毀滅，並且以殘留在地球的人類的角度出發看宇宙。
+在其劇中人所理解以前鋼彈的紀元乃至後續的新紀元，都屬於遙遠的古代歷史的一部分，而且一律稱為[宇宙世紀](../Page/宇宙世紀.md "wikilink")，使用的是類似[基地系列](../Page/基地系列.md "wikilink")和[沙丘系列的設定](https://zh.wikipedia.org/wiki/沙丘系列 "wikilink")，即是發生在遠未來的，其時代和現代中間隔著擁有一個近未來以地球為中心的太空開拓歷史，而在故事時代人類遺忘了地球。而比這兩部好的是地球沒有被遺棄地球的遠離太陽系的新人類所毀滅，並且以殘留在地球的人類的角度出發看宇宙。
 
 ## 故事概要
 
 ### 前史
 
-故事舞台是在遙遠的未來，部份人類厭倦了戰爭與腐敗而離開太陽系外，發展出高度的文明，這個文明的一架廢棄機體（Turn
-X）偶然漂流回到地球上，地球上的人驚覺外面有極高文明的人類，自己卻連逆向工程複製一架廢棄機體都做不到（但於過程中創造了Turn
-A），於是擔心高度發展的文明可能發動侵略戰爭，科技競爭差距大會打不贏，地球上的人分成了兩派，一方認為應該繼續全力發展現存文明，急起直追；另一方則認為繼續發展還是不可能追上，只有毁滅文明，重新從其他方式發展才能夠追上（這裡解說不清楚，可能指改造人類）。毀滅派系所設計的Turn
-A，會週期性破壞地球城市，淘汰不良的文明，兩派地球人矛盾增大而各持Turn X和Turn
-A交戰，在交戰過程中，全球文明被毀，機械人因為沒有攻擊目標而陷入沉睡，於是部分留守地球的人在地球上重新建立起相對發達的文明，而科技再度發展到類似第二次科技革命的時代。
+故事舞台是在遙遠的未來，部份人類厭倦了戰爭與腐敗而離開太陽系外，發展出高度的文明，這個文明的一架廢棄機體（Turn X）偶然漂流回到地球上，地球上的人驚覺外面有極高文明的人類，自己卻連逆向工程複製一架廢棄機體都做不到（但於過程中創造了Turn A），於是擔心高度發展的文明可能發動侵略戰爭，科技競爭差距大會打不贏，地球上的人分成了兩派，一方認為應該繼續全力發展現存文明，急起直追；另一方則認為繼續發展還是不可能追上，只有毁滅文明，重新從其他方式發展才能夠追上（這裡解說不清楚，可能指改造人類）。毀滅派系所設計的Turn A，會週期性破壞地球城市，淘汰不良的文明，兩派地球人矛盾增大而各持Turn X和Turn A交戰，在交戰過程中，全球文明被毀，機械人因為沒有攻擊目標而陷入沉睡，於是部分留守地球的人在地球上重新建立起相對發達的文明，而科技再度發展到類似第二次科技革命的時代。
 
 而被留在月球上馮·布朗的居民**Moonrace**，則是保存了以前人類地球居民文明所發展的高科技（但仍然和太陽系外有重大差距）。留在月球上的居民想要重回地球居住，於是派遣了「先遣部隊」作實驗性移民並和留守地球的人類接觸。
 
 ### 本傳
 
-二年後(設定為正曆2345年)，「先遣部隊」成功後確認了自己適應當代地球後，而派遣了先鋒部隊**Dianna
-Counter**來到了Amercia（原來的美洲），想為月球人的移民做預備。而這個舉動惹怒了Amercia上的各領地，其後雙方談判不果。於是在地球跟月球就開始了小規模的衝突。及後月球軍方首領戰鬥神吉姆=金卡拉姆叛變，亦加入戰爭。
+二年後(設定為正曆2345年)，「先遣部隊」成功後確認了自己適應當代地球後，而派遣了先鋒部隊**Dianna Counter**來到了Amercia（原來的美洲），想為月球人的移民做預備。而這個舉動惹怒了Amercia上的各領地，其後雙方談判不果。於是在地球跟月球就開始了小規模的衝突。及後月球軍方首領戰鬥神吉姆=金卡拉姆叛變，亦加入戰爭。
 
-而部隊Dianna
-Counter的成員羅倫，在經過兩年適應並融入當地後，於成人儀式上遭遇迪亞娜回歸軍攻擊村莊，無意中啟動了被地球人誤會為神像，舊地球守軍的最強（曾經讓人類文明瀕臨滅亡）[MS](../Page/机动战士.md "wikilink")
-Turn A Gundam，故事正式開始。
+而部隊Dianna Counter的成員羅倫，在經過兩年適應並融入當地後，於成人儀式上遭遇迪亞娜回歸軍攻擊村莊，無意中啟動了被地球人誤會為神像，舊地球守軍的最強（曾經讓人類文明瀕臨滅亡）[MS](../Page/机动战士.md "wikilink") Turn A Gundam，故事正式開始。
 
 ## 評比
 
-本次鋼彈的美術風格跟以往的完全不同，由「安田朗」設定的人物們有著很強烈的世界名作劇場風格，雖然特別但起初也曾因此遭到了譏諷，然而由美國科幻設定大師SYD
-MEAD設定的機械部分則一反過去日式科幻的美形風，整體的塑造上以運用方向做為前提之下並融入了工業設計的巧思，最後呈現的結果更是讓原有的觀眾大吃一驚。爭議比較大的機設部分，雖然在一開始公佈時存在著極端的正反兩評，但隨著時間的過去，能夠放開心胸上的束縛去欣賞這番設計的觀眾也越來越多了，也有不少觀眾稱讚其機設具線條美甚至性感等等，如果從周邊商品的部分來看的話，∀鋼彈與逆X能夠分別榮獲MG版GUNPLA與FW鋼彈CONVERGE系列的第100號特別紀念作，由此可知日方對其的尊重與重視也有著相當的程度。劇情方面在整體上則是缺少了以往富野作品中常常出現的悲劇場面，本作主角的個性乖巧這點也不同於以往富野作品裡經常描寫的青少年叛逆行為，而從最初的鋼彈開始的鋼彈系列歷史在本次作品裡以“黑歷史”的形式總結出現，因此本作也有着“完結篇”的意味在。
+本次鋼彈的美術風格跟以往的完全不同，由「安田朗」設定的人物們有著很強烈的世界名作劇場風格，雖然特別但起初也曾因此遭到了譏諷，然而由美國科幻設定大師SYD MEAD設定的機械部分則一反過去日式科幻的美形風，整體的塑造上以運用方向做為前提之下並融入了工業設計的巧思，最後呈現的結果更是讓原有的觀眾大吃一驚。爭議比較大的機設部分，雖然在一開始公佈時存在著極端的正反兩評，但隨著時間的過去，能夠放開心胸上的束縛去欣賞這番設計的觀眾也越來越多了，也有不少觀眾稱讚其機設具線條美甚至性感等等，如果從周邊商品的部分來看的話，∀鋼彈與逆X能夠分別榮獲MG版GUNPLA與FW鋼彈CONVERGE系列的第100號特別紀念作，由此可知日方對其的尊重與重視也有著相當的程度。劇情方面在整體上則是缺少了以往富野作品中常常出現的悲劇場面，本作主角的個性乖巧這點也不同於以往富野作品裡經常描寫的青少年叛逆行為，而從最初的鋼彈開始的鋼彈系列歷史在本次作品裡以“黑歷史”的形式總結出現，因此本作也有着“完結篇”的意味在。
 
 ## 登場人物
 
@@ -178,8 +169,7 @@ MEAD設定的機械部分則一反過去日式科幻的美形風，整體的塑�
     **自我修復**
     於機體受損位置會如同結痂般產生奈米機械層包覆，接著視受損狀況的不同由奈米機械逐漸進行修復，實際最大修復範圍與修復速度等具體詳細不明。另有這麼一說是這項修復機能除了能夠修復機體本身之外，連駕駛員的肉體也能夠進行修復，但實際詳細不明。於劇中的表現僅有修復∀鋼彈輕微受損的頭部該次而已。
     **空間轉移**
-    使用條件與作用範圍等具體詳細不明。於劇中僅有一次類似的表現，∀鋼彈雙手持發動狀態的光束軍刀並將兩臂連同刀身平舉，接著極高速的旋擺兩臂，隨之便如同使用外力扭曲了空間般的從眾人眼前消失。(在遊戲sd
-    gundam g generation中，機體∀ガンダム(黒歴史)能進行空間轉移)
+    使用條件與作用範圍等具體詳細不明。於劇中僅有一次類似的表現，∀鋼彈雙手持發動狀態的光束軍刀並將兩臂連同刀身平舉，接著極高速的旋擺兩臂，隨之便如同使用外力扭曲了空間般的從眾人眼前消失。(在遊戲sd gundam g generation中，機體∀ガンダム(黒歴史)能進行空間轉移)
     **7th-GMPT**
     全名為第七代米諾夫斯基物理理論，具體詳細不明。有一說是此技術能夠抵制先前所有的米諾夫斯基相關科技並使之完全無效化，但實為武裝又或是一種系統，甚至其作用方法皆不明。
 
@@ -194,8 +184,7 @@ MEAD設定的機械部分則一反過去日式科幻的美形風，整體的塑�
 
 <!-- end list -->
 
-  - **機械設定：**[SYD
-    MEAD](https://zh.wikipedia.org/wiki/SYD_MEAD "wikilink")
+  - **機械設定：**[SYD MEAD](https://zh.wikipedia.org/wiki/SYD_MEAD "wikilink")
 
 **<big>弗拉特</big>**
 
@@ -240,8 +229,7 @@ MEAD設定的機械部分則一反過去日式科幻的美形風，整體的塑�
 
 <!-- end list -->
 
-  - **機械設定：**[SYD
-    MEAD](https://zh.wikipedia.org/wiki/SYD_MEAD "wikilink")
+  - **機械設定：**[SYD MEAD](https://zh.wikipedia.org/wiki/SYD_MEAD "wikilink")
 
 **卡布爾**
 
@@ -795,8 +783,7 @@ MEAD設定的機械部分則一反過去日式科幻的美形風，整體的塑�
 
 <!-- end list -->
 
-  - **機械設定：**[SYD
-    MEAD](https://zh.wikipedia.org/wiki/SYD_MEAD "wikilink")
+  - **機械設定：**[SYD MEAD](https://zh.wikipedia.org/wiki/SYD_MEAD "wikilink")
 
 ## 各話標題
 
@@ -1320,8 +1307,7 @@ MEAD設定的機械部分則一反過去日式科幻的美形風，整體的塑�
   - 腳本：[星山博之](https://zh.wikipedia.org/wiki/星山博之 "wikilink")、[千葉克彥](../Page/千葉克彥.md "wikilink")、[淺川美也](../Page/淺川美也.md "wikilink")、[高橋哲子](https://zh.wikipedia.org/wiki/高橋哲子 "wikilink")、[高山治郎](https://zh.wikipedia.org/wiki/高山治郎 "wikilink")、[大河內一樓](../Page/大河內一樓.md "wikilink")、[太田愛](https://zh.wikipedia.org/wiki/太田愛 "wikilink")
   - 角色原案：[安田朗](../Page/安田朗.md "wikilink")
   - 人物设計：[菱沼义仁](https://zh.wikipedia.org/wiki/菱沼义仁 "wikilink")
-  - 机械设定：[大河原邦男](../Page/大河原邦男.md "wikilink")、[SYD
-    MEAD](https://zh.wikipedia.org/wiki/SYD_MEAD "wikilink")、[重田敦司](https://zh.wikipedia.org/wiki/重田敦司 "wikilink")、[沙仓拓实](https://zh.wikipedia.org/wiki/沙仓拓实 "wikilink")
+  - 机械设定：[大河原邦男](../Page/大河原邦男.md "wikilink")、[SYD MEAD](https://zh.wikipedia.org/wiki/SYD_MEAD "wikilink")、[重田敦司](https://zh.wikipedia.org/wiki/重田敦司 "wikilink")、[沙仓拓实](https://zh.wikipedia.org/wiki/沙仓拓实 "wikilink")
   - 美术监督：[池田繁美](../Page/池田繁美.md "wikilink")
   - 音响监督：[鹤冈阳太](https://zh.wikipedia.org/wiki/鹤冈阳太 "wikilink")
   - 音乐：[菅野洋子](../Page/菅野洋子.md "wikilink")
@@ -1332,25 +1318,19 @@ MEAD設定的機械部分則一反過去日式科幻的美形風，整體的塑�
 ### 片頭曲
 
   - 『』
-    作詞 - [井荻麟](https://zh.wikipedia.org/wiki/井荻麟 "wikilink")／作曲 -
-    小林亜星／編曲 - 矢田部正／主唱 -
-    [西城秀樹](../Page/西城秀樹.md "wikilink")（）
+    作詞 - [井荻麟](https://zh.wikipedia.org/wiki/井荻麟 "wikilink")／作曲 - 小林亜星／編曲 - 矢田部正／主唱 - [西城秀樹](../Page/西城秀樹.md "wikilink")（）
     （2話～38話）
   - 『CENTURY COLOR』
-    作詞 - 井荻麟、浜口祐夢／作曲 - 浜口祐夢／編曲 -
-    [RAY-GUNS](https://zh.wikipedia.org/wiki/RAY-GUNS "wikilink")／主唱 -
-    RAY-GUNS
+    作詞 - 井荻麟、浜口祐夢／作曲 - 浜口祐夢／編曲 - [RAY-GUNS](https://zh.wikipedia.org/wiki/RAY-GUNS "wikilink")／主唱 - RAY-GUNS
     （39話～50話）
 
 ### 片尾曲
 
   - 『AURA』
-    作詞・作曲 - [谷村新司](../Page/谷村新司.md "wikilink")／編曲 -
-    [菅野洋子](../Page/菅野洋子.md "wikilink")／主唱 - 谷村新司（）
+    作詞・作曲 - [谷村新司](../Page/谷村新司.md "wikilink")／編曲 - [菅野洋子](../Page/菅野洋子.md "wikilink")／主唱 - 谷村新司（）
     （1話～15話、17話～40話）
   - 『』
-    作詞 - 井荻麟／作曲・編曲 - 菅野洋子／主唱 -
-    [奥井亞紀](https://zh.wikipedia.org/wiki/奥井亞紀 "wikilink")
+    作詞 - 井荻麟／作曲・編曲 - 菅野洋子／主唱 - [奥井亞紀](https://zh.wikipedia.org/wiki/奥井亞紀 "wikilink")
     （41話～49話）
   - 『』
     作詞 - C.Piece／作曲・編曲 - 菅野洋子／主唱 - 奥井亞紀
@@ -1367,9 +1347,7 @@ MEAD設定的機械部分則一反過去日式科幻的美形風，整體的塑�
   - 『月下美人』
     作詞 - 井荻麟／作曲 - 小林亜星／編曲 - 矢田部正／主唱 - 西城秀樹
   - 『Until』
-    作詞 - [Chris
-    Mosdell](https://zh.wikipedia.org/wiki/クリス・モズデル "wikilink")／作曲
-    - 菅野洋子／編曲 - 菅野洋子／主唱 - Maryanne Murray
+    作詞 - [Chris Mosdell](https://zh.wikipedia.org/wiki/クリス・モズデル "wikilink")／作曲 - 菅野洋子／編曲 - 菅野洋子／主唱 - Maryanne Murray
   - 『The song of a stone』
     作詞 - Chris Mosdell／作曲 - 菅野洋子／編曲 - 菅野洋子／主唱 - 大塚宗一郎
 
@@ -1403,16 +1381,6 @@ MEAD設定的機械部分則一反過去日式科幻的美形風，整體的塑�
 
   - [Turn A Gundam官方網頁](http://www.turn-a-gundam.net/)
   - [Gundam Perfect Web（日本機動戰士官方網站）](http://www.gundam.channel.or.jp/)
-  - [Gundam World
-    Web（香港機動戰士官方網站）](https://web.archive.org/web/20060830174702/http://www.g-world.com.hk/)
+  - [Gundam World Web（香港機動戰士官方網站）](https://web.archive.org/web/20060830174702/http://www.g-world.com.hk/)
 
-[Category:1999年日本電視動畫](https://zh.wikipedia.org/wiki/Category:1999年日本電視動畫 "wikilink")
-[Category:GUNDAM系列](https://zh.wikipedia.org/wiki/Category:GUNDAM系列 "wikilink")
-[Category:Comic_BomBom](https://zh.wikipedia.org/wiki/Category:Comic_BomBom "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:講談社](https://zh.wikipedia.org/wiki/Category:講談社 "wikilink")
-[Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink")
-[Category:月刊Magazine_Z](https://zh.wikipedia.org/wiki/Category:月刊Magazine_Z "wikilink")
-[Category:講談社BOX](https://zh.wikipedia.org/wiki/Category:講談社BOX "wikilink")
-[Category:文明崩潰後世界題材作品](https://zh.wikipedia.org/wiki/Category:文明崩潰後世界題材作品 "wikilink")
-[Category:交換身分題材作品](https://zh.wikipedia.org/wiki/Category:交換身分題材作品 "wikilink")
+[Category:1999年日本電視動畫](https://zh.wikipedia.org/wiki/Category:1999年日本電視動畫 "wikilink") [Category:GUNDAM系列](https://zh.wikipedia.org/wiki/Category:GUNDAM系列 "wikilink") [Category:Comic_BomBom](https://zh.wikipedia.org/wiki/Category:Comic_BomBom "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:講談社](https://zh.wikipedia.org/wiki/Category:講談社 "wikilink") [Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink") [Category:月刊Magazine_Z](https://zh.wikipedia.org/wiki/Category:月刊Magazine_Z "wikilink") [Category:講談社BOX](https://zh.wikipedia.org/wiki/Category:講談社BOX "wikilink") [Category:文明崩潰後世界題材作品](https://zh.wikipedia.org/wiki/Category:文明崩潰後世界題材作品 "wikilink") [Category:交換身分題材作品](https://zh.wikipedia.org/wiki/Category:交換身分題材作品 "wikilink")

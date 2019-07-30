@@ -1,26 +1,26 @@
-《**再見了，可魯**》是[日本](../Page/日本.md "wikilink")[作家](https://zh.wikipedia.org/wiki/作家 "wikilink")[石黑谦吾和](https://zh.wikipedia.org/wiki/石黑谦吾 "wikilink")[攝影師](https://zh.wikipedia.org/wiki/攝影師 "wikilink")[秋元良平根據真人實事所合著的](https://zh.wikipedia.org/wiki/秋元良平 "wikilink")[小說](https://zh.wikipedia.org/wiki/小說 "wikilink")。並改编為同名[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，於2003年6月在[NHK播出](https://zh.wikipedia.org/wiki/NHK "wikilink")；同名[电影于](../Page/电影.md "wikilink")2004年3月13日在[日本上映](../Page/日本.md "wikilink")，并于2004年9月25日发行了DVD。2019年香港根據小說改編拍攝電影《[小Q](../Page/小Q.md "wikilink")》。
+《**再見了，可魯**》是[日本](../Page/日本.md "wikilink")[作家](https://zh.wikipedia.org/wiki/作家 "wikilink")[石黑谦吾和](https://zh.wikipedia.org/wiki/石黑谦吾 "wikilink")[攝影師](https://zh.wikipedia.org/wiki/攝影師 "wikilink")[秋元良平根據真人實事所合著的](https://zh.wikipedia.org/wiki/秋元良平 "wikilink")[小說](https://zh.wikipedia.org/wiki/小說 "wikilink")。並改编為同名[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，於2003年6月在[NHK播出](https://zh.wikipedia.org/wiki/NHK "wikilink")；同名[电影](../Page/电影.md "wikilink")于2004年3月13日在[日本](../Page/日本.md "wikilink")上映，并于2004年9月25日发行了DVD。2019年香港根據小說改編拍攝電影《[小Q](../Page/小Q.md "wikilink")》。
 
 ## 剧情介绍
 
-某天清晨，[东京水户莲太太家誕生了五条](../Page/东京.md "wikilink")[拉布拉多犬](../Page/拉布拉多犬.md "wikilink")，其中有一条在左[腹部有一块棕色印记的便是可魯](https://zh.wikipedia.org/wiki/腹部 "wikilink")。水户莲太太想把他们训练成[导盲犬](https://zh.wikipedia.org/wiki/导盲犬 "wikilink")，便请教在[关西的](https://zh.wikipedia.org/wiki/关西 "wikilink")[驯狗专家](https://zh.wikipedia.org/wiki/馴犬師 "wikilink")。驯狗专家熬不过水户莲太太的执著，便同意挑一条试试。最终具有“对声音不太敏感，却懂得用眼神向你发问”的可魯被选中。
+某天清晨，[东京](../Page/东京.md "wikilink")水户莲太太家誕生了五条[拉布拉多犬](../Page/拉布拉多犬.md "wikilink")，其中有一条在左[腹部有一块棕色印记的便是可魯](https://zh.wikipedia.org/wiki/腹部 "wikilink")。水户莲太太想把他们训练成[导盲犬](https://zh.wikipedia.org/wiki/导盲犬 "wikilink")，便请教在[关西的](https://zh.wikipedia.org/wiki/关西 "wikilink")[驯狗专家](https://zh.wikipedia.org/wiki/馴犬師 "wikilink")。驯狗专家熬不过水户莲太太的执著，便同意挑一条试试。最终具有“对声音不太敏感，却懂得用眼神向你发问”的可魯被选中。
 
-可魯被送到了[京都的仁井家](../Page/京都.md "wikilink")，是可魯的寄養家庭，寄養的目的是让可魯对人类产生信赖和亲切感。仁井夫妇发现了可魯的独特印记，于是，他们用Quill这个英文字为可魯正式命名。而会发声的玩具小熊P仔成了可魯第一个同伴朋友。
+可魯被送到了[京都](../Page/京都.md "wikilink")的仁井家，是可魯的寄養家庭，寄養的目的是让可魯对人类产生信赖和亲切感。仁井夫妇发现了可魯的独特印记，于是，他们用Quill这个英文字为可魯正式命名。而会发声的玩具小熊P仔成了可魯第一个同伴朋友。
 
 可魯和其他的同伴进入了导盲犬中心进行严格的训练，一次在[超市实地训练時](https://zh.wikipedia.org/wiki/超市 "wikilink")，可魯见到了[盲人渡边](https://zh.wikipedia.org/wiki/盲人 "wikilink")。固执的渡边[讨厌狗宁愿用](https://zh.wikipedia.org/wiki/讨厌 "wikilink")[盲杖自己走](https://zh.wikipedia.org/wiki/盲杖 "wikilink")。又过了几天，渡边拄着盲杖赶去[市政厅提交安装发声](https://zh.wikipedia.org/wiki/市政厅 "wikilink")[红绿灯的議案](https://zh.wikipedia.org/wiki/红绿灯 "wikilink")，又遇见了可魯。训练师推荐说：靠可魯你5分钟就能赶到。渡边将信将疑的拿起了[导盲鞍](https://zh.wikipedia.org/wiki/导盲鞍 "wikilink")。果然，可魯成功了：渡边提早十分钟赶到市政厅！
 
-渡边终于接受了可魯开始了为期四周的[适应性培訓](https://zh.wikipedia.org/wiki/适应性 "wikilink")。可魯的真诚终于打动了渡边，他们最终通过了训练。渡边返家了，全家都热烈欢迎可魯的到来，而可魯也正式开始了导盲犬的生涯。慢慢地，渡边先生越来越离不开忠诚又尽责的可魯，无论去哪儿、做什么，他们都形影不离。然而，一個雨夜，渡边儿子的不慎使可魯离家出走，当第二天找到可魯时，渡边[感叹道不能没有导盲犬这样棒的伙伴](https://zh.wikipedia.org/wiki/感叹 "wikilink")，连原来对可魯有成见的渡边[妻子也主动提出让可魯进](../Page/妻子.md "wikilink")[冷氣房避暑](https://zh.wikipedia.org/wiki/冷氣 "wikilink")。
+渡边终于接受了可魯开始了为期四周的[适应性培訓](https://zh.wikipedia.org/wiki/适应性 "wikilink")。可魯的真诚终于打动了渡边，他们最终通过了训练。渡边返家了，全家都热烈欢迎可魯的到来，而可魯也正式开始了导盲犬的生涯。慢慢地，渡边先生越来越离不开忠诚又尽责的可魯，无论去哪儿、做什么，他们都形影不离。然而，一個雨夜，渡边儿子的不慎使可魯离家出走，当第二天找到可魯时，渡边[感叹道不能没有导盲犬这样棒的伙伴](https://zh.wikipedia.org/wiki/感叹 "wikilink")，连原来对可魯有成见的渡边[妻子](../Page/妻子.md "wikilink")也主动提出让可魯进[冷氣房避暑](https://zh.wikipedia.org/wiki/冷氣 "wikilink")。
 
 和渡边在一起的安逸生活转眼就两年过去了。天不如人意，多年积劳成疾的渡边病了，可魯也只能非常不捨地回到训练中心，三年里渡边不断地进出[医院](https://zh.wikipedia.org/wiki/医院 "wikilink")，可魯也不断地来来去去。终于，可魯有听到了熟悉的脚步声——渡边先生来了。可魯抑制了普通犬类扑到人身上亲热的冲动，它知道渡边的身体狀况，只是不断地摇着[尾巴](https://zh.wikipedia.org/wiki/尾巴 "wikilink")，等待着它的老朋友——三年的友情最后化作短短的30米。
 
 “这个就够了，可魯”渡边先生满足地说。可魯也来了渡边的追悼会，牠目不转睛的凝视着躺在[棺木中的渡边先生](https://zh.wikipedia.org/wiki/棺木 "wikilink")，以为渡边先生只是睡着了，很快就会醒来……
 
-渡边病逝后，可魯回到训练中心一直待到了11岁（已到生命的晚年）。牠又回到了仁井家，找到了[童年的玩伴小熊P仔](../Page/童年.md "wikilink")，然而可魯年事已高，病情越来越严重，可魯望着仁井夫妇，不愿离去。仁井夫妇抚摸着它的毛发安慰道：“乖乖睡吧，上天堂后别忘说是仁井家的可魯！”
+渡边病逝后，可魯回到训练中心一直待到了11岁（已到生命的晚年）。牠又回到了仁井家，找到了[童年](../Page/童年.md "wikilink")的玩伴小熊P仔，然而可魯年事已高，病情越来越严重，可魯望着仁井夫妇，不愿离去。仁井夫妇抚摸着它的毛发安慰道：“乖乖睡吧，上天堂后别忘说是仁井家的可魯！”
 
 可魯最後安詳辭世，享壽12歲（等於人類64歲）。
 
 ## 電視劇版
 
-[NHK綜合頻道的](../Page/NHK綜合頻道.md "wikilink")[月曜ドラマシリーズ](https://zh.wikipedia.org/wiki/月曜ドラマシリーズ "wikilink")，自2003年6月16日到7月28日全7話放送。講述[盲人與導盲犬之間的故事](https://zh.wikipedia.org/wiki/盲人 "wikilink")，另有[口述影像供視障者欣賞此劇](../Page/口述影像.md "wikilink")。
+[NHK綜合頻道](../Page/NHK綜合頻道.md "wikilink")的[月曜ドラマシリーズ](https://zh.wikipedia.org/wiki/月曜ドラマシリーズ "wikilink")，自2003年6月16日到7月28日全7話放送。講述[盲人與導盲犬之間的故事](https://zh.wikipedia.org/wiki/盲人 "wikilink")，另有[口述影像](../Page/口述影像.md "wikilink")供視障者欣賞此劇。
 
 ### 主要工作人員
 
@@ -107,20 +107,6 @@
   -
 [Category:導盲犬](https://zh.wikipedia.org/wiki/Category:導盲犬 "wikilink")
 
-[Category:2001年書籍](https://zh.wikipedia.org/wiki/Category:2001年書籍 "wikilink")
-[Category:2003年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2003年開播的日本電視劇集 "wikilink")
-[Category:NHK電視劇](https://zh.wikipedia.org/wiki/Category:NHK電視劇 "wikilink")
-[Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink")
-[Category:非小說書籍改編電視劇](https://zh.wikipedia.org/wiki/Category:非小說書籍改編電視劇 "wikilink")
-[Category:狗題材電視劇](https://zh.wikipedia.org/wiki/Category:狗題材電視劇 "wikilink")
-[Category:2004年日本電影](https://zh.wikipedia.org/wiki/Category:2004年日本電影 "wikilink")
-[Category:非虛構書籍改編電影](https://zh.wikipedia.org/wiki/Category:非虛構書籍改編電影 "wikilink")
-[Category:視覺障礙題材作品](https://zh.wikipedia.org/wiki/Category:視覺障礙題材作品 "wikilink")
-[Category:狗電影](https://zh.wikipedia.org/wiki/Category:狗電影 "wikilink")
-[Category:京都府背景作品](https://zh.wikipedia.org/wiki/Category:京都府背景作品 "wikilink")
-[Category:東京電視台製作的電影](https://zh.wikipedia.org/wiki/Category:東京電視台製作的電影 "wikilink")
-[Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink")
-[Category:橋田賞獲獎作品](https://zh.wikipedia.org/wiki/Category:橋田賞獲獎作品 "wikilink")
-[Category:虚构狗](https://zh.wikipedia.org/wiki/Category:虚构狗 "wikilink")
+[Category:2001年書籍](https://zh.wikipedia.org/wiki/Category:2001年書籍 "wikilink") [Category:2003年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2003年開播的日本電視劇集 "wikilink") [Category:NHK電視劇](https://zh.wikipedia.org/wiki/Category:NHK電視劇 "wikilink") [Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink") [Category:非小說書籍改編電視劇](https://zh.wikipedia.org/wiki/Category:非小說書籍改編電視劇 "wikilink") [Category:狗題材電視劇](https://zh.wikipedia.org/wiki/Category:狗題材電視劇 "wikilink") [Category:2004年日本電影](https://zh.wikipedia.org/wiki/Category:2004年日本電影 "wikilink") [Category:非虛構書籍改編電影](https://zh.wikipedia.org/wiki/Category:非虛構書籍改編電影 "wikilink") [Category:視覺障礙題材作品](https://zh.wikipedia.org/wiki/Category:視覺障礙題材作品 "wikilink") [Category:狗電影](https://zh.wikipedia.org/wiki/Category:狗電影 "wikilink") [Category:京都府背景作品](https://zh.wikipedia.org/wiki/Category:京都府背景作品 "wikilink") [Category:東京電視台製作的電影](https://zh.wikipedia.org/wiki/Category:東京電視台製作的電影 "wikilink") [Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink") [Category:橋田賞獲獎作品](https://zh.wikipedia.org/wiki/Category:橋田賞獲獎作品 "wikilink") [Category:虚构狗](https://zh.wikipedia.org/wiki/Category:虚构狗 "wikilink")
 
 1.

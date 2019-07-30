@@ -1,12 +1,4 @@
-**工作管理員**（），是在[Windows系统中管理应用程式和處理程序的工具](https://zh.wikipedia.org/wiki/微軟視窗 "wikilink")，通常由Windows自带，也有提供增强功能的第三方軟體。任务管理器可以让用户查看当前运行的處理程序。它提供有关电脑性能和运行软件的信息，包括运行进程的名称，CPU负载，内存使用，I/O情况，已登录的用户和
-Windows
-服务。任务管理器也可以用来设置进程优先级，处理器相关性，启动和停止服务，强制终止进程。此程序在最新的Windows上能通过按然后输入`taskmgr.exe`；按[{{Key
-press并选取](https://zh.wikipedia.org/wiki/Control-Alt-Delete "wikilink")“任务管理器”；按；或右击[Windows任务栏并选取](https://zh.wikipedia.org/wiki/任务栏#Microsoft_Windows "wikilink")“任务管理器”。任务管理器在Windows
-NT 4.0以现在的形式被加入。以前的版本的 [Windows NT](../Page/Windows_NT.md "wikilink") 和
-[Windows 3.x](../Page/Windows_3.x.md "wikilink")
-则自带任务列表，它能够列出当前正在运行的进程，并终止它们，也可以创建一个新的进程。[Windows
-9x](../Page/Windows_9x.md "wikilink") 有一个被称为“
-关闭程序”的工具，该工具列出当前正在运行的程序，并提供关闭程序以及关闭电脑的选项。\[1\]
+**工作管理員**（），是在[Windows系统中管理应用程式和處理程序的工具](https://zh.wikipedia.org/wiki/微軟視窗 "wikilink")，通常由Windows自带，也有提供增强功能的第三方軟體。任务管理器可以让用户查看当前运行的處理程序。它提供有关电脑性能和运行软件的信息，包括运行进程的名称，CPU负载，内存使用，I/O情况，已登录的用户和 Windows 服务。任务管理器也可以用来设置进程优先级，处理器相关性，启动和停止服务，强制终止进程。此程序在最新的Windows上能通过按然后输入`taskmgr.exe`；按[{{Key press并选取](https://zh.wikipedia.org/wiki/Control-Alt-Delete "wikilink")“任务管理器”；按；或右击[Windows任务栏并选取](https://zh.wikipedia.org/wiki/任务栏#Microsoft_Windows "wikilink")“任务管理器”。任务管理器在Windows NT 4.0以现在的形式被加入。以前的版本的 [Windows NT](../Page/Windows_NT.md "wikilink") 和 [Windows 3.x](../Page/Windows_3.x.md "wikilink") 则自带任务列表，它能够列出当前正在运行的进程，并终止它们，也可以创建一个新的进程。[Windows 9x](../Page/Windows_9x.md "wikilink") 有一个被称为“ 关闭程序”的工具，该工具列出当前正在运行的程序，并提供关闭程序以及关闭电脑的选项。\[1\]
 
 ## 功能
 
@@ -20,11 +12,7 @@ NT 4.0以现在的形式被加入。以前的版本的 [Windows NT](../Page/Wind
 
 ### 进程和详细信息
 
-“进程”选项卡显示系统上所有正在运行的[进程的列表](https://zh.wikipedia.org/wiki/进程 "wikilink")。此列表包含[Windows
-服务和其他用户的进程](https://zh.wikipedia.org/wiki/Windows_服务 "wikilink")。在Windows
-XP之前的版本会截断长度超过15个字符的进程名称。\[2\]从 Windows XP
-开始，Delete键也可用于终止进程选项卡上的进程。默认情况下，“进程”选项卡会显示正在运行进程的用户帐户，CPU使用率以及进程正在使用的内存量。并且还有更多隐藏的列可以显示。从Windows
-8开始，“进程”选项卡将进程分为三类：
+“进程”选项卡显示系统上所有正在运行的[进程的列表](https://zh.wikipedia.org/wiki/进程 "wikilink")。此列表包含[Windows 服务和其他用户的进程](https://zh.wikipedia.org/wiki/Windows_服务 "wikilink")。在Windows XP之前的版本会截断长度超过15个字符的进程名称。\[2\]从 Windows XP 开始，Delete键也可用于终止进程选项卡上的进程。默认情况下，“进程”选项卡会显示正在运行进程的用户帐户，CPU使用率以及进程正在使用的内存量。并且还有更多隐藏的列可以显示。从Windows 8开始，“进程”选项卡将进程分为三类：
 
   - 应用：带有主窗口的程序
   - Windows 进程：Windows 自身没有主窗口的组件，包括服务。
@@ -32,51 +20,37 @@ XP之前的版本会截断长度超过15个字符的进程名称。\[2\]从 Wind
 
 此选项卡显示每个主窗口的名称以及与每个进程关联的服务。可以从此选项卡发送正常的退出命令和强制终止命令。
 
-详细信息选项卡是进程选项卡的增强版，类似于 [Windows
-7及更早版本的进程选项卡](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")。右击列表中的进程可以更改进程的优先级，设置处理器关联（设置进程可以使用的处理器），并且可以结束进程。选择结束任务会导致Windows
-立即该终止进程。选择“结束进程树”会导致Windows
-立即终止该进程的同时终止其直接或间接启动的所有进程。但是。如果需要结束与发出对TerminateProcess调用的进程在不同的安全上下文中运行的进程，则需要使用KILL命令行实用程序。\[3\]
+详细信息选项卡是进程选项卡的增强版，类似于 [Windows 7及更早版本的进程选项卡](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")。右击列表中的进程可以更改进程的优先级，设置处理器关联（设置进程可以使用的处理器），并且可以结束进程。选择结束任务会导致Windows 立即该终止进程。选择“结束进程树”会导致Windows 立即终止该进程的同时终止其直接或间接启动的所有进程。但是。如果需要结束与发出对TerminateProcess调用的进程在不同的安全上下文中运行的进程，则需要使用KILL命令行实用程序。\[3\]
 
 ### 性能
 
 “性能”选项卡显示有关系统性能的总体统计信息，例如总体CPU使用量和正在使用的内存量。显示了这两个值最近的图表。还显示了有关特定内存组合的详细信息。
 
-有一个选项可以将CPU使用率图分成两个部分：内核模式时间和用户模式时间。许多设备驱动程序和操作系统的核心部分以内核模式运行，而用户应用程序以用户模式运行。从右击菜单中选择“
-显示内核时间”可以打开该选项。当此选项打开时，CPU使用率图将显示浅蓝和深蓝区域。深蓝区域是在内核模式下花费的时间量，浅蓝区域显示在用户模式下花费的时间量。
+有一个选项可以将CPU使用率图分成两个部分：内核模式时间和用户模式时间。许多设备驱动程序和操作系统的核心部分以内核模式运行，而用户应用程序以用户模式运行。从右击菜单中选择“ 显示内核时间”可以打开该选项。当此选项打开时，CPU使用率图将显示浅蓝和深蓝区域。深蓝区域是在内核模式下花费的时间量，浅蓝区域显示在用户模式下花费的时间量。
 
-“性能”选项卡还显示与电脑中存在的每个网络适配器相关的统计信息，在Windows XP到Windows 7中，此信息位于单独的选项卡“
-网络”中。默认显示适配器名称，网络利用率的百分比，连接速度和网络适配器的状态，以及最近活动的图表。
+“性能”选项卡还显示与电脑中存在的每个网络适配器相关的统计信息，在Windows XP到Windows 7中，此信息位于单独的选项卡“ 网络”中。默认显示适配器名称，网络利用率的百分比，连接速度和网络适配器的状态，以及最近活动的图表。
 
 ### 应用历史记录
 
-Windows 8中引入了“ 应用历史记录”选项卡，并显示了被称为“通用Windows平台”的应用程序的信息。Windows
-会更紧密地控制这些应用程序的生命周期。此选项卡是Windows收集的关于它们的数据的查看处。
+Windows 8中引入了“ 应用历史记录”选项卡，并显示了被称为“通用Windows平台”的应用程序的信息。Windows 会更紧密地控制这些应用程序的生命周期。此选项卡是Windows收集的关于它们的数据的查看处。
 
 ### 启动
 
-“启动”选项卡也在Windows 8中被加入，并管理以Windows
-外壳自启动的软件。（在以前需要使用[MSConfig](../Page/MSConfig.md "wikilink")。）
+“启动”选项卡也在Windows 8中被加入，并管理以Windows 外壳自启动的软件。（在以前需要使用[MSConfig](../Page/MSConfig.md "wikilink")。）
 
 ### 用户
 
-在Windows XP中被加入的“用户”选项卡显示了当前电脑上有会话的所有用户。例如服务器上使用远程桌面连接的多个用户。或是从Windows
-XP 开始并启用了快速用户切换的工作站上的多个用户。用户可以从此选项卡从此选项卡断开来连接或注销。
+在Windows XP中被加入的“用户”选项卡显示了当前电脑上有会话的所有用户。例如服务器上使用远程桌面连接的多个用户。或是从Windows XP 开始并启用了快速用户切换的工作站上的多个用户。用户可以从此选项卡从此选项卡断开来连接或注销。
 
 ## 历史
 
 ### Windows 9x
 
-在[Windows 9x](../Page/Windows_9x.md "wikilink") 中，按下 [{{Key
-press时](https://zh.wikipedia.org/wiki/Control-Alt-Delete "wikilink")，会出现一个“关闭程序”对话框。\[4\]另外，
-Windows 9x 中，Windows
-目录中有一个名为“任务”（TASKMAN.EXE）的程序。TASKMAN.EXE是一个基本的程序并且功能很少。Windows
-9x中的[系统监视器实用程序包含类似于Windows任务管理器的进程和网络监视功能](../Page/系统监视器.md "wikilink")。（另外，如果Explorer进程关闭，则通过在桌面上双击来启动Tasks程序）。
+在[Windows 9x](../Page/Windows_9x.md "wikilink") 中，按下 [{{Key press时](https://zh.wikipedia.org/wiki/Control-Alt-Delete "wikilink")，会出现一个“关闭程序”对话框。\[4\]另外， Windows 9x 中，Windows 目录中有一个名为“任务”（TASKMAN.EXE）的程序。TASKMAN.EXE是一个基本的程序并且功能很少。Windows 9x中的[系统监视器](../Page/系统监视器.md "wikilink")实用程序包含类似于Windows任务管理器的进程和网络监视功能。（另外，如果Explorer进程关闭，则通过在桌面上双击来启动Tasks程序）。
 
 ### Windows XP
 
-在Windows XP
-中，工作管理員提供了「关机」菜单，可以待机、休眠、关机、重新启动、注销、切换用户。如果不使用「歡迎畫面」，則工作管理員中不出現此功能表，且按下Ctrl+Alt+Delete後顯示的是「Windows
-安全」對話方塊，可在「Windows 安全」對話方塊中選擇「工作管理員」。
+在Windows XP 中，工作管理員提供了「关机」菜单，可以待机、休眠、关机、重新启动、注销、切换用户。如果不使用「歡迎畫面」，則工作管理員中不出現此功能表，且按下Ctrl+Alt+Delete後顯示的是「Windows 安全」對話方塊，可在「Windows 安全」對話方塊中選擇「工作管理員」。
 
 ### Windows Vista
 
@@ -94,7 +68,7 @@ Windows 9x 中，Windows
 
 <!-- end list -->
 
-  - 通过右键单击任何进程，可以直接打开进程[執行檔的属性或包含该进程的文件夹](../Page/執行檔.md "wikilink")。
+  - 通过右键单击任何进程，可以直接打开进程[執行檔](../Page/執行檔.md "wikilink")的属性或包含该进程的文件夹。
 
 <!-- end list -->
 
@@ -136,7 +110,7 @@ Windows 9x 中，Windows
 
 <!-- end list -->
 
-  -   - 现在将鼠标悬停在任何逻辑处理器的数据上会显示该处理器的[非均匀访存模型节点及其ID](../Page/非均匀访存模型.md "wikilink")。
+  -   - 现在将鼠标悬停在任何逻辑处理器的数据上会显示该处理器的[非均匀访存模型](../Page/非均匀访存模型.md "wikilink")节点及其ID。
 
 <!-- end list -->
 
@@ -156,16 +130,11 @@ Windows 9x 中，Windows
 
 ## 弱点
 
-任务管理器是[计算机病毒和其他形式的](../Page/计算机病毒.md "wikilink")[恶意软件的共同敌人](../Page/恶意软件.md "wikilink");
-通常恶意软件会在启动时立即关闭任务管理器，从而将自己隐藏起来。例如，[狙击波蠕虫和](../Page/狙击波蠕虫.md "wikilink")[Spybot蠕虫的变种就使用了这种技术](https://zh.wikipedia.org/wiki/Spybot "wikilink")。\[7\]使用组策略可以禁用任务管理器。许多类型的恶意软件也可以通过注册表来启用此策略。[Rootkit可以在任务管理器中隐藏](../Page/Rootkit.md "wikilink")，从而防止它们被检测到并清除。
+任务管理器是[计算机病毒](../Page/计算机病毒.md "wikilink")和其他形式的[恶意软件](../Page/恶意软件.md "wikilink")的共同敌人; 通常恶意软件会在启动时立即关闭任务管理器，从而将自己隐藏起来。例如，[狙击波蠕虫](../Page/狙击波蠕虫.md "wikilink")和[Spybot蠕虫的变种就使用了这种技术](https://zh.wikipedia.org/wiki/Spybot "wikilink")。\[7\]使用组策略可以禁用任务管理器。许多类型的恶意软件也可以通过注册表来启用此策略。[Rootkit](../Page/Rootkit.md "wikilink")可以在任务管理器中隐藏，从而防止它们被检测到并清除。
 
 ## 畫面说明
 
-[Rwglq.png](https://zh.wikipedia.org/wiki/File:Rwglq.png "fig:Rwglq.png")
-通常，[Windows
-8](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")、[Windows
-8.1](../Page/Windows_8.1.md "wikilink")、[Windows
-10用户可以在啟動工作管理員後看到如上圖的介面](../Page/Windows_10.md "wikilink")，按下“結束工作”可以进行結束該項工作，按下右鍵可以對單一應用程式進行切換應用程式和新工作等操作。
+[Rwglq.png](https://zh.wikipedia.org/wiki/File:Rwglq.png "fig:Rwglq.png") 通常，[Windows 8](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")、[Windows 8.1](../Page/Windows_8.1.md "wikilink")、[Windows 10用户可以在啟動工作管理員後看到如上圖的介面](../Page/Windows_10.md "wikilink")，按下“結束工作”可以进行結束該項工作，按下右鍵可以對單一應用程式進行切換應用程式和新工作等操作。
 
 ## 参见
 
@@ -179,9 +148,7 @@ Windows 9x 中，Windows
 
 1.
 
-2.  [Magic 15 with GetProcessesByName on
-    Windows 2000](http://yangcao88.spaces.live.com/blog/cns!45B36D487518CDF5!126.entry)
-
+2.  [Magic 15 with GetProcessesByName on Windows 2000](http://yangcao88.spaces.live.com/blog/cns!45B36D487518CDF5!126.entry)
 
 3.
 

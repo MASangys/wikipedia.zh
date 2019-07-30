@@ -1,11 +1,6 @@
-**BartPE**是一個利用[微軟的](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Windows
-XP及](../Page/Windows_XP.md "wikilink")[Windows Server
-2003](../Page/Windows_Server_2003.md "wikilink")[作業系統的安裝光碟而達成的](https://zh.wikipedia.org/wiki/作業系統 "wikilink")**預先安裝環境**（[Live
-CD](../Page/Live_CD.md "wikilink")）。
+**BartPE**是一個利用[微軟的](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Windows XP及](../Page/Windows_XP.md "wikilink")[Windows Server 2003](../Page/Windows_Server_2003.md "wikilink")[作業系統的安裝光碟而達成的](https://zh.wikipedia.org/wiki/作業系統 "wikilink")**預先安裝環境**（[Live CD](../Page/Live_CD.md "wikilink")）。
 
-BartPE讓用戶只要到BartPE的網址下載相關檔案，並依照說明的程序去做，就可以為自己製造一張“救援”用的光碟。憑著這張“救機光碟”，用戶可以在電腦上的作業系統不能運作時，在原來的電腦啟動WinXP或Windows
-2003，從而對有關資料進行備份，或當作臨時的作業系統使用、或著重新設定系統管理員密碼。另外，系統維護者亦可以先行購買一套Windows
-XP或Windows 2003，然後製作一片隨身攜帶的“救援光碟”，以便為其他電腦作診斷時，亦可以存取有關電腦的內容。
+BartPE讓用戶只要到BartPE的網址下載相關檔案，並依照說明的程序去做，就可以為自己製造一張“救援”用的光碟。憑著這張“救機光碟”，用戶可以在電腦上的作業系統不能運作時，在原來的電腦啟動WinXP或Windows 2003，從而對有關資料進行備份，或當作臨時的作業系統使用、或著重新設定系統管理員密碼。另外，系統維護者亦可以先行購買一套Windows XP或Windows 2003，然後製作一片隨身攜帶的“救援光碟”，以便為其他電腦作診斷時，亦可以存取有關電腦的內容。
 
 BartPE給用戶完整的Win32環境，包括網路支援、800×600解像度的圖型界面、FAT/NTFS/CDFS等各種檔案系統的支援。讓你在無需要安裝任何作業系統的情況下為你的電腦系統進行測試或搶救，並透過網路作備份、病毒掃描等各種工作。有了BartPE，就不再需要有“DOS啟動軟碟”了！
 
@@ -23,9 +18,7 @@ BartPE雖然與[Windows預先安裝環境](../Page/Windows預先安裝環境.md 
 
 由於“預先安裝環境建立程序”並不是微軟的產品，亦不會幫安裝者建立微軟的“預先安裝環境建立程序”（WinPE），所以使用“預先安裝環境建立程序”不會賦於用戶微軟WinPE的使用權，亦不用給用戶原來的使用者權限以外的其他權利。用戶若要使用這產品，必須要先擁有一套合法授權的作業系統安裝光碟。
 
-另外，根據微軟Windows XP/Windows Server
-2003的[最終用戶授權協議](https://zh.wikipedia.org/wiki/最終用戶授權協議 "wikilink")（EULA），任何用戶都不可以把作業系統同時安裝於比協議容許的數量
-更多的電腦上。所以，理論上每製作一套BartPE光碟，都要跟隨一套作業系統的版權。
+另外，根據微軟Windows XP/Windows Server 2003的[最終用戶授權協議](https://zh.wikipedia.org/wiki/最終用戶授權協議 "wikilink")（EULA），任何用戶都不可以把作業系統同時安裝於比協議容許的數量 更多的電腦上。所以，理論上每製作一套BartPE光碟，都要跟隨一套作業系統的版權。
 
 ## 其他問題
 
@@ -36,5 +29,4 @@ BartPE雖然與[Windows預先安裝環境](../Page/Windows預先安裝環境.md 
   - [BartPE的下載網址連說明書](http://www.nu2.nu/pebuilder/)
   - [BartPE可用插件列表](http://www.bootcd.us/BartPE_Plugins_Repository.php)
 
-[Category:系统软件](https://zh.wikipedia.org/wiki/Category:系统软件 "wikilink")
-[Category:LiveCD](https://zh.wikipedia.org/wiki/Category:LiveCD "wikilink")
+[Category:系统软件](https://zh.wikipedia.org/wiki/Category:系统软件 "wikilink") [Category:LiveCD](https://zh.wikipedia.org/wiki/Category:LiveCD "wikilink")

@@ -1,13 +1,10 @@
-****是一个以[PHP和](../Page/PHP.md "wikilink")[MySQL为平台的](../Page/MySQL.md "wikilink")[自由开源的博客软件和](../Page/自由及开放源代码软件.md "wikilink")[内容管理系统](../Page/内容管理系统.md "wikilink")\[1\]。WordPress具有插件架构和模板系统。截至2018年4月，排名前1000万的网站超过30.6%使用WordPress\[2\]。WordPress是最受欢迎的网站[内容管理系统](../Page/内容管理系统.md "wikilink")\[3\]。WordPress是目前[因特网上最流行的博客系统](https://zh.wikipedia.org/wiki/因特网 "wikilink")。\[4\]\[5\]WordPress在最着名的网络发布阶段中脱颖而出。如今，它被使用在超过7000万个站点上。\[6\]
+****是一个以[PHP](../Page/PHP.md "wikilink")和[MySQL](../Page/MySQL.md "wikilink")为平台的[自由开源的博客软件和](../Page/自由及开放源代码软件.md "wikilink")[内容管理系统](../Page/内容管理系统.md "wikilink")\[1\]。WordPress具有插件架构和模板系统。截至2018年4月，排名前1000万的网站超过30.6%使用WordPress\[2\]。WordPress是最受欢迎的网站[内容管理系统](../Page/内容管理系统.md "wikilink")\[3\]。WordPress是目前[因特网上最流行的博客系统](https://zh.wikipedia.org/wiki/因特网 "wikilink")。\[4\]\[5\]WordPress在最着名的网络发布阶段中脱颖而出。如今，它被使用在超过7000万个站点上。\[6\]
 
-2003年5月27日，WordPress从b2/cafelog分支，由[马特·查尔斯·穆伦维格](../Page/马特·查尔斯·穆伦维格.md "wikilink")（）\[7\]和Mike
-Little\[8\]开发。到了2011年12月，3.0版本已经被下载了超过6500万次。\[9\]
+2003年5月27日，WordPress从b2/cafelog分支，由[马特·查尔斯·穆伦维格](../Page/马特·查尔斯·穆伦维格.md "wikilink")（）\[7\]和Mike Little\[8\]开发。到了2011年12月，3.0版本已经被下载了超过6500万次。\[9\]
 
 ## 特性
 
-WordPress具有一个带[模板处理器](https://zh.wikipedia.org/wiki/模板处理器 "wikilink")（template
-processor）的[页面模板系统](https://zh.wikipedia.org/wiki/页面模板系统 "wikilink")（web
-template system）。
+WordPress具有一个带[模板处理器](https://zh.wikipedia.org/wiki/模板处理器 "wikilink")（template processor）的[页面模板系统](https://zh.wikipedia.org/wiki/页面模板系统 "wikilink")（web template system）。
 
 ### 主题
 
@@ -15,46 +12,31 @@ WordPress用户可以安装和切换[主题](https://zh.wikipedia.org/wiki/主�
 
 ### 插件
 
-WordPress非常流行的一个特性是它丰富的[插件架构](../Page/插件.md "wikilink")，插件能使用户和开发者扩展WordPress程序的功能。当前WordPress插件数据库中有超过18000个插件，\[11\]包括[SEO](https://zh.wikipedia.org/wiki/SEO "wikilink")、[控件等等](../Page/控件.md "wikilink")。
+WordPress非常流行的一个特性是它丰富的[插件](../Page/插件.md "wikilink")架构，插件能使用户和开发者扩展WordPress程序的功能。当前WordPress插件数据库中有超过18000个插件，\[11\]包括[SEO](https://zh.wikipedia.org/wiki/SEO "wikilink")、[控件](../Page/控件.md "wikilink")等等。
 
 ### 多作者共同寫作和多博客共存
 
-在WordPress
-3.0之前，尽管多个在不同目录中的WordPress程序能被配置成使用不同的数据库，但此时程序仅支持一次部署建立一个博客。WordPress
-Multi-User（WordPress
-MU，或简称WPMU）从WordPress中分支，支持一次部署并建立多个博客，还能够被管理员统一管理。WordPress
-MU成功地使一个网站能够建立自己的博客社群，同时在一个控制面板中控制修改所有的博客。WordPress MU为每个博客建立了八个新数据表。
+在WordPress 3.0之前，尽管多个在不同目录中的WordPress程序能被配置成使用不同的数据库，但此时程序仅支持一次部署建立一个博客。WordPress Multi-User（WordPress MU，或简称WPMU）从WordPress中分支，支持一次部署并建立多个博客，还能够被管理员统一管理。WordPress MU成功地使一个网站能够建立自己的博客社群，同时在一个控制面板中控制修改所有的博客。WordPress MU为每个博客建立了八个新数据表。
 
 此后，WordPress MU合并到WordPress 3.0中。\[12\]
 
 ### 移动设备
 
-WordPress在[WebOS](https://zh.wikipedia.org/wiki/WebOS "wikilink")、\[13\][Android](../Page/Android.md "wikilink")\[14\]、[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")（iPhone、iPod
-Touch、iPad）\[15\]\[16\]、[Windows
-Phone和](../Page/Windows_Phone.md "wikilink")[BlackBerry](https://zh.wikipedia.org/wiki/BlackBerry "wikilink")\[17\]上都有原生应用，支持WordPress管理面板中的功能并且能够管理WordPress.com上的博客和用WordPress建立的博客。
+WordPress在[WebOS](https://zh.wikipedia.org/wiki/WebOS "wikilink")、\[13\][Android](../Page/Android.md "wikilink")\[14\]、[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")（iPhone、iPod Touch、iPad）\[15\]\[16\]、[Windows Phone和](../Page/Windows_Phone.md "wikilink")[BlackBerry](https://zh.wikipedia.org/wiki/BlackBerry "wikilink")\[17\]上都有原生应用，支持WordPress管理面板中的功能并且能够管理WordPress.com上的博客和用WordPress建立的博客。
 
 ### 其他特性
 
-WordPress也整合了統一的[超級連結管理功能](https://zh.wikipedia.org/wiki/超級連結 "wikilink")；一个為[搜尋引擎而優化的](https://zh.wikipedia.org/wiki/搜尋引擎 "wikilink")[永久連結](https://zh.wikipedia.org/wiki/PermaLink "wikilink")（）系統；對於文章可以進行嵌套的分類，同一文章也可屬於多個分類；支持使用[標籤](https://zh.wikipedia.org/wiki/標籤 "wikilink")（）；能產生適當的文字的格式和樣式的排版濾鏡；[Trackback和](https://zh.wikipedia.org/wiki/Trackback "wikilink")[Pingback的功能](../Page/Pingback.md "wikilink")，使其他网站能够链接到文章；[所見即所得的文章編輯器](https://zh.wikipedia.org/wiki/所見即所得 "wikilink")；生成和使用靜態頁面的功能；可以保存訪問過你的網誌的用戶列表；可以禁止來自一定IP段的用戶的訪問；支持自定義固定連結，對搜尋引擎更友善。
+WordPress也整合了統一的[超級連結管理功能](https://zh.wikipedia.org/wiki/超級連結 "wikilink")；一个為[搜尋引擎而優化的](https://zh.wikipedia.org/wiki/搜尋引擎 "wikilink")[永久連結](https://zh.wikipedia.org/wiki/PermaLink "wikilink")（）系統；對於文章可以進行嵌套的分類，同一文章也可屬於多個分類；支持使用[標籤](https://zh.wikipedia.org/wiki/標籤 "wikilink")（）；能產生適當的文字的格式和樣式的排版濾鏡；[Trackback和](https://zh.wikipedia.org/wiki/Trackback "wikilink")[Pingback](../Page/Pingback.md "wikilink")的功能，使其他网站能够链接到文章；[所見即所得的文章編輯器](https://zh.wikipedia.org/wiki/所見即所得 "wikilink")；生成和使用靜態頁面的功能；可以保存訪問過你的網誌的用戶列表；可以禁止來自一定IP段的用戶的訪問；支持自定義固定連結，對搜尋引擎更友善。
 
-其他发布平台限制您在自己的网站上可以做什么和不能做什么。因此，如果它应该关闭你的内容可能会消失，你就被锁定在该服务中。使用WordPress，您可以从其他系统（如blogger或Tumblr）导入数据。您还可以轻松导出数据以远离WordPress。
-您应该选择控制您的网站和内容。因此，如果您正在寻找一个简单的工具，这将有助于您构建自己的博客或网站，而无需学习复杂的HTML。没有其他系统可以轻松实现这一目标。您会发现WordPress具有数千个主题插件和支持选项，非常灵活。这将确保您的网站将来继续与您一起成长。\[18\]
+其他发布平台限制您在自己的网站上可以做什么和不能做什么。因此，如果它应该关闭你的内容可能会消失，你就被锁定在该服务中。使用WordPress，您可以从其他系统（如blogger或Tumblr）导入数据。您还可以轻松导出数据以远离WordPress。 您应该选择控制您的网站和内容。因此，如果您正在寻找一个简单的工具，这将有助于您构建自己的博客或网站，而无需学习复杂的HTML。没有其他系统可以轻松实现这一目标。您会发现WordPress具有数千个主题插件和支持选项，非常灵活。这将确保您的网站将来继续与您一起成长。\[18\]
 
 ## 歷史
 
-“b2/cafelog”（通常称作“b2”或“cafelod”）是WordPress的前身。\[19\]
-直至2003年5月，大約有2,000個網誌在使用它。它的作者是WordPress的開發者之一Michel
-Valdrighi。
-b2/cafelog基於[PHP語言和](../Page/PHP.md "wikilink")[MySQL](../Page/MySQL.md "wikilink")[資料庫](https://zh.wikipedia.org/wiki/資料庫 "wikilink")。尽管WordPress相当成功，但是另一个项目[b2evolution也在活跃的开发中](https://zh.wikipedia.org/wiki/b2evolution "wikilink")。
+“b2/cafelog”（通常称作“b2”或“cafelod”）是WordPress的前身。\[19\] 直至2003年5月，大約有2,000個網誌在使用它。它的作者是WordPress的開發者之一Michel Valdrighi。 b2/cafelog基於[PHP](../Page/PHP.md "wikilink")語言和[MySQL](../Page/MySQL.md "wikilink")[資料庫](https://zh.wikipedia.org/wiki/資料庫 "wikilink")。尽管WordPress相当成功，但是另一个项目[b2evolution也在活跃的开发中](https://zh.wikipedia.org/wiki/b2evolution "wikilink")。
 
-WordPress的首次出現就是來自於[Matt
-Mullenweg和Mike](https://zh.wikipedia.org/wiki/Matt_Mullenweg "wikilink")
-Little合力創作的一個b2/cafelog的分支版本。\[20\]「WordPress」這個名字出自Christine
-Selleck的主意，他是主要開發者[Matt
-Mullenweg的朋友](https://zh.wikipedia.org/wiki/Matt_Mullenweg "wikilink")。\[21\]
+WordPress的首次出現就是來自於[Matt Mullenweg和Mike](https://zh.wikipedia.org/wiki/Matt_Mullenweg "wikilink") Little合力創作的一個b2/cafelog的分支版本。\[20\]「WordPress」這個名字出自Christine Selleck的主意，他是主要開發者[Matt Mullenweg的朋友](https://zh.wikipedia.org/wiki/Matt_Mullenweg "wikilink")。\[21\]
 
-2004年由於競爭對手[Movable Type的公司](../Page/Movable_Type.md "wikilink")[Six
-Apart修改了](https://zh.wikipedia.org/wiki/Six_Apart "wikilink")[軟體許可証條款](https://zh.wikipedia.org/wiki/軟體許可証 "wikilink")，很多用戶遷移到WordPress，使得它越來越受到大眾的歡迎。\[22\]\[23\]
+2004年由於競爭對手[Movable Type的公司](../Page/Movable_Type.md "wikilink")[Six Apart修改了](https://zh.wikipedia.org/wiki/Six_Apart "wikilink")[軟體許可証條款](https://zh.wikipedia.org/wiki/軟體許可証 "wikilink")，很多用戶遷移到WordPress，使得它越來越受到大眾的歡迎。\[22\]\[23\]
 
 [2008年4月](../Page/2008年4月.md "wikilink")，WordPress與內容搜尋引擎[Sphere合作](https://zh.wikipedia.org/wiki/Sphere "wikilink")，優先在WordPress用戶文章底部推送WordPress的內容\[24\]。
 
@@ -72,9 +54,7 @@ Apart修改了](https://zh.wikipedia.org/wiki/Six_Apart "wikilink")[軟體許可
 
 ### 移除商业主题
 
-2007年7月10日，因为WordPress意见论坛\[29\]和Mark Ghosh博客Weblog Tools
-Collection的一篇博文，\[30\]Matt
-Mullenweg宣布官方WordPress主题目录将不再提供商业主题。\[31\]\[32\]尽管这被商业主题的设计师和用户批评，但是对于将此类主题视为骚扰的WordPress用户还是支持了这一决定。\[33\]官方主题目录在宣告过后暂停接受新的主题，这包括了那些包含赞助链接的主题。商业主题和带赞助链接的主题仍能在第三方主题网站下载。\[34\]\[35\]
+2007年7月10日，因为WordPress意见论坛\[29\]和Mark Ghosh博客Weblog Tools Collection的一篇博文，\[30\]Matt Mullenweg宣布官方WordPress主题目录将不再提供商业主题。\[31\]\[32\]尽管这被商业主题的设计师和用户批评，但是对于将此类主题视为骚扰的WordPress用户还是支持了这一决定。\[33\]官方主题目录在宣告过后暂停接受新的主题，这包括了那些包含赞助链接的主题。商业主题和带赞助链接的主题仍能在第三方主题网站下载。\[34\]\[35\]
 
 2008年7月18日，WordPress.org开放了新的主题目录\[36\]，将主题和插件放在一起\[37\]任何上传的主题都将先被机器审查，再人工审核。
 
@@ -82,15 +62,9 @@ Mullenweg宣布官方WordPress主题目录将不再提供商业主题。\[31\]\[
 
 ## 版本
 
-[WordPress_Administration.png](https://zh.wikipedia.org/wiki/File:WordPress_Administration.png "fig:WordPress_Administration.png")
-[Wordpress27cap.png](https://zh.wikipedia.org/wiki/File:Wordpress27cap.png "fig:Wordpress27cap.png")
-[WordPress3.3.2.png](https://zh.wikipedia.org/wiki/File:WordPress3.3.2.png "fig:WordPress3.3.2.png")
-[Wordpress_main_theme.png](https://zh.wikipedia.org/wiki/File:Wordpress_main_theme.png "fig:Wordpress_main_theme.png")
+[WordPress_Administration.png](https://zh.wikipedia.org/wiki/File:WordPress_Administration.png "fig:WordPress_Administration.png") [Wordpress27cap.png](https://zh.wikipedia.org/wiki/File:Wordpress27cap.png "fig:Wordpress27cap.png") [WordPress3.3.2.png](https://zh.wikipedia.org/wiki/File:WordPress3.3.2.png "fig:WordPress3.3.2.png") [Wordpress_main_theme.png](https://zh.wikipedia.org/wiki/File:Wordpress_main_theme.png "fig:Wordpress_main_theme.png")
 
-WordPress自1.0版之后使用著名的[爵士](../Page/爵士.md "wikilink")[音樂家的名字命名](https://zh.wikipedia.org/wiki/音樂家 "wikilink")。舉例來說，WordPress
-1.2的代號為Mingus（[咆勃爵士樂中貝斯手](../Page/咆勃爵士樂.md "wikilink")[Charles
-Mingus的姓](https://zh.wikipedia.org/wiki/Charles_Mingus "wikilink")）。
-\[39\]
+WordPress自1.0版之后使用著名的[爵士](../Page/爵士.md "wikilink")[音樂家的名字命名](https://zh.wikipedia.org/wiki/音樂家 "wikilink")。舉例來說，WordPress 1.2的代號為Mingus（[咆勃爵士樂](../Page/咆勃爵士樂.md "wikilink")中貝斯手[Charles Mingus的姓](https://zh.wikipedia.org/wiki/Charles_Mingus "wikilink")）。 \[39\]
 
 <table>
 <colgroup>
@@ -136,7 +110,7 @@ Mingus的姓](https://zh.wikipedia.org/wiki/Charles_Mingus "wikilink")）。
 <td></td>
 <td><p><em></em></p></td>
 <td><p>2005年2月17日</p></td>
-<td><p>新增了一系列重要的新功能。其中一個是能夠管理靜態頁面。這使得用戶可以建立和編輯脫離傳統<a href="../Page/網誌.md" title="wikilink">網誌的時間排列方式的頁面</a>，這也是WordPress從簡單的<a href="../Page/網誌.md" title="wikilink">網誌管理軟體成為一個全面的</a><a href="https://zh.wikipedia.org/wiki/內容管理系統" title="wikilink">內容管理系統</a>（）的第一步。另一個新增功能是新的模板／主題系統，從而可以讓用戶輕鬆啟動和關閉“面板”（<a href="https://zh.wikipedia.org/wiki/網頁模板" title="wikilink">模板</a>）。在WordPress還配備了新的預設模板（代號為<a href="https://zh.wikipedia.org/wiki/Stanley_Kubrick" title="wikilink">Kubrick</a>[41]）設計者為<a href="https://zh.wikipedia.org/wiki/Michael_Heilemann" title="wikilink">Michael Heilemann</a>[42]。</p></td>
+<td><p>新增了一系列重要的新功能。其中一個是能夠管理靜態頁面。這使得用戶可以建立和編輯脫離傳統<a href="../Page/網誌.md" title="wikilink">網誌</a>的時間排列方式的頁面，這也是WordPress從簡單的<a href="../Page/網誌.md" title="wikilink">網誌</a>管理軟體成為一個全面的<a href="https://zh.wikipedia.org/wiki/內容管理系統" title="wikilink">內容管理系統</a>（）的第一步。另一個新增功能是新的模板／主題系統，從而可以讓用戶輕鬆啟動和關閉“面板”（<a href="https://zh.wikipedia.org/wiki/網頁模板" title="wikilink">模板</a>）。在WordPress還配備了新的預設模板（代號為<a href="https://zh.wikipedia.org/wiki/Stanley_Kubrick" title="wikilink">Kubrick</a>[41]）設計者為<a href="https://zh.wikipedia.org/wiki/Michael_Heilemann" title="wikilink">Michael Heilemann</a>[42]。</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -202,7 +176,7 @@ Mingus的姓](https://zh.wikipedia.org/wiki/Charles_Mingus "wikilink")）。
 <td></td>
 <td><p><em></em></p></td>
 <td><p>2009年12月19日</p></td>
-<td><p>内建編輯圖片功能，回收站，批量升級插件，修復、優化<a href="../Page/MySQL.md" title="wikilink">MySQL數據庫等功能</a>。支持全局回退。大量的底層調整。[51]</p></td>
+<td><p>内建編輯圖片功能，回收站，批量升級插件，修復、優化<a href="../Page/MySQL.md" title="wikilink">MySQL</a>數據庫等功能。支持全局回退。大量的底層調整。[51]</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -244,7 +218,7 @@ Mingus的姓](https://zh.wikipedia.org/wiki/Charles_Mingus "wikilink")）。
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Grant_Green" title="wikilink">Green</a></em></p></td>
 <td><p>2012年6月13日</p></td>
-<td><p>可自訂佈景主題及頁首；支援<a href="../Page/Twitter.md" title="wikilink">Twitter和其他小改动</a>。</p></td>
+<td><p>可自訂佈景主題及頁首；支援<a href="../Page/Twitter.md" title="wikilink">Twitter</a>和其他小改动。</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -365,53 +339,39 @@ Mingus的姓](https://zh.wikipedia.org/wiki/Charles_Mingus "wikilink")）。
 
 ## 未来
 
-WordPress 3.0版发布之后，开发团队采用了固定的开发周期以培养改进WordPress社群。\[74\]\[75\]WordPress
-3.1随后发布于2011年2月。2011年7月4日发布了WordPress 3.2。并提高了最低支持的PHP和MySQL版本。\[76\]
+WordPress 3.0版发布之后，开发团队采用了固定的开发周期以培养改进WordPress社群。\[74\]\[75\]WordPress 3.1随后发布于2011年2月。2011年7月4日发布了WordPress 3.2。并提高了最低支持的PHP和MySQL版本。\[76\]
 
 ## 安全性問題
 
 许多安全问题\[77\]\[78\]被发现，特别是在2007年和2008年。根据[Secunia的报告](https://zh.wikipedia.org/wiki/Secunia "wikilink")，2009年4月WordPress中有7个已公布的被认作“不太紧急”的安全缺陷（总共32个）未被修复。\[79\][Secunia维护着一个实时更新的WordPress缺陷列表](https://zh.wikipedia.org/wiki/Secunia "wikilink")。\[80\]\[81\]
 
-2007年1月，几个使用[AdSense的知名度较高的](https://zh.wikipedia.org/wiki/AdSense "wikilink")[SEO博客与知名度较低的商业博客因为WordPress的缺陷而被攻击和利用](https://zh.wikipedia.org/wiki/SEO "wikilink")。\[82\]WordPress
-2.1.1一个问题导致了网站的[网络服务器可被植入恶意的](https://zh.wikipedia.org/wiki/网络服务器 "wikilink")[后门代码](https://zh.wikipedia.org/wiki/后门 "wikilink")。随后的2.1.2版修复了这一问题;并建议所有用户迅速更新到这一版本。\[83\]
+2007年1月，几个使用[AdSense的知名度较高的](https://zh.wikipedia.org/wiki/AdSense "wikilink")[SEO博客与知名度较低的商业博客因为WordPress的缺陷而被攻击和利用](https://zh.wikipedia.org/wiki/SEO "wikilink")。\[82\]WordPress 2.1.1一个问题导致了网站的[网络服务器可被植入恶意的](https://zh.wikipedia.org/wiki/网络服务器 "wikilink")[后门代码](https://zh.wikipedia.org/wiki/后门 "wikilink")。随后的2.1.2版修复了这一问题;并建议所有用户迅速更新到这一版本。\[83\]
 
 2007年5月，一个研究认为98%的WordPress博客已经不再被项目支持，所以可以被注入恶意代码。\[84\]为了解决这个问题，WordPress使升级软件变得更加容易，在2008年12月发布的版本，只需要“一次点击”即可。\[85\]然而，无规律的发布周期让服务器管理员依旧面对着安全问题，并且这种升级方式需要开放文件系统的权限设置，也增加了额外的风险。\[86\]
 
-在2007年6月的一个采访中，Stefan Esser，PHP Security Response
-Team的创始人，批评了WordPress的安全记录，批评了程序的架构使其难以解决[SQL注入](../Page/SQL注入.md "wikilink")
-以及其他缺陷。\[87\]
+在2007年6月的一个采访中，Stefan Esser，PHP Security Response Team的创始人，批评了WordPress的安全记录，批评了程序的架构使其难以解决[SQL注入](../Page/SQL注入.md "wikilink") 以及其他缺陷。\[87\]
 
-个人能通过安装WordPress的安全插件，如 [Better WP
-Security](https://wordpress.org/extend/plugins/better-wp-security/)、[WP
-Security Scan](https://wordpress.org/extend/plugins/wp-security-scan/)
-以获得更好的安全性。\[88\]用户也能通过使用最新版的软件、插件和主题，仅使用被信任的主题和插件，\[89\]，重命名默认的管理员账户来规避安全风险。修改站点的.htaccess文件也可避免几种类型的SQL注入攻击和访问未授权文件的攻击。\[90\]
+个人能通过安装WordPress的安全插件，如 [Better WP Security](https://wordpress.org/extend/plugins/better-wp-security/)、[WP Security Scan](https://wordpress.org/extend/plugins/wp-security-scan/) 以获得更好的安全性。\[88\]用户也能通过使用最新版的软件、插件和主题，仅使用被信任的主题和插件，\[89\]，重命名默认的管理员账户来规避安全风险。修改站点的.htaccess文件也可避免几种类型的SQL注入攻击和访问未授权文件的攻击。\[90\]
 
 ## 开发与支持
 
 ## 主要開發者
 
-[Matthew
-Mullenweg和Mike](https://zh.wikipedia.org/wiki/Matthew_Mullenweg "wikilink")
-Little是這個項目的共同創辦人。WordPress的主要的開發者是Ryan Boren、[Matthew
-Mullenweg](https://zh.wikipedia.org/wiki/Matthew_Mullenweg "wikilink")、Mark
-Jaquith、Andrew Ozz、Peter Westwood和Andrew Nacin。\[91\]
+[Matthew Mullenweg和Mike](https://zh.wikipedia.org/wiki/Matthew_Mullenweg "wikilink") Little是這個項目的共同創辦人。WordPress的主要的開發者是Ryan Boren、[Matthew Mullenweg](https://zh.wikipedia.org/wiki/Matthew_Mullenweg "wikilink")、Mark Jaquith、Andrew Ozz、Peter Westwood和Andrew Nacin。\[91\]
 
-WordPress也由社群开发，他们中包括了測試者。测试者测试[每日版本](https://zh.wikipedia.org/wiki/每日版本 "wikilink")、测试版本及发布候选版本，并将發現的錯誤和問題提交到特殊的[郵件列表](https://zh.wikipedia.org/wiki/郵件列表 "wikilink")，或是提交到WordPress項目的[Trac平台上](../Page/Trac.md "wikilink")。
+WordPress也由社群开发，他们中包括了測試者。测试者测试[每日版本](https://zh.wikipedia.org/wiki/每日版本 "wikilink")、测试版本及发布候选版本，并将發現的錯誤和問題提交到特殊的[郵件列表](https://zh.wikipedia.org/wiki/郵件列表 "wikilink")，或是提交到WordPress項目的[Trac](../Page/Trac.md "wikilink")平台上。
 
-雖然WordPress有很大一部分是由它的愛好者團體所開發和維護的，但WordPress也与[Automattic公司公司有著密切的聯繫](https://zh.wikipedia.org/wiki/Automattic公司 "wikilink")。Automattic由Matt
-Mullenweg创立。2010年9月9日，Automattic将WordPress商标赠送给新建的WordPress基金会。WordPress基金会是一个支持WordPress.org及其上的软件、插件和商标及[bbPress和](https://zh.wikipedia.org/wiki/bbPress "wikilink")[BuddyPress的联盟组织](https://zh.wikipedia.org/wiki/BuddyPress "wikilink")。
+雖然WordPress有很大一部分是由它的愛好者團體所開發和維護的，但WordPress也与[Automattic公司公司有著密切的聯繫](https://zh.wikipedia.org/wiki/Automattic公司 "wikilink")。Automattic由Matt Mullenweg创立。2010年9月9日，Automattic将WordPress商标赠送给新建的WordPress基金会。WordPress基金会是一个支持WordPress.org及其上的软件、插件和商标及[bbPress和](https://zh.wikipedia.org/wiki/bbPress "wikilink")[BuddyPress的联盟组织](https://zh.wikipedia.org/wiki/BuddyPress "wikilink")。
 
 ### WordCamp爱好者及开发人员大会
 
 [WordCamp_2011_Bulgaria.jpg](https://zh.wikipedia.org/wiki/File:WordCamp_2011_Bulgaria.jpg "fig:WordCamp_2011_Bulgaria.jpg")[索非亚召开的WordCamp](https://zh.wikipedia.org/wiki/索非亚 "wikilink")\]\]
 
-“WordCamp”指的是所有与WordPress相关的集合，包括[非会议和正式会议](../Page/非会议.md "wikilink")。\[92\]WordCamp
-2006是召开的第一次会议，举办于2006年8月的[旧金山](../Page/旧金山.md "wikilink")，持续了几乎一天并有超过500人出席。\[93\]\[94\]第一次在旧金山外召开的WordCamp在2007年9月的[北京举办](https://zh.wikipedia.org/wiki/北京 "wikilink")。\[95\]从那时起，有超过150个WordCamps组织遍布全球，开展活动的时间接近一星期。\[96\]WordCamp
-San Francisco，是一个年度的时间，仍旧是官方WordCamp爱好者及开发人员大会\[97\]
+“WordCamp”指的是所有与WordPress相关的集合，包括[非会议](../Page/非会议.md "wikilink")和正式会议。\[92\]WordCamp 2006是召开的第一次会议，举办于2006年8月的[旧金山](../Page/旧金山.md "wikilink")，持续了几乎一天并有超过500人出席。\[93\]\[94\]第一次在旧金山外召开的WordCamp在2007年9月的[北京举办](https://zh.wikipedia.org/wiki/北京 "wikilink")。\[95\]从那时起，有超过150个WordCamps组织遍布全球，开展活动的时间接近一星期。\[96\]WordCamp San Francisco，是一个年度的时间，仍旧是官方WordCamp爱好者及开发人员大会\[97\]
 
 ### 支持
 
-作为[自由及开放源代码软件平台](../Page/自由及开放源代码软件.md "wikilink")，WordPress依赖于互助。主要的支持站点是WordPress.org。\[98\]
+作为[自由及开放源代码软件](../Page/自由及开放源代码软件.md "wikilink")平台，WordPress依赖于互助。主要的支持站点是WordPress.org。\[98\]
 
 ## 參考文獻
 
@@ -433,9 +393,7 @@ San Francisco，是一个年度的时间，仍旧是官方WordCamp爱好者及�
 
 {{-}}
 
-[Category:內容管理系統](https://zh.wikipedia.org/wiki/Category:內容管理系統 "wikilink")
-[Category:網誌軟體](https://zh.wikipedia.org/wiki/Category:網誌軟體 "wikilink")
-[Category:PHP](https://zh.wikipedia.org/wiki/Category:PHP "wikilink")
+[Category:內容管理系統](https://zh.wikipedia.org/wiki/Category:內容管理系統 "wikilink") [Category:網誌軟體](https://zh.wikipedia.org/wiki/Category:網誌軟體 "wikilink") [Category:PHP](https://zh.wikipedia.org/wiki/Category:PHP "wikilink")
 
 1.
 
@@ -543,11 +501,9 @@ San Francisco，是一个年度的时间，仍旧是官方WordCamp爱好者及�
 
 53.
 
-54. WordPress.org: [07/eol-for-php4-and-mysql4/ PHP 4 and MySQL 4 End of
-    Life Announcement](http://wordpress.org/news/2010/)
+54. WordPress.org: [07/eol-for-php4-and-mysql4/ PHP 4 and MySQL 4 End of Life Announcement](http://wordpress.org/news/2010/)
 
-55. WordPress.org:
-    [WordPress 3.3“Sonny”](http://wordpress.org/news/2011/12/sonny/)
+55. WordPress.org: [WordPress 3.3“Sonny”](http://wordpress.org/news/2011/12/sonny/)
 
 56.
 
@@ -589,9 +545,7 @@ San Francisco，是一个年度的时间，仍旧是官方WordCamp爱好者及�
 
 75.
 
-76. PHP 4 and MySQL 4 End of Life Announcement. WordPress. July 23,
-    2010. Retrieved October 6,
-    2010.[2](https://wordpress.org/news/2010/07/eol-for-php4-and-mysql4/)
+76. PHP 4 and MySQL 4 End of Life Announcement. WordPress. July 23, 2010. Retrieved October 6, 2010.[2](https://wordpress.org/news/2010/07/eol-for-php4-and-mysql4/)
 
 77.
 
@@ -632,8 +586,6 @@ San Francisco，是一个年度的时间，仍旧是官方WordCamp爱好者及�
 95.
 
 96.
-97. [WordCamp SF Announced (not
-    WordCon)](http://central.wordcamp.org/news/2011/01/24/wordcampsf-not-wordcon/),
-    Jane Well, January 24, 2011
+97. [WordCamp SF Announced (not WordCon)](http://central.wordcamp.org/news/2011/01/24/wordcampsf-not-wordcon/), Jane Well, January 24, 2011
 
 98.

@@ -1,96 +1,46 @@
-**Tcl**（发音tickle）是一种[脚本语言](../Page/脚本语言.md "wikilink")。由创建。TCL经常被用于快速原型开发
-[RAD](../Page/快速應用程式開發.md "wikilink")、脚本编程、GUI编程和测试等方面。
+**Tcl**（发音tickle）是一种[脚本语言](../Page/脚本语言.md "wikilink")。由创建。TCL经常被用于快速原型开发 [RAD](../Page/快速應用程式開發.md "wikilink")、脚本编程、GUI编程和测试等方面。
 
 ## 特性
 
 Tcl 的特性包括：
 
-  - 任何东西都是一条命令，包括语法结构（for、if等），以[波兰表示法书写](../Page/波兰表示法.md "wikilink")。
+  - 任何东西都是一条命令，包括语法结构（for、if等），以[波兰表示法](../Page/波兰表示法.md "wikilink")书写。
   - 命令通常可变。
   - 任何事物都可以重新定义和重载。
   - 所有的数据类型都可以看作字符串，包括源代码。
-  - 拥有完全动态、基于类的对象系统
-    TclOO，支持包括元类、过滤器和[mixin在内的高级功能](https://zh.wikipedia.org/wiki/mixin "wikilink")。
+  - 拥有完全动态、基于类的对象系统 TclOO，支持包括元类、过滤器和[mixin在内的高级功能](https://zh.wikipedia.org/wiki/mixin "wikilink")。
   - 提供[事件驱动给](https://zh.wikipedia.org/wiki/事件驱动 "wikilink")[套接字和](https://zh.wikipedia.org/wiki/套接字 "wikilink")[文件](https://zh.wikipedia.org/wiki/文件 "wikilink")。基于时间或者用户定义的事件也可以。
-  - 默认的变量作用域是词法作用域，但
-    [uplevel](https://zh.wikipedia.org/wiki/uplevel "wikilink") 和
-    [upvar](https://zh.wikipedia.org/wiki/upvar "wikilink")
-    允许过程与封闭的函数作用域交互。
+  - 默认的变量作用域是词法作用域，但 [uplevel](https://zh.wikipedia.org/wiki/uplevel "wikilink") 和 [upvar](https://zh.wikipedia.org/wiki/upvar "wikilink") 允许过程与封闭的函数作用域交互。
   - 所有的内置命令会在误用时产生错误消息。
   - 很容易用 C、C++ 或者 Java 扩展。
   - 解释语言，支持[字节码](https://zh.wikipedia.org/wiki/字节码 "wikilink")。
-  - 完全的 [Unicode](https://zh.wikipedia.org/wiki/Unicode "wikilink")
-    （3.1）支持，1999 年首次发布。
-  - 跨平台。支持
-    [Win32](https://zh.wikipedia.org/wiki/Win32 "wikilink")、[UNIX](../Page/UNIX.md "wikilink")、[Linux](../Page/Linux.md "wikilink")、[Mac](https://zh.wikipedia.org/wiki/Mac "wikilink")
-    等。
+  - 完全的 [Unicode](https://zh.wikipedia.org/wiki/Unicode "wikilink") （3.1）支持，1999 年首次发布。
+  - 跨平台。支持 [Win32](https://zh.wikipedia.org/wiki/Win32 "wikilink")、[UNIX](../Page/UNIX.md "wikilink")、[Linux](../Page/Linux.md "wikilink")、[Mac](https://zh.wikipedia.org/wiki/Mac "wikilink") 等。
   - 和GUI开发套件 [Tk](../Page/Tk.md "wikilink") 紧密集成。
   - 代码紧凑，易于维护。
   - 存在多种发行版：
       - Batteries-Included 版本，如 ActiveState ActiveTcl
       - tclkit，一种单文件运行时环境，仅有 1 兆大小
       - starpack，脚本/程序的单文件的可执行文件，派生自 tclkit 技术
-      - [freewrapTCLSH](http://freewrap.sourceforge.net/) 将 Tcl
-        脚本打包为单个可执行二进制文件。
-      - [BSD
-        licenses](https://zh.wikipedia.org/wiki/BSD_licenses "wikilink")，自由可再发行的源代码。
+      - [freewrapTCLSH](http://freewrap.sourceforge.net/) 将 Tcl 脚本打包为单个可执行二进制文件。
+      - [BSD licenses](https://zh.wikipedia.org/wiki/BSD_licenses "wikilink")，自由可再发行的源代码。
 
-旧版 Tcl
-没有内置[面向对象功能](https://zh.wikipedia.org/wiki/面向对象编程 "wikilink")，因此许多
-OO 库以扩展形式涌现出来，如 [incr
-Tcl](https://zh.wikipedia.org/wiki/incr_Tcl "wikilink") 和
-[XOTcl](https://zh.wikipedia.org/wiki/XOTcl "wikilink")，甚至存在纯脚本编写的 OO
-包，如 [Snit](https://zh.wikipedia.org/wiki/Snit "wikilink") 和
-[STOOOP](https://zh.wikipedia.org/wiki/STOOOP "wikilink")（simple
-Tcl-only object-oriented programming），[8.6 版本在内核中提供了 OO
-功能](http://www.tcl.tk/man/tcl8.6/TclCmd/class.htm#M13)。
+旧版 Tcl 没有内置[面向对象功能](https://zh.wikipedia.org/wiki/面向对象编程 "wikilink")，因此许多 OO 库以扩展形式涌现出来，如 [incr Tcl](https://zh.wikipedia.org/wiki/incr_Tcl "wikilink") 和 [XOTcl](https://zh.wikipedia.org/wiki/XOTcl "wikilink")，甚至存在纯脚本编写的 OO 包，如 [Snit](https://zh.wikipedia.org/wiki/Snit "wikilink") 和 [STOOOP](https://zh.wikipedia.org/wiki/STOOOP "wikilink")（simple Tcl-only object-oriented programming），[8.6 版本在内核中提供了 OO 功能](http://www.tcl.tk/man/tcl8.6/TclCmd/class.htm#M13)。
 
-Safe-Tcl 是功能受限的 Tcl
-子集。文件系统访问受限，任意系统命令禁止执行。它使用双解释器模型，在“不可信解释器”中运行不可信脚本中的代码。由
-[Nathaniel
-Borenstein](https://zh.wikipedia.org/wiki/Nathaniel_Borenstein "wikilink")
-和 [Marshall
-Rose](https://zh.wikipedia.org/wiki/Marshall_Rose "wikilink")
-设计，借以在电子邮件中包含活动信息，当支持 *application/safe-tcl* 与
-*multipart-enabled-mail* 时，Safe-Tcl 即可包含于电子邮件中。Safe-Tcl 功能已整合在标准 Tcl/Tk
-发布中。\[1\]\[2\]
+Safe-Tcl 是功能受限的 Tcl 子集。文件系统访问受限，任意系统命令禁止执行。它使用双解释器模型，在“不可信解释器”中运行不可信脚本中的代码。由 [Nathaniel Borenstein](https://zh.wikipedia.org/wiki/Nathaniel_Borenstein "wikilink") 和 [Marshall Rose](https://zh.wikipedia.org/wiki/Marshall_Rose "wikilink") 设计，借以在电子邮件中包含活动信息，当支持 *application/safe-tcl* 与 *multipart-enabled-mail* 时，Safe-Tcl 即可包含于电子邮件中。Safe-Tcl 功能已整合在标准 Tcl/Tk 发布中。\[1\]\[2\]
 
 ## 扩展包
 
 Tcl 支持扩展包，这些扩展包提供了附加功能（像是GUI，终端程序自动化，数据库访问等）。常用的扩展包有：
 
-  - Tk: [Tk](../Page/Tk.md "wikilink") 工具包是最流行的 Tcl
-    扩展，在多种[操作系统上提供](../Page/操作系统.md "wikilink")[图形用户界面](../Page/图形用户界面.md "wikilink")。每个
-    GUI 由一个或多个*框架*组成，每个*框架*内含布局管理器。
-    Expect: [Expect是另外一种非常流行的](../Page/Expect.md "wikilink") Tcl
-    扩展。早期，Expect 对 Tcl 在多种领域的流行居功甚伟，如在测试领域中，时至今日 Expect
-    依然被大量使用于 telnet、ssh 与串口会话的重复任务自动化，即对仅有终端交互接口的程序进行编程。Tcl
-    是运行 Expect 的唯一方式，因此 Tcl 在此类工业领域中十分流行。
-    Tile/Ttk: Tile/Ttk\[3\] 是风格和主题化控件集，可替代 Tk
-    中大多数控件，真正调用[操作系统的](../Page/操作系统.md "wikilink")
-    [API](https://zh.wikipedia.org/wiki/API "wikilink")
-    实现原生界面。这种方式提供的主题包括 [Windows
-    XP](../Page/Windows_XP.md "wikilink")、Windows
-    Classic、[Qt](https://zh.wikipedia.org/wiki/Qt_\(toolkit\) "wikilink")
-    和 [Aqua](https://zh.wikipedia.org/wiki/Aqua "wikilink")（Mac OS
-    X）。主题也可使用图片
-    [pixmap](https://zh.wikipedia.org/wiki/pixmap "wikilink")
-    加上一定定义构造，避免调用系统 API。以这种方式创建的主题有 Classic
-    Tk、Step、Alt/Revitalized、Plastik 和 Keramik。Tcl 8.4 中，此包称作 Tile，在
-    8.5 中以 Ttk 的名字进入 Tk 核心发布。
-    Tix: Tix（Tk Interface eXtension）是一套开源的、用于扩充 Tcl/Tk 和 Python
-    应用程序功能的用户界面组件。由 Tix Project Group 维护，以 BSD
-    风格许可发布。\[4\]
-    Itcl/IncrTcl: [Itcl](https://zh.wikipedia.org/wiki/Itcl "wikilink")
-    是 Tcl 诸多对象系统中的一种，通常称为 \[incr Tcl\]（递增 Tcl 之意，类似 C++ 之名）。
+  - Tk: [Tk](../Page/Tk.md "wikilink") 工具包是最流行的 Tcl 扩展，在多种[操作系统](../Page/操作系统.md "wikilink")上提供[图形用户界面](../Page/图形用户界面.md "wikilink")。每个 GUI 由一个或多个*框架*组成，每个*框架*内含布局管理器。
+    Expect: [Expect](../Page/Expect.md "wikilink")是另外一种非常流行的 Tcl 扩展。早期，Expect 对 Tcl 在多种领域的流行居功甚伟，如在测试领域中，时至今日 Expect 依然被大量使用于 telnet、ssh 与串口会话的重复任务自动化，即对仅有终端交互接口的程序进行编程。Tcl 是运行 Expect 的唯一方式，因此 Tcl 在此类工业领域中十分流行。
+    Tile/Ttk: Tile/Ttk\[3\] 是风格和主题化控件集，可替代 Tk 中大多数控件，真正调用[操作系统](../Page/操作系统.md "wikilink")的 [API](https://zh.wikipedia.org/wiki/API "wikilink") 实现原生界面。这种方式提供的主题包括 [Windows XP](../Page/Windows_XP.md "wikilink")、Windows Classic、[Qt](https://zh.wikipedia.org/wiki/Qt_\(toolkit\) "wikilink") 和 [Aqua](https://zh.wikipedia.org/wiki/Aqua "wikilink")（Mac OS X）。主题也可使用图片 [pixmap](https://zh.wikipedia.org/wiki/pixmap "wikilink") 加上一定定义构造，避免调用系统 API。以这种方式创建的主题有 Classic Tk、Step、Alt/Revitalized、Plastik 和 Keramik。Tcl 8.4 中，此包称作 Tile，在 8.5 中以 Ttk 的名字进入 Tk 核心发布。
+    Tix: Tix（Tk Interface eXtension）是一套开源的、用于扩充 Tcl/Tk 和 Python 应用程序功能的用户界面组件。由 Tix Project Group 维护，以 BSD 风格许可发布。\[4\]
+    Itcl/IncrTcl: [Itcl](https://zh.wikipedia.org/wiki/Itcl "wikilink") 是 Tcl 诸多对象系统中的一种，通常称为 \[incr Tcl\]（递增 Tcl 之意，类似 C++ 之名）。
     Tcllib: [Tcllib](../Page/Tcllib.md "wikilink") 是一套纯脚本 Tcl 包，无需编译。
-    TclUDP: TclUDP\[5\] 提供简捷的方式支持
-    [UDP](https://zh.wikipedia.org/wiki/UDP "wikilink") 套接字。
-    数据库: Tcl 数据库互联（Tcl Database Connectivity，TDBC）是 Tcl 8.6 的一部分，为 Tcl
-    脚本提供常用数据库的访问接口，目前驱动器支持
-    [MySQL](../Page/MySQL.md "wikilink")、[ODBC](../Page/ODBC.md "wikilink")、[PostgreSQL](../Page/PostgreSQL.md "wikilink")
-    和 [SQLite](../Page/SQLite.md "wikilink")
-    数据库。更多数据库已经有了计划。同样，也可使用许许多多数据库专用的扩展包访问数据库。\[6\]
+    TclUDP: TclUDP\[5\] 提供简捷的方式支持 [UDP](https://zh.wikipedia.org/wiki/UDP "wikilink") 套接字。
+    数据库: Tcl 数据库互联（Tcl Database Connectivity，TDBC）是 Tcl 8.6 的一部分，为 Tcl 脚本提供常用数据库的访问接口，目前驱动器支持 [MySQL](../Page/MySQL.md "wikilink")、[ODBC](../Page/ODBC.md "wikilink")、[PostgreSQL](../Page/PostgreSQL.md "wikilink") 和 [SQLite](../Page/SQLite.md "wikilink") 数据库。更多数据库已经有了计划。同样，也可使用许许多多数据库专用的扩展包访问数据库。\[6\]
 
 ## 範例
 
@@ -131,8 +81,7 @@ Tcl 支持扩展包，这些扩展包提供了附加功能（像是GUI，终端�
     # unused.
     vwait forever
 
-另外一个 Tk 的例子（来自[A simple A/D
-clock](https://web.archive.org/web/20020302153228/http://mini.net/tcl/2563.html)）它使用了定时器时间，3行就显示了一个时钟。
+另外一个 Tk 的例子（来自[A simple A/D clock](https://web.archive.org/web/20020302153228/http://mini.net/tcl/2563.html)）它使用了定时器时间，3行就显示了一个时钟。
 
 ```
  proc every {ms body} {eval $body; after $ms [info level 0]}
@@ -140,29 +89,20 @@ clock](https://web.archive.org/web/20020302153228/http://mini.net/tcl/2563.html)
  every 1000 {set ::time [clock format [clock sec] -format %H:%M:%S]} ;# RS
 ```
 
-解释：第一行定义了过程every，
-每隔ms毫秒，就重新执行body代码。第二行创建了标签其内容由time变量决定。第3行中设置定时器，time变量从当前时间中每秒更新一次。
+解释：第一行定义了过程every， 每隔ms毫秒，就重新执行body代码。第二行创建了标签其内容由time变量决定。第3行中设置定时器，time变量从当前时间中每秒更新一次。
 
 ## 参考资料
 
 ## 外部链接
 
   -
-  - [Tcl Sources](http://core.tcl.tk/), main Tcl and Tk source code
-    download website
+  - [Tcl Sources](http://core.tcl.tk/), main Tcl and Tk source code download website
 
   - [Tcler's Wiki](http://wiki.tcl.tk/)
 
   - [TkDocs](http://www.tkdocs.com/)
 
-[Category:美国发明](https://zh.wikipedia.org/wiki/Category:美国发明 "wikilink")
-[Category:跨平台軟體](https://zh.wikipedia.org/wiki/Category:跨平台軟體 "wikilink")
-[Category:动态类型编程语言](https://zh.wikipedia.org/wiki/Category:动态类型编程语言 "wikilink")
-[Category:自由編譯器與直譯器](https://zh.wikipedia.org/wiki/Category:自由編譯器與直譯器 "wikilink")
-[Category:面向对象的编程语言](https://zh.wikipedia.org/wiki/Category:面向对象的编程语言 "wikilink")
-[Category:过程式编程语言](https://zh.wikipedia.org/wiki/Category:过程式编程语言 "wikilink")
-[Category:脚本语言](https://zh.wikipedia.org/wiki/Category:脚本语言 "wikilink")
-[Category:Tcl编程语言家族](https://zh.wikipedia.org/wiki/Category:Tcl编程语言家族 "wikilink")
+[Category:美国发明](https://zh.wikipedia.org/wiki/Category:美国发明 "wikilink") [Category:跨平台軟體](https://zh.wikipedia.org/wiki/Category:跨平台軟體 "wikilink") [Category:动态类型编程语言](https://zh.wikipedia.org/wiki/Category:动态类型编程语言 "wikilink") [Category:自由編譯器與直譯器](https://zh.wikipedia.org/wiki/Category:自由編譯器與直譯器 "wikilink") [Category:面向对象的编程语言](https://zh.wikipedia.org/wiki/Category:面向对象的编程语言 "wikilink") [Category:过程式编程语言](https://zh.wikipedia.org/wiki/Category:过程式编程语言 "wikilink") [Category:脚本语言](https://zh.wikipedia.org/wiki/Category:脚本语言 "wikilink") [Category:Tcl编程语言家族](https://zh.wikipedia.org/wiki/Category:Tcl编程语言家族 "wikilink")
 
 1.
 2.

@@ -1,16 +1,10 @@
-[Adi_Shamir_2009_crop.jpg](https://zh.wikipedia.org/wiki/File:Adi_Shamir_2009_crop.jpg "fig:Adi_Shamir_2009_crop.jpg")（Adi
-Shamir）\]\]
-**RSA加密演算法**是一种[非对称加密演算法](https://zh.wikipedia.org/wiki/非对称加密演算法 "wikilink")，在[公开密钥加密和](../Page/公开密钥加密.md "wikilink")[电子商业中被广泛使用](https://zh.wikipedia.org/wiki/电子商业 "wikilink")。RSA是1977年由[罗纳德·李维斯特](../Page/罗纳德·李维斯特.md "wikilink")（Ron
-Rivest）、[阿迪·萨莫尔](../Page/阿迪·萨莫尔.md "wikilink")（Adi
-Shamir）和[伦纳德·阿德曼](../Page/伦纳德·阿德曼.md "wikilink")（Leonard
-Adleman）一起提出的。当时他们三人都在[麻省理工学院工作](../Page/麻省理工学院.md "wikilink")。RSA就是他们三人姓氏开头字母拼在一起组成的。\[1\]
+[Adi_Shamir_2009_crop.jpg](https://zh.wikipedia.org/wiki/File:Adi_Shamir_2009_crop.jpg "fig:Adi_Shamir_2009_crop.jpg")（Adi Shamir）\]\] **RSA加密演算法**是一种[非对称加密演算法](https://zh.wikipedia.org/wiki/非对称加密演算法 "wikilink")，在[公开密钥加密](../Page/公开密钥加密.md "wikilink")和[电子商业中被广泛使用](https://zh.wikipedia.org/wiki/电子商业 "wikilink")。RSA是1977年由[罗纳德·李维斯特](../Page/罗纳德·李维斯特.md "wikilink")（Ron Rivest）、[阿迪·萨莫尔](../Page/阿迪·萨莫尔.md "wikilink")（Adi Shamir）和[伦纳德·阿德曼](../Page/伦纳德·阿德曼.md "wikilink")（Leonard Adleman）一起提出的。当时他们三人都在[麻省理工学院](../Page/麻省理工学院.md "wikilink")工作。RSA就是他们三人姓氏开头字母拼在一起组成的。\[1\]
 
-1973年，在英国政府通讯总部工作的数学家克利福德·柯克斯（Clifford
-Cocks）在一个内部文件中提出了一个与之等效的算法，但该算法被列入机密，直到1997年才得到公开。\[2\]
+1973年，在英国政府通讯总部工作的数学家克利福德·柯克斯（Clifford Cocks）在一个内部文件中提出了一个与之等效的算法，但该算法被列入机密，直到1997年才得到公开。\[2\]
 
 對极大整数做[因数分解的难度決定了RSA算法的可靠性](https://zh.wikipedia.org/wiki/因数分解 "wikilink")。換言之，對一极大整数做因数分解愈困难，RSA算法愈可靠。假如有人找到一种快速因数分解的算法的话，那么用RSA加密的-{zh-hans:信息;zh-tw:訊息}-的可靠性就会极度下降。但找到这样的算法的可能性是非常小的。今天只有短的RSA钥匙才可能被强力方式破解。到目前为止，世界上还没有任何可靠的攻击RSA算法的方式。只要其钥匙的长度足够长，用RSA加密的-{zh-hans:信息;zh-tw:訊息}-实际上是不能被破解的。
 
-1983年9月12日麻省理工学院在[美国为RSA算法申请了](../Page/美国.md "wikilink")[专利](../Page/专利.md "wikilink")。\[3\]这个专利于2000年9月21日失效。\[4\]由于该算法在申请专利前就已经被發表了\[5\]，在世界上大多数其它地区这个专利权不被承认。
+1983年9月12日麻省理工学院在[美国](../Page/美国.md "wikilink")为RSA算法申请了[专利](../Page/专利.md "wikilink")。\[3\]这个专利于2000年9月21日失效。\[4\]由于该算法在申请专利前就已经被發表了\[5\]，在世界上大多数其它地区这个专利权不被承认。
 
 ## 操作
 
@@ -53,8 +47,7 @@ Alice得到Bob的消息\(c\)后就可以利用她的密钥\(d\)来解码。她�
 
 ### 签名消息
 
-RSA也可以用来为一个消息署名。假如Alice想给Bob传递一个署名的消息的话，那么她可以为她的消息计算一个[散列值](../Page/散列.md "wikilink")（Message
-digest），然后用她的私钥“加密”（如同前面“加密消息”的步骤）这个散列值并将这个“署名”加在消息的后面。这个消息只有用她的公钥才能被解密。Bob获得这个消息后可以用Alice的公钥“解密”（如同前面“解密消息”的步骤）这个散列值，然后将这个数据与他自己为这个消息计算的散列值相比较。假如两者相符的话，那麼Bob就可以知道发信人持有Alice的私钥，以及这个消息在传播路径上没有被篡改过。
+RSA也可以用来为一个消息署名。假如Alice想给Bob传递一个署名的消息的话，那么她可以为她的消息计算一个[散列](../Page/散列.md "wikilink")值（Message digest），然后用她的私钥“加密”（如同前面“加密消息”的步骤）这个散列值并将这个“署名”加在消息的后面。这个消息只有用她的公钥才能被解密。Bob获得这个消息后可以用Alice的公钥“解密”（如同前面“解密消息”的步骤）这个散列值，然后将这个数据与他自己为这个消息计算的散列值相比较。假如两者相符的话，那麼Bob就可以知道发信人持有Alice的私钥，以及这个消息在传播路径上没有被篡改过。
 
 ## 安全
 
@@ -69,11 +62,9 @@ digest），然后用她的私钥“加密”（如同前面“加密消息”�
 
 因此今天一般认为只要\(N\)足够大，那么駭客就没有办法了。
 
-假如\(N\)的长度小于或等于256[位](https://zh.wikipedia.org/wiki/位 "wikilink")，那么用一台[个人电脑在几个小时内就可以分解它的因子了](../Page/个人电脑.md "wikilink")。1999年，数百台电脑合作分解了一个512位长的\(N\)。一个由Shamir
-和Tromer在2003年从理论上构建的硬件TWIRL\[6\]，使人们开始质疑1024位长的N的安全性，目前推荐\(N\)的长度至少为2048位。\[7\]
+假如\(N\)的长度小于或等于256[位](https://zh.wikipedia.org/wiki/位 "wikilink")，那么用一台[个人电脑](../Page/个人电脑.md "wikilink")在几个小时内就可以分解它的因子了。1999年，数百台电脑合作分解了一个512位长的\(N\)。一个由Shamir 和Tromer在2003年从理论上构建的硬件TWIRL\[6\]，使人们开始质疑1024位长的N的安全性，目前推荐\(N\)的长度至少为2048位。\[7\]
 
-1994年[彼得·秀爾](../Page/彼得·秀爾.md "wikilink")（Peter
-Shor）证明一台[量子计算机可以在多項式時間内进行因数分解](../Page/量子计算机.md "wikilink")。假如量子计算机有朝一日可以成为一种可行的技术的话，那么秀爾的算法可以淘汰RSA和相关的衍生算法。（即依赖于分解大整数困难性的加密算法）
+1994年[彼得·秀爾](../Page/彼得·秀爾.md "wikilink")（Peter Shor）证明一台[量子计算机](../Page/量子计算机.md "wikilink")可以在多項式時間内进行因数分解。假如量子计算机有朝一日可以成为一种可行的技术的话，那么秀爾的算法可以淘汰RSA和相关的衍生算法。（即依赖于分解大整数困难性的加密算法）
 
 假如有人能够找到一种有效的分解大整数的算法的话，或者假如量子计算机可行的话，那么在解密和制造更长的钥匙之间就会展开一场竞争。但从原理上来说RSA在这种情况下是不可靠的。
 
@@ -105,9 +96,7 @@ Shor）证明一台[量子计算机可以在多項式時間内进行因数分解
 
 ### 大数因数分解
 
-针对RSA最流行的攻击一般是基于大数因数分解。1999年，RSA-155 (512 bits)被成功分解，花了五个月时间（约8000
-[MIPS年](https://zh.wikipedia.org/wiki/每秒指令 "wikilink")）和224 CPU
-hours在一台有3.2G中央内存的Cray C916计算机上完成。\[8\]
+针对RSA最流行的攻击一般是基于大数因数分解。1999年，RSA-155 (512 bits)被成功分解，花了五个月时间（约8000 [MIPS年](https://zh.wikipedia.org/wiki/每秒指令 "wikilink")）和224 CPU hours在一台有3.2G中央内存的Cray C916计算机上完成。\[8\]
 
 RSA-158表示如下：
 
@@ -117,8 +106,7 @@ RSA-158表示如下：
 `= 3388495837466721394368393204672181522815830368604993048084925840555281177`<big>`×`</big>
 `  11658823406671259903148376558383270818131012258146392600439520994131344334162924536139`
 
-2009年12月12日，编号为RSA-768（768 bits, 232
-digits）数也被成功分解\[9\]。这一事件威胁了现通行的1024-bit密钥的安全性，普遍认为用户应尽快升级到2048-bit或以上。
+2009年12月12日，编号为RSA-768（768 bits, 232 digits）数也被成功分解\[9\]。这一事件威胁了现通行的1024-bit密钥的安全性，普遍认为用户应尽快升级到2048-bit或以上。
 
 RSA-768表示如下：
 
@@ -148,8 +136,7 @@ RSA-768表示如下：
   - [RSA, The Security Division of EMC](http://www.rsasecurity.com)
   - [RSA算法详解](http://www.guideep.com/read?guide=5676830073815040)
 
-[Category:密码学](https://zh.wikipedia.org/wiki/Category:密码学 "wikilink")
-[Category:算法](https://zh.wikipedia.org/wiki/Category:算法 "wikilink")
+[Category:密码学](https://zh.wikipedia.org/wiki/Category:密码学 "wikilink") [Category:算法](https://zh.wikipedia.org/wiki/Category:算法 "wikilink")
 
 1.
 2.
@@ -157,12 +144,7 @@ RSA-768表示如下：
 4.
 5.
 6.
-7.  [Has the RSA algorithm been compromised as a result of Bernstein's
-    Paper?](http://www.emc.com/emc-plus/rsa-labs/historical/has-the-rsa-algorithm-been-compromised.htm)
-    What key size should I be using?
+7.  [Has the RSA algorithm been compromised as a result of Bernstein's Paper?](http://www.emc.com/emc-plus/rsa-labs/historical/has-the-rsa-algorithm-been-compromised.htm) What key size should I be using?
 8.  <http://lukenotricks.blogspot.se/2009/08/solo-desktop-factorization-of-rsa-512.html>
 9.
-10. [Remote timing attacks are
-    practical.](http://crypto.stanford.edu/~dabo/papers/ssl-timing.pdf).
-    SSYM'03 Proceedings of the 12th conference on USENIX Security
-    Symposium.
+10. [Remote timing attacks are practical.](http://crypto.stanford.edu/~dabo/papers/ssl-timing.pdf). SSYM'03 Proceedings of the 12th conference on USENIX Security Symposium.

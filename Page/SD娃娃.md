@@ -1,6 +1,4 @@
-**SD娃娃**（****、Super
-Dollfie），是[日本Volks公司從](../Page/日本.md "wikilink")1998年開始推出的[球型關節可動人偶](https://zh.wikipedia.org/wiki/球型關節可動人偶 "wikilink")，由[圓句昭浩負責開發](https://zh.wikipedia.org/wiki/圓句昭浩 "wikilink")，Dollfie是他們的註冊商標。Dollfie這個名字是由「Doll」和「Figure」組成，再加上「作為人偶作品中的最高產品」的期望，正式命名為「Super
-Dollfie」。這些人偶玩具在解剖學細節上的處理比較精確，比例大約為常人的1/3，高約58cm-60cm，mini型SD娃娃則高約43cm，使用[聚氨基甲酸乙酯樹脂製作](../Page/聚氨酯.md "wikilink")。其主要特色在於可讓玩家自行改裝，因為SD娃娃的眼珠、頭髮、身體關節等部分都是可以分開的，臉部也可以讓玩家自行化妝。但是因為製作材料的關係，被日光直射或經過一段時間等，有可能會有變黃等劣化的情形發生。
+**SD娃娃**（****、Super Dollfie），是[日本](../Page/日本.md "wikilink")Volks公司從1998年開始推出的[球型關節可動人偶](https://zh.wikipedia.org/wiki/球型關節可動人偶 "wikilink")，由[圓句昭浩負責開發](https://zh.wikipedia.org/wiki/圓句昭浩 "wikilink")，Dollfie是他們的註冊商標。Dollfie這個名字是由「Doll」和「Figure」組成，再加上「作為人偶作品中的最高產品」的期望，正式命名為「Super Dollfie」。這些人偶玩具在解剖學細節上的處理比較精確，比例大約為常人的1/3，高約58cm-60cm，mini型SD娃娃則高約43cm，使用[聚氨基甲酸乙酯樹脂製作](../Page/聚氨酯.md "wikilink")。其主要特色在於可讓玩家自行改裝，因為SD娃娃的眼珠、頭髮、身體關節等部分都是可以分開的，臉部也可以讓玩家自行化妝。但是因為製作材料的關係，被日光直射或經過一段時間等，有可能會有變黃等劣化的情形發生。
 
 1999年2月發表時，在模型雜誌上打廣告、公開客製辦法等等，與其說是娃娃還不如說是以模型的方式來宣傳。販賣量與生產量也相當的少，幾乎是以預約的方式販售。
 
@@ -18,8 +16,7 @@ Dollfie」。這些人偶玩具在解剖學細節上的處理比較精確，比�
 ` Sgou`
 
   - Mini Super Dollfie - 約43公分高，簡稱MSD，體型近似6\~7歲的孩童；有普通版和限定版。
-  - SD Cute -
-    約44公分高，簡稱SDC。體型近似於SD13再縮小一次的尺寸，比MSD還纖細。衣服可與MSD部份共用；假髮可與幼SD共用；目前只有限定販售。
+  - SD Cute - 約44公分高，簡稱SDC。體型近似於SD13再縮小一次的尺寸，比MSD還纖細。衣服可與MSD部份共用；假髮可與幼SD共用；目前只有限定販售。
   - 幼SD：30公分高，體型近似幼兒；目前只有限定販售。
 
 <!-- end list -->
@@ -53,39 +50,30 @@ SD只有在Volks直營的Show Room(SR)、通信販賣、大型活動或台灣代
 
 也有部分頭部零件、限定肌色的零件只在「天使之里」才可訂購，這些零件被稱為「里限定」。
 
-  - 限定 -
-    配合大型活動發售。與以上不同，限定SD有專屬的衣服，並且只製作一定的數量，也不會再度生產一模一樣的娃娃，所以在網路拍賣上有機會成長到比原價高數倍的價錢。
+  - 限定 - 配合大型活動發售。與以上不同，限定SD有專屬的衣服，並且只製作一定的數量，也不會再度生產一模一樣的娃娃，所以在網路拍賣上有機會成長到比原價高數倍的價錢。
 
 2004年以後，有些限定產品有在限定期限內接受訂購，但是不知道以後還會不會有相同的機會。
 
-  - One Off -
-    以特定的人物為基準特別搭配的娃娃。可能會使用已經不再生產或還在實驗階段的頭部零件，衣服等配件也多半僅此一件。不定期的在「天使的住處」展出，經過一段期間後以拍賣或抽選的方式販賣。
+  - One Off - 以特定的人物為基準特別搭配的娃娃。可能會使用已經不再生產或還在實驗階段的頭部零件，衣服等配件也多半僅此一件。不定期的在「天使的住處」展出，經過一段期間後以拍賣或抽選的方式販賣。
 
 <span style="font-size:larger;">**其他合作娃娃**</span>
 
-  - Ian -
-    因為雜誌的企劃而製作。是以日本漫畫家[冬目景的作品](../Page/冬目景.md "wikilink")「文車館來訪記」中的娃娃為模特兒製作。
+  - Ian - 因為雜誌的企劃而製作。是以日本漫畫家[冬目景](../Page/冬目景.md "wikilink")的作品「文車館來訪記」中的娃娃為模特兒製作。
   - 2003年製作了漫畫「[Chobits](../Page/Chobits.md "wikilink")」中的主人公「唧」的SD，與小說「[聖母在上](https://zh.wikipedia.org/wiki/聖母在上 "wikilink")」的主人公福澤佑己和其學姐小笠原祥子的SD，為限定販賣之作品。
-  - 電影「[下妻物語](https://zh.wikipedia.org/wiki/下妻物語 "wikilink")」上映期間，以主人公龍龍崎桃子為模特兒的SD以及蘿莉塔服裝成套販賣。因為有限定數量，所以在SD上有流水編號。蘿莉塔服裝由「BABY,
-    THE STAR SHINES BRIGHT」品牌擔任。
+  - 電影「[下妻物語](https://zh.wikipedia.org/wiki/下妻物語 "wikilink")」上映期間，以主人公龍龍崎桃子為模特兒的SD以及蘿莉塔服裝成套販賣。因為有限定數量，所以在SD上有流水編號。蘿莉塔服裝由「BABY, THE STAR SHINES BRIGHT」品牌擔任。
   - 2005年冬製作了以「[薔薇少女](../Page/薔薇少女.md "wikilink")」主人公真紅為模特兒的SD。限定數量以抽選方式販賣。
-  - 2006年冬與服裝品牌「[h.NAOTO](https://zh.wikipedia.org/wiki/h.NAOTO "wikilink")」合作推出SD
-    Kurumi。限定數量以抽選方式販賣。
-  - 2007年冬與服裝品牌「BABY, THE STARS SHINE
-    BRIGHT」合作，於豪斯登堡感謝祭中推出Toppi散步Ver.。限定數量以抽選方式販賣。
+  - 2006年冬與服裝品牌「[h.NAOTO](https://zh.wikipedia.org/wiki/h.NAOTO "wikilink")」合作推出SD Kurumi。限定數量以抽選方式販賣。
+  - 2007年冬與服裝品牌「BABY, THE STARS SHINE BRIGHT」合作，於豪斯登堡感謝祭中推出Toppi散步Ver.。限定數量以抽選方式販賣。
   - 2007年春與服裝品牌「BABY, THE STARS SHINE BRIGHT」合作推出SD Luna。限定數量以抽選方式販賣。
   - 2007年春製作了以「[薔薇少女](../Page/薔薇少女.md "wikilink")」雙子人形蒼星石與翠星石為模特兒的SD。限定數量以DollParty會場限定販售及抽選方式販賣。
   - 2007年冬製作了以「[薔薇少女](../Page/薔薇少女.md "wikilink")」水銀燈與雛苺為模特兒的SD。限定數量以DollParty會場限定販售及抽選方式販賣。
-  - 2010年夏與服裝品牌「BABY, THE STARS SHINE BRIGHT」合作推出SD Lieselotte 與
-    Charlotte。限定數量以DollParty會場限定販售及會後抽選方式販賣。
+  - 2010年夏與服裝品牌「BABY, THE STARS SHINE BRIGHT」合作推出SD Lieselotte 與 Charlotte。限定數量以DollParty會場限定販售及會後抽選方式販賣。
 
 SD娃娃的推出刺激了其他公司，特別是南韓公司。2003年，球型關節可動人偶的公司增加了很多。
 
 ## 外部連結
 
-  - [Super
-    Dollfie/VOLKS官方網站](https://web.archive.org/web/20090712053143/http://www.volks.co.jp/jp/superdollfie/index_superdollfie.aspx)
+  - [Super Dollfie/VOLKS官方網站](https://web.archive.org/web/20090712053143/http://www.volks.co.jp/jp/superdollfie/index_superdollfie.aspx)
   - [VOLKS的玩偶 Super Dollfie/VOLKS官方推廣網站](http://www.superdollfie.net/)
 
-[Category:日本人偶](https://zh.wikipedia.org/wiki/Category:日本人偶 "wikilink")
-[Category:1998年日本建立‎](https://zh.wikipedia.org/wiki/Category:1998年日本建立‎ "wikilink")
+[Category:日本人偶](https://zh.wikipedia.org/wiki/Category:日本人偶 "wikilink") [Category:1998年日本建立‎](https://zh.wikipedia.org/wiki/Category:1998年日本建立‎ "wikilink")

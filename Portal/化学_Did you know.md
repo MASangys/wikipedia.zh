@@ -1,8 +1,6 @@
 <div align="right">
 
-**[存档](https://zh.wikipedia.org/wiki/Portal:化学/Did_you_know/存档 "wikilink")
-| [创建新条目](https://zh.wikipedia.org/wiki/Help:如何创建新页面 "wikilink") |
-[更多新条目...](https://zh.wikipedia.org/wiki/Special:Newpages "wikilink")**
+**[存档](https://zh.wikipedia.org/wiki/Portal:化学/Did_you_know/存档 "wikilink") | [创建新条目](https://zh.wikipedia.org/wiki/Help:如何创建新页面 "wikilink") | [更多新条目...](https://zh.wikipedia.org/wiki/Special:Newpages "wikilink")**
 
 </div>
 
@@ -40,5 +38,4 @@
 
 \-{注}-意圖片只須輸入檔案名稱，不用加`Image:`或`File:`。沒有圖像的推薦請把它的 p***x*** 參數留空。
 
-這個板塊是透過嵌入[Template:Dyk/auto模板而產生的](https://zh.wikipedia.org/wiki/Template:Dyk/auto "wikilink")，如需修改[Template:Dyk/auto的程式碼](https://zh.wikipedia.org/wiki/Template:Dyk/auto "wikilink")，請聯繫管理員。
-</noinclude>
+這個板塊是透過嵌入[Template:Dyk/auto模板而產生的](https://zh.wikipedia.org/wiki/Template:Dyk/auto "wikilink")，如需修改[Template:Dyk/auto的程式碼](https://zh.wikipedia.org/wiki/Template:Dyk/auto "wikilink")，請聯繫管理員。 </noinclude>

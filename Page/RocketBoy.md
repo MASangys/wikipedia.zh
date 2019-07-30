@@ -2,7 +2,7 @@
 
 ## 早年经历
 
-1983年1月29日，孟阳出生于[成都市东城区](../Page/成都市.md "wikilink")。孟阳10岁的时候，他的父亲因刑事案件被判[无期徒刑](https://zh.wikipedia.org/wiki/无期徒刑 "wikilink")，而母亲身体不好，无法从事繁重的工作\[2\]。1997年，初二上半学期结束后，14岁的孟阳就退学了\[3\]。退学后的孟阳和母亲一起经营一家录像厅。4月，孟阳买了一本《[家用电脑与游戏机](../Page/家用电脑与游戏.md "wikilink")》杂志，里边有一篇介绍《[雷神之锤II](../Page/雷神之锤II.md "wikilink")》的文章，这引起了他的兴趣。孟阳挑战了当时的许多战队服务器，他的水平获得了很多周围游戏爱好者关注。而1999年后孟阳家里的经济条件也越来越差\[4\]。
+1983年1月29日，孟阳出生于[成都市](../Page/成都市.md "wikilink")东城区。孟阳10岁的时候，他的父亲因刑事案件被判[无期徒刑](https://zh.wikipedia.org/wiki/无期徒刑 "wikilink")，而母亲身体不好，无法从事繁重的工作\[2\]。1997年，初二上半学期结束后，14岁的孟阳就退学了\[3\]。退学后的孟阳和母亲一起经营一家录像厅。4月，孟阳买了一本《[家用电脑与游戏](../Page/家用电脑与游戏.md "wikilink")机》杂志，里边有一篇介绍《[雷神之锤II](../Page/雷神之锤II.md "wikilink")》的文章，这引起了他的兴趣。孟阳挑战了当时的许多战队服务器，他的水平获得了很多周围游戏爱好者关注。而1999年后孟阳家里的经济条件也越来越差\[4\]。
 
 ## 职业生涯
 
@@ -12,8 +12,7 @@ WCGC之后，孟阳于2001年来到北京，加入北京天下华彩网络软件
 
 随着《雷神之锤III》关注度的下降和比赛减少，孟阳的生活又一次跌回了谷底。他不得不到国企找了一个工作赚钱养家，但因为毫无兴趣，所以做的很无奈。2003年孟阳的[电子竞技世界杯](https://zh.wikipedia.org/wiki/電子競技世界盃 "wikilink")（ESWC）法国之行也很失败，在16进8的时候就被淘汰了。2004年，孟阳加入了上海的5E俱乐部，但5E只存在了半年就解散了。后来孟阳得知台湾升技公司举办了称一个“升技长城百万挑战赛”，项目是《[毁灭战士3](../Page/毁灭战士3.md "wikilink")》\[8\]。孟阳还没玩过这个游戏，于是赶紧找来练习。最终他以大比分战胜美国职业电竞选手[Fatal1ty](https://zh.wikipedia.org/wiki/Fatal1ty "wikilink")，获得奖金100万人民币。2004年12月在美国[达拉斯举行的CPL冬季赛上](https://zh.wikipedia.org/wiki/达拉斯 "wikilink")，孟阳分别击败了美国第一选手Nomadic和德国的欧洲第一选手dragon，获得了《毁灭战士3》项目的世界冠军，这也是中国第一个电子竞技单人项目世界冠军。\[9\]
 
-2005年，孟阳回到北京，继续过着到处打比赛挣奖金的日子。2007年，孟阳加入了[World
-Elite战队并主职FPS方面项目](https://zh.wikipedia.org/wiki/World_Elite "wikilink")，之后他也渐渐淡出了职业赛事。2013年，孟阳入职[腾讯公司](https://zh.wikipedia.org/wiki/腾讯公司 "wikilink")，负责游戏引进、策划等方面的工作\[10\]\[11\]。2016年，孟阳加入《守望先锋》战队VETERAN.ONE。8月，战队进行整合，孟阳加入iG.Ice。\[12\]
+2005年，孟阳回到北京，继续过着到处打比赛挣奖金的日子。2007年，孟阳加入了[World Elite战队并主职FPS方面项目](https://zh.wikipedia.org/wiki/World_Elite "wikilink")，之后他也渐渐淡出了职业赛事。2013年，孟阳入职[腾讯公司](https://zh.wikipedia.org/wiki/腾讯公司 "wikilink")，负责游戏引进、策划等方面的工作\[10\]\[11\]。2016年，孟阳加入《守望先锋》战队VETERAN.ONE。8月，战队进行整合，孟阳加入iG.Ice。\[12\]
 
 ## 个人生活
 
@@ -53,11 +52,7 @@ Elite战队并主职FPS方面项目](https://zh.wikipedia.org/wiki/World_Elite "
 
 ## 参考资料
 
-[Category:成都人](https://zh.wikipedia.org/wiki/Category:成都人 "wikilink")
-[Category:孟姓](https://zh.wikipedia.org/wiki/Category:孟姓 "wikilink")
-[Category:中国电玩家](https://zh.wikipedia.org/wiki/Category:中国电玩家 "wikilink")
-[Category:雷神之锤系列玩家](https://zh.wikipedia.org/wiki/Category:雷神之锤系列玩家 "wikilink")
-[Category:熊猫直播主播](https://zh.wikipedia.org/wiki/Category:熊猫直播主播 "wikilink")
+[Category:成都人](https://zh.wikipedia.org/wiki/Category:成都人 "wikilink") [Category:孟姓](https://zh.wikipedia.org/wiki/Category:孟姓 "wikilink") [Category:中国电玩家](https://zh.wikipedia.org/wiki/Category:中国电玩家 "wikilink") [Category:雷神之锤系列玩家](https://zh.wikipedia.org/wiki/Category:雷神之锤系列玩家 "wikilink") [Category:熊猫直播主播](https://zh.wikipedia.org/wiki/Category:熊猫直播主播 "wikilink")
 
 1.
 2.

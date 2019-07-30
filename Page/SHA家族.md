@@ -2,8 +2,7 @@
 
 SHA家族的演算法，由[美國國家安全局](https://zh.wikipedia.org/wiki/美國國家安全局 "wikilink")（NSA）所設計，並由[美國國家標準與技術研究院](https://zh.wikipedia.org/wiki/美國國家標準與技術研究院 "wikilink")（NIST）發佈，是美國的政府標準，其分別是：
 
-  - **[SHA-0](https://zh.wikipedia.org/wiki/SHA-0 "wikilink")**：1993年发布，当时称做安全散列标准（Secure
-    Hash Standard），发布之后很快就被NSA撤回，是SHA-1的前身。
+  - **[SHA-0](https://zh.wikipedia.org/wiki/SHA-0 "wikilink")**：1993年发布，当时称做安全散列标准（Secure Hash Standard），发布之后很快就被NSA撤回，是SHA-1的前身。
 
 <!-- end list -->
 
@@ -185,22 +184,15 @@ SHA<sub>d</sub>-256(m)=SHA-256(SHA-256(m))。它會克服有關*延伸長度*攻
 
 ### 来源
 
-  - Eli Biham, Rafi Chen, Near-Collisions of SHA-0, Cryptology ePrint
-    Archive, Report 2004/146, 2004 (to appear CRYPTO 2004)
-    [1](http://eprint.iacr.org/2004/146/)
-  - Florent Chabaud, Antoine Joux: Differential Collisions in SHA-0.
-    [CRYPTO](https://zh.wikipedia.org/wiki/CRYPTO "wikilink") 1998. pp.
-    56–71.
-  - Henri Gilbert, Helena Handschuh: Security Analysis of SHA-256 and
-    Sisters. Selected Areas in Cryptography 2003: pp. 175–193.
+  - Eli Biham, Rafi Chen, Near-Collisions of SHA-0, Cryptology ePrint Archive, Report 2004/146, 2004 (to appear CRYPTO 2004) [1](http://eprint.iacr.org/2004/146/)
+  - Florent Chabaud, Antoine Joux: Differential Collisions in SHA-0. [CRYPTO](https://zh.wikipedia.org/wiki/CRYPTO "wikilink") 1998. pp. 56–71.
+  - Henri Gilbert, Helena Handschuh: Security Analysis of SHA-256 and Sisters. Selected Areas in Cryptography 2003: pp. 175–193.
 
 ## 外部链接
 
-  - [FIPS
-    PUB 180-2](https://web.archive.org/web/20021212213605/http://csrc.nist.gov/encryption/tkhash.html)，*安全雜湊標準*
+  - [FIPS PUB 180-2](https://web.archive.org/web/20021212213605/http://csrc.nist.gov/encryption/tkhash.html)，*安全雜湊標準*
   - [RFC 3174](http://www.ietf.org/rfc/rfc3174.txt)，*美國安全雜湊演算法1（SHA1）*
-  - [這個Javascript
-    SHA-1計算機會展示計算過程中的中繼值](http://www.cs.eku.edu/faculty/styer/460/Encrypt/JS-SHA1.html)
+  - [這個Javascript SHA-1計算機會展示計算過程中的中繼值](http://www.cs.eku.edu/faculty/styer/460/Encrypt/JS-SHA1.html)
   - [SHA-256在线格计算工具](https://passwordsgenerator.pro/sha256)
 
 ## 參見

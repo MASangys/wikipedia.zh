@@ -1,5 +1,4 @@
-[RLC_series.png](https://zh.wikipedia.org/wiki/File:RLC_series.png "fig:RLC_series.png")
-**RLC电路**是一种由[电阻](../Page/电阻.md "wikilink")（R）、[电感](../Page/电感.md "wikilink")（L）、[电容](https://zh.wikipedia.org/wiki/电容 "wikilink")（C）组成的[电路结构](../Page/电路.md "wikilink")。[LC电路是其简单的例子](../Page/LC电路.md "wikilink")。RLC电路也被称为二阶电路，电路中的[电压或者](https://zh.wikipedia.org/wiki/电压 "wikilink")[电流是一個二阶](../Page/电流.md "wikilink")[微分方程的解](../Page/微分方程.md "wikilink")，而其係數是由电路结构决定。
+[RLC_series.png](https://zh.wikipedia.org/wiki/File:RLC_series.png "fig:RLC_series.png") **RLC电路**是一种由[电阻](../Page/电阻.md "wikilink")（R）、[电感](../Page/电感.md "wikilink")（L）、[电容](https://zh.wikipedia.org/wiki/电容 "wikilink")（C）组成的[电路](../Page/电路.md "wikilink")结构。[LC电路](../Page/LC电路.md "wikilink")是其简单的例子。RLC电路也被称为二阶电路，电路中的[电压或者](https://zh.wikipedia.org/wiki/电压 "wikilink")[电流](../Page/电流.md "wikilink")是一個二阶[微分方程](../Page/微分方程.md "wikilink")的解，而其係數是由电路结构决定。
 
 若电路元件都视为线性元件时，一个RLC电路可以被视作电子[谐波振荡器](https://zh.wikipedia.org/wiki/谐波振荡器 "wikilink")。
 
@@ -13,9 +12,7 @@ RLC电路常用來作[带通滤波器或](https://zh.wikipedia.org/wiki/带通�
 
 RLC电路的组成结构一般有两种：分別是串联型及并联型。
 
-[Tuned_circuit_animation_3.gif](https://zh.wikipedia.org/wiki/File:Tuned_circuit_animation_3.gif "fig:Tuned_circuit_animation_3.gif")（无电阻的RLC电路）的工作。电荷在电容器极板和电感之间来回传递。能量在电容器的[电场](https://zh.wikipedia.org/wiki/电场 "wikilink")
-*(E)* 和电感的[磁场](https://zh.wikipedia.org/wiki/磁场 "wikilink") *(B)*
-之间来回振荡。 RLC电路工作情况类似，不同之处在于，由于电路中的电阻，随着时间变化振荡电流衰减至零。\]\]
+[Tuned_circuit_animation_3.gif](https://zh.wikipedia.org/wiki/File:Tuned_circuit_animation_3.gif "fig:Tuned_circuit_animation_3.gif")（无电阻的RLC电路）的工作。电荷在电容器极板和电感之间来回传递。能量在电容器的[电场](https://zh.wikipedia.org/wiki/电场 "wikilink") *(E)* 和电感的[磁场](https://zh.wikipedia.org/wiki/磁场 "wikilink") *(B)* 之间来回振荡。 RLC电路工作情况类似，不同之处在于，由于电路中的电阻，随着时间变化振荡电流衰减至零。\]\]
 
 ## RLC串聯電路
 
@@ -24,13 +21,11 @@ RLC电路的组成结构一般有两种：分別是串联型及并联型。
 **I** - 電路電流
 **R** - 電阻
 **L** - 電感
-**C** -
-電容](https://zh.wikipedia.org/wiki/File:RLC_series_circuit_v1.svg "fig:圖 1. RLC串聯電路 V - 電源電壓 I - 電路電流 R - 電阻 L - 電感 C - 電容")
+**C** - 電容](https://zh.wikipedia.org/wiki/File:RLC_series_circuit_v1.svg "fig:圖 1. RLC串聯電路 V - 電源電壓 I - 電路電流 R - 電阻 L - 電感 C - 電容")
 
 在此电路中，三个元件均与电压以串联方式连接。其主要的微分方程可将三个元件的[本构方程代入](https://zh.wikipedia.org/wiki/本构方程 "wikilink")[基尔霍夫电压定律](https://zh.wikipedia.org/wiki/基尔霍夫电压定律 "wikilink")（KVL）获得。由基尔霍夫电压定律：
 
-\[v_R+v_L+v_C=v(t) \,\]
-其中\(\textstyle v_R, v_L, v_C\)分别为R、L、C两端的电压，\(\textstyle v(t)\)为随时间变化的电源的电压。将本构方程代入得到：
+\[v_R+v_L+v_C=v(t) \,\] 其中\(\textstyle v_R, v_L, v_C\)分别为R、L、C两端的电压，\(\textstyle v(t)\)为随时间变化的电源的电压。将本构方程代入得到：
 
 \[RI(t) + L { {dI} \over {dt}} + {1 \over C} \int_{-\infty}^{\tau=t} I(\tau)\, d\tau = v(t)\]
 
@@ -40,11 +35,9 @@ RLC电路的组成结构一般有两种：分別是串联型及并联型。
 
 此方程可以写成更常用的形式：
 
-\[{{d^2 I(t)} \over {dt^2}} + 2 \alpha {{dI(t)} \over {dt}} + {\omega_0}^2 I(t) = 0\]
-\(\alpha \,\)称为“衰减量”，用于衡量当移除外部輸入后，此电路的瞬态响应衰减的速率。\(\omega_0 \,\)为角共振频率。\[1\]此二系数由下式给出：\[2\]
+\[{{d^2 I(t)} \over {dt^2}} + 2 \alpha {{dI(t)} \over {dt}} + {\omega_0}^2 I(t) = 0\] \(\alpha \,\)称为“衰减量”，用于衡量当移除外部輸入后，此电路的瞬态响应衰减的速率。\(\omega_0 \,\)为角共振频率。\[1\]此二系数由下式给出：\[2\]
 
-\[\alpha = {R \over 2L}\] ， \(\omega_0 = { 1 \over \sqrt{LC}}\)
-阻尼系数\(\zeta\)是另一个常用的参数，定义为\(\alpha \,\)与\(\omega_0 \,\)的比值：
+\[\alpha = {R \over 2L}\] ， \(\omega_0 = { 1 \over \sqrt{LC}}\) 阻尼系数\(\zeta\)是另一个常用的参数，定义为\(\alpha \,\)与\(\omega_0 \,\)的比值：
 
 \[\zeta = \frac {\alpha}{\omega_0}\] 阻尼系数也可以由R、L、C求得：
 
@@ -52,8 +45,7 @@ RLC电路的组成结构一般有两种：分別是串联型及并联型。
 
 ### 瞬态响应
 
-[RLC_transient_plot.svg](https://zh.wikipedia.org/wiki/File:RLC_transient_plot.svg "fig:RLC_transient_plot.svg")
-根据不同的阻尼系数\(\zeta\)的值，该微分方程的解法有三种不同的情况，分别为：[欠阻尼](https://zh.wikipedia.org/wiki/阻尼#欠阻尼 "wikilink")（\(\scriptstyle \zeta < 1 \,\)），[过阻尼](https://zh.wikipedia.org/wiki/阻尼#过阻尼 "wikilink")（\(\scriptstyle \zeta > 1 \,\)），以及[临界阻尼](https://zh.wikipedia.org/wiki/阻尼#临界阻尼 "wikilink")（\(\scriptstyle \zeta = 1 \,\)）。该微分方程的[特征方程为](https://zh.wikipedia.org/wiki/特征方程 "wikilink")：
+[RLC_transient_plot.svg](https://zh.wikipedia.org/wiki/File:RLC_transient_plot.svg "fig:RLC_transient_plot.svg") 根据不同的阻尼系数\(\zeta\)的值，该微分方程的解法有三种不同的情况，分别为：[欠阻尼](https://zh.wikipedia.org/wiki/阻尼#欠阻尼 "wikilink")（\(\scriptstyle \zeta < 1 \,\)），[过阻尼](https://zh.wikipedia.org/wiki/阻尼#过阻尼 "wikilink")（\(\scriptstyle \zeta > 1 \,\)），以及[临界阻尼](https://zh.wikipedia.org/wiki/阻尼#临界阻尼 "wikilink")（\(\scriptstyle \zeta = 1 \,\)）。该微分方程的[特征方程为](https://zh.wikipedia.org/wiki/特征方程 "wikilink")：
 
 \[s^2 + 2 \alpha s + {\omega_0}^2 = 0\]
 
@@ -65,15 +57,13 @@ RLC电路的组成结构一般有两种：分別是串联型及并联型。
 
 该微分方程的通解为两根指数函数的线性叠加：
 
-\[i(t) = A_1 e^{s_1 t} + A_2 e^{s_2 t}\] 系数*A*<sub>1</sub>以及
-*A*<sub>2</sub>由具体问题的[边界条件给出](https://zh.wikipedia.org/wiki/边界条件 "wikilink")。
+\[i(t) = A_1 e^{s_1 t} + A_2 e^{s_2 t}\] 系数*A*<sub>1</sub>以及 *A*<sub>2</sub>由具体问题的[边界条件给出](https://zh.wikipedia.org/wiki/边界条件 "wikilink")。
 
 #### 过阻尼响应
 
 过阻尼响应（\(\scriptstyle \zeta > 1 \,\)）为：\[3\]
 
-\[i(t) = A_1 e^{-\omega_0(\zeta + \sqrt {\zeta^2 - 1}) t} + A_2 e^{-\omega_0(\zeta - \sqrt {\zeta^2 - 1}) t}\]
-过阻尼响应是一个瞬态电流无振荡的衰减。\[4\]
+\[i(t) = A_1 e^{-\omega_0(\zeta + \sqrt {\zeta^2 - 1}) t} + A_2 e^{-\omega_0(\zeta - \sqrt {\zeta^2 - 1}) t}\] 过阻尼响应是一个瞬态电流无振荡的衰减。\[4\]
 
 #### 欠阻尼响应
 
@@ -85,9 +75,7 @@ RLC电路的组成结构一般有两种：分別是串联型及并联型。
 
 \[i(t) = B_3 e^{-\alpha t} \sin (\omega_d t + \varphi) \,\]
 
-欠阻尼响应是一个频率为\(\omega_d \,\)的衰减的振荡。振荡衰减的速率为\(\alpha\)。指数里的\(\alpha\)描述了振荡的[包络函数](https://zh.wikipedia.org/wiki/包络函数 "wikilink")。*B*<sub>1</sub>
-以及*B*<sub>2</sub> （或第二种形式中的 *B*<sub>3</sub> 以及相位差
-\(\varphi \,\)）为任意常数，由边界条件确定。频率\(\omega_d \,\)由下式给出：\[7\]
+欠阻尼响应是一个频率为\(\omega_d \,\)的衰减的振荡。振荡衰减的速率为\(\alpha\)。指数里的\(\alpha\)描述了振荡的[包络函数](https://zh.wikipedia.org/wiki/包络函数 "wikilink")。*B*<sub>1</sub> 以及*B*<sub>2</sub> （或第二种形式中的 *B*<sub>3</sub> 以及相位差 \(\varphi \,\)）为任意常数，由边界条件确定。频率\(\omega_d \,\)由下式给出：\[7\]
 
 \[\omega_d = \sqrt { {\omega_0}^2 - \alpha^2 } = \omega_0 \sqrt {1 - \zeta^2}\]
 
@@ -125,13 +113,11 @@ RLC电路的组成结构一般有两种：分別是串联型及并联型。
 
 #### 極點和零點
 
-*Y*(*s*) 的[零点是使得](../Page/零点.md "wikilink")\(Y(s) = 0\) 的*s*：
+*Y*(*s*) 的[零点](../Page/零点.md "wikilink")是使得\(Y(s) = 0\) 的*s*：
 
 \[s  =  0 \,\]     及     \(|s| \rightarrow \infty\)
 
-*Y*(*s*)
-的[极点是使得](https://zh.wikipedia.org/wiki/极点_\(代数\) "wikilink")\(Y(s)\rightarrow \infty\)
-的*s*，求解二次方程，可得：
+*Y*(*s*) 的[极点是使得](https://zh.wikipedia.org/wiki/极点_\(代数\) "wikilink")\(Y(s)\rightarrow \infty\) 的*s*，求解二次方程，可得：
 
   -
 
@@ -163,8 +149,7 @@ RLC电路的组成结构一般有两种：分別是串联型及并联型。
 **I** - 電路電流
 **R** - 電阻
 **L** - 電感
-**C** -
-電容](https://zh.wikipedia.org/wiki/File:RLC_parallel_circuit_v1.svg "fig:圖 5. RLC 並聯電路 V - 電源電壓 I - 電路電流 R - 電阻 L - 電感 C - 電容")
+**C** - 電容](https://zh.wikipedia.org/wiki/File:RLC_parallel_circuit_v1.svg "fig:圖 5. RLC 並聯電路 V - 電源電壓 I - 電路電流 R - 電阻 L - 電感 C - 電容")
 
 RLC並聯電路的特性可以利用電路的，將RLC並聯電路視為RLC串聯電路的來處理，就可以用類似RLC串聯電路的分析方式來分析RLC並聯電路。
 
@@ -180,22 +165,17 @@ RLC並聯電路的衰减量\(\alpha \,\)可以用下式求得\[12\]：
 
 ### 頻域
 
-[RLC_parallel_plot.svg](https://zh.wikipedia.org/wiki/File:RLC_parallel_plot.svg "fig:RLC_parallel_plot.svg")
-將並聯各元件的導納相加，即為此電路的導納：
+[RLC_parallel_plot.svg](https://zh.wikipedia.org/wiki/File:RLC_parallel_plot.svg "fig:RLC_parallel_plot.svg") 將並聯各元件的導納相加，即為此電路的導納：
 
 \[{1\over Z}=\]  \({1\over Z_L}+{1\over Z_C}+{1\over Z_R}=\)  \({1\over{j\omega L}}+{j\omega C}+{1\over R}\)
 
 電容、電阻及電感並聯後，在共振頻率的阻抗為最大值，和電容、電阻及電感串聯的情形恰好相反，RLC並聯電路是抗共振電路（antiresonator）。
 
-右圖中可以看出若用定電壓驅動時，電流的頻率響應在共振頻率\(\omega_0={1\over\sqrt{LC}}\)處有最小值。若用定電流驅動，電壓的頻率響應在共振頻率處有最大值，和RLC串聯電路中，電流的頻率響應圖形類似。
-{{-}}
+右圖中可以看出若用定電壓驅動時，電流的頻率響應在共振頻率\(\omega_0={1\over\sqrt{LC}}\)處有最小值。若用定電流驅動，電壓的頻率響應在共振頻率處有最大值，和RLC串聯電路中，電流的頻率響應圖形類似。 {{-}}
 
 ## 其他构造
 
-[RL_series_C_parallel.svg](https://zh.wikipedia.org/wiki/File:RL_series_C_parallel.svg "fig:RL_series_C_parallel.svg")
-[L_series_RC_parallel.svg](https://zh.wikipedia.org/wiki/File:L_series_RC_parallel.svg "fig:L_series_RC_parallel.svg")
-如图7所示，电阻与电感串联的并联LC电路是有必要考虑到线圈卷线的电阻时经常遇到的一种拓扑结构。并联LC电路经常用于[带通滤波中](https://zh.wikipedia.org/wiki/带通滤波器 "wikilink")，而
-*Q* 因子主要由此电阻决定。电路的谐振频率为，\[13\]
+[RL_series_C_parallel.svg](https://zh.wikipedia.org/wiki/File:RL_series_C_parallel.svg "fig:RL_series_C_parallel.svg") [L_series_RC_parallel.svg](https://zh.wikipedia.org/wiki/File:L_series_RC_parallel.svg "fig:L_series_RC_parallel.svg") 如图7所示，电阻与电感串联的并联LC电路是有必要考虑到线圈卷线的电阻时经常遇到的一种拓扑结构。并联LC电路经常用于[带通滤波中](https://zh.wikipedia.org/wiki/带通滤波器 "wikilink")，而 *Q* 因子主要由此电阻决定。电路的谐振频率为，\[13\]
 
 \[\omega_0 = \sqrt {\frac{1}{LC} - \left ( \frac{R}{L} \right )^2}\]
 
@@ -207,8 +187,7 @@ RLC並聯電路的衰减量\(\alpha \,\)可以用下式求得\[12\]：
 
 \[\omega'_0 = \sqrt \frac {1}{LC}\] 阻抗幅值最大时的频率\(\omega_m\)为，\[15\]
 
-\[\omega_m =\omega'_0\sqrt{\frac{-1}{Q^2_L}+\sqrt{1+\frac{2} {Q^2_L}}}\]
-其中\(Q_L=\frac{\omega'_0L} {R}\)是线圈的[品质因数](https://zh.wikipedia.org/wiki/品质因数 "wikilink")。这可以下式很好地近似\[16\]
+\[\omega_m =\omega'_0\sqrt{\frac{-1}{Q^2_L}+\sqrt{1+\frac{2} {Q^2_L}}}\] 其中\(Q_L=\frac{\omega'_0L} {R}\)是线圈的[品质因数](https://zh.wikipedia.org/wiki/品质因数 "wikilink")。这可以下式很好地近似\[16\]
 
 \[\omega_m \approx \omega'_0 \sqrt{1-\frac {1} {2Q^4_L} }\]
 
@@ -226,8 +205,7 @@ RLC並聯電路的衰减量\(\alpha \,\)可以用下式求得\[12\]：
 
 而阻抗幅值最大时的频率\(\omega_m\)为
 
-\[\omega_m =\omega'_0\sqrt{\frac{-1}{Q^2_C}+\sqrt{1+\frac{2} {Q^2_C}}}\]
-其中\(Q_C=\omega'_0 {R}{C}\)
+\[\omega_m =\omega'_0\sqrt{\frac{-1}{Q^2_C}+\sqrt{1+\frac{2} {Q^2_C}}}\] 其中\(Q_C=\omega'_0 {R}{C}\)
 
 ## 参见
 
@@ -241,16 +219,11 @@ RLC並聯電路的衰减量\(\alpha \,\)可以用下式求得\[12\]：
 
 ### 来源
 
-  - Anant Agarwal, Jeffrey H. Lang, *Foundations of analog and digital
-    electronic circuits*, Morgan Kaufmann, 2005 ISBN 1-55860-735-8.
-  - J. L. Humar, *Dynamics of structures*, Taylor & Francis, 2002 ISBN
-    90-5809-245-3.
-  - J. David Irwin, *Basic engineering circuit analysis*, Wiley, 2006
-    ISBN 7-302-13021-3.
-  - Kenneth L. Kaiser, *Electromagnetic compatibility handbook*, CRC
-    Press, 2004 ISBN 0-8493-2087-9.
-  - James William Nilsson, Susan A. Riedel, *Electric circuits*,
-    Prentice Hall, 2008 ISBN 0-13-198925-1.
+  - Anant Agarwal, Jeffrey H. Lang, *Foundations of analog and digital electronic circuits*, Morgan Kaufmann, 2005 ISBN 1-55860-735-8.
+  - J. L. Humar, *Dynamics of structures*, Taylor & Francis, 2002 ISBN 90-5809-245-3.
+  - J. David Irwin, *Basic engineering circuit analysis*, Wiley, 2006 ISBN 7-302-13021-3.
+  - Kenneth L. Kaiser, *Electromagnetic compatibility handbook*, CRC Press, 2004 ISBN 0-8493-2087-9.
+  - James William Nilsson, Susan A. Riedel, *Electric circuits*, Prentice Hall, 2008 ISBN 0-13-198925-1.
 
 ## 外部連結
 
@@ -275,9 +248,7 @@ RLC並聯電路的衰减量\(\alpha \,\)可以用下式求得\[12\]：
 
 9.  Nilsson and Riedel, p.303.
 
-10. 本章節是Lokenath Debnath, Dambaru Bhatta, *Integral transforms and their
-    applications*, 2nd ed. Chapman & Hall/CRC, 2007, ISBN
-    1-58488-575-0,198-202頁的Example 4.2.13為基礎，不過為了和本文用的符號一致，有修改其中部份標示
+10. 本章節是Lokenath Debnath, Dambaru Bhatta, *Integral transforms and their applications*, 2nd ed. Chapman & Hall/CRC, 2007, ISBN 1-58488-575-0,198-202頁的Example 4.2.13為基礎，不過為了和本文用的符號一致，有修改其中部份標示
 
 11. Kumar and Kumar, *Electric Circuits & Networks*, p. 464.
 

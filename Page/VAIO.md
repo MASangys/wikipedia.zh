@@ -1,9 +1,6 @@
-**VAIO**是[VAIO公司的](../Page/VAIO公司.md "wikilink")[消費電子產品](../Page/消費電子產品.md "wikilink")[品牌](../Page/品牌.md "wikilink")，曾为[索尼所有](../Page/索尼.md "wikilink")。
+**VAIO**是[VAIO公司](../Page/VAIO公司.md "wikilink")的[消費電子產品](../Page/消費電子產品.md "wikilink")[品牌](../Page/品牌.md "wikilink")，曾为[索尼](../Page/索尼.md "wikilink")所有。
 
-VAIO的全稱是Video Audio Integrated
-Operation（數碼影音整合操作系統），而VAIO這四個字母，V和A組成的波浪型象徵模擬時代的波形，而I和O象徵數碼時代的1和0，以示模擬和數碼技術的完美結合，也可以理解為影音技術和信息技術的融合。2008年之後VAIO品牌全稱升級為Visual
-Audio Intelligent
-Organizer，意在將更多智慧與匠心應用於產品之中，給顧客帶來更加非凡的體驗\[1\]\[2\]\[3\]。
+VAIO的全稱是Video Audio Integrated Operation（數碼影音整合操作系統），而VAIO這四個字母，V和A組成的波浪型象徵模擬時代的波形，而I和O象徵數碼時代的1和0，以示模擬和數碼技術的完美結合，也可以理解為影音技術和信息技術的融合。2008年之後VAIO品牌全稱升級為Visual Audio Intelligent Organizer，意在將更多智慧與匠心應用於產品之中，給顧客帶來更加非凡的體驗\[1\]\[2\]\[3\]。
 
 ## 产品
 
@@ -3305,10 +3302,7 @@ Organizer，意在將更多智慧與匠心應用於產品之中，給顧客帶�
 
       - [4](http://www.sony.com.hk/zh/electronics/computers/vaio-laptops)
 
-[Category:个人电脑](https://zh.wikipedia.org/wiki/Category:个人电脑 "wikilink")
-[Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink")
-[Category:索尼硬體](https://zh.wikipedia.org/wiki/Category:索尼硬體 "wikilink")
-[Category:1997年面世的產品](https://zh.wikipedia.org/wiki/Category:1997年面世的產品 "wikilink")
+[Category:个人电脑](https://zh.wikipedia.org/wiki/Category:个人电脑 "wikilink") [Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink") [Category:索尼硬體](https://zh.wikipedia.org/wiki/Category:索尼硬體 "wikilink") [Category:1997年面世的產品](https://zh.wikipedia.org/wiki/Category:1997年面世的產品 "wikilink")
 
 1.  <https://unwire.hk/2014/02/07/sony-vaio-history/notebook/>
 2.  <https://unwire.hk/2014/02/10/vaio2/notebook/>

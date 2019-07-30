@@ -1,10 +1,4 @@
-[Auerbach_Lipofsky.jpg](https://zh.wikipedia.org/wiki/File:Auerbach_Lipofsky.jpg "fig:Auerbach_Lipofsky.jpg")命名\]\]
-[Phil_Jackson_3_cropped.jpg](https://zh.wikipedia.org/wiki/File:Phil_Jackson_3_cropped.jpg "fig:Phil_Jackson_3_cropped.jpg")帶領公牛隊、湖人隊拿下眾多冠軍戒並創造72勝\]\]
-**NBA年度最佳教练**（英文：**NBA Coach of the Year
-Award**），是由[美国](../Page/美国.md "wikilink")[国家篮球协会颁发给每年](https://zh.wikipedia.org/wiki/国家篮球协会 "wikilink")[NBA联赛中](../Page/NBA.md "wikilink")，使球队取得最大进步或者指挥最突出的教练之奖项。首次颁奖在1962-63赛季举行。得獎者將會得到以
-「紅衣主教--[阿諾·奧拜克](https://zh.wikipedia.org/wiki/阿诺·奥尔巴赫 "wikilink")」命名的「阿諾·奧拜克盃」，在例行賽結束後，會由來自美國及加拿大的體育記者們先選出心中的第1至3名，第一名得5分、第二名得3分，而第三名得1分，最後由得分最高者得獎。\[1\][帕特·莱利是唯一一位代表三支不同球队获得最佳教练](https://zh.wikipedia.org/wiki/帕特·莱利 "wikilink")。\[2\]
-[賴瑞·柏德](https://zh.wikipedia.org/wiki/拉里·伯德 "wikilink")
-是唯一一位得過[NBA最有價值球員的教練](https://zh.wikipedia.org/wiki/NBA最有價值球員 "wikilink")，[比爾·夏曼與](https://zh.wikipedia.org/wiki/比爾·夏曼 "wikilink")[藍尼·威肯斯是唯二以教練及球員這兩個身份入選名人堂的人](https://zh.wikipedia.org/wiki/藍尼·威肯斯 "wikilink")，是唯一以不到五成勝率卻得獎的教練，而得獎原因是因為他在創隊第一年就帶領[芝加哥公牛隊打進季後賽](https://zh.wikipedia.org/wiki/芝加哥公牛隊 "wikilink")。\[3\]
+[Auerbach_Lipofsky.jpg](https://zh.wikipedia.org/wiki/File:Auerbach_Lipofsky.jpg "fig:Auerbach_Lipofsky.jpg")命名\]\] [Phil_Jackson_3_cropped.jpg](https://zh.wikipedia.org/wiki/File:Phil_Jackson_3_cropped.jpg "fig:Phil_Jackson_3_cropped.jpg")帶領公牛隊、湖人隊拿下眾多冠軍戒並創造72勝\]\] **NBA年度最佳教练**（英文：**NBA Coach of the Year Award**），是由[美国](../Page/美国.md "wikilink")[国家篮球协会颁发给每年](https://zh.wikipedia.org/wiki/国家篮球协会 "wikilink")[NBA](../Page/NBA.md "wikilink")联赛中，使球队取得最大进步或者指挥最突出的教练之奖项。首次颁奖在1962-63赛季举行。得獎者將會得到以 「紅衣主教--[阿諾·奧拜克](https://zh.wikipedia.org/wiki/阿诺·奥尔巴赫 "wikilink")」命名的「阿諾·奧拜克盃」，在例行賽結束後，會由來自美國及加拿大的體育記者們先選出心中的第1至3名，第一名得5分、第二名得3分，而第三名得1分，最後由得分最高者得獎。\[1\][帕特·莱利是唯一一位代表三支不同球队获得最佳教练](https://zh.wikipedia.org/wiki/帕特·莱利 "wikilink")。\[2\] [賴瑞·柏德](https://zh.wikipedia.org/wiki/拉里·伯德 "wikilink") 是唯一一位得過[NBA最有價值球員的教練](https://zh.wikipedia.org/wiki/NBA最有價值球員 "wikilink")，[比爾·夏曼與](https://zh.wikipedia.org/wiki/比爾·夏曼 "wikilink")[藍尼·威肯斯是唯二以教練及球員這兩個身份入選名人堂的人](https://zh.wikipedia.org/wiki/藍尼·威肯斯 "wikilink")，是唯一以不到五成勝率卻得獎的教練，而得獎原因是因為他在創隊第一年就帶領[芝加哥公牛隊打進季後賽](https://zh.wikipedia.org/wiki/芝加哥公牛隊 "wikilink")。\[3\]
 
 至今沒有得獎者連任，而所有得獎者都具有美國籍。
 
@@ -63,7 +57,7 @@ Award**），是由[美国](../Page/美国.md "wikilink")[国家篮球协会颁�
 <td><p><a href="https://zh.wikipedia.org/wiki/多尔夫·谢伊斯" title="wikilink">多尔夫·谢伊斯</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/费城76人队" title="wikilink">费城76人队</a></p></td>
 <td><p>55–25</p></td>
-<td><p>分區第一，總教練同時也是<a href="../Page/NBA50大巨星.md" title="wikilink">NBA50大巨星之一</a>[6]。</p></td>
+<td><p>分區第一，總教練同時也是<a href="../Page/NBA50大巨星.md" title="wikilink">NBA50大巨星</a>之一[6]。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/1966-67_NBA赛季.md" title="wikilink">1966-67</a></p></td>
@@ -460,10 +454,7 @@ Award**），是由[美国](../Page/美国.md "wikilink")[国家篮球协会颁�
 
   - 細節
 
-[Category:籃球紀錄及統計數據](https://zh.wikipedia.org/wiki/Category:籃球紀錄及統計數據 "wikilink")
-[Category:职业列表](https://zh.wikipedia.org/wiki/Category:职业列表 "wikilink")
-[Category:NBA獎項](https://zh.wikipedia.org/wiki/Category:NBA獎項 "wikilink")
-[Category:篮球教练](https://zh.wikipedia.org/wiki/Category:篮球教练 "wikilink")
+[Category:籃球紀錄及統計數據](https://zh.wikipedia.org/wiki/Category:籃球紀錄及統計數據 "wikilink") [Category:职业列表](https://zh.wikipedia.org/wiki/Category:职业列表 "wikilink") [Category:NBA獎項](https://zh.wikipedia.org/wiki/Category:NBA獎項 "wikilink") [Category:篮球教练](https://zh.wikipedia.org/wiki/Category:篮球教练 "wikilink")
 
 1.
 

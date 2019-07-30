@@ -2,20 +2,14 @@
 
 ## 簡介
 
-SPSS原名**社會科學統計包**（英語**S**tatistical **P**ackage for the **S**ocial
-**S**ciences）。1968年，[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[斯坦福大學三位研究生開發出最早的SPSS軟件](https://zh.wikipedia.org/wiki/斯坦福大學 "wikilink")，當時主要面向中小型計算機和企業用戶，產品統稱**SPSSx**版。1975年，[芝加哥成立SPSS公司](../Page/芝加哥.md "wikilink")。1984年，SPSS公司首先推出世界上第一個可以在[DOS上運行的統計分析軟件的](../Page/DOS.md "wikilink")[PC版本](../Page/PC.md "wikilink")，即**SPSS/PC+**版。後來又相繼推出[Windows和](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Mac
-OS
-X等](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[操作系統上的版本](https://zh.wikipedia.org/wiki/操作系統 "wikilink")，並不斷擴展軟件的功能相關服務，形成了目前SPSS的基本面貌。2008年9月15日，SPSS
-17.0 for Windows版發佈。2009年7月28日，SPSS公司發表PASW(Predictive Analytics Suite
-Workstation)18.0，同時該公司也被[IBM收購](../Page/IBM.md "wikilink")\[1\]。
+SPSS原名**社會科學統計包**（英語**S**tatistical **P**ackage for the **S**ocial **S**ciences）。1968年，[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[斯坦福大學三位研究生開發出最早的SPSS軟件](https://zh.wikipedia.org/wiki/斯坦福大學 "wikilink")，當時主要面向中小型計算機和企業用戶，產品統稱**SPSSx**版。1975年，[芝加哥](../Page/芝加哥.md "wikilink")成立SPSS公司。1984年，SPSS公司首先推出世界上第一個可以在[DOS](../Page/DOS.md "wikilink")上運行的統計分析軟件的[PC](../Page/PC.md "wikilink")版本，即**SPSS/PC+**版。後來又相繼推出[Windows和](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Mac OS X等](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[操作系統上的版本](https://zh.wikipedia.org/wiki/操作系統 "wikilink")，並不斷擴展軟件的功能相關服務，形成了目前SPSS的基本面貌。2008年9月15日，SPSS 17.0 for Windows版發佈。2009年7月28日，SPSS公司發表PASW(Predictive Analytics Suite Workstation)18.0，同時該公司也被[IBM](../Page/IBM.md "wikilink")收購\[1\]。
 
 2009年開始SPSS更名為PASW，旗下主要4個產品組相對應更名：
 
   - PASW Statistics（原名SPSS Statistics）：統計分析
   - PASW Modeler（原名Clementine）：數據挖掘
   - Data Collection family（原名Dimensions）：數據收集
-  - PASW Collaboration and Deployment Services（原名Predictive Enterprise
-    Services）：企業應用服務
+  - PASW Collaboration and Deployment Services（原名Predictive Enterprise Services）：企業應用服務
 
 ## 功能組成
 
@@ -84,8 +78,7 @@ SPSS 18.0由17個功能模組組成：
   - [Maple](../Page/Maple.md "wikilink")
   - [Matlab](https://zh.wikipedia.org/wiki/Matlab "wikilink")
   - [Scilab](../Page/Scilab.md "wikilink")
-  - [R語言](https://zh.wikipedia.org/wiki/R語言 "wikilink") -
-    [開放原始碼統計學軟件](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")
+  - [R語言](https://zh.wikipedia.org/wiki/R語言 "wikilink") - [開放原始碼統計學軟件](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")
   - [PSPP](http://www.gnu.org/software/pspp/) - 開放原始碼軟件
   - [Julia](../Page/Julia_\(编程语言\).md "wikilink")
   - [Stata](https://zh.wikipedia.org/wiki/Stata "wikilink")
@@ -95,13 +88,9 @@ SPSS 18.0由17個功能模組組成：
 ## 外部連結
 
   - [SPSS](http://www.ibm.com/analytics/us/en/technology/spss/)
-  - [IBM SPSS predictive
-    analytics](http://www.redbooks.ibm.com/abstracts/redp4710.html)
-    IBM红皮书
+  - [IBM SPSS predictive analytics](http://www.redbooks.ibm.com/abstracts/redp4710.html) IBM红皮书
   - [SPSS123教學網](http://www.spss123.com.tw/)
 
-[Category:统计学](https://zh.wikipedia.org/wiki/Category:统计学 "wikilink")
-[Category:统计软件](https://zh.wikipedia.org/wiki/Category:统计软件 "wikilink")
+[Category:统计学](https://zh.wikipedia.org/wiki/Category:统计学 "wikilink") [Category:统计软件](https://zh.wikipedia.org/wiki/Category:统计软件 "wikilink")
 
-1.  [IBM to Acquire SPSS Inc. to Provide Clients Predictive Analytics
-    Capabilities](http://www-03.ibm.com/press/us/en/pressrelease/27936.wss)
+1.  [IBM to Acquire SPSS Inc. to Provide Clients Predictive Analytics Capabilities](http://www-03.ibm.com/press/us/en/pressrelease/27936.wss)

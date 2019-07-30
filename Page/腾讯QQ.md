@@ -2,23 +2,15 @@
 
 ## 历史
 
-[50px](https://zh.wikipedia.org/wiki/文件:OICQLogo.gif "wikilink")
-1998年11月7日，[腾讯公司成立](https://zh.wikipedia.org/wiki/腾讯公司 "wikilink")\[1\]，并于1998年11月7日和1999年1月26日分别注册了[域名](../Page/域名.md "wikilink")“oicq.com”和“oicq.net”\[2\]。1999年2月10日，腾讯正式推出其第一款[即时通信软件](https://zh.wikipedia.org/wiki/即时通信软件 "wikilink")“**OPEN-ICQ**”，简称**OICQ**，版本号为“99a
-Build
-1005”，基本功能有网络寻呼机、公共[聊天室](https://zh.wikipedia.org/wiki/聊天室 "wikilink")、传输文件\[3\]\[4\]。
+[50px](https://zh.wikipedia.org/wiki/文件:OICQLogo.gif "wikilink") 1998年11月7日，[腾讯公司成立](https://zh.wikipedia.org/wiki/腾讯公司 "wikilink")\[1\]，并于1998年11月7日和1999年1月26日分别注册了[域名](../Page/域名.md "wikilink")“oicq.com”和“oicq.net”\[2\]。1999年2月10日，腾讯正式推出其第一款[即时通信软件](https://zh.wikipedia.org/wiki/即时通信软件 "wikilink")“**OPEN-ICQ**”，简称**OICQ**，版本号为“99a Build 1005”，基本功能有网络寻呼机、公共[聊天室](https://zh.wikipedia.org/wiki/聊天室 "wikilink")、传输文件\[3\]\[4\]。
 
-到同年8、9月，腾讯收到[美国在线公司投诉](https://zh.wikipedia.org/wiki/美国在线公司 "wikilink")，指“oicq.com”和“oicq.net”这两个域名含有“[ICQ](../Page/ICQ.md "wikilink")”字样为侵犯其[知识产权](../Page/知识产权.md "wikilink")，并要求腾讯将域名免费转让给他们；当时的[ICQ是美国在线公司的一个即时通信软件](../Page/ICQ.md "wikilink")\[5\]。2000年3月3日，[美国仲裁论坛受理这两个域名的争议书](https://zh.wikipedia.org/wiki/美国仲裁论坛 "wikilink")，并致函通知腾讯向仲裁论坛提交域名争议答辩书，腾讯虽经多次交涉，但最终仲裁论坛于3月21日判定域名应当转让给美国在线。为避免同类事件的发生，腾讯于2000年4月启用新域名“tencent.com”和“tencent.net”，并将“OICQ”更名为“腾讯QQ”。2002年12月，腾讯向[中国国际经济贸易仲裁委员会域名争议解决中心提出对](https://zh.wikipedia.org/wiki/中国国际经济贸易仲裁委员会 "wikilink")“qq.com.cn”的域名投诉争议，但因该域名的注册时间早于腾讯提出“QQ”名称，最终投诉未果。到了2003年3月，腾讯以11万美元（包括1万美元的律师费）的价格从原持有人
-罗伯特·亨茨曼手里购得域名“qq.com”，并开始使用“qq.com”作为腾讯QQ的主要域名\[6\]。
-[Tencent_QQ.svg](https://zh.wikipedia.org/wiki/File:Tencent_QQ.svg "fig:Tencent_QQ.svg")
-2000年6月21日，移动QQ首次集成于[移动电话的](../Page/移动电话.md "wikilink")[STK卡中](https://zh.wikipedia.org/wiki/STK卡 "wikilink")，用户可以执行基本的聊天功能，如收发信息、查询用户信息\[7\]。2003年8月17日，腾讯推出“[QQ游戏](https://zh.wikipedia.org/wiki/QQ游戏 "wikilink")”，并在11月推出的QQ2003III
-Beta1里面集成QQ游戏\[8\]。2003年9月，腾讯推出企业级实时通信产品“腾讯通”（RTX），而在同年12月15日，腾讯又推出另外一款可与QQ互联互通的即时通信软件“[Tencent
-Messenger](../Page/Tencent_Messenger.md "wikilink")”（简称TM），该软件则侧重于办公时或朋友间的通信\[9\]。
+到同年8、9月，腾讯收到[美国在线公司投诉](https://zh.wikipedia.org/wiki/美国在线公司 "wikilink")，指“oicq.com”和“oicq.net”这两个域名含有“[ICQ](../Page/ICQ.md "wikilink")”字样为侵犯其[知识产权](../Page/知识产权.md "wikilink")，并要求腾讯将域名免费转让给他们；当时的[ICQ](../Page/ICQ.md "wikilink")是美国在线公司的一个即时通信软件\[5\]。2000年3月3日，[美国仲裁论坛受理这两个域名的争议书](https://zh.wikipedia.org/wiki/美国仲裁论坛 "wikilink")，并致函通知腾讯向仲裁论坛提交域名争议答辩书，腾讯虽经多次交涉，但最终仲裁论坛于3月21日判定域名应当转让给美国在线。为避免同类事件的发生，腾讯于2000年4月启用新域名“tencent.com”和“tencent.net”，并将“OICQ”更名为“腾讯QQ”。2002年12月，腾讯向[中国国际经济贸易仲裁委员会域名争议解决中心提出对](https://zh.wikipedia.org/wiki/中国国际经济贸易仲裁委员会 "wikilink")“qq.com.cn”的域名投诉争议，但因该域名的注册时间早于腾讯提出“QQ”名称，最终投诉未果。到了2003年3月，腾讯以11万美元（包括1万美元的律师费）的价格从原持有人 罗伯特·亨茨曼手里购得域名“qq.com”，并开始使用“qq.com”作为腾讯QQ的主要域名\[6\]。 [Tencent_QQ.svg](https://zh.wikipedia.org/wiki/File:Tencent_QQ.svg "fig:Tencent_QQ.svg") 2000年6月21日，移动QQ首次集成于[移动电话](../Page/移动电话.md "wikilink")的[STK卡中](https://zh.wikipedia.org/wiki/STK卡 "wikilink")，用户可以执行基本的聊天功能，如收发信息、查询用户信息\[7\]。2003年8月17日，腾讯推出“[QQ游戏](https://zh.wikipedia.org/wiki/QQ游戏 "wikilink")”，并在11月推出的QQ2003III Beta1里面集成QQ游戏\[8\]。2003年9月，腾讯推出企业级实时通信产品“腾讯通”（RTX），而在同年12月15日，腾讯又推出另外一款可与QQ互联互通的即时通信软件“[Tencent Messenger](../Page/Tencent_Messenger.md "wikilink")”（简称TM），该软件则侧重于办公时或朋友间的通信\[9\]。
 
 QQ推出接近两年后（2001年2月10日），腾讯QQ最高同时在线用户数达到100万；在4年后（2005年2月16日）达到1000万；5年后（2010年3月5日）达到1亿\[10\]\[11\]。
 
 2000年12月，[广州市](../Page/广州市.md "wikilink")[东利行企业发展有限公司与腾讯签署QQ动漫画合作协议](https://zh.wikipedia.org/wiki/东利行企业发展有限公司 "wikilink")，独家拓展QQ动漫画领域，同年9月取得腾讯QQ企鹅商标和QQ形象版权的中国地区唯一使用权，创立Q-Gen品牌并开发、生产、销售QQ形象系列产品，这些产品包括服饰、公仔玩具、宣传品、文具、会员卡和电脑周边产品。Q-Gen是英文“Q-Generation”（QQ一代）的缩写。第一家Q-Gen专卖店于2001年10月5日在广州市[北京路步行街开业](https://zh.wikipedia.org/wiki/北京路步行街 "wikilink")，到2005年，在中国大陆内已开设超过200家连锁专卖店\[12\]。2005年，腾讯授权[三斯达鞋业有限公司开发出一系列QQ运动鞋](https://zh.wikipedia.org/wiki/三斯达鞋业有限公司 "wikilink")\[13\]。
 
-2003年2月前，腾讯网（tencent.com）为腾讯OICQ/QQ软件的主页，之后为腾讯公司的官方网站；qq.com自2003年启用后则作为一个[综合网站出现](https://zh.wikipedia.org/wiki/综合网站 "wikilink")，除提供腾讯QQ软件的服务外，还提供[新闻](../Page/新闻.md "wikilink")、[娱乐](https://zh.wikipedia.org/wiki/娱乐 "wikilink")、[财经](https://zh.wikipedia.org/wiki/财经 "wikilink")、[游戏](../Page/游戏.md "wikilink")、[购物等多种服务](https://zh.wikipedia.org/wiki/购物 "wikilink")。根据[Alexa](https://zh.wikipedia.org/wiki/Alexa "wikilink")[数据](http://www.alexa.com/siteinfo/qq.com)显示，现在腾讯网（qq.com）在全球[互联网流量排名位列第](../Page/互联网.md "wikilink")7位，在[中国位列第二](https://zh.wikipedia.org/wiki/中国 "wikilink")，仅次于[百度](../Page/百度.md "wikilink")。
+2003年2月前，腾讯网（tencent.com）为腾讯OICQ/QQ软件的主页，之后为腾讯公司的官方网站；qq.com自2003年启用后则作为一个[综合网站出现](https://zh.wikipedia.org/wiki/综合网站 "wikilink")，除提供腾讯QQ软件的服务外，还提供[新闻](../Page/新闻.md "wikilink")、[娱乐](https://zh.wikipedia.org/wiki/娱乐 "wikilink")、[财经](https://zh.wikipedia.org/wiki/财经 "wikilink")、[游戏](../Page/游戏.md "wikilink")、[购物等多种服务](https://zh.wikipedia.org/wiki/购物 "wikilink")。根据[Alexa](https://zh.wikipedia.org/wiki/Alexa "wikilink")[数据](http://www.alexa.com/siteinfo/qq.com)显示，现在腾讯网（qq.com）在全球[互联网](../Page/互联网.md "wikilink")流量排名位列第7位，在[中国位列第二](https://zh.wikipedia.org/wiki/中国 "wikilink")，仅次于[百度](../Page/百度.md "wikilink")。
 
 2013年3月29日腾讯发布基于Facebook平台的QQ Chat。
 
@@ -161,7 +153,7 @@ QQ推出接近两年后（2001年2月10日），腾讯QQ最高同时在线用户
 <td><p>Beta</p></td>
 <td></td>
 <td><p>英语</p></td>
-<td><p>ibibo Messenger为腾讯QQ在<a href="../Page/印度.md" title="wikilink">印度的本地化版本</a>，由米拉德国际控股集团旗下的印度ibibo公司推出。[21]</p></td>
+<td><p>ibibo Messenger为腾讯QQ在<a href="../Page/印度.md" title="wikilink">印度</a>的本地化版本，由米拉德国际控股集团旗下的印度ibibo公司推出。[21]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -170,7 +162,7 @@ QQ推出接近两年后（2001年2月10日），腾讯QQ最高同时在线用户
 <td><p>2010</p></td>
 <td><p>—</p></td>
 <td><p><a href="../Page/越南语.md" title="wikilink">越南语</a></p></td>
-<td><p>Zing Chat为腾讯授权<a href="../Page/VinaGame.md" title="wikilink">VinaGame公司旗下的</a><a href="../Page/Zing.md" title="wikilink">Zing公司推出的越南语版QQ本地化即时通信软件</a>。Zing Chat在外观上没有任何腾讯的商标，甚至连腾讯QQ的形象企鹅也改为鸭子，但在风格和功能上与QQ十分类似。但是，其文件属性等字串中有腾讯及QQ信息残留，软件架构、目录结构也与QQ极为类似[22]。2007年，VinaGame将QQ重新包装并改名为Zing Chat，进入越南市场。两年后，Zing Chat在越南打败了<a href="https://zh.wikipedia.org/wiki/雅虎通" title="wikilink">雅虎通</a>，成为越南用户数最多的即时通信软件[23]。</p></td>
+<td><p>Zing Chat为腾讯授权<a href="../Page/VinaGame.md" title="wikilink">VinaGame</a>公司旗下的<a href="../Page/Zing.md" title="wikilink">Zing</a>公司推出的越南语版QQ本地化即时通信软件。Zing Chat在外观上没有任何腾讯的商标，甚至连腾讯QQ的形象企鹅也改为鸭子，但在风格和功能上与QQ十分类似。但是，其文件属性等字串中有腾讯及QQ信息残留，软件架构、目录结构也与QQ极为类似[22]。2007年，VinaGame将QQ重新包装并改名为Zing Chat，进入越南市场。两年后，Zing Chat在越南打败了<a href="https://zh.wikipedia.org/wiki/雅虎通" title="wikilink">雅虎通</a>，成为越南用户数最多的即时通信软件[23]。</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -225,7 +217,7 @@ QQ推出接近两年后（2001年2月10日），腾讯QQ最高同时在线用户
 <td><p>3.0</p></td>
 <td></td>
 <td><p>简体中文</p></td>
-<td><p>Q+ Web即网页版QQ，旧称WebQQ，可在多种<a href="https://zh.wikipedia.org/wiki/浏览器" title="wikilink">浏览器下进行聊天</a>，而无需下载和安装任何QQ软件，这样就可以部分解决跨平台聊天的问题。第一代WebQQ的第一个版本于2006年9月发布。WebQQ刚推出时功能较为简单，只能进行基本的聊天。[33]。第二代WebQQ于2010年9月14日发布，第二代除了包含第一代QQ的所有功能之外，还增加了皮肤设置、好友管理、云输入法（即不用输入法软件而直接在网页上输入中文）、应用管理器等。相对于第一代，第二代实现窗口式页面管理，模拟<a href="../Page/操作系统.md" title="wikilink">操作系统环境</a>[34]。第三代WebQQ新增多桌面操作、讨论组、Q+和音视频功能[35]。2011年10月起更名为Q+ Web[36]，新增云存储功能，改进应用管理功能，并允许用户将好友头像拖动到Q+ Web的桌面[37]。</p></td>
+<td><p>Q+ Web即网页版QQ，旧称WebQQ，可在多种<a href="https://zh.wikipedia.org/wiki/浏览器" title="wikilink">浏览器下进行聊天</a>，而无需下载和安装任何QQ软件，这样就可以部分解决跨平台聊天的问题。第一代WebQQ的第一个版本于2006年9月发布。WebQQ刚推出时功能较为简单，只能进行基本的聊天。[33]。第二代WebQQ于2010年9月14日发布，第二代除了包含第一代QQ的所有功能之外，还增加了皮肤设置、好友管理、云输入法（即不用输入法软件而直接在网页上输入中文）、应用管理器等。相对于第一代，第二代实现窗口式页面管理，模拟<a href="../Page/操作系统.md" title="wikilink">操作系统</a>环境[34]。第三代WebQQ新增多桌面操作、讨论组、Q+和音视频功能[35]。2011年10月起更名为Q+ Web[36]，新增云存储功能，改进应用管理功能，并允许用户将好友头像拖动到Q+ Web的桌面[37]。</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -572,8 +564,7 @@ QQ推出接近两年后（2001年2月10日），腾讯QQ最高同时在线用户
 
 ### 非官方版本
 
-2001年，腾讯首次在QQ中集成[广告](https://zh.wikipedia.org/wiki/广告 "wikilink")\[44\]，而在QQ2005
-Beta3版之前，TT浏览器被捆绑在QQ的安装程序且为默认安装\[45\]。很多早期的第三方QQ版本（如[珊瑚虫QQ](../Page/珊瑚虫QQ.md "wikilink")、木子版QQ）的设计初衷是屏蔽QQ的广告和一些不必要的[软件和插件](../Page/软件.md "wikilink")，而且还为QQ增加很多新功能，如显示[IP地址](../Page/IP地址.md "wikilink")、查看好友是否隐身等。而包含显示IP地址功能的第三方QQ版本常被称为“IPQQ”。
+2001年，腾讯首次在QQ中集成[广告](https://zh.wikipedia.org/wiki/广告 "wikilink")\[44\]，而在QQ2005 Beta3版之前，TT浏览器被捆绑在QQ的安装程序且为默认安装\[45\]。很多早期的第三方QQ版本（如[珊瑚虫QQ](../Page/珊瑚虫QQ.md "wikilink")、木子版QQ）的设计初衷是屏蔽QQ的广告和一些不必要的[软件](../Page/软件.md "wikilink")和插件，而且还为QQ增加很多新功能，如显示[IP地址](../Page/IP地址.md "wikilink")、查看好友是否隐身等。而包含显示IP地址功能的第三方QQ版本常被称为“IPQQ”。
 
 <table>
 <thead>
@@ -665,7 +656,7 @@ Beta3版之前，TT浏览器被捆绑在QQ的安装程序且为默认安装\[45\
 <td><p>2006 Milestone 2</p></td>
 <td><p>2006年1月22日</p></td>
 <td><p>多语言</p></td>
-<td><p>用<a href="../Page/Java.md" title="wikilink">Java及</a><a href="../Page/SWT.md" title="wikilink">SWT实现的QQ客户端核心库及用户友好的客户端</a>。2006年开始停止开发[54]。</p></td>
+<td><p>用<a href="../Page/Java.md" title="wikilink">Java</a>及<a href="../Page/SWT.md" title="wikilink">SWT</a>实现的QQ客户端核心库及用户友好的客户端。2006年开始停止开发[54]。</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -674,7 +665,7 @@ Beta3版之前，TT浏览器被捆绑在QQ的安装程序且为默认安装\[45\
 <td><p>0.7</p></td>
 <td><p>2006年5月10日</p></td>
 <td><p><a href="../Page/英语.md" title="wikilink">英语</a></p></td>
-<td><p>基于<a href="../Page/LumaQQ.md" title="wikilink">LumaQQJava核心库的命令行版本的QQ第三方客户端</a>[55]。</p></td>
+<td><p>基于<a href="../Page/LumaQQ.md" title="wikilink">LumaQQ</a>Java核心库的命令行版本的QQ第三方客户端[55]。</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -683,7 +674,7 @@ Beta3版之前，TT浏览器被捆绑在QQ的安装程序且为默认安装\[45\
 <td><p>Net::OICQ 1.6</p></td>
 <td><p>2007年6月16日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/简体中文" title="wikilink">简体中文</a>、英语</p></td>
-<td><p>Net::OICQ是一个<a href="../Page/Perl.md" title="wikilink">Perl的面向对象的模块</a>，包含连接QQ服务器的基本方法，其内部分程序能实现基本的QQ功能[56]。</p></td>
+<td><p>Net::OICQ是一个<a href="../Page/Perl.md" title="wikilink">Perl</a>的面向对象的模块，包含连接QQ服务器的基本方法，其内部分程序能实现基本的QQ功能[56]。</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -711,7 +702,7 @@ Beta3版之前，TT浏览器被捆绑在QQ的安装程序且为默认安装\[45\
 <td><p>0.4.1</p></td>
 <td><p>2006年1月24日</p></td>
 <td><p>简体中文</p></td>
-<td><p>Linux <a href="../Page/KDE.md" title="wikilink">KDE下兼容QQ即时通讯协议的客户端</a></p></td>
+<td><p>Linux <a href="../Page/KDE.md" title="wikilink">KDE</a>下兼容QQ即时通讯协议的客户端</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -719,7 +710,7 @@ Beta3版之前，TT浏览器被捆绑在QQ的安装程序且为默认安装\[45\
 <td><p>2.32.0.1</p></td>
 <td><p>2010年10月4日</p></td>
 <td><p>多语言</p></td>
-<td><p><a href="../Page/Ubuntu.md" title="wikilink">Ubuntu和</a><a href="../Page/Fedora.md" title="wikilink">Fedora目前默认的即时通讯软件的聊天程序</a>。</p></td>
+<td><p><a href="../Page/Ubuntu.md" title="wikilink">Ubuntu</a>和<a href="../Page/Fedora.md" title="wikilink">Fedora</a>目前默认的即时通讯软件的聊天程序。</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -761,16 +752,13 @@ Beta3版之前，TT浏览器被捆绑在QQ的安装程序且为默认安装\[45\
   - 电子邮箱 （该方式随QQ2007正式版发布而加入）
   - 手机号码 （该方式于2012年增加）
 
-QQ号码由[数字组成](https://zh.wikipedia.org/wiki/数字 "wikilink")，在1999年，即QQ刚推出不久时，其长度为5位数\[61\]，而目前通过免费注册的QQ号码长度已超过10位数。QQ号码分为免费的“普通号码”、付费的“QQ靓号”和“QQ行号码”，包含某种特定寓意（如[生日](../Page/生日.md "wikilink")、手机号码）或重复数字的号码通常作为靓号在QQ号码商城出售。目前售价最高的QQ号码是由腾讯公司总裁[马化腾在](../Page/马化腾.md "wikilink")[淘宝网举办的](../Page/淘宝网.md "wikilink")[南亚海啸赈灾义卖活动中通过](https://zh.wikipedia.org/wiki/南亚海啸 "wikilink")[竞拍方式最终以](../Page/拍卖.md "wikilink")26.02万元的价格出售的QQ号码“88888”\[62\]\[63\]。
+QQ号码由[数字组成](https://zh.wikipedia.org/wiki/数字 "wikilink")，在1999年，即QQ刚推出不久时，其长度为5位数\[61\]，而目前通过免费注册的QQ号码长度已超过10位数。QQ号码分为免费的“普通号码”、付费的“QQ靓号”和“QQ行号码”，包含某种特定寓意（如[生日](../Page/生日.md "wikilink")、手机号码）或重复数字的号码通常作为靓号在QQ号码商城出售。目前售价最高的QQ号码是由腾讯公司总裁[马化腾](../Page/马化腾.md "wikilink")在[淘宝网](../Page/淘宝网.md "wikilink")举办的[南亚海啸赈灾义卖活动中通过](https://zh.wikipedia.org/wiki/南亚海啸 "wikilink")[竞拍方式最终以](../Page/拍卖.md "wikilink")26.02万元的价格出售的QQ号码“88888”\[62\]\[63\]。
 
-腾讯在其
-《QQ号码规则》规定“QQ账号使用权仅属于初始申请注册人，禁止赠与、借用、租用、转让或售卖”\[64\]。2005年3月至7月期间，一名腾讯职员与另外一人合谋通过内部窃取他人QQ号码出售获利，最终两人以侵犯他人通信自由罪被判各[拘役六个月](../Page/拘役.md "wikilink")\[65\]。同时，根据协议，腾讯有权回收QQ号码，除由于非法转售QQ号码而被回收外，回收的对象还包括3个月内没有登录纪录的普通QQ号码，自关停后一个月内没有及时续费的付费号码，非法抢注的、用于[灌水或群发](https://zh.wikipedia.org/wiki/灌水 "wikilink")[广告的号码](https://zh.wikipedia.org/wiki/广告 "wikilink")\[66\]。
+腾讯在其 《QQ号码规则》规定“QQ账号使用权仅属于初始申请注册人，禁止赠与、借用、租用、转让或售卖”\[64\]。2005年3月至7月期间，一名腾讯职员与另外一人合谋通过内部窃取他人QQ号码出售获利，最终两人以侵犯他人通信自由罪被判各[拘役](../Page/拘役.md "wikilink")六个月\[65\]。同时，根据协议，腾讯有权回收QQ号码，除由于非法转售QQ号码而被回收外，回收的对象还包括3个月内没有登录纪录的普通QQ号码，自关停后一个月内没有及时续费的付费号码，非法抢注的、用于[灌水或群发](https://zh.wikipedia.org/wiki/灌水 "wikilink")[广告的号码](https://zh.wikipedia.org/wiki/广告 "wikilink")\[66\]。
 
 ### QQ群
 
-[QQ群是由是一个聚集一定数量QQ用户的长期稳定的公共](https://zh.wikipedia.org/wiki/QQ群 "wikilink")[聊天室](https://zh.wikipedia.org/wiki/聊天室 "wikilink")，最早见于QQ2000c
-Build0825版本。QQ群成员可以通过文字、[语音](https://zh.wikipedia.org/wiki/语音 "wikilink")、和视频进行聊天，在群空间内也可以通过群论坛、群相册、群共享文件等方式进行交流。创建QQ群的人叫做群主，能委任群成员为管理员，并且有全部权利解散群，群主和管理员可以添加、删除群成员（群成员也可以要求其他人加入，但需要管理员或者群主同意）和撤回成员消息。相对于QQ群，群[讨论组适合少人的文字图片聊天](https://zh.wikipedia.org/wiki/讨论组 "wikilink")，最早见于QQ2004
-Preview\[67\]。QQ群与[QQ校友里的班级绑定后](https://zh.wikipedia.org/wiki/QQ校友 "wikilink")，QQ群随即变为班级群，群内的成员名字默认显示为其在QQ校友注册的姓名，同时共享空间也会被置换成QQ校友的共享空间。现QQ群共享空间更名为群文件，空间随群人数变动。QQ群拥有群视频，群签到，群论坛，群文件，群相册，群调查等等数十项应用。\[68\]。
+[QQ群是由是一个聚集一定数量QQ用户的长期稳定的公共](https://zh.wikipedia.org/wiki/QQ群 "wikilink")[聊天室](https://zh.wikipedia.org/wiki/聊天室 "wikilink")，最早见于QQ2000c Build0825版本。QQ群成员可以通过文字、[语音](https://zh.wikipedia.org/wiki/语音 "wikilink")、和视频进行聊天，在群空间内也可以通过群论坛、群相册、群共享文件等方式进行交流。创建QQ群的人叫做群主，能委任群成员为管理员，并且有全部权利解散群，群主和管理员可以添加、删除群成员（群成员也可以要求其他人加入，但需要管理员或者群主同意）和撤回成员消息。相对于QQ群，群[讨论组适合少人的文字图片聊天](https://zh.wikipedia.org/wiki/讨论组 "wikilink")，最早见于QQ2004 Preview\[67\]。QQ群与[QQ校友里的班级绑定后](https://zh.wikipedia.org/wiki/QQ校友 "wikilink")，QQ群随即变为班级群，群内的成员名字默认显示为其在QQ校友注册的姓名，同时共享空间也会被置换成QQ校友的共享空间。现QQ群共享空间更名为群文件，空间随群人数变动。QQ群拥有群视频，群签到，群论坛，群文件，群相册，群调查等等数十项应用。\[68\]。
 
 <table>
 <caption>QQ群和群讨论组功能对比[69]</caption>
@@ -837,7 +825,7 @@ Preview\[67\]。QQ群与[QQ校友里的班级绑定后](https://zh.wikipedia.org
 
 ### QQ秀
 
-**QQ秀**是[腾讯推出的为](../Page/腾讯.md "wikilink")[QQ服务的一项商业化增值服务](../Page/腾讯QQ.md "wikilink")，大部分需要使用[Q币购买](https://zh.wikipedia.org/wiki/Q币 "wikilink")，这项功能能让用户更显示出个性。\[74\]
+**QQ秀**是[腾讯](../Page/腾讯.md "wikilink")推出的为[QQ服务的一项商业化增值服务](../Page/腾讯QQ.md "wikilink")，大部分需要使用[Q币购买](https://zh.wikipedia.org/wiki/Q币 "wikilink")，这项功能能让用户更显示出个性。\[74\]
 
 #### 厘米秀
 
@@ -851,7 +839,7 @@ Preview\[67\]。QQ群与[QQ校友里的班级绑定后](https://zh.wikipedia.org
 
 ### 会员与等级制
 
-腾讯推出的会员制和等级制是其[商业化尝试之一](../Page/商业.md "wikilink")，用户通过有偿方式，在登录、附加功能等项目上拥有更多的权限和便捷。
+腾讯推出的会员制和等级制是其[商业](../Page/商业.md "wikilink")化尝试之一，用户通过有偿方式，在登录、附加功能等项目上拥有更多的权限和便捷。
 
 <table>
 <caption>腾讯QQ的等级系统</caption>
@@ -931,7 +919,7 @@ Preview\[67\]。QQ群与[QQ校友里的班级绑定后](https://zh.wikipedia.org
 <td><p>2005年9月1日</p></td>
 <td><p>2004年7月12日</p></td>
 <td><p>2008年4月2日</p></td>
-<td><p>在QQ2007 Beta3发布时，原QQ音乐VIP改称为绿钻。绿钻的额外功能和服务有正版<a href="../Page/音乐.md" title="wikilink">音乐下载</a>、高清<a href="https://zh.wikipedia.org/wiki/音乐视频" title="wikilink">音乐视频观看</a>、提供<a href="https://zh.wikipedia.org/wiki/表演" title="wikilink">演出折扣</a>[79]。</p></td>
+<td><p>在QQ2007 Beta3发布时，原QQ音乐VIP改称为绿钻。绿钻的额外功能和服务有正版<a href="../Page/音乐.md" title="wikilink">音乐</a>下载、高清<a href="https://zh.wikipedia.org/wiki/音乐视频" title="wikilink">音乐视频观看</a>、提供<a href="https://zh.wikipedia.org/wiki/表演" title="wikilink">演出折扣</a>[79]。</p></td>
 </tr>
 <tr class="odd">
 <td><p>蓝钻</p></td>
@@ -1022,7 +1010,7 @@ Preview\[67\]。QQ群与[QQ校友里的班级绑定后](https://zh.wikipedia.org
 
 ### 轉賬和紅包
 
-要更新至最新的手机QQ5.4版本\[85\]\[86\]。2018年1月8日起，qq红包做出服务变更，如果用户将qq钱包余额提现到[银行卡上](../Page/银行卡.md "wikilink")，将收取服务费。每位用户获得1000元的免费提现额度，超过将被收取0.1%的费用，每次提现至少收取1角钱。如不够1角钱，系统将会禁止提现，其他支付功能，如红包和转账保持免费。
+要更新至最新的手机QQ5.4版本\[85\]\[86\]。2018年1月8日起，qq红包做出服务变更，如果用户将qq钱包余额提现到[银行卡](../Page/银行卡.md "wikilink")上，将收取服务费。每位用户获得1000元的免费提现额度，超过将被收取0.1%的费用，每次提现至少收取1角钱。如不够1角钱，系统将会禁止提现，其他支付功能，如红包和转账保持免费。
 
 ## 相关事件
 
@@ -1036,25 +1024,20 @@ Preview\[67\]。QQ群与[QQ校友里的班级绑定后](https://zh.wikipedia.org
 
   - [腾讯QQ下载](https://im.qq.com/download/)
 
-[Category:即时通讯软件](https://zh.wikipedia.org/wiki/Category:即时通讯软件 "wikilink")
-[Category:中国驰名商标](https://zh.wikipedia.org/wiki/Category:中国驰名商标 "wikilink")
-[Category:腾讯QQ](https://zh.wikipedia.org/wiki/Category:腾讯QQ "wikilink")
+[Category:即时通讯软件](https://zh.wikipedia.org/wiki/Category:即时通讯软件 "wikilink") [Category:中国驰名商标](https://zh.wikipedia.org/wiki/Category:中国驰名商标 "wikilink") [Category:腾讯QQ](https://zh.wikipedia.org/wiki/Category:腾讯QQ "wikilink")
 
-1.  [腾讯·公司信息](http://www.tencent.com/zh-cn/at/rm/2003.shtml)
-    .\[2010-9-23\]
+1.  [腾讯·公司信息](http://www.tencent.com/zh-cn/at/rm/2003.shtml) .\[2010-9-23\]
 
 2.  [腾讯高价海外回购域名秘密重铸QQ品牌战略](http://news.chinabyte.com/110/1659110.shtml).ChinaByte\[2003-3-25\]
 
-3.  黄孟复.[中国民营企业自主创新调查](http://books.google.com.hk/books?id=gr_sWBs78ssC&pg=PA394)\[M\].北京：中华工商联合出版社,
-    2007:394.
+3.  黄孟复.[中国民营企业自主创新调查](http://books.google.com.hk/books?id=gr_sWBs78ssC&pg=PA394)\[M\].北京：中华工商联合出版社, 2007:394.
 
 4.  [QQ版本发展历程](http://im.qq.com/culture/version.shtml).QQ官方网站\[2010-9-23\]
 
 5.
 6.
 7.
-8.  北方网.[升级神速！腾讯QQ2003III
-    beta1抢鲜下载](http://it.enorth.com.cn/system/2003/11/18/000670241.shtml).\[2003-11-18\]
+8.  北方网.[升级神速！腾讯QQ2003III beta1抢鲜下载](http://it.enorth.com.cn/system/2003/11/18/000670241.shtml).\[2003-11-18\]
 
 9.
 10. 腾讯网.[QQ同时在线历程：2010年3月5日最高在线破1亿](http://tech.qq.com/a/20100305/000559.htm).\[2010-3-5\]
@@ -1073,68 +1056,51 @@ Preview\[67\]。QQ群与[QQ校友里的班级绑定后](https://zh.wikipedia.org
 
 17. 腾讯网.[中西合璧：QQ国际版尝鲜体验](http://xian.qq.com/a/20091016/000035.htm).\[2009-10-16\]
 
-18. 东北网.[交友国际化QQ International
-    Beta1发布](http://it.dbw.cn/system/2009/09/27/052131546.shtml).\[2009-9-27\]
+18. 东北网.[交友国际化QQ International Beta1发布](http://it.dbw.cn/system/2009/09/27/052131546.shtml).\[2009-9-27\]
 
 19. [腾讯TM](http://im.qq.com/tm/2013).\[2011-4-28\]
 
-20. 华军资讯.[腾讯将收购泰国门户网站Sanook 49.9%股份](http://news.newhua.com/news/2010/0827/100769.shtml).
-    \[2010-8-27\]
+20. 华军资讯.[腾讯将收购泰国门户网站Sanook 49.9%股份](http://news.newhua.com/news/2010/0827/100769.shtml). \[2010-8-27\]
 
-21. [ibibo.About Us](http://www.ibibo.com/aboutus/main.php).
-    \[2010-9-26\]
+21. [ibibo.About Us](http://www.ibibo.com/aboutus/main.php). \[2010-9-26\]
 
 22. 百度空间.[QQ也有盗版？越南ZingChat雷人！开心农场也被山寨！](http://hi.baidu.com/dekaron/blog/item/7fca642320335a4593580775.html).\[2009-12-17\]
 
 23. 《中国企业家》.[腾讯国际化全局](http://tech.qq.com/a/20100512/000284.htm).\[2010-5-12\]
 
-24. [Internet Archive Wayback Machine.Search
-    Result](https://web.archive.org/web/20070116110204/http://www.sonky.com/qqitaly/).\[2010-9-26\]
+24. [Internet Archive Wayback Machine.Search Result](https://web.archive.org/web/20070116110204/http://www.sonky.com/qqitaly/).\[2010-9-26\]
 
-25. Sonky.[QQITALY for Iphone](http://www.sonky.com/qqitaly/iphone/) .
-    \[2010-9-26\]
+25. Sonky.[QQITALY for Iphone](http://www.sonky.com/qqitaly/iphone/) . \[2010-9-26\]
 
-26. 企奥网.[南非版QQ测评-斗鸡眼的小企鹅](http://www.qqaomi.com/2010/06/%E4%BC%81%E5%A5%A5%E5%8D%97%E9%9D%9E%E7%89%88qq%E6%B5%8B%E8%AF%84/)
-    .\[2010-6-9\]
+26. 企奥网.[南非版QQ测评-斗鸡眼的小企鹅](http://www.qqaomi.com/2010/06/%E4%BC%81%E5%A5%A5%E5%8D%97%E9%9D%9E%E7%89%88qq%E6%B5%8B%E8%AF%84/) .\[2010-6-9\]
 
-27. 太平洋电脑网.[试用QQ for
-    Mac:原来如此简单](http://www.pconline.com.cn/pcedu/qq/zhixun/0801/1216405.html).
-    \[2008-1-28\]
+27. 太平洋电脑网.[试用QQ for Mac:原来如此简单](http://www.pconline.com.cn/pcedu/qq/zhixun/0801/1216405.html). \[2008-1-28\]
 
 28. 新浪.[腾讯正式推出首款苹果版QQ软件](http://tech.sina.com.cn/i/2008-01-28/18442001949.shtml).\[2008-1-28\]
 
-29. QQ for
-    Mac.[当前版本功能介绍](http://im.qq.com/qq/mac/download.shtml).\[2010-9-25\]
+29. QQ for Mac.[当前版本功能介绍](http://im.qq.com/qq/mac/download.shtml).\[2010-9-25\]
 
-30. QQ for Linux.[一般问题解答](http://im.qq.com/qq/linux/help.shtml).
-    \[2010-9-25\]
+30. QQ for Linux.[一般问题解答](http://im.qq.com/qq/linux/help.shtml). \[2010-9-25\]
 
-31. 腾讯客服.[QQ软件常见问题 - Linux
-    QQ问题](http://service.qq.com/category/1008_1.html) .\[2010-9-25\]
+31. 腾讯客服.[QQ软件常见问题 - Linux QQ问题](http://service.qq.com/category/1008_1.html) .\[2010-9-25\]
 
-32. Ubuntu之家.[QQ FOR
-    LINUX将要更新了？](http://www.ubuntuhome.com/qq-for-linux-will-update.html)
-    .
+32. Ubuntu之家.[QQ FOR LINUX将要更新了？](http://www.ubuntuhome.com/qq-for-linux-will-update.html) .
 
 33. 太平洋电脑网.[出门在外就用它：WebQQ网页聊天初体验](http://pcedu.pconline.com.cn/qq/jiqiao/0904/1621706.html).\[2009-4-16\]
 
 34. 太平洋电脑网.[腾讯WebOS新布局WebQQ 2.0亮点深度体验](http://pcedu.pconline.com.cn/pingce/pingcenormal/1009/2220885.html).\[2010-9-14\]
 
-35. 驱动之家MyDrivers.[更像OS腾讯WebQQ 3.0新版上线](http://tech.163.com/digi/11/0422/07/727QIRJ600162OUT.html).
-    \[2011-4-22\]
+35. 驱动之家MyDrivers.[更像OS腾讯WebQQ 3.0新版上线](http://tech.163.com/digi/11/0422/07/727QIRJ600162OUT.html). \[2011-4-22\]
 
 36. [Q+ Web - 搜搜百科](http://baike.soso.com/v43691303.htm)
 
 37. [Q+官方网站-产品中心](http://www.qplus.com/productForWeb.shtml)
 
-38. 91手机.\[<http://android.91.com/content/2010-03-30/20100330075812461.shtml>,
-    droid腾讯官方QQ上线\]. \[2010-3-30\]
+38. 91手机.\[<http://android.91.com/content/2010-03-30/20100330075812461.shtml>, droid腾讯官方QQ上线\]. \[2010-3-30\]
 
-39. 南方报业网.\[<http://nf.nfdaily.cn/nanfangdaily/21cn/200909070079.asp>,
-    iPhone创富志\].\[2009-9-7\]
+39. 南方报业网.\[<http://nf.nfdaily.cn/nanfangdaily/21cn/200909070079.asp>, iPhone创富志\].\[2009-9-7\]
 
-40. [iTunes 的 App Store
-    中的“QQ”](https://itunes.apple.com/cn/app/qq-2011/id444934666?mt=8)
+40. [iTunes 的 App Store 中的“QQ”](https://itunes.apple.com/cn/app/qq-2011/id444934666?mt=8)
 
 41. [1](https://itunes.apple.com/am/app/qq-hd/id453718989?mt=8)
 
@@ -1144,8 +1110,7 @@ Preview\[67\]。QQ群与[QQ校友里的班级绑定后](https://zh.wikipedia.org
 
 44. 天极网.[腾讯QQ七年成长历程回顾](http://soft.yesky.com/lianluo/201/2170201.shtml).\[2005-10-27\]
 
-45. 腾讯.[QQ2005
-    Beta3](http://im.qq.com/qq/2005/beta3/index_d.shtml).\[2010-10-1\]
+45. 腾讯.[QQ2005 Beta3](http://im.qq.com/qq/2005/beta3/index_d.shtml).\[2010-10-1\]
 
 46.
 
@@ -1153,11 +1118,9 @@ Preview\[67\]。QQ群与[QQ校友里的班级绑定后](https://zh.wikipedia.org
 
 48. 搜狐网.[51.com中止彩虹QQ开发维护内部业务重组](http://it.sohu.com/20081217/n261251511.shtml).\[2008-12-17\]
 
-49. cnBeta.[告别飘云\!飘云QQ核心技术人员正式声明退出开发](http://www.cnbeta.com/articles/40844.htm)
-    . \[2007-10-11\]
+49. cnBeta.[告别飘云\!飘云QQ核心技术人员正式声明退出开发](http://www.cnbeta.com/articles/40844.htm) . \[2007-10-11\]
 
-50. 华军资讯网.[飘云重拾QQ复制陈寿福珊瑚虫的疯狂？](http://news.newhua.com/news1/net/2008/610/08610153028C9C52FGE95CCFAA0AAK9KK1EFJ4G45GA1JAH3HDG1CID2.html)
-    .\[2008-6-10\]
+50. 华军资讯网.[飘云重拾QQ复制陈寿福珊瑚虫的疯狂？](http://news.newhua.com/news1/net/2008/610/08610153028C9C52FGE95CCFAA0AAK9KK1EFJ4G45GA1JAH3HDG1CID2.html) .\[2008-6-10\]
 
 51. <http://bbs.ntrqq.net/forum.php?mod=forumdisplay&fid=15&filter=typeid&typeid=47>
 
@@ -1165,33 +1128,23 @@ Preview\[67\]。QQ群与[QQ校友里的班级绑定后](https://zh.wikipedia.org
 
 53. [libqq](http://code.google.com/p/libqq-pidgin/).
 
-54. LumaQQ.[Java
-    Edition](http://lumaqq.linuxsir.org/main/LumaQQJavaEdition.html)
-    .\[2010-9-27\]
+54. LumaQQ.[Java Edition](http://lumaqq.linuxsir.org/main/LumaQQJavaEdition.html) .\[2010-9-27\]
 
-55. TextQQ.[Project
-    Info](http://cosoft.org.cn/projects/textqq/).\[2010-9-27\]
+55. TextQQ.[Project Info](http://cosoft.org.cn/projects/textqq/).\[2010-9-27\]
 
-56. Perl OICQ.[Perl OICQ](http://perl-oicq.sourceforge.net/).
-    \[2010-9-27\]
+56. Perl OICQ.[Perl OICQ](http://perl-oicq.sourceforge.net/). \[2010-9-27\]
 
-57. Miranda IM.[MirandaQQ (libeva
-    Version) 0.1.0.27](http://addons.miranda-im.org/details.php?action=viewfile&id=2107)
-    .\[2010-10-1\]
+57. Miranda IM.[MirandaQQ (libeva Version) 0.1.0.27](http://addons.miranda-im.org/details.php?action=viewfile&id=2107) .\[2010-10-1\]
 
-58. Miranda
-    IM.[MirandaQQ2 0.2.0.68](http://addons.miranda-im.org/details.php?action=viewfile&id=3348).\[2010-10-1\]
+58. Miranda IM.[MirandaQQ2 0.2.0.68](http://addons.miranda-im.org/details.php?action=viewfile&id=3348).\[2010-10-1\]
 
-59. AdiumQQ
-    github.com/worr/AdiumQQ/（adiumxtras.com/index.php?a=xtras\&xtra_id=8226）
+59. AdiumQQ github.com/worr/AdiumQQ/（adiumxtras.com/index.php?a=xtras\&xtra_id=8226）
 
 60. 渤麦堂.[isQ开发小组](http://www.sinomac.com/isQ/index.php) .\[2010-10-1\]
 
-61. 杨子晚报.[网友追捧最牛QQ号](http://epaper.yangtse.com/yzwb/2009-10/09/content_14179623.htm)
-    . \[2009-10-9\]
+61. 杨子晚报.[网友追捧最牛QQ号](http://epaper.yangtse.com/yzwb/2009-10/09/content_14179623.htm) . \[2009-10-9\]
 
-62. 中国江西省广播电视今视网.[腾讯五位至尊QQ号码“88888”拍出天价26.02万](http://www.jxgdw.com/news/shxw/2005-01-31/3000028795.html)
-    .\[2007-12-23\]
+62. 中国江西省广播电视今视网.[腾讯五位至尊QQ号码“88888”拍出天价26.02万](http://www.jxgdw.com/news/shxw/2005-01-31/3000028795.html) .\[2007-12-23\]
 
 63.
 
@@ -1199,13 +1152,11 @@ Preview\[67\]。QQ群与[QQ校友里的班级绑定后](https://zh.wikipedia.org
 
 65. 徐强.[全国首宗盗卖QQ号码案宣判定侵犯通信自由罪](http://www.chinacourt.org/public/detail.php?id=192244)。中国法院网\[2006-1-13\]
 
-66. 硅谷动力.[深入了解：腾讯回收QQ号码原则](http://www.enet.com.cn/article/2006/0123/A20060123496230.shtml)
-    .\[2006-1-23\]
+66. 硅谷动力.[深入了解：腾讯回收QQ号码原则](http://www.enet.com.cn/article/2006/0123/A20060123496230.shtml) .\[2006-1-23\]
 
 67. 腾讯.[QQ群组](http://service.qq.com/category/18_1.html) .\[2010-10-4\]
 
-68. 腾讯.[校友班级和QQ群问题](http://service.qq.com/category/1154_1.html) .
-    \[2010-10-4\]
+68. 腾讯.[校友班级和QQ群问题](http://service.qq.com/category/1154_1.html) . \[2010-10-4\]
 
 69.
 70. [传QQ在内测万人群](http://tech.163.com/16/0406/08/BJV4O6EA00094OE0.html)
@@ -1224,20 +1175,17 @@ Preview\[67\]。QQ群与[QQ校友里的班级绑定后](https://zh.wikipedia.org
 
 77. 腾讯.[QQ在线计划说明](http://im.qq.com/qq/mo.shtml?time.htm).\[2010-10-6\]
 
-78. 腾讯.[黄钻等级体系](http://beta-imgcache.qzone.qq.com/qzone/mall/v3/vip/portal/series.htm).
-    \[2010-10-4\]
+78. 腾讯.[黄钻等级体系](http://beta-imgcache.qzone.qq.com/qzone/mall/v3/vip/portal/series.htm). \[2010-10-4\]
 
 79. 腾讯.[绿钻](http://vip.music.qq.com/v2/privileges/index.html).\[2010-10-5\]
 
 80. 太平洋电脑网.[QQ蓝钻将推出等级体系](http://www.pconline.com.cn/pcedu/qq/zhixun/0811/1473924.html).\[2008-11-11\]
 
-81. [蓝钻贵族使用帮助](http://minigame.qq.com/gamevip/help.html) 。蓝钻贵族FAQ
-    \[2011-11-28\]
+81. [蓝钻贵族使用帮助](http://minigame.qq.com/gamevip/help.html) 。蓝钻贵族FAQ \[2011-11-28\]
 
 82. 腾讯.[黑钻等级规则](http://dnf.qq.com/comm-htdocs/vip/dnf/power_8.htm).\[2010-10-5\]
 
-83. 腾讯.[购Q宠粉钻送礼包限时优惠火爆抢购](http://games.qq.com/a/20070412/000251.htm).
-    \[2007-4-12\]
+83. 腾讯.[购Q宠粉钻送礼包限时优惠火爆抢购](http://games.qq.com/a/20070412/000251.htm). \[2007-4-12\]
 
 84.
 

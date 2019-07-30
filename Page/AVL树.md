@@ -1,12 +1,8 @@
 [Unbalanced_binary_tree.svg](https://zh.wikipedia.org/wiki/File:Unbalanced_binary_tree.svg "fig:Unbalanced_binary_tree.svg")
 
-在[计算机科学中](../Page/计算机科学.md "wikilink")，**AVL树**是最早被发明的[自平衡二叉查找树](https://zh.wikipedia.org/wiki/自平衡二叉查找树 "wikilink")。在AVL树中，任一节点对应的两棵子树的最大高度差为1，因此它也被称为**高度平衡树**。查找、插入和删除在平均和最坏情况下的[時間複雜度都是](https://zh.wikipedia.org/wiki/時間複雜度 "wikilink")\(O(\log{n})\)。增加和删除元素的操作则可能需要藉由一次或多次[树旋转](../Page/树旋转.md "wikilink")，以实现树的重新平衡。AVL树得名于它的发明者[G.
-M.
-Adelson-Velsky和](https://zh.wikipedia.org/wiki/格奥尔吉·阿杰尔松-韦利斯基 "wikilink")，他们在1962年的论文《An
-algorithm for the organization of information》中公开了这一数据结构。
+在[计算机科学](../Page/计算机科学.md "wikilink")中，**AVL树**是最早被发明的[自平衡二叉查找树](https://zh.wikipedia.org/wiki/自平衡二叉查找树 "wikilink")。在AVL树中，任一节点对应的两棵子树的最大高度差为1，因此它也被称为**高度平衡树**。查找、插入和删除在平均和最坏情况下的[時間複雜度都是](https://zh.wikipedia.org/wiki/時間複雜度 "wikilink")\(O(\log{n})\)。增加和删除元素的操作则可能需要藉由一次或多次[树旋转](../Page/树旋转.md "wikilink")，以实现树的重新平衡。AVL树得名于它的发明者[G. M. Adelson-Velsky和](https://zh.wikipedia.org/wiki/格奥尔吉·阿杰尔松-韦利斯基 "wikilink")，他们在1962年的论文《An algorithm for the organization of information》中公开了这一数据结构。
 
-节点的**平衡因子**是它的左子树的高度减去它的右子树的高度（有時相反）。带有平衡因子1、0或 -1的节点被认为是平衡的。带有平衡因子
--2或2的节点被认为是不平衡的，并需要重新平衡这个树。平衡因子可以直接存储在每个节点中，或从可能存储在节点中的子树高度计算出来。
+节点的**平衡因子**是它的左子树的高度减去它的右子树的高度（有時相反）。带有平衡因子1、0或 -1的节点被认为是平衡的。带有平衡因子 -2或2的节点被认为是不平衡的，并需要重新平衡这个树。平衡因子可以直接存储在每个节点中，或从可能存储在节点中的子树高度计算出来。
 
 [AVLtreef.svg](https://zh.wikipedia.org/wiki/File:AVLtreef.svg "fig:AVLtreef.svg")
 
@@ -20,13 +16,11 @@ AVL树的基本操作一般涉及运作同在不平衡的[二叉查找树所运�
 
 ### 删除
 
-从AVL树中删除，可以通过把要删除的节点向下旋转成一个葉子節點，接着直接移除这个叶子节点来完成。因为在旋转成葉子節點期间最多有log
-*n*个节点被旋转，而每次AVL旋转耗费固定的时间，所以删除处理在整体上耗费O(log *n*) 时间。
+从AVL树中删除，可以通过把要删除的节点向下旋转成一个葉子節點，接着直接移除这个叶子节点来完成。因为在旋转成葉子節點期间最多有log *n*个节点被旋转，而每次AVL旋转耗费固定的时间，所以删除处理在整体上耗费O(log *n*) 时间。
 
 ### 搜尋
 
-可以像普通二叉查找树一样的进行，所以耗费O(log
-*n*)时间，因为AVL树总是保持平衡的。不需要特殊的准备，树的结构不会由于查找而改变。（这是与[伸展樹搜尋相对立的](https://zh.wikipedia.org/wiki/伸展樹 "wikilink")，它会因为搜尋而变更树结构。）
+可以像普通二叉查找树一样的进行，所以耗费O(log *n*)时间，因为AVL树总是保持平衡的。不需要特殊的准备，树的结构不会由于查找而改变。（这是与[伸展樹搜尋相对立的](https://zh.wikipedia.org/wiki/伸展樹 "wikilink")，它会因为搜尋而变更树结构。）
 
 ## 实现描述
 
@@ -79,10 +73,8 @@ merge_max({_, _, Right}, Tree2) ->
 
 ## AVL節點數計算
 
-高度為h的AVL樹，總節點數N最多\(2^h -1\)；
-最少節點數\(N_h\)如以[斐波那契數列可以用數學歸納法證明](https://zh.wikipedia.org/wiki/斐波那契數列 "wikilink")：
-\(N_h\) = \(F_{h+2}\) - 1
-(\(F_{h+2}\)是[斐波那契数列的第h](../Page/斐波那契数列.md "wikilink")+2项，根据斐波那契多项式得来)。
+高度為h的AVL樹，總節點數N最多\(2^h -1\)； 最少節點數\(N_h\)如以[斐波那契數列可以用數學歸納法證明](https://zh.wikipedia.org/wiki/斐波那契數列 "wikilink")：
+\(N_h\) = \(F_{h+2}\) - 1 (\(F_{h+2}\)是[斐波那契数列](../Page/斐波那契数列.md "wikilink")的第h+2项，根据斐波那契多项式得来)。
 即:
 \(N_0\) = 0 (表示AVL Tree高度為0的節點總數)
 \(N_1\) = 1 (表示AVL Tree高度為1的節點總數)
@@ -99,49 +91,24 @@ merge_max({_, _, Right}, Tree2) ->
 
 ## 引用
 
-  - G. Adelson-Velskii and E.M. Landis, "An algorithm for the
-    organization of information." *Doklady Akademii Nauk SSSR*,
-    146:263–266,
-    1962（[Russian](https://zh.wikipedia.org/wiki/Russian_language "wikilink")）.
-    [English](https://zh.wikipedia.org/wiki/English_language "wikilink")
-    translation by Myron J. Ricci in *Soviet Math. Doklady*,
-    3:1259–1263, 1962.
+  - G. Adelson-Velskii and E.M. Landis, "An algorithm for the organization of information." *Doklady Akademii Nauk SSSR*, 146:263–266, 1962（[Russian](https://zh.wikipedia.org/wiki/Russian_language "wikilink")）. [English](https://zh.wikipedia.org/wiki/English_language "wikilink") translation by Myron J. Ricci in *Soviet Math. Doklady*, 3:1259–1263, 1962.
 
 ## 外部链接
 
-  - [Description from the Dictionary of Algorithms and Data
-    Structures](http://www.nist.gov/dads/HTML/avltree.html)
-  - [AVL Tree
-    Traversal](http://www.auto.tuwien.ac.at/~blieb/woop/avl.html)
-  - [Linked AVL
-    tree](https://web.archive.org/web/20050410150229/http://www.elude.ca/aapl/doc/classAvliTree.html)
-  - [C++ AVL Tree
-    Template](https://web.archive.org/web/20060110102932/http://geocities.com/wkaras/gen_cpp/avl_tree.html)
-    and [C AVL TREE "Generic
-    Package"](https://web.archive.org/web/20050221060634/http://geocities.com/wkaras/gen_c/cavl_tree.html)
-    by Walt Karas
-  - [A Visual Basic AVL Tree Container
-    Class](http://vbwm.com/art_2001/avltree08/) by Jim Harris
-  - [AVL Trees: Tutorial and C++
-    Implementation](http://cmcrossroads.com/bradapp/ftp/src/libs/C++/AvlTrees.html)
-    by Brad Appleton
-  - [Ulm's Oberon Library:
-    AVLTrees](http://www.mathematik.uni-ulm.de/oberon/0.5/lib/man/AVLTrees.html)
-  - [The AVL TREE Data
-    Type](https://web.archive.org/web/20051120135525/http://www-old.physik.fu-berlin.de/edv_docu/documentation/xemacs-21.1.4/elib_toc.html#SEC21)
-  - [CNAVLTree Class
-    Reference](http://www.comnets.rwth-aachen.de/doc/cncl/classCNAVLTree.html)
+  - [Description from the Dictionary of Algorithms and Data Structures](http://www.nist.gov/dads/HTML/avltree.html)
+  - [AVL Tree Traversal](http://www.auto.tuwien.ac.at/~blieb/woop/avl.html)
+  - [Linked AVL tree](https://web.archive.org/web/20050410150229/http://www.elude.ca/aapl/doc/classAvliTree.html)
+  - [C++ AVL Tree Template](https://web.archive.org/web/20060110102932/http://geocities.com/wkaras/gen_cpp/avl_tree.html) and [C AVL TREE "Generic Package"](https://web.archive.org/web/20050221060634/http://geocities.com/wkaras/gen_c/cavl_tree.html) by Walt Karas
+  - [A Visual Basic AVL Tree Container Class](http://vbwm.com/art_2001/avltree08/) by Jim Harris
+  - [AVL Trees: Tutorial and C++ Implementation](http://cmcrossroads.com/bradapp/ftp/src/libs/C++/AvlTrees.html) by Brad Appleton
+  - [Ulm's Oberon Library: AVLTrees](http://www.mathematik.uni-ulm.de/oberon/0.5/lib/man/AVLTrees.html)
+  - [The AVL TREE Data Type](https://web.archive.org/web/20051120135525/http://www-old.physik.fu-berlin.de/edv_docu/documentation/xemacs-21.1.4/elib_toc.html#SEC21)
+  - [CNAVLTree Class Reference](http://www.comnets.rwth-aachen.de/doc/cncl/classCNAVLTree.html)
   - [GNU libavl](http://www.stanford.edu/~blp/avl/)
-  - [AVL-trees - balanced binary
-    trees](http://home.earthlink.net/~akonshin/delphi_components.htm) by
-    Alex Konshin
-  - [Simulation of AVL
-    Trees](https://web.archive.org/web/20051101013400/http://www.informatik.uni-mannheim.de/~cjk/publications/ed-media98/node11.html)
-  - [AVL tree
-    applet](http://www.csi.uottawa.ca/~stan/csi2514/applets/avl/BT.html)
-  - [Simulation of AVL Trees
-    (DYNAMIC)](https://web.archive.org/web/20050801080205/http://webpages.ull.es/users/jriera/Docencia/AVL/AVL%20tree%20applet.htm)
-  - [AVL, Splay and Red/Black
-    Applet](https://web.archive.org/web/20050801080205/http://webpages.ull.es/users/jriera/Docencia/AVL/AVL%20tree%20applet.htm)
+  - [AVL-trees - balanced binary trees](http://home.earthlink.net/~akonshin/delphi_components.htm) by Alex Konshin
+  - [Simulation of AVL Trees](https://web.archive.org/web/20051101013400/http://www.informatik.uni-mannheim.de/~cjk/publications/ed-media98/node11.html)
+  - [AVL tree applet](http://www.csi.uottawa.ca/~stan/csi2514/applets/avl/BT.html)
+  - [Simulation of AVL Trees (DYNAMIC)](https://web.archive.org/web/20050801080205/http://webpages.ull.es/users/jriera/Docencia/AVL/AVL%20tree%20applet.htm)
+  - [AVL, Splay and Red/Black Applet](https://web.archive.org/web/20050801080205/http://webpages.ull.es/users/jriera/Docencia/AVL/AVL%20tree%20applet.htm)
 
 [Category:树结构](https://zh.wikipedia.org/wiki/Category:树结构 "wikilink")

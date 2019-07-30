@@ -1,25 +1,14 @@
-**K
-ONE**是闊耳音樂[韓羅賢與GMM](../Page/韓羅賢.md "wikilink")8866唱片[許常德](../Page/許常德.md "wikilink")，於2002年所成立的[可達娛樂所發掘並加以訓練而成立的男孩團體](https://zh.wikipedia.org/wiki/可達娛樂 "wikilink")。於2003年10月出道、以精湛舞技和舞蹈動作整齊劃一著名。
-成立的初期成員有六人，因此曾一度取名為「六壯士」，後因該團為可達娛樂(英文名稱：KEDA)所推出的第一個團體，故取名為**K ONE**。
+**K ONE**是闊耳音樂[韓羅賢](../Page/韓羅賢.md "wikilink")與GMM8866唱片[許常德](../Page/許常德.md "wikilink")，於2002年所成立的[可達娛樂所發掘並加以訓練而成立的男孩團體](https://zh.wikipedia.org/wiki/可達娛樂 "wikilink")。於2003年10月出道、以精湛舞技和舞蹈動作整齊劃一著名。 成立的初期成員有六人，因此曾一度取名為「六壯士」，後因該團為可達娛樂(英文名稱：KEDA)所推出的第一個團體，故取名為**K ONE**。
 
 ## 簡介
 
-  - [5566成員](../Page/5566.md "wikilink")[小刀和闊耳的關係匪淺](../Page/彭康育.md "wikilink")，後來可達娛樂於2003年中因故休業，K
-    ONE的經紀約還給原來的闊耳經紀。
-  - 2003年底韓羅賢和小刀合組捍衛艦娛樂公司，將K
-    ONE的經紀合約轉至捍衛艦，並由該公司和[艾迴簽下唱片約](../Page/愛貝克思_\(台灣\).md "wikilink")，於2003年十月發行首張專輯，並于發片後一個月內於新莊體育場舉辦出道演唱會。
-  - 由於小刀當年因腰傷離開喬傑立男子團體5566，但基於與[喬傑立娛樂老闆](../Page/喬傑立娛樂.md "wikilink")[孫德榮的友好關係](../Page/孫德榮.md "wikilink")，於是在2004年下旬，將K
-    ONE之經紀約轉讓給[喬傑立娛樂](../Page/喬傑立娛樂.md "wikilink")，成為了喬傑立娛樂的旗下團體。
+  - [5566](../Page/5566.md "wikilink")成員[小刀和闊耳的關係匪淺](../Page/彭康育.md "wikilink")，後來可達娛樂於2003年中因故休業，K ONE的經紀約還給原來的闊耳經紀。
+  - 2003年底韓羅賢和小刀合組捍衛艦娛樂公司，將K ONE的經紀合約轉至捍衛艦，並由該公司和[艾迴簽下唱片約](../Page/愛貝克思_\(台灣\).md "wikilink")，於2003年十月發行首張專輯，並于發片後一個月內於新莊體育場舉辦出道演唱會。
+  - 由於小刀當年因腰傷離開喬傑立男子團體5566，但基於與[喬傑立娛樂](../Page/喬傑立娛樂.md "wikilink")老闆[孫德榮](../Page/孫德榮.md "wikilink")的友好關係，於是在2004年下旬，將K ONE之經紀約轉讓給[喬傑立娛樂](../Page/喬傑立娛樂.md "wikilink")，成為了喬傑立娛樂的旗下團體。
   - 2005年，[小刀成立](../Page/彭康育.md "wikilink")[大國翼星娛樂](../Page/大國翼星娛樂.md "wikilink")。
-  - 2006年10月下旬，K one对於这次乔杰立帮他们挑选的歌曲颇有意见，认为把一些古典音乐改编成流行乐并不理想，K
-    one请经纪人小刀出面与乔杰立协商，小刀对乔杰立表示，有意把新专辑的宣传拿回自己公司来做。最後[小刀順利奪回了K](../Page/彭康育.md "wikilink")
-    one新專輯宣傳的主導權，經紀約也歸還給[大國翼星娛樂](../Page/大國翼星娛樂.md "wikilink")，但K
-    ONE的新專輯企劃方面，喬傑立娛樂還是有部分參與。
-  - 2007年10月17日，根據自由時報報導K ONE已成軍5年，已經差不多了，暗指團體面臨解散運命！據悉，K
-    ONE跟艾迴唱片不再續約，未來是否再出片，一切都還是未知數\[1\]
-  - 2008年，K
-    ONE與[大國翼星娛樂合約到期](../Page/大國翼星娛樂.md "wikilink")，五人已不再續約，其中[Gino現為民視](../Page/Gino.md "wikilink")[鳳凰藝能旗下藝人](../Page/鳳凰藝能.md "wikilink")、[JR於](https://zh.wikipedia.org/wiki/JR_\(藝人\) "wikilink")2016年轉投[天晴音樂](https://zh.wikipedia.org/wiki/天晴音樂 "wikilink")，而[立揚重心轉往大陆](https://zh.wikipedia.org/wiki/立揚 "wikilink")，目前為大陆知名Club
-    DJ以及音樂人。
+  - 2006年10月下旬，K one对於这次乔杰立帮他们挑选的歌曲颇有意见，认为把一些古典音乐改编成流行乐并不理想，K one请经纪人小刀出面与乔杰立协商，小刀对乔杰立表示，有意把新专辑的宣传拿回自己公司来做。最後[小刀順利奪回了K](../Page/彭康育.md "wikilink") one新專輯宣傳的主導權，經紀約也歸還給[大國翼星娛樂](../Page/大國翼星娛樂.md "wikilink")，但K ONE的新專輯企劃方面，喬傑立娛樂還是有部分參與。
+  - 2007年10月17日，根據自由時報報導K ONE已成軍5年，已經差不多了，暗指團體面臨解散運命！據悉，K ONE跟艾迴唱片不再續約，未來是否再出片，一切都還是未知數\[1\]
+  - 2008年，K ONE與[大國翼星娛樂](../Page/大國翼星娛樂.md "wikilink")合約到期，五人已不再續約，其中[Gino](../Page/Gino.md "wikilink")現為民視[鳳凰藝能](../Page/鳳凰藝能.md "wikilink")旗下藝人、[JR於](https://zh.wikipedia.org/wiki/JR_\(藝人\) "wikilink")2016年轉投[天晴音樂](https://zh.wikipedia.org/wiki/天晴音樂 "wikilink")，而[立揚重心轉往大陆](https://zh.wikipedia.org/wiki/立揚 "wikilink")，目前為大陆知名Club DJ以及音樂人。
 
 ## 成員
 
@@ -263,31 +252,18 @@ ONE**是闊耳音樂[韓羅賢與GMM](../Page/韓羅賢.md "wikilink")8866唱片
 
   - 2002年 《[麻辣高校生](../Page/麻辣高校生.md "wikilink")》(達倫飾-客串第四集)
   - 2004年 《[雪天使](../Page/雪天使.md "wikilink")》(K one飾-客串最後一集)
-  - 2004年
-    《[紫禁之巔](../Page/紫禁之巔.md "wikilink")》(GINO飾-天蠍,JR飾-晴天,達倫飾-岸西,立揚飾-黑子,KIDO飾-TIN)
+  - 2004年 《[紫禁之巔](../Page/紫禁之巔.md "wikilink")》(GINO飾-天蠍,JR飾-晴天,達倫飾-岸西,立揚飾-黑子,KIDO飾-TIN)
   - 2005年 《[王子變青蛙](../Page/王子變青蛙.md "wikilink")》（GINO飾-張明寒）
-  - 2005年
-    《[大熊醫師家](https://zh.wikipedia.org/wiki/大熊醫師家 "wikilink")》（JR飾-阿健）
-  - 2005年
-    《[绿光森林](https://zh.wikipedia.org/wiki/绿光森林 "wikilink")》（KIDO飾-孫大介）
-  - 2005年
-    《[格鬥天王](https://zh.wikipedia.org/wiki/格鬥天王 "wikilink")》（達倫飾-IRON
-    MAN）
+  - 2005年 《[大熊醫師家](https://zh.wikipedia.org/wiki/大熊醫師家 "wikilink")》（JR飾-阿健）
+  - 2005年 《[绿光森林](https://zh.wikipedia.org/wiki/绿光森林 "wikilink")》（KIDO飾-孫大介）
+  - 2005年 《[格鬥天王](https://zh.wikipedia.org/wiki/格鬥天王 "wikilink")》（達倫飾-IRON MAN）
   - 2005年 《[國光異校](../Page/國光異校.md "wikilink")》（JR飾-客串第三集）
-  - 2005年
-    《[愛得奇蹟](https://zh.wikipedia.org/wiki/愛得奇蹟 "wikilink")》（JR飾-客串）
-  - 2005年
-    《[華視LIVE有夠讚](https://zh.wikipedia.org/wiki/華視LIVE有夠讚 "wikilink")》（K
-    one飾-客串）
-  - 2006年
-    《[微笑Pasta](https://zh.wikipedia.org/wiki/微笑Pasta "wikilink")》（GINO飾-何瑞哲,
-    達倫飾-偉仔）
-  - 2006年
-    《[星蘋果樂園](https://zh.wikipedia.org/wiki/星蘋果樂園 "wikilink")》（立揚飾-陸天齊）
-  - 2007年
-    《[劍道愛](https://zh.wikipedia.org/wiki/劍道愛 "wikilink")》（JR）（無法播出）
-  - 2008年
-    《[娘家](https://zh.wikipedia.org/wiki/娘家 "wikilink")》（GINO飾-GINO）（客串）
+  - 2005年 《[愛得奇蹟](https://zh.wikipedia.org/wiki/愛得奇蹟 "wikilink")》（JR飾-客串）
+  - 2005年 《[華視LIVE有夠讚](https://zh.wikipedia.org/wiki/華視LIVE有夠讚 "wikilink")》（K one飾-客串）
+  - 2006年 《[微笑Pasta](https://zh.wikipedia.org/wiki/微笑Pasta "wikilink")》（GINO飾-何瑞哲, 達倫飾-偉仔）
+  - 2006年 《[星蘋果樂園](https://zh.wikipedia.org/wiki/星蘋果樂園 "wikilink")》（立揚飾-陸天齊）
+  - 2007年 《[劍道愛](https://zh.wikipedia.org/wiki/劍道愛 "wikilink")》（JR）（無法播出）
+  - 2008年 《[娘家](https://zh.wikipedia.org/wiki/娘家 "wikilink")》（GINO飾-GINO）（客串）
 
 ## 書籍
 
@@ -295,18 +271,14 @@ ONE**是闊耳音樂[韓羅賢與GMM](../Page/韓羅賢.md "wikilink")8866唱片
 
 ## 主持
 
-  - 2004年
-    《[綜藝大喝采](https://zh.wikipedia.org/wiki/綜藝大喝采 "wikilink")》(GINO.JR主持)
-  - 2005年 《[完全娛樂](https://zh.wikipedia.org/wiki/完全娛樂 "wikilink")》周日版
-    誰最帶種(JR主持)
-  - 2005年
-    《[瘋狂Lucky9](https://zh.wikipedia.org/wiki/瘋狂Lucky9 "wikilink")》(JR主持)
+  - 2004年 《[綜藝大喝采](https://zh.wikipedia.org/wiki/綜藝大喝采 "wikilink")》(GINO.JR主持)
+  - 2005年 《[完全娛樂](https://zh.wikipedia.org/wiki/完全娛樂 "wikilink")》周日版 誰最帶種(JR主持)
+  - 2005年 《[瘋狂Lucky9](https://zh.wikipedia.org/wiki/瘋狂Lucky9 "wikilink")》(JR主持)
   - 2005年 《[明星隨身碟](https://zh.wikipedia.org/wiki/明星隨身碟 "wikilink")》
   - 2006年 《[完全娛樂](https://zh.wikipedia.org/wiki/完全娛樂 "wikilink")》(JR主持)
   - 2007年 《[快樂有go正](../Page/快樂有go正.md "wikilink")》(JR.GINO主持)
   - 2007年 《[成名一瞬間](https://zh.wikipedia.org/wiki/成名一瞬間 "wikilink")》
-  - 2007年
-    《[超級童盟會](https://zh.wikipedia.org/wiki/超級童盟會 "wikilink")》（9月15日）(JR.GINO主持)
+  - 2007年 《[超級童盟會](https://zh.wikipedia.org/wiki/超級童盟會 "wikilink")》（9月15日）(JR.GINO主持)
 
 ## 參見
 
@@ -319,13 +291,10 @@ ONE**是闊耳音樂[韓羅賢與GMM](../Page/韓羅賢.md "wikilink")8866唱片
 ## 外部連結
 
   - [經紀公司](https://web.archive.org/web/20080626170421/http://www.mnwingman.com/Index.asp)
-  - [K
-    ONE經紀公司論壇](https://web.archive.org/web/20081014121524/http://bbs.mnwingman.com/index.php)
+  - [K ONE經紀公司論壇](https://web.archive.org/web/20081014121524/http://bbs.mnwingman.com/index.php)
 
 ## 參考資料
 
 [Category:2003年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2003年成立的音樂團體 "wikilink")
 
-1.  [K
-    ONE不務正業 5人喊ㄘㄟˋ](http://news.ltn.com.tw/news/entertainment/paper/161599)
-    自由時報 2007年10月17日
+1.  [K ONE不務正業 5人喊ㄘㄟˋ](http://news.ltn.com.tw/news/entertainment/paper/161599) 自由時報 2007年10月17日

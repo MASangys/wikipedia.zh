@@ -1,9 +1,8 @@
-**Xanga**是一個提供[網誌托管服務的](../Page/網誌.md "wikilink")[網站](../Page/網站.md "wikilink")，服務包括[攝影博客](https://zh.wikipedia.org/wiki/攝影博客 "wikilink")，[網誌及](../Page/網誌.md "wikilink")[社交網路服務](../Page/社交網路服務.md "wikilink")。它由一家基地為[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[紐約市的Xanga](https://zh.wikipedia.org/wiki/紐約市 "wikilink").com公司於1999年運作，擁有4,000萬來自世界各地的用戶使用其服務\[1\]。截至2013年6月，Xanga更出現了財務困難，面臨倒閉危機。
+**Xanga**是一個提供[網誌](../Page/網誌.md "wikilink")托管服務的[網站](../Page/網站.md "wikilink")，服務包括[攝影博客](https://zh.wikipedia.org/wiki/攝影博客 "wikilink")，[網誌](../Page/網誌.md "wikilink")及[社交網路服務](../Page/社交網路服務.md "wikilink")。它由一家基地為[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[紐約市的Xanga](https://zh.wikipedia.org/wiki/紐約市 "wikilink").com公司於1999年運作，擁有4,000萬來自世界各地的用戶使用其服務\[1\]。截至2013年6月，Xanga更出現了財務困難，面臨倒閉危機。
 
 ## 起源
 
-Xanga始於1999年10月，作為一個分享書籍和音樂評論的網站，其格式與目前的有所不同。隨後一年，Xanga透過虛擬的公關人員Bianca
-Broussard於[雅虎地球村](../Page/雅虎地球村.md "wikilink")（GeoCities）發送一系列的電郵招聘以作公開招募\[2\]。2001年，創意總監[比茲·斯通離開Xanga](https://zh.wikipedia.org/wiki/比茲·斯通 "wikilink")\[3\]，他最終成為了[谷歌的](https://zh.wikipedia.org/wiki/谷歌 "wikilink")[部落格團隊中的一員](https://zh.wikipedia.org/wiki/部落格 "wikilink")，他後來到一家新的互聯網起動公司Odeo工作。
+Xanga始於1999年10月，作為一個分享書籍和音樂評論的網站，其格式與目前的有所不同。隨後一年，Xanga透過虛擬的公關人員Bianca Broussard於[雅虎地球村](../Page/雅虎地球村.md "wikilink")（GeoCities）發送一系列的電郵招聘以作公開招募\[2\]。2001年，創意總監[比茲·斯通離開Xanga](https://zh.wikipedia.org/wiki/比茲·斯通 "wikilink")\[3\]，他最終成為了[谷歌的](https://zh.wikipedia.org/wiki/谷歌 "wikilink")[部落格團隊中的一員](https://zh.wikipedia.org/wiki/部落格 "wikilink")，他後來到一家新的互聯網起動公司Odeo工作。
 
 接下來的幾年裡，Xanga經歷了幾次格式上的轉變。在2002年，精選內容被劃分為額外和經典閱覽版本\[4\]，以額外閱覽版本為預設值。2005年，由於Xanga推出了額外閱覽的升級版本而使終生閱覽版本被撤回\[5\]。最終，Xanga加入了新的外觀功能，如朋友、輕推和聊天板的功能被添加，類似於[Facebook](../Page/Facebook.md "wikilink")。2006年，Xanga推出了視頻和音頻的功能\[6\]。
 
@@ -11,16 +10,14 @@ Broussard於[雅虎地球村](../Page/雅虎地球村.md "wikilink")（GeoCities
 
 ## 整體特色
 
-所有Xanga的使用者均會獲得一個"Xanga
-Site"，一個網頁整合了網誌、攝影博客、影片博客、音樂博客、脈博（小博客）及社交網絡的個人簡介。
+所有Xanga的使用者均會獲得一個"Xanga Site"，一個網頁整合了網誌、攝影博客、影片博客、音樂博客、脈博（小博客）及社交網絡的個人簡介。
 使用者還可以選擇加入或製作博客圈（blogrings）。
 
 ### 部落格
 
-[Newxgpage_20070220.jpg](https://zh.wikipedia.org/wiki/File:Newxgpage_20070220.jpg "fig:Newxgpage_20070220.jpg")
-2000年11月5日，Xanga首次在推出[網誌的功能](../Page/網誌.md "wikilink")，網誌內的留言功能隨後於2000年12月8日啟用，每一個Xanga使用者的首頁屬於[網誌](../Page/網誌.md "wikilink")，連同「eProps」的概念，讓使用者給予另一使用者一個標誌以顯示他/她有多享受該網誌的條目，每人最多可給予2個「eProps」。
+[Newxgpage_20070220.jpg](https://zh.wikipedia.org/wiki/File:Newxgpage_20070220.jpg "fig:Newxgpage_20070220.jpg") 2000年11月5日，Xanga首次在推出[網誌](../Page/網誌.md "wikilink")的功能，網誌內的留言功能隨後於2000年12月8日啟用，每一個Xanga使用者的首頁屬於[網誌](../Page/網誌.md "wikilink")，連同「eProps」的概念，讓使用者給予另一使用者一個標誌以顯示他/她有多享受該網誌的條目，每人最多可給予2個「eProps」。
 
-Xanga的核心部分是訂閱其他Xanga的功能，訂閱功能容許用戶對他們「訂閱」的Xanga保持最新的狀態，而毋須手動的瀏覽每個網誌。2000年11月30日，Xanga首次添加了電郵訂閱功能\[9\]。2001年1月17日，Xanga隨後加入利用基於網絡閱讀器[RSS以訂閱網站的能力](../Page/RSS.md "wikilink")，正式容許用戶直接在網頁上閱讀其他用戶的網誌（同時在使用者的網誌首頁會顯示訂閱的名單）。最初，Xanga容許使用者以匿名的方式訂閱彼此的網誌，也容許用戶以非Xanga使用者的方式訂閱其他用戶的網誌，然而一些使用者被匿名訂閱困擾而感到不滿，因此該功能於2003年7月15日那一周正式停用有關功能。幾天後，於2003年7月21日，Xanga新增了一項新功能，容許用戶在其他用戶的網誌上作短期訂閱。此更新亦容許用戶在其網誌的首頁中隱藏訂閱名單\[10\]。
+Xanga的核心部分是訂閱其他Xanga的功能，訂閱功能容許用戶對他們「訂閱」的Xanga保持最新的狀態，而毋須手動的瀏覽每個網誌。2000年11月30日，Xanga首次添加了電郵訂閱功能\[9\]。2001年1月17日，Xanga隨後加入利用基於網絡閱讀器[RSS](../Page/RSS.md "wikilink")以訂閱網站的能力，正式容許用戶直接在網頁上閱讀其他用戶的網誌（同時在使用者的網誌首頁會顯示訂閱的名單）。最初，Xanga容許使用者以匿名的方式訂閱彼此的網誌，也容許用戶以非Xanga使用者的方式訂閱其他用戶的網誌，然而一些使用者被匿名訂閱困擾而感到不滿，因此該功能於2003年7月15日那一周正式停用有關功能。幾天後，於2003年7月21日，Xanga新增了一項新功能，容許用戶在其他用戶的網誌上作短期訂閱。此更新亦容許用戶在其網誌的首頁中隱藏訂閱名單\[10\]。
 
 ### 攝影博客
 
@@ -48,11 +45,11 @@ Xanga於2007年2月22日推出了脈博（小博客）\[21\]，它被形容為�
 
 ### 個人簡介
 
-Xanga的每位使用者都擁有一個[社交網路服務的個人檔案](../Page/社交網路服務.md "wikilink")。
+Xanga的每位使用者都擁有一個[社交網路服務](../Page/社交網路服務.md "wikilink")的個人檔案。
 
 Xanga早於2000年推出支援有限的個人簡介，容許使用者編輯其基本的個人資料。個人檔案的介面於2004年2月1日進行了改版，讓用戶加入更多的個人相關資訊及提供更佳的電子郵件保安及控制。每人可上載一張相片作為個人頭像。2004年4月30日，Xanga更新了個人頭像上載系統，容許上載更高質素的相片\[22\]。接着在2004年7月27日，Xanga跟進個人頭像上載系統，容許使用者上傳多張個人頭像相片；免費用戶最多可上傳3張個人頭像相片，而收費用戶則最多可上傳99張個人頭像相片。Xanga用戶允許選擇一張相片作為預設頭像，頭像會設於他們的帳戶名稱旁邊，以及可選擇設於每篇文章的旁邊。後來於同年的11月19日，Xanga延伸至支援個人頭像設於留言位置；現時Xanga用戶可以選擇在留言位置的個人頭像\[23\]。
 
-後來到2006年4月6日，Xanga提升了個人簡介系統以增設[社交網路服務的功能](../Page/社交網路服務.md "wikilink")，當中包括連繫用戶的朋友、搜尋朋友及填寫更詳細的個人資料\[24\]。在2006年6月6日，在每個Xanga用戶的個人資料都會連結至網站頂部的一個標準Xanga網頁指南中（同時亦於攝影博客中增設）\[25\]。
+後來到2006年4月6日，Xanga提升了個人簡介系統以增設[社交網路服務](../Page/社交網路服務.md "wikilink")的功能，當中包括連繫用戶的朋友、搜尋朋友及填寫更詳細的個人資料\[24\]。在2006年6月6日，在每個Xanga用戶的個人資料都會連結至網站頂部的一個標準Xanga網頁指南中（同時亦於攝影博客中增設）\[25\]。
 
 ## 私隱及安全性
 
@@ -60,16 +57,12 @@ Xanga早於2000年推出支援有限的個人簡介，容許使用者編輯其�
 
 Xanga支援多種隱私功能，允許用戶限制或控制別人訪問他們的網站。
 
-  - 受保護的帖子 —
-    容許使用者限制指定的朋友列表到訪每個帖子的權限。Xanga免費用戶的限制朋友名單最多只能容納10人；Xanga收費用戶才可獲得無上限的限制朋友名單。
+  - 受保護的帖子 — 容許使用者限制指定的朋友列表到訪每個帖子的權限。Xanga免費用戶的限制朋友名單最多只能容納10人；Xanga收費用戶才可獲得無上限的限制朋友名單。
   - 用戶封鎖 — 容許使用者封鎖某些人訂閱他們的網站或在他們的網站上留言。
 
-2007年4月26日，Xanga推出了「Xanga
-Lock」，這個功能限制只有其他Xanga的成員才能訪問該網站\[26\]。如果一個網頁瀏覽器並沒有登錄到Xanga，而他/她希望查看某人的Xanga，他們必須首先登錄一個註冊賬號，否則他們只會看到一個頁面顯示該用戶選擇「鎖定」自己的Xanga。「Xanga
-Lock」還可以防止搜索引擎對網站進行索引。使用者可以把「Xanga Lock」結合「足跡」功能，來創建一個控制和監視網站的方法。
+2007年4月26日，Xanga推出了「Xanga Lock」，這個功能限制只有其他Xanga的成員才能訪問該網站\[26\]。如果一個網頁瀏覽器並沒有登錄到Xanga，而他/她希望查看某人的Xanga，他們必須首先登錄一個註冊賬號，否則他們只會看到一個頁面顯示該用戶選擇「鎖定」自己的Xanga。「Xanga Lock」還可以防止搜索引擎對網站進行索引。使用者可以把「Xanga Lock」結合「足跡」功能，來創建一個控制和監視網站的方法。
 
-2007年10月20日，Xanga推出了「Friends Lock」，這個功能跟「Xanga
-Lock」相似，但它透過用戶鎖定不在用戶的朋友列表中的人以獲得更多的私隱。此功能與「受保護帖子」在很多方面都非常相似，然而它跟「受保護的帖子」不同，用戶可以擁有盡可能多的朋友而不需購買付費版。此外，用戶可以有不在受保護帖子列表中的朋友。
+2007年10月20日，Xanga推出了「Friends Lock」，這個功能跟「Xanga Lock」相似，但它透過用戶鎖定不在用戶的朋友列表中的人以獲得更多的私隱。此功能與「受保護帖子」在很多方面都非常相似，然而它跟「受保護的帖子」不同，用戶可以擁有盡可能多的朋友而不需購買付費版。此外，用戶可以有不在受保護帖子列表中的朋友。
 
 ### 追蹤
 
@@ -91,7 +84,7 @@ Xanga開發了一個標記系統，容許用戶輕鬆地報告違反Xanga使用�
 
 ### 由美國聯邦貿易委員會提出的民事罰款
 
-2006年9月，Xanga由於違反了《[兒童在線隱私保護法案](https://zh.wikipedia.org/wiki/兒童在線隱私保護法案 "wikilink")（[COPPA](https://zh.wikipedia.org/wiki/COPPA "wikilink")）》而被美國[聯邦貿易委員會罰款](../Page/聯邦貿易委員會.md "wikilink")$1,000,000美元，是對於任何在線公司最大的罰款。那是由於Xanga被發現在未經當事人父母的同意下收集了13歲以下兒童的私人信息，從而獲得商業利益。Xanga並沒有在他們的網站上張貼使用條款，亦沒有發表他們涉及到兒童的實踐\[32\]。
+2006年9月，Xanga由於違反了《[兒童在線隱私保護法案](https://zh.wikipedia.org/wiki/兒童在線隱私保護法案 "wikilink")（[COPPA](https://zh.wikipedia.org/wiki/COPPA "wikilink")）》而被美國[聯邦貿易委員會](../Page/聯邦貿易委員會.md "wikilink")罰款$1,000,000美元，是對於任何在線公司最大的罰款。那是由於Xanga被發現在未經當事人父母的同意下收集了13歲以下兒童的私人信息，從而獲得商業利益。Xanga並沒有在他們的網站上張貼使用條款，亦沒有發表他們涉及到兒童的實踐\[32\]。
 
 ### 報告不恰當內容
 
@@ -99,11 +92,11 @@ Xanga開發了一個標記系統，容許用戶輕鬆地報告違反Xanga使用�
 
 ## 總覽
 
-Xanga提供免費網上博客服務，寫網誌的人通常自稱為“Xangans”。那裡的使用者大部分是青少年和年輕人，年齡由10歲起。它容許用戶一日發佈多篇網誌文章，或評論其他用戶所寫的網誌。使用者亦可以把自己的Xanga個人化，他們可以透過模版和自定[HTML來個性化自己Xanga的樣式](../Page/HTML.md "wikilink")。那裡亦提供一些如訂閱表和博客鏈等的功能來維繫社區。Xanga的用途可由基本的個人日記以至美食，科技及時事評論。
+Xanga提供免費網上博客服務，寫網誌的人通常自稱為“Xangans”。那裡的使用者大部分是青少年和年輕人，年齡由10歲起。它容許用戶一日發佈多篇網誌文章，或評論其他用戶所寫的網誌。使用者亦可以把自己的Xanga個人化，他們可以透過模版和自定[HTML](../Page/HTML.md "wikilink")來個性化自己Xanga的樣式。那裡亦提供一些如訂閱表和博客鏈等的功能來維繫社區。Xanga的用途可由基本的個人日記以至美食，科技及時事評論。
 
 ## 特點
 
-Xanga同時提供免費服務和收費服務。所有Xanga帳戶都可以透過登記帳號來使用。Xanga其中一個受歡迎的原因是使用者可以改變網誌的版面設計。免費帳戶使用者即使完全不懂得[HTML](../Page/HTML.md "wikilink")，也可以改變基本的版面設定，如顏色和表格邊緣風格。那些懂得[HTML的使用者更可以在他的網誌中加入自己的擴充碼](../Page/HTML.md "wikilink")，更改除了上述以外的版面設計。使用者可以上載照片來作個人頭像，以顯示在他的留言旁邊。使用者可利用提供免費存取圖片服務的其他網站（如Photobucket），在其網站放置多媒體資訊（例如相片和音樂）。
+Xanga同時提供免費服務和收費服務。所有Xanga帳戶都可以透過登記帳號來使用。Xanga其中一個受歡迎的原因是使用者可以改變網誌的版面設計。免費帳戶使用者即使完全不懂得[HTML](../Page/HTML.md "wikilink")，也可以改變基本的版面設定，如顏色和表格邊緣風格。那些懂得[HTML](../Page/HTML.md "wikilink")的使用者更可以在他的網誌中加入自己的擴充碼，更改除了上述以外的版面設計。使用者可以上載照片來作個人頭像，以顯示在他的留言旁邊。使用者可利用提供免費存取圖片服務的其他網站（如Photobucket），在其網站放置多媒體資訊（例如相片和音樂）。
 
 ## 其他功能
 
@@ -125,24 +118,19 @@ Xanga支援多種社交網路功能，容許用戶組織團體或找尋其他用
 
 ### 部落群圈
 
-Xanga[網誌包含社交互動功能](../Page/網誌.md "wikilink")，並且設有多個不同社交圈。
-所有xanga的用戶都有能力建立部落群圈或者加入己有的部落群圈。可根據標題／主題搜尋部落群圈。
-每個用戶可以加入多至8個部落羣圈，而用戶所加入至部落羣圈清單乃顯示於該用戶網誌畫面上的模塊當中（通常位於畫面左邊）。
+Xanga[網誌](../Page/網誌.md "wikilink")包含社交互動功能，並且設有多個不同社交圈。 所有xanga的用戶都有能力建立部落群圈或者加入己有的部落群圈。可根據標題／主題搜尋部落群圈。 每個用戶可以加入多至8個部落羣圈，而用戶所加入至部落羣圈清單乃顯示於該用戶網誌畫面上的模塊當中（通常位於畫面左邊）。
 
-部落羣圈設立始於2001年3月6日，當時免費用戶只可加入多至4個部落群圈，而收費用戶只可加入多至7個部落群圈。至2004年1月10日起，所有用戶皆可加入多至8個部落群圈。部落群圈調整功能設立始於2004年8月13日，容許部落群圈領導戶調整新會員、剔除違規會員以及轉移部落群圈領導權。\[34\]
-到了2007年3月，xanga用戶更可分享文章到部落群圈，免費用戶更可加入多至20個部落群圈。
+部落羣圈設立始於2001年3月6日，當時免費用戶只可加入多至4個部落群圈，而收費用戶只可加入多至7個部落群圈。至2004年1月10日起，所有用戶皆可加入多至8個部落群圈。部落群圈調整功能設立始於2004年8月13日，容許部落群圈領導戶調整新會員、剔除違規會員以及轉移部落群圈領導權。\[34\] 到了2007年3月，xanga用戶更可分享文章到部落群圈，免費用戶更可加入多至20個部落群圈。
 
 ### 偵測用戶
 
-Xanga
-Footprints啟用後，Xanga用戶可以知道其他使用者名稱曾瀏覽該用戶的[網誌](../Page/網誌.md "wikilink")，但若果該瀏覽者是非xanga用戶及尚未登入的使用者，便會顯示該瀏覽者在哪一個國家及州份瀏覽使用者的xanga。
+Xanga Footprints啟用後，Xanga用戶可以知道其他使用者名稱曾瀏覽該用戶的[網誌](../Page/網誌.md "wikilink")，但若果該瀏覽者是非xanga用戶及尚未登入的使用者，便會顯示該瀏覽者在哪一個國家及州份瀏覽使用者的xanga。
 
 ## 收入來源
 
 ### 收費戶口訂閱
 
-Xanga也提供了兩種不同的收費戶口服務: **尊貴版** 及
-**特別尊貴版**。會員訂閱了收費戶口服務便可使用特別附加功能,例如大容量相片儲存服務及無限限制。
+Xanga也提供了兩種不同的收費戶口服務: **尊貴版** 及 **特別尊貴版**。會員訂閱了收費戶口服務便可使用特別附加功能,例如大容量相片儲存服務及無限限制。
 
 尊貴版提供2 GB相片儲存服務及每月100 MB上載相片服務。特別尊貴版更提供無限相片儲存服務及每月1 GB上載相片服務。
 
@@ -162,28 +150,23 @@ Xanga官方網頁內的FAQ 頁面中表示員工讀Xanga讀音為"ZANG-uh". \[35
 
   - ex-an-guh
 
-  - （粵語化的讀音，[粵拼](../Page/香港語言學學會粵語拼音方案.md "wikilink")：seng1
-    gaa4，有人會取其諧音字，寫作「腥架」。此讀法於[港澳地區常用](../Page/港澳地區.md "wikilink")。因[廣東話裡沒有](https://zh.wikipedia.org/wiki/廣東話 "wikilink")\[z\]，故讀作\[s\]音。）
+  - （粵語化的讀音，[粵拼](../Page/香港語言學學會粵語拼音方案.md "wikilink")：seng1 gaa4，有人會取其諧音字，寫作「腥架」。此讀法於[港澳地區](../Page/港澳地區.md "wikilink")常用。因[廣東話裡沒有](https://zh.wikipedia.org/wiki/廣東話 "wikilink")\[z\]，故讀作\[s\]音。）
 
-Xanga行政總裁 John 表示，"Xanga"一詞來自他的兒子綽號。“**Xceptionally Awesome Ninja
-GangstA**”。
+Xanga行政總裁 John 表示，"Xanga"一詞來自他的兒子綽號。“**Xceptionally Awesome Ninja GangstA**”。
 
 ## 批評
 
-Xanga亦被批評指它為用戶提供*太大*彈性，包括可使用自己的[JavaScript](../Page/JavaScript.md "wikilink")。這功能曾在2004年下半年被用作對[Slashdot的](../Page/Slashdot.md "wikilink")[DDOS攻擊](https://zh.wikipedia.org/wiki/DDOS "wikilink")。\[36\]
+Xanga亦被批評指它為用戶提供*太大*彈性，包括可使用自己的[JavaScript](../Page/JavaScript.md "wikilink")。這功能曾在2004年下半年被用作對[Slashdot](../Page/Slashdot.md "wikilink")的[DDOS攻擊](https://zh.wikipedia.org/wiki/DDOS "wikilink")。\[36\]
 
 ## Xanga 在香港
 
-根據2007年7月的一個統計，香港的 Xanga 帳戶達370,016個，為全港約42萬個網誌的近九成。\[37\]08年起 Yahoo\!
-BLOG 和 facebook 的興起使 Xanga 的使用量有明顯的下降。09年至10年的使用人數更持續下降。2011年中，Xanga
-在香港的 Alexa 網絡排名跌出百大。\[38\]
+根據2007年7月的一個統計，香港的 Xanga 帳戶達370,016個，為全港約42萬個網誌的近九成。\[37\]08年起 Yahoo\! BLOG 和 facebook 的興起使 Xanga 的使用量有明顯的下降。09年至10年的使用人數更持續下降。2011年中，Xanga 在香港的 Alexa 網絡排名跌出百大。\[38\]
 
 ## 参考文献
 
 ## 增強功能
 
-  - [GoXanga](https://web.archive.org/web/20081004132024/http://www.goxanga.com/)
-    提供匿名瀏覽、備份／回復個人風格、轉換到舊版風格 (Look and Feel) 系統。
+  - [GoXanga](https://web.archive.org/web/20081004132024/http://www.goxanga.com/) 提供匿名瀏覽、備份／回復個人風格、轉換到舊版風格 (Look and Feel) 系統。
 
 ## 外部链接
 
@@ -193,10 +176,7 @@ BLOG 和 facebook 的興起使 Xanga 的使用量有明顯的下降。09年至10
   - [Lovelyish](https://web.archive.org/web/20121210221545/http://www.lovelyish.hk/)
   - [Black](https://web.archive.org/web/20121126022008/http://www.black.hk/)
 
-[Category:網站](https://zh.wikipedia.org/wiki/Category:網站 "wikilink")
-[Category:Web_2.0](https://zh.wikipedia.org/wiki/Category:Web_2.0 "wikilink")
-[Category:網誌](https://zh.wikipedia.org/wiki/Category:網誌 "wikilink")
-[Category:被防火长城封锁的网站](https://zh.wikipedia.org/wiki/Category:被防火长城封锁的网站 "wikilink")
+[Category:網站](https://zh.wikipedia.org/wiki/Category:網站 "wikilink") [Category:Web_2.0](https://zh.wikipedia.org/wiki/Category:Web_2.0 "wikilink") [Category:網誌](https://zh.wikipedia.org/wiki/Category:網誌 "wikilink") [Category:被防火长城封锁的网站](https://zh.wikipedia.org/wiki/Category:被防火长城封锁的网站 "wikilink")
 
 1.
 2.
@@ -218,9 +198,7 @@ BLOG 和 facebook 的興起使 Xanga 的使用量有明顯的下降。09年至10
 18.
 19.
 20.
-21. [Michael's Xanga
-    Site](http://www.xanga.com/Michael/572248028/introducing-pulse.html)
-
+21. [Michael's Xanga Site](http://www.xanga.com/Michael/572248028/introducing-pulse.html)
 22.
 23.
 24.
@@ -232,8 +210,7 @@ BLOG 和 facebook 的興起使 Xanga 的使用量有明顯的下降。09年至10
 30.
 31.
 32.
-33. [john's Xanga Site - Weblog - PRIVATE
-    MESSAGING](http://www.xanga.com/john/520176269/private-messaging.html)
+33. [john's Xanga Site - Weblog - PRIVATE MESSAGING](http://www.xanga.com/john/520176269/private-messaging.html)
 34. <http://www.xanga.com/john/120689139/item.html>
 35. [About Our Name](http://help.xanga.com/about/aboutourname.htm)
 36. <http://www.kuro5hin.org/story/2004/12/28/161214/43>

@@ -2,7 +2,7 @@
 
 ## 劇情
 
-故事為緊接[倩女幽魂結尾燕赤霞及寧采臣二人合力將黑山老妖消滅並安葬小倩的骨灰後的故事](../Page/倩女幽魂_\(1987年電影\).md "wikilink")。寧采臣（[張國榮飾](../Page/張國榮.md "wikilink")）與好友燕赤霞（[午馬飾](../Page/午馬.md "wikilink")）分手後重回已經半荒廢的家鄉，其後甚至無辜被當成通緝犯抓入獄。幸在獄中得諸葛臥龍（[谷峰飾](../Page/谷峰.md "wikilink")）相助逃獄。逃狱后与年青道士知秋（[張學友飾](https://zh.wikipedia.org/wiki/張學友 "wikilink")）缠上，从误会以至相交，一起投宿于一荒废山庄。并在此結識一群忠義之士，他們在傅青风（[王祖賢飾](../Page/王祖賢.md "wikilink")）及其妹妹傅月池（[李嘉欣飾](../Page/李嘉欣.md "wikilink")）的带领下，埋伏山庄，拯救被陷害入狱，正被押上京受审的父亲－兵都尚书傅天仇。眾人誤以為寧采臣是諸葛臥龍前輩而對其尊敬有嘉。寧采臣覺得傅青风似其舊愛聶小倩，其以为小倩投胎，遂将错就错，留下以便试探真假。与壮士商讨营救傅天仇之计划。忠义之士左千戶（[李子雄飾](../Page/李子雄.md "wikilink")）一路追捕傅天仇，发现真相后转而帮傅天仇向國師普渡慈航阐明真相。普渡慈航实际乃法力高强的蜈蚣精化身，傅天仇、知秋一葉、傅月池均被抓。寧采臣與傅清風逃脱，到蘭若寺找燕赤霞對抗普渡慈航。左千戶也發現國師是蜈蚣精，救出傅天仇、知秋一葉、傅月池。眾人合力對抗普渡慈航，仍不敌其高深法力，左千戶战死。此时燕赤霞赶到，和知秋一葉合力擊敗普渡慈航，但知秋一葉元神出竅卻無法返回軀體。傅天仇重回朝廷，除妖有功，加官进爵。清风抛弃荣华，与宁采臣一起浪迹天涯。
+故事為緊接[倩女幽魂結尾燕赤霞及寧采臣二人合力將黑山老妖消滅並安葬小倩的骨灰後的故事](../Page/倩女幽魂_\(1987年電影\).md "wikilink")。寧采臣（[張國榮](../Page/張國榮.md "wikilink")飾）與好友燕赤霞（[午馬](../Page/午馬.md "wikilink")飾）分手後重回已經半荒廢的家鄉，其後甚至無辜被當成通緝犯抓入獄。幸在獄中得諸葛臥龍（[谷峰](../Page/谷峰.md "wikilink")飾）相助逃獄。逃狱后与年青道士知秋（[張學友飾](https://zh.wikipedia.org/wiki/張學友 "wikilink")）缠上，从误会以至相交，一起投宿于一荒废山庄。并在此結識一群忠義之士，他們在傅青风（[王祖賢](../Page/王祖賢.md "wikilink")飾）及其妹妹傅月池（[李嘉欣](../Page/李嘉欣.md "wikilink")飾）的带领下，埋伏山庄，拯救被陷害入狱，正被押上京受审的父亲－兵都尚书傅天仇。眾人誤以為寧采臣是諸葛臥龍前輩而對其尊敬有嘉。寧采臣覺得傅青风似其舊愛聶小倩，其以为小倩投胎，遂将错就错，留下以便试探真假。与壮士商讨营救傅天仇之计划。忠义之士左千戶（[李子雄](../Page/李子雄.md "wikilink")飾）一路追捕傅天仇，发现真相后转而帮傅天仇向國師普渡慈航阐明真相。普渡慈航实际乃法力高强的蜈蚣精化身，傅天仇、知秋一葉、傅月池均被抓。寧采臣與傅清風逃脱，到蘭若寺找燕赤霞對抗普渡慈航。左千戶也發現國師是蜈蚣精，救出傅天仇、知秋一葉、傅月池。眾人合力對抗普渡慈航，仍不敌其高深法力，左千戶战死。此时燕赤霞赶到，和知秋一葉合力擊敗普渡慈航，但知秋一葉元神出竅卻無法返回軀體。傅天仇重回朝廷，除妖有功，加官进爵。清风抛弃荣华，与宁采臣一起浪迹天涯。
 
 ## 人物角色
 
@@ -137,7 +137,7 @@
 ## 其他
 
   - 本片已經脫離原「倩女幽魂」的範圍，僅寧采臣、燕赤霞有重複出現。
-  - 傅月池本來由香港女歌手[陳慧嫻飾演](../Page/陳慧嫻.md "wikilink")，但陳最後在開鏡前因事退出，改由[李嘉欣接演](../Page/李嘉欣.md "wikilink")。
+  - 傅月池本來由香港女歌手[陳慧嫻](../Page/陳慧嫻.md "wikilink")飾演，但陳最後在開鏡前因事退出，改由[李嘉欣](../Page/李嘉欣.md "wikilink")接演。
 
 ## 政治隱喻
 
@@ -162,13 +162,7 @@
 
 <references group="quotes"/>
 
-[Category:程小東電影](https://zh.wikipedia.org/wiki/Category:程小東電影 "wikilink")
-[Category:香港奇幻電影](https://zh.wikipedia.org/wiki/Category:香港奇幻電影 "wikilink")
-[Category:香港續集電影](https://zh.wikipedia.org/wiki/Category:香港續集電影 "wikilink")
-[Category:1990年代香港電影作品](https://zh.wikipedia.org/wiki/Category:1990年代香港電影作品 "wikilink")
-[Category:倩女幽魂系列電影](https://zh.wikipedia.org/wiki/Category:倩女幽魂系列電影 "wikilink")
-[Category:黃霑配樂電影](https://zh.wikipedia.org/wiki/Category:黃霑配樂電影 "wikilink")
-[Category:戴樂民配樂電影](https://zh.wikipedia.org/wiki/Category:戴樂民配樂電影 "wikilink")
+[Category:程小東電影](https://zh.wikipedia.org/wiki/Category:程小東電影 "wikilink") [Category:香港奇幻電影](https://zh.wikipedia.org/wiki/Category:香港奇幻電影 "wikilink") [Category:香港續集電影](https://zh.wikipedia.org/wiki/Category:香港續集電影 "wikilink") [Category:1990年代香港電影作品](https://zh.wikipedia.org/wiki/Category:1990年代香港電影作品 "wikilink") [Category:倩女幽魂系列電影](https://zh.wikipedia.org/wiki/Category:倩女幽魂系列電影 "wikilink") [Category:黃霑配樂電影](https://zh.wikipedia.org/wiki/Category:黃霑配樂電影 "wikilink") [Category:戴樂民配樂電影](https://zh.wikipedia.org/wiki/Category:戴樂民配樂電影 "wikilink")
 
 1.  <small>原文：90年有一套叫《倩女幽魂II人間道》的電影，由徐克監製、程小東導演、黃霑負責音樂和電影歌詞。電影雖然是以人鬼之間的對峙作為主軸，但骨子裏卻明明白白是一部談六四的電影。
     故事說的是一個老忠臣被冤枉，由一個正直但忠於朝廷的高手押解上京，而老忠臣的年輕女兒則打算在途中劫囚車。張國榮演的書生寧采臣和張學友演的道士知秋一葉誤打誤撞認識了這群亂黨，並和他們聯手對付妖精及劫囚。後來他們發現幕後黑手原來是隻千年蜈蚣精，並將朝廷重臣納為傀儡；正直高手知悉後遂倒戈相向，聯手對付蜈蚣精。

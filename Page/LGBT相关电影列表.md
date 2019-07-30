@@ -1,4 +1,4 @@
-涉及[同性恋](https://zh.wikipedia.org/wiki/同性恋 "wikilink")、[雙性戀與](https://zh.wikipedia.org/wiki/雙性戀 "wikilink")／或[跨性別话题的](../Page/跨性別.md "wikilink")[电影](../Page/电影.md "wikilink")，塑造了重要的同志[角色和](../Page/角色.md "wikilink")／或把同性恋、雙性戀以及／或跨性別身份或关系作为一个重要的剧情的有：
+涉及[同性恋](https://zh.wikipedia.org/wiki/同性恋 "wikilink")、[雙性戀與](https://zh.wikipedia.org/wiki/雙性戀 "wikilink")／或[跨性別](../Page/跨性別.md "wikilink")话题的[电影](../Page/电影.md "wikilink")，塑造了重要的同志[角色](../Page/角色.md "wikilink")和／或把同性恋、雙性戀以及／或跨性別身份或关系作为一个重要的剧情的有：
 
 ## 華語電影
 
@@ -490,16 +490,13 @@ __NOTOC__
 
   - 《[攣攣俱樂部](https://zh.wikipedia.org/wiki/攣攣俱樂部 "wikilink")》／《[傷心同志俱樂部](https://zh.wikipedia.org/wiki/傷心同志俱樂部 "wikilink")》（），美国（2000）
 
-  - 《[在夜幕降臨前](https://zh.wikipedia.org/wiki/在夜幕降臨前 "wikilink")》（[Before
-    Night
-    Falls](https://zh.wikipedia.org/wiki/Before_Night_Falls "wikilink")），美国（2001）
+  - 《[在夜幕降臨前](https://zh.wikipedia.org/wiki/在夜幕降臨前 "wikilink")》（[Before Night Falls](https://zh.wikipedia.org/wiki/Before_Night_Falls "wikilink")），美国（2001）
 
   - 《[男式伊甸園](https://zh.wikipedia.org/wiki/男式伊甸園 "wikilink")》（），美国（2001）
 
   - [Bully](../Page/霸凌.md "wikilink")，美国（2001）
 
-  - 《[4x香蕉同志](https://zh.wikipedia.org/wiki/4x香蕉同志 "wikilink")》（*Banana
-    Queers*），香港（2003）
+  - 《[4x香蕉同志](https://zh.wikipedia.org/wiki/4x香蕉同志 "wikilink")》（*Banana Queers*），香港（2003）
 
   - 《[美麗拳王](https://zh.wikipedia.org/wiki/美麗拳王 "wikilink")》（），泰国（2003）
 
@@ -515,8 +512,7 @@ __NOTOC__
 
   - 《[黑天鵝](../Page/黑天鹅_\(电影\).md "wikilink")》，美国（2010）
 
-  - 《[藍色是最溫暖的顏色](https://zh.wikipedia.org/wiki/藍色是最溫暖的顏色 "wikilink")》（*Blue
-    Is the Warmest Colour*），法國（2013）
+  - 《[藍色是最溫暖的顏色](https://zh.wikipedia.org/wiki/藍色是最溫暖的顏色 "wikilink")》（*Blue Is the Warmest Colour*），法國（2013）
 
   - 《[再見，我的新郎](https://zh.wikipedia.org/wiki/再見，我的新郎 "wikilink")》（*Bridegroom*），美國（2013）
 
@@ -550,8 +546,7 @@ __NOTOC__
 
   - 《[閉門誘惑一家親](https://zh.wikipedia.org/wiki/閉門誘惑一家親 "wikilink")》（/），法国（2005）
 
-  - 《[-{zh-hans:疯狂; zh-tw:愛瘋狂;
-    zh-hk:愛斷背;}-](https://zh.wikipedia.org/wiki/愛瘋狂 "wikilink")》（），加拿大（2005）
+  - 《[-{zh-hans:疯狂; zh-tw:愛瘋狂; zh-hk:愛斷背;}-](https://zh.wikipedia.org/wiki/愛瘋狂 "wikilink")》（），加拿大（2005）
 
   - 《[斷袖男](https://zh.wikipedia.org/wiki/斷袖男 "wikilink")》／《[我愛斷背衫](https://zh.wikipedia.org/wiki/我愛斷背衫 "wikilink")》（），香港（2006）
 
@@ -569,8 +564,7 @@ __NOTOC__
 
   - 《[寂寞芳心](https://zh.wikipedia.org/wiki/寂寞芳心_\(電影\) "wikilink")》／《[愛的甘露](https://zh.wikipedia.org/wiki/愛的甘露 "wikilink")》（），美国（1985）
 
-  - 《[三角洲孽子](https://zh.wikipedia.org/wiki/三角洲孽子 "wikilink")》 （*The
-    Delta*），越南（1996）
+  - 《[三角洲孽子](https://zh.wikipedia.org/wiki/三角洲孽子 "wikilink")》 （*The Delta*），越南（1996）
 
   - 《[巧克力男孩](https://zh.wikipedia.org/wiki/巧克力男孩 "wikilink")》（/），法国（2000）
 
@@ -582,8 +576,7 @@ __NOTOC__
 
   - 《[少女特攻隊](https://zh.wikipedia.org/wiki/少女特攻隊 "wikilink")》（），美国（2004）
 
-  - 《[皇帝出巡記](https://zh.wikipedia.org/wiki/皇帝出巡記 "wikilink")》（*Drag
-    Kings on Tour*），美国（2004）
+  - 《[皇帝出巡記](https://zh.wikipedia.org/wiki/皇帝出巡記 "wikilink")》（*Drag Kings on Tour*），美国（2004）
 
   - 《[兄弟情人](../Page/兄弟情人.md "wikilink")》，巴西（2009）
 
@@ -595,8 +588,7 @@ __NOTOC__
   - 《[最愛還是他](https://zh.wikipedia.org/wiki/最愛還是他 "wikilink")》（/），丹麦（2001）
   - 《[開心告別派對](https://zh.wikipedia.org/wiki/開心告別派對 "wikilink")》（），加拿大/美国（2003）
   - 《[外出用餐](https://zh.wikipedia.org/wiki/外出用餐 "wikilink")》（[外出就餐1：憨直处男](https://zh.wikipedia.org/wiki/外出就餐1：憨直处男 "wikilink")），美国（2004）
-  - 《[裸露媒體E.K.G.](https://zh.wikipedia.org/wiki/裸露媒體E.K.G. "wikilink")》(*E.K.G.
-    Expositus*)，德國（2004）
+  - 《[裸露媒體E.K.G.](https://zh.wikipedia.org/wiki/裸露媒體E.K.G. "wikilink")》(*E.K.G. Expositus*)，德國（2004）
   - 《[志同盜合](https://zh.wikipedia.org/wiki/志同盜合 "wikilink")》（），加拿大/美国（2004）
   - 《[外出用餐2：調情時刻](https://zh.wikipedia.org/wiki/外出用餐2：調情時刻 "wikilink")》（），美国（2006）
   - 《埃倫娜》（*Elena Undone*），美國（2010）
@@ -627,8 +619,7 @@ __NOTOC__
 
   - 《[同志家族](https://zh.wikipedia.org/wiki/同志家族 "wikilink")》（），美国（2001）
 
-  - 《[紐約斷背衫](https://zh.wikipedia.org/wiki/紐約斷背衫 "wikilink")》（Front
-    Cover），美國（2015）
+  - 《[紐約斷背衫](https://zh.wikipedia.org/wiki/紐約斷背衫 "wikilink")》（Front Cover），美國（2015）
 
   - 《[同窗的愛](../Page/同窗的愛.md "wikilink")》《[小鎮春情](https://zh.wikipedia.org/wiki/小鎮春情 "wikilink")》《[對面的女孩看過來](https://zh.wikipedia.org/wiki/對面的女孩看過來_\(電影\) "wikilink")》（[同窗的愛](../Page/同窗的愛.md "wikilink")/），瑞典（1998）
 
@@ -675,8 +666,7 @@ __NOTOC__
 
   - 《[忽然囉囉攣](../Page/忽然囉囉攣.md "wikilink")》（），美国（1997）
 
-  - 《[你的生命,
-    我的決定2](https://zh.wikipedia.org/wiki/你的生命,_我的決定2 "wikilink")》／《[愛妳鍾情](https://zh.wikipedia.org/wiki/愛妳鍾情 "wikilink")》（），美国（2000）
+  - 《[你的生命, 我的決定2](https://zh.wikipedia.org/wiki/你的生命,_我的決定2 "wikilink")》／《[愛妳鍾情](https://zh.wikipedia.org/wiki/愛妳鍾情 "wikilink")》（），美国（2000）
 
   - 《[新娘向後跑](https://zh.wikipedia.org/wiki/新娘向後跑 "wikilink")》（），英國（2005）
 
@@ -706,22 +696,19 @@ __NOTOC__
 
   - 《[非單親關係](../Page/非單親關係.md "wikilink")》，美國（2010）
 
-  - 《[吻我](https://zh.wikipedia.org/wiki/吻我 "wikilink")》（*Kyss
-    Mig*），瑞典（2011）
+  - 《[吻我](https://zh.wikipedia.org/wiki/吻我 "wikilink")》（*Kyss Mig*），瑞典（2011）
 
 ### L
 
   - 《[英倫末路](https://zh.wikipedia.org/wiki/英倫末路 "wikilink")》（），英国（1987）
 
-  - 《[慾望法則](https://zh.wikipedia.org/wiki/慾望法則 "wikilink")》／《[慾望的規條](https://zh.wikipedia.org/wiki/慾望的規條 "wikilink")》（/[Law
-    of Desire](../Page/慾望之規條.md "wikilink")），西班牙（1987）
+  - 《[慾望法則](https://zh.wikipedia.org/wiki/慾望法則 "wikilink")》／《[慾望的規條](https://zh.wikipedia.org/wiki/慾望的規條 "wikilink")》（/[Law of Desire](../Page/慾望之規條.md "wikilink")），西班牙（1987）
 
   - 《[长期伴侣](https://zh.wikipedia.org/wiki/长期伴侣 "wikilink")》／《[愛是生死相許](https://zh.wikipedia.org/wiki/愛是生死相許 "wikilink")》（），美国（1990）
 
   - 《[末路後庭花](https://zh.wikipedia.org/wiki/末路後庭花 "wikilink")》（**），美国（1992）
 
-  - 《[-{zh-hant:男情難了;
-    zh-hans:百合花;}-](https://zh.wikipedia.org/wiki/男情難了 "wikilink")》（），加拿大（1995）
+  - 《[-{zh-hant:男情難了; zh-hans:百合花;}-](https://zh.wikipedia.org/wiki/男情難了 "wikilink")》（），加拿大（1995）
 
   - 《[愛情爬蟲類](https://zh.wikipedia.org/wiki/愛情爬蟲類 "wikilink")》／《[愛的路上五個人](https://zh.wikipedia.org/wiki/愛的路上五個人 "wikilink")》（），澳大利亚（1996）
 
@@ -733,8 +720,7 @@ __NOTOC__
 
   - ，美国（2001）
 
-  - 《[-{zh-tw:意亂情迷; zh-cn:意乱情迷;
-    zh-hk:少女情懷總是攣;}-](https://zh.wikipedia.org/wiki/意亂情迷_\(2001年電影\) "wikilink")》（），加拿大（2001）
+  - 《[-{zh-tw:意亂情迷; zh-cn:意乱情迷; zh-hk:少女情懷總是攣;}-](https://zh.wikipedia.org/wiki/意亂情迷_\(2001年電影\) "wikilink")》（），加拿大（2001）
 
   - 《[情慾軀殼](https://zh.wikipedia.org/wiki/情慾軀殼 "wikilink")》（），美国（2002）
 
@@ -752,14 +738,11 @@ __NOTOC__
 
   - 《[魂断威尼斯](../Page/魂斷威尼斯_\(電影\).md "wikilink")》，意大利/法國（1971）
 
-  - 《[-{zh-hk:年少輕狂; zh-cn:我的美丽洗衣房;
-    zh-tw:豪華洗衣店}-](https://zh.wikipedia.org/wiki/豪華洗衣店 "wikilink")》（My
-    Beautiful Laundrette），英国（1985）
+  - 《[-{zh-hk:年少輕狂; zh-cn:我的美丽洗衣房; zh-tw:豪華洗衣店}-](https://zh.wikipedia.org/wiki/豪華洗衣店 "wikilink")》（My Beautiful Laundrette），英国（1985）
 
   - 《[穿梭夢美人](https://zh.wikipedia.org/wiki/穿梭夢美人 "wikilink")》（[神气活现](../Page/神气活现.md "wikilink")），美国（1987）
 
-  - 《[-{zh-tw:墨利斯的情人; zh-hk:情難禁;
-    zh-hans:莫里斯的情人;}-](../Page/莫里斯的情人.md "wikilink")》（），英国（1987）
+  - 《[-{zh-tw:墨利斯的情人; zh-hk:情難禁; zh-hans:莫里斯的情人;}-](../Page/莫里斯的情人.md "wikilink")》（），英国（1987）
 
   - [Mannequin 2](../Page/神氣活現2.md "wikilink")，美国（1991）
 
@@ -769,23 +752,19 @@ __NOTOC__
 
   - ，法国/比利时/英国（1997）
 
-  - 《[善恶花园之午夜](https://zh.wikipedia.org/wiki/善恶花园之午夜 "wikilink")》（Midnight
-    in the Garden of Good and Evil），美国（1997）
+  - 《[善恶花园之午夜](https://zh.wikipedia.org/wiki/善恶花园之午夜 "wikilink")》（Midnight in the Garden of Good and Evil），美国（1997）
 
   - 《[真的想嫁你](../Page/真的想嫁你.md "wikilink")》，美國（1997）
 
-  - 《[穆荷蘭大道](https://zh.wikipedia.org/wiki/穆赫兰大道_\(电影\) "wikilink")》（Mulholland
-    Drive\]），美国（2001）
+  - 《[穆荷蘭大道](https://zh.wikipedia.org/wiki/穆赫兰大道_\(电影\) "wikilink")》（Mulholland Drive\]），美国（2001）
 
   - 《[壞教慾](../Page/壞教慾.md "wikilink")》（La mala educación），西班牙（2003）
 
   - 《[女魔头](../Page/女魔头.md "wikilink")》（Monster），美国/德国（2003）
 
-  - 《[夏日午後的初纏愛戀](https://zh.wikipedia.org/wiki/夏日午後的初纏愛戀 "wikilink")》（My
-    Summer of Love），英国（2004）
+  - 《[夏日午後的初纏愛戀](https://zh.wikipedia.org/wiki/夏日午後的初纏愛戀 "wikilink")》（My Summer of Love），英国（2004）
 
-  - 《[-{zh-hk:誘惑肌膚;zh-hans:神秘肌肤;zh-tw:神秘肌膚;}-](https://zh.wikipedia.org/wiki/神秘肌膚 "wikilink")》（Mysterious
-    Skin），美国/荷兰（2004）
+  - 《[-{zh-hk:誘惑肌膚;zh-hans:神秘肌肤;zh-tw:神秘肌膚;}-](https://zh.wikipedia.org/wiki/神秘肌膚 "wikilink")》（Mysterious Skin），美国/荷兰（2004）
 
   - 《[米尔克](../Page/米尔克_\(电影\).md "wikilink")》（Milk），美国（2008）
 
@@ -827,8 +806,7 @@ __NOTOC__
 
   - 《[活著就是為了作證](../Page/活著就是為了作證.md "wikilink")》，英国/德国/美国（2000）
 
-  - 《[烈焰焚幣](https://zh.wikipedia.org/wiki/烈焰焚幣 "wikilink")》（/[Burnt
-    Money](../Page/烈燄焚幣.md "wikilink")），西班牙/法国/阿根廷/乌拉圭（2000）
+  - 《[烈焰焚幣](https://zh.wikipedia.org/wiki/烈焰焚幣 "wikilink")》（/[Burnt Money](../Page/烈燄焚幣.md "wikilink")），西班牙/法国/阿根廷/乌拉圭（2000）
 
   - 《[青春夢裡人](https://zh.wikipedia.org/wiki/青春夢裡人 "wikilink")》（/），法国/比利时（2000）
 
@@ -865,8 +843,7 @@ __NOTOC__
 
   - 《[愛在暹羅](https://zh.wikipedia.org/wiki/愛在暹羅 "wikilink")》／《[暹罗之恋](https://zh.wikipedia.org/wiki/暹罗之恋 "wikilink")》（[爱在暹逻](../Page/爱在暹逻.md "wikilink")/），泰国（2007）
 
-  - 《[羅馬慾樂園](https://zh.wikipedia.org/wiki/羅馬慾樂園 "wikilink")》（*Room In
-    Rome*），西班牙（2010）
+  - 《[羅馬慾樂園](https://zh.wikipedia.org/wiki/羅馬慾樂園 "wikilink")》（*Room In Rome*），西班牙（2010）
 
 ### S
 
@@ -900,8 +877,7 @@ __NOTOC__
 
   - 《[夏日痴魂](https://zh.wikipedia.org/wiki/夏日痴魂 "wikilink")》/《[忽爾昨夏](https://zh.wikipedia.org/wiki/忽爾昨夏 "wikilink")》（），美国（1959）
 
-  - 《[激情姐妹花](https://zh.wikipedia.org/wiki/激情姐妹花 "wikilink")》（），英国
-    (1994)
+  - 《[激情姐妹花](https://zh.wikipedia.org/wiki/激情姐妹花 "wikilink")》（），英国 (1994)
 
   - 《[踢出我衣櫃](https://zh.wikipedia.org/wiki/踢出我衣櫃 "wikilink")》（/），冰岛/芬兰/英国（2005）
 
@@ -917,16 +893,13 @@ __NOTOC__
 
   - 《[寂寞城市](https://zh.wikipedia.org/wiki/寂寞城市 "wikilink")》《[五顆寂寞的心](https://zh.wikipedia.org/wiki/五顆寂寞的心 "wikilink")》（），美国（2000）
 
-  - 《[雙身](https://zh.wikipedia.org/wiki/雙身 "wikilink")》（*Tintenfischalarm*/*Octopus
-    Alarm*）
+  - 《[雙身](https://zh.wikipedia.org/wiki/雙身 "wikilink")》（*Tintenfischalarm*/*Octopus Alarm*）
 
   - *To Wong Foo, Thank you for Everything\! Julie Newmar*，美国（1995）
 
-  - 《[芬兰汤姆](../Page/芬兰汤姆_\(电影\).md "wikilink")》（*Tom of
-    Finland*），芬兰（2017）
+  - 《[芬兰汤姆](../Page/芬兰汤姆_\(电影\).md "wikilink")》（*Tom of Finland*），芬兰（2017）
 
-  - 《[全蚀](https://zh.wikipedia.org/wiki/全蚀 "wikilink")》（*Total
-    Eclipse*），美国（1990）
+  - 《[全蚀](https://zh.wikipedia.org/wiki/全蚀 "wikilink")》（*Total Eclipse*），美国（1990）
 
   - 《[全搞砸了](https://zh.wikipedia.org/wiki/全搞砸了 "wikilink")》（），美国（1993）
 
@@ -944,11 +917,9 @@ __NOTOC__
 
   - 《[看不見的世界](../Page/看不見的世界.md "wikilink")》，英國/南非（2008）
 
-  - 《[兩個婚禮一個葬禮](https://zh.wikipedia.org/wiki/兩個婚禮一個葬禮 "wikilink")》（*Two
-    Weddings And A Funeral*），韓國（2012）
+  - 《[兩個婚禮一個葬禮](https://zh.wikipedia.org/wiki/兩個婚禮一個葬禮 "wikilink")》（*Two Weddings And A Funeral*），韓國（2012）
 
-  - 《[安妮‧李斯特的秘密日記](https://zh.wikipedia.org/wiki/安妮‧李斯特的秘密日記 "wikilink")》（*The
-    Secret Diaries of Miss Anne Lister*），英國（2010）
+  - 《[安妮‧李斯特的秘密日記](https://zh.wikipedia.org/wiki/安妮‧李斯特的秘密日記 "wikilink")》（*The Secret Diaries of Miss Anne Lister*），英國（2010）
 
 ### U
 
@@ -959,8 +930,7 @@ __NOTOC__
 ### V
 
   - 《[受害者](https://zh.wikipedia.org/wiki/受害者_\(电影\) "wikilink")》（），英国（1961）
-  - 《[給遠方的兵哥](https://zh.wikipedia.org/wiki/军官和男孩_\(电影\) "wikilink")》／《[軍官與男孩](https://zh.wikipedia.org/wiki/军官和男孩_\(电影\) "wikilink")》（/[For
-    a Lost Soldier](../Page/軍官和男孩_\(電影\).md "wikilink")），荷兰（1992）
+  - 《[給遠方的兵哥](https://zh.wikipedia.org/wiki/军官和男孩_\(电影\) "wikilink")》／《[軍官與男孩](https://zh.wikipedia.org/wiki/军官和男孩_\(电影\) "wikilink")》（/[For a Lost Soldier](../Page/軍官和男孩_\(電影\).md "wikilink")），荷兰（1992）
 
 ### W
 
@@ -969,8 +939,7 @@ __NOTOC__
   - 《[迷魂井](https://zh.wikipedia.org/wiki/迷魂井 "wikilink")》（），澳大利亚（1997）
   - 《[心太羈](../Page/心太羈.md "wikilink")》，英国（1997）
   - 《[狂野三人行](https://zh.wikipedia.org/wiki/狂野三人行 "wikilink")》／《[慾望單程路](https://zh.wikipedia.org/wiki/慾望單程路 "wikilink")》（/），比利时/法国/英国（2004）
-  - 《[廣告同志](https://zh.wikipedia.org/wiki/廣告同志 "wikilink")》（*World Gay
-    Commercials*），香港（2006）
+  - 《[廣告同志](https://zh.wikipedia.org/wiki/廣告同志 "wikilink")》（*World Gay Commercials*），香港（2006）
   - 《[愛上壞女孩](https://zh.wikipedia.org/wiki/愛上壞女孩 "wikilink")》（/)，法國（2007）
   - 《[看不見的世界](../Page/看不見的世界.md "wikilink")》，英國（2007）
   - 《[小生夢非分](https://zh.wikipedia.org/wiki/小生夢非分 "wikilink")》（），美国（2008）
@@ -981,8 +950,7 @@ __NOTOC__
 
 ### Y
 
-  - 《[情慾報復](https://zh.wikipedia.org/wiki/情慾報復 "wikilink")》／《[慾望男情](https://zh.wikipedia.org/wiki/慾望男情 "wikilink")》（*Yok
-    mang*），韓國（2002）
+  - 《[情慾報復](https://zh.wikipedia.org/wiki/情慾報復 "wikilink")》／《[慾望男情](https://zh.wikipedia.org/wiki/慾望男情 "wikilink")》（*Yok mang*），韓國（2002）
   - 《[我的軍中情人](https://zh.wikipedia.org/wiki/我的軍中情人 "wikilink")》（[我的军中情人](../Page/我的军中情人.md "wikilink")），以色列（2002）
   - 《[情迷禁果](https://zh.wikipedia.org/wiki/情迷禁果 "wikilink")》（/），俄罗斯（2004）
   - 《[想愛就愛](../Page/想愛就愛.md "wikilink")》，泰國（2010）
@@ -999,7 +967,4 @@ __NOTOC__
 
   - [关于同性恋电影](http://www.aboutgaymovies.info/)：关于同性恋主题电影、电视剧、电影历史、墙纸、演员、同性恋，双性恋，变性者电影节以及其它的信息
 
-[Category:LGBT相關電影](https://zh.wikipedia.org/wiki/Category:LGBT相關電影 "wikilink")
-[Category:LGBT文化](https://zh.wikipedia.org/wiki/Category:LGBT文化 "wikilink")
-[Category:電影列表](https://zh.wikipedia.org/wiki/Category:電影列表 "wikilink")
-[Category:LGBT相關列表](https://zh.wikipedia.org/wiki/Category:LGBT相關列表 "wikilink")
+[Category:LGBT相關電影](https://zh.wikipedia.org/wiki/Category:LGBT相關電影 "wikilink") [Category:LGBT文化](https://zh.wikipedia.org/wiki/Category:LGBT文化 "wikilink") [Category:電影列表](https://zh.wikipedia.org/wiki/Category:電影列表 "wikilink") [Category:LGBT相關列表](https://zh.wikipedia.org/wiki/Category:LGBT相關列表 "wikilink")

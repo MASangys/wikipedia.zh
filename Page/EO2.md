@@ -1,5 +1,4 @@
-**EO2**是[香港的一隊跳舞組合](../Page/香港.md "wikilink")，於1999年出道，是[Starj &
-Snazz娛樂旗下的藝員](https://zh.wikipedia.org/wiki/Starj_&_Snazz娛樂 "wikilink")。2013年10月20日宣佈正式解散\[1\]，組合解散後只有Eddie及Otto活躍於娛樂圈。
+**EO2**是[香港](../Page/香港.md "wikilink")的一隊跳舞組合，於1999年出道，是[Starj & Snazz娛樂旗下的藝員](https://zh.wikipedia.org/wiki/Starj_&_Snazz娛樂 "wikilink")。2013年10月20日宣佈正式解散\[1\]，組合解散後只有Eddie及Otto活躍於娛樂圈。
 
 ## 名字由來
 
@@ -35,7 +34,7 @@ EO2由以下四位成員組成的：
 
 ## 唱片
 
-  - 2002年5月：《魅力移動》（與[E-kids](../Page/E-kids.md "wikilink")，[張詠詩合輯](../Page/張詠詩.md "wikilink")）
+  - 2002年5月：《魅力移動》（與[E-kids](../Page/E-kids.md "wikilink")，[張詠詩](../Page/張詠詩.md "wikilink")合輯）
 
 唱片公司：Stareast Music
 
@@ -197,8 +196,7 @@ EO2由以下四位成員組成的：
 
 ### [ViuTV](../Page/ViuTV.md "wikilink") 節目
 
-《[精裝送禮仔](../Page/精裝送禮仔.md "wikilink")》Otto
-實況娛樂（[真人騷](https://zh.wikipedia.org/wiki/真人騷 "wikilink")）
+《[精裝送禮仔](../Page/精裝送禮仔.md "wikilink")》Otto 實況娛樂（[真人騷](https://zh.wikipedia.org/wiki/真人騷 "wikilink")）
 
 ## 港台電視劇
 
@@ -232,7 +230,7 @@ EO2由以下四位成員組成的：
 </tr>
 <tr class="odd">
 <td><p>2008</p></td>
-<td><p>《<a href="../Page/盛裝舞步愛作戰.md" title="wikilink">盛裝舞步愛作戰@四葉草.3</a>》</p></td>
+<td><p>《<a href="../Page/盛裝舞步愛作戰.md" title="wikilink">盛裝舞步愛作戰</a>@四葉草.3》</p></td>
 <td><p>EO2全員</p></td>
 <td></td>
 </tr>
@@ -324,7 +322,7 @@ Otto 飾演 學生領袖</p></td>
 
 ### Otto
 
-  - 2015 《[學是學非（第二輯）](../Page/學是學非.md "wikilink")》 第13集
+  - 2015 《[學是學非](../Page/學是學非.md "wikilink")（第二輯）》 第13集
 
 ## 舞台劇
 
@@ -336,17 +334,13 @@ Otto 飾演 學生領袖</p></td>
 
 ### Eric
 
-  - 2004
-    [商台森美小儀歌劇團](https://zh.wikipedia.org/wiki/商台 "wikilink")《[早安啊\!曼克頓](../Page/早安啊!曼克頓.md "wikilink")》
-  - 2006 《[死亡咖啡店](https://zh.wikipedia.org/wiki/死亡咖啡店 "wikilink")》（LOVE
-    & DEATH）
+  - 2004 [商台森美小儀歌劇團](https://zh.wikipedia.org/wiki/商台 "wikilink")《[早安啊\!曼克頓](../Page/早安啊!曼克頓.md "wikilink")》
+  - 2006 《[死亡咖啡店](https://zh.wikipedia.org/wiki/死亡咖啡店 "wikilink")》（LOVE & DEATH）
 
 ### Eddie
 
-  - 2004
-    [商台森美小儀歌劇團](https://zh.wikipedia.org/wiki/商台 "wikilink")《[早安啊\!曼克頓](../Page/早安啊!曼克頓.md "wikilink")》
-  - 2006 《[死亡咖啡店](https://zh.wikipedia.org/wiki/死亡咖啡店 "wikilink")》（LOVE
-    & DEATH）
+  - 2004 [商台森美小儀歌劇團](https://zh.wikipedia.org/wiki/商台 "wikilink")《[早安啊\!曼克頓](../Page/早安啊!曼克頓.md "wikilink")》
+  - 2006 《[死亡咖啡店](https://zh.wikipedia.org/wiki/死亡咖啡店 "wikilink")》（LOVE & DEATH）
 
 ### Otto
 
@@ -360,8 +354,8 @@ Otto 飾演 學生領袖</p></td>
 ## 演唱會
 
   - 2006 [陳奕迅](../Page/陳奕迅.md "wikilink")「Get A Life」演唱會表演嘉賓
-  - 2007 商業電台拉闊游擊音樂會「辣妹打怪獸」（與[鄭融合作](../Page/鄭融.md "wikilink")）
-  - 2008 [鍾鎮濤演唱會表演嘉賓](../Page/鍾鎮濤.md "wikilink")
+  - 2007 商業電台拉闊游擊音樂會「辣妹打怪獸」（與[鄭融](../Page/鄭融.md "wikilink")合作）
+  - 2008 [鍾鎮濤](../Page/鍾鎮濤.md "wikilink")演唱會表演嘉賓
   - 2008 **EO2** Ladies'Nite 演唱會
   - 2008 Manhattan id 信用卡 2008年拉闊音樂會第一場:陳奕迅 X 謝安琪 X 方大同 X EO2
   - 2009 [林敏驄](../Page/林敏驄.md "wikilink") 林敏驄＜好歌.好友＞演唱會2009表演嘉賓
@@ -417,10 +411,8 @@ Otto 飾演 學生領袖</p></td>
 
 ## 外部連結
 
-  - [Starj &
-    Snazz娛樂官方網站](https://archive.is/20070927065057/http://www.snazz.com.hk/)
+  - [Starj & Snazz娛樂官方網站](https://archive.is/20070927065057/http://www.snazz.com.hk/)
 
-[Category:香港男子演唱團體](https://zh.wikipedia.org/wiki/Category:香港男子演唱團體 "wikilink")
-[Category:EO2](https://zh.wikipedia.org/wiki/Category:EO2 "wikilink")
+[Category:香港男子演唱團體](https://zh.wikipedia.org/wiki/Category:香港男子演唱團體 "wikilink") [Category:EO2](https://zh.wikipedia.org/wiki/Category:EO2 "wikilink")
 
 1.

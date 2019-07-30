@@ -1,10 +1,8 @@
-**水木清华BBS**（[域名](../Page/域名.md "wikilink")
-smth.edu.cn）是[清华大学目前的官方](https://zh.wikipedia.org/wiki/清华大学 "wikilink")[BBS](../Page/BBS.md "wikilink")，也是[中国教育网的第一个BBS](../Page/中国教育和科研计算机网.md "wikilink")，正式成立于1995年8月8日。水木清华曾经是[中国大陆最有人气的BBS之一](../Page/中国大陆.md "wikilink")，代表着中国高校的网络社群文化。但在2005年3月16日转变成为校内型后，水木清华的访问人数大幅下降，影响力已不如前。此后数年间BBS水木清华站逐渐式微，于2012年夏正式关站，终止运作。分裂出的[水木社区](../Page/水木社区.md "wikilink")（[域名](../Page/域名.md "wikilink")
-smth.org），系自然人出资的北京明睿博信息技术发展有限公司旗下之商业网站，该站利用备份的用户数据，在原水木清华BBS用户资源基础上实行独立商业化发展。
+**水木清华BBS**（[域名](../Page/域名.md "wikilink") smth.edu.cn）是[清华大学目前的官方](https://zh.wikipedia.org/wiki/清华大学 "wikilink")[BBS](../Page/BBS.md "wikilink")，也是[中国教育网的第一个BBS](../Page/中国教育和科研计算机网.md "wikilink")，正式成立于1995年8月8日。水木清华曾经是[中国大陆](../Page/中国大陆.md "wikilink")最有人气的BBS之一，代表着中国高校的网络社群文化。但在2005年3月16日转变成为校内型后，水木清华的访问人数大幅下降，影响力已不如前。此后数年间BBS水木清华站逐渐式微，于2012年夏正式关站，终止运作。分裂出的[水木社区](../Page/水木社区.md "wikilink")（[域名](../Page/域名.md "wikilink") smth.org），系自然人出资的北京明睿博信息技术发展有限公司旗下之商业网站，该站利用备份的用户数据，在原水木清华BBS用户资源基础上实行独立商业化发展。
 
 ## 概况
 
-“水木清华”四字，原指清华大学的一处景观，出自于晋代诗人[谢混的诗句](../Page/谢混.md "wikilink")：“惠风荡繁囿，白云屯曾阿，寒裳顺兰止，水木湛清华”。后BBS即以此得名。
+“水木清华”四字，原指清华大学的一处景观，出自于晋代诗人[谢混](../Page/谢混.md "wikilink")的诗句：“惠风荡繁囿，白云屯曾阿，寒裳顺兰止，水木湛清华”。后BBS即以此得名。
 
 截至2005年3月16日前，水木清华共有版面500余个，总注册人数达到30万，最高在线人数达23674人，是中国高校中人气最旺的BBS。
 
@@ -16,9 +14,7 @@ smth.org），系自然人出资的北京明睿博信息技术发展有限公司
 
 ### 1995年：开始
 
-1995年8月初，ace为使清华内部能有自己的BBS，在实验室的一台[386](https://zh.wikipedia.org/wiki/386 "wikilink")/[Linux上架设了BBS](../Page/Linux.md "wikilink")，采用的系统是[台湾大学](https://zh.wikipedia.org/wiki/台湾大学 "wikilink")[椰林风情站的](https://zh.wikipedia.org/wiki/椰林风情站 "wikilink")[PalmBBS](https://zh.wikipedia.org/wiki/PalmBBS "wikilink")。其后ming和lucky也参与进来，并将系统转移到一台[SUN
-Sparc
-20](https://zh.wikipedia.org/wiki/SUN_Sparc_20 "wikilink")（64M内存）的机器上。8月8日这个BBS系统正式开放，定名为“水木清华站”，此时的IP是166.111.1.11。
+1995年8月初，ace为使清华内部能有自己的BBS，在实验室的一台[386](https://zh.wikipedia.org/wiki/386 "wikilink")/[Linux](../Page/Linux.md "wikilink")上架设了BBS，采用的系统是[台湾大学](https://zh.wikipedia.org/wiki/台湾大学 "wikilink")[椰林风情站的](https://zh.wikipedia.org/wiki/椰林风情站 "wikilink")[PalmBBS](https://zh.wikipedia.org/wiki/PalmBBS "wikilink")。其后ming和lucky也参与进来，并将系统转移到一台[SUN Sparc 20](https://zh.wikipedia.org/wiki/SUN_Sparc_20 "wikilink")（64M内存）的机器上。8月8日这个BBS系统正式开放，定名为“水木清华站”，此时的IP是166.111.1.11。
 
 `站友jyj保留了水木清华站有记载的最早的发文：`
 `-------------------------------------------------`
@@ -39,12 +35,11 @@ Sparc
 
 1996年9月18日，许多BBS讨论[钓鱼岛问题出现过激言行](https://zh.wikipedia.org/wiki/钓鱼岛问题 "wikilink")，有关部门对bbs站点进行整顿。[北大阳光创意站和](https://zh.wikipedia.org/wiki/北大阳光创意站 "wikilink")[曙光站暂时关闭](https://zh.wikipedia.org/wiki/曙光站 "wikilink")，水木清华关站一天。其后的10月份，水木清华站关闭了军事、历史、沙龙、时空报道四个版面。
 
-10月底，系统更换成[Firebird
-BBS系统](https://zh.wikipedia.org/wiki/Firebird_BBS "wikilink")，在此之前站务人员对Firebird系统做了大量改进。11月第二个版本的WWW-BBS设计实现出来。12月水木清华站硬盘崩溃，造成两个月左右的文章、用户信息和BBS程序的丢失。
+10月底，系统更换成[Firebird BBS系统](https://zh.wikipedia.org/wiki/Firebird_BBS "wikilink")，在此之前站务人员对Firebird系统做了大量改进。11月第二个版本的WWW-BBS设计实现出来。12月水木清华站硬盘崩溃，造成两个月左右的文章、用户信息和BBS程序的丢失。
 
 ### 1997年：
 
-1月水木清华站从故障中恢复过来，重新开站，但WWW访问未能恢复。清华大学BBS管理条例出台。2月底，[邓小平逝世](../Page/邓小平.md "wikilink")，水木清华站暂时关闭。4月3日重新开站。IP地址转移到了202.112.58.200。
+1月水木清华站从故障中恢复过来，重新开站，但WWW访问未能恢复。清华大学BBS管理条例出台。2月底，[邓小平](../Page/邓小平.md "wikilink")逝世，水木清华站暂时关闭。4月3日重新开站。IP地址转移到了202.112.58.200。
 
 6月底，水木清华站网友为患有重病的唐桂刚同学捐款。
 
@@ -58,9 +53,7 @@ BBS系统](https://zh.wikipedia.org/wiki/Firebird_BBS "wikilink")，在此之前
 
 5月8日，美国导弹击中中国驻南联盟大使馆。众多网友在水木清华站表达自己的愤慨，导致站点访问量激增，www方式于5月19日限时段访问。9月初，系统进行了重大改进：优化了系统；对pop3取信进行过滤；将系统人数上限设定在750人。
 
-10月，曙光公司赞助服务器，服务器配置为：天演，2CPU，1G RAM，54G SCSI
-DISK。12月18日，启用[域名](../Page/域名.md "wikilink")
-smth.org和smth.edu.cn。
+10月，曙光公司赞助服务器，服务器配置为：天演，2CPU，1G RAM，54G SCSI DISK。12月18日，启用[域名](../Page/域名.md "wikilink") smth.org和smth.edu.cn。
 
 ### 2000年：
 
@@ -68,7 +61,7 @@ smth.org和smth.edu.cn。
 
 #### 接管风波
 
-9月20日国务院了通过了《互联网信息服务管理办法》，10月8日[中华人民共和国信息产业部颁布了](../Page/中华人民共和国信息产业部.md "wikilink")《互联网电子公告服务管理规定》；随着这些法规的实施，清华大学决定加强对水木清华BBS的管理。
+9月20日国务院了通过了《互联网信息服务管理办法》，10月8日[中华人民共和国信息产业部](../Page/中华人民共和国信息产业部.md "wikilink")颁布了《互联网电子公告服务管理规定》；随着这些法规的实施，清华大学决定加强对水木清华BBS的管理。
 
 校方为此向站务人员提出了如下管理要求：該校学生登陆帐号与网费管理帐号相同；外校学生登陆需该校提供该校学生的数据库后方可；校外人员需提供身份证复印件。站务表示无法接受这些要求。校方要求站务等管理人员，在一到两星期内，配合学校的措施，逐步退出BBS的管理，并且不要造成站内的恐慌。
 
@@ -94,8 +87,7 @@ smth.org和smth.edu.cn。
 
 ### 2002年：
 
-3月3日更换新服务器，配置为4\*PIII Xeon 700, 2G RAM 5\*18G
-HD。4月5日施行BBS水木清华站转信管理办法，开始支持[转信](https://zh.wikipedia.org/wiki/转信 "wikilink")。4月15日，BBS水木清华站获得[ICP备案](https://zh.wikipedia.org/wiki/ICP备案 "wikilink")，备案号为京ICP备020002号；4月25日系统支持[SSH](https://zh.wikipedia.org/wiki/SSH "wikilink")。5月12日系统支持[Zmodem](https://zh.wikipedia.org/wiki/Zmodem "wikilink")，WWW访问开放测试。7月25日系统支持[POP3S协议](https://zh.wikipedia.org/wiki/POP3S协议 "wikilink")。10月13日开始发放BBS水木清华站纪念光盘。
+3月3日更换新服务器，配置为4\*PIII Xeon 700, 2G RAM 5\*18G HD。4月5日施行BBS水木清华站转信管理办法，开始支持[转信](https://zh.wikipedia.org/wiki/转信 "wikilink")。4月15日，BBS水木清华站获得[ICP备案](https://zh.wikipedia.org/wiki/ICP备案 "wikilink")，备案号为京ICP备020002号；4月25日系统支持[SSH](https://zh.wikipedia.org/wiki/SSH "wikilink")。5月12日系统支持[Zmodem](https://zh.wikipedia.org/wiki/Zmodem "wikilink")，WWW访问开放测试。7月25日系统支持[POP3S协议](https://zh.wikipedia.org/wiki/POP3S协议 "wikilink")。10月13日开始发放BBS水木清华站纪念光盘。
 
 ### 2003年：
 
@@ -103,18 +95,15 @@ HD。4月5日施行BBS水木清华站转信管理办法，开始支持[转信](h
 
 ### 2004年：
 
-1月3日开设“TamiaLiu/刘涛·涛涛不绝”群体版面，其后不久[刘涛就在清华大学与网友举行了见面会](../Page/刘涛.md "wikilink")，见面会的DV一时间在中国各高校流传。2月16日施行《BBS水木清华站版面正版主负责制试行办法》。3月21日增加搜索功能。3月25日注册用户数首次突破250000。5月8日开始提供Blog服务；5月9日正式施行仲裁制度。6月5日网友的原创文集《水木的天空·第一辑》正式出版。8月7日，正值[亚洲杯决赛期间](https://zh.wikipedia.org/wiki/亚洲杯 "wikilink")，Football版在线人数突破10000；8月11日第二十八届夏季奥运会开幕，奥运频道开通，同时为“Olympic/奥运会”版增设了的5个附属版面；11月23日晚同时在线人数首次突破20000人，达到
-20127 人。12月20日，《爱情，请用 term
-登录》（英文名：love120day@SMTH）首映，这是中国第一部以BBS为背景的校园DV。
+1月3日开设“TamiaLiu/刘涛·涛涛不绝”群体版面，其后不久[刘涛](../Page/刘涛.md "wikilink")就在清华大学与网友举行了见面会，见面会的DV一时间在中国各高校流传。2月16日施行《BBS水木清华站版面正版主负责制试行办法》。3月21日增加搜索功能。3月25日注册用户数首次突破250000。5月8日开始提供Blog服务；5月9日正式施行仲裁制度。6月5日网友的原创文集《水木的天空·第一辑》正式出版。8月7日，正值[亚洲杯决赛期间](https://zh.wikipedia.org/wiki/亚洲杯 "wikilink")，Football版在线人数突破10000；8月11日第二十八届夏季奥运会开幕，奥运频道开通，同时为“Olympic/奥运会”版增设了的5个附属版面；11月23日晚同时在线人数首次突破20000人，达到 20127 人。12月20日，《爱情，请用 term 登录》（英文名：love120day@SMTH）首映，这是中国第一部以BBS为背景的校园DV。
 
 ### 2005年以来：
 
-2005年以来，在相关部门的强力推动下，水木清华开始向校内型转变。2005年，3-5月间，在各方压力之下，水木清华历经波折，在线用户人数成比例下降。水木清华2005年8月8日，水木清华还举办了10周年庆祝活动。次日8月9日凌晨2时，开通[IPv6服务](../Page/IPv6.md "wikilink")，地址为2001:DA8:200:100::238,
-同时注册域名6smth.edu.cn。
+2005年以来，在相关部门的强力推动下，水木清华开始向校内型转变。2005年，3-5月间，在各方压力之下，水木清华历经波折，在线用户人数成比例下降。水木清华2005年8月8日，水木清华还举办了10周年庆祝活动。次日8月9日凌晨2时，开通[IPv6](../Page/IPv6.md "wikilink")服务，地址为2001:DA8:200:100::238, 同时注册域名6smth.edu.cn。
 
 ## 向校内型转变
 
-2005年，[中华人民共和国教育部下达文件](../Page/中华人民共和国教育部.md "wikilink")，要求各高校的BBS必须向[实名制下校内交流平台改造](https://zh.wikipedia.org/wiki/实名制 "wikilink")，BBS水木清华站被要求作为典型来实施。为此，清华大学决定BBS水木清华站从开放型的BBS向校内型的BBS转型。
+2005年，[中华人民共和国教育部](../Page/中华人民共和国教育部.md "wikilink")下达文件，要求各高校的BBS必须向[实名制下校内交流平台改造](https://zh.wikipedia.org/wiki/实名制 "wikilink")，BBS水木清华站被要求作为典型来实施。为此，清华大学决定BBS水木清华站从开放型的BBS向校内型的BBS转型。
 
 ### 限制IP
 
@@ -141,9 +130,9 @@ HD。4月5日施行BBS水木清华站转信管理办法，开始支持[转信](h
 
 3月16日[南京大学小百合站在短暂的恢复之后限制了所有用户的发帖权限](https://zh.wikipedia.org/wiki/南京大学小百合站 "wikilink")。
 
-3月17日包括[北大未名BBS](../Page/北大未名BBS.md "wikilink")、[西交兵马俑BBS在内的中国众多高校BBS也相继关闭了校外用户的访问权限](../Page/西交兵马俑BBS.md "wikilink")。在[百度搜索中](https://zh.wikipedia.org/wiki/百度搜索 "wikilink")，[清华大学BBS等关键字被做屏蔽处理](https://zh.wikipedia.org/wiki/清华大学BBS "wikilink")。
+3月17日包括[北大未名BBS](../Page/北大未名BBS.md "wikilink")、[西交兵马俑BBS](../Page/西交兵马俑BBS.md "wikilink")在内的中国众多高校BBS也相继关闭了校外用户的访问权限。在[百度搜索中](https://zh.wikipedia.org/wiki/百度搜索 "wikilink")，[清华大学BBS等关键字被做屏蔽处理](https://zh.wikipedia.org/wiki/清华大学BBS "wikilink")。
 
-3月18日中午，清华大学的数百名学生自发地在校园[日晷前集会](../Page/日晷.md "wikilink")，共同[祭奠水木清华](https://zh.wikipedia.org/wiki/祭奠 "wikilink")。他们以折[纸鹤和献花等方式表达了悲痛之情](https://zh.wikipedia.org/wiki/纸鹤 "wikilink")。
+3月18日中午，清华大学的数百名学生自发地在校园[日晷](../Page/日晷.md "wikilink")前集会，共同[祭奠水木清华](https://zh.wikipedia.org/wiki/祭奠 "wikilink")。他们以折[纸鹤和献花等方式表达了悲痛之情](https://zh.wikipedia.org/wiki/纸鹤 "wikilink")。
 
 无法登陆水木的网友们，则在海外自建了[网站](http://www.smthbbs.com/)，集体署名寻求恢复水木清华的正常访问。
 
@@ -151,12 +140,11 @@ HD。4月5日施行BBS水木清华站转信管理办法，开始支持[转信](h
 
 ### 强行接管
 
-[Smth-20050415-telnet.jpg](https://zh.wikipedia.org/wiki/File:Smth-20050415-telnet.jpg "fig:Smth-20050415-telnet.jpg")
-据原水木清华BBS站务人员声明，2005年4月14日凌晨网络中心[陈茂科等几名人员直接进入存放水木服务器的房间](https://zh.wikipedia.org/wiki/陈茂科 "wikilink")，将原[服务器的](../Page/服务器.md "wikilink")[盘柜直接拔下](https://zh.wikipedia.org/wiki/盘柜 "wikilink")，导致BBS连接中断。随后他们将盘柜挂入另一台服务器，并将[IP设置为原服务器的IP](https://zh.wikipedia.org/wiki/IP "wikilink")，从而达到了数据一致、但BBS核心程序发生变动的实际效果。
+[Smth-20050415-telnet.jpg](https://zh.wikipedia.org/wiki/File:Smth-20050415-telnet.jpg "fig:Smth-20050415-telnet.jpg") 据原水木清华BBS站务人员声明，2005年4月14日凌晨网络中心[陈茂科等几名人员直接进入存放水木服务器的房间](https://zh.wikipedia.org/wiki/陈茂科 "wikilink")，将原[服务器](../Page/服务器.md "wikilink")的[盘柜直接拔下](https://zh.wikipedia.org/wiki/盘柜 "wikilink")，导致BBS连接中断。随后他们将盘柜挂入另一台服务器，并将[IP设置为原服务器的IP](https://zh.wikipedia.org/wiki/IP "wikilink")，从而达到了数据一致、但BBS核心程序发生变动的实际效果。
 
 4月14日中午时水木清华恢复正常访问，但站务人员发现已经无法行使原有的一些权力，这包括他们一直掌握着的水木清华服务器最高管理权限（系统维护操作权限）。
 
-下午1时许BBS水木清华站站务委员会在站内发表醒目公告，指出“鉴于现水木清华服务器已经不由我们掌握，我们不再能保证用户的一切数据、资料的安全，请大家自行注意安全与备份”，还说明“水木清华站务委员会成员一直团结在一起，但是我们无法与[暴力和](../Page/暴力.md "wikilink")[强权抗衡](https://zh.wikipedia.org/wiki/强权 "wikilink")”。随后，大量网友和版主表达了对接管服务器的有关人员的不解与强烈不满。许多版面呈现混乱状态，Newsoftware、Netresources等一些大型版面被版主清除数据后相继关闭。网友集中在THUExpress版发贴抗议，版面文章数量从数千迅速攀升至十万。
+下午1时许BBS水木清华站站务委员会在站内发表醒目公告，指出“鉴于现水木清华服务器已经不由我们掌握，我们不再能保证用户的一切数据、资料的安全，请大家自行注意安全与备份”，还说明“水木清华站务委员会成员一直团结在一起，但是我们无法与[暴力](../Page/暴力.md "wikilink")和[强权抗衡](https://zh.wikipedia.org/wiki/强权 "wikilink")”。随后，大量网友和版主表达了对接管服务器的有关人员的不解与强烈不满。许多版面呈现混乱状态，Newsoftware、Netresources等一些大型版面被版主清除数据后相继关闭。网友集中在THUExpress版发贴抗议，版面文章数量从数千迅速攀升至十万。
 
 4月15日凌晨BBS水木清华站仲裁委员会宣布暂时解散。此后，站内继续呈现混乱局面，如进站标题被修改及系统管理员帐号SYSOP被普通用户盗用并将密码置空等。4月16日凌晨有关人员修正了BBS程序，但同时也使得站务不再掌握任何高级管理权限。
 
@@ -168,17 +156,13 @@ HD。4月5日施行BBS水木清华站转信管理办法，开始支持[转信](h
 
 4月20日晨清华大学信息网络工程研究中心在站内发表公告，停止BBS水木清华站原16名站务委员会成员的职权。同时，SYS01等七名临时接替原站务委员会职位的人员被任命。至此，BBS水木清华站原站务委员会所有成员的管理权力已被完全解除。
 
-4月20日，衍生自火鸟Firebird、由原水木清华BBS开发组开发维护的smthbbs[开放源代码](../Page/开放源代码.md "wikilink")[BBS系统](https://zh.wikipedia.org/wiki/BBS系统 "wikilink")，宣布更名为The
-K Board
-System（简称KBS），同时将由原水木清华BBS开发组独立开发的Web部分转变为非[GPL许可的](https://zh.wikipedia.org/wiki/GPL "wikilink")[专有版权](https://zh.wikipedia.org/wiki/专有版权 "wikilink")，除个人学习使用外，使用该部分代码均需得到KBS开发组的授权。
+4月20日，衍生自火鸟Firebird、由原水木清华BBS开发组开发维护的smthbbs[开放源代码](../Page/开放源代码.md "wikilink")[BBS系统](https://zh.wikipedia.org/wiki/BBS系统 "wikilink")，宣布更名为The K Board System（简称KBS），同时将由原水木清华BBS开发组独立开发的Web部分转变为非[GPL许可的](https://zh.wikipedia.org/wiki/GPL "wikilink")[专有版权](https://zh.wikipedia.org/wiki/专有版权 "wikilink")，除个人学习使用外，使用该部分代码均需得到KBS开发组的授权。
 
 在各方舆论的压力下，4月24日BBS水木清华站临时站务管理组宣布恢复[pop3取信功能](https://zh.wikipedia.org/wiki/pop3 "wikilink")（含校外IP地址）。这使得3月16日后无法登录的校外用户能够重新取回他们的站内信件。
 
 数日来，大量版主集体申请辞职或发表声明放弃所有管理权限，Joke、Picture、Netresources、Newsoftware等许多版面无法正常运作。众多用户发表了关于个人[版权的声明](https://zh.wikipedia.org/wiki/版权 "wikilink")，声称授权给原版务人员将自己的原创文章删除，或者备份、拷贝、移动、复制至任何能体现2005年3月16日以前水木的管理风格的BBS社区。其法律依据没有得到权威人士证明，但这为重建新站提供一定法律基础。
 
-2005年5月开始，校外用户可以[只读访问部分技术类版面](https://zh.wikipedia.org/wiki/只读访问 "wikilink")。
-[Smthorgrevoked.jpg](https://zh.wikipedia.org/wiki/File:Smthorgrevoked.jpg "fig:Smthorgrevoked.jpg")
-5月2日，水木清华BBS使用了六年之久的[域名](../Page/域名.md "wikilink")“smth.org”被原注册人收回，不再为水木清华BBS所享有。7月，该域名指向至[水木社区](../Page/水木社区.md "wikilink")。
+2005年5月开始，校外用户可以[只读访问部分技术类版面](https://zh.wikipedia.org/wiki/只读访问 "wikilink")。 [Smthorgrevoked.jpg](https://zh.wikipedia.org/wiki/File:Smthorgrevoked.jpg "fig:Smthorgrevoked.jpg") 5月2日，水木清华BBS使用了六年之久的[域名](../Page/域名.md "wikilink")“smth.org”被原注册人收回，不再为水木清华BBS所享有。7月，该域名指向至[水木社区](../Page/水木社区.md "wikilink")。
 
 5月4日，水木清华BBS开通校内邮箱和校友邮箱认证功能。这使得清华大学的所有学生及校友，在通过信箱认证后便可从校外登录水木清华BBS。
 
@@ -186,7 +170,7 @@ System（简称KBS），同时将由原水木清华BBS开发组独立开发的We
 
 ### 影响与评价
 
-水木清华BBS被网络中心强行接管后的一段时间，站内呈现出强烈的反抗情绪。学校方面指责站务人员隐瞒事实真相，并不负责任地煽动学生情绪。网友们用不同的方式表达他们的抗议，例如使用[灌水机发帖](https://zh.wikipedia.org/wiki/灌水机 "wikilink")，以及在版面及个人信箱内转发名为“一亿以内[素数表](../Page/素数.md "wikilink")”的超大型文章，导致服务器资源消耗殆尽，以及在版面上进行“快闪”活动等等。新任的临时管理人员则采取了一些通常极为慎重使用的举措进行处置，如直接删除大量ID、只读版面、停站整顿等。此外，网络中心还封禁个人连网出校权限，并以学生停止发言为恢复权限的条件。
+水木清华BBS被网络中心强行接管后的一段时间，站内呈现出强烈的反抗情绪。学校方面指责站务人员隐瞒事实真相，并不负责任地煽动学生情绪。网友们用不同的方式表达他们的抗议，例如使用[灌水机发帖](https://zh.wikipedia.org/wiki/灌水机 "wikilink")，以及在版面及个人信箱内转发名为“一亿以内[素数](../Page/素数.md "wikilink")表”的超大型文章，导致服务器资源消耗殆尽，以及在版面上进行“快闪”活动等等。新任的临时管理人员则采取了一些通常极为慎重使用的举措进行处置，如直接删除大量ID、只读版面、停站整顿等。此外，网络中心还封禁个人连网出校权限，并以学生停止发言为恢复权限的条件。
 
 3月16日封禁校外IP后，水木清华的高峰在线人数从之前的23000余人跌落至7000人左右。而在4月20日被校方接管后，在线人数持续下跌。直至2005年5月，水木清华BBS的在线人数峰值保持在4000人上下。
 
@@ -201,39 +185,26 @@ System（简称KBS），同时将由原水木清华BBS开发组独立开发的We
 
 ## 参考资料
 
-  - 《水木罹难记》，BBS水木清华站，SEM信区，发信人：Menphis (Simple & Naive)，Nov 15 00:22:07
-    2000
+  - 《水木罹难记》，BBS水木清华站，SEM信区，发信人：Menphis (Simple & Naive)，Nov 15 00:22:07 2000
   - 《水木大事记》，BBS水木清华站，sysop信区，发信人：terre (幸运星\~\~加油)，Aug 8 14:31:15 2003
-  - 《致水木清华站全站用户的一封公开信》，BBS水木清华站，Announce信区，发信人：SYSOP (System
-    Operator)，Mar 16 15:39:34 2005
-  - 《\[公告\]BBS水木清华站务委员会公告》，BBS水木清华站，Announce信区，发信人：SYSOP (System
-    Operator)，Apr 14 13:13:12 2005
-  - 《BBS 水木清华站站务委员会在线成员集体声明》，BBS水木清华站，sysop信区，发信人：wanggordon (愧对水木)，Apr
-    16 17:03:09 2005
-  - 《BBS水木清华站站务委员会关于近期一些事情的回顾》，BBS水木清华站，sysop信区，发信人: Menphis
-    (技术接管，鄙视学校), Apr 17 20:23:11 2005
-  - 《\[公告\]关于BBS水木清华站的公告》，BBS水木清华站，sysop信区，发信人：SYSOP (System
-    Operator)，Apr 19 02:10:05 2005
-  - 《BBS水木清华站站务委员会集体辞职声明》，BBS水木清华站，Announce信区，发信人：SYSOP (System
-    Operator)，Apr 19 15:53:09 2005
-  - 《关于停止陈曦等16人BBS水木清华站站务职权的决定》，BBS水木清华站，Announce信区，发信人：SYSOP (System
-    Operator)，Apr 20 06:50:02 2005
+  - 《致水木清华站全站用户的一封公开信》，BBS水木清华站，Announce信区，发信人：SYSOP (System Operator)，Mar 16 15:39:34 2005
+  - 《\[公告\]BBS水木清华站务委员会公告》，BBS水木清华站，Announce信区，发信人：SYSOP (System Operator)，Apr 14 13:13:12 2005
+  - 《BBS 水木清华站站务委员会在线成员集体声明》，BBS水木清华站，sysop信区，发信人：wanggordon (愧对水木)，Apr 16 17:03:09 2005
+  - 《BBS水木清华站站务委员会关于近期一些事情的回顾》，BBS水木清华站，sysop信区，发信人: Menphis (技术接管，鄙视学校), Apr 17 20:23:11 2005
+  - 《\[公告\]关于BBS水木清华站的公告》，BBS水木清华站，sysop信区，发信人：SYSOP (System Operator)，Apr 19 02:10:05 2005
+  - 《BBS水木清华站站务委员会集体辞职声明》，BBS水木清华站，Announce信区，发信人：SYSOP (System Operator)，Apr 19 15:53:09 2005
+  - 《关于停止陈曦等16人BBS水木清华站站务职权的决定》，BBS水木清华站，Announce信区，发信人：SYSOP (System Operator)，Apr 20 06:50:02 2005
 
 ## 外部链接
 
   - [水木清华BBS](http://www.smth.edu.cn) 或 <telnet://smth.edu.cn>
-  - [水木社区](https://web.archive.org/web/20010308225818/http://smth.org/)
-    或 <telnet://smth.org>
-  - [China tightens rules for online chat
-    rooms](http://www.lkcn.net/bbs/lofiversion/index.php/t68080.html)
+  - [水木社区](https://web.archive.org/web/20010308225818/http://smth.org/) 或 <telnet://smth.org>
+  - [China tightens rules for online chat rooms](http://www.lkcn.net/bbs/lofiversion/index.php/t68080.html)
   - [水木BBS调整为校内型](http://ssherman.pixnet.net/blog/post/10738479)
-  - [清华大学师生
-    公祭水木清华BBS](http://community.webshots.com/album/298082898zZFJnj)（图片集锦）
+  - [清华大学师生 公祭水木清华BBS](http://community.webshots.com/album/298082898zZFJnj)（图片集锦）
   - [清华大学师生自发集会图片集](https://web.archive.org/web/20090108181517/http://maomy.motime.com/post/431462)
   - [獨立媒體：清華水木的玻璃球打破了](https://web.archive.org/web/20050430001544/http://www.inmediahk.net/public/article?item_id=21440&group_id=16)
   - [3.18清华日晷-奠水木](http://www.flickr.com/photos/zhen/sets/249800/)
-  - [「活」在BBS](https://web.archive.org/web/20060924164712/http://zqb.cyol.com/gb/zqb/2005-03/30/content_1058775.htm)，包麗敏
-    著，《中國青年報》2005年3月30日
+  - [「活」在BBS](https://web.archive.org/web/20060924164712/http://zqb.cyol.com/gb/zqb/2005-03/30/content_1058775.htm)，包麗敏 著，《中國青年報》2005年3月30日
 
-[Category:清华大学](https://zh.wikipedia.org/wiki/Category:清华大学 "wikilink")
-[Category:中国大学BBS](https://zh.wikipedia.org/wiki/Category:中国大学BBS "wikilink")
+[Category:清华大学](https://zh.wikipedia.org/wiki/Category:清华大学 "wikilink") [Category:中国大学BBS](https://zh.wikipedia.org/wiki/Category:中国大学BBS "wikilink")

@@ -1,21 +1,18 @@
-**\(\mathbf{L}\!{}_\mathbf{\displaystyle Y}\!\mathbf{X}\)**是一個「所見即所指」（what
-you see is what you
-mean）的利用[來排版的文件編輯軟體](https://zh.wikipedia.org/wiki/LaTeX "wikilink")。相對於其它標榜[所見即所得的編輯器而言](https://zh.wikipedia.org/wiki/所見即所得 "wikilink")，LyX標榜只顯示你真正的關心的內容。
+**\(\mathbf{L}\!{}_\mathbf{\displaystyle Y}\!\mathbf{X}\)**是一個「所見即所指」（what you see is what you mean）的利用[來排版的文件編輯軟體](https://zh.wikipedia.org/wiki/LaTeX "wikilink")。相對於其它標榜[所見即所得的編輯器而言](https://zh.wikipedia.org/wiki/所見即所得 "wikilink")，LyX標榜只顯示你真正的關心的內容。
 
 ## 功能
 
   - [圖形用戶界面與選單](https://zh.wikipedia.org/wiki/圖形用戶界面 "wikilink")
   - 標題、標題、段落和目錄自動編號
   - 文本按照標準的排版規則編排，如：縮進、間距及斷字
-  - 標準文檔編輯功能，如：剪截/粘貼，拼法檢查（使用[GNU
-    Aspell套件](https://zh.wikipedia.org/wiki/GNU_Aspell "wikilink")）
+  - 標準文檔編輯功能，如：剪截/粘貼，拼法檢查（使用[GNU Aspell套件](https://zh.wikipedia.org/wiki/GNU_Aspell "wikilink")）
   - 注記
   - 文本集以及模版十分類似于LaTeX中的`\documentclass[arguments]{theclass}`指令
   - 支持[BibTeX](../Page/BibTeX.md "wikilink")
   - 表單編輯器（所見即所得）
   - 數學編輯器（所見即所得）
   - 具備導入各種常用文本格式的能力[LyXScreen_Result_en.png](https://zh.wikipedia.org/wiki/File:LyXScreen_Result_en.png "fig:LyXScreen_Result_en.png")
-  - 具備將文檔導出為[DocBook和](../Page/DocBook.md "wikilink")[SGML文本格式的能力](../Page/SGML.md "wikilink")
+  - 具備將文檔導出為[DocBook](../Page/DocBook.md "wikilink")和[SGML](../Page/SGML.md "wikilink")文本格式的能力
 
 ## 發音
 
@@ -40,8 +37,7 @@ mean）的利用[來排版的文件編輯軟體](https://zh.wikipedia.org/wiki/L
 | 2.2.3 | 15 May, 2017         |
 | 2.3.0 | March 16, 2018       |
 
-除了需要额外安装的LyX的主要发行版之外，还有一个与[TeX
-Live集成的称为LyTeX的非官方便携](../Page/TeX_Live.md "wikilink")（过时）版本。\[4\]
+除了需要额外安装的LyX的主要发行版之外，还有一个与[TeX Live集成的称为LyTeX的非官方便携](../Page/TeX_Live.md "wikilink")（过时）版本。\[4\]
 
 ## 参见
 
@@ -62,28 +58,19 @@ Live集成的称为LyTeX的非官方便携](../Page/TeX_Live.md "wikilink")（�
 
   - [Donations and funding](http://www.lyx.org/Donate)
 
-  - [A comparative review of Scientific WorkPlace and
-    LyX](http://www.jstatsoft.org/v17/s01) in Journal of Statistical
-    Software
+  - [A comparative review of Scientific WorkPlace and LyX](http://www.jstatsoft.org/v17/s01) in Journal of Statistical Software
 
-  - [Collection of thesis and dissertation
-    LyX-templates](http://www.thesis-template.com)
+  - [Collection of thesis and dissertation LyX-templates](http://www.thesis-template.com)
 
-  - [Self-publishing with
-    LYX](https://web.archive.org/web/20110709083743/http://web.aanet.com.au/sage/lyx.pdf)
+  - [Self-publishing with LYX](https://web.archive.org/web/20110709083743/http://web.aanet.com.au/sage/lyx.pdf)
 
   - [LyX和XeLaTeX的配合](https://web.archive.org/web/20090327053457/http://blog.bs2.to/post/EdwardLee/8545)
 
-  - [LyX和LaTeX
-    CJK的配合](https://web.archive.org/web/20090327053148/http://blog.bs2.to/post/EdwardLee/9952)
+  - [LyX和LaTeX CJK的配合](https://web.archive.org/web/20090327053148/http://blog.bs2.to/post/EdwardLee/9952)
 
-[Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink")
-[Category:使用Qt的軟體](https://zh.wikipedia.org/wiki/Category:使用Qt的軟體 "wikilink")
-[Category:桌面出版软件](https://zh.wikipedia.org/wiki/Category:桌面出版软件 "wikilink")
-[Category:自由排版软件](https://zh.wikipedia.org/wiki/Category:自由排版软件 "wikilink")
+[Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink") [Category:使用Qt的軟體](https://zh.wikipedia.org/wiki/Category:使用Qt的軟體 "wikilink") [Category:桌面出版软件](https://zh.wikipedia.org/wiki/Category:桌面出版软件 "wikilink") [Category:自由排版软件](https://zh.wikipedia.org/wiki/Category:自由排版软件 "wikilink")
 
-1.  [FAQ/Pronunciation](http://wiki.lyx.org/FAQ/Pronunciation), LyX
-    Wiki. Retrieved 4 April 2008.
+1.  [FAQ/Pronunciation](http://wiki.lyx.org/FAQ/Pronunciation), LyX Wiki. Retrieved 4 April 2008.
 2.
 3.
 4.  [LyTeX](http://code.google.com/p/lytex/)

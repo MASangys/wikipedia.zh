@@ -1,136 +1,60 @@
-**Internet Explorer**（舊稱 **Microsoft Internet Explorer** 和 **Windows
-Internet Explorer**，簡稱 **IE** 或
-**MSIE**），是[微软所開發的](../Page/微软.md "wikilink")[图形用户界面](../Page/图形用户界面.md "wikilink")[网页浏览器](../Page/网页浏览器.md "wikilink")。自從1995年開始，內建在各個新版本的作業系统作為預設的瀏覽器，也是微軟[Windows作業系統的一個組成部分](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")\[1\]。
+**Internet Explorer**（舊稱 **Microsoft Internet Explorer** 和 **Windows Internet Explorer**，簡稱 **IE** 或 **MSIE**），是[微软](../Page/微软.md "wikilink")所開發的[图形用户界面](../Page/图形用户界面.md "wikilink")[网页浏览器](../Page/网页浏览器.md "wikilink")。自從1995年開始，內建在各個新版本的作業系统作為預設的瀏覽器，也是微軟[Windows作業系統的一個組成部分](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")\[1\]。
 
-Internet
-Explorer是使用最廣泛的網頁瀏覽器之一，在2002年和2003年達到95％的[使用率高峰](https://zh.wikipedia.org/wiki/網頁瀏覽器的使用分布 "wikilink")\[2\]。微軟以捆綁方式贏得與[Netscape的](https://zh.wikipedia.org/wiki/Netscape "wikilink")[第一次瀏覽器大戰](https://zh.wikipedia.org/wiki/第一次瀏覽器大戰 "wikilink")，Netscape是1990年代的主流瀏覽器。隨著[Mozilla
-Firefox](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")（2004年）和[Google
-Chrome](../Page/Google_Chrome.md "wikilink")（2008年）的推出，其市占率已逐漸下滑。而根據2015年9月的統計資料顯示，Internet
-Explorer各版本累計的市場佔有率為15.71％，位居全球第三\[3\]。微軟在1990年代後期每年在Internet
-Explorer上投資超過1億美元\[4\]，到了1999年，開發團隊有1000多人\[5\]\[6\]。
+Internet Explorer是使用最廣泛的網頁瀏覽器之一，在2002年和2003年達到95％的[使用率高峰](https://zh.wikipedia.org/wiki/網頁瀏覽器的使用分布 "wikilink")\[2\]。微軟以捆綁方式贏得與[Netscape的](https://zh.wikipedia.org/wiki/Netscape "wikilink")[第一次瀏覽器大戰](https://zh.wikipedia.org/wiki/第一次瀏覽器大戰 "wikilink")，Netscape是1990年代的主流瀏覽器。隨著[Mozilla Firefox](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")（2004年）和[Google Chrome](../Page/Google_Chrome.md "wikilink")（2008年）的推出，其市占率已逐漸下滑。而根據2015年9月的統計資料顯示，Internet Explorer各版本累計的市場佔有率為15.71％，位居全球第三\[3\]。微軟在1990年代後期每年在Internet Explorer上投資超過1億美元\[4\]，到了1999年，開發團隊有1000多人\[5\]\[6\]。
 
-此外，在其他作業系統也有：包括前稱**的，用在及上；亦有用於非Microsoft平台的[Mac
-OS的](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")及，但現已停止支援\[7\]。
+此外，在其他作業系統也有：包括前稱**的，用在及上；亦有用於非Microsoft平台的[Mac OS的](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")及，但現已停止支援\[7\]。
 
-2015年3月17日，微軟宣布Internet Explorer不再是[Windows
-10的預設瀏覽器](../Page/Windows_10.md "wikilink")，並且逐步放棄這一品牌。4月29日，在微軟Build
-2015大会上，微軟發佈新瀏覽器[Microsoft
-Edge](../Page/Microsoft_Edge.md "wikilink")，Microsoft Edge為[Windows
-10的預設瀏覽器](../Page/Windows_10.md "wikilink")，而Internet
-Explorer只出現在「附屬應用程式」中，意味著Internet
-Explorer已淡出主流應用。2016年1月6日，微軟宣布將會停止發布[Internet Explorer
-11之前版本的安全性更新](../Page/Internet_Explorer_11.md "wikilink")\[8\]。
+2015年3月17日，微軟宣布Internet Explorer不再是[Windows 10的預設瀏覽器](../Page/Windows_10.md "wikilink")，並且逐步放棄這一品牌。4月29日，在微軟Build 2015大会上，微軟發佈新瀏覽器[Microsoft Edge](../Page/Microsoft_Edge.md "wikilink")，Microsoft Edge為[Windows 10的預設瀏覽器](../Page/Windows_10.md "wikilink")，而Internet Explorer只出現在「附屬應用程式」中，意味著Internet Explorer已淡出主流應用。2016年1月6日，微軟宣布將會停止發布[Internet Explorer 11之前版本的安全性更新](../Page/Internet_Explorer_11.md "wikilink")\[8\]。
 
 ## 歷史
 
-Internet
-Explorer計劃由[托馬斯·里爾登開始於](../Page/托馬斯·里爾登.md "wikilink")1994年夏天，當時[Netscape
-Navigator佔據瀏覽器市場分額](../Page/网景导航者.md "wikilink")70%以上。競爭對手[蘋果公司的](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[Mac
-OS更使用Netscape作為預設的瀏覽器](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")，但當時的[Windows沒有一個預設的瀏覽器](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。微軟需要有一個自己的瀏覽器，但它沒有時間從零開始創造一個瀏覽器。因此和[Spyglass合作](https://zh.wikipedia.org/wiki/Spyglass公司 "wikilink")，Internet
-Explorer從早期一款商業性的專利網路瀏覽器Spyglass
-Mosaic衍生出來\[9\]\[10\]。在1996年，[微軟透過給予部分收入從Spyglass中取得Spyglass](../Page/微软.md "wikilink")
-Mosaic的授權。雖然Spyglass Mosaic的名字與[NCSA
-Mosaic](../Page/Mosaic.md "wikilink")（首款應用最廣泛的網路瀏覽器）甚為相似，但Spyglass
-Mosaic則相對地較不出名以及使用NCSA Mosaic少量的原始碼\[11\]。
+Internet Explorer計劃由[托馬斯·里爾登](../Page/托馬斯·里爾登.md "wikilink")開始於1994年夏天，當時[Netscape Navigator佔據瀏覽器市場分額](../Page/网景导航者.md "wikilink")70%以上。競爭對手[蘋果公司的](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[Mac OS更使用Netscape作為預設的瀏覽器](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")，但當時的[Windows沒有一個預設的瀏覽器](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。微軟需要有一個自己的瀏覽器，但它沒有時間從零開始創造一個瀏覽器。因此和[Spyglass合作](https://zh.wikipedia.org/wiki/Spyglass公司 "wikilink")，Internet Explorer從早期一款商業性的專利網路瀏覽器Spyglass Mosaic衍生出來\[9\]\[10\]。在1996年，[微軟透過給予部分收入從Spyglass中取得Spyglass](../Page/微软.md "wikilink") Mosaic的授權。雖然Spyglass Mosaic的名字與[NCSA Mosaic](../Page/Mosaic.md "wikilink")（首款應用最廣泛的網路瀏覽器）甚為相似，但Spyglass Mosaic則相對地較不出名以及使用NCSA Mosaic少量的原始碼\[11\]。
 
   - 1.0版本
 
-第一個版本的Internet Explorer（被稱為Internet Explorer
-1）於1995年8月16日，首次亮相。這是一個由Spyglass
-Mosaic重新設計而出的版本。它包含在的*Internet Jumpstart Kit*中，Internet
-Explorer團隊在發展初期開始，大約有六人\[12\]。Internet Explorer
-1.5在1.0版本發佈後幾個月後發布，專為Windows
-NT設計。但他們並沒有向Spyglass公司支付專利使用費，從而導致800萬美元的罰款\[13\]\[14\]。
+第一個版本的Internet Explorer（被稱為Internet Explorer 1）於1995年8月16日，首次亮相。這是一個由Spyglass Mosaic重新設計而出的版本。它包含在的*Internet Jumpstart Kit*中，Internet Explorer團隊在發展初期開始，大約有六人\[12\]。Internet Explorer 1.5在1.0版本發佈後幾個月後發布，專為Windows NT設計。但他們並沒有向Spyglass公司支付專利使用費，從而導致800萬美元的罰款\[13\]\[14\]。
 
   - 2.0版本
 
-1995年11月22日，Internet Explorer 2發布。此版本專為Windows 95、Windows NT 3.5和NT
-4.0設計。其特色為支持[JavaScript](../Page/JavaScript.md "wikilink")、[SSL](https://zh.wikipedia.org/wiki/傳輸層安全 "wikilink")、[Cookies](https://zh.wikipedia.org/wiki/Cookies "wikilink")、Frames、[VRML](../Page/VRML.md "wikilink")、[RSA](../Page/RSA加密演算法.md "wikilink")、[網際網路新聞群組](../Page/Usenet.md "wikilink")。但Mac版直到1996年1月才發佈。第2版​​被包含在Windows
-95 OSR1和微軟的互聯網入門套件\[15\]。
+1995年11月22日，Internet Explorer 2發布。此版本專為Windows 95、Windows NT 3.5和NT 4.0設計。其特色為支持[JavaScript](../Page/JavaScript.md "wikilink")、[SSL](https://zh.wikipedia.org/wiki/傳輸層安全 "wikilink")、[Cookies](https://zh.wikipedia.org/wiki/Cookies "wikilink")、Frames、[VRML](../Page/VRML.md "wikilink")、[RSA](../Page/RSA加密演算法.md "wikilink")、[網際網路新聞群組](../Page/Usenet.md "wikilink")。但Mac版直到1996年1月才發佈。第2版​​被包含在Windows 95 OSR1和微軟的互聯網入門套件\[15\]。
 
   - 3.0版本
 
-[Internet_Explorer_3_on_Windows_95.png](https://zh.wikipedia.org/wiki/File:Internet_Explorer_3_on_Windows_95.png "fig:Internet_Explorer_3_on_Windows_95.png")
-1996年8月13日，Internet Explorer
-3發佈，是首個脫離Spyglass原始碼發展的版本（但仍使用Spyglass的「技術」，所以程式的文件記錄仍保留Spyglass的版權資訊），它亦是首個支援[CSS技術的主流瀏覽器](../Page/层叠样式表.md "wikilink")。它引進[ActiveX控制項](../Page/ActiveX.md "wikilink")、[Java
-Applet](../Page/Java_applet.md "wikilink")、內聯網頁多媒體以及網際網路內容選擇平台系統對內容[元數據的支援](https://zh.wikipedia.org/wiki/元數據 "wikilink")。對比於當時它的主要競爭對手[Netscape
-Navigator](../Page/网景导航者.md "wikilink")，這些改進算是十分具代表性的。3.0版本亦捆綁Internet
-Mail and
-News（為[Outlook的前身](https://zh.wikipedia.org/wiki/Outlook "wikilink")）、及Windows
-Address Book，它亦內建在[Windows 95](../Page/Windows_95.md "wikilink") OSR
-2中。3.0版本被認為是Internet
-Explorer首個最受到歡迎的版本，但在發行後的數個月後亦被駭客發現數個[安全性和隱私漏洞](https://zh.wikipedia.org/wiki/Internet_Explorer#.E5.AE.89.E5.85.A8.E6.80.A7 "wikilink")。
+[Internet_Explorer_3_on_Windows_95.png](https://zh.wikipedia.org/wiki/File:Internet_Explorer_3_on_Windows_95.png "fig:Internet_Explorer_3_on_Windows_95.png") 1996年8月13日，Internet Explorer 3發佈，是首個脫離Spyglass原始碼發展的版本（但仍使用Spyglass的「技術」，所以程式的文件記錄仍保留Spyglass的版權資訊），它亦是首個支援[CSS技術的主流瀏覽器](../Page/层叠样式表.md "wikilink")。它引進[ActiveX](../Page/ActiveX.md "wikilink")控制項、[Java Applet](../Page/Java_applet.md "wikilink")、內聯網頁多媒體以及網際網路內容選擇平台系統對內容[元數據的支援](https://zh.wikipedia.org/wiki/元數據 "wikilink")。對比於當時它的主要競爭對手[Netscape Navigator](../Page/网景导航者.md "wikilink")，這些改進算是十分具代表性的。3.0版本亦捆綁Internet Mail and News（為[Outlook的前身](https://zh.wikipedia.org/wiki/Outlook "wikilink")）、及Windows Address Book，它亦內建在[Windows 95](../Page/Windows_95.md "wikilink") OSR 2中。3.0版本被認為是Internet Explorer首個最受到歡迎的版本，但在發行後的數個月後亦被駭客發現數個[安全性和隱私漏洞](https://zh.wikipedia.org/wiki/Internet_Explorer#.E5.AE.89.E5.85.A8.E6.80.A7 "wikilink")。
 
   - 4.0版本
 
-1997年9月，Internet Explorer 4發佈，它深化瀏覽器和作業系統的整合層面，在Windows 95或Windows NT
-4上安裝4.0版本及選擇視窗桌面更新功能可將傳統式的[Windows
-Explorer更新成與網路瀏覽器界面相似的新版Internet](https://zh.wikipedia.org/wiki/Windows_Explorer "wikilink")
-Explorer ，用戶亦可透過[Active
-Desktop將網頁瀏覽功能嵌入於視窗桌面上](../Page/活动桌面.md "wikilink")。這樣的整合行為亦受到不少的批評（參見[美國訴微軟案](https://zh.wikipedia.org/wiki/美國訴微軟案 "wikilink")），因此這個功能已在後期的版本安裝中移除。4.0版本引進群組原則，允許公司設定和鎖上瀏覽器的參數設置。Internet
-Mail and News被[Outlook
-Express取代](../Page/Outlook_Express.md "wikilink")，和經改良的NetMeeting亦被捆綁在IE中。[Windows
-98亦包含這個版本](../Page/Windows_98.md "wikilink")。
+1997年9月，Internet Explorer 4發佈，它深化瀏覽器和作業系統的整合層面，在Windows 95或Windows NT 4上安裝4.0版本及選擇視窗桌面更新功能可將傳統式的[Windows Explorer更新成與網路瀏覽器界面相似的新版Internet](https://zh.wikipedia.org/wiki/Windows_Explorer "wikilink") Explorer ，用戶亦可透過[Active Desktop將網頁瀏覽功能嵌入於視窗桌面上](../Page/活动桌面.md "wikilink")。這樣的整合行為亦受到不少的批評（參見[美國訴微軟案](https://zh.wikipedia.org/wiki/美國訴微軟案 "wikilink")），因此這個功能已在後期的版本安裝中移除。4.0版本引進群組原則，允許公司設定和鎖上瀏覽器的參數設置。Internet Mail and News被[Outlook Express取代](../Page/Outlook_Express.md "wikilink")，和經改良的NetMeeting亦被捆綁在IE中。[Windows 98亦包含這個版本](../Page/Windows_98.md "wikilink")。
 
   - 5.0版本
 
-1999年3月18日，Internet Explorer 5發佈，这是最后一个能运行于Windows
-3.1的版本，隨後亦被隨附在[Windows
-98和](../Page/Windows_98.md "wikilink")[Office
-2000中](../Page/Microsoft_Office.md "wikilink")（[Windows
-2000隨附](../Page/Windows_2000.md "wikilink")5.01版本）。這個版本亦是另一個具代表性的發佈，它引進[雙向文字](../Page/雙向文稿.md "wikilink")、[旁註標記](https://zh.wikipedia.org/wiki/旁註標記 "wikilink")、[XML](../Page/XML.md "wikilink")、[XSL及將網頁儲存成](https://zh.wikipedia.org/wiki/可擴展樣式語言 "wikilink")[MHTML格式的功能](../Page/MHTML.md "wikilink")。Internet
-Explorer
-5.5隨後在2000年7月中發佈，它改善列印預覽的功能、CSS及HTML標準的支援和應用程序編程介面。這個版本被隨附在[Windows
-Me中](../Page/Windows_Me.md "wikilink")。
+1999年3月18日，Internet Explorer 5發佈，这是最后一个能运行于Windows 3.1的版本，隨後亦被隨附在[Windows 98和](../Page/Windows_98.md "wikilink")[Office 2000中](../Page/Microsoft_Office.md "wikilink")（[Windows 2000隨附](../Page/Windows_2000.md "wikilink")5.01版本）。這個版本亦是另一個具代表性的發佈，它引進[雙向文字](../Page/雙向文稿.md "wikilink")、[旁註標記](https://zh.wikipedia.org/wiki/旁註標記 "wikilink")、[XML](../Page/XML.md "wikilink")、[XSL及將網頁儲存成](https://zh.wikipedia.org/wiki/可擴展樣式語言 "wikilink")[MHTML](../Page/MHTML.md "wikilink")格式的功能。Internet Explorer 5.5隨後在2000年7月中發佈，它改善列印預覽的功能、CSS及HTML標準的支援和應用程序編程介面。這個版本被隨附在[Windows Me中](../Page/Windows_Me.md "wikilink")。
 
   - 6.0版本
 
-2001年8月27日，Internet Explorer 6發佈，距[Windows
-XP正式發佈日僅數星期](../Page/Windows_XP.md "wikilink")。此版本包含增強版DHTML、內聯網頁框架的內容限制和部分支援CSS
-level 1、DOM level 1和SMIL
-2.0\[16\]。其他特色包含新版本的[IEAK](../Page/IEAK.md "wikilink")、媒體列和[Windows
-Messenger](../Page/Windows_Messenger.md "wikilink")、錯誤收集、自動化重整圖片大小、[P3P和新的外觀](https://zh.wikipedia.org/wiki/P3P "wikilink")，能配合Windows
-XP的[*Luna*界面](https://zh.wikipedia.org/wiki/Windows_XP主題 "wikilink")。2002年，[Gopher的功能被禁用](https://zh.wikipedia.org/wiki/Gopher_\(網路協定\) "wikilink")，7.0版本更取消對Gopher的支援\[17\]。
+2001年8月27日，Internet Explorer 6發佈，距[Windows XP正式發佈日僅數星期](../Page/Windows_XP.md "wikilink")。此版本包含增強版DHTML、內聯網頁框架的內容限制和部分支援CSS level 1、DOM level 1和SMIL 2.0\[16\]。其他特色包含新版本的[IEAK](../Page/IEAK.md "wikilink")、媒體列和[Windows Messenger](../Page/Windows_Messenger.md "wikilink")、錯誤收集、自動化重整圖片大小、[P3P和新的外觀](https://zh.wikipedia.org/wiki/P3P "wikilink")，能配合Windows XP的[*Luna*界面](https://zh.wikipedia.org/wiki/Windows_XP主題 "wikilink")。2002年，[Gopher的功能被禁用](https://zh.wikipedia.org/wiki/Gopher_\(網路協定\) "wikilink")，7.0版本更取消對Gopher的支援\[17\]。
 
   - 7.0版本
 
-2005年2月15日，微軟主席[比爾·蓋茨於舊金山的RSA討論會中](../Page/比尔·盖茨.md "wikilink")，宣佈新版本瀏覽器將會發佈\[18\]。推出新瀏覽器的原因是Internet
-Explorer的市場佔有率逐漸被[Mozilla
-Firefox侵蝕](../Page/Firefox.md "wikilink")\[19\]。此外，微軟宣佈7.0版本只可以用於Windows
-XP SP2或之後的作業系統中，包括Windows XP SP3、Windows Server 2003 SP1和Windows Vista。
+2005年2月15日，微軟主席[比爾·蓋茨於舊金山的RSA討論會中](../Page/比尔·盖茨.md "wikilink")，宣佈新版本瀏覽器將會發佈\[18\]。推出新瀏覽器的原因是Internet Explorer的市場佔有率逐漸被[Mozilla Firefox侵蝕](../Page/Firefox.md "wikilink")\[19\]。此外，微軟宣佈7.0版本只可以用於Windows XP SP2或之後的作業系統中，包括Windows XP SP3、Windows Server 2003 SP1和Windows Vista。
 
-2006年10月18日，Internet Explorer
-7發布，新版本包括修復一些程式中的錯誤，加強對網頁標準的支援，加入[分頁瀏覽](https://zh.wikipedia.org/wiki/分頁瀏覽器 "wikilink")，還有一個支援各搜索引擎的搜尋方塊，一個[RSS瀏覽器](../Page/RSS.md "wikilink")，支援[國際化域名](https://zh.wikipedia.org/wiki/國際化域名 "wikilink")，和反钓鱼式攻击過濾器。除此之外，用戶可以完全控制ActiveX和更佳的保安架構，包括與Windows系統分開，不像以往般緊密融合，從而提高安全性。
+2006年10月18日，Internet Explorer 7發布，新版本包括修復一些程式中的錯誤，加強對網頁標準的支援，加入[分頁瀏覽](https://zh.wikipedia.org/wiki/分頁瀏覽器 "wikilink")，還有一個支援各搜索引擎的搜尋方塊，一個[RSS](../Page/RSS.md "wikilink")瀏覽器，支援[國際化域名](https://zh.wikipedia.org/wiki/國際化域名 "wikilink")，和反钓鱼式攻击過濾器。除此之外，用戶可以完全控制ActiveX和更佳的保安架構，包括與Windows系統分開，不像以往般緊密融合，從而提高安全性。
 
-2008年2月12日，微軟以「安全原因」通过Windows
-Update把所有Windows系统的浏览器强制升级到7.0版本，但由於Windows
-2000并不支持7.0版本，所以没有強制升级\[20\]。
+2008年2月12日，微軟以「安全原因」通过Windows Update把所有Windows系统的浏览器强制升级到7.0版本，但由於Windows 2000并不支持7.0版本，所以没有強制升级\[20\]。
 
   - 8.0版本
 
-Internet Explorer 8從2008年的第一季開始發佈測試版本，並附帶於[Windows
-7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")。
+Internet Explorer 8從2008年的第一季開始發佈測試版本，並附帶於[Windows 7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")。
 
-2008年3月5日，微軟發佈Internet Explorer 8 Beta 1。它支援[Windows XP
-SP2](https://zh.wikipedia.org/wiki/Windows_XP#Service_Pack_2 "wikilink")、[Windows
-XP
-SP3](https://zh.wikipedia.org/wiki/Windows_XP#Service_Pack_3 "wikilink")、[Windows
-Server 2003](../Page/Windows_Server_2003.md "wikilink") SP2、[Windows
-Vista及](../Page/Windows_Vista.md "wikilink")[Windows Server
-2008的](../Page/Windows_Server_2008.md "wikilink")32位元及64位元環境\[21\]。
+2008年3月5日，微軟發佈Internet Explorer 8 Beta 1。它支援[Windows XP SP2](https://zh.wikipedia.org/wiki/Windows_XP#Service_Pack_2 "wikilink")、[Windows XP SP3](https://zh.wikipedia.org/wiki/Windows_XP#Service_Pack_3 "wikilink")、[Windows Server 2003](../Page/Windows_Server_2003.md "wikilink") SP2、[Windows Vista及](../Page/Windows_Vista.md "wikilink")[Windows Server 2008的](../Page/Windows_Server_2008.md "wikilink")32位元及64位元環境\[21\]。
 
-2008年7月28日，微軟IE專案經理Andy Zeigler在微軟官方部落格上透露Internet Explorer
-8三種增強可靠性的新功能，分別是鬆散耦合式IE（LCIE）、自動當機恢復和Windows錯誤報告。
+2008年7月28日，微軟IE專案經理Andy Zeigler在微軟官方部落格上透露Internet Explorer 8三種增強可靠性的新功能，分別是鬆散耦合式IE（LCIE）、自動當機恢復和Windows錯誤報告。
 
-2008年8月27日，微軟發佈Internet Explorer 8 Beta
-2，可以在其官方網站中下載。它提供英文、日文、繁體中文、簡體中文及德文版本等21種語言版本。
+2008年8月27日，微軟發佈Internet Explorer 8 Beta 2，可以在其官方網站中下載。它提供英文、日文、繁體中文、簡體中文及德文版本等21種語言版本。
 
-與IE7相比，網頁標準支援方面有了很大的進步，並成功通過[Acid2測試](../Page/Acid2.md "wikilink")。不過[Acid3](../Page/Acid3.md "wikilink")（於Internet
-Explorer 8 Beta
-1發佈前兩天發佈）的測試結果依舊遠遠落後於[Firefox](../Page/Firefox.md "wikilink")、[Opera等瀏覽器](https://zh.wikipedia.org/wiki/Opera "wikilink")。
+與IE7相比，網頁標準支援方面有了很大的進步，並成功通過[Acid2](../Page/Acid2.md "wikilink")測試。不過[Acid3](../Page/Acid3.md "wikilink")（於Internet Explorer 8 Beta 1發佈前兩天發佈）的測試結果依舊遠遠落後於[Firefox](../Page/Firefox.md "wikilink")、[Opera等瀏覽器](https://zh.wikipedia.org/wiki/Opera "wikilink")。
 
-2009年1月26日，Internet Explorer 8 RC
-1正式面世，此版本提供二十五種語言供下載使用，修復在Beta版所發現的錯誤與安全性問題，並加強軟體穩定性與效能。
+2009年1月26日，Internet Explorer 8 RC 1正式面世，此版本提供二十五種語言供下載使用，修復在Beta版所發現的錯誤與安全性問題，並加強軟體穩定性與效能。
 
 2009年3月19日，Internet Explorer 8正式版發佈。
 
@@ -138,36 +62,23 @@ Explorer 8 Beta
 
   - 9.0版本
 
-[Internet_Explorer_9_zh-hk.png](https://zh.wikipedia.org/wiki/File:Internet_Explorer_9_zh-hk.png "fig:Internet_Explorer_9_zh-hk.png")
-Internet Explorer
-9采用全新的JavaScript引擎「[Chakra](../Page/Chakra_\(JScript引擎\).md "wikilink")」\[22\]。
+[Internet_Explorer_9_zh-hk.png](https://zh.wikipedia.org/wiki/File:Internet_Explorer_9_zh-hk.png "fig:Internet_Explorer_9_zh-hk.png") Internet Explorer 9采用全新的JavaScript引擎「[Chakra](../Page/Chakra_\(JScript引擎\).md "wikilink")」\[22\]。
 
-Internet Explorer 9瀏覽器不再支援Windows XP及其以前版本，對Windows Vista
-SP1和RTM版本亦不支援。根據測試，Internet Explorer
-9瀏覽器對JavaScript語言的解析速度超過[Firefox
-4瀏覽器](https://zh.wikipedia.org/wiki/Firefox_4 "wikilink")。
+Internet Explorer 9瀏覽器不再支援Windows XP及其以前版本，對Windows Vista SP1和RTM版本亦不支援。根據測試，Internet Explorer 9瀏覽器對JavaScript語言的解析速度超過[Firefox 4瀏覽器](https://zh.wikipedia.org/wiki/Firefox_4 "wikilink")。
 
-Internet Explorer 9於2011年3月14日推出，並出现新图标。Internet Explorer
-9的界面變得十分简洁，界面主要只有前进、后退按钮及地址栏，速度也有很大進步。而且IE9是IE中第一个带硬件加速的版本，在Acid3測試中獲得100分，但其所顯示的圖像仍與正式結果有所差異，例如上方的“Acid
-3”字樣缺陰影。
+Internet Explorer 9於2011年3月14日推出，並出现新图标。Internet Explorer 9的界面變得十分简洁，界面主要只有前进、后退按钮及地址栏，速度也有很大進步。而且IE9是IE中第一个带硬件加速的版本，在Acid3測試中獲得100分，但其所顯示的圖像仍與正式結果有所差異，例如上方的“Acid 3”字樣缺陰影。
 
   - 10.0版本
 
-2011年4月，微软在拉斯維加斯召開的MIX11大会上，發表開發僅三周的Internet Explorer 10 Platform
-Preview預覽版本。
+2011年4月，微软在拉斯維加斯召開的MIX11大会上，發表開發僅三周的Internet Explorer 10 Platform Preview預覽版本。
 
 2012年，Internet Explorer 10正式發布。
 
-Internet Explorer 10預裝於Windows 8及Windows Server 2012。Internet Explorer
-10不支援[Windows Vista](../Page/Windows_Vista.md "wikilink")，換言之，只有Windows
-7才能將IE 9升級為[Internet Explorer
-10](../Page/Internet_Explorer_10.md "wikilink")。
+Internet Explorer 10預裝於Windows 8及Windows Server 2012。Internet Explorer 10不支援[Windows Vista](../Page/Windows_Vista.md "wikilink")，換言之，只有Windows 7才能將IE 9升級為[Internet Explorer 10](../Page/Internet_Explorer_10.md "wikilink")。
 
   - 11.0版本
 
-2013年6月26日，在Build Windows 2013大會上，Microsoft發布全新[Windows
-8.1預覽版](../Page/Windows_8.1.md "wikilink")，Windows 8.1內建Internet
-Explorer 11預覽版\[23\]。2013年10月17日，Internet Explorer 11正式發布。
+2013年6月26日，在Build Windows 2013大會上，Microsoft發布全新[Windows 8.1預覽版](../Page/Windows_8.1.md "wikilink")，Windows 8.1內建Internet Explorer 11預覽版\[23\]。2013年10月17日，Internet Explorer 11正式發布。
 
 ## 發行歷史
 
@@ -220,7 +131,7 @@ Explorer 11預覽版\[23\]。2013年10月17日，Internet Explorer 11正式發�
 <tr class="even">
 <td><p>2.0</p></td>
 <td><p>1995年11月</p></td>
-<td><p>新增<a href="https://zh.wikipedia.org/wiki/传输层安全" title="wikilink">SSL</a>、<a href="../Page/Cookie.md" title="wikilink">Cookies</a>、<a href="../Page/VRML.md" title="wikilink">VRML及網際網路</a><a href="https://zh.wikipedia.org/wiki/新聞群組" title="wikilink">新聞群組</a></p></td>
+<td><p>新增<a href="https://zh.wikipedia.org/wiki/传输层安全" title="wikilink">SSL</a>、<a href="../Page/Cookie.md" title="wikilink">Cookie</a>s、<a href="../Page/VRML.md" title="wikilink">VRML</a>及網際網路<a href="https://zh.wikipedia.org/wiki/新聞群組" title="wikilink">新聞群組</a></p></td>
 <td><p><a href="../Page/Windows_NT_4.0.md" title="wikilink">Windows NT 4.0</a><br />
 <a href="../Page/Windows_95.md" title="wikilink">Windows 95 OSR1</a><br />
 Internet Starter Kit</p></td>
@@ -237,13 +148,13 @@ Internet Starter Kit</p></td>
 <td><p><a href="../Page/Internet_Explorer_3.md" title="wikilink">3</a></p></td>
 <td><p>3.0 Alpha 1</p></td>
 <td><p>1996年3月</p></td>
-<td><p>改進對HTML表格、<a href="https://zh.wikipedia.org/wiki/軟體框架" title="wikilink">框架</a>、<a href="../Page/MIDI.md" title="wikilink">MIDI音乐</a>、GIF动画和其他元件的支援</p></td>
+<td><p>改進對HTML表格、<a href="https://zh.wikipedia.org/wiki/軟體框架" title="wikilink">框架</a>、<a href="../Page/MIDI.md" title="wikilink">MIDI</a>音乐、GIF动画和其他元件的支援</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>3.0 Alpha 2</p></td>
 <td><p>1996年5月</p></td>
-<td><p>支援<a href="../Page/VBScript.md" title="wikilink">VBScript和</a><a href="../Page/JScript.md" title="wikilink">JScript</a></p></td>
+<td><p>支援<a href="../Page/VBScript.md" title="wikilink">VBScript</a>和<a href="../Page/JScript.md" title="wikilink">JScript</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -292,14 +203,14 @@ Internet Starter Kit</p></td>
 <tr class="even">
 <td><p>4.0 Beta 2</p></td>
 <td><p>1997年7月</p></td>
-<td><p>改進對<a href="../Page/HTML.md" title="wikilink">HTML和</a><a href="../Page/层叠样式表.md" title="wikilink">CSS的支援</a></p></td>
+<td><p>改進對<a href="../Page/HTML.md" title="wikilink">HTML</a>和<a href="../Page/层叠样式表.md" title="wikilink">CSS的支援</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>4.0</p></td>
 <td><p>1997年9月</p></td>
-<td><p>改進對<a href="../Page/HTML.md" title="wikilink">HTML和</a><a href="../Page/层叠样式表.md" title="wikilink">CSS的支援</a></p></td>
+<td><p>改進對<a href="../Page/HTML.md" title="wikilink">HTML</a>和<a href="../Page/层叠样式表.md" title="wikilink">CSS的支援</a></p></td>
 <td><p><a href="../Page/Windows_95.md" title="wikilink">Windows 95 OSR 2.5</a></p></td>
 <td></td>
 </tr>
@@ -383,7 +294,7 @@ Internet Starter Kit</p></td>
 <tr class="odd">
 <td><p>6.0 SV1 "SP2"</p></td>
 <td><p>2004年8月25日</p></td>
-<td><p>漏洞修正、新增對<a href="https://zh.wikipedia.org/wiki/彈出式廣告" title="wikilink">彈出視窗及</a><a href="../Page/ActiveX.md" title="wikilink">ActiveX的封鎖和附加元件的管理</a>，此版本只在Windows XP SP2中捆绑，未单独发行</p></td>
+<td><p>漏洞修正、新增對<a href="https://zh.wikipedia.org/wiki/彈出式廣告" title="wikilink">彈出視窗及</a><a href="../Page/ActiveX.md" title="wikilink">ActiveX</a>的封鎖和附加元件的管理，此版本只在Windows XP SP2中捆绑，未单独发行</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Windows_XP#Service_Pack_2" title="wikilink">Windows XP SP2</a><br />
 <a href="https://zh.wikipedia.org/wiki/Windows_Server_2003#SP1" title="wikilink">Windows Server 2003 SP1</a></p></td>
 <td></td>
@@ -405,7 +316,7 @@ Internet Starter Kit</p></td>
 <tr class="even">
 <td><p>7.0 Beta 2 Preview</p></td>
 <td><p>2006年1月31日</p></td>
-<td><p>更多CSS的修正、<a href="../Page/RSS.md" title="wikilink">RSS平台整合</a>、新用戶界面以及新增快速索引標籤</p></td>
+<td><p>更多CSS的修正、<a href="../Page/RSS.md" title="wikilink">RSS</a>平台整合、新用戶界面以及新增快速索引標籤</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -441,7 +352,7 @@ Internet Starter Kit</p></td>
 <td><p><a href="../Page/Internet_Explorer_8.md" title="wikilink">8</a></p></td>
 <td><p>8.0 Beta 1</p></td>
 <td><p>2008年3月5日</p></td>
-<td><p>支援CSS 2.1並假通過<a href="../Page/Acid2.md" title="wikilink">Acid2測試</a>，新增Activities功能表、WebSlices及Safety Filter，加強附加元件的管理</p></td>
+<td><p>支援CSS 2.1並假通過<a href="../Page/Acid2.md" title="wikilink">Acid2</a>測試，新增Activities功能表、WebSlices及Safety Filter，加強附加元件的管理</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -583,59 +494,39 @@ Internet Starter Kit</p></td>
 
 ## 軟體特性
 
-Internet Explorer提供了最宽广的网页浏览和建立在操作系统裡的一些特性，例如：為[Microsoft
-Update而设计](../Page/Windows_Update.md "wikilink")。在最著盛名的[浏览器大战中](../Page/浏览器大战.md "wikilink")，微软用提供了最具改革新的特性取代了[Netscape](https://zh.wikipedia.org/wiki/Netscape "wikilink")\[28\]。
+Internet Explorer提供了最宽广的网页浏览和建立在操作系统裡的一些特性，例如：為[Microsoft Update而设计](../Page/Windows_Update.md "wikilink")。在最著盛名的[浏览器大战](../Page/浏览器大战.md "wikilink")中，微软用提供了最具改革新的特性取代了[Netscape](https://zh.wikipedia.org/wiki/Netscape "wikilink")\[28\]。
 
 ### 可用性和瀏覽親和性
 
-Internet Explorer
-7增加了[彈出式視窗的封鎖和](https://zh.wikipedia.org/wiki/彈出式廣告 "wikilink")[分頁瀏覽](https://zh.wikipedia.org/wiki/分頁瀏覽器 "wikilink")、[RSS等的主流功能](../Page/RSS.md "wikilink")，較舊的版本可透過安裝[MSN搜尋工具列](https://web.archive.org/web/20090607095448/http://www.microsoft.com/taiwan/wds/enterprise/toolbar/faq.aspx)來達到分頁瀏覽的效果。
+Internet Explorer 7增加了[彈出式視窗的封鎖和](https://zh.wikipedia.org/wiki/彈出式廣告 "wikilink")[分頁瀏覽](https://zh.wikipedia.org/wiki/分頁瀏覽器 "wikilink")、[RSS](../Page/RSS.md "wikilink")等的主流功能，較舊的版本可透過安裝[MSN搜尋工具列](https://web.archive.org/web/20090607095448/http://www.microsoft.com/taiwan/wds/enterprise/toolbar/faq.aspx)來達到分頁瀏覽的效果。
 
 ### 組件對象模型
 
-[组件对象模型](../Page/组件对象模型.md "wikilink")（COM）技术在Internet
-Explorer里被广为使用。它允许第三方厂商通过[浏览器帮助对象](https://zh.wikipedia.org/wiki/浏览器帮助对象 "wikilink")（BHO）添加功能；并且允许网站通过ActiveX提供丰富的内容。由于这些对象能拥有与浏览器本身一样的权限（在某种情形之下），对于安全就有很大的担心。最新版的Internet
-Explorer提供一个[加载项管理器以控制ActiveX控件和浏览器帮助对象](https://zh.wikipedia.org/wiki/加载项 "wikilink")，以及一个“无加载项”版本（在所有程序／附件／系统工具之下）。
+[组件对象模型](../Page/组件对象模型.md "wikilink")（COM）技术在Internet Explorer里被广为使用。它允许第三方厂商通过[浏览器帮助对象](https://zh.wikipedia.org/wiki/浏览器帮助对象 "wikilink")（BHO）添加功能；并且允许网站通过ActiveX提供丰富的内容。由于这些对象能拥有与浏览器本身一样的权限（在某种情形之下），对于安全就有很大的担心。最新版的Internet Explorer提供一个[加载项管理器以控制ActiveX控件和浏览器帮助对象](https://zh.wikipedia.org/wiki/加载项 "wikilink")，以及一个“无加载项”版本（在所有程序／附件／系统工具之下）。
 
 ### 安全架構
 
-Internet
-Explorer使用一个基于区域的[安全架构](../Page/计算机安全.md "wikilink")，意思是说网站按特写的条件组织在一起。它允许对大量的功能进行限制，也允许只对指定功能进行限制。
+Internet Explorer使用一个基于区域的[安全架构](../Page/计算机安全.md "wikilink")，意思是说网站按特写的条件组织在一起。它允许对大量的功能进行限制，也允许只对指定功能进行限制。
 
 對於瀏覽器所出現之漏洞，微軟透過[自動更新不定期發布修補漏洞的更新提供給使用者安裝](https://zh.wikipedia.org/wiki/自動更新 "wikilink")。
 
-自版本8，Internet
-Explorer提供一个下载监视器和安装监视器，允许用户分两步选择是否下载和安装可执行程序。这可以防止[恶意软件被安装](../Page/恶意软件.md "wikilink")。用Internet
-Explorer下载的可执行文件被操作系统标为潜在的不安全因素，每次都会要求用户确认他们是否想执行该程序，直到用户确认该文件为「安全为止」。\[29\]
+自版本8，Internet Explorer提供一个下载监视器和安装监视器，允许用户分两步选择是否下载和安装可执行程序。这可以防止[恶意软件](../Page/恶意软件.md "wikilink")被安装。用Internet Explorer下载的可执行文件被操作系统标为潜在的不安全因素，每次都会要求用户确认他们是否想执行该程序，直到用户确认该文件为「安全为止」。\[29\]
 
 ### 群組原則
 
-Internet
-Explorer可通过[群組原則进行完全配置](https://zh.wikipedia.org/wiki/群組原則 "wikilink")。[Windows服务器域管理员可以应用并强制一系列设定以改变用户界面](https://zh.wikipedia.org/wiki/Windows服务器域 "wikilink")（例如禁止某些菜单项和独立的配置选项），以及限制安全功能（例如下载文件），零配置，按站点设置，ActiveX控件行为等。策略设置可以按每用户和每机器为基础进行设置。\[30\]
+Internet Explorer可通过[群組原則进行完全配置](https://zh.wikipedia.org/wiki/群組原則 "wikilink")。[Windows服务器域管理员可以应用并强制一系列设定以改变用户界面](https://zh.wikipedia.org/wiki/Windows服务器域 "wikilink")（例如禁止某些菜单项和独立的配置选项），以及限制安全功能（例如下载文件），零配置，按站点设置，ActiveX控件行为等。策略设置可以按每用户和每机器为基础进行设置。\[30\]
 
 ### 網頁標準的支援
 
-Internet
-Explorer使用[Trident排版引擎](../Page/Trident_\(排版引擎\).md "wikilink")，幾乎完整支援[HTML](../Page/HTML.md "wikilink")
-4.01，[CSS](../Page/层叠样式表.md "wikilink") Level
-1，[XML](../Page/XML.md "wikilink")
-1.0和[DOM](https://zh.wikipedia.org/wiki/DOM "wikilink") Level
-1，只是有一些排版錯誤。它亦部分支援CSS Level 2和DOM Level
-2。它自带的XML解释器支持[XHTML](../Page/XHTML.md "wikilink")，但是微软从IE
-5.0以后取消这一支持，使它变得难以访问。如其它浏览器一样，当[MIME类型标识为](https://zh.wikipedia.org/wiki/MIME "wikilink")`text/html`，它能解释为XHTML。当MIME类型标识为`application/xml`和`text/xml`时，它也能解释把XHTML解释为XML，但需要一个小的XSLT度量\[31\]来重新启用XML对XHTML的支持。当把它定义为偏好类型如`application/xhtml+xml`时，它假装不理解XHTML，相反把它当成一种不了解的供下载的文件类型来对待。
+Internet Explorer使用[Trident排版引擎](../Page/Trident_\(排版引擎\).md "wikilink")，幾乎完整支援[HTML](../Page/HTML.md "wikilink") 4.01，[CSS](../Page/层叠样式表.md "wikilink") Level 1，[XML](../Page/XML.md "wikilink") 1.0和[DOM](https://zh.wikipedia.org/wiki/DOM "wikilink") Level 1，只是有一些排版錯誤。它亦部分支援CSS Level 2和DOM Level 2。它自带的XML解释器支持[XHTML](../Page/XHTML.md "wikilink")，但是微软从IE 5.0以后取消这一支持，使它变得难以访问。如其它浏览器一样，当[MIME类型标识为](https://zh.wikipedia.org/wiki/MIME "wikilink")`text/html`，它能解释为XHTML。当MIME类型标识为`application/xml`和`text/xml`时，它也能解释把XHTML解释为XML，但需要一个小的XSLT度量\[31\]来重新启用XML对XHTML的支持。当把它定义为偏好类型如`application/xhtml+xml`时，它假装不理解XHTML，相反把它当成一种不了解的供下载的文件类型来对待。
 
-Internet Explorer依靠DOCTYPE判断一个网页应该按老版本渲染还是按W3C标准渲染（在打印中，Internet
-Explorer总使用W3C标准。）。根据[MSXML的版本不同](../Page/MSXML.md "wikilink")，它可以完全支持[XSLT](../Page/XSLT.md "wikilink")
-1.0或1998年12月的[XSL草案](../Page/可扩展样式语言.md "wikilink")。Internet
-Explorer有一个自己的[ECMAScript变体](../Page/ECMAScript.md "wikilink")，名为[JScript](../Page/JScript.md "wikilink")。
+Internet Explorer依靠DOCTYPE判断一个网页应该按老版本渲染还是按W3C标准渲染（在打印中，Internet Explorer总使用W3C标准。）。根据[MSXML](../Page/MSXML.md "wikilink")的版本不同，它可以完全支持[XSLT](../Page/XSLT.md "wikilink") 1.0或1998年12月的[XSL草案](../Page/可扩展样式语言.md "wikilink")。Internet Explorer有一个自己的[ECMAScript](../Page/ECMAScript.md "wikilink")变体，名为[JScript](../Page/JScript.md "wikilink")。
 
-最新版的Internet Explorer 11，支援部分的HTML5新標準以及CSS3，於[The HTML5
-test](http://www.html5test.com/)當中，獲得376/500分，不過相較於其他流行的瀏覽器而言，支援度仍屬於偏低。
+最新版的Internet Explorer 11，支援部分的HTML5新標準以及CSS3，於[The HTML5 test](http://www.html5test.com/)當中，獲得376/500分，不過相較於其他流行的瀏覽器而言，支援度仍屬於偏低。
 
 ### 專利的延展元件
 
-Internet Explorer引進一系列專利的網頁標準延伸，包括HTML，CSS和DOM。這令到一些網站只可被Internet
-Explorer正常顯示。
+Internet Explorer引進一系列專利的網頁標準延伸，包括HTML，CSS和DOM。這令到一些網站只可被Internet Explorer正常顯示。
 
 ## 支援系統
 
@@ -977,11 +868,9 @@ Explorer正常顯示。
 
   -
 
-    <sup>\*\*</sup>該版本的Internet Explorer與Windows
-    95附帶發佈。2.0附帶於OSR1，3.0附帶於OSR2，4.0附帶於OSR2.5。
+    <sup>\*\*</sup>該版本的Internet Explorer與Windows 95附帶發佈。2.0附帶於OSR1，3.0附帶於OSR2，4.0附帶於OSR2.5。
 
-    <sup>\*\*\*</sup>随附于RTM的2000中的浏览器为IE5.00，但在安装Service
-    Pack后则升级为5.01SP\*，SP则为安装的Service Pack版本
+    <sup>\*\*\*</sup>随附于RTM的2000中的浏览器为IE5.00，但在安装Service Pack后则升级为5.01SP\*，SP则为安装的Service Pack版本
 
 ### Mac OS
 
@@ -1073,20 +962,11 @@ Explorer正常顯示。
 
   -
 
-    <sup>£</sup> Internet Explorer 2.0及2.0.1需要版本7.0.1以上之系統。Internet
-    Explorer 2.1需要版本7.1以上之系統。
+    <sup>£</sup> Internet Explorer 2.0及2.0.1需要版本7.0.1以上之系統。Internet Explorer 2.1需要版本7.1以上之系統。
 
-    <sup>€</sup> Internet Explorer 3.01需要Mac OS 8.0及Mac OS
-    8.1之系統；Internet Explorer 4.01需要Mac OS 8.5及8.5.1; Internet
-    Explorer 4.5需要Mac OS 8.6至9.0.4之系統；Internet Explorer 5需要Mac OS
-    9.1至9.2.2以及Mac OS X v10.0之系統；Internet Explorer 5.1需要Mac OS X
-    v10.1之系統；Internet Explorer 5.2需要Mac OS X v10.2之系統。
+    <sup>€</sup> Internet Explorer 3.01需要Mac OS 8.0及Mac OS 8.1之系統；Internet Explorer 4.01需要Mac OS 8.5及8.5.1; Internet Explorer 4.5需要Mac OS 8.6至9.0.4之系統；Internet Explorer 5需要Mac OS 9.1至9.2.2以及Mac OS X v10.0之系統；Internet Explorer 5.1需要Mac OS X v10.1之系統；Internet Explorer 5.2需要Mac OS X v10.2之系統。
 
-    <sup>¥</sup> Internet Explorer 5 Macintosh Edition需要Mac OS
-    7.6以上之系統。Internet Explorer版本5.1; 5.1.4; 5.1.5;
-    5.1.6及5.1.7需要包含[Appearance
-    Manager之Mac](https://zh.wikipedia.org/wiki/Appearance_Manager "wikilink")
-    OS 8.0以上或Mac OS 7.6.1之系統。
+    <sup>¥</sup> Internet Explorer 5 Macintosh Edition需要Mac OS 7.6以上之系統。Internet Explorer版本5.1; 5.1.4; 5.1.5; 5.1.6及5.1.7需要包含[Appearance Manager之Mac](https://zh.wikipedia.org/wiki/Appearance_Manager "wikilink") OS 8.0以上或Mac OS 7.6.1之系統。
 
 ### 其他
 
@@ -1152,9 +1032,7 @@ Solaris</p></th>
 
 ## 正面評價
 
-  - Internet Exploer
-    9新的JavaScript引擎和硬件加速意味著速度大大提高。簡約的界面為網頁留下更多的空間。保護使用者，阻止下載惡意軟件。改進的選項卡功能。許多安全功能，如跟踪保護，改進標準支持。在Windows
-    7的工具列中釘選網站等創新功能。\[40\]
+  - Internet Exploer 9新的JavaScript引擎和硬件加速意味著速度大大提高。簡約的界面為網頁留下更多的空間。保護使用者，阻止下載惡意軟件。改進的選項卡功能。許多安全功能，如跟踪保護，改進標準支持。在Windows 7的工具列中釘選網站等創新功能。\[40\]
   - 微軟的新瀏覽器，更快，更符合HTML5，更符合現代互聯網。一個重大改進超過其前身。它也帶來一些獨特的功能，如釘選網站和硬件加速。\[41\]
   - "驚人的快"- New York Times \[42\]
   - "簡單地驚人" - Conceivably Tech \[43\]
@@ -1167,36 +1045,17 @@ Internet Explorer也是一款招致很多批評的網路瀏覽器，大部分批
 
 ### 安全性
 
-Internet
-Explorer最主要都是被批評其安全性。很多[間諜軟件](../Page/间谍软件.md "wikilink")，[廣告軟件及](https://zh.wikipedia.org/wiki/廣告軟件 "wikilink")[電腦病毒入侵是因為軟件有安全漏洞及安全結構有裂縫](../Page/计算机病毒.md "wikilink")。瀏覽惡意網站（如色情，釣魚網站）時會被惡意安裝。這被名為「[路過式下載](https://zh.wikipedia.org/wiki/路過式下載 "wikilink")」：在ActiveX的安全描述中填寫虛假的描述以遮蓋軟件的實際用途，誤導使用者安裝一些惡意軟件，在IE7已修正解決。雖然所有軟件都會有安全漏洞，但微軟使用比其他瀏覽器稍長的時間去修补漏洞。
+Internet Explorer最主要都是被批評其安全性。很多[間諜軟件](../Page/间谍软件.md "wikilink")，[廣告軟件及](https://zh.wikipedia.org/wiki/廣告軟件 "wikilink")[電腦病毒入侵是因為軟件有安全漏洞及安全結構有裂縫](../Page/计算机病毒.md "wikilink")。瀏覽惡意網站（如色情，釣魚網站）時會被惡意安裝。這被名為「[路過式下載](https://zh.wikipedia.org/wiki/路過式下載 "wikilink")」：在ActiveX的安全描述中填寫虛假的描述以遮蓋軟件的實際用途，誤導使用者安裝一些惡意軟件，在IE7已修正解決。雖然所有軟件都會有安全漏洞，但微軟使用比其他瀏覽器稍長的時間去修补漏洞。
 
-但2011年12月的一份Google研究的報告中指出，Internet Explorer 9安全性已和[Google
-Chrome持平](../Page/Google_Chrome.md "wikilink")，反觀[Mozilla
-Firefox大幅落後](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")。\[46\]
+但2011年12月的一份Google研究的報告中指出，Internet Explorer 9安全性已和[Google Chrome持平](../Page/Google_Chrome.md "wikilink")，反觀[Mozilla Firefox大幅落後](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")。\[46\]
 
 ### 網頁標準的支援
 
-其他批評來自技術專家用戶、網站開發者和建基於Internet Explorer而開發的軟體應用程式的開發者，他們十分擔心Internet
-Explorer對開放標準的支援，因為Internet Explorer通常使用專利的網頁標準延伸元件來達至相似的功能。
+其他批評來自技術專家用戶、網站開發者和建基於Internet Explorer而開發的軟體應用程式的開發者，他們十分擔心Internet Explorer對開放標準的支援，因為Internet Explorer通常使用專利的網頁標準延伸元件來達至相似的功能。
 
-Internet
-Explorer對一些標準化技術都有一定程度上的支援，但亦有很多執行上的差距和相容性的故障，這導致技術開發者的批評日益增加。批評增加的情況，在很大程度上是歸因於Internet
-Explorer的競爭對手相對地已提供完全的技術支援，標準規格（Standards-compliant）的應用亦越來越廣泛起來。因為Internet
-Explorer在全球使用率上佔有頗高的百分比，網路開發者們在尋求[跨平臺的代碼時常常會發現Internet](../Page/跨平臺.md "wikilink")
-Explorer的漏洞、私有的功能集合和對標準支援的不完善。通常來說，網路開發者們在編寫代碼時應該具有[跨平臺性](../Page/跨平臺.md "wikilink")，因此能在所有主要瀏覽器上運行的代碼總是必不可少的。Internet
-Explorer只支援少數的[CSS](https://zh.wikipedia.org/wiki/層疊樣式表 "wikilink")、[HTML和](../Page/HTML.md "wikilink")[DOM特性](https://zh.wikipedia.org/wiki/DOM "wikilink")，而且更不跟隨[W3C的標準](../Page/万维网联盟.md "wikilink")\[47\]。另一個Internet
-Explorer缺點源自PNG格式（參見[Internet
-Explorer對PNG的支援問題](../Page/PNG.md "wikilink")），這一問題僅在Internet
-Explorer 7中得到解決。但Internet Explorer 7在訪問含有透明PNG的網頁時性能降低。Internet Explorer
-8是Internet
-Explorer瀏覽器第一個完全通過[Acid2測試和](../Page/Acid2.md "wikilink")[CSS2.1測試的瀏覽器](https://zh.wikipedia.org/wiki/层叠样式表#CSS2 "wikilink")。Internet
-Explorer浏览器从这个版本开始注重对[W3C標準的支持](https://zh.wikipedia.org/wiki/全球資訊網聯盟 "wikilink")。
+Internet Explorer對一些標準化技術都有一定程度上的支援，但亦有很多執行上的差距和相容性的故障，這導致技術開發者的批評日益增加。批評增加的情況，在很大程度上是歸因於Internet Explorer的競爭對手相對地已提供完全的技術支援，標準規格（Standards-compliant）的應用亦越來越廣泛起來。因為Internet Explorer在全球使用率上佔有頗高的百分比，網路開發者們在尋求[跨平臺](../Page/跨平臺.md "wikilink")的代碼時常常會發現Internet Explorer的漏洞、私有的功能集合和對標準支援的不完善。通常來說，網路開發者們在編寫代碼時應該具有[跨平臺](../Page/跨平臺.md "wikilink")性，因此能在所有主要瀏覽器上運行的代碼總是必不可少的。Internet Explorer只支援少數的[CSS](https://zh.wikipedia.org/wiki/層疊樣式表 "wikilink")、[HTML](../Page/HTML.md "wikilink")和[DOM特性](https://zh.wikipedia.org/wiki/DOM "wikilink")，而且更不跟隨[W3C的標準](../Page/万维网联盟.md "wikilink")\[47\]。另一個Internet Explorer缺點源自PNG格式（參見[Internet Explorer對PNG的支援問題](../Page/PNG.md "wikilink")），這一問題僅在Internet Explorer 7中得到解決。但Internet Explorer 7在訪問含有透明PNG的網頁時性能降低。Internet Explorer 8是Internet Explorer瀏覽器第一個完全通過[Acid2](../Page/Acid2.md "wikilink")測試和[CSS2.1測試的瀏覽器](https://zh.wikipedia.org/wiki/层叠样式表#CSS2 "wikilink")。Internet Explorer浏览器从这个版本开始注重对[W3C標準的支持](https://zh.wikipedia.org/wiki/全球資訊網聯盟 "wikilink")。
 
-2011年3月14日發布的Internet Explorer
-9瀏覽器大幅提高對CSS3和HTML5等W3C規範的支援程度，這個版本也是Internet
-Explorer瀏覽器第一个采用[GPU加速的版本](../Page/圖形處理器.md "wikilink")，正式版於[Acid3測試中獲得](../Page/Acid3.md "wikilink")100/100分（但其所顯示的圖像仍與正式結果有所差異，例如上方的“Acid
-3”字樣缺少陰影，到Windows Internet Explorer 10正式-{}-通過）。支援網頁標準已追上其他競爭對手。
-最新版的Internet Explorer 11对于HTML5的支持度，相较其他流行的浏览器而言仍然偏低\[48\]。
+2011年3月14日發布的Internet Explorer 9瀏覽器大幅提高對CSS3和HTML5等W3C規範的支援程度，這個版本也是Internet Explorer瀏覽器第一个采用[GPU加速的版本](../Page/圖形處理器.md "wikilink")，正式版於[Acid3](../Page/Acid3.md "wikilink")測試中獲得100/100分（但其所顯示的圖像仍與正式結果有所差異，例如上方的“Acid 3”字樣缺少陰影，到Windows Internet Explorer 10正式-{}-通過）。支援網頁標準已追上其他競爭對手。 最新版的Internet Explorer 11对于HTML5的支持度，相较其他流行的浏览器而言仍然偏低\[48\]。
 
 ## 獎項
 
@@ -1204,18 +1063,11 @@ Explorer瀏覽器第一个采用[GPU加速的版本](../Page/圖形處理器.md 
 
 ## 虚拟人物形象
 
-微软于2013年11月6日在AFA亞洲動漫展上推出Internet
-Explorer的虚拟人物形象[藍澤祈](https://zh.wikipedia.org/wiki/藍澤祈 "wikilink")。\[50\]
+微软于2013年11月6日在AFA亞洲動漫展上推出Internet Explorer的虚拟人物形象[藍澤祈](https://zh.wikipedia.org/wiki/藍澤祈 "wikilink")。\[50\]
 
 ## Microsoft Edge
 
-2015年4月29日，微软在 Build 2015 開發者大會中，代號為「Project
-Spartan」的瀏覽器被正式命名為[Microsoft
-Edge](../Page/Microsoft_Edge.md "wikilink")。Internet
-Explorer不会使用来自[EdgeHTML引擎](../Page/EdgeHTML.md "wikilink")。并Internet
-Explorer雖然会在[Windows
-10中繼續存在](../Page/Windows_10.md "wikilink")，但不會開發新版本。自此Internet
-Explorer走入歷史。
+2015年4月29日，微软在 Build 2015 開發者大會中，代號為「Project Spartan」的瀏覽器被正式命名為[Microsoft Edge](../Page/Microsoft_Edge.md "wikilink")。Internet Explorer不会使用来自[EdgeHTML](../Page/EdgeHTML.md "wikilink")引擎。并Internet Explorer雖然会在[Windows 10中繼續存在](../Page/Windows_10.md "wikilink")，但不會開發新版本。自此Internet Explorer走入歷史。
 
 ## 扩展
 
@@ -1241,15 +1093,9 @@ Explorer走入歷史。
 
 {{-}}
 
-[Category:网页浏览器](https://zh.wikipedia.org/wiki/Category:网页浏览器 "wikilink")
-[Category:Internet_Explorer](https://zh.wikipedia.org/wiki/Category:Internet_Explorer "wikilink")
-[Category:1995年軟體](https://zh.wikipedia.org/wiki/Category:1995年軟體 "wikilink")
-[Category:網際網路的歷史](https://zh.wikipedia.org/wiki/Category:網際網路的歷史 "wikilink")
-[Category:專有軟體](https://zh.wikipedia.org/wiki/Category:專有軟體 "wikilink")
-[Category:Windows组件](https://zh.wikipedia.org/wiki/Category:Windows组件 "wikilink")
+[Category:网页浏览器](https://zh.wikipedia.org/wiki/Category:网页浏览器 "wikilink") [Category:Internet_Explorer](https://zh.wikipedia.org/wiki/Category:Internet_Explorer "wikilink") [Category:1995年軟體](https://zh.wikipedia.org/wiki/Category:1995年軟體 "wikilink") [Category:網際網路的歷史](https://zh.wikipedia.org/wiki/Category:網際網路的歷史 "wikilink") [Category:專有軟體](https://zh.wikipedia.org/wiki/Category:專有軟體 "wikilink") [Category:Windows组件](https://zh.wikipedia.org/wiki/Category:Windows组件 "wikilink")
 
 1.  [Deadlink](http://almanac.epsilonnetworking.com/post/ZTIEe887aae58fa4e4bba5e69da5e5b0b1e698afwindowse4b88de58fafe58886e589b2e79a84e4b880e983a8e58886e38082.aspx)
-
 
 2.
 
@@ -1261,8 +1107,7 @@ Explorer走入歷史。
 
 6.
 
-7.  "In E.U. Deal, Microsoft Allows Rival Browsers". Time. 2009-12-17.
-    Retrieved 2010-05-05.
+7.  "In E.U. Deal, Microsoft Allows Rival Browsers". Time. 2009-12-17. Retrieved 2010-05-05.
 
 8.
 
@@ -1307,10 +1152,7 @@ Explorer走入歷史。
 
 30. Internet Explorer 9 Network Performance Improvements
 
-31. 见[小XSLT度量](http://annevankesteren.nl/2004/07/ie-xhtml)Anne’s
-    Weblog\] for a sample of the minimal
-    [transformation](http://annevankesteren.nl/test/examples/xhtml/ie/xhtml.xml)
-    required.
+31. 见[小XSLT度量](http://annevankesteren.nl/2004/07/ie-xhtml)Anne’s Weblog\] for a sample of the minimal [transformation](http://annevankesteren.nl/test/examples/xhtml/ie/xhtml.xml) required.
 
 32.
 
@@ -1334,8 +1176,7 @@ Explorer走入歷史。
 
 44.
 
-45. [1,169 results for "Internet
-    Explorer"](http://download.cnet.com/Internet-Explorer/3000-2356_4-10497433.html)
+45. [1,169 results for "Internet Explorer"](http://download.cnet.com/Internet-Explorer/3000-2356_4-10497433.html)
 
 46.
 

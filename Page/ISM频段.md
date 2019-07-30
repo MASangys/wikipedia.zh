@@ -1,12 +1,6 @@
-**ISM频段**（**I**ndustrial **S**cientific **M**edical
-Band），中文意思分別是**工业的**(Industrial)、**科学的**(Scientific)和**医学的**(Medical)，因此顧名思義ISM频段就是各國挪出某一段頻段主要開放給[工业](https://zh.wikipedia.org/wiki/工业 "wikilink")，[科学和](../Page/科学.md "wikilink")[医学機構使用](../Page/医学.md "wikilink")。应用这些频段无需许可证或費用，只需要遵守一定的发射功率（一般低于1W），并且不要对其它频段造成[干扰即可](https://zh.wikipedia.org/wiki/干扰 "wikilink")。ISM频段在各国的规定并不统一。如在[美国有三个频段](../Page/美国.md "wikilink")902-928
-MHz、2400-2484.5 MHz及5725-5850
-MHz，而在[欧洲](../Page/欧洲.md "wikilink")900MHz的频段则有部份用于[GSM通信](../Page/GSM.md "wikilink")。而2.4G[Hz为各国共同的ISM频段](https://zh.wikipedia.org/wiki/赫 "wikilink")。因此[无线局域网](../Page/无线局域网.md "wikilink")（IEEE
-802.11b/IEEE
-802.11g）、[蓝牙](https://zh.wikipedia.org/wiki/蓝牙 "wikilink")、[ZigBee等无线网络](../Page/ZigBee.md "wikilink")，均可工作在2.4GHz频段上。
+**ISM频段**（**I**ndustrial **S**cientific **M**edical Band），中文意思分別是**工业的**(Industrial)、**科学的**(Scientific)和**医学的**(Medical)，因此顧名思義ISM频段就是各國挪出某一段頻段主要開放給[工业](https://zh.wikipedia.org/wiki/工业 "wikilink")，[科学](../Page/科学.md "wikilink")和[医学](../Page/医学.md "wikilink")機構使用。应用这些频段无需许可证或費用，只需要遵守一定的发射功率（一般低于1W），并且不要对其它频段造成[干扰即可](https://zh.wikipedia.org/wiki/干扰 "wikilink")。ISM频段在各国的规定并不统一。如在[美国](../Page/美国.md "wikilink")有三个频段902-928 MHz、2400-2484.5 MHz及5725-5850 MHz，而在[欧洲](../Page/欧洲.md "wikilink")900MHz的频段则有部份用于[GSM](../Page/GSM.md "wikilink")通信。而2.4G[Hz为各国共同的ISM频段](https://zh.wikipedia.org/wiki/赫 "wikilink")。因此[无线局域网](../Page/无线局域网.md "wikilink")（IEEE 802.11b/IEEE 802.11g）、[蓝牙](https://zh.wikipedia.org/wiki/蓝牙 "wikilink")、[ZigBee](../Page/ZigBee.md "wikilink")等无线网络，均可工作在2.4GHz频段上。
 
-在國際電聯無線電規則[ITU-R第](https://zh.wikipedia.org/wiki/ITU-R "wikilink")5條腳註5.138，5.150和5.280
-中指定的ISM频段如下：
+在國際電聯無線電規則[ITU-R第](https://zh.wikipedia.org/wiki/ITU-R "wikilink")5條腳註5.138，5.150和5.280 中指定的ISM频段如下：
 
 | 频率范围                                                            | 中心频率       | 可用性                                                            |
 | --------------------------------------------------------------- | ---------- | -------------------------------------------------------------- |
@@ -25,12 +19,8 @@ MHz，而在[欧洲](../Page/欧洲.md "wikilink")900MHz的频段则有部份用
 
 ## 外部連結
 
-  - [ITU page on definitions of ISM
-    bands](http://www.itu.int/ITU-R/terrestrial/faq/index.html)
-  - [ITU page on Radio
-    Regulations](http://www.itu.int/publications/productslist.aspx?lang=e&CategoryID=R-REG&product=R-REG-RR)
-  - [ITU
-    region](http://en.wikipedia.org/wiki/International_Telecommunication_Union_region)
-
+  - [ITU page on definitions of ISM bands](http://www.itu.int/ITU-R/terrestrial/faq/index.html)
+  - [ITU page on Radio Regulations](http://www.itu.int/publications/productslist.aspx?lang=e&CategoryID=R-REG&product=R-REG-RR)
+  - [ITU region](http://en.wikipedia.org/wiki/International_Telecommunication_Union_region)
 
 [Category:无线电频谱](https://zh.wikipedia.org/wiki/Category:无线电频谱 "wikilink")

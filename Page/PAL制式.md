@@ -1,19 +1,14 @@
 [PAL-NTSC-SECAM.svg](https://zh.wikipedia.org/wiki/File:PAL-NTSC-SECAM.svg "fig:PAL-NTSC-SECAM.svg")
 
-**PAL制式**是[電視廣播中色彩調頻的一種方法](https://zh.wikipedia.org/wiki/電視廣播 "wikilink")，全名為**逐行倒相**（Phase
-Alternating
-Line）。除了[北美](https://zh.wikipedia.org/wiki/北美 "wikilink")、[東亞部分地區使用](https://zh.wikipedia.org/wiki/東亞 "wikilink")[NTSC制式](../Page/NTSC制式.md "wikilink")，[中東](https://zh.wikipedia.org/wiki/中東 "wikilink")、[法國及](https://zh.wikipedia.org/wiki/法國 "wikilink")[東歐採用](https://zh.wikipedia.org/wiki/東歐 "wikilink")[SECAM制式以外](../Page/SECAM制式.md "wikilink")，世界上大部份地區都是採用PAL制式。PAL于1963年由[德國人](https://zh.wikipedia.org/wiki/德國 "wikilink")提出，當時他為[德律風根](../Page/德律風根.md "wikilink")（Telefunken）工作。
+**PAL制式**是[電視廣播中色彩調頻的一種方法](https://zh.wikipedia.org/wiki/電視廣播 "wikilink")，全名為**逐行倒相**（Phase Alternating Line）。除了[北美](https://zh.wikipedia.org/wiki/北美 "wikilink")、[東亞部分地區使用](https://zh.wikipedia.org/wiki/東亞 "wikilink")[NTSC制式](../Page/NTSC制式.md "wikilink")，[中東](https://zh.wikipedia.org/wiki/中東 "wikilink")、[法國及](https://zh.wikipedia.org/wiki/法國 "wikilink")[東歐採用](https://zh.wikipedia.org/wiki/東歐 "wikilink")[SECAM制式](../Page/SECAM制式.md "wikilink")以外，世界上大部份地區都是採用PAL制式。PAL于1963年由[德國人](https://zh.wikipedia.org/wiki/德國 "wikilink")提出，當時他為[德律風根](../Page/德律風根.md "wikilink")（Telefunken）工作。
 
 ## 歷史
 
-1950年代，[西欧正計劃](../Page/西欧.md "wikilink")[彩色電視](../Page/彩色電視.md "wikilink")[廣播](https://zh.wikipedia.org/wiki/廣播 "wikilink")；不過当時NTSC制式本身已有不少缺陷，包括当接收条件差時容易發生[色相轉移](../Page/色相.md "wikilink")（color
-tone shifting）現象，所以有人戲稱NTSC制式為**N**ever **T**he **S**ame
-**C**olor（不會重現一樣的[色彩](https://zh.wikipedia.org/wiki/色彩 "wikilink")）。為了克服NTSC制式本身的缺点，[欧洲有需要自行研發適合欧洲本土的彩色電視制式](../Page/欧洲.md "wikilink")，就是後来的PAL制式及SECAM制式。而兩者圖像[頻率同為](https://zh.wikipedia.org/wiki/頻率 "wikilink")50Hz，不同於NTSC的60Hz，適合欧洲本身的50Hz[交流電源](../Page/交流電.md "wikilink")[頻率](https://zh.wikipedia.org/wiki/頻率 "wikilink")。
+1950年代，[西欧](../Page/西欧.md "wikilink")正計劃[彩色電視](../Page/彩色電視.md "wikilink")[廣播](https://zh.wikipedia.org/wiki/廣播 "wikilink")；不過当時NTSC制式本身已有不少缺陷，包括当接收条件差時容易發生[色相](../Page/色相.md "wikilink")轉移（color tone shifting）現象，所以有人戲稱NTSC制式為**N**ever **T**he **S**ame **C**olor（不會重現一樣的[色彩](https://zh.wikipedia.org/wiki/色彩 "wikilink")）。為了克服NTSC制式本身的缺点，[欧洲](../Page/欧洲.md "wikilink")有需要自行研發適合欧洲本土的彩色電視制式，就是後来的PAL制式及SECAM制式。而兩者圖像[頻率同為](https://zh.wikipedia.org/wiki/頻率 "wikilink")50Hz，不同於NTSC的60Hz，適合欧洲本身的50Hz[交流電](../Page/交流電.md "wikilink")源[頻率](https://zh.wikipedia.org/wiki/頻率 "wikilink")。
 
-PAL制式由沃尔特·布鲁赫設計，1963年面世。[英国廣播公司是最早使用PAL制式的電視台](https://zh.wikipedia.org/wiki/英国廣播公司 "wikilink")，於1964年在[BBC2試播](https://zh.wikipedia.org/wiki/BBC2 "wikilink")，1967年正式開始全彩廣播。[西德在](../Page/西德.md "wikilink")1967年開始PAL制式廣播。[國際電信聯盟在](https://zh.wikipedia.org/wiki/國際電信聯盟 "wikilink")1998年正式在其出版物將PAL制式正式定義為*Recommendation
-ITU-R BT.470-6, Conventional Television Systems*。
+PAL制式由沃尔特·布鲁赫設計，1963年面世。[英国廣播公司是最早使用PAL制式的電視台](https://zh.wikipedia.org/wiki/英国廣播公司 "wikilink")，於1964年在[BBC2試播](https://zh.wikipedia.org/wiki/BBC2 "wikilink")，1967年正式開始全彩廣播。[西德](../Page/西德.md "wikilink")在1967年開始PAL制式廣播。[國際電信聯盟在](https://zh.wikipedia.org/wiki/國際電信聯盟 "wikilink")1998年正式在其出版物將PAL制式正式定義為*Recommendation ITU-R BT.470-6, Conventional Television Systems*。
 
-「PAL」有時亦被用來指625線、每秒25格、隔行掃描、PAL色彩調頻的電視制式（[576i](https://zh.wikipedia.org/wiki/576i "wikilink")），它與525線、每秒29.97格、隔行掃描的NTSC制式（[480i](https://zh.wikipedia.org/wiki/480i "wikilink")）不同。市售的[DVD-Video一般都会標示NTSC或PAL制](../Page/DVD-Video.md "wikilink")。
+「PAL」有時亦被用來指625線、每秒25格、隔行掃描、PAL色彩調頻的電視制式（[576i](https://zh.wikipedia.org/wiki/576i "wikilink")），它與525線、每秒29.97格、隔行掃描的NTSC制式（[480i](https://zh.wikipedia.org/wiki/480i "wikilink")）不同。市售的[DVD-Video](../Page/DVD-Video.md "wikilink")一般都会標示NTSC或PAL制。
 
 ## 原理
 
@@ -23,12 +18,11 @@ NTSC電視機需要色彩控制（tint control）來手動調節顏色，這亦�
 
 ## 不同的PAL
 
-PAL本身是指色彩系統，經常被配以625線、每秒25格畫面、隔行掃瞄的電視廣播格式：如B、G、H、I、N。亦有PAL是配以其他解像度的格式：例如[巴西使用的M廣播格式為](../Page/巴西.md "wikilink")525線、29.97格（與NTSC格式一樣），用NTSC彩色，但巴西是使用PAL彩色調頻的。現在大部分的PAL電視機都能收看以上所有不同系統格式的PAL。很多PAL電視機更能同時收看[基頻的NTSC](https://zh.wikipedia.org/wiki/基頻 "wikilink")-M，例如電視遊戲機、錄影機等等的NTSC訊號，但是它們不一定可以接收NTSC廣播。
+PAL本身是指色彩系統，經常被配以625線、每秒25格畫面、隔行掃瞄的電視廣播格式：如B、G、H、I、N。亦有PAL是配以其他解像度的格式：例如[巴西](../Page/巴西.md "wikilink")使用的M廣播格式為525線、29.97格（與NTSC格式一樣），用NTSC彩色，但巴西是使用PAL彩色調頻的。現在大部分的PAL電視機都能收看以上所有不同系統格式的PAL。很多PAL電視機更能同時收看[基頻的NTSC](https://zh.wikipedia.org/wiki/基頻 "wikilink")-M，例如電視遊戲機、錄影機等等的NTSC訊號，但是它們不一定可以接收NTSC廣播。
 
 當影像訊號是以基頻傳送時（例如電視遊戲機、錄影機等等），便再沒有以上所說各種以"字母"區分廣播格式的分別了。這情況下，PAL的意思是指：625條掃瞄線，每秒25格畫面，隔行掃瞄，PAL色彩調頻。對數碼影像如DVD或數碼廣播，制式亦沒有分別，這情況下PAL是指：625條掃瞄線，每秒25格畫面，隔行掃瞄；即是跟SECAM一模一樣。
 
-[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")、[香港](../Page/香港.md "wikilink")、[澳門使用的是PAL](../Page/澳門.md "wikilink")-I，[中國大陸使用的是PAL](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")-D，[新加坡使用的是PAL](../Page/新加坡.md "wikilink")
-B/G或D/K。
+[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")、[香港](../Page/香港.md "wikilink")、[澳門](../Page/澳門.md "wikilink")使用的是PAL-I，[中國大陸使用的是PAL](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")-D，[新加坡](../Page/新加坡.md "wikilink")使用的是PAL B/G或D/K。
 
 ## PAL放送的電影
 
@@ -36,8 +30,7 @@ B/G或D/K。
 
 ## 使用PAL制式的国家和地区
 
-目前使用或曾经使用PAL系统的国家和地区列表。
-其中许多已经转换或正在将PAL转换为[DVB-T](../Page/DVB-T.md "wikilink")（大多数国家）、[DVB-T2](https://zh.wikipedia.org/wiki/DVB-T2 "wikilink")（大多数国家）、[DTMB](../Page/DTMB.md "wikilink")（中国、香港和澳门）和[ISDB](../Page/ISDB.md "wikilink")（斯里兰卡、马尔代夫、博茨瓦纳和南美洲部分国家）。
+目前使用或曾经使用PAL系统的国家和地区列表。 其中许多已经转换或正在将PAL转换为[DVB-T](../Page/DVB-T.md "wikilink")（大多数国家）、[DVB-T2](https://zh.wikipedia.org/wiki/DVB-T2 "wikilink")（大多数国家）、[DTMB](../Page/DTMB.md "wikilink")（中国、香港和澳门）和[ISDB](../Page/ISDB.md "wikilink")（斯里兰卡、马尔代夫、博茨瓦纳和南美洲部分国家）。
 
 ### PAL B, D, G, H, K 或 I
 
@@ -87,8 +80,7 @@ B/G或D/K。
 
   - （自2007年12月31日起开始施行PAL-I，DMB-T / H，计划在2020年放弃PAL-I广播）
 
-  - \[22\]（将于2018年放弃PAL广播；自2008年至2012年，逐步迁移讲DVB-T至DVB-T2，政府计划在2014年4月免费赠送700万个STB
-    DVB-T2）
+  - \[22\]（将于2018年放弃PAL广播；自2008年至2012年，逐步迁移讲DVB-T至DVB-T2，政府计划在2014年4月免费赠送700万个STB DVB-T2）
 
   - \[23\]（目前DVB-T正在评估中）
 
@@ -542,8 +534,7 @@ B/G或D/K。
   - [回顾PAL，NTSC和电影胶片刷新率的不同](http://www.paradiso-design.net/videostandards_en.html)
   - [世界电视制式标准](http://www.radios-tv.co.uk/Pembers/World-TV-Standards/Colour-Standards.html#Top)
 
-[Category:電視技術](https://zh.wikipedia.org/wiki/Category:電視技術 "wikilink")
-[Category:德国发明](https://zh.wikipedia.org/wiki/Category:德国发明 "wikilink")
+[Category:電視技術](https://zh.wikipedia.org/wiki/Category:電視技術 "wikilink") [Category:德国发明](https://zh.wikipedia.org/wiki/Category:德国发明 "wikilink")
 
 1.
 

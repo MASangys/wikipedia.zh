@@ -2,37 +2,28 @@
 
 ## G-Man其人
 
-从外表上来看，G-Man是一个瘦削的普通人，留着军队中的平头，脸色发白，但擁有一雙炯炯有神的碧色眼睛。他说起话来慢条斯理，有些焦躁，有些时候会在音节上加重语气或者笨拙地改变语调。这些都是语言障碍的一些特征。有些玩家这样认为因为他几乎没人了解的“工作”让他不能说的更多。G-Man常常会把[S音发得很长](../Page/S.md "wikilink")（比如“Limitlessssss
-potential”），他和[X档案中的](../Page/X档案.md "wikilink")“抽烟者”有异曲同工之妙。
+从外表上来看，G-Man是一个瘦削的普通人，留着军队中的平头，脸色发白，但擁有一雙炯炯有神的碧色眼睛。他说起话来慢条斯理，有些焦躁，有些时候会在音节上加重语气或者笨拙地改变语调。这些都是语言障碍的一些特征。有些玩家这样认为因为他几乎没人了解的“工作”让他不能说的更多。G-Man常常会把[S](../Page/S.md "wikilink")音发得很长（比如“Limitlessssss potential”），他和[X档案](../Page/X档案.md "wikilink")中的“抽烟者”有异曲同工之妙。
 
-G-Man古怪的說話方式與他的外貌，暗示在各種報告裏面出現的[黑衣人的行為](../Page/黑衣人.md "wikilink")，在[戰慄時空和](https://zh.wikipedia.org/wiki/戰慄時空 "wikilink")[戰慄時空2](https://zh.wikipedia.org/wiki/戰慄時空2 "wikilink")
-裡，G-Man的外觀和身體狀況似乎並沒有隨時間改變（戰慄時空和戰慄時空2的時間線相差20年）。\[1\]
+G-Man古怪的說話方式與他的外貌，暗示在各種報告裏面出現的[黑衣人](../Page/黑衣人.md "wikilink")的行為，在[戰慄時空和](https://zh.wikipedia.org/wiki/戰慄時空 "wikilink")[戰慄時空2](https://zh.wikipedia.org/wiki/戰慄時空2 "wikilink") 裡，G-Man的外觀和身體狀況似乎並沒有隨時間改變（戰慄時空和戰慄時空2的時間線相差20年）。\[1\]
 
-值得注意的是G-Man并不是他的真实名字。不管是在戰慄時空或者戰慄時空2中，他从未没有或者直接提到他自己就是“G-Man”。大多数人都叫他“G-Man”或者「Government
-Man」（政府機關人員），所以，他的真实名字还是未知。在[半条命2发布之前](https://zh.wikipedia.org/wiki/半条命2 "wikilink")，很多玩家相信他是[黑色高地的背後負責人](../Page/黑色高地.md "wikilink")，但是随着剧情的发展，真正的負責人浮出水面：[布林博士](https://zh.wikipedia.org/wiki/华莱斯·布林 "wikilink")。
+值得注意的是G-Man并不是他的真实名字。不管是在戰慄時空或者戰慄時空2中，他从未没有或者直接提到他自己就是“G-Man”。大多数人都叫他“G-Man”或者「Government Man」（政府機關人員），所以，他的真实名字还是未知。在[半条命2发布之前](https://zh.wikipedia.org/wiki/半条命2 "wikilink")，很多玩家相信他是[黑色高地](../Page/黑色高地.md "wikilink")的背後負責人，但是随着剧情的发展，真正的負責人浮出水面：[布林博士](https://zh.wikipedia.org/wiki/华莱斯·布林 "wikilink")。
 
-G-Man可以在其他人驚慌失措的時候，流露出一種平靜，G-Man還可以冷靜地弄直自己的[領帶或為用手翻西裝領子](https://zh.wikipedia.org/wiki/領帶 "wikilink")。[半条命2的動畫師道](https://zh.wikipedia.org/wiki/半条命2 "wikilink")‧伍德(Douglas
-Wood)說：「我希望玩家永遠都不知道G-Man是屬於哪個陣營。不過我會幫他向弗里曼說聲抱歉，因為他「很後悔」把弗里曼博士拉進[這種情況](https://zh.wikipedia.org/wiki/戰慄時空2 "wikilink")，但他最後會擺出一個傻笑，讓你不斷推測他的真誠。
-」\[2\] 在畫出G-Man的面部表情前，伍德花了數週在一面鏡子前練習表情。\[3\]
+G-Man可以在其他人驚慌失措的時候，流露出一種平靜，G-Man還可以冷靜地弄直自己的[領帶或為用手翻西裝領子](https://zh.wikipedia.org/wiki/領帶 "wikilink")。[半条命2的動畫師道](https://zh.wikipedia.org/wiki/半条命2 "wikilink")‧伍德(Douglas Wood)說：「我希望玩家永遠都不知道G-Man是屬於哪個陣營。不過我會幫他向弗里曼說聲抱歉，因為他「很後悔」把弗里曼博士拉進[這種情況](https://zh.wikipedia.org/wiki/戰慄時空2 "wikilink")，但他最後會擺出一個傻笑，讓你不斷推測他的真誠。 」\[2\] 在畫出G-Man的面部表情前，伍德花了數週在一面鏡子前練習表情。\[3\]
 
-G-Man经常带着一个手提箱，使用作弊的「穿牆模式」（noclip）或者用模型编辑器（Half-Life Model
-Viewer）可以看到他的箱子里面有这些东西：
+G-Man经常带着一个手提箱，使用作弊的「穿牆模式」（noclip）或者用模型编辑器（Half-Life Model Viewer）可以看到他的箱子里面有这些东西：
 
   - 3根[铅笔](https://zh.wikipedia.org/wiki/铅笔 "wikilink")
   - 一些[纸](../Page/纸.md "wikilink")
   - 带着皮套的[9mm手枪](../Page/手枪.md "wikilink")
   - 一些大的认证卡
 
-[Valve为这个角色起名为](https://zh.wikipedia.org/wiki/維爾福 "wikilink")“GMan”，但是大多数半条命相关的社群都叫他“G-Man”。另外，玩家推測他的身份，有些玩家認為是「Government
-Man」，也有些玩家則認為是高登·弗里曼的未來版（G-Man=**G**ordon
-Free**man**），而製作團隊Valve沒有表示這兩個說法哪個正確，還是兩個都不一定正確。
+[Valve为这个角色起名为](https://zh.wikipedia.org/wiki/維爾福 "wikilink")“GMan”，但是大多数半条命相关的社群都叫他“G-Man”。另外，玩家推測他的身份，有些玩家認為是「Government Man」，也有些玩家則認為是高登·弗里曼的未來版（G-Man=**G**ordon Free**man**），而製作團隊Valve沒有表示這兩個說法哪個正確，還是兩個都不一定正確。
 
 ## 登场游戏
 
 ### 半条命
 
-[Xen_halflife_11_AYool.jpg](https://zh.wikipedia.org/wiki/File:Xen_halflife_11_AYool.jpg "fig:Xen_halflife_11_AYool.jpg")
-G-Man在游戏中的第一次登场是在半条命的介绍画面，而且看起来比主角[戈登·弗里曼还要先到实验室](../Page/戈登·弗里曼.md "wikilink")，玩家可以通过玻璃看到他正在和一个科学家争吵着什么。在黑山事件之后游戏开始，他也在游戏外的一些区域观察着主角的行动。
+[Xen_halflife_11_AYool.jpg](https://zh.wikipedia.org/wiki/File:Xen_halflife_11_AYool.jpg "fig:Xen_halflife_11_AYool.jpg") G-Man在游戏中的第一次登场是在半条命的介绍画面，而且看起来比主角[戈登·弗里曼](../Page/戈登·弗里曼.md "wikilink")还要先到实验室，玩家可以通过玻璃看到他正在和一个科学家争吵着什么。在黑山事件之后游戏开始，他也在游戏外的一些区域观察着主角的行动。
 
 非常有趣的是G-Man在任何时候都不会受到武器的伤害，不知道是因为这个角色可以“永生”还是能够有方法避免让武器接触到自己。后者更为有可能。
 
@@ -40,8 +31,7 @@ G-Man在游戏中的第一次登场是在半条命的介绍画面，而且看起
 
 ### 半条命：针锋相对
 
-[Half_life_gman_3.jpg](https://zh.wikipedia.org/wiki/File:Half_life_gman_3.jpg "fig:Half_life_gman_3.jpg")
-在半条命的扩展包[半条命:针锋相对中](https://zh.wikipedia.org/wiki/半条命:针锋相对 "wikilink")，G-Man一直在观察另外一个主角，[阿德里安·谢泼德下士](https://zh.wikipedia.org/wiki/阿德里安·谢泼德 "wikilink")。
+[Half_life_gman_3.jpg](https://zh.wikipedia.org/wiki/File:Half_life_gman_3.jpg "fig:Half_life_gman_3.jpg") 在半条命的扩展包[半条命:针锋相对中](https://zh.wikipedia.org/wiki/半条命:针锋相对 "wikilink")，G-Man一直在观察另外一个主角，[阿德里安·谢泼德下士](https://zh.wikipedia.org/wiki/阿德里安·谢泼德 "wikilink")。
 
 在军营中训练的时候，玩家可以看到G-Man正在窗外和一个士兵谈话，并且时不时地瞟向主角这边。由于主角的训练量的不断加大，可以了解到G-Man开始对主角产生兴趣。后来G-Man为谢泼德打开了门，但是再往后一关他关上了谢泼德的逃生门。
 
@@ -63,13 +53,11 @@ G-Man还是没有给玩家揭开他神秘的面纱，不管是关于他的身世
 
 ### 半条命2：第一章
 
-在[半条命2：第一章中G](https://zh.wikipedia.org/wiki/半條命2:劫後餘生 "wikilink")-Man对戈登的拘禁被一群[弗地冈人以念力阻止](https://zh.wikipedia.org/wiki/弗地冈人 "wikilink")，之後G-Manfen愤怒的说：「我們……走著瞧！」（"We'll
-see... about that\!"）之後會採取什麼樣的行動還未知。直到游戏结束也再没看到他。
+在[半条命2：第一章中G](https://zh.wikipedia.org/wiki/半條命2:劫後餘生 "wikilink")-Man对戈登的拘禁被一群[弗地冈人以念力阻止](https://zh.wikipedia.org/wiki/弗地冈人 "wikilink")，之後G-Manfen愤怒的说：「我們……走著瞧！」（"We'll see... about that\!"）之後會採取什麼樣的行動還未知。直到游戏结束也再没看到他。
 
 ### 半条命2：第二章
 
-在受到猎人攻击而身受重伤生命垂危的爱丽克斯·凡斯接受弗地冈人治疗時，G-Man和在一旁等候的戈登通話，告诉戈登他对爱丽克斯的关注，并要求戈登安全护送爱丽克斯至白森林，还请爱丽克斯转告伊萊“准备迎接出乎意料的结果。”（"Prepare
-for unforeseen consequences"）随后，他又开始了在远处观察戈登的行动。
+在受到猎人攻击而身受重伤生命垂危的爱丽克斯·凡斯接受弗地冈人治疗時，G-Man和在一旁等候的戈登通話，告诉戈登他对爱丽克斯的关注，并要求戈登安全护送爱丽克斯至白森林，还请爱丽克斯转告伊萊“准备迎接出乎意料的结果。”（"Prepare for unforeseen consequences"）随后，他又开始了在远处观察戈登的行动。
 
 ### 游戏中出现地点清单
 
@@ -130,8 +118,7 @@ for unforeseen consequences"）随后，他又开始了在远处观察戈登的�
     他可能是来自于未来的弗里曼
     他并没有出现在黑山科学家的合影上
     可能是一个名叫“Slick”的科学家
-    The Game Theorists 发布了一个 Game Theory 的视频\[4\]，根据此视频中的理论来看，G-Man
-    的真实身份可能是和 Nihilanth 同一个种族的不同个体，只是以人类形态出现在戈登弗里曼的面前。
+    The Game Theorists 发布了一个 Game Theory 的视频\[4\]，根据此视频中的理论来看，G-Man 的真实身份可能是和 Nihilanth 同一个种族的不同个体，只是以人类形态出现在戈登弗里曼的面前。
 
 ## 聲音
 
@@ -140,19 +127,13 @@ for unforeseen consequences"）随后，他又开始了在远处观察戈登的�
 
 ## 參考
 
-[pl:Lista postaci ze świata
-Half-Life\#G-Man](https://zh.wikipedia.org/wiki/pl:Lista_postaci_ze_świata_Half-Life#G-Man "wikilink")
+[pl:Lista postaci ze świata Half-Life\#G-Man](https://zh.wikipedia.org/wiki/pl:Lista_postaci_ze_świata_Half-Life#G-Man "wikilink")
 
 [Category:戰慄時空系列角色](https://zh.wikipedia.org/wiki/Category:戰慄時空系列角色 "wikilink")
 
-1.  [Half-Life 2: Episode One story
-    page](http://ep1.half-life2.com/story.php)
+1.  [Half-Life 2: Episode One story page](http://ep1.half-life2.com/story.php)
 
-2.  Valve; Hodgson, David SJ (2004), p. 137. *[Half-Life 2: Raising the
-    Bar](https://zh.wikipedia.org/wiki/Half-Life_2:_Raising_the_Bar "wikilink")*.
-    Random House, Inc. ISBN 0-7615-4364-3
+2.  Valve; Hodgson, David SJ (2004), p. 137. *[Half-Life 2: Raising the Bar](https://zh.wikipedia.org/wiki/Half-Life_2:_Raising_the_Bar "wikilink")*. Random House, Inc. ISBN 0-7615-4364-3
 
 3.
-4.   Half Life G MAN Theory
-    |url=<https://www.youtube.com/watch?v=BgYzOLQ8sU8> |website=Youtube
-    |accessdate=2017年8月15日 |date=2017-08-15}}
+4.   Half Life G MAN Theory |url=<https://www.youtube.com/watch?v=BgYzOLQ8sU8> |website=Youtube |accessdate=2017年8月15日 |date=2017-08-15}}

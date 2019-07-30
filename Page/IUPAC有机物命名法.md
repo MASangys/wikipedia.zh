@@ -1,4 +1,4 @@
-**IUPAC有机物命名法**是一种有系统命名[有机化合物的方法](../Page/有机化合物.md "wikilink")。该命名法是由[國際純粹與應用化學聯合會](https://zh.wikipedia.org/wiki/國際純粹與應用化學聯合會 "wikilink")（IUPAC）规定的，最近一次修订是在1993年。其前身是1892年日内瓦国际化学会的“系统命名法”。最理想的情況是，每一種有清楚的[结构式的有機化合物都可以用一個确定的名称來描述它](https://zh.wikipedia.org/wiki/结构式 "wikilink")。它其实并不是严格的系统命名法，因为它同时接受一些物质和基团的惯用普通命名。
+**IUPAC有机物命名法**是一种有系统命名[有机化合物](../Page/有机化合物.md "wikilink")的方法。该命名法是由[國際純粹與應用化學聯合會](https://zh.wikipedia.org/wiki/國際純粹與應用化學聯合會 "wikilink")（IUPAC）规定的，最近一次修订是在1993年。其前身是1892年日内瓦国际化学会的“系统命名法”。最理想的情況是，每一種有清楚的[结构式的有機化合物都可以用一個确定的名称來描述它](https://zh.wikipedia.org/wiki/结构式 "wikilink")。它其实并不是严格的系统命名法，因为它同时接受一些物质和基团的惯用普通命名。
 
 中文的系统命名法係[中國化學會於](https://zh.wikipedia.org/wiki/中國化學會 "wikilink")1932年在英文IUPAC命名法的基礎上，结合[漢字之特點所訂定之](https://zh.wikipedia.org/wiki/漢字 "wikilink")《化學命名原則》，於1944年再版發行，並於日後數次修訂再版。\[1\]现行版为2017版。\[2\]
 
@@ -8,7 +8,7 @@
 
 当主链上有多种取代基时，由顺序规则决定名称中基团的先后顺序。一般的规则是：
 
-1.  比较主链碳原子上所连各支链、取代基的第一个原子的[原子序数的大小](../Page/原子序数.md "wikilink")（同位素按相对原子质量的大小），原子序数较大者为“较优”基团。序数越大，顺序越高。註：通常情况下，序数越大，[相对原子质量也越大](https://zh.wikipedia.org/wiki/相对原子质量 "wikilink")。故也可比较相对原子质量。例如:<chem>I\>Br\>Cl\>F\>O\>N\>C</chem>
+1.  比较主链碳原子上所连各支链、取代基的第一个原子的[原子序数](../Page/原子序数.md "wikilink")的大小（同位素按相对原子质量的大小），原子序数较大者为“较优”基团。序数越大，顺序越高。註：通常情况下，序数越大，[相对原子质量也越大](https://zh.wikipedia.org/wiki/相对原子质量 "wikilink")。故也可比较相对原子质量。例如:<chem>I\>Br\>Cl\>F\>O\>N\>C</chem>
 2.  如果第一个原子相同，那么比较它们第一个原子上连接的原子的顺序；如有双键或三键，则视为连接了2或3个相同的原子。
 
 以次序最高的官能团作为主要官能团，命名时放在最后。其他官能团，命名时顺序越低名称越靠前。例如:<chem>-CH2Br\>CH3</chem>
@@ -27,15 +27,14 @@
 
   - 位置号用阿拉伯数字表示。
   - 官能团的数目用汉字数字表示。
-  - 碳链上碳原子的数目，10以内用[天干表示](../Page/天干.md "wikilink")，10以外用汉字数字表示。
+  - 碳链上碳原子的数目，10以内用[天干](../Page/天干.md "wikilink")表示，10以外用汉字数字表示。
 
 ## 各类化合物的具体规则
 
 ### [烷烃](../Page/烷烃.md "wikilink") （\(\mathrm{C_nH_{2n+2}}\)）
 
-1.  找出最長的[碳鏈當主鏈](../Page/碳.md "wikilink")，依碳數命名主鏈，前十個以[天干](../Page/天干.md "wikilink")（甲、乙、丙...）代表碳數，碳數多於十個時，以[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")[數字命名](../Page/數字.md "wikilink")，如：十一烷。
-2.  從最近的[取代基位置編號](../Page/取代基.md "wikilink")：1、2、3...（使取代基的位置數字越小越好，多取代基注意检验第一数字是否最小）。以數字代表取代基的位置。數字與中文數字之間以
-    “-”（不含引號） 隔開。
+1.  找出最長的[碳](../Page/碳.md "wikilink")鏈當主鏈，依碳數命名主鏈，前十個以[天干](../Page/天干.md "wikilink")（甲、乙、丙...）代表碳數，碳數多於十個時，以[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")[數字](../Page/數字.md "wikilink")命名，如：十一烷。
+2.  從最近的[取代基](../Page/取代基.md "wikilink")位置編號：1、2、3...（使取代基的位置數字越小越好，多取代基注意检验第一数字是否最小）。以數字代表取代基的位置。數字與中文數字之間以 “-”（不含引號） 隔開。
 3.  有多個取代基時，以取代基數字最小且最長的碳鏈當主鏈，並依甲基、乙基、丙基的順序列出所有取代基。
 4.  有兩個以上的取代基相同時，在取代基前面加入中文數字：一、二、三...，如：二甲基，其位置以“,”（不含引號）隔開，一起列於取代基前面。
 
@@ -44,7 +43,7 @@
 1.  命名方式与烷烃类似，但以含有[双键的最长链当做主链](https://zh.wikipedia.org/wiki/双键 "wikilink")。
 2.  以最靠近雙鍵的碳開始編號，分別標示取代基和雙鍵的位置。
 3.  若分子中出現二次以上的雙鍵，則以“二烯”或“三烯”命名。
-4.  烯類的[异构体中常出現](https://zh.wikipedia.org/wiki/异构体 "wikilink")[顺反异构体](../Page/顺反异构.md "wikilink")，故須註明“順”或“反”，或使用[E/Z标记](https://zh.wikipedia.org/wiki/E/Z标记 "wikilink")。
+4.  烯類的[异构体中常出現](https://zh.wikipedia.org/wiki/异构体 "wikilink")[顺反异构](../Page/顺反异构.md "wikilink")体，故須註明“順”或“反”，或使用[E/Z标记](https://zh.wikipedia.org/wiki/E/Z标记 "wikilink")。
 
 ### [炔烃](../Page/炔烃.md "wikilink") （\(\mathrm{C_nH_{2n-2}}\)）
 
@@ -106,9 +105,8 @@
 
 <!-- end list -->
 
-1.  [环烷烃的命名与烷烃类似](../Page/环烷烃.md "wikilink")，直接在烷類前面加“環”字即可。
-2.  [环烯烃的命名与烯烃类似](https://zh.wikipedia.org/wiki/环烯烃 "wikilink")，編號由雙鍵先設定為
-    1 , 2 號碳。
+1.  [环烷烃](../Page/环烷烃.md "wikilink")的命名与烷烃类似，直接在烷類前面加“環”字即可。
+2.  [环烯烃的命名与烯烃类似](https://zh.wikipedia.org/wiki/环烯烃 "wikilink")，編號由雙鍵先設定為 1 , 2 號碳。
 
 <!-- end list -->
 
@@ -144,7 +142,7 @@
 
 ### [芳香族化合物](https://zh.wikipedia.org/wiki/芳香族化合物 "wikilink")
 
-  - [苯环系](../Page/苯.md "wikilink")
+  - [苯](../Page/苯.md "wikilink")环系
 
 <!-- end list -->
 
@@ -157,8 +155,8 @@
   - 其他环系
 
 各种芳环系都有不同的名字，其取代物的命名方法和苯环类似。但这些环系一般都固定了编号的顺序（而不是像苯环一样只由取代基决定）：
-[Naphthalene_numbering.svg](https://zh.wikipedia.org/wiki/File:Naphthalene_numbering.svg "fig:Naphthalene_numbering.svg")[萘环系](../Page/萘.md "wikilink")
-[Anthracene_positionNumberingWithMargin.png](https://zh.wikipedia.org/wiki/File:Anthracene_positionNumberingWithMargin.png "fig:Anthracene_positionNumberingWithMargin.png")[蒽环系](../Page/蒽.md "wikilink")
+[Naphthalene_numbering.svg](https://zh.wikipedia.org/wiki/File:Naphthalene_numbering.svg "fig:Naphthalene_numbering.svg")[萘](../Page/萘.md "wikilink")环系
+[Anthracene_positionNumberingWithMargin.png](https://zh.wikipedia.org/wiki/File:Anthracene_positionNumberingWithMargin.png "fig:Anthracene_positionNumberingWithMargin.png")[蒽](../Page/蒽.md "wikilink")环系
 等等。
 
 ### [杂环化合物](../Page/杂环化合物.md "wikilink")
@@ -174,5 +172,4 @@
 [Category:化学命名法](https://zh.wikipedia.org/wiki/Category:化学命名法 "wikilink")
 
 1.
-2.  [有机化合物命名原则2017](http://www.chemsoc.org.cn/book/yjhhwmm/). 中国化学会.
-    \[2018-1-17\]
+2.  [有机化合物命名原则2017](http://www.chemsoc.org.cn/book/yjhhwmm/). 中国化学会. \[2018-1-17\]

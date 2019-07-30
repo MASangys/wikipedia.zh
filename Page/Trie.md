@@ -1,16 +1,14 @@
 [trie_example.svg](https://zh.wikipedia.org/wiki/File:trie_example.svg "fig:trie_example.svg")
 
-在[计算机科学中](../Page/计算机科学.md "wikilink")，**trie**，又称**前缀树**或**字典樹**，是一种有序[树](../Page/树_\(数据结构\).md "wikilink")，用于保存[关联数组](../Page/关联数组.md "wikilink")，其中的键通常是[字符串](../Page/字符串.md "wikilink")。与[二叉查找树不同](https://zh.wikipedia.org/wiki/二叉查找树 "wikilink")，键不是直接保存在节点中，而是由节点在树中的位置决定。一个节点的所有子孙都有相同的[前缀](https://zh.wikipedia.org/wiki/前缀 "wikilink")，也就是这个节点对应的字符串，而根节点对应[空字符串](https://zh.wikipedia.org/wiki/空字符串 "wikilink")。一般情况下，不是所有的节点都有对应的值，只有叶子节点和部分内部节点所对应的键才有相关的值。
+在[计算机科学](../Page/计算机科学.md "wikilink")中，**trie**，又称**前缀树**或**字典樹**，是一种有序[树](../Page/树_\(数据结构\).md "wikilink")，用于保存[关联数组](../Page/关联数组.md "wikilink")，其中的键通常是[字符串](../Page/字符串.md "wikilink")。与[二叉查找树不同](https://zh.wikipedia.org/wiki/二叉查找树 "wikilink")，键不是直接保存在节点中，而是由节点在树中的位置决定。一个节点的所有子孙都有相同的[前缀](https://zh.wikipedia.org/wiki/前缀 "wikilink")，也就是这个节点对应的字符串，而根节点对应[空字符串](https://zh.wikipedia.org/wiki/空字符串 "wikilink")。一般情况下，不是所有的节点都有对应的值，只有叶子节点和部分内部节点所对应的键才有相关的值。
 
-Trie这个术语来自于re**trie**val。根据[词源学](https://zh.wikipedia.org/wiki/词源学 "wikilink")，trie的发明者Edward
-Fredkin把它读作 "tree"。\[1\]\[2\]但是，其他作者把它读作 "try"。\[3\]\[4\]\[5\]
+Trie这个术语来自于re**trie**val。根据[词源学](https://zh.wikipedia.org/wiki/词源学 "wikilink")，trie的发明者Edward Fredkin把它读作 "tree"。\[1\]\[2\]但是，其他作者把它读作 "try"。\[3\]\[4\]\[5\]
 
 在图示中，键标注在节点中，值标注在节点之下。每一个完整的英文单词对应一个特定的整数。Trie可以看作是一个[确定有限状态自动机](../Page/确定有限状态自动机.md "wikilink")，尽管边上的符号一般是隐含在分支的顺序中的。
 
 键不需要被显式地保存在节点中。图示中标注出完整的单词，只是为了演示trie的原理。
 
-trie中的键通常是字符串，但也可以是其它的结构。trie的算法可以很容易地修改为处理其它结构的有序序列，比如一串数字或者形状的排列。比如，**bitwise
-trie**中的键是一串位元，可以用于表示整数或者内存地址。
+trie中的键通常是字符串，但也可以是其它的结构。trie的算法可以很容易地修改为处理其它结构的有序序列，比如一串数字或者形状的排列。比如，**bitwise trie**中的键是一串位元，可以用于表示整数或者内存地址。
 
 ## 应用
 
@@ -28,8 +26,7 @@ trie树实际上是一个[DFA](../Page/确定有限状态自动机.md "wikilink"
 
 ### 二数组Trie
 
-二数组Trie（Double-Array
-Trie）包含base和check两个数组。base数组的每个元素表示一个Trie节点，即一个状态；check数组表示某个状态的前驱状态。
+二数组Trie（Double-Array Trie）包含base和check两个数组。base数组的每个元素表示一个Trie节点，即一个状态；check数组表示某个状态的前驱状态。
 
 ## 实例
 
@@ -176,5 +173,4 @@ main (void)
 
 6.
 
-7.  [An Implementation of Double-Array
-    Trie](http://linux.thai.net/~thep/datrie/datrie.html)
+7.  [An Implementation of Double-Array Trie](http://linux.thai.net/~thep/datrie/datrie.html)

@@ -12,8 +12,7 @@
 
 ## 各個文明
 
-[Civ3.jpg](https://zh.wikipedia.org/wiki/File:Civ3.jpg "fig:Civ3.jpg")
-[Civilization_III.PNG](https://zh.wikipedia.org/wiki/File:Civilization_III.PNG "fig:Civilization_III.PNG")
+[Civ3.jpg](https://zh.wikipedia.org/wiki/File:Civ3.jpg "fig:Civ3.jpg") [Civilization_III.PNG](https://zh.wikipedia.org/wiki/File:Civilization_III.PNG "fig:Civilization_III.PNG")
 
 每個文明開始時都具有某些特定的能力。這些能力包括一個只有該文明可以建造的特殊軍事單位，以及其它的特質。
 
@@ -106,17 +105,14 @@
 ## 外部链接
 
   - [文明III官方网站](https://web.archive.org/web/20030920113339/http://www.civ3.com/)
-  - [MobyGame's entry on
-    CivIII](http://www.mobygames.com/game/sheet/p,3/gameId,5289/)
+  - [MobyGame's entry on CivIII](http://www.mobygames.com/game/sheet/p,3/gameId,5289/)
   - [Apolyton Civilization Site](http://apolyton.net/)
-  - [Civilization Fanatics Online
-    Community](http://www.civfanatics.com/)
+  - [Civilization Fanatics Online Community](http://www.civfanatics.com/)
   - [文明III中文社区](http://www.civclub.net/)
 
 ## 參見
 
-  - [Freeciv](../Page/Freeciv.md "wikilink") -
-    与《文明》类似的[開源游戏](https://zh.wikipedia.org/wiki/開源 "wikilink")。
+  - [Freeciv](../Page/Freeciv.md "wikilink") - 与《文明》类似的[開源游戏](https://zh.wikipedia.org/wiki/開源 "wikilink")。
   - [文明IV](../Page/文明IV.md "wikilink")
   - [文明V](https://zh.wikipedia.org/wiki/文明V "wikilink")
   - [殖民帝國(遊戲)](https://zh.wikipedia.org/wiki/殖民帝國\(遊戲\) "wikilink")
@@ -124,16 +120,4 @@
 
 {{-}}
 
-[Category:2001年电子游戏](https://zh.wikipedia.org/wiki/Category:2001年电子游戏 "wikilink")
-[Category:文明系列电子游戏](https://zh.wikipedia.org/wiki/Category:文明系列电子游戏 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:Mac_OS遊戲](https://zh.wikipedia.org/wiki/Category:Mac_OS遊戲 "wikilink")
-[Category:回合制策略遊戲](https://zh.wikipedia.org/wiki/Category:回合制策略遊戲 "wikilink")
-[Category:多人及單人電子遊戲](https://zh.wikipedia.org/wiki/Category:多人及單人電子遊戲 "wikilink")
-[Category:有资料片的游戏](https://zh.wikipedia.org/wiki/Category:有资料片的游戏 "wikilink")
-[Category:美國開發電子遊戲](https://zh.wikipedia.org/wiki/Category:美國開發電子遊戲 "wikilink")
-[Category:Steam商店遊戲](https://zh.wikipedia.org/wiki/Category:Steam商店遊戲 "wikilink")
-[Category:等距視角遊戲](https://zh.wikipedia.org/wiki/Category:等距視角遊戲 "wikilink")
-[Category:4X電子遊戲](https://zh.wikipedia.org/wiki/Category:4X電子遊戲 "wikilink")
-[Category:亚伯拉罕·林肯题材作品](https://zh.wikipedia.org/wiki/Category:亚伯拉罕·林肯题材作品 "wikilink")
-[Category:官方简体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方简体中文化游戏 "wikilink")
+[Category:2001年电子游戏](https://zh.wikipedia.org/wiki/Category:2001年电子游戏 "wikilink") [Category:文明系列电子游戏](https://zh.wikipedia.org/wiki/Category:文明系列电子游戏 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:Mac_OS遊戲](https://zh.wikipedia.org/wiki/Category:Mac_OS遊戲 "wikilink") [Category:回合制策略遊戲](https://zh.wikipedia.org/wiki/Category:回合制策略遊戲 "wikilink") [Category:多人及單人電子遊戲](https://zh.wikipedia.org/wiki/Category:多人及單人電子遊戲 "wikilink") [Category:有资料片的游戏](https://zh.wikipedia.org/wiki/Category:有资料片的游戏 "wikilink") [Category:美國開發電子遊戲](https://zh.wikipedia.org/wiki/Category:美國開發電子遊戲 "wikilink") [Category:Steam商店遊戲](https://zh.wikipedia.org/wiki/Category:Steam商店遊戲 "wikilink") [Category:等距視角遊戲](https://zh.wikipedia.org/wiki/Category:等距視角遊戲 "wikilink") [Category:4X電子遊戲](https://zh.wikipedia.org/wiki/Category:4X電子遊戲 "wikilink") [Category:亚伯拉罕·林肯题材作品](https://zh.wikipedia.org/wiki/Category:亚伯拉罕·林肯题材作品 "wikilink") [Category:官方简体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方简体中文化游戏 "wikilink")

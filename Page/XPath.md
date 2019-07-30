@@ -1,5 +1,4 @@
-**XPath**即为[XML路径语言](../Page/XML.md "wikilink")（XML Path
-Language），它是一种用来确定XML文档中某部分位置的[计算机语言](https://zh.wikipedia.org/wiki/计算机语言 "wikilink")。
+**XPath**即为[XML](../Page/XML.md "wikilink")路径语言（XML Path Language），它是一种用来确定XML文档中某部分位置的[计算机语言](https://zh.wikipedia.org/wiki/计算机语言 "wikilink")。
 
 XPath基于XML的树状结构，提供在数据结构树中找寻节点的能力。起初XPath的提出的初衷是将其作为一个通用的、介于与[XSL间的语法模型](https://zh.wikipedia.org/wiki/XSL "wikilink")。但是XPath很快的被开发者采用来当作小型[查询语言](https://zh.wikipedia.org/wiki/查询语言 "wikilink")。
 
@@ -56,8 +55,7 @@ XPath基于XML的树状结构，提供在数据结构树中找寻节点的能力
 | self               | 自己        |                              | `.`    |
 | namespace          | 名称空间      |                              | 不提供    |
 
-关于使用**attribute**坐标简写语法的一个范例，`//a/@href`在文件树里任何地方的元素下选择了一个叫`href`的属性。**self**坐标最通常与述语同用，以参考现行选定节点。例如，`h3[.='See
-also']`在现行上下文选取了叫`h3`的元素，该元素文字内容是`See also`。
+关于使用**attribute**坐标简写语法的一个范例，`//a/@href`在文件树里任何地方的元素下选择了一个叫`href`的属性。**self**坐标最通常与述语同用，以参考现行选定节点。例如，`h3[.='See also']`在现行上下文选取了叫`h3`的元素，该元素文字内容是`See also`。
 
 如果需要了解更多，请查看[ZVON.org给出的XPath帮助](http://www.zvon.org/xxl/XPathTutorial/General_chi/examples.html)
 
@@ -71,8 +69,7 @@ also']`在现行上下文选取了叫`h3`的元素，该元素文字内容是`Se
 
 ;text() :寻找某点的文字型别，例如`hello`于<k>`hello`</k>
 
-;processing-instruction()
-:寻找XML[处理指令如](https://zh.wikipedia.org/wiki/处理指令 "wikilink")<code>
+;processing-instruction() :寻找XML[处理指令如](https://zh.wikipedia.org/wiki/处理指令 "wikilink")<code>
 
 <?php echo $a; ?>
 
@@ -102,8 +99,7 @@ also']`在现行上下文选取了叫`h3`的元素，该元素文字内容是`Se
 
 ## 函数与运算符
 
-XPath
-1.0定义四种数据型别：节点型（本身无序的节点组）、字符串型、数字型、与[布尔型](../Page/布尔代数.md "wikilink")。
+XPath 1.0定义四种数据型别：节点型（本身无序的节点组）、字符串型、数字型、与[布尔型](../Page/布尔代数.md "wikilink")。
 
 有效的运算符有：
 
@@ -120,8 +116,7 @@ XPath
 <!-- end list -->
 
   -
-    concat(), substring(), contains(), substring-before(),
-    substring-after(), translate(), normalize-space(), string-length()
+    concat(), substring(), contains(), substring-before(), substring-after(), translate(), normalize-space(), string-length()
 
 <!-- end list -->
 
@@ -168,12 +163,10 @@ XPath
 
 ### 字符串函式
 
-  - string(*object*?)
-    :根据内建法则转换任何四种XPath数据型别为字符串。参数可为XPath，此时符合条件的节点（群）被转换成字符串返回。
+  - string(*object*?) :根据内建法则转换任何四种XPath数据型别为字符串。参数可为XPath，此时符合条件的节点（群）被转换成字符串返回。
     concat(*string*, *string*, *string*\*) :链接任何数量的字符串。
     contains(*s1*, *s2*) :如果`s1`包含`s2`返回真。
-    normalize-space(*string*?)
-    :所有在字符串头和尾的都被移除，或者將字符间两个及以上的空白字符置换成单一空格。有些XML因打印关系被美化，但可能让后来的字符串处理結果不可靠，故使用此函式有时能很好地改善情况。
+    normalize-space(*string*?) :所有在字符串头和尾的都被移除，或者將字符间两个及以上的空白字符置换成单一空格。有些XML因打印关系被美化，但可能让后来的字符串处理結果不可靠，故使用此函式有时能很好地改善情况。
 
 ### 布尔函数
 
@@ -183,10 +176,7 @@ XPath
 
   - sum(*node-set*) :根据内建转型规则，转换所有XPath参数定义找到的节点字符串值成为数字，然后返回这些数字总合
 
-使用操作子：`=, !=, <=, <,
->=`和`>`的表达式可以创造于术语内。布尔表达式可用括号`()`、布尔操作子`and`与`or`、和／或者上述的`not()`函式联合起来。数值计算使用`*,
-+, -,
-div`和`mod`。字符串可包含任何[Unicode字符](https://zh.wikipedia.org/wiki/Unicode "wikilink")。
+使用操作子：`=, !=, <=, <, >=`和`>`的表达式可以创造于术语内。布尔表达式可用括号`()`、布尔操作子`and`与`or`、和／或者上述的`not()`函式联合起来。数值计算使用`*, +, -, div`和`mod`。字符串可包含任何[Unicode字符](https://zh.wikipedia.org/wiki/Unicode "wikilink")。
 
 述语内外，整个节点组可利用"|"字符联合起来。
 
@@ -196,23 +186,15 @@ div`和`mod`。字符串可包含任何[Unicode字符](https://zh.wikipedia.org/
 
 ## XPath 2 及 XPath 3
 
-在[W3C建议下](https://zh.wikipedia.org/wiki/W3C "wikilink")，XPath
-1.0于1999年11月16日发表。[XPath
-2.0于](https://zh.wikipedia.org/wiki/XPath_2.0 "wikilink")2007年1月23日成为W3C推荐标准。XPath
-2.0表达了XPath语言在大小与能力上显著的增加。
+在[W3C建议下](https://zh.wikipedia.org/wiki/W3C "wikilink")，XPath 1.0于1999年11月16日发表。[XPath 2.0于](https://zh.wikipedia.org/wiki/XPath_2.0 "wikilink")2007年1月23日成为W3C推荐标准。XPath 2.0表达了XPath语言在大小与能力上显著的增加。
 
-最值得大书特书的改变是XPath 2.0有了更丰富的型别系统；XPath 2.0支持不可分割型态，如在[XML
-Schema内建型态定义一样](../Page/XML_Schema.md "wikilink")，并且也可自纲要（schema）导入用户自定型别。现在每个值都是一个序列（一个单一不可分割值或节点都被视为长度一的序列）。XPath
-1.0节点组被节点序列取代，它可以是任何顺序。
+最值得大书特书的改变是XPath 2.0有了更丰富的型别系统；XPath 2.0支持不可分割型态，如在[XML Schema内建型态定义一样](../Page/XML_Schema.md "wikilink")，并且也可自纲要（schema）导入用户自定型别。现在每个值都是一个序列（一个单一不可分割值或节点都被视为长度一的序列）。XPath 1.0节点组被节点序列取代，它可以是任何顺序。
 
 为了支持更丰富的型别组，XPath 2.0提供相当延展的函式与操作子群。
 
-XPath 2.0实际上是[XQuery
-1.0的子集合](https://zh.wikipedia.org/wiki/XQuery_1.0 "wikilink")。它提供了一个for表达式。该式是XQuery里「FLWOR」表达式的缩减版。利用列出XQuery省去的部分来描述该语言是可能的。主要范例是查询前导语（query
-prolog）、元素和属性建构式、「FLWOR」语法的余项式、以及`typeswitch`表达式。
+XPath 2.0实际上是[XQuery 1.0的子集合](https://zh.wikipedia.org/wiki/XQuery_1.0 "wikilink")。它提供了一个for表达式。该式是XQuery里「FLWOR」表达式的缩减版。利用列出XQuery省去的部分来描述该语言是可能的。主要范例是查询前导语（query prolog）、元素和属性建构式、「FLWOR」语法的余项式、以及`typeswitch`表达式。
 
-XPath 3.0 於 2014年 4月 8日成為 W3C 推薦標準，而 XPath 3.1 則於 2017年 3月 21日成為 W3C
-推薦標準。
+XPath 3.0 於 2014年 4月 8日成為 W3C 推薦標準，而 XPath 3.1 則於 2017年 3月 21日成為 W3C 推薦標準。
 
 ## 参看
 
@@ -229,5 +211,4 @@ XPath 3.0 於 2014年 4月 8日成為 W3C 推薦標準，而 XPath 3.1 則於 20
   - [W3C XPath1.0规范](http://www.w3.org/TR/xpath)
   - [W3C XPath 2.0候选推荐](http://www.w3.org/TR/xpath20/)
 
-[Category:W3C标准](https://zh.wikipedia.org/wiki/Category:W3C标准 "wikilink")
-[Category:XML](https://zh.wikipedia.org/wiki/Category:XML "wikilink")
+[Category:W3C标准](https://zh.wikipedia.org/wiki/Category:W3C标准 "wikilink") [Category:XML](https://zh.wikipedia.org/wiki/Category:XML "wikilink")

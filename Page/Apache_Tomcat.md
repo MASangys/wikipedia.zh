@@ -1,9 +1,4 @@
-**Tomcat**是由Apache软件基金会属下[Jakarta项目开发的](../Page/Jakarta项目.md "wikilink")[Servlet容器](https://zh.wikipedia.org/wiki/Servlet "wikilink")，按照[Sun
-Microsystems提供的技术规范](https://zh.wikipedia.org/wiki/Sun_Microsystems "wikilink")，实现了对[Servlet和](https://zh.wikipedia.org/wiki/Servlet "wikilink")[JavaServer
-Page](https://zh.wikipedia.org/wiki/JavaServer_Page "wikilink")（[JSP](../Page/JSP.md "wikilink")）的支持，并提供了作为Web服务器的一些特有功能，如Tomcat管理和控制平台、安全域管理和Tomcat阀等。由于Tomcat本身也内含了[HTTP](https://zh.wikipedia.org/wiki/HTTP "wikilink")[服务器](../Page/服务器.md "wikilink")，因此也可以视作单独的[Web服务器](https://zh.wikipedia.org/wiki/Web服务器 "wikilink")。但是，不能将Tomcat和[Apache
-HTTP服务器混淆](https://zh.wikipedia.org/wiki/Apache_HTTP服务器 "wikilink")，[Apache
-HTTP服务器是用C语言实现的HTTP](https://zh.wikipedia.org/wiki/Apache_HTTP服务器 "wikilink")[Web服务器](https://zh.wikipedia.org/wiki/Web服务器 "wikilink")；这两个HTTP
-web server不是捆绑在一起的。Apache Tomcat包含了配置管理工具，也可以通过编辑XML格式的配置文件来进行配置。
+**Tomcat**是由Apache软件基金会属下[Jakarta项目](../Page/Jakarta项目.md "wikilink")开发的[Servlet容器](https://zh.wikipedia.org/wiki/Servlet "wikilink")，按照[Sun Microsystems提供的技术规范](https://zh.wikipedia.org/wiki/Sun_Microsystems "wikilink")，实现了对[Servlet和](https://zh.wikipedia.org/wiki/Servlet "wikilink")[JavaServer Page](https://zh.wikipedia.org/wiki/JavaServer_Page "wikilink")（[JSP](../Page/JSP.md "wikilink")）的支持，并提供了作为Web服务器的一些特有功能，如Tomcat管理和控制平台、安全域管理和Tomcat阀等。由于Tomcat本身也内含了[HTTP](https://zh.wikipedia.org/wiki/HTTP "wikilink")[服务器](../Page/服务器.md "wikilink")，因此也可以视作单独的[Web服务器](https://zh.wikipedia.org/wiki/Web服务器 "wikilink")。但是，不能将Tomcat和[Apache HTTP服务器混淆](https://zh.wikipedia.org/wiki/Apache_HTTP服务器 "wikilink")，[Apache HTTP服务器是用C语言实现的HTTP](https://zh.wikipedia.org/wiki/Apache_HTTP服务器 "wikilink")[Web服务器](https://zh.wikipedia.org/wiki/Web服务器 "wikilink")；这两个HTTP web server不是捆绑在一起的。Apache Tomcat包含了配置管理工具，也可以通过编辑XML格式的配置文件来进行配置。
 
 ## 环境
 
@@ -13,8 +8,7 @@ Tomcat的Servlet引擎通常与[Apache或者其他Web服务器一起工作](http
 
 ## 开發状况
 
-和其他Apache软件基金会旗下的项目一样，Tomcat是由该基金会的会员和其他志愿者开发与维护的，并且是一个被置于[Apache协议之下的](https://zh.wikipedia.org/wiki/Apache协议 "wikilink")[开源软件](../Page/开源软件.md "wikilink")。用户可以根据该协议免费获得其源代码及可执行文件。最初被发布出来的版本是Tomcat
-3.0.x。
+和其他Apache软件基金会旗下的项目一样，Tomcat是由该基金会的会员和其他志愿者开发与维护的，并且是一个被置于[Apache协议之下的](https://zh.wikipedia.org/wiki/Apache协议 "wikilink")[开源软件](../Page/开源软件.md "wikilink")。用户可以根据该协议免费获得其源代码及可执行文件。最初被发布出来的版本是Tomcat 3.0.x。
 
 ## 产品特性
 
@@ -30,7 +24,7 @@ Tomcat的Servlet引擎通常与[Apache或者其他Web服务器一起工作](http
   - Servlet容器被重新设计，并被命名为*Catalina*
   - JSP引擎被重新设计，并被命名为*Jasper*
   - 新的Coyote连接器
-  - 支持[JMX](../Page/JMX.md "wikilink")，使用JSP和基于[Struts的管理系统](../Page/Struts.md "wikilink")
+  - 支持[JMX](../Page/JMX.md "wikilink")，使用JSP和基于[Struts](../Page/Struts.md "wikilink")的管理系统
 
 ### Tomcat 5.x
 
@@ -38,7 +32,7 @@ Tomcat的Servlet引擎通常与[Apache或者其他Web服务器一起工作](http
   - 精简的[垃圾收集系统](https://zh.wikipedia.org/wiki/垃圾收集_\(计算机\) "wikilink")
   - 更快的JSP解析和改进过的[标签库处理](https://zh.wikipedia.org/wiki/标签库 "wikilink")
   - [Windows和](https://zh.wikipedia.org/wiki/Windows "wikilink")[Unix的本地操作系统整合](https://zh.wikipedia.org/wiki/Unix "wikilink")，可以将Tomcat注册为系统服务
-  - [重构过的](https://zh.wikipedia.org/wiki/重构 "wikilink")[应用程序发布环境](../Page/应用程序.md "wikilink")
+  - [重构过的](https://zh.wikipedia.org/wiki/重构 "wikilink")[应用程序](../Page/应用程序.md "wikilink")发布环境
 
 ### Tomcat 6.x
 
@@ -94,7 +88,7 @@ Tomcat的Servlet引擎通常与[Apache或者其他Web服务器一起工作](http
 <tr class="even">
 <td><p>[2]</p></td>
 <td><p>2004-11-10[3]</p></td>
-<td><p>专为J2SE 5.0设计。包含在了Eclipse JDT中，并运行Tomcat在没有安装完整<a href="../Page/JDK.md" title="wikilink">JDK的情况下运行</a>。</p></td>
+<td><p>专为J2SE 5.0设计。包含在了Eclipse JDT中，并运行Tomcat在没有安装完整<a href="../Page/JDK.md" title="wikilink">JDK</a>的情况下运行。</p></td>
 <td><p>5.5.36</p></td>
 <td><p>2012-10-10</p></td>
 </tr>
@@ -115,7 +109,7 @@ Tomcat的Servlet引擎通常与[Apache或者其他Web服务器一起工作](http
 <tr class="odd">
 <td></td>
 <td><p>2014-06-25[6]</p></td>
-<td><p>实现了<a href="../Page/Java_Servlet.md" title="wikilink">Servlet 3.1</a>、<a href="https://zh.wikipedia.org/wiki/JavaServer_Pages" title="wikilink">JSP 2.3</a>、<a href="https://zh.wikipedia.org/wiki/EL_3.0" title="wikilink">EL 3.0</a>[7]以及<a href="../Page/WebSocket.md" title="wikilink">WebSocket规范</a>。</p></td>
+<td><p>实现了<a href="../Page/Java_Servlet.md" title="wikilink">Servlet 3.1</a>、<a href="https://zh.wikipedia.org/wiki/JavaServer_Pages" title="wikilink">JSP 2.3</a>、<a href="https://zh.wikipedia.org/wiki/EL_3.0" title="wikilink">EL 3.0</a>[7]以及<a href="../Page/WebSocket.md" title="wikilink">WebSocket</a>规范。</p></td>
 <td><p>8.0.53</p></td>
 <td><p>2018-07-05</p></td>
 </tr>
@@ -149,10 +143,8 @@ Tomcat的Servlet引擎通常与[Apache或者其他Web服务器一起工作](http
 
   - [Apache Tomcat官方网站（英文）](http://tomcat.apache.org)
   - [Tomcat项目的Wiki（英文）](http://wiki.apache.org/tomcat/FrontPage)
-  - [Apache
-    Tomcat官網鏡像站mirror.tw](https://web.archive.org/web/20090519004946/http://www.mirror.tw/pub/apache/tomcat/)
-  - [Apache
-    Tomcat官網台灣下載](https://web.archive.org/web/20090417163702/http://ftp.mirror.tw/pub/apache/tomcat/)
+  - [Apache Tomcat官網鏡像站mirror.tw](https://web.archive.org/web/20090519004946/http://www.mirror.tw/pub/apache/tomcat/)
+  - [Apache Tomcat官網台灣下載](https://web.archive.org/web/20090417163702/http://ftp.mirror.tw/pub/apache/tomcat/)
 
 ## 参见
 
@@ -161,13 +153,7 @@ Tomcat的Servlet引擎通常与[Apache或者其他Web服务器一起工作](http
 
 {{-}}
 
-[Category:Apache软件基金会](https://zh.wikipedia.org/wiki/Category:Apache软件基金会 "wikilink")
-[Category:Java企业平台](https://zh.wikipedia.org/wiki/Category:Java企业平台 "wikilink")
-[Category:用Java編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用Java編程的自由軟體 "wikilink")
-[Category:自由网络服务器软件](https://zh.wikipedia.org/wiki/Category:自由网络服务器软件 "wikilink")
-[Category:自由跨平台軟體](https://zh.wikipedia.org/wiki/Category:自由跨平台軟體 "wikilink")
-[Category:使用Apache许可证的软件](https://zh.wikipedia.org/wiki/Category:使用Apache许可证的软件 "wikilink")
-[Category:用Java编程的网络服务器软件](https://zh.wikipedia.org/wiki/Category:用Java编程的网络服务器软件 "wikilink")
+[Category:Apache软件基金会](https://zh.wikipedia.org/wiki/Category:Apache软件基金会 "wikilink") [Category:Java企业平台](https://zh.wikipedia.org/wiki/Category:Java企业平台 "wikilink") [Category:用Java編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用Java編程的自由軟體 "wikilink") [Category:自由网络服务器软件](https://zh.wikipedia.org/wiki/Category:自由网络服务器软件 "wikilink") [Category:自由跨平台軟體](https://zh.wikipedia.org/wiki/Category:自由跨平台軟體 "wikilink") [Category:使用Apache许可证的软件](https://zh.wikipedia.org/wiki/Category:使用Apache许可证的软件 "wikilink") [Category:用Java编程的网络服务器软件](https://zh.wikipedia.org/wiki/Category:用Java编程的网络服务器软件 "wikilink")
 
 1.
 2.

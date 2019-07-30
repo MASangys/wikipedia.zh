@@ -1,6 +1,6 @@
-**ASCII艺术**，又名「文字圖」、「字符畫」、「文字畫」，这种主要依靠[电脑表现的艺术形式是指使用电脑](https://zh.wikipedia.org/wiki/电脑 "wikilink")[字符](../Page/字符.md "wikilink")（主要是[ASCII](../Page/ASCII.md "wikilink")）来表达[图片](https://zh.wikipedia.org/wiki/图片 "wikilink")，最早于1982年[美国](../Page/美国.md "wikilink")[卡内基梅隆大学出现](https://zh.wikipedia.org/wiki/卡内基梅隆大学 "wikilink")，[互联网刚出现时在](../Page/互联网.md "wikilink")[英语世界的社交网](../Page/英语世界.md "wikilink")（[Usenet](../Page/Usenet.md "wikilink")、[BITNET](https://zh.wikipedia.org/wiki/BITNET "wikilink")、[網路論壇](https://zh.wikipedia.org/wiki/網路論壇 "wikilink")、[FidoNet](../Page/FidoNet.md "wikilink")、[電子布告欄系統BBS](https://zh.wikipedia.org/wiki/電子布告欄系統 "wikilink")）上時常利用到的[表情符號](https://zh.wikipedia.org/wiki/表情符號 "wikilink")。它可以由[文本编辑器生成](../Page/文本编辑器.md "wikilink")。很多ASCII艺术要求使用定寬字体（固定宽度的字体，例如在传统[打字机上使用的字体](https://zh.wikipedia.org/wiki/打字机 "wikilink")）来显示。
+**ASCII艺术**，又名「文字圖」、「字符畫」、「文字畫」，这种主要依靠[电脑表现的艺术形式是指使用电脑](https://zh.wikipedia.org/wiki/电脑 "wikilink")[字符](../Page/字符.md "wikilink")（主要是[ASCII](../Page/ASCII.md "wikilink")）来表达[图片](https://zh.wikipedia.org/wiki/图片 "wikilink")，最早于1982年[美国](../Page/美国.md "wikilink")[卡内基梅隆大学出现](https://zh.wikipedia.org/wiki/卡内基梅隆大学 "wikilink")，[互联网](../Page/互联网.md "wikilink")刚出现时在[英语世界](../Page/英语世界.md "wikilink")的社交网（[Usenet](../Page/Usenet.md "wikilink")、[BITNET](https://zh.wikipedia.org/wiki/BITNET "wikilink")、[網路論壇](https://zh.wikipedia.org/wiki/網路論壇 "wikilink")、[FidoNet](../Page/FidoNet.md "wikilink")、[電子布告欄系統BBS](https://zh.wikipedia.org/wiki/電子布告欄系統 "wikilink")）上時常利用到的[表情符號](https://zh.wikipedia.org/wiki/表情符號 "wikilink")。它可以由[文本编辑器](../Page/文本编辑器.md "wikilink")生成。很多ASCII艺术要求使用定寬字体（固定宽度的字体，例如在传统[打字机上使用的字体](https://zh.wikipedia.org/wiki/打字机 "wikilink")）来显示。
 
-ASCII艺术用于当文字比图像更稳定和更快显示的场合。包括打字机、[电传打字机](https://zh.wikipedia.org/wiki/电传打字机 "wikilink")、没有图形的[终端](https://zh.wikipedia.org/wiki/终端 "wikilink")，早期的电脑网络，[电子邮件和](../Page/电子邮件.md "wikilink")[Usenet的](../Page/Usenet.md "wikilink")[新闻信息中](../Page/新闻.md "wikilink")。
+ASCII艺术用于当文字比图像更稳定和更快显示的场合。包括打字机、[电传打字机](https://zh.wikipedia.org/wiki/电传打字机 "wikilink")、没有图形的[终端](https://zh.wikipedia.org/wiki/终端 "wikilink")，早期的电脑网络，[电子邮件](../Page/电子邮件.md "wikilink")和[Usenet](../Page/Usenet.md "wikilink")的[新闻](../Page/新闻.md "wikilink")信息中。
 
 ## ASCII艺术的类型和例子
 
@@ -26,8 +26,7 @@ ASCII艺术用于当文字比图像更稳定和更快显示的场合。包括打
 | b（￣▽￣）d       | 竖起大拇指 | (￣(工)￣)      | 大狗熊  |
 | ^(oo)^        | 猪头    | Orz          | 跪了   |
 
-更复杂的例子是使用几行文本来表示大的图形或更复杂的图像，例子有：
-<span style="font-family: Courier New;font-size:16px;line-height: 16px;">
+更复杂的例子是使用几行文本来表示大的图形或更复杂的图像，例子有： <span style="font-family: Courier New;font-size:16px;line-height: 16px;">
 
 `                 (__)`
 `                 (oo)`
@@ -37,10 +36,9 @@ ASCII艺术用于当文字比图像更稳定和更快显示的场合。包括打
 `           ~~    ~~           ￣`
 `              牛             太極       `
 
-</span> 最普遍的用法是把这些图像用于电子邮件、[Usenet的个人签名中](../Page/Usenet.md "wikilink")。
+</span> 最普遍的用法是把这些图像用于电子邮件、[Usenet](../Page/Usenet.md "wikilink")的个人签名中。
 
-一些图形忽略特定字母的形状，而把它们看作整体图形的填充方式：
-<span style="font-family: Courier New;font-size:16px;line-height: 16px;">
+一些图形忽略特定字母的形状，而把它们看作整体图形的填充方式： <span style="font-family: Courier New;font-size:16px;line-height: 16px;">
 
 `                 _a,`
 `                _yQa.`
@@ -53,8 +51,7 @@ ASCII艺术用于当文字比图像更稳定和更快显示的场合。包括打
 `          .amm;     .xmWmc`
 ``          """""`    """""""``
 
-</span> 另一种类型时使用一个字母形成一个单词，例如：
-<span style="font-family: Courier New;font-size:16px;line-height: 16px;">
+</span> 另一种类型时使用一个字母形成一个单词，例如： <span style="font-family: Courier New;font-size:16px;line-height: 16px;">
 
 `    HHHHHH    HHHHHH     IIIIII     `
 `     HHHH      HHHH       IIII      `
@@ -67,8 +64,7 @@ ASCII艺术用于当文字比图像更稳定和更快显示的场合。包括打
 `     HHHH      HHHH       IIII     `
 `    HHHHHH    HHHHHH     IIIIII    `
 
-</span> 有人使用ASCII艺术创作独特的排版样式，例如：
-<span style="font-family: Courier New;font-size:16px;line-height: 16px;">
+</span> 有人使用ASCII艺术创作独特的排版样式，例如： <span style="font-family: Courier New;font-size:16px;line-height: 16px;">
 
 `        __               __,`
 `      ( /              (          o _/_ /`
@@ -77,8 +73,7 @@ ASCII艺术用于当文字比图像更稳定和更快显示的场合。包括打
 `    //`
 `   (/`
 
-</span> 程序（以及其他支持其标准的程式）允许设计和使用ASCII字体。
-<span style="font-family: Courier New;font-size:16px;line-height: 16px;">
+</span> 程序（以及其他支持其标准的程式）允许设计和使用ASCII字体。 <span style="font-family: Courier New;font-size:16px;line-height: 16px;">
 
 `        _____ ___ ____ _      _   `
 `       |  ___|_ _/ ___| | ___| |_ `
@@ -86,9 +81,7 @@ ASCII艺术用于当文字比图像更稳定和更快显示的场合。包括打
 `       |  _|  | | |_| | |  __/ |_ `
 `       |_|   |_______|_|___|__|`
 
-</span>
-有人則會使用特殊的[Unicode字元來創作](https://zh.wikipedia.org/wiki/Unicode "wikilink")。
-<span style="font-family: Courier New;font-size:16px;line-height: 16px;">
+</span> 有人則會使用特殊的[Unicode字元來創作](https://zh.wikipedia.org/wiki/Unicode "wikilink")。 <span style="font-family: Courier New;font-size:16px;line-height: 16px;">
 
 `    █  █  █  █████  █    █   █████`
 `    █  █  █    █    █    █    █ `
@@ -100,12 +93,11 @@ ASCII艺术用于当文字比图像更稳定和更快显示的场合。包括打
 
 ## 生成ASCII艺术图形的方式
 
-有很多文本编辑器用于生成直线、矩形以及填充图形等等。直接使用这些工具可以很方便的生成各种ASCII艺术图形。把一幅[位图是](../Page/位图.md "wikilink")[矢量量子化的特例](https://zh.wikipedia.org/wiki/矢量量子化 "wikilink")。一个例子如下所示：
+有很多文本编辑器用于生成直线、矩形以及填充图形等等。直接使用这些工具可以很方便的生成各种ASCII艺术图形。把一幅[位图](../Page/位图.md "wikilink")是[矢量量子化的特例](https://zh.wikipedia.org/wiki/矢量量子化 "wikilink")。一个例子如下所示：
 
 <div style="float:right;margin:10 10 1em 1em;">
 
-[Photo of redwing
-blackbird](https://zh.wikipedia.org/wiki/File:Redwingblackbird1.jpg "fig:Photo of redwing blackbird")
+[Photo of redwing blackbird](https://zh.wikipedia.org/wiki/File:Redwingblackbird1.jpg "fig:Photo of redwing blackbird")
 
 </div>
 
@@ -157,8 +149,7 @@ blackbird](https://zh.wikipedia.org/wiki/File:Redwingblackbird1.jpg "fig:Photo o
 
 ## 在HTML页面中放置ASCII艺术
 
-ASCII艺术图形可以放到[HTML文档中](../Page/HTML.md "wikilink")，但是通常要放置在**\<pre\>
-\</pre\>**[格式文本标签中](https://zh.wikipedia.org/wiki/HTML标签 "wikilink")，以使得字体可以正确以等宽字体显示。另外，也可以通过[CSS的方式在HTML中生成ASCII艺术](https://zh.wikipedia.org/wiki/CSS "wikilink")。
+ASCII艺术图形可以放到[HTML](../Page/HTML.md "wikilink")文档中，但是通常要放置在**\<pre\> \</pre\>**[格式文本标签中](https://zh.wikipedia.org/wiki/HTML标签 "wikilink")，以使得字体可以正确以等宽字体显示。另外，也可以通过[CSS的方式在HTML中生成ASCII艺术](https://zh.wikipedia.org/wiki/CSS "wikilink")。
 
 ## 相關條目
 
@@ -185,17 +176,14 @@ ASCII艺术图形可以放到[HTML文档中](../Page/HTML.md "wikilink")，但�
   - [指南](https://web.archive.org/web/20050412025156/http://www.ludd.luth.se/~vk/pics/ascii/junkyard/techstuff/tutorials/Joan_Stark.html#tutorials)
   - [AA-lib](http://aa-project.sourceforge.net/index.html)
   - [libcaca](http://caca.zoy.org/wiki/libcaca)（颜色ASCII艺术）
-  - [Cow
-    Art](https://web.archive.org/web/19970210183702/http://www.ortech-engr.com/pecans/cows.html)
-  - [星際大战](http://www.asciimation.co.nz/)（一段22分钟长的ASCII动画，要求安装Java）\*\*
-    [星際大战（telnet版）](telnet://towel.blinkenlights.nl)（[telnet版的星際大战电影](https://zh.wikipedia.org/wiki/telnet "wikilink")）
+  - [Cow Art](https://web.archive.org/web/19970210183702/http://www.ortech-engr.com/pecans/cows.html)
+  - [星際大战](http://www.asciimation.co.nz/)（一段22分钟长的ASCII动画，要求安装Java）\*\* [星際大战（telnet版）](telnet://towel.blinkenlights.nl)（[telnet版的星際大战电影](https://zh.wikipedia.org/wiki/telnet "wikilink")）
 
 <!-- end list -->
 
   - [日本ASCII艺术](http://aa.2ch.net/mona/)：要求安装日语字体（对于Windows用户，可以在Windows/IE升级中免费得到）
   - [如何绘制Mona风格的ASCII动画AA](http://www.geocities.co.jp/HeartLand-Yurinoki/1836/)（日语）
-  - [Illustrating software design using UnifiedModelingLanguage is
-    discussed](http://c2.com/cgi/wiki?UmlAsciiArt)
+  - [Illustrating software design using UnifiedModelingLanguage is discussed](http://c2.com/cgi/wiki?UmlAsciiArt)
   - [Text-image.com免费的在线图片／ASCII艺术转化器](http://text-image.com)
   - [一个ASCII艺术档案库](http://www.chris.com/ascii/)
   - [ASCII艺术](http://www.asciiartfarts.com)
@@ -203,9 +191,7 @@ ASCII艺术图形可以放到[HTML文档中](../Page/HTML.md "wikilink")，但�
 
 <!-- end list -->
 
-  - \[ AA(Japanese ASCII art) underground thread @ hiding place (English
-    version)\]
+  - \[ AA(Japanese ASCII art) underground thread @ hiding place (English version)\]
   - [形文字](http://www.player.idv.tw/prog/index.php?title=%E5%BD%A2%E6%96%87%E5%AD%97)
 
-[Category:ASCII艺术](https://zh.wikipedia.org/wiki/Category:ASCII艺术 "wikilink")
-[Category:數位藝術](https://zh.wikipedia.org/wiki/Category:數位藝術 "wikilink")
+[Category:ASCII艺术](https://zh.wikipedia.org/wiki/Category:ASCII艺术 "wikilink") [Category:數位藝術](https://zh.wikipedia.org/wiki/Category:數位藝術 "wikilink")

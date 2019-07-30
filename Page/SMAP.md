@@ -1,5 +1,4 @@
-**SMAP**是[日本活跃于](../Page/日本.md "wikilink")1988年至2016年期间的[偶像](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[男子组合](../Page/男子音乐组合.md "wikilink")，隶属于[杰尼斯事务所](https://zh.wikipedia.org/wiki/杰尼斯事务所 "wikilink")，由[JVC建伍胜利娱乐株式会社发行其唱片](../Page/勝利娛樂.md "wikilink")。\[1\]\[2\]在组合活动的28年期间内，得到了日本国民的喜爱\[3\]\[4\]，并获得了“国民团体”的美誉。\[5\]\[6\]\[7\]2011年5月21日，获得时任[中华人民共和国国家](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")[总理](../Page/总理.md "wikilink")[温家宝的接见](../Page/温家宝.md "wikilink")，成为中国领导人多年来首次单独会晤的日本艺人。\[8\]
-2016年12月31日，组合正式解散。\[9\]\[10\]
+**SMAP**是[日本](../Page/日本.md "wikilink")活跃于1988年至2016年期间的[偶像](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[男子组合](../Page/男子音乐组合.md "wikilink")，隶属于[杰尼斯事务所](https://zh.wikipedia.org/wiki/杰尼斯事务所 "wikilink")，由[JVC建伍胜利娱乐株式会社发行其唱片](../Page/勝利娛樂.md "wikilink")。\[1\]\[2\]在组合活动的28年期间内，得到了日本国民的喜爱\[3\]\[4\]，并获得了“国民团体”的美誉。\[5\]\[6\]\[7\]2011年5月21日，获得时任[中华人民共和国国家](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")[总理](../Page/总理.md "wikilink")[温家宝](../Page/温家宝.md "wikilink")的接见，成为中国领导人多年来首次单独会晤的日本艺人。\[8\] 2016年12月31日，组合正式解散。\[9\]\[10\]
 
 ## 组合成员
 
@@ -83,33 +82,21 @@
 
 1988年4月，SMAP中的成员便已和其他[小杰尼斯结成了限定组合](https://zh.wikipedia.org/wiki/小杰尼斯 "wikilink")“[滑板男孩](https://zh.wikipedia.org/wiki/滑板男孩 "wikilink")”。\[12\]\[13\]
 
-结成限定组合时，[中居正广](https://zh.wikipedia.org/wiki/中居正广 "wikilink")15岁、[木村拓哉](../Page/木村拓哉.md "wikilink")15岁、[稲垣吾郎](https://zh.wikipedia.org/wiki/稲垣吾郎 "wikilink")14岁、[森且行](../Page/森且行.md "wikilink")14岁、[草彅刚](https://zh.wikipedia.org/wiki/草彅刚 "wikilink")13岁、[香取慎吾](../Page/香取慎吾.md "wikilink")11岁，成员平均年龄14岁。\[14\]
-从团队组成到最终[CD出道](../Page/CD.md "wikilink")，间隔了三年的时间。在此期间，他们出演了偶像节目、电视剧和舞台剧，以积累自己的人气。
+结成限定组合时，[中居正广](https://zh.wikipedia.org/wiki/中居正广 "wikilink")15岁、[木村拓哉](../Page/木村拓哉.md "wikilink")15岁、[稲垣吾郎](https://zh.wikipedia.org/wiki/稲垣吾郎 "wikilink")14岁、[森且行](../Page/森且行.md "wikilink")14岁、[草彅刚](https://zh.wikipedia.org/wiki/草彅刚 "wikilink")13岁、[香取慎吾](../Page/香取慎吾.md "wikilink")11岁，成员平均年龄14岁。\[14\] 从团队组成到最终[CD](../Page/CD.md "wikilink")出道，间隔了三年的时间。在此期间，他们出演了偶像节目、电视剧和舞台剧，以积累自己的人气。
 
 组合名是由事务所[总裁](../Page/总裁.md "wikilink")[喜多川擴所起](https://zh.wikipedia.org/wiki/喜多川擴 "wikilink")，取自“”的首字母。\[15\]\[16\]
 
-1991年1月1日，SMAP在[日本武道馆举办了组合成立之后的首场演唱会](https://zh.wikipedia.org/wiki/日本武道馆 "wikilink")。\[17\]\[18\]
-在CD出道前便已达到3万人的上座率。\[19\] 同年9月9日，SMAP的出道单曲《[Can't Stop\!\!
--LOVING-](../Page/Can't_Stop!!_-LOVING-.md "wikilink")》发行。\[20\]\[21\]
-SMAP出道之时，作为偶像主要活动范围的音乐节目开始接连关闭，进入了所谓的“偶像冰河期”，因而SMAP开始转战综艺节目和电视剧。\[22\]
-年底[NHK红白歌合战上](../Page/NHK红白歌合战.md "wikilink")，SMAP以出道单曲登上舞台。自此直至解散，SMAP共计出战23次。
+1991年1月1日，SMAP在[日本武道馆举办了组合成立之后的首场演唱会](https://zh.wikipedia.org/wiki/日本武道馆 "wikilink")。\[17\]\[18\] 在CD出道前便已达到3万人的上座率。\[19\] 同年9月9日，SMAP的出道单曲《[Can't Stop\!\! -LOVING-](../Page/Can't_Stop!!_-LOVING-.md "wikilink")》发行。\[20\]\[21\] SMAP出道之时，作为偶像主要活动范围的音乐节目开始接连关闭，进入了所谓的“偶像冰河期”，因而SMAP开始转战综艺节目和电视剧。\[22\] 年底[NHK红白歌合战](../Page/NHK红白歌合战.md "wikilink")上，SMAP以出道单曲登上舞台。自此直至解散，SMAP共计出战23次。
 
 ### 1990年代
 
-1992年4月（出道半年后），SMAP获得了在综艺节目《》中表演的机会。\[23\]
-在节目中，SMAP表演了许多与正规偶像不一样的节目内容，并因此走红而收获人气。\[24\]
+1992年4月（出道半年后），SMAP获得了在综艺节目《》中表演的机会。\[23\] 在节目中，SMAP表演了许多与正规偶像不一样的节目内容，并因此走红而收获人气。\[24\]
 
-1994年，SMAP凭借其单曲《[Hey Hey
-謝謝光臨](../Page/Hey_Hey_謝謝光臨.md "wikilink")》获得了自己第一个[Oricon周单曲榜冠军](../Page/Oricon.md "wikilink")。\[25\]
-1995年，担任[日本电视网台庆节目](../Page/日本電視網協議會.md "wikilink")《[24小時電視
-「愛心救地球」](../Page/24小時電視_「愛心救地球」.md "wikilink")》主持人。
+1994年，SMAP凭借其单曲《[Hey Hey 謝謝光臨](../Page/Hey_Hey_謝謝光臨.md "wikilink")》获得了自己第一个[Oricon](../Page/Oricon.md "wikilink")周单曲榜冠军。\[25\] 1995年，担任[日本电视网台庆节目](../Page/日本電視網協議會.md "wikilink")《[24小時電視 「愛心救地球」](../Page/24小時電視_「愛心救地球」.md "wikilink")》主持人。
 
-1996年，SMAP主持[富士电视网冠名节目](https://zh.wikipedia.org/wiki/富士电视网 "wikilink")《[SMAPXSMAP](https://zh.wikipedia.org/wiki/SMAPXSMAP "wikilink")》开始播出，\[26\]\[27\]
-并逐步活跃于影视剧、综艺节目和演唱会等诸多领域。同年5月，成员森且行为实现儿时赛车手的梦想，退出SMAP。同时森且行也退出了杰尼斯事务所和娱乐圈。\[28\]
-此后，SMAP以五人形态活跃了二十余年。
+1996年，SMAP主持[富士电视网冠名节目](https://zh.wikipedia.org/wiki/富士电视网 "wikilink")《[SMAPXSMAP](https://zh.wikipedia.org/wiki/SMAPXSMAP "wikilink")》开始播出，\[26\]\[27\] 并逐步活跃于影视剧、综艺节目和演唱会等诸多领域。同年5月，成员森且行为实现儿时赛车手的梦想，退出SMAP。同时森且行也退出了杰尼斯事务所和娱乐圈。\[28\] 此后，SMAP以五人形态活跃了二十余年。
 
-1998年，由[菅止戈男填词的](../Page/菅止戈男.md "wikilink")《[夜空的彼岸](../Page/夜空的彼岸.md "wikilink")》成为SMAP首支百万销量认证的单曲，\[29\]\[30\]
-同时该单曲也入选中学生音乐教科书。\[31\]
+1998年，由[菅止戈男](../Page/菅止戈男.md "wikilink")填词的《[夜空的彼岸](../Page/夜空的彼岸.md "wikilink")》成为SMAP首支百万销量认证的单曲，\[29\]\[30\] 同时该单曲也入选中学生音乐教科书。\[31\]
 
 ### 2000年代
 
@@ -117,50 +104,37 @@ SMAP出道之时，作为偶像主要活动范围的音乐节目开始接连关�
 
 2002年，“”整体观众出席次数达到115万人次，\[33\] 成为日本歌手巡回演唱会出席人数的最高记录。\[34\]
 
-2003年，《[世界上唯一的花](../Page/世界上唯一的花.md "wikilink")》达到“双百万”销量。\[35\]
-它起初是作为由草彅刚主演的电视剧《》的主题曲，随着电视剧的播出而得到了极大关注，后制作成单曲发行而突破258万张销量。在第54届《[NHK红白歌合战](../Page/NHK红白歌合战.md "wikilink")》中，SMAP因为演唱这首歌而成为该节目25年来第一次由流行歌手唱大轴。
+2003年，《[世界上唯一的花](../Page/世界上唯一的花.md "wikilink")》达到“双百万”销量。\[35\] 它起初是作为由草彅刚主演的电视剧《》的主题曲，随着电视剧的播出而得到了极大关注，后制作成单曲发行而突破258万张销量。在第54届《[NHK红白歌合战](../Page/NHK红白歌合战.md "wikilink")》中，SMAP因为演唱这首歌而成为该节目25年来第一次由流行歌手唱大轴。
 
-2005年，时隔两年之后，SMAP再度举办巡回演唱会。本次巡回演唱会于当年7月30日在[札幌巨蛋开始](../Page/札幌巨蛋.md "wikilink")，并首次在[国立霞丘陆上竞技场举办演唱会](https://zh.wikipedia.org/wiki/国立霞丘陆上竞技场 "wikilink")。\[36\]
-巡回演唱会开始之后，SMAP在同一时间发布了单曲《》和专辑《》，这两张唱片在发售当周就空降单曲榜和专辑榜首位。在三人以上组合里，同时拿下单曲榜和专辑榜首位的上一个记录还是12年前的[WANDS在](../Page/WANDS.md "wikilink")1993年所创造。12月19日，SMAP达成[Oricon史上第四组唱片总销量破](../Page/Oricon.md "wikilink")2000万的艺人。在2002年1月11日的《[SMAPXSMAP](https://zh.wikipedia.org/wiki/SMAPXSMAP "wikilink")》“”环节里，日本宇航员[毛利卫和](https://zh.wikipedia.org/wiki/毛利卫 "wikilink")[野口聪一作为嘉宾参加](https://zh.wikipedia.org/wiki/野口聪一 "wikilink")。作为当日获胜者稲垣吾郎和香取慎吾所做的饭菜以及野口聪一所喜欢的草彅刚制作的[咖喱被野口聪一在](https://zh.wikipedia.org/wiki/咖喱 "wikilink")2005年7月26日随着美国航天飞机[发现号一统进入太空](https://zh.wikipedia.org/wiki/发现号 "wikilink")，同时《世界上唯一的花》还作为清晨唤醒曲在太空中奏响。在第56届《NHK红白歌合战》中，《世界上唯一的花》第二次作为大轴曲登场。
+2005年，时隔两年之后，SMAP再度举办巡回演唱会。本次巡回演唱会于当年7月30日在[札幌巨蛋](../Page/札幌巨蛋.md "wikilink")开始，并首次在[国立霞丘陆上竞技场举办演唱会](https://zh.wikipedia.org/wiki/国立霞丘陆上竞技场 "wikilink")。\[36\] 巡回演唱会开始之后，SMAP在同一时间发布了单曲《》和专辑《》，这两张唱片在发售当周就空降单曲榜和专辑榜首位。在三人以上组合里，同时拿下单曲榜和专辑榜首位的上一个记录还是12年前的[WANDS](../Page/WANDS.md "wikilink")在1993年所创造。12月19日，SMAP达成[Oricon](../Page/Oricon.md "wikilink")史上第四组唱片总销量破2000万的艺人。在2002年1月11日的《[SMAPXSMAP](https://zh.wikipedia.org/wiki/SMAPXSMAP "wikilink")》“”环节里，日本宇航员[毛利卫和](https://zh.wikipedia.org/wiki/毛利卫 "wikilink")[野口聪一作为嘉宾参加](https://zh.wikipedia.org/wiki/野口聪一 "wikilink")。作为当日获胜者稲垣吾郎和香取慎吾所做的饭菜以及野口聪一所喜欢的草彅刚制作的[咖喱被野口聪一在](https://zh.wikipedia.org/wiki/咖喱 "wikilink")2005年7月26日随着美国航天飞机[发现号一统进入太空](https://zh.wikipedia.org/wiki/发现号 "wikilink")，同时《世界上唯一的花》还作为清晨唤醒曲在太空中奏响。在第56届《NHK红白歌合战》中，《世界上唯一的花》第二次作为大轴曲登场。
 
 2006年，“”举行。
 
 2007年1月18日，由日本文化厅和日本家长教师协会全国委员会主办的“亲子合唱日语歌曲100首（）”活动中，《世界上唯一的花》入选。
 
-2008年，SMAP于2005年发行的单曲《》入选日本高中音乐教材。\[37\]
-同年，SMAP连续六天在[东京巨蛋举办演唱会](https://zh.wikipedia.org/wiki/东京巨蛋 "wikilink")，创下当时记录。\[38\]
+2008年，SMAP于2005年发行的单曲《》入选日本高中音乐教材。\[37\] 同年，SMAP连续六天在[东京巨蛋举办演唱会](https://zh.wikipedia.org/wiki/东京巨蛋 "wikilink")，创下当时记录。\[38\]
 
 ### 2010年代
 
-2010年9月，达成日本人演出上座率千万人次突破。\[39\]\[40\]
-同年，四度作为《[NHK红白歌合战](../Page/NHK红白歌合战.md "wikilink")》大轴演出嘉宾出战。
+2010年9月，达成日本人演出上座率千万人次突破。\[39\]\[40\] 同年，四度作为《[NHK红白歌合战](../Page/NHK红白歌合战.md "wikilink")》大轴演出嘉宾出战。
 
 2011年9月，两度延后的SMAP海外演唱会在[北京上演](https://zh.wikipedia.org/wiki/北京 "wikilink")。\[41\]
 
-2013年3月15日，与[日本环球影城达成限时合作项目](https://zh.wikipedia.org/wiki/日本环球影城 "wikilink")“”启动，\[42\]
-影城娱乐设施背景音乐单曲《[Mistake\!/Battery](https://zh.wikipedia.org/wiki/Mistake!/Battery "wikilink")》的原始版本和混音版本在2月27日发售。\[43\]
-2014年4月18日，被日本环球影城任命为首任形象大使。\[44\]
+2013年3月15日，与[日本环球影城达成限时合作项目](https://zh.wikipedia.org/wiki/日本环球影城 "wikilink")“”启动，\[42\] 影城娱乐设施背景音乐单曲《[Mistake\!/Battery](https://zh.wikipedia.org/wiki/Mistake!/Battery "wikilink")》的原始版本和混音版本在2月27日发售。\[43\] 2014年4月18日，被日本环球影城任命为首任形象大使。\[44\]
 
 2014年，SMAP出任[富士电视网台庆特别节目](https://zh.wikipedia.org/wiki/富士电视网 "wikilink")《》主持。\[45\]
 
-2016年9月9日，SMAP单曲《[世界上唯一的花](../Page/世界上唯一的花.md "wikilink")》累积发行量300万。\[46\]\[47\]
-成为[日本唱片协会认定的](https://zh.wikipedia.org/wiki/日本唱片协会 "wikilink")“[三百万单曲](https://zh.wikipedia.org/wiki/日本唱片協會#.E9.8A.B7.E9.87.8F.E8.AA.8D.E8.AD.89 "wikilink")”。\[48\]\[49\]
+2016年9月9日，SMAP单曲《[世界上唯一的花](../Page/世界上唯一的花.md "wikilink")》累积发行量300万。\[46\]\[47\] 成为[日本唱片协会认定的](https://zh.wikipedia.org/wiki/日本唱片协会 "wikilink")“[三百万单曲](https://zh.wikipedia.org/wiki/日本唱片協會#.E9.8A.B7.E9.87.8F.E8.AA.8D.E8.AD.89 "wikilink")”。\[48\]\[49\]
 
 ### 解散
 
-2016年1月13日，有报道称，从一直支持并担任SMAP首席[经纪人的](https://zh.wikipedia.org/wiki/经纪人 "wikilink")[饭岛三智从](https://zh.wikipedia.org/wiki/饭岛三智 "wikilink")[杰尼斯事务所辞职后](https://zh.wikipedia.org/wiki/杰尼斯事务所 "wikilink")，除木村拓哉之外的中居正广、稲垣吾郎、草彅刚和香取慎吾也有跟随饭岛一同离开的意图。因此有关SMAP即将解散的消息被《體育日本》、《[日刊體育](../Page/日刊體育.md "wikilink")》等娱乐媒体广泛报道。\[50\]\[51\]
-随后，周刊、电视娱乐节目也纷纷加入到这场解散风波的连日报道中。在传闻出来后的第五天，也就是1月18日，在五人共同主持的综艺节目《[SMAPXSMAP](https://zh.wikipedia.org/wiki/SMAPXSMAP "wikilink")》的直播中，五人就解散风波向粉丝及大众谢罪，并表示解散一事是可以避免的。\[52\]\[53\]
-解散风波后，杰尼斯事务所工作人员与业务相关机构就SMAP存续问题进行了深切讨论。同年8月14日凌晨，SMAP所属经纪公司杰尼斯事务所以[传真形式通知各大媒体](https://zh.wikipedia.org/wiki/传真 "wikilink")，宣布SMAP将于2016年12月31日正式解散。\[54\]
-同时事务所还宣布，解散后的五名成员将以个体艺人的身份展开活动。\[55\]\[56\]
+2016年1月13日，有报道称，从一直支持并担任SMAP首席[经纪人的](https://zh.wikipedia.org/wiki/经纪人 "wikilink")[饭岛三智从](https://zh.wikipedia.org/wiki/饭岛三智 "wikilink")[杰尼斯事务所辞职后](https://zh.wikipedia.org/wiki/杰尼斯事务所 "wikilink")，除木村拓哉之外的中居正广、稲垣吾郎、草彅刚和香取慎吾也有跟随饭岛一同离开的意图。因此有关SMAP即将解散的消息被《體育日本》、《[日刊體育](../Page/日刊體育.md "wikilink")》等娱乐媒体广泛报道。\[50\]\[51\] 随后，周刊、电视娱乐节目也纷纷加入到这场解散风波的连日报道中。在传闻出来后的第五天，也就是1月18日，在五人共同主持的综艺节目《[SMAPXSMAP](https://zh.wikipedia.org/wiki/SMAPXSMAP "wikilink")》的直播中，五人就解散风波向粉丝及大众谢罪，并表示解散一事是可以避免的。\[52\]\[53\] 解散风波后，杰尼斯事务所工作人员与业务相关机构就SMAP存续问题进行了深切讨论。同年8月14日凌晨，SMAP所属经纪公司杰尼斯事务所以[传真形式通知各大媒体](https://zh.wikipedia.org/wiki/传真 "wikilink")，宣布SMAP将于2016年12月31日正式解散。\[54\] 同时事务所还宣布，解散后的五名成员将以个体艺人的身份展开活动。\[55\]\[56\]
 
-2016年12月23日，杰尼斯事务所再度发布声明，表明SMAP不会出演今年的《[NHK红白歌合战](../Page/NHK红白歌合战.md "wikilink")》。\[57\]\[58\]
-同年12月26日，在SMAP冠名节目《[SMAPXSMAP](https://zh.wikipedia.org/wiki/SMAPXSMAP "wikilink")》的“最终回SP”上，SMAP在最后阶段演唱了《[世界上唯一的花](../Page/世界上唯一的花.md "wikilink")》。\[59\]\[60\]
+2016年12月23日，杰尼斯事务所再度发布声明，表明SMAP不会出演今年的《[NHK红白歌合战](../Page/NHK红白歌合战.md "wikilink")》。\[57\]\[58\] 同年12月26日，在SMAP冠名节目《[SMAPXSMAP](https://zh.wikipedia.org/wiki/SMAPXSMAP "wikilink")》的“最终回SP”上，SMAP在最后阶段演唱了《[世界上唯一的花](../Page/世界上唯一的花.md "wikilink")》。\[59\]\[60\]
 
 ## 花边新闻
 
-  - 2016年，SMAP组合的歌曲《[Original
-    Smile](../Page/Original_Smile.md "wikilink")》、《[夜空的彼岸](../Page/夜空的彼岸.md "wikilink")》、《》和《[世界上唯一的花](../Page/世界上唯一的花.md "wikilink")》被日本初中和高中的音乐教科书所采用。\[61\]
-    《世界上唯一的花》歌词不仅音乐教科书采用，还被英语教科书所采用。\[62\]
+  - 2016年，SMAP组合的歌曲《[Original Smile](../Page/Original_Smile.md "wikilink")》、《[夜空的彼岸](../Page/夜空的彼岸.md "wikilink")》、《》和《[世界上唯一的花](../Page/世界上唯一的花.md "wikilink")》被日本初中和高中的音乐教科书所采用。\[61\] 《世界上唯一的花》歌词不仅音乐教科书采用，还被英语教科书所采用。\[62\]
 
 <!-- end list -->
 
@@ -168,8 +142,7 @@ SMAP出道之时，作为偶像主要活动范围的音乐节目开始接连关�
 
 <!-- end list -->
 
-  - 通常情况下，由杰尼斯事务所旗下艺人担纲主演的电视剧主题曲往往也由杰尼斯旗下艺人所负责。但是SMAP所出演的戏剧却没有，这是比较罕见的，特别是在木村拓哉主演的戏剧里。\[64\]
-    不过由木村出演却非主演的电视剧《》却使用了SMAP所演唱的歌曲《》作为主题曲。
+  - 通常情况下，由杰尼斯事务所旗下艺人担纲主演的电视剧主题曲往往也由杰尼斯旗下艺人所负责。但是SMAP所出演的戏剧却没有，这是比较罕见的，特别是在木村拓哉主演的戏剧里。\[64\] 不过由木村出演却非主演的电视剧《》却使用了SMAP所演唱的歌曲《》作为主题曲。
 
 ## 组合记录
 
@@ -179,15 +152,13 @@ SMAP出道之时，作为偶像主要活动范围的音乐节目开始接连关�
 
 <!-- end list -->
 
-  - 《[世界上唯一的花（单曲版本）](../Page/世界上唯一的花.md "wikilink")》于2016年获得300万销量认证。\[65\]\[66\]
+  - 《[世界上唯一的花](../Page/世界上唯一的花.md "wikilink")（单曲版本）》于2016年获得300万销量认证。\[65\]\[66\]
       - 21世纪，[单曲CD销量第一名](https://zh.wikipedia.org/wiki/单曲CD "wikilink")；\[67\]
       - [Oricon公信榜](../Page/Oricon公信榜.md "wikilink")[历代单曲总销量榜第三名](../Page/日本最暢銷單曲列表.md "wikilink")；\[68\]
       - 1980年代以来，[日本流行音乐类单曲CD销量第一名](https://zh.wikipedia.org/wiki/日本流行音乐 "wikilink")。\[69\]
       - Oricon公信榜排名200名以内保持周数最长（100名以内以保持146周位居第四）。<ref>
 
-[【オリコン】SMAPに“300万枚”の花束
-「世界に一つだけの花」が騒動後40万枚増](https://www.oricon.co.jp/news/2082944/amp/),ORICONSTYLE
-2016年12月13日</ref>
+[【オリコン】SMAPに“300万枚”の花束 「世界に一つだけの花」が騒動後40万枚増](https://www.oricon.co.jp/news/2082944/amp/),ORICONSTYLE 2016年12月13日</ref>
 
   - TOP10作品拥有数：55首（史上第二名，男子组史上第一名；总第一名为[早安少女组](https://zh.wikipedia.org/wiki/早安少女组 "wikilink")）。
       - 连续拥有TOP10作品数第一名。\[70\]
@@ -216,7 +187,7 @@ SMAP出道之时，作为偶像主要活动范围的音乐节目开始接连关�
 
 **单曲**
 
-1.  [世界上唯一的花（单曲版本）](../Page/世界上唯一的花.md "wikilink")
+1.  [世界上唯一的花](../Page/世界上唯一的花.md "wikilink")（单曲版本）
 
 2.  [夜空的彼岸](../Page/夜空的彼岸.md "wikilink")
 
@@ -242,8 +213,7 @@ SMAP出道之时，作为偶像主要活动范围的音乐节目开始接连关�
 6.
 7.
 8.
-9.  [SMAP
-    016/MIJ](https://zh.wikipedia.org/wiki/SMAP_016/MIJ "wikilink")
+9.  [SMAP 016/MIJ](https://zh.wikipedia.org/wiki/SMAP_016/MIJ "wikilink")
 
 10.
 **DVD**
@@ -341,8 +311,7 @@ SMAP出道之时，作为偶像主要活动范围的音乐节目开始接连关�
 
 ### 其他
 
-  - 1991年11月“第22届日本歌谣大奖”优秀放送音乐新人奖：[Can't Stop\!\!
-    -LOVING-](../Page/Can't_Stop!!_-LOVING-.md "wikilink")
+  - 1991年11月“第22届日本歌谣大奖”优秀放送音乐新人奖：[Can't Stop\!\! -LOVING-](../Page/Can't_Stop!!_-LOVING-.md "wikilink")
 
 <!-- end list -->
 
@@ -354,7 +323,7 @@ SMAP出道之时，作为偶像主要活动范围的音乐节目开始接连关�
 
 <!-- end list -->
 
-  - [NHK红白歌合战中](../Page/NHK红白歌合战.md "wikilink")：
+  - [NHK红白歌合战](../Page/NHK红白歌合战.md "wikilink")中：
       - 历代出演嘉宾中，唯一既担任“开场嘉宾”又担任“大轴嘉宾”的歌手；
       - 表演时段在2000年、2003年、2005年至2007年、2010年至2012年间八次位居节目第一。
 
@@ -661,7 +630,7 @@ SMAP出道之时，作为偶像主要活动范围的音乐节目开始接连关�
 <tr class="odd">
 <td><p>35</p></td>
 <td><p><a href="../Page/2003年.md" title="wikilink">2003年</a><a href="../Page/3月5日.md" title="wikilink">3月5日</a></p></td>
-<td><p>''' <a href="../Page/世界上唯一的花.md" title="wikilink">世界上唯一的花（单曲版本）</a> '''</p></td>
+<td><p>''' <a href="../Page/世界上唯一的花.md" title="wikilink">世界上唯一的花</a>（单曲版本） '''</p></td>
 <td><p>1位</p></td>
 <td><p>CD</p></td>
 <td><p>VICL-35477</p></td>
@@ -767,7 +736,7 @@ VIZL-888</p></td>
 <td><p>1位</p></td>
 <td><p>CD（通常盘）<br />
 CD+DVD（初回限定盘）<br />
-CD+DVD（<a href="../Page/7-Eleven.md" title="wikilink">7-Eleven网店限定盘</a>）</p></td>
+CD+DVD（<a href="../Page/7-Eleven.md" title="wikilink">7-Eleven</a>网店限定盘）</p></td>
 <td><p>VICL-37777<br />
 VIZL-999<br />
 SSS-001</p></td>
@@ -958,8 +927,7 @@ VIZL-1255</p></td>
 #### 其他单曲
 
   - **以“”的名义发表**
-      - 《[微笑战士
-        音乐忍者](https://zh.wikipedia.org/wiki/微笑战士_音乐忍者 "wikilink")》（1992年10月10日）
+      - 《[微笑战士 音乐忍者](https://zh.wikipedia.org/wiki/微笑战士_音乐忍者 "wikilink")》（1992年10月10日）
 
 <!-- end list -->
 
@@ -977,8 +945,7 @@ VIZL-1255</p></td>
 
   - **海外限定**
       - 《[世界上唯一的花](../Page/世界上唯一的花.md "wikilink")》（2011年3月18日・中国）
-      - 《[你好
-        SMAP\!](https://zh.wikipedia.org/wiki/We_are_SMAP "wikilink")》（2011年7月5日・中国）
+      - 《[你好 SMAP\!](https://zh.wikipedia.org/wiki/We_are_SMAP "wikilink")》（2011年7月5日・中国）
       - 《[夜空的彼岸](../Page/夜空的彼岸.md "wikilink")》（2011年・中国）
 
 <!-- end list -->
@@ -990,8 +957,7 @@ VIZL-1255</p></td>
 
 #### 录音室专辑
 
-SMAP专辑名早期都以“001”为始的序数进行命名，“010”为录像作品（参见后面的录像作品）。同时从《006》之后，SMAP的专辑名也开始加入其它内容；后期则完全不用序号命名。而且从《Pop
-Up\! SMAP》开始，SMAP的专辑发行频率降至两年一张。
+SMAP专辑名早期都以“001”为始的序数进行命名，“010”为录像作品（参见后面的录像作品）。同时从《006》之后，SMAP的专辑名也开始加入其它内容；后期则完全不用序号命名。而且从《Pop Up\! SMAP》开始，SMAP的专辑发行频率降至两年一张。
 
 <table>
 <thead>
@@ -1474,10 +1440,9 @@ Up\! SMAP》开始，SMAP的专辑发行频率降至两年一张。
 
   - （1992年-1995年，富士电视台）
 
-  - （1993年-1996年，[朝日放送电视台](../Page/朝日放送.md "wikilink")）
+  - （1993年-1996年，[朝日放送](../Page/朝日放送.md "wikilink")电视台）
 
-  - （1993年-1997年，[NHK
-    BS2](https://zh.wikipedia.org/wiki/NHK_BS2 "wikilink")）
+  - （1993年-1997年，[NHK BS2](https://zh.wikipedia.org/wiki/NHK_BS2 "wikilink")）
 
   - （1994年-1996年，日本电视台）
 
@@ -1500,10 +1465,7 @@ Up\! SMAP》开始，SMAP的专辑发行频率降至两年一张。
 <!-- end list -->
 
   - [NHK红白歌合战](../Page/NHK红白歌合战.md "wikilink")（1991年-2015年，[NHK](https://zh.wikipedia.org/wiki/NHK "wikilink")）
-      - 2003年、2005年、2010年-2013年五次大轴演出。2001年和2004年辞演。在2016年传出SMAP解散的消息之后，直至最后一刻，NHK也在于杰尼斯事务所沟通，希望能将NHK红白歌合战作为SMAP的最后出演舞台。\[74\]
-        但是该提议遭到了事务所的拒绝，并表示这是事务所的最终决定，也是SMAP所有成员的最终考虑结果。\[75\]
-        NHK最终表示接受“SMAP成员的最终意愿”，\[76\]
-        因而2015年的NHK红白歌合战为SMAP的最终出战演出。
+      - 2003年、2005年、2010年-2013年五次大轴演出。2001年和2004年辞演。在2016年传出SMAP解散的消息之后，直至最后一刻，NHK也在于杰尼斯事务所沟通，希望能将NHK红白歌合战作为SMAP的最后出演舞台。\[74\] 但是该提议遭到了事务所的拒绝，并表示这是事务所的最终决定，也是SMAP所有成员的最终考虑结果。\[75\] NHK最终表示接受“SMAP成员的最终意愿”，\[76\] 因而2015年的NHK红白歌合战为SMAP的最终出战演出。
 
 <!-- end list -->
 
@@ -1515,7 +1477,7 @@ Up\! SMAP》开始，SMAP的专辑发行频率降至两年一张。
 
   - （1993年-1999年、2002年、2003年、2005年-2015年、朝日电视台）
 
-      - 1993年作为开场嘉宾登台；1996年和1999年作为大轴演出嘉宾登台。在本节目中，是除[安室奈美惠之外的第二组拥有开场嘉宾和大轴嘉宾双身份的嘉宾](../Page/安室奈美惠.md "wikilink")。
+      - 1993年作为开场嘉宾登台；1996年和1999年作为大轴演出嘉宾登台。在本节目中，是除[安室奈美惠](../Page/安室奈美惠.md "wikilink")之外的第二组拥有开场嘉宾和大轴嘉宾双身份的嘉宾。
 
 <!-- end list -->
 
@@ -1526,17 +1488,16 @@ Up\! SMAP》开始，SMAP的专辑发行频率降至两年一张。
 
   - （1995年-2015年，[日本电视台](https://zh.wikipedia.org/wiki/日本电视台 "wikilink")）
 
-      - 每年播出一次，限定圣诞节期间。1995年播出第一期的时候，[森且行也出演了](../Page/森且行.md "wikilink")。
+      - 每年播出一次，限定圣诞节期间。1995年播出第一期的时候，[森且行](../Page/森且行.md "wikilink")也出演了。
 
 <!-- end list -->
 
   - [24小时电视「爱心救地球」](https://zh.wikipedia.org/wiki/24小时电视「爱心救地球」 "wikilink")（1995年，[日本电视网](../Page/日本電視網協議會.md "wikilink")）
-      - 1995年，[久本雅美和SMAP全员出任该节目主持人](../Page/久本雅美.md "wikilink")。
+      - 1995年，[久本雅美](../Page/久本雅美.md "wikilink")和SMAP全员出任该节目主持人。
 
 <!-- end list -->
 
-  - SMAP・[TOKIO](https://zh.wikipedia.org/wiki/TOKIO "wikilink")・[KinKi
-    Kids最初和最后的聚集SP](https://zh.wikipedia.org/wiki/KinKi_Kids "wikilink")（1995年10月8日，日本电视台）
+  - SMAP・[TOKIO](https://zh.wikipedia.org/wiki/TOKIO "wikilink")・[KinKi Kids最初和最后的聚集SP](https://zh.wikipedia.org/wiki/KinKi_Kids "wikilink")（1995年10月8日，日本电视台）
 
 <!-- end list -->
 
@@ -1588,9 +1549,7 @@ Up\! SMAP》开始，SMAP的专辑发行频率降至两年一张。
 
 <!-- end list -->
 
-  - [CDTV特别节目
-    除夕夜首映直播](../Page/COUNT_DOWN_TV.md "wikilink")（2010年末-，[TBS电视台](https://zh.wikipedia.org/wiki/TBS电视台 "wikilink")
-    ）
+  - [CDTV特别节目 除夕夜首映直播](../Page/COUNT_DOWN_TV.md "wikilink")（2010年末-，[TBS电视台](https://zh.wikipedia.org/wiki/TBS电视台 "wikilink") ）
 
 <!-- end list -->
 
@@ -1602,8 +1561,7 @@ Up\! SMAP》开始，SMAP的专辑发行频率降至两年一张。
 
 <!-- end list -->
 
-  - （2012年-，[NHK综合频道](https://zh.wikipedia.org/wiki/NHK综合频道 "wikilink")、[NHK
-    BS Premium](../Page/NHK_BS_Premium.md "wikilink")）\[77\]）
+  - （2012年-，[NHK综合频道](https://zh.wikipedia.org/wiki/NHK综合频道 "wikilink")、[NHK BS Premium](../Page/NHK_BS_Premium.md "wikilink")）\[77\]）
 
 <!-- end list -->
 
@@ -1621,8 +1579,7 @@ Up\! SMAP》开始，SMAP的专辑发行频率降至两年一张。
 
 <!-- end list -->
 
-  - [BEST
-    HIT歌谣祭](https://zh.wikipedia.org/wiki/BEST_HIT歌谣祭 "wikilink")（2013年，[读卖电视台](https://zh.wikipedia.org/wiki/读卖电视台 "wikilink")、日本电视台）
+  - [BEST HIT歌谣祭](https://zh.wikipedia.org/wiki/BEST_HIT歌谣祭 "wikilink")（2013年，[读卖电视台](https://zh.wikipedia.org/wiki/读卖电视台 "wikilink")、日本电视台）
 
 <!-- end list -->
 
@@ -1637,12 +1594,9 @@ Up\! SMAP》开始，SMAP的专辑发行频率降至两年一张。
 
   - 70周年特别应援企划 特别主持人\[78\]
 
-      - NHK骄傲歌喉
-        [神奈川县](https://zh.wikipedia.org/wiki/神奈川县 "wikilink")[秦野市](../Page/秦野市.md "wikilink")（2015年8月30日，NHK）
-      - SMAP企划NHK骄傲歌喉 in
-        [山田町](https://zh.wikipedia.org/wiki/山田町 "wikilink")（2015年9月26日，NHK）
-      - NHK骄傲歌喉
-        [千叶县](https://zh.wikipedia.org/wiki/千叶县 "wikilink")[柏市](../Page/柏市.md "wikilink")（2015年12月6日，NHK）
+      - NHK骄傲歌喉 [神奈川县](https://zh.wikipedia.org/wiki/神奈川县 "wikilink")[秦野市](../Page/秦野市.md "wikilink")（2015年8月30日，NHK）
+      - SMAP企划NHK骄傲歌喉 in [山田町](https://zh.wikipedia.org/wiki/山田町 "wikilink")（2015年9月26日，NHK）
+      - NHK骄傲歌喉 [千叶县](https://zh.wikipedia.org/wiki/千叶县 "wikilink")[柏市](../Page/柏市.md "wikilink")（2015年12月6日，NHK）
       - NHK骄傲歌喉冠军大赛2016（2016年1月11日，NHK）
 
 ### NHK红白歌合战
@@ -1915,8 +1869,7 @@ Triangle（三度演出）→</p></td>
 
 ### FNS歌谣祭
 
-SMAP初次出演“[FNS歌谣祭](https://zh.wikipedia.org/wiki/FNS歌谣祭 "wikilink")”（[富士电视网](https://zh.wikipedia.org/wiki/富士电视网 "wikilink")）是在1991年，除2002年\[79\]
-和2004年\[80\] 之外，SMAP均参演。2016年宣布解散之后，相继以无新曲发布而辞演各音乐节目。故，SMAP最后一次参演为2015年。
+SMAP初次出演“[FNS歌谣祭](https://zh.wikipedia.org/wiki/FNS歌谣祭 "wikilink")”（[富士电视网](https://zh.wikipedia.org/wiki/富士电视网 "wikilink")）是在1991年，除2002年\[79\] 和2004年\[80\] 之外，SMAP均参演。2016年宣布解散之后，相继以无新曲发布而辞演各音乐节目。故，SMAP最后一次参演为2015年。
 
 1991年至1998年的演出资料欠奉，1999年以后资料见下表：
 
@@ -2425,8 +2378,7 @@ SMAP初次出演“[FNS歌谣祭](https://zh.wikipedia.org/wiki/FNS歌谣祭 "wi
 
 <!-- end list -->
 
-  - [古畑任三郎特别番](../Page/古畑任三郎.md "wikilink")“古畑任三郎 vs
-    SMAP”（1999年1月3日播出，[富士电视网](https://zh.wikipedia.org/wiki/富士电视网 "wikilink")）
+  - [古畑任三郎](../Page/古畑任三郎.md "wikilink")特别番“古畑任三郎 vs SMAP”（1999年1月3日播出，[富士电视网](https://zh.wikipedia.org/wiki/富士电视网 "wikilink")）
       - SMAP成员五人悉数出演。是《[古畑任三郎](../Page/古畑任三郎.md "wikilink")》播出史上首度由演员在剧集中本名出演。（2006年1月播出的“古畑任三郎FINAL”第二夜中，[铃木一郎也在剧集中本名演出](https://zh.wikipedia.org/wiki/铃木一郎 "wikilink")，打破了SMAP保持的唯一记录。）
       - 2006年10月9日作为《》第一集播出，重播收视率高达22.7%。
 
@@ -2435,7 +2387,7 @@ SMAP初次出演“[FNS歌谣祭](https://zh.wikipedia.org/wiki/FNS歌谣祭 "wi
   - （2001年1月1日播出，富士电视台）
 
       - 成员每人担纲一个故事的主角。
-      - 2008年4月28日，该剧作为“”的一部分在《电视剧传奇特别番》中重播。本版新增了[塔摩利的背景介绍部分](../Page/塔摩利.md "wikilink")，创下18.1%的收视率。
+      - 2008年4月28日，该剧作为“”的一部分在《电视剧传奇特别番》中重播。本版新增了[塔摩利](../Page/塔摩利.md "wikilink")的背景介绍部分，创下18.1%的收视率。
 
 <!-- end list -->
 
@@ -2469,8 +2421,7 @@ SMAP初次出演“[FNS歌谣祭](https://zh.wikipedia.org/wiki/FNS歌谣祭 "wi
 
   - （1991年10月7日-2012年3月，文化放送）——2012年4月起，节目改由稲垣吾郎一人独立主持，但节目未更名。
 
-  - SMAP的All
-    Night日本（1993年6月12日・第2部、2003年6月25日・第1部，[日本放送](../Page/日本放送.md "wikilink")）
+  - SMAP的All Night日本（1993年6月12日・第2部、2003年6月25日・第1部，[日本放送](../Page/日本放送.md "wikilink")）
 
   - 紧急出动SMAP（1993年-，TBS广播）
 
@@ -2525,18 +2476,15 @@ SMAP初次出演“[FNS歌谣祭](https://zh.wikipedia.org/wiki/FNS歌谣祭 "wi
 
 <!-- end list -->
 
-  - [日本电视台](https://zh.wikipedia.org/wiki/日本电视台 "wikilink")
-    职棒剧空间（1996年，1997年）
+  - [日本电视台](https://zh.wikipedia.org/wiki/日本电视台 "wikilink") 职棒剧空间（1996年，1997年）
 
 <!-- end list -->
 
   - [艾尼克斯](../Page/艾尼克斯.md "wikilink")（后改名为[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")）
       - [勇者斗恶龙VII 伊甸的战士们](../Page/勇者斗恶龙VII_伊甸的战士们.md "wikilink")（2000年）
-      - [勇者斗恶龙VIII
-        天空、碧海、大地与被诅咒的公主](../Page/勇者斗恶龙VIII_天空、碧海、大地与被诅咒的公主.md "wikilink")（2004年）
+      - [勇者斗恶龙VIII 天空、碧海、大地与被诅咒的公主](../Page/勇者斗恶龙VIII_天空、碧海、大地与被诅咒的公主.md "wikilink")（2004年）
       - [勇者斗恶龙IX 星空的守护者](../Page/勇者斗恶龙IX_星空的守护者.md "wikilink")（2009年）
-      - [勇者斗恶龙X 觉醒的五种族
-        Online](../Page/勇者斗恶龙X_觉醒的五种族_Online.md "wikilink")（2012年）
+      - [勇者斗恶龙X 觉醒的五种族 Online](../Page/勇者斗恶龙X_觉醒的五种族_Online.md "wikilink")（2012年）
 
 <!-- end list -->
 
@@ -2557,8 +2505,7 @@ SMAP初次出演“[FNS歌谣祭](https://zh.wikipedia.org/wiki/FNS歌谣祭 "wi
 
 <!-- end list -->
 
-  - [大塚制药](https://zh.wikipedia.org/wiki/大塚制药 "wikilink")
-    [寶礦力水特](../Page/寶礦力水特.md "wikilink")（2007年，2008年）
+  - [大塚制药](https://zh.wikipedia.org/wiki/大塚制药 "wikilink") [寶礦力水特](../Page/寶礦力水特.md "wikilink")（2007年，2008年）
 
 <!-- end list -->
 
@@ -2567,8 +2514,7 @@ SMAP初次出演“[FNS歌谣祭](https://zh.wikipedia.org/wiki/FNS歌谣祭 "wi
 
       - （2009年）
 
-      - [iPhone
-        3G](https://zh.wikipedia.org/wiki/iPhone_3G "wikilink")（2010年）
+      - [iPhone 3G](https://zh.wikipedia.org/wiki/iPhone_3G "wikilink")（2010年）
 
       - （2011年）
 
@@ -2631,9 +2577,9 @@ SMAP初次出演“[FNS歌谣祭](https://zh.wikipedia.org/wiki/FNS歌谣祭 "wi
 
   - 青年偶像棒球大赛（）（1988年6月）
 
-  - [朝日放送青年偶像棒球大赛](../Page/朝日放送.md "wikilink")（1992年7月12日）
+  - [朝日放送](../Page/朝日放送.md "wikilink")青年偶像棒球大赛（1992年7月12日）
 
-  - [明治大学骏河台祭](../Page/明治大学.md "wikilink")（992年11月2日）
+  - [明治大学](../Page/明治大学.md "wikilink")骏河台祭（992年11月2日）
 
   - 朝日放送青年偶像棒球大赛（1993年6月19日）
 
@@ -2641,8 +2587,7 @@ SMAP初次出演“[FNS歌谣祭](https://zh.wikipedia.org/wiki/FNS歌谣祭 "wi
 
   - （2011年4月2日至4月3日、2012年3月11日）
 
-  - “[日本职棒](https://zh.wikipedia.org/wiki/日本棒球機構 "wikilink")
-    [巨人对](../Page/讀賣巨人.md "wikilink")[阪神](../Page/阪神虎.md "wikilink")”开幕战庆典（2014年3月28日）
+  - “[日本职棒](https://zh.wikipedia.org/wiki/日本棒球機構 "wikilink") [巨人对](../Page/讀賣巨人.md "wikilink")[阪神](../Page/阪神虎.md "wikilink")”开幕战庆典（2014年3月28日）
 
 ## 演唱会
 
@@ -3166,7 +3111,7 @@ SMAP初次出演“[FNS歌谣祭](https://zh.wikipedia.org/wiki/FNS歌谣祭 "wi
 <td><p>单次演唱会</p></td>
 <td><p><a href="../Page/9月16日.md" title="wikilink">9月16日</a></p></td>
 <td><p>1个场地1公演</p></td>
-<td><p>SMAP初の海外公演となるコンサート。昨年<a href="https://zh.wikipedia.org/wiki/上海市" title="wikilink">上海での</a><a href="https://zh.wikipedia.org/wiki/上海国际博覧会" title="wikilink">万博イベント</a>・コンサートが予定されていたが、安全上の理由などで共に中止となっていた。公演発表に伴って、舞台公演で欠席した稲垣を除くSMAPメンバーと<a href="../Page/温家宝.md" title="wikilink">温家宝首相との面会が行われた</a>。コンサートの内容自体は昨年行われた「We are SMAP! 2010 SMAP CONCERT TOUR」と殆ど同じで、一部を中国语で歌唱するなど手が加えられた。公演时间は约2时间、観客动员数は4万人。</p></td>
+<td><p>SMAP初の海外公演となるコンサート。昨年<a href="https://zh.wikipedia.org/wiki/上海市" title="wikilink">上海での</a><a href="https://zh.wikipedia.org/wiki/上海国际博覧会" title="wikilink">万博イベント</a>・コンサートが予定されていたが、安全上の理由などで共に中止となっていた。公演発表に伴って、舞台公演で欠席した稲垣を除くSMAPメンバーと<a href="../Page/温家宝.md" title="wikilink">温家宝</a>首相との面会が行われた。コンサートの内容自体は昨年行われた「We are SMAP! 2010 SMAP CONCERT TOUR」と殆ど同じで、一部を中国语で歌唱するなど手が加えられた。公演时间は约2时间、観客动员数は4万人。</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -3199,7 +3144,7 @@ SMAP初次出演“[FNS歌谣祭](https://zh.wikipedia.org/wiki/FNS歌谣祭 "wi
 <td><p>巡回演唱会</p></td>
 <td><p><a href="../Page/8月23日.md" title="wikilink">8月23日</a> - <a href="../Page/12月24日.md" title="wikilink">12月24日</a></p></td>
 <td><p>6个场地22公演</p></td>
-<td><p>2010年から2年ぶりの巡回演唱会。観客动员数は2006年の巡回演唱会「Pop Up! SMAP - 飞びます! トビだす! とびスマ? TOUR」以来6年ぶりに100万人を突破した。サプライズゲストとして<a href="../Page/山下智久.md" title="wikilink">山下智久や</a><a href="../Page/少女时代.md" title="wikilink">少女时代が出演し</a>、<a href="https://zh.wikipedia.org/wiki/Kis-My-Ft2" title="wikilink">Kis-My-Ft2の</a><a href="../Page/北山宏光.md" title="wikilink">北山宏光と</a><a href="https://zh.wikipedia.org/wiki/藤ヶ谷太辅" title="wikilink">藤ヶ谷太辅がバックダンサーとして参加した</a>。</p></td>
+<td><p>2010年から2年ぶりの巡回演唱会。観客动员数は2006年の巡回演唱会「Pop Up! SMAP - 飞びます! トビだす! とびスマ? TOUR」以来6年ぶりに100万人を突破した。サプライズゲストとして<a href="../Page/山下智久.md" title="wikilink">山下智久</a>や<a href="../Page/少女时代.md" title="wikilink">少女时代</a>が出演し、<a href="https://zh.wikipedia.org/wiki/Kis-My-Ft2" title="wikilink">Kis-My-Ft2の</a><a href="../Page/北山宏光.md" title="wikilink">北山宏光</a>と<a href="https://zh.wikipedia.org/wiki/藤ヶ谷太辅" title="wikilink">藤ヶ谷太辅がバックダンサーとして参加した</a>。</p></td>
 </tr>
 <tr class="even">
 <td><p>札幌巨蛋、东京巨蛋、味の素スタジアム、ナゴヤドーム、京セラドーム大阪、福冈Yahoo!JAPANドーム</p></td>
@@ -3238,11 +3183,11 @@ SMAP初次出演“[FNS歌谣祭](https://zh.wikipedia.org/wiki/FNS歌谣祭 "wi
 
 ## 滑板男孩（SMAP前身）
 
-**滑板男孩**（，）是[杰尼斯事务所所属的一个](https://zh.wikipedia.org/wiki/杰尼斯事务所 "wikilink")[偶像](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[男子组合](../Page/男子音乐组合.md "wikilink")，成立于1987年秋天。该团体被认为是**SMAP**组合的前身，首次亮相是在同事务所的[光GENJI的歌曲](../Page/光GENJI.md "wikilink")《[玻璃的十代](../Page/玻璃的十代.md "wikilink")》作为伴舞群出现。
+**滑板男孩**（，）是[杰尼斯事务所所属的一个](https://zh.wikipedia.org/wiki/杰尼斯事务所 "wikilink")[偶像](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[男子组合](../Page/男子音乐组合.md "wikilink")，成立于1987年秋天。该团体被认为是**SMAP**组合的前身，首次亮相是在同事务所的[光GENJI](../Page/光GENJI.md "wikilink")的歌曲《[玻璃的十代](../Page/玻璃的十代.md "wikilink")》作为伴舞群出现。
 
 而在光GENJI的歌曲《》中，滑板男孩不仅负责伴舞，还要负责[轮滑](../Page/轮滑.md "wikilink")。1988年4月，组合的正式12名成员在各大娱乐杂志上亮相。但是，即便如此，还是有部分成员未能集体亮相。滑板男孩组合的成员一度多达20余人。
 
-事务所从滑板男孩中选定六个人，组成了“SMAP”。在SMAP组成的早期，成员在SMAP和滑板男孩中都保留了成员身份。在SMAP的成员甄选时，滑板男孩中的、，和还是[小杰尼斯的](https://zh.wikipedia.org/wiki/小杰尼斯 "wikilink")[坂本昌行](../Page/坂本昌行.md "wikilink")、佐藤功、[国分太一都曾作为SMAP的候补队员出现过](../Page/国分太一.md "wikilink")。（其中国分太一和坂本昌行还是先成为SMAP候补队员，然后再加入到滑板男孩中的。）
+事务所从滑板男孩中选定六个人，组成了“SMAP”。在SMAP组成的早期，成员在SMAP和滑板男孩中都保留了成员身份。在SMAP的成员甄选时，滑板男孩中的、，和还是[小杰尼斯的](https://zh.wikipedia.org/wiki/小杰尼斯 "wikilink")[坂本昌行](../Page/坂本昌行.md "wikilink")、佐藤功、[国分太一](../Page/国分太一.md "wikilink")都曾作为SMAP的候补队员出现过。（其中国分太一和坂本昌行还是先成为SMAP候补队员，然后再加入到滑板男孩中的。）
 
 SMAP正式出道之后，滑板男孩剩下的成员组成“”继续活动，但也有部分成员在1990年代早期选择退社。
 
@@ -3285,8 +3230,8 @@ SMAP正式出道之后，滑板男孩剩下的成员组成“”继续活动，�
 
 </dl>
 <ul>
-<li><p>（从杰尼斯事务所退社后，参加<a href="../Page/WANDS.md" title="wikilink">WANDS第</a>3期歌手甄选，后以“和久二郎”艺名再次出道。）</p></li>
-<li>松原一平 （初始成员。原<a href="../Page/光GENJI.md" title="wikilink">光GENJI候补成员</a>。）</li>
+<li><p>（从杰尼斯事务所退社后，参加<a href="../Page/WANDS.md" title="wikilink">WANDS</a>第3期歌手甄选，后以“和久二郎”艺名再次出道。）</p></li>
+<li>松原一平 （初始成员。原<a href="../Page/光GENJI.md" title="wikilink">光GENJI</a>候补成员。）</li>
 </ul></td>
 </tr>
 </tbody>
@@ -3321,8 +3266,7 @@ SMAP正式出道之后，滑板男孩剩下的成员组成“”继续活动，�
 
 ### 花絮
 
-在[SMAPXSMAP的环节](https://zh.wikipedia.org/wiki/SMAPXSMAP "wikilink")“唱吧！偶像Kick
-Off”中，五人的装扮被认为是“滑板男孩”时代的再现。
+在[SMAPXSMAP的环节](https://zh.wikipedia.org/wiki/SMAPXSMAP "wikilink")“唱吧！偶像Kick Off”中，五人的装扮被认为是“滑板男孩”时代的再现。
 
 ## 参考资料
 
@@ -3342,20 +3286,7 @@ Off”中，五人的装扮被认为是“滑板男孩”时代的再现。
   - [杰尼斯事务所官网SMAP公式站](https://web.archive.org/web/20161126182408/http://www.johnnys-net.jp/page?id=artistTop&artist=6)
   - [株式會社JVC建伍勝利娛樂官网SMAP公式站](http://www.jvcmusic.co.jp/-/Discography/A002763/-.html)
 
-[Category:SMAP](https://zh.wikipedia.org/wiki/Category:SMAP "wikilink")
-[Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink")
-[Category:日本流行音樂歌手](https://zh.wikipedia.org/wiki/Category:日本流行音樂歌手 "wikilink")
-[Category:前傑尼斯事務所所屬團體](https://zh.wikipedia.org/wiki/Category:前傑尼斯事務所所屬團體 "wikilink")
-[Category:日本男子偶像團體](https://zh.wikipedia.org/wiki/Category:日本男子偶像團體 "wikilink")
-[Category:Oricon單曲年榜冠軍獲得者](https://zh.wikipedia.org/wiki/Category:Oricon單曲年榜冠軍獲得者 "wikilink")
-[Category:Oricon音樂相關影像作品年榜冠軍獲得者](https://zh.wikipedia.org/wiki/Category:Oricon音樂相關影像作品年榜冠軍獲得者 "wikilink")
-[Category:Oricon卡拉OK年榜冠軍獲得者](https://zh.wikipedia.org/wiki/Category:Oricon卡拉OK年榜冠軍獲得者 "wikilink")
-[Category:曾舉行五大巨蛋巡迴演唱會的音樂人](https://zh.wikipedia.org/wiki/Category:曾舉行五大巨蛋巡迴演唱會的音樂人 "wikilink")
-[Category:曾在日產體育場舉行演唱會的音樂人](https://zh.wikipedia.org/wiki/Category:曾在日產體育場舉行演唱會的音樂人 "wikilink")
-[Category:曾在國立霞丘陸上競技場舉行演唱會的音樂人](https://zh.wikipedia.org/wiki/Category:曾在國立霞丘陸上競技場舉行演唱會的音樂人 "wikilink")
-[Category:1988年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1988年成立的音樂團體 "wikilink")
-[Category:2016年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年解散的音樂團體 "wikilink")
-[Category:勝利娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:勝利娛樂旗下藝人 "wikilink")
+[Category:SMAP](https://zh.wikipedia.org/wiki/Category:SMAP "wikilink") [Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink") [Category:日本流行音樂歌手](https://zh.wikipedia.org/wiki/Category:日本流行音樂歌手 "wikilink") [Category:前傑尼斯事務所所屬團體](https://zh.wikipedia.org/wiki/Category:前傑尼斯事務所所屬團體 "wikilink") [Category:日本男子偶像團體](https://zh.wikipedia.org/wiki/Category:日本男子偶像團體 "wikilink") [Category:Oricon單曲年榜冠軍獲得者](https://zh.wikipedia.org/wiki/Category:Oricon單曲年榜冠軍獲得者 "wikilink") [Category:Oricon音樂相關影像作品年榜冠軍獲得者](https://zh.wikipedia.org/wiki/Category:Oricon音樂相關影像作品年榜冠軍獲得者 "wikilink") [Category:Oricon卡拉OK年榜冠軍獲得者](https://zh.wikipedia.org/wiki/Category:Oricon卡拉OK年榜冠軍獲得者 "wikilink") [Category:曾舉行五大巨蛋巡迴演唱會的音樂人](https://zh.wikipedia.org/wiki/Category:曾舉行五大巨蛋巡迴演唱會的音樂人 "wikilink") [Category:曾在日產體育場舉行演唱會的音樂人](https://zh.wikipedia.org/wiki/Category:曾在日產體育場舉行演唱會的音樂人 "wikilink") [Category:曾在國立霞丘陸上競技場舉行演唱會的音樂人](https://zh.wikipedia.org/wiki/Category:曾在國立霞丘陸上競技場舉行演唱會的音樂人 "wikilink") [Category:1988年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1988年成立的音樂團體 "wikilink") [Category:2016年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年解散的音樂團體 "wikilink") [Category:勝利娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:勝利娛樂旗下藝人 "wikilink")
 
 1.
 2.
@@ -3426,19 +3357,13 @@ Off”中，五人的装扮被认为是“滑板男孩”时代的再现。
 
 48.
 49.
-50. [SMAP分裂危機\!“育ての親”退社に4人同調、キムタクは残留](http://www.sponichi.co.jp/entertainment/news/2016/01/13/kiji/K20160113011849710.html)（Sponichi
-    Annex/[體育日本](https://zh.wikipedia.org/wiki/體育日本 "wikilink")
-    2016年1月13日付）
+50. [SMAP分裂危機\!“育ての親”退社に4人同調、キムタクは残留](http://www.sponichi.co.jp/entertainment/news/2016/01/13/kiji/K20160113011849710.html)（Sponichi Annex/[體育日本](https://zh.wikipedia.org/wiki/體育日本 "wikilink") 2016年1月13日付）
 
-51. [SMAP解散へ\!木村拓哉以外ジャニーズから独立](http://www.nikkansports.com/entertainment/news/1591422.html)（[日刊體育](../Page/日刊體育.md "wikilink")
-    2016年1月13日付）
+51. [SMAP解散へ\!木村拓哉以外ジャニーズから独立](http://www.nikkansports.com/entertainment/news/1591422.html)（[日刊體育](../Page/日刊體育.md "wikilink") 2016年1月13日付）
 
-52. [SMAP存続へ 解散騒動を謝罪
-    生番組に5人出演](http://mainichi.jp/articles/20160119/k00/00m/040/110000c)（[毎日新聞](https://zh.wikipedia.org/wiki/毎日新聞 "wikilink")
-    2016年1月18日付）
+52. [SMAP存続へ 解散騒動を謝罪 生番組に5人出演](http://mainichi.jp/articles/20160119/k00/00m/040/110000c)（[毎日新聞](https://zh.wikipedia.org/wiki/毎日新聞 "wikilink") 2016年1月18日付）
 
-53. [SMAP存続\!キムタク直訴電から「空中分解」回避…スマスマで謝罪](http://www.sponichi.co.jp/entertainment/news/2016/01/19/kiji/K20160119011882940.html)（Sponichi
-    Annex/體育日本 2016年1月19日付）
+53. [SMAP存続\!キムタク直訴電から「空中分解」回避…スマスマで謝罪](http://www.sponichi.co.jp/entertainment/news/2016/01/19/kiji/K20160119011882940.html)（Sponichi Annex/體育日本 2016年1月19日付）
 
 54.
 
@@ -3455,9 +3380,7 @@ Off”中，五人的装扮被认为是“滑板男孩”时代的再现。
 61.
 62.
 63.
-64. 「[2/2 主演俳優を出していると主題歌も](http://allabout.co.jp/gm/gc/312876/2/)」[All
-    About](https://zh.wikipedia.org/wiki/All_About "wikilink")
-    2014年7月14日閲覧。
+64. 「[2/2 主演俳優を出していると主題歌も](http://allabout.co.jp/gm/gc/312876/2/)」[All About](https://zh.wikipedia.org/wiki/All_About "wikilink") 2014年7月14日閲覧。
 
 65.
 66.
@@ -3472,8 +3395,7 @@ Off”中，五人的装扮被认为是“滑板男孩”时代的再现。
 72.
 
 73.
-74. [SMAP紅白辞退！正式断り、生出演もなく解散へ](http://www.nikkansports.com/entertainment/news/1755407.html)
-    日刊スポーツ,2016年12月23日
+74. [SMAP紅白辞退！正式断り、生出演もなく解散へ](http://www.nikkansports.com/entertainment/news/1755407.html) 日刊スポーツ,2016年12月23日
 
 75.
 

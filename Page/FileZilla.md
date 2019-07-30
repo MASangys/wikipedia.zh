@@ -15,13 +15,12 @@ FileZilla在2003年11月獲選為[SourceForge.net當月最佳推薦專案](https
   - 支持[SFTP](https://zh.wikipedia.org/wiki/SFTP "wikilink")（Secure FTP）
   - 可以排队进行上传、下载
   - 支持拖放
-  - 多国语言支持，包括[简体](https://zh.wikipedia.org/wiki/简体中文 "wikilink")、[繁体中文](https://zh.wikipedia.org/wiki/繁体中文 "wikilink")（[Linux平台需額外安裝](../Page/Linux.md "wikilink")「filezilla-locales」套件）
-  - 可通过[Kerberos进行](../Page/Kerberos.md "wikilink")[GSS验证与加密](https://zh.wikipedia.org/wiki/GSS "wikilink")
+  - 多国语言支持，包括[简体](https://zh.wikipedia.org/wiki/简体中文 "wikilink")、[繁体中文](https://zh.wikipedia.org/wiki/繁体中文 "wikilink")（[Linux](../Page/Linux.md "wikilink")平台需額外安裝「filezilla-locales」套件）
+  - 可通过[Kerberos](../Page/Kerberos.md "wikilink")进行[GSS验证与加密](https://zh.wikipedia.org/wiki/GSS "wikilink")
 
 ## 参见
 
-  - [FileZilla
-    伺服器](https://zh.wikipedia.org/wiki/FileZilla_伺服器 "wikilink")
+  - [FileZilla 伺服器](https://zh.wikipedia.org/wiki/FileZilla_伺服器 "wikilink")
   - [FTP客户端比较](../Page/FTP客户端比较.md "wikilink")
 
 ## 參考資料
@@ -37,8 +36,7 @@ FileZilla在2003年11月獲選為[SourceForge.net當月最佳推薦專案](https
   - [官方網站](https://filezilla-project.org/)
   - [專案站台](http://sourceforge.net/projects/filezilla/) (SourceForge.net)
   - [FileZilla Wiki](http://filezilla-project.org/wiki)
-  - [可攜式
-    FileZilla](http://portableapps.com/apps/internet/ftp/portable_filezilla)
+  - [可攜式 FileZilla](http://portableapps.com/apps/internet/ftp/portable_filezilla)
   - [FileZilla使用教學](http://inote.tw/2006/10/filezilla.html)
 
 ### 參與中文翻譯
@@ -46,9 +44,6 @@ FileZilla在2003年11月獲選為[SourceForge.net當月最佳推薦專案](https
   - [FileZilla開發及翻譯討論區](http://forum.filezilla-project.org/viewforum.php?f=3)
   - [FileZilla翻譯計劃首頁](http://filezilla-project.org/translations.php)
 
-[Category:FTP客户端](https://zh.wikipedia.org/wiki/Category:FTP客户端 "wikilink")
-[Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink")
-[Category:开源软件](https://zh.wikipedia.org/wiki/Category:开源软件 "wikilink")
-[Category:SourceForge專案](https://zh.wikipedia.org/wiki/Category:SourceForge專案 "wikilink")
+[Category:FTP客户端](https://zh.wikipedia.org/wiki/Category:FTP客户端 "wikilink") [Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink") [Category:开源软件](https://zh.wikipedia.org/wiki/Category:开源软件 "wikilink") [Category:SourceForge專案](https://zh.wikipedia.org/wiki/Category:SourceForge專案 "wikilink")
 
 1.  [Project of the Month](http://sourceforge.net/potm/potm-2003-11.php)

@@ -1,6 +1,6 @@
 **算法**（），中文亦称**弗洛伊德算法**，是解决任意两点间的[最短路径的一种](https://zh.wikipedia.org/wiki/最短路径 "wikilink")[算法](../Page/算法.md "wikilink")\[1\]，可以正確處理[有向圖或负权](https://zh.wikipedia.org/wiki/有向圖 "wikilink")（但不可存在负权回路）的最短路径問題，同时也被用于计算有向图的传递闭包\[2\]。
 
-算法的[时间复杂度為](../Page/时间复杂度.md "wikilink")\(O(N^3)\)\[3\]，[空间复杂度为](https://zh.wikipedia.org/wiki/空间复杂度 "wikilink")\(O(N^2)\)。
+算法的[时间复杂度](../Page/时间复杂度.md "wikilink")為\(O(N^3)\)\[3\]，[空间复杂度为](https://zh.wikipedia.org/wiki/空间复杂度 "wikilink")\(O(N^2)\)。
 
 ## 原理
 
@@ -23,8 +23,7 @@
 `2 `**`for``   ``each`**` vertex `*`v`*
 `3    dist[`*`v`*`][`*`v`*`] ← 0`
 `4 `**`for``   ``each`**` edge (`*`u`*`,`*`v`*`)`
-`5    dist[`*`u`*`][`*`v`*`] ← w(`*`u`*`,`*`v`*`)  `*`//``   ``the``
- ``weight``   ``of``   ``the``   ``edge``   ``(`*`u`*`,`*`v'')`
+`5    dist[`*`u`*`][`*`v`*`] ← w(`*`u`*`,`*`v`*`)  `*`//``   ``the``   ``weight``   ``of``   ``the``   ``edge``   ``(`*`u`*`,`*`v'')`
 `6 `**`for`**` `*`k`*` `**`from`**` 1 `**`to`**` |V|`
 `7    `**`for`**` `*`i`*` `**`from`**` 1 `**`to`**` |V|`
 `8       `**`for`**` `*`j`*` `**`from`**` 1 `**`to`**` |V|`
@@ -47,8 +46,7 @@
   - [Dijkstra算法](https://zh.wikipedia.org/wiki/Dijkstra算法 "wikilink")
   - [Bellman-Ford算法](https://zh.wikipedia.org/wiki/Bellman-Ford算法 "wikilink")
 
-[Category:图算法](https://zh.wikipedia.org/wiki/Category:图算法 "wikilink")
-[Category:多项式时间问题](https://zh.wikipedia.org/wiki/Category:多项式时间问题 "wikilink")
+[Category:图算法](https://zh.wikipedia.org/wiki/Category:图算法 "wikilink") [Category:多项式时间问题](https://zh.wikipedia.org/wiki/Category:多项式时间问题 "wikilink")
 
 1.
 2.

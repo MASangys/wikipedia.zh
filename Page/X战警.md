@@ -1,5 +1,4 @@
-**X戰警**（）是[漫威漫畫的](../Page/漫威漫畫.md "wikilink")[超級英雄團體](https://zh.wikipedia.org/wiki/超級英雄 "wikilink")，由[斯坦·李和](https://zh.wikipedia.org/wiki/斯坦·李 "wikilink")[杰克·科比創作](../Page/杰克·科比.md "wikilink")，初次登場於1963年9月漫畫X-Men
-\#1中。與其相關的書在當今美國主流漫畫界十分賣座，並於2000年推出同名電影，全球票房收入達3億美元，其系列電影迄今已拍攝10部。
+**X戰警**（）是[漫威漫畫](../Page/漫威漫畫.md "wikilink")的[超級英雄團體](https://zh.wikipedia.org/wiki/超級英雄 "wikilink")，由[斯坦·李和](https://zh.wikipedia.org/wiki/斯坦·李 "wikilink")[杰克·科比](../Page/杰克·科比.md "wikilink")創作，初次登場於1963年9月漫畫X-Men \#1中。與其相關的書在當今美國主流漫畫界十分賣座，並於2000年推出同名電影，全球票房收入達3億美元，其系列電影迄今已拍攝10部。
 
 ## 出場人物
 
@@ -102,7 +101,7 @@
   - [快銀](../Page/快銀.md "wikilink")（Quicksilver）
     原名:皮特罗·馬克西莫夫（Pietro Maximoff）
     異能:高速移動。
-    定位：萬磁王之子,與姐姐[緋紅女巫一起加入復仇者](../Page/緋紅女巫.md "wikilink")。
+    定位：萬磁王之子,與姐姐[緋紅女巫](../Page/緋紅女巫.md "wikilink")一起加入復仇者。
 
 <!-- end list -->
 
@@ -212,15 +211,13 @@
   - Marvel's X-Men (Acclaim)
   - X-Men (1992, Konami)
   - X-Men: Mutant Apocalypse (Capcom)
-  - [X戰警：磁場原子人](https://zh.wikipedia.org/wiki/X戰警：磁場原子人 "wikilink")
-    (1994, Capcom)
+  - [X戰警：磁場原子人](https://zh.wikipedia.org/wiki/X戰警：磁場原子人 "wikilink") (1994, Capcom)
   - Marvel Super-Heroes (1995, Capcom)
   - X-Men vs. Street Fighter (1996, Capcom)
   - Marvel Super Heroes vs. Street Fighter (1997, Capcom)
   - Marvel vs. Capcom: Clash of Super Heroes (1998, Capcom)
   - Marvel vs. Capcom 2: New Age of Heroes (2000, Capcom)
-  - [X戰警](https://zh.wikipedia.org/wiki/X戰警_\(1993年遊戲\) "wikilink")
-    (Sega)
+  - [X戰警](https://zh.wikipedia.org/wiki/X戰警_\(1993年遊戲\) "wikilink") (Sega)
   - [X戰警2：複製人大戰](../Page/X戰警2：複製人大戰.md "wikilink") (Sega)
   - X-Men: Mutant Wars
   - X-men: Wolverine's Rage
@@ -242,31 +239,14 @@
 
   - [官方主頁](http://www.marvel.com/publishing/showcomic.htm?id=4)
   - [Chronology.Net](http://www.chronology.net/)（X戰警劇本）
-  - [*Children of The
-    Atom*](http://www.redjacketpress.com/books/children_of_the_atom.html)
-  - [GameFAQ's Comic Book FAQ:
-    X-Men](https://web.archive.org/web/20050905212941/http://www.knightmare6.com/faq/x-men/)
+  - [*Children of The Atom*](http://www.redjacketpress.com/books/children_of_the_atom.html)
+  - [GameFAQ's Comic Book FAQ: X-Men](https://web.archive.org/web/20050905212941/http://www.knightmare6.com/faq/x-men/)
   - [UncannyXmen.net](http://uncannyxmen.net/)
-  - [DRG4's X-Men the Animated Series
-    Page](http://members.aol.com/drg4/x.html)
+  - [DRG4's X-Men the Animated Series Page](http://members.aol.com/drg4/x.html)
   - [mutanthigh.com](http://mutanthigh.com)
   - [X戰警中心](https://web.archive.org/web/20061129051745/http://www.freewebs.com/thexmencentral/)
 
-[Category:X戰警](https://zh.wikipedia.org/wiki/Category:X戰警 "wikilink")
-[Category:漫威漫畫超級英雄戰隊](https://zh.wikipedia.org/wiki/Category:漫威漫畫超級英雄戰隊 "wikilink")
-[Category:虚构组织](https://zh.wikipedia.org/wiki/Category:虚构组织 "wikilink")
-[Category:漫威漫畫突變型](https://zh.wikipedia.org/wiki/Category:漫威漫畫突變型 "wikilink")
-[Category:漫威漫畫作品](https://zh.wikipedia.org/wiki/Category:漫威漫畫作品 "wikilink")
-[Category:台視外購動畫](https://zh.wikipedia.org/wiki/Category:台視外購動畫 "wikilink")
-[Category:亞洲電視外購動畫](https://zh.wikipedia.org/wiki/Category:亞洲電視外購動畫 "wikilink")
-[Category:1963年首次发行的漫画](https://zh.wikipedia.org/wiki/Category:1963年首次发行的漫画 "wikilink")
+[Category:X戰警](https://zh.wikipedia.org/wiki/Category:X戰警 "wikilink") [Category:漫威漫畫超級英雄戰隊](https://zh.wikipedia.org/wiki/Category:漫威漫畫超級英雄戰隊 "wikilink") [Category:虚构组织](https://zh.wikipedia.org/wiki/Category:虚构组织 "wikilink") [Category:漫威漫畫突變型](https://zh.wikipedia.org/wiki/Category:漫威漫畫突變型 "wikilink") [Category:漫威漫畫作品](https://zh.wikipedia.org/wiki/Category:漫威漫畫作品 "wikilink") [Category:台視外購動畫](https://zh.wikipedia.org/wiki/Category:台視外購動畫 "wikilink") [Category:亞洲電視外購動畫](https://zh.wikipedia.org/wiki/Category:亞洲電視外購動畫 "wikilink") [Category:1963年首次发行的漫画](https://zh.wikipedia.org/wiki/Category:1963年首次发行的漫画 "wikilink")
 
-1.  [1](http://marvel.com/comics/events/331/marvel_now_2016) ，In the
-    aftermath of Civil War II, the Marvel Universe explodes with new
-    heroes, new villains, new teams, and more\! The greatest creators in
-    comics provide a fresh take on the best characters ever beginning in
-    October 2016\!。
-2.  [2](http://marvel.com/comics/events/335/resurrxion)，In the wake of
-    war with the Inhumans, the X-Men regroup for a new era of action and
-    excitement\! Experience the next bold chapter in the saga of
-    Marvel's mutant heroes\!。
+1.  [1](http://marvel.com/comics/events/331/marvel_now_2016) ，In the aftermath of Civil War II, the Marvel Universe explodes with new heroes, new villains, new teams, and more\! The greatest creators in comics provide a fresh take on the best characters ever beginning in October 2016\!。
+2.  [2](http://marvel.com/comics/events/335/resurrxion)，In the wake of war with the Inhumans, the X-Men regroup for a new era of action and excitement\! Experience the next bold chapter in the saga of Marvel's mutant heroes\!。

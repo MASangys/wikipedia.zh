@@ -1,11 +1,8 @@
-**O**, **o**
-是[拉丁字母中的第](../Page/拉丁字母.md "wikilink")15个[字母](../Page/字母.md "wikilink")。
+**O**, **o** 是[拉丁字母](../Page/拉丁字母.md "wikilink")中的第15个[字母](../Page/字母.md "wikilink")。
 
-在[希腊语](https://zh.wikipedia.org/wiki/希腊语 "wikilink") [Ο
-(Omicron)](https://zh.wikipedia.org/wiki/Ο "wikilink")、[伊特鲁里亚语和](https://zh.wikipedia.org/wiki/伊特鲁里亚语 "wikilink")[拉丁语中](../Page/拉丁语.md "wikilink")，**O**表示元音／o／。虽然闪族语字母[Ayin在一些字母表中被用来作为转写](https://zh.wikipedia.org/wiki/Ayin "wikilink")\[o\]，但是它的通常都作为辅音\[/ʕ/\]使用，如[阿拉伯字母ع](../Page/阿拉伯字母.md "wikilink")
-'ʿAyn'。
+在[希腊语](https://zh.wikipedia.org/wiki/希腊语 "wikilink") [Ο (Omicron)](https://zh.wikipedia.org/wiki/Ο "wikilink")、[伊特鲁里亚语和](https://zh.wikipedia.org/wiki/伊特鲁里亚语 "wikilink")[拉丁语](../Page/拉丁语.md "wikilink")中，**O**表示元音／o／。虽然闪族语字母[Ayin在一些字母表中被用来作为转写](https://zh.wikipedia.org/wiki/Ayin "wikilink")\[o\]，但是它的通常都作为辅音\[/ʕ/\]使用，如[阿拉伯字母](../Page/阿拉伯字母.md "wikilink")ع 'ʿAyn'。
 
-在[北约音标字母中](../Page/北约音标字母.md "wikilink")，O被稱為*Oscar*。
+在[北约音标字母](../Page/北约音标字母.md "wikilink")中，O被稱為*Oscar*。
 
 ## 字母O的含意
 

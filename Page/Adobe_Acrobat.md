@@ -1,12 +1,9 @@
-**Adobe
-Acrobat**是由**[Adobe公司](../Page/Adobe.md "wikilink")**所開發的電子文書處理軟體集，可用於閱讀、編輯、管理和共享[PDF文檔](https://zh.wikipedia.org/wiki/PDF "wikilink")。
+**Adobe Acrobat**是由**[Adobe](../Page/Adobe.md "wikilink")公司**所開發的電子文書處理軟體集，可用於閱讀、編輯、管理和共享[PDF文檔](https://zh.wikipedia.org/wiki/PDF "wikilink")。
 
 一般包含如下套件：
 
-  - **Adobe
-    Acrobat**，包括專業版和標準版。用於對[PDF文件進行編輯](https://zh.wikipedia.org/wiki/PDF "wikilink")、共享和管理，需要購買，而3D版本，除了專業版的功能，另外也支援立體向量圖片的轉檔。
-  - **Acrobat Reader**（2003年至2014年期间，曾使用Adobe
-    Reader作为名称），用於閱讀[PDF文件](https://zh.wikipedia.org/wiki/PDF "wikilink")，為免費發放。
+  - **Adobe Acrobat**，包括專業版和標準版。用於對[PDF文件進行編輯](https://zh.wikipedia.org/wiki/PDF "wikilink")、共享和管理，需要購買，而3D版本，除了專業版的功能，另外也支援立體向量圖片的轉檔。
+  - **Acrobat Reader**（2003年至2014年期间，曾使用Adobe Reader作为名称），用於閱讀[PDF文件](https://zh.wikipedia.org/wiki/PDF "wikilink")，為免費發放。
 
 ## 歷史
 
@@ -24,13 +21,11 @@ Acrobat**是由**[Adobe公司](../Page/Adobe.md "wikilink")**所開發的電子�
 | Farallon Computing      | Replica          |
 | Interleaf               | WorldView        |
 
-Acrobat在90年代後期成為實質上的標準格式，其它競爭產品漸漸走入歷史。這時又有許多新的競爭對手逐一出現，它們推出了其他的PDF相關軟體，其中有[Ghostscript](../Page/Ghostscript.md "wikilink")、[Foxit與](https://zh.wikipedia.org/wiki/Foxit "wikilink")[Nitro
-PDF](https://zh.wikipedia.org/wiki/Nitro_PDF "wikilink")，免費或需付費版本皆有，用於建立與修改PDF檔。Adobe同時也允許第三方開發Acrobat的外掛程式，以便賦予軟體更多額外功能。
+Acrobat在90年代後期成為實質上的標準格式，其它競爭產品漸漸走入歷史。這時又有許多新的競爭對手逐一出現，它們推出了其他的PDF相關軟體，其中有[Ghostscript](../Page/Ghostscript.md "wikilink")、[Foxit與](https://zh.wikipedia.org/wiki/Foxit "wikilink")[Nitro PDF](https://zh.wikipedia.org/wiki/Nitro_PDF "wikilink")，免費或需付費版本皆有，用於建立與修改PDF檔。Adobe同時也允許第三方開發Acrobat的外掛程式，以便賦予軟體更多額外功能。
 
 ### 產品名稱
 
-Adobe會不定期調整產品系列的名稱，也會再把產品分為不同系列、合併或停止開發。在第三版與第五版之間，標準版和專業版合併為Adobe
-Acrobat。現時的主要產品如下：
+Adobe會不定期調整產品系列的名稱，也會再把產品分為不同系列、合併或停止開發。在第三版與第五版之間，標準版和專業版合併為Adobe Acrobat。現時的主要產品如下：
 
 #### Win32及UWP應用程序
 
@@ -58,8 +53,7 @@ Acrobat。現時的主要產品如下：
   - SendNow
   - Workspaces
 
-Adobe從未推出Adobe Writer或Acrobat
-Writer，儘管Adobe曾有一個稱為PDFWriter的印表機驅動程式，與上述兩者之間毫無關連。
+Adobe從未推出Adobe Writer或Acrobat Writer，儘管Adobe曾有一個稱為PDFWriter的印表機驅動程式，與上述兩者之間毫無關連。
 
 ## 版本演進
 
@@ -81,7 +75,7 @@ Writer，儘管Adobe曾有一個稱為PDFWriter的印表機驅動程式，與上
 <li>支援PDF1.0版。</li>
 <li>隨附Acrobat Exchange 1（包含PDF Writer印表機驅動程式與Acrobat Exchange軟體）。</li>
 <li>Acrobat Distiller 1.0可從<a href="https://zh.wikipedia.org/wiki/Post_Script" title="wikilink">Post Script建立PDF檔</a>（此階段沒有印表機驅動程式）。</li>
-<li>先推出<a href="https://zh.wikipedia.org/wiki/Macintosh" title="wikilink">Macintosh版</a>，之後再推出<a href="../Page/DOS.md" title="wikilink">DOS版與</a><a href="https://zh.wikipedia.org/wiki/Windows" title="wikilink">Windows</a> 3.1版。</li>
+<li>先推出<a href="https://zh.wikipedia.org/wiki/Macintosh" title="wikilink">Macintosh版</a>，之後再推出<a href="../Page/DOS.md" title="wikilink">DOS</a>版與<a href="https://zh.wikipedia.org/wiki/Windows" title="wikilink">Windows</a> 3.1版。</li>
 <li>此版未提供零售或免費版，整套軟體連同Acrobat Reader售價為50美元。隨後<a href="https://zh.wikipedia.org/wiki/IRS" title="wikilink">IRS買下發放Reader</a> 1.0的權力，用戶可透過IRS免費取得此軟體。</li>
 </ul></td>
 </tr>
@@ -195,7 +189,7 @@ Writer，儘管Adobe曾有一個稱為PDFWriter的印表機驅動程式，與上
 <td><p>2003年4月</p></td>
 <td><p><a href="../Page/Windows_NT_4.0.md" title="wikilink">Windows NT 4.0SP</a>6</p></td>
 <td><ul>
-<li>此版不支援<a href="../Page/Linux.md" title="wikilink">Linux與</a><a href="https://zh.wikipedia.org/wiki/Unix" title="wikilink">Unix</a>。</li>
+<li>此版不支援<a href="../Page/Linux.md" title="wikilink">Linux</a>與<a href="https://zh.wikipedia.org/wiki/Unix" title="wikilink">Unix</a>。</li>
 <li>支援PDF1.5或更早之版本。此版可經由Microsoft Windows CryptoAPI支援PKI，無需另外安裝外掛程式。</li>
 <li>Acrobat 6.0 Professional：取代Acrobat 5.0並增加全新功能。Distriller印表機驅動程式改名為Adobe PDF、取消PDFWriter。整合新版Catalog，並且不支援舊版搜尋。</li>
 <li>Acrobat 6.0 Standard：內含Distriller但缺少Catalog、表格填寫和印前預檢等。</li>
@@ -248,7 +242,7 @@ Writer，儘管Adobe曾有一個稱為PDFWriter的印表機驅動程式，與上
 <li>支援PDF1.6或更早之版本。新增支援Adobe Policy Server權限管理。</li>
 <li>更新至7.1.0。</li>
 <li>此版本不再支援Windows 98第二版與Windows ME。</li>
-<li>Acrobat 7.0 Professional：包含Adobe LiveCycle Designer 7.0（僅支援Windows），可進行<a href="../Page/XML.md" title="wikilink">XML表格設計</a>（不同且不支援先前版本），可嵌入.u3d Universal 3D格式的3D物件。首次納入具爭議的強制產品啟動功能。</li>
+<li>Acrobat 7.0 Professional：包含Adobe LiveCycle Designer 7.0（僅支援Windows），可進行<a href="../Page/XML.md" title="wikilink">XML</a>表格設計（不同且不支援先前版本），可嵌入.u3d Universal 3D格式的3D物件。首次納入具爭議的強制產品啟動功能。</li>
 <li>推出Acrobat 7.0 Standard。</li>
 <li>推出Acrobat 7.0 Element（最低授權用戶數目為100名）。</li>
 <li>Acrobat 3D（僅提供Windows版）：包括Acrobat 7.0 Professional版的所有功能，並支援嵌入3D物件、從OpenGL軟體擷取3D物件的工具，以及將CAD文件轉成PDF物件的Adobe Acrobat 3D Toolkit。此外還包含一個可安裝於Unix的擷取工具。</li>
@@ -534,6 +528,4 @@ Reader Touch是Adobe爲Windows 8/8.1/RT/RT8.1/10系統中提供的Metro版Reader
 
 </div>
 
-[Category:Adobe软件](https://zh.wikipedia.org/wiki/Category:Adobe软件 "wikilink")
-[Category:PDF软件](https://zh.wikipedia.org/wiki/Category:PDF软件 "wikilink")
-[Category:跨平台軟體](https://zh.wikipedia.org/wiki/Category:跨平台軟體 "wikilink")
+[Category:Adobe软件](https://zh.wikipedia.org/wiki/Category:Adobe软件 "wikilink") [Category:PDF软件](https://zh.wikipedia.org/wiki/Category:PDF软件 "wikilink") [Category:跨平台軟體](https://zh.wikipedia.org/wiki/Category:跨平台軟體 "wikilink")

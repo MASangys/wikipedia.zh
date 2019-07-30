@@ -1,5 +1,4 @@
-**Debian 3.1**又称为Debian
-sarge，是Debian的稳定版，发行于2005年6月6日。里面的软件包基本不再变化，只做安全更新。
+**Debian 3.1**又称为Debian sarge，是Debian的稳定版，发行于2005年6月6日。里面的软件包基本不再变化，只做安全更新。
 
 ## 新特性\[1\]
 
@@ -10,8 +9,7 @@ sarge，是Debian的稳定版，发行于2005年6月6日。里面的软件包基
   - [HP PA-RISC](https://zh.wikipedia.org/wiki/HP_PA-RISC "wikilink")
   - [Intel x86](https://zh.wikipedia.org/wiki/Intel_x86 "wikilink")
   - [Intel IA-64](https://zh.wikipedia.org/wiki/Intel_IA-64 "wikilink")
-  - [Motorola
-    680x0](https://zh.wikipedia.org/wiki/Motorola_680x0 "wikilink")
+  - [Motorola 680x0](https://zh.wikipedia.org/wiki/Motorola_680x0 "wikilink")
   - [MIPS](https://zh.wikipedia.org/wiki/MIPS "wikilink")
   - [MIPS (DEC)](https://zh.wikipedia.org/wiki/MIPS_\(DEC\) "wikilink")
   - [PowerPC](../Page/PowerPC.md "wikilink")
@@ -36,15 +34,13 @@ sarge，是Debian的稳定版，发行于2005年6月6日。里面的软件包基
   - [GIMP](../Page/GIMP.md "wikilink") 2.2.6
   - [Mozilla](../Page/Mozilla.md "wikilink") 1.7.8
   - [Galeon](../Page/Galeon.md "wikilink") 1.3.20
-  - [Mozilla Thunderbird](../Page/Mozilla_Thunderbird.md "wikilink")
-    1.0.2
+  - [Mozilla Thunderbird](../Page/Mozilla_Thunderbird.md "wikilink") 1.0.2
   - [Firefox](../Page/Firefox.md "wikilink") 1.0.4
   - [PostgreSQL](../Page/PostgreSQL.md "wikilink") 7.4.7
   - [MySQL](../Page/MySQL.md "wikilink") 4.0.24和4.1.11a
   - [GCC](../Page/GCC.md "wikilink") 3.3.5
-  - Linux[内核版本](../Page/内核.md "wikilink")2.4.27和2.6.8
-  - [Apache](https://zh.wikipedia.org/wiki/Apache "wikilink")
-    1.3.33和2.0.54
+  - Linux[内核](../Page/内核.md "wikilink")版本2.4.27和2.6.8
+  - [Apache](https://zh.wikipedia.org/wiki/Apache "wikilink") 1.3.33和2.0.54
   - [Samba](../Page/Samba.md "wikilink") 3.0.14
   - [Python](../Page/Python.md "wikilink") 2.3.5和2.4.1
   - [Perl](../Page/Perl.md "wikilink") 5.8.4
@@ -54,9 +50,8 @@ sarge，是Debian的稳定版，发行于2005年6月6日。里面的软件包基
 [加密软件](https://zh.wikipedia.org/wiki/加密软件 "wikilink")：
 
   - [OpenSSH](../Page/OpenSSH.md "wikilink")
-  - [GNU Privacy
-    Guard](https://zh.wikipedia.org/wiki/GNU_Privacy_Guard "wikilink")
-  - [网页浏览器](../Page/网页浏览器.md "wikilink")、[网页服务器](https://zh.wikipedia.org/wiki/网页服务器 "wikilink")、[数据库及其它软件均拥有强加密手段](../Page/数据库.md "wikilink")
+  - [GNU Privacy Guard](https://zh.wikipedia.org/wiki/GNU_Privacy_Guard "wikilink")
+  - [网页浏览器](../Page/网页浏览器.md "wikilink")、[网页服务器](https://zh.wikipedia.org/wiki/网页服务器 "wikilink")、[数据库](../Page/数据库.md "wikilink")及其它软件均拥有强加密手段
 
 [子项目](https://zh.wikipedia.org/wiki/子项目 "wikilink")：
 

@@ -1,11 +1,9 @@
-**AMD
-K8**（研發代號：Hammer）是[美商](../Page/美国.md "wikilink")[超微](https://zh.wikipedia.org/wiki/超微 "wikilink")（AMD）研發並推出市場的[中央處理器微架構](https://zh.wikipedia.org/wiki/中央處理器 "wikilink")，用以接替之前的[K7微架構](https://zh.wikipedia.org/wiki/AMD_K7 "wikilink")。K8架構是第一個引入[64位x86擴充指令集的](../Page/X86-64.md "wikilink")[x86處理器架構](https://zh.wikipedia.org/wiki/x86 "wikilink")，是為『[AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink")』。
+**AMD K8**（研發代號：Hammer）是[美商](../Page/美国.md "wikilink")[超微](https://zh.wikipedia.org/wiki/超微 "wikilink")（AMD）研發並推出市場的[中央處理器微架構](https://zh.wikipedia.org/wiki/中央處理器 "wikilink")，用以接替之前的[K7微架構](https://zh.wikipedia.org/wiki/AMD_K7 "wikilink")。K8架構是第一個引入[64位x86擴充指令集的](../Page/X86-64.md "wikilink")[x86處理器架構](https://zh.wikipedia.org/wiki/x86 "wikilink")，是為『[AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink")』。
 
 基於K8架構的超微處理器：
 
   - [Athlon 64](https://zh.wikipedia.org/wiki/Athlon_64 "wikilink")
-  - [Athlon 64
-    X2](https://zh.wikipedia.org/wiki/Athlon_64_X2 "wikilink")
+  - [Athlon 64 X2](https://zh.wikipedia.org/wiki/Athlon_64_X2 "wikilink")
   - [Athlon 64 FX](../Page/Athlon_64_FX.md "wikilink")
   - [Sempron](https://zh.wikipedia.org/wiki/Sempron "wikilink")
   - [Opteron](../Page/Opteron.md "wikilink")
@@ -20,5 +18,4 @@ K8架構的核心和K7架構的非常相似，兩者最主要的變化在於K8�
   - [AMD K9](../Page/AMD_K9.md "wikilink")
   - [AMD K10](https://zh.wikipedia.org/wiki/AMD_K10 "wikilink")
 
-[Category:X86架構](https://zh.wikipedia.org/wiki/Category:X86架構 "wikilink")
-[Category:AMD处理器](https://zh.wikipedia.org/wiki/Category:AMD处理器 "wikilink")
+[Category:X86架構](https://zh.wikipedia.org/wiki/Category:X86架構 "wikilink") [Category:AMD处理器](https://zh.wikipedia.org/wiki/Category:AMD处理器 "wikilink")

@@ -1,20 +1,18 @@
-**网际协议版本4**（，缩写：**IPv4**，又稱**網際網路通訊協定第四版**）是[网际协议开发过程中的第四个修订版本](../Page/网际协议.md "wikilink")，也是此协议第一个被广泛部署和使用的版本。其後繼版本為[IPv6](../Page/IPv6.md "wikilink")，直到2011年，[IANA](https://zh.wikipedia.org/wiki/IANA "wikilink")
-IPv4位址完全用盡時，IPv6仍处在部署的初期。
+**网际协议版本4**（，缩写：**IPv4**，又稱**網際網路通訊協定第四版**）是[网际协议](../Page/网际协议.md "wikilink")开发过程中的第四个修订版本，也是此协议第一个被广泛部署和使用的版本。其後繼版本為[IPv6](../Page/IPv6.md "wikilink")，直到2011年，[IANA](https://zh.wikipedia.org/wiki/IANA "wikilink") IPv4位址完全用盡時，IPv6仍处在部署的初期。
 
-IPv4在[IETF于](https://zh.wikipedia.org/wiki/IETF "wikilink")1981年9月发布的
-RFC 791 中被描述，此RFC替换了于1980年1月发布的 RFC 760。
+IPv4在[IETF于](https://zh.wikipedia.org/wiki/IETF "wikilink")1981年9月发布的 RFC 791 中被描述，此RFC替换了于1980年1月发布的 RFC 760。
 
-IPv4是一种[无连接的协议](https://zh.wikipedia.org/wiki/無連接式通訊 "wikilink")，操作在使用[分组交换的链路层](../Page/分组交换.md "wikilink")（如[以太网](../Page/以太网.md "wikilink")）上。此协议会尽最大努力交付数据包，意即它不保证任何数据包均能送达目的地，也不保证所有数据包均按照正确的顺序无重复地到达。这些方面是由上层的传输协议（如[传输控制协议](../Page/传输控制协议.md "wikilink")）处理的。
+IPv4是一种[无连接的协议](https://zh.wikipedia.org/wiki/無連接式通訊 "wikilink")，操作在使用[分组交换](../Page/分组交换.md "wikilink")的链路层（如[以太网](../Page/以太网.md "wikilink")）上。此协议会尽最大努力交付数据包，意即它不保证任何数据包均能送达目的地，也不保证所有数据包均按照正确的顺序无重复地到达。这些方面是由上层的传输协议（如[传输控制协议](../Page/传输控制协议.md "wikilink")）处理的。
 
 ## 地址
 
-IPv4使用32位（4字节）地址，因此[地址空间中只有](https://zh.wikipedia.org/wiki/地址空间 "wikilink")4,294,967,296（2<sup>32</sup>）个地址。不过，一些地址是为特殊用途所保留的，如[专用网络](../Page/专用网络.md "wikilink")（约1800万个地址）和[多播地址](../Page/多播.md "wikilink")（约2.7亿个地址），这减少了可在互联网上路由的地址数量。随着地址不断被分配给最终用户，[IPv4地址枯竭问题也在随之产生](https://zh.wikipedia.org/wiki/IPv4地址枯竭问题 "wikilink")。基于[分类网络](../Page/分类网络.md "wikilink")、[无类别域间路由和](../Page/无类别域间路由.md "wikilink")[网络地址转换的地址结构重构显著地减少了地址枯竭的速度](../Page/网络地址转换.md "wikilink")。但在2011年2月3日，在最后5个地址块被分配给5个[区域互联网注册管理机构之后](../Page/区域互联网注册管理机构.md "wikilink")，IANA的主要地址池已经用尽。
+IPv4使用32位（4字节）地址，因此[地址空间中只有](https://zh.wikipedia.org/wiki/地址空间 "wikilink")4,294,967,296（2<sup>32</sup>）个地址。不过，一些地址是为特殊用途所保留的，如[专用网络](../Page/专用网络.md "wikilink")（约1800万个地址）和[多播](../Page/多播.md "wikilink")地址（约2.7亿个地址），这减少了可在互联网上路由的地址数量。随着地址不断被分配给最终用户，[IPv4地址枯竭问题也在随之产生](https://zh.wikipedia.org/wiki/IPv4地址枯竭问题 "wikilink")。基于[分类网络](../Page/分类网络.md "wikilink")、[无类别域间路由](../Page/无类别域间路由.md "wikilink")和[网络地址转换](../Page/网络地址转换.md "wikilink")的地址结构重构显著地减少了地址枯竭的速度。但在2011年2月3日，在最后5个地址块被分配给5个[区域互联网注册管理机构](../Page/区域互联网注册管理机构.md "wikilink")之后，IANA的主要地址池已经用尽。
 
-这些限制刺激了仍在开发早期的作为目前唯一的长期解决方案的[IPv6的部署](../Page/IPv6.md "wikilink")。
+这些限制刺激了仍在开发早期的作为目前唯一的长期解决方案的[IPv6](../Page/IPv6.md "wikilink")的部署。
 
 ### 地址格式
 
-IPv4地址可被写作任何表示一个32位整数值的形式，但为了方便人类阅读和分析\[1\]，它通常被写作[点分十进制的形式](https://zh.wikipedia.org/wiki/点分十进制 "wikilink")，即四个字节被分开用[十进制写出](../Page/十进制.md "wikilink")，中间用点分隔。
+IPv4地址可被写作任何表示一个32位整数值的形式，但为了方便人类阅读和分析\[1\]，它通常被写作[点分十进制的形式](https://zh.wikipedia.org/wiki/点分十进制 "wikilink")，即四个字节被分开用[十进制](../Page/十进制.md "wikilink")写出，中间用点分隔。
 
 下表展示了几种不同的格式：
 
@@ -33,7 +31,7 @@ IPv4地址可被写作任何表示一个32位整数值的形式，但为了方�
 
 最初，一个IP地址被分成两部分：網路識別碼在地址的高位字节中，主機識別碼在剩下的部分中。
 
-为了克服这个限制，在随后出现的[分类网络中](../Page/分类网络.md "wikilink")，地址的高位字节被重定义为网络的*类*(Class)。这个系统定义了五个类別：A、B、C、D和E。A、B和C类有不同的网络类別长度，剩余的部分被用来识别网络内的主机，这就意味着每个网络类別有着不同的给主机编址的能力。D类被用于[多播地址](../Page/多播.md "wikilink")，E类被留作将来使用。
+为了克服这个限制，在随后出现的[分类网络](../Page/分类网络.md "wikilink")中，地址的高位字节被重定义为网络的*类*(Class)。这个系统定义了五个类別：A、B、C、D和E。A、B和C类有不同的网络类別长度，剩余的部分被用来识别网络内的主机，这就意味着每个网络类別有着不同的给主机编址的能力。D类被用于[多播](../Page/多播.md "wikilink")地址，E类被留作将来使用。
 
 | 前8位地址范围 | 类 | 路由形式                                              | 占地址总空间的比例 |
 | ------- | - | ------------------------------------------------- | --------- |
@@ -61,7 +59,7 @@ CIDR被设计为可以重新划分地址空间，因此小的或大的地址块�
 | 172.16.0.0/12                                            | [专用网络](../Page/专用网络.md "wikilink")                    | RFC 1918 |
 | 192.0.0.0/24                                             | 保留（IANA）                                              | RFC 5735 |
 | 192.0.2.0/24                                             | TEST-NET-1，文档和示例                                      | RFC 5735 |
-| 192.88.99.0/24                                           | [6to4中继](../Page/6to4.md "wikilink")                  | RFC 3068 |
+| 192.88.99.0/24                                           | [6to4](../Page/6to4.md "wikilink")中继                  | RFC 3068 |
 | 192.168.0.0/16                                           | [专用网络](../Page/专用网络.md "wikilink")                    | RFC 1918 |
 | 198.18.0.0/15                                            | 网络基准测试                                                | RFC 2544 |
 | 198.51.100.0/24                                          | TEST-NET-2，文档和示例                                      | RFC 5737 |
@@ -88,15 +86,13 @@ CIDR被设计为可以重新划分地址空间，因此小的或大的地址块�
 
 通常情况下，路由器根据数据报文的目的地址决定转发数据报文的下一跳地址。使用专用网络地址作为目的地址的数据包通常无法被公共路由器正确送达，因为公共路由器没有相应的路由信息，即无法得知如何才能转发到该IP地址。因此，这就需要通过一种方法，将指引数据报文转发的下一跳地址和真正要传输的目的地址分离开。于是就使用[虚拟专用网](https://zh.wikipedia.org/wiki/虚拟专用网 "wikilink")，将IP报文封装在其他报文内，以便于通过公网上的公共路由器，达到能处理该封包内层数据的网络设备上解除封包后，该数据包可以被继续转发到目的地址。
 
-将数据报文封装的过程中，可以将数据报文封装于IP报文中，也可以使用[多协议标签交换协议等](../Page/多协议标签交换.md "wikilink")，通过其他协议引导数据报文转发。也可以封装同时加密数据，以保护数据内容。
+将数据报文封装的过程中，可以将数据报文封装于IP报文中，也可以使用[多协议标签交换](../Page/多协议标签交换.md "wikilink")协议等，通过其他协议引导数据报文转发。也可以封装同时加密数据，以保护数据内容。
 
 ### 链路本地地址
 
-RFC
-5735中将地址块169.254.0.0/16保留为特殊用于链路本地地址，这些地址仅在链路上有效（如一段本地网络或一个端到端连接）。这些地址与专用网络地址一样不可路由，也不可作为公共网络上报文的源或目的地址。链路本地地址主要被用于地址自动配置：当主机不能从DHCP服务器处获得IP地址时，它会用这种方法生成一个。
+RFC 5735中将地址块169.254.0.0/16保留为特殊用于链路本地地址，这些地址仅在链路上有效（如一段本地网络或一个端到端连接）。这些地址与专用网络地址一样不可路由，也不可作为公共网络上报文的源或目的地址。链路本地地址主要被用于地址自动配置：当主机不能从DHCP服务器处获得IP地址时，它会用这种方法生成一个。
 
-当这个地址块最初被保留时，地址自动配置尚没有一个标准。为了填补这个空白，[微软创建了一种叫](../Page/微软.md "wikilink")**自动专用IP寻址**（APIPA）的实现。因微软的市场影响力，APIPA已经被部署到了几百万机器上，也因此成为了事实上的工业标准。许多年后，[IETF为此定义了一份正式的标准](https://zh.wikipedia.org/wiki/IETF "wikilink")：RFC
-3927，命名为“IPv4链路本地地址的动态配置”。
+当这个地址块最初被保留时，地址自动配置尚没有一个标准。为了填补这个空白，[微软](../Page/微软.md "wikilink")创建了一种叫**自动专用IP寻址**（APIPA）的实现。因微软的市场影响力，APIPA已经被部署到了几百万机器上，也因此成为了事实上的工业标准。许多年后，[IETF为此定义了一份正式的标准](https://zh.wikipedia.org/wiki/IETF "wikilink")：RFC 3927，命名为“IPv4链路本地地址的动态配置”。
 
 ### 环回地址(Loopback Address)
 
@@ -108,9 +104,7 @@ RFC
 
 在有类别的编址中，只有三种可能的子網路遮罩：A类：255.0.0.0，B类：255.255.0.0，C类：255.255.255.0。如，在子網路192.168.5.0/255.255.255.0（即192.168.5.0/24）中，網路識別碼192.168.5.0用来表示整个子網路，所以它不能用来标识子網路上的某个特定主机。
 
-[广播地址允许数据包发往子網路上的所有设备](https://zh.wikipedia.org/wiki/广播地址 "wikilink")。一般情況下，廣播位址是藉由子網路遮罩的位元反码並和網路識別碼執行
-OR
-的位元運算得到，即广播地址是子網路中的最后一个地址。在上述例子中，广播地址是192.168.5.255，所以为了避免歧义，这个地址也不能被分配给主机。在A、B和C类网络中，广播地址总是以255结尾。
+[广播地址允许数据包发往子網路上的所有设备](https://zh.wikipedia.org/wiki/广播地址 "wikilink")。一般情況下，廣播位址是藉由子網路遮罩的位元反码並和網路識別碼執行 OR 的位元運算得到，即广播地址是子網路中的最后一个地址。在上述例子中，广播地址是192.168.5.255，所以为了避免歧义，这个地址也不能被分配给主机。在A、B和C类网络中，广播地址总是以255结尾。
 
 但是，这并不意味着每个以255结尾的地址都不能用做主机地址。比如，在B类子网192.168.0.0/255.255.0.0（即192.168.0.0/16）中，广播地址是192.168.255.255（主机位全1）。在这种情况下，尽管可能带来误解，但192.168.1.255、192.168.2.255等地址可以被分配给主机。同理，192.168.0.0作为網路識別碼不能被分配，但192.168.1.0、192.168.2.0等都是可以的。
 
@@ -136,8 +130,7 @@ OR操作：
 
 ## 地址空間枯竭
 
-從20世紀80年代起，一個很明顯的問題是IPv4地址在以比設計時的預計更快的速度耗盡。\[5\]
-這是創建[分類網絡](https://zh.wikipedia.org/wiki/分類網絡 "wikilink")、[無類別域間路由](https://zh.wikipedia.org/wiki/無類別域間路由 "wikilink")，和最終決定重新設計基於更長地址的互聯網協議（[IPv6](../Page/IPv6.md "wikilink")）的誘因。
+從20世紀80年代起，一個很明顯的問題是IPv4地址在以比設計時的預計更快的速度耗盡。\[5\] 這是創建[分類網絡](https://zh.wikipedia.org/wiki/分類網絡 "wikilink")、[無類別域間路由](https://zh.wikipedia.org/wiki/無類別域間路由 "wikilink")，和最終決定重新設計基於更長地址的互聯網協議（[IPv6](../Page/IPv6.md "wikilink")）的誘因。
 
 一些市場力量也加快了IPv4地址的耗盡，如：
 
@@ -154,8 +147,7 @@ OR操作：
   - 區域互聯網註冊管理機構對地址分配的控制；
   - 對互聯網初期分配的大地址塊的回收。
 
-隨著[IANA把最後](https://zh.wikipedia.org/wiki/IANA "wikilink")5個地址塊分配給5個RIR，其主地址池在2011年2月3日耗盡。\[6\]
-許多地址分配和消耗的模型都預測第一個耗盡地址的RIR會在2011年的下半年出現。\[7\]
+隨著[IANA把最後](https://zh.wikipedia.org/wiki/IANA "wikilink")5個地址塊分配給5個RIR，其主地址池在2011年2月3日耗盡。\[6\] 許多地址分配和消耗的模型都預測第一個耗盡地址的RIR會在2011年的下半年出現。\[7\]
 
 廣泛被接受且已被標準化的解決方案是遷移至[IPv6](../Page/IPv6.md "wikilink")。IPv6的地址長度從IPv4的32位增長到了128位，以此提供了更好的路由聚合，也為最終用戶分配最小為2<sup>64</sup>個主機地址的地址塊成為可能。遷移過程正在進行，但其完成仍需要相當的時間。
 
@@ -169,8 +161,7 @@ IP报文包含IP首部和数据部分
 
 ### 首部
 
-IPv4报文的首部包含14个字段，其中13个是必须的，第14个是可选的（红色标出），并命名为：“选项”字段。首部中的字段均以[大端序包装](https://zh.wikipedia.org/wiki/大端序 "wikilink")，在以下的图表和讨论中，[最高有效位](https://zh.wikipedia.org/wiki/最高有效位 "wikilink")（Most
-Significant bit）被标记为0。
+IPv4报文的首部包含14个字段，其中13个是必须的，第14个是可选的（红色标出），并命名为：“选项”字段。首部中的字段均以[大端序包装](https://zh.wikipedia.org/wiki/大端序 "wikilink")，在以下的图表和讨论中，[最高有效位](https://zh.wikipedia.org/wiki/最高有效位 "wikilink")（Most Significant bit）被标记为0。
 
 <table style="width:277%;">
 <colgroup>
@@ -270,21 +261,17 @@ or<br />
 <!-- end list -->
 
   - 首部长度（Internet Header Length， IHL）
-    占4bit，首部长度说明首部有多少32位字（4字节）。由于IPv4首部可能包含数目不定的选项，这个字段也用来确定数据的偏移量。这个字段的最小值是5（二进制0101），相当于5\*4=20字节（RFC
-    791），最大十进制值是15。
+    占4bit，首部长度说明首部有多少32位字（4字节）。由于IPv4首部可能包含数目不定的选项，这个字段也用来确定数据的偏移量。这个字段的最小值是5（二进制0101），相当于5\*4=20字节（RFC 791），最大十进制值是15。
 
 <!-- end list -->
 
   - 区分服务（Differentiated Services，DS）
-    占6bit，最初被定义为[服务类型字段](https://zh.wikipedia.org/wiki/服务类型 "wikilink")，实际上并未使用，但1998年被IETF重定义为区分服务RFC
-    2474。只有在使用区分服务时，这个字段才起作用，在一般的情况 
-    下都不使用这个字段。例如需要实时数据流的技术会应用这个字段，一个例子是[VoIP](../Page/VoIP.md "wikilink")。
+    占6bit，最初被定义为[服务类型字段](https://zh.wikipedia.org/wiki/服务类型 "wikilink")，实际上并未使用，但1998年被IETF重定义为区分服务RFC 2474。只有在使用区分服务时，这个字段才起作用，在一般的情况  下都不使用这个字段。例如需要实时数据流的技术会应用这个字段，一个例子是[VoIP](../Page/VoIP.md "wikilink")。
 
 <!-- end list -->
 
   - 显式拥塞通告（ Explicit Congestion Notification，ECN）
-    在RFC
-    3168中定义，允许在不丢弃报文的同时通知对方网络拥塞的发生。ECN是一种可选的功能，仅当两端都支持并希望使用，且底层网络支持时才被使用。
+    在RFC 3168中定义，允许在不丢弃报文的同时通知对方网络拥塞的发生。ECN是一种可选的功能，仅当两端都支持并希望使用，且底层网络支持时才被使用。
 
 <!-- end list -->
 
@@ -319,8 +306,7 @@ or<br />
 <!-- end list -->
 
   - 协议 （Protocol）
-    占8bit，这个字段定义了该报文数据区使用的协议。[IANA维护着一份协议列表](https://zh.wikipedia.org/wiki/IANA "wikilink")（最初由RFC
-    790定义），详细参见[IP协议号列表](../Page/IP协议号列表.md "wikilink")。
+    占8bit，这个字段定义了该报文数据区使用的协议。[IANA维护着一份协议列表](https://zh.wikipedia.org/wiki/IANA "wikilink")（最初由RFC 790定义），详细参见[IP协议号列表](../Page/IP协议号列表.md "wikilink")。
 
 <!-- end list -->
 
@@ -363,7 +349,7 @@ or<br />
 
 ### 数据
 
-数据字段不是首部的一部分，因此并不被包含在首部检验和中。数据的格式在协议首部字段中被指明，并可以是任意的[传输层协议](../Page/传输层.md "wikilink")。
+数据字段不是首部的一部分，因此并不被包含在首部检验和中。数据的格式在协议首部字段中被指明，并可以是任意的[传输层](../Page/传输层.md "wikilink")协议。
 
 一些常见协议的协议字段值被列在下面：
 
@@ -373,11 +359,11 @@ or<br />
 | 2     | [互联网组管理协议](https://zh.wikipedia.org/wiki/互联网组管理协议 "wikilink") | IGMP  |
 | 6     | [传输控制协议](../Page/传输控制协议.md "wikilink")                        | TCP   |
 | 17    | [用户数据报协议](../Page/用户数据报协议.md "wikilink")                      | UDP   |
-| 41    | [IPv6封装](../Page/IPv6.md "wikilink")                          | ENCAP |
+| 41    | [IPv6](../Page/IPv6.md "wikilink")封装                          | ENCAP |
 | 89    | [开放式最短路径优先](../Page/开放式最短路径优先.md "wikilink")                  | OSPF  |
 | 132   | [流控制传输协议](../Page/流控制传输协议.md "wikilink")                      | SCTP  |
 
-参见[IP协议号列表以获得完整列表](../Page/IP协议号列表.md "wikilink")。
+参见[IP协议号列表](../Page/IP协议号列表.md "wikilink")以获得完整列表。
 
 ## 分片和组装
 
@@ -446,8 +432,7 @@ or<br />
   - [分类网络](../Page/分类网络.md "wikilink")
   - [无类别域间路由](../Page/无类别域间路由.md "wikilink")
   - [互联网号码分配局](../Page/互联网号码分配局.md "wikilink")
-  - [已分配的/8
-    IPv4地址块列表](https://zh.wikipedia.org/wiki/已分配的/8_IPv4地址块列表 "wikilink")
+  - [已分配的/8 IPv4地址块列表](https://zh.wikipedia.org/wiki/已分配的/8_IPv4地址块列表 "wikilink")
   - [区域互联网注册管理机构](../Page/区域互联网注册管理机构.md "wikilink")
   - [各國IPv4位址分配列表](../Page/各國IPv4位址分配列表.md "wikilink")
 
@@ -458,32 +443,19 @@ or<br />
   - RFC 791 — Internet Protocol
   - RFC 3344 — IPv4 Mobility
   - [IANA](http://www.iana.org) — 互联网地址分配局官方网站
-  - [IP Header Breakdown, including specific
-    options](http://www.networksorcery.com/enp/protocol/ip.htm)
-  - [IPv6 vs. carrier-grade NAT/squeezing more out of
-    IPv4](https://web.archive.org/web/20100608114541/http://www.networkworld.com/news/2010/060710-tech-argument-ipv6-nat.html)
+  - [IP Header Breakdown, including specific options](http://www.networksorcery.com/enp/protocol/ip.htm)
+  - [IPv6 vs. carrier-grade NAT/squeezing more out of IPv4](https://web.archive.org/web/20100608114541/http://www.networkworld.com/news/2010/060710-tech-argument-ipv6-nat.html)
   - [IPv4特殊用途地址](http://www.iana.org/assignments/iana-ipv4-special-registry/iana-ipv4-special-registry.xhtml)
-
 
 地址耗尽：
 
-  - [RIPE report on address consumption as of
-    October 2003](https://web.archive.org/web/20110109025511/http://www.ripe.net/rs/news/ipv4-ncc-20031030.html)
-  - [Official current state of IPv4 /8 allocations, as maintained by
-    IANA](http://www.iana.org/assignments/ipv4-address-space)
-  - [Dynamically generated graphs of IPv4 address consumption with
-    predictions of exhaustion dates — Geoff
-    Huston](http://www.potaroo.net/tools/ipv4/)
-  - [IP addressing in China and the myth of address
-    shortage](https://web.archive.org/web/20110629000602/http://www.apnic.net/community/about-the-internet-community/internet-governance/articles/ip-addressing-in-china-2004)
-  - [Countdown of remaining IPv4 available
-    addresses](http://www.inetcore.com/project/ipv4ec/index_en.html)
-    (estimated)
+  - [RIPE report on address consumption as of October 2003](https://web.archive.org/web/20110109025511/http://www.ripe.net/rs/news/ipv4-ncc-20031030.html)
+  - [Official current state of IPv4 /8 allocations, as maintained by IANA](http://www.iana.org/assignments/ipv4-address-space)
+  - [Dynamically generated graphs of IPv4 address consumption with predictions of exhaustion dates — Geoff Huston](http://www.potaroo.net/tools/ipv4/)
+  - [IP addressing in China and the myth of address shortage](https://web.archive.org/web/20110629000602/http://www.apnic.net/community/about-the-internet-community/internet-governance/articles/ip-addressing-in-china-2004)
+  - [Countdown of remaining IPv4 available addresses](http://www.inetcore.com/project/ipv4ec/index_en.html) (estimated)
 
-[Category:网际协议](https://zh.wikipedia.org/wiki/Category:网际协议 "wikilink")
-[Category:互联网标准](https://zh.wikipedia.org/wiki/Category:互联网标准 "wikilink")
-[Category:网络层协议](https://zh.wikipedia.org/wiki/Category:网络层协议 "wikilink")
-[Category:互联网结构](https://zh.wikipedia.org/wiki/Category:互联网结构 "wikilink")
+[Category:网际协议](https://zh.wikipedia.org/wiki/Category:网际协议 "wikilink") [Category:互联网标准](https://zh.wikipedia.org/wiki/Category:互联网标准 "wikilink") [Category:网络层协议](https://zh.wikipedia.org/wiki/Category:网络层协议 "wikilink") [Category:互联网结构](https://zh.wikipedia.org/wiki/Category:互联网结构 "wikilink")
 
 1.
 

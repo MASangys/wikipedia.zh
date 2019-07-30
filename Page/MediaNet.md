@@ -1,8 +1,8 @@
-是[日本](../Page/日本.md "wikilink")[東京電視台的](../Page/東京電視台.md "wikilink")[子公司](../Page/子公司.md "wikilink")，其製作的[動畫主要供應給東京電視台的主頻道及其附屬日本動畫頻道](https://zh.wikipedia.org/wiki/動畫 "wikilink")[AT-X播放](../Page/AT-X.md "wikilink")。該公司製作的動畫至今已播放的有二十套，包括、及等。
+是[日本](../Page/日本.md "wikilink")[東京電視台](../Page/東京電視台.md "wikilink")的[子公司](../Page/子公司.md "wikilink")，其製作的[動畫主要供應給東京電視台的主頻道及其附屬日本動畫頻道](https://zh.wikipedia.org/wiki/動畫 "wikilink")[AT-X](../Page/AT-X.md "wikilink")播放。該公司製作的動畫至今已播放的有二十套，包括、及等。
 
 ## 沿革
 
-1978年4月1日，東京電視台的前身成立。1981年10月1日，東京12頻道改名為東京電視台，東京12節目販賣改名為。1997年12月24日，東京電視MediaNet創辦的專業動畫頻道[AT-X開播](../Page/AT-X.md "wikilink")。1999年10月，東京電視MediaNet吸收合併「東京電視軟體」（，簡稱為「SOFTX」）。2000年6月26日，東京電視MediaNet與東京電視台合資成立。2000年9月，東京電視MediaNet將AT-X經營權移交株式會社AT-X。
+1978年4月1日，東京電視台的前身成立。1981年10月1日，東京12頻道改名為東京電視台，東京12節目販賣改名為。1997年12月24日，東京電視MediaNet創辦的專業動畫頻道[AT-X](../Page/AT-X.md "wikilink")開播。1999年10月，東京電視MediaNet吸收合併「東京電視軟體」（，簡稱為「SOFTX」）。2000年6月26日，東京電視MediaNet與東京電視台合資成立。2000年9月，東京電視MediaNet將AT-X經營權移交株式會社AT-X。
 
 ## 代表作
 
@@ -24,7 +24,4 @@
 
   - [MediaNet官方網頁](http://www.medianet.co.jp)
 
-[Category:电视制作公司](https://zh.wikipedia.org/wiki/Category:电视制作公司 "wikilink")
-[Category:東京電視台](https://zh.wikipedia.org/wiki/Category:東京電視台 "wikilink")
-[Category:1978年成立的公司](https://zh.wikipedia.org/wiki/Category:1978年成立的公司 "wikilink")
-[Category:港區公司_(東京都)](https://zh.wikipedia.org/wiki/Category:港區公司_\(東京都\) "wikilink")
+[Category:电视制作公司](https://zh.wikipedia.org/wiki/Category:电视制作公司 "wikilink") [Category:東京電視台](https://zh.wikipedia.org/wiki/Category:東京電視台 "wikilink") [Category:1978年成立的公司](https://zh.wikipedia.org/wiki/Category:1978年成立的公司 "wikilink") [Category:港區公司_(東京都)](https://zh.wikipedia.org/wiki/Category:港區公司_\(東京都\) "wikilink")

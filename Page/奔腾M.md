@@ -1,17 +1,6 @@
-[Pentium_M_Dothan.jpg](https://zh.wikipedia.org/wiki/File:Pentium_M_Dothan.jpg "fig:Pentium_M_Dothan.jpg")
-[Pentium_M_Dothan_Backside.jpg](https://zh.wikipedia.org/wiki/File:Pentium_M_Dothan_Backside.jpg "fig:Pentium_M_Dothan_Backside.jpg")
-**Pentium
-M**是[英特爾公司的](https://zh.wikipedia.org/wiki/英特爾 "wikilink")[x86架構](https://zh.wikipedia.org/wiki/x86 "wikilink")[微處理器](https://zh.wikipedia.org/wiki/微處理器 "wikilink")，供[筆記型電腦使用](../Page/筆記型電腦.md "wikilink")，亦被作为[Centrino的一部分](https://zh.wikipedia.org/wiki/Centrino "wikilink")，於2003年3月推出。M代表“移动”（Mobile）。在推出前的核心名稱為“Banias”，是[以色列的地名](../Page/以色列.md "wikilink")。Pentium
-M是由英特尔在以色列的海尔法（Haifa）实验室研发设计的。
+[Pentium_M_Dothan.jpg](https://zh.wikipedia.org/wiki/File:Pentium_M_Dothan.jpg "fig:Pentium_M_Dothan.jpg") [Pentium_M_Dothan_Backside.jpg](https://zh.wikipedia.org/wiki/File:Pentium_M_Dothan_Backside.jpg "fig:Pentium_M_Dothan_Backside.jpg") **Pentium M**是[英特爾公司的](https://zh.wikipedia.org/wiki/英特爾 "wikilink")[x86架構](https://zh.wikipedia.org/wiki/x86 "wikilink")[微處理器](https://zh.wikipedia.org/wiki/微處理器 "wikilink")，供[筆記型電腦](../Page/筆記型電腦.md "wikilink")使用，亦被作为[Centrino的一部分](https://zh.wikipedia.org/wiki/Centrino "wikilink")，於2003年3月推出。M代表“移动”（Mobile）。在推出前的核心名稱為“Banias”，是[以色列](../Page/以色列.md "wikilink")的地名。Pentium M是由英特尔在以色列的海尔法（Haifa）实验室研发设计的。
 
-一直以来，英特尔公司完成一款处理器的设计之后先发售桌面版，在[制程上加以改良](https://zh.wikipedia.org/wiki/制程 "wikilink")（主要是减小功耗）后推出相对应的移动版处理器。在完成基于[NetBurst架构](https://zh.wikipedia.org/wiki/NetBurst "wikilink")、以追求运行频率为主要目标的Pentium
-4处理器之后，其移动版P4-M因为较大的能耗和发热而受到市场恶评。这时候英特尔公司针对移动处理器市场，重新推出了Pentium
-M处理器。Pentium M並非從[Pentium
-4發展而來](https://zh.wikipedia.org/wiki/Pentium_4 "wikilink")，架構更接近了[Pentium
-III的短流水线設計](https://zh.wikipedia.org/wiki/Pentium_III "wikilink")，經多方面的修改而成，當中Pentium
-III的設計源自[Pentium
-Pro](https://zh.wikipedia.org/wiki/Pentium_Pro "wikilink")。該處理器具有省電、低功耗、延長電池壽命等特點，時脈方面比P4低，但其效能則與時脈較高的P4-M相近。可以近似认为，运作在1.6GHz的Pentium
-M总体运算性能与P4-M 2.4GHz相当。
+一直以来，英特尔公司完成一款处理器的设计之后先发售桌面版，在[制程上加以改良](https://zh.wikipedia.org/wiki/制程 "wikilink")（主要是减小功耗）后推出相对应的移动版处理器。在完成基于[NetBurst架构](https://zh.wikipedia.org/wiki/NetBurst "wikilink")、以追求运行频率为主要目标的Pentium 4处理器之后，其移动版P4-M因为较大的能耗和发热而受到市场恶评。这时候英特尔公司针对移动处理器市场，重新推出了Pentium M处理器。Pentium M並非從[Pentium 4發展而來](https://zh.wikipedia.org/wiki/Pentium_4 "wikilink")，架構更接近了[Pentium III的短流水线設計](https://zh.wikipedia.org/wiki/Pentium_III "wikilink")，經多方面的修改而成，當中Pentium III的設計源自[Pentium Pro](https://zh.wikipedia.org/wiki/Pentium_Pro "wikilink")。該處理器具有省電、低功耗、延長電池壽命等特點，時脈方面比P4低，但其效能則與時脈較高的P4-M相近。可以近似认为，运作在1.6GHz的Pentium M总体运算性能与P4-M 2.4GHz相当。
 
 Pentium M处理器在功耗和性能两者间达成了极佳的平衡，帮助它在市场上获得了巨大的成功。
 
@@ -21,9 +10,7 @@ Pentium M处理器在功耗和性能两者间达成了极佳的平衡，帮助�
 
 #### "Banias" (130 nm)
 
-2003年3月第一代[Centrino芯片推出](https://zh.wikipedia.org/wiki/Centrino "wikilink")，代號Karmel，核心名称为[Banias](https://zh.wikipedia.org/wiki/Banias "wikilink")。采用[0.13微米製程芯片工艺](https://zh.wikipedia.org/wiki/0.13微米製程 "wikilink")。集成1MB
-L2
-Cache，前端总线400MHz，集成7700万晶体管。配套的芯片组主要为i855系列，采用[PCI总线和](https://zh.wikipedia.org/wiki/PCI "wikilink")[DDR内存](https://zh.wikipedia.org/wiki/DDR "wikilink")。
+2003年3月第一代[Centrino芯片推出](https://zh.wikipedia.org/wiki/Centrino "wikilink")，代號Karmel，核心名称为[Banias](https://zh.wikipedia.org/wiki/Banias "wikilink")。采用[0.13微米製程芯片工艺](https://zh.wikipedia.org/wiki/0.13微米製程 "wikilink")。集成1MB L2 Cache，前端总线400MHz，集成7700万晶体管。配套的芯片组主要为i855系列，采用[PCI总线和](https://zh.wikipedia.org/wiki/PCI "wikilink")[DDR内存](https://zh.wikipedia.org/wiki/DDR "wikilink")。
 
 支援指令集：[MMX](../Page/MMX.md "wikilink")，[SSE](../Page/SSE.md "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")
 
@@ -48,13 +35,10 @@ Cache，前端总线400MHz，集成7700万晶体管。配套的芯片组主要�
 
 #### "Dothan" (90 nm)
 
-2004年10月第二代[Centrino芯片推出](https://zh.wikipedia.org/wiki/Centrino "wikilink")，代號Sonoma，核心名称为[Dothan](https://zh.wikipedia.org/wiki/Dothan "wikilink")。采用[0.09微米制程芯片工艺](../Page/90纳米制程.md "wikilink")。集成2MB
-L2 Cache，前端总线支持到533MHz，也有400MHz产品，集成1億4000万晶体管。配套的芯片组为i915系列，采用[PCI
-Express总线和](../Page/PCI_Express.md "wikilink")[DDR2内存](https://zh.wikipedia.org/wiki/DDR2 "wikilink")。
+2004年10月第二代[Centrino芯片推出](https://zh.wikipedia.org/wiki/Centrino "wikilink")，代號Sonoma，核心名称为[Dothan](https://zh.wikipedia.org/wiki/Dothan "wikilink")。采用[0.09微米制程芯片工艺](../Page/90纳米制程.md "wikilink")。集成2MB L2 Cache，前端总线支持到533MHz，也有400MHz产品，集成1億4000万晶体管。配套的芯片组为i915系列，采用[PCI Express总线和](../Page/PCI_Express.md "wikilink")[DDR2内存](https://zh.wikipedia.org/wiki/DDR2 "wikilink")。
 
 支援指令集：[MMX](../Page/MMX.md "wikilink")，[SSE](../Page/SSE.md "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")
-C0以上步進支援指令集：[PAE](https://zh.wikipedia.org/wiki/PAE "wikilink")，[XD
-bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")
+C0以上步進支援指令集：[PAE](https://zh.wikipedia.org/wiki/PAE "wikilink")，[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")
 
 | 型號                                                                                                        | 步進       | [時脈](https://zh.wikipedia.org/wiki/時脈 "wikilink") | L2 [快取](https://zh.wikipedia.org/wiki/快取 "wikilink") | [前端總線](https://zh.wikipedia.org/wiki/前端總線 "wikilink") | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") | 插槽                                             | 發佈日期       |
 | --------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------- | ---------------------------------------------------- | ----------------------------------------------------- | --------------------------------------------------- | ---------------------------------------------- | ---------- |
@@ -89,11 +73,6 @@ bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")
 
 ## Core Solo & Core Duo
 
-使用Pentium M架构，代号为**Yonah**的微处理器，已经以[Intel
-Core品牌发行](https://zh.wikipedia.org/wiki/Intel_Core "wikilink")，有Core
-Solo与Core Duo两版本，仅有移动版。其后的正统继承者[Intel Core
-2采用改良后的被正式命名为Intel](https://zh.wikipedia.org/wiki/Intel_Core_2 "wikilink")
-Core的核心，同时具有桌面版本（[Conroe](https://zh.wikipedia.org/wiki/Conroe "wikilink")）、服务器版本（[Woodcrest](https://zh.wikipedia.org/wiki/Woodcrest "wikilink")）和移动版本（[Merom](https://zh.wikipedia.org/wiki/Merom "wikilink")），这标志着Pentium
-M架构从移动领域向桌面领域的反噬。
+使用Pentium M架构，代号为**Yonah**的微处理器，已经以[Intel Core品牌发行](https://zh.wikipedia.org/wiki/Intel_Core "wikilink")，有Core Solo与Core Duo两版本，仅有移动版。其后的正统继承者[Intel Core 2采用改良后的被正式命名为Intel](https://zh.wikipedia.org/wiki/Intel_Core_2 "wikilink") Core的核心，同时具有桌面版本（[Conroe](https://zh.wikipedia.org/wiki/Conroe "wikilink")）、服务器版本（[Woodcrest](https://zh.wikipedia.org/wiki/Woodcrest "wikilink")）和移动版本（[Merom](https://zh.wikipedia.org/wiki/Merom "wikilink")），这标志着Pentium M架构从移动领域向桌面领域的反噬。
 
 [Category:Intel_x86处理器](https://zh.wikipedia.org/wiki/Category:Intel_x86处理器 "wikilink")

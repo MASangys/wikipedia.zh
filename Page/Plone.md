@@ -1,7 +1,6 @@
-**Plone**是一种建立在[Zope](../Page/Zope.md "wikilink")[应用服务器之上的](https://zh.wikipedia.org/wiki/应用服务器 "wikilink")[开源](https://zh.wikipedia.org/wiki/开源 "wikilink")[内容管理系统](../Page/内容管理系统.md "wikilink")。Plone是[自由软件并且设计为可扩展的](../Page/自由软件.md "wikilink")。它可以使用于[内网和](https://zh.wikipedia.org/wiki/内网 "wikilink")[外网](https://zh.wikipedia.org/wiki/外网 "wikilink")[服务器](../Page/服务器.md "wikilink")，[文档发布系统](https://zh.wikipedia.org/wiki/文档管理系统 "wikilink")，并且可以作为位置分享的实体协作[软件工具](https://zh.wikipedia.org/wiki/协作式软件 "wikilink")。
+**Plone**是一种建立在[Zope](../Page/Zope.md "wikilink")[应用服务器之上的](https://zh.wikipedia.org/wiki/应用服务器 "wikilink")[开源](https://zh.wikipedia.org/wiki/开源 "wikilink")[内容管理系统](../Page/内容管理系统.md "wikilink")。Plone是[自由软件](../Page/自由软件.md "wikilink")并且设计为可扩展的。它可以使用于[内网和](https://zh.wikipedia.org/wiki/内网 "wikilink")[外网](https://zh.wikipedia.org/wiki/外网 "wikilink")[服务器](../Page/服务器.md "wikilink")，[文档发布系统](https://zh.wikipedia.org/wiki/文档管理系统 "wikilink")，并且可以作为位置分享的实体协作[软件工具](https://zh.wikipedia.org/wiki/协作式软件 "wikilink")。
 
-其最早由Alan Runyan、Alexander Limi與Vidar
-Andersen在1999年开始，之后迅速成为流行而又强大的内容管理系统。
+其最早由Alan Runyan、Alexander Limi與Vidar Andersen在1999年开始，之后迅速成为流行而又强大的内容管理系统。
 
 Plone的名字来源于一个来自[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")[伯明翰](../Page/伯明翰.md "wikilink")，叫做Plone的电声乐队。
 
@@ -31,7 +30,7 @@ Plone稳定版本http://plone.org/products/plone
 
 ## 设计
 
-Plone运行在[Zope应用程序服务器上](../Page/Zope.md "wikilink")，使用[Python编写](../Page/Python.md "wikilink")。
+Plone运行在[Zope](../Page/Zope.md "wikilink")应用程序服务器上，使用[Python](../Page/Python.md "wikilink")编写。
 
 ### 语言
 
@@ -100,12 +99,10 @@ Plone被评为最安全的内容管理系统，根据Mitres CVE's CVE's via Mitr
 ## 参见
 
   - [内容管理系统](../Page/内容管理系统.md "wikilink")
-  - [Diazo
-    (software)](https://zh.wikipedia.org/wiki/Diazo_\(software\) "wikilink")
+  - [Diazo (software)](https://zh.wikipedia.org/wiki/Diazo_\(software\) "wikilink")
   - [Open source](https://zh.wikipedia.org/wiki/Open_source "wikilink")
   - [内容管理系统列表](../Page/内容管理系统列表.md "wikilink")
-  - [List of applications with iCalendar
-    support](https://zh.wikipedia.org/wiki/List_of_applications_with_iCalendar_support "wikilink")
+  - [List of applications with iCalendar support](https://zh.wikipedia.org/wiki/List_of_applications_with_iCalendar_support "wikilink")
   - [Zope](../Page/Zope.md "wikilink")
 
 ## 参考文献
@@ -113,21 +110,15 @@ Plone被评为最安全的内容管理系统，根据Mitres CVE's CVE's via Mitr
 ## 外部链接
 
   -
-  - [Demo Plone
-    Now](https://web.archive.org/web/20121231145925/http://demo.plone.org/)
+  - [Demo Plone Now](https://web.archive.org/web/20121231145925/http://demo.plone.org/)
 
-  - ["18 Things I Wish Were True About Plone" an essay by Plone founder
-    Alexander
-    Limi](http://limi.net/articles/18-things-i-wish-were-true-about-plone/)
+  - ["18 Things I Wish Were True About Plone" an essay by Plone founder Alexander Limi](http://limi.net/articles/18-things-i-wish-were-true-about-plone/)
 
-  - [Directory of Plone services providers, case studies, and
-    Plone-related news items](http://plone.net/)
+  - [Directory of Plone services providers, case studies, and Plone-related news items](http://plone.net/)
 
-  - [Introducing Plone, a
-    Screencast](http://www.archive.org/details/SeanKellyIntroducingPlone)
+  - [Introducing Plone, a Screencast](http://www.archive.org/details/SeanKellyIntroducingPlone)
 
-  - [Plone demo with simple and quick
-    registration](http://plonehostingdemo.nidelven-it.no)
+  - [Plone demo with simple and quick registration](http://plonehostingdemo.nidelven-it.no)
 
 ### Reviews
 
@@ -136,14 +127,10 @@ Plone被评为最安全的内容管理系统，根据Mitres CVE's CVE's via Mitr
 1.
 2.
 3.
-4.  [National Vulnerability Database, 2008-09-20, 9 records for
-    Plone, 145 Drupal, 259 Joomla\!, 149 WordPress; none of the Plone
-    vulnerabilities were rated
-    severe.](http://web.nvd.nist.gov/view/vuln/search-results?query=plone&search_type=all&cves=on)
+4.  [National Vulnerability Database, 2008-09-20, 9 records for Plone, 145 Drupal, 259 Joomla\!, 149 WordPress; none of the Plone vulnerabilities were rated severe.](http://web.nvd.nist.gov/view/vuln/search-results?query=plone&search_type=all&cves=on)
 5.  [1](http://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=plone)
 6.  [2](http://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=wordpress)
 7.  [3](http://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=drupal)
 8.  [4](http://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=joomla)
 9.
-10. [Plone 3.0功能— Plone
-    CMS:开源内容管理系统](http://plone.org/products/plone/features/3.0/)
+10. [Plone 3.0功能— Plone CMS:开源内容管理系统](http://plone.org/products/plone/features/3.0/)

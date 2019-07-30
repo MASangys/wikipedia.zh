@@ -1,13 +1,10 @@
-[Olympusxd.JPG](https://zh.wikipedia.org/wiki/File:Olympusxd.JPG "fig:Olympusxd.JPG")卡比較\]\]
-[Mediafo_PSd_512MB.jpg](https://zh.wikipedia.org/wiki/File:Mediafo_PSd_512MB.jpg "fig:Mediafo_PSd_512MB.jpg")
-**xD圖像卡**（）是一種專門於[数码相机的](../Page/数码相机.md "wikilink")[闪存](../Page/闪存.md "wikilink")[記憶卡](../Page/記憶卡.md "wikilink")，由[富士胶卷與](https://zh.wikipedia.org/wiki/富士胶卷 "wikilink")[奥林巴斯聯合於](https://zh.wikipedia.org/wiki/奥林巴斯 "wikilink")2002年7月發表，應用於超迷你型數码照相機市場。前述兩公司共同[研發以外](https://zh.wikipedia.org/wiki/研發 "wikilink")，[东芝亦參与研發](../Page/东芝.md "wikilink")，擁有为上述两家公司生产xD卡的[授權](https://zh.wikipedia.org/wiki/授權 "wikilink")。其他品牌，如[柯达](https://zh.wikipedia.org/wiki/柯达公司 "wikilink")、[新帝和](https://zh.wikipedia.org/wiki/新帝公司 "wikilink")[雷克沙现在也开始销售xD卡](https://zh.wikipedia.org/wiki/雷克沙 "wikilink")。
+[Olympusxd.JPG](https://zh.wikipedia.org/wiki/File:Olympusxd.JPG "fig:Olympusxd.JPG")卡比較\]\] [Mediafo_PSd_512MB.jpg](https://zh.wikipedia.org/wiki/File:Mediafo_PSd_512MB.jpg "fig:Mediafo_PSd_512MB.jpg") **xD圖像卡**（）是一種專門於[数码相机](../Page/数码相机.md "wikilink")的[闪存](../Page/闪存.md "wikilink")[記憶卡](../Page/記憶卡.md "wikilink")，由[富士胶卷與](https://zh.wikipedia.org/wiki/富士胶卷 "wikilink")[奥林巴斯聯合於](https://zh.wikipedia.org/wiki/奥林巴斯 "wikilink")2002年7月發表，應用於超迷你型數码照相機市場。前述兩公司共同[研發以外](https://zh.wikipedia.org/wiki/研發 "wikilink")，[东芝](../Page/东芝.md "wikilink")亦參与研發，擁有为上述两家公司生产xD卡的[授權](https://zh.wikipedia.org/wiki/授權 "wikilink")。其他品牌，如[柯达](https://zh.wikipedia.org/wiki/柯达公司 "wikilink")、[新帝和](https://zh.wikipedia.org/wiki/新帝公司 "wikilink")[雷克沙现在也开始销售xD卡](https://zh.wikipedia.org/wiki/雷克沙 "wikilink")。
 
 [富士胶卷與](https://zh.wikipedia.org/wiki/富士胶卷 "wikilink")[奥林巴斯以往採用](https://zh.wikipedia.org/wiki/奥林巴斯 "wikilink")[SM卡](https://zh.wikipedia.org/wiki/SM卡 "wikilink")，但因為[SM卡本身的容量限制及卡片尺寸而發展受限](https://zh.wikipedia.org/wiki/SM卡 "wikilink")，因此開發了xD卡以取代它，不过，在内部的电路却还是继承了[SM卡的设计概念](https://zh.wikipedia.org/wiki/SM卡 "wikilink")，只有存储器没有控制电路，所以，为xD卡而设计的控制集成电路也可向下相容3.3V的[SM卡](https://zh.wikipedia.org/wiki/SM卡 "wikilink")。
 
 xD卡在[奥林巴斯](https://zh.wikipedia.org/wiki/奥林巴斯 "wikilink")、[柯达](https://zh.wikipedia.org/wiki/柯达 "wikilink")、[富士胶卷的数码相机上使用](https://zh.wikipedia.org/wiki/富士胶卷 "wikilink")。
 
-M型xD卡于2005年推出。基于Multi Level
-Cell技术来获得比512MB更大的容量。虽然M型xD卡容量最终可以扩展到8GB，但目前仅有1GB一款。
+M型xD卡于2005年推出。基于Multi Level Cell技术来获得比512MB更大的容量。虽然M型xD卡容量最终可以扩展到8GB，但目前仅有1GB一款。
 
 H型xD卡於2005年11月推出。相較於M型xD卡，H型xD卡的主要追求為高速存取速率。目前容量有256MB、512MB、1GB、2GB。
 
@@ -17,7 +14,7 @@ H型xD卡於2005年11月推出。相較於M型xD卡，H型xD卡的主要追求�
 
 ## 理論傳輸速度
 
-圖片可能是從一台數碼相機的USB接口，通過[USB傳輸線傳送到](../Page/USB.md "wikilink")[個人電腦](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")，或通過讀卡器傳送到[個人電腦](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")。在這兩種情況下，電腦把記憶卡作為[大容量存儲裝置](https://zh.wikipedia.org/wiki/大容量存儲 "wikilink")。
+圖片可能是從一台數碼相機的USB接口，通過[USB](../Page/USB.md "wikilink")傳輸線傳送到[個人電腦](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")，或通過讀卡器傳送到[個人電腦](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")。在這兩種情況下，電腦把記憶卡作為[大容量存儲裝置](https://zh.wikipedia.org/wiki/大容量存儲 "wikilink")。
 
 <table>
 <thead>

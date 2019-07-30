@@ -1,10 +1,6 @@
-Game Boy Advance SP（ゲームボーイアドバンス
-SP），是[任天堂公司于](../Page/任天堂.md "wikilink")2003年2月在日本发布的[Game
-Boy
-Advance的升级版掌上游戏机](../Page/Game_Boy_Advance.md "wikilink")，售价为12500日元。之后于2003年3月22日在美国发售，售价149.95美元；于2003年3月28日在欧洲及澳大利亚发售，售价分别为129.99欧元和199.99澳元。
+Game Boy Advance SP（ゲームボーイアドバンス SP），是[任天堂](../Page/任天堂.md "wikilink")公司于2003年2月在日本发布的[Game Boy Advance的升级版掌上游戏机](../Page/Game_Boy_Advance.md "wikilink")，售价为12500日元。之后于2003年3月22日在美国发售，售价149.95美元；于2003年3月28日在欧洲及澳大利亚发售，售价分别为129.99欧元和199.99澳元。
 
-2004年10月27日任天堂与中国[神游科技在中国大陆发售中国版的GBA](../Page/神游科技.md "wikilink")
-SP——**小神游SP**，售价[人民币](../Page/人民币.md "wikilink")688元。
+2004年10月27日任天堂与中国[神游科技](../Page/神游科技.md "wikilink")在中国大陆发售中国版的GBA SP——**小神游SP**，售价[人民币](../Page/人民币.md "wikilink")688元。
 
 ## 技术参数
 
@@ -34,15 +30,11 @@ SP——**小神游SP**，售价[人民币](../Page/人民币.md "wikilink")688�
 
 <!-- end list -->
 
-  - **CPU：**32位
-    [ARM7-TDMI处理器](https://zh.wikipedia.org/wiki/ARM7 "wikilink")
-    和 8位 Zilog Z80 处理器协同工作；
+  - **CPU：**32位 [ARM7-TDMI处理器](https://zh.wikipedia.org/wiki/ARM7 "wikilink") 和 8位 Zilog Z80 处理器协同工作；
 
 <!-- end list -->
 
-  - **内存：**32 KB + 96 KB
-    的[VRAM](https://zh.wikipedia.org/wiki/VRAM "wikilink")（CPU内部），256
-    KB 的[DRAM](https://zh.wikipedia.org/wiki/DRAM "wikilink")（CPU外）；
+  - **内存：**32 KB + 96 KB 的[VRAM](https://zh.wikipedia.org/wiki/VRAM "wikilink")（CPU内部），256 KB 的[DRAM](https://zh.wikipedia.org/wiki/DRAM "wikilink")（CPU外）；
 
 <!-- end list -->
 
@@ -50,10 +42,7 @@ SP——**小神游SP**，售价[人民币](../Page/人民币.md "wikilink")688�
 
 <!-- end list -->
 
-  - **软件：**[Game Boy
-    Advance游戏卡带](../Page/Game_Boy_Advance.md "wikilink")，也对[Game
-    Boy和](../Page/Game_Boy.md "wikilink")[Game Boy
-    Color的游戏完全兼容](../Page/Game_Boy_Color.md "wikilink")；
+  - **软件：**[Game Boy Advance游戏卡带](../Page/Game_Boy_Advance.md "wikilink")，也对[Game Boy和](../Page/Game_Boy.md "wikilink")[Game Boy Color的游戏完全兼容](../Page/Game_Boy_Color.md "wikilink")；
 
 <!-- end list -->
 
@@ -69,49 +58,33 @@ SP——**小神游SP**，售价[人民币](../Page/人民币.md "wikilink")688�
 
 ### 特点
 
-GBA SP合上之后大小约为GBA的一半，而打开时大小和Game Boy
-Color近似。这种折叠的设计类似于笔记本电脑，为了防止灰尘和损伤屏幕，同时会让人联想到两个屏幕的[Game
-& Watch](../Page/Game_&_Watch.md "wikilink")。但是外壳的特殊材质，却比其他Game
-Boy系列的掌机更容易产生划痕。主机的卡带插口被移至前端，面对玩家的方向。
+GBA SP合上之后大小约为GBA的一半，而打开时大小和Game Boy Color近似。这种折叠的设计类似于笔记本电脑，为了防止灰尘和损伤屏幕，同时会让人联想到两个屏幕的[Game & Watch](../Page/Game_&_Watch.md "wikilink")。但是外壳的特殊材质，却比其他Game Boy系列的掌机更容易产生划痕。主机的卡带插口被移至前端，面对玩家的方向。
 
-GBA SP通过變壓充電器为其锂离子电池充电，以前的Game Boy系列游戏机则无法使用。但是它使用的软件和硬件依旧和[Game Boy
-Advance相同](../Page/Game_Boy_Advance.md "wikilink")。这个變壓充電器依旧能在初始版的[Nintendo
-DS上使用](https://zh.wikipedia.org/wiki/Nintendo_DS "wikilink")。
+GBA SP通过變壓充電器为其锂离子电池充电，以前的Game Boy系列游戏机则无法使用。但是它使用的软件和硬件依旧和[Game Boy Advance相同](../Page/Game_Boy_Advance.md "wikilink")。这个變壓充電器依旧能在初始版的[Nintendo DS上使用](https://zh.wikipedia.org/wiki/Nintendo_DS "wikilink")。
 
 任天堂原本希望能在GBA SP上兼容3D效果，但是由于屏幕分辨率过低而放弃。\[1\]
 
 ### 耳机插口
 
-任天堂在设计GBA SP时省略了Game Boy系列原有的耳机插口，玩家需要另外购买GBA
-SP专用的耳机，或是购买一根一端是耳机插口，一端是充电插头的适配器，这样就造成在充电时无法使用耳机的弊端。
+任天堂在设计GBA SP时省略了Game Boy系列原有的耳机插口，玩家需要另外购买GBA SP专用的耳机，或是购买一根一端是耳机插口，一端是充电插头的适配器，这样就造成在充电时无法使用耳机的弊端。
 
 ## 增亮版 SP
 
-2005年9月，就在[Game Boy
-Micro即将发售的时候](../Page/Game_Boy_Micro.md "wikilink")，任天堂在北美發布了GBA
-SP的改进版，新版的GBA SP改良了原有的前光光源，改用背光光源。新的主机有以下几个特点：
+2005年9月，就在[Game Boy Micro即将发售的时候](../Page/Game_Boy_Micro.md "wikilink")，任天堂在北美發布了GBA SP的改进版，新版的GBA SP改良了原有的前光光源，改用背光光源。新的主机有以下几个特点：
 
-  - 游戏包装注明了“现在有更加明亮的背光屏幕（Now with a BRIGHTER backlit
-    screen）！”，来区别于采用前光光源的GBA SP。
-  - 使用背光光源的增亮版GBA SP底部铭牌上的型号变为**AGS-101**，而原先的前光光源的GBA
-    SP的型号为**AGS-001**。
-  - 增亮版GBA
-    SP控制版上端的灯光按钮功能变为调节亮度，旧版的只能打开或者关闭灯光，而新版则是调节亮度无法关闭背光。增亮版在亮度设置为正常（低）时仍然比旧版明亮。
+  - 游戏包装注明了“现在有更加明亮的背光屏幕（Now with a BRIGHTER backlit screen）！”，来区别于采用前光光源的GBA SP。
+  - 使用背光光源的增亮版GBA SP底部铭牌上的型号变为**AGS-101**，而原先的前光光源的GBA SP的型号为**AGS-001**。
+  - 增亮版GBA SP控制版上端的灯光按钮功能变为调节亮度，旧版的只能打开或者关闭灯光，而新版则是调节亮度无法关闭背光。增亮版在亮度设置为正常（低）时仍然比旧版明亮。
 
-北美发售的增亮版GBA SP只有珠光红，珠光蓝，墨黑色三种颜色，之后发售了“ Toys "R"
-Us”、[海绵宝宝和](https://zh.wikipedia.org/wiki/海绵宝宝 "wikilink")[皮卡丘的限量版的增亮版GBA](../Page/皮卡丘.md "wikilink")
-SP。
+北美发售的增亮版GBA SP只有珠光红，珠光蓝，墨黑色三种颜色，之后发售了“ Toys "R" Us”、[海绵宝宝和](https://zh.wikipedia.org/wiki/海绵宝宝 "wikilink")[皮卡丘](../Page/皮卡丘.md "wikilink")的限量版的增亮版GBA SP。
 
-2006年1月，神游科技在中国大陆发售增亮版的小神游SP，发售之初有铂金色、海蓝色和玛瑙黑三种颜色可选，后续发售的限量版主机皆为增亮版。中国成为继北美之后第二个发售增亮版GBA
-SP的地区。\[2\]
+2006年1月，神游科技在中国大陆发售增亮版的小神游SP，发售之初有铂金色、海蓝色和玛瑙黑三种颜色可选，后续发售的限量版主机皆为增亮版。中国成为继北美之后第二个发售增亮版GBA SP的地区。\[2\]
 
 2006年，增亮版的GBA SP罕有的出现在欧洲市场，迄今为止只出现在丹麦，德国，意大利，荷兰，西班牙，瑞典和瑞士，并且仅有海蓝色一种颜色可选。
 
 ## 小神游 SP
 
-**小神游SP**是神游科技在2004年10月27日发售的中国大陆行货版Game Boy Advance
-SP，主机外观和内部结构与其他地区GBA
-SP几乎完全一致，只是外壳上的“Nintendo”标志变为神游的“iQue”。小神游SP首发售价为人民币688元，并在首发时发布[首日封以示纪念](https://zh.wikipedia.org/wiki/首日封 "wikilink")。\[3\]
+**小神游SP**是神游科技在2004年10月27日发售的中国大陆行货版Game Boy Advance SP，主机外观和内部结构与其他地区GBA SP几乎完全一致，只是外壳上的“Nintendo”标志变为神游的“iQue”。小神游SP首发售价为人民币688元，并在首发时发布[首日封以示纪念](https://zh.wikipedia.org/wiki/首日封 "wikilink")。\[3\]
 
 2006年1月，神游科技发布增亮版小神游SP，成为继北美之后第二个发售增亮版GBA SP的地区。
 
@@ -200,12 +173,7 @@ Rip Curl限量版（澳大利亚，2004年Rip Curl世界职业冲浪比赛）
 
   -
   -
-[Category:掌上遊戲機](https://zh.wikipedia.org/wiki/Category:掌上遊戲機 "wikilink")
-[Category:Game_Boy_Advance](https://zh.wikipedia.org/wiki/Category:Game_Boy_Advance "wikilink")
-[Category:Game_Boy遊戲機](https://zh.wikipedia.org/wiki/Category:Game_Boy遊戲機 "wikilink")
-[Category:第六世代遊戲機](https://zh.wikipedia.org/wiki/Category:第六世代遊戲機 "wikilink")
-[Category:2003年面世的產品](https://zh.wikipedia.org/wiki/Category:2003年面世的產品 "wikilink")
-[Category:好設計獎](https://zh.wikipedia.org/wiki/Category:好設計獎 "wikilink")
+[Category:掌上遊戲機](https://zh.wikipedia.org/wiki/Category:掌上遊戲機 "wikilink") [Category:Game_Boy_Advance](https://zh.wikipedia.org/wiki/Category:Game_Boy_Advance "wikilink") [Category:Game_Boy遊戲機](https://zh.wikipedia.org/wiki/Category:Game_Boy遊戲機 "wikilink") [Category:第六世代遊戲機](https://zh.wikipedia.org/wiki/Category:第六世代遊戲機 "wikilink") [Category:2003年面世的產品](https://zh.wikipedia.org/wiki/Category:2003年面世的產品 "wikilink") [Category:好設計獎](https://zh.wikipedia.org/wiki/Category:好設計獎 "wikilink")
 
 1.  <http://iwataasks.nintendo.com/interview.html#/how-nintendo-3ds-made/0/2>
 2.

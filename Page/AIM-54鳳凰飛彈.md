@@ -1,13 +1,10 @@
 [AIM-54C_Phoenix_missle_on_a_F-14D_of_VF-2_aboard_USS_Constellation_(CV-64)_on_20_March_2003_(030320-N-4142G-013).jpg](https://zh.wikipedia.org/wiki/File:AIM-54C_Phoenix_missle_on_a_F-14D_of_VF-2_aboard_USS_Constellation_\(CV-64\)_on_20_March_2003_\(030320-N-4142G-013\).jpg "fig:AIM-54C_Phoenix_missle_on_a_F-14D_of_VF-2_aboard_USS_Constellation_(CV-64)_on_20_March_2003_(030320-N-4142G-013).jpg")
 
-**AIM-54「鳳凰」空對空飛彈**（AIM-54
-Phoenix），是全世界第一種[主動雷達導引的](../Page/主動雷達導引.md "wikilink")[空對空飛彈](https://zh.wikipedia.org/wiki/空對空飛彈 "wikilink")，只曾配掛在美國的[F-14戰鬥機上](https://zh.wikipedia.org/wiki/F-14戰鬥機 "wikilink")，並由[美國與](https://zh.wikipedia.org/wiki/美國 "wikilink")[伊朗操作](https://zh.wikipedia.org/wiki/伊朗 "wikilink")。由於[美國海軍已經於](../Page/美國海軍.md "wikilink")2004年將此型飛彈全面除役，伊朗成為全世界唯一仍在使用鳳凰飛彈的國家。
+**AIM-54「鳳凰」空對空飛彈**（AIM-54 Phoenix），是全世界第一種[主動雷達導引](../Page/主動雷達導引.md "wikilink")的[空對空飛彈](https://zh.wikipedia.org/wiki/空對空飛彈 "wikilink")，只曾配掛在美國的[F-14戰鬥機上](https://zh.wikipedia.org/wiki/F-14戰鬥機 "wikilink")，並由[美國與](https://zh.wikipedia.org/wiki/美國 "wikilink")[伊朗操作](https://zh.wikipedia.org/wiki/伊朗 "wikilink")。由於[美國海軍](../Page/美國海軍.md "wikilink")已經於2004年將此型飛彈全面除役，伊朗成為全世界唯一仍在使用鳳凰飛彈的國家。
 
 ## 發展歷史
 
-AIM-54的直接發展史可以追溯到為[YF-12](https://zh.wikipedia.org/wiki/YF-12 "wikilink")[攔截機所研發的](../Page/攔截機.md "wikilink")[AIM-47飛彈與AN](https://zh.wikipedia.org/wiki/AIM-47 "wikilink")/ASG-18射控系統（Fire
-Control
-System,**FSC**）。AIM-54與AWG-9射控系統的發展初始是準備使用在海軍的[F-111B攔截機上](https://zh.wikipedia.org/wiki/F-111 "wikilink")，當F-111B被美國[國會刪除研發經費而不得不終止之後](https://zh.wikipedia.org/wiki/國會 "wikilink")，[美國海軍將這兩個系統轉移到F](../Page/美國海軍.md "wikilink")-14計畫當中，成為歷史上第一種正式服役的主動雷達導引空對空飛彈。
+AIM-54的直接發展史可以追溯到為[YF-12](https://zh.wikipedia.org/wiki/YF-12 "wikilink")[攔截機](../Page/攔截機.md "wikilink")所研發的[AIM-47飛彈與AN](https://zh.wikipedia.org/wiki/AIM-47 "wikilink")/ASG-18射控系統（Fire Control System,**FSC**）。AIM-54與AWG-9射控系統的發展初始是準備使用在海軍的[F-111B攔截機上](https://zh.wikipedia.org/wiki/F-111 "wikilink")，當F-111B被美國[國會刪除研發經費而不得不終止之後](https://zh.wikipedia.org/wiki/國會 "wikilink")，[美國海軍](../Page/美國海軍.md "wikilink")將這兩個系統轉移到F-14計畫當中，成為歷史上第一種正式服役的主動雷達導引空對空飛彈。
 
 1965年飛彈展開飛行測試，過程長達7年的時間，1972年美國海軍同意進入生產階段，第一枚AIM-54A於1974年正式遞交服役。大約有2500枚A型飛彈進入服役。
 
@@ -21,7 +18,7 @@ AIM-54C於1977年展開研發工作，歷經1979年到1985年各項測試，1981
 
 AIM-54彈體長3.96[公尺](https://zh.wikipedia.org/wiki/公尺 "wikilink")，直徑380毫米，靠近彈體中央後部有四片固定三角翼面延伸至飛彈尾部，在這四片翼面後方是四片長方型控制面。AIM-54A重443[公斤](https://zh.wikipedia.org/wiki/公斤 "wikilink")，AIM-54C增加到463公斤。，A型是連續桿而C型採用高爆破片設計，引信有撞擊和近發兩種。AIM-54的彈頭重達60公斤，創下目前為止所有空對空飛彈中最重的紀錄，可輕易以單枚飛彈擊落大型機。
 
-AIM-54C利用電子技術的進步大幅提升A型的設計與可靠性。改良的部分包含新的固態尋標頭收發單元，可程式化數位訊號處理器，數位自動駕駛儀以及簡化版的[慣性導引系統等](https://zh.wikipedia.org/wiki/慣性導引 "wikilink")。飛彈改用[摩托羅拉公司生產的DSU](https://zh.wikipedia.org/wiki/摩托羅拉 "wikilink")-28C/B引信強化飛彈在不同高度正確引爆的能力。美國海軍表示，在C型服役以前，鳳凰飛彈對於蘇聯以[轟炸機發射](https://zh.wikipedia.org/wiki/轟炸機 "wikilink")，自高空以[超音速俯衝攻擊的反艦飛彈難以有效的攔截](../Page/超音速.md "wikilink")，新型飛彈徹底補足這個漏洞。
+AIM-54C利用電子技術的進步大幅提升A型的設計與可靠性。改良的部分包含新的固態尋標頭收發單元，可程式化數位訊號處理器，數位自動駕駛儀以及簡化版的[慣性導引系統等](https://zh.wikipedia.org/wiki/慣性導引 "wikilink")。飛彈改用[摩托羅拉公司生產的DSU](https://zh.wikipedia.org/wiki/摩托羅拉 "wikilink")-28C/B引信強化飛彈在不同高度正確引爆的能力。美國海軍表示，在C型服役以前，鳳凰飛彈對於蘇聯以[轟炸機發射](https://zh.wikipedia.org/wiki/轟炸機 "wikilink")，自高空以[超音速](../Page/超音速.md "wikilink")俯衝攻擊的反艦飛彈難以有效的攔截，新型飛彈徹底補足這個漏洞。
 
 AIM-54飛彈可以在F-14飛行途中就先行啟動，可是飛彈的電子系統產生的熱量很高，如果不加以冷卻會讓彈體發生融化或者是起火的現象，甚至影響到攜帶的F-14的安全。因此AIM-54必須借助F-14內部儲存與傳輸到飛彈上的冷卻液，將這些廢熱帶走，以保證飛彈能夠正常使用。這個冷卻需求影響到發射前的準備工作，同時無法避免冷卻液洩漏的問題。直到C型飛彈以固態電子技術取代過去的設計，降低電子系統產生的熱量，免去對冷卻的需求。即使設計上如此複雜，6枚C型鳳凰飛彈還是可以在18分鐘左右掛載到F-14上。
 
@@ -31,18 +28,15 @@ AIM-54飛彈可以在F-14飛行途中就先行啟動，可是飛彈的電子系�
 
 受限於早期電子技術以及射程的需要，AIM-54的體型相當龐大，F-14可以在機腹下攜帶4枚，機翼兩側固定翼套各攜帶1枚，總共6枚的數量。最初翼套下的兩枚是準備掛在進氣道下方，不過這個位置距離地面太近，安全高度不足，因此改為攜帶[副油箱](../Page/副油箱.md "wikilink")。可是攜帶6枚飛彈之後，即使在最低安全燃料量之下，[航空母艦的飛行甲板仍舊無法支撐F](https://zh.wikipedia.org/wiki/航空母艦 "wikilink")-14降落時的衝擊，只能夠使用陸上機場跑道降落，在大多數的情況下F-14不會攜帶超過4枚AIM-54執行任務。
 
-AIM-54的設計需求是可以讓F-14在短時間之內連續發射對付數個遠程目標，這些目標包括[轟炸機](https://zh.wikipedia.org/wiki/轟炸機 "wikilink")，[反艦飛彈與戰鬥機](../Page/反艦飛彈.md "wikilink")。傳統的[半主動雷達導引一次只能對付一個目標](../Page/半主动雷达制导.md "wikilink")，[紅外線導引有效距離太短](../Page/紅外線導引.md "wikilink")，因此[主動雷達導引成為唯一的選擇](../Page/主動雷達導引.md "wikilink")，可是要達到這個設計目標，等於是要將一顆雷達縮小之後放進飛彈的鼻端，技術上的風險非常的高。
+AIM-54的設計需求是可以讓F-14在短時間之內連續發射對付數個遠程目標，這些目標包括[轟炸機](https://zh.wikipedia.org/wiki/轟炸機 "wikilink")，[反艦飛彈](../Page/反艦飛彈.md "wikilink")與戰鬥機。傳統的[半主動雷達導引一次只能對付一個目標](../Page/半主动雷达制导.md "wikilink")，[紅外線導引](../Page/紅外線導引.md "wikilink")有效距離太短，因此[主動雷達導引](../Page/主動雷達導引.md "wikilink")成為唯一的選擇，可是要達到這個設計目標，等於是要將一顆雷達縮小之後放進飛彈的鼻端，技術上的風險非常的高。
 
-AIM-54在發射前先由F-14的AWG-9或者APG-71雷達在[掃描同時追蹤](https://zh.wikipedia.org/wiki/掃描同時追蹤 "wikilink")（Track
-While
-Scan）模式下標定攻擊的目標，發射之後飛彈會先飛到24240公尺的高空（AIM-54C則為30300公尺），以最節省能量的飛行路徑達到最大的航程。在飛行途中F-14會持續以掃描同時追蹤模式掃描目標，飛彈本身在[慣性導引下飛行](https://zh.wikipedia.org/wiki/慣性導引 "wikilink")，並且以[半主動雷達導引的模式接收目標的新資料](https://zh.wikipedia.org/wiki/半主動雷達制導 "wikilink")。當距離目標大約23公里的時候，飛彈鼻端的DSQ-26雷達會開始搜索並鎖定抓到的目標，這時候F-14就不再需要提供飛彈任何目標資料。
+AIM-54在發射前先由F-14的AWG-9或者APG-71雷達在[掃描同時追蹤](https://zh.wikipedia.org/wiki/掃描同時追蹤 "wikilink")（Track While Scan）模式下標定攻擊的目標，發射之後飛彈會先飛到24240公尺的高空（AIM-54C則為30300公尺），以最節省能量的飛行路徑達到最大的航程。在飛行途中F-14會持續以掃描同時追蹤模式掃描目標，飛彈本身在[慣性導引下飛行](https://zh.wikipedia.org/wiki/慣性導引 "wikilink")，並且以[半主動雷達導引的模式接收目標的新資料](https://zh.wikipedia.org/wiki/半主動雷達制導 "wikilink")。當距離目標大約23公里的時候，飛彈鼻端的DSQ-26雷達會開始搜索並鎖定抓到的目標，這時候F-14就不再需要提供飛彈任何目標資料。
 
 當目標出現干擾訊號的時候，AIM-54另外有朝干擾源歸向（Home on Jam）的模式來對付。
 
 ## 性能
 
-[AIM-54C_350px.png](https://zh.wikipedia.org/wiki/File:AIM-54C_350px.png "fig:AIM-54C_350px.png")
-F-14發射的AIM-54的限制為：速度範圍從最小到1.6[馬赫](https://zh.wikipedia.org/wiki/馬赫 "wikilink")，高度最大為15150公尺，最低高度為15公尺，飛機運動範圍從0到6.5G都可以發射。飛彈有效最短距離3.6公里，最大距離的說法很多，一般而言比較可信的是在128（AIM-54A）到144（AIM-54C）公里之間。最大速度是4.3（AIM-54A）到5（AIM-54C）[馬赫](https://zh.wikipedia.org/wiki/馬赫 "wikilink")，最大運動能力大約17g。
+[AIM-54C_350px.png](https://zh.wikipedia.org/wiki/File:AIM-54C_350px.png "fig:AIM-54C_350px.png") F-14發射的AIM-54的限制為：速度範圍從最小到1.6[馬赫](https://zh.wikipedia.org/wiki/馬赫 "wikilink")，高度最大為15150公尺，最低高度為15公尺，飛機運動範圍從0到6.5G都可以發射。飛彈有效最短距離3.6公里，最大距離的說法很多，一般而言比較可信的是在128（AIM-54A）到144（AIM-54C）公里之間。最大速度是4.3（AIM-54A）到5（AIM-54C）[馬赫](https://zh.wikipedia.org/wiki/馬赫 "wikilink")，最大運動能力大約17g。
 
 在研發過程當中曾經有過多次的試射以測驗和展示飛彈的性能，其中幾項測試為：
 
@@ -52,8 +46,7 @@ F-14發射的AIM-54的限制為：速度範圍從最小到1.6[馬赫](https://zh
 4.  一架[BQM-34A靶機模擬](https://zh.wikipedia.org/wiki/BQM-34A "wikilink")[巡弋飛彈](https://zh.wikipedia.org/wiki/巡弋飛彈 "wikilink")，飛行高度只有15公尺，F-14於3030公尺高度發射飛彈，飛行39.6公里之後擊中目標。
 5.  一架[QF-86靶機模擬運動目標](../Page/F-86軍刀戰鬥機.md "wikilink")，飛行高度4626公尺，速度925公里／時，由水平進入一個5G的螺旋俯衝，在2775公尺高度以6G的動作改出，F-14在飛行高度3050公尺，18公里外發射飛彈，準確命中目標。
 
-F-14最重要的能力就是在短時間之內以6枚飛彈攻擊6個不同目標，這個測試一共進行過兩次，第一次是在1973年11月由John 'Smoke'
-Wilson與Jack H. Hawver兩位駕駛一架F-14進行。6個模擬的目標水平間隔15海浬，從最左邊開始分別是：
+F-14最重要的能力就是在短時間之內以6枚飛彈攻擊6個不同目標，這個測試一共進行過兩次，第一次是在1973年11月由John 'Smoke' Wilson與Jack H. Hawver兩位駕駛一架F-14進行。6個模擬的目標水平間隔15海浬，從最左邊開始分別是：
 
 1.  BQM-34E，1.1馬赫直線飛行。
 2.  QT-33，直線飛行。
@@ -70,9 +63,7 @@ Wilson與Jack H. Hawver兩位駕駛一架F-14進行。6個模擬的目標水平�
 
 ## 實戰紀錄
 
-由於操作重量的限制以及對於飛機阻力產生極大的影響，美國海軍極少攜帶鳳凰飛彈執行一般性的巡邏任務，數次F-14的作戰任務當中都只有攜帶[麻雀飛彈與](../Page/AIM-7麻雀飛彈.md "wikilink")[響尾蛇飛彈](../Page/AIM-9響尾蛇飛彈.md "wikilink")，直到1999年1月6日的[南方守望行動](https://zh.wikipedia.org/wiki/南方守望行動 "wikilink")（Operation
-Southern
-Watch）期間，自卡爾文森號航艦起飛、隸屬於的F-14D對兩架伊拉克[MiG-25戰鬥機發射兩枚鳳凰飛彈](https://zh.wikipedia.org/wiki/MiG-25戰鬥機 "wikilink")，但這兩枚飛彈都因發動機故障而沒有擊中目標，這也是[美國海軍唯一公開的實戰紀錄](../Page/美國海軍.md "wikilink")。
+由於操作重量的限制以及對於飛機阻力產生極大的影響，美國海軍極少攜帶鳳凰飛彈執行一般性的巡邏任務，數次F-14的作戰任務當中都只有攜帶[麻雀飛彈與](../Page/AIM-7麻雀飛彈.md "wikilink")[響尾蛇飛彈](../Page/AIM-9響尾蛇飛彈.md "wikilink")，直到1999年1月6日的[南方守望行動](https://zh.wikipedia.org/wiki/南方守望行動 "wikilink")（Operation Southern Watch）期間，自卡爾文森號航艦起飛、隸屬於的F-14D對兩架伊拉克[MiG-25戰鬥機發射兩枚鳳凰飛彈](https://zh.wikipedia.org/wiki/MiG-25戰鬥機 "wikilink")，但這兩枚飛彈都因發動機故障而沒有擊中目標，這也是[美國海軍](../Page/美國海軍.md "wikilink")唯一公開的實戰紀錄。
 
 伊朗空軍在1980年代[兩伊戰爭中曾有數次使用鳳凰飛彈擊落伊拉克飛機紀錄](https://zh.wikipedia.org/wiki/兩伊戰爭 "wikilink")，到2006年為止，[伊朗也是唯一仍舊操作鳳凰飛彈的國家](https://zh.wikipedia.org/wiki/伊朗 "wikilink")。根據2006年的報導，伊朗已經克服飛彈需要冷卻的問題並且對部分零件加以更換。目前操作數量不明。
 
@@ -97,20 +88,14 @@ Watch）期間，自卡爾文森號航艦起飛、隸屬於的F-14D對兩架伊�
 
 ## 外部連結
 
-  - [The F-14 Tomcat
-    Association](http://www.f-14association.com/schedule.htm)
-  - [HOME OF M.A.T.S. - The most comprehensive Grumman F-14 Reference
-    Work](http://www.anft.net/f-14/index.htm)
+  - [The F-14 Tomcat Association](http://www.f-14association.com/schedule.htm)
+  - [HOME OF M.A.T.S. - The most comprehensive Grumman F-14 Reference Work](http://www.anft.net/f-14/index.htm)
   - [Grumman F-14 Tomcat](http://www.fighter-planes.com/info/f14.htm)
-  - [F-14 Tomcat - Standard Fleet Fighter
-    Aircraft](http://www.naval-technology.com/projects/f14/)
-  - [Carolinas Aviation
-    Museum](https://web.archive.org/web/20060502080006/http://www.carolinasaviation.org/collections/aircraft/f14d-161166.html)
-  - [Air Power Analysis: F-14
-    Tomcat](https://web.archive.org/web/20070928075849/http://www.jolly-rogers.com/airpower/f-14/index.html)
+  - [F-14 Tomcat - Standard Fleet Fighter Aircraft](http://www.naval-technology.com/projects/f14/)
+  - [Carolinas Aviation Museum](https://web.archive.org/web/20060502080006/http://www.carolinasaviation.org/collections/aircraft/f14d-161166.html)
+  - [Air Power Analysis: F-14 Tomcat](https://web.archive.org/web/20070928075849/http://www.jolly-rogers.com/airpower/f-14/index.html)
 
-[Category:美國飛彈](https://zh.wikipedia.org/wiki/Category:美國飛彈 "wikilink")
-[Category:空對空飛彈](https://zh.wikipedia.org/wiki/Category:空對空飛彈 "wikilink")
+[Category:美國飛彈](https://zh.wikipedia.org/wiki/Category:美國飛彈 "wikilink") [Category:空對空飛彈](https://zh.wikipedia.org/wiki/Category:空對空飛彈 "wikilink")
 
 1.  [观察者网-伊朗宣布开工批量仿制美国“不死鸟”](https://new.qq.com/omn/20180724/20180724A0E5GC.html)
 2.  [央視官方頻道-伊朗仿製鳳凰](https://www.youtube.com/watch?v=nWIUWioWjqw)

@@ -1,19 +1,12 @@
-**Adobe After
-Effects**是一套影片製作軟體，現在由[Adobe公司提供更新](../Page/Adobe.md "wikilink")，用於[2D和](https://zh.wikipedia.org/wiki/2D "wikilink")[3D合成](https://zh.wikipedia.org/wiki/3D "wikilink")、[動畫製作和](https://zh.wikipedia.org/wiki/動畫 "wikilink")[視覺特效](https://zh.wikipedia.org/wiki/視覺效果 "wikilink")，是基於[非線性編輯的軟體](https://zh.wikipedia.org/wiki/非線性編輯 "wikilink")。
+**Adobe After Effects**是一套影片製作軟體，現在由[Adobe](../Page/Adobe.md "wikilink")公司提供更新，用於[2D和](https://zh.wikipedia.org/wiki/2D "wikilink")[3D合成](https://zh.wikipedia.org/wiki/3D "wikilink")、[動畫製作和](https://zh.wikipedia.org/wiki/動畫 "wikilink")[視覺特效](https://zh.wikipedia.org/wiki/視覺效果 "wikilink")，是基於[非線性編輯的軟體](https://zh.wikipedia.org/wiki/非線性編輯 "wikilink")。
 
 ## 工作模式
 
-Adobe After
-Effects主要用於創建[動態圖形和](https://zh.wikipedia.org/wiki/動態圖形 "wikilink")[視覺特效](https://zh.wikipedia.org/wiki/視覺特效 "wikilink")。允許使用者以2D或3D中的各種內建工具和第三方外掛程式(插件)創建動畫。After
-Effects是基於非線性編輯的軟體，透過“**層”**控制音訊與影片的合成，這意味著每個單獨的媒體對象（影片剪輯，音訊剪輯，靜態圖像等）都有自己獨立的軌道。與此相反的，一些其他的非線性編輯系統使用另一種模式，即只要媒體對象在時間上不重疊，不同的媒體對象都可以佔用相同的軌道，這種方式可以保持專案檔案的簡潔。After
-Effects採用的層系統廣泛的應用關鍵幀。雖然其他合成軟體，特別是那些採用樹狀或節點的工作模式（如[Nuke](../Page/Nuke.md "wikilink")），更適合管理大量的素材，但是After
-Effects能夠透過有選擇性地**隱藏層**或**分組**來管理有點雜亂的軌道。
+Adobe After Effects主要用於創建[動態圖形和](https://zh.wikipedia.org/wiki/動態圖形 "wikilink")[視覺特效](https://zh.wikipedia.org/wiki/視覺特效 "wikilink")。允許使用者以2D或3D中的各種內建工具和第三方外掛程式(插件)創建動畫。After Effects是基於非線性編輯的軟體，透過“**層”**控制音訊與影片的合成，這意味著每個單獨的媒體對象（影片剪輯，音訊剪輯，靜態圖像等）都有自己獨立的軌道。與此相反的，一些其他的非線性編輯系統使用另一種模式，即只要媒體對象在時間上不重疊，不同的媒體對象都可以佔用相同的軌道，這種方式可以保持專案檔案的簡潔。After Effects採用的層系統廣泛的應用關鍵幀。雖然其他合成軟體，特別是那些採用樹狀或節點的工作模式（如[Nuke](../Page/Nuke.md "wikilink")），更適合管理大量的素材，但是After Effects能夠透過有選擇性地**隱藏層**或**分組**來管理有點雜亂的軌道。
 
 主介面由幾個面板組成。最基本的面板為**專案面板**、**合成面板**和**時間軸面板**。專案面板可以導入影片和音訊素材到專案中。時間軸面板可以調整層順序及時間。當前時間的可見專案畫面會顯示在合成面板中。
 
-After
-Effects中的許多功能與其他Adobe應用程式類似，如Photoshop和Illustrator中的創建圓形、方形、貝茲曲線。After
-Effects可以導入和處理多種影像格式，以及調整和增加過濾器。
+After Effects中的許多功能與其他Adobe應用程式類似，如Photoshop和Illustrator中的創建圓形、方形、貝茲曲線。After Effects可以導入和處理多種影像格式，以及調整和增加過濾器。
 
 ## 歷史
 
@@ -64,10 +57,10 @@ Effects可以導入和處理多種影像格式，以及調整和增加過濾器�
   - 1992年6月Egg开发开始
   - 1993年1月After Effects 1.0发布
   - 1993年5月After Effects 1.1发布
-  - 1993年7月CoSA被[Aldus收购](../Page/Aldus.md "wikilink")
+  - 1993年7月CoSA被[Aldus](../Page/Aldus.md "wikilink")收购
   - 1994年1月After Effects 2.0（Teriyaki）发布
   - 1994年4-6月CoSA的10个成员迁往Seattle
-  - 1994年9月Aldus被[Adobe收购](../Page/Adobe.md "wikilink")
+  - 1994年9月Aldus被[Adobe](../Page/Adobe.md "wikilink")收购
   - 1995年10月After Effects 3.0（Nimchow）发布
   - 1996年4月After Effects 3.1发布
   - 1997年5月After Effects 3.1 Windows版本（Dancing Monkey）发布

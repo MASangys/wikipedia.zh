@@ -1,28 +1,18 @@
-**串行ATA**（**Serial ATA: Serial Advanced Technology
-Attachment**）是一種[電腦](https://zh.wikipedia.org/wiki/電腦 "wikilink")[匯流排](https://zh.wikipedia.org/wiki/匯流排 "wikilink")，負責[主機板和大容量儲存裝置](https://zh.wikipedia.org/wiki/主機板 "wikilink")（如[硬碟及](https://zh.wikipedia.org/wiki/硬碟 "wikilink")[光碟機](https://zh.wikipedia.org/wiki/光碟機 "wikilink")）之間的數據傳輸，主要用於個人電腦。串行ATA與[串列SCSI](../Page/串列SCSI.md "wikilink")（SAS:
-Serial Attached SCSI）的兩者排線相容，SATA硬碟可接上SAS介面。
+**串行ATA**（**Serial ATA: Serial Advanced Technology Attachment**）是一種[電腦](https://zh.wikipedia.org/wiki/電腦 "wikilink")[匯流排](https://zh.wikipedia.org/wiki/匯流排 "wikilink")，負責[主機板和大容量儲存裝置](https://zh.wikipedia.org/wiki/主機板 "wikilink")（如[硬碟及](https://zh.wikipedia.org/wiki/硬碟 "wikilink")[光碟機](https://zh.wikipedia.org/wiki/光碟機 "wikilink")）之間的數據傳輸，主要用於個人電腦。串行ATA與[串列SCSI](../Page/串列SCSI.md "wikilink")（SAS: Serial Attached SCSI）的兩者排線相容，SATA硬碟可接上SAS介面。
 
-2000年11月由「Serial ATA Working
-Group」團體所制定，取代舊式[PATA](../Page/高技術配置.md "wikilink")（Parallel
-ATA或舊稱IDE）接口的舊式[硬盘](../Page/硬盘.md "wikilink")，因采用串行方式传输数据而得名。在數據傳輸上這一方面，SATA的速度比以往更加快捷，並支持[热插拔](https://zh.wikipedia.org/wiki/热插拔 "wikilink")，使電腦運作時可以插上或拔除硬件。另一方面，SATA总线使用嵌入式[時脈訊號](https://zh.wikipedia.org/wiki/時脈訊號 "wikilink")，具备比以往更强的纠错能力，能对传输指令（不仅是数据）进行检查，如果发现错误会自动矫正，提高数据传输的可靠性。不過，SATA和以往最明顯的分別，是使用較细的排線，有利機箱內部的空氣流通，某程度上增加整個平台的穩定性。
+2000年11月由「Serial ATA Working Group」團體所制定，取代舊式[PATA](../Page/高技術配置.md "wikilink")（Parallel ATA或舊稱IDE）接口的舊式[硬盘](../Page/硬盘.md "wikilink")，因采用串行方式传输数据而得名。在數據傳輸上這一方面，SATA的速度比以往更加快捷，並支持[热插拔](https://zh.wikipedia.org/wiki/热插拔 "wikilink")，使電腦運作時可以插上或拔除硬件。另一方面，SATA总线使用嵌入式[時脈訊號](https://zh.wikipedia.org/wiki/時脈訊號 "wikilink")，具备比以往更强的纠错能力，能对传输指令（不仅是数据）进行检查，如果发现错误会自动矫正，提高数据传输的可靠性。不過，SATA和以往最明顯的分別，是使用較细的排線，有利機箱內部的空氣流通，某程度上增加整個平台的穩定性。
 
-現時，SATA分別有SATA 1.5Gbit/s、SATA 3Gb/s和SATA 6Gb/s三種規格。2013年推出更快速的SATA
-Express規格。
+現時，SATA分別有SATA 1.5Gbit/s、SATA 3Gb/s和SATA 6Gb/s三種規格。2013年推出更快速的SATA Express規格。
 
 ## 特色
 
 ### 頻寬速度換算
 
-需要注意的是，在一些新的技术标准中，为了防止数据在高速传输中出错而加入校验码，比如PCI-E 2.0、USB 3.0和SATA
-3.0中采用的是[8/10编码](https://zh.wikipedia.org/wiki/8b/10b "wikilink")，每10位编码中只有8位是真实数据，这时单位换算就不再是1:8而是1:10，USB
-3.0的5Gbps速度实际上是理论500MB/s而非理论625MB/s，SATA 6Gbps的理论速度则是600MB/s而非750MB/s。
+需要注意的是，在一些新的技术标准中，为了防止数据在高速传输中出错而加入校验码，比如PCI-E 2.0、USB 3.0和SATA 3.0中采用的是[8/10编码](https://zh.wikipedia.org/wiki/8b/10b "wikilink")，每10位编码中只有8位是真实数据，这时单位换算就不再是1:8而是1:10，USB 3.0的5Gbps速度实际上是理论500MB/s而非理论625MB/s，SATA 6Gbps的理论速度则是600MB/s而非750MB/s。
 
-所謂3Gb/s的算法，3000MHz的頻率x每次發送一個數據x 80%(8b/10b的編碼) / 8 bits per byte =
-300Mbytes/s，同理1.5Gb/s也是這樣可算成150MB/s，也就是一般我們在買硬碟時，有時候會看到SATA 150MB/s /
-300MB/s，有時候又會看到SATA 1.5Gb/s / 3Gb/s的緣故。
+所謂3Gb/s的算法，3000MHz的頻率x每次發送一個數據x 80%(8b/10b的編碼) / 8 bits per byte = 300Mbytes/s，同理1.5Gb/s也是這樣可算成150MB/s，也就是一般我們在買硬碟時，有時候會看到SATA 150MB/s / 300MB/s，有時候又會看到SATA 1.5Gb/s / 3Gb/s的緣故。
 
-以USB 3.0而言，它擁有5Gbps的頻寬，每次發送一個數據x 80%(8b/10b的編碼) / 8 bits per byte =
-500Mbytes/s，所以USB 3.0的頻寬比SATA 3.0的600MB/s還來的小。
+以USB 3.0而言，它擁有5Gbps的頻寬，每次發送一個數據x 80%(8b/10b的編碼) / 8 bits per byte = 500Mbytes/s，所以USB 3.0的頻寬比SATA 3.0的600MB/s還來的小。
 
 | 版本           | 頻寬      | 理論速度     | 編碼        |
 | ------------ | ------- | -------- | --------- |
@@ -46,12 +36,9 @@ Express規格。
 | [SATA_Data_Cable.jpg](https://zh.wikipedia.org/wiki/File:SATA_Data_Cable.jpg "fig:SATA_Data_Cable.jpg") |        |
 | <small>SATA排線</small>                                                                                     |        |
 
-傳統的Parallel
-ATA使用單模信號放大系統「single-end-signal-amplified-system」。在這種系統中，雜訊會隨著正常信號一起傳輸、放大，不易被抑制；在高速時尤其嚴重，為了有效的減少雜訊的干擾，我們只好使用高達5V的電壓來傳送正常訊號，使大電壓的正常訊號蓋過小電壓的雜訊信號。雖然大的電壓可以有效的抑制雜訊，但是大的電壓同時也表示驅動電路的生產成本將因此上升，大電壓更不利於高速傳輸系統的設計和製造，高達5V的傳輸電壓限制追求高速和低成本的可能性。
+傳統的Parallel ATA使用單模信號放大系統「single-end-signal-amplified-system」。在這種系統中，雜訊會隨著正常信號一起傳輸、放大，不易被抑制；在高速時尤其嚴重，為了有效的減少雜訊的干擾，我們只好使用高達5V的電壓來傳送正常訊號，使大電壓的正常訊號蓋過小電壓的雜訊信號。雖然大的電壓可以有效的抑制雜訊，但是大的電壓同時也表示驅動電路的生產成本將因此上升，大電壓更不利於高速傳輸系統的設計和製造，高達5V的傳輸電壓限制追求高速和低成本的可能性。
 
-和Parallel ATA相比，新的Serial
-ATA使用[差分信號系統](https://zh.wikipedia.org/wiki/差分信號 "wikilink")（differential-signal-amplified-system）。這種系統能有效的將雜訊從正常訊號中濾除，良好的雜訊濾除能力使得SATA只要使用低電壓操作即可，和Parallel
-ATA高達5V的傳輸電壓相比，SATA只要0.5V（500mv）的峰對峰值電壓即可操作於更高的速度之上。比較正確的說法是：峰對峰值『差模電壓』。
+和Parallel ATA相比，新的Serial ATA使用[差分信號系統](https://zh.wikipedia.org/wiki/差分信號 "wikilink")（differential-signal-amplified-system）。這種系統能有效的將雜訊從正常訊號中濾除，良好的雜訊濾除能力使得SATA只要使用低電壓操作即可，和Parallel ATA高達5V的傳輸電壓相比，SATA只要0.5V（500mv）的峰對峰值電壓即可操作於更高的速度之上。比較正確的說法是：峰對峰值『差模電壓』。
 
 和Parallel ATA的5V驅動電壓相比，0.5V的SATA系統節省電力，其驅動IC的生產成本也較為便宜。
 
@@ -69,8 +56,7 @@ SATA 1.0於2003年1月7日推出，為第一代SATA介面，坊間的非官方�
 
 ### SATA 2.0
 
-SATA
-2.0於2004年正式推出，坊間的非官方名稱為SATA-2（SATA-II），符合ATA-7規範，傳輸速度可達3.0Gbit/s。顯示SATA的速度提升是以幾何級數增長，這點和PATA的算術級數增長是不同的。
+SATA 2.0於2004年正式推出，坊間的非官方名稱為SATA-2（SATA-II），符合ATA-7規範，傳輸速度可達3.0Gbit/s。顯示SATA的速度提升是以幾何級數增長，這點和PATA的算術級數增長是不同的。
 
 SATA 3Gb/s比SATA 1.5Gb/s進步的地方在於：
 
@@ -81,25 +67,17 @@ SATA 3Gb/s比SATA 1.5Gb/s進步的地方在於：
 
 ### SATA 3.0
 
-[SATA_6Gbs_Logo.gif](https://zh.wikipedia.org/wiki/File:SATA_6Gbs_Logo.gif "fig:SATA_6Gbs_Logo.gif")
-SATA
-3.0於2009年5月26日完成最終規格發布，比上一代提升一倍速率至6Gb/s，此外增加多項新技術，包含新增NCQ指令以改良傳輸技術，並減低傳輸時所需耗電量。
+[SATA_6Gbs_Logo.gif](https://zh.wikipedia.org/wiki/File:SATA_6Gbs_Logo.gif "fig:SATA_6Gbs_Logo.gif") SATA 3.0於2009年5月26日完成最終規格發布，比上一代提升一倍速率至6Gb/s，此外增加多項新技術，包含新增NCQ指令以改良傳輸技術，並減低傳輸時所需耗電量。
 
-依據Serial ATA Revison
-3.0規格白皮書，[AHCI底下改善](../Page/AHCI.md "wikilink")（NCQ）串行指令NCQ的指令數目、NCQ的指令優先權及演算法SATA
-3.0亦會增加，包括為即時性的資源提供優先處理，主要用於影像及音像傳輸方面。此外SATA
-3.0同時會為正被系統處理中的資源作優先安排，大大提升系統的執行效率。
+依據Serial ATA Revison 3.0規格白皮書，[AHCI](../Page/AHCI.md "wikilink")底下改善（NCQ）串行指令NCQ的指令數目、NCQ的指令優先權及演算法SATA 3.0亦會增加，包括為即時性的資源提供優先處理，主要用於影像及音像傳輸方面。此外SATA 3.0同時會為正被系統處理中的資源作優先安排，大大提升系統的執行效率。
 
-為了降低耗電，SATA 3.0採用全新INCITS
-ATA8-ACS標準，不但可相容舊有的SATA裝置、改良傳輸訊號技術，亦大幅減低SATA2.0傳輸時所需功耗。
+為了降低耗電，SATA 3.0採用全新INCITS ATA8-ACS標準，不但可相容舊有的SATA裝置、改良傳輸訊號技術，亦大幅減低SATA2.0傳輸時所需功耗。
 
-針對筆記型電腦（NB）市場對體積的需求，SATA 3.0提供較一般SATA2.0接口細小的LIF介面（Low Insertion Force
-Connector），專門針對1.8吋的儲存裝置，包括僅厚7mm光碟機。
+針對筆記型電腦（NB）市場對體積的需求，SATA 3.0提供較一般SATA2.0接口細小的LIF介面（Low Insertion Force Connector），專門針對1.8吋的儲存裝置，包括僅厚7mm光碟機。
 
 2011年7月18日SATA-IO公佈SATA3.1規格，3.1版帶來諸多特性，例如節電測量，TRIM性能提升和一些雜項調整。
 
-3.1版帶來一個新的mini SATA接口，主要用於為移動計算設備增強互操作性，Zero-Power Optical Disk
-Drive（ODD）的發明減少閒置光碟機的耗電量，用新的電源管理策略降低整個系統的電力需求。TRIM改進允許SATA固態硬碟在不影響性能的前提下自行修剪，改善SSD的性能，同時還帶來讓主機識別設備的硬件設備功能，提升SATA的兼容性。
+3.1版帶來一個新的mini SATA接口，主要用於為移動計算設備增強互操作性，Zero-Power Optical Disk Drive（ODD）的發明減少閒置光碟機的耗電量，用新的電源管理策略降低整個系統的電力需求。TRIM改進允許SATA固態硬碟在不影響性能的前提下自行修剪，改善SSD的性能，同時還帶來讓主機識別設備的硬件設備功能，提升SATA的兼容性。
 
 另一個值得注意的是SATA通用存儲模塊（USM）和熱插拔SATA驅動器模塊，它讓SATA硬碟的熱插拔機制更為成熟，目前希捷GoFlex部分型號的硬碟已經開始支持。
 
@@ -116,10 +94,7 @@ Drive（ODD）的發明減少閒置光碟機的耗電量，用新的電源管理
 
 ### SATA 3.2
 
-為解決[固態硬碟的資料傳送瓶頸](https://zh.wikipedia.org/wiki/固態硬碟 "wikilink")，[國際序列式ATA組織正著手制定下一代串列ATA的標準](../Page/國際序列式ATA組織.md "wikilink")——SATA
-3.2。SATA
-Express最大傳送速率為16Gb/s，使用兩條[PCIe](https://zh.wikipedia.org/wiki/PCIe "wikilink")
-3.0總線連接SSD。連接埠和制式向下相容前三代SATA的標準。\[7\]\[8\]\[9\]\[10\]\[11\]
+為解決[固態硬碟的資料傳送瓶頸](https://zh.wikipedia.org/wiki/固態硬碟 "wikilink")，[國際序列式ATA組織](../Page/國際序列式ATA組織.md "wikilink")正著手制定下一代串列ATA的標準——SATA 3.2。SATA Express最大傳送速率為16Gb/s，使用兩條[PCIe](https://zh.wikipedia.org/wiki/PCIe "wikilink") 3.0總線連接SSD。連接埠和制式向下相容前三代SATA的標準。\[7\]\[8\]\[9\]\[10\]\[11\]
 
 ### SATA 3.3
 
@@ -127,36 +102,25 @@ Express最大傳送速率為16Gb/s，使用兩條[PCIe](https://zh.wikipedia.org
 
 ## eSATA
 
-External Serial ATA的略称，是为面向外接驱动器而制定的Serial ATA
-1.0a的扩展规格。虽然规模比较小，但已经有相对应的产品在市面流通。它最大的缺點是沒有電力供應，競爭對手[USB](../Page/USB.md "wikilink"),
-[FireWire](https://zh.wikipedia.org/wiki/FireWire "wikilink"),
-[Thunderbolt都能傳輸](../Page/Thunderbolt.md "wikilink")[數據及](https://zh.wikipedia.org/wiki/數據 "wikilink")[電力](../Page/電力.md "wikilink")。這使得eSATA硬碟需要連接一個獨立[變壓器才可運作](https://zh.wikipedia.org/wiki/變壓器 "wikilink")。
+External Serial ATA的略称，是为面向外接驱动器而制定的Serial ATA 1.0a的扩展规格。虽然规模比较小，但已经有相对应的产品在市面流通。它最大的缺點是沒有電力供應，競爭對手[USB](../Page/USB.md "wikilink"), [FireWire](https://zh.wikipedia.org/wiki/FireWire "wikilink"), [Thunderbolt](../Page/Thunderbolt.md "wikilink")都能傳輸[數據及](https://zh.wikipedia.org/wiki/數據 "wikilink")[電力](../Page/電力.md "wikilink")。這使得eSATA硬碟需要連接一個獨立[變壓器才可運作](https://zh.wikipedia.org/wiki/變壓器 "wikilink")。
 
   - 为了防止误接，eSATA的接口形状与SATA的接口形状是不一样的
   - 连接线的最大长度为2m
   - 支持热插拔
-  - 传输速度可以达到现在主流的[USB
-    2.0的传输速度的](https://zh.wikipedia.org/wiki/USB_2.0 "wikilink")2倍以上，但依然比[USB
-    3.0為慢](../Page/USB_3.0.md "wikilink")
+  - 传输速度可以达到现在主流的[USB 2.0的传输速度的](https://zh.wikipedia.org/wiki/USB_2.0 "wikilink")2倍以上，但依然比[USB 3.0為慢](../Page/USB_3.0.md "wikilink")
   - 提高接頭的插拔耐用度
 
 <File:ESATA> Logo.png|官方標誌 <File:SATA2> und eSATA-Stecker.jpg|左：SATA
-右：eSATA
-[File:Connector_esata_IMGP6050_wp.jpg|eSATA插座](File:Connector_esata_IMGP6050_wp.jpg%7CeSATA插座)
-<File:Esatap> port.JPG|eSATAp插座結合了eSATA和USB
+右：eSATA [File:Connector_esata_IMGP6050_wp.jpg|eSATA插座](File:Connector_esata_IMGP6050_wp.jpg%7CeSATA插座) <File:Esatap> port.JPG|eSATAp插座結合了eSATA和USB
 
-為了解決供電問題，[SATA-IO於](../Page/國際序列式ATA組織.md "wikilink")2008年推出了eSATAp
-(Power over eSATA)，它結合了eSATA的七個針腳及USB
-2.0的四個針腳，利用USB針腳提供5V及12V（可選）電壓。此插座主要在硬碟外接盒中使用，既可以插入eSATA，也可以插入USB。
+為了解決供電問題，[SATA-IO於](../Page/國際序列式ATA組織.md "wikilink")2008年推出了eSATAp (Power over eSATA)，它結合了eSATA的七個針腳及USB 2.0的四個針腳，利用USB針腳提供5V及12V（可選）電壓。此插座主要在硬碟外接盒中使用，既可以插入eSATA，也可以插入USB。
 
 ## mSATA
 
 [MSATA_SSD_vs._2.5"_SATA_drive.JPG](https://zh.wikipedia.org/wiki/File:MSATA_SSD_vs._2.5"_SATA_drive.JPG "fig:MSATA_SSD_vs._2.5\"_SATA_drive.JPG")
-下: 2.5" SATA硬盘\]\] mSATA (mini-SATA)是迷你版本SATA接口，外型和電子-{介面}-與mini
-[PCI-E完全相同](https://zh.wikipedia.org/wiki/PCI-E "wikilink")，但電子信號不同，兩者互不相容。mSATA接口多用于[固态硬盘](../Page/固态硬盘.md "wikilink")，适用于需要尺寸较小的存储器的场合（例如[Ultrabook](../Page/Ultrabook.md "wikilink")）。
+下: 2.5" SATA硬盘\]\] mSATA (mini-SATA)是迷你版本SATA接口，外型和電子-{介面}-與mini [PCI-E完全相同](https://zh.wikipedia.org/wiki/PCI-E "wikilink")，但電子信號不同，兩者互不相容。mSATA接口多用于[固态硬盘](../Page/固态硬盘.md "wikilink")，适用于需要尺寸较小的存储器的场合（例如[Ultrabook](../Page/Ultrabook.md "wikilink")）。
 
-mSATA固态硬盘形似mini PCI-E扩展卡，尺寸很小，有助于节省机器内部空间。官方標準為MO-300
-mSATA，也有自定长度的mSATA固态硬盘。
+mSATA固态硬盘形似mini PCI-E扩展卡，尺寸很小，有助于节省机器内部空间。官方標準為MO-300 mSATA，也有自定长度的mSATA固态硬盘。
 
 ## SATA与其他规格的比较
 
@@ -395,9 +359,7 @@ Quad Rate</p></td>
 </tbody>
 </table>
 
-與 PATA 不同，SATA 和 eSATA
-都支援[熱插拔](https://zh.wikipedia.org/wiki/熱插拔 "wikilink")，但此功能需要主機、裝置和操作系统的支援。基本上所有
-SATA 裝置（硬碟）都支援熱插拔（基於裝置的需要），絕大部分的 SATA 主機適配器都支援此指令。\[24\]
+與 PATA 不同，SATA 和 eSATA 都支援[熱插拔](https://zh.wikipedia.org/wiki/熱插拔 "wikilink")，但此功能需要主機、裝置和操作系统的支援。基本上所有 SATA 裝置（硬碟）都支援熱插拔（基於裝置的需要），絕大部分的 SATA 主機適配器都支援此指令。\[24\]
 
 ## 註解
 
@@ -416,9 +378,7 @@ SATA 裝置（硬碟）都支援熱插拔（基於裝置的需要），絕大部
   - [原生指令排序](../Page/原生指令排序.md "wikilink")
   - [電腦裝置頻寬列表](../Page/電腦裝置頻寬列表.md "wikilink")
 
-[Category:串行总线](https://zh.wikipedia.org/wiki/Category:串行总线 "wikilink")
-[Category:计算机总线](https://zh.wikipedia.org/wiki/Category:计算机总线 "wikilink")
-[Category:主板](https://zh.wikipedia.org/wiki/Category:主板 "wikilink")
+[Category:串行总线](https://zh.wikipedia.org/wiki/Category:串行总线 "wikilink") [Category:计算机总线](https://zh.wikipedia.org/wiki/Category:计算机总线 "wikilink") [Category:主板](https://zh.wikipedia.org/wiki/Category:主板 "wikilink")
 
 1.
 
@@ -432,20 +392,13 @@ SATA 裝置（硬碟）都支援熱插拔（基於裝置的需要），絕大部
 
 6.
 
-7.  [SATA3也落后了? SATA新接口标准将到来](http://vga.zol.com.cn/346/3462421.html) -
-    zol.com.cn
+7.  [SATA3也落后了? SATA新接口标准将到来](http://vga.zol.com.cn/346/3462421.html) - zol.com.cn
 
-8.  [打破传输瓶颈SATA
-    Express接口标准即将登场](http://news.mydrivers.com/1/251/251408.htm)
-    - mydrivers.com
+8.  [打破传输瓶颈SATA Express接口标准即将登场](http://news.mydrivers.com/1/251/251408.htm) - mydrivers.com
 
-9.  [SATA的下一代「SATA
-    Express」](http://www.coolaler.com/showthread.php/271253-SATA%E7%9A%84%E4%B8%8B%E4%B8%80%E4%BB%A3%E3%80%8CSATA-Express%E3%80%8D)
-    - coolaler.com
+9.  [SATA的下一代「SATA Express」](http://www.coolaler.com/showthread.php/271253-SATA%E7%9A%84%E4%B8%8B%E4%B8%80%E4%BB%A3%E3%80%8CSATA-Express%E3%80%8D) - coolaler.com
 
-10. [Speedy 8Gbit, 16Gbit SATA Express systems coming this
-    year](http://www.computerworld.com/s/article/9235229/Speedy_8Gbit_16Gbit_SATA_Express_systems_coming_this_year)
-    - computerworld.com
+10. [Speedy 8Gbit, 16Gbit SATA Express systems coming this year](http://www.computerworld.com/s/article/9235229/Speedy_8Gbit_16Gbit_SATA_Express_systems_coming_this_year) - computerworld.com
 
 11. [1](http://www.sata-io.org/zh-trad/?lang=zh-trad)  - Serial ATA國際組織
 

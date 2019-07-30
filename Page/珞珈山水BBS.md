@@ -1,12 +1,12 @@
 [2008ss.jpg](https://zh.wikipedia.org/wiki/File:2008ss.jpg "fig:2008ss.jpg")[WHU_LJSS_BBS.png](https://zh.wikipedia.org/wiki/File:WHU_LJSS_BBS.png "fig:WHU_LJSS_BBS.png")
 
-**珞珈山水BBS**（缩写**LJSS**，简称**[珞珈山水](https://zh.wikipedia.org/wiki/珞珈山水 "wikilink")**或**山水**）是[武汉大学的官方](../Page/武汉大学.md "wikilink")[BBS](../Page/BBS.md "wikilink")，创建于1996年10月8日，现已成为武汉大学最大的校内交流平台。
+**珞珈山水BBS**（缩写**LJSS**，简称**[珞珈山水](https://zh.wikipedia.org/wiki/珞珈山水 "wikilink")**或**山水**）是[武汉大学](../Page/武汉大学.md "wikilink")的官方[BBS](../Page/BBS.md "wikilink")，创建于1996年10月8日，现已成为武汉大学最大的校内交流平台。
 
 ## 主要站史
 
 1996年：
 
-  - 10月8日，武汉大学软件所（现为[软件工程国家重点实验室](https://zh.wikipedia.org/wiki/软件工程国家重点实验室 "wikilink")）一台[SUN](https://zh.wikipedia.org/wiki/升阳 "wikilink")[工作站上建立了一个BBS](../Page/工作站.md "wikilink")。因武汉大学坐拥[珞珈山](../Page/珞珈山.md "wikilink")，环绕[东湖水](https://zh.wikipedia.org/wiki/武汉东湖 "wikilink")，这个BBS得名珞珈山水BBS。
+  - 10月8日，武汉大学软件所（现为[软件工程国家重点实验室](https://zh.wikipedia.org/wiki/软件工程国家重点实验室 "wikilink")）一台[SUN](https://zh.wikipedia.org/wiki/升阳 "wikilink")[工作站](../Page/工作站.md "wikilink")上建立了一个BBS。因武汉大学坐拥[珞珈山](../Page/珞珈山.md "wikilink")，环绕[东湖水](https://zh.wikipedia.org/wiki/武汉东湖 "wikilink")，这个BBS得名珞珈山水BBS。
 
 2002年：
 
@@ -19,8 +19,7 @@
   - 4月12日，珞珈山水BBS实行实名注册。
   - 5月1日，实名注册制度建立后，珞珈山水BBS恢复“正常”工作。
 
-2006年：
-[WHU_LJSS_BBS_10th_Anniversary.png](https://zh.wikipedia.org/wiki/File:WHU_LJSS_BBS_10th_Anniversary.png "fig:WHU_LJSS_BBS_10th_Anniversary.png")浏览器）\]\]
+2006年： [WHU_LJSS_BBS_10th_Anniversary.png](https://zh.wikipedia.org/wiki/File:WHU_LJSS_BBS_10th_Anniversary.png "fig:WHU_LJSS_BBS_10th_Anniversary.png")浏览器）\]\]
 
   - 5月26日，[中国教育部](../Page/中华人民共和国教育部.md "wikilink")“中国大学生在线”网站举办的首届“全国高校百佳网站”评选结果揭晓，珞珈山水BBS荣获“十佳校园BBS”称号。\[1\]
   - 10月8日，珞珈山水BBS举行10周年站庆活动。
@@ -45,11 +44,8 @@
 
 ## 外部链接
 
-  - [珞珈山水BBS](https://web.archive.org/web/20060813105224/http://bbs.whu.edu.cn/)
-    或 <https://web.archive.org/web/20170522004506/http://ljss.net/>
-    <telnet://www.ljss.net> ,ip地址：218.197.148.4
+  - [珞珈山水BBS](https://web.archive.org/web/20060813105224/http://bbs.whu.edu.cn/) 或 <https://web.archive.org/web/20170522004506/http://ljss.net/> <telnet://www.ljss.net> ,ip地址：218.197.148.4
 
-[Category:武汉大学附属机构](https://zh.wikipedia.org/wiki/Category:武汉大学附属机构 "wikilink")
-[Category:中国大学BBS](https://zh.wikipedia.org/wiki/Category:中国大学BBS "wikilink")
+[Category:武汉大学附属机构](https://zh.wikipedia.org/wiki/Category:武汉大学附属机构 "wikilink") [Category:中国大学BBS](https://zh.wikipedia.org/wiki/Category:中国大学BBS "wikilink")
 
 1.  参见中国教育部“中国大学生在线”网站的[《全国高校百佳网站评选得奖名单》](http://100best.univs.cn/prizewinner.php)网页。

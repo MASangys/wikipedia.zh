@@ -1,19 +1,12 @@
-**ZARD**是一個日本摇滚樂團，以主唱歌手[坂井泉水為中心](../Page/坂井泉水.md "wikilink")。所屬事務所是泉水（SENSUI）。隸屬於[Being,Inc.旗下](https://zh.wikipedia.org/wiki/Being,Inc. "wikilink")[B-Gram
-RECORDS](https://zh.wikipedia.org/wiki/B-Gram_RECORDS "wikilink")。代表歌曲有《[永遠](https://zh.wikipedia.org/wiki/永遠 "wikilink")》、《[Top
-Secret](https://zh.wikipedia.org/wiki/Top_Secret "wikilink")》、《[My
-Friend](https://zh.wikipedia.org/wiki/My_Friend "wikilink")》、《[轉動命運之輪](../Page/轉動命運之輪.md "wikilink")》、《[Don't
-You
-See](https://zh.wikipedia.org/wiki/Don't_You_See "wikilink")》、《[別認輸](../Page/別認輸.md "wikilink")》、《[搖擺的想念](../Page/搖擺的想念.md "wikilink")》ZARD也是日本第一個女子主唱的搖滾樂團。
+**ZARD**是一個日本摇滚樂團，以主唱歌手[坂井泉水](../Page/坂井泉水.md "wikilink")為中心。所屬事務所是泉水（SENSUI）。隸屬於[Being,Inc.旗下](https://zh.wikipedia.org/wiki/Being,Inc. "wikilink")[B-Gram RECORDS](https://zh.wikipedia.org/wiki/B-Gram_RECORDS "wikilink")。代表歌曲有《[永遠](https://zh.wikipedia.org/wiki/永遠 "wikilink")》、《[Top Secret](https://zh.wikipedia.org/wiki/Top_Secret "wikilink")》、《[My Friend](https://zh.wikipedia.org/wiki/My_Friend "wikilink")》、《[轉動命運之輪](../Page/轉動命運之輪.md "wikilink")》、《[Don't You See](https://zh.wikipedia.org/wiki/Don't_You_See "wikilink")》、《[別認輸](../Page/別認輸.md "wikilink")》、《[搖擺的想念](../Page/搖擺的想念.md "wikilink")》ZARD也是日本第一個女子主唱的搖滾樂團。
 
 ## 成員
 
-  - [坂井泉水擔任主唱及作詞](../Page/坂井泉水.md "wikilink")。
-    人氣組合ZARD的主唱坂井泉水（さかい・いずみ、原名蒲池幸子＝かまち・さちこ），于2007年5月27日下午3時10分，在東京新宿區内的醫院去世，年僅40歲，神奈川縣出身。28日，她所在的事務所正式發表了這一消息。葬禮将在親朋好友間進行，擇日舉行告别儀式。
+  - [坂井泉水](../Page/坂井泉水.md "wikilink")擔任主唱及作詞。 人氣組合ZARD的主唱坂井泉水（さかい・いずみ、原名蒲池幸子＝かまち・さちこ），于2007年5月27日下午3時10分，在東京新宿區内的醫院去世，年僅40歲，神奈川縣出身。28日，她所在的事務所正式發表了這一消息。葬禮将在親朋好友間進行，擇日舉行告别儀式。
 
 坂井泉水由于患有子宮頸癌，2006年6月進行了手術。之後，由于癌細胞轉移至肺部，于2007年4月再次入院治療。5月26日早晨，坂井泉水在散步時，從醫院的台階跌落，後腦受到強烈撞擊後，腦挫傷而死。根據警視廳四谷署的現場勘查，台階的扶手上有跳下的痕迹，須進行進一步調查，以确定是自殺還是事故，後來證實是屬於意外事故。
 
-ZARD
-1991年出道。93年發表的單曲「負けないで」「揺れる想い」取得了巨大的成功。那之後，又接連發表了很多熱門單曲，是90年代的代表藝人。ZARD的坂井泉水，除了為ZARD組合的歌曲作詞以外，還經常為DEEN等組合的歌曲作詞。原本，2007年秋天，ZARD将發售新專輯，并舉行巡回演唱會，距離上次巡回演唱會已有3年之久。　
+ZARD 1991年出道。93年發表的單曲「負けないで」「揺れる想い」取得了巨大的成功。那之後，又接連發表了很多熱門單曲，是90年代的代表藝人。ZARD的坂井泉水，除了為ZARD組合的歌曲作詞以外，還經常為DEEN等組合的歌曲作詞。原本，2007年秋天，ZARD将發售新專輯，并舉行巡回演唱會，距離上次巡回演唱會已有3年之久。　
 
 ### 脫離的成員
 
@@ -23,8 +16,7 @@ ZARD
 
 <!-- end list -->
 
-  - [星弘泰](https://zh.wikipedia.org/wiki/星弘泰 "wikilink")（貝斯）在完成「IN MY
-    ARMS TONIGHT」后退出乐队
+  - [星弘泰](https://zh.wikipedia.org/wiki/星弘泰 "wikilink")（貝斯）在完成「IN MY ARMS TONIGHT」后退出乐队
 
 <!-- end list -->
 
@@ -36,13 +28,11 @@ ZARD
 
 ## 简介
 
-ZARD以“神秘”而聞名。在成立的初期，ZARD的成员還有出現参加一些电视台的音乐节目，如Music
-Station等等。但自从1993年之后，ZARD便极少出现于电视屏幕之上，同時也只剩主唱[坂井泉水出現](../Page/坂井泉水.md "wikilink")，ZARD因此成為[坂井泉水的代稱](../Page/坂井泉水.md "wikilink")。而且从那开始的很长一段时间，ZARD的成员们也极少在公众场合露面。
+ZARD以“神秘”而聞名。在成立的初期，ZARD的成员還有出現参加一些电视台的音乐节目，如Music Station等等。但自从1993年之后，ZARD便极少出现于电视屏幕之上，同時也只剩主唱[坂井泉水](../Page/坂井泉水.md "wikilink")出現，ZARD因此成為[坂井泉水](../Page/坂井泉水.md "wikilink")的代稱。而且从那开始的很长一段时间，ZARD的成员们也极少在公众场合露面。
 
 ### 團名由來
 
-大眾認為ZARD的團名可能來自「blizzard」、「hazard」、「wizard」這3個單字的末4個字母所組成。
-不過在1992年2月6日的朝日放送的「早安朝日」訪問當中，坂井泉水提及其實是在非常隨性的狀況下取的名字，取\[hard\]後三個單字，再加上一個Z，以順口為主。
+大眾認為ZARD的團名可能來自「blizzard」、「hazard」、「wizard」這3個單字的末4個字母所組成。 不過在1992年2月6日的朝日放送的「早安朝日」訪問當中，坂井泉水提及其實是在非常隨性的狀況下取的名字，取\[hard\]後三個單字，再加上一個Z，以順口為主。
 
 ## 合作伙伴
 
@@ -58,12 +48,9 @@ Station等等。但自从1993年之后，ZARD便极少出现于电视屏幕之�
 
 ## 其它合作
 
-2003年－[松本孝弘在](../Page/松本孝弘.md "wikilink")11月26日以TAK
-MATSUMOTO的名義發售了作為Solo Project的邦樂翻唱專輯「THE HIT PARADE」。
+2003年－[松本孝弘](../Page/松本孝弘.md "wikilink")在11月26日以TAK MATSUMOTO的名義發售了作為Solo Project的邦樂翻唱專輯「THE HIT PARADE」。
 
-邀請了[稻葉浩志](../Page/稻葉浩志.md "wikilink")、**ZARD**、[倉木麻衣](../Page/倉木麻衣.md "wikilink")、[宇德敬子等一眾陣容強大的客席歌手](https://zh.wikipedia.org/wiki/宇德敬子 "wikilink")，翻唱了'70～'80年代的邦樂名曲。
-而企劃的第一張單曲，由泉水（ZARD）擔任主唱，演唱至今仍深受廣大歌迷喜愛的POPS名曲「異邦人」
-（原唱&作詞作曲：[久保田早紀](https://zh.wikipedia.org/wiki/久保田早紀 "wikilink")）
+邀請了[稻葉浩志](../Page/稻葉浩志.md "wikilink")、**ZARD**、[倉木麻衣](../Page/倉木麻衣.md "wikilink")、[宇德敬子等一眾陣容強大的客席歌手](https://zh.wikipedia.org/wiki/宇德敬子 "wikilink")，翻唱了'70～'80年代的邦樂名曲。 而企劃的第一張單曲，由泉水（ZARD）擔任主唱，演唱至今仍深受廣大歌迷喜愛的POPS名曲「異邦人」 （原唱&作詞作曲：[久保田早紀](https://zh.wikipedia.org/wiki/久保田早紀 "wikilink")）
 
 ## ORICON記錄
 
@@ -71,32 +58,23 @@ MATSUMOTO的名義發售了作為Solo Project的邦樂翻唱專輯「THE HIT PAR
 
   - 單曲：1768.0万枚（女性歌手歴代2位）
   - 專輯：1971.0万枚（女性歌手歴代4位）
-  - TOP10單曲獲得数：43作（歴代2位 與團體 B'z ， Southern All Stars 及早安少女組。 並列，1位為濱崎步 及
-    SMAP）
+  - TOP10單曲獲得数：43作（歴代2位 與團體 B'z ， Southern All Stars 及早安少女組。 並列，1位為濱崎步 及 SMAP）
   - 90年代出道歌手的銷售量3位（女性歌手1位）
   - 單曲1位獲得数：12作（女性歌手歴代4位）
   - 單曲名列TOP100張數：45作（90年代歌手歴代2位）
   - 專輯破百萬獲得数：10作（歴代4位）
-  - 專輯連續破百萬：連續9張（歴代1位）（[HOLD
-    ME](https://zh.wikipedia.org/wiki/HOLD_ME "wikilink")〜[ZARD BEST
-    〜Request
-    Memorial〜](https://zh.wikipedia.org/wiki/ZARD_BEST_〜Request_Memorial〜 "wikilink")）
-  - 專輯1位獲得数：11作（女性歌手1位和[DREAMS COME
-    TRUE並列](../Page/DREAMS_COME_TRUE.md "wikilink")）
+  - 專輯連續破百萬：連續9張（歴代1位）（[HOLD ME](https://zh.wikipedia.org/wiki/HOLD_ME "wikilink")〜[ZARD BEST 〜Request Memorial〜](https://zh.wikipedia.org/wiki/ZARD_BEST_〜Request_Memorial〜 "wikilink")）
+  - 專輯1位獲得数：11作（女性歌手1位和[DREAMS COME TRUE並列](../Page/DREAMS_COME_TRUE.md "wikilink")）
 
 *※截止2009年6月。*
 
 ## 演唱会
 
-  - “Cruising &
-    Live”，在一条行驶于[太平洋的客船上召开](https://zh.wikipedia.org/wiki/太平洋 "wikilink")。但此次演唱会的门票并不公开贩卖，只有600名幸运的歌迷被抽中（在《ZARD
-    BEST The Single
-    Collection～～》专辑中有申请表格，据传投寄的申请表格超过二百万份），得以参加ZARD的首场演唱会。
+  - “Cruising & Live”，在一条行驶于[太平洋的客船上召开](https://zh.wikipedia.org/wiki/太平洋 "wikilink")。但此次演唱会的门票并不公开贩卖，只有600名幸运的歌迷被抽中（在《ZARD BEST The Single Collection～～》专辑中有申请表格，据传投寄的申请表格超过二百万份），得以参加ZARD的首场演唱会。
 
 <!-- end list -->
 
-  - “[What a beautiful
-    moment](../Page/What_a_beautiful_moment.md "wikilink")”的日本巡回演出。此次巡回共在日本的9个地方进行了11场演出（地点列表见下），当时每场演唱会的门票都被销售一空。
+  - “[What a beautiful moment](../Page/What_a_beautiful_moment.md "wikilink")”的日本巡回演出。此次巡回共在日本的9个地方进行了11场演出（地点列表见下），当时每场演唱会的门票都被销售一空。
 
 |               |                                                         |
 | ------------- | ------------------------------------------------------- |
@@ -115,10 +93,7 @@ MATSUMOTO的名義發售了作為Solo Project的邦樂翻唱專輯「THE HIT PAR
 
 ### 追悼會
 
-  - “What a beautiful
-    memory”以[坂井泉水歌聲](../Page/坂井泉水.md "wikilink")、未曾公開的影像及參加2004年ZARD[What
-    a beautiful
-    moment的音樂家](../Page/What_a_beautiful_moment.md "wikilink")，再現ZARD的音樂。
+  - “What a beautiful memory”以[坂井泉水](../Page/坂井泉水.md "wikilink")歌聲、未曾公開的影像及參加2004年ZARD[What a beautiful moment的音樂家](../Page/What_a_beautiful_moment.md "wikilink")，再現ZARD的音樂。
 
 |               |                                                         |
 | ------------- | ------------------------------------------------------- |
@@ -142,10 +117,7 @@ MATSUMOTO的名義發售了作為Solo Project的邦樂翻唱專輯「THE HIT PAR
 | 2008年5月25日（日） | 堂島リバーフォーラム                                              |
 | 2008年5月27日（二） | 國立代代木競技場　第一體育館                                          |
 
-  - “What a beautiful memory
-    2009”以[坂井泉水歌聲](../Page/坂井泉水.md "wikilink")、未曾公開的影像及參加2004年ZARD[What
-    a beautiful
-    moment的音樂家](../Page/What_a_beautiful_moment.md "wikilink")，再現ZARD的音樂。
+  - “What a beautiful memory 2009”以[坂井泉水](../Page/坂井泉水.md "wikilink")歌聲、未曾公開的影像及參加2004年ZARD[What a beautiful moment的音樂家](../Page/What_a_beautiful_moment.md "wikilink")，再現ZARD的音樂。
 
 |               |                                                         |
 | ------------- | ------------------------------------------------------- |
@@ -154,10 +126,7 @@ MATSUMOTO的名義發售了作為Solo Project的邦樂翻唱專輯「THE HIT PAR
 | 2009年5月16日（六） | 堂島リバーフォーラム                                              |
 | 2009年5月27日（三） | [日本武道馆](https://zh.wikipedia.org/wiki/日本武道馆 "wikilink") |
 
-  - “What a beautiful memory \~forever
-    you\~”以[坂井泉水歌聲](../Page/坂井泉水.md "wikilink")、未曾公開的影像及參加2004年ZARD[What
-    a beautiful
-    moment的音樂家](../Page/What_a_beautiful_moment.md "wikilink")，再現ZARD的音樂。
+  - “What a beautiful memory \~forever you\~”以[坂井泉水](../Page/坂井泉水.md "wikilink")歌聲、未曾公開的影像及參加2004年ZARD[What a beautiful moment的音樂家](../Page/What_a_beautiful_moment.md "wikilink")，再現ZARD的音樂。
 
 |            |                                                         |
 | ---------- | ------------------------------------------------------- |
@@ -165,10 +134,7 @@ MATSUMOTO的名義發售了作為Solo Project的邦樂翻唱專輯「THE HIT PAR
 | 2011年5月27日 | [日本武道馆](https://zh.wikipedia.org/wiki/日本武道馆 "wikilink") |
 | 2011年5月29日 | グランキューブ大阪                                               |
 
-  - “ZARD Forever Best ～25th
-    Anniversary～”以[坂井泉水歌聲](../Page/坂井泉水.md "wikilink")、未曾公開的影像及參加2004年ZARD[What
-    a beautiful
-    moment的音樂家](../Page/What_a_beautiful_moment.md "wikilink")，再現ZARD的音樂。
+  - “ZARD Forever Best ～25th Anniversary～”以[坂井泉水](../Page/坂井泉水.md "wikilink")歌聲、未曾公開的影像及參加2004年ZARD[What a beautiful moment的音樂家](../Page/What_a_beautiful_moment.md "wikilink")，再現ZARD的音樂。
 
 |               |                                                                                             |
 | ------------- | ------------------------------------------------------------------------------------------- |
@@ -179,248 +145,140 @@ MATSUMOTO的名義發售了作為Solo Project的邦樂翻唱專輯「THE HIT PAR
 ## 年譜
 
   - **1989-1990年**
-      - 當時以本名蒲池幸子作為模特兒身份活躍。
-        (詳細的模特兒活動請參考[坂井泉水](../Page/坂井泉水.md "wikilink")。)
+      - 當時以本名蒲池幸子作為模特兒身份活躍。 (詳細的模特兒活動請參考[坂井泉水](../Page/坂井泉水.md "wikilink")。)
   - **1991年**
       -
         以模特兒為身分的坂井泉水，被選為電視劇『結婚の理想と現実』的主題曲歌手出道
     <!-- end list -->
-      - 2月10日 首張Single『[Good-bye My
-        Loneliness](../Page/Good-bye_My_Loneliness.md "wikilink")』登場,最高第9位。
-      - 3月27日 首張同名Album『[Good-bye My
-        Loneliness](../Page/Good-bye_My_Loneliness.md "wikilink")』登場。
-      - 6月25日 2nd
-        Single『[不思議ね…](https://zh.wikipedia.org/wiki/不思議ね… "wikilink")』登場。
-      - 11月3日
-        [東海大学](../Page/東海大學_\(日本\).md "wikilink")[開発工学部第](https://zh.wikipedia.org/wiki/開発工学部 "wikilink")1回
-        愛鷹祭（沼津校舎学園祭）初次現場演出。
-      - 11月6日 3rd
-        Single『[もう探さない](https://zh.wikipedia.org/wiki/もう探さない "wikilink")』登場。
-      - 12月25日 2nd
-        Album『[もう探さない](https://zh.wikipedia.org/wiki/もう探さない_\(アルバム\) "wikilink")』登場。同時町田文人、星弘泰、道倉康介及池澤公隆正式加入。
+      - 2月10日 首張Single『[Good-bye My Loneliness](../Page/Good-bye_My_Loneliness.md "wikilink")』登場,最高第9位。
+      - 3月27日 首張同名Album『[Good-bye My Loneliness](../Page/Good-bye_My_Loneliness.md "wikilink")』登場。
+      - 6月25日 2nd Single『[不思議ね…](https://zh.wikipedia.org/wiki/不思議ね… "wikilink")』登場。
+      - 11月3日 [東海大学](../Page/東海大學_\(日本\).md "wikilink")[開発工学部第](https://zh.wikipedia.org/wiki/開発工学部 "wikilink")1回 愛鷹祭（沼津校舎学園祭）初次現場演出。
+      - 11月6日 3rd Single『[もう探さない](https://zh.wikipedia.org/wiki/もう探さない "wikilink")』登場。
+      - 12月25日 2nd Album『[もう探さない](https://zh.wikipedia.org/wiki/もう探さない_\(アルバム\) "wikilink")』登場。同時町田文人、星弘泰、道倉康介及池澤公隆正式加入。
   - **1992年**
-      - 3月 第6回[日本金唱片大獎得到](../Page/日本金唱片大獎.md "wikilink")「THE BEST 5 NEW
-        ARTIST OF THE YEAR」。
-      - 8月5日 4th
-        Single『[眠れない夜を抱いて](https://zh.wikipedia.org/wiki/眠れない夜を抱いて "wikilink")』登場。由此奠下基礎，至到45th
-        Single『[素直に言えなくて](https://zh.wikipedia.org/wiki/素直に言えなくて "wikilink")』全部都能打入TOP10。
-      - 8月7日 朝日電視台系音樂節目『[MUSIC
-        STATION](../Page/MUSIC_STATION.md "wikilink")』初次電視演出。演唱「[眠れない夜を抱いて](https://zh.wikipedia.org/wiki/眠れない夜を抱いて "wikilink")」。
-      - 9月2日 3rd Album『[HOLD
-        ME](https://zh.wikipedia.org/wiki/HOLD_ME "wikilink")』登場。首張能夠打入TOP10大碟，如果計入8th
-        Album『[永遠](https://zh.wikipedia.org/wiki/永遠_\(アルバム\) "wikilink")』，是連續5張Album都能夠賣出100萬張的驕人成績。
-      - 9月9日、5th Single『[IN MY ARMS
-        TONIGHT](../Page/IN_MY_ARMS_TONIGHT.md "wikilink")』登場。
+      - 3月 第6回[日本金唱片大獎](../Page/日本金唱片大獎.md "wikilink")得到「THE BEST 5 NEW ARTIST OF THE YEAR」。
+      - 8月5日 4th Single『[眠れない夜を抱いて](https://zh.wikipedia.org/wiki/眠れない夜を抱いて "wikilink")』登場。由此奠下基礎，至到45th Single『[素直に言えなくて](https://zh.wikipedia.org/wiki/素直に言えなくて "wikilink")』全部都能打入TOP10。
+      - 8月7日 朝日電視台系音樂節目『[MUSIC STATION](../Page/MUSIC_STATION.md "wikilink")』初次電視演出。演唱「[眠れない夜を抱いて](https://zh.wikipedia.org/wiki/眠れない夜を抱いて "wikilink")」。
+      - 9月2日 3rd Album『[HOLD ME](https://zh.wikipedia.org/wiki/HOLD_ME "wikilink")』登場。首張能夠打入TOP10大碟，如果計入8th Album『[永遠](https://zh.wikipedia.org/wiki/永遠_\(アルバム\) "wikilink")』，是連續5張Album都能夠賣出100萬張的驕人成績。
+      - 9月9日、5th Single『[IN MY ARMS TONIGHT](../Page/IN_MY_ARMS_TONIGHT.md "wikilink")』登場。
   - **1993年**
       -
         以第6張單曲「負けないで」獲得自己第一次的ORICAON榜第一名，同時也得到百萬單曲銷售的紀錄。3個月後，第8張單曲「揺れる想い」也達成百萬銷量的紀錄。而收錄這兩首的第4張專輯『揺れる想い』更是賣了超過200萬張，並達成年度ORICON專輯銷售第一。
     <!-- end list -->
-      - 2月5日 參加朝日電視台系音樂節目『[MUSIC
-        STATION](../Page/MUSIC_STATION.md "wikilink")』演唱『[別認輸](../Page/別認輸.md "wikilink")』，同時宣佈最後一次上音樂節目,亦是最後一次在電視螢幕露面。
-      - 4月21日 7th
-        Single『[君がいない](https://zh.wikipedia.org/wiki/君がいない "wikilink")』登場。
-      - 5月19日 8th
-        Single『[搖擺的想念](../Page/搖擺的想念.md "wikilink")』登場。連續2週第1位，賣上100萬張記録。全年第9位。
-      - 6月9日
-        以【[ZYYG](../Page/ZYYG.md "wikilink"),[REV](https://zh.wikipedia.org/wiki/REV "wikilink"),ZARD＆[WANDS](../Page/WANDS.md "wikilink")
-        featuring
-        [長嶋茂雄](../Page/長嶋茂雄.md "wikilink")】名義唱出單曲『[果てしない夢を](https://zh.wikipedia.org/wiki/果てしない夢を "wikilink")』。
-      - 7月10日 4th
-        Album『[揺れる想い](https://zh.wikipedia.org/wiki/揺れる想い "wikilink")』登場。第一次獲得第1位（總計5週）。全年第1位。
-      - 9月4日 9th Single『[もう少し
-        あと少し…](https://zh.wikipedia.org/wiki/もう少し_あと少し… "wikilink")』登場。
-      - 11月3日 10th
-        Single『[きっと忘れない](https://zh.wikipedia.org/wiki/きっと忘れない "wikilink")』登場。初登場第1位。
+      - 2月5日 參加朝日電視台系音樂節目『[MUSIC STATION](../Page/MUSIC_STATION.md "wikilink")』演唱『[別認輸](../Page/別認輸.md "wikilink")』，同時宣佈最後一次上音樂節目,亦是最後一次在電視螢幕露面。
+      - 4月21日 7th Single『[君がいない](https://zh.wikipedia.org/wiki/君がいない "wikilink")』登場。
+      - 5月19日 8th Single『[搖擺的想念](../Page/搖擺的想念.md "wikilink")』登場。連續2週第1位，賣上100萬張記録。全年第9位。
+      - 6月9日 以【[ZYYG](../Page/ZYYG.md "wikilink"),[REV](https://zh.wikipedia.org/wiki/REV "wikilink"),ZARD＆[WANDS](../Page/WANDS.md "wikilink") featuring [長嶋茂雄](../Page/長嶋茂雄.md "wikilink")】名義唱出單曲『[果てしない夢を](https://zh.wikipedia.org/wiki/果てしない夢を "wikilink")』。
+      - 7月10日 4th Album『[揺れる想い](https://zh.wikipedia.org/wiki/揺れる想い "wikilink")』登場。第一次獲得第1位（總計5週）。全年第1位。
+      - 9月4日 9th Single『[もう少し あと少し…](https://zh.wikipedia.org/wiki/もう少し_あと少し… "wikilink")』登場。
+      - 11月3日 10th Single『[きっと忘れない](https://zh.wikipedia.org/wiki/きっと忘れない "wikilink")』登場。初登場第1位。
   - **1994年**
-      - 2月2日 11th
-        Single「[この愛に泳ぎ疲れても・Boy](https://zh.wikipedia.org/wiki/この愛に泳ぎ疲れても・Boy "wikilink")」登場。
-      - 3月
-        「[負けないで](https://zh.wikipedia.org/wiki/負けないで "wikilink")」被選為1994年全日本春の選抜高校野球主題曲。
-      - 6月4日、5th Album『[OH MY
-        LOVE](https://zh.wikipedia.org/wiki/OH_MY_LOVE "wikilink")』登場。賣出200萬張以上。全年第5位。
-      - 8月8日、12th
-        Single『[こんなにそばに居るのに](https://zh.wikipedia.org/wiki/こんなにそばに居るのに "wikilink")』登場。第一次獲得第1位。
-      - 12月24日、13th
-        Single『[あなたを感じていたい](https://zh.wikipedia.org/wiki/あなたを感じていたい "wikilink")』登場。
+      - 2月2日 11th Single「[この愛に泳ぎ疲れても・Boy](https://zh.wikipedia.org/wiki/この愛に泳ぎ疲れても・Boy "wikilink")」登場。
+      - 3月 「[負けないで](https://zh.wikipedia.org/wiki/負けないで "wikilink")」被選為1994年全日本春の選抜高校野球主題曲。
+      - 6月4日、5th Album『[OH MY LOVE](https://zh.wikipedia.org/wiki/OH_MY_LOVE "wikilink")』登場。賣出200萬張以上。全年第5位。
+      - 8月8日、12th Single『[こんなにそばに居るのに](https://zh.wikipedia.org/wiki/こんなにそばに居るのに "wikilink")』登場。第一次獲得第1位。
+      - 12月24日、13th Single『[あなたを感じていたい](https://zh.wikipedia.org/wiki/あなたを感じていたい "wikilink")』登場。
   - **1995年**
-      - 2月1日 14th Single『[Just believe in
-        love](https://zh.wikipedia.org/wiki/Just_believe_in_love "wikilink")』登場。
-      - 3月10日 6th Album『[forever
-        you](https://zh.wikipedia.org/wiki/forever_you_\(アルバム\) "wikilink")』登場。全年第4位。
-      - 6月5日 15th
-        Single『[愛が見えない](https://zh.wikipedia.org/wiki/愛が見えない "wikilink")』登場。
-      - 8月28日 16th
-        Single『[サヨナラは今もこの胸に居ます](https://zh.wikipedia.org/wiki/サヨナラは今もこの胸に居ます "wikilink")』登場。初登場第1位。副歌「眠り」由坂井泉水作曲。
+      - 2月1日 14th Single『[Just believe in love](https://zh.wikipedia.org/wiki/Just_believe_in_love "wikilink")』登場。
+      - 3月10日 6th Album『[forever you](https://zh.wikipedia.org/wiki/forever_you_\(アルバム\) "wikilink")』登場。全年第4位。
+      - 6月5日 15th Single『[愛が見えない](https://zh.wikipedia.org/wiki/愛が見えない "wikilink")』登場。
+      - 8月28日 16th Single『[サヨナラは今もこの胸に居ます](https://zh.wikipedia.org/wiki/サヨナラは今もこの胸に居ます "wikilink")』登場。初登場第1位。副歌「眠り」由坂井泉水作曲。
       - 11月22日 與 栗林誠一郎 合作推出 『\[クリスマス タイム\]\]』(Christmas time)。
   - **1996年**
-      - 1月8日 17th
-        Single『[マイフレンド](https://zh.wikipedia.org/wiki/マイフレンド "wikilink")』登場。期後成為
-        男兒當入樽(台：灌籃高手) 之結尾曲。
-      - 5月6日 18th
-        Single『[心を開いて](https://zh.wikipedia.org/wiki/心を開いて "wikilink")』登場。初登場第1位。
-      - 6月9日 再次與 栗林誠一郎 合作推出『[LOVE
-        ～眠れずに君の横顔ずっと見ていた～](https://zh.wikipedia.org/wiki/LOVE_～眠れずに君の横顔ずっと見ていた～ "wikilink")』。
-      - 7月8日 7th Album『[TODAY IS ANOTHER
-        DAY](https://zh.wikipedia.org/wiki/TODAY_IS_ANOTHER_DAY "wikilink")』登場。全年第12位。
+      - 1月8日 17th Single『[マイフレンド](https://zh.wikipedia.org/wiki/マイフレンド "wikilink")』登場。期後成為 男兒當入樽(台：灌籃高手) 之結尾曲。
+      - 5月6日 18th Single『[心を開いて](https://zh.wikipedia.org/wiki/心を開いて "wikilink")』登場。初登場第1位。
+      - 6月9日 再次與 栗林誠一郎 合作推出『[LOVE ～眠れずに君の横顔ずっと見ていた～](https://zh.wikipedia.org/wiki/LOVE_～眠れずに君の横顔ずっと見ていた～ "wikilink")』。
+      - 7月8日 7th Album『[TODAY IS ANOTHER DAY](https://zh.wikipedia.org/wiki/TODAY_IS_ANOTHER_DAY "wikilink")』登場。全年第12位。
   - **1997年**
       -
         這年的後半年『[負けないで](https://zh.wikipedia.org/wiki/負けないで "wikilink")』被記載在高校的音樂教科書上。
     <!-- end list -->
-      - 1月6日 19th Single『[Don't you
-        see\!](https://zh.wikipedia.org/wiki/Don't_you_see! "wikilink")』登場。初登場第1位。
-      - 2月26日 20th
-        Single『[君に逢いたくなったら…](https://zh.wikipedia.org/wiki/君に逢いたくなったら… "wikilink")』登場。
-      - 4月23日 精選專輯『[ZARD BLEND
-        〜SUN\&STONE〜](https://zh.wikipedia.org/wiki/ZARD_BLEND_〜SUN&STONE〜 "wikilink")』登場。賣上200萬隻記錄。全年第5位。
-      - 7月2日 21st
-        Single『[風が通り抜ける街へ](https://zh.wikipedia.org/wiki/風が通り抜ける街へ "wikilink")』登場。
-      - 8月20日 22nd
-        Single『[永遠](https://zh.wikipedia.org/wiki/永遠_\(ZARDの曲\) "wikilink")』登場。初登場第1位。此單曲亦是日本電視台電視劇「[失楽園](https://zh.wikipedia.org/wiki/失楽園_\(渡辺淳一\) "wikilink")」主題歌，連續6星期打入TOP10。
-      - 12月3日 23rd Single『[My Baby Grand
-        〜ぬくもりが欲しくて〜](https://zh.wikipedia.org/wiki/My_Baby_Grand_〜ぬくもりが欲しくて〜 "wikilink")』登場。
+      - 1月6日 19th Single『[Don't you see\!](https://zh.wikipedia.org/wiki/Don't_you_see! "wikilink")』登場。初登場第1位。
+      - 2月26日 20th Single『[君に逢いたくなったら…](https://zh.wikipedia.org/wiki/君に逢いたくなったら… "wikilink")』登場。
+      - 4月23日 精選專輯『[ZARD BLEND 〜SUN\&STONE〜](https://zh.wikipedia.org/wiki/ZARD_BLEND_〜SUN&STONE〜 "wikilink")』登場。賣上200萬隻記錄。全年第5位。
+      - 7月2日 21st Single『[風が通り抜ける街へ](https://zh.wikipedia.org/wiki/風が通り抜ける街へ "wikilink")』登場。
+      - 8月20日 22nd Single『[永遠](https://zh.wikipedia.org/wiki/永遠_\(ZARDの曲\) "wikilink")』登場。初登場第1位。此單曲亦是日本電視台電視劇「[失楽園](https://zh.wikipedia.org/wiki/失楽園_\(渡辺淳一\) "wikilink")」主題歌，連續6星期打入TOP10。
+      - 12月3日 23rd Single『[My Baby Grand 〜ぬくもりが欲しくて〜](https://zh.wikipedia.org/wiki/My_Baby_Grand_〜ぬくもりが欲しくて〜 "wikilink")』登場。
   - **1998年**
-      - 3月4日 24th
-        Single『[息もできない](https://zh.wikipedia.org/wiki/息もできない "wikilink")』登場。
-      - 9月17日 25th
-        Single『[運命のルーレット廻して](https://zh.wikipedia.org/wiki/運命のルーレット廻して "wikilink")』登場。初登場第1位。
-      - 12月2日 26th
-        Single『[新しいドア〜冬のひまわり〜](https://zh.wikipedia.org/wiki/新しいドア〜冬のひまわり〜 "wikilink")』、27th
-        Single『[GOOD DAY](../Page/GOOD_DAY.md "wikilink")』同時登場。
+      - 3月4日 24th Single『[息もできない](https://zh.wikipedia.org/wiki/息もできない "wikilink")』登場。
+      - 9月17日 25th Single『[運命のルーレット廻して](https://zh.wikipedia.org/wiki/運命のルーレット廻して "wikilink")』登場。初登場第1位。
+      - 12月2日 26th Single『[新しいドア〜冬のひまわり〜](https://zh.wikipedia.org/wiki/新しいドア〜冬のひまわり〜 "wikilink")』、27th Single『[GOOD DAY](../Page/GOOD_DAY.md "wikilink")』同時登場。
   - **1999年**
-      - 4月7日 28th Single『[Mind
-        Games](https://zh.wikipedia.org/wiki/Mind_Games "wikilink")』登場。
-      - 5月28日 精選專輯『[ZARD BEST The Single Collection
-        〜軌跡〜](https://zh.wikipedia.org/wiki/ZARD_BEST_The_Single_Collection_〜軌跡〜 "wikilink")』登場。初登場即時賣出100萬張以上的輝煌成績，累積合共賣出300萬張、Oricon全年大碟榜年間第2位、歴代第19位。此外，寄回專輯中的明信片參加抽獎，共600位幸運歌迷獲招待上郵輪，參與ZARD船上演唱會。超過100萬人參與這次抽選。同年Fans
-        Club「WEZARD」正式成立。
-      - 6月16日 29th
-        Single『[世界はきっと未来の中](https://zh.wikipedia.org/wiki/世界はきっと未来の中 "wikilink")』登場。
+      - 4月7日 28th Single『[Mind Games](https://zh.wikipedia.org/wiki/Mind_Games "wikilink")』登場。
+      - 5月28日 精選專輯『[ZARD BEST The Single Collection 〜軌跡〜](https://zh.wikipedia.org/wiki/ZARD_BEST_The_Single_Collection_〜軌跡〜 "wikilink")』登場。初登場即時賣出100萬張以上的輝煌成績，累積合共賣出300萬張、Oricon全年大碟榜年間第2位、歴代第19位。此外，寄回專輯中的明信片參加抽獎，共600位幸運歌迷獲招待上郵輪，參與ZARD船上演唱會。超過100萬人參與這次抽選。同年Fans Club「WEZARD」正式成立。
+      - 6月16日 29th Single『[世界はきっと未来の中](https://zh.wikipedia.org/wiki/世界はきっと未来の中 "wikilink")』登場。
       - 8月31日 600位歌迷在郵輪「太平洋維納斯號」上參與ZARD首次演唱會，共演唱14曲。
-      - 9月15日 精選專輯『[ZARD BEST 〜Request
-        Memorial〜](https://zh.wikipedia.org/wiki/ZARD_BEST_〜Request_Memorial〜 "wikilink")』登場。全年第14位。
-      - 10月14日 30th
-        Single『[痛いくらい君があふれているよ](https://zh.wikipedia.org/wiki/痛いくらい君があふれているよ "wikilink")』登場。這亦是最後一隻8cm
-        Single。
-      - 12月1日 31st Single『[この涙
-        星になれ](https://zh.wikipedia.org/wiki/この涙_星になれ "wikilink")』登場。
+      - 9月15日 精選專輯『[ZARD BEST 〜Request Memorial〜](https://zh.wikipedia.org/wiki/ZARD_BEST_〜Request_Memorial〜 "wikilink")』登場。全年第14位。
+      - 10月14日 30th Single『[痛いくらい君があふれているよ](https://zh.wikipedia.org/wiki/痛いくらい君があふれているよ "wikilink")』登場。這亦是最後一隻8cm Single。
+      - 12月1日 31st Single『[この涙 星になれ](https://zh.wikipedia.org/wiki/この涙_星になれ "wikilink")』登場。
   - **2000年**
-      - 1月26日 現場錄音Album『[ZARD Cruising & Live
-        〜限定盤ライヴCD〜](https://zh.wikipedia.org/wiki/ZARD_Cruising_&_Live_〜限定盤ライヴCD〜 "wikilink")』登場。限定發行30萬張。
-      - 3月
-        第14回日本金唱片大獎、大碟『[永遠](https://zh.wikipedia.org/wiki/永遠_\(アルバム\) "wikilink")』『[ZARD
-        BEST The Single Collection
-        〜軌跡〜](https://zh.wikipedia.org/wiki/ZARD_BEST_The_Single_Collection_〜軌跡〜 "wikilink")』『[ZARD
-        BEST 〜Request
-        Memorial〜](https://zh.wikipedia.org/wiki/ZARD_BEST_〜Request_Memorial〜 "wikilink")』得獎，是首次同一時間三張唱片同時個獎。
-      - 9月6日 32nd Single『[Get U're
-        Dream](https://zh.wikipedia.org/wiki/Get_U're_Dream "wikilink")』登場。這首歌同時亦是[NHK](https://zh.wikipedia.org/wiki/日本放送協会 "wikilink")2000年悉尼奧運會打氣歌，賣出24萬張以上成績。
-      - 11月15日 33rd Single『[promised
-        you](https://zh.wikipedia.org/wiki/promised_you "wikilink")』登場。
+      - 1月26日 現場錄音Album『[ZARD Cruising & Live 〜限定盤ライヴCD〜](https://zh.wikipedia.org/wiki/ZARD_Cruising_&_Live_〜限定盤ライヴCD〜 "wikilink")』登場。限定發行30萬張。
+      - 3月 第14回日本金唱片大獎、大碟『[永遠](https://zh.wikipedia.org/wiki/永遠_\(アルバム\) "wikilink")』『[ZARD BEST The Single Collection 〜軌跡〜](https://zh.wikipedia.org/wiki/ZARD_BEST_The_Single_Collection_〜軌跡〜 "wikilink")』『[ZARD BEST 〜Request Memorial〜](https://zh.wikipedia.org/wiki/ZARD_BEST_〜Request_Memorial〜 "wikilink")』得獎，是首次同一時間三張唱片同時個獎。
+      - 9月6日 32nd Single『[Get U're Dream](https://zh.wikipedia.org/wiki/Get_U're_Dream "wikilink")』登場。這首歌同時亦是[NHK](https://zh.wikipedia.org/wiki/日本放送協会 "wikilink")2000年悉尼奧運會打氣歌，賣出24萬張以上成績。
+      - 11月15日 33rd Single『[promised you](https://zh.wikipedia.org/wiki/promised_you "wikilink")』登場。
   - **2001年**
       -
         出道10周年。同年後半年坂井泉水因為身體不適，休養接近一年，這一年間沒有創作音樂。
     <!-- end list -->
-      - 2月15日 興祝出道10周年記念9th
-        Album『[時間の翼](https://zh.wikipedia.org/wiki/時間の翼 "wikilink")』登場。這亦是最後一張能夠打入Oricon大碟榜第一位的大碟。
-      - 11月21日 精選專輯『[ZARD BLEND II
-        〜LEAF\&SNOW〜](https://zh.wikipedia.org/wiki/ZARD_BLEND_II_〜LEAF&SNOW〜 "wikilink")』登場。
+      - 2月15日 興祝出道10周年記念9th Album『[時間の翼](https://zh.wikipedia.org/wiki/時間の翼 "wikilink")』登場。這亦是最後一張能夠打入Oricon大碟榜第一位的大碟。
+      - 11月21日 精選專輯『[ZARD BLEND II 〜LEAF\&SNOW〜](https://zh.wikipedia.org/wiki/ZARD_BLEND_II_〜LEAF&SNOW〜 "wikilink")』登場。
   - **2002年**
       -
         2002年，被稱為ZARD的第二章開始了，復出之後推出第34張單曲。
     <!-- end list -->
       - ?月??日 原定推出單曲專輯『約束のない恋』，可是最終不知什麼原因而沒有推出，最終2004年加至精選集中限量附送。
-      - 5月22日 34th
-        Single『[さわやかな君の気持ち](https://zh.wikipedia.org/wiki/さわやかな君の気持ち "wikilink")』登場。
-      - 5月尾 Fans Club WEZARD連同B-TOWN發售限定Single Box Set『ZARD PREMIUM BOX
-        1991-2001 SINGLE COLLECTION』。
+      - 5月22日 34th Single『[さわやかな君の気持ち](https://zh.wikipedia.org/wiki/さわやかな君の気持ち "wikilink")』登場。
+      - 5月尾 Fans Club WEZARD連同B-TOWN發售限定Single Box Set『ZARD PREMIUM BOX 1991-2001 SINGLE COLLECTION』。
   - **2003年**
-      - 3月27日 參加大阪[hills
-        パン工場的THURSDAY](https://zh.wikipedia.org/wiki/hills_パン工場 "wikilink")
-        LIVE現場演出，與[滴草由実一同演出兩首歌曲](https://zh.wikipedia.org/wiki/滴草由実 "wikilink")。
-      - 4月9日 35th
-        Single『[明日を夢見て](https://zh.wikipedia.org/wiki/明日を夢見て_\(曲\) "wikilink")』登場。
-      - 7月9日 36th
-        Single『[瞳閉じて](https://zh.wikipedia.org/wiki/瞳閉じて "wikilink")』登場。
-      - 8月27日 以【[TAK
-        MATSUMOTO](https://zh.wikipedia.org/wiki/TAK_MATSUMOTO "wikilink")
-        featuring
-        ZARD】名義唱出久保田早紀名曲『[異邦人](https://zh.wikipedia.org/wiki/異邦人_\(TAK_MATSUMOTO_featuring_ZARD\) "wikilink")』。
-      - 11月12日 37th
-        Single『[もっと近くで君の横顔見ていたい](https://zh.wikipedia.org/wiki/もっと近くで君の横顔見ていたい "wikilink")』登場。
+      - 3月27日 參加大阪[hills パン工場的THURSDAY](https://zh.wikipedia.org/wiki/hills_パン工場 "wikilink") LIVE現場演出，與[滴草由実一同演出兩首歌曲](https://zh.wikipedia.org/wiki/滴草由実 "wikilink")。
+      - 4月9日 35th Single『[明日を夢見て](https://zh.wikipedia.org/wiki/明日を夢見て_\(曲\) "wikilink")』登場。
+      - 7月9日 36th Single『[瞳閉じて](https://zh.wikipedia.org/wiki/瞳閉じて "wikilink")』登場。
+      - 8月27日 以【[TAK MATSUMOTO](https://zh.wikipedia.org/wiki/TAK_MATSUMOTO "wikilink") featuring ZARD】名義唱出久保田早紀名曲『[異邦人](https://zh.wikipedia.org/wiki/異邦人_\(TAK_MATSUMOTO_featuring_ZARD\) "wikilink")』。
+      - 11月12日 37th Single『[もっと近くで君の横顔見ていたい](https://zh.wikipedia.org/wiki/もっと近くで君の横顔見ていたい "wikilink")』登場。
   - **2004年**
-      - 1月28日 10th
-        Album『[止まっていた時計が今動き出した](https://zh.wikipedia.org/wiki/止まっていた時計が今動き出した "wikilink")』登場。未能再次連續登上大碟榜第1位。
-      - 3月2日 初次全國巡迴演出『What a beautiful moment
-        Tour』。原定只演出3場，但因反應熱烈開賣3分鐘內火速售罄，唱片公司於是加開全國9個地方11場公演。最後一場7月23日在[日本武道館完滿落幕](../Page/日本武道館.md "wikilink")，這11場演出亦成為ZARD唯一一次巡迴演唱會。
-      - 6月23日 38th
-        Single『[かけがえのないもの](https://zh.wikipedia.org/wiki/かけがえのないもの "wikilink")』登場。演唱會期間亦一道被告知。
-      - 11月24日 39th
-        Single『[今日はゆっくり話そう](https://zh.wikipedia.org/wiki/今日はゆっくり話そう "wikilink")』登場。
+      - 1月28日 10th Album『[止まっていた時計が今動き出した](https://zh.wikipedia.org/wiki/止まっていた時計が今動き出した "wikilink")』登場。未能再次連續登上大碟榜第1位。
+      - 3月2日 初次全國巡迴演出『What a beautiful moment Tour』。原定只演出3場，但因反應熱烈開賣3分鐘內火速售罄，唱片公司於是加開全國9個地方11場公演。最後一場7月23日在[日本武道館](../Page/日本武道館.md "wikilink")完滿落幕，這11場演出亦成為ZARD唯一一次巡迴演唱會。
+      - 6月23日 38th Single『[かけがえのないもの](https://zh.wikipedia.org/wiki/かけがえのないもの "wikilink")』登場。演唱會期間亦一道被告知。
+      - 11月24日 39th Single『[今日はゆっくり話そう](https://zh.wikipedia.org/wiki/今日はゆっくり話そう "wikilink")』登場。
   - **2005年**
-      - 4月20日 40th
-        Single『[星のかがやきよ/夏を待つセイル(帆)のように](https://zh.wikipedia.org/wiki/星のかがやきよ/夏を待つセイル\(帆\)のように "wikilink")』登場。出道11年來首張雙A面Single。亦是自29th
-        Single『[世界はきっと未来の中](https://zh.wikipedia.org/wiki/世界はきっと未来の中 "wikilink")』5年以來再次打入TOP3。
-      - 6月8日 首張演唱會DVD『[What a beautiful
-        moment](../Page/What_a_beautiful_moment.md "wikilink")』登場。初次登場即獲得ORICON音楽・総合部門第1位。
-      - 9月7日 11th
-        Album『[君とのDistance](https://zh.wikipedia.org/wiki/君とのDistance "wikilink")』登場。
+      - 4月20日 40th Single『[星のかがやきよ/夏を待つセイル(帆)のように](https://zh.wikipedia.org/wiki/星のかがやきよ/夏を待つセイル\(帆\)のように "wikilink")』登場。出道11年來首張雙A面Single。亦是自29th Single『[世界はきっと未来の中](https://zh.wikipedia.org/wiki/世界はきっと未来の中 "wikilink")』5年以來再次打入TOP3。
+      - 6月8日 首張演唱會DVD『[What a beautiful moment](../Page/What_a_beautiful_moment.md "wikilink")』登場。初次登場即獲得ORICON音楽・総合部門第1位。
+      - 9月7日 11th Album『[君とのDistance](https://zh.wikipedia.org/wiki/君とのDistance "wikilink")』登場。
   - **2006年**
       -
         出道15周年。
     <!-- end list -->
-      - 3月8日 41st
-        Single『[悲しいほど貴方が好き/カラッといこう\!](https://zh.wikipedia.org/wiki/悲しいほど貴方が好き/カラッといこう! "wikilink")』登場。
-      - 5月10日 42nd
-        Single『[ハートに火をつけて](https://zh.wikipedia.org/wiki/ハートに火をつけて_\(ZARDの曲\) "wikilink")』登場。副歌「君へのブルース」由坂井泉水作曲。
+      - 3月8日 41st Single『[悲しいほど貴方が好き/カラッといこう\!](https://zh.wikipedia.org/wiki/悲しいほど貴方が好き/カラッといこう! "wikilink")』登場。
+      - 5月10日 42nd Single『[ハートに火をつけて](https://zh.wikipedia.org/wiki/ハートに火をつけて_\(ZARDの曲\) "wikilink")』登場。副歌「君へのブルース」由坂井泉水作曲。
       - 6月 被診斷出患有子宮頸癌。
-      - 10月25日 精選專輯『[Golden Best 〜15th
-        Anniversary〜](https://zh.wikipedia.org/wiki/Golden_Best_〜15th_Anniversary〜 "wikilink")』登場。經過5年8個月時間再一次登上第1位。2006年間全年第26位、2007年間全年第19位。
-      - 10月25日 出道至今PV集DVD『[ZARD Le Portfolio
-        1991-2006](https://zh.wikipedia.org/wiki/ZARD_Le_Portfolio_1991-2006 "wikilink")』登場。初次登場即獲得第1位。2006年間全年音樂DVD部門17位、2007年間全年音樂DVD部門第16位。歴代音樂DVD第46位。
+      - 10月25日 精選專輯『[Golden Best 〜15th Anniversary〜](https://zh.wikipedia.org/wiki/Golden_Best_〜15th_Anniversary〜 "wikilink")』登場。經過5年8個月時間再一次登上第1位。2006年間全年第26位、2007年間全年第19位。
+      - 10月25日 出道至今PV集DVD『[ZARD Le Portfolio 1991-2006](https://zh.wikipedia.org/wiki/ZARD_Le_Portfolio_1991-2006 "wikilink")』登場。初次登場即獲得第1位。2006年間全年音樂DVD部門17位、2007年間全年音樂DVD部門第16位。歴代音樂DVD第46位。
   - **2007年**
       - 4月 發現癌細胞擴散至肺部，坂井再度入院治療。
-      - 5月26日
-        頭部受到嚴重的撞擊，急救一天後坂井還是在5月27日下午3點10分身亡。（詳細請參考[坂井泉水](../Page/坂井泉水.md "wikilink")）。
-      - 8月15日 坂井泉水生前所挑選精選專輯『[Soffio di vento 〜Best of IZUMI SAKAI
-        Selection〜](https://zh.wikipedia.org/wiki/Soffio_di_vento_〜Best_of_IZUMI_SAKAI_Selection〜 "wikilink")』、以及由樂迷所挑選精選專輯『[Brezza
-        di mare 〜dedicated to IZUMI
-        SAKAI〜](https://zh.wikipedia.org/wiki/Brezza_di_mare_〜dedicated_to_IZUMI_SAKAI〜 "wikilink")』登場，回憶錄『きっと忘れない』亦同時發表。
+      - 5月26日 頭部受到嚴重的撞擊，急救一天後坂井還是在5月27日下午3點10分身亡。（詳細請參考[坂井泉水](../Page/坂井泉水.md "wikilink")）。
+      - 8月15日 坂井泉水生前所挑選精選專輯『[Soffio di vento 〜Best of IZUMI SAKAI Selection〜](https://zh.wikipedia.org/wiki/Soffio_di_vento_〜Best_of_IZUMI_SAKAI_Selection〜 "wikilink")』、以及由樂迷所挑選精選專輯『[Brezza di mare 〜dedicated to IZUMI SAKAI〜](https://zh.wikipedia.org/wiki/Brezza_di_mare_〜dedicated_to_IZUMI_SAKAI〜 "wikilink")』登場，回憶錄『きっと忘れない』亦同時發表。
       - 9月6日－7日 追悼演唱會「What a beautiful memory」大阪站在大阪Festival Hall舉行。
-      - 9月14日 追悼演唱會「What a beautiful
-        memory」東京站[日本武道館舉行](../Page/日本武道館.md "wikilink")。
-      - 12月12日 43th Album『[グロリアス
-        マインド](https://zh.wikipedia.org/wiki/グロリアス_マインド "wikilink")』登場。
+      - 9月14日 追悼演唱會「What a beautiful memory」東京站[日本武道館](../Page/日本武道館.md "wikilink")舉行。
+      - 12月12日 43th Album『[グロリアス マインド](https://zh.wikipedia.org/wiki/グロリアス_マインド "wikilink")』登場。
   - **2008年**
-      - 1月23日 原本預定2007年秋發表但延期多時的精選專輯『[ZARD Request Best 〜beautiful
-        memory〜](https://zh.wikipedia.org/wiki/ZARD_Request_Best_〜beautiful_memory〜 "wikilink")』登場。初次登場即獲得第1位。
-      - 4月9日 44th
-        Single『[翼を広げて/愛は暗闇の中で](https://zh.wikipedia.org/wiki/翼を広げて/愛は暗闇の中で "wikilink")』登場。
+      - 1月23日 原本預定2007年秋發表但延期多時的精選專輯『[ZARD Request Best 〜beautiful memory〜](https://zh.wikipedia.org/wiki/ZARD_Request_Best_〜beautiful_memory〜 "wikilink")』登場。初次登場即獲得第1位。
+      - 4月9日 44th Single『[翼を広げて/愛は暗闇の中で](https://zh.wikipedia.org/wiki/翼を広げて/愛は暗闇の中で "wikilink")』登場。
   - **2009年**
-      - 5月15日－5月16日 2週年追悼演唱會「What a beautiful memory
-        2009」大阪站在大阪堂島リバーフォーラム舉行，表演嘉賓[中村由利](../Page/中村由利.md "wikilink")（[GARNET
-        CROW](../Page/GARNET_CROW.md "wikilink")）、[羽田裕美](../Page/羽田裕美.md "wikilink")。
-      - 5月27日 2週年追悼演唱會「What a beautiful memory
-        2009」東京站日本武道館舉行，表演嘉賓[倉木麻衣](../Page/倉木麻衣.md "wikilink")、[池森秀一](https://zh.wikipedia.org/wiki/池森秀一 "wikilink")（[DEEN](../Page/DEEN.md "wikilink")）、[羽田裕美](../Page/羽田裕美.md "wikilink")。
+      - 5月15日－5月16日 2週年追悼演唱會「What a beautiful memory 2009」大阪站在大阪堂島リバーフォーラム舉行，表演嘉賓[中村由利](../Page/中村由利.md "wikilink")（[GARNET CROW](../Page/GARNET_CROW.md "wikilink")）、[羽田裕美](../Page/羽田裕美.md "wikilink")。
+      - 5月27日 2週年追悼演唱會「What a beautiful memory 2009」東京站日本武道館舉行，表演嘉賓[倉木麻衣](../Page/倉木麻衣.md "wikilink")、[池森秀一](https://zh.wikipedia.org/wiki/池森秀一 "wikilink")（[DEEN](../Page/DEEN.md "wikilink")）、[羽田裕美](../Page/羽田裕美.md "wikilink")。
       - 5月27日 同日，45th Single「素直に言えなくて」發行。這是ZARD至今最後一張單曲。
   - **2010年**
       - 6月30日 ZARD相關企劃商品『Feeling ZARD orgel Collection vol.1 ～揺れる想い～』發售。
       - 8月25日 ZARD相關企劃商品『Feeling ZARD orgel Collection vol.2 ～負けないで～』發售。
-      - 10月27日 ZARD相關企劃商品『Feeling ZARD orgel Collection vol.3
-        ～きっと忘れない～』發售。
-      - 12月22日 ZARD相關企劃商品『Feeling ZARD orgel Collection vol.4
-        ～あの微笑みを忘れないで～』發售。
+      - 10月27日 ZARD相關企劃商品『Feeling ZARD orgel Collection vol.3 ～きっと忘れない～』發售。
+      - 12月22日 ZARD相關企劃商品『Feeling ZARD orgel Collection vol.4 ～あの微笑みを忘れないで～』發售。
   - **2011年**
-      - 2月10日包含c/w曲之全單曲歌曲以及企劃合作單曲共100首歌的出道20周年紀念單曲全輯『[ZARD Single
-        Collection 〜20TH
-        ANNIVERSARY〜](https://zh.wikipedia.org/wiki/ZARD_Single_Collection_〜20TH_ANNIVERSARY〜 "wikilink")』發售預定。
-      - 4月13日 追悼演唱會DVD「What a beautiful memory 2007 」、「What a beautiful
-        memory 2008 」及「What a beautiful memory 2009
-        」發售。最高分別第16位、第18位及第15位。
-      - 5月27日 20週年追悼演唱會「What a beautiful memory \~forever
-        you\~」東京站日本武道館舉行。
-      - 5月29日 20週年追悼演唱會「What a beautiful memory \~forever
-        you\~」大阪站グランキューブ大阪舉行。
-      - 8月10日 追悼演唱會DVD「What a beautiful memory \~forever you\~
-        」發售。最高第1位。
+      - 2月10日包含c/w曲之全單曲歌曲以及企劃合作單曲共100首歌的出道20周年紀念單曲全輯『[ZARD Single Collection 〜20TH ANNIVERSARY〜](https://zh.wikipedia.org/wiki/ZARD_Single_Collection_〜20TH_ANNIVERSARY〜 "wikilink")』發售預定。
+      - 4月13日 追悼演唱會DVD「What a beautiful memory 2007 」、「What a beautiful memory 2008 」及「What a beautiful memory 2009 」發售。最高分別第16位、第18位及第15位。
+      - 5月27日 20週年追悼演唱會「What a beautiful memory \~forever you\~」東京站日本武道館舉行。
+      - 5月29日 20週年追悼演唱會「What a beautiful memory \~forever you\~」大阪站グランキューブ大阪舉行。
+      - 8月10日 追悼演唱會DVD「What a beautiful memory \~forever you\~ 」發售。最高第1位。
   - **2012年**
   - **2013年**
   - **2014年**
@@ -430,17 +288,11 @@ MATSUMOTO的名義發售了作為Solo Project的邦樂翻唱專輯「THE HIT PAR
       - 5月24日 24週年追悼演唱會「ZARD Screen Harmony 2015」大阪站堂島リバーフォーラム舉行。
       - 5月27日 24週年追悼演唱會「ZARD Screen Harmony 2015」東京站渋谷公会堂舉行。
   - **2016年**
-      - 2月10日 25週年精選專輯『ZARD Forever Best ～25th
-        Anniversary～』發售。本專輯共收錄52首歌曲
-        包括已故的坂井泉水所錄的歌曲「グロリアス マインド」、未發行的「翼を広げて」等。
-      - 4月27日 出道至今PV集DVD「ZARD MUSIC VIDEO COLLECTION 〜25th
-        ANNIVERSARY〜」發售。最高第1位。
-      - 5月21日 25週年追悼演唱會「What a beautiful memory ～25th
-        Anniversary～」大阪站オリックス劇場舉行。
-      - 5月27日 25週年追悼演唱會「What a beautiful memory ～25th
-        Anniversary～」東京站TOKYO DOME CITY HALL舉行。
-      - 12月7日 25週年追悼演唱會DVD「ZARD 25th Anniversary LIVE “What a beautiful
-        memory”」發售。最高第3位。
+      - 2月10日 25週年精選專輯『ZARD Forever Best ～25th Anniversary～』發售。本專輯共收錄52首歌曲 包括已故的坂井泉水所錄的歌曲「グロリアス マインド」、未發行的「翼を広げて」等。
+      - 4月27日 出道至今PV集DVD「ZARD MUSIC VIDEO COLLECTION 〜25th ANNIVERSARY〜」發售。最高第1位。
+      - 5月21日 25週年追悼演唱會「What a beautiful memory ～25th Anniversary～」大阪站オリックス劇場舉行。
+      - 5月27日 25週年追悼演唱會「What a beautiful memory ～25th Anniversary～」東京站TOKYO DOME CITY HALL舉行。
+      - 12月7日 25週年追悼演唱會DVD「ZARD 25th Anniversary LIVE “What a beautiful memory”」發售。最高第3位。
 
 ## 作品列表
 
@@ -458,7 +310,7 @@ MATSUMOTO的名義發售了作為Solo Project的邦樂翻唱專輯「THE HIT PAR
 | 6  | 再多些 再多一些...     | 1993年9月4日  | 84萬4千張     |
 |    |                 |            |            |
 
-[坂井泉水担当全部作词工作](../Page/坂井泉水.md "wikilink")。
+[坂井泉水](../Page/坂井泉水.md "wikilink")担当全部作词工作。
 
 <table>
 <thead>
@@ -923,9 +775,7 @@ MATSUMOTO的名義發售了作為Solo Project的邦樂翻唱專輯「THE HIT PAR
 </tbody>
 </table>
 
-  - 單曲「展開雙翼／愛在黑暗中」：前者是[DEEN的單曲](../Page/DEEN.md "wikilink")，是[坂井泉水於](../Page/坂井泉水.md "wikilink")1994年時翻唱，但一直未發表。後者是收錄於首張專輯Good-bye
-    My loneliness，原曲是[BLIZARD的EMPTY](../Page/Blizard.md "wikilink")
-    DAY，2008年版本由naifu的SCHON（森下志音）重新編曲。此外，歌手[上木彩矢也同時參與](../Page/上木彩矢.md "wikilink")「愛在黑暗中」此曲的重新配音與合聲，並且負責部分新加入歌詞的演唱，「」，值得注意的地方是，雖然是經由新舊交叉切入的重新剪輯，但是[坂井泉水與](../Page/坂井泉水.md "wikilink")[上木彩矢兩人的聲音卻短時間內難以分辨](../Page/上木彩矢.md "wikilink")。
+  - 單曲「展開雙翼／愛在黑暗中」：前者是[DEEN](../Page/DEEN.md "wikilink")的單曲，是[坂井泉水](../Page/坂井泉水.md "wikilink")於1994年時翻唱，但一直未發表。後者是收錄於首張專輯Good-bye My loneliness，原曲是[BLIZARD的EMPTY](../Page/Blizard.md "wikilink") DAY，2008年版本由naifu的SCHON（森下志音）重新編曲。此外，歌手[上木彩矢](../Page/上木彩矢.md "wikilink")也同時參與「愛在黑暗中」此曲的重新配音與合聲，並且負責部分新加入歌詞的演唱，「」，值得注意的地方是，雖然是經由新舊交叉切入的重新剪輯，但是[坂井泉水](../Page/坂井泉水.md "wikilink")與[上木彩矢](../Page/上木彩矢.md "wikilink")兩人的聲音卻短時間內難以分辨。
 
 ### 专辑
 
@@ -1074,34 +924,25 @@ MATSUMOTO的名義發售了作為Solo Project的邦樂翻唱專輯「THE HIT PAR
 
 ### DVD
 
-  - **[ZARD Le Portfolio
-    1991-2006](https://zh.wikipedia.org/wiki/ZARD_Le_Portfolio_1991-2006 "wikilink")**
-    （2006年10月25日）
-  - **[ZARD MUSIC VIDEO COLLECTION \~25th
-    Anniversary\~](https://zh.wikipedia.org/wiki/ZARD_MUSIC_VIDEO_COLLECTION_~25th_Anniversary~ "wikilink")**
-    （2016年4月27日）
+  - **[ZARD Le Portfolio 1991-2006](https://zh.wikipedia.org/wiki/ZARD_Le_Portfolio_1991-2006 "wikilink")** （2006年10月25日）
+  - **[ZARD MUSIC VIDEO COLLECTION \~25th Anniversary\~](https://zh.wikipedia.org/wiki/ZARD_MUSIC_VIDEO_COLLECTION_~25th_Anniversary~ "wikilink")** （2016年4月27日）
 
 ### Live DVD
 
-  - **[What a beautiful
-    moment](../Page/What_a_beautiful_moment.md "wikilink")** （2005年6月8日）
+  - **[What a beautiful moment](../Page/What_a_beautiful_moment.md "wikilink")** （2005年6月8日）
   - **What a beautiful memory 2007** （2011年4月13日）
   - **What a beautiful memory 2008** （2011年4月13日）
   - **What a beautiful memory 2009** （2011年4月13日）
   - **What a beautiful memory ～forever you～** （2011年8月10日）
-  - **[ZARD 25th Anniversary LIVE What a beautiful
-    memory](https://zh.wikipedia.org/wiki/ZARD_25th_Anniversary_LIVE_What_a_beautiful_memory "wikilink")**
-    （2016年12月7日）
+  - **[ZARD 25th Anniversary LIVE What a beautiful memory](https://zh.wikipedia.org/wiki/ZARD_25th_Anniversary_LIVE_What_a_beautiful_memory "wikilink")** （2016年12月7日）
 
 ### 書
 
 Official Band Score ZARD BLEND 〜SUN\&STONE〜（1999年2月17日）
 
   - **Official Band Score 永遠**（1999年2月17日）
-  - **Official Piano & Vocal Score ZARD BEST The Single Collection
-    〜軌跡〜**（1999年5月28日）
-  - **Official Piano & Vocal Score ZARD BEST 〜Request
-    Memorial〜**（1999年9月15日）
+  - **Official Piano & Vocal Score ZARD BEST The Single Collection 〜軌跡〜**（1999年5月28日）
+  - **Official Piano & Vocal Score ZARD BEST 〜Request Memorial〜**（1999年9月15日）
   - **坂井泉水ポエトリーセレクション第1弾 揺れる想い**（2000年2月6日）
   - **坂井泉水ポエトリーセレクション第2弾 負けないで**（2000年6月19日）
   - **坂井泉水ポエトリーセレクション第3弾 マイ フレンド**（2000年9月16日）
@@ -1110,43 +951,30 @@ Official Band Score ZARD BLEND 〜SUN\&STONE〜（1999年2月17日）
   - **ZARD 10th Anniversary Book 10° 〜decimo〜**（2001年11月21日）
   - **ZARD 15th Anniversary 写真集「Le Portfolio -ル・ポルトフォリオ-」**(2006年10月25日)
   - **きっと忘れない ZARD 〜OFFICIAL BOOK〜**（2007年8月15日）
-  - **ZARD 20周年記念写真集 ZARD Portfolio du 20eme anniversaire 第1集 「揺れる想い」**
-    （2011年2月10日）
-  - **ZARD 20周年記念写真集 ZARD Portfolio du 20eme anniversaire 第2集 「負けないで」**
-    （2011年2月10日）
-  - **ZARD 20周年記念写真集 ZARD Portfolio du 20eme anniversaire 第3集
-    「きっと忘れない」** （2011年2月10日）
-  - **ZARD 20周年記念写真集 ZARD Portfolio du 20eme anniversaire 第4集
-    「あの微笑みを忘れないで」** （2011年2月10日）
+  - **ZARD 20周年記念写真集 ZARD Portfolio du 20eme anniversaire 第1集 「揺れる想い」** （2011年2月10日）
+  - **ZARD 20周年記念写真集 ZARD Portfolio du 20eme anniversaire 第2集 「負けないで」** （2011年2月10日）
+  - **ZARD 20周年記念写真集 ZARD Portfolio du 20eme anniversaire 第3集 「きっと忘れない」** （2011年2月10日）
+  - **ZARD 20周年記念写真集 ZARD Portfolio du 20eme anniversaire 第4集 「あの微笑みを忘れないで」** （2011年2月10日）
 
 ### 參與作品
 
-  - **[果てしない夢を](https://zh.wikipedia.org/wiki/果てしない夢を "wikilink")***【[ZYYG](../Page/ZYYG.md "wikilink"),[REV](https://zh.wikipedia.org/wiki/REV "wikilink"),ZARD＆[WANDS](../Page/WANDS.md "wikilink")
-    featuring [長嶋茂雄](../Page/長嶋茂雄.md "wikilink")】*名義 （1993年6月9日）
+  - **[果てしない夢を](https://zh.wikipedia.org/wiki/果てしない夢を "wikilink")***【[ZYYG](../Page/ZYYG.md "wikilink"),[REV](https://zh.wikipedia.org/wiki/REV "wikilink"),ZARD＆[WANDS](../Page/WANDS.md "wikilink") featuring [長嶋茂雄](../Page/長嶋茂雄.md "wikilink")】*名義 （1993年6月9日）
       -
         Oricon最高第2位
-  - **[Can't Take My Eyes Off Of
-    You](https://zh.wikipedia.org/wiki/君の瞳に恋してる "wikilink")**
-    （1999年9月15日）
+  - **[Can't Take My Eyes Off Of You](https://zh.wikipedia.org/wiki/君の瞳に恋してる "wikilink")** （1999年9月15日）
       -
         Oricon最高第50位
-  - **[異邦人](https://zh.wikipedia.org/wiki/異邦人_\(TAK_MATSUMOTO_featuring_ZARD\) "wikilink")***【[TAK
-    MATSUMOTO](https://zh.wikipedia.org/wiki/TAK_MATSUMOTO "wikilink")
-    featuring ZARD】*名義 （2003年8月27日）
+  - **[異邦人](https://zh.wikipedia.org/wiki/異邦人_\(TAK_MATSUMOTO_featuring_ZARD\) "wikilink")***【[TAK MATSUMOTO](https://zh.wikipedia.org/wiki/TAK_MATSUMOTO "wikilink") featuring ZARD】*名義 （2003年8月27日）
       -
         Oricon最高第3位
-        [B'z成員](../Page/B'z.md "wikilink")[松本孝弘創作](../Page/松本孝弘.md "wikilink")。原曲請參考→（[異邦人
-        (久保田早紀)](https://zh.wikipedia.org/wiki/異邦人_\(久保田早紀\) "wikilink")）。
+        [B'z](../Page/B'z.md "wikilink")成員[松本孝弘](../Page/松本孝弘.md "wikilink")創作。原曲請參考→（[異邦人 (久保田早紀)](https://zh.wikipedia.org/wiki/異邦人_\(久保田早紀\) "wikilink")）。
 
 ### 以"坂井泉水"參與作品
 
-  - Royal Straight Soul III Vol.2（M-8.This Masquerade/Izumi
-    Sakai）(1993年11月21日)
-  - クリスマス タイム／Barbier guest vocal IZUMI SAKAI（M-1.Christmas
-    time、M-2.あなたに帰りたい）
+  - Royal Straight Soul III Vol.2（M-8.This Masquerade/Izumi Sakai）(1993年11月21日)
+  - クリスマス タイム／Barbier guest vocal IZUMI SAKAI（M-1.Christmas time、M-2.あなたに帰りたい）
   - LOVE／Barbier guest vocal IZUMI SAKAI（M-1.LOVE、M-2 I still remember）
-  - Barbier first／Barbier guest vocal IZUMI SAKAI（M-1.LOVE、M-3.もう少し
-    あと少し…、M-10.クリスマス タイム、全部共10曲）
+  - Barbier first／Barbier guest vocal IZUMI SAKAI（M-1.LOVE、M-3.もう少し あと少し…、M-10.クリスマス タイム、全部共10曲）
   - J-BLUES BATTLE Vol.3（M-6.Black Velvet/IZUMI SAKAI）(1997年4月15日)
   - complete of 栗林誠一郎\&Barbier at the BEING studio（M-9.クリスマス タイム、共16曲）
   - J-BLUES compilation at the BEING studio（M-8.Black Velvet/坂井泉水）
@@ -1229,10 +1057,8 @@ Official Band Score ZARD BLEND 〜SUN\&STONE〜（1999年2月17日）
 
 1.  Official Band Score ZARD BLEND 〜SUN\&STONE〜（1999年2月17日）
 2.  Official Band Score 永遠（1999年2月17日）
-3.  Official Piano & Vocal Score ZARD BEST The Single Collection
-    〜軌跡〜（1999年5月28日）
-4.  Official Piano & Vocal Score ZARD BEST 〜Request
-    Memorial〜（1999年9月15日）
+3.  Official Piano & Vocal Score ZARD BEST The Single Collection 〜軌跡〜（1999年5月28日）
+4.  Official Piano & Vocal Score ZARD BEST 〜Request Memorial〜（1999年9月15日）
 5.  坂井泉水ポエトリーセレクション第1弾 揺れる想い（2000年2月6日）
 6.  坂井泉水ポエトリーセレクション第2弾 負けないで（2000年6月19日）
 7.  坂井泉水ポエトリーセレクション第3弾 マイ フレンド（2000年9月16日）
@@ -1241,21 +1067,14 @@ Official Band Score ZARD BLEND 〜SUN\&STONE〜（1999年2月17日）
 10. ZARD 10th Anniversary Book 10° 〜decimo〜（2001年11月21日）
 11. ZARD 15th Anniversary 写真集「Le Portfolio -ル・ポルトフォリオ-」(2006年10月25日)
 12. きっと忘れない ZARD 〜OFFICIAL BOOK〜（2007年8月15日）
-13. ZARD 20周年記念写真集 ZARD Portfolio du 20eme anniversaire 第1集
-    「揺れる想い」（2011年2月10日）
-14. ZARD 20周年記念写真集 ZARD Portfolio du 20eme anniversaire 第2集
-    「負けないで」（2011年2月10日）
-15. ZARD 20周年記念写真集 ZARD Portfolio du 20eme anniversaire 第3集
-    「きっと忘れない」（2011年2月10日）
-16. ZARD 20周年記念写真集 ZARD Portfolio du 20eme anniversaire 第4集
-    「あの微笑みを忘れないで」（2011年2月10日）
+13. ZARD 20周年記念写真集 ZARD Portfolio du 20eme anniversaire 第1集 「揺れる想い」（2011年2月10日）
+14. ZARD 20周年記念写真集 ZARD Portfolio du 20eme anniversaire 第2集 「負けないで」（2011年2月10日）
+15. ZARD 20周年記念写真集 ZARD Portfolio du 20eme anniversaire 第3集 「きっと忘れない」（2011年2月10日）
+16. ZARD 20周年記念写真集 ZARD Portfolio du 20eme anniversaire 第4集 「あの微笑みを忘れないで」（2011年2月10日）
 
 ## 外部链接
 
   - [WEZARD.net](http://www.wezard.net/index.html)（官方網站）
   - [ZARD 20th Anniversary](http://www.wezard.net/20th/)（20週年特設網站）
 
-[Category:ZARD](https://zh.wikipedia.org/wiki/Category:ZARD "wikilink")
-[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink")
-[Category:Oricon專輯年榜冠軍獲得者](https://zh.wikipedia.org/wiki/Category:Oricon專輯年榜冠軍獲得者 "wikilink")
-[Category:Being旗下藝人](https://zh.wikipedia.org/wiki/Category:Being旗下藝人 "wikilink")
+[Category:ZARD](https://zh.wikipedia.org/wiki/Category:ZARD "wikilink") [Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink") [Category:Oricon專輯年榜冠軍獲得者](https://zh.wikipedia.org/wiki/Category:Oricon專輯年榜冠軍獲得者 "wikilink") [Category:Being旗下藝人](https://zh.wikipedia.org/wiki/Category:Being旗下藝人 "wikilink")

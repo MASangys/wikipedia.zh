@@ -1,79 +1,52 @@
-[MediaWiki.svg](https://zh.wikipedia.org/wiki/File:MediaWiki.svg "fig:MediaWiki.svg")
-**Wiki引擎**，或稱為**Wiki軟體**，是指用來架設[Wiki的](../Page/Wiki.md "wikilink")[軟體](https://zh.wikipedia.org/wiki/軟體 "wikilink")。廣義來說，即是一種軟體能作為[網路共筆](https://zh.wikipedia.org/wiki/網路 "wikilink")，供網友自行編輯，並最終集合成完整的資料庫。狹義來說，即是能達成[維基百科樣式的軟體](https://zh.wikipedia.org/wiki/維基百科 "wikilink")。
+[MediaWiki.svg](https://zh.wikipedia.org/wiki/File:MediaWiki.svg "fig:MediaWiki.svg") **Wiki引擎**，或稱為**Wiki軟體**，是指用來架設[Wiki](../Page/Wiki.md "wikilink")的[軟體](https://zh.wikipedia.org/wiki/軟體 "wikilink")。廣義來說，即是一種軟體能作為[網路共筆](https://zh.wikipedia.org/wiki/網路 "wikilink")，供網友自行編輯，並最終集合成完整的資料庫。狹義來說，即是能達成[維基百科樣式的軟體](https://zh.wikipedia.org/wiki/維基百科 "wikilink")。
 
-由于[维基百科的影响力](../Page/维基百科.md "wikilink")，部分学者和媒体把Wiki引擎称为**维基引擎**。
+由于[维基百科](../Page/维基百科.md "wikilink")的影响力，部分学者和媒体把Wiki引擎称为**维基引擎**。
 
 ## 不同Wiki引擎的介紹
 
 以下主要介紹一些較為著名的Wiki引擎。
 
   - [MediaWiki](../Page/MediaWiki.md "wikilink")：PHP語言開發的wiki引擎，維基百科所使用的引擎。支持繁簡中文。
-      - 安裝需求：[Apache](https://zh.wikipedia.org/wiki/Apache "wikilink") +
-        [PHP](../Page/PHP.md "wikilink") +
-        [MySQL](../Page/MySQL.md "wikilink")
+      - 安裝需求：[Apache](https://zh.wikipedia.org/wiki/Apache "wikilink") + [PHP](../Page/PHP.md "wikilink") + [MySQL](../Page/MySQL.md "wikilink")
     <!-- end list -->
       -
-        [IIS](https://zh.wikipedia.org/wiki/Internet_Information_Services "wikilink")
-        + PHP +
-        MySQL亦可執行，但是部份源碼的的參數需要修改（參見[meta的說明](https://zh.wikipedia.org/wiki/:meta:Installing_MediaWiki_on_Windows_Server_2003_SP1#9._Fix_the_script_error "wikilink")）
+        [IIS](https://zh.wikipedia.org/wiki/Internet_Information_Services "wikilink") + PHP + MySQL亦可執行，但是部份源碼的的參數需要修改（參見[meta的說明](https://zh.wikipedia.org/wiki/:meta:Installing_MediaWiki_on_Windows_Server_2003_SP1#9._Fix_the_script_error "wikilink")）
     <!-- end list -->
       - 最新版本：1.30.0
   - [SushiWiki](https://zh.wikipedia.org/wiki/SushiWiki "wikilink")：用[C\#開發的WikiClone](../Page/C♯.md "wikilink")，中文支持較好。
-      - 安裝需求：IIS +
-        [ASP.Net](https://zh.wikipedia.org/wiki/ASP.Net "wikilink")
-        +（可選的數據庫伺服器）
+      - 安裝需求：IIS + [ASP.Net](https://zh.wikipedia.org/wiki/ASP.Net "wikilink") +（可選的數據庫伺服器）
       - 最新版本：V1 RC2
-  - [Confluence](https://zh.wikipedia.org/wiki/Confluence "wikilink")：用[Java开发的wiki引擎](../Page/Java.md "wikilink")，在企业用户里面使用较多。
-  - [FlexWiki](https://zh.wikipedia.org/wiki/FlexWiki "wikilink")：微軟的開源產品，開發語言為[C\#](../Page/C♯.md "wikilink")，基於[CPL](https://zh.wikipedia.org/wiki/CPL "wikilink")（Common
-    Public License）協議，不支持中文鏈接。
+  - [Confluence](https://zh.wikipedia.org/wiki/Confluence "wikilink")：用[Java](../Page/Java.md "wikilink")开发的wiki引擎，在企业用户里面使用较多。
+  - [FlexWiki](https://zh.wikipedia.org/wiki/FlexWiki "wikilink")：微軟的開源產品，開發語言為[C\#](../Page/C♯.md "wikilink")，基於[CPL](https://zh.wikipedia.org/wiki/CPL "wikilink")（Common Public License）協議，不支持中文鏈接。
       - 安裝要求：IIS + ASP.Net
       - 最新版本：1.8.0.1696
   - [JASSWiki](https://zh.wikipedia.org/wiki/JASSWiki "wikilink")
-      - 安裝需求：IIS + [ASP](../Page/Active_Server_Pages.md "wikilink")
-        不需要數據庫
-  - [JspWiki](https://zh.wikipedia.org/wiki/JspWiki "wikilink")
-    是一套非常容易安裝的系統，支持JSP腳本
+      - 安裝需求：IIS + [ASP](../Page/Active_Server_Pages.md "wikilink") 不需要數據庫
+  - [JspWiki](https://zh.wikipedia.org/wiki/JspWiki "wikilink") 是一套非常容易安裝的系統，支持JSP腳本
       - 安裝需求：JDK + [tomcat](../Page/Apache_Tomcat.md "wikilink")
-  - [OpenWiki
-    2004是一款非常出色的WIKI引擎](https://zh.wikipedia.org/wiki/OpenWiki_2004 "wikilink")，基於ASP開發，而目前ASP的WIKI引擎數量稀少，因此OpenWiki無疑是基於IIS+ASP的伺服器的首選。支持中文（一般）。
+  - [OpenWiki 2004是一款非常出色的WIKI引擎](https://zh.wikipedia.org/wiki/OpenWiki_2004 "wikilink")，基於ASP開發，而目前ASP的WIKI引擎數量稀少，因此OpenWiki無疑是基於IIS+ASP的伺服器的首選。支持中文（一般）。
       - 安裝需求：IIS + ASP + ODBC
-  - [WikkiTikkiTavi](https://zh.wikipedia.org/wiki/WikkiTikkiTavi "wikilink")：小巧輕快的
-    Tavi 系統
+  - [WikkiTikkiTavi](https://zh.wikipedia.org/wiki/WikkiTikkiTavi "wikilink")：小巧輕快的 Tavi 系統
       - 安裝需求：PHP + MySQL
-  - [ChiqChaqWiki](https://zh.wikipedia.org/wiki/ChiqChaqWiki "wikilink")：預設給一般人使用的
-    WikiClone. 支持 utf-8，繁體中文沒問題，但不支持 RSS
-  - [PersonalWiki](https://zh.wikipedia.org/wiki/PersonalWiki "wikilink")：個人使用的
-    Wiki 系統
-  - [OddMuse](https://zh.wikipedia.org/wiki/OddMuse "wikilink")：使用 [Perl
-    語言的](../Page/Perl.md "wikilink") Wiki 系統
-  - [MoinWiki](https://zh.wikipedia.org/wiki/MoinWiki "wikilink")：基于Python的Wiki系统，可運行在Windows、Linux/BSD/UNIX、OS
-    X等環境下。目前能夠處理英文、德文、繁簡體中文、日文、俄文等約20種語言。
-  - [WakkaWiki](https://zh.wikipedia.org/wiki/WakkaWiki "wikilink")：十分小巧的基於[PHP](../Page/PHP.md "wikilink")+[MySQL的wiki](../Page/MySQL.md "wikilink")。由於其小巧簡潔，非常適合基於他進行個性化改進。
-  - [CooCooWakka](https://zh.wikipedia.org/wiki/CooCooWakka "wikilink")：一個基於
-    WakkaWiki 的中文改進版，支持簡體和繁體中文。
-  - [PmWiki](https://zh.wikipedia.org/wiki/PmWiki "wikilink")：PmWiki 使用
-    [PHP](../Page/PHP.md "wikilink")
-    語言開發，容易安裝配置，無需數據庫支持。支持分組及分級（全站、組、單個頁面）讀寫權限，支持中文及UTF-8編碼，官方不支持中文鏈接。參考[PmWiki
-    簡體中文版](http://www.pmwiki.org/wiki/PmWikiZhCn/PmWikiZhCn)。
-  - [XOOPSWAKKA](https://zh.wikipedia.org/wiki/XOOPSWAKKA "wikilink")：基於
-    Wakka 修改的 XOOPS Wiki 模組，支持簡體中文與繁體中文，並加入了目錄，中文索引，腳註，日曆，文件上傳等新功能。
+  - [ChiqChaqWiki](https://zh.wikipedia.org/wiki/ChiqChaqWiki "wikilink")：預設給一般人使用的 WikiClone. 支持 utf-8，繁體中文沒問題，但不支持 RSS
+  - [PersonalWiki](https://zh.wikipedia.org/wiki/PersonalWiki "wikilink")：個人使用的 Wiki 系統
+  - [OddMuse](https://zh.wikipedia.org/wiki/OddMuse "wikilink")：使用 [Perl 語言的](../Page/Perl.md "wikilink") Wiki 系統
+  - [MoinWiki](https://zh.wikipedia.org/wiki/MoinWiki "wikilink")：基于Python的Wiki系统，可運行在Windows、Linux/BSD/UNIX、OS X等環境下。目前能夠處理英文、德文、繁簡體中文、日文、俄文等約20種語言。
+  - [WakkaWiki](https://zh.wikipedia.org/wiki/WakkaWiki "wikilink")：十分小巧的基於[PHP](../Page/PHP.md "wikilink")+[MySQL](../Page/MySQL.md "wikilink")的wiki。由於其小巧簡潔，非常適合基於他進行個性化改進。
+  - [CooCooWakka](https://zh.wikipedia.org/wiki/CooCooWakka "wikilink")：一個基於 WakkaWiki 的中文改進版，支持簡體和繁體中文。
+  - [PmWiki](https://zh.wikipedia.org/wiki/PmWiki "wikilink")：PmWiki 使用 [PHP](../Page/PHP.md "wikilink") 語言開發，容易安裝配置，無需數據庫支持。支持分組及分級（全站、組、單個頁面）讀寫權限，支持中文及UTF-8編碼，官方不支持中文鏈接。參考[PmWiki 簡體中文版](http://www.pmwiki.org/wiki/PmWikiZhCn/PmWikiZhCn)。
+  - [XOOPSWAKKA](https://zh.wikipedia.org/wiki/XOOPSWAKKA "wikilink")：基於 Wakka 修改的 XOOPS Wiki 模組，支持簡體中文與繁體中文，並加入了目錄，中文索引，腳註，日曆，文件上傳等新功能。
   - [DokuWiki](../Page/DokuWiki.md "wikilink")：這是一個符合標準，簡單易用的維基軟體，主要用來生成說明文件。它的目標是開發團隊，工作小組及小型公司。
-  - [UseModWiki](../Page/UseModWiki.md "wikilink")：採用
-    [Perl](../Page/Perl.md "wikilink")
-    語言所開發的維基引擎，曾為[維基百科所使用](https://zh.wikipedia.org/wiki/維基百科 "wikilink")。
-  - [Instiki](https://zh.wikipedia.org/wiki/Instiki "wikilink")：採用 [Ruby
-    on Rails](../Page/Ruby_on_Rails.md "wikilink")
-    框架開發的維基引擎，以安裝簡便和使用方便而著稱。
+  - [UseModWiki](../Page/UseModWiki.md "wikilink")：採用 [Perl](../Page/Perl.md "wikilink") 語言所開發的維基引擎，曾為[維基百科所使用](https://zh.wikipedia.org/wiki/維基百科 "wikilink")。
+  - [Instiki](https://zh.wikipedia.org/wiki/Instiki "wikilink")：採用 [Ruby on Rails](../Page/Ruby_on_Rails.md "wikilink") 框架開發的維基引擎，以安裝簡便和使用方便而著稱。
   - [TWiki](https://zh.wikipedia.org/wiki/TWiki "wikilink")：企業內部常用的Wiki，開放源碼系統。
   - [Generic Applications Server](http://www.thingsprime.com)
-  - [PukiWiki](../Page/PukiWiki.md "wikilink")：由[YukiWiki所衍生](https://zh.wikipedia.org/wiki/YukiWiki "wikilink")，大多為[日文的](https://zh.wikipedia.org/wiki/日文 "wikilink")[Wiki網站所使用](../Page/Wiki.md "wikilink")。
+  - [PukiWiki](../Page/PukiWiki.md "wikilink")：由[YukiWiki所衍生](https://zh.wikipedia.org/wiki/YukiWiki "wikilink")，大多為[日文的](https://zh.wikipedia.org/wiki/日文 "wikilink")[Wiki](../Page/Wiki.md "wikilink")網站所使用。
   - [Tiddlywiki](https://zh.wikipedia.org/wiki/Tiddlywiki "wikilink")：個人使用的筆記型wiki，沒有後端資料庫，無須安裝，儘由單個html網頁檔組成，內核極度輕量化（以kb計算），只要有瀏覽器就可以瀏覽與編輯，適合裝在隨身碟裡帶著走。也可以將檔案直接放在網路空間成為網頁，但網路應用時預設不支援遠程內容變更（可以透過外掛取得支援）。
-  - [Project
-    forum](https://zh.wikipedia.org/wiki/Project_forum "wikilink")：是个收费的维基引擎，有免费版本，但功能受限。自带网络服务器，安装简单。
+  - [Project forum](https://zh.wikipedia.org/wiki/Project_forum "wikilink")：是个收费的维基引擎，有免费版本，但功能受限。自带网络服务器，安装简单。
   - [BoltWire](https://zh.wikipedia.org/wiki/BoltWire "wikilink")：以純文字存檔，基於PHP、不需要資料庫的Wiki軟體。\[1\]
       - 安裝需求：Apache + PHP
-  - [Sputnik](https://zh.wikipedia.org/wiki/Sputnik "wikilink") :
-    使用Lua语言的wiki,基于Kepler工程.小巧,高效,功能强大,扩展性好,安装简单方便(使用LuaRocks).与Lua一样使用免费开源的MITT授权.
+  - [Sputnik](https://zh.wikipedia.org/wiki/Sputnik "wikilink") : 使用Lua语言的wiki,基于Kepler工程.小巧,高效,功能强大,扩展性好,安装简单方便(使用LuaRocks).与Lua一样使用免费开源的MITT授权.
 
 ## Wiki引擎的優勢
 
@@ -115,20 +88,11 @@
   - [怎樣選擇好的Wiki引擎](http://c2.com/cgi/wiki?ChoosingaWiki)
   - [各種Wiki軟體比較列表](http://www.onlamp.com/pub/a/onlamp/2004/11/04/which_wiki.html)
   - [Wiki預覽](https://web.archive.org/web/20051223074544/http://www.spack.org/wiki/WikiReview)
-  - [維基文字標準](https://zh.wikipedia.org/wiki/m:Wikitext_standard "wikilink")
-    — [元維基](https://zh.wikipedia.org/wiki/元維基 "wikilink")
-    有關標準[維基文字的討論](https://zh.wikipedia.org/wiki/維基文字 "wikilink")
-  - [Wiki協作系統應用於數位典藏之內容加值與知識匯集](http://mail.tku.edu.tw/sclin/research/pub/200603Wiki.pdf)
-    《教育資料與圖書館學》期刊，2006年3月，第43卷，第3期，pp. 285-307.
+  - [維基文字標準](https://zh.wikipedia.org/wiki/m:Wikitext_standard "wikilink") — [元維基](https://zh.wikipedia.org/wiki/元維基 "wikilink") 有關標準[維基文字的討論](https://zh.wikipedia.org/wiki/維基文字 "wikilink")
+  - [Wiki協作系統應用於數位典藏之內容加值與知識匯集](http://mail.tku.edu.tw/sclin/research/pub/200603Wiki.pdf) 《教育資料與圖書館學》期刊，2006年3月，第43卷，第3期，pp. 285-307.
 
-[Category:Wiki软件](https://zh.wikipedia.org/wiki/Category:Wiki软件 "wikilink")
-[Category:Wiki](https://zh.wikipedia.org/wiki/Category:Wiki "wikilink")
-[Category:门户网站](https://zh.wikipedia.org/wiki/Category:门户网站 "wikilink")
-[Category:資訊科技管理](https://zh.wikipedia.org/wiki/Category:資訊科技管理 "wikilink")
+[Category:Wiki软件](https://zh.wikipedia.org/wiki/Category:Wiki软件 "wikilink") [Category:Wiki](https://zh.wikipedia.org/wiki/Category:Wiki "wikilink") [Category:门户网站](https://zh.wikipedia.org/wiki/Category:门户网站 "wikilink") [Category:資訊科技管理](https://zh.wikipedia.org/wiki/Category:資訊科技管理 "wikilink")
 
 1.
-2.  [諾貝爾物理獎女得主　曾遭維基百科拒建專頁](https://tw.appledaily.com/new/realtime/20181005/1442041/)
-    2018/10/05
-3.  [諾貝爾物理獎女得主
-    曾遭維基百科拒絕建檔\[影](http://www.cna.com.tw/news/firstnews/201810040385.aspx)最新更新：2018/10/05
-    \]
+2.  [諾貝爾物理獎女得主　曾遭維基百科拒建專頁](https://tw.appledaily.com/new/realtime/20181005/1442041/) 2018/10/05
+3.  [諾貝爾物理獎女得主 曾遭維基百科拒絕建檔\[影](http://www.cna.com.tw/news/firstnews/201810040385.aspx)最新更新：2018/10/05 \]

@@ -1,12 +1,10 @@
-**CORBA**（Common Object Request Broker
-Architecture）通用物件請求代理架構是軟體構建的一个標準。
+**CORBA**（Common Object Request Broker Architecture）通用物件請求代理架構是軟體構建的一个標準。
 
 CORBA標準由[物件管理組織](https://zh.wikipedia.org/wiki/Object_Management_Group "wikilink")（OMG）設立並進行控制，CORBA定義了一系列[API](https://zh.wikipedia.org/wiki/API "wikilink")，通信協議，和物件／服務[信息模型用於使得異質](https://zh.wikipedia.org/wiki/信息模型 "wikilink")[應用程序能夠互相操作](https://zh.wikipedia.org/wiki/應用程序 "wikilink")，這些應用程序用不同的程式語言編寫，運行在不同的平台上。CORBA因此為定義明確的物件提供了平臺和位置的透明性，這些物件是[分布式計算平臺的基礎](https://zh.wikipedia.org/wiki/分布式計算 "wikilink")。
 
 通常來說，CORBA把用其他語言開發的程序代码和關於該程序代码能力和如何調用該程序代码的信息包到一個开发包（package）中，开发包中的物件則可以在網络上被其他[程序](https://zh.wikipedia.org/wiki/電腦程序 "wikilink")（或CORBA[物件](https://zh.wikipedia.org/wiki/物件 "wikilink")）調用。在這個意義上來講，CORBA可以被看作是一個[機器可讀的文件檔格式](https://zh.wikipedia.org/wiki/機器可讀 "wikilink")，類似於头文件（header），但是具有相當多的信息。
 
-CORBA使用一種[接口描述语言](../Page/接口描述语言.md "wikilink")（[Interface description
-language](https://zh.wikipedia.org/wiki/IDL "wikilink")）用於刻畫物件將呈現出來的介面。CORBA又規定了從[IDL到特定程式語言](https://zh.wikipedia.org/wiki/IDL "wikilink")，如[C++或](../Page/C++.md "wikilink")[Java](../Page/Java.md "wikilink")，實現的映射。這個映射精確的描述了CORBA[資料類型是如何被用戶端和伺服器端實現的](../Page/資料類型.md "wikilink")。標準映射的有[Ada](../Page/Ada.md "wikilink")、[C](https://zh.wikipedia.org/wiki/C語言 "wikilink")、[C++](../Page/C++.md "wikilink")、[Smalltalk](../Page/Smalltalk.md "wikilink")、[Java](../Page/Java.md "wikilink")、以及[Python](../Page/Python.md "wikilink")。還有一些非標準的映射，為[Perl和](../Page/Perl.md "wikilink")[Tcl的映射由這些語言寫的](../Page/Tcl.md "wikilink")[ORB實現](https://zh.wikipedia.org/wiki/ORB "wikilink")。
+CORBA使用一種[接口描述语言](../Page/接口描述语言.md "wikilink")（[Interface description language](https://zh.wikipedia.org/wiki/IDL "wikilink")）用於刻畫物件將呈現出來的介面。CORBA又規定了從[IDL到特定程式語言](https://zh.wikipedia.org/wiki/IDL "wikilink")，如[C++](../Page/C++.md "wikilink")或[Java](../Page/Java.md "wikilink")，實現的映射。這個映射精確的描述了CORBA[資料類型](../Page/資料類型.md "wikilink")是如何被用戶端和伺服器端實現的。標準映射的有[Ada](../Page/Ada.md "wikilink")、[C](https://zh.wikipedia.org/wiki/C語言 "wikilink")、[C++](../Page/C++.md "wikilink")、[Smalltalk](../Page/Smalltalk.md "wikilink")、[Java](../Page/Java.md "wikilink")、以及[Python](../Page/Python.md "wikilink")。還有一些非標準的映射，為[Perl](../Page/Perl.md "wikilink")和[Tcl](../Page/Tcl.md "wikilink")的映射由這些語言寫的[ORB實現](https://zh.wikipedia.org/wiki/ORB "wikilink")。
 
 CORBA的IDL只是IDL的一個例子。
 
@@ -26,10 +24,7 @@ CORBA的数据（整数、浮点数、结构、枚举等）是通过值传递。
 
 ### 通用ORB间协议（GIOP）
 
-GIOP是用于ORB间数据传输的抽象协议，通用ORB间协议（GIOP）用来为这个由不同计算机及其各种体系结构组成的世界中传送消息定义结构和格式。如果使用GIOP的结构和格式，并将它们应用于TCP/IP，那么就得到IIOP。GIOP有两个版本：1.0和1.1。相关协议标准由[Object
-Management
-Group](https://zh.wikipedia.org/wiki/Object_Management_Group "wikilink")（OMG）管理.
-GIOP架构提供了如下具体协议：
+GIOP是用于ORB间数据传输的抽象协议，通用ORB间协议（GIOP）用来为这个由不同计算机及其各种体系结构组成的世界中传送消息定义结构和格式。如果使用GIOP的结构和格式，并将它们应用于TCP/IP，那么就得到IIOP。GIOP有两个版本：1.0和1.1。相关协议标准由[Object Management Group](https://zh.wikipedia.org/wiki/Object_Management_Group "wikilink")（OMG）管理. GIOP架构提供了如下具体协议：
 
 1.  因特网ORB间协议（IIOP）—定义了基于因特网的GIOP实现，提供了TCP/IP到GIOP的映射。
 2.  加密ORB间协议（SSLIOP）—SSLIOP是基于SSL加密层的IIOP，提供了[加密和](https://zh.wikipedia.org/wiki/加密 "wikilink")[认证](https://zh.wikipedia.org/wiki/认证 "wikilink")。
@@ -50,8 +45,7 @@ corbaloc的例子：
 ## 使用Corba的好处
 
   - 与具体编程语言无关
-    Java and C++, C-only, SmallTalk, Perl, Ada, Ruby, and
-    Python等语言都有CORBA的实现，并且可以跨语言互操作。
+    Java and C++, C-only, SmallTalk, Perl, Ada, Ruby, and Python等语言都有CORBA的实现，并且可以跨语言互操作。
 
 <!-- end list -->
 
@@ -95,36 +89,25 @@ corbaloc的例子：
 
   - [Object Management Group](http://www.omg.org/)
   - [Information Board](http://www.corba.org/)
-  - [Catalog of OMG
-    Specifications](http://www.omg.org/technology/documents/spec_catalog.htm)
-      - [IDL / Language
-        Mapping](https://web.archive.org/web/20041011115310/http://www.omg.org/technology/documents/idl2x_spec_catalog.htm)
-      - [CORBA Component Model
-        (CCM)](https://web.archive.org/web/20041009181008/http://www.omg.org/technology/documents/corba_spec_catalog.htm#ccm)
+  - [Catalog of OMG Specifications](http://www.omg.org/technology/documents/spec_catalog.htm)
+      - [IDL / Language Mapping](https://web.archive.org/web/20041011115310/http://www.omg.org/technology/documents/idl2x_spec_catalog.htm)
+      - [CORBA Component Model (CCM)](https://web.archive.org/web/20041009181008/http://www.omg.org/technology/documents/corba_spec_catalog.htm#ccm)
       - [IIOP](https://web.archive.org/web/20041009181008/http://www.omg.org/technology/documents/corba_spec_catalog.htm)
       - [Services](https://web.archive.org/web/20041009212628/http://www.omg.org/technology/documents/corbaservices_spec_catalog.htm)
       - [Facilities](https://web.archive.org/web/20041102092037/http://www.omg.org/technology/documents/corbafacilities_spec_catalog.htm)
       - [Domain](https://web.archive.org/web/20041102092516/http://www.omg.org/technology/documents/domain_spec_catalog.htm)
-      - [Embedded
-        Intelligence](https://web.archive.org/web/20041009213444/http://www.omg.org/technology/documents/embed_intel_spec_catalog.htm)
+      - [Embedded Intelligence](https://web.archive.org/web/20041009213444/http://www.omg.org/technology/documents/embed_intel_spec_catalog.htm)
       - [Security](https://web.archive.org/web/20041015083452/http://www.omg.org/technology/documents/formal/omg_security.htm)
-      - [UML, MOF, XMI,
-        CWM](https://web.archive.org/web/20110807045309/http://www.omg.org/technology/documents/modeling_spec_catalog.htm)
-  - [An overview of available CORBA
-    implementations](https://web.archive.org/web/20080509060156/http://www.puder.org/corba/matrix/)
-  - [Combat: a Tcl ORB, and a Tcl layer for C++
-    ORBs](http://www.fpx.de/Combat/)
+      - [UML, MOF, XMI, CWM](https://web.archive.org/web/20110807045309/http://www.omg.org/technology/documents/modeling_spec_catalog.htm)
+  - [An overview of available CORBA implementations](https://web.archive.org/web/20080509060156/http://www.puder.org/corba/matrix/)
+  - [Combat: a Tcl ORB, and a Tcl layer for C++ ORBs](http://www.fpx.de/Combat/)
   - [Python ORB](http://www.fnorb.org/)
   - [Perl ORB](http://sf.net/projects/perlorb/)
   - [JacORB](https://web.archive.org/web/20041212070949/http://jacorb.inf.fu-berlin.de/)
-  - [TAO The ACE
-    ORB](https://web.archive.org/web/20070611101431/http://www.cs.wustl.edu/~schmidt/TAO.html)
+  - [TAO The ACE ORB](https://web.archive.org/web/20070611101431/http://www.cs.wustl.edu/~schmidt/TAO.html)
   - [e\*ORB](https://web.archive.org/web/20040825200943/http://www.prismtechnologies.com/section-item.asp?sid4=&sid3=&sid2=9&sid=18&id=174)
   - [omniORB](http://omniorb.sourceforge.net/)
   - [MICO](http://www.mico.org/)
-  - [PocoCapsule for
-    CORBA组件容器](https://web.archive.org/web/20071119030841/http://www.pocomatic.com/docs/whitepapers/corba/)支持CORBA服务器应用，OMG事件／通知服务应用，OMG-DDS应用，OMG-RTC应用，以及JTRS-SCA基于组件的[软件无线电](../Page/软件无线电.md "wikilink")（SDR）应用。
+  - [PocoCapsule for CORBA组件容器](https://web.archive.org/web/20071119030841/http://www.pocomatic.com/docs/whitepapers/corba/)支持CORBA服务器应用，OMG事件／通知服务应用，OMG-DDS应用，OMG-RTC应用，以及JTRS-SCA基于组件的[软件无线电](../Page/软件无线电.md "wikilink")（SDR）应用。
 
-[Category:面向对象的程序设计](https://zh.wikipedia.org/wiki/Category:面向对象的程序设计 "wikilink")
-[Category:进程间通信](https://zh.wikipedia.org/wiki/Category:进程间通信 "wikilink")
-[Category:基于组件的软件工程](https://zh.wikipedia.org/wiki/Category:基于组件的软件工程 "wikilink")
+[Category:面向对象的程序设计](https://zh.wikipedia.org/wiki/Category:面向对象的程序设计 "wikilink") [Category:进程间通信](https://zh.wikipedia.org/wiki/Category:进程间通信 "wikilink") [Category:基于组件的软件工程](https://zh.wikipedia.org/wiki/Category:基于组件的软件工程 "wikilink")

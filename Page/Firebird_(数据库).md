@@ -1,11 +1,8 @@
-**Firebird**，是一个跨平台的[关系数据库系统](../Page/关系数据库.md "wikilink")，目前能够运行在[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[linux和各种](https://zh.wikipedia.org/wiki/linux "wikilink")[Unix操作系统上](https://zh.wikipedia.org/wiki/Unix "wikilink")，源于[Borland公司的](../Page/Borland.md "wikilink")[InterBase](https://zh.wikipedia.org/wiki/InterBase "wikilink")
-6.0，是一个完全非商业化的产品，但源代码经过大规模重写，使用C++开发。
+**Firebird**，是一个跨平台的[关系数据库](../Page/关系数据库.md "wikilink")系统，目前能够运行在[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[linux和各种](https://zh.wikipedia.org/wiki/linux "wikilink")[Unix操作系统上](https://zh.wikipedia.org/wiki/Unix "wikilink")，源于[Borland](../Page/Borland.md "wikilink")公司的[InterBase](https://zh.wikipedia.org/wiki/InterBase "wikilink") 6.0，是一个完全非商业化的产品，但源代码经过大规模重写，使用C++开发。
 
 ## 特色
 
-支援多版本並發控制（Multiversion Concurrency Control，MVCC）、Stored
-Procedure、Trigger、自定義方法（User-defined
-function，UDF）等商用資料庫行為程序。同時因為與interbase的血緣關係，大部分interbase的GUI工具可以直接應用到Firebird開發中。
+支援多版本並發控制（Multiversion Concurrency Control，MVCC）、Stored Procedure、Trigger、自定義方法（User-defined function，UDF）等商用資料庫行為程序。同時因為與interbase的血緣關係，大部分interbase的GUI工具可以直接應用到Firebird開發中。
 
 ## 版本區分
 
@@ -22,13 +19,11 @@ Firebird提供三個伺服器環境版本，分別是超級伺服器版本（**S
 
 ### Firebird 1.0
 
-2002年3月11日公開，初期支援Linux、Windows、Mac OS
-X版本，兩個月後公開Solaris、FreeBSD、HP-UX移植版本，以C語言為中心開發。
+2002年3月11日公開，初期支援Linux、Windows、Mac OS X版本，兩個月後公開Solaris、FreeBSD、HP-UX移植版本，以C語言為中心開發。
 
 ### Firebird 1.5
 
-2004年2月23日公開，自此版本開始變更為C++為中心開發。SQL陳述句支援SQL92標準函式、SQL1999的SAVEPOINT函式與明確鎖定（explicit
-locking）\[1\]。
+2004年2月23日公開，自此版本開始變更為C++為中心開發。SQL陳述句支援SQL92標準函式、SQL1999的SAVEPOINT函式與明確鎖定（explicit locking）\[1\]。
 
 ### Firebird 2.0
 
@@ -54,18 +49,11 @@ locking）\[1\]。
 
 ## 外部链接
 
-  - [Firebird - Relational Database for the New
-    Millenium](http://firebird.sourceforge.net)
+  - [Firebird - Relational Database for the New Millenium](http://firebird.sourceforge.net)
 
-[Category:開源資料庫管理系統](https://zh.wikipedia.org/wiki/Category:開源資料庫管理系統 "wikilink")
-[Category:跨平台軟體](https://zh.wikipedia.org/wiki/Category:跨平台軟體 "wikilink")
+[Category:開源資料庫管理系統](https://zh.wikipedia.org/wiki/Category:開源資料庫管理系統 "wikilink") [Category:跨平台軟體](https://zh.wikipedia.org/wiki/Category:跨平台軟體 "wikilink")
 
-1.   Firebird 1.5.5 General Notes for rewriting it from C to C++
-    language
-2.  [*Releases
-    Firebird-win64*.](http://sourceforge.net/projects/firebird/files/firebird-win64/)
-    Sourceforge.net; abgerufen am 3. Mai 2011.
-3.  [*Releases
-    Firebird-linux-amd64*.](http://sourceforge.net/projects/firebird/files/firebird-linux-amd64/)
-    Sourceforge.net; 3. May 2011.
+1.   Firebird 1.5.5 General Notes for rewriting it from C to C++ language
+2.  [*Releases Firebird-win64*.](http://sourceforge.net/projects/firebird/files/firebird-win64/) Sourceforge.net; abgerufen am 3. Mai 2011.
+3.  [*Releases Firebird-linux-amd64*.](http://sourceforge.net/projects/firebird/files/firebird-linux-amd64/) Sourceforge.net; 3. May 2011.
 4.

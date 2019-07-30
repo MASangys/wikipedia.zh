@@ -1,5 +1,4 @@
-/\*
-请与[MediaWiki:Common.js保持协调一致](https://zh.wikipedia.org/wiki/MediaWiki:Common.js "wikilink")
+/\* 请与[MediaWiki:Common.js保持协调一致](https://zh.wikipedia.org/wiki/MediaWiki:Common.js "wikilink")
 
 ### 語言地區下拉菜單
 

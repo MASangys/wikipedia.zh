@@ -1,18 +1,15 @@
-《**Cho-{}-bits**》（）是日本漫畫家團體[CLAMP的](../Page/CLAMP.md "wikilink")[日本漫畫作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")，自2000年9月至2002年10月間於日本[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")《[週刊Young
-Magazine](../Page/週刊Young_Magazine.md "wikilink")》連載。[單行本共](https://zh.wikipedia.org/wiki/單行本 "wikilink")8冊\[1\]\[2\]。改編動畫版自2002年4月起至9月止於[TBS播放](https://zh.wikipedia.org/wiki/TBS电视台 "wikilink")，全27話。
+《**Cho-{}-bits**》（）是日本漫畫家團體[CLAMP](../Page/CLAMP.md "wikilink")的[日本漫畫作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")，自2000年9月至2002年10月間於日本[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")《[週刊Young Magazine](../Page/週刊Young_Magazine.md "wikilink")》連載。[單行本共](https://zh.wikipedia.org/wiki/單行本 "wikilink")8冊\[1\]\[2\]。改編動畫版自2002年4月起至9月止於[TBS播放](https://zh.wikipedia.org/wiki/TBS电视台 "wikilink")，全27話。
 
 ## 名稱由來
 
-[日文的Cho](https://zh.wikipedia.org/wiki/日文 "wikilink")-{}-bits：（Chobittsu）是[平假名](../Page/平假名.md "wikilink")（Chobi(t)）與[片假名](../Page/片假名.md "wikilink")（Tsu）混合寫成。相似的寫法在第19集中秀樹設定絲茉茉的密碼時，使用（Chobittsu）的讀音相同，不同的地方是密碼以片假名Ch(i)加上平假名(y)obittsu寫成，原因是人形電腦設定的密碼必須是平假名片假名混合以增加安全。漫畫中最後，秀樹設定了小唧的密碼：，除了最後一個字是片假名外，其餘都是平假名（其實同樣讀音的密碼也用在重新啟動前的艾兒妲\[小唧\]
-- Elda 以及芙蕾雅 - Freya）。
+[日文的Cho](https://zh.wikipedia.org/wiki/日文 "wikilink")-{}-bits：（Chobittsu）是[平假名](../Page/平假名.md "wikilink")（Chobi(t)）與[片假名](../Page/片假名.md "wikilink")（Tsu）混合寫成。相似的寫法在第19集中秀樹設定絲茉茉的密碼時，使用（Chobittsu）的讀音相同，不同的地方是密碼以片假名Ch(i)加上平假名(y)obittsu寫成，原因是人形電腦設定的密碼必須是平假名片假名混合以增加安全。漫畫中最後，秀樹設定了小唧的密碼：，除了最後一個字是片假名外，其餘都是平假名（其實同樣讀音的密碼也用在重新啟動前的艾兒妲\[小唧\] - Elda 以及芙蕾雅 - Freya）。
 除此之外，對於為何稱呼其為人形電腦而非[機器人的原因在漫畫中最後也有解釋](https://zh.wikipedia.org/wiki/機器人 "wikilink")，因為日比谷千歲的丈夫「三原一郎」認為它們不應該受到[機器人三定律的限制](https://zh.wikipedia.org/wiki/機器人三定律 "wikilink")。
 
 本作与《[天使領域](https://zh.wikipedia.org/wiki/天使領域 "wikilink")》存在人物相關。
 
 ## 劇情簡介
 
-故事講述重考生本須和秀樹，身無分文隻身來到東京卻想擁有一部價格昂貴的人形電腦。於東京，人形電腦是非常普及的家電。他心想「如果可在垃圾堆中撿到一部就好了」，卻如他所願在東京的一晚撿到一部人形電腦。由於該電腦沒有裝上任何軟件，
-故此只會以「唧（chi）」作應對，故他把該電腦命名為小唧，並與小唧朝夕相對。
+故事講述重考生本須和秀樹，身無分文隻身來到東京卻想擁有一部價格昂貴的人形電腦。於東京，人形電腦是非常普及的家電。他心想「如果可在垃圾堆中撿到一部就好了」，卻如他所願在東京的一晚撿到一部人形電腦。由於該電腦沒有裝上任何軟件， 故此只會以「唧（chi）」作應對，故他把該電腦命名為小唧，並與小唧朝夕相對。
 
 當秀樹發現小唧擁有很高的學習能力，就常購買書給小唧。之後，秀樹又發現小唧有別於一般人形電腦，例如沒有裝上任何軟件卻會自行活動，可強行進入其他電腦而不被發現，更特別的是一般電腦的開關制都設於耳朵後，但小唧的卻在陰道內。
 
@@ -22,7 +19,7 @@ Magazine](../Page/週刊Young_Magazine.md "wikilink")》連載。[單行本共](
 
   -
     身高185cm。9月3日出生。
-    本作品的主角。19歲，是一名大學考試落榜出身於[北海道的重考生](../Page/北海道.md "wikilink")，在関予備校補習。曾在「奇洛兒」蛋糕店打工(動畫中無此設定)、後到「樂意之至」居酒屋打工。他於租來的公寓內收藏了不少色情雜誌，不時會自言自語，卻是一個內心善良的青年（他身邊的人常說他是一個好人）。他初到城市時在一垃圾堆中發現小唧，並把她帶回公寓。老家在北海道經營牧場。
+    本作品的主角。19歲，是一名大學考試落榜出身於[北海道](../Page/北海道.md "wikilink")的重考生，在関予備校補習。曾在「奇洛兒」蛋糕店打工(動畫中無此設定)、後到「樂意之至」居酒屋打工。他於租來的公寓內收藏了不少色情雜誌，不時會自言自語，卻是一個內心善良的青年（他身邊的人常說他是一個好人）。他初到城市時在一垃圾堆中發現小唧，並把她帶回公寓。老家在北海道經營牧場。
 
 <!-- end list -->
 
@@ -70,8 +67,7 @@ Magazine](../Page/週刊Young_Magazine.md "wikilink")》連載。[單行本共](
 
   -
     身高160cm。12月25日出生（製造日）。
-    稔所擁有的自製電腦中性能最高者。因是依照稔逝去的姐姐—齊滕楓（原名 國分寺
-    楓）當成模型而製作，所以言行舉止和喜好與姐姐一模一樣。她被設定為溫文儒雅。
+    稔所擁有的自製電腦中性能最高者。因是依照稔逝去的姐姐—齊滕楓（原名 國分寺 楓）當成模型而製作，所以言行舉止和喜好與姐姐一模一樣。她被設定為溫文儒雅。
 
 <!-- end list -->
 
@@ -232,9 +228,7 @@ Magazine](../Page/週刊Young_Magazine.md "wikilink")》連載。[單行本共](
 <!-- end list -->
 
   - 『**Let Me Be With You**』
-      - 作詞、作曲：北川勝利、編曲：[ROUND
-        TABLE](../Page/ROUND_TABLE.md "wikilink")、歌：ROUND TABLE
-        featuring Nino
+      - 作詞、作曲：北川勝利、編曲：[ROUND TABLE](../Page/ROUND_TABLE.md "wikilink")、歌：ROUND TABLE featuring Nino
 
 <!-- end list -->
 
@@ -645,7 +639,7 @@ Magazine](../Page/週刊Young_Magazine.md "wikilink")》連載。[單行本共](
 ## 遊戲
 
   - ちょびっツ for GAMEBOY ADVANCE アタシだけのヒト
-      - 對應機種：[GBA](https://zh.wikipedia.org/wiki/GBA "wikilink")、發售日：2002年9月27日發售、發售商：[Marvelous娛樂](../Page/Marvelous.md "wikilink")
+      - 對應機種：[GBA](https://zh.wikipedia.org/wiki/GBA "wikilink")、發售日：2002年9月27日發售、發售商：[Marvelous](../Page/Marvelous.md "wikilink")娛樂
   - ちょびっツ 〜ちぃだけのヒト〜
       - 對應機種：[PS2](../Page/PlayStation_2.md "wikilink")、發售日：2003年5月15日發售、發售商：[Broccoli](../Page/Broccoli.md "wikilink")
 
@@ -657,11 +651,7 @@ Magazine](../Page/週刊Young_Magazine.md "wikilink")》連載。[單行本共](
 
   - [TBS動畫官方網站](http://www.tbs.co.jp/chobits/)
 
-[Category:CLAMP](https://zh.wikipedia.org/wiki/Category:CLAMP "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:週刊Young_Magazine](https://zh.wikipedia.org/wiki/Category:週刊Young_Magazine "wikilink")
-[Category:2002年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2002年日本電視動畫 "wikilink")
-[Category:電腦題材作品](https://zh.wikipedia.org/wiki/Category:電腦題材作品 "wikilink")
+[Category:CLAMP](https://zh.wikipedia.org/wiki/Category:CLAMP "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:週刊Young_Magazine](https://zh.wikipedia.org/wiki/Category:週刊Young_Magazine "wikilink") [Category:2002年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2002年日本電視動畫 "wikilink") [Category:電腦題材作品](https://zh.wikipedia.org/wiki/Category:電腦題材作品 "wikilink")
 
 1.
 2.

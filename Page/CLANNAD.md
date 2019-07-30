@@ -1,37 +1,27 @@
-《**CLANNAD**》（）是由[日本遊戲品牌](../Page/日本.md "wikilink")[Key所发行的第三款](https://zh.wikipedia.org/wiki/Key_\(公司\) "wikilink")[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")，或依此為原作改编或扩充的[跨媒體製作作品](../Page/跨媒體製作.md "wikilink")。因其剧情大部分发生于[春季](../Page/春季.md "wikilink")，《CLANNAD》亦被视为Key社季节组曲中的“春”\[1\]。
+《**CLANNAD**》（）是由[日本](../Page/日本.md "wikilink")遊戲品牌[Key所发行的第三款](https://zh.wikipedia.org/wiki/Key_\(公司\) "wikilink")[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")，或依此為原作改编或扩充的[跨媒體製作](../Page/跨媒體製作.md "wikilink")作品。因其剧情大部分发生于[春季](../Page/春季.md "wikilink")，《CLANNAD》亦被视为Key社季节组曲中的“春”\[1\]。
 
 ## 概要
 
-《CLANNAD》是一款[戀愛](https://zh.wikipedia.org/wiki/戀愛 "wikilink")[視覺小說](https://zh.wikipedia.org/wiki/視覺小說 "wikilink")，[玩家扮演角色岡崎朋也](../Page/玩家.md "wikilink")。玩家在遊玩《CLANNAD》時將會花費大多數時間觀看出現在螢幕上的文字[敘述](https://zh.wikipedia.org/wiki/叙事 "wikilink")、人物[對話以及角色心理等](https://zh.wikipedia.org/wiki/对话 "wikilink")，藉由這樣的方式，除了讓故事獲得進展外，也可以與遊戲角色對話進行交流。在每次閱讀故事發展以及與其他角色對話後，玩家便有機會能夠在與角色互動時從遊戲提供的數個選項中挑選其中一項，此時遊戲會暫停一會兒以提供玩家依據先前的對話作出決定。
+《CLANNAD》是一款[戀愛](https://zh.wikipedia.org/wiki/戀愛 "wikilink")[視覺小說](https://zh.wikipedia.org/wiki/視覺小說 "wikilink")，[玩家](../Page/玩家.md "wikilink")扮演角色岡崎朋也。玩家在遊玩《CLANNAD》時將會花費大多數時間觀看出現在螢幕上的文字[敘述](https://zh.wikipedia.org/wiki/叙事 "wikilink")、人物[對話以及角色心理等](https://zh.wikipedia.org/wiki/对话 "wikilink")，藉由這樣的方式，除了讓故事獲得進展外，也可以與遊戲角色對話進行交流。在每次閱讀故事發展以及與其他角色對話後，玩家便有機會能夠在與角色互動時從遊戲提供的數個選項中挑選其中一項，此時遊戲會暫停一會兒以提供玩家依據先前的對話作出決定。
 
-和[Key的前](https://zh.wikipedia.org/wiki/Key_\(公司\) "wikilink")2部作品『[Kanon](../Page/Kanon.md "wikilink")』『[AIR](../Page/AIR_\(遊戲\).md "wikilink")』不同的是，於[PC版發售之時即以全年齡版的形式發行](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")\[2\]\[3\]。當初發表時是預定於2002年發售\[4\]，但在那之後預定發售日延至2003年，最後確定於2004年4月28日發售，共延期2年。PC版上带有[配音的](../Page/配音.md "wikilink")『CLANNAD
-FULL VOICE』於2008年2月29日發售\[5\]。
+和[Key的前](https://zh.wikipedia.org/wiki/Key_\(公司\) "wikilink")2部作品『[Kanon](../Page/Kanon.md "wikilink")』『[AIR](../Page/AIR_\(遊戲\).md "wikilink")』不同的是，於[PC版發售之時即以全年齡版的形式發行](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")\[2\]\[3\]。當初發表時是預定於2002年發售\[4\]，但在那之後預定發售日延至2003年，最後確定於2004年4月28日發售，共延期2年。PC版上带有[配音](../Page/配音.md "wikilink")的『CLANNAD FULL VOICE』於2008年2月29日發售\[5\]。
 
-Key於2005年6月24日發表由[Interchannel移植的](https://zh.wikipedia.org/wiki/Interchannel-Holon "wikilink")[PlayStation
-2版本於](../Page/PlayStation_2.md "wikilink")2006年2月23日發售（[CERO分級適合](https://zh.wikipedia.org/wiki/CERO "wikilink")15歲以上）。Prototype的[PSP與](https://zh.wikipedia.org/wiki/PSP "wikilink")[Xbox
-360版本也分別於](../Page/Xbox_360.md "wikilink")2008年5月29日和8月28日發售。另外，以CLANNAD中的一位角色「坂上智代」作為延伸，2005年11月25日發行了另一款名為『』的[十八禁](https://zh.wikipedia.org/wiki/十八禁遊戲 "wikilink")[戀愛遊戲](../Page/戀愛遊戲.md "wikilink")\[6\]。
+Key於2005年6月24日發表由[Interchannel移植的](https://zh.wikipedia.org/wiki/Interchannel-Holon "wikilink")[PlayStation 2版本於](../Page/PlayStation_2.md "wikilink")2006年2月23日發售（[CERO分級適合](https://zh.wikipedia.org/wiki/CERO "wikilink")15歲以上）。Prototype的[PSP與](https://zh.wikipedia.org/wiki/PSP "wikilink")[Xbox 360版本也分別於](../Page/Xbox_360.md "wikilink")2008年5月29日和8月28日發售。另外，以CLANNAD中的一位角色「坂上智代」作為延伸，2005年11月25日發行了另一款名為『』的[十八禁](https://zh.wikipedia.org/wiki/十八禁遊戲 "wikilink")[戀愛遊戲](../Page/戀愛遊戲.md "wikilink")\[6\]。
 
-[漫畫版則是於](https://zh.wikipedia.org/wiki/漫畫 "wikilink")2005年開始由《月刊Comic
-Rush》（Jive株式會社）連載中。另外、2007年[MediaWorks發行的](../Page/MediaWorks.md "wikilink")《[電擊G's
-magazine](../Page/電擊G's_magazine.md "wikilink")》中由[SHAA作畫開始連載](https://zh.wikipedia.org/wiki/SHAA "wikilink")。
+[漫畫版則是於](https://zh.wikipedia.org/wiki/漫畫 "wikilink")2005年開始由《月刊Comic Rush》（Jive株式會社）連載中。另外、2007年[MediaWorks](../Page/MediaWorks.md "wikilink")發行的《[電擊G's magazine](../Page/電擊G's_magazine.md "wikilink")》中由[SHAA作畫開始連載](https://zh.wikipedia.org/wiki/SHAA "wikilink")。
 
-關於[動畫部分](https://zh.wikipedia.org/wiki/動畫 "wikilink")，2007年9月15日由[東映動畫製作的電影版動畫於日本公開上映](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")\[7\]。從2007年10月4日開始由[京都動畫製作的](../Page/京都動畫.md "wikilink")[電視動畫於日本播放](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")\[8\]，其第二季『Clannad
-After Story』從2008年10月2日開始播放\[9\]。
+關於[動畫部分](https://zh.wikipedia.org/wiki/動畫 "wikilink")，2007年9月15日由[東映動畫製作的電影版動畫於日本公開上映](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")\[7\]。從2007年10月4日開始由[京都動畫](../Page/京都動畫.md "wikilink")製作的[電視動畫於日本播放](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")\[8\]，其第二季『Clannad After Story』從2008年10月2日開始播放\[9\]。
 
-『CLANNAD』一詞帶有「家族」的含義，那麼对于『CLANNAD』的主題是家族嗎？」這個疑問，編劇[麻枝准做出了如下回答](../Page/麻枝准.md "wikilink")\[10\]：
+『CLANNAD』一詞帶有「家族」的含義，那麼对于『CLANNAD』的主題是家族嗎？」這個疑問，編劇[麻枝准](../Page/麻枝准.md "wikilink")做出了如下回答\[10\]：
 
-實際上[愛爾蘭凱爾特語中表示家族意思的單語是](../Page/愛爾蘭語.md "wikilink")“[clann](https://zh.wikipedia.org/wiki/wikt:en:clann#Irish "wikilink")”，而CLANNAD詞尾的A與D一般被認為是兩個縮寫。A是愛爾蘭語中的[as](https://zh.wikipedia.org/wiki/wikt:en:as#Irish "wikilink")，相當於英語中的from或out
-of；對於D的含義有兩種說法，一說認為D是凯尔特的一个小镇的名字Dobhar的首字母，在这里作为小镇的象征；另一說認為其源於遊戲中虛構的動畫角色「」，「」的罗马音是Dango，D是其首字母。这两种见解能发展出两种字面不同但在核心意義上相同的含义，一个直接表示“小镇家族”；另一个则表示「糰子大家族」，并以糰子大家族象征小镇中的各个家族，以至小镇本身这个大家族。正是因此，無論哪種解釋，都脱离不了“小镇”和“家族”的游戏核心概念。並且更進一步地，從After
-Story中朋也與渚的對話台詞\[11\]中可以得知，「小鎮」和「家族」兩個概念能夠被統一到一起。
-KEY社官方對CLANNAD的描述為「」\[12\]（「從平凡的學園生活開始，人與小鎮的故事」），這樣的描述事實上間接說明了CLANNAD的主題為
-人與小鎮，以及小鎮所代表的、人們聚集在一起互相支持著生活的「家族」。
+實際上[愛爾蘭凱爾特語中表示家族意思的單語是](../Page/愛爾蘭語.md "wikilink")“[clann](https://zh.wikipedia.org/wiki/wikt:en:clann#Irish "wikilink")”，而CLANNAD詞尾的A與D一般被認為是兩個縮寫。A是愛爾蘭語中的[as](https://zh.wikipedia.org/wiki/wikt:en:as#Irish "wikilink")，相當於英語中的from或out of；對於D的含義有兩種說法，一說認為D是凯尔特的一个小镇的名字Dobhar的首字母，在这里作为小镇的象征；另一說認為其源於遊戲中虛構的動畫角色「」，「」的罗马音是Dango，D是其首字母。这两种见解能发展出两种字面不同但在核心意義上相同的含义，一个直接表示“小镇家族”；另一个则表示「糰子大家族」，并以糰子大家族象征小镇中的各个家族，以至小镇本身这个大家族。正是因此，無論哪種解釋，都脱离不了“小镇”和“家族”的游戏核心概念。並且更進一步地，從After Story中朋也與渚的對話台詞\[11\]中可以得知，「小鎮」和「家族」兩個概念能夠被統一到一起。
+KEY社官方對CLANNAD的描述為「」\[12\]（「從平凡的學園生活開始，人與小鎮的故事」），這樣的描述事實上間接說明了CLANNAD的主題為 人與小鎮，以及小鎮所代表的、人們聚集在一起互相支持著生活的「家族」。
 
 ## 故事介紹
 
 遊戲開始時間是某年的4月14日\[13\]。在某個小鎮，主角岡崎朋也因為家庭的因素而喪失了生活在這個地方的[希望](https://zh.wikipedia.org/wiki/希望 "wikilink")；與春原陽平為朋友，在光坂高等學校過著潦倒的生活，盼望終有一天能夠離開所在的小鎮。在高三的一個早晨，通往學校的坡道前發現了一個止步不前的女孩，在朋也認識了這個名為「古河渚」的女孩後，他的生活開始有了重大的變化。
 
-校園篇為主角和女主角們之間所發生的事件，After
-story為主角在學校畢業之後，以及家庭生活，其中還關聯著「幻想世界」，CLANNAD就是由這三個要素所組成的故事。
+校園篇為主角和女主角們之間所發生的事件，After story為主角在學校畢業之後，以及家庭生活，其中還關聯著「幻想世界」，CLANNAD就是由這三個要素所組成的故事。
 
 ## 角色介紹
 
@@ -51,8 +41,7 @@ story為主角在學校畢業之後，以及家庭生活，其中還關聯著「
 <!-- end list -->
 
   -
-    就讀光坂高中的3年B班，比朋也大一歲，因為久病復讀一年，對於即將面對的新環境存在陌生的恐懼而在往校門前的坡道上不敢前行，也成為了和朋也相遇並熟識的契機。家裡開麵包店，有個直爽的父親和溫柔的母親，擁有溫馨的家庭環境。個性溫柔單純，缺乏自信，不過有時卻意外的頑固。因為嚮往團體生活而十分喜歡演戲，可是卻完全沒有演戲劇的經驗，目標是再建立戲劇社。對之前流行的「糰子大家族」尤其喜愛，時常哼著糰子大家族的歌，也常抱著糰子大家族的布偶入睡。身體上弱不禁風，在精神上卻擁有堅韌不拔的個性，這一點在After
-    Story中有進一步的體現。
+    就讀光坂高中的3年B班，比朋也大一歲，因為久病復讀一年，對於即將面對的新環境存在陌生的恐懼而在往校門前的坡道上不敢前行，也成為了和朋也相遇並熟識的契機。家裡開麵包店，有個直爽的父親和溫柔的母親，擁有溫馨的家庭環境。個性溫柔單純，缺乏自信，不過有時卻意外的頑固。因為嚮往團體生活而十分喜歡演戲，可是卻完全沒有演戲劇的經驗，目標是再建立戲劇社。對之前流行的「糰子大家族」尤其喜愛，時常哼著糰子大家族的歌，也常抱著糰子大家族的布偶入睡。身體上弱不禁風，在精神上卻擁有堅韌不拔的個性，這一點在After Story中有進一步的體現。
 
 <!-- end list -->
 
@@ -63,8 +52,7 @@ story為主角在學校畢業之後，以及家庭生活，其中還關聯著「
 <!-- end list -->
 
   -
-    朋也隔壁班的班長，就讀光坂高中的3年E班，椋的雙胞胎姊姊。在高中二年級時是朋也的同班同學，從此結下堪稱孽緣的好友關係。個性爭強好勝直來直往，偶爾喜歡捉弄他人，特別愛管閒事，能把幾種不同的厚字典當成砲擊武器投出，投擲的準確度甚高。雖然性格粗魯，不過料理意外的好吃。每天骑着电动车上学，经常撞到朋也。從遊戲劇情展開前就暗戀朋也，但在妹妹向自己吐露心意後開始隱藏自己對朋也的感情（虽然妹妹椋是知道她对朋也的感情的）。有飼養名為牡丹（聲優：[川名真知子](../Page/川名真知子.md "wikilink")）的幼年[野豬](../Page/野豬.md "wikilink")。志向是成為幼兒園教師。在動畫第二季裡的特別篇
-    （另一個世界 — 杏篇）還有跟岡崎朋也的一小段戀情。
+    朋也隔壁班的班長，就讀光坂高中的3年E班，椋的雙胞胎姊姊。在高中二年級時是朋也的同班同學，從此結下堪稱孽緣的好友關係。個性爭強好勝直來直往，偶爾喜歡捉弄他人，特別愛管閒事，能把幾種不同的厚字典當成砲擊武器投出，投擲的準確度甚高。雖然性格粗魯，不過料理意外的好吃。每天骑着电动车上学，经常撞到朋也。從遊戲劇情展開前就暗戀朋也，但在妹妹向自己吐露心意後開始隱藏自己對朋也的感情（虽然妹妹椋是知道她对朋也的感情的）。有飼養名為牡丹（聲優：[川名真知子](../Page/川名真知子.md "wikilink")）的幼年[野豬](../Page/野豬.md "wikilink")。志向是成為幼兒園教師。在動畫第二季裡的特別篇 （另一個世界 — 杏篇）還有跟岡崎朋也的一小段戀情。
     藤林杏在2008年拿下國際最萌聯盟比賽的藍寶石項鍊（Sapphire Necklace）。
 
 <!-- end list -->
@@ -91,12 +79,8 @@ story為主角在學校畢業之後，以及家庭生活，其中還關聯著「
   -
     光坂高中二年B班。初中時超有名，是個打遍鎮內無敵手的傳說不良少女。因家境複雜，過著亂七八糟的生活，後來因為弟弟鷹文而改變，一家人關係也好了。為了不讓通往光坂高等學校校門口的坡道旁櫻花樹被砍伐而轉至該校，致力參加學生會長的競選。想改變以往形象，努力讓自己像個女孩子，不過因為朋也和春原（主要因為春原惡作劇）常常破功。對遲到和懶散絕對不能原諒，即使用暴力也要把朋也和春原兩人帶到學校。
     坂上智代在2009年拿下國際最萌聯盟比賽的海藍寶石項鍊（Aquamarine Necklace）。
-    因为在游戏原作中坂上智代的高人气，Key社还推出了智代线的18禁续作《[智代After ～It's a Wonderful
-    Life～](../Page/智代After_～It's_a_Wonderful_Life～.md "wikilink")》。
-    在动画中被路人化，戏份大幅删减。但在動畫第一季裡的特別篇（另一個世界 —
-    智代篇）還有跟岡崎朋也的一小段戀情，这一段故事便是续作《[智代After
-    ～It's a Wonderful
-    Life～](../Page/智代After_～It's_a_Wonderful_Life～.md "wikilink")》的开端。
+    因为在游戏原作中坂上智代的高人气，Key社还推出了智代线的18禁续作《[智代After ～It's a Wonderful Life～](../Page/智代After_～It's_a_Wonderful_Life～.md "wikilink")》。
+    在动画中被路人化，戏份大幅删减。但在動畫第一季裡的特別篇（另一個世界 — 智代篇）還有跟岡崎朋也的一小段戀情，这一段故事便是续作《[智代After ～It's a Wonderful Life～](../Page/智代After_～It's_a_Wonderful_Life～.md "wikilink")》的开端。
 
 <!-- end list -->
 
@@ -107,8 +91,7 @@ story為主角在學校畢業之後，以及家庭生活，其中還關聯著「
 <!-- end list -->
 
   -
-    整天在舊校舍空教室裡默默雕刻的一年級生。身材矮小，其實與朋也同齡。常常把雕刻像星型的木雕分送給人（風子說那木雕是雕[海星](../Page/海星.md "wikilink")）當做姐姐公子婚禮上的請帖。雖然自稱大人，但在很多地方上和小孩沒兩樣，說話直接毫不留情。個性獨特又愛幻想，一旦進入幻想模式就完全不會注意到周圍的事物，因此常被朋也趁機捉弄（把紙包飲品的飲管塞進鼻子裡），根據風子姐姐所說，風子一年級入學時因車禍在醫院的病床上沉睡著，有可能是所謂的「思念體」。後來漸漸被人遺忘，現在以客串形色出現（游戏里达成一定条件后会在智代的路线里触发“风子参上”事件）。在游戏的学园篇中，朋也为风子许愿而“使用”了一颗“光玉”，风子的实体因此在After
-    Story中痊愈而苏醒，并回收风子的光玉。
+    整天在舊校舍空教室裡默默雕刻的一年級生。身材矮小，其實與朋也同齡。常常把雕刻像星型的木雕分送給人（風子說那木雕是雕[海星](../Page/海星.md "wikilink")）當做姐姐公子婚禮上的請帖。雖然自稱大人，但在很多地方上和小孩沒兩樣，說話直接毫不留情。個性獨特又愛幻想，一旦進入幻想模式就完全不會注意到周圍的事物，因此常被朋也趁機捉弄（把紙包飲品的飲管塞進鼻子裡），根據風子姐姐所說，風子一年級入學時因車禍在醫院的病床上沉睡著，有可能是所謂的「思念體」。後來漸漸被人遺忘，現在以客串形色出現（游戏里达成一定条件后会在智代的路线里触发“风子参上”事件）。在游戏的学园篇中，朋也为风子许愿而“使用”了一颗“光玉”，风子的实体因此在After Story中痊愈而苏醒，并回收风子的光玉。
     動畫接近尾聲時風子醒來出院，因為「思念體」的記憶不會同步，所以沒有朋也一等人的記憶。
 
 <!-- end list -->
@@ -177,15 +160,13 @@ story為主角在學校畢業之後，以及家庭生活，其中還關聯著「
 
   -
     生日：12月5日。星座：射手。身高：179cm。體重：63kg。血型：O型。
-    公子的學生和丈夫，現在是配電工。學生時代對搖滾音樂非常喜愛，畢業後成為職業歌手，曾經紅極一時，可惜某些原因放棄這條路，後來回到小鎮做起配電工作。After
-    Story中是朋也工作上的前輩（電影版中是春原高中時期工作上的前輩），雖然嚴苛但絕不強求。常常说出文艺且让众人不明所以的话。
+    公子的學生和丈夫，現在是配電工。學生時代對搖滾音樂非常喜愛，畢業後成為職業歌手，曾經紅極一時，可惜某些原因放棄這條路，後來回到小鎮做起配電工作。After Story中是朋也工作上的前輩（電影版中是春原高中時期工作上的前輩），雖然嚴苛但絕不強求。常常说出文艺且让众人不明所以的话。
 
 <!-- end list -->
 
   -
     生日：不明。身高：165cm。體重：52kg。血型：B型。
-    在遊戲分歧時，朋也所遇到的一個聲音和相貌都很似女生的男生，但比朋也大一歲，是個孤兒，作為旅行者碰巧到鎮上找工作，卻意外地被藤林杏騎車撞到兼逃逸，後來由藤林椋照顧他，使他對椋深有好感。因為長相可愛時常被誤會成女生，也使春原陽平對他有好感，春原陽平在得知勝平的真實性別後，竟然還是對他抱有愛意。曾經是短跑選手，但在高校田徑決賽中，快抵達終點時跌倒，後來送醫急救，之後診斷出其[腓骨長有](https://zh.wikipedia.org/wiki/腓骨 "wikilink")[骨肉瘤](https://zh.wikipedia.org/wiki/骨肉瘤 "wikilink")，但以不想失去腿為由拒絕手術，而去服用[可待因止痛](../Page/可待因.md "wikilink")。最后被椋和朋也打动并說服，接受利用[液氮所進行的](../Page/液氮.md "wikilink")[外科手術](../Page/外科手術.md "wikilink")，不但與椋訂下婚約，並在兩年後結婚（因为这条路线能够回收椋的光玉，被部分玩家认为是椋的True
-    End）。該角色只在遊戲版本登場，而在電視動畫和電影動畫中並未登場。
+    在遊戲分歧時，朋也所遇到的一個聲音和相貌都很似女生的男生，但比朋也大一歲，是個孤兒，作為旅行者碰巧到鎮上找工作，卻意外地被藤林杏騎車撞到兼逃逸，後來由藤林椋照顧他，使他對椋深有好感。因為長相可愛時常被誤會成女生，也使春原陽平對他有好感，春原陽平在得知勝平的真實性別後，竟然還是對他抱有愛意。曾經是短跑選手，但在高校田徑決賽中，快抵達終點時跌倒，後來送醫急救，之後診斷出其[腓骨長有](https://zh.wikipedia.org/wiki/腓骨 "wikilink")[骨肉瘤](https://zh.wikipedia.org/wiki/骨肉瘤 "wikilink")，但以不想失去腿為由拒絕手術，而去服用[可待因](../Page/可待因.md "wikilink")止痛。最后被椋和朋也打动并說服，接受利用[液氮](../Page/液氮.md "wikilink")所進行的[外科手術](../Page/外科手術.md "wikilink")，不但與椋訂下婚約，並在兩年後結婚（因为这条路线能够回收椋的光玉，被部分玩家认为是椋的True End）。該角色只在遊戲版本登場，而在電視動畫和電影動畫中並未登場。
 
 <!-- end list -->
 
@@ -195,14 +176,13 @@ story為主角在學校畢業之後，以及家庭生活，其中還關聯著「
 <!-- end list -->
 
   -
-    光坂高等學校二年級學生，希望建立合唱部。以拉[小提琴得獎](../Page/小提琴.md "wikilink")，獲得出國留學的機會，但將去留學前遭遇事故，失去握力而無法再拉小提琴。在一之瀨琴美的相關劇情中教授她演奏小提琴，並把社團活動時存放的舊琴贈送給她。與渚爭奪幸村老師作為自己社團的指導老師，最後成為朋友。
+    光坂高等學校二年級學生，希望建立合唱部。以拉[小提琴](../Page/小提琴.md "wikilink")得獎，獲得出國留學的機會，但將去留學前遭遇事故，失去握力而無法再拉小提琴。在一之瀨琴美的相關劇情中教授她演奏小提琴，並把社團活動時存放的舊琴贈送給她。與渚爭奪幸村老師作為自己社團的指導老師，最後成為朋友。
 
 <!-- end list -->
 
   -
     生日：5月1日。星座：金牛。身高：170cm。體重：60kg。血型：A型。
-    朋也的父親。妻子車禍死亡後，性情大變。無心工作，嗜酒，賭博。由於跟朋也某次爭吵的原因，使父子的關係變得很差。此後更以朋也君這個敬稱來稱呼兒子\[15\]，父子關係完全破裂。動畫After
-    Story中朋也帶著女兒汐去旅行，而後來朋也被引導遇到了自己的祖母，聽到了祖母對他父親的評價之後良心發現，努力彌補。
+    朋也的父親。妻子車禍死亡後，性情大變。無心工作，嗜酒，賭博。由於跟朋也某次爭吵的原因，使父子的關係變得很差。此後更以朋也君這個敬稱來稱呼兒子\[15\]，父子關係完全破裂。動畫After Story中朋也帶著女兒汐去旅行，而後來朋也被引導遇到了自己的祖母，聽到了祖母對他父親的評價之後良心發現，努力彌補。
 
 <!-- end list -->
 
@@ -246,8 +226,7 @@ story為主角在學校畢業之後，以及家庭生活，其中還關聯著「
 
 ## 原聲帶
 
-以下是[CLANNAD原聲帶](https://zh.wikipedia.org/wiki/CLANNAD_ORIGINAL_SOUNDTRACK "wikilink")\[17\]：
--{
+以下是[CLANNAD原聲帶](https://zh.wikipedia.org/wiki/CLANNAD_ORIGINAL_SOUNDTRACK "wikilink")\[17\]： -{
 
 <table>
 <tbody>
@@ -327,12 +306,11 @@ story為主角在學校畢業之後，以及家庭生活，其中還關聯著「
 
 ### 簡介
 
-[東映動畫於](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")2006年3月23日的[東京國際動畫博覽會宣佈將製作CLANNAD電影](../Page/東京國際動畫博覽會.md "wikilink")\[22\]。2007年9月15日由東映動畫所製作的電影版動畫於日本公開上映。2006年4月1日Key的官方網頁上公開這個消息，但之後卻幾乎沒有相關的訊息發表。由東映正式發表時則是大約一年後，在那之後開始積極的進行廣告、宣傳活動。導演是由電影版『AIR』的出崎統擔任。DVD於2008年3月7日發售\[23\]。
+[東映動畫於](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")2006年3月23日的[東京國際動畫博覽會](../Page/東京國際動畫博覽會.md "wikilink")宣佈將製作CLANNAD電影\[22\]。2007年9月15日由東映動畫所製作的電影版動畫於日本公開上映。2006年4月1日Key的官方網頁上公開這個消息，但之後卻幾乎沒有相關的訊息發表。由東映正式發表時則是大約一年後，在那之後開始積極的進行廣告、宣傳活動。導演是由電影版『AIR』的出崎統擔任。DVD於2008年3月7日發售\[23\]。
 
 ### 製作人員\[24\]
 
-  - 原作：[Key](https://zh.wikipedia.org/wiki/Key_\(公司\) "wikilink")／[Visual
-    Art's](../Page/Visual_Art's.md "wikilink")
+  - 原作：[Key](https://zh.wikipedia.org/wiki/Key_\(公司\) "wikilink")／[Visual Art's](../Page/Visual_Art's.md "wikilink")
   - 導演：[出崎統](../Page/出崎統.md "wikilink")
   - 脚本：中村誠
   - 人物設計：門之園惠美
@@ -405,14 +383,12 @@ story為主角在學校畢業之後，以及家庭生活，其中還關聯著「
 
 ### 第一季「CLANNAD」
 
-2007年10月4日開始於日本TBS等電視台播放\[27\]，與『[AIR](../Page/AIR_\(遊戲\).md "wikilink")』及『[Kanon](../Page/Kanon.md "wikilink")（第2作）』同樣，由[京都動畫製作](../Page/京都動畫.md "wikilink")。本作共22話加上番外篇1話（學園篇），另外，在2008年7月16日發售的DVD第八卷中放上一話全新製作的智代編\[28\]。
+2007年10月4日開始於日本TBS等電視台播放\[27\]，與『[AIR](../Page/AIR_\(遊戲\).md "wikilink")』及『[Kanon](../Page/Kanon.md "wikilink")（第2作）』同樣，由[京都動畫](../Page/京都動畫.md "wikilink")製作。本作共22話加上番外篇1話（學園篇），另外，在2008年7月16日發售的DVD第八卷中放上一話全新製作的智代編\[28\]。
 
 #### 製作人員
 
-  - 原作：[Key](https://zh.wikipedia.org/wiki/Key_\(公司\) "wikilink") /
-    [Visual Art's](../Page/Visual_Art's.md "wikilink")
-  - 製作人：中山佳久（[TBS](../Page/TBS電視台.md "wikilink")）、中村伸一（[Pony
-    Canyon](https://zh.wikipedia.org/wiki/Pony_Canyon "wikilink")）、太布尚弘（Movic）、八田陽子（[京都動畫](../Page/京都動畫.md "wikilink")）
+  - 原作：[Key](https://zh.wikipedia.org/wiki/Key_\(公司\) "wikilink") / [Visual Art's](../Page/Visual_Art's.md "wikilink")
+  - 製作人：中山佳久（[TBS](../Page/TBS電視台.md "wikilink")）、中村伸一（[Pony Canyon](https://zh.wikipedia.org/wiki/Pony_Canyon "wikilink")）、太布尚弘（Movic）、八田陽子（[京都動畫](../Page/京都動畫.md "wikilink")）
   - 導演：[石原立也](../Page/石原立也.md "wikilink")
   - 系列構成、脚本：[志茂文彥](../Page/志茂文彥.md "wikilink")
   - 人物原案：
@@ -436,8 +412,7 @@ story為主角在學校畢業之後，以及家庭生活，其中還關聯著「
   - 宣傳：田中瑞穗
   - 網頁設計：野口亞希子
   - 動畫製作：[京都動畫](../Page/京都動畫.md "wikilink")
-  - 製作協力：[Pony
-    Canyon](https://zh.wikipedia.org/wiki/Pony_Canyon "wikilink")、Movic、[京都動畫](../Page/京都動畫.md "wikilink")
+  - 製作協力：[Pony Canyon](https://zh.wikipedia.org/wiki/Pony_Canyon "wikilink")、Movic、[京都動畫](../Page/京都動畫.md "wikilink")
   - 製作：[光坂高校演劇部](https://zh.wikipedia.org/wiki/製作委員會方式 "wikilink")、[TBS](../Page/TBS電視台.md "wikilink")
 
 #### 主題曲
@@ -697,8 +672,7 @@ story為主角在學校畢業之後，以及家庭生活，其中還關聯著「
 **CLANNAD OVA 智代篇**
 
   -
-    京都动画于2008年3月在杂志和TBS官方网站上公布了制作《clannad·智代篇》的消息，与TV动画本篇完全不同的新故事《另一个世界
-    智代编》以特典的形式收录到《CLANNAD》DVD第8卷（最终卷）当中。该作品于5月31日进行了400人的小规模提前剧场公映\[30\]，而后[TBS于](../Page/TBS電視台.md "wikilink")6月6日在官网上公布了智代篇配信预告。
+    京都动画于2008年3月在杂志和TBS官方网站上公布了制作《clannad·智代篇》的消息，与TV动画本篇完全不同的新故事《另一个世界 智代编》以特典的形式收录到《CLANNAD》DVD第8卷（最终卷）当中。该作品于5月31日进行了400人的小规模提前剧场公映\[30\]，而后[TBS于](../Page/TBS電視台.md "wikilink")6月6日在官网上公布了智代篇配信预告。
 
 <!-- end list -->
 
@@ -764,10 +738,7 @@ story為主角在學校畢業之後，以及家庭生活，其中還關聯著「
 
 ### 第二季「CLANNAD ～AFTER STORY～」
 
-2008年3月27日上季番外篇播出完畢後，于《[電擊G's
-magazine](../Page/電擊G's_magazine.md "wikilink")》2008年5月号确定第二部即將製作，名稱為「CLANNAD
-～AFTER
-STORY～」。于2008年10月2日起在TBS等电视台开始播放（于上确定），共24话\[33\]\[34\]。另外，在于2009年7月1日發售的DVD第八卷中放入一話全新製作的杏篇\[35\]。工作人员有少许变化，配音演员同第一部。
+2008年3月27日上季番外篇播出完畢後，于《[電擊G's magazine](../Page/電擊G's_magazine.md "wikilink")》2008年5月号确定第二部即將製作，名稱為「CLANNAD ～AFTER STORY～」。于2008年10月2日起在TBS等电视台开始播放（于上确定），共24话\[33\]\[34\]。另外，在于2009年7月1日發售的DVD第八卷中放入一話全新製作的杏篇\[35\]。工作人员有少许变化，配音演员同第一部。
 
 本作排名NHK[日本動畫100評選的](https://zh.wikipedia.org/wiki/日本動畫100 "wikilink")「最佳動畫100」第21名。
 
@@ -778,12 +749,9 @@ STORY～」。于2008年10月2日起在TBS等电视台开始播放（于上确�
 
 #### 主题曲
 
-  - 片頭歌
-    「[-{時を刻む唄}-](https://zh.wikipedia.org/wiki/刻印時間之歌/TORCH "wikilink")」（刻印時間之歌）
-    作詞、作曲：[麻枝准](../Page/麻枝准.md "wikilink")、編曲：ANANT-GARDE
-    EYES、主唱：[Lia](../Page/Lia.md "wikilink")
-  - 片尾歌
-    「[TORCH](https://zh.wikipedia.org/wiki/刻印時間之歌/TORCH "wikilink")」（火炬）
+  - 片頭歌 「[-{時を刻む唄}-](https://zh.wikipedia.org/wiki/刻印時間之歌/TORCH "wikilink")」（刻印時間之歌）
+    作詞、作曲：[麻枝准](../Page/麻枝准.md "wikilink")、編曲：ANANT-GARDE EYES、主唱：[Lia](../Page/Lia.md "wikilink")
+  - 片尾歌 「[TORCH](https://zh.wikipedia.org/wiki/刻印時間之歌/TORCH "wikilink")」（火炬）
     作詞：魁、作曲：折戸伸治、編曲：福士健太郎、主唱：[Lia](../Page/Lia.md "wikilink")
   - 第19话插入歌、特别篇片尾歌 「Ana」（轶事）
     作詞：萩原ゆう、作曲：traditional、編曲：戸越まごめ、主唱：[Lia](../Page/Lia.md "wikilink")
@@ -798,7 +766,7 @@ STORY～」。于2008年10月2日起在TBS等电视台开始播放（于上确�
 
 #### 各集标题
 
-  - 本作所有劇本皆為[志茂文彥所撰寫](../Page/志茂文彥.md "wikilink")。
+  - 本作所有劇本皆為[志茂文彥](../Page/志茂文彥.md "wikilink")所撰寫。
 
 <table>
 <thead>
@@ -1070,9 +1038,7 @@ STORY～」。于2008年10月2日起在TBS等电视台开始播放（于上确�
 </table>
 
   - CLANNAD OVA 杏篇
-    《CLANNAD After
-    Story》TV版完结三个月后，DVD第8卷在2009年7月1日发售，其中除了收录总长96分钟的最後4话剧情之外，还收录了特別篇《另一个世界
-    杏篇》。
+    《CLANNAD After Story》TV版完结三个月后，DVD第8卷在2009年7月1日发售，其中除了收录总长96分钟的最後4话剧情之外，还收录了特別篇《另一个世界 杏篇》。
 
 <!-- end list -->
 
@@ -1154,8 +1120,7 @@ STORY～」。于2008年10月2日起在TBS等电视台开始播放（于上确�
 
 ## 广播剧CD
 
-由[Frontier
-Works制作的CLANNAD剧情广播剧](../Page/Frontier_Works.md "wikilink")，上市于2007年。这一系列故事主轴与游戏本篇学园篇中的相应路线相同。
+由[Frontier Works制作的CLANNAD剧情广播剧](../Page/Frontier_Works.md "wikilink")，上市于2007年。这一系列故事主轴与游戏本篇学园篇中的相应路线相同。
 
   - Vol.1 古河渚 4月25日发售\[44\]
   - Vol.2 一之瀨琴美 5月25日发售\[45\]
@@ -1165,8 +1130,7 @@ Works制作的CLANNAD剧情广播剧](../Page/Frontier_Works.md "wikilink")，�
 
 ## 外傳小说
 
-刊载在CLANNAD Visual Fan Book上的三篇官方外传小说，总标题是**「CLANNAD」Another
-Storys**\[49\]。为这一系列绘制插画的是。
+刊载在CLANNAD Visual Fan Book上的三篇官方外传小说，总标题是**「CLANNAD」Another Storys**\[49\]。为这一系列绘制插画的是。
 
   - 藤林杏篇 ****（她的境界线），作者：魁
   - 一之濑琴美篇 ****（尾巴世界的琴美），作者：涼元悠一
@@ -1174,14 +1138,11 @@ Storys**\[49\]。为这一系列绘制插画的是。
 
 ### 在被光守护的坡道上
 
-《**Official Another Story CLANNAD
-**》是自2004年9月号至2005年10月号刊载在[MediaWorks出版的](../Page/MediaWorks.md "wikilink")《[電擊G's
-magazine](../Page/電擊G's_magazine.md "wikilink")》杂志上的官方外传小说集。期间共刊载了14篇小说，在汇集成册出版时又额外增加了2篇。为这一系列绘制插画的是\[50\]。
+《**Official Another Story CLANNAD **》是自2004年9月号至2005年10月号刊载在[MediaWorks](../Page/MediaWorks.md "wikilink")出版的《[電擊G's magazine](../Page/電擊G's_magazine.md "wikilink")》杂志上的官方外传小说集。期间共刊载了14篇小说，在汇集成册出版时又额外增加了2篇。为这一系列绘制插画的是\[50\]。
 
 2007年，这一系列被 PROTOTYPE 制作成了同名广播剧CD，采用与游戏本篇相同的人员进行配音。
 
-此后，PROTOTYPE
-利用此系列的CD音轨及小说插画，于PSP平台上发布了《在被光守护的坡道上》的音画小说版本。该音画小说的上、下卷分别于2010年6月3日和7月15日发售\[51\]。
+此后，PROTOTYPE 利用此系列的CD音轨及小说插画，于PSP平台上发布了《在被光守护的坡道上》的音画小说版本。该音画小说的上、下卷分别于2010年6月3日和7月15日发售\[51\]。
 
 <table>
 <thead>
@@ -1364,9 +1325,7 @@ magazine](../Page/電擊G's_magazine.md "wikilink")》杂志上的官方外传�
 
 ### CLANNAD -  - 官方漫画
 
-美崎树里作画。在Jive株式会社的月刊COMIC
-RUSH上刊登，2005年3月出预览版，2005年4月开始连载至2009年4月结束。共出单行本8卷。
-与原作差别不大，但连载速度快于动画版。
+美崎树里作画。在Jive株式会社的月刊COMIC RUSH上刊登，2005年3月出预览版，2005年4月开始连载至2009年4月结束。共出单行本8卷。 与原作差别不大，但连载速度快于动画版。
 
 1.  2005年11月7日发行 ISBN 978-4-86176-249-9\[54\]
 2.  2006年6月7日发行 ISBN 978-4-86176-308-8\[55\]
@@ -1379,9 +1338,7 @@ RUSH上刊登，2005年3月出预览版，2005年4月开始连载至2009年4月�
 
 ### CLANNAD（电击G's magazine版）
 
-SHAA作画。在电击G's
-magazine上刊登。从2007年6月30日开始，至2009年7月號结束。之後於2009年10月26日至2014年4月28日改到電擊G's
-Festival\! Comic雜誌上刊載。\[62\]\[63\]\[64\]
+SHAA作画。在电击G's magazine上刊登。从2007年6月30日开始，至2009年7月號结束。之後於2009年10月26日至2014年4月28日改到電擊G's Festival\! Comic雜誌上刊載。\[62\]\[63\]\[64\]
 
 1.  2008年2月发行 ISBN 978-4-8402-4216-5\[65\]
 2.  2009年3月27日发行 ISBN 978-4-04-867712-7\[66\]
@@ -1403,27 +1360,17 @@ Festival\! Comic雜誌上刊載。\[62\]\[63\]\[64\]
 
 ## 影響
 
-根據有限公司Peaks曾發行的[PC
-NEWS所公佈的日本全國](https://zh.wikipedia.org/wiki/PC_NEWS "wikilink")[美少女遊戲銷售量排行榜](../Page/美少女遊戲.md "wikilink")，《CLANNAD》在2004年4月28日推出之後，於遊戲銷售量排行榜上保持第1名\[72\]，之後在2次比賽各排名第1名以及第46名\[73\]；《CLANNAD
-普通版》在2004年8月6日推出之後，於遊戲銷售量排行榜上保持第26名\[74\]，之後在2次比賽各排名第37名以及第41名\[75\]。《CLANNAD
-通常版》於2004年銷售100560套。\[76\]《CLANNAD
-全语音版》於2008年2月的日本全国电脑游戏销售榜上排名第7名\[77\]，2008年3月排名第20名\[78\]。在2007年10月，《[電擊G's
-magazine](../Page/電擊G's_magazine.md "wikilink")》舉辦了日本前五十名最佳美少女遊戲排名的票選活動，《CLANNAD》在入圍的249款遊戲中獲得114票而成為第1名。\[79\]到了2008年9月時《電擊G's
-magazine》另外舉辦了「什麼遊戲讓你哭了」的投票票選活動，其中《CLANNAD》成為前10名的行列而排名第2名，而其他同樣由[Key公司所推出的](https://zh.wikipedia.org/wiki/Key_\(公司\) "wikilink")《AIR》則排名第7名、《Kanon》排名第五名以及《[Little
-Busters\!](../Page/Little_Busters!.md "wikilink")》排名第十名。\[80\]《CLANNAD》PS3平台版本於2011年4月18日至24日賣出7466套遊戲。\[81\]《CLANNAD》Steam版于2015年11月23日推出之后，至26日在Steam的销量排行榜上排名第3名。\[82\]。
+根據有限公司Peaks曾發行的[PC NEWS所公佈的日本全國](https://zh.wikipedia.org/wiki/PC_NEWS "wikilink")[美少女遊戲](../Page/美少女遊戲.md "wikilink")銷售量排行榜，《CLANNAD》在2004年4月28日推出之後，於遊戲銷售量排行榜上保持第1名\[72\]，之後在2次比賽各排名第1名以及第46名\[73\]；《CLANNAD 普通版》在2004年8月6日推出之後，於遊戲銷售量排行榜上保持第26名\[74\]，之後在2次比賽各排名第37名以及第41名\[75\]。《CLANNAD 通常版》於2004年銷售100560套。\[76\]《CLANNAD 全语音版》於2008年2月的日本全国电脑游戏销售榜上排名第7名\[77\]，2008年3月排名第20名\[78\]。在2007年10月，《[電擊G's magazine](../Page/電擊G's_magazine.md "wikilink")》舉辦了日本前五十名最佳美少女遊戲排名的票選活動，《CLANNAD》在入圍的249款遊戲中獲得114票而成為第1名。\[79\]到了2008年9月時《電擊G's magazine》另外舉辦了「什麼遊戲讓你哭了」的投票票選活動，其中《CLANNAD》成為前10名的行列而排名第2名，而其他同樣由[Key公司所推出的](https://zh.wikipedia.org/wiki/Key_\(公司\) "wikilink")《AIR》則排名第7名、《Kanon》排名第五名以及《[Little Busters\!](../Page/Little_Busters!.md "wikilink")》排名第十名。\[80\]《CLANNAD》PS3平台版本於2011年4月18日至24日賣出7466套遊戲。\[81\]《CLANNAD》Steam版于2015年11月23日推出之后，至26日在Steam的销量排行榜上排名第3名。\[82\]。
 
 另外，雖然是美少女遊戲，但女性玩家佔約10%，在業界是個非常高的比率\[83\]。
 
 ### 海外英文翻譯版企畫
 
-海外遊戲翻譯組織「Sekai
-Project」於集資網站[Kickstarter公布其對本作進行英文翻譯的企畫](../Page/Kickstarter.md "wikilink")，並計畫集資十四萬美元（約109萬2千港元，1611萬日圓）分別作支付集資網站的服務費，翻譯，製作費，以及實體商品製作及運送費用。依據集資金額不同可以獲得不同數量程度的遊戲本體和周邊產品。此次集資在澳洲西部時間（[UTC+8](https://zh.wikipedia.org/wiki/UTC+8 "wikilink")）2015年1月10日結束，結束時集資所得已經超過目標，約為五十四萬一千一百美元（約419萬4千港元，6415萬日圓），約為目標金額的三點八倍，共有5819名集資者參與。本作品牌[Key的所有者](https://zh.wikipedia.org/wiki/Key社 "wikilink")[Visual
-Art's董事總經理](../Page/Visual_Art's.md "wikilink")[馬場隆博亦為本次企劃撰寫感言](https://zh.wikipedia.org/wiki/馬場隆博 "wikilink")。根據集資網頁所說，2015年10月將給予集資者的遊戲本體及周邊產品進行配送。\[84\]
+海外遊戲翻譯組織「Sekai Project」於集資網站[Kickstarter](../Page/Kickstarter.md "wikilink")公布其對本作進行英文翻譯的企畫，並計畫集資十四萬美元（約109萬2千港元，1611萬日圓）分別作支付集資網站的服務費，翻譯，製作費，以及實體商品製作及運送費用。依據集資金額不同可以獲得不同數量程度的遊戲本體和周邊產品。此次集資在澳洲西部時間（[UTC+8](https://zh.wikipedia.org/wiki/UTC+8 "wikilink")）2015年1月10日結束，結束時集資所得已經超過目標，約為五十四萬一千一百美元（約419萬4千港元，6415萬日圓），約為目標金額的三點八倍，共有5819名集資者參與。本作品牌[Key的所有者](https://zh.wikipedia.org/wiki/Key社 "wikilink")[Visual Art's董事總經理](../Page/Visual_Art's.md "wikilink")[馬場隆博亦為本次企劃撰寫感言](https://zh.wikipedia.org/wiki/馬場隆博 "wikilink")。根據集資網頁所說，2015年10月將給予集資者的遊戲本體及周邊產品進行配送。\[84\]
 
 ### 中國大陸
 
-動畫《**CLANNAD ～AFTER
-STORY～**》在中國ACG圈被譽為“人生”、“神作”，是许多ACG爱好者童年时代的记忆与纪念品。也於2017年5月30日被中國知名ACG弹幕視頻網站bilibili推薦。\[85\]
+動畫《**CLANNAD ～AFTER STORY～**》在中國ACG圈被譽為“人生”、“神作”，是许多ACG爱好者童年时代的记忆与纪念品。也於2017年5月30日被中國知名ACG弹幕視頻網站bilibili推薦。\[85\]
 
 ## 註釋
 
@@ -1439,33 +1386,9 @@ STORY～**》在中國ACG圈被譽為“人生”、“神作”，是许多ACG�
   - [CLANNAD 動畫官方網頁](http://www.tbs.co.jp/clannad/clannad1/index-j.html)
   - [CLANNAD ～AFTER STORY～ 動畫官方網頁](http://www.tbs.co.jp/clannad/)
   - [Key公司官方網頁](http://key.visualarts.gr.jp/)
-  - [Clannad
-    (TV)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7809)
+  - [Clannad (TV)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7809)
 
-[Category:CLANNAD](https://zh.wikipedia.org/wiki/Category:CLANNAD "wikilink")
-[Category:Key游戏](https://zh.wikipedia.org/wiki/Category:Key游戏 "wikilink")
-[Category:2004年电子游戏](https://zh.wikipedia.org/wiki/Category:2004年电子游戏 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink")
-[Category:PlayStation_Vita遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita遊戲 "wikilink")
-[Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink")
-[Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink")
-[Category:PlayStation_4遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_4遊戲 "wikilink")
-[Category:Xbox_360遊戲](https://zh.wikipedia.org/wiki/Category:Xbox_360遊戲 "wikilink")
-[Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink")
-[Category:Steam商店遊戲](https://zh.wikipedia.org/wiki/Category:Steam商店遊戲 "wikilink")
-[Category:任天堂Switch遊戲](https://zh.wikipedia.org/wiki/Category:任天堂Switch遊戲 "wikilink")
-[Category:2007年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2007年日本劇場動畫 "wikilink")
-[Category:2007年TBS電視網動畫](https://zh.wikipedia.org/wiki/Category:2007年TBS電視網動畫 "wikilink")
-[Category:戀愛遊戲改編電視動畫](https://zh.wikipedia.org/wiki/Category:戀愛遊戲改編電視動畫 "wikilink")
-[Category:京都動畫](https://zh.wikipedia.org/wiki/Category:京都動畫 "wikilink")
-[Category:東映動畫](https://zh.wikipedia.org/wiki/Category:東映動畫 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:廣播劇CD](https://zh.wikipedia.org/wiki/Category:廣播劇CD "wikilink")
-[Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
+[Category:CLANNAD](https://zh.wikipedia.org/wiki/Category:CLANNAD "wikilink") [Category:Key游戏](https://zh.wikipedia.org/wiki/Category:Key游戏 "wikilink") [Category:2004年电子游戏](https://zh.wikipedia.org/wiki/Category:2004年电子游戏 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink") [Category:PlayStation_Vita遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita遊戲 "wikilink") [Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink") [Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink") [Category:PlayStation_4遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_4遊戲 "wikilink") [Category:Xbox_360遊戲](https://zh.wikipedia.org/wiki/Category:Xbox_360遊戲 "wikilink") [Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink") [Category:Steam商店遊戲](https://zh.wikipedia.org/wiki/Category:Steam商店遊戲 "wikilink") [Category:任天堂Switch遊戲](https://zh.wikipedia.org/wiki/Category:任天堂Switch遊戲 "wikilink") [Category:2007年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2007年日本劇場動畫 "wikilink") [Category:2007年TBS電視網動畫](https://zh.wikipedia.org/wiki/Category:2007年TBS電視網動畫 "wikilink") [Category:戀愛遊戲改編電視動畫](https://zh.wikipedia.org/wiki/Category:戀愛遊戲改編電視動畫 "wikilink") [Category:京都動畫](https://zh.wikipedia.org/wiki/Category:京都動畫 "wikilink") [Category:東映動畫](https://zh.wikipedia.org/wiki/Category:東映動畫 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:廣播劇CD](https://zh.wikipedia.org/wiki/Category:廣播劇CD "wikilink") [Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
 
 1.
 

@@ -1,6 +1,4 @@
-**GUNDAMonline**（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：<span lang="ja">ガンダムネットワークオペレーション</span>，Gundam
-Network
-Operation），是[日本公司](../Page/日本.md "wikilink")[萬代公司發售的以](../Page/萬代.md "wikilink")[機動戰士GUNDAM的](../Page/機動戰士GUNDAM.md "wikilink")[一年战争為遊戲舞台的線上](../Page/一年战争.md "wikilink")[戰略遊戲](https://zh.wikipedia.org/wiki/戰略遊戲 "wikilink")，略稱為**GNO**。於2002年4月開始營運。
+**GUNDAMonline**（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：<span lang="ja">ガンダムネットワークオペレーション</span>，Gundam Network Operation），是[日本](../Page/日本.md "wikilink")公司[萬代](../Page/萬代.md "wikilink")公司發售的以[機動戰士GUNDAM](../Page/機動戰士GUNDAM.md "wikilink")的[一年战争](../Page/一年战争.md "wikilink")為遊戲舞台的線上[戰略遊戲](https://zh.wikipedia.org/wiki/戰略遊戲 "wikilink")，略稱為**GNO**。於2002年4月開始營運。
 
 ## 概要
 
@@ -12,14 +10,13 @@ Operation），是[日本公司](../Page/日本.md "wikilink")[萬代公司發�
 
 雖然說是以一年戰爭為基礎，但是GNO裡面出現的機體，並不限定於此作品中，可以說是UC鋼彈系列機體的集合。
 
-不幸的是此遊戲在[台灣因為代理商](https://zh.wikipedia.org/wiki/台灣 "wikilink") 數碼戲胞 的倒閉
-於2006年四月中旬宣告關閉
+不幸的是此遊戲在[台灣因為代理商](https://zh.wikipedia.org/wiki/台灣 "wikilink") 數碼戲胞 的倒閉 於2006年四月中旬宣告關閉
 
 ## 中文版
 
 ### 繁體中文版
 
-2004年初，在台灣以[彈水阿給](https://zh.wikipedia.org/wiki/彈水阿給 "wikilink")、[神之領域等遊戲知名的網路遊戲公司](../Page/神之領域.md "wikilink")[數碼戲胞](../Page/數碼戲胞.md "wikilink")，透過台灣萬代順利取得GNO之台灣代理權。
+2004年初，在台灣以[彈水阿給](https://zh.wikipedia.org/wiki/彈水阿給 "wikilink")、[神之領域](../Page/神之領域.md "wikilink")等遊戲知名的網路遊戲公司[數碼戲胞](../Page/數碼戲胞.md "wikilink")，透過台灣萬代順利取得GNO之台灣代理權。
 
 [2004年6月](../Page/2004年6月.md "wikilink")，數碼戲胞開始進行GNO的中文化改版作業，同時遊戲中所有中文翻譯均由萬代進行審核校對。
 
@@ -27,13 +24,13 @@ Operation），是[日本公司](../Page/日本.md "wikilink")[萬代公司發�
 
 [2005年1月](../Page/2005年1月.md "wikilink")，GNO開始進行公測，由於台灣萬代、GNO開發會社VANGUARD與數碼戲胞之間溝通協調不同步，導致數碼戲胞對於VANGUARD與台灣萬代已經完成對公測之繁體中文版GNO鎖機（將日版GNO已開放之MS機體關閉，暫時不予開放）一事毫不知情，因此數碼戲胞被迫於公測當天緊急宣布鎖機一事，造成玩家反彈，事後由台灣萬代發表對外聲明解釋鎖機一事，而仍有部分玩家仍認為鎖機是由數碼戲胞主導。
 
-[2005年2月繁體中文版GNO開始正式對外收費營運](../Page/2005年2月.md "wikilink")，引起華文鋼彈愛好者之重視，雖然公測期間會員人數最多曾高達2萬人，伺服器總數高達14台，但由於本身遊戲特性與台灣網路遊戲玩家喜新厭舊的觀念，繁體中文版GNO在正式收費半年後，人數持續減少至6000人上下。
+[2005年2月](../Page/2005年2月.md "wikilink")繁體中文版GNO開始正式對外收費營運，引起華文鋼彈愛好者之重視，雖然公測期間會員人數最多曾高達2萬人，伺服器總數高達14台，但由於本身遊戲特性與台灣網路遊戲玩家喜新厭舊的觀念，繁體中文版GNO在正式收費半年後，人數持續減少至6000人上下。
 
-[2005年5月數碼戲胞以招募新手為理由](../Page/2005年5月.md "wikilink")，發售限定只有新會員才能使用的69元新手包裝（免費可玩一個月），並搭配老手帶新手活動，但由於遊戲風格與設定之故，並未見其成效。且由於台灣網路遊戲玩家濫用身分證號碼製造程式，加上69元新手包裝可免費玩一個月，導致在所羅門伺服器發生著名的大戶事件，該事件為有玩家刻意搜購市面上的69元包裝，同時控制接近100個遊戲帳號，企圖影響所羅門伺服器的戰況。面對所羅門伺服器玩家對此事的連署反應，數碼與台灣萬代一直未進行正面回應，因而導致部分玩家退出遊戲。
+[2005年5月](../Page/2005年5月.md "wikilink")數碼戲胞以招募新手為理由，發售限定只有新會員才能使用的69元新手包裝（免費可玩一個月），並搭配老手帶新手活動，但由於遊戲風格與設定之故，並未見其成效。且由於台灣網路遊戲玩家濫用身分證號碼製造程式，加上69元新手包裝可免費玩一個月，導致在所羅門伺服器發生著名的大戶事件，該事件為有玩家刻意搜購市面上的69元包裝，同時控制接近100個遊戲帳號，企圖影響所羅門伺服器的戰況。面對所羅門伺服器玩家對此事的連署反應，數碼與台灣萬代一直未進行正面回應，因而導致部分玩家退出遊戲。
 
-[2005年9月由於玩家人數已經銳減至](../Page/2005年9月.md "wikilink")5000人，每台伺服器人數平均僅有600人，數碼戲胞正式發表伺服器合併計畫，從9月開始進行伺服器合併，至2005年12月為止，繁體中文版GNO將伺服器數從14台合併至8台，但玩家人數仍持續呈小幅度的減少。
+[2005年9月](../Page/2005年9月.md "wikilink")由於玩家人數已經銳減至5000人，每台伺服器人數平均僅有600人，數碼戲胞正式發表伺服器合併計畫，從9月開始進行伺服器合併，至2005年12月為止，繁體中文版GNO將伺服器數從14台合併至8台，但玩家人數仍持續呈小幅度的減少。
 
-[2005年12月繁體中文版GNO在台灣上線一週年](../Page/2005年12月.md "wikilink")，收費會員人數約5000人、伺服器總數8台。
+[2005年12月](../Page/2005年12月.md "wikilink")繁體中文版GNO在台灣上線一週年，收費會員人數約5000人、伺服器總數8台。
 
 2006年初，萬代與GNO開發會社VANGUARD、代理商數碼戲胞，正式宣佈對繁體中文版GNO，進行獨有的機體開放計畫。以GNO2中登場的機體為主，進行模組與數值的修改，並調整原有的繁體中文版GNO機體開放時程，陸續進行機體的更新。這份機體開放計畫，最早是在2004年底由數碼戲胞的GNO中文化小組所提出，爾後經萬代與VANGUARD經過長達一年對繁體中文版GNO的觀察後，由VANGUARD親自主導、親手修正提案內容的遊戲改版計劃。
 
@@ -41,8 +38,7 @@ Operation），是[日本公司](../Page/日本.md "wikilink")[萬代公司發�
 
 **繁體中文版GNO預定在2006年新增的專屬機體：**
 
-[吉翁](../Page/吉翁公國.md "wikilink")—行動薩克、[德瓦基](https://zh.wikipedia.org/wiki/德瓦基 "wikilink")
-改、飛行型[古夫](https://zh.wikipedia.org/wiki/MS-07 "wikilink")、[德姆原型機](https://zh.wikipedia.org/wiki/MS-09 "wikilink")、吉鋼（[MS-12](https://zh.wikipedia.org/wiki/MS-12 "wikilink")）
+[吉翁](../Page/吉翁公國.md "wikilink")—行動薩克、[德瓦基](https://zh.wikipedia.org/wiki/德瓦基 "wikilink") 改、飛行型[古夫](https://zh.wikipedia.org/wiki/MS-07 "wikilink")、[德姆原型機](https://zh.wikipedia.org/wiki/MS-09 "wikilink")、吉鋼（[MS-12](https://zh.wikipedia.org/wiki/MS-12 "wikilink")）
 
 [聯邦](../Page/地球聯邦.md "wikilink")--[鋼彈](https://zh.wikipedia.org/wiki/RX-78系列機動戰士 "wikilink")4號機、鋼彈5號機、鋼彈6號機、裝甲強化型[吉姆](https://zh.wikipedia.org/wiki/RGM-79 "wikilink")、[鋼坦克II](https://zh.wikipedia.org/wiki/鋼坦克 "wikilink")、[鋼加農II](https://zh.wikipedia.org/wiki/鋼加農 "wikilink")、先行量產型[鋼球](https://zh.wikipedia.org/wiki/鋼球 "wikilink")
 
@@ -72,7 +68,7 @@ Operation），是[日本公司](../Page/日本.md "wikilink")[萬代公司發�
 
 ### 简体中文版
 
-2006年4月24日，由[中视网元所代理的大陆简体中文版GNO开始内部压力测试](../Page/中视网元.md "wikilink")。简体中文版名称为《机动战士敢达在线》。
+2006年4月24日，由[中视网元](../Page/中视网元.md "wikilink")所代理的大陆简体中文版GNO开始内部压力测试。简体中文版名称为《机动战士敢达在线》。
 
 2006年5月25日，北京时间14：00，《敢达在线》内部测试停止，并删除所有内测数据。
 
@@ -92,8 +88,7 @@ Operation），是[日本公司](../Page/日本.md "wikilink")[萬代公司發�
 
 ## GNO2
 
-\-{GUNDAM}- NETWORK OPERATION
-2（GNO2）在2004年9月起於正式營運服務。基礎的遊戲系統與GNO雷同，主要強化的特點有：
+\-{GUNDAM}- NETWORK OPERATION 2（GNO2）在2004年9月起於正式營運服務。基礎的遊戲系統與GNO雷同，主要強化的特點有：
 
   - 畫面採用3D即時運算，硬體速度不快的電腦也可選擇保留2D模式畫面。
   - 玩家所扮演的部隊長也是上場作戰的MS駕駛員之一。
@@ -111,5 +106,4 @@ Operation），是[日本公司](../Page/日本.md "wikilink")[萬代公司發�
   - [GNO2](http://www.gno2.ne.jp/)
   - [简体中文版官网](https://web.archive.org/web/20060502050153/http://gno.ccnec.com/index.shtml)
 
-[Category:多人在線遊戲](https://zh.wikipedia.org/wiki/Category:多人在線遊戲 "wikilink")
-[Category:宇宙世紀](https://zh.wikipedia.org/wiki/Category:宇宙世紀 "wikilink")
+[Category:多人在線遊戲](https://zh.wikipedia.org/wiki/Category:多人在線遊戲 "wikilink") [Category:宇宙世紀](https://zh.wikipedia.org/wiki/Category:宇宙世紀 "wikilink")

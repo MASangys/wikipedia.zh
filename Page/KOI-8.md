@@ -1,16 +1,10 @@
-**KOI-8**（<span lang="ru">КОИ-8</span>）是一系列[斯拉夫文字的](../Page/斯拉夫语族.md "wikilink")8位元编码，在[俄罗斯](../Page/俄罗斯.md "wikilink")、[乌克兰等斯拉夫语族地区的网络社群中被广泛采用](../Page/乌克兰.md "wikilink")，使用率比起[ISO/IEC
-8859-5更高](https://zh.wikipedia.org/wiki/ISO/IEC_8859-5 "wikilink")。
+**KOI-8**（<span lang="ru">КОИ-8</span>）是一系列[斯拉夫文字的](../Page/斯拉夫语族.md "wikilink")8位元编码，在[俄罗斯](../Page/俄罗斯.md "wikilink")、[乌克兰](../Page/乌克兰.md "wikilink")等斯拉夫语族地区的网络社群中被广泛采用，使用率比起[ISO/IEC 8859-5更高](https://zh.wikipedia.org/wiki/ISO/IEC_8859-5 "wikilink")。
 
 ## 简介
 
-“KOI-8”俄语原名 <span lang="ru">**Код Обмена Информацией, 8 бит**</span>，音译
-*"Kod Obmena Informatsiey 8 bit"*，意译*“信息交换码，8位元”*。
+“KOI-8”俄语原名 <span lang="ru">**Код Обмена Информацией, 8 бит**</span>，音译 *"Kod Obmena Informatsiey 8 bit"*，意译*“信息交换码，8位元”*。
 
-KOI-8
-不是以[西里尔字母的次序排列](../Page/西里尔字母.md "wikilink")，而是以“伪拉丁字母次序”（即把西里尔字母改用拉丁字母[转写出来](../Page/转写.md "wikilink")）排列。这能使以
-KOI-8 编码的文字，纵使在网络传输时丢掉了最高（第8）位元，仍能够变成可以解读的拉丁字母。例如 "Русский Текст"
-在丢掉了最高位元后，变成 "rUSSKIJ tEKST"（即 "Russian
-Text"，KOI-8把它大小写颠倒以兹识别）。
+KOI-8 不是以[西里尔字母](../Page/西里尔字母.md "wikilink")的次序排列，而是以“伪拉丁字母次序”（即把西里尔字母改用拉丁字母[转写](../Page/转写.md "wikilink")出来）排列。这能使以 KOI-8 编码的文字，纵使在网络传输时丢掉了最高（第8）位元，仍能够变成可以解读的拉丁字母。例如 "Русский Текст" 在丢掉了最高位元后，变成 "rUSSKIJ tEKST"（即 "Russian Text"，KOI-8把它大小写颠倒以兹识别）。
 
 KOI-8 有以下几个版本：
 
@@ -20,9 +14,7 @@ KOI-8 有以下几个版本：
   - KOI8-C（[高加索语系](https://zh.wikipedia.org/wiki/高加索语系 "wikilink")）
   - KOI8-T（[塔吉克语](../Page/塔吉克语.md "wikilink")）
 
-每个 KOI-8 版本之中，头半部分 (0x00-0x7F)
-与[ASCII相同](../Page/ASCII.md "wikilink")，西里尔字母主要放在 0xC0-0xFF
-之中，标点及框线符号主要放在 0x80-0xBF 之中。
+每个 KOI-8 版本之中，头半部分 (0x00-0x7F) 与[ASCII](../Page/ASCII.md "wikilink")相同，西里尔字母主要放在 0xC0-0xFF 之中，标点及框线符号主要放在 0x80-0xBF 之中。
 
 ## KOI8-R 编码
 
@@ -1435,15 +1427,10 @@ A0</p></td>
 
   - RFC 1489 *KOI8-R*
   - RFC 2319 *KOI8-U*
-  - [KOI8-U Working
-    Group](https://web.archive.org/web/20050206230944/http://www.net.ua/KOI8-U/)
-  - [KOI8-U - Ukrainian Character
-    Set](http://cad.ntu-kpi.kiev.ua/multiling/koi8-u/index.html)
-  - [KOI8-RU - Ukrainian Net Character
-    Set](http://cad.ntu-kpi.kiev.ua/multiling/koi8-ru/index.html)
+  - [KOI8-U Working Group](https://web.archive.org/web/20050206230944/http://www.net.ua/KOI8-U/)
+  - [KOI8-U - Ukrainian Character Set](http://cad.ntu-kpi.kiev.ua/multiling/koi8-u/index.html)
+  - [KOI8-RU - Ukrainian Net Character Set](http://cad.ntu-kpi.kiev.ua/multiling/koi8-ru/index.html)
   - [The Home of KOI8-R](http://koi8.pp.ru/main.html)
-  - [The Cyrillic Character
-    Soup](http://czyborra.com/charsets/cyrillic.html)
+  - [The Cyrillic Character Soup](http://czyborra.com/charsets/cyrillic.html)
 
-[Category:字符集](https://zh.wikipedia.org/wiki/Category:字符集 "wikilink")
-[Category:西里尔字母](https://zh.wikipedia.org/wiki/Category:西里尔字母 "wikilink")
+[Category:字符集](https://zh.wikipedia.org/wiki/Category:字符集 "wikilink") [Category:西里尔字母](https://zh.wikipedia.org/wiki/Category:西里尔字母 "wikilink")

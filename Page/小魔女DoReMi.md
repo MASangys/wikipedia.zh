@@ -1,21 +1,18 @@
-《**小魔女DoReMi**》（，[日語羅馬字](https://zh.wikipedia.org/wiki/日語羅馬字 "wikilink")：****，官方[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：****）是一[魔法少女](../Page/魔法少女.md "wikilink")[動畫的系列](https://zh.wikipedia.org/wiki/動畫 "wikilink")，由[東映動畫製作](../Page/东映动画.md "wikilink")。四部小魔女DoReMi[動畫在](https://zh.wikipedia.org/wiki/動畫 "wikilink")[日本的播映時間](../Page/日本.md "wikilink")，由1999年2月開始，直至2003年1月結束。\[1\]\[2\]\[3\]\[4\]台灣地區大約在2000年左右由[台灣電視台播映](https://zh.wikipedia.org/wiki/台灣電視台 "wikilink")。是繼《[美少女戰士](https://zh.wikipedia.org/wiki/美少女戰士 "wikilink")》之後，最受日本學生歡迎的少女動畫系列之一。
+《**小魔女DoReMi**》（，[日語羅馬字](https://zh.wikipedia.org/wiki/日語羅馬字 "wikilink")：****，官方[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：****）是一[魔法少女](../Page/魔法少女.md "wikilink")[動畫的系列](https://zh.wikipedia.org/wiki/動畫 "wikilink")，由[東映動畫製作](../Page/东映动画.md "wikilink")。四部小魔女DoReMi[動畫在](https://zh.wikipedia.org/wiki/動畫 "wikilink")[日本](../Page/日本.md "wikilink")的播映時間，由1999年2月開始，直至2003年1月結束。\[1\]\[2\]\[3\]\[4\]台灣地區大約在2000年左右由[台灣電視台播映](https://zh.wikipedia.org/wiki/台灣電視台 "wikilink")。是繼《[美少女戰士](https://zh.wikipedia.org/wiki/美少女戰士 "wikilink")》之後，最受日本學生歡迎的少女動畫系列之一。
 
 ## 概要
 
-小魔女DoReMi主要可以分成[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")、[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")、[遊戲](https://zh.wikipedia.org/wiki/遊戲 "wikilink")……等部份，其中以動畫為主。動畫內容大致可以分成4輯（容後介紹），原本只預定播映4季（1年），但因為人氣太高而延長。此外，還有2000年和2001年的兩部[劇場版](https://zh.wikipedia.org/wiki/劇場版 "wikilink")。2004年則推出了特別篇－小魔女DoReMi
-童年秘密篇（港譯：小魔女 DoReMi 心之密語；台前譯：小魔女DoReMi童年回憶篇；另譯：小魔女DoReMi
-小.秘.密）。2011年12月2日推出輕小說－小魔女DoReMi 16（），以第四輯故事四年後（即女主角DoReMi
-16歲時）為背景。
+小魔女DoReMi主要可以分成[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")、[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")、[遊戲](https://zh.wikipedia.org/wiki/遊戲 "wikilink")……等部份，其中以動畫為主。動畫內容大致可以分成4輯（容後介紹），原本只預定播映4季（1年），但因為人氣太高而延長。此外，還有2000年和2001年的兩部[劇場版](https://zh.wikipedia.org/wiki/劇場版 "wikilink")。2004年則推出了特別篇－小魔女DoReMi 童年秘密篇（港譯：小魔女 DoReMi 心之密語；台前譯：小魔女DoReMi童年回憶篇；另譯：小魔女DoReMi 小.秘.密）。2011年12月2日推出輕小說－小魔女DoReMi 16（），以第四輯故事四年後（即女主角DoReMi 16歲時）為背景。
 
 和動畫同時的還有[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，為漫畫家[高梨靜江所繪製的小魔女DoReMi](https://zh.wikipedia.org/wiki/高梨靜江 "wikilink")（共3集）和大\~集合！小魔女DoReMi（單行本1集和部分已完結的雜誌連載）。之外，還有由動畫改編而成的彩映版。
 
 此外，還有同名的線上遊戲作品。
 
-另外值得一提是，此動畫除了特別篇第13話外，都會在主題歌之前播映大概20秒的介紹片段，成為該作品的特色之一。其後[東映也在](../Page/東映.md "wikilink")2004年開始播放的動畫「[光之美少女系列](../Page/光之美少女系列.md "wikilink")」以同一手法去介紹每集內容。
+另外值得一提是，此動畫除了特別篇第13話外，都會在主題歌之前播映大概20秒的介紹片段，成為該作品的特色之一。其後[東映](../Page/東映.md "wikilink")也在2004年開始播放的動畫「[光之美少女系列](../Page/光之美少女系列.md "wikilink")」以同一手法去介紹每集內容。
 
 ## 故事概要
 
-故事舞台發生在架空的城市──日本美空市美空町，除此之外還有魔女世界和魔法堂等。順帶一提，雖然[香港和](../Page/香港.md "wikilink")[台灣的小魔女DoReMi相關產品](https://zh.wikipedia.org/wiki/台灣 "wikilink")（漫畫、精品等）仍然遵照下述譯名，但動畫部分，[無綫電視播放的版本一律稱為](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")《小魔女DoReMi》，並不作任何區分，[東森幼幼台方面則是以第幾部來區分](../Page/東森幼幼台.md "wikilink")。
+故事舞台發生在架空的城市──日本美空市美空町，除此之外還有魔女世界和魔法堂等。順帶一提，雖然[香港](../Page/香港.md "wikilink")和[台灣的小魔女DoReMi相關產品](https://zh.wikipedia.org/wiki/台灣 "wikilink")（漫畫、精品等）仍然遵照下述譯名，但動畫部分，[無綫電視播放的版本一律稱為](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")《小魔女DoReMi》，並不作任何區分，[東森幼幼台](../Page/東森幼幼台.md "wikilink")方面則是以第幾部來區分。
 
 ### 小魔女DoReMi
 
@@ -149,11 +146,7 @@
 
 ### OVA
 
-**小魔女DoReMi 童年秘密篇**（****，
-，港譯：小魔女DoReMi心之密語，台译：-{小魔女DoReMi心之密語}-（前）、-{小魔女DoReMi
-童年秘密篇}-（后），又译-{小魔女DoReMi
-小.秘.密}-），为正傳动画完结后推出的[OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")，首播于2004年6月26日至12月11日，共13集。以大\~集合\!
-小魔女DoReMi為時間背景，講述穿插於第三部中的軼事。主要是在DoReMi、羽月、小愛、音符、小桃子，以及其他同學、家人和朋友間發生的小故事。
+**小魔女DoReMi 童年秘密篇**（****， ，港譯：小魔女DoReMi心之密語，台译：-{小魔女DoReMi心之密語}-（前）、-{小魔女DoReMi 童年秘密篇}-（后），又译-{小魔女DoReMi 小.秘.密}-），为正傳动画完结后推出的[OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")，首播于2004年6月26日至12月11日，共13集。以大\~集合\! 小魔女DoReMi為時間背景，講述穿插於第三部中的軼事。主要是在DoReMi、羽月、小愛、音符、小桃子，以及其他同學、家人和朋友間發生的小故事。
 
 ## 登場角色
 
@@ -2765,11 +2758,8 @@
 
 ### 播映情況
 
-  - 日本：朝日放送（ABC）・[朝日電視台系](../Page/朝日電視台.md "wikilink")（1999年2月7日-2003年1月26日），小魔女童年秘密篇則由[Sky
-    PerfecTV\!和神奈川電視播映](https://zh.wikipedia.org/wiki/Sky_PerfecTV! "wikilink")（2004年6月26日-12月11日，隔週）
-  - 美國：[4Kids
-    TV](https://zh.wikipedia.org/wiki/4Kids娱乐公司 "wikilink")（僅放送第一季，2005年，名為Magical
-    DoReMi）
+  - 日本：朝日放送（ABC）・[朝日電視台](../Page/朝日電視台.md "wikilink")系（1999年2月7日-2003年1月26日），小魔女童年秘密篇則由[Sky PerfecTV\!和神奈川電視播映](https://zh.wikipedia.org/wiki/Sky_PerfecTV! "wikilink")（2004年6月26日-12月11日，隔週）
+  - 美國：[4Kids TV](https://zh.wikipedia.org/wiki/4Kids娱乐公司 "wikilink")（僅放送第一季，2005年，名為Magical DoReMi）
   - [韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")：[文化放送](https://zh.wikipedia.org/wiki/文化放送 "wikilink")（名為）
   - 其他尚在[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")、[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")、[義大利](https://zh.wikipedia.org/wiki/義大利 "wikilink")、[墨西哥](../Page/墨西哥.md "wikilink")、[澳大利亞播出](https://zh.wikipedia.org/wiki/澳大利亞 "wikilink")。
 
@@ -2777,18 +2767,15 @@
 
 ### 小魔女DoReMi ♯ 願望之花
 
-（****，港译：-{小魔女DoReMi之親心歷險}-，台译：-{小魔女DoReMi
-魔法玫瑰}-），首映与2000年7月8日\[5\]，为首部小魔女劇場版，講述泡泡無意中由女皇花園帶回人間界的白色花朵「女皇之心」，並引起人間騷動。故事亦描述DoReMi及泡泡兩個之間的姐妹關係的故事。
+（****，港译：-{小魔女DoReMi之親心歷險}-，台译：-{小魔女DoReMi 魔法玫瑰}-），首映与2000年7月8日\[5\]，为首部小魔女劇場版，講述泡泡無意中由女皇花園帶回人間界的白色花朵「女皇之心」，並引起人間騷動。故事亦描述DoReMi及泡泡兩個之間的姐妹關係的故事。
 
 ### Mo\~tto！小魔女DoReMi 青蛙石的秘密
 
-（****，港譯：-{小魔女DoReMi之青蛙石之謎}-，台译：-{小魔女DoReMi
-微笑月亮}-），首映于2001年7月14日\[6\]，为第二部劇場版，講述DoReMi家人和四個朋友返回DoReMi爺爺位於飛彃高山的家回鄉度假時。期間DoReMi五人去不歸山遊玩時，聽到的魔女青蛙石傳說，好奇之下從而對此展開調查的故事。
+（****，港譯：-{小魔女DoReMi之青蛙石之謎}-，台译：-{小魔女DoReMi 微笑月亮}-），首映于2001年7月14日\[6\]，为第二部劇場版，講述DoReMi家人和四個朋友返回DoReMi爺爺位於飛彃高山的家回鄉度假時。期間DoReMi五人去不歸山遊玩時，聽到的魔女青蛙石傳說，好奇之下從而對此展開調查的故事。
 
 ### 尋找魔女見習生
 
-（****，暫譯: 尋找魔女見習生)，將於2020年內於日本電影院上映。此為第三部劇場版，為「小魔女Doremi」電視播放20周年的紀念作品。
-故事內容有待東映方面公佈。此作會由大部分原本班底製作，並由原本聲優負責配音。\[7\]
+（****，暫譯: 尋找魔女見習生)，將於2020年內於日本電影院上映。此為第三部劇場版，為「小魔女Doremi」電視播放20周年的紀念作品。 故事內容有待東映方面公佈。此作會由大部分原本班底製作，並由原本聲優負責配音。\[7\]
 
 ## 书籍信息
 
@@ -3054,8 +3041,7 @@
 
 ## 節目變遷
 
-<span style="font-size: 22px;font-weight:bold">日本</span>
-<span style="font-size: 22px;font-weight:bold">香港</span>
+<span style="font-size: 22px;font-weight:bold">日本</span>  <span style="font-size: 22px;font-weight:bold">香港</span>
 
   - 小魔女DoReMi
     重播
@@ -3130,49 +3116,13 @@
 
   - [東映動畫的小魔女DoReMi系列官方網頁](http://www.toei-anim.co.jp/doremi/)
   - [魔法堂- 小魔女DoReMi](http://www.all4free.com.tw/doremi/)（中文非官方網頁）
-  - [Ojamajo \! 小魔女DoReMi
-    懷舊粉絲俱樂部\~Taiwan](https://www.facebook.com/Ojamajo.Magical.DoReMi)(亞洲最大-
-    華人非官方Facebook臉書粉絲團)
-  - [小魔女DoReMiCD列表(Neo Wing. All Rights
-    Reserved)](http://www.neowing.co.jp/search.html?type=GN&restrict=ALL&word=%A4%AA%A5%B8%A5%E3%CB%E2%BD%F7%A4%C9%A4%EC%A4%DF)
-
+  - [Ojamajo \! 小魔女DoReMi 懷舊粉絲俱樂部\~Taiwan](https://www.facebook.com/Ojamajo.Magical.DoReMi)(亞洲最大- 華人非官方Facebook臉書粉絲團)
+  - [小魔女DoReMiCD列表(Neo Wing. All Rights Reserved)](http://www.neowing.co.jp/search.html?type=GN&restrict=ALL&word=%A4%AA%A5%B8%A5%E3%CB%E2%BD%F7%A4%C9%A4%EC%A4%DF)
   - [小魔女DoReMi台灣版配音員列表](https://web.archive.org/web/20080404114355/http://ava.suw.idv.tw/tva/sch.asp?ac=2)（[中文配音資料庫](https://web.archive.org/web/20050718014759/http://ava.suw.idv.tw/tva/sch.asp)（進入若有困難請重新整理或由首頁進入）
-  - [<span lang="ko">꼬마마법사
-    레미</span>](https://web.archive.org/web/20051018150237/http://www.magicalremi.co.kr/)
-    - Iconix Entertainment（韓國）
+  - [<span lang="ko">꼬마마법사 레미</span>](https://web.archive.org/web/20051018150237/http://www.magicalremi.co.kr/) - Iconix Entertainment（韓國）
   - [Magical DoReMi](http://4kids.tv/magicaldoremi/) - 4kids.tv（美國）
 
-[Category:1999年日本電視動畫](https://zh.wikipedia.org/wiki/Category:1999年日本電視動畫 "wikilink")
-[Category:2000年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2000年日本電視動畫 "wikilink")
-[Category:2001年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2001年日本電視動畫 "wikilink")
-[Category:2002年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2002年日本電視動畫 "wikilink")
-[Category:日本OVA動畫](https://zh.wikipedia.org/wiki/Category:日本OVA動畫 "wikilink")
-[Category:2000年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2000年日本劇場動畫 "wikilink")
-[Category:2001年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2001年日本劇場動畫 "wikilink")
-[Category:糖果甜點題材作品](https://zh.wikipedia.org/wiki/Category:糖果甜點題材作品 "wikilink")
-[Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
-[Category:台視外購動畫](https://zh.wikipedia.org/wiki/Category:台視外購動畫 "wikilink")
-[Category:魔法少女](https://zh.wikipedia.org/wiki/Category:魔法少女 "wikilink")
-[Category:少女漫畫](https://zh.wikipedia.org/wiki/Category:少女漫畫 "wikilink")
-[Category:改编成电影的日本漫画](https://zh.wikipedia.org/wiki/Category:改编成电影的日本漫画 "wikilink")
-[Category:講談社輕小說文庫](https://zh.wikipedia.org/wiki/Category:講談社輕小說文庫 "wikilink")
-[Category:Nakayoshi](https://zh.wikipedia.org/wiki/Category:Nakayoshi "wikilink")
-[Category:变身女主角动画](https://zh.wikipedia.org/wiki/Category:变身女主角动画 "wikilink")
-[Category:東森電視外購動畫](https://zh.wikipedia.org/wiki/Category:東森電視外購動畫 "wikilink")
-[Category:2004年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:2004年日本OVA動畫 "wikilink")
-[Category:2011年小說](https://zh.wikipedia.org/wiki/Category:2011年小說 "wikilink")
-[Category:2012年小說](https://zh.wikipedia.org/wiki/Category:2012年小說 "wikilink")
-[Category:2013年小說](https://zh.wikipedia.org/wiki/Category:2013年小說 "wikilink")
-[Category:朝日電視台節目](https://zh.wikipedia.org/wiki/Category:朝日電視台節目 "wikilink")
-[Category:日本動畫短片電影](https://zh.wikipedia.org/wiki/Category:日本動畫短片電影 "wikilink")
-[Category:日語電影](https://zh.wikipedia.org/wiki/Category:日語電影 "wikilink")
-[Category:五十嵐卓哉電影](https://zh.wikipedia.org/wiki/Category:五十嵐卓哉電影 "wikilink")
-[Category:日本輕小說](https://zh.wikipedia.org/wiki/Category:日本輕小說 "wikilink")
-[Category:日本原創動畫](https://zh.wikipedia.org/wiki/Category:日本原創動畫 "wikilink")
-[Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
-[Category:廣播劇CD](https://zh.wikipedia.org/wiki/Category:廣播劇CD "wikilink")
-[Category:PlayStation_(游戏机)游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_\(游戏机\)游戏 "wikilink")
-[Category:魔女题材作品](https://zh.wikipedia.org/wiki/Category:魔女题材作品 "wikilink")
+[Category:1999年日本電視動畫](https://zh.wikipedia.org/wiki/Category:1999年日本電視動畫 "wikilink") [Category:2000年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2000年日本電視動畫 "wikilink") [Category:2001年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2001年日本電視動畫 "wikilink") [Category:2002年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2002年日本電視動畫 "wikilink") [Category:日本OVA動畫](https://zh.wikipedia.org/wiki/Category:日本OVA動畫 "wikilink") [Category:2000年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2000年日本劇場動畫 "wikilink") [Category:2001年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2001年日本劇場動畫 "wikilink") [Category:糖果甜點題材作品](https://zh.wikipedia.org/wiki/Category:糖果甜點題材作品 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink") [Category:台視外購動畫](https://zh.wikipedia.org/wiki/Category:台視外購動畫 "wikilink") [Category:魔法少女](https://zh.wikipedia.org/wiki/Category:魔法少女 "wikilink") [Category:少女漫畫](https://zh.wikipedia.org/wiki/Category:少女漫畫 "wikilink") [Category:改编成电影的日本漫画](https://zh.wikipedia.org/wiki/Category:改编成电影的日本漫画 "wikilink") [Category:講談社輕小說文庫](https://zh.wikipedia.org/wiki/Category:講談社輕小說文庫 "wikilink") [Category:Nakayoshi](https://zh.wikipedia.org/wiki/Category:Nakayoshi "wikilink") [Category:变身女主角动画](https://zh.wikipedia.org/wiki/Category:变身女主角动画 "wikilink") [Category:東森電視外購動畫](https://zh.wikipedia.org/wiki/Category:東森電視外購動畫 "wikilink") [Category:2004年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:2004年日本OVA動畫 "wikilink") [Category:2011年小說](https://zh.wikipedia.org/wiki/Category:2011年小說 "wikilink") [Category:2012年小說](https://zh.wikipedia.org/wiki/Category:2012年小說 "wikilink") [Category:2013年小說](https://zh.wikipedia.org/wiki/Category:2013年小說 "wikilink") [Category:朝日電視台節目](https://zh.wikipedia.org/wiki/Category:朝日電視台節目 "wikilink") [Category:日本動畫短片電影](https://zh.wikipedia.org/wiki/Category:日本動畫短片電影 "wikilink") [Category:日語電影](https://zh.wikipedia.org/wiki/Category:日語電影 "wikilink") [Category:五十嵐卓哉電影](https://zh.wikipedia.org/wiki/Category:五十嵐卓哉電影 "wikilink") [Category:日本輕小說](https://zh.wikipedia.org/wiki/Category:日本輕小說 "wikilink") [Category:日本原創動畫](https://zh.wikipedia.org/wiki/Category:日本原創動畫 "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink") [Category:廣播劇CD](https://zh.wikipedia.org/wiki/Category:廣播劇CD "wikilink") [Category:PlayStation_(游戏机)游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_\(游戏机\)游戏 "wikilink") [Category:魔女题材作品](https://zh.wikipedia.org/wiki/Category:魔女题材作品 "wikilink")
 
 1.
 2.
@@ -3180,5 +3130,4 @@
 4.
 5.
 6.
-7.  [『おジャ魔女どれみ』新作映画制作決定　スタッフ＆キャスト集結『魔女見習いをさがして』20年公開](https://www.oricon.co.jp/news/2132095/full/),ORICON
-    NEWS,2019年3月23日
+7.  [『おジャ魔女どれみ』新作映画制作決定　スタッフ＆キャスト集結『魔女見習いをさがして』20年公開](https://www.oricon.co.jp/news/2132095/full/),ORICON NEWS,2019年3月23日

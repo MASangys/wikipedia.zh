@@ -1,14 +1,8 @@
-[Alcatel_T07AW_of_Chunghwa_Telecom_2007-02-27.jpg](https://zh.wikipedia.org/wiki/File:Alcatel_T07AW_of_Chunghwa_Telecom_2007-02-27.jpg "fig:Alcatel_T07AW_of_Chunghwa_Telecom_2007-02-27.jpg")採用的[ATU-R](https://zh.wikipedia.org/wiki/ATU-R "wikilink")（ADSL數據機）「T07AW」內含[WLAN功能](https://zh.wikipedia.org/wiki/WLAN "wikilink")\]\]
-**ADSL**，全名**Asymmetric Digital Subscriber
-Line**。中譯**非對稱[數位用戶線路](https://zh.wikipedia.org/wiki/DSL "wikilink")**，或作**非對稱-{zh-hans:数字用户环路;zh-hk:數碼用戶回路;zh-tw:數位用戶回路;}-**（**Asymmetric
-Digital Subscriber Loop**）。
+[Alcatel_T07AW_of_Chunghwa_Telecom_2007-02-27.jpg](https://zh.wikipedia.org/wiki/File:Alcatel_T07AW_of_Chunghwa_Telecom_2007-02-27.jpg "fig:Alcatel_T07AW_of_Chunghwa_Telecom_2007-02-27.jpg")採用的[ATU-R](https://zh.wikipedia.org/wiki/ATU-R "wikilink")（ADSL數據機）「T07AW」內含[WLAN功能](https://zh.wikipedia.org/wiki/WLAN "wikilink")\]\] **ADSL**，全名**Asymmetric Digital Subscriber Line**。中譯**非對稱[數位用戶線路](https://zh.wikipedia.org/wiki/DSL "wikilink")**，或作**非對稱-{zh-hans:数字用户环路;zh-hk:數碼用戶回路;zh-tw:數位用戶回路;}-**（**Asymmetric Digital Subscriber Loop**）。
 
 ## 介绍
 
-[ADSL_Connection_zh-cn.png](https://zh.wikipedia.org/wiki/File:ADSL_Connection_zh-cn.png "fig:ADSL_Connection_zh-cn.png")
-ADSL因为上行（从用户到电信服务提供商方向，如上傳动作）和下行（从电信服务提供商到用户的方向，如下載动作）頻寬不对称（即上行和下行的速率不相同）因此称为非对称数字用户线路。它采用[频分多路复用技术把普通的电话线分成了电话](../Page/频分多路复用.md "wikilink")、上行和下行三个相对独立的信道，从而避免了相互之间的干扰。通常ADSL在不影响正常电话通信的情况下可以提供最高3.5Mbps的上行速度和最高24Mbps的下行速度。
-[ADSL_modem_router_internals_labeled.jpg](https://zh.wikipedia.org/wiki/File:ADSL_modem_router_internals_labeled.jpg "fig:ADSL_modem_router_internals_labeled.jpg")
-DG632 ADSL内部结构图\]\]
+[ADSL_Connection_zh-cn.png](https://zh.wikipedia.org/wiki/File:ADSL_Connection_zh-cn.png "fig:ADSL_Connection_zh-cn.png") ADSL因为上行（从用户到电信服务提供商方向，如上傳动作）和下行（从电信服务提供商到用户的方向，如下載动作）頻寬不对称（即上行和下行的速率不相同）因此称为非对称数字用户线路。它采用[频分多路复用](../Page/频分多路复用.md "wikilink")技术把普通的电话线分成了电话、上行和下行三个相对独立的信道，从而避免了相互之间的干扰。通常ADSL在不影响正常电话通信的情况下可以提供最高3.5Mbps的上行速度和最高24Mbps的下行速度。 [ADSL_modem_router_internals_labeled.jpg](https://zh.wikipedia.org/wiki/File:ADSL_modem_router_internals_labeled.jpg "fig:ADSL_modem_router_internals_labeled.jpg") DG632 ADSL内部结构图\]\]
 
 ## 设备
 
@@ -59,10 +53,8 @@ ADSL2+还可以支持线路bonding的方式，也就是给终端用户提供多�
 ADSL通常提供三种网络登录方式：
 
   - [桥接](https://zh.wikipedia.org/wiki/桥接 "wikilink")，直接提供静态[IP](https://zh.wikipedia.org/wiki/IP "wikilink")
-  - [PPPoA](https://zh.wikipedia.org/wiki/PPPoA "wikilink")，基于ATM的-{zh-hans:端对端;
-    zh-hk:點對點;}-协议
-  - [PPPoE](../Page/PPPoE.md "wikilink")，基于-{zh-hans:以太网;zh-hk:乙太網;zh-tw:乙太網;}-的-{zh-hans:端对端;
-    zh-hk:點對點;}-协议
+  - [PPPoA](https://zh.wikipedia.org/wiki/PPPoA "wikilink")，基于ATM的-{zh-hans:端对端; zh-hk:點對點;}-协议
+  - [PPPoE](../Page/PPPoE.md "wikilink")，基于-{zh-hans:以太网;zh-hk:乙太網;zh-tw:乙太網;}-的-{zh-hans:端对端; zh-hk:點對點;}-协议
 
 後两种通常不提供静态IP，而是动态的给用户分配网络地址。
 
@@ -80,7 +72,6 @@ ADSL通常提供三种网络登录方式：
   - [有问必答ADSL常见疑难问题FAQ](http://net.zdnet.com.cn/network_security_zone/2008/0528/889710.shtml)
   - [ADSL应用面面俱到专题](https://web.archive.org/web/20080609080614/http://www.qqread.com/z/network/adsl/index.html)
 
-[sv:Digital Subscriber
-Line\#ADSL](https://zh.wikipedia.org/wiki/sv:Digital_Subscriber_Line#ADSL "wikilink")
+[sv:Digital Subscriber Line\#ADSL](https://zh.wikipedia.org/wiki/sv:Digital_Subscriber_Line#ADSL "wikilink")
 
 [Category:數字用戶線路](https://zh.wikipedia.org/wiki/Category:數字用戶線路 "wikilink")

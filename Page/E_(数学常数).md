@@ -1,6 +1,6 @@
 [Exp_derivative_at_0.svg](https://zh.wikipedia.org/wiki/File:Exp_derivative_at_0.svg "fig:Exp_derivative_at_0.svg")（切线的[斜率](../Page/斜率.md "wikilink")）值为1之\(a\)的唯一值。对比一下，函数\(2^x\)（虚点曲线）和\(4^x\)（虚线曲线）和斜率为1、*y*-截距为1的直线（红色）并不相切。\]\]
 
-\(e\)，作为[數學常數](https://zh.wikipedia.org/wiki/數學常數 "wikilink")，是[自然對數](../Page/自然對數.md "wikilink")[函數的](https://zh.wikipedia.org/wiki/函數 "wikilink")[底數](https://zh.wikipedia.org/wiki/底数_\(对数\) "wikilink")。有時被稱為**歐拉數**（），以瑞士數學家[歐拉命名](https://zh.wikipedia.org/wiki/歐拉 "wikilink")；還有個較少見的名字**納皮爾常數**，用來紀念[蘇格蘭數學家](../Page/蘇格蘭.md "wikilink")[約翰·納皮爾引進](../Page/約翰·納皮爾.md "wikilink")[對數](https://zh.wikipedia.org/wiki/對數 "wikilink")。它是一个无限不循环小数，數值約是（小數點後20位，）：
+\(e\)，作为[數學常數](https://zh.wikipedia.org/wiki/數學常數 "wikilink")，是[自然對數](../Page/自然對數.md "wikilink")[函數的](https://zh.wikipedia.org/wiki/函數 "wikilink")[底數](https://zh.wikipedia.org/wiki/底数_\(对数\) "wikilink")。有時被稱為**歐拉數**（），以瑞士數學家[歐拉命名](https://zh.wikipedia.org/wiki/歐拉 "wikilink")；還有個較少見的名字**納皮爾常數**，用來紀念[蘇格蘭](../Page/蘇格蘭.md "wikilink")數學家[約翰·納皮爾](../Page/約翰·納皮爾.md "wikilink")引進[對數](https://zh.wikipedia.org/wiki/對數 "wikilink")。它是一个无限不循环小数，數值約是（小數點後20位，）：
 
 \[e = 2.71828182845904523536\cdots\] __TOC__
 
@@ -16,8 +16,7 @@
 
 ## 定義
 
-就像[圓周率](../Page/圓周率.md "wikilink")\(\pi\)和\[\[虛數單位|虛數單位{2\!} +
-\\frac{x^{3}}{3\!} + ...</math>
+就像[圓周率](../Page/圓周率.md "wikilink")\(\pi\)和\[\[虛數單位|虛數單位{2\!} + \\frac{x^{3}}{3\!} + ...</math>
 
 \(x\)為複數時依然成立，因此根據\(\sin x\)及\(\cos x\)的泰勒級數，得出在數學中一條稱為[歐拉公式的重要等式](https://zh.wikipedia.org/wiki/歐拉公式 "wikilink")：
 
@@ -27,13 +26,13 @@
 
 \[e^{\mathrm{i}\pi} + 1 = 0\]
 
-此式被[理查德·費曼稱為](../Page/理查德·費曼.md "wikilink")「歐拉的寶石」。
+此式被[理查德·費曼](../Page/理查德·費曼.md "wikilink")稱為「歐拉的寶石」。
 
 \[(\cos x + i\sin x)^n = \left(e^{ix}\right)^n = e^{inx} = \cos (nx) + i \sin (nx)\]
 
 即[棣莫弗公式](../Page/棣莫弗公式.md "wikilink")。
 
-  - \(e\)是[無理數和](../Page/無理數.md "wikilink")[超越數](../Page/超越數.md "wikilink")（見[林德曼－魏尔斯特拉斯定理](https://zh.wikipedia.org/wiki/林德曼－魏尔斯特拉斯定理 "wikilink")）。這是第一個獲證為超越數的数，而非故意構造的（比較[劉維爾數](https://zh.wikipedia.org/wiki/劉維爾數 "wikilink")）；由[夏爾·埃爾米特](../Page/夏爾·埃爾米特.md "wikilink")（）於1873年證明。有猜想它為[正規數](https://zh.wikipedia.org/wiki/正規數 "wikilink")。
+  - \(e\)是[無理數](../Page/無理數.md "wikilink")和[超越數](../Page/超越數.md "wikilink")（見[林德曼－魏尔斯特拉斯定理](https://zh.wikipedia.org/wiki/林德曼－魏尔斯特拉斯定理 "wikilink")）。這是第一個獲證為超越數的数，而非故意構造的（比較[劉維爾數](https://zh.wikipedia.org/wiki/劉維爾數 "wikilink")）；由[夏爾·埃爾米特](../Page/夏爾·埃爾米特.md "wikilink")（）於1873年證明。有猜想它為[正規數](https://zh.wikipedia.org/wiki/正規數 "wikilink")。
   - 当\(x = e\)时函數\(f(x) = \sqrt[x]{x}\)有最大值。
   - \(e\)的無窮[連分數展開式有個有趣的模式](https://zh.wikipedia.org/wiki/連分數 "wikilink")，可以表示如下（）
 
@@ -170,10 +169,8 @@ int main(void) {
 ## 諧取
 
   - 在[Google](../Page/Google.md "wikilink")2004年的[首次公開募股](https://zh.wikipedia.org/wiki/首次公開募股 "wikilink")，集資額不是通常的整頭數，而是$2,718,281,828，這當然是取最接近整數的\(e\)十億[美元](../Page/美元.md "wikilink")。（顺便一提，Google2005年的一次公開募股中，集資額是$14,159,265，与[圆周率有关](https://zh.wikipedia.org/wiki/圆周率 "wikilink")）
-  - [Google也是首先在](../Page/Google.md "wikilink")[矽谷心臟地帶](https://zh.wikipedia.org/wiki/矽谷 "wikilink")，接著在[麻薩諸塞州劍橋出現的神祕](https://zh.wikipedia.org/wiki/劍橋_\(麻薩諸塞州\) "wikilink")[廣告版](https://web.archive.org/web/20060209040047/http://mattwalsh.com/twiki/pub/Main/GoogleBillboardContestFindingPrimesInE/IMG_0742.JPG)的幕後黑手，它寫著{first
-    10-digit prime found in consecutive digits of
-    *e*}.com（在\(e\)的連續數字中第一個發現的十位質數.com）。解決了這問題（第一個\(e\)中的十位質數是7427466391，出奇地到很後才出現，由第100個數字開始），進入網站後還有個更難的題目要解決，最後會到達Google的招聘頁。但這個挑戰已結束，上述網站都已關閉。
-  - 著名[電腦科學家](../Page/電腦科學家.md "wikilink")[高德納的软件](https://zh.wikipedia.org/wiki/高德納 "wikilink")[Metafont的版本號碼趨向](https://zh.wikipedia.org/wiki/Metafont "wikilink")\(e\)（就是說版本號碼是2，2.7，2.71，2.718等），与之相对的有[TeX的版本号是趋向于](../Page/TeX.md "wikilink")[圆周率的](https://zh.wikipedia.org/wiki/圆周率 "wikilink")。
+  - [Google](../Page/Google.md "wikilink")也是首先在[矽谷心臟地帶](https://zh.wikipedia.org/wiki/矽谷 "wikilink")，接著在[麻薩諸塞州劍橋出現的神祕](https://zh.wikipedia.org/wiki/劍橋_\(麻薩諸塞州\) "wikilink")[廣告版](https://web.archive.org/web/20060209040047/http://mattwalsh.com/twiki/pub/Main/GoogleBillboardContestFindingPrimesInE/IMG_0742.JPG)的幕後黑手，它寫著{first 10-digit prime found in consecutive digits of *e*}.com（在\(e\)的連續數字中第一個發現的十位質數.com）。解決了這問題（第一個\(e\)中的十位質數是7427466391，出奇地到很後才出現，由第100個數字開始），進入網站後還有個更難的題目要解決，最後會到達Google的招聘頁。但這個挑戰已結束，上述網站都已關閉。
+  - 著名[電腦科學家](../Page/電腦科學家.md "wikilink")[高德納的软件](https://zh.wikipedia.org/wiki/高德納 "wikilink")[Metafont的版本號碼趨向](https://zh.wikipedia.org/wiki/Metafont "wikilink")\(e\)（就是說版本號碼是2，2.7，2.71，2.718等），与之相对的有[TeX](../Page/TeX.md "wikilink")的版本号是趋向于[圆周率的](https://zh.wikipedia.org/wiki/圆周率 "wikilink")。
 
 ## 参见
 
@@ -186,12 +183,7 @@ int main(void) {
 
 ## 参考文献
 
-[Category:指数](https://zh.wikipedia.org/wiki/Category:指数 "wikilink")
-[Category:超越數](https://zh.wikipedia.org/wiki/Category:超越數 "wikilink")
-[Category:数学常数](https://zh.wikipedia.org/wiki/Category:数学常数 "wikilink")
-[Category:对数](https://zh.wikipedia.org/wiki/Category:对数 "wikilink")
+[Category:指数](https://zh.wikipedia.org/wiki/Category:指数 "wikilink") [Category:超越數](https://zh.wikipedia.org/wiki/Category:超越數 "wikilink") [Category:数学常数](https://zh.wikipedia.org/wiki/Category:数学常数 "wikilink") [Category:对数](https://zh.wikipedia.org/wiki/Category:对数 "wikilink")
 
-1.  Sebah, P. and Gourdon, X.; [The constant e and its
-    computation](http://numbers.computation.free.fr/Constants/E/e.html)
-2.  Gourdon, X.; [Reported large computations with
-    PiFast](http://numbers.computation.free.fr/Constants/PiProgram/computations.html)
+1.  Sebah, P. and Gourdon, X.; [The constant e and its computation](http://numbers.computation.free.fr/Constants/E/e.html)
+2.  Gourdon, X.; [Reported large computations with PiFast](http://numbers.computation.free.fr/Constants/PiProgram/computations.html)

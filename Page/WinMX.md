@@ -1,15 +1,10 @@
-**WinMX**是[點對點](https://zh.wikipedia.org/wiki/點對點 "wikilink")（Peer to
-Peer）[檔案分享](../Page/檔案分享.md "wikilink")[軟件](https://zh.wikipedia.org/wiki/軟件 "wikilink")，由Frontcode
-Technologies開發。雖然Frontcode由WinMX 2開始，製作了一個擁有權協議，稱為WinMX Peer Network
-Protocol（WPNP）。WPNP 2在WinMX 3.0淘汰掉，而WPNP
-3協議取而代之成立。[Lopster曾有WPNP](https://zh.wikipedia.org/wiki/Lopster "wikilink")
-2支援，可是在WPNP 3中被封鎖了。
+**WinMX**是[點對點](https://zh.wikipedia.org/wiki/點對點 "wikilink")（Peer to Peer）[檔案分享](../Page/檔案分享.md "wikilink")[軟件](https://zh.wikipedia.org/wiki/軟件 "wikilink")，由Frontcode Technologies開發。雖然Frontcode由WinMX 2開始，製作了一個擁有權協議，稱為WinMX Peer Network Protocol（WPNP）。WPNP 2在WinMX 3.0淘汰掉，而WPNP 3協議取而代之成立。[Lopster曾有WPNP](https://zh.wikipedia.org/wiki/Lopster "wikilink") 2支援，可是在WPNP 3中被封鎖了。
 
 ## 特性
 
 它以多點續傳的技術，能從不同用戶中下載同一首歌的不同部分，因此可以在2至3分鐘內下載完成一首歌。
 
-由於WinMX支援雙位元組的中日韓文字，因此受到[香港](../Page/香港.md "wikilink")、[日本等](../Page/日本.md "wikilink")[亞洲用戶的歡迎](https://zh.wikipedia.org/wiki/亞洲 "wikilink")。
+由於WinMX支援雙位元組的中日韓文字，因此受到[香港](../Page/香港.md "wikilink")、[日本](../Page/日本.md "wikilink")等[亞洲用戶的歡迎](https://zh.wikipedia.org/wiki/亞洲 "wikilink")。
 
 現時WinMX最新的版本是**WinMX 3.54 beta4**。
 
@@ -23,9 +18,7 @@ Protocol（WPNP）。WPNP 2在WinMX 3.0淘汰掉，而WPNP
 
 2005年10月11日，在香港打擊侵犯版權活動的香港海關表示，自「古惑天皇」被捕一事後，據稱香港網上侵犯版權活動減少8成。[1](https://web.archive.org/web/20051013110136/http://hk.news.yahoo.com/051011/12/1hiw5.html)
 
-2005年9月25日，有網站自行設定供WinMX使用的peer
-caches，並發佈補丁供使用者下載，它們是修改Windows的hosts檔，把原來WinMX
-peer cache的DNS指向自建的DNS。
+2005年9月25日，有網站自行設定供WinMX使用的peer caches，並發佈補丁供使用者下載，它們是修改Windows的hosts檔，把原來WinMX peer cache的DNS指向自建的DNS。
 
 2007年6月29日，WinMX社團結束了WinMx。
 
@@ -37,7 +30,4 @@ peer cache的DNS指向自建的DNS。
 
   - [WinMX中文教戰手冊](http://mx.newsdj.com)
 
-[Category:下載工具](https://zh.wikipedia.org/wiki/Category:下載工具 "wikilink")
-[Category:免費軟件](https://zh.wikipedia.org/wiki/Category:免費軟件 "wikilink")
-[Category:P2P](https://zh.wikipedia.org/wiki/Category:P2P "wikilink")
-[Category:檔案分享網絡](https://zh.wikipedia.org/wiki/Category:檔案分享網絡 "wikilink")
+[Category:下載工具](https://zh.wikipedia.org/wiki/Category:下載工具 "wikilink") [Category:免費軟件](https://zh.wikipedia.org/wiki/Category:免費軟件 "wikilink") [Category:P2P](https://zh.wikipedia.org/wiki/Category:P2P "wikilink") [Category:檔案分享網絡](https://zh.wikipedia.org/wiki/Category:檔案分享網絡 "wikilink")

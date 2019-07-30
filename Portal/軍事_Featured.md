@@ -210,8 +210,6 @@
 
 <div align="right" style="font-size:small;">
 
-**[特色條目](https://zh.wikipedia.org/wiki/Wikipedia:特色條目 "wikilink") |
-[優良條目](https://zh.wikipedia.org/wiki/Wikipedia:優良條目 "wikilink")
-| [更多...](https://zh.wikipedia.org/wiki/Portal:軍事/Featured "wikilink")**
+**[特色條目](https://zh.wikipedia.org/wiki/Wikipedia:特色條目 "wikilink") | [優良條目](https://zh.wikipedia.org/wiki/Wikipedia:優良條目 "wikilink") | [更多...](https://zh.wikipedia.org/wiki/Portal:軍事/Featured "wikilink")**
 
 </div>

@@ -1,18 +1,16 @@
 [Fractal_weeds.jpg](https://zh.wikipedia.org/wiki/File:Fractal_weeds.jpg "fig:Fractal_weeds.jpg")
 
-**Lindenmayer系統**，簡稱**L系統**，是由荷兰[烏特勒支大學的生物学和植物学家](https://zh.wikipedia.org/wiki/烏特勒支大學 "wikilink")，匈牙利裔的[林登麦伊尔](https://zh.wikipedia.org/wiki/林登麦伊尔 "wikilink")（Aristid
-Lindenmayer）於1968年提出的有关生长发展中的[细胞交互作用的数学模型](../Page/细胞.md "wikilink")，尤其被廣泛應用於[植物生長過程的研究](https://zh.wikipedia.org/wiki/植物生長 "wikilink")。
+**Lindenmayer系統**，簡稱**L系統**，是由荷兰[烏特勒支大學的生物学和植物学家](https://zh.wikipedia.org/wiki/烏特勒支大學 "wikilink")，匈牙利裔的[林登麦伊尔](https://zh.wikipedia.org/wiki/林登麦伊尔 "wikilink")（Aristid Lindenmayer）於1968年提出的有关生长发展中的[细胞](../Page/细胞.md "wikilink")交互作用的数学模型，尤其被廣泛應用於[植物生長過程的研究](https://zh.wikipedia.org/wiki/植物生長 "wikilink")。
 
-L-system是一系列不同形式的正规语法规则，多被用于植物生长过程[建模](https://zh.wikipedia.org/wiki/建模 "wikilink")，但是也被用于模拟各种生物体的形态。L-system也能用于生成自相似的分形，例如[迭代函数系统](../Page/迭代函数.md "wikilink")。
+L-system是一系列不同形式的正规语法规则，多被用于植物生长过程[建模](https://zh.wikipedia.org/wiki/建模 "wikilink")，但是也被用于模拟各种生物体的形态。L-system也能用于生成自相似的分形，例如[迭代函数](../Page/迭代函数.md "wikilink")系统。
 
 ## 起源
 
-作为一位生物学家，Lindenmayer工作的内容是[酵母菌和](https://zh.wikipedia.org/wiki/酵母菌 "wikilink")[丝状真菌](https://zh.wikipedia.org/wiki/丝状真菌 "wikilink")，并研究多种类型的[海藻的生长模式](../Page/海藻.md "wikilink")，例如[蓝绿细菌](https://zh.wikipedia.org/wiki/蓝绿细菌 "wikilink")[项圈藻](https://zh.wikipedia.org/wiki/项圈藻 "wikilink")（，淡水藻类的一种）。最初，L系统被设计成用于提供一种关于简单多细胞生物体生长的正规描述，并且试图证明植物细胞之间的紧密关系。不久以后，这个系统被扩展成描述[高等植物及其复杂枝杈结构](https://zh.wikipedia.org/wiki/高等植物 "wikilink")。
+作为一位生物学家，Lindenmayer工作的内容是[酵母菌和](https://zh.wikipedia.org/wiki/酵母菌 "wikilink")[丝状真菌](https://zh.wikipedia.org/wiki/丝状真菌 "wikilink")，并研究多种类型的[海藻](../Page/海藻.md "wikilink")的生长模式，例如[蓝绿细菌](https://zh.wikipedia.org/wiki/蓝绿细菌 "wikilink")[项圈藻](https://zh.wikipedia.org/wiki/项圈藻 "wikilink")（，淡水藻类的一种）。最初，L系统被设计成用于提供一种关于简单多细胞生物体生长的正规描述，并且试图证明植物细胞之间的紧密关系。不久以后，这个系统被扩展成描述[高等植物及其复杂枝杈结构](https://zh.wikipedia.org/wiki/高等植物 "wikilink")。
 
 ## L-system 结构
 
-L-system的自然递归规则导致自相似性，也因此使得分形一类形式可以很容易的使用L-system描述。植物模型和自然界的有机结构生成，非常相似并很容易被定义，因此通过增加递归的层数，可以缓慢生长并逐渐变得更复杂。L-system同样在制造人造生命领域。
-L-system 语法与Chomsky语法非常相似，說到L-system通常指的是带参数的L-system，定义如下：
+L-system的自然递归规则导致自相似性，也因此使得分形一类形式可以很容易的使用L-system描述。植物模型和自然界的有机结构生成，非常相似并很容易被定义，因此通过增加递归的层数，可以缓慢生长并逐渐变得更复杂。L-system同样在制造人造生命领域。 L-system 语法与Chomsky语法非常相似，說到L-system通常指的是带参数的L-system，定义如下：
 
 G＝｛V,S,ω,P},
 
@@ -62,10 +60,7 @@ Lindenmayer研究海藻生长模式时提出的最早的L-系统：
 `      /| | |\    |\ \`
 `n=4: A B A A B   A B A   `
 
-如果我们观察这个序列的长度就会发现这是一个[斐波那契数列](../Page/斐波那契数列.md "wikilink")—— 1 2 3 5 8
-13 21 34 55 89 ... （因为我们选择从A开始，故第一个1少掉了）
-如果我们把A看成一只成年兔子，B看成未成年兔子，那么这个构造和那个著名的兔生兔的构造是一致的。
-即每个月B会成长成A，而A每个月又会生出一个B。
+如果我们观察这个序列的长度就会发现这是一个[斐波那契数列](../Page/斐波那契数列.md "wikilink")—— 1 2 3 5 8 13 21 34 55 89 ... （因为我们选择从A开始，故第一个1少掉了） 如果我们把A看成一只成年兔子，B看成未成年兔子，那么这个构造和那个著名的兔生兔的构造是一致的。 即每个月B会成长成A，而A每个月又会生出一个B。
 
 ## 开放问题
 
@@ -78,75 +73,34 @@ Lindenmayer研究海藻生长模式时提出的最早的L-系统：
 
 ## 外部連結
 
-  - [David J. Wright's article on
-    L-systems](https://web.archive.org/web/20081225000136/http://www.math.okstate.edu/mathdept/dynamics/lecnotes/node12.html#SECTION00040000000000000000)
-  - [Algorithmic Botany at the University of
-    Calgary](http://algorithmicbotany.org/)
-  - [Branching: L-system
-    Tree](http://www.mizuno.org/applet/branching/)　A [Java
-    applet](../Page/Java_applet.md "wikilink") of the botanical tree
-    growth simulation using the L-system.
-  - [Fractint L-System True
-    Fractals](https://web.archive.org/web/20020503212834/http://spanky.triumf.ca/WWW/FRACTINT/lsys/truefractal.html)
-  - ["An introduction to Lindenmayer systems", by Gabriela
-    Ochoa](https://web.archive.org/web/20090326080442/http://www.biologie.uni-hamburg.de/b-online/e28_3/lsys.html)。Brief
-    description of L-systems and how the strings they generate can be
-    interpreted by computer.
-  - ["powerPlant" an open-source landscape modelling
-    software](http://sourceforge.net/projects/pplant/)
-  - [*Fractint* home
-    page](https://web.archive.org/web/20080506072938/http://spanky.triumf.ca/www/fractint/fractint.html)
-  - [L-Systems in
-    Architecture](http://www.mh-portfolio.com/lsystems.html)
-  - [A simple L-systems generator
-    (Windows)](https://web.archive.org/web/20031220074045/http://www.generation5.org/content/2002/lse.asp)
-  - [Lyndyhop: another simple L-systems generator (Windows &
-    Mac)](https://web.archive.org/web/20081204101322/http://www.lab4web.com/chelmiger/lyndyhop/)
-  - [An evolutionary L-systems generator
-    (anyos\*)](http://www.cs.ucl.ac.uk/staff/W.Langdon/pfeiffer.html)
-  - ["LsystemComposition"](https://web.archive.org/web/20100616013924/http://pawfal.org/index.php?page=LsystemComposition).
-    Page at Pawfal ("poor artists working for a living") about using
-    L-systems and [genetic
-    algorithms](https://zh.wikipedia.org/wiki/genetic_algorithms "wikilink")
-    to generate music.
-  - [eXtended L-Systems (XL), Relational Growth Grammars, and
-    open-source software platform GroIMP.](http://www.grogra.de/)
-  - [A JAVA applet with many fractal figures generated by
-    L-systems.](http://to-campos.planetaclix.pt/fractal/plantae.htm)
-  - [Another L-system applet, supporting programming, with explanation
-    and
-    examples.](https://web.archive.org/web/20091027012517/http://uk.geocities.com/joelewisbowen/lsystem.html)
-  - [L-systems in Architecture; genetic
-    housing.](https://web.archive.org/web/20090225060354/http://www.arch.columbia.edu/Students/Fall2003/Cheng.Chih-Wei/)
-  - [L-systems in Plant Growth,Simulation and Visualization
-    (PlantVR).](http://www.somporn.net/)
-  - [Musical L-systems: Theory and applications about using L-systems to
-    generate musical structures, from waveforms to
-    macro-forms.](http://www.modularbrains.net/support/SteliosManousakis-Musical_L-systems.pdf)
-  - [L-system digital sound synthesis: 'Do Digital Monkeys Inhabit
-    Virtual Trees?' Electronic music piece composed with
-    L-systems.](https://web.archive.org/web/20090106210342/http://www.modularbrains.net/dodigitalmonkeysinhabitvirtualtrees.html)
-  - [LSys/JS](https://web.archive.org/web/20090201053112/http://lsysjs.qwert.ch/)
-    - Interactive L-System interpreter using the [Canvas HTML
-    element](https://zh.wikipedia.org/wiki/Canvas_\(HTML_element\) "wikilink")。
-  - [Lindenmayer System for plant visualisation (Java
-    Applet)](http://www.qwerkop.de/qwerkop-projects-lsystem.php/)。
-  - [Fractal Grower: Free Java paper folding L-System intended for
-    elementary and middle school
-    students.](http://cs.unm.edu/~joel/PaperFoldingFractal/paper.html)
-  - [Programmatic animations in actionscript showing various
-    L-systems.](http://www.cove.org/default.aspx?id=1&sid=3&mid=2)
-  - [Java applet showing random L-Systems while driving down Lindenmayer
-    Boulevard](http://www.cs.ucf.edu/~acampbel/applets/LSystems/LSystems.php)
-  - [Magic Garden - Artificial Plants
-    Laboratory](http://sourceforge.net/projects/magicgarden/) - free
-    plants generator using L-Systems
-  - [Inkscape](http://www.inkscape.org/) a free software vector graphics
-    program which implements, among its plugins, an L-system generator
-  - [Garabatos](http://garabatos.wikidot.com)，an interactive
-    evolutionary image generator based in L-Systems
-  - [Online experiments with L-Systems using JSXGraph
-    (JavaScript)](http://jsxgraph.uni-bayreuth.de/wiki/index.php/L-systems)
+  - [David J. Wright's article on L-systems](https://web.archive.org/web/20081225000136/http://www.math.okstate.edu/mathdept/dynamics/lecnotes/node12.html#SECTION00040000000000000000)
+  - [Algorithmic Botany at the University of Calgary](http://algorithmicbotany.org/)
+  - [Branching: L-system Tree](http://www.mizuno.org/applet/branching/)　A [Java applet](../Page/Java_applet.md "wikilink") of the botanical tree growth simulation using the L-system.
+  - [Fractint L-System True Fractals](https://web.archive.org/web/20020503212834/http://spanky.triumf.ca/WWW/FRACTINT/lsys/truefractal.html)
+  - ["An introduction to Lindenmayer systems", by Gabriela Ochoa](https://web.archive.org/web/20090326080442/http://www.biologie.uni-hamburg.de/b-online/e28_3/lsys.html)。Brief description of L-systems and how the strings they generate can be interpreted by computer.
+  - ["powerPlant" an open-source landscape modelling software](http://sourceforge.net/projects/pplant/)
+  - [*Fractint* home page](https://web.archive.org/web/20080506072938/http://spanky.triumf.ca/www/fractint/fractint.html)
+  - [L-Systems in Architecture](http://www.mh-portfolio.com/lsystems.html)
+  - [A simple L-systems generator (Windows)](https://web.archive.org/web/20031220074045/http://www.generation5.org/content/2002/lse.asp)
+  - [Lyndyhop: another simple L-systems generator (Windows & Mac)](https://web.archive.org/web/20081204101322/http://www.lab4web.com/chelmiger/lyndyhop/)
+  - [An evolutionary L-systems generator (anyos\*)](http://www.cs.ucl.ac.uk/staff/W.Langdon/pfeiffer.html)
+  - ["LsystemComposition"](https://web.archive.org/web/20100616013924/http://pawfal.org/index.php?page=LsystemComposition). Page at Pawfal ("poor artists working for a living") about using L-systems and [genetic algorithms](https://zh.wikipedia.org/wiki/genetic_algorithms "wikilink") to generate music.
+  - [eXtended L-Systems (XL), Relational Growth Grammars, and open-source software platform GroIMP.](http://www.grogra.de/)
+  - [A JAVA applet with many fractal figures generated by L-systems.](http://to-campos.planetaclix.pt/fractal/plantae.htm)
+  - [Another L-system applet, supporting programming, with explanation and examples.](https://web.archive.org/web/20091027012517/http://uk.geocities.com/joelewisbowen/lsystem.html)
+  - [L-systems in Architecture; genetic housing.](https://web.archive.org/web/20090225060354/http://www.arch.columbia.edu/Students/Fall2003/Cheng.Chih-Wei/)
+  - [L-systems in Plant Growth,Simulation and Visualization (PlantVR).](http://www.somporn.net/)
+  - [Musical L-systems: Theory and applications about using L-systems to generate musical structures, from waveforms to macro-forms.](http://www.modularbrains.net/support/SteliosManousakis-Musical_L-systems.pdf)
+  - [L-system digital sound synthesis: 'Do Digital Monkeys Inhabit Virtual Trees?' Electronic music piece composed with L-systems.](https://web.archive.org/web/20090106210342/http://www.modularbrains.net/dodigitalmonkeysinhabitvirtualtrees.html)
+  - [LSys/JS](https://web.archive.org/web/20090201053112/http://lsysjs.qwert.ch/) - Interactive L-System interpreter using the [Canvas HTML element](https://zh.wikipedia.org/wiki/Canvas_\(HTML_element\) "wikilink")。
+  - [Lindenmayer System for plant visualisation (Java Applet)](http://www.qwerkop.de/qwerkop-projects-lsystem.php/)。
+  - [Fractal Grower: Free Java paper folding L-System intended for elementary and middle school students.](http://cs.unm.edu/~joel/PaperFoldingFractal/paper.html)
+  - [Programmatic animations in actionscript showing various L-systems.](http://www.cove.org/default.aspx?id=1&sid=3&mid=2)
+  - [Java applet showing random L-Systems while driving down Lindenmayer Boulevard](http://www.cs.ucf.edu/~acampbel/applets/LSystems/LSystems.php)
+  - [Magic Garden - Artificial Plants Laboratory](http://sourceforge.net/projects/magicgarden/) - free plants generator using L-Systems
+  - [Inkscape](http://www.inkscape.org/) a free software vector graphics program which implements, among its plugins, an L-system generator
+  - [Garabatos](http://garabatos.wikidot.com)，an interactive evolutionary image generator based in L-Systems
+  - [Online experiments with L-Systems using JSXGraph (JavaScript)](http://jsxgraph.uni-bayreuth.de/wiki/index.php/L-systems)
 
 ## 参见
 
@@ -156,5 +110,4 @@ Lindenmayer研究海藻生长模式时提出的最早的L-系统：
 
 {{-}}
 
-[Category:生物学](https://zh.wikipedia.org/wiki/Category:生物学 "wikilink")
-[Category:形式语言](https://zh.wikipedia.org/wiki/Category:形式语言 "wikilink")
+[Category:生物学](https://zh.wikipedia.org/wiki/Category:生物学 "wikilink") [Category:形式语言](https://zh.wikipedia.org/wiki/Category:形式语言 "wikilink")

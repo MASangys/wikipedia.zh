@@ -1,12 +1,8 @@
 [Crystal_source_java.png](https://zh.wikipedia.org/wiki/File:Crystal_source_java.png "fig:Crystal_source_java.png")
 
-**Java数据库连接**，（，简称）是[Java语言中用来规范](https://zh.wikipedia.org/wiki/Java语言 "wikilink")[客户端程序如何来访问](https://zh.wikipedia.org/wiki/客户端 "wikilink")[数据库的](../Page/数据库.md "wikilink")[应用程序接口](../Page/应用程序接口.md "wikilink")，提供了诸如查询和更新数据库中数据的方法。JDBC也是[Sun
-Microsystems的](https://zh.wikipedia.org/wiki/Sun_Microsystems "wikilink")[商标](../Page/商标.md "wikilink")\[1\]。JDBC是面向[关系型数据库的](https://zh.wikipedia.org/wiki/关系型数据库 "wikilink")。
+**Java数据库连接**，（，简称）是[Java语言中用来规范](https://zh.wikipedia.org/wiki/Java语言 "wikilink")[客户端程序如何来访问](https://zh.wikipedia.org/wiki/客户端 "wikilink")[数据库](../Page/数据库.md "wikilink")的[应用程序接口](../Page/应用程序接口.md "wikilink")，提供了诸如查询和更新数据库中数据的方法。JDBC也是[Sun Microsystems的](https://zh.wikipedia.org/wiki/Sun_Microsystems "wikilink")[商标](../Page/商标.md "wikilink")\[1\]。JDBC是面向[关系型数据库的](https://zh.wikipedia.org/wiki/关系型数据库 "wikilink")。
 
-在[J2SE中](https://zh.wikipedia.org/wiki/J2SE "wikilink")，提供了一个称之为JDBC-ODBC桥（JDBC-ODBC
-Bridge\[2\]）的API。通过[ODBC](../Page/ODBC.md "wikilink")，JDBC-ODBC桥[驱动程序可以访问所有支持ODBC的关系型数据库](../Page/驱动程序.md "wikilink")。与JDBC
-API不同的是，这个驱动程序并不是由Java代码而是由[機器碼](../Page/机器语言.md "wikilink")（native
-code）编写，并且不是[开放源代码的](../Page/开放源代码.md "wikilink")\[3\]。
+在[J2SE中](https://zh.wikipedia.org/wiki/J2SE "wikilink")，提供了一个称之为JDBC-ODBC桥（JDBC-ODBC Bridge\[2\]）的API。通过[ODBC](../Page/ODBC.md "wikilink")，JDBC-ODBC桥[驱动程序](../Page/驱动程序.md "wikilink")可以访问所有支持ODBC的关系型数据库。与JDBC API不同的是，这个驱动程序并不是由Java代码而是由[機器碼](../Page/机器语言.md "wikilink")（native code）编写，并且不是[开放源代码](../Page/开放源代码.md "wikilink")的\[3\]。
 
 ## 驱动程序类型
 
@@ -27,7 +23,7 @@ JDBC驱动程序共分四种类型：
 
 ### 类型2：本地API驱动
 
-这种类型的驱动通过客户端加载数据库厂商提供的本地代码库（[C](https://zh.wikipedia.org/wiki/C语言 "wikilink")／[C++等](../Page/C++.md "wikilink")）来访问数据库，而在驱动程序中则包含了Java代码。
+这种类型的驱动通过客户端加载数据库厂商提供的本地代码库（[C](https://zh.wikipedia.org/wiki/C语言 "wikilink")／[C++](../Page/C++.md "wikilink")等）来访问数据库，而在驱动程序中则包含了Java代码。
 
 优点：
 
@@ -57,7 +53,7 @@ JDBC驱动程序共分四种类型：
 优点：
 
   - 访问速度最快；
-  - 这是最直接、最纯粹的[Java实现](../Page/Java.md "wikilink")。
+  - 这是最直接、最纯粹的[Java](../Page/Java.md "wikilink")实现。
 
 缺点：
 
@@ -66,15 +62,13 @@ JDBC驱动程序共分四种类型：
 
 ## API概述
 
-*参看[JavaSE以及](https://zh.wikipedia.org/wiki/JavaSE "wikilink")[java.sql
-API](https://web.archive.org/web/20050709074831/http://java.sun.com/j2se/1.4.2/docs/api/java/sql/package-summary.html)*
+*参看[JavaSE以及](https://zh.wikipedia.org/wiki/JavaSE "wikilink")[java.sql API](https://web.archive.org/web/20050709074831/http://java.sun.com/j2se/1.4.2/docs/api/java/sql/package-summary.html)*
 
-JDBC
-API主要位于JDK中的java.sql包中（之后扩展的内容位于javax.sql包中），主要包括（斜体代表接口，需驱动程序提供者来具体实现）：
+JDBC API主要位于JDK中的java.sql包中（之后扩展的内容位于javax.sql包中），主要包括（斜体代表接口，需驱动程序提供者来具体实现）：
 
   - DriverManager：负责加载各种不同驱动程序（Driver），并根据不同的请求，向调用者返回相应的数据库连接（Connection）。
   - *Driver*：驱动程序，会将自身加载到DriverManager中去，并处理相应的请求并返回相应的数据库连接（Connection）。
-  - *Connection*：数据库连接，负责进行与数据库间的通讯，[SQL执行以及事务处理都是在某个特定Connection环境中进行的](../Page/SQL.md "wikilink")。可以产生用以执行SQL的Statement。
+  - *Connection*：数据库连接，负责进行与数据库间的通讯，[SQL](../Page/SQL.md "wikilink")执行以及事务处理都是在某个特定Connection环境中进行的。可以产生用以执行SQL的Statement。
   - *Statement*：用以执行SQL查询和更新（针对静态SQL语句和单次执行）。
   - *PreparedStatement*：用以执行包含动态参数的SQL查询和更新（在服务器端编译，允许重复执行以提高效率）。
   - *CallableStatement*：用以调用数据库中的[存储过程](https://zh.wikipedia.org/wiki/存储过程 "wikilink")。
@@ -121,8 +115,7 @@ API主要位于JDK中的java.sql包中（之后扩展的内容位于javax.sql包
 Class.forName( "com.somejdbcvendor.TheirJdbcDriver" );
 ```
 
-然后，从DriverManager中，通过JDBC
-[URL](https://zh.wikipedia.org/wiki/URL "wikilink")，用户名，密码来获取相应的数据库连接（*Connection*）：
+然后，从DriverManager中，通过JDBC [URL](https://zh.wikipedia.org/wiki/URL "wikilink")，用户名，密码来获取相应的数据库连接（*Connection*）：
 
 ``` java
 Connection conn = DriverManager.getConnection(
@@ -155,7 +148,7 @@ Connection conn = DriverManager.getConnection(
  stmt.close();
 ```
 
-但是，通常，Java[程序员们更倾向于使用](../Page/程序员.md "wikilink")*PreparedStatement*。下面的例子使用上例中的conn对象：
+但是，通常，Java[程序员](../Page/程序员.md "wikilink")们更倾向于使用*PreparedStatement*。下面的例子使用上例中的conn对象：
 
 ``` java
  PreparedStatement ps = null;
@@ -195,7 +188,7 @@ Connection conn = DriverManager.getConnection(
 
 如果数据库操作失败，JDBC将抛出一个[SQLException](https://zh.wikipedia.org/wiki/SQLException "wikilink")。一般来说，此类异常很少能够恢复，唯一能做的就是尽可能详细的打印异常日记。推荐的做法是将SQLException翻译成应用程序领域相关的异常（非强制处理异常）并最终回滚数据库和通知用户。
 
-一个[数据库事务代码如下](../Page/数据库事务.md "wikilink")：
+一个[数据库事务](../Page/数据库事务.md "wikilink")代码如下：
 
 ``` java
 boolean autoCommitDefault = conn.getAutoCommit();
@@ -221,8 +214,7 @@ try {
   - [Sun提供的教程](https://web.archive.org/web/20041209205155/http://java.sun.com/docs/books/tutorial/post1.0/whatsnew/jdbc.html)
   - [Sun Java 2 1.4.2 API](http://java.sun.com/j2se/1.4.2/docs/api/)
   - [一个订单系统的原形](http://java.sun.com/developer/technicalArticles/Database/dukesbakery/)
-  - [DBAccessor:
-    JDBC数据库访问封装类](http://java.sun.com/developer/technicalArticles/Database/dbaccessor/)
+  - [DBAccessor: JDBC数据库访问封装类](http://java.sun.com/developer/technicalArticles/Database/dbaccessor/)
   - [开源的JDBC驱动程序列表](http://java-source.net/open-source/database-engines)
   - <http://blog.csdn.net/cho3en1/article/details/52695808>
 
@@ -238,10 +230,7 @@ try {
 
 {{-}}
 
-[Category:应用程序接口](https://zh.wikipedia.org/wiki/Category:应用程序接口 "wikilink")
-[Category:Java](https://zh.wikipedia.org/wiki/Category:Java "wikilink")
-[Category:Java规范请求](https://zh.wikipedia.org/wiki/Category:Java规范请求 "wikilink")
-[Category:数据库](https://zh.wikipedia.org/wiki/Category:数据库 "wikilink")
+[Category:应用程序接口](https://zh.wikipedia.org/wiki/Category:应用程序接口 "wikilink") [Category:Java](https://zh.wikipedia.org/wiki/Category:Java "wikilink") [Category:Java规范请求](https://zh.wikipedia.org/wiki/Category:Java规范请求 "wikilink") [Category:数据库](https://zh.wikipedia.org/wiki/Category:数据库 "wikilink")
 
 1.  [1](http://java.sun.com/j2se/1.5.0/docs/guide/jdbc/getstart/intro.html#1018466)
 2.

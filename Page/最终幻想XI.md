@@ -1,37 +1,28 @@
-是由[史克威尔](https://zh.wikipedia.org/wiki/史克威尔 "wikilink")（后来为[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")）开发的[大型多人在线角色扮演游戏](../Page/大型多人在线角色扮演游戏.md "wikilink")（MMORPG），为[最终幻想系列的一作](https://zh.wikipedia.org/wiki/最终幻想系列 "wikilink")。游戏由[田中弘道设计并制作](../Page/田中弘道.md "wikilink")，于2002年5月16日在日本[索尼](../Page/索尼.md "wikilink")[PlayStation
-2平台首发](../Page/PlayStation_2.md "wikilink")，次年又在[Microsoft
-Windows平台](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[个人电脑发行](../Page/个人电脑.md "wikilink")。游戏是首款[跨平台MMORPG](https://zh.wikipedia.org/wiki/跨平台 "wikilink")，也是[Xbox
-360的首款MMORPG](../Page/Xbox_360.md "wikilink")\[1\]。各版本的游戏皆需每月缴纳订阅金\[2\]。
+是由[史克威尔](https://zh.wikipedia.org/wiki/史克威尔 "wikilink")（后来为[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")）开发的[大型多人在线角色扮演游戏](../Page/大型多人在线角色扮演游戏.md "wikilink")（MMORPG），为[最终幻想系列的一作](https://zh.wikipedia.org/wiki/最终幻想系列 "wikilink")。游戏由[田中弘道](../Page/田中弘道.md "wikilink")设计并制作，于2002年5月16日在日本[索尼](../Page/索尼.md "wikilink")[PlayStation 2平台首发](../Page/PlayStation_2.md "wikilink")，次年又在[Microsoft Windows平台](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[个人电脑](../Page/个人电脑.md "wikilink")发行。游戏是首款[跨平台MMORPG](https://zh.wikipedia.org/wiki/跨平台 "wikilink")，也是[Xbox 360的首款MMORPG](../Page/Xbox_360.md "wikilink")\[1\]。各版本的游戏皆需每月缴纳订阅金\[2\]。
 
 游戏情节设定于名为维纳戴尔的[奇幻世界](https://zh.wikipedia.org/wiki/奇幻 "wikilink")，玩家建立的[化身通过在各种目标中竞争与合作](https://zh.wikipedia.org/wiki/化身 "wikilink")，来发展各种职业和技能，并赢取游戏内的物品奖励。玩家还能开展大量任务，并通过游戏的等级制度发展，继而完成游戏的主要情节。自游戏2002年首发以来，另有五部[资料片和六部附加剧本发行](https://zh.wikipedia.org/wiki/资料片 "wikilink")\[3\]。每部资料片和附加剧本都为《最终幻想XI》的世界加入新的主线剧情，以及大量区域、任务、事件和道具奖励。
 
-2006年时，每日有20至30万活跃用户登录，是日本占主导地位的MMORPG\[4\]。2008年史克威尔艾尼克斯宣布，《最终幻想XI》有50万订阅者的强大用户基础\[5\]，2009年4月，官方宣布活跃角色总数首次突破200万\[6\]。2012年6月，史克威尔时任总裁[和田洋一公布](../Page/和田洋一.md "wikilink")，《最终幻想XI》成为最终幻想系列获利最多的作品\[7\]。
+2006年时，每日有20至30万活跃用户登录，是日本占主导地位的MMORPG\[4\]。2008年史克威尔艾尼克斯宣布，《最终幻想XI》有50万订阅者的强大用户基础\[5\]，2009年4月，官方宣布活跃角色总数首次突破200万\[6\]。2012年6月，史克威尔时任总裁[和田洋一](../Page/和田洋一.md "wikilink")公布，《最终幻想XI》成为最终幻想系列获利最多的作品\[7\]。
 
 ## 游戏玩法
 
 《最终幻想XI》除为MMORPG外，在多个方面都与系列前作有着不同。和之前最终幻想作品预设主角不同，玩家可以有限的定制自己的角色，包括从五个种族、性别、脸型、发色、血型、职业和效忠国家的每项各选择其一。同样和系列之前游戏不同，作品使用全[三维画面](https://zh.wikipedia.org/wiki/三维空间 "wikilink")；而和前作使用的[随机遇敌相对](https://zh.wikipedia.org/wiki/随机遇敌 "wikilink")，敌人会在地图中自由移动，战斗可实时发生——这一趋势在之后各本传作品中延续\[8\]。
 
-游戏目前有16个公开[游戏服务器可供游玩](https://zh.wikipedia.org/wiki/游戏服务器 "wikilink")，每个服务器有1.5至2万玩家，服务器数量最高曾达到32\[9\]。在2011年年中，曾向符合资格的玩家开放私密测试服务器，以收集开发中游戏的最新反馈。这些服务器以最终幻想前作中的召唤兽命名，如[伊芙利特和迪亚波罗斯](https://zh.wikipedia.org/wiki/伊芙利特 "wikilink")。玩家可以在服务器间迁移，但需向史克威尔艾尼克斯缴纳一笔“世界传送”金\[10\]\[11\]。和多数网络游戏不同，游戏不设区域专用或系统专用服务器，不同语言的会玩家在一个服务器上游戏，并可通过翻译短语库的自动翻译交流\[12\]。游戏服务器由史克威尔艾尼克斯的[PlayOnline网络运行](../Page/PlayOnline.md "wikilink")。
+游戏目前有16个公开[游戏服务器可供游玩](https://zh.wikipedia.org/wiki/游戏服务器 "wikilink")，每个服务器有1.5至2万玩家，服务器数量最高曾达到32\[9\]。在2011年年中，曾向符合资格的玩家开放私密测试服务器，以收集开发中游戏的最新反馈。这些服务器以最终幻想前作中的召唤兽命名，如[伊芙利特和迪亚波罗斯](https://zh.wikipedia.org/wiki/伊芙利特 "wikilink")。玩家可以在服务器间迁移，但需向史克威尔艾尼克斯缴纳一笔“世界传送”金\[10\]\[11\]。和多数网络游戏不同，游戏不设区域专用或系统专用服务器，不同语言的会玩家在一个服务器上游戏，并可通过翻译短语库的自动翻译交流\[12\]。游戏服务器由史克威尔艾尼克斯的[PlayOnline](../Page/PlayOnline.md "wikilink")网络运行。
 
 ### 界面
 
-玩家可以自由组合使用键盘、鼠标或[控制器开始游戏](../Page/游戏控制器.md "wikilink")。默认情况下，PlayStation
-2和Xbox
-360玩家使用游戏虚拟键盘选项，玩家也可使用USB外接键盘在游戏中交流。《最终幻想XI》的[平视显示器有日志窗口](https://zh.wikipedia.org/wiki/HUD "wikilink")、菜单和一些游戏信息元素组成。日志窗口在屏幕底部显示系统信息、战斗信息，以及其他玩家打出的文字。玩家可以选择过滤日志窗口显示的信息。“菜单”允许玩家使用不同命令、查看状态窗口，并配置选项。“动作命令菜单”在日志窗口略上方显示，列有几个让玩家与游戏世界互动的选项。一些菜单选项也可通过键盘快捷键执行\[13\]。
+玩家可以自由组合使用键盘、鼠标或[控制器开始游戏](../Page/游戏控制器.md "wikilink")。默认情况下，PlayStation 2和Xbox 360玩家使用游戏虚拟键盘选项，玩家也可使用USB外接键盘在游戏中交流。《最终幻想XI》的[平视显示器有日志窗口](https://zh.wikipedia.org/wiki/HUD "wikilink")、菜单和一些游戏信息元素组成。日志窗口在屏幕底部显示系统信息、战斗信息，以及其他玩家打出的文字。玩家可以选择过滤日志窗口显示的信息。“菜单”允许玩家使用不同命令、查看状态窗口，并配置选项。“动作命令菜单”在日志窗口略上方显示，列有几个让玩家与游戏世界互动的选项。一些菜单选项也可通过键盘快捷键执行\[13\]。
 
 ### 基本玩法
 
 《最终幻想XI》与剧情相关的游戏系统包括两大部分：完成游戏主线情节的任务，以及虽不推动主线情节，但能补充游戏奇幻世界的[探索](https://zh.wikipedia.org/wiki/探索_\(电子游戏\) "wikilink")\[14\]。完成任务可让玩家提升级别，使之可进入新的区域、获得特权，以及开启其它故事情节。最初玩家只能为其祖国完成任务，但之后玩家可改变效忠国家，并开始其他国家的故事情节。做任务可得到各种奖励或取得“名望”，名望可以使角色在[非玩家角色](../Page/非玩家角色.md "wikilink")（NPC）中知名并受尊重；高名望等级会开放与NPC间的新互动与任务。游戏在发行时就有百余个可玩任务，各资料片又追加了自己的一套任务和探索\[15\]。通过完成任务、探索或击败兽人，玩家可以获得游戏内的金钱基尔（Gil），和以前的最终幻想游戏不同，怪物只能掉落少量金钱。基尔可以用来在拍卖场中玩家交易货物，也可以用于从NPC处购买道具和奖品。
 
-和一些MMORPG不同，游戏很少关注[玩家对战](https://zh.wikipedia.org/wiki/玩家对战 "wikilink")（PvP），而是围绕着[玩家对抗环境](https://zh.wikipedia.org/wiki/玩家对抗环境 "wikilink")（PvE）。游戏有大量的PvE活动与事件可供玩家参与，包括[副本活动以及公用空间活动](https://zh.wikipedia.org/wiki/副本_\(电子游戏\) "wikilink")。一些实例化事件如Dynamis、Salvage、Assault和Nyzul
-Isle，随时可以容纳6至64名玩家\[16\]。在这些战场中，玩家要完成一系列具体目标，或是击败敌人，并通常要在一定时限内完成。公用空间活动包括狩猎[头目怪兽](https://zh.wikipedia.org/wiki/头目_\(角色类型\) "wikilink")（Notorious
-Monsters），以及会掉落珍贵战利品但很少出现的恶魔。
+和一些MMORPG不同，游戏很少关注[玩家对战](https://zh.wikipedia.org/wiki/玩家对战 "wikilink")（PvP），而是围绕着[玩家对抗环境](https://zh.wikipedia.org/wiki/玩家对抗环境 "wikilink")（PvE）。游戏有大量的PvE活动与事件可供玩家参与，包括[副本活动以及公用空间活动](https://zh.wikipedia.org/wiki/副本_\(电子游戏\) "wikilink")。一些实例化事件如Dynamis、Salvage、Assault和Nyzul Isle，随时可以容纳6至64名玩家\[16\]。在这些战场中，玩家要完成一系列具体目标，或是击败敌人，并通常要在一定时限内完成。公用空间活动包括狩猎[头目怪兽](https://zh.wikipedia.org/wiki/头目_\(角色类型\) "wikilink")（Notorious Monsters），以及会掉落珍贵战利品但很少出现的恶魔。
 
 在PvP中攻击其他玩家，唯有是进入两个竞赛活动之一的“Conflict”\[17\]。第一种竞赛形式叫做Ballista，是玩家竞争将petra投入城堡状结构的Root拿分\[18\]\[19\]。第二种形式叫做“Brenner”，为抢旗类系统游戏。
 
-《最终幻想XI》有时会举办特定季节性节庆和活动。他们只持续一定时间，并提供各种有趣或有用的奖励。许多事件已经随时间而改变，加入了新功能并取消旧功能。这些活动面向全部等级，通常允许1级的玩家，因此新老玩家可以一起参与。庆祝活动主题通常基于对应的现实世界事物，比如Valentione's
-Day发生于[情人节](../Page/情人节.md "wikilink")（Valentine's Day），Egg Hunt
-Egg-stravaganza发生于[复活节](https://zh.wikipedia.org/wiki/复活节 "wikilink")，星光庆典发生于[圣诞节](../Page/圣诞节.md "wikilink")。
+《最终幻想XI》有时会举办特定季节性节庆和活动。他们只持续一定时间，并提供各种有趣或有用的奖励。许多事件已经随时间而改变，加入了新功能并取消旧功能。这些活动面向全部等级，通常允许1级的玩家，因此新老玩家可以一起参与。庆祝活动主题通常基于对应的现实世界事物，比如Valentione's Day发生于[情人节](../Page/情人节.md "wikilink")（Valentine's Day），Egg Hunt Egg-stravaganza发生于[复活节](https://zh.wikipedia.org/wiki/复活节 "wikilink")，星光庆典发生于[圣诞节](../Page/圣诞节.md "wikilink")。
 
 ### 战斗与团队系统
 
@@ -53,14 +44,13 @@ Egg-stravaganza发生于[复活节](https://zh.wikipedia.org/wiki/复活节 "wik
 
 ### 小游戏
 
-玩家除了完成任务，还能参与一些支线[小游戏和其他活动](https://zh.wikipedia.org/wiki/小游戏 "wikilink")\[22\]。小游戏之一是钓鱼，玩家可以和企图抓住的鱼对抗衡量力量。另一游戏是捞蛤，玩家不受桶大小的限制，尽可能多的收集鱼或海产。园艺可让玩家在住宅，或游戏中称的“莫古之屋”，种植植物\[23\]。长期受到请求的[陆行鸟育养活动在](../Page/陆行鸟.md "wikilink")2006年夏的更新中加入\[24\]。陆行鸟竞速从2007年3月开始，玩家的陆行鸟坐骑和[非玩家角色](../Page/非玩家角色.md "wikilink")（NPC）的陆行鸟对抗。胜利赛手可以获得用于购买道具的“陆行鸟元”（Chocobucks），比如可换得陆行鸟养殖辅助道具\[25\]。
+玩家除了完成任务，还能参与一些支线[小游戏和其他活动](https://zh.wikipedia.org/wiki/小游戏 "wikilink")\[22\]。小游戏之一是钓鱼，玩家可以和企图抓住的鱼对抗衡量力量。另一游戏是捞蛤，玩家不受桶大小的限制，尽可能多的收集鱼或海产。园艺可让玩家在住宅，或游戏中称的“莫古之屋”，种植植物\[23\]。长期受到请求的[陆行鸟](../Page/陆行鸟.md "wikilink")育养活动在2006年夏的更新中加入\[24\]。陆行鸟竞速从2007年3月开始，玩家的陆行鸟坐骑和[非玩家角色](../Page/非玩家角色.md "wikilink")（NPC）的陆行鸟对抗。胜利赛手可以获得用于购买道具的“陆行鸟元”（Chocobucks），比如可换得陆行鸟养殖辅助道具\[25\]。
 
 游戏一个重要部分是道具，特别是稀有道具的积累，它们可以让玩家制作强力武器、防具和食物。道具入手方式多种多样，如收割、挖掘、伐木、采矿、击败怪物、陆行鸟挖掘等。史克威尔艾尼克斯试图增加玩家找到稀有道具的机会，以此平衡游戏、停止“销售吉尔”业务，以及现金交易游戏道具\[26\]。道具拍卖系统曾因玩家不当利用而暂时关闭\[27\]。道具可以由消耗性元素水晶（同怪物战斗获得）和其他材料“合成”\[28\]。配方结果因玩家技能、玩家穿着装备质量和使用原料而异。
 
 ### 游戏经济
 
-《最终幻想XI》有大量以玩家为基础的经济，它严重依赖于维纳戴尔各主要城市的“拍卖行”。设有专门的经济控制，主要收费提供道具拍卖。交通、拍卖行、道具储存、和手续费不会流向玩家；这些抽取的吉尔有效抑制了经济[通货膨胀](../Page/通货膨胀.md "wikilink")。Jeuno城曾在城内市场采购抽税，但在2008年12月的更新中除去此功能\[29\]。Aht
-Urghan Whitegate和Al Zahbi区域仍然抽税。
+《最终幻想XI》有大量以玩家为基础的经济，它严重依赖于维纳戴尔各主要城市的“拍卖行”。设有专门的经济控制，主要收费提供道具拍卖。交通、拍卖行、道具储存、和手续费不会流向玩家；这些抽取的吉尔有效抑制了经济[通货膨胀](../Page/通货膨胀.md "wikilink")。Jeuno城曾在城内市场采购抽税，但在2008年12月的更新中除去此功能\[29\]。Aht Urghan Whitegate和Al Zahbi区域仍然抽税。
 
 史克威尔艾尼克斯称，现金交易道具违反《最终幻想XI》[使用条款](https://zh.wikipedia.org/wiki/使用条款 "wikilink")\[30\]。史克威尔艾尼克斯在2006年上半年发现一组玩家以虚拟货币交换真实货币，反过来推动游戏全部道具价格上涨。史克威尔将700个账号永久封禁，并将3,000亿吉尔从流通中收回\[31\]。公司又在2006年7月封禁或暂停另外8,000个类似操作与交易的账号\[32\]。自2006年来，史克威尔艾尼克斯定期封禁违反条款的账号——其中包括一些使用第三方工具的人——并从游戏经济中移除数十亿吉尔。
 
@@ -68,36 +58,25 @@ Urghan Whitegate和Al Zahbi区域仍然抽税。
 
 ### 设定
 
-《最终幻想XI》设定于富饶的世界维纳戴尔，这里从北部的冰川和南部的沙漠，到亚空间和天空大陆，气候不同\[33\]。维纳戴尔分为数个区域，之下再细分为“地区”。这些地区包括室外区域、迷宫、城市和集落，可供玩家探索。玩家能探索部分维纳戴尔，包括中大陆、近东，在《雅特林的魔境》发行后还能探索近西\[34\]。可探索的大陆有六个城邦，Bastok共和国、San
-d'Oria王国、Windurst联邦、Jeuno大公国、Aht
-Urhgan帝国和雅特林圣都。大多数区域可以通过步行与各种交通方式到达，交通方式包括最终幻想传统的[陆行鸟和飞空艇](../Page/陆行鸟.md "wikilink")，以及便于在游戏世界移动的特殊魔法。
+《最终幻想XI》设定于富饶的世界维纳戴尔，这里从北部的冰川和南部的沙漠，到亚空间和天空大陆，气候不同\[33\]。维纳戴尔分为数个区域，之下再细分为“地区”。这些地区包括室外区域、迷宫、城市和集落，可供玩家探索。玩家能探索部分维纳戴尔，包括中大陆、近东，在《雅特林的魔境》发行后还能探索近西\[34\]。可探索的大陆有六个城邦，Bastok共和国、San d'Oria王国、Windurst联邦、Jeuno大公国、Aht Urhgan帝国和雅特林圣都。大多数区域可以通过步行与各种交通方式到达，交通方式包括最终幻想传统的[陆行鸟](../Page/陆行鸟.md "wikilink")和飞空艇，以及便于在游戏世界移动的特殊魔法。
 
 太古传说称，维纳戴尔是作为神及后裔的游乐场而创造，他们自己则是由有灵性的巨大水晶产生。孩子最终希望与神成为一体，建立了通向乐园的道路。然而他们被他们的傲慢打倒，他们的城市沉到了海底。女神Altana看到他的孩子毁灭后充满悲伤，落下五滴泪水成为了维纳戴尔的五个文明种族。然而曙光之神Promathia谴责他的弱点和源于他的生命。Promathia通过引发五种族间最黑暗的属性——人族的无知、精灵族的傲慢、巨人族的憎恶、矮人族的怯懦、猫人族嫉妒——诅咒他们发生无穷的冲突。他创造了兽人命令他们永远和维纳戴尔的人战争并控制他们的思想，因此这些孩子永远没有时间聚集在一起创造一条如同之前的道路\[35\]。创造传说的灵性水晶、神、孩子和背后的事实是《最终幻想XI》几部资料片的主要情节，同时游戏部分主要反派是兽人。
 
-游戏设定于水晶战争20年后，这场战争发生在中大陆，Bastok、San d'Oria和Windurst和Shadow
-Lord及其军队激战并获胜。玩家在原故事中处理战争后事，并可能在资料片《阿爾塔娜的神兵》中回到过去援助战争。游戏有几个[平行世界](https://zh.wikipedia.org/wiki/平行世界 "wikilink")，如《Dynamis
-and Abyssea》中有兽人赢得水晶战争并征服大陆。
+游戏设定于水晶战争20年后，这场战争发生在中大陆，Bastok、San d'Oria和Windurst和Shadow Lord及其军队激战并获胜。玩家在原故事中处理战争后事，并可能在资料片《阿爾塔娜的神兵》中回到过去援助战争。游戏有几个[平行世界](https://zh.wikipedia.org/wiki/平行世界 "wikilink")，如《Dynamis and Abyssea》中有兽人赢得水晶战争并征服大陆。
 
 ### 角色
 
 《最终幻想XI》有5种玩家种族被称为“文明种族”：
 
-  -  :
-    发源于Bastok共和国，是维纳戴尔最常见的种族，以智慧和在各领域的高级技能而知名。人族能力平衡，传说背负“无知”的诅咒。他们相当于游戏中的人类。
-        : 傲慢的尚武种族，家乡是San
-    d'Oria王国。精灵族对他们的信仰有不可动摇的骄傲和信念，许多远避商业世界，作为老练的剑士简朴生活。精灵族有强大的力量和精神，但MP与智慧较低。精灵族传说背负“傲慢”的诅咒。
-        :
-    来自Windurst联邦的魔法使种族。矮人族外表如同孩子，但和实际年龄不相称。矮人族俏皮又狡猾。他们的MP和智慧在所有种族中最高，而HP和力量最低。矮人族传说背负着“怯懦”的诅咒。
-        :
-    猫人族和矮人族一同生活在Windurst联邦，是猎人种族。他们以活力、好奇心、爱好顽皮恶作剧而知名。他们因性别失衡而少见，因此女性猫人族离开家乡，因此玩家只能选择女性作可玩角色。他们的灵活与敏捷度高，但HP和魅力低。猫人族背负“嫉妒”的诅咒。
-        :
-    巨人种族，强大的战士，首度在600年前因战争毁灭。许多幸存组人定居Bastok，并成为城市劳动力的下层阶级。巨人族是无性种族，但因为体质常被误解为男性——他们通过转生方式再生。他们有最高的HP和生命力，但MP是最低的。巨人族传说受到“憎恶”的诅咒
-    \[36\]。
+  -  : 发源于Bastok共和国，是维纳戴尔最常见的种族，以智慧和在各领域的高级技能而知名。人族能力平衡，传说背负“无知”的诅咒。他们相当于游戏中的人类。
+     : 傲慢的尚武种族，家乡是San d'Oria王国。精灵族对他们的信仰有不可动摇的骄傲和信念，许多远避商业世界，作为老练的剑士简朴生活。精灵族有强大的力量和精神，但MP与智慧较低。精灵族传说背负“傲慢”的诅咒。
+     : 来自Windurst联邦的魔法使种族。矮人族外表如同孩子，但和实际年龄不相称。矮人族俏皮又狡猾。他们的MP和智慧在所有种族中最高，而HP和力量最低。矮人族传说背负着“怯懦”的诅咒。
+     : 猫人族和矮人族一同生活在Windurst联邦，是猎人种族。他们以活力、好奇心、爱好顽皮恶作剧而知名。他们因性别失衡而少见，因此女性猫人族离开家乡，因此玩家只能选择女性作可玩角色。他们的灵活与敏捷度高，但HP和魅力低。猫人族背负“嫉妒”的诅咒。
+     : 巨人种族，强大的战士，首度在600年前因战争毁灭。许多幸存组人定居Bastok，并成为城市劳动力的下层阶级。巨人族是无性种族，但因为体质常被误解为男性——他们通过转生方式再生。他们有最高的HP和生命力，但MP是最低的。巨人族传说受到“憎恶”的诅咒 \[36\]。
 
 除了可玩种族外，游戏还有两种非玩家文明种族Zilart和Kuluu。这些古代种族被认为灭亡，还是前两个游戏资料片的焦点。他们还是有关任务和故事的重要配角NPC。哥布林、Sahagin和冬贝利等最终幻想代表怪物也在游戏中的登场。其他种族有较高智慧、显示自我意识、情绪、文化和宗教的兽人。文明种族和兽人间复杂的关系、偏见和冲突的原因是遍穿游戏的情节点\[37\]。
 
-《最终幻想XI》在《[最终幻想
-纷争](https://zh.wikipedia.org/wiki/最终幻想_纷争 "wikilink")》的代表者为来自Windurst故事的女性Tarutaru黑魔法师珊多多，日版和美版分别由[林原惠和](../Page/林原惠.md "wikilink")[坎迪·米洛配音](https://zh.wikipedia.org/wiki/坎迪·米洛 "wikilink")\[38\]\[39\]。续作《[纷争012](https://zh.wikipedia.org/wiki/最终幻想_纷争012 "wikilink")》加入了来自Tavnazia的女Elvaan族人Prishe，她是资料片《普罗玛西亚的咒缚》的主角。
+《最终幻想XI》在《[最终幻想 纷争](https://zh.wikipedia.org/wiki/最终幻想_纷争 "wikilink")》的代表者为来自Windurst故事的女性Tarutaru黑魔法师珊多多，日版和美版分别由[林原惠](../Page/林原惠.md "wikilink")和[坎迪·米洛配音](https://zh.wikipedia.org/wiki/坎迪·米洛 "wikilink")\[38\]\[39\]。续作《[纷争012](https://zh.wikipedia.org/wiki/最终幻想_纷争012 "wikilink")》加入了来自Tavnazia的女Elvaan族人Prishe，她是资料片《普罗玛西亚的咒缚》的主角。
 
 ### 故事
 
@@ -105,40 +84,21 @@ and Abyssea》中有兽人赢得水晶战争并征服大陆。
 
 [HiromichiTanaka20070131.jpg](https://zh.wikipedia.org/wiki/File:HiromichiTanaka20070131.jpg "fig:HiromichiTanaka20070131.jpg")
 
-当[坂口博信在](../Page/坂口博信.md "wikilink")[夏威夷建立](https://zh.wikipedia.org/wiki/夏威夷 "wikilink")[Square
-Pictures总部时](https://zh.wikipedia.org/wiki/Square_Pictures "wikilink")，就有了将《最终幻想XI》开发为在线游戏的想法。
-他对《[无尽的任务](../Page/无尽的任务.md "wikilink")》等西方MMORPG印象深刻，并说服史克威尔以最终幻想品牌开发自己的MMORPG\[40\]。《[穿越时空](../Page/穿越时空.md "wikilink")》的负责团队在英文本地化完成后就加入《最终幻想XI》开发\[41\]。开发始于1999年11月。游戏起先在史克威尔的“全平台和媒介”开发新哲学下开发\[42\]。
+当[坂口博信](../Page/坂口博信.md "wikilink")在[夏威夷建立](https://zh.wikipedia.org/wiki/夏威夷 "wikilink")[Square Pictures总部时](https://zh.wikipedia.org/wiki/Square_Pictures "wikilink")，就有了将《最终幻想XI》开发为在线游戏的想法。 他对《[无尽的任务](../Page/无尽的任务.md "wikilink")》等西方MMORPG印象深刻，并说服史克威尔以最终幻想品牌开发自己的MMORPG\[40\]。《[穿越时空](../Page/穿越时空.md "wikilink")》的负责团队在英文本地化完成后就加入《最终幻想XI》开发\[41\]。开发始于1999年11月。游戏起先在史克威尔的“全平台和媒介”开发新哲学下开发\[42\]。
 
-制作人[田中弘道称](../Page/田中弘道.md "wikilink")《最终幻想XI》受到《[最终幻想III](../Page/最终幻想III.md "wikilink")》的极大影响，特别是其战斗和魔法系统\[43\]。田中表示因为技术限制，史克威尔不得不投入最终幻想历史上空前的精力，因此《最终幻想XI》成为“史上最（具代表性的）最终幻想”\[44\]。游戏在[英伟达GeForce](../Page/英伟达.md "wikilink")
-4
-Ti[图形处理器下开发并运行](https://zh.wikipedia.org/wiki/图形处理器 "wikilink")，史克威尔总裁[和田洋一称其为当时所能使用最强劲的图形处理器](../Page/和田洋一.md "wikilink")\[45\]。连同创作[PlayOnline网络服务在内](../Page/PlayOnline.md "wikilink")，游戏耗资20－30亿日圆（约合1700－2500万美元），这一耗资预期5年才能盈利\[46\]。游戏没有按照语言[分割而是采用统一的世界](../Page/巴尔干化.md "wikilink")，开发耗资因此削减66%\[47\]\[48\]。因系列常驻怪物在日本和美版作品中名称不同，因此《最终幻想XI》为同一只怪物同时标记日版名和美版名\[49\]。
+制作人[田中弘道](../Page/田中弘道.md "wikilink")称《最终幻想XI》受到《[最终幻想III](../Page/最终幻想III.md "wikilink")》的极大影响，特别是其战斗和魔法系统\[43\]。田中表示因为技术限制，史克威尔不得不投入最终幻想历史上空前的精力，因此《最终幻想XI》成为“史上最（具代表性的）最终幻想”\[44\]。游戏在[英伟达](../Page/英伟达.md "wikilink")GeForce 4 Ti[图形处理器下开发并运行](https://zh.wikipedia.org/wiki/图形处理器 "wikilink")，史克威尔总裁[和田洋一](../Page/和田洋一.md "wikilink")称其为当时所能使用最强劲的图形处理器\[45\]。连同创作[PlayOnline](../Page/PlayOnline.md "wikilink")网络服务在内，游戏耗资20－30亿日圆（约合1700－2500万美元），这一耗资预期5年才能盈利\[46\]。游戏没有按照语言[分割而是采用统一的世界](../Page/巴尔干化.md "wikilink")，开发耗资因此削减66%\[47\]\[48\]。因系列常驻怪物在日本和美版作品中名称不同，因此《最终幻想XI》为同一只怪物同时标记日版名和美版名\[49\]。
 
-最初宣称游戏会在日本和北美的[PlayStation
-2和](../Page/PlayStation_2.md "wikilink")[个人电脑上同时发行](../Page/个人电脑.md "wikilink")，但之后改变了\[50\]。亦有讨论过[Xbox版](../Page/Xbox.md "wikilink")，但主要因为其不高的8
-GB硬盘空间而放弃\[51\]。游戏最早在2000年1月的横滨千禧年发布会上公布，但获得非常多的负面评论\[52\]。对于游戏以系列第11作为名出现质疑，因为不清楚游戏是否会有条理性的故事，有什么样的结局，并被提议标题“最终幻想Online”\[53\]。日本次年8月至12月间举办了公开[beta测试](https://zh.wikipedia.org/wiki/beta测试 "wikilink")\[54\]。
+最初宣称游戏会在日本和北美的[PlayStation 2和](../Page/PlayStation_2.md "wikilink")[个人电脑](../Page/个人电脑.md "wikilink")上同时发行，但之后改变了\[50\]。亦有讨论过[Xbox](../Page/Xbox.md "wikilink")版，但主要因为其不高的8 GB硬盘空间而放弃\[51\]。游戏最早在2000年1月的横滨千禧年发布会上公布，但获得非常多的负面评论\[52\]。对于游戏以系列第11作为名出现质疑，因为不清楚游戏是否会有条理性的故事，有什么样的结局，并被提议标题“最终幻想Online”\[53\]。日本次年8月至12月间举办了公开[beta测试](https://zh.wikipedia.org/wiki/beta测试 "wikilink")\[54\]。
 
-IGN在《最终幻想XI》PC版发行后，将游戏列为2004年最期待PlayStation
-2游戏之一\[55\]。索尼于广告宣传上斥资数百万美金，宣传《最终幻想XI》及游戏必须的[PlayStation
-2硬盘扩充配件](../Page/PlayStation_2.md "wikilink")\[56\]。随着PlayStation
-2版的发行，游戏成为首个[跨平台MMORPG](https://zh.wikipedia.org/wiki/跨平台 "wikilink")\[57\]。因数据库服务器维护和文本界面问题修正，游戏服务器在2002年6月14日关闭4小时，同时发布的还有新客户端补丁\[58\]。这被视为史上首个游戏机游戏补丁\[59\]。其他早期问题还有，美国玩家不满资深日本玩家已经完成全部任务。作为回应，史克威尔艾尼克斯为少数资深玩家新增了新游戏世界服务器\[60\]。
+IGN在《最终幻想XI》PC版发行后，将游戏列为2004年最期待PlayStation 2游戏之一\[55\]。索尼于广告宣传上斥资数百万美金，宣传《最终幻想XI》及游戏必须的[PlayStation 2硬盘扩充配件](../Page/PlayStation_2.md "wikilink")\[56\]。随着PlayStation 2版的发行，游戏成为首个[跨平台MMORPG](https://zh.wikipedia.org/wiki/跨平台 "wikilink")\[57\]。因数据库服务器维护和文本界面问题修正，游戏服务器在2002年6月14日关闭4小时，同时发布的还有新客户端补丁\[58\]。这被视为史上首个游戏机游戏补丁\[59\]。其他早期问题还有，美国玩家不满资深日本玩家已经完成全部任务。作为回应，史克威尔艾尼克斯为少数资深玩家新增了新游戏世界服务器\[60\]。
 
-《最终幻想XI》是最早的跨主机游戏之一，并更新软件供游戏在新主机上运行。史克威尔艾尼克斯称，[任天堂](../Page/任天堂.md "wikilink")“[好友代码](https://zh.wikipedia.org/wiki/好友代码 "wikilink")”的使用是《最终幻想XI》未登陆[Wii的主因](../Page/Wii.md "wikilink")\[61\]。2006年12月时，PlayStation
-2版的PlayOnline和《最终幻想XI》可以在[PlayStation
-3上安装并运行](../Page/PlayStation_3.md "wikilink")。PlayStation
-2版《维纳戴尔合辑2008》碟片起先因不在索尼[PlayStation
-3固件HDD兼容名单中](../Page/PlayStation_3.md "wikilink")，故最开始PlayStation
-3上安装出现问题。索尼在2007年12月18日发布PlayStation 3发布固件更新后这一问题得到解决。自此所有向下兼容机型——20
-GB机型\#CECHB01、60 GB机型\#CECHA01和80
-GB机型\#CECHE01——都可以运行《最终幻想XI》。在和[微软合作解决](../Page/微软.md "wikilink")《最终幻想XI》的[Windows
-Vista兼容性问题后](../Page/Windows_Vista.md "wikilink")，史克威尔艾尼克斯发行了下载版PlayOnline客户端，该客户端可以兼容系统但存在少量问题\[62\]。
+《最终幻想XI》是最早的跨主机游戏之一，并更新软件供游戏在新主机上运行。史克威尔艾尼克斯称，[任天堂](../Page/任天堂.md "wikilink")“[好友代码](https://zh.wikipedia.org/wiki/好友代码 "wikilink")”的使用是《最终幻想XI》未登陆[Wii](../Page/Wii.md "wikilink")的主因\[61\]。2006年12月时，PlayStation 2版的PlayOnline和《最终幻想XI》可以在[PlayStation 3上安装并运行](../Page/PlayStation_3.md "wikilink")。PlayStation 2版《维纳戴尔合辑2008》碟片起先因不在索尼[PlayStation 3固件HDD兼容名单中](../Page/PlayStation_3.md "wikilink")，故最开始PlayStation 3上安装出现问题。索尼在2007年12月18日发布PlayStation 3发布固件更新后这一问题得到解决。自此所有向下兼容机型——20 GB机型\#CECHB01、60 GB机型\#CECHA01和80 GB机型\#CECHE01——都可以运行《最终幻想XI》。在和[微软](../Page/微软.md "wikilink")合作解决《最终幻想XI》的[Windows Vista兼容性问题后](../Page/Windows_Vista.md "wikilink")，史克威尔艾尼克斯发行了下载版PlayOnline客户端，该客户端可以兼容系统但存在少量问题\[62\]。
 
-松井聪彦在2010年9月1日担任《最终幻想XI》总监\[63\]。之后仅三个月，松井就离开《最终幻想XI》团队，担任史克威尔新MMO《[最终幻想XIV](../Page/最终幻想XIV.md "wikilink")》的“战斗系统主设计师”；伊藤瑞树接任总监职务\[64\]。制作人[田中弘道在](../Page/田中弘道.md "wikilink")《[Fami通](../Page/Fami通.md "wikilink")》杂志2011年7月13日采访中透露，史克威尔艾尼克斯正在研究索尼[PlayStation
-Vita移植版的可行性](../Page/PlayStation_Vita.md "wikilink")\[65\]。为庆祝日版《最终幻想XI》十周年运营，2012年日本横滨举办了瓦纳街，在结束的6月24日，田中弘道宣布他因健康原因辞去制作人职务并离开史克威尔。制作人一职由松井接替\[66\]。
+松井聪彦在2010年9月1日担任《最终幻想XI》总监\[63\]。之后仅三个月，松井就离开《最终幻想XI》团队，担任史克威尔新MMO《[最终幻想XIV](../Page/最终幻想XIV.md "wikilink")》的“战斗系统主设计师”；伊藤瑞树接任总监职务\[64\]。制作人[田中弘道](../Page/田中弘道.md "wikilink")在《[Fami通](../Page/Fami通.md "wikilink")》杂志2011年7月13日采访中透露，史克威尔艾尼克斯正在研究索尼[PlayStation Vita移植版的可行性](../Page/PlayStation_Vita.md "wikilink")\[65\]。为庆祝日版《最终幻想XI》十周年运营，2012年日本横滨举办了瓦纳街，在结束的6月24日，田中弘道宣布他因健康原因辞去制作人职务并离开史克威尔。制作人一职由松井接替\[66\]。
 
 ### 资料片与追加内容
 
-《最终幻想XI》每一两年就有扩展内容发行。资料片收录新增加的故事、职业、区域、任务与内容，追加内容则规模较少，加入少量前述项目。除了《雅特林的魔境》未在日本外发行PlayStation
-2外，所有资料片和附加内容皆登陆PlayStation 2、个人电脑和Xbox 360平台\[67\]。
+《最终幻想XI》每一两年就有扩展内容发行。资料片收录新增加的故事、职业、区域、任务与内容，追加内容则规模较少，加入少量前述项目。除了《雅特林的魔境》未在日本外发行PlayStation 2外，所有资料片和附加内容皆登陆PlayStation 2、个人电脑和Xbox 360平台\[67\]。
 
 <table>
 <thead>
@@ -156,7 +116,7 @@ Vita移植版的可行性](../Page/PlayStation_Vita.md "wikilink")\[65\]。为�
 <small></small>[68]</p></td>
 <td><p>资料片</p></td>
 <td></td>
-<td><p>最早关于《最终幻想XI》资料片的消息流出时，有认为称游戏标题会是“最终幻想XI 吉拉德的幻象”，且更新免费与否未明[69]。Xbox Live版举行beta测试观察其在线游戏系统对《最终幻想XI》的支持如何[70]。《最终幻想XI》Xbox 360演示版成为此平台首个需要附加硬盘的游戏[71]。游戏引入了<a href="https://zh.wikipedia.org/wiki/武士" title="wikilink">武士</a>、<a href="../Page/忍者.md" title="wikilink">忍者以及龙骑士</a>[72]。</p></td>
+<td><p>最早关于《最终幻想XI》资料片的消息流出时，有认为称游戏标题会是“最终幻想XI 吉拉德的幻象”，且更新免费与否未明[69]。Xbox Live版举行beta测试观察其在线游戏系统对《最终幻想XI》的支持如何[70]。《最终幻想XI》Xbox 360演示版成为此平台首个需要附加硬盘的游戏[71]。游戏引入了<a href="https://zh.wikipedia.org/wiki/武士" title="wikilink">武士</a>、<a href="../Page/忍者.md" title="wikilink">忍者</a>以及龙骑士[72]。</p></td>
 </tr>
 <tr class="even">
 <td><p>普罗玛西亚的咒缚<br />
@@ -188,7 +148,7 @@ Vita移植版的可行性](../Page/PlayStation_Vita.md "wikilink")\[65\]。为�
 <small></small></p></td>
 <td><p>追加剧本</p></td>
 <td><p>2009年[82]</p></td>
-<td><p>《最终幻想XI》原编剧<a href="../Page/加藤正人.md" title="wikilink">加藤正人再度以资料片</a>《吉拉德的幻影》构建作品。有别于传统的资料片，这些章节被设想为互动式”<a href="https://zh.wikipedia.org/wiki/短篇小说" title="wikilink">小说</a>“，深入发展既存地点的故事而非引入新区域[83]。《莫古祭之夜》最初被设想为恐怖故事，但在开发中被喜剧化[84]。该扩展系列和是为了捆绑那些加藤正人等开发者希望看到良好结局的故事[85]。起先部分资深玩家批评追加内容只是简单的”接任务“，之后加藤解释称这是为新玩家设计[86]。</p></td>
+<td><p>《最终幻想XI》原编剧<a href="../Page/加藤正人.md" title="wikilink">加藤正人</a>再度以资料片《吉拉德的幻影》构建作品。有别于传统的资料片，这些章节被设想为互动式”<a href="https://zh.wikipedia.org/wiki/短篇小说" title="wikilink">小说</a>“，深入发展既存地点的故事而非引入新区域[83]。《莫古祭之夜》最初被设想为恐怖故事，但在开发中被喜剧化[84]。该扩展系列和是为了捆绑那些加藤正人等开发者希望看到良好结局的故事[85]。起先部分资深玩家批评追加内容只是简单的”接任务“，之后加藤解释称这是为新玩家设计[86]。</p></td>
 </tr>
 <tr class="even">
 <td><p>战栗！莫古祭之夜 维纳戴尔史上最小的作战<br />
@@ -245,37 +205,21 @@ Vita移植版的可行性](../Page/PlayStation_Vita.md "wikilink")\[65\]。为�
 
 [Nobuo_Uematsu.jpg](https://zh.wikipedia.org/wiki/File:Nobuo_Uematsu.jpg "fig:Nobuo_Uematsu.jpg")
 
-《最终幻想XI》由[植松伸夫](../Page/植松伸夫.md "wikilink")、[水田直志和](../Page/水田直志.md "wikilink")[谷冈久美配乐](https://zh.wikipedia.org/wiki/谷冈久美 "wikilink")\[92\]。作曲家[光田康典也被邀请参与](../Page/光田康典.md "wikilink")，但他忙于《[异度传说](https://zh.wikipedia.org/wiki/异度传说 "wikilink")》配乐\[93\]。因谷冈忙于其他项目而植松又离开公司，资料片的配乐由水田独自配乐。游戏开场曲为[世界语歌词的合唱乐](../Page/世界语.md "wikilink")\[94\]。植松称开发者选择世界语，象征了他们对在线游戏促进跨文化合作交流的期望。他还称和和之前最终幻想游戏不同，无线性情节增大了配乐难度。《最终幻想XI》是他离开史克威尔后的首个最终幻想配乐作品\[95\]。特别活动会投入新音乐，比如自2004年起，12月中下旬的城市Jeuno会播放节日配乐《Jeuno
--Starlight
-Celebration-》。和不久前的《最终幻想X》不同，《最终幻想XI》几乎没有[配音](../Page/配音.md "wikilink")，人声主要由喊杀声等声音体现，玩家交流用文字表示。
+《最终幻想XI》由[植松伸夫](../Page/植松伸夫.md "wikilink")、[水田直志](../Page/水田直志.md "wikilink")和[谷冈久美配乐](https://zh.wikipedia.org/wiki/谷冈久美 "wikilink")\[92\]。作曲家[光田康典](../Page/光田康典.md "wikilink")也被邀请参与，但他忙于《[异度传说](https://zh.wikipedia.org/wiki/异度传说 "wikilink")》配乐\[93\]。因谷冈忙于其他项目而植松又离开公司，资料片的配乐由水田独自配乐。游戏开场曲为[世界语](../Page/世界语.md "wikilink")歌词的合唱乐\[94\]。植松称开发者选择世界语，象征了他们对在线游戏促进跨文化合作交流的期望。他还称和和之前最终幻想游戏不同，无线性情节增大了配乐难度。《最终幻想XI》是他离开史克威尔后的首个最终幻想配乐作品\[95\]。特别活动会投入新音乐，比如自2004年起，12月中下旬的城市Jeuno会播放节日配乐《Jeuno -Starlight Celebration-》。和不久前的《最终幻想X》不同，《最终幻想XI》几乎没有[配音](../Page/配音.md "wikilink")，人声主要由喊杀声等声音体现，玩家交流用文字表示。
 
-游戏音乐数次通过CD形式发售并在多场最终幻想音乐会中演出。部分游戏音乐可通过[iTunes下载](https://zh.wikipedia.org/wiki/iTunes "wikilink")，例如2005年7月补丁中的声乐《Distant
-Worlds》于9月13日在日本iTunes音乐商店发行\[96\]。CD选辑《最终幻想XI原声音乐珍藏盒》于2007年3月28日发售，选辑收录原版《最终幻想XI》的四张原声和三个扩展包的原声，以及之前未发行《最终幻想XI钢琴选辑》中的未发行曲目\[97\]。2004－2005年音乐会系列“[Dear
-Friends -Music from Final-{}-
-Fantasy-](https://zh.wikipedia.org/wiki/Dear_Friends_-Music_from_Final_Fantasy- "wikilink")”上演奏了《最终幻想XI》的《Ronfaure》。[洋葱之星在](https://zh.wikipedia.org/wiki/洋葱之星 "wikilink")2005年8月24日发行了以《最终幻想XI》音乐为灵感的10曲目专辑《来自维纳戴尔彼方的音乐》\[98\]。
+游戏音乐数次通过CD形式发售并在多场最终幻想音乐会中演出。部分游戏音乐可通过[iTunes下载](https://zh.wikipedia.org/wiki/iTunes "wikilink")，例如2005年7月补丁中的声乐《Distant Worlds》于9月13日在日本iTunes音乐商店发行\[96\]。CD选辑《最终幻想XI原声音乐珍藏盒》于2007年3月28日发售，选辑收录原版《最终幻想XI》的四张原声和三个扩展包的原声，以及之前未发行《最终幻想XI钢琴选辑》中的未发行曲目\[97\]。2004－2005年音乐会系列“[Dear Friends -Music from Final-{}- Fantasy-](https://zh.wikipedia.org/wiki/Dear_Friends_-Music_from_Final_Fantasy- "wikilink")”上演奏了《最终幻想XI》的《Ronfaure》。[洋葱之星在](https://zh.wikipedia.org/wiki/洋葱之星 "wikilink")2005年8月24日发行了以《最终幻想XI》音乐为灵感的10曲目专辑《来自维纳戴尔彼方的音乐》\[98\]。
 
 ## 周边产品
 
-游戏有数个书面改编作品与相关媒体。Miyabi
-Hasegawa编写的《最终幻想XI》小说从2003年起在日本\[99\]、德国和法国发行\[100\]\[101\]。此外[Scott
-Ramsoomair](https://zh.wikipedia.org/wiki/Scott_Ramsoomair "wikilink")
-2004年的[网页漫画](https://zh.wikipedia.org/wiki/网页漫画 "wikilink")《冒险日志》从2007年获得史克威尔艾尼克斯的授权\[102\]。日本有《最终幻想XI》[PlayOnline](../Page/PlayOnline.md "wikilink")
-[Visa和](https://zh.wikipedia.org/wiki/Visa "wikilink")[MasterCard信用卡](https://zh.wikipedia.org/wiki/MasterCard "wikilink")，持卡者订阅PlayOnline期间无需缴纳年费且能获得其他多种奖励\[103\]。此外日本还有限量版电话卡及宣传报以及钥匙链发行\[104\]。北美还可以订购T恤\[105\]，系列另有不同种族的[填充玩具和](https://zh.wikipedia.org/wiki/填充玩具 "wikilink")[转蛋工艺品](https://zh.wikipedia.org/wiki/转蛋 "wikilink")\[106\]\[107\]。亦有显示游戏世界时间的维纳戴尔表和游戏音乐CD发行\[108\]。此外，知名PC周邊機器製造商Baffulo旗下的網路娛樂部門，在東京的秋葉原創立了游戏專屬的[網咖](https://zh.wikipedia.org/wiki/網咖 "wikilink")，Real
-Vana 'diel。在此Real Vana 'diel也曾舉行過獨一無二的公開測試。
+游戏有数个书面改编作品与相关媒体。Miyabi Hasegawa编写的《最终幻想XI》小说从2003年起在日本\[99\]、德国和法国发行\[100\]\[101\]。此外[Scott Ramsoomair](https://zh.wikipedia.org/wiki/Scott_Ramsoomair "wikilink") 2004年的[网页漫画](https://zh.wikipedia.org/wiki/网页漫画 "wikilink")《冒险日志》从2007年获得史克威尔艾尼克斯的授权\[102\]。日本有《最终幻想XI》[PlayOnline](../Page/PlayOnline.md "wikilink") [Visa和](https://zh.wikipedia.org/wiki/Visa "wikilink")[MasterCard信用卡](https://zh.wikipedia.org/wiki/MasterCard "wikilink")，持卡者订阅PlayOnline期间无需缴纳年费且能获得其他多种奖励\[103\]。此外日本还有限量版电话卡及宣传报以及钥匙链发行\[104\]。北美还可以订购T恤\[105\]，系列另有不同种族的[填充玩具和](https://zh.wikipedia.org/wiki/填充玩具 "wikilink")[转蛋工艺品](https://zh.wikipedia.org/wiki/转蛋 "wikilink")\[106\]\[107\]。亦有显示游戏世界时间的维纳戴尔表和游戏音乐CD发行\[108\]。此外，知名PC周邊機器製造商Baffulo旗下的網路娛樂部門，在東京的秋葉原創立了游戏專屬的[網咖](https://zh.wikipedia.org/wiki/網咖 "wikilink")，Real Vana 'diel。在此Real Vana 'diel也曾舉行過獨一無二的公開測試。
 
 ## 评价
 
-因为PlayStation
-2版游戏对硬盘和网络适配器的要求，该平台的用户基数最初受到制约\[109\]。日版《吉拉德的幻影》以首周9万的销量成为当周最畅销游戏\[110\]。在2007年10月时，《最终幻想XI一体包》和《阿爾塔娜的神兵》分别是日本第36和40畅销Xbox
-360游戏\[111\]。在2004年4月－9月财政季度，因以《最终幻想XI》为首的在线游戏的贡献，史克威尔艾尼克斯销量增长101个百分点，营业利润增长230.9个百分点\[112\]。虽然在2006年夏季时游戏订阅服务利润保持稳定，但史克威尔艾尼克斯在秋季公开表示，虽然《最终幻想XI》性能稳定，但在线订阅利润“不尽人意”\[113\]\[114\]。公司总裁和田洋一在2003年12月称，游戏的20多万订户让公司收支相抵并开始赢利\[115\]。2006年游戏每日有二十余万活跃用户\[116\]。2006年8月14日，Xbox
-360版成为第6热门的Xbox
-Live游戏\[117\]。2009年4月，官方宣布活跃角色总数首次突破200万\[118\]。2012年6月，史克威尔艾尼克斯总裁和田洋一宣布《最终幻想XI》是系列盈利最多的作品\[119\]。
+因为PlayStation 2版游戏对硬盘和网络适配器的要求，该平台的用户基数最初受到制约\[109\]。日版《吉拉德的幻影》以首周9万的销量成为当周最畅销游戏\[110\]。在2007年10月时，《最终幻想XI一体包》和《阿爾塔娜的神兵》分别是日本第36和40畅销Xbox 360游戏\[111\]。在2004年4月－9月财政季度，因以《最终幻想XI》为首的在线游戏的贡献，史克威尔艾尼克斯销量增长101个百分点，营业利润增长230.9个百分点\[112\]。虽然在2006年夏季时游戏订阅服务利润保持稳定，但史克威尔艾尼克斯在秋季公开表示，虽然《最终幻想XI》性能稳定，但在线订阅利润“不尽人意”\[113\]\[114\]。公司总裁和田洋一在2003年12月称，游戏的20多万订户让公司收支相抵并开始赢利\[115\]。2006年游戏每日有二十余万活跃用户\[116\]。2006年8月14日，Xbox 360版成为第6热门的Xbox Live游戏\[117\]。2009年4月，官方宣布活跃角色总数首次突破200万\[118\]。2012年6月，史克威尔艾尼克斯总裁和田洋一宣布《最终幻想XI》是系列盈利最多的作品\[119\]。
 
-《[Fami通](../Page/Fami通.md "wikilink")》为游戏打出38/40分\[120\]。《[电脑与电子游戏](../Page/电脑与电子游戏.md "wikilink")》称虽然开始注册和安装很麻烦，但游戏是最受欢迎的MMORPG之一\[121\]。[IGN称游戏做得好但无创造性](../Page/IGN.md "wikilink")，同时北美玩家不得不和已完成大量游戏任务，有非常多经验的日本玩家一同游戏\[122\]。[GameSpot批评游戏开始时的非传统操作系统](../Page/GameSpot.md "wikilink")、漫长的安装以及没有玩家对玩家内容\[123\]。其他蒙受批评的方面是练经验值——包括持续战斗以访问游戏不同区域——以及拥挤的营地\[124\]。扩展内容主要获得积极评价，包括大量的增加内容，但是增加内容标志着游戏图形开始过时\[125\]\[126\]。IGN对Xbox
-360版评价类似，称其有大量的游戏内容，但安装过程漫长，游戏设计元素需要消耗大量时间\[127\]。他们还称《最终幻想XI》和发展为独立衍生系列的战略版和水晶编年史不同，是首个转向完全不同方向的编号正传游戏。
+《[Fami通](../Page/Fami通.md "wikilink")》为游戏打出38/40分\[120\]。《[电脑与电子游戏](../Page/电脑与电子游戏.md "wikilink")》称虽然开始注册和安装很麻烦，但游戏是最受欢迎的MMORPG之一\[121\]。[IGN](../Page/IGN.md "wikilink")称游戏做得好但无创造性，同时北美玩家不得不和已完成大量游戏任务，有非常多经验的日本玩家一同游戏\[122\]。[GameSpot](../Page/GameSpot.md "wikilink")批评游戏开始时的非传统操作系统、漫长的安装以及没有玩家对玩家内容\[123\]。其他蒙受批评的方面是练经验值——包括持续战斗以访问游戏不同区域——以及拥挤的营地\[124\]。扩展内容主要获得积极评价，包括大量的增加内容，但是增加内容标志着游戏图形开始过时\[125\]\[126\]。IGN对Xbox 360版评价类似，称其有大量的游戏内容，但安装过程漫长，游戏设计元素需要消耗大量时间\[127\]。他们还称《最终幻想XI》和发展为独立衍生系列的战略版和水晶编年史不同，是首个转向完全不同方向的编号正传游戏。
 
-《最终幻想XI》于《[太鼓达人](https://zh.wikipedia.org/wiki/太鼓达人 "wikilink")》一起，获得日本[消费娱乐供应商协会](https://zh.wikipedia.org/wiki/消费娱乐供应商协会 "wikilink")2002年－2003年度大奖\[128\]。游戏还获得[GameSpy的](../Page/GameSpy.md "wikilink")2003年年度PC
-MMORPG游戏奖；IGN将游戏选为2004年3月的月度游戏，并提到游戏强大的可定制性及成功的跨平台与跨语言游戏世界\[129\]\[130\]。《最终幻想XI》于在线游戏《[大家的高尔夫Online](https://zh.wikipedia.org/wiki/大家的高尔夫Online "wikilink")》的《最终幻想XI》主题大厅中被参照\[131\]。在2009年电子娱乐展上，史克威尔艾尼克斯透漏他们的下部MMORPG《[最终幻想XIV](../Page/最终幻想XIV.md "wikilink")》。
+《最终幻想XI》于《[太鼓达人](https://zh.wikipedia.org/wiki/太鼓达人 "wikilink")》一起，获得日本[消费娱乐供应商协会](https://zh.wikipedia.org/wiki/消费娱乐供应商协会 "wikilink")2002年－2003年度大奖\[128\]。游戏还获得[GameSpy](../Page/GameSpy.md "wikilink")的2003年年度PC MMORPG游戏奖；IGN将游戏选为2004年3月的月度游戏，并提到游戏强大的可定制性及成功的跨平台与跨语言游戏世界\[129\]\[130\]。《最终幻想XI》于在线游戏《[大家的高尔夫Online](https://zh.wikipedia.org/wiki/大家的高尔夫Online "wikilink")》的《最终幻想XI》主题大厅中被参照\[131\]。在2009年电子娱乐展上，史克威尔艾尼克斯透漏他们的下部MMORPG《[最终幻想XIV](../Page/最终幻想XIV.md "wikilink")》。
 
 ## 参考文献
 
@@ -283,15 +227,7 @@ MMORPG游戏奖；IGN将游戏选为2004年3月的月度游戏，并提到游戏
 
   -
 
-[Category:2002年电子游戏](https://zh.wikipedia.org/wiki/Category:2002年电子游戏 "wikilink")
-[Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:Xbox_360遊戲](https://zh.wikipedia.org/wiki/Category:Xbox_360遊戲 "wikilink")
-[Category:大型多人在线角色扮演游戏](https://zh.wikipedia.org/wiki/Category:大型多人在线角色扮演游戏 "wikilink")
-[Category:索尼互動娛樂遊戲](https://zh.wikipedia.org/wiki/Category:索尼互動娛樂遊戲 "wikilink")
-[Category:有资料片的游戏](https://zh.wikipedia.org/wiki/Category:有资料片的游戏 "wikilink")
-[Category:育碧游戏](https://zh.wikipedia.org/wiki/Category:育碧游戏 "wikilink")
-[Category:最终幻想系列电子游戏](https://zh.wikipedia.org/wiki/Category:最终幻想系列电子游戏 "wikilink")
+[Category:2002年电子游戏](https://zh.wikipedia.org/wiki/Category:2002年电子游戏 "wikilink") [Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:Xbox_360遊戲](https://zh.wikipedia.org/wiki/Category:Xbox_360遊戲 "wikilink") [Category:大型多人在线角色扮演游戏](https://zh.wikipedia.org/wiki/Category:大型多人在线角色扮演游戏 "wikilink") [Category:索尼互動娛樂遊戲](https://zh.wikipedia.org/wiki/Category:索尼互動娛樂遊戲 "wikilink") [Category:有资料片的游戏](https://zh.wikipedia.org/wiki/Category:有资料片的游戏 "wikilink") [Category:育碧游戏](https://zh.wikipedia.org/wiki/Category:育碧游戏 "wikilink") [Category:最终幻想系列电子游戏](https://zh.wikipedia.org/wiki/Category:最终幻想系列电子游戏 "wikilink")
 
 1.
 

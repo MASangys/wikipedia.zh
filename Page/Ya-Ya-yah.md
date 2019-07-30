@@ -1,14 +1,14 @@
-**Ya-Ya-yah**（）是[傑尼斯事務所旗下的男子偶像團體](../Page/傑尼斯事務所.md "wikilink")，由四名小傑尼斯組成。
+**Ya-Ya-yah**（）是[傑尼斯事務所](../Page/傑尼斯事務所.md "wikilink")旗下的男子偶像團體，由四名小傑尼斯組成。
 
 Ya-Ya-yah的兄組為[KAT-TUN](../Page/KAT-TUN.md "wikilink")，而弟組則為。
 
 ## 簡介
 
-  - 於2002年之前，組合的主唱是[薮宏太和](../Page/薮宏太.md "wikilink")；2003年之後，由於赤間直哉進入變聲期，主唱改由藪宏太和[八乙女光擔任](../Page/八乙女光.md "wikilink")。
+  - 於2002年之前，組合的主唱是[薮宏太](../Page/薮宏太.md "wikilink")和；2003年之後，由於赤間直哉進入變聲期，主唱改由藪宏太和[八乙女光](../Page/八乙女光.md "wikilink")擔任。
 
 <!-- end list -->
 
-  - 八乙女光、藪宏太、[山下翔央](../Page/山下翔央.md "wikilink")、[鮎川太陽均畢業自](../Page/鮎川太陽.md "wikilink")[堀越高等學校](../Page/堀越高等學校.md "wikilink")。
+  - 八乙女光、藪宏太、[山下翔央](../Page/山下翔央.md "wikilink")、[鮎川太陽](../Page/鮎川太陽.md "wikilink")均畢業自[堀越高等學校](../Page/堀越高等學校.md "wikilink")。
 
 ### 組合名的由來
 
@@ -75,7 +75,7 @@ Ya-Ya-yah的兄組為[KAT-TUN](../Page/KAT-TUN.md "wikilink")，而弟組則為�
 
 <!-- end list -->
 
-  - 星野正樹（，）：2004年退出傑尼斯事務所。2007年曾在[匡威公司的](../Page/匡威.md "wikilink")“”中登場。
+  - 星野正樹（，）：2004年退出傑尼斯事務所。2007年曾在[匡威](../Page/匡威.md "wikilink")公司的“”中登場。
 
 <!-- end list -->
 
@@ -99,21 +99,12 @@ Ya-Ya-yah的兄組為[KAT-TUN](../Page/KAT-TUN.md "wikilink")，而弟組則為�
 
 ## 復出傳聞
 
-[Hey\! Say\! JUMP](../Page/Hey!_Say!_JUMP.md "wikilink")
-成員[薮宏太以及](../Page/薮宏太.md "wikilink")[八乙女光於](../Page/八乙女光.md "wikilink")2017年1月在帝國劇場
-- 「[Johnny's ALLSTAR
-IsLAND](https://zh.wikipedia.org/wiki/Johnny's_ALLSTAR_IsLAND "wikilink")」節目以Ya-Ya-yah身份登場，並演出Ya-Ya-yah兩首代表作:「Just
-wanna lovin' you」和「愛しのプレイガール」，被喻為奇蹟復活。
+[Hey\! Say\! JUMP](../Page/Hey!_Say!_JUMP.md "wikilink") 成員[薮宏太](../Page/薮宏太.md "wikilink")以及[八乙女光](../Page/八乙女光.md "wikilink")於2017年1月在帝國劇場 - 「[Johnny's ALLSTAR IsLAND](https://zh.wikipedia.org/wiki/Johnny's_ALLSTAR_IsLAND "wikilink")」節目以Ya-Ya-yah身份登場，並演出Ya-Ya-yah兩首代表作:「Just wanna lovin' you」和「愛しのプレイガール」，被喻為奇蹟復活。
 
 ## 相關詞條
 
   - [傑尼斯事務所](../Page/傑尼斯事務所.md "wikilink")
   - [波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")
-  - [Hey\! Say\!
-    JUMP](../Page/Hey!_Say!_JUMP.md "wikilink")<small>（團隊中[薮宏太與](../Page/薮宏太.md "wikilink")[八乙女光最終出道的團體](../Page/八乙女光.md "wikilink")）</small>
+  - [Hey\! Say\! JUMP](../Page/Hey!_Say!_JUMP.md "wikilink")<small>（團隊中[薮宏太](../Page/薮宏太.md "wikilink")與[八乙女光](../Page/八乙女光.md "wikilink")最終出道的團體）</small>
 
-[Category:Ya-Ya-yah](https://zh.wikipedia.org/wiki/Category:Ya-Ya-yah "wikilink")
-[Category:前小傑尼斯團體](https://zh.wikipedia.org/wiki/Category:前小傑尼斯團體 "wikilink")
-[Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink")
-[Category:日本男子偶像團體](https://zh.wikipedia.org/wiki/Category:日本男子偶像團體 "wikilink")
-[Category:波麗佳音](https://zh.wikipedia.org/wiki/Category:波麗佳音 "wikilink")
+[Category:Ya-Ya-yah](https://zh.wikipedia.org/wiki/Category:Ya-Ya-yah "wikilink") [Category:前小傑尼斯團體](https://zh.wikipedia.org/wiki/Category:前小傑尼斯團體 "wikilink") [Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink") [Category:日本男子偶像團體](https://zh.wikipedia.org/wiki/Category:日本男子偶像團體 "wikilink") [Category:波麗佳音](https://zh.wikipedia.org/wiki/Category:波麗佳音 "wikilink")

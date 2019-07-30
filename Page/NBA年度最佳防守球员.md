@@ -1,12 +1,8 @@
-[Jordan_by_Lipofsky_16577.jpg](https://zh.wikipedia.org/wiki/File:Jordan_by_Lipofsky_16577.jpg "fig:Jordan_by_Lipofsky_16577.jpg")奖，迈克尔·乔丹（图）便是其中之一。\]\]
-[David_Robinson_(Team_USA).jpg](https://zh.wikipedia.org/wiki/File:David_Robinson_\(Team_USA\).jpg "fig:David_Robinson_(Team_USA).jpg")中的表现获奖\]\]
-[PaytonHeat.jpg](https://zh.wikipedia.org/wiki/File:PaytonHeat.jpg "fig:PaytonHeat.jpg")是唯一获最佳防守球员奖的控球后卫\]\]
-[Dwight_howard_2009z.jpg](https://zh.wikipedia.org/wiki/File:Dwight_howard_2009z.jpg "fig:Dwight_howard_2009z.jpg")
-**NBA年度最佳防守球员**（，簡稱DPOY）是[美国国家篮球协会从](../Page/NBA.md "wikilink")[1982-1983年NBA赛季开始颁发的年度奖项](https://zh.wikipedia.org/wiki/1982-83_NBA赛季 "wikilink")，旨在表彰赛季中表现最优异的防守球员。奖项由美加两国各地的124名体育记者和广播员共同投票选出，每人可以选出自己心目中的第一、第二和第三名。每张第一名选票相当于五分，第二名相当于三分，第三名一分。无论第一名选票归属几何，都是最终得分最高的球员获奖\[1\]\[2\]。
+[Jordan_by_Lipofsky_16577.jpg](https://zh.wikipedia.org/wiki/File:Jordan_by_Lipofsky_16577.jpg "fig:Jordan_by_Lipofsky_16577.jpg")奖，迈克尔·乔丹（图）便是其中之一。\]\] [David_Robinson_(Team_USA).jpg](https://zh.wikipedia.org/wiki/File:David_Robinson_\(Team_USA\).jpg "fig:David_Robinson_(Team_USA).jpg")中的表现获奖\]\] [PaytonHeat.jpg](https://zh.wikipedia.org/wiki/File:PaytonHeat.jpg "fig:PaytonHeat.jpg")是唯一获最佳防守球员奖的控球后卫\]\] [Dwight_howard_2009z.jpg](https://zh.wikipedia.org/wiki/File:Dwight_howard_2009z.jpg "fig:Dwight_howard_2009z.jpg") **NBA年度最佳防守球员**（，簡稱DPOY）是[美国国家篮球协会从](../Page/NBA.md "wikilink")[1982-1983年NBA赛季开始颁发的年度奖项](https://zh.wikipedia.org/wiki/1982-83_NBA赛季 "wikilink")，旨在表彰赛季中表现最优异的防守球员。奖项由美加两国各地的124名体育记者和广播员共同投票选出，每人可以选出自己心目中的第一、第二和第三名。每张第一名选票相当于五分，第二名相当于三分，第三名一分。无论第一名选票归属几何，都是最终得分最高的球员获奖\[1\]\[2\]。
 
-从奖项设立至2018年止，共有22名球员曾获最佳防守球员奖。[迪肯贝·穆托姆博和](../Page/迪肯贝·穆托姆博.md "wikilink")[本·华莱士均曾四次获奖](../Page/本·华莱士.md "wikilink")，比其他球员都多\[3\]。[德怀特·霍华德是唯一连续三次获奖的球员](https://zh.wikipedia.org/wiki/德怀特·霍华德 "wikilink")\[4\]。[西德尼·蒙克利夫](https://zh.wikipedia.org/wiki/西德尼·蒙克利夫 "wikilink")、[马克·伊顿](https://zh.wikipedia.org/wiki/马克·伊顿 "wikilink")、[丹尼斯·罗德曼](https://zh.wikipedia.org/wiki/丹尼斯·罗德曼 "wikilink")、[哈基姆·奥拉朱旺](../Page/哈基姆·奥拉朱旺.md "wikilink")、[阿朗佐·莫宁和](../Page/阿朗佐·莫宁.md "wikilink")[科怀·伦纳德都曾两次获奖](https://zh.wikipedia.org/wiki/科怀·伦纳德 "wikilink")。[犹他爵士的](https://zh.wikipedia.org/wiki/犹他爵士 "wikilink")[鲁迪·戈贝尔是最新一届获奖者](../Page/鲁迪·戈贝尔.md "wikilink")。
+从奖项设立至2018年止，共有22名球员曾获最佳防守球员奖。[迪肯贝·穆托姆博](../Page/迪肯贝·穆托姆博.md "wikilink")和[本·华莱士](../Page/本·华莱士.md "wikilink")均曾四次获奖，比其他球员都多\[3\]。[德怀特·霍华德是唯一连续三次获奖的球员](https://zh.wikipedia.org/wiki/德怀特·霍华德 "wikilink")\[4\]。[西德尼·蒙克利夫](https://zh.wikipedia.org/wiki/西德尼·蒙克利夫 "wikilink")、[马克·伊顿](https://zh.wikipedia.org/wiki/马克·伊顿 "wikilink")、[丹尼斯·罗德曼](https://zh.wikipedia.org/wiki/丹尼斯·罗德曼 "wikilink")、[哈基姆·奥拉朱旺](../Page/哈基姆·奥拉朱旺.md "wikilink")、[阿朗佐·莫宁](../Page/阿朗佐·莫宁.md "wikilink")和[科怀·伦纳德](../Page/科怀·伦纳德.md "wikilink")都曾两次获奖。[犹他爵士的](https://zh.wikipedia.org/wiki/犹他爵士 "wikilink")[鲁迪·戈贝尔](../Page/鲁迪·戈贝尔.md "wikilink")是最新一届获奖者。
 
-虽然前六名获奖者中有五名是外线球员，但传统上能获得这一奖项的大多是善于[盖帽或争夺](../Page/盖帽.md "wikilink")[篮板的大个球员](../Page/篮板球.md "wikilink")\[5\]\[6\]。所有获奖者中只有七人是外线球员，分别是蒙克利夫、[阿尔文·罗伯逊](https://zh.wikipedia.org/wiki/阿尔文·罗伯逊 "wikilink")、[迈克尔·库珀](../Page/迈克尔·库珀.md "wikilink")、[迈克尔·乔丹](../Page/迈克尔·乔丹.md "wikilink")、[加里·佩顿](https://zh.wikipedia.org/wiki/加里·佩顿 "wikilink")、罗恩·阿泰斯特（后更名[慈善·世界和平](../Page/慈善·世界和平.md "wikilink")）和科怀·伦纳德\[7\]。佩顿是唯一获奖的[控球后卫](../Page/控球后卫.md "wikilink")\[8\]。只有乔丹\[9\]、奥拉朱旺\[10\]、[大卫·罗宾逊](https://zh.wikipedia.org/wiki/大卫·罗宾逊 "wikilink")\[11\]和[凯文·加内特](../Page/凯文·加内特.md "wikilink")\[12\]\[13\]曾获得年度最佳防守球员和[最有价值球员奖](https://zh.wikipedia.org/wiki/NBA最有价值球员 "wikilink")，其中乔丹和奥拉朱旺是在同一赛季获得这两项大奖\[14\]，奥拉朱旺还是唯一在同赛季拿下[NBA总决赛最有价值球员和](../Page/NBA总决赛最有价值球员.md "wikilink")[总冠军的球员](https://zh.wikipedia.org/wiki/NBA总冠军列表 "wikilink")\[15\]。历史上共有四次年度最佳防守球员没有入选[NBA最佳防守阵容的第一队](https://zh.wikipedia.org/wiki/NBA最佳防守阵容 "wikilink")，分别是1986年的罗伯逊、1995年的穆托姆博、2012年的[泰森·钱德勒和](../Page/泰森·钱德勒.md "wikilink")2013年的[马克·盖索](https://zh.wikipedia.org/wiki/马克·盖索 "wikilink")，不过他们都得以入选第二队。2014年前，年度最佳防守球员是由媒体投票选出，但最佳防守阵容则是由教练选出\[16\]\[17\]。
+虽然前六名获奖者中有五名是外线球员，但传统上能获得这一奖项的大多是善于[盖帽](../Page/盖帽.md "wikilink")或争夺[篮板的大个球员](../Page/篮板球.md "wikilink")\[5\]\[6\]。所有获奖者中只有七人是外线球员，分别是蒙克利夫、[阿尔文·罗伯逊](https://zh.wikipedia.org/wiki/阿尔文·罗伯逊 "wikilink")、[迈克尔·库珀](../Page/迈克尔·库珀.md "wikilink")、[迈克尔·乔丹](../Page/迈克尔·乔丹.md "wikilink")、[加里·佩顿](https://zh.wikipedia.org/wiki/加里·佩顿 "wikilink")、罗恩·阿泰斯特（后更名[慈善·世界和平](../Page/慈善·世界和平.md "wikilink")）和科怀·伦纳德\[7\]。佩顿是唯一获奖的[控球后卫](../Page/控球后卫.md "wikilink")\[8\]。只有乔丹\[9\]、奥拉朱旺\[10\]、[大卫·罗宾逊](https://zh.wikipedia.org/wiki/大卫·罗宾逊 "wikilink")\[11\]和[凯文·加内特](../Page/凯文·加内特.md "wikilink")\[12\]\[13\]曾获得年度最佳防守球员和[最有价值球员奖](https://zh.wikipedia.org/wiki/NBA最有价值球员 "wikilink")，其中乔丹和奥拉朱旺是在同一赛季获得这两项大奖\[14\]，奥拉朱旺还是唯一在同赛季拿下[NBA总决赛最有价值球员](../Page/NBA总决赛最有价值球员.md "wikilink")和[总冠军的球员](https://zh.wikipedia.org/wiki/NBA总冠军列表 "wikilink")\[15\]。历史上共有四次年度最佳防守球员没有入选[NBA最佳防守阵容的第一队](https://zh.wikipedia.org/wiki/NBA最佳防守阵容 "wikilink")，分别是1986年的罗伯逊、1995年的穆托姆博、2012年的[泰森·钱德勒](../Page/泰森·钱德勒.md "wikilink")和2013年的[马克·盖索](https://zh.wikipedia.org/wiki/马克·盖索 "wikilink")，不过他们都得以入选第二队。2014年前，年度最佳防守球员是由媒体投票选出，但最佳防守阵容则是由教练选出\[16\]\[17\]。
 
 虽然有三名最佳防守球员不是美国出生，但他们都曾在美国接受训练，其中穆托姆博和奥拉朱旺曾打过美国[大学篮球联赛](https://zh.wikipedia.org/wiki/大学篮球联赛 "wikilink")\[18\]\[19\]，盖索则打过美国高中篮球联赛\[20\]。[乔金·诺阿虽然在](https://zh.wikipedia.org/wiki/乔金·诺阿 "wikilink")[法国国家男子篮球队效力](https://zh.wikipedia.org/wiki/法国国家男子篮球队 "wikilink")，但生于[纽约](../Page/纽约.md "wikilink")，并且也打过美国高中和大学篮球联赛\[21\]。
 
@@ -256,14 +252,14 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/2014-15_NBA赛季" title="wikilink">2014-15</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/科怀·伦纳德" title="wikilink">科怀·伦纳德</a>^[50]</p></td>
+<td><p><a href="../Page/科怀·伦纳德.md" title="wikilink">科怀·伦纳德</a>^[50]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/篮球位置" title="wikilink">前锋</a></p></td>
 <td></td>
 <td><p><a href="../Page/圣安东尼奥马刺.md" title="wikilink">圣安东尼奥马刺</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2015-16_NBA赛季.md" title="wikilink">2015-16</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/科怀·伦纳德" title="wikilink">科怀·伦纳德</a>^（2）</p></td>
+<td><p><a href="../Page/科怀·伦纳德.md" title="wikilink">科怀·伦纳德</a>^（2）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/篮球位置" title="wikilink">前锋</a></p></td>
 <td></td>
 <td><p><a href="../Page/圣安东尼奥马刺.md" title="wikilink">圣安东尼奥马刺</a></p></td>
@@ -304,7 +300,7 @@
 | [丹尼斯·罗德曼](https://zh.wikipedia.org/wiki/丹尼斯·罗德曼 "wikilink") | [底特律活塞](../Page/底特律活塞.md "wikilink")                          | 1990、1991                                                                                                               |    |                     |
 | [哈基姆·奥拉朱旺](../Page/哈基姆·奥拉朱旺.md "wikilink")                  | [休斯敦火箭](https://zh.wikipedia.org/wiki/休斯敦火箭 "wikilink")       | 1993、1994                                                                                                               |    |                     |
 | [阿朗佐·莫宁](../Page/阿朗佐·莫宁.md "wikilink")                      | [迈阿密热火](../Page/迈阿密热火.md "wikilink")                          | 1999、2000                                                                                                               |    |                     |
-| [科怀·伦纳德](https://zh.wikipedia.org/wiki/科怀·伦纳德 "wikilink")   | [圣安东尼奥马刺](../Page/圣安东尼奥马刺.md "wikilink")                      | 2015、2016                                                                                                               |    |                     |
+| [科怀·伦纳德](../Page/科怀·伦纳德.md "wikilink")                      | [圣安东尼奥马刺](../Page/圣安东尼奥马刺.md "wikilink")                      | 2015、2016                                                                                                               |    |                     |
 | [魯迪·戈貝爾](https://zh.wikipedia.org/wiki/魯迪·戈貝爾 "wikilink")   | [犹他爵士](https://zh.wikipedia.org/wiki/犹他爵士 "wikilink")         | 2018、2019                                                                                                               |    |                     |
 
 ## 参见
@@ -325,9 +321,7 @@
 
   - 特定
 
-[Category:NBA獎項](https://zh.wikipedia.org/wiki/Category:NBA獎項 "wikilink")
-[Category:NBA列表](https://zh.wikipedia.org/wiki/Category:NBA列表 "wikilink")
-[Category:1983年建立的獎項](https://zh.wikipedia.org/wiki/Category:1983年建立的獎項 "wikilink")
+[Category:NBA獎項](https://zh.wikipedia.org/wiki/Category:NBA獎項 "wikilink") [Category:NBA列表](https://zh.wikipedia.org/wiki/Category:NBA列表 "wikilink") [Category:1983年建立的獎項](https://zh.wikipedia.org/wiki/Category:1983年建立的獎項 "wikilink")
 
 1.
 

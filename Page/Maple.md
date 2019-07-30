@@ -4,14 +4,11 @@ MAPLE是一個符號運算和數值計算平臺
 
 ### 核心功能
 
-用戶能够直接使用傳統數學符號进行輸入，也可以定制个性化的界面。对于数值计算有额外的支持，能够扩展到任意精度，同时亦支持符號演算及可视化。符號演算的例子参见下文。Maple内建有一种动态的命令行风格的编程语言，该语言支持具有作用域的变量。同时亦有其他語言的接口（C、FORTRAN、Java、Matlab和Visual
-Basic）。还具有与Excel进行交互的接口。
+用戶能够直接使用傳統數學符號进行輸入，也可以定制个性化的界面。对于数值计算有额外的支持，能够扩展到任意精度，同时亦支持符號演算及可视化。符號演算的例子参见下文。Maple内建有一种动态的命令行风格的编程语言，该语言支持具有作用域的变量。同时亦有其他語言的接口（C、FORTRAN、Java、Matlab和Visual Basic）。还具有与Excel进行交互的接口。
 
 ### 架构
 
-Maple由一个很小的由[C语言编写的](https://zh.wikipedia.org/wiki/C语言 "wikilink")[内核提供Maple语言](../Page/内核.md "wikilink")。许多功能由各种来源的函数库提供。许多数值计算由[NAG数值计算库](https://zh.wikipedia.org/wiki/NAG数值计算库 "wikilink"),
-[ATLAS库](https://zh.wikipedia.org/wiki/ATLAS库 "wikilink"),
-[GNU多精度库提供](https://zh.wikipedia.org/wiki/GNU多精度库 "wikilink")。大部分库由Maple语言编写，并且可查看源代码。
+Maple由一个很小的由[C语言编写的](https://zh.wikipedia.org/wiki/C语言 "wikilink")[内核](../Page/内核.md "wikilink")提供Maple语言。许多功能由各种来源的函数库提供。许多数值计算由[NAG数值计算库](https://zh.wikipedia.org/wiki/NAG数值计算库 "wikilink"), [ATLAS库](https://zh.wikipedia.org/wiki/ATLAS库 "wikilink"), [GNU多精度库提供](https://zh.wikipedia.org/wiki/GNU多精度库 "wikilink")。大部分库由Maple语言编写，并且可查看源代码。
 
 Maple中不同的功能需要不同格式的数值数据。符号表达式在内存中以[有向无环图的形式存储](https://zh.wikipedia.org/wiki/有向无环图 "wikilink")。标准界面和计算界面由[Java语言编写](https://zh.wikipedia.org/wiki/Java语言 "wikilink")。经典界面由[C语言编写](https://zh.wikipedia.org/wiki/C语言 "wikilink")。
 
@@ -114,8 +111,7 @@ end proc;
 
 evalf\[100\](2^1/12)
 
-1.059463094359295264561825294946341700779204317494185628559208431458761646063255722383768376863945569
-[12throotof2threethousanddigits.JPG](https://zh.wikipedia.org/wiki/File:12throotof2threethousanddigits.JPG "fig:12throotof2threethousanddigits.JPG")
+1.059463094359295264561825294946341700779204317494185628559208431458761646063255722383768376863945569 [12throotof2threethousanddigits.JPG](https://zh.wikipedia.org/wiki/File:12throotof2threethousanddigits.JPG "fig:12throotof2threethousanddigits.JPG")
 
 ### 求根
 
@@ -123,8 +119,7 @@ f:=x^2-63\*x+99=0;
 
 solve(f,x);
 
-\(\frac{63}{2}+\frac{3}{2}*\sqrt(397)\),
-\(\frac{63}{2}-\frac{3}{2}*\sqrt(397)\)
+\(\frac{63}{2}+\frac{3}{2}*\sqrt(397)\), \(\frac{63}{2}-\frac{3}{2}*\sqrt(397)\)
 
 f := x^7+3\*x = 7;
 
@@ -165,20 +160,17 @@ RootOf(\(sin^3(Z) - arccosh(\frac{-1}{5} sin(Z)))\)
 ### 求解方程和不等式
 
 根据\(x-y > 6\)，寻找\((x+y)^5 = 9\)的所有整数解。
-solve({x-y \> 6, (x+y)^5 = 9}, \[x, y\])\[\]; 答案：
-\([x = 3^{2/5}-y, \quad  y < \frac{1}{2}3^{2/5}-3]\)
+solve({x-y \> 6, (x+y)^5 = 9}, \[x, y\])\[\]; 答案： \([x = 3^{2/5}-y, \quad  y < \frac{1}{2}3^{2/5}-3]\)
 
 ### 方程组
 
   - 代数方程组
-    \> p1 := x\*y\*z-x\*y^2-z-x-y; p2 := x\*z-x^2-z-y+x; p3 :=
-    z^2-x^2-y^2;
+    \> p1 := x\*y\*z-x\*y^2-z-x-y; p2 := x\*z-x^2-z-y+x; p3 := z^2-x^2-y^2;
     \> sys := {p1, p2, p3};
     \> var := {x, y, z};
     \> solve(sys, var);
       -
-        {x = 0, y = y, z = -y}, {x = 3, y = 4, z = 5}, {x = 1, y = 0, z
-        = -1}
+        {x = 0, y = y, z = -y}, {x = 3, y = 4, z = 5}, {x = 1, y = 0, z = -1}
   - 三角方程组
     \> f1 := cos(x)+sin(3\*y)+tan(5\*z) = 0;
     \> f2 := cos(3\*z)+tan(3\*y^2)-sin(2\*z^3) = 33;
@@ -191,7 +183,7 @@ solve({x-y \> 6, (x+y)^5 = 9}, \[x, y\])\[\]; 答案：
 
 ### 矩阵与行列式
 
-计算[矩阵的](../Page/矩阵.md "wikilink")[行列式](../Page/行列式.md "wikilink")。
+计算[矩阵](../Page/矩阵.md "wikilink")的[行列式](../Page/行列式.md "wikilink")。
 M:= Matrix(\[\[1,2,3|1,2,3\]\], \[a,b,c\], \[\[x,y,z|x,y,z\]\]); \# 矩阵样例
 
   -
@@ -217,8 +209,7 @@ with(VectorCalculus);
 
 w:=Wronskian(\[1,x,x^3+x-1\],x)
 
-Matrix(3, 3, {(1, 1) = 1, (1, 2) = x, (1, 3) = x^3+x-1, (2, 1) = 0, (2,
-2) = 1, (2, 3) = 3\*x^2+1, (3, 1) = 0, (3, 2) = 0, (3, 3) = 6\*x})
+Matrix(3, 3, {(1, 1) = 1, (1, 2) = x, (1, 3) = x^3+x-1, (2, 1) = 0, (2, 2) = 1, (2, 3) = 3\*x^2+1, (3, 1) = 0, (3, 2) = 0, (3, 3) = 6\*x})
 
 d:=Determinant(w);
 
@@ -229,8 +220,7 @@ d:=Determinant(w);
 
 J := Jacobian(\[r\*sin(t)), r^2\*cosh(t)\], \[r, t\]);
 
-m:=Matrix(2, 2, {(1, 1) = cos(t), (1, 2) = -r\*sin(t), (2, 1) = sinh(t),
-(2, 2) = r\*cosh(t)})
+m:=Matrix(2, 2, {(1, 1) = cos(t), (1, 2) = -r\*sin(t), (2, 1) = sinh(t), (2, 2) = r\*cosh(t)})
 
 d:=Determinant(m);
 
@@ -270,8 +260,7 @@ int(sin(x/a), x); 答案：\(-a \cos\left(\frac{x}{a}\right)\)
 ### 求解线性微分方程
 
 计算以下线性常微分方程的一个精确解\(\frac{d^2y}{dx^2}(x) - 3 y(x) = x\)初始条件为\(y(0) = 0 ,\quad \left. \frac{dy}{dx} \right|_{x=0} = 2\)
-dsolve( {diff(y(x),x,x) - 3\*y(x) = x, y(0)=0, D(y)(0)=2}, y(x) );
-答案：\(y(x)=\frac{7}{18}\sqrt{3}e^{\sqrt{3}x}-\frac{7}{18}\sqrt{3}e^{-\sqrt{3}x}-\frac{1}{3}x\)
+dsolve( {diff(y(x),x,x) - 3\*y(x) = x, y(0)=0, D(y)(0)=2}, y(x) ); 答案：\(y(x)=\frac{7}{18}\sqrt{3}e^{\sqrt{3}x}-\frac{7}{18}\sqrt{3}e^{-\sqrt{3}x}-\frac{1}{3}x\)
 
 ### 非线性常微分方程
 
@@ -279,8 +268,7 @@ dsolve( {diff(y(x),x,x) - 3\*y(x) = x, y(0)=0, D(y)(0)=2}, y(x) );
 
 解：
 
-\[y(x)=C_{1}\sqrt(x)\]BesselI(\(1 \over 4\),\(1 \over 2\)\(x^2\))
-+\(C_{2}\sqrt(x)\)BesselK(\(1 \over 4\),\(1 \over 2\)\(x^2\))
+\[y(x)=C_{1}\sqrt(x)\]BesselI(\(1 \over 4\),\(1 \over 2\)\(x^2\)) +\(C_{2}\sqrt(x)\)BesselK(\(1 \over 4\),\(1 \over 2\)\(x^2\))
 
 ### 级数展开
 
@@ -377,8 +365,7 @@ plot3d(x^2+y^2,x=-1..1,y=-1..1);
 
 with(plots);
 
-animate(subs(k = .5, f), x = -30 .. 30, t = -10 .. 10, numpoints = 200,
-frames = 50, color = red, thickness = 3);
+animate(subs(k = .5, f), x = -30 .. 30, t = -10 .. 10, numpoints = 200, frames = 50, color = red, thickness = 3);
 
 |                                                                                                |                                                                                                                   |
 | ---------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
@@ -388,12 +375,11 @@ frames = 50, color = red, thickness = 3);
 
 with(plots)
 
-animate3d(cos(t\*x)\*sin(3\*t\*y), x = -Pi .. Pi, y = -Pi .. Pi, t = 1
-.. 2)
+animate3d(cos(t\*x)\*sin(3\*t\*y), x = -Pi .. Pi, y = -Pi .. Pi, t = 1 .. 2)
 
 ### 求解偏微分方程组
 
-求解[偏微分方程组](../Page/偏微分方程.md "wikilink")
+求解[偏微分方程](../Page/偏微分方程.md "wikilink")组
 
 \[{\frac {\partial }{\partial x}}v \left( x,t
  \right) =-u \left( x,t \right) v \left( x,t \right)\]
@@ -404,8 +390,7 @@ animate3d(cos(t\*x)\*sin(3\*t\*y), x = -Pi .. Pi, y = -Pi .. Pi, t = 1
 
 \[{\frac {\partial }{\partial t}}u
  \left( x,t \right) +2\,u \left( x,t \right) {\frac {\partial }{
-\partial x}}u \left( x,t \right) -{\frac {\partial ^{2}}{\partial {x}^{2}}}u \left( x,t \right) =0\]
-条件为\(v(x,t)\neq 0\).
+\partial x}}u \left( x,t \right) -{\frac {\partial ^{2}}{\partial {x}^{2}}}u \left( x,t \right) =0\] 条件为\(v(x,t)\neq 0\).
 
 `eqn1:= diff(v(x, t), x) = -u(x,t)*v(x,t):`
 `eqn2:= diff(v(x, t), t) = -v(x,t)*(diff(u(x,t), x))+v(x,t)*u(x,t)^2:`
@@ -421,8 +406,7 @@ _C1}\, \left( {e^{\sqrt {{\it _c}_{{1}}}x}} \right) ^{2}+{\it _C2}} }\)
 
 ### 积分方程
 
-寻找函数\(f\)满足[积分方程](../Page/积分方程.md "wikilink")
-\(f(x)-3\int_{-1}^1(xy+x^2y^2)f(y)dy = h(x)\).
+寻找函数\(f\)满足[积分方程](../Page/积分方程.md "wikilink") \(f(x)-3\int_{-1}^1(xy+x^2y^2)f(y)dy = h(x)\).
 eqn:= f(x)-3\*Integrate((x\*y+x^2\*y^2)\*f(y), y=-1..1) = h(x):
 
 `intsolve(eqn,f(x));`
@@ -436,11 +420,8 @@ eqn:= f(x)-3\*Integrate((x\*y+x^2\*y^2)\*f(y), y=-1..1) = h(x):
 ## 参考文献
 
   - 何青 王丽芬编著《Maple教程》 科学出版社 2010 ISBN 9787030177445
-  - David Betounes, Partial Differential Equations for Computational
-    Science: With Maple and Vector Analysis Springer, 1998 ISBN
-    9780387983004
-  - George Articolo Partial Differential Equations & Boundary Value
-    Problems with Maple V Academic Press 1998 ISBN 9780120644759
+  - David Betounes, Partial Differential Equations for Computational Science: With Maple and Vector Analysis Springer, 1998 ISBN 9780387983004
+  - George Articolo Partial Differential Equations & Boundary Value Problems with Maple V Academic Press 1998 ISBN 9780120644759
 
 ## 外部链接
 
@@ -457,32 +438,4 @@ eqn:= f(x)-3\*Integrate((x\*y+x^2\*y^2)\*f(y), y=-1..1) = h(x):
 
   - [Mathematica](https://zh.wikipedia.org/wiki/Mathematica "wikilink")
 
-[Category:C軟體](https://zh.wikipedia.org/wiki/Category:C軟體 "wikilink")
-[Category:计算笔记本](https://zh.wikipedia.org/wiki/Category:计算笔记本 "wikilink")
-[Category:Linux计算机代数系统软件](https://zh.wikipedia.org/wiki/Category:Linux计算机代数系统软件 "wikilink")
-[Category:MacOS计算机代数系统软件](https://zh.wikipedia.org/wiki/Category:MacOS计算机代数系统软件 "wikilink")
-[Category:Windows计算机代数系统软件](https://zh.wikipedia.org/wiki/Category:Windows计算机代数系统软件 "wikilink")
-[Category:跨平台軟體](https://zh.wikipedia.org/wiki/Category:跨平台軟體 "wikilink")
-[Category:数据可视化软件](https://zh.wikipedia.org/wiki/Category:数据可视化软件 "wikilink")
-[Category:数据导向编程语言](https://zh.wikipedia.org/wiki/Category:数据导向编程语言 "wikilink")
-[Category:计量经济学软件](https://zh.wikipedia.org/wiki/Category:计量经济学软件 "wikilink")
-[Category:函数式编程语言](https://zh.wikipedia.org/wiki/Category:函数式编程语言 "wikilink")
-[Category:IRIX软件](https://zh.wikipedia.org/wiki/Category:IRIX软件 "wikilink")
-[Category:線性代數](https://zh.wikipedia.org/wiki/Category:線性代數 "wikilink")
-[Category:Maplesoft](https://zh.wikipedia.org/wiki/Category:Maplesoft "wikilink")
-[Category:數學最佳化軟體](https://zh.wikipedia.org/wiki/Category:數學最佳化軟體 "wikilink")
-[Category:数学软件](https://zh.wikipedia.org/wiki/Category:数学软件 "wikilink")
-[Category:Linux數值分析軟件](https://zh.wikipedia.org/wiki/Category:Linux數值分析軟件 "wikilink")
-[Category:MacOS數值分析軟件](https://zh.wikipedia.org/wiki/Category:MacOS數值分析軟件 "wikilink")
-[Category:Windows數值分析軟件](https://zh.wikipedia.org/wiki/Category:Windows數值分析軟件 "wikilink")
-[Category:數值分析語言](https://zh.wikipedia.org/wiki/Category:數值分析語言 "wikilink")
-[Category:數值軟體](https://zh.wikipedia.org/wiki/Category:數值軟體 "wikilink")
-[Category:并行计算](https://zh.wikipedia.org/wiki/Category:并行计算 "wikilink")
-[Category:物理软件](https://zh.wikipedia.org/wiki/Category:物理软件 "wikilink")
-[Category:圖表軟件](https://zh.wikipedia.org/wiki/Category:圖表軟件 "wikilink")
-[Category:1982年面世的產品](https://zh.wikipedia.org/wiki/Category:1982年面世的產品 "wikilink")
-[Category:Linux专有商业软件](https://zh.wikipedia.org/wiki/Category:Linux专有商业软件 "wikilink")
-[Category:专有跨平台软件](https://zh.wikipedia.org/wiki/Category:专有跨平台软件 "wikilink")
-[Category:回归和曲线拟合软件](https://zh.wikipedia.org/wiki/Category:回归和曲线拟合软件 "wikilink")
-[Category:软件建模语言](https://zh.wikipedia.org/wiki/Category:软件建模语言 "wikilink")
-[Category:统计编程语言](https://zh.wikipedia.org/wiki/Category:统计编程语言 "wikilink")
+[Category:C軟體](https://zh.wikipedia.org/wiki/Category:C軟體 "wikilink") [Category:计算笔记本](https://zh.wikipedia.org/wiki/Category:计算笔记本 "wikilink") [Category:Linux计算机代数系统软件](https://zh.wikipedia.org/wiki/Category:Linux计算机代数系统软件 "wikilink") [Category:MacOS计算机代数系统软件](https://zh.wikipedia.org/wiki/Category:MacOS计算机代数系统软件 "wikilink") [Category:Windows计算机代数系统软件](https://zh.wikipedia.org/wiki/Category:Windows计算机代数系统软件 "wikilink") [Category:跨平台軟體](https://zh.wikipedia.org/wiki/Category:跨平台軟體 "wikilink") [Category:数据可视化软件](https://zh.wikipedia.org/wiki/Category:数据可视化软件 "wikilink") [Category:数据导向编程语言](https://zh.wikipedia.org/wiki/Category:数据导向编程语言 "wikilink") [Category:计量经济学软件](https://zh.wikipedia.org/wiki/Category:计量经济学软件 "wikilink") [Category:函数式编程语言](https://zh.wikipedia.org/wiki/Category:函数式编程语言 "wikilink") [Category:IRIX软件](https://zh.wikipedia.org/wiki/Category:IRIX软件 "wikilink") [Category:線性代數](https://zh.wikipedia.org/wiki/Category:線性代數 "wikilink") [Category:Maplesoft](https://zh.wikipedia.org/wiki/Category:Maplesoft "wikilink") [Category:數學最佳化軟體](https://zh.wikipedia.org/wiki/Category:數學最佳化軟體 "wikilink") [Category:数学软件](https://zh.wikipedia.org/wiki/Category:数学软件 "wikilink") [Category:Linux數值分析軟件](https://zh.wikipedia.org/wiki/Category:Linux數值分析軟件 "wikilink") [Category:MacOS數值分析軟件](https://zh.wikipedia.org/wiki/Category:MacOS數值分析軟件 "wikilink") [Category:Windows數值分析軟件](https://zh.wikipedia.org/wiki/Category:Windows數值分析軟件 "wikilink") [Category:數值分析語言](https://zh.wikipedia.org/wiki/Category:數值分析語言 "wikilink") [Category:數值軟體](https://zh.wikipedia.org/wiki/Category:數值軟體 "wikilink") [Category:并行计算](https://zh.wikipedia.org/wiki/Category:并行计算 "wikilink") [Category:物理软件](https://zh.wikipedia.org/wiki/Category:物理软件 "wikilink") [Category:圖表軟件](https://zh.wikipedia.org/wiki/Category:圖表軟件 "wikilink") [Category:1982年面世的產品](https://zh.wikipedia.org/wiki/Category:1982年面世的產品 "wikilink") [Category:Linux专有商业软件](https://zh.wikipedia.org/wiki/Category:Linux专有商业软件 "wikilink") [Category:专有跨平台软件](https://zh.wikipedia.org/wiki/Category:专有跨平台软件 "wikilink") [Category:回归和曲线拟合软件](https://zh.wikipedia.org/wiki/Category:回归和曲线拟合软件 "wikilink") [Category:软件建模语言](https://zh.wikipedia.org/wiki/Category:软件建模语言 "wikilink") [Category:统计编程语言](https://zh.wikipedia.org/wiki/Category:统计编程语言 "wikilink")

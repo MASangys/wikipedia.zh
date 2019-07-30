@@ -1,9 +1,6 @@
-**V**, **v**
-是[拉丁字母中的第](../Page/拉丁字母.md "wikilink")22个[字母](../Page/字母.md "wikilink")。
+**V**, **v** 是[拉丁字母](../Page/拉丁字母.md "wikilink")中的第22个[字母](../Page/字母.md "wikilink")。
 
-就像[F那样](../Page/F.md "wikilink")，在[希腊语中](https://zh.wikipedia.org/wiki/希腊语 "wikilink")，（Ypsilon）也来源于[闪族语的Waw](https://zh.wikipedia.org/wiki/闪族语 "wikilink")。[伊特鲁里亚人在某种程度上简化了字母变成了V](https://zh.wikipedia.org/wiki/伊特鲁里亚人 "wikilink")。它在伊特鲁里亚语中的发音是\[u\]；但是因为[拉丁语缺乏表达](../Page/拉丁语.md "wikilink")\[w\]的字母，[罗马人把V用来表达](../Page/罗马.md "wikilink")\[w\]和\[u\]。在[罗曼语系中](https://zh.wikipedia.org/wiki/罗曼语系 "wikilink")，V用来表达从\[w\]中发展而来的\[v\]，就像德语字母W，开始用于发像英语字母的音，但在后来在[中高地德语](https://zh.wikipedia.org/wiki/中高地德语 "wikilink")（Middle
-High
-German）时代后变成发\[v\]音了。与此同时，V在德语中的发音用于表达与在英语中相同的发音，但是德语的Vau很快就再次用于表达\[f\]了（相同的情况现在可能正在[荷兰发生](../Page/荷兰.md "wikilink")）。
+就像[F](../Page/F.md "wikilink")那样，在[希腊语中](https://zh.wikipedia.org/wiki/希腊语 "wikilink")，（Ypsilon）也来源于[闪族语的Waw](https://zh.wikipedia.org/wiki/闪族语 "wikilink")。[伊特鲁里亚人在某种程度上简化了字母变成了V](https://zh.wikipedia.org/wiki/伊特鲁里亚人 "wikilink")。它在伊特鲁里亚语中的发音是\[u\]；但是因为[拉丁语](../Page/拉丁语.md "wikilink")缺乏表达\[w\]的字母，[罗马](../Page/罗马.md "wikilink")人把V用来表达\[w\]和\[u\]。在[罗曼语系中](https://zh.wikipedia.org/wiki/罗曼语系 "wikilink")，V用来表达从\[w\]中发展而来的\[v\]，就像德语字母W，开始用于发像英语字母的音，但在后来在[中高地德语](https://zh.wikipedia.org/wiki/中高地德语 "wikilink")（Middle High German）时代后变成发\[v\]音了。与此同时，V在德语中的发音用于表达与在英语中相同的发音，但是德语的Vau很快就再次用于表达\[f\]了（相同的情况现在可能正在[荷兰](../Page/荷兰.md "wikilink")发生）。
 
 V代表着女性的子宫，承接着雨露以及男性的精液
 

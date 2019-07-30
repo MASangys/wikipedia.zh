@@ -4,8 +4,7 @@
 
 ### Thoroughbred-B核心（[Socket A](../Page/Socket_A.md "wikilink")，130 nm）
 
-  - 支援功能：[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[Enhanced
-    3DNow\!](../Page/3DNow!.md "wikilink")
+  - 支援功能：[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[Enhanced 3DNow\!](../Page/3DNow!.md "wikilink")
 
 | 型號    | 時脈       | L2快取    | 外頻       | 倍頻    | 電壓     | 功耗   | 推出日期       |
 | ----- | -------- | ------- | -------- | ----- | ------ | ---- | ---------- |
@@ -18,8 +17,7 @@
 
 ### Thorton核心（[Socket A](../Page/Socket_A.md "wikilink")，130 nm）
 
-  - 支援功能：[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[Enhanced
-    3DNow\!](../Page/3DNow!.md "wikilink")
+  - 支援功能：[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[Enhanced 3DNow\!](../Page/3DNow!.md "wikilink")
 
 | 型號    | 時脈       | L2快取    | 外頻       | 倍頻  | 電壓     | 功耗   | 推出日期    |
 | ----- | -------- | ------- | -------- | --- | ------ | ---- | ------- |
@@ -29,8 +27,7 @@
 
 ### Barton核心（[Socket A](../Page/Socket_A.md "wikilink")，130 nm）
 
-  - 支援功能：[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[Enhanced
-    3DNow\!](../Page/3DNow!.md "wikilink")
+  - 支援功能：[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[Enhanced 3DNow\!](../Page/3DNow!.md "wikilink")
 
 | 型號    | 時脈       | L2快取    | 外頻       | 倍頻  | 電壓     | 功耗   | 推出日期       |
 | ----- | -------- | ------- | -------- | --- | ------ | ---- | ---------- |
@@ -39,8 +36,7 @@
 
 ### Paris核心 (CG, 130 nm)
 
-  - 支援功能：[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[Enhanced
-    3DNow\!](../Page/3DNow!.md "wikilink")、[NX位元](../Page/NX位元.md "wikilink")
+  - 支援功能：[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[Enhanced 3DNow\!](../Page/3DNow!.md "wikilink")、[NX位元](../Page/NX位元.md "wikilink")
   - 插座：[Socket 754](../Page/Socket_754.md "wikilink")
 
 | 型號    | 時脈       | L2快取    | [HyperTransport](../Page/HyperTransport.md "wikilink") | 倍頻 | 電壓     | 功耗   | 推出日期       |
@@ -51,8 +47,7 @@
 
 ### Palermo核心（[Socket 754](../Page/Socket_754.md "wikilink")，90 nm）
 
-  - 支援功能：[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[Enhanced
-    3DNow\!](../Page/3DNow!.md "wikilink")、[NX位元](../Page/NX位元.md "wikilink")
+  - 支援功能：[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[Enhanced 3DNow\!](../Page/3DNow!.md "wikilink")、[NX位元](../Page/NX位元.md "wikilink")
   - OPN為BO及BX字尾的產品支援[SSE3](../Page/SSE3.md "wikilink")
   - OPN為BX字尾的產品支援[AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink")
   - 3000+或以上的產品支援[Cool'n'Quiet](../Page/Cool'n'Quiet.md "wikilink")
@@ -70,8 +65,7 @@
 
 ### Palermo核心（[Socket 939](../Page/Socket_939.md "wikilink")，90 nm）
 
-  - 支援功能：[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[Enhanced
-    3DNow\!](../Page/3DNow!.md "wikilink")、[NX位元](../Page/NX位元.md "wikilink")
+  - 支援功能：[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[Enhanced 3DNow\!](../Page/3DNow!.md "wikilink")、[NX位元](../Page/NX位元.md "wikilink")
   - OPN為BW字尾的產品支援[AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink")
 
 | 型號    | 時脈       | L2快取    | [HyperTransport](../Page/HyperTransport.md "wikilink") | 倍頻 <sup id="fn_2_back">[2](https://zh.wikipedia.org/wiki/#fn_2 "wikilink") | 電壓          | 功耗   | 推出日期     |
@@ -83,8 +77,7 @@
 
 ### Manila核心 (F2, 90 nm)
 
-  - 支援功能：[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[Enhanced
-    3DNow\!](../Page/3DNow!.md "wikilink")、[NX位元](../Page/NX位元.md "wikilink")、[AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink")、[Cool'n'Quiet](../Page/Cool'n'Quiet.md "wikilink")
+  - 支援功能：[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[Enhanced 3DNow\!](../Page/3DNow!.md "wikilink")、[NX位元](../Page/NX位元.md "wikilink")、[AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink")、[Cool'n'Quiet](../Page/Cool'n'Quiet.md "wikilink")
   - 插座：[Socket AM2](../Page/Socket_AM2.md "wikilink")
 
 | 型號    | 時脈       | L2快取    | [HyperTransport](../Page/HyperTransport.md "wikilink") | 倍頻 <sup id="fn_2_back">[2](https://zh.wikipedia.org/wiki/#fn_2 "wikilink") | 電壓          | 功耗   | 推出日期        |
@@ -99,8 +92,7 @@
 
 ### Manila核心（F2，低功耗，小型化，90 nm）
 
-  - 支援功能：[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[Enhanced
-    3DNow\!](../Page/3DNow!.md "wikilink")、[NX位元](../Page/NX位元.md "wikilink")、[AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink")、[Cool'n'Quiet](../Page/Cool'n'Quiet.md "wikilink")
+  - 支援功能：[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[Enhanced 3DNow\!](../Page/3DNow!.md "wikilink")、[NX位元](../Page/NX位元.md "wikilink")、[AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink")、[Cool'n'Quiet](../Page/Cool'n'Quiet.md "wikilink")
   - 插座：[Socket AM2](../Page/Socket_AM2.md "wikilink")
 
 | 型號    | 時脈       | L2快取    | [HyperTransport](../Page/HyperTransport.md "wikilink") | 倍頻 <sup id="fn_2_back">[2](https://zh.wikipedia.org/wiki/#fn_2 "wikilink") | 電壓          | 功耗   | 推出日期       |
@@ -112,8 +104,7 @@
 
 ### Sparta核心（G1 & G2，低功耗，65 nm）
 
-  - 支援功能：[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[Enhanced
-    3DNow\!](../Page/3DNow!.md "wikilink")、[NX位元](../Page/NX位元.md "wikilink")、[AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink")、[Cool'n'Quiet](../Page/Cool'n'Quiet.md "wikilink")
+  - 支援功能：[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[Enhanced 3DNow\!](../Page/3DNow!.md "wikilink")、[NX位元](../Page/NX位元.md "wikilink")、[AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink")、[Cool'n'Quiet](../Page/Cool'n'Quiet.md "wikilink")
   - 插座：[Socket AM2](../Page/Socket_AM2.md "wikilink")
 
 | 型號           | 時脈       | L2快取    | [HyperTransport](../Page/HyperTransport.md "wikilink") | 倍頻 <sup id="fn_2_back">[2](https://zh.wikipedia.org/wiki/#fn_2 "wikilink") | 電壓          | 功耗   | 推出日期       |
@@ -126,8 +117,7 @@
 
 ### Brisbane核心（G1 & G2 雙核，65 nm）
 
-  - 支援功能：[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[Enhanced
-    3DNow\!](../Page/3DNow!.md "wikilink")、[NX位元](../Page/NX位元.md "wikilink")、[AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink")、[Cool'n'Quiet](../Page/Cool'n'Quiet.md "wikilink")
+  - 支援功能：[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[Enhanced 3DNow\!](../Page/3DNow!.md "wikilink")、[NX位元](../Page/NX位元.md "wikilink")、[AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink")、[Cool'n'Quiet](../Page/Cool'n'Quiet.md "wikilink")
   - 插座：[Socket AM2](../Page/Socket_AM2.md "wikilink")
 
 | 型號         | 時脈       | L2快取        | [HyperTransport](../Page/HyperTransport.md "wikilink") | 倍頻 <sup id="fn_2_back">[2](https://zh.wikipedia.org/wiki/#fn_2 "wikilink") | 電壓 | 功耗   | 推出日期    |
@@ -139,9 +129,7 @@
 
 ### Dublin核心（[Socket 754](../Page/Socket_754.md "wikilink")，130 nm，桌上型替代）
 
-  - 支援功能：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[Enhanced
-    3DNow\!](../Page/3DNow!.md "wikilink")、[NX
-    bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink")*
+  - 支援功能：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[Enhanced 3DNow\!](../Page/3DNow!.md "wikilink")、[NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink")*
 
 | 型號                   | 時脈       | L2快取    | [HyperTransport](../Page/HyperTransport.md "wikilink") | 倍頻 <sup id="fn_2_back">[2](https://zh.wikipedia.org/wiki/#fn_2 "wikilink") | 電壓         | 功耗      | 推出日期       |
 | -------------------- | -------- | ------- | ------------------------------------------------------ | -------------------------------------------------------------------------- | ---------- | ------- | ---------- |
@@ -152,9 +140,7 @@
 
 ### Dublin核心（[Socket 754](../Page/Socket_754.md "wikilink")，130 nm，低功耗）
 
-  - 支援功能：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[Enhanced
-    3DNow\!](../Page/3DNow!.md "wikilink")、[NX
-    bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink")*
+  - 支援功能：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[Enhanced 3DNow\!](../Page/3DNow!.md "wikilink")、[NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink")*
 
 | 型號                   | 時脈       | L2快取    | [HyperTransport](../Page/HyperTransport.md "wikilink") | 倍頻 <sup id="fn_2_back">[2](https://zh.wikipedia.org/wiki/#fn_2 "wikilink") | 電壓           | 功耗     | 推出日期       |
 | -------------------- | -------- | ------- | ------------------------------------------------------ | -------------------------------------------------------------------------- | ------------ | ------ | ---------- |
@@ -164,9 +150,7 @@
 
 ### Georgetown核心（[Socket 754](../Page/Socket_754.md "wikilink")，90 nm，桌上型替代）
 
-  - 支援功能：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[Enhanced
-    3DNow\!](../Page/3DNow!.md "wikilink")、[NX
-    bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink")*
+  - 支援功能：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[Enhanced 3DNow\!](../Page/3DNow!.md "wikilink")、[NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink")*
 
 | 型號                   | 時脈       | L2快取    | [HyperTransport](../Page/HyperTransport.md "wikilink") | 倍頻 <sup id="fn_2_back">[2](https://zh.wikipedia.org/wiki/#fn_2 "wikilink") | 電壓         | 功耗   | 推出日期       |
 | -------------------- | -------- | ------- | ------------------------------------------------------ | -------------------------------------------------------------------------- | ---------- | ---- | ---------- |
@@ -178,9 +162,7 @@
 
 ### Sonora核心（[Socket 754](../Page/Socket_754.md "wikilink")，90 nm，低功耗）
 
-  - 支援功能：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[Enhanced
-    3DNow\!](../Page/3DNow!.md "wikilink")、[NX
-    bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink")*
+  - 支援功能：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[Enhanced 3DNow\!](../Page/3DNow!.md "wikilink")、[NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink")*
 
 | 型號                   | 時脈       | L2快取    | [HyperTransport](../Page/HyperTransport.md "wikilink") | 倍頻 <sup id="fn_2_back">[2](https://zh.wikipedia.org/wiki/#fn_2 "wikilink") | 電壓           | 功耗   | 推出日期        |
 | -------------------- | -------- | ------- | ------------------------------------------------------ | -------------------------------------------------------------------------- | ------------ | ---- | ----------- |
@@ -191,9 +173,7 @@
 
 ### Albany核心（[Socket 754](../Page/Socket_754.md "wikilink")，90 nm，桌上型替代）
 
-  - 支援功能：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[Enhanced
-    3DNow\!](../Page/3DNow!.md "wikilink")、[NX
-    bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink")*
+  - 支援功能：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[Enhanced 3DNow\!](../Page/3DNow!.md "wikilink")、[NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink")*
 
 | 型號                   | 時脈       | L2快取    | [HyperTransport](../Page/HyperTransport.md "wikilink") | 倍頻 <sup id="fn_2_back">[2](https://zh.wikipedia.org/wiki/#fn_2 "wikilink") | 電壓         | 功耗   | 推出日期       |
 | -------------------- | -------- | ------- | ------------------------------------------------------ | -------------------------------------------------------------------------- | ---------- | ---- | ---------- |
@@ -205,9 +185,7 @@
 
 ### Roma核心（[Socket 754](../Page/Socket_754.md "wikilink")，90 nm，低功耗）
 
-  - 支援功能：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[Enhanced
-    3DNow\!](../Page/3DNow!.md "wikilink")、[NX
-    bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink")*
+  - 支援功能：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[Enhanced 3DNow\!](../Page/3DNow!.md "wikilink")、[NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink")*
 
 | 型號                   | 時脈       | L2快取    | [HyperTransport](../Page/HyperTransport.md "wikilink") | 倍頻 <sup id="fn_2_back">[2](https://zh.wikipedia.org/wiki/#fn_2 "wikilink") | 電壓         | 功耗   | 推出日期       |
 | -------------------- | -------- | ------- | ------------------------------------------------------ | -------------------------------------------------------------------------- | ---------- | ---- | ---------- |
@@ -218,12 +196,7 @@
 
 ### Keene核心（[Socket S1](https://zh.wikipedia.org/wiki/Socket_S1 "wikilink")，90 nm，低功耗）
 
-  - 支援功能：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[Enhanced
-    3DNow\!](../Page/3DNow!.md "wikilink")、[NX
-    bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink")、[Cool'n'Quiet](../Page/Cool'n'Quiet.md "wikilink")，[AMD
-    PowerNow\!](https://zh.wikipedia.org/wiki/AMD_PowerNow! "wikilink")、[HyperTransport](../Page/HyperTransport.md "wikilink")、[AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink")、[AMD
-    Digital Media
-    XPress](https://zh.wikipedia.org/wiki/AMD_Digital_Media_XPress "wikilink")*
+  - 支援功能：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[Enhanced 3DNow\!](../Page/3DNow!.md "wikilink")、[NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink")、[Cool'n'Quiet](../Page/Cool'n'Quiet.md "wikilink")，[AMD PowerNow\!](https://zh.wikipedia.org/wiki/AMD_PowerNow! "wikilink")、[HyperTransport](../Page/HyperTransport.md "wikilink")、[AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink")、[AMD Digital Media XPress](https://zh.wikipedia.org/wiki/AMD_Digital_Media_XPress "wikilink")*
 
 | 型號                   | 時脈       | L2快取    | [HyperTransport](../Page/HyperTransport.md "wikilink") | 倍頻 <sup id="fn_2_back">[2](https://zh.wikipedia.org/wiki/#fn_2 "wikilink") | 電壓                | 功耗   | 推出日期        |
 | -------------------- | -------- | ------- | ------------------------------------------------------ | -------------------------------------------------------------------------- | ----------------- | ---- | ----------- |
@@ -234,12 +207,7 @@
 
 ### Sherman核心（[Socket S1](https://zh.wikipedia.org/wiki/Socket_S1 "wikilink")，G1, 65 nm，低功耗）
 
-  - 支援功能：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[Enhanced
-    3DNow\!](../Page/3DNow!.md "wikilink")、[NX
-    bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink")、[Cool'n'Quiet](../Page/Cool'n'Quiet.md "wikilink")，[AMD
-    PowerNow\!](https://zh.wikipedia.org/wiki/AMD_PowerNow! "wikilink")、[HyperTransport](../Page/HyperTransport.md "wikilink")、[AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink")、[AMD
-    Digital Media
-    XPress](https://zh.wikipedia.org/wiki/AMD_Digital_Media_XPress "wikilink")*
+  - 支援功能：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[Enhanced 3DNow\!](../Page/3DNow!.md "wikilink")、[NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink")、[Cool'n'Quiet](../Page/Cool'n'Quiet.md "wikilink")，[AMD PowerNow\!](https://zh.wikipedia.org/wiki/AMD_PowerNow! "wikilink")、[HyperTransport](../Page/HyperTransport.md "wikilink")、[AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink")、[AMD Digital Media XPress](https://zh.wikipedia.org/wiki/AMD_Digital_Media_XPress "wikilink")*
 
 | 型號                   | 時脈       | L2快取    | [HyperTransport](../Page/HyperTransport.md "wikilink") | 倍頻 <sup id="fn_2_back">[2](https://zh.wikipedia.org/wiki/#fn_2 "wikilink") | 電壓 | 功耗   | 推出日期 |
 | -------------------- | -------- | ------- | ------------------------------------------------------ | -------------------------------------------------------------------------- | -- | ---- | ---- |
@@ -256,5 +224,4 @@
   - [AMD Athlon處理器列表](../Page/AMD_Athlon處理器列表.md "wikilink")
   - [AMD Athlon XP處理器列表](../Page/AMD_Athlon_XP處理器列表.md "wikilink")
 
-[Category:AMD處理器列表](https://zh.wikipedia.org/wiki/Category:AMD處理器列表 "wikilink")
-[Category:AMD处理器](https://zh.wikipedia.org/wiki/Category:AMD处理器 "wikilink")
+[Category:AMD處理器列表](https://zh.wikipedia.org/wiki/Category:AMD處理器列表 "wikilink") [Category:AMD处理器](https://zh.wikipedia.org/wiki/Category:AMD处理器 "wikilink")

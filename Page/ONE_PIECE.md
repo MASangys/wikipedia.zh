@@ -1,17 +1,14 @@
-《**ONE
-PIECE**》（，中文譯名：海賊王、航海王）是[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[尾田榮一郎創作的一部](https://zh.wikipedia.org/wiki/尾田榮一郎 "wikilink")[少年漫畫作品](https://zh.wikipedia.org/wiki/少年漫畫 "wikilink")，至今還在連載，該作品描述一名少年**[蒙其·D·魯夫](../Page/蒙其·D·魯夫.md "wikilink")**想要得到「**ONE
-PIECE**」和成為「**海賊王**」的[故事](../Page/故事.md "wikilink")。
+《**ONE PIECE**》（，中文譯名：海賊王、航海王）是[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[尾田榮一郎創作的一部](https://zh.wikipedia.org/wiki/尾田榮一郎 "wikilink")[少年漫畫作品](https://zh.wikipedia.org/wiki/少年漫畫 "wikilink")，至今還在連載，該作品描述一名少年**[蒙其·D·魯夫](../Page/蒙其·D·魯夫.md "wikilink")**想要得到「**ONE PIECE**」和成為「**海賊王**」的[故事](../Page/故事.md "wikilink")。
 
-該作於[1997年在日本](../Page/1997年.md "wikilink")[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[雜誌](https://zh.wikipedia.org/wiki/雜誌 "wikilink")《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》（[集英社](../Page/集英社.md "wikilink")）定期連載，之後被改編為各種系列的[衍生作品](https://zh.wikipedia.org/wiki/ONE_PIECE#衍生作品 "wikilink")，主要包括同名的[電視動畫](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")、[電影](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\)#電影 "wikilink")、[小說和](https://zh.wikipedia.org/wiki/ONE_PIECE#輕小說 "wikilink")[電子遊戲等周邊](https://zh.wikipedia.org/wiki/ONE_PIECE#電子遊戲 "wikilink")[媒體產品](https://zh.wikipedia.org/wiki/媒體 "wikilink")。
+該作於[1997年](../Page/1997年.md "wikilink")在日本[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[雜誌](https://zh.wikipedia.org/wiki/雜誌 "wikilink")《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》（[集英社](../Page/集英社.md "wikilink")）定期連載，之後被改編為各種系列的[衍生作品](https://zh.wikipedia.org/wiki/ONE_PIECE#衍生作品 "wikilink")，主要包括同名的[電視動畫](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")、[電影](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\)#電影 "wikilink")、[小說和](https://zh.wikipedia.org/wiki/ONE_PIECE#輕小說 "wikilink")[電子遊戲等周邊](https://zh.wikipedia.org/wiki/ONE_PIECE#電子遊戲 "wikilink")[媒體產品](https://zh.wikipedia.org/wiki/媒體 "wikilink")。
 
 ## 作品概述
 
-在日本漫畫雜誌《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》中長期佔據人氣榜的第一名；單行本在日本以外，亦已有30多個[翻譯版本發行](https://zh.wikipedia.org/wiki/翻譯 "wikilink")2012年5月10日《ONE
-PIECE》成為日本[Oricon排行榜從](../Page/Oricon.md "wikilink")2008年4月開始統計漫畫銷量以來，在該榜中首個總銷量破億冊的漫畫\[1\]。目前全世界總發行量已經突破**4億3,000萬本**（2017年10月）。
+在日本漫畫雜誌《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》中長期佔據人氣榜的第一名；單行本在日本以外，亦已有30多個[翻譯版本發行](https://zh.wikipedia.org/wiki/翻譯 "wikilink")2012年5月10日《ONE PIECE》成為日本[Oricon](../Page/Oricon.md "wikilink")排行榜從2008年4月開始統計漫畫銷量以來，在該榜中首個總銷量破億冊的漫畫\[1\]。目前全世界總發行量已經突破**4億3,000萬本**（2017年10月）。
 
 在2015年6月15日，[尾田榮一郎以本作品發行量打破世界紀錄](https://zh.wikipedia.org/wiki/尾田榮一郎 "wikilink")，獲得獲頒「單一作者創作發行量最多的漫畫」的[金氏世界紀錄](https://zh.wikipedia.org/wiki/金氏世界紀錄 "wikilink")\[2\]，尾田榮一郎獲得這獎項因此還畫了張魯夫拿著金氏世界紀錄的證書。
 
-改編的動畫於1999年[富士電視台播出大獲好評](../Page/富士電視台.md "wikilink")，也是[東映動畫製作動畫作品中時間最長的作品](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")。從2010年起，陸續與許多個[公司實施合作](../Page/公司.md "wikilink")，並在日本全國各地舉辦各種活動，也逐漸拓展在[日本海外國家及地區](../Page/日本.md "wikilink")（[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")、[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[香港等](../Page/香港.md "wikilink")）舉辦相關活動。
+改編的動畫於1999年[富士電視台](../Page/富士電視台.md "wikilink")播出大獲好評，也是[東映動畫製作動畫作品中時間最長的作品](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")。從2010年起，陸續與許多個[公司](../Page/公司.md "wikilink")實施合作，並在日本全國各地舉辦各種活動，也逐漸拓展在[日本](../Page/日本.md "wikilink")海外國家及地區（[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")、[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[香港](../Page/香港.md "wikilink")等）舉辦相關活動。
 
 ## 劇情大綱
 
@@ -24,20 +21,19 @@ PIECE》成為日本[Oricon排行榜從](../Page/Oricon.md "wikilink")2008年4�
   -
     **[蒙其·D·魯夫](../Page/蒙其·D·魯夫.md "wikilink")**童年時受到海賊[「紅髮」傑克的啟蒙](https://zh.wikipedia.org/wiki/「紅髮」傑克 "wikilink")，自小就立志要成為「**海賊王**」。17歲時他出海之後，接續遇見了海賊獵人**[羅羅亞·索隆](../Page/羅羅亞·索隆.md "wikilink")**、航海士**[娜美](../Page/娜美.md "wikilink")**、狙擊手**[騙人布](../Page/騙人布.md "wikilink")**、廚師**[賓什莫克·香吉士](https://zh.wikipedia.org/wiki/賓什莫克·香吉士 "wikilink")**等人並結為夥伴。他們組成了草帽海賊團準備進入偉大的航道來到了羅格鎮。離開羅格鎮後，一行人在偉大航道的入口「顛倒山」之前以各自的夢想立誓，跨越顛倒山之後進入了偉大航道，展開下一段冒險。
   -
-    草帽海賊團一行人來到偉大航道、在威士忌山峰遇到臥底在秘密犯罪組織[巴洛克華克的](../Page/巴洛克華克.md "wikilink")[阿拉巴斯坦王國公主](../Page/阿拉巴斯坦王國.md "wikilink")[納菲魯塔莉·薇薇](../Page/納菲魯塔莉·薇薇.md "wikilink")，從公主口中得知阿拉巴斯坦正處於水深火熱之中，以及[王下七武海](../Page/王下七武海.md "wikilink")[『Mr.0』克洛克達爾的陰謀後](../Page/克洛克達爾.md "wikilink")，魯夫決定幫助這位公主。在途中前往島嶼「小花園」與[巴洛克華克的部分成員開戰](../Page/巴洛克華克.md "wikilink")，並在旅途中為了治好在小花園生病的娜美去了[磁鼓島並增添一名船醫夥伴](https://zh.wikipedia.org/wiki/ONE_PIECE角色列表#磁鼓島「櫻花王國」 "wikilink")[多尼多尼·喬巴](../Page/多尼多尼·喬巴.md "wikilink")。
+    草帽海賊團一行人來到偉大航道、在威士忌山峰遇到臥底在秘密犯罪組織[巴洛克華克](../Page/巴洛克華克.md "wikilink")的[阿拉巴斯坦王國](../Page/阿拉巴斯坦王國.md "wikilink")公主[納菲魯塔莉·薇薇](../Page/納菲魯塔莉·薇薇.md "wikilink")，從公主口中得知阿拉巴斯坦正處於水深火熱之中，以及[王下七武海](../Page/王下七武海.md "wikilink")[『Mr.0』克洛克達爾的陰謀後](../Page/克洛克達爾.md "wikilink")，魯夫決定幫助這位公主。在途中前往島嶼「小花園」與[巴洛克華克](../Page/巴洛克華克.md "wikilink")的部分成員開戰，並在旅途中為了治好在小花園生病的娜美去了[磁鼓島並增添一名船醫夥伴](https://zh.wikipedia.org/wiki/ONE_PIECE角色列表#磁鼓島「櫻花王國」 "wikilink")[多尼多尼·喬巴](../Page/多尼多尼·喬巴.md "wikilink")。
   -
-    抵達阿拉巴斯坦後，當地因為克洛克達爾的煽動爆發內戰，魯夫最後擊敗克洛克達爾，內戰亦隨之結束。其後薇薇向魯夫等人道別，而原[巴洛克華克副社長](../Page/巴洛克華克.md "wikilink")**[妮可·羅賓](../Page/妮可·羅賓.md "wikilink")**，因失去人生目標，以考古學家的身份加入了草帽海賊團。
+    抵達阿拉巴斯坦後，當地因為克洛克達爾的煽動爆發內戰，魯夫最後擊敗克洛克達爾，內戰亦隨之結束。其後薇薇向魯夫等人道別，而原[巴洛克華克](../Page/巴洛克華克.md "wikilink")副社長**[妮可·羅賓](../Page/妮可·羅賓.md "wikilink")**，因失去人生目標，以考古學家的身份加入了草帽海賊團。
   -
-    離開阿拉巴斯坦王國之後，草帽海賊團撞見一艘從天而降的大船，同時紀錄指針竟然向上指向天空。對[空島產生興趣的魯夫靠著上升海流前往空島](../Page/空島.md "wikilink")。誤入了空島統治者[「神」艾涅爾的領地](https://zh.wikipedia.org/wiki/空島#艾涅爾 "wikilink")，草帽海賊團、神的軍團、以及領地原住民「香狄亞」展開激戰，艾涅爾最終被擊敗，而空島居民和香狄亞一族長達400年的戰爭也終止。
+    離開阿拉巴斯坦王國之後，草帽海賊團撞見一艘從天而降的大船，同時紀錄指針竟然向上指向天空。對[空島](../Page/空島.md "wikilink")產生興趣的魯夫靠著上升海流前往空島。誤入了空島統治者[「神」艾涅爾的領地](https://zh.wikipedia.org/wiki/空島#艾涅爾 "wikilink")，草帽海賊團、神的軍團、以及領地原住民「香狄亞」展開激戰，艾涅爾最終被擊敗，而空島居民和香狄亞一族長達400年的戰爭也終止。
   -
-    草帽海賊團遇見專門以Davy Back
-    Fight遊戲搶奪其它海賊團船員的[「銀狐」弗克西](https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#弗克西 "wikilink")，船醫喬巴被其搶走，兩個海賊團展開對決。
+    草帽海賊團遇見專門以Davy Back Fight遊戲搶奪其它海賊團船員的[「銀狐」弗克西](https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#弗克西 "wikilink")，船醫喬巴被其搶走，兩個海賊團展開對決。
   -
     為修繕傷痕累累的[前進梅利號](../Page/前進梅利號.md "wikilink")，草帽海賊團來到以造船業聞名的水之七島，卻得知梅莉號已經無法修復的消息，騙人布又慘敗給拆船流氓**[佛朗基](../Page/佛朗基.md "wikilink")**，因而離團。另一方面，羅賓遇見了政府機關[CP9](https://zh.wikipedia.org/wiki/世界政府直屬秘密間諜機關#CP9 "wikilink")，由於害怕過去發生在自己故鄉的悲劇重演在草帽海賊團上，因此自願被CP9帶走。而騙人布又因為不滿魯夫換掉梅利號的決定而決定離開，草帽海賊團陷入分崩離析的危機。
   -
     草帽海賊團前往司法島救回羅賓，與世界政府底下的CP9部隊全面對決，最後救回羅賓，騙人布也回到團裡。魯夫以火葬儀式為大限已至的梅利號送行，而佛朗基用當初偷來的2億貝里建造一艘新船[千陽號](../Page/千陽號.md "wikilink")，繼續出海冒險，而佛朗基也以船匠的身分加入海賊團。
   -
-    草帽海賊團踏入魔幻的三桅帆船地帶，遇見神秘的骷髏人**[布魯克](../Page/布魯克_\(ONE_PIECE\).md "wikilink")**，並與王下七武海之一的[月光·摩利亞產生衝突](../Page/月光·摩利亞.md "wikilink")。最後魯夫擊敗了摩利亞，布魯克也以音樂家的身分加入草帽海賊團。
+    草帽海賊團踏入魔幻的三桅帆船地帶，遇見神秘的骷髏人**[布魯克](../Page/布魯克_\(ONE_PIECE\).md "wikilink")**，並與王下七武海之一的[月光·摩利亞](../Page/月光·摩利亞.md "wikilink")產生衝突。最後魯夫擊敗了摩利亞，布魯克也以音樂家的身分加入草帽海賊團。
   -
     草帽海賊團進入偉大航道前半段的最末端夏波帝諸島，和世界貴族[天龍人起了衝突](https://zh.wikipedia.org/wiki/ONE_PIECE角色列表#世界貴族「天龍人」 "wikilink")，之後遇到[海軍上將](../Page/海軍_\(ONE_PIECE\).md "wikilink")[黃猿](https://zh.wikipedia.org/wiki/黃猿 "wikilink")、[戰桃丸以及改造人攻擊](https://zh.wikipedia.org/wiki/海軍_\(ONE_PIECE\)#戰桃丸 "wikilink")，到最後[巴索羅繆·大熊利用果實幫助草帽海賊團逃脫](https://zh.wikipedia.org/wiki/革命軍_\(ONE_PIECE\)#巴索羅謬·大熊 "wikilink")，把各個船員擊飛至不同的島嶼。
   -
@@ -52,38 +48,31 @@ PIECE》成為日本[Oricon排行榜從](../Page/Oricon.md "wikilink")2008年4�
 為《ONE PIECE》的第二部故事，收錄卷數為第61卷起；收錄話數為第598話起。
 
   -
-    歷經兩年修行後重逢的草帽海賊團為了前往新世界，而出發邁向位於海底10,000公尺以下處的「[魚人島](../Page/魚人島.md "wikilink")」。他們遇到[吉貝爾並得知魚人島的悲劇歷史](../Page/吉貝爾.md "wikilink")，原本魚人島繼承已故王妃的想法、漸漸地接近與人類和平共處的理想，但是由荷帝·瓊斯所率領的新魚人海賊團卻粉碎了這個美夢。草帽海賊團挺身阻止荷帝所率領的「[新魚人海賊團](https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#新魚人海賊團 "wikilink")」，並與[白星公主為首的魚人與人類之間開始建立新的羈絆](../Page/白星.md "wikilink")。
+    歷經兩年修行後重逢的草帽海賊團為了前往新世界，而出發邁向位於海底10,000公尺以下處的「[魚人島](../Page/魚人島.md "wikilink")」。他們遇到[吉貝爾](../Page/吉貝爾.md "wikilink")並得知魚人島的悲劇歷史，原本魚人島繼承已故王妃的想法、漸漸地接近與人類和平共處的理想，但是由荷帝·瓊斯所率領的新魚人海賊團卻粉碎了這個美夢。草帽海賊團挺身阻止荷帝所率領的「[新魚人海賊團](https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#新魚人海賊團 "wikilink")」，並與[白星](../Page/白星.md "wikilink")公主為首的魚人與人類之間開始建立新的羈絆。
   -
-    草帽海賊團與新任王下七武海[托拉法爾加·D·瓦特爾·羅相遇](../Page/托拉法爾加·D·瓦特爾·羅.md "wikilink")，魯夫接受羅的提議，組成了「海賊同盟」，目標是「[四皇](https://zh.wikipedia.org/wiki/四皇 "wikilink")」之一的[「百獸」海道](https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#海道 "wikilink")。他們靠著這強力的同盟來對抗在龐克哈薩特製造人工惡魔果實的[凱薩·克勞恩](https://zh.wikipedia.org/wiki/ONE_PIECE角色列表#凱薩·克勞恩 "wikilink")。
+    草帽海賊團與新任王下七武海[托拉法爾加·D·瓦特爾·羅](../Page/托拉法爾加·D·瓦特爾·羅.md "wikilink")相遇，魯夫接受羅的提議，組成了「海賊同盟」，目標是「[四皇](https://zh.wikipedia.org/wiki/四皇 "wikilink")」之一的[「百獸」海道](https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#海道 "wikilink")。他們靠著這強力的同盟來對抗在龐克哈薩特製造人工惡魔果實的[凱薩·克勞恩](https://zh.wikipedia.org/wiki/ONE_PIECE角色列表#凱薩·克勞恩 "wikilink")。
   -
-    草帽海賊團和羅潛入到[唐吉訶德·多佛朗明哥治理下的王國](../Page/唐吉訶德·多佛朗明哥.md "wikilink")「[多雷斯羅薩](../Page/多雷斯羅薩.md "wikilink")」，與多佛朗明哥旗下人馬展開對決，期間與[革命軍參謀總長的義兄](../Page/革命軍.md "wikilink")[薩波重逢](https://zh.wikipedia.org/wiki/革命軍_\(ONE_PIECE\)#薩波 "wikilink")，在擊敗多佛朗明哥後，多雷斯羅薩的悲劇就此結束。而作為檯面下引路人的多佛朗明哥的垮台，也使得世界局勢開始出現大幅變化。
+    草帽海賊團和羅潛入到[唐吉訶德·多佛朗明哥](../Page/唐吉訶德·多佛朗明哥.md "wikilink")治理下的王國「[多雷斯羅薩](../Page/多雷斯羅薩.md "wikilink")」，與多佛朗明哥旗下人馬展開對決，期間與[革命軍](../Page/革命軍.md "wikilink")參謀總長的義兄[薩波重逢](https://zh.wikipedia.org/wiki/革命軍_\(ONE_PIECE\)#薩波 "wikilink")，在擊敗多佛朗明哥後，多雷斯羅薩的悲劇就此結束。而作為檯面下引路人的多佛朗明哥的垮台，也使得世界局勢開始出現大幅變化。
   -
     魯夫等人到佐烏國家與娜美等人會合，但此國家卻已呈現潰滅狀態。一行人追查發生在這個國家的秘密，卻意外發現香吉士出身為殺手家族。魯夫一行人為了阻止其結婚，正在思考救回香吉士的方法時，意外得知了和之國光月一族的秘密。魯夫等人得知這件驚人事實，於是將下一個擊倒的目標鎖定為四皇「百獸」海道。魯夫、索隆與和之國光月一族及佐烏的住民為各自的目的分組團隊。
   -
-    魯夫團隊前往四皇[「BIG
-    MOM」夏洛特·莉莉所在的](../Page/夏洛特·莉莉.md "wikilink")「萬國」蛋糕島準備奪回要結婚的香吉士。魯夫等人理解香吉士與家族聯姻的真正理由，再度和吉貝爾相會，並與想要暗殺BIG
-    MOM的[火戰車海賊團組成暫時聯盟](https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#火戰車海賊團 "wikilink")，成功破壞雙方聯姻婚禮，救出香吉士和其家族[杰爾馬66](https://zh.wikipedia.org/wiki/ONE_PIECE角色列表#杰爾馬66 "wikilink")。吉貝爾為實踐理念，正式宣布退出BIG
-    MOM旗下與辭別[太陽海賊團](https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#太陽海賊團 "wikilink")，以掌舵手的身分加入草帽海賊團。在一行人達成目的後，逃出BIG
-    MOM的領地，期間魯夫與[BIG
-    MOM海賊團的](../Page/BIG_MOM海賊團.md "wikilink")[夏洛特·卡塔克利有多次激烈對決](../Page/夏洛特·卡塔克利.md "wikilink")，在最後的對決中獲勝。
+    魯夫團隊前往四皇[「BIG MOM」夏洛特·莉莉所在的](../Page/夏洛特·莉莉.md "wikilink")「萬國」蛋糕島準備奪回要結婚的香吉士。魯夫等人理解香吉士與家族聯姻的真正理由，再度和吉貝爾相會，並與想要暗殺BIG MOM的[火戰車海賊團組成暫時聯盟](https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#火戰車海賊團 "wikilink")，成功破壞雙方聯姻婚禮，救出香吉士和其家族[杰爾馬66](https://zh.wikipedia.org/wiki/ONE_PIECE角色列表#杰爾馬66 "wikilink")。吉貝爾為實踐理念，正式宣布退出BIG MOM旗下與辭別[太陽海賊團](https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#太陽海賊團 "wikilink")，以掌舵手的身分加入草帽海賊團。在一行人達成目的後，逃出BIG MOM的領地，期間魯夫與[BIG MOM海賊團的](../Page/BIG_MOM海賊團.md "wikilink")[夏洛特·卡塔克利](../Page/夏洛特·卡塔克利.md "wikilink")有多次激烈對決，在最後的對決中獲勝。
   -
     世界政府加盟國裡作為代表的50個國家，再度前往「聖地」馬力喬亞召開每4年一次的世界會議，商討世界大局政策。
   -
-    索隆等人按[錦衛門的要求偽裝成](https://zh.wikipedia.org/wiki/和之國#錦衛門 "wikilink")[和之國國民](../Page/和之國.md "wikilink")。另一方面，魯夫等人先後抵達四皇「百獸」海道駐紮的和之國。
+    索隆等人按[錦衛門的要求偽裝成](https://zh.wikipedia.org/wiki/和之國#錦衛門 "wikilink")[和之國](../Page/和之國.md "wikilink")國民。另一方面，魯夫等人先後抵達四皇「百獸」海道駐紮的和之國。
 
 ## 登場角色
 
-  - [角色列表](../Page/ONE_PIECE角色列表.md "wikilink")（[草帽海賊團](https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#草帽海賊團 "wikilink")
-    - [海賊](../Page/ONE_PIECE海賊列表.md "wikilink") -
-    [海軍](../Page/海軍_\(ONE_PIECE\).md "wikilink")）
+  - [角色列表](../Page/ONE_PIECE角色列表.md "wikilink")（[草帽海賊團](https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#草帽海賊團 "wikilink") - [海賊](../Page/ONE_PIECE海賊列表.md "wikilink") - [海軍](../Page/海軍_\(ONE_PIECE\).md "wikilink")）
 
 ## 用語與世界觀
 
 本作的世界觀舞台是由世界各地的加盟國與所組成的國際組織「世界政府」所共同管理。然而，由於[「海賊王」哥爾·D·羅傑被執行死刑後迎來了](../Page/哥爾·D·羅傑.md "wikilink")“大海賊時代”，結果海賊們於世界各地擴展權力，並直接與直屬世界政府的海軍作戰。本作是以島上的國家為單位，也有的島嶼只有村子、城鎮存在。
 
-至於生活方式和科學技術，基本上是以現實世界海賊的「黃金時代」（17世紀到18世紀）為藍本，但是與現實世界而言還是擁有很大的差別，以作品中世界固有的獨特設定（例如：偉大航道、紅土大陸和電話蟲等）。[惡魔果實服用後會依不同的果實而對應獲得不可思議的特殊能力](../Page/惡魔果實.md "wikilink")，許多角色因其能力都擁有了超人般的戰鬥力。有著「海王類」這樣的特殊生物，還有像巨人族、魚人族、小人族和毛皮族等這樣的種族，也有超過許多普通人的身高2公尺以上的人類。
+至於生活方式和科學技術，基本上是以現實世界海賊的「黃金時代」（17世紀到18世紀）為藍本，但是與現實世界而言還是擁有很大的差別，以作品中世界固有的獨特設定（例如：偉大航道、紅土大陸和電話蟲等）。[惡魔果實](../Page/惡魔果實.md "wikilink")服用後會依不同的果實而對應獲得不可思議的特殊能力，許多角色因其能力都擁有了超人般的戰鬥力。有著「海王類」這樣的特殊生物，還有像巨人族、魚人族、小人族和毛皮族等這樣的種族，也有超過許多普通人的身高2公尺以上的人類。
 
-以船長[蒙其·D·魯夫為首和他的伙伴組成](../Page/蒙其·D·魯夫.md "wikilink")[草帽海賊團](https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#草帽海賊團 "wikilink")，但他們並不會對一般民眾進行掠奪（主要是從所有者不明或同為海賊的團隊中掠奪）。它們主要到每座島上遇到問題與事件，在擊敗敵人後，繼續前往下一座島。敵人大多是以海賊為主，但有得海賊會與世界政府勾結或直接隸屬於他們，也因此會與世界政府（主要是海軍）和國家的王的公權力進行挑戰並鬥爭。
+以船長[蒙其·D·魯夫](../Page/蒙其·D·魯夫.md "wikilink")為首和他的伙伴組成[草帽海賊團](https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#草帽海賊團 "wikilink")，但他們並不會對一般民眾進行掠奪（主要是從所有者不明或同為海賊的團隊中掠奪）。它們主要到每座島上遇到問題與事件，在擊敗敵人後，繼續前往下一座島。敵人大多是以海賊為主，但有得海賊會與世界政府勾結或直接隸屬於他們，也因此會與世界政府（主要是海軍）和國家的王的公權力進行挑戰並鬥爭。
 
 ## 短期集中刊頭連載
 
@@ -270,13 +259,11 @@ PIECE》成為日本[Oricon排行榜從](../Page/Oricon.md "wikilink")2008年4�
     原作為[尾田榮一郎](https://zh.wikipedia.org/wiki/尾田榮一郎 "wikilink")，在總集篇中刊載的番外篇（數頁的短篇）。
   -
     作畫為[武井宏文](https://zh.wikipedia.org/wiki/武井宏文 "wikilink")，於月刊『最強Jump』2012年1月號～2014年2月號期間刊載。
-    起於公式本「ONE PIECE BLUE」中的四格短漫-正義使者《喬巴超人》，《ONE PIECE
-    草帽劇場》中的一話。同時電視版也播放出原創劇本的喬巴超人，第336話「喬巴超人出動！保衛海濱的電視台」，故事敘述主人翁喬巴超人帶領其助手娜美菲雅粉碎邪惡組織“騙人達巴達團”陰謀的故事。
+    起於公式本「ONE PIECE BLUE」中的四格短漫-正義使者《喬巴超人》，《ONE PIECE 草帽劇場》中的一話。同時電視版也播放出原創劇本的喬巴超人，第336話「喬巴超人出動！保衛海濱的電視台」，故事敘述主人翁喬巴超人帶領其助手娜美菲雅粉碎邪惡組織“騙人達巴達團”陰謀的故事。
   -
     作畫為[安藤英](https://zh.wikipedia.org/wiki/安藤英 "wikilink")（[尾田榮一郎的助手](https://zh.wikipedia.org/wiki/尾田榮一郎 "wikilink")），於「[最強Jump](https://zh.wikipedia.org/wiki/最強Jump "wikilink")」2015年1月號起刊載。
   -
-    原作為[尾田榮一郎](https://zh.wikipedia.org/wiki/尾田榮一郎 "wikilink")，收錄在「ONE
-    PIECE magazine」，描述「如果薩波在頂上戰爭中救了艾斯和魯夫，三人再次相聚」以此為展開的特別故事。
+    原作為[尾田榮一郎](https://zh.wikipedia.org/wiki/尾田榮一郎 "wikilink")，收錄在「ONE PIECE magazine」，描述「如果薩波在頂上戰爭中救了艾斯和魯夫，三人再次相聚」以此為展開的特別故事。
   -
     與《[七龍珠](https://zh.wikipedia.org/wiki/七龍珠 "wikilink")》的合作作品，於「週刊少年JUMP」2007年4·5號刊載。
   -
@@ -525,7 +512,7 @@ PIECE》成為日本[Oricon排行榜從](../Page/Oricon.md "wikilink")2008年4�
 ### 畫集
 
   -
-    原作：尾田榮一郎。目前出版共八卷，日本由集英社發行，台灣由[東立出版社發行](../Page/東立出版社.md "wikilink")。
+    原作：尾田榮一郎。目前出版共八卷，日本由集英社發行，台灣由[東立出版社](../Page/東立出版社.md "wikilink")發行。
 
 <table>
 <thead>
@@ -605,7 +592,7 @@ PIECE》成為日本[Oricon排行榜從](../Page/Oricon.md "wikilink")2008年4�
 </table>
 
   -
-    原作：尾田榮一郎。全一卷，日本由集英社發行，台灣由[東立出版社發行](../Page/東立出版社.md "wikilink")。
+    原作：尾田榮一郎。全一卷，日本由集英社發行，台灣由[東立出版社](../Page/東立出版社.md "wikilink")發行。
 
 <table>
 <thead>
@@ -633,9 +620,7 @@ PIECE》成為日本[Oricon排行榜從](../Page/Oricon.md "wikilink")2008年4�
 
 #### 劇場版系列
 
-作者為[濱崎達也](https://zh.wikipedia.org/wiki/濱崎達也 "wikilink")，主要改編自尾田榮一郎《ONE
-PIECE》電影版和動畫原創的故事將其小說化，目前已出版16部。日本由集英社（JUMP
-j-BOOKS）發行；台灣目前只有代理5部，由[東立出版社發行](../Page/東立出版社.md "wikilink")；中國由[上海譯文出版社出版](https://zh.wikipedia.org/wiki/上海譯文出版社 "wikilink")。
+作者為[濱崎達也](https://zh.wikipedia.org/wiki/濱崎達也 "wikilink")，主要改編自尾田榮一郎《ONE PIECE》電影版和動畫原創的故事將其小說化，目前已出版16部。日本由集英社（JUMP j-BOOKS）發行；台灣目前只有代理5部，由[東立出版社](../Page/東立出版社.md "wikilink")發行；中國由[上海譯文出版社出版](https://zh.wikipedia.org/wiki/上海譯文出版社 "wikilink")。
 
 <table>
 <thead>
@@ -771,31 +756,20 @@ j-BOOKS）發行；台灣目前只有代理5部，由[東立出版社發行](../
 #### novel系列
 
   -
-    原作：尾田榮一郎，小說：[大崎知仁](../Page/大崎知仁.md "wikilink")。目前全一卷，最初於「ONE PIECE
-    magazine」連載，日本由集英社發行書籍版本，台灣為東立出版代理。
+    原作：尾田榮一郎，小說：[大崎知仁](../Page/大崎知仁.md "wikilink")。目前全一卷，最初於「ONE PIECE magazine」連載，日本由集英社發行書籍版本，台灣為東立出版代理。
     內容是以草帽海賊團成員的故事的外傳小說，描述一般人的角度來看待草帽海賊團成員們的短篇故事（共9篇）。
     {| class=wikitable style="font-size:small;"
 
-\!rowspan="2"|卷數 \!rowspan="2"|標題 \!colspan="2"| JUMP j-BOOKS
-\!colspan="2"| [東立出版社](../Page/東立出版社.md "wikilink") |-
-\!發售日期\!\!ISBN\!\!發售日期\!\!ISBN |- \! 全 |
-<small>ONE PIECE Novel航海王小說: 草帽故事集</small> | 2017年11月2日 | ISBN
-978-4-08-703434-9 | 2018年9月3日 | ISBN 978-957-261-030-5 |}
+\!rowspan="2"|卷數 \!rowspan="2"|標題 \!colspan="2"| JUMP j-BOOKS \!colspan="2"| [東立出版社](../Page/東立出版社.md "wikilink") |- \!發售日期\!\!ISBN\!\!發售日期\!\!ISBN |- \! 全 |
+<small>ONE PIECE Novel航海王小說: 草帽故事集</small> | 2017年11月2日 | ISBN 978-4-08-703434-9 | 2018年9月3日 | ISBN 978-957-261-030-5 |}
 
   -
-    原作：尾田榮一郎，小說：（第一卷）、浜崎達也（第二卷），插畫：[寺田克也](https://zh.wikipedia.org/wiki/寺田克也 "wikilink")
-    (第1章)、[西村絹](../Page/西村絹.md "wikilink")
-    (第2章)、[高橋和哉](https://zh.wikipedia.org/wiki/高橋和哉 "wikilink")
-    (第3章)。目前全兩卷，最初於「ONE PIECE magazine」連載，日本由集英社發行書籍版本，台灣為東立出版代理。
+    原作：尾田榮一郎，小說：（第一卷）、浜崎達也（第二卷），插畫：[寺田克也](https://zh.wikipedia.org/wiki/寺田克也 "wikilink") (第1章)、[西村絹](../Page/西村絹.md "wikilink") (第2章)、[高橋和哉](https://zh.wikipedia.org/wiki/高橋和哉 "wikilink") (第3章)。目前全兩卷，最初於「ONE PIECE magazine」連載，日本由集英社發行書籍版本，台灣為東立出版代理。
     內容是以[波特卡斯·D·艾斯為主軸的外傳小說](https://zh.wikipedia.org/wiki/波特卡斯·D·艾斯 "wikilink")，描述艾斯在原作裡沒出現的劇情、他最初的夥伴以及如何獲得火焰果實的能力的故事。
     {| class=wikitable style="font-size:small;"
 
-\!rowspan="2"|卷數 \!rowspan="2"|標題 \!colspan="2"| JUMP j-BOOKS
-\!colspan="2"| [東立出版社](../Page/東立出版社.md "wikilink") |-
-\!發售日期\!\!ISBN\!\!發售日期\!\!ISBN |- \! 1 |
-<small>ONE PIECE Novel航海王小說A 1: 黑桃海賊團成立篇</small> | 2018年4月4日 | ISBN
-978-4-08-703445-5 | 2019年7月22日 | ISBN 978-957-262-213-1 |- \! 2 |  |
-2018年6月4日 | ISBN 978-4-08-703449-3 | | |}
+\!rowspan="2"|卷數 \!rowspan="2"|標題 \!colspan="2"| JUMP j-BOOKS \!colspan="2"| [東立出版社](../Page/東立出版社.md "wikilink") |- \!發售日期\!\!ISBN\!\!發售日期\!\!ISBN |- \! 1 |
+<small>ONE PIECE Novel航海王小說A 1: 黑桃海賊團成立篇</small> | 2018年4月4日 | ISBN 978-4-08-703445-5 | 2019年7月22日 | ISBN 978-957-262-213-1 |- \! 2 |  | 2018年6月4日 | ISBN 978-4-08-703449-3 | | |}
 
 ### 特刊
 
@@ -804,18 +778,9 @@ j-BOOKS）發行；台灣目前只有代理5部，由[東立出版社發行](../
     本系列書籍為連載20周年超特別企劃書本，收錄了對魯夫和艾斯的評價，艾斯成名前的經歷小說和海兵觀點的頂點戰爭小說，以及艾斯薩波魯夫三兄弟的繪本，航海王粉絲的日常漫畫，介紹尾田仔的短篇漫畫，現實中的海盜介紹和故事中的惡魔果實介紹，專訪尾田榮一郎以及公開原稿設定圖等。2018年起改為季度性刊物。
     {| class=wikitable style="font-size:small;"
 
-\!rowspan="2"|卷數 \!colspan="2"| [集英社](../Page/集英社.md "wikilink")
-\!colspan="2"| [東立出版社](../Page/東立出版社.md "wikilink") |-
-\!發售日期\!\!ISBN\!\!發售日期\!\!EAN / ISBN |- \! 1 | 2017年7月7日 | ISBN
-978-4-08-102232-8 | 2018年2月12日
+\!rowspan="2"|卷數 \!colspan="2"| [集英社](../Page/集英社.md "wikilink") \!colspan="2"| [東立出版社](../Page/東立出版社.md "wikilink") |- \!發售日期\!\!ISBN\!\!發售日期\!\!EAN / ISBN |- \! 1 | 2017年7月7日 | ISBN 978-4-08-102232-8 | 2018年2月12日
 2019年1月2日 | EAN 471094555404-4<small>（首刷附錄版）</small>
-ISBN 978-986-486-993-0 |- \! 2 | 2017年8月4日 | ISBN 978-4-08-102233-5 |
-2018年6月15日 | ISBN 978-986-486-994-7 |- \! 3 | 2017年9月1日 | ISBN
-978-4-08-102234-2 | 2018年8月14日 | ISBN 978-986-486-995-4 |- \! 4 |
-2018年10月19日 | ISBN 978-4-08-102273-1 | 2019年8月18日 | ISBN
-978-9-57-262603-0 |- \! 5 | 2019年1月25日 | ISBN 978-4-08-102274-8 | | |-
-\! 6 | 2019年6月17日 | ISBN 978-4-08-102275-5 | | |- \! 7 | 2019年8月9日 |
-ISBN 978-4-08-102294-6 | | |}
+ISBN 978-986-486-993-0 |- \! 2 | 2017年8月4日 | ISBN 978-4-08-102233-5 | 2018年6月15日 | ISBN 978-986-486-994-7 |- \! 3 | 2017年9月1日 | ISBN 978-4-08-102234-2 | 2018年8月14日 | ISBN 978-986-486-995-4 |- \! 4 | 2018年10月19日 | ISBN 978-4-08-102273-1 | 2019年8月18日 | ISBN 978-9-57-262603-0 |- \! 5 | 2019年1月25日 | ISBN 978-4-08-102274-8 | | |- \! 6 | 2019年6月17日 | ISBN 978-4-08-102275-5 | | |- \! 7 | 2019年8月9日 | ISBN 978-4-08-102294-6 | | |}
 
 ### 電影漫畫
 
@@ -945,15 +910,7 @@ ISBN 978-4-08-102294-6 | | |}
   -
     {| class=wikitable style="font-size:small;"
 
-\!rowspan="2"|卷數 \!colspan="2"| [集英社](../Page/集英社.md "wikilink")（JUMP
-COMICS） \!colspan="2"| [東立出版社](../Page/東立出版社.md "wikilink") |-
-\!發售日期\!\!ISBN\!\!發售日期\!\!ISBN |- \! 1 | 2015年10月3日 | ISBN
-978-4-08-880552-8 | 2016年4月22日 | ISBN 978-986-348-313-7 |- \! 2 |
-2016年7月4日 | ISBN 978-4-08-880732-4 | 2016年11月3日 | ISBN
-978-986-348-533-9 |- \! 3 | 2017年8月4日 | ISBN 978-4-08-881199-4 |
-2017年12月22日 | ISBN 978-986-486-725-7 |- \! 4 | 2018年6月4日 | ISBN
-978-4-08-881507-7 | 2018年11月16日 | ISBN 978-957-261-414-3 |- \! 5 |
-2019年3月4日 | ISBN 978-4-08-881776-7 | 2019年 | |}
+\!rowspan="2"|卷數 \!colspan="2"| [集英社](../Page/集英社.md "wikilink")（JUMP COMICS） \!colspan="2"| [東立出版社](../Page/東立出版社.md "wikilink") |- \!發售日期\!\!ISBN\!\!發售日期\!\!ISBN |- \! 1 | 2015年10月3日 | ISBN 978-4-08-880552-8 | 2016年4月22日 | ISBN 978-986-348-313-7 |- \! 2 | 2016年7月4日 | ISBN 978-4-08-880732-4 | 2016年11月3日 | ISBN 978-986-348-533-9 |- \! 3 | 2017年8月4日 | ISBN 978-4-08-881199-4 | 2017年12月22日 | ISBN 978-986-486-725-7 |- \! 4 | 2018年6月4日 | ISBN 978-4-08-881507-7 | 2018年11月16日 | ISBN 978-957-261-414-3 |- \! 5 | 2019年3月4日 | ISBN 978-4-08-881776-7 | 2019年 | |}
 
 ### 其他書籍
 
@@ -961,101 +918,65 @@ COMICS） \!colspan="2"| [東立出版社](../Page/東立出版社.md "wikilink"
     原作：尾田榮一郎。全2冊，日本由集英社發行，台灣目前尚未代理。
     {| class=wikitable style="font-size:small;"
 
-\!rowspan="2"|卷數 \!rowspan="2"|標題 \!colspan="2"|
-[集英社](../Page/集英社.md "wikilink") (JUMP COMICS) |-
-\!發售日期\!\!ISBN |- \! 1 | ONE PIECE RAINBOW\! | 2007年5月1日 | ISBN
-978-4-08-874099-7 |- \! 2 | ONE PIECE WHITE\! | 2012年8月3日 | ISBN
-978-4-08-870576-7 |}
+\!rowspan="2"|卷數 \!rowspan="2"|標題 \!colspan="2"| [集英社](../Page/集英社.md "wikilink") (JUMP COMICS) |- \!發售日期\!\!ISBN |- \! 1 | ONE PIECE RAINBOW\! | 2007年5月1日 | ISBN 978-4-08-874099-7 |- \! 2 | ONE PIECE WHITE\! | 2012年8月3日 | ISBN 978-4-08-870576-7 |}
 
   -
     原作：尾田榮一郎，解說：[内田樹](https://zh.wikipedia.org/wiki/内田樹 "wikilink")。目前已出版3冊，日本由集英社發行，台灣由東立出版社發行。
-    本系列書籍收錄這是一本以ONE
-    PIECE故事裡的各個角色們曾經說過的各種經典台詞所組成的名言集。諸如魯夫出發航海第一天所說的第一句話，到艾斯死後，他懊悔萬分的一句話，分為各種主題的各主題包括「冒險」、「英雄」、「枷鎖」、「未來」、「超越」等經典名言都收錄在本系列書籍。
+    本系列書籍收錄這是一本以ONE PIECE故事裡的各個角色們曾經說過的各種經典台詞所組成的名言集。諸如魯夫出發航海第一天所說的第一句話，到艾斯死後，他懊悔萬分的一句話，分為各種主題的各主題包括「冒險」、「英雄」、「枷鎖」、「未來」、「超越」等經典名言都收錄在本系列書籍。
     {| class=wikitable style="font-size:small;"
 
-\!rowspan="2"|卷數 \!colspan="2"| [集英社新書](../Page/集英社.md "wikilink")
-\!colspan="2"| [東立出版社](../Page/東立出版社.md "wikilink") |-
-\!發售日期\!\!ISBN\!\!發售日期\!\!ISBN |- \! 上 |2011年3月 |ISBN
-978-4-08-720582-4 |2013年10月1日 |ISBN 978-986-332-588-8 |- \! 下 |2011年4月
-|ISBN 978-4-08-720587-9 |2013年10月1日 |ISBN 978-986-332-589-5 |- \! PART2
-|2014年3月 |ISBN 978-4-08-720728-6 |2015年1月7日 |ISBN 978-986-365-668-5 |}
+\!rowspan="2"|卷數 \!colspan="2"| [集英社](../Page/集英社.md "wikilink")新書 \!colspan="2"| [東立出版社](../Page/東立出版社.md "wikilink") |- \!發售日期\!\!ISBN\!\!發售日期\!\!ISBN |- \! 上 |2011年3月 |ISBN 978-4-08-720582-4 |2013年10月1日 |ISBN 978-986-332-588-8 |- \! 下 |2011年4月 |ISBN 978-4-08-720587-9 |2013年10月1日 |ISBN 978-986-332-589-5 |- \! PART2 |2014年3月 |ISBN 978-4-08-720728-6 |2015年1月7日 |ISBN 978-986-365-668-5 |}
 
   -
     原作：尾田榮一郎。全1冊，日本由集英社發行，台灣目前尚未代理。
     {| class=wikitable style="font-size:small;"
 
-\!rowspan="2"|卷數 \!colspan="2"| [集英社](../Page/集英社.md "wikilink")
-(FLOWER\&BEE BOOK) |- \!發售日期\!\!ISBN |- \! 全 | 2011年9月12日 | ISBN
-978-4-08-102129-1 |}
+\!rowspan="2"|卷數 \!colspan="2"| [集英社](../Page/集英社.md "wikilink") (FLOWER\&BEE BOOK) |- \!發售日期\!\!ISBN |- \! 全 | 2011年9月12日 | ISBN 978-4-08-102129-1 |}
 
   -
     作者：[SANJI](https://zh.wikipedia.org/wiki/香吉士 "wikilink")。全1冊，日本由集英社發行，台灣由東立出版社發行。
     本書是由大廚香吉士親自撰寫的食譜，裡面包含了帶骨肉、水水白菜、海王類筆管麵等四十道航海王漫畫中出現過的料理，重現了漫畫中美味的名場面！不用擔心沒有航海王世界中的食材可以料理，本書中的食譜已經用我們世界上的食材代替了，但是味道可是一樣的美味！
     {| class=wikitable style="font-size:small;"
 
-\!rowspan="2"|卷數 \!colspan="2"| [集英社](../Page/集英社.md "wikilink")
-\!colspan="2"| [東立出版社](../Page/東立出版社.md "wikilink") |-
-\!發售日期\!\!ISBN\!\!發售日期\!\!ISBN |- \! 全 |2012年11月28日 |ISBN
-978-4-08-780658-8 |2013年8月19日 |ISBN 978-986-332-775-2 |}
+\!rowspan="2"|卷數 \!colspan="2"| [集英社](../Page/集英社.md "wikilink") \!colspan="2"| [東立出版社](../Page/東立出版社.md "wikilink") |- \!發售日期\!\!ISBN\!\!發售日期\!\!ISBN |- \! 全 |2012年11月28日 |ISBN 978-4-08-780658-8 |2013年8月19日 |ISBN 978-986-332-775-2 |}
 
   -
     原作：尾田榮一郎，編輯：V‧JUMP編輯部。目前已出版2冊，日本由集英社發行，台灣由東立出版社發行。
     本系列書籍收錄了除了草帽一行九個人之外，還包括七武海、海軍、世界政府、革命軍、四皇、甚至於其他也同樣很有魅力的海賊們，以及故事內出現過的能力、道具、生物等等，許多只有「航海王」專家才知道答案的問題，而且解答旁邊還附有詳細的說明。
     {| class=wikitable style="font-size:small;"
 
-\!rowspan="2"|卷數 \!colspan="2"| [集英社](../Page/集英社.md "wikilink") (JUMP
-COMICS) \!colspan="2"| [東立出版社](../Page/東立出版社.md "wikilink") |-
-\!發售日期\!\!ISBN\!\!發售日期\!\!ISBN |- \! 1 |2014年3月4日 |ISBN
-978-4-08-880099-8 |2014年6月30日 |ISBN 978-986-348-980-1 |- \! 2 |2014年9月4日
-|ISBN 978-4-08-880253-4 |2014年12月19日 |ISBN 978-986-365-889-4 |}
+\!rowspan="2"|卷數 \!colspan="2"| [集英社](../Page/集英社.md "wikilink") (JUMP COMICS) \!colspan="2"| [東立出版社](../Page/東立出版社.md "wikilink") |- \!發售日期\!\!ISBN\!\!發售日期\!\!ISBN |- \! 1 |2014年3月4日 |ISBN 978-4-08-880099-8 |2014年6月30日 |ISBN 978-986-348-980-1 |- \! 2 |2014年9月4日 |ISBN 978-4-08-880253-4 |2014年12月19日 |ISBN 978-986-365-889-4 |}
 
   -
     原作：尾田榮一郎。全2冊，日本由集英社發行，台灣目前尚未代理。
     {| class=wikitable style="font-size:small;"
 
-\!rowspan="2"|卷數 \!colspan="2"| [集英社](../Page/集英社.md "wikilink") ―
-SHUEISHA ― |- \!發售日期\!\!ISBN |- \! I |2014年12月1日 |ISBN 978-4-08-102188-8
-|- \! II |2014年12月15日 |ISBN 978-4-08-102189-5 |}
+\!rowspan="2"|卷數 \!colspan="2"| [集英社](../Page/集英社.md "wikilink") ― SHUEISHA ― |- \!發售日期\!\!ISBN |- \! I |2014年12月1日 |ISBN 978-4-08-102188-8 |- \! II |2014年12月15日 |ISBN 978-4-08-102189-5 |}
 
   -
     原作：尾田榮一郎，編輯：V‧JUMP編輯部。全1冊，日本由集英社發行，台灣由東立出版社發行。
     {| class=wikitable style="font-size:small;"
 
-\!rowspan="2"|卷數 \!colspan="2"| [集英社](../Page/集英社.md "wikilink") (JUMP
-COMICS) \!colspan="2"| [東立出版社](../Page/東立出版社.md "wikilink") |-
-\!發售日期\!\!ISBN\!\!發售日期\!\!ISBN |- \! 全 |2015年4月3日 |ISBN
-978-4-08-908243-0 |2016年2月5日 |ISBN 978-986-431-976-3 |}
+\!rowspan="2"|卷數 \!colspan="2"| [集英社](../Page/集英社.md "wikilink") (JUMP COMICS) \!colspan="2"| [東立出版社](../Page/東立出版社.md "wikilink") |- \!發售日期\!\!ISBN\!\!發售日期\!\!ISBN |- \! 全 |2015年4月3日 |ISBN 978-4-08-908243-0 |2016年2月5日 |ISBN 978-986-431-976-3 |}
 
   -
     原作：尾田榮一郎，繪畫：藤澤実佳。全1冊平裝書，日本由集英社發行，台灣由東立出版社發行。
     收錄ONE PIECE故事裡面的草帽一行人和許多大人物們的Ｑ版小插圖繪畫步驟，教你如何用一支原子筆就畫出航海王Ｑ版小人物。
     {| class=wikitable style="font-size:small;"
 
-\!rowspan="2"|卷數 \!colspan="2"| [集英社](../Page/集英社.md "wikilink")
-\!colspan="2"| [東立出版社](../Page/東立出版社.md "wikilink") |-
-\!發售日期\!\!ISBN\!\!發售日期\!\!ISBN |- \! 全 |2015年4月24日 |ISBN
-978-4-08-780751-6 |2016年1月11日 |ISBN 978-986-431-977-0 |}
+\!rowspan="2"|卷數 \!colspan="2"| [集英社](../Page/集英社.md "wikilink") \!colspan="2"| [東立出版社](../Page/東立出版社.md "wikilink") |- \!發售日期\!\!ISBN\!\!發售日期\!\!ISBN |- \! 全 |2015年4月24日 |ISBN 978-4-08-780751-6 |2016年1月11日 |ISBN 978-986-431-977-0 |}
 
   -
-    原作：尾田榮一郎，繪本：長田真作。全一卷，最初於「ONE PIECE
-    magazine」連載，日本由集英社發行繪本，台灣目前尚未代理。以繪本形式描述魯夫與艾斯與薩波這個永遠三兄弟的組合的故事。
+    原作：尾田榮一郎，繪本：長田真作。全一卷，最初於「ONE PIECE magazine」連載，日本由集英社發行繪本，台灣目前尚未代理。以繪本形式描述魯夫與艾斯與薩波這個永遠三兄弟的組合的故事。
     {| class=wikitable style="font-size:small;"
 
-\!rowspan="2"|卷數 \!colspan="2"| [集英社](../Page/集英社.md "wikilink") |-
-\!發售日期\!\!ISBN |- \! 全 | 2018年3月2日 | ISBN 978-4-08-780835-3 |}
+\!rowspan="2"|卷數 \!colspan="2"| [集英社](../Page/集英社.md "wikilink") |- \!發售日期\!\!ISBN |- \! 全 | 2018年3月2日 | ISBN 978-4-08-780835-3 |}
 
   -
-    原作：尾田榮一郎。目前已出版2冊，日本由集英社發行，香港由[天下出版發行](../Page/天下出版.md "wikilink")，台灣由[東立出版社代理](../Page/東立出版社.md "wikilink")。
+    原作：尾田榮一郎。目前已出版2冊，日本由集英社發行，香港由[天下出版](../Page/天下出版.md "wikilink")發行，台灣由[東立出版社](../Page/東立出版社.md "wikilink")代理。
     {| class="wikitable" style="font-size:small;"
 
-\! rowspan="2" |卷數 \! colspan="2" | [集英社](../Page/集英社.md "wikilink")
-(JUMP COMICS) \! colspan="2" | [天下出版](../Page/天下出版.md "wikilink") \!
-colspan="2" | [東立出版社](../Page/東立出版社.md "wikilink") |-
-\!發售日期\!\!ISBN\!\!發售日期\!\!ISBN\!\!發售日期\!\!ISBN |- \! 1 |
-2018年6月4日 || ISBN 978-4-08-881559-6 | 2018年10月12日 || ISBN
-978-988-8217-38-0 | 2019年1月11日 || ISBN 978-957-2620-54-0 |- \! 2 |
-2018年7月4日 || ISBN 978-4-08-881560-2 | 2019年3月29日 || | 2019年7月12日 ||
-ISBN 978-957-2620-55-7 |}
+\! rowspan="2" |卷數 \! colspan="2" | [集英社](../Page/集英社.md "wikilink") (JUMP COMICS) \! colspan="2" | [天下出版](../Page/天下出版.md "wikilink") \! colspan="2" | [東立出版社](../Page/東立出版社.md "wikilink") |- \!發售日期\!\!ISBN\!\!發售日期\!\!ISBN\!\!發售日期\!\!ISBN |- \! 1 | 2018年6月4日 || ISBN 978-4-08-881559-6 | 2018年10月12日 || ISBN 978-988-8217-38-0 | 2019年1月11日 || ISBN 978-957-2620-54-0 |- \! 2 | 2018年7月4日 || ISBN 978-4-08-881560-2 | 2019年3月29日 || | 2019年7月12日 || ISBN 978-957-2620-55-7 |}
 
 ## 衍生作品
 
@@ -1578,8 +1499,7 @@ Switch</p></td>
 ### 舞台劇
 
   -
-    是於TOKYO ONE PIECE
-    TOWER（[東京鐵塔航海王主題樂園](https://zh.wikipedia.org/wiki/東京鐵塔航海王主題樂園 "wikilink")）期間限定舉辦的真人舞台秀，目前總共上演3部。
+    是於TOKYO ONE PIECE TOWER（[東京鐵塔航海王主題樂園](https://zh.wikipedia.org/wiki/東京鐵塔航海王主題樂園 "wikilink")）期間限定舉辦的真人舞台秀，目前總共上演3部。
 
 <!-- end list -->
 
@@ -1598,8 +1518,7 @@ Switch</p></td>
   - 喬巴：國友久志／山本恭之輔 （CV：[大谷育江](../Page/大谷育江.md "wikilink")）
   - 羅賓：海来／田中セシル／谷口莉緒 （CV：[山口由里子](../Page/山口由里子.md "wikilink")）
   - 佛朗基：大見魁冴／永門けん （CV：[矢尾一樹](../Page/矢尾一樹.md "wikilink")）
-  - 布魯克：森大成／晴本宏亮
-    （CV：[長](https://zh.wikipedia.org/wiki/長_\(日本配音員\) "wikilink")）
+  - 布魯克：森大成／晴本宏亮 （CV：[長](https://zh.wikipedia.org/wiki/長_\(日本配音員\) "wikilink")）
 
 <!-- end list -->
 
@@ -1693,12 +1612,9 @@ Switch</p></td>
     首次公演：2017年4月29日
 
   - ＜簡介＞
-    幻影〟迷惑了〝草帽一行人〟！！？？ 由尾田栄一郎全權監製！！大人氣的現場表演第3彈，「ONE PIECE LIVE
-    ATTRACTION〝3〟
-    『PHANTOM』（幻影）」！！〝草帽一行人〟在你的面前展示出一個不容錯過的表演。是一個以投影映射和照明技術作輔，巨大壓迫感的演出！
+    幻影〟迷惑了〝草帽一行人〟！！？？ 由尾田栄一郎全權監製！！大人氣的現場表演第3彈，「ONE PIECE LIVE ATTRACTION〝3〟 『PHANTOM』（幻影）」！！〝草帽一行人〟在你的面前展示出一個不容錯過的表演。是一個以投影映射和照明技術作輔，巨大壓迫感的演出！
 
-    本作是原作者，尾田栄一郎全權監製，完全原創的故事。而為了本作創作出的「歌姬 安」
-    也會出場，是一個完全原創的故事！另外，本作的開場曲和片尾曲，也是交由大人氣歌唱組合「GReeeeN」所創作！令人目不轉睛，是遠遠凌架於前作的感動作品！！
+    本作是原作者，尾田栄一郎全權監製，完全原創的故事。而為了本作創作出的「歌姬 安」 也會出場，是一個完全原創的故事！另外，本作的開場曲和片尾曲，也是交由大人氣歌唱組合「GReeeeN」所創作！令人目不轉睛，是遠遠凌架於前作的感動作品！！
 
   - ＜CAST＞
 
@@ -1714,8 +1630,7 @@ Switch</p></td>
   - 佛朗基：大見魁冴（CV：矢尾一樹）※影像演出
   - 布魯克：晴本宏亮（CV：長）※影像演出
   - 「歌姬」安／アン：小島瑠奈／橘里依／橋本樹（CV：[早見沙織](../Page/早見沙織.md "wikilink")）
-  - DJ 鸚鵡／オウムDJ：無（CV：[MC
-    RYU](https://zh.wikipedia.org/wiki/MC_RYU "wikilink")）
+  - DJ 鸚鵡／オウムDJ：無（CV：[MC RYU](https://zh.wikipedia.org/wiki/MC_RYU "wikilink")）
   - 巴其：金田明秀／勇士武範／勇士武範／稲井大地（CV：[千葉繁](../Page/千葉繁.md "wikilink")）
   - 艾斯：及川洸／田中稔／伊藤澄也／増田智彦（CV：[古川登志夫](../Page/古川登志夫.md "wikilink")）
   - 馮·克雷：麻倉尚太（CV：矢尾一樹）※影像演出
@@ -1809,21 +1724,11 @@ Switch</p></td>
 
 ### 真人版美劇
 
-隨著《ONE
-PIECE》漫畫連載20週年的來臨，於2017年7月21日宣布製作成美國電視劇\[3\]，由知名美劇《[越獄風雲](https://zh.wikipedia.org/wiki/越獄風雲 "wikilink")》導演馬蒂·阿德爾斯坦（[Marty
-Adelstein](https://zh.wikipedia.org/wiki/Marty_Adelstein "wikilink")）所主導，製作公司為[好萊塢Tomorrow](https://zh.wikipedia.org/wiki/好萊塢 "wikilink")
-studios。
+隨著《ONE PIECE》漫畫連載20週年的來臨，於2017年7月21日宣布製作成美國電視劇\[3\]，由知名美劇《[越獄風雲](https://zh.wikipedia.org/wiki/越獄風雲 "wikilink")》導演馬蒂·阿德爾斯坦（[Marty Adelstein](https://zh.wikipedia.org/wiki/Marty_Adelstein "wikilink")）所主導，製作公司為[好萊塢Tomorrow](https://zh.wikipedia.org/wiki/好萊塢 "wikilink") studios。
 
-原作者[尾田榮一郎於記者會以親筆信透露](https://zh.wikipedia.org/wiki/尾田榮一郎 "wikilink")，3年前決定將《ONE
-PIECE》翻拍成真人版美劇，並保證不會辜負粉絲們的期待，並指出過去20年來一直都打算將《ONE
-PIECE》真人化，而當中唯一條件是真人版內容絕對不能背叛《ONE
-PIECE》的廣大支持者。《週刊少年JUMP》的中野編集長表示，決定交由[好萊塢的製作公司統籌製作](https://zh.wikipedia.org/wiki/好萊塢 "wikilink")，以保障真人版《ONE
-PIECE》的質感。不過這次卻並非真人版電影形式，反而會是更長篇的真人版美劇形式。
+原作者[尾田榮一郎於記者會以親筆信透露](https://zh.wikipedia.org/wiki/尾田榮一郎 "wikilink")，3年前決定將《ONE PIECE》翻拍成真人版美劇，並保證不會辜負粉絲們的期待，並指出過去20年來一直都打算將《ONE PIECE》真人化，而當中唯一條件是真人版內容絕對不能背叛《ONE PIECE》的廣大支持者。《週刊少年JUMP》的中野編集長表示，決定交由[好萊塢的製作公司統籌製作](https://zh.wikipedia.org/wiki/好萊塢 "wikilink")，以保障真人版《ONE PIECE》的質感。不過這次卻並非真人版電影形式，反而會是更長篇的真人版美劇形式。
 
-此外，製作人馬蒂·阿德爾斯坦（[Marty
-Adelstein](https://zh.wikipedia.org/wiki/Marty_Adelstein "wikilink")）在記者會上表示自己
-20 年來一直都是《ONE
-PIECE》粉絲，而今次集英社及作者尾田榮一郎將真人化的重任交到其手上，他對此感到相當榮幸，並認為這將會是史上最高製作成本的電視連續劇。亦表示自己會傾盡全力，將原著的氣氛帶到電視螢幕上。
+此外，製作人馬蒂·阿德爾斯坦（[Marty Adelstein](https://zh.wikipedia.org/wiki/Marty_Adelstein "wikilink")）在記者會上表示自己 20 年來一直都是《ONE PIECE》粉絲，而今次集英社及作者尾田榮一郎將真人化的重任交到其手上，他對此感到相當榮幸，並認為這將會是史上最高製作成本的電視連續劇。亦表示自己會傾盡全力，將原著的氣氛帶到電視螢幕上。
 
 ## 活動與企劃
 
@@ -1953,7 +1858,7 @@ PIECE》粉絲，而今次集英社及作者尾田榮一郎將真人化的重任
 ### 專賣店
 
   - :
-    為2012年9月開放的官方商品專門店。在2014年3月的台灣台北市[西門町開設姊妹店](../Page/西門町.md "wikilink")，並正式命名為「台灣航海王專賣店」；2015年的大阪（阿倍野藉口商城）·名古屋（近鐵百貨名古屋店）·福岡（福岡Parco）3個城市開設姊妹店。
+    為2012年9月開放的官方商品專門店。在2014年3月的台灣台北市[西門町](../Page/西門町.md "wikilink")開設姊妹店，並正式命名為「台灣航海王專賣店」；2015年的大阪（阿倍野藉口商城）·名古屋（近鐵百貨名古屋店）·福岡（福岡Parco）3個城市開設姊妹店。
 
 | 店鋪名稱     | 舉辦會場                                     | 地點                                                                                    | 期間                     |
 | -------- | ---------------------------------------- | ------------------------------------------------------------------------------------- | ---------------------- |
@@ -1963,7 +1868,7 @@ PIECE》粉絲，而今次集英社及作者尾田榮一郎將真人化的重任
 | 長野 草帽商店  | 納加之東急百貨店                                 | [長野縣](https://zh.wikipedia.org/wiki/長野縣 "wikilink")[長野市](../Page/長野市.md "wikilink")   | 2013年7月26日～8月12日       |
 | 川越 草帽商店  | 丸廣百貨店川越店                                 | [埼玉縣](../Page/埼玉縣.md "wikilink")[川越市](../Page/川越市.md "wikilink")                      | 2013年12月26日～2014年1月8日  |
 | 梅田 草帽商店  | 阪急百貨店梅田本店                                | 大阪府大阪市                                                                                | 2014年3月5日～3月18日        |
-| 名古屋 草帽商店 | [東急手創館名古屋店](../Page/東急手創館.md "wikilink") | [愛知縣](../Page/愛知縣.md "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")                    | 2014年7月28日～8月10日       |
+| 名古屋 草帽商店 | [東急手創館](../Page/東急手創館.md "wikilink")名古屋店 | [愛知縣](../Page/愛知縣.md "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")                    | 2014年7月28日～8月10日       |
 | 熊本 草帽商店  | 縣民百貨店                                    | [熊本縣](../Page/熊本縣.md "wikilink")[熊本市](../Page/熊本市.md "wikilink")                      | 2014年8月9日～8月20日        |
 
 ### 其他
@@ -1974,14 +1879,12 @@ PIECE》粉絲，而今次集英社及作者尾田榮一郎將真人化的重任
 <!-- end list -->
 
   -
-    活動期間為2015年7月18日至8月31日，在「お台場夢大陸〜 ドリームメガナツマツリ
-    〜」在超技師人口隆重舉行與“團隊實驗室”合作。於2016年7月16日至7月31日，在LaLaport
-    Fujimi舉行\[5\]。
+    活動期間為2015年7月18日至8月31日，在「お台場夢大陸〜 ドリームメガナツマツリ 〜」在超技師人口隆重舉行與“團隊實驗室”合作。於2016年7月16日至7月31日，在LaLaport Fujimi舉行\[5\]。
 
 <!-- end list -->
 
   -
-    活動期間為2016年3月20日，在[沖繩縣](../Page/沖繩縣.md "wikilink")[北谷町舉辦的路跑活動](../Page/北谷町.md "wikilink")。最初是2015年5月在台灣舉行的反向企劃\[6\]。
+    活動期間為2016年3月20日，在[沖繩縣](../Page/沖繩縣.md "wikilink")[北谷町](../Page/北谷町.md "wikilink")舉辦的路跑活動。最初是2015年5月在台灣舉行的反向企劃\[6\]。
       - 官方網站：[ONE PIECE RUN in 沖繩](http://onepiece-run.jp/)
 
 <!-- end list -->
@@ -1997,30 +1900,20 @@ PIECE》粉絲，而今次集英社及作者尾田榮一郎將真人化的重任
 <!-- end list -->
 
   -
-    活動期間為2017年10月7日至10月22日，本次是《ONE
-    PIECE》連載20週年與日本京都市合作的紀念特展\[10\]\[11\]，並推出「ONE
-    PIECE ART NUE
-    大覺寺《魔獸與公主與誓言之花》」\[12\]\[13\]，近日並公開了將展出的日本畫一部分，由原作漫畫家尾田榮一郎所繪製的角色設定圖\[14\]。
-    這是「京都草帽一夥道中記～另一個和之國～」的特別篇故事\[15\]\[16\]，將以大覺寺作為舞台來設計整個展覽的故事。除此之外，還有《ONE
-    PIECE》與日本畫的合作，以水墨畫、繪卷等各種創作方式來呈現《航海王》的世界。
-      - 官方網站：[航海王20th × KYOTO
-        京都草帽一夥道中記～另一個和之國～](https://sp.shonenjump.com/j/op-20th-anniv/article/page_18.html)
+    活動期間為2017年10月7日至10月22日，本次是《ONE PIECE》連載20週年與日本京都市合作的紀念特展\[10\]\[11\]，並推出「ONE PIECE ART NUE 大覺寺《魔獸與公主與誓言之花》」\[12\]\[13\]，近日並公開了將展出的日本畫一部分，由原作漫畫家尾田榮一郎所繪製的角色設定圖\[14\]。
+    這是「京都草帽一夥道中記～另一個和之國～」的特別篇故事\[15\]\[16\]，將以大覺寺作為舞台來設計整個展覽的故事。除此之外，還有《ONE PIECE》與日本畫的合作，以水墨畫、繪卷等各種創作方式來呈現《航海王》的世界。
+      - 官方網站：[航海王20th × KYOTO 京都草帽一夥道中記～另一個和之國～](https://sp.shonenjump.com/j/op-20th-anniv/article/page_18.html)
 
 <!-- end list -->
 
   -
-    活動期間為2018年1月20日至2月25日（全90場公演），在劇場「DMM VR
-    THEATER」上演，以全3D全息投影技術為應用方式來呈現出《ONE
-    PIECE》世界\[17\]\[18\]。本次故事為原創的劇本，並有新的惡魔果實能力者登場。
-      - 官方網站：[航海王戲劇舞台 THE METAL
-        ～追憶的馬林福特～](https://vr-theater.dmm.com/schedule/onepiece-vr)
+    活動期間為2018年1月20日至2月25日（全90場公演），在劇場「DMM VR THEATER」上演，以全3D全息投影技術為應用方式來呈現出《ONE PIECE》世界\[17\]\[18\]。本次故事為原創的劇本，並有新的惡魔果實能力者登場。
+      - 官方網站：[航海王戲劇舞台 THE METAL ～追憶的馬林福特～](https://vr-theater.dmm.com/schedule/onepiece-vr)
 
 <!-- end list -->
 
   -
-    活動期間為2018年8月12日至9月2日（全28場公演），在[東京國際論壇大樓上演全球首場的](https://zh.wikipedia.org/wiki/東京國際論壇大樓 "wikilink")「Brass
-    Entertainment」，以音樂和表演合為一體的新奇表演藝術體現方式來呈現出《ONE PIECE》世界\[19\]。「Brass
-    Entertainment」指以銅管樂器和敲擊樂器為中心，樂隊成員會在台上邊奏邊跳，提供視聽的雙重享受。本次活動表演的是「東海篇」。
+    活動期間為2018年8月12日至9月2日（全28場公演），在[東京國際論壇大樓上演全球首場的](https://zh.wikipedia.org/wiki/東京國際論壇大樓 "wikilink")「Brass Entertainment」，以音樂和表演合為一體的新奇表演藝術體現方式來呈現出《ONE PIECE》世界\[19\]。「Brass Entertainment」指以銅管樂器和敲擊樂器為中心，樂隊成員會在台上邊奏邊跳，提供視聽的雙重享受。本次活動表演的是「東海篇」。
       - 官方網站：[航海王音宴 ～東海篇～](https://otoutage.com/)
 
 <table style="width:10%;">
@@ -2079,15 +1972,11 @@ PIECE》粉絲，而今次集英社及作者尾田榮一郎將真人化的重任
 
 ### 發行量
 
-在日本漫畫雜誌《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》中長期佔據人氣榜的第一名；單行本在日本以外，亦已有30多個翻譯版本發行
-2012年5月10日《ONE
-PIECE》成為日本[Oricon排行榜從](../Page/Oricon.md "wikilink")2008年4月開始統計漫畫銷量以來，在該榜中首個總銷量破億冊的漫畫\[20\]。
+在日本漫畫雜誌《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》中長期佔據人氣榜的第一名；單行本在日本以外，亦已有30多個翻譯版本發行 2012年5月10日《ONE PIECE》成為日本[Oricon](../Page/Oricon.md "wikilink")排行榜從2008年4月開始統計漫畫銷量以來，在該榜中首個總銷量破億冊的漫畫\[20\]。
 
-2012年8月漫畫單行本第67卷初版發行量高達405萬冊，第九次刷新日本初版發行量紀錄\[21\]。2014年《ONE
-PIECE》漫畫單行本的累計發行量在日本當地超過3億2,000萬冊（第76卷出版後）。第76卷漫畫初版發行量達到了400萬冊。這是自2011年11月發行的第64卷後，連續13卷單卷發行量達到400萬册。
+2012年8月漫畫單行本第67卷初版發行量高達405萬冊，第九次刷新日本初版發行量紀錄\[21\]。2014年《ONE PIECE》漫畫單行本的累計發行量在日本當地超過3億2,000萬冊（第76卷出版後）。第76卷漫畫初版發行量達到了400萬冊。這是自2011年11月發行的第64卷後，連續13卷單卷發行量達到400萬册。
 
-《ONE
-PIECE》漫畫的單行本在日本的初版發行數量在第57卷（2010年3月發售）達到了300萬冊，一舉超越了人氣小说《哈利波特和鳳凰社》（靜山社）的290萬冊，刷新了當時的紀錄。之後的第64卷（2011年11月發售）首次突破400萬冊大關，並在第67卷以405萬冊成為了目前為止的最高紀錄。
+《ONE PIECE》漫畫的單行本在日本的初版發行數量在第57卷（2010年3月發售）達到了300萬冊，一舉超越了人氣小说《哈利波特和鳳凰社》（靜山社）的290萬冊，刷新了當時的紀錄。之後的第64卷（2011年11月發售）首次突破400萬冊大關，並在第67卷以405萬冊成為了目前為止的最高紀錄。
 
 本作的翻譯出版的版本發表在超過全球35個國家已售出，正在播出的動畫在全球有40多個國家。日本以外的總發行量已經突破6000萬本（2014年12月）。至於目前全世界總發行量已經突破**4億3000萬本**（2017年10月）。
 
@@ -2399,8 +2288,7 @@ ONE PIECE 盛大對戰! 2</p></td>
   -
   - [ONE PIECE WEB](http://www.j-onepiece.com/)
 
-  - [ONE PIECE GRAND
-    STORY](https://web.archive.org/web/20131211221051/http://grandstory.one-piece.com/)
+  - [ONE PIECE GRAND STORY](https://web.archive.org/web/20131211221051/http://grandstory.one-piece.com/)
 
   - [腾讯动漫连载网址](http://ac.qq.com/Comic/comicInfo/id/505430/)
 
@@ -2408,8 +2296,7 @@ ONE PIECE 盛大對戰! 2</p></td>
 
   - [ONE PIECE 東映官網](http://www.toei-anim.co.jp/tv/onep/)
 
-  - [ONE PIECE -
-    富士電視台股份有限公司](https://web.archive.org/web/20050414032935/http://www.fujitv.co.jp/b_hp/onepiece/)
+  - [ONE PIECE - 富士電視台股份有限公司](https://web.archive.org/web/20050414032935/http://www.fujitv.co.jp/b_hp/onepiece/)
 
   - [「ONE PIECE」DVD公式網站](http://mv.avex.jp/onepiece/)
 
@@ -2421,16 +2308,14 @@ ONE PIECE 盛大對戰! 2</p></td>
 
 **遊戲**
 
-  - [ONE PIECE GAME PORTAL
-    萬代南夢宮遊戲官方網站](http://www.bandaigames.channel.or.jp/list/one_main/)
+  - [ONE PIECE GAME PORTAL 萬代南夢宮遊戲官方網站](http://www.bandaigames.channel.or.jp/list/one_main/)
 
 **舞台秀**
 
   - [ONE PIECE LIVE ATTRACTION 東京海賊塔](https://onepiecetower.tokyo/)
 
   -
-  - [ONE PIECE PREMIER SUMMER
-    海賊USJ城](https://web.archive.org/web/20161019084600/http://www.usj.co.jp/jump/)
+  - [ONE PIECE PREMIER SUMMER 海賊USJ城](https://web.archive.org/web/20161019084600/http://www.usj.co.jp/jump/)
 
 **商品專賣店**
 
@@ -2443,14 +2328,9 @@ ONE PIECE 盛大對戰! 2</p></td>
   -
   - [台灣航海王授權商-成真文創](http://www.chengjen.com.tw/)
 
-[Category:ONE_PIECE](https://zh.wikipedia.org/wiki/Category:ONE_PIECE "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:週刊少年Jump連載作品](https://zh.wikipedia.org/wiki/Category:週刊少年Jump連載作品 "wikilink")
-[Category:海盜題材作品](https://zh.wikipedia.org/wiki/Category:海盜題材作品 "wikilink")
-[Category:未完結作品](https://zh.wikipedia.org/wiki/Category:未完結作品 "wikilink")
+[Category:ONE_PIECE](https://zh.wikipedia.org/wiki/Category:ONE_PIECE "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:週刊少年Jump連載作品](https://zh.wikipedia.org/wiki/Category:週刊少年Jump連載作品 "wikilink") [Category:海盜題材作品](https://zh.wikipedia.org/wiki/Category:海盜題材作品 "wikilink") [Category:未完結作品](https://zh.wikipedia.org/wiki/Category:未完結作品 "wikilink")
 
 1.  [PIECE』、累計売上1億部突破](http://www.oricon.co.jp/news/ranking/2011350『ONE)
-
 2.
 3.
 4.
@@ -2470,45 +2350,28 @@ ONE PIECE 盛大對戰! 2</p></td>
 18.
 19.
 20. [PIECE』、累計売上1億部突破](http://www.oricon.co.jp/news/ranking/2011350『ONE)
-
 21.
-22. [過去的獲獎者（日本漫畫家協會獎和文化，體育，科學和技術部長獎）](http://www.nihonmangakakyokai.or.jp/award.php)
-    日本漫畫家協會
+22. [過去的獲獎者（日本漫畫家協會獎和文化，體育，科學和技術部長獎）](http://www.nihonmangakakyokai.or.jp/award.php) 日本漫畫家協會
 23. FRA
 24. [第五屆動畫 神戶獎的決定](http://www.anime-kobe.jp/archive/2000/) 動畫神戶
-25. [第二十二屆日本金唱片大獎](http://www.golddisc.jp/award/22/Prize_4.html#gd22_22)
-    THE JAPAN GOLD DISC AWARD2008 官方網站
-26. [第二十五屆日本金唱片大獎](http://www.golddisc.jp/award/25/Prize_2.html#gd25_12)THE
-    JAPAN GOLDDISC AWARD2011　官方網站
+25. [第二十二屆日本金唱片大獎](http://www.golddisc.jp/award/22/Prize_4.html#gd22_22) THE JAPAN GOLD DISC AWARD2008 官方網站
+26. [第二十五屆日本金唱片大獎](http://www.golddisc.jp/award/25/Prize_2.html#gd25_12)THE JAPAN GOLDDISC AWARD2011　官方網站
 27. [GyaO！最薪資輸送有很多的獎項揭曉一年一度的“海賊王”](http://animeanime.jp/article/2012/11/18/12100.html)動畫片！動畫片！2012年11月18日
-28. \[ フ大獎得主在節目富士電視台製作的亞洲電視大獎！ ！
-    [富士電視台](../Page/富士電視台.md "wikilink")、2012年12月10日
-29. [第32回日本電影金像獎](http://www.japan-academy-prize.jp/prizes/?t=32#title27)
-     [日本電影金像獎官方網站](https://zh.wikipedia.org/wiki/日本電影金像獎 "wikilink")
-30. [第34回日本電影金像獎](http://www.japan-academy-prize.jp/prizes/?t=34#title27)
-    [日本電影金像獎官方網站](https://zh.wikipedia.org/wiki/日本電影金像獎 "wikilink")
-31. [第36回日本電影金像獎](http://www.japan-academy-prize.jp/prizes/?t=36)
-    [日本電影金像獎官方網站](https://zh.wikipedia.org/wiki/日本電影金像獎 "wikilink")
+28. \[ フ大獎得主在節目富士電視台製作的亞洲電視大獎！ ！ [富士電視台](../Page/富士電視台.md "wikilink")、2012年12月10日
+29. [第32回日本電影金像獎](http://www.japan-academy-prize.jp/prizes/?t=32#title27)  [日本電影金像獎官方網站](https://zh.wikipedia.org/wiki/日本電影金像獎 "wikilink")
+30. [第34回日本電影金像獎](http://www.japan-academy-prize.jp/prizes/?t=34#title27) [日本電影金像獎官方網站](https://zh.wikipedia.org/wiki/日本電影金像獎 "wikilink")
+31. [第36回日本電影金像獎](http://www.japan-academy-prize.jp/prizes/?t=36) [日本電影金像獎官方網站](https://zh.wikipedia.org/wiki/日本電影金像獎 "wikilink")
 32. [映像技術獎　受獎一覧](http://www.mpte.jp/outline/kennsyou/eg.html) 日本電影電視技術協會
 33.
 34.
 35.
-36. [日本遊戲大獎2012](http://awards.cesa.or.jp/prize/prize_01.html)
-    [計算機娛樂供應商協會](https://zh.wikipedia.org/wiki/計算機娛樂供應商協會 "wikilink")
+36. [日本遊戲大獎2012](http://awards.cesa.or.jp/prize/prize_01.html)  [計算機娛樂供應商協會](https://zh.wikipedia.org/wiki/計算機娛樂供應商協會 "wikilink")
 37.
-38. [日本玩具大賞2011](http://www.toys.or.jp/toyshow/toyshow2011/omocha_taisyou2011.html)
-    日本玩具協会
-39. [第10回（2011年）
-    受獎作品](http://www.mobileadawards.com/archive2011/work03.html#win02)
-     移動式廣告大獎
-40. [第9回東京互動廣告獎
-    受獎作品發表](http://tokyo.interactive.ad.awards.jp/Results11/info/34.html)
-    [東京インタラクティブ·アド·アワード](https://zh.wikipedia.org/wiki/東京インタラクティブ·アド·アワード "wikilink")
-41. [第31回顯示器行業大獎（2012）入獎作品](http://www.display.or.jp/zzaward/s2012/index02.html)
-    日本顯示器業團體連合會
-42. [日本商品化權協會獎　選出3人物角色](http://www.sankeibiz.jp/business/news/130206/bsj1302060503000-n1.htm)
-
-    [SankeiBiz](https://zh.wikipedia.org/wiki/SankeiBiz "wikilink")、2013年2月6日
+38. [日本玩具大賞2011](http://www.toys.or.jp/toyshow/toyshow2011/omocha_taisyou2011.html) 日本玩具協会
+39. [第10回（2011年） 受獎作品](http://www.mobileadawards.com/archive2011/work03.html#win02)  移動式廣告大獎
+40. [第9回東京互動廣告獎 受獎作品發表](http://tokyo.interactive.ad.awards.jp/Results11/info/34.html) [東京インタラクティブ·アド·アワード](https://zh.wikipedia.org/wiki/東京インタラクティブ·アド·アワード "wikilink")
+41. [第31回顯示器行業大獎（2012）入獎作品](http://www.display.or.jp/zzaward/s2012/index02.html) 日本顯示器業團體連合會
+42. [日本商品化權協會獎　選出3人物角色](http://www.sankeibiz.jp/business/news/130206/bsj1302060503000-n1.htm)  [SankeiBiz](https://zh.wikipedia.org/wiki/SankeiBiz "wikilink")、2013年2月6日
 43.
 44.
 45.

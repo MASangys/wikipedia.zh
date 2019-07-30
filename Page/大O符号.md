@@ -1,9 +1,6 @@
-**大O符号**（），又稱為**漸進符號**，是用于描述[函数](../Page/函数.md "wikilink")[渐近行为的](../Page/渐近分析.md "wikilink")[数学符号](../Page/数学.md "wikilink")。更确切地说，它是用另一个（通常更简单的）函数来描述一个函数[数量级的](../Page/数量级.md "wikilink")**渐近上界**。在[数学中](../Page/数学.md "wikilink")，它一般用来刻画被截断的[无穷级数尤其是](https://zh.wikipedia.org/wiki/无穷级数 "wikilink")[渐近级数的剩余项](https://zh.wikipedia.org/wiki/渐近级数 "wikilink")；在[计算机科学中](../Page/计算机科学.md "wikilink")，它在[分析](../Page/算法分析.md "wikilink")[算法](../Page/算法.md "wikilink")[复杂性的方面非常有用](../Page/計算複雜性理論.md "wikilink")。
+**大O符号**（），又稱為**漸進符號**，是用于描述[函数](../Page/函数.md "wikilink")[渐近行为的](../Page/渐近分析.md "wikilink")[数学](../Page/数学.md "wikilink")符号。更确切地说，它是用另一个（通常更简单的）函数来描述一个函数[数量级](../Page/数量级.md "wikilink")的**渐近上界**。在[数学](../Page/数学.md "wikilink")中，它一般用来刻画被截断的[无穷级数尤其是](https://zh.wikipedia.org/wiki/无穷级数 "wikilink")[渐近级数的剩余项](https://zh.wikipedia.org/wiki/渐近级数 "wikilink")；在[计算机科学](../Page/计算机科学.md "wikilink")中，它在[分析](../Page/算法分析.md "wikilink")[算法](../Page/算法.md "wikilink")[复杂性的方面非常有用](../Page/計算複雜性理論.md "wikilink")。
 
-大O符号是由[德国](../Page/德国.md "wikilink")[数论学家](../Page/数论.md "wikilink")在其1892年的著作《解析数论》（*Analytische
-Zahlentheorie*）首先引入的。而这个记号则是在另一位德国数论学家的著作中才推广的，因此它有时又称为**朗道符号**（Landau
-symbols）。代表“order of
-...”（……阶）的大**O**，最初是一个大写[希腊字母](../Page/希腊字母.md "wikilink")“[Ο](https://zh.wikipedia.org/wiki/Ο "wikilink")”（omicron），现今用的是大写[拉丁字母](../Page/拉丁字母.md "wikilink")“[O](../Page/O.md "wikilink")”。
+大O符号是由[德国](../Page/德国.md "wikilink")[数论](../Page/数论.md "wikilink")学家在其1892年的著作《解析数论》（*Analytische Zahlentheorie*）首先引入的。而这个记号则是在另一位德国数论学家的著作中才推广的，因此它有时又称为**朗道符号**（Landau symbols）。代表“order of ...”（……阶）的大**O**，最初是一个大写[希腊字母](../Page/希腊字母.md "wikilink")“[Ο](https://zh.wikipedia.org/wiki/Ο "wikilink")”（omicron），现今用的是大写[拉丁字母](../Page/拉丁字母.md "wikilink")“[O](../Page/O.md "wikilink")”。
 
 ## 使用
 
@@ -27,7 +24,7 @@ symbols）。代表“order of
 
 \[e^x=1+x+\frac{x^2}{2}+\hbox{O}(x^3)\qquad\]当\(x \to 0\)时
 
-这表示，如果\(x\)足够接近于0，那么误差\(e^x - \left(1 + x + \frac{x^2}{2}\right)\)的[绝对值小于](../Page/绝对值.md "wikilink")\(x^3\)的某一常数倍。
+这表示，如果\(x\)足够接近于0，那么误差\(e^x - \left(1 + x + \frac{x^2}{2}\right)\)的[绝对值](../Page/绝对值.md "wikilink")小于\(x^3\)的某一常数倍。
 
 注：泰勒展开的误差余项\(r_3(x)\)是关于\(x^3\)一个高阶无穷小量，用小o来表示，即：\(r_3(x)\)=\(o(x^3)\)，\(\textstyle \lim_{x \to 0} \displaystyle \frac{r_3(x)}{x^3}=0\)
 
@@ -125,10 +122,8 @@ symbols）。代表“order of
 
 <!-- end list -->
 
-  - 严蔚敏、吴伟民：《数据结构：C语言版》. 清华大学出版社，1996. ISBN 7-302-02368-9. 1.4节
-    算法和算法分析，pp. 14-17.
-  - 朱青：《計算機算法與程序設計》. 清华大学出版社，2009.10。ISBN 978-7-302-20267-7. 1.4节
-    算法的複雜性分析，pp. 16-17.
+  - 严蔚敏、吴伟民：《数据结构：C语言版》. 清华大学出版社，1996. ISBN 7-302-02368-9. 1.4节 算法和算法分析，pp. 14-17.
+  - 朱青：《計算機算法與程序設計》. 清华大学出版社，2009.10。ISBN 978-7-302-20267-7. 1.4节 算法的複雜性分析，pp. 16-17.
 
 ## 延伸閱讀
 
@@ -142,7 +137,4 @@ symbols）。代表“order of
   -
   -
   -
-[Category:算法分析](https://zh.wikipedia.org/wiki/Category:算法分析 "wikilink")
-[Category:數學表示法](https://zh.wikipedia.org/wiki/Category:數學表示法 "wikilink")
-[Category:数学符号](https://zh.wikipedia.org/wiki/Category:数学符号 "wikilink")
-[Category:渐近分析](https://zh.wikipedia.org/wiki/Category:渐近分析 "wikilink")
+[Category:算法分析](https://zh.wikipedia.org/wiki/Category:算法分析 "wikilink") [Category:數學表示法](https://zh.wikipedia.org/wiki/Category:數學表示法 "wikilink") [Category:数学符号](https://zh.wikipedia.org/wiki/Category:数学符号 "wikilink") [Category:渐近分析](https://zh.wikipedia.org/wiki/Category:渐近分析 "wikilink")

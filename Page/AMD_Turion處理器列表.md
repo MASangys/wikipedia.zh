@@ -1,5 +1,4 @@
-**[Turion
-64](../Page/Turion_64.md "wikilink")**是[AMD公司為流動平台而設的K](https://zh.wikipedia.org/wiki/AMD "wikilink")8處理器。
+**[Turion 64](../Page/Turion_64.md "wikilink")**是[AMD公司為流動平台而設的K](https://zh.wikipedia.org/wiki/AMD "wikilink")8處理器。
 
 備註:列表中除了羅列Turion系列處理器外，也會羅列其架構衍生出來的Athlon,Sempron等系列處理器。
 
@@ -7,15 +6,7 @@
 
 ### Lancaster ([90 nm](https://zh.wikipedia.org/wiki/90_nanometer "wikilink"),單核心處理器)
 
-  - 全系列支援:
-    *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"),
-    [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"),
-    [SSE2](../Page/SSE2.md "wikilink"),
-    [SSE3](../Page/SSE3.md "wikilink"), [Enhanced
-    3DNow\!](../Page/3DNow!.md "wikilink"), [NX
-    bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"),
-    [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink"),
-    [PowerNow\!](https://zh.wikipedia.org/wiki/PowerNow! "wikilink")*
+  - 全系列支援: *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"), [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"), [SSE2](../Page/SSE2.md "wikilink"), [SSE3](../Page/SSE3.md "wikilink"), [Enhanced 3DNow\!](../Page/3DNow!.md "wikilink"), [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"), [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink"), [PowerNow\!](https://zh.wikipedia.org/wiki/PowerNow! "wikilink")*
 
 | 型號              | 頻率       | L2快取                                                        | [HT](../Page/HyperTransport.md "wikilink") | 倍頻  | 核心電壓 | [TDP](https://zh.wikipedia.org/wiki/Thermal_Design_Power "wikilink") | CPU腳位                                          | 發表時間            |
 | --------------- | -------- | ----------------------------------------------------------- | ------------------------------------------ | --- | ---- | -------------------------------------------------------------------- | ---------------------------------------------- | --------------- |
@@ -36,16 +27,7 @@
 
 ### Richmond ([90 nm](https://zh.wikipedia.org/wiki/90_nanometer "wikilink"),單核心處理器)
 
-  - 全系列支援:
-    *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"),
-    [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"),
-    [SSE2](../Page/SSE2.md "wikilink"),
-    [SSE3](../Page/SSE3.md "wikilink"), [Enhanced
-    3DNow\!](../Page/3DNow!.md "wikilink"), [NX
-    bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"),
-    [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink"),
-    [PowerNow\!](https://zh.wikipedia.org/wiki/PowerNow! "wikilink"),
-    [AMD-V](https://zh.wikipedia.org/wiki/AMD-V "wikilink")*
+  - 全系列支援: *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"), [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"), [SSE2](../Page/SSE2.md "wikilink"), [SSE3](../Page/SSE3.md "wikilink"), [Enhanced 3DNow\!](../Page/3DNow!.md "wikilink"), [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"), [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink"), [PowerNow\!](https://zh.wikipedia.org/wiki/PowerNow! "wikilink"), [AMD-V](https://zh.wikipedia.org/wiki/AMD-V "wikilink")*
 
 | 型號              | 頻率       | L2快取   | [HT](../Page/HyperTransport.md "wikilink") | 倍頻  | 核心電壓 | [TDP](https://zh.wikipedia.org/wiki/Thermal_Design_Power "wikilink") | CPU腳位                                                             | 發表時間              |
 | --------------- | -------- | ------ | ------------------------------------------ | --- | ---- | -------------------------------------------------------------------- | ----------------------------------------------------------------- | ----------------- |
@@ -56,16 +38,7 @@
 
 ### Taylor([90 nm](https://zh.wikipedia.org/wiki/90_nanometer "wikilink"),雙核心處理器)
 
-  - 全系列支援:
-    *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"),
-    [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"),
-    [SSE2](../Page/SSE2.md "wikilink"),
-    [SSE3](../Page/SSE3.md "wikilink"), [Enhanced
-    3DNow\!](../Page/3DNow!.md "wikilink"), [NX
-    bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"),
-    [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink"),
-    [PowerNow\!](https://zh.wikipedia.org/wiki/PowerNow! "wikilink"),
-    [AMD-V](https://zh.wikipedia.org/wiki/AMD-V "wikilink")*
+  - 全系列支援: *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"), [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"), [SSE2](../Page/SSE2.md "wikilink"), [SSE3](../Page/SSE3.md "wikilink"), [Enhanced 3DNow\!](../Page/3DNow!.md "wikilink"), [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"), [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink"), [PowerNow\!](https://zh.wikipedia.org/wiki/PowerNow! "wikilink"), [AMD-V](https://zh.wikipedia.org/wiki/AMD-V "wikilink")*
 
 | 型號                 | 頻率       | L2快取       | [HT](../Page/HyperTransport.md "wikilink") | 倍頻 | 核心電壓      | [TDP](https://zh.wikipedia.org/wiki/Thermal_Design_Power "wikilink") | CPU腳位                                                             | 發表時間         |
 | ------------------ | -------- | ---------- | ------------------------------------------ | -- | --------- | -------------------------------------------------------------------- | ----------------------------------------------------------------- | ------------ |
@@ -73,15 +46,7 @@
 
 ### Trinidad([90 nm](https://zh.wikipedia.org/wiki/90_nanometer "wikilink"),雙核心處理器)
 
-  - 全系列支援:*[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"),
-    [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"),
-    [SSE2](../Page/SSE2.md "wikilink"),
-    [SSE3](../Page/SSE3.md "wikilink"), [Enhanced
-    3DNow\!](../Page/3DNow!.md "wikilink"), [NX
-    bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"),
-    [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink"),
-    [PowerNow\!](https://zh.wikipedia.org/wiki/PowerNow! "wikilink"),
-    [AMD-V](https://zh.wikipedia.org/wiki/AMD-V "wikilink")*
+  - 全系列支援:*[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"), [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"), [SSE2](../Page/SSE2.md "wikilink"), [SSE3](../Page/SSE3.md "wikilink"), [Enhanced 3DNow\!](../Page/3DNow!.md "wikilink"), [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"), [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink"), [PowerNow\!](https://zh.wikipedia.org/wiki/PowerNow! "wikilink"), [AMD-V](https://zh.wikipedia.org/wiki/AMD-V "wikilink")*
 
 | 型號                 | 頻率       | L2快取       | [HT](../Page/HyperTransport.md "wikilink") | 倍頻  | 核心電壓      | [TDP](https://zh.wikipedia.org/wiki/Thermal_Design_Power "wikilink") | CPU腳位                                                             | 發表時間             |
 | ------------------ | -------- | ---------- | ------------------------------------------ | --- | --------- | -------------------------------------------------------------------- | ----------------------------------------------------------------- | ---------------- |
@@ -94,16 +59,7 @@
 
 ### Tyler([65 nm](https://zh.wikipedia.org/wiki/65_nm "wikilink"),雙核心處理器)
 
-  - 全系列支援:
-    *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"),
-    [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"),
-    [SSE2](../Page/SSE2.md "wikilink"),
-    [SSE3](../Page/SSE3.md "wikilink"), [Enhanced
-    3DNow\!](../Page/3DNow!.md "wikilink"), [NX
-    bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"),
-    [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink"),
-    [PowerNow\!](https://zh.wikipedia.org/wiki/PowerNow! "wikilink"),
-    [AMD-V](https://zh.wikipedia.org/wiki/AMD-V "wikilink")*
+  - 全系列支援: *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"), [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"), [SSE2](../Page/SSE2.md "wikilink"), [SSE3](../Page/SSE3.md "wikilink"), [Enhanced 3DNow\!](../Page/3DNow!.md "wikilink"), [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"), [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink"), [PowerNow\!](https://zh.wikipedia.org/wiki/PowerNow! "wikilink"), [AMD-V](https://zh.wikipedia.org/wiki/AMD-V "wikilink")*
 
 | 型號                 | 頻率       | L2快取       | [HT](../Page/HyperTransport.md "wikilink") | 倍頻    | 核心電壓               | [TDP](https://zh.wikipedia.org/wiki/Thermal_Design_Power "wikilink") | CPU腳位                                                             | 發表時間         |
 | ------------------ | -------- | ---------- | ------------------------------------------ | ----- | ------------------ | -------------------------------------------------------------------- | ----------------------------------------------------------------- | ------------ |
@@ -124,15 +80,7 @@
 
 ### Sable([65 nm](https://zh.wikipedia.org/wiki/65_nm "wikilink"),單核心處理器)
 
-  - 全系列支援:
-    *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"),
-    [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"),
-    [SSE2](../Page/SSE2.md "wikilink"),
-    [SSE3](../Page/SSE3.md "wikilink"), [Enhanced
-    3DNow\!](../Page/3DNow!.md "wikilink"), [NX
-    bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"),
-    [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink"),
-    [PowerNow\!](https://zh.wikipedia.org/wiki/PowerNow! "wikilink")*
+  - 全系列支援: *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"), [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"), [SSE2](../Page/SSE2.md "wikilink"), [SSE3](../Page/SSE3.md "wikilink"), [Enhanced 3DNow\!](../Page/3DNow!.md "wikilink"), [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"), [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink"), [PowerNow\!](https://zh.wikipedia.org/wiki/PowerNow! "wikilink")*
 
 | 型號            | 頻率       | L2快取   | [HT](../Page/HyperTransport.md "wikilink") | 倍頻    | 核心電壓          | [TDP](https://zh.wikipedia.org/wiki/Thermal_Design_Power "wikilink") | CPU腳位                                                             | 發表時間         |
 | ------------- | -------- | ------ | ------------------------------------------ | ----- | ------------- | -------------------------------------------------------------------- | ----------------------------------------------------------------- | ------------ |
@@ -143,16 +91,7 @@
 
 ### Sable([65 nm](https://zh.wikipedia.org/wiki/65_nm "wikilink"),單核心處理器)
 
-  - 全系列支援:
-    *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"),
-    [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"),
-    [SSE2](../Page/SSE2.md "wikilink"),
-    [SSE3](../Page/SSE3.md "wikilink"), [Enhanced
-    3DNow\!](../Page/3DNow!.md "wikilink"), [NX
-    bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"),
-    [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink"),
-    [PowerNow\!](https://zh.wikipedia.org/wiki/PowerNow! "wikilink"),
-    [AMD-V](https://zh.wikipedia.org/wiki/AMD-V "wikilink")*
+  - 全系列支援: *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"), [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"), [SSE2](../Page/SSE2.md "wikilink"), [SSE3](../Page/SSE3.md "wikilink"), [Enhanced 3DNow\!](../Page/3DNow!.md "wikilink"), [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"), [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink"), [PowerNow\!](https://zh.wikipedia.org/wiki/PowerNow! "wikilink"), [AMD-V](https://zh.wikipedia.org/wiki/AMD-V "wikilink")*
 
 | 型號           | 頻率       | L2快取   | [HT](../Page/HyperTransport.md "wikilink") | 倍頻    | 核心電壓 | [TDP](https://zh.wikipedia.org/wiki/Thermal_Design_Power "wikilink") | CPU腳位       | 發表時間 |
 | ------------ | -------- | ------ | ------------------------------------------ | ----- | ---- | -------------------------------------------------------------------- | ----------- | ---- |
@@ -162,15 +101,7 @@
 
 ### Tyler([65 nm](https://zh.wikipedia.org/wiki/65_nm "wikilink"),雙核心處理器)
 
-  - 全系列支援:
-    *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"),
-    [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"),
-    [SSE2](../Page/SSE2.md "wikilink"),
-    [SSE3](../Page/SSE3.md "wikilink"), [Enhanced
-    3DNow\!](../Page/3DNow!.md "wikilink"), [NX
-    bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"),
-    [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink"),
-    [PowerNow\!](https://zh.wikipedia.org/wiki/PowerNow! "wikilink")*
+  - 全系列支援: *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"), [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"), [SSE2](../Page/SSE2.md "wikilink"), [SSE3](../Page/SSE3.md "wikilink"), [Enhanced 3DNow\!](../Page/3DNow!.md "wikilink"), [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"), [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink"), [PowerNow\!](https://zh.wikipedia.org/wiki/PowerNow! "wikilink")*
 
 | 型號                 | 頻率       | L2快取       | [HT](../Page/HyperTransport.md "wikilink") | 倍頻   | 核心電壓               | [TDP](https://zh.wikipedia.org/wiki/Thermal_Design_Power "wikilink") | CPU腳位                                                             | 發表時間         |
 | ------------------ | -------- | ---------- | ------------------------------------------ | ---- | ------------------ | -------------------------------------------------------------------- | ----------------------------------------------------------------- | ------------ |
@@ -183,14 +114,7 @@
 
 ### Huron([65 nm](https://zh.wikipedia.org/wiki/65_nm "wikilink"))
 
-  - 全系列支援:
-    ''[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"),
-    [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"),
-    [SSE2](../Page/SSE2.md "wikilink"),
-    [SSE3](../Page/SSE3.md "wikilink"), [Enhanced
-    3DNow\!](../Page/3DNow!.md "wikilink"), [NX
-    bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"),
-    [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink")
+  - 全系列支援: ''[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"), [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"), [SSE2](../Page/SSE2.md "wikilink"), [SSE3](../Page/SSE3.md "wikilink"), [Enhanced 3DNow\!](../Page/3DNow!.md "wikilink"), [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"), [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink")
 
 | 型號           | 頻率       | L2快取   | [HT](../Page/HyperTransport.md "wikilink") | 倍頻   | 核心電壓  | [TDP](https://zh.wikipedia.org/wiki/Thermal_Design_Power "wikilink") | CPU腳位                                                               | 發表時間         |
 | ------------ | -------- | ------ | ------------------------------------------ | ---- | ----- | -------------------------------------------------------------------- | ------------------------------------------------------------------- | ------------ |
@@ -201,16 +125,7 @@
 
 ### Lion([65 nm](https://zh.wikipedia.org/wiki/65_nm "wikilink"),雙核心處理器)
 
-  - 全系列支援:
-    *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"),
-    [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"),
-    [SSE2](../Page/SSE2.md "wikilink"),
-    [SSE3](../Page/SSE3.md "wikilink"), [Enhanced
-    3DNow\!](../Page/3DNow!.md "wikilink"), [NX
-    bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"),
-    [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink"),
-    [PowerNow\!](https://zh.wikipedia.org/wiki/PowerNow! "wikilink"),
-    [AMD-V](https://zh.wikipedia.org/wiki/AMD-V "wikilink")*
+  - 全系列支援: *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"), [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"), [SSE2](../Page/SSE2.md "wikilink"), [SSE3](../Page/SSE3.md "wikilink"), [Enhanced 3DNow\!](../Page/3DNow!.md "wikilink"), [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"), [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink"), [PowerNow\!](https://zh.wikipedia.org/wiki/PowerNow! "wikilink"), [AMD-V](https://zh.wikipedia.org/wiki/AMD-V "wikilink")*
 
 | 型號                         | 頻率       | L2快取       | [HT](../Page/HyperTransport.md "wikilink") | 倍頻    | 核心電壓     | [TDP](https://zh.wikipedia.org/wiki/Thermal_Design_Power "wikilink") | CPU腳位                                                             | 發表時間         |
 | -------------------------- | -------- | ---------- | ------------------------------------------ | ----- | -------- | -------------------------------------------------------------------- | ----------------------------------------------------------------- | ------------ |
@@ -236,18 +151,8 @@
 
 #### Conesus([65 nm](https://zh.wikipedia.org/wiki/65_nm "wikilink"),雙核心處理器)
 
-  - 全系列支援:
-    *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"),
-    [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"),
-    [SSE2](../Page/SSE2.md "wikilink"),
-    [SSE3](../Page/SSE3.md "wikilink"), [Enhanced
-    3DNow\!](../Page/3DNow!.md "wikilink"), [NX
-    bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"),
-    [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink"),
-    [AMD-V](https://zh.wikipedia.org/wiki/AMD-V "wikilink")*
-  - Turion Neo X2 L625 supports AMD
-    [PowerNow\!](https://zh.wikipedia.org/wiki/PowerNow! "wikilink")
-    technology
+  - 全系列支援: *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"), [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"), [SSE2](../Page/SSE2.md "wikilink"), [SSE3](../Page/SSE3.md "wikilink"), [Enhanced 3DNow\!](../Page/3DNow!.md "wikilink"), [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"), [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink"), [AMD-V](https://zh.wikipedia.org/wiki/AMD-V "wikilink")*
+  - Turion Neo X2 L625 supports AMD [PowerNow\!](https://zh.wikipedia.org/wiki/PowerNow! "wikilink") technology
 
 | 型號                        | 頻率       | L2快取       | [HT](../Page/HyperTransport.md "wikilink") | 倍頻   | 核心電壓  | [TDP](https://zh.wikipedia.org/wiki/Thermal_Design_Power "wikilink") | CPU腳位                                                               | 發表時間      |
 | ------------------------- | -------- | ---------- | ------------------------------------------ | ---- | ----- | -------------------------------------------------------------------- | ------------------------------------------------------------------- | --------- |
@@ -260,17 +165,7 @@
 
 ### Caspian([45 nm](https://zh.wikipedia.org/wiki/45_nm "wikilink"),雙核心處理器)
 
-  - 全系列支援:
-    *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"),
-    [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"),
-    [SSE2](../Page/SSE2.md "wikilink"),
-    [SSE3](../Page/SSE3.md "wikilink"),
-    [SSE4a](https://zh.wikipedia.org/wiki/SSE4a "wikilink"), [Enhanced
-    3DNow\!](../Page/3DNow!.md "wikilink"), [NX
-    bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"),
-    [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink"),
-    [PowerNow\!](https://zh.wikipedia.org/wiki/PowerNow! "wikilink"),
-    [AMD-V](https://zh.wikipedia.org/wiki/AMD-V "wikilink")*
+  - 全系列支援: *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"), [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"), [SSE2](../Page/SSE2.md "wikilink"), [SSE3](../Page/SSE3.md "wikilink"), [SSE4a](https://zh.wikipedia.org/wiki/SSE4a "wikilink"), [Enhanced 3DNow\!](../Page/3DNow!.md "wikilink"), [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"), [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink"), [PowerNow\!](https://zh.wikipedia.org/wiki/PowerNow! "wikilink"), [AMD-V](https://zh.wikipedia.org/wiki/AMD-V "wikilink")*
   - 全系列使用DDR2記憶體 (Socket S1g3 預設設計)
 
 | 型號                   | 頻率       | L2快取      | FPU     | 倍頻       | 核心電壓  | [TDP](https://zh.wikipedia.org/wiki/Thermal_Design_Power "wikilink") | CPU腳位                                                             | 發表時間               |
@@ -290,17 +185,7 @@
 
 ### Champlain([45 nm](https://zh.wikipedia.org/wiki/45_nm "wikilink"),雙核心處理器)
 
-  - 全系列支援:
-    *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"),
-    [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"),
-    [SSE2](../Page/SSE2.md "wikilink"),
-    [SSE3](../Page/SSE3.md "wikilink"),
-    [SSE4a](https://zh.wikipedia.org/wiki/SSE4a "wikilink"), [Enhanced
-    3DN全ow\!](../Page/3DNow!.md "wikilink"), [NX
-    bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"),
-    [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink"),
-    [PowerNow\!](https://zh.wikipedia.org/wiki/PowerNow! "wikilink"),
-    [AMD-V](https://zh.wikipedia.org/wiki/AMD-V "wikilink")*
+  - 全系列支援: *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"), [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"), [SSE2](../Page/SSE2.md "wikilink"), [SSE3](../Page/SSE3.md "wikilink"), [SSE4a](https://zh.wikipedia.org/wiki/SSE4a "wikilink"), [Enhanced 3DN全ow\!](../Page/3DNow!.md "wikilink"), [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"), [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink"), [PowerNow\!](https://zh.wikipedia.org/wiki/PowerNow! "wikilink"), [AMD-V](https://zh.wikipedia.org/wiki/AMD-V "wikilink")*
   - 全系列使用DDR3記憶體 (Socket S1g4 預設設計)
 
 | 型號             | 頻率       | L2快取     | FPU     | 倍頻       | 核心電壓  | [TDP](https://zh.wikipedia.org/wiki/Thermal_Design_Power "wikilink") | CPU腳位                                                             | 發表時間             |
@@ -325,17 +210,7 @@
 
 ### Caspian ([45 nm](https://zh.wikipedia.org/wiki/45_nm "wikilink"),單核心處理器)
 
-  - 全系列支援:
-    *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"),
-    [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"),
-    [SSE2](../Page/SSE2.md "wikilink"),
-    [SSE3](../Page/SSE3.md "wikilink"),
-    [SSE4a](https://zh.wikipedia.org/wiki/SSE4a "wikilink"), [Enhanced
-    3DNow\!](../Page/3DNow!.md "wikilink"), [NX
-    bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"),
-    [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink"),
-    [PowerNow\!](https://zh.wikipedia.org/wiki/PowerNow! "wikilink"),
-    [AMD-V](https://zh.wikipedia.org/wiki/AMD-V "wikilink")*
+  - 全系列支援: *[MMX](https://zh.wikipedia.org/wiki/MMX_\(instruction_set\) "wikilink"), [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"), [SSE2](../Page/SSE2.md "wikilink"), [SSE3](../Page/SSE3.md "wikilink"), [SSE4a](https://zh.wikipedia.org/wiki/SSE4a "wikilink"), [Enhanced 3DNow\!](../Page/3DNow!.md "wikilink"), [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"), [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink"), [PowerNow\!](https://zh.wikipedia.org/wiki/PowerNow! "wikilink"), [AMD-V](https://zh.wikipedia.org/wiki/AMD-V "wikilink")*
 
 | 型號           | 頻率       | L2快取   | [HT](../Page/HyperTransport.md "wikilink") | 倍頻       | 核心電壓  | [TDP](https://zh.wikipedia.org/wiki/Thermal_Design_Power "wikilink") | CPU腳位                                                             | 發表時間               |
 | ------------ | -------- | ------ | ------------------------------------------ | -------- | ----- | -------------------------------------------------------------------- | ----------------------------------------------------------------- | ------------------ |
@@ -345,11 +220,9 @@
 
 ## 參考資料
 
-[Category:AMD處理器列表](https://zh.wikipedia.org/wiki/Category:AMD處理器列表 "wikilink")
-[Category:AMD处理器](https://zh.wikipedia.org/wiki/Category:AMD处理器 "wikilink")
+[Category:AMD處理器列表](https://zh.wikipedia.org/wiki/Category:AMD處理器列表 "wikilink") [Category:AMD处理器](https://zh.wikipedia.org/wiki/Category:AMD处理器 "wikilink")
 
-1.  [AMD Turion X2/Turion X2
-    Ultra](http://www.amd.com/uk/products/notebook/processors/turion-x2/Pages/turion-x2-ultra-model-numbers.aspx)
+1.  [AMD Turion X2/Turion X2 Ultra](http://www.amd.com/uk/products/notebook/processors/turion-x2/Pages/turion-x2-ultra-model-numbers.aspx)
 
 2.
 3.
@@ -363,10 +236,8 @@
 11.
 12.
 13.
-14. [AMD Athlon Neo
-    X2](http://www.amd.com/us/Documents/43838F_ECSD_selection_guide.pdf)
+14. [AMD Athlon Neo X2](http://www.amd.com/us/Documents/43838F_ECSD_selection_guide.pdf)
 
-15. [AMD Athlon Neo
-    X2](http://forums.amd.com/forum/messageview.cfm?catid=34&threadid=116940)
+15. [AMD Athlon Neo X2](http://forums.amd.com/forum/messageview.cfm?catid=34&threadid=116940)
 
 16.

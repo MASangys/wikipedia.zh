@@ -1,5 +1,4 @@
-**中国足球甲级A组联赛**，简称**甲A联赛**，曾是中国足球的顶级联赛，为[中國足球超級聯賽的前身](https://zh.wikipedia.org/wiki/中國足球超級聯賽 "wikilink")，簡稱（甲A，C
-League）。1989年成立，前期为专业体制，[1994年开始职业化](../Page/1994年中国足球甲A联赛.md "wikilink")，至[2003赛季结束后改制为](../Page/2003年中国足球甲A联赛.md "wikilink")[中国足球超级联赛](https://zh.wikipedia.org/wiki/中国足球超级联赛 "wikilink")。
+**中国足球甲级A组联赛**，简称**甲A联赛**，曾是中国足球的顶级联赛，为[中國足球超級聯賽的前身](https://zh.wikipedia.org/wiki/中國足球超級聯賽 "wikilink")，簡稱（甲A，C League）。1989年成立，前期为专业体制，[1994年开始职业化](../Page/1994年中国足球甲A联赛.md "wikilink")，至[2003赛季结束后改制为](../Page/2003年中国足球甲A联赛.md "wikilink")[中国足球超级联赛](https://zh.wikipedia.org/wiki/中国足球超级联赛 "wikilink")。
 
 职业化十年的过程中[大连万达/实德获](https://zh.wikipedia.org/wiki/大连实德 "wikilink")7次冠军、[上海申花获](https://zh.wikipedia.org/wiki/上海申花 "wikilink")1次冠军（由于涉及假赌黑2003年冠军被剥夺）、[山东鲁能泰山获](https://zh.wikipedia.org/wiki/山东鲁能泰山 "wikilink")1次冠军。
 
@@ -276,7 +275,7 @@ League）。1989年成立，前期为专业体制，[1994年开始职业化](../
 
 ### 1995年
 
-改用三分制，其他同前一年。[徐根宝的](../Page/徐根宝.md "wikilink")**抢逼围**战术大获成功。后卫[范志毅](../Page/范志毅.md "wikilink")（联赛第三轮对阵四川全兴后改打前腰及前锋）获得最佳球员和最佳射手奖。
+改用三分制，其他同前一年。[徐根宝](../Page/徐根宝.md "wikilink")的**抢逼围**战术大获成功。后卫[范志毅](../Page/范志毅.md "wikilink")（联赛第三轮对阵四川全兴后改打前腰及前锋）获得最佳球员和最佳射手奖。
 
 |                                                            |    |    |      |    |    |
 | ---------------------------------------------------------- | -- | -- | ---- | -- | -- |
@@ -303,7 +302,7 @@ League）。1989年成立，前期为专业体制，[1994年开始职业化](../
 | 最佳教练（金牌奖）  | [徐根宝](../Page/徐根宝.md "wikilink")（上海申花） |
 
   - 赛季前，山东泰山更名济南泰山。
-  - 9月28日，[足球报提出](../Page/足球报.md "wikilink")**保卫成都**的口号。
+  - 9月28日，[足球报](../Page/足球报.md "wikilink")提出**保卫成都**的口号。
   - 10月8日，延边现代队因抗议裁判不公而消极比赛，以0:6负于四川全兴，被中国足协通报批评。
   - 10月15日，[上海申花创下十连胜纪录](https://zh.wikipedia.org/wiki/上海申花 "wikilink")。
   - 11月12日，“十冠王”辽宁队被降入甲B。
@@ -367,7 +366,7 @@ League）。1989年成立，前期为专业体制，[1994年开始职业化](../
 | 神射手（金靴奖）   | [郝海东](../Page/郝海东.md "wikilink")（大连万达）                    |
 | 最佳教练（金牌奖）  | [迟尚斌](../Page/迟尚斌.md "wikilink")（大连万达）                    |
 
-  - 赛季前，升班马前卫寰岛高价引进大量大牌球员，包括[高峰](../Page/高峰_\(足球运动员\).md "wikilink")、[姜峰](../Page/姜峰.md "wikilink")、[韩金铭](../Page/韩金铭.md "wikilink")、[姜滨](https://zh.wikipedia.org/wiki/姜滨 "wikilink")，并聘请前中国国家队主教练[施拉普纳担任主教练](https://zh.wikipedia.org/wiki/施拉普纳 "wikilink")。次年引进[彭伟国和](../Page/彭伟国.md "wikilink")[符宾](../Page/符宾.md "wikilink")，开始了足球俱乐部的投资竞争。
+  - 赛季前，升班马前卫寰岛高价引进大量大牌球员，包括[高峰](../Page/高峰_\(足球运动员\).md "wikilink")、[姜峰](../Page/姜峰.md "wikilink")、[韩金铭](../Page/韩金铭.md "wikilink")、[姜滨](https://zh.wikipedia.org/wiki/姜滨 "wikilink")，并聘请前中国国家队主教练[施拉普纳担任主教练](https://zh.wikipedia.org/wiki/施拉普纳 "wikilink")。次年引进[彭伟国](../Page/彭伟国.md "wikilink")和[符宾](../Page/符宾.md "wikilink")，开始了足球俱乐部的投资竞争。
   - 3月23日，前卫寰岛主场和[天津立飞的比赛战成](https://zh.wikipedia.org/wiki/天津立飞 "wikilink")1:1，但是天津队因为派遣无比赛资格的球员上场而被判0:3负。
   - 6月29日，中国足协决定实行国际足联的三分制。
   - 7月20日，北京国安队新引进的三名外援首次同时登场，以9:1大胜上海申花。首次亮相的[卡西亚诺和](https://zh.wikipedia.org/wiki/卡西亚诺 "wikilink")[安德雷斯分别上演帽子戏法](https://zh.wikipedia.org/wiki/安德雷斯 "wikilink")，[冈玻斯攻入两球](https://zh.wikipedia.org/wiki/冈玻斯 "wikilink")。
@@ -414,7 +413,7 @@ League）。1989年成立，前期为专业体制，[1994年开始职业化](../
 
 ### 2000年
 
-赛制同前一年。赛季前，大连万达实德更名大连实德，延边敖东更名吉林敖东，厦门远华更名厦门厦新。3月19日，联赛第一轮中，上届联赛冠亚军山东鲁能泰山和辽宁抚顺分别败给升班马云南红塔和厦门厦新。3月25日，在客场告负之后，深圳平安主教练[塔瓦雷斯发现](https://zh.wikipedia.org/wiki/塔瓦雷斯 "wikilink")6名队员夜不归宿。此事在媒体上被称为[平安六君子事件](https://zh.wikipedia.org/wiki/平安六君子事件 "wikilink")。4月30日，辽宁队员[张玉宁酒后驾车发生车祸](../Page/张玉宁.md "wikilink")，致使队友[曲乐恒重伤](../Page/曲乐恒.md "wikilink")。
+赛制同前一年。赛季前，大连万达实德更名大连实德，延边敖东更名吉林敖东，厦门远华更名厦门厦新。3月19日，联赛第一轮中，上届联赛冠亚军山东鲁能泰山和辽宁抚顺分别败给升班马云南红塔和厦门厦新。3月25日，在客场告负之后，深圳平安主教练[塔瓦雷斯发现](https://zh.wikipedia.org/wiki/塔瓦雷斯 "wikilink")6名队员夜不归宿。此事在媒体上被称为[平安六君子事件](https://zh.wikipedia.org/wiki/平安六君子事件 "wikilink")。4月30日，辽宁队员[张玉宁](../Page/张玉宁.md "wikilink")酒后驾车发生车祸，致使队友[曲乐恒](../Page/曲乐恒.md "wikilink")重伤。
 
 ### 2001年
 
@@ -422,7 +421,7 @@ League）。1989年成立，前期为专业体制，[1994年开始职业化](../
 
 ### 2002年
 
-赛制同前一年。为[中国国家足球队参加](../Page/中国国家足球队.md "wikilink")[2002年世界杯让路](https://zh.wikipedia.org/wiki/2002年世界杯 "wikilink")，实行只升不降的政策。
+赛制同前一年。为[中国国家足球队](../Page/中国国家足球队.md "wikilink")参加[2002年世界杯让路](https://zh.wikipedia.org/wiki/2002年世界杯 "wikilink")，实行只升不降的政策。
 
 由于前一年甲B联赛最后阶段的[甲B五鼠事件](../Page/甲B五鼠事件.md "wikilink")，甲B亚军[长春亚泰被取消升级资格](https://zh.wikipedia.org/wiki/长春亚泰 "wikilink")，结果甲A联赛成为15队，每轮比赛都有一个球队轮空。
 
@@ -482,7 +481,6 @@ League）。1989年成立，前期为专业体制，[1994年开始职业化](../
   - [中国足球乙级联赛](https://zh.wikipedia.org/wiki/中国足球乙级联赛 "wikilink")
   - [中国足球丙级联赛](https://zh.wikipedia.org/wiki/中国足球丙级联赛 "wikilink")
 
-[Category:中國足球賽事](https://zh.wikipedia.org/wiki/Category:中國足球賽事 "wikilink")
-[Category:中國足球甲A聯賽](https://zh.wikipedia.org/wiki/Category:中國足球甲A聯賽 "wikilink")
+[Category:中國足球賽事](https://zh.wikipedia.org/wiki/Category:中國足球賽事 "wikilink") [Category:中國足球甲A聯賽](https://zh.wikipedia.org/wiki/Category:中國足球甲A聯賽 "wikilink")
 
 1.

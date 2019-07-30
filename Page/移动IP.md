@@ -1,8 +1,4 @@
-**移-{}-动IP**（，IP
-mobility），又譯為**行-{}-動IP**，由[網際網路工程任務組](https://zh.wikipedia.org/wiki/網際網路工程任務組 "wikilink")（IETF）制定的一種[網路傳輸協定標準](https://zh.wikipedia.org/wiki/網路傳輸協定 "wikilink")。它設計的目的，是為了讓行動裝置用戶，能夠從一個網路系統中，移動到另一個網路系統，但是裝置的[IP位址保持不變](https://zh.wikipedia.org/wiki/IP位址 "wikilink")。這能夠使移动节点在移动中保持其连接性，實現跨越不同網段的漫遊功能。在[IPv4系統中的行動IP](../Page/IPv4.md "wikilink")，在IETF
-RFC 5944中定義，RFC
-4721中提供了擴充定義。為[IPv6設計的行動IP](../Page/IPv6.md "wikilink")，又稱**Mobile
-IPv6**，在RFC 6275中定義了它的功能。
+**移-{}-动IP**（，IP mobility），又譯為**行-{}-動IP**，由[網際網路工程任務組](https://zh.wikipedia.org/wiki/網際網路工程任務組 "wikilink")（IETF）制定的一種[網路傳輸協定標準](https://zh.wikipedia.org/wiki/網路傳輸協定 "wikilink")。它設計的目的，是為了讓行動裝置用戶，能夠從一個網路系統中，移動到另一個網路系統，但是裝置的[IP位址保持不變](https://zh.wikipedia.org/wiki/IP位址 "wikilink")。這能夠使移动节点在移动中保持其连接性，實現跨越不同網段的漫遊功能。在[IPv4](../Page/IPv4.md "wikilink")系統中的行動IP，在IETF RFC 5944中定義，RFC 4721中提供了擴充定義。為[IPv6](../Page/IPv6.md "wikilink")設計的行動IP，又稱**Mobile IPv6**，在RFC 6275中定義了它的功能。
 
 ## 設計目的
 
@@ -26,6 +22,4 @@ IPv6**，在RFC 6275中定義了它的功能。
   - RFC 4721 - Mobile IPv4 Challenge/Response Extensions
   - RFC 3024 - Reverse Tunneling for Mobile IP
 
-[Category:网络协议](https://zh.wikipedia.org/wiki/Category:网络协议 "wikilink")
-[Category:网络层协议](https://zh.wikipedia.org/wiki/Category:网络层协议 "wikilink")
-[Category:網路定址](https://zh.wikipedia.org/wiki/Category:網路定址 "wikilink")
+[Category:网络协议](https://zh.wikipedia.org/wiki/Category:网络协议 "wikilink") [Category:网络层协议](https://zh.wikipedia.org/wiki/Category:网络层协议 "wikilink") [Category:網路定址](https://zh.wikipedia.org/wiki/Category:網路定址 "wikilink")

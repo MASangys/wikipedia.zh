@@ -1,15 +1,12 @@
-是日本[Namco公司出品的](https://zh.wikipedia.org/wiki/Namco "wikilink")3D格斗游戏[劍魂系列的第二作](https://zh.wikipedia.org/wiki/劍魂 "wikilink")（若把Namco最初在[街机和](../Page/街机.md "wikilink")[PlayStation上的作品](https://zh.wikipedia.org/wiki/PlayStation_\(游戏机\) "wikilink")[刀魂也算为系列成员](https://zh.wikipedia.org/wiki/刀魂 "wikilink")，则为第三作）。这是系列中第一部跨平台的作品，存在于[索尼](../Page/索尼.md "wikilink")[PlayStation
-2](../Page/PlayStation_2.md "wikilink")、[微软](../Page/微软.md "wikilink")[Xbox和](../Page/Xbox.md "wikilink")[任天堂GameCube](../Page/任天堂GameCube.md "wikilink")3种家庭游戏主机及街机之上。由于仅仅针对[世嘉公司](https://zh.wikipedia.org/wiki/世嘉公司 "wikilink")[Dreamcast主机的系列第一作](../Page/Dreamcast.md "wikilink")《[劍魂](https://zh.wikipedia.org/wiki/劍魂 "wikilink")》在发行后好评如潮（被权威电子游戏杂志[FAMI通评为满分](https://zh.wikipedia.org/wiki/FAMI通 "wikilink")），业界与玩家普遍对《劍魂II》极其期待。然而，游戏于2003年发售后，销售量并不突出。
+是日本[Namco公司出品的](https://zh.wikipedia.org/wiki/Namco "wikilink")3D格斗游戏[劍魂系列的第二作](https://zh.wikipedia.org/wiki/劍魂 "wikilink")（若把Namco最初在[街机](../Page/街机.md "wikilink")和[PlayStation上的作品](https://zh.wikipedia.org/wiki/PlayStation_\(游戏机\) "wikilink")[刀魂也算为系列成员](https://zh.wikipedia.org/wiki/刀魂 "wikilink")，则为第三作）。这是系列中第一部跨平台的作品，存在于[索尼](../Page/索尼.md "wikilink")[PlayStation 2](../Page/PlayStation_2.md "wikilink")、[微软](../Page/微软.md "wikilink")[Xbox](../Page/Xbox.md "wikilink")和[任天堂GameCube](../Page/任天堂GameCube.md "wikilink")3种家庭游戏主机及街机之上。由于仅仅针对[世嘉公司](https://zh.wikipedia.org/wiki/世嘉公司 "wikilink")[Dreamcast](../Page/Dreamcast.md "wikilink")主机的系列第一作《[劍魂](https://zh.wikipedia.org/wiki/劍魂 "wikilink")》在发行后好评如潮（被权威电子游戏杂志[FAMI通评为满分](https://zh.wikipedia.org/wiki/FAMI通 "wikilink")），业界与玩家普遍对《劍魂II》极其期待。然而，游戏于2003年发售后，销售量并不突出。
 
 ## 不同版本
 
-  - 街机
-    使用PS2互换机板[System-24](https://zh.wikipedia.org/wiki/System-24 "wikilink")，机板售价328000[日元](https://zh.wikipedia.org/wiki/日元 "wikilink")。
+  - 街机 使用PS2互换机板[System-24](https://zh.wikipedia.org/wiki/System-24 "wikilink")，机板售价328000[日元](https://zh.wikipedia.org/wiki/日元 "wikilink")。
 
 <!-- end list -->
 
-  - 家用机
-    有三种版本：[PS2](../Page/PlayStation_2.md "wikilink")、[Xbox](../Page/Xbox.md "wikilink")、[NGC](../Page/任天堂GameCube.md "wikilink")。除各增加一名特有人物以外，系统上并无不同。
+  - 家用机 有三种版本：[PS2](../Page/PlayStation_2.md "wikilink")、[Xbox](../Page/Xbox.md "wikilink")、[NGC](../Page/任天堂GameCube.md "wikilink")。除各增加一名特有人物以外，系统上并无不同。
 
 <!-- end list -->
 
@@ -17,8 +14,7 @@
 
 ## 系统改进與評價
 
-**劍魂II**由于登陆性能好于DC的3种主机，无论是[即时演算和](https://zh.wikipedia.org/wiki/即时演算 "wikilink")[动画的画面素质都远远优于系列第一作](../Page/动画.md "wikilink")**刀魂**。此外，游戏中斩的效果加强了许多，无论是横斩还是纵斩的性能都与前作有所不同。本作中当双方武器同时击中对手时，任何一方都不会受到伤害。其他改进包括“墙壁”的概念（在第一作中，角色可以从格斗场景中任何一个方向掉落，而一旦掉下去即失败）和一个加强的[Soul
-Charge](https://zh.wikipedia.org/wiki/Soul_Charge "wikilink")（聚魂）系统。特有的8方向移動更加直覺操作。動態擷取是歷代最細膩的。也因此，相較於前作的大技來往，本作更傾向行雲流水的小技攻防牽制。讓格鬥遊戲老練玩家給予偏高評價。
+**劍魂II**由于登陆性能好于DC的3种主机，无论是[即时演算和](https://zh.wikipedia.org/wiki/即时演算 "wikilink")[动画](../Page/动画.md "wikilink")的画面素质都远远优于系列第一作**刀魂**。此外，游戏中斩的效果加强了许多，无论是横斩还是纵斩的性能都与前作有所不同。本作中当双方武器同时击中对手时，任何一方都不会受到伤害。其他改进包括“墙壁”的概念（在第一作中，角色可以从格斗场景中任何一个方向掉落，而一旦掉下去即失败）和一个加强的[Soul Charge](https://zh.wikipedia.org/wiki/Soul_Charge "wikilink")（聚魂）系统。特有的8方向移動更加直覺操作。動態擷取是歷代最細膩的。也因此，相較於前作的大技來往，本作更傾向行雲流水的小技攻防牽制。讓格鬥遊戲老練玩家給予偏高評價。
 
 相對的，故事模式草率、系列特有的[升官圖模式單調](https://zh.wikipedia.org/wiki/升官圖 "wikilink")、舞台、角色減少、欠缺搶眼大技、繁雜而令人望之生懼的大量小技，再再摧毀了本系列易上手及吸引、開拓新玩家的優勢。陷入格鬥遊戲系列化時常見的硬蕊化窠臼。
 
@@ -160,7 +156,7 @@ Charge](https://zh.wikipedia.org/wiki/Soul_Charge "wikilink")（聚魂）系统�
 
 #### 柯里克
 
-国籍：不明（在[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[明朝长大](../Page/明朝.md "wikilink")）
+国籍：不明（在[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[明朝](../Page/明朝.md "wikilink")长大）
 
 武器：棍
 
@@ -213,10 +209,4 @@ Charge](https://zh.wikipedia.org/wiki/Soul_Charge "wikilink")（聚魂）系统�
 
   - [劍魂檔案公式網站](http://www.soularchive.jp/)
 
-[Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink")
-[Category:Xbox遊戲](https://zh.wikipedia.org/wiki/Category:Xbox遊戲 "wikilink")
-[Category:2003年电子游戏](https://zh.wikipedia.org/wiki/Category:2003年电子游戏 "wikilink")
-[Category:格鬥遊戲](https://zh.wikipedia.org/wiki/Category:格鬥遊戲 "wikilink")
-[Category:街機遊戲](https://zh.wikipedia.org/wiki/Category:街機遊戲 "wikilink")
-[Category:任天堂GameCube游戏](https://zh.wikipedia.org/wiki/Category:任天堂GameCube游戏 "wikilink")
-[Category:魂之系列](https://zh.wikipedia.org/wiki/Category:魂之系列 "wikilink")
+[Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink") [Category:Xbox遊戲](https://zh.wikipedia.org/wiki/Category:Xbox遊戲 "wikilink") [Category:2003年电子游戏](https://zh.wikipedia.org/wiki/Category:2003年电子游戏 "wikilink") [Category:格鬥遊戲](https://zh.wikipedia.org/wiki/Category:格鬥遊戲 "wikilink") [Category:街機遊戲](https://zh.wikipedia.org/wiki/Category:街機遊戲 "wikilink") [Category:任天堂GameCube游戏](https://zh.wikipedia.org/wiki/Category:任天堂GameCube游戏 "wikilink") [Category:魂之系列](https://zh.wikipedia.org/wiki/Category:魂之系列 "wikilink")

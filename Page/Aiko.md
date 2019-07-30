@@ -1,6 +1,6 @@
-**aiko**（）是[日本女性](../Page/日本.md "wikilink")[創作歌手](../Page/創作歌手.md "wikilink")，出身於[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")[吹田市](../Page/吹田市.md "wikilink")。作曲及作詞皆精通，其中以作詞更為優秀。擅長細膩的情歌以及女性心理的描寫。代表作有《[煙火](../Page/煙火_\(aiko單曲\).md "wikilink")》、《[獨角仙](../Page/獨角仙_\(單曲\).md "wikilink")》、《[亮晶晶](../Page/亮晶晶_\(單曲\).md "wikilink")》等。
+**aiko**（）是[日本](../Page/日本.md "wikilink")女性[創作歌手](../Page/創作歌手.md "wikilink")，出身於[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")[吹田市](../Page/吹田市.md "wikilink")。作曲及作詞皆精通，其中以作詞更為優秀。擅長細膩的情歌以及女性心理的描寫。代表作有《[煙火](../Page/煙火_\(aiko單曲\).md "wikilink")》、《[獨角仙](../Page/獨角仙_\(單曲\).md "wikilink")》、《[亮晶晶](../Page/亮晶晶_\(單曲\).md "wikilink")》等。
 
-aiko的國民度和好感度甚高。日本知名娛樂服務公司[Oricon針對](../Page/Oricon.md "wikilink")20,000個訂戶所作的最受歡迎歌手調查結果顯示，aiko在2005年及2006年皆高居榜首。
+aiko的國民度和好感度甚高。日本知名娛樂服務公司[Oricon](../Page/Oricon.md "wikilink")針對20,000個訂戶所作的最受歡迎歌手調查結果顯示，aiko在2005年及2006年皆高居榜首。
 
 ## 發行作品
 
@@ -513,7 +513,7 @@ aiko的國民度和好感度甚高。日本知名娛樂服務公司[Oricon針對
 <td><p>1st</p></td>
 <td><p>2011年2月23日</p></td>
 <td></td>
-<td><p><strong><a href="../Page/愛選輯.md" title="wikilink">愛選輯I</a></strong></p></td>
+<td><p><strong><a href="../Page/愛選輯.md" title="wikilink">愛選輯</a>I</strong></p></td>
 <td><p>2位</p></td>
 <td><p>226,030</p></td>
 <td><p>380,493</p></td>
@@ -521,7 +521,7 @@ aiko的國民度和好感度甚高。日本知名娛樂服務公司[Oricon針對
 <tr class="even">
 <td><p>2nd</p></td>
 <td></td>
-<td><p><strong><a href="../Page/愛選輯.md" title="wikilink">愛選輯II</a></strong></p></td>
+<td><p><strong><a href="../Page/愛選輯.md" title="wikilink">愛選輯</a>II</strong></p></td>
 <td><p>3位</p></td>
 <td><p>217,455</p></td>
 <td><p>345,540</p></td>
@@ -722,16 +722,12 @@ aiko的國民度和好感度甚高。日本知名娛樂服務公司[Oricon針對
 
 ## 巡迴演出
 
-  - "Love Like Pop"（1998，1999，2000，2001，2002，2004，2005，2006）- Love Like
-    \< 愛好（**ai** \[to love\] + **ko** \[to like\]）
+  - "Love Like Pop"（1998，1999，2000，2001，2002，2004，2005，2006）- Love Like \< 愛好（**ai** \[to love\] + **ko** \[to like\]）
   - 大學學園祭（1999，2003）
   - "Baby Peenats Meeting"（2001，2004；正式迷俱樂部 (Baby Peenats) 會員限制）
   - "Love Like Rock"（2002，2003，2006；no-seat concerts）
-  - "Love Like
-    Aloha"（2003年夏天，在片賴海岸，[江之島](../Page/江之島.md "wikilink")；2006年夏天，在Southern
-    海岸茅崎）
-  - "Love Like Pop" (2015年12月26(六)、12/27(日) 橫濱體育館 （新横浜）12/31日(四)
-    大阪會館（大阪）)
+  - "Love Like Aloha"（2003年夏天，在片賴海岸，[江之島](../Page/江之島.md "wikilink")；2006年夏天，在Southern 海岸茅崎）
+  - "Love Like Pop" (2015年12月26(六)、12/27(日) 橫濱體育館 （新横浜）12/31日(四) 大阪會館（大阪）)
 
 ## NHK红白歌会出场
 
@@ -866,8 +862,7 @@ aiko的國民度和好感度甚高。日本知名娛樂服務公司[Oricon針對
 
 ### 電視劇
 
-  - 2014年：《[出色的選TAXI](../Page/出色的選TAXI.md "wikilink")》─第9話 /
-    角色：沼越宏美（客串）\[5\]
+  - 2014年：《[出色的選TAXI](../Page/出色的選TAXI.md "wikilink")》─第9話 / 角色：沼越宏美（客串）\[5\]
 
 ### 廣播節目
 
@@ -877,14 +872,11 @@ aiko的國民度和好感度甚高。日本知名娛樂服務公司[Oricon針對
 
   - （1999年11月17日 - 2003年3月26日，[日本放送](../Page/日本放送.md "wikilink")）
 
-      - 常規播出結束後，曾以「aiko的All Night Nippon」名稱做為單發特別節目播出
-        ：2004年7月16日、2007年8月22日、2008年2月24日、2011年2月22日、2013年7月26日、2019年7月6日。
+      - 常規播出結束後，曾以「aiko的All Night Nippon」名稱做為單發特別節目播出 ：2004年7月16日、2007年8月22日、2008年2月24日、2011年2月22日、2013年7月26日、2019年7月6日。
 
 ## 書籍
 
-  - 正式歌手書：《aiko bon》（[Sony
-    Magazines](https://web.archive.org/web/20090314063959/http://www.catchbon.jp/smg/cb/shop/goods/detail.aspx?goods=012496)，2005年）ISBN
-    4-7897-2496-4
+  - 正式歌手書：《aiko bon》（[Sony Magazines](https://web.archive.org/web/20090314063959/http://www.catchbon.jp/smg/cb/shop/goods/detail.aspx?goods=012496)，2005年）ISBN 4-7897-2496-4
 
 ## 獲獎
 
@@ -893,12 +885,9 @@ aiko的國民度和好感度甚高。日本知名娛樂服務公司[Oricon針對
       - Pony Canyon獎 (Music Quest Japan Final, 1996)
   - 盛开的花朵奖，音樂部门（[大阪市](../Page/大阪市.md "wikilink")、2000年）
   - 戒菸表彰（2002年、菸問題首都圈協議會主辦）
-  - Rock Album of the Year – [櫻花樹下](../Page/櫻花樹下.md "wikilink") (the
-    Japan Gold Disc Award, 2001)
-  - Rock Album of the Year – [夏服](../Page/夏服.md "wikilink") (the Japan
-    Gold Disc Award, 2002)
-  - Rock & Pop Album of the Year – [破曉的情書](../Page/破曉的情書.md "wikilink")
-    (the Japan Gold Disc Award, 2004)
+  - Rock Album of the Year – [櫻花樹下](../Page/櫻花樹下.md "wikilink") (the Japan Gold Disc Award, 2001)
+  - Rock Album of the Year – [夏服](../Page/夏服.md "wikilink") (the Japan Gold Disc Award, 2002)
+  - Rock & Pop Album of the Year – [破曉的情書](../Page/破曉的情書.md "wikilink") (the Japan Gold Disc Award, 2004)
   - 2005年公信榜調查最喜愛歌手排行冠軍 \[6\]
   - 2006年公信榜調查最喜愛歌手排行冠軍 \[7\]
 
@@ -907,37 +896,19 @@ aiko的國民度和好感度甚高。日本知名娛樂服務公司[Oricon針對
 ## 外部連結
 
   - [aiko official website](http://aiko.com/) - 官方網站
-  - [ポニーキャニオン -
-    aiko](https://web.archive.org/web/20080502072124/http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_ART_1010&CMD=DSP&DSP_ATSCOD=30059900)（日本）-
-    PONY CANYON專屬頁面
-  - [aiko official
-    (@aiko_dochibi)](https://twitter.com/aiko_dochibi/)（日本）-
-    官方推特帳號（2014年1月20日 - ）
+  - [ポニーキャニオン - aiko](https://web.archive.org/web/20080502072124/http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_ART_1010&CMD=DSP&DSP_ATSCOD=30059900)（日本）- PONY CANYON專屬頁面
+  - [aiko official (@aiko_dochibi)](https://twitter.com/aiko_dochibi/)（日本）- 官方推特帳號（2014年1月20日 - ）
   - [aiko](https://www.facebook.com/aiko/)（日本）- 官方臉書粉絲頁（2014年11月12日 - ）
-  - [aikoOfficial -
-    YouTube](https://www.youtube.com/user/aikoOfficial//)（日本）-
-    官方YouTube頻道（2013年3月26日 - ）
-  - [musicJAPANplus艺人资料库 -
-    aiko](http://www.musicjapanplus.jp/artistdb/?artist_id=96)（日本）
-  - [<span lang="ja">aiko - ORICON STYLE WM
-    ミュージック</span>](http://www.oricon.co.jp/artists/27083/)（日本）
+  - [aikoOfficial - YouTube](https://www.youtube.com/user/aikoOfficial//)（日本）- 官方YouTube頻道（2013年3月26日 - ）
+  - [musicJAPANplus艺人资料库 - aiko](http://www.musicjapanplus.jp/artistdb/?artist_id=96)（日本）
+  - [<span lang="ja">aiko - ORICON STYLE WM ミュージック</span>](http://www.oricon.co.jp/artists/27083/)（日本）
 
-[Category:Aiko](https://zh.wikipedia.org/wiki/Category:Aiko "wikilink")
-[Category:日本女性創作歌手](https://zh.wikipedia.org/wiki/Category:日本女性創作歌手 "wikilink")
-[Category:NHK紅白歌合戰出场歌手](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰出场歌手 "wikilink")
-[Category:20世纪歌手](https://zh.wikipedia.org/wiki/Category:20世纪歌手 "wikilink")
-[Category:21世纪歌手](https://zh.wikipedia.org/wiki/Category:21世纪歌手 "wikilink")
-[Category:日本廣播主持人](https://zh.wikipedia.org/wiki/Category:日本廣播主持人 "wikilink")
-[Category:大阪府出身人物](https://zh.wikipedia.org/wiki/Category:大阪府出身人物 "wikilink")
+[Category:Aiko](https://zh.wikipedia.org/wiki/Category:Aiko "wikilink") [Category:日本女性創作歌手](https://zh.wikipedia.org/wiki/Category:日本女性創作歌手 "wikilink") [Category:NHK紅白歌合戰出场歌手](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰出场歌手 "wikilink") [Category:20世纪歌手](https://zh.wikipedia.org/wiki/Category:20世纪歌手 "wikilink") [Category:21世纪歌手](https://zh.wikipedia.org/wiki/Category:21世纪歌手 "wikilink") [Category:日本廣播主持人](https://zh.wikipedia.org/wiki/Category:日本廣播主持人 "wikilink") [Category:大阪府出身人物](https://zh.wikipedia.org/wiki/Category:大阪府出身人物 "wikilink")
 
 1.
 2.
-3.  [Oricon Weekly Charts for 5/16
-    \~ 5/22](http://www.tokyohive.com/article/2016/05/oricon-weekly-charts-for-5-16-5-22)
+3.  [Oricon Weekly Charts for 5/16 \~ 5/22](http://www.tokyohive.com/article/2016/05/oricon-weekly-charts-for-5-16-5-22)
 4.  [【オリコン】aiko、3作連続通算9作目のアルバム首位](http://www.oricon.co.jp/news/2072155/full/)
 5.  [aiko「素敵な選TAXI」でドラマ初出演！謎の女性客演じる](http://natalie.mu/music/news/132762)
-6.  [<span lang="ja">'05好きなアーティストランキング - ORICON STYLE
-    WMミュージック</span>](http://www.oricon.co.jp/music/special/050727_01.html)
-7.  [<span lang="ja">'06好きなアーティストランキング『音楽ファン2万人に聞いた好きなアーティストとは？！』-
-    ORICON STYLE
-    WMミュージック</span>](http://www.oricon.co.jp/music/special/060726_01.html)
+6.  [<span lang="ja">'05好きなアーティストランキング - ORICON STYLE WMミュージック</span>](http://www.oricon.co.jp/music/special/050727_01.html)
+7.  [<span lang="ja">'06好きなアーティストランキング『音楽ファン2万人に聞いた好きなアーティストとは？！』- ORICON STYLE WMミュージック</span>](http://www.oricon.co.jp/music/special/060726_01.html)

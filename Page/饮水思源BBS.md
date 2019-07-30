@@ -6,8 +6,7 @@
 
 [SJTUBBS_telnet.PNG](https://zh.wikipedia.org/wiki/File:SJTUBBS_telnet.PNG "fig:SJTUBBS_telnet.PNG")
 
-  - 1995年10月左右，上海交通大学网络中心的唐双意老师和大四学生陶冶（账号ty）安装了英文的Eagle
-    BBS，后更换为中文的Firebird BBS，是上海交通大学最早的BBS。\[2\]
+  - 1995年10月左右，上海交通大学网络中心的唐双意老师和大四学生陶冶（账号ty）安装了英文的Eagle BBS，后更换为中文的Firebird BBS，是上海交通大学最早的BBS。\[2\]
   - 1996年4月18日，唐双意老师和学生方哲（账号Only）、陶冶（账号ty）等人安装Firebird BBS，饮水思源BBS站诞生。
   - 1996年9月初，饮水思源BBS站服务器所在机房断电，硬盘数据丢失，被迫关站。
   - 1996年11月18日，饮水思源BBS站重新开站，IP地址为202.120.2.114，同时发布Web界面。由于此次重建的意义和影响很大，饮水思源BBS站一度以此作为诞生纪念日。重建后，开始实行站长制度，步入正规化管理。\[3\]
@@ -37,12 +36,11 @@
 ## 外部链接
 
   - 上海交通大学饮水思源BBS站[Web界面](https://zh.wikipedia.org/wiki/Web "wikilink")：<http://bbs.sjtu.edu.cn>
-  - 上海交通大学饮水思源BBS站[Telnet界面](../Page/Telnet.md "wikilink")：<telnet://bbs.sjtu.edu.cn>
+  - 上海交通大学饮水思源BBS站[Telnet](../Page/Telnet.md "wikilink")界面：<telnet://bbs.sjtu.edu.cn>
 
 {{-}}
 
-[Category:上海交通大学](https://zh.wikipedia.org/wiki/Category:上海交通大学 "wikilink")
-[Category:中国大学BBS](https://zh.wikipedia.org/wiki/Category:中国大学BBS "wikilink")
+[Category:上海交通大学](https://zh.wikipedia.org/wiki/Category:上海交通大学 "wikilink") [Category:中国大学BBS](https://zh.wikipedia.org/wiki/Category:中国大学BBS "wikilink")
 
 1.  [上海交通大学饮水思源BBS站讨论区一览，2008年10月](http://bbs.sjtu.edu.cn/bbsanc?path=%2Fbbslist%2Fboard2)
 2.  [Only，《水源旧事》，上海交通大学饮水思源BBS站，2001年4月](http://bbs.sjtu.edu.cn/bbsanc,path,%2Fgroups%2FGROUP%5F8%2FBygones%2FD70E708B5%2FDB9044302%2FX452E85F0.html)

@@ -2,31 +2,17 @@
 
 ## 历史
 
-Maya推出時一共有兩個版本，一個是Maya Complete，另一個是Maya Unlimited。Maya
-Complete包含了Maya的大部分功能，Maya Unlimited则包含了Maya的所有功能。Maya
-Unlimited剛推出時，價錢貴到令一般家庭使用者卻步，但目前的價錢已經跟其他三維運算軟體不相上下。此外，也有非商業用途的Maya
-Personal Learning
-Edition（PLE）版本，這個版本是完全免費的，當使用到某些關鍵功能時，會不斷跳出巨大的標題提醒你，不得將此版本挪做商業用途，而且製成品中也會有浮水印出現。Maya
-2010以后版本被Autodesk统一，不再有Complete和Unlimited之分。
+Maya推出時一共有兩個版本，一個是Maya Complete，另一個是Maya Unlimited。Maya Complete包含了Maya的大部分功能，Maya Unlimited则包含了Maya的所有功能。Maya Unlimited剛推出時，價錢貴到令一般家庭使用者卻步，但目前的價錢已經跟其他三維運算軟體不相上下。此外，也有非商業用途的Maya Personal Learning Edition（PLE）版本，這個版本是完全免費的，當使用到某些關鍵功能時，會不斷跳出巨大的標題提醒你，不得將此版本挪做商業用途，而且製成品中也會有浮水印出現。Maya 2010以后版本被Autodesk统一，不再有Complete和Unlimited之分。
 
-2005年10月4日，生產[3D Studio
-Max的](https://zh.wikipedia.org/wiki/3D_Studio_Max "wikilink")[Autodesk公司宣佈正式以](../Page/Autodesk.md "wikilink")$1.82億美元收購生產Maya的Alias。
+2005年10月4日，生產[3D Studio Max的](https://zh.wikipedia.org/wiki/3D_Studio_Max "wikilink")[Autodesk](../Page/Autodesk.md "wikilink")公司宣佈正式以$1.82億美元收購生產Maya的Alias。
 
-[Autodesk Maya
-2010主要包括](https://zh.wikipedia.org/wiki/Autodesk_Maya_2010 "wikilink")：Autodesk
-Maya 2010、Autodesk MatchMover 2010和Autodesk Toxik 2010。
+[Autodesk Maya 2010主要包括](https://zh.wikipedia.org/wiki/Autodesk_Maya_2010 "wikilink")：Autodesk Maya 2010、Autodesk MatchMover 2010和Autodesk Toxik 2010。
 
 ### 获奖
 
-  - 2003年3月1日
-    在技术成就方面获[奥斯卡](https://zh.wikipedia.org/wiki/奥斯卡 "wikilink")。
+  - 2003年3月1日 在技术成就方面获[奥斯卡](https://zh.wikipedia.org/wiki/奥斯卡 "wikilink")。
   - 2005年 与其他获奖者共享一个奥斯卡。
-  - 2008年2月8日 [Duncan
-    Brinsmead](https://zh.wikipedia.org/wiki/Duncan_Brinsmead "wikilink"),
-    [Jos Stam](https://zh.wikipedia.org/wiki/Jos_Stam "wikilink"),
-    [Julia
-    Pakalns和](https://zh.wikipedia.org/wiki/Julia_Pakalns "wikilink")[Martin
-    Werner因Maya流体特效系统的设计与应用获得奥斯卡](https://zh.wikipedia.org/wiki/Martin_Werner "wikilink")
+  - 2008年2月8日 [Duncan Brinsmead](https://zh.wikipedia.org/wiki/Duncan_Brinsmead "wikilink"), [Jos Stam](https://zh.wikipedia.org/wiki/Jos_Stam "wikilink"), [Julia Pakalns和](https://zh.wikipedia.org/wiki/Julia_Pakalns "wikilink")[Martin Werner因Maya流体特效系统的设计与应用获得奥斯卡](https://zh.wikipedia.org/wiki/Martin_Werner "wikilink")
 
 ## 概述
 
@@ -38,8 +24,7 @@ Maya 2010、Autodesk MatchMover 2010和Autodesk Toxik 2010。
 
   - **经典布料**
 
-现在已被更快、更灵活的[nCloth取代](https://zh.wikipedia.org/wiki/nCloth "wikilink")，在此之前人们通常使用第三方插件，比较著名的有[Syflex
-Effects](https://zh.wikipedia.org/wiki/Syflex_Effects "wikilink")
+现在已被更快、更灵活的[nCloth取代](https://zh.wikipedia.org/wiki/nCloth "wikilink")，在此之前人们通常使用第三方插件，比较著名的有[Syflex Effects](https://zh.wikipedia.org/wiki/Syflex_Effects "wikilink")
 
   - **[nCloth](https://zh.wikipedia.org/wiki/nCloth "wikilink")**
 
@@ -65,8 +50,7 @@ nParticles比玛雅之前的粒子系统更灵活，nParticle可以模拟粘性�
 
 ## 行业影响及使用
 
-Maya的推出一舉降低了[三維動畫製作的成本](https://zh.wikipedia.org/wiki/三維動畫 "wikilink")，在Maya推出之前的商業三維動畫製作基本上由基於[SGI工作站的](https://zh.wikipedia.org/wiki/SGI "wikilink")[Softimage軟件所壟斷](../Page/Softimage.md "wikilink")，Maya採用[Windows
-NT作為操作系统的PC工作站](../Page/Windows_NT.md "wikilink")，降低了設備要求，促進了三維動畫的普及，隨後Softimage也開始向PC平台轉移。
+Maya的推出一舉降低了[三維動畫製作的成本](https://zh.wikipedia.org/wiki/三維動畫 "wikilink")，在Maya推出之前的商業三維動畫製作基本上由基於[SGI工作站的](https://zh.wikipedia.org/wiki/SGI "wikilink")[Softimage](../Page/Softimage.md "wikilink")軟件所壟斷，Maya採用[Windows NT作為操作系统的PC工作站](../Page/Windows_NT.md "wikilink")，降低了設備要求，促進了三維動畫的普及，隨後Softimage也開始向PC平台轉移。
 
 Maya在現在[電影特效製作中應用相當廣泛](https://zh.wikipedia.org/wiki/電影 "wikilink")，著名的《[-{zh-hans:星球大战;zh-hk:星球大戰;zh-tw:星際大戰;}-](https://zh.wikipedia.org/wiki/星球大战 "wikilink")》系列前傳就是採用Maya制作特效的，此外還有《[蜘蛛人](../Page/蜘蛛人.md "wikilink")》、《[冰河世纪](https://zh.wikipedia.org/wiki/冰河世纪 "wikilink")》、《[冰河世纪2](https://zh.wikipedia.org/wiki/冰河世纪2 "wikilink")》、《[魔戒](../Page/魔戒.md "wikilink")》、《[侏罗纪公园](https://zh.wikipedia.org/wiki/侏罗纪公园 "wikilink")》、《[海底总动员](../Page/海底总动员.md "wikilink")》、《[哈利波特](https://zh.wikipedia.org/wiki/哈利波特 "wikilink")》、《[怪兽大战外星人](https://zh.wikipedia.org/wiki/怪兽大战外星人 "wikilink")》、《[阿凡达](../Page/阿凡达.md "wikilink")》，甚至包括《[头文字D](https://zh.wikipedia.org/wiki/头文字D_\(電影\) "wikilink")》在内的大批電影作品。
 
@@ -106,7 +90,4 @@ maya为游戏[光环4创建特效](https://zh.wikipedia.org/wiki/光环4 "wikili
   - [Maya產品頁](http://www.autodesk.com/maya)
   - [Autodesk首頁](http://www.autodesk.com)
 
-[Category:Autodesk](https://zh.wikipedia.org/wiki/Category:Autodesk "wikilink")
-[Category:三維圖像軟體](https://zh.wikipedia.org/wiki/Category:三維圖像軟體 "wikilink")
-[Category:使用Qt的軟體](https://zh.wikipedia.org/wiki/Category:使用Qt的軟體 "wikilink")
-[Category:動畫軟體](https://zh.wikipedia.org/wiki/Category:動畫軟體 "wikilink")
+[Category:Autodesk](https://zh.wikipedia.org/wiki/Category:Autodesk "wikilink") [Category:三維圖像軟體](https://zh.wikipedia.org/wiki/Category:三維圖像軟體 "wikilink") [Category:使用Qt的軟體](https://zh.wikipedia.org/wiki/Category:使用Qt的軟體 "wikilink") [Category:動畫軟體](https://zh.wikipedia.org/wiki/Category:動畫軟體 "wikilink")

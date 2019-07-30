@@ -1,21 +1,12 @@
-**QBASIC**是[BASIC](../Page/BASIC.md "wikilink")（Beginner's All-purpose
-Symbolic Instruction
-Code，初学者通用指令代码）语言的一个变种，由美国[微软公司开发](../Page/微软.md "wikilink")，1991年随[MS-DOS](../Page/MS-DOS.md "wikilink")
-5.0推出。它不能被编译成独立的可执行文件，源代码在集成开发环境（IDE）中先被编译成中间代码，然后中间代码在IDE中被解释执行。它被设计用来代替[GW-BASIC](../Page/GW-BASIC.md "wikilink")，并被集成在MS-DOS
-5.0及其更高版本（包括[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")
-95）中。QBASIC基于微软稍早推出的[QuickBASIC](../Page/QuickBASIC.md "wikilink")
-4.5，但去掉了后者的编译和连接部分。
+**QBASIC**是[BASIC](../Page/BASIC.md "wikilink")（Beginner's All-purpose Symbolic Instruction Code，初学者通用指令代码）语言的一个变种，由美国[微软](../Page/微软.md "wikilink")公司开发，1991年随[MS-DOS](../Page/MS-DOS.md "wikilink") 5.0推出。它不能被编译成独立的可执行文件，源代码在集成开发环境（IDE）中先被编译成中间代码，然后中间代码在IDE中被解释执行。它被设计用来代替[GW-BASIC](../Page/GW-BASIC.md "wikilink")，并被集成在MS-DOS 5.0及其更高版本（包括[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink") 95）中。QBASIC基于微软稍早推出的[QuickBASIC](../Page/QuickBASIC.md "wikilink") 4.5，但去掉了后者的编译和连接部分。
 
-微软在较新版本的Windows中不再集成QBASIC。不过Windows
-98的用户可以在光盘的`\TOOLS\OLDMSDOS`目录中找到它，在Windows
-95的光盘中，它存放在`\OTHER\OLDMSDOS`目录中。微软网站对它的技术支持只对MS-DOS的授权用户有效。
+微软在较新版本的Windows中不再集成QBASIC。不过Windows 98的用户可以在光盘的`\TOOLS\OLDMSDOS`目录中找到它，在Windows 95的光盘中，它存放在`\OTHER\OLDMSDOS`目录中。微软网站对它的技术支持只对MS-DOS的授权用户有效。
 
 QBASIC拥有一个值得称道的集成开发环境和一个功能强大的集成调试器，这一切在那个时代让人耳目一新。
 
 ## 语法
 
-和Quick
-BASIC类似而又不同于微软其他BASIC的早期实现版本的是，QBASIC是一种结构化的编程语言。和GW-BASIC相比，QBASIC的主要改进是：
+和Quick BASIC类似而又不同于微软其他BASIC的早期实现版本的是，QBASIC是一种结构化的编程语言。和GW-BASIC相比，QBASIC的主要改进是：
 
   - 扩充了变量和常量的类型
       - 变量名长度：40个字符　　　　　　　　　

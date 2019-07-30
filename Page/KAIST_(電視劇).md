@@ -1,4 +1,4 @@
-《**KAIST**》（，港譯：**科技大學**），是[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[SBS電視台製作的電視劇](../Page/SBS_\(韓國\).md "wikilink")，[宋智娜作家執筆](../Page/宋智娜.md "wikilink")，於1999年1月24日開始播出，劇情關於在[韓國科學技術院](https://zh.wikipedia.org/wiki/韓國科學技術院 "wikilink")（KAIST）就讀的大學生的生活。由於本劇很受大眾歡迎，所以其後又再製作續集，共兩季。第1集\~第67集為第一季，第68集\~第81集為第二季。
+《**KAIST**》（，港譯：**科技大學**），是[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[SBS電視台製作的電視劇](../Page/SBS_\(韓國\).md "wikilink")，[宋智娜](../Page/宋智娜.md "wikilink")作家執筆，於1999年1月24日開始播出，劇情關於在[韓國科學技術院](https://zh.wikipedia.org/wiki/韓國科學技術院 "wikilink")（KAIST）就讀的大學生的生活。由於本劇很受大眾歡迎，所以其後又再製作續集，共兩季。第1集\~第67集為第一季，第68集\~第81集為第二季。
 
 ## 演員陣容
 
@@ -24,8 +24,7 @@
   - [金正閔](https://zh.wikipedia.org/wiki/金正閔 "wikilink") 飾演 鄭進秀
   - [延政勳](https://zh.wikipedia.org/wiki/延政勳 "wikilink") 飾演 梁炳錫
   - [李奎翰](../Page/李奎翰.md "wikilink") 飾演 李奎翰
-  - [柳重熙](https://zh.wikipedia.org/wiki/柳重熙 "wikilink") 飾演
-    柳重熙（真正的KAIST在學生）
+  - [柳重熙](https://zh.wikipedia.org/wiki/柳重熙 "wikilink") 飾演 柳重熙（真正的KAIST在學生）
   - [金燦宇](https://zh.wikipedia.org/wiki/金燦宇 "wikilink") 飾演 金碩佑
   - [李原在](https://zh.wikipedia.org/wiki/李原在 "wikilink") 飾演 鄭慶植
   - [李在煌](../Page/李在煌.md "wikilink") 飾演 李在誠（第二季）
@@ -44,8 +43,7 @@
   - [白一燮](../Page/白一燮.md "wikilink") 飾演 系主任（第二季）
   - [尹汝貞](../Page/尹汝貞.md "wikilink") 飾演 指導教授（第二季）
   - [金美京](../Page/金美京.md "wikilink") 飾演 金美順
-  - [李斗日](https://zh.wikipedia.org/wiki/李斗日 "wikilink") 飾演
-    校園警察（12集\~81集）
+  - [李斗日](https://zh.wikipedia.org/wiki/李斗日 "wikilink") 飾演 校園警察（12集\~81集）
   - [安貞渙](https://zh.wikipedia.org/wiki/安貞渙 "wikilink")
   - [金貞賢](https://zh.wikipedia.org/wiki/金貞賢 "wikilink")
   - [丁汶](https://zh.wikipedia.org/wiki/丁汶 "wikilink")
@@ -67,8 +65,4 @@
 
   - [SBS：KAIST電視劇網頁](https://web.archive.org/web/20040804155624/http://wizard.sbs.co.kr/template/wzdtv/wzdtv_FormProgramIntro.jhtml?programId=V0000225001&menuId=4)
 
-[Category:1999年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:1999年韓國電視劇集 "wikilink")
-[Category:2000年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2000年韓國電視劇集 "wikilink")
-[Category:SBS電視劇](https://zh.wikipedia.org/wiki/Category:SBS電視劇 "wikilink")
-[Category:大學背景電視劇](https://zh.wikipedia.org/wiki/Category:大學背景電視劇 "wikilink")
-[Category:韓國校園劇](https://zh.wikipedia.org/wiki/Category:韓國校園劇 "wikilink")
+[Category:1999年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:1999年韓國電視劇集 "wikilink") [Category:2000年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2000年韓國電視劇集 "wikilink") [Category:SBS電視劇](https://zh.wikipedia.org/wiki/Category:SBS電視劇 "wikilink") [Category:大學背景電視劇](https://zh.wikipedia.org/wiki/Category:大學背景電視劇 "wikilink") [Category:韓國校園劇](https://zh.wikipedia.org/wiki/Category:韓國校園劇 "wikilink")

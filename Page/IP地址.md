@@ -1,4 +1,4 @@
-**網際網路協定位址**（，又譯為**网际协议地址**），縮寫為**IP地址**（），是分配給[網路上使用](https://zh.wikipedia.org/wiki/網路 "wikilink")[網際協議](https://zh.wikipedia.org/wiki/網際協議 "wikilink")（）的裝置的數字標籤。常見的IP位址分為[IPv4與](../Page/IPv4.md "wikilink")[IPv6兩大類](../Page/IPv6.md "wikilink")，但是也有其他不常用的小分類。
+**網際網路協定位址**（，又譯為**网际协议地址**），縮寫為**IP地址**（），是分配給[網路上使用](https://zh.wikipedia.org/wiki/網路 "wikilink")[網際協議](https://zh.wikipedia.org/wiki/網際協議 "wikilink")（）的裝置的數字標籤。常見的IP位址分為[IPv4](../Page/IPv4.md "wikilink")與[IPv6](../Page/IPv6.md "wikilink")兩大類，但是也有其他不常用的小分類。
 
 ## IPv4位址
 
@@ -6,22 +6,17 @@ IP地址由32位[二进制数组成](https://zh.wikipedia.org/wiki/二进制 "wi
 
 IP地址是唯一的。目前IPv4技术可能使用的IP地址最多可有4,294,967,296個（即2<sup>32</sup>）。骤看可能觉得很难会用尽，但由于早期编码和分配上的問題，使很多区域的编码实际上被空出或不能使用。加上互联网的普及，使大部分家庭都至少有一部电脑，连同公司的电脑，以及连接网络的各种设备都消耗大量IPv4地址资源。
 
-隨著[互聯網的快速成長](https://zh.wikipedia.org/wiki/互聯網 "wikilink")，IPv4的42億個地址的分配最終於2011年2月3日用盡\[1\]\[2\]。相应的科研组织已研究出128位的[IPv6](../Page/IPv6.md "wikilink")，其IP位址数量最高可达3.402823669
-× 10<sup>38</sup>个，屆時每個人家居中的每件電器，每件物件，甚至地球上每一粒沙子都可以擁有自己的IP位址。
+隨著[互聯網的快速成長](https://zh.wikipedia.org/wiki/互聯網 "wikilink")，IPv4的42億個地址的分配最終於2011年2月3日用盡\[1\]\[2\]。相应的科研组织已研究出128位的[IPv6](../Page/IPv6.md "wikilink")，其IP位址数量最高可达3.402823669 × 10<sup>38</sup>个，屆時每個人家居中的每件電器，每件物件，甚至地球上每一粒沙子都可以擁有自己的IP位址。
 
-在A类、B类、C类IP地址中，如果主机号是全1，那么这个地址为直接广播地址，它是用来使路由器将一个分组以广播形式发送给特定网络上的所有主机。[32位全为](https://zh.wikipedia.org/wiki/32位 "wikilink")1的**IP地址**「255.255.255.255」为**受限广播地址**（"limited
-broadcast" destination
-address），用来将一个分组以广播方式发送给本[网络中的所有](https://zh.wikipedia.org/wiki/电脑网络 "wikilink")[主机](https://zh.wikipedia.org/wiki/主机 "wikilink")，[路由器则阻挡该分组通过](../Page/路由器.md "wikilink")，将其广播功能限制在本网内部。
+在A类、B类、C类IP地址中，如果主机号是全1，那么这个地址为直接广播地址，它是用来使路由器将一个分组以广播形式发送给特定网络上的所有主机。[32位全为](https://zh.wikipedia.org/wiki/32位 "wikilink")1的**IP地址**「255.255.255.255」为**受限广播地址**（"limited broadcast" destination address），用来将一个分组以广播方式发送给本[网络中的所有](https://zh.wikipedia.org/wiki/电脑网络 "wikilink")[主机](https://zh.wikipedia.org/wiki/主机 "wikilink")，[路由器](../Page/路由器.md "wikilink")则阻挡该分组通过，将其广播功能限制在本网内部。
 
 ## IPv6位址
 
 ### IPv6编址
 
-从IPv4到IPv6最显著的变化就是网络地址的长度。RFC 2373和RFC
-2374定义的IPv6地址，就像下面章节所描述的，有128位长；IPv6地址的表达形式，一般采用32个十六进制数。
+从IPv4到IPv6最显著的变化就是网络地址的长度。RFC 2373和RFC 2374定义的IPv6地址，就像下面章节所描述的，有128位长；IPv6地址的表达形式，一般采用32个十六进制数。
 
-IPv6中可能的地址有2<sup>128</sup>≈3.4×10<sup>38</sup>个，具体数量为340,282,366,920,938,463,463,374,607,431,768,211,456个。也可以想象为16<sup>32</sup>个，因为32位地址每位可以取16个不同的值。
-在很多场合，IPv6地址由两个逻辑部分组成：一个64位的网络前缀和一个64位的主机地址，主机地址通常根据物理地址自动生成，叫做EUI-64（或者64-位扩展唯一标识）
+IPv6中可能的地址有2<sup>128</sup>≈3.4×10<sup>38</sup>个，具体数量为340,282,366,920,938,463,463,374,607,431,768,211,456个。也可以想象为16<sup>32</sup>个，因为32位地址每位可以取16个不同的值。 在很多场合，IPv6地址由两个逻辑部分组成：一个64位的网络前缀和一个64位的主机地址，主机地址通常根据物理地址自动生成，叫做EUI-64（或者64-位扩展唯一标识）
 
 ### IPv6地址表示
 
@@ -69,8 +64,7 @@ IPv6地址为128位元长，但通常写作8组，每组四个十六进制数的
         ffff:192.168.89.9等价于::ffff:c0a8:5909。
         ffff:1.2.3.4格式叫做**IPv4映射地址**。
 
-IPv4地址可以很容易的转化为IPv6格式。举例来说，如果IPv4的一个地址为135.75.43.52（十六进制为0x874B2B34），即可转化为0000:0000:0000:0000:0000:FFFF:874B:2B34或者::FFFF:874B:2B34。同时，还可以使用混合符号（IPv4-compatible
-address），则地址可为::FFFF:135.75.43.52。
+IPv4地址可以很容易的转化为IPv6格式。举例来说，如果IPv4的一个地址为135.75.43.52（十六进制为0x874B2B34），即可转化为0000:0000:0000:0000:0000:FFFF:874B:2B34或者::FFFF:874B:2B34。同时，还可以使用混合符号（IPv4-compatible address），则地址可为::FFFF:135.75.43.52。
 
 ## 参考资料
 
@@ -80,10 +74,7 @@ address），则地址可为::FFFF:135.75.43.52。
   - [在线IP地址查询工具](https://myipaddress.pro/cn)
   - [ipip.net](https://ipip.net) 通常IP库较新
 
-[Category:网际协议](https://zh.wikipedia.org/wiki/Category:网际协议 "wikilink")
-[Category:网络层协议](https://zh.wikipedia.org/wiki/Category:网络层协议 "wikilink")
-[Category:網路結構](https://zh.wikipedia.org/wiki/Category:網路結構 "wikilink")
-[Category:網路定址](https://zh.wikipedia.org/wiki/Category:網路定址 "wikilink")
+[Category:网际协议](https://zh.wikipedia.org/wiki/Category:网际协议 "wikilink") [Category:网络层协议](https://zh.wikipedia.org/wiki/Category:网络层协议 "wikilink") [Category:網路結構](https://zh.wikipedia.org/wiki/Category:網路結構 "wikilink") [Category:網路定址](https://zh.wikipedia.org/wiki/Category:網路定址 "wikilink")
 
 1.
 2.

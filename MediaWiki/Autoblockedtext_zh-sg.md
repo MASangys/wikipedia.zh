@@ -1,5 +1,4 @@
-__NOEDITSECTION____NOTOC__ \<div id="mw-autoblocked-text
-style="border:1px solid \#000; width:100%; margin:auto;"\>
+__NOEDITSECTION____NOTOC__ \<div id="mw-autoblocked-text style="border:1px solid \#000; width:100%; margin:auto;"\>
 
 <div style="text-align:right;">
 
@@ -17,7 +16,7 @@ style="border:1px solid \#000; width:100%; margin:auto;"\>
 
 <div style="width:70%; margin:auto; text-align:center;">
 
-[代理服务器用户被封禁时](../Page/代理服务器.md "wikilink")，系统会[自动封禁使用同一代理服务器的用户以免维基百科再受破坏](https://zh.wikipedia.org/wiki/Wikipedia:自动封禁 "wikilink")，故这类用户也不可编辑。不便之处，尚祈见谅。
+[代理服务器](../Page/代理服务器.md "wikilink")用户被封禁时，系统会[自动封禁使用同一代理服务器的用户以免维基百科再受破坏](https://zh.wikipedia.org/wiki/Wikipedia:自动封禁 "wikilink")，故这类用户也不可编辑。不便之处，尚祈见谅。
 
 </div>
 
@@ -70,9 +69,8 @@ $2
 
 ### 询问网络服务供应商
 
-倘受此问题屡次影响，则建议联系网络服务供应商（ISP）或IT部门，由其联系[维基媒体基金会](../Page/维基媒体基金会.md "wikilink")[XFF
-project](https://zh.wikipedia.org/wiki/m:XFF_project "wikilink")，以免再受自动查封影响。
+倘受此问题屡次影响，则建议联系网络服务供应商（ISP）或IT部门，由其联系[维基媒体基金会](../Page/维基媒体基金会.md "wikilink")[XFF project](https://zh.wikipedia.org/wiki/m:XFF_project "wikilink")，以免再受自动查封影响。
 
 ## IPv6
 
-若您正在使用由[SixXS](https://zh.wikipedia.org/wiki/SixXS "wikilink")（[Sixxs.org](http://www.sixxs.net/)）提供之[IPv6隧道浏览维基百科](../Page/IPv6.md "wikilink")，请[登录后再行编辑](https://zh.wikipedia.org/wiki/Special:UserLogin "wikilink")。由于SixXS会在您编辑的同时，自动为页面内的网站链接加上“\*.sixxs.org/”后缀，而此举会导致[IPv4用户无法正常访问网站](../Page/IPv4.md "wikilink")。所以请务必于保存条目前去除“\*.sixxs.org/”，敬请垂注。
+若您正在使用由[SixXS](https://zh.wikipedia.org/wiki/SixXS "wikilink")（[Sixxs.org](http://www.sixxs.net/)）提供之[IPv6](../Page/IPv6.md "wikilink")隧道浏览维基百科，请[登录后再行编辑](https://zh.wikipedia.org/wiki/Special:UserLogin "wikilink")。由于SixXS会在您编辑的同时，自动为页面内的网站链接加上“\*.sixxs.org/”后缀，而此举会导致[IPv4](../Page/IPv4.md "wikilink")用户无法正常访问网站。所以请务必于保存条目前去除“\*.sixxs.org/”，敬请垂注。

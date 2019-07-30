@@ -1,4 +1,4 @@
-**QR分解法**是三種将[矩阵分解的方式之一](https://zh.wikipedia.org/wiki/矩阵分解 "wikilink")。這種方式，把[矩阵分解成一个](../Page/矩阵.md "wikilink")[正交矩阵与一个](../Page/正交矩阵.md "wikilink")[上三角矩阵的积](https://zh.wikipedia.org/wiki/上三角矩阵 "wikilink")。QR分解经常用来解[线性最小二乘法问题](https://zh.wikipedia.org/wiki/线性最小二乘法 "wikilink")。QR分解也是特定[特征值算法即](https://zh.wikipedia.org/wiki/特征值算法 "wikilink")[QR算法的基础](https://zh.wikipedia.org/wiki/QR算法 "wikilink")。
+**QR分解法**是三種将[矩阵分解的方式之一](https://zh.wikipedia.org/wiki/矩阵分解 "wikilink")。這種方式，把[矩阵](../Page/矩阵.md "wikilink")分解成一个[正交矩阵](../Page/正交矩阵.md "wikilink")与一个[上三角矩阵的积](https://zh.wikipedia.org/wiki/上三角矩阵 "wikilink")。QR分解经常用来解[线性最小二乘法问题](https://zh.wikipedia.org/wiki/线性最小二乘法 "wikilink")。QR分解也是特定[特征值算法即](https://zh.wikipedia.org/wiki/特征值算法 "wikilink")[QR算法的基础](https://zh.wikipedia.org/wiki/QR算法 "wikilink")。
 
 ## 定义
 
@@ -7,16 +7,11 @@
   -
     \(A = QR, \,\)
 
-这里的*Q*是[正交矩阵](../Page/正交矩阵.md "wikilink")（意味着*Q*<sup>T</sup>*Q* =
-*I*）而*R*是上[三角矩阵](../Page/三角矩阵.md "wikilink")。类似的，我们可以定义A的QL,
-RQ和LQ分解。
+这里的*Q*是[正交矩阵](../Page/正交矩阵.md "wikilink")（意味着*Q*<sup>T</sup>*Q* = *I*）而*R*是上[三角矩阵](../Page/三角矩阵.md "wikilink")。类似的，我们可以定义A的QL, RQ和LQ分解。
 
-更一般的说，我们可以因数分解复数\(m\)×\(n\)矩阵（有着*m* ≥ *n*）为\(m\)×\(m\)
-[幺正矩阵](https://zh.wikipedia.org/wiki/幺正矩阵 "wikilink")（在*Q*<sup>∗</sup>*Q*
-= *I*的意义上）和\(m\)×\(n\)上三角矩阵的乘积。
+更一般的说，我们可以因数分解复数\(m\)×\(n\)矩阵（有着*m* ≥ *n*）为\(m\)×\(m\) [幺正矩阵](https://zh.wikipedia.org/wiki/幺正矩阵 "wikilink")（在*Q*<sup>∗</sup>*Q* = *I*的意义上）和\(m\)×\(n\)上三角矩阵的乘积。
 
-如果*A*是[非奇异的](https://zh.wikipedia.org/wiki/可逆矩阵 "wikilink")，且限定*R*
-的对角线元素为正，则这个因数分解是唯一的。
+如果*A*是[非奇异的](https://zh.wikipedia.org/wiki/可逆矩阵 "wikilink")，且限定*R* 的对角线元素为正，则这个因数分解是唯一的。
 
 ## QR分解的求法
 
@@ -24,14 +19,13 @@ QR分解的实际计算有很多方法，例如[Givens旋转](https://zh.wikiped
 
 ### 使用Householder变换
 
-[Householder变换将一个向量关于某个](https://zh.wikipedia.org/wiki/Householder变换 "wikilink")[平面或者](../Page/平面.md "wikilink")[超平面进行反射](https://zh.wikipedia.org/wiki/超平面 "wikilink")。我们可以利用这个操作对\(m \times n ( m \geqq n)\)的矩阵\(A\)进行QR分解。
+[Householder变换将一个向量关于某个](https://zh.wikipedia.org/wiki/Householder变换 "wikilink")[平面](../Page/平面.md "wikilink")或者[超平面进行反射](https://zh.wikipedia.org/wiki/超平面 "wikilink")。我们可以利用这个操作对\(m \times n ( m \geqq n)\)的矩阵\(A\)进行QR分解。
 
 矩阵\(Q\)可以被用于对一个向量以一种特定的方式进行反射变换，使得它除了一个维度以外的其他所有分量都化为0。
 
-令\(\mathbf{x}\)为矩阵\(A\)的任一*m*维实列向量，且有\(\|\mathbf{x}\| = |\alpha|\)（其中\(\alpha\)为标量）。若该算法是通过[浮点数实现的](../Page/浮点数.md "wikilink")，则\(\alpha\)应当取和\(\mathbf{x}\)的第\(k\)维相反的符号（其中\(x_k\)是要保留不为0的项），这样做可以避免精度缺失。对于复数的情况，令
+令\(\mathbf{x}\)为矩阵\(A\)的任一*m*维实列向量，且有\(\|\mathbf{x}\| = |\alpha|\)（其中\(\alpha\)为标量）。若该算法是通过[浮点数](../Page/浮点数.md "wikilink")实现的，则\(\alpha\)应当取和\(\mathbf{x}\)的第\(k\)维相反的符号（其中\(x_k\)是要保留不为0的项），这样做可以避免精度缺失。对于复数的情况，令
 
-\[\alpha = - \mathrm{e}^{\mathrm{i} \arg x_k} \|\mathbf{x}\|\]
-，并且在接下来矩阵\(Q\)的构造中要将矩阵转置替换为共轭转置。
+\[\alpha = - \mathrm{e}^{\mathrm{i} \arg x_k} \|\mathbf{x}\|\] ，并且在接下来矩阵\(Q\)的构造中要将矩阵转置替换为共轭转置。
 
 接下来，设\(\mathbf{e}_1\)为单位向量\((1, 0, \cdots, 0)^T\)，||·||为[欧几里的范数](https://zh.wikipedia.org/wiki/范数#.E6.AC.A7.E5.87.A0.E9.87.8C.E5.BE.B7.E8.8C.83.E6.95.B0 "wikilink")，\(I\)为\(m \times m\)单位矩阵，令
 
@@ -51,8 +45,7 @@ QR分解的实际计算有很多方法，例如[Givens旋转](https://zh.wikiped
   -
     \(Q\mathbf{x} = (\alpha, 0, \cdots, 0)^T.\,\)
 
-利用Householder矩阵，可以将一个\(m \times n\)的矩阵\(A'\)变换为上三角矩阵。
-首先，我们将A左乘通过选取矩阵的第一行得到行向量\(x\)的Householder矩阵\(Q_1\)。这样，我们得到的矩阵\(Q_1 A\)的第一列将全部为0（第一行除外）：
+利用Householder矩阵，可以将一个\(m \times n\)的矩阵\(A'\)变换为上三角矩阵。 首先，我们将A左乘通过选取矩阵的第一行得到行向量\(x\)的Householder矩阵\(Q_1\)。这样，我们得到的矩阵\(Q_1 A\)的第一列将全部为0（第一行除外）：
 
 \[Q_1A = \begin{bmatrix}
                    \alpha_1&\star&\dots&\star\\

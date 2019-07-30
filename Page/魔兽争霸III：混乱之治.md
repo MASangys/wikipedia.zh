@@ -1,4 +1,4 @@
-是一款[即时战略游戏](../Page/即时战略游戏.md "wikilink")，属于[暴雪娛樂出品的](../Page/暴雪娛樂.md "wikilink")《[魔兽争霸](https://zh.wikipedia.org/wiki/魔兽争霸 "wikilink")》系列第三代作品，于2002年发行。迄今總共發布了二十八個版本。2003年5月暴雪公司又发行了《[魔兽争霸III：寒冰霸權](../Page/魔獸爭霸III：寒冰霸權.md "wikilink")》（），它是本作的[资料片](https://zh.wikipedia.org/wiki/资料片 "wikilink")。暴雪同时对《混亂之治》与《冰封王座》两个版本进行更新与维护，并在其[Battle.net平台上提供免费的网络对战服务](https://zh.wikipedia.org/wiki/Battle.net "wikilink")。
+是一款[即时战略游戏](../Page/即时战略游戏.md "wikilink")，属于[暴雪娛樂](../Page/暴雪娛樂.md "wikilink")出品的《[魔兽争霸](https://zh.wikipedia.org/wiki/魔兽争霸 "wikilink")》系列第三代作品，于2002年发行。迄今總共發布了二十八個版本。2003年5月暴雪公司又发行了《[魔兽争霸III：寒冰霸權](../Page/魔獸爭霸III：寒冰霸權.md "wikilink")》（），它是本作的[资料片](https://zh.wikipedia.org/wiki/资料片 "wikilink")。暴雪同时对《混亂之治》与《冰封王座》两个版本进行更新与维护，并在其[Battle.net平台上提供免费的网络对战服务](https://zh.wikipedia.org/wiki/Battle.net "wikilink")。
 
 ## 故事背景
 
@@ -6,8 +6,7 @@
 
 ## 遊戲特性
 
-《魔獸爭霸III》發行起計总計出貨440萬份\[1\]，而首月銷售了100萬份。玩家可以選擇在《魔獸爭霸III》中操控四個種族，其中兩個在前作《魔獸爭霸II》已曾經出現，分別是人類（Human）和獸人（Orc），另外兩個則是《魔獸爭霸III》新增的種族夜精靈（Night
-Elf）和不死族（Undead）。那迦（Naga）在製作時曾經設想作為第五個可操控的種族，但在遊戲測試時刪去。而官方解釋就是加上那迦族之後很難保證遊戲的平衡性，而今它則出現在戰役模式和中立生物當中。
+《魔獸爭霸III》發行起計总計出貨440萬份\[1\]，而首月銷售了100萬份。玩家可以選擇在《魔獸爭霸III》中操控四個種族，其中兩個在前作《魔獸爭霸II》已曾經出現，分別是人類（Human）和獸人（Orc），另外兩個則是《魔獸爭霸III》新增的種族夜精靈（Night Elf）和不死族（Undead）。那迦（Naga）在製作時曾經設想作為第五個可操控的種族，但在遊戲測試時刪去。而官方解釋就是加上那迦族之後很難保證遊戲的平衡性，而今它則出現在戰役模式和中立生物當中。
 
 《魔獸爭霸III》包含了大多數即時戰略遊戲所具備的要素：資源採集、基地建立和戰鬥指揮。遊戲的操作方式亦類似星海爭霸，秉承了星海爭霸易於操作的優點，並簡化了星海爭霸中一些繁瑣的操作。例如玩家可設定電腦以「自動施放」部份常用魔法，從而省去手動操作的過程。
 
@@ -31,7 +30,7 @@ Elf）和不死族（Undead）。那迦（Naga）在製作時曾經設想作為�
 
 ### 可扩展性
 
-由于暴雪公司在推出魔兽争霸3的同时推出了功能强大的[地图编辑器](https://zh.wikipedia.org/wiki/地图编辑器 "wikilink")，使玩家可以自定义魔兽地图及单位。催生了[DotA](../Page/DotA.md "wikilink")、[3C这样源于魔兽却脱离魔兽独自成为](../Page/澄海3C.md "wikilink")[电子竞技项目的地图](../Page/电子竞技.md "wikilink")，以及一些[RPG娱乐地图](../Page/電子角色扮演遊戲.md "wikilink")。甚至暴雪官方也推出过魔兽版的[贪食蛇和赛车游戏](https://zh.wikipedia.org/wiki/贪食蛇 "wikilink")。
+由于暴雪公司在推出魔兽争霸3的同时推出了功能强大的[地图编辑器](https://zh.wikipedia.org/wiki/地图编辑器 "wikilink")，使玩家可以自定义魔兽地图及单位。催生了[DotA](../Page/DotA.md "wikilink")、[3C这样源于魔兽却脱离魔兽独自成为](../Page/澄海3C.md "wikilink")[电子竞技](../Page/电子竞技.md "wikilink")项目的地图，以及一些[RPG娱乐地图](../Page/電子角色扮演遊戲.md "wikilink")。甚至暴雪官方也推出过魔兽版的[贪食蛇和赛车游戏](https://zh.wikipedia.org/wiki/贪食蛇 "wikilink")。
 
 ## 参考文献
 
@@ -42,20 +41,8 @@ Elf）和不死族（Undead）。那迦（Naga）在製作時曾經設想作為�
 
   - [官方策略指南](http://classic.battle.net/war3/)
 
-[de:Warcraft\#Warcraft
-III](https://zh.wikipedia.org/wiki/de:Warcraft#Warcraft_III "wikilink")
-[ja:ウォークラフト\#Warcraft III「Reign of
-Chaos」](https://zh.wikipedia.org/wiki/ja:ウォークラフト#Warcraft_III「Reign_of_Chaos」 "wikilink")
+[de:Warcraft\#Warcraft III](https://zh.wikipedia.org/wiki/de:Warcraft#Warcraft_III "wikilink") [ja:ウォークラフト\#Warcraft III「Reign of Chaos」](https://zh.wikipedia.org/wiki/ja:ウォークラフト#Warcraft_III「Reign_of_Chaos」 "wikilink")
 
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:魔兽系列电子游戏](https://zh.wikipedia.org/wiki/Category:魔兽系列电子游戏 "wikilink")
-[Category:2002年电子游戏](https://zh.wikipedia.org/wiki/Category:2002年电子游戏 "wikilink")
-[Category:MacOS遊戲](https://zh.wikipedia.org/wiki/Category:MacOS遊戲 "wikilink")
-[Category:Mac_OS遊戲](https://zh.wikipedia.org/wiki/Category:Mac_OS遊戲 "wikilink")
-[Category:电子竞技游戏](https://zh.wikipedia.org/wiki/Category:电子竞技游戏 "wikilink")
-[Category:后传电子游戏](https://zh.wikipedia.org/wiki/Category:后传电子游戏 "wikilink")
-[Category:有资料片的游戏](https://zh.wikipedia.org/wiki/Category:有资料片的游戏 "wikilink")
-[Category:即時戰略遊戲](https://zh.wikipedia.org/wiki/Category:即時戰略遊戲 "wikilink")
-[Category:官方简体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方简体中文化游戏 "wikilink")
+[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:魔兽系列电子游戏](https://zh.wikipedia.org/wiki/Category:魔兽系列电子游戏 "wikilink") [Category:2002年电子游戏](https://zh.wikipedia.org/wiki/Category:2002年电子游戏 "wikilink") [Category:MacOS遊戲](https://zh.wikipedia.org/wiki/Category:MacOS遊戲 "wikilink") [Category:Mac_OS遊戲](https://zh.wikipedia.org/wiki/Category:Mac_OS遊戲 "wikilink") [Category:电子竞技游戏](https://zh.wikipedia.org/wiki/Category:电子竞技游戏 "wikilink") [Category:后传电子游戏](https://zh.wikipedia.org/wiki/Category:后传电子游戏 "wikilink") [Category:有资料片的游戏](https://zh.wikipedia.org/wiki/Category:有资料片的游戏 "wikilink") [Category:即時戰略遊戲](https://zh.wikipedia.org/wiki/Category:即時戰略遊戲 "wikilink") [Category:官方简体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方简体中文化游戏 "wikilink")
 
 1.  <https://www.eurogamer.net/articles/news050104war3>

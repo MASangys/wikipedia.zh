@@ -1,13 +1,8 @@
-**NBA年度最佳新秀**（）是每年由[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[NBA聯盟頒發給](../Page/NBA.md "wikilink")[例行賽表現最優秀的該年新秀之獎項](https://zh.wikipedia.org/wiki/NBA例行賽 "wikilink")，首次頒獎是在1953年，獎盃的全名為「[艾迪·戈特里布獎](https://zh.wikipedia.org/wiki/艾迪·戈特里布 "wikilink")」。
+**NBA年度最佳新秀**（）是每年由[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[NBA](../Page/NBA.md "wikilink")聯盟頒發給[例行賽表現最優秀的該年新秀之獎項](https://zh.wikipedia.org/wiki/NBA例行賽 "wikilink")，首次頒獎是在1953年，獎盃的全名為「[艾迪·戈特里布獎](https://zh.wikipedia.org/wiki/艾迪·戈特里布 "wikilink")」。
 
 ## 歷屆最佳新秀
 
-[Wilt_Chamberlain3.jpg](https://zh.wikipedia.org/wiki/File:Wilt_Chamberlain3.jpg "fig:Wilt_Chamberlain3.jpg")奪得的最佳新秀獎，他的新秀球季便有每場平均37.6分的成績。\]\]
-[Kareem_Abdul_Jabbar_crop.jpg](https://zh.wikipedia.org/wiki/File:Kareem_Abdul_Jabbar_crop.jpg "fig:Kareem_Abdul_Jabbar_crop.jpg")在贏得最佳新秀獎\]\]
-[Larrybird.jpg](https://zh.wikipedia.org/wiki/File:Larrybird.jpg "fig:Larrybird.jpg")在贏得最佳新秀獎\]\]
-[Michael_Jordan.jpg](https://zh.wikipedia.org/wiki/File:Michael_Jordan.jpg "fig:Michael_Jordan.jpg")在贏得最佳新秀獎\]\]
-[Allen_Iverson,_Denver_Nuggets.jpg](https://zh.wikipedia.org/wiki/File:Allen_Iverson,_Denver_Nuggets.jpg "fig:Allen_Iverson,_Denver_Nuggets.jpg")在贏得最佳新秀獎\]\]
-[LebronFT2.jpg](https://zh.wikipedia.org/wiki/File:LebronFT2.jpg "fig:LebronFT2.jpg")在贏得最佳新秀獎\]\]
+[Wilt_Chamberlain3.jpg](https://zh.wikipedia.org/wiki/File:Wilt_Chamberlain3.jpg "fig:Wilt_Chamberlain3.jpg")奪得的最佳新秀獎，他的新秀球季便有每場平均37.6分的成績。\]\] [Kareem_Abdul_Jabbar_crop.jpg](https://zh.wikipedia.org/wiki/File:Kareem_Abdul_Jabbar_crop.jpg "fig:Kareem_Abdul_Jabbar_crop.jpg")在贏得最佳新秀獎\]\] [Larrybird.jpg](https://zh.wikipedia.org/wiki/File:Larrybird.jpg "fig:Larrybird.jpg")在贏得最佳新秀獎\]\] [Michael_Jordan.jpg](https://zh.wikipedia.org/wiki/File:Michael_Jordan.jpg "fig:Michael_Jordan.jpg")在贏得最佳新秀獎\]\] [Allen_Iverson,_Denver_Nuggets.jpg](https://zh.wikipedia.org/wiki/File:Allen_Iverson,_Denver_Nuggets.jpg "fig:Allen_Iverson,_Denver_Nuggets.jpg")在贏得最佳新秀獎\]\] [LebronFT2.jpg](https://zh.wikipedia.org/wiki/File:LebronFT2.jpg "fig:LebronFT2.jpg")在贏得最佳新秀獎\]\]
 
 |    |                                                                        |
 | -- | ---------------------------------------------------------------------- |
@@ -665,10 +660,6 @@
 
 ## 資料來源
 
-[Category:籃球紀錄及統計數據](https://zh.wikipedia.org/wiki/Category:籃球紀錄及統計數據 "wikilink")
-[Category:职业列表](https://zh.wikipedia.org/wiki/Category:职业列表 "wikilink")
-[Category:NBA獎項](https://zh.wikipedia.org/wiki/Category:NBA獎項 "wikilink")
+[Category:籃球紀錄及統計數據](https://zh.wikipedia.org/wiki/Category:籃球紀錄及統計數據 "wikilink") [Category:职业列表](https://zh.wikipedia.org/wiki/Category:职业列表 "wikilink") [Category:NBA獎項](https://zh.wikipedia.org/wiki/Category:NBA獎項 "wikilink")
 
-1.  \[<http://m.startribune.com/sports/wolves/309936841.html?interstitial=true>|
-    Karl-Anthony Towns taken No.1 by Wolves; Tyus Jones acquired in
-    trade with Cavaliers\], *Star Tribune*, June 26, 2015
+1.  \[<http://m.startribune.com/sports/wolves/309936841.html?interstitial=true>| Karl-Anthony Towns taken No.1 by Wolves; Tyus Jones acquired in trade with Cavaliers\], *Star Tribune*, June 26, 2015

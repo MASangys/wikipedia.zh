@@ -1,6 +1,4 @@
-**SQ3R**方法是一種提升研習能力的方法，為[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[俄亥俄州州立大學](https://zh.wikipedia.org/wiki/俄亥俄州州立大學 "wikilink")[心理學教授羅賓遜](https://zh.wikipedia.org/wiki/心理學 "wikilink")（）所設計的一套有效讀書方法，於1946年在他的著作*Effective
-Study*有所提及，主要用於精讀課文\[1\]\[2\] \[3\]
-。“SQ3R”來自以下五個英語詞語的字首，即：綜覽（Survey）、發問（Question）、閱讀（Read）、背誦（Recite）、複習（Review）。
+**SQ3R**方法是一種提升研習能力的方法，為[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[俄亥俄州州立大學](https://zh.wikipedia.org/wiki/俄亥俄州州立大學 "wikilink")[心理學教授羅賓遜](https://zh.wikipedia.org/wiki/心理學 "wikilink")（）所設計的一套有效讀書方法，於1946年在他的著作*Effective Study*有所提及，主要用於精讀課文\[1\]\[2\] \[3\] 。“SQ3R”來自以下五個英語詞語的字首，即：綜覽（Survey）、發問（Question）、閱讀（Read）、背誦（Recite）、複習（Review）。
 
 ## 綜覽
 
@@ -8,7 +6,7 @@ Study*有所提及，主要用於精讀課文\[1\]\[2\] \[3\]
 
 ## 發問
 
-發問（，為時不超過半分鐘）：主要利用每個章節的標題和[六何法來對要研習的題目自行擬定問題](../Page/六何法.md "wikilink")。
+發問（，為時不超過半分鐘）：主要利用每個章節的標題和[六何法](../Page/六何法.md "wikilink")來對要研習的題目自行擬定問題。
 
 ## 閱讀
 
@@ -38,7 +36,6 @@ Study*有所提及，主要用於精讀課文\[1\]\[2\] \[3\]
 
 [Category:學習](https://zh.wikipedia.org/wiki/Category:學習 "wikilink")
 
-1.  Robinson, Francis Pleasant. (1970年) Effective study (4th ed.). New
-    York: Harper & Row.
+1.  Robinson, Francis Pleasant. (1970年) Effective study (4th ed.). New York: Harper & Row.
 2.
 3.

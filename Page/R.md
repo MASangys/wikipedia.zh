@@ -1,5 +1,4 @@
-[Half_r.png](https://zh.wikipedia.org/wiki/File:Half_r.png "fig:Half_r.png")\]\]
-**R**，**r**是[拉丁字母中的第](../Page/拉丁字母.md "wikilink")18个[字母](../Page/字母.md "wikilink")。
+[Half_r.png](https://zh.wikipedia.org/wiki/File:Half_r.png "fig:Half_r.png")\]\] **R**，**r**是[拉丁字母](../Page/拉丁字母.md "wikilink")中的第18个[字母](../Page/字母.md "wikilink")。
 
 R通常在語言中的發音屬於[流音](../Page/流音.md "wikilink")[輔音](https://zh.wikipedia.org/wiki/輔音 "wikilink")，不過在歐洲，不同的語言之間存在着許多不一樣的發音方式。隨著[印刷術和書寫方式的演變](https://zh.wikipedia.org/wiki/印刷術 "wikilink")，曾經有一段時間R存在著一個變體叫做[半r](../Page/半r.md "wikilink")，今日已經隨著時間與[長s一同消失在語言體系了](https://zh.wikipedia.org/wiki/長s "wikilink")。
 
@@ -11,7 +10,7 @@ R通常在語言中的發音屬於[流音](../Page/流音.md "wikilink")[輔音]
   - [北約音標字母以Romeo表示](https://zh.wikipedia.org/wiki/北約音標字母 "wikilink")。
   - [德文字母表以Richard表示](https://zh.wikipedia.org/wiki/德文 "wikilink")。
   - [商業的](https://zh.wikipedia.org/wiki/商業 "wikilink")「」代表[註冊商標](https://zh.wikipedia.org/wiki/註冊商標 "wikilink")。
-  - [貨幣的](../Page/貨幣.md "wikilink")「₨」表示[盧比](https://zh.wikipedia.org/wiki/盧比 "wikilink")。
+  - [貨幣](../Page/貨幣.md "wikilink")的「₨」表示[盧比](https://zh.wikipedia.org/wiki/盧比 "wikilink")。
   - [醫學的](https://zh.wikipedia.org/wiki/醫學 "wikilink")「℞」表示處方箋，也可寫作[Rx](https://zh.wikipedia.org/wiki/Rx "wikilink")。
 
 ## 各语言中r的发音方式
@@ -49,9 +48,9 @@ R通常在語言中的發音屬於[流音](../Page/流音.md "wikilink")[輔音]
 
 ### 其他字母中的相近字母
 
-  - （[希腊字母Rho](../Page/希腊字母.md "wikilink")）
+  - （[希腊字母](../Page/希腊字母.md "wikilink")Rho）
 
-  - （[西里尔字母Er](../Page/西里尔字母.md "wikilink")）
+  - （[西里尔字母](../Page/西里尔字母.md "wikilink")Er）
 
 ### 与R相似但无任何关系的字母
 

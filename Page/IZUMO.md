@@ -1,7 +1,4 @@
-《**IZUMO**》是日本[Studio
-e.go\!公司的](../Page/Studio_e.go!.md "wikilink")[角色扮演類型](https://zh.wikipedia.org/wiki/角色扮演 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")，於2001年12月21日發售[CD-ROM版](../Page/CD-ROM.md "wikilink")\[1\]，2002年2月22日發售DVD-ROM版。該遊戲後來移植到[Dreamcast及](../Page/Dreamcast.md "wikilink")[PlayStation
-2上](../Page/PlayStation_2.md "wikilink")。\[2\]後來改編為共6集的同名[成人動畫](../Page/成人動畫.md "wikilink")，由Milky負責製作發售。\[3\]Studio
-e.go\!於2004年7月30日發售續作《[IZUMO2](../Page/IZUMO2.md "wikilink")》的[DVD-ROM版附送前作的完全版](https://zh.wikipedia.org/wiki/DVD-ROM "wikilink")，內容主要是新增劇情和CG。「IZUMO」的名稱由於日本古代地名[出雲國](../Page/出雲國.md "wikilink")。
+《**IZUMO**》是日本[Studio e.go\!公司的](../Page/Studio_e.go!.md "wikilink")[角色扮演類型](https://zh.wikipedia.org/wiki/角色扮演 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")，於2001年12月21日發售[CD-ROM](../Page/CD-ROM.md "wikilink")版\[1\]，2002年2月22日發售DVD-ROM版。該遊戲後來移植到[Dreamcast](../Page/Dreamcast.md "wikilink")及[PlayStation 2上](../Page/PlayStation_2.md "wikilink")。\[2\]後來改編為共6集的同名[成人動畫](../Page/成人動畫.md "wikilink")，由Milky負責製作發售。\[3\]Studio e.go\!於2004年7月30日發售續作《[IZUMO2](../Page/IZUMO2.md "wikilink")》的[DVD-ROM版附送前作的完全版](https://zh.wikipedia.org/wiki/DVD-ROM "wikilink")，內容主要是新增劇情和CG。「IZUMO」的名稱由於日本古代地名[出雲國](../Page/出雲國.md "wikilink")。
 
 ## 故事內容
 
@@ -26,8 +23,7 @@ e.go\!於2004年7月30日發售續作《[IZUMO2](../Page/IZUMO2.md "wikilink")�
     與塔馬光一行人相遇後，在多場戰鬥與日常生活當中逐漸產生變化，讓她從純粹的戰巫女變得擁有普通女孩子的一面，官方結局中最後與塔馬光修成正果，兩人的女兒則在續作《[IZUMO2](../Page/IZUMO2.md "wikilink")》中登場。
   - 塔馬美由紀（CV：桃月らみあ）
     光的妹妹，嫉妒心相當強的兄控，與光並沒有真正的血緣關係，知道這件事的只有她與六介而已。相較於光所學習的居合道，她從祖父身上則是習得以空手戰鬥為主的古武術。
-    很喜歡唱卡拉OK卻是重度音痴，由於家中牆壁很薄的關係因此光每晚深受其害，在學園放送室裡唱「Promist
-    Land」這首歌時則引發麥克風故障、窗戶玻璃裂開、外頭飛過的鳥兒不支墜落等等災害。
+    很喜歡唱卡拉OK卻是重度音痴，由於家中牆壁很薄的關係因此光每晚深受其害，在學園放送室裡唱「Promist Land」這首歌時則引發麥克風故障、窗戶玻璃裂開、外頭飛過的鳥兒不支墜落等等災害。
     在一行人落入根之國時單獨與其他人分開而失蹤，直到天照施行「返魂儀式」，準備將一行人送回原本世界時，突然與須佐之男一同出現在眾人面前。
 
 ### 其他角色
@@ -187,32 +183,16 @@ e.go\!於2004年7月30日發售續作《[IZUMO2](../Page/IZUMO2.md "wikilink")�
 
 ## 外部連結
 
-  - [Studio
-    e.go\!](https://web.archive.org/web/20110722095531/http://www.studio-ego.co.jp/)取自[網際網路檔案館](https://zh.wikipedia.org/wiki/網際網路檔案館 "wikilink")
+  - [Studio e.go\!](https://web.archive.org/web/20110722095531/http://www.studio-ego.co.jp/)取自[網際網路檔案館](https://zh.wikipedia.org/wiki/網際網路檔案館 "wikilink")
   - [Studio e･go\!](http://www.studio-ego.jp/)
-  - [GN
-    Software遊戲官網](https://web.archive.org/web/20120306074508/http://www.goodnavigate.com/GN/products/IZUMO/)取自網際網路檔案館
-  - [IZUMO系列人物對照日本眾神
-    -神名事典](http://forum.gch.com.tw/index.php?ch=monos&cat=122&pages=2&orderby=id&sid=1201)
+  - [GN Software遊戲官網](https://web.archive.org/web/20120306074508/http://www.goodnavigate.com/GN/products/IZUMO/)取自網際網路檔案館
+  - [IZUMO系列人物對照日本眾神 -神名事典](http://forum.gch.com.tw/index.php?ch=monos&cat=122&pages=2&orderby=id&sid=1201)
   - [IZUMO系列對照古事記之段落概要](http://blog.xuite.net/yoketsu/izumo/47965494)
 
-[Category:Studio_e.go\!](https://zh.wikipedia.org/wiki/Category:Studio_e.go! "wikilink")
-[Category:2001年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2001年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:Dreamcast遊戲](https://zh.wikipedia.org/wiki/Category:Dreamcast遊戲 "wikilink")
-[Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink")
-[Category:2003年日本成人動畫](https://zh.wikipedia.org/wiki/Category:2003年日本成人動畫 "wikilink")
-[Category:日本神話題材作品](https://zh.wikipedia.org/wiki/Category:日本神話題材作品 "wikilink")
-[Category:四象題材作品](https://zh.wikipedia.org/wiki/Category:四象題材作品 "wikilink")
+[Category:Studio_e.go\!](https://zh.wikipedia.org/wiki/Category:Studio_e.go! "wikilink") [Category:2001年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2001年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:Dreamcast遊戲](https://zh.wikipedia.org/wiki/Category:Dreamcast遊戲 "wikilink") [Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink") [Category:2003年日本成人動畫](https://zh.wikipedia.org/wiki/Category:2003年日本成人動畫 "wikilink") [Category:日本神話題材作品](https://zh.wikipedia.org/wiki/Category:日本神話題材作品 "wikilink") [Category:四象題材作品](https://zh.wikipedia.org/wiki/Category:四象題材作品 "wikilink")
 
 1.  [IZUMO](http://www.getchu.com/soft.phtml?id=9194)Getchu.com
 2.  [Izumo](https://vndb.org/v618)The Visual Novel Database
-3.  [Izumo
-    (OAV 2003)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4922)[Anime
-    News
-    Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")
+3.  [Izumo (OAV 2003)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4922)[Anime News Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")
 4.  [IZUMO](http://erogetrailers.com/soft/3676)ErogeTrailers
-5.  [IZUMO](http://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=1799#ad)ErogameScape
-    -エロゲー批評空間-
+5.  [IZUMO](http://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=1799#ad)ErogameScape -エロゲー批評空間-
